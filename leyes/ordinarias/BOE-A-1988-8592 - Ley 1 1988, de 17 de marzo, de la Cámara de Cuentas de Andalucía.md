@@ -1,0 +1,443 @@
+# Ley 1/1988, de 17 de marzo, de la Cámara de Cuentas de Andalucía.
+
+- Identificador BOE: `BOE-A-1988-8592`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1988-8592
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+A todos los que la presente vieren, sabed: Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La Constitución Española de 1978 consagra la organización territorial del Estado en Comunidades Autónomas dotadas de autonomía financiera para el desarrollo y ejecución de sus competencias.
+El artículo 63 de la Ley Orgánica 6/1981, de 30 de diciembre, del Estatuto de Autonomía para Andalucía, atribuye al Parlamento el control presupuestario de la Comunidad Autónoma.
+Por su parte, el artículo 70 de la referida Ley Orgánica establece que el control económico y presupuestario de la Comunidad Autónoma se ejercerá por el Tribunal de Cuentas, en los términos de la Ley.
+No contempla, pues, nuestro Estatuto la existencia de un órgano técnico de control externo que, dependiendo directamente del Parlamento de Andalucía, auxilie a éste en su labor de controlar el ejecutivo en materia económica-presupuestaria. Pero tal silencio estatutario no excluye, ni se opone a su creación, ya que la Comunidad Autónoma de Andalucía tiene competencia exclusiva, entre otras materias, sobre la organización y estructura de sus instituciones de autogobierno, de acuerdo con el artículo 13 del Estatuto de Autonomía.
+Extraestatutariamente encuentra cobertura jurídica en la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, al disponer en su artículo 22 que, con independencia del Tribunal de Cuentas, los sistemas e Instituciones de control pueden crearse en función de las previsiones estatutarias o a través de una Ley que los autorice en el territorio comunitario.
+El órgano cuya creación se propone es denominado Cámara de Cuentas de Andalucía. Se ha evitado el nombre de Tribunal para evitar confusiones y, además, para dejar clara su función esencialmente fiscalizadora. Sin embargo, la Ley contempla, de acuerdo con lo prevenido en la legislación específica del Tribunal de Cuentas, la posibilidad de que la Cámara de Cuentas pueda llevar a cabo la instrucción de determinados procedimientos jurisdiccionales.
+La definición y concreción de la función fiscalizadora se establece en los términos que hoy se consideran de general aceptación para este tipo de organismos, respondiendo al planteamiento de la conocida Declaración de Lima del Organismo Internacional de Entidades Fiscalizadoras Superiores.
+En la presente Ley se recoge, además de la dependencia directa del Parlamento, el ámbito de las competencias de la Cámara de Cuentas, que recae sobre todos los fondos públicos de la Comunidad Autónoma y se extiende a todo el sector público andaluz, incluyendo en él, bajo el término Instituciones, a las Universidades públicas de su territorio. Igualmente se consideran incluidas dentro del sector público andaluz las Corporaciones Locales en las materias transferidas o delegadas de acuerdo con nuestro Estatuto de Autonomía, siendo, pues, destinatarias de los informes que la Cámara de Cuentas emita en el ejercicio de sus funciones fiscalizadoras.
+Se regula igualmente en esta Ley el procedimiento que la Cámara de Cuentas ha de seguir en sus actuaciones, sujetándose las mismas a un programa previo que la propia Cámara de Cuentas confeccionará, y se establecen los mecanismos o instrumentos necesarios para garantizar su eficacia, así como la composición y atribuciones de sus órganos.
+Por las implicaciones que las conclusiones de la fiscalización puedan tener, se ha tratado de establecer las máximas garantías de objetividad y racionalidad. Así, respondiendo a este propósito, se establece la necesidad de votación en el Parlamento, con mayoría cualificada, para la designación de los Consejeros. Designación que habrá de recaer en personas de reconocida competencia. En esta Ley se establece también la incompatibilidad absoluta de los Consejeros, con la única lógica excepción de la administración de su propio patrimonio, enumerándose las circunstancias que motivan su abstención y recusación.
+Se fijan asimismo los plazos para la elección de los Consejeros, Consejero Mayor, así como el de aprobación del Reglamento de la Ley.
+Es de resaltar, en fin, la independencia funcional con que se dota a la Institución, sin perjuicio de su dependencia directa del Parlamento de Andalucía, posibilitando con ello una elasticidad de funcionamiento que permita adaptarse a las normas de la CEE que en el futuro le afecten.
+
+## TÍTULO PRELIMINAR
+
+Definición, ámbito de actuación, competencias y funciones
+
+### Art 1
+
+Art. 1.
+Por la presente Ley se crea la Cámara de Cuentas de Andalucía, órgano técnico dependiente del Parlamento de Andalucía, al que, sin perjuicio de las competencias que la Constitución atribuye al Tribunal de Cuentas, corresponde la fiscalización externa de la gestión económica, financiera y contable de los fondos públicos de la Comunidad Autónoma de Andalucía.
+
+### Art 2
+
+Art. 2.
+1. A los efectos de esta Ley, componen el sector público de la Comunidad Autónoma de Andalucía:
+a) La Junta de Andalucía, sus Organismos Autónomos, sus Instituciones y empresas.
+b) Las Corporaciones Locales que forman parte del territorio de la Comunidad Autónoma, así como los Organismos Autónomos y Empresas Públicas de ellas dependientes.
+c) Las Universidades Públicas de Andalucía.
+d) Cuantos Organismos y Entidades sean incluidos por norma legal.
+2. Son fondos públicos todos los gestionados por el Sector Público Andaluz, así como las subvenciones, créditos, avales y todas las ayudas, cualquiera que sea su naturaleza, concedidas por los órganos del Sector Público a cualquier persona física o jurídica.
+Se modifica por el art. único de la Ley autonómica 4/2001, de 24 de mayo. Ref. BOE-A-2001-12263.
+ Se declara el levantamiento de la suspensión de la vigencia y aplicación del apartado 1.b), por auto del TC de 22 de noviembre de 1988. Ref. BOE-A-1988-27697.
+ Téngase en cuenta que se declara el desistimiento del recurrente por auto del TC 21 de marzo de 1991. Ref. BOE-A-1991-7955.
+ Se declara la suspensión de la vigencia y aplicación del apartado 1.b) desde el 14 de junio de 1988 para las partes en el proceso y desde el 4 de julio de 1988 para los terceros, por providencia del TC de 20 de junio de 1988, que admite a trámite el recurso de inconstitucionalidad 1105/1988. Ref. BOE-A-1988-16603.
+
+### Art 3
+
+Art. 3.
+1. Corresponde a la Cámara de Cuentas de Andalucía el ejercicio de las siguientes competencias:
+a) La regulación de cuanto afecta a su gobierno, organización y personal a su servicio, con la siguiente particularidad:
+La determinación de la estructura orgánica del personal al servicio de la Cámara, así como de sus retribuciones, corresponderá a la Mesa del Parlamento, sin perjuicio de las normas generales que puedan serle de aplicación.
+b) La elaboración del proyecto de su propio presupuesto, que se integrará en el general de la Comunidad Autónoma como Sección independiente, para que sea sometido a la aprobación del Parlamento de Andalucía.
+2. El régimen del patrimonio y de contratación de la Cámara de Cuentas, ejercido a tráves de sus propios órganos, será el que rija para la Administración de la Junta de Andalucía.
+
+### Art 4
+
+Art. 4.
+1. Son funciones propias de la Cámara de Cuentas de Andalucía, que ejercerá con total independencia:
+a) Fiscalizar la actividad económico-financiera del sector público de Andalucía, velando por la legalidad y eficiencia de cuantos actos den lugar al reconocimiento de derechos y obligaciones de contenido económico, así como de los ingresos y pagos que de ellos se deriven y, en general, de la recaudación, inversión o aplicación de los fondos públicos.
+En todo caso, a la Cámara de Cuentas de Andalucía corresponde la fiscalización de las subvenciones, créditos, avales u otras ayudas de los órganos del sector público andaluz, percibidas por personas físicas o jurídicas.
+b) Fiscalizar el grado de cumplimiento de los objetivos propuestos en los diversos programas presupuestarios y en las memorias de las subvenciones, créditos, avales u otras ayudas que se otorguen a personas físicas o jurídicas.
+c) Asesorar al Parlamento de Andalucía en la materia propia de sus competencias.
+d) Fiscalizar especialmente los contratos administrativos celebrados por los componentes del sector público.
+2. Desarrollar las funciones de fiscalización que, por delegación, le encomiende el Tribunal de Cuentas.
+3. La Consejería de Hacienda trasladará a la Cámara de Cuentas todos los contratos que se celebren por la Junta de Andalucía, cuyo importe inicial exceda de 25.000.000 de pesetas, para su examen y toma de razón. Dichos contratos deberán ser enviados a la Consejería de Hacienda por los órganos de contratación.
+Sin perjuicio de la facultad de la Cámara de Cuentas para recabar todos los antecedentes que estime necesario, los citados órganos de contratación deberán acompañar a los contratos originales, dentro de los tres meses siguientes a su adjudicación, copia o fotocopia certificada de las actuaciones que se especifican en el artículo 18 del Reglamento General de Contratación del Estado.
+Si la Cámara de Cuentas apreciase una manifiesta infracción de Ley con grave perjuicio para el interés público, dará inmediato conocimiento al Parlamento y al Consejo de Gobierno por medio de un informe extraordinario.
+
+## TÍTULO I
+
+Procedimientos de las actuaciones
+
+## CAPÍTULO I
+
+Programación e iniciación
+
+### Art 5
+
+Art. 5.
+La Cámara de Cuentas deberá realizar sus funciones según un programa previo confeccionado por ella misma, de acuerdo con su presupuesto y de cuya ejecución pueda formarse juicio suficiente sobre la calidad y regularidad de la gestión económico-financiera del sector público andaluz. Esta actividad no podrá verse mermada por el derecho de petición que corresponde al Parlamento, al Consejo de Gobierno o a las Entidades Locales.
+
+### Art 6
+
+Art. 6.
+1. La iniciativa fiscalizadora corresponde a la Cámara de Cuentas y al Parlamento de Andalucía.
+2. No obstante lo dispuesto en el apartado anterior, podrán interesar igualmente la actuación fiscalizadora de la Cámara de Cuentas o la emisión de informe:
+a) El Gobierno de la Comunidad Autónoma.
+b) Las Entidades Locales, previo acuerdo del respectivo Pleno.
+3. La iniciativa a la que se refiere el apartado segundo de este artículo habrá de ser realizada a través de la Comisión de Hacienda y Presupuestos del Parlamento de Andalucía, que se pronunciará sobre la propuesta.
+Se declara el levantamiento de la suspensión de la vigencia y aplicación del apartado 1.b), por auto del TC de 22 de noviembre de 1988. Ref. BOE-A-1988-27697.
+ Téngase en cuenta que se declara el desistimiento del recurrente por auto del TC 21 de marzo de 1991. Ref. BOE-A-1991-7955.
+ Se declara la suspensión de la vigencia y aplicación del apartado 1.b) desde el 14 de junio de 1988 para las partes en el proceso y desde el 4 de julio de 1988 para los terceros, por providencia del TC de 20 de junio de 1988, que admite a trámite el recurso de inconstitucionalidad 1105/1988. Ref. BOE-A-1988-16603.
+
+### Art 7
+
+Art. 7.
+La Cámara de Cuentas notificará a los Consejeros, Directores o responsables de los Servicios, dependencias y establecimientos en general que vayan a ser controlados, el inicio de las actuaciones fiscalizadoras con una antelación mínima de diez días.
+
+## CAPÍTULO II
+
+Ordenación
+
+### Art 8
+
+Art. 8.
+El ejercicio de la función fiscalizadora se realizará, con sometimiento al ordenamiento jurídico, por los procedimientos siguientes:
+a) Examen y comprobación de la Cuenta General Anual de la Junta de Andalucía a que se refieren los artículos 94 y siguientes de la Ley General 5/1983, de 19 de julio, de la Hacienda Pública de la Comunidad Autónoma.
+b) Examen y comprobación de las cuentas de las Corporaciones Locales.
+c) Examen y comprobación de las cuentas de las Universidades Públicas, así como de los Organismos Autónomos, Empresas Públicas y demás Instituciones o Entidades a que se refiere el artículo 2.1 de la presente Ley.
+d) Examen de las cuentas y documentos correspondientes a las ayudas concedidas por el Sector Público a personas físicas o jurídicas. Si fuera necesario, se realizará, en la contabilidad de los beneficiarios, las comprobaciones suficientes hasta ver qué cantidades, objeto de financiación, se han aplicado a las finalidades para las que fueron solicitadas.
+Se modifica por el art. único de la Ley autonómica 4/2001, de 24 de mayo. Ref. BOE-A-2001-12263.
+ Se declara el levantamiento de la suspensión de la vigencia y aplicación del apartado b), por auto del TC de 22 de noviembre de 1988. Ref. BOE-A-1988-27697.
+ Téngase en cuenta que se declara el desistimiento del recurrente por auto del TC 21 de marzo de 1991. Ref. BOE-A-1991-7955.
+ Se declara la suspensión de la vigencia y aplicación del apartado b) desde el 14 de junio de 1988 para las partes en el proceso y desde el 4 de julio de 1988 para los terceros, por providencia del TC de 20 de junio de 1988, que admite a trámite el recurso de inconstitucionalidad 1105/1988. Ref. BOE-A-1988-16603.
+
+### Art 9
+
+Art. 9.
+1. Para el mejor cumplimiento de sus funciones, la Cámara de Cuentas podrá requerir la colaboración y cooperación de los Entes mencionados en el artículo 2.º, quienes vendrán obligados a prestarla.
+2. La Cámara de Cuentas podrá:
+a) Exigir de cuantos Organismos y Entidades integran el sector público andaluz, los datos, informes, documentos o antecedentes que considere necesarios.
+b) Inspeccionar y comprobar toda la documentación de las oficinas públicas, libros, metálicos y valores, dependencias, depósitos, almacenes y, en general, cuantos documentos, establecimientos y bienes considere necesarios.
+En los casos contemplados en las letras a) y b) de este apartado segundo no será de aplicación el plazo previsto en el artículo 7.º para las actuaciones fiscalizadoras.
+
+### Art 10
+
+Art. 10.
+Cuando la información o documentación solicitada no sea atendida o se hayan incumplido los plazos fijados, la Cámara de Cuentas, además de poner en conocimiento del Parlamento de Andalucía la falta de colaboración de los obligados a prestarla, podrá adoptar las siguientes medidas:
+a) Requerir conminatoriamente, por escrito, con concesión de un nuevo plazo perentorio y comunicación simultánea a los superiores de los obligados a colaborar, proponiendo, si se considera oportuno, la exigencia de responsabilidades.
+b) Proponer a quien corresponda en cada caso, la exigencia de las responsabilidades en que se hubiera incurrido.
+c) Comunicar el incumplimiento, si no fuese respetado el plazo perentorio concedido, a los órganos de gobierno de la Comunidad Autónoma o, en su caso, a la Corporación Local correspondiente.
+
+## CAPÍTULO III
+
+Instrucción
+
+### Art 11
+
+Art. 11.
+1. A los efectos previstos en el artículo 8, las cuentas habrán de presentarse a la Cámara de Cuentas, en las fechas siguientes:
+a) La General de la Junta de Andalucía, antes del 31 de octubre inmediato posterior al ejercicio económico a que se refiera.
+b) Las cuentas de las corporaciones locales se presentarán dentro del mes siguiente a su aprobación por los respectivos plenos y, en todo caso, antes del primero de noviembre inmediato posterior al ejercicio económico a que se refieran.
+c) Las cuentas de las universidades públicas se presentarán dentro del mes siguiente a su aprobación por los respectivos consejos sociales.
+d) Igualmente, se presentarán en el plazo de un mes, desde su aprobación por los órganos competentes para ello, las cuentas de los organismos autónomos, empresas públicas y demás instituciones o entidades a que se refiere el artículo 2.1 de la presente ley, siempre que no deban rendirse de manera consolidada con las cuentas de las Administraciones de las que dependan y que se mencionan en este mismo artículo.
+2. La Cámara de Cuentas procederá al examen y comprobación de la Cuenta General de la Junta de Andalucía, dentro del plazo de tres meses a partir de la fecha en que haya presentado.
+Se modifica el apartado 1 por la disposición final 2 de la Ley 8/2025, de 22 de diciembre. Ref. BOE-A-2026-945
+ Se modifica el apartado 1 por la disposición final 6 de la Ley 3/2020, de 28 de diciembre. Ref. BOE-A-2021-797
+ Se modifica por el art. único de la Ley autonómica 4/2001, de 24 de mayo. Ref. BOE-A-2001-12263.
+ Se declara el levantamiento de la suspensión de la vigencia y aplicación del apartado 1.b), por auto del TC de 22 de noviembre de 1988. Ref. BOE-A-1988-27697.
+ Téngase en cuenta que se declara el desistimiento del recurrente por auto del TC 21 de marzo de 1991. Ref. BOE-A-1991-7955.
+ Se declara la suspensión de la vigencia y aplicación del apartado 1.b) desde el 14 de junio de 1988 para las partes en el proceso y desde el 4 de julio de 1988 para los terceros, por providencia del TC de 20 de junio de 1988, que admite a trámite el recurso de inconstitucionalidad 1105/1988. Ref. BOE-A-1988-16603.
+
+### Art 12
+
+Art. 12.
+1. El resultado de la actividad fiscalizadora de la Cámara de Cuentas se expondrá por medio de informes anuales o especiales, que serán elevados al Parlamento de Andalucía, remitidos al Tribunal de Cuentas y publicados en el «Boletín Oficial de la Junta de Andalucía».
+2. Cuando los informes se refieran a la gestión económica y financiera de las Corporaciones Locales, se dará traslado, además de al Parlamento de Andalucía y al Tribunal de Cuentas, a las propias Corporaciones, a fin de que sus respectivos Plenos los conozcan y, en su caso, adopten las medidas que procedan.
+3. Si en el ejercicio de su función fiscalizadora la Cámara de Cuentas advirtiera la existencia de indicios de responsabilidad contable, lo trasladará sin dilación al Tribunal de Cuentas, a los efectos de su posible enjuiciamiento.
+La instrucción de los procedimientos jurisdiccionales correspondientes podrá ser efectuada por la Cámara de Cuentas de acuerdo con lo prevenido en la legislación específica del Tribunal de Cuentas.
+Se declara el levantamiento de la suspensión de la vigencia y aplicación del apartado 2, por auto del TC de 22 de noviembre de 1988. Ref. BOE-A-1988-27697.
+ Téngase en cuenta que se declara el desistimiento del recurrente por auto del TC 21 de marzo de 1991. Ref. BOE-A-1991-7955.
+ Se declara la suspensión de la vigencia y aplicación del apartado 2 desde el 14 de junio de 1988 para las partes en el proceso y desde el 4 de julio de 1988 para los terceros, por providencia del TC de 20 de junio de 1988, que admite a trámite el recurso de inconstitucionalidad 1105/1988. Ref. BOE-A-1988-16603.
+
+### Art 13
+
+Art. 13.
+Previamente a la emisión de cualquier informe definitivo, la Cámara de Cuentas comunicará a los organismos controlados el resultado de su actuación. Los referidos organismos, en el plazo que se le fije en la comunicación, deberán manifestarse sobre los reparos y recomendaciones recogidos en el informe provisional de la Cámara de Cuentas y sobre las medidas que hubieran adoptado o tuvieran previsto adoptar.
+
+## CAPÍTULO IV
+
+Conclusión
+
+### Art 14
+
+Art. 14.
+Los informes emitidos por los órganos de la Cámara de Cuentas tras las comunicaciones referidas en el artículo anterior, y una vez aprobados por su Pleno, pondrán fin a cada actuación.
+En dichos informes se hará constar:
+a) La observancia de la legalidad reguladora de la actividad económico-financiera del sector público y de los principios contables aplicables.
+b) El grado de cumplimiento de los objetivos y si la gestión económico-financiera se ha ajustado a los principios de economía y eficacia.
+c) La existencia, en su caso, de infracciones, abusos o prácticas irregulares.
+d) Las medidas que, en su caso, se proponen para la mejora de la gestión económica y financiera de las Entidades fiscalizadas.
+
+### Art 15
+
+Art. 15.
+El informe anual que la Cámara de Cuentas debe remitir al Parlamento de Andalucía, en el plazo que se indica en el artículo 11, contendrá, además del análisis de la Cuenta General de la Junta de Andalucía, el análisis de la gestión económico-financiera de cuantas Entidades, Organismos u órganos sin personalidad jurídica hayan sido controlados en el ejercicio a que se refiera, así como de las medidas que, en su caso, hubiesen adoptado los órganos competentes.
+
+## TÍTULO II
+
+Composición y atribuciones
+
+## CAPÍTULO I
+
+Órganos
+
+### Art 16
+
+Art. 16.
+La Cámara de Cuentas estará integrada por los siguientes órganos:
+a) El Pleno.
+b) La Comisión de Gobierno.
+c) La persona titular de la Presidencia.
+d) La persona titular de la Vicepresidencia.
+e) Los Consejeros.
+f) La Secretaría General.
+Se modifica por el art. único.1 de la Ley autonómica 3/2011, de 28 de abril. Ref. BOE-A-2011-8344.
+
+### Art 17
+
+Art. 17.
+1. El Pleno, como órgano colegiado de la Cámara de Cuentas, lo compondrán siete Consejeros, de entre los cuales serán elegidas la persona titular de la Presidencia y la persona titular de la Vicepresidencia.
+2. El Pleno no podrá constituirse ni actuar sin la asistencia de la persona titular de la Presidencia o de la persona titular de la Vicepresidencia. En todo caso, será necesaria la presencia de la mayoría de sus miembros para que quede válidamente constituido.
+3. Los acuerdos serán adoptados por mayoría de los asistentes y dirimirá los empates el voto de la persona titular de la Presidencia o de quien la sustituya.
+4. El Pleno se reunirá con la periodicidad que se considere necesaria y siempre que así lo estime la persona titular de la Presidencia o lo propongan tres de sus miembros.
+5. La convocatoria deberá ser acordada y notificada con una antelación mínima de cuarenta y ocho horas, salvo los casos de urgencia. A la convocatoria se acompañará el orden del día.
+6. No podrá ser objeto de acuerdo ningún asunto que no figure en el orden del día, salvo que estén presentes todos los miembros y sea declarada la urgencia del asunto por el voto favorable de la mayoría.
+7. En todo lo no previsto en esta Ley, el funcionamiento del Pleno se regirá por los preceptos contenidos en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Se modifica por el art. único.2 de la Ley autonómica 3/2011, de 28 de abril. Ref. BOE-A-2011-8344.
+ Se modifica por el art. único de la Ley autonómica 2/1996, de 17 de julio. Ref. BOE-A-1996-18754.
+
+### Art 18
+
+Art. 18.
+La Comisión de Gobierno estará formada por la persona titular de la Presidencia, por la persona titular de la Vicepresidencia y por otros dos Consejeros, designados por el Pleno.
+Se modifica por el art. único.3 de la Ley autonómica 3/2011, de 28 de abril. Ref. BOE-A-2011-8344.
+ Se modifica por el art. único de la Ley autonómica 2/1996, de 17 de julio. Ref. BOE-A-1996-18754.
+
+## CAPÍTULO II
+
+Atribuciones
+
+### Art 19
+
+Art. 19.
+Corresponden al Pleno de la Cámara de Cuentas de Andalucía las siguientes funciones:
+a) Aprobar cuantas disposiciones sean necesarias para el cumplimiento de los fines que se asignan a la Cámara de Cuentas por la presente Ley.
+b) Aprobar el proyecto de presupuesto de la propia Cámara de Cuentas.
+c) Aprobar los criterios y programas de actuación que han de observar los Consejeros y todo el personal al servicio de la Cámara, al objeto de unificar al máximo las actuaciones.
+d) Elegir de entre sus miembros a la persona titular de la Presidencia y a la persona titular de la Vicepresidencia.
+e) Nombrar el Secretario General.
+f) Aprobar los informes sobre las cuentas y la gestión económica y financiera del sector público andaluz, así como cualquier otro informe o memoria que haya de ser remitido a órganos externos a la cámara.
+g) La aprobación de las cuentas de su presupuesto que hayan de rendirse ante el Parlamento.
+h) Las demás funciones que le encomienda esta Ley y las normas que la desarrollen.
+Se modifica la letra d) por el art. único.4 de la Ley autonómica 3/2011, de 28 de abril. Ref. BOE-A-2011-8344.
+
+### Art 20
+
+Art. 20.
+A la Comisión de Gobierno corresponde:
+a) Ejercer la dirección superior del personal de la Cámara y la potestad disciplinaria.
+b) Aprobar las convocatorias de pruebas selectivas para el ingreso del personal.
+
+### Art 21
+
+Art. 21.
+A la persona titular de la Presidencia le corresponde:
+a) Representar a la Cámara de Cuentas de Andalucía.
+b) Convocar y presidir el Pleno de la Cámara y la Comisión de Gobierno, y dirigir sus deliberaciones, decidiendo con voto de calidad en caso de empate.
+c) Asignar a los Consejeros las tareas a desarrollar, de acuerdo con los programas de actuación que el Pleno apruebe.
+d) Autorizar, con su firma, los informes o memorias que hayan de remitirse al Parlamento, a los órganos rectores de las entidades del sector público andaluz o al Tribunal de Cuentas.
+e) Informar oralmente al Parlamento sobre la documentación remitida, y podrá, en todo caso, estar asistida por los Consejeros que hayan dirigido las funciones de control y por el personal de la Cámara que estime conveniente.
+f) Acordar los nombramientos de todo el personal al servicio de la Cámara.
+g) Cuanto concierne a la contratación, gobierno y administración en general de la Cámara y, en particular, autorizar los gastos propios de la misma y la contratación de obras, servicios, suministros y otras prestaciones necesarias para su funcionamiento.
+h) Decidir sobre cualquier otro asunto no atribuido expresamente a otros órganos de la Cámara de Cuentas y sobre aquellos que, siendo de la competencia del Pleno, hayan de resolverse con urgencia y esta no permita la convocatoria del mismo. De tales asuntos se dará cuenta inmediata al Pleno, al que se convocará para la ratificación de los mismos, si procede.
+Se modifica por el art. único 5 de la Ley autonómica 3/2011, de 28 de abril. Ref. BOE-A-2011-8344.
+
+### Art 21 bis
+
+Art. 21 bis.
+A la persona titular de la Vicepresidencia le corresponde:
+a) Sustituir a la persona titular de la Presidencia en caso de vacante, ausencia o enfermedad.
+b) Asistir a la persona titular de la Presidencia en las actuaciones de control de la Cámara de Cuentas.
+c) Colaborar con la persona titular de la Presidencia en la mejora de la planificación de los métodos de trabajo.
+d) Proponer a la persona titular de la Presidencia y al Pleno las medidas necesarias para la organización de los servicios comunes.
+e) Las demás funciones que, siendo competencia de la persona titular de la Presidencia, le sean delegadas por esta.
+Se añade por el art. único 6 de la Ley autonómica 3/2011, de 28 de abril. Ref. BOE-A-2011-8344.
+
+### Art 22
+
+Art. 22.
+A los Consejeros, como órganos unipersonales de la Cámara, les corresponde:
+a) Dirigir las actuaciones de control externo que les hayan sido asignadas.
+b) Elevar a la persona titular de la Presidencia los resultados de las fiscalizaciones realizadas para que, en su caso, sean aprobadas por el Pleno.
+c) Aprobar las propuestas que les formulen las unidades de fiscalización que de ellos dependan.
+d) Proponer los gastos que sean necesarios para el funcionamiento de los servicios que de ellos dependan.
+e) Las demás funciones que les fueren encomendadas por el Pleno de la Cámara, la Comisión de Gobierno o la persona titular de la Presidencia y puedan corresponderles con arreglo a lo dispuesto en la presente Ley.
+Se modifica por el art. único.7 de la Ley autonómica 3/2011, de 28 de abril. Ref. BOE-A-2011-8344.
+
+### Art 23
+
+Art. 23.
+1. El Secretario general dirigirá la Secretaría General.
+2. A la Secretaría General corresponderán las funciones propias de la organización y dirección de los servicios y específicamente:
+a) La redacción de las actas y la ejecución de los acuerdos del Pleno y de la Comisión de Gobierno.
+b) La elaboración del anteproyecto de presupuesto.
+c) La redacción del proyecto de Memoria anual.
+d) El asesoramiento jurídico al Pleno y a la Comisión de Gobierno.
+e) El ejercicio de la jefatura superior del personal al servicio de la Cámara de Cuentas, sin perjuicio de las competencias de la Comisión de Gobierno.
+f) La autorización, mediante firma, de todas las certificaciones que se expidan sobre los antecedentes que obren en la Cámara de Cuentas.
+g) La conservación y archivo de documentos.
+h) Cualquier otra función que le pueda ser asignada por el Pleno, la Comisión de Gobierno o la persona titular de la Presidencia.
+Se modifica el apartado 2.h) por el art. único.8 de la Ley autonómica 3/2011, de 28 de abril. Ref. BOE-A-2011-8344.
+
+## TÍTULO III
+
+Miembros de la Cámara y Personal a su servicio
+
+## CAPÍTULO I
+
+Miembros de la Cámara
+
+### Art 24
+
+Art. 24.
+1. Los Consejeros, en número de siete, serán designados por el Parlamento de Andalucía mediante votación y por mayoría de tres quintas partes de sus miembros, por un período de seis años, renovándose cada tres por tres y cuatro séptimas partes sucesivamente.
+Todos los grupos parlamentarios del Parlamento de Andalucía, con excepción del Grupo Mixto, tienen derecho, como mínimo, a que uno de los miembros elegidos proceda de su propuesta. En caso de que ello no fuera posible con arreglo a criterios de proporcionalidad pura, cederá un puesto la propuesta que, teniendo ya asegurada la elección de un Consejero, haya obtenido el resto menor en la aplicación de los citados criterios.
+No podrán ser designados Consejeros quienes el año inmediatamente anterior haya tenido a su cargo la gestión, inspección o intervención de los ingresos y gastos del sector público en Andalucía, ni quienes hayan sido perceptores de subvenciones o beneficiarios de avales o exenciones concedidas por cualquiera de los entes indicados en el artículo 2.
+2. La persona titular de la Presidencia será nombrada por el Presidente de la Junta de Andalucía, a propuesta del Pleno de la Cámara de Cuentas. Su mandato será de tres años y podrá ser reelegida.
+3. La persona titular de la Vicepresidencia será nombrada por el Pleno de la Cámara de Cuentas. Su mandato será de tres años y podrá ser reelegida.
+4. En los casos de vacante, ausencia o enfermedad de la persona titular de la Presidencia, la sustituirá la persona titular de la Vicepresidencia o, en ausencia de esta, el Consejero o Consejera de mayor antigüedad o, de ser esta igual, quien de esos Consejeros sea de mayor edad.
+Se modifica por el art. único.9 de la Ley autonómica 3/2011, de 28 de abril. Ref. BOE-A-2011-8344.
+ Se modifica el apartado 1 por el art. único de la Ley autonómica 2/1996, de 17 de julio. Ref. BOE-A-1996-18754.
+
+### Art 25
+
+Art. 25.
+1. Los Consejeros gozarán de independencia e inamovilidad. Serán elegidos entre personas de reconocida competencia profesional.
+2. Los Consejeros deberán abstenerse o podrán ser recusados cuando se dé alguna de las circunstancias siguientes:
+a) Tener interés personal en el asunto o en la Empresa, o mantener cuestión litigiosa pendiente o relación de servicio con algún interesado.
+b) Tener parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de los cuentadantes.
+c) Haber tenido a su cargo la administración, gestión, inspección o intervención de los ingresos o gastos objeto de fiscalización.
+d) Cualquier otra causa o circunstancia que, a juicio del Consejero afectado, pueda mermar su objetividad o independencia de criterio.
+
+### Art 26
+
+Art. 26.
+1. El ejercicio del cargo de Consejero será incompatible con cualquier otra actividad pública o privada, que no sea la administración de su propio patrimonio, así como con el desempeño de funciones directivas, ejecutivas o asesoras en Partidos Políticos, Centrales Sindicales, Organizaciones Empresariales y Colegios Profesionales.
+2. El nombramiento de un funcionario como Consejero implicará el pase del mismo a la situación administrativa de servicios especiales.
+
+### Art 27
+
+Art. 27.
+La persona titular de la Presidencia, la persona titular de la Vicepresidencia y los Consejeros no podrán ser cesados en sus cargos sino por terminación de su mandato, renuncia aceptada por el Parlamento de Andalucía, incapacidad, incompatibilidad sobrevenida o por haber incurrido en responsabilidad disciplinaria, que se producirá por incumplimiento grave de los deberes del cargo o por haber sido declarados, en virtud de sentencia firme, responsables civilmente por dolo o condenados por delito culposo o doloso.
+Se modifica por el art. único.10 de la Ley autonómica 3/2011, de 28 de abril. Ref. BOE-A-2011-8344.
+
+### Art 28
+
+Art. 28.
+La regulación del procedimiento a seguir en cada uno de los supuestos de cese así como el órgano u órganos que deban declararlo se determinará en el Reglamento de la Ley.
+
+## CAPÍTULO II
+
+Personal al servicio de la Cámara de Cuentas
+
+### Art 29
+
+Art. 29.
+El personal al servicio de la Cámara de Cuentas estará integrado por funcionarios con titulación adecuada y sujetos al régimen general de la función pública y a las incompatibilidades de la misma, sin perjuicio de las normas especiales que les sean de aplicación.
+Asimismo, el desempeño de la función pública en la Cámara de Cuentas será incompatible con cualquier otra función, destino o cargo, y con el ejercicio de cualquier actividad privada que no sea la administración del patrimonio propio.
+
+### Art 30
+
+Art. 30.
+Bajo la dependencia directa de los Consejeros, se encuadrarán los Auditores y el personal auxiliar de auditoría necesario para que aquéllos puedan desarrollar eficazmente su labor.
+
+### Art 31
+
+Art. 31.
+1. Los Auditores serán seleccionados por oposición, concurso o por concurso-oposición de entre personas que estén en posesión de un título de grado superior.
+2. El personal auxiliar de auditoría será seleccionado igualmente por oposición, concurso o por concurso-oposición.
+
+### Art 32
+
+Art. 32.
+La Cámara de Cuentas de Andalucía dispondrá, asimismo, del personal técnico, administrativo, auxiliar y subalterno que sea necesario para el desarrollo de sus funciones. Dicho personal será seleccionado igualmente por oposición, concurso o concurso-oposición.
+
+### Art 33
+
+Art. 33.
+Para actuaciones específicas, la Cámara podrá contratar con Censores Jurados de Cuentas o con Economistas Auditores que se encuentren censados en el correspondiente Registro.
+
+## TÍTULO IV
+
+Relaciones entre la Cámara de Cuentas y el Parlamento de Andalucía
+
+## CAPÍTULO ÚNICO
+
+Órganos de relación
+
+### Art 34
+
+Art. 34.
+La iniciativa a que se refiere el artículo 6.º, apartado primero, de la presente Ley, corresponde al Pleno del Parlamento de Andalucía.
+No obstante lo expresado en el párrafo anterior, también estará facultada para solicitar informes, memorias o dictámenes, la Comisión de Hacienda y Presupuestos del Parlamento de Andalucía, siempre que el acuerdo de petición se apruebe por mayoría simple de sus miembros que, a su vez, representen, al menos, la tercera parte de los miembros de la respectiva Comisión.
+
+### Art 35
+
+Art. 35.
+La Cámara de Cuentas rendirá a la Comisión de Hacienda y Presupuestos del Parlamento de Andalucía, antes del 1 de marzo de cada año, una Memoria de las actuaciones por ella realizadas en el año inmediato anterior. Dicha Memoria incluirá la liquidación de su presupuesto.
+
+## DISPOSICIÓN ADICIONAL
+
+Antes de transcurridos seis meses a partir de la entrada en vigor de esta Ley, la Cámara de Cuentas elevará a la Comisión de Hacienda y Presupuestos del Parlamento de Andalucía un proyecto de Reglamento de esta Ley, para su discusión y aprobación.
+
+## DISPOSICIONES TRANSITORIAS
+
+### Primera
+
+Primera.
+En el plazo de tres meses desde la entrada en vigor de la presente Ley, el Parlamento de Andalucía elegirá a los cinco Consejeros miembros de la Cámara de Cuentas, por el procedimiento y con los requisitos establecidos en esta Ley.
+Los correspondientes nombramientos serán expedidos por el Presidente del Parlamento de Andalucía.
+
+### Segunda
+
+Segunda.
+Dentro de los diez días siguientes a la fecha de su designación, los Consejeros celebrarán un Pleno extraordinario, que será presidido por el Consejero de mayor edad, y en el que actuará como Secretario el más joven de los mismos, con un único punto en el orden del día: La elección del Consejero mayor.
+
+### Tercera
+
+Tercera.
+El Presidente de la Junta de Andalucía nombrará, por Decreto, a la persona titular de la Presidencia dentro del plazo de diez días contados desde el siguiente al de la recepción del certificado del acta del Pleno extraordinario en el que se haya procedido a su elección.
+Se modifica por el art. único.11 de la Ley autonómica 3/2011, de 28 de abril. Ref. BOE-A-2011-8344.
+
+### Cuarta
+
+Cuarta.
+Transcurridos tres años desde el nombramiento de los primeros Consejeros, la Mesa del Parlamento de Andalucía procederá, por sorteo, a la designación de los dos que hayan de ser renovados.
+Dicho sorteo se celebrará dentro del cuarto mes anterior a aquel en que se cumplan los tres años indicados.
+
+## DISPOSICIÓN FINAL
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Junta de Andalucía».
+
+Sevilla, 17 de marzo de 1988.
+Ángel Ojeda Avilés,
+ José Rodríguez de la Borbolla Camoyán,
+ Consejero de Hacienda y Planificación
+ Presidente de la Junta de Andalucía
+Publicada en el «Boletín Oficial de la Junta de Andalucía» número 24, de 22 de marzo de 1988

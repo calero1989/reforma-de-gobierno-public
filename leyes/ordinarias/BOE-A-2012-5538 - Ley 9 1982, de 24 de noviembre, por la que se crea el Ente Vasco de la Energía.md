@@ -1,0 +1,132 @@
+# Ley 9/1982, de 24 de noviembre, por la que se crea el Ente Vasco de la Energía.
+
+- Identificador BOE: `BOE-A-2012-5538`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-5538
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Se hace saber a todos los ciudadanos de Euskadi que el Parlamento Vasco ha aprobado la Ley 9/1982, de 24 de noviembre, por la que se crea el «Ente Vasco de la Energía». Por consiguiente, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades que la guarden hagan guardarla.
+Vitoria-Gasteiz, 24 de noviembre de 1982.–El Presidente, Carlos Garaikoetxea Urriza.
+La reciente creación de la Sociedad de Gestión de la Central Nuclear de Lemóniz, S.A. y de la Sociedad de Gas de Euskadi, S.A. así como el Centro para el Ahorro y Desarrollo Energético y Minero, recomiendan una adecuada coordinación y control de las actividades del Sector Público vasco en el área de la energía. A este fin obedece la presente Ley por la que se crea el «Ente Vasco de la Energía» como Entidad pública de la Comunidad Autónoma del País Vasco.
+
+### Artículo 1
+
+Artículo 1.
+Se crea el «Ente Vasco de la Energía» como entidad de naturaleza pública, con personalidad jurídica y autonomía administrativa y económica para la realización de sus fines.
+
+### Artículo 2
+
+Artículo 2.
+El «Ente Vasco de la Energía», tendrá la consideración de Ente Público de Derecho Privado, y se regirá por la presente Ley y demás disposiciones aplicables.
+
+### Artículo 3
+
+Artículo 3.
+El «Ente Vasco de la Energía» estará adscrito al Departamento de Industria y Energía del Gobierno Vasco.
+
+### Artículo 4
+
+Artículo 4.
+El Ente Vasco de la Energía tendrá a su cargo la planificación, la coordinación y el control de las actividades actuales y futuras del sector público de la Comunidad Autónoma del País Vasco en el campo de la energía, así como participar en la gestión y prestación, en su caso, de servicios en otros campos sinérgicos al energético tales como agua, telecomunicaciones y otros, de acuerdo con las directrices del Gobierno en el ámbito de sus competencias.
+Se modifica por el art. 1 de la Ley 7/1998, de 13 de marzo. Ref. BOE-A-2011-20040
+
+### Artículo 5
+
+Artículo 5.
+Para la realización de sus fines, se atribuye al «Ente Vasco de la Energía» la titularidad de los bienes y participaciones pertenecientes a la Comunidad Autónoma del País Vasco en el área de la energía, así como la gestión de los mismos.
+
+### Artículo 6
+
+Artículo 6.
+Uno. El «Ente Vasco de la Energía» contará con un patrimonio fundacional integrado por:
+a) Una dotación inicial de cincuenta millones de pesetas.
+b) Las acciones y derechos pertenecientes a la Comunidad Autónoma del País Vasco en la Sociedad de Gestión de la Central Nuclear de Lemóniz, S.A.
+c) Las acciones y derechos pertenecientes a la Comunidad Autónoma del País Vasco en la Sociedad de Gas de Euskadi, S.A.
+d) Las acciones y derechos que pertenezcan a la Comunidad Autónoma del País Vasco en el Centro para el Ahorro y Desarrollo Energético y Minero, S.A. a que se refiere la disposición adicional segunda.
+Dos.(Suprimido)
+Se suprime el apartado 2 por el art. 2 de la Ley 7/1998, de 13 de marzo. Ref. BOE-A-2011-20040
+
+### Artículo 7
+
+Artículo 7.
+Los órganos rectores del «Ente Vasco de la Energía» son el Consejo de Dirección y el Presidente.
+Al Consejo de Dirección corresponde dirigir las actividades del «Ente Vasco de la Energía» y controlar la gestión del mismo.
+El Presidente del «Ente Vasco de la Energía» ostenta la representación legal del mismo y ejercerá las facultades que reglamentariamente se determinen.
+
+### Artículo 8
+
+Artículo 8.
+El Consejo de Dirección está integrado por el Presidente y por el siguiente número de consejeros:
+a) Cinco consejeros en representación de la Administración de la Comunidad Autónoma del País Vasco.
+b) Los presidentes de las entidades dependientes del Ente.
+c) Cinco consejeros designados entre personas que tengan reconocida competencia en el campo de la energía o de la industria.
+La remuneración que corresponda a los miembros del Consejo que sean altos cargos y personal contratado por el Gobierno con dedicación completa, será directamente ingresada por el ente pagador de aquélla en el Tesoro Público de la Comunidad Autónoma.
+Los presidentes de las entidades citadas en el apartado b) anterior, que sean miembros del Consejo, no percibirán remuneración alguna por el desempeño de este cargo.
+
+### Artículo 9
+
+Artículo 9.
+El cargo de Presidente del Consejo, será ejercido por el Consejero Titular del Departamento de Industria y Energía o por la persona que el Gobierno designe mediante decreto, a propuesta del Titular del citado Departamento.
+Los consejeros serán nombrados por el Gobierno, a propuesta de la Comisión Económica.
+El nombramiento de los consejeros señalado en el artículo octavo c) requerirá la previa aprobación del Parlamento, a través de la Comisión competente, en el plazo de un mes a contar desde la recepción de la correspondiente comunicación, que deberá estar motivada. Transcurrido dicho plazo sin haberse procedido a tal aprobación, el Consejo quedará válidamente compuesto con los consejeros designados.
+
+### Artículo 10
+
+Artículo 10.
+El «Ente Vasco de la Energía», para el cumplimiento de sus fines, podrá realizar toda clase de actos de gestión y disposición, comerciales, industriales y financieros, tomar dinero a préstamo y emitir obligaciones sin más limitaciones que las establecidas por la legislación vigente.
+
+### Artículo 11
+
+Artículo 11.
+Los recursos del Ente estarán formados por:
+a) Los productos, rentas o incrementos de su gestión patrimonial.
+b) Las consignaciones de los Presupuestos Generales de la Comunidad Autónoma del País Vasco destinadas al Ente.
+c) Las subvenciones procedentes de otros entes públicos y de particulares.
+d) Los ingresos obtenidos en el ejercicio de sus actividades.
+e) El producto de las operaciones financieras que pueda concertar.
+f) Cualquier otro recurso que pueda serle atribuido.
+
+### Artículo 12
+
+Artículo 12.
+Uno. El Gobierno comparecerá ante la Comisión de Ordenación Territorial y Política Sectorial del Parlamento semestralmente para informar acerca de la actividad General del Ente y de su situación patrimonial y financiera.
+Dos. Anualmente presentará por escrito a la citada Comisión una Memoria de gestión del Ente dentro del primer trimestre posterior al cierre del ejercicio económico, así como el programa que corresponda al siguiente.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se concede un crédito extraordinario de cincuenta millones de pesetas al Capítulo 7, Servicio 03 del Departamento 08 de los Presupuestos Generales de la Comunidad Autónoma del País Vasco, «Para cubrir la dotación inicial del Ente Vasco de la Energía», que se financiará mediante baja en el crédito consignado en el Capítulo 6, Servicio 09, Departamento 99.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Uno. El Gobierno procederá a la constitución de la entidad «Centro para el Ahorro y Desarrollo Energético y Minero, S.A.», como una Sociedad Pública, cuyos Estatutos observarán lo dispuesto en los artículos 4, 5, 6, apartado 1 del artículo 7 y 8, todos de la Ley del Parlamento 11/1981, de 18 de noviembre, de «Creación del Centro para el Ahorro y Desarrollo Energético y Minero».
+Dos. En el momento de otorgarse la escritura pública de constitución de dicha Sociedad, quedará extinguido el Organismo Autónomo «Centro para el Ahorro y Desarrollo Energético y Minero» y se traspasará a aquélla el patrimonio y recursos del Centro.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Sin perjuicio de lo dispuesto en los anteriores preceptos, y en tanto no entre en vigor la normativa específica de la Comunidad Autónoma sobre la Hacienda General del País Vasco, y Régimen Presupuestario, el «Ente Vasco de la Energía» y las Sociedades Públicas referidas en el apartado 2 del artículo 6, tendrán respectivamente, la consideración de Sociedades estatales previstas en el artículo 6. 1. b) y 6. 1. a) de la Ley General Presupuestaria, siéndoles de aplicación los preceptos de esta Ley que a tales sociedades se refieran.
+
+### Disposición final primera
+
+Disposición final primera.
+Por el Gobierno, a propuesta de los Departamentos de Industria y Energía y de Economía y Hacienda, en el ámbito de sus respectivas competencias, se dictarán cuantas disposiciones sean necesarias para el desarrollo y aplicación de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+En el momento previsto en el apartado 2 de la disposición adicional segunda de la presente Ley quedará derogada la Ley del Parlamento 11/1981, de 18 de noviembre, de «Creación del Centro para el Ahorro y Desarrollo Energético y Minero», a excepción de los artículos enumerados en el apartado 1 de aquélla.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Se deroga el Decreto 81/1982, de 5 de abril, de constitución del «Ente Vasco de la Energía, S.A.», y se autoriza al Gobierno a proceder a la disolución de dicha Sociedad traspasándose su patrimonio, bienes y derechos al «Ente Vasco de la Energía».
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+La presente ley entrará en vigor el día de su publicación en el «Boletín Oficial del País Vasco».

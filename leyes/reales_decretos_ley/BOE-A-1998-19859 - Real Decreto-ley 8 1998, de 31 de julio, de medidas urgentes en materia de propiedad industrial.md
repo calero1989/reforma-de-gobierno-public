@@ -1,0 +1,63 @@
+# Real Decreto-ley 8/1998, de 31 de julio, de medidas urgentes en materia de propiedad industrial.
+
+- Identificador BOE: `BOE-A-1998-19859`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-19859
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+El artículo 155.2 de la Ley 11/1986, de 20 de marzo, de Patentes, obliga a los residentes en el extranjero a actuar, en todo caso, por medio de agente de propiedad industrial. Por otra parte, el artículo 157.1 de la misma Ley impone a los Agentes de la Propiedad Industrial tener despacho profesional en España. En este sentido, la Comisión Europea ha advertido al Gobierno español de la posibilidad de plantear un procedimiento de infracción del Tratado CE en relación con estos dos preceptos, dado que el artículo 155.2 podría ser discriminatorio por razón de la nacionalidad y el artículo 157.1 podría lesionar la libertad de prestación de servicios, reconocida en el Tratado constitutivo de la Comunidad Europea.
+Por lo tanto, se debe proceder sin dilación a la modificación de los artículos mencionados. Así, por el presente Real Decreto-ley se modifica el artículo 155.2, con el fin de sustituir la referencia a los residentes en el extranjero por otra a «los no residentes en un Estado miembro de la Comunidad Europea». Asimismo, el artículo 157.1 contempla también la posibilidad de que el despacho profesional esté en otro Estado miembro de la Comunidad Europea. La no adopción de las modificaciones citadas, de forma inmediata, puede tener consecuencias no deseables para el Estado español, que se caracteriza por el estricto cumplimiento de los requerimientos formulados por la Comisión.
+Además, el Reglamento (CE) 40/1994, del Consejo, de 20 de diciembre de 1993, sobre la Marca Comunitaria, establece el llamado procedimiento de transformación en solicitudes de marcas nacionales de las marcas comunitarias o de las solicitudes de éstas. Se hace así necesario prever el correspondiente procedimiento nacional de transformación que asegure el correcto engarce entre el Derecho comunitario y el Derecho español. Esta necesidad es, además, apremiante debido al hecho de que se están produciendo ya situaciones jurídicas que exigen, sin dilación, la correlativa transformación de marcas o solicitudes en el ámbito nacional.
+Por otra parte, es preciso clarificar la regulación de las tasas en materia de derechos de propiedad industrial en el marco de la Ley 25/1998, de 13 de julio, de Modificación del Régimen Legal de las Tasas Estatales y Locales y de Reordenación de las Prestaciones Patrimoniales de Carácter Público.
+En efecto, el régimen de transformación de marcas internacionales y comunitarias en marcas nacionales ha puesto de manifiesto cómo los entornos que antiguamente existían entre títulos nacionales y comunitarios o internacionales se han diluido completamente. Una de las consecuencias de la armonización del Derecho de propiedad industrial ha sido la de permitir la modificación del ámbito geográfico de los derechos de propiedad industrial sin afectar a su esencia. De ahí que sea mucho más acertado hablar de títulos de propiedad industrial en general, que hacer una discutible separación de los mismos atendiendo a su eficacia territorial, mediante la realización de una enumeración que resulta cuestionable por su imprecisión.
+Finalmente, el Acuerdo de 30 de septiembre de 1993, celebrado entre la Organización Mundial de la Propiedad Intelectual y la Oficina Española de Patentes y Marcas (OEPM), permite a esta última actuar como Administración de Búsqueda Internacional en el marco del Tratado de Cooperación en materia de Patentes. No obstante, la OEPM, pese a ser la única Administración de Búsqueda Internacional que actúa en lengua castellana, también es la única Administración en el marco del Tratado de Cooperación en materia de Patentes, elaborado en Washington el 19 de junio de 1970 (PCT), que no realiza exámenes preliminares internacionales. Por tanto, la introducción del examen preliminar es una necesidad para que el sistema de búsquedas internacionales en castellano se vea completado y España pueda seguir liderando este ámbito. En caso contrario, se privaría al mundo hispanoparlante de obtener un servicio completo de búsqueda y exámenes preliminares internacionales en castellano.
+A ello se suma la necesidad de establecer el carácter optativo del examen previo, que la vigente Ley de Patentes contempla como obligatoria, con el fin de ofrecer a las empresas que utilizan el sistema de patentes un instrumento más flexible y adecuado a sus necesidades y estrategias.
+Todo lo expuesto justifica la extraordinaria y urgente necesidad de introducir en el ordenamiento jurídico español, mediante Real Decreto-ley, tal y como prescribe el artículo 86 de la Constitución, las modificaciones normativas antes expuestas. Cabe recordar, al respecto, la doctrina del Tribunal Constitucional que señala que el Decreto-ley es un instrumento normativo susceptible de ser utilizado en situaciones concretas que, por razones difíciles de prever, requieren una acción normativa inmediata en un plazo más breve que el requerido por la tramitación parlamentaria de las leyes. Por tanto, la utilización del procedimiento legislativo ordinario para la realización de las modificaciones antes expuestas implicaría por su dilación perjuicios de difícil reparación, entre ellos, la posible incoación de un procedimiento de infracción por la Comisión Europea, lo que justifica la tramitación de este Real Decreto-ley.
+En su virtud, en uso de la autorización concedida en el artículo 86 de la Constitución Española, a propuesta del Ministro de Industria y Energía y previa deliberación del Consejo de Ministros en su reunión del día 31 de julio de 1998, DISPONGO:
+
+### Artículo primero
+
+Artículo primero. Modificaciones de la Ley 11/1986, de 20 de marzo, de Patentes.
+Se modifican como sigue los artículos 36, 39, 155 y 157 de la Ley 11/1986, de 20 de marzo, de Patentes:
+Uno. Se añade al artículo 36 un nuevo apartado 3 del siguiente tenor:
+«3. En los procedimientos de concesión de patentes relativos a aquellos sectores de la técnica para los que resulte aplicable el procedimiento de concesión con examen previo de acuerdo con el Real Decreto al que se refiere la disposición transitoria quinta, una vez que tenga lugar la publicación del informe sobre el estado de la técnica, se abrirá el plazo previsto en el apartado 2 del artículo 39, que interrumpirá el procedimiento y en el que el solicitante podrá realizar la petición de examen previo o manifestar su voluntad de continuar con el procedimiento general de concesión. Transcurrido dicho plazo sin que el solicitante se manifieste al respecto, se reanudará el procedimiento de acuerdo con lo dispuesto en los apartados anteriores, aplicándose las normas del procedimiento general de concesión regulado en el presente capítulo. Dicha reanudación se publicará en el ``Boletín Oficial de la Propiedad Industrial''.»
+Dos. Los apartados 1 a 5, del artículo 39, quedan redactados como sigue:
+«1. En los casos en que resulte aplicable, según lo dispuesto en la disposición transitoria quinta, el procedimiento de concesión será el mismo que se establece con carácter general en el capítulo anterior de la presente Ley hasta que se formule la petición de examen a que se refiere el apartado siguiente.
+2. Dentro de los seis meses siguientes a la publicación del informe sobre el estado de la técnica, el solicitante podrá pedir que se proceda a examinar la suficiencia de la descripción, la novedad y la actividad inventiva del objeto de la solicitud de patente. La petición de examen previo sólo se considerará válidamente formulada tras el pago de la tasa de examen, será irrevocable y se publicará en el ``Boletín Oficial de la Propiedad Industrial''.
+3. Cuando el examen previo pueda basarse parcial o totalmente en el informe de examen preliminar internacional realizado por la Administración Encargada del Examen Preliminar Internacional competente, se reembolsará al solicitante el 25 por 100, el 50 por 100, el 75 por 100 o el 100 por 100 de dicha tasa, en función del alcance de dicho informe.
+4. En los dos meses siguientes a la publicación de la petición de examen, cualquier interesado podrá oponerse a la concesión de la patente, alegando la falta de cualquiera de los requisitos exigidos para esa concesión. El escrito de oposición habrá de ir acompañado de los correspondientes documentos probatorios.
+5. No podrá alegarse, sin embargo, que el peticionario carece de derecho para solicitar la patente, lo cual deberá hacerse valer ante los tribunales ordinarios.»
+Tres. El apartado 2 del artículo 155 queda redactado como sigue:
+«2. Los no residentes en un Estado miembro de la Comunidad Europea deberán actuar, en todo caso, mediante Agente de la Propiedad Industrial.»
+Cuatro. El apartado 1 del artículo 157 queda redactado como sigue:
+«1. Ser español o tener la nacionalidad de un Estado miembro de la Comunidad Europea. Ser mayor de edad y tener despacho profesional en España o en un Estado miembro de la Comunidad Europea.»
+
+### Artículo segundo
+
+Artículo segundo. Modificaciones de la Ley 32/1988, de 10 de noviembre, de Marcas.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.d) de la Ley 17/2001, de 7 de diciembre. Ref. BOE-A-2001-23093.
+
+### Artículo tercero
+
+Artículo tercero. Tasas exigibles en materia de títulos de propiedad industrial y otras exacciones.
+El número 9 del apartado d) de la disposición final primera de la Ley 25/1998, de 13 de julio, de Modificación del Régimen Legal de las Tasas Estatales y Locales y de Reordenación de las Prestaciones Patrimoniales de Carácter Público, queda redactado de la siguiente forma:
+«9. Ministerio de Industria y Energía.
+Tasas por servicios prestados por el Ministerio de Industria y Energía (Decretos 661 y 663/1960, de 31 de marzo).
+Tasas en materia de propiedad industrial (Ley 11/1986, de 20 de marzo, de Patentes; Ley 11/1988, de 3 de mayo, de Protección Jurídica de las Topografías de los Productos Semiconductores; Tratado de Washington, de Cooperación en materia de Patentes de 19 de junio de 1970 y Real Decreto 1123/1995, de 3 de julio, para la aplicación del Tratado de Cooperación en materia de Patentes, elaborado en Washington el 19 de junio de 1970; Ley 17/1975, de 2 de mayo, sobre creación del Organismo Autónomo Registro de la Propiedad Industrial; Ley 32/1988, de 10 de noviembre, de Marcas; Ley 20/1987, de 7 de octubre, sobre tasas que deban satisfacer los solicitantes y concesionarios de patentes europeas por determinadas actividades a realizar en el Registro de la Propiedad Industrial).
+Tasas y exacciones de las Cámaras Oficiales Mineras (Decreto 660/1960), de 31 de marzo).»
+Este artículo entra en vigor el 15 de julio de 1998, según establece la disposición final única.
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+El presente Real Decreto-ley entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado», salvo el artículo tercero que retrotraerá sus efectos al día 15 de julio de 1998.
+
+Dado en Palma de Mallorca a 31 de julio de 1998.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

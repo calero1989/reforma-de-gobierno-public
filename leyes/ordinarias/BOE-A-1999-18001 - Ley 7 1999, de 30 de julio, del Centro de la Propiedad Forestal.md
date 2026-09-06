@@ -1,0 +1,291 @@
+# Ley 7/1999, de 30 de julio, del Centro de la Propiedad Forestal.
+
+- Identificador BOE: `BOE-A-1999-18001`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-18001
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de Autonomía de Cataluña, promulgo la siguiente Ley 7/1999, de 30 de julio, del Centro de la Propiedad Forestal.
+Los diez años transcurridos desde la aprobación y entrada en vigor de la Ley 6/1988, de 30 de marzo, Forestal de Cataluña, han permitido constatar los grandes avances obtenidos con la vigencia y aplicación de la presente Ley. En especial, cabe destacar la introducción del principio de ordenación y planificación de los bosques, la tarea efectuada por el Centro de la Propiedad Forestal y la generalización del contrato social forestal. Dichos aspectos constituyen, indudablemente, un gran paso para garantizar la gestión sostenible, la utilización racional y la futura preservación de los recursos naturales, en el marco de los principios de protección del medio ambiente establecidos en el artículo 45 de la Constitución española y demás legislación que les sea aplicable.
+Asimismo, el tiempo transcurrido y la puesta en marcha de los órganos administrativos encargados de controlar y gestionar de forma desconcentrada dichos principios, en relación con los terrenos forestales de propiedad privada, han permitido advertir aspectos mejorables y, en particular, la necesidad de dar un paso adelante en la organización del Centro de la Propiedad Forestal.
+Ahora bien, se advierte que es necesario profundizar en el modelo introducido y dotar al Centro de la Propiedad Forestal de personalidad jurídica y plena capacidad de obrar, así como de las necesarias independencia orgánica y autonomía financiera, con asignación de los recursos presupuestarios que sean precisos para llevar a cabo las tareas encomendadas en una materia tan primordial como la forestal, especialmente en un país eminentemente forestal como Cataluña, donde más del 43 por 100 de su territorio está ocupado por bosques y el 60 por 100 tiene carácter y naturaleza forestales.
+Dicha entidad debe posibilitar un tratamiento unitario por lo que se refiere a la ordenación de los montes de titularidad privada, resolviendo e integrando de manera adecuada la pluralidad y diversidad de competencias y organismos que hasta hoy inciden en los mismos, y deben organizarse mediante una estructura ágil y moderna, dotada de medios, recursos y presupuesto propios.
+Así pues, con la creación del nuevo Centro de la Propiedad Forestal se aplica el principio de la subsidiariedad y se consolida la existencia de una Administración forestal participativa, que acerque e implique a los verdaderos agentes y sectores afectados en las políticas forestales, que, necesariamente, debe basarse en los principios de coordinación, eficacia y desconcentración, establecidos en el artículo 103 de la Constitución, y que debe vehicular la colaboración entre la Administración y los propietarios productores forestales.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Naturaleza y régimen jurídico.
+1. Se crea el Centro de la Propiedad Forestal, entidad de derecho público con personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus propios fines, que ajusta su actividad al derecho privado, salvo las excepciones que establece la presente Ley.
+2. El Centro de la Propiedad Forestal se adscribe al departamento competente en materia forestal y tiene por misión fomentar la gestión forestal sostenible en los terrenos forestales de titularidad privada de forma coordinada con la gestión de los terrenos forestales de titularidad pública. Además, actúa dentro de su ámbito competencial como instrumento ejecutor de las políticas establecidas por la unidad competente en materia de montes según los objetivos, ejes y líneas de actuación establecidos en el Plan general de política forestal.
+3. El Centro de la Propiedad Forestal se rige por la presente Ley; por la Ley 4/1985, de 29 de marzo, del Estatuto de la Empresa Pública Catalana; por sus Estatutos, y por las demás leyes y disposiciones que le sean de aplicación.
+Se modifica el apartado 2 por el art. 71.1 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Se modifica el apartado 2 por el art. 28 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.
+
+### Artículo 2
+
+Artículo 2. Sede.
+La sede central del Centro de la Propiedad Forestal se fija en Santa Perpetua de Mogoda (Vallès Occidental), en la finca «Torreferrussa». El Centro de la Propiedad Forestal puede establecer delegaciones en otras localidades para territorializar sus servicios.
+
+### Artículo 3
+
+Artículo 3. Objetivos y fines.
+Los fines del Centro de la Propiedad Forestal son:
+a) Ordenar la producción forestal en el ámbito de sus competencias.
+b) Promover y mejorar de forma sostenida la función socioeconómica de las masas forestales de titularidad privada, haciéndolas compatibles con la protección adecuada del medio físico, garantizando la utilización racional y la gestión sostenible de los recursos.
+c) Promover y extender el principio de ordenación y planificación de las superficies forestales de titularidad privada mediante la tramitación de los instrumentos de ordenación forestal siguientes: proyectos de ordenación, planes técnicos de gestión y mejora forestales, y planes simples de gestión forestal.
+d) Mejorar la gestión de los aprovechamientos y productos forestales mediante acciones de asesoramiento, apoyo y tutela.
+e) Fomentar la corresponsabilidad de los propietarios forestales en la ejecución, diseño y aprobación de la política forestal.
+f) Integrar en un único organismo, dotado de autonomía organizativa, económica y financiera, las distintas competencias con incidencia en los bosques privados, unificando y racionalizando la acción administrativa de ordenación y control de dichos bosques, de acuerdo con el principio de unidad de gestión o gestión integrada.
+g) Dotar a los silvicultores de un organismo de administración propia que les permita participar en el diseño de políticas forestales, a la vez que posibilite la representación de todos los sectores y entidades cívicas y sociales que tengan intereses en el mundo forestal.
+h) Mejorar la representación de la Administración forestal, potenciando la integración de los propietarios forestales en el Centro de la Propiedad Forestal.
+i) Adecuar los planes técnicos de gestión y mejora forestales al ámbito mínimo de gestión, fijando la superficie mínima a ordenar en 25 hectáreas, al ser éste un ámbito que permite también la viabilidad técnica y económica de dichos planes.
+j) Hacer posible la ordenación de las fincas privadas con una superficie inferior a 25 hectáreas mediante la creación de la figura del plan simple de gestión forestal. Las instrucciones para la redacción, la aprobación y la revisión de estos planes deben ser establecidas por orden del consejero o consejera de Medio Ambiente.
+k) Dotar a la gestión de los bosques privados de mecanismos de financiación, presupuesto, patrimonio y recursos propios, incentivando y fomentando el cumplimiento de los principios inspiradores de la legislación forestal de Cataluña.
+Se modifican los apartados c), h), i) y de añade apartado j) pasando el siguiente a ser k) por el art. 63 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Artículo 4
+
+Artículo 4. Funciones.
+Corresponden al Centro de la Propiedad Forestal las siguientes funciones:
+a) Participar en la elaboración de los planes de ordenación de recursos forestales.
+b) Participar en la elaboración de los planes de desarrollo forestal, mediante la elaboración de propuestas y sugerencias, y emitir los correspondientes informes técnicos en relación con el plan general de política forestal y los planes de producción forestal elaborados por los Departamentos de la Administración de la Generalidad.
+c) Prestar apoyo técnico y económico para elaborar los instrumentos de ordenación forestal y velar por su ejecución.
+d) Tramitar y aprobar los instrumentos de ordenación forestal que afecten exclusivamente a terrenos de titularidad privada.
+e) Velar por la ejecución de las determinaciones contenidas en los instrumentos de ordenación forestal y controlar el cumplimiento de los compromisos que se establecen en los mismos.
+f) Confeccionar y elaborar las directrices y las instrucciones técnicas de los instrumentos de ordenación forestal para los montes privados.
+g) Promover la constitución de asociaciones y agrupaciones forestales y entidades de cooperación entre los titulares de los terrenos forestales de propiedad privada para facilitar la administración de los bosques y la comercialización de sus productos.
+h) Divulgar métodos de silvicultura sostenible, para producir y conservar los terrenos forestales y asesorar en la aplicación práctica de los conocimientos técnicos forestales y en la redacción de los instrumentos de planificación y ordenación forestales.
+i) Recibir las notificaciones previas de los propietarios forestales del inicio de los trabajos y de las actividades forestales que se ejecutan en cumplimiento de los instrumentos de ordenación forestal.
+j) Aplicar los instrumentos de fomento forestal, acordando el otorgamiento de las correspondientes ayudas e incentivos y fiscalizando el destino efectivo a la finalidad prevista.
+k) Administrar el Fondo forestal de los bosques privados de Cataluña.
+l) Informar y ser oído en relación con la aprobación de cualquier norminativa e instrumento de planeamiento o proyecto que afecte a superficies forestales de titularidad privada.
+m) Las demás funciones que le asignen las leyes.
+Se modifica el apartado a) por el art. 178.1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se modifican los apartados c), d), e), f) e i) del art. 63 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Artículo 5
+
+Artículo 5. Órganos de gobierno.
+Son órganos de gobierno del Centro de la Propiedad Forestal:
+a) La Presidencia.
+b) Las vicepresidencias.
+c) El Consejo Rector.
+d) La Dirección Gerencia.
+Se modifica por el art. 71.2 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Se modifica el apartado 1.a) por el art. 63 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+## CAPÍTULO II
+
+Los órganos de gobierno
+
+### Artículo 6
+
+Artículo 6. La Presidencia y las vicepresidencias.
+1. La presidencia del Centro de la Propiedad Forestal corresponde al consejero o consejera del departamento competente en materia de montes.
+2. El presidente o presidenta tiene las siguientes funciones:
+a) Ejercer la alta representación del Centro.
+b) Informar al Gobierno sobre la actividad del Centro.
+c) Presidir el Consejo Rector.
+d) Velar por el cumplimiento de los acuerdos adoptados por el Consejo Rector.
+e) Convocar, presidir, suspender y levantar las sesiones del Consejo Rector, fijar el orden del día, dirigir las deliberaciones, dirimir los empates con su voto de calidad y visar las actas y las certificaciones de los acuerdos que se adopten.
+3. El presidente o presidenta puede delegar su voto, incluyendo el voto de calidad en caso de empate, en cualquiera de los vocales en representación de la Generalidad.
+4. Sin perjuicio de la delegación del voto establecida por el apartado anterior, en caso de ausencia, vacante o enfermedad del presidente o presidenta, lo sustituyen los vicepresidentes, por su orden, que tienen también la facultad de convocar al Consejo Rector.
+5. La vicepresidencia primera corresponde al vocal o la vocal en representación de los propietarios forestales privados que designen entre ellos.
+6. La vicepresidencia segunda corresponde a la persona titular de la dirección general competente en materia de montes.
+Se modifica por el art. 71.3 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+
+### Artículo 7
+
+Artículo 7. El Consejo Rector.
+1. El Consejo Rector es el órgano superior colegiado de gobierno, dirección y control del Centro de la Propiedad Forestal.
+2. Son miembros del Consejo Rector:
+a) El presidente o presidenta.
+b) Los vocales.
+c) El secretario o secretaria, que es el director gerente. Actúa con voz pero sin voto.
+3. El consejero o consejera del departamento competente en materia de montes nombra a los vocales del Consejo Rector con la siguiente distribución:
+a) Cinco en representación de distintos departamentos de la Generalidad, uno de los cuales es el titular de la dirección general competente en materia de montes.
+b) Cinco en representación de los propietarios forestales privados titulares de un instrumento de ordenación forestal.
+4. En el sistema de elección de los representantes de los propietarios forestales privados, tienen derecho a participar en el proceso electoral las personas físicas y jurídicas titulares de un instrumento de ordenación forestal aprobado y vigente. Son elegibles las organizaciones de propietarios forestales, que deben presentar sus candidaturas designando como mínimo a cinco representantes. El número de vocales del Consejo Rector en representación de los propietarios forestales privados titulares de un instrumento de ordenación forestal se distribuye en proporción al número de votos obtenidos. Debe determinarse por decreto el sistema de elección de los representantes de los propietarios forestales privados.
+5. El nombramiento de los vocales en representación de los propietarios forestales privados tiene una duración de cinco años.
+Se modifica por el art. 71.4 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Se modifica el apartado 3 por el art. 63 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Artículo 8
+
+Artículo 8. Funciones del Consejo Rector.
+1. El Consejo Rector tiene las más amplias facultades en relación con el gobierno, la dirección y el control del Centro de la Propiedad Forestal.
+2. El Consejo Rector tiene las siguientes funciones:
+a) Aprobar los criterios de actuación del Centro de la Propiedad Forestal, de acuerdo con las directrices fijadas por el departamento al que se adscribe y los objetivos que se prevén en el contrato programa.
+b) Aprobar los instrumentos de ordenación forestal y sus modificaciones.
+c) Aprobar el anteproyecto de programa de actuación, de inversiones y de financiación, y el presupuesto de explotación y de capital.
+d) Aprobar la propuesta de contrato programa entre el centro y el departamento competente en materia de montes, así como su actualización.
+e) Aprobar las cuentas anuales y la liquidación final de los presupuestos del ejercicio y la memoria de actividades.
+f) Aprobar las bases reguladoras y las convocatorias de ayudas y subvenciones, así como su resolución.
+g) Proponer la designación del director gerente entre profesionales de reconocido prestigio en el ámbito forestal.
+h) Supervisar la gestión del director o directora gerente.
+i) Aprobar la relación de puestos de trabajo y el régimen retributivo del personal.
+j) Las demás funciones que le otorguen los estatutos.
+3. Las decisiones del Consejo Rector se adoptan por mayoría simple excepto las que tratan asuntos relativos a las funciones establecidas por los apartados d, f y g, en las que es necesaria una mayoría calificada de dos terceras partes.
+Se modifica por el art. 71.5 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+
+### Artículo 9
+
+Artículo 9. La Dirección Gerencia.
+1. El director o directora gerente es el órgano ejecutivo del Centro de la Propiedad Forestal y la persona responsable de la gestión ordinaria del Centro.
+2. El consejero competente en materia de montes nombra al director o directora gerente a propuesta del Consejo Rector. El director o directora gerente ocupa un lugar de personal laboral de alta dirección
+3. El director o directora gerente tiene las siguientes funciones:
+a) Ejecutar los acuerdos del Consejo Rector.
+b) Dirigir el Centro velando por la consecución de los objetivos fijados en el contrato programa, y coordinar y supervisar todos los servicios del Centro.
+c) Elaborar el anteproyecto del presupuesto del Centro y realizar el seguimiento de la ejecución, de acuerdo con lo establecido por el contrato programa.
+d) Dirigir y coordinar las unidades del Centro.
+e) Representar legalmente al Centro en las relaciones jurídicas sometidas al derecho público, privado y laboral.
+f) Ejercer la dirección en materia de personal y de política de recursos humanos.
+g) Ser el máximo responsable de la tesorería del Centro.
+h) Llevar a cabo las contrataciones necesarias para el funcionamiento del Centro.
+i) Ejercer cualquier otra función necesaria para la dirección de la administración del Centro y las que le delegue el Consejo Rector.
+j) Las demás funciones que le encomiende el Consejo Rector o los estatutos del Centro.
+Se modifica por el art. 71.6 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+
+### Artículo 10
+
+Artículo 10. Estatutos del Centro de la Propiedad Forestal.
+Corresponde al Gobierno la aprobación, mediante un decreto, de los estatutos del Centro de la Propiedad Forestal, que deben determinar el régimen de funcionamiento de los órganos de gobierno, y el sistema de elección de los representantes de los propietarios forestales privados en el Consejo Rector.
+Se modifica por el art. 71.7 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Se modifica el apartado 3 por el art. 28 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.
+
+### Artículo 10 bis
+
+Artículo 10 bis. Contrato programa
+1. El departamento competente en materia de montes y el Centro de la Propiedad Forestal deben establecer un contrato programa que debe incluir, como mínimo, la definición anual de los objetivos a alcanzar, la previsión de resultados a obtener y los instrumentos de seguimiento y control y de evaluación a los que debe someterse la actividad de la entidad durante la vigencia del contrato.
+2. La propuesta de contrato programa es elaborada por la dirección general competente en materia de montes de acuerdo con los objetivos, los ejes y las líneas de actuación establecidos en el Plan general de política forestal.
+Se añade por el art. 71.8 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+
+## CAPÍTULO III
+
+Régimen jurídico y económico
+
+### Artículo 11
+
+Artículo 11. Régimen jurídico.
+La actividad del Centro de la Propiedad Forestal se somete, en sus relaciones, al derecho privado con carácter general. No obstante, quedan sometidos al derecho público:
+a) El régimen de acuerdos y funcionamiento del Consejo Rector, que se sujetará a la normativa general sobre órganos colegiados de la Administración de la Generalidad.
+b) Las relaciones del Centro de la Propiedad Forestal con el Departamento de Agricultura, Ganadería y Pesca y con oros entes públicos.
+c) Las relaciones jurídicas externas que deriven de actos de limitación, intervención y control y, en general, cualquier acto, tanto de gravamen como de beneficio, que implique ejercicio de autoridad o ejercicio de potestades administrativas, incluidos el régimen de impugnación de actos, el silencio administrativo y el régimen de recaudación.
+
+### Artículo 12
+
+Artículo 12. Contratación.
+La contratación pública del Centro de la Propiedad Forestal se rige por lo que establece la normativa sobre contratación pública.
+Se modifica por el art. 71.9 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+
+### Artículo 13
+
+Artículo 13. Personal.
+1. El personal del Centro de la Propiedad Forestal se rige por el derecho laboral, salvo el personal que ocupa plazas reservadas, por la naturaleza de su contenido, a funcionarios públicos. La adscripción de funcionarios a dicho Centro se rige por lo que determinan las normas reguladoras de la función pública de la Generalidad.
+2. La selección del personal del Centro de la Propiedad Forestal debe hacerse de acuerdo con los principios de igualdad, publicidad, mérito y capacidad.
+Se modifica por el art. 63 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Artículo 14
+
+Artículo 14. Régimen patrimonial.
+El patrimonio y la financiación del Centro de la Propiedad Forestal están constituidos por:
+a) Los bienes y valores que le sean adscritos para el cumplimiento de sus fines y los productos y rentas de aquéllos.
+b) Las transferencias y subvenciones que se consignen en los presupuestos de la Generalidad.
+c) Las aportaciones de las entidades públicas o privadas que hayan establecido Convenios con el Centro de la Propiedad Forestal.
+d) Las subvenciones, ayudas y donaciones que otorguen a su favor la entidades públicas o privadas.
+e) Los rendimientos de sus publicaciones y los ingresos procedentes de otras actividades que desarrolle el Centro de la Propiedad Forestal y sean retribuibles.
+f) Los ingresos de derecho público o privado que le correspondan y las tasas y precios públicos que pueda recaudar por la prestación de servicios o la realización de actividades de su competencia.
+g) Cualquier otro ingreso compatible con la naturaleza y finalidad del Centro de la Propiedad Forestal.
+h) Los demás bienes que le sean atribuidos.
+
+### Artículo 15
+
+Artículo 15. El Fondo forestal de los bosques privados.
+1. El Fondo forestal de los bosques privados de Cataluña, cuya finalidad es dotar de más recursos económicos o financieros al Centro de la Propiedad Forestal, queda adscrito al Centro de la Propiedad Forestal, a quien corresponde su gestión directa, así como la disposición y distribución de las cantidades que lo conforman.
+2. Las compensaciones que se establezcan por la gestión sostenible de los bosques deben beneficiar a los propietarios de terrenos forestales privados que se comprometan, mediante un instrumento de ordenación forestal aprobado, a ejecutar los trabajos de mejora de acuerdo con dicho instrumento.
+3. La contribución a la creación y al mantenimiento del Fondo forestal de Cataluña se fija con cargo a las consignaciones presupuestarias que se establecen anualmente y debe incrementarse con las aportaciones provenientes de las tasas correspondientes a los aprovechamientos forestales, de las sanciones en materia forestal impuestas por la Administración forestal y de las donaciones o aportaciones económicas de entidades privadas o de particulares.
+Se modifica el apartado 3 por el art. 178.2 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se modifica el apartado 2 por el art. 63 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Artículo 16
+
+Artículo 16. Presupuesto.
+1. El presupuesto del Centro de la Propiedad Forestal es anual y está sujeto a las disposiciones de la Ley del Estatuto de la Empresa Pública Catalana en lo que se refiere a presupuestos.
+2. El régimen de contabilidad del Centro de la Propiedad Forestal es el correspondiente al sector público y queda sometido al control financiero establecido en el texto refundido de la Ley de Finanzas Públicas.
+
+### Artículo 17
+
+Artículo 17. Responsabilidad patrimonial.
+La responsabilidad patrimonial del Centro de la Propiedad Forestal es exigible de acuerdo con lo establecido en la legislación vigente sobre la material.
+
+### Artículo 18
+
+Artículo 18. Recursos y reclamaciones.
+1. Los actos del Centro de la Propiedad Forestal sometidos al derecho administrativo son susceptibles de recurso ordinario ante el Consejero o Consejera de Agricultura, Ganadería y Pesca, en la forma y plazos establecidos en la legislación administrativa.
+2. Los recursos extraordinarios de revisión deben interponerse de acuerdo con lo establecido en el artículo 86 de la Ley 13/1989, de 14 de diciembre, de Organización, Procedimiento y Régimen Jurídico de la Administración de la Generalidad.
+3. El ejercicio de acciones civiles y laborales se rige por lo establecido en la normativa vigente.
+4. Los actos dictados en aplicación del régimen económico-financiero establecido por la presente Ley puede ser objeto de reclamación ante los órganos de la Generalidad competentes para conocer las reclamaciones económico-administrativas, en la forma y plazos establecidos en la legislación que sea aplicable.
+
+### Artículo 19
+
+Artículo 19. Medidas de fomento y ayudas.
+Los titulares de montes que dispongan de un instrumento de ordenación forestal aprobado tienen prioridad para acceder a las ayudas y las medidas de fomento destinadas al sector forestal y gestionadas por el Centro de la Propiedad Forestal.
+Se modifica por el art. 63 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Derogada).
+Se deroga por la disposición derogatoria.a) de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+(Derogada).
+Se deroga por la disposición derogatoria.a) de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los actuales miembros del Centro de la Propiedad Forestal pasarán a ser miembros de pleno derecho del nuevo Centro de la Propiedad Forestal de forma inmediata, siempre que dispongan del plan técnico de gestión y mejora forestal en vigencia.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+El personal que presta servicio en el Centro de la Propiedad Forestal, creado por el artículo 17 de la Ley 6/1988, de 30 de marzo, Forestal de Cataluña, así como los medios materiales que tiene asignados, quedan adscritos al Centro de la Propiedad Forestal creado por la presente Ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Las funciones del Centro de la Propiedad Forestal, creado por el artículo 17 de la Ley 6/1988, deben ser asumidas por la entidad creada por la presente Ley, que se subroga en las obligaciones y derechos de dicho órgano.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+(Derogada).
+Se deroga por la disposición derogatoria.a) de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Se derogan los artículos 17, 18, 19 y 41 de la Ley 6/1988, de 30 de marzo, Forestal de Cataluña, en aquello que contradiga o se oponga a la presente Ley, así como los Decretos 358/1989, de 19 de diciembre, y 119/1994, de 3 de mayo, por los que se establecen las funciones y órganos de gobierno del Centro de la Propiedad Forestal.
+
+### Disposición final
+
+Disposición final.
+Se autoriza al Gobierno a efectuar el desarrollo reglamentario de la presente Ley.
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los Tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 30 de julio de 1999.
+FRANCESÇ XAVIER MARIMÓN I SABATÉ,
+ JORDI PUJOL,
+ Consejero de Agricultura, Ganadería y Pesca
+ Presidente

@@ -1,0 +1,71 @@
+# Ley 5/2002, de 24 de julio, de Medidas Cautelares Urbanísticas en el ámbito del litoral, de sometimiento de los instrumentos de planificación territorial y urbanística a evaluación ambiental y de régimen urbanístico de los cementerios.
+
+- Identificador BOE: `BOE-A-2002-16627`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2002-16627
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE CANTABRIA
+Conózcase que el Parlamento de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2.o del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 5/2002, de 24 de julio, de Medidas Cautelares Urbanísticas en el ámbito del litoral, de sometimiento de los instrumentos de planificación territorial y urbanística a evaluación ambiental y de régimen urbanístico de los cementerios.
+PREÁMBULO
+La Ley 2/2001, de 25 de junio, de Ordenación Territorial y Régimen Urbanístico del Suelo de Cantabria, contempla en su disposición adicional cuarta la elaboración del Plan de Ordenación del Litoral, equiparado al Plan Regional de Ordenación del Territorio, cuya finalidad es asegurar una protección efectiva e integral de la costa de nuestra Comunidad Autónoma.
+La disposición transitoria décima de la Ley de Cantabria 2/2001, prevé una serie de medidas cautelares aplicables en los treinta y siete municipios costeros de la Comunidad Autónoma, hasta tanto se produzca la aprobación definitiva del Plan de Ordenación del Litoral y, en todo caso, durante el plazo máximo de un año, a contar desde el día siguiente a la publicación de la Ley, por lo que las medidas cautelares se alzaron el pasado día 5 de julio.
+Con fecha 22 de marzo de 2002, se aprobó inicialmente el Plan de Ordenación del Litoral, y con el objeto de evitar las consecuencias derivadas de la consolidación de expectativas de urbanización generadas por la aprobación de planeamiento de desarrollo, que hipotéticamente podrían verse frustradas como consecuencia de una distinta regulación de usos y actividades aplicables a la categoría de ordenación que resultase de aplicación en esos suelos por la normativa específica establecida por el Plan de Ordenación del Litoral, a la que el planeamiento municipal que resulte afectado debe adaptarse, así como la necesidad de que el ámbito material del Plan de Ordenación del Litoral no se vea previamente condicionado, se hace necesario ampliar el plazo de vigencia de las medidas cautelares de suspensión previstas en la Ley de Cantabria 2/2001, de 25 de junio, durante el plazo máximo de un año. No obstante, se restringe el ámbito material de aplicación de las citadas medidas a aquellos suelos urbanizables cuyo desarrollo urbanístico pudiera verse condicionado por la aprobación definitiva del Plan de Ordenación del Litoral, al tratarse de suelos que presentan algún valor ambiental merecedor de protección.
+Por otra parte, con posterioridad a la Ley de Cantabria 2/2001, se ha aprobado la Directiva 2001/42/CEE, del Parlamento Europeo y del Consejo, de 27 de junio de 2001, relativa a la evaluación de los efectos de determinados planes y programas al medio ambiente, en virtud de la cual deben ser objeto de evaluación medioambiental, entre otros, todos los planes y programas, salvo los mencionados en el apartado tercero de su artículo 3, que se elaboren con respecto a la ordenación del territorio urbano y rural o la utilización del suelo, y que establezcan el marco para la autorización en el futuro de proyectos enumerados en los anexos I y II de la Directiva 85/337/CEE. En este sentido, el Tribunal de Justicia de las Comunidades Europeas ha dictado Sentencia de 13 de junio de 2002, por la que se declara que el Reino de España ha incumplido las obligaciones que le incumben en virtud de dicha Directiva. A través de la presente Ley se pretende adaptar el ordenamiento jurídico territorial y urbanístico de nuestra Comunidad a las prescripciones comunitarias, en tanto en cuanto tenga lugar el desarrollo legislativo en materia de protección del medio ambiente y de los ecosistemas, previendo la obligatoriedad de someter los instrumentos de planificación territorial y urbanística que establezcan el marco para la autorización en el futuro de proyectos enumerados en los anexos I y II de la Directiva 85/337/CEE, al preceptivo instrumento de evaluación medioambiental.
+Por último, se prevé con rango legal, tal y como exige la regulación del derecho de propiedad, el régimen jurídico urbanístico de los nuevos cementerios, previéndose unas limitaciones legales a los terrenos próximos a los cementerios, exigiendo su calificación como sistema general.
+
+### Artículo 1
+
+Artículo 1. Medidas cautelares en el ámbito del litoral.
+1. Hasta tanto se produzca la aprobación definitiva del Plan de Ordenación del Litoral a que se refiere la disposición adicional cuarta de la Ley de Cantabria 2/2001, de 25 de junio, de Ordenación Territorial y Régimen Urbanístico del Suelo, y, en todo caso, durante el plazo máximo de un año, en los suelos urbanizables sin Plan Parcial aprobado, especificados en el apartado 2 de este artículo, se adoptan las siguientes medidas cautelares:
+a) Quedan suspendidas todas las licencias de construcción de obras mayores de edificaciones destinadas a residencia o habitación.
+b) Queda suspendida la aprobación definitiva de Planes Parciales.
+2. Los suelos urbanizables comprendidos en el ámbito de protección son: Del municipio de Val de San Vicente: Suelo Apto para Urbanizar de Pechón y Suelo Apto para Urbanizar de Pesués; del municipio de Comillas: SDR 3, Sector de Desarrollo Residencial 3, Rubárcena; del municipio de Suances: Suelo Urbanizable Programado PP-2, El Espadañal, Suelo Urbanizable Programado PP-3, Sojerra, Suelo Urbanizable PP-5, La Tablía II, Suelo Urbanizable (Sector 1) PP-1, La Bárcena y Suelo Urbanizable (Sector 4): PP-4, La Mojadía, y PAU 1, La Quintana; del municipio de Polanco: Sector número 4 de Suelo Urbanizable; del municipio de Miengo: SAU Área de Usgo y SAU Área de Miengo Sur; del municipio de Piélagos: Sector 2: Suelo Urbanizable No Programado y Sector 1: Suelo Urbanizable No Programado; del municipio de Santa Cruz de Bezana: AUA-1, AUA-3 y AUA-4; del municipio de Marina de Cudeyo: Suelo Urbanizable situado al oeste del Estadillo y Elechas en la zona del Urro de Elechas (PAU «El Urro»), Suelo Urbanizable situado al norte del campo de golf de La Junquera, entre la Bahía y el núcleo urbano de Pedreña, Suelo Urbanizable situado en la zona de Presmanes al oeste de la fuente de La Teja, Suelo Urbanizable situado al sur de la Punta Somoga de la ría de Cubas en la zona.
+Del Pico y Trasmiera, Suelo Urbanizable situado al sur de la ría de Cubas en la zona de El Pindio y El Campillo, al norte de Tasugueras, Suelo Urbanizable situado entre la zona de Cueto y La Pedrosa, Suelo Urbanizable situado en la zona Las Suertes, Suelo Urbanizable situado en la zona La Sierra y Suelo Urbanizable situado en la zona de San Martín; del municipio de Ribamontán al Mar: SAU «El Ribero» (Somo), SAU «El Juncal» (Loredo), SAU «El Golf» (Loredo) y SAU «Los Habares» (Loredo); del municipio de Ribamontán al Monte: SAUR 1e. Peña del Cuervo (Cubas); del municipio de Bareyo: SAU 1, SAU 2, SAU 3, SAU 4, SAU 5, SAU 6, SAU 7 y SAU 8; del municipio de Bárcena de Cicero: en Gama SUD B5 y SUD B6, en Cicero SUD C-7, SUD C-8, SUD C-9, SUD C-10 y SUD C-11 ; del municipio de Laredo: Sector 1 y Sector 7; en Colindres: Sector 1, Sector 2, Sector 3, Sector 4 y Suelo Urbanizable Industrial; del municipio de Limpias: SAU al norte de Seña; del municipio de Castro Urdiales: SUP 2 Campijo 2 y SUP 4 Santa Catalina.
+3. Se autoriza al Gobierno a modular o dejar sin efecto, total o parcialmente, las medidas cautelares previstas en este artículo de forma motivada y en atención a circunstancias relevantes de interés regional.
+
+### Artículo 2
+
+Artículo 2. Sometimiento de los instrumentos de planeamiento a evaluación medioambiental.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) de la Ley autonómica 17/2006, de 11 de diciembre. Ref. BOE-A-2007-975.
+
+### Artículo 3
+
+Artículo 3. Régimen urbanístico de los cementerios.
+1. El Plan General de Ordenación Urbana determinará la zona para el emplazamiento de los cementerios.
+En todo caso, los cementerios de nueva construcción deberán emplazarse sobre terrenos permeables, debiendo establecerse una zona de protección de 25 metros de anchura en el entorno del suelo destinado a la construcción del nuevo cementerio. Esta zona debe estar ajardinada y, en todo caso, libre de toda clase de construcción, debiendo calificarse por el planeamiento urbanístico como sistema general.
+Todo proyecto de nuevo cementerio deberá obtener previamente a su autorización un informe sanitario favorable de la Consejería de Sanidad, Consumo y Servicios Sociales, debiendo acompañarse por parte del promotor un estudio hidrogeológico del subsuelo en la zona situada en el entorno del emplazamiento previsto, estableciendo las propiedades geológicas de los terrenos, litologías y estructura de los materiales, profundidad de la capa freática, tipo de porosidad y riesgo potencial de afectación a las aguas subterráneas.
+A partir de la zona de protección y en un ámbito de 150 metros de anchura, se podrán autorizar por el órgano competente todo tipo de construcciones, incluidas las de carácter residencial, de conformidad con lo previsto en el planeamiento territorial y urbanístico, siempre y cuando los proyectos correspondientes cuenten con el informe favorable y estudio previstos en el apartado anterior, los cuales no serán necesarios en el supuesto de que para la autorización del cementerio se hubiese dispuesto de los mismos.
+3. La ampliación de los cementerios existentes deberá ajustarse a las mismas normas establecidas anteriormente para los de nueva construcción.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Procedimiento aplicable.
+(Derogada)
+Se deroga por la disposición derogatoria única. b) de la Ley autonómica 17/2006, de 11 de diciembre. Ref. BOE-A-2007-975.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Exigencia de evaluación medioambiental a los planes en tramitación.
+(Derogada)
+Se deroga por la disposición derogatoria única. b) de la Ley autonómica 17/2006, de 11 de diciembre. Ref. BOE-A-2007-975.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Régimen Urbanístico de los cementerios.
+Las disposiciones del artículo tercero de la presente Ley serán de aplicación a los instrumentos de planeamiento urbanístico y a las licencias de construcción concedidas con posterioridad a la publicación en el "Boletín Oficial de Cantabria" de la Ley 2/2001, de 25 de junio, de Ordenación Territorial y Régimen Urbanístico del Suelo. A tal efecto, en el plazo de un mes desde la entrada en vigor de la presente Ley se deberá solicitar por el promotor a la Consejería de Sanidad, Consumo y Servicios Sociales el informe preceptivo previsto en el apartado primero del artículo 3, debiendo acompañar el estudio hidrogeológico previsto en el citado artículo.
+No obstante lo anterior, los terrenos clasificados en el planeamiento urbanístico como suelo urbano, urbanizable o apto para urbanizar con anterioridad a la publicación de la Ley de Cantabria 2/2001, de 25 de junio, estarán sujetos a los mismos requisitos establecidos en el artículo 3 de la presente Ley, con la salvedad de la anchura de la zona de protección prevista en el apartado 1, que quedará reducida a cinco metros.
+Se modifica por el art. 3.b) de la Ley autonómica 10/2002, de 23 de diciembre.Ref. BOE-A-2003-1590.
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Cantabria».
+
+Palacio del Gobierno de Cantabria, 24 de julio de 2002.
+JOSÉ JOAQUÍN MARTÍNEZ SIESO,
+Presidente

@@ -1,0 +1,118 @@
+# Ley 7/2005, de 4 de octubre, de horarios comerciales y apertura de festivos.
+
+- Identificador BOE: `BOE-A-2005-18179`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2005-18179
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+En nombre del Rey y como Presidente de la Comunidad Autónoma de Aragón, promulgo la presente Ley, aprobada por las Cortes de Aragón, y ordeno se publique en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado», todo ello de conformidad con lo dispuesto en el artículo 20.1 del Estatuto de Autonomía.
+PREÁMBULO
+El Estatuto de Autonomía, como norma institucional básica de Aragón, en su artículo 35.1.19.ª reconoce a esta Comunidad Autónoma la competencia exclusiva sobre comercio interior y defensa del consumidor y usuario, sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio del Estado y de la legislación sobre defensa de la competencia.
+El artículo 6 de la Ley 9/1989, de 5 de octubre, de Ordenación de la Actividad Comercial en Aragón, establece que las empresas fijarán libremente los días y el número de horas de actividad de los establecimientos comerciales de la Comunidad Autónoma. La aplicación de este principio de libertad, también estipulado por la legislación estatal en el artículo 2 de la Ley Orgánica 2/1996, de 15 de enero, complementaria de la Ordenación del Comercio Minorista, tenía un régimen transitorio de aplicación. Primero fue hasta el 1 de enero de 2001, estipulando para determinados establecimientos un mínimo de ocho días festivos de apertura y setenta y dos horas semanales, límites que podían ampliar las distintas Comunidades Autónomas. Posteriormente, el artículo 43 del Real Decreto-Ley 6/2000, de 23 de junio, de Medidas Urgentes de Intensificación de la Competencia en Mercados de Bienes y Servicios, desplazó el régimen transitorio hasta el 1 de enero de 2005, incrementando gradualmente el número de festivos autorizados hasta doce días festivos y noventa horas semanales. Esta última medida fue objeto del recurso de inconstitucionalidad número 5081/2000, interpuesto por el Gobierno de Aragón, al considerar que vulneraba el orden de competencias constitucional y estatutariamente establecido, y retirado tras la aprobación de la Ley 1/2004, de 21 de diciembre, de Horarios Comerciales.
+La citada Ley de Horarios Comerciales establece el horario global en días laborables en setenta y dos horas semanales, y en doce el número de domingos y festivos de apertura al año, permitiendo que las Comunidades Autónomas puedan variar al alza, en ambos casos, o reducir hasta ocho el número de domingos y festivos de apertura autorizados. En la Comunidad Autónoma de Aragón se parte de los límites establecidos en la norma estatal como opción más adecuada a los cambiantes hábitos de los consumidores, que cada día reclaman horarios más amplios fuera de los laborales para poder efectuar sus compras. No obstante, la actual estructura comercial aragonesa está compuesta en gran mayoría por pequeñas empresas comerciales de carácter familiar y autónomos que, en muchos casos, presentan dificultad de recursos para cubrir extras de apertura.
+No puede olvidarse que el comercio urbano de proximidad cumple una importante función social vertebrando nuestros municipios y constituyendo uno de los principales exponentes de nuestro estilo de vida y de nuestro modelo de ciudad mediterránea, así como también una función económica no menos importante en la creación de empleo autónomo y en la redistribución de la renta. Por ello, los poderes públicos han de adoptar las medidas de ordenación precisas para garantizar el equilibrio entre las diversas formas de comercio y evitar así un proceso de abandono de los centros urbanos y de alteración comercial.
+En la tramitación se ha oído a las Cámaras de Comercio e Industria de Aragón, así como a las Confederaciones de Empresarios, las Federaciones y Asociaciones de Empresarios de Comercio, Asociaciones de Consumidores y Organizaciones Sindicales más representativas de los distintos intereses legítimos del sector.
+La presente Ley, en desarrollo de lo dispuesto en la Ley 1/2004, de 21 de diciembre, de Horarios Comerciales, fija en ocho el número de domingos y festivos en los que los comercios podrán permanecer abiertos al público, facultando al Departamento competente en materia de comercio para incrementarlos según evolucione el sector comercial, oídos los distintos intereses legítimos del mismo.
+En cuanto al régimen sancionador, se mantiene el previsto en la normativa vigente.
+Por otra parte, la Ley prevé que los Ayuntamientos puedan acordar, por razones de orden público, y de manera singularizada, el cierre de establecimientos que vendan bebidas alcohólicas.
+Se modifica el artículo 1 del Decreto 103/1996, de 11 de junio, del Gobierno de Aragón, por el que se establece la regulación de la venta en rebajas, permitiendo a determinados tipos de comercios fijar las fechas de inicio y fin de las mismas, manteniendo el resto de requisitos establecidos en la citada norma.
+
+### Artículo 1
+
+Artículo 1. Horario global.
+1. El horario global en que los establecimientos comerciales podrán desarrollar su actividad durante el conjunto de días laborables de la semana será de noventa horas, sin perjuicio de lo dispuesto para los establecimientos con régimen especial de horarios.
+2. El horario global podrá ser ampliado por el Departamento competente en materia de comercio de forma motivada. La medida de ampliación podrá tomarse con carácter general para todo el comercio, o para sectores concretos, o para determinados establecimientos que reúnan circunstancias particulares por razón de su tamaño o situación geográfica, o cualquier otro factor que redunde en beneficio de la actividad comercial.
+Para la ampliación del horario global, que se iniciará de oficio o a instancia de parte interesada, serán oídos el Consejo Aragonés de Cámaras Oficiales de Comercio e Industria y cada una de ellas individualmente, las Organizaciones Empresariales y las de Comerciantes, de Consumidores y Sindicatos más representativos de la Comunidad Autónoma, así como las que representen a las grandes empresas de distribución.
+3. Dentro del límite máximo del horario global, cada comerciante establecerá libremente el horario de apertura y cierre, sin perjuicio de los derechos de los trabajadores, y respetando los derechos de los vecinos en cuanto a orden público y descanso nocturno.
+4. Los días y horas de apertura y cierre de cada establecimiento comercial deberán exponerse de forma que sea visible desde el exterior, incluso cuando el establecimiento se encuentre cerrado, para público conocimiento e información.
+Se modifica el apartado 4 por el art. único.1 de la Ley 3/2017, de 4 de mayo. Ref. BOE-A-2017-6859
+ Se modifica el apartado 1 por el art. 2.1 del Decreto-ley 1/2013, de 9 de enero. Ref. BOA-d-2013-90012.
+
+### Artículo 2
+
+Artículo 2. Domingos y festivos.
+1. El número de domingos y días festivos en que los comercios podrán permanecer abiertos al público será de diez, sin perjuicio de lo dispuesto para los establecimientos con régimen especial de horarios.
+2. Las fechas correspondientes a los domingos y festivos de apertura autorizada serán determinadas anualmente por Orden del Consejero competente en materia de comercio, atendiendo de forma prioritaria al atractivo comercial de dichos días para los consumidores, de acuerdo con los siguientes criterios:
+a) La apertura en al menos un día festivo cuando se produzca la coincidencia de dos ó más días festivos continuados.
+b) La apertura en los domingos y festivos correspondientes a los periodos de rebajas.
+c) La apertura en los domingos y festivos de mayor afluencia turística en la Comunidad Autónoma de Aragón.
+d) La apertura en los domingos y festivos en la campaña de Navidad.
+3. El procedimiento para la determinación de dichas fechas se iniciará de oficio o a instancia de parte interesada. Para su determinación serán oídos el Consejo Aragonés de Cámaras Oficiales de Comercio e Industria, las organizaciones empresariales y las de comerciantes, de consumidores y organizaciones sindicales más representativas de la Comunidad Autónoma, así como las que representen a las grandes empresas de distribución. Una vez adoptada la Orden por el Consejero competente en materia de comercio, se publicará en el "Boletín Oficial de Aragón".
+4. Mediante Orden, que será publicada en el "Boletín Oficial de Aragón", el Consejero competente en materia de comercio podrá aumentar, excepcionalmente y de forma motivada, el número de días de apertura en domingos y festivos previsto en el apartado 1.
+5. El horario de apertura en domingos y festivos será libremente fijado por el comerciante.
+6. Los Ayuntamientos podrán sustituir, del total de las fechas establecidas, un número de las mismas que anualmente establecerá el Departamento competente en materia de comercio, comunicándoselo y publicándolo con la suficiente antelación.
+Se modifica el apartado 1 por el art. 26 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+ Se modifica por el art. 2.2 del Decreto-ley 1/2013, de 9 de enero. Ref. BOA-d-2013-90012.
+
+### Artículo 3
+
+Artículo 3. Establecimientos con régimen especial de horarios.
+1. Las limitaciones a las que se refiere esta Ley no serán de aplicación en los siguientes casos:
+a) Los establecimientos dedicados principalmente a la venta de pastelería y repostería, pan, platos preparados, prensa, combustibles y carburantes, floristerías y plantas, así como los instalados en puntos fronterizos, en estaciones y medios de transporte.
+b) Los establecimientos de venta de reducida dimensión distintos de los anteriores que dispongan de una superficie útil para la exposición y venta al público inferior a 300 metros cuadrados, excluidos los pertenecientes a empresas o grupos de distribución que no tengan la consideración de pequeña y mediana empresa según la legislación vigente.
+c) Las tiendas de conveniencia, entendiéndose por tales, aquellas que, con una superficie útil de exposición y venta al público no superior a 500 metros cuadrados, permanezcan abiertas al público al menos dieciocho horas al día y distribuyan su oferta, en forma similar, entre libros, periódicos y revistas, artículos de alimentación, discos, música, videos, juguetes, regalos y artículos varios.
+d) Los establecimientos ubicados en zonas de gran afluencia turística. Se considerarán zonas de gran afluencia turística, aquellas áreas coincidentes con la totalidad del municipio o parte del mismo en las que concurra alguna de las siguientes circunstancias:
+– Existencia de una concentración suficiente, cuantitativa o cualitativamente, de plazas en alojamientos y establecimientos turísticos o bien en el número de segundas residencia respecto a las que constituyen residencia habitual.
+– Que haya sido declarado Patrimonio de la Humanidad o en el que se localice un bien inmueble de interés cultural integrado en el patrimonio histórico artístico.
+– Que limiten o constituyan áreas de influencia de zonas fronterizas.
+– Celebración de grandes eventos deportivos o culturales de carácter nacional o internacional.
+– Que constituyan áreas cuyo principal atractivo sea el turismo de compras.
+– Cuando concurran circunstancias especiales que así lo justifiquen.
+La propuesta de declaración de zona de gran afluencia turística que efectúe el Ayuntamiento correspondiente deberá estar debidamente motivada y especificará de forma clara la zona incluida y el periodo o periodos del año a los que se circunscribe la propuesta, aportándose la documentación e informes precisos sobre el cumplimiento de alguno de los criterios anteriores.
+La propuesta presentada por el Ayuntamiento se aprobará o denegará mediante Orden del Consejero competente en materia de comercio, que se publicará en el "Boletín Oficial de Aragón". La superficie de la zona propuesta podrá ser modificada de forma razonada. En el supuesto de denegación de la propuesta, se deberá motivar de forma expresa la falta de concurrencia de las circunstancias antes expresadas para dicha declaración.
+Si desaparecieran las circunstancias que motivaron la declaración de zona de gran afluencia turística, el Departamento competente en materia de comercio podrá proceder a la revocación de la misma, previa audiencia del Ayuntamiento del municipio afectado.
+2. Las oficinas de farmacia, así como los estancos, se regirán por su normativa específica, aplicándose en su defecto las disposiciones de esta Ley.
+Se modifica el apartado1.b) por el art. único.2 de la Ley 3/2017, de 4 de mayo. Ref. BOE-A-2017-6859
+ Se modifica por el art. 2.3 del Decreto-Ley 1/2013, de 9 de enero. Ref. BOA-d-2013-90012.
+
+### Artículo 4
+
+Artículo 4. Régimen sancionador.
+El incumplimiento de lo dispuesto en la presente norma se sancionará según lo dispuesto en la legislación aplicable.
+
+### Disposición adicional única
+
+Disposición adicional única. Competencias municipales.
+Por razones de orden público y seguridad ciudadana, los Ayuntamientos podrán adoptar las medidas y procedimientos correspondientes para acordar el cierre, de manera singularizada y motivada, de establecimientos comerciales que vendan bebidas alcohólicas.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Calendario para 2005.
+1. Durante el cuarto trimestre de 2005 se autoriza la apertura de los siguientes domingos y festivos: 1 de noviembre, 4, 11 y 18 de diciembre, sin perjuicio de lo dispuesto para los establecimientos con régimen especial de horarios.
+2. Los Ayuntamientos, para todo el comercio ubicado en su término municipal, podrán sustituir hasta dos de las fechas establecidas para 2005 cumpliendo los siguientes requisitos:
+a) Comunicar a la Dirección General de Comercio y Artesanía las festividades cuya sustitución se propone en el plazo de un mes desde la entrada en vigor de la presente Ley.
+b) El Ayuntamiento correspondiente deberá hacer pública, en su caso, la sustitución de los días festivos.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Venta en períodos de rebajas.
+1. Las ventas en rebajas realizadas por los comerciantes sólo podrán llevarse a cabo en dos temporadas anuales, una al principio del año y otra en el periodo estival. Por Orden del Departamento competente en materia de comercio se determinarán las fechas de inicio y fin de las rebajas.
+2. Los establecimientos que dispongan de una superficie útil de exposición y venta al público inferior a 300 metros cuadrados, excluidos los pertenecientes a empresas o grupos de distribución que no tengan la consideración de pequeña y mediana empresa según la normativa vigente o que operen bajo el mismo nombre comercial de dichos grupos o empresas, tendrán libertad para determinar las fechas de inicio y fin de las rebajas respetando ambas temporadas de principio de año y de periodo estival.
+
+### Disposición final segunda
+
+Disposición final segunda. Regulación del régimen sancionador.
+En el plazo de tres meses desde la entrada en vigor de la presente Ley se establecerá un régimen sancionador en materia de horarios comerciales y apertura en domingos y festivos.
+
+### Disposición final tercera
+
+Disposición final tercera. Desarrollo reglamentario.
+Se habilita al Gobierno de Aragón para dictar las disposiciones reglamentarias necesarias en desarrollo y aplicación de la presente Ley.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Aragón.
+
+Así lo dispongo a los efectos del artículo 9.1 de la Constitución y los correspondientes del Estatuto de Autonomía de Aragón.
+Zaragoza, 4 de octubre de 2005.
+MARCELINO IGLESIAS RICOU,
+Presidente

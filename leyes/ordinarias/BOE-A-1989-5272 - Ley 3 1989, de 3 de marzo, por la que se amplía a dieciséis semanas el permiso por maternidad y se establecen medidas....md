@@ -1,0 +1,76 @@
+# Ley 3/1989, de 3 de marzo, por la que se amplía a dieciséis semanas el permiso por maternidad y se establecen medidas para favorecer la igualdad de trato de la mujer en el trabajo.
+
+- Identificador BOE: `BOE-A-1989-5272`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1989-5272
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la, presenten vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley
+EXPOSICIÓN DE MOTIVOS
+I
+Mediante Acuerdo adoptado en su reunión de 25 de septiembre de 1987, el Consejo de Ministros tomó conocimiento del Plan de Acción para la Igualdad de Oportunidades de las Mujeres, elaborado por el Consejo Rector del Instituto de la Mujer. En dicho Plan se contiene un notable número de medidas relativas al empleo y las relaciones laborales, apareciendo entre ellas acciones concretas dirigidas a hacer compatible la realización del trabajo con el ejercicio de la maternidad y la paternidad.
+Dentro de estas últimas acciones se enmarcan las que mediante la presente Ley van a ponerse en práctica, relativas al descanso por maternidad y la excedencia por cuidado de hijos. La regulación que hasta ahora existía de estas cuestiones no ofrecía los niveles adecuados para evitar que la atención de las situaciones derivadas del nacimiento de hijos incida negativamente sobre la vida laboral de los trabajadores.
+II
+Así, en lo que se refiere al descanso por maternidad, la duración de catorce semanas fijada tanto en el Estatuto de los Trabajadores como en la normativa para funcionarios, precisaba de una ampliación para así garantizar, de acuerdo con las directrices de la Organización Mundial de la Salud, la adecuada atención de la salud de la madre y la mejor relación de ésta con su hijo. En el mismo sentido, el Convenio 103 de la OIT sobre Protección de la Maternidad, ratificado por España el 26 de mayo de 1965, impone un descanso obligatorio de seis semanas después del parto, exigencia ésta que no se recogía en el Estatuto de los Trabajadores. De ahí la necesidad de proceder a una reforma de dichas normas, en el doble sentido de ampliar la duración de este descanso y fijar el carácter obligatorio de una parte del mismo después del parto.
+Asimismo, se ha considerado conveniente asimilar a este supuesto, con un tratamiento específico, los casos de adopción de menores de cinco años.
+III
+En lo referente a la regulación de la excedencia por cuidado de hijos, la configuración de la misma como excedencia voluntaria, y sin derecho por tanto a la reserva de puesto de trabajo en la empresa, podía constituir, bien un serio factor de disuasión para el pase a esta situación, bien un elemento de apartamiento del mercado de trabajo de quienes se acogiesen a esta fórmula. Por ello se ha buscado una nueva fórmula legal que establece el derecho a la reserva del puesto de trabajo al menos durante el primer año, con lo que las empresas o la Administración pueden utilizar para la sustitución temporal del trabajador o funcionario las modalidades contractuales correspondientes, con lo que se abren también posibilidades de empleo para otras personas. Igualmente se ha tenido en cuenta la línea marcada por la Ley 21/1987, de 11 de noviembre, que proporciona una nueva regulación a la adopción, de forma que también en los supuestos de paternidad o maternidad adoptiva pueda hacerse uso de esta excedencia, al darse en este supuesto las mismas circunstancias de necesidad de atención a los hijos que concurren en los de paternidad o maternidad por naturaleza.
+IV
+Por otra parte, en el Plan de Acción para la Igualdad de Oportunidades de las Mujeres, y dentro de los objetivos relativos a impedir la discriminación por razón de sexo, se señala que las mujeres están expuestas en mayor medida a la presión y al acoso sexual en el trabajo por parte de sus colegas y superiores, por lo que se hace necesario prevenir este tipo de situaciones.
+Aunque en la normativa vigente se establecen ya derechos que pueden servir para prevenir las situaciones de acoso sexual en el trabajo, como son el del respeto a la intimidad del trabajador o trabajadora y a la consideración debida a su dignidad en la esfera laboral y el llamado derecho de protección en la esfera funcionarial, la efectividad de estos derechos genéricos exige una mayor clarificación a fin de que tales situaciones queden claramente integradas en la esfera de la tutela jurídica dispensada por tales preceptos
+
+### Artículo primero
+
+Artículo primero.
+(Derogado)
+Se deroga por la disposición derogatoria única del Real Decreto Legislativo 1/1995, de 24 de marzo. Ref. BOE-A-1995-7730.
+
+### Artículo segundo
+
+Artículo segundo.
+1. El número 1 del artículo 29 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, queda redactado de la siguiente forma:
+«1. Quedan suprimidas las situaciones administrativas de excedencia especial y de supernumerario, creándose la de servicios especiales y la de excedencia para el cuidado de hijos.»
+2. Se adiciona un nuevo número al artículo 29 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, con la siguiente redacción:
+«4. Excedencia para el cuidado de hijos.
+Los funcionarios tendrán derecho a un período de excedencia, no superior a tres años, para atender el cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción, a contar desde la fecha del nacimiento de éste. Los sucesivos hijos darán derecho a un nuevo período de excedencia que, en su caso, pondrá fin al que se viniera disfrutando. Cuando el padre y la madre trabajen, sólo uno de ellos podrá ejercitar este derecho. Durante el primer año de duración de cada período de excedencia, los funcionarios en esta situación tendrán derecho a la reserva del puesto de trabajo y a su cómputo a efectos de trienios, consolidación del grado personal y derechos pasivos.»
+3. Se adiciona un nuevo número al artículo 30 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, con la siguiente redacción:
+«3. En el supuesto de parto, las funcionarias tendrán derecho a un permiso de dieciséis semanas ininterrumpidas ampliables por parto múltiple hasta dieciocho semanas. El período de permiso se distribuirá a opción de la interesada siempre que seis semanas sean inmediatamente posteriores al parto, pudiendo hacer uso de éstas el padre para el cuidado del hijo en caso de fallecimiento de la madre.
+No obstante lo anterior, en el caso de que la madre y el padre trabajen, aquélla, al iniciarse el período de permiso por maternidad, podrá optar por que el padre disfrute de hasta cuatro de las últimas semanas del permiso, siempre que sean ininterrumpidas y al final del citado período, salvo que en el momento de su efectividad la incorporación al trabajo de la madre suponga riesgo para su salud.
+En el supuesto de adopción de un menor de nueve meses, el funcionario tendrá derecho a un permiso de ocho semanas contadas a partir de la resolución judicial por la que se constituye la adopción. Si el hijo adoptado es menor de cinco años y mayor de nueve meses, el permiso tendrá una duración máxima de seis semanas. En el caso de que el padre y la madre trabajen, sólo uno de ellos podrá ejercitar este derecho.»
+
+### Artículo tercero
+
+Artículo tercero.
+Se adiciona un nuevo párrafo al número 1 del artículo 63 de la Ley de Funcionarios Civiles del Estado, Texto Articulado de 7 de febrero de 1964, con la siguiente redacción:
+«Asimismo, los funcionarios tendrán derecho al respeto de su intimidad y a la consideración debida a su dignidad, comprendida la protección frente a ofensas verbales o físicas de naturaleza sexual.»
+
+### DISPOSICIÓN ADICIONAL
+
+(Derogada)
+Se deroga por la disposición derogatoria única del Real Decreto Legislativo 1/1994, de 20 de junio. Ref. BOE-A-1994-14960.
+ Se modifica el último párrafo por el art. 3 de la Ley 8/1992, de 30 de abril. Ref. BOE-A-1992-9361.
+
+### DISPOSICIÓN TRANSITORIA
+
+Las suspensiones del contrato de trabajo o los permisos por maternidad, así como las situaciones de excedencia por nacimiento de hijos que se hayan iniciado con anterioridad a la entrada en vigor de esta Ley, se regirán por la misma, siempre que no se hayan agotado los plazos establecidos por las normas vigentes en el momento de su iniciación, ni se superen los que en esta Ley se determinan.
+DISPOSICIONES FINALES
+Primera.
+Se consideran bases del régimen estatutario de los funcionarios públicos, dictadas al amparo del artículo 149.1.18.º de la Constitución, y, en consecuencia, aplicables al personal de todas las Administraciones Públicas los preceptos contenidos en el número 4 del artículo 29 y en el número 3 del artículo 30 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, así como el artículo 3 de la presente Ley.
+Segunda.
+Se autoriza al Gobierno a dictar las disposiciones reglamentarias necesarias para la aplicación de lo previsto en esta Ley.
+Tercera.
+Queda suprimido el apartado b) del número 3 del artículo 29 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela, Madrid, a 3 de marzo de 1989.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

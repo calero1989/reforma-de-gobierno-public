@@ -1,0 +1,283 @@
+# Ley 2/2008, de 11 de julio, por la que se crea el Instituto de Finanzas de Cantabria.
+
+- Identificador BOE: `BOE-A-2008-13911`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2008-13911
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE CANTABRIA
+Conózcase que el Parlamento de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2 del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 2/2008, de 11 de julio, por la que se crea el Instituto de Finanzas de Cantabria.
+PREÁMBULO
+Al amparo del artículo 148.1,13.ª de la Constitución las Comunidades Autónomas pueden asumir competencias en materia de fomento del desarrollo económico de la Comunidad Autónoma dentro de los objetivos marcados por la política económica nacional y en el mismo el Estatuto de Autonomía de Cantabria, precisa que la Comunidad Autónoma de Cantabria tiene competencia exclusiva, como dispone el artículo 24 en su apartado 14, sobre la planificación de la actividad económica y fomento del desarrollo de Cantabria, dentro de los objetivos marcados por la política económica del Estado y del sector público empresarial y fundacional económico de la Comunidad.
+Entre estos objetivos destacan de forma relevante los derivados de los principios de estabilidad presupuestaria, reflejados en nuestro ordenamiento en tanto que recepción del sistema de la Unión Europea en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, vinculantes para la Comunidad Autónoma de Cantabria.
+Precisamente en atención a estas finalidades se prevé en el artículo 57.5 que la Comunidad Autónoma de Cantabria queda facultada para constituir instituciones que fomenten la ocupación y el desarrollo económico y social, marco general en el que cabe situar las iniciativas que persiguen dotar a la Comunidad Autónoma de un sector público empresarial y fundacional eficiente, vinculado con la sociedad a la que representa.
+La creación del Instituto de Finanzas de Cantabria pretende ser una iniciativa esencial en la racionalización de la política financiera y económica del sector público empresarial y fundacional de la Comunidad Autónoma, que aunará los esfuerzos necesarios para conseguir mayor eficiencia y eficacia en la gestión financiera y presupuestaria, confiriendo a una Entidad especializada las funciones de agente financiero del sector público empresarial y fundacional. De este modo se facilitará el seguimiento del principio de estabilidad presupuestaria, asegurando la posibilidad de allegar mayor volumen de recursos financieros al servicio de la ejecución de las políticas públicas.
+Se modifica por el art. 17 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+## TÍTULO I
+
+Naturaleza y régimen
+
+### Artículo 1
+
+Artículo 1. Denominación y objetivo.
+1. Se crea, con la denominación «Instituto de Finanzas de Cantabria», una Entidad autonómica de Derecho Público de las contempladas en la letra g) del apartado 1 del artículo 2 de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria, que se configura como agente financiero del sector público empresarial y fundacional autonómico para el fomento de las actividades económicas estratégicas de Cantabria, y que desempeñará sus funciones con plena autonomía y en régimen de mercado, en los términos previstos en esta Ley.
+2. El Instituto de Finanzas de Cantabria tiene como objetivo contribuir de forma sostenible al desarrollo económico y social de Cantabria mediante la planificación, gestión y apoyo financiero del sector público empresarial y fundacional autonómico en aras a su mejor adaptación a las finalidades que le son propias, y a una mayor eficacia en la consecución de los objetivos de interés estratégico para la Comunidad. En particular, el Instituto de Finanzas de Cantabria velará por:
+a) habilitar una gestión financiera integrada al servicio de la coherencia de la actuación del sector público empresarial y fundacional con el marco de estabilidad financiera y presupuestaria vigente en cada momento;
+b) unificar la planificación, gestión y ejecución de la financiación privada del sector público empresarial y fundacional, racionalizando su distribución, optimizando su coste, y sectorializando su aplicación en función de las prioridades resultantes de las políticas de inversión, fomento o saneamiento;
+c) acceder a nuevos mercados y productos financieros, así como a nuevas modalidades de financiación más eficientes;
+d) arbitrar la colaboración financiera con organismos, entidades y fondos públicos, en el ámbito nacional e internacional, así como con otras entidades especializadas en la financiación de políticas públicas de inversión, fomento y saneamiento productivo;
+e) impulsar la participación de la iniciativa privada en el fomento de actividades e inversiones de interés estratégico para la Comunidad;
+f) incorporar un saber hacer financiero que dote al sector público empresarial y fundacional de mayores capacidades y conocimientos para la mejor gestión de sus necesidades de financiación comercial;
+g) potenciar su integración en redes de colaboración financiera institucional junto con otros organismos que desarrollen actividades análogas;
+h) dotarse de mecanismos flexibles de intervención que le permitan contribuir a paliar situaciones de crisis económica en sectores de interés estratégico para la Comunidad.
+
+### Artículo 2
+
+Artículo 2. Estatuto jurídico.
+1. El Instituto de Finanzas de Cantabria tiene personalidad jurídica propia y plena capacidad pública y privada, y se rige por su Ley de creación, sin perjuicio de la aplicación supletoria de las disposiciones aplicables a las entidades públicas empresariales.
+2. El Instituto de Finanzas de Cantabria goza, para el cumplimiento de los fines que la Ley le asigna, de plena autonomía administrativa, económica y financiera en su organización y funcionamiento. Tiene, en consecuencia, un patrimonio propio.
+3. La actividad del Instituto de Finanzas de Cantabria se regirá por las normas de Derecho privado, civil, mercantil y laboral, sin perjuicio de su sometimiento al Derecho administrativo cuando resulte de imperativa aplicación de conformidad con la normativa básica estatal.
+4. El Instituto de Finanzas de Cantabria se adscribe a la Consejería competente en materia de Hacienda.
+
+## TÍTULO II
+
+Estructura y organización
+
+### Artículo 3
+
+Artículo 3. Órganos del Instituto de Finanzas de Cantabria.
+1. Son órganos del Instituto de Finanzas de Cantabria, el Presidente, el Consejo Ejecutivo y el Director Gerente.
+2. El Instituto de Finanzas de Cantabria se dotará de la estructura y los medios humanos y materiales necesarios para el cumplimiento de sus fines, en ejercicio de sus facultades de autoorganización.
+Se modifica el apartado 1 por el art. 13.1 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Artículo 4
+
+Artículo 4. El Consejo de Supervisión. Composición y funciones.
+(Suprimido).
+Se suprime por el art. 13.2 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+ Se modifica el apartado 4.a) por el art. 23 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+ Se modifican los apartados 2 y 4 por el art. 30.1 de la Ley 6/2015, de 28 de diciembre. Ref. BOE-A-2016-478
+ Se modifica el apartado 2 por la disposición adicional 22 de la Ley 2/2012, de 30 de mayo. Ref. BOE-A-2012-7709
+
+### Artículo 5
+
+Artículo 5. El Consejo Ejecutivo. Composición y funciones.
+1. El Consejo Ejecutivo es el superior órgano de gobierno del Instituto de Finanzas de Cantabria, y en él se residencia el ejercicio de las facultades que le son encomendadas por esta Ley y sus disposiciones de desarrollo.
+2. Forman parte del Consejo Ejecutivo:
+a) El Presidente del Instituto de Finanzas de Cantabria.
+b) El titular de la Consejería competente en materia de Industria.
+c) El titular de la Dirección General competente en materia de Política Financiera.
+d) El titular de la Dirección Competente en materia de Economía
+e) El Director de la Agencia Cántabra de Administración Tributaria
+f) Dos vocales designados por el Gobierno, entre personas independientes de reconocida competencia, prestigio y experiencia en el área de la economía y las finanzas, a propuesta del titular de la Consejería competente en materia de Economía y Hacienda.
+A las reuniones del Consejo Ejecutivo asistirá el Director Gerente con voz, pero sin voto.
+3. Desempeñará la Secretaría la persona que designe el Consejo Ejecutivo, con voz pero sin voto.
+4. Corresponde al Consejo Ejecutivo, en los términos que al efecto disponga el Reglamento orgánico del Instituto de Finanzas de Cantabria:
+a) Formar la voluntad del Instituto de Finanzas de Cantabria y aprobar las directrices de su actuación en las materias y funciones contempladas en esta Ley.
+b) Aprobar las cuentas anuales y el informe de gestión del Instituto de Finanzas de Cantabria.
+c) Aprobar el proyecto anual de presupuesto de explotación y capital del Instituto de Finanzas de Cantabria y su programa de actuación plurianual, conforme a lo previsto en el Capítulo V del Título II de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria.
+d) Aprobar el organigrama y la relación de puestos de trabajo del Instituto de Finanzas de Cantabria.
+e) Fijar las cuantías a percibir en concepto de asistencias por los miembros del Consejo de Supervisión y de la Secretaría, en el marco de la política de retribuciones del sector público empresarial y fundacional, en los términos previstos en la normativa vigente
+f) Formular un informe anual que recoja los resultados más significativos del sector de actividades al que se extiende la competencia del Instituto de Finanzas de Cantabria.
+g) Cualesquiera otras que por esta Ley o sus normas de desarrollo atribuyan expresamente al Consejo Ejecutivo.
+5. Las competencias del Consejo Ejecutivo podrán ser delegadas en el Director Gerente, salvo las indelegables y específicamente aquellas que se refieran a asuntos que deban someterse al Gobierno de Cantabria para su aprobación.
+Se modifica el apartado 2 por el art. 13.3 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+ Se modifica el apartado 4.e) por el art. 4.1 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+ Se modifica el aparado 2 por el ar. 36.1 de la Ley 10/2013, de 27 de diciembre. Ref. BOE-A-2014-510
+ Se modifica el apartado 2 por el art. 12.1 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+
+### Artículo 6
+
+Artículo 6. El Presidente del Instituto de Finanzas de Cantabria.
+1. Presidirá el Instituto de Finanzas de Cantabria el titular de la Consejería en la que recaigan las competencias en materia de Hacienda, Finanzas y Presupuestos, quien se erige en el cauce de relación entre el Gobierno y el Instituto de Finanzas de Cantabria.
+2. El Presidente, en tanto ostente la Presidencia de los órganos colegiados del Instituto de Finanzas de Cantabria, desempeñará las funciones propias de su cargo, en los términos establecidos por el Reglamento orgánico.
+
+### Artículo 7
+
+Artículo 7. El Director Gerente.
+1. El Gobierno de la Comunidad Autónoma nombrará, a propuesta del Presidente del Instituto de Finanzas de Cantabria, al Director Gerente del Instituto de Finanzas de Cantabria, entre personas con capacidad, preparación técnica y experiencia suficiente para ejercer las funciones propias de su cargo.
+Su remoción cabe por expiración de su mandato, que se fija en cuatro años, renuncia expresa y escrita, y separación acordada por el Consejo de Gobierno. Podrá ser sucesivamente renovado por igual periodo, sin limitación de mandatos.
+2. La relación del Director Gerente con el Instituto de Finanzas de Cantabria tendrá naturaleza laboral, y se regirá específicamente por las disposiciones del Real Decreto 1382/1985, de 1 de agosto, y demás normativa concordante.
+3. El desempeño del cargo de Director Gerente del Instituto de Finanzas de Cantabria está sometido al régimen de incompatibilidades previsto por las leyes.
+4. El Director Gerente responde ante el Consejo Ejecutivo del Instituto de Finanzas de Cantabria.
+5. Corresponde al Director Gerente:
+a) La dirección del Instituto de Finanzas de Cantabria y su representación.
+b) La elaboración de propuestas en aquellas materias de la competencia del Consejo Ejecutivo.
+c) Las competencias precisas para la organización interna del Instituto de Finanzas de Cantabria, incluidas las competencias en materia de selección, nombramiento y remoción del personal al servicio de la Entidad, de conformidad con la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+d) Cualquier otra competencia del Instituto de Finanzas de Cantabria que no se encuentre expresamente atribuida a órganos distintos.
+Se modifica el apartado 5.b) por el art. 4.2 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 8
+
+Artículo 8. Desempeño del cargo de vocal del Consejo Ejecutivo.
+1. Durante el tiempo que dure su mandato, los vocales del Consejo Ejecutivo deberán abstenerse de realizar cualesquiera actividades que puedan menoscabar su independencia e imparcialidad en el ejercicio de sus funciones, sin perjuicio del régimen específico de incompatibilidad que les resulte de aplicación.
+2. La renuncia expresa y escrita, así como la finalización del plazo de su mandato, que se fija en cuatro años, y separación acordada por el Gobierno, son causas de cese de los vocales que forman parte del Consejo Ejecutivo.
+3. Los vocales del Consejo Ejecutivo tendrán derecho a percibir las cuantías por asistencias aprobadas de conformidad con el artículo 5.4.e) de esta Ley, en los términos previstos en la normativa vigente.
+
+### Artículo 9
+
+Artículo 9. Personal al servicio del Instituto de Finanzas de Cantabria.
+1. El Instituto de Finanzas de Cantabria tendrá plena autonomía orgánica y funcional, incumbiéndole la aprobación y actualización de su propio organigrama y relación de puestos de trabajo, de conformidad con su presupuesto anual.
+2. El personal al servicio del Instituto de Finanzas de Cantabria estará vinculado al mismo por una relación laboral, sujeta a las normas de Derecho privado que corresponda, y de conformidad con el Estatuto Básico del Empleado Público. Su selección se realizará de acuerdo con la normativa que resulte de aplicación y con pleno respeto de los principios de igualdad, mérito y capacidad.
+
+### Artículo 10
+
+Artículo 10. Deber de reserva.
+Los miembros de órganos colegiados y unipersonales y el personal del Instituto de Finanzas de Cantabria deberán guardar secreto, incluso después de cesar en sus funciones, de las deliberaciones y de cuantas informaciones tuvieran conocimiento por razón de su cargo.
+
+## TÍTULO III
+
+Funciones del Instituto de Finanzas de Cantabria
+
+### Artículo 11
+
+Artículo 11. Funciones de Financiación, Aseguramiento y Garantía.
+1. Dentro de los límites que, por razón de importe máximo a conceder en cada ejercicio, se determinen mediante Acuerdo del Consejo de Gobierno, el Instituto de Finanzas de Cantabria podrá financiar mediante operaciones de crédito o préstamo y conceder avales u otro tipo de garantías a entidades pertenecientes al sector público empresarial y fundacional autonómico.
+2. Previo acuerdo de su Consejo Ejecutivo y con la posterior autorización específica del Consejo de Gobierno para cada operación o línea de actuación, el Instituto de Finanzas de Cantabria podrá:
+a) Formalizar avales u otro tipo de garantías a favor de personas naturales o jurídicas pertenecientes al sector privado siempre que su domicilio social, establecimiento permanente o centro de dirección se sitúen, o vayan a situarse, en Cantabria, con excepción de las entidades señaladas en el apartado d). El Instituto de Finanzas de Cantabria podrá reservarse los beneficios de excusión, orden, división y plazo respecto a los avales que preste. El aval podrá adoptar cualquiera de las formas previstas por las leyes.
+b) Formalizar créditos u otro tipo de operaciones de financiación, sean éstos de carácter ordinario, subordinados o participativos, bonificados o no, a favor de personas naturales o jurídicas pertenecientes al sector privado siempre que su domicilio social, establecimiento permanente o centro de dirección se sitúen, o vayan a situarse, en Cantabria.
+c) Establecer programas o líneas de actuación directa, mediante la concesión de operaciones de financiación y avales, a favor de pequeñas y medianas empresas cuyo domicilio social, establecimiento permanente o centro de dirección se sitúen, o vayan a situarse, en Cantabria. El programa o la línea de actuación establecerá las condiciones a las que se deberán someter las pequeñas y medianas empresas para tener acceso al mismo; la aprobación de cada una de las operaciones de financiación o aval enmarcadas dentro del programa o línea de actuación solamente requerirá la aprobación del Consejo Ejecutivo de ICAF.
+d) Formalizar créditos u otro tipo de operaciones de financiación, así como de aseguramiento o garantía a favor de las entidades inscritas en el Registro de Comunidades Cántabras que prevé el artículo 5 de la Ley de Cantabria 2/2018, de 8 de mayo, de Casas de Cantabria. El Instituto de Finanzas de Cantabria podrá reservarse los beneficios de excusión, orden, división y plazo respecto a los avales que preste. El aval podrá adoptar cualquiera de las formas previstas por las leyes.
+e) Formalizar créditos u otro tipo de operaciones de financiación, así como de aseguramiento o garantía a favor de las Cámaras Oficiales de Comercio, Industria, Servicios y Navegación cuyo domicilio social se sitúe en Cantabria. El Instituto de Finanzas de Cantabria podrá reservarse los beneficios de excusión, orden, división y plazo respecto a los avales que preste. El aval podrá adoptar cualquiera de las formas previstas por las leyes.
+f) Efectuar aportaciones o participar en la gestión y órganos de gobierno de entidades de inversión colectiva o entidades o fondos de capital riesgo constituidos con finalidad de facilitar la financiación o la promoción de empresas no financieras.
+g) Formalizar créditos u otro tipo de operaciones de financiación para la integración de viviendas en el Parque de Vivienda Protegida o cuando se trate de operaciones de financiación que se enmarquen en un Plan diseñado por el Gobierno de Cantabria para facilitar el acceso a la vivienda.
+h) Establecer programas o líneas de actuación directa, mediante la concesión de operaciones de avales, a favor particulares cuyo domicilio fiscal se sitúe en Cantabria para la adquisición de viviendas. El programa o la línea de actuación establecerá las condiciones a las que se deberán someter los particulares para tener acceso al mismo. La aprobación de cada una de las operaciones de aval enmarcadas dentro del programa o línea de actuación solamente requerirá la aprobación del Consejo Ejecutivo del Instituto de Finanzas de Cantabria.
+3. Con independencia de lo señalado en el apartado anterior y dentro de los límites que apruebe el Consejo de Gobierno anualmente, el Instituto de Finanzas de Cantabria podrá contra garantizar, mediante operaciones de segundo aval, los créditos avalados por sociedades de garantía recíproca a favor de empresas de naturaleza privada cuyo domicilio social, establecimiento permanente o centro de dirección se sitúen, o vayan a situarse, en Cantabria.
+4. Con carácter general, para el desempeño de las actividades contempladas en el presente Título, el Instituto de Finanzas de Cantabria podrá utilizar los instrumentos de Derecho público y privado adecuados, y suscribir convenios de colaboración, conciertos y protocolos de actuación con cualquier Administración pública, y cualquier ente o institución de carácter público o privado. En particular, el Instituto podrá establecer convenios con instituciones públicas y privadas, nacionales e internacionales, para la canalización y administración de fondos y facilidades financieras de toda naturaleza relacionados con su actividad.
+5. Excepcionalmente, para paliar los efectos derivados de grave crisis económica, sanitaria, catástrofe o situación similar extraordinaria que se considere, el Consejo Ejecutivo de Instituto de Finanzas de Cantabria, previa autorización del Consejo de Gobierno, podrá aprobar líneas de créditos bonificados, a los autónomos y pymes, siempre que su domicilio social, establecimiento permanentemente o centro de dirección se sitúe en Cantabria, en el marco de la correspondiente convocatoria. La aprobación de las operaciones de importe inferior a 50.000,00 € corresponderá directamente al Consejo Ejecutivo del Instituto de Finanzas de Cantabria, debiendo dar cuenta posteriormente al Consejo de Gobierno.
+Para este tipo de operaciones financieras el Consejo ejecutivo deberá establecer las instrucciones que, en todo caso tendrán que prever, con carácter previo a su formalización, los requisitos y obligaciones de los destinatarios y el procedimiento de aprobación. Estas instrucciones deberán respetar los principios de publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación.
+Se modifican los apartados 2 y 3 por el art. 8.1 al 3 de la Ley 5/2026, de 28 de abril. Ref. BOE-A-2026-10431
+ Se añade la letra e) al apartado 2 por el art. 7 de la Ley 3/2024, de 23 de diciembre. Ref. BOE-A-2025-643
+ Se añade el apartado 5 por el art. 13.6 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+ Se modifica el apartado 2 por el art. 4.3 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+ Se modifica el apartado 2.d) por el art. 14 de la Ley 11/2018, de 21 de diciembre. Ref. BOE-A-2019-1632
+ Se modifica el apartado 2 por el art. 19 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
+ Se modifica el apartado 2 por el art. 30.2 de la Ley 6/2015, de 28 de diciembre. Ref. BOE-A-2016-478
+ Se modifica el apartado 2 por el art. 27 de la Ley 7/2014, de 26 de diciembre. Ref. BOE-A-2015-685
+ Se modifica por el ar. 36.2 de la Ley 10/2013, de 27 de diciembre. Ref. BOE-A-2014-510
+ Se modifican los apartados 1, 2 y 5 y se añade el 9 por el art. 12.2 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+
+### Artículo 12
+
+Artículo 12. Funciones relacionadas con el asesoramiento, la coordinación y el control de la gestión financiera del sector público empresarial y fundacional de la Comunidad Autónoma.
+1. Sin perjuicio de las competencias legalmente atribuidas a otros entes u órganos de la Administración, se encomiendan al Instituto de Finanzas de Cantabria las funciones de asesoramiento, coordinación y control de la gestión financiera del sector público empresarial y fundacional de la Comunidad Autónoma.
+2. El Instituto de Finanzas de Cantabria perseguirá las siguientes finalidades en la gestión financiera del sector público empresarial y fundacional:
+a) La ejecución de las directrices financieras y presupuestarias de la Comunidad Autónoma en el marco de estabilidad financiera y presupuestaria vigente en cada momento, y la verificación de su cumplimiento.
+b) La fijación de criterios financieros y presupuestarios de gestión de las entidades acordes con el interés público autonómico.
+3. El Instituto de Finanzas de Cantabria, para el cumplimiento de las finalidades establecidas en esta Ley, podrá desempeñar las siguientes funciones:
+a) Fijar las directrices de planificación financiera y presupuestaria, y supervisar la gestión del sector público empresarial y fundacional de la Comunidad Autónoma, velando por el cumplimiento de los objetivos económico-financieros que respectivamente tengan señalados.
+b) Velar por la fortaleza financiera y patrimonial del sector público empresarial y fundacional de la Comunidad Autónoma, articulando los mecanismos necesarios para su realización.
+c) El asesoramiento, la gestión y el control, respecto del sector público empresarial y fundacional de la Comunidad Autónoma, de todo tipo de operaciones financieras activas y pasivas.
+4. El Instituto de Finanzas de Cantabria, para el mejor cumplimiento de sus funciones, podrá suscribir los contratos o convenios a los que se refieren el artículo 66 y la Disposición Adicional Cuarta de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria, con las entidades o empresas que integran el sector público empresarial, y verificar su cumplimiento. En los términos de la Ley 50/2002, de 26 de diciembre, de Fundaciones, podrá desarrollar análogas funciones respecto de las entidades integradas en el sector público fundacional bajo control o tutela de la Comunidad Autónoma.
+5. La prestación de los servicios comprendidos en el ámbito de las funciones relacionadas en este artículo podrá ser retribuida en condiciones de mercado.
+Se añade por el art. 12.3 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+ Se deroga por el art. 20.1 de la Ley 6/2009, de 28 de diciembre. Ref. BOE-A-2010-931
+
+### Artículo 13
+
+Artículo 13. Otras funciones.
+1. El Instituto de Finanzas de Cantabria asumirá las demás funciones que le atribuyan las leyes o las que, en el marco de sus competencias respectivas, le asigne el Gobierno o el titular de la Consejería de Economía y Hacienda, con sujeción a lo previsto en el artículo 89 de la Ley de Cantabria 6/2002, de 10 de diciembre, de Régimen Jurídico del Gobierno y de la Administración de la Comunidad Autónoma de Cantabria, si le fueren atribuidas potestades administrativas.
+2. Procurará mantener con las Entidades Locales de Cantabria relaciones de cooperación y, mediante los acuerdos necesarios, podrá prestarles los servicios contemplados en esta Ley.
+3. El Instituto de Finanzas de Cantabria podrá llevar a cabo la adquisición, tenencia y explotación de marcas y derechos de propiedad industrial, presentes o futuros.
+4. El Instituto de Finanzas de Cantabria podrá emitir informes de carácter económico-financiero, en aquellos casos en los que le sea requerido por la Consejería a la que se encuentre adscrita o por el Consejo de Gobierno.
+Se añade el apartado 4 por el art. 8.4 de la Ley 5/2026, de 28 de abril. Ref. BOE-A-2026-10431
+ Se añade el apartado 3 por el art. 12.4 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+
+## TÍTULO IV
+
+Actuación y funcionamiento
+
+### Artículo 14
+
+Artículo 14. Control del Instituto de Finanzas de Cantabria.
+1. El control de eficacia sobre las actividades del Instituto de Finanzas de Cantabria corresponde al Gobierno de la Comunidad Autónoma de Cantabria, a través de la Consejería competente en materia de Hacienda. Así mismo, la Consejería con competencias en materia de Hacienda, a través de la Intervención General de la Administración General de la Comunidad Autónoma, llevará a cabo la supervisión continua del Instituto de Finanzas de Cantabria, en los términos establecidos en el artículo 89 de la Ley de Cantabria 5/2018, de 22 de noviembre, de Régimen Jurídico del Gobierno, de la Administración y del Sector Público Institucional de la Comunidad Autónoma de Cantabria
+2. El control económico y financiero del Instituto de Finanzas de Cantabria a cargo de la Intervención General de la Comunidad Autónoma se llevará a cabo mediante el procedimiento de auditoría pública, sin perjuicio de las funciones que correspondan al Tribunal de Cuentas.
+3. El informe anual al que se refiere el artículo 5.4.f) será remitido al Parlamento de Cantabria, que podrá, en relación con su contenido, solicitar la comparecencia del Presidente del Instituto de Finanzas de Cantabria.
+Se modifica por el art. 13.4 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Artículo 15
+
+Artículo 15. Régimen patrimonial y recursos.
+1. El patrimonio del Instituto de Finanzas de Cantabria estará integrado por los bienes y derechos que se le adscriban, y por aquellos otros que en lo sucesivo adquiera o se le atribuyan por cualquier persona y en virtud de cualquier título. El Gobierno, a propuesta de la Consejería competente en materia de Hacienda, podrá acordar la aportación al Instituto de Finanzas de Cantabria de bienes de cualquier naturaleza.
+2. Los recursos del Instituto de Finanzas de Cantabria estarán constituidos por:
+a) La dotación inicial asignada en el momento de su constitución.
+b) Las dotaciones con cargo a los presupuestos de las Administraciones Públicas.
+c) Los bienes y valores que integren su patrimonio.
+d) Los productos y rentas derivados de su patrimonio y de las operaciones financieras acordes con la propia finalidad del Instituto de Finanzas de Cantabria.
+e) Las aportaciones de otras instituciones financieras, públicas o privadas, que se establezcan de acuerdo con las leyes o convenios de financiación o de colaboración con el Instituto de Finanzas de Cantabria.
+f) Los rendimientos procedentes de las emisiones de valores u otras operaciones de endeudamiento de acuerdo con las normas aplicables.
+g) Las comisiones generadas por la prestación de garantías, aseguramientos y otras operaciones financieras, incluidos los avales.
+h) Los rendimientos procedentes de los bienes adquiridos por vía de ejecución judicial o extrajudicial de las garantías en tanto sean realizados.
+i) Las rentas percibidas en contraprestación de los servicios relacionados en el artículo 12 de esta Ley.
+j) Cualquier otro recurso que arbitre el Gobierno de Cantabria, atendiendo a las funciones propias del Instituto de Finanzas de Cantabria, de acuerdo con las bases de la ordenación general del crédito y la banca y con la ordenación de la política monetaria de la Unión Europea.
+3. El Instituto de Finanzas de Cantabria se financiará con ingresos comerciales, mediante la ejecución de las operaciones financieras para las que se halle habilitado de conformidad con esta Ley y con la normativa básica estatal en materia de ordenación del crédito y la banca.
+4. Los límites de su endeudamiento serán fijados anualmente por la Ley de Presupuestos Generales de la Comunidad Autónoma con arreglo al artículo 108 y concordantes de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria.
+5. El Instituto de Finanzas de Cantabria contará con un nivel de recursos propios adecuado a su actividad y finalidades, y practicará las dotaciones y provisiones que procedan en cada momento con arreglo a las directrices que establezca su normativa de desarrollo.
+6. La Comunidad Autónoma de Cantabria garantiza el cumplimiento de las obligaciones que, respetando el ordenamiento jurídico vigente, contraiga frente a terceros el Instituto de Finanzas de Cantabria, para lo cual, llegado el caso, se le dotará de los recursos económicos precisos. Del mismo modo, no se producirá su extinción, liquidación o transformación sin que las referidas obligaciones sean atendidas.
+7. El Instituto de Finanzas de Cantabria gozará del régimen tributario que corresponda a su naturaleza.
+Se modifica el apartado 3 por el art. 4.4 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+ Se modifica por el art. 12.5 a 7 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+ Se deroga el apartado 2.h) y se renombran las letras i) y j) como h) e i) por el art. 20.3 de la Ley 6/2009, de 28 de diciembre. Ref. BOE-A-2010-931
+
+### Disposición adicional primera
+
+Disposición adicional primera. Reglamento orgánico.
+1. El Gobierno de Cantabria aprobará el Reglamento orgánico del Instituto de Finanzas de Cantabria, a propuesta del Presidente del Instituto de Finanzas de Cantabria, de acuerdo con el Consejo Ejecutivo.
+2. Se faculta al Gobierno y al Consejero de Economía y Hacienda para dictar, en el ámbito de sus respectivas competencias, cuantas disposiciones y medidas se estimen necesarias para el desarrollo y aplicación de esta Ley, que deberán ser informadas por el Instituto de Finanzas de Cantabria con carácter previo a su adopción.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Reordenación del sector público empresarial de la Comunidad Autónoma de Cantabria.
+(Derogada)
+Se deroga por el art. 20.2 de la Ley 6/2009, de 28 de diciembre. Ref. BOE-A-2010-931
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Nombramiento de los vocales.
+Por los órganos competentes se procederá en el plazo de tres meses a la designación de los vocales que deban formar parte del Consejo Ejecutivo del Instituto de Finanzas de Cantabria.
+Se modifica por el art. 13.5 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificaciones normativas.
+1. Modificación de la Ley de Cantabria 3/2006, de 18 de abril, del Patrimonio de la Comunidad Autónoma de Cantabria.
+Uno. Se añade un nuevo inciso al apartado 1 al artículo 56 de la Ley de Cantabria 3/2006, de 18 de abril, del Patrimonio de la Comunidad Autónoma de Cantabria, con el siguiente texto:
+«Corresponde al Instituto de Finanzas de Cantabria la conservación de los bienes y derechos patrimoniales que le adscribe su Ley de creación, así como los adscritos en ejecución o desarrollo de esta Ley.»
+Dos. Se añade un nuevo apartado al artículo 85 de la Ley de Cantabria 3/2006, de 18 de abril, del Patrimonio de la Comunidad Autónoma de Cantabria, con el siguiente texto:
+«Corresponde al Instituto de Finanzas de Cantabria la administración y gestión de las propiedades incorporales generadas por las entidades adscritas a este Instituto de Finanzas de Cantabria.»
+2. Modificación de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria.
+Los artículos 102 a 107 de la Ley de Cantabria 14/2006, de Finanzas de Cantabria quedan redactados en los siguientes términos:
+«Artículo 102. Objeto de los avales.
+La Administración General de la Comunidad Autónoma de Cantabria podrá, de conformidad con lo dispuesto en este capítulo, afianzar las obligaciones derivadas de operaciones de crédito que no corresponda afianzar al Instituto de Finanzas de Cantabria de acuerdo con su Ley de creación.
+Artículo 103. Competencias para autorizar, otorgar y formalizar los avales al sector público administrativo.
+1. El otorgamiento de avales por la Administración General de la Comunidad Autónoma deberá autorizarse por el Consejo de Gobierno, previo informe de la Intervención General y de la Dirección competente en materia de Tesorería.
+El importe total de los avales concedidos por el Gobierno no podrá exceder del límite que en cada ejercicio señale la Ley de Presupuestos.
+2. Las autorizaciones deberán de contener la identidad de los avalados, el plazo dentro del cual deberán ser otorgados los avales y su importe máximo.
+3. Una vez autorizado, el aval será otorgado por Resolución de la Consejería competente en materia de Hacienda, pudiendo convenirse las cláusulas que resulten usuales en los mercados financieros, respetando, en su caso, los límites que pudieran haberse establecido en el Decreto autorizante de acuerdo con la regulación recogida en este capítulo. Con carácter excepcional, en los avales que garanticen operaciones de crédito exterior se podrá acordar el sometimiento a arbitraje o la remisión a una legislación o tribunales extranjeros, siempre que se observe lo dispuesto en el artículo 23 de esta Ley.
+4. Los avales serán formalizados por quien sea titular de la Consejería competente en materia de Hacienda, quien autorizará el oportuno instrumento jurídico en el que se recogerán las condiciones de los mismos.
+Artículo 104. Devengo de comisión.
+Los avales otorgados por la Comunidad Autónoma de Cantabria, devengarán a su favor la comisión que, en su caso, determine la Consejería competente en materia de Hacienda.
+Artículo 105. Naturaleza de los derechos derivados de los avales.
+Tendrán la consideración de ingresos de Derecho público las cantidades que como consecuencia de la prestación de avales haya de percibir la Comunidad Autónoma, ya sea por su formalización, mantenimiento, quebranto o cualquiera otra causa, gozando aquélla de las prerrogativas establecidas legalmente para el cobro de los ingresos de esa naturaleza.
+En el caso de que llegue a hacerse efectiva la obligación como avalista de la Comunidad Autónoma o del Instituto de Finanzas de Cantabria, éstos quedarán automáticamente subrogados en la posición del prestamista con respecto a la deuda garantizada, exigiéndose el reembolso de acuerdo con las normas reguladoras de los recursos de Derecho público.
+Artículo 106. Limitación de riesgos.
+La norma que autorice el otorgamiento de los avales establecerá, salvo causas justificadas, mecanismos para limitar el riesgo de ejecución de los avales otorgados por la Comunidad Autónoma de Cantabria.
+Asimismo, el Instituto de Finanzas de Cantabria podrá establecer mecanismos para limitar el riesgo de ejecución de los avales que otorgue.
+Artículo 107. Concesión de avales por las sociedades mercantiles autonómicas.
+Las sociedades mercantiles autonómicas no podrán conceder avales salvo autorización expresa por parte del Instituto de Finanzas de Cantabria.»
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Boletín Oficial de Cantabria».
+
+Palacio del Gobierno de Cantabria, 11 de julio de 2008.- El Presidente de la Comunidad Autónoma de Cantabria, Miguel Ángel Revilla Roíz.

@@ -1,0 +1,64 @@
+# Real Decreto-ley 1/2000, de 14 de enero, sobre determinadas medidas de mejora de la protección familiar de la Seguridad Social.
+
+- Identificador BOE: `BOE-A-2000-955`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2000-955
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 17, de 20 de enero de 2000. Ref. BOE-A-2000-1185.
+
+## Preámbulo
+
+La Constitución Española prevé, en su artículo 39, que los poderes públicos asegurarán la protección social, económica y jurídica a la familia, declaración que está en línea, entre otros, con la Carta Social Europea, que considera a la familia como elemento esencial de la sociedad, teniendo derecho a una protección, jurídica y económica adecuada, para lograr su desarrollo.
+El apoyo a la familia, además de dar cumplimiento a las previsiones constitucionales, constituye una política prioritaria para todo Gobierno comprometido con la mejora de la calidad de vida de los ciudadanos. En tal sentido, la Subcomisión de Estudios del Congreso de los Diputados para analizar la situación de la familia en España instó al Gobierno, en el marco de sus conclusiones, a impulsar una política integral de apoyo a la familia.
+En el marco de la protección a la familia, el sistema de la Seguridad Social contempla unas prestaciones económicas, por hijo a cargo, cuya cuantía está en función de la edad y las circunstancias de los hijos. No obstante, en el caso de hijos menores de 18 años, éstas prestaciones económicas han perdido parte de su significado protector, por cuanto que no se han actualizado desde su establecimiento en el año 1991.
+A remediar tal situación, responde el contenido de la presente norma, mediante la cual, de una parte, se procede a la revisión, con vigencia desde el primero de enero de 1999, de las cuantías de las asignaciones económicas de la Seguridad Social por hijo a cargo menor de 18 años. Ello producirá que los beneficiarios de tales asignaciones económicas tengan derecho a percibir, en un pago único, las diferencias entre los importes que han percibido en dicho ejercicio y el que les corresponden de acuerdo con los nuevos importes. De igual modo, se procede a la revisión de tales asignaciones económicas para el ejercicio 2000. Las medidas anteriores implican dotar a las citadas asignaciones económicas de una mayor eficacia protectora, dentro de los objetivos y orientaciones de apoyo a la familia.
+A su vez, se modifica el contenido protector de las prestaciones familiares a cargo de la Seguridad Social, mediante el establecimiento de dos nuevas prestaciones de pago único dirigidas, la primera de ellas, a las casos de nacimiento del tercer o posterior hijos y, la segunda, para los supuestos de parto múltiple. Estas prestaciones económicas tienen como finalidad compensar, en parte, los mayores gastos que se producen por nacimiento de hijo, en los casos de familias con menores recursos, o cuando, de forma simultánea, las familias han de cuidar de varios hijos por el hecho del parto múltiple.
+El establecimiento de las medidas anteriores precisa norma con rango de ley. No obstante, a fin de propiciar la mejora de la situación económica de las familias y permitirles que puedan percibir los nuevos importes de las asignaciones económicas o, en su caso, ser beneficiarias de las nuevas prestaciones que se instauran, resulta necesaria la puesta en práctica de tales medidas en el menor tiempo posible.
+En su virtud, siendo urgente la adopción de las medidas anteriormente expuestas y haciendo uso de la autorización contenida en el artículo 86 de la Constitución, a propuesta conjunta de los Ministros de Economía y Hacienda y de Trabajo y Asuntos Sociales y previa deliberación del Consejo de Ministros en su reunión del día 14 de enero de 2000,
+DISPONGO:
+
+### Artículo 1
+
+Artículo 1. Revisión de los importes de las asignaciones familiares de la Seguridad Social por hijo a cargo.
+1. Con efecto desde 1 de enero de 1999, la cuantía de las asignaciones familiares de Seguridad Social por hijo a cargo menor de 18 años quede fijada en los siguientes importes:
+a) 47.460 pesetas/año, en los casos de hijo a cargo no minusválido.
+b) 94.860 pesetas/año, cuando el hijo tenga la condición de minusválido en un grado igual o superior al 33 por 100.
+2. Los perceptores de las asignaciones por hijo a cargo menor de 18 años percibirán, en un pago único, la diferencia entre el importe de prestación que hubieran percibido en 1999 y el que resulte de aplicar lo dispuesto en el apartado anterior, en proporción a período de meses en que se haya percibido la asignación por hijo a cargo.
+3. A partir de 1 de enero del año 2000, la cuantía de las asignaciones familiares señaladas en el apartado 1 queda fijada en los siguientes importes:
+a) 48.420 pesetas/año, en los casos de hijo a cargo no minusválido.
+b) 96.780 pesetas/año, cuando el hijo tenga la condición de minusválido en un grado igual o superior al 33 por 100.
+
+### Artículo 2
+
+Artículo 2. Prestación económica por nacimiento de hijo.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 52/2003, de 10 de diciembre. Ref. BOE-A-2003-22716.
+
+### Artículo 3
+
+Artículo 3. Prestación económica por parto múltiple.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 52/2003, de 10 de diciembre. Ref. BOE-A-2003-22716.
+ Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 17, de 20 de enero de 2000. Ref. BOE-A-2000-1185.
+
+### Disposición adicional única
+
+Disposición adicional única. Financiación del pago único a los beneficiarios de las asignaciones económicas de la Seguridad Social por hijo a cargo.
+Las obligaciones que se generen por la aplicación de lo dispuesto en el apartado 2 del artículo 1 serán financiadas, respectivamente, por el Presupuesto de la Seguridad Social y el Presupuesto del Estado, según viniesen siendo financiadas las asignaciones económicas por hijo a cargo en el ejercicio presupuestario de 1999.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogados cuantos preceptos se opongan a lo establecido en el presente Real Decreto-ley.
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+Lo dispuesto en el presente Real Decreto-ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 14 de enero de 2000.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

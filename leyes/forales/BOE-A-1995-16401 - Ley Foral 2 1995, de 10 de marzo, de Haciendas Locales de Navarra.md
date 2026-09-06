@@ -1,0 +1,3030 @@
+# Ley Foral 2/1995, de 10 de marzo, de Haciendas Locales de Navarra.
+
+- Identificador BOE: `BOE-A-1995-16401`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-16401
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente
+LEY FORAL DE HACIENDAS LOCALES DE NAVARRA
+EXPOSICIÓN DE MOTIVOS
+I
+Navarra, a través de la senda marcada por la disposición adicional primera de la Constitución, tiene la habilitación competencial para regular la materia concerniente a las Haciendas Locales. Dicha habilitación viene concretada en el artículo 46.1 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra que atribuye a Navarra las «facultades y competencias que actualmente ostenta (a la entrada en vigor de dicha Ley Orgánica), al amparo de lo establecido en la Ley Paccionada de 16 de agosto de 1841; en el Real Decreto Paccionado de 4 de noviembre de 1925, y disposiciones complementarias y, además, las que siendo compatibles con las anteriores puedan corresponder a las Comunidades Autónomas o a las provincias, conforme a la legislación básica del Estado».
+Es precisamente el mantenimiento de los derechos originarios de Navarra sobre la Administración Local, en la forma que quedaron plasmados en la Ley y Decreto Ley Paccionados, la pauta o norte que dirige y condiciona la potestad legislativa de la Comunidad Foral en esta materia, diferenciándola de las Comunidades Autónomas, que ‒sea cual fuere el grado de autonomía alcanzado‒, quedan indefectiblemente supeditados a las bases dictadas por el Estado, en tanto que serán de aplicación a aquélla en lo que no se opongan al régimen que para su administración local establece el artículo 46 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, según prevé la disposición adicional segunda de la Ley reguladora de las bases de régimen local.
+II
+En materia de Haciendas Locales Navarra ha contado siempre con un régimen propio y específico.
+Con independencia de las Leyes de Cortes de 1825 y del primer Reglamento para la Administración municipal de los pueblos de Navarra, mandado ejecutar en circular de 24 de agosto de 1867, hay que remitirse al artículo 6° de la Ley Paccionada que atribuye a los Ayuntamientos navarros las facultades relativas a la administración económica interior de los fondos, derechos y propiedades de los pueblos, que se ejercerán bajo la dependencia de la Diputación Provincial, con arreglo a su legislación especial.
+Igualmente las bases 6.ª, 7.ª, 8.ª y 9.ª del Real Decreto Ley de 4 de noviembre de 1925, para armonizar el régimen de Navarra y el Estatuto municipal, y particularmente la base 7.ª, obligaba a la Diputación a recopilar las disposiciones vigentes en materia de contribuciones, arbitrios o impuestos de todas clases que afecten a la Administración Local y le obligaba a complementar estas disposiciones fijando el límite y condiciones esenciales dentro de los cuales fuese permitida la imposición o exacción de contribuciones o arbitrios.
+Fijada la vigencia de la Ley Paccionada y del Real Decreto Ley Paccionado en el artículo 46 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, en su artículo 1.2 respeta el régimen financiero foral de Navarra en la materia tratada.
+No obstante, y antes de ser reconocida esa especificidad por la Ley reguladora de las Haciendas Locales, Navarra se rigió por el Reglamento para la Administración Municipal de 2 de febrero de 1928, concretamente por el título V «Hacienda Municipal», hasta que, a causa de la reforma planteada por la Ley 45/1975, y el Real Decreto 3250/1976, de 30 de diciembre, se hizo necesaria la aprobación de una normativa que pusiese al día las Haciendas Locales de Navarra armonizándolas con las del derecho común. De esta forma surgió la norma sobre reforma de las Haciendas Locales, aprobada el 8 de junio de 1981 por el Parlamento de Navarra, cuyo Reglamento fue aprobado por la Diputación Foral el 17 de diciembre de 1981.
+Esta norma y su Reglamento constituyen hasta la fecha el marco normativo, de carácter sistemático y total, que adecuó la Hacienda Local de Navarra al contenido del artículo 142 de la Constitución, dotando a las entidades locales de medios financieros suficientes mediante la existencia de la imposición municipal autónoma y de la participación de las Haciendas Locales en los tributos de la Comunidad Foral y en los del Estado.
+III
+La normativa sobre las Haciendas Locales ha adolecido históricamente en el Estado español de una grave indefinición de lo que debe ser el sistema hacendístico local, básicamente porque hasta el presente ha existido una clara indefinición de las propias entidades locales dentro de la estructura estatal. Es decir, no ha existido una concepción históricamente estable acerca de la función de las entidades locales dentro de esa estructura.
+Hoy día las entidades locales están dotadas de una cobertura constitucional en lo que toca a su protagonismo en la vida pública española: Están dotadas de la garantía institucional de la autonomía y han dejado de ser meras circunscripciones del poder central. Es precisamente uno de los hitos más significativos del texto constitucional: La atribución de autonomía a los municipios y a las provincias. Y esta atribución de autonomía tiene una consecuencia lógica y obligada en el aspecto hacendístico y financiero, hasta el punto que el propio artículo 142 del texto constitucional dispone con la fuerza que le es propia a la Carta Magna, que las Haciendas Locales deberán disponer de los medios suficientes para el desempeño de las funciones que la Ley atribuye a las Corporaciones respectivas y dispone, asimismo, que las Haciendas Locales se nutrirán fundamentalmente de tributos propios y de la participación de los del Estado y de las Comunidades Autónomas.
+Esta previsión constitucional ya fue interiorizada en el ordenamiento navarro a través de la Norma de Reforma de las Haciendas Locales donde se constituyó el Fondo de Participación en los Impuestos de Navarra y donde se dotó a las entidades locales de una imposición autónoma.
+IV
+El artículo 142 de la Constitución prevé que las Haciendas Locales se nutrirán fundamentalmente de tributos propios y de la participación en los del Estado y de las Comunidades Autónomas. Ello quiere decir que las Haciendas Locales no se conceptúan como un ordenamiento propio e independiente de los ordenamientos jurídico-hacendísticos estatales y de las Comunidades Autónomas, sino que existe una conexión entre ellos por vía de la participación que se reconoce a las entidades locales en el producto recaudado por las administraciones del Estado o de las Comunidades Autónomas.
+Esta Ley Foral sigue la línea de establecer una imposición propia de las entidades locales que viene a armonizarse con el nuevo sistema tributario más simplificado de la Ley 39/1988, de 28 de diciembre, de mantener la participación en los tributos del Estado y en la forma que se determine por la legislación estatal y de regular con carácter amplio el fondo de las Haciendas Locales de Navarra.
+En este sentido la Norma de la Reforma de las Haciendas Locales estableció un fondo de participación basado en el sistema de coparticipación impositiva, instituto jurídico diferenciado de las estrictas participaciones locales en tributos estatales o autonómicos. De esta forma la coparticipación impositiva de dicha Norma suponía una participación prefigurada normativamente en un porcentaje de la recaudación obtenida en los tributos de la Comunidad Foral. A través de esa coparticipación y desde el punto de vista económico, la misma supone una transferencia de fondos desde la Comunidad Foral a las entidades locales copartícipes, como auténticas titulares de los fondos a que ascendía el porcentaje de participación de una serie de tributos entendidos en su conjunto, es decir, porcentaje de participación de impuestos directos o indirectos.
+Este sistema se caracterizaba porque no atribuía a las entidades locales potestad normativa alguna sobre los institutos jurídico-hacendísticos de que provenían los ingresos.
+Frente a las formas de atribución directa de la coparticipación impositiva, en las que la atribución a las entidades beneficiarias se realiza en proporción a las bases imponibles radicadas o a la recaudación obtenida en el territorio de la entidad local copartícipe, la Norma de Reforma de Haciendas Locales diseñaba un sistema de copartición indirecta de la que el porcentaje de rendimiento se asignaba a las entidades locales beneficiarias de acuerdo con distintos criterios: el montante a distribuir se integraba en una masa de efectivo, un Fondo, sujeta a peculiares formas de reparto.
+Esta Ley Foral mantiene este sistema de coparticipación, huyendo de los conceptos de subvención, si bien no se atiene, desde el punto de vista formal a un claro sistema de coparticipación indirecta ni directa. Más bien al dejar, tras la experiencia adquirida durante la vigencia de la Norma para la Reforma de las Haciendas Locales, tanto la regulación de la cuantía como de las formas de distribución del fondo a lo que dispongan las futuras Leyes de Presupuestos, se están manteniendo el mandato constitucional de la existencia de dicha participación, pero se está eludiendo aspectos más doctrinales o teóricos que únicamente las Leyes anuales presupuestarias determinarán en función de lo que la planificación económica de Navarra exija.
+De esta forma queda definitivamente consolidado el carácter participativo del Fondo de las Haciendas Locales de Navarra, pionero dentro del panorama autonómico español, y se supera el histórico carácter meramente redistributivo que han tenido los fondos de las Haciendas Locales que han existido en el ordenamiento local desde la Ley de 10 de enero 1943 hasta la creación del Fondo Nacional de Cooperación Municipal por medio del Real Decreto-ley 34/1977, de 2 de junio.
+V
+Finalmente, el diseño que hace la Ley Foral de la nueva imposición local parte del mandato que se contiene en el título octavo de la Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra y de la necesidad tradicional de armonizar los planteamientos hacendísticos a lo que se ha establecido en el derecho común mediante la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.
+Este talante tradicional armonizador en materia hacendística, al igual que el reconocimiento de la competencia en la materia, ha sido plasmado en el Convenio Económico entre el Estado y la Comunidad Foral de Navarra, Ley 28/1990, de 26 de diciembre, en cuyo artículo 43, sin perjuicio de la competencia habida en el más amplio sentido, establece los tributos locales cuya exacción corresponde a las Haciendas Locales de Navarra.
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1.
+Constituye la Hacienda de las entidades locales de Navarra el conjunto de derechos y obligaciones de contenido económico de titularidad de las mismas o de sus organismos autónomos.
+
+### Artículo 2
+
+Artículo 2.
+La regulación de los recursos económicos establecida en esta Ley Foral, tiene por finalidad garantizar la plena efectividad de los principios constitucionales de autonomía y suficiencia financiera necesarios para el ejercicio de las competencias y funciones que las leyes atribuyen a las entidades locales.
+
+### Artículo 3
+
+Artículo 3.
+Las entidades locales de Navarra deberán ajustar su actuación a los principios de legalidad, eficacia y racionalidad en la gestión de los recursos establecidos por esta Ley Foral para el cumplimiento de los fines que tienen encomendados, en coordinación y plena corresponsabilidad con la Hacienda Pública de Navarra.
+
+### Artículo 4
+
+Artículo 4.
+La Hacienda de las entidades locales de Navarra se regirá por esta Ley Foral; por lo previsto en la Ley Foral de la Administración Local de Navarra; por la Ley de Hacienda Pública de Navarra; por las disposiciones que en relación con tal materia apruebe la Comunidad Foral, y por las de las propias entidades dictadas en ejercicio de su potestad reglamentaria y de autoorganización.
+
+## TÍTULO I
+
+Recursos de las Haciendas Locales de Navarra
+
+## CAPÍTULO I
+
+Clases de recursos
+
+## Sección 1
+
+Sección 1.ª Enumeración
+
+### Artículo 5
+
+Artículo 5.
+1. Los recursos de las entidades locales de Navarra serán los siguientes:
+a) Recursos no tributarios:
+1. Ingresos de propios o de derecho privado.
+2. Aprovechamientos comunales.
+3. Precios públicos.
+4. Cuotas de urbanización.
+5. Multas.
+6. Otras prestaciones.
+7. Demás ingresos de derecho público.
+b) Tributos:
+1. Tasas.
+2. Contribuciones especiales.
+3. Impuestos.
+c) Participación en los tributos del Estado.
+d) Participación en los tributos de Navarra.
+e) Subvenciones.
+f) Operaciones de crédito.
+2. Para la cobranza de los tributos y demás cantidades que como ingresos de derecho público deban percibir las entidades locales de Navarra, éstas ostentarán las mismas prerrogativas que la Hacienda Pública de Navarra.
+
+## Sección 2
+
+Sección 2.ª Recursos de las entidades locales de Navarra
+
+### Artículo 6
+
+Artículo 6. Recursos de los municipios.
+La Hacienda de los municipios estará integrada por todos los recursos enumerados en el artículo anterior en los términos y con las especialidades recogidas en esta Ley Foral.
+
+### Artículo 7
+
+Artículo 7. Recursos de los concejos.
+1. Los concejos contarán con los mismos recursos de carácter no tributario que los municipios, con excepción de las cuotas de urbanización.
+2. Los concejos no podrán exaccionar otros tributos que tasas y contribuciones especiales.
+
+### Artículo 8
+
+Artículo 8. Recursos de las agrupaciones tradicionales.
+La Comunidad de Bardenas Reales, la Comunidad del Valle de Aezkoa, la Mancomunidad del Valle del Roncal, la Universidad del Valle de Salazar y el resto de las corporaciones de carácter tradicional administradoras de bienes comunales contarán con los recursos previstos en los Reglamentos, Ordenanzas, Convenios, Acuerdos, Sentencias o Concordias que tengan legalmente establecidos.
+
+### Artículo 9
+
+Artículo 9. Recursos de las comarcas.
+1. Las comarcas de Navarra dispondrán de los recursos económicos contemplados en el artículo 5 de esta ley foral.
+Los recursos tributarios por tasas y contribuciones especiales deberán estar vinculados a las competencias atribuidas a las comarcas por el artículo 361 de la Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra.
+2. Cada comarca podrá disponer, así mismo, de aquellos recursos económicos que le sean atribuidos por su propia ley foral de creación.
+En los supuestos previstos en el artículo 361 de la Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra, la legislación sectorial deberá precisar los recursos económicos suficientes para el ejercicio de las competencias que les atribuyan.
+3. Respecto de aquellas competencias que sean asumidas por las comarcas, referidas a servicios que venían siendo prestados por los municipios, éstos deberán aportar a las comarcas los recursos económicos que se convengan para contribuir a su financiación.
+4. Los recursos de las comarcas se destinarán a satisfacer el conjunto de sus respectivas obligaciones.
+Se modifica por el art. 2.1 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 10
+
+Artículo 10. Recursos de las mancomunidades.
+1. Los ingresos de las mancomunidades serán los siguientes:
+a) Ingresos de derecho privado.
+b) Subvenciones y otros ingresos de derecho público.
+c) Tasas por la prestación de servicios o la realización de actividades de su competencia.
+d) Contribuciones especiales para la ejecución de las obras o para el establecimiento, ampliación o mejora de los servicios de la competencia de dichas entidades.
+e) Precios públicos.
+f) Los procedentes de operaciones de crédito.
+g) Multas.
+h) Las aportaciones de las entidades que formen parte de las mismas.
+i) Cualquier otro ingreso que legalmente les corresponda.
+2. En los supuestos de establecimiento de contribuciones especiales por las mancomunidades con motivo de la realización de obras o del establecimiento o ampliación de servicios que afecten a uno o varios términos municipales o concejiles, el órgano superior de gobierno de aquéllas, al determinar las zonas afectadas por la obra o concretar el beneficio especial que representa para cada una de dichas zonas, podrá distinguir entre el interés directo de los contribuyentes y el que sea común en un término municipal o concejil, o en varios.
+En este caso, las entidades locales afectadas que estén integradas en dichas mancomunidades tendrán el carácter de contribuyente al objeto del pago de las cuotas individuales correspondientes, que serán recaudadas por las mismas, de acuerdo con las normas reguladoras de este tributo.
+Las cuotas señaladas a los municipios o concejos, en calidad de contribuyentes, serán compatibles con las que estos puedan imponer con motivo de los gastos ocasionados por las subvenciones, auxilios o cualquier otra forma de cooperación que hayan prestado a las obras públicas, instalaciones o servicios de las mancomunidades a que pertenezcan.
+
+### Artículo 10 bis
+
+Artículo 10 bis. Recursos de las mancomunidades de servicios y de las mancomunidades de planificación general.
+Las mancomunidades de planificación general contarán con los mismos recursos económicos previstos para las mancomunidades en el artículo 10 de la presente ley foral.
+Mediante ley foral podrán atribuirse a la mancomunidad de planificación general competencias de gestión, recaudación e inspección tributaria relativas a los servicios que preste.
+Se añade por el art. 2.2 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+## CAPÍTULO II
+
+Disposiciones comunes a todas las exacciones
+
+## Sección 1
+
+Sección 1.ª Normas generales
+
+### Artículo 11
+
+Artículo 11.
+1. Las entidades locales de Navarra ajustarán su actividad financiera y tributaria al principio de legalidad.
+2. Los actos de determinación de las bases y deudas tributarias así como los de fijación de cánones y demás exacciones derivadas de las restantes fuentes de ingresos de derecho público previstos en esta Ley gozarán de presunción de legalidad, que sólo podrá destruirse mediante revisión, revocación o anulación, practicadas de oficio, o en virtud de resoluciones firmes recaídas en los recursos que contra los mismos se interpongan.
+
+### Artículo 12
+
+Artículo 12.
+1. Las entidades locales de Navarra deberán acordar la imposición y supresión de sus tributos y aprobar las correspondientes ordenanzas fiscales reguladoras de los mismos.
+No obstante, no se precisará ordenanza ni acuerdo para la exacción de multas; de la Contribución Territorial e impuestos sobre Actividades Económicas; sobre vehículos de tracción mecánica; sobre construcciones, instalaciones y obras y el Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana.
+En aquellos casos en que esta Ley Foral faculta a los Ayuntamientos para fijar los elementos necesarios para la determinación de las cuotas tributarias, será preciso acordar el ejercicio de tal facultad.
+2. Precisará, igualmente, ordenanza la exacción de aprovechamientos comunales, en los términos establecidos en la Ley Foral 6/1990, de 2 de julio, y las prestaciones personales y de transporte.
+
+### Artículo 13
+
+Artículo 13.
+1. Las ordenanzas se elaborarán de acuerdo con las disposiciones contenidas en la sección 3.ª del capítulo primero del título noveno de la Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra, con las peculiaridades que se señalan en los números siguientes.
+2. Las ordenanzas fiscales deberán contener, al menos:
+a) La determinación del hecho imponible, sujeto pasivo, responsables, exenciones, reducciones y bonificaciones, base imponible y liquidable, tipo de gravamen o cuota tributaria, periodo impositivo y devengo.
+b) Los regímenes de declaración y de ingresos.
+c) Las fechas de su aprobación y del comienzo de su aplicación.
+3. Los acuerdos de aprobación de las ordenanzas fiscales deberán adoptarse simultáneamente a los de imposición de los respectivos tributos.
+4. Los acuerdos de modificación de dichas ordenanzas deberán contener la nueva redacción de las normas afectadas y las fechas de su aprobación y del comienzo de su aplicación.
+5. La aprobación de las ordenanzas fiscales y de sus modificaciones se anunciará en el "Boletín Oficial de Navarra" y su contenido se notificará al Registro de Ordenanzas Fiscales, que tendrá carácter público, sin perjuicio de su publicación íntegra o parcial en el "Boletín Oficial de Navarra".
+Las ordenanzas fiscales entrarán en vigor en el ejercicio siguiente al de su aprobación, salvo que en las mismas se señale otra fecha, simultánea o posterior a la publicación.
+Se modifica el apartado 5 por el art. único.1 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 14
+
+Artículo 14.
+1. Las entidades locales de Navarra están obligadas a expedir copias de las ordenanzas fiscales vigentes a quienes las demanden.
+2. Las ordenanzas regirán durante el plazo previsto en las mismas. De no fijarse plazo se entenderán de duración indefinida.
+
+### Artículo 15
+
+Artículo 15.
+1. La gestión de los recursos no tributarios de derecho público se ajustará a las disposiciones contenidas en este capítulo que les sean de aplicación y, en su caso, en las ordenanzas que para su regulación se aprueben por las entidades locales.
+2. La gestión de los tributos se llevará a cabo con arreglo a las disposiciones generales contenidas en el capítulo IV de este título, a las particulares que para cada impuesto se recogen en el título II, y a las incluidas en las correspondientes ordenanzas fiscales.
+
+## Sección 2
+
+Sección 2.ª Extinción de los derechos y créditos en favor de las entidades locales
+
+### Artículo 16
+
+Artículo 16.
+Los créditos y deudas en favor de las entidades locales se extinguen:
+a) Por su pago o cumplimiento.
+b) Por prescripción.
+c) Por insolvencia probada.
+d) Por compensación.
+
+### Artículo 17
+
+Artículo 17.
+1. Prescribirán a los cuatro años los siguientes derechos y acciones de las entidades locales de Navarra:
+a) El derecho para determinar la deuda tributaria mediante la oportuna liquidación, contado dicho plazo desde el día del devengo.
+b) La acción para exigir el pago de las deudas tributarias liquidadas, contado desde el día en que finalice el plazo de pago voluntario.
+c) La acción para exigir el pago de cualquier crédito a su favor proveniente de la exacción de recursos propios de Derecho público no tributarios, contado dicho plazo desde la fecha en que finalice el período de pago fijado en la correspondiente ordenanza, o, en su defecto, desde la del requerimiento del pago.
+d) La acción para imponer sanciones por infracciones tributarias, contado desde la fecha en que se cometieran las respectivas infracciones.
+2. Prescribirá igualmente a los cuatro años, contados desde la fecha de su ingreso, el derecho de los contribuyentes a la devolución de los ingresos indebidos.
+Se modifica, con efectos a partir del día 1 de julio de 1999, por el art. único de la Ley Foral 2/1999, de 2 de marzo. Ref. BOE-A-1999-8876
+ Téngase en cuenta la disposición transitoria de la citada ley foral.
+
+### Artículo 18
+
+Artículo 18.
+1. El plazo de prescripción a que se refiere el número del artículo anterior se interrumpe:
+a) Por cualquier acción administrativa realizada con conocimiento formal del sujeto pasivo conducente al reconocimiento, regularización, inspección, aseguramiento, comprobación, liquidación y recaudación del crédito o derecho.
+b) Por la interposición de reclamaciones o recursos de cualquier clase.
+c) Por cualquier actuación del sujeto pasivo conducente al pago o liquidación de la deuda tributaria.
+2. Para el caso del número 2 del artículo anterior el plazo de prescripción se interrumpirá por cualquier acto fehaciente del sujeto pasivo que pretenda la devolución del ingreso indebido, o por cualquier acto de la entidad local respectiva en que se reconozca su existencia.
+
+### Artículo 19
+
+Artículo 19.
+La prescripción se aplicará de oficio, sin necesidad de que la invoque o excepcione el sujeto pasivo.
+
+### Artículo 20
+
+Artículo 20.
+Las deudas tributarias que no hayan podido hacerse efectivas por insolvencia probada del sujeto pasivo y demás responsables, se declararán provisionalmente extinguidas en tanto no se rehabiliten dentro del plazo de prescripción. Si vencido este plazo no se hubiere rehabilitado la deuda, se declarará su extinción definitiva.
+
+## Sección 3
+
+Sección 3.ª Impugnación de los actos de exacción de las entidades locales
+
+### Artículo 21
+
+Artículo 21.
+Los actos de gestión, inspección y recaudación de los tributos y, en general de todos los ingresos de derecho público de las entidades locales, podrán ser impugnados en la forma prevista en el capítulo II del título noveno de la Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra.
+
+## CAPÍTULO III
+
+Recursos no tributarios
+
+## Sección 1
+
+Sección 1.ª Ingresos de propios o de derecho privado
+
+### Artículo 22
+
+Artículo 22.
+1. Constituyen ingresos de propios o de derecho privado de las entidades locales de Navarra los rendimientos o productos de cualquier naturaleza derivados de su patrimonio, así como las adquisiciones a título de herencia, legado o donación.
+2. A estos efectos se considerará patrimonio de las entidades locales el conjunto de los bienes de su propiedad, así como los derechos reales o personales de que sean titulares, susceptibles de valoración económica, siempre que unos u otros no tengan el carácter de comunales ni pertenezcan al dominio público local.
+
+### Artículo 23
+
+Artículo 23.
+La efectividad de los derechos de las entidades locales de Navarra comprendidos en esta sección se llevará a cabo con sujeción a las normas de procedimiento del derecho privado.
+
+### Artículo 24
+
+Artículo 24.
+Los ingresos procedentes de la enajenación o gravamen de bienes y derechos que tengan la consideración de patrimoniales no podrán destinarse a la financiación de gastos corrientes, salvo que se trate de parcelas sobrantes de la vía pública no edificables o de efectos no utilizables en servicios prestados por las respectivas entidades locales de Navarra.
+
+## Sección 2
+
+Sección 2.ª Ingresos de derecho público
+
+## Subsección 1
+
+Subsección 1.ª Aprovechamientos comunales
+
+### Artículo 25
+
+Artículo 25.
+Se considera aprovechamiento comunal la utilización de bienes de tal naturaleza, en los términos previstos en el capítulo II del título cuarto de la Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra.
+
+### Artículo 26
+
+Artículo 26.
+La exacción de los ingresos derivados del aprovechamiento de los bienes comunales se ajustará a las normas contenidas en los preceptos citados en el artículo anterior.
+
+### Artículo 27
+
+Artículo 27.
+Cuando la duración del aprovechamiento sea superior a un año se incluirá en las respectivas ordenanzas o pliegos de condiciones una cláusula de actualización anual del canon o precio fijado por el aprovechamiento, de acuerdo con el incremento de los precios al consumo aprobado para Navarra por el organismo oficial competente.
+Se modifica por el art. único de la Ley Foral 37/2013, de 28 de noviembre. Ref. BOE-A-2013-13517
+
+## Subsección 2
+
+Subsección 2.ª Precios públicos
+
+### Artículo 28
+
+Artículo 28.
+Las entidades locales de Navarra podrán establecer y exigir precios públicos por la prestación de servicios o la realización de actividades de su competencia, de acuerdo con las disposiciones contenidas en los artículos siguientes.
+Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Artículo 29
+
+Artículo 29. Concepto.
+Tendrán la consideración de precios públicos las contraprestaciones pecuniarias que se satisfagan por la prestación de servicios o realización de actividades administrativas de la competencia de la entidad local perceptora de dichas contraprestaciones, siempre que no concurra ninguna de las circunstancias especificadas en la letra B) del artículo 100.2 de esta Ley Foral.
+Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Artículo 30
+
+Artículo 30.
+No podrán exigirse precios públicos por los servicios o actividades siguientes:
+a) Abastecimiento de aguas en fuentes públicas.
+b) Alumbrado de vías públicas.
+c) Vigilancia pública en general.
+d) Protección civil.
+e) Limpieza de la vía pública.
+f) Enseñanza en los niveles de educación obligatoria.
+Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Artículo 31
+
+Artículo 31. Obligados al pago.
+Estarán obligados al pago de los precios públicos quienes se beneficien de los servicios o actividades por los que deban satisfacerse aquéllos.
+Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Artículo 32
+
+Artículo 32. Cuantía.
+1. El importe de los precios públicos deberá cubrir como mínimo el coste del servicio prestado o de la actividad realizada.
+Para el cálculo del coste del servicio se tendrán en cuenta los mismos conceptos previstos en el artículo 105.2 de esta Ley Foral en relación con las tasas.
+2. Cuando existan razones sociales, benéficas, culturales o de interés público que así lo aconsejen, la entidad podrá fijar precios públicos por debajo del límite previsto en el apartado anterior. En estos casos deberán consignarse en los presupuestos de la entidad las dotaciones oportunas para la cobertura de la diferencia resultante, si la hubiere.
+Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Artículo 33
+
+Artículo 33. Cobro.
+Las entidades locales podrán exigir los precios públicos en régimen de autoliquidación.
+Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Artículo 34
+
+Artículo 34.
+1. La obligación de pagar el precio público nace desde que se inicia la prestación del servicio o la realización de la actividad, si bien las entidades podrán exigir el depósito previo de su importe total o parcial.
+2. Cuando por causas no imputables al obligado al pago del precio, el servicio o la actividad no se preste o desarrolle, procederá la devolución del importe correspondiente.
+3. Las deudas por precios públicos podrán exigirse por el procedimiento administrativo de apremio.
+Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Artículo 35
+
+Artículo 35. Fijación.
+1. Se atribuye al Pleno de la corporación la competencia para el establecimiento y modificación de los precios públicos, sin perjuicio de la posible delegación en la Junta de Gobierno Local.
+2. Las entidades locales podrán atribuir a sus organismos autónomos la fijación de los precios públicos por ellas establecidos, correspondientes a los servicios a cargo de dichos organismos, salvo cuando los precios no cubran el coste de los mismos.
+Se modifica el apartado 1 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## Subsección 3
+
+Subsección 3.ª Cuotas de urbanización
+
+### Artículo 36
+
+Artículo 36. Naturaleza y objeto.
+Son cuotas de urbanización las prestaciones que los propietarios de los terrenos incluidos en unidades de ejecución urbanística deben abonar a las entidades locales para sufragar los costes de la urbanización efectuada, cuando el sistema de actuación, conforme a la legislación urbanística, sea el de cooperación.
+
+### Artículo 37
+
+Artículo 37. Obligados al pago.
+1. Estarán obligados al pago de las cuotas de urbanización:
+a) Los propietarios de las fincas incluidas en la unidad de ejecución correspondiente que figuren inscritos con dicho carácter en el Registro de la Propiedad o, en su defecto, quienes aparezcan como tales en los registros fiscales, o así se desprenda de otros documentos o pruebas.
+En los casos de propiedad horizontal la cuota de urbanización se exigirá a la Junta de Condóminos, salvo cuando ésta facilite los datos relativos a cada propietario y su coeficiente de participación en la comunidad, en cuyo supuesto se girará a cada comunero la oportuna cuota individual en su condición de obligado al pago.
+b) Si los terrenos estuvieran gravados con un censo, el titular del dominio útil.
+2. El propietario de los terrenos que estuvieran gravados con algún derecho de usufructo, uso o habitación tendrá derecho a ser reintegrado por el usufructuario o usuario de una parte de la cuota que guarde con el total de ésta la misma proporción que el valor del capital del derecho real guarde con el valor total de la finca, valorado conforme a lo dispuesto en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+3. En el supuesto de enajenación o transmisión de los terrenos o de las viviendas y locales edificados sobre los mismos, se deberá hacer constar de modo expreso la afección al pago de la cuota y su cuantía. El adquirente quedará subrogado en las obligaciones del anterior propietario.
+4. Quien conste como propietario en el expediente estará obligado a dar cuenta a la entidad actuante de la transmisión efectuada y el nombre y circunstancia del adquirente en el plazo de un mes. Si no lo hiciera se le podrá dirigir la acción para el cobro, incluso por la vía de apremio.
+
+### Artículo 38
+
+Artículo 38. Cuantía y determinación de las cuotas.
+1. La cuantía de la cuota de urbanización será equivalente al coste total de las obras de urbanización.
+2. A estos efectos el coste total presupuestado tendrá carácter de mera previsión, por lo que, si el coste efectivo fuese mayor o menor que el previsto, se rectificará como proceda el señalamiento de las cuotas correspondientes.
+3. Tendrán la consideración de obras de urbanización, en general, las que se incluyan como tales dentro de los correspondientes proyectos de urbanización para cumplir los fines de la competencia urbanística y las previsiones de los planes que ejecuten.
+4. Podrán integrar el coste de las obras los siguientes conceptos:
+a) Obras de vialidad, incluyéndose en ellas las de explanación, afirmado y pavimentación de calzadas, construcción y encintado de aceras y canalizaciones que deban construirse en el subsuelo de la vía pública para servicios.
+b) Obras de saneamiento que comprendan colectores generales y parciales, acometidas, sumideros y atarjeas para aguas pluviales y estaciones depuradoras, en la proporción que afecte a la unidad de ejecución.
+c) Suministro de agua, en el que se incluirán las obras de captación, cuando fueran necesarias, distribución domiciliaria de agua potable, de riego e hidrantes contra incendios.
+d) Suministro de energía eléctrica, incluidas conducción y distribución, y alumbrado público.
+e) Jardinería, arbolado y mobiliario urbano en parques, jardines y vías públicas.
+f) Indemnizaciones debidas a los propietarios y arrendatarios de edificios y construcciones de cualquier tipo que hayan de derribarse para la correcta ejecución del plan, así como las indemnizaciones derivadas de destrucción de plantaciones, obras e instalaciones incompatibles con el plan que se ejecute.
+g) El valor real de los trabajos periciales, de redacción, tramitación y gestión del plan parcial y proyectos de reparcelación y urbanización, programas técnicos, o su valor estimado conforme a las tarifas oficiales, cuando no haya lugar a remuneración especial alguna.
+h) El valor de los terrenos que hubieren de ocupar las obras o servicios, si no se tratara de bienes de uso público o de terrenos de cesión obligatoria y gratuita.
+i) El interés y demás gastos del capital invertido en las obras o servicios mientras no fuera amortizado, cuando la entidad actuante hubiere de acudir al crédito para financiar parte de la obra.
+j) Los costes de la gestión urbanística por la tramitación de los planes y proyectos, que se cifrarán en un 2 por 100, así como de la gestión económica de la obra urbanizadora, que se cifrarán igualmente en otro 2 por 100, ambos aplicados sobre el presupuesto total de urbanización.
+5. A los efectos de determinar la cuota de urbanización, no se descontará del coste el importe de las subvenciones o auxilios que la entidad local obtenga del Estado, de la Administración de la Comunidad Foral o de cualquier otra persona o entidad pública o privada.
+
+### Artículo 39
+
+Artículo 39.
+1. Para determinar la cuota de urbanización que debe abonar cada sujeto obligado al pago, se calculará previamente el valor de la cuota unitaria.
+2. El valor de la cuota unitaria se obtendrá dividiendo el coste total de la urbanización por la superficie total de la unidad de ejecución, en suelo urbanizable, o por el valor urbanístico total, en el suelo urbano.
+3. La cuota de urbanización que debe abonar cada propietario será el resultado de multiplicar el valor de la cuota unitaria, fijado conforme al número anterior, por la superficie o el valor urbanístico aportados.
+
+### Artículo 40
+
+Artículo 40.
+La entidad local titular del aprovechamiento urbanístico de cesión obligatoria y gratuita que corresponda por aplicación de la legislación urbanística participará proporcionalmente a dicha aportación en los costes de urbanización.
+
+### Artículo 41
+
+Artículo 41.
+1. Las cuotas se determinarán en el correspondiente proyecto de reparcelación y en sus cuentas de liquidación provisional y definitiva. Su aprobación implicará la fijación de las cuotas y la posibilidad de su inmediata exacción.
+2. En el supuesto de que la reparcelación no fuese necesaria, la entidad local, al declararlo así, señalará los criterios de reparto de los costes de urbanización y la cuota resultante.
+3. Las cuotas fijadas en el proyecto de reparcelación tendrán carácter provisional hasta que se apruebe la cuenta de liquidación definitiva.
+4. La cuenta de liquidación definitiva será redactada por la entidad local actuante atendiendo al coste real y efectivo, una vez que concluya la urbanización y, en todo caso, antes de que transcurran cinco años desde la aprobación definitiva de la reparcelación.
+5. Tal liquidación definitiva comprenderá, además de todos los conceptos y costos consignados en la provisional, las cargas y gastos que se hayan producido con posterioridad, los errores u omisiones comprobados y las rectificaciones impuestas por resoluciones administrativas o judiciales.
+
+### Artículo 42
+
+Artículo 42. Pago.
+La obligación de pagar las cuotas de urbanización nace con la aprobación definitiva de los proyectos de reparcelación o en el momento en el que la entidad actuante declare no ser necesaria aquélla.
+
+### Artículo 43
+
+Artículo 43. Gestión.
+1. La gestión de las cuotas de urbanización corresponderá a las entidades locales actuantes.
+2. En los supuestos previstos en el artículo 36 de esta Ley Foral es obligatoria la exigencia de pago de cuotas de urbanización para sufragar la totalidad de los costes de la urbanización.
+
+### Artículo 44
+
+Artículo 44.
+1. La entidad local actuante podrá exigir a los propietarios afectados el pago de cantidades a cuenta de los gastos de urbanización por el importe correspondiente a las inversiones a realizar en los seis meses siguientes, que deberá efectuarse en el plazo de un mes desde el requerimiento.
+2. Transcurrido dicho plazo podrá exigirse su ingreso por la vía de apremio.
+
+### Artículo 45
+
+Artículo 45.
+1. La entidad local podrá conceder a los propietarios afectados un aplazamiento o fraccionamiento en el pago de las cuotas, que no podrá ser superior a cinco años. Para la concesión del aplazamiento o fraccionamiento será necesario que los peticionarios asuman el compromiso de satisfacer los gastos e intereses de la parte equivalente de la cuota aplazada o fraccionada en los créditos que la entidad local precise, y se garantice su pago mediante hipoteca, prenda, aval bancario u otra garantía suficiente a juicio de la Corporación.
+2. Si la garantía ofrecida se redujere a menos de la mitad de su valor durante el plazo acordado, será inmediatamente exigible la totalidad del débito, salvo que fuera completada dentro de los quince días siguientes al requerimiento.
+3. Si se concediera fraccionamiento en el pago de las cuotas, las anualidades se fijarán de modo que la suma de sus valores actuales en la fecha en que se fijen las cuotas sea igual al importe de las cuotas respectivas, entendiéndose por valor actual, a tal efecto, la diferencia entre el valor absoluto de la anualidad, y su descuento matemático. El interés aplicable a la tabla de amortización será el real que tenga que satisfacer la entidad local por los créditos que concierte.
+4. Contra el propietario moroso en el pago se podrá utilizar la vía de apremio o la expropiación de los terrenos afectados al cumplimiento de la carga.
+
+### Artículo 46
+
+Artículo 46.
+Una vez aprobadas las cuentas de liquidación provisional y definitiva, las cuotas que correspondan a cada propietario le serán notificadas individualmente si su domicilio fuere conocido o, en otro caso, por edictos.
+
+### Artículo 47
+
+Artículo 47.
+Los ingresos recaudados por cuotas de urbanización sólo podrán destinarse a sufragar los gastos de obras, instalaciones, servicios o costes previstos en el proyecto correspondiente.
+
+### Artículo 48
+
+Artículo 48.
+La entidad local adjudicará la obra urbanizadora de acuerdo con el régimen de contratación establecido en la Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra.
+
+### Artículo 49
+
+Artículo 49. Asociaciones administrativas de cooperación.
+Los propietarios de las fincas de la unidad de ejecución podrán constituir una asociación administrativa para colaborar con la Administración actuante en la ejecución por esta última de las obras de urbanización. Aquella tendrá el carácter de entidad urbanística colaboradora, una vez aprobada su constitución y Estatutos por la Administración.
+
+### Artículo 50
+
+Artículo 50.
+1. La pertenencia a una asociación es voluntaria, pero no podrá constituirse más de una en cada unidad de ejecución.
+2. La transmisión de la titularidad que determina la pertenencia a la asociación, lleva consigo la subrogación en los derechos y obligaciones del transmitente, entendiéndose incorporado el adquirente a partir del momento de la transmisión.
+3. Los propietarios, constituidos en asociación, elegirán de entre ellos un Presidente, que ostentará representación y a través del cual se establecerán las relaciones con la Administración actuante.
+4. Los acuerdos de la Asociación Administrativa de Cooperación se adoptarán siempre por mayoría de las cuotas de participación presentes.
+
+### Artículo 51
+
+Artículo 51.
+Serán fines de la asociación:
+a) Ofrecer a la entidad local sugerencias referentes a la ejecución del plan en la unidad de ejecución.
+b) Auxiliar a la entidad local en la vigilancia de la ejecución de las obras y dirigirse a la misma denunciando los defectos que se observen y proponiendo medidas para el más correcto desarrollo de las obras.
+c) Colaborar con la entidad local para el cobro de las cuotas de urbanización.
+d) Examinar la inversión de las cuotas de urbanización cuyo pago se haya anticipado, formulando los reparos oportunos.
+e) Promover con la entidad local la constitución de empresas mixtas para la ejecución de las obras de urbanización en la unidad de ejecución.
+f) Gestionar la concesión de los beneficios fiscales que procedan.
+
+## Subsección 4
+
+Subsección 4.ª Multas
+
+### Artículo 52
+
+Artículo 52.
+1. Constituyen este recurso todas las multas gubernativas y las sanciones por infracción de las ordenanzas municipales y bandos de policía, y las que se impongan por infracción de los demás preceptos legales o reglamentarios de carácter administrativo.
+2. Salvo lo dispuesto en leyes especiales, las multas por infracción de las Ordenanzas, Reglamentos y Bandos municipales y concejiles, no podrán exceder de 3.000 euros en poblaciones de más de 25.000 habitantes; de 1.800 euros en las de 10.001 a 25.000; de 1.200 euros en las 5.001 a 10.000; de 600 euros en las de 2.001 a 5.000; y de 300 euros en las restantes.
+3. Para la recaudación de las multas se seguirá, en defecto de pago voluntario, la vía de apremio.
+4. No se entenderán comprendidas en este artículo las sanciones impuestas por infracciones tributarias que tendrán el mismo carácter fiscal que la normativa tributaria cuyo incumplimiento las haya originado.
+Se modifica el apartado 2 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## Subsección 5
+
+Subsección 5.ª Otras prestaciones
+
+### Artículo 53
+
+Artículo 53. Prestación personal y de transporte. Normas comunes.
+1. Las entidades locales de Navarra podrán imponer la prestación personal, también conocida por auzalán, auzolán o artelán, y la de transporte para la construcción, conservación y mejora de caminos vecinales y rurales y, en general, para la realización de obras de su competencia.
+2. Las prestaciones personal y de transporte son compatibles entre sí, pudiendo ser aplicables simultáneamente, de forma que, cuando se dé dicha simultaneidad, los obligados a la de transporte podrán realizar la personal con sus mismos elementos de transporte.
+3. La falta de concurrencia a la prestación, sin la previa redención, obligará, salvo caso de fuerza mayor, al pago del importe de ésta más una sanción de la misma cuantía, exigiéndose ambos conceptos, en caso de impago en el plazo concedido al efecto, por la vía de apremio.
+4. Las entidades locales tendrán en cuenta para fijar los periodos de la prestación que éstos no coincidan con la época de mayor actividad laboral en el término municipal o concejil.
+5. La imposición y la ordenación de las prestaciones a que se refiere este artículo se regularán en la correspondiente ordenanza.
+
+### Artículo 54
+
+Artículo 54. La prestación personal.
+1. Estarán sujetos a la prestación personal los residentes en la entidad local respectiva, a excepción de los siguientes:
+a) Los menores de dieciocho años y los mayores de cincuenta y cinco.
+b) Los disminuidos físicos, psíquicos y sensoriales.
+c) Los reclusos en establecimientos penitenciarios.
+2. La entidad local cubrirá el riesgo por accidentes que puedan acaecer a los obligados a esta prestación.
+3. La prestación personal no excederá de diez días anuales ni de tres consecutivos, y podrá ser objeto de sustitución voluntaria por otra persona idónea, o de redención mediante el pago de una cantidad de dinero equivalente al doble del salario mínimo interprofesional.
+Se modifica el apartado 1 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 55
+
+Artículo 55. La prestación de transporte.
+1. La obligación de la prestación de transporte es general, sin excepción alguna, para todas las personas físicas o jurídicas, residentes o no en la entidad local, que tengan elementos de transporte en su término afectos a explotaciones empresariales radicadas en el mismo.
+2. La prestación de transporte, que podrá ser convertida a metálico por importe de tres veces el salario mínimo interprofesional, no excederá, para los vehículos de tracción mecánica, de cinco días al año, sin que pueda ser consecutivo ninguno de ellos. En los demás casos su duración no será superior a diez días al año ni a dos consecutivos.
+3. El abono del carburante consumido por los vehículos de transporte empleados en la prestación de transporte será de cuenta de la respectiva entidad local.
+
+## CAPÍTULO IV
+
+Tributos
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 56
+
+Artículo 56.
+Los tributos que exaccionen las entidades locales respetarán, en todo caso, los siguientes principios:
+a) El carácter general de la obligación de contribuir que alcanza a todas las personas físicas y jurídicas, o sujetos sin personalidad jurídica que sean susceptibles de derechos y obligaciones fiscales, respetando, en todo caso, los principios de igualdad y capacidad económica.
+b) No someter a gravamen bienes situados, actividades desarrolladas, rendimientos originados ni gastos realizados fuera del territorio de la respectiva entidad.
+c) No gravar, como tales, negocios, actos o hechos celebrados o realizados fuera del territorio de la entidad impositora, ni el ejercicio o la transmisión de bienes, derechos u obligaciones que no hayan nacido ni hubieran de cumplirse en dicho territorio.
+d) No implicar obstáculo alguno para la libre circulación de personas, mercancías o servicios y capitales, ni afectar de manera efectiva a la fijación de la residencia de las personas o a la ubicación de empresas y capitales, sin que ello obste para que las entidades locales puedan instrumentar la ordenación urbanística de su territorio.
+
+### Artículo 57
+
+Artículo 57.
+1. No podrán reconocerse otros beneficios fiscales en los tributos de las entidades locales de Navarra que los previstos expresamente en esta u otra Ley Foral.
+2. Las Leyes Forales por las que se establezcan beneficios fiscales en materia de tributos de las entidades locales distintos de los previstos en esta Ley Foral fijarán fórmulas de compensación. En éstas se tendrán en cuenta las posibilidades de crecimiento futuro de los recursos de las entidades locales, procedentes de los tributos respecto de los cuales se establezcan los mencionados beneficios fiscales.
+
+### Artículo 58
+
+Artículo 58.
+1. La creación y modificación de tributos a exaccionar por las entidades locales de Navarra se realizará mediante Ley Foral tramitada por el procedimiento previsto en el artículo 20.2 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+2. Se podrá, sin embargo, variar a través de Leyes Forales que requieren mayoría simple para su aprobación, los parámetros cuantitativos determinantes de la deuda tributaria y fijar beneficios fiscales en las condiciones previstas en el número siguiente.
+3. Los beneficios fiscales en los tributos locales establecidos conforme al número anterior se sujetarán a las siguientes condiciones:
+a) Limitarán su vigencia al principio de anualidad presupuestaria.
+b) No podrán modificar la naturaleza del beneficio tributario que les sirve de base.
+c) Simultáneamente a su aprobación se determinarán las medidas precisas para fijar los sistemas o fórmulas de compensación a las que se refiere el número 2 del artículo anterior.
+
+### Artículo 59
+
+Artículo 59.
+Es competencia de las entidades locales de Navarra la gestión, recaudación e inspección de sus tributos propios.
+
+### Artículo 60
+
+Artículo 60.
+1. Las entidades locales de Navarra podrán delegar las competencias a que hace referencia el artículo anterior en otra entidad local en cuyo ámbito territorial de actuación se hallen integradas, estando supeditada la eficacia de la delegación a su aceptación por la entidad delegada.
+2. Son órganos competentes para acordar la delegación en los municipios, el Pleno del Ayuntamiento o el Concejo abierto; en los Concejos, las Juntas o el Concejo abierto y en las demás entidades locales los que estatutariamente tengan reconocida dicha competencia.
+3. El acuerdo que se adopte habrá de fijar el alcance, contenido, duración y condiciones de la delegación y se publicará, una vez aceptada ésta por el órgano de gobierno de la entidad delegada, referido siempre al Pleno en el supuesto de entidades locales en cuyo ámbito territorial estén integradas, en el «Boletín Oficial de Navarra».
+4. La revisión de los actos en vía administrativa corresponde, en todo caso, a la entidad que haya dictado el acto objeto de la misma bien sea la titular de la competencia o la entidad delegada.
+
+### Artículo 61
+
+Artículo 61.
+1. Las Administraciones Tributarias de la Hacienda de la Comunidad Foral y de las entidades locales de Navarra colaborarán en todos los órdenes de gestión, liquidación, inspección y recaudación de sus tributos.
+2. En particular, dichas Administraciones Tributarias:
+a) Se facilitarán toda la información que mutuamente se soliciten.
+b) Se prestarán recíprocamente, en la forma que reglamentariamente se determine, la asistencia que interese a los efectos de sus respectivos cometidos y los datos y antecedentes que se reclamen.
+c) Se comunicarán inmediatamente, en la forma que reglamentariamente se establezca, los hechos con trascendencia tributaria para cualquiera de ellas, que se pongan de manifiesto como consecuencia de actuaciones comprobadoras e investigadoras de los respectivos servicios de inspección tributaria.
+3. Además de las formas de colaboración previstas en el número anterior, las Administraciones Tributarias podrán elaborar y preparar planes de inspección conjunta o coordinada sobre objetivos, sectores y procedimientos selectivos.
+
+### Artículo 62
+
+Artículo 62.
+Toda persona natural o jurídica, privada o pública, por simple deber de colaboración con la Administración Local, estará obligada, a requerimiento de ésta, a proporcionar toda clase de datos, informes, o antecedentes con trascendencia tributaria deducidos de sus relaciones económicas, profesionales o financieras con otras personas.
+
+### Artículo 63
+
+Artículo 63.
+1. Los sujetos pasivos de los tributos locales podrán formular ante la entidad local respectiva consultas debidamente documentadas respecto el régimen, la clasificación o la calificación tributaria que en cada caso les corresponda.
+2. La contestación tendrá carácter de mera información y no de acto administrativo, no vinculando a la Administración.
+3. No obstante lo establecido en el número anterior, el sujeto pasivo que tras haber formulado su consulta hubiese cumplido las obligaciones tributarias de acuerdo con la contestación del órgano competente no incurrirá en responsabilidad, siempre que concurran los siguientes requisitos:
+a) Que la consulta comprenda todos los antecedentes y circunstancias necesarios para la formación del juicio de la Administración.
+b) Que aquéllos no se hubieren alterado posteriormente.
+c) Que se hubiere formulado la consulta antes de producirse el hecho imponible o dentro del plazo para su declaración.
+La exención de responsabilidad cesará cuando se modifique la legislación aplicable y no impedirá, en ningún caso, la exigencia de intereses de demora además de las cuotas, importes o recargos pertinentes.
+4. Los interesados no podrán entablar recurso alguno contra la contestación de una consulta aun cuando puedan hacerlo posteriormente contra el acto administrativo basado en ella.
+
+## Sección 2
+
+Sección 2.ª Imposición y ordenación de los tributos
+
+### Artículo 64
+
+Artículo 64.
+Los acuerdos sobre imposición y ordenación de tributos, así como sus modificaciones, habrán de ser adoptados antes del comienzo del ejercicio económico en que hayan de surtir efecto, o de la fecha de realización o implantación de nuevas obras o servicios, o ampliación de los existentes.
+
+### Artículo 65
+
+Artículo 65.
+No se admitirá la analogía para extender más allá de sus términos estrictos el ámbito del hecho imponible o el de las exenciones o bonificaciones.
+
+### Artículo 66
+
+Artículo 66.
+Los tributos se exigirán con arreglo a la verdadera naturaleza jurídica y económica del hecho imponible.
+
+## Sección 3
+
+Sección 3.ª El procedimiento de gestión tributaria
+
+## Subsección 1
+
+Subsección 1.ª Iniciación y trámites
+
+### Artículo 67
+
+Artículo 67.
+La gestión de los tributos se iniciará:
+a) Por declaración o iniciativa del sujeto pasivo.
+b) De oficio.
+c) Por actuación investigadora de los órganos administrativos de las entidades locales.
+
+### Artículo 68
+
+Artículo 68.
+1. Se considerará declaración tributaria todo documento por el que se manifieste o reconozca que se han dado o producido las circunstancias o elementos de un hecho imponible. Se entenderá también como tal declaración la simple presentación del documento en que se contenga o constituya un hecho imponible.
+2. En ningún caso se exigirá que las declaraciones fiscales se formulen bajo juramento.
+3. Al tiempo de la presentación se dará a los interesados un recibo acreditativo de la misma, pudiendo servir a estos efectos el duplicado de la declaración.
+4. Al presentar un documento de prueba podrán los interesados acompañarlo de una copia simple o fotocopia para que la entidad local, previo cotejo, devuelva el original, salvo que por ser privado el documento o por cualquier otra causa legítima se estimara que no debe ser devuelto antes de la resolución definitiva del procedimiento.
+
+### Artículo 69
+
+Artículo 69.
+1. Será obligatoria la presentación de la declaración dentro de los plazos determinados en cada ordenanza y, en su defecto, dentro del plazo de treinta días hábiles siguientes a aquél en que se produzca el hecho imponible. La no presentación dentro de plazo será considerada como infracción simple y sancionada como tal.
+2. La presentación de la declaración ante la entidad local no implica aceptación o reconocimiento de la procedencia del gravamen.
+3. Las entidades locales pueden recabar declaraciones y la ampliación de éstas, así como la subsanación de los defectos advertidos en cuanto fuere necesario para la liquidación de los tributos y para su comprobación.
+4. El incumplimiento de los deberes a que se refiere el número anterior será considerado como infracción simple y sancionada como tal.
+
+### Artículo 70
+
+Artículo 70.
+1. En las ordenanzas particulares se señalarán los plazos a que habrá de ajustarse la realización de los diversos trámites de gestión tributaria. Si dichas ordenanzas no los fijasen, se entenderá, con carácter general, que no podrá exceder de seis meses el tiempo que transcurra desde el día en que se inicie el procedimiento administrativo hasta aquél en que se dicte la correspondiente resolución que le ponga término, de no mediar causas excepcionales debidamente justificadas que lo impidiesen. Este plazo será de dos años cuando se trate de la actuación inspectora.
+2. La inobservancia de los plazos por las entidades locales no implicará la caducidad de la acción administrativa, pero autorizará a los interesados para presentar la correspondiente reclamación.
+3. En todo momento podrá reclamarse contra los defectos de tramitación y en especial los que supongan paralización del procedimiento, infracción de los plazos señalados u omisión de trámites que puedan subsanarse antes de la resolución definitiva del asunto. La estimación de la reclamación dará lugar, si hubiera razones para ello, a la incoación de expediente disciplinario contra el funcionario responsable.
+
+## Subsección 2
+
+Subsección 2.ª Comprobación e investigación
+
+### Artículo 71
+
+Artículo 71.
+Las entidades locales investigarán los hechos, actos, situaciones, actividades, explotaciones y demás circunstancias que integren o condicionen el hecho imponible y comprobarán la valoración de la base de gravamen.
+
+### Artículo 72
+
+Artículo 72.
+La investigación se realizará mediante el examen de documentos, libros, ficheros, facturas, justificantes y asientos de contabilidad principal o auxiliar del sujeto pasivo; también con la inspección de bienes, elementos, explotaciones y cualquier otro antecedente de información que sea necesario para la determinación del tributo.
+
+### Artículo 73
+
+Artículo 73.
+1. La actuación investigadora de las entidades locales podrá iniciarse como consecuencia de una denuncia. El ejercicio de la acción de denuncia es independiente de la obligación de colaborar con la Administración conforme a lo dispuesto en el artículo 62 de esta Ley.
+2. No se considerará al denunciante interesado en la actuación investigadora que se inicie a raíz de la denuncia ni legitimado para interponer como tal recurso o reclamación.
+3. Podrán archivarse sin más trámite las denuncias que fuesen manifiestamente infundadas.
+
+### Artículo 74
+
+Artículo 74.
+Los sujetos pasivos están obligados a llevar y conservar los libros de contabilidad, registros y demás documentos que en cada caso se establezca y a facilitar la práctica de las inspecciones, proporcionando a la entidad local respectiva los datos, informes y antecedentes o justificantes que tengan relación con el hecho imponible.
+
+### Artículo 75
+
+Artículo 75.
+Las actuaciones de inspección, en cuanto hayan de tener alguna trascendencia económica para los sujetos pasivos, se documentarán en diligencias, comunicaciones y actas previas o definitivas.
+
+## Sección 4
+
+Sección 4.ª Liquidaciones tributarias
+
+### Artículo 76
+
+Artículo 76.
+1. Determinadas las bases impositivas, la gestión continuará mediante la práctica de la liquidación para determinar la deuda tributaria. Las liquidaciones serán provisionales o definitivas.
+2. Tendrán la consideración de definitivas:
+a) Las practicadas previa investigación administrativa del hecho imponible y comprobación de la base de gravamen, haya mediado o no liquidación provisional.
+b) Las que no hayan sido comprobadas dentro del plazo de prescripción.
+3. Fuera de los casos que se indican en el número anterior, las liquidaciones tendrán carácter de provisionales, sean a cuenta, complementarias, cauciónales, parciales o totales.
+
+### Artículo 77
+
+Artículo 77.
+1. Las entidades locales comprobarán, al practicar las liquidaciones, todos los actos y valoraciones consignados en las declaraciones tributarias.
+2. El aumento de la base tributaria sobre la resultante de las declaraciones deberá notificarse al sujeto pasivo, con expresión concreta de los hechos y elementos adicionales que la motiven, conjuntamente con la liquidación que se practique.
+
+### Artículo 78
+
+Artículo 78.
+1. Las liquidaciones se notificarán a los sujetos pasivos con expresión:
+a) De los elementos esenciales de aquéllas.
+b) De los medios de impugnación que puedan ser ejercitados con indicación de plazos y organismos en que habrán de ser interpuestos.
+c) Del lugar, plazo y forma en que deba ser satisfecha la deuda tributaria.
+2. Las notificaciones defectuosas surtirán efecto a partir de la fecha en que el sujeto pasivo se dé expresamente por notificado, interponga el recurso pertinente o efectúe el ingreso de la deuda tributaria.
+3. No obstante, surtirán efecto por el transcurso de seis meses las notificaciones practicadas personalmente a los sujetos pasivos que conteniendo el texto íntegro del acto hubieran omitido algún otro requisito, salvo que se haya hecho protesta formal, dentro de ese plazo, en solicitud de que la Administración rectifique la deficiencia.
+
+### Artículo 79
+
+Artículo 79.
+En los casos en que así se determine en la propia ordenanza particular, y sin perjuicio de los registros administrativos establecidos en la ley para la gestión de determinados tributos, las entidades locales procederán a confeccionar, a la vista de las declaraciones de los interesados, de los datos de que tengan conocimiento, así como de la inspección administrativa, los correspondientes censos de contribuyentes. El censo de contribuyentes, una vez así formado, tendrá la consideración de un registro permanente y público, que podrá llevarse por cualquier procedimiento, incluso mecánico, que las entidades locales acuerden establecer.
+Se modifica, con efectos a partir del 1 de enero de 2013, por el art. único.1 de la Ley Foral 10/2013, de 12 de marzo. Ref. BOE-A-2013-3674
+
+### Artículo 80
+
+Artículo 80.
+1. Una vez constituido el censo de contribuyentes, todas las altas, bajas y alteraciones que en el mismo tengan lugar, deberán ser aprobadas en virtud de acto administrativo reclamable y notificadas en forma legal a los sujetos pasivos.
+2. Los contribuyentes estarán obligados a poner en conocimiento de las entidades locales, dentro del plazo de treinta días hábiles siguientes a aquél en que se produzca, toda modificación sobrevenida que pueda originar alta, baja o alteración en el censo de contribuyentes, sin perjuicio de las singularidades que, respecto de los distintos tributos, se contienen en esta Ley.
+
+### Artículo 81
+
+Artículo 81.
+Los censos de contribuyentes constituirán el documento fiscal al que han de referirse las listas, recibos y otros documentos cobratorios para la percepción de la pertinente exacción.
+
+## Sección 5
+
+Sección 5.ª Recaudación
+
+### Artículo 82
+
+Artículo 82.
+La gestión recaudatoria consiste, en el ejercicio de la función administrativa conducente a la realización de los créditos y derechos que constituyen el haber de la Hacienda de las entidades locales.
+
+### Artículo 83
+
+Artículo 83.
+Toda liquidación reglamentariamente notificada al sujeto pasivo constituye a éste en la obligación de satisfacer la deuda tributaria.
+
+### Artículo 84
+
+Artículo 84.
+1. La recaudación podrá realizarse:
+a) En período voluntario.
+b) En período ejecutivo.
+2. En el período voluntario, los obligados al pago harán efectivas sus deudas dentro de los plazos señalados al efecto. En período ejecutivo, la recaudación se realizará coercitivamente por vía de apremio, conforme a la legislación vigente, sobre el patrimonio del obligado que no haya cumplido la obligación a su cargo en el período voluntario.
+
+### Artículo 85
+
+Artículo 85.
+La recaudación de los recursos de las entidades locales se realizará de modo directo, a través de la Tesorería, de tal forma que el Interventor ejerza la fiscalización de los servicios.
+
+### Artículo 86
+
+Artículo 86.
+1. Las deudas tributarias resultantes de liquidaciones practicadas se clasificarán, a efectos de su recaudación, en notificadas, sin notificación y autoliquidadas.
+2. En las notificadas es indispensable el requisito de la notificación para que el sujeto pasivo tenga conocimiento de la deuda tributaria, de forma que sin la notificación en forma legal la deuda no será exigible.
+3. Son deudas sin notificación aquellas que, por derivar directamente de registros y censos de contribuyentes ya conocidos por los sujetos pasivos, no precisan de notificación individual.
+Así en los tributos de cobro periódico por recibo, una vez notificada la liquidación correspondiente al alta en el respectivo registro, censo, padrón o matrícula, podrán notificarse colectivamente las sucesivas liquidaciones mediante edictos que así lo adviertan, cuando éstas sean idénticas a las anteriores, o cuando las variaciones o alteraciones que se produzcan sean de carácter general.
+4. Son autoliquidadas aquéllas en las que el sujeto pasivo, a través de declaraciones liquidaciones, procede al pago simultáneo de la deuda tributaria.
+Se modifica el apartado 3, con efectos a partir del 1 de enero de 2013, por el art. único.2 de la Ley Foral 10/2013, de 12 de marzo. Ref. BOE-A-2013-3674
+
+### Artículo 87
+
+Artículo 87.
+Las deudas a favor de las entidades locales se ingresarán en la caja de la Corporación o en las cuentas bancadas o de ahorro de su titularidad, abiertas a tal fin.
+
+### Artículo 88
+
+Artículo 88.
+Las deudas tributarias deberán satisfacerse:
+a) Las notificadas, dentro del plazo de treinta días hábiles, contados desde su notificación.
+b) En los tributos de cobro periódico por recibo, cuando no es preceptiva la notificación individual, en el mismo plazo establecido en la letra anterior, computado desde el día primero del trimestre natural en que deban hacerse efectivos.
+c) Las deudas autoliquidadas por el propio sujeto pasivo deberán satisfacerse al tiempo de la presentación de las correspondientes declaraciones. Las fechas o plazos de presentación de las declaraciones serán las que se determinen en las ordenanzas reguladoras de cada tributo y, en su defecto, el de treinta días hábiles a contar desde la fecha en que se produzca el hecho imponible.
+
+### Artículo 89
+
+Artículo 89.
+1. El pago de las deudas tributarias deberá realizarse en efectivo por alguno de los medios siguientes:
+a) Dinero de curso legal.
+b) Giro postal o telegráfico.
+c) Cheque bancario.
+d) Carta de abono o transferencia en las cuentas abiertas al efecto por la entidad local en entidades de crédito y ahorro.
+2. No obstante lo prevenido anteriormente, podrá acordarse la domiciliación de las deudas tributarias en entidades de crédito y ahorro, de modo que éstas actúen como administradoras del sujeto pasivo pagando las deudas que éste les haya autorizado. Tal domiciliación no necesita más requisito que el previo aviso escrito a la Tesorería de la entidad local y a la entidad de crédito y ahorro de que se trate de los conceptos contributivos a que afecte dicha domiciliación.
+
+### Artículo 90
+
+Artículo 90.
+1. Liquidada la deuda tributaria la entidad local podrá, graciable y discrecionalmente, aplazar o fraccionar el pago de la misma, previa petición de los obligados.
+2. El fraccionamiento de pago, como modalidad del aplazamiento, se regirá por las disposiciones aplicables a éste.
+3. Con carácter general las deudas aplazadas devengarán desde el día siguiente al de su vencimiento y hasta la fecha del vencimiento del plazo o plazos de los aplazamientos o fraccionamientos concedidos, el interés de demora que se refiere la Ley Foral 8/1988, de la Hacienda Pública de Navarra.
+El tipo aplicable será el vigente en el momento de la solicitud y se mantendrá inalterable hasta la total cancelación del aplazamiento o fraccionamiento concedido.
+
+### Artículo 91
+
+Artículo 91.
+(Derogado).
+Se deroga por el art. único.2 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 92
+
+Artículo 92.
+1. Las condiciones en que pueden ser solicitados los aplazamientos o fraccionamientos, el procedimiento a seguir para su obtención, las garantías y demás requisitos que la entidad local respectiva estime necesarios para la concesión de los mismos, se recogerán en las bases de ejecución de sus presupuestos generales.
+2. Aquellas entidades que no cuenten con bases de ejecución de sus presupuestos generales aplicarán con carácter supletorio las siguientes reglas en la concesión de aplazamientos o fraccionamientos:
+a) El plazo de aplazamiento o fraccionamiento no podrá ser superior a cinco años.
+b) El peticionario ofrecerá garantía en forma de aval solidario de entidad crediticia o de ahorro, acompañando con la solicitud el correspondiente compromiso de la entidad de formalizar el aval si se concede el aplazamiento.
+c) La garantía cubrirá en todo caso el importe de la deuda y el de los intereses de demora, más el 25 por 100 de la suma de ambas cantidades.
+d) La garantía constituida mediante aval deberá ser por término que exceda, al menos en tres meses, al vencimiento del plazo o plazos de que se trate.
+e) El incumplimiento de la devolución por vencimiento del plazo concedido dará lugar a la exacción de la deuda por vía de apremio, sin que haya lugar a prueba alguna.
+f) La falta de pago de un plazo a su vencimiento determinará que se consideren también vencidos en el mismo día los posteriores que se hubiesen concedido quedando todos ellos incursos en apremio.
+
+## Sección 6
+
+Sección 6.ª Infracciones tributarias
+
+### Artículo 93
+
+Artículo 93.
+1. Son infracciones tributarias las acciones y omisiones tipificadas y sancionadas en esta Ley Foral y demás disposiciones legales que regulen la Hacienda de las entidades locales. Las infracciones son sancionables incluso a título de simple negligencia.
+2. Serán sujetos infractores las personas físicas o jurídicas que realicen las acciones u omisiones tipificadas legalmente como infracciones y, en particular, las siguientes:
+a) Los sujetos pasivos de los tributos, sean contribuyentes o sustitutos.
+b) El representante legal de los sujetos pasivos que carezcan de capacidad de obrar.
+c) Las personas físicas o jurídicas obligadas a suministrar información o a prestar colaboración a la Administración, conforme a lo establecido en el artículo 62 de esta Ley.
+3. Las acciones u omisiones tipificadas legalmente como infracciones no darán lugar a responsabilidad en los siguientes supuestos:
+a) Cuando se realicen por quienes carezcan de capacidad de obrar en el orden tributario.
+b) Cuando concurra fuerza mayor.
+c) Cuando deriven de una decisión colectiva para quienes hubieran salvado su voto o no hubieran asistido a la reunión en que se adoptó la misma.
+4. En los supuestos a que se refiere el número anterior, al regularizarse la situación tributaria de los sujetos pasivos o de los restantes obligados, se exigirá, además de las cuotas y recargos pertinentes, el correspondiente interés de demora.
+5. En los supuestos en que la Administración Local estime que las infracciones pudieran ser constitutivas de los delitos contra la Hacienda Pública, pasará el tanto de culpa a la jurisdicción competente y se abstendrá de seguir el procedimiento administrativo mientras la autoridad judicial no dicte sentencia firme, tenga lugar el sobreseimiento o archivo de las actuaciones o se produzca la devolución del expediente por el Ministerio Fiscal.
+La sentencia condenatoria de la autoridad judicial excluirá la imposición de sanción administrativa.
+6. De no haberse estimado la existencia de delito, la entidad local continuará el expediente sancionador en base a los hechos que los Tribunales hayan considerado probados.
+
+### Artículo 94
+
+Artículo 94.
+1. Constituyen infracciones simples el incumplimiento de obligaciones o deberes tributarios exigidos a cualquier persona, sea o no sujeto pasivo, por razón de la gestión de tributos y cuando no constituyan infracciones graves.
+2. Constituyen infracciones graves:
+a) Dejar de ingresar dentro de los plazos reglamentariamente señalados la totalidad o parte de la deuda tributaria.
+b) Disfrutar u obtener indebidamente exenciones, beneficios fiscales o devoluciones.
+c) No presentar, presentar fuera de plazo o de forma incompleta o incorrecta las declaraciones o documentos necesarios para que la entidad local pueda practicar la liquidación de aquellos tributos que no se exigen por el procedimiento de autoliquidación.
+
+### Artículo 95
+
+Artículo 95.
+Las infracciones se sancionarán mediante multa pecuniaria fija o proporcional.
+La cuantía de las multas fijas podrá actualizarse en la Ley Foral de Presupuestos Generales de Navarra de cada ejercicio.
+La multa pecuniaria proporcional se aplicará sobre la cuota tributaria, cantidades que hubieran dejado de ingresarse o sobre el importe de los beneficios o devoluciones indebidamente obtenidos.
+
+### Artículo 96
+
+Artículo 96.
+Las sanciones serán acordadas e impuestas, con audiencia del interesado, por los órganos que deben dictar los actos administrativos por los que se practiquen las liquidaciones provisionales o definitivas de los tributos y, en todo caso, previa la incoación del correspondiente expediente.
+
+### Artículo 97
+
+Artículo 97.
+1. Las sanciones se graduarán atendiendo en cada caso concreto a:
+a) La comisión repetida de infracciones tributarias.
+b) La resistencia, negativa u obstrucción a la acción investigadora de la entidad local.
+c) La utilización de medios fraudulentos en la comisión de la infracción o la comisión de ésta por medio de persona interpuesta.
+d) La falta de presentación de declaraciones o presentación de declaraciones falsas, incompletas o inexactas cuando de ello se derive una disminución de la deuda tributaria.
+e) La falta de cumplimiento espontáneo o el retraso en el cumplimiento de las obligaciones o deberes formales o de colaboración.
+f) La trascendencia para la eficacia de la gestión tributaria de los datos, informes, o antecedentes no facilitados y, en general, del incumplimiento de las obligaciones formales, de las de índole contable o registral y de colaboración o información a la entidad local.
+2. Los criterios de graduación son aplicables simultáneamente.
+Los criterios contemplados en las letras e) y f) se emplearán, exclusivamente, para la graduación de las sanciones por infracciones simples. El criterio contemplado en la letra d) se aplicará, exclusivamente, para la graduación de las sanciones por infracciones graves.
+Reglamentariamente se terminará la aplicación de cada uno de los criterios de graduación.
+3. La cuantía de las sanciones por infracciones tributarias graves se reducirá en un 30 por 100 cuando el sujeto infractor o, en su caso, el responsable, manifiesten su conformidad con la propuesta de regularización que se les formule.
+
+### Artículo 98
+
+Artículo 98.
+1. Cada infracción simple será sancionada con multa de 1.000 a 150.000 pesetas.
+2. La resistencia, excusa o negativa a la actuación de la inspección en el ejercicio de sus competencias se sancionará con multa de 50.000 a 1.000.000 de pesetas.
+3. Las infracciones tributarias graves serán sancionadas con multa pecuniaria proporcional del 50 al 150 por 100 del importe de la cuota y sin perjuicio de la reducción contemplada en el artículo anterior.
+Asimismo, serán exigibles intereses de demora por el tiempo transcurrido entre la finalización del plazo voluntario de pago y el día en que se practique la liquidación que regularice la situación tributaria.
+
+### Artículo 99
+
+Artículo 99.
+1. La responsabilidad derivada de las infracciones se extingue por el pago o cumplimiento de la sanción, por prescripción.
+2. A la muerte de los sujetos infractores, las obligaciones tributarias pendientes se transmitirán a los herederos o legatarios, sin perjuicio de lo que establece la legislación civil para la adquisición de la herencia. En ningún caso serán transmisibles las sanciones.
+3. En el caso de sociedades o entidades disueltas y liquidadas, sus obligaciones tributarias pendientes se transmitirán a los socios o partícipes en el capital, que responderán de ellas solidariamente y hasta el límite del valor de la cuota de liquidación que se les hubiere adjudicado.
+
+## Sección 7
+
+Sección 7.ª Tasas
+
+## Subsección 1
+
+Subsección 1.ª Hecho imponible
+
+### Artículo 100
+
+Artículo 100. Hecho imponible.
+1. Las entidades locales, en los términos previstos en esta Ley Foral, podrán establecer tasas por la utilización privativa o el aprovechamiento especial del dominio público local y por la prestación de servicios públicos o la realización de actividades de su competencia.
+2. Constituye el hecho imponible de las tasas:
+A) La utilización privativa o el aprovechamiento especial del dominio público local.
+B) La prestación de un servicio público o la realización de una actividad administrativa en régimen de derecho público de competencia local que se refiera, afecte o beneficie de modo particular al sujeto pasivo, cuando se produzca cualquiera de las circunstancias siguientes:
+a) Que no sean de solicitud o recepción voluntaria para los administrados. A estos efectos no se considerará voluntaria la solicitud o la recepción por parte de los administrados:
+Cuando venga impuesta por disposiciones legales o reglamentarias.
+Cuando los servicios o actividades requeridos sean imprescindibles para la vida privada o social del solicitante.
+b) Que no se presten o realicen por el sector privado, esté o no establecida su reserva a favor del sector público conforme a la normativa vigente.
+3. Se entenderá que la actividad administrativa o servicio afecta o se refiere al sujeto pasivo cuando haya sido motivado directa o indirectamente por el mismo en razón de que sus acciones u omisiones obliguen a las entidades locales a realizar de oficio actividades o a prestar servicios por razones de seguridad, salubridad, de abastecimiento de la población o de orden urbanístico, o cualesquiera otras.
+4. Conforme a lo previsto en el apartado 1 de este artículo, las entidades locales podrán establecer tasas por cualquier supuesto de utilización privativa o aprovechamiento especial del dominio público local, y en particular por los siguientes:
+a) Sacas de arena y de otros materiales de construcción en terrenos de dominio público local.
+b) Construcción en terrenos de uso público local de pozos de nieve o de cisternas o aljibes donde se recojan las aguas pluviales.
+c) Balnearios y otros disfrutes de aguas que no consistan en el uso común de las públicas.
+d) Vertido y desagüe de canalones y otras instalaciones análogas en terrenos de uso público local.
+e) Ocupación del subsuelo de terrenos de uso público local.
+f) Apertura de zanjas, calicatas y calas en terrenos de uso público local, inclusive carreteras, caminos y demás vías públicas locales, para la instalación y reparación de cañerías, conducciones y otras instalaciones, así como cualquier remoción de pavimento o aceras en la vía pública.
+g) Ocupación de terrenos de uso público local con mercancías, materiales de construcción, escombros, vallas puntales, asnillas, andamios y otras instalaciones análogas.
+h) Entradas de vehículos a través de las aceras y reservas de vía pública para aparcamiento exclusivo, parada de vehículos, carga y descarga de mercancías de cualquier clase.
+i) Instalación de rejas de pisos, lucernarios, respiraderos, puertas de entrada, bocas de carga o elementos análogos que ocupen el suelo o subsuelo de toda clase de vías públicas locales, para dar luces, ventilación, acceso de personas o entrada de artículos a sótanos o semisótanos.
+j) Ocupación del vuelo de toda clase de vías públicas locales con elementos constructivos cerrados, terrazas, miradores, balcones, marquesinas, toldos, paravientos y otras instalaciones semejantes, voladizas sobre la vía pública o que sobresalgan de la línea de fachada.
+k) Tendidos, tuberías y galerías para las conducciones de energía eléctrica, agua, gas o cualquier otro fluido incluidos los postes para líneas, cables, palomillas, cajas de amarre, de distribución o de registro, transformadores, rieles, básculas, aparatos para venta automática y otros análogos que se establezcan sobre vías públicas u otros terrenos de dominio público local o vuelen sobre los mismos.
+l) Ocupación de terrenos de uso público local con mesas, sillas, tribunas, tablados y otros elementos análogos, con finalidad lucrativa.
+m) Instalación de quioscos en la vía pública.
+n) Instalación de puestos, barracas, casetas de venta, espectáculos, atracciones o recreo, situados en terrenos de uso público local así como industrias callejeras y ambulantes y rodaje cinematográfico.
+ñ) Portadas, escaparates y vitrinas.
+o) Rodaje y arrastre de vehículos que no se encuentren gravados por el Impuesto sobre Vehículos de Tracción Mecánica.
+p) Tránsito de ganados sobre vías públicas o terrenos de dominio público local.
+q) Muros de contención o sostenimiento de tierras, edificaciones o cercas, ya sean definitivas o provisionales, en vías públicas locales.
+r) Depósitos y aparatos distribuidores de combustible y, en general, de cualquier artículo o mercancía, en terrenos de uso público local.
+s) Instalación de anuncios ocupando terrenos de dominio público local o visibles desde carreteras, caminos vecinales, y demás vías públicas locales.
+t) Construcción en carreteras, caminos y demás vías públicas locales de atarjeas y pasos sobre cunetas y en terraplenes para vehículos de cualquier clase, así como para el paso del ganado.
+u) Estacionamiento de vehículos de tracción mecánica en las vías de los municipios dentro de las zonas que a tal efecto se determinen y con las limitaciones que pudieran establecerse.
+5. Conforme a lo previsto en el apartado 1 de este artículo, las entidades locales podrán establecer tasas por cualquier supuesto de prestación de servicios o de realización de actividades administrativas de competencia local, y en particular por los siguientes:
+a) Documentos que expidan o de que entiendan las Administraciones o autoridades locales, a instancia de parte.
+b) Autorización para utilizar en placas, patentes y otros distintivos análogos el escudo de la entidad local.
+c) Otorgamiento de licencias o autorizaciones administrativas de autotaxis y demás vehículos de alquiler.
+d) Guarderío rural.
+e) Voz pública.
+f) Vigilancia especial de los establecimientos que lo soliciten.
+g) Servicios de competencia local que especialmente sean motivados por la celebración de espectáculos públicos, grandes transportes, pasos de caravana y cualesquiera otras actividades que exijan la prestación de dichos servicios especiales.
+h) Otorgamiento de las licencias urbanísticas exigidas por la legislación del suelo y ordenación urbana o realización de las actividades administrativas de control en los supuestos en los que la exigencia de licencia fuera sustituida por la presentación de declaración responsable o comunicación previa.
+i) Otorgamiento de las licencias de apertura de establecimientos o realización de las actividades administrativas de control en los supuestos en los que la exigencia de licencia fuera sustituida por la presentación de declaración responsable o comunicación previa.
+j) Inspección de vehículos, calderas de vapor, motores, transformadores, ascensores, montacargas y otros aparatos e instalaciones análogas de establecimientos industriales y comerciales.
+k) Servicios de prevención y extinción de incendios, de prevención de ruinas, construcciones y derribos, salvamentos y, en general, de protección de personas y bienes, comprendiéndose también el mantenimiento del servicio y la cesión del uso de maquinaria y equipo adscritos a estos servicios, tales como escalas, cubas, motobombas, barcas, etcétera.
+l) Servicios de inspección sanitaria así como los de análisis químicos, bacteriológicos y cualesquiera otros de naturaleza análoga y, en general, servicios de laboratorios o de cualquier otro establecimiento de sanidad e higiene de las entidades locales.
+m) Servicios de sanidad preventiva, desinfectación, desinsectación, desratización y destrucción de cualquier clase de materias y productos contaminantes o propagadores de gérmenes nocivos para la salud pública prestados a domicilio o por encargo.
+n) Asistencias y estancias en hospitales, clínicas o sanatorios médico-quirúrgicos, psiquiátricos y especiales, dispensarios, centros de recuperación y rehabilitación, ambulancias sanitarias y otros servicios análogos, y demás establecimientos benéfico-asistenciales de las entidades locales, incluso cuando los gastos deban sufragarse por otras entidades de cualquier naturaleza.
+ñ) Asistencias y estancias en hogares y residencias de ancianos, guarderías infantiles, albergues y otros establecimientos de naturaleza análoga.
+o) Casas de baños, duchas, piscinas, instalaciones deportivas y otros servicios análogos.
+p) Cementerios locales, conducción de cadáveres y otros servicios fúnebres de carácter local.
+q) Colocación de tuberías, hilos conductores y cables en postes o en galerías de servicio de la titularidad de entidades locales.
+r) Servicios de alcantarillado, así como de tratamiento y depuración de aguas residuales, incluida la vigilancia especial de alcantarillas particulares.
+s) Recogida de residuos sólidos urbanos, tratamiento y eliminación de los mismos, monda de pozos negros y limpieza en calles particulares.
+t) Distribución de agua, gas, electricidad y otros abastecimientos públicos incluidos los derechos de enganche de líneas y colocación y utilización de contadores e instalaciones análogas, cuando tales servicios o suministros sean prestados por entidades locales.
+u) Servicio de matadero, lonjas y mercados, así como el acarreo de carnes si hubiera de utilizarse de un modo obligatorio; y servicios de inspección en materia de abastos, incluida la utilización de medios de pesar y medir.
+v) Enseñanzas especiales en establecimientos docentes de las entidades locales.
+w) Visitas a museos, exposiciones, bibliotecas, monumentos históricos o artísticos, parques zoológicos u otros centros o lugares análogos.
+x) Utilización de columnas, carteles y otras instalaciones locales análogas para la exhibición de anuncios.
+y) Enarenado de vías públicas a solicitud de los particulares.
+z) Realización de actividades singulares de regulación y control de tráfico urbano, tendentes a facilitar la circulación de vehículos y distintas a las habituales de señalización y ordenación del tráfico por la Policía Municipal.
+6. Los Ayuntamientos podrán establecer una tasa para la celebración de los matrimonios en forma civil.
+7. Las contraprestaciones económicas establecidas coactivamente que se perciban por la prestación de los servicios públicos a que se refiere el apartado 5 de este artículo, realizada de forma directa mediante personificación privada o mediante gestión indirecta, tendrán la condición de prestaciones patrimoniales de carácter público no tributario conforme a lo previsto en el artículo 31.3 de la Constitución.
+En concreto, tendrán tal consideración aquellas exigidas por la explotación de obras o la prestación de servicios, en régimen de concesión, sociedades de economía mixta, entidades públicas empresariales, sociedades de capital íntegramente público y demás fórmulas de Derecho privado.
+Sin perjuicio de lo establecido en el artículo 109 de la Ley Foral 2/2018, de 13 de abril, de Contratos Públicos, las contraprestaciones económicas a que se refiere este apartado se regularán mediante ordenanza. Durante el procedimiento de aprobación de dicha ordenanza las entidades locales solicitarán informe preceptivo de aquellas Administraciones Públicas a las que el ordenamiento jurídico les atribuyera alguna facultad de intervención sobre las mismas.
+Las deudas derivadas de las prestaciones patrimoniales de carácter público no tributario podrán exigirse por el procedimiento de apremio por los órganos de recaudación de la entidad local.
+Se añaden los apartados 6 y 7 por el art. único.1 y 2 de la Ley Foral 3/2019, de 24 de enero. Ref. BOE-A-2019-2641
+ Se modifican las letras h) e i) del apartado 5, con efectos a partir del 1 de enero de 2013, por el art. único.3 y 4 de la Ley Foral 10/2013, de 12 de marzo. Ref. BOE-A-2013-3674
+ Se modifica la letra i) del apartado 5, con efectos a partir del 1 de enero de 2012, por el art. 7.1 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Artículo 101
+
+Artículo 101.
+1. Las entidades locales no podrán exigir tasas por los servicios siguientes:
+a) Abastecimiento de aguas en fuentes públicas.
+b) Alumbrado de vías públicas.
+c) Vigilancia pública en general.
+d) Protección civil.
+e) Limpieza de la vía pública.
+f) Enseñanza en los niveles de educación obligatoria.
+2. Las Administraciones Públicas no estarán obligadas al pago de las tasas por utilización privativa o aprovechamiento especial del dominio público por los aprovechamientos inherentes a los servicios públicos de comunicaciones que exploten directamente y por todos los que inmediatamente interesen a la seguridad ciudadana o a la defensa nacional.
+Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Artículo 102
+
+Artículo 102.
+Las tasas por la prestación de servicios no excluyen la exacción de contribuciones especiales por el establecimiento o ampliación de los mismos.
+
+## Subsección 2
+
+Subsección 2.ª Exenciones
+
+### Artículo 103
+
+Artículo 103.
+No se reconocerán otras, exenciones en el pago de las tasas que las establecidas en las disposiciones adicionales quinta y sexta esta Ley Foral, en favor de la Administración de la Comunidad Foral, de las Mancomunidades y Agrupaciones y de las entidades jurídicas por ellas creadas, en los supuestos previstos en los citados preceptos.
+
+## Subsección 3
+
+Subsección 3.ª Sujetos pasivos
+
+### Artículo 104
+
+Artículo 104. Sujetos pasivos.
+1. Son sujetos pasivos de las tasas, en concepto de contribuyentes, las personas físicas y jurídicas y las entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado:
+a) Que disfruten, utilicen o aprovechen especialmente el dominio público local en beneficio particular, conforme a alguno de los supuestos previstos en el artículo 100.4 de esta Ley Foral.
+b) Que soliciten o resulten beneficiadas o afectadas por los servicios o actividades locales que presten o realicen las entidades locales, conforme a alguno de los supuestos previstos en el artículo 100.5 de esta Ley Foral.
+2. Tendrán la consideración de sustitutos del contribuyente:
+a) En las tasas establecidas por razón de servicios o actividades que beneficien o afecten a los ocupantes de viviendas o locales, los propietarios de dichos inmuebles, quienes podrán repercutir, en su caso, las cuotas sobre los respectivos beneficiarios.
+b) En las tasas establecidas por el otorgamiento de las licencias urbanísticas previstas en la normativa sobre suelo y ordenación urbana, los constructores y contratistas de obras.
+c) En las tasas establecidas por la prestación de servicios de prevención y extinción de incendios, de prevención de ruinas, construcciones y derribos, salvamentos y, en general, de protección de personas y bienes, comprendiéndose también el mantenimiento del servicio, las entidades o sociedades aseguradoras del riesgo.
+d) En las tasas establecidas por la utilización privativa o el aprovechamiento especial por entradas de vehículos o carruajes a través de las aceras y por su construcción, mantenimiento, modificación o supresión, los propietarios de las fincas y locales a que den acceso dichas entradas de vehículos, quienes podrán repercutir, en su caso, las cuotas sobre los respectivos beneficiarios.
+Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+## Subsección 4
+
+Subsección 4.ª Cuantía y devengo
+
+### Artículo 105
+
+Artículo 105. Cuantía y devengo.
+1. El importe de las tasas previstas por la utilización privativa o el aprovechamiento especial del dominio público local se fijará de acuerdo con las siguientes reglas:
+a) Con carácter general, tomando como referencia el valor que tendría en el mercado la utilidad derivada de dicha utilización o aprovechamiento, si los bienes afectados no fuesen de dominio público. A tal fin, las ordenanzas fiscales podrán señalar en cada caso, atendiendo a la naturaleza específica de la utilización privativa o del aprovechamiento especial de que se trate, los criterios y parámetros que permitan definir el valor de mercado de la utilidad derivada.
+b) Cuando se utilicen procedimientos de licitación pública, el importe de la tasa vendrá determinado por el valor económico de la proposición sobre la que recaiga la concesión, autorización o adjudicación.
+c) Cuando se trate de tasas por utilización privativa o aprovechamientos especiales constituidos en el suelo, subsuelo o vuelo de las vías públicas municipales, a favor de empresas explotadoras de servicios de suministros que resulten de interés general o afecten a la generalidad o a una parte importante del vecindario, el importe de aquellas consistirá, en todo caso y sin excepción alguna, en el 1,5 por ciento de los ingresos brutos procedentes de la facturación que obtengan anualmente en cada término municipal las referidas empresas.
+A estos efectos, se incluirán entre las empresas explotadoras de dichos servicios las empresas distribuidoras y comercializadoras de estos.
+No se incluirán en este régimen especial de cuantificación de la tasa los servicios de telefonía móvil.
+Este régimen especial de cuantificación se aplicará a las empresas a que se refiere esta letra c), tanto si son titulares de las correspondientes redes a través de las cuales se efectúan los suministros como si, no siendo titulares de dichas redes, lo son de derechos de uso, acceso o interconexión a estas.
+A efectos de lo dispuesto en esta letra, se entenderá por ingresos brutos procedentes de la facturación aquellos que, siendo imputables a cada entidad, hayan sido obtenidos por esta como contraprestación por los servicios prestados en cada término municipal.
+No se incluirán entre los ingresos brutos, a estos efectos, los impuestos indirectos que graven los servicios prestados ni las partidas o cantidades cobradas por cuenta de terceros que no constituyan un ingreso propio de la entidad a la que se aplique este régimen especial de cuantificación de la tasa. Asimismo, no se incluirán entre los ingresos brutos procedentes de la facturación las cantidades percibidas por aquellos servicios de suministro que vayan a ser utilizados en aquellas instalaciones que se hallen inscritas en la sección 1.ª o 2.ª del Registro administrativo de instalaciones de producción de energía eléctrica del Ministerio de Economía, como materia prima necesaria para la generación de energía susceptible de tributación por este régimen especial.
+Las empresas que empleen redes ajenas para efectuar los suministros deducirán de sus ingresos brutos de facturación las cantidades satisfechas a otras empresas en concepto de acceso o interconexión a sus redes. Las empresas titulares de tales redes deberán computar las cantidades percibidas por tal concepto entre sus ingresos brutos de facturación.
+El importe derivado de la aplicación de este régimen especial no podrá ser repercutido a los usuarios de los servicios de suministro a que se refiere esta letra c).
+Las tasas reguladas en esta letra c) son compatibles con otras tasas que puedan establecerse por la prestación de servicios o la realización de actividades de competencia local, de las que las empresas a que se refiere esta letra c) deban ser sujetos pasivos conforme a lo establecido en el artículo 104.1.b), quedando excluida, por el pago de esta tasa, la exacción de otras tasas derivadas de la utilización privativa o el aprovechamiento especial constituido en el suelo, subsuelo o vuelo de las vías públicas municipales.
+2. En general, y con arreglo a lo previsto en el párrafo siguiente, el importe de las tasas por la prestación de un servicio o por la realización de una actividad no podrá exceder, en su conjunto, del coste real o previsible del servicio o actividad de que se trate, o, en su defecto, del valor de la prestación recibida.
+Para la determinación de dicho importe se tomarán en consideración los costes directos e indirectos, inclusive los de carácter financiero, amortización del inmovilizado y, en su caso, los necesarios para garantizar el mantenimiento y un desarrollo razonable del servicio o actividad por cuya prestación o realización se exige la tasa, todo ello con independencia del presupuesto u organismo que lo satisfaga. El mantenimiento y desarrollo razonable del servicio o actividad de que se trate, se calculará con arreglo al presupuesto y proyecto aprobados por el órgano competente.
+3. La cuota tributaria consistirá, según disponga la correspondiente Ordenanza Fiscal, en:
+a) La cantidad resultante de aplicar la tarifa;
+b) Una cantidad fija señalada al efecto, o
+c) La cantidad resultante de la aplicación conjunta de ambos procedimientos.
+4. Para la determinación de la cuantía de las tasas podrán tenerse en cuenta criterios genéricos de capacidad económica de los sujetos obligados a satisfacerlas.
+5. Cuando la utilización privativa o el aprovechamiento especial lleve aparejada la destrucción o deterioro del dominio público local, el beneficiario, sin perjuicio del pago de la tasa a que hubiere lugar, estará obligado al reintegro del coste total de los respectivos gastos de reconstrucción o reparación y al depósito previo de su importe.
+Si los daños fueran irreparables, la entidad será indemnizada en cuantía igual al valor de los bienes destruidos o el importe del deterioro de los dañados.
+Las entidades locales no podrán condonar total ni parcialmente las indemnizaciones y reintegros a que se refiere este apartado.
+Se modifica el apartado 1 por el art. único.3 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Artículo 106
+
+Artículo 106.
+Los acuerdos de establecimiento de tasas por la utilización privativa o el aprovechamiento especial del dominio público, o para financiar total o parcialmente los nuevos servicios, deberán adoptarse a la vista de informes técnico-económicos en los que se ponga de manifiesto el valor de mercado o la previsible cobertura del coste de aquellos, respectivamente. Dicho informe se incorporará al expediente para la adopción del correspondiente acuerdo.
+No resultará preciso acompañar el informe técnico-económico a que se refiere el párrafo anterior cuando se trate de la adopción de acuerdos motivados por revalorizaciones o actualizaciones de carácter general ni en los supuestos de disminución del importe de las tasas, salvo en el caso de reducción sustancial del coste del servicio correspondiente.
+A efectos de lo dispuesto en el párrafo anterior, se considerará que la reducción es sustancial cuando se prevea que la disminución del coste del servicio vaya a ser superior al 15 por 100 del coste de servicio previsto en el estudio técnico-económico previo al acuerdo de establecimiento o de modificación sustancial inmediato anterior.
+Para justificar la falta de informe técnico-económico, el órgano gestor del gasto deberá dejar constancia en el expediente para la adopción del acuerdo de modificación de una declaración expresiva del carácter no sustancial de la reducción.
+Se modifica, con efectos a partir del 1 de enero de 2013, por el art. único.5 de la Ley Foral 10/2013, de 12 de marzo. Ref. BOE-A-2013-3674
+ Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Artículo 107
+
+Artículo 107.
+1. Las tasas podrán devengarse, según la naturaleza de su hecho imponible y conforme determine la respectiva ordenanza fiscal:
+a) Cuando se inicie el uso privativo o el aprovechamiento especial, o cuando se inicie la prestación del servicio o la realización de la actividad, aunque en ambos casos podrá exigirse el depósito previo de su importe total o parcial.
+b) Cuando se presente la solicitud que inicie la actuación o el expediente, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
+2. Cuando la naturaleza material de la tasa exija el devengo periódico de ésta, y así se determine en la correspondiente ordenanza fiscal, el mismo tendrá lugar el 1 de enero de cada año y el periodo impositivo comprenderá el año natural, salvo en los supuestos de inicio o cese en la utilización privativa, el aprovechamiento especial o el uso del servicio o actividad, en cuyo caso el periodo impositivo se ajustará a esa circunstancia con el consiguiente prorrateo de la cuota, en los términos que se establezcan en la correspondiente ordenanza fiscal.
+3. Cuando por causas no imputables al sujeto pasivo, el servicio público, la actividad administrativa o el derecho a la utilización o aprovechamiento del dominio público no se preste o desarrolle, procederá la devolución del importe correspondiente.
+Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Artículo 108
+
+Artículo 108.
+1. Las entidades locales podrán exigir las tasas en régimen de autoliquidación.
+2. Las entidades locales podrán establecer convenios de colaboración con entidades, instituciones y organizaciones representativas de los sujetos pasivos de las tasas, con el fin de simplificar el cumplimiento de las obligaciones formales y materiales derivadas de aquéllas, o los procedimientos de liquidación y recaudación.
+Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+## Sección 8
+
+Sección 8.ª Contribuciones especiales
+
+## Subsección 1
+
+Subsección 1.ª Hecho imponible
+
+### Artículo 109
+
+Artículo 109.
+Constituye el hecho imponible de las contribuciones especiales la obtención por el sujeto pasivo de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos, de carácter local, por las entidades locales respectivas.
+
+### Artículo 110
+
+Artículo 110.
+1. Tendrán la consideración de obras y servicios locales:
+a) Los que realicen las entidades locales dentro del ámbito de sus competencias para cumplir los fines que les estén atribuidos, excepción hecha de los que aquéllas ejecuten a título de dueños de sus bienes patrimoniales.
+b) Los que realicen dichas entidades por haberles sido atribuidos o delegados por otras entidades públicas y aquéllos cuya titularidad hayan asumido de acuerdo con la Ley.
+c) Los que realicen otras entidades públicas, o los concesionarios de las mismas, con aportaciones económicas de la entidad local.
+2. No perderán la consideración de obras o servicios locales los comprendidos en la letra a) del número anterior, aunque sean realizados por organismos autónomos o sociedades mercantiles cuyo capital social pertenezca íntegramente a una entidad local, por concesionarios con aportaciones de dicha entidad o por asociaciones de contribuyentes.
+3. Los derechos liquidados por contribuciones especiales sólo podrán destinarse a sufragar los gastos de la obra o del servicio por cuya razón se hubiesen exigido.
+
+## Subsección 2
+
+Subsección 2.ª Sujeto pasivo
+
+### Artículo 111
+
+Artículo 111.
+1. Son sujetos pasivos de las contribuciones especiales las personas físicas y jurídicas y las entidades carentes de personalidad jurídica que constituyan una unidad económica o un patrimonio separado, especialmente beneficiadas por la realización de las obras o por el establecimiento o ampliación de los servicios locales que originen la obligación de contribuir.
+2. Se considerarán personas especialmente beneficiadas:
+a) En las contribuciones especiales por realización de obras o establecimiento o ampliación de servicios que afecten a bienes inmuebles, los propietarios de los mismos.
+b) En las contribuciones especiales por realización de obras o establecimiento o ampliación de servicios a consecuencia de explotaciones empresariales, las personas o entidades titulares de éstas.
+c) En las contribuciones especiales por el establecimiento o ampliación de los servicios de extinción de incendios, además de los propietarios de los bienes afectados, las compañías de seguros que desarrollen su actividad en el ramo, en el término municipal correspondiente.
+d) En las contribuciones especiales por construcción de galerías subterráneas, las empresas suministradoras que deban utilizarlas.
+
+## Subsección 3
+
+Subsección 3.ª Base imponible
+
+### Artículo 112
+
+Artículo 112.
+1. La base imponible de las contribuciones especiales estará constituida, como máximo, por el 90 por 100 del coste que la entidad local soporte por la realización de las obras o por el establecimiento o ampliación de los servicios.
+2. El referido coste estará integrado por los siguientes conceptos:
+a) El coste real de los trabajos periciales, de redacción de proyectos y dirección de obras, planes y programas técnicos.
+b) El importe de las obras a realizar o de los trabajos de establecimiento o ampliación de los servicios.
+c) El valor de los terrenos que hubieren de ocupar permanentemente las obras o servicios salvo que se trate de bienes de uso público, de terrenos cedidos gratuita y obligatoriamente a la entidad local, o el de inmuebles cedidos por el Estado o la Comunidad Foral de Navarra a la entidad local respectiva.
+d) Las indemnizaciones procedentes por el derribo de construcciones, destrucción de plantaciones, obras o instalaciones, así como las que procedan en favor de los arrendatarios de los bienes que hayan de ser derruidos u ocupados.
+e) El interés del capital invertido en las obras o servicios cuando las entidades locales hubieren de apelar al crédito para financiar la porción no cubierta por contribuciones especiales o la cubierta por éstas en caso de fraccionamiento general de las mismas.
+3. El coste total presupuestado de las obras o servicios tendrá carácter de mera previsión. Si el coste real fuese mayor o menor que el previsto, se tomará aquél a efectos del cálculo de las cuotas correspondientes.
+4. Cuando se trate de obras o servicios, a que se refiere el artículo 110.1 c) de esta Ley, o de las realizadas por concesionarios con aportaciones de la entidad local a que se refiere el número 2 del mismo artículo, la base imponible de las contribuciones especiales se determinará en función del importe de estas aportaciones, sin perjuicio de las que puedan imponer otras Administraciones Públicas por razón de la misma obra o servicio. En todo caso, se respetará el límite del 90 por 100 a que se refiere el número primero de este artículo.
+5. A los efectos de determinar la base imponible, se entenderá por coste soportado por la entidad la cuantía resultante de restar a la cifra del coste total el importe de las subvenciones o auxilios que la entidad local obtenga de cualquier persona o entidad pública o privada.
+6. Si la subvención o el auxilio citados se otorgasen por un sujeto pasivo de la contribución especial, su importe se destinará primeramente a compensar la cuota de la respectiva persona o entidad. Si el valor de la subvención o auxilio excediera de dicha cuota, el exceso reducirá, a prorrata, las cuotas de los demás sujetos pasivos.
+
+## Subsección 4
+
+Subsección 4.ª Cuota y devengo
+
+### Artículo 113
+
+Artículo 113.
+La cuota de las contribuciones especiales es la magnitud resultante de la imputación a cada sujeto pasivo de una porción de la base imponible, atendiendo a los criterios de distribución recogidos en el artículo siguiente.
+
+### Artículo 114
+
+Artículo 114.
+1. La base imponible de las contribuciones especiales se repartirá entre los sujetos pasivos, teniendo en cuenta la clase y naturaleza de las obras y servicios, con sujeción a las siguientes reglas:
+a) Con carácter general se aplicarán conjunta o separadamente, como módulos de reparto, los metros lineales de fachada de los inmuebles, su superficie, el volumen edificable de los mismos y el valor catastral a efectos de la Contribución Territorial.
+b) Si se trata del establecimiento o ampliación del servicio de extinción de incendios y concurren, junto a los propietarios, entidades aseguradoras que cubran el riesgo por bienes sitos en el municipio de la imposición, en calidad todos ellos de sujetos pasivos, la parte de la cuota correspondiente a dichas entidades podrá ser distribuida entre las mismas proporcionalmente al importe de las primas recaudadas en el año inmediatamente anterior. Si la cuota exigible a cada sujeto pasivo fuera superior al 5 por 100 del importe de las primas recaudadas por el mismo, el exceso se trasladará a los ejercicios sucesivos hasta su total amortización.
+c) En el caso de las obras a que se refiere el número 2.d) del artículo 111 de esta Ley Foral, el importe total de la contribución especial será distribuido entre las compañías o empresas que hayan de utilizarlas en razón al espacio reservado a cada una o en proporción a la total sección de las mismas, aun cuando no las usen inmediatamente.
+2. En el supuesto de que las Leyes o Tratados Internacionales concedan beneficios fiscales, las cuotas que puedan corresponder a los beneficiarios no serán distribuidas entre los demás contribuyentes.
+
+### Artículo 115
+
+Artículo 115.
+Una vez determinada la cuota a satisfacer, el órgano de gobierno competente de la entidad podrá conceder, a solicitud del sujeto pasivo, el fraccionamiento o aplazamiento de aquélla por un plazo máximo de cinco años.
+
+### Artículo 116
+
+Artículo 116.
+1. Las contribuciones especiales se devengan en el momento en que las obras se hayan ejecutado o el servicio haya comenzado a prestarse. Si las obras fueran fraccionables, el devengo se producirá para cada uno de los sujetos pasivos desde que se hayan ejecutado las correspondientes a cada tramo o fracción.
+2. Sin perjuicio de lo dispuesto en el número anterior, una vez adoptado el acuerdo concreto de imposición y ordenación, la entidad local podrá exigir por anticipado el pago de las contribuciones especiales en función del importe del coste previsto para el año siguiente. No podrá exigirse el anticipo de una nueva anualidad sin que hayan sido ejecutadas las obras para las cuales se exigió el correspondiente anticipo.
+Estos anticipos podrán ser exigidos en vía de apremio.
+3. El momento del devengo de las contribuciones especiales se tendrá en cuenta a los efectos de determinar la persona obligada al pago de conformidad con lo dispuesto en el artículo 111, aun cuando en el acuerdo concreto de ordenación figure como sujeto pasivo quien lo sea con referencia a la fecha de su aprobación y de que el mismo hubiere anticipado el pago de cuotas, de conformidad con lo dispuesto en el número 2 de este artículo. Cuando la persona que figure como sujeto pasivo en el acuerdo concreto de ordenación, y haya sido notificada de ello, transmita los derechos sobre los bienes o explotaciones que motivan la imposición en el periodo comprendido entre la aprobación de dicho acuerdo y el del nacimiento del devengo estará obligada a dar cuenta a la entidad local de la transmisión efectuada dentro del plazo de un mes desde la fecha de ésta y, si no lo hiciera, dicha entidad podrá dirigir la acción para el cobro contra quien figuraba como sujeto pasivo en dicho expediente.
+4. Una vez finalizada la realización total o parcial de las obras, o iniciada la prestación del servicio, se procederá a señalar los sujetos pasivos, la base y las cuotas individualizadas definitivas, girando las liquidaciones que procedan y compensando como entrega a cuenta los pagos anticipados que se hubieran efectuado. Tal señalamiento definitivo se realizará por los órganos competentes de la entidad impositora ajustándose a las normas del acuerdo concreto de ordenación del tributo para la obra o servicio de que se trate.
+5. Si los pagos anticipados hubieran sido efectuados por personas que no tienen la condición de sujetos pasivos en la fecha del devengo del tributo o bien excedieran de la cuota individual definitiva que les corresponda, la entidad local practicará de oficio la pertinente devolución.
+
+## Subsección 5
+
+Subsección 5.ª Imposición y ordenación
+
+### Artículo 117
+
+Artículo 117.
+1. La exacción de las contribuciones especiales precisará la previa adopción del acuerdo de imposición en cada caso concreto.
+2. El acuerdo relativo a la realización de una obra o al establecimiento o ampliación de un servicio que deba costearse mediante contribuciones especiales no podrá ejecutarse hasta que se haya aprobado la ordenación concreta de éstas.
+3. El acuerdo de ordenación será de inexcusable adopción y deberá fijar la determinación del coste previsto de las obras y servicios, la cantidad a repartir entre los beneficiarios y los criterios de reparto. En su caso, el acuerdo de ordenación concreto podrá remitirse a la Ordenanza General de Contribuciones Especiales, si la hubiere.
+4. Una vez adoptado el acuerdo concreto de ordenación de contribuciones especiales, y determinadas las cuotas a satisfacer, éstas serán notificadas individualmente a cada sujeto pasivo si éste o su domicilio fuesen conocidos, y, en su defecto, por edictos. Los interesados podrán formular recurso en la forma prevista en el capítulo II del título noveno de la Ley Foral 6/1990, de 2 de julio, de la Administración Local Navarra.
+
+### Artículo 118
+
+Artículo 118.
+1. Cuando las obras y servicios de la competencia local sean realizadas o prestados por una entidad local con la colaboración económica de otra, y siempre que se impongan contribuciones especiales con arreglo a lo dispuesto en la Ley, la gestión y recaudación de las mismas se hará por la entidad que tome a su cargo la realización de las obras o el establecimiento o ampliación de los servicios, sin perjuicio de que cada entidad conserve su competencia respectiva en orden a los acuerdos de imposición y de ordenación.
+2. En el supuesto de que el acuerdo concreto de ordenación no fuera aprobado por una de dichas entidades, quedará sin efecto la unidad de actuación, adoptando separadamente cada una de ellas las decisiones que procedan.
+
+## Subsección 6
+
+Subsección 6.ª Colaboración ciudadana
+
+### Artículo 119
+
+Artículo 119.
+1. Los propietarios o titulares afectados por las obras podrán constituirse en Asociación Administrativa de Contribuyentes y promover la realización de obras o el establecimiento o ampliación de servicios por la entidad local, comprometiéndose a sufragar la parte que corresponda aportar a ésta cuando su situación financiera no lo permitiera, además de la que les corresponda según la naturaleza de la obra o servicio.
+2. Asimismo, los propietarios o titulares afectados por la realización de las obras o el establecimiento o ampliación de servicios promovidos por la entidad local podrán constituirse en Asociaciones Administrativas de Contribuyentes en el periodo de exposición al público del acuerdo de ordenación de las contribuciones especiales para participar, prestando su colaboración, en la obra o servicio cuya realización haya sido previamente acordada por la entidad local.
+3. El funcionamiento y competencias de las Asociaciones de Contribuyentes se acomodará a lo que dispongan sus propios estatutos, que deberán ser aprobados por la Corporación competente. En todo caso, los acuerdos que adopte la Asociación de Contribuyentes por mayoría absoluta de éstos y que representen los dos tercios de la propiedad afectada, obligarán a los demás. Si dicha Asociación, con el indicado quórum, designara dentro de ella una Comisión o Junta directiva, los acuerdos adoptados por ésta tendrán fuerza para obligar a todos los interesados.
+
+### Artículo 120
+
+Artículo 120.
+Para la constitución de las Asociaciones Administrativas de Contribuyentes a que se refiere el artículo anterior, el acuerdo deberá ser tomado por la mayoría absoluta de los afectados, siempre que representen, al menos, dos tercios de las cuotas que deban satisfacerse o, en el supuesto de que dichas cuotas no estén determinadas, las dos terceras partes de la propiedad afectada.
+
+## Sección 9
+
+Sección 9.ª Impuestos
+
+### Artículo 121
+
+Artículo 121.
+La exacción de los impuestos se ajustará a las disposiciones contenidas en el título segundo de esta Ley Foral.
+
+## CAPÍTULO V
+
+Participación en tributos, subvenciones y operaciones de crédito
+Se modifica por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 122
+
+Artículo 122.
+Las entidades locales de Navarra participarán en los ingresos tributarios del Estado, en la parte correspondiente a aquellos tributos cuya exacción no corresponda a la Comunidad Foral, según las normas y en los términos del Convenio económico entre Navarra y el Estado.
+
+### Artículo 123
+
+Artículo 123.
+1. Las entidades locales de Navarra participarán en los ingresos tributarios de la Hacienda pública de la Comunidad Foral mediante la dotación del Fondo de Participación de las entidades locales en los tributos de Navarra.
+2. La dotación anual del Fondo de Participación de las entidades locales en los tributos de Navarra se estructurará a través de un Fondo de Transferencias Corrientes y de un Fondo de Transferencias de Capital y se complementará con una aportación anual en concepto de compensación por la pérdida de recaudación derivada de la reforma del impuesto sobre actividades económicas (IAE).
+3. La cuantía de la dotación del Fondo de Transferencias Corrientes será de 257.859.026 euros para el ejercicio 2022.
+Para los ejercicios sucesivos, la cuantía será la consignada como Fondo de Transferencias Corrientes en el presupuesto del ejercicio precedente, incrementada en el índice de precios al consumo (IPC) interanual de la Comunidad Foral de Navarra del mes de junio anterior, más dos puntos porcentuales.
+4. La distribución del importe del Fondo de Transferencias Corrientes se efectuará en la forma en que se determine en la correspondiente ley foral reguladora, en función de los principios de justicia, proporcionalidad, cohesión social y territorial y suficiencia financiera.
+Dicha norma contemplará aportaciones económicas a las asociaciones o federaciones representativas de las entidades locales navarras, en proporción a su implantación en la Comunidad Foral.
+5. La cuantía de la dotación del Fondo de Transferencias de capital será de 30.000.000 euros para el ejercicio 2022.
+Para los ejercicios sucesivos, la cuantía será la consignada como Fondo de Transferencias de Capital en el presupuesto del ejercicio precedente, incrementada en el índice de precios al consumo (IPC) interanual de la Comunidad Foral de Navarra del mes de junio anterior.
+6. La distribución del importe previsto para transferencias de capital se efectuará en la forma en que se determine en las correspondientes leyes forales reguladoras de los planes de inversiones locales, que tendrán como finalidad principal garantizar la cobertura en todo el ámbito de la Comunidad Foral de los servicios municipales obligatorios.
+7. La dotación del Fondo de Participación de las entidades locales en los tributos de Navarra se complementará con una aportación anual en concepto de compensación por la pérdida de recaudación derivada de la reforma del Impuesto sobre Actividades Económicas (IAE) efectuada por la Ley Foral 22/2020, de 29 de diciembre, de modificación de la Ley Foral de Haciendas Locales de Navarra.
+La fijación del importe, distribución y evolución de dicha aportación se realizará de conformidad con lo que al efecto se establezca en la ley foral reguladora del Fondo de Transferencias Corrientes a que se refiere el apartado 4 del presente artículo.
+8. En la ley foral de presupuestos generales de Navarra de cada ejercicio figurará la cuantía de la dotación del Fondo de Participación de las entidades locales en los tributos de Navarra, diferenciándose la parte de transferencias corrientes, transferencias de capital y aportación anual en concepto de compensación por pérdida de recaudación por IAE.
+Dicha cuantía se establecerá en los créditos del presupuesto de gastos, a los que se cargarán las obligaciones de pago que se reconozcan a favor de las entidades locales que corresponda, con arreglo a los procedimientos ordinarios de ejecución presupuestaria.
+9. Las dotaciones del Fondo de Transferencias Corrientes y del Fondo de Transferencias de Capital establecidas para cada ejercicio económico que al último día del ejercicio no hayan sido objeto de reconocimiento de obligación tendrán la condición de remanente afecto.
+Este remanente afecto podrá ampliar la dotación de los créditos de los ejercicios siguientes con los que deban atenderse obligaciones presupuestarias imputables a dicho fondo.
+Los créditos presupuestarios en los que se materialicen las dotaciones del Fondo de Participación de las entidades locales en los tributos de Navarra podrán ser incrementados financiándose con cargo al remanente afecto definido en el párrafo anterior, con cargo a ingresos provenientes de reintegros solicitados a las entidades locales, así como con otros créditos de la misma naturaleza.
+10. La participación en los tributos de Navarra regulada en este artículo se entiende sin perjuicio de otras aportaciones que pudieran realizarse al fondo o de la financiación adicional que las entidades locales de Navarra pudieran percibir de la Administración de la Comunidad Foral o de otras administraciones públicas.
+Las aportaciones adicionales al fondo no computarán para el cálculo de los incrementos de las cuantías del Fondo de Transferencias Corrientes y del Fondo de Transferencias de Capital de los ejercicios sucesivos, reguladas respectivamente en los apartados 3 y 5 del presente artículo.
+11. Dada su naturaleza jurídica de recurso participativo y no subvencional, las cantidades percibidas por las entidades locales en concepto de Fondo de Participación de las entidades locales en los tributos de Navarra cuyo reintegro se solicite no generarán intereses de demora desde su abono, sino desde que, en su caso, se produzca el vencimiento del plazo establecido para su reintegro.
+Las cantidades provenientes de los reintegros solicitados tendrán la consideración de Fondo de Participación de las entidades locales en los tributos de Navarra.
+Se modifica por el art. 1 de la Ley Foral 6/2022, de 22 de marzo de 2022. Ref. BOE-A-2022-6404
+ Se modifica por el art. 2.3 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifican los apartado 3, 4 y 5 y se añade el apartado 6 por los arts. 16 y 17 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+ Se modifica el apartado 5 por el art. único de la Ley Foral 20/2001, de 21 de septiembre. Ref. BOE-A-2002-2934
+
+### Artículo 124
+
+Artículo 124. Subvenciones.
+Las subvenciones de toda índole que obtengan las entidades locales con destino a la financiación de sus obras y servicios no podrán aplicarse a atenciones distintas para las que fueron otorgadas, salvo, en su caso, los sobrantes no reintegrables cuya utilización no estuviese prevista en la concesión.
+
+### Artículo 125
+
+Artículo 125.
+1. En los términos previstos en esta ley foral, las entidades locales y sus entes dependientes podrán concertar operaciones de crédito en todas sus modalidades, tanto a corto como a largo plazo, así como operaciones financieras de cobertura y gestión del riesgo del tipo de interés y del tipo de cambio.
+2. Todas las operaciones de crédito que suscriban las entidades locales, así como la concesión de avales u otra clase de garantías públicas están sujetas al principio de prudencia financiera. Se entiende por prudencia financiera el conjunto de condiciones que deben cumplir las operaciones financieras para minimizar su riesgo y coste.
+3. Las condiciones que deben cumplir las operaciones se establecerán mediante resolución del órgano competente en materia de tutela financiera.
+Se modifica por el art. único.4 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Se modifica por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 126
+
+Artículo 126.
+1. Las entidades incluidas a que se refiere el artículo anterior podrán, para la financiación de sus inversiones, así como para la sustitución total o parcial de operaciones preexistentes, acudir al crédito público o privado, a largo plazo, en cualquiera de sus formas.
+2. El crédito podrá instrumentarse mediante las siguientes formas:
+a) Emisión de Deuda Pública.
+b) Contratación de préstamos o créditos con toda clase de entidades financieras.
+c) Cualquier otra apelación al crédito público o privado.
+d) Conversión y sustitución total o parcial de operaciones preexistentes.
+3. El pago de las obligaciones derivadas de las operaciones de crédito podrá ser garantizado con la afectación de ingresos específicos, con la constitución de garantía real sobre bienes patrimoniales determinados o mediante la prestación de avales.
+4. La Deuda Pública de las entidades locales y los títulos-valores de carácter equivalente emitidos por estas gozarán de los mismos beneficios y condiciones que la Deuda Pública emitida por el Gobierno de Navarra.
+5. La concertación de cualquiera de las modalidades de crédito a largo plazo previstas en esta ley foral requerirá su inclusión en el presupuesto definitivo en vigor o, en su caso, en la prórroga presupuestaria.
+Se modifica por el art. único.5 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Se modifican los apartados 1 y 2 y se añade el apartado 4 por los arts. 16 y 17 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 127
+
+Artículo 127.
+1. Las entidades locales podrán, cuando lo estimen conveniente a sus intereses y a los efectos de facilitar la realización de obras y prestación de servicios de su competencia, conceder su aval a las operaciones de crédito, cualquiera que sea su naturaleza y siempre de forma individualizada para cada operación, que concierten personas o entidades con las que aquéllas contraten obras o servicios, o que exploten concesiones que hayan de revertir a la entidad local respectiva.
+2. Las entidades locales podrán prestar su aval a cualquier operación de préstamo que concierten sus entes dependientes. El aval no podrá garantizar un porcentaje del crédito superior al de su participación en el ente dependiente.
+3. Las operaciones a que se refieren los dos apartados anteriores estarán sometidas a fiscalización previa y el importe del préstamo garantizado no podrá ser superior al que hubiere supuesto la financiación directa mediante crédito de la obra o del servicio por la propia entidad.
+Se modifica por el art. único.6 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Se modifican los apartados 1 y 2 y se añade un apartado 3 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 128
+
+Artículo 128.
+Las entidades locales podrán concertar operaciones de tesorería, por plazo no superior a un año, con cualesquiera entidades financieras, para atender sus necesidades transitorias de tesorería, siempre que en su conjunto no superen el 35 por ciento de sus ingresos reconocidos por operaciones corrientes en el ejercicio anterior, salvo que la operación haya de realizarse con anterioridad a que se haya producido la liquidación del presupuesto de tal ejercicio, en cuyo caso se tomará en consideración la liquidación del ejercicio anterior a este último.
+Se modifica por el art. único.7 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Se modifica por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 129
+
+Artículo 129.
+1. La concertación o modificación de toda clase de operaciones de crédito deberá acordarse previo informe de la Intervención, en el que se analizará, especialmente, la capacidad de la entidad local para hacer frente en el tiempo a las obligaciones que de aquellas se deriven para la misma y su incidencia en la estabilidad presupuestaria y sostenibilidad financiera.
+2. Los Presidentes de las entidades locales podrán concertar las operaciones de crédito a largo plazo previstas en el Presupuesto, cuyo importe acumulado, dentro de cada ejercicio económico, no supere el 10 por ciento de los ingresos reconocidos por operaciones corrientes en el ejercicio anterior, salvo que la operación haya de realizarse con anterioridad a que se haya producido la liquidación del presupuesto de tal ejercicio, en cuyo caso se tomará en consideración la liquidación del ejercicio anterior a este último.
+La concertación de las operaciones de crédito a corto plazo le corresponderán cuando el importe acumulado de las operaciones vivas de esta naturaleza, incluida la nueva operación, no supere el 15 por ciento de los ingresos reconocidos por operaciones corrientes en el ejercicio anterior, salvo que la operación haya de realizarse con anterioridad a que se haya producido la liquidación del presupuesto de tal ejercicio, en cuyo caso se tomará en consideración la liquidación del ejercicio anterior a este último.
+El Presidente dará cuenta al Pleno u órgano equivalente de la entidad local en la primera sesión que se celebre de las operaciones que concierte.
+En los casos en que se vayan a superar estos límites, la aprobación corresponderá al Pleno de la corporación u órgano equivalente.
+Se modifica por el art. único.8 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Se modifica por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 130
+
+Artículo 130.
+1. Las entidades locales y sus entidades dependientes clasificadas en el sector Administraciones Públicas, de acuerdo con la definición y delimitación del Sistema Europeo de Cuentas, que liquiden el ejercicio inmediato anterior con ahorro neto positivo, podrán concertar nuevas operaciones de crédito a largo plazo, cuando el volumen total del capital vivo no exceda del 75 por ciento de los ingresos corrientes liquidados o devengados según las cifras deducidas de los estados contables consolidados.
+Las entidades locales que tengan un volumen de endeudamiento que, excediendo al citado en el párrafo anterior, no supere el 110 por ciento de los ingresos corrientes liquidados podrán concertar operaciones de endeudamiento previa autorización del órgano de tutela financiera.
+Las entidades que presenten ahorro neto negativo o un volumen de endeudamiento vivo superior al recogido en el párrafo anterior no podrán concertar operaciones de crédito a largo plazo.
+A estos efectos, se entenderá por ahorro neto de las entidades locales y sus organismos autónomos la diferencia entre los derechos liquidados por ingresos corrientes y de las obligaciones reconocidas por los capítulos uno, dos y cuatro del estado de gastos, minorada en el importe de una anualidad teórica de amortización de la operación proyectada y de cada uno de los préstamos y empréstitos propios y avalados a terceros pendientes de reembolso.
+El importe de la anualidad teórica de amortización de cada uno de los préstamos a largo plazo concertados y de los avalados por la corporación pendientes de reembolso, así como la de la operación proyectada, se determinará en todo caso, en términos constantes, incluyendo los intereses y la cuota anual de amortización, cualquiera que sea la modalidad y condiciones de cada operación.
+Se consideran ahorro neto en las entidades públicas empresariales y en las fundaciones y sociedades mercantiles locales los resultados de la actividad ordinaria, excluidos los intereses de préstamos o empréstitos y minorados en una anualidad teórica de amortización, tal y como se define en el párrafo anterior.
+En el ahorro neto no se incluirán las obligaciones reconocidas, derivadas de modificaciones de créditos, que hayan sido financiadas con remanente líquido de tesorería.
+No se incluirán en el cálculo de las anualidades teóricas las operaciones de crédito garantizadas con hipotecas sobre bienes inmuebles, en proporción a la parte del préstamo afectado por dicha garantía.
+Si el objeto de la actividad del organismo autónomo, entidad pública empresarial o sociedad mercantil local es la construcción de viviendas, el cálculo del ahorro neto se obtendrá tomando la media de los dos últimos ejercicios.
+Para la determinación de los ingresos corrientes a computar en el cálculo del ahorro neto y del nivel de endeudamiento, se deducirá el importe de los ingresos afectados a operaciones de capital y cualesquiera otros ingresos extraordinarios aplicados a los capítulos 1 a 5 que, por su afectación legal y/o carácter no recurrente, no tienen la consideración de ingresos ordinarios.
+A efectos del cálculo del capital vivo, se considerarán todas las operaciones vigentes a 31 de diciembre del año anterior, incluido el riesgo deducido de avales, incrementado, en su caso, en los saldos de operaciones formalizadas no dispuestos y en el importe de la operación proyectada.
+2. En todo caso precisarán de la autorización del órgano de tutela financiera las operaciones de crédito a corto y largo plazo, la concesión de avales y las demás operaciones que modifiquen las condiciones contractuales o añadan garantías adicionales, con o sin intermediación de terceros, en los siguientes supuestos:
+a) Las que se formalicen en el exterior o con entidades financieras no residentes en España, cualquiera que sea la divisa que sirva de determinación del capital de la operación proyectada, incluidas las cesiones a entidades financieras no residentes de las participaciones, que ostenten entidades residentes, en créditos otorgados a las entidades locales, sus organismos autónomos y los entes, fundaciones y sociedades mercantiles dependientes, que presten servicios o produzcan bienes que no se financien mayoritariamente con ingresos de mercado.
+b) Las que se instrumenten mediante emisiones de deuda o cualquier otra forma de apelación al crédito público.
+En relación con lo que se prevé en la letra a), no se considerarán financiación exterior las operaciones denominadas en euros que se realicen dentro del espacio territorial de los países pertenecientes a la Unión Europea y con entidades financieras residentes en alguno de dichos países. Estas operaciones habrán de ser, en todo caso, comunicadas previamente al órgano de tutela financiera.
+3. Aquellas operaciones a corto plazo que financien temporalmente inversiones y que superen las limitaciones reguladas en el artículo 128 de esta ley foral, precisarán de autorización, que solo será concedida cuando la entidad local justifique la disponibilidad de fondos para su cancelación a la fecha de vencimiento.
+4. En los casos en que, de acuerdo con las reglas establecidas en este artículo, se precise de autorización del órgano de tutela financiera para concertar la operación de crédito, no podrán adquirir firmeza los compromisos de gasto vinculados a tal operación, hasta tanto no se disponga de la correspondiente autorización. En este sentido, la comunicación del órgano de tutela financiera relativa a la autorización será remitida a la entidad local antes de dos meses desde la solicitud de la concertación de la operación de crédito.
+5. Las Leyes Forales de Presupuestos Generales de Navarra podrán, anualmente, fijar otras condiciones de acceso al crédito de las entidades locales cuando se den circunstancias que coyunturalmente puedan aconsejar tal medida por razones de política económica general. En la situación de prórroga presupuestaria, se podrán fijar límites a través de ley foral aprobada al efecto.
+6. En el plazo máximo de un mes desde que se suscriba, cancele o modifique una operación de préstamo, crédito o emisiones de deuda, en todas sus modalidades, los avales y garantías prestados en cualquier clase de crédito, las operaciones de arrendamiento financiero, así como cualesquiera otras que afecten a la posición financiera futura, concertadas por las entidades locales o sus entidades dependientes clasificadas en el sector Administraciones públicas, se comunicará al órgano de tutela financiera las condiciones de la operación y su cuadro de amortización.
+Se modifica por el art. único.9 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Se modifica por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 131
+
+Artículo 131.
+Los entes dependientes de las entidades locales podrán concertar operaciones de crédito en las condiciones establecidas en los artículos precedentes, previa autorización del Pleno de la corporación respectiva e informe de la Intervención.
+Se modifica por el art. único.10 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Se modifica por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## TÍTULO II
+
+Impuestos municipales
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 132
+
+Artículo 132.
+1. Todos los Ayuntamientos exigirán, de acuerdo con esta Ley Foral y sus disposiciones de desarrollo, los siguientes impuestos:
+a) Contribución Territorial.
+b) Impuesto sobre Actividades Económicas o Licencia Fiscal.
+c) Impuesto sobre Vehículos de Tracción Mecánica o de circulación.
+d) Impuesto sobre Construcciones, Instalaciones y Obras.
+e) Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana o de Plusvalía.
+f) Impuesto sobre Viviendas Deshabitadas.
+2. Asimismo, los Ayuntamientos podrán establecer y exigir, de acuerdo con esta Ley Foral, sus disposiciones de desarrollo y las correspondientes ordenanzas fiscales, el Impuesto sobre Gastos Suntuarios.
+Se modifica por el art. 1 de la Ley Foral 31/2013, de 31 de octubre. Ref. BOE-A-2013-12425
+
+## CAPÍTULO II
+
+Contribución territorial
+
+### Artículo 133
+
+Artículo 133. Naturaleza.
+La contribución territorial es un tributo directo de carácter real que grava el valor de los bienes inmuebles.
+
+### Artículo 134
+
+Artículo 134.
+1. Constituye el hecho imponible del Impuesto la titularidad de los siguientes derechos sobre los bienes inmuebles:
+a) De una concesión administrativa sobre los propios bienes inmuebles o sobre los servicios públicos a que se hallen afectos.
+b) De un derecho real de superficie.
+c) De un derecho real de usufructo.
+d) Del derecho de aprovechamiento y disfrute mediante contraprestación de los bienes comunales.
+e) Del derecho de propiedad.
+2. La realización del hecho imponible que corresponda de entre los definidos en el apartado anterior por el orden en él establecido determinará la no sujeción del bien inmueble a las restantes modalidades en él previstas.
+3. No estarán sujetos a este Impuesto:
+a) Las carreteras, los caminos, las demás vías terrestres y los bienes del dominio público hidráulico, siempre que sean de uso o aprovechamiento público y gratuito. Estarán sujetas las autovías y otras infraestructuras afectadas por el denominado peaje en la sombra.
+b) Los siguientes bienes inmuebles propiedad de las entidades locales en que estén enclavados:
+a´) Los de dominio público afectos a uso público.
+b´) Los de dominio público afectos a un servicio público gestionado directamente por el ayuntamiento, excepto cuando se trate de bienes inmuebles cedidos a terceros mediante contraprestación.
+c´) Los bienes patrimoniales y los comunales, exceptuados los cedidos a terceros mediante contraprestación.
+4. De acuerdo con el artículo 34 de la Ley Foral 12/2006, de 21 de noviembre, del Registro de la Riqueza Territorial y de los Catastros de Navarra, el Gobierno de Navarra podrá aprobar una Ponencia de Valoración Supramunicipal Parcial para establecer los métodos y parámetros que permitan asignar un valor a aquellas infraestructuras que afecten a dos o más términos municipales.
+Se modifican los apartados 3.a) y 4 por el art. único.1 y 2 de la Ley Foral 29/2016, de 28 de diciembre. Ref. BOE-A-2017-2359
+ Se añade el apartado 4, con efectos a partir del 1 de enero de 2013, por el art. único.6 de la Ley Foral 10/2013, de 12 de marzo. Ref. BOE-A-2013-3674
+ Se modifica, con efectos a partir del 1 de enero de 2006, por el art. 1.1 de la Ley Foral 20/2005, de 29 de diciembre. Ref. BOE-A-2006-847
+
+### Artículo 135
+
+Artículo 135. Bienes inmuebles.
+1. A los efectos de este Impuesto tendrán la consideración de bienes inmuebles los definidos como tales en la Ley Foral del Registro de la Riqueza Territorial de Navarra y de los Catastros.
+2. En caso de que un mismo inmueble se encuentre localizado en distintos términos municipales se entenderá, a efectos de este Impuesto, que corresponde a cada uno de ellos su exacción por el valor que resulte de la aplicación de la Ponencia Supramunicipal o de las Ponencias Municipales de Valoración que le afecten.
+Se modifica el apartado 2, con efectos a partir del 1 de enero de 2012, por el art. 7.2 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se modifica, con efectos a partir del 1 de enero de 2006, por el art. 1.2 de la Ley Foral 20/2005, de 29 de diciembre. Ref. BOE-A-2006-847
+ Véase, en cuanto a su aplicación, la disposición final.2 de la citada Ley Foral.
+
+### Artículo 136
+
+Artículo 136. Exenciones.
+Disfrutarán de exención del impuesto los siguientes bienes:
+a) Los que sean propiedad de la Comunidad Foral, del Estado, de las Comunidades Autónomas o de las entidades locales, que estén directamente afectos a la defensa nacional, seguridad ciudadana o a los servicios educativos, sanitarios y penitenciarios.
+b) (Derogada).
+c) Los edificios y terrenos destinados a centros en que se imparta educación universitaria así como los de los centros concertados que impartan enseñanzas de régimen general no universitarias.
+d) (Anulada).
+e) Los de la Cruz Roja Española.
+f) Los de los gobiernos extranjeros destinados a su representación diplomática o consular, o a sus organismos oficiales, a condición de reciprocidad o conforme a lo dispuesto en los Convenios internacionales.
+g) Los de aquellos organismos o entidades a los que sea de aplicación la exención en virtud de Convenios internacionales.
+h) Los terrenos ocupados por líneas de ferrocarriles y los edificios enclavados en los mismos terrenos, que estén destinados a estaciones, almacenes o a cualquier otro servicio indispensable para la explotación de dichas líneas.
+No están exentos, por consiguiente, los establecimientos de hostelería, espectáculos, comerciales y de esparcimiento, las casas destinadas a viviendas de los empleados, las oficinas de la dirección ni las instalaciones fabriles.
+i) Los declarados expresa e individualizadamente bienes de interés cultural al amparo de lo dispuesto en el Decreto Foral 217/1986, de 3 de octubre, o monumento o jardín histórico de interés cultural, mediante Real Decreto en la forma establecida por el artículo 9 de la Ley 16/1985, de 25 de junio, e inscritos en el Registro General a que se refiere su artículo 12 como integrantes del patrimonio histórico español; así como los comprendidos en las disposiciones adicionales primera, segunda y quinta de dicha Ley.
+Esta exención no alcanzará a cualquier clase de bienes urbanos ubicados dentro del perímetro delimitativo de las zonas arqueológicas, sitios y conjuntos históricos, globalmente integrados en ellos, sino, exclusivamente, a los que reúnan las siguientes condiciones:
+En zonas arqueológicas, los incluidos como objeto de especial protección en el instrumento de planeamiento urbanístico a que se refiere el artículo 20 de la Ley 16/1985, de 25 de junio.
+De los sitios o conjuntos históricos, los que cuenten con una antigüedad igual o superior a cincuenta años y estén incluidos en el catálogo previsto en el artículo 86 del Reglamento de Planeamiento Urbanístico como objeto de protección integral en los términos previstos en el artículo 21 de la Ley 16/1985, de 25 de junio.
+j) La totalidad de los bienes de cada sujeto pasivo, sitos en un término municipal, cuando la suma de sus valores catastrales sea inferior a 200.000 pesetas. Esta cantidad podrá ser actualizada en las Leyes Forales de Presupuestos Generales de Navarra.
+Se declara la inconstitucionalidad y nulidad de la letra d), en la redacción dada por el artículo único.7 de la Ley Foral 10/2013, de 12 de marzo, por Sentencia del TC 207/2013, de 5 de diciembre. Ref. BOE-A-2014-224
+ Se suspende la vigencia y aplicación de la letra d) desde el 9 de julio de 2013 para las partes en el proceso y desde el 12 de julio de 2013 para los terceros, por providencia del TC de 11 de julio de 2013 que admite a trámite el recurso de inconstitucionalidad nº 4285/2013. Ref. BOE-A-2013-7618
+ Se modifica la letra d), con efectos a partir del 1 de enero de 2013, por el art. único.7 de la Ley Foral 10/2013, de 12 de marzo. Ref. BOE-A-2013-3674
+ Se deroga la letra b) y se modifica la letra a), con efectos a partir del 1 de enero de 2006, por el art. 1.3 y 4 de la Ley Foral 20/2005, de 29 de diciembre. Ref. BOE-A-2006-847
+
+### Artículo 137
+
+Artículo 137. Sujeto pasivo.
+1. Son sujetos pasivos, a título de contribuyentes, las personas físicas y jurídicas y las entidades a que se refiere el artículo 25 de la Ley Foral 13/2000, de 14 de diciembre, General Tributaria, que ostenten la titularidad del derecho que, en cada caso, sea constitutivo del hecho imponible de este Impuesto.
+2. La condición de sujeto pasivo recae en todo caso sobre el titular del derecho en la fecha de devengo del Impuesto, con independencia del momento en que, en su caso, se produzca el acceso al Catastro de la variación jurídica por cambio de titular en los términos establecidos en la Ley Foral de la Riqueza Territorial de Navarra y de los Catastros.
+3. En el supuesto de concurrencia de varios concesionarios sobre un mismo inmueble será sustituto del contribuyente el que deba satisfacer el mayor canon.
+Lo dispuesto en el párrafo anterior será de aplicación sin perjuicio de la facultad del sujeto pasivo de repercutir la carga tributaria soportada conforme a las normas de derecho común.
+Asimismo, el sustituto del contribuyente podrá repercutir sobre los demás concesionarios la parte de la cuota líquida que les corresponda en proporción a los cánones que deban satisfacer cada uno de ellos.
+4. Los ayuntamientos repercutirán la totalidad de la cuota líquida del Impuesto en quienes, no reuniendo la condición de sujetos pasivos del Impuesto, hagan uso mediante contraprestación de sus bienes demaniales o patrimoniales.
+Se modifica, con efectos a partir del 1 de enero de 2006, por el art. 1.5 de la Ley Foral 20/2005, de 29 de diciembre. Ref. BOE-A-2006-847
+
+### Artículo 138
+
+Artículo 138. Base imponible.
+1. La base imponible de este Impuesto estará constituida por el valor catastral de los bienes inmuebles, que se determinará, se dará a conocer y será susceptible de impugnación conforme a lo dispuesto en la Ley Foral del Registro de la Riqueza Territorial de Navarra y de los Catastros, sin perjuicio de lo dispuesto en el artículo 143.5 de la presente Ley Foral.
+2. No obstante lo dispuesto en el apartado anterior, cuando como consecuencia del procedimiento de modificación colectiva de valores catastrales, derivado de la aprobación de una Ponencia de Valores total, resulte un incremento en el promedio de todos los valores respecto del promedio de los valores anteriores en un porcentaje superior al 25 por 100 de este último, el Pleno del ayuntamiento podrá aprobar unas reducciones en la base imponible del Impuesto conforme a lo dispuesto en este artículo.
+En todo caso se excluirán los bienes especiales a efectos de determinar el incremento a que se refiere el párrafo anterior.
+3. En el supuesto de que el ayuntamiento haya adoptado el correspondiente acuerdo de reducción de la base imponible, éste se aplicará a los bienes en los que el nuevo valor sea superior al inicial. Dicha reducción se podrá efectuar linealmente durante un plazo máximo de tres años a contar desde el primer período impositivo siguiente a la aprobación de la Ponencia de Valores.
+El cálculo de la base imponible se hará mediante la siguiente fórmula:
+BIij = VPij - (VPij - Vci0) cj
+Donde:
+BIij es la base imponible reducida del bien "i" en el año "j".
+VPij es el valor resultante de aplicar la Ponencia de Valores revisada para el bien "i" en el año "j".
+Vci0 es el valor catastral inicial del bien "i".
+cj es un coeficiente que se obtiene de la tabla del apartado 7 para el año "j" y depende del plazo de concurrencia entre base imponible reducida y valores de Ponencia.
+Se considerará como valor catastral inicial de un bien el valor catastral que tenía en el momento inmediatamente anterior a la aprobación de la nueva Ponencia.
+4. En aquellos bienes en los que, dándose las circunstancias previstas en el anterior apartado 2, el nuevo valor catastral sea inferior al inicial se adoptará como base imponible el valor obtenido por aplicación de la nueva Ponencia.
+5. Cuando como consecuencia de la descalificación de un bien inmueble especial declarada por el Director Gerente de la Hacienda Tributaria de Navarra y de su consiguiente valoración normalizada por primera vez en una Ponencia de Valores, se produjese un incremento o una disminución del valor catastral de dicho bien respecto del valor reflejado en la Ponencia anterior, se aplicará al mismo lo dispuesto en los apartados anteriores, excluyéndose dicho valor, en todo caso, a los efectos de determinar la media del incremento de los nuevos valores derivados de la primera Ponencia posterior a la descalificación.
+6. En aquellos bienes para los que no se disponga de un valor catastral inicial por no constar en el Catastro en el momento de la revisión de la Ponencia, así como en aquellos que debido a una modificación de sus características deban someterse a una nueva valoración, para determinar su base imponible, se aplicará al valor proporcionado por la Ponencia una reducción porcentual igual a la reducción media teórica correspondiente a ese año, de acuerdo con la siguiente fórmula:
+BIij = VPij (VP.0 - (VP.0 - VC.0) cj) / VP.0
+Donde:
+BIij es la base imponible reducida del bien "i" en el año "j".
+VPij es el valor resultante de aplicar la Ponencia de Valores revisada para el bien "i" en el año "j".
+VP.0 es la suma de los valores resultantes de la aplicación de la Ponencia a todos los bienes del municipio en el momento de la revisión.
+VC.0 es la suma de los valores catastrales iniciales de todos los bienes del municipio.
+cj es un coeficiente que se obtiene de la tabla del apartado 7 siguiente para el año "j" y depende del plazo de concurrencia entre base imponible reducida y valores de Ponencia.
+7. Tabla de coeficientes reductores.–Los coeficientes reductores a que se refieren los apartados 3 y 6 de este artículo se obtendrán de la siguiente tabla:
+Plazo de concurrencia de base reducida y valores
+ Coeficiente c1 a aplicar durante el primer año de vigencia de la Ponencia
+ Coeficiente c2 a aplicar durante el segundo año de vigencia de la Ponencia
+ Coeficiente c3 a aplicar durante el tercer año de vigencia de la Ponencia
+ 
+ 1 año.
+ 0,00
+ 0,00
+ 0,00
+ 2 años.
+ 0,50
+ 0,00
+ 0,00
+ 3 años.
+ 0,67
+ 0,33
+ 0,00
+ 4 años.
+ 0,75
+ 0,50
+ 0,25
+8. En aquellos supuestos en que antes del vencimiento del plazo máximo de reducción establecido en el apartado 3 de este artículo se apruebe una nueva Ponencia de Valores, se abriría, en su caso, un nuevo plazo máximo de reducción de tres años y se entendería por valor catastral inicial, en todo caso, el establecido en el último párrafo del apartado 3 anterior incluyendo en el mismo las posibles reducciones que se le estuvieran aplicando en ese momento.
+9. El Ayuntamiento en Pleno adoptará, en su caso, el acuerdo de practicar estas reducciones sobre la base imponible en el año anterior al primero en que resulten aplicables, publicándose el mismo en el Boletín Oficial de Navarra y en el tablón de anuncios del respectivo Ayuntamiento.
+10. Las ponencias de valoración catastral que determinan la base imponible de este impuesto deberán ser actualizadas cuando haya transcurrido el plazo máximo desde su aprobación o revisión determinado en el artículo 35 de la Ley Foral 12/2006, de 21 de noviembre, del Registro de la Riqueza Territorial y de los Catastros de Navarra.
+El incumplimiento de esta norma podrá ser objeto de ponderación en la distribución del Fondo de Haciendas Locales.
+Se añade un apartado 10 por el art. 2.4 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se añade un apartado 9 por la disposición final 2.1 de la Ley Foral 12/2006, de 21 de noviembre. Ref. BOE-A-2007-189#dfsegunda
+ Se modifica, con efectos a partir del 1 de enero de 2006, por el art. 1.6 de la Ley Foral 20/2005, de 29 de diciembre. Ref. BOE-A-2006-847
+ Véase, en cuanto a su aplicación, la disposición final.2 de la citada Ley Foral.
+
+### Artículo 139
+
+Artículo 139. Cuota.
+1. La cuota íntegra de este Impuesto será el resultado de aplicar a la base imponible el tipo de gravamen a que se refiere el apartado siguiente.
+2. El tipo de gravamen deberá estar comprendido entre el 0,25 y el 0,50 por 100.
+El tipo de gravamen será único para todo el término municipal.
+Se modifica el párrafo primero del apartado 2 por el art. 2.5 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Téngase en cuenta, para su aplicación, la disposición transitoria 9 de la citada Ley Foral.
+ Se modifica, con efectos a partir del 1 de enero de 2006, por el art. 1.7 de la Ley Foral 20/2005, de 29 de diciembre. Ref. BOE-A-2006-847
+
+### Artículo 140
+
+Artículo 140. Bonificaciones.
+1. Gozarán de una bonificación del 90 por 100 en la cuota del impuesto los inmuebles que constituyan el objeto de la actividad de las empresas de urbanización, construcción y promoción inmobiliaria y no figuren entre los bienes de su inmovilizado.
+Los acuerdos relativos a los beneficios previstos en el párrafo anterior serán adoptados, por las entidades locales a instancia de parte.
+2. El plazo de disfrute de la bonificación comprenderá el tiempo de urbanización o de construcción y un año más a partir del año de terminación de las obras.
+3. En todo caso, el plazo de disfrute a que se refiere el apartado anterior no podrá exceder de tres años a partir de la fecha del inicio de las obras de urbanización y construcción.
+4. Las ordenanzas fiscales podrán regular una bonificación de hasta el 90 por ciento de la cuota del impuesto, cuando se trate de la vivienda que constituya el domicilio habitual de los sujetos pasivos que ostenten la condición de titulares de familia numerosa o de familia monoparental o en situación de monoparentalidad.
+Las entidades locales, dentro de su autonomía municipal, podrán asimilar esta bonificación a contribuyentes con pensiones no contributivas, perceptores de Renta Garantizada o de Ingreso Mínimo Vital.
+Esta bonificación estará sujeta a que las rentas del sujeto pasivo, excluidas las exentas, no superen cuatro veces el Salario Mínimo Interprofesional, pudiendo contemplar cada entidad local diferentes tramos en función de la renta hasta el máximo del 90 por ciento.
+La aplicación de esta bonificación estará condicionada a que no haya transcurrido un plazo máximo de cinco años desde la aprobación o desde la última revisión de la Ponencia de Valoración total del municipio.
+La regulación de los restantes aspectos sustantivos y formales de la bonificación se regulará mediante ordenanza fiscal.
+5. Las ordenanzas fiscales podrán regular una bonificación de hasta el 50 por ciento de la cuota íntegra del impuesto para los bienes inmuebles en los que se hayan instalado sistemas para el aprovechamiento térmico o eléctrico de la energía solar o de otras energías renovables.
+Esta bonificación estará sujeta a que las rentas del sujeto pasivo, excluidas las exentas, no superen cuatro veces el Salario Mínimo Interprofesional, pudiendo contemplar cada entidad local diferentes tramos en función de la renta hasta el máximo del 90 por ciento.
+La aplicación de esta bonificación estará condicionada a que las instalaciones para producción de calor incluyan colectores que dispongan de la correspondiente homologación por la administración competente.
+La regulación de los restantes aspectos sustantivos y formales de la bonificación se regulará mediante ordenanza fiscal.
+6. Las ordenanzas fiscales podrán regular una bonificación de hasta el 90 por ciento de la cuota del impuesto para aquellos bienes inmuebles que se encuentren arrendados a través de la Bolsa de alquiler de Gobierno de Navarra, durante el período en que se mantenga el alquiler.
+7. Las ordenanzas fiscales podrán regular una bonificación de hasta el 90 por ciento de la cuota del impuesto para aquellos bienes inmuebles que se encuentren arrendados como vivienda de residencia habitual y permanente a un precio inferior o igual al establecido para las viviendas de protección oficial en régimen de arrendamiento según calificación prevista en el artículo 7.3 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la vivienda en Navarra.
+8. Las ordenanzas fiscales podrán regular una bonificación de hasta el 90 por ciento de la cuota del impuesto para aquellos bienes inmuebles que constituyan el objeto de la actividad de construcción y promoción inmobiliaria de las asociaciones o cooperativas en cesión de uso, siempre que dichos inmuebles se destinen a residencia habitual y permanente de las personas socias.
+Se añaden los apartados 6 a 8 por el art. único.1 de la Ley Foral 1/2026, de 13 de febrero. Ref. BOE-A-2026-4524
+ Se añaden los apartados 4 y 5 por el art. único.11 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 141
+
+Artículo 141. Devengo y período impositivo.
+1. El Impuesto se devenga el primer día del período impositivo.
+2. El período impositivo coincide con el año natural. No obstante, la cuota podrá ser fraccionada en períodos inferiores.
+3. Las modificaciones de orden físico, económico o jurídico que se produzcan en los bienes gravados tendrán efectividad a partir del período impositivo siguiente a aquel en que se originó la obligación de declarar a que se refiere la Ley Foral del Registro de la Riqueza Territorial de Navarra y de los Catastros.
+Los valores resultantes de la modificación jurídica consistente en la aprobación de una Ponencia de Valores o de la calificación o descalificación de un bien como especial tendrán efectividad conforme a lo dispuesto en la Ley Foral del Registro de la Riqueza Territorial de Navarra y de los Catastros.
+Se modifica, con efectos a partir del 1 de enero de 2006, por el art. 1.8 de la Ley Foral 20/2005, de 29 de diciembre. Ref. BOE-A-2006-847
+ Véase, en cuanto a su aplicación, la disposición final.2 de la citada Ley Foral.
+
+### Artículo 142
+
+Artículo 142. Afectación al pago.
+1. En los supuestos de cambio, por cualquier causa, en la titularidad de los derechos a que se refieren los artículos 134 y 137 de esta Ley, los bienes inmuebles objeto de dichos derechos quedarán afectos al pago de la totalidad de las deudas tributarias y recargos pendientes por este impuesto.
+2. La derivación de la acción tributaria contra los bienes afectos exigirá acto administrativo notificado reglamentariamente, pudiendo el adquirente hacer el pago, dejar que prosiga la actuación o reclamar contra la liquidación practicada o contra la procedencia de dicha derivación.
+3. La derivación tendrá como límite la totalidad de las deudas tributarias y recargos pendientes por este impuesto y referidos a los bienes cuya titularidad sea objeto de cambio.
+
+### Artículo 143
+
+Artículo 143. Gestión del impuesto
+1. El Impuesto se gestionará por los Ayuntamientos a partir de los datos del Catastro configurado conforme a lo señalado en los artículos 9 y 21 de la Ley Foral del Registro de la Riqueza Territorial y de los Catastros de Navarra, y contendrá la siguiente información relativa a los bienes inmuebles: identificación y localización del bien, identificación y domicilio fiscal del titular, valor catastral y demás elementos necesarios para la exacción del impuesto.
+2. Con base en los datos a que se refiere el apartado 1, y con anterioridad al día 31 de marzo de cada año, los Ayuntamientos practicarán las liquidaciones conducentes a la determinación de las deudas tributarias y emitirán los documentos de cobro correspondientes, con referencia expresa del valor catastral del bien sobre el que se ha aplicado el tipo impositivo, indicando, cuando resulten aplicables las reducciones en la base imponible previstas en el artículo 138, esta circunstancia, así como la extensión temporal de las citadas reducciones. Los documentos de cobro también indicarán el lugar, plazo y forma en que deba ser satisfecha la deuda tributaría, así como los medios de impugnación.
+Téngase en cuenta que, con carácter extraordinario, el plazo previsto en el apartado 2, para que los Ayuntamientos practiquen las liquidaciones conducentes a la determinación de la deuda tributaria de la Contribución Territorial se amplía hasta el 30 de junio de 2020, según establece el art. 13.7 de la Ley Foral 7/2020, de 6 de abril. Ref. BOE-A-2020-4541#a1-5
+De conformidad con lo dispuesto en el artículo 86.3, las liquidaciones posteriores a la alta en el catastro no precisarán de notificación individual y podrán notificarse colectivamente mediante edictos que así lo adviertan, cuando sean idénticas a las del periodo impositivo inmediato anterior, o cuando las variaciones que se produzcan tengan carácter general. Los edictos deberán indicar la fecha final del plazo de pago del recibo periódico correspondiente, y los recursos que procedan contra las liquidaciones.
+3. En los supuestos en que, con posterioridad a la emisión de los documentos de cobro, resulte acreditada la no coincidencia del sujeto pasivo con el titular catastral en la fecha del devengo del impuesto, las liquidaciones practicadas tendrán carácter de provisionales, procediéndose a efectuar la correspondiente devolución de ingresos indebidos.
+4. Los sujetos pasivos estarán facultados para impugnar, utilizando cualquiera de las vías de impugnación a que se refiere el artículo 333 de la Ley Foral 6/1990, de la Administración Local de Navarra, la liquidación practicada.
+En lo referente a la base imponible, y para el supuesto de que no se hubiera recurrido el valor del bien comunicado o notificado conforme a lo dispuesto en el artículo 21 de la Ley Foral del Registro de la Riqueza Territorial y de los Catastros de Navarra, también podrá impugnarse en este momento el valor catastral, pero únicamente cuando se haya producido una alteración respecto del valor catastral que fue tomado como base imponible de la Contribución Territorial del período impositivo inmediato anterior, y dicha alteración no sea consecuencia de variaciones efectuadas con carácter general.
+La interposición de los recursos previstos en este apartado no suspenderá la ejecución del acto impugnado.
+5. Cuando se interponga recurso de reposición ante el Ayuntamiento y en el mismo se impugne la base imponible del Impuesto, por aquél se solicitará informe vinculante de la Hacienda Tributaria de Navarra relativo al valor catastral del bien, suspendiéndose el plazo de resolución del recurso hasta tanto no se remita a la entidad local el citado informe. A su recepción, se reanudará dicho plazo, debiendo decidirse al resolver el recurso cuantas cuestiones plantee el procedimiento.
+El Tribunal Administrativo de Navarra no es competente para resolver recursos de alzada contra actos de las entidades locales relativos a la Contribución Territorial cuando el objeto de la impugnación de la base imponible sea el valor establecido por la Hacienda Tributaria de Navarra para el respectivo inmueble.
+6. Cuando se produzca el incumplimiento por parte de los contribuyentes de la obligación de efectuar la declaración de modificación catastral prevista en la Ley Foral del Registro de la Riqueza Territorial y de los Catastros en Navarra, una vez plasmada en el Catastro la modificación efectuada, se procederá a exaccionar el Impuesto correspondiente a los períodos impositivos anteriores no prescritos.
+En el supuesto contemplado en el párrafo anterior se procederá, en su caso, a practicar la correspondiente devolución de los ingresos indebidamente efectuados por quien no debiera haber ostentando la condición de sujeto pasivo, respetándose, en todo caso, el plazo de prescripción para efectuar dicha devolución.
+7. En el supuesto de existencia de litigio acerca del bien o del titular del derecho sometido a gravamen la Administración tributaría podrá considerar como tales los que figuren en los Catastros, practicándose liquidaciones provisionales, las cuales serán modificadas o elevadas a definitivas cuando se dicte sentencia judicial firme o de cualquier otro modo se dé por finalizado el litigio.
+8. Los Ayuntamientos podrán agrupar en un único documento de cobro todas las cuotas de este Impuesto relativas a un mismo sujeto pasivo cuando se trate de bienes sitos en un mismo municipio.
+Se amplía, con caracter extraordinario, el plazo previsto en el apartado 2 hasta el 30 de junio de 2020 por el art. 13.7 de la Ley Foral 7/2020, de 6 de abril. Ref. BOE-A-2020-4541#a1-5
+ Se modifican los apartados 2, 3, 4 y 7, con efectos a partir del 1 de enero de 2013, por el art. único.8 a 11 de la Ley Foral 10/2013, de 12 de marzo. Ref. BOE-A-2013-3674
+ Se modifica el apartado 2 por el art. 10 de la Ley Foral 17/2009, de 23 de diciembre. Ref. BOE-A-2010-2630
+ Se modifica por la disposición final 2.2 de la Ley Foral 12/2006, de 21 de noviembre. Ref. BOE-A-2007-189#dfsegunda
+ Se modifica, con efectos a partir del 1 de enero de 2006, por el art. 1.9 de la Ley Foral 20/2005, de 29 de diciembre. Ref. BOE-A-2006-847
+ Véase, en cuanto a su aplicación, la disposición final.2 de la citada Ley Foral.
+
+### Artículo 144
+
+Artículo 144. Los catastros y el Registro Fiscal de la Riqueza Territorial de Navarra.
+(Derogado).
+Se deroga, con efectos a partir del 1 de enero de 2006, por el art. 1.10 de la Ley Foral 20/2005, de 29 de diciembre. Ref. BOE-A-2006-847
+
+### Artículo 145
+
+Artículo 145. Declaración de variaciones, errores y omisiones.
+(Derogado).
+Se deroga, con efectos a partir del 1 de enero de 2006, por el art. 1.10 de la Ley Foral 20/2005, de 29 de diciembre. Ref. BOE-A-2006-847
+
+## CAPÍTULO III
+
+Impuesto sobre Actividades Económicas
+
+### Artículo 146
+
+Artículo 146. Naturaleza y hecho imponible.
+1. El Impuesto sobre Actividades Económicas o Licencia Fiscal es un tributo directo de carácter real, cuyo hecho imponible está constituido por el mero ejercicio en territorio de la Comunidad Foral de Navarra, de actividades empresariales, profesionales o artísticas, se ejerzan o no en local determinado y se hallen o no especificadas en las tarifas del impuesto.
+2. Se consideran, a los efectos de este impuesto, actividades empresariales las ganaderas cuando tengan carácter independiente, las mineras, industriales, comerciales y de servicio. No tienen, por consiguiente, tal consideración las actividades agrícolas, las ganaderas dependientes y las forestales, no constituyendo hecho imponible por el impuesto ninguna de ellas.
+A efectos de lo previsto en el párrafo anterior tendrá la consideración de ganadería independiente el conjunto de cabezas de ganado que se encuentre comprendido en alguno de los casos siguientes:
+a) Que paste o se alimente fundamentalmente en tierras que no sean explotadas agrícola o forestalmente por el dueño del ganado.
+b) El estabulado fuera de las fincas rústicas.
+c) El trashumante o trasterminante.
+d) Aquel que se alimente fundamentalmente con piensos no producidos en la finca en que se críe.
+
+### Artículo 147
+
+Artículo 147.
+1. Se considera que una actividad se ejerce con carácter empresarial, profesional o artístico, cuando suponga la ordenación por cuenta propia de medios de producción y de recursos humanos o de uno de ambos, con la finalidad de intervenir en la producción o distribución de bienes o servicios.
+2. El contenido de las actividades gravadas se definirá en las tarifas del impuesto.
+
+### Artículo 148
+
+Artículo 148.
+El ejercicio de las actividades gravadas se probará por cualquier medio admisible en derecho y, en particular, por los contemplados en el artículo 3 del Código de Comercio.
+
+### Artículo 149
+
+Artículo 149.
+No constituye hecho imponible en este impuesto el ejercicio de las siguientes actividades:
+a) La enajenación de bienes integrados en el activo fijo de las empresas que hubieran figurado debidamente inventariados como tal inmovilizado con más de dos años de antelación a la fecha de trasmitirse, y la venta de bienes de uso particular y privado del vendedor siempre que los hubiese utilizado durante igual período de tiempo.
+b) La venta de los productos que se reciben en pago de trabajos personales o servicios profesionales.
+c) La exposición de artículos con el fin exclusivo de decoración o adorno del establecimiento. Por el contrario, estará sujeta al impuesto la exposición de artículos para regalo a los clientes.
+d) Cuando se trate de venta al por menor, la realización de un solo acto u operación aislada.
+
+### Artículo 150
+
+Artículo 150. Exenciones.
+1. Están exentos del impuesto:
+a) La Comunidad Foral de Navarra, el Estado, las Comunidades Autónomas y las entidades locales, así como sus respectivos organismos autónomos de carácter administrativo.
+b) Los sujetos pasivos a los que les sea de aplicación la exención en virtud de Tratados o de Convenios Internacionales.
+c) Las entidades gestoras de la Seguridad Social y de Mutualidades y Montepíos, constituidos conforme a lo previsto en la Ley 33/1984, de 2 de agosto, de Ordenación de los Seguros Privados (*).
+d) Los organismos públicos de investigación y educación universitaria, los establecimientos de enseñanza en todos sus grados, financiados mayoritariamente con fondos públicos o por fundaciones declaradas benéficas o de utilidad pública, aunque por excepción vendan en el mismo establecimiento los productos de los talleres dedicados a dicha enseñanza, siempre que el importe de dicha venta, sin utilidad para ningún particular o tercera persona, se destine exclusivamente a la adquisición de materias primas o al sostenimiento del establecimiento.
+e) Las asociaciones y fundaciones de disminuidos físicos, psíquicos y sensoriales, sin ánimo de lucro, por las actividades de carácter pedagógico, científico, asistencial y de empleo que para la enseñanza, educación, rehabilitación y tutela de minusválidos realicen, aunque vendan los productos de los talleres dedicados a dichos fines, siempre que el importe de dicha venta, sin utilidad para ningún particular o tercera persona, se destine exclusivamente a la adquisición de materias primas o al sostenimiento del establecimiento.
+f) La Cruz Roja Española.
+g) Los sujetos pasivos que tengan un importe neto de la cifra de negocios inferior a 1.000.000 de euros.
+En cuanto a los contribuyentes por el Impuesto sobre la Renta de No Residentes, la exención solo alcanzará a los que operen en territorio español mediante establecimiento permanente, siempre que tengan un importe neto de la cifra de negocios inferior a 1.000.000 de euros.
+En todo caso, será requisito para la aplicación de la exención que los sujetos pasivos no se hallen participados directa o indirectamente en un 25 por ciento o más por empresas que no reúnan el requisito del importe neto de la cifra de negocios previsto en esta letra, excepto que se trate de entidades de capital riesgo a que se refiere el artículo 94 de la Ley Foral 26/2016, de 28 de diciembre, del Impuesto sobre Sociedades, cuando la participación sea consecuencia del cumplimiento del objeto social de estas últimas.
+A efectos de la aplicación de la exención prevista en esta letra, se tendrán en cuenta las siguientes reglas:
+1.ª El importe neto de la cifra de negocios del sujeto pasivo comprenderá los importes de la venta de los productos y de la prestación de servicios u otros ingresos correspondientes a las actividades ordinarias de la empresa, deducidas las bonificaciones y demás reducciones sobre las ventas, así como el Impuesto sobre el Valor Añadido, y otros impuestos directamente relacionados con la mencionada cifra de negocios, que deban ser objeto de repercusión.
+2.ª El importe neto de la cifra de negocios será, en el caso de contribuyentes del Impuesto sobre la Renta de las Personas Físicas, del Impuesto sobre Sociedades o del Impuesto sobre la Renta de No Residentes, el del período impositivo cuyo plazo de presentación de declaraciones por dichos tributos hubiese finalizado el año anterior al de devengo de este impuesto.
+En el caso de sociedades civiles que no tengan la consideración de contribuyentes del Impuesto sobre Sociedades, así como de las entidades a que se refiere el artículo 25 de la Ley Foral 13/2000, de 14 de diciembre, General Tributaria, el importe neto de la cifra de negocios será el que corresponda al penúltimo año anterior al de devengo de este impuesto.
+Si el período impositivo hubiera tenido una duración inferior al año natural, el importe neto de la cifra de negocios se elevará al año.
+3.ª Para el cálculo del importe de neto de la cifra de negocios del sujeto pasivo se tendrá en cuenta el conjunto de las actividades económicas ejercidas por el mismo.
+Cuando la entidad forme parte de un grupo de sociedades conforme a lo establecido en el artículo 42 del Código de Comercio, con independencia de la residencia y de la obligación de formular cuentas anuales consolidadas, el importe neto de la cifra de negocios se referirá al conjunto de entidades pertenecientes a dicho grupo, teniendo en cuenta las eliminaciones e incorporaciones que correspondan por aplicación de la normativa contable. Igualmente se aplicará este criterio cuando una persona física por sí sola o conjuntamente con el cónyuge u otras personas físicas unidas por vínculos de parentesco en línea recta o colateral, consanguínea o por afinidad, hasta el segundo grado inclusive, se encuentren con relación a otras entidades de las que sean socios en alguno de los casos a que se refiere el artículo 42 del Código de Comercio, con independencia de la residencia de las entidades y de la obligación de formular cuentas anuales consolidadas.
+4.ª En el supuesto de los contribuyentes por el Impuesto sobre la Renta de No Residentes, se atenderá al importe neto de la cifra de negocios imputable al conjunto de los establecimientos permanentes situados en territorio español.
+2. Los beneficios regulados en las letras d) y e) del número anterior tendrán carácter rogado y se concederán, cuando proceda, a instancia de parte.
+(*) Véase la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras. Ref. BOE-A-2015-7897
+Se añade la letra g) al apartado 1 por el art. único.12 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 151
+
+Artículo 151. Sujeto pasivo.
+Son sujetos pasivos de este impuesto las personas físicas o jurídicas, las herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado, siempre que realicen en territorio navarro cualquiera de las actividades que originan el hecho imponible.
+
+### Artículo 152
+
+Artículo 152. Cuota tributaría.
+La cuota tributaria será la resultante de aplicar las tarifas del impuesto, de acuerdo con los preceptos contenidos en esta Ley Foral y en las disposiciones que la complementen y desarrollen y, en su caso, el índice acordado por cada Ayuntamiento.
+
+### Artículo 153
+
+Artículo 153.
+Las tarifas del impuesto en las que se fijarán las cuotas mínimas así como la instrucción para su aplicación, se aprobarán por Ley Foral que requerirá mayoría simple para su aprobación.
+La fijación de las cuotas mínimas se ajustará a los criterios siguientes:
+Primero. Delimitación del contenido de las actividades gravadas de acuerdo con las características de los sectores económicos, tipificándolas, con carácter general, mediante elementos fijos que deberán concurrir en el momento del devengo del impuesto.
+Segundo. Los epígrafes y rúbricas que clasifiquen las actividades sujetas se ordenarán, en lo posible, con arreglo a la clasificación nacional de Actividades Económicas.
+Tercero. Determinación de aquellas actividades o modalidades de las mismas a las que por su escaso rendimiento económico se les señale cuota cero.
+Cuarto. Las cuotas resultantes de la aplicación de las Tarifas no podrán exceder del 15 por 100 del beneficio medio presunto de la actividad gravada, y en su fijación se tendrá en cuenta, además de lo previsto en la base primera anterior, la superficie de los locales en los que se realicen las actividades gravadas.
+Quinto. Estas cuotas mínimas se exigirán por el ejercicio de cada actividad en cada término municipal, entendiéndose con ello que un sujeto pasivo deberá satisfacer por una misma actividad tantas cuotas mínimas como municipios en los que se ejerza.
+Sexto. Las tarifas del impuesto podrán fijar cuotas para el ejercicio de la actividad en toda la Comunidad Foral, y en todo el territorio nacional cuando, en este último caso, el sujeto pasivo tenga su residencia habitual o su domicilio fiscal en Navarra, según se trate de persona física, jurídica o ente sin personalidad, respectivamente, de acuerdo con lo previsto en el artículo 43.b) del Convenio Económico entre el Estado y la Comunidad Foral de Navarra.
+En todo caso las tarifas señalarán las condiciones en que las actividades podrán tributar por dichas cuotas y fijarán su importe, teniendo en cuenta su respectivo ámbito espacial.
+
+### Artículo 154
+
+Artículo 154.
+Los Ayuntamientos podrán establecer sobre las cuotas mínimas una escala de índices que pondere la situación física, exhibición de rótulos u otras características o circunstancias del establecimiento dentro de cada término municipal. El índice mínimo de la referida escala no podrá ser inferior a 1 y el máximo no podrá exceder de 1,4.
+
+### Artículo 155
+
+Artículo 155. Período impositivo y devengo.
+1. El período impositivo coincidirá con el año natural y a él se refieren las cuotas establecidas en las tarifas.
+2. Las Entidades Locales podrán prorratear las cuotas por semestres completos, que se exigirán por recibo y se devengarán por mitad el primer día de cada uno de los semestres naturales salvo cuando, en los casos de declaración de alta, el día de comienzo de la actividad no coincida con el año natural, en cuyo supuesto las cuotas se calcularán proporcionalmente al número de trimestres naturales que resten para finalizar el año, incluido el de comienzo del ejercicio de la actividad.
+Asimismo, y en el caso de baja por cese en el ejercicio de la actividad, las cuotas serán prorrateadas por trimestres naturales, incluido aquel en el que se produzca dicho cese. A tal fin los sujetos pasivos podrán solicitar la devolución de la parte de cuota correspondiente a los trimestres naturales completos en los que no se hubiera ejercido la actividad.
+3. Tratándose de espectáculos, cuando las cuotas estén establecidas por actuaciones aisladas, el devengo se produce por la realización de cada una de ellas, debiéndose presentar las correspondientes declaraciones en la forma que se establezca reglamentariamente.
+Se modifican los apartados 1 y 2 por el art. único de la Ley Foral 18/1998 de 19 de noviembre . Ref. BOE-A-1999-299
+ Se modifica el apartado 2 por la disposición adicional 9 de la Ley Foral 1/1997, de 31 de enero. Ref. BOE-A-1997-10808
+
+### Artículo 156
+
+Artículo 156. Gestión.
+1. El impuesto se gestionará por los Ayuntamientos a partir del Registro de Actividades Económicas.
+Dicho Registro se formará anualmente para cada término municipal y estará constituido por censos comprensivos de los datos identificativos y domicilio fiscal de todos los sujetos pasivos que ejerzan actividades económicas, del domicilio y epígrafe o subepígrafe de la actividad, así como de la cuota nacional, territorial o mínima municipal por la que tributen.
+El Registro correspondiente a cada año se cerrará al 31 de diciembre del año anterior e incorporará las altas, variaciones y bajas producidas durante dicho año, incluyéndose las derivadas de declaraciones presentadas hasta el 31 de enero y que se refieran a hechos anteriores al 1 de enero.
+2. El citado Registro anual, con excepción de los datos del domicilio fiscal, estará a disposición del público durante todo el año natural en la página web de la Hacienda Tributaria de Navarra.
+Sin perjuicio de lo establecido en el párrafo anterior también se permitirá el acceso, por la misma vía, a los siguientes datos que figuren en el Registro de Actividades Económicas en el momento de realizar la consulta: los identificativos de los sujetos pasivos que ejerzan actividades económicas, así como el domicilio y el epígrafe o subepígrafe de la actividad.
+Se modifica el apartado 2 por el art. único.3 de la Ley Foral 3/2019, de 24 de enero. Ref. BOE-A-2019-2641
+ Se modifica por el art. único.3 de la Ley Foral 29/2016, de 28 de diciembre. Ref. BOE-A-2017-2359
+
+### Artículo 157
+
+Artículo 157.
+1. Los sujetos pasivos estarán obligados a presentar las correspondientes declaraciones de alta en el impuesto, manifestando todos los elementos necesarios para su inclusión en el Registro de Actividades Económicas en los términos previstos en el artículo anterior y dentro del plazo que reglamentariamente se establezca, practicándose a continuación por el Ayuntamiento la liquidación correspondiente, que se notificará al sujeto pasivo, quien deberá efectuar el ingreso que proceda.
+Asimismo, estarán obligados a comunicar las variaciones de orden físico, económico o jurídico que se produzcan en el ejercicio de las actividades gravadas y que tengan trascendencia a efectos de su tributación por este impuesto, formalizándolas en los plazos y términos que reglamentariamente se establezcan.
+2. La inclusión, exclusión o alteración de los datos contenidos en los censos, resultantes de las actuaciones de inspección tributaria o de la formalización de altas y comunicaciones, se considerarán acto administrativo, y conllevarán la modificación del censo, Cualquier modificación del Registro que se refiera a datos obrantes en los censos requerirá, inexcusablemente, la previa alteración de estos últimos en el mismo sentido.
+3. Sin perjuicio de lo dispuesto en el apartado 3 del artículo siguiente, la formación del Registro del impuesto se llevará a cabo por los órganos competentes de la Hacienda Tributaria de Navarra. La calificación de las actividades económicas, así como el señalamiento de las cuotas correspondientes se llevarán a cabo, igualmente, por los órganos citados, y contra los actos de calificación de actividades y señalamiento de cuotas se podrá interponer en el mes de enero de cada año recurso de alzada ante la persona titular del departamento competente en materia de Hacienda.
+Se modifica el apartado 3 por el art. único.4 de la Ley Foral 29/2016, de 28 de diciembre. Ref. BOE-A-2017-2359
+
+### Artículo 158
+
+Artículo 158.
+1. La liquidación y recaudación, así como la revisión de los actos dictados en vía de gestión tributaria de este impuesto se llevará a cabo por los Ayuntamientos y comprenderá las funciones de concesión y denegación de exenciones, realización de las liquidaciones conducentes a la determinación de las deudas tributarias, emisión de los instrumentos de cobro, resolución de los expedientes de devolución de ingresos indebidos, resolución de los recursos que se interpongan contra dichos actos y actuaciones para la información y asistencia al contribuyente referidas a las materias comprendidas en este número.
+La concesión y denegación de exenciones requerirán, en todo caso, informe técnico previo del órgano competente de la Administración Tributaria de la Comunidad Foral, con posterior traslado a éste de la resolución que se adopte.
+2. Este impuesto podrá exigirse en régimen de autoliquidación en los términos que reglamentariamente se establezcan.
+3. Tanto los órganos competentes de la Administración Tributaria de la Comunidad Foral como los del Ayuntamiento en cuyo término municipal se desarrollen las actividades sujetas podrán realizar las actuaciones de inspección precisas para el adecuado ejercicio de sus respectivas competencias y en especial para la actualización permanente del Registro de Actividades Económicas. En el caso de tributación por cuotas territoriales o nacionales la competencia corresponderá al Ayuntamiento donde radique la residencia habitual o el domicilio fiscal del sujeto pasivo.
+Cuando el Ayuntamiento competente, previas las oportunas actuaciones de comprobación e investigación, tenga conocimiento del comienzo, variación o cese en el ejercicio de actividades gravadas por el Impuesto que no hayan sido declaradas por el sujeto pasivo, le notificará a este el resultado de dichas actuaciones, concediéndole un plazo de quince días para que formule las alegaciones que estime convenientes a su derecho. Transcurrido dicho plazo, y a la vista de las alegaciones formuladas, el Ayuntamiento procederá, en su caso, a la inclusión, variación o exclusión que proceda en el Registro de Actividades Económicas, así como a la práctica de las liquidaciones tributarias que correspondan. Las citadas inclusiones, exclusiones o variaciones realizadas de oficio podrán tener, en su caso, efectos registrales y liquidatorios para los periodos impositivos no prescritos, aplicándose lo establecido en el artículo 155.2.
+Tanto los mencionados actos registrales como los liquidatorios se notificarán al sujeto pasivo y podrán ser impugnados con arreglo a lo previsto en el artículo 21.
+De la misma manera y con idénticos efectos, los órganos competentes de la Administración Tributaria de la Comunidad Foral podrán efectuar la inclusión, variación o exclusión que resulte procedente en el Registro de Actividades Económicas, siguiendo el mismo procedimiento que el previsto en el párrafo anterior. Los recursos contra los actos registrales se sustanciarán de conformidad con lo dispuesto en el apartado 3 del artículo anterior, debiéndose interponer en el plazo de un mes desde la notificación.
+Las Administraciones tributarias de la Comunidad Foral y las entidades locales de Navarra se comunicarán inmediatamente el resultado de sus respectivas actuaciones.
+Se modifica el apartado 3 por el art. único.5 de la Ley Foral 29/2016, de 28 de diciembre. Ref. BOE-A-2017-2359
+ Lo dispuesto en el apartado 3 resultará de aplicación en los procedimientos de inspección que se inicien por los Ayuntamientos con posterioridad al día 1 de enero de 2017, si bien podrán afectar a hechos imponibles no prescritos al inicio del procedimiento, según establece la disposición final 2.2 de la citada ley foral.
+ Se modifica el apartado 3 por el art. 13 de la Ley Foral 22/2008, de 24 de diciembre. Ref. BOE-A-2009-3960
+
+## CAPÍTULO IV
+
+Impuesto sobre Vehículos de Tracción Mecánica
+
+### Artículo 159
+
+Artículo 159. Naturaleza y hecho imponible.
+1. El Impuesto sobre Vehículos de Tracción Mecánica es un tributo directo que grava la titularidad, en los términos del artículo 162, de los vehículos de esta naturaleza, aptos para circular por las vías públicas, cualesquiera que sean su clase y categoría.
+2. Se considera vehículo apto para la circulación el que hubiere sido matriculado en los registros públicos correspondientes y mientras no haya causado baja en los mismos. A los efectos de este impuesto también se considerarán aptos los vehículos provistos de permisos temporales y matrícula turística.
+3. No están sujetos a este impuesto los vehículos que habiendo sido dados de baja en los registros por antigüedad de su modelo, puedan ser autorizados para circular excepcionalmente con ocasión de exhibiciones, certámenes o carreras limitadas a los de esta naturaleza.
+
+### Artículo 160
+
+Artículo 160.
+1. Estarán exentos del impuesto:
+a) Los vehículos oficiales de la Comunidad Foral de Navarra, Estado y entidades locales.
+b) Los vehículos de oficinas consulares y funcionarios consulares de carrera acreditados en España, que sean ciudadanos de los respectivos países, externamente identificados y a condición de reciprocidad en su extensión y grado.
+Asimismo, los vehículos de los organismos internacionales con sede u oficina en España y de sus funcionarios o miembros con estatuto diplomático.
+c) Las ambulancias y demás vehículos directamente destinados a la asistencia sanitaria que pertenezcan a la Cruz Roja Española y a la Asociación DYA.
+d) Los vehículos matriculados a nombre de organizaciones sin ánimo de lucro para el traslado de personas con discapacidad.
+e) Los vehículos especialmente adaptados. Asimismo, estarán exentos los vehículos matriculados a nombre de personas con un grado de discapacidad igual o superior al 33 por ciento y, además, alguna de las siguientes circunstancias:
+1.º) Presentar movilidad reducida conforme al anexo II del Real Decreto 1971/1999, de 23 de diciembre, de procedimiento para reconocimiento, declaración, y calificación del grado de discapacidad.
+2.º) Presentar una deficiencia en las funciones mentales que suponga el reconocimiento de al menos un 25 % de limitaciones en la actividad.
+3.º) Que muestren en el mejor ojo una agudeza visual igual o inferior al 0,1 con corrección, o un campo visual reducido a 10 grados o menos.
+4.º) Ser menor de edad.
+La exención se limitará a un vehículo por persona.
+f) Los autobuses urbanos adscritos al servicio de transporte público en régimen de concesión administrativa otorgada por el municipio de la imposición, o entidad local en que éste se integre para la prestación agrupada de dicho servicio.
+g) Los tractores, remolques, semirremolques y maquinaria provistos de la Cartilla de Inscripción Agrícola.
+2. Para poder gozar de las exenciones a que se refieren las letras e) y g) del apartado 1, los interesados deberán instar su concesión indicando las características del vehículo, su matrícula y causa de beneficio. Declarada la exención por la entidad local se expedirá un documento que acredite este extremo.
+Se modifica el apartado e).2º por el art. 2 de la Ley Foral 6/2022, de 22 de marzo de 2022. Ref. BOE-A-2022-6404
+ Se modifica por el art. único.13 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Se modifica el apartado 1 por el art. único de la Ley Foral 22/2018, de 13 de noviembre. Ref. BOE-A-2018-16532
+
+### Artículo 161
+
+Artículo 161. Sujetos pasivos.
+Son sujetos pasivos de este impuesto las personas físicas o jurídicas, las herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyen una unidad económica o un patrimonio separado a cuyo nombre conste el vehículo en el permiso de circulación.
+
+### Artículo 162
+
+Artículo 162. Cuota.
+1. El impuesto se exigirá con arreglo a las siguientes cuotas:
+a) Turismos:
+– De menos de 8 caballos fiscales: 23,57.
+– De 8 hasta 12 caballos fiscales: 66,28.
+– De más de 12 hasta 16 caballos fiscales: 141,38.
+– De más de 16 caballos fiscales: 176,80.
+b) Autobuses:
+– De menos de 21 plazas: 164,94.
+– De 21 a 50 plazas: 235,68.
+– De más de 50 plazas: 294,59.
+c) Camiones:
+– De menos de 1.000 kg de carga útil: 82,57.
+– De 1.000 a 2.999 kg de carga útil: 164,94.
+– De más de 2.999 a 9.999 kg de carga útil: 235,68.
+– De más de 9.999 kg de carga útil: 294,59.
+d) Tractores:
+– De menos de 16 caballos fiscales: 40,49.
+– De 16 a 25 caballos fiscales: 80,96.
+– De más de 25 caballos fiscales: 161,71.
+e) Remolques y semirremolques:
+– De menos de 1.000 kg de carga útil: 41,33.
+– De 1.000 a 2.999 kg de carga útil: 82,57.
+– De más de 2.999 kg de carga útil: 164,94.
+f) Otros vehículos:
+– Ciclomotores: 5,94.
+– Motocicletas hasta 125 cc: 8,91.
+– Motocicletas de más de 125 cc hasta 250 cc: 14,78.
+– Motocicletas de más de 250 cc hasta 500 cc: 29,13.
+– Motocicletas de más de 500 cc hasta 1.000 cc: 58,28.
+– Motocicletas de más de 1.000 cc: 116,56.
+2. El cuadro de cuotas podrá ser modificado por el procedimiento establecido en el artículo 58.2.
+3. Reglamentariamente se determinara el concepto de las diversas clases de vehículos y las reglas para la aplicación de las tarifas.
+4. Las ordenanzas fiscales podrán regular, sobre la cuota del impuesto, las siguientes bonificaciones:
+a) Una bonificación de hasta el 50 por 100 para los ''vehículos ECO''.
+b) Una bonificación de hasta el 100 por 100 para los ''vehículos 0 emisiones''.
+La regulación de los restantes aspectos sustantivos y formales de las bonificaciones a que se refieren los párrafos anteriores se establecerá en la ordenanza fiscal.
+Se modifica el apartado 1 por el art. 8.1 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+ Se modifica el apartado 1 por el art. 9.1 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+ Se modifica el apartado 1, con efectos de 1 de enero de 2023, por el art. 13.1 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+ Se modifica el apartado 1 por el art. 10.1 de la Ley Foral 19/2021, de 29 de diciembre de 2021. Ref. BOE-A-2022-2067
+ Se modifica el apartado 1 por el art. único.14 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Redactado conforme a la corrección de errores publicada en el BON núm. 17, de 25 de enero de 2021. Ref. BOE-A-2021-1624
+ Se añade un apartado 4 por el art. único.4 de la Ley Foral 3/2019, de 24 de enero. Ref. BOE-A-2019-2641
+ Se modifica el apartado 1, con efectos a partir del 1 de enero de 2018, por el art. 3 de la Ley Foral 19/2017, de 27 de diciembre. Ref. BOE-A-2018-804
+ Se modifica el apartado 1 por el art. único.6 de la Ley Foral 29/2016, de 28 de diciembre. Ref. BOE-A-2017-2359
+ Se modifica el apartado 1, con efectos a partir del 1 de enero de 2014, por el art. 7 de la Ley Foral 38/2013, de 28 de diciembre. Ref. BOE-A-2014-888
+ Se modifica el apartado 1 por el art. 4 de la Ley Foral 21/2012, de 26 de diciembre. Ref. BOE-A-2013-501
+ Se modifica el apartado 1, con efectos a partir del 1 de enero de 2012, por el art. 7.3 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se modifica el apartado 1 por el art. 6 de la Ley Foral 23/2010, de 28 de diciembre. Ref. BOE-A-2011-3431
+ Se modifica el apartado 1 por el art. 9 de la Ley Foral 22/2008, de 24 de diciembre. Ref. BOE-A-2009-3960
+ Se modifica el apartado 1, con efectos desde el 1 de enero de 2008, por el art. 7 de la Ley Foral 2/2008, de 24 de enero. Ref. BOE-A-2008-3585
+ Se modifica el apartado 1, con efectos a partir del 1 de enero de 2006, por el art. 1.11 de la Ley Foral 20/2005, de 29 de diciembre. Ref. BOE-A-2006-847
+ Se modifica el apartado 1 por el art. 10 de la Ley Foral 35/2003, de 30 de diciembre. Ref. BOE-A-2004-1077
+ Se modifica el apartado 1, con efectos desde el 1 de enero de 2002, por el art. 12 de la Ley Foral 3/2002, de 14 de marzo. Ref. BOE-A-2002-8354
+ Se modifica el apartado 1 por el art. 10 de la Ley Foral 19/1999, de 30 de diciembre. Ref. BOE-A-2000-1736
+ Se modifica el apartado 1 por la disposición adicional 8 de la Ley Foral 21/1997, de 30 de diciembre. Ref. BOE-A-1998-2917
+ Se modifica el apartado 1 por el art. 11 de la Ley Foral 14/1995, de 29 de diciembre. Ref. BOE-A-1996-7935
+
+### Artículo 163
+
+Artículo 163. Período impositivo y devengo.
+1. El período impositivo con carácter general coincidirá con el año natural. En el caso de primera adquisición de los vehículos, dicho período comenzará el día en que se produzca la mencionada adquisición.
+2. El impuesto se devengará el primer día del período impositivo.
+3. El importe de la cuota del impuesto se prorrateará por trimestres naturales en los casos de primera adquisición o baja del vehículo.
+
+### Artículo 164
+
+Artículo 164. Gestión.
+La gestión, liquidación, inspección y recaudación, así como la revisión de los actos dictados en vía de gestión tributaria corresponde al Ayuntamiento del domicilio que conste en el permiso de circulación del vehículo.
+
+### Artículo 165
+
+Artículo 165.
+1. Los Ayuntamientos podrán exigir este impuesto en régimen de autoliquidación.
+2. En las ordenanzas fiscales generales los Ayuntamientos podrán disponer la clase de instrumento acreditativo del pago del impuesto.
+
+### Artículo 166
+
+Artículo 166.
+1. Quienes soliciten ante la Jefatura Provincial de Tráfico la matriculación o la certificación de aptitud para circular de un vehículo, deberán acreditar, previamente, el pago del impuesto.
+2. A la misma obligación estarán sujetos los titulares de los vehículos, cuando comuniquen a la Jefatura Provincial de Tráfico la reforma de las mismas, siempre que altere su clasificación a efectos de este impuesto. Asimismo deberán acreditar previamente ante la referida Jefatura Provincial el pago del impuesto también en los casos de transferencia, de cambio del domicilio que conste en el permiso de circulación del vehículo, o de baja de dichos vehículos.
+3. La Jefatura Provincial de Tráfico no tramitara los expedientes si no se acredita previamente el pago del impuesto en los términos establecidos en los números anteriores.
+
+## CAPÍTULO V
+
+Impuesto sobre Construcciones, Instalaciones y Obras
+
+### Artículo 167
+
+Artículo 167. Naturaleza y hecho imponible.
+El Impuesto sobre Construcciones, Instalaciones y Obras es un tributo indirecto cuyo hecho imponible está constituido por la realización, dentro del término municipal, de cualquier construcción, instalación u obra para la que se exija obtención de la correspondiente licencia de obras o urbanística, se haya obtenido o no dicha licencia, o para la que se exija presentación de declaración responsable o comunicación previa, siempre que la expedición de la licencia, el informe sobre su concesión conforme a lo dispuesto en el artículo 39 de la Ley Foral 6/1990, de 2 de julio, de Administración Local o la actividad de control corresponda al ayuntamiento de la imposición.
+Se modifica, con efectos a partir del 1 de enero de 2013, por el art. único.12 de la Ley Foral 10/2013, de 12 de marzo. Ref. BOE-A-2013-3674
+
+### Artículo 168
+
+Artículo 168. Exenciones.
+Estará exenta del pago del impuesto la realización de cualquier construcción, instalación u obra de la que sean dueños la Comunidad Foral de Navarra, el Estado, las Comunidades Autónomas o las entidades locales de Navarra que estando sujetas al mismo, vayan a ser directamente destinadas a carreteras, ferrocarriles, aeropuertos, obras hidráulicas, saneamiento de poblaciones y de sus aguas residuales, aunque su gestión se lleve a cabo por organismos autónomos, tanto si se trata de obras de nueva construcción como de conservación.
+Asimismo estará exenta del pago del impuesto la realización de cualquier construcción, instalación u obra que se realice en viviendas propiedad de la Comunidad Foral de Navarra, el Estado o las entidades locales de Navarra que, estando cedidas a entidades sin ánimo de lucro, vayan a ser destinadas a la atención de personas con dificultades económicas.
+Se añade un párrafo por el art. único de la Ley Foral 15/2014, de 1 de julio. Ref. BOE-A-2014-8141
+
+### Artículo 169
+
+Artículo 169. Sujetos pasivos.
+1. Son sujetos pasivos de este Impuesto, a título de contribuyentes, las personas físicas, personas jurídicas o entidades del artículo 25 de la Ley Foral 13/2000, de 14 de diciembre, General Tributaria, que sean dueños de la construcción, instalación u obra, sean o no propietarios del inmueble sobre el que se realice aquella.
+A los efectos previstos en el párrafo anterior tendrá la consideración de dueño de la construcción, instalación u obra quien soporte los gastos o el coste que comporte su realización.
+2. En el supuesto de que la construcción, instalación u obra no sea realizada por el sujeto pasivo contribuyente tendrán la condición de sujetos pasivos sustitutos del contribuyente quienes soliciten las correspondientes licencias o presenten las correspondientes declaraciones responsables o comunicaciones previas o quienes realicen las construcciones, instalaciones u otras.
+El sustituto podrá exigir del contribuyente el importe de la cuota tributaria satisfecha.
+Se modifica, con efectos a partir del 1 de enero de 2013, por el art. único.13 de la Ley Foral 10/2013, de 12 de marzo. Ref. BOE-A-2013-3674
+
+### Artículo 170
+
+Artículo 170. Base imponible, cuota y devengo.
+1. La base imponible del impuesto está constituida por el coste real y efectivo de la construcción, instalación u obra y se entiende por tal, a estos efectos, el coste de ejecución material de aquélla comprendiendo todos los elementos que figuren en el correspondiente proyecto y carezcan de singularidad o identidad propia respecto de la construcción, instalación u obra objeto de la licencia o declaración responsable. No forman parte de la base imponible el Impuesto sobre el Valor Añadido y demás impuestos análogos propios de regímenes especiales, las tasas, precios públicos y demás prestaciones patrimoniales de carácter público local relacionadas, en su caso, con la construcción, instalación u obra, ni tampoco los honorarios de profesionales, el beneficio empresarial del contratista ni cualquier otro concepto distinto del mencionado coste de ejecución material.
+2. La cuota de este impuesto será el resultado de aplicar a la base imponible el tipo de gravamen.
+3. El tipo de gravamen estará entre el 2 y el 5 por 100, correspondiendo al Pleno del Ayuntamiento fijar el tipo dentro de dicha banda.
+4. Él impuesto se devenga en el momento de iniciarse la construcción, instalación u obra, aun cuando no se haya obtenido la correspondiente licencia.
+Se modifica el apartado 1, con efectos a partir del 1 de enero de 2013, por el art. único.14 de la Ley Foral 10/2013, de 12 de marzo. Ref. BOE-A-2013-3674
+
+### Artículo 170 bis
+
+Artículo 170 bis. Bonificaciones potestativas.
+1. Las ordenanzas fiscales podrán regular las siguientes bonificaciones sobre la cuota del impuesto:
+a) Una bonificación de hasta el 50 por ciento a favor de las construcciones, instalaciones u obras en edificios destinados exclusivamente a viviendas de protección oficial en régimen de alquiler.
+b) Una bonificación de hasta el 25 por ciento a favor de las construcciones, instalaciones u obras en edificios destinados parcialmente a viviendas de protección oficial en régimen de alquiler cuando estas supongan, al menos, la mitad del número total.
+c) Una bonificación de hasta el 50 por ciento a favor de construcciones, instalaciones u obras destinados a viviendas o alojamientos promovidas por asociaciones o cooperativas en cesión de uso.
+d) Una bonificación de la cuota del impuesto de hasta el 90 por ciento a favor de las construcciones, instalaciones u obras en las que se incorporen sistemas para el aprovechamiento térmico o eléctrico de la energía solar o de otras energías renovables. La aplicación de esta bonificación estará condicionada a que las instalaciones para producción de calor incluyan colectores que dispongan de la correspondiente homologación de la administración competente.
+e) Una bonificación de hasta el 50 por ciento a favor de las construcciones, instalaciones u obras de rehabilitación destinadas a vivienda protegida en edificaciones protegidas por el catálogo municipal.
+f) Una bonificación de hasta el 30 por cierto a favor de las construcciones, instalaciones u obras de rehabilitación con destino a vivienda protegida en edificaciones incorporadas a Áreas de Rehabilitación Preferente y a ámbitos de Planes de Intervención Pública.
+2. Para los supuestos de solicitud de más de una bonificación de las reseñadas en el apartado anterior, solo se aplicará la mayor de ellas al sujeto pasivo beneficiario.
+3. La regulación de los restantes aspectos sustantivos y formales de cada bonificación se establecerá mediante ordenanza fiscal. Se podrá establecer en cada una de estas bonificaciones su carácter retroactivo, no pudiendo fijarse una retroacción superior a un año desde la entrada en vigor de la presente ley foral.
+Se modifica por el art. único.2 de la Ley Foral 1/2026, de 13 de febrero. Ref. BOE-A-2026-4524
+ Se añade por el art. único.15 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 171
+
+Artículo 171. Gestión.
+1. Cuando se conceda la licencia preceptiva o se presente la declaración responsable o la comunicación previa o cuando, no habiéndose solicitado, concedido o denegado aún aquella o presentado éstas, se inicie la construcción, instalación u obra, se practicará una liquidación provisional a cuenta, determinándose la base imponible:
+a) En función del presupuesto presentado por los interesados, siempre que hubiera sido visado por el colegio oficial correspondiente cuando ello constituya un requisito preceptivo.
+b) En los casos en que no exista presupuesto y cuando la ordenanza fiscal así lo prevea, en función de los índices o módulos que ésta establezca al efecto.
+2. A la vista de las construcciones, instalaciones u obras efectivamente realizadas y del coste real efectivo de las mismas, el Ayuntamiento, mediante la oportuna comprobación administrativa, modificará, en su caso, la base imponible a que se refiere el apartado anterior practicando la correspondiente liquidación definitiva, y exigiendo del sujeto pasivo o reintegrándole, en su caso, la cantidad que corresponda.
+3. Los Ayuntamientos podrán exigir este impuesto en régimen de autoliquidación.
+Se modifica el apartado 1, con efectos a partir del 1 de enero de 2013, por el art. único.15 de la Ley Foral 10/2013, de 12 de marzo. Ref. BOE-A-2013-3674
+
+## CAPÍTULO VI
+
+Impuesto sobre el incremento del valor de los terrenos de naturaleza urbana
+
+### Artículo 172
+
+Artículo 172. Naturaleza y hecho imponible.
+1. El Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana es un tributo directo que grava el incremento de valor que experimenten dichos terrenos y se ponga de manifiesto a consecuencia de la transmisión de la propiedad de ellos por cualquier título o de la constitución o transmisión de cualquier derecho real de goce, limitativo del dominio, sobre los referidos terrenos.
+2. A efectos de este Impuesto tendrán la consideración de terrenos de naturaleza urbana aquellos que, con independencia de que estén o no contemplados como unidades inmobiliarias urbanas en el Catastro o en el Padrón Catastral de aquél, se incluyan en alguna de las siguientes categorías:
+a) El suelo considerado como urbano por la legislación foral de ordenación del territorio y urbanismo o el suelo establecido en el Planeamiento General Urbanístico como suelo urbanizable sectorizado, así como el resto del suelo clasificado como urbanizable a partir del momento de aprobación del instrumento urbanístico que lo sectorice.
+b) Los terrenos que, independientemente de cuál sea su clasificación urbanística, cuenten como mínimo con acceso rodado, abastecimiento de agua, evacuación de aguas y suministro de energía eléctrica o estén comprendidos en áreas consolidadas por la edificación al menos en la mitad de su superficie.
+c) Los suelos de naturaleza rústica cuyo uso agrícola haya sido desvirtuado por actuaciones contrarias al mismo, sin que ello represente alteración alguna de la naturaleza del suelo.
+d) Los suelos ocupados por las construcciones y sus anejos y los dependientes de las mismas.
+e) Los suelos ocupados por actividades de tipo industrial que se desarrollen sobre los mismos.
+3. Son terrenos de naturaleza rústica los no considerados como de naturaleza urbana conforme a lo dispuesto en el apartado anterior, no estando sujeto a este Impuesto el incremento de valor que experimenten los citados terrenos.
+4. No se producirá la sujeción al impuesto en las transmisiones de terrenos de naturaleza urbana, respecto de las cuales el sujeto pasivo acredite la inexistencia de incremento de valor, por diferencia entre los valores reales de transmisión y de adquisición del terreno.
+A estos efectos, el sujeto pasivo deberá aportar las pruebas que acrediten la inexistencia de incremento de valor.
+Para acreditar la inexistencia de incremento de valor, como valores reales de transmisión y de adquisición del terreno se tomarán los satisfechos respectivamente en la transmisión y adquisición del bien inmueble que consten en los títulos que documenten las citadas operaciones, sin que a estos efectos puedan computarse los gastos o tributos que graven dichas operaciones, o bien los comprobados por el Ayuntamiento o por la Administración tributaria a quien corresponda la gestión del impuesto que grava la transmisión del inmueble, en caso de que sean mayores a aquellos.
+Cuando la adquisición o la transmisión hubiera sido a título lucrativo se aplicarán las reglas de los párrafos anteriores, tomando por importe real de los valores respectivos aquel que conste en la correspondiente declaración del Impuesto sobre Sucesiones y Donaciones, o bien el comprobado administrativamente por el Ayuntamiento o por la Administración tributaria a quien corresponda la gestión del Impuesto que grava la transmisión en caso de que sea mayor a aquel.
+La declaración de no sujeción, realizada de conformidad con lo dispuesto en este apartado y efectuada con anterioridad a la comprobación del valor, tendrá carácter provisional. En virtud de ello, si con arreglo al valor comprobado con posterioridad, se acreditase la existencia de incremento de valor, la transmisión del terreno quedará sujeta. En ese caso, los Ayuntamientos practicarán la liquidación tributaria que corresponda.
+Por el contrario, en el supuesto de que se hubiera practicado la liquidación, si con arreglo al valor comprobado con posterioridad, se acreditase la no existencia de incremento de valor, el contribuyente tendrá derecho a obtener la devolución que proceda.
+Lo dispuesto en los dos párrafos anteriores se aplicará siempre que no hubiera prescrito, en cada caso, el derecho de los Ayuntamientos a determinar la deuda tributaria o el derecho de los contribuyentes a la devolución de los ingresos indebidos.
+A efectos de lo dispuesto en este apartado, la Administración tributaria de la Comunidad Foral comunicará a los Ayuntamientos los valores comprobados por aquella, respecto de inmuebles sitos en sus respectivos términos municipales.
+En el caso en que el valor del suelo no se encuentre desglosado, se calculará aplicando la proporción que represente en la fecha de la transmisión el valor catastral del terreno respecto del valor catastral total del bien inmueble. Esa proporción se aplicará en su caso tanto para la transmisión como para la adquisición del inmueble.
+En los supuestos en que no exista incremento de valor de los terrenos de acuerdo con lo señalado en este apartado, se mantendrá, en todo caso, la obligación de presentar la declaración regulada en el artículo 178.
+En el supuesto de que no exista incremento de valor del terreno con arreglo a lo dispuesto en este apartado, en la posterior transmisión de los inmuebles no se tendrá en cuenta el periodo anterior a su adquisición, a efectos del cómputo del número de años a lo largo de los cuales se haya puesto de manifiesto el incremento de valor de los terrenos. Lo dispuesto en este párrafo no será de aplicación en los supuestos de aportaciones o transmisiones de inmuebles que resulten no sujetas en virtud de lo dispuesto en la disposición adicional octava de la Ley Foral 26/2016, de 28 de diciembre, del Impuesto sobre Sociedades.
+Se modifica el apartado 4, con efectos para los hechos imponibles que se produzcan a partir del día 26 de octubre de 2021, por el art. único.1.1 de la Ley Foral 20/2021, de 29 de diciembre. Ref. BOE-A-2022-2068
+ Se añade un apartado 4, con efectos para los hechos imponibles que se produzcan a partir del día 15 de julio de 2017, por el art. 1 Ley Foral 19/2017, de 27 de diciembre. Ref. BOE-A-2018-804
+ Se modifica, con efectos a partir del 1 de enero de 2006, por el art. 1.12 de la Ley Foral 20/2005, de 29 de diciembre. Ref. BOE-A-2006-847
+
+### Artículo 173
+
+Artículo 173.
+1. Están exentos de este impuesto los incrementos de valor que se manifiesten a consecuencia de los actos siguientes:
+a) Las aportaciones de bienes y derechos realizadas por los cónyuges a la sociedad conyugal, las adjudicaciones que a su favor y en pago de ellas se verifiquen y las trasmisiones que se hagan a los cónyuges en pago de sus haberes comunes.
+b) Las transmisiones de toda clase de bienes por herencia, legado, dote, donación o cualquier otro título gratuito que tenga lugar entre ascendientes, descendientes y cónyuges.
+c) Las transmisiones de bienes entre cónyuges o a favor de los hijos, como consecuencia del cumplimiento de sentencias en los casos de nulidad, separación o divorcio, cualquiera que sea el régimen económico matrimonial.
+No obstante, cuando se produjeran los negocios jurídicos mencionados en las letras a) a c) anteriores, y exista un incremento de valor sujeto pero exento, aquéllos no interrumpirán el plazo de veinte años previsto en el artículo 175. En la posterior transmisión de los inmuebles se entenderá que el número de años a lo largo de los cuales se ha puesto de manifiesto el incremento de valor de los terrenos no se ha interrumpido por causa de los negocios jurídicos previstos en dichas letras. Asimismo, a efectos de lo previsto en el artículo 172.4, no se tomará como valor de adquisición el correspondiente a los mencionados negocios jurídicos, sino el que corresponda a la anterior transmisión del inmueble por otros actos.
+d) La constitución y transmisión de cualesquiera derechos de servidumbre.
+e) Las transmisiones de bienes o la constitución o transmisión de derechos reales de goce limitativos del dominio a título lucrativo a favor de las entidades a las que resulte de aplicación el régimen fiscal previsto en la Ley Foral 10/1996, de 2 de julio, reguladora del régimen tributario de las Fundaciones y de las actividades de patrocinio, o a favor de las personas y entidades beneficiarias del mecenazgo cultural a que se refiere el artículo 4 de la Ley Foral 8/2014, de 16 mayo, reguladora del mecenazgo cultural y de sus incentivos fiscales en la Comunidad Foral de Navarra.
+Para tener derecho a la exención regulada en esta letra, será preciso que tales bienes o derechos se afecten a las actividades que constituyan la finalidad específica de las entidades de la Ley Foral 10/1996, o bien a los proyectos o actividades realizados por las personas o entidades de la Ley Foral 8/2014, de 16 de mayo, que sean declarados de interés social por el departamento del Gobierno de Navarra competente en materia de cultura.
+2. Asimismo, están exentos de este impuesto los incrementos de valor correspondientes cuando la obligación de satisfacer dicho impuesto recaiga sobre las siguientes personas o entidades:
+a) La Comunidad Foral de Navarra, el Estado, las comunidades autónomas, así como sus respectivos organismos autónomos de carácter administrativo.
+b) El municipio de la imposición y demás entidades locales integradas o en las que se integre dicho municipio y sus organismos autónomos de carácter administrativo.
+c) Las entidades gestoras de la Seguridad Social y las mutualidades de previsión social reguladas en la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras.
+d) Las personas o entidades a cuyo favor se haya reconocido la exención en tratados o convenios internacionales.
+e) Los titulares de concesiones administrativas revertibles respecto de los terrenos afectos a estas.
+Se modifica el apartado 1 por el art. único.16 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Se modifica, con efectos para los hechos imponibles que se produzcan a partir del día 1 de enero de 2018, por el art. 2.1 de la Ley Foral 19/2017, de 27 de diciembre. Ref. BOE-A-2018-804
+
+### Artículo 174
+
+Artículo 174. Sujetos pasivos.
+1. Es sujeto pasivo del impuesto, en concepto de contribuyente:
+a) En las transmisiones de terrenos o en la constitución o transmisión de derechos reales de goce limitativos del dominio a título lucrativo, el adquirente del terreno o la persona a cuyo favor se constituya o transmita el derecho real de que se trate.
+b) En las transmisiones de terrenos o en la constitución o transmisión de derechos reales de goce limitativos del dominio a título oneroso, el transmitente del terreno o la persona que constituya o transmita el derecho real de que se trate.
+En los supuestos a que se refiere esta letra, tendrá la consideración de sujeto pasivo sustituto del contribuyente el adquirente del terreno o la persona a cuyo favor se constituya o transmita el derecho real de que se trate, cuando el contribuyente sea una persona física no residente en España.
+Cuando el adquirente tenga la condición de sustituto del contribuyente con arreglo a lo dispuesto en el párrafo anterior, podrá repercutir, en todo caso, al transmitente el importe del gravamen.
+2. En las transmisiones de la vivienda habitual realizadas por los deudores hipotecarios, siempre que dicha vivienda sea la única de la que el sujeto pasivo sea titular, la entidad que adquiera el inmueble tendrá la consideración de sustituto del contribuyente y no podrá repercutir a este el importe del gravamen en cualquiera de los siguientes casos:
+a) En el curso de un procedimiento judicial instado por una entidad financiera.
+b) En el supuesto de la venta extrajudicial de la vivienda por medio de notario prevista en el artículo 129 de la Ley Hipotecaria.
+c) En el caso de la dación en pago de la vivienda, derivada de acuerdos alcanzados por el deudor hipotecario con una entidad financiera como medida sustitutiva de la ejecución hipotecaria.
+d) En el resto de transmisiones de la vivienda a favor de una entidad financiera acreedora, o de sus filiales inmobiliarias, o de sociedades de gestión de activos definidas en la Ley 9/2012, de 14 de noviembre, de reestructuración y resolución de entidades de crédito.
+3. En las transmisiones de otros bienes distintos de la vivienda habitual realizadas por los deudores hipotecarios en el curso de una ejecución hipotecaria judicial o extrajudicial, en el ámbito de un procedimiento concursal, la persona o entidad que adquiera el inmueble tendrá la consideración de sustituto del contribuyente y podrá repercutir sobre éste el importe del gravamen.
+Se modifica el apartado 3, con efectos para los hechos imponibles que se produzcan a partir del día 1 de enero de 2018, por el art. 2.2 de la Ley Foral 19/2017, de 27 de diciembre. Ref. BOE-A-2018-804
+ Se modifican los apartados 1.b), 2 y 3 por el art. único.7 a 9 de la Ley Foral 29/2016, de 28 de diciembre. Ref. BOE-A-2017-2359
+ Lo dispuesto en los apartados 1.b) y 2 resultará de aplicación para los hechos imponibles producidos a partir del día 1 de enero de 2017, según establece la disposición final 2.3 de la citada ley foral.
+ Se modifica el apartado 2, con efectos para los hechos imponibles que se produzcan a partir del 11 de marzo de 2012, por el art. único.1 de la Ley Foral 1/2014, de 15 de enero. Ref. BOE-A-2014-1332
+ Se añade un apartado 2, con efectos para los hechos imponibles que se produzcan a partir del 11 de marzo de 2012, por el art. único de la Ley Foral 9/2012, de 4 de mayo. Ref. BOE-A-2012-6813
+
+### Artículo 175
+
+Artículo 175. Base imponible y cuota.
+1. La base imponible de este impuesto está constituida por el incremento del valor de los terrenos de naturaleza urbana, puesto de manifiesto en el momento del devengo y experimentado a lo largo de un periodo máximo de veinte años, y se determinará multiplicando el valor del terreno en el momento del devengo, calculado conforme a lo dispuesto en los apartados 3, 4, 5 y 6 de este artículo, por el coeficiente que corresponda al periodo de generación conforme a lo previsto en su apartado 2.
+2. El periodo de generación del incremento de valor será:
+a) Cuando se transmita la propiedad del terreno, ya sea a título oneroso o lucrativo, el número de años transcurridos desde la fecha de adquisición del terreno hasta la fecha de su transmisión.
+b) Cuando se constituya un derecho real limitativo del dominio, el número de años transcurridos desde la fecha de adquisición del terreno hasta la fecha de la constitución del derecho real.
+c) Cuando se transmita un derecho real limitativo del dominio, el número de años transcurridos desde la fecha de la adquisición del derecho hasta la fecha de su trasmisión.
+En el cómputo del número de años transcurridos se tomarán años completos, sin tener en cuenta las fracciones de año. En el caso de que el periodo de generación sea inferior a un año, se prorrateará el coeficiente anual teniendo en cuenta únicamente el número de meses completos, sin tener en cuenta las fracciones de mes.
+El coeficiente a aplicar sobre el valor del terreno en el momento del devengo, calculado conforme a lo dispuesto en este artículo, será el que corresponda de los aprobados por el ayuntamiento según el periodo de generación del incremento de valor, sin que pueda exceder de los límites siguientes:
+Coeficiente
+ Periodo de generación
+ 0,16
+ Igual o superior a 20 años.
+ 0,06
+ 19 años.
+ 0,06
+ 18 años.
+ 0,15
+ 17 años.
+ 0,25
+ 16 años.
+ 0,26
+ 15 años.
+ 0,31
+ 14 años.
+ 0,37
+ 13 años.
+ 0,42
+ 12 años.
+ 0,53
+ 11 años.
+ 0,58
+ 10 años.
+ 0,52
+ 9 años.
+ 0,47
+ 8 años.
+ 0,41
+ 7 años.
+ 0,35
+ 6 años.
+ 0,37
+ 5 años.
+ 0,35
+ 4 años.
+ 0,26
+ 3 años.
+ 0,13
+ 2 años.
+ 0,16
+ 1 año.
+ 0,06
+ Inferior a 1 año.
+Estos coeficientes máximos serán actualizados anualmente con arreglo a lo establecido en el artículo 58.2.
+Si, como consecuencia de la actualización referida en el párrafo anterior, alguno de los coeficientes aprobados por el ayuntamiento resultara ser superior al correspondiente nuevo máximo legal, se aplicará este directamente hasta que entren en vigor los nuevos coeficientes aprobados por el ayuntamiento que corrijan dicho exceso.
+3. En las transmisiones de terrenos el valor de los mismos en el momento del devengo será el valor que resulte de la aplicación de la Ponencia de Valores vigente, aun cuando aquéllos fuesen parte integrante de un bien declarado especial o no se hubiera determinado aún el valor individualizado del bien inmueble transmitido.
+No obstante lo anterior, cuando en el momento de la transmisión del terreno la Ponencia de Valores que se encuentre vigente no plasme la naturaleza urbana del mismo a los efectos de este impuesto o cuando las circunstancias urbanísticas del terreno hayan variado respecto de las contempladas en la Ponencia, se practicará una liquidación provisional conforme al valor resultante de dicha Ponencia. Una vez aprobada la nueva Ponencia de Valores en que se asigne el valor acorde con la nueva realidad urbanística del terreno en el momento del devengo, se girará la liquidación definitiva referida a la fecha de devengo del impuesto, con devolución, en su caso, del exceso satisfecho.
+A tales efectos se corregirá el valor resultante de la nueva Ponencia de Valores multiplicándolo por un coeficiente igual al cociente entre la media ponderada del valor por metro cuadrado de todos los terrenos considerados como de naturaleza urbana por la Ponencia vigente en el momento del devengo y la media ponderada por metro cuadrado asignada por la nueva Ponencia a esos mismos terrenos.
+4. En la constitución y transmisión de derechos reales de goce limitativos del dominio, el coeficiente que corresponda al periodo de generación conforme a lo previsto en el apartado 2, se aplicará sobre la parte del valor definido en el número anterior que represente, respecto del mismo, el valor de los referidos derechos calculado mediante la aplicación de las normas fijadas a efectos del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+5. En la constitución o transmisión del derecho a elevar una o más plantas sobre un edificio o terreno, o del derecho de realizar la construcción bajo suelo sin implicar la existencia de un derecho real de superficie, el coeficiente que corresponda al periodo de generación conforme a lo previsto en el apartado 2, se aplicará sobre la parte del valor definido en el apartado 3 que represente, respecto del mismo, el módulo de proporcionalidad fijado en la escritura de transmisión o, en su defecto, el que resulte de establecer la proporción entre la superficie o volumen de las plantas a construir en vuelo o subsuelo y la total superficie o volumen edificados una vez construidas aquéllas.
+6. En los supuestos de expropiación forzosa, el coeficiente que corresponda al periodo de generación conforme a lo previsto en el apartado 2 se aplicará sobre la parte del justiprecio que corresponda al valor del terreno, salvo que el valor definido en el apartado 3 fuese inferior, en cuyo caso prevalecerá este último sobre el justiprecio.
+7. Cuando, a instancia del sujeto pasivo, se constate que el importe del incremento de valor determinado de acuerdo con lo dispuesto en el artículo 172.4 es inferior al importe de la base imponible determinada con arreglo a lo dispuesto en los apartados anteriores, se tomará como base imponible el importe de dicho incremento de valor.
+Se modifican los coeficientes del apartado 2 por el art. 8.2 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+ Se modifican los coeficientes del apartado 2 por el art. 9.2 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+ Se modifican los coeficientes del apartado 2, con efectos de 1 de enero de 2023, por el art. 13.2 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+ Se modifica el apartado 2 por el art. 10.2 de la Ley Foral 19/2021, de 29 de diciembre de 2021. Ref. BOE-A-2022-2067 y se modifican los apartados 2, 6 y se añade un 7, con efectos para los hechos imponibles que se produzcan a partir del día 26 de octubre de 2021, por el art. único.1.2 y 3 de la Ley Foral 20/2021, de 29 de diciembre. Ref. BOE-A-2022-2068
+ Se modifica el apartado 2 por el art. único.17 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Se modifica el apartado 2 por el art. 11 de la Ley Foral 29/2019, de 23 de diciembre. Ref. BOE-A-2020-450
+ Se modifica el apartado 2, párrafos quinto y sexto por el art. único.5 de la Ley Foral 3/2019, de 24 de enero. Ref. BOE-A-2019-2641
+ Se modifica, con efectos para los hechos imponibles que se produzcan a partir del día 1 de enero de 2018, por el art. 2.3 de la Ley Foral 19/2017, de 27 de diciembre. Ref. BOE-A-2018-804
+ Se declara la inconstitucionalidad y nulidad de los apartados 2 y 3, pero únicamente en la medida que someten a tributación situaciones de inexistencia de incrementos de valor, por Sentencia del TC 72/2017, de 5 de junio. Ref. BOE-A-2017-8344
+ Se modifica el apartado 3, con efectos a partir del 1 de enero de 2006, por el art. 1.13 de la Ley Foral 20/2005, de 29 de diciembre. Ref. BOE-A-2006-847
+ Se declara la inconstitucionalidad y nulidad del apartado 2, en su versión original y en los términos previstos en el fundamento jurídico 4, por Sentenciadel TC 98/2025, de 28 de abril. Ref. BOE-A-2025-11312
+
+### Artículo 176
+
+Artículo 176.
+1. La cuota de este impuesto será el resultado de aplicar a la base imponible los tipos correspondientes de la escala de gravamen.
+2. La escala de gravamen será fijada por el Ayuntamiento, sin que el tipo mínimo pueda ser inferior al 8 por 100 ni el tipo máximo pueda superar el 25 por 100.
+3. Dentro de los límites señalados en el número anterior, los Ayuntamientos podrán fijar un solo tipo de gravamen, o uno para cada uno de los períodos de generación del incremento de valor indicados en el cuadro comprendido en el número 2 del articulo anterior.
+Se modifica el apartado 2, con efectos para los hechos imponibles que se produzcan a partir del día 1 de enero de 2018, por el art. 2.4 de la Ley Foral 19/2017, de 27 de diciembre. Ref. BOE-A-2018-804
+
+### Artículo 177
+
+Artículo 177. Devengo.
+1. El impuesto se devenga;
+a) Cuando se transmita la propiedad del terreno, ya sea a título oneroso o gratuito, entre vivos o por muerte, en la fecha de la transmisión.
+b) Cuando se constituya o transmita cualquier derecho real de goce limitativo del dominio, en la fecha en que tenga lugar la constitución o transmisión.
+2. Cuando se declare o reconozca judicial o administrativamente por resolución firme haber tenido lugar la nulidad, rescisión o resolución del acto o contrato determinante de la transmisión del terreno o de la constitución o transmisión del derecho real de goce sobre el mismo, el sujeto pasivo tendrá derecho a la devolución del impuesto satisfecho, siempre que dicho acto o contrato no le hubiere producido efectos lucrativos y que reclame la devolución en el plazo de cinco años desde que la resolución quedó firme, entendiéndose que existe efecto lucrativo cuando no se justifique que los interesados deban efectuar las recíprocas devoluciones a que se refieren la Ley 506 y concordantes del Fuero Nuevo de Navarra y el artículo 1.295 del Código Civil. Aunque el acto o contrato no haya producido efectos lucrativos, si la rescisión o resolución se declarase por incumplimiento de las obligaciones del sujeto pasivo del impuesto, no habrá lugar a devolución alguna.
+3. Si el contrato queda sin efecto por mutuo acuerdo de las partes contratantes, no procederá la devolución del impuesto satisfecho y se considerará como un acto nuevo sujeto a tributación. Como tal mutuo acuerdo se estimará la avenencia en acto de conciliación y el simple allanamiento a la demanda.
+4. En los actos o contratos en que media alguna condición, su calificación se hará con arreglo a las prescripciones contenidas en el Fuero Nuevo de Navarra. Si fuese suspensiva no se liquidará el impuesto hasta que ésta se cumpla. Si la condición fuese resolutoria, se exigirá el impuesto desde luego, a reserva, cuando la condición se cumpla, de hacer la oportuna devolución según la regla del número anterior.
+
+### Artículo 178
+
+Artículo 178. Gestión.
+1. Los contribuyentes o, en su caso, los sustitutos de éstos, vendrán obligados a presentar ante el Ayuntamiento correspondiente una declaración que contenga los elementos de la relación tributaria imprescindibles para practicar la liquidación procedente.
+2. Dicha declaración deberá ser presentada en los siguientes plazos a contar desde la fecha en que se produzca el devengo del impuesto:
+a) Cuando se trate de actos entre vivos, el plazo será de dos meses.
+b) Cuando se trate de actos por causa de muerte, el plazo será de seis meses prorrogables hasta un año a solicitud del sujeto pasivo.
+3. A la declaración se acompañará el documento en el que consten los actos o contratos que originan la imposición.
+4. (Suprimido).
+5. Las liquidaciones del impuesto se notificarán íntegramente a los sujetos pasivos con indicación del plazo de ingreso y expresión de los recursos procedentes.
+6. Con independencia de lo dispuesto en el apartado 1 de este artículo, está igualmente obligado a comunicar al Ayuntamiento la realización del hecho imponible, en los mismos plazos que los sujetos pasivos:
+a) El donante o la persona que constituya o transmita el derecho real de que se trate, en los supuestos contemplados en la letra a) del artículo 174.1 de esta ley foral, siempre que se hayan producido por negocio jurídico entre vivos.
+b) El adquirente o la persona a cuyo favor se constituya o transmita el derecho real de que se trate, en los supuestos contemplados en la letra b) del citado artículo.
+7. Asimismo, los Notarios estarán obligados a remitir al Ayuntamiento respectivo, dentro de la primera quincena de cada trimestre, relación o índice comprensivo de todos los documentos por ellos autorizados en el trimestre anterior, en los que se contengan hechos, actos o negocios jurídicos que pongan de manifiesto la realización del hecho imponible de este impuesto, con excepción de los actos de última voluntad. También estarán obligados a remitir, dentro del mismo plazo, relación de los documentos privados, comprensivos de los mismos hechos, actos o negocios jurídicos, que les hayan sido presentados para conocimiento o legitimación de firmas. Lo previsto en este número se entiende sin perjuicio del deber general de colaboración establecido en el artículo 62 de esta Ley Foral.
+Se suprime el apartado 4 y se modifica el apartado 5, con efectos para los hechos imponibles que se produzcan a partir del día 1 de enero de 2018, por el art. 2.5 y 6 de la Ley Foral 19/2017, de 27 de diciembre. Ref. BOE-A-2018-804
+ Se declara la inconstitucionalidad y nulidad del apartado 4, pero únicamente en la medida que somete a tributación situaciones de inexistencia de incrementos de valor, por Sentencia del TC 72/2017, de 5 de junio. Ref. BOE-A-2017-8344
+ Se modifica el apartado 6 por el art. único.10 de la Ley Foral 29/2016, de 28 de diciembre. Ref. BOE-A-2017-2359
+ Lo dispuesto en el apartado 6 resultará de aplicación para los hechos imponibles producidos a partir del día 1 de enero de 2017, según establece la disposición final 2.3 de la citada ley foral.
+
+## CAPÍTULO VII
+
+Impuesto sobre gastos suntuarios
+
+### Artículo 179
+
+Artículo 179. Naturaleza y hecho imponible.
+El impuesto sobre gastos suntuarios es un tributo directo que grava:
+a) El importe de las ganancias privadas obtenidas como consecuencia de apuestas cruzadas en espectáculos públicos.
+b) Ei aprovechamiento de los cotos privados de caza y pesca, cualquiera que sea la forma de explotación y disfrute de dicho aprovechamiento.
+Se deroga la letra c) por el art. único.18 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 180
+
+Artículo 180. Sujetos pasivos.
+Son sujetos pasivos de este impuesto:
+a) El ganador de las apuestas, teniendo el carácter de sustituto el organizador de las mismas.
+b) Los titulares de los cotos o las personas a las que corresponda por cualquier título el aprovechamiento de caza o pesca en el momento de devengarse el impuesto. Tendrá la condición de sustituto del contribuyente, el propietario de los bienes acotados, a cuyo efecto podrá exigir del titular del aprovechamiento el importe del impuesto para hacerlo efectivo al municipio en cuyo término radique el coto de caza, pesca o la mayor parte de él.
+Se deroga la letra c) por el art. único.19 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 181
+
+Artículo 181. Base imponible.
+1. La base imponible de este impuesto está constituida por:
+a) En las apuestas, el importe de las ganancias brutas, sin deducción de pérdidas ni de comisiones, excepto en las denominadas traviesas hechas con intervención de agentes o de cobradores, en cuyo caso la base será únicamente el importe de las apuestas ganadoras.
+b) En el disfrute de cotos privados de caza y pesca, el valor del aprovechamiento cinegético o piscícola. Los Ayuntamientos, con sujeción al procedimiento establecido para la aprobación de las ordenanzas fiscales, fijarán el valor de dichos aprovechamientos, determinados mediante tipos o módulos que atiendan a la clasificación de fincas en distintos grupos, según su rendimiento medio por unidad de superficie.
+2. Para el establecimiento de los grupos de clasificación y del valor asignable a las rentas cinegéticas o piscícolas de cada uno de ellos por unidad de superficie a que se refiere el apartado b) del número anterior, se tendrán en cuenta las siguientes normas:
+a) A efectos de su rendimiento medio en piezas de caza por unidad de superficie, los cotos privados de caza mayor y menor se clasificarán en los cuatro grupos siguientes:
+Caza mayor
+Grupo I: Una res por cada 100 hectáreas o inferior.
+Grupo II: Más de una y hasta dos reses por cada 100 hectáreas.
+Grupo III: Más de dos y hasta tres reses por cada 100 hectáreas.
+Grupo IV: Más de tres reses por cada 100 hectáreas.
+Caza menor
+Grupo I: 0,30 piezas por hectárea o inferior.
+Grupo II: Más de 0,30 y hasta 0,80 piezas por hectárea.
+Grupo III: Más de 0,80 y hasta 1,50 piezas por hectárea.
+Grupo IV: Más de 1,50 piezas por hectárea.
+b) Los valores asignables a la renta cinegética por unidad de superficie de cada uno de estos grupos serán los siguientes:
+Caza mayor
+Grupo I: 85 pesetas por hectárea.
+Grupo II: 175 pesetas por hectárea.
+Grupo III: 300 pesetas por hectárea.
+Grupo IV: 500 pesetas por hectárea.
+Caza menor
+Grupo I: 75 pesetas por hectárea.
+Grupo II: 150 pesetas por hectárea.
+Grupo III: 300 pesetas por hectárea.
+Grupo IV: 500 pesetas por hectárea.
+c) En aquellos cotos privados clasificados en los distintos grupos de caza mayor o caza menor, según sea su aprovechamiento principal, pero que, a su vez, también se aprovechen las especies de caza menor o mayor, respectivamente, el valor asignable a su renta cinegética será el correspondiente a su grupo de clasificación incrementado en 50 pesetas por hectárea.
+d) Para los cotos privados de caza menor de menos de 250 hectáreas de superficie, el valor asignable a la renta cinegética por el total de su extensión cualquiera que sea ésta no podrá ser inferior a 50.000 pesetas.
+e) Por lo que se refiere a los cotos privados de pesca, la Administración de la Comunidad Foral, a petición de los Ayuntamientos interesados, determinará el valor de la renta piscícola por unidad de superficie asignable a cada uno de ellos.
+f) Los valores asignables a la renta cinegética o piscícola de los cotos privados de caza y pesca a que se ha hecho referencia serán revisables como mínimo cada cinco años.
+Se deroga la letra c) del apartado 1 por el art. único.20 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 182
+
+Artículo 182. Tipo.
+El tipo del impuesto no podrá exceder de los siguientes límites:
+a) Del 15 por 100 para las apuestas cruzadas.
+b) Del 30 por 100 para el aprovechamiento de cotos privados de caza y pesca.
+Se deroga la letra c) por el art. único.21 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 183
+
+Artículo 183. Devengo.
+El impuesto se devengará:
+a) En el momento de percibir las ganancias en las apuestas cruzadas.
+b) El 31 de diciembre de cada año en los aprovechamientos de cotos privados de caza y pesca.
+Se deroga la letra c) por el art. único.22 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+## CAPÍTULO VIII
+
+Impuesto sobre Viviendas Deshabitadas
+Se modifica por el art. 2 de la Ley Foral 31/2013, de 31 de octubre. Ref. BOE-A-2013-12425
+
+### Artículo 184
+
+Artículo 184. Hecho imponible.
+El Impuesto sobre Viviendas Deshabitadas gravará la titularidad de viviendas radicadas en el término municipal que figuren en el Registro de Viviendas Deshabitadas regulado en la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra.
+Se modifica por el art. 2 de la Ley Foral 31/2013, de 31 de octubre. Ref. BOE-A-2013-12425
+
+### Artículo 185
+
+Artículo 185. Sujetos pasivos.
+Son sujetos pasivos del impuesto las personas físicas y jurídicas, las herencias yacentes, las comunidades de bienes y demás entidades que, aun carentes de personalidad jurídica, constituyen una unidad económica o un patrimonio separado, que sean:
+a) Titulares del derecho de propiedad de viviendas deshabitadas sobre las que no recaigan derechos reales de goce o disfrute.
+b) Titulares de un derecho real de goce o disfrute sobre viviendas deshabitadas, cuando aquél no corresponda al propietario.
+Se modifica por el art. 2 de la Ley Foral 31/2013, de 31 de octubre. Ref. BOE-A-2013-12425
+
+### Artículo 186
+
+Artículo 186. Exenciones.
+1. Estarán exentas del impuesto:
+a) Las viviendas cuyos titulares sean funcionarios públicos que desempeñen sus funciones fuera de la localidad en que esté enclavada la vivienda, de conformidad con la legislación que les sea de aplicación.
+b) Las viviendas cuyos titulares sean trabajadores desplazados temporalmente a población distinta de la de su residencia habitual por razones técnicas, organizativas o de producción, o bien por contrataciones referidas a la actividad empresarial, o cuando los trabajadores estén sujetos a movilidad geográfica.
+c) Aquellas viviendas que hayan sido puestas a disposición de la Administración Pública (Nasuvinsa o la entidad que corresponda) para ser utilizadas como alquiler social.
+2. En todo caso, la exención alcanzará a una sola vivienda.
+Se modifica por el art. 2 de la Ley Foral 31/2013, de 31 de octubre. Ref. BOE-A-2013-12425
+
+### Artículo 187
+
+Artículo 187. Base imponible.
+La base imponible del impuesto será la vigente para la exacción de la contribución territorial.
+Se modifica por el art. 2 de la Ley Foral 31/2013, de 31 de octubre. Ref. BOE-A-2013-12425
+ Se suprime la lectra c) del apartado 1, con efectos a partir del 1 de enero de 2013, por el art. único.16 de la Ley Foral 10/2013, de 12 de marzo. Ref. BOE-A-2013-3674
+
+### Artículo 188
+
+Artículo 188. Cuota.
+1. La cuota de este impuesto será el resultado de aplicar a la base imponible el tipo de gravamen.
+2. El tipo de gravamen deberá estar comprendido entre el 0,25 y el 0,50 por 100 para el primer año, entre el 0,50 y el 1 por 100 para el segundo año y el 1,5 por 100 para el tercer año y sucesivos en que la vivienda figure en el Registro de Viviendas Deshabitadas. Los tipos de gravamen serán únicos para todo el término municipal.
+Se modifica el apartado 2 por el art. 2.6 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. 2 de la Ley Foral 31/2013, de 31 de octubre. Ref. BOE-A-2013-12425
+
+### Artículo 189
+
+Artículo 189. Devengo.
+1. El impuesto se devengará por primera vez cuando se dicte la resolución correspondiente declarando la vivienda como deshabitada.
+2. Posteriormente, el impuesto se devengará el primer día de cada año mientras la vivienda figure en alta en el Registro de Viviendas Deshabitadas.
+3. Las cuotas serán semestrales, por semestres naturales, y dentro de los mismos, íntegras e irreducibles.
+4. Los sujetos pasivos podrán solicitar, mediante la tramitación del oportuno expediente, la devolución de la parte proporcional de las cuotas relativas al período de devengo del impuesto desde el momento en que las viviendas fueron ocupadas.
+Se modifica por el art. 2 de la Ley Foral 31/2013, de 31 de octubre. Ref. BOE-A-2013-12425
+
+### Artículo 190
+
+Artículo 190. Censo de viviendas deshabitadas.
+1. Para la exacción del impuesto, los Ayuntamientos deberán mantener un censo de viviendas deshabitadas.
+2. A los efectos de lo dispuesto en el número anterior, el Departamento competente comunicará de oficio a cada Ayuntamiento las altas y bajas que se produzcan en el Registro de Viviendas Deshabitadas referidas a su respectivo término municipal.
+3. Practicada el alta en el Registro, el Ayuntamiento lo notificará al titular con indicación de la base imponible y del tipo de gravamen vigente
+Se modifica por el art. 2 de la Ley Foral 31/2013, de 31 de octubre. Ref. BOE-A-2013-12425
+
+### Artículo 191
+
+Artículo 191. Gestión del impuesto.
+La gestión del impuesto se realizará por las mismas normas que la contribución territorial, practicándose las liquidaciones y la emisión de los documentos de cobro correspondientes conjuntamente.
+Se modifica por el art. 2 de la Ley Foral 31/2013, de 31 de octubre. Ref. BOE-A-2013-12425
+
+## TÍTULO III
+
+Presupuesto y gasto público
+
+## CAPÍTULO I
+
+De los presupuestos generales
+
+## Sección 1
+
+Sección 1.ª Contenido y aprobación de los presupuestos
+
+### Artículo 192
+
+Artículo 192.
+Los presupuestos generales de las entidades locales constituyen la expresión cifrada, conjunta y sistemática de las obligaciones que, como máximo, pueden reconocer la entidad local y sus organismos autónomos, y de los derechos que prevean liquidar durante el correspondiente ejercicio, así como de las previsiones de ingresos y gastos de las sociedades mercantiles cuyo capital social pertenezca íntegramente a la entidad local correspondiente.
+
+### Artículo 193
+
+Artículo 193.
+El ejercicio presupuestario coincidirá con el año natural y a él se imputarán:
+a) Los derechos liquidados en el mismo, cualquiera que sea el período del que deriven.
+b) Las obligaciones reconocidas durante el mismo.
+
+### Artículo 194
+
+Artículo 194.
+Las entidades locales elaborarán y aprobarán anualmente un Presupuesto General único en el que se integrarán:
+a) El presupuesto de la propia entidad, en el que se incluirán todos los servicios dependientes de la misma que no tengan personalidad jurídica independiente.
+b) Los de los organismos autónomos locales dependientes de la misma.
+c) Los estados de previsión de gastos e ingresos de las sociedades mercantiles cuyo capital social pertenezca íntegramente a la entidad local.
+
+### Artículo 195
+
+Artículo 195.
+1. El Presupuesto General contendrá para cada uno de los presupuestos que en él se integren:
+a) Los estados de gastos, en los que se incluirán, con la debida especificación, los créditos necesarios para atender al cumplimiento de las obligaciones.
+b) Los estados de ingresos, en los que figurarán las estimaciones de los distintos recursos económicos a liquidar durante el ejercicio.
+2. Cada uno de los presupuestos que se integren en el Presupuesto General, deberá aprobarse sin déficit inicial.
+Se modifica por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 196
+
+Artículo 196.
+1. El presupuesto general podrá incluir bases de ejecución del mismo, que contendrán la adaptación de las disposiciones generales en materia presupuestaria a la organización y circunstancias de la propia entidad, así como aquellas otras necesarias para su acertada gestión, estableciendo cuantas prevenciones se consideren oportunas o convenientes para la mejor realización de los gastos y recaudación de los recursos sin que puedan modificar lo legislado para la administración económica ni comprender preceptos de orden administrativo que requieran legalmente procedimientos y solemnidades específicas distintas de lo preceptuado para el presupuesto.
+2. Las bases de ejecución del presupuesto de cada ejercicio podrán remitirse a los reglamentos o normas de carácter general dictadas por el Pleno.
+
+### Artículo 197
+
+Artículo 197.
+Los recursos de las entidades locales y de cada uno de sus organismos autónomos y sociedades mercantiles se destinarán a satisfacer el conjunto de sus respectivas obligaciones, salvo en el caso de ingresos específicos afectados a fines determinados.
+
+### Artículo 198
+
+Artículo 198.
+Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos por su importe íntegro, quedando prohibido atender obligaciones mediante minoración de los derechos a liquidar o ya ingresados. No tendrán carácter de minoración, a estos efectos, la devolución de ingresos indebidos.
+
+### Artículo 199
+
+Artículo 199.
+1. En el expediente del Presupuesto General se incluirán los siguientes Anexos:
+a) Los programas anuales de actuación, inversiones y financiación de las sociedades mercantiles de cuyo capital social sea titular único o partícipe mayoritario la entidad local.
+b) El estado de consolidación del Presupuesto de la propia entidad con el de todos los Presupuestos de sus organismos autónomos y Estados de previsión de las sociedades mercantiles de cuyo capital social sea titular único la entidad local.
+c) Los planes de inversión y sus programas de financiación que, en su caso y para un plazo de cuatro años, pueda formular la entidad local.
+d) Los estados de previsión de gastos e ingresos de las sociedades mercantiles en cuyo capital sea mayoritaria, no íntegra, la participación de la entidad local.
+2. Las especificaciones relativas a la confección y contenido de dichos anexos se desarrollará por vía reglamentaria.
+Se modifica el apartado 1 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 200
+
+Artículo 200.
+1. El Gobierno de Navarra de conformidad con el artículo 269 de la Ley Foral de Administración Local, establecerá con carácter general la estructura de los Presupuestos de las entidades locales teniendo en cuenta la naturaleza económica de los ingresos y de los gastos, las finalidades u objetivos que con estos últimos se propongan conseguir y de acuerdo con los criterios que se establecen en los siguientes números de este artículo.
+Sin perjuicio de lo anterior, el Gobierno de Navarra podrá establecer un régimen especial para determinadas entidades en las que, en razón de la naturaleza de sus funciones, o por la concurrencia de especiales circunstancias de índole económica o administrativa, hagan aconsejable una simplificación de la estructura presupuestaria aplicable.
+2. Las entidades locales podrán clasificar los gastos e ingresos atendiendo a su propia estructura de acuerdo con sus reglamentos de organización.
+3. La clasificación por programas y económica de la estructura del presupuesto de gastos responderá a los siguientes criterios:
+a) La clasificación por programas constará de tres niveles. El primero relativo al área de gasto, el segundo a la política de gasto y el tercero al grupo de programa Esta clasificación podrá ampliarse en uno o dos niveles, relativos al programa y subprograma respectivamente.
+b) La clasificación económica constará de tres niveles, el primero relativo al capítulo, el segundo al artículo y el tercero al concepto. Esta clasificación podrá ampliarse en uno o dos niveles.
+4. La aplicación presupuestaria cuya expresión cifrada constituye el crédito presupuestario vendrá definida, al menos, por la conjunción de las clasificaciones por programas y económica.
+En el caso de que la entidad local opte por utilizar la clasificación orgánica, esta integrará, así mismo, la aplicación presupuestaria.
+El control contable de los gastos se realizará sobre la aplicación presupuestaria, y el fiscal, sobre el nivel de vinculación jurídica, tal y como se establece en el artículo 208.
+Se modifican los apartados 3 y 4 por el art. único.23 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Se modifican los apartados 1 y 4 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 201
+
+Artículo 201.
+1. El presupuesto de la entidad local será formado por su Presidente asistido del Secretario y del Interventor, formando parte de este presupuesto la siguiente documentación complementaria.
+a) Memoria explicativa de su contenido y de las principales modificaciones que presente en relación con el vigente.
+b) Liquidación del presupuesto del ejercicio anterior y avance de la del corriente, referido al menos, a seis meses del mismo, suscritos una y otro por la Intervención.
+c) Anexo del personal de la entidad local en el que se incluya el personal funcionario y laboral, temporal y fijo, con indicación de las fechas de inicio y terminación de los contratos y las previsiones de vacantes a cubrir y de nuevas contrataciones, al objeto de poder obtener las oportunas correlaciones con los créditos para personal incluidos en el proyecto de Presupuestos.
+d) Anexo de las inversiones a realizar en el ejercicio.
+e) Un informe económico-financiero suscrito por la Intervención, en el que se expongan las bases utilizadas para la evaluación de los ingresos y de las operaciones de crédito previstas, la suficiencia de los créditos para atender el cumplimiento de las obligaciones exigibles y los gastos de funcionamiento de los servicios y, en consecuencia, la efectiva nivelación del presupuesto.
+En relación con las operaciones de crédito, se incluirá en el informe, además de su importe, el detalle de las características y condiciones financieras de todo orden en que se prevean concertar y se hará una especial referencia a la carga financiera que pese sobre la entidad antes y después de su formalización.
+2. El presupuesto de cada uno de los organismos autónomos integrante del General, propuesto inicialmente por el órgano competente de los mismos, será remitido a la entidad local de la que dependan antes del 15 de septiembre de cada año, formando parte de este presupuesto la documentación detallada en el número anterior.
+3. Las sociedades mercantiles que pertenezcan íntegra o mayoritariamente a la entidad local, remitirán a ésta, antes del día 15 de septiembre de cada año, sus previsiones de gastos e ingresos, así como los programas anuales de actuación, inversiones y financiación para el ejercicio siguiente.
+4. El Presupuesto General, así formado, será remitido por el Presidente, previo informe de la Secretaría e Intervención al Pleno de la corporación antes del día 1 de noviembre para su aprobación, enmienda o devolución.
+5. El acuerdo de aprobación, que será único, habrá de detallar los presupuestos que integran el presupuesto general, sin que puedan prever déficit inicial y no pudiendo aprobarse ninguno de ellos separadamente.
+Se modifican los apartados 1, 2, 4 y 5 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 202
+
+Artículo 202.
+1. Aprobado inicialmente el presupuesto por el Pleno, se expondrá en la Secretaría por período de quince días hábiles, previo anuncio en el «Boletín Oficial de Navarra» y en el tablón, a fin de que los vecinos o interesados puedan examinar el expediente y formular las reclamaciones que estimen pertinentes.
+Si se formularan reclamaciones, el Pleno adoptará acuerdo expreso relativo a la resolución de aquéllas y a la aprobación definitiva del presupuesto.
+Si no se hubiesen formulado reclamaciones, el presupuesto se entenderá aprobado definitivamente, una vez transcurrido el período de exposición pública señalado en el párrafo primero.
+2. La aprobación definitiva del presupuesto general por el Pleno de la Corporación habrá de realizarse antes del día 31 de diciembre del año anterior al del ejercicio en que deba aplicarse.
+3. El presupuesto general, definitivamente aprobado, será insertado en el «Boletín Oficial de la Corporación», si lo tuviere, y, resumido por capítulos de cada uno de los presupuestos que lo integran, en el de Navarra.
+4. El presupuesto entrará en vigor una vez publicado en la forma prevista en el número anterior.
+5. Las entidades locales de Navarra deberán remitir a la Administración de la Comunidad Foral, en el plazo de 15 días siguientes a la aprobación definitiva, copia del Presupuesto General, junto con la documentación complementaria que reglamentariamente se determine.
+Se modifica el apartado 5 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 202 bis
+
+Artículo 202 bis.
+Los acuerdos definitivos aprobatorios de los presupuestos por la corporación tendrán plena eficacia ejecutiva respecto a la exacción de los ingresos previstos y la ordenación de los gastos consignados, sin perjuicio de los recursos que legalmente procedan contra los mismos.
+Se añade por el art. 17 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 203
+
+Artículo 203.
+1. Si al iniciarse el ejercicio económico no hubiese entrado en vigor el presupuesto correspondiente, se considerará automáticamente prorrogado el del anterior. La prórroga no afectará a los créditos para servicios o programas que deban concluirse en el ejercicio anterior o que estén financiados con créditos u otros ingresos específicos o afectados que exclusivamente fueran a percibirse en dicho ejercicio.
+2. En tanto no se apruebe el presupuesto definitivo, el prorrogado podrá ser objeto de cualquiera de las modificaciones previstas por esta Ley.
+3. Aprobado el presupuesto definitivo, deberán efectuarse los ajustes necesarios para dar cobertura, en su caso, a las operaciones efectuadas durante la vigencia del presupuesto prorrogado.
+
+### Artículo 204
+
+Artículo 204.
+1. Contra la aprobación definitiva del presupuesto podrán interponerse los recursos a que se refiere el número 1 del artículo 333 de la Ley 6/1990, de 2 de julio.
+2. Están legitimados para entablar recursos contra el presupuesto, además de los que lo estén para impugnar los actos o acuerdos de las entidades locales de Navarra:
+a) Los residentes en el territorio de la respectiva entidad local.
+b) Los Colegios Oficiales, Cámaras Oficiales, Sindicatos, Asociaciones y demás entidades legalmente constituidas para velar por intereses profesionales o económicos, cuando actúen en defensa de ellos.
+3. Únicamente podrán entablarse recursos contra los presupuestos:
+a) Por no haberse ajustado su elaboración y aprobación a la Ley.
+b) Por omitir el crédito necesario para el cumplimiento de obligaciones exigibles a la entidad local, en virtud de precepto legal o de cualquier otro título legítimo o consignarse para el de atenciones que no sean de competencia de aquélla.
+c) Por ser de manifiesta insuficiencia los ingresos con relación a los gastos presupuestados: o bien de éstos respecto a las necesidades para las que estén previstos.
+
+### Artículo 205
+
+Artículo 205.
+Cuando el objeto de los recursos afecte o haga referencia a la nivelación de los presupuestos de las entidades locales, su resolución deberá ir precedida de un dictamen de la Cámara de Comptos de Navarra, que lo emitirá en el plazo de dos meses conforme a lo dispuesto en su Ley Foral reguladora.
+
+## Sección 2
+
+Sección 2.ª De los créditos presupuestarios y sus modificaciones
+
+### Artículo 206
+
+Artículo 206.
+Los créditos para gastos se destinarán exclusivamente a la finalidad específica para la cual hayan sido aprobados en el Presupuesto General de la entidad local o por sus modificaciones debidamente aprobadas.
+Se modifica por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 207
+
+Artículo 207.
+1. Los créditos aprobados tienen carácter limitativo y vinculante.
+2. No podrán autorizarse o adquirirse compromisos de gasto en cuantía superior al importe de los créditos aprobados en los estados de gastos, siendo nulos de Pleno derecho los acuerdos, resoluciones y actos administrativos que infrinjan la expresada norma, sin perjuicio de las responsabilidades a que haya lugar.
+Se modifica por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 208
+
+Artículo 208.
+1. El cumplimiento de las limitaciones expresadas en los artículos anteriores deberá verificarse al nivel en que se establezca en cada caso la vinculación jurídica de los créditos.
+2. En las bases de ejecución del presupuesto se podrá establecer la vinculación de los créditos para gastos en los niveles de desarrollo por programas, económico y en su caso orgánico, que la entidad local considere necesarios para su adecuada gestión.
+3. Las entidades locales que hagan uso de la facultad recogida en el apartado anterior deberán respetar, en todo caso, las siguientes limitaciones en cuanto a los niveles de vinculación:
+a) Respecto de la clasificación por programas, el área de gasto.
+b) Respecto de la clasificación económica, el capítulo.
+Se modifican los apartados 2 y 3 por el art. único.24 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 209
+
+Artículo 209.
+1. Las obligaciones de pago sólo serán exigibles de la Hacienda Local cuando resulten de la ejecución de sus respectivos presupuestos con los límites señalados en el artículo anterior, o de sentencia judicial firme.
+2. Los Tribunales, Jueces y autoridades administrativas no podrán despachar mandamientos de ejecución ni dictar providencias de embargo contra los derechos, fondos, valores y bienes de la Hacienda Local con exclusión, en los términos previstos en el apartado 4 de este artículo, de los bienes patrimoniales que no se hallen materialmente afectados a un uso o servicio público, ni exigir fianzas, depósitos y cauciones a las entidades locales.
+3. El cumplimiento de las resoluciones judiciales que determinen obligaciones a cargo de las entidades locales o de sus organismos autónomos corresponderá exclusivamente a las mismas, sin perjuicio de las facultades de suspensión o inejecución de sentencias previstas en las Leyes.
+4. Cuando el cumplimiento de resolución de autoridad o Tribunal implicase abono de cantidades para el que no fuera posible allegar recursos por cualquiera de las vías presupuestarias normales, podrá la entidad local acordar el fraccionamiento de su pago hasta un máximo de cinco anualidades, consignándose en los respectivos presupuestos el principal más los intereses de demora al tipo de interés establecido con carácter general para los débitos a la Hacienda Foral de Navarra.
+De no acordarse el fraccionamiento de pago por la entidad local, o si acordado se incumpliesen por ésta las condiciones previstas para el mismo en el párrafo anterior, podrá acudirse para el debido cumplimiento de la resolución judicial al embargo de sus bienes patrimoniales que no se hallen materialmente afectados a un uso o servicio público.
+Se modifican los apartados 2 y 4 por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Artículo 210
+
+Artículo 210.
+1. Con cargo a los créditos del estado de gastos de cada presupuesto sólo podrán contraerse obligaciones derivadas de adquisiciones, obras, servicios y demás prestaciones o gastos en general que se realicen en el año natural del propio ejercicio presupuestario.
+2. No obstante lo dispuesto en el número anterior, se aplicarán a los créditos del presupuesto vigente, en el momento de su reconocimiento, las obligaciones siguientes:
+a) Las que resulten de la liquidación de atrasos a favor del personal que perciba sus retribuciones con cargo a los Presupuestos Generales de la entidad local.
+b) Las derivadas de compromisos de gastos debidamente adquiridos en ejercicios anteriores, previa incorporación de los créditos en el supuesto establecido en el artículo 219.5.
+c) Excepcionalmente, las correspondientes a ejercicios anteriores, previo acuerdo de crédito extraordinario o suplemento de crédito por el Pleno.
+Se modifica el apartado 2 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 210 bis
+
+Artículo 210 bis.
+1. Las entidades locales navarras podrán iniciar la tramitación de expedientes de gastos de forma anticipada a la existencia del correspondiente crédito presupuestario, en el mismo ejercicio o en el anterior a aquél a cuyo presupuesto vayan a ser imputados.
+El inicio del expediente se acompañará necesariamente de un informe de Intervención que refleje expresamente el carácter anticipado del gasto y su sometimiento a la condición suspensiva de la existencia de crédito adecuado y suficiente.
+2. En todo caso, los pliegos o condicionados de cláusulas administrativas particulares, las convocatorias de las subvenciones o los documentos que, según la naturaleza del gasto, resulten necesarios deberán contener prevención expresa de que el gasto cuya tramitación se anticipa y, en su caso, la adjudicación o resolución quedan sometidos a la condición suspensiva de la existencia de crédito adecuado y suficiente para financiar las obligaciones de que se trate en el ejercicio correspondiente.
+Se añade por el art. único.25 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 211
+
+Artículo 211.
+Los créditos para gastos que el último día del ejercicio presupuestario no estén afectados al cumplimiento de obligaciones ya reconocidas quedarán anulados de pleno derecho, sin más excepciones que las señaladas en el artículo 219 de esta Ley.
+
+### Artículo 212
+
+Artículo 212.
+Cuando haya de realizarse algún gasto que no pueda demorarse hasta el ejercicio siguiente, y no exista en el Presupuesto de la corporación crédito o sea insuficiente o no pueda ser objeto de ampliación el consignado, el Presidente de la misma ordenará la incoación del expediente de concesión de crédito extraordinario, en el primer caso, o de suplemento de crédito, en el segundo.
+Se modifica por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 213
+
+Artículo 213.
+1. Los créditos extraordinarios y suplementos de crédito se podrán financiar indistintamente con alguno o algunos de los siguientes recursos:
+a) Con cargo al remanente líquido de tesorería.
+b) Con nuevos ingresos que se prevea recibir en el ejercicio o con mayores ingresos efectivamente recaudados sobre los totales previstos en el presupuesto corriente.
+c) Mediante anulaciones o bajas de créditos de otras aplicaciones presupuestarias del presupuesto vigente no comprometidas, cuyas dotaciones se estimen reducibles sin perturbación del respectivo servicio.
+2. Los créditos extraordinarios y los suplementos de crédito para gastos de inversión podrán financiarse, además de con los recursos indicados en el número anterior, con los procedentes de operaciones de crédito.
+3. Siempre que se reconozca por el Pleno de la entidad local la insuficiencia de otros medios de financiación, y mediante acuerdo adoptado por mayoría absoluta, se considerarán recursos efectivamente disponibles para financiar nuevos o mayores gastos por operaciones corrientes que sean expresamente declarados necesarios y urgentes, los procedentes de operaciones de crédito en que se den conjuntamente las siguientes condiciones:
+a) Que su importe total anual no supere el 5 por 100 de los recursos por operaciones corrientes del presupuesto de la entidad.
+b) Que las operaciones queden canceladas antes de que se proceda a la renovación de la Corporación que las concierte.
+4. Excepcionalmente y hasta el momento de aprobación de la liquidación del presupuesto del ejercicio anterior, se podrá financiar con recursos no utilizados del ejercicio anterior las modificaciones necesarias para atender los nuevos o mayores gastos. Será preceptivo informe de Intervención sobre la efectiva disponibilidad de la financiación.
+Se modifica el apartado 1 y se añade el apartado 4 por el art. único.26 y 27 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 214
+
+Artículo 214.
+1. Los expedientes de concesión de créditos extraordinarios y suplementos de crédito serán incoados por orden del Presidente de la Corporación y, previo informe de la intervención, sometidos a la aprobación del Pleno de la Corporación.
+2. Cuando las bases de ejecución del Presupuesto así lo establezcan, el acuerdo inicial adoptado por el Pleno para la concesión de los citados créditos será sometido a exposición pública en el tablón de anuncios de la Corporación por un plazo de quince días naturales con el fin de que los vecinos o interesados puedan presentar las reclamaciones o alegaciones que estimen oportunas.
+Transcurrido dicho plazo, y si no se hubiesen formulado reclamaciones o alegaciones, el acuerdo de aprobación inicial se entenderá aprobado definitivamente, entrando en vigor una vez transcurrido el período de exposición pública.
+Si se formularan reclamaciones o alegaciones, el Pleno deberá adoptar acuerdo expreso relativo a la resolución de aquellas y a la aprobación definitiva de la modificación propuesta, que entrará en vigor una vez publicado el texto definitivo en el tablón de anuncios de la entidad local.
+En ausencia de previsión al efecto en las bases de ejecución, la tramitación y aprobación de los expedientes por el Pleno se realizará con sujeción a los mismos trámites y requisitos sobre información, reclamación y publicidad que los presupuestos.
+3. Los acuerdos de las entidades locales que tengan por objeto la concesión de créditos extraordinarios o suplementos de crédito, en casos de calamidad pública o de naturaleza análoga, serán inmediatamente ejecutivos sin perjuicio de las reclamaciones que contra los mismos se promuevan, las cuales deberán sustanciarse dentro de los ocho días naturales siguientes a la presentación, entendiéndose desestimadas de no notificarse su resolución al recurrente dentro de dicho plazo.
+Se modifican los apartados 2 y 3 por el art. único.28 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 215
+
+Artículo 215.
+1. No obstante, lo dispuesto en el artículo 208 de esta Ley, tendrán la condición de ampliables aquellos créditos que de modo taxativo y debidamente explicitados se relacionen en las bases de ejecución del presupuesto o acto de aprobación, previo cumplimiento de los requisitos exigidos en este artículo y en función de la efectividad de los recursos afectados no procedentes de operaciones de crédito.
+2. En los expedientes de ampliación de crédito habrán de especificarse los medios o recursos que han de financiar el mayor gasto, lo que deberá acreditarse con el reconocimiento en firme de mayores derechos sobre los previstos en el presupuesto de ingresos que se encuentren afectados al crédito que se pretende ampliar.
+3. Únicamente pueden declararse ampliables aquellas partidas presupuestarias que correspondan a gastos financiados con recursos expresamente afectados.
+
+### Artículo 216
+
+Artículo 216.
+1. Las bases de ejecución del presupuesto deberán establecer el régimen de las transferencias de crédito y el órgano competente para autorizarlas en cada caso.
+2. La aprobación de las transferencias de crédito entre distintas áreas de gasto será, en todo caso, competencia del Pleno de la Corporación, salvo cuando las bajas y las altas afecten a créditos de personal.
+3. Las modificaciones presupuestarias a que se refiere el presente artículo, cuando sean competencia del Pleno, se tramitarán conforme a lo previsto en el artículo 214.2 de la presente ley foral.
+Se modifican los apartados 2 y 3 por el art. único.29 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 217
+
+Artículo 217.
+1. Las transferencias de crédito de cualquier clase estarán sujetas a las siguientes limitaciones:
+a) No afectarán a los créditos ampliables ni a los extraordinarios concedidos durante el ejercicio.
+b) No podrán minorarse los créditos que hayan sido incrementados con suplementos o transferencias, salvo cuando afecten a créditos de personal, ni los créditos incorporados como consecuencia de remanentes no comprometidos procedentes de presupuestos cerrados.
+c) No incrementarán créditos que como consecuencia de otras transferencias hayan sido objeto de minoración, salvo cuando afecten a créditos de personal.
+2. Las anteriores limitaciones no afectarán a las transferencias de crédito que se refieran a los programas de imprevistos y funciones no clasificadas, ni serán de aplicación cuando se trate de créditos modificados como consecuencia de reorganizaciones administrativas aprobadas por el Pleno.
+3. Los acuerdos de las entidades locales que tengan por objeto la aprobación de transferencias de crédito entre distintas áreas de gasto, en casos de calamidad pública o de naturaleza análoga, serán inmediatamente ejecutivos sin perjuicio de las reclamaciones que contra los mismos se promuevan, las cuales deberán sustanciarse dentro de los ocho días naturales siguientes a la presentación, entendiéndose desestimadas de no notificarse su resolución al recurrente dentro de dicho plazo.
+Se añade el apartado 3 por el art. único.30 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 218
+
+Artículo 218.
+1. Podrán generar crédito en los estados de gastos de los presupuestos los ingresos de naturaleza no tributaria derivados de las siguientes operaciones:
+a) Aportaciones o compromisos firmes de aportación, de personas físicas o jurídicas para financiar, en su totalidad o juntamente con la entidad local o con alguno de sus organismos autónomos, gastos que por su naturaleza estén comprendidos en los fines u objetivos de los mismos.
+b) Enajenación de bienes de la entidad local o de sus organismos autónomos.
+c) Prestación de servicios.
+d) Reembolsos de préstamos.
+2. En las bases de ejecución del presupuesto se regulará la tramitación de los expedientes de generación de créditos.
+Se modifica el apartado 1 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 219
+
+Artículo 219.
+1. No obstante, lo dispuesto en el artículo 211, podrán ser incorporados a los correspondientes créditos de los presupuestos de gastos del ejercicio inmediato siguiente, siempre que existan para ello los suficientes recursos financieros, los remanentes de crédito no utilizados procedentes de:
+a) Los créditos extraordinarios y los suplementos de créditos, así como las transferencias de crédito que hayan sido concedidos o autorizados, respectivamente, en el último trimestre del ejercicio.
+b) Los créditos que amparen compromisos de gasto del ejercicio anterior a que hace referencia el artículo 210.2.b) de esta Ley.
+c) Los créditos por operaciones de capital.
+d) Los créditos autorizados en función de la efectiva recaudación de los derechos afectados.
+2. No serán incorporabas los créditos declarados no disponibles ni los remanentes de créditos ya incorporados en el ejercicio precedente.
+3. La tramitación de los expedientes de incorporación de créditos deberá regularse en las bases de ejecución del presupuesto o acuerdo plenario.
+4. Los remanentes incorporados, según lo previsto en el número 1 podrán ser aplicados tan sólo dentro del ejercicio presupuestario al que la incorporación se acuerde y, en el supuesto del apartado a) de dicho número, para los mismos gastos que motivaron en cada caso su concesión y autorización.
+5. No obstante, los remanentes de crédito que amparen proyectos financiados con ingresos afectados deberán incorporarse obligatoriamente sin que les sean aplicables las reglas de limitación en el número de ejercicios, salvo que se desista total o parcialmente de iniciar o continuar la ejecución del gasto, o que se haga imposible su realización. Asimismo, serán incorporables durante el periodo de tiempo que transcurra hasta la aprobación de la liquidación del presupuesto del ejercicio anterior.
+6. Excepcionalmente y hasta el momento de aprobación de la liquidación del presupuesto del ejercicio anterior, se podrán incorporar los créditos no utilizados descritos en el apartado 1 del presente artículo, financiados, entre otros, con recursos no utilizados del ejercicio anterior. Será preceptivo informe de intervención sobre la efectiva existencia del crédito y la disponibilidad de la financiación.
+Se modifica el apartado 5 y se añade el apartado 6 por el art. único.31 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 219 bis
+
+Artículo 219 bis.
+Todas las modificaciones de créditos presupuestarios necesariamente tendrán que ser informadas por quien ejerza las funciones de intervención.
+Se añade por el art. 17 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## CAPÍTULO II
+
+Ejecución y liquidación
+
+## Sección 1
+
+Sección 1.ª Ejecución de gastos
+
+### Artículo 220
+
+Artículo 220.
+1. La gestión de los presupuestos de gastos de las entidades locales y de sus organismos autónomos se realizará en las siguientes fases:
+a) Autorización del gasto.
+b) Disposición o compromiso del gasto.
+c) Reconocimiento y liquidación de la obligación.
+d) Ordenación del pago.
+2. Las entidades locales establecerán en las bases de ejecución del presupuesto las normas que regulan el procedimiento de ejecución de los presupuestos de gastos en el marco definido por las Leyes.
+
+### Artículo 221
+
+Artículo 221.
+1. Dentro del importe de los créditos aprobados en los presupuestos corresponderá la autorización y disposición de los gastos al Presidente o al Pleno de la entidad de acuerdo con la atribución de competencias que establezca la normativa vigente.
+2. Corresponderá al Presidente de la Corporación el reconocimiento y liquidación de las obligaciones derivadas de compromisos de gastos legalmente adquiridos.
+3. Las facultades a que se refieren los apartados anteriores podrán desconcentrarse o delegarse en los términos previstos en la legislación general.
+4. En los organismos autónomos, las facultades indicadas en los apartados 1 y 2 se ejercerán en los términos expuestos anteriormente, correspondiendo a los órganos de los mismos a los que sus Estatutos atribuyan dichas competencias.
+Competen al Presidente de la entidad local, o al órgano que tenga estatutariamente atribuida la función en los organismos autónomos dependientes, la funciones de la ordenación de pagos.
+Se modifican los apartados 1 y 4 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 222
+
+Artículo 222.
+1. Un mismo acto administrativo podrá abarcar más de una de las fases de ejecución del presupuesto de gastos enumeradas en el artículo 220.
+2. Las entidades locales deberán establecer en las bases de ejecución del presupuesto los supuestos en que, atendiendo a la naturaleza de los gastos y a criterios de economía y agilidad administrativa, se acumulen varias fases en un solo acto administrativo.
+
+### Artículo 223
+
+Artículo 223.
+1. Las órdenes de pago cuyos documentos justificativos no puedan acompañarse en el momento de su expedición, tendrán el carácter de «a justificar» y se aplicarán a los correspondientes créditos presupuestarios.
+2 Para las atenciones de carácter periódico o repetitivo, los fondos librados a justificar podrán tener el carácter de anticipos de caja fija. Los perceptores de estos fondos quedarán obligados a justificar la aplicación de las cantidades percibidas a lo largo del ejercicio presupuestario en que se constituya el anticipo, y en todo caso, antes del cierre del ejercicio presupuestario, quedando sujetos al régimen de responsabilidades que establece esta Ley Foral.
+3. Las bases de ejecución del presupuesto establecerán, previo informe de la Intervención, las normas que regulen la expedición de órdenes de pago a justificar y anticipos de caja fija con cargo a los Presupuestos de gastos, determinando los criterios generales, los límites cuantitativos y los conceptos presupuestarios a que sean aplicables.
+
+## Sección 2
+
+Sección 2.ª Gastos de carácter plurianual
+
+### Artículo 224
+
+Artículo 224.
+1. La autorización y el compromiso de los gastos de carácter plurianual se subordinarán al crédito que para cada ejercicio se consigne en los respectivos presupuestos.
+2. Corresponde la autorización y disposición de los gastos plurianuales al órgano competente por la materia de que se trate.
+Se modifica el apartado 2 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 225
+
+Artículo 225.
+1. Podrán adquirirse compromisos de gastos con carácter plurianual en alguno de los casos siguientes:
+a) Inversiones y transferencias de capital.
+b) Gastos en bienes y servicios cuya contratación, no pueda ser estipulada o resulte antieconómica, por plazo de un año.
+c) Arrendamiento de bienes inmuebles.
+d) Cargas financieras del endeudamiento.
+2. El número de ejercicios a que pueden aplicarse los gastos referidos en los apartados a) y b) del número anterior no será superior a cuatro.
+3. En casos excepcionales el Pleno de la entidad podrá ampliar el número de anualidades señaladas en el punto anterior.
+Se modifican los apartados 1 y 2 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 226
+
+Artículo 226.
+Previamente a la autorización de gastos con imputación a ejercicios futuros, la Intervención deberá emitir un informe comprensivo de las repercusiones económico-financieras del gasto plurianual a autorizar así como, en su caso, la correlación del mismo con los planes de inversión y programas de financiación señalados en el artículo 199.1.c).
+
+## Sección 3
+
+Sección 3.ª Liquidación de los presupuestos
+
+### Artículo 227
+
+Artículo 227.
+1. El cierre y liquidación de los presupuestos de la entidad local y de los organismos autónomos de ella dependientes se efectuará, en cuanto a la recaudación de derechos y el pago de obligaciones, el 31 de diciembre del año natural.
+2. Corresponderá al Presidente de la entidad local, previo informe de Intervención, la aprobación antes del 31 de marzo de la liquidación de los presupuestos de la entidad local y de los organismos autónomos de ella dependientes, previa aprobación en este último caso por el órgano competente.
+3. Las entidades locales remitirán dicha liquidación debidamente aprobada a la Administración de la Comunidad Foral, en el plazo de los quince días hábiles siguientes a su aprobación.
+Se modifica el apartado 2 y se añade el apartado 3 por el art. único.32 y 33 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 228
+
+Artículo 228.
+Los derechos liquidados pendientes de cobro y las obligaciones reconocidas pendientes de pago quedarán a cargo de la Tesorería de la entidad local.
+
+### Artículo 229
+
+Artículo 229.
+1. Las obligaciones reconocidas y liquidadas no satisfechas el último día del ejercicio, los derechos pendientes de cobro y los fondos líquidos a 31 de diciembre configurarán el remanente de tesorería de la entidad local.
+2. La cuantificación del remanente de tesorería deberá realizarse teniendo en cuenta los posibles ingresos afectados y minorando de acuerdo con lo que reglamentariamente se establezca los derechos pendientes de cobro que se consideren de difícil o imposible recaudación.
+
+### Artículo 230
+
+Artículo 230.
+1. En caso de liquidación del presupuesto con remanente de Tesorería negativo, el Pleno de la Corporación o el órgano competente del organismo autónomo, según corresponda, deberán proceder, en la primera sesión que celebren, a la reducción de gastos del nuevo presupuesto por cuantía igual al déficit producido. La expresada reducción sólo podrá revocarse por acuerdo del Pleno, a propuesta del Presidente, y previo informe del Interventor, cuando el desarrollo normal del presupuesto y la situación de la tesorería lo consintiesen.
+2. Si la reducción de gastos no resultase posible, se podrá acudir al concierto de una operación de crédito por su importe, siempre que la cancelación de la misma quede establecida para antes de la renovación de la Corporación.
+3. De no adoptarse ninguna de las medidas previstas en los dos números anteriores, el presupuesto del ejercicio siguiente habrá de aprobarse con un superávit virtual de cuantía no inferior al mencionado déficit.
+
+## CAPÍTULO III
+
+De la tesorería de las entidades locales
+
+### Artículo 231
+
+Artículo 231.
+1. Constituyen la tesorería de las entidades locales todos los recursos financieros, sean dinero, valores o créditos, tanto por operaciones presupuestarias como extrapresupuestarias.
+2. Los preceptos contenidos en este capítulo serán de aplicación, asimismo, a los organismos autónomos.
+3. Las disponibilidades de la tesorería y sus variaciones quedarán sujetas a intervención y al régimen de la contabilidad pública.
+4. Las entidades locales podrán concertar los servicios financieros de su tesorería con entidades de crédito y ahorro.
+5. Las entidades locales podrán autorizar la existencia de cajas de efectivo para los fondos de las operaciones diarias. El funcionamiento de estas cajas deberán regularse mediante normas que apruebe la Corporación.
+6. Las entidades locales podrán dictar reglas especiales para el ingreso del producto de la recaudación de los recursos, que podrán realizarse en las cajas de efectivo o en las entidades de crédito colaboradoras, mediante efectivo, transferencias, cheques o cualquier otro medio o documento de pago, sean o no bancarios, que se establezcan.
+Podrán asimismo, pagar sus obligaciones por cualquiera de los medios a que se refiere el párrafo anterior.
+Se añade el apartado 6 por el art. 17 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 232
+
+Artículo 232.
+Son funciones encomendadas a la tesorería de las entidades locales:
+a) Recaudar los derechos y pagar las obligaciones.
+b) Servir al principio de unidad de caja, mediante la centralización de todos los fondos y valores generados por operaciones presupuestarias y extrapresupuestarias.
+c) Distribuir en el tiempo las disponibilidades dinerarias para la puntual satisfacción de las obligaciones.
+d) Responder de los avales contraídos.
+e) Realizar las demás que se deriven o relacionen con las anteriormente enumeradas.
+
+## CAPÍTULO IV
+
+De la contabilidad
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 233
+
+Artículo 233.
+1. Las entidades locales y sus organismos autónomos quedan sometidos al régimen de contabilidad pública en los términos establecidos en esta Ley Foral.
+2. Las sociedades mercantiles en cuyo capital tengan participación total o mayoritaria las entidades locales estarán igualmente sometidas al régimen de contabilidad pública, sin perjuicio de que se adapten a las disposiciones del Código de Comercio y restante legislación mercantil y al Plan General de Contabilidad vigente para las empresas españolas.
+3. La sujeción al régimen de contabilidad pública conlleva la obligación de rendir cuentas de las respectivas operaciones, cualquiera que sea su naturaleza, a la Cámara de Comptos.
+
+### Artículo 234
+
+Artículo 234.
+El ejercicio contable se ajustará al ejercicio presupuestario.
+
+### Artículo 235
+
+Artículo 235.
+1. Corresponderá al Gobierno de Navarra a propuesta del Departamento de Administración Local:
+a) Aprobar las normas contables de carácter general a las que tendrá que ajustarse la organización de la contabilidad de las entidades locales y sus organismos autónomos.
+b) Aprobar el Plan General de Cuentas para las entidades locales, conforme al Plan General de Contabilidad Pública.
+c) Establecer los libros o registros que, como regla general y con carácter obligatorio, deban llevarse.
+d) Determinar la estructura y justificación de las cuentas, estados y demás documentos relativos a la contabilidad pública.
+2. Asimismo, la Administración de la Comunidad Foral de Navarra establecerá regímenes simplificados para aquellas entidades locales que por sus características así lo requieran.
+
+### Artículo 236
+
+Artículo 236.
+1. A la intervención de las entidades locales le corresponde llevar y desarrollar la contabilidad y el seguimiento de la ejecución de los presupuestos de acuerdo con las normas generales y las dictadas por el Pleno de la Corporación.
+2. Asimismo, competerá a la intervención el control y supervisión de la contabilidad de los organismos autónomos y de las sociedades mercantiles dependientes de la entidad local, de acuerdo con los procedimientos que establezca el Pleno.
+
+### Artículo 237
+
+Artículo 237.
+La contabilidad de las entidades locales estará organizada al servicio de los siguientes fines:
+a) Establecer el balance de la entidad local, poniendo de manifiesto la composición y situación de su patrimonio, así como sus variaciones.
+b) Determinar los resultados desde un punto de vista económico-patrimonial.
+c) Determinar los resultados analíticos poniendo de manifiesto el coste y rendimiento de los servicios.
+d) Registrar la ejecución de los presupuestos generales de la entidad, poniendo de manifiesto los resultados presupuestarios.
+e) Registrar los movimientos y situación de la tesorería local.
+f) Proporcionar los datos necesarios para la formación de la cuenta general de la entidad.
+g) Facilitar la información necesaria para la confección de estadísticas económico-financieras por la Administración de la Comunidad Foral y de las Administraciones Públicas competentes.
+h) Facilitar los datos y demás antecedentes que sean precisos para la confección de las cuentas económicas del sector público.
+i) Rendir la información económica y financiera que sea necesaria para la toma de decisiones.
+j) Hacer posible el ejercicio de los controles de legalidad, financiero y de eficacia.
+k) Posibilitar el inventario y el control de inmovilizado material, inmaterial y financiero, el control del endeudamiento y el seguimiento individualizado de la situación deudora o acreedora de los interesados que se relacionen con la entidad local.
+l) Facilitar la información que sea necesaria para el ejercicio de la función fiscalizadora de la Cámara de Comptos.
+
+### Artículo 238
+
+Artículo 238.
+1. La contabilidad pública se llevará en libros, registros y cuentas según los procedimientos técnicos que sean más convenientes por la índole de las operaciones y de las situaciones que en ellos deban anotarse, de forma que facilite el cumplimiento de los fines señalados en el artículo anterior.
+2. En los citados libros, registros y cuentas, se contabilizarán la totalidad de los actos u operaciones con repercusión financiera, patrimonial o económica en general.
+
+### Artículo 239
+
+Artículo 239.
+La intervención de la entidad local remitirá al Pleno de la misma, por conducto de la Presidencia, información de la ejecución de los presupuestos y demás aspectos contables que el Pleno demande, en los plazos y con la periodicidad que aquél establezca.
+
+## Sección 2
+
+Sección 2.ª Estados y cuentas anuales de las entidades locales
+
+### Artículo 240
+
+Artículo 240.
+Las entidades locales, a la terminación del ejercicio presupuestario, formarán y elaborarán los estados y cuentas anuales que se regulan en esta sección, los cuales comprenderán todas las operaciones presupuestarias, patrimoniales y de tesorería llevadas a cabo durante el ejercicio.
+
+### Artículo 241
+
+Artículo 241.
+1. Las entidades locales formarán una Cuenta General que estará integrada por:
+a) La de la propia entidad.
+b) La de los organismos autónomos.
+c) Las de las sociedades mercantiles de capital íntegramente propiedad de las mismas.
+2. La estructura y contenido de los estados y cuentas a que se refiere el artículo anterior, así como la de los anexos que hayan de acompañarlos, se establecerá reglamentariamente.
+3. Podrán establecerse modelos de cuenta general simplificada para aquellas entidades locales que por sus características así lo requieran.
+4. Las entidades locales unirán a la Cuenta General, en su caso, los estados integrados y consolidados de las distintas cuentas que reglamentariamente se determinen.
+Se añade el apartado 4 por el art. 17 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 242
+
+Artículo 242.
+1. Los estados y cuentas de la entidad local serán formados por su Presidente antes del día 30 de abril del ejercicio siguiente al que correspondan. Los de los organismos autónomos, sociedades mercantiles cuyo capital pertenezca íntegra o mayoritariamente a aquella, u otros entes dependientes de la entidad local, rendidos y propuestos inicialmente por los órganos competentes de los mismos, serán remitidos a la entidad local en el mismo plazo.
+2. La cuenta general formada por la intervención, será sometida por el Presidente de la corporación antes del día 1 de junio a informe de la Comisión especial de cuentas de la entidad local, que estará constituida por miembros de los distintos grupos políticos integrantes de la Corporación.
+3. La cuenta general con el informe de la Comisión especial a que se refiere el número anterior será expuesta al público en el tablón de anuncios de la Corporación por plazo de quince días hábiles, durante los cuales los interesados podrán presentar las reclamaciones o alegaciones que estimen oportunas. Examinadas éstas por la Comisión especial y practicadas por la misma cuantas comprobaciones estime necesarias, emitirá nuevo informe.
+4. Acompañada de los informes de la Comisión especial y de las reclamaciones y reparos formulados, la cuenta general se someterá al Pleno de la Corporación, para que, en su caso, pueda ser aprobada antes del día 1 de septiembre.
+5. Las entidades locales remitirán la cuenta general debidamente aprobada a la Administración de la Comunidad Foral en el plazo de quince días siguientes a la aprobación
+Se modifica el apartado 1 por el art. único.34 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 242 bis
+
+Artículo 242 bis.
+1. La elaboración, aprobación y ejecución de los presupuestos y demás actuaciones que afecten a los gastos o ingresos de las entidades locales de Navarra y de sus entes dependientes se realizará en un marco de estabilidad presupuestaria y sostenibilidad financiera, coherente con la normativa foral, estatal, y europea.
+2. Para la aplicación de la Regla de Gasto, la variación interanual de los gastos no financieros definidos en términos del Sistema Europeo de Cuentas Nacionales y Regionales, excluidos los intereses de la deuda y la parte del gasto financiado con fondos finalistas procedentes de la Unión Europea, de otras Administraciones Públicas, de la gestión urbanística u otros de carácter finalista, no podrá superar la tasa de referencia de crecimiento del Producto Interior Bruto de medio plazo de la economía española.
+Se añade por el art. único.35 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+### Artículo 242 ter
+
+Artículo 242 ter.
+1. En caso de incumplimiento al cierre del ejercicio del objetivo de estabilidad presupuestaria, del objetivo de deuda pública o de la regla de gasto, la administración incumplidora formulará un plan económico-financiero que permita en el año en curso y el siguiente el cumplimiento de los objetivos o de la regla de gasto.
+2. En el caso de que el incumplimiento del objetivo de estabilidad presupuestaria se deba a la financiación de gastos con Remanente de Tesorería, se sustituirá el plan económico-financiero por una comunicación del órgano que ejerza las funciones de Intervención al Pleno de la Corporación constatando tal circunstancia, junto con un análisis y evaluación del incumplimiento y de la sostenibilidad financiera de la Corporación Local. Se actuará del mismo modo en el caso de que el incumplimiento se derive de la ejecución de proyectos de gasto con desviaciones de financiación anuales negativas.
+3. Aquellas entidades que no cumplan la regla de gasto podrán sustituir el plan por una comunicación al Pleno del órgano que ejerza las funciones de Intervención, en el que se analice, evalúe y acredite la sostenibilidad financiera de la entidad, siempre y cuando liquiden el presupuesto del ejercicio al que se refiera el incumplimiento con remanente de tesorería para gastos generales y ahorro neto positivo y cumplan los objetivos de déficit y deuda pública para el siguiente ejercicio.
+4. En los supuestos contemplados en los apartados 2 y 3 del presente artículo, el acta de la sesión del Pleno, junto con el informe del órgano de Intervención y demás documentación que sirva de soporte, será remitido al órgano de tutela financiera quien, en el plazo de 30 días desde su recepción, podrá requerir la información adicional que considere precisa, así como la adopción de medidas complementarias, entre las que podrá encontrarse la exigencia de elaboración de un plan económico-financiero, en garantía de la sostenibilidad financiera de la entidad local. Transcurrido el plazo señalado sin que por parte del órgano de tutela financiera se haya adoptado resolución expresa, se entenderá que no se precisa la adopción de medidas complementarias.
+Se añade por el art. único.36 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+
+## CAPÍTULO V
+
+Control y fiscalización
+
+### Artículo 243
+
+Artículo 243.
+Se ejercerán en las entidades locales, con la extensión y efectos que se determina en los artículos siguientes, las funciones de control interno respecto de la gestión económica de las mismas, de los organismos autónomos y de las sociedades mercantiles de ellas dependientes, en su triple acepción de función interventora, función de control financiero y función de control de eficacia.
+
+### Artículo 244
+
+Artículo 244.
+1. La función interventora tendrá por objeto fiscalizar todos los actos de las entidades locales y de sus organismos autónomos que den lugar al reconocimiento y liquidación de derechos y obligaciones o gastos de contenido económico, los cobros y pagos que de aquellos se deriven y la recaudación, inversión y aplicación, en general, de los caudales públicos administrados, con el fin de que la gestión se ajuste a las disposiciones aplicables en cada caso.
+2. El ejercicio de la expresada función comprenderá:
+a) La intervención crítica o previa de todo acto, documento o expediente susceptible de producir derechos u obligaciones de contenido económico o movimiento de fondos o valores.
+b) La intervención formal de la ordenación del pago.
+c) La intervención material del pago.
+d) La intervención y comprobación material de las inversiones y de la aplicación de las subvenciones.
+Se modifica el apartado 2 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 245
+
+Artículo 245.
+1. Si en el ejercicio de su función interventora el órgano interventor se manifestase en desacuerdo con el fondo o con la forma de los actos, documentos o expedientes examinados, deberá formular sus reparos por escrito antes de la adopción del acuerdo o resolución.
+2. Cuando la disconformidad se refiera al reconocimiento o liquidación de derechos a favor de las entidades locales o sus organismos autónomos, la oposición se formalizará en nota de reparo que, en ningún caso, suspenderá la tramitación del expediente.
+3. Si el reparo afecta a la disposición de gastos, reconocimiento de obligaciones u ordenación de pagos, se suspenderá la tramitación del expediente hasta que aquél sea solventado en los siguientes casos:
+a) Cuando se base en la insuficiencia de crédito o el propuesto no sea adecuado.
+b) Cuando se aprecien graves irregularidades en la documentación justificativa de las órdenes de pago o no hubieran sido fiscalizados los actos que dieron origen a las mismas.
+c) En los casos de omisión en el expediente de requisitos o trámites esenciales del expediente.
+d) Cuando el reparo derive de comprobaciones materiales de obras, suministros, adquisiciones y servicios.
+
+### Artículo 246
+
+Artículo 246.
+1. Cuando el órgano a que afecte el reparo no esté de acuerdo con el mismo, corresponderá al Presidente de la entidad local resolver la discrepancia, siendo su resolución ejecutiva. Esta facultad no será delegable en ningún caso.
+2. No obstante, lo dispuesto en el número anterior, corresponderá al Pleno la resolución de la discrepancia cuando los reparos:
+a) Se basen en insuficiencia o inadecuación de crédito.
+b) Se refieran a obligaciones o gastos cuya aprobación sea de su competencia.
+3. El órgano interventor elevará informe al Pleno de todas las resoluciones adoptadas por el Presidente de la entidad local contrarias a los reparos efectuados, así como un resumen de las principales anomalías detectadas en materia de ingresos.
+4. En las bases de ejecución o, a falta de éstas, en el acuerdo del Pleno que se adoptará en el momento de aprobación del Presupuesto, se establecerá el procedimiento de presentación al pleno de los informes de reparos señalados en los números 2 y 3 de este artículo.
+
+### Artículo 247
+
+Artículo 247.
+Los ordenadores de gastos y de pagos, en todo caso, y el personal que desempeñe las funciones de intervención, cuando no adviertan por escrito su improcedencia, serán personalmente responsables de todo gasto que autoricen y de toda obligación que reconozcan, liquiden o paguen sin crédito suficiente.
+Se modifica por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 248
+
+Artículo 248.
+1. No estarán sometidos a intervención previa los gastos de material no inventariable, los derivados de los contratos para los que la legislación foral que los regula no exige para su tramitación más documento que la correspondiente factura, así como los de carácter periódico y demás de tracto sucesivo, una vez intervenido el gasto correspondiente al periodo inicial del acto o contrato del que deriven o sus modificaciones.
+2. El Pleno podrá acordar, a propuesta del Presidente y previo informe del órgano interventor, que la intervención previa se limite a comprobar los siguientes extremos:
+a) La existencia de crédito presupuestario y que el propuesto es el adecuado a la naturaleza del gasto u obligación que se proponga contraer, así como el cumplimiento de lo preceptuado en los artículos 224 y siguientes en los casos en que se trate de contraer compromisos de gastos de carácter plurianual.
+b) Que las obligaciones o gastos se proponen por órgano competente.
+c) Aquellos otros extremos que, por su trascendencia en el proceso de gestión, se determinen por el Pleno.
+El órgano interventor podrá formular las observaciones complementarias que considere convenientes, sin que las mismas tengan, en ningún caso, efectos suspensivos en la tramitación de los expedientes correspondientes.
+3. Las obligaciones o gastos sometidos a la fiscalización limitada a que se refiere el número 2 de este artículo serán objeto de otra plena con posterioridad, ejercida sobre una muestra representativa de los actos, documentos o expedientes que dieron origen a la referida fiscalización, mediante la aplicación de técnicas de muestreo o auditoría, con el fin de verificar que se ajustan a las disposiciones aplicables en cada caso y determinar el grado de cumplimiento de la legalidad en la gestión de los créditos.
+Los órganos de control interno que realicen las fiscalizaciones con posterioridad deberán emitir informe escrito en el que hagan constar cuantas observaciones y conclusiones se deduzcan de las mismas. El Presidente de la corporación remitirá al Pleno estos informes, así como las observaciones que hubieran efectuado los órganos gestores.
+4. Las entidades locales podrán determinar mediante acuerdo del Pleno, la sustitución de la fiscalización previa de derechos por la inherente a la toma de razón en contabilidad y por actuaciones comprobatorias posteriores mediante la utilización de técnicas de muestreo o auditoría.
+5. El Gobierno de Navarra determinará reglamentariamente los supuestos en los que las entidades locales podrán acogerse a un régimen de control interno simplificado, así como las características del mismo.
+Se modifica el apartado 2 y se añade el apartado 5 por el art. único.37 y 38 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
+ Se modifica el apartado 1 por el art. 16 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 249
+
+Artículo 249.
+1. El control financiero tendrá por objeto comprobar el funcionamiento en el aspecto económico-financiero de los servicios de las entidades locales, de sus organismos autónomos y de las sociedades mercantiles de ellas dependientes.
+2. Dicho control tendrá por objeto enjuiciar la adecuada presentación de la información financiera, el cumplimiento de las normas y directrices que sean de aplicación y el grado de eficiencia en la consecución de los objetivos previstos.
+3. El control financiero se realizará por procedimientos de auditoría de acuerdo con las normas de auditoría del Sector Público.
+4. Como resultado del control efectuado habrá de emitirse informe escrito en el que se haga constar cuantas observaciones y conclusiones se deduzcan del examen practicado. Los informes, conjuntamente con las alegaciones efectuadas por el órgano auditado, serán enviados al Pleno para su examen.
+
+### Artículo 250
+
+Artículo 250.
+El control de eficacia tendrá por objeto la comprobación periódica del grado de cumplimiento de los objetivos, así como el análisis del coste de funcionamiento y del rendimiento de los respectivos servicios o inversiones.
+
+### Artículo 251
+
+Artículo 251.
+Los funcionarios que tengan a su cargo la función interventora, los controles financieros y de eficacia, ejercerán su función con plena independencia y podrán recabar cuantos antecedentes consideren necesarios, efectuar el examen y comprobación de los libros, cuentas y documentos que consideren precisos, verificar arqueos y recuentos y solicitar de quien corresponda, cuando la naturaleza del acto, documento o expediente que deba ser intervenido lo requiera, los informes técnicos y asesoramiento que estimen necesarios.
+
+### Artículo 252
+
+Artículo 252.
+La fiscalización externa de las cuentas y de la gestión económica de las entidades locales y de todos los organismos y sociedades de ellas dependientes se realizará por la Cámara de Comptos, de conformidad con lo dispuesto en el título noveno, capítulo II, sección cuarta de la Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra, sin perjuicio de las actuaciones a que haya lugar en relación con la materia, de acuerdo con el ordenamiento jurídico vigente.
+
+## CAPÍTULO VI
+
+De las responsabilidades
+
+### Artículo 253
+
+Artículo 253.
+1. En los procedimientos para el reintegro a las Haciendas locales en los casos de alcance, desfalcos y malversaciones de fondos y efectos o faltas en los mismos, cualquiera que sea su denominación, será de aplicación lo previsto en la Ley Foral 8/1988, de 26 de diciembre, de la Hacienda Pública de Navarra(*), correspondiendo al Presidente de la corporación la instrucción de las diligencias previas, adopción de medidas de aseguramiento y la comunicación a través de la Cámara de Comptos al Tribunal de Cuentas.
+2. Cuando en tales procedimientos los bienes embargados al funcionario o al responsable no bastaran a cubrir el desfalco o alcance y se observase que al aprobarse la fianza se valoró por cuantía superior a la que le correspondiera con arreglo a los tipos establecidos o por menor cantidad de la señalada para la garantía, se procederá solamente por la diferencia de valores que resulte de menos contra los miembros de la corporación que hubieran calificado y aprobado la fianza.
+3. El acuerdo de incoación del expediente de responsabilidad administrativa que sea procedente, así como el nombramiento de Instructor se adoptará, por el Presidente de la entidad local respectiva.
+(*) Véase la Ley Foral 13/2007, de 4 de abril, de la Hacienda pública de Navarra. Ref. BOE-A-2007-9829
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En aquellos municipios en los que se fijen, revisen y modifiquen sucesiva y no simultáneamente los valores catastrales, los Ayuntamientos respectivos podrán establecer, en los términos señalados en el artículo 139 de esta Ley Foral, tipos de gravamen de la Contribución Territorial diferenciados según se trate de bienes con nuevos valores catastrales o no.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Cuando por la prestación de un servicio o la realización de una actividad se esté exigiendo el pago de un precio público de carácter periódico, y por variación de las circunstancias en que el servicio se presta o la actividad se realiza deba exigirse el pago de una tasa, no será preciso realizar la notificación individual a que se refieren los artículos 78 y 86 de esta Ley Foral, siempre que el sujeto pasivo y la cuota de la tasa coincidan con el obligado al pago y el importe del precio público al que sustituye.
+Lo dispuesto en el párrafo anterior será de aplicación aun en el supuesto en el que la cuota de la tasa resulte incrementada respecto del importe del precio público al que sustituya, siempre que tal incremento se corresponda con una actualización del carácter general.
+Se modifica por el art. 1 de la Ley Foral 4/1999, de 2 de marzo . Ref. BOE-A-1999-8878
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Se da una nueva redacción al artículo 2 de la Ley Foral 11/1987, de 29 de diciembre, por la que se establece el Régimen Tributario de la Compañía Telefónica Nacional de España en la Comunidad Foral de Navarra, que queda redactado en los términos siguientes:
+«Artículo 2.
+ En los tributos de carácter local y en los precios públicos establecidos por las entidades locales, las deudas tributarias o contraprestaciones que por su exacción o exigencia pudieran corresponder a la Compañía Telefónica Nacional de España, se sustituyen por una compensación en metálico de periodicidad anual, salvo por los bienes de naturaleza rústica y urbana de su titularidad gravados por la Contribución Territorial, que estarán sujetos a las normas específicas reguladoras de dicho impuesto y a la normativa general tributaria de Navarra.»
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+A partir del 31 de diciembre de 1995 quedarán suprimidos cuantos beneficios fiscales estuvieren establecidos en los tributos locales, tanto de forma genérica como específica, en toda clase de disposiciones distintas de las de Régimen Local, sin que su actual vigencia pueda ser invocada respecto de ninguno de los tributos regulados en esta Ley Foral; lo anterior, se entiende sin perjuicio de lo establecido en el número 1 de la disposición transitoria segunda, en el número 2 de la disposición transitoria tercera y en el párrafo tercero de la disposición transitoria cuarta.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Además de en los supuestos expresamente recogidos en el texto articulado de esta Ley Foral, la Administración de la Comunidad Foral de Navarra y las entidades jurídicas por ella creadas para el cumplimiento de sus fines, estarán exentas, en todo caso, de las tasas por licencias de obras de la Contribución Territorial y de los impuestos que se exaccionen por las entidades locales de Navarra por las actividades, construcciones, instalaciones y obras de aquéllas, afectas a un uso o servicio público.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Las mancomunidades de planificación general, comarcas, y mancomunidades, así como las entidades jurídicas por ellas creadas para el desarrollo de sus fines estarán exentas de los tributos que exaccionen los municipios y concejos integrados en ellas.
+Se modifica por el art. 2.7 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+El Gobierno de Navarra modificará tanto la estructura de los presupuestos de las entidades locales como los criterios de clasificación con objeto de adaptarlos a los establecidos para la Administración de la Comunidad Foral en cada momento.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+El fondo de participación de las entidades locales en los impuestos de Navarra para el ejercicio de 1996, en su parte de transferencias corrientes, contendrá una línea especial, por importe de 500 millones de pesetas, que se distribuirá en relación directa a la presión fiscal municipal ejercida por los Ayuntamientos y en proporción a su población de derecho. No participarán en este reparto aquellos Ayuntamientos cuya presión fiscal, según liquidación de las cuentas municipales correspondientes al ejercicio de 1994, sea inferior a la media obtenida en los Ayuntamientos de Navarra.
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+El Gobierno de Navarra contribuirá a la financiación de los Montepíos municipales a través de las partidas que a tal efecto figuren en los Presupuestos Generales de Navarra. Sin perjuicio de esa contribución, la financiación de los Montepíos municipales será complementada a través del Fondo de Participación de las entidades locales en los impuestos de Navarra mediante la fórmula de distribución entre las entidades locales que se determine mediante ley foral.
+Asimismo, tanto el Gobierno de Navarra como las entidades locales llevarán a cabo las actuaciones y gestiones necesarias tendentes a conseguir la integración del sistema de Montepíos municipales de Navarra en el Sistema de la Seguridad Social.
+Se modifica por el art. 2.8 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Disposición adicional décima
+
+Disposición adicional décima.
+El Gobierno de Navarra antes del 31 de enero de 1996 deberá remitir al Parlamento el proyecto de Ley Foral al que se refiere el artículo 153.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima.
+En el plazo de un año a partir de la entrada en vigor de esta Ley Foral el Gobierno de Navarra, previos los estudios pertinentes acerca de los resultados globales obtenidos de la aplicación de la Ley Foral 15/1989, de 13 de noviembre, reguladora de la cooperación económica del Gobierno de Navarra para el Saneamiento de las Haciendas Locales, de la incidencia en el conjunto de la financiación de las Haciendas Locales de Navarra derivada de esta Ley Foral, así como de la implantación del Plan General de Contabilidad Pública, elevará al Parlamento de Navarra un proyecto de Ley para la adecuación de la cooperación económica del Gobierno con los entes locales adaptado a la nueva situación de financiación pública local que ahora se establece.
+
+### Disposición adicional undécima bis
+
+Disposición adicional undécima bis. Régimen Presupuestario, económico-financiero, de contabilidad, de intervención, control financiero y control de eficacia del municipio de Pamplona.
+El régimen presupuestario, económico-financiero, de contabilidad, de intervención, control financiero y control de eficacia del municipio de Pamplona, será el previsto en el título X de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, con las peculiaridades de esta ley foral.
+Se añade por el art. único.6 de la Ley Foral 3/2019, de 24 de enero. Ref. BOE-A-2019-2641
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Transmisión a la entidad pública empresarial Administrador de Infraestructuras Ferroviarias (ADIF) de la titularidad de la red ferroviaria del Estado cuya administración tiene encomendada.
+Las transmisiones de infraestructuras ferroviarias y de estaciones que se efectúen a la entidad pública empresarial ADIF como consecuencia de lo establecido en el artículo 34 de la Ley 11/2013, de 26 de julio, de medidas de apoyo al emprendedor y de estímulo del crecimiento y de la creación de empleo, quedarán en todo caso exentas de cualquier tributo cuya exacción corresponda a las entidades locales de Navarra, sin que resulte aplicable lo previsto en el artículo 57.2 de esta ley foral.
+Se añade por el art. único.2 de la Ley Foral 1/2014, de 15 de enero. Ref. BOE-A-2014-1332
+ Véase la exposición de motivos y el art. único.6 de la Ley Foral 3/2019, de 24 de enero. Ref. BOE-A-2019-2641, que crea una disposición adicional 11 bis y subsana el error originado por la Ley Foral 1/2014.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Régimen Presupuestario, económico-financiero, de contabilidad, de intervención, control financiero y control de eficacia del Municipio de Pamplona.
+El régimen presupuestario, económico-financiero, de contabilidad, de intervención, control financiero y control de eficacia del Municipio de Pamplona, será el previsto en el Título X de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, con las peculiaridades de esta Ley Foral.
+Se añade por el art. 17 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Disposición adicional duodécima [sic]
+
+Disposición adicional duodécima [sic]. Transmisión a la entidad pública empresarial Administrador de Infraestructuras Ferroviarias (ADIF) de la titularidad de la red ferroviaria del Estado cuya administración tiene encomendada.
+Las transmisiones de infraestructuras ferroviarias y de estaciones que se efectúen a la entidad pública empresarial ADIF como consecuencia de lo establecido en el artículo 34 de la Ley 11/2013, de 26 de julio, de medidas de apoyo al emprendedor y de estímulo del crecimiento y de la creación de empleo, quedarán en todo caso exentas de cualquier tributo cuya exacción corresponda a las entidades locales de Navarra, sin que resulte aplicable lo previsto en el artículo 57.2 de esta ley foral.
+Se añade por el art. único.2 de la Ley Foral 1/2014, de 15 de enero. Ref. BOE-A-2014-1332
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Aprobación por los Ayuntamientos de los coeficientes y de los tipos de gravamen a aplicar en el Impuesto sobre el incremento del valor de los terrenos de naturaleza urbana.
+1. En tanto los Ayuntamientos no aprueben los coeficientes previstos en el artículo 175, se aplicarán los consignados en dicho artículo.
+2. No obstante lo dispuesto en el artículo 64, para el año 2018 los Ayuntamientos podrán aprobar los coeficientes y los tipos de gravamen con posterioridad al 1 de enero de ese año, surtiendo efectos a partir del día siguiente al de su publicación.
+Se añade, con efectos para los hechos imponibles que se produzcan a partir del día 1 de enero de 2018, por el art. 2.7 de la Ley Foral 19/2017, de 27 de diciembre. Ref. BOE-A-2018-804
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Antes del día 1 de enero de 1997, las entidades locales habrán de adoptar los acuerdos precisos de imposición y ordenación de tributos al objeto de poder exigir tasas y contribuciones especiales con arreglo a las normas contenidas en esta Ley Foral. Asimismo, y antes de la referida fecha, las respectivas Corporaciones deberán adoptar los acuerdos precisos al objeto de poder exigir precios públicos con arreglo a las normas contenidas en esta Ley Foral. Entre tanto, y hasta la fecha indicada, las entidades locales podrán continuar exigiendo tasas y contribuciones especiales con arreglo a las disposiciones contenidas en la Norma sobre la Reforma de las Haciendas Locales de Navarra y en el Reglamento que la desarrolla.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+1. Quienes a la fecha de comienzo de aplicación de la contribución territorial gocen de cualquier clase de beneficio fiscal en la contribución sobre las actividades agrícola y pecuaria o en la contribución territorial urbana, continuarán disfrutando de los mismos en aquel impuesto hasta la fecha de su extinción y, si no tuvieran término de disfrute, hasta el 31 de diciembre de 1996.
+Los edificios construidos hasta el 31 de diciembre de 1996, al amparo de la legislación de viviendas de protección oficial, gozarán de una bonificación del 50 por ciento de la cuota de contribución territorial, durante cinco años contados a partir de la fecha de terminación de la construcción.
+2. Él plazo de disfrute de la bonificación establecida en el artículo 140 de esta Ley, cuando las obras de urbanización y construcción a que se refiere el número 3 de dicho artículo se hubiesen iniciado con anterioridad al comienzo de la aplicación de la contribución territorial, se reducirá en el número de años transcurridos entre la fecha de inicio de dichas obras y la de entrada en vigor del referido impuesto.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+1. El Impuesto sobre Actividades Económicas comenzará a exigirse a partir del día 1 de enero de 1997.
+No obstante, la Administración Tributaria de la Hacienda de la Comunidad Foral de Navarra podrá iniciar, con anterioridad a esa fecha, la formación del Registro de Actividades Económicas, y a tal fin, quienes en el momento de formación del Registro ejerzan actividades gravadas por el impuesto de referencia, vendrán obligados a formalizar las correspondientes declaraciones en los plazos y términos que reglamentariamente se establezcan.
+En su caso, y para que puedan surtir efectos a partir del día 1 de enero de 1997, los Ayuntamientos deberán fijar, antes de esta fecha, los índices a aplicar sobre las cuotas mínimas contenidas en las tarifas del impuesto.
+Hasta el día 31 de diciembre de 1996, continuarán vigentes las normas para la exacción de la licencia fiscal y el Reglamento y tarifas de la contribución sobre actividades diversas, y licencia fiscal de actividades industriales, comerciales, de servicios, profesionales, artísticas y deportivas, así como los recargos existentes sobre las mismas.
+2. Quienes a la fecha de comienzo de aplicación del Impuesto sobre Actividades Económicas gocen de cualquier beneficio fiscal en la licencia fiscal de actividades industriales, comerciales, de servicios, profesionales, artísticas y deportivas continuarán disfrutando de los mismos en aquel impuesto hasta la fecha de su extinción y, si no tuvieran término de disfrute, hasta el 31 de diciembre de 1997 inclusive.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+El Impuesto Sobre Vehículos de Tracción Mecánica comenzará a exigirse a partir del día 1 de enero de 1996.
+Quienes a la fecha de comienzo de aplicación del Impuesto sobre Vehículos de Tracción Mecánica gocen de cualquier clase de beneficio fiscal en el Impuesto sobre Circulación, continuarán disfrutándolo hasta el 31 de diciembre de 1996 inclusive.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+El Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana comenzará a exigirse a partir del día 1 de enero de 1997.
+Hasta el 31 de diciembre de 1996, continuará exigiéndose el Impuesto Municipal sobre el Incremento de Valor de los Terrenos. A estos efectos, el período impositivo de la modalidad b) del artículo 74.1 de la norma sobre las Haciendas Locales de Navarra, aprobado por Acuerdo del Parlamento Foral de 2 de junio de 1981, finalizará en todo caso el día 31 de diciembre de 1996 aunque no se hubieran cumplido los diez años, produciéndose, por consiguiente, en tal fecha el devengo por esta modalidad; en ese momento se practicará la correspondiente liquidación por el número de años que hayan transcurrido del decenio en curso.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+La supresión de los actuales recursos de las entidades locales a consecuencia de la aplicación de esta Ley Foral, así como la derogación de las disposiciones por las que se rigen dichos recursos se entiende sin perjuicio del derecho de aquéllas a exigir, con arreglo a las referidas disposiciones, las deudas devengadas con anterioridad.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Hasta que el Gobierno de Navarra establezca la estructura presupuestaria y realice el desarrollo normativo previsto en el título tercero de esta Ley Foral, las entidades locales continuarán rigiéndose por la normativa actual.
+El establecimiento de la estructura y el desarrollo de la normativa a que se hace referencia en el párrafo anterior deberá tener lugar en el plazo máximo de un año.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+Las entidades locales deberán adecuar sus presupuestos y contabilidad a lo preceptuado en esta Ley en el plazo de dos años contados a partir del momento de su completo desarrollo en materia presupuestaria y contable. La adecuación tendrá lugar por ejercicios completos y como máximo en el que comience el 1 de enero de 1998.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+En tanto no se adscriban a términos municipales, en los territorios que no pertenezcan a ninguno de ellos, las competencias de los Ayuntamientos previstas en esta Ley corresponderán a la Administración de la Comunidad Foral, que podrá atribuirlas a sus respectivas entidades o agrupaciones tradicionales, en cuyo caso podrán ejercerlas en los mismos términos contemplados para los Ayuntamientos.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima.
+En tanto no entre en vigor la Ley Foral reguladora del Registro Fiscal de la Riqueza Territorial de Navarra, las referencias que en esta Ley se hacen al concepto de unidades inmobiliarias o al Registro Fiscal de la Riqueza Territorial de Navarra se entenderán realizadas a las unidades valorativas y a los Registros Fiscales de la Riqueza Rústica y Urbana, implantados y conservados conforme a la normativa vigente.
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima.
+El Registro de Ordenanzas Fiscales, a que se refiere el artículo 13, se creará en el Departamento de Administración Local en el plazo de diez meses a partir de la entrada en vigor de esta Ley Foral.
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera.
+A partir de la fecha de entrada en vigor de esta Ley Foral, quedan derogadas las disposiciones siguientes:
+a) La norma sobre reforma de las Haciendas Locales, aprobada por Acuerdo del Parlamento Foral de 2 de junio de 1981.
+b) La norma para la exacción de la Contribución Territorial Urbana, aprobada por Acuerdo del Parlamento Foral de 24 de mayo de 1982.
+c) La norma para la exacción de la Licencia Fiscal, aprobada por Acuerdo del Parlamento Foral de 24 de mayo de 1982.
+d) La Ley Foral 10/1983, de 25 de febrero, reguladora de la Contribución sobre Actividades Agrícola y Pecuaria.
+e) De la Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra, los artículos 273, párrafo segundo; 283, número 3, desde la expresión «asimismo, el gasto...» in fine, hasta la expresión «el 50 por 100»; 290; 291; 293, número 2, en lo referido al límite del número de habitantes; 304, números 2, 3 y 5, y del número 6 la expresión que hace referencia a los números anteriores.
+Asimismo, quedarán derogadas cuantas otras disposiciones de rango legal se opongan o resulten incompatibles con los preceptos de esta Ley Foral.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda.
+Igualmente, quedan derogadas cuantas disposiciones de rango reglamentario regulen, a la fecha de entrada en vigor de esta Ley Foral, las disposiciones comprendidas en el número anterior.
+
+### Disposición derogatoria tercera
+
+Disposición derogatoria tercera.
+Lo establecido en las dos disposiciones anteriores se entiende sin perjuicio de lo previsto en la disposición transitoria primera a séptima, ambas inclusive, de esta Ley Foral.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno de Navarra para aprobar cuantas disposiciones sean necesarias para el desarrollo y aplicación de esta Ley Foral.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Esta Ley Foral entrará en vigor el día 1 de enero de 1996, con excepción del apartado 5 del artículo 123 que entrará en vigor el 1 de octubre de 1995.
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S.M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 10 de marzo de 1995.
+
+### [firma]
+
+JUAN CRUZ ALLI ARANGUREN,
+Presidente

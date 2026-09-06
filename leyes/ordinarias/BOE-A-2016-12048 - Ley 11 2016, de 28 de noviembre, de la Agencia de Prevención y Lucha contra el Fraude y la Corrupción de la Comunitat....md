@@ -1,0 +1,487 @@
+# Ley 11/2016, de 28 de noviembre, de la Agencia de Prevención y Lucha contra el Fraude y la Corrupción de la Comunitat Valenciana.
+
+- Identificador BOE: `BOE-A-2016-12048`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2016-12048
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del rey, promulgo la siguiente Ley
+PREÁMBULO
+I. Muchas de las causas de la corrupción se encuentran en la falta de desarrollo del sistema democrático, por no haber creado mecanismos reales de participación ciudadana en el control eficaz de sus instituciones, así como en la ausencia de rendición de cuentas de los responsables políticos ante la ciudadanía y de sus órganos de representación.
+II. La corrupción deteriora el Estado de derecho e impide su funcionamiento normal. Los principios que lo inspiran son amenazados por la corrupción. La corrupción se ampara en la opacidad y el secreto para perpetuarse, desvirtúa la esencia de la democracia y pervierte el sistema democrático al servirse de las reglas de juego de la democracia para disponer de las instituciones públicas y de cuanto es público en beneficio particular o personal.
+III. La creación de la Agencia de Prevención y Lucha contra el Fraude y la Corrupción se realiza al amparo del artículo 49.1.1.ª del Estatuto de autonomía, que otorga competencia exclusiva a la Generalitat valenciana en la organización de sus instituciones de autogobierno. Con su creación la Generalitat cumple la Resolución 58/4 de la Asamblea General de Naciones Unidas, de 31 de octubre de 2003, por la que se aprueba la Convención de las Naciones Unidas contra la corrupción, en el artículo 6 de la que establece la necesidad de crear órganos encargados de prevenir la corrupción en los distintos Estados partes.
+Asimismo, constituyen referentes para esta propuesta el artículo 36 de la Resolución 58/4 que hace mención, específicamente, de la creación de agencias especializadas y la incorporación de otros acuerdos de importancia en materia anticorrupción en el marco de la Unión Europea y del Consejo de Europa como el Convenio civil del Consejo de Europa sobre la corrupción, de 4 de noviembre de 1999; el artículo 325 del Tratado de funcionamiento de la Unión Europea, que impone a la Comisión y a los Estados miembros la obligación de combatir el fraude y cualesquiera actividades ilegales que perjudiquen los intereses financieros de la Unión Europea. Igualmente la Resolución 24/97 del Consejo de Europa sobre los veinte principios rectores de la lucha contra la corrupción; la recomendación número R (2000) 10, sobre los código de conducta de los funcionarios públicos, y número R (2003) 4, sobre las normas comunes contra la corrupción en la financiación de partidos políticos y las campañas electorales.
+Hay que mencionar igualmente como antecedentes los órganos similares de lucha antifraude y contra la corrupción institucional (independientes y no vinculados con el poder judicial o policía) creados en el ámbito europeo, nacional o autonómico, lo cual sirve al efecto de subrayar la importancia del organismo y justificar su necesidad y oportunidad. En este sentido, hay que mencionar la oficina antifraude europea (OLAF) creada por decisión de la Comisión de 28 de abril de 1999, la Autorità Nazionale Anticorruzione en Italia (ANAC), creada por La ley italiana 190/2012, de la Agencia Antifraude de Cataluña (OAC), creada por la Ley catalana 14/2008, de 5 de noviembre. A nivel municipal, destacan la recientemente creada Oficina Antifraude del Ayuntamiento de Madrid y la Oficina para la Transparencia y las Buenas Prácticas del Ayuntamiento de Barcelona.
+IV. La agencia se crea como instrumento de prevención, investigación y combate del fraude y la corrupción, y también para proteger a las personas denunciantes. Su finalidad primordial es fortalecer la actuación de las instituciones públicas valencianas para evitar que se produzca un deterioro moral y un empobrecimiento económico que redunde en perjuicio de la ciudadanía valenciana.
+V. Esta ley se estructura en cinco capítulos, una disposición adicional única, tres transitorias, una disposición derogatoria y una disposición final.
+El capítulo I, «Disposiciones generales», regula la creación, naturaleza jurídica, el objeto, el régimen jurídico, el ámbito y las funciones.
+El capítulo II, «Del procedimiento», regula el inicio del procedimiento e investigación, la tramitación, las garantías procedimentales y el estatuto de la persona denunciante.
+El capítulo III, «Régimen sancionador», establece la clasificación de infracciones y sanciones y la competencia sancionadora.
+El capítulo IV, «Resultados», alude a los informes, memorias a realizar, contenido y rendición de cuentas a la ciudadanía.
+El capítulo V, «Medios personales y materiales y de financiación», con los que poder acometer debidamente la función que le recae.
+Finalmente, esta ley incluye un conjunto de disposiciones, adicional, transitorias, derogatoria y final, que afectan a otras normas de nuestro ordenamiento jurídico y que facilitan la puesta en marcha del cumplimiento de los objetivos de la agencia.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y naturaleza jurídica.
+1. El objeto de esta ley es la creación de la Agencia de Prevención y Lucha contra el Fraude y la Corrupción en la Comunitat Valenciana, que queda adscrita a Les Corts. Se crearán protocolos de coordinación con la Sindicatura de Comptes y con la Intervención de la Generalitat. Se configura como una entidad con personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines.
+Esta ley regula el régimen jurídico, funcionamiento y procedimiento sancionador de la agencia. Asimismo, establece los criterios de provisión de la dirección y del personal de la agencia.
+2. La agencia actúa con independencia de las administraciones públicas en el ejercicio de sus funciones y se relaciona con el Consell, los gobiernos locales y el resto de instituciones valencianas conforme establece esta ley.
+3. La agencia se crea para prevenir y erradicar el fraude y la corrupción de las instituciones públicas valencianas y para el impulso de la integridad y la ética pública. Además del fomento de una cultura de buenas prácticas y de rechazo del fraude y la corrupción en el diseño, ejecución y evaluación de políticas públicas, así como en la gestión de recursos públicos.
+4. La Agencia se constituye como la autoridad independiente de protección del informante de la Comunitat Valenciana y tiene el ámbito de aplicación y las funciones previstas en la Ley 2/2003, del 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción, la organización y régimen de funcionamiento será desarrollado en el reglamento de la Agencia.
+Se añade el apartado 4 por la disposición adicional 5.3 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica el apartado 1 por el art. único 1.1 de la Ley 3/2024, de 27 de junio. Ref. BOE-A-2024-16513
+ Se modifica el apartado 1 por el art. 107 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 2
+
+Artículo 2. Régimen jurídico.
+La agencia se regirá por el que dispone esta ley. Con respecto a todo lo que no esté previsto en esta ley y en su normativa de desarrollo, será de aplicación la normativa vigente en materia de procedimiento administrativo común.
+Para la imposición de las sanciones establecidas en el capítulo III, se seguirán las disposiciones previstas en esta ley así como en la del procedimiento administrativo común de las administraciones públicas o, en el caso de infracciones imputables al personal al servicio de entidades, el régimen disciplinario funcionarial, estatutario o laboral que en cada caso resulte aplicable.
+La Directiva (UE) 2019/1937, del Parlamento Europeo y del Consejo, del 23 de octubre de 2019, relativa a la protección de las personas que informen sobre infracciones del derecho de la Unión, será de aplicación a las denuncias de fraude, corrupción y cualquier otra actividad contraria a la ley que vaya en detrimento del interés general, así como a la protección de las personas que denuncien tales infracciones.
+El canal externo de denuncias del sector público de la Agencia y su procedimiento de información se regirá por la presente ley y su normativa de desarrollo, por la Directiva (UE) 2019/1937, así como por la Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción, en aquello en lo que no se adecúe a la directiva.
+La persona denunciante gozará de la protección establecida en la Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción y, adicionalmente, en lo dispuesto en la presente ley y su normativa de desarrollo.
+Se añaden los 3 últimos párrafos por el art. único 1.2 de la Ley 3/2024, de 27 de junio. Ref. BOE-A-2024-16513
+
+### Artículo 3
+
+Artículo 3. Ámbito de actuación de la agencia.
+1. El ámbito de actuación subjetivo de la agencia es el siguiente:
+a) La administración de la Generalitat.
+b) El sector público instrumental de la Generalitat, en los términos definidos en el artículo 2.3 de la Ley 1/2015, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones.
+c) Les Corts Valencianes, el Síndic de Greuges, la Sindicatura de Comptes, el Consell Valencià de Cultura, la Acadèmia Valenciana de la Llengua, el Comitè Econòmic i Social, el Consell Jurídic Consultiu y cualquier otra institución estatutaria análoga que se pueda crear en el futuro, con relación a su actividad administrativa y presupuestaria.
+d) Las entidades integrantes de la administración local de la Comunitat Valenciana y las entidades del sector público vinculadas o dependientes.
+e) Las universidades públicas valencianas y las entidades del sector público vinculadas o dependientes.
+f) Las corporaciones de derecho público, en cuanto a las actividades sujetas a derecho administrativo.
+g) Las asociaciones constituidas por las administraciones públicas, los organismos y las entidades públicas.
+h) Las actividades de personas físicas o jurídicas que sean concesionarias de servicios o perceptoras de ayudas o subvenciones públicas, a los efectos de comprobar el destino y el uso de las ayudas o las subvenciones.
+i) Las actividades de contratistas y subcontratistas que ejecuten obras de las administraciones públicas y de las entidades del sector público instrumental de la Generalitat, o que tengan atribuida la gestión de servicios públicos o la ejecución de obras públicas por cualquier otro título, con relación a la gestión contable, económica y financiera del servicio o la obra, y con las otras obligaciones que se derivan del contrato o de la ley.
+j) Los partidos políticos, las organizaciones sindicales y las organizaciones empresariales.
+k) Cualquier entidad, independientemente de la tipología o la forma jurídica, que esté financiada mayoritariamente por las administraciones públicas o esté sujeta al dominio efectivo de estas.
+2. El ámbito de actuación material de la agencia, a efectos de esta ley y su normativa de desarrollo, se concreta en los siguientes hechos o conductas:
+a) Corrupción: Uso o desviación de poder o de recursos de procedencia pública para fines distintos de los concedidos; uso o abuso del poder público para obtener ventajas, beneficios o cualquier otro aprovechamiento particular, propio o de terceros, o para cualquier otro fin contrario al ordenamiento jurídico.
+b) Fraude: Acto tendente a eludir una disposición legal de forma engañosa; uso inapropiado y perjudicial de los recursos y activos de una organización, contrario a la verdad y a la rectitud.
+c) Irregularidades administrativas y comportamientos constitutivos de infracción administrativa o disciplinaria, en los que subyace una situación potencial de fraude o corrupción.
+d) Conductas y actividades reprochables por ser contrarias a la objetividad, a la imparcialidad, a la eficacia, a la probidad, a la integridad, a la ética pública y al buen gobierno, así como la realización de gastos superfluos e innecesarios de fondos de procedencia pública, impliquen o no una infracción directa del ordenamiento jurídico positivo.
+Se modifica por el art. único 1.3 de la Ley 3/2024, de 27 de junio. Ref. BOE-A-2024-16513
+
+### Artículo 4
+
+Artículo 4. Fines y funciones
+Son fines y funciones de la agencia:
+a) La prevención y la investigación de posibles casos de uso o destino irregular de fondos públicos y de conductas opuestas a la integridad o contrarias a los principios de objetividad, eficacia y sumisión plena a la ley y al derecho.
+b) La prevención y la alerta con relación a conductas del personal al servicio de las entidades públicas que comporten el uso o abuso en beneficio privado de informaciones que tengan por razón de sus funciones o que tengan o puedan tener como resultado el uso o el destino irregular de fondos públicos o de cualquier otro aprovechamiento contrario al ordenamiento jurídico.
+c) Investigar los actos o las omisiones que pudieran ser constitutivos de infracción administrativa, disciplinaria o penal y, en función de los resultados de la investigación, instar la incoación de los procedimientos que corresponda para depurar las responsabilidades que pudieran corresponder.
+d) La evaluación, en colaboración con los órganos de control existentes, de la eficacia de los instrumentos jurídicos y las medidas existentes en materia de prevención y lucha contra el fraude y la corrupción, con el fin de garantizar los máximos niveles de integridad, eficiencia y transparencia, especialmente en materia de contratación pública, procedimientos de toma de decisiones, prestación de servicios públicos y gestión de los recursos públicos, y el acceso y la provisión en el empleo público para garantizar el respeto a los principios de publicidad, igualdad, mérito y capacidad.
+e) Hacer estudios y análisis de riesgos previos en actividades relacionadas con la contratación administrativa, la prestación de servicios públicos, las ayudas o las subvenciones públicas y los procedimientos de toma de decisiones, en colaboración con los servicios de auditoría o intervención. En particular, estudiará los informes a que se refiere el artículo 218 del Real decreto legislativo 2/2004, por el que se aprueba el texto refundido de la Ley reguladora de haciendas locales, de los cuales la intervención enviará una copia anual a la agencia y la evaluación de su traslado a la fiscalía anticorrupción.
+f) Hacer funciones de asesoramiento y formular propuestas y recomendaciones a Les Corts, al Consell de la Generalitat y a las entidades incluidas en el ámbito de actuación en materia de integridad, ética pública y prevención y lucha contra la corrupción.
+g) Asistir, cuando así se le solicite, a las comisiones parlamentarias de investigación mediante la emisión de dictámenes no vinculantes sobre asuntos con respecto a los cuales haya indicios de uso o destino irregulares de fondos públicos o de uso ilegítimo de la condición pública de un cargo.
+h) Colaborar con los órganos y los organismos de control interno y externo de la actuación administrativa en el establecimiento de criterios previos, claros y estables de control de la acción pública.
+i) Colaborar con los órganos competentes en la formación del personal en materia de integridad y ética pública mediante la elaboración de guías formativas y de asesoramiento especializado en materia de lucha contra el fraude y la corrupción.
+j) Colaborar con los órganos competentes en materia de conflictos de intereses e incompatibilidades para prevenir y corregir actuaciones que pudieran infringir el régimen aplicable en cada caso.
+k) Establecer relaciones de colaboración y de elaboración de propuestas de actuación con organismos que tengan funciones semejantes en el Estado, en las comunidades autónomas o en la Unión Europea.
+l) La contribución que desde la agencia pueda hacerse en la creación de una cultura social de rechazo de la corrupción, bien con programas específicos de sensibilización a la ciudadanía o bien en coordinación con las administraciones públicas u otras organizaciones públicas o privadas.
+m) Aquellas otras actuaciones cuyo contenido y finalidad puedan ser considerados acciones preventivas contra el fraude y la corrupción.
+n) Promover espacios de encuentro e intercambio con la sociedad civil periódicamente donde se recogerán sus aportaciones.
+o) Todas las demás atribuciones que le asigne la ley.
+
+### Artículo 5
+
+Artículo 5. Delimitación de funciones y colaboración.
+1. Se entiende en todo caso que las funciones de la agencia lo son, sin perjuicio de las que ejercen, de acuerdo con la normativa reguladora específica, la Sindicatura de Comptes, el Síndic de Greuges, el Consejo de Transparencia, Acceso a la Información Pública y Buen Gobierno, la Intervención General de la Generalitat, la Inspección General de Servicios, los órganos competentes en materia de incompatibilidades y conflictos de intereses y los órganos de control, supervisión y protectorado de las entidades incluidas en el ámbito de actuación correspondiente, y que actúa en todo caso en colaboración con estas instituciones y órganos. La agencia aportará toda la información de que disponga y proporcionará el apoyo necesario a la institución u órgano que lleve a cabo la investigación o fiscalización correspondiente.
+En cumplimiento de sus tareas la agencia podrá proporcionar la colaboración, la asistencia y el intercambio de información con otras instituciones, órganos o entidades públicas mediante planes y programas conjuntos, convenios y protocolos de colaboración funcional, en el marco de la normativa aplicable.
+2. La Agencia no tiene competencias en las funciones y materias que corresponden a la autoridad judicial, el ministerio fiscal y la policía judicial ni puede investigar los mismos hechos que han sido objeto de sus investigaciones.
+En caso de que la autoridad judicial o el ministerio fiscal inicien un procedimiento para determinar el relieve penal de unos hechos que constituyen al mismo tiempo el objeto de actuaciones de investigación de la Agencia, esta deberá interrumpir sus actuaciones y aportar inmediatamente toda la información de la que dispone.
+3. Cuando las investigaciones de la agencia afecten a Les Corts, las instituciones de relieve estatutario, la administración local, las universidades públicas valencianas y, en general, cualquiera que goce de autonomía reconocida constitucional o estatutariamente, se llevarán a cabo garantizando el debido respeto a su autonomía.
+4. La agencia se relaciona con Les Corts mediante la comisión parlamentaria que se establezca. A esta comisión le corresponde el control de actuación de la agencia y la comprobación de los requisitos exigidos al candidato o candidata a director o directora antes de la elección por el Pleno de Les Corts. La agencia, siempre que sea requerida, cooperará con las comisiones parlamentarias de investigación en la elaboración de dictámenes sobre asuntos de su ámbito de actuación. Asimismo, el director o directora de la agencia acudirá a las comisiones parlamentarias a las que sea convocado para informar del estado de sus actuaciones y podrá solicitar, cuando lo crea conveniente, comparecer.
+5. La agencia se relaciona con el Consell de la Generalitat mediante la persona titular de la conselleria competente en materia de transparencia y con el resto de entes públicos mediante el órgano unipersonal que los represente. Todo ello sin perjuicio de que, en el ejercicio de sus funciones, la agencia pueda dirigir comunicaciones y solicitudes directamente a los órganos superiores y directivos de este ente.
+6. En el ámbito local, velará por el ejercicio independiente y eficaz de las funciones de control y legalidad y fiscalización en el ámbito de la administración local, incluidos los entes dependientes y nos instrumentales, mediante el acceso a la información que emite el órgano interventor en función del artículo 218 del texto refundido del régimen de haciendas locales.
+7. La agencia cooperará con la administración general del Estado, a la que puede solicitar, en los términos y condiciones establecidos por el ordenamiento jurídico, los datos y los antecedentes que resulten necesarios para cumplir las funciones y las potestades que esta ley le atribuye en su ámbito de actuación y dentro de las competencias establecidas por el Estatuto de autonomía de la Comunidad valenciana y el resto de ordenamiento jurídico.
+8. La agencia se relaciona con las instituciones autonómicas, estatales, comunitarias e internacionales que tengan competencias o que cumplan funciones análogas. Asimismo, con cualquier persona, colectivo o entidad que quiera hacer sugerencias, propuestas o solicitar su actuación en materia de prevención y control del fraude y la corrupción.
+Se modifica el apartado 2 por la disposición adicional 5.5 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 5 bis
+
+Artículo 5 bis. Consultas y solicitudes de información.
+Dentro del ámbito de actuación de la Agencia, cualquier funcionario o autoridad pública que preste servicios en alguna de las instituciones que están dentro del ámbito de actuación regulado en la Ley 11/2016, de 28 de noviembre, de la Agencia de Prevención y Lucha contra el Fraude y la Corrupción de la Comunitat Valenciana, podrá efectuar ante la Agencia de Prevención y Lucha contra el Fraude y la Corrupción de la Comunitat Valenciana consultas, solicitudes, alertas y comunicaciones con carácter preventivo de expedientes administrativos en tramitación en sus respectivas entidades, en los que no haya recaído resolución definitiva, de la forma que reglamentariamente se establezca.
+Las consultas y solicitudes, que podrán plantearse por el medio habilitado al efecto, desarrollado reglamentariamente, deberán ser respondidas en el plazo máximo de un mes.
+Se añade por la disposición adicional 5.4 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## CAPÍTULO II
+
+Del procedimiento de investigación
+
+## Sección 1
+
+Sección 1. Potestades de investigación e inspección
+
+### Artículo 6
+
+Artículo 6. Potestades de investigación e inspección.
+1. En el ejercicio de las funciones de investigación e inspección, la agencia puede acceder a cualquier información que se encuentre en poder de las personas jurídicas, públicas o privadas, sujetas a su ámbito de actuación. En el caso de particulares, la potestad de inspección se limitará estrictamente a las actividades relacionadas con las entidades públicas. En todo caso, el acceso a la información se regirá por los principios de necesidad y proporcionalidad, se deberá motivar la relación con la actividad investigada y se dejará constancia de ello en el expediente.
+2. El director o la directora de la agencia o, por delegación expresa, cualquier funcionario o funcionaria de la agencia que tenga atribuidas funciones de investigación o inspección, pueden:
+a) Personarse, acreditando la condición de autoridad o agente de la agencia, en cualquier oficina o dependencia de la administración o centro destinado a un servicio público para solicitar información, hacer comprobaciones in situ y examinar los documentos, los expedientes, los libros, los registros, la contabilidad y las bases de datos, sea cual sea el soporte en que estén registrados, así como los equipos físicos y logísticos utilizados.
+b) Realizar las entrevistas personales que se consideran oportunas, tanto en las dependencias administrativas correspondientes como en la sede de la agencia. Las personas entrevistadas podrán asistir acompañadas y ser asistidas por la personas que ellas mismas designen. Asimismo, tendrán los derechos y las garantías que establece la legislación vigente, incluidos el derecho a guardar silencio y la asistencia letrada.
+c) Acceder, si así lo permite la legislación vigente, a la información de cuentas corrientes en entidades bancarias en que se hayan podido efectuar pagos o disposiciones de fondos relacionados con procedimientos de adjudicación de contratos del sector público o de otorgamiento de ayudas o subvenciones públicas, mediante requerimiento oportuno.
+d) Acordar, a los efectos de garantizar la indemnidad de los datos que puedan recogerse, la realización de copias o fotocopias adveradas de los documentos obtenidos, sea cual sea el soporte en que se encuentren almacenados.
+3. Los funcionarios y las funcionarias al servicio de la agencia que tengan atribuidas competencias inspectoras tendrán la condición de agentes de la autoridad. Los documentos que formalicen en los que, de acuerdo con los requisitos legales correspondientes, se recojan los hechos constatados por aquellos, servirán de prueba, salvo que se acredite lo contrario.
+
+### Artículo 7
+
+Artículo 7. Deber de colaboración.
+1. Las entidades públicas y las personas físicas o jurídicas privadas incluidas en el ámbito de actuación de la agencia deberán auxiliarla con celeridad y diligencia en el ejercicio de las funciones que le corresponden, y le comunicarán, de forma inmediata, cualquier información de que dispongan relativa a hechos cuyo conocimiento sea o pueda ser competencia de aquella.
+2. El personal al servicio de las entidades públicas, los cargos públicos y los particulares incluidos en el ámbito de actuación de la agencia que impidan o dificulten el ejercicio de sus funciones o que se nieguen a facilitarle los informes, documentos o expedientes que les hayan sido requeridos, incurrirán en las responsabilidades que la legislación vigente establece.
+3. La agencia dejará constancia expresa del incumplimiento injustificado o de la contravención del deber de colaboración y lo comunicará a la persona, la autoridad o el órgano afectado, para que pueda alegar lo que considere conveniente. Asimismo, se podrá hacer constar esta circunstancia en la memoria anual de la agencia o en el informe extraordinario que se eleve a la comisión parlamentaria correspondiente, en su caso.
+
+### Artículo 8
+
+Artículo 8. Confidencialidad.
+1. Las actuaciones de la agencia deben asegurar, en todo caso, la reserva máxima para evitar perjuicios a la persona o a la entidad investigada y como salvaguardia de la eficacia del procedimiento jurisdiccional o administrativo que se pueda iniciar como consecuencia de estas actuaciones.
+2. El personal de la agencia, para garantizar la confidencialidad de las actuaciones, está sujeto al deber de secreto sobre todo lo que conozca por razón de sus funciones, deber que perdura después de cesar en el ejercicio del cargo. El incumplimiento de este deber dará lugar a la apertura de una investigación interna y a la incoación, en su caso, del expediente disciplinario pertinente, del cual el director o la directora de la agencia dará cuenta a la comisión parlamentaria correspondiente en el plazo de un mes.
+3. Las obligaciones de secreto y de reserva máxima son especialmente exigibles en los casos de datos protegidos por secreto comercial, industrial y empresarial y en los supuestos de licitaciones y otros procedimientos contractuales en que la confidencialidad es susceptible de proporcionar al titular ventajas competitivas. En estos supuestos, la información que solicite la agencia deberá ser la necesaria para llevar a cabo la función investigadora e inspectora y el tratamiento de la información deberá garantizar que no se causa ningún perjuicio que limite la competitividad ni comprometa la protección eficaz contra la competencia desleal.
+
+### Artículo 9
+
+Artículo 9. Protección y cesión de datos.
+1. El tratamiento y la cesión de los datos obtenidos por la agencia como resultado de sus actuaciones, especialmente los de carácter personal, están sometidos a la normativa vigente en materia de protección de datos. La agencia no puede divulgar los datos ni informar a otras personas o instituciones que no sean las que, de acuerdo con la normativa vigente, puedan conocerlos por razón de sus funciones, y tampoco podrá utilizarse ni cederse estos datos con fines diferentes de los establecidos en esta ley.
+2. La agencia y los órganos y las instituciones con funciones de control, supervisión y protectorado de las entidades incluidas en el ámbito de su actuación, podrán establecer acuerdos de colaboración para la comunicación de datos e información relevante en el ámbito de sus competencias.
+3. Los datos y la información pedidos por la agencia en el ejercicio de sus competencias serán enviados a la autoridad competente para iniciar los procedimientos disciplinarios, sancionadores o penales a que pudieran dar lugar.
+
+### Artículo 10
+
+Artículo 10. Garantías procedimentales.
+1. El reglamento de funcionamiento y régimen interior de la agencia regulará el procedimiento para llevar a cabo las funciones inspectoras e investigadoras de manera que se garanticen el derecho a la defensa y el derecho a la presunción de inocencia de las personas investigadas, respetando en todo caso lo que dispone este artículo.
+2. Cuando la agencia determine la posibilidad de la implicación individual en un hecho que es objeto de investigación, informará inmediatamente a la persona afectada y le dará trámite de audiencia.
+3. En los casos en que se exija el mantenimiento de un secreto absoluto en beneficio de la inspección, la comunicación y el trámite de audiencia podrán ser diferidos. En ningún caso la agencia podrá formular o emitir conclusiones personalizadas ni hacer referencias nominales en los informes y las exposiciones razonadas, si la persona afectada no ha tenido previamente la posibilidad real de conocer los hechos, de manera que pueda formular alegaciones y aportar los documentos que considere oportunos, los cuales se incorporarán al expediente.
+4. Si las investigaciones de la agencia afectan personalmente a altos cargos, funcionarios, directivos o empleados públicos o privados, se informará a la persona responsable de la institución, órgano o ente de que dependan o en el que presten servicios, salvo los casos que exijan el mantenimiento de un secreto absoluto en beneficio de la investigación, en los que esta comunicación se deberá diferir.
+
+## Sección 2
+
+Sección 2. Procedimiento
+
+### Artículo 11
+
+Artículo 11.
+1. Las actuaciones de la agencia se iniciarán de oficio, por acuerdo del director o la directora, previa determinación de la verosimilitud, cuando sea sabedora de hechos o conductas que requieran ser investigados, inspeccionados o que aconsejen realizar un seguimiento y también cuando, después de realizar un análisis de riesgo, los indicadores de riesgo aconsejen la inspección o el seguimiento de determinados hechos o actividades.
+El inicio de las actuaciones de oficio se producirá bien por iniciativa propia, como consecuencia de una solicitud de Les Corts o de otros órganos o instituciones públicas, o por denuncia.
+2. Cualquier persona puede dirigirse a la agencia para comunicar conductas que puedan ser susceptibles de ser investigadas o inspeccionadas por esta. En este caso, se acusará recepción del escrito recibido. La persona informadora puede solicitar que se garantice la confidencialidad sobre su identidad, y el personal de la agencia está obligado a mantenerla, excepto en el caso en que se reciba un requerimiento judicial.
+3. Las autoridades, los empleados públicos y todos los que cumplan funciones públicas o desarrollen el trabajo en entidades y organismos públicos deben comunicar inmediatamente a la agencia, desde el momento en que los conozcan, los hechos que puedan ser susceptibles de ser objeto de investigación o inspección por parte de la agencia, sin perjuicio de las obligaciones de notificación propias de la legislación procesal penal. También en este caso, la persona informadora puede solicitar que se garantice la confidencialidad sobre su identidad y el personal de la agencia está obligado a mantenerla, excepto en el caso en que se reciba un requerimiento judicial.
+
+### Artículo 12
+
+Artículo 12. Comprobación previa, determinación de verosimilitud y plazo para el inicio de actuaciones.
+1. Recibida una denuncia o solicitud, la Agencia comprobará previamente que la denuncia contiene una relación descriptiva de hechos presuntamente cometidos y que se refiere a hechos comprendidos en el ámbito de actuación de la Agencia.
+2. El inicio de actuaciones de investigación por parte de la Agencia solo se producirá cuando se haya comprobado la existencia de indicios razonables de veracidad de los hechos o las conductas que hayan sido objeto de la denuncia o la petición.
+3. La resolución del director o la directora sobre el inicio del procedimiento o el archivo como resultado de una denuncia o solicitud no podrá exceder el plazo de 3 meses desde la presentación a la Agencia.
+A este efecto, la rectificación o la ampliación de los datos aportados inicialmente abrirá un plazo nuevo.
+Se modifica por la disposición adicional 5.6 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 13
+
+Artículo 13. Duración de las actuaciones y tramitación.
+La duración de las actuaciones de investigación de la agencia no podrá exceder seis meses desde que se adoptó el acuerdo de iniciación, salvo que las circunstancias o la complejidad del caso aconsejen una ampliación del plazo que, en todo caso, deberá estar motivada y no podrá superar seis meses más.
+En la tramitación del procedimiento será aplicable el procedimiento administrativo común.
+
+### Artículo 14
+
+Artículo 14. Estatuto de la persona denunciante.
+1. Estatuto de la persona denunciante.
+a) La actuación de la agencia prestará especial atención a la protección de las personas denunciantes. Se considera persona denunciante, a los efectos de esta ley, cualquier persona física o jurídica que comunique hechos que pueden dar lugar a la exigencia de responsabilidades legales, ante la propia agencia o cualquier otro órgano administrativo, el Ministerio Fiscal o la autoridad judicial. Son personas denunciantes, a estos efectos, todas aquellas que alertan, comunican o revelan informaciones de este tipo.
+b) No será aplicable el estatuto de la persona denunciante establecido en esta ley cuando la denuncia se formule y proporcione información falsa, tergiversada u obtenida de manera ilícita. En tales supuestos, la agencia podrá, previa audiencia reservada a la persona denunciante, archivar sin más trámite la denuncia, manteniendo la confidencialidad, y le advertirá que, si la hace pública, no se aplicará el estatuto del denunciante establecido en esta ley y que podrían derivarse responsabilidades disciplinarias o penales contra el falso denunciante.
+c) La agencia deberá establecer procedimientos y canales confidenciales para la formulación de denuncias que garanticen la estricta confidencialidad cuando el denunciante invoque la aplicación del estatuto regulado en este artículo. Estos procedimientos y canales podrán ser también utilizados por los que ya hayan actuado como denunciantes para comunicar represalias u otras actuaciones lesivas derivadas de la presentación de la denuncia.
+d) Sin necesidad de previa declaración o reconocimiento, las personas denunciantes de buena fe recibirán inmediatamente asesoría legal para los hechos relacionados con la denuncia y tendrán garantizada la confidencialidad de la identidad.
+La agencia velará para que estas personas no sufran, durante la investigación ni después de ella, ningún tipo de aislamiento, persecución o empeoramiento de las condiciones laborales o profesionales, ni ningún tipo de medida que implique cualquier forma de perjuicio o discriminación.
+Si la agencia es sabedora de que la persona denunciante ha sido objeto, directamente o indirectamente, de actos de intimidación o de represalias por haber presentado la denuncia, podrá ejercer las acciones correctoras o de restablecimiento que considere, de las cuales dejará constancia en la memoria anual. En particular, a instancia de la persona denunciante, la agencia podrá instar al órgano competente a trasladarla a otro puesto, siempre que no implique perjuicio a su estatuto personal y carrera profesional y, excepcionalmente, podrá también instar al órgano competente a conceder permiso por un tiempo determinado con mantenimiento de la retribución. Asimismo, el denunciante podrá solicitar de la agencia asesoramiento en los procedimientos que se interponen contra él con motivo de la denuncia.
+e) La protección podrá mantenerse, mediante una resolución de la agencia, incluso más allá de la culminación de los procesos de investigación que esta desarrolle, sin perjuicio de lo que establece el apartado sexto de este artículo. En ningún caso la protección derivada de la aplicación del estatuto de la persona denunciante le eximirá de las responsabilidades en que haya podido incurrir por hechos diferentes de los que constituyan el objeto de la denuncia.
+f) El estatuto de la persona denunciante regulado en este artículo se entenderá sin perjuicio del que establezca la normativa estatal. En todo caso, cuando la agencia denuncie ante la autoridad competente hechos que puedan ser constitutivos de delito que hayan sido denunciados por personas que se hayan acogido al estatuto del denunciante de acuerdo con esta ley, deberá indicarlo expresamente y ponerlo de manifiesto cuando pueda concurrir, a su juicio, la existencia de peligro grave para la persona, la libertad o los bienes del denunciante o el testigo, el cónyuge o la persona a quien se encuentre ligado por análoga relación de afectividad o los ascendentes, los descendientes o los hermanos.
+2. Se creará la oficina virtual del empleado público, que permitirá a este personal señalar de forma confidencial los expedientes administrativos que juzguen irregulares.
+3. La falta de resolución expresa en los procedimientos relacionados con la protección a la persona denunciante a la que se refiere el presente artículo tendrá efectos desestimatorios.
+Se modifica el apartado 1.a) por el art. único 1.4 de la Ley 3/2024, de 27 de junio. Ref. BOE-A-2024-16513
+ Se añade el apartado 3 por el art. 107 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 15
+
+Artículo 15. Medidas cautelares.
+Durante la tramitación de los procedimientos sancionadores y disciplinarios, el director o la directora de la agencia puede solicitar motivadamente al órgano competente que adopte las medidas cautelares oportunas, si la eficacia y el resultado de las investigaciones en curso o el interés público así lo exigen. El órgano competente, si lo cree conveniente, podrá acordar y mantener estas medidas hasta que el director o la directora de la agencia comunique el resultado de las actuaciones.
+
+### Artículo 16
+
+Artículo 16. Conclusión de las actuaciones.
+Una vez finalizada la tramitación, el director o directora de la Agencia:
+1. Deberá emitir un informe motivado sobre las conclusiones de las investigaciones, que deberá tramitar el órgano que corresponda en cada caso, el cual, posteriormente y en el plazo que se haya establecido en el informe, deberá informar al director o la directora de la Agencia sobre las medidas adoptadas o, en su caso, los motivos que le impiden actuar de acuerdo con las recomendaciones formuladas.
+2. Finalizará el procedimiento, en su caso, con archivo de las actuaciones. El archivo será comunicado al denunciante o solicitante en escrito motivado.
+3. Iniciará un procedimiento sancionador de conformidad con lo dispuesto en esta ley.
+4. Si en el curso de las actuaciones emprendidas por la Agencia se observan indicios de que se hayan cometido infracciones disciplinarias, el director o la directora de la Agencia lo deberá comunicar al órgano que en cada caso corresponda. Si hay indicios de que hayan tenido lugar conductas o hechos presumiblemente constitutivos de delito, se trasladará de forma inmediata al ministerio fiscal o a la autoridad judicial y, en caso de que se pueda derivar una posible responsabilidad contable, se trasladará a la jurisdicción del Tribunal de Cuentas.
+5. La Agencia puede dirigir recomendaciones motivadas a las administraciones y a las entidades públicas en que se sugiera la modificación, la anulación, la revisión de actos o resoluciones administrativas o la incorporación de criterios con la finalidad de evitar las disfunciones o las prácticas administrativas susceptibles de mejora, en los supuestos y las áreas de riesgo de conductas irregulares detectadas.
+6. Si la relevancia social o la importancia de los hechos que hayan motivado la actuación de la Agencia lo requieren, el director o la directora puede presentar a la comisión parlamentaria correspondiente, a iniciativa propia o por resolución de Les Corts, el informe o los informes extraordinarios que correspondan.
+Se modifica por la disposición adicional 5.7 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## CAPÍTULO III
+
+Del régimen sancionador
+
+### Artículo 17
+
+Artículo 17. Responsabilidad.
+Son responsables de las infracciones, incluso a título de simple inobservancia, las personas físicas o jurídicas, cualquiera que sea su naturaleza, las autoridades, directivos y el personal al servicio de las entidades previstas en el artículo 3, que realicen acciones o que incurran en las omisiones tipificadas en esta ley, con dolo, culpa o negligencia.
+
+### Artículo 18
+
+Artículo 18. De las infracciones.
+I. Son infracciones sancionables a los efectos de esta ley las acciones u omisiones dolosas o culposas con cualquier grado de negligencia que estén tipificadas y sancionadas como tales en esta ley. En particular, lo son:
+1. Obstaculizar el procedimiento de investigación:
+a) Negarse injustificadamente al envío de información en el plazo establecido al efecto en la solicitud del acuerdo de inicio del expediente de investigación.
+b) Retrasar injustificadamente el envío de la información en el plazo establecido al efecto en el acuerdo de inicio del expediente.
+c) Remitir la información de forma incompleta.
+d) Dificultar el acceso a los expedientes o documentación administrativa necesaria para la investigación.
+e) No asistir injustificadamente a la comparecencia comunicada por la agencia.
+2. Incumplimiento de las medidas de protección del denunciante cuando la falta de colaboración haya causado un perjuicio al denunciante o a la investigación.
+3. No comunicar los hechos que sean susceptibles de ser considerados constitutivos de corrupción o conductas fraudulentas o ilegales contrarias al interés general.
+4. Filtrar información en el curso de la investigación y/o faltar a la diligencia en la custodia del expediente.
+5. Las denuncias manifiestamente falsas.
+II. Clases de infracciones.
+Las infracciones se clasifican en leves, graves y muy graves.
+1. Son infracciones muy graves:
+a) Incumplimiento de las medidas de protección del denunciante cuando la falta de colaboración haya causado un grave perjuicio al denunciante o a la investigación.
+b) La filtración de información en el curso de la investigación cuando cause graves perjuicios a la investigación o al denunciante.
+c) No comunicar los hechos que sean susceptibles de ser considerados constitutivos de conductas fraudulentas o de corrupción o contrarias al interés general, cuando no haya investigación judicial abierta ante el juez o el fiscal.
+d) Denuncias manifiestamente falsas que causen graves perjuicios a la persona denunciada.
+2. Son infracciones graves:
+a) El incumplimiento de las obligaciones de colaboración activa previstas o de suministro de información cuando se haya desatendido el requerimiento expreso de la agencia tras un primer retraso.
+b) Negarse injustificadamente al envío de información que retrase la investigación.
+c) Retrasar injustificadamente el envío de la información causando un perjuicio al proceso de investigación.
+d) Dificultar el acceso a los expedientes o documentación administrativa necesaria para la investigación.
+e) No asistir injustificadamente a la comparecencia que reciba de la agencia.
+3. Son infracciones leves:
+a) La remisión incompleta de información a sabiendas.
+b) La falta de diligencia en la custodia de los documentos objeto de investigación.
+
+### Artículo 19
+
+Artículo 19. Sanciones.
+1. A las infracciones del artículo anterior les son aplicables las siguientes sanciones:
+1. Sanciones leves:
+a) Amonestación.
+b) Multa de 200 hasta 5.000 euros.
+2. Sanciones graves:
+a) Declaración del incumplimiento del deber.
+b) Multa de 5.001 hasta 30.000 euros.
+3. Sanciones muy graves:
+a) Declaración de incumplimiento del deber.
+b) Multa de 30.001 hasta 400.000 euros.
+2. Serán nulos de pleno derecho cualquier acto o resolución adoptada como base de conductas corruptas o fraudulentas tipificadas como graves y muy graves.
+3. Para la graduación de las sanciones el órgano competente se ajustará a los principios de proporcionalidad y valorará el grado de culpabilidad y, en su caso, el daño ocasionado o el riesgo producido o derivado de las infracciones y de su trascendencia.
+4. Las sanciones por infracciones graves o muy graves establecidas por la agencia, se publicarán en el «Diari Oficial de la Generalitat Valenciana» para conocimiento general.
+
+### Artículo 20
+
+Artículo 20. Régimen disciplinario.
+1. Al personal incluido dentro del ámbito de aplicación del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto básico del empleado público, se le aplicarán las sanciones que correspondan de acuerdo con el régimen disciplinario que en cada caso resulte.
+2. La agencia, cuando constate incumplimientos susceptibles de ser calificados como alguna de las infracciones previstas en este capítulo y que pueda derivar en responsabilidad disciplinaría, propondrá al superior jerárquico competente la incoación del procedimiento disciplinario. En este último caso, el órgano competente estará obligado a comunicar en la agencia el resultado del procedimiento.
+3. La competencia para la imposición de sanciones disciplinarias corresponderá al órgano que determine la normativa aplicable en la administración u organización en que preste servicios la persona infractora.
+
+### Artículo 21
+
+Artículo 21. Competencia sancionadora y procedimiento.
+1. El órgano competente para imponer sanciones consecuencia de la comisión de las infracciones previstas en el artículo 18 de esta ley es la dirección de la agencia.
+2. El procedimiento sancionador se regirá por lo que establece esta ley, el procedimiento administrativo común y el procedimiento administrativo sancionador.
+3. La duración de las actuaciones sancionadoras de la agencia no podrá exceder seis meses desde que se adoptó el acuerdo de inicio del procedimiento sancionador, salvo que la complejidad del caso aconseje una ampliación del tiempo que, en todo caso, no podrá superar seis meses más. La resolución deberá estar motivada.
+
+## CAPÍTULO IV
+
+De los resultados de su actividad
+
+### Artículo 22
+
+Artículo 22. Memoria anual.
+1. Anualmente, dentro de los tres primeros meses, la agencia dará cuenta de la actividad realizada mediante la elaboración de una memoria que incluirá las actuaciones desarrolladas durante el año anterior en el ámbito de sus funciones.
+Esta memoria incluirá, por lo menos, el número y naturaleza de las denuncias presentadas y también las que fueron objeto de investigación y el resultado de estas, con especificación de los sugerencias o recomendaciones formuladas a la administración y del número de procedimientos abiertos a instancia de la agencia, tanto de carácter administrativo como de carácter judicial, contra funcionarios y cargos públicos.
+2. En la memoria no constarán datos y referencias personales que permitan la identificación de las personas afectadas, excepto cuando ya sean públicas como consecuencia de una sentencia penal o administrativa firme.
+3. De la memoria anual se dará traslado a Les Corts previa comparecencia del director o directora ante la comisión correspondiente. La memoria anual será pública y será enviada también al Consell de la Generalitat, a la Sindicatura de Comptes, al Síndic de Greuges y al Consejo de Transparencia, Acceso a la Información Pública y Buen Gobierno. Asimismo una copia de esta memoria se enviará al ministerio fiscal, a las audiencias provinciales de Castellón, Valencia y Alicante y al Tribunal Superior de Justicia de la Comunitat Valenciana.
+
+### Artículo 23
+
+Artículo 23. Informes especiales y extraordinarios.
+1. Cuando concurran circunstancias especiales, la agencia, de oficio o a petición de Les Corts o del Consell de la Generalitat, podrá elaborar y presentar ante la comisión parlamentaria correspondiente de las Corts Valencianes o, en su caso, ante su Diputación Permanente, informes especiales o extraordinarios.
+2. Tanto la memoria anual como los informes especiales o extraordinarios, serán publicados en el 2Butlletí Oficial de les Corts» y en el portal de transparencia de la web de la agencia.
+
+### Artículo 24
+
+Artículo 24. Recomendaciones y dictámenes.
+La agencia, a petición de las comisiones parlamentarias, podrá elaborar recomendaciones y dictámenes no vinculantes sobre asuntos relacionados con el fraude y la corrupción.
+
+### Artículo 25
+
+Artículo 25. Rendición de cuentas a la ciudadanía.
+La agencia rendirá a la ciudadanía cuentas de su gestión en el ámbito de la prevención, investigación y evaluación de políticas y prácticas relativas al fraude y la corrupción existente en las administraciones públicas valencianas y su sector público instrumental. A tal efecto, se servirá de cuantos medios puedan ser suficientes para que la ciudadanía pueda estar informada debidamente. Proporcionará los resultados de su acción a los medios de comunicación, y también organizará encuentros con la sociedad civil para participarles directamente los resultados de su actividad y las actuaciones llevadas a término, señalando las dificultades o reticencias encontradas.
+
+## CAPÍTULO V
+
+De los medios personales y materiales
+
+## Sección 1
+
+Sección 1. Medios personales
+
+### Artículo 26
+
+Artículo 26. Estatuto personal de la dirección de la agencia.
+1. La agencia estará dirigida por un director o directora, que ejercerá el cargo con plena independencia, inamovilidad y objetividad en el desarrollo de las funciones y en el ámbito de las competencias propias de la agencia, y actuará siempre con sometimiento pleno a la ley y al derecho. El director o directora tendrá la condición de autoridad pública y sus retribuciones serán determinadas por acuerdo de la Mesa de Les Corts. En caso de que ostente la condición de funcionario de carrera, sus retribuciones no podrán ser inferiores a las del puesto de trabajo que venía desempeñando en su administración de origen.
+2. El mandato del director o directora es de siete años desde la fecha de su elección por Les Corts y no será renovable.
+3. El director o directora es elegido por las Corts Valencianes entre los ciudadanos y ciudadanas mayores de edad que gocen del pleno uso de sus derechos civiles y políticos y que cumplan las condiciones de idoneidad, probidad y profesionalidad necesarias para ejercer el cargo. Deberán estar en posesión de título universitario superior que resulte idóneo para las funciones atribuidas y deberá contar con más de diez años de actividad laboral o profesional relacionada con el ámbito funcional de la agencia. Asimismo, deberán tener la vecindad administrativa de la Comunitat Valenciana.
+4. Las personas candidatas a ocupar el cargo serán propuestas a Les Corts por organizaciones sociales que trabajen en la actualidad contra el fraude y la corrupción en la Comunitat Valenciana y por los grupos parlamentarios. Las personas candidatas deberán comparecer ante la comisión parlamentaria correspondiente en el marco de una convocatoria pública al efecto para ser evaluadas con relación a las condiciones requeridas para el cargo. El acuerdo alcanzado en esta comisión será trasladado al Pleno de las Corts Valencianes.
+5. El director o directora será elegido por el Pleno de Les Corts por mayoría de tres quintas partes. Si no obtiene la mayoría requerida se realizará una nueva votación en la sesión plenaria ordinaria siguiente; en este caso resultará elegida la candidatura que obtenga la mayoría absoluta. Si no se obtiene la mayoría requerida en ninguna de las dos votaciones, se harán nuevas propuestas por el mismo procedimiento en el plazo máximo de un mes.
+6. El director o directora de la agencia, después de ser elegido por Les Corts, es nombrado por la persona que ostente la Presidencia de Les Corts y debe tomar posesión del cargo en el plazo de un mes desde la fecha de la publicación del nombramiento en el «Diari Oficial de la Generalitat Valenciana».
+7. Son funciones de la persona titular de la dirección de la agencia las siguientes:
+a) Ostentar la representación legal de la agencia.
+b) Dirigir y coordinar todas las actividades y desempeñar la jefatura superior de su personal.
+c) Abrir y cancelar cuentas en entidades financieras, y autorizar gastos y ordenar pagos.
+d) Suscribir contratos y convenios.
+e) Aprobar la memoria anual de la agencia y dar traslado de la misma a Les Corts.
+f) Imponer las sanciones que establece la ley.
+g) Las demás funciones previstas en esta ley, en el reglamento de funcionamiento y régimen interior de la agencia y las inherentes a su condición.
+h) El director o directora de la Agencia Valenciana Antifraude podrá nombrar hasta un máximo de seis asesores no remunerados de entre funcionarios que no estén ya en activo con experiencia en las materias objeto de la Agencia.
+8. Para el cumplimiento de las funciones atribuidas a la Dirección de la Agencia, dependerán de manera directa del director o directora los siguientes órganos con funciones directivas ordinarias:
+a) La Secretaría General de la Agencia.
+b) Las áreas funcionales que se establezcan reglamentariamente.
+9. Las funciones de la Secretaría General y las áreas funcionales se establecerán en el reglamento orgánico y funcional de la Agencia.
+10. En los supuestos de ausencia, vacante o enfermedad de la persona titular de la Dirección de la Agencia, así como en el caso de que concurriera en la citada alguna causa de abstención o recusación por existir un conflicto de interés, el ejercicio circunstancial de las competencias a ella atribuidas se seguirá lo establecido reglamentariamente.
+Se añaden los apartados 8, 9 y 10 y un punto nuevo por la disposición adicional 5.8 y 9 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifican los apartados 1, 5 y se añade el apartado 7 por el art. único 1.5 de la Ley 3/2024, de 27 de junio. Ref. BOE-A-2024-16513
+
+### Artículo 27
+
+Artículo 27. Incompatibilidades.
+1. La condición de director o directora de la agencia es incompatible con:
+a) Cualquier cargo representativo.
+b) La condición de miembro del Tribunal Constitucional, Síndic de Greuges, Sindicatura de Comptes, Consell Valencià de Cultura, Acadèmia Valenciana de la Llengua, Comitè Econòmic i Social, Consell Jurídic Consultiu o de cualquier cargo designado por Les Corts, por el Congreso de los Diputados o por el Senado.
+c) Cualquier cargo político o función administrativa del Estado, de las comunidades autónomas, de los entes locales y de los entes que están vinculados con estos o que dependan de estos, y también de los organismos o instituciones comunitarias internacionales.
+d) El ejercicio de cualquier actividad profesional, mercantil o laboral.
+e) El ejercicio en activo de la carrera judicial y fiscal.
+f) Cualquier cargo directivo o de asesoramiento en asociaciones, fundaciones y otras entidades sin ánimo de lucro.
+g) La afiliación a cualquier partido político, sindicatos o asociaciones profesionales o empresariales.
+2. Al director o directora de la agencia le es aplicable el régimen de incompatibilidades establecido por la legislación aplicable a los altos cargos y las previsiones de esta ley.
+3. El director o directora de la agencia en una situación de incompatibilidad que le afecte, debe cesar en la actividad incompatible dentro del mes siguiente al nombramiento y antes de tomar posesión. Si no lo hace, se entiende que no acepta el nombramiento. En el caso de incompatibilidad sobrevenida deberá regularizar su situación en el plazo máximo de un mes.
+
+### Artículo 28
+
+Artículo 28. Cese.
+1. El director o directora de la agencia cesará por alguna de las siguientes causas:
+a) Renuncia.
+b) Extinción del mandato por finalización de este.
+c) Incompatibilidad sobrevenida. En este caso, se le dará audiencia previamente.
+d) Incapacidad declarada por decisión judicial firme.
+e) Inhabilitación para el ejercicio de los derechos políticos declarada por decisión judicial firme.
+f) La condena, mediante sentencia firme, por delito doloso.
+g) Negligencia notoria y grave en el cumplimiento de las obligaciones y los deberes del cargo.
+h) Pérdida de la vecindad administrativa de la Comunitat Valenciana.
+2. En caso de que la causa sea la determinada por la letra g del apartado 1, el cese del director debe ser propuesto y aprobado por una mayoría de tres quintas partes de los diputados por la comisión parlamentaria correspondiente. Con anterioridad a la votación en comisión, se dará audiencia al director o directora. La propuesta de cese deberá ser elevada al Pleno de Les Corts y aprobada por mayoría de tres quintas partes. En los otros casos, corresponderá el cese a la Presidencia de Les Corts.
+3. Una vez producido el cese del director o directora, se inicia el procedimiento para un nuevo nombramiento. En caso de que se produzca el cese por la causa determinada en la letra b del apartado 1, el director o directora debe continuar ejerciendo en funciones su cargo hasta que se haga el nuevo nombramiento. En el resto de los supuestos, mientras no se proceda a la nueva designación y toma de posesión del nuevo director o directora, la Presidencia de Les Corts nombrará una dirección en funciones entre el personal de la agencia.
+4. Para garantizar la debida publicidad y transparencia en el proceso de designación de un nuevo director o directora, Les Corts publicarán una convocatoria de candidaturas en el «Diari Oficial de la Generalitat Valenciana» como mínimo seis meses antes de que finalice el mandato del director o directora en activo.
+Se modifican las letras f) y g) del apartado 1 y el apartado 2 por la disposición adicional 5.2 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## Sección 2
+
+Sección 2. Del personal al servicio a la agencia
+
+### Artículo 29
+
+Artículo 29. Del nombramiento, principios, incompatibilidades y cese.
+1. Los puestos de trabajo de la agencia serán ejercidos por personal funcionario de carrera de las administraciones públicas.
+Este personal está obligado a guardar el secreto de los datos, las informaciones y los documentos que conozca en el desarrollo de sus funciones.
+2. El personal funcionario al servicio de la agencia será provisto, de acuerdo con los principios de igualdad, publicidad, mérito y capacidad adecuados a la función encomendada, entre los funcionarios de las diferentes administraciones públicas, y está sujeto a lo dispuesto en la normativa específica de la agencia y la reguladora del personal de Les Corts, incluyendo la equiparación retributiva.
+El personal funcionario de carrera que sea adscrito, con carácter definitivo, al servicio de la agencia será declarado en la situación administrativa de servicios especiales.
+El grado de desarrollo profesional reconocido en la agencia al personal funcionario procedente de una administración pública que incluye en su sistema retributivo el complemento de carrera profesional deberá ser reconocido y abonado por la administración de procedencia en el caso de reingreso de aquel a dicha administración.
+3. La relación de puestos de trabajo será elaborada y aprobada por la agencia.
+4. Al personal al servicio de la agencia le serán aplicables las mismas causas de incompatibilidad establecidas para los funcionarios y funcionarias públicos.
+5. El personal al servicio de la agencia cesará por las causas determinadas por la normativa que respectivamente le sea aplicable.
+6. A los efectos de que el personal adscrito a la agencia cuente con la capacitación técnica y la formación continuada debida, se podrán suscribir convenios, acuerdos o protocolos docentes con el Instituto Valenciano de Administración Pública (IVAP), las universidades públicas valencianas o cualquier otra entidad de educación superior y oficinas de naturaleza semejante de carácter autonómico, estatal, comunitario o internacional.
+Se modifican los apartados 1 y 2 por el art. único.6 de la Ley 3/2024, de 27 de junio. Ref. BOE-A-2024-16513
+ Redactado conforme a la corrección de errores publicada en DOGV núm. 9905, de 31 de julio de 2024. Ref. BOE-A-2024-20164
+ Se modifica el apartado 2 por el art. 107 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+## Sección 3
+
+Sección 3. Medios materiales y financiación
+
+### Artículo 30
+
+Artículo 30. Presupuesto y contabilidad.
+1. La dotación económica necesaria para el funcionamiento de la agencia constituirá una partida independiente en los presupuestos generales de las Corts Valencianes.
+2. La dirección de la agencia elaborará y aprobará el proyecto de presupuesto de funcionamiento a que se refiere el apartado anterior y lo remitirá a la Mesa de Les Corts a los efectos oportunos, para que sea integrado con la debida independencia en el proyecto de presupuestos de la Generalitat, de acuerdo con la normativa reguladora en materia presupuestaría.
+3. La agencia debe disponer de los recursos económicos necesarios y adecuados para el cumplimiento eficaz de las funciones asignadas.
+4. La gestión, la administración y disposición de los bienes y derechos de los cuales la agencia sea titular, así como la del patrimonio de la Generalitat que le sea adscrito para el cumplimiento de sus fines, se ajustará a la Ley de patrimonio de la Generalitat.
+5. El presupuesto de la Agencia se acomodará a los presupuestos de las Corts Valencianes.
+6. La contabilidad de la Agencia está sujeta a los principios de contabilidad pública y al sistema de autorización, disposición, obligación y pago para asegurar el control presupuestario.
+La Agencia está sujeta a la Intervención de Les Corts, en la forma que se determine, y justificará su gestión, anualmente, a la Sindicatura de Comptes.
+7. La memoria anual de la agencia contendrá la liquidación del presupuesto.
+Se modifican los apartados 5 y 6 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Disposición adicional única
+
+Disposición adicional única.
+La contratación de la agencia se ajustará a los preceptos de la legislación sobre contratos del sector público que sean aplicables en cada caso.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Uno. Durante el año 2016, los recursos económicos de la agencia estarán integrados por:
+1. Las asignaciones presupuestarias correspondientes con cargo a los presupuestos de la Generalitat valenciana.
+2. Los rendimientos procedentes de los bienes y derechos que le sean adscritos.
+3. Cualquier otro ingreso que le corresponda en virtud de ley, contrato y convenio.
+Dos. El director o directora de la agencia, en el plazo de seis meses desde su nombramiento, elaborará y presentará a les Corts Valencianes el proyecto de reglamento de funcionamiento y régimen interior de la agencia para su posterior aprobación por parte de la agencia. Este reglamento se publicará en el Butlletí Oficial de les Corts y en el Diari Oficial de la Generalitat Valenciana.
+Se modifica el apartado 2 por el art. 107 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La estructura orgánica provisional para 2016 será elaborada y aprobada en el plazo de un mes, desde su nombramiento, por la dirección de la agencia.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Para la puesta en marcha de la agencia se ofrecerá entre los funcionarios de los niveles asignados en los puestos de trabajo aprobados la adscripción en comisión de servicios en las plazas mencionadas.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+La modificación prevista en el apartado 1 del artículo 26, relativa al importe de las retribuciones del director o directora de la agencia, deberá aplicarse al siguiente director o directora de la agencia, por lo que deberá establecerse por la Mesa de Les Corts con carácter previo a su nombramiento y toma de posesión.
+Lo dispuesto en esta ley se aplicará a los procesos de elección de la dirección de la AVAF siempre que no se haya incluido en el orden del día del Pleno de Les Corts la elección de dicha dirección.
+Se añade por el art. único 1.7 de la Ley 3/2024, de 27 de junio. Ref. BOE-A-2024-16513
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+1. La modificación prevista en el artículo 29.2, párrafo segundo, relativa a la declaración del personal de la agencia en situación administrativa de servicios especiales, se aplicará en todo caso con carácter retroactivo a la entrada en vigor de esta ley respecto del personal funcionario adscrito a la misma con carácter definitivo que no haya sido declarado en esta situación por su administración de procedencia.
+2. La modificación prevista en el artículo 29.2, relativa a la equiparación retributiva del personal de la agencia, exigirá para su aplicación, previamente, la determinación de las equivalencias que procedan y la correspondiente negociación colectiva, así como la existencia de consignación presupuestaria adecuada y suficiente. Las nuevas retribuciones se aplicarán a partir del ejercicio presupuestario siguiente a su determinación, negociación colectiva y consignación presupuestaria.
+Se añade por el art. único 1.8 de la Ley 3/2024, de 27 de junio. Ref. BOE-A-2024-16513
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas todas las disposiciones del mismo rango o de un rango inferior que se opongan a lo dispuesto la presente ley.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda.
+Se suprime el Consejo de Participación regulado en el Reglamento de funcionamiento y régimen interior aprobado por Resolución de 27 de junio de 2019, del director de la Agencia.
+Se añade por la disposición adicional 5.1 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Disposición final
+
+Disposición final.
+Esta ley entrará en vigor al día siguiente de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 28 de noviembre de 2016.
+El President de la Generalitat,
+Ximo Puig I Ferrer.

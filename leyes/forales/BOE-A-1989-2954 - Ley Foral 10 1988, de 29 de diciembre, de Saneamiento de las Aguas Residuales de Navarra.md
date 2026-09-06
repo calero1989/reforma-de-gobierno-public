@@ -1,0 +1,263 @@
+# Ley Foral 10/1988, de 29 de diciembre, de Saneamiento de las Aguas Residuales de Navarra.
+
+- Identificador BOE: `BOE-A-1989-2954`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1989-2954
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente
+LEY FORAL DE SANEAMIENTO DE LAS AGUAS RESIDUALES DE NAVARRA
+Mediante la presente Ley Foral se pretende garantizar la defensa y restauración del medio ambiente de los cauces fluviales que discurran por el territorio de la Comunidad Foral, así como la efectiva implantación de los servicios de depuración de aguas residuales en cuanto infraestructura local a fin de completar la capacidad regeneradora de los ríos donde ésta no sea suficiente para asegurar los niveles de calidad exigibles.
+Por ello se considera imprescindible establecer un plan director de infraestructuras y servicios, comprensivo de todo el territorio de Navarra, que formule el esquema y las directrices básicas del saneamiento, determinando los niveles de calidad que se deben alcanzar, los ámbitos temporales y espaciales en los que se ejecutarán las obras precisas y ordenando las actuaciones de las diferentes Administraciones competentes en la materia.
+Así, sin perjuicio de las competencias del Estado, corresponde a Navarra, en el marco de la legislación básica estatal, el desarrollo legislativo y la ejecución de actuaciones relativas al medio ambiente y a la ecología de conformidad con lo dispuesto en el artículo 57.c) de la LORAFNA. Por otra parte, las Entidades Locales tienen atribuida como competencia propia, la protección de el medio ambiente y la depuración de aguas residuales, tal y como dispone el artículo 25.2 y 1 f) de la Ley de Bases de Régimen Local. Por ello el criterio seguido en esta Ley Foral es el de encomendar la construcción de los colectores y de las estaciones depuradoras y la gestión posterior del servicio, a las Entidades Locales, sin perjuicio de que el Gobierno de Navarra actúe cuando se solicita su cooperación, o cuando, en caso de inacción de aquéllas deba subrogarse en su competencia. No obstante, las actuaciones de los Municipios deben someterse a los criterios establecidos en el plan director debido a que ninguna obra en sí misma puede ser suficiente si no se encuentra incardinada en todo un plan de ámbito superior al municipal, que considere además unas previsiones definidas en materia de regulación de caudales pues la necesidad de depuración está en relación inmediata tanto con el volumen y características de los vertidos como con la cantidad y calidad del agua que discurra por los cauces fluviales, por lo que desde la óptica de una sola Entidad Local no pueden determinarse actuaciones concretas óptimas, pues se precisan criterios de ámbito supramunicipal, que sólo pueden establecerse a través de un plan director.
+Se ha considerado, por otra parte, que la gestión de las inversiones y de los servicios que corresponda al Gobierno de Navarra será más eficiente si se realiza a través de una Empresa de naturaleza mercantil, creada por la Administración de la Comunidad Foral en la que participen las Entidades Locales, y que tenga entre otras funciones, aparte de las descritas, las de asesorar a las Entidades Locales, gestionar el canon de saneamiento y asegurar el cumplimiento de las directrices establecidas en el plan director.
+Respecto a la forma de financiación de las inversiones y de la explotación de los servicios, esta Ley Foral establece un régimen propio que asegura la autosuficiencia económica de el Plan de Saneamiento mediante la utilización exclusiva de transferencias de capital de los Presupuestos Generales de Navarra para inversiones y la exacción en todo el territorio foral de un canon de saneamiento, sin perjuicio de utilizar las operaciones de crédito necesarias, cuyos costes y amortización se sufragarán con cargo al referido canon.
+El tributo estará afectado exclusivamente a la financiación de las actuaciones objeto de esta Ley Foral.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley Foral tiene como objeto garantizar, de forma coordinada entre el Gobierno de Navarra y las Entidades locales, la evacuación a través de la red de colectores generales, el tratamiento y recuperación de las aguas residuales vertidas en el ámbito territorial de la Comunidad Foral.
+A estos efectos se entenderán comprendidos en el ámbito de esta Ley:
+a) La realización de todas las obras de construcción de instalaciones de depuración de vertidos de aguas residuales y de los colectores generales que unan las redes de alcantarillado locales a dichas instalaciones.
+b) La gestión y explotación de los servicios de tratamiento y depuración.
+c) La regulación del régimen financiero preciso para ejecutar las inversiones y asegurar el funcionamiento de los servicios.
+
+### Artículo 2
+
+Artículo 2.
+1. En el ámbito de sus competencias, corresponde a la Administración de la Comunidad Foral:
+a) La planificación global a través de un plan director que deberá contener la formulacion del esquema y directrices básicas de saneamiento en el territorio de la Comunidad Foral, estableciendo los diferentes ámbitos temporales y espaciales de las actuaciones necesarias.
+La aprobación del plan director requerirá de informe previo de carácter preceptivo de la Comisión Foral de Régimen Local.
+b) La aprobación definitiva de todos los planes y proyectos de ejecución de obras de depuración de aguas residuales y de explotación de los servicios, tanto de iniciativa pública como privada, que pretendan acogerse al sistema de financiación determinado en esta Ley Foral.
+c) La aprobación del régimen económico necesario para la financiación de las inversiones y la gestión de los servicios según las previsiones establecidas anualmente en los Presupuestos Generales de Navarra.
+d) Realizar obras y gestionar servicios cuando haya de proceder por cooperación o subrogación.
+e) La gestión del canon de saneamiento establecido en la presente Ley Foral, que comprenderá su recaudación y distribución entre las diferentes Entidades prestadoras de los servicios de tratamiento y depuración de aguas residuales en los términos establecidos en el capítulo III.
+2. A fin de asegurar la realización de los objetivos previstos, la Administración de la Comunidad Foral podrá fomentar la constitución de agrupaciones de Entidades Locales, utilizando los medios y fórmulas establecidas en el ordenamiento jurídico.
+
+### Artículo 3
+
+Artículo 3.
+En ejercicio de sus competencias, corresponde a las Entidades Locales:
+a) Aprobar inicialmente los proyectos de obras y de explotación de los servicios gestionados directamente, según las previsiones y criterios contenidos en el plan director que establezca el Gobierno de Navarra.
+b) Realizar y gestionar las obras y los servicios de saneamiento definidos en el plan director como de ámbito local.
+c) Realizar y gestionar de forma asociada, con todas las Entidades Locales afectadas, las obras y servicios que sean calificados por el plan director como de superior ámbito territorial que un término municipal.
+En tanto no se constituyan las asociaciones de Entidades Locales a que se refiere el párrafo anterior, corresponderá a la Administración de la Comunidad Foral la ejecución de las obras y prestación de los servicios previstos por el plan director.
+
+### Artículo 4
+
+Artículo 4.
+1. En función de cooperación la Administración de la Comunidad Foral prestará la asistencia técnica precisa a las Entidades Locales para la realización de las referidas obras y la gestión del servicio, en el marco del plan director.
+2. No obstante, la Administración de la Comunidad Foral ejecutará las inversiones determinadas en el plan director y llevará a cabo la explotación de los servicios en el caso de que las Entidades Locales le soliciten su cooperación para el ejercicio de sus competencias.
+3. Asimismo, en el supuesto de que las Entidades Locales se encontrasen imposibilitadas para la ejecución de las previsiones contenidas en el plan director o incumplieran voluntariamente las mismas, la Administración de la Comunidad Foral las realizará por subrogación. En este último caso se requerirá informe previo de la Comisión Foral de Régimen Local.
+
+## CAPÍTULO II
+
+Organización
+
+### Artículo 5
+
+Artículo 5.
+1. La realización de las obras precisas para el saneamiento de vertidos y la explotación del servicio por la Administración de la Comunidad Foral se encomendará a una Empresa pública.
+2. Dicha Empresa revestirá la forma de Sociedad anónima y se regirá por las normas de derecho privado y la Ley Foral de Hacienda Pública de Navarra, con las especialidades derivadas de la presente Ley Foral y con arreglo a las normas que reglamentariamente dicte el Gobierno de Navarra.
+3. En el Consejo de Administración estarán representadas las Entidades Locales de Navarra y el Gobierno de Navarra con carácter paritario. Los representantes de las Entidades Locales serán designados por la Federación Navarra de Municipios y Concejos.
+4. Las funciones propias de la Sociedad serán:
+a) Coordinar y dirigir las actuaciones inherentes a la ejecución de las previsiones contenidas en el plan director.
+b) Apoyar técnicamente a las Entidades Locales para la realización de los proyectos de obras en las materias reguladas en esta Ley Foral así como asesorarles sobre el régimen de organización y funcionamiento de los servicios.
+c) Realizar las inversiones y la gestión de los servicios que la Administración de la Comunidad Foral asuma directamente.
+d) Recaudar, administrar, gestionar y distribuir el canon de saneamiento y las transferencias de capital consignadas en los Presupuestos Generales de Navarra con destino a financiar las inversiones previstas en esta Ley Foral.
+e) Realizar las actuaciones inherentes a la intervención de la Administración de la Comunidad Foral en funciones de cooperación o de subrogación, y las relativas a las inversiones en infraestructuras locales básicas y a la explotación de los correspondientes servicios.
+
+### Artículo 6
+
+Artículo 6.
+La citada Empresa elaborará y presentará anualmente al Gobierno de Navarra, antes de la formación del anteproyecto de Presupuestos Generales de Navarra, un programa de actuación, de inversiones y de financiación con el siguiente contenido:
+a) Un estado en el que se reflejarán las inversiones reales y financieras que se pretendan efectuar durante el ejercicio.
+b) Un estado en el que se especificarán las aportaciones de la Comunidad Foral, así como las demás fuentes de financiación.
+c) La expresión valorada de los objetivos a alcanzar en el ejercicio y, entre ellos, de las rentas que se prevean generar.
+d) Una Memoria justificativa de los extremos a que se refieren las letras anteriores y de las principales modificaciones que puedan presentar en relación con el programa vigente.
+
+### Artículo 7
+
+Artículo 7.
+La Sociedad remitirá al Gobierno de Navarra cada año el balance de situación, la cuenta de explotación y la cuenta de pérdidas y ganancias que comprenderán la liquidación del último ejercicio, la estimación del ejercicio en curso y las previsiones para el ejercicio siguiente.
+
+## CAPÍTULO III
+
+Régimen económico-financiero
+
+### Artículo 8
+
+Artículo 8.
+La financiación de las obras e instalaciones a que se refiere esta Ley Foral, así como los gastos de explotación de los servicios, se llevarán a cabo con los recursos que se obtengan por la aplicación del presente régimen.
+
+### Artículo 9
+
+Artículo 9.
+Se crea un canon de saneamiento como recurso de la Hacienda Pública de Navarra cuya recaudación se destinará exclusivamente a la realización de los fines previstos en esta Ley Foral.
+
+### Artículo 10
+
+Artículo 10.
+El canon de saneamiento se exigirá por los vertidos de aguas residuales al medio ambiente, ya sea directamente o a través de las redes de alcantarillado de las Entidades Locales.
+
+### Artículo 11
+
+Artículo 11.
+Están obligados al pago del canon de saneamiento las personas físicas o jurídicas así como las instituciones que, aun carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado y realicen los vertidos a que se refiere el artículo anterior.
+
+### Artículo 12
+
+Artículo 12.
+La base del canon estará constituida por el volumen de agua consumido por los usuarios. En el caso de usuarios no domésticos se tendrá en cuenta, además, la carga contaminante en los términos que se establezcan reglamentariamente.
+En los supuestos de abastecimientos procedentes de aguas subterráneas o instalaciones de recogida de aguas pluviales, u otros similares, que no sean susceptibles de medición por contador, el factor volumen de agua consumida será determinado por la fórmula o fórmulas que a tal objeto se aprueben.
+Al consumo de agua para riego se le aplicará el canon de saneamiento, si los vertidos de aguas residuales sobrepasan los niveles de contaminación por abonos, pesticidas o materias orgánicas que reglamentariamente se determine.
+
+### Artículo 13
+
+Artículo 13.
+1. Las tarifas del canon de saneamiento serán las siguientes:
+a) Tipos de gravamen aplicable a los usos domésticos de agua conectados a redes públicas de saneamiento: 0,813 euros/metro cúbico.
+b) Tipos de gravamen aplicables a los usos no domésticos de agua conectados a redes públicas de saneamiento: 0,845 euros/metro cúbico. Se aplicará, en su caso, el índice corrector por carga contaminante, tal como se regula en el Decreto Foral 82/1990, de 5 de abril, y en la disposición adicional séptima de la Ley Foral 19/2011, de 28 de diciembre.
+c) Usuarios no conectados a redes públicas de saneamiento y que cuenten con las necesarias autorizaciones administrativas otorgadas por los organismos competentes: 0,097 euros/metro cúbico. En caso de incumplimiento de las condiciones establecidas en la autorización de vertido a cauce público, se aplicará la tarifa que proceda, establecida en los apartados a) o b).
+2. Las entidades distribuidoras de agua podrán aplicar al canon de saneamiento los criterios que determinen en el ámbito del suministro de agua para la estimación del caudal vertido en casos de fugas ocultas. La tarifa aplicable al volumen estimado como fuga será la establecida en el apartado 1. c).
+3. Las entidades distribuidoras de agua podrán aplicar al canon de saneamiento lo establecido en sus ordenanzas reguladoras de las tasas por suministro para los supuestos de aplicación de bonificaciones de carácter social.
+4. Las tarifas aplicables por tratamiento de fangos procedentes de las instalaciones de depuración de titularidad privada que sean admitidos en las líneas de fangos de las depuradoras de aguas residuales adscritas al Plan Director de Saneamiento de los ríos de Navarra, serán las siguientes:
+Medición
+ Precio
+ Hasta 5 m³
+ 54,37 €
+ Hasta 10 m³
+ 108,75 €
+ Más de 10 m³
+ 10,88 €/m³
+5. Los importes anteriores se incrementarán por aplicación del Impuesto sobre el Valor Añadido correspondiente.
+6. La actualización de las tarifas se realizará conforme a los siguientes principios:
+a) Suficiencia financiera para que, junto con otros recursos señalados en esta ley foral, se pueda permitir la consecución de los objetivos previstos en la misma.
+b) Progresividad en su implantación.
+c) Igualdad de trato de los usuarios según el nivel de contaminación que produzcan.
+Se modifican los apartado 1 y 4 por la disposición final 1 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+ Se modifican los apartados 1 y 4 por la disposición final 1 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+ Se modifican los apartados 1 y 4 por la disposición final 1 de la Ley Foral 22/2023, de 26 de diciembre. Ref. BOE-A-2024-1694
+ Se modifica, con efectos de 1 de enero de 2023, los apartados 1.a), b) y c) y el apartado 4 por la disposición final 1 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+ Se modifica por la disposición final 2 de la Ley Foral 19/2021, de 29 de diciembre de 2021. Ref. BOE-A-2022-2067
+ Se modifica por el art. único.1 de la Ley Foral 34/2013, de 26 de noviembre. Ref. BOE-A-2013-13352.
+
+### Artículo 14
+
+Artículo 14.
+El canon de saneamiento se devengará en el momento de realizar el vertido de aguas residuales, se calculará en función del suministro, y será exigible al mismo tiempo que las cuotas correspondientes al suministro de agua.
+
+### Artículo 15
+
+Artículo 15.
+1. La percepción del canon se efectuará por las Entidades suministradoras de agua, quienes lo ingresarán en el plazo de un mes, a contar desde el momento de su cobro, en favor de la Empresa pública a que se refiere el capítulo II de esta Ley Foral.
+No obstante, en el canon de usuarios que cuenten con suministros propios el cobro se realizará directamente por la citada Empresa.
+2. En el supuesto de que el canon no sea satisfecho en período voluntario podrá utilizarse para su exacción la vía de apremio.
+En el caso de que el cobro del canon se realice directamente por la empresa pública señalada en el apartado anterior, la gestión de la vía de apremio se realizará por los órganos de recaudación de la Hacienda Tributaria de Navarra.
+Si la percepción del canon se efectuara por las entidades suministradoras de agua, la gestión de la vía de apremio se realizará con arreglo al procedimiento recaudatorio que les sea aplicable a dichas entidades.
+Se modifica el apartado 2 por el art. único.2 de la Ley Foral 34/2013, de 26 de noviembre. Ref. BOE-A-2013-13352.
+
+### Artículo 16
+
+Artículo 16.
+1. En materia de infracciones y sanciones se estará a lo dispuesto en la Ley Foral 13/2000, de 14 de diciembre, General Tributaria, y en sus normas de desarrollo.
+2. Frente a los actos de gestión y de liquidación del canon dictados por la empresa pública a que se refiere el artículo anterior, los obligados tributarios podrán interponer reclamaciones económico-administrativas, cuyo conocimiento y resolución corresponderá al Gobierno de Navarra con arreglo a lo dispuesto en la sección 4.ª del Capítulo VII del Título IV de la Ley Foral 13/2000, de 14 de diciembre, General Tributaria, y en sus normas de desarrollo.
+3. Los actos de gestión, de liquidación y de recaudación del canon dictados por las entidades suministradoras de agua podrán ser impugnados conforme a lo previsto en la normativa correspondiente a ellas.
+Se modifica por el art. único.3 de la Ley Foral 34/2013, de 26 de noviembre. Ref. BOE-A-2013-13352.
+
+### Artículo 17
+
+Artículo 17.
+La exacción del canon de saneamiento es incompatible con la imposición de contribuciones especiales o tasas aplicadas a la implantación y explotación de estaciones de tratamiento, pero es compatible con la percepción de tasas y con cualquier otro precio o recurso legalmente autorizado para costear la prestación del servicio de abastecimiento de agua, alcantarillado, colectores generales y redes locales de saneamiento que no son objeto de la presente Ley Foral.
+Se modifica por la disposición adicional 15 de la Ley Foral 5/1991, de 26 de febrero. Ref. BOE-A-1991-23567.
+
+### Artículo 18
+
+Artículo 18.
+Anualmente los Presupuestos Generales de Navarra determinarán la cuantía de las transferencias de capital que se afecten a la realización de las obras de saneamiento.
+
+### Artículo 19
+
+Artículo 19.
+Las operaciones de crédito o de préstamo podrán garantizarse con cargo a la recaudación que se obtengan del canon de saneamiento regulado en esta Ley Foral.
+
+### Artículo 20
+
+Artículo 20.
+Con cargo al canon de saneamiento, las Entidades privadas podrán obtener subvenciones para financiar inversiones destinadas al cumplimiento de las finalidades establecidas en esta Ley Foral, de conformidad con los criterios y prioridades que establezca el plan director de saneamiento.
+
+### Artículo 21
+
+Artículo 21.
+El incumplimiento por las Entidades públicas o privadas de los compromisos adquiridos en la asunción de los servicios prevista en el plan director y de los proyectos de inversiones o de gestión podrá determinar la pérdida de los beneficios económicos establecidos en esta Ley Foral, sin perjuicio de las potestades sancionadoras atribuidas legalmente a las diversas Administraciones Públicas.
+
+### Artículo 22
+
+Artículo 22.
+El Gobierno de Navarra establecerá los medios de fiscalización precisos, para asegurar que los fondos asignados a las diversas Entidades se utilicen para cumplir las finalidades previstas.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+El régimen económico para la financiación de las inversiones correspondientes a los ejercicios de 1989, 1990 y 1991 en lo relativo a la afectación de las transferencias de capital consignadas en los Presupuestos Generales de Navarra, se acomodará a los criterios contenidos en las correspondientes Leyes Forales de Presupuestos Generales de Navarra y, en su caso, en la normativa de planificación plurianual de las infraestructuras locales.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Tarifas del Canon de saneamiento de aguas residuales.
+1. Las tarifas del canon de saneamiento aplicables serán, a partir del uno de enero de 2016, las siguientes:
+a) Tipos de gravamen aplicables a los usos domésticos de agua conectados a redes públicas de saneamiento: 0,597 euros/metro cúbico.
+b) Tipos de gravamen aplicables a los usos no domésticos de agua conectados a redes públicas de saneamiento: 0,715 euros/metro cúbico. Se aplicará, en su caso, el índice corrector por carga contaminante, tal como se regula en el Decreto Foral 82/1990, de 5 de abril, y en la disposición adicional séptima de la Ley Foral 19/2011, de 28 de diciembre, de Presupuestos Generales de Navarra para 2012.
+c) Usuarios no conectados a redes públicas de saneamiento y que cuenten con las necesarias autorizaciones administrativas otorgadas por los organismos competentes: 0,086 euros/metro cúbico. En caso de incumplimiento de las condiciones establecidas en la autorización de vertido a cauce público se aplicará la tarifa que proceda establecida en los apartados a) o b).
+2. Las entidades distribuidoras de agua podrán aplicar al canon de saneamiento lo establecido en sus ordenanzas reguladoras de las tasas por suministro para los supuestos de estimación de vertido en casos de fugas de agua o aplicación de bonificaciones de carácter social.
+3. Las tarifas aplicables por tratamiento de fangos procedentes de las instalaciones de depuración de titularidad privada que sean admitidos en las líneas de fangos de las depuradoras de aguas residuales adscritas al Plan Director de Saneamiento de los ríos de Navarra, serán las siguientes:
+Medición
+ Precio
+ Hasta 5 m³
+ 42,50 €
+ Hasta 10 m³
+ 85,00 €
+ Más de 10 m³
+ 8,50 €/m³
+4. Los importes anteriores se incrementarán por aplicación del Impuesto sobre el Valor Añadido correspondiente.
+Se modifica, con efectos a partir de 1 de enero de 2017, por el art. 7 de la Ley Foral 25/2016, de 28 de diciembre. Ref. BOE-A-2017-2355.
+ Se modifica por el art. 11 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Los cánones, tasas y recargos locales, vigentes sobre el saneamiento de agua que sean superiores a las tarifas de aplicación general, serán válidas únicamente y como máximo durante los ejercicios de 1989, 1990 y 1991, y tendrán el carácter de canon de saneamiento a todos los efectos previstos en esta Ley Foral teniendo, por consiguiente, la consideración de recurso de la Hacienda Pública de Navarra, a ingresar en la forma y plazo que determina el Artículo 15 de esta Ley Foral.
+En todo caso, dichos tributos deberán garantizar con el canon de saneamiento y las Transferencias presupuestarias la realización de las inversiones y explotación de los servicios que sean previstos en el plan director.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+El cumplimiento de lo exigido en el Artículo 6 de esta Ley Foral , se realizará, para el ejercicio de 1989, en el plazo de los tres meses siguientes a la constitución de la Empresa Pública.
+
+### Disposición adicional
+
+Disposición adicional.
+De conformidad con lo previsto en el artículo 9.o, b), de la Ley Foral del Gobierno y de la Administración de la Comunidad Foral de Navarra, se autoriza al Gobierno de Navarra para la formalización de los convenios de cooperación a suscribir con la Confederación Hidrográfica del Ebro y con la Confederación Hidrográfica del Norte de España según modelo anexo a la presente Ley Foral.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Gobierno de Navarra para dictar las disposiciones reglamentarias precisas para el desarrollo y ejecución de la presente Ley Foral.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Esta Ley Foral entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Navarra».
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S. M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, veintinueve de diciembre de mil novecientos ochenta y ocho.
+El Presidente del Gobierno de Navarra,
+Gabriel Urralburu Taínta.

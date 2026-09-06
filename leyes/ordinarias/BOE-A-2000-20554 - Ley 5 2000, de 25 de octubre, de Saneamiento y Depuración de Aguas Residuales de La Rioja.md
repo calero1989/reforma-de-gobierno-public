@@ -1,0 +1,923 @@
+# Ley 5/2000, de 25 de octubre, de Saneamiento y Depuración de Aguas Residuales de La Rioja.
+
+- Identificador BOE: `BOE-A-2000-20554`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2000-20554
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA RIOJA
+Sepan todos los ciudadanos que el Parlamento de la Rioja ha aprobado, y yo, en nombre de su Majestad el Rey y de acuerdo con lo que establece la Constitución y el Estatuto de Autonomía, promulgo la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+El agua constituye un recurso natural indispensable para la vida del hombre y de las demás especies que habitan nuestro planeta. Sin agua en cantidad y calidad suficientes no es posible la vida ni las actividades económicas necesarias para el sostenimiento del hombre. Satisfacer esta necesidad ha sido una constante de nuestra política de aguas. La singularidad hidrológica de nuestro país ha obligado a la sociedad y a los poderes públicos en el último siglo a emprender una acción ciclópea para garantizar la oferta de agua mediante la construcción de una de las redes de embalses más extensa del mundo. Hoy resulta necesario proseguir esta política de obras hidráulicas para hacer frente a períodos de rigurosa sequía como el que hemos padecido en los últimos años. Sin embargo, si es imprescindible disponer de agua en cantidad suficiente, lo es igualmente disponer de ella con la calidad necesaria en función de los usos a los que vaya destinada. La protección de la calidad del agua frente a la contaminación, causa fundamental de su deterioro, ha pasado a ser un componente esencial de la política tradicional de aguas, en cuanto que la calidad del agua es un reflejo de la calidad de todo el medio natural.
+Múltiples han sido las respuestas jurídicas dadas a esta problemática desde los más diversos ámbitos e instituciones. No es de extrañar que la Constitución espa ñola de 1978, en su artículo 45, muestre una especial sensibilidad por la protección de los recursos naturales garantizando el derecho de todos a disfrutar de un medio ambiente adecuado a cuyo objeto los poderes públicos velarán por su utilización racional. Esos principios, en lo que se refiere al agua, fueron desarrollados por la Ley 29/1985, de 2 de agosto (modificada por Ley 46/1999, de 13 de diciembre), que incorpora la calidad del agua y la protección de los ecosistemas acuáticos a los tradicionales enfoques preocupados por garantizar la disponibilidad del recurso.
+Asimismo, las medidas para prevenir la contaminación de las aguas constituyen el sector más completo a la vez que el más antiguo de la política ambiental comunitaria y la mejora de la calidad de las aguas constituye uno de los objetivos primordiales del quinto programa de acción en materia de medio ambiente «Hacia un desarrollo sostenible». A esa finalidad responden distintas directivas que han establecido objetivos de calidad de las aguas según los usos o normas de emisión de contaminantes (en relación con determinadas sustancias peligrosas). Mención especial merece, por lo que hace al objeto de la presente Ley, la Directiva 91/271/CEE, de 21 de mayo de 1991, sobre el tratamiento de las aguas residuales urbanas, así como las procedentes de determinados sectores industriales, que establece obligaciones bien precisas (construcción de sistemas colectores y tratamiento adecuado de las aguas recogidas antes de su vertido). Cuando nos hallamos todavía en pleno proceso de aplicación de la citada Directiva, otras posteriores se han aprobado (la 91/676/CEE, de nitratos y la 96/61/CEE, de prevención y control integrado de la contaminación) o se preparan otras de extraordinario alcance (la Propuesta de Directiva por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas). En conclusión, el marco jurídico de la política de gestión de las aguas en los Estados miembros de la Unión Europea es hoy una combinación de medidas derivadas de la legislación comunitaria y de las medidas nacionales o regionales.
+En este contexto normativo debemos situar la intervención de la Comunidad Autónoma de La Rioja en la materia. En el ejercicio de sus competencias estatutarias, la Ley 7/1994, de 19 de julio, de saneamiento y depuración de aguas residuales se adelantó a la transposición de la Directiva 91/271/CEE, realizada por el Real Decreto-ley 11/1995, de 28 de diciembre, desarrollado por el Real Decreto 509/1996, de 15 de marzo, normas ambas que tienen el carácter de legislación básica del Estado dictada en virtud de diversos títulos competenciales. El Plan Nacional de Saneamiento y Depuración de Aguas Residuales, aprobado por el Consejo de Ministros, el 17 de febrero de 1995, constituye el instrumento de coordinación de las inversiones que la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales deben acometer en cumplimiento de la Directiva 91/271/CEE.
+El tiempo transcurrido hasta la fecha, junto a la alteración del marco básico estatal en materia de tratamiento de aguas residuales urbanas, ha puesto de manifiesto una serie de insuficiencias en el régimen legal inicialmente establecido, que se ha ido subsanando por las reformas parciales acometidas por las Leyes 4/1996, de 20 de diciembre y 9/1997, de 22 de diciembre. Esas insuficiencias se referían particularmente tanto a la organización encargada del cumplimiento de las finalidades de la Ley, como a los elementos esenciales del canon de saneamiento.
+La reciente constitución del Consorcio de Aguas y Residuos de La Rioja, expresión del Pacto Local y de una inequívoca voluntad de cooperación entre la Administración regional y las Entidades Locales, profundamente respetuosa y potenciadora de la autonomía local, sienta las bases organizativas adecuadas para, desde la unión de esfuerzos, hacer frente al reto común que supone que el tratamiento de las aguas residuales esté plenamente operativo en el horizonte temporal del año 2005. El proceso de reflexión ha madurado suficientemente y parece necesario acometer una profunda reforma de la Ley 7/1994, de 19 julio, como la que ahora se propone.
+II
+La presente ley se dicta al amparo de diversos títulos jurídicos recogidos en el Estatuto de Autonomía, que considerados en conjunto prestan una apoyatura competencial indiscutible a la Comunidad Autónoma de La Rioja. En efecto, la competencia sobre «obras públicas de interés para La Rioja» (artículo 8.uno.14), la relativa a «los proyectos, construcción y explotación de aprovechamientos hidráulicos de interés para La Rioja» (artículo 8.uno.17), o la competencia para dictar «normas adicionales de protección del medio ambiente» en desarrollo de la legislación básica del Estado (artículo 9.1), así como la de regular las tasas, contribuciones especiales e impuestos propios de la Comunidad Autónoma de La Rioja de acuerdo con el artículo 157 de la Constitución [artículo 45.b)], sin olvidar otros títulos como la «sanidad e higiene» (artículo 9.5), la «ordenación del territorio» (artículo 8.uno.16), la «pesca fluvial y la acuicultura» (artículo 8.uno.21) o «la planificación, coordinación y auxilio a las Corporaciones Locales en materia de saneamiento de aguas residuales urbanas», función, esta última, tradicionalmente realizada por el Estado y las Diputaciones Provinciales (artículo 13), constituyen el fundamento para regular el saneamiento y depuración de las aguas residuales vertidas en el ámbito territorial de La Rioja, por la incidencia supramunicipal inherente a dicha actividad.
+III
+La Ley tiene como objetivo ambiental garantizar el buen estado de las aguas superficiales y subterráneas de La Rioja, mediante la acción coordinada de las distintas Administraciones Públicas con competencia en materia de saneamiento. Establece como directriz fundamental el principio de gestión integrada de los servicios públicos del agua y de la protección del medio ambiente.
+A tal efecto, delimita las competencias respectivas de la Administración de la Comunidad Autónoma y de las Entidades Locales. Las competencias regionales se justifican en el carácter supramunicipal que tiene el saneamiento, dado que la calidad de los vertidos afecta, aguas abajo, al resto de los usuarios de la cuenca hidrográfica y a la protección de determinados bienes y valores ambientales competencia de la Comunidad Autónoma. Por esta razón se declaran de interés general de la Comunidad Autónoma ciertas obras y servicios de saneamiento.
+En cuanto a las competencias municipales, la presente Ley, de acuerdo con lo dispuesto en la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local y la legislación básica en materia de tratamiento de las aguas residuales urbanas, contenida en el Real Decreto-ley 11/1985, de 28 de diciembre, concreta las competencias específicas que tienen los municipios en materia de «alcantarillado y tratamiento de aguas residuales» (artículo 25.2.l). El alcantarillado, de acuerdo con la legislación básica estatal, constituye un servicio obligatorio de competencia municipal, si bien se establecen los necesarios mecanismos de coordinación. El resto de los servicios de saneamiento (colectores generales e instalaciones de depuración) se declaran de interés general, que no excluye la competencia local, aunque la sujeta a coordinación, de acuerdo con lo dispuesto en el Plan Director de Saneamiento. La gestión de tales servicios corresponde a los municipios, por sí o asociados, pero de acuerdo con el principio cooperativo que preside la Ley, las Entidades Locales pueden atribuir su gestión al Consorcio de Aguas y Residuos, llamado a convertirse por esta vía absolutamente voluntaria en el organismo gestor de los servicios públicos del agua y residuos, de acuerdo con la concepción integral de la protección del medio ambiente.
+IV
+La planificación de la actuación de las Administraciones Públicas en materia de saneamiento se fundamenta en el principio de prevención de la contaminación de todas las aguas, de acuerdo con la unidad del ciclo hidrológico. El Plan Director de Saneamiento y Depuración es el instrumento de naturaleza normativa mediante el que se coordina y programa la actividad administrativa, que tiene el carácter de Plan sectorial de coordinación de los previstos en la legislación básica de régimen local. La Ley regula con el detalle suficiente las determinaciones que debe contener el Plan Director; el procedimiento de su elaboración y aprobación, garantizando una amplia participación institucional; la actualización y la revisión del Plan, concebida en términos flexibles; regula los efectos de la aprobación del plan; el régimen de las obras e instalaciones de saneamiento, no sujetas a licencia municipal, pero sí al ineludible trámite de audiencia previa al municipio afectado, procedimiento absolutamente respetuoso de la autonomía municipal, como recientemente ha vuelto a recordar el Tribunal Constitucional; finalmente, se contempla la posible sujeción de los proyectos de obras de saneamiento a evaluación de impacto ambiental.
+V
+La Ley regula, como novedad no contemplada con anterioridad, el régimen básico de los vertidos más potencialmente contaminantes, los no domésticos, realizados a las redes de saneamiento de titularidad municipal o del Consorcio de Aguas y Residuos. Esta regulación podrá ser convenientemente desarrollada, en los supuestos así previstos, por normas reglamentarias generales o por las correspondientes Ordenanzas municipales. A estos efectos establece los vertidos prohibidos y los tolerados, mediante su descripción en sendos anexos, susceptibles de actualización reglamentaria. La Ley opta por sujetar a actualización previa todos los vertidos no domésticos directos a colectores generales y a las instalaciones de tratamiento y depuración, así como determinados vertidos no domésticos que no sean asimilables cualitativa ni cuantitativamente al de un usuario doméstico. Los demás vertidos se sujetan al deber de comunicación a la Administración competente, lo que no les exime de cumplir los requisitos generales establecidos reglamentariamente para esas clases de vertidos y de la inspección correspondiente. Los vertidos no domésticos autorizados o comunicados se inscribirán en un Registro específico. La Ley impone a los titulares de los vertidos una serie de obligaciones que deberán justificarse, en su caso, con ocasión de la solicitud de autorización de vertido (estudio de las características del vertido, tratamiento previo, arquetas y aparatos de medición), así como el deber genérico de colaboración con las Administraciones competentes.
+VI
+La Ley contiene una regulación suficiente del sistema de infracciones y sanciones para garantizar el adecuado cumplimiento del régimen de vertidos realizados a las redes de saneamiento, a cuyo objeto se habilita a las Administraciones competentes para dictar las medidas aplicables en cada caso. En efecto, las infracciones se clasifican en leves, graves y muy graves y se describen básicamente los tipos de infracciones, sin perjuicio de que puedan ser completados y desarrollados mediante reglamentos generales u Ordenanzas municipales. Se regula, asimismo, la cuantía de las multas, susceptible igualmente de una mayor concreción, el principio de reparación de los daños causados por vertidos y las reglas relativas a la prescripción de las infracciones y sanciones, el procedimiento y competencia para tramitarlas.
+VII
+Las peculiaridades derivadas del mapa municipal de nuestra Comunidad Autónoma, caracterizado por la presencia mayoritaria de pequeños municipios que difícilmente pueden asumir en solitario la carga financiera y la gestión de las instalaciones de saneamiento a las que obliga esta Ley, están en la base de la constitución del Consorcio de Aguas y Residuos, auspiciada por el Gobierno de La Rioja y al que se han adherido la mayor parte de los municipios. La fórmula consorcial, de naturaleza estrictamente voluntaria y encuadrada dentro del Pacto Local, resulta especialmente adecuada en cuanto respetuosa con la autonomía local, por la flexibilidad de su régimen jurídico y de su diseño organizativo, en el que está garantizada la participación de la Administración de la Comunidad Autónoma y de las Entidades Locales adheridas. Ese espíritu cooperativo se ha materializado ya mediante su constitución y la Ley se limita a sacar las consecuencias oportunas de su existencia estableciendo aquellas previsiones que permitan encomendar al Consorcio de Aguas y Residuos el cumplimiento de las funciones que corresponden a la Administración regional o a las Entidades locales adheridas, sin renunciar, no obstante, a dar cobertura legal a las potestades atribuidas al Consorcio. Pensando en el futuro con suficiente amplitud de miras, la Ley establece los presupuestos para que el Consorcio pueda llegar a convertirse en el ente gestor de los servicios públicos del agua y de los residuos.
+VIII
+En cuanto al régimen de financiación de los objetivos de esta Ley, también la experiencia habida hasta la fecha conforme a la legislación precedente, aconseja introducir ciertas modificaciones. Así debe destacarse la mención expresa del carácter impositivo del canon de saneamiento, pues no era otra la naturaleza jurídica del que se sustituye, formulándose como hecho imponible el vertido de aguas residuales al medio ambiente, puesto de manifiesto a través del consumo de aguas.
+Igualmente debe ponerse de relieve la configuración de los sujetos pasivos para los casos de suministro de agua, pues la entidad suministradora se califica como sujeto pasivo sustituto, debiendo ser ella quien declare e ingrese el importe del canon que debe repercutir a los contribuyentes que consumen el agua. De este modo se alcanza un mayor grado de seguridad jurídica para estas entidades, pues sus derechos y deberes se corresponden a los de una categoría de sujetos pasivos de gran tradición en el ordenamiento tributario español, frente a la situación más difusa de otros obligados tributarios que no son sujetos pasivos y en la que debían incluirse conforme a la legislación precedente. Contribuyente será siempre quien consuma el agua o realice el vertido.
+Entre las medidas previstas que redundarán en una menor incidencia en las tareas de gestión de las entidades suministradoras se encuentra la de que el sustituto no deberá distinguir entre las distintas condiciones del usuario, a efectos de cuantificar el canon repercutible, pues para el suministrador todos los usuarios tendrán la condición de domésticos. Los usuarios no domésticos deberán presentar su propia declaración-liquidación teniendo en cuenta la carga contaminante de sus vertidos, deduciendo de su cuota las cantidades soportadas por repercusión.
+El sustituto deberá ingresar en concepto de tributo las cantidades trasladables, con independencia del resultado de su acción de repercusión, si bien en los casos de imposibilidad objetiva de cumplimiento por el contribuyente podrá aquél recuperar las cantidades ingresadas pero que no fueron efectivamente repercutidas.
+Se da rango de Ley a diversos aspectos que hasta ahora se habían contemplado exclusivamente en normas reglamentarias dictadas al amparo de las correspondientes remisiones legales. En la determinación de la base imponible se introduce una previsión específica para usuarios no domésticos donde se tendrá en cuenta, además del volumen de agua consumida, la carga contaminante del vertido, así como el volumen del vertido cuando por razón de la actividad exista una diferencia superior a 1.000 metros cúbicos anuales y represente más de un diez por ciento respecto del agua consumida. El importe del canon de saneamiento se establece de forma diferenciada para usuarios domésticos y no domésticos.
+Por cuanto se refiere a la gestión del tributo, la Ley contempla la posibilidad de delegar ciertos aspectos en el Consorcio de Aguas y Residuos de La Rioja. Esa delegación, que en ningún caso comporta competencias normativas sobre el canon, requiere para su materialización la correspondiente aprobación por el Gobierno de La Rioja.
+Como nuestra Comunidad Autónoma se caracteriza porque sean las mismas entidades municipales quienes suministran el agua a los ciudadanos, incumbiéndoles también competencias en materia medio ambiental, no se considera necesario establecer compensación indemnizatoria alguna en favor del sustituto, pues en estos casos es donde con mayor claridad se evidencia el fundamento del deber de colaboración en el principio de solidaridad, al margen del interés de esos mismos entes públicos en una mayor recaudación por el canon de saneamiento, que en última instancia siempre redundará en una menor participación con cargo a sus respectivos presupuestos para financiar los fines propios de esta Ley.
+De acuerdo con todo lo anterior, la presente Ley se estructura en seis Capítulos, dedicados respectivamente a «Principios generales»; «De las competencias de la Administración regional y de las Entidades Locales»; «De la planificación en materia de saneamiento y depuración»; «De los vertidos»; «De las infracciones y sanciones» y «Régimen económico-financiero», y con cuarenta y seis artículos, cinco Disposiciones adicionales, cinco disposiciones transitorias, una Disposición derogatoria y tres Disposiciones finales.
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+La presente Ley tiene por objeto proteger el buen estado de las aguas superficiales y subterráneas, garantizando el saneamiento y depuración de las aguas residuales vertidas en el ámbito territorial de La Rioja, a través de la actuación coordinada de las distintas Administraciones Públicas con competencia en la materia. A estos efectos, la presente Ley:
+a) Delimita las competencias que corresponden en materia de saneamiento y depuración a la Administración regional y a las Entidades Locales, instaurando un marco de cooperación entre ellas que facilite el cumplimiento efectivo de sus respectivas obligaciones y competencias.
+b) Establece los mecanismos de dirección, planificación y ejecución mediante los cuales la Administración regional garantiza el cumplimiento de las normas de calidad y los objetivos ambientales en materia de aguas de acuerdo con la normativa comunitaria, la legislación básica del Estado, la planificación hidrológica y las normas adicionales de protección que pueda aprobar la Comunidad Autónoma de La Rioja.
+c) Disciplina el régimen de los vertidos a las redes de saneamiento de titularidad municipal, a los que sujeta a previa autorización o comunicación, y los deberes que corresponden a sus titulares.
+d) Establece el sistema de infracciones y sanciones susceptible de desarrollo por normas de rango reglamentario, incluidas las Ordenanzas municipales.
+e) Regula el régimen económico-financiero específico destinado a financiar los gastos de construcción, gestión, explotación y mantenimiento de las instalaciones de saneamiento y depuración.
+f) Prevé el cumplimiento de los fines de la presente Ley a través del Consorcio de Aguas y Residuos de La Rioja, constituido por la Administración de la Comunidad Autónoma de La Rioja y las Entidades Locales.
+
+### Artículo 2
+
+Artículo 2. Objetivos ambientales y gestión integrada de los servicios públicos del agua.
+1. Los servicios públicos de saneamiento y depuración de las aguas residuales serán concebidos y gestionados de manera que puedan alcanzarse los objetivos ambientales establecidos para las aguas superficiales y subterráneas, y un nivel elevado de protección del medio ambiente.
+2. La gestión de los servicios públicos de saneamiento y depuración de aguas residuales deberá realizarse preferentemente de manera integrada con los servicios públicos de abastecimiento de aguas.
+A los efectos de una protección integrada del medio ambiente, podrán gestionarse junto con los servicios del agua los de residuos.
+
+### Artículo 3
+
+Artículo 3. Definiciones.
+A los efectos de esta Ley se entiende por:
+a) «Alcantarillado»: La red de canalizaciones construida de acuerdo con las normas y planificación urbanística municipal, para conducir las aguas residuales urbanas, domésticas o no, hasta los puntos en que, según lo previsto en el Plan Director de Saneamiento y Depuración, deban incorporarse a los colectores generales o, en su caso, a las instalaciones de depuración.
+b) «Colectores generales»: Las canalizaciones y conductos de recogida de las aguas residuales desde donde termine la red de alcantarillado hasta las instalaciones de depuración, de acuerdo con lo que se disponga en el Plan Director de Saneamiento y Depuración.
+c) «Instalaciones de depuración»: Las instalaciones a las que vierten los colectores generales o el alcantarillado, y donde las aguas residuales reciben el tratamiento que corresponda.
+d) «Sistemas de saneamiento individual»: Las instalaciones de saneamiento y depuración que, por razones técnicas o económicas, no están unidas a las redes de alcantarillado, a los colectores generales o a las instalaciones de depuración de titularidad pública.
+e) «Vertidos de aguas residuales domésticas»: Los vertidos de aguas residuales procedentes de viviendas o locales de servicios y generadas principalmente por el metabolismo humano y las actividades domésticas.
+f) «Vertidos de aguas residuales no domésticas»: Los vertidos de aguas residuales procedentes de locales o instalaciones en los que se realice cualquier actividad industrial, comercial o de servicios.
+
+## CAPÍTULO II
+
+De las competencias de la Administración Regional y de las Entidades Locales
+
+### Artículo 4
+
+Artículo 4. Competencias de la Administración Pública de la Comunidad Autónoma de La Rioja.
+1. Es competencia de la Administración de la Comunidad Autónoma de La Rioja que ejercerá por medio de los órganos o entidades que determina esta Ley:
+a) El establecimiento y ejecución de la política regional de saneamiento y depuración de aguas, así como en su caso, la de abastecimiento de aguas y gestión de residuos.
+b) La elaboración y aprobación del Plan Director de Saneamiento y Depuración.
+c) La aprobación definitiva de los planes y proyectos de ejecución de obras e instalaciones de depuración y colectores generales, de acuerdo con lo dispuesto en la presente Ley.
+d) La elaboración de los planes y proyectos de obras e instalaciones de saneamiento y depuración, incluida su ejecución y explotación, cuando así lo haya establecido el Plan Director, así resulte de los convenios suscritos con las Entidades Locales o, en los casos de sustitución de las Entidades Locales, cuando éstas hayan incumplido sus obligaciones.
+e) La gestión, recaudación, inspección y revisión del canon de saneamiento regulado en esta Ley, así como la potestad sancionadora.
+f) La regulación de los vertidos a las redes de alcantarillado y a los colectores generales, estableciendo las limitaciones máximas de caudal y carga contaminante en función de las características de las redes e instalaciones de saneamiento y depuración, en el marco de lo dispuesto en la legislación comunitaria, en la normativa básica estatal y de la planificación hidrológica.
+g) La alta inspección de los vertidos a las redes de alcantarillado y el control de los vertidos a los colectores generales, así como el control de la eficacia del proceso de tratamiento en las instalaciones de depuración, de acuerdo con las normas de calidad y objetivos ambientales establecidos en el Plan Director.
+h) La elaboración de programas de prevención de la contaminación para sectores determinados de actividad económica.
+i) Cualesquiera otras atribuciones que le correspondan en aplicación de esta Ley o de la normativa comunitaria o estatal.
+2. El Gobierno de La Rioja y la Consejería que tenga atribuidas las competencias en materia de medio ambiente son los órganos que ejercen las competencias sobre saneamiento y depuración de aguas que corresponden a la Administración de la Comunidad Autónoma de acuerdo con lo establecido en la presente Ley.
+La Consejería con competencias en materia de Hacienda ejercerá las funciones que en relación con el canon de saneamiento le atribuye la presente Ley.
+3. De acuerdo con los principios de cooperación, coordinación y eficacia administrativa, la Administración regional podrá ejercer sus competencias en esta materia a través del Consorcio de Aguas y Residuos de La Rioja, organismo especializado encargado del saneamiento y depuración de aguas residuales. El Consorcio de Aguas y Residuos de La Rioja podrá extender sus actividades a los servicios públicos de abastecimiento de aguas y de gestión de residuos, de manera que su actuación responda a una concepción integral de la gestión del agua y de la protección del medio ambiente.
+
+### Artículo 5
+
+Artículo 5. Actuaciones de interés general para la Comunidad Autónoma.
+1. Por la presente Ley se declaran de interés general para la Comunidad Autónoma las obras y servicios siguientes:
+a) Los colectores generales.
+b) Las instalaciones de depuración.
+2. En ningún caso tendrán la consideración de interés general para la Comunidad Autónoma de La Rioja, las redes de alcantarillado municipal hasta su conexión con los colectores generales, ni los sistemas de saneamiento individual.
+3. La declaración de interés general a la que se refiere el apartado primero de este artículo no excluye las competencias municipales sobre tales obras y servicios, si bien las facultades que correspondan a los Municipios quedan sujetas a coordinación de acuerdo con los objetivos y prioridades establecidas en el Plan Director, todo ello de conformidad con el artículo 59 de la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local.
+Esta declaración de interés general es, asimismo, compatible con la cooperación que la Administración regional pueda establecer con la Administración General del Estado en materia de saneamiento y depuración, mediante la celebración de los oportunos convenios.
+
+### Artículo 6
+
+Artículo 6. Competencias de las Entidades Locales.
+1. Es competencia municipal la prestación del servicio de alcantarillado. Los Municipios en relación con el mismo, tienen las siguientes competencias:
+a) La de planificar sus redes mediante el instrumento de ordenación urbana que resulte apropiado de acuerdo con la legislación urbanística. En todo caso, los instrumentos de planeamiento urbanístico municipales deberán respetar las previsiones del Plan Director de Saneamiento y Depuración.
+b) La construcción y mantenimiento de las redes de alcantarillado.
+c) La aprobación de las tarifas del servicio de alcantarillado, así como otras prestaciones tributarias compatibles con lo dispuesto en la presente Ley.
+d) El control de vertidos a las redes municipales de alcantarillado, de acuerdo con las correspondientes Ordenanzas municipales, que deberán respetar como mínimo los valores límite de emisión y normas de calidad ambiental establecidos en la presente Ley y en su normativa de desarrollo.
+e) La determinación de las zonas a las que no alcanzan las redes de alcantarillado y que deben contar con sistemas de saneamiento individual.
+2. En relación con las instalaciones de saneamiento y depuración declaradas de interés general de la Comunidad Autónoma, corresponde a las Entidades Locales:
+a) Promover la elaboración de planes y proyectos de obras de saneamiento y depuración o, en su caso, elaborarlos, enviándolos a la Administración regional para su aprobación definitiva.
+b) La contratación y ejecución de las obras de saneamiento y depuración con arreglo a los planes y proyectos aprobados definitivamente.
+c) La gestión de dichas instalaciones, por sí mismas o en unión con otras Entidades Locales, en el marco de lo que disponga el Plan Director de Saneamiento y Depuración, con arreglo a las formas organizativas que consideren conveniente.
+3. La Administración regional prestará a las Entidades Locales la asistencia técnica y financiera necesaria para el cumplimiento de las obligaciones previstas en esta Ley, en el marco del Plan Director y de los planes y programas para su ejecución.
+4. No obstante lo dispuesto en la letra c) del apartado 2 anterior, las Entidades Locales podrán atribuir la gestión de los colectores generales e instalaciones de saneamiento y depuración, así como el control de los vertidos a las redes municipales de alcantarillado, al Consorcio de Aguas y Residuos de La Rioja.
+Del mismo modo, podrán atribuir al Consorcio la construcción y el mantenimiento y la explotación de las instalaciones a que hace referencia el artículo 31.2 siguiente, para lo cual se suscribirá un convenio en el que se regulará la participación del municipio en dichas actividades.
+5. Cuando las Entidades Locales no cumplan las obligaciones inherentes a sus competencias en materia de saneamiento y depuración o no ejecuten las obras de infraestructura de titularidad municipal en los plazos y en la forma establecidos en el Plan Director, la Administración regional formulará requerimiento al efecto y, caso de no ser atendido, quedará legitimada para sustituir a la Entidad Local, a su costa, de acuerdo con lo previsto en el artículo 60 de la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local. Las actuaciones que por subrogación pudieran corresponder a la Administración regional podrán ser atribuidas por ésta al Consorcio de Aguas y Residuos de La Rioja.
+Se modifica el apartado 4 por el art. 17 de la Ley 2/2021, de 29 de enero. Ref. BOE-A-2021-2766
+
+## CAPÍTULO III
+
+De la planificación en materia de saneamiento y depuración
+
+### Artículo 7
+
+Artículo 7. Principios generales.
+1. La planificación de la actuación de las Administraciones Públicas de La Rioja en materia de saneamiento y depuración se fundamenta en el principio de prevención de la contaminación de las aguas superficiales y subterráneas con el objeto de alcanzar un buen estado de todas las aguas y un nivel elevado de protección del medio ambiente en los plazos y en la forma establecidos en la legislación aplicable.
+2. La unidad del ciclo hidrológico, el tratamiento adecuado de las aguas residuales y, en su caso, la reutilización de las mismas, así como de los lodos obtenidos, constituyen principios que deben orientar la actividad pública en materia de saneamiento y depuración para la adecuada protección del medio ambiente.
+3. A estos efectos, la interrelación entre las políticas de ahorro del agua, de abastecimiento, de utilización y depuración, de acuerdo con una gestión integrada de los servicios públicos del agua, constituye un principio rector del desarrollo y ejecución del régimen jurídico regulado en esta Ley y, de manera particular, de la elaboración y ejecución del Plan Director de Saneamiento y Depuración.
+
+### Artículo 8
+
+Artículo 8. Plan Director de Saneamiento y Depuración.
+1. El Plan Director de Saneamiento y Depuración es el instrumento de naturaleza normativa mediante el que se coordina y programa la actividad de la Administración regional y de las Entidades Locales para la consecución de los objetivos establecidos en la presente Ley, de acuerdo con el principio de gestión integrada de los servicios públicos del agua.
+2. El Plan Director tiene la naturaleza de plan sectorial de coordinación de los previstos en el artículo 59 de la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local.
+3. El Plan Director contendrá las siguientes determinaciones:
+a) Un diagnóstico del estado de calidad de las aguas, la identificación de las fuentes de contaminación y de las instalaciones de saneamiento y depuración existentes y de las necesarias para alcanzar los objetivos del Plan.
+b) La delimitación, previa audiencia de los municipios afectados, de las aglomeraciones urbanas en que se estructura el territorio de La Rioja a los efectos de la determinación de la Entidad Local a la que corresponda el cumplimiento de las obligaciones en materia de saneamiento.
+c) Los habitantes-equivalentes que corresponden a cada una de las referidas aglomeraciones, según la población residente y las actividades susceptibles de causar contaminación, a los efectos de establecer la clase de tratamiento que deba darse a las aguas residuales producidas.
+d) La delimitación de las zonas protegidas de acuerdo con la normativa comunitaria, entre las que deberán incluirse las de captación de aguas destinadas al consumo humano, las aptas para la vida de la fauna piscícola, las destinadas a zona recreativa y de baño, las declaradas vulnerables, las de protección de hábitat o especies, así como las declaradas sensibles por la Administración hidráulica competente.
+e) Las medidas básicas relativas a la emisión de contaminantes que garanticen el cumplimiento de las normas de calidad y objetivos ambientales establecidos en la normativa comunitaria, legislación básica estatal, planificación hidrológica, así como en las normas adicionales de protección que pueda aprobar la Comunidad Autónoma de La Rioja, de acuerdo con las características hidrológicas de los distintos ámbitos territoriales de La Rioja.
+f) Las características técnicas básicas de los colectores generales, así como de las instalaciones de depuración, en función de los sistemas de tratamiento necesarios que garanticen la eficiencia técnica y económica de las mismas.
+g) El programa de actuaciones, incluido el marco general de su financiación, señalando las prioridades en función de los distintos horizontes temporales de ejecución del Plan.
+h) El estudio económico razonado de los costes de explotación, y en su caso, de construcción de las instalaciones, que sirva de base para la determinación de la cuantía del canon de saneamiento.
+i) La Administración a quien corresponda la elaboración de los planes y proyectos de obras e instalaciones de saneamiento y depuración, incluida su ejecución y explotación.
+
+### Artículo 9
+
+Artículo 9. Elaboración y aprobación.
+1. El Plan Director de Saneamiento y Depuración será elaborado por los servicios correspondientes de la Consejería que tenga atribuidas las competencias de medio ambiente y aprobado inicialmente por el Consejero.
+2. El Plan se someterá a informe simultáneo del Consorcio de Aguas y Residuos, del Consejo del Agua de La Rioja, de las Federaciones de Municipios existentes en el ámbito territorial de la Comunidad Autónoma de La Rioja, de la Comisión de Medio Ambiente, de la Comisión de Ordenación del Territorio y Urbanismo y de las Confederaciones Hidrográficas a cuyo ámbito territorial pertenezca La Rioja, a los efectos de que, en el plazo de dos meses, aleguen lo que estimen conveniente en relación con sus respectivas competencias, en particular, sobre la coherencia entre el Plan Director y los instrumentos de planificación hidrológica, de ordenación del territorio y medio ambiente existentes.
+3. Una vez incorporados dichos informes al Plan, el Consejero competente, previo anuncio en el «Boletín Oficial de La Rioja», abrirá un plazo de información pública, que tendrá una duración mínima de un mes, para que las personas o entidades interesadas aleguen lo que consideren oportuno.
+4. Si a consecuencia del proceso de consultas y de información pública, se introdujesen, a juicio del Consejero competente, modificaciones sustanciales en el proyecto de Plan, podrá ser sometido, antes de la aprobación definitiva, a nuevos informes de los órganos y entidades enumeradas en el apartado 2 de este artículo.
+5. El Gobierno de La Rioja, previa consideración de las alegaciones presentadas, aprobará definitivamente el Plan. El acuerdo de aprobación del Plan, así como todas sus determinaciones de carácter normativo se publicarán en el «Boletín Oficial de La Rioja».
+
+### Artículo 10
+
+Artículo 10. Actualización y revisión del Plan Director.
+1. El Programa de actuaciones del Plan Director de Saneamiento y Depuración se actualizará cada dos años en función de las actividades realizadas y de los objetivos ambientales que vayan alcanzándose. La Consejería que tenga atribuidas las competencias de medio ambiente impulsará el proceso de actualización elevándolo, para su aprobación, al Gobierno de La Rioja.
+2. Cuando fuera necesario modificar sustancialmente los objetivos a cumplir, los medios financieros a utilizar o se haya modificado el marco jurídico existente afectando de forma fundamental al contenido del Plan Director, deberá procederse a su revisión mediante el mismo procedimiento seguido para su aprobación.
+
+### Artículo 11
+
+Artículo 11. Efectos de la aprobación del Plan.
+La aprobación del Plan Director de Saneamiento y Depuración tiene como efectos:
+a) La vinculación de la actividad de la Administración regional y de las Entidades Locales a lo que en él se determine. En particular, los instrumentos de planeamiento urbanístico cuando contengan prescripciones contrarias al Plan Director deberán adaptarse a sus determinaciones con ocasión de su primera modificación o revisión. En esos casos y hasta tanto se modifiquen o revisen dichos instrumentos, serán de aplicación preferente las previsiones del Plan Director desde el momento de su entrada en vigor.
+b) La declaración de utilidad pública e interés social, la necesidad de ocupación y la urgencia de la expropiación forzosa de las obras, terrenos e instalaciones necesarias para la realización de las actuaciones contenidas en el Plan o en los proyectos que lo desarrollen.
+
+### Artículo 12
+
+Artículo 12. Obras e instalaciones.
+1. La ejecución de obras e instalaciones de saneamiento y depuración de interés general, comprendidas en el ámbito de esta Ley se realizará de acuerdo con el proyecto técnico correspondiente, cuya aprobación definitiva corresponderá a la Consejería competente en materia de medio ambiente. En su elaboración deberán tenerse en cuenta las características técnicas básicas establecidas en el Plan Director de Saneamiento y Depuración para las distintas categorías de obras e instalaciones, de manera que su explotación y mantenimiento responda a los principios de eficiencia, economía de gastos y protección del medio ambiente.
+2. La ejecución de obras y la puesta en marcha de las instalaciones de interés general de la Comunidad Autónoma previstas en el Plan Director de Saneamiento y Depuración no estarán sujetas a los actos de control preventivo municipal a que se refiere el art. 84.1.b) de la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local. Antes de la aprobación definitiva del proyecto por la Administración de la Comunidad Autónoma, se dará trámite de audiencia a los municipios interesados por un plazo mínimo de un mes para que aleguen lo que estimen conveniente en relación con sus competencias. No será necesario cumplimentar dicho trámite cuando el proyecto haya sido elaborado por el propio municipio afectado.
+3. Cuando la obra o instalación haya sido promovida por varios municipios, bien directamente o mediante cualquiera de las formas asociativas previstas en la legislación de régimen local, la aprobación inicial del proyecto corresponderá a cada uno de los Ayuntamientos o al ente asociativo que puedan haber constituido a tal efecto. En dichos casos, los acuerdos definitivos que se adopten en relación con el proyecto técnico deberán especificar, además, la participación financiera que corresponde a cada uno de ellos en relación con la construcción y posterior mantenimiento, sin perjuicio de su posible encomienda al Consorcio de Aguas y Residuos.
+
+### Artículo 13
+
+Artículo 13. Evaluación de impacto ambiental.
+1. La construcción de las instalaciones de saneamiento y depuración incluidas en el Plan Director estará sujeta a evaluación de impacto ambiental cuando así resulte del ordenamiento jurídico aplicable.
+2. Si la declaración de impacto fuera negativa en algún caso concreto y no existieran medidas correctoras que puedan aplicarse, deberá procederse a una revisión, en lo que proceda, del Plan Director, adoptando las medidas necesarias para que quede garantizado el saneamiento y depuración de las aguas residuales.
+
+## CAPÍTULO IV
+
+De los vertidos
+
+### Artículo 14
+
+Artículo 14. Vertidos prohibidos y tolerados.
+1. Quedan prohibidos los vertidos a las redes de alcantarillado, sistemas colectores o instalaciones de saneamiento que contengan los compuestos y sustancias recogidos en el Anexo 1, que podrá ser actualizado reglamentariamente.
+2. Se consideran vertidos tolerados todos los que no estén incluidos en el apartado anterior siempre que no sobrepasen los valores límite de emisión establecidos en el Anexo 2 o, en su caso, en la Ordenanza municipal, y permitan alcanzar o mantener un buen estado de las aguas, de acuerdo con las normas de calidad y los objetivos ambientales que resulten aplicables. Las sustancias y valores contenidos en el referido anexo podrán ser actualizados reglamentariamente. Los valores límite de emisión se aplicarán en la arqueta de toma de muestras a que se refiere el apartado 2, letra b), del artículo siguiente, sin tener en cuenta la dilución en el medio receptor.
+3. Los vertidos provenientes de sistemas de saneamiento individual se regularán reglamentariamente dentro del marco establecido por esta Ley.
+4. Cuando el sistema de depuración individual conlleve la infiltración controlada al terreno como técnica de corrección requerirá, además de la preceptiva autorización del vertido por parte del organismo de cuenca, licencia ambiental en los términos previstos en la Ley 5/2002, de 8 de octubre, de Protección del Medio Ambiente de La Rioja salvo que la actividad de la que forme parte esté sujeta a otro régimen de intervención administrativa conforme a lo previsto en la mencionada Ley. El otorgamiento de la licencia ambiental requerirá informe preceptivo y vinculante de la Consejería competente en materia de medio ambiente del Gobierno de La Rioja.
+Se añade el apartado 4 por el art. 33.1 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+
+### Artículo 15
+
+Artículo 15. Solicitud de autorización de vertidos no domésticos.
+1. Los titulares de las instalaciones industriales, comerciales o de servicios que pretendan verter aguas residuales a las redes de alcantarillado deberán solicitar del Ayuntamiento titular de las redes de alcantarillado o, en su caso, del Consorcio de Aguas y Residuos de La Rioja, la autorización correspondiente cuando el vertido no sea asimilable cualitativa ni cuantitativamente al de un usuario doméstico. Los vertidos directos a los colectores generales y a las instalaciones de tratamiento y depuración requerirán autorización expresa de la Administración titular correspondiente o, en su caso, del Consorcio de Aguas y Residuos de La Rioja.
+2. La solicitud de autorización irá acompañada de la siguiente documentación:
+a) Un estudio justificativo de las características y volumen de las aguas residuales producidas por la actividad no doméstica, así como del tratamiento previo al que se someterán dichas aguas antes de su vertido a las redes de saneamiento y los resultados del mismo.
+b) Acreditación de la existencia de una arqueta que permita la toma de muestras, la cual deberá, en todo caso, estar colocada dentro de la instalación industrial, comercial o de servicios y antes de su conexión con la red de saneamiento.
+c) Cuando los vertidos, por superar los límites del anexo 2 o por otras circunstancias, requieran la existencia de instalaciones de tratamiento o de aparatos de medición del caudal vertido u otros instrumentos de medición de la carga contaminante, se presentará una memoria técnica relativa a dichas instalaciones, acreditándose la ubicación de éstas dentro de la instalación industrial, comercial o de servicios y antes de su conexión a la red de saneamiento.
+d) Si los vertidos fueran a ser tratados en instalaciones externas se presentará un estudio técnico de volúmenes, temporadas y composición estimada de las aguas a tratar, así como el compromiso de aceptación de la instalación de tratamiento prevista.
+Se añade el apartado 2.d) por el art. 33.2 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+
+### Artículo 16
+
+Artículo 16. Autorización de vertido.
+1. La Administración regional, los Ayuntamientos o, en su caso, el Consorcio de Aguas y Residuos de La Rioja, autorizarán el vertido cuando se ajuste a los valores límite de emisión fijados en el Anexo 2 de la presente Ley o en las Ordenanzas municipales, de manera que permitan cumplir las normas de calidad y objetivos ambientales que resulten aplicables.
+2. La autorización de vertido podrá establecer, entre otras, las siguientes determinaciones:
+a) Los valores medios permitidos en las concentraciones de contaminantes y características físico-químicas de las aguas residuales vertidas que no podrán sobrepasarse, sin perjuicio de la carga contaminante realmente producida a los efectos de lo dispuesto en los artículos 40.3 y 42.2 de la presente ley.
+b) Condiciones más rigurosas a las establecidas en el anexo 2 o, en su caso, en las Ordenanzas municipales, en cuanto a los valores máximos de emisión o en la calidad de la composición del vertido, cuando sea necesario para el cumplimiento de las normas de calidad y los objetivos ambientales establecidos.
+c) El volumen máximo de caudal y horario de las descargas.
+d) La obligación de realizar análisis periódicos del caudal y características del vertido. Dichos análisis deberán realizarse por un laboratorio acreditado.
+e) Declaración anual de las incidencias de la explotación del sistema de tratamiento y resultados obtenidos en la mejora del vertido.
+f) Prescripciones adicionales para los supuestos de vertidos accidentales.
+3. Las autorizaciones de vertido tendrán una duración de cinco años y serán renovables sucesivamente, previa la oportuna comprobación del cumplimiento de las condiciones impuestas y de las normas de calidad y objetivos ambientales que resulten aplicables en cada momento.
+Sin perjuicio de lo anterior, la autorización de vertido podrá ser revocada sin que ello genere ningún derecho de indemnización cuando de manera sistemática se incumplan las condiciones que motivaron su otorgamiento, cuando se haya revocado la licencia o autorización ambiental que permita el desarrollo de la actividad, o cuando ello resulte necesario para atender un requerimiento legal y/o ambiental sobrevenido.
+4. Reglamentariamente podrán establecerse límites de carga o caudal por encima de los cuales no pueden autorizarse vertidos no domésticos a las redes o a las instalaciones de saneamiento y depuración. Este límite podrá fijarse de forma cuantitativa o como un porcentaje de carga o caudal del núcleo en el que radique la actividad. Los municipios o entes públicos responsables de las instalaciones de saneamiento y depuración podrán no obstante suscribir convenios con quienes pretendan realizar vertidos que superen los mencionados límites al objeto de determinar las aportaciones económicas que deban realizar los titulares de los vertidos para financiar la ampliación o adaptación de las instalaciones.
+Se modifica el apartado 3 por el art. 37.1 de la Ley 6/2007, 21 de diciembre. Ref. BOE-A-2008-906.
+ Se añade el apartado 4 por el art. 33.3 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+
+### Artículo 17
+
+Artículo 17. Registro de vertidos.
+1. Las autorizaciones de vertidos no domésticos otorgadas de acuerdo con lo dispuesto en el artículo anterior se inscribirán en un Registro de vertidos llevado al efecto por la entidad autorizante del vertido. Los responsables de dichos Registros darán cuenta a la Administración regional o, en su caso, al Consorcio de Aguas y Residuos, de los datos más significativos del titular y características del vertido de acuerdo con lo que reglamentariamente se establezca, debiendo quedar garantizada la intercomunicación y coordinación de los registros.
+2. Quienes realicen vertidos no domésticos que cuantitativa y cualitativamente sean asimilables al de un usuario doméstico, estarán sujetos al simple deber de comunicación al Ayuntamiento titular de las redes de alcantarillado o, en su caso, al Consorcio de Aguas y Residuos de La Rioja, del inicio de su actividad. Dichos vertidos deberán ajustarse, en todo caso, a los requisitos generales establecidos reglamentariamente para esa clase de vertidos, cuyo cumplimiento podrá ser objeto de las oportunas inspecciones. Los titulares de los vertidos comunicados junto con las características básicas de los mismos, se inscribirán en el Registro de vertidos. Reglamentariamente podrán establecerse los supuestos en los que los titulares de estos vertidos deban presentar declaraciones periódicas de características del vertido determinadas por un laboratorio acreditado.
+3. La Administración regional o, en su caso, el Consorcio de Aguas y Residuos de La Rioja, en el ejercicio de su función de alta inspección, tendrán acceso a todos los Registros de vertidos existentes, pudiendo consultar directamente cuantos datos figuren inscritos en los mismos.
+
+### Artículo 18
+
+Artículo 18. Protección de las instalaciones.
+1. A los efectos de garantizar el adecuado funcionamiento y la protección de las instalaciones de saneamiento y depuración, así como de alcanzar los objetivos ambientales legalmente establecidos, el Gobierno de La Rioja, a propuesta del Consejero competente en materia de medio ambiente, podrá establecer, en desarrollo de la legislación básica estatal y de lo dispuesto en la planificación hidrológica, las normas reguladoras de la calidad de los vertidos que considere adecuadas.
+2. La protección de las obras e instalaciones de saneamiento de titularidad municipal podrá realizarse mediante la Ordenanza municipal correspondiente, que deberá respetar la normativa básica estatal y la de desarrollo de la Comunidad Autónoma. En defecto de Ordenanza municipal, se aplicará la normativa general de vertidos aprobada por el Gobierno de La Rioja.
+
+### Artículo 19
+
+Artículo 19. Deber de colaboración.
+Las personas o entidades de cualquier naturaleza que realicen vertidos a las redes de alcantarillado, colectores generales e instalaciones de depuración, están obligadas a facilitar cuanta información les sea requerida por los titulares de las mismas o por el Consorcio de Aguas y Residuos, a notificar los cambios que puedan producirse en la composición o cuantía de los vertidos, así como a permitir el acceso a las instalaciones para el desempeño de las funciones de inspección y vigilancia.
+Cuando el vertido se produzca fuera del horario de actividad de la empresa o fuera de la jornada laboral de la administración inspectora, el titular del vertido deberá permitir la instalación por la Administración de dispositivos automáticos de toma de muestras así como adoptar las debidas precauciones para su custodia y conservación. La muestra así obtenida tendrá idénticos efectos que la recogida por el personal de inspección.
+Se añade el párrafo 2 por el art. 33.4 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+
+### Artículo 20
+
+Artículo 20. Vertidos accidentales.
+1. Los usuarios deberán tomar las medidas adecuadas para evitar las descargas accidentales de vertidos que puedan ser potencialmente peligrosas para la seguridad de las personas, redes e instalaciones de saneamiento y depuración.
+2. Cuando por accidente, fallo de funcionamiento o de la explotación de las instalaciones del usuario, se produzca un vertido prohibido susceptible de originar una situación de emergencia o peligro, tanto para las personas como para las redes e instalaciones de saneamiento, el usuario deberá comunicar inmediatamente la circunstancia al titular de las redes e instalaciones o, en su caso, al Consorcio de Aguas y Residuos, con el objeto de evitar o reducir al mínimo los daños que pudieran causarse, sin perjuicio de cumplir con las prescripciones establecidas en la autorización de vertido.
+
+## CAPÍTULO V
+
+De las infracciones y sanciones
+
+### Artículo 21
+
+Artículo 21. Normas generales.
+1. Los vertidos que no cumplan las condiciones establecidas en la autorización o las prohibiciones establecidas en las normas de general aplicación, podrán ser objeto de una o varias de las siguientes medidas:
+a) Requerir al titular del vertido para que adopte las medidas necesarias para adecuar las condiciones del vertido mediante un pretratamiento del mismo o modificación de los procesos que lo originan o para regularizar el vertido ilegal.
+b) La imposición de sanciones.
+c) Multas coercitivas reiterables por lapsos de tiempo suficientes para garantizar el cumplimiento de lo ordenado.
+d) La suspensión provisional del vertido.
+e) La prohibición del vertido cuando, existiendo el incumplimiento, no pueda ser corregido suficientemente. En ese caso, la prohibición conllevará la clausura temporal o definitiva del vertido, el precintado de la conexión a las redes de saneamiento y, en su caso, del suministro de agua.
+f) La revocación, cuando proceda, de la autorización de vertido concedida.
+g) Dar cuenta al Ministerio Fiscal de los hechos que puedan ser constitutivos de delito.
+2. Sin perjuicio del respeto de las normas reglamentarias que apruebe el Gobierno de La Rioja para la aplicación de la presente Ley, las Ordenanzas municipales podrán desarrollar y complementar el sistema de infracciones y sanciones previstas en esta Ley.
+3. En los supuestos en que se instruyera expediente sancionador por dos o más infracciones entre las que exista conexión de causa a efecto, se impondrá una sola sanción, y será la correspondiente a la infracción de mayor gravedad, en su cuantía máxima. En los demás casos, a los responsables de dos o más infracciones se les impondrán acumuladamente las sanciones correspondientes a cada una de las diversas infracciones cometidas.
+4. Las multas que se impongan a distintos sujetos por una misma infracción tendrán entre sí carácter independiente, respondiendo aquéllos solidariamente de las indemnizaciones y obligaciones que, en su caso, sean exigibles.
+
+### Artículo 22
+
+Artículo 22. Infracciones.
+1. Se consideran infracciones administrativas las acciones u omisiones que contravengan lo establecido en esta Ley, en las normas de desarrollo y en las Ordenanzas municipales.
+2. Sin perjuicio de lo establecido en el artículo 45, las infracciones se clasifican en leves, graves y muy graves.
+
+### Artículo 23
+
+Artículo 23. Infracciones leves.
+Se consideran infracciones leves:
+a) Las acciones u omisiones que, contraviniendo lo dispuesto en la presente ley, en las normas de desarrollo o en las ordenanzas municipales o contraviniendo las condiciones impuestas en la autorización de vertido, causen un daño a las redes e instalaciones de saneamiento cuya valoración no alcance los 1.501 euros.
+b) El incumplimiento del deber de comunicación de los vertidos no domésticos no sujetos a autorización.
+c) El incumplimiento de los deberes de información periódica sobre características del efluente o sobre cambios introducidos en el proceso que puedan afectar al mismo.
+d) La no existencia de las instalaciones y equipos para la realización de los controles requeridos o mantenerlos en condiciones no operativas.
+e) La realización de vertidos que no superen en más de 100% los valores límite de emisión más restrictivos autorizados, o en su defecto establecidos en el anexo II, para los parámetros de DBO5, DQO, sólidos en suspensión y conductividad. En relación con lo dispuesto en el apartado 2 del anexo II no tendrá la consideración de infracción leve, en tanto no se superen los límites autorizados.
+f) El incumplimiento de cualquier prohibición establecida en la presente ley, en las normas de desarrollo o en las ordenanzas municipales, o la omisión de los actos a los que obligan, siempre que no estén considerados como infracciones graves o muy graves.
+Se modifica por el art. 40.1 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+ Se modifica por el art. 33.5 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+ Se modifica el apartado e) por el art. 20 de la Ley 10/2002, de 17 de diciembre. Ref. BOE-A-2003-95.
+
+### Artículo 24
+
+Artículo 24. Infracciones graves.
+Se consideran infracciones graves:
+a) Las acciones u omisiones que, contraviniendo lo dispuesto en la presente ley, en las normas de desarrollo o en las ordenanzas municipales o contraviniendo las condiciones impuestas en la autorización de vertido, causen un daño a las redes e instalaciones de saneamiento cuya valoración estuviere comprendida entre 1.501 euros y 15.000 euros.
+b) La ocultación o falseamiento de los datos exigidos en la solicitud o comunicación de vertido.
+c) La realización de vertidos que superen los parámetros establecidos en la autorización de vertido o en su defecto los previstos en el anexo II, salvo los tipificados como infracción leve en el artículo 23.e).
+d) La realización de vertidos de sustancias consideradas prohibidas de acuerdo con lo dispuesto en el anexo I de la presente ley sin que se haya producido un daño o deterioro cuantificable para la salud o el medio ambiente. No tendrá la consideración de infracción el vertido de sustancias a nivel de traza, teniendo tal consideración las previstas en la normativa alimentaria comunitaria.
+e) La resistencia u obstrucción a la labor inspectora de la Administración o la negativa a facilitar la información requerida.
+f) El incumplimiento de deberes impuestos en los casos de vertidos accidentales.
+g) Las obras en los colectores sin autorización o la construcción de más acometidas de las autorizadas.
+h) La realización de vertidos sin autorización cuando esta sea preceptiva.
+i) La reincidencia en la comisión de faltas leves. Existirá reincidencia cuando, antes de transcurrir un año desde la firmeza administrativa de la resolución sancionadora de una falta leve, se cometan dos o más infracciones del mismo tipo y calificación.
+Se modifica por el art. 40.2 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+ Se modifica por el art. 33.6 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+ Se modifica el apartado d) por el art. 21 de la Ley 10/2002, de 17 de diciembre. Ref. BOE-A-2003-95.
+
+### Artículo 25
+
+Artículo 25. Infracciones muy graves.
+Se consideran infracciones muy graves:
+a) Las acciones u omisiones que, contraviniendo lo dispuesto en la presente ley, en las normas de desarrollo o en las ordenanzas municipales o contraviniendo las condiciones impuestas en la autorización de vertido, causen un daño a las redes e instalaciones de saneamiento cuya valoración supere los 15.000 euros.
+b) El incumplimiento de las órdenes de suspensión de vertidos.
+c) La realización de vertidos prohibidos, salvo los previstos en el artículo 24.d).
+d) La reincidencia en la comisión de faltas graves. Existirá reincidencia cuando, antes de transcurrir un año desde la firmeza administrativa de la resolución sancionadora de una falta grave, se cometan dos o más infracciones del mismo tipo y calificación.
+Se modifica por el art. 40.3 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+ Se modifica por el art. 33.7 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+ Se modifica el apartado d) por el art. 31.1 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068.
+
+### Artículo 26
+
+Artículo 26. Prescripción de las infracciones.
+1. Las infracciones previstas en la presente Ley prescribirán: En el plazo de un año, las leves; en el de dos años, las graves; y en tres años, las muy graves.
+2. El plazo de prescripción comenzará a contarse desde la comisión del hecho o desde la detección del daño por parte de la Administración si éste no fuera inmediato. En las infracciones derivadas de una actividad continuada, la fecha inicial del cómputo será la de finalización de la actividad o la del último acto en que la infracción se consume.
+3. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable.
+
+### Artículo 27
+
+Artículo 27. Delitos y faltas.
+1. Cuando se apreciaren hechos que pudieran revestir carácter de delito o falta con ocasión de la incoación de un procedimiento sancionador, el órgano administrativo competente lo pondrá en conocimiento del Ministerio Fiscal o de la jurisdicción penal y se abstendrá de seguir el procedimiento administrativo, mientras la autoridad judicial no se haya pronunciado.
+2. Mientras duren las diligencias penales, el plazo para la conclusión del expediente administrativo sancionador quedará suspendido. Recaída sentencia firme o sobreseídas las diligencias penales, el órgano competente continuará con la tramitación del expediente administrativo sancionador.
+3. La tramitación de las diligencias penales interrumpirá los plazos de prescripción de las infracciones.
+
+### Artículo 28
+
+Artículo 28. Sanciones y reparación del daño e indemnizaciones.
+1. Las infracciones enumeradas en los artículos anteriores podrán ser sancionadas de la forma siguiente:
+a) Las leves con multa entre 500 y 1.500 euros.
+b) Las graves con multa entre 1.501 y 15.000 euros.
+c) Las muy graves con multa de entre 15.001 y 120.000 euros, incluida la revocación de la autorización de vertido y clausura de la actividad en su caso.
+2. El Gobierno de La Rioja podrá acordar la actualización de la cuantía de las multas señaladas en este artículo y demás cantidades económicas indicativas de la calificación de las infracciones previstas en la Ley, teniendo en cuenta la variación de los índices de precios al consumo.
+3. La graduación de las sanciones, dentro de los intervalos dispuestos en el apartado anterior, se realizará teniendo en cuenta los siguientes aspectos:
+a) La intencionalidad.
+b) La trascendencia social y el perjuicio causado.
+c) La situación de riesgo creada para las personas y bienes.
+d) El ánimo de lucro y la finalidad perseguida con la acción antijurídica.
+e) La colaboración del infractor con la Administración en el esclarecimiento de los hechos y en la reparación del daño causado.
+f) La importancia, por razón de su dimensión cuantitativa, del incumplimiento de los parámetros de calidad de los vertidos.
+g) La reiteración en la conducta infractora.
+4. Si el obligado no procediera a reparar el daño causado o a cumplir lo ordenado mediante acto administrativo firme en el plazo requerido, la Administración podrá recurrir a la imposición de multas coercitivas y a la ejecución subsidiaria a costa del infractor. Las multas coercitivas podrán ser impuestas con periodicidad mensual para conseguir el cumplimiento de las resoluciones adoptadas y, en su caso, serán independientes de las que puedan imponerse en concepto de sanción y compatibles con ellas. La cuantía de las multas coercitivas no podrá ser superior a un tercio de la sanción máxima establecida en el apartado 1 para la infracción que corresponda.
+5. Cuando la reparación de los daños no fuera posible y, en todo caso, cuando se hayan causado perjuicios, podrá exigirse a los responsables la indemnización que proceda.
+Se modifica el apartado 1 por el art. 37.2 de la Ley 6/2007, de 21 de diciembre. Ref. BOE-A-2008-906.
+ Se modifica el apartado 1 por el art. 33.8 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+ Se modifica el apartado 4 y se añade el apartado 3.g) por el art. 36 de la Ley 9/2004, de 22 de diciembre. Ref. BOE-A-2005-537.
+ Se añade el apartado 3.f) y se modifica el apartado 4 por el art. 31.2 y 3 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068.
+
+### Artículo 29
+
+Artículo 29. Prescripción de las sanciones.
+1. Las sanciones impuestas por faltas leves prescribirán al año, las impuestas por faltas graves a los dos años y las impuestas por faltas muy graves a los tres años.
+2. El plazo de prescripción comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+3. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél estuviera paralizado durante más de un mes por causa no imputable al infractor.
+
+### Artículo 30
+
+Artículo 30. Procedimiento y competencia.
+1. La imposición de sanciones y la exigencia de responsabilidades se realizará de acuerdo con el procedimiento sancionador general previsto en la legislación de la Comunidad Autónoma.
+2. Corresponde a las Entidades Locales o a la Administración Pública de la Comunidad Autónoma, en el ámbito de sus respectivas competencias, o, en su caso, al Consorcio de Aguas y Residuos de La Rioja, la instrucción y resolución de los expedientes sancionadores.
+
+## CAPÍTULO VI
+
+Régimen económico-financiero
+
+### Artículo 31
+
+Artículo 31. Financiación.
+1. Las inversiones necesarias para la realización de las actuaciones de interés general previstas en el artículo 5 de la presente ley, las necesarias para garantizar el abastecimiento de agua, así como los gastos de mantenimiento y explotación de los servicios de saneamiento y depuración y los derivados del control de los vertidos se financiarán con el producto del canon de saneamiento regulado en este capítulo, así como por las cantidades que a tal efecto se autoricen en los presupuestos de gastos de las Administraciones públicas competentes.
+2. También podrá destinarse el producto del canon de saneamiento a la financiación total o parcial de las inversiones y/o el mantenimiento y la explotación de aquellas actuaciones de saneamiento y depuración que, aun siendo de competencia municipal conforme a lo previsto en los artículos 5 y 6 de esta ley, tengan por objeto eliminar puntos de vertido existentes en el interior del casco urbano consolidado, procedentes de redes municipales, que se viertan en ríos de alto valor ambiental y cuya complejidad técnica y/o económica supere la capacidad del municipio en cuestión.
+Estas circunstancias habrán de ser justificadas por el municipio y ratificadas por la dirección general competente en materia de asistencia a los municipios en lo que se refiere a capacidad técnica y económica del municipio y por la dirección general competente en materia de medio natural en lo referente al valor ambiental del cauce receptor.
+Se modifica por el art. 3 de la Ley 2/2021, de 29 de enero. Ref. BOE-A-2021-2766
+ Se modifica por el art. 34.1 de la Ley 7/2012, de 21 de diciembre. Ref. BOE-A-2013-452.
+
+### Artículo 32
+
+Artículo 32. Canon de saneamiento.
+El canon de saneamiento es un tributo propio de la Comunidad Autónoma de La Rioja, de naturaleza impositiva, que se regirá por las disposiciones establecidas en esta ley y, en su defecto, por la Ley General Tributaria, cuya recaudación se destinará a financiar las actividades de saneamiento, depuración y abastecimiento, así como programas medioambientales vinculados a la calidad de las aguas.
+Se modifica por el art. 4 de la Ley 6/2025, de 21 de julio. Ref. BOE-A-2025-16835
+ Se modifica por el art. 2.1 de la Ley 13/2023, de 28 de diciembre. Ref. BOE-A-2024-1778
+ Se modifica por el art. 34.2 de la Ley 7/2012, de 21 de diciembre. Ref. BOE-A-2013-452.
+ Se modifica por el art. 32.1 de la Ley 7/2011, de 22 de diciembre. Ref. BOE-A-2012-1142.
+
+### Artículo 33
+
+Artículo 33. Hecho imponible.
+1. Constituye el hecho imponible el vertido de aguas residuales al medio ambiente, puesto de manifiesto a través del consumo de aguas de cualquier procedencia y con independencia de que el vertido se realice directamente o a través de redes de alcantarillado.
+2. No estará sujeto al canon:
+a) La utilización de agua destinada a suministro de servicios públicos de distribución de agua potable.
+b) El consumo de agua de aljibes u otro tipo de depósitos que no se nutran de captaciones propias, sino de suministros que ya hubiesen devengado el canon de saneamiento de La Rioja.
+c) El consumo de agua de boca comercializada en envases de menos de 100 litros.
+
+### Artículo 34
+
+Artículo 34. Devengo.
+1. El canon de saneamiento se devengará con el consumo del agua.
+2. En agua procedente de Entidades o empresas suministradoras, el consumo se considerará producido en el momento del suministro.
+
+### Artículo 35
+
+Artículo 35. Exenciones.
+1. Están exentos de este canon los consumos y vertidos siguientes:
+a) Los consumos de agua por entidades públicas para riego de parques y jardines públicos, limpieza de vías públicas, extinción de incendios, así como para la alimentación de fuentes públicas.
+b) El consumo de agua para riego agrícola y de césped de uso expreso para la actividad deportiva.
+c) La utilización de agua en actividades ganaderas y de acuicultura, cuando dispongan de instalaciones adecuadas y no se generen vertidos a la red de alcantarillado, todo ello en los términos que reglamentariamente se determinen.
+d) La utilización de aguas termales en la actividad balnearia, cuando dispongan de instalaciones adecuadas y no se generen vertidos a la red de alcantarillado, todo ello en los términos que reglamentariamente se determinen.
+e) El autoconsumo de los servicios de suministro de agua potable y de depuración de aguas residuales.
+Se modifica el apartado 1.b) por el art. 34.3 de la Ley 7/2012, de 21 de diciembre. Ref. BOE-A-2013-452.
+ Se modifica el apartado 1.b) por el art. 24.1 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+ Se modifica por el art. 15.1 de la Ley 10/2002, de 17 de diciembre. Ref. BOE-A-2003-95.
+
+### Artículo 36
+
+Artículo 36. Sujeto pasivo contribuyente.
+1. Será sujeto pasivo contribuyente la persona física o jurídica, o ente sin personalidad a que se refiere el artículo 33 de la Ley General Tributaria, que realice el hecho imponible.
+2. Salvo prueba en contrario, se considerará como contribuyente a quien figure como titular del contrato de suministro de agua, a quien la adquiera para su consumo directo, o sea titular de aprovechamientos de agua o propietario de instalaciones de recogida de aguas pluviales u otras similares para su propio consumo.
+
+### Artículo 37
+
+Artículo 37. Sujeto pasivo sustituto.
+1. Las entidades o empresas suministradoras de agua, sean públicas o privadas, sustituirán al contribuyente cuando el consumo no provenga de aprovechamientos o captaciones propias.
+2. El presupuesto de hecho de la sustitución está constituido por el suministro del agua.
+
+### Artículo 38
+
+Artículo 38. Base imponible.
+1. La base imponible del canon estará constituida por el volumen de agua consumido, medido en metros cúbicos, durante los períodos que se establezcan conforme a lo previsto en esta Ley. En el caso de usuarios no domésticos se tendrá en cuenta, además, la carga contaminante del vertido, así como el volumen del vertido cuando por razón de la actividad exista una diferencia superior a 1.000 metros cúbicos anuales y represente más de un 10 por 100 respecto del agua consumida.
+2. En el caso de agua procedente de entidades suministradoras, el consumo deberá medirse por contador o por otros procedimientos de medida similares, tomándose en cuenta el volumen suministrado durante el período de tiempo al que se extienda la facturación. Dicho período en ningún caso podrá exceder de doce meses.
+En tanto no se disponga de lectura directa y las entidades suministradoras realicen estimaciones del consumo, se tendrán en cuenta las mismas para la determinación de la base imponible del canon.
+3. La determinación del vertido, cuando sea relevante para la cuantificación del canon, también deberá efectuarse por medición, mediante la utilización de contadores, instrumentos y técnicas oportunas. En estos casos, si el agua procede de entidad suministradora, la lectura deberá efectuarse con la misma periodicidad a la que se atienda para determinar el consumo.
+4. En los casos de aguas no suministradas por entidades, la cuantificación del consumo y, en su caso, del vertido, se determinará directamente a través de sistemas homologados de medición y se realizará en los períodos que reglamentariamente se establezcan, que en ningún caso serán superiores a los 12 meses. No obstante, los sujetos pasivos podrán optar por estimar la base imponible en los términos establecidos en el artículo siguiente.
+
+### Artículo 39
+
+Artículo 39. Estimación de la base imponible.
+1. En los casos de captaciones que no tengan instalados dispositivos de aforo directo de caudales de suministro o que, teniéndolos, no se hallen en funcionamiento, el consumo mensual, a los efectos de la aplicación del canon, se determinará por la cantidad que resulte de dividir por 12 el total anual otorgado en la autorización o concesión administrativa de la explotación del alumbramiento de que se trate.
+Para el caso de que tampoco exista la referida autorización o concesión administrativa, o que, existiendo, no señale el volumen total autorizado, el consumo mensual se evaluará de acuerdo con las siguientes fórmulas:
+a) En el supuesto de captaciones, cuando exista grupo elevador, se determinará en función de la potencia nominal del mismo, mediante la fórmula Q = (5.000 x p/h), donde:
+«Q» es el consumo mensual estimado, expresado en metros cúbicos.
+«p» es la potencia nominal del grupo o grupos elevadores, expresada en kilovatios.
+«h» es la profundidad dinámica media del acuífero en la zona considerada, expresada en metros.
+b) En los supuestos de captaciones donde no exista grupo elevador, teniendo en cuenta la naturaleza y características de la captación, así como el uso habitual del agua, reglamentariamente podrán aprobarse unos índices objetivos para estimar el consumo de agua.
+2. En el caso de suministros mediante contratos de aforo, el consumo mensual se evaluará por aplicación de la fórmula siguiente: Q = I/M, donde:
+«Q» es el consumo mensual estimado, expresado en metros cúbicos.
+«I» es el importe satisfecho como precio del agua, expresado en pesetas.
+«M» es el precio medio del agua en la zona correspondiente, expresado en pesetas/m3.
+3. En los supuestos a que se refieren los dos números anteriores, la base imponible se estimará conforme a lo en ellos previsto salvo que se renuncie expresamente en la forma y plazo reglamentariamente establecidos, y siempre que se disponga de sistemas de medición homologados.
+4. Cuando la base imponible no pueda ser determinada por ninguno de los procedimientos previstos en este artículo y en el anterior, se determinará por estimación indirecta, en los términos previstos en los artículos 50 y 51 de la Ley General Tributaria.
+5. En los supuestos de fugas de agua debidamente acreditadas como un hecho fortuito no atribuible a negligencia de los usuarios, la base imponible del canon de saneamiento se estimará teniendo en cuenta el consumo de los últimos dos años del mismo contribuyente y dirección de suministro. Las devoluciones de ingresos realizados en periodo voluntario de pago que devengan indebidos como consecuencia de la citada regularización se realizarán por el sustituto del contribuyente, que podrá compensar las cantidades devueltas en posteriores autoliquidaciones en caso de corresponder a periodos de facturación ya ingresados en la Hacienda de la Comunidad Autónoma de La Rioja.
+Se modifica el apartado 5 por el art. 2.2 de la Ley 13/2023, de 28 de diciembre. Ref. BOE-A-2024-1778
+ Se añade el apartado 5 por el art. 44.1 de la Ley 6/2015, de 29 de diciembre. Ref. BOE-A-2016-392.
+
+### Artículo 40
+
+Artículo 40. Cuota tributaria.
+1. El importe del canon de saneamiento se establece de forma diferenciada para usuarios domésticos y no domésticos.
+2. Para los vertidos procedentes de usuarios domésticos, el importe del canon en euros se obtendrá aplicando al volumen de agua consumido en el periodo de facturación expresado en metros cúbicos el coeficiente 0,67.
+3. Para los vertidos procedentes de usuarios no domésticos, el importe del canon se obtendrá aplicando el coeficiente 0,67 al volumen de agua consumido, o en su caso vertido, teniéndose en cuenta además la carga contaminante en los términos siguientes:
+I = 0,67. Q. T, donde:
+I es el importe del canon en euros.
+Q es el volumen consumido en el periodo de facturación, expresado en metros cúbicos, o el vertido cuando por razón de la actividad, y así se acredite, sea inferior al consumido.
+T es el coeficiente de carga contaminante que viene definido tal y como se indica:
+T = K1 SS/SSo + K2 DQO/DQOo + K3 C/Co, donde:
+SS = Sólidos en suspensión presentes en el vertido (mg/l).
+Sso = Sólidos en suspensión estándar de un agua residual doméstica (mg/l). Se empleará un valor de 220 mg/l.
+DQO = Demanda química de oxígeno del vertido (mg/l).
+DQOo = Demanda química de oxígeno estándar de un agua residual doméstica (mg/l). Se empleará un valor de 500 mg/l.
+C = Conductividad del agua residual vertida (ìS/cm).
+Co = Conductividad estándar de un agua residual doméstica local (microS/cm). Se empleará el valor de conductividad medio del agua potable suministrada, incrementado en 300 microS/cm.
+A los efectos de la determinación de la conductividad media del agua suministrada, el sujeto pasivo deberá justificar el valor aplicado en su autoliquidación a través de certificado expedido por el sustituto del municipio en el que radique su centro de producción o mediante la aportación de, al menos, cuatro boletines de análisis representativos del agua consumida en su actividad y realizados en laboratorio oficial acreditado. De forma alternativa, cuando estén publicados en el apartado de tributos de la web del Gobierno de La Rioja los valores medios de conductividad del agua potable suministrada en el municipio en que radique su centro de producción para el ejercicio correspondiente, el sujeto pasivo podrá acogerse a dichos valores en su autoliquidación.
+K1, K2 y K3 son tres valores que tienen en cuenta la incidencia en los costes de depuración de la eliminación de sustancias sólidas, materias oxidables y resto de componentes respectivamente y que se establecen en 0,276; 0,458 y 0,266, respectivamente.
+El coeficiente de carga contaminante T obtenido de la fórmula anterior no podrá ser inferior a unos valores que determinan los costes fijos que origina el vertido en función del punto de vertido:
+Vertido a colector de aguas residuales o red unitaria: T mayor o igual que 0,35.
+Vertido a colector de pluviales: T mayor o igual que 0,15.
+Vertido a cauce público o al medioambiente: T mayor o igual que 0.
+4. Para los vertidos procedentes de usuarios no domésticos con sistemas de depuración por infiltración al terreno debidamente autorizados por el órgano ambiental, la cuota tributaria del canon se determinará de igual forma, si bien se aplicará como factor de carga contaminante T1 = 0,60.T, siendo T el resultado de la fórmula expresada en el punto anterior utilizando como parámetros representativos del vertido los del agua residual que se aplica al terreno o que se infiltra al medio ambiente.
+5. De la cuota tributaria por este canon sólo podrán deducirse las cantidades que resulten procedentes conforme a lo previsto en los artícu­los 41.2 y 42.2 de esta Ley.
+Se modifica el apartado 3 por el art. 2.3 de la Ley 13/2023, de 28 de diciembre. Ref. BOE-A-2024-1778
+ Se sustituye el coeficiente 0,50 por 0,67 de los apartados 2 y 3 por el art. 3 de la Ley 2/2020, de 30 de enero. Ref. BOE-A-2020-1939
+ Téngase en cuenta que esta modificación entra en vigor desde el 1 de enero de 2020, según establece la disposición final única de la citada Ley.
+ Se modifican los apartados 2 y 3 por el art. 44 de la Ley 7/2014, de 23 de diciembre. Ref. BOE-A-2015-352.
+ Se modifican los apartados 2 y 3 por el art. 28 de la Ley 13/2013, de 23 de diciembre. Ref. BOE-A-2014-404.
+ Se modifican los apartados 2 y 3 por el art. 34.4 de la Ley 7/2012, de 21 de diciembre. Ref. BOE-A-2013-452.
+ Se modifican los apartados 2 y 3 por el art. 32.2 de la Ley 7/2011, de 22 de diciembre. Ref. BOE-A-2012-1142.
+ Se modifican los apartados 2 y 3 por el art. 32.1 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-469.
+ Se modifican los apartados 2 a 4 por el art. 32 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+ Se modifican los apartados 2 a 4 por el art. 28 de la Ley 6/2007, de 21 de diciembre. Ref. BOE-A-2008-906.
+ Se modifica por el art. 24.2 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+ Se modifican los apartados 2 a 4 por el art. 27 de la Ley 13/2005, de 16 de diciembre. Ref. BOE-A-2006-679.
+ Se modifican los apartados 2 a 4 por el art. 24.1 de la Ley 9/2004, de 22 de diciembre. Ref. BOE-A-2005-537.
+ Se modifican los apartados 2 a 4 por el art. 22.1 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068.
+ Se modifica por el art. 15.2 de la Ley 10/2002, de 17 de diciembre. Ref. BOE-A-2003-95.
+
+### Artículo 41
+
+Artículo 41. Repercusión.
+1. El sustituto del contribuyente repercutirá a éste el importe del canon de saneamiento al facturar el volumen de agua suministrado, quedando obligado a ingresarlo en la Hacienda de la Comunidad Autónoma de La Rioja en los plazos que reglamentariamente se establezca, así como a presentar las correspondientes declaraciones. A efectos de la cuantificación del importe a repercutir se considerará que el destinatario del agua es usuario doméstico. El contribuyente estará obligado a soportar la repercusión por el sustituto.
+2. En los términos que reglamentariamente se establezcan, si el contribuyente es declarado en concurso, o el crédito no se ha hecho efectivo al sustituto antes de finalizar el plazo para presentar la autoliquidación, en esta y previa justificación de la repercusión realizada de forma conjunta en la factura del agua potable, el sustituto podrá deducir las cantidades no cobradas. Tras la práctica de esta deducción, la Comunidad Autónoma de La Rioja exigirá el cumplimiento directamente al contribuyente, iniciando la vía de recaudación en período ejecutivo de acuerdo con la normativa vigente en la materia. En período voluntario, el sustituto en ningún caso admitirá que el contribuyente no satisfaga el canon de saneamiento y sí la tasa de agua potable.
+3. El incumplimiento del sustituto, tanto del deber de repercusión, como del de ingresar la deuda tributaria en la Hacienda de la Comunidad Autónoma, no comportará la exigibilidad del canon al contribuyente.
+Se modifica el apartado 2 por el art. 24.2 de la Ley 9/2004, de 22 de diciembre. Ref. BOE-A-2005-537.
+
+### Artículo 42
+
+Artículo 42. Deber de declarar y autoliquidación.
+1. El sustituto estará obligado a declarar por este canon el volumen de agua suministrada y facturada a los contribuyentes, debiendo, al mismo tiempo, en la forma y plazos que se establezca, determinar e ingresar, en su caso, el importe de su deuda tributaria, que estará constituida por la suma de cuotas efectivamente repercutidas y recaudadas durante el período al que se refiera la autoliquidación.
+2. Los contribuyentes usuarios no domésticos deberán declarar por este canon en los plazos que reglamentariamente se establezcan, así como al mismo tiempo determinar la cuota íntegra, teniendo en cuenta la carga contaminante en los términos establecidos en el artículo 40 anterior. De la cuota tributaria resultante deducirán las cantidades en su caso repercutidas por el sustituto e ingresadas a este, e ingresando por tanto la diferencia o, en su caso, solicitando la devolución que proceda.
+La administración tributaria, a petición del sujeto pasivo contribuyente no doméstico, podrá exonerar a este del deber de declarar establecido anteriormente cuando de las características de su actividad y de su tamaño se deduzca que, a efectos de canon de saneamiento, pudiera asimilarse a contribuyente doméstico.
+Los contribuyentes no domésticos que depuren sus aguas en instalaciones de terceros tendrán la consideración de asimilables a domésticos a efectos de canon de saneamiento. Quedarán exonerados del deber de declarar establecido en este artículo cuando reciban agua exclusivamente de entidades o empresas suministradoras, pero deberán presentar las correspondientes declaraciones cuando el consumo provenga total o parcialmente de aprovechamientos o captaciones propias.
+Los sujetos pasivos que depuren aguas de terceros realizarán su autoliquidación sin tener en cuenta las aguas provenientes de aquellos y sin que puedan por tanto deducirse el canon satisfecho por estos.
+3. Los sujetos pasivos titulares de aprovechamientos de agua o propietarios de instalaciones de recogida de aguas pluviales u otras similares para su propio consumo deberán presentar la correspondiente declaración-liquidación e ingresar el importe del canon en los plazos que reglamentariamente se establezcan.
+Se modifica el apartado 2 por el art. 32.3 de la Ley 7/2011, de 22 de diciembre. Ref. BOE-A-2012-1142.
+ Se modifican los apartados 2 y 3 por la disposición adicional única de la Ley 8/2010, de 15 de octubre. Ref. BOE-A-2010-16976.
+ Se modifica el apartado 3 por el art. 40.4 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+ Se modifica el apartado 2 por el art. 24.3 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+ Se modifica el apartado 1 por el art. 24.3 de la Ley 9/2004, de 22 de diciembre. Ref. BOE-A-2005-537.
+ Se modifica el apartado 2 por el art. 22.2 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068.
+
+### Artículo 43
+
+Artículo 43. Deberes formales.
+Por Decreto se regularán los deberes censales, contables, de colaboración y facturación de los sujetos pasivos de este canon, y los relativos al mantenimiento y lectura de los aparatos de medición.
+
+### Artículo 44
+
+Artículo 44. Competencias administrativas.
+1. La gestión del canon podrá llevarse a cabo por la Administración del Gobierno de La Rioja o delegarse en el Consorcio de Aguas y Residuos de La Rioja en los términos previstos en este artículo.
+2. El Gobierno de La Rioja, mediante Decreto, podrá delegar en el Consorcio de Aguas y Residuos de La Rioja la gestión del canon de saneamiento. La delegación podrá comprender las competencias de liquidación, investigación, comprobación, recaudación en período voluntario y sanción, e incluso el conocimiento de los recursos potestativos de reposición, la rectificación de errores materiales y la devolución de ingresos indebidos.
+La recaudación en período ejecutivo se realizará por los servicios de la Administración Tributaria del Gobierno de La Rioja. No obstante, el Gobierno, mediante Decreto, podrá delegar esta competencia en las Entidades Locales respectivas o, en su caso, en el Consorcio de Aguas y Residuos de La Rioja.
+3. La Administración del Gobierno de La Rioja, o en su caso el Consorcio de Aguas y Residuos de La Rioja, para la gestión del canon se ajustarán en su actuación a lo establecido en la Ley General Tributaria y demás normas reguladoras de los distintos procedimientos tributarios.
+4. Salvo delegación en los términos previstos en el número 2 anterior, la revisión de los actos de gestión corresponderá a la Administración del Gobierno de La Rioja, conociendo el Consejero de Hacienda y Economía de los procedimientos de revisión de oficio y el Tribunal Económico-Administrativo de La Rioja de las reclamaciones de esta naturaleza, entre las que tendrá cabida las formuladas contra actuaciones tributarias de repercusión.
+Se modifica el apartado 2 por el art. 24.4 de la Ley 9/2004, de 22 de diciembre. Ref. BOE-A-2005-537.
+
+### Artículo 45
+
+Artículo 45. Infracciones y sanciones.
+Sin perjuicio de que las infracciones tributarias en este canon se calificarán y sancionarán conforme a lo establecido en la Ley General Tributaria y demás normas de general aplicación, constituirá infracción simple el incumplimiento del deber de repercusión que incumbe al sustituto del contribuyente, sancionándose con multa comprendida entre 250.000 pesetas como mínimo y una cantidad igual al 10 por 100 del total de la facturación realizada sin repercusión dentro de cada período de declaración del canon.
+
+### Artículo 46
+
+Artículo 46. Participación de los nuevos desarrollos urbanos en los gastos de construcción y/o ampliación de las instalaciones generales de saneamiento y depuración.
+1. Los promotores ya sean públicos o privados que acometan la ejecución de nuevas actuaciones, y opten por conectar sus vertidos a las redes de saneamiento municipales o a los colectores generales para que las aguas residuales generadas por dicha actuación sean tratadas en instalaciones públicas de depuración de aguas residuales, deberán participar en los gastos de la construcción o ampliación de aquéllas. A los efectos de esta Ley se entenderá por nueva actuación las intervenciones orientadas a incorporar suelo al proceso urbanizador mediante los supuestos de desarrollo urbanístico correspondiente con alguna de las situaciones siguientes:
+a) Los desarrollos urbanísticos aislados que incorporen suelo al proceso urbanizador, cualquiera que fuese su uso. A efectos de esta Ley, se entenderá por desarrollo urbanístico aislado aquel que pueda constituir nuevos núcleos de población o no tenga continuidad con trama urbana preexistente del municipio.
+b) Los desarrollos urbanísticos industriales no contemplados en el apartado anterior que superen los umbrales indicados:
+(P) Población conforme al último padrón publicado en el 'Boletín Oficial del Estado'
+ Umbral industrial (ha)
+ P mayor o igual a 50.000 habitantes
+ 10
+ P mayor o igual a 2.000 y menor de 50.000
+ 5
+ P mayor o igual a 500 y menor de 2.000
+ 2
+ P menor de 500
+ 1
+2. La obligación de participación referida en el apartado anterior será actualizada conforme al IPC y se establece en:
+(P) Población de los municipios que constituyen la aglomeración a la que se incorpora
+ el vertido, conforme al último padrón publicado en el 'Boletín Oficial del Estado'
+ €/hab-eq
+ (*)
+ P mayor o igual a 50.000 habitantes
+ 90
+ P mayor o igual a 5.000 y menor de 50.000
+ 150
+ P mayor o igual a 1.000 y menor de 5.000
+ 190
+ P menor de 1.000
+ 280
+(*) Estos costes se multiplicarán por un coeficiente de 1,5 en el caso de redes unitarias a las que se incorporen aguas pluviales.
+Para la determinación del número de habitantes equivalentes de las nuevas actuaciones indicadas en el apartado anterior, se considerarán los parámetros menos restrictivos de los referidos en los planes generales y que mayor número de habitantes equivalentes resulte.
+Actuaciones que vayan a establecer un uso residencial o asimilable: 1 hab-eq por cada 25 m2 techo que disponga el planeamiento.
+Áreas industriales: 250 hab-eq por ha neta de suelo del sector.
+Áreas dotacionales: Deberá ser justificado por el promotor.
+El aprovechamiento que sirve de base para el cálculo de la edificabilidad y/o construcción de las distintas actuaciones referidas en el apartado anterior será el dispuesto en el planeamiento más general que permita dicha actuación.
+El aprovechamiento que sirve de base para el cálculo se aplicará a toda la superficie objeto de la clasificación o recalificación.
+Cuando en los documentos de planeamiento de las áreas industriales se prevean limitaciones a la tipología de las actividades que pueden localizarse en las mismas, y ello tenga influencia en las características de la contaminación generada, el promotor podrá justificar y proponer la adopción de un coeficiente reductor entre 0,5 y 1 a aplicar a los habitantes-equivalentes anteriormente establecidos, coeficiente que habrá de ser aceptado por la Consejería competente en materia de Hacienda, previo informe de los Servicios Técnicos del Consorcio de Aguas y Residuos de La Rioja.
+El importe resultante de esta participación tendrá a todos los efectos la consideración de coste de urbanización. Este coste no incluye los costes de conexión a colector general que corresponderá ejecutar al promotor de la actuación.
+3. Los promotores o entidades referidos en el punto 1 de este artículo, deberán remitir al Consorcio de Aguas y Residuos de La Rioja el proyecto de urbanización correspondiente o la información que en su caso lo sustituya, al objeto de que éste emita el informe previo en el que se calcule la participación de los usuarios futuros del área susceptible de conexión al saneamiento como consecuencia de la nueva red. Esta participación deberá ser ingresada en la hacienda del Consorcio de Aguas y Residuos de La Rioja previamente a realizar la conexión, no pudiendo autorizarse dicha conexión por el órgano competente hasta que se disponga del documento justifi­cativo de que el ingreso ha sido realizado. Igualmente, no podrá concederse cédula de habitabilidad o autoriza­ciones de funcionamiento a las viviendas o actividades radicadas en el área hasta tanto se garantice que se ha realizado el mencionado ingreso, considerándose nulas en caso contrario.
+4. La cuantificación establecida en el presente artícu­lo será la base que se utilice para el cálculo de las aportaciones a recoger en los convenios previstos en el artícu­lo 16.4 de esta Ley.
+5. Cuando el promotor del desarrollo urbanístico opte por construir una nueva depuradora para el tratamiento de los vertidos que se pretenda ceder a las administraciones públicas competentes para su mantenimiento y explotación, las características de dicha instalación habrán de ser similares a las de las redes de depuradoras públicas. En concreto los criterios de dimensionamiento habrán de ser los establecidos en el apartado 1 anterior, la tipología habrá de responder a las previsiones del Plan Director de Saneamiento y Depuración, y sus características habrán de garantizar que los rendimientos, vida útil y costes de explotación y mantenimiento estén en línea con los de las instalaciones de titularidad pública. A los efectos de comprobar estas cuestiones de forma previa a la construcción de la instalación el promotor podrá solicitar informe del proyecto al Consorcio de Aguas y Residuos de La Rioja.
+Se modifican los apartados 1.b) y 2 por el art. 32 .2 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-469.
+ Se modifica el apartado 3 por el art. 34 de la Ley 5/2008, de 23 de diciembre. Ref. BOE-A-2009-1262.
+ Se modifican los apartados 1.b), 2 y se añade el apartado 5 por el art. 37.3 a 5 de la Ley 6/2007, de 21 de diciembre. Ref. BOE-A-2008-906.
+ Se modifica por el art. 33.9 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+
+### Artículo 47
+
+Artículo 47. Régimen de compatibilidad con otras prestaciones tributarias.
+El canon de saneamiento es incompatible con cualquier contribución especial o tasa municipal destinada al pago de la explotación y mantenimiento de las instalaciones de saneamiento y depuración consideradas de interés general en esta Ley. Por el contrario el canon de saneamiento sí será compatible con otros tributos que puedan establecerse por actuaciones administrativas, obras o servicios de abastecimiento de agua, alcantarillado o instalaciones de saneamiento y depuración que no sean de interés general conforme a lo dispuesto en la presente Ley.
+Se renumera y modifica por el art. 24.4 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+ Anteriormente numerado como art. 46.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Consorcio de Aguas y Residuos de La Rioja.
+1. El Consorcio de Aguas y Residuos constituido por la Administración de la Comunidad Autónoma y las Entidades Locales que voluntariamente se han adherido al mismo, es una entidad de derecho público con personalidad jurídica propia y distinta de las Administraciones consorciadas.
+2. El Consorcio de Aguas y Residuos se rige por la presente Ley, por sus estatutos y la legislación de La Rioja o en su caso, estatal, aplicable en materia de finanzas, contabilidad y contratos de las Administraciones Públicas. En particular se regirán por el derecho público las relaciones jurídicas externas que supongan el ejercicio de potestades administrativas.
+3. En su calidad de Administración Pública, corresponderán al Consorcio de Aguas y Residuos de La Rioja las siguientes potestades:
+a) La reglamentaria y de autoorganización.
+b) La tributaria, en relación con el establecimiento de contribuciones especiales, tasas y precios públicos, y financiera.
+c) La expropiatoria.
+d) La sancionadora.
+e) La de investigación, deslinde, desahucio administrativo y recuperación de oficio de sus bienes.
+f) La de inembargabilidad de sus bienes y derechos en los términos establecidos en las Leyes, así como las prelaciones, preferencias y demás prerrogativas reconocidas a la hacienda pública en relación con sus créditos, sin perjuicio de las que correspondan a la Hacienda del Estado y de la Comunidad Autónoma de La Rioja.
+g) La de programación y planificación.
+h) La presunción de legitimidad y la ejecutividad de sus actos.
+i) La revisión de oficio de sus actos y acuerdos.
+j) La de ejecución forzosa.
+4. En relación con los fines perseguidos por la presente Ley, podrá ejercer el Consorcio de Aguas y Residuos, entre otras, las siguientes funciones:
+a) La prestación de los servicios de saneamiento y depuración de aguas residuales en el marco del Plan Director de Saneamiento y Depuración, incluida la elaboración, contratación y ejecución de los proyectos e inversiones necesarias.
+b) La prestación de los servicios de tratamiento de residuos en el marco del Plan Director de Residuos de la Comunidad Autónoma de La Rioja, así como las inversiones necesarias.
+c) La construcción y explotación de infraestructuras supramunicipales de abastecimiento de agua potable, que le sean encomendadas por los entes consorciados.
+d) La gestión, recaudación, inspección, sanción, administración y distribución, en su caso, del canon de saneamiento.
+e) La emisión de informes técnicos en relación con los proyectos de obras e instalaciones cuya aprobación definitiva corresponda al Consejero competente en materia de medio ambiente.
+f) El control de los vertidos a las redes de alcantarillado y a los colectores generales, así como el control de la eficacia de los procesos de tratamiento de las instalaciones de depuración.
+g) La adopción de las medidas previstas en el artículo 21 de la presente Ley contra los infractores de la misma, incluida la instrucción y resolución de los expedientes sancionadores.
+h) Cualesquiera otras relacionadas con el abastecimiento y saneamiento de aguas y la gestión de residuos.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La cesión gratuita y la cesión de uso de obras o instalaciones de depuración y saneamiento de aguas residuales a las Entidades Locales o al Consorcio de Aguas y Residuos, se realizará conforme al régimen establecido en los artículos 53 y 54 de la Ley 1/1993, de 23 de marzo, de Patrimonio de la Comunidad Autónoma de La Rioja, sin necesidad de aprobación mediante Ley del Parlamento de La Rioja.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+En los supuestos de ejecución de obras o de gestión de las instalaciones de saneamiento y depuración por las Entidades Locales, deberá firmarse con carácter pre vio un convenio con la Administración regional en el que se concreten las respectivas obligaciones y compromisos financieros, debiendo quedar garantizado el cumplimiento de las prescripciones contenidas en el Plan Director de Saneamiento y Depuración.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+El canon de saneamiento será destinado, de acuerdo con lo dispuesto en el artículo 31, a financiar los gastos de los servicios públicos de saneamiento y depuración de aguas residuales, así como programas medioambientales vinculados a la calidad de las aguas. El Gobierno de La Rioja o, en su caso, el Consorcio de Aguas y Residuos entregarán a aquellas entidades locales que ejecuten o gestionen por sí mismas las obras e instalaciones previstas en el Plan Director de Saneamiento y Depuración un importe máximo de un ochenta y cinco por ciento del canon de saneamiento recaudado en el respectivo término municipal, debiendo estas asumir la diferencia de los costes de explotación no cubierta por el referido canon. El importe del canon de saneamiento que corresponda a las entidades locales adheridas al consorcio se destinará a la financiación de los costes de explotación de las obras e instalaciones gestionadas por el consorcio.
+Se modifica por el art. 32.4 de la Ley 7/2011, de 22 de diciembre. Ref. BOE-A-2012-1142.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+El Gobierno de La Rioja podrá suscribir convenios con el Ministerio de Medio Ambiente y la Confederación Hidrográfica del Ebro para adecuar la aplicación del canon de control de vertidos a que se refiere la Ley de Aguas, en aquellos ámbitos que pudieran verse afectados por el régimen económico-financiero previsto en esta Ley.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+1. Los instrumentos de Ordenación del territorio y de Planeamiento Urbanístico cuya tramitación se inicie con posterioridad a la entrada en vigor de la presente ley, y que prevean suelos sometidos a procesos integrales de urbanización, de renovación o de reforma interior, así como el desarrollo del suelo urbanizable delimitado, deberán disponer de redes de alcantarillado separativas de las aguas pluviales. Los edificios de nueva construcción o remodelación integral deberán contar con conducciones y conexiones separadas de aguas residuales y pluviales para su posterior adecuada integración a la red municipal.
+2. Las nuevas urbanizaciones deberán disponer de algún sistema de aprovechamiento de las aguas pluviales, previendo los sistemas de recogida, almacenamiento y reutilización para el riego de las zonas verdes y su uso en jardinería, de forma que permita la reducción del consumo del agua de la red de suministro de abastecimiento del municipio, incorporando en su caso la conexión para los excedentes del sistema elegido a la red separativa.
+3. Las actuaciones de reordenación en suelo urbano, de más de 50 viviendas en bloque o 20 viviendas aisladas o adosadas, que deban disponer de zona verde o espacio libre deberán disponer de algún sistema de aprove­chamiento contemplado en el párrafo anterior, salvo justificación de su inviabilidad.
+Se añade por el art. 33.10 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Presunción de distribución del consumo en las explotaciones dedicadas al cultivo de champiñón y seta.
+En las explotaciones dedicadas al cultivo de champiñón y seta que reúnan los requisitos necesarios para el disfrute de la exención del consumo de agua destinada a riego agrícola prevista en el artículo 35.1.b) se considerará, salvo prueba directa en contrario, que un 5 % del agua consumida se destina a otros fines distintos al riego y por tanto no disfruta de dicha exención.
+Se añade por el art. 44.2 de la Ley 6/2015, de 29 de diciembre. Ref. BOE-A-2016-392.
+
+### Disposición adicional octava 
+
+Disposición adicional octava. Administración electrónica en el canon de saneamiento.
+Los usuarios no domésticos de canon de saneamiento y las entidades suministradoras de agua potable privadas que ostenten la condición de persona jurídica están obligados a relacionarse electrónicamente con la Administración tributaria autonómica a los efectos de la aplicación de este impuesto.
+Se añade por el art. 44 de la Ley 3/2017, de 31 de marzo. Ref. BOE-A-2017-4394
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Hasta tanto se apruebe el Plan Director de Saneamiento y Depuración con arreglo al Procedimiento establecido en la presente Ley, serán aplicables las previsiones básicas establecidas por el Plan Director de Saneamiento y Depuración aprobado por el Gobierno de La Rioja el 30 de octubre de 1996, y sus revisiones. A las actuaciones contempladas en el citado documento, será aplicable lo dispuesto en los artículos 11 apartado b) y 12.2 de la presente Ley.
+La elaboración y aprobación de los planes y proyectos de obras e instalaciones de saneamiento y depuración previstas en el Plan Director de Saneamiento y Depuración aprobado el 30 de octubre de 1996, así como la contratación y ejecución de las obras, corresponderá a la Administración Pública de la Comunidad Autónoma de La Rioja.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+El Plan Director de Saneamiento y Depuración programará todas las actuaciones que sean necesarias para que el 31 de diciembre del año 2005 se cumplan los compromisos establecidos en la normativa comunitaria, sin perjuicio de que algunas de ellas puedan desarrollarse en períodos temporales más breves.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Los titulares de los vertidos de aguas no domésticos que se realicen a las redes de alcantarillado, colectores generales o instalaciones de depuración en el momento de entrada en vigor de la Ley, para su legalización, habrán de presentar la solicitud a que se refiere el artículo 15 en el plazo de seis meses. La solicitud se presentará ante la Administración titular del sistema de saneamiento.
+Los vertidos que se encuentren ya autorizados a la entrada en vigor de la Ley por los titulares de las redes de alcantarillado, colectores generales o instalaciones de depuración, conservarán su validez por el plazo que se hubiera concedido la autorización, sin que ésta pueda exceder de cinco años desde la entrada en vigor de la presente Ley.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+En tanto no se definan los valores K1, K2, K3 y K4 a que se refiere el artículo 40.3, no se aplicará distinción entre usuarios domésticos y no domésticos.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+En tanto no se establezca reglamentariamente los plazos en que se procederá a declarar el volumen de agua suministrada y facturada al contribuyente, el sustituto está obligado a presentar, en todo caso, autoliquidación en la primera quincena de los meses de abril, julio, octubre y enero, teniendo en cuenta los suministros facturados en el trimestre natural anterior.
+Los contribuyentes usuarios no domésticos, así como los titulares de captaciones propias, en tanto no se regule reglamentariamente, deberán presentar anualmente la correspondiente declaración-liquidación.
+Aquellos usuarios no domésticos a los que sería de aplicación el régimen previsto en el artículo 39 de la presente Ley, que con posterioridad a la entrada en vigor de la misma y con anterioridad al 31 de marzo de 2003 acrediten la instalación y funcionamiento de un sistema homologado de medición, podrán estimar con carácter retroactivo la base imponible de los ejercicios anteriores sobre la base de las lecturas de dicho sistema.
+Se añade el párrafo 3 por el art. 15.3 de la Ley 10/2002, de 17 de diciembre. Ref. BOE-A-2003-95.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Aquellas autorizaciones cuyo plazo de vencimiento fuera anterior a la entrada en vigor de esta modificación, dispondrán de un plazo de 3 meses para solicitar su renovación conforme a la presente Ley.
+Se añade por el art. 33.11 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+En tanto no se desarrolle la normativa relativa a la infiltración controlada al terreno, como parte del sistema de depuración individual recogido en el apartado 4 del artí­culo 14, sólo se permitirá para la industria agroalimentaria.
+Se añade por el art. 33.12 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+Quedarán exentos de la obligación de conexión prevista en el apartado 2 de la Disposición Adicional 6.0 los desarrollos futuros previstos en planes parciales aprobados con anterioridad a la entrada en vigor de la Ley y cuya ejecución se inicie en el plazo de dos años desde la fecha indicada.
+Se añade por el art. 33.13 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+1. A partir de la entrada en vigor de esta Ley queda derogada la Ley 7/1994, de 19 de julio, así como las modificaciones que en la misma se introdujeron por las Leyes 4/1996, de 20 de diciembre, y 9/1997, de 22 de diciembre.
+2. Igualmente quedan derogadas aquellas disposiciones legales que se opongan a lo dispuesto en esta Ley.
+3. El Decreto 42/1997, de 22 de agosto, por el que se aprueba el Reglamento sobre el régimen económico financiero y tributario del canon de saneamiento mantendrá su vigencia en aquello que no se oponga a lo dispuesto en esta Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Habilitación a la Ley de Presupuestos Generales de la Comunidad Autónoma de La Rioja.
+La Ley de Presupuestos de La Rioja podrá modificar las exenciones y los coeficientes establecidos para calcular la cuota tributaria.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de La Rioja».
+
+### Disposición final tercera
+
+Disposición final tercera. Habilitación normativa.
+El Gobierno de La Rioja dictará cuantas disposiciones sean necesarias para el desarrollo y aplicación de esta Ley.
+
+Por tanto, ordeno a todos los ciudadanos cumplan y cooperen al cumplimiento de la presente Ley y a los Tribunales y autoridades la hagan cumplir.
+Logroño, 25 de octubre de 2000.
+PEDRO SANZ ALONSO,
+Presidente
+
+## ANEXO 1
+
+Relación de sustancias prohibidas en la composición de los vertidos a las redes de alcantarillado, colectores e instalaciones de saneamiento
+Queda totalmente prohibido verter directa o indirectamente a las instalaciones de saneamiento cualquier otro tipo de desechos sólidos, líquidos o gaseosos, que en razón de su naturaleza, propiedades y cantidad, causen o puedan causar por sí solos, o por interacción con otros desechos, alguno o varios de los siguientes daños, peligros e inconvenientes en las instalaciones de saneamiento.
+1. Formación de mezclas inflamables o explosivas.
+2. Efectos corrosivos sobre los materiales constituyentes de las instalaciones de saneamiento.
+3. Creación de atmósferas molestas, insalubres, tóxicas o peligrosas que impida o dificulten el trabajo del personal.
+4. Producción de sedimentos, incrustaciones o cualquier otro tipo de obstrucciones físicas.
+5. Dificultades y perturbaciones en la buena marcha de los procesos y operaciones de las estaciones depuradoras.
+6. Residuos que, por sus concentraciones o características tóxicas o peligrosas requieran un tratamiento específico y/o control periódico de sus efectos nocivos potenciales.
+En concreto, y sin carácter exhaustivo, queda prohibido verter a las instalaciones de saneamiento cualquiera de los siguientes productos:
+a) Sustancias sólidas o viscosas en cantidades o tamaños tales que, por sí solos o por integración con otros, sean capaces de producir obstrucciones o sedimentos que impidan el correcto funcionamiento de la red de saneamiento o dificulten los trabajos de conservación o mantenimiento de las mismas. Los materiales prohibidos incluyen, en relación no exhaustiva: tripas, tejidos animales, estiércol, huesos, pelos, pieles, carnaza, entrañas, sangre, plumas, cenizas, escorias, arenas, piedras, cascotes, escombros, yeso, mortero, hormigón, cal gastada, trozos de metal, vidrio, paja, virutas, recortes de césped, trapos, granos, lúpulo, desechos de papel, maderas, plásticos, alquitrán, residuos asfálticos, residuos del procesado de combustibles o aceites lubricantes y, en general, sólidos de tamaño superior a 1,5 cm. en cualquiera de sus dimensiones.
+b) Sólidos procedentes de trituradores de residuos, tanto domésticos como industriales.
+c) Gasolinas, naftas, petróleo, gasóleos, fuel-oil, aceites volátiles y productos intermedios de destilación; benceno, white-spirit, trementina, tolueno, xileno, tricloroetileno, percloroetileno y cualquier disolvente, diluyente o líquido orgánico inmiscible en agua y/o combustible, inflamable o explosivo.
+d) Aceites y grasas flotantes.
+e) Materiales alquitranados procedentes de refinados y residuos alquitranados procedentes de destilación.
+f) Sustancias sólidas potencialmente peligrosas: carburo cálcico, bromatos, cloratos, hidruros, percloratos, peróxidos, amianto, etc.
+g) Gases procedentes de motores de explosión o cualquier otro componente que pueda dar lugar a mezclas tóxicas, inflamables o explosivas con el aire. A tal efecto las medidas efectuadas mediante explosímetro en el punto de descarga del vertido a la red de alcantarillado público, deberán ser siempre valores inferiores al 10 por 100 del límite inferior de explosividad.
+h) Desechos, productos radiactivos o isótopos de vida media corta o, concentración tal, que puedan provocar daños a personas e instalaciones.
+i) Disolventes orgánicos y clorados, pinturas, colorantes, barnices, lacas, tintes y detergentes no biodegradables en cualquier proporción y cantidad.
+j) Compuestos orgánicos, halogenados, excluyendo materiales polímeros inertes y sustancias conexas.
+k) Compuestos organofosfóricos y organoestannicos.
+l) Compuestos organosilícicos tóxicos o persistentes y sustancias que puedan originarlos en las aguas, excluidos los biológicamente inofensivos y los que dentro del agua se transforman rápidamente en sustancias inofensivas.
+m) Compuestos aromáticos policíclicos (con efectos cancerígenos).
+n) Biocidas y sustancias fitofarmacéuticas.
+Compuestos procedentes de laboratorios químicos, bien sean no identificables, bien sean de nueva síntesis, cuyos efectos sobre el medio ambiente no sean conocidos.
+ñ) Fármacos desechables procedentes de industrias farmacéuticas o centros sanitarios que puedan producir graves alteraciones en las estaciones depuradoras.
+o) Material manipulado genéticamente.
+p) Aguas residuales de centros sanitarios que no hayan sufrido un tratamiento de eliminación de microorganismos patógenos.
+q) Aguas residuales con un valor de pH inferior a 5,5 o superior a 9,5 que tengan alguna propiedad corrosiva capaz de causar daño a las instalaciones de saneamiento o al personal encargado de la limpieza y conservación.
+r) Cualesquiera líquidos o vapores a temperatura mayor de 40 oC.
+s) Agua de disolución salvo en situación de emergencia o peligro.
+t) Los que produzcan concentraciones de gases nocivos en la atmósfera de la red de alcantarillado superiores a los límites siguientes:
+Amoniaco: 100 partes por millón.
+Dióxido de azufre (SO2): 5 partes por millón.
+Monóxido de carbono (CO): 100 partes por millón.
+Sulfhídrico (SH2): 20 partes por millón.
+Cianhídrico (CnH): 10 partes por millón.
+Cloro: 1 parte por millón.
+u) Los caudales punta vertidos a la red no podrán exceder del quíntuplo (5 veces) en un intervalo de quince (15) minutos, o de dos veces y media (2,5) en una hora del valor promedio día.
+v) Los vertidos periódicos o esporádicos cuya concentración exceda durante cualquier período mayor de 15 minutos, en más de cinco veces el valor promedio en 24 horas.
+w) El vertido, sin autorización especial, de aguas limpias (de refrigeración, pluviales, de drenaje, filtraciones, etc.) a los colectores de aguas residuales, cuando pueda adoptarse una solución técnica alternativa: Por poder evitarse el vertido, existir en el entorno una red de saneamiento separativa o un cauce público.
+x) Residuos industriales o comerciales que, por sus concentraciones o características tóxicas o peligrosas, requieran un tratamiento específico y/o control periódico de sus efectivos nocivos potenciales.
+y) Todos aquellos productos contemplados en la vigente legislación sobre productos tóxicos o peligrosos.
+
+## ANEXO 2
+
+Valores límites instantáneos de emisión de vertidos a las redes de alcantarillado, colectores e instalaciones de saneamiento
+Parámetros
+ Valores límite
+ a) Físicos:
+ Temperatura (oC)
+ 40
+ Sólidos en suspensión (mg/l)
+ 600
+ Sólidos sedimentales (mg/l)
+ 10
+ Color: Inapreciable en solución con agua destilada en 1/40.
+ b) Químicos:
+ pH
+ 5,5-9,5
+ Conductividad (μS/cm)
+ 5.000
+ DBO5 (mg/l de O2)
+ 600
+ DQO (mg/l)
+ 1.000
+ Aceites y grasas (mg/l)
+ 100
+ Cianuros (mg/l)
+ 2
+ Fenoles (mg/l)
+ 2
+ Aldehídos (mg/l)
+ 4
+ Sulfatos (mg/l)
+ 1.000
+ Sulfuros (mg/l de S)
+ 2
+ Aluminio (mg/l)
+ 20
+ Antimonio (mg/l)
+ 1
+ Arsénico (mg/l)
+ 1
+ Bario (mg/l)
+ 10
+ Berilio (mg/l)
+ 1
+ Boro (mg/l)
+ 3
+ Cadmio (mg/l)
+ 0,5
+ Cobalto (mg/l)
+ 1
+ Cobre (mg/l)
+ 2
+ Cromo hexavalante (mg/l)
+ 0,5
+ Cromo total (mg/l)
+ 5
+ Cinc (mg/l)
+ 5
+ Estaño (mg/l)
+ 5
+ Hierro (mg/l)
+ 10
+ Manganeso (mg/l)
+ 2
+ Mercurio (mg/l)
+ 0,1
+ Molibdeno (mg/l)
+ 1
+ Níquel (mg/l)
+ 5
+ Plata (mg/l)
+ 1
+ Plomo (mg/l)
+ 1
+ Selenio (mg/l)
+ 1
+ Talio (mg/l)
+ 1
+ Telurio (mg/l)
+ 1
+ Titanio (mg/l)
+ 1
+ Vanadio (mg/l)
+ 1
+ Cloruros (mg/l)
+ 2.000
+ Sulfitos (mg/l)
+ 10
+ Fluoruros (mg/l)
+ 10
+ Fosfatos (mg/l)
+ 60
+ Nitrógeno amoniacal (mg/l)
+ 35
+ Nitrógeno total kjeldahl (mg/l)
+ 50
+ Nitrógeno nítrico (mg/l)
+ 20
+ Detergentes biodegradables (mg/l)
+ 10
+ Pesticidas (mg/l)
+ 0,2
+ Total metales (Zn + Cu + Ni + Al + Fe + Cr + Cd + Pb + Sn + Hg) (mg/l)
+ < 20
+ Total metales tóxicos (Zn+Cu+Ni+Cr+Cd+Pb+Hg) (mg/l)
+ 5
+ Ecotoxicidad (equitox/m3) *(1)
+ 25
+ Organohalogenados absorbibles (AOX) (mg Cl/l)
+ 3
+ Trihalometanos total (mg/l)
+ 2,5
+ Benceno (mg/l)
+ 0,5
+ Tolueno (mg/l)
+ 0,5
+ Etilbenceno (mg/l)
+ 0,5
+ Xileno (mg/l)
+ 0,5
+ Total BTEX (Benceno, tolueno, etilbenceno, xileno) (mg/l)
+ 1,5
+ Hidrocarburos aromáticos policíclicos (PAH) (mg/l) *(2)
+ 0,5
+ Hidrocarburos totales (mg/l)
+ 15
+ * Todas las concentraciones de metales contenidas en la presente tabla se refieren a metales totales (fracción disuelta más fracción suspendida).
+ *(1) Técnica analítica: ensayo de toxicidad aguda en Daphnia («Daphnia Magna») y/o ensayo de inhibición de bioluminiscencia («Photobacterium phosphoreum»). Se considerará rebasado el valor límite establecido cuando se sobrepase con una de las técnicas indicadas.
+ *(2) La concentración de PAH se obtendrá considerando la suma de los siguientes compuestos: Acenaftileno, acenafteno, antraceno, benzo(a)antraceno, benzo(b)fluoranteno, benzo(k)fluoranteno, benzo(a)pireno, benzo(ghi)perileno, criseno, dibenzo(ah)antraceno, fenantreno, fluoreno, fluoranteno, indeno(1,2,3 cd)pireno, naftaleno, pireno. Individualmente cada uno de los componentes del grupo PAH no podrá superar el valor límite de 0,1 mg/l.»
+1. La realización de vertidos que superen los valores límite indicados en este anexo, en relación con sustancias que a su vez se encuentren en el anexo I, tendrá la consideración de vertidos prohibidos.
+2. De manera excepcional, en casos justificados, la autorización de vertido podrá contener valores límite hasta un 100 % superiores a los anteriormente establecidos para los parámetros Conductividad, DBO5, DQO y sulfatos. Para ello, el titular del vertido deberá justificar la imposibilidad técnico-económica de alcanzar los valores fijados en las disposiciones legales o reglamentarias aplicables así como la no existencia de efectos adversos sobre las instalaciones, la salud humana o el medio ambiente, solicitando la aplicación de la presente excepción a la Administración competente que hubiera de autorizar el vertido. La mencionada autorización requerirá informe previo vinculante de la Consejería competente en materia de medio ambiente. El nuevo límite tendrá la vigencia temporal de la autorización.
+Se modifica por el art. 33.14 y 15 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-1473.

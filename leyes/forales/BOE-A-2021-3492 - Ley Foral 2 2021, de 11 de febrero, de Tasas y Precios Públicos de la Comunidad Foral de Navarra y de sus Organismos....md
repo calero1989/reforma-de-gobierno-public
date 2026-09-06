@@ -1,0 +1,3168 @@
+# Ley Foral 2/2021, de 11 de febrero, de Tasas y Precios Públicos de la Comunidad Foral de Navarra y de sus Organismos Autónomos.
+
+- Identificador BOE: `BOE-A-2021-3492`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2021-3492
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+LA PRESIDENTA DE LA COMUNIDAD FORAL DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral de Tasas y Precios Públicos de la Comunidad Foral de Navarra y de sus Organismos Autónomos.
+EXPOSICIÓN DE MOTIVOS
+La Ley Foral 7/2001, de 27 de marzo, de Tasas y Precios Públicos de la Administración de la Comunidad Foral de Navarra, regula el régimen jurídico de las Tasas y de los Precios Públicos propios de la Administración de la Comunidad Foral y de sus Organismos Autónomos. La estructuración de la mencionada ley foral por departamentos supone un desajuste y genera confusión cada vez que se modifica la estructura departamental de la Administración de la Comunidad Foral, por lo que se ha considerado conveniente cambiar esa estructura departamental por otra en la que las Tasas de la Administración de la Comunidad Foral se organicen por materias.
+La presente ley foral contiene la regulación de las Tasas y Precios Públicos de la Administración de la Comunidad Foral de Navarra y de sus Organismos Autónomos. La principal modificación y el objetivo de la aprobación de esta nueva ley foral, respecto a la Ley Foral 7/2001, de 27 de marzo, de Tasas y Precios Públicos de la Administración de la Comunidad Foral de Navarra, es la estructuración de la misma por materias en lugar de por departamentos.
+Esta ley foral se estructura en setenta y un artículos agrupados en tres títulos, una disposición derogatoria y dos disposiciones finales.
+A propuesta del Departamento de Cohesión Territorial, se actualizan las tasas por la expedición de productos de cartografía: artículo 28 de la nueva Ley (Artículo 133 bis de la Ley Foral 7/2001). El motivo es que se ha pasado de la impresión en imprenta a la impresión en plotter bajo demanda de los usuarios, logrando así una mayor productividad y ecología en la gestión cartográfica. Los importes se mantienen, pero desaparecen la mayoría de las tasas para las ediciones en imprenta.
+Por otro lado, a propuesta de la Dirección General de Función Pública, se modifica la tasa por derechos de examen: artículo 23 de la nueva ley foral (artículos 27 a 31 Ley Foral 7/2001), suprimiendo la tarifa 5 y modificando los requisitos para beneficiarse de la exención de la tasa para las personas demandantes de empleo. Las argumentaciones en las que se basan estas modificaciones son, por un lado, la integración de los puestos de trabajo de nivel/grupo E dentro del nivel/grupo D, lo que supone la desaparición, en la Administración de la Comunidad Foral de Navarra, de los puestos de nivel o grupo E, cuya tasa por derechos de examen se exigía de acuerdo con la Tarifa 5. Por otro lado, el Servicio Navarro de Empleo-Nafar Lansare ha emitido un informe en el que propone la modificación de la Ley Foral de Tasas en lo relativo a la exención de las personas demandantes de empleo en base, por un lado, a que la redacción dada a dicho artículo no exime del abono de la tasa a las personas desempleadas, sino a todas las personas inscritas como demandantes de empleo, lo que incluye a las personas en situación de mejora que están trabajando, siendo esto algo que carece de fundamento en la medida en que estas últimas ya están percibiendo rentas y, por otro lado, a que la expedición del certificado por parte del Servicio Navarro de Empleo-Nafar Lansare que acredita no solo la inscripción sino también el rechazo de una oferta de empleo o la participación en acciones de promoción, formación o reconversión profesional genera muchos problemas y, además, la carencia o no de rentas superiores al SMI no es objeto de certificación por el organismo, al no disponer de este dato.
+A su vez, a propuesta del Departamento de Educación, dado que son de la misma naturaleza y al objeto de simplificar las mismas, en la «Tasa por expedición de títulos y otros conceptos»: artículo 36 de la nueva ley foral (artículos 96 a 99 bis de la Ley Foral 7/2001), se han unificado en la tarifa 4 denominada «Título Técnico», las tarifas 4, 5 y 19, que se referían a Título Técnico; Título Técnico de artes plásticas y diseño; y Título Técnico Deportivo, Lo mismo ocurre con las tarifas 6, 7 y 20, Título Técnico Superior; Título de Técnico Superior de artes plásticas y diseño; y Título de Técnico Deportivo Superior, que se unifican en la tarifa 5, «Título de Técnico Superior».
+Asimismo, se incorpora una nueva tarifa, «Prueba de madurez para el prueba de acceso a los ciclos de formación profesional en la modalidad de artes y su elaboración y corrección corresponde a los mismos tribunales, por ello se fija el mismo importe que para estas pruebas: 18 euros.
+Por último, a propuesta del Departamento de Desarrollo Rural y Medio Ambiente, se incluyen dos nuevas tasas en el capítulo VII del título III, la «Tasa del régimen de autorización ambiental integrada» y la «Tasa del régimen de gestión de residuos de estiércoles», artículos 60 y 61, respectivamente. Los hechos imponibles están constituidos por la tramitación de los diferentes procedimientos administrativos relativos al régimen de autorización ambiental integrada o al régimen de gestión de estiércoles, respectivamente, iniciados bien a instancia de los titulares o promotores de las instalaciones, bien de oficio por el departamento competente en materia medioambiental.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la ley foral.
+1. La presente ley foral tiene por objeto la regulación del régimen jurídico de las tasas y de los precios públicos propios de la Administración de la Comunidad Foral y de sus Organismos Autónomos.
+2. Son tasas propias:
+a) Las recogidas en los capítulos II a X del título III de esta ley foral.
+b) Las que en el futuro establezca la Comunidad Foral.
+c) Aquellas a las que, en virtud de lo dispuesto en el Convenio Económico, se ha de aplicar en su exacción idéntica normativa que la del régimen común.
+d) Aquellas que el Estado o las Corporaciones Locales puedan transferir a la Comunidad Foral por estar afectadas a servicios o competencias transferidas a la misma.
+3. Son precios públicos propios los establecidos con sujeción a lo dispuesto en la presente ley foral y los que puedan derivarse del supuesto previsto en la letra d) del apartado anterior.
+4. Los preceptos de esta ley foral no serán aplicables a:
+a) La contraprestación por las actividades que realicen y los servicios que presten las entidades u organismos que actúen según normas de Derecho privado.
+b) Los recursos de la Cámara Oficial de Comercio, Industria y Servicios de Navarra, que se regularán por su legislación específica.
+c) Las tarifas que abonen los usuarios por la utilización de la obra o por la prestación del servicio a los concesionarios de obras y de servicios conforme a la legislación de contratos públicos, que son prestaciones patrimoniales de carácter público no tributarias.
+
+### Artículo 2
+
+Artículo 2. Régimen jurídico.
+1. Las tasas y los precios públicos propios se exigirán por la Comunidad Foral con sujeción a las normas del Convenio Económico a que se refiere el artículo cuarenta y cinco de la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra, a lo dispuesto en esta ley foral, a las normas reglamentarias que se dicten en su desarrollo y demás disposiciones que sean de aplicación.
+A las tasas les será aplicable la Ley Foral General Tributaria.
+2. Las tasas comprendidas en el artículo 1.2. c) y d) de esta ley foral, y los precios públicos que se deriven del supuesto previsto artículo 1.2.d), se regirán por la normativa estatal en todo lo que no se oponga a la presente ley foral, hasta tanto no se dicten por la Comunidad Foral sus normas reguladoras.
+
+### Artículo 3
+
+Artículo 3. Régimen presupuestario.
+1. Los recursos regulados en esta ley foral se ingresarán en la Tesorería de la Comunidad Foral o en cuentas bancarias autorizadas por la persona titular del departamento competente en materia tributaria.
+2. Estos recursos tienen la naturaleza de ingresos presupuestarios de la Administración de la Comunidad Foral y de sus organismos autónomos y están destinados a satisfacer el conjunto de sus respectivas obligaciones, salvo que mediante una ley foral se establezca una afectación concreta.
+
+### Artículo 4
+
+Artículo 4. Responsabilidades de autoridades y funcionarios.
+1. Las autoridades y funcionarios que de forma voluntaria y culpable exijan indebidamente una tasa o precio público, o lo hagan en cuantía mayor que la establecida, incurrirán en falta disciplinaria muy grave, sin perjuicio de las responsabilidades de otro orden que pudieran derivarse de su actuación.
+2. Cuando, en la misma forma, adopten resoluciones o realicen actos que infrinjan esta ley foral y las demás normas que regulan esta materia, estarán obligados, además, a indemnizar a la Comunidad Foral por los perjuicios causados.
+
+## TÍTULO II
+
+Precios públicos
+
+### Artículo 5
+
+Artículo 5. Concepto.
+Tendrán la consideración de precios públicos las contraprestaciones pecuniarias que se satisfagan por la prestación de servicios o la realización de actividades efectuadas en régimen de Derecho público cuando, prestándose también tales servicios o actividades por el sector privado, sean de solicitud voluntaria por parte de los administrados.
+
+### Artículo 6
+
+Artículo 6. Establecimiento y modificación.
+1. Los servicios y actividades cuya prestación o realización sea susceptible de ser objeto de precios públicos se establecerán por el Gobierno de Navarra, a propuesta conjunta del departamento competente en materia tributaria y del departamento u organismo que los preste o realice.
+2. El establecimiento o modificación de la cuantía de los precios públicos se hará:
+a) Por el departamento del que dependa el órgano que ha de percibirlos y a propuesta de este.
+b) Directamente por los organismos autónomos, previa autorización del departamento del que dependan.
+3. Toda propuesta de establecimiento o modificación de la cuantía de los precios públicos deberá ir acompañada de una memoria económico-financiera, que justificará el importe de los mismos que se proponga y el grado de cobertura financiera de los costes correspondientes.
+
+### Artículo 7
+
+Artículo 7. Obligados al pago.
+Estarán obligados al pago de los precios públicos quienes se beneficien, personalmente o en sus bienes, de los servicios o actividades por los que deban satisfacer aquéllos.
+
+### Artículo 8
+
+Artículo 8. Cuantía.
+1. Los precios públicos se determinarán a un nivel que cubra, como mínimo, los costes económicos originados por la realización de las actividades o la prestación de los servicios.
+2. Cuando existan razones sociales, benéficas, culturales o de interés público que así lo aconsejen, podrán señalarse precios públicos que resulten inferiores a los parámetros previstos en el apartado anterior, previa adopción de las previsiones presupuestarias oportunas para la cobertura de la parte del precio subvencionada.
+
+### Artículo 9
+
+Artículo 9. Administración y cobro.
+1. La administración y cobro de los precios públicos se realizará por los departamentos y organismos que hayan de percibirlos.
+2. La obligación de pagar el precio público nace desde que se inicia la prestación del servicio o la realización de la actividad, si bien podrá exigirse la anticipación o el depósito previo de su importe total o parcial.
+3. El pago de los precios públicos se realizará en efectivo o mediante el empleo de efectos timbrados.
+4. Cuando por causas no imputables al obligado al pago del precio público no se preste el servicio o no se realice la actividad, procederá la devolución del importe que corresponda o, tratándose de espectáculos, el canje de las entradas cuando ello fuera posible.
+5. Las deudas por precios públicos podrán exigirse mediante el procedimiento administrativo de apremio, conforme a la normativa vigente.
+6. En lo no previsto expresamente en la presente ley foral, la administración y cobro de los precios públicos se realizará de conformidad con lo previsto en la Ley Foral 13/2007, de 4 de abril, de la Hacienda Pública de Navarra, y demás normas que resulten de aplicación a los mismos.
+No obstante, en materia de prescripción y de devolución de ingresos indebidos se aplicará lo dispuesto en la Ley Foral General Tributaria y en sus normas de desarrollo.
+
+## TÍTULO III
+
+Tasas
+
+## CAPÍTULO I
+
+Disposiciones comunes
+
+### Artículo 10
+
+Artículo 10. Concepto.
+Tasas son aquellos tributos cuyo hecho imponible consiste en la utilización privativa o aprovechamiento especial del dominio público, en la prestación de servicios o en la realización de actividades en régimen de Derecho público que se refieran, afecten o beneficien de modo particular al sujeto pasivo, cuando se produzca cualquiera de las circunstancias siguientes:
+a) Que los servicios o actividades no sean de solicitud voluntaria para los administrados. A estos efectos no se considerará voluntaria la solicitud por parte de los administrados:
+Cuando venga impuesta por disposiciones legales o reglamentarias.
+Cuando los bienes, servicios o actividades requeridos sean imprescindibles para la vida privada o social del solicitante.
+b) No se presten o realicen por el sector privado, esté o no establecida su reserva a favor del sector público conforme a la normativa vigente.
+
+### Artículo 11
+
+Artículo 11. Principio de legalidad.
+1. El establecimiento, modificación o supresión de las tasas, así como la regulación de los elementos esenciales de cada una de ellas, debe realizarse mediante ley foral, de conformidad con lo establecido en el artículo 11 de la Ley Foral General Tributaria.
+2. Cuando se autorice por ley foral, con subordinación a los criterios o elementos de cuantificación que determine la misma, se podrán concretar mediante norma reglamentaria las cuantías exigibles para cada tasa.
+
+### Artículo 12
+
+Artículo 12. Hecho imponible.
+Podrán establecerse tasas por la utilización privativa y aprovechamiento especial del dominio público o por la prestación de servicios o realización de actividades en régimen de Derecho público consistentes en:
+a) La tramitación o expedición de licencias, visados, matrículas o autorizaciones administrativas de cualquier tipo.
+b) La expedición de certificados o documentos a instancia de parte.
+c) Legalización y sellado de libros.
+d) Actuaciones técnicas y facultativas de vigilancia, dirección, inspección, investigación, estudios, informes, asesoramiento, comprobación, reconocimiento o prospección.
+e) Examen de proyectos, verificaciones, contrastaciones, ensayos y homologaciones.
+f) Valoraciones y tasaciones.
+g) Inscripciones y anotaciones en registros oficiales y públicos.
+h) Servicios académicos y complementarios.
+i) Servicios portuarios y aeroportuarios.
+j) Servicios sanitarios.
+k) Servicios o actividades en general que se refieran, afecten o beneficien a personas determinadas o que hayan sido motivados por estas, directa o indirectamente.
+
+### Artículo 13
+
+Artículo 13. Aplicación territorial.
+Esta ley foral será aplicable a las tasas por servicios o actividades públicas prestados o realizados por la Administración de la Comunidad Foral y sus organismos autónomos, independientemente del lugar donde se presten o realicen.
+
+### Artículo 14
+
+Artículo 14. Devengo.
+1. Las tasas se devengarán, con carácter general y según la naturaleza del hecho imponible:
+a) Cuando se autorice la utilización privativa o el aprovechamiento especial del dominio público.
+b) Cuando no se requiera de solicitud por el sujeto pasivo, al prestarse el servicio o realizarse la actividad administrativa, sin perjuicio de la posibilidad de exigir depósito previo.
+c) Cuando se presente la solicitud que inicie la actuación o el expediente, que no se realizará o tramitará sin que se haya efectuado el ingreso de la tasa.
+2. Cuando las tasas se devenguen periódicamente, una vez notificada la liquidación correspondiente al alta en el respectivo registro, padrón o matrícula, podrán notificarse colectivamente las sucesivas liquidaciones mediante anuncios en el «Boletín Oficial de Navarra».
+
+### Artículo 15
+
+Artículo 15. Sujeto pasivo.
+1. Serán sujetos pasivos en calidad de contribuyente, de las tasas, las personas físicas o jurídicas beneficiarias de la utilización privativa o aprovechamiento especial del dominio público o a quienes afecten o beneficien, personalmente o en sus bienes, los servicios o actividades públicas que constituyen su hecho imponible.
+2. En su caso, tendrán la consideración de sujetos pasivos las herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptibles de imposición.
+3. La norma específica de cada tasa podrá establecer sustitutos del contribuyente si las características del hecho imponible lo aconsejan.
+En particular, tendrán esta consideración, en las tasas establecidas por razón de servicios o actividades que beneficien o afecten a los ocupantes de viviendas o locales, los propietarios de dichos inmuebles, quienes podrán repercutir, en su caso, las cuotas sobre los respectivos beneficiarios.
+4. La concurrencia de dos o más beneficiarios en la realización del hecho imponible obligará a estos solidariamente, a menos que expresamente se disponga lo contrario en la norma reguladora de cada tasa.
+
+### Artículo 16
+
+Artículo 16. Beneficios fiscales.
+Gozarán de exención de las tasas la Administración de la Comunidad Foral, los Entes Locales de Navarra, el Estado, los demás entes públicos territoriales y los organismos autónomos dependientes de ellos, pudiéndose introducir condiciones para su aplicación en cada supuesto concreto.
+No obstante, la regulación específica de cada tasa podrá contemplar otros beneficios fiscales en función de las características del hecho imponible o de la condición de los sujetos pasivos.
+
+### Artículo 17
+
+Artículo 17. Elementos constitutivos de la tasa.
+1. La cuantificación de las cuotas de las tasas debe realizarse de forma que el rendimiento de las mismas no exceda, en su conjunto, su coste total.
+2. El importe de las tasas por la utilización privativa o aprovechamiento especial del dominio público tendrá como límite de coste total el valor de mercado correspondiente o el de la utilidad derivada de aquel.
+En los supuestos de permisos y concesiones de minas e hidrocarburos se tendrá en cuenta la superficie objeto del derecho.
+3. El importe de las tasas por la prestación de un servicio o por la realización de una actividad no podrá exceder, en su conjunto, del coste real o previsible del servicio o actividad de que se trate y, en su defecto, del valor de la prestación recibida.
+Para la determinación de dicho importe se tomarán en consideración los costes directos e indirectos, inclusive los de carácter financiero, amortización de inmovilizado y, en su caso, los necesarios para garantizar el mantenimiento y un desarrollo razonable del servicio o actividad por cuya prestación o realización se exige la tasa, todo ello con independencia del presupuesto con cargo al cual se satisfagan. En todo caso se tendrán en cuenta aquellos costes sociales o beneficios sociales que se deriven de las actuaciones, actividades o servicios que realice el sujeto pasivo para aproximar el importe de la tasa al concepto de utilidad social de la misma.
+4. La cuota tributaria podrá consistir en una cantidad fija señalada al efecto, determinarse en función de un tipo de gravamen aplicable sobre elementos cuantitativos que sirvan de base imponible o establecerse conjuntamente por ambos procedimientos.
+5. Cuando la utilización privativa o el aprovechamiento especial lleve aparejada una destrucción o deterioro del dominio público en grado reseñable no prevista en la regulación de la cuantía de la propia tasa, el beneficiario, sin perjuicio del pago de la tasa a que hubiere lugar, estará obligado al reintegro del coste total de los respectivos gastos de reconstrucción o reparación. Si los daños fuesen irreparables la indemnización consistirá en una cuantía igual al valor de los bienes destruidos o al importe del deterioro de los dañados.
+6. Toda propuesta de establecimiento de una nueva tasa o de modificación específica de las cuantías de una preexistente deberá incluir una memoria económico-financiera sobre el coste o el valor del recurso o actividad de que se trate y sobre la justificación de la cuantía de la tasa propuesta.
+7. En la fijación de las tasas se tendrá en cuenta, cuando lo permitan las características del tributo, la capacidad económica de las personas que deban satisfacerlas.
+
+### Artículo 18
+
+Artículo 18. Gestión de las tasas.
+1. La gestión, liquidación y recaudación en periodo voluntario de cada tasa corresponde al departamento o al organismo autónomo que deba autorizar la utilización del dominio público, prestar el servicio o realizar la actividad gravados, sin perjuicio de las funciones recaudatorias en vía ejecutiva e inspectoras del departamento competente en materia tributaria, quien ejercerá estas últimas tanto en relación con las tasas como en relación con los órganos que tienen encomendada su gestión.
+2. Corresponde al Gobierno de Navarra regular la coordinación de las funciones del departamento competente en materia tributaria con las de los demás departamentos y organismos gestores.
+3. En la gestión de las tasas se aplicarán, en todo caso, los principios y procedimientos de la Ley Foral General Tributaria y de sus normas de desarrollo y, en particular, las disposiciones reguladoras de las liquidaciones tributarias, la recaudación, la inspección de los tributos y la revisión de actos en vía administrativa.
+4. Si la tasa se devenga periódicamente, en razón de prestación de servicios continuados que no requieren la adopción de nuevas resoluciones de admisión al servicio, el órgano u organismo perceptor de la tasa no podrá suspender su prestación por la falta de ingreso de esta, si no le autoriza a ello la regulación de la misma, sin perjuicio de exigir su importe por la vía de apremio.
+
+### Artículo 19
+
+Artículo 19. Autoliquidaciones.
+Los sujetos pasivos de las tasas estarán obligados a practicar operaciones de autoliquidación tributaria y a efectuar el ingreso de la deuda tributaria resultante en los supuestos determinados en esta ley foral y en los casos en que se determine por vía reglamentaria.
+
+### Artículo 20
+
+Artículo 20. Devoluciones.
+Procederá la devolución de las tasas que se hubieran exigido cuando no se realice su hecho imponible por causas no imputables al sujeto pasivo.
+
+### Artículo 21
+
+Artículo 21. Régimen sancionador.
+La calificación de los expedientes sancionadores y la imposición de sanciones se regirán por las disposiciones tributarias generales.
+
+## CAPÍTULO II
+
+Tasas por prestación de servicios administrativos y expedición de documentos e informes
+
+### Artículo 22
+
+Artículo 22. Tasa por servicios administrativos.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación por la Administración de la Comunidad Foral y sus organismos autónomos de los siguientes servicios administrativos:
+a) Expedición de certificados y duplicados.
+b) Compulsa de documentos.
+c) Inscripción en registros oficiales.
+d) Bastanteo de poderes y de documentos acreditativos de legitimación.
+Dichos servicios administrativos estarán exentos de esta tasa cuando se hallen gravados específicamente por otras tasas reguladas en la presente ley foral.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten los servicios relacionados en el apartado anterior.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituya el hecho imponible.
+4. Tarifa.
+La tasa se exigirá según la siguiente tarifa:
+Concepto
+ Euros
+ 1. Por la expedición de certificados y duplicados (por certificado o duplicado).
+ 5,20
+ 2. Por la compulsa de documentos (por copia).
+ 2,60
+ 3. Por la inscripción en registros oficiales (por inscripción).
+ 2,60
+ 4. Por el bastanteo de poderes y de documentos acreditativos de legitimación (por documento).
+ 6,24
+ 5. Por la expedición de certificados que comprendan copia o reproducción de un expediente administrativo.
+ 2,08 y 0,06 más por cada página reproducida
+ 6. Por copia o reproducción de expediente administrativo.
+ 0,06 por cada página reproducida
+5. Exenciones:
+a) La expedición de certificados de retribuciones satisfechas por la Comunidad Foral o sus organismos autónomos a efectos de justificación en relación con el Impuesto sobre la Renta de las Personas Físicas.
+b) La expedición de certificados y compulsa de documentos que el personal de la Administración solicite sobre aspectos relativos a su condición de empleado de ella.
+c) La expedición de certificados por solicitud expresa de otro departamento de la Administración Foral o de sus organismos autónomos.
+d) La expedición de certificados que sean objeto de descarga por Internet, así como los expedidos por los centros docentes públicos dependientes del Departamento de Educación que no requieran una preparación previa y que sean objeto de emisión o descarga automática.
+e) Las compulsas de documentos requeridos por la Administración de la Comunidad Foral y sus organismos autónomos a los aspirantes de pruebas selectivas para el ingreso en dicha Administración.
+f) La compulsa de documentos por los centros docentes públicos de enseñanzas regladas dependientes del Departamento de Educación a los miembros de familias numerosas de categoría especial, así como a los miembros de familias monoparentales o en situación de monoparentalidad de categoría especial.
+6. Bonificaciones. Tendrán una bonificación del 50 por 100 las tasas a las que se refiere el apartado 5.f), por los servicios prestados a los miembros de familias numerosas de categoría general, así como a los miembros de familias monoparentales o en situación de monoparentalidad de categoría general.
+Se modifican los apartados 5.d) y f), con efectos de 1 de enero de 2024, por el art. 9.1 de la Ley Foral 22/2023, de 26 de diciembre. Ref. BOE-A-2024-1694
+ Se modifican los apartados 1.a) y 4, con efectos de 1 de enero de 2023, por el art. 12.1 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+ Se modifica el apartado 6 por el art. 8.1 de la Ley Foral 19/2021, de 29 de diciembre de 2021. Ref. BOE-A-2022-2067
+
+### Artículo 23
+
+Artículo 23. Tasa por derechos de participación en procedimientos selectivos de ingreso y acceso a la función pública.
+1. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación por la Administración de los servicios necesarios para la participación en procedimientos selectivos de ingreso y acceso a la función pública.
+2. Sujetos pasivos.
+Son sujetos pasivos de la tasa las personas físicas que soliciten la prestación de los servicios que constituyen el hecho imponible de la misma.
+3. Devengo.
+La tasa se devengará en el momento en que se presente la solicitud de inscripción en los procedimientos selectivos.
+4. Tarifas.
+La tasa se exigirá según las siguientes tarifas:
+Euros
+ 
+ 
+ 
+ 
+ TARIFA 1
+ Para acceso, como funcionario de carrera, al grupo de Nivel A
+ 41,60
+ TARIFA 2
+ Para acceso, como funcionario de carrera, al grupo de Nivel B
+ 41,60
+ TARIFA 3
+ Para acceso, como funcionario de carrera, al grupo de Nivel C
+ 26,00
+ TARIFA 4
+ Para acceso, como funcionario de carrera, al grupo de Nivel D
+ 15,60
+5. Exenciones.
+a) Las personas con discapacidad igual o superior al 33 por 100.
+b) Las personas inscritas como desempleadas durante el plazo de, al menos, un mes anterior a la fecha de la publicación de la convocatoria de la prueba selectiva.
+Se modifica por el art. 8.2 de la Ley Foral 19/2021, de 29 de diciembre de 2021. Ref. BOE-A-2022-2067
+
+### Artículo 23 bis
+
+Artículo 23 bis. Tasa por remisión de copias en formato electrónico y físico de documentación correspondiente a procesos selectivos.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la remisión por la Administración Comunidad Foral de Navarra y sus organismos autónomos de las copias, tanto en formato electrónico como físico, de toda aquella documentación integrante del expediente administrativo de cualquier proceso selectivo tramitado en el seno de la misma.
+A estos efectos, se entenderá por copia electrónica la transposición del formato físico al electrónico de la documentación señalada en el párrafo anterior y su posterior remisión por vía electrónica al sujeto pasivo.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas que soliciten la remisión de las copias electrónicas o físicas que constituyen el hecho imponible.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de remisión de las copias electrónicas o físicas, procediéndose al abono de las cantidades con carácter previo a la remisión.
+4. Tarifas. La tasa será de 0,06 euros por cada página copiada y remitida.
+Se modifica, con efectos a partir del 1 de enero de 2025, por el art. 8.1 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+ Se añade, con efectos de 1 de enero de 2023, por el art. 12.2 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+
+### Artículo 24
+
+Artículo 24. Tasa por publicación de anuncios en el «Boletín Oficial de Navarra».
+1. Hecho imponible. Constituye el hecho imponible de la tasa la publicación de anuncios en el «Boletín Oficial de Navarra».
+2. Sujetos pasivos. Serán sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la publicación de anuncios o resulten especialmente beneficiados por la publicación cuando no hubieran sido solicitantes de la misma.
+3. Devengo.
+La tasa por publicación de anuncios se devengará en el momento en que se presente la solicitud de inserción de los mismos. El pago se realizará una vez efectuada la publicación y determinada la cuantía exacta que corresponda. No obstante, el órgano competente en la gestión del Boletín Oficial de Navarra podrá exigir el pago con la presentación de la solicitud.
+4. Tarifas.
+La tarifa será de 80,00 euros por anuncio publicado.
+Se modifican los apartado 3 y 4 por el art. 7.1 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+
+### Artículo 25
+
+Artículo 25. Tasa por actuaciones del Registro de Asociaciones, del Registro de Fundaciones y del Registro de Colegios Profesionales.
+1. Hecho imponible. Constituye el hecho imponible de esta tasa la inscripción y certificación de los actos, hechos y documentos que deban ser depositados o inscritos en el Registro de Asociaciones, en el Registro de Fundaciones y en el Registro de Colegios Profesionales, de acuerdo con las disposiciones vigentes.
+2. Sujeto pasivo. Son sujetos pasivos de esta tasa las personas físicas o jurídicas que soliciten alguna prestación de los servicios a los que se refiere el apartado anterior.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituya el hecho imponible.
+4. Tarifas.
+Concepto
+ Euros
+ Tarifa 1
+ Registro de Asociaciones y Federaciones.
+ 1. Por la inscripción de constitución.
+ 12
+ 2. Por la inscripción de modificación estatutaria o de la adaptación de la entidad a la normativa vigente.
+ 6
+ 3. Por cada inscripción de cualquier otro tipo, excepto las inscripciones de modificación de los miembros de la junta directiva u órgano de representación y los cambios de domicilio dentro del ámbito territorial estatutario de actuación principal.
+ 4
+ Tarifa 2
+ Registro de Fundaciones.
+ 1. Por la inscripción de constitución.
+ 53
+ 2. Por la inscripción de modificación estatutaria o extinción.
+ 38
+ 3. Por cada inscripción de cualquier otro tipo.
+ 23
+ Tarifa 3
+ Registro de Colegios Profesionales.
+ 1. Por la inscripción de constitución.
+ 53
+ 2. Por cada inscripción de modificación estatutaria, fusión, absorción, cambio de denominación y disolución.
+ 38
+ 3. Por cada inscripción de otro tipo.
+ 23
+ Tarifa 4
+ Publicidad registral.
+ 1. Por cada copia de documento contable depositado.
+ 9
+ 2. Por la expedición de certificados.
+ 8
+Se modifican los apartados 1 y 4, con efectos de 1 de enero de 2024, por el art. 9.2 de la Ley Foral 22/2023, de 26 de diciembre. Ref. BOE-A-2024-1694
+ Se modifica el apartado 4, con efectos de 1 de enero de 2023, por el art. 12.3 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+ Redactado conforme a la corrección de errores publicada en el BON núm. 13, de 19 de enero de 2023. Ref. BOE-A-2023-90013
+
+### Artículo 26
+
+Artículo 26. Tasa por la prestación de servicios administrativos en materia de transportes.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación de los servicios administrativos en materia de transportes a que se refiere el apartado 4.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la prestación de servicios que constituyen el hecho imponible o las que resulten afectadas por el mismo.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituya el hecho imponible.
+4. Tarifas.
+Euros
+ 
+ Tarifa 1.
+ Otorgamiento, rehabilitación, visado o modificación de autorizaciones de transporte público o privado complementario de mercancías y viajeros y, en su caso, de vehículos adscritos.
+ 27
+ Tarifa 2.
+ Otorgamiento o renovación de autorizaciones de transporte público regular de viajeros de uso especial.
+ 14
+ Tarifa 3.
+ Otorgamiento, renovación o modificación de autorizaciones para la realización de actividades auxiliares del transporte (operador de transporte).
+ 55
+ Tarifa 4.
+ Expedición y renovación de tarjetas.
+ 1. Expedición y renovación de la tarjeta de tacógrafo digital.
+ 43
+ 2. Expedición y renovación de la tarjeta de aptitud de conductor.
+ 26
+ 3. Cambios en los datos personales de la tarjeta de aptitud de conductor.
+ 5
+ Tarifa 5.
+ Certificados y diligenciado de libros.
+ 1. Por legalización, diligenciado o sellado de libros o documentos obligatorios.
+ 11
+ 2. Expedición de certificados referidos a empresas y autorizaciones de transportes.
+ 9
+ 3. Expedición de certificado de conductor de terceros países.
+ 28
+ Tarifa 6.
+ Tasas de examen y expedición de títulos.
+ 1. Por derechos de presentación a examen para la obtención del título de capacitación profesional de transportista, para la obtención o renovación del título de consejero de seguridad o para la obtención del certificado de aptitud profesional del conductor.
+ 22
+ 2. Por expedición del título de competencia profesional de transportista y expedición o renovación del título de consejero de seguridad.
+ 27
+ 3. Cambios en los datos personales del título de competencia profesional o de consejero de seguridad.
+ 5
+ Tarifa 7.
+ Tasas Cualificación inicial y Formación continua de conductores.
+ 1. Autorización de centros.
+ 340
+ 2. Cambio de titularidad de centros.
+ 178
+ 3. Homologación de cursos.
+ 125
+ Tarifa 8.
+ Por emisión de informes escritos.
+ 1. En relación con datos referidos a persona, autorización, vehículo o empresa específica que figuren en el Registro de Empresas y Actividades de Transportes o en otros Registros de los Servicios de Transportes.
+ 26
+ 2. Por actuaciones del concepto anterior, en relación con datos de carácter general o global.
+ 211
+
+### Artículo 27
+
+Artículo 27. Tasa por emisión de informes de carácter facultativo.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la emisión de informes de carácter facultativo cuando se efectúen a instancia de las personas físicas o jurídicas interesadas.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas solicitantes de la emisión de informes a que se refiere el apartado 1.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituya el hecho imponible.
+4. Tarifas. La tasa se exigirá de acuerdo con las siguientes tarifas:
+Euros
+ 
+ Tarifa 1.
+ Por informe para cuya redacción no sea necesario tomar datos de campo.
+ 46,80
+ Tarifa 2.
+ Por informe para cuya redacción sea necesario tomar datos de campo.
+ 156,00
+
+### Artículo 28
+
+Artículo 28. Tasa por la expedición de productos de cartografía.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación del servicio de expedición de productos de cartografía.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas a quienes se les presten los servicios constitutivos del hecho imponible.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituya el hecho imponible.
+4. Tarifa. La tasa se exigirá de acuerdo con las siguientes tarifas:
+a) Cartografía Editada en Imprenta:
+Denominación
+ Euros
+ 1. Mapas topográficos de Navarra.
+ 1.º 1:200.000 (Mural/Plegado).
+ 3,90
+ 2.º 1:200.000 (Relieve).
+ 32,50
+ 3.º 1:400.000 (Mural/Plegado).
+ 2,60
+ 4.º 1:850.000.
+ 1,30
+ 2. Mapas Geológicos de Navarra.
+ 1.º 1:200.000 (Mural/Plegado).
+ 10,75
+ 2.º 1:200.000 y Memoria.
+ 16,20
+ 3. Mapas Geotécnicos de Pamplona.
+ 1.º 1:25.000 y Memoria.
+ 16,20
+ 4. Mapas de Cultivos y Aprovechamientos de Navarra.
+ 1.º 1:200.000 (Mural/Plegado).
+ 9,70
+b) Cartografía Ploteada:
+Denominación
+ Euros
+ 1. Mapas Topográficos de Navarra.
+ 1.º 1:5.000 (Papel/Color).
+ 13,00
+ 2.º 1:10.000 (Papel/Color).
+ 13,00
+ 3.º Mapa Topográfico de Navarra 1:100.000 Mural (Papel Fotográfico/Color).
+ 52,85
+ 4.º Mapa Topográfico de Navarra 1:100.000 (Papel Fotográfico/Color).
+ 18,00 por hoja
+ 5.º Mapa Topográfico de Navarra 1:100.000 Mural (Papel Normal/Color).
+ 32,50
+ 6.º Mapa Topográfico de Navarra 1:100.000 (Papel Normal/Color).
+ 13,00 por hoja
+ 2. Ortofotomapas de Navarra.
+ 1.º 1:5.000 (Papel Fotográfico).
+ 18,00
+ 2.º 1:5.000 (Papel Normal).
+ 13,00
+ 3.º 1:10.000 (Papel Fotográfico).
+ 18,00
+ 4.º 1:10.000 (Papel Normal).
+ 13,00
+ 5.º De la Comarca de Pamplona, 1:12.500 (Papel Fotográfico).
+ 18,00
+ 6.º De la Comarca de Pamplona, 1:12.500 (Papel Normal).
+ 13,00
+ 3. Mapa Geológico de Navarra, 1:25.000 (Papel Normal).
+ 13,00
+ 4. Mapa Geomorfológico de Navarra, 1:25.000 (Papel Normal).
+ 13,00
+ 5. Mapa de Usos del Suelo, 1:200.000 (Papel Normal).
+ 13,00
+ 6. Mapa Red Natura 2000 en Navarra, 1:200.000 (Papel Normal).
+ 13,00
+ 7. Mapa de Vías Pecuarias de Navarra, 1:200.000 (Papel Normal).
+ 13,00
+ 8. Mapa de Espacios Naturales Protegidos, 1:200.000 (Papel Normal).
+ 13,00
+ 9. Mapa de Carreteras, 1: 200.000 (Papel Normal).
+ 9,00
+ 10. Mapas de Lugares de Importancia Comunitaria y Espacios Naturales Protegidos a distintas escalas (según tamaño del LIC o ENP).
+ 13,00
+ 11. Mapa de Usos del Suelo de Navarra, 1:25.000 (Papel Normal).
+ 13,00
+ 12. Mapa de Series de Vegetación de Navarra, 1:200.000 (Papel Normal).
+ 13,00
+ 13. Copia o ampliación de fotogramas hasta DINA4.
+ 1.º Papel Normal.
+ 4,30
+ 2.º Papel Fotográfico.
+ 6,45
+ 14. Escaneado y copia planos.
+ 1.º Tamaño ISO A0 (Papel Normal).
+ 18,00
+ 2.º Tamaño ISO A0 (Papel Fotográfico).
+ 25,00
+ 3.º Tamaño ISO A1 (Papel Normal).
+ 13,00
+ 4.º Tamaño ISO A1 (Papel Fotográfico).
+ 18,00
+ 5.º Tamaño ISO A2 (Papel Normal).
+ 8,60
+ 6.º Tamaño ISO A2 (Papel Fotográfico).
+ 13,00
+ 7.º Tamaño ISO A3 (Papel Normal).
+ 6,45
+ 8.º Tamaño ISO A3 (Papel Fotográfico).
+ 8,60
+ 9.º Tamaño ISO A4 (Papel Normal).
+ 4,30
+ 10.º Tamaño ISO A4 (Papel Fotográfico).
+ 6,45
+ 11.º Escaneo en PDF/JPG (Sin copia en papel).
+ 2,00
+c) Cartografía Digital:
+Denominación
+ Euros
+ 1. CD Mapa Geotécnico de Pamplona 1:25.000 y Memoria (PDF).
+ 10,75
+ 2. Por repositorio Web, conteniendo solicitud de archivos hasta 2 Gb, distintos formatos.
+ 5,00
+ 3. USB 2GB a 8 GB.
+ 10,00
+ 4. USB más de 8GB.
+ 15,00
+d) Otros productos:
+Denominación
+ Euros
+ 
+ 1. Catálogo de Cartografía.
+ 9,70
+ 2. Atlas de Navarra (Carreteras, Turismo y Medio Ambiente).
+ 13,00
+ 3. Bolsa planos relieve.
+ 0,20
+ 4. Bolsa planos papel.
+ 0,15
+5. Reducciones.
+a) Las sociedades públicas y organismos dependientes de las Administraciones Públicas de la Comunidad Foral de Navarra y de las Entidades Locales de Navarra, las Universidades y centros de enseñanza gozarán de una reducción del 25 por 100 de las tarifas del apartado 4.
+b) En relación con la tarifa recogida en el apartado 4.d), para los pedidos superiores a 10 unidades, tanto en color como en blanco y negro, se establecen, con carácter general, las siguientes reducciones:
+Concepto
+ Reducción (%)
+ 
+ En contactos y diapositivas.
+ A partir de 10 unidades.
+ 5
+ A partir de 20 unidades.
+ 10
+ A partir de 50 unidades.
+ 15
+ A partir de 100 unidades.
+ 20
+ En ampliaciones.
+ A partir de 10 unidades.
+ 5
+ A partir de 20 unidades.
+ 10
+ A partir de 50 unidades.
+ 15
+ A partir de 100 unidades.
+ 20
+Se modifican las letras a), b), c), se suprime la d) y reordena la e) como d) del apartado 4, con efectos de 1 de enero de 2024, por el art. 9.3 de la Ley Foral 22/2023, de 26 de diciembre. Ref. BOE-A-2024-1694
+
+### Artículo 29
+
+Artículo 29. Tasa por actuaciones del Registro del Deporte de Navarra.
+1. Hecho imponible. Constituye el hecho imponible de esta tasa la inscripción y certificación de los actos, hechos y documentos correspondientes a los clubes deportivos, clubes deportivos filiales y entes de promoción deportiva que deban ser habilitados o inscritos en el Registro del Deporte de Navarra de acuerdo con las disposiciones vigentes.
+2. Sujetos pasivos. Son sujetos pasivos de esta tasa las personas físicas o jurídicas que soliciten alguna prestación de los servicios a los que se refiere el apartado 1.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituya el hecho imponible.
+4. Tarifas. La tasa se exigirá de conformidad con las siguientes tarifas:
+Euros
+ 
+ Tarifa 1.
+ Por la inscripción de constitución.
+ 10,77
+ Tarifa 2.
+ Por la inscripción de modificación estatutaria.
+ 5,33
+ Tarifa 3.
+ Por la expedición de certificados.
+ 7,14
+ Tarifa 4.
+ Por duplicado de estatutos.
+ 7,14
+
+### Artículo 30
+
+Artículo 30. Tasa por la prestación de servicios administrativos en materia de comunicación audiovisual.
+1. Hecho imponible. Constituye el hecho imponible de esta tasa la prestación, por parte de la Administración de la Comunidad Foral de Navarra, de los siguientes servicios:
+a) La concesión de licencia, tanto inicial como en concepto de renovación, así como en su caso la comunicación previa, para la prestación del servicio de comunicación audiovisual radiofónica y televisiva.
+b) La autorización de negocios jurídicos cuyo objeto sea una licencia de comunicación audiovisual, de acuerdo con el Decreto Foral 5/2012, de 25 de enero, sobre Servicios de Comunicación Audiovisual.
+c) La anotación de asientos de modificación y la expedición de certificaciones de los datos inscritos en el Registro de Prestadores de servicios de comunicación audiovisual de Navarra.
+d) La realización de visitas e inspecciones a estudios y centros emisores de los servicios de comunicación audiovisual, en cumplimiento de las funciones inspectoras previstas en el Decreto Foral 5/2012, de 25 de enero, sobre Servicios de Comunicación Audiovisual.
+2. Sujeto pasivo. Serán sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades comprendidas en el artículo 25 de la Ley Foral 13/2000, de 14 de diciembre, General Tributaria, que soliciten los servicios señalados en el artículo anterior o estén obligadas a ello conforme a lo establecido en la normativa vigente en materia de radiodifusión y televisión.
+3. Devengo. La tasa se devengará conforme a los siguientes criterios:
+a) En la concesión y renovación de licencia, cuando se notifique el acuerdo de concesión definitiva o cuando se produzca la renovación de la licencia.
+En los casos que se requiera comunicación previa, al realizarse la actividad de control.
+b) En las autorizaciones de negocios jurídicos cuyo objeto sea la licencia, cuando se solicite la autorización.
+c) En la realización de asientos registrales o expedición de certificaciones de datos en el Registro de prestadores de servicios de comunicación audiovisual de Navarra, cuando se formalicen o expidan. No obstante, el pago se exigirá por anticipado en el momento de la solicitud.
+d) En las visitas de comprobación e inspección cuando se realicen dichas actuaciones.
+4. Tarifas. La tasa se exigirá de acuerdo con las siguientes tarifas:
+Tarifa 1. Concesión y renovación de licencias o actividad administrativa de control de servicios de comunicación audiovisual.
+1.º Servicio de comunicación audiovisual con ámbito de cobertura de hasta 10.000 habitantes: 300,00 euros.
+2.º Servicio de comunicación audiovisual con ámbito de cobertura entre 10.001 y 50.000 habitantes: 600,00 euros.
+3.º Servicio de comunicación audiovisual con ámbito de cobertura superior a 50.000 habitantes: 3.000,00 euros.
+Tarifa 2. Autorización de negocios jurídicos para titulares de licencias de servicios de comunicación audiovisual.
+a) Arrendamiento de la licencia. Se establece una tasa anual del 2,5 por 100 del importe anual del arrendamiento establecido en el negocio jurídico autorizado. No obstante, la tasa anual aplicable no podrá ser inferior a estas cantidades:
+1.º Licencia de servicio de comunicación audiovisual con ámbito de cobertura de hasta 10.000 habitantes: 30,00 euros.
+2.º Licencia de servicio de comunicación audiovisual con ámbito de cobertura entre 10.001 y 50.000 habitantes: 60,00 euros.
+3.º Licencia de servicio de comunicación audiovisual con ámbito de cobertura superior a 50.000 habitantes: 300 euros.
+b) Transmisión de la licencia y otros negocios jurídicos. Se establece una tasa del 2,5 por 100 del importe de transmisión establecido en el negocio jurídico autorizado. No obstante, la tasa aplicable no podrá ser inferior a estas cantidades:
+1.º Licencia de servicio de comunicación audiovisual con ámbito de cobertura de hasta 10.000 habitantes: 300,00 euros.
+2.º Licencia de servicio de comunicación audiovisual con ámbito de cobertura entre 10.001 y 50.000 habitantes: 600,00 euros.
+3.º Licencia de servicio de comunicación audiovisual con ámbito de cobertura superior a 50.000 habitantes: 3.000,00 euros.
+Tarifa 3. Asientos de modificación y certificaciones de datos inscritos en el Registro de Prestadores de servicios de comunicación audiovisual de Navarra.
+1.º Asientos de modificación: 30,00 euros por anotación.
+2.º Certificaciones registrales: 30,00 euros por certificación.
+3.º Visitas de comprobación e inspección de servicios de comunicación audiovisual: 363,41 euros por visita.
+5. Estarán exentos los servicios de comunicación audiovisual comunitarios sin ánimo de lucro y los servicios públicos de comunicación audiovisual, definidos respectivamente en los artículos 32 y 40 de la Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual.
+
+### Artículo 31
+
+Artículo 31. Tasa por servicio de reprografía de documentos del patrimonio documental.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación de servicios de reprografía de documentos del patrimonio documental.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la prestación de servicios que constituyen el hecho imponible de la misma.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud del servicio que constituya el hecho imponible.
+4. Tarifas. La tasa se exigirá según las siguientes tarifas:
+A. Copias en soporte papel
+ Euros/unidad
+ 
+ Tarifa 1.
+ Fotocopia
+ 1. Fotocopia DIN A4.
+ 0,10
+ 2. Fotocopia DIN A3.
+ 0,20
+ Tarifa 2.
+ Copia desde microforma
+ 1. Copia DIN A4.
+ 0,20
+ Tarifa 3.
+ Copia desde imagen digital
+ 1. Copia DIN A4.
+ 0,15
+ Tarifa 4.
+ Listados
+ 1. Copia DIN A4.
+ 0,10
+B. Copias digitales
+ Euros/unidad
+ 
+ Tarifa 1.
+ Imágenes
+ 1. Duplicado de imagen digitalizada.
+ 0,15
+ 2. Imagen por captura automatizada.
+ 0,10
+ 3. Imagen por captura en formato estándar.
+ 0,30
+ 4. Imagen por captura en formato especial.
+ 2,00
+ 5. Imagen en alta resolución para uso científico o cultural.
+ 5,00
+ Tarifa 2.
+ Listados
+ 1. Búsqueda de registros descriptivos.
+ 2,00
+ Tarifa 3.
+ Grabación en unidad de almacenamiento
+ 1. Soporte CD/DVD.
+ 1,00
+C. Cesión de reproducciones con fines venales
+ Euros/unidad
+ 
+ Tarifa 1.
+ Para productos editoriales
+ 1. Imagen interior en parte de página.
+ 10,00
+ 2. Imagen interior a página completa.
+ 20,00
+ 3. Imagen en cubierta.
+ 50,00
+ Tarifa 2.
+ Para exposiciones
+ 1. Imagen en panel expositivo.
+ 50,00
+ Tarifa 3.
+ Para productos comerciales
+ 1. Imagen para reproducción facsimilar.
+ 75,00
+ 2. Imagen para cartel o mural.
+ 100,00
+ 3. Imagen para artículos de papelería y publicidad.
+ 125,00
+
+### Artículo 31 bis
+
+Artículo 31 bis. Tasa por derechos de examen en procedimientos selectivos de acceso al curso de habilitación de Auxiliar de Policía Local.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación por la Administración de los servicios necesarios para la participación en procedimientos selectivos de acceso al curso de habilitación como Auxiliar de Policía Local realizado en la Escuela de Seguridad y Emergencias de Navarra.
+2. Sujetos Pasivos. Son sujetos pasivos de la tasa las personas físicas que soliciten la prestación de los servicios que constituyen el hecho imponible de la misma.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de inscripción en los procedimientos selectivos.
+4. Tarifa. Se exigirá una tasa de 46,00 euros para el derecho de examen.
+5. Exenciones. Las personas inscritas como desempleadas durante el plazo de, al menos, un mes anterior a la fecha de la publicación de la convocatoria de la prueba selectiva.
+Se añade, con efectos a partir del 1 de enero de 2025, por el art. 8.2 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+
+## CAPÍTULO III
+
+Tasas para la certificación de conocimientos, expedición de títulos o relativas a circunstancias personales
+
+### Artículo 32
+
+Artículo 32. Tasa por emisión de duplicado de tarjeta acreditativa de la discapacidad.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la emisión de duplicado de tarjeta acreditativa de la discapacidad.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas que soliciten la emisión de un duplicado de la mencionada tarjeta.
+3. Devengo. La tasa se devengará en el momento en que se solicite la emisión de la tarjeta.
+4. Tarifa. La tarifa será de 5 euros por tarjeta.
+
+### Artículo 33
+
+Artículo 33. Tasa por expedición de licencias de caza y matrículas de cotos de caza.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación de servicios administrativos inherentes a la expedición de licencias y matrículas que, de acuerdo con la legislación vigente, sean necesarios para practicar la caza y que se especifican en el apartado 4.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas que obtengan la licencia o matrícula.
+3. Devengo. La tasa se devengará y exigirá en el momento de la solicitud de la licencia o matrícula.
+4. Tarifa. La tasa se exigirá según las siguientes tarifas:
+Tarifa 1. Licencia de caza: 69,32 euros para el periodo de vigencia de cinco años o 13,86 euros por anualidad.
+Tarifa 2. Examen del cazador: 12,48 euros.
+Tarifa 3. Permisos de caza en cotos de titularidad de la Administración de la Comunidad Foral de Navarra: 6,24 euros.
+Tarifa 4. Matrícula de cotos de caza.
+Las tasas relativas a las matrículas de los cotos de caza estarán constituidas por un importe equivalente al 15 por 100 de la renta cinegética del coto de caza evaluada de la forma siguiente:
+a) A efectos de su rendimiento medio en unidades equivalentes de caza (U.E.) por unidad de superficie, los cotos de caza se clasificarán en los grupos siguientes:
+Caza mayor.
+ Grupo I.
+ 60U.E. por cada 100 hectáreas o inferior.
+ Grupo II.
+ Más de 60 U.E. y hasta 120 U.E. por cada 100 hectáreas.
+ Grupo III.
+ Más de 120 U.E. y hasta 180 U.E. por cada 100 hectáreas.
+ Grupo IV.
+ Más de 180 U.E. por cada 100 hectáreas.
+ Caza menor.
+ Grupo I.
+ 0,30 U.E. por hectárea o inferior.
+ Grupo II.
+ Más de 0,30 y hasta 0,80 U.E. por hectárea.
+ Grupo III.
+ Más de 0,80 y hasta 1,50 U.E. por hectárea.
+ Grupo IV.
+ Más de 1,50 U.E. por hectárea.
+La equivalencia de especies cinegéticas se aplicará según lo previsto en la normativa reglamentaria que regule la materia.
+b) Los valores asignables a la renta cinegética por unidad de superficie de cada uno de estos grupos serán los siguientes:
+Caza mayor.
+ Grupo I.
+ 0,56 euros por hectárea.
+ Grupo II.
+ 0,87 euros por hectárea.
+ Grupo III.
+ 1,20 euros por hectárea.
+ Grupo IV.
+ 1,82 euros por hectárea.
+ Caza menor.
+ Grupo I.
+ 0,19 euros por hectárea.
+ Grupo II.
+ 0,37 euros por hectárea.
+ Grupo III.
+ 0,75 euros por hectárea.
+ Grupo IV.
+ 1,25 euros por hectárea.
+c) En aquellos cotos clasificados en los distintos grupos de caza mayor o caza menor, según sea su aprovechamiento principal, pero en los que también se aprovechen especies de caza menor o mayor, respectivamente, el valor asignable a su renta cinegética será el correspondiente a su grupo de clasificación incrementado en 0,06 euros por hectárea.
+Tarifa 5. Permisos temporales de caza: 12,00 euros por permiso.
+
+### Artículo 34
+
+Artículo 34. Tasa por el permiso de pesca.
+1. Hecho imponible. Constituye el hecho imponible de la tasa el otorgamiento de los permisos para pescar en los cotos de pesca establecidos por el Gobierno de Navarra.
+Los permisos que autoricen la pesca en los citados cotos serán independientes de las licencias de pesca a que se refiere el artículo 35, de las que, en todo caso, deberán estar en posesión los solicitantes de dicha clase de permisos.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa aquellas personas físicas que soliciten la expedición de los correspondientes permisos para pescar en los cotos establecidos por el Gobierno de Navarra.
+3. Devengo. La tasa se devengará y se hará efectiva en el momento de la solicitud del permiso para pescar.
+4. Tarifas. El importe de las tarifas relativas a la tasa por permisos de pesca en cotos, cuya titularidad sea de la Administración de la Comunidad Foral de Navarra, será:
+Euros
+ Tarifa 1.
+ En cotos naturales de trucha, modalidad captura y suelta.
+ 10,00
+ Tarifa 2.
+ En cotos naturales de trucha, modalidad extractiva.
+ 12,00
+ Tarifa 3.
+ En cotos intensivos de trucha, modalidad captura y suelta.
+ 10,00
+ Tarifa 4.
+ En cotos intensivos de trucha, modalidad extractiva.
+ 12,00
+ Tarifa 5.
+ En tramos de extracción controlada de cangrejos exóticos.
+ 10,00
+ Tarifa 6.
+ Tarifa reducida.
+ 8,00
+Podrán ser beneficiarios de la tarifa reducida las personas físicas que, por sus circunstancias sociales, determine el departamento competente en materia de desarrollo rural y medioambiente.
+Se modifica el apartado 4, con efectos de 1 de enero de 2024, por el art. 9.4 de la Ley Foral 22/2023, de 26 de diciembre. Ref. BOE-A-2024-1694
+
+### Artículo 35
+
+Artículo 35. Tasa por la licencia de pesca continental.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación de servicios administrativos inherentes a la expedición de las licencias que, según la legislación vigente, son necesarias para practicar la pesca continental.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la expedición de licencias necesarias para la pesca continental.
+3. Devengo. La tasa se devengará y será exigible en el momento en que se soliciten las licencias, que tendrán un periodo de validez de un año.
+4. Tarifas. La tarifa será de 12 euros por licencia.
+Se modifican los apartados 3 y 4, con efectos de 1 de enero de 2024, por el art. 9.5 de la Ley Foral 22/2023, de 26 de diciembre. Ref. BOE-A-2024-1694
+
+### Artículo 36
+
+Artículo 36. Tasa por expedición de títulos y otros conceptos.
+1. Hecho imponible. Constituye el hecho imponible de la tasa:
+a) La expedición de títulos y la inscripción a las pruebas de acceso a grado medio y grado superior derivados de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+b) La expedición de los Certificados de Nivel de Idiomas y del Título de Aptitud de Conocimiento de euskera.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas que soliciten la prestación de servicios que constituyen el hecho imponible de la misma.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituya el hecho imponible.
+4. Tarifas:
+La tasa se exigirá según las siguientes tarifas:
+Euros
+ 
+ Tarifa 1.
+ Título de Educación Secundaria Obligatoria.
+ Gratuito
+ Tarifa 2.
+ Suplemento Europeo del Título (SET).
+ Gratuito
+ Tarifa 3.
+ Título de Bachiller.
+ 50,20
+ Tarifa 4.
+ Título Técnico.
+ 50,20
+ Tarifa 5.
+ Título de Técnico Superior.
+ 72,80
+ Tarifa 6.
+ Título profesional de música.
+ 50,20
+ Tarifa 7.
+ Certificados nivel B1 de idiomas / Ciclo elemental de idiomas.
+ 10,40
+ Tarifa 8.
+ Certificados nivel B2 de idiomas / Ciclo Superior de Idiomas.
+ 29,10
+ Tarifa 9.
+ Certificado C1/C2 de idiomas.
+ 35,40
+ Tarifa 10.
+ Título de aptitud de conocimiento de euskera.
+ 35,40
+ Tarifa 11.
+ Título Superior de enseñanzas artísticas.
+ 106,20
+ Tarifa 12.
+ Duplicados.
+ A) De los títulos comprendidos en las Tarifas 2 a 11, ambas inclusive.
+ 10,40
+ B) Del título de Graduado en Educación Secundaria.
+ Gratuito
+ Tarifa 13.
+ Prueba de acceso a Grado Medio y a Grado Superior. Inscripción.
+ 18,00
+ Tarifa 14.
+ Inscripción en la prueba de acceso de carácter específico a las enseñanzas deportivas de régimen especial.
+ 45,00
+ Tarifa 15.
+ Inscripción en la prueba de acceso de carácter específico a las enseñanzas deportivas de régimen especial de las modalidades de «Deportes de montaña y escalada», «Deportes de invierno», «Hípica» y «Vela».
+ 80,00
+ Tarifa 16.
+ Inscripción en pruebas libres modulares para la obtención del título de Técnico o Técnico Superior de Formación Profesional.
+ 10,00
+ Tarifa 17.
+ Prueba para el acceso a los estudios de grado en enseñanzas artísticas superiores de música de personas que manifiesten precocidad extraordinaria.
+ 18,00
+ Tarifa 18.
+ Prueba de acceso a las enseñanzas profesionales de música
+ 18,64
+ Tarifa 19.
+ Prueba de acceso a los estudios superiores de música
+ 61,79
+ Tarifa 20.
+ Prueba de acceso a los estudios superiores de diseño
+ 61,79
+ Tarifa 21.
+ Prueba para la obtención del Título Profesional de música
+ 106,64
+ Tarifa 22
+ Certificado de curso especializado de grado medio /Título de especialista de FP de grado medio.
+ 50,20
+ Tarifa 23
+ Certificado de curso especializado de grado superior /Titulo de máster de FP de grado superior.
+ 72,80
+5. Beneficios fiscales.
+A) Aplicables a todos los servicios previstos en el apartado 4.
+a) Familias numerosas:
+1.º Exención para miembros de familias numerosas de categoría especial.
+2.º Bonificación del 50 por 100 para miembros de familias numerosas de categoría general.
+b) Familias monoparentales o en situación de monoparentalidad:
+1.º Exención para miembros de familias de categoría especial.
+2.º Bonificación del 50 por 100 para miembros de familias de categoría general.
+c) Exención para las víctimas de actos terroristas, así como sus cónyuges o parejas estables e hijos.
+d) Exención para las víctimas de actos de violencia de género, así como sus hijos.
+e) Personas con discapacidad reconocida:
+1.º Exención para personas con una discapacidad reconocida igual o superior al 65 por 100.
+2.º Bonificación del 50 por 100 para personas con una discapacidad reconocida igual o superior al 33 por 100.
+B) Aplicable al servicio previsto en la tarifa 13, exención a las personas desempleadas que acrediten esta situación durante un plazo de al menos un mes anterior a la inscripción en el procedimiento, mediante la presentación de la cartilla expedida por el organismo competente.
+Se modifica la tarifa 17 del apartado 4 por el art. 7.2 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+ Se añaden las tarifas 22 y 23 en el apartado 4, con efectos de 1 de enero de 2023, por el art. 12.4 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+ Se modifica por el art. 8.3 y 4 de la Ley Foral 19/2021, de 29 de diciembre de 2021. Ref. BOE-A-2022-2067
+
+### Artículo 37
+
+Artículo 37. Tasa por expedición de duplicados de la tarjeta lector de biblioteca.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la expedición de duplicado de la tarjeta lector de biblioteca por la Administración de la Comunidad Foral de Navarra y sus organismos autónomos a solicitud de persona física.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas que soliciten la expedición de duplicado de la tarjeta lector de biblioteca.
+3. Devengo. La tasa se devengará en el momento en que se solicite el duplicado de la tarjeta lector de biblioteca.
+4. Tarifa. El importe de la tarifa será de 5,00 euros por cada duplicado de la tarjeta lector de biblioteca.
+
+### Artículo 38
+
+Artículo 38. Tasa por la prestación de servicios administrativos a empresas y centros de formación.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la autorización a empresas y centros de formación de iniciativa privada para la impartición de formación conducente a la obtención de certificados de profesionalidad no financiada con fondos públicos, así como la evaluación, seguimiento y control de las citadas acciones formativas, y la acreditación de la cualificación.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las empresas y centros de formación de iniciativa privada que soliciten o a cuyo favor se presten los servicios que constituyen el hecho imponible de la misma.
+3. Devengo. La tasa de devengará:
+a) En fase de autorización: en el momento en que se solicite ésta para la impartición de la formación.
+b) En fase de evaluación, seguimiento, control y acreditación de la cualificación: con anterioridad al comienzo de la formación.
+4. Tarifas. La tasa se exigirá según las siguientes tarifas:
+a) En fase de autorización:
+1.º Módulos formativos sueltos: 200,00 euros por módulo.
+2.º Curso completo: 300,00 euros por curso.
+b) Fase de evaluación, seguimiento, control y acreditación:
+1.º Módulos formativos sueltos: 200,00 euros por módulo.
+2.º Curso completo: 300,00 euros por curso.
+
+### Artículo 39
+
+Artículo 39. Tasa por la inscripción en el procedimiento de evaluación y acreditación de las competencias profesionales.
+(Derogado).
+Se deroga por el art. 8.5 de la Ley Foral 19/2021, de 29 de diciembre de 2021. Ref. BOE-A-2022-2067
+
+### Artículo 40
+
+Artículo 40. Tasa por la expedición de certificados de profesionalidad.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la expedición de certificados de profesionalidad, tanto de iniciales como de duplicados.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas que soliciten la expedición de los certificados.
+3. Devengo. La tasa se devengará en el momento en que se solicite el certificado.
+4. Tarifa. La tarifa de la tasa será de 10,00 euros por certificado inicial o duplicado expedido.
+5. Exenciones.
+Estará exenta de la tasa la expedición de certificados iniciales de profesionalidad o duplicados, a favor personas que no dispongan de una situación administrativa regular, que se acreditará mediante la presentación del identificador expedido por el Servicio Navarro de Empleo.
+Se añade el apartado 5, con efectos de 1 de enero de 2023, por el art. 12.5 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+
+## CAPÍTULO IV
+
+Tasas en materia de salud
+
+### Artículo 41
+
+Artículo 41. Tasa por servicios sanitarios.
+1. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de los servicios a que se refiere el apartado 4.
+El hecho imponible se producirá tanto si los servicios se prestan a iniciativa de la Administración de la Comunidad Foral como si son solicitados por los interesados.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas a las que se presten los servicios a que se refiere el apartado 4.
+3. Devengo.
+La tasa se devengará en el momento de la prestación del servicio.
+Sin embargo, cuando el servicio se preste a instancia del interesado se exigirá en el momento de la solicitud.
+4. Tarifas:
+La tasa se exigirá según las siguientes tarifas:
+1.ª Centros y servicios sanitarios:
+Euros
+ A)
+ Centros con internamiento.
+ Tramitación de la autorización para creación y funcionamiento.
+ 500,00
+ Tramitación para la autorización de modificación de su estructura y/o régimen inicial, responsable sanitario o convalidación.
+ 250,00
+ Inspección reglada o a petición de parte.
+ 200,00
+ B)
+ Centros sin internamiento.
+ Tramitación de la autorización para creación y funcionamiento.
+ 300,00
+ Traslado y funcionamiento.
+ 300,00
+ Tramitación para la autorización de modificación de su estructura y/o régimen inicial, responsable sanitario o convalidación.
+ 150,00
+ Inspección reglada o a petición de parte.
+ 115,00
+ C)
+ Transporte sanitario.
+ Tramitación de la certificación sanitaria de ambulancias.
+ 100,00
+ Inspección reglada o a petición de parte.
+ 115,00
+ D)
+ Autorización de publicidad sanitaria de centros y establecimientos sanitarios.
+ 100,00
+ E)
+ Informes a petición de parte: Conductores, armas, actividades no sanitarias.
+ 115,00
+ F)
+ Comunidades terapéuticas.
+ Acreditación de Comunidades terapéuticas.
+ 150,00
+ Acreditación para Tratamiento sustitutivo con opiáceos.
+ 150,00
+ Acreditación de Laboratorio de Histocompatibilidad.
+ 150,00
+ Acreditación de Comité de Ética Asistencial.
+ 150,00
+ Acreditación para la actividad de Interrupción Voluntaria embarazo.
+ 150,00
+ G)
+ Trasplante de órganos y tejidos.
+ Autorización de Obtención y/o Trasplante de órganos y tejidos (x/c tej).
+ 200,00
+ Renovación de Obtención y/o Trasplante de órganos y tejidos (x/c tej).
+ 150,00
+ H)
+ Establecimiento de tejidos.
+ Autorización de Establecimiento tejidos (x/c tej).
+ 200,00
+ Renovación de Establecimiento de Tejidos (x/c tej).
+ 150,00
+ I)
+ Unidad Reproducción Humana Asistida.
+ Autorización de Unidad de Reproducción Humana Asistida (URHA).
+ 200,00
+ Renovación de URHA.
+ 150,00
+2.ª Establecimientos sanitarios:
+Euros
+ A)
+ Oficinas de Farmacia.
+ Autorización de apertura oficina de farmacia.
+ 340,00
+ Autorización de modificación de locales o traslado de oficina de farmacia.
+ 225,00
+ Autorización de modificación de la titularidad.
+ 115,00
+ Inspección reglada o a petición de parte.
+ 115,00
+ B)
+ Servicios Farmacéuticos.
+ Autorización de instalación.
+ 340,00
+ Autorización de modificación de locales o traslado de servicio farmacéutico.
+ 225,00
+ Autorización de cambio de responsable farmacéutico.
+ 115,00
+ Inspección reglada o a petición de parte.
+ 115,00
+ C)
+ Botiquines rurales.
+ Autorización de instalación.
+ 190,00
+ Autorización de modificación de locales o traslado.
+ 115,00
+ Inspección reglada o a petición de parte.
+ 115,00
+ D)
+ Depósitos de medicamentos en centros sociosanitarios.
+ Autorización de instalación.
+ 225,00
+ Autorización de modificación de locales o traslado.
+ 115,00
+ Convalidación de autorización de funcionamiento.
+ 115,00
+ Inspección reglada o a petición de parte.
+ 115,00
+ E)
+ Almacenes de Distribución de medicamentos de uso humano y/o veterinario.
+ Autorización de instalación.
+ 340,00
+ Modificación de locales o traslado de almacén.
+ 285,00
+ Autorización de cambio de director técnico.
+ 115,00
+ Inspección reglada o a petición de parte.
+ 115,00
+ F)
+ Establecimientos de Productos sanitarios.
+ Autorización de establecimientos de óptica, de audioprótesis y/o de ortopedias y las secciones correspondientes de las oficinas de farmacia.
+ 340,00
+ Autorización de laboratorios de prótesis dental.
+ 340,00
+ Licencia de funcionamiento como fabricante de productos sanitarios a medida no incluidos en los apartados anteriores:
+ 340,00
+ Autorización de modificación de locales y/o de la actividad.
+ 225,00
+ Convalidación de autorización de funcionamiento.
+ 225,00
+ Inspección reglada o a petición de parte.
+ 115,00
+ Autorización de publicidad de productos sanitarios.
+ 190,00
+ G)
+ Industria y laboratorios farmacéuticos.
+ Inspección y verificación de Buenas Prácticas de Distribución, de Laboratorio, Clínicas, de Farmacovigilancia y de Normas de correcta fabricación (BPD, BPL, BPC, BPFV y NCF).
+ 675,00 (Por cada día empleado en la inspección y/o verificación)
+ Inspección reglada o a petición de parte.
+ 115,00
+ H)
+ Cosméticos.
+ Inspección y verificación de Normas de Correcta Fabricación.
+ 675,00 (Por cada día empleado en la inspección y/o verificación)
+ Inspección reglada o a petición de parte.
+ 115,00
+ I)
+ Otras actuaciones.
+ Emisión de informes, a petición del interesado, sobre centros y productos farmacéuticos.
+ 190,00
+ Emisión de certificados de cumplimiento de buenas prácticas (BPD, BPL, BPC, BPFV, NCF y otras asimilables), tanto nacionales como internacionales.
+ 150,00
+ (primer certificado)
+ 15,00
+ (por el segundo y/o posteriores realizados en la misma petición)
+3.ª Sanidad Mortuoria:
+Euros
+ 
+ A)
+ Autorización de exhumación y reinhumación de cadáver o de restos cadavéricos.
+ 20,00
+ B)
+ Autorización de traslado de cadáver sin exhumación fuera de la Comunidad Foral.
+ 40,00
+ C)
+ Autorización de traslado de restos cadavéricos fuera de la Comunidad Foral.
+ 20,00
+4.ª Actuaciones técnico-administrativas:
+Euros
+ 
+ A)
+ Diligencia de documentación oficial, incluido registro de Títulos.
+ 7,00
+ B)
+ Reconocimiento psicofísico de carné de conducir y de licencia de armas.
+ La que se aplique en los centros de reconocimiento
+ C)
+ Tramitación de comunicaciones, informaciones y otras actividades que se deban comunicar a la Administración General del Estado.
+ 15,00
+ D)
+ Emisión de certificados de acreditación para el uso de desfibriladores.
+ 3,00
+ E)
+ Emisión de certificados de reconocimiento de cualificación profesional.
+ 10,00
+5.ª Servicios veterinarios.
+Código
+ Denominación
+ Tarifa
+ –
+ Euros
+ SV01
+ Control sanitario de animales en caso de mordedura
+ 25,00
+ SV02
+ Servicios de captura y recogida (Precios por perro)
+ 60,00
+ SV02.1
+ Entrega de perros en el Centro de Protección Animal del Gobierno de Navarra en Etxauri (por animal)
+ 15,00
+ SV02.2
+ Perros adquiridos en adopción por nuevos propietarios
+ 15,00
+ 02.3
+ Gastos de estancia en el Centro de Protección Animal del Gobierno de Navarra en Etxauri
+ 20,00 (1)
+ SV03
+ Certificación oficial para exportación de productos alimenticios
+ 20,00
+ SV03.1
+ Atestaciones sanitarias para exportación de alimentos
+ 20,00
+ SV04
+ Actuaciones veterinarias en espectáculos taurinos. (Precios por veterinario actuante)
+ 250,00
+ SV05
+ Por controles motivados por solicitudes de inclusión en listas para exportación en países terceros en base al Real Decreto 993/2014, de 28 de noviembre.
+ 50,00
+ SV06
+ Por controles motivados por la intervención sistemática para la ejecución de programas exigibles en acuerdos bilaterales para la exportación a países terceros, adicionales a los requisitos comunitarios.
+ 20,00 €/día.
+ (1) Mínimo 20,00 euros. A partir del 5.º día se añadirán 3,00 euros por día adicional de estancia.
+6.ª Registro de Empresas Alimentarias.
+Denominación
+ Tarifa (euros)
+ 
+ Inscripción inicial en el Registro de industrias que requieren autorización para su funcionamiento tal y como indica el Reglamento (CE) número 853/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, por el que se establecen normas específicas de higiene de los alimentos de origen animal.
+ 50,00
+ Notificaciones de complementos alimenticios con reconocimiento mutuo (por complemento notificado).
+ 10,00
+ Notificaciones de complementos alimenticios sin reconocimiento mutuo (por complemento notificado).
+ 20,00
+5. Exenciones.
+a) Estarán exentos de la tasa los servicios sanitarios de carácter eminentemente preventivo y los que tengan carácter principalmente epidemiológico o alimentario o de prevención directa de la salud de la comunidad, de acuerdo con las directrices emanadas del departamento competente en materia de salud.
+b) Los estudios que tengan la consideración de «Investigación clínica sin ánimo comercial» conforme a la normativa de ensayos clínicos, estarán exentos de la tasa de «Estudios postautorización, medicamentos y otros productos. Autorización», fijada en el apartado 4.2.ª E).
+6. Bonificaciones.
+Se aplicará una bonificación del 40 por 100 de la tasa en los servicios que se presten a entidades sin ánimo de lucro.
+Esta bonificación se aplicará previa solicitud del interesado y estará condicionada al cumplimiento de las condiciones que se establezcan reglamentariamente.
+Se modifican las tarifas 1ª y 2ª del apartado 4 por el art. 7.3 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+ Se modifican las tarifas 1ª, 2ª y 5ª del apartado 4, con efectos a partir del 1 de enero de 2025, por el art. 8.3 y 4 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+ Se modifica el apartado 4.2ª.F e I, con efectos de 1 de enero de 2023, por el art. 12.6 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+
+### Artículo 42
+
+Artículo 42. Tasa por inspecciones y controles sanitarios oficiales de animales y sus productos.
+1. Ámbito de aplicación.
+Se exigirán estas tasas por la Comunidad Foral cuando radiquen en su territorio, los mataderos, salas de despiece y salas de procesamiento de caza.
+El importe de las tasas reguladas por este artículo no puede ser objeto de restitución directa o indirecta a terceras personas a causa de la exportación de las carnes o por otras razones.
+2. Hecho imponible.
+Constituye el hecho imponible de las presentes tasas la prestación por la Administración de la Comunidad Foral de los servicios necesarios para preservar la salud pública y sanidad animal, mediante la práctica de inspecciones y controles sanitarios de los animales y sus carnes frescas destinadas al consumo humano, así como de otros productos de origen animal, efectuadas por los facultativos de los servicios correspondientes, tanto en los locales o establecimientos de sacrificio, despiece y almacenamiento frigorífico, sitos en el territorio de la Comunidad Foral, como los demás controles y análisis realizados en los centros habilitados al efecto.
+A efectos de la exacción del tributo, las actividades de inspección y control sanitario que se incluyen dentro del hecho imponible se catalogan de la siguiente forma:
+a) Inspecciones y controles sanitarios «ante mortem» para la obtención de carnes frescas de ganado bovino, porcino, ovino, caprino, y otros rumiantes, conejos y caza menor de pluma y pelo, solípedos/équidos y aves de corral.
+b) Inspecciones y controles sanitarios «post mortem» de los animales sacrificados para la obtención de las mismas carnes frescas.
+c) Control documental de las operaciones realizadas en los establecimientos.
+d) El control y marcado de canales, vísceras y despojos destinados al consumo humano, así como el marcado o marchamado de las piezas obtenidas en las salas de despiece.
+e) Control de las operaciones de almacenamiento de carnes frescas para el consumo humano, desde el momento en que así se establezca, excepto las relativas a pequeñas cantidades realizadas en locales destinados a la venta a los consumidores finales.
+f) Control de determinadas sustancias y residuos en animales y sus productos, en la forma prevista por la normativa vigente.
+3. Sujetos pasivos. Son sujetos pasivos de la tasa, en calidad de contribuyentes, los que soliciten la prestación del servicio o para quienes se realicen las operaciones de sacrificio, despiece, almacenamiento o control.
+4. Sustitutos. Están obligados al pago del tributo, en calidad de sustitutos del contribuyente:
+a) En el caso de las tasas relativas a las inspecciones y controles sanitarios oficiales «ante mortem» y «post mortem» de los animales sacrificados, marcado de canales, vísceras y despojos destinados al consumo humano, los titulares de los establecimientos donde se lleve a cabo el sacrificio o se practique la inspección.
+b) En el caso de las tasas relativas al control de las operaciones de despiece:
+a´) Cuando las operaciones de despiece se realicen en el mismo matadero, las mismas personas determinadas en la letra a).
+b´) En los demás casos, los titulares de establecimientos dedicados a la operación de despiece de forma independiente.
+c) (Suprimido)
+d) En el caso de las tasas relativas al control de sustancias y residuos en animales y sus productos, los titulares de los establecimientos donde se lleven a cabo los citados controles y análisis.
+En el caso de que el interesado, a su vez, haya adquirido el ganado en vivo a un tercero, para sacrificio, podrá exigir de éste el importe de la tasa correspondiente al concepto definido en el apartado 2.f).
+5. Responsables del tributo. Serán, subsidiariamente, responsables del tributo:
+a) Los administradores de las sociedades, que hayan cesado en sus actividades, respecto de las tasas pendientes.
+b) Los síndicos, interventores o liquidadores de quiebras, concursos, sociedades y entidades en general, cuando, por negligencia o mala fe, no realicen las gestiones necesarias para el íntegro cumplimiento de las obligaciones tributarias devengadas con anterioridad a dichas situaciones y que sean imputables a los respectivos sujetos pasivos.
+6. Tarifas de las tasas por inspecciones y controles sanitarios de las carnes frescas y carnes de conejo y caza.
+a) La tarifa se exigirá al contribuyente por cada una de las operaciones relativas al sacrificio de animales y operaciones de despiece.
+En las operaciones de sacrificio realizadas en mataderos las tarifas se liquidarán en función del número de animales sacrificados.
+Las tarifas relativas a las actividades conjuntas de inspección y control sanitario «ante mortem», «post mortem», control documental de las operaciones realizadas y marcado de canales, vísceras y despojos, se cifran, para cada animal sacrificado en los establecimientos o instalaciones debidamente autorizados, en las cuantías que se contienen en las siguientes tablas:
+1.ª Importes de las tasas por animal aplicables a las inspecciones y controles sanitarios de mataderos:
+Clase de ganado
+ Tarifa por animal (euros)
+ 
+ Tarifa 1.
+ Carne de bovino
+ 1. Bovinos pesados.
+ 5,00 (0,36)
+ 2. Bovinos jóvenes.
+ 2,00 (0,25)
+ Tarifa 2.
+ Solípedos, équidos.
+ 3,00 (0,21)
+ Tarifa 3.
+ Carne de porcino, de peso en canal
+ 1. Menor de 25 kg.
+ 0,50 (0,030)
+ 2. Superior o igual a 25 kg.
+ 1,00 (0,107)
+ Tarifa 4.
+ Carne de ovino y de caprino, de peso en canal
+ 1. Menor de 12 kg.
+ 0,15 (0,010)
+ 2. Superior o igual a 12 kg.
+ 0,25 (0,029)
+ Tarifa 5.
+ Carne de aves y de conejos
+ 1. Aves del género Gallus y pintadas.
+ 0,005 (0,001)
+ 2. Patos y ocas.
+ 0,010 (0,020)
+ 3. Pavos.
+ 0,025 (0,002)
+ 4. Conejos de granja.
+ 0,005 (0,001)
+ 5. Aves que no se consideran domésticas pero que se crían como animales domésticos, con excepción de las ratites.
+ 0,006 (0,001)
+ Tarifa 6.
+ Caza de cría
+ 1. Ciervos.
+ 0,50 (0,029)
+ 1. Otros mamíferos de caza de cría.
+ 0,50 (0,029)
+La tarifa para las operaciones de control de determinadas sustancias y la investigación de residuos en animales vivos destinados al sacrificio y de las carnes incluidas en el objeto de esta tasa, practicadas de acuerdo con la normativa sanitaria relativa a los controles y técnicas analíticas establecidas, se considera incluida en la cuota total aplicable al sacrificio y se desglosa a título informativo en la tabla anterior como cifras entre paréntesis.
+2.ª Importes de las tasas aplicables, a las inspecciones y controles sanitarios en las salas de despiece:
+Tipo de carne
+ Euros por tonelada de carne
+ Tarifa 1
+ Vacuno, porcino, solípedos/equis, ovino y caprino.
+ 2,0
+ Tarifa 2
+ Aves de corral conejos de granja.
+ 1,5
+ Tarifa 3
+ Caza, silvestre y de cría.
+ a) Caza menor de pluma y de pelo.
+ 1,5
+ b) Ratites (avestruz, emú y ñandú).
+ 3.0
+ c) Verracos y rumiantes.
+ 2,0
+3.ª Importes de las tasas aplicables a las inspecciones y controles sanitarios en las instalaciones de transformación de la caza:
+Clase de ganado
+ Tarifa por animal (euros)
+ 
+ Tarifa 1.
+ Caza menor de pluma.
+ 0,006
+ Tarifa 2.
+ Caza menor de pelo.
+ 0,011
+ Tarifa 3.
+ Ratites.
+ 0,600
+ Tarifa 4.
+ Mamíferos terrestres
+ 1. Jabalíes.
+ 1,500
+ 2. Rumiantes.
+ 0,500
+b) Si en un mismo establecimiento se realizan de modo integrado las actividades de sacrificio y despiece, solamente se percibirá la tasa por la actividad que tenga un importe superior. A estos efectos, se entiende por un mismo establecimiento el que esté integrado por distintas instalaciones anexas, dedicadas a las actividades de sacrificio y despiece del mismo titular.
+7. Reducciones de la tasa por controles oficiales en mataderos, salas de despiece y salas de procesamiento de caza.
+Los sujetos pasivos, podrán aplicarse en su autoliquidación las siguientes reducciones respecto de la cuota calculada aplicando las cuantías establecidas en las tablas del apartado 6. Las reducciones serán compatibles entre sí en cada liquidación:
+a) Tratándose de microempresa, pequeñas y medianas empresas, aplicaran las siguientes reducciones:
+1.º) Medianas empresas: 10 por ciento.
+2.º) Pequeñas empresas 20 por ciento.
+3.º) Microempresas: 30 por ciento.
+El concepto de micro, pequeña y mediana empresa será el recogido en el artículo 2 del Anexo I del Reglamento (UE) 651/2014 de la comisión, por el que se declaran determinadas categorías de ayudas compatibles con los artículos 107 y 109 del Tratado.
+b) 20 por ciento, cuando se utilizan métodos tradicionales de producción, transformación y distribución recogidos en la normativa comunitaria o nacional.
+c) 20 por ciento en el caso de operadores económicos que se encuentren en zonas o áreas poco desarrolladas, con baja población o con dificultades de acceso y comunicación.
+d) Reducciones en función del historial de cumplimiento del operador, y una planificación del trabajo que reduzca el coste del control oficial:
+1.º) La autoridad competente, podrá aplicar una reducción del 20 por ciento, si el operador no ha sido de objeto de expediente sancionador por incumplimiento de la normativa sanitaria.
+2.º) En el caso de una planificación que facilite el control oficial, las reducciones serán:
+a’) 20 por ciento para los mataderos y salas de manipulación de carne de caza en los que únicamente demanden la presencia del Servicio Veterinario Oficial en los periodos comprendidos entre las 6:00 horas y las 15:00 horas de lunes a viernes laborables, permitiéndose esta reducción aun cuando en el 5 por 100 de los días de cada uno de los meses del trimestre del que se trate se produzcan desviaciones en ese horario.
+Esta misma reducción se aplicará a los mataderos de aves cuyo horario de sacrificio requiera presencia del servicio veterinario oficial entre las 00:00 y las 15:00 horas.
+b’) 10 por ciento para los mataderos que demanden la presencia del Servicio Veterinario Oficial fuera del horario anterior, siempre que al menos la mitad de dicha demanda se realice en dicho horario.
+c’) No se aplicarán reducciones, cuando la demanda de la presencia del Servicio Veterinario Oficial se realice en sábados, domingos o días no laborables, respecto a los animales sacrificados o faenados en esos días.
+e) Reducción por planificación de la actividad de los mataderos y por su cumplimiento.
+Podrán aplicar una reducción del 20 por ciento los mataderos que apliquen en sus procesos productivos sistemas de planificación y programación que permitan conocer a los servicios de inspección el servicio a prestar con una antelación mínima de cinco días naturales,
+f) Las reducciones que se aplicarán sobre la cuota íntegra son compatibles entre sí, sin que puedan superar el 80 por ciento.
+8. Autorización previa para aplicación de reducciones y requisitos de mantenimiento
+a) Las reducciones establecidas en el apartado 7, exigirán para su aplicación el previo reconocimiento por el Instituto de Salud Pública y Laboral de Navarra, que ha de notificarse en el plazo de tres meses, contados desde la fecha en que la solicitud haya tenido entrada en el registro del órgano competente para su tramitación. En el caso de que no se resuelva la solicitud en dicho plazo, se entenderá que el interesado tiene derecho a la reducción, que habrá de aplicarse en la primera autoliquidación que se practique a partir de la finalización de ese plazo.
+b) La aplicación de las reducciones quedará condicionada a que se mantengan las circunstancias que motivaron su reconocimiento.
+9. Devengo.
+Las tasas establecidas para las inspecciones y controles sanitarios de los animales y los productos de origen animal se devengarán en el momento en que se presten los servicios relacionados en el apartado 6.
+10. Liquidación e ingreso.
+a) El abono de las tasas se efectuará mediante el sistema de autoliquidación de los sujetos pasivos sustitutos, que se deberá realizar en los veinte primeros días del mes siguiente, respecto de las tasas devengadas en el trimestre natural anterior.
+b) No se autoliquidarán las tasas cuyo importe resulte inferior a 10 euros.
+11. Obligación de registro.
+a) Los sujetos pasivos de las tasas por controles oficiales en mataderos y salas de transformación de carne de caza y salas de despiece están obligados a llevar un registro en el que anotarán todas las operaciones que afectan a dichas tasas:
+1.º) El número de animales sacrificados o transformados con su número.
+2.º) La fecha y el horario de las operaciones.
+3.º) El peso de los animales, de acuerdo con los modelos que facilitará el Instituto de Salud Pública y Laboral de Navarra, incluyendo los formatos electrónicos.
+b) El Instituto de Salud Pública y Laboral de Navarra en colaboración con el Departamento competente en materia tributaria, establecerá el modelo o modelos de registros a los que se refiere el párrafo anterior, incluidos los formatos electrónicos, que deberán cumplimentar las empresas alimentarias, así como los modelos de declaración y autoliquidación que deben presentarse para hacer efectivos los importes de estas tasas.
+Se modifica el primer párrafo del apartado 1, se suprime el apartado 4.c, se modifica el primer párrafo y ordinal 2ª de la letra a) y la letra b) del apartado 6, los apartados 7 a 11, y se suprimen los apartados 12 y 13, con efectos de 1 de enero de 2023, por el art. 12.7 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+
+## CAPÍTULO V
+
+Tasas en materia de tráfico, emergencias y seguridad
+
+### Artículo 43
+
+Artículo 43. Tasa de actividades y servicios relativos al tráfico y seguridad.
+1. Hecho imponible. Constituye el hecho imponible de esta tasa la prestación de los servicios y la realización de las actividades a las que se refiere el apartado 4.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten los servicios o sean receptores de las actividades que constituyen el hecho imponible.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituya el hecho imponible.
+4. Tarifas.
+Euros
+ 
+ Tarifa 1.
+ Derivada de la prestación de servicios y realización de actividades por la Policía Foral de Navarra.
+ 1. Vigilancia, seguridad y acompañamiento de pruebas deportivas que no consten en el calendario de una Federación Deportiva de Navarra en las condiciones que se establezcan reglamentariamente.
+ 1.1 Carrera ciclista, por cada etapa: Categorías.
+ a) Escuelas.
+ 116,94
+ b) Cadetes.
+ 394,96
+ c) Junior.
+ 472,18
+ d) Sub 23.
+ 513,00
+ e) Elite.
+ 551,62
+ f) Máster.
+ 551,62
+ g) Veteranos.
+ 513,00
+ h) Féminas.
+ 472,18
+ i) Profesionales.
+ 1.105,44
+ j) Ciclo deportistas.
+ 513,00
+ 1.2 Otras pruebas deportivas.
+ 234,99
+ 2. Vigilancia, seguridad y acompañamiento de marchas cicloturistas y de otras actividades que se desarrollen en espacios públicos.
+ 197,47
+ 3. Escolta, control y regulación de la circulación de vehículos que por sus características técnicas o en razón de las cargas que transporten excedan de las masas y dimensiones máximas autorizadas o transiten a velocidades inferiores a las mínimas reglamentariamente establecidas.
+ 50,33 por hora y agente
+ 4. Suprimida.
+ 5. Servicio de estancia de vehículos en los depósitos desde las 12 horas del comienzo de la misma, por día.
+ a) Bicicletas, ciclomotores.
+ 2,20
+ b) Motocicletas, motocarros y otros vehículos de naturaleza análoga.
+ 5,51
+ c) Automóviles, turismos, camionetas, furgones, etc., con tara hasta 1.000 kg.
+ 9,93
+ d) Camiones, tractores, remolques, semirremolques, camionetas, furgonetas y demás vehículos con tara superior a los 1.000 kg.
+ 23,17
+ 6. Informes emitidos por la Policía Foral.
+ 47,43
+ 7. Regulación de la circulación del tráfico como consecuencia del aprovechamiento socioeconómico de las vías.
+ 50,33 por hora y agente
+ Tarifa 2.
+ Derivada del otorgamiento de las autorizaciones complementarias de circulación previstas en el artículo 13 del Reglamento General de Circulación
+ 1. Autorización complementaria para la circulación por un mes, para un solo vehículo motor y un solo itinerario.
+ 17,16
+ 2. Autorización complementaria para la circulación por tres meses, para un solo vehículo motor y un solo itinerario.
+ 34,32
+ 3. Autorización complementaria para la circulación por seis meses, para un solo vehículo motor y un solo itinerario.
+ 63,44
+ 4. Autorización complementaria para la circulación por un año, para un solo vehículo motor y un solo itinerario.
+ 114,40
+ 5. Autorización complementaria genérica, con carácter general, y específica, para vehículos autopropulsados (grúas, etc.), para un solo vehículo motor, para circular durante dos años por todas las carreteras del Catálogo de Carreteras de Navarra.
+ 205,92
+ 6. Autorización complementaria para la circulación por seis meses y para un solo vehículo motor agrícola.
+ 27,56
+ 7. Gestión e intermediación con cooperativa agraria de autorizaciones complementarias de circulación de vehículos motores cuya titularidad corresponda a sus asociados.
+ 426,40
+ 8. Autorización complementaria para la circulación por un año y para un solo vehículo motor agrícola a titulares asociados a cooperativas agrarias, gestionada previamente por la cooperativa.
+ 11,44
+ 9. Cambio de titularidad o modificación de matrícula de la autorización complementaria de circulación expedida.
+ 11,44
+ Tarifa 3.
+ Solicitudes de uso socioeconómico de las vías.
+ 47,00
+ Tarifa 4.
+ Centros de formación y de reconocimiento de conductores.
+ 1. Apertura de centro. Autorización de apertura y funcionamiento o inscripción de escuelas particulares de conductores, de otros centros de formación o de centros de reconocimiento de conductores.
+ 442,00
+ 2. Alteración elementos personales o materiales (con o sin inspección). Modificación de la autorización de funcionamiento por alteración de los elementos personales o materiales de las escuelas particulares de conductores o secciones de las mismas, de otros centros de formación o de centros de reconocimiento de conductores: con o sin inspección.
+ 45,00
+ 3. Expedición de certificados de aptitud para Directores/as y Profesores/as de Escuelas Particulares de Conductores y otras titulaciones, así como duplicados de los mismos.
+ 100,00
+ 4. Troquelado electrónico de placas o sellado de libros de registro.
+ 9,00
+ 5. Inspección autoescuela y centro de reconocimiento médico practicada en virtud de precepto reglamentario (con un máximo de dos al año).
+ 80,00
+ 6. Autorizaciones de ejercicio de profesor/a de formación vial.
+ 10,50
+ 7. Aprobaciones de cursos de formación de formadores y de conductores de vehículos que transporten mercancías peligrosas.
+ 10,50
+ 8. Anotaciones de cualquier clase en los expedientes, suministro de datos, certificaciones, cotejos, copias auténticas cuando no proceda la expedición de duplicado, desglose de documentos y sellado de cualesquiera placas o libros.
+ 9,00
+ 9. Derechos de examen. Participación en curso de obtención de certificado de aptitud de Profesor o Profesora de Formación Vial y en la prueba selectiva para obtener el certificado de aptitud de Director o Directora de Escuelas de Conductores.
+ 46,00
+ 10. Otras autorizaciones especiales competencia del Servicio de Tráfico.
+ 10,00
+Se modifica el título, la tarifa 1 y se añade la tarifa 4.10 por el art. 7.4 y 5 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+ Se modifica la tarifa 4 del apartado 4, con efectos a partir del 1 de enero de 2025, por el art. 8.5 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+ Se añade la tarifa 4 al apartado 4 por el art. 8.6 de la Ley Foral 19/2021, de 29 de diciembre de 2021. Ref. BOE-A-2022-2067
+
+### Artículo 44
+
+Artículo 44. Tasa por servicios de extinción de incendios y salvamentos.
+1. Hecho imponible. Constituyen el hecho imponible de la tasa las actuaciones o intervenciones del Servicio de Bomberos de Navarra-Nafarroako Suhiltzaileak, bien sea a solicitud de los interesados o de oficio por razones de seguridad, y siempre que la prestación del servicio redunde en beneficio del sujeto pasivo, en los siguientes casos:
+a) Accidentes de tráfico, ferroviarios, aéreos o acuáticos.
+b) Asistencias técnicas:
+1.º Achiques de agua.
+2.º Limpiezas de calzada.
+3.º Apertura de puertas. Este servicio no se realizará, salvo en los supuestos que impliquen riesgos para personas o bienes, en cuyo caso será catalogado como intervención en prevención o extinción de incendios o salvamentos. Prestado el servicio, si el personal interviniente comprueba que el incidente no ha implicado riesgo para las personas o bienes se procederá a la exigencia de la tasa correspondiente.
+4.º Transporte de agua.
+5.º Desconexión de alarmas, aparatos eléctricos, instalaciones de gas o agua.
+6.º Intervenciones en elementos interiores o exteriores de inmuebles, incluidos el saneamiento de fachadas, rótulos publicitarios, alarmas, ascensores y otros elementos análogos.
+7.º Vertidos de sustancias nocivas para el medio ambiente.
+c) Rastreo, rescates o salvamentos, en los siguientes casos:
+1.º Cuando el afectado no haya atendido los boletines o parte de avisos de alerta o predicción de meteorología adversa, de nivel naranja, rojo o equivalente, emitidos por los servicios oficiales competentes.
+2.º En zonas de riesgo o de difícil acceso, cuando sea debido a conductas imprudentes o temerarias del beneficiario.
+3.º Cuando la actuación tenga lugar en zonas señaladas como peligrosas o en aquellas de acceso prohibido o restringido.
+4.º Cuando se realice con ocasión de la práctica de actividades recreativas y deportivas organizadas que entrañen riesgo o peligro para las personas.
+5.º Cuando las personas afectadas no lleven el equipamiento adecuado para la actividad.
+6.º Cuando afecten a animales con dueño identificable.
+7.º Cuando se solicite el servicio sin que existan motivos objetivamente justificados, así como en caso de simulación de existencia de riesgo o peligro.
+d) Intervenciones en hundimientos totales o parciales de edificios o instalaciones, ruinas, derribos, inundaciones, y otros análogos.
+e) Servicios preventivos:
+1.º Asistencias técnicas, de prevención y de vigilancia y protección por riesgo de incendio o accidentes en pruebas deportivas y en actividades festivas, culturales o de tiempo libre.
+2.º Revisión de instalaciones de protección contra incendios.
+f) Prácticas de formación, siempre que se deriven de actividades que supongan la existencia de ánimo de lucro, entre las que se incluyen:
+1.º Cursos de formación y prácticas de personal a empresas, sociedades o particulares y en general a terceros.
+2.º Formación de brigadas de primera intervención en empresas privadas o a terceros.
+3.º Participación en simulacros que impliquen acreditación de sistemas de calidad o procesos similares.
+2. Sujeto pasivo. Son sujetos pasivos de la tasa, en calidad de contribuyentes las entidades, los organismos o las personas físicas o jurídicas que resulten beneficiarias, personalmente o en sus bienes, por la actuación o intervención que constituya el hecho imponible.
+También son sujetos pasivos de esta tasa quienes organicen las actividades deportivas, festivas, culturales o de tiempo libre, que dieran lugar a la prestación de los servicios sujetos a esta tasa. En este caso serán subsidiariamente responsables del pago de la tasa los sujetos pasivos señalados en el párrafo anterior.
+Si existen varios beneficiarios del servicio la imputación de la tasa debe efectuarse proporcionalmente a los efectivos utilizados en las tareas en beneficio de cada uno de ellos, según el informe técnico y, si no fuera posible su individualización, por partes iguales.
+En los casos de simulación de existencia de riesgo o peligro, se considerará, en todo caso sujeto pasivo al responsable de dicha simulación.
+En el caso de que el sujeto pasivo tenga contratada una póliza de seguro que cubra los supuestos objeto de esta tasa, serán sujetos pasivos sustitutos las entidades o sociedades aseguradoras
+3. Devengo. La tasa se devengará en el momento de salida de la dotación correspondiente desde el parque de bomberos o desde el lugar donde estén situados los medios aéreos, considerándose este momento, a todos los efectos, como inicio de la prestación del servicio.
+4. Cuota. La cuota tributaria se determinará en función del número de efectivos, tanto personales como materiales, que se empleen en la prestación del servicio y el tiempo invertido en el mismo.
+5. Tarifa.
+a) La cuantía de la tasa se determinará de conformidad con los siguientes importes:
+Euros
+ 
+ 1. Intervención por cada efectivo personal (Importe por hora o fracción).
+ 35,00
+ 2. Intervención vehículos (Importe por hora o fracción).
+ Autoescala o vehículo especial (PMA, químico, taller…).
+ 250,00
+ Autobomba -Tanque - Ambulancia.
+ 100,00
+ Furgón, turismo o todo terreno.
+ 35,00
+ Motobomba, electrobomba, grupo hidráulico.
+ 15,00
+ Lancha con motor.
+ 35,00
+ Por cada kilómetro recorrido desde la salida del parque hasta su regreso, se abonará por cada vehículo 0,80 euros.
+ 3. Intervención medios aéreos (por hora o fracción).
+ Helicóptero de transporte sanitario.
+ 1.800,00
+ Helicóptero de rescate.
+ 1.400,00
+ 4. Medios materiales.
+ Uso de equipo de respiración autónomo ERA (unidad).
+ 15,00
+ Cada 10 litros de espumógeno.
+ 80,00
+ Desengrasante litro/uso diluido.
+ 1,50
+ Saco absorbente.
+ 15,00
+ Puntal telescópico (por día o fracción).
+ 10,00
+ Puntal estabilizador de tracción-compresión (por día o fracción).
+ 25,00
+ Multidetector de gases, explosímetro (por medición).
+ 20,00
+ Barreras absorbentes (por unidad).
+ 275,00
+ Extintor (por unidad).
+ 25,00
+ Motosierras o equipo de corte en madera o metal (por hora o fracción).
+ 60,00
+ Equipo completo de inmersión.
+ 15,00
+ 5. Apertura de puertas.
+ La que resulte de la aplicación de los epígrafes anteriores, con una cuota mínima por actuación de 170 euros.
+ 6. Gastos Generales.
+ Por deterioro del equipamiento del personal y servicios generales se incrementará el total facturado en un 5%.
+ 7. Incidentes con materias peligrosas.
+ En aquellos incidentes en los que haya presencia de sustancias tóxicas, inflamables, explosivas, etc. en cantidades o condiciones no permitidas por las disposiciones legales aplicables, se recargará la tarifa resultante en un 100%.
+ 8. Cursos de formación a terceros.
+ Por alumno al día.
+ 25,00
+ Por instructor del curso por hora o fracción.
+ 70,00
+b) Finalizada la prestación que constituye el hecho imponible, el órgano competente emitirá la liquidación de la tasa que deberá especificar el tiempo invertido y el número de efectivos que han intervenido, así como el importe de acuerdo con la tarifa establecida en este apartado.
+6. Exenciones. Los servicios enumerados en las letras b), c) y d) del apartado 1 estarán exentos de la tasa en los supuestos en los que la solicitud o prestación del servicio se encuentre motivada en causas fortuitas, inevitables o no imputables a la conducta del beneficiario.
+Esta exención no será de aplicación, en ningún caso, si se incumple la normativa vigente que resulte aplicable, o si se trata de edificios con daños estructurales provocados por el deficiente mantenimiento y conservación del inmueble.
+
+### Artículo 45
+
+Artículo 45. Tasas por realización de actividades sujetas a autorización en materia de defensa de carreteras e informes de explotación viaria.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la instrucción y resolución de solicitudes de autorizaciones correspondientes a los actos de edificación y uso del suelo en las zonas de dominio público, servidumbre y afección de las carreteras de la Red de Carreteras de la Comunidad Foral de Navarra, de acuerdo con lo establecido en la Ley Foral 5/2007, de 23 de marzo, de Carreteras de Navarra, y la emisión de informes facultativos relativos a determinaciones de la explotación viaria a instancias de personas físicas o jurídicas interesadas.
+De afectar a más de una zona de protección, se abonará solo la tasa por afectación a la zona de mayor protección.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la autorización o informe a que se refiere el artículo anterior y que se beneficien de los mismos.
+3. Devengo. La tasa se devengará en el momento de la solicitud, la cual no se tramitará hasta tanto no se haya acreditado el abono exigido.
+4. Tarifas.
+Euros
+ 
+ 1. Autorización que afecte a explanación, zonas funcionales y de servicios de la carretera.
+ a. Presupuesto de hasta 6.000,00 euros.
+ 50,00
+ b. Presupuesto de hasta 60.000,00 euros.
+ 100,00
+ c. Presupuesto de hasta 600.000,00 euros.
+ 160,00
+ d. Presupuesto de más de 600.000,00 euros.
+ 1.500,00
+ 2. Autorización que afecte a zona de dominio público adyacente.
+ 50,00
+ 3. Autorización que afecte a zona de servidumbre.
+ 50,00
+ 4. Autorización que afecte a línea de edificación.
+ 50,00
+ 5. Otras autorizaciones.
+ 100,00
+ 6. Informe en que no se haya necesitado desplazamiento.
+ 45,00
+ 7. Informe en que se haya precisado desplazamiento.
+ 150,00
+5. Devolución. Cuando por causa no imputable al sujeto pasivo no pudiera ejecutarse la obra o uso autorizado, se procederá a la devolución el importe de la tasa.
+6. Exenciones. Quedan exentos de la tasa las plantaciones agrícolas y cultivos ornamentales que hayan de sujetarse a autorización.
+
+### Artículo 46
+
+Artículo 46. Tasa por la prestación de servicios de medición de distancias en la Red de Carreteras de la Comunidad Foral de Navarra.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación de los servicios de medición de distancias en la Red de Carreteras de la Comunidad Foral de Navarra.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la prestación de los servicios a que se refiere el apartado 1.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituya el hecho imponible.
+4. Tarifa. Se exigirá una tasa de 62,40 euros por la expedición del Certificado de distancias entre dos puntos de la Red de Carreteras de Navarra.
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+Por Certificado de distancias entre dos puntos de la Red de Carreteras de Navarra: 62,40 euros.
+
+## CAPÍTULO VI
+
+Tasas en materia de juego y espectáculos
+
+### Artículo 47
+
+Artículo 47. Tasas derivadas de la actividad del juego.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación de los servicios relativos a expedición de documentos, autorizaciones de instalación o explotación de juegos, licencias, permisos y demás prestaciones que se señalan en el apartado 4.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que sean receptores de los servicios que constituyen el hecho imponible.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituya el hecho imponible.
+4. Tarifas.
+Euros
+ TARIFA 1.
+ MÁQUINAS DE JUEGO Y APUESTAS.
+ 1. Autorización de instalación.
+ 187,76
+ 2. Alta de la Autorización de Explotación.
+ 65,72
+ 3. Transmisión de la titularidad.
+ 65,72
+ 4. Canje de la Autorización de Explotación.
+ 65,72
+ TARIFA 2.
+ RIFAS, TÓMBOLAS Y COMBINACIONES ALEATORIAS.
+ 1. Solicitud de autorización mayor cuantía.
+ 187,76
+ 2. Comunicación de celebración menor cuantía.
+ 56,33
+ TARIFA 3.
+ EMPRESAS DE JUEGO.
+ 1. Obtención título habilitante.
+ a. Empresas dedicadas a organización y explotación del juego del bingo.
+ 1.126,56
+ b. Empresas dedicadas a organización y explotación de las apuestas.
+ 1.126,56
+ c. Empresas dedicadas a organización y explotación de máquinas de juego.
+ 1.126,56
+ d. Empresas dedicadas a organización y explotación de cualquier clase de juego por los medios electrónicos, informáticos, telemáticos e interactivos.
+ 1.126,56
+ 2. Renovación del título habilitante.
+ 563,28
+ 3. Modificación del título habilitante.
+ 563,28
+ TARIFA 4.
+ EMPRESAS AUXILIARES DE JUEGO.
+ Inscripción en el Registro de Juegos y Apuestas de empresas auxiliares de juego.
+ 375,52
+ TARIFA 5.
+ PUBLICIDAD, PATROCINIO Y PROMOCIÓN.
+ Comunicación previa para la realización de actividades de publicidad, patrocinio o promoción del juego.
+ 187,76
+ TARIFA 6.
+ HOMOLOGACIÓN Y REGISTRO DE MATERIALES DE JUEGO.
+ 1. Homologación e inscripción de máquinas de juego y auxiliares de otras modalidades de juego.
+ 469,40
+ 2. Homologación e inscripción de sistemas de apuestas.
+ 751,04
+ 3. Homologación e inscripción de sistemas de control de acceso a locales de juego.
+ 563,28
+ 4. Homologación e inscripción de resto de elementos de juego.
+ 469,40
+ 5 Modificación sustancial de materiales de juego.
+ 375,52
+ 6. Modificación no sustancial de materiales de juego.
+ 281,64
+ TARIFA 7.
+ LOCALES DE JUEGO.
+ 1. Consulta previa de viabilidad.
+ 563,28
+ 2. Autorización de instalación y funcionamiento.
+ a. Salas de Bingo.
+ 938,80
+ b. Salones de Juego.
+ 938,80
+ c. Locales de apuestas deportivas.
+ 938,80
+ 3. Modificación de la autorización de instalación y funcionamiento.
+ 469,40
+ 4. Transmisión de la autorización de instalación y funcionamiento.
+ 375,52
+ TARIFA 8.
+ DOCUMENTOS PROFESIONALES.
+ Expedición de documentos profesionales.
+ 93,88
+ TARIFA 9.
+ OTROS TRÁMITES RELATIVOS AL JUEGO.
+ 1. Duplicados de Autorizaciones de explotación de máquinas de juego o apuestas y autorizaciones de instalación de máquinas de juego o apuestas.
+ 28,16
+ 2. Certificados o informes relativos a empresas, autorizaciones o máquinas de juego.
+ 28,16
+Se modifica el apartado 4 por el art. 7.6 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+
+### Artículo 48
+
+Artículo 48. Tasa de espectáculos públicos y actividades recreativas.
+1. Hecho imponible. Constituye el hecho imponible de esta tasa la prestación de los servicios relativos a la autorización de espectáculos públicos y actividades recreativas, expedición de documentos y demás prestaciones que se señalan en el apartado 4.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que sean receptoras de los servicios prestados que constituyen el hecho imponible.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituya el hecho imponible.
+4. Tarifas. La tasa se exigirá según las siguientes tarifas:
+Euros
+ 
+ Tarifa 1.
+ Autorización de corridas de toros, de rejones, mixtas y novilladas con picadores (por cada espectáculo).
+ 72,14
+ Tarifa 2.
+ Autorización de novilladas sin picadores (por cada espectáculo).
+ 42,44
+ Tarifa 3.
+ Otras autorizaciones de espectáculos taurinos (por cada espectáculo).
+ 27,58
+ Tarifa 4.
+ Autorizaciones de espectáculos públicos y actividades recreativas en espacios públicos (por cada espectáculo o actividad).
+ 72,14
+ Tarifa 5.
+ Inscripción en el registro de empresas de espectáculos públicos y actividades recreativas.
+ 72,14
+ Tarifa 6.
+ Inscripción en el registro de profesionales taurinos.
+ 20,15
+ Tarifa 7.
+ Convocatoria para la realización de las pruebas de aptitud necesarias para la obtención de la habilitación del personal de control de acceso a espectáculos públicos y actividades recreativas.
+ 15,60
+Se modifican las tarifas 1 a 6 y se añade la 7 en el apartado 4, con efectos a partir del 1 de enero de 2025, por el art. 8.6 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+
+## CAPÍTULO VII
+
+Tasas en materia de agricultura y medio ambiente
+
+### Artículo 49
+
+Artículo 49. Tasa por ocupación temporal de vías pecuarias.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la ocupación temporal por infraestructuras o instalaciones desmontables sobre las vías pecuarias, que serán autorizables siempre que no alteren el tránsito ganadero ni impidan los demás usos compatibles o complementarios con aquel.
+2. Sujetos pasivos. Son sujetos pasivos las personas físicas o jurídicas que soliciten ocupar temporalmente una vía pecuaria, de cualquier orden, cuya propiedad corresponda al Gobierno de Navarra.
+3. Devengo. La tasa se devengará en el momento en que se autorice por parte del órgano gestor la ocupación solicitada. En cualquier caso, el abono será previo a la resolución de autorización de la ocupación solicitada.
+4. Tarifas. La tasa de ocupación se calculará teniendo en cuenta el valor de pleno dominio del suelo (en adelante VPD).
+Este valor se obtiene mediante la toma de testigos de ventas de terrenos cercanos realizadas en los últimos cinco años. La tasa se calcula para un periodo de cuarenta años, con lo que el canon anual por ocupación se determinará como sigue:
+a) Afecciones en superficie: pasos en superficie, apoyo de postes, arquetas, registros etc.
+Tasa anual = (Superficie ocupada x VPD) /40 años.
+b) Afecciones enterradas: saneamientos, abastecimientos, gas, etc.
+Tasa anual = (Longitud x 3 x VPD x 0,9 + Longitud x 7 x VPD x 0,25) / 40 años.
+c) Afecciones aéreas: tendidos eléctricos, telefónicos etc.
+Tasa anual = (Longitud x 7 x VPD x 0,4) / 40 años.
+
+### Artículo 50
+
+Artículo 50. Tasa de expedición de material de información ambiental específica.
+1. Hecho imponible. Constituye el hecho imponible de esta tasa la expedición de información ambiental específica adaptada a la solicitud del interesado.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa quienes soliciten las actuaciones constitutivas del hecho imponible.
+3. Devengo. La tasa se devengará en el momento de la solicitud de suministro de la información ambiental, la cual no se tramitará hasta tanto no se haya acreditado el abono exigido.
+Cuando en el momento de la solicitud la cuantía exigible no pueda determinarse, se exigirá un depósito previo que tendrá carácter estimatorio a cuenta de la liquidación que se practique, sin perjuicio de la devolución del depósito constituido en los supuestos previstos en el apartado siguiente.
+4. Exenciones y bonificaciones.
+a) Estarán exentos del pago de la cuota correspondiente al suministro de información medioambiental, y para un único ejemplar de la información solicitada:
+1.º Las Administraciones Públicas según lo dispuesto en la Directiva 2003/98/CE, relativa a la reutilización de la información del sector público.
+2.º Los centros educativos y universidades que en su materia necesiten dicha información previa justificación de la necesidad de aquélla.
+b) Podrá aplicarse una bonificación del 50 por 100 de la cuota correspondiente al suministro de información medioambiental cuando sea solicitada en relación con trabajos o proyectos de investigación reconocidos por universidades u organismos oficiales.
+5. Tarifas.
+Euros
+ 
+ Tarifa 1.
+ Fotocopias en blanco y negro por cada fotocopia a partir de 10 unidades
+ 1. Fotocopia hoja DIN A4.
+ 0,06
+ 2. Fotocopia hoja DIN A3.
+ 0,12
+ Tarifa 2.
+ Fotocopias en color
+ 1. Formato DIN A-4.
+ 0,78
+ 2. Formato DIN A-3.
+ 1,56
+ Tarifa 3.
+ Mapas de elaboración específica para la solicitud
+ 1. Formato DIN-A4.
+ 3,12
+ 2. Formato DIN-A3.
+ 6,24
+ 3. Formato DIN-A2.
+ 12,48
+ 4. Formato DIN-A1.
+ 24,96
+ 5. Formato DIN-A0.
+ 49,92
+ Tarifa 4.
+ Grabación específica en CD-ROM a
+ 1. CD-ROM.
+ 2,08
+
+### Artículo 51
+
+Artículo 51. Tasa por la gestión técnico-facultativa de los servicios agronómicos.
+1. Hecho imponible. Constituye el hecho imponible de la tasa los trabajos y servicios que se refieran al fomento, defensa y mejora de la producción agrícola y que se especifican en el apartado 4.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que utilicen los servicios o trabajos señalados en el apartado 4.
+3. Devengo. La tasa se devengará en el momento de la prestación del servicio.
+Sin embargo, cuando el servicio o la actividad se presten a instancia del interesado, se exigirá en el momento de la solicitud.
+4. Tarifas. La tasa se exigirá de acuerdo con las siguientes tarifas.
+Euros
+ 
+ Tarifa 1.
+ Inscripción en Registros y expedición de carnés de usuarios profesionales de productos fitosanitarios:
+ 1. Por inscripción en los siguientes registros:
+ 
+ – Registro Oficial de Establecimientos y Servicios Plaguicidas.
+ – Registro Oficial de Productores y Operadores de Medios de Defensa Fitosanitaria (ROPO). Sectores, suministrador y de tratamientos.
+ – Registro de Operadores Profesionales de Vegetales (ROPVEG).
+ – Registro Oficial de Fabricantes de Productos Fertilizantes y Sustratos de Cultivo.
+ – Registro de entidades dedicadas a la explotación agrícola de lodos de depuradora.
+ 24,00
+ 2. Por renovación de la inscripción y/o cambio de la titularidad u otra modificación en los registros de:
+ 
+ – Registro Oficial de Establecimientos y Servicios Plaguicidas.
+ – Registro Oficial de Productores y Operadores de medios de defensa fitosanitaria (ROPO). Sectores, suministrador y de tratamientos.
+ – Registro de Operadores Profesionales de Vegetales(ROPVEG).
+ – Registro de entidades dedicadas a la explotación agrícola de lodos de depuradora.
+ 14,00
+ 3. Por inscripción en el sector de asesoramiento del Registro Oficial de Productores y Operadores de medios de defensa fitosanitaria (ROPO).
+ 12,00
+ 4. Por expedición, renovación y solicitud de duplicados de carnés de usuario de productos fitosanitarios e inscripción y renovación de la inscripción en el ROPO (sector de uso profesional).
+ 10,00
+ 5. Renovación de la inscripción en el Registro Oficial de Productores y Operadores de medios de defensa, Sector Asesoramiento.
+ 12,00
+ Tarifa 2.
+ Inscripción maquinaria y otros equipos de aplicación.
+ 1. Por inscripción en los registros de maquinaria agrícola y expedición de la cartilla de circulación para tractores, motores y otra maquinaria agrícola, importadas o de fabricación nacional, nuevas o reconstruidas.
+ 2 por 1.000 del precio según factura del vendedor partir de 1.803,00 euros.
+ 2. Por inscripción en registro de aeronaves e instalaciones permanentes de aplicación de productos fitosanitarios (REGANIP) de los equipos de aplicación para tratamientos aéreos y equipos aplicación en instalaciones permanentes.
+ 24,00
+ Tarifa 3.
+ Autorización empresas ensayos EOR.
+ 400,00
+5. Exención. Estarán exentos de estas tasas la Administración de la Comunidad Foral, los Entes Locales de Navarra, el Estado, los demás entes públicos territoriales y los organismos autónomos dependientes de ellos.
+Se modifica la tarifa 1.5 del apartado 4 por el art. 7.7 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+ Se modifica la tarifa 1 del apartado 4, con efectos a partir del 1 de enero de 2025, por el art. 8.7 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+ Se modifica el apartado 4, con efectos de 1 de enero de 2023, por el art. 12.8 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+
+### Artículo 52
+
+Artículo 52. Tasa por la ordenación de las industrias agrarias y alimentarias y explotaciones agrarias.
+1. Hecho imponible. Constituye el hecho imponible de la tasa los servicios, trabajos y estudios realizados por la Administración para ordenar las industrias agrícolas y pecuarias, bien de oficio o a instancia de los administrados, señalados en el apartado 4.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la prestación de los servicios, trabajos o estudios señalados en el apartado 4 o las que resulten afectadas por la misma, en el supuesto de actuaciones de oficio.
+3. Devengo. En los supuestos de las tarifas 5 y 7 del apartado 4, la tasa se devengará cuando la Administración comunique a los sujetos pasivos el acuerdo de practicar la inspección y será exigible en el momento de la prestación del servicio.
+En el resto de las tarifas, la tasa se devengará y se exigirá en el momento en que los sujetos pasivos presenten la petición que les interese.
+4. Tarifas. La tasa será exigida de acuerdo con las siguientes tarifas:
+Euros
+ 
+ Tarifa 1.
+ Instalación de nuevas industrias o ampliación de las existentes.
+ Valor de la instalación.
+ Hasta 30.050,00 euros.
+ 89,44
+ Por cada 6.010,00 euros que exceda hasta 450.760,00 euros.
+ 11,44
+ Por cada 6.010,00 euros o fracción restante.
+ 6,24
+ Tarifa 2.
+ Traslado de industrias.
+ Valor de la instalación.
+ Hasta 30.050,00 euros.
+ 67,60
+ Por cada 6.010,00 euros que exceda hasta 450.760,00 euros.
+ 8,32
+ Por cada 6.010,00 euros o fracción restante.
+ 3,12
+ Tarifa 3.
+ Sustitución de maquinaria.
+ Valor de la instalación.
+ Hasta 30.005,00 euros.
+ 22,88
+ Por cada 6.010,00 euros que exceda hasta 450.760,00 euros.
+ 2,60
+ Por cada 6.010,00 euros o fracción restante.
+ 1,56
+ Tarifa 4.
+ Cambio de propietario de la industria.
+ Valor de la instalación.
+ Hasta 30.050,00 euros.
+ 22,88
+ Por cada 6.010,00 euros que exceda hasta 450.760,00 euros.
+ 2,81
+ Por cada 6.010,00 euros o fracción restante.
+ 1,56
+ Tarifa 5.
+ Acta de puesta en marcha en industrias de temporada.
+ Valor de la instalación.
+ Hasta 30.050,00 euros.
+ 22,88
+ Por cada 6.010,00 euros que exceda hasta 450.760,00 euro.
+ 2,81
+ Por cada 6.010,00 euros o fracción restante.
+ 1,56
+ Tarifa 6.
+ Expedición de certificaciones relacionadas con industrias agrícolas, y pecuarias y Sociedades Agrarias de Transformación.
+ 12,48 por cada certificación
+ Tarifa 7.
+ Visitas de inspección a las industrias, excepto las de temporada.
+ Valor de la instalación.
+ Hasta 30.050,00 euros.
+ 33,80
+ Por cada 6.010,00 euros que exceda hasta 450.760,00 euros.
+ 4,37
+ Por cada 6.010,00 euros o fracción restante.
+ 2,18
+ Tarifa 8.
+ Concesión o renovación de documento de calificación empresarial.
+ 17,68
+ Tarifa 9.
+ Inscripción en el Registro de Sociedades Agrarias de Transformación.
+ 17,68
+ Tarifa 10.
+ Emisión de certificados de justificación de primera instalación.
+ 5,20
+ Tarifa 11.
+ Emisión de certificaciones relacionadas con explotaciones agrarias.
+ 12,48
+
+### Artículo 53
+
+Artículo 53. Tasa por la expedición de documentos sanitarios y aplicación de productos biológicos.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación por la Administración de los servicios facultativos definidos en el apartado 4.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas a las que se presten los servicios señalados en el apartado 4.
+3. Devengo. La tasa se devengará y se exigirá en el momento de la prestación del servicio. No obstante, para facilitar la gestión del cobro de las tasas, el Servicio encargado de su gestión podrá establecer un sistema agrupado de facturación que comprenda periodos semestrales o anuales.
+4. Tarifas. La tasa se exigirá de acuerdo con las siguientes tarifas:
+Euros
+ 
+ Tarifa 1.
+ Extensión de guías de origen y sanidad o documentación equivalente (se excluyen las guías Web). En el caso de certificados sanitarios de transporte internacional (TRACES) la tasa aplicable será el doble. La cuantía mínima por documento será de 1,20 euros y la cuantía máxima de 30,00 euros.
+ 1. Equinos, bovinos y ratites.
+ 1,20 por cabeza
+ 2. Ovinos, caprinos, cérvidos y otros pequeños rumiantes.
+ 0,12 por cabeza
+ 3. Porcinos.
+ 0,15 por cabeza
+ 4. Aves, conejos y liebres.
+ 0,006 por cabeza
+ 5. Huevos incubación y pollito 1 día.
+ 0,001 por huevo o pollito
+ 6. Colmenas.
+ 0,60 por unidad de colmena
+ 7. Peces.
+ 0,012 por kilogramo
+ 8. Otros animales no contemplados en los puntos anteriores.
+ 0,25 por 100 del valor estimado del animal
+ Tarifa 2.
+ Condiciones especiales en la expedición de documentos.
+ 1. Cuando, por las circunstancias que fuere, la expedición de los documentos señalados en la Tarifa 1 se realicen fuera de los días y horarios establecidos para la Administración de la Comunidad Foral.
+ El doble de las establecidas en la Tarifa 1
+ 2. Inspección previa a expedición traces para especies no ganaderas y otros productos ganaderos.
+ 25
+ Tarifa 3.
+ Por aplicación de productos biológicos en campañas obligatorias de profilaxis pecuaria y en los demás casos en que su aplicación venga exigida por la normativa vigente, serán por cabeza.
+ 1. Équidos y bóvidos.
+ 0,73
+ 2. Porcinos.
+ 2.1. Lechones.
+ 0,21
+ 2.2. De cebo.
+ 0,42
+ 2.3. Reproductores.
+ 0,52
+ 3. Ovinos y caprinos.
+ 3.1. De 1 a 20 cabezas.
+ 0,42
+ 3.2. De 20 a 100 cabezas.
+ Por las 20 primeras.
+ 7,28
+ El resto a.
+ 0,21
+ 3.3. De 100 en adelante.
+ Por las 100 primeras.
+ 23,92
+ El resto a.
+ 0,21
+ En todos los casos, a las Tarifas señaladas anteriormente se les sumará el importe de los impresos y productos aportados por la Administración.
+ Tarifa 4.
+ Por la toma de muestras y aplicación de productos para el diagnóstico de epizootias exigidas por la legislación vigente, se exigirá por cabeza.
+ 1. Équidos y bóvidos.
+ 5,00
+ Del animal 150 saneado en el día en adelante.
+ 3,00
+ 2. Ovinos y caprinos.
+ 0,50
+ Del animal 500 saneado en el día en adelante.
+ 0,30
+ 3. Porcinos.
+ 2,00
+ Del animal 150 saneado en el día en adelante.
+ 1,50
+ 4. Avestruces.
+ 5,00
+ Del animal 150 saneado en el día en adelante.
+ 3,00
+ 5. Otras aves y conejos.
+ 0,50
+ Del animal 500 saneado en el día en adelante.
+ 0,30
+ 6. Por desplazamiento, toma de muestra y análisis de la misma para cumplir con programa vigilancia de las encefalopatías espongiformes transmisibles de los animales (EET). Tasa por animal.
+ 25
+ 7. Toma de muestra y análisis de la calidad de la leche cruda.
+ 75,00
+ Tarifa 5.
+ Emisión de tarjeta equina, por animal.
+ 1. Emisión tarjeta equina de animales ubicados en Navarra.
+ 25
+ 2. Emisión tarjeta equina de animales ubicados fuera de Navarra.
+ 50
+ Tarifa 6.
+ Por la expedición de otros certificados o documentos que contengan datos sobre la explotación, censo o estado sanitario.
+ 7,28
+ Tarifa 7.
+ Registro de agentes que efectúan intercambios intracomunitarios de animales vivos y registro de vehículos que transportan animales vivos que precisan autorización.
+ 25,00
+ Tarifa 8.
+ Por actuación de veterinarios en espectáculos taurinos.
+ 1. Corridas de toros y novilladas con picadores, por veterinario.
+ 260,00
+ 2. Otros espectáculos taurinos, por veterinario.
+ 260,00
+ 3. Certámenes ganaderos, por veterinario.
+ 260,00
+ Tarifa 9.
+ Por expedición de documentos y unidades de identificación relacionados con la explotación ganadera y los animales.
+ 1. Por inscripción en el registro de explotaciones ganaderas.
+ 10,00
+ 2. Suprimida.
+ 3. Por cada unidad de identificación de bovinos (crotales)
+ 1,00
+ 4. Por cada crotal de bovino duplicado.
+ 2,00
+ 5. Por emisión de documento de identificación de bovino duplicado.
+ 7,00
+ 6. Por la realización de la identificación de ovino y caprino (crotal visual más crotal electrónico o bolo ruminal).
+ 3,00
+ 7. Por cada unidad de identificación de ovino, o caprino (bolo ruminal más crotal visual, o crotal electrónico más crotal visual).
+ 1,00
+ 8. Por cada bolo Ruminal, crotal electrónico o crotal visual, para ovino o caprino, duplicados.
+ 1,20
+ 9. Por cada unidad de identificación de équidos (microchip o crotal electrónico).
+ 1,00
+ 10. Duplicado o sustitutivo de pasaporte equino.
+ 20
+ 11. Por cada microchip o crotal electrónico de equino duplicado.
+ 2,00
+ Tarifa 10.
+ Tarifa derogada desde el 1 de enero de 2016.
+ Tarifa 11.
+ Por inscripción en el registro oficial de establecimientos.
+ 1. Establecimientos e intermediarios, alimentación animal.
+ 50,00
+ 2. Establecimientos de medicamentos veterinarios.
+ 50,00
+ 3. Centros de limpieza y desinfección de vehículos para el transporte de ganado por carretera.
+ 50,00
+ 4. Establecimientos, subproductos de origen animal no destinados a consumo humano.
+ 50,00
+ 5. Otras inscripciones oficiales de establecimientos.
+ 50,00
+ 6. (Derogada)
+5. Exenciones. Está exenta de tasa la prestación de los servicios facultativos veterinarios y el análisis de muestras remitidas al Laboratorio Pecuario cuando la actividad esté comprendida dentro del programa oficial de Saneamiento Ganadero o de planes de vigilancia de enfermedades epizoóticas o zoonóticas determinados por la Administración de la Comunidad Foral, siempre que se realicen en la explotación ganadera en las fechas propuestas por el Servicio correspondiente.
+No estarán exentos los entes locales de Navarra a los que se presten los servicios señalados en la Tarifa 8 del apartado 4.
+Se modifica la tarifa 9.3 y se deroga la 11.6 del apartado 4, con efectos a partir del 1 de enero de 2025, por el art. 8.8 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+
+### Artículo 54
+
+Artículo 54. Tasa por la prestación de servicios de análisis en el Laboratorio Agroalimentario.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación de los servicios a que se refiere el apartado 4, realizados por el Laboratorio Agroalimentario.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa aquellas personas físicas o jurídicas a las que, previa solicitud o de oficio, les sean prestados los servicios que constituyen el hecho imponible.
+3. Devengo. La tasa se devengará y se exigirá en el momento de la prestación del servicio. No obstante, para facilitar la gestión del cobro de las tasas, el Servicio encargado de su gestión podrá establecer un sistema de facturación que comprenda periodos agrupados de diversos meses.
+4. Tarifas. La tasa se exigirá según las siguientes tarifas:
+Euros
+ Tarifa 1.
+ Laboratorio de Biología Vegetal
+ 1. Germinación de hasta 400 semillas entre/sobre papel.
+ 10,00
+ 2. Germinación de hasta 400 semillas en otros sustratos.
+ 15,00
+ 3. Pureza maíz y girasol.
+ 8,00
+ 4. Pureza otras especies.
+ 5,00
+ 5. Número de semillas de otras especies.
+ 5,00
+ 6. Extracción e identificación morfológica de nematodos.
+ 30,00
+ 7. Aislamiento e identificación morfológica de hongos.
+ 30,00
+ 8. Aislamiento e identificación de bacterias por técnicas microbiológicas.
+ 40,00
+ 9. ELISA.
+ 18,00
+ 10. Suprimida.
+ 11. PCR.
+ 40,00
+ 12. Identificación morfológica de artrópodos y otras plagas y vectores.
+ 30,00
+Euros
+ Tarifa 2.
+ Laboratorio Pecuario
+ 1. ELISA.
+ 18,00
+ 2. Fijación de complemento.
+ 50,00
+ 3. Inmunodifusión en gel de agar.
+ 20,00
+ 4. Aglutinación Brucelosis Rosa de Bengala.
+ 4,00
+ 5. Aislamiento e identificación de Salmonella spp.
+ 30,00
+ 6. Serotipado de Salmonella spp.
+ 45,00
+ 7. Aislamiento e identificación de Mycobacterium spp.
+ 100,00
+ 8. Aislamiento e identificación/cuantificación de otras bacterias.
+ 50,00
+ 9. PCR.
+ 40,00
+ 10. Identificación morfológica/recuento de artrópodos.
+ 30,00
+En las Tarifas 1.9, 2.1, 2.2 y 2.9, se aplicarán los siguientes descuentos en función del número conjunto de análisis de la misma determinación analítica solicitados:
+a) Entre 11 y 25: 25 por 100.
+b) Entre 26 y 50: 50 por 100.
+c) Entre 51 y 100: 60 por 100.
+d) Entre 101 y 500: 70 por 100.
+e) Más de 500: 75 por 100.
+Tarifa 3
+ Laboratorio Enológico análisis simples
+ Euros
+ 1. 1-Butanol.
+ Cromatografía Gaseosa.
+ 7,14
+ 1 bis. 2-Butanol.
+ Cromatografía Gaseosa.
+ 7,14
+ 2. Propanol.
+ Cromatografía Gaseosa.
+ 7,14
+ 3. Acetaldehído.
+ Cromatografía Gaseosa.
+ 7,14
+ 4. Acetato de etilo.
+ Cromatografía Gaseosa.
+ 7,14
+ 5.
+ Suprimida.
+ 6. Acidez fija.
+ Cálculo.
+ 2,04
+ 7. Acidez total.
+ Volumetría –OIV – Potenciometría.
+ 2,35
+ 8. Acidez volátil.
+ Volumetría – OIV.
+ 2,35
+ 9. Ácido acético.
+ Espectrofotometría Ultravioleta -visible/enzimático.
+ 2,35
+ 10. Ácido ascórbico.
+ Espectrofotometría Ultravioleta -visible/enzimático.
+ 6,12
+ 11. Ácido benzoico.
+ Cromatografía Líquida de alta resolución.
+ 9,89
+ 12. Ácido cítrico.
+ Espectrofotometría Ultravioleta -visible/enzimático.
+ 6,12
+ 13. Ácido glucónico.
+ Espectrofotometría Ultravioleta -visible/enzimático.
+ 6,12
+ 14. Ácido láctico.
+ Espectrofotometría Ultravioleta -visible/enzimático.
+ 6,12
+ 15. Ácido málico.
+ Espectrofotometría Ultravioleta -visible/enzimático.
+ 5,10
+ 15 bis.
+ Suprimida.
+ 16. Ácido salicílico.
+ Cromatografía Líquida de alta resolución.
+ 9,89
+ 17. Ácido sórbico.
+ Cromatografía Líquida de alta resolución.
+ 9,89
+ 18. Ácido tartárico.
+ Espectrofotometría Ultravioleta -visible/enzimático.
+ 6,12
+ 19. Alcalinidad de cenizas.
+ Volumetría.
+ 2,94
+ 20. Anhídrido sulfuroso libre.
+ Espectrofotometría Ultravioleta - visible. Valoración.
+ 2,33
+ 21. Anhídrido sulfuroso total.
+ Espectrofotometría Ultravioleta - visible. Valoración.
+ 2,33
+ 22. Antocianos.
+ Espectrofotometría Ultravioleta - visible.
+ 3,06
+ 23.
+ Suprimida.
+ 24.
+ Suprimida.
+ 25. Azúcares Totales (G+F+SAC).
+ Espectrofotometría Ultravioleta visible/enzimático.
+ 2,33
+ 25 bis. Brettanomyces bruxellensis.
+ PCR Tiempo Real (1-4 muestras).
+ 61,20
+ PCR Tiempo Real (más de 4 muestras).
+ 45,90
+ 26.
+ Suprimida.
+ 27. Cadmio.
+ Espectrofotometría de absorción atómica-horno de grafito.
+ 24,48
+ 28. Calcio.
+ Espectrofotometría de absorción atómica-llama.
+ 11,22
+ 29. Caseína.
+ ELISA (1-3muestras).
+ 51,00
+ ELISA (4-10muestras).
+ 40,80
+ ELISA (más de 10 muestras).
+ 30,60
+ 30. Catequinas.
+ Espectrofotometría Ultravioleta - visible.
+ 3,06
+ 31. Cenizas.
+ Gravimetría.
+ 3,06
+ 32. Cloruros.
+ Potenciometría.
+ 2,55
+ 33. Cobre.
+ Espectrofotometría de absorción atómica-llama.
+ 11,22
+ 34. Colorantes sintéticos.
+ Extracción-Fijación.
+ 6,43
+ 35. Conductividad.
+ Conductimetría.
+ 2,33
+ 35 bis. Contenido calórico.
+ Cálculo.
+ Secos 7,94
+ Dulces 9,87
+ 36. Coordenada cielab a*.
+ Espectrofotometría Ultravioleta - visible.
+ 4,08
+ 37. Coordenada cielab b*.
+ Espectrofotometría Ultravioleta - visible.
+ 4,08
+ 38. Coordenada cielab l*.
+ Espectrofotometría Ultravioleta - visible.
+ 4,08
+ 39. Coordenada cielab c*.
+ Espectrofotometría Ultravioleta – visible.
+ 4,08
+ 40. Coordenada cielab h*.
+ Espectrofotometría Ultravioleta - visible.
+ 4,08
+ 41.
+ Suprimida.
+ 42. Defectos organolépticos.
+ Observación.
+ 2,35
+ 43. Densidad óptica 280nm.
+ Espectrofotometría Ultravioleta - visible.
+ 2,04
+ 44. Densidad óptica 420 nm.
+ Espectrofotometría Ultravioleta - visible.
+ 2,04
+ 45. Densidad óptica 520 nm.
+ Espectrofotometría Ultravioleta - visible.
+ 2,04
+ 46. Densidad óptica 620 nm.
+ Espectrofotometría Ultravioleta - visible.
+ 2,04
+ 47. Densidad relativa a 20 ºC.
+ Densimetría Electrónica.
+ 1,53
+ 48.
+ Suprimida.
+ 49. Estabilidad proteica.
+ Nefelometría.
+ 5,10
+ 50. Estabilidad tartárica.
+ Precipitación.
+ 5,10
+ 51. Etanol.
+ Cromatografía Gaseosa.
+ 7,14
+ 52. Extracto no reductor.
+ Calculo OIV.
+ 5,90
+ 53. Extracto reducido.
+ Calculo OIV.
+ 5,90
+ 54. Extracto seco total.
+ Cálculo o Evaporación.
+ 3,57
+ 55. Ferrocianuro en disolución.
+ Precipitación.
+ 6,43
+ 56. Ferrocianuro en suspensión.
+ Precipitación.
+ 6,43
+ 57. Fluoruros.
+ Electrodo Selectivos.
+ 2,89
+ 58. Glicerina.
+ Espectrofotometría Ultravioleta - visible/enzimático.
+ 6,12
+ 59. Glucosa + fructosa.
+ Espectrofotometría Ultravioleta - visible/enzimático.
+ 2,33
+ 60. Grado alcohólico en peso.
+ Destilación.
+ 3,98
+ 61. Grado alc. Volumétrico adquirido.
+ Espectrofotometría de infrarroja cercano.
+ 2,04
+ OIV-Densimetría Electrónica.
+ 3,98
+ 62. Grado alcohólico en potencia.
+ Calculo OIV.
+ 4,37
+ 63. Grado alcohólico total.
+ Calculo OIV.
+ 4,37
+ 64. Grado Beaume.
+ Calculo OIV.
+ 1,84
+ 65. Grado Birx (% sacarosa).
+ Calculo OIV.
+ 1,84
+ 66. Grado Probable.
+ Refractometría-OIV.
+ 1,84
+ 67. Hierro.
+ Espectrofotometría de absorción atómica-llama.
+ 11,22
+ 68. Histamina.
+ ELISA (1-3 muestras).
+ 40,80
+ ELISA (4-10 muestras).
+ 30,60
+ 69. Índice de colmatación.
+ Filtración membrana.
+ 6,43
+ 70. Índice de Folin – Ciocalteu.
+ Espectrofotometría Ultravioleta - visible.
+ 3,06
+ 71.
+ Suprimida.
+ 72.
+ Suprimida.
+ 73. Intensidad colorante.
+ Espectrofotometría Ultravioleta - visible.
+ 2,04
+ 74. Isoamílicos.
+ Cromatografía Gaseosa.
+ 7,14
+ 75. Isobutanol.
+ Cromatografía Gaseosa.
+ 7,14
+ 76. Limpidez.
+ Observación.
+ 2,30
+ 77. Lisozima.
+ ELISA (1-3 muestras).
+ 51,00
+ ELISA (4-10 muestras).
+ 40,80
+ ELISA (más de 10 muestras).
+ 30,60
+ 78. Nitrógeno amoniacal.
+ Espectrofotometría Ultravioleta - visible/enzimático.
+ 6,12
+ 79. Nitrógeno α-amínico.
+ Espectrofotometría Ultravioleta - visible/enzimático.
+ 6,12
+ 80. Nitrógeno fácilmente asimilable.
+ Espectrofotometría Ultravioleta - visible/enzimático.
+ 12,24
+ 81. Magnesio.
+ Espectrofotometría de absorción atómica-llama.
+ 11,22
+ 82. Masa volúmica a 20.º.
+ OIV-Densimetría Electrónica.
+ 1,53
+ Refractometría.
+ 1,84
+ 83. Metanol.
+ Cromatografía Gaseosa.
+ 7,14
+ 84. Ocratoxina.
+ ELISA (1-3 muestras).
+ 51,00
+ ELISA (4-10 muestras).
+ 40,80
+ ELISA (más de 10 muestras).
+ 30,60
+ 85. Ovoalbúmina.
+ ELISA (1-3 muestras).
+ 51,00
+ ELISA (4-10 muestras).
+ 40,80
+ ELISA (más de 10 muestras).
+ 30,60
+ 86. pH.
+ Potenciometría.
+ 2,33
+ 87. Plomo.
+ Espectrofotometría de absorción atómica-Horno de grafito.
+ 24,48
+ 88. Porcentaje de humedad.
+ Gravimetría.
+ 3,57
+ 89. Potasio.
+ Espectrofotometría de absorción atómica-llama.
+ 11,22
+ 90. Presencia de híbridos.
+ Espectrofotometría de Fluorescencia.
+ 5,36
+ 91. Recuento de bacterias acéticas.
+ Recuento en placa.
+ 12,24
+ 92. Recuento bacterias lácticas.
+ Recuento en placa.
+ 12,24
+ 93. Recuento de Brettanomyces.
+ Recuento en placa.
+ 12,24
+ 94. Recuento de levaduras.
+ Recuento en placa.
+ 12,24
+ 95. Recuento de microorganismos aerobios mesófilos.
+ Recuento en placa.
+ 12,24
+ 96. Recuento de mohos.
+ Recuento en placa.
+ 12,24
+ 97. Resto del extracto.
+ Cálculo.
+ 10,20
+ 98.
+ Suprimida.
+ 99. Sobrepresión.
+ Manometría.
+ 2,04
+ 100. Sodio.
+ Espectrofotometría de absorción atómica-llama.
+ 11,22
+ 101. Sulfatos.
+ Precipitación.
+ 5,61
+ 102. Tonalidad.
+ Espectrofotometría Ultravioleta - visible.
+ 2,04
+ 103. Turbidez.
+ Nefelometría.
+ 5,61
+ 104. Zinc.
+ Espectrofotometría de absorción atómica-llama.
+ 11,22
+ ACEITE
+ 105. K232.
+ Espectrofotometría Ultravioleta.
+ 7,14
+ 106. K270.
+ Espectrofotometría Ultravioleta.
+ 7,14
+ 107. DELTA K.
+ Espectrofotometría Ultravioleta.
+ 7,14
+ 108. Acidez.
+ Volumetría.
+ 7,14
+ 109. Índice de peróxidos.
+ Volumetría.
+ 7,14
+ 110. Humedad.
+ Gravimetría.
+ 7,14
+ 111. Impurezas insolubles.
+ Gravimetría.
+ 7,14
+ 112. Ácido mirístico.
+ Cromatografía Gaseosa.
+ 45,00
+ 113. Ácido palmítico.
+ Cromatografía Gaseosa.
+ 45,00
+ 114. Ácido palmitoleico.
+ Cromatografía Gaseosa.
+ 45,00
+ 115. Ácido margárico.
+ Cromatografía Gaseosa.
+ 45,00
+ 116. Ácido margaroleico.
+ Cromatografía Gaseosa.
+ 45,00
+ 117. Ácido esteárico.
+ Cromatografía Gaseosa.
+ 45,00
+ 118. Ácido oleico.
+ Cromatografía Gaseosa.
+ 45,00
+ 119. Ácido linoleico.
+ Cromatografía Gaseosa.
+ 45,00
+ 120. Ácido araquídico.
+ Cromatografía Gaseosa.
+ 45,00
+ 121. Ácido linolénico.
+ Cromatografía Gaseosa.
+ 45,00
+ 122. Ácido eicosenoico.
+ Cromatografía Gaseosa.
+ 45,00
+ 123. Ácido behénico.
+ Cromatografía Gaseosa.
+ 45,00
+ 124. Ácido lignocérico.
+ Cromatografía Gaseosa.
+ 45,00
+Tarifa 4
+ Laboratorio Enológico y del Aceite. Grupo de Analíticas
+ Euros
+ FINAL FERMENTACIÓN 1
+ 5,10
+ 1. Ácido acético.
+ Espectrofotometría Ultravioleta - visible/enzimático.
+ 2. Glucosa + fructosa.
+ FINAL FERMENTACIÓN 2
+ 6,63
+ 1. Ácido málico.
+ Espectrofotometría Ultravioleta – visible/enzimático.
+ 2. Glucosa + Fructosa.
+ 3. Ácido acético.
+ MERCADO INTRACOMUNITARIO O EXPORTACIÓN VINOS EMBOTELLADOS/GRANEL
+ Secos 16,32 Dulces 18,36
+ 1. Acidez volátil.
+ Volumetría.
+ 2. Anhídrido sulfuroso total.
+ Espectrofotometría Ultravioleta – visible.
+ 3. Glucosa + Fructosa.
+ Espectrofotometría Ultravioleta -visible/enzimático.
+ 4. Ácido cítrico.
+ 5. Grado alcohólico volumétrico adquirido.
+ Espectrofotometría de infrarroja cercano (secos).
+ OIV-Densimetría Electrónica (dulces).
+ 6. Acidez total.
+ Potenciometría.
+ 7. Metanol.
+ Cromatografía Gaseosa.
+ 8. Extracto seco total.
+ Cálculo o evaporación.
+ 9. Masa volúmica a 20.º.
+ Densimetría Electrónica.
+ 10. Defectos organolépticos y limpidez.
+ (solo para vinos a granel).
+ MERCADO INTRACOMUNITARIO O EXPORTACIÓN ESPIRITUOSOS
+ 5,10
+ 1. Grado alcohólico volumétrico.
+ Densimetría electrónica CEE número 2870/2000.
+ 2. Masa volúmica a 20.º.
+ 3. Grado Beaumé.
+ Cálculo.
+ COMPLETO
+ Secos 8,16 Dulces 9,18
+ 1. Grado Alcohólico volumétrico adquirido.
+ Espectrofotometría de infrarroja cercano (secos).
+ OIV-Densimetría Electrónica (dulces).
+ 2. Acidez volátil.
+ Espectrofotometría Ultravioleta – visible.
+ 3. Glucosa + fructosa.
+ 4. Acidez total.
+ Potenciometría.
+ 5. pH.
+ 6. Anhídrido sulfuroso total.
+ Espectrofotometría Ultravioleta.
+ 7. Anhídrido sulfuroso libre.
+ GRUPO EVALUACIÓN REFRACTOMÉTRICA EN MOSTOS SUPRIMIDO
+ ALCOHOLES SUPERIORES
+ 8,16
+ 1. 1-Butanol.
+ Cromatografía Gaseosa.
+ 2. 2-Butanol.
+ 3. 1-Propanol.
+ 4. Acetaldehído.
+ 5. Acetato de etilo.
+ 6. Metanol.
+ 7. Isoamílicos.
+ 8. Isobutanol.
+ GRUPO COLOR
+ 6,12
+ 1. Densidad óptica 420 nm.
+ Espectrofotometría Ultravioleta – visible.
+ 2. Densidad óptica 520 nm.
+ 3. Densidad óptica 620 nm.
+ 4. Intensidad colorante.
+ 5. Densidad óptico 280 nm.
+ GRUPO PARÁMETROS CIELAB. SUPRIMIDO
+ GRUPO MICROBIOLOGÍA
+ 30,60
+ 1. Recuento bacterias lácticas.
+ Recuento en placa.
+ 2. Recuento bacterias acéticas.
+ 3. Recuento levaduras.
+ 4. Recuento mohos.
+ PERFIL ACIDOS GRASOS ACEITE
+ 45,00
+ 1. Ácido mirístico.
+ Cromatografía Gaseosa.
+ 2. Ácido palmítico.
+ 3. Ácido palmitoleico.
+ 4. Ácido margárico.
+ 5. Ácido margaroleico.
+ 6. Ácido esteárico.
+ 7. Ácido oleico.
+ 8. Ácido linoleico.
+ 9. Ácido araquídico.
+ 10. Ácido linolénico.
+ 11. Ácido eicosenoico.
+ 12. Ácido behénico.
+ 13. Ácido lignocérico.
+Cuando se realice un grupo de analíticas, pero sea necesaria la realización de algún ensayo individual por otra técnica diferente a la ofertada en el grupo, se sumará el coste individual de dicha técnica al importe del grupo.
+TARIFA 5
+ LABORATORIO AGROALIMENTARIO CONCEPTOS ADMINISTRATIVOS
+ Euros
+ 
+ 
+ 
+ 
+ 1. Copias y originales a partir del primer informe de ensayo
+ 2,00
+ 2. Certificados e informes
+ 6,00
+TARIFA 6
+ Panel de cata de aceite de oliva virgen de Navarra
+ Euros
+ 
+ 
+ 
+ 
+ Análisis organoléptico para la certificación de aceites de oliva
+ 105
+5. Exención. No se exigirá la tasa por gestión técnica o facultativa de los servicios de laboratorio de Biología Vegetal cuando exista una plaga declarada oficialmente.
+Se modifican las tarifas 1 a 4 del apartado 4, con efectos a partir del 1 de enero de 2025, por el art. 8.9 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+ Se modifica la tarifa 3 y se añade la 6 en el apartado 4, con efectos de 1 de enero de 2023, por el art. 12.9 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+ Se modifica el apartado 4 por el art. 8.7 de la Ley Foral 19/2021, de 29 de diciembre de 2021. Ref. BOE-A-2022-2067
+
+### Artículo 55
+
+Artículo 55. Tasa por la expedición de certificados de exclusión de parcelas de procesos de concentración parcelaria.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación por la Administración de la Comunidad Foral y sus Organismos Autónomos del servicio administrativo consistente en la expedición de certificados de exclusión de parcelas de procesos de concentración parcelaria.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten el servicio relacionado en el apartado 1.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituye el hecho imponible.
+4. Tarifas. La tarifa será de 10,00 euros por certificado.
+
+### Artículo 56
+
+Artículo 56. Tasas por servicios de los Consejos Reguladores de las Denominaciones de Origen, Específicas o de Indicaciones Geográficas Protegidas.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación, por los Consejos Reguladores de las Denominaciones de Origen, Específicas o de Indicaciones Geográficas Protegidas, de los siguientes servicios:
+1.º Inscripciones en los diferentes Registros de los Consejos Reguladores.
+2.º Certificaciones y otras actuaciones, tales como controles de vendimia y de elaboración de vino y aforo de existencias y actividades complementarias de los productos amparados por la Denominación de Origen, Denominación Específica o Indicación Geográfica Protegida y, la elaboración de vino por bodegas integradas en la Denominación de Origen Navarra a partir de uvas producidas en parcelas inscritas en el Registro de Viñedo de la citada denominación y/o no inscritas que estando enclavadas en el territorio de la Comunidad Foral de Navarra estén constituidas con variedades autorizadas por el Gobierno de la Comunidad de Navarra y no incluidas entre las autorizadas por la Denominación de Origen «Navarra», sea cual fuere su destino final.
+3.º Expedición de certificados de origen, volantes de circulación, visado de facturas, venta de precintas, etiquetas, contraetiquetas, brazaletes, envases, operaciones de sellado o marcaje.
+2. Sujetos pasivos. Son sujetos pasivos las personas y entidades que soliciten o a cuyo favor se presten los servicios que constituyen el hecho imponible.
+En todo caso, serán responsables de las deudas tributarias los titulares de las explotaciones, industrias, plantaciones, bodegas, granjas, mataderos, salas de despiece o almacenes que se encuentren inscritos en los correspondientes Registros de los Consejos Reguladores.
+3. Devengo y gestión. La tasa se devengará cuando se solicite o inicie la prestación de los servicios que constituyen el hecho imponible. No obstante, podrá exigirse el previo pago de la misma, mediante autoliquidación del sujeto pasivo, para hacer efectiva la prestación del servicio correspondiente.
+La tasa por inscripción se devengará con periodicidad anual. La liquidación inicial se devengará en el momento de la inscripción y se exigirá por la cuantía correspondiente a una anualidad completa, cualquiera que sea la fecha de inscripción.
+4. Tarifas. La tasa se exigirá según las siguientes tarifas:
+Tarifa 1. Sobre las plantaciones inscritas cuya producción agroalimentaria se destine a la elaboración de productos protegidos por la correspondiente Denominación de Origen, Denominación Específica o Indicación Geográfica Protegida.
+a) La base imponible de la Tasa será el valor resultante del producto de hectáreas inscritas a nombre de cada interesado por el valor medio de la producción de una hectárea en la zona en las últimas cinco campañas.
+En el caso de productos vínicos, amparados por figuras de calidad ubicadas íntegramente en la Comunidad Foral de Navarra la base imponible de la Tasa será el valor resultante del producto de hectáreas inscritas a nombre de cada interesado por el valor de la producción máxima por hectárea admitida en el pliego de condiciones de la figura de calidad.
+b) El tipo máximo de gravamen aplicable será del 1 por 100.
+Tarifa 2. Sobre la leche de oveja entregada en las queserías inscritas, destinada a la elaboración de quesos protegidos por Denominación de Origen.
+a) La base imponible de la tasa será el valor resultante del volumen de leche entregado por el precio medio de la misma en la campaña anterior.
+b) El tipo máximo de gravamen aplicable será del 1 por 100.
+Tarifa 3. Sobre los animales que se destinen a la elaboración de productos protegidos por la correspondiente Indicación Geográfica Protegida.
+a) La base imponible de la tasa será el valor resultante de multiplicar el número de animales a nombre de cada interesado, protegido por la Indicación Geográfica, por el valor medio de la producción del animal que corresponda, durante la campaña precedente.
+b) El tipo máximo de gravamen aplicable será del 1 por 100.
+Tarifa 4. Sobre los productos amparados en general.
+a) La base imponible de la tasa será el valor resultante de multiplicar el precio medio de la unidad de producto amparado por la cantidad o el volumen vendido.
+b) El tipo máximo de gravamen aplicable será del 1,5 por 100.
+Tarifa 5. Por derechos de expedición de certificados de origen, volantes de circulación, visados de facturas y otros documentos análogos.
+a) La base imponible de la tasa será la correspondiente al valor documentado.
+b) La cuantía exigible por cada certificado, volante de circulación, visado de facturas o cualquier otro documento análogo será de 3,12 euros.
+Tarifa 6. Por la venta y expedición de etiquetas, contraetiquetas, precintas, placas, brazaletes y envases, así como por las operaciones de sellado y marcaje.
+a) La base imponible de la tasa será la correspondiente al valor documentado.
+b) La cuantía exigible será la correspondiente al doble de su precio de coste.
+Tarifa 7. Sobre el vino elaborado por bodegas inscritas en la Denominación de Origen de Navarra a partir de uvas producidas en parcelas inscritas en el Registro de Viñedo de la Denominación de Origen de Navarra y/o no inscritas que, estando enclavadas en el territorio de la Comunidad Foral, estén constituidas con variedades autorizadas por el Gobierno de Navarra y no incluidas entre las autorizadas por la Denominación de Origen «Navarra».
+a) La base imponible de la tasa será el valor resultante de multiplicar el precio medio de la unidad de producto no amparado por la cantidad o volumen elaborado.
+b) El tipo máximo de gravamen aplicable será del 1,5 por 100.
+c) En el caso de que el vino sea comercializado dentro de la Denominación, se deducirá esta tasa de la Tarifa 4.
+5. Afectación. Los recursos generados por los ingresos de las tasas reguladas en el presente artículo se destinarán a financiar, en la parte que corresponde, los Consejos Reguladores de las Denominaciones de Origen o Específicas, así como de las Indicaciones Geográficas Protegidas establecidos en la Comunidad Foral de Navarra.
+
+### Artículo 57
+
+Artículo 57. Tasa por emisión de certificados fitosanitarios para exportación.
+1. Hecho imponible. Constituye el hecho imponible de la tasa, la expedición de certificados fitosanitarios para exportación.
+2. Sujetos Pasivos. Serán sujetos pasivos de la tasa las personas físicas o jurídicas, de carácter privado, que soliciten la expedición del certificado fitosanitario para exportación.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud del servicio que constituya el hecho imponible.
+4. Tarifa. La tasa se exigirá de acuerdo con las siguientes tarifas:
+Euros
+ TARIFA 1.
+ Por emisión de informe fitosanitario.
+ 44,62
+ TARIFA 2.
+ Por inspección fitosanitaria con desplazamiento.
+ 262,91
+ TARIFA 3.
+ Por inspección fitosanitaria con desplazamiento y toma de muestra.
+ 325,31
+Se modifican las tarifas 1 a 3 del apartado 4 por el art. 7.8 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+ Se modifican las tarifas 2 y 3 del apartado 4, con efectos a partir del 1 de enero de 2025, por el art. 8.10 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+
+### Artículo 58
+
+Artículo 58. Tasa por la concesión de la etiqueta ecológica de la Unión Europea.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la concesión de la etiqueta ecológica de la Unión Europea.
+2. Sujeto Pasivo. Son sujetos pasivos de la tasa quienes soliciten la concesión de la etiqueta ecológica de la Unión Europea.
+3. Devengo. La tasa se devengará y exigirá en el momento en que se presente la solicitud de uso de la etiqueta ecológica de la Unión Europea.
+4. Tarifas. La tarifa, con carácter general, será de 400,00 euros.
+No obstante, la tarifa será de 200,00 euros en el caso de pequeñas y medianas empresas (pymes) y microempresas (según la definición de la Recomendación 2003/361/CE de la Comisión) y operadores en los países en desarrollo.
+Esta tarifa no incluye ningún elemento relativo al coste de las pruebas o verificaciones a las que deben someterse los productos o servicios objeto de la solicitud. Estos costes serán satisfechos por los solicitantes a las entidades debidamente acreditadas para llevar a cabo estas pruebas.
+5. Bonificaciones. La tasa de solicitud se reducirá en un 30 por 100 para los solicitantes registrados en el Sistema Comunitario de Gestión y Auditoría Medioambientales (EMAS) o en un 15 por 100 con certificación conforme a la norma ISO 14001. Las reducciones no son acumulativas. Cuando se satisfagan ambos sistemas, solo se aplicará la reducción más elevada.
+La reducción estará sujeta a la condición de que el solicitante se comprometa expresamente a garantizar que sus productos con etiquetado ecológico cumplen plenamente los criterios pertinentes de la etiqueta ecológica de la UE durante el período de validez del contrato y que este compromiso se incorpore de forma adecuada en su política medioambiental y en objetivos ambientales detallados.
+
+### Artículo 59
+
+Artículo 59. Tasa por la emisión de traslados de aforo.
+(Derogado)
+Se deroga, con efectos a partir del 1 de enero de 2025, por el art. 8.11 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+
+### Artículo 60
+
+Artículo 60. Tasas del régimen de autorización ambiental integrada.
+1. Hecho imponible. Constituye el hecho imponible de la tasa, la tramitación de los diferentes procedimientos administrativos relativos al régimen de autorización ambiental integrada, iniciados bien a instancia de los titulares o promotores de las instalaciones, bien de oficio por el Departamento competente en materia medioambiental.
+2. Sujeto Pasivo. Son sujetos pasivos de la tasa los titulares o promotores de las instalaciones a cuya instancia se inicie la tramitación de los diferentes procedimientos administrativos, o resulten afectados, en el supuesto de actuaciones de oficio.
+3. Devengo. La tasa se devengará y exigirá en el momento en que el titular o promotor de una instalación presente la solicitud de inicio del correspondiente procedimiento administrativo, que no se tramitará sin que se haya efectuado el pago correspondiente.
+En el supuesto de actuaciones de oficio, la tasa se devengará cuando el Departamento competente en materia medioambiental, comunique a los titulares o promotores el acuerdo de llevar a cabo dicha actuación, y será exigible al emitir la resolución que ponga fin al procedimiento, sin perjuicio de la posibilidad de exigir un depósito previo.
+4. Tarifas. La tasa general será exigida según las siguientes tarifas básicas a las que, en el caso de algunos procedimientos concretos, deben sumarse determinados suplementos acumulativos, expresados como porcentaje de la tarifa básica correspondiente, en función de circunstancias que elevan el grado de complejidad de la tramitación:
+Tarifas básicas
+ Código
+ Denominación del procedimiento
+ Euros
+ ST
+ 
+ TB-AAI-01
+ Concesión de autorización ambiental integrada de nueva instalación.
+ 2.319,55
+ sí
+ TB-AAI-02
+ Modificación de autorización ambiental integrada por modificación sustancial de una instalación.
+ 1.687,05
+ sí
+ TB-AAI-03
+ Modificación de autorización ambiental integrada por modificación significativa de una instalación.
+ 934,95
+ sí
+ TB-AAI-04
+ Modificación de autorización ambiental integrada para el cierre total o parcial de una instalación.
+ 1.176,45
+ sí
+ TB-AAI-05
+ Modificación de autorización ambiental integrada por cambios de funcionamiento.
+ 330,05
+ sí
+ TB-AAI-06
+ Revisión de autorización ambiental integrada para adaptarse a las mejores técnicas disponibles.
+ 1.445,55
+ no
+ TB-AAI-07
+ Actualización o revisión de la autorización ambiental integrada.
+ 1.115,50
+ sí
+ TB-AAI-08
+ Dictamen sobre modificación de instalación.
+ 140,88
+ no
+ TB-AAI-09
+ Ampliación de plazo para inicio de la ejecución de un proyecto.
+ 123,05
+ no
+ TB-AAI-10
+ Caducidad de autorización ambiental integrada.
+ 330,05
+ no
+ TB-AAI-11
+ Extinción de autorización ambiental integrada.
+ 632,50
+ sí
+ TB-AAI-12
+ Declaración responsable de puesta en marcha de un proyecto.
+ 185,15
+ no
+ TB-AAI-13
+ Comunicación del cambio de titularidad de la instalación.
+ 58,08
+ no
+Código
+ Suplementos
+ 
+ ST-AAI-01
+ Instalaciones incluidas en otras categorías distintas a 9.3 del Anejo I de la Ley IPPC.
+ + 25%
+ ST-AAI-02
+ Instalaciones sometidas a Autorización en suelo no urbanizable.
+ + 10%
+ ST-AAI-03
+ Proyectos sometidos a Evaluación de impacto ambiental ordinaria con DIA.
+ + 15%
+ ST-AAI-04
+ Proyectos sometidos a Evaluación de impacto ambiental simplificada.
+ + 5%
+ ST-AAI-05
+ Instalaciones que deban disponer de Autorización de vertido con informe del organismo de cuenca.
+ + 10%
+Los suplementos se aplicarán, exclusivamente, a las tarifas básicas señaladas en la columna ST.
+5. Bonificaciones.
+a) Por sistema de gestión medioambiental:
+Las tasas se reducirán en un 15 por 100 para los sujetos pasivos cuyas instalaciones se encuentren inscritas en el Registro de centros adheridos al Sistema Comunitario de Gestión y Auditoría Medioambientales (EMAS) en la Comunidad Foral de Navarra, salvo en el supuesto da haber sido declarada la suspensión de la inscripción.
+Asimismo, las tasas se reducirán en un 10 por 100 para los sujetos pasivos cuyas instalaciones cuenten con certificación conforme a la Norma ISO 14001.
+Las dos bonificaciones anteriores son excluyentes entre sí, aplicándose en su caso la más elevada.
+b) Por tamaño de la empresa titular de la instalación:
+En función del tamaño de las empresas titulares de las instalaciones, las tasas se reducirán según los porcentajes detallados en la siguiente tabla:
+Bonificación de tasas por tamaño de empresa
+ Microempresa
+ Pequeña Empresa
+ Mediana empresa
+ 
+ 40 %
+ 25 %
+ 15 %
+Se exceptúan de la anterior bonificación, las instalaciones encuadradas en la categoría 5.5 del Anejo 1 de la Ley 16/2002, de 1 de julio, de Prevención y Control Integrados de la Contaminación.
+Para beneficiarse de cualquiera de las bonificaciones anteriores, el sujeto pasivo deberá presentar una declaración responsable de cumplimiento de los requisitos establecidos para poder acogerse a las bonificaciones que corresponda.
+6. Exenciones. Se encuentran exentos de estas tasas la Administración de la Comunidad Foral los Entes Locales de Navarra, el Estado, los demás entes públicos territoriales y los organismos autónomos dependientes de ellos.
+
+### Artículo 61
+
+Artículo 61. Tasas del régimen de gestión de residuos de estiércoles.
+1. Hecho imponible. Constituye el hecho imponible de la tasa, la tramitación de los diferentes procedimientos administrativos relativos al régimen de gestión de estiércoles, iniciados bien a instancia de los titulares o promotores de las instalaciones ganaderas productoras de residuos de estiércoles, bien de oficio por el Departamento competente en materia medioambiental.
+2. Sujeto Pasivo. Son sujetos pasivos de la tasa los titulares o promotores de las instalaciones a cuya instancia se inicie la tramitación de los diferentes procedimientos administrativos, o resulten afectados, en el supuesto de actuaciones de oficio.
+3. Devengo. La tasa se devengará y exigirá en el momento en que el titular o promotor de una instalación presente la solicitud de inicio del correspondiente procedimiento administrativo, que no se tramitará sin que se haya efectuado el pago correspondiente.
+En el supuesto de actuaciones de oficio, la tasa se devengará cuando el Departamento competente en materia medioambiental, comunique a los titulares o promotores el acuerdo de llevar a cabo dicha actuación, y será exigible al emitir la resolución que ponga fin al procedimiento, sin perjuicio de la posibilidad de exigir un depósito previo.
+4. Tarifas. La tasa general será exigida según las siguientes tarifas:
+Tarifas generales
+ Código
+ Denominación del procedimiento
+ Euros
+ 
+ TG-PGE-01
+ Aprobación de un nuevo Plan de Producción y Gestión de Estiércoles.
+ 305,04
+ TG-PGE-02
+ Actualización de un Plan de Producción y Gestión de Estiércoles en vigor.
+ 160,14
+ TG-PGE-03
+ Concesión de autorización para la gestión de estiércoles, incluyendo la aprobación de un Plan de Producción y Gestión de Estiércoles.
+ 557,75
+En el caso particular de que el Plan de producción y gestión de estiércoles no contemple la inclusión de un Plan territorial y un Plan de reparto de los estiércoles producidos, las tarifas generales se reducirán en un 50 por 100 en razón al menor grado de complejidad de la tramitación.
+5. Bonificaciones.
+a) Por sistema de gestión medioambiental:
+Las tasas se reducirán en un 15 por 100 para los sujetos pasivos cuyas instalaciones se encuentren inscritas en el Registro de centros adheridos al Sistema Comunitario de Gestión y Auditoría Medioambientales (EMAS) en la Comunidad Foral de Navarra, salvo en el supuesto da haber sido declarada la suspensión de la inscripción.
+Asimismo, las tasas se reducirán en un 10 por 100 para los sujetos pasivos cuyas instalaciones cuenten con certificación conforme a la Norma ISO 14001.
+Las dos bonificaciones anteriores son excluyentes entre sí, aplicándose en su caso la más elevada.
+b) Por tamaño de la empresa titular de la instalación.
+En función del tamaño de las empresas titulares de las instalaciones, las tasas se reducirán según los porcentajes detallados en la siguiente tabla:
+Bonificación de tasas por tamaño de empresa
+ Microempresa
+ Pequeña Empresa
+ Mediana empresa
+ 
+ 40 %
+ 25 %
+ 15 %
+Para beneficiarse de cualquiera de las bonificaciones anteriores, el sujeto pasivo deberá presentar una declaración responsable de cumplimiento de los requisitos establecidos para poder acogerse a las bonificaciones que corresponda.
+6. Exenciones. Se encuentran exentos de estas tasas la Administración de la Comunidad Foral, los Entes Locales de Navarra, el Estado, los demás entes públicos territoriales y los organismos autónomos dependientes de ellos.
+Asimismo, se encuentra exenta de las tasas TB-PGE-01 y TB-PGE-02, la aprobación de un nuevo Plan de Producción y Gestión de Estiércoles en el marco de la tramitación de expedientes de concesión, modificación significativa, revisión o actualización de autorización ambiental integrada.
+
+## CAPÍTULO VIII
+
+Tasa en materia de industria
+
+### Artículo 62
+
+Artículo 62. Tasas por servicios en materia de industria y minas.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación de oficio, o a instancia de parte, de servicios en materia de seguridad industrial y minas a que se refiere el apartado 4.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que sean receptoras de los servicios que constituyen el hecho imponible.
+3. Devengo. La tasa se devengará en el momento de la prestación del servicio. No obstante, el pago podrá exigirse en el momento en que se formule la solicitud o se inicie el expediente.
+4. Tarifas. La tasa se exigirá de acuerdo con las siguientes tarifas:
+a) Autorizaciones.
+1.º Autorización administrativa en materia de seguridad industrial y minas: 100,00 euros.
+2.º Autorización administrativa en materia de seguridad industrial y declaración en concreto de utilidad pública: 150,00 euros.
+3.º Autorización de cambio de titularidad de actividades, instalaciones y derechos mineros: 30,00 euros.
+4.º Permisos de exploración, investigación y concesiones mineras: 1.500,00 euros.
+b) Certificación. Emisión de certificados y acreditaciones por órganos administrativos: 30,00 euros.
+d) Otras.
+1.º Derechos de examen en materia de seguridad industrial: 15,00 euros.
+2.º Expedición y renovación de carnés profesionales: 15,00 euros.
+3.º Inicio de expediente de expropiación: 90,00 euros.
+4.º Acta de ocupación: 50,00 euros.
+5.º Inspección para la puesta en práctica de patentes y modelos de utilidad: 90,00 euros.
+6.º Catalogación de vehículos históricos: 30,00 euros.
+
+## CAPÍTULO IX
+
+Tasas en materia de economía y hacienda
+
+### Artículo 63
+
+Artículo 63. Tasa por expedición de documentación, información o certificación de datos del Registro Fiscal de la Riqueza Territorial de Navarra.
+1. Hecho imponible. Constituye el hecho imponible la expedición por el Servicio de Riqueza Territorial del Departamento competente en materia tributaria, a instancia de parte, de certificaciones o cualesquiera otros documentos o información en la que figuren datos que consten en sus archivos o en el Registro Fiscal de la Riqueza Territorial de Navarra, relativos a bienes situados en territorio navarro, así como la expedición de certificaciones que acrediten la inexistencia de tales datos.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la correspondiente información.
+3. Devengo. La tasa se devengará en el momento de la entrega del documento o información solicitada por el sujeto pasivo, sin perjuicio de la posibilidad de exigir su depósito previo.
+4. Tarifas. La tasa se exigirá, para los distintos formatos, conforme a las siguientes tablas:
+a) Información suministrada en papel:
+Productos
+ Euros
+ 
+ A. Impresos normalizados y documentos informativos
+ 1
+ Cédula parcelaria.
+ 1,20
+ 2
+ Listado de bienes por titular (por hoja).
+ 1,20
+ 3
+ Hoja de valoración catastral.
+ 1,20
+ 4
+ Hoja de datos de caracterización.
+ 1,20
+ 5
+ Hoja de valoración conforme al Decreto Foral 334/2001, de 26 de noviembre.
+ 1,20
+ 6
+ Hoja de titularidad de unidad inmobiliaria.
+ 1,20
+ 7
+ Datos del Registro de la Riqueza Territorial (por hoja).
+ 1,00
+ 8
+ Expedición de certificados que comprendan copia o reproducción de información sobre los datos del Registro de la Riqueza Territorial.
+ 5,00 más 1,00 por hoja
+ 9
+ Cédula parcelaria certificada.
+ 6,20
+ B. Fotocopias de documentos del Registro de la Riqueza Territorial
+ 1
+ Catastro provincial.
+ 3,00 más 0,10 por hoja
+ 2
+ Documentación de expedientes de implantación o mantenimiento.
+ 3,00 más 0,10 por hoja
+ 3
+ Vuelo histórico (por hoja).
+ 2,40
+ 4
+ Ponencia de Valoración.
+ 3,00 más 0,10 por hoja
+ C. Copias de documentación digital del Registro de la Riqueza Territorial
+ 1
+ Croquis (por hoja).
+ 1,20
+ 2
+ Fotografía construcción (por hoja).
+ 1,20
+ 3
+ Ventana gráfica parcelario, con o sin ortofoto.
+ 1,20
+b) Información suministrada en soporte informático:
+Productos
+ Formato
+ Euros
+ 
+ A. Impresos normalizados
+ 1
+ Cédula parcelaria.
+ PDF
+ 1,10
+ 2
+ Listado de bienes por titular (por hoja).
+ PDF
+ 1,10
+ 3
+ Hoja de titularidad de unidad inmobiliaria.
+ PDF
+ 1,10
+ 4
+ Hoja de datos de unidad inmobiliaria.
+ PDF
+ 1,10
+ B. Otros Documentos Informatizados
+ 1
+ Fotografía construcción.
+ JPG
+ 1,10
+ 2
+ Ventana gráfica parcelario, con o sin ortofoto.
+ JPG
+ 1,10
+ C. Cartografía y Fotografía
+ 1
+ Plano parcelario (a escala 1/500, 1/1.000, 1/5.000 o 1/10.000) o plano resumen, con inclusión de ortofoto, según disponibilidad.
+ DWG/DGN y orto en PDF
+ 12,00
+ 2
+ Plano de masas de cultivo escaneado, baja resolución.
+ JPG
+ 3,00
+ 3
+ Plano de masas de cultivo escaneado, alta resolución.
+ JPG
+ 6,00
+ 4
+ Contacto vuelo histórico.
+ JPG
+ 3,00
+ 5
+ Ortofoto implantación.
+ JPG
+ 3,00
+ D. Extracciones masivas de datos
+ 1
+ Fichero estándar de dato del Registro de la Riqueza Territorial (por polígonos completos).
+ ASCII
+ 40,00 más 1,00 por cada 1.000 registros
+5. Exenciones.
+a) Gozarán de exención de la tasa la Administración de la Comunidad Foral de Navarra y sus organismos autónomos.
+b) Asimismo, estarán exentos de la tasa, previa petición expresa en la que deberán acreditar la concurrencia de las circunstancias determinantes de la exención, los siguientes sujetos:
+1.º Los entes locales de Navarra y sus organismos autónomos respecto de todos los productos referidos a su ámbito territorial o funcional que se proporcionen en soporte informático conforme a los formatos disponibles en la Hacienda Foral de Navarra, siempre que no hubieran recibido previamente idéntica información, y exclusivamente para el ejercicio de sus funciones públicas.
+2.º La Administración General del Estado y demás entes públicos territoriales, así como los organismos autónomos dependientes de los mismos, cuando actúen en interés propio y directo para el ejercicio de sus competencias.
+3.º Los registradores de la propiedad respecto de las actuaciones de coordinación descritas en la Ley Foral del Registro de la Riqueza Territorial y de los Catastros de fincas registrales con Unidades inmobiliarias obrantes en el Registro de la Riqueza Territorial.
+c) Estará exenta de la tasa la información descargada directamente por los interesados a través de Internet.
+
+### Artículo 64
+
+Artículo 64. Tasa por la venta de impresos, programas y aplicaciones informáticas.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la venta de impresos, programas y aplicaciones informáticas.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas a las que se faciliten los impresos, programas y aplicaciones informáticas.
+3. Devengo. La tasa se devengará en el momento en que se faciliten los referidos impresos, programas y aplicaciones informáticas.
+4. Tarifa. Corresponderá al departamento competente en materia tributaria, atendiendo al coste del servicio, determinar el importe que se ha de percibir por cada uno de los impresos, programas o aplicaciones informáticas que se faciliten.
+
+### Artículo 65
+
+Artículo 65. Tasa por la inscripción en el Registro de mediadores de seguros y corredores de reaseguros y por expedición de certificados.
+1. Hecho imponible. Constituye el hecho imponible de la tasa las inscripciones y expedición de certificados que se relacionan a continuación:
+a) La inscripción en el Registro administrativo especial de mediadores de seguros, corredores de reaseguros y de sus altos cargos, de las personas que ejerzan como agentes de seguros u operadores de banca-seguros, ya sean exclusivos o vinculados, como corredores de seguros o como corredores de reaseguros.
+b) La inscripción de los cargos de administración y de dirección responsables de las actividades de mediación de seguros o reaseguros de las personas jurídicas inscritas como mediadores de seguros o corredores de reaseguros.
+c) La inscripción de los actos relacionados con los anteriores, siempre que deban ser inscritos de acuerdo con lo exigido en normas sobre mediación de seguros y de reaseguros privados.
+d) La expedición de certificados relativa a la información incluida en el Registro a que se refiere la letra a).
+2. Sujetos pasivos. Serán sujetos pasivos de la tasa las personas físicas o jurídicas a cuyo favor se practique la inscripción en el Registro administrativo especial de mediadores de seguros, corredores de reaseguros y de sus altos cargos y las personas físicas o jurídicas solicitantes de un certificado de dicho registro.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituya el hecho imponible.
+4. Tarifa.
+a) La tasa se exigirá de acuerdo con las siguientes tarifas:
+1.º Por la inscripción de un agente de seguros exclusivo, persona física, una cuota fija de 10,40 euros.
+2.º Por la inscripción de un agente de seguros vinculado, de un corredor de seguros o de reaseguros, personas físicas, una cuota fija de 62,40 euros.
+3.º Por la inscripción de una sociedad de agencia de seguros o de un operador de banca-seguros, ya sean exclusivos o vinculados, de una sociedad de correduría de seguros o de reaseguros, una cuota fija de 145,60 euros.
+4.º Por la inscripción de cargos de administración y de dirección responsables de las actividades de mediación de seguros o de reaseguros de las sociedades de agencia de seguros o de los operadores de banca-seguros, ya sean exclusivos o vinculados, de correduría de seguros o de correduría de reaseguros, una cuota fija de 10,40 euros por cada alto cargo.
+5.º Por la inscripción de cualquier otro acto inscribible o por la modificación de los inscritos, una cuota fija de 10,40 euros por cada uno de ellos.
+6.º Por la expedición de certificados relativos a la información incluida en el mencionado registro, una cuota fija de 10,40 euros.
+b) La tasa no será exigible en los supuestos de inscripciones relativas a la cancelación de la inscripción.
+
+### Artículo 66
+
+Artículo 66. Tasa por la copia o reproducción de declaraciones tributarias o de su contenido.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la expedición en papel, por parte del Departamento competente en materia tributaria, a instancia de parte, de copias o reproducciones de declaraciones tributarias o de su contenido.
+2. Sujeto pasivo. Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la correspondiente copia o reproducción.
+3. Devengo. La tasa se devengará en el momento en que se solicite por el sujeto pasivo la copia o reproducción.
+4. Tarifas. La tarifa será de 0,10 euros por cada página impresa.
+
+### Artículo 67
+
+Artículo 67. Tasa por expedición de certificados específicos de carácter tributario.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la expedición en papel, por parte del departamento competente en materia tributaria a instancia de parte, de certificados específicos de carácter tributario.
+2. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten el correspondiente certificado.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas a cuyo nombre se expida el correspondiente certificado
+3. Devengo. La tasa se devengará en el momento en que se solicite por el sujeto pasivo el certificado.
+4. Tarifas. La tarifa será de:
+a) Con carácter general 2,00 euros por cada certificado emitido en soporte papel.
+b) Para las certificaciones cuya expedición en papel no pueda efectuarse inmediatamente por no ajustarse a ninguno de los modelos de emisión automática, requiriendo una preparación previa, la tarifa será de 5,00 euros
+
+## CAPÍTULO X
+
+Tasa en materia de vivienda y construcción
+
+### Artículo 68
+
+Artículo 68. Tasa por redacción de proyectos, tasación de proyectos y valoraciones de obras.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación de trabajos facultativos de redacción y tasación de proyectos de obras, servicios e instalaciones de entidades, empresas o particulares, y la valoración de las obras de costo superior a los 4.810,00 euros.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa los peticionarios de los servicios que constituyen el hecho imponible.
+3. Devengo.
+a) La tasa se devengará en el momento de la prestación del servicio.
+b) En el caso de petición de redacción de proyectos será exigible desde el momento en que el interesado acepte el presupuesto formulado por el Departamento competente en la materia.
+c) En el resto de casos, desde que el Departamento admita la prestación facultativa.
+4. Tarifa. La tasa se calculará aplicando a la base imponible, que estará constituida por el importe del presupuesto total de ejecución material del proyecto y, en el caso de tasación, por el valor de la citada tasación, un tipo del 4 por 100.
+
+### Artículo 69
+
+Artículo 69. Tasa por la dirección y tasación de obras.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación del trabajo facultativo de dirección, tasación y peritación de obras.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa los peticionarios de los servicios que constituyen el hecho imponible.
+3. Devengo. La tasa se devengará en el momento de la expedición de cada certificación y será exigible mediante retención.
+4. Tarifa. La tasa se calculará aplicando a la base imponible, que estará constituida por el importe del presupuesto total de ejecución material del proyecto, un tipo del 2,2 por 100.
+
+### Artículo 70
+
+Artículo 70. Tasa por informes, certificados y demás actuaciones facultativas.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la elaboración de informes, expedición de certificados, conformación de proyectos y demás actuaciones facultativas que no conlleven valoración y que deban realizarse en las tramitaciones instadas por entidades, empresas o particulares ante el Departamento competente en la materia.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas a las que afecte la prestación del servicio que constituye el hecho imponible.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud de prestación del servicio que constituya el hecho imponible.
+4. Tarifas.
+a) Con carácter general, 93,60 euros.
+b) Las visitas adicionales o aisladas por solicitud expresa, 10,92 euros.
+
+### Artículo 71
+
+Artículo 71. Tasa por expedición de copias de planos de viviendas y de documentos de ordenación territorial y urbanística.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación del servicio de realización y entrega de copias de planos de viviendas y de documentos de ordenación territorial y urbanística.
+2. Sujetos pasivos. Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la copia.
+3. Devengo. La tasa se devengará en el momento en que se presente la solicitud la prestación del servicio que constituya el hecho imponible.
+4. Tarifa. La tasa se exigirá según la siguiente tarifa:
+Copias de planos de viviendas y de documentos de ordenación territorial y urbanística. Papel opaco
+ Euros
+ 
+ Metro lineal.
+ 4,94
+ DIN A0.
+ 5,20
+ DIN A1.
+ 2,60
+ DIN A2.
+ 1,30
+ DIN A3.
+ 0,42
+5. Exención. Estarán exentas de esta tasa las copias solicitadas en procedimiento judicial, siempre y cuando el solicitante sea litigante con beneficio de justicia gratuita.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+A la entrada en vigor de esta ley foral quedan derogadas cuantas disposiciones legales y reglamentarias se opongan a la misma, y en particular:
+a) La Ley Foral 7/2001, de 27 de marzo, de Tasas y Precios Públicos de la Administración de la Comunidad Foral de Navarra y de sus Organismos Autónomos.
+
+### Disposición final primera
+
+Disposición final primera. Entrada en vigor.
+La presente ley foral entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Navarra» y será aplicable a las tasas y precios públicos cuyo devengo o nacimiento de la obligación de pago, respectivamente, sean posteriores a la indicada fecha.
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo reglamentario.
+Se autoriza al Gobierno de Navarra a dictar las disposiciones necesarias para el desarrollo y ejecución de la presente ley foral.
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S. M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 11 de febrero de 2021.–La Presidenta de la Comunidad Foral de Navarra, María Chivite Navascués.

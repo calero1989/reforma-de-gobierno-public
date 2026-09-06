@@ -1,0 +1,781 @@
+# Ley Orgánica 13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen Foral de Navarra.
+
+- Identificador BOE: `BOE-A-1982-20824`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 204, de 26 de agosto de 1982. Ref. BOE-A-1982-21575.
+
+## Preámbulo
+
+DON JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+PREÁMBULO
+Navarra se incorporó al proceso histórico de formación de la unidad nacional española manteniendo su condición de Reino, con la que vivió, junto con otros pueblos, la gran empresa de España.
+Avanzado el siglo XIX, Navarra perdió la condición de Reino, pero la Ley de 25 de octubre de 1839 confirmó sus fueros, sin perjuicio de la unidad constitucional, disponiendo que, con la participación de Navarra, se introdujera en ellos la modificación indispensable que reclamara el interés de la misma, conciliándolo con el general de la Nacional y de la Constitución de la Monarquía.
+A tal fin, se iniciaron negociaciones entre el Gobierno de la Nación y la Diputación de Navarra y, en el acuerdo que definitivamente se alcanzó, tuvo su origen la Ley Paccionada de 16 de agosto de 1841, aprobada por las Cortes de la Monarquía española.
+Al amparo de las citadas Leyes, que traían causa de sus derechos originarios e históricos, Navarra conservó su régimen foral y lo ha venido desarrollando progresivamente, conviniendo con la Administración del Estado la adecuación de facultades y competencias cuando fue preciso, acordando fórmulas de colaboración que se consideraron convenientes y atendiendo siempre las necesidades de la sociedad.
+En justa consideración a tales antecedentes, la Constitución, que afirma principios democráticos, pluralistas y autonómicos, tiene presente la existencia del régimen foral y, consecuentemente, en el párrafo 1.º de su disposición adicional primera, ampara y respeta los derechos históricos de Navarra y, en el apartado 2 de su disposición derogatoria, mantiene la vigencia en dicho territorio de la Ley de 25 de octubre de 1839. De ahí, que, recién entrada en vigor la Constitución, se promulgará, previo acuerdo con la Diputación Foral, el Real Decreto de 26 de enero de 1979, con el que se inició el proceso de reintegración y amejoramiento del Régimen Foral de Navarra.
+Es, pues, rango propio del Régimen Foral navarro, amparado por la Constitución que, previamente a la decisión de las Cortes Generales, órgano del Estado en el que se encarna la soberanía indivisible del pueblo español, la representación de la Administración del Estado y la de la Diputación Foral de Navarra acuerden la reforma y modernización de dicho Régimen. Dada la naturaleza y alcance del amejoramiento acordado entre ambas representaciones, resulta constitucionalmente necesario que el Gobierno, en el ejercicio de su iniciativa legislativa, formalice el pacto con rango y carácter de proyecto de Ley Orgánica y lo remita a las Cortes Generales para que éstas procedan, en su caso, a su incorporación al ordenamiento jurídico español como tal Ley Orgánica.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo primero
+
+Artículo 1.
+Navarra constituye una Comunidad Foral con régimen, autonomía e instituciones propias, indivisible integrada en la Nación española y solidaria con todos sus pueblos.
+
+### Artículo segundo
+
+Artículo 2.
+Uno. Los derechos originarios e históricos de la Comunidad Foral de Navarra serán respetados y amparados por los poderes públicos con arreglo a la Ley de veinticinco de octubre de mil ochocientos treinta y nueve, a la Ley Paccionada de dieciséis de agosto de mil ochocientos cuarenta y uno y disposiciones complementarias, a la presente Ley Orgánica y a la Constitución, de conformidad con lo previsto en el párrafo primero de su disposición adicional primera.
+Dos. Lo dispuesto en el apartado anterior no afectará a las Instituciones, facultades y competencias del Estado inherentes a la unidad constitucional.
+
+### Artículo tercero
+
+Artículo 3.
+De acuerdo con la naturaleza del Régimen Foral de Navarra, su Amejoramiento, en los términos de la presente Ley Orgánica, tiene por objeto:
+Uno. Integrar en el Régimen Foral de Navarra todas aquellas facultades y competencias compatibles con la unidad constitucional.
+Dos. Ordenar democráticamente las instituciones Forales de Navarra.
+Tres. Garantizar todas aquellas facultades y competencias propias del Régimen Foral de Navarra.
+
+### Artículo cuarto
+
+Artículo 4.
+El territorio de la Comunidad Foral de Navarra está integrado por el de los municipios comprendidos en sus Merindades históricas de Pamplona, Estella, Tudela, Sangüesa y Olite, en el momento de promulgarse esta Ley.
+
+### Artículo quinto
+
+Artículo 5.
+Uno. A los efectos de la presente Ley Orgánica, ostentarán la condición política de navarros los españoles que, de acuerdo con las leyes generales del Estado, tengan la vecindad administrativa en cualquiera de los municipios de Navarra.
+Dos. Los españoles residentes en el extranjero, que hayan tenido en Navarra su última vecindad administrativa, tendrán idénticos derechos políticos que los residentes en Navarra. Gozarán, asimismo, de estos derechos sus descendientes inscritos como españoles que lo soliciten en la forma que determine la legislación del Estado.
+Tres. La adquisición, conservación, pérdida y recuperación de la condición civil foral de navarro se regirá por lo establecido en la Compilación del Derecho Civil Foral o Fuero nuevo de Navarra.
+
+### Artículo sexto
+
+Artículo 6.
+Los navarros tendrán los mismos derechos, libertades y deberes fundamentales que los demás españoles.
+
+### Artículo séptimo
+
+Artículo 7.
+Uno. El escudo de Navarra está formado por cadenas de oro sobre fondo rojo, con una esmeralda en el centro de unión de sus ocho brazos de eslabones y, sobre ellas, la Corona Real, símbolo del Antiguo Reino de Navarra.
+Dos. La bandera de Navarra es de color rojo, con el escudo en el centro.
+
+### Artículo octavo
+
+Artículo 8.
+La capital de Navarra es la ciudad de Pamplona.
+
+### Artículo noveno
+
+Artículo 9.
+Uno. El castellano es la lengua oficial de Navarra.
+Dos. El vascuence tendrá también carácter de lengua oficial en las zonas vascoparlantes de Navarra.
+Una ley foral determinará dichas zonas, regulará el uso oficial del vascuence y, en el marco de la legislación general del Estado, ordenará la enseñanza de esta lengua.
+
+## TÍTULO I
+
+De las Instituciones Forales de Navarra
+
+## CAPÍTULO I
+
+De las Instituciones
+
+### Artículo diez
+
+Artículo 10.
+Las Instituciones forales de Navarra son:
+a) El Parlamento o Cortes de Navarra.
+b) El Gobierno de Navarra o Diputación Foral.
+c) El Presidente de la Comunidad Foral de Navarra.
+Se modifica la letra c) por el art. único.1 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+## CAPÍTULO II
+
+Del Parlamento o Cortes de Navarra
+
+### Artículo once
+
+Artículo 11.
+El Parlamento representa al pueblo navarro, ejerce la potestad legislativa, aprueba los Presupuestos y las Cuentas de Navarra, impulsa y controla la acción de la Diputación Foral y desempeña las demás funciones que le atribuye el ordenamiento jurídico.
+
+### Artículo doce
+
+Artículo 12.
+Compete al Parlamento la designación de los Senadores que pudieran corresponder a Navarra como Comunidad Foral.
+
+### Artículo trece
+
+Artículo 13.
+Uno. El Parlamento de Navarra es inviolable.
+Dos. Los parlamentarios Forales gozarán, aun después de haber cesado en su mandato, de inviolabilidad por las opiniones manifestadas en actos parlamentarios y por los votos emitidos en el ejercicio de su cargo.
+
+### Artículo catorce
+
+Artículo 14.
+Uno. Los parlamentarios forales no podrán ser retenidos ni detenidos durante el período de su mandato por los actos delictivos cometidos en el ámbito territorial de Navarra, sino en caso de flagrante delito, correspondiendo decidir en todo caso sobre su inculpación, prisión, procesamiento y juicio al Tribunal Superior de Justicia de Navarra.
+Dos. Fuera del ámbito territorial de Navarra, la responsabilidad penal será exigible, en los mismos términos ante la correspondiente Sala del Tribunal Supremo.
+
+### Artículo quince
+
+Artículo 15.
+Uno. El Parlamento será elegido por sufragio universal libre, igual, directo y secreto, por un período de cuatro años.
+Dos. El número de miembros del Parlamento no será inferior a cuarenta ni superior a sesenta.
+Una ley foral fijará el número concreto de parlamentarios y regulará su elección, atendiendo a criterios de representación proporcional, así como los supuestos de su inelegibilidad e incompatibilidad, todo ello de conformidad con la legislación general electoral.
+
+### Artículo dieciséis
+
+Artículo 16.
+Uno. El Parlamento establecerá su Reglamento y aprobará sus Presupuestos.
+Dos. La aprobación del Reglamento y su reforma precisará el voto favorable de la mayoría absoluta de los miembros del Parlamento en una votación final sobre el conjunto del proyecto.
+
+### Artículo diecisiete
+
+Artículo 17.
+1. El Parlamento funcionará en Pleno y en Comisiones y elegirá, de entre sus miembros, un Presidente, una Mesa y una Comisión Permanente.
+2. El Parlamento se reunirá anualmente en dos períodos de sesiones ordinarias, que serán fijados en su Reglamento.
+3. También podrá reunirse en sesiones extraordinarias que habrán de ser convocadas por su Presidente, con especificación en todo caso del orden del día, a petición de la Comisión Permanente, de una quinta parte de los parlamentarios, o del número de grupos parlamentarios que el Reglamento determine, así como a petición de la Diputación Foral.
+4. El Reglamento de la Cámara regulará la elección, composición, atribuciones y funcionamiento de los órganos enunciados en el apartado primero.
+Se modifica el apartado 2 por el art. único.2 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Artículo dieciocho
+
+Artículo 18.
+Corresponde a la Diputación la elaboración de los Presupuestos Generales de Navarra y la formalización de las Cuentas para su presentación al Parlamento, a fin de que por éste sean debatidos, enmendados y, en su caso, aprobados, todo ello conforme a lo que determinen las leyes forales. Igualmente la Diputación dará cuenta de su actividad económica al Parlamento de Navarra, para el control de la misma.
+Se modifica por el art. único.3 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Artículo dieciocho bis
+
+Artículo 18 bis.
+1. En virtud de su régimen foral, la Cámara de Comptos es el órgano fiscalizador externo de la gestión económica y financiera del sector público de la Comunidad Foral de Navarra, de los entes locales y del resto del sector público de Navarra.
+2. La Cámara de Comptos depende orgánicamente del Parlamento de Navarra y ejerce sus funciones de acuerdo con su Ley Foral reguladora.
+Previamente al conocimiento y aprobación por el Parlamento de las Cuentas de la Comunidad Foral y del sector público dependiente de la misma, la Cámara de Comptos efectuará su examen y censura emitiendo dictamen para el Parlamento de Navarra.
+Igualmente informará sobre las Cuentas y la gestión económica de las Corporaciones Locales de Navarra y del sector público dependiente de las mismas conforme a lo establecido en su Ley Foral reguladora y en la Ley Foral sobre Administración Local.
+3. Sin perjuicio de lo dispuesto en los apartados anteriores, la Cámara de Comptos remitirá sus actuaciones al Tribunal de Cuentas. El dictamen del Tribunal de Cuentas será enviado con su respectivo expediente al Parlamento de Navarra para que éste, en su caso, adopte las medidas que procedan.
+4. Corresponderá al Tribunal de Cuentas el enjuiciamiento de la responsabilidad contable en que pudieran incurrir quienes en Navarra tengan a su cargo el manejo de caudales o efectos públicos y, por acción u omisión contraria a la ley, originen menoscabo de los mismos.
+Si, en el ejercicio de su función fiscalizadora, la Cámara de Comptos advirtiera la existencia de indicios de responsabilidad contable dará traslado de las correspondientes actuaciones al Tribunal de Cuentas.
+Se añade por el art. único.4 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Artículo dieciocho ter
+
+Artículo 18 ter.
+1. Como órgano dependiente del Parlamento de Navarra actuará el Defensor del Pueblo de Navarra, al que, sin perjuicio de la competencia del Defensor del Pueblo designado por las Cortes Generales, corresponderá la función de defensa y protección de los derechos y libertades amparados por la Constitución y la presente Ley Orgánica, en el ámbito competencial de la Comunidad Foral, a cuyo efecto podrá supervisar la actividad de las Administraciones Públicas de Navarra, debiendo dar cuenta de sus actuaciones al Parlamento.
+2. Por ley foral se regulará la elección, atribuciones, régimen jurídico y funcionamiento del Defensor del Pueblo de Navarra.
+Se añade por el art. único.5 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Artículo diecinueve
+
+Artículo 19.
+Uno. La iniciativa legislativa corresponde:
+a) A la Diputación Foral mediante la presentación de proyectos de ley al Parlamento.
+b) A los parlamentarios forales en la forma que determine el Reglamento de la Cámara.
+c) A los Ayuntamientos que representen un tercio del número de municipios de la respectiva Merindad, y un cincuenta por ciento de la población de derecho de la misma. El ejercicio de esta iniciativa se regulará por ley foral.
+Dos. Una ley foral establecerá la iniciativa legislativa popular, de acuerdo con lo que disponga la correspondiente Ley Orgánica.
+Tres. En las materias que deban ser objeto de las leyes forales a las que se refiere el artículo veinte, dos, la iniciativa legislativa corresponde, con carácter exclusivo, a la Diputación Foral y a los parlamentarios.
+
+### Artículo veinte
+
+Artículo 20.
+Uno. Las normas del Parlamento de Navarra se denominarán leyes forales y se aprobarán por mayoría simple.
+Dos. Requerirán mayoría absoluta para su aprobación, en una votación final sobre el conjunto del proyecto, las leyes forales expresamente citadas en la presente Ley Orgánica y aquellas otras que sobre organización administrativa y territorial determine el Reglamento de la Cámara.
+
+### Artículo veintiuno
+
+Artículo 21.
+Uno. El Parlamento podrá delegar en la Diputación Foral el ejercicio de la potestad legislativa. No procederá tal delegación en los supuestos en que, a tenor del artículo anterior, se exija mayoría absoluta para la aprobación de las leyes forales.
+Dos. Las leyes de delegación fijarán las bases que han de observarse por la Diputación en el ejercicio de la potestad legislativa delegada. La ley foral podrá también autorizar a la Diputación para refundir textos legales determinando el alcance y criterios a seguir en la refundición.
+Tres. La delegación legislativa habrá de otorgarse a la Diputación de forma expresa, para materia concreta y con fijación del plazo para su ejercicio.
+
+### Artículo veintiuno bis
+
+Artículo 21 bis.
+1. En caso de extraordinaria y urgente necesidad el Gobierno de Navarra podrá dictar disposiciones legislativas provisionales bajo la forma de Decretos-leyes Forales. No pueden ser objeto de Decreto-ley Foral el desarrollo directo de los derechos, deberes y libertades de los navarros y de las instituciones de la Comunidad Foral regulados en la presente Ley Orgánica, la reforma de la misma ni de las leyes forales dictadas en su desarrollo a las que se hace mención expresa en ella, el régimen electoral ni los Presupuestos Generales de Navarra.
+2. Los Decretos-leyes Forales quedarán derogados si en el plazo improrrogable de los treinta días siguientes a su promulgación no fuesen convalidados expresamente por el Parlamento de Navarra después de un debate y una votación de totalidad.
+Durante el plazo establecido en este apartado, el Parlamento podrá acordar la tramitación de los Decretos-leyes Forales como proyectos de ley foral por el procedimiento de urgencia.
+Se añade por el art. único.6 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435
+
+### Artículo veintidós
+
+Artículo 22.
+Las leyes forales serán promulgadas, en nombre del Rey, por el Presidente de la Diputación Foral, quien dispondrá su publicación en el «Boletín Oficial de Navarra» en el término de quince días desde su aprobación por el Parlamento y en el «Boletín Oficial del Estado». A efectos de su entrada en vigor, regirá la fecha de su publicación en el «Boletín Oficial de Navarra».
+
+## CAPÍTULO III
+
+Del Gobierno de Navarra o Diputación Foral
+
+### Artículo veintitrés
+
+Artículo 23.
+1. Al Gobierno de Navarra o Diputación Foral le corresponde:
+a) La función ejecutiva, comprendiendo la reglamentaria y la administrativa.
+b) La facultad revisora en materia administrativa o económico-administrativa, previa a la judicial.
+c) Las competencias que le atribuye esta Ley Orgánica y las que puedan corresponderle con arreglo a otras leyes.
+2. Adoptarán la forma de Decreto Foral del Presidente las disposiciones generales dictadas por el Presidente de la Comunidad Foral de Navarra, la de Decreto Foral las dictadas por el Gobierno de Navarra y la de Órdenes Forales las dictadas por los Consejeros del mismo.
+Se modifica el apartado 2 por el art. único. 7 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Artículo veinticuatro
+
+Artículo 24.
+La Diputación velará especialmente por la defensa de la integridad del régimen foral de Navarra, debiendo dar cuenta al Parlamento de cualquier contrafuero que pudiera producirse.
+
+### Artículo veinticinco
+
+Artículo 25.
+Una ley foral regulará la composición, atribuciones, régimen jurídico y funcionamiento de la Diputación, así como el estatuto de sus miembros.
+
+### Artículo veintiséis
+
+Artículo 26.
+La Diputación Foral precisará de la previa autorización del Parlamento para:
+a) Emitir Deuda Pública, constituir avales y garantías y contraer crédito.
+b) Formalizar Convenios con el Estado y con las Comunidades Autónomas cuando supongan modificación o derogación de alguna ley foral o exijan medidas legislativas para su ejecución.
+c) Ejercitar la iniciativa a que se refiere el artículo treinta y nueve, dos, de la presente Ley Orgánica.
+Se modifica la letra b) por el art. único.8 de la Ley Orgánica 7/2010 de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Artículo veintisiete
+
+Artículo 27.
+La responsabilidad criminal del Presidente y de los demás miembros de la Diputación Foral será exigible, en su caso, ante la correspondiente Sala del Tribunal Supremo.
+
+### Artículo veintiocho
+
+Artículo 28.
+Uno. La Diputación Foral cesará tras la celebración de elecciones al Parlamento, cuando éste le niegue su confianza o apruebe una moción de censura, o por dimisión o fallecimiento de su Presidente.
+Dos. La Diputación cesante continuará en funciones hasta la toma de posesión de la nueva Diputación.
+
+### Artículo veintiocho bis
+
+Artículo 28 bis.
+1. Bajo la dirección del Gobierno de Navarra, la Administración de la Comunidad Foral de Navarra sirve con objetividad a los intereses generales, con sometimiento pleno a la Constitución, a la presente Ley Orgánica y al resto del ordenamiento jurídico.
+2. La Administración de la Comunidad Foral de Navarra ostenta la condición de Administración ordinaria en el ejercicio de sus competencias y ajusta su actividad, entre otros, a los principios de eficacia, eficiencia, racionalización, transparencia, buena administración y servicio efectivo a los ciudadanos.
+3. La Administración de la Comunidad Foral de Navarra gozará, en el ejercicio de sus competencias, de las potestades y prerrogativas que el ordenamiento jurídico reconoce a la Administración General del Estado.
+Se añade por el art. único.9 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435
+
+### Artículo veintiocho ter
+
+Artículo 28 ter.
+1. El Consejo de Navarra es el órgano consultivo superior de la Comunidad Foral de Navarra, ejerciendo sus funciones con autonomía orgánica y funcional, en garantía de su objetividad e independencia.
+2. Por ley foral se regulará la composición, elección, atribuciones, régimen jurídico y funcionamiento del Consejo de Navarra.
+Se añade por el art. único.10 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435
+
+## CAPÍTULO IV
+
+Del Presidente de la Comunidad Foral de Navarra
+Se modifica por el art. único.11 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Artículo veintinueve
+
+Artículo 29.
+1. El Presidente de la Comunidad Foral de Navarra será elegido por el Parlamento, de entre sus miembros, y nombrado por el Rey.
+2. El Presidente del Parlamento, previa consulta con los portavoces designados por los partidos o grupos políticos con representación parlamentaria, propondrá un candidato a Presidente de la Comunidad Foral de Navarra.
+3. El candidato presentará su programa al Parlamento. Para ser elegido, el candidato deberá, en primera votación, obtener mayoría absoluta. De no obtenerla, se procederá a una segunda votación veinticuatro horas después de la anterior, y la confianza se entenderá otorgada al candidato si obtuviera mayoría simple en esta segunda votación.
+Caso de no conseguirse esta mayoría, el candidato quedará rechazado y se tramitarán las sucesivas propuestas de candidato en la forma prevista anteriormente.
+4. Si trascurrido el plazo de tres meses desde la celebración de las elecciones al Parlamento de Navarra no se presentara ningún candidato o ninguno de los presentados hubiera sido elegido, el Parlamento quedará disuelto, convocándose de inmediato nuevas elecciones. El nuevo Parlamento que resulte de la convocatoria electoral tendrá un mandato completo por un período de cuatro años.
+Se modifica por el art. único.12 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+ Se modifica por el art. 1 de la Ley Orgánica, 1/2001, de 26 de marzo. Ref. BOE-A-2001-6006.
+
+### Artículo treinta
+
+Artículo 30.
+1. El Presidente de la Comunidad Foral de Navarra ostenta la más alta representación de la misma y la ordinaria del Estado en Navarra.
+2. El Presidente de la Comunidad Foral de Navarra es Presidente del Gobierno de Navarra o Diputación Foral. Como tal designa y separa a los Diputados Forales o Consejeros, dirige la acción del Gobierno o Diputación Foral y ejerce las demás funciones que se determinen en una ley foral.
+3. El Presidente de la Comunidad Foral de Navarra, bajo su exclusiva responsabilidad y previa deliberación del Gobierno de Navarra o Diputación Foral, podrá acordar la disolución del Parlamento y convocar nuevas elecciones, con anticipación al término natural de la legislatura.
+El Presidente no podrá acordar la disolución del Parlamento durante el primer período de sesiones, ni cuando reste menos de un año para la terminación de legislatura, ni cuando se encuentre en tramitación una moción de censura, ni cuando se encuentre convocado un proceso electoral estatal, ni tampoco antes de que transcurra el plazo de un año desde la última disolución por este procedimiento.
+En tal caso, el nuevo Parlamento que resulte de la convocatoria electoral tendrá un mandato completo por un período de cuatro años, sin perjuicio de lo establecido en los apartados anteriores de este mismo artículo.
+Se modifica por el art. único.13 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+ Se añade el apartado 3 por el art. 2 de la Ley Orgánica 1/2001, de 26 de marzo. Ref. BOE-A-2001-6006.
+
+## CAPÍTULO V
+
+De las relaciones entre la Diputación y el Parlamento de Navarra
+
+### Artículo treinta y uno
+
+Artículo 31.
+El Presidente y los Diputados forales responden solidariamente ante el Parlamento de su gestión política, sin perjuicio de la responsabilidad directa de los mismos en su gestión.
+
+### Artículo treinta y dos
+
+Artículo 32.
+Uno. El Parlamento, por medio de su Presidente, podrá recabar de la Diputación la información que considere necesaria para el ejercicio de sus funciones, así como la presencia de los miembros de aquélla.
+Dos. Los parlamentarios forales podrán formular ruegos, preguntas e interpelaciones a la Diputación así como presentar mociones, todo ello en los términos que señale el Reglamento de la Cámara.
+
+### Artículo treinta y tres
+
+Artículo 33.
+El Presidente de la Comunidad Foral de Navarra y los Consejeros o Diputados Forales tendrán derecho a asistir y ser oídos en las sesiones del Pleno y de las Comisiones del Parlamento.
+Se modifica por el art. único.14 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Artículo treinta y cuatro
+
+Artículo 34.
+1. El Presidente de la Comunidad Foral de Navarra podrá plantear ante el Parlamento la cuestión de confianza sobre su programa de actuación, en la forma que se determine en el Reglamento de la Cámara. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los parlamentarios forales.
+2. Si el Parlamento niega su confianza al Presidente de la Comunidad Foral, éste presentara inmediatamente su dimisión, procediéndose a continuación a la elección de un nuevo Presidente.
+Se modifica por el art. único.15 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Artículo treinta y cinco
+
+Artículo 35.
+1. El Parlamento de Navarra podrá exigir la responsabilidad política del Gobierno de Navarra mediante la aprobación por mayoría absoluta de una moción de censura.
+2. Las mociones de censura, que necesariamente habrán de incluir la propuesta de un candidato o una candidata a la Presidencia de la Comunidad Foral de Navarra, se plantearán y tramitarán en la forma que determine el Reglamento del Parlamento. En todo caso, la moción de censura deberá ser propuesta, al menos, por una quinta parte del número de miembros del Parlamento. Si la moción de censura no fuese aprobada sus signatarios no podrán presentar otra durante el mismo período de sesiones.
+3. Si el Parlamento aprueba la moción de censura a la Diputación, su Presidente presentará inmediatamente la dimisión, procediéndose a nombrar Presidente de la Comunidad Foral de Navarra al candidato o a la candidata propuesto en la moción aprobada.
+Se modifica por el art. único.16 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+## CAPÍTULO VI
+
+Régimen de conflictos y recursos
+
+### Artículo treinta y seis
+
+Artículo 36.
+En los casos y en la forma establecida en las leyes, el Parlamento y la Diputación estarán legitimados para suscitar conflictos de competencia y para promover recursos de inconstitucionalidad.
+
+### Artículo treinta y siete
+
+Artículo 37.
+Las leyes forales únicamente estarán sujetas al control de constitucionalidad que ejerce el Tribunal Constitucional.
+
+### Artículo treinta y ocho
+
+Artículo 38.
+Los actos y disposiciones dictados por los órganos ejecutivos y administrativos de Navarra serán impugnables ante la Jurisdicción contencioso-administrativa, una vez agotada la vía administrativa foral.
+
+## TÍTULO II
+
+Facultades y competencias de Navarra
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo treinta y nueve
+
+Artículo 39.
+Uno. Conforme a lo establecido en el artículo segundo de la presente Ley Orgánica, corresponden a Navarra:
+a) Todas aquellas facultades y competencias que actualmente ejerce, al amparo de lo establecido en la Ley Paccionada de dieciséis de agosto de mil ochocientos cuarenta y uno y disposiciones complementarias.
+b) Todas aquellas facultades y competencias que expresamente se le integran por la presente Ley Orgánica.
+c) Todas aquellas facultades y competencias que la legislación del Estado atribuya, transfiera o delegue, con carácter general, a las Comunidades Autónomas o a las Provincias.
+Dos. Corresponderán, asimismo, a Navarra todas aquellas facultades y competencias no comprendidas en el apartado anterior que, a iniciativa de la Diputación Foral, le atribuya, transfiera o delegue el Estado, con posterioridad a la entrada en vigor de la presente ley.
+
+### Artículo cuarenta
+
+Artículo 40.
+Uno. En las materias que sean competencia exclusiva de Navarra, corresponde a la Comunidad Foral las siguientes potestades:
+a) Legislativa.
+b) Reglamentaria.
+c) Administrativa, incluida la inspección.
+d) Revisora en la vía administrativa.
+Dos. Dichas potestades deberán ejercitarse en los términos previstos en la presente ley y en la legislación del Estado a la que la misma hace referencia.
+Tres. El Derecho navarro, en las materias de competencia exclusiva de la Comunidad Foral y en los términos previstos en los apartados anteriores, será aplicable con preferencia a cualquier otro.
+En defecto de Derecho propio, se aplicará supletoriamente el Derecho del Estado.
+Cuatro. En materia de Derecho Civil Foral, se estará a lo dispuesto en el artículo cuarenta y ocho de la presente Ley Orgánica.
+
+### Artículo cuarenta y uno
+
+Artículo 41.
+Uno. En las materias a las que se refiere el artículo cincuenta y siete de la presente Ley Orgánica y en las que con igual carácter se regulan en otros artículos de la misma corresponden a la Comunidad Foral las siguientes potestades:
+a) De desarrollo legislativo.
+b) Reglamentaria.
+c) De administración, incluida la inspección.
+d) Revisora en la vía administrativa.
+Dos. La potestad de desarrollo legislativo a la que se refiere el párrafo a) del apartado anterior, deberá ejercitarse, en todo caso, de conformidad con las normas básicas que dicte el Estado.
+
+### Artículo cuarenta y dos
+
+Artículo 42.
+Uno. En las materias a las que se refiere el artículo cincuenta y ocho de la presente ley y en las que con igual carácter se regulan en otros artículos de la misma, corresponden a la Comunidad Foral las siguientes potestades:
+a) Reglamentaria, para la organización de sus propios servicios.
+b) De administración, incluida la inspección.
+c) Revisora en la vía administrativa.
+Dos. La Comunidad Foral ejercitará las potestades a las que se refiere el apartado anterior de conformidad con las disposiciones de carácter general que, en desarrollo de su legislación, dicte el Estado.
+
+### Artículo cuarenta y tres
+
+Artículo 43.
+Todas las facultades y competencias correspondientes a Navarra se entienden referidas a su propio territorio, sin perjuicio de la eficacia personal que, en los supuestos previstos en los Convenios para materias fiscales entre Navarra y el Estado o en la legislación estatal, puedan tener las normas dictadas por las Instituciones Forales.
+
+## CAPÍTULO II
+
+Delimitación de facultades y competencias
+
+### Artículo cuarenta y cuatro
+
+Artículo 44.
+Navarra tiene competencia exclusiva sobre las siguientes materias:
+1. Ordenación del territorio, urbanismo y vivienda.
+2. Obras públicas que no tengan la calificación legal de interés general del Estado o cuya realización no afecte a otros territorios del mismo.
+3. Aeropuertos que no sean de interés general; helipuertos.
+4. Servicio meteorológico, sin perjuicio de las facultades que en esta materia corresponden al Estado.
+5. Aprovechamientos hidráulicos, canales y regadíos, cuando las aguas discurran íntegramente dentro de Navarra y su aprovechamiento no afecte a otro territorio del Estado.
+6. Instalaciones de producción, distribución y transporte de energía cuando este transporte no salga del territorio de Navarra y su aprovechamiento no afecte a otro territorio del Estado, aguas minerales, termales y subterráneas, todo ello sin perjuicio de la legislación básica del Estado sobre el régimen minero y energético.
+7. Investigación científica y técnica, sin perjuicio de las facultades de fomento y coordinación general que corresponden al Estado.
+8. Cultura, en coordinación con el Estado.
+9. Patrimonio histórico, artístico, monumental, arquitectónico, arqueológico y científico, sin perjuicio de las facultades del Estado para la defensa de dicho patrimonio contra la exportación y la expoliación.
+10. Archivos, bibliotecas, museos, hemerotecas y demás centros de depósito cultural que no sean de titularidad estatal.
+11. Instituciones relacionadas con el fomento y la enseñanza de las Bellas Artes.
+12. Artesanía.
+13. Promoción y ordenación del turismo.
+14. Promoción del deporte y de la adecuada utilización del ocio.
+15. Espectáculos.
+16. Casinos, juegos y apuestas, con exclusión de las Apuestas Mutuas Deportivo-Benéficas.
+17. Asistencia social.
+18. Desarrollo comunitario; políticas de igualdad; política infantil, juvenil y de la tercera edad.
+19. Asociaciones de carácter docente, cultural, artístico, benéfico, asistencial y similares que desarrollen principalmente sus funciones en Navarra.
+20. Fundaciones constituidas con arreglo a las normas del Derecho Foral de Navarra.
+21. Estadística de interés para Navarra.
+22. Ferias y mercados interiores.
+23. Instituciones y establecimientos públicos de protección y tutela de menores y de reinserción social, conforme a la legislación general del Estado.
+24. Cámaras Agrarias y Cámaras de Comercio e Industria, de acuerdo con los principios básicos de la legislación general y sin perjuicio de las competencias del Estado en materia de comercio exterior.
+25. Regulación de las denominaciones de origen y de la publicidad, en colaboración con el Estado.
+26. Colegios Profesionales y ejercicio de las profesiones tituladas, conforme a la legislación general.
+27. Cooperativas, Mutualidades no integradas en la Seguridad Social y Pósitos, conforme a la legislación general en la materia.
+28. Establecimiento y regulación de Bolsas de Comercio y demás centros de contratación de mercaderías y valores, de conformidad con la legislación mercantil.
+Se modifican los apartados 18 y 24 por el art. único.17 y 18 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Artículo cuarenta y cinco
+
+Artículo 45.
+Uno. En virtud de su régimen foral, la actividad tributaria y financiera de Navarra se regulará por el sistema tradicional del Convenio Económico.
+Dos. En los Convenios Económicos se determinarán las aportaciones de Navarra a las cargas generales del Estado señalando la cuantía de las mismas y el procedimiento para su actualización, así como los criterios de armonización de su régimen tributario con el régimen general del Estado.
+Tres. Navarra tiene potestad para mantener, establecer y regular su propio régimen tributario, sin perjuicio de lo dispuesto en el correspondiente Convenio Económico que deberá respetar los principios contenidos en el Título Preliminar del Convenio Económico de mil novecientos sesenta y nueve, así como el principio de solidaridad a que se refiere el artículo primero de esta Ley Orgánica.
+Cuatro. Dada la naturaleza paccionada de los Convenios Económicos, una vez suscritos por el Gobierno de la nación y la Diputación, serán sometidos al Parlamento Foral y a las Cortes Generales para su aprobación mediante ley ordinaria.
+Cinco. La Deuda Pública de Navarra y los títulos-valores de carácter equivalente emitidos por la Comunidad Foral tendrán a todos los efectos la consideración de Fondos públicos. El volumen y características de las emisiones se establecerán en coordinación con el Estado, conforme a lo que se determina en el artículo sesenta y siete del presente Amejoramiento.
+Seis. Una ley foral regulará el Patrimonio de Navarra y la administración, defensa y conservación del mismo.
+
+### Artículo cuarenta y seis
+
+Artículo 46.
+Uno. En materia de Administración Local, corresponden a Navarra:
+a) Las facultades y competencias que actualmente ostenta, al amparo de lo establecido en la Ley Paccionada de dieciséis de agosto de mil ochocientos cuarenta y uno, en el Real Decreto-ley Paccionado de cuatro de noviembre de mil novecientos veinticinco y disposiciones complementarias.
+b) Las que, siendo compatibles con las anteriores, puedan corresponder a las Comunidades Autónomas o a las Provincias, conforme a la legislación básica del Estado.
+Dos. La Diputación Foral, sin perjuicio de la jurisdicción de los Tribunales de Justicia, ejercerá el control de legalidad y del interés general de las actuaciones de los Municipios, Concejos y Entidades Locales de Navarra, de acuerdo con lo que disponga una ley foral.
+Tres. Los Municipios de Navarra gozarán, como mínimo, de la autonomía que, con carácter general, se reconozca a los demás Municipios de la Nación.
+
+### Artículo cuarenta y siete
+
+Artículo 47.
+Es de la competencia plena de Navarra la regulación y administración de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, sin perjuicio de lo establecido en los preceptos constitucionales sobre esta materia, de las Leyes Orgánicas que los desarrollen y de las competencias del Estado en lo que se refiere a la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y de la alta inspección del Estado para su cumplimiento y garantía.
+
+### Artículo cuarenta y ocho
+
+Artículo 48.
+Uno. Navarra tiene competencia exclusiva en materia de Derecho Civil Foral.
+Dos. La conservación, modificación y desarrollo de la vigente Compilación del Derecho Civil Foral o Fuero Nuevo de Navarra se llevará a cabo, en su caso, mediante ley foral.
+
+### Artículo cuarenta y nueve
+
+Artículo 49.
+Uno. En virtud de su régimen foral, corresponde a Navarra la competencia exclusiva sobre las siguientes materias:
+a) Regulación de la composición, atribuciones, organización, funcionamiento y régimen jurídico de las Instituciones Forales, así como de la elección de sus miembros, todo ello en los términos establecidos en el Título Primero de la presente Ley Orgánica.
+b) Régimen estatutario de los funcionarios públicos de la Comunidad Foral, respetando los derechos y obligaciones esenciales que la legislación básica del Estado reconozca a los funcionarios públicos.
+c) Normas de procedimiento administrativo y, en su caso, económico-administrativo que se deriven de las especialidades del Derecho sustantivo o de la organización propios de Navarra.
+d) Contratos y concesiones administrativas, respetando los principios esenciales de la legislación básica del Estado en la materia.
+e) Régimen jurídico de la Diputación Foral, de su Administración y de los entes públicos dependientes de la misma, garantizando el tratamiento igual de los administrados ante las Administraciones Públicas.
+f) Ferrocarriles, carreteras y caminos cuyo itinerario se desarrolle íntegramente en territorio foral y, en los mismos términos, el transporte desarrollado por estos medios, así como por vía fluvial o por cable.
+g) Centros de contratación y terminales de carga en materia de transportes.
+h) Vías pecuarias.
+Dos. Corresponde, asimismo, a Navarra la ejecución de la legislación del Estado en materia de ordenación del transporte de mercancías y viajeros que tengan su origen y destino en territorio foral, sin perjuicio de la ejecución directa que el Estado pueda reservarse.
+Tres. En todo caso, en las materias a las que se refieren los apartados anteriores, Navarra conservará íntegramente las facultades y competencias que actualmente ostenta.
+Corresponden a Navarra en materia de tráfico, circulación de vehículos a motor y seguridad vial, en virtud de su régimen foral y de lo dispuesto en esta ley orgánica, además de las facultades y competencias que viene ostentando, la competencia para la ejecución de la legislación del Estado, así como las funciones de vigilancia y control del tráfico
+Se modifica el apartado 3 por el art. único.1 de la Ley Orgánica 6/2024, de 5 de diciembre. Ref. BOE-A-2024-25451
+
+### Artículo cincuenta
+
+Artículo 50.
+Uno. Navarra, en virtud de su régimen foral, tiene competencia exclusiva sobre las siguientes materias:
+a) Agricultura y ganadería, de acuerdo con la ordenación general de la economía.
+b) Caza; pesca fluvial y lacustre; acuicultura.
+c) Pastos, hierbas y rastrojeras.
+d) Espacios naturales protegidos y tratamiento especial de zonas de montaña, de acuerdo con la legislación básica del Estado.
+e) Montes cuya titularidad pertenezca a la Comunidad Foral o a los Municipios, Concejos y demás entidades administrativas de Navarra.
+Dos. Corresponde asimismo a Navarra el desarrollo legislativo y la ejecución de la legislación básica del Estado en materia de montes de propiedad de particulares.
+
+### Artículo cincuenta y uno
+
+Artículo 51.
+Uno. Corresponde a Navarra la regulación del régimen de la Policía Foral que, bajo el mando supremo de la Diputación Foral, continuará ejerciendo las funciones que actualmente ostenta.
+Corresponde igualmente a la Comunidad Foral la coordinación de las Policía Locales de Navarra, sin detrimento de su dependencia de las respectivas autoridades municipales o concejiles.
+Dos. Navarra podrá ampliar los fines y servicios de la Policía Foral, en el marco de lo establecido en la correspondiente Ley Orgánica.
+A fin de coordinar la actuación de la Policía Foral y de los Cuerpos y Fuerzas de Seguridad del Estado, se establecerá, en su caso, una Junta de Seguridad, formada por un número igual de representantes de la Diputación Foral y del Gobierno de la Nación.
+En materia de tráfico, circulación de vehículos a motor y seguridad vial las competencias de la Policía Foral se regirán por lo dispuesto en el artículo 49.3.
+Se añade un párrafo tercero al apartado 2 por el art. único.2 de la Ley Orgánica 6/2024, de 5 de diciembre. Ref. BOE-A-2024-25451
+
+### Artículo cincuenta y dos
+
+Artículo 52.
+Corresponde al Gobierno de Navarra la competencia para efectuar los nombramientos de los Notarios y Registradores de la Propiedad y Mercantiles que deban prestar servicio en Navarra. El nombramiento se hará de conformidad con las leyes del Estado, valorándose específicamente a estos efectos el conocimiento del Derecho Foral de Navarra, sin que pueda establecerse excepción alguna por razón de naturaleza o vecindad.
+En la fijación de las demarcaciones notariales y de las correspondientes a los Registros de la Propiedad y Mercantiles, participará el Gobierno de Navarra a fin de acomodarlas a lo establecido en el artículo 60.2 de la presente Ley Orgánica. Igualmente participará, de acuerdo con lo previsto en las leyes del Estado, en la determinación del número de Notarios que deban ejercer su función en Navarra.
+Se modifica por el art. único.19 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Artículo cincuenta y tres
+
+Artículo 53.
+Uno. En materia de sanidad interior e higiene, corresponden a Navarra las facultades y competencias que actualmente ostenta, y además, el desarrollo legislativo y la ejecución de la legislación básica del Estado.
+Dos. Dentro de su territorio, Navarra podrá organizar y administrar todos los servicios correspondientes a la materia a la que se refiere el apartado anterior y ejercitará la tutela de las instituciones, entidades y fundaciones relacionadas con las mismas.
+Tres. Sin perjuicio de lo establecido en los apartados anteriores, corresponde al Estado la coordinación y alta inspección conducente al cumplimiento de las facultades y competencias contenidas en este artículo.
+
+### Artículo cincuenta y cuatro
+
+Artículo 54.
+Uno. En materia de Seguridad Social, corresponde a Navarra:
+a) El desarrollo legislativo y la ejecución de la legislación básica del Estado, salvo las normas que configuran el régimen económico de la Seguridad Social.
+b) La gestión del régimen económico de la Seguridad Social.
+Dos. Dentro de su territorio, Navarra podrá organizar y administrar todos los servicios correspondientes a las materias a las que se refiere el apartado anterior y ejercerá la tutela de las instituciones, entidades y fundaciones relacionadas con las mismas.
+Tres. Corresponde al Estado la alta inspección conducente al cumplimiento de las facultades y competencias contenidas en este artículo.
+
+### Artículo cincuenta y cinco
+
+Artículo 55.
+Uno. Corresponde a Navarra el desarrollo legislativo y la ejecución del régimen de radiodifusión y televisión en los términos y casos establecidos en la Ley que regule el Estatuto jurídico de la Radio y la Televisión.
+Dos. Igualmente le corresponde el desarrollo legislativo y la ejecución de las normas básicas del Estado relativas al régimen de prensa y, en general, de todos los medios de comunicación social.
+Tres. De acuerdo con lo establecido en los apartados anteriores, Navarra podrá regular, crear y mantener su propia prensa, radio y televisión y, en general, todos los medios de comunicación social para el cumplimiento de sus fines.
+
+### Artículo cincuenta y seis
+
+Artículo 56.
+Uno. De acuerdo con las bases y la ordenación de la actividad económica general y de la política monetaria, crediticia, bancaria y de seguros del Estado, corresponde a la Comunidad Foral de Navarra en los términos de los pertinentes preceptos constitucionales la competencia exclusiva en las siguientes materias:
+a) Planificación de la actividad económica y fomento del desarrollo económico dentro de Navarra.
+b) Industria, sin perjuicio de lo que determinen las normas del Estado por razones de seguridad, sanitarias o de interés militar y las normas relacionadas con las industrias que estén sujetas a la legislación de minas, hidrocarburos y energía nuclear. Queda reservada a la competencia exclusiva del Estado la autorización para transferencia de tecnología extranjera.
+c) Desarrollo y ejecución en Navarra de los planes establecidos por el Estado para la reestructuración de sectores industriales, de conformidad con lo establecido en los mismos.
+d) Comercio interior, defensa del consumidor y del usuario, sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio nacional y de la legislación sobre defensa de la competencia.
+e) Instituciones de crédito corporativo, público y territorial.
+f) Cajas de Ahorro, sin perjuicio del régimen especial de Convenios en esta materia.
+g) Sector público económico de Navarra, en cuanto no esté contemplado por otros preceptos de la presente Ley Orgánica.
+Dos. La competencia exclusiva de Navarra a que se refiere el apartado anterior se entenderá sin perjuicio del respeto a la libertad de empresa en el marco de la economía de mercado.
+Tres. Navarra participará asimismo en la gestión del sector público económico estatal, en los casos y actividades que proceda y designará, en su caso, de acuerdo con lo que establezcan las leyes del Estado, sus propios representantes en los organismos económicos, instituciones financieras y empresas públicas del Estado, cuya competencia se extienda al territorio navarro y que por su naturaleza no sean objeto de transferencia.
+
+### Artículo cincuenta y siete
+
+Artículo 57.
+En el marco de la legislación básica del Estado, corresponde a Navarra el desarrollo legislativo y la ejecución de las siguientes materias:
+a) Sistema de responsabilidad de las administraciones públicas de Navarra.
+b) Expropiación forzosa, en el ámbito de sus propias competencias.
+c) Medio ambiente y ecología.
+d) Reserva al sector público de recursos o servicios esenciales especialmente en caso de monopolio; intervención de empresas cuando lo exija el interés general.
+e) Ordenación del crédito, banca y seguros.
+f) Régimen minero y energético; recursos geotérmicos.
+
+### Artículo cincuenta y ocho
+
+Artículo 58.
+Uno. Corresponde a Navarra la ejecución de la legislación del Estado en las siguientes materias:
+a) Penitenciaria.
+b) Laboral, asumiendo las facultades y competencias y servicios de carácter ejecutivo que actualmente ostenta el Estado con respecto a las relaciones laborales, sin perjuicio de la alta inspección de éste.
+Quedan reservadas al Estado todas las competencias sobre las migraciones interiores y exteriores y fondos de ámbito nacional y de empleo.
+c) Propiedad intelectual e industrial.
+d) Pesas y medidas. Contraste de metales.
+e) Ferias internacionales que se celebren en Navarra.
+f) Aeropuertos de interés general, cuando el Estado no se reserve su gestión directa.
+g) Establecimientos y productos farmacéuticos.
+h) Vertidos industriales y contaminantes.
+i) Archivos, bibliotecas, museos y demás centros análogos de titularidad estatal, cuya ejecución no se reserve el Estado.
+Dos. Corresponde asimismo a la Comunidad Foral la ejecución dentro de su territorio de los Tratados y Convenios Internacionales en lo que afecten a las materias propias de la competencia de Navarra.
+
+## CAPÍTULO III
+
+La Administración de Justicia en Navarra
+
+### Artículo cincuenta y nueve
+
+Artículo 59.
+1. Se establecerá en Navarra un Tribunal Superior de Justicia en el que culminará la organización judicial en el ámbito territorial de la Comunidad Foral y ante el que, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, se agotarán las sucesivas instancias procesales.
+2. Al frente del Tribunal Superior de Justicia de Navarra se encuentra su Presidente, cuyo nombramiento se ajustará a lo establecido en el artículo 62.1 de la presente Ley Orgánica, y que será el representante del Poder Judicial en la Comunidad Foral de Navarra. Asimismo, el Fiscal Superior de la Comunidad Foral de Navarra es el representante del Ministerio Fiscal en Navarra, siendo designado en los términos previstos en su estatuto orgánico, y teniendo las funciones establecidas en el mismo. Tanto uno como otro podrán presentar ante el Parlamento de Navarra las respectivas memorias anuales.
+Se modifica el apartado 2 por el art. único.20 de la Ley 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Artículo sesenta
+
+Artículo 60.
+En relación con la Administración de Justicia, exceptuada la Jurisdicción Militar, corresponde a Navarra:
+Uno. Ejercer todas .as facultades que las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial reconozcan o atribuyan al Gobierno del Estado.
+Dos. Participar en la delimitación de las demarcaciones territoriales de los órganos jurisdiccionales que ejerzan sus funciones en Navarra y en la localización de su capitalidad.
+
+### Artículo sesenta y uno
+
+Artículo 61.
+Uno. La competencia de los órganos jurisdiccionales radicados en Navarra se extiende:
+a) En el orden civil, a todas las instancias y grados, incluidos los recursos de casación y revisión en las materias de Derecho Civil Foral de Navarra.
+b) En el orden penal y social, a todas las instancias y grados, con excepción de los recursos de casación y revisión.
+c) En el orden contencioso-administrativo, a todas las instancias y grados, cuando se trate de actos dictados por la Administración Foral. Cuando se trate de actos dictados por la Administración del Estado en Navarra, se estará a lo dispuesto en la Ley de la Jurisdicción contencioso-administrativa.
+d) A las cuestiones de competencia entre órganos judiciales radicados en Navarra.
+e) A los recursos sobre calificación de documentos referentes al Derecho Foral de Navarra que deba tener acceso a los Registros de la Propiedad.
+Dos. En las restantes materias se podrán interponer ante el Tribunal Supremo los recursos que, según las leyes del Estado, sean procedentes.
+
+### Artículo sesenta y dos
+
+Artículo 62.
+Uno. El Presidente del Tribunal Superior de Justicia de Navarra será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial.
+Dos. El nombramiento de los Magistrados, Jueces y Secretarios que deban prestar servicio en Navarra se efectuará en la forma prevista en las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial.
+Tres. El nombramiento del restante personal al servicio de la Administración de Justicia que deba prestar servicio en Navarra se efectuará en la forma prevista en la legislación general del Estado.
+
+### Artículo sesenta y tres
+
+Artículo 63.
+Uno. A instancia de la Diputación, el órgano competente convocará, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial, los concursos y oposiciones precisos para la provisión de vacantes de Magistrados, Jueces, Secretarios y restante personal al servicio de la Administración de Justicia que deba prestar servicio en Navarra.
+Dos. En las referidas pruebas selectivas se valorará específicamente la especialización en Derecho Foral de Navarra, sin que pueda establecerse excepción alguna por razón de naturaleza o vecindad.
+
+## CAPÍTULO IV
+
+Relaciones con la Administración del Estado
+
+### Artículo sesenta y cuatro
+
+Artículo 64.
+En virtud de lo establecido en el párrafo primero de la Disposición adicional primera de la Constitución y en el artículo segundo de la presente Ley, las relaciones entre la Administración del Estado y la Comunidad Foral referentes a sus respectivas facultades y competencias, se establecerán conforme a la naturaleza del régimen foral y deberán formalizarse, en su caso, mediante una disposición del rango que corresponda.
+
+### Artículo sesenta y cinco
+
+Artículo 65.
+La Administración del Estado y la Administración Foral podrán celebrar convenios de cooperación para la gestión y prestación de obras y servicios de interés común.
+
+### Artículo sesenta y seis
+
+Artículo 66.
+Un Delegado nombrado por el Gobierno de la Nación dirigirá la Administración del Estado en Navarra y la coordinará, cuando proceda, con la Administración Foral.
+
+### Artículo sesenta y siete
+
+Artículo 67.
+La Administración del Estado y la Diputación Foral colaborarán para la ordenada gestión de sus respectivas facultades y competencias, a cuyo efecto se facilitarán mutuamente las informaciones oportunas.
+
+### Artículo sesenta y ocho
+
+Artículo 68.
+1. La Comunidad Foral de Navarra participará, en los términos que establecen la Constitución, la presente Ley Orgánica y la legislación del Estado, en los asuntos relacionados con la Unión Europea que afecten a las competencias o intereses de Navarra.
+2. El Gobierno de Navarra debe ser informado por el Gobierno de España de las iniciativas de revisión de los tratados de la Unión Europea y de los procesos de suscripción y ratificación subsiguientes. Asimismo, deberá ser informado de forma completa y actualizada por el Gobierno de España sobre las iniciativas y las propuestas presentadas ante la Unión Europea. En ambos casos, podrá el Gobierno de Navarra dirigir al Gobierno de España y a las Cortes Generales las observaciones que estime pertinentes al efecto.
+3. La Comunidad Foral de Navarra participa en la formación de las posiciones del Estado ante la Unión Europea, especialmente ante el Consejo de Ministros, en los asuntos que incidan en las competencias o intereses de Navarra, en los términos que establecen la presente Ley Orgánica y la legislación del Estado sobre esta materia. La posición expresada por la Comunidad Foral es determinante para la formación de la posición española si afecta a sus competencias exclusivas y si de la propuesta o iniciativas europeas se pueden derivar consecuencias financieras o administrativas de especial relevancia para Navarra, debiendo motivarse ante la Junta de Cooperación la posición final del Estado cuando se aparte de aquélla. En los demás casos, dicha posición deberá ser oída por el Estado.
+4. La Comunidad Foral de Navarra aplica, ejecuta y desarrolla el Derecho de la Unión Europea en el ámbito de sus competencias. La existencia de una regulación europea no modifica la distribución interna de competencias que establecen la Constitución y la presente Ley Orgánica.
+5. El Gobierno de Navarra participa en las delegaciones españolas ante la Unión Europea que traten asuntos de la competencia legislativa de la Comunidad Foral y especialmente ante el Consejo de Ministros y los órganos consultivos y preparatorios del Consejo y de la Comisión. Dicha participación, cuando se refiera a competencias exclusivas de Navarra, permitirá, previo acuerdo, ejercer la representación y la presidencia de estos órganos, de conformidad con la normativa aplicable. La Comunidad Foral de Navarra, de acuerdo con el Estado, participa en la designación de representantes en el marco de la representación permanente del mismo ante la Unión Europea.
+6. El Parlamento de Navarra participará en los procedimientos de control de los principios de subsidiariedad y proporcionalidad que establezca el derecho de la Unión Europea en relación con las propuestas legislativas europeas cuando afecten a competencias de la Comunidad Foral.
+7. La Comunidad Foral de Navarra tiene acceso al Tribunal de Justicia de la Unión Europea en los términos que establezca la normativa europea. El Gobierno de Navarra puede instar al Gobierno de España la interposición de acciones ante el Tribunal de Justicia de la Unión Europea en defensa de los legítimos intereses y competencias de la Comunidad Foral. El Gobierno de Navarra colabora en la defensa jurídica. La negativa del Gobierno de España a ejercer las acciones solicitadas debe ser motivada y se comunicará inmediatamente al Gobierno de Navarra.
+Se modifica por el art. único.21 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+ Redactado conforme a la corrección de erratas publicada en BOE núm. 273, de 11 de noviembre. Ref. BOE-A-2010-17328
+
+### Artículo sesenta y ocho bis
+
+Artículo 68 bis.
+1. La Comunidad Foral de Navarra impulsará su proyección en el exterior y promoverá sus intereses en dicho ámbito, pudiendo establecer oficinas en el exterior y respetando siempre la competencia del Estado en materia de relaciones exteriores.
+2. La Comunidad Foral de Navarra, de acuerdo con la legislación del Estado, será informada previamente de la elaboración de tratados y convenios internacionales en lo que afecten a materias de su competencia y específico interés. En estos supuestos, el Gobierno de Navarra podrá dirigir al Gobierno de España las observaciones que estime pertinentes, así como solicitarle que en las delegaciones negociadoras se integren representantes de la Comunidad Foral.
+3. El Gobierno de Navarra podrá solicitar del Gobierno de España la celebración de tratados o convenios internacionales en materias de interés para la Comunidad Foral, así como la integración en las consiguientes delegaciones negociadoras de representantes de la Comunidad Foral.
+4. El Gobierno de Navarra adoptará las medidas necesarias para la ejecución, dentro de su territorio, de los tratados internacionales y actos normativos de las organizaciones internacionales en lo que afecten a las materias propias de las competencias de la Comunidad Foral.
+5. En el ámbito de la cooperación interregional, la Comunidad Foral de Navarra impulsará la cooperación con otros territorios con los que comparta intereses comunes, especialmente con aquellos que sean fronterizos con Navarra, con los que podrá suscribir acuerdos de colaboración en el ámbito de sus competencias.
+Se añade por el art. único.22 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Artículo sesenta y nueve
+
+Artículo 69.
+1. Todas las discrepancias que se susciten entre la Administración del Estado y la Comunidad Foral de Navarra respecto a la aplicación e interpretación de la presente Ley Orgánica, serán planteadas y, en su caso, resueltas por una Junta de Cooperación integrada por igual número de representantes de la Diputación Foral y de la Administración del Estado, sin perjuicio de la legislación propia del Tribunal Constitucional y de la Administración de Justicia.
+2. Igualmente, podrán plantearse para su resolución ante la Junta de Cooperación, cualesquiera otras discrepancias que se susciten entre la Administración del Estado y la Comunidad Foral de Navarra.
+3. Además, la Junta de Cooperación se constituye como el instrumento ordinario y principal de relación entre la Comunidad Foral de Navarra y el Estado, sin perjuicio de las funciones atribuidas a otros órganos concretos de cooperación o a otros órganos competentes en ámbitos sectoriales, correspondiéndole con carácter preferente el impulso de la realización de actuaciones y planes conjuntos para el desarrollo de políticas comunes y el diseño de mecanismos de colaboración mutua en los distintos ámbitos sectoriales donde confluya el interés de ambas Administraciones.
+Se modifica por el art. único.23 de la Ley 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+## CAPÍTULO V
+
+Convenios y Acuerdos de Cooperación con las Comunidades Autónomas
+
+### Artículo setenta
+
+Artículo 70.
+Uno. Navarra podrá celebrar Convenios con las Comunidades Autónomas para la gestión y prestación de servicios propios correspondientes a materias de su exclusiva competencia.
+Dichos convenios entrarán en vigor a los treinta días de su comunicación a las Cortes Generales, salvo que éstas acuerden en dicho plazo que, por su contenido, el Convenio debe seguir el trámite previsto en el apartado tercero para los Acuerdos de Cooperación.
+Dos. Navarra podrá celebrar Convenios con la Comunidad Autónoma del País Vasco y con las demás Comunidades Autónomas limítrofes para la gestión y prestación de servicios propios correspondientes a las materias de su competencia. Dichos Convenios entrarán en vigor en los veinte días de su comunicación a las Cortes Generales.
+Tres. Previa autorización de las Cortes Generales, Navarra podrá establecer Acuerdos de Cooperación con la Comunidad Autónoma del País Vasco y con otras Comunidades Autónomas.
+
+## TÍTULO III
+
+De la reforma
+
+### Artículo setenta y uno
+
+Artículo 71.
+Uno. Dada la naturaleza jurídica del régimen foral, el Amejoramiento al que se refiere la presente Ley Orgánica es inmodificable unilateralmente.
+Dos. La reforma del mismo se ajustará, en todo caso, al siguiente procedimiento:
+a) La iniciativa corresponderá a la Diputación Foral o al Gobierno de la Nación.
+b) Tras las correspondientes negociaciones, la Diputación Foral y el Gobierno de España formularán, de común acuerdo, la propuesta de reforma, que será sometida a la aprobación del Parlamento de Navarra y de las Cortes Generales por el mismo procedimiento seguido para la aprobación de la presente Ley Orgánica.
+Tres. Si la propuesta de reforma fuese rechazada, continuará en vigor el régimen jurídico vigente con anterioridad a su formulación.
+Se modifica la letra b) del apartado 2 por el art. único.24 de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La aceptación del régimen establecido en la presente Ley Orgánica no implica renuncia a cualesquiera otros derechos originarios e históricos que pudieran corresponder a Navarra, cuya incorporación al ordenamiento jurídico se llevará a cabo, en su caso, conforme a lo establecido en el artículo setenta y uno.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El Parlamento será el órgano foral competente para:
+a) Ejercer la iniciativa a que se refiere la Disposición transitoria cuarta de la Constitución.
+b) Ejercer, en su caso, la iniciativa para la separación de Navarra de la Comunidad Autónoma a la que se hubiese incorporado.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+La Comunidad Foral de Navarra se subrogará en todos los derechos y obligaciones de la actual Diputación Foral, en cuanto Corporación Local.
+Serán respetados todos los derechos adquiridos de cualquier orden y naturaleza que tengan los funcionarios y personal de dicha Diputación y de las Instituciones dependientes de la misma.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+(Derogada)
+Se deroga por la disposición derogatoria de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Derogada)
+Se deroga por la disposición derogatoria de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Mientras las Cortes Generales o el Parlamento de Navarra no aprueben las disposiciones a las que se refiere la presente Ley Orgánica, continuarán en vigor las leyes y disposiciones del Estado que regulen las materias que deban ser objeto de aquéllas, sin perjuicio de las facultades y competencias que corresponden a Navarra.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+La transferencia a Navarra de los servicios relativos a las facultades y competencias que, conforme a la presente Ley Orgánica le corresponden, se ajustará a las siguientes bases:
+Uno. Previo acuerdo con la Diputación Foral, las transferencias se llevarán a cabo por el Gobierno de la Nación y se promulgarán mediante Real Decreto, que se publicará simultáneamente en los «Boletines Oficiales del Estado y de Navarra».
+Dos. En virtud de dichos Acuerdos, se transferirán a Navarra los medios personales y materiales necesarios para el pleno y efectivo ejercicio de las facultades y competencias a que se refieran.
+Tres. A los funcionarios de la Administración del Estado o de otras Administraciones Públicas, que estando adscritos a los servicios que sean objeto de transferencia, pasen a depender de la Comunidad Foral, les serán respetados los derechos que les correspondan en el momento de la transferencia, incluso el de participar en los concursos de traslados que convoque la Administración respectiva en igualdad de condiciones con los restantes miembros del Cuerpo o Escala a que pertenezcan.
+Cuatro. La transferencia a la Comunidad Foral de bienes o derechos estará exenta de toda clase de gravámenes fiscales.
+El cambio de titularidad en los contratos de arrendamiento de locales para oficinas públicas de los servicios que sean objeto de transferencias, no dará derecho al arrendador a extinguir o renovar el contrato.
+Cinco. A los efectos de la adecuada financiación de los servicios que se traspasen a Navarra, se realizará la valoración de los mismos de conformidad con las disposiciones generales del Estado, teniendo en cuenta los costes directos e indirectos y los gastos de inversión que correspondan, para que surta, sobre la aportación económica de la Comunidad Foral a las cargas generales del Estado, los efectos que prevea el Convenio Económico.
+Seis. Mientras no se produzcan las transferencias a las que se refiere la presente Disposición transitoria, la Administración del Estado continuará prestando los Servicios públicos relativos a las mismas, sin que ello implique renuncia por parte de Navarra a la titularidad de las correspondientes facultades y competencias.
+Siete. Se autoriza al Gobierno para transferir a Navarra, en su caso, los montes de titularidad del Estado cuya administración y gestión corresponde actualmente a la Diputación Foral en la forma y condiciones que se fijen en el correspondiente Convenio.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+(Derogada)
+Se deroga por la disposición derogatoria de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+(Derogada)
+Se deroga por la disposición derogatoria de la Ley Orgánica 7/2010, de 27 de octubre. Ref. BOE-A-2010-16435.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+En lo relativo a televisión, la aplicación del apartado tres del artículo cincuenta y cinco de la presente Ley Orgánica supone que el Estado otorgará en régimen de concesión a la Comunidad Foral la utilización de un tercer canal de titularidad estatal, que debe crearse para su emisión en el territorio de Navarra, en los términos que prevea la citada concesión.
+Hasta la puesta en funcionamiento efectivo de este tercer canal, Radiotelevisión Española (RTVE) articulará, a través de su organización en el territorio de la Comunidad Foral, un régimen transitorio de programación específica para el mismo que se emitirá por la Segunda Cadena (UHF). El coste de esta programación se entenderá como base para la determinación de la subvención que pudiera concederse a la Comunidad Foral durante los dos primeros años de funcionamiento del nuevo canal a que se refiere la presente Disposición transitoria.
+
+### Disposición final
+
+Disposición final.
+Uno. Continuará en vigor la Ley de veinticinco de octubre de mil ochocientos treinta y nueve, la Ley Paccionada, de dieciséis de agosto de mil ochocientos cuarenta y uno, y disposiciones complementarias, en cuanto no se opongan a lo establecido en la presente Ley Orgánica.
+Dos. La presente Ley Orgánica entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto.
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+Palacio de Marivent, Palma de Mallorca, a diez de agosto de mil novecientos ochenta y dos.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+LEOPOLDO CALVO-SOTELO Y BUSTELO

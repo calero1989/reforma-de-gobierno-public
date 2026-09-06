@@ -1,0 +1,598 @@
+# Ley 8/2006, de 10 de octubre, del voluntariado en Castilla y León.
+
+- Identificador BOE: `BOE-A-2006-20184`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2006-20184
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 16.4 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley
+EXPOSICIÓN DE MOTIVOS
+I
+El voluntariado, como expresión de compromiso solidario en pro del interés general y del bienestar comunitario, resulta hoy manifestación inequívoca de la asunción por los ciudadanos de responsabilidades participadas, objetivos compartidos y actuaciones confluyentes con las administraciones e instituciones en las que hasta hace relativamente poco tiempo se residenciaba en exclusiva la tarea de satisfacer aquel interés y de procurar dicho bienestar.
+La acción voluntaria, nacida de la concienciación y animo transformador de las personas como miembros de una sociedad, supone la más clara actuación de principios éticos y de valores como los de libertad, altruismo, convivencia, participación, solidaridad y justicia.
+El movimiento voluntario, de larga tradición en la historia de la humanidad, ha alcanzado en los años recientes dimensión y trascendencia incuestionables. La creciente implicación de los ciudadanos, reclamando y representando un papel cada vez más activo; el cambio de la primitiva orientación asistencial, progresivamente sustituida por la promoción de la justicia y la cohesión social; la superación de la acción centrada en la defensa y atención de los más desfavorecidos, y una apertura cada vez mayor a la mejora del bienestar social y la calidad de vida en todos los órdenes y ámbitos de actividad; la creciente importancia de las acciones planteadas desde la libre iniciativa, la autonomía y la independencia; la progresiva eficacia de las actuaciones, impulsadas desde la organización y la coordinación; el dinamismo transformador de la acción comprometida; o el reconocimiento que, por todo ello, ha recibido tanto a nivel internacional, como nacional, son pruebas de su significado y valor.
+II
+El artículo 8.2 del Estatuto de Autonomía de Castilla y León establece, en iguales términos que los contenidos en el artículo 9.2 de la Constitución Española, que corresponde a los poderes públicos de esta Comunidad promover las condiciones para que la libertad e igualdad del individuo y de los grupos en que se integra sean reales y efectivas, remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los castellanos y leoneses en la vida política, económica, cultural y social.
+Conscientes los poderes públicos de la Comunidad de Castilla y León de la necesidad y relevancia de la participación de la sociedad y de sus miembros en las actuaciones dirigidas a la satisfacción del interés general –participación, además, demandada por la propia sociedad y por los ciudadanos–, y considerando el voluntariado como una manifestación fundamental de contribución activa, que constituye auténtica expresión de solidaridad, impulsaron su primera regulación mediante el Decreto 12/1995, de 19 de enero.
+Transcurrido un tiempo suficiente, y atendidos el extraordinario desarrollo de estas actividades y el notable incremento en el número de personas, instituciones y entidades que participan en ellas, así como la diversificación de estas entidades, resulta oportuno incorporar la ordenación de este movimiento cívico al ordenamiento jurídico a través de una norma del máximo rango que, dictada en ejercicio de la potestad legislativa que corresponde a la Comunidad de Castilla y León en el ejercicio de las competencias que ostenta en esta materia, contribuya a su promoción y desarrollo, asegure su máxima eficacia desde el fomento de la acción organizada y el impulso de una adecuada colaboración, complementariedad y coordinación entre los diferentes actores intervinientes y garantice, al tiempo, la libertad, independencia y autonomía de los ciudadanos para expresar su compromiso de solidaridad.
+III
+La necesidad de integrar voluntades y aunar esfuerzos, indiscutible en este ámbito, reclama la formulación de un marco general que establezca los principios generales y las líneas esenciales que han de orientar la participación voluntaria, que determine y oriente sus actividades desde la consideración del interés general, que fije los derechos y obligaciones básicos de quienes la organizan, la desarrollan o la reciben como destinatarios, y que prevea las necesarias acciones para su fomento y apoyo, para la ordenación planificada y para la coordinación de actuaciones y recursos, y establezca la oportuna distribución de competencias.
+En consecuencia y en primer término, la presente ley persigue reforzar la garantía de efectividad en relación con el derecho de todo ciudadano a participar activamente, desde el compromiso voluntario y altruista, en la consecución del bienestar común y de la justicia social, garantizar su libertad, promover e impulsar la acción voluntaria, disponer los medios y recursos que complementen toda iniciativa autónoma, apoyar estas manifestaciones solidarias, y procurar la calidad y eficacia que deben reclamarse de toda acción voluntaria desde la consideración de los fines a los que debe servir.
+En segundo lugar, la ordenación que esta norma viene a establecer se pretende completa y acomodada a la realidad actual. Desde este planteamiento, la presente ley contempla las actividades de voluntariado a la vez desde la exacta delimitación de los elementos y condiciones que en esencia la califican y distinguen, y desde la consideración abierta de sus contenidos, susceptibles de abarcar hoy la práctica totalidad de las manifestaciones de la actividad humana, y de los medios disponibles para desarrollarla. El voluntariado, en los inicios de este siglo XXI, se ha extendido y diversificado en un gran abanico de programas y proyectos que alcanzan los más diversos ámbitos y sectores; la aportación solidaria se lleva a cabo hoy mediante formas de expresión y participación cada vez más plurales. Igualmente, las administraciones públicas han pasado a asumir progresivamente en determinadas circunstancias la condición de verdaderas entidades titulares de actividades de voluntariado, ampliando de esta manera su tradicional papel de promotoras. A todo ello responde también la presente norma.
+IV
+En los nueve capítulos en que se estructura esta ley se articulan las disposiciones y medidas relacionadas con todas y cada una de las cuestiones arriba aludidas, con previsiones particulares que pueden entenderse de particular relevancia.
+Así sucede con la precisa acotación de qué ha de entenderse por actividad voluntaria, lo que se efectúa mediante el establecimiento de las condiciones que son exigibles para su consideración como tal, y que la diferencian de otras manifestaciones de participación o de expresión solidaria que, en consecuencia, quedan fuera del ámbito de aplicación de esta norma. Los elementos de participación organizada a través de entidades, actividades de interés general o desarrollo mediante programas y proyectos, así como los componentes de voluntariedad y libertad, altruismo y desinterés, entre otros, configuran con nitidez un concepto que resulta además delimitado desde la determinación de los fines a que ha de responder y de los principios en que debe fundamentarse.
+La ley contempla los muy diferentes campos de acción en los que puede intervenir el voluntariado, establece los diferentes tipos y modalidades de actividades que puede comprender, y concede una particular importancia a la planificación de actuaciones que, con el carácter de general, constituye el primer instrumento para asegurar la complementariedad, la coordinación y la efectividad.
+A partir de la preocupación por fijar el régimen jurídico de esta actividad y el estatuto que corresponde a quienes en ella intervienen, se determinan las obligaciones, responsabilidades y deberes que corresponden a las entidades y voluntarios, y se regulan, desde una concepción de mínimos, las relaciones entre ellos, a fin de asegurar siempre la totalidad de los derechos que mutuamente les corresponden y de garantizar, desde una consideración preferente, la efectividad de aquellos otros de que son titulares los destinatarios de la acción voluntaria.
+Una atención particular merece la formación de los voluntarios, que ha de integrar acciones de información, de formación en sentido estricto, y de asesoramiento y asistencia permanentes mientras desarrollen su actividad. El aseguramiento de unos contenidos básicos en esta preparación y la posibilidad de la complementariedad con otros específicos, facilitarán un desempeño de los cometidos asumidos con eficacia, seguridad y calidad.
+Conforme con las nuevas manifestaciones de la actividad voluntaria, se amplía la responsabilidad y la contribución de las administraciones públicas en este ámbito, atribuyéndolas además de las funciones de promoción, coordinación, financiación, seguimiento y evaluación, las de planificación específica y ejecución directa de acciones.
+El sistema de inscripción de entidades, hasta ahora disperso por la existencia de una pluralidad de registros –de titularidad regional, provincial y municipal– que asumían idénticas funciones, da paso al establecimiento de un registro único.
+La ley reafirma la importancia de las estructuras de participación y consolida la existencia e importancia del Consejo Regional del Voluntariado de Castilla y León como máximo órgano con funciones de asesoramiento y consulta. Se concede asimismo una particular atención y relevancia a las cuestiones de coordinación, a las que dicho Consejo contribuye, al tiempo que se encomienda a la Junta de Castilla y León la disposición de los instrumentos que faciliten el establecimiento de las políticas generales en esta materia, con lo que se contribuye así a la máxima integración, complementariedad y eficacia de las actuaciones que se aborden desde los distintos ámbitos y sectores de la actividad encomendada a los diferentes departamentos de la Administración de la Comunidad.
+Las disposiciones relativas a las actuaciones de fomento e impulso, y a las de incentivo y apoyo a la actividad voluntaria (centradas éstas en el objetivo exclusivo de facilitar el desarrollo de dicha actividad y alejadas de finalidades de retribución o compensación, extrañas siempre al compromiso altruista) contienen previsiones específicas para procurar la promoción, expansión y racionalización de la participación solidaria.
+Finalmente, la distribución de competencias responde al reconocimiento de una responsabilidad compartida y complementaria, desde sus respectivos ámbitos, por parte de la Administración de la Comunidad de Castilla y León y de las Entidades Locales, lo que no es sino una manifestación más del principio de integralidad y confluencia de esfuerzos que se encuentra en la base de la acción voluntaria en su más actual concepción.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la ley.
+La presente ley tiene por objeto promover, fomentar y ordenar la participación solidaria de los ciudadanos en las actividades organizadas de voluntariado, y regular las relaciones que, con respecto a dichas actividades, puedan establecerse entre las personas voluntarias, las entidades de voluntariado inscritas en el Registro Regional de Entidades de Voluntariado de Castilla y León, los destinatarios de la acción voluntaria y las Administraciones públicas de Castilla y León.
+Igualmente es objeto de esta ley determinar en el territorio de Castilla y León las funciones de las Administraciones públicas de la Comunidad de Castilla y León, en el ámbito de sus respectivas competencias y la cooperación entre ellas.
+Se modifica por la disposición final 1.1 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df-1
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+La presente ley será de aplicación al voluntariado, las personas destinatarias de la acción y las entidades de voluntariado que participen en las actividades de voluntariado realizadas en el territorio de la Comunidad de Castilla y León o que impliquen desarrollo o participación en programas o proyectos concretos de interés general en el ámbito de competencias de dicha Comunidad, con independencia de la titularidad de las entidades que en su caso las lleven a cabo y del lugar donde radique su sede o domicilio social.
+El voluntariado de Protección Civil se regirá en cuanto a su organización, funcionamiento y régimen jurídico por su normativa específica y supletoriamente por lo dispuesto en la presente ley.
+Se modifica por la disposición final 1.2 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 3
+
+Artículo 3. Concepto de voluntariado.
+1. A los efectos de la presente norma, se entiende por voluntariado la participación social organizada de personas físicas en el desarrollo de actividades de interés general a través de las entidades de voluntariado a las que se refiere el capítulo IV de esta ley, siempre que reúna las siguientes condiciones:
+a) Que tenga un carácter solidario, altruista y responsable.
+b) Que se lleve a cabo de forma voluntaria y libre, sin que traiga causa de una obligación personal o de un deber jurídico.
+c) Que se ejecute fuera del ámbito de una relación laboral, profesional, funcionarial, mercantil o de cualquier otro tipo de relación retribuida.
+d) Que se efectúe desinteresadamente, sin ningún tipo de contraprestación económica, sin perjuicio, en su caso, de las compensaciones que legalmente puedan establecerse, con el único objeto de facilitar el desarrollo de la actividad voluntaria y del reembolso de los gastos que esta actividad realizada pudiera ocasionar.
+e) Que se lleve a efecto en función de programas o proyectos concretos, ya sean estos promovidos por cualquiera de las entidades de voluntariado reguladas en la presente ley o, excepcionalmente, por el sector público de Castilla y León.
+Asimismo, también tendrán tal consideración de actividades de voluntariado las que se realicen a través de las tecnologías de la información y comunicación y que no requieran la presencia física de las personas voluntarias en las entidades de voluntariado.
+2. Se considera también voluntariado aquel que es promovido por el sector privado para que personas vinculadas a este participen en acciones de voluntariado, contribuyendo a desarrollar la denominada responsabilidad social de la empresa o institución a la que pertenecen y no formando parte, en ningún caso, de la actividad económica o profesional general de la entidad.
+3. No tendrán la consideración de voluntariado, a efectos de la presente ley, las actividades que sean realizadas de forma espontánea, las que atiendan a razones familiares, de amistad o de buena vecindad, las consideradas como prácticas, aprendizaje o experiencia profesional, las becas con o sin prestación de servicios, y las que sean prestadas al margen de las entidades de voluntariado reguladas en la presente ley.
+Tampoco tendrán la consideración de voluntariado las actividades promovidas por cualquier entidad para la consecución de beneficio económico o intereses propios ni los trabajos de colaboración social a los que se refiere la normativa reguladora de medidas de fomento del empleo, así como las que constituyan ejercicio de funciones directivas o gerenciales en las entidades de voluntariado, salvo cuando quienes las lleven a cabo conserven la condición de personas voluntarias y las desarrollen en tal concepto sin percibir remuneración o contraprestación por ello.
+4. La realización de las actividades de voluntariado no podrá sustituir a las Administraciones públicas en el desarrollo de funciones o en la prestación de servicios públicos a los que esté obligada por ley. Igualmente, de conformidad con lo previsto en la legislación en materia laboral, la actividad de voluntariado no podrá, en ningún caso, sustituir al trabajo remunerado o la prestación de servicios profesionales retribuidos.
+5. El desarrollo de actividades de voluntariado no podrá suponer la sustitución o amortización de puestos de trabajo por cuenta ajena tanto en el ámbito privado como en el público, en especial en aquellos casos en los que la actividad realizada presenta identidad de objeto con las tareas realizadas por las personas voluntarias.
+Se modifica por la disposición final 1.3 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 4
+
+Artículo 4. Fines generales del voluntariado.
+El voluntariado tendrá como fines generales:
+a) Promover la defensa y respeto de los derechos e intereses de las personas.
+b) Contribuir a la igualdad en el ejercicio de dichos derechos y a la eliminación de cualquier tipo de discriminación, violencia, exclusión o marginación que la obstaculicen.
+c) Favorecer la mejora de la calidad de vida, en todos los órdenes, de individuos y grupos.
+d) Fomentar los valores éticos, sociales y culturales que contribuyan a la construcción de una sociedad más solidaria, justa y participativa.
+e) Impulsar los procesos comunitarios y el fortalecimiento de las redes sociales.
+
+### Artículo 5
+
+Artículo 5. Principios rectores.
+El voluntariado en Castilla y León se fundamenta en los siguientes principios rectores:
+a) La libertad como opción personal de compromiso social.
+b) La solidaridad con otras personas o grupos mediante acciones en favor de los demás o de intereses sociales colectivos.
+c) La participación altruista y responsable de los ciudadanos en actividades de interés general, como principio democrático de intervención directa y activa en las necesidades y responsabilidades de la comunidad.
+d) El respeto a la dignidad y a las ideas, creencias y costumbres de cuantas personas participen en la acción voluntaria o la reciban como destinatarios.
+e) La gratuidad del servicio que presta, excluyéndose la búsqueda o aprovechamiento de beneficio material alguno.
+f) La colaboración y complementariedad entre la acción voluntaria y la actividad obligada de las administraciones públicas.
+g) El favorecimiento en lo posible de la realización de las actividades de voluntariado desde la proximidad a los destinatarios, a sus necesidades y a su entorno mediante el fomento de la asunción y desarrollo por las entidades locales de competencias en esta materia.
+h) La sensibilización social sobre la acción voluntaria y la promoción, fomento y reconocimiento de ésta.
+i) La libertad de acción y la independencia de las entidades de voluntariado y de los voluntarios.
+j) El compromiso de quienes intervienen en la acción voluntaria para asegurar su mantenimiento en el tiempo acordado, la calidad de los servicios y actuaciones, y la evaluación de resultados.
+k) La promoción de la defensa del bien común y de los derechos fundamentales recogidos en la Constitución Española, la Declaración Universal de los Derechos Humanos, la Convención de los Derechos del Niño de Naciones Unidas y la Convención de Naciones Unidas sobre derechos de las personas con discapacidad, la Carta de los Derechos Fundamentales de la Unión Europea y la Carta Social Europea.
+l) La no discriminación de las personas voluntarias o las personas destinatarias por razón de nacionalidad, origen cultural o étnico, religión, convicciones ideológicas o sindicales, enfermedad, discapacidad, edad, sexo, identidad sexual, orientación sexual o cualquier otra condición o circunstancia personal y/o social.
+m) La igualdad de oportunidades de mujeres y hombres en todos los ámbitos de actuación del voluntariado.
+n) En general, todos aquellos principios que inspiran la convivencia en una sociedad democrática, justa, solidaria, comprometida, participativa, tolerante y plural.
+Se modifica la letra k) y se añaden las letras l) a n) por la disposición final 1.4 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+## CAPÍTULO II
+
+De la acción voluntaria
+
+### Artículo 6
+
+Artículo 6. La acción voluntaria y las actividades de interés general.
+1. La acción voluntaria constituye la expresión del compromiso solidario de los voluntarios y las entidades de voluntariado en favor de la sociedad en su conjunto, o de personas o grupos, mediante la participación directa y activa en actividades de interés general que redunden en beneficio de la comunidad o sirvan a la defensa de los derechos, a la satisfacción de las necesidades o a la mejora de las condiciones de vida de sus miembros.
+2. A los efectos de la presente ley se consideran actividades de interés general las que contribuyen en cada uno de los ámbitos de actuación de voluntariado a mejorar la calidad de vida y una mayor cohesión y justicia social y cualesquiera otras de análoga naturaleza que, ajustándose a lo dispuesto en la presente ley, puedan contribuir a la consecución de los fines contemplados en el artículo 4.
+En todo caso, y de conformidad con la normativa estatal, se consideran ámbitos de actuación del voluntariado de interés general, al menos, los siguientes:
+a) Voluntariado social, que se desarrolla mediante la intervención con las personas y la realidad social frente a situaciones de vulneración, privación o falta de derechos u oportunidades para alcanzar una mejor calidad de vida y una mayor cohesión y justicia social.
+b) Voluntariado internacional de cooperación para el desarrollo, vinculado tanto a la educación para el desarrollo como parte del proceso educativo y de transformación como a la promoción para el desarrollo en lo relativo a la acción humanitaria y la solidaridad internacional, ya se realice en nuestro país, en países o territorios receptores de cooperación al desarrollo o en cualquier país donde se declare una situación de necesidad humanitaria, sin perjuicio de las actividades realizadas en este ámbito por los cooperantes, que se regirán por la normativa por la que se establece el Estatuto de los cooperantes.
+c) Voluntariado ambiental, que persigue disminuir el impacto negativo de la actuación del ser humano sobre el medio ambiente y poner en valor el patrimonio natural existente, las especies animales y vegetales, los ecosistemas y los recursos naturales realizando, entre otras, acciones de protección y recuperación de la flora y fauna, la biodiversidad natural de los distintos hábitats y la defensa del medio forestal; de conservación y mejora del agua, de los ríos y otros elementos del medio hídrico; del litoral, de las montañas y demás elementos del paisaje natural; de educación y sensibilización medioambiental; de protección de los animales; y cualesquiera otras que contribuyan a proteger, conservar y mejorar el medio ambiente.
+d) Voluntariado cultural, que promueve y defiende el derecho de acceso a la cultura y, en particular, la integración cultural de todas las personas, la promoción y protección de la identidad cultural, la defensa y salvaguarda del patrimonio cultural y la participación en la vida cultural de la comunidad.
+e) Voluntariado deportivo, que contribuye a la cohesión ciudadana y social, sumando los valores propios del voluntariado con aquellos otros inherentes al deporte, apostando decididamente por fomentar la dimensión comunitaria en el desarrollo de la práctica deportiva en cualquiera de sus manifestaciones, incluido el voluntariado en deporte practicado por personas con discapacidad, con particular atención al paralímpico, y por favorecer un mayor y decidido compromiso de quienes practican deporte en la vida asociativa como manera eficaz de promover su educación e inclusión social.
+f) Voluntariado educativo, que como acción solidaria planificada e integrada en el sistema y la comunidad educativa mejore las posibilidades de realización de actividades extraescolares y complementarias contribuyendo, en particular, a compensar las desigualdades que pudieran existir entre los alumnos por diferencias sociales, personales o económicas, mediante la utilización, entre otros, de programas de aprendizaje-servicio.
+g) Voluntariado sociosanitario, en el que se combinan la promoción de la salud, la prevención de la enfermedad, la asistencia sanitaria, la rehabilitación y la atención social que va dirigida al conjunto de la sociedad o a los colectivos en situación de vulnerabilidad y que, mediante una intervención integral y especializada en los aspectos físico, psicológico y social, ofrece apoyo y orientación a las familias y al entorno más cercano, mejorando las condiciones de vida.
+h) Voluntariado de ocio y tiempo libre, que forma y sensibiliza en los principios y valores de la acción voluntaria mediante el desarrollo de actividades en el ámbito de la educación no formal, que fomenten el desarrollo, crecimiento personal y grupal de forma integral, impulsando habilidades, competencias, aptitudes y actitudes en las personas, que favorezcan la solidaridad y la inclusión, y logren el compromiso, la participación y la implicación social.
+i) Voluntariado comunitario, que favorece la mejora de la comunidad y promueve la participación con mayor poder de decisión e iniciativa para resolver los problemas y exigir mayor calidad de vida en los espacios vitales más cercanos donde se desenvuelven las personas voluntarias, vertebrando una sociedad solidaria, activa, crítica, comprometida y corresponsable.
+j) Voluntariado de protección civil, que colabora regularmente en la gestión de las emergencias, en las actuaciones que se determinen por el Sistema Nacional de Protección Civil sin perjuicio del deber de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública, como expresión y medio eficaz de participación ciudadana en la respuesta social a estos fenómenos, en los términos que establezcan las normas aplicables.
+3. Las empresas, otras instituciones privadas o las Administraciones públicas de Castilla y León podrán promover o facilitar, conforme a la legislación aplicable y a la negociación colectiva, la adopción de medidas con la finalidad de que los trabajadores por cuenta ajena y los empleados públicos puedan desarrollar labores de voluntariado.
+Se modifica el apartado 2 y se añade el apartado 3 por la disposición final 1.5 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 7
+
+Artículo 7. Tipos de actividades.
+La acción voluntaria podrá llevarse a cabo mediante alguna de las siguientes actividades:
+a) Las de detección, conocimiento y evaluación de las necesidades sociales existentes o previsibles.
+b) Las de promoción y defensa de derechos individuales y colectivos.
+c) Las de información y sensibilización social en torno a las necesidades y derechos mencionados en las letras anteriores, y sobre las medidas y actuaciones precisas para asegurar su cobertura y ejercicio.
+d) Las de divulgación y educación sobre valores de solidaridad, respeto, tolerancia y cooperación.
+e) Las de fomento de la iniciativa social y el asociacionismo para canalizar la participación ciudadana solidaria.
+f) Las de intervención directa o de colaboración, complementarias a la acción de las diferentes instancias y profesionales respectivamente competentes, en la prevención y resolución de problemas o en la satisfacción de necesidades en las diferentes áreas de actividad de interés general contempladas en el artículo 6.2 de la presente ley.
+g) Cualesquiera otras que, con ajuste a los principios y normas establecidos en la presente ley, sirvan a la consecución de los fines que la misma contempla.
+La acción voluntaria podrá realizarse a través de las nuevas tecnologías de la información y la comunicación.
+Se añade el último párrafo por la disposición final 1.6 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 8
+
+Artículo 8. Planificación de actividades.
+1. Con el fin de conseguir la mayor eficacia en la acción, las actividades de voluntariado que hayan de realizarse en desarrollo de las políticas públicas en relación con las materias reguladas en la presente ley se ordenarán mediante la planificación regional, de carácter general, y la planificación específica.
+2. La planificación regional, de periodicidad cuatrienal, contendrá:
+a) El análisis de necesidades.
+b) Las líneas de actuación preferente.
+c) La coordinación general de las políticas públicas en esta materia.
+d) Las actuaciones a llevar a cabo conjuntamente por las administraciones de la Comunidad de Castilla y León y las demás entidades de voluntariado.
+e) Las acciones para la sensibilización social y el fomento del voluntariado.
+f) Las medidas para instrumentar la colaboración entre todas las instancias y agentes.
+g) Los sistemas de seguimiento de las actividades planificadas y de evaluación de resultados.
+3. La planificación específica estará constituida por los planes que, en el marco y en desarrollo de la planificación regional, puedan aprobar los distintos departamentos de la Administración de la Comunidad o las Entidades Locales competentes en esta materia para ordenar y concretar las acciones de voluntariado en el sector de actividad y ámbito territorial que, respectivamente, les corresponda.
+
+### Artículo 9
+
+Artículo 9. Programas y proyectos.
+1. Todas las actividades de voluntariado habrán de organizarse en programas o proyectos.
+2. Son programas o proyectos de voluntariado los específicamente elaborados y gestionados por las entidades de voluntariado para articular la acción voluntaria en relación con las actividades de interés general contempladas en el artículo 6.2 de la presente ley.
+3. Todo programa o proyecto de voluntariado expresará su denominación, la identificación de su responsable, el sector de actividad de interés general al que se refiera, los fines y objetivos que proponga, el ámbito territorial que abarque, la duración prevista para su ejecución, la descripción de las actividades que comprenda, el número de voluntarios considerado y la cualificación o formación que se entienda exigible para ellos según los cometidos, así como los medios y recursos precisos para llevarlo a cabo, y los mecanismos de control, seguimiento y evaluación.
+4. Todos los programas y proyectos de voluntariado serán objeto de un adecuado seguimiento y evaluación por la entidad que los promueva.
+
+### Artículo 10
+
+Artículo 10. Atención en la planificación y programación a las distintas modalidades de actuación.
+Al objeto de procurar la mayor participación, la máxima eficiencia y la diversificación en la acción voluntaria, la planificación y programación de actividades contemplará el fomento, implantación, integración o apoyo de toda modalidad de actuación que sirva a los fines de esta ley.
+A estos efectos, se considerarán especialmente para su calificación como actividades de voluntariado aquellas que incidan simultáneamente en varios de los ámbitos de voluntariado contemplados en el artículo 6.2, las actividades de voluntariado desarrolladas mediante el empleo de las nuevas tecnologías, el voluntariado familiar en el que participan conjuntamente los distintos miembros de la familia, las actividades de estudio e investigación en esta materia, el voluntariado en el que participen personas de distintas generaciones y cualesquiera otras modalidades de actuación que puedan facilitar la expresión y canalización del compromiso solidario.
+Se modifica por la disposición final 1.7 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+## CAPÍTULO III
+
+De los voluntarios y su estatuto
+
+### Artículo 11
+
+Artículo 11. Concepto de voluntario.
+1. A los efectos de esta ley, tendrá la consideración de voluntario la persona física que, en virtud de su decisión personal libre y altruista, participe en cualquier actividad de voluntariado a través de una entidad de voluntariado y en las condiciones que establece el artículo 3.
+2. En el marco de la legislación básica estatal, los menores de edad podrán tener la condición de personas voluntarias siempre que se respete su interés superior, de acuerdo con lo previsto en la legislación de aplicación, y cumplan los siguientes requisitos:
+a) Los mayores de 16 y menores de 18 años deberán contar con el consentimiento de sus progenitores, tutores o representantes legales.
+b) Los menores de 16 años y mayores de 12 podrán llevar a cabo acciones de voluntariado si cuentan con la autorización expresa de sus progenitores, tutores o representantes legales, en la que se valorará si aquellas perjudican o no su desarrollo y formación integral.
+3. En el marco de la legislación básica estatal, están incursos en prohibición para poder ser personas voluntarias aquellas que tengan antecedentes penales no cancelados por la comisión de delitos de violencia doméstica o de género; por atentar contra la vida, la integridad física, la libertad, la integridad moral o la libertad e indemnidad sexual del otro cónyuge o de los hijos; por delitos de tráfico ilegal o de inmigración clandestina de personas, o por delitos de terrorismo en programas dirigidos a personas que hayan sido o puedan ser víctimas de estos delitos.
+Deberá acreditarse no incurrir en causa de esta prohibición mediante la aportación del certificado sobre ausencia de antecedentes penales o, en su defecto, una declaración responsable sobre la ausencia de antecedentes penales en la que, además, la persona voluntaria autorice a la entidad de voluntariado la obtención del correspondiente certificado del registro central de penados.
+Igualmente están incursos en prohibición para adquirir la condición de persona voluntaria que quiera ejercer su acción de voluntariado en entidades que habitualmente desarrollen su actividad con menores cuando tengan antecedentes de condenas por sentencia firme por delitos contra la libertad e indemnidad sexual, que incluye, entre otros, agresión y abuso sexual, acoso sexual, exhibicionismo y provocación sexual, prostitución y explotación sexual y corrupción de menores, así como trata y explotación de menores.
+Deberá acreditarse la ausencia de la causa de prohibición mediante la aportación de certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos.
+4. Las Administraciones públicas de Castilla y León promoverán programas y protocolos de buenas prácticas de la actividad voluntaria de las personas mayores en el marco de su envejecimiento activo, fijando los criterios que pueden servir de guía para la promoción del voluntariado de forma sostenible y continuada, así como las acciones de sensibilización dirigidas a la sociedad y a las organizaciones de personas mayores para fomentar su implicación y establecer las diversas formas de colaboración intergeneracional entre las entidades de voluntariado.
+Se promocionará la realización de acciones de información y sensibilización dirigidas a aquellas personas próximas a la edad de jubilación para que, cuando se encuentren en dicha situación, puedan realizar acciones de voluntariado como parte de su proceso de optimización de las oportunidades de salud, participación y seguridad en orden a la mejora de su calidad de vida.
+5. Las Administraciones públicas de Castilla y León promoverán con las entidades de voluntariado que las personas con discapacidad se conviertan en agentes activos, ejecutores de la acción voluntaria como manifestación de su derecho a la vida independiente, y participen en los asuntos públicos reconocidos en la normativa sobre derechos de las personas con discapacidad y de su inclusión social.
+Se fomentará el ejercicio de las actividades de voluntariado por personas con discapacidad con plena independencia y autonomía, haciendo uso de sus capacidades diversas y sin restricción alguna por parte del contexto, del entorno o de la actividad a desarrollar conforme a los principios de igualdad de oportunidades, no discriminación y accesibilidad universal.
+6. El ejercicio de actividades de voluntariado podrá ser llevado a cabo por personas que estén cumpliendo condena por delitos que no les hagan estar incursos en causa de prohibición para ser persona voluntaria y que tengan concedida la libertad condicional, o que estén cumpliendo medidas alternativas a la pena de prisión, siempre que participen a través de entidades de voluntariado que cuenten con programas con características especiales que tengan como objetivo preferente la reinserción social de penados.
+Se modifica el apartado 2 y se añaden los apartados 3 a 6 por la disposición final 1.8 de la por Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 12
+
+Artículo 12. Derechos de los voluntarios.
+Los voluntarios tienen derecho a:
+a) Ser orientados e informados, tanto inicial como permanentemente, sobre las actividades de voluntariado en que puedan participar, sobre la adecuación de las mismas a sus aptitudes y condiciones, y sobre los fines, estructura, organización y funcionamiento de las entidades en las que se integren.
+Los voluntarios que participen en actividades de cooperación al desarrollo deberán ser informados, además, sobre las condiciones especiales en que haya de llevarse a cabo su actuación, sobre la legislación del país en el que deba desarrollarse y sobre los derechos y deberes que puedan corresponderles en virtud de lo que dispongan los acuerdos internacionales suscritos por España.
+b) Recibir de la entidad en la que se integren la formación, el asesoramiento y apoyo técnico, así como los medios materiales que requiera el ejercicio de las actividades y cometidos que se les asignen.
+c) Ser tratados sin ningún tipo de discriminación, respetando su libertad, dignidad, intimidad y creencias.
+d) Participar activamente en la entidad en la que se integren, colaborando en la elaboración, diseño, ejecución y evaluación de los programas en los que participen, de acuerdo con sus estatutos o normas de aplicación y, en la medida que estas lo permitan, en el gobierno y administración de la entidad de voluntariado.
+e) Acordar libremente con la entidad en la que se integren el contenido y condiciones de su actividad voluntaria, el ámbito de actuación, la definición de los cometidos, el tiempo de dedicación, el lugar de desempeño y las responsabilidades a asumir, así como los cambios que en relación con dichos aspectos puedan posteriormente justificarse, sin que en ningún caso puedan ser asignados a la ejecución de tareas ajenas a los fines y naturaleza de los programas o proyectos en que participen.
+f) Desempeñar sus cometidos sin interferencias que excedan de la colaboración comprometida.
+g) Desarrollar la actividad voluntaria en las condiciones de seguridad y salud que su naturaleza y características reclamen.
+h) Disponer de la acreditación identificativa de su condición de voluntario a que se refiere el artículo 21 de la presente ley.
+i) Ser asegurados contra los riesgos de accidente y enfermedad, así como por daños y perjuicios causados a terceros, derivados directamente de su actividad voluntaria.
+j) Ser reembolsados o compensados, salvo renuncia, por los gastos realizados en el desempeño de sus actividades como voluntarios en los términos previamente acordados con la entidad en la que se integren.
+k) Obtener certificación de la actividad voluntaria desarrollada, en la que se expresen, al menos, su naturaleza y las fechas en que haya tenido lugar.
+l) Renunciar libremente, previo aviso, a su condición de voluntarios.
+m) Recibir el respeto y el reconocimiento por su contribución social, y acceder a los incentivos y apoyos que la normativa pueda prever para facilitar el desarrollo de la actividad voluntaria.
+n) Que sus datos de carácter personal sean tratados de acuerdo con lo establecido en la normativa reguladora sobre protección de datos de carácter personal.
+o) Cualesquiera otros reconocidos en la presente ley y en el resto del ordenamiento jurídico.
+Se modifican las letras d), n) y se añade la letra o) por la disposición final 1.9 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 13
+
+Artículo 13. Deberes de los voluntarios.
+Los voluntarios están obligados a:
+a) Cumplir los compromisos adquiridos con la entidad en la que se integren, respetando los fines y la normativa de ésta.
+b) Realizar su actividad voluntaria de conformidad con las normas y principios establecidos en la presente ley, y colaborar con la entidad en la que participen y con el resto de voluntarios en la consecución de la mayor eficacia y calidad.
+c) Seguir las instrucciones que, adecuadas a los fines de las actividades y cometidos asignados, les sean impartidas para su desempeño, someterse a la supervisión de los responsables del programa y observar las medidas de seguridad e higiene que se adopten.
+d) Guardar la debida confidencialidad sobre la información recibida y conocida en el desarrollo de su actividad voluntaria.
+e) Rechazar cualquier contraprestación material que pudieran recibir por la actividad voluntaria desarrollada.
+f) Respetar los derechos de las personas destinatarias de su actividad voluntaria y de las demás personas voluntarias con las que colaboren.
+g) Actuar de forma diligente, coordinada, responsable y solidaria en el desarrollo de la actividad voluntaria.
+h) Participar en las actividades formativas que se entiendan necesarias para un desempeño adecuado de las concretas actividades y cometidos asignados.
+i) Utilizar debidamente la acreditación identificativa y los distintivos de la entidad en la que se integren, y devolverlos a ésta cuando finalicen su actividad.
+j) Cuidar y hacer buen uso de los recursos materiales que ponga a su disposición la entidad.
+k) Notificar a la entidad la renuncia con la antelación previamente acordada, procurando evitar perjuicios para la actividad en la que participen.
+l) De conformidad con lo previsto en la normativa estatal de aplicación, la persona voluntaria que habitualmente desarrolle su actividad con menores en su acción de voluntariado está obligada a presentar un certificado del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos o a facilitar su obtención a su entidad de voluntariado y/o a las Administraciones competentes, en el que conste la ausencia de antecedentes de condenas por sentencia firme por delitos contra la libertad e indemnidad sexual, que incluye entre otros agresión y abuso sexual, acoso sexual, exhibicionismo y provocación sexual, prostitución y explotación sexual y corrupción de menores, así como trata y explotación de menores.
+De conformidad con lo dispuesto en la normativa estatal reguladora de esta materia, las personas extranjeras deberán aportar, además de la certificación negativa del Registro Central de Delincuentes Sexuales, una certificación negativa de condenas penales expedida por las autoridades de su país de origen, de donde sean nacionales, o del último en que hubiesen residido, mediante documento oficial con traducción jurada, respecto a los delitos recogidos en la Ley Orgánica de Protección Jurídica del Menor. Si no existiese un registro equivalente o que desarrolle las funciones del Registro Central de Delincuentes Sexuales, se aportará un certificado de buena conducta expedido por la delegación diplomática de su país o de su último lugar de residencia. En caso de que no sea considerado como nacional suyo por ningún Estado conforme a su legislación, manifieste carecer de nacionalidad o no pueda acogerse a su nacionalidad, la entidad de voluntariado deberá certificar dicha condición.
+m) Aportar la declaración responsable de no tener antecedentes penales no cancelados a que se refiere el artículo 11.3 de esta ley.
+n) Los demás deberes establecidos por la presente ley y el resto del ordenamiento jurídico.
+Se modifican las letras f), l) y se añaden las letras m) y n) por la disposición final 1.10 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+## CAPÍTULO IV
+
+De las entidades de voluntariado
+
+### Artículo 14
+
+Artículo 14. Concepto de entidades de voluntariado.
+1. A los efectos de esta ley, y sin perjuicio del cumplimiento de los requisitos establecidos al efecto en la legislación básica estatal, tendrán la consideración de entidades de voluntariado aquellas entidades sin ánimo de lucro que estén legalmente constituidas y dotadas de personalidad jurídica propia, inscritas en el Registro Regional de Entidades de Voluntariado de Castilla y León, que desarrollen programas o proyectos de las actividades de interés general contempladas en el artículo 6.2., de manera organizada y estable, a través de la participación de personas voluntarias, en las condiciones determinadas en el artículo 3 de la presente norma. Excepcionalmente, tendrán la consideración de entidades de voluntariado las entidades públicas para el desarrollo de actividades de voluntariado de interés general.
+2. Tendrán también la condición de entidades de voluntariado las federaciones, confederaciones, uniones u otras formas asociativas de entidades de voluntariado constituidas conforme a esta ley, cuyo ámbito territorial sea el de la Comunidad de Castilla y León o parte de la misma, o el de sus entidades locales o parte de las mismas.
+Se modifica por la disposición final 1.11 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 15
+
+Artículo 15. Registro Regional de Entidades de Voluntariado de Castilla y León.
+1. Para ser oficialmente reconocidas, poder recibir subvenciones y ayudas de las administraciones públicas de Castilla y León y poder suscribir convenios con éstas, las entidades de voluntariado que desarrollen sus actividades en esta Comunidad habrán de estar inscritas en el Registro Regional de Entidades de Voluntariado de Castilla y León.
+2. El Registro Regional de Entidades de Voluntariado de Castilla y León, que será único, público y gratuito, y asumirá las funciones de calificación, inscripción y certificación, estará adscrito a la Consejería a la que vengan atribuidas las competencias de fomento y coordinación en materia de voluntariado.
+3. La inscripción registral deberá ser instada por la entidad interesada mediante solicitud.
+4. Procederá la cancelación de la inscripción registral, cesando en sus efectos el reconocimiento oficial que la misma conlleva, cuando conste petición expresa de la entidad en tal sentido, así como en los casos de pérdida de la condición de entidad de voluntariado contemplados en el artículo 18 de la presente ley.
+5. La organización y funcionamiento del Registro Regional de Entidades de Voluntariado de Castilla y León se determinarán reglamentariamente.
+
+### Artículo 16
+
+Artículo 16. Derechos de las entidades de voluntariado.
+Las entidades de voluntariado tienen derecho a:
+a) Obtener el respeto y el reconocimiento de la sociedad por la labor que realizan.
+b) Elaborar sus normas de funcionamiento interno en relación con la actividad de voluntariado que desarrollen. Dichas normas deberán adaptarse a lo dispuesto en la presente ley.
+c) Seleccionar a los voluntarios atendiendo a la naturaleza y características de las actividades a realizar y de acuerdo con las normas a que hace referencia la letra anterior.
+d) Seleccionar a las personas voluntarias, sin discriminación alguna por razón de sexo, identidad sexual, orientación sexual, nacionalidad, origen cultural o étnico, religión, convicciones ideológicas o sindicales, discapacidad, edad, o cualquier otra condición o circunstancia personal o social, de acuerdo con los fines u objetivos de la entidad, la naturaleza y características del cometido a desarrollar y las normas establecidas en su estatuto de funcionamiento interno.
+e) Suspender la colaboración de las personas voluntarias que infrinjan su compromiso de colaboración o acordar la pérdida de su condición de voluntarios en los casos previstos en el artículo 24 de la presente ley.
+f) Participar, preferentemente, a través de federaciones, confederaciones o uniones de entidades de voluntariado, en el diseño, elaboración y seguimiento de las políticas públicas de Administraciones públicas de Castilla y León, así como en su ejecución, sin que esto pueda suponer, en ningún caso, la elusión de las responsabilidades públicas en la prestación de servicios.
+g) Los demás reconocidos por ley o norma de derecho comunitario europeo.
+Se modifican las letras d), f) y se añade la letra g) por la disposición final 1.12 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 17
+
+Artículo 17. Obligaciones de las entidades de voluntariado.
+1. Las entidades de voluntariado están obligadas a:
+a) Acomodar su organización y funcionamiento a principios participativos.
+b) Elaborar y aprobar los programas o proyectos de voluntariado que pretendan desarrollar, las condiciones específicas de admisión y pérdida de la condición de los voluntarios, los derechos y deberes de éstos conforme a lo establecido en la presente ley, los mecanismos para su participación en la entidad y los principios que han de regir las relaciones entre esta y aquellos.
+c) Cumplir los compromisos adquiridos con las personas voluntarias en el acuerdo de incorporación a sus programas o proyectos, previsto en el artículo 19 de la presente ley.
+d) Facilitar el ejercicio de los derechos que esta ley reconoce a la persona voluntaria y a la persona destinataria de la acción de voluntariado.
+e) Cubrir los gastos derivados de la prestación del servicio y dotar a las personas voluntarias de los medios adecuados para el cumplimiento de sus cometidos.
+f) Informar, orientar, formar y asesorar adecuadamente a las personas voluntarias que colaboren con la entidad para conseguir la mayor eficacia en su actividad.
+g) Garantizar las debidas condiciones de seguridad e higiene en la realización de las actividades, instruyendo al efecto a las personas voluntarias.
+h) Facilitar la participación de las personas voluntarias en la elaboración, ejecución y evaluación de los programas y actividades en que intervengan.
+i) Facilitar a las personas voluntarias la documentación que les acredite e identifique para el desarrollo de su actividad.
+j) Llevar un libro de registro interno de altas, bajas y otras incidencias en que se encuentren las personas voluntarias, acreditativo de los programas o proyectos en los que colaboren y de la naturaleza de las actividades desarrolladas.
+k) Suscribir una póliza de seguros u otro tipo de garantía financiera que cubra a las personas voluntarias de los riesgos de accidente o enfermedad derivados del desarrollo de la actividad voluntaria, así como a terceros por los daños y perjuicios causados por los voluntarios en el ejercicio de dicha actividad.
+l) Expedir, a solicitud de la persona voluntaria, un certificado que acredite la colaboración prestada, en el que constarán, además de los datos de identificación de este y de la entidad, la fecha, duración y naturaleza de las actividades en las que haya participado.
+m) Efectuar el seguimiento y evaluación periódicos de los programas o proyectos que desarrollen.
+n) Exigir el consentimiento o en su caso autorización expresa y por escrito de los padres, tutores o representantes legales de las personas voluntarias menores de edad en las condiciones establecidas en el artículo 11.
+ñ) Cumplir la normativa de aplicación respecto al tratamiento y protección de datos de carácter personal de las personas voluntarias y de las personas destinatarias de las actividades de voluntariado.
+o) Cumplir las demás obligaciones establecidas por ley o norma de derecho comunitario europeo.
+2. Las entidades de voluntariado deberán garantizar el derecho a la igualdad de oportunidades y a la accesibilidad universal de las personas voluntarias mayores, con discapacidad o en situación de dependencia, de manera que puedan ejercer, en igualdad de condiciones respecto del resto de los voluntarios, los derechos y deberes que les correspondan de acuerdo con esta ley, erradicando cualquier posible forma de discriminación.
+En estos casos, el consentimiento para su incorporación a la entidad de voluntariado, la información y formación, y las actividades que se le encomienden se deberán llevar a cabo en formatos adecuados y de acuerdo con sus capacidades y circunstancias personales, siguiendo las pautas marcadas por los principios de accesibilidad universal y diseño para todos, de manera que les resulten accesibles, usables y comprensibles.
+3. Sin perjuicio de lo dispuesto en el artículo 13, las entidades de voluntariado podrán desarrollar programas de voluntariado en los que se contemplen los objetivos de reinserción de personas con antecedentes penales no caducados a través de la acción voluntaria. En este caso la entidad reflejará en el propio programa del voluntario las características especiales del mismo.
+Se modifica por la disposición final 1.13 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 18
+
+Artículo 18. Pérdida de la condición de entidad de voluntariado.
+Serán causas de la pérdida de la condición de entidad de voluntariado:
+a) La extinción de su personalidad jurídica.
+b) El incumplimiento de sus fines en el ámbito de la acción voluntaria o de las obligaciones establecidas en la presente ley o en las disposiciones que se dicten para su desarrollo.
+c) La promoción con fin de lucro de actividades consideradas de voluntariado o la utilización de remuneraciones o contraprestaciones de cualquier tipo, manifiestas o encubiertas, para compensar actividades de tal consideración.
+
+## CAPÍTULO V
+
+De las relaciones entre los voluntarios y las entidades de voluntariado
+
+### Artículo 19
+
+Artículo 19. Incorporación de voluntarios y compromiso de colaboración.
+La incorporación de las personas voluntarias a las entidades de voluntariado se formalizará por escrito mediante el correspondiente acuerdo o compromiso de colaboración, que tendrá, como mínimo, el contenido siguiente:
+a) La determinación del carácter altruista de la relación que se acuerde y de la actividad que se comprometa.
+b) La expresión del sometimiento a la presente ley como marco regulador básico de la acción voluntaria.
+c) El conjunto de derechos y deberes que corresponden a ambas partes, respetando en todo caso lo dispuesto en la presente ley, que incluirán el régimen de gastos reembolsables a las personas voluntarias que se les puedan generar en la acción voluntaria que desarrollen.
+d) La referencia a los fines y regulación de la entidad en relación con las actividades de voluntariado.
+e) El contenido y condiciones de las actividades que la persona voluntaria se compromete a realizar, así como los cometidos y responsabilidades, el tiempo de dedicación y el lugar de desempeño que se acuerden.
+f) El proceso de formación que se requiera para el adecuado cumplimiento de las actividades y cometidos asignados.
+g) La duración del compromiso y la forma en que ha de plantearse, en su caso, la renuncia por la persona voluntaria, su exclusión por la entidad o la desvinculación de esta, el cambio de adscripción o modificaciones del régimen de actuación.
+h) Régimen para dirimir los conflictos entre el voluntariado y la entidad.
+2. Al acuerdo de incorporación deberán acompañarse los siguientes documentos:
+a) La certificación negativa del registro de antecedentes penales o del Registro Central de Delincuentes Sexuales, en el caso de programas de voluntariado cuyo ejercicio conlleve el contacto directo y regular con menores.
+b) En el caso de programas de voluntariado diseñados para atender a personas que hayan sido víctimas de violencia de género, violencia doméstica, atentados contra su vida, su integridad física, su libertad, integridad moral, tráfico ilegal o inmigración clandestina de personas o por delitos de terrorismo, la declaración responsable de la persona voluntaria de no tener antecedentes penales por estos delitos, que podrá incorporarse como una cláusula más al contenido del acuerdo.
+c) El documento o documentos donde conste el consentimiento de los padres, tutores o representante legales, según los casos, en el supuesto de personas voluntarias menores de edad.
+3. El acuerdo de incorporación deberá formalizarse por escrito en duplicado ejemplar e incorporarse a un Libro-Registro o soporte electrónico o similar, que se gestionará directamente por la entidad de voluntariado, la cual deberá mantenerlo actualizado en todo momento cumpliendo las previsiones en la normativa vigente de protección datos de carácter personal. Se podrán utilizar formatos electrónicos que permitan un trámite rápido y adaptado a las nuevas tecnologías de la comunicación.
+Se modifica por la disposición final 1.14 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 20
+
+Artículo 20. Incompatibilidades.
+1. La condición de voluntario es incompatible con el desempeño de cualquier actividad sujeta a retribución económica por la misma entidad de voluntariado en la que se integre y cuya naturaleza, contenido u objeto pueda tener relación con los propios de la actividad voluntaria.
+2. La condición de voluntario es en todo caso compatible con la de socio o miembro de la entidad que desarrolle actividades de voluntariado.
+
+### Artículo 21
+
+Artículo 21. Acreditación identificativa.
+La acreditación de la condición de voluntario será expedida por la entidad de voluntariado y contendrá, como mínimo, los datos personales e identificativos de aquel y ésta, y la denominación del programa o programas en que desarrolle la actividad voluntaria.
+
+### Artículo 22
+
+Artículo 22. Responsabilidad extracontractual frente a terceros.
+Las entidades de voluntariado responderán frente a terceros por los daños y perjuicios causados por las personas voluntarias que participen en sus programas como consecuencia de los cometidos que a estos les hayan sido asignados, todo ello de conformidad con la normativa que en cada caso resulte aplicable, en razón de la condición privada o pública de la entidad de voluntariado de que se trate, debiéndose suscribir a tal efecto una póliza de seguro u otro tipo de garantía financiera que cubra la responsabilidad civil.
+Se modifica por la disposición final 1.15 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 23
+
+Artículo 23. Régimen jurídico aplicable a la resolución de conflictos.
+Los conflictos que puedan surgir entre las personas voluntarias y las entidades de voluntariado en el ejercicio de las actividades a que hace referencia la presente ley serán dirimidos por la vía arbitral o por la mediación, de conformidad con su normativa reguladora, si así se ha pactado en el acuerdo de incorporación a la entidad de voluntariado. En defecto de pacto, se hará por la jurisdicción competente de acuerdo con lo establecido en la normativa vigente.
+Se modifica por la disposición final 1.16 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 24
+
+Artículo 24. Pérdida de la condición de voluntario.
+Toda entidad de voluntariado especificará en sus normas relativas a la actividad de voluntariado las causas que determinen la exclusión de las personas integradas en ella como voluntarios y la pérdida de esta condición.
+Tendrán en todo caso dicho efecto la inobservancia de las previsiones contenidas en la presente ley, particularmente de los deberes contemplados en el artículo 13, la actuación contraria a los principios y fines que la misma proclama, o el incumplimiento de los compromisos libremente acordados con la entidad en la que se integre, cuando sean graves o reiterados, y no justificados.
+Los procedimientos para acordar la exclusión asegurarán siempre la audiencia del interesado.
+
+## CAPÍTULO VI
+
+De los destinatarios de la acción voluntaria
+
+### Artículo 25
+
+Artículo 25. Concepto de destinatario de la acción voluntaria.
+1. A los efectos de esta ley, tendrán la consideración de destinatarios las personas físicas o los grupos o comunidades en que se integran, para los que el desarrollo de la acción voluntaria represente beneficio, o suponga o pretenda la defensa de sus derechos, la mejora de sus condiciones o la satisfacción de sus necesidades.
+2. Cuando los programas o proyectos de voluntariado contemplen, para la definición de sus fines y objetivos, circunstancias o condiciones referibles a las personas en su consideración individual, cualquiera de éstas en la que dichas circunstancias o condiciones concurran tendrá derecho a ser destinatario de la acción voluntaria, sin que pueda ser discriminada por razón alguna.
+
+### Artículo 26
+
+Artículo 26. Derechos de los destinatarios de la acción voluntaria.
+Los destinatarios de la acción voluntaria tienen los siguientes derechos:
+a) A que en el desarrollo de la acción voluntaria se respeten su dignidad, su intimidad personal y familiar, y sus creencias.
+b) A que la acción voluntaria sea desarrollada de acuerdo con programas o proyectos que garanticen la calidad de las actuaciones y la consecución de sus objetivos, particularmente cuando éstas supongan servicios o prestaciones personales.
+c) A recibir información sobre los programas o proyectos, y sobre las actuaciones de las que sean destinatarios, tanto con carácter previo a su inicio, como durante su ejecución.
+d) A colaborar en la evaluación de la acción voluntaria a ellos dirigida.
+e) A rechazar la acción voluntaria o prescindir, en cualquier caso y momento, de los servicios, prestaciones o actuaciones que integren un programa o proyecto.
+f) Que sus datos de carácter personal sean tratados y protegidos de acuerdo con lo establecido en la normativa reguladora de la protección de datos.
+g) Los demás derechos establecidos por ley o por norma de derecho comunitario europeo.
+Se modifica la letra f) y se añade la letra g) por la disposición final 1.17 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 27
+
+Artículo 27. Deberes de los destinatarios de la acción voluntaria.
+Cuando la actividad voluntaria se dirija a destinatarios individualizados, éstos, al aceptarla, asumirán los siguientes deberes:
+a) Colaborar con los voluntarios, respetarlos y facilitar su labor.
+b) No solicitar o aceptar trato de preferencia en el desarrollo de la acción voluntaria.
+c) No ofrecer a los voluntarios o entidades compensación económica o material por la acción voluntaria.
+d) Observar las instrucciones que en aspectos técnicos y de seguridad e higiene se establezcan para el adecuado desarrollo de la acción voluntaria.
+e) En caso de rechazar la acción voluntaria o prescindir de los servicios, prestaciones o actuaciones que integren un proyecto o programa, notificarlo a la entidad de voluntariado en la forma y con la antelación que al efecto se determinen.
+f) Los demás deberes establecidos por la presente ley o por el resto del ordenamiento jurídico.
+
+### Artículo 28
+
+Artículo 28. Relaciones de los destinatarios de la acción voluntaria con las entidades y voluntarios.
+1. Los destinatarios de la acción voluntaria podrán solicitar y obtener de la respectiva entidad la sustitución de los voluntarios que les haya asignado, cuando existan razones que lo justifiquen y siempre que lo permitan las circunstancias de aquella.
+2. Igualmente podrán solicitar la intervención de la respectiva entidad de voluntariado para la resolución de las cuestiones o conflictos surgidos con los voluntarios integrados en la misma.
+
+## CAPÍTULO VII
+
+Del fomento del voluntariado
+
+### Artículo 29
+
+Artículo 29. Divulgación y promoción del voluntariado.
+1. Las administraciones públicas de Castilla y León con competencias en materia de voluntariado impulsarán y desarrollarán, en su respectivo ámbito, las acciones necesarias para difundir los valores de solidaridad y altruismo que inspiran la acción voluntaria, para sensibilizar a la sociedad sobre la importancia e interés social de las actividades organizadas que constituyen su expresión, y para promover la participación en éstas de los ciudadanos.
+2. Las entidades de voluntariado podrán igualmente desarrollar acciones de divulgación y promoción a los fines referidos en este artículo.
+3. Las empresas podrán promover y participar en programas de voluntariado, siempre que sus actuaciones puedan calificarse de interés general, se incluyan en alguno de los ámbitos de actuación del voluntariado, y respeten los principios y valores que inspiran la acción de voluntariado. Las actuaciones de voluntariado de las empresas podrán realizarse mediante la incorporación de los trabajadores que decidan de forma libre y voluntaria participar como personas voluntarias en programas promovidos por entidades de voluntariado en colaboración con la empresa.
+4. Las universidades podrán promover el voluntariado en los ámbitos de actuación que le son propios, como la formación, la investigación y la sensibilización, y conforme a su normativa reguladora podrán establecer fórmulas de reconocimiento académico de las acciones de voluntariado realizadas por sus estudiantes.
+Se modifica el apartado 2 y se añaden los apartados 3 y 4 por la disposición final 1.18 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 30
+
+Artículo 30. Acciones de información, formación y asesoramiento.
+1. Al objeto de propiciar la mayor eficacia de la acción voluntaria, las Administraciones públicas de Castilla y León, en el ámbito de sus respectivas competencias:
+a) Pondrán a disposición de los ciudadanos y de las entidades, y facilitarán a los interesados, directamente o a través de las entidades de voluntariado, la información general y específica que les permita comprometer libre y responsablemente su participación en la acción voluntaria.
+b) Promocionarán y fomentarán la participación social de la ciudadanía a través de entidades de voluntariado.
+c) Determinarán, en coordinación con las entidades de voluntariado, la formación básica que dichas entidades hayan de proporcionar, junto a la complementaria que estas entiendan necesaria, a quienes se integren en ellas como personas voluntarias.
+d) Facilitarán a estas el asesoramiento y asistencia técnica precisos para el desarrollo de sus actividades.
+2. La Administración de la Comunidad, a través de la Consejería competente en materia de voluntariado, con el fin de facilitar la información y acceso al voluntariado, creará una sección dentro del Registro Regional de Entidades de Voluntariado de Castilla y León dedicada a las personas voluntarias y sus preferencias, siendo su inscripción potestativa para la persona interesada, y debiendo respetar la normativa en materia de protección de datos.
+Se modifica por la disposición final 1.19 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 31
+
+Artículo 31. Acciones específicas de fomento e impulso.
+Las administraciones públicas de Castilla y León, por sí o en colaboración con las demás entidades de voluntariado, desarrollarán, en el ámbito de sus respectivas competencias, las siguientes acciones específicas para el fomento e impulso del voluntariado:
+a) Potenciarán especialmente los programas o proyectos de voluntariado que supongan acciones integrales, complementarias de otras intervenciones o coordinadas con ellas, que favorezcan la colaboración entre entidades o los objetivos marcados por la normativa aplicable en cada caso. En el caso del voluntariado social, se buscará la actuación coordinada en el sistema de servicios sociales de responsabilidad pública, según lo definido por la planificación estratégica de servicios sociales.
+b) Dispondrán los mecanismos necesarios para garantizar la debida coordinación de todos los programas y proyectos de voluntariado, asegurando su seguimiento y evaluación.
+c) Simplificarán y agilizarán los procedimientos administrativos que afecten a la acción voluntaria.
+d) Favorecerán el movimiento asociativo en el ámbito del voluntariado, contribuyendo a su pluralismo, y facilitando la participación y la interlocución.
+e) Apoyarán la participación o integración de las entidades de voluntariado en programas o proyectos de ámbito superior al regional.
+f) Promoverán las actividades de estudio e investigación que contribuyan al mejor conocimiento de las necesidades, los recursos y las actuaciones en materia de voluntariado.
+g) Favorecerán la formación en los principios y valores del voluntariado en todas las etapas, ciclos, grados y niveles del sistema educativo.
+h) Cooperarán con las entidades de voluntariado, federaciones, confederaciones y uniones de entidades de voluntariado para la creación de un sistema de información común que, como herramienta compartida, permita fijar criterios comunes de diagnóstico, seguimiento y evaluación sobre los aspectos relacionados con el voluntariado.
+i) Promoverán la concienciación del cumplimiento de las previsiones de la normativa sobre seguridad y salud en el trabajo de las personas voluntarias, así como su inclusión en los planes de igualdad de las entidades de voluntariado y, en su caso, en los de prevención del acoso sexual o por razón de género.
+j) Contribuirán a la eficacia de la acción voluntaria mediante la simplificación y agilización de los procedimientos administrativos que afecten a las entidades de voluntariado.
+k) Favorecerán el reconocimiento y acreditación de las actuaciones de voluntariado mediante la certificación expedida, en cualquier momento y en todo caso al final del periodo voluntario de prestación de actividad, por la entidad de voluntariado, que deberá estar inscrita en el Registro Regional de Entidades de Voluntariado de Castilla y León. En dicha certificación constarán, como mínimo, los datos identificativos de la persona voluntaria, fecha de su incorporación a la entidad de voluntariado, datos identificativos de la entidad, duración de la actividad, descripción de las tareas o funciones realizadas y lugar donde se ha llevado a cabo, todo ello referido al programa de voluntariado desarrollado. El reconocimiento de las competencias adquiridas por la persona voluntaria en su actividad se realizará de conformidad con la normativa general de reconocimiento de competencias adquiridas por experiencia laboral o por vías no formales de formación.
+El reconocimiento de competencias no profesionales de carácter transversal general, susceptibles de ser acreditadas, que se han adquirido por las personas voluntarias en el ejercicio de su actividad de voluntariado podrán ser reconocidas de conformidad a lo establecido en la normativa estatal y en la de desarrollo de la presente ley.
+Se modifica la letra a) y se añaden las letras g) a k) por la disposición final 1.20 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 32
+
+Artículo 32. Reconocimiento social de la contribución voluntaria.
+La Junta de Castilla y León, a propuesta de la Sección de Voluntariado del Consejo de Servicios Sociales de Castilla y León, prevista en el artículo 36, podrá reconocer de manera pública a las entidades y personas que se distingan por su dedicación, contribución o ejemplo en la acción voluntaria.
+Se modifica por la disposición final 1.21 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Artículo 33
+
+Artículo 33. Financiación de la acción voluntaria.
+1. La acción voluntaria se financiará con las partidas que las administraciones públicas de la Comunidad Autónoma destinen a tal efecto en sus respectivos presupuestos.
+2. Las administraciones públicas de Castilla y León podrán financiar programas o proyectos de voluntariado directamente con cargo a sus propios presupuestos en aquellos supuestos en los que las necesidades que constituyan su objeto no sean atendidas por otros programas, proyectos o actividades, o cuando las circunstancias de las que dichas necesidades surgen, la entidad de las mismas o la urgencia de la intervención reclamen tal actuación, de forma principal, subsidiaria o complementaria a la desplegada por otras entidades de voluntariado.
+3. Las administraciones públicas de Castilla y León podrán conceder ayudas a las entidades inscritas en el Registro Regional de Entidades del Voluntariado de Castilla y León para el desarrollo de programas o proyectos de voluntariado que habrán de ajustarse a las condiciones siguientes:
+a) Se adecuarán a las previsiones generales o específicas contenidas en la planificación a que se refiere el artículo 8 de la presente ley.
+b) Su contenido deberá ser declarado en los términos previstos en el artículo 9.3 de la presente ley.
+c) Estarán sometidos a las actividades de seguimiento y evaluación por las administraciones públicas competentes.
+4. Las ayudas se distribuirán mediante convocatoria de subvenciones, financiando programas o proyectos concretos a través de convenios de colaboración con las entidades de voluntariado o mediante cualquiera de las fórmulas previstas en la legislación vigente.
+
+### Artículo 34
+
+Artículo 34. Incentivos y apoyos a entidades y voluntarios.
+1. Las administraciones públicas de Castilla y León promoverán las acciones oportunas para que las entidades del voluntariado puedan obtener los beneficios fiscales que permita la legislación vigente.
+2. Los voluntarios podrán disfrutar, en los términos y con el alcance que en su caso dispongan las distintas administraciones en el ámbito de sus respectivas competencias, de las bonificaciones, preferencias, incentivos o reducciones de precio en el uso de los servicios o recursos dependientes de ellas que puedan establecer con el exclusivo objeto de facilitarles el desarrollo de la actividad voluntaria.
+
+## CAPÍTULO VIII
+
+De la participación
+
+### Artículo 35
+
+Artículo 35. Participación de las entidades y de los voluntarios.
+Las administraciones públicas de Castilla y León facilitarán la participación de entidades de voluntariado, a través de los órganos y cauces previstos al efecto, en la planificación, gestión y seguimiento de la acción voluntaria incluida en el ámbito de la presente ley.
+Igualmente se facilitará la participación de las referidas entidades y de los voluntarios en relación con las actividades de estudio, análisis, asesoramiento y propuesta para la promoción, impulso, coordinación y evaluación de las actividades de voluntariado.
+
+### Artículo 36
+
+Artículo 36. Sección de Voluntariado del Consejo de Servicios Sociales de Castilla y León.
+1. En el Consejo de Servicios Sociales de Castilla y León, como máximo órgano de participación, coordinación, asesoramiento y consulta en materia de voluntariado, existirá una Sección de Voluntariado.
+2. La Sección de Voluntariado del Consejo de Servicios Sociales de Castilla y León tendrá como funciones el asesoramiento, análisis y la formulación de propuestas sobre los asuntos que en esta materia se sometan a su consideración.
+3. La Sección de Voluntariado del Consejo de Servicios Sociales de Castilla y León será presidida por el titular de la Consejería a la que vengan atribuidas las funciones de fomento y coordinación en materia de voluntariado. En ella estarán representados departamentos de la Administración de la Comunidad de Castilla y León que tengan encomendadas funciones en relación con las materias y sectores de actividad referidos en el artículo 6.2 de la presente ley; entidades locales con competencias en materia de voluntariado designadas por la Federación Regional de Municipios y Provincias; entidades de voluntariado; las federaciones, confederaciones o uniones de entidades de voluntariado representativas a nivel autonómico o provincial debidamente inscritas en el Registro Regional de Entidades de Voluntariado de Castilla y León; las organizaciones sindicales y empresariales más representativas de la Comunidad, y representantes de las universidades de Castilla y León.
+El número de sus miembros y su designación, así como el funcionamiento de esta sección, se regirá por lo establecido en la norma reguladora del Consejo de Servicios Sociales de Castilla y León.
+Se modifica por la disposición final 1.22 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+## CAPÍTULO IX
+
+De la distribución de competencias y la coordinación
+
+### Artículo 37
+
+Artículo 37. Competencias de las administraciones públicas de Castilla y León.
+Corresponde a las administraciones públicas de Castilla y León con competencias en materia de voluntariado, en su respectivo ámbito y en relación con las materias reguladas en la presente ley:
+a) Fomentar y promover la participación social de los ciudadanos en el desarrollo de la acción voluntaria, a través de entidades de voluntariado debidamente registradas o, en su caso, en el marco de la acción programada a los fines de esta ley por las administraciones públicas de Castilla y León.
+b) Sensibilizar a la sociedad respecto de los valores del voluntariado.
+c) Impulsar y favorecer las actividades de voluntariado, disponiendo las medidas necesarias para su fomento y apoyo.
+d) Velar por el cumplimiento de la presente ley y sus normas de desarrollo.
+e) Conocer y ordenar los recursos existentes.
+f) Determinar la formación básica de los voluntarios que hayan de desarrollar actuaciones en programas o proyectos, impulsado, desde la colaboración interadministrativa y con las entidades de voluntariado, las acciones formativas necesarias para asegurar una acción voluntaria eficaz y de calidad.
+g) Realizar el seguimiento y evaluación específicos de los programas y proyectos de voluntariado desarrollados por las entidades inscritas en el Registro Regional de Entidades del Voluntariado de Castilla y León.
+h) Comprobar el cumplimiento de las obligaciones de las entidades del voluntariado inscritas, a los efectos previstos en el artículo 18 de la presente ley.
+i) Informar y asesorar técnicamente a las entidades del voluntariado.
+
+### Artículo 38
+
+Artículo 38. Competencias específicas de la Administración de la Comunidad de Castilla y León.
+1. Corresponden a la Administración de la Comunidad de Castilla y León las siguientes competencias específicas en relación con las materias reguladas en la presente ley:
+a) Ordenar con carácter general las políticas públicas en materia de acción voluntaria organizada conforme a los principios y criterios contenidos en la presente ley, respetando la autonomía de las entidades locales y la independencia de las entidades de voluntariado.
+b) Aprobar la planificación regional de las actividades de voluntariado.
+c) Realizar el seguimiento y evaluación generales de los programas y proyectos de voluntariado desarrollados en el ámbito de aplicación de la presente ley.
+d) Gestionar el Registro Regional de Entidades del Voluntariado de Castilla y León, asegurando su unidad, así como elaborar y mantener actualizado el catálogo de entidades inscritas, especificando su ámbito territorial y los programas y proyectos que desarrollan.
+e) Disponer las medidas para el reconocimiento público de las personas y entidades que se distingan por su dedicación, contribución o ejemplo en la acción voluntaria.
+f) Ejercer la función de supervisión y control.
+g) Fomentar la coordinación y la acción conjunta en el desarrollo de las iniciativas y en el ejercicio de las competencias que en materias propias de la presente ley puedan corresponder a las administraciones públicas de Castilla y León y a las distintas entidades, públicas o privadas.
+h) Ostentar la representación de la Comunidad de Castilla y León ante los organismos oficiales de orden supraautonómico, estatal o supraestatal en relación con las materias reguladas en la presente ley e impulsar la colaboración con ellos.
+i) Facilitar el intercambio y difusión de la información sobre voluntariado mediante la recogida y organización de datos y documentación relativos a esta materia.
+j) Las demás que le vengan atribuidas por la normativa vigente.
+2. Estas competencias serán ejercidas por la Consejería a la que vengan atribuidas las funciones de fomento y coordinación en materia de voluntariado, sin perjuicio de las funciones propias de la Junta de Castilla y León y de las de ordenación específica, gestión e inspección y demás actuaciones que puedan corresponder a otras Consejerías en relación con el ámbito o sector de actividad que tengan encomendando.
+
+### Artículo 39
+
+Artículo 39. Competencias específicas de las Entidades Locales.
+Corresponden a las Diputaciones Provinciales y Ayuntamientos de más de 20.000 habitantes las siguientes competencias específicas en relación con las materias reguladas en la presente ley:
+a) Aprobar la planificación de las actividades de voluntariado en su respectivo ámbito territorial, en el marco y como desarrollo de la planificación regional.
+b) Ordenar específicamente, gestionar e inspeccionar las actividades de voluntariado que se lleven a cabo en relación con su respectivo ámbito territorial y de competencias.
+c) Articular los mecanismos de participación de las entidades de voluntariado en la vida local.
+d) Las demás que les vengan atribuidas por la legislación reguladora de la acción social y los servicios sociales, o por la restante normativa vigente, y las que les puedan ser delegadas en relación con esta materia.
+
+### Artículo 40
+
+Artículo 40. Coordinación interadministrativa e interdepartamental.
+1. La coordinación de la actividad que, en su respectivo ámbito y en ejercicio de las competencias contempladas en los artículos anteriores, puedan llevar a cabo las administraciones públicas de Castilla y León se articulará a través de los órganos, cauces y mecanismos previstos con carácter general en la normativa vigente para la coordinación y colaboración entre la Administración de la Comunidad y las Entidades Locales.
+2. Para la coordinación de las actuaciones que, en relación con las materias reguladas en la presente ley, puedan llevar a cabo los distintos departamentos de la Administración de la Comunidad en el respectivo ámbito o sector de actividad que tengan encomendando, la Junta de Castilla y León dispondrá los instrumentos y en su caso los órganos de coordinación horizontal que faciliten el establecimiento de las políticas generales de voluntariado, la integración de la planificación de las actuaciones de las diferentes áreas de actividad en la planificación regional, la complementariedad y eficacia en la programación de actividades y en el establecimiento de las medidas de promoción, fomento y apoyo, y la colaboración en las acciones de control, seguimiento y evaluación.
+
+### Artículo 41
+
+Artículo 41. Seguimiento, supervisión y evaluación de actuaciones.
+El seguimiento, supervisión y evaluación general de todas las actividades y actuaciones que se lleven a cabo en relación con las materias reguladas en la presente ley corresponderá a la Consejería a la que vengan atribuidas las funciones de fomento y coordinación en materia de voluntariado, a la que, a tal efecto y con la periodicidad que se determine en la planificación regional, comunicarán la información necesaria las distintas entidades locales competentes y los centros directivos u organismos gestores de la Administración de la Comunidad que impulsen o desarrollen programas de voluntariado en relación con las diferentes actividades contempladas en el artículo 6.2 de la presente ley.
+La referida Consejería elaborará la memoria integrada de ejecución y evaluación de la planificación regional del voluntariado.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Promoción y difusión de las actividades de voluntariado.
+La Junta de Castilla y León y las Corporaciones Locales, en sus respectivos ámbitos, promoverán la celebración anual del Día del Voluntariado en la Comunidad Autónoma, haciendo coincidir su fecha con la establecida para su conmemoración con carácter internacional.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Incorporación al Registro Regional de Entidades del Voluntariado de las inscripciones de los Registros municipales y provinciales.
+Los expedientes de inscripción con toda la documentación correspondiente y libros de registro existentes en los Registros municipales y provinciales de Entidades del Voluntariado previstos en el Decreto 12/1995, de 19 de enero, se incorporarán al Registro Regional en los plazos y condiciones que se determinen en la nueva regulación de este Registro a la que se refiere la disposición transitoria segunda, de manera que se tramiten únicamente ante éste las nuevas inscripciones, manteniéndose en todo caso el reconocimiento oficial de las actividades de las Entidades que ya estaban inscritas en aquellos, quienes no precisarán instar una nueva inscripción.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Del voluntariado en los ámbitos de Cooperación Internacional y Cooperación al Desarrollo
+1. Las actividades de voluntariado en los ámbitos de cooperación internacional y cooperación al desarrollo se regularán con su normativa específica y supletoriamente por la presente ley y sus normas de desarrollo.
+2. Las entidades u organizaciones no gubernamentales de cooperación al desarrollo (ONGD) con un servicio de voluntariado que, cumpliendo lo establecido en el artículo 24 de la Ley 9/2006, de 10 de octubre, de Cooperación al Desarrollo, de Castilla y León, estén inscritas en el Registro de Agentes de Cooperación no tendrán la obligación de inscribirse en el Registro Regional de Entidades de Voluntariado de Castilla y León. El Registro de Cooperación al Desarrollo comunicará de oficio los datos necesarios obrantes para su inscripción en el Registro Regional de Entidades de Voluntariado de Castilla y León.
+3. En el marco del voluntariado en emergencias humanitarias y dentro de las competencias autonómicas que se establecen en la normativa sobre participación de personal del Sistema Nacional de Salud en emergencias humanitarias:
+a) Se promoverá el otorgamiento de los permisos previstos con carácter previo al despliegue así como por la vía de urgencia.
+b) Se promoverá el derecho a participar en emergencias humanitarias.
+c) Se permitirá al personal sanitario incorporarse a la emergencia humanitaria en el plazo de 24 horas, gracias a dicho permiso de carácter previo.
+d) En el marco de la participación en voluntariados internacionales, se permitirá al personal sanitario participar en las formaciones y simulacros que le sean requeridos.
+Se añade por la disposición final 1.23 de la Ley 5/2021, de 14 de septiembre. Ref. BOE-A-2021-16411#df
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Adecuación de las entidades de voluntariado a las disposiciones de la presente ley.
+1. Las entidades de voluntariado dispondrán de un año para adaptarse a las normas y requisitos previstos en la presente ley.
+2. Las entidades que pretendan su inscripción en el Registro Regional de Entidades de Voluntariado de Castilla y León deberán instarla en el plazo de los seis meses siguientes a la aprobación de la disposición reglamentaria que regule la organización y funcionamiento del mismo conforme a lo previsto en la disposición final primera de esta ley.
+Trascurrido el plazo mencionado sin que la nueva inscripción haya sido instada, la inscripción previa quedará sin efecto en relación con el reconocimiento oficial que aquella conlleva.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Normativa aplicable al funcionamiento del actual Registro Regional de Entidades del Voluntariado.
+En tanto se aprueba la disposición reglamentaria que regule la organización y funcionamiento del Registro Regional de Entidades de Voluntariado de Castilla y León, el funcionamiento del actual Registro Regional de Entidades del Voluntariado se acomodará a lo dispuesto en los artículos 7, 9, 10 y 11 del Capítulo III del Decreto 12/1995, de 19 de enero, por el que se regula el voluntariado de Castilla y León, que se mantendrán vigentes en lo que resulte compatible con lo establecido en esta ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Funcionamiento de la Comisión Regional de Voluntariado de Castilla y León.
+En tanto se constituya el Consejo Regional del Voluntariado de Castilla y León, continuará desarrollando sus funciones la Comisión Regional de Voluntariado de Castilla y León, como órgano colegiado de participación de los distintos agentes implicados en el voluntariado en Castilla y León.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogados el Decreto 12/1995, de 19 de enero, por el que se regula el voluntariado de Castilla y León, y cuantas normas de igual o inferior rango se opongan a lo dispuesto en la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Regulación de la organización y funcionamiento del Registro Regional de Entidades de Voluntariado de Castilla y León.
+En el plazo de seis meses a contar desde la entrada en vigor de esta ley, la Junta de Castilla y León aprobará el reglamento regulador del Registro Regional de Entidades de Voluntariado de Castilla y León.
+
+### Disposición final segunda
+
+Disposición final segunda. Regulación de la organización y funcionamiento del Consejo Regional del Voluntariado de Castilla y León.
+En el plazo de seis meses a contar desde la entrada en vigor de esta ley, la Junta de Castilla y León aprobará el reglamento regulador de la organización y funcionamiento del Consejo Regional del Voluntariado de Castilla y León, que deberá constituirse en el plazo que establezca dicha disposición.
+
+### Disposición final tercera
+
+Disposición final tercera. Habilitación para el desarrollo reglamentario.
+Se faculta a la Junta de Castilla y León para aprobar las disposiciones necesarias en desarrollo de la presente ley.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente ley entrará en vigor al mes de su publicación en el «Boletín Oficial de Castilla y León».
+
+### [firma]
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 10 de octubre de 2006.–El Presidente, Juan Vicente Herrera Campo.

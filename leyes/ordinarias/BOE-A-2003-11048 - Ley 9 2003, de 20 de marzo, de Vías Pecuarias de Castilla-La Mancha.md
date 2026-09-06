@@ -1,0 +1,746 @@
+# Ley 9/2003, de 20 de marzo, de Vías Pecuarias de Castilla-La Mancha.
+
+- Identificador BOE: `BOE-A-2003-11048`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-11048
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Las Cortes de Castilla-La Mancha han aprobado y yo, en nombre del Rey, promulgo la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+En el artículo 149.1.23.ª de la Constitución Española se establece la competencia exclusiva del Estado en materia de «Legislación básica sobre montes, aprovechamientos forestales y vías pecuarias».
+En el artículo 32.2 del Estatuto de Autonomía de Castilla-La Mancha se establece que «en el marco de legislación básica del Estado y, en su caso, en los términos que de la misma se establezca, es competencia de la Junta de Comunidades el desarrollo legislativo y la ejecución en materia de montes, aprovechamientos forestales, vías pecuarias, pastos y espacios naturales protegidos, y servicios forestales». Así mismo el apartado 7 de este artículo 32 otorga la competencia de desarrollo legislativo y de ejecución en materia de protección del medio ambiente y de los ecosistemas.
+El artículo 31.1.2.ª y 19.ª del Estatuto de Autonomía de Castilla-La Mancha indican, respectivamente, las competencias exclusivas que a la Junta de Comunidades de Castilla-La Mancha le corresponden sobre ordenación del territorio, urbanismo y vivienda, y promoción del deporte y adecuada utilización del ocio, aspectos sobre los que influye la gestión de las vías pecuarias dado que estas su gestión no se podrá realizar de una manera aislada, sino imbricándose con los instrumentos de ordenación urbanística aprobados para cada espacio y compaginando los diversos intereses derivados de dicho ámbito.
+La Comunidad Autónoma de Castilla-La Mancha, asumió por el Real Decreto 1676/84, de 8 de febrero, las funciones atribuidas al Estado, en materia de vías pecuarias, a excepción de la enajenación de terrenos sobrantes en aquellas cuyo itinerario sobrepase el territorio de la Comunidad.
+La Ley 3/1995, de 23 de marzo, de Vías Pecuarias, en su Disposición Final Tercera, establece que corresponde a las Comunidades Autónomas, en el ámbito de sus respectivas competencias, dictar las disposiciones que sean precisas sobre el desarrollo de dicha ley.
+II
+La trashumancia se inicia en los primeros albores de la historia de la humanidad, cuando el hombre se hace sedentario y tiene la necesidad de desplazar los rebaños para su alimentación, buscando los lugares adecuados donde satisfacerla. Estos desplazamientos que adquirieron carácter periódico siguiendo itinerarios fijos, conformaron una amplia red de caminos pastoriles que con el tiempo se convirtieron en la red de vías pecuarias que adquirió naturaleza propia en nuestro país bajo el reinado de Alfonso X «El Sabio», al crear el «Honrado Consejo de la Mesta», al que dotó de una serie de privilegios tanto para el aprovechamiento de pastos como para el desplazamiento de los rebaños por la citada red, que si bien adquirió su máximo esplendor en los siglos XV, XVI y XVII, no sin vencer grandes dificultades, se ha mantenido hasta la actualidad.
+Es bien cierto que los desplazamientos de ganado por esta red han perdido intensidad al desarrollarse los actuales medios de transporte, y es también cierto que alrededor de las vías pecuarias se ha gestado una gran actividad, no sólo económica, sino también cultural, que se ha prolongado sin interrupción a lo largo de los pasados siglos, cuyos valores deben ser conservados y mantenidos, como legado de las generaciones que nos precedieron y que debemos transmitir a las que nos sucedan.
+Es también cierto que las vías pecuarias, con independencia de su propio fin, constituyen por su propia condición, la red idónea para establecer la comunicación entre los espacios naturales y concretamente adquieren un valor fundamental en los procesos de conservación de los ecosistemas naturales y la diversidad de sus recursos, así como para la mejora de la calidad de vida en el medio rural por su posibilidad recreativa y deportiva.
+Por ello cuando la sociedad actual ha generado una gran sensibilidad ante los procesos ecológicos y demanda espacios naturales para su ocio y recreo, las vías pecuarias son una herramienta imprescindible para lograr el bienestar a que aspira, obligando a los poderes públicos, no sólo a su defensa y conservación, sino también a su restauración y rehabilitación.
+El territorio de Castilla-La Mancha, por su estratégica situación en el centro de la Península Ibérica, es paso obligado de los desplazamientos de los rebaños que buscan, para su alimento, los pastizales invernales de las dehesas de Andalucía y Extremadura y los pastos estivales de la Cordillera Cantábrica y Sistema Ibérico, constituyendo una red de más de 12.000 km de longitud y 50.000 Has de superficie, de la que forman parte las principales Cañadas Reales: Leonesa Occidental, Leonesa Oriental, Segoviana, Soriana Occidental, Soriana Oriental, Galiana y de los Chorros.
+III
+Esta Ley se estructura en los siguientes títulos:
+En el Título I, de las disposiciones generales, se definen las vías pecuarias por su tradicional uso y se ratifica su carácter demanial y su titularidad de conformidad con lo dispuesto en la Ley Básica Estatal. Se definen los distintos tipos y clases manteniendo los que tradicionalmente tienen reconocida por su anchura y los resultantes de su itinerario y situación, clasificándose como de «Especial Interés Natural de la Comunidad» los tramos que discurren por espacios naturales protegidos y montes declarados de utilidad pública, por su mayor incidencia en los procesos ecológicos. Se clasifican también de «Interés Cultural y Socio-recreativo» aquellos tramos que permitan, sin perjuicio de su tradicional fin, usos alternativos para disfrute de la naturaleza. Finaliza el título haciendo referencia a las competencias para la gestión y administración de estos bienes de dominio público.
+Se incluyen en ellas las parcelas de reemplazo que como consecuencia de los procesos de reorganización de la propiedad rústica (Concentración Parcelaria), resultan colindantes con estos.
+En el Título II, de creación, delimitación y administración de las vías pecuarias, se hace referencia en el Capítulo I a las potestades administrativas de conservación, defensa e investigación de las vías pecuarias como bienes de dominio público. En el Capítulo II, se definen los actos administrativos de creación, ampliación y restitución, permitiendo este último restablecer las anchuras legales de las vías pecuarias que por cualquier circunstancia la hubieran visto reducida, así como restituir su continuidad cuando se encuentren totalmente interceptadas, para garantizar su adecuado uso.
+Seguidamente se describen los procedimientos de deslinde, delimitación y amojonamiento a efectos de su plena identificación para poder ejercer una mejor y más eficaz defensa jurídica cuando sea cuestionada su posesión y titularidad. Se habilita la Delimitación como un procedimiento de deslinde simplificado, que permite una mayor agilidad administrativa y consecuentemente permitirá activar estas operaciones. En el Capítulo III, de desafectación, se contempla la posibilidad de desafectación de superficies de vías pecuarias del dominio público, conforme lo dispuesto en la Ley Básica Estatal, pero excluyendo de forma explícita las de los tramos clasificados de «especial interés natural», e «interés cultural y socio-recreativo» por la prevalencia de éstas sobre cualquier otro que no se hubiese declarado prevalente.
+Se definen los usos y destinos prioritarios de los terrenos desafectados, otorgando preferencia a las permutas que permitan restituir los tramos de vías pecuarias que tengan interceptada su continuidad y rehabilitar las anchuras legales establecidas en sus proyectos de clasificación y cuya reducción haya implicado dificultades al tránsito ganadero. En el capítulo IV se hace una amplia referencia a las modificaciones de trazado, en las circunstancias que afectan con mayor intensidad a su integridad y que son la causa fundamental del deterioro de su red: Proyectos y Planes de Ordenación del Territorio, incluyendo los de Reorganización de la propiedad rústica (Concentración Parcelaria); de Ordenación Urbanística y por Proyectos y Obras de Infraestructura. Se incluye entre ellos la modificación de los trazados que discurren por cascos urbanos, que dificultan las actuaciones urbanísticas y son además totalmente inadecuadas para el tránsito ganadero. Al fin de facilitar estas modificaciones y considerando que el tránsito ganadero es el objetivo prioritario y específico de las vías pecuarias, en esta Ley se establece que las permutas de terrenos para formalizar estas modificaciones no quedan condicionadas por las limitaciones previstas en el artículo 58 de la Ley 6/1985, de 13 de noviembre, del Patrimonio de la Comunidad Autónoma de Castilla-La Mancha.
+Finalmente para garantizar el tránsito ganadero, sin riesgo de accidentes, la Ley establece las directrices que deben aplicarse en los cruces de las vías pecuarias con las redes viales de comunicación.
+En el Capítulo V, la Ley hace referencia a las ocupaciones de terrenos de vías pecuarias, siguiendo la normativa establecida en la Ley Básica Estatal, pero adoptando medidas cautelares en los tramos declarados de «especial interés natural» o «interés cultural o socio-recreativo». Se diferencian en la Ley las ocupaciones sobre parcelas de reemplazo, procedentes de los procesos de concentración parcelaria, según sean colindantes con vías pecuarias o independientes de éstas. Finaliza el capítulo disponiendo la posibilidad de autorizar con carácter discrecional y temporal, trabajos para el mantenimiento, acondicionamiento y mejora de las vías pecuarias, siempre que no implique el acondicionamiento de viales para el tráfico ordinario.
+El Capítulo VI, referido a aprovechamientos, incluye una amplia relación de las circunstancias que deben observarse para su autorización, siendo de resaltar las que limitan las autorizaciones de reserva de derechos cinegéticos, por su condición de zonas de seguridad, así como para la extracción de tierras, áridos y canteras, por las dificultades que pueden originar al tránsito ganadero.
+El Título III, de régimen de uso y actividades en las vías pecuarias, hace referencia al uso común, prioritario y específico, así como a los usos y actividades compatibles y complementarias, otorgando prevalencia a las de tipo ecológico, educativo y social, sobre cualquier otro, cuando discurran por espacios naturales protegidos. Explícitamente se limita el uso de las vías pecuarias que se acondicionan como consecuencia de los Planes o Proyectos de Reorganizaciones de la Propiedad Rústica, exclusivamente para facilitar el acceso a las fincas colindantes de carácter agrario y mantiene la naturaleza jurídica de las vías pecuarias, sin menoscabo alguno de las competencias y responsabilidades de la Consejería que tenga encomendada su gestión y administración.
+En el Título IV, de la Red Nacional y Regional de Vías Pecuarias, se ratifica el contenido de la vigente Ley Estatal de Vías Pecuarias, sobre la Red Nacional y se define la correspondiente Red Regional, se crea el Fondo Documental de estos bienes de dominio público y se dispone su señalización. Se faculta a la Comunidad Autónoma para suscribir convenios de colaboración para la conservación, defensa y vigilancia de las vías pecuarias con las Comunidades Autónomas limítrofes, Diputaciones Provinciales, Ayuntamientos y Organizaciones y Colectivos interesados en la materia.
+El Título V, de las infracciones, sanciones y procedimientos, establece el régimen de vigilancia, inspección y policía, tipificando las infracciones y cuantificando las sanciones en la misma forma que lo hace en la Ley Estatal 3/95, de 23 de marzo de Vías Pecuarias y se asignan las competencias para su imposición entre los diversos órganos de la Administración Regional.
+En las disposiciones adicionales se encomienda a la Consejería competente a completar la clasificación de todos los términos municipales de la Comunidad así como la revisión, actualización de las clasificaciones vigentes y elaboración del catálogo de vías pecuarias de especial interés.
+En las disposiciones transitorias se establece el plazo para realizar los inventarios de los tramos de vías pecuarias que tengan interceptados sus itinerarios, así como de los que deben ser declarados de Interés Especial y de Interés Cultural y Socio-recreativo. Se mantiene el carácter demanial de las Vías Pecuarias declaradas innecesarias y las franjas de terrenos de parcelas declaradas sobrantes.
+En la disposiciones finales se faculta al Consejo de Gobierno para su desarrollo reglamentario y se establece el plazo para su entrada en vigor.
+
+## TÍTULO I
+
+De las Disposiciones Generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Es objeto de esta Ley establecer la normativa para la administración y gestión de las vías pecuarias de la Comunidad Autónoma de Castilla-La Mancha, en el marco de la Ley 3/95, de 23 de marzo, de Vías Pecuarias, y de conformidad con lo dispuesto en los artículos 32.2 y 31.1, del Estatuto de Autonomía de la Comunidad Autónoma.
+
+### Artículo 2
+
+Artículo 2. Definición.
+1. Las vías pecuarias, son las rutas o itinerarios por donde discurre o ha venido discurriendo tradicionalmente el tránsito ganadero, ligado en gran medida a la trashumancia y otras formas de ganadería extensiva.
+2. Asimismo tienen a todos los efectos la consideración de vías pecuarias los descansaderos, abrevaderos, majadas y cualquier otro tipo de terreno o instalación anexa a aquellas que sirva al ganado trashumante y a los pastores que lo conducen.
+Se modifica el apartado 1 por el art. único.1 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 3
+
+Artículo 3. Naturaleza jurídica.
+1. Las vías pecuarias que discurren por el territorio de la Comunidad Autónoma de Castilla-La Mancha, son bienes de dominio público de esta Comunidad y, en consecuencia, inalienables, imprescriptibles e inembargables.
+2. Tienen también la condición de vías pecuarias las parcelas de reemplazo colindantes con éstas y adjudicadas o transferidas por el Estado a esta Comunidad Autónoma como compensación de superficies en los procesos de reorganización de la propiedad rústica por Concentración Parcelaria.
+3. Las parcelas de reemplazo a que se refiere el párrafo anterior que estén aisladas de la red de vías pecuarias, tienen la consideración de bienes patrimoniales de la Comunidad Autónoma.
+
+### Artículo 4
+
+Artículo 4. Destino.
+El destino específico de las vías pecuarias es el tránsito ganadero, y aquellos otros que sean compatibles y complementarios de aquel, conforme se dispone en la Ley 3/1995, de 23 de marzo, y respetuosos con el desarrollo sostenible, el medio ambiente, el paisaje y el patrimonio natural y cultural, considerando prioritario el tránsito ganadero.
+Se modifica por el art. único.2 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 5
+
+Artículo 5. Fines.
+1. Corresponde a la Comunidad Autónoma de Castilla-La Mancha, en su ámbito territorial, perseguir los fines previstos en el artículo 3 de la Ley 3/1995, de 23 de marzo, así como:
+a) Restituir la continuidad de los itinerarios de las vías pecuarias afectadas por obras de infraestructuras públicas o privadas.
+b) Potenciar en ellas el desarrollo de los procesos ecológicos para la conservación y defensa de la diversidad biológica, y fundamentalmente las razas autóctonas de la cabaña ganadera.
+c) Fomentar los valores sociales, económicos, ambientales, recreativos, culturales y científicos, compatibles con sus específicos fines, al objeto de mejorar la calidad de vida, en las comunidades rurales y de sus visitantes.
+d) Consolidar una red de corredores naturales en las vías pecuarias.
+2. Desde la Administración regional se conservará, consolidará, protegerá y recuperará el patrimonio pecuario de la Comunidad Autónoma con el objetivo de disponer de una red de vías para el uso pecuario medioambiental, cultural y recreativo armonizado para las generaciones presentes y futuras, de manera que se articule a la vez una red de espacios y corredores naturales por todo el territorio de la Comunidad.
+Se modifica por el art. único.3 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 6
+
+Artículo 6. Tipos de vías pecuarias.
+Las vías pecuarias de la Comunidad Autónoma de Castilla-La Mancha, se clasifican:
+1. Por su anchura.
+a) Se denominan "Cañadas", "Cordeles" y "Veredas" las vías pecuarias, cuya anchura no exceda respectivamente de 75 metros, 37,50 metros y 20 metros.
+Sin perjuicio de lo anterior, los tramos de vías pecuarias que como tales tengan reconocidas legalmente una anchura superior en los actos de clasificación, deslinde o amojonamiento mantendrán la anchura resultante de dichos actos administrativos.
+b) Se denominarán "Coladas" las vías pecuarias, de carácter consuetudinario, de anchura variable.
+En cualquier caso, las anteriores denominaciones serán compatibles con cualquiera otras que hayan venido utilizando.
+c) Los descansaderos, definidos por su situación, superficie y límites.
+d) Los abrevaderos, majadas y cualquier otro tipo de territorio o instalación anexos a ellas, para uso del ganado trashumante y de los pastores que los conducen.
+2. Por su itinerario.
+Son vías pecuarias intercomunitarias aquellas que, aún no integradas en la Red Nacional de Vías Pecuarias, tienen un recorrido que se prolonga por el territorio de otras Comunidades Autónomas; siendo vías pecuarias comunitarias, las que tienen un recorrido que no excede del ámbito territorial de Castilla-La Mancha.
+3. Por su interés.
+Se consideran vías pecuarias de especial interés aquéllas que transitan por terrenos con un sobresaliente interés natural, cultural o socio-recreativo.
+En el reglamento de desarrollo de esta Ley se establecerá el procedimiento para su declaración como tales.
+a) Se consideran vías pecuarias de Especial Interés Natural, aquellos tramos que:
+Discurran dentro de los límites de los espacios naturales protegidos, Puedan servir para conectar espacios naturales significativos.
+Posean un especial valor en orden a la conservación de la naturaleza.
+Discurran por Montes declarados de utilidad pública.
+b) Se considerarán vías pecuarias de Especial Interés Cultural, los tramos que contengan elementos del patrimonio histórico cultural y etnográfico o que discurran por las proximidades de terrenos con estas características.
+c) Se considerarán vías pecuarias de Especial Interés Socio Recreativo, los tramos que tengan una elevada aptitud para su uso recreativo.
+Se modifica el apartado 1 por el art. único.4 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 7
+
+Artículo 7. Competencias.
+1. El ejercicio de la administración y gestión de las vías pecuarias de la Comunidad Autónoma de Castilla-La Mancha corresponde a la Consejería que por razón de la materia las tenga atribuidas, sin perjuicio de las que pudieran corresponder al Consejo de Gobierno de la Junta de Comunidades de Castilla-La Mancha, o a otras Consejerías, de conformidad con la Ley 6/1985, de 13 de noviembre, de Patrimonio de la Comunidad Autónoma de Castilla-La Mancha.
+2. Corresponde también a la Consejería competente en materia de vías pecuarias la gestión y administración, así como los actos de disposición de carácter patrimonial, de las parcelas de reemplazo procedentes de procesos de reorganización en la propiedad rústica por concentración parcelaria y de los terrenos que pudieran ser desafectados del carácter de vías pecuarias.
+3. En cualquier caso, dichas competencias para una más eficaz gestión, se ejercerán en coordinación con los órganos y entidades que tengan también asumidas competencias en materia de ganadería, medio ambiente y ordenación del territorio, en la forma que se establezca reglamentariamente.
+
+## TÍTULO II
+
+De la Creación, Determinación y Administración de las Vías Pecuarias
+
+## CAPÍTULO I
+
+Potestades administrativas
+
+### Artículo 8
+
+Artículo 8. Conservación y defensa.
+1. Corresponden a la Junta de Comunidades de Castilla-La Mancha las facultades de clasificación, deslinde, amojonamiento, desafectación de las vías pecuarias, así como cualesquiera otros actos de protección, conservación y mejora relacionados con ellas.
+2. En los términos que establezca la legislación hipotecaria y administrativa estatal, tendrá su reflejo en los Registros de la Propiedad la situación de colindancia de las fincas inscritas con vías pecuarias, sin perjuicio de la defensa de los derechos de particulares, que serán ejercidos en la forma y con las garantías que señale dicha legislación.
+Se modifica por el art. 13.1 de la Ley 1/2024, de 15 de marzo. Ref. BOE-A-2024-10149
+
+### Artículo 9
+
+Artículo 9. Investigación.
+Corresponde a la Comunidad Autónoma de Castilla-La Mancha la investigación, bien de oficio o a petición de parte, de todos los itinerarios y rutas utilizados tradicionalmente por la cabaña ganadera en sus desplazamientos de trashumancia o trasterminancia, así como de los descansaderos y abrevaderos utilizados en los citados desplazamientos.
+
+## CAPÍTULO II
+
+Clasificación, Deslinde y Amojonamiento
+
+### Artículo 10
+
+Artículo 10. Disposición general.
+1. Los procedimientos de clasificación y delimitación tendrán una duración máxima de dos años y los de deslinde y amojonamiento de tres años.
+Excepcionalmente, cuando se hayan agotado los medios personales y materiales disponibles para el cumplimiento de los referidos plazos, el órgano competente para resolver podrá acordar de manera motivada su ampliación, no pudiendo ésta superar el plazo establecido para cada procedimiento.
+2. Los procedimientos de clasificación, delimitación, deslinde y amojonamiento se iniciarán siempre de oficio por el órgano competente. Cuando existan peticiones a instancia de personas propietarias de fincas colindantes con las vías pecuarias para la realización de la delimitación, deslinde o amojonamiento, estos gastos se llevarán a cabo a su costa sin perjuicio del abono de las tasas administrativas previstas en la normativa autonómica de tasas y precios públicos para la tramitación del expediente.
+Se modifica por el art. único.5 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 11
+
+Artículo 11. Clasificación.
+1. La clasificación de las vías pecuarias es el acto administrativo, de carácter declarativo, en virtud del cual se determinan la existencia, anchura, trazado y demás características físicas de cada una de ellas.
+2. La clasificación de las vías pecuarias se realizará conforme al procedimiento que reglamentariamente se establezca, por términos municipales, atendiendo a todos los antecedentes existentes, así como a los testimonios que se aporten, en cada caso, con un periodo de exposición pública y audiencia de al menos 20 días hábiles a los posibles interesados y afectados particulares, así como a los Ayuntamientos implicados, a las Comisiones Locales de Pastos establecidas en la Ley 7/2000, de 23 de noviembre, de Ordenación de Aprovechamiento de Pastos, Hierbas y Rastrojeras, a las organizaciones profesionales agrarias y organizaciones o colectivos más representativos en el ámbito territorial de Castilla-La Mancha que tengan entre sus fines la defensa de la cabaña ganadera, del medio ambiente y de las vías pecuarias y caminos públicos.
+3. Las clasificaciones legalmente aprobadas no implican la inexistencia de otras vías pecuarias, que pueden y deben ser clasificadas, una vez investigadas y conocidas, en la misma forma anteriormente referida.
+4. Es competencia también de la Comunidad Autónoma de Castilla-La Mancha, la revisión o actualización de las clasificaciones de vías pecuarias vigentes, cuando se observen o detecten errores en cuanto a sus características físicas.
+5. Las clasificaciones de las vías pecuarias y su actualización se aprobarán por la Consejería competente en la materia.
+Se modifica el apartado 2 por el art. único.6 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 12
+
+Artículo 12. Creación, ampliación y recuperación.
+1. La Comunidad Autónoma de Castilla-La Mancha podrá crear nuevas vías pecuarias, a los fines específicos de asegurar el tránsito ganadero y dar continuidad y mantener los itinerarios en su ámbito territorial, previa tramitación de los correspondientes procedimientos donde se acredite la indubitable necesidad.
+2. Podrá también ampliar la anchura legal de las vías pecuarias clasificadas, en los mismos casos y en la misma forma reseñada en el apartado anterior.
+3. La Junta de Comunidades podrá ejercer la potestad de recuperación posesoria de los terrenos de las vías pecuarias indebidamente poseídos por terceros, que no estará sometida a plazo y respecto a la que no se admitirán acciones posesorias ni procedimientos especiales.
+4. Cuando como consecuencia de expedientes tramitados y con resolución firme, las vías pecuarias o tramos de ellas, hayan sufrido interrupciones o reducciones de la anchura legal establecida en su clasificación, se podrá restituir la integridad de la vía pecuaria mediante el procedimiento de recuperación.
+5. Las actuaciones de creación, ampliación y recuperación llevan aparejada la declaración de utilidad pública a efectos expropiatorios de los bienes y derechos afectados.
+6. Cuando de las actuaciones relacionadas anteriormente resulte afectada una o varias fincas registrales, la resolución firme será título suficiente para la inscripción o anotación en Registros, Inventarios o Catálogos administrativos, y para la inscripción en el Registro de la Propiedad competente para que, en su caso y conforme a la legislación aplicable, practique los asientos registrales oportunos.
+Se modifica por el art. único.7 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 13
+
+Artículo 13. Deslindes y Delimitaciones.
+1. El deslinde y la delimitación de las vías pecuarias son los actos administrativos por los que se definen sus límites de conformidad con lo establecido en sus clasificaciones.
+2. Reglamentariamente se establecerán los correspondientes procedimientos que en cualquier caso incluirán necesariamente las relaciones de colindantes, de ocupaciones e intrusiones que afecten al tramo de la vía pecuaria afectada, y los planos que identifiquen topográficamente las mismas mediante coordenadas geográficas:
+a) Los expedientes de deslinde identificarán plenamente las vías pecuarias y se iniciarán por la Consejería competente en la materia, de oficio o a instancia de propietarios colindantes, otros organismos y entidades que tengan asumidas competencias en materia de medio ambiente y ordenación del territorio.
+b) Se considerarán delimitaciones los deslindes de los tramos de vías pecuarias cuando se practiquen por procedimientos abreviados a petición de propietarios de fincas colindantes con las vías pecuarias, ya sean personas físicas o jurídicas, y afecten únicamente a fincas de su propia titularidad.
+La aprobación de estas operaciones, que se practicarán en forma que reglamentariamente se establezca, requiere, para su validez, la conformidad expresa de todos los colindantes afectados.
+3. Procederá también ejecutar, a efectos de su plena identificación, la delimitación de los tramos de las vías pecuarias no deslindadas afectadas total o parcialmente por las modificaciones de trazado a que hacen referencia los artículos 17 y siguientes de esta Ley.
+4. A petición de parte, cuando las delimitaciones no hayan sido resueltas por falta de conformidad de los colindantes afectados, se tramitarán como deslindes.
+5. Las operaciones de deslinde y delimitación, serán sometidas a información pública en el Diario Oficial de Castilla-La Mancha y en los Boletines Oficiales de las Comunidades Autónomas por cuyo territorio pudiera prolongarse su recorrido, así como en los tablones de Anuncios de los Ayuntamientos por donde discurren y notificadas a todos los presuntos colindantes, señalando fecha y hora de comienzo de la operación y lugar de iniciación. En los expedientes se dará audiencia a los Ayuntamientos afectados, a todos los propietarios colindantes, a los interesados que hayan comparecido en las operaciones, a las Comisiones Locales de Pastos establecidas en la Ley 7/2000, de ordenación de aprovechamiento de pastos, hierbas y rastrojeras, a las Organizaciones Profesionales Agrarias, Ganaderas y colectivos más representativos en el ámbito territorial de Castilla-La Mancha, que tengan entre sus fines la defensa del medio ambiente.
+6. Los deslindes y delimitaciones serán resueltos por la Consejería competente en la materia, se notificarán a todos los interesados y se publicarán en el Diario Oficial de Castilla-La Mancha, y una vez aprobadas y firmes declararán, con carácter definitivo, la posesión y titularidad demanial a favor de la Comunidad Autónoma de Castilla-La Mancha, a reserva de lo que pudiera resultar, en su caso, del juicio declarativo de propiedad.
+7. La resolución de aprobación de un deslinde será título suficiente para rectificar, en la forma y condiciones que se determinen reglamentariamente, las situaciones jurídicas registrales contradictorias con el deslinde. Dicha resolución será título suficiente para que la Comunidad Autónoma proceda a la inmatriculación los bienes de dominio público cuando lo estime conveniente. En todo caso, quienes se consideren afectados por la resolución aprobatoria del deslinde podrán ejercitar las acciones que estimen pertinentes en defensa de sus derechos y solicitar la anotación preventiva de la correspondiente reclamación judicial.
+
+### Artículo 14
+
+Artículo 14. Amojonamiento.
+1. El amojonamiento es el procedimiento administrativo en virtud del cual, una vez aprobada la delimitación o el deslinde, se materializan con carácter permanente los límites de la vía pecuaria, en el terreno.
+2. Las operaciones de amojonamiento se iniciarán, una vez firme en vía administrativa la resolución aprobatoria de deslinde o delimitación correspondiente, previa notificación a todos los propietarios colindantes y a los Ayuntamientos afectados.
+3. En las citadas notificaciones y correspondientes anuncios en el Diario Oficial de Castilla-La Mancha y Ayuntamientos, se hará constar fecha y hora de comienzo de la operación, lugar de iniciación, así como que las reclamaciones sólo podrán versar sobre la práctica del amojonamiento, sin que en modo alguno puedan referirse al deslinde o delimitación.
+4. El trámite de audiencia se notificará personalmente a todos los interesados conocidos. Asimismo se publicará, para general conocimiento, la apertura de este trámite en el Diario Oficial de Castilla-La Mancha.
+5. Cuando las operaciones de amojonamiento afecten a términos municipales colindantes con los de otras Comunidades Autónomas los anuncios de comienzo de la operación y de audiencia serán publicados también en los Boletines Oficiales correspondientes.
+6. Reglamentariamente se establecerá el procedimiento de esta operación, así como las características de los mojones o hitos que materialicen los límites de las vías pecuarias. La aprobación corresponde a la Consejería competente en la materia.
+
+## CAPÍTULO III
+
+Desafectación
+
+### Artículo 15
+
+Artículo 15. Desafectación.
+1. La Comunidad Autónoma de Castilla-La Mancha podrá desafectar del dominio público los terrenos de las vías pecuarias que no sean adecuados para el tránsito del ganado ni sean susceptibles de los usos compatibles o complementarios establecidos, siempre que no hayan sido declarados de especial interés.
+Los tramos de vías pecuarias declarados de Especial Interés mantendrán prioritariamente sus fines específicos, no pudiendo proceder a su desafectación excepto en aquellos casos en que esta se efectúe mediante un procedimiento de prevalencia, siempre y cuando se garanticen las valores que motivaron su declaración.
+2. La desafectación, requiere la previa tramitación del correspondiente expediente de declaración de innecesariedad en la forma que se establezca reglamentariamente. Su tramitación y aprobación compete a la Consejería competente en la materia de vías pecuarias, y siempre de conformidad a lo dispuesto en la Ley 6/85, de 13 de noviembre, del Patrimonio de la Comunidad Autónoma.
+3. Los terrenos desafectados adquirirán la condición de bienes patrimoniales de la Comunidad Autónoma, debiendo quedar constancia en el Registro de la Propiedad y demás registros públicos, en los términos previstos en la legislación patrimonial de las Administraciones Públicas.
+Se modifica el apartado 3 por el art. único.8 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 16
+
+Artículo 16. Destino de los terrenos desafectados.
+1. La Comunidad Autónoma de Castilla-La Mancha podrá ceder los terrenos de vías pecuarias desafectados de sus fines específicos para actividades de interés público, cultural, ecológico y social, cuando redunden en la mejora de la calidad de vida y desarrollo sostenible del medio rural, la conservación y defensa del medio natural y las de educación medioambiental, en la forma prevista en la legislación sobre Patrimonio de la Comunidad Autónoma y en las condiciones adicionales que reglamentariamente se establezcan.
+2. También podrá enajenar y permutar los terrenos desafectados en la forma que, de conformidad con la citada ley, se establezca, cuando no sean destinados a los usos y fines anteriormente referidos.
+Tendrán carácter preferente las permutas que permitan restituir tramos de vías pecuarias desaparecidas o para restablecer su continuidad o rehabilitar las antiguas anchuras legales que hubiesen sido reducidas por resolución de expedientes administrativos o judiciales.
+3. De la adquisición por cualquier título de inmuebles o terrenos para su incorporación a vías pecuarias ya existente o para la restitución de las ya desaparecidas, deberá quedar constancia en el Registro de la Propiedad y demás registros públicos, en los términos previstos en la legislación patrimonial de las Administraciones Públicas.
+4. Los ingresos que pudieran derivarse de las enajenaciones y permutas serán destinados a la creación, rehabilitación, restitución, conservación y mejora de las vías pecuarias, a través del fondo finalista recogido en la disposición adicional cuarta.
+Se modifica por el art. único.9 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+## CAPÍTULO IV
+
+Modificaciones de trazado
+
+### Artículo 17
+
+Artículo 17. Disposiciones generales.
+1. Se podrá modificar el trazado de las vías pecuarias cuando concurran razones de utilidad pública o interés público y, excepcionalmente de forma motivada, por interés particular. La modificación por interés particular se podrá aprobar cuando suponga una mejora de carácter sustancial en el nuevo trazado desde el punto de vista ambiental y en relación con los usos comunes, prioritarios y específicos. En este caso, todos los gastos que genere la modificación del trazado correrán a cargo de la persona interesada.
+2. El nuevo trazado deberá asegurar el mantenimiento de la integridad superficial de la vía pecuaria, la idoneidad y la continuidad del nuevo itinerario para el tránsito ganadero y los demás usos compatibles y complementarios previstos en esta ley.
+3. La modificación del trazado se realizará mediante procedimiento administrativo que será objeto de desarrollo reglamentario. Mientras tanto, deberán observarse los trámites establecidos para el deslinde de los Montes de Utilidad Pública, de acuerdo con las siguientes prescripciones:
+a) La persona solicitante deberá acreditar fehacientemente la titularidad y la plena disponibilidad de los terrenos que ofrece para el nuevo itinerario, que no podrán tener servidumbre ni carga de ninguna clase.
+Excepcionalmente podrán admitirse terrenos con servidumbres originadas por infraestructuras que posean el carácter de utilidad pública o interés general. Previamente, la persona titular de la instalación debe otorgar la conformidad a la propuesta de modificación y regularizar la infraestructura como ocupación temporal del dominio público pecuario conforme a lo dispuesto en el artículo 22 de esta ley.
+b) El expediente de modificación de trazado se someterá a consulta previa, de las Corporaciones locales, de las organizaciones profesionales agrarias afectadas y de aquellas organizaciones o colectivos cuyo fin sea la defensa del medio ambiente, tal y como se establece en el artículo 11.2 de la Ley 3/1995, de 23 de marzo.
+4. En las modificaciones de trazado de las vías pecuarias deberá cumplirse la legislación en materia de patrimonio reguladora de las permutas de bienes y derechos de la Comunidad Autónoma de Castilla-La Mancha.
+Los terrenos ya desafectados tendrán la condición de bienes patrimoniales y en su destino prevalecerá el interés público y social.
+5. El acuerdo de inicio de las operaciones para la modificación de trazado será publicado en el "Diario Oficial de Castilla-La Mancha" y notificado a las personas colindantes afectadas y a las personas y entidades citadas en el apartado 3.b) de este artículo.
+6. La propuesta de resolución, junto con la totalidad del expediente, se someterá a información pública, por espacio de un mes, notificándose a las personas y entidades citadas en el apartado 3.b) de este artículo y será objeto de publicación en el "Diario Oficial de Castilla-La Mancha".
+7. La resolución de los expedientes, después de haber sido éstos sometidos a información pública por espacio de un mes, corresponde a la consejería competente en la materia. En la resolución aprobatoria se incluirá la desafectación de los terrenos que pertenecían a la vía pecuaria y la afectación de los terrenos que recibe el dominio público pecuario de la Comunidad Autónoma.
+8. Esta resolución, quedará condicionada a la formalización pública de la permuta de los terrenos afectados por los que discurrirá el nuevo trazado de la vía pecuaria. El documento público habrá de incorporar la resolución que pongan fin al expediente, en los términos del apartado 7 de este artículo, así como las coordenadas georreferenciadas de las fincas resultantes, si de las resultas del expediente tramitado fuera necesario.
+9. Los nuevos tramos serán entregados por la persona solicitante previamente amojonados, en la forma que la Administración autonómica disponga de conformidad con la normativa establecida.
+10. La resolución favorable de la modificación conllevará la modificación de la correspondiente clasificación de vías pecuarias y, en su caso, de las resoluciones de aprobación de los correspondientes expedientes de deslinde y amojonamiento. En cualquier caso, cuando se produzca la formalización pública de la permuta, el nuevo trazado se considerará clasificado, deslindado y amojonado, mediante resolución aprobatoria a la que se adjuntarán las coordenadas georreferenciadas.
+11. En los casos en los que la modificación del trazado sea consecuencia de una nueva ordenación territorial o urbanística se estará en cuanto al procedimiento administrativo y prescripciones, a lo dispuesto en los artículos 18 y 19.
+Se añade el apartado 11 por el art. 13.2 de la Ley 1/2024, de 15 de marzo. Ref. BOE-A-2024-10149
+ Se modifica por el art. único.10 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 18
+
+Artículo 18. Del trazado como consecuencia de nueva ordenación territorial y urbanística.
+1. Los Planes e Instrumentos de ordenación territorial y urbanística deberán respetar la naturaleza jurídica, la integridad superficial y la continuidad de las vías pecuarias que discurran por el territorio sometido a ordenación, y garantizar el tránsito ganadero y los usos compatibles y complementarios de ellas.
+En los citados Planes e Instrumentos se incluirán ineludiblemente la relación de las vías pecuarias o de los tramos afectados mediante certificaciones expedidas por el órgano competente en materia de vías pecuarias, previa solicitud del Organismo, Entidad o persona física o jurídica promotora, que deberá ser emitido en el plazo máximo de un mes computable desde que se reciba la solicitud en el órgano competente para su emisión.
+2. Cuando los Planes e Instrumentos de ordenación territorial y urbanística deban ser sometidos al régimen de evaluación de impacto ambiental, el órgano ambiental competente, previa consulta al órgano que tenga asignadas las competencias sobre vías pecuarias, deberá imponer las medidas adecuadas para garantizar la integridad superficial y funcionalidad de estos bienes de dominio público y, para en su caso, restaurar los daños o perjuicios que pudieran causarse en ellos o en sus recursos naturales.
+3. Cuando los citados Planes e Instrumentos no deban ser sometidos a evaluación de impacto ambiental, la Consejería competente en materia de vías pecuarias y, en su caso, la que tenga asignadas competencias en materia de Espacios Naturales Protegidos conforme a lo dispuesto en la Ley 9/1999 de 26 de mayo, de Conservación de la Naturaleza, deberá informar respectivamente sobre las incidencias o impactos que pudieran causar sobre aquéllas y sobre los recursos naturales.
+Estos informes tienen carácter preceptivo y vinculante para la aprobación del instrumento de ordenación territorial y urbanística.
+4. En su caso, se procederá a la modificación del trazado de las vías pecuarias en la forma prevista en esta ley, cuando los planes e instrumentos de ordenación territorial y urbanística prevean la incorporación total o parcial de superficies o tramos de vías pecuarias a fines y usos no compatibles con los propios de éstas, debiendo, en tal caso, para la aprobación de dichos planes e instrumentos, obtenerse informe favorable del órgano competente en materia de vías pecuarias.
+5. Los Planes e Instrumentos de ordenación territorial y urbanística o, en su caso, las Normas Subsidiarias de planeamiento urbanístico clasificarán los tramos de vías pecuarias que discurran por el territorio por ellos afectado y, en su caso, sus zonas de protección a las que se refiere la letra a), del número 1, del artículo 5 del Reglamento del Suelo Rústico, aprobado por el Decreto 242/2004, de 27 de julio, como suelo rústico no urbanizable de especial protección ambiental, excepto en los casos en que se encuentren en el interior de cascos urbanos o totalmente rodeadas por suelo urbano o urbanizable, de conformidad con la disposición adicional novena del Reglamento del Suelo Rústico.
+6. Cuando las operaciones de concentración parcelaria afecten al trazado de una vía pecuaria, el órgano competente en materia de agricultura, previo informe preceptivo y vinculante del órgano competente en vías pecuarias, propondrá su modificación, que deberá recogerse en el proyecto de concentración y, posteriormente, en el acuerdo que la concluya. En estos casos, en el procedimiento de concentración parcelaria deben cumplirse las condiciones establecidas para las modificaciones de trazado de vías pecuarias.
+Una vez firme el acuerdo de concentración y otorgada el acta de reorganización de la propiedad, el órgano competente en materia de vías pecuarias aprobará la modificación de trazado del tramo afectado. El nuevo trazado se considerará clasificado como dominio público pecuario, deslindado y amojonado.
+7. Las modificaciones del trazado resultantes de la nueva ordenación territorial y urbanística mantendrán en todo caso la integridad superficial, la continuidad y la funcionalidad de las vías pecuarias.
+8. Los tramos modificados deberán ser entregados a la Comunidad Autónoma de Castilla-La Mancha, adecuadamente amojonados en la forma establecida para estos bienes y con los títulos de propiedad derivados de la operación. Una vez realizada la entrega se afectarán como bienes demaniales, adquiriendo el carácter jurídico propio de las vías pecuarias.
+Se modifica por el art. único.11 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 19
+
+Artículo 19. Del trazado de tramos urbanos y urbanizables.
+1. El instrumento que establezca una nueva ordenación territorial o urbanística deberá asegurar el mantenimiento de la integridad superficial, la idoneidad de los itinerarios y la continuidad de los trazados de las vías pecuarias. También deberá preservarse el tránsito ganadero y los demás usos compatibles y complementarios.
+La aprobación de tales instrumentos requerirá informe preceptivo y vinculante de la consejería competente en materia de vías pecuarias, el cual deberá valorar el cumplimiento de los requisitos establecidos en el párrafo anterior. Las modificaciones de los citados instrumentos requerirán de nuevos informes preceptivos y vinculantes.
+2. Sin perjuicio del supuesto previsto en el artículo 18.5, cuando un instrumento que establezca una nueva ordenación territorial o urbanística no altere el trazado de una vía pecuaria afectada por él, permita el tránsito ganadero y no afecte a los usos compatibles o complementarios de la misma, el suelo correspondiente al dominio público pecuario y, en su caso, sus zonas de protección, se clasificarán como Suelo Rústico No Urbanizable de Protección Ambiental y tendrán la consideración de Sistema General de Espacios Libres, incorporándose a la Infraestructura Verde del municipio, no pudiendo computarse su superficie como sistema local de zona verde a los efectos del cómputo de las dotaciones públicas correspondientes al ámbito desarrollado. Su adecuación, conservación y mantenimiento habitual corresponderá al municipio. Dicha gestión se determinará de conformidad con los instrumentos establecidos legalmente, con la supervisión del órgano competente en materia de vías pecuarias, que deberá informar favorablemente los que al respecto se tramiten.
+3. Si el instrumento que establezca una nueva ordenación territorial o urbanística no permite alguno de los usos establecidos legalmente o supone una disminución de la anchura de la vía pecuaria, será necesaria la modificación de su trazado que deberá contemplarse a cargo de la correspondiente actuación, previa desafectación.
+En cualquier caso, se asegurará el mantenimiento de la integridad superficial, el carácter idóneo del nuevo itinerario y su continuidad, así como los demás usos compatibles y complementarios de aquel, debiendo integrarse en la malla urbana en las mismas condiciones que las establecidas en los apartados 1 y 2.
+En estos casos y en los términos previstos en la legislación urbanística, la administración autonómica se incorporará como parte en los procedimientos de equidistribución de beneficios y cargas correspondientes a la referida actuación.
+El procedimiento se realizará de acuerdo con las siguientes prescripciones:
+a) La formulación de planes y proyectos de ordenación territorial, así como de instrumentos de planeamiento urbanístico que afecten a alguna vía pecuaria deberá incorporar en su tramitación procedimental el correspondiente deslinde de la vía, cuyos gastos corresponderán a la persona promotora del instrumento.
+b) La modificación del trazado se someterá a consulta previa de conformidad con el artículo 17.3.b) y a información pública por espacio de un mes. Estos trámites se integrarán en el procedimiento de aprobación del correspondiente proyecto o plan territorial o, en su caso, del correspondiente planeamiento urbanístico que pretenda la modificación de aquellas.
+Toda la información y documentación relativa a la modificación del trazado de la vía pecuaria estará incorporada en el expediente de tramitación del proyecto o plan en una separata o anexo específico.
+c) La aprobación de dichos instrumentos precisará, en todo caso, informe previo favorable del órgano competente en materia de vías pecuarias, que deberá comprobar los requisitos establecidos en el presente artículo, y su efectividad quedará condicionada al cumplimiento de lo dispuesto en el apartado siguiente.
+d) Previamente a la aprobación del correspondiente instrumento de equidistribución de beneficios y cargas, se deberá aprobar por el órgano competente la previa desafectación de los terrenos. Los efectos de la desafectación previa quedarán condicionados a la aprobación del referido instrumento de equidistribución de beneficios y cargas, del cual se dará traslado para su constancia tanto al Catastro y demás registros administrativos como al Registro de la Propiedad.
+e) Finalizado el procedimiento anterior, se procederá a la aprobación definitiva de la modificación de trazado. En todo caso, el nuevo tramo de vía pecuaria resultante estará libre de cargas y de servidumbres de ninguna clase y deberá adscribirse al dominio público pecuario.
+4. Los tramos de las vías pecuarias en suelo urbano consolidado deberán ser señalizados como tales por el Ayuntamiento, de forma que se haga constar la titularidad de la Junta de Castilla-La Mancha, la condición de dominio público pecuario de la vía y las limitaciones correspondientes, en especial la prioridad del tránsito ganadero.
+Se modifica por el art. 13.3 de la Ley 1/2024, de 15 de marzo. Ref. BOE-A-2024-10149
+ Se modifica por el art. único.12 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 20
+
+Artículo 20. Modificaciones de trazado por la realización de obras públicas.
+1. Cuando se proyecte una obra pública sobre el terreno por el que discurra una vía pecuaria, el organismo que la realice deberá justificar la necesidad de actuar sobre dicho terreno y la imposibilidad de utilizar a dicho fin terrenos alternativos situados fuera de la vía pecuaria, así como la utilidad pública o el interés social del proyecto.
+Se entiende por obra pública el resultado de un conjunto de trabajos de construcción o de ingeniería civil, destinado a cumplir por sí mismo una función económica o técnica, que tenga por objeto un bien inmueble y que responda a las necesidades específicas de una Administración Pública, de conformidad con lo dispuesto en la legislación de contratos del sector público.
+2. El mismo organismo actuante deberá ofrecer el trazado alternativo de la vía pecuaria, preferentemente en terrenos colindantes, que garantice el mantenimiento de sus características, principalmente su integridad superficial, y la continuidad del tránsito ganadero y de su itinerario, así como los demás usos compatibles y complementarios con aquél.
+3. El nuevo trazado estará libre de cualquier afección, carga, servidumbre o gravamen que limite o dificulte los fines de las vías pecuarias. En este caso podrá aplicarse lo contemplado en el artículo 17.3.a) de esta ley.
+4. Si la interceptación de la obra proyectada se hace dentro de la anchura legal de la vía pecuaria, permitiendo en la zona no afectada los usos establecidos en la ley para las vías pecuarias, el organismo actuante deberá solventar antes del inicio de las obras la restitución de la integridad superficial de la vía pecuaria afectada, mediante la correspondiente permuta de los terrenos necesarios.
+5. La consejería competente podrá autorizar, en casos de reconocida urgencia debidamente acreditados, la iniciación de las obras, siempre y cuando quede asegurado el tránsito ganadero y el promotor del proyecto garantice la aportación de los terrenos necesarios para la modificación propuesta.
+6. En ningún caso, por el carácter demanial de las vías pecuarias, procederá la formalización de actas previas de ocupación, a efectos de expropiación, de parcelas pertenecientes a ellas sin haberse aprobado los correspondientes expedientes de modificación.
+7. La resolución firme que ponga fin al procedimiento será título suficiente para la inscripción o anotación de la vía pecuaria en registros, inventarios o catálogos administrativos, en su caso y conforme a la legislación aplicable.
+Se modifica por el art. único.13 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 21
+
+Artículo 21. Cruce de vías pecuarias por infraestructuras lineales.
+1. En los cruces de las vías pecuarias con vías de comunicación, líneas férreas o carreteras de cualquier tipo, que se realicen sin modificación de trazado, la persona u organismo actuante de las mismas deberá habilitar, conforme a lo dispuesto en la legislación de contratación del sector público y de expropiación forzosa, pasos a nivel, cuando no revistan ningún tipo de peligro, o de distinto nivel adecuados que aseguren los usos de las vías pecuarias, en condiciones de rapidez, comodidad y seguridad, mediante el establecimiento de sistemas que permitan el uso diferenciado de las mismas.
+Las personas titulares de las citadas vías de comunicación, quedan obligadas a no impedir los usos de la vía pecuaria en el cruce y a asumir la instalación y mantenimiento de la debida señalización, de manera que dichos usos discurran sin interferencias y sin riesgo de accidentes. Las posibles responsabilidades que se puedan originar por los usos de las vías pecuarias en estos cruces recaerán sobre las personas titulares de la vía de comunicación que cruza con la vía pecuaria.
+2. La persona o entidad promotora deberá aportar las pertinentes franjas o fajas de terreno, que permitan asegurar la integridad superficial y la funcionalidad de las vías pecuarias, mediante la correspondiente permuta de los terrenos necesarios.
+3. Es competencia de la Junta de Comunidades de Castilla-La Mancha la señalización correspondiente de las vías pecuarias, salvo en el caso establecido en los artículos 19.4, 21.1 y en el de ocupaciones temporales establecidas en el artículo 22.6 de la presente ley.
+Se modifica el apartado 3 por el art. 13.4 de la Ley 1/2024, de 15 de marzo. Ref. BOE-A-2024-10149
+ Se modifica por el art. único.14 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+## CAPÍTULO V
+
+Ocupaciones
+
+### Artículo 22
+
+Artículo 22. Disposiciones generales.
+1. Por razones de interés público y excepcionalmente por razones de interés particular, debidamente acreditadas, la consejería competente en materia de vías pecuarias podrá autorizar ocupaciones de carácter temporal, siempre y cuando no alteren el tránsito ganadero ni impidan los demás usos compatibles o complementarios con aquél.
+a) Se considerarán ocupaciones por razones de interés público aquellas que se deriven de obras y servicios declarados de utilidad pública o interés social.
+b) Las ocupaciones que afectan a vías pecuarias declaradas de especial interés deberán ser informadas favorablemente por los órganos competentes de la consejería que tenga atribuidas competencias en materia de Espacios Naturales Protegidos y Montes declarados de Utilidad Pública.
+c) Cuando afecten a vías pecuarias declaradas de interés cultural y socio-recreativo, en ningún caso, podrán lesionar estos intereses.
+2. Son ocupaciones transitorias aquellas que se deriven de obras y servicios que afecten directamente a terrenos contiguos o adyacentes con las vías pecuarias e incidan en éstas de forma transitoria durante la ejecución de las mismas. Se concederán con carácter temporal por el plazo de duración de las obras por un máximo de un año, sin perjuicio de su renovación y con la obligación de restituir la vía pecuaria a su estado primitivo si resultase afectada por los trabajos.
+Asimismo, se consideran transitorias las ocupaciones, por un máximo de un año, para trabajos de investigación de aguas, hidrocarburos y mineras. No comportarán necesariamente la posterior ocupación de los terrenos para su aprovechamiento o explotación, que requerirán la tramitación que se considere concordante con lo dispuesto en esta ley y en las respectivas leyes sectoriales.
+3. Las ocupaciones no podrán ser otorgadas por plazos superiores a diez años, sin perjuicio de su ulterior renovación.
+4. Los expedientes de ocupación serán sometidos a información pública por espacio de un mes y habrán de contar con los informes de los Ayuntamientos en cuyos términos municipales radique el tramo afectado. En el supuesto de que estos informes no sean emitidos en el plazo de un mes se continuará con la tramitación del expediente.
+5. Las ocupaciones se otorgarán sin perjuicio de las licencias, permisos y autorizaciones que puedan ser exigidas por la Administración autonómica u otras administraciones.
+6. Los trabajos derivados de la ocupación se ejecutarán con las necesarias garantías, tanto para no impedir o dificultar el tránsito ganadero, como para asegurar que éste no pueda causar daño a las instalaciones. La persona beneficiaria deberá realizar la señalización que se establezca.
+La persona beneficiaria deberá restituir la vía pecuaria a su estado primitivo, una vez finalizada la ocupación, bien sea por caducidad, revocación o renuncia de la persona interesada, a cuyo efecto se podrá exigir la constitución de la correspondiente fianza.
+7. Las ocupaciones no deben imposibilitar ninguno de los usos previstos legalmente para las vías pecuarias. En ningún caso se autorizará una ocupación temporal ni transitoria de las superficies que reduzca en más de la mitad de la anchura total útil del tramo de vía pecuaria afectada.
+Sólo excepcionalmente, cuando técnicamente lo justifique la inexistencia de alternativa se autorizarán ocupaciones de carácter transversal, de báculos o postes para el soporte de líneas aéreas eléctricas o telefónicas y registros de control en las instalaciones de gas, productos petrolíferos, etc.
+Las instalaciones de carácter longitudinal solo podrán ser autorizadas cuando se acredite técnicamente que no son viables trazados alternativos fuera de las propias vías pecuarias, en cuyas circunstancias los itinerarios de las instalaciones deberán establecerse por las bandas laterales, con las señalizaciones adecuadas para su identificación.
+En las conducciones de agua podrá imponerse la obligación de colocar hidrantes o dispositivos adecuados para la toma de agua, cuando crucen espacios protegidos o masas forestales con riesgo de incendios, al único destino de lucha contra ellos debidamente señalizados para evitar accidentes. También podrá imponerse la obligación de suministrar agua para los abrevaderos del ganado trashumante en sus desplazamientos.
+8. Las instalaciones de vallas o cercados que ocupen toda la anchura de la vía pecuaria, solo podrán ser autorizadas cuando se realicen con materiales prefabricados que permitan su fácil desmonte por una sola persona y la restitución de la vía pecuaria a su estado primitivo para facilitar el paso del ganado. Además, deberán dejarse puertas o cancelas abiertas para permitir el uso público de la vía pecuaria de un ancho mínimo, que estará señalizada de forma permanente, de las medidas que se estimen, indicando el carácter público de la vía pecuaria, el nombre y la anchura de la misma, con el emblema/escudo de la Junta de Comunidades de Castilla-La Mancha, cuyo gasto sería a cargo de la persona beneficiaria de la ocupación.
+9. Queda totalmente prohibido, incluso con carácter temporal, la ocupación de terrenos de vías pecuarias para el establecimiento de basureros, escombreras y plantas de tratamiento de Residuos Sólidos Urbanos. Asimismo, queda prohibida la extracción de rocas, áridos y gravas.
+10. De acuerdo con la legislación en materia de patrimonio, en contraprestación por el uso del terreno de dominio público ocupado y por el beneficio obtenido por la ocupación, las personas autorizadas vendrán obligadas al pago del canon de ocupación que se determine en la autorización.
+Estas cantidades serán incluidas en el fondo finalista recogido en la disposición adicional cuarta.
+Se modifica por el art. único.15 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 23
+
+Artículo 23. Ocupaciones por razones de interés público.
+(Suprimido)
+Se suprime por el art. único.16 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 24
+
+Artículo 24. Ocupaciones por razones de interés particular.
+(Suprimido)
+Se suprime por el art. único.17 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+ Se modifica el apartado 1 por la disposición final 2.1 de la Ley 5/2020, de 24 de julio. Ref. BOE-A-2020-12770#df-2
+
+### Artículo 25
+
+Artículo 25. Ocupaciones en vías pecuarias innecesarias y en franjas sobrantes.
+(Suprimido)
+Se suprime por el art. único.18 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 26
+
+Artículo 26. Ocupaciones en parcelas de reemplazo, procedentes de proyectos de modificación de la propiedad rústica.
+1. Las ocupaciones en estas parcelas, cuando sean colindantes con vías pecuarias, se regirán por las mismas normas descritas anteriormente para éstas.
+2. En el caso de ser parcelas aisladas de las vías pecuarias, por su carácter patrimonial, por motivos de interés público o social, expresamente declarado, pueden autorizarse ocupaciones temporales por plazo superior a diez años o ser incluso objeto de enajenación o expropiación, tal y como se establece en la Ley y Reglamento sobre Patrimonio de la Comunidad Autónoma de Castilla-La Mancha.
+
+### Artículo 27
+
+Artículo 27. Autorizaciones para el acondicionamiento, mantenimiento y mejora.
+1. Sin perjuicio de las competencias de la Comunidad Autónoma de Castilla-La Mancha para el mantenimiento, acondicionamiento y mejora de las vías pecuarias, para facilitar por ellas el tránsito, siendo el agrario prioritario y las actividades, usos y servicios compatibles y complementarios, se podrá autorizar a entidades, organismos, asociaciones, así como a personas físicas y jurídicas, la ejecución de obras y trabajos de acondicionamiento, mantenimiento y mejora sobre tramos o franjas de terreno de las vías pecuarias siempre y cuando no perjudiquen el tránsito ganadero.
+Queda prohibido, salvo en circunstancias excepcionales, el asfaltado u hormigonado de las vías pecuarias para acondicionamiento al tráfico vial ordinario que desvirtúe su propia naturaleza.
+2. Los procedimientos de autorización para el acondicionamiento, mantenimiento y mejora tendrán una duración máxima de seis meses.
+3. Estas autorizaciones tendrán carácter discrecional y temporal, con una duración máxima de dos años, sin que de ellas se derive derecho alguno ni sobre las vías pecuarias ni sobre los trabajos realizados, a favor de quienes las solicitaron o ejecutaron.
+4. El incumplimiento de los condicionados en la ejecución de las obras o trabajos autorizados obligará a sus responsables a la reparación de los daños causados, a cuyo efecto podrán exigirse, con carácter previo, las fianzas y avales que se consideren necesarias o pertinentes.
+5. En los casos en que la mejora se practique sobre un camino que discurra dentro de la propia vía pecuaria, y conlleve el acondicionamiento mediante su asfaltado u hormigonado, aquél deberá ajustar su trazado a uno de los límites de la vía, salvo que, de forma excepcional y debidamente fundamentada, no pueda llevarse a cabo de este modo. Cuando se trate de mejorar o reparar un camino previamente asfaltado y hormigonado, se podrá mantener el trazado original. La responsabilidad del tráfico de vehículos en los viales que discurren dentro de las vías pecuarias corresponde a los organismos competentes sobre los mismos.
+Se modifica por el art. único.19 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+## CAPÍTULO VI
+
+Aprovechamientos
+
+### Artículo 28
+
+Artículo 28. Disposiciones generales.
+1. Todos los frutos y productos no utilizados por las cabezas de ganado en su normal tránsito por las vías pecuarias, excepto los herbáceos, podrán ser objeto de aprovechamiento, previa autorización de la Consejería competente y en las condiciones que reglamentariamente se establezcan.
+No obstante, a dichos efectos se tomarán en consideración las siguientes circunstancias:
+a) En los tramos de vías pecuarias que discurran por Espacios Naturales Protegidos, cualquiera que sea su calificación, deberán ser observados los condicionantes de los correspondientes Planes de Ordenación de los Recursos Naturales.
+b) En los tramos de vías pecuarias que discurran por montes declarados de utilidad pública de la pertenencia de Entidades Locales, la utilización de los recursos forestales no utilizados por el ganado trashumante y que se declaren susceptibles de aprovechamiento, será acorde con el contenido de los Planes Básicos de Ordenación del Medio Natural o Proyectos de Ordenación Forestal que rijan sobre el monte, estableciendo los correspondientes convenios entre la Consejería competente en la materia y las Entidades Locales propietarias de los montes.
+c) (Suprimida).
+d)(Derogada).
+e) En ningún caso podrán autorizarse el aprovechamiento de tierras, áridos o canteras, en las vías pecuarias, incluso en las parcelas de reemplazo colindantes con ellas.
+El aprovechamiento de recursos mineros del subsuelo de terrenos de vías pecuarias a cielo abierto, cuando perjudique las plataformas, impida o dificulte el tránsito ganadero al crear vacíos, requerirá la correspondiente modificación de trazado conforme se dispone en esta Ley.
+f) Los aprovechamientos en vías pecuarias declaradas innecesarias o en franjas sobrantes, no desafectadas por su carácter demanial, se ajustarán también a lo dispuesto anteriormente.
+2. El procedimiento a seguir para la autorización y adjudicación de los aprovechamientos sobrantes de las vías pecuarias será el estipulado para aprovechamientos similares en los montes públicos pertenecientes a la Junta de Comunidades de Castilla-La Mancha. El importe que se perciba por los frutos y aprovechamientos de las vías pecuarias se destinará a la conservación, vigilancia y mejora de las mismas.
+Se modifica el apartado 2 y se suprime el 1.c) por el art. único.20 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+ Se deroga el apartado 1.d) por la disposición derogatoria.Una de la Ley 3/2015, de 5 de marzo. Ref. BOE-A-2015-6877#dd
+
+## TÍTULO III
+
+Régimen de Usos y Actividades en las Vías Pecuarias
+
+### Artículo 29
+
+Artículo 29. Disposiciones generales.
+1. El uso común, prioritario y específico de las vías pecuarias, es el que se dispone en el artículo 4 de esta ley, es decir, el tradicional tránsito ganadero de régimen de trashumancia, trasterminancia y cualquier otro tipo de desplazamiento del ganado para pastar, abrevar o pernoctar.
+2. Pueden, no obstante, satisfacer otros usos y servicios, siempre y cuando por su naturaleza sean compatibles con su uso común, prioritario y específico, conforme se dispone en los artículos 16 y 17 de la Ley 3/1995, de 23 de marzo.
+3. Pueden también realizarse en ellas, previa autorización, con carácter concreto y temporal, actividades culturales, recreativas y deportivas de carácter asociativo, así como concederse autorizaciones, también temporales, por razones ecológicas, de interés público o interés social, conforme se dispone en el artículo 22 de esta ley.
+Estas actividades serán objeto de especial consideración cuando afecten a vías pecuarias declaradas de especial interés natural, cultural y socio-recreativo.
+4. No podrán instalarse carteles en terrenos de vías pecuarias, a fin de evitar la contaminación visual del paisaje, con la excepción de los paneles de información o interpretación, carteles y signos que establezcan las administraciones públicas en cumplimiento de sus funciones o los que informen de servicios y establecimientos con ocupaciones de las vías pecuarias legalmente autorizadas, que se ajustarán a las condiciones que establezca la Administración gestora de las mismas en la correspondiente autorización de la ocupación temporal.
+5. Los usos y actividades en vías pecuarias que discurran dentro de los límites de la Red de Áreas Protegidas de Castilla-La Mancha se rigen por su legislación específica, así como por las disposiciones de esta ley, en lo que no sea contrario a aquélla.
+Se modifica por el art. único.21 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 30
+
+Artículo 30. Uso común, prioritario y específico.
+1. El tránsito del ganado por las vías pecuarias tiene carácter prioritario sobre cualquier otro, siendo libre y gratuito en cualquier circunstancia, debiendo quedar garantizada no sólo su continuidad sino también su seguridad.
+2. Para garantizar la seguridad del tránsito ganadero, cuando las vías pecuarias discurran colindantes con las vías de comunicación de vehículos a motor o líneas férreas, se establecerán las vallas o balizamientos que se consideren necesarios, respetando las zonas de servidumbre legalmente establecidas, para impedir la invasión del vial por las cabezas de ganado.
+3. Los ganados en su libre tránsito por las vías pecuarias podrán aprovechar libremente los recursos pastables espontáneos y abrevar en los manantiales, fuentes o abrevaderos en ellas existentes, adoptándose, cuando se capten aguas para consumo humano, las medidas adecuadas para evitar su contaminación.
+Se modifica por el art. único.22 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+ Se modifica el apartado 3 por la disposición final 1.1 de la Ley 3/2008, de 12 de junio. Ref. BOE-A-2008-13685#dfprimera
+
+### Artículo 31
+
+Artículo 31. Usos comunes compatibles.
+Son usos comunes compatibles con la actividad pecuaria, los tradicionales que, siendo de carácter agrario y no teniendo la naturaleza jurídica de ocupación, puedan ejercitarse en armonía con el tránsito ganadero. Se consideran como tales:
+a) La circulación de personas a pie, acompañadas de animales que permanezcan bajo su control y no perturben el tránsito ganadero.
+b) Las comunicaciones rurales y, en particular, el desplazamiento de vehículos y maquinaria agrícola o forestal para su utilización en las explotaciones agrarias a las que den acceso y, previa autorización, de la maquinaria necesaria para mantenimiento y obras en otras explotaciones, plantas o industrias que no tengan otro acceso viable, con las limitaciones y condiciones que se establezcan para hacerlo compatible con el uso común. La velocidad de estos vehículos no podrá superar los 40 kilómetros por hora.
+Quedan excluidas de dicha autorización las vías pecuarias en el momento de transitar el ganado y aquellas que revistan interés ecológico y cultural.
+En el caso de proyectos y actuaciones declaradas prioritarias de conformidad con lo dispuesto en la Ley 5/2020, de 24 de julio, de Medidas Urgentes para la Declaración de Proyectos Prioritarios en Castilla-La Mancha, la autorización a la que hace referencia el presente artículo podrá sustituirse por la presentación de una declaración responsable ante el órgano competente de la Comunidad Autónoma con una antelación de 15 días.
+c) Previa autorización, las plantaciones lineales, cortavientos y ornamentales, con especies arbóreas o arbustivas, cuando permitan y no dificulten el normal tránsito ganadero. En cualquier caso, éstas respetarán, con las fincas o bienes colindantes, las distancias establecidas en el Código Civil y las condiciones que reglamentariamente pudieran establecerse.
+Se modifica el apartado b) por el art. único.23 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+ Se modifica por la disposición final 2.2 de la Ley 5/2020, de 24 de julio. Ref. BOE-A-2020-12770#df-2
+
+### Artículo 32
+
+Artículo 32. Usos comunes complementarios.
+1. Son usos comunes complementarios de las vías pecuarias, las siguientes actividades:
+a) Recreativas y de esparcimiento.
+b) Desplazamientos en vehículos no motorizados para la práctica de actividades deportivas.
+c) Senderismo y cabalgada.
+d) Educativas y formativas en materia de medio ambiente y del acervo cultural, así como las de investigación sobre estas materias.
+2. Requerirán previa autorización las actividades de carácter asociativo, con las limitaciones que puedan imponerse por su incompatibilidad con la protección de ecosistemas sensibles, masas forestales con alto riesgo de incendios y especies de flora y fauna protegidas.
+3. Cuando se trate de instalaciones desmontables vinculadas a una actividad de servicios que sean necesarias para el ejercicio de estas actividades complementarias, la autorización referida en el artículo 22 de esta ley se sustituirá por la declaración responsable, prevista en el artículo 69 de la Ley 39/2015, de 1 de octubre. La declaración responsable deberá presentarse con un periodo mínimo de antelación de quince días, para que la consejería competente en la materia pueda comprobar la compatibilidad de la instalación desmontable con lo establecido en el artículo 4 de esta ley.
+Se modifica por el art. único.24 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+ Se modifica por el art. 3.1 de la Ley 7/2009, de 17 de diciembre. Ref. BOE-A-2010-16093
+
+### Artículo 33
+
+Artículo 33. Uso complementario prevalente.
+Se consideran como uso prevalente complementario las actividades de tipo ecológico, educativo y cultural que previa autorización se realicen en los tramos de vías pecuarias clasificadas de especial interés de la Comunidad Autónoma de Castilla-La Mancha.
+
+### Artículo 34
+
+Artículo 34. Vías de servicio sobre vías pecuarias en las zonas afectadas por Planes o Proyectos de Reorganización de la Propiedad Rústica.
+1. Las vías de servicio que, como consecuencia de Planes o Proyectos de Reorganización de la Propiedad Rústica, se acondicionen sobre franjas de vías pecuarias deberán destinarse a facilitar el acceso a las fincas colindantes de carácter agrario, cuando pueda realizarse en armonía con el tránsito ganadero.
+2. No obstante, las mismas no serán afectadas en su condición de vías pecuarias y consiguientemente, seguirán conservando su régimen jurídico, manteniendo la consejería competente en materia de vías pecuarias la plena capacidad de gestión y administración. En cualquier caso, la responsabilidad de conservación de las vías de servicio será de aquellos organismos o entidades a las que se haya hecho entrega la red vial resultante de la operación.
+Se modifica por el art. único.25 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+## TÍTULO IV
+
+Red Nacional y Regional de Vías Pecuarias
+
+### Artículo 35
+
+Artículo 35. Red Nacional.
+1. De acuerdo con lo expuesto en el artículo 18 de la Ley 3/1995, de 23 de marzo, de Vías Pecuarias, en la Red Nacional de Vías Pecuarias quedarán integradas todas las cañadas y aquellas otras vías pecuarias que discurran por la Comunidad Autónoma de Castilla-La Mancha que garanticen la continuidad de sus itinerarios por otras Comunidades Autónomas.
+2. Previa propuesta de la Comunidad Autónoma de Castilla-La Mancha, podrán incorporarse también a la citada Red las vías pecuarias que discurran por su territorio y estén conectadas con otras de la Red Nacional.
+La Comunidad Autónoma de Castilla-La Mancha confeccionará la Relación de vías pecuarias que deben integrarse en la Red Nacional de conformidad con lo dispuesto en la Ley 3/95, de 23 de marzo, de Vías Pecuarias.
+3. Los expedientes de desafectación y de expropiación, junto con los negocios jurídicos de adquisición que afecten a terrenos de las vías pecuarias integradas en la Red Nacional, son competencia de la Administración de la Junta de Comunidades de Castilla-La Mancha, previo informe de la Administración General del Estado.
+4. En las resoluciones aprobatorias del deslinde de vías pecuarias que estén integradas en la Red Nacional, se hará constar esta circunstancia.
+
+### Artículo 36
+
+Artículo 36. Red Regional.
+1. Se crea la Red Regional de Vías Pecuarias de Castilla-La Mancha, en la que se integran todas las vías pecuarias, con independencia de su tipología, los descansaderos, abrevaderos y cualquier otro territorio o instalaciones anexas para el uso del ganado en sus desplazamientos así como las fincas de reemplazo colindantes con ellas, resultantes de expedientes de reorganización de la propiedad rústica.
+2. Las vías pecuarias de Castilla-La Mancha se inscribirán en un registro público de carácter administrativo, en la forma que reglamentariamente se disponga.
+3. Análogamente se confeccionará un inventario con todas las características de las parcelas de reemplazo no colindantes con vías pecuarias, con su situación y características.
+
+### Artículo 37
+
+Artículo 37. Fondo documental.
+1. La Relación, el Registro y el Inventario a que hacen referencia los artículos anteriores con todas las resoluciones y actos administrativos que hayan afectado o afecten a las vías pecuarias de la Comunidad Autónoma de Castilla-La Mancha constituirán el fondo documental de las mismas, que tendrá carácter público.
+2. La Administración Regional dará traslado a la Administración General del Estado de las resoluciones administrativas y judiciales que afecten a la Red Nacional de Vías Pecuarias.
+
+### Artículo 38
+
+Artículo 38. Señalización.
+La Administración Regional dispondrá reglamentariamente las características de la señalización de las vías pecuarias que correspondan tanto a la Red Nacional como a la Red Regional, estableciendo, en su caso, con la Administración General del Estado los convenios necesarios para su realización.
+
+### Artículo 39
+
+Artículo 39. Colaboración con Organismos de la Administración y organizaciones o colectivos, cuyo fin sea la defensa del medio ambiente.
+1. Sin perjuicio de la colaboración con la Administración General del Estado, a que hace referencia el artículo 18 de la Ley 3/95, de 23 de marzo, de Vías Pecuarias, la Administración Regional podrá suscribir convenios de colaboración con las Diputaciones Provinciales y Ayuntamientos de su territorio y en sus respectivos ámbitos territoriales para la conservación, defensa y vigilancia de la red regional de vías pecuarias.
+2. De igual modo podrá suscribir a los mismos fines convenios de cooperación, de conformidad con lo dispuesto en el artículo 40 de la Ley Orgánica 9/1982 de 10 de agosto, del Estatuto de Autonomía de Castilla-La Mancha, con las Comunidades Autónomas por donde tengan prolongación las vías pecuarias de su territorio.
+3. Se podrán suscribir convenios de igual naturaleza con Organismos, Organizaciones Agrarias, Ganaderas y colectivos que tengan como fin la defensa del medio ambiente.
+
+## TÍTULO V
+
+De las Infracciones, Sanciones y Procedimiento
+
+## CAPÍTULO I
+
+Vigilancia e Inspección
+
+### Artículo 40
+
+Artículo 40. Vigilancia e inspección en materia de vías pecuarias.
+1. El ejercicio de las funciones de vigilancia, inspección y policía en materia de vías pecuarias en el territorio de la Comunidad Autónoma de Castilla-La Mancha corresponde a la Consejería competente en la gestión y administración de estos bienes, así como a aquellas Consejerías que se vean afectadas en sus competencias y sin perjuicio de las que pudiera corresponder, por su carácter de bienes demaniales, a cualquier otro Órgano de la Administración.
+2. Las funciones de vigilancia, inspección y policía, en el ámbito territorial de la Comunidad Autónoma de Castilla-La Mancha corresponde especialmente a los miembros de los Cuerpos de Agentes Medioambientales y Guardería Forestal, sin perjuicio de los Cuerpos que pudieran resultar competentes por adscripción al órgano que tenga atribuida competencia sobre las mismas.
+3. Los miembros de las Fuerzas y Cuerpos de Seguridad del Estado, los Policías Municipales y los miembros legalmente acreditados de la Guardería Rural podrán realizar labores de vigilancia en materia de vías pecuarias de acuerdo con su normativa reguladora.
+4. Los funcionarios, agentes o miembros de los Cuerpos que tengan asignadas funciones de vigilancia, inspección y policía sobre las vías pecuarias tendrán la obligación de denunciar las infracciones que se cometan en ellas, conforme a lo dispuesto en esta Ley y levantar acta de los hechos comprobados, que harán prueba en los procedimientos sancionadores, sin perjuicio de las pruebas de defensa que pudieran aportar los afectados.
+Se modifica el apartado 4 por la disposición final 1.2 de la Ley 3/2008, de 12 de junio. Ref. BOE-A-2008-13685#dfprimera
+
+## CAPÍTULO II
+
+De las Infracciones
+
+### Artículo 41
+
+Artículo 41. Tipificación de infracciones.
+1. A efectos de esta Ley y de conformidad con el artículo 21 de la Ley 3/95, de 13 de marzo, de Vías Pecuarias, las infracciones que se cometan en las vías pecuarias se clasifican en muy graves, graves y leves:
+2. Son infracciones muy graves:
+a) La alteración de hitos, mojones o indicadores de cualquier clase, destinados a la identificación de los límites de las vías pecuarias.
+b) La edificación o ejecución no autorizada de cualquier tipo de obras en terrenos de vías pecuarias.
+c) La instalación de obstáculos o la realización de cualquier tipo de acto que impida totalmente el tránsito de ganado o los demás usos compatibles o complementarios con las vías pecuarias.
+d) Las acciones u omisiones que causen daño o menoscabo en las vías pecuarias o impidan su uso, así como la ocupación de las mismas sin el debido título administrativo.
+e) El incumplimiento de las medidas provisionales o cautelares adoptadas de conformidad con lo dispuesto en esta Ley.
+f) La reincidencia en infracciones graves.
+3. Son infracciones graves:
+a) La instalación de carteles, obstáculos o la realización de cualquier tipo de acto que impida parcialmente el tránsito de ganado o los demás usos compatibles o complementarios con las vías pecuarias.
+b) La roturación o plantación no autorizada que se realice en cualquier clase vía pecuaria.
+c) Los vertidos, derrames o depósitos de residuos sobre superficies de vías pecuarias.
+d) La corta o tala no autorizada de los árboles existentes en las vías pecuarias.
+e) El aprovechamiento no autorizado de los frutos o productos de las vías pecuarias no utilizables por el ganado trashumante.
+f) La realización de obras o instalaciones no autorizadas de carácter provisional en las vías pecuarias.
+g) El incumplimiento de las condiciones establecidas en los correspondientes títulos administrativos de concesión o autorización cuando dificulten el tránsito ganadero y demás usos compatibles y complementarios a las vías pecuarias.
+h) La obstrucción del ejercicio de las funciones de policía, inspección o vigilancia previstas en la presente Ley.
+i) Haber sido sancionado, por resolución firme, por la comisión de dos faltas leves en un periodo de seis meses.
+j) La no presentación de declaración responsable o el incumplimiento de las previsiones contenidas en la declaración responsable para el ejercicio de una determinada actividad o de las condiciones impuestas por la administración para el ejercicio de la misma.
+k) La inexactitud, falsedad u omisión de los datos, manifestaciones o documentos que se incorporen o acompañen a la declaración responsable.
+4. Son infracciones leves:
+a) Las acciones u omisiones que causen daño o menoscabo en las vías pecuarias, sin que impidan el tránsito de ganado o demás usos compatibles o complementarios.
+b) El incumplimiento de las condiciones establecidas en los correspondientes títulos administrativos de autorización y uso de las vías pecuarias, que no perturben el tránsito ganadero y demás usos compatibles y complementarios de las vías pecuarias.
+c) El incumplimiento total o parcial de las prohibiciones establecidas en la presente Ley y la omisión de actuaciones que fueran obligatorias conforme a ella, si no constituyen infracciones muy graves o graves.
+Se modifica el apartado 3.a) por el art. único.26 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+ Se añaden las letras j) y k) al apartado 3 por el art. 3.2 y 3 de la Ley 7/2009, de 17 de diciembre. Ref. BOE-A-2010-16093
+
+### Artículo 42
+
+Artículo 42. Decomisos.
+1. La Administración podrá decomisar los productos ilegalmente obtenidos de las vías pecuarias, así como los instrumentos o materiales y medios utilizados a tal fin, cuando las presuntas infracciones se consideren graves o muy graves.
+2. Los objetos decomisados podrán ser devueltos a sus dueños, antes de finalizar el procedimiento sancionador, depositando avales equivalentes a su valor comercial.
+
+### Artículo 43
+
+Artículo 43. Pérdida de beneficios.
+Las subvenciones o ayudas públicas de cualquier tipo, concedidas por órganos de la Junta de Comunidades de Castilla-La Mancha para obras, trabajos o actividades autorizadas en vías pecuarias, cuando éstos den origen a infracciones o causen daños y perjuicios al tránsito ganadero, podrán ser resueltos y procederá el reintegro total o parcial de las cantidades percibidas de conformidad con lo dispuesto en el artículo 76 del Decreto Legislativo 1/2002, 19 de noviembre de 2002, por el que se aprueba el texto refundido de la Ley de Hacienda de Castilla-La Mancha.
+
+### Artículo 44
+
+Artículo 44. Naturaleza de las infracciones.
+1. Las acciones u omisiones que infrinjan lo previsto en la presente Ley generarán responsabilidad de naturaleza administrativa, sin perjuicio de la exigible en vía penal, civil o de otro orden en el que puedan incurrir los responsables.
+2. Cuando la infracción sea cometida por diversos participantes y no se pueda determinar el grado de participación, la responsabilidad será solidaria sin perjuicio del derecho de repetir frente a los otros participantes, por parte de aquél o aquellos que hubieren hecho frente a la responsabilidad.
+
+### Artículo 45
+
+Artículo 45. Responsabilidad.
+1. Son responsables directos de la comisión de infracciones en materia de vías pecuarias:
+a) Los que ejecuten las acciones constitutivas de infracción o aquellos que ordenen las mismas, cuando el ejecutor se vea obligado a cumplir dicha orden.
+b) Los titulares o beneficiarios de concesiones o autorizaciones que incumplieran los condicionados de las mismas o realicen actos de infracción sobre las vías pecuarias.
+2. Son responsables subsidiarios:
+a) Las personas físicas o jurídicas promotoras de las obras o proyectos que den origen a la infracción.
+b) Las Corporaciones o Entidades públicas que otorguen autorizaciones al margen de la legislación vigente en materia de vías pecuarias y den origen a infracciones sobre las mismas.
+c) La autoridad, funcionario o empleado público que, en el ejercicio de su cargo, ordenase, favoreciese o consintiera los hechos determinantes de la infracción, sin perjuicio de la responsabilidad penal, civil o disciplinaria en la que pudieran incurrir y cuya depuración corresponderá a los Órganos competentes.
+
+## CAPÍTULO III
+
+De las Sanciones
+
+### Artículo 46
+
+Artículo 46. Sanciones.
+Las infracciones anteriormente reseñadas, serán sancionadas con las siguientes multas:
+a) Las leves con multa entre 60,10 y 601,01 euros.
+b) Las graves con multa entre 601,02 y 30.050,61 euros.
+c) Las muy graves con multa entre 30.050,62 a 150.253,03 euros.
+
+### Artículo 47
+
+Artículo 47. Graduación de las sanciones.
+1. Las sanciones se impondrán atendiendo a las siguientes circunstancias:
+a) La intencionalidad.
+b) La repercusión sobre la seguridad de las personas y bienes.
+c) El impacto ambiental ocasionado o los perjuicios que pudieran derivarse para el medio ambiente.
+d) El grado de culpabilidad y de participación en la infracción.
+e) Los beneficios que se hayan obtenido o de pudieran obtener.
+f) La reincidencia.
+g) La naturaleza de los perjuicios causados.
+Se considera reincidencia la comisión en el término de un año de más de una infracción de igual naturaleza, cuando así haya sido declarada por resolución firme.
+La reincidencia podrá incrementar las sanciones hasta el 50 por ciento del importe calculado conforme a las restantes circunstancias, si bien no se podrá superar el máximo de la sanción correspondiente al tipo de infracción.
+2. Las sanciones no podrán, en ningún caso, ser inferiores al beneficio resultante de la comisión de la infracción.
+Las infracciones cometidas en tramos de vías pecuarias declaradas de especial interés, podrán ser sancionadas con un incremento de 25 por ciento, sobre el importe calculado en función de todas las circunstancias concurrentes, si bien no podrá superar el máximo establecido correspondiente al tipo de infracción.
+
+### Artículo 48
+
+Artículo 48. Sanciones por infracciones concurrentes.
+1. A los responsables de dos o más infracciones diferenciadas se les impondrán las sanciones correspondientes a cada una de ellas.
+2. En ningún caso procederá una doble sanción por los mismos hechos y en función de los mismos intereses públicos protegidos con arreglo a esta Ley y a otras normas de protección ambiental, debiéndose en este caso imponer únicamente la sanción más alta de las que resulten tras resolverse los correspondientes procedimientos sancionadores.
+
+### Artículo 49
+
+Artículo 49. Medidas provisionales y cautelares.
+1. Durante la tramitación del procedimiento sancionador el órgano competente podrá adoptar en cualquier momento, de forma motivada, las medidas de carácter provisional que considere adecuadas, para la eficaz resolución del expediente, de conformidad con lo establecido en el artículo 136 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y el Reglamento aprobado por el Real Decreto 1398/1993, de 4 de agosto.
+2. Dictada resolución y en tanto adquiera carácter firme, podrán también adoptar medidas cautelares con los mismos fines de las medidas provisionales antes referidas, para asegurar la eficacia de la resolución final del expediente, conforme a lo dispuesto en el artículo 138.3 de la citada Ley 30/1992.
+
+### Artículo 50
+
+Artículo 50. Reparación de daños.
+1. Sin perjuicio de las sanciones penales o administrativas que en cada caso procedan, el infractor deberá reparar el daño causado. La reparación tendrá como objetivo lograr la restauración de la vía pecuaria al estado en que se encontraba antes de cometerse la infracción.
+2. Si la restauración o restitución de la vía pecuaria no fuese posible en el mismo lugar afectado por la infracción, deberá ser restituida su integridad y la continuidad del tránsito ganadero mediante la adecuada modificación de trazado, en la forma prevista en la presente Ley.
+El costo de dicha operación deberá ser financiado por los responsables de la infracción.
+3. Los plazos para restaurar o restituir los terrenos a su estado original o ejecutar los trabajos pertinentes a tal fin, se establecerán para cada caso concreto en las resoluciones de los procedimientos tramitados, en función de sus propias características.
+Transcurridos los citados plazos, la Administración Regional podrá proceder a la restauración o restitución repercutiendo su costo a los infractores, quienes deberán, asimismo, abonar la totalidad de los daños y perjuicios ocasionados, que se hubieran fijado en la resolución final del expediente sancionador, o se fijen en su caso, en la fase de ejecución.
+4. Cuando la reparación del daño no fuese posible en ninguna de las formas previstas anteriormente, si subsisten daños y perjuicios irreparables, se exigirán a los infractores las indemnizaciones que procedan a fin de restituir y garantizar el tránsito ganadero.
+
+### Artículo 51
+
+Artículo 51. Multa coercitiva.
+Para ejecutar el cumplimiento de las resoluciones adoptadas, la Administración Regional podrá imponer multas coercitivas, reiteradas por lapsos de tiempo que sean suficientes para cumplir lo ordenado, por cuantías que no excedan del veinte por ciento de la multa fijada por la infracción correspondiente.
+
+## CAPÍTULO IV
+
+Del Procedimiento y de la competencia sancionadora
+
+### Artículo 52
+
+Artículo 52. Iniciación.
+1. La iniciación y tramitación de los expedientes sancionadores corresponde a la Delegación de Agricultura y Medio Ambiente que tenga atribuida la gestión y administración de la vía pecuaria.
+2. El procedimiento sancionador se iniciará de oficio, en virtud de denuncia formulada por Agentes de la Autoridad, Organismos Administrativos o particulares cuando las mismas se formulen con los requisitos legalmente previstos, o cuando se tenga conocimiento de las presuntas infracciones.
+
+### Artículo 53
+
+Artículo 53. Medidas provisionales.
+1. El órgano que ordenara la iniciación del procedimiento podrá adoptar medidas provisionales para evitar la continuación de la infracción o el agravamiento del daño causado. Dichas medidas serán congruentes con la naturaleza de la presunta infracción y proporcionadas a su gravedad, y podrán incluir la suspensión de las autorizaciones otorgadas en virtud de esta Ley y en las que los infractores se hubieran amparado para cometer la infracción. Dichas medidas serán ejecutivas.
+2. Antes de la iniciación del procedimiento, el órgano competente podrá adoptar medidas provisionales en los casos de urgencia y en aquellos otros en que el alcance de los intereses públicos afectados lo requiera.
+3. Cuando la infracción afecte a actividades cuya competencia corresponda a otros órganos en la Administración, el instructor dará cuenta de la apertura del procedimiento a dicho órgano para que ejercite sus competencias sancionadoras por razón de la materia si hubiera lugar. Se dará igualmente cuenta de las medidas provisionales que se hayan adoptado, sin perjuicio de las que adicionalmente pudiera adoptar éste en el ejercicio de sus competencias.
+
+### Artículo 54
+
+Artículo 54. Resolución.
+La resolución que ponga fin al procedimiento sancionador habrá de ser motivada y especificará los recursos que contra la misma procedan, órgano administrativo o judicial ante el que hubieran de presentarse y plazo para interponerlos.
+
+### Artículo 55
+
+Artículo 55. Ejecutividad.
+Las resoluciones que no pongan fin a la vía administrativa podrán establecer los avales que se consideren precisos, para garantizar su eficacia en tanto no sean ejecutivas, de conformidad con las normas establecidas en la Ley 30/92, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento.
+
+### Artículo 56
+
+Artículo 56. Competencia sancionadora.
+(Suprimido)
+Se suprime por el art. único.27 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 57
+
+Artículo 57. Bonificación por pronto pago.
+Los procedimientos sancionadores tendrán en cuenta las previsiones de reducción de las sanciones contemplados en la legislación básica estatal y en el artículo 4 de la Ley 3/2017, de 1 de septiembre, en materia de gestión y organización de la Administración y otras medidas administrativas.
+Se modifica por el art. único.28 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Artículo 58
+
+Artículo 58. Prejudicialidad del orden penal.
+1. En cualquier momento del procedimiento sancionador en que los órganos competentes estimen que los hechos también pudieran ser constitutivos de ilícito penal, lo comunicarán al Ministerio Fiscal, solicitándole testimonio sobre las actuaciones practicadas respecto a la comunicación.
+En estos supuestos, así como cuando los órganos competentes tengan conocimiento de que se está desarrollando un proceso penal sobre los mismos hechos, solicitarán del órgano judicial comunicación sobre las actuaciones adoptadas.
+2. Recibida la comunicación, y se estima que existe identidad de sujeto, hecho y fundamento entre la infracción administrativa y la infracción penal que pudiera corresponder, el órgano competente para la resolución del procedimiento acordará su suspensión hasta que recaiga resolución judicial.
+3. La sanción penal excluirá la imposición de sanción administrativa en los casos en que se aprecie la identidad del sujeto, del hecho y del fundamento. De no haberse estimado la existencia de delito o falta, el órgano competente continuará, en su caso, el expediente sancionador teniendo en cuenta los hechos declarados probados en la resolución firme del órgano judicial competente.
+
+### Artículo 59
+
+Artículo 59. Prescripción de infracciones y sanciones.
+1. Las infracciones administrativas contra lo dispuesto en la presente Ley prescribirán en el plazo de cinco años las muy graves, en el de tres años las graves y en el de un año las leves, comenzando a contar estos plazos desde el día en que la infracción se hubiera cometido.
+2. Interrumpirá el plazo de prescripción de la infracción, la iniciación, con conocimiento del interesado, del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable.
+3. El plazo de prescripción de las sanciones comenzará a contarse a partir del día siguiente en que adquiera firmeza la resolución administrativa que acuerde la imposición.
+4. Las sanciones impuestas por la comisión de faltas muy graves prescribirán a los tres años, en tanto que las impuestas por faltas graves y leves lo harán a los dos años y al año, respectivamente.
+5. Interrumpirá el plazo de prescripción de la sanción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causas no imputables al infractor.
+
+### Artículo 60
+
+Artículo 60. Registro Regional de Infractores.
+1. Las sanciones una vez sean firmes en vía administrativa serán anotadas en el Registro Regional de Infractores de la Ley de Vías Pecuarias de Castilla-La Mancha creado al efecto, correspondiendo la administración y gestión de dicho Registro a la Consejería competente en la materia.
+2. En la anotación habrán de constar, al menos, los datos identificativos de la persona física o jurídica sancionada, precepto aplicado, naturaleza de la infracción, cuantía de la multa y sanciones accesorias impuestas, en su caso, así como las indemnizaciones que procedan por daños y perjuicios, y cuantos otros, en relación con la infracción, puedan ser de interés a afectos de imputar, en su caso, reincidencias y a efectos estadísticos.
+3. Los infractores que hayan extinguido su responsabilidad tendrán derecho a la cancelación automática de sus antecedentes y a ser dados de baja de oficio en el Registro, siempre que haya transcurrido el plazo de prescripción de la sanción establecido en esta Ley.
+4. Los datos relativos a las sanciones anotadas se certificarán a petición del propio interesado, de las autoridades judiciales o de las administrativas con potestad sancionadora en materia de vías pecuarias, y transcurrido el plazo para su cancelación únicamente se podrán utilizar por la Consejería competente en la materia para fines estadísticos.
+5. En todo caso, para la aplicación de lo dispuesto en este artículo han de observarse los preceptos establecidos por la legislación en materia de protección de datos personales.
+Se añade por la disposición final 1.3 de la Ley 3/2008, de 12 de junio. Ref. BOE-A-2008-13685#dfprimera
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En lo no previsto en esta Ley, y cada una dentro de su ámbito, serán de aplicación la Ley 3/1995 de Vías Pecuarias, como normativa básica, y la Ley de Patrimonio de la Comunidad Autónoma de Castilla-La Mancha.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La Consejería competente en materia de vías pecuarias completará la clasificación de las vías pecuarias en los términos municipales de la Comunidad Autónoma.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+La Consejería competente revisará y actualizará la clasificación de los términos municipales que tengan vías pecuarias clasificadas, y refundirá o segregará las correspondientes a los términos municipales que hayan sufrido alguna modificación.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Fondo de mejoras de vías pecuarias.
+Las cantidades derivadas del otorgamiento de autorizaciones de ocupaciones según el artículo 22.10 de la presente ley, los ingresos que pudieran derivarse de las enajenaciones y permutas, según el artículo 16.4, el importe que se perciba por los frutos y aprovechamientos según el artículo 28.2, concesiones, sanciones, y cualquier otra de las previstas en esta ley se destinarán a un fondo con carácter finalista para la defensa, conservación y mejora de las vías pecuarias. Corresponde a la consejería competente en materia de vías pecuarias la administración de este fondo.
+Se añade por el art. único.29 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Entidades Colaboradoras de la Administración regional.
+1. Las personas jurídicas autorizadas como Entidades Colaboradoras de la Administración regional en materia forestal (ECAF) podrán actuar en materia de vías pecuarias, en los procedimientos de ocupaciones y modificaciones de trazado del dominio público pecuario.
+2. Dentro de los procedimientos relacionados en el apartado anterior, las ECAF podrán ejercer las siguientes funciones, con carácter instrumental, en calidad de entidad técnica especializada:
+a) Verificar el cumplimiento de los requisitos de integridad documental, suficiencia e idoneidad de los proyectos y de la documentación técnica correspondiente al procedimiento que se insta por la persona interesada.
+b) Acreditar el cumplimiento, en el proyecto, estudio o documentación técnica, de la legislación aplicable en el correspondiente procedimiento.
+c) En el caso de la utilización del procedimiento de declaración responsable, emitir un certificado determinando que el proyecto y la documentación técnica se ajustan a los requisitos establecidos en la normativa de aplicación.
+d) Emitir certificado, en su caso, de que la ejecución de las actuaciones por parte por de la persona interesada se ajusta a lo establecido en la correspondiente resolución de autorización o declaración responsable.
+3. A las actuaciones de las ECAF en materia de vías pecuarias les será de aplicación lo dispuesto en el título VIII de la Ley 3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha.
+Se añade por la disposición final 2 de la Ley 4/2025, de 11 de julio. Ref. BOE-A-2025-18966#df-2
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las vías pecuarias que hubieran sido declaradas innecesarias y las franjas de terrenos de parcelas de las mismas declaradas sobrantes, de conformidad con lo dispuesto en la legislación sobre la materia con anterioridad a la Ley 3/95, de 23 de marzo, de Vías Pecuarias, que no hayan sido cedidas por actos administrativos, enajenadas o desafectadas mantendrán su carácter demanial y quedarán sometidas a lo dispuesto en esta Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Por la Consejería competente:
+a) En el plazo de un año, desde la entrada en vigor de esta Ley, se realizará el inventario en los tramos de las vías pecuarias que tengan interrumpida su continuidad con carácter irreversible y reducida su anchura legal dificultando gravemente el tránsito ganadero.
+b) En el plazo de dos años, desde la entrada en vigor de esta Ley, se realizarán los inventarios de los tramos de vías pecuarias de «Especial interés».
+c) En el plazo de dos años, desde la entrada en vigor de esta Ley, realizará la revisión, actualización de la señalización de toda la red de vías pecuarias de la Comunidad, en la forma que reglamentariamente se disponga.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+(Suprimido)
+Se suprime por el art. único.30 de la Ley 4/2023, de 24 de febrero. Ref. BOE-A-2023-7336
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Consejo de Gobierno para el desarrollo reglamentario de la presente Ley en el plazo de un año desde su entrada en vigor.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor a los veinte días contados desde el de su publicación en el Diario Oficial de Castilla-La Mancha.
+
+### [firma]
+
+Toledo, 1 de abril de 2003.
+JOSÉ BONO MARTÍNEZ,
+Presidente

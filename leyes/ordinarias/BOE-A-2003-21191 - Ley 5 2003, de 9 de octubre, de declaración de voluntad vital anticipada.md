@@ -1,0 +1,117 @@
+# Ley 5/2003, de 9 de octubre, de declaración de voluntad vital anticipada.
+
+- Identificador BOE: `BOE-A-2003-21191`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-21191
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+A todos los que la presente vieren, sabed:
+Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley de declaración de voluntad vital anticipada.
+EXPOSICIÓN DE MOTIVOS
+La Constitución Española, en su Título I, dedicado a los derechos y deberes fundamentales, establece como fundamento del orden político y la paz social, entre otros, la dignidad de la persona, reconociendo en su artículo 43 el derecho a la protección de la salud.
+El Estatuto de Autonomía para Andalucía, en sus artículos 13.21 y 20.1, atribuye, respectivamente, a la Comunidad Autónoma competencia en materia de sanidad y el desarrollo legislativo y ejecución de la legislación básica del Estado en materia de sanidad interior.
+Los derechos relativos a la información clínica y la autonomía individual de los pacientes en relación a su estado de salud fueron reconocidos y regulados con carácter de norma básica del Estado por la Ley 14/1986, de 25 de abril, General de Sanidad, y posteriormente desarrollados en el ámbito de nuestra Comunidad Autónoma por la Ley 2/1988, de 15 junio, de Salud de Andalucía. En fecha reciente, ha sido publicada por el Estado la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
+En la sociedad española hace ya algunos años que se ha suscitado el debate sobre el derecho a morir dignamente y sobre la autonomía de los pacientes para poder decidir, en situaciones límite, sobre el destino de su propia vida y sobre los tratamientos de soporte vital que les deben –o no– ser aplicados.
+Esta problemática se ha producido en países de nuestro entorno europeo y ha generado importantes debates parlamentarios que han conducido a modificaciones legislativas que, en algún caso, han llegado hasta la despenalización de la llamada eutanasia activa. La gran mayoría de los países han desarrollado también y en simultáneo programas de cuidados paliativos para enfermos terminales, con el objetivo de eliminar el sufrimiento y el dolor de los pacientes a la hora de enfrentar las situaciones extremas de su enfermedad y su muerte.
+En España, las recientes leyes aprobadas por otras Comunidades Autónomas y diferentes iniciativas parlamentarias, tanto en el Congreso de los Diputados como en algunos Parlamentos regionales, han revitalizado el debate en nuestra sociedad, llevando a diferentes colectivos y asociaciones a solicitar de los poderes públicos un marco regulador más abierto y comprensivo con las situaciones de determinados pacientes graves o terminales que no quieren alargar su vida a expensas de prolongar su sufrimiento físico o psíquico.
+En este sentido, los derechos de los pacientes se consideran la base óptima de la relación entre los usuarios y los profesionales sanitarios, atendiendo a la dignidad y autonomía del paciente como ser humano.
+Cabe destacar especialmente el Convenio para la Protección de los Derechos Humanos y la Dignidad del Ser Humano con respecto a las aplicaciones de la Biología y la Medicina, suscrito en Oviedo el 4 de abril de 1997, el cual entró en vigor en el Estado Español el 1 de enero de 2000, que contempla expresamente en su articulado la posibilidad de que cualquier persona exprese sus deseos con anterioridad a una intervención médica, en el caso de que, llegado el momento, no se encuentre en situación de expresar su voluntad.
+El Parlamento Andaluz, en la sesión celebrada el pasado día 23 de mayo, ha aprobado, a propuesta del Grupo Parlamentario Socialista, una proposición no de ley en la que se insta al Gobierno, entre otras cosas, a presentar un proyecto de ley que garantice a los ciudadanos el ejercicio del derecho a decidir libremente sobre los tratamientos y las condiciones en que éstos se le aplican, en situaciones de gravedad y cuando su estado le impida expresarlas personalmente, y ejercer, por tanto, su derecho a la autonomía personal.
+Las indudables dimensiones éticas, médico-clínicas y jurídicas de este problema, así como la necesidad de abordar esta problemática en la Comunidad de Andalucía, han llevado a abrir un proceso de reflexión en el seno de la Consejería de Salud y abierto a la opinión de diferentes expertos tanto en el campo de la Medicina clínica, la Bioética, la Filosofía y el Derecho.
+Como resultado de estos debates y recogiendo el sentir del Parlamento andaluz se ha elaborado la presente Ley, que profundiza en el amplio panel de derechos reconocidos en la Ley 2/1998, de 15 de junio, de Salud de Andalucía, incorporando el derecho que asiste a toda persona a decidir sobre las actuaciones sanitarias de que pueda ser objeto en el futuro, en el supuesto de que llegado el momento no goce de la capacidad de consentir por sí misma. En este sentido, su objeto no es otro que dar un trato especial al derecho de autonomía que asiste a los pacientes mediante un instrumento que se ha dado en llamar declaración de voluntad vital anticipada.
+La declaración de voluntad vital anticipada y su garantía de efectividad se constituyen, de este forma, en una herramienta muy importante, mediante la cual la Junta de Andalucía garantiza a todos los ciudadanos, en el ámbito territorial de la Comunidad Autónoma, la expresión efectiva de este derecho a la autonomía personal. Derecho que esta Ley reconoce como prevalente ante cualquier otro criterio, siempre en el marco del vigente Ordenamiento Jurídico.
+De acuerdo con lo que establece el Convenio del Consejo de Europa sobre los Derechos del Hombre y la Biomedicina de 1997, esta declaración de voluntad vital anticipada se ha definido como un instrumento amplio en el que se podrán contener, tanto las instrucciones expresas que el paciente determine para una situación en que esté privado de su capacidad de decidir (lo que se ha dado en llamar testamento vital), como otras posibilidades, como son sus opciones personales ante determinadas situaciones vitales (comúnmente llamada historia de valores), la designación de otras personas que representen su voluntad y, también, su decisión expresa respecto a elementos tales como la donación de sus órganos en caso de fallecimiento.
+Es importante resaltar que, para el ejercicio del derecho a formalizar una declaración de voluntad vital anticipada en Andalucía, esta Ley posibilita su ejercicio a todo individuo mayor de edad y a todo aquel que goce de facultades intelectivas y volitivas apropiadas, como es el caso de los menores emancipados o aquellos incapacitados judicialmente, siempre que en la resolución judicial no se disponga expresamente lo contrario respecto a estas facultades.
+Esta norma prevé, como requisito de validez de la declaración, el que sea emitida por escrito, con plena identificación de su autor y que sea inscrita en el Registro de Voluntades Vitales Anticipadas de Andalucía, que se crea a tal efecto. Con esta fórmula se han perseguido dos finalidades, en primer lugar, evitar el tener que recurrir a terceros, como son testigos o fedatarios públicos, para un acto que se sitúa en la esfera de la autonomía personal y la intimidad de las personas, y, en segundo lugar, poder garantizar la efectividad de esta declaración, haciéndola accesible para los responsables de su atención sanitaria que, de otra manera y por desconocimiento sobre su existencia, podrían prescindir de ella.
+Para evitar esto, la Ley, como innovación sobre otros proyectos de similares características, establece un sistema de acceso y notificación de estos documentos, de tal forma que su existencia sea detectable con facilidad y eficacia. Para ello, la Ley establece la obligatoriedad de consulta al citado Registro para todo el personal sanitario responsable de la atención sanitaria a una persona que se encuentre en una situación que le impida tomar decisiones por sí misma.
+Se pone de manifiesto, asimismo, la preocupación por dotar a la declaración de voluntad vital anticipada de la mayor seguridad y eficacia. En este sentido, y junto al carácter prevalente de la declaración, previsto en el artículo 7 del texto legal, se regula, en el artículo 8, lo relativo a la revocación de la misma.
+Por último, en la disposición adicional única del texto legal, se procede a modificar el artículo 6, apartado 1, letra ñ) de la Ley 2/1998, de 15 de junio, de Salud de Andalucía, relativo al respeto a las decisiones personales sobre la atención sanitaria en Andalucía y se acomoda dicha norma al presente texto legal, llenando así las lagunas hasta ahora existentes en cuanto al derecho a la autonomía personal ante los servicios de salud.
+En definitiva, esta Ley viene a llenar una laguna para mejorar la atención sanitaria a los ciudadanos en Andalucía, con el máximo respeto a sus libertades, y viene también a dotar de instrumentos seguros a los profesionales sanitarios que se enfrentan a situaciones clínicas extremas, objetivos que, sin duda ninguna, contribuirán al bienestar general, al respeto a las libertades personales y a construir una sociedad más justa y solidaria.
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente Ley tiene por objeto regular, en el ámbito territorial de la Comunidad Autónoma de Andalucía, la declaración de voluntad vital anticipada, como cauce del ejercicio por la persona de su derecho a decidir sobre las actuaciones sanitarias de que pueda ser objeto en el futuro, en el supuesto de que llegado el momento no goce de capacidad para consentir por sí misma.
+
+### Artículo 2
+
+Artículo 2. Concepto de declaración de voluntad vital anticipada.
+A los efectos de esta Ley, se entiende por declaración de voluntad vital anticipada la manifestación escrita hecha para ser incorporada al Registro que esta Ley crea, por una persona capaz que, consciente y libremente, expresa las opciones e instrucciones que deben respetarse en la asistencia sanitaria que reciba en el caso de que concurran circunstancias clínicas en las cuales no pueda expresar personalmente su voluntad.
+
+### Artículo 3
+
+Artículo 3. Contenido de la declaración.
+En la declaración de voluntad vital anticipada, su autor podrá manifestar:
+1. Las opciones e instrucciones, expresas y previas, que, ante circunstancias clínicas que le impidan manifestar su voluntad, deberá respetar el personal sanitario responsable de su asistencia sanitaria.
+2. La designación de un representante, plenamente identificado, que será quien le sustituya en el otorgamiento del consentimiento informado, en los casos en que éste proceda.
+3. Su decisión respecto de la donación de sus órganos o de alguno de ellos en concreto, en el supuesto que se produzca el fallecimiento, de acuerdo con lo establecido en la legislación general en la materia.
+4. Los valores vitales que sustenten sus decisiones y preferencias.
+Se añade el apartado 4 por la disposición final 2.1 de la Ley 2/2010, de 8 de abril. Ref. BOE-A-2010-8326.
+
+### Artículo 4
+
+Artículo 4. Capacidad para otorgar la declaración.
+1. La declaración de voluntad vital anticipada podrá ser emitida por un mayor de edad o un menor emancipado.
+2. Los incapacitados judicialmente podrán emitir declaración de voluntad vital anticipada, salvo que otra cosa determine la resolución judicial de incapacitación.
+No obstante, si el personal facultativo responsable de su asistencia sanitaria cuestionara su capacidad para otorgarla, pondrá los hechos en conocimiento del Ministerio Fiscal para que, en su caso, inste ante la autoridad judicial un nuevo proceso, que tenga por objeto modificar el alcance de la incapacitación ya establecida.
+
+### Artículo 5
+
+Artículo 5. Requisitos de la declaración.
+1. Para que la declaración de voluntad vital anticipada sea considerada válidamente emitida, además de la capacidad exigida al autor, se requiere que conste por escrito, con la identificación del autor, su firma, así como fecha y lugar del otorgamiento, y que se inscriba en el Registro, previsto en el artículo 9 de esta Ley. Si no supiere o no pudiere firmar, firmará por él un testigo a su ruego, debiendo constar la identificación del mismo, expresándose el motivo que impide la firma por el autor.
+2. En el supuesto previsto en el artículo 3, apartado 2, se requiere que el representante esté plenamente identificado y que, además, haya expresado su aceptación a serlo. En todo caso, esta persona deberá ser mayor de edad y tener plena capacidad.
+
+### Artículo 6
+
+Artículo 6. Verificación de la capacidad y requisitos formales de la declaración.
+Por personal funcionario público habilitado al efecto por la Consejería competente en materia de salud, se procederá a la constatación de la personalidad y capacidad de la persona autora de la declaración, así como a la verificación de los requisitos formales determinantes de la validez de la citada declaración, previstos en los artículos 4 y 5 de la presente Ley.
+Se modifica por la disposición final 2.2 de la Ley 2/2010, de 8 de abril. Ref. BOE-A-2010-8326.
+
+### Artículo 7
+
+Artículo 7. Eficacia de la declaración.
+La declaración de voluntad vital anticipada, una vez inscrita en el Registro previsto en el artículo 9 de esta Ley, será eficaz, de acuerdo con lo establecido en el ordenamiento jurídico, cuando sobrevengan las situaciones previstas en ella y en tanto se mantengan las mismas. Dicha declaración prevalecerá sobre la opinión y las indicaciones que puedan ser realizadas por los familiares, allegados o, en su caso, el representante designado por el autor de la declaración y por los profesionales que participen en su atención sanitaria.
+
+### Artículo 8
+
+Artículo 8. Revocación de la declaración.
+1. La declaración de voluntad vital anticipada podrá ser modificada por su autor en cualquier momento y cumpliendo los requisitos exigidos para su otorgamiento.
+El otorgamiento de una nueva declaración de voluntad vital anticipada revocará las anteriores, salvo que la nueva tenga por objeto la mera modificación de extremos contenidos en las mismas, circunstancia que habrá de manifestarse expresamente.
+2. Si una persona ha otorgado una declaración de voluntad vital anticipada y posteriormente emite un consentimiento informado eficaz que contraría, exceptúa o matiza las instrucciones contenidas en aquélla, para la situación presente o el tratamiento en curso, prevalecerá lo manifestado mediante el consentimiento informado para ese proceso sanitario, aunque a lo largo del mismo quede en situación de no poder expresar su voluntad.
+3. Si el representante previsto en el artículo 3, apartado 2, revocase su aceptación ante el Registro, este organismo comunicará al interesado que ha quedado sin efecto la designación inicial para que conozca esta circunstancia y pueda designar nuevo representante, si lo desea.
+
+### Artículo 9
+
+Artículo 9. Registro de Voluntades Vitales Anticipadas de Andalucía.
+1. Se crea el Registro de Voluntades Vitales Anticipadas de Andalucía adscrito a la Consejería de Salud, para la custodia, conservación y accesibilidad de las declaraciones de voluntad vital anticipada emitidas en el territorio de la Comunidad Autónoma de Andalucía.
+Reglamentariamente, se determinará la organización y funcionamiento del citado Registro, asegurando en todo caso la confidencialidad y el respeto de la legislación de protección de datos personales, con el objetivo de dotar de efectividad a las declaraciones de voluntad vital anticipada, facilitando su acceso por los centros sanitarios.
+2. Cuando se preste atención sanitaria a una persona que se encuentre en una situación que le impida tomar decisiones por sí misma, en los términos previstos en la presente Ley, los profesionales sanitarios implicados en el proceso consultarán su historia clínica para comprobar si en ella existe constancia del otorgamiento de la declaración de voluntad vital anticipada, actuando conforme a lo previsto en ella.
+Se modifica el apartado 2 por la disposición final 2.3 de la Ley 2/2010, de 8 de abril. Ref. BOE-A-2010-8326.
+
+### Disposición adicional única
+
+Disposición adicional única. Modificación del artículo 6, apartado 1, letra ñ), de la Ley 2/1998, de 15 de junio, de Salud de Andalucía.
+Se modifica el artículo 6, apartado 1, letra ñ), de la Ley 2/1998, de 15 de junio, de Salud de Andalucía, que tendrá la siguiente redacción:
+«ñ) A que se respete su libre decisión sobre la atención sanitaria que se le dispense. A tal efecto será preciso el previo consentimiento escrito del paciente, libremente revocable, para la realización de cualquier intervención sanitaria, excepto en los siguientes casos:
+1. Cuando la no intervención suponga un riesgo para la salud pública.
+2. Cuando no esté capacitado para tomar decisiones, en cuyo caso se estará a lo dispuesto en la declaración de voluntad vital anticipada.
+3. Cuando no estando capacitado para tomar decisiones y no haya emitido declaración de voluntad vital anticipada, el derecho corresponderá a sus familiares, representantes legales o personas allegadas, y en el caso de no existir éstos, o no ser localizados, corresponderá a la autoridad judicial.
+4. Cuando exista peligro inminente de lesión grave irreversible o de fallecimiento que exija una actuación urgente, salvo que la declaración de voluntad vital anticipada disponga otra cosa.»
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+Se autoriza al Consejo de Gobierno de la Junta de Andalucía para dictar en el plazo de seis meses las disposiciones necesarias, para el desarrollo y ejecución de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+Esta Ley entrará en vigor a los seis meses, contados a partir del día siguiente al de su publicación en el «Boletín Oficial de la Junta de Andalucía».
+
+Sevilla, 9 de octubre de 2003
+MANUEL CHAVES GONZÁLEZ,
+Presidente

@@ -1,0 +1,778 @@
+# Ley 15/2000, de 29 de diciembre, de Medidas Fiscales y Administrativas.
+
+- Identificador BOE: `BOE-A-2001-1616`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-1616
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de Autonomía de Cataluña, promulgo la siguiente Ley 15/2000, de 29 de diciembre, de Medidas Fiscales y Administrativas.
+PREÁMBULO
+De acuerdo con la doctrina ya consolidada elaborada por el Tribunal Constitucional sobre las leyes de presupuestos y, en particular, sobre sus contenidos así como sobre sus límites, por cuarta vez se presenta, junto con la Ley de Presupuestos de la Generalidad para este ejercicio, una Ley de Medidas Fiscales y Administrativas que, en conexión con el presupuesto y complementando algunas de sus disposiciones, se convierte en el instrumento necesario para implementar determinadas previsiones de la Ley Presupuestaria en diferentes ámbitos y sectores de actuación de la Generalidad.
+Concretamente, la presente Ley se estructura en dos títulos, el primero, relativo a las medidas fiscales y el segundo, a las medidas administrativas y reúne un total de veintisiete artículos, trece disposiciones adicionales, dos disposiciones transitorias, dos disposiciones derogatorias y una disposición final.
+En cuanto a los contenidos, el título I, agrupado en tres capítulos, incluye las medidas fiscales. En el primero, y en relación a los impuestos cedidos a la Generalidad, el artículo 1 de la Ley introduce sendas modificaciones respecto a la regulación vigente de las reducciones de la base imponible del impuesto sobre sucesiones y donaciones que confluyen en un mismo objetivo, que es el de facilitar e incentivar la continuidad de la empresa familiar.
+El segundo capítulo incorpora una modificación del artículo 33 de la Ley 25/1998, de 31 de diciembre, de Medidas Administrativas, Fiscales y de Adaptación al Euro, consistente en la actualización de las cuotas fijas y la incorporación, dentro la regulación de las cuotas correspondientes a las máquinas tipo «C», de una nueva cuota para las máquinas que tengan tres o más jugadores.
+En lo relativo al tercer capítulo de medidas fiscales, en este caso en relación a los tributos propios de la Generalidad, los artículos 3 al 11 de la Ley, ambos incluidos, recogen toda una serie de modificaciones de la Ley 15/1997, de 24 de diciembre, de Tasas y Precios Públicos de la Generalidad de Cataluña. A pesar de que la secuencia de los artículos sigue estrictamente la de los títulos de la Ley que quedan modificados, conceptualmente las mencionadas modificaciones se pueden sintetizar en dos grandes ámbitos: Por un lado, se procede a la creación de nuevas tasas y, por otro, se modifican diferentes aspectos de la regulación de una serie de tasas preexistentes.
+Son de nueva creación las siguientes tasas:
+La tasa por la verificación previa a la admisión de valores a cotización exclusivamente en la Bolsa de Valores de Barcelona.
+La tasa por la inscripción en la prueba de acceso a los ciclos formativos de grado medio, grado superior de formación profesional específica, y de las enseñanzas de artes plásticas y de diseño.
+La tasa por la inscripción en las pruebas de acceso al grado superior de las enseñanzas de música.
+La tasa por los derechos de inscripción en las pruebas para la obtención de los certificados internacionales de catalán.
+La tasa por los servicios de tramitación y resolución de las solicitudes de autorización para la creación, construcción, modificación, adaptación o supresión de las oficinas de farmacia.
+La tasa por auditar el cumplimiento del programa de garantía de calidad en las unidades de radio diagnóstico, medicina nuclear y radioterapia.
+La tasa por la concesión de licencias y autorizaciones de productos sanitarios.
+La tasa por productos amparados.
+La tasa por los servicios de acreditación de entidades ambientales de control.
+Por otro lado, las tasas preexistentes que son objeto de modificación corresponden a servicios prestados por diferentes departamentos de la Administración; singularmente, Sanidad y Seguridad Social, en el ámbito de los centros, servicios y establecimientos sanitarios; Política Territorial y Obras Públicas, en el ámbito de los transportes u ocupación de terrenos de dominio público; Agricultura, Ganadería y Pesca, en el ámbito de la inscripción o ampliación de fincas, industrias y empresas importadoras en los registros correspondientes; Industria, Comercio y Turismo, en el ámbito de vehículos y entidades colaboradoras, y Bienestar Social, en el ámbito del registro de entidades, servicios y establecimientos sociales y hotel de entidades. Las modificaciones introducidas afectan en algunos casos aspectos puntuales vinculados al hecho imponible, sujetos pasivos o el devengo de las tasas respectivas, y, en otros, a la modificación de las cuotas correspondientes y la introducción de la afectación de los ingresos obtenidos a finalidades concretas.
+El título II de la Ley incluye las medidas administrativas. Bajo esta denominación genérica los cinco capítulos en que se divide el mencionado título incluyen medidas en materia de personal (capítulo I), de régimen jurídico de las finanzas de la Generalidad (capítulo II), de régimen jurídico del patrimonio (capítulo III), de sector público (capítulo IV) y, por último, se incorporan otras medidas en relación a dos sectores específicos (pesca y puertos) de la actividad administrativa (capítulo V).
+En concreto, en materia de personal, mediante la adición de una disposición transitoria al Decreto legislativo 1/1997, de 31 de octubre, se amplia el ámbito de aplicación temporal del proceso de funcionarización del personal laboral.
+En relación al régimen jurídico de las finanzas de la Generalidad, la Ley incluye cuatro tipos de disposiciones. En primer lugar, la modificación del artículo 26.1 del Decreto legislativo 9/1994, de 13 de julio, a fin de establecer en cuatro años el plazo de prescripción del derecho al reconocimiento o liquidación de las obligaciones y el pago de las obligaciones ya reconocidas o liquidadas; en segundo lugar, la modificación del artículo 36 del mismo Decreto legislativo 9/1994, de 13 de julio, a fin de ajustar el régimen de compromisos plurianuales de gasto; en tercer lugar, la modificación de los artículos 87, 88, 94 y 98 del mismo Decreto legislativo 9/1994, de 13 de julio, en materia de subvenciones, a fin de determinar el régimen jurídico de las ayudas en concepto de indemnizaciones derivadas de catástrofes naturales y otras causas de fuerza mayor, precisar determinados requisitos formales de las resoluciones de concesión de subvenciones y sobre la publicidad de las subvenciones nominativas y posibilitar la compensación de deudas también en el ámbito de las subvenciones; y en último lugar, la Ley incorpora una disposición que proviene de las últimas leyes de presupuestos y que, por su carácter atemporal, se entiende que debe trasladarse a la misma. La citada disposición permite sustituir la fiscalización previa por el control financiero permanente a cargo de la Intervención General en los hospitales y otros centros dependientes del Instituto Catalán de la Salud.
+En lo concerniente a las medidas en relación con el régimen jurídico del patrimonio de la Generalidad, la Ley incluye determinadas modificaciones de la Ley 11/1981, de 7 de diciembre, del Patrimonio de la Generalidad, que afectan al procedimiento de desafectación de los bienes inmuebles de dominio público, la adscripción de bienes de dominio público, la aceptación de las adquisiciones de inmuebles y derechos reales a título de donación de particulares o a título de cesión gratuita de administraciones públicas en favor de la Generalidad, el arrendamiento de bienes inmuebles en construcción o en proyecto y los inmuebles inmersos en planeamientos a desarrollar, en un sistema de gestión pendiente de actuación o en un proyecto de urbanización pendiente de redacción, tramitación o ejecución.
+Respecto a las medidas referentes al sector público, la Ley incluye, en primer lugar, una modificación del artículo 35 de la Ley 4/1985, de 29 de marzo, del Estatuto de la Empresa Pública Catalana, que exige el informe favorable del Departamento de Economía, Finanzas y Planificación con carácter previo a la adopción por el Gobierno de la Generalidad de cualquier acuerdo relativo a la participación en sociedades mercantiles públicas, ya sea individualmente consideradas ya sea en el marco de corporaciones, uniones de empresas y entidades similares.
+El resto de medidas afectan a entidades específicas: En primer lugar, se crea el Consejo Catalán de la Producción Agraria Ecológica, como corporación de derecho público con personalidad jurídica propia; en segundo lugar, se modifica puntualmente el sistema de designación del director o directora de la entidad autónoma Institución de las Letras Catalanas; en tercer lugar, se disuelve el Instituto Catalán de Nuevas Profesiones, organismo autónomo administrativo adscrito hasta ahora al Departamento de Enseñanza y, por último, se modifica la Ley reguladora del Instituto Catalán de Finanzas en tres aspectos: En relación al ámbito patrimonial del mismo, los posibles sujetos beneficiarios de sus operaciones, y la previsión de constituir un fondo de cobertura de mayor riesgo por la aplicación de recursos públicos.
+En el último capítulo del título II, bajo la rúbrica genérica de otras medidas, se incluyen sendas modificaciones de la Ley 1/1986, de 25 de febrero, de Pesca Marítima de Cataluña, y de la Ley 5/1998, de 17 de abril, de Puertos de Cataluña. En el primer caso, las modificaciones afectan al régimen sancionador; en el segundo, al régimen de tarifas.
+Para acabar, mediante disposición adicional de la Ley incluye una autorización para la alienación directa de las viviendas de los parques de maquinaria de la Dirección General de Carreteras; una disposición transitoria de la Ley se refiere al régimen de aplicación del nuevo plazo de prescripción del reconocimiento y el pago de las obligaciones de la Generalidad, y las disposiciones derogatorias derogan expresamente la Ley 7/1986, de 23 de marzo, de Ordenación de las Enseñanzas no Regladas en el Régimen Común y de Creación del Instituto Catalán de Nuevas Profesiones, y el artículo 6 de la Ley 25/1998, de 31 de diciembre, de Medidas Administrativas, Fiscales y de Adaptación al Euro, relativo a la integración del personal laboral fijo del Instituto Catalán de la Salud. Por último, la disposición final establece la entrada en vigor de la presente Ley de Medidas Fiscales y Administrativas.
+
+## TÍTULO I
+
+Medidas fiscales
+
+## CAPÍTULO I
+
+Impuestos directos
+
+## Sección única
+
+Sección única. Impuesto sobre sucesiones y donaciones
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Artículo 1
+
+Artículo 1. Reducciones de la base imponible.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+## CAPÍTULO II
+
+Tributación sobre el juego
+
+## Sección única
+
+Sección única. Cuotas fijas
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Artículo 2
+
+Artículo 2. Cuotas fijas de las máquinas recreativas y de azar.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+## CAPÍTULO III
+
+Tributos propios
+
+## Sección única
+
+Sección única. Tasas
+Se deroga por la disposición derogatoria.5 del Decreto Legislativo 3/2008, de 25 de junio. Ref. DOGC-f-2008-90017#dd
+
+### Artículos 3 al 11
+
+Artículos 3 al 11.
+(Derogados).
+Se derogan por la disposición derogatoria.5 del Decreto Legislativo 3/2008, de 25 de junio. Ref. DOGC-f-2008-90017#dd
+
+### Artículo 3
+
+Artículo 3. Modificación del título IV de la Ley 15/1997, de 24 de diciembre, de tasas y precios públicos de la Generalidad de Cataluña.
+Se añade un nuevo capítulo IV al título IV de la Ley 15/1997, con el siguiente redactado:
+«CAPÍTULO IV
+Tasa por la verificación previa a la admisión de valores a cotización exclusivamente en la Bolsa de Valores de Barcelona
+Artículo 83 sexties. Hecho imponible.
+Constituye el hecho imponible de la tasa la verificación previa del folletín de admisión de valores a negociación exclusivamente en la Bolsa de Valores de Barcelona.
+Artículo 83 septies. Sujeto pasivo.
+Son sujetos pasivos de la tasa las sociedades que solicitan la verificación del folletín de admisión a negociación de sus valores en la Bolsa de Valores de Barcelona.
+Artículo 83 octies. Devengo.
+La tasa se devenga en el momento en que el Departamento de Economía, Finanzas y Planificación realiza la verificación previa del folletín de admisión de los valores a negociación.
+Artículo 83 novies. Cuota.
+La cuota de la tasa se determina aplicando a la base imponible el siguiente baremo:
+Tipo de gravamen
+ 1. Folletín de admisión a negociación en la Bolsa de Valores de Barcelona de acciones y valores con un plazo final de amortización o vencimiento superior a dieciocho meses.
+ 0,03 por 1.000
+ 2. Folletín de admisión a negociación en la Bolsa de Valores de Barcelona de valores con un plazo final de amortización o vencimiento inferior o igual a dieciocho meses.
+ 0,01 por 1.000
+La base imponible es el valor nominal de las emisiones a que se refiere el folletín informativo correspondiente. No obstante, en caso de modificación de valores en circulación por incremento de su valor nominal, la base imponible es el importe del incremento del valor nominal de las emisiones, como consecuencia de la modificación, en la fecha de la verificación correspondiente.
+En el caso de folletines de ofertas públicas de venta de valores, la base imponible es el valor efectivo de la oferta correspondiente.»
+
+### Artículo 4
+
+Artículo 4. Modificación del título V de la Ley 15/1997, de 24 de diciembre, de Tasas y Precios Públicos de la Generalidad de Cataluña.
+1. Se añade un nuevo capítulo VI al título V de la Ley 15/1997, con el siguiente texto:
+«CAPÍTULO VI
+Tasa por la inscripción en la prueba de acceso a los ciclos formativos de grado medio y en la prueba de acceso a los ciclos formativos de grado superior de formación profesional específica y de las enseñanzas de artes plásticas y diseño
+Artículo 107 bis. Hecho imponible.
+Constituye el hecho imponible de la tasa la inscripción en la prueba de acceso a los ciclos formativos de grado medio y en la prueba de acceso a los ciclos formativos de grado superior de formación profesional específica y de las enseñanzas de artes plásticas y diseño.
+Artículo 107 ter. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas que se inscriben en las pruebas.
+Artículo 107 quáter. Devengo.
+La tasa se devenga mediante la prestación del servicio y se exige en el momento de la inscripción.
+Artículo 107 quinquies. Cuota.
+El importe de la cuota es:
+1. Prueba de acceso a los ciclos formativos de grado medio de formación profesional específica: 2.450 pesetas.
+2. Prueba de acceso a los ciclos formativos de grado medio de las enseñanzas de artes plásticas y diseño: 2.450 pesetas.
+3. Prueba de acceso a los ciclos formativos de grado superior de formación profesional específica: 3.950 pesetas.
+4. Prueba de acceso a los ciclos formativos de grado superior de las enseñanzas de artes plásticas y diseño: 3.950 pesetas.
+Artículo 107 sexties. Exenciones y bonificaciones.
+1. A las personas miembros de familias numerosas, les son de aplicación las exenciones y bonificaciones establecidas por la legislación vigente relativa a la protección de estas familias.
+2. Están exentos de pagar la tasa exigida, con la justificación documental previa de su situación, los sujetos pasivos que estén en situación de incapacidad permanente total o absoluta.
+3. Están exentos de pagar la tasa exigida, con la justificación documental previa de su situación, los sujetos pasivos la renta anual total de la unidad familiar a que pertenecen, dividida por el número de miembros que la integren, sea inferior al 75 por 100 del salario mínimo interprofesional, excluida la parte proporcional de pagas extraordinarias.
+4. Están exentos de pagar la tasa exigida, con la justificación documental previa de su situación, las personas sujetas a medidas privativas de libertad.»
+2. Se añade un nuevo capítulo VII al título V de la Ley 15/1997, con el siguiente texto:
+«CAPÍTULO VII
+Tasa por la inscripción en las pruebas de acceso al grado superior de las enseñanzas de música
+Artículo 107 septies. Hecho imponible.
+Constituye el hecho imponible de la tasa la inscripción en la prueba de acceso al grado superior de las enseñanzas de música.
+Artículo 107 octies. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas que se inscriben en las pruebas.
+Artículo 107 novies. Devengo.
+La tasa se devenga mediante la prestación del servicio y se exige en el momento de la inscripción.
+Artículo 107 decies. Cuota.
+El importe de la cuota es:
+Prueba de acceso al grado superior de las enseñanzas de música: 10.000 pesetas.
+Artículo 107 undecies. Exenciones y bonificaciones.
+A las personas miembros de familias numerosas, les son de aplicación las exenciones y bonificaciones establecidas por la legislación vigente relativa a la protección de estas familias.»
+
+### Artículo 5
+
+Artículo 5. Modificación del título VI de la Ley 15/1997, de 24 de diciembre, de Tasas y Precios Públicos de la Generalidad de Cataluña.
+Se añade un nuevo capítulo X al título VI de la Ley 15/1997, con el siguiente texto:
+«CAPÍTULO X
+Tasa por los derechos de inscripción en las pruebas para la obtención de los certificados internacionales de catalán
+Artículo 137 decies. Hecho imponible.
+Constituye el hecho imponible de la tasa la inscripción en las pruebas para la obtención de los certificados internacionales de catalán, convocadas por el Departamento de Cultura.
+Artículo 137 undecies. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas que se inscriben en las pruebas.
+Artículo 137 duodecies. Devengo.
+La tasa se devenga en el momento de la prestación del servicio y se exige en el momento de la inscripción.
+Artículo 137 terdecies. Cuota.
+La cuota de la tasa es:
+1. Pruebas de nivel básico o de nivel mínimo: 2.040 pesetas.
+2. Pruebas de nivel avanzado: 3.570 pesetas.»
+
+### Artículo 6
+
+Artículo 6. Modificación del título VII de la Ley 15/1997, de 24 de diciembre, de Tasas y Precios Públicos de la Generalidad de Cataluña.
+1. Se modifica el encabezamiento del capítulo V, que pasa a redactarse de la siguiente manera:
+«CAPÍTULO V
+Tasa por los servicios de tramitación de autorizaciones administrativas y de inspección de centros, servicios y establecimientos sanitarios»
+2. Se modifica el encabezamiento del capítulo VI y el artículo 168, que pasan a redactarse de la siguiente manera:
+«CAPÍTULO VI
+Tasa por los servicios administrativos de tramitación de la acreditación de centros, servicios y establecimientos sanitarios
+Artículo 168. Hecho imponible.
+Constituye el hecho imponible de la tasa el servicio de tramitación hecho por el Departamento de Sanidad y Seguridad Social de la acreditación de centros, servicios y establecimientos sanitarios.»
+3. Se modifica el artículo 179 del capítulo VIII, que queda redactado de la siguiente manera:
+«Artículo 179. Cuota.
+El importe de la cuota es:
+1. Por inspección-informe sobre condiciones de locales, instalaciones y utillaje para la autorización de apertura o el traslado de servicios farmacéuticos.
+1.1 Oficina de farmacia: 7.170 pesetas.
+1.2 Botiquín y depósito de medicamentos: 5.000 pesetas.
+1.3 Servicio de farmacia hospitalaria: 10.165 pesetas.
+1.4 Almacén de distribución: 49.900 pesetas.
+2. Por la toma de posesión del farmacéutico o farmacéutica titular, de quien regenta la oficina de farmacia o del copropietario o copropietaria: 4.430 pesetas.
+3. Por la toma de posesión del farmacéutico o farmacéutica agregado: 3.295 pesetas.
+4. Por la toma de posesión del director o directora técnico o del director o directora técnico suplente de un almacén de distribución: 15.100 pesetas.
+5. Por las inspecciones de seguimiento o reinspecciones: 49.900 pesetas.
+6. Por inspección farmacéutica ordinaria: 2.995 pesetas.»
+4. Se modifica el capítulo XIII, artículos 196 al 199, y el capítulo XIV, artículos 200 al 203 del título VII de la Ley 15/1997, en el siguiente sentido:
+Donde dice: «Servicio Catalán de la Salut», debe decir: «Departamento de Sanidad y Seguridad Social».
+5. Se añade un nuevo capítulo XVIII al título VII de la Ley 15/1997, con el siguiente texto:
+«CAPÍTULO XVIII
+Tasa por los servicios de tramitación y resolución de las solicitudes de autorización para la creación, construcción, modificación, adaptación o supresión de las oficinas de farmacia
+Artículo 215 bis. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación que realiza el Departamento de Sanidad y Seguridad Social de los servicios que se consignan en el artículo 215 quinquies.
+Artículo 215 ter. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas a las que se prestan los servicios.
+Artículo 215 quáter. Devengo.
+La tasa se devenga mediante la prestación de los servicios constitutivos del hecho imponible, pero puede exigirse su pago en el momento de realizar la solicitud las personas interesadas.
+Artículo 215 quinquies. Cuota.
+1. Instalaciones de nuevas oficinas de farmacia.
+1.1 Tramitación y resolución de solicitud de autorización por instalación de nuevas oficinas de farmacia: 32.000 pesetas.
+1.2 Medición de distancias entre el local propuesto para la instalación y el resto de las oficinas de farmacia instaladas y los centros de atención primaria: 103.000 pesetas.
+2. Traslado.
+2.1 Tramitación y resolución de solicitudes de autorización para trasladar las oficinas de farmacia: 32.000 pesetas.
+2.2 Medición de distancias en el supuesto de controversia entre mediciones presentadas por la designación de un local en el expediente de traslado: 103.000 pesetas.
+3. Tramitación y resolución de una solicitud de autorización para la modificación de un local destinado a oficina de farmacia: 6.000 pesetas.
+Artículo 215 sexties.
+En caso de delegación a los colegios de farmacéuticos de Cataluña del ejercicio de la competencia de autorización para crear, construir, modificar, adaptar o suprimir las oficinas de farmacia, de acuerdo con la disposición adicional primera de la Ley 31/1991, de 13 de diciembre, de Ordenación Farmacéutica de Cataluña, y el resto de disposiciones normativas que la hagan efectiva, la tasa debe ser exigida por los mencionados colegios de farmacéuticos y les debe ser cedido el rendimiento de la misma como ingreso propio para resarcirse del coste del servicio.
+Junto con la cesión del rendimiento, se delega en los colegios de farmacéuticos las competencias de gestión y recaudación en vía voluntaria de la tasa.»
+6. Se añade un nuevo capítulo XIX al título VII de la Ley 15/1997, con el siguiente texto:
+«CAPÍTULO XIX
+Tasa por la auditoría del cumplimiento del programa de garantía de calidad en las unidades de radiodiagnóstico, medicina nuclear y radioterapia
+Artículo 215 septies. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de los servicios que se consignan en el artículo 215 decies.
+Artículo 215 octies. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, titulares de los centros incluidos en el Plan de auditoría de los programas de garantía de calidad establecido por el Departamento de Sanidad y Seguridad Social a los que se realiza la auditoría.
+Artículo 215 novies. Devengo.
+La tasa se devenga mediante la prestación de los servicios constitutivos del hecho imponible, pero el pago puede ser exigido en el momento en que al sujeto pasivo le es comunicada la inclusión del centro en el Plan de auditoría de los programas de garantía de calidad.
+Artículo 215 decies. Tarifas.
+Auditoría periódica, que consiste en la evaluación, verificación, informe y registro de la implantación efectiva del programa de garantía de calidad elaborado por el centro, la adecuación de la misma a los objetivos fijados y el cumplimiento de las disposiciones reglamentarias aplicables a las unidades de radiodiagnóstico, radioterapia y medicina nuclear:
+Unidades simples: las unidades en que el radio-diagnóstico no es la principal actividad del centro, sino un medio de diagnóstico para otra actividad: 35.000 pesetas.
+Unidades complejas: las unidades cuya principal actividad es el diagnóstico por la imagen, la medicina nuclear o la radioterapia: 150.000 pesetas.»
+7. Se añade un nuevo capítulo XX al título VII de la Ley 15/1997, con el siguiente texto:
+«CAPÍTULO XX
+Tasa por la concesión de licencias y autorizaciones de productos sanitarios
+Artículo 215 undecies. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de los servicios que se consignan en el artículo 215 quaterdecies.
+Artículo 215 duodecies. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, a las que se prestan los servicios.
+Artículo 215 terdecies. Devengo.
+La tasa se devenga mediante la prestación de los servicios constitutivos del hecho imponible, pero se puede exigir su pago por adelantado a las personas interesadas en el momento de realizar la solicitud.
+Artículo 215 quaterdecies. Cuota.
+1. Licencia de fabricación de productos sanitarios a medida.
+1.1 Licencia sanitaria previa de funcionamiento de la instalación de fabricación de productos sanitarios a medida: 90.300 pesetas.
+1.2 Modificación de la licencia por cambio de domicilio o tipo de actividad: 37.050 pesetas.
+1.3 Modificación de la licencia por cambio del titular del establecimiento o del responsable técnico: 15.100 pesetas.
+1.4 Revalidación quinquenal: 67.350 pesetas.
+2. Licencia de distribución de productos sanitarios.
+2.1 Licencia sanitaria previa de funcionamiento de la empresa distribuidora de productos sanitarios: 70.100 pesetas.
+2.2 Modificación de la licencia por cambio de domicilio o de tipo de actividad: 37.050 pesetas.
+2.3 Modificación de la licencia por cambio del titular del establecimiento o del responsable técnico: 15.100 pesetas.
+2.4 Revalidación quinquenal: 37.050 pesetas.
+3. Autorización de la publicidad de productos sanitarios dirigida al público insertada en medios de difusión pública: 40.400 pesetas.»
+
+### Artículo 7
+
+Artículo 7. Modificación del título VIII de la Ley 15/1997, de 24 de diciembre, de Tasas y Precios Públicos de la Generalidad de Cataluña.
+1. Se modifica el capítulo II del título VIII de la Ley 15/1997, que queda redactado de la siguiente manera:
+«CAPÍTULO II
+Tasa por la inscripción en las pruebas de capacitación para el ejercicio de la profesión de transportista por carretera o para la actividad de consejero de seguridad para el transporte de mercancías peligrosas por carretera, ferrocarril o vía navegable
+Artículo 221. Hecho imponible.
+Constituye el hecho imponible de la tasa la inscripción en las convocatorias de las pruebas para obtener el certificado de capacitación para el ejercicio de la profesión de transportista por carretera o para la actividad de consejero de seguridad para el transporte de mercancías peligrosas por carretera, ferrocarril o vía navegable.
+Artículo 222. Sujetos pasivos.
+Son sujetos pasivos de la tasa los que soliciten la inscripción en las convocatorias de las pruebas para obtener el certificado de capacitación para el ejercicio de la profesión de transportista por carretera o para la actividad de consejero de seguridad para el transporte de mercancías peligrosas por carretera, ferrocarril o vía navegable.
+Artículo 223. Devengo.
+La tasa se devenga en el momento de la prestación del servicio y se exige en el momento de presentar la solicitud de inscripción en la convocatoria.
+Artículo 224. Liquidación de la tasa.
+La liquidación y el ingreso de la tasa se realizan mediante la carta de pago que se debe entregar a dicho efecto.
+Artículo 225. Cuota.
+El importe de la cuota de la tasa es de:
+a) 2.615 pesetas en las pruebas para obtener el certificado de capacitación para el ejercicio de la profesión de transportista por carretera.
+b) 3.570 pesetas en las pruebas para obtener el certificado para la actividad de consejero de seguridad para el transporte de mercancías peligrosas por carretera, ferrocarril o vía navegable.»
+2. Se modifica el capítulo III del título VIII de la Ley 15/1997, que queda redactado de la siguiente manera:
+«CAPÍTULO III
+Tasa por la expedición del título de capacitación para el ejercicio de la profesión de transportista por carretera o para la actividad de consejero de seguridad para el transporte de mercancías peligrosas por carretera, ferrocarril o vía navegable
+Artículo 226. Hecho imponible.
+Constituye el hecho imponible de la tasa la expedición del título de capacitación para el ejercicio de la profesión de transportista por carretera o para la actividad de consejero de seguridad para el transporte de mercancías peligrosas por carretera, ferrocarril o vía navegable.
+Artículo 227. Sujetos pasivos.
+Son sujetos pasivos de la tasa los que soliciten el título de capacitación para el ejercicio de la profesión de transportista por carretera o para la actividad de consejero de seguridad para el transporte de mercancías peligrosas por carretera, ferrocarril o vía navegable.
+Artículo 228. Devengo.
+La tasa se devenga en el momento de la solicitud, pero el ingreso de la tasa debe realizarse antes de la expedición del título.
+Artículo 229. Cuota.
+La cuota de la tasa por cada título es de 2.615 pesetas.»
+3. Se modifica el artículo 259.1.a) de la Ley 15/1997, que queda redactado de la siguiente manera:
+«a) Por la ocupación de terrenos de dominio público: el valor del terreno ocupado teniendo en cuenta el valor de adquisición de éste por la Generalidad de Cataluña, y el valor de los terrenos contiguos.
+La tasa puede ser revisada proporcionalmente a los aumentos que experimente el valor de la base utilizada para fijarla, si bien estas revisiones sólo pueden llevarse a cabo al acabar los períodos que expresamente se fijen en las condiciones de la autorización.»
+
+### Artículo 8
+
+Artículo 8. Modificación del título IX de la Ley 15/1997, de 24 de diciembre, de Tasas y Precios Públicos de la Generalidad de Cataluña.
+1. Se modifican el encabezamiento y los artículos 316 y 319 del capítulo XIV del título IX, que pasan a redactarse de la siguiente manera:
+«CAPÍTULO XIV
+Tasa por la inscripción y ampliación en el Consejo Catalán de la Producción Agraria Ecológica»
+«Artículo 316. Hecho imponible.
+Constituye el hecho imponible de la tasa la inscripción o ampliación de fincas, industrias y empresas importadoras en los registros establecidos en la normativa vigente.»
+«Artículo 319. Cuota.
+La cuota de la tasa por inscripción es de 15.000 pesetas y para la ampliación de fincas y empresas elaboradoras, de 8.000 pesetas.»
+2. Se añade un nuevo capítulo XV al título IX de la Ley 15/1997, con el siguiente texto:
+«CAPÍTULO XV
+Tasa por productos amparados
+Artículo 319 bis. Hecho imponible.
+Constituye el hecho imponible de la tasa por productos amparados la prestación de los servicios de supervisión necesarios que acrediten el cumplimiento del sistema de control establecido en el Reglamento (CEE) 2092/91 y de los servicios derivados de la expedición de los certificados anuales correspondientes.
+Artículo 319 ter. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas en cuyo interés se prestan los servicios a que se refiere el artículo 319 bis.
+Artículo 319 quáter. Devengo.
+La tasa por producto amparado se devenga en el momento de la prestación del servicio y es exigible anualmente. No obstante, se puede hacer efectiva trimestralmente de acuerdo con las condiciones que se determinen reglamentariamente.
+Artículo 319 quinquies. Cuota.
+La cuota de la tasa por producto amparado es de:
+1. Para los operadores productores:
+1.1 En caso de que produzcan productos ecológicos exclusivamente: 30.000 pesetas anuales.
+1.2 En caso de que produzcan productos ecológicos y convencionales: 40.000 pesetas anuales.
+2. Para los operadores productores-elaboradores o elaboradores:
+2.1 En el caso de elaboradores de productos exclusivamente ecológicos, cuando el volumen de facturación por la venta de producto envasado no supere los 40.000.000 de pesetas: 40.000 pesetas anuales.
+2.2 En el caso de elaboradores de productos ecológicos que también tienen línea de elaboración de producto convencional, cuando el volumen de facturación por la venta de producto envasado ecológico no supere los 40.000.000 de pesetas: 50.000 pesetas anuales.
+2.3 En el caso de elaboradores de productos exclusivamente ecológicos, cuando el volumen de facturación por la venta de producto envasado supere los 40.000.001 pesetas: 50.000 pesetas anuales.
+2.4 En el caso de elaboradores de productos ecológicos que también tienen línea de elaboración de producto convencional, cuando el volumen de facturación por la venta de producto envasado ecológico supere los 40.000.001 pesetas: 60.000 pesetas anuales.»
+
+### Artículo 9
+
+Artículo 9. Modificación del título XII de la Ley 15/1997, de 24 de diciembre, de Tasas y Precios Públicos de la Generalidad de Cataluña.
+1. Se modifica el artículo 333.3.1.1 del capítulo I del título XII de la Ley 15/1997, con el siguiente redactado:
+«3.1.1 Certificaciones unitarias relativas a exención de tacógrafo y limitadores de velocidad, exención de antiencastramiento, exención de homologación, autorización de ficha técnica, catalogación como vehículo histórico y demás certificaciones unitarias: 955 pesetas cada concepto.»
+2. Se modifica el artículo 333.3.2.3 del capítulo I del título XII de la Ley 15/1997, que queda redactado de la siguiente manera:
+«3.2.3 Inspecciones para la autorización de reformas o comprobación de elementos auxiliares o conjuntos de vehículos y para la exención de homologación de vehículos: 3.150 pesetas.»
+3. Se modifica el artículo 333.5.2 del capítulo I del título XII de la Ley 15/1997, en la redacción dada por la Ley 4/2000, de 26 de mayo, de Medidas Fiscales y Administrativas, con el siguiente texto:
+«5.2 Registro de actuaciones de entidades colaboradoras y de inspección y control, empresas y profesionales autorizados: inscripción reglamentaria de profesionales, empresas y entidades colaboradoras y de inspección y control, y también prórrogas, cambios de nombre y cambios de nombramiento de técnicos de laboratorio autorizados o habilitados y certificaciones acreditativas de responsable técnico de taller de reparación de automóviles: 5.120 pesetas.»
+
+### Artículo 10
+
+Artículo 10. Modificación del título XIII de la Ley 15/1997, de 24 de diciembre, de Tasas y Precios Públicos de la Generalidad de Cataluña.
+1. Se modifica el artículo 339 de la Ley 15/1997, que queda redactado de la siguiente manera:
+«Artículo 339. Hecho imponible.
+Constituyen el hecho imponible de la tasa los actos de inscripción de la apertura y modificación de servicios y establecimientos de servicios sociales en el Registro de Entidades, Servicios y Establecimientos Sociales, y también la entrega de las correspondientes certificaciones y la reproducción de listas.»
+2. Se modifica el artículo 342 de la Ley 15/1997, en el sentido de introducir un nuevo apartado 6 con el siguiente redactado:
+«6. Reproducción de listas del Registro de Entidades, Servicios y Establecimientos Sociales: 5.000 pesetas.»
+3. Se modifica el artículo 361 de la Ley 15/1997, en el sentido de introducir un nuevo apartado 1.1.2 con la redacción que se establece a continuación, y los apartados 1.1.2 y 1.1.3 pasan a ser 1.1.3 y 1.1.4, respectivamente:
+«1.1.2 Pequeño de uso individual un día por semana (6 metros cuadrados): 2.000 pesetas mensuales.»
+
+### Artículo 11
+
+Artículo 11. Modificación del título XIV de la Ley 15/1997, de 24 de diciembre, de Tasas y Precios Públicos de la Generalidad de Cataluña.
+Se añade un capítulo VI al título XIV de la Ley 15/1997, de 24 de diciembre, de Tasas y Precios Públicos de la Generalidad de Cataluña, con el siguiente texto:
+«CAPÍTULO VI
+Tasa por los servicios de acreditación de entidades ambientales de control
+Artículo 385. Hecho imponible.
+Constituye el hecho imponible la prestación de los servicios administrativos siguientes:
+a) Los relativos al procedimiento de acreditación de las entidades ambientales de control y, si procede, de sus centros adicionales y establecimientos complementarios. Queda incluida en este concepto la auditoría preceptiva de gestión de la entidad ambiental de control.
+b) Los relativos al procedimiento de renovación de la acreditación de las entidades ambientales de control y, si procede, de sus centros adicionales y establecimientos complementarios.
+c) Los relativos al procedimiento de modificación de la acreditación de entidades ambientales de control y, si procede, de sus centros adicionales y establecimientos complementarios.
+d) Los relativos al procedimiento de acreditación de establecimientos complementarios externos a la entidad ambiental de control.
+Artículo 386. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan la prestación de los servicios especificados en el artículo 385.
+Artículo 387. Pago de la tasa.
+El pago de la tasa se realiza mediante una cuota base en el momento de la presentación de la solicitud correspondiente a la primera fase del devengo para alguno de los hechos imponibles del artículo 385 y una cuota complementaria en el momento en que se haya realizado el estudio de la documentación presentada y emitido el informe previo correspondiente a la segunda fase del devengo.
+Artículo 388. Cuotas.
+Por la prestación del servicio de los hechos imponibles del artículo 385 las cuotas que se fijan son las siguientes:
+1. Hecho imponible del artículo 385.a): procedimiento de acreditación de las entidades ambientales de control y, si procede, de sus establecimientos complementarios.
+1.1 Cuota base: 200.000 pesetas.
+1.2 Cuota complementaria.
+1.2.1 Para la acreditación de la entidad ambiental de control, que depende del número de tipologías y de los niveles solicitados:
+Solicitud para una sola tipología:
+Tipología 1, actividades industriales:
+Para el nivel 1: 2.150.000 pesetas.
+Para el nivel 2: 1.100.000 pesetas.
+Tipologías 2, 3, 4 y 7, actividades mineras, agrícolas y ganaderas, energéticas y de gestión de residuos.
+Para el nivel 1: 1.500.000 pesetas.
+Para el nivel 2: 965.000 pesetas.
+Tipología 5, actividades comerciales y servicios:
+Para el nivel 1: 1.500.000 pesetas.
+Para el nivel 2: 835.000 pesetas.
+Tipología 6, actividades recreativas, espectáculos y ocio:
+Para el nivel 2: 835.000 pesetas.
+La cuota complementaria por la acreditación de la entidad ambiental de control debe reducirse en un 45 por 100 siempre que se demuestre la acreditación previa y vigente por la norma de la serie EN 45000 correspondiente.
+Solicitud para más de una tipología:
+En el caso de solicitar la acreditación para más de una tipología, además de la cuota base, la cuota complementaria se determina, por un lado, con el importe correspondiente a la cuota complementaria de valor superior de las tipologías que se solicitan, y por otro, con el 50 por 100 de los importes correspondientes a las cuotas complementarias del resto de las tipologías solicitadas.
+1.2.2 Por la acreditación de cada uno de los centros adicionales: 262.160 pesetas.
+1.2.3 Cuota para el reconocimiento de cada uno de los laboratorios de análisis que forman parte de la entidad ambiental de control:
+Sin acreditación previa EN 45001 o equivalente: 1.050.000 pesetas.
+Con acreditación previa EN 45001 o equivalente: 100.000 pesetas.
+2. Hecho imponible del artículo 385.b): procedimiento de renovación de la acreditación de las entidades ambientales de control y, si procede, de sus establecimientos complementarios.
+El procedimiento de pago de la tasa, la cuota base y las cuotas complementarias son los mismos que en el caso del hecho imponible del artículo 385.a).
+3. Hecho imponible del artículo 385.c): procedimiento de modificación de la acreditación de entidades ambientales de control y, si procede, de sus establecimientos complementarios consistente en la ampliación del número de tipologías o la modificación de la acreditación para pasar del nivel 2 al nivel 1.
+La cuota base y la cuota complementaria deben abonarse tal y como fija el artículo 387, y son las mismas que en el caso del hecho imponible del artículo 385.a), excepto en lo referente a la modificación de los centros adicionales, que se fija en 131.080 pesetas para cada centro adicional, y en lo referente a la modificación del reconocimiento de los laboratorios de análisis o establecimientos complementarios que forman parte de la entidad ambiental de control que se fija según:
+Sin acreditación previa EN 45001 o equivalente: 400.000 pesetas.
+Con acreditación previa EN 45001 o equivalente: 100.000 pesetas.
+4. Hecho imponible del artículo 385.d): procedimiento de acreditación de establecimientos complementarios externos a la entidad ambiental de control.
+4.1 Cuota base: 200.000 pesetas.
+4.2 Cuota complementaria para el reconocimiento y renovación de la acreditación de cada uno de los establecimientos complementarios se aplica según:
+Sin acreditación previa EN 45001 o equivalente: 1.298.640 pesetas.
+Con acreditación previa EN 45001 o equivalente: 450.000 pesetas.
+En el caso de modificación de la acreditación, la cuota complementaria es:
+Sin acreditación previa EN 45001 o equivalente: 643.240 pesetas.
+Con acreditación previa EN 45001 o equivalente: 350.000 pesetas.»
+
+## TÍTULO II
+
+Medidas administrativas
+
+## CAPÍTULO I
+
+Medidas en materia de personal
+
+## Sección única
+
+Sección única. Modificación del decreto legislativo 1/1997, de 31 de octubre, por el que se aprueba la refundición en un texto único de los preceptos de determinados textos legales vigentes en Cataluña en materia de función pública
+
+### Artículo 12
+
+Artículo 12. Funcionarización de personal laboral.
+Se añade una disposición transitoria duodécima al Decreto Legislativo 1/1997, de 31 de octubre, con el siguiente texto:
+«Duodécima.
+1. En los términos establecidos en la disposición transitoria décima de la presente Ley, el proceso de funcionarización que se regula en la misma también es de aplicación al personal que en fecha 1 de enero de 2001 preste servicios en la Administración de la Generalidad de Cataluña y, en el momento de la convocatoria, ocupe un puesto de trabajo clasificado para funcionarios o tenga una suspensión de contrato con derecho a reserva en uno de dichos puestos de trabajo.
+2. El personal que en virtud del proceso de funcionarización sea destinado, con la previa superación de las pruebas selectivas correspondientes, al puesto de trabajo de personal funcionario en que se haya reconvertido el puesto que ocupaba como laboral, debe percibir un complemento personal transitorio absorbible, por importe equivalente a la diferencia entre las retribuciones del puesto de trabajo que ocupaba como personal laboral, incluidos los trienios, y las que le corresponden como consecuencia de la clasificación y valoración del puesto de trabajo reconvertido.»
+
+## CAPÍTULO II
+
+Medidas en relación al régimen jurídico de las finanzas de la Generalidad
+
+## Sección 1
+
+Sección 1.ª Modificaciones del Decreto Legislativo 9/1994, de 13 de julio, por el que se aprueba el texto refundido de la Ley de Finanzas Públicas de Cataluña
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Artículos 13 al 15
+
+Artículos 13 al 15.
+(Derogados).
+Se derogan por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Artículo 13
+
+Artículo 13. Modificación del apartado 1 del artículo 26 del texto refundido de la Ley de Finanzas Públicas de Cataluña, aprobado por el Decreto Legislativo 9/1994, de 13 de julio.
+Se modifica el artículo 26.1 del Decreto Legislativo 9/1994, de 13 de julio, que queda redactado de la siguiente manera:
+«1. El derecho al reconocimiento o liquidación de las obligaciones y al pago de las obligaciones ya reconocidas o liquidadas prescribe a los cuatro años del nacimiento de las obligaciones o de su reconocimiento o liquidación, respectivamente.»
+
+### Artículo 14
+
+Artículo 14. Modificación del artículo 36 del texto refundido de la Ley de Finanzas Públicas de Cataluña, aprobado por el Decreto Legislativo 9/1994, de 13 de julio.
+Se modifica el artículo 36.3, y se introduce un nuevo apartado 4, del Decreto Legislativo 9/1994, de 13 de julio, por el que se aprueba el texto refundido de la Ley de Finanzas Públicas de Cataluña, de manera que el actual apartado 4 pasa a ser el 5.
+«3. El número de ejercicios a los que pueden aplicarse los gastos mencionados en las letras a), b), c) y f) del apartado 2 no debe ser superior a cuatro. Asimismo, la parte del gasto correspondiente a los ejercicios futuros y la ampliación, en su caso, del número de anualidades debe ser determinada por el Gobierno a propuesta del Consejero de Economía, Finanzas y Planificación.
+4. El procedimiento fijado en el apartado 3 también es de aplicación en los contratos de obras que se lleven a cabo bajo la modalidad de abono total del precio, establecida por la normativa básica sobre contratación administrativa, ya sea con abono total del precio de una sola vez o bien con fraccionamiento del precio en diferentes anualidades, que no pueden ser superiores a diez, contadas a partir de la fecha prevista de finalización de las obras.»
+
+### Artículo 15
+
+Artículo 15. Modificaciones del capítulo IX del texto refundido de la Ley de Finanzas Públicas de Cataluña, aprobado por el Decreto Legislativo 9/1994, de 13 de julio.
+1. Se añade un nuevo apartado 4 al artículo 87 del Decreto Legislativo 9/1994, de 13 de julio, establecido mediante el artículo 28 de la Ley 25/1998, de 31 de diciembre, de Medidas Administrativas, Fiscales y de Adaptación al Euro, con el siguiente redactado:
+«4. En el supuesto de ayudas que impliquen indemnizaciones derivadas de catástrofes naturales y otras causas de fuerza mayor, el régimen jurídico es el que determina la norma jurídica que las regula.»
+2. Se añade un nuevo apartado 4 al artículo 88 del Decreto Legislativo 9/1994, de 13 de julio, establecido mediante el artículo 28 de la Ley 25/1998, de 31 de diciembre, de Medidas Administrativas, Fiscales y de Adaptación al Euro, con el siguiente redactado:
+«4. En el supuesto fijado por el artículo 87.4 se aplica con carácter general el mismo régimen jurídico económico y financiero que a las subvenciones, en todo lo que no sea incompatible con su naturaleza.»
+3. Se modifican las reglas cuarta y séptima del artículo 94 del Decreto Legislativo 9/1994, de 13 de julio, establecido mediante el artículo 28 de la Ley 25/1998, de 31 de diciembre, de Medidas Administrativas, Fiscales y de Adaptación al Euro, que quedan redactadas de la siguiente manera:
+«Cuarta. Excepcionalmente, si, de acuerdo con el informe del Secretario o Secretaria general del Departamento o el órgano asimilado en la estructura de las entidades autónomas, se acredita la imposibilidad de promover la concurrencia pública por las especificidades del subvencionado o de las actividades a desarrollar, se pueden conceder directamente por resolución del Consejero o Consejera correspondiente o por acuerdo del Gobierno, si el importe es superior a 50.000.000 de pesetas o el que se determine por Ley de Presupuestos, y a instancia de parte, subvenciones innominadas o genéricas. La resolución de concesión que debe firmarse, debe concretar el objeto, plazo y forma de justificación de la aplicación del fondo, la posibilidad de anticipos, las garantías, si proceden, y la obligación de suministrar información a efectos de control.»
+«Séptima. Los entes concedentes deben dar publicidad a las subvenciones otorgadas mediante la exposición de éstas en el tablero de anuncios designado en la convocatoria. Cuando se trata de subvenciones de un importe superior a 1 millón de pesetas, deben publicarse en el “Diario Oficial de la Generalidad de Cataluñaˮ, indicando el beneficiario, la cantidad concedida, las finalidades de la subvención y el crédito presupuestario al que se han imputado. Lo establecido en este apartado no es de aplicación a las subvenciones nominativas.»
+4. Se modifica el artículo 98.3 del Decreto Legislativo 9/1994, de 13 de julio, establecido mediante el artículo 28 de la Ley 25/1998, de 31 de diciembre, de Medidas Administrativas, Fiscales y de Adaptación al Euro, que queda redactado de la siguiente manera:
+«3. Es un requisito necesario para percibir subvenciones con cargo a los presupuestos de la Generalidad el cumplimiento por los beneficiarios de sus obligaciones tributarias ante la Generalidad. La Tesorería debe comprobar, con carácter previo al pago de las subvenciones o los anticipos, este cumplimiento, y en caso contrario, debe iniciarse el procedimiento de compensación de los créditos a percibir por el beneficiario hasta cubrir las deudas pendientes, tanto si son de naturaleza tributaria como si no.»
+
+## Sección 2
+
+Sección 2.a Medidas de control financiero permanente
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Artículo 16
+
+Artículo 16. Control financiero permanente.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+## CAPÍTULO III
+
+Medidas en relación con el régimen jurídico del patrimonio de la Generalidad
+
+## Sección única
+
+Sección única. Normas patrimoniales
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Artículo 17
+
+Artículo 17. Modificación de la Ley 11/1981, de 7 de diciembre, del Patrimonio de la Generalidad.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+## CAPÍTULO IV
+
+Medidas sobre el sector público
+
+## Sección 1
+
+Sección 1.ª Modificación de la ley 4/1985, de 29 de marzo, del Estatuto de la Empresa Pública Catalana
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Artículo 18
+
+Artículo 18. Modificación del artículo 35 de la Ley 4/1985, de 29 de marzo, del Estatuto de la Empresa Pública Catalana.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+## Sección 2
+
+Sección 2.ª El Consejo Catalán de la Producción Agraria Ecológica
+Se deroga por la disposición derogatoria.1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999
+
+### Artículos 19 al 21
+
+Artículos 19 al 21.
+(Derogados).
+Se derogan por la disposición derogatoria.1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999
+
+### Artículo 19
+
+Artículo 19. Creación y funciones del Consejo Catalán de la Producción Agraria Ecológica.
+1. Se crea el Consejo Catalán de la Producción Agraria Ecológica como corporación de derecho público con personalidad jurídica propia, autonomía económica y plena capacidad de obrar para el cumplimiento de las funciones derivadas del régimen aplicable a la producción agrícola ecológica y su indicación en los productos agrarios y alimentarios establecido por el Reglamento (CEE) 2092/91, del Consejo, de 24 de junio de 1991.
+2. El Consejo Catalán de la Producción Agraria Ecológica ajusta su actividad al derecho privado con carácter general, a excepción de la actuación derivada de la inscripción en los registros establecidos por la normativa vigente y de las funciones de supervisión de acreditación del cumplimiento del sistema de control establecido por el Reglamento (CEE) 2092/91 y por el régimen sancionador que se detalla en esta sección.
+3. El Departamento de Agricultura, Ganadería y Pesca puede delegar en el Consejo el ejercicio de otras funciones públicas necesarias para el cumplimiento de sus finalidades y ejerce la tutela administrativa sobre el mismo.
+4. Los actos del Consejo sujetos al derecho administrativo son objeto de recurso, en el plazo y con los requisitos que establecen las normas del procedimiento administrativo.
+5. Se faculta al Gobierno para realizar las adaptaciones necesarias de la normativa vigente reguladora de la producción agraria ecológica en Cataluña.
+
+### Artículo 20
+
+Artículo 20. Tasas del Consejo Catalán de la Producción Agraria Ecológica.
+1. Para la prestación de los servicios inherentes al sistema de control a que se refiere el artículo 18, de acuerdo con lo establecido por el artículo 9 del Reglamento (CEE) 2092/91, según el cual los operadores que se quieran acoger al régimen de la producción agraria ecológica deben pagar su contribución a los gastos de control, el Consejo recauda las tasas que con estas finalidades regula la Ley de Tasas y Precios Públicos de la Generalidad de Cataluña.
+2. Las tasas del Consejo tienen carácter finalista, por lo que, de acuerdo con lo establecido en el artículo 3 de la Ley 15/1997, de 24 de diciembre, de Tasas y Precios Públicos de la Generalidad de Cataluña, los ingresos derivados de las tasas quedan afectados a la financiación del coste de los servicios prestados por el Consejo Catalán de la Producción Agraria Ecológica.
+
+### Artículo 21
+
+Artículo 21. Régimen sancionador.
+1. Tipificación.
+1.1 Tiene la consideración de infracción administrativa el incumplimiento de las normas relativas a la producción, elaboración, transformación, importación y comercialización, y también cualquier otra obligación establecida para los operadores por el Reglamento (CEE) 2092/91.
+1.2 Las infracciones se clasifican en leves, graves y muy graves.
+1.3 Son infracciones leves las actuaciones u omisiones de carácter administrativo que no implican variación alguna en el método de producción agrario ecológico establecido por el Reglamento (CEE) 2092/91, y las que no pueden ser calificadas de graves o muy graves.
+1.4 Son infracciones graves las derivadas de la falta de control propio o de precaución exigible en la actividad, las instalaciones o procesos de producción o elaboración y transformación, y también las que suponen una reincidencia en la comisión de infracciones leves durante un período de un año.
+1.5 Son infracciones muy graves las que implican prescindir totalmente del método de producción agrario ecológico y de la indicación del mismo en los productos agrarios alimentarios y las que suponen una reincidencia en la comisión de infracciones graves durante un período de un año.
+2. Sanciones.
+2.1 Las infracciones son sancionadas con las multas siguientes, que deben incrementarse hasta el total del beneficio obtenido por el infractor, en caso de existir:
+a) Las infracciones leves, con multa de hasta 50.000 pesetas.
+b) Las infracciones graves, con multa de 50.001 a 1.000.000 de pesetas y retirada de la indicación del método de producción agrario ecológico en toda la producción del operador infractor durante un período de tres meses a un año.
+c) Las infracciones muy graves, con multa de 1.000.001 a 5.000.000 de pesetas y retirada del derecho de utilización de la indicación para toda la producción del operador infractor durante un período mínimo de un año y máximo de cinco.
+En caso de reincidencia en la comisión de infracciones muy graves en el período de dos años, el infractor debe ser dado de baja de oficio del registro correspondiente.
+2.2 Las sanciones graves y muy graves pueden ir acompañadas del decomiso de la mercancía o producto afectado por la infracción, en cuyo caso los gastos que se originan deben ser asumidos por el infractor.
+2.3 Las sanciones deben graduarse de acuerdo con la gravedad del hecho constitutivo de la infracción, teniendo en cuenta el volumen de producción o de ventas afectado, el efecto perjudicial que la infracción haya producido sobre los precios o sobre los mismos sectores implicados, el número de consumidores o usuarios afectados y, en general, los daños y perjuicios producidos.
+2.4 Los ingresos derivados de la imposición de las sanciones quedan afectados a la financiación del coste de los servicios prestados por el Consejo Catalán de la Producción Agraria Ecológica.
+3. Competencia.
+Son competentes para la imposición de las sanciones los siguientes órganos:
+a) El Presidente o Presidenta del Consejo Catalán de la Producción Agraria Ecológica.
+b) La persona titular del Departamento de Agricultura, Ganadería y Pesca, en caso de imposición de sanciones de cuantía superior a las muy graves por razón del mayor beneficio obtenido por el infractor.
+
+## Sección 3
+
+Sección 3.ª Entidad autónoma Institución de las Letras Catalanas
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Artículo 22
+
+Artículo 22. Modificación de la Ley 20/1987, de 12 de noviembre, de Creación de la entidad autónoma Institución de las Letras Catalanas.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+## Sección 4
+
+Sección 4.ª Instituto Catalán de Nuevas Profesiones
+
+### Artículo 23
+
+Artículo 23. Disolución del Instituto Catalán de Nuevas Profesiones.
+1. Se disuelve el Instituto Catalán de Nuevas Profesiones, organismo autónomo de carácter administrativo adscrito al Departamento de Enseñanza, creado por la Ley 7/1986, de 23 de mayo, de Ordenación de las Enseñanzas no Regladas en el Régimen Educativo Común y de Creación del Instituto Catalán de Nuevas Profesiones.
+2. La personalidad jurídica del Instituto Catalán de Nuevas Profesiones queda extinguida desde la entrada en vigor de la presente Ley, y los medios personales y materiales y los recursos del Instituto son integrados en la estructura administrativa del Departamento de Enseñanza, que se subroga en todas las relaciones jurídicas en que el Instituto sea sujeto activo o pasivo.
+A dicho efecto, el personal funcionario del Instituto que ocupa puestos de trabajo reservados a funcionarios se adscribe a otras unidades directivas del Departamento. Esta adscripción debe hacerse de forma provisional para los puestos de mando, singulares o de libre designación cubiertos de forma definitiva y suprimidos como consecuencia de la disolución, y de manera definitiva para el resto del personal funcionario afectado que ocupa puestos de trabajo base con destinación definitiva.
+Asimismo, el Departamento de Enseñanza se subroga en los derechos y obligaciones derivados de la vinculación del personal contratado en régimen laboral en los términos establecidos por la normativa vigente.
+
+## Sección 5
+
+Sección 5.ª Instituto Catalán de Finanzas
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Artículo 24
+
+Artículo 24. Modificación de la Ley 2/1985, de 14 de enero, del Instituto Catalán de Finanzas.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+## CAPÍTULO V
+
+Otras medidas
+
+## Sección 1
+
+Sección 1.ª Modificación del título 5 y adición de una nueva disposición final a la Ley 1/1986, de 25 de febrero, de Pesca Marítima de Cataluña
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Artículo 25
+
+Artículo 25. Modificación del Título 5 de la Ley 1/1986, de 25 de febrero, de Pesca Marítima de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Artículo 26
+
+Artículo 26. Adición de una nueva disposición final tercera a la Ley 1/1986, de 25 de febrero, de Pesca Marítima de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+## Sección 2
+
+Sección 2.a Modificación de la Ley 5/1998, de 17 de abril, de Puertos de Cataluña
+
+### Artículo 27
+
+Artículo 27. Modificación del anexo 1 de la Ley 5/1998, de 17 de abril, de Puertos de Cataluña.
+1. Se añade un punto 3 al apartado 4.1.4 del anexo 1 de la Ley 5/1998, con el siguiente redactado:
+«3. Carretones: 2.830 pesetas.»
+2. Se modifica el apartado 4.1.6 del anexo 1 de la Ley 5/1998, que queda redactado de la siguiente manera:
+«4.1.6 Recargos.
+Los servicios de báscula, grúas móviles y fijas, y carretones, prestados fuera de la jornada laboral ordinaria, se facturan con un recargo del 25 por 100, siempre que no sean en días festivos u horarios nocturnos, supuesto en el que el recargo es del 50 por 100.»
+3. Se modifica el apartado 4.2.4, del anexo 1 de la Ley 5/1998, que queda redactado de la siguiente manera:
+«4.2.4 Cuantía de la tarifa.
+1. La cuantía de esta tarifa a aplicar por metro cuadrado y por día natural o fracción es la que figura en la siguiente tabla baremo:
+Mercancías Sup. Descub. Sup. Cubiert.
+Zonas de tránsito:
+Días 1 al 34,8.
+Días 4 al 103,28.
+Días 11 al 174,816.
+Días 18 en adelante 1332.
+Zonas de almacenaje 36,4.
+Útiles de pesca 3,57.
+Otras utilizaciones.
+Temporada alta (del 1 de junio al 30 de septiembre): 40.
+Temporada baja: 20.
+2. La definición y extensión de cada una de estas zonas en los diversos muelles y partes de la zona de servicio son las que se fijan en cada puerto.»
+4. Se modifica el subapartado 2 del apartado 4.3.5 del anexo 1 de la Ley 5/1998, que queda redactado de la siguiente manera:
+«2. Previa solicitud y justificación de los consumos necesarios, para consumos eléctricos superiores a 30.000 kilovatios por año y para consumos de agua superiores a 2.000 metros cúbicos por año, se aplica hasta el 50 por 100 de los incrementos fijados sobre el precio de suministro.»
+5. Se modifica el apartado 4.4 del anexo 1 de la Ley 5/1998, que queda redactado de la siguiente manera:
+«4.4 Tarifa E-4: Servicio de elevación, reparación y conservación.
+4.4.1 Definición y aplicación.
+Esta tarifa es exigible por la utilización de las instalaciones destinadas a la elevación, reparación y conservación de embarcaciones.
+4.4.2 Sujetos obligados.
+Están obligados a abonar esta tarifa los usuarios del servicio.
+4.4.3 Base de la tarifa.
+La base para la liquidación de esta tarifa es la operación efectuada, el tiempo de utilización de la instalación y la eslora y manga de la embarcación.
+4.4.4 Cuantía de la tarifa.
+La cuantía de la tarifa a aplicar es la siguiente:
+a) Rampa de botadura: 160 pesetas por día de utilización y por metros de eslora, y no incluye el vehículo ni el remolque.
+b) Carros de botadura:
+Izada o botadura: 92 pesetas por metro lineal de eslora por manga.
+Estancia en la zona de reparación: 46 pesetas por día y por metro lineal de eslora por manga.
+c) Pórticos elevadores:
+Izada o botadura: 2.300 pesetas por metro de eslora.
+Inmovilización: 3.000 pesetas por hora. La prestación de este servicio queda condicionada a la disponibilidad del servicio.
+Estancia en la zona de reparación: 345 pesetas por día y por metro lineal de eslora.
+En los servicios de pórticos elevadores se aplican, en función de la eslora de las embarcaciones, los coeficientes siguientes:
+1. Embarcaciones de menos de 14 metros de eslora: 0,9.
+2. Embarcaciones de más de 20 metros y hasta 22 metros: 1,1.
+3. Embarcaciones de más de 22 metros: 1,2.
+d) Grúas fijas:
+Subida o bajada: 3.000 pesetas por operación.
+1. Es de aplicación en las operaciones de menos de treinta minutos. Para operaciones de más de treinta minutos, la cuantía es de 1.500 pesetas cada media hora o fracción de exceso.
+2. Estancias: 32 pesetas por metro cuadrado y día. Las embarcaciones pesqueras disfrutan de un día de carencia.
+3. Invernaje: en zonas de botadura cerradas se pueden establecer conciertos por razones de optimización en la operatividad de la gestión portuaria.
+4. Si, por cualquier causa, Puertos de la Generalidad no dispone de maquinistas de grúas para atender las peticiones de alquiler de estos equipos, puede autorizar su utilización, y el maquinista va a cargo del peticionario; en este caso, la tarifa es el 75 por 100 de la cuantía que corresponde. Dicho maquinista y, subsidiariamente, la empresa que lo contrata son responsables de todas las lesiones, daños y averías ocasionados al personal o los bienes de Puertos de la Generalidad o a terceros, como consecuencia de la manipulación de la grúa, y deben demostrar ante Puertos de la Generalidad su aptitud para dicho cometido, si Puertos de la Generalidad lo solicita.
+e) Otros servicios:
+Servicios diversos en zonas de reparación cerradas.
+Recogida de desperdicios: 230 pesetas por metro de eslora y por semana o fracción.
+Suministro de energía y agua: 53 pesetas por metro de eslora por día.
+Alquiler de máquina de limpieza a presión: 4.040 pesetas por hora.
+4.4.5 Reducciones o bonificaciones:
+1. En la estancia en la zona de reparación, a partir del cuarto día, existe una reducción de un 50 por 100 de la cuantía, y la prestación del servicio queda condicionada a la disponibilidad de la zona.
+2. En la subida o bajada de grúas fijas, el sector pesquero tiene un descuento de un 25 por 100 de la cuantía.
+4.4.6 Exenciones.
+No está previsto ningún tipo de exención en la aplicación de esta tarifa.
+4.4.7 Normas singulares de aplicación:
+1. Los servicios se prestan con la petición previa por escrito de los usuarios, con la aceptación explícita de las normas del servicio.
+2. Estos servicios son exclusivamente aplicables a los servicios prestados en días laborables, dentro la jornada ordinaria establecida por Puertos de la Generalidad.
+3. Los usuarios deben asumir la responsabilidad de las operaciones complementarias a las del mismo servicio.»
+
+### Disposición adicional primera
+
+Disposición adicional primera. Autorización por la alienación directa de las viviendas de los parques de maquinaria de la Dirección General de Carreteras.
+(Derogada).
+Se deroga por la disposición derogatoria única 1.b) de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Extensión de la aplicación de la disposición adicional undécima del Decreto Legislativo 1/1997 a los ex Diputados del Parlamento.
+1. A los funcionarios de carrera que ejercen o han ejercido durante más de dos años seguidos, o tres con interrupciones, el mandato de Diputado del Parlamento de Cataluña, de Diputado al Congreso o de Senador, les es de aplicación, en los mismos términos, la garantía retributiva establecida por la disposición adicional undécima del Decreto Legislativo 1/1997, de 31 de octubre, por el que se aprueba la refundición en un texto único de los preceptos de determinados textos legales vigentes en Cataluña en materia de función pública.
+2. Sin perjuicio de lo establecido por el apartado 1, se tiene en cuenta el hecho de haber sido Diputado y Diputada dentro la carrera administrativa, de acuerdo con la Ley 17/1985, de 23 de julio, de la Función Pública de la Administración de la Generalidad.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Modificación del artículo 31.3.4.7 de la Ley 4/2000, de 26 de mayo, relativo a la tarifa G-4 (Pesca fresca).
+(Derogada).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Extensión de la aplicación del capítulo IV del título VII de la Ley 15/1997 a determinadas empresas cárnicas.
+(Derogada).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Criterios de distribución de los ingresos provenientes del Impuesto sobre Grandes Establecimientos Comerciales.
+Los ingresos obtenidos del Impuesto sobre Grandes Establecimientos Comerciales, que en ningún caso pueden ser destinados a ayudas específicas para empresas comerciales, deben distribuirse de acuerdo con los siguientes criterios:
+a) Un mínimo del 40 por 100 debe ser destinado a infraestructuras de equipamiento municipal y de urbanismo comercial.
+b) Un mínimo del 30 por 100 debe ser destinado a desarrollo de planes de actuación y dinamización comercial en áreas afectadas por los emplazamientos de grandes establecimientos comerciales.
+c) Un mínimo del 10 por 100 debe ser destinado a desarrollo de planes de actuación medioambientales en áreas afectadas por los emplazamientos de grandes establecimientos comerciales.
+Se modifica por el art. 17 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Autorización al Gobierno para encargar a Tabasa la gestión de los túneles de Horta.
+El Gobierno puede encargar a «Túneles y Accesos de Barcelona, Sociedad Anónima» (Tabasa) la gestión temporal del servicio de construcción, conservación y explotación de los túneles de Horta y de sus accesos, de acuerdo con el pliego de cláusulas particulares que a este efecto se apruebe.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Modificación del artículo 8.5 de la Ley 23/1983, de Política Territorial.
+Se modifica el artículo 8.5 de la Ley 23/1983, de 21 de noviembre, de Política Territorial, que queda redactado de la siguiente manera:
+«Artículo 8.5.
+Se crea la Comisión de Coordinación de la Política Territorial, formada por los representantes de los Departamentos de la Administración de la Generalidad que determine el Gobierno, quien, además, debe fijar sus normas de funcionamiento.»
+
+### Disposición adicional octava
+
+Disposición adicional octava. Control financiero permanente de los derechos a favor de la hacienda de la Generalidad.
+(Derogada).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Disposición adicional novena
+
+Disposición adicional novena. Otorgamiento de concesiones administrativas para la gestión de campus universitarios.
+Sin perjuicio de lo establecido por el artículo 28.1 de la Ley 11/1981, de 7 de diciembre, de Patrimonio de la Generalidad, cuando razones de especial interés lo aconsejen, el Gobierno de la Generalidad de Cataluña puede otorgar directamente las concesiones administrativas para la gestión de los campus universitarios.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Modificación del artículo 35 de la Ley 4/1985, de 29 de marzo, del Estatuto de la Empresa Pública Catalana.
+(Derogada).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Modificación del artículo 31.3.1.4.6 de la Ley 4/2000, de 26 de mayo, relativo a la tarifa G-1 (Entrada y estancia de barcos).
+(Derogada).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Modificación del artículo 319 quinquies del capítulo XV del título IX de la Ley 15/1997, de 24 de diciembre, de Tasas y Precios Públicos de la Generalidad de Cataluña.
+(Derogada).
+Se deroga por la disposición derogatoria.5 del Decreto Legislativo 3/2008, de 25 de junio. Ref. DOGC-f-2008-90017#dd
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Modificación del artículo 14 del capítulo II del título preliminar de la Ley 15/1997, de 24 de diciembre, de Tasas y Precios Públicos de la Generalidad de Cataluña.
+(Derogada).
+Se deroga por la disposición derogatoria.5 del Decreto Legislativo 3/2008, de 25 de junio. Ref. DOGC-f-2008-90017#dd
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Plazo de prescripción.
+(Derogada).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Deducciones del IRPF por cantidades dadas a la Fundación de la Abadía de Montserrat.
+(Derogada).
+Se deroga por la disposición derogatoria 2 y el anexo. D).4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera. Derogación de la Ley 7/1986, de 23 de mayo, de Ordenación de las Enseñanzas no Regladas en el Régimen Educativo Común y de Creación del Instituto Catalán de Nuevas Profesiones.
+Se deroga la Ley 7/1986, de 23 de mayo, de Ordenación de las Enseñanzas no Regladas en el Régimen Educativo Común y de Creación del Instituto Catalán de Nuevas Profesiones.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda. Derogación del artículo 6 de la Ley 25/1998, de 31 de diciembre, de Medidas Administrativas, Fiscales y de Adaptación al Euro.
+Se deroga el artículo 6 de la Ley 25/1998, de 31 de diciembre, de Medidas Administrativas, Fiscales y de Adaptación al Euro.
+
+### Disposición final
+
+Disposición final. Entrada en vigor.
+La presente Ley entra en vigor el 1 de enero de 2001.
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 29 de diciembre de 2000.
+ARTUR MAS I GAVARRÓ,
+ JORDI PUJOL,
+ Consejero de Economía, Finanzas y Planificación
+ Presidente

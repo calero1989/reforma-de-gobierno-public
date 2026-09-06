@@ -1,0 +1,124 @@
+# Ley 19/1992, de 7 de julio, sobre Régimen de Sociedades y Fondos de Inversión Inmobiliaria y sobre Fondos de Titulización Hipotecaria.
+
+- Identificador BOE: `BOE-A-1992-16412`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1992-16412
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de erratas publicada en BOE núm. 186, de 4 de agosto de 1992. Ref. BOE-A-1992-18490
+
+## Preámbulo
+
+JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+Exposición de motivos
+La implantación efectiva de las Instituciones de Inversión Colectiva de carácter inmobiliario, pieza de la política gubernamental de vivienda, exige, dado su carácter novedoso, la modificación de determinados preceptos de la Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva, para dotar de cobertura legal al régimen fiscal y financiero de las Sociedades y Fondos de Inversión Inmobiliaria.
+En cuanto al régimen fiscal, éste se caracteriza, fundamentalmente, por la fijación de unos tipos reducidos en el Impuesto sobre Sociedades para los Fondos y Sociedades de Inversión Inmobiliaria que inviertan exclusivamente en viviendas u otros bienes inmuebles para su arrendamiento posterior.
+En el plano financiero, por un lado, se precisan las especialidades necesarias para dotar de un régimen jurídico adecuado a las Sociedades y Fondos de Inversión Inmobiliaria, de otro, se particularizan las especialidades del régimen sancionador para las mencionadas instituciones.
+La presente Ley regula, igualmente, por primera vez en España, los llamados «Fondos de Titulización Hipotecaria». Estos Fondos, agrupaciones de participaciones hipotecarias cuya configuración jurídica y financiera debe distinguirse de la de los Fondos de Inversión Mobiliaria, transformarán en valores de renta fija homogéneos, estandarizados y, por consiguiente, susceptibles de negociación en mercados de valores organizados, los conjuntos de participaciones en préstamos hipotecarios que adquieran de entidades de crédito. Ello permitirá a éstas una más fácil movilización de los préstamos hipotecarios que otorguen, lo que estimulará la competencia entre ellas, permitirá su mayor especialización en las diversas funciones inherentes al otorgamiento y posterior administración de los créditos hipotecarios y, en consecuencia, contribuirá a abaratar los préstamos para adquisición de vivienda.
+
+### Artículo primero
+
+Artículo primero.
+1. Se da nueva redacción al apartado d) del artículo 32.2 de la Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva, que quedará como sigue:
+«d) El exceso de inversión sobre los coeficientes establecidos en el artículo 4.º, o los que se fijen al amparo de lo dispuesto en el artículo 33, siempre que tenga carácter transitorio y no exceda del 20 por 100 de los límites legales.»
+2. Se da nueva redacción al apartado c) del artículo 32.3 de la Ley 46/1984, que quedará como sigue:
+«c) El exceso de inversión sobre los coeficientes del artículo 4.º, o los que se establezcan reglamentariamente al amparo de lo dispuesto en el artículo 33, cuando la infracción no deba calificarse como leve.»
+3. Se da nueva redacción al apartado d) del artículo 32.3 de la Ley 46/1984, que quedará como sigue:
+«d) El exceso en las limitaciones impuestas en el artículo 11 a las obligaciones frente a terceros, o las que se fijen reglamentariamente, conforme a lo dispuesto en el artículo 33.»
+4. Se da nueva redacción al apartado h) del artículo 32.3 de la Ley 46/1984, que quedará como sigue:
+«h) El incumplimiento del coeficiente de inversión mínima de los artículos 10 y 18, o el que se establezca al amparo de lo dispuesto en el artículo 33, cuando la falta de inversión tenga carácter transitorio y no supere el 20 por 100 del mismo.»
+5. Se da nueva redacción al apartado e) del artículo 32.4 de la Ley 46/1984, que quedará como sigue:
+«e) El incumplimiento del coeficiente de inversión mínima de los artículos 10 y 18, o el que se establezca reglamentariamente al amparo de lo dispuesto en el artículo 33, cuando no deba calificarse como infracción grave.»
+6. Se da nueva redacción al apartado l) del actual artículo 32.4 de la Ley 46/1984, que queda redactado como sigue:
+«l) El incumplimiento de los plazos de permanencia de las inversiones fijados en los artículos 34 bis 4 y 35 bis 4 de la presente Ley.»
+7. Se introduce un nuevo apartado ll) en el artículo 32.4 de la Ley 46/1984, con la siguiente redacción:
+«ll) El incumplimiento por parte de las sociedades gestoras que actúen en el marco de la presente Ley de las obligaciones en materia de valoración de inmuebles que se establezcan en desarrollo de lo preceptuado en el artículo 33 de la presente Ley.»
+8. El actual apartado l) del artículo 32.4 de la Ley 46/1984 pasa a ser apartado m) del mismo artículo con idéntica redacción.
+
+### Artículo segundo
+
+Artículo segundo.
+1. Se da nueva redacción al artículo 33 de la Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva, que quedará redactado como sigue:
+«Artículo 33. Régimen jurídico.
+1. Las Instituciones de Inversión Colectiva no financieras que se creen al amparo de la presente Ley se ajustarán en su constitución y modificación a lo dispuesto en el artículo 8.
+2. A las presentes Instituciones les será de aplicación el régimen general previsto en el Título anterior, y en particular lo dispuesto en los artículos 31, 32 y 32 bis.
+3. El principio de diversificación de riesgos contenido en el artículo 2.2 de la presente Ley, desarrollado por el artículo 4, se adaptará reglamentariamente a la naturaleza y tipo de inversiones de estas Instituciones.
+4. Asimismo, en la determinación de su régimen jurídico se podrán establecer reglamentariamente, entre otras, especialidades en materia de criterios de valoración, obligaciones frente a terceros, constitución de derechos de garantía sobre activos o bienes integrantes de su patrimonio y suscripción y reembolso de participaciones.
+5. Las denominaciones que reglamentariamente se fijen para las Instituciones de Inversión Colectiva de carácter no financiero serán privativas de las inscritas en los registros correspondientes.
+6. En los supuestos de Sociedades y Fondos de Inversión Inmobiliaria, ni los socios o partícipes de las citadas Instituciones ni las personas vinculadas con ellos podrán ser arrendatarios de los bienes inmuebles que integren el activo o el patrimonio de las mismas, ni ser titulares de otros derechos sobre los mismos distintos de los derivados de su condición de socios o partícipes.
+7. Tratándose de Fondos de Inversión Inmobiliaria, los bienes y derechos de su titularidad podrán ser inscritos a su nombre en el Registro de la Propiedad.»
+2. El apartado 3 del artículo 34 de la Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva, quedará redactado en los siguientes términos:
+«3. Las operaciones de constitución, aumento de capital y la fusión de Sociedades de Inversión Mobiliaria de capital fijo cuyo capital esté representado por valores admitidos a negociación en Bolsa de Valores, quedarán exentas en la modalidad de operaciones societarias del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.»
+
+### Artículo tercero
+
+Artículo tercero.
+Se añaden dos nuevos artículos, 34 bis y 35 bis, a la Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva, con la redacción que sigue:
+«Artículo 34 bis. Régimen fiscal de las Sociedades de Inversión Inmobiliaria.
+1. Las Sociedades de Inversión Inmobiliaria que, con el carácter de Instituciones de Inversión Colectiva no financieras tengan por objeto social exclusivo la inversión en viviendas para su arrendamiento, tendrán el mismo régimen de tributación previsto en los números 2 y 3 del artículo anterior para las Sociedades de Inversión Mobiliaria, con independencia de que coticen o no en Bolsa de Valores. Asimismo, la adquisición por dichas Sociedades de viviendas destinadas a arrendamiento gozará de una bonificación del 95 por 100 del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, sin perjuicio de las condiciones que reglamentariamente puedan establecerse.
+2. Las Sociedades de Inversión Inmobiliaria que, con el carácter de Instituciones de Inversión Colectiva no financieras tengan por objeto social exclusivo la inversión en inmuebles de naturaleza urbana para su arrendamiento, y además, las viviendas representen, al menos, el 50 por 100 del total del activo, tendrán el mismo régimen fiscal que el previsto en el número anterior de este artículo, salvo las siguientes especialidades:
+a) El tipo de gravamen en el Impuesto de Sociedades será del 7 por 100.
+b) La bonificación del 95 por 100 del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados se limitará a la adquisición de viviendas destinadas a arrendamiento.
+3. La exclusividad del objeto a la que se refieren los números anteriores será compatible con la cobertura por las Sociedades de los distintos coeficientes de liquidez o de inversión en valores que reglamentariamente se establezcan.
+4. La aplicación del régimen fiscal contemplado en los números anteriores requerirá que los bienes inmuebles que integren el activo de las Sociedades de Inversión Inmobiliaria no se enajenen hasta que no hayan transcurrido cuatro años desde su adquisición, salvo que, con carácter excepcional, medie autorización expresa de la Comisión Nacional del Mercado de Valores.
+5. Las Sociedades de Inversión Inmobiliaria que, con el carácter de Instituciones de Inversión Colectiva no financieras tengan un objeto social distinto al previsto en los números anteriores tributarán conforme al régimen general previsto en la legislación fiscal vigente.
+6. Si las disposiciones reglamentarias que desarrollen el régimen jurídico aplicables a las Sociedades de Inversión Inmobiliaria consintieran excepcionalmente la aportación a estas de inmuebles u otros derechos, para la determinación del incremento o disminución de patrimonio que se produzca respecto del socio aportante, a efectos del Impuesto sobre Sociedades y del Impuesto sobre la Renta de las Personas Físicas, se tomará como valor de la transmisión el que resulte de la comprobación administrativa del valor de los bienes o derechos aportados, de acuerdo con lo previsto en el artículo 52 de la Ley 230/1963, de 28 de diciembre, General Tributaria.»
+«Artículo 35 bis. Régimen fiscal de los Fondos de Inversión Inmobiliaria.
+1. Los Fondos de Inversión Inmobiliaria que, con el carácter de Instituciones de Inversión Colectiva no financieras, tengan por objeto exclusivo la inversión en viviendas para su arrendamiento tendrán el mismo régimen de tributación previsto en el artículo anterior para los Fondos de Inversión. Asimismo, la adquisición de viviendas destinadas a su arrendamiento por los Fondos, en virtud de cualquier título, gozará de una bonificación del 95 por 100 del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, sin perjuicio de las condiciones que reglamentariamente puedan establecerse.
+2. Los Fondos de Inversión Inmobiliaria que, con el carácter de Instituciones de Inversión Colectiva no financieras, tengan por objeto exclusivo la inversión en inmuebles de naturaleza urbana para su arrendamiento, y además, las viviendas representen, al menos, el 50 por 100 del total del activo, tendrán el mismo régimen fiscal que el previsto en el número anterior de este artículo, salvo las siguientes especialidades:
+a) El tipo de gravamen en el Impuesto sobre Sociedades será del 7 por 100.
+b) La bonificación del 95 por 100 del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados se limitará a la adquisición de viviendas destinadas a arrendamientos.
+3. La exclusividad del objeto a la que se refieren los números anteriores será compatible con la cobertura por los Fondos de los distintos coeficientes de liquidez o de inversión en valores que reglamentariamente se establezcan.
+4. La aplicación del régimen fiscal contemplado en los números anteriores requerirá que los bienes inmuebles que integren el activo de los Fondos de Inversión Inmobiliaria no se enajenen hasta que no hayan transcurrido cuatro años desde su adquisición, salvo que medie, con carácter excepcional, autorización expresa de la Comisión Nacional del Mercado de Valores.
+5. Los Fondos de Inversión Inmobiliaria que, con el carácter de Instituciones de Inversión Colectiva no financieras, tengan un objeto distinto al previsto en los números anteriores, tributarán conforme al régimen general previsto en la legislación vigente fiscal.
+6. Si las disposiciones reglamentarias que desarrollen el régimen jurídico aplicable a los Fondos de Inversión Inmobiliaria consintieran, excepcionalmente, la aportación a éstos de inmuebles u otros derechos, para la determinación del incremento o disminución de patrimonio que se produzca respecto del partícipe aportante, a efectos del Impuesto sobre Sociedades y del Impuesto sobre la Renta de las Personas Físicas, se tomará como valor de la transmisión el que resulte de la comprobación administrativa del valor de los bienes o derechos aportados, de acuerdo con lo previsto en el artículo 52 de la Ley 230/1963, de 28 de diciembre, General Tributaria.
+7. La gestión de Fondos de Inversión Inmobiliaria estará exenta del Impuesto sobre el Valor Añadido.»
+
+### Artículo cuarto
+
+Artículo cuarto. Participaciones hipotecarias.
+1. Se añade el siguiente párrafo final al artículo 15 de la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario:
+«En caso de quiebra de la entidad emisora de la participación, el negocio de emisión de la participación sólo será impugnable en los términos del artículo 10 y, en consecuencia, el titular de aquella participación gozará de derecho absoluto de separación en los términos previstos en los artículos 908 y 909 del Código de Comercio.
+Igual derecho de separación le asistirá en caso de suspensión de pagos o situaciones asimiladas de la entidad emisora de la participación.»
+2. Se añade una nueva letra h) al artículo 8.1 de la Ley 14/1985, de 29 de mayo, de Régimen Fiscal, de determinados activos financieros, con el siguiente tenor:
+«h) Los rendimientos de participaciones hipotecarias que constituyan ingreso de Fondos de Titulización Hipotecaria.»
+
+### Artículo quinto
+
+Artículo quinto. Fondos de Titulización Hipotecaria.
+(Derogado)
+Se deroga por la disposición derogatoria.b) de la Ley 5/2015, de 27 de abril. Ref. BOE-A-2015-4607#dd., salvo para los fondos de titulización hipotecaria que se hubiesen constituido con anterioridad a la aprobación de esta Ley.
+ Se modifica el apartado 8 por el art. 2 de la Ley 15/2011, de 16 de junio. Ref. BOE-A-2011-10531.
+ Se modifica el apartado 3 por la disposición final 4.1 de la Ley 5/2009, de 29 de junio. Ref. BOE-A-2009-10751
+ Se deroga el apartado 10, en lo que afecte al Impuesto sobre Sociedades, por la disposición derogatoria única.1.29 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+ Esta derogación surte efectos para los períodos impositivos que se inicien a partir el 1 de enero de 1996, según establece la disposición final 11.
+
+### Artículo sexto
+
+Artículo sexto. Sociedades gestoras de Fondos de Titulización Hipotecaria.
+(Derogado)
+Se deroga por la disposición derogatoria.b) de la Ley 5/2015, de 27 de abril. Ref. BOE-A-2015-4607#dd., salvo para los fondos de titulización hipotecaria que se hubiesen constituido con anterioridad a la aprobación de esta Ley.
+
+### Artículo séptimo
+
+Artículo séptimo. Modificación de la escritura pública de constitución de fondos de titulización hipotecaria y de fondos de titulización de activos.
+(Derogado)
+Se deroga por la disposición derogatoria.b) de la Ley 5/2015, de 27 de abril. Ref. BOE-A-2015-4607#dd., salvo para los fondos de titulización hipotecaria que se hubiesen constituido con anterioridad a la aprobación de esta Ley.
+ Se añade por la disposición final 4.2 de la Ley 5/2009, de 29 de junio. Ref. BOE-A-2009-10751
+
+### Disposición adicional
+
+Disposición adicional.
+Se autoriza al Gobierno a desarrollar reglamentariamente lo dispuesto en la presente Ley.
+En particular, podrá el Gobierno establecer un nombre específico para los valores emitidos con cargo a Fondos de Titulización Hipotecaria, y reservarlo en exclusiva para tales valores.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 7 de julio de 1992.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

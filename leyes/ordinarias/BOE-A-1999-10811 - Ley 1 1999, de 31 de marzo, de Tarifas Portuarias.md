@@ -1,0 +1,1042 @@
+# Ley 1/1999, de 31 de marzo, de Tarifas Portuarias.
+
+- Identificador BOE: `BOE-A-1999-10811`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-10811
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el DOGV, núm. 3476, de 19 de abril de 1999. Ref. BOE-A-1999-12493
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley:
+PREÁMBULO
+I
+Bajo la denominación de tarifas portuarias se engloba un conjunto de contraprestaciones exigidas por la Autoridad Portuaria de la Generalidad que encuentran su fundamento en la utilización por los particulares del dominio público portuario, así como de las instalaciones del mismo, y en la prestación por dicha autoridad de una serie de servicios complementarios, bien directamente, bien a través de concesionario.
+El campo formado por los recursos de derecho público al que dichas tarifas pertenecen ha tenido tradicionalmente unos contornos confusos, habiéndose ido configurando anárquicamente a lo largo del tiempo mediante la utilización de instrumentos jurídicos de muy diverso rango normativo que acabaron quedando obsoletos. Se hacía necesaria, pues, una reestructuración del mismo, a cuyo objeto se promulgó la Ley 12/1997, de 23 de diciembre, de Tasas de la Generalidad Valenciana, la cual, no obstante, deja fuera de su ámbito de aplicación las tarifas portuarias, en relación con las cuales se limita a señalar, a través de su disposición adicional cuarta, que se regirán por su normativa específica. Dicha normativa está constituida actualmente por la Orden de 9 de diciembre de 1993, del Consejero de Obras Públicas, Urbanismo y Transportes.
+II
+Con la promulgación, pues, de la presente Ley de Tarifas Portuarias culmina el ambicioso proyecto de reordenación, racionalización, actualización y sometimiento a la Ley de las tasas de la Generalidad Valenciana, que inició la anteriormente mencionada Ley 12/1997, adecuándolas a la más moderna jurisprudencia sobre la materia y a los criterios hacendísticos más avanzados.
+Las líneas maestras de los cambios que la presente Ley introduce en la regulación de las tarifas portuarias, respecto a la normativa anterior, contenida en la mencionada Orden de 9 de diciembre de 1993, del Consejero de Obras Públicas, Urbanismo y Transportes, son las siguientes:
+1. En primer lugar, se eleva el rango jerárquico de la norma que las ampara, en contraste con la anterior regulación mediante simple Orden, con lo que nos aproximamos a los criterios seguidos por la propia Administración del Estado, así como a la reciente jurisprudencia tanto del Tribunal Constitucional como del Tribunal Supremo. Con ello se les dota de un marco más estable, lo cual redunda en una mayor seguridad jurídica, tanto para el contribuyente como para la Administración, al mismo tiempo que se les somete al control directo de la representación popular valenciana.
+2. En segundo lugar, se racionaliza la anterior normativa. La Orden de 1993 provenía, a su vez, de sucesivas modificaciones, realizadas sin sistematización y, en la mayoría de los casos, mediante simple superposición de preceptos, de la originaria regulación proveniente del Estado. Se hacía necesario, por lo tanto, un proceso de ordenación de la misma, de eliminación de disposiciones obsoletas o reiterativas, y de sistematización, que la presente Ley acomete.
+3. En tercer lugar, se actualiza el marco normativo, adecuándolo a las actuales exigencias del tráfico marítimo, para lo cual, entre otras novedades, ha quedado fuera del ámbito de aplicación de esta Ley aquellos presupuestos de hecho que resultaba preferible regular por las más flexibles relaciones derivadas de su inclusión en el ámbito de las concesiones administrativas. Se produce también una actualización de tarifas en algunos casos, aproximándonos a las establecidas por el Estado para los puertos no transferidos, así como la inclusión de nuevos preceptos que tienen en cuenta los avances jurídicos y tecnológicos más recientes.
+En este contexto hay que entender la refundición de las anteriores tarifas G-1, «entrada y estancia de buques», la cual había quedado prácticamente inoperante, y G-2, «atraque», en la nueva tarifa G-2, «buques», que engloba los hechos imponibles subsistentes de las dos anteriores tarifas, conservando la codificación G-2 para mantener las denominaciones tradicionales utilizadas de forma generalizada por el sector.
+4. Por último, la consideración de las tarifas portuarias como tasas ha llevado a la necesidad de adecuarlas a la terminología y a las instituciones tributarias. Así, ha sido necesario definir ex novo los elementos de la relación tributaria que se producen: Hecho imponible, sujeto pasivo, base imponible, exenciones, etc., así como someter su gestión y recaudación a las normas que regulan estos aspectos en los tributos de la Generalidad. No obstante, debido a sus especiales características, al mismo tiempo que se establece, en su artículo 5, el procedimiento de declaración-liquidación o autoliquidación, que es el previsto con carácter general para los tributos de la Generalidad, como el de normal aplicación, se permite que, cuando razones de eficacia lo aconsejen, se siga utilizando el sistema de declaración del sujeto pasivo y posterior liquidación a cargo de la Administración.
+III
+La Ley consta de ocho capítulos y dos anexos. El capítulo I contiene un conjunto de disposiciones generales comunes a todas las tarifas, efectuándose a través del mismo una remisión, en materia de fuentes normativas, al sistema de fuentes de la Ley 12/1997, de 23 de diciembre, de Tasas de la Generalidad Valenciana, establecido en el artículo 1 de ésta última, que resultará aplicable en todo lo no previsto en esta Ley y en sus normas de desarrollo. Los siete capítulos restantes están dedicados, cada uno de ellos, a la regulación de una de las tarifas.
+Los capítulos II, III, IV y V se refieren, sucesivamente, a las tarifas G-2, G-3, G-4 y G-5, llamadas generales por la anterior normativa, debido a que su devengo se produce automáticamente siempre que se realice la actividad que define el respectivo hecho imponible: La entrada o estancia de embarcaciones no deportivas para la tarifa G-2, el tráfico de mercancías y pasajeros en el caso de la G-3, la pesca para la G-4 y la entrada y estancia en el puerto de embarcaciones deportivas en el caso de la tarifa G-5.
+Los restantes capítulos, VI, VII y VIII regulan, respectivamente, las tarifas especiales: La E-1, cuyo hecho imponible lo constituye la utilización de grúas y otros equipos mecánicos propiedad de la autoridad portuaria, la E-2, que se devenga por la ocupación de superficies y locales dentro de los puertos de la Generalidad y la tarifa E-3, cuyo hecho imponible lo constituyen determinados consumos suministrados por la Administración. En todos estos casos los devengos se producen previa solicitud de los respectivos servicios. Por otra parte, ha quedado fuera de la regulación de la presente Ley la anterior tarifa E-4, «Servicios diversos», debido a que no tiene naturaleza tributaria, de forma que seguirá regulándose por la Orden de 9 de diciembre de 1993, cuya regla III.IV del capítulo III, de su anexo I, será el único apartado de la misma que continuará vigente tras la entrada en vigor de la presente Ley.
+En cuanto a los anexos, el primero de ellos contiene una serie de definiciones necesarias para entender el significado y alcance técnico de los diversos conceptos que, procedentes del ámbito portuario, se utilizan a lo largo del articulado. El segundo, recoge una clasificación de mercancías estructurada en grupos, siguiendo la codificación establecida en el ámbito aduanero a nivel internacional por el Sistema Armonizado de Designación y Codificación de Mercancías (SA), a efectos de la aplicación de la tarifa G-3, en lo referente a mercancías, cuya modificación se reserva, no obstante, por razones de una mayor flexibilidad, a normas de carácter reglamentario.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Uno. La presente Ley tiene por objeto regular las tarifas portuarias.
+Éstas comprenden un conjunto de tasas exigidas en contraprestación por la utilización del dominio público de las aguas del puerto, instalaciones terrestres y servicios, en el ámbito de los puertos dependientes de la Generalidad Valenciana.
+Dos. Las tasas a las que se refiere el apartado anterior son las siguientes:
+1. Tarifa G-2: Buques.
+2. Tarifa G-3: Pasajeros y mercancías.
+3. Tarifa G-4: Servicios a la pesca marítima.
+4. Tarifa G-5: Embarcaciones deportivas y de recreo.
+5. Tarifa E-1: Equipos.
+6. Tarifa E-2: Superficies y locales.
+7. Tarifa E-3: Suministros.
+
+### Artículo 2
+
+Artículo 2. Fuentes.
+Uno. Las tarifas portuarias se regirán por lo dispuesto en la presente Ley y, en su caso, en sus normas de desarrollo.
+Dos. Subsidiariamente, se aplicarán las normas tributarias de carácter general. En concreto, les será de aplicación el título preliminar, disposiciones generales de la Ley 12/1997, de 23 de diciembre, de Tasas de la Generalidad Valenciana, y el sistema de fuentes establecido en su artículo 1.
+
+### Artículo 3
+
+Artículo 3. Competencia.
+Corresponde la gestión de las tarifas portuarias a la Consejería de Obras Públicas, Urbanismo y Transportes, en su calidad de autoridad portuaria de la Generalidad, sin perjuicio de las facultades de inspección, control, y coparticipación en el establecimiento de normas y directrices para su aplicación que tiene atribuida la Dirección General de Tributos y Patrimonio de la Consejería de Economía, Hacienda y Administración Pública.
+
+### Artículo 4
+
+Artículo 4. Exenciones comunes.
+Quedan exentos del pago de las tarifas portuarias:
+Uno. Los barcos de guerra y aeronaves militares españoles. Igualmente, los extranjeros que, en régimen de reciprocidad, no realicen operaciones comerciales y su visita tenga carácter oficial o de arribada forzosa.
+Dos. El material y las embarcaciones de la Cruz Roja Española dedicados a las labores propias que tiene encomendadas esta institución.
+Tres. El material de la autoridad portuaria y las embarcaciones de la Administración dedicadas a labores de vigilancia, represión del contrabando y salvamento, lucha contra la contaminación marítima y, en general, el material de la Administración pública o de sus organismos autónomos en misiones oficiales de su competencia.
+Se modifica el apartado dos por el art. 323 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 22 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291
+
+### Artículo 5
+
+Artículo 5. Determinación y pago de la deuda tributaria.
+Uno. El procedimiento normal para la determinación y pago de la deuda tributaria en las tarifas portuarias será el de declaración-liquidación o autoliquidación del sujeto pasivo, tal y como se prevé con carácter general para el resto de tributos y precios públicos de la Generalidad, en los términos y plazos establecidos reglamentariamente.
+Dos. No obstante, se podrá utilizar el sistema de declaración del sujeto pasivo y posterior liquidación a cargo de la Administración cuando de ello se derive una mejora evidente en la gestión tributaria. Reglamentariamente se establecerá la forma y plazos de presentación de la declaración, así como la forma de pago, que necesariamente deberá realizarse en el plazo de un mes desde la notificación de la liquidación.
+Tres. La no presentación de la autoliquidación o la declaración en su caso, la presentación fuera de plazo o con errores u omisiones y, en general, la comisión de infracciones tributarias, consideradas así por la normativa derivada del sistema de fuentes establecido en el artículo 2 anterior, dará lugar a la sanción establecida en dicho sistema de fuentes, excepto en los supuestos para los que esta Ley prevea tarifas incrementadas.
+
+### Artículo 6
+
+Artículo 6. Prerrogativas de la Administración.
+Uno. Los actos de la Administración Pública Portuaria son inmediatamente ejecutivos, de conformidad con lo dispuesto en el artículo 94 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Dos. El abono de las tarifas no releva de la obligación de remover la mercancía o elemento, de desatracar la embarcación, de cambiar de lugar de amarre o de fondeo o, incluso, de abandonar el puerto, si así fuere ordenado por la Administración Pública Portuaria. En estos supuestos, se tendrá derecho a la devolución del importe de los servicios abonados por adelantado y no consumidos, sin perjuicio del derecho a la indemnización por daños y perjuicios que, en su caso, tales actuaciones pudieran irrogar a los afectados.
+Tres. La falta de pago en período voluntario de las tarifas portuarias por servicios cuya utilización haya sido autorizada, faculta a la Administración de Puertos para proceder, de forma inmediata, a la suspensión del servicio, la retirada, inmovilización o puesta en seco de la embarcación, el corte del suministro, la baja de oficio y la adopción de cualquier otra medida derivada de la aplicación de la normativa de explotación, debiéndose notificar con carácter previo al interesado las medidas a adoptar.
+El concesionario o autorizado está obligado a colaborar con la Administración en la ejecución de estas facultades, debiendo emplear para ello toda la diligencia necesaria para el buen fin de la medida adoptada.
+Cuatro. La Administración está facultada para comprobar los elementos en que se basan las declaraciones del sujeto pasivo, así como para solicitar de éstos y de los concesionarios y autorizados aquellos datos que considere necesarios en relación con la prestación de los servicios o la ocupación del dominio público, estando todos ellos obligados a facilitárselos con prontitud. Idéntica obligación tendrán los sujetos pasivos cuando sean los concesionarios y autorizados quienes les soliciten los datos anteriores.
+Cinco. Los gastos ocasionados como consecuencia de las actuaciones previstas en los tres números anteriores serán a cargo del sujeto pasivo.
+Seis. El incumplimiento de cualquiera de las obligaciones establecidas en este artículo será constitutivo de una infracción administrativa de las previstas en la legislación de puertos aplicable.
+Siete. El impago de cualquiera de las tasas previstas en esta Ley podrá motivar, previo apercibimiento al interesado y, en tanto no regularice su deuda tributaria, la prohibición o pérdida del derecho a la utilización o aprovechamiento especial de las instalaciones portuarias, previa comunicación al Capitán Marítimo si afectase a la navegación, la suspensión de la actividad y, en su caso, la extinción del título administrativo correspondiente.
+Ocho. A los efectos previstos en este artículo, se entenderá que se ha producido impago de las tasas cuando no se efectúe el ingreso de la deuda tributaria en período voluntario.
+Nueve. Las embarcaciones, mercancías, y demás bienes y elementos de cualquier clase y naturaleza existentes en los puertos e instalaciones portuarias de la Generalitat quedan afectos al pago de las tasas reguladas en esta Ley.
+Diez. La afección real prevista en el párrafo anterior se entiende sin perjuicio de que la Administración pueda emplear cualesquiera otros medios admitidos en Derecho para el mejor cumplimiento de las competencias que las leyes le atribuyen y, en particular, para el cobro de los tributos, y sin perjuicio de las garantías de la deuda tributaria que regula la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Se modifica el apartado 3 por el art. 28 de la Ley 14/2005, de 23 de diciembre. Ref. BOE-A-2006-2973
+ Se modifica por el art. 29 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357
+
+## CAPÍTULO II
+
+Tarifa G-2. Buques
+
+### Artículo 7
+
+Artículo 7. Hecho imponible.
+Constituye el hecho imponible de esta tasa la utilización por los buques de las aguas del puerto, de las obras e instalaciones portuarias que permiten el acceso marítimo al mismo, así como su estancia en el atraque, punto de amarre o puesto de fondeo que le haya sido asignado.
+
+### Artículo 8
+
+Artículo 8. Sujetos pasivos.
+Uno. Son sujetos pasivos contribuyentes, con carácter solidario, los navieros, armadores o consignatarios de los buques que utilicen los servicios a que se refiere el artículo anterior. Cuando un buque no estuviera consignado y no fuera de línea regular, será sujeto pasivo contribuyente de esta tasa el capitán del mismo.
+Dos. En las zonas en concesión o autorización, el concesionario o el autorizado será el sustituto del contribuyente, estando obligado a realizar, en lugar de aquél, las obligaciones formales y materiales derivadas de la obligación tributaria. Dichas obligaciones materiales se realizarán en los términos establecidos en el artículo 11.Dos.6) de la presente Ley.
+Tres. Los sustitutos designados en este precepto quedarán solidariamente obligados al cumplimiento de las prestaciones materiales y formales derivadas de la obligación tributaria, sin perjuicio de que la Administración se pueda dirigir en primer lugar al titular de la concesión o de la autorización. En caso de incumplimiento de sus obligaciones por parte de los sustitutos, en especial en caso de impago de la tasa, y sin perjuicio de las responsabilidades en que hayan incurrido los sustitutos, la Administración podrá exigir a los contribuyentes su cumplimiento.
+Se modifica por el art. 30 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357
+
+### Artículo 9
+
+Artículo 9. Exenciones.
+Uno. Están exentas del pago de esta tasa las embarcaciones de pesca de la lista 3.ª
+Dos. Están exentas del pago de esta tasa las afectas a acuicultura marina sujetas al pago de la tarifa G-4 y las deportivas sujetas al pago de la tarifa G-5.
+Se modifica por el art. 40 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 21 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+### Artículo 10
+
+Artículo 10. Base imponible.
+La presente tasa se calculará tomando como base el tiempo de estancia en múltiplos de tres horas o fracción, con un máximo de cuatro períodos por cada veinticuatro horas, y las unidades de arqueo bruto (GT).
+
+### Artículo 11
+
+Artículo 11. Tarifas generales y normas de aplicación.
+Uno. La presente tasa se exigirá conforme a lo dispuesto en el siguiente cuadro de tarifas:
+Importe
+ —
+ en pesetas
+ 1. Tarifa baremo.
+ Por cada unidad de arqueo bruto (GT) y período de tres horas o fracción que permanezca en el puerto el buque:
+ Barcos de hasta 200 GT: 37.
+ Barcos comprendidos entre 200 y 900 GT: 25 Barcos que excedan de 900 GT: 4,5.
+ 2. Tarifas reducidas:
+ 2.1 Buques de bandera de un país de la Unión Europea registrados en territorio de la misma que realicen navegación de cabotaje entre puertos pertenecientes igualmente a la Unión Europea.
+ 50 por 100 de la tarifa baremo.
+ 2.2 Reducción por número de escalas.
+ 2.2.1 Barcos que efectúen más de 12 escalas en las aguas del puerto durante el año natural.
+ 2.2.1.1 Entre la 13.ª y la 24.ª entradas.
+ 80 por 100 de la tarifa baremo.
+ 2.2.1.2 Entre la 25.ª y la 40.ª entradas.
+ 55 por 100 de la tarifa baremo.
+ 2.2.1.3 De la 41.ª entrada en adelante.
+ 30 por 100 de la tarifa baremo.
+ 2.2.2 Barcos de líneas de navegación regulares que efectúen más de 12 escalas en el puerto durante el año natural.
+ 95 por 100 de la tarifa baremo.
+ 2.2.2.1 Entre la 13.ª y la 24ª entradas.
+ 2.2.2.2 Entre la 25.ª y la 50.ª entradas.
+ 85 por 100 de la tarifa baremo.
+ 2.2.2.3 De la 51.ª a la 100.ª entradas.
+ 75 por 100 de la tarifa baremo.
+ 2.2.2.4 De la 101.ª entrada en adelante.
+ 65 por 100 de la tarifa baremo.
+ 2.3 Barcos abarloados a otro ya atracado de costado al muelle o a otros barcos abarloados.
+ 50 por 100 de la tarifa baremo.
+ 2.4 Barcos atracados de punta a los muelles.
+ 50 por 100 de la tarifa baremo.
+ 3. Barcos dedicados a tráfico interior en el puerto que atraquen habitualmente y así lo solicitasen.
+ 15 por 100 de la tarifa baremo.
+Dos. A los efectos de determinación de las cuantías a que se refiere el apartado uno anterior, se aplicarán las siguientes reglas:
+1. Para que los buques que se incorporen a una línea puedan optar a la aplicación de las tarifas reducidas, será condición necesaria que antes de su entrada en el puerto se justifique documentalmente esta circunstancia ante la autoridad portuaria. En ningún caso las tarifas reducidas tendrán carácter retroactivo.
+2. A los efectos del cómputo de las escalas, se acumularán en cada puerto todas las entradas de los barcos pertenecientes a una misma compañía naviera o línea regular.
+3. Las tarifas reducidas a que se refieren los epígrafes 2.2.1 y 2.2.2 del apartado uno anterior serán excluyentes entre sí, así como con cualquier otra reducción de la presente tasa, salvo la establecida en el epígrafe 2.1 del apartado uno anterior.
+4. Si un barco realizase distintos atraques dentro del mismo período de veinticuatro horas, sin salir de las aguas del puerto, se considerará como una operación única.
+5. La tarifa reducida a que se refiere el epígrafe 2.3 del apartado uno anterior será de aplicación siempre y cuando la eslora del barco sea igual o inferior a la del barco atracado al muelle o a la de los otros barcos abarloados a aquél.
+6. En las zonas en concesión, la cuantía a abonar por el concesionario será la establecida en la respectiva Orden de otorgamiento. En ningún caso dichas cuantías podrán reducirse respecto a las establecidas en el presente artículo en proporción superior al 80 por 100 cuando las instalaciones se ubiquen en zona I de las aguas del puerto o del 70 por 100 cuando lo sean en zona II.
+Tres. Bonificaciones.
+1. A los buques que utilicen como combustible gas natural, biogás, sistemas híbridos o eléctricos u otros combustibles ecológicos para su propulsión en alta mar, así como a los buques que durante su estancia en puerto utilicen gas natural, biogás, sistemas híbridos o eléctricos u otros combustibles ecológicos o electricidad suministrada desde muelle para la alimentación de sus motores auxiliares se les aplicará una bonificación del 50 por ciento de la cantidad a abonar por el acceso y estancia en interior de las aguas portuarias.
+2. Esta bonificación no se aplicará a los buques que se dediquen al transporte de gas natural, salvo que durante su estancia en puerto utilicen electricidad suministrada desde muelle para la alimentación de sus motores auxiliares.
+3. Esta bonificación será compatible con cualquier otra prevista en esta ley.
+Se añade el apartado 3 por el art. 31 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a3-3
+
+### Artículo 12
+
+Artículo 12. Tarifas incrementadas y normas de aplicación.
+Uno. No serán de aplicación a las estancias prolongadas de embarcaciones en el puerto las tarifas reducidas a que se refiere el apartado uno.2) del artículo anterior durante el tiempo de prolongación de la estancia.
+Dos. Si algún barco prolongase su estancia en puerto por encima del tiempo autorizado sin causa que lo justifique, se le fijará un plazo para abandonar el atraque, transcurrido el cual quedará obligado a desatracar. En caso contrario, deberá abonar, a partir de la orden de desatraque, las tarifas siguientes:
+1. Por cada una de las tres primeras horas o fracción: Tarifa baremo correspondiente a veinticuatro horas.
+2. Por cada una de las horas restantes: Quíntuplo de la tarifa baremo correspondiente a veinticuatro horas.
+A los efectos de lo dispuesto en los dos puntos anteriores, se entiende por estancia prolongada la permanencia por tiempo superior al inicialmente autorizado o la declarada expresamente así por la autoridad portuaria en la autorización correspondiente.
+Tres. Los barcos que, por cualquier circunstancia, atracasen en puerto sin autorización deberán abonar el importe equivalente a la tarifa señalada en el punto anterior.
+
+### Artículo 13
+
+Artículo 13. Devengo.
+Uno. La presente tasa se devengará en el momento en que el barco entre en el puerto.
+Dos. El tiempo de estancia o atraque de las embarcaciones se computará desde la hora para la que se haya autorizado su entrada hasta el momento de la salida definitiva de las mismas del puerto.
+
+## CAPÍTULO III
+
+Tarifa G-3: Pasajeros y mercancías
+
+### Artículo 14
+
+Artículo 14. Hecho imponible.
+Constituye el hecho imponible de esta tasa la ocupación o utilización, por parte de las mercancías y pasajeros y, en su caso, por los vehículos que éstos embarquen o desembarquen en régimen de pasaje, de las aguas del puerto y dársenas, accesos terrestres, vías de circulación, zonas de manipulación (excluidos los espacios de almacenamiento o depósito), estaciones marítimas y servicios generales de policía.
+La tarifa se aplicará a:
+Los pasajeros que embarquen o desembarquen.
+Los vehículos que embarquen o desembarquen.
+Los pasajeros en régimen de pasaje. No se aplicará a los que siguen en tránsito.
+Las mercancías embarcadas, desembarcadas o transbordadas.
+Las mercancías que entre o salgan por tierra a las zonas portuarias sin ser embarcadas.
+Redactado conforme a la corrección de errores publicada en el DOGV, núm. 3476, de 19 de abril de 1999. Ref. BOE-A-1999-12493
+
+### Artículo 15
+
+Artículo 15. Sujetos pasivos.
+Uno. Son sujetos pasivos obligados solidariamente al pago de esta tasa, en calidad de contribuyentes, los navieros, los consignatarios de los buques, los capitanes de los buques y los propietarios, consignatarios, transitarios u operadores logísticos representantes de la mercancía que ocupen el dominio público o utilicen el servicio y los propietarios del medio de transporte cuando la mercancía entre o salga del puerto por medios exclusivamente terrestres.
+Dos. En las zonas en concesión o autorización, el concesionario o autorizado será el sustituto del contribuyente, estando obligado a cumplir, en lugar de aquél, las obligaciones formales y materiales derivadas de la obligación tributaria. Dichas obligaciones materiales se realizarán en los términos establecidos en el artículo 19.B de la presente Ley.
+Tres. Los sustitutos designados en este precepto quedarán solidariamente obligados al cumplimiento de las prestaciones materiales y formales derivadas de la obligación tributaria, sin perjuicio de que la Administración se pueda dirigir en primer lugar al concesionario o al autorizado. En caso de incumplimiento de sus obligaciones por parte del sustituto, en especial en caso de impago de la tasa, la Administración, sin perjuicio de las responsabilidades en que haya incurrido el sustituto, podrá exigir a los contribuyentes su cumplimiento.
+Se modifica por el art. 31 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357
+
+### Artículo 16
+
+Artículo 16. Exenciones.
+Quedan exentos de la aplicación de la presente tarifa:
+Uno. La utilización de maquinaria y elementos móviles necesarios para las operaciones de embarque y desembarque, operación gravada por la Tarifa E-1 de la presente ley.
+Dos. Tratándose de buques de pasaje a los que no sea de aplicación la condición de crucero turístico, los pasajeros en tránsito no abonarán la tarifa G-3.
+Tres. Respecto a la aplicación de la tarifa G-3 de mercancías, el tránsito marítimo entre puertos dependientes de la Generalitat, debiéndose abonar la tarifa de desembarque o embarque en el primer puerto donde se realice dicho tránsito marítimo.
+Cuatro. Las mercancías y combustibles embarcados para el avituallamiento de buques directamente desde tierra, siempre que el combustible haya pagado la tarifa correspondiente de entrada en puerto.
+Cinco. Las mercancías cuya entrada en el espacio portuario tenga como único objeto la tramitación de documentos de control aduanero, sin que se produzcan rupturas de carga, descargas a tierra ni estancias en dicho espacio superiores a tres horas y su origen o destino sean países miembros de la UE.
+Seis. Las especies provenientes de acuicultura marina que se carguen o descarguen en puerto por embarcaciones autorizadas para este fin que quedan sujetas a la tarifa G-4.
+Se modifica por el art. 22 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+### Artículo 17
+
+Artículo 17. Base imponible.
+Uno. La base imponible, para los pasajeros y los vehículos que, en su caso, embarquen o desembarquen en régimen de pasaje, será:
+Para los primeros, el número de pasajeros, según la modalidad del pasaje y la clase de navegación.
+Para los vehículos, su número, según el tipo de vehículo y clase de navegación.
+Dos. Para las mercancías, la base imponible estará constituida por su clase, según el repertorio que se establezca por la Administración, peso, régimen de navegación, modalidad de transporte y tipo de operación.
+
+### Artículo 18
+
+Artículo 18. Tarifas de pasajeros y sus vehículos y reglas de aplicación.
+a) Tarifa general.
+Uno. Pasajeros: La cuantía de la tarifa general de pasajeros será la expresada en la siguiente tabla baremo:
+Tabla baremo
+Clase de navegación
+ Modalidad de pasaje
+ Bloque I: Camarote
+ –
+ Euros
+ Bloque II: Resto
+ –
+ Euros
+ Interior a la UE
+ 2,52
+ 0,60
+ Exterior a la UE
+ 5,11
+ 3,31
+ Entre puertos de la Generalitat Valenciana
+ 0,06
+ 0,06
+Se aplicará la tarifa del bloque I a los pasajeros de camarote de cualquier número de plazas. Al resto de modalidades de pasaje se les aplicará la tarifa del bloque II.
+A los pasajeros en régimen de pasaje por puesta a disposición de estación marítima gestionada por la Administración para su tránsito en embarque o desembarque se incrementará la tarifa de la tabla baremo en 3 euros/pasajero.
+Dos. Vehículos en régimen de pasaje: la cuantía de la tarifa general de los vehículos que, en su caso, embarquen o desembarquen los pasajeros en régimen de pasaje, será la expresada en la siguiente tabla baremo:
+Tabla baremo
+Tipo de vehículo
+ Navegación
+ Interior a la
+ Unión Europea
+ –
+ Euros
+ Exterior a la
+ Unión Eurpoea
+ –
+ Euros
+ Motocicletas y vehículos o remolques de dos ruedas
+ 1,32
+ 2,10
+ Coches turismo y demás vehículos automóviles
+ 3,91
+ 6,61
+ Autocares y demás vehículos proyectados para el transporte colectivo
+ 18,03
+ 30,05
+b) Tarifas especiales.
+Uno. En la navegación entre puertos dependientes de la Generalitat, siempre que no se atraque en puerto ajeno a la misma, se podrá establecer un concierto para el cobro de la tarifa, por períodos anuales, con una reducción del 10 por 100 sobre el importe resultante de la aplicación de la tabla baremo anterior.
+Dos. Crucero turístico.–Los pasajeros que realicen un crucero turístico con puertos de origen, destino o ambos que no pertenezcan a la Generalitat, y que hagan una escala intermedia en un puerto dependiente de la misma, se entenderá que descienden del buque al menos una vez al día, abonando sólo la tarifa correspondiente al desembarque en dicho puerto.
+c) Tarifas incrementadas.–En caso de inexactitud u ocultación de los datos en que se basa la declaración tributaria, se aplicará una tarifa doble de la general por la totalidad de la partida mal declarada o dejada de declarar.
+d) Reglas de aplicación:
+Uno. En la navegación entre puertos de la Generalitat se abonará la tarifa sólo al embarque en cada uno de los puertos.
+Dos. El abono de esta tarifa da derecho a embarcar o desembarcar, libre del pago de la tarifa de mercancías, el equipaje de camarote.
+Se modifica por el art. 23 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+### Artículo 19
+
+Artículo 19. Tarifas de mercancías y reglas de aplicación.
+A) Tarifa general.−Para la determinación de la cuantía de esta tarifa aplicable a las mercancías, se establecen dos modalidades que se consideran excluyentes entre sí:
+a) Régimen General por partidas.
+1. A los envases, embalajes, contenedores, cisternas u otros recipientes o elementos que tengan o no el carácter de desechables o efímeros y se utilicen para contener las mercancías en su transporte, así como los camiones, autobuses, coches y otros vehículos automóviles en régimen de carga, incluso sus remolques y semirremolques, que como tales medios de transporte terrestre se embarquen o desembarquen, vacíos o no de mercancías, se les aplicará una tarifa única de 200 pesetas/tonelada o fracción, sin que les sea aplicable ninguna otra reducción o recargo.
+2. Al resto de la carga se le aplicarán las tarifas establecidas en la tabla baremo siguiente, donde los grupos de mercancías se corresponden con los establecidos en el anexo II de la presente Ley. En dicho anexo las mercancías se identifican por su denominación y el código de cuatro dígitos utilizado por el Sistema Armonizado de Designación y Codificación de las Mercancías (SA). Las dudas que se susciten sobre la clasificación de las mercancías se resolverán por la Administración.
+Tabla baremo
+Grupo de mercancía
+ Pesetas/tonelada
+ Primero.
+ 65
+ Segundo.
+ 125
+ Tercero.
+ 150
+ Cuarto.
+ 350
+ Quinto.
+ 450
+Las mercancías que, exclusivamente, se embarquen tendrán una reducción del 23 por 100 y las que, exclusivamente, se desembarquen un incremento del 23 por 100.
+A las mercancías que sean transbordadas o realicen tránsito marítimo o terrestre, no se les aplicará ni la reducción ni el incremento anteriores. La tarifa a aplicar, en este caso, corresponderá en un 50 por 100 a la descarga y en el otro 50 por 100 a la carga.
+b) Régimen simplificado.‒En el tráfico de mercancías en contenedores, plataformas o camiones con caja normalizada de acuerdo con normas ISO, se le podrá aplicar a la totalidad de la carga de esas características transportada por buques de un mismo naviero, en lugar del régimen general por partidas y, en los términos que reglamentariamente se determinen, el siguiente régimen simplificado aplicado a la unidad de carga:
+Unidad de carga
+ Pesetas/Unidad de carga
+ Con carga
+ Vacía
+ Embarque
+ Desembarque
+ Contenedor ≤ 20 pies.
+ 4.350
+ 6.650
+ 500
+ Contenedor T 20 pies.
+ 7.160
+ 10.840
+ 1.000
+ Plataforma con contenedor ≤ 20 pies.
+ 4.650
+ 6.950
+ 800
+ Plataforma con contenedor T 20 pies.
+ 7.760
+ 11.440
+ 1.600
+ Semirremolque.
+ 7.760
+ 11.440
+ 1.600
+ Camión con caja de hasta 6 metros.
+ 4.850
+ 7.150
+ 1.000
+ Camión con caja de hasta 12 metros.
+ 8.160
+ 11.840
+ 2.000
+B) Tarifas especiales.
+Uno. En las zonas en concesión, la cuantía a abonar por el concesionario será la establecida en la respectiva Orden de otorgamiento. En ningún caso dichas cuantías podrán reducirse respecto a las establecidas en el presente artículo en proporción superior al 50 por 100 cuando las instalaciones se ubiquen en la zona I de las aguas del puerto o del 70 por 100 cuando estén en la zona II.
+Dos. La tarifa correspondiente al agua para abastecimiento de poblaciones será el 10 por 100 de la que en otro caso le correspondería.
+C) Tarifas incrementadas.−En caso de retraso en la presentación de la declaración o manifiesto, ocultación, inexactitud o falseamiento en la clase de mercancías, procedencias o destino de las mismas, o disminución del peso en más de un 10 por 100, se aplicará tarifa doble a todas las partidas del conocimiento o manifiesto de la que formen parte, independientemente de la sanción que, en su caso, pudiere corresponder. D) Reglas de aplicación.
+Uno. Cuando un bulto, caja o contenedor contenga mercancías a las que correspondan diferentes cuantías, se aplicará a su totalidad la mayor de ellas, salvo que aquéllas puedan clasificarse con las pruebas que presenten los interesados, en cuyo caso se aplicará a cada una la cuantía que le corresponda.
+Dos. El desembarque a muelle o tierra y el embarque desde muelle o tierra que se realice sin estar el barco atracado, por intermedio de embarcaciones auxiliares o cualquier otro procedimiento, satisfará la tarifa general.
+
+### Artículo 20
+
+Artículo 20. Devengo.
+La tarifa se devengará cuando se inicien las operaciones de paso de las mercancías, pasajeros y, en su caso, vehículos que éstos embarquen o desembarquen en régimen de pasaje por el puerto.
+
+## CAPÍTULO IV
+
+Tarifa G-4: Servicios a la pesca fresca y acuicultura marina
+Se modifica la denominación por el art. 24 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+### Artículo 21
+
+Artículo 21. Hecho imponible.
+Constituye el hecho imponible de esta tasa la ocupación o utilización, por los buques pesqueros en actividad o los afectos a explotación de instalaciones de acuicultura marina autorizados para ello, de las obras e instalaciones portuarias que permiten el acceso marítimo al puerto y su estancia en el atraque, punto de amarre o puesto de fondeo que le haya sido asignado; y por los productos de la pesca y especies provenientes de acuicultura marina con entrada por mar o tierra, de las zonas de manipulación y servicios generales del puerto.
+Se modifica la denominación por el art. 25 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+### Artículo 22
+
+Artículo 22. Sujetos pasivos.
+Uno. Son sujetos pasivos de esta tasa, con carácter solidario, el armador del buque y, en su caso, su consignatario, el propietario de la pesca fresca o quien, en representación de éste, realice la primera venta, y el propietario de los productos de la pesca y especies provenientes de acuicultura marina con entrada por mar. En caso de entrar por tierra, también será sujeto pasivo con carácter solidario el transportista.
+Dos. En lonjas otorgadas en concesión o autorización, serán sujetos pasivos sustitutos del contribuyente el concesionario o autorizado y el primer comprador de la pesca. Cuando los productos de la pesca y especies provenientes de acuicultura marina entren en puerto por tierra, será sujeto pasivo sustituto del contribuyente el transportista.
+Tres. También será sujeto pasivo sustituto del contribuyente el primer comprador de la pesca fresca o de las especies de acuicultura marina.
+Cuatro. Los sustitutos designados en este precepto quedarán solidariamente obligados al cumplimiento de las prestaciones materiales y formales derivadas de la obligación tributaria, sin perjuicio de que la Administración se pueda dirigir en primer lugar al concesionario o al autorizado. En caso de incumplimiento de sus obligaciones por parte de los sustitutos, en especial en caso de impago de la tasa, la Administración, sin perjuicio de las responsabilidades en que hayan incurrido los sustitutos, podrá exigir a los contribuyentes su cumplimiento.
+Se modifica por el art. 32 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357
+ Se modifica la denominación por el art. 26 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+### Artículo 23
+
+Artículo 23. Repercusión.
+Uno. El sujeto pasivo podrá repercutir el importe de la tarifa sobre el primer comprador de la pesca, si lo hay, quedando éste obligado a soportar dicha repercusión, lo que se hará constar de manera expresa y separada en la correspondiente factura. En caso de subasta, habrá de hacerse pública la repercusión del importe de la tarifa.
+Dos. No procederá la repercusión de las cuotas resultantes en los supuestos de liquidación que sean consecuencia de actas de inspección.
+Se modifica por el art. 33 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357
+
+### Artículo 24
+
+Artículo 24. Exenciones.
+Uno. El abono de esta tarifa exime al buque pesquero o afecto a explotación de instalaciones de acuicultura marina autorizado para ello del abono del resto de las tarifas portuarias por servicios generales por un plazo máximo de un mes a partir de la fecha de iniciación de las operaciones de descarga o transbordo, pudiendo ampliarse dicho plazo a los períodos de inactividad forzosa, por temporales, vedas costeras o carencia de licencias referidas a sus actividades habituales, expresa e individualmente acreditadas por certificado de la autoridad competente.
+En cada caso de inactividad forzosa prolongada, la Administración fijará los lugares en que dichos barcos deban permanecer fondeados o atracados, de acuerdo con las disponibilidades de atraque y las exigencias de la explotación portuaria.
+Transcurrido el plazo de un mes de exención sin que se haya justificado ante la Administración Portuaria la causa de inactividad, devengarán a partir de esa fecha la tarifa G-2. Se presupondrá que concurre esta condición cuando, a lo largo de un mes, el buque pesquero o afecto a explotación de instalaciones de acuicultura marina autorizado para ello no haya tenido movimientos comerciales en la lonja o centro de control del peso correspondiente.
+Dos. Las embarcaciones pesqueras o afectas a explotación de instalaciones de acuicultura marina autorizadas para ello, mientras permanezcan sujetas a esta tarifa en la forma definida en la condición anterior, estarán exentas del abono de la tarifa G-3, "Mercancías y pasajeros", por el combustible, avituallamientos, efectos navales y de pesca, piensos, hielo y sal que embarquen para el propio consumo, bien en los muelles pesqueros o en otros muelles habilitados al efecto.
+Se modifica la denominación por el art. 27 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+### Artículo 25
+
+Artículo 25. Base imponible.
+Las bases para la liquidación de esta tarifa serán:
+a) El valor obtenido en la subasta si la pesca o las especies provenientes de acuicultura marina se subastan en lonja.
+b) Si no llegara a subastarse, constituirá la base imponible el valor medio obtenido en las subastas de la misma especie en el día o, en su defecto y sucesivamente, en la semana, mes o año anteriores.
+c) Cuando el valor de la pesca o especies provenientes de acuicultura marina no pudiera obtenerse por ninguno de los procedimientos enunciados en los párrafos anteriores, se fijará por la Administración, teniendo en cuenta las condiciones habituales del mercado.
+Se modifica por el art. 28 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+### Artículo 26
+
+Artículo 26. Tarifa general.
+La tarifa queda establecida en el 0 por cien de la base fijada en el artículo anterior.
+Se modifica por el art. 41 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 173 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
+
+### Artículo 27
+
+Artículo 27. Tarifas especiales.
+Uno. La pesca fresca transbordada de buque a buque en las aguas del puerto, sin pasar por los muelles, abonará el 75 por 100 de la tarifa general.
+Dos. Los productos frescos de la pesca descargados que, por cualquier causa, no hayan sido vendidos y vuelvan a ser cargados en el buque, abonarán el 25 por 100 de la tarifa general.
+Tres. Los productos de la pesca fresca que sean autorizados por la Administración a entrar por medios terrestres en la zona portuaria para su subasta o utilización de las instalaciones portuarias, abonarán el 50 por 100 de la tarifa.
+
+### Artículo 28
+
+Artículo 28. Tarifas incrementadas.
+La tarifa aplicable a los productos de la pesca fresca y proveniente de instalaciones de acuicultura marina será el 4 por 100 de la base imponible en los siguientes casos:
+a) Ocultación de cantidades en la declaración o manifiesto, o retraso en su presentación.
+b) Inexactitud, falseando especies, calidades o precios resultantes de las subastas.
+c) Ocultación o inexactitud en la identificación de los compradores.
+El recargo que así sufre sobre la tarifa general no será repercutible en el comprador.
+Se modifica por el art. 29 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+### Artículo 29
+
+Artículo 29. Devengo.
+Esta tarifa se devengará cuando se inicien las operaciones de embarque, desembarque o trasbordo, o entrada por tierra de productos de pesca, o acuicultura marina aunque la hayan devengado con anterioridad por desembarco en otro puerto.
+Se modifica por el art. 30 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+## CAPÍTULO V
+
+Tarifa G-5: Embarcaciones deportivas y de recreo
+
+### Artículo 30
+
+Artículo 30. Hecho imponible.
+Uno. Constituye el hecho imponible de esta tasa.
+– La utilización o el aprovechamiento, por las embarcaciones deportivas y de recreo, de las aguas del puerto, de las obras e instalaciones portuarias en los puertos de gestión directa, incluyendo canales de acceso fluviales y marítimos, que permiten el acceso marítimo al puerto, su estancia en el atraque, punto de amarre o puesto de fondeo que le haya sido asignado; y de los servicios específicos disponibles, independientemente de su posterior facturación por consumo de los mismos mediante la tarifa E-3.
+– La utilización, por sus tripulantes y pasajeros, de los muelles y pantalanes del puerto, accesos terrestres, vías de circulación y de los centros de estancia y recepción de titularidad de la administración portuaria, si los hubiere.
+Se entenderá, a efectos de lo establecido en este artículo, por puertos de gestión directa aquellos cuya titularidad ostente la Generalitat y no hayan sido entregados en su totalidad en concesión. Dentro de los mismos puede haber instalaciones deportivas en concesión, las cuales están también sujetas a la presente tarifa en los términos establecidos en el artículo 33 de la presente ley.
+Dos. La presente tasa está compuesta por los siguientes tramos:
+Tramo A) Por utilización de las aguas del puerto, por el aprovechamiento de sus instalaciones o por la estancia en seco en las mismas, tanto en las zonas deportivas en concesión dentro de un puerto de la Generalitat, como fuera de estas.
+Tramo B) Por servicios utilizados de atraque, fondeo, o estancia en seco de embarcaciones fuera de las zonas deportivas en concesión.
+Tramo C) Por aprovechamiento, fuera de las zonas deportivas en concesión, de servicios, en la proximidad del punto de atraque a muelle o pantalán, de toma de agua, toma de energía eléctrica, recipiente de basura, varada y botadura y vigilancia general de la zona, con independencia del pago de los consumos efectuados.
+Se entiende por vigilancia general de la zona, a efectos de la aplicación del tramo C) anterior, aquella que presta la autoridad portuaria para la generalidad de la zona de servicio del puerto, sin asignación específica de personal o medios a la zona náutico-deportiva, ni garantía respecto de la integridad de las embarcaciones o sus contenidos.
+La tarifa G-5 total aplicable a las embarcaciones vendrá constituida, en su caso, por la suma de los importes parciales de las tarifas A), B) y C) establecidos en el artículo 33.
+Tres. Están sujetas a esta tarifa, además de las embarcaciones propiamente deportivas o de recreo, todas aquellas que, como las embarcaciones auxiliares de pesca, atraquen o fondeen en las áreas portuarias destinadas a embarcaciones deportivas.
+Cuatro. Es condición indispensable para la aplicación de esta tarifa que la embarcación no realice transporte de mercancías y que los pasajeros no viajen sujetos a cruceros o excursiones turísticas; en cuyo caso serían de aplicación las tarifas G-2 y G-3.
+Se modifica por el art. 31 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a3-3
+
+### Artículo 31
+
+Artículo 31. Sujetos pasivos.
+Uno. Son sujetos pasivos, en calidad de contribuyentes y con carácter solidario, el titular de la embarcación, el consignatario, el capitán o patrón de la misma y el arrendatario o titular, por cualquier concepto, del derecho de uso preferente de amarre.
+Dos. En las zonas en concesión o autorización, el concesionario o autorizado tendrá la condición de sujeto pasivo sustituto del contribuyente, estando obligado a cumplir, en lugar de aquél, las obligaciones materiales y formales de la obligación tributaria. En caso de incumplimiento de sus obligaciones por parte del sustituto, en especial en caso de impago de la tasa, la Administración, sin perjuicio de las responsabilidades en que haya incurrido el sustituto, podrá exigir a los contribuyentes su cumplimiento.
+Se modifica por el art. 34 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357
+ Se modifica por el art. 31 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+### Artículo 32
+
+Artículo 32. Base imponible.
+Uno. La base para la liquidación de la tarifa será la superficie en metros cuadrados, redondeada por exceso, resultante del producto de la manga por la eslora máximas, y el tiempo, en días o fracción, de estancia de la embarcación en el puerto. Sobre dicha base se aplicará la tarifa en euros por metro cuadrado y días de estancia.
+Dos. La base para la liquidación de la tarifa en las embarcaciones matriculadas en la lista 6.ª, por tratarse de embarcaciones deportivas o de recreo que por definición se explotan con fines lucrativos, será la resultante de multiplicar el producto del párrafo anterior por 1,8.
+Tres. En el supuesto de que las embarcaciones deportivas y de recreo de lista 7.ª (Uso privado), se les autorizase un cambio temporal de uso privado a comercial por un plazo no superior a tres meses, se les aplicará durante el plazo autorizado de cambio de uso, lo establecido en el punto dos de este artículo.
+Se modifica por el art. 42 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 35 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357
+
+### Artículo 33
+
+Artículo 33. Tarifa general.
+Uno. La cuantía de esta tasa, en euros por metro cuadrado o fracción y por día natural o, será la siguiente:
+I. En los puertos no exclusivamente deportivos (existan o no instalaciones deportivas).
+Tramo A. Por utilización de las aguas del puerto, tanto en las zonas deportivas en concesión, como fuera de ellas: 0,0534457
+Tramo B. Por servicios utilizados fuera de las zonas deportivas en concesión:
+a) Atraque en punta: 0,07479978.
+b) Atraque de costado: 0,21366059.
+c) Fondeo sin muerto o tren: 0,0534457.
+d) Fondeo con muerto o tren: 0,07479978.
+e) Embarcaciones abarloadas:0,06406103.
+f) Atraque a banqueta o escollera: 0,06406103.
+g) Embarcaciones en seco en zona habilitada: 0,02135408.
+h) Atraque de costado en muelle fluvial: 0,09615386.
+Tramo C. Por disponibilidad de servicios fuera de las zonas deportivas en concesión:
+a) Toma de agua: 0,01604581.
+b) Toma de energía eléctrica: 0,01604581.
+c) Recipiente de basura: 0,01604581.
+d) Varada y botadura: 0,01604581.
+e) Vigilancia general de la zona: 0,02666114.
+II. En los puertos exclusivamente deportivos (gestionados directamente por la Administración).
+Tramo A. Por utilización de las aguas del puerto: 0,0534457.
+Tramo B. Por servicios utilizados:
+a) Atraque en punta: 0,07479978.
+b) Atraque de costado: 0,21366059.
+c) Fondeo sin muerto o tren: 0,32042978.
+d) Fondeo con muerto o tren: 0,0534457.
+e) Embarcaciones abarloadas: 0,06406103.
+f) Atraque a banqueta o escollera: 0,06406103.
+g) Embarcaciones en seco en zona habilitada: 0,02135408.
+Tramo C. Por disponibilidad de servicios:
+a) Toma de agua: 0,02135408.
+b) Toma de energía eléctrica: 0,02135408.
+c) Recipiente de basura: 0,02135408.
+d) Varada y botadura: 0,02135408.
+e) Vigilancia general de la zona: 0,03209283.
+Se modifica por el art. 43 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica el apartado 1 por el art. 59 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663
+
+### Artículo 34
+
+Artículo 34. Tarifas especiales.
+Uno. El tramo A de la tasa podrá exigirse en régimen de estimación simplificada en los supuestos en que exista concesión o autorización. La cuota tributaria se establecerá para cada concesión o autorización teniendo en cuenta los datos estadísticos de tráfico de la concesión o autorización disponibles, efectuándose periódicamente liquidaciones globales por el importe que corresponda a la ocupación, composición y porte de la flota usuaria, y será la resultante de aplicar una bonificación del 20 por 100 para el conjunto de las embarcaciones de base y del 10 por ciento para el conjunto de las embarcaciones transeúntes.
+Dos. En los casos del párrafo anterior, el concesionario o autorizado podrá repetir de cada uno de los sujetos pasivos obligados al pago hasta el 90 por 100 de la cuota íntegra correspondiente a las embarcaciones de base y hasta el 100 por 100 de la cuota íntegra correspondiente a las embarcaciones transeúntes, calculadas para cada sujeto pasivo con arreglo a lo dispuesto en el artículo 32 de esta Ley.
+Tres. La tarifa G-5 aplicable a las zonas deportivas en concesión en puertos que hayan sido construidos íntegramente por el concesionario actual de dichas zonas deportivas, será, en su tramo A, por utilización de las aguas del puerto, de 0,0122 euros por metro cuadrado o fracción y por día natural o fracción.
+Se modifica el apartado 3 por el art. 60 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663
+ Se modifica por el art. 36 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357
+ Se modifica por el art. 32 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+ Se modifica por el art. 20 de la Ley 11/2000, de 28 de diciembre. Ref. BOE-A-2001-2503
+
+### Artículo 35
+
+Artículo 35. Tarifas incrementadas.
+Uno. Todos los servicios deben ser solicitados a la Administración de Puertos, aplicándose tarifa doble a los servicios obtenidos sin autorización, independientemente de la sanción que proceda por infracción del Reglamento de Servicio, Policía y Régimen del Puerto o de la legislación de puertos aplicable.
+Dos. La presencia de una embarcación dentro de las aguas del puerto que no reúna los requisitos para ser considerada de base o transeúnte en los términos establecidos en el artículo 37 siguiente, devengará tarifa doble de la correspondiente a cien días de estancia, sin perjuicio de la posible sanción que se establezca en la legislación de puertos aplicable.
+Se modifica por el art. 37 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357
+
+### Artículo 36
+
+Artículo 36. Normas especiales de gestión.
+Uno. El importe de la tarifa aplicable será independiente de las entradas, salidas o días de ausencia de la embarcación, mientras tenga asignado puesto de atraque.
+Dos. La baja como embarcación de base surtirá efectos frente a la Administración de Puertos desde el semestre natural siguiente al de su solicitud.
+Tres. Las embarcaciones de base en puertos de la Generalidad que hubiesen formulado la declaración correspondiente y se hallasen al corriente del pago, no abonarán el tramo A) de la tarifa cuando se hallen de paso en cualquiera de los puertos dependientes de la Generalidad, sin perjuicio del abono de los servicios correspondientes a los tramos B) y C).
+Cuatro. Cuando una embarcación cambie su base a otro puerto dependiente de la Generalidad, o de otra Administración pública, deberá comunicarlo a la Administración de Puertos para la modificación o baja correspondiente. El incumplimiento de esta prescripción obligará al sujeto pasivo a abonar la tarifa como si la embarcación no hubiera cambiado su base hasta que formule la correspondiente declaración.
+Cinco. La puesta a disposición del atraque por el concesionario o autorizado del dominio público portuario o por la Administración de Puertos implicará la autorización al usuario para utilizar el atraque conforme a su destino.
+Seis. La falta de pago en periodo voluntario de la Tarifa G-5 faculta a la Administración de Puertos, previa comunicación al interesado, para extinguir la autorización del párrafo anterior e inmovilizar la embarcación en la forma prevista en el artículo 6 de esta Ley.
+Siete. En defensa de los derechos de los consumidores y usuarios, los concesionarios y los autorizados deberán hacer constar expresamente en su publicidad y cartas de servicios la inclusión o no de las tarifas portuarias en los precios ofertados.
+Se añaden los apartados 5 a 7 por el art. 38 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357
+
+### Artículo 37
+
+Artículo 37. Devengo y pago.
+Uno. Esta tarifa se devengará cuando tenga lugar la entrada en las aguas del puerto, en el momento de la utilización de las obras e instalaciones portuarias, o cuando se produzca la puesta a disposición del atraque por parte de la Administración.
+Dos. Las cantidades adeudadas serán exigibles:
+a) Para embarcaciones de paso en el puerto, las cantidades adeudadas serán exigibles por adelantado y por los días de estancia que se autoricen, contados desde las 12 horas del mediodía hasta las 12 horas del mediodía siguiente. Si dicho plazo hubiera de ser superado, el sujeto pasivo deberá formular nueva petición y abonar nuevamente por adelantado el importe en días o fracción correspondiente al plazo prorrogado.
+b) Para embarcaciones con base en el puerto, por semestres naturales adelantados. En el caso de que el sujeto pasivo acepte domiciliar el pago en entidad de crédito, se podrá conceder una bonificación del 10 por 100 en las sucesivas liquidaciones que se efectúen. Esta bonificación será incompatible con las tarifas especiales previstas en el artículo 34 de la presente Ley.
+La devolución por la entidad bancaria correspondiente del recibo domiciliado supondrá la pérdida del derecho de bonificación del 10 por 100 de la liquidación impagada, así como de las sucesivas, procediéndose a anular la liquidación devuelta y a practicar otra nueva sin bonificación, que se notificará en el domicilio del interesado o en el lugar que éste hubiera designado, en su caso, a efectos de notificaciones, para que proceda a su pago.
+La pérdida del derecho a la bonificación a que se refiere el párrafo anterior se mantendrá para sucesivas liquidaciones en tanto el interesado no vuelva a solicitar por escrito una nueva domiciliación, que tendrá efectos para la liquidación del semestre siguiente al de la recepción por la Administración de Puertos de dicha solicitud.
+Tres. A efectos del punto Dos anterior:
+Son embarcaciones de base aquellas que tienen autorizada la estancia en el puerto durante uno o más semestres naturales. Se entenderá que tienen autorizada su estancia como embarcación de base aquellas que, en tal concepto hayan sido dadas de alta por la Administración Portuaria.
+Son embarcaciones de paso (transeúntes) aquellas que, no siendo de base, tienen autorizada su estancia por un período limitado. Las embarcaciones de paso tendrán autorizada la estancia siempre que figuren en las relaciones que debe formular el concesionario y éstas hayan sido entregadas a la Administración.
+Cuatro. Es obligación del concesionario comunicar a la Administración de Puertos las altas, bajas, variaciones, cambios de titularidad e incidencias relativas a las embarcaciones con base en los puertos de la Generalitat y sus titulares, en el plazo máximo de diez días desde que hayan tenido lugar.
+Igualmente es obligación de todos los concesionarios llevar en un libro todos los datos relevantes a efectos estadísticos y, cuando proceda, a los efectos tributarios pertinentes relativos a la exacción de las tarifas portuarias y custodiar la documentación actualizada acreditativa de la veracidad de su contenido.
+El incumplimiento de alguna de estas obligaciones es constitutivo de infracción administrativa de las previstas en la legislación de puertos aplicable.
+Cinco. Para lo dispuesto en el presente capítulo sólo surtirán efectos frente a la Administración Autonómica de Puertos las comunicaciones recibidas en ésta de los concesionarios del dominio público portuario utilizando los modelos habilitados al efecto. Si contuvieran algún defecto, sólo surtirán efecto desde que la subsanación se haya comunicado a la Administración Autonómica de Puertos.
+Se modifica el apartado 2 por el art. 39 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357
+ Se modifica por el art. 33 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+ Se modifica por el art. 21 de la Ley 11/2000, de 28 de diciembre. Ref. BOE-A-2001-2503
+
+## CAPÍTULO VI
+
+Tarifa E-1: Equipos
+
+### Artículo 38
+
+Artículo 38. Hecho imponible.
+Constituye el hecho imponible de esta tasa la utilización de las grúas de pórtico, grúas fijas, elementos y maquinaria que constituyen el equipo mecánico de manipulación y transporte, básculas, carretillas y otro utillaje portuario.
+
+### Artículo 39
+
+Artículo 39. Sujetos pasivos.
+Son sujetos pasivos obligados al pago de la tasa, con carácter solidario, los peticionarios y usuarios de los correspondientes servicios y los propietarios de los elementos manipulados.
+Se modifica por el art. 40 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357
+
+### Artículo 40
+
+Artículo 40. Base y tipos. Normas de aplicación.
+Uno. La base para la liquidación de esta tasa será el tiempo de disponibilidad del equipo y la clase y dimensiones de los elementos manipulados.
+Dos. La cuantía de esta tasa se determinará conforme al siguiente cuadro de tarifas:
+1. Manipulación de mercancías: 7.460 pesetas/hora o fracción.
+2. Manipulación de embarcaciones:
+Varada o botadura: 400 pesetas/metro eslora.
+Suspensión: 5.000 pesetas/hora o fracción.
+Tres. A los efectos de determinación de esta tasa se estará a lo dispuesto en las siguientes reglas:
+Primera.−Estas tarifas son exclusivamente aplicables a servicios prestados en días laborables dentro de la jornada ordinaria establecida para estas actividades por la Administración de Puertos. Los servicios prestados fuera de la jornada ordinaria en días laborables se facturarán con un recargo del 25 por 100, y del 50 por 100 en los días festivos, facturándose en este último caso un mínimo de dos horas.
+Segunda.−El tiempo de utilización de la grúa a efectos de facturación será el comprendido entre la hora en la que se haya puesto a disposición del peticionario y la de terminación del servicio.
+Tercera.−La facturación se hará por horas completas. Se descontarán del tiempo de utilización, exclusivamente, las paralizaciones superiores a treinta minutos debidas a averías de la maquinaria o falta de fluido eléctrico.
+
+### Artículo 41
+
+Artículo 41. Devengo.
+La tarifa se devengará en el momento de la puesta a disposición del equipo mecánico, de manipulación o de transporte correspondiente.
+
+## CAPÍTULO VII
+
+Tarifa E-2: Superficies y locales
+
+### Artículo 42
+
+Artículo 42. Hecho imponible.
+Uno. Constituye el hecho imponible de esta tasa la utilización de explanadas, espejo de agua, cobertizos, tinglados, almacenes, depósitos, locales, edificios e instalaciones, con sus servicios generales correspondientes, no explotados en régimen de autorización o concesión, situados en la zona portuaria.
+Dos. A los efectos del apartado anterior, se clasifica la zona portuaria en zonas de tránsito y zonas de almacenamiento.
+La zona de maniobra inmediata a los atraques de los barcos no se considerará zona de depósito de mercancías, salvo que medie autorización expresa de la Dirección Técnica del puerto.
+La definición y extensión de cada una de las zonas portuarias en los distintos muelles y partes de las mismas son las que se especifican en cada puerto.
+Se modifica por el art. 29 de la Ley 14/2005, de 23 de diciembre. Ref. BOE-A-2006-2973
+
+### Artículo 43
+
+Artículo 43. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los usuarios de los correspondientes servicios.
+
+### Artículo 44
+
+Artículo 44. Base y tipos. Normas de aplicación.
+Uno. Las bases para la liquidación de esta tasa serán la superficie ocupada, el tiempo de utilización y el destino de la ocupación realizada.
+Dos. La tasa se exigirá conforme a lo dispuesto en el siguiente cuadro de tarifas:
+Tarifa I. Ocupación destinada a la realización de actividades industriales y comerciales:
+Días de ocupación
+ Ptas/m2/día
+ 1. Zona de tránsito o de almacenamiento
+ 1.1 Superficie descubierta.
+ 1.oa 30.o
+ 15
+ 1.2 Almacenes industriales, tinglados y cobertizos.
+ 1.oa 30.o
+ 20
+ 1.3 Locales comerciales, oficinas y despachos.
+ 1.oa 30.o
+ 25
+Tarifa II. Ocupación destinada a almacenes de pertrechos de pesca: 200 pesetas/m2/mes.
+Tarifa III. Ocupación de instalaciones bajo tierra que no impidan la libre circulación por la superficie: 50 por 100 de la tarifa I.
+Tarifa IV. Ocupación destinada a usos propiamente portuarios, tales como carga, descarga y manipulación de mercancías, atención al pasaje o prestación de servicios portuarios:
+Días de ocupación
+ Ptas/m2/día
+ 1. Zona de tránsito
+ 1.1
+ Superficie descubierta.
+ 1.º a 2.º
+ 0
+ 3.º a 10.º
+ 3
+ 11.º a 30.º
+ 12
+ 1.2
+ Superficie cubierta.
+ 1.º a 10.º
+ 4
+ 11.º a 30.º
+ 16
+ 1.3
+ Superficie cerrada.
+ 1.º a 10.º
+ 4,5
+ 11.º a 30.º
+ 18
+ 2. Zona de almacenamiento
+ 2.1
+ Superficie descubierta.
+ 1.º a 2.º
+ 0
+ 3.º a 10.º
+ 1
+ 11.º a 30.º
+ 5
+ 2.2
+ Superficie cubierta.
+ 1.º a 10.º
+ 1
+ 11.ºa 30.º
+ 9
+ 2.3
+ Superficie cerrada.
+ 1.º a 10.º
+ 3
+ 11.º a 30.º
+ 13
+Tarifa V. Utilización de pantalanes, muelles o campos de fondeo para usos no previstos en las tarifas I, II, III y IV del presente artículo:
+Instalación
+ Cuantía
+ Pantalanes.
+ 80 pesetas/ml/día
+ Muelles.
+ 40 pesetas/ml/día
+ Campo de fondeo.
+ 4 pesetas/m2/día
+Tres. A los efectos de cuantificación de las tarifas a que se refiere el apartado dos anterior, se estará a lo dispuesto en las siguientes reglas:
+Primera.‒La forma de medir los espacios ocupados será por el rectángulo circunscrito exteriormente a la partida total de mercancías o elementos depositados, definido de forma que dos de sus lados sean paralelos al cantil del muelle y los otros dos normales al mismo, redondeando el número de metros cuadrados que resulte para obtener el número inmediato sin decimales. De análoga forma se procederá en tinglados y almacenes, locales o instalaciones, sirviendo de referencia los lados de ellos.
+Segunda.
+a) La Administración portuaria, atendiendo a la mejor gestión de la tarifa y a la racionalidad de la explotación, podrá optar por contabilizar la superficie por partidas o bien por el cargamento completo.
+b) Dicha superficie se irá reduciendo al levantar la mercancía a efectos de abono, por cuartas partes, tomándose la totalidad hasta tanto se haya levantado el 25 por 100 de la superficie ocupada, el 75 por 100 cuando el levante alcance el 25 por 100 sin llegar al 50 por 100, el 50 por 100 cuando rebase el 50 por 100 sin llegar al 75 por 100 y el 25 por 100 cuando exceda del 75 por 100 y hasta la total liberación de la superficie ocupada. En todo caso, este último cuartil deberá contabilizarse siempre por partidas. Si la Administración portuaria lo considera necesario podrá establecer otro sistema de medición con distintos escalonamientos, o bien continuo, en función del proceso de levante de la mercancía.
+Tercera.‒Para las mercancías desembarcadas el plazo de ocupación comenzará a contarse desde la reserva del espacio o a partir del día siguiente en el que el barco terminó la descarga, siempre que ésta se haga ininterrumpidamente. Si se produjera una interrupción no habitual las mercancías descargadas hasta la interrupción comenzarán a devengar la tasa por ocupación de superficie a partir de ese momento y el resto a partir de la fecha de depósito.
+Cuarta.‒Para las mercancías destinadas al embarque el plazo de ocupación comenzará a contarse desde la reserva del espacio o desde el momento en que sean depositadas en los muelles o tinglados, aun en el caso en que sean embarcadas.
+Quinta.‒Las mercancías desembarcadas y que vuelvan a ser embarcadas en el mismo o diferente barco devengarán la tasa por ocupación de superficie según el criterio correspondiente al caso de mercancías desembarcadas.
+Sexta.‒A los efectos de la aplicación de esta tasa, sólo podrá considerarse una superficie libre cuando haya quedado en las mismas condiciones de conservación y limpieza en que se ocupó y sea accesible y útil para otras ocupaciones.
+Séptima.‒La Administración portuaria podrá exigir fianza bastante para garantizar el pago de esta tasa. El importe de dicha fianza será el mayor de los siguientes importes: El correspondiente a treinta días de estancia o a tres veces el período solicitado.
+Cuatro. Tarifas incrementadas.
+Cuando se produzca demora en el cumplimiento de la orden de removido, la tarifa, durante el plazo de demora, será el quíntuple de la que, con carácter general, le correspondería, sin perjuicio de que la Autoridad portuaria pueda proceder al removido, girando el correspondiente cargo y respondiendo en todo caso el valor de las mercancías de los gastos de transporte y almacenaje.
+
+### Artículo 45
+
+Artículo 45. Devengo y pago.
+Uno. Esta tasa se devengará en el momento en que se inicie la prestación del servicio, entendiéndose por tal la fecha de reserva del espacio solicitado a la Administración portuaria.
+Dos. Las mercancías o elementos que permanezcan al menos un año sobre las explanadas y depósitos, o aquellos en que los derechos devengados y no satisfechos lleguen a ser superiores a su posible valor en venta, se considerarán como abandonados por sus propietarios, sin perjuicio de las actuaciones de la Administración de Aduanas para la determinación de abandono de las mercancías incursas en procedimientos de despacho aduanero, en relación a las cuales, para las deudas aduaneras y demás en favor de la Hacienda Pública, se estará a lo establecido en el Reglamento General de Recaudación.
+
+## CAPÍTULO VIII
+
+Tarifa E-3: Suministros
+
+### Artículo 46
+
+Artículo 46. Hecho imponible.
+Uno. Constituye el hecho imponible de esta tasa la utilización de agua, energía eléctrica u otros suministros, así como de las instalaciones para la prestación de los mismos, sin perjuicio del recargo de la tarifa G-5 para embarcaciones deportivas y de recreo por disponibilidad de servicios.
+Dos. Esta tasa se aplicará exclusivamente a los suministros realizados dentro de la zona de servicio de los puertos.
+Se modifica por el art. 22 de la Ley 11/2000, de 28 de diciembre. Ref. BOE-A-2001-2503
+
+### Artículo 47
+
+Artículo 47. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los usuarios o destinatarios de los correspondientes suministros.
+
+### Artículo 48
+
+Artículo 48. Bases y tipos de gravamen.
+Uno. La base para la aplicación de la tarifa será el número de unidades suministradas.
+Dos. La cuantía de esta tasa será el importe resultante de multiplicar por 1,5 el precio medio facturado al puerto en el último trimestre anterior a la fecha del devengo por el suministrador de que se trate.
+Tres. Para potencias eléctricas instaladas superiores a 100 kW o cuando el suministro tenga un carácter regular y continuo para instalaciones de titulares de concesiones o autorizaciones dentro de la zona portuaria de servicio, la tasa se fijará en 1,2 x T euros/Kwh, siendo T el valor del Kwh, o del metro cúbico de agua aplicado el precio medio facturado al puerto en el último trimestre anterior a la fecha del devengo por el suministrador de que se trate.
+Cuatro. Para los casos de los suministros de agua y energía eléctrica a embarcaciones deportivas y de recreo, la cuantía de la tasa será de 0,2104 euros/kWh y 0,0060 euros/litro de agua.
+Cinco. En ningún caso el importe de la tasa será superior al coste total que el servicio supone para la Administración.
+Se modifican los apartados 2, 3 y 4 por el art. 116 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a1-28
+ Se modifican los apartados 2, 3 y 4 por el art. 110 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+ Se modifica por el art. 23 de la Ley 11/2000, de 28 de diciembre. Ref. BOE-A-2001-2503
+
+### Artículo 49
+
+Artículo 49. Devengo.
+Esta tasa se devengará en el momento en que se efectúe el correspondiente suministro o a la entrega de los medios necesarios para la activación de los sistemas automáticos de suministro.
+Se modifica por el art. 24 de la Ley 11/2000, de 28 de diciembre. Ref. BOE-A-2001-2503
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se autoriza al Consejero de Obras Públicas, Urbanismo y Transportes a actualizar el repertorio de mercancías establecido en el anexo II de la presente Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Normas comunes de gestión de los servicios afectos a las tasas:
+Uno. Los usuarios serán responsables de las lesiones, daños y averías que ocasionen a la Administración de Puertos o a terceros como consecuencia de su intervención en la utilización del servicio correspondiente.
+En los supuestos en que los usuarios de los servicios portuarios se hagan cargo de las funciones de dirección en la prestación de los mismos, los perjuicios y desperfectos producidos por averías, maniobras o paralización del servicio no serán imputables a la Autoridad portuaria.
+Dos. Son intransferibles todas las autorizaciones que se otorguen para la utilización de los diferentes servicios.
+Tres. La petición de los servicios implica la aceptación de las condiciones en que se prestan por la Administración de Puertos, no siendo ésta responsable de los incidentes que puedan producirse por causa de fuerza mayor.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Exenciones relacionadas con la celebración de la XXXII Edición de la Copa América.
+A partir del 1 de enero de 2004 y hasta el 31 de diciembre de 2007, las entidades que ostenten los derechos de explotación, organización y dirección de la XXXII Edición de la Copa América, las entidades que constituyan los equipos participantes y los miembros de cualquiera de ellas estarán exentos, en tanto realicen actividades de preparación, organización o celebración del citado acontecimiento, de la obligación de pago de las siguientes tarifas:
+Tarifa G-2 Buques.
+Tarifa G-3 Pasajeros y mercancías.
+Tarifa G-5 Embarcaciones deportivas y de recreo.
+Tarifa E-1 Equipos.
+Tarifa E-2 Superficies y locales.
+Tarifa E-3 Suministros.
+Se añade por el art. 41 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En las concesiones ya otorgadas con anterioridad, cuando los importes establecidos en sus respectivas disposiciones de concesión sean inferiores a los que recoge la presente Ley, los concesionarios sujetos pasivos podrán optar por continuar aplicando, durante el tiempo de vigencia de la concesión, las cuantías aprobadas en las mismas o acogerse al régimen previsto en la presente Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En tanto no se aprueben las normas reglamentarias que desarrollen los aspectos formales de la presente Ley, y siempre que no entren en contradicción con la misma, se seguirán aplicando las existentes en la actualidad.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas normas legales o reglamentarias, de igual o inferior rango, se opongan a lo dispuesto en la presente Ley y, en particular, la Orden de 9 de diciembre de 1993, del Consejero de Obras
+Públicas, Urbanismo y Transportes, excepto la regla III.IV del capítulo III, tarifa E-4, de su anexo I, que continuará en vigor en tanto no se apruebe la norma que la reestructure y actualice.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, que observen y hagan cumplir esta Ley.
+Valencia, 31 de marzo de 1999.
+EDUARDO ZAPLANA HERNÁNDEZ-SORO,
+Presidente
+
+## ANEXO I
+
+Definiciones técnicas
+Uno. Aguas del puerto.‒Es el espacio marítimo o fluvial, hasta donde se haga sensible el efecto de las mareas o sea apto para la navegación, delimitado, a los efectos de aplicación de las correspondientes tarifas, para cada puerto por la Administración portuaria de la Generalitat Valenciana. En este espacio pueden realizarse operaciones de fondeo, transbordo, varada u otras operaciones comerciales o portuarias.
+Las aguas del puerto son la superficie de agua incluida en la zona de servicio del mismo dividida en dos zonas: Zona l, específicamente portuaria, y una zona lI, aneja a la anterior, que se beneficia de la proximidad o del posible uso de algunos de los servicios que se prestan en el puerto, según la definición de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado.
+Dos. Clases de navegación.‒La navegación, en función de su ámbito, será interior al puerto, interior a la Unión Europea y exterior a la misma.
+Navegación interior al puerto es la que transcurre íntegramente dentro del ámbito de un determinado puerto.
+Navegación interior a la Unión Europea es la que se efectúa entre puertos o puntos situados en zonas en las que la Unión Europea ejerce soberanía, derechos soberanos o jurisdicción.
+Navegación exterior a la Unión Europea es la que se efectúa entre puertos o puntos situados en zonas en las que la Unión Europea ejerce soberanía, derechos soberanos o jurisdicción y puertos o puntos situados fuera de dichas zonas.
+La navegación, en función de sus condiciones de prestación, puede clasificarse en regular e irregular.
+Navegación de línea regular es la sujeta a itinerarios, frecuencias de escalas, tarifas y condiciones de transporte previamente establecidas.
+Navegación no regular es la que no está incluida en los términos del apartado anterior.
+Tres. Arqueo bruto (GT).‒Es el que figura en el certificado internacional, extendido de acuerdo con el Convenio Internacional sobre Arqueo de Buques, hecho en Londres el 23 de junio de 1969 («Boletín Oficial del Estado» de 15 de septiembre de 1982), denominado abreviadamente «GT». Cuando un buque no disponga del mencionado certificado podrá recurrirse al valor que como tal figure en el «Lloyd’s Register of Shipping».
+En el caso de que el buque presente un certificado de su arqueo bruto medido según el procedimiento del Estado de su bandera, denominado abreviadamente TRB, o sea éste el que aparece en el «Lloyd’s Register of Shipping», la Autoridad portuaria asignará un arqueo nuevo a partir de las dimensiones básicas del buque.
+Esta asignación se realizará aplicando la siguiente fórmula:
+GT (Londres provisional) = 0,4 × E × M × P
+donde:
+E = Eslora máxima o total.
+M = Manga máxima.
+P = Puntal de trazado.
+Cuatro. Eslora máxima o total.‒Es la que figura en el certificado de arqueo, en el «Lloyd’s Register of Shipping», y, a falta de todo ello, la que resulte de la medición que la Administración practique directamente, prevaleciendo esta última en caso de discrepancia.
+En el caso de embarcaciones deportivas y de recreo se tomará la máxima distancia existente entre los extremos de los elementos más salientes de proa y popa de la embarcación y sus medios auxiliares.
+Cinco. Cruceros turísticos.
+a) Se entenderá que un barco de pasajeros está realizando un crucero turístico cuando reúna las siguientes circunstancias:
+Que entre en puerto o sea despachado con este carácter por las autoridades competentes.
+Que el número de pasajeros en régimen de crucero supere el 50 por 100 del total de pasajeros.
+b) Son pasajeros en régimen de crucero turístico aquellos cuyo puerto de embarque coincida con el destino final de su viaje, el cual debe estar amparado por un mismo contrato de transporte.
+c) En la declaración que debe presentarse se indicarán, además de las características del barco y el tiempo de estancia previsto en el puerto, el itinerario del crucero, el número de pasajeros y sus condiciones de pasaje.
+Seis. Tránsito marítimo de mercancías.‒Se entiende por tránsito marítimo la operación que se realiza con las mercancías que, descargadas de un barco al muelle, vuelven a ser embarcadas en barco distinto o en el mismo barco en distinta escala sin salir del puerto.
+Siete. Pasajeros en tránsito.‒Son pasajeros en tránsito aquellos cuyo puerto de destino no coincide con el de atraque del barco, continuando el viaje en el mismo barco hasta dicho puerto de destino.
+
+## ANEXO II
+
+Repertorio de clasificación de mercancías para la aplicación de la tarifa G-3: Mercancías
+El cuadro que se relaciona en el apartado II siguiente está compuesto de tres columnas. En la primera están codificadas todas las mercancías siguiendo el Sistema Armonizado de Designación y Codificación de las Mercancías (SA), convenido internacionalmente y que sirve de base a la Nomenclatura Combinada Europea (NC), que se utiliza en la Unión Europea para la definición del Arancel Integrado de aplicación (TARIC). Las letras o caracteres añadidas al código numérico, cuyo significado se explica en el punto I siguiente, sirven para individualizar mercancías distintas dentro de un mismo código o mercancías que se presentan o son manipuladas de forma distinta. En la segunda columna se señala el grupo de mercancías correspondiente a cada código a efectos exclusivamente de la aplicación de la tarifa G-3 «Mercancías». La tercera columna comprende la denominación de las mercancías. Dicha denominación es orientativa, debiéndose consultar el mencionado Sistema Armonizado (SA) y las notas explicativas correspondientes.
+I. Caracteres añadidos al código numérico del Sistema Armonizado:
+A) Condensados de gas natural (subpartida 2709.0010).
+B) Producidos artificialmente, butano y propano.
+D) Laminados de espesor inferior a 4,75 milímetros.
+E) Envasada.
+F) Fuel (Subpartidas 2710.0071, 2710.0072, 2710.0074, 2710.0076, 2710.0077 y 2710.0078).
+G) A Granel.
+H) Sin revestir.
+J) Atunes, listados o bonitos de vientre rayado, con exclusión de los hígados, huevas y lechas (subpartidas 0303.41, 0303.42, 0303.43 y 0303.49).
+K) Keroseno, gasolina y petróleo refinado (subpartidas 2710.0021, 2710.0032, 2710.0034, 2710.0036, 2710.0037, 2710.0039, 2710.0041, 2710.0045, 2710. 0051, 2710.005 y 2710.0059).
+L) Lubricantes (Subpartidas 2710.0081, 2710.0083, 2710.0085, 2710.0087, 2710.0088, 2710.0089, 2710.0092, 2710.0094, 2710.0096 y 2710.0098).
+N) De procedencia natural.
+Ñ) Naftas (subpartidas 2710.0011 y 2710.0015).
+O) Gasóleo (subpartidas 2710.0061, 2710.0065 y 2710.0069).
+Q) Coníferas y eucalipto (subpartidas 4403.2000 y 4403.9930).
+R) Revestidos o inoxidable.
+S) Laminados de espesor superior a 4,75 milímetros.
+T) Taras de contenedores y cisternas, vehículos automóviles, remolques y semirremolques, matriculados y en régimen de carga.
+V) Abastecimiento a granel de poblaciones.
+Z) Mineral de hierro de baja calidad: Contenido en hierro en estado natural > 50 por 100 en peso.
+Đ) Aglomerados, «sinters», pelas («péllets»), briquetas y similares.
+Ç) Piritas de hierro tostadas (subpartida 2601.2000).
+!) Coque de petróleo sin calcinar (subpartida 2713.1100).
+II. Cuadro de mercancías:
+Código designación mercancías
+ Grupo de mercancías
+ Denominación
+ Animales vivos y productos del reino animal:
+ 0302C/0303J/0410
+ 4
+ Pescado fresco o refrigerado, con exclusión de los filetes y demás carne de pescado de la partida 0304, en cabotaje, exportación y tránsito/atunes/productos comestibles de origen animal no expresados ni comprendidos en otras partidas.
+ 0101 a 0511
+ 5
+ Resto.
+ Productos del reino vegetal:
+ 1003/1213 a 1214
+ 2
+ Cebada/paja y forrajes.
+ 0601 a 0604/0701 a 0714/0801 a 0814/1001 a 1109
+ 3
+ Planta vivas y flores/legumbres y hortalizas/frutas/cereales y sus harinas (salvo cebada).
+ 1201 a 1212
+ 3
+ Oleaginosas.
+ 0901 a 0910/1301 a 1404
+ 5
+ Café, té, yerbamate y especias/gomas, resinas y materias trenzables.
+ Grasas y aceites animales o vegetales:
+ 1522
+ 2
+ Degrás.
+ 1501G a 1520G
+ 4
+ Aceites a granel.
+ 1501E a 1520E/1521
+ 5
+ Aceites envasados/ceras.
+ Industrias alimentarias:
+ 2201V
+ 1
+ Agua a granel para abastecimiento de poblaciones.
+ 2201G
+ 1
+ Agua a granel.
+ 1703/2303/2306
+ 2
+ Melaza/residuos industria del almidón, pulpa de remolacha y otros/tortas de otros aceites.
+ 2009/2201E/Resto desde 2301 a 2309
+ 3
+ Jugos/agua envasada/residuos extracción aceite de soja y de cacahuete, otros residuos y piensos.
+ 1701/1902/1903/2001 a 2005/2106/2203G a 2209G
+ 4
+ Azúcar/pastas/tapiocas/conservas de legumbres u hortalizas/Preparaciones alimenticias no expresadas ni comprendidas en otras partidas/líquidos alcohólicos y vinagre, a granel.
+ Resto desde 1601 a 2403 (incluidos 2203E a 2209E)
+ 5
+ Resto de industria alimentaria.
+ Minerales:
+ A) Sal, azufre, tierras y piedras, yesos, cales y cementos:
+ 2505/2520
+ 1
+ Arenas naturales/yeso.
+ 2502/2517/2518
+ 1
+ Piritas Fe sin tostar/cantos/dolomita.
+ 2501/2506 a 2510 / 2513 /
+ 2516/2521/2522/2523G
+ 1
+ Sal/cuarzo, caolín, demás arcillas, creta, apatitos/piedra pómez/granito/castinas/cales/cemento a granel.
+ 2503 / 2504 / 2511 / 2512 / 2514 / 2515 / 2523E / 2529 / 2530
+ 2
+ Azufre/grafito natural/sales de baño naturales/harinas de Si/pizarra/mármol/cemento ensacado/feldespatos/sepiolita.
+ 2524 a 2527
+ 3
+ Amianto/mica/esteatita/criolita.
+ 2519/2528
+ 4
+ Carbonato de Mg/boratos.
+ B) Minerales, escorias y cenizas:
+ 2601Ç/2618
+ 1
+ Piritas de Fe tostadas/escorias granuladas.
+ 2601Z
+ 1
+ Mineral de Fe de baja calidad.
+ 2601/2619/2621
+ 1
+ Mineral de Fe sin aglomerar (2601.1100)/escorias (sin granular) siderúrgica/otras escorias y cenizas.
+ 2601Đ/2606/2607/2614
+ 2
+ Mineral de Fe aglomerado (2601.1200)/minerales de Al, Pb y Ti.
+ 2602 / 2603 / 2604 / 2608 / 2610 / 2617
+ 3
+ Minerales de Mn, Cu, Ni, Zn, Cr y demás.
+ 2605 / 2609 / 2611 / 2612 / 2613 / 2615 / 2616 / 2620
+ 4
+ Minerales de Co, Sn, W, U, Th, Mo, Ta, V, Zr, metales preciosos y cenizas y residuos metálicos. C) Combustibles:
+ 2701 a 2705/2706 / 2709 / 2710F / 2713 / 2714
+ 1
+ Carbones, sus coques y gas de agua/alquitránhulla/crudos/fuel/coque de petróleo sin calcina/betunes y asfaltos naturales.
+ 2708 / 2709A /2710L / 2710Ñ / 2711N / 2713 / 2715
+ 2
+ Brea y coque de brea, alquitrán hulla/condensados/gasóleo/naftas/gas natural/betún de petróleo/mastiques y cutbacks.
+ 2707/2710k/2711B
+ 3
+ Aceites destilados, alquitranes hulla/keroseno, gasolina y petróleo refinado/butano y propano.
+ 2710/2712
+ 5
+ Lubricantes/vaselina, parafina, etc.
+ Industrias químicas:
+ 2807 / 2815 / 2821 / 2836 / 3101 a 3105.
+ 2
+ Ácido sulfúrico/hidróxido Na y K/óxido e hidróxido Fe/cabonatos y percarbonatos/abonos.
+ 2804 / 2809 / 2806 / 2814 / 2833 / 2832
+ 3
+ Gases nobles/ácidos fosfóricos/CLH/Nh40h/sulfatos/nitritos y nitratos.
+ Restos desde 2801 a 2851/2901 a 2902/2915 a 2918
+ 4
+ Resto de productos inorgánicos/hidrocarburos/ácidos carboxílicos y sus derivados.
+ Resto desde 2903 a 2942/3001 a 3006/3201 a 3824
+ 5
+ Resto de producto orgánicos/productos farmacéuticos/otros derivados químicos.
+ 3901 a 4304
+ 5
+ Plásticos y pieles y sus manufacturas.
+ Madera, carbón vegetal, corcho y sus manufacturas:
+ 4401/4402G
+ 1
+ Leña y aserrín/carbón vegetal a granel.
+ 4402E/4403O/4406
+ 2
+ Carbón vegetal envasado/madera en bruto de coníferas y eucalipto/traviesas.
+ 4403
+ 3
+ Madera en bruto.
+ 4404 a 4410
+ 4
+ Madera aserrada y tableros.
+ 4411 a 4602
+ 5
+ Resto de madera, corcho, cestería y sus manufacturas.
+ Pasta de madera, cartón-papel y aplicaciones:
+ 4707
+ 3
+ Desperdicios y desechos de papel y cartón.
+ 4701 a 4706
+ 4
+ Pasta de madera y de otras materias fibrosas celulósicas.
+ 4801 a 4911
+ 5
+ Papel y aplicaciones.
+ 5001 a 6704
+ 4
+ Materias textiles y sus manufacturas.
+ Manufacturas de piedra, cerámica y vidrio:
+ 6904/7001
+ 1
+ Ladrillos cerámicos/desperdicios y desechos de vidrio.
+ 6905 a 6908
+ 2
+ Tejas, tubos, baldosas y losas.
+ 6809 a 6903
+ 3
+ Manufacturas de otros elementos de construcción.
+ 6801 a 6808/6909 a 6914/7002 a 7118
+ 5
+ Manufacturas de piedra/cerámica de uso doméstico y sanitario/vidrio y perlas.
+ Metales comunes y manufacturas de estos metales y resto de secciones:
+ 7204/8908
+ 1
+ Chatarra/barcos y demás artefactos flotantes para desguace.
+ 7201/7203/7205
+ 2
+ Fundición en bruto o especular/prereducidos/granallas y polvo.
+ 7206 a 7207/7208S a 7212S/7213 a 7216/7301 a 7302
+ 3
+ Lingotes y semiproductos/laminados eT 4,75 milímetros/alambrón, barras, etc./tablestacas y vías férreas.
+ 7208D a 7212D/7217 a 7229/7303/ 7304H a 7306H
+ 4
+ Laminados eR 4,75 milímetros/resto de aceros/tubos y perfiles huecos de fundición/tubos y perfiles de hierro y acero sin revestir.
+ Resto desde 7201 a 9706 (incluidos 7304R a 7306R/9990)
+ 5
+ Resto de manufacturas de fundición, de hierro o de acero/paquetería.
+ Taras:
+ 8609T
+ –
+ Taras de contenedores y cisternas, matriculados y en régimen de carga.
+ 8704T y 8716T
+ –
+ Taras de vehículos automóviles, remolques y semirremolques, matriculados y en régimen de carga.
+ Otros:
+ 9920/9990
+ 5
+ Sacas de Correos/efectos personales.

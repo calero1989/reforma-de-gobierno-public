@@ -1,0 +1,406 @@
+# Ley Foral 5/2001, de 9 de marzo, de Cooperación al Desarrollo.
+
+- Identificador BOE: `BOE-A-2001-9283`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-9283
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral de Cooperación al Desarrollo.
+EXPOSICIÓN DE MOTIVOS
+El proceso de creciente globalización de problemas a escala mundial, tales como la pobreza, las presiones demográficas y migratorias, el deterioro medioambiental, los crecientes conflictos interétnicos, la extensión de epidemias, la proliferación de armamento nuclear y otras cuyas consecuencias desbordan las fronteras nacionales, exigen la colaboración entre todos los miembros de la comunidad internacional para ofrecer soluciones eficaces y justas para todos. Por otra parte, las diferencias en los niveles de desarrollo económico y social entre los países más industrializados se han visto agravadas, en la mayoría de los casos, en el transcurso de los últimos años. Abordar un tratamiento eficaz en la lucha contra el subdesarrollo es reconocer las interdependencias que mediatizan y en multitud de casos limitan las soluciones que se intentan esbozar para enfrentar este grave problema. Romper con el subdesarrollo implica hoy concebir sus consecuencias como potencialmente catastróficas para el conjunto de la comunidad humana.
+En respuesta a estos hechos la Comunidad Internacional viene reaccionando con políticas y planes de Cooperación Internacional al Desarrollo, estructurados en torno a dos elementos: por una parte, mediante el flujo de recursos financieros cifrados en la cuota deseable del 0,7 por 100 del Producto Nacional Bruto como Ayuda Oficial al Desarrollo; y por otra, en la promoción del desarrollo humano (proceso de ampliación de las opciones y posibilidades de las personas en una determinada sociedad: poder tener una vida larga y saludable, poder adquirir conocimientos, tener acceso a los recursos necesarios para disfrutar de un nivel de vida decoroso, poder disfrutar de las libertades políticas, económicas y sociales, tener la oportunidad de ser creativos y productivos, de disfrutar de autorrespeto personal y de derechos humanos garantizados). Con todo ello, se pretende la inversión de la tendencia a la marginalización de los pobres y la obtención de avances hacia objetivos realistas de desarrollo humano; poniendo en marcha, entre otros, programas de seguridad alimentaria, acceso a servicios básicos de educación, salud o vivienda, programas de empleo y de acceso a recursos productivos tales como crédito o tecnología, programas para el fortalecimiento institucional y para la participación política, programas dirigidos hacia la igualdad entre hombres y mujeres, o programas de regeneración medioambiental.
+En este contexto, el Título XVII del Tratado Constitutivo de la Comunidad Europea (Cooperación al Desarrollo) fija como metas el desarrollo económico y social duradero de los países en desarrollo y, particularmente de los más desfavorecidos; su inserción armoniosa y progresiva en la economía mundial; la lucha contra la pobreza en tales países; y la consolidación de la democracia. Por su parte, y tal y como señala la Exposición de Motivos de la Ley 23/1998, de 7 de julio, de Cooperación Internacional, «la política española de Cooperación para el Desarrollo tiene básicamente su origen en la declaración contenida en el preámbulo de la Constitución de 1978, en la que la Nación española proclama su voluntad de colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre todos los pueblos de la Tierra (...) dicha política constituye un aspecto fundamental de la acción exterior de los Estados democráticos en relación con aquellos países que no han alcanzado el mismo nivel de desarrollo, basada en una concepción interdependiente y solidaria de la sociedad internacional y de las relaciones que en ella se desarrollan».
+Un hecho que es de destacar en el conjunto de la cooperación española es la evolución extraordinaria de la denominada Cooperación Descentralizada, tanto por la implicación de las Comunidades Autónomas y Corporaciones Locales, como la de una sociedad civil, en la que los sentimientos y valores de la cooperación y solidaridad internacional son cada vez mayores. En ese panorama la Cooperación Navarra ocupa un lugar preeminente, en 1998 representó algo más del 11 por 100 del total de la Cooperación Descentralizada, situándose a la cabeza de las Comunidades Autónomas en lo que respecta a Ayuda Oficial al Desarrollo per cápita. La presencia internacional de Navarra a través de su programa de cooperación es un hecho claro, tal y como queda reflejado en el millar aproximado de proyectos financiados por el Gobierno de Navarra desde el inicio de su programa, y distribuidos en 35 países africanos, 20 de América Latina, 7 europeos y 7 asiáticos.
+La Cooperación Descentralizada, en la que se enmarca la Cooperación arbitrada desde la Comunidad Foral de Navarra, está caracterizada por cinco elementos diferenciales respecto a los sistemas bilaterales y multilaterales de la Cooperación de los Estados: La participación activa de todos los actores y agentes de desarrollo, comenzando por los propios beneficiarios de estas políticas sociales; la búsqueda de una concertación y de una complementariedad entre los diferentes actores; una gestión descentralizada basada en el principio de la Subsidiariedad; la adopción de una aproximación-proceso, frente a la clásica aproximación-proyecto; y la prioridad dada al refuerzo de las capacidades y al desarrollo institucional. Elementos todos ellos presentes en alguna medida en la Cooperación Navarra, cuya andadura institucional se sitúa a mediados de la década de los ochenta, cuando se inician los primeros proyectos de cooperación al desarrollo cofinanciados con fondos públicos navarros.
+Desde la perspectiva de la cooperación al desarrollo, es necesario impulsar nuevas propuestas en los ámbitos del comercio, la economía, la regulación de los mercados financieros, la puesta en marcha de políticas sociales y de redistribución de la riqueza que acompañen al proceso de crecimiento que se registra en las sociedades emergentes de los países en desarrollo.
+Asimismo, será prioritaria la consecución de la participación y vinculación a los programas de las poblaciones protagonistas en su propio desarrollo, incorporando objetivos transformadores que impliquen un mayor fortalecimiento de la democracia y de desarrollo institucional en los países objeto de la ayuda.
+La Ley 23/1998, de 7 de julio, de Cooperación Internacional para el Desarrollo, si bien establece unas normas comunes; sienta las bases de la acción de la Cooperación realizada desde las Comunidades Autónomas y las Entidades Locales, en virtud de los principios de autonomía presupuestaria y autorresponsabilidad en su desarrollo y ejecución. Asimismo, regula aspectos como son el régimen fiscal de las Organizaciones No Gubernamentales de Desarrollo, o el Voluntariado, materias de competencia atribuida a la Comunidad Foral de Navarra.
+En la actualidad, las normas y reglamentos aplicables a la Cooperación Navarra se encuentran dispersos en diferentes textos legales, como son la Ley Foral de Subvenciones, la Ley Foral del Voluntariado, la Ley Foral del Régimen Tributario de las Fundaciones, la Ley Foral que regula el Régimen Tributario de las Organizaciones No Gubernamentales de Desarrollo, el Decreto Foral 95/1992, por el que se establece el régimen de subvenciones en materia de cooperación al desarrollo, o el Decreto Foral 222/1996, por el que se crea el Consejo Navarro de Cooperación al Desarrollo.
+En consecuencia con todo ello, se hace preciso contar con una norma que vertebre y unifique el conglomerado de principios, actores y medios de esta cooperación, objeto básico de esta Ley Foral.
+La misma comienza con un primer Capítulo dedicado a recoger los principios, objetivos y ámbito de aplicación; lo que configura la cooperación navarra dentro del modelo de cooperación descentralizada aludido en párrafos anteriores, y siendo de destacar los principios de par ticipación social tanto en Navarra como en los países y zonas con quienes se colabora, de respeto a la soberanía de los pueblos para determinar su desarrollo y de coherencia con el conjunto de políticas y acciones que afecten a las relaciones de Navarra con éstos; asimismo es destacable como objetivo principal la lucha contra la pobreza como fenómeno multidimensional, en el marco de la promoción del desarrollo humano y sostenible. Disposiciones generales que son complementadas con el contenido del Capítulo II sobre las prioridades geográficas y sectoriales y que tienen por caracterísitica principal sentar las bases para una planificación estratégica que se hará operativa a través de los planes y programas que se establecen en el articulado del Capítulo IV.
+Seguidamente, se aborda el marco institucional (Capítulo III), determinando las funciones de la Administración de la Comunidad Foral y de los Entes Locales de Navarra en esta materia. Así como del Consejo Navarro de Cooperación al Desarrollo, como órgano consultivo-asesor en esta materia con que se dota al Gobierno de Navarra, y mediante el cual se hace operativo el principio de participación social.
+El Capítulo IV está dedicado a la determinación de las áreas de acción (programas y proyectos de cooperación al desarrollo en sentido estricto, ayuda humanitaria de emergencia y acciones de educación y sensibilización de la sociedad navarra respecto a esta materia), y a los medios con los que pueden contar las Administraciones Públicas para hacer efectivas esas acciones. Asimimo, destaca en este Capítulo la presencia de los principios de eficiencia, control y planificación.
+Las condiciones para la actuación en el ámbito de la cooperación al desarrollo, motor activo de la cooperación navarra, están reguladas en el Capítulo V, que además enumera los diferentes agentes de la cooperación e instaura el registro de las ONG que posibilitará su acceso a los fondos públicos, y el régimen fiscal de éstas que queda asimilado al de las Fundaciones. Este Capítulo cuenta además con una serie de requisitos garantías para que otros agentes sociales diferentes a las ONGD y de las Administraciones Públicas se impliquen en acciones de cooperación al desarrollo.
+El Capítulo VI y la disposición adicional establecen las reglas referentes a los recursos humanos de la cooperación navarra, distinguiendo entre las diferentes situaciones administrativas o laborales del personal al servicio de las Administraciones Públicas y los recursos humanos de otras entidades, diferenciando en este caso entre el personal contratado, el cual se regirá por el Estatuto del Cooperante a que se refiere el artículo 38.2 de la Ley 23/1998, del personal voluntario. En este último supuesto, y cuando realice sus funciones directamente en proyectos de cooperación en países en desarrollo, la entidad a la que esté vinculado en Navarra deberá garantizarle una serie de derechos que expresamente se enuncian en el articulado de este Capítulo.
+Y finalmente, la Ley Foral se cierra con un último Capítulo que recoge las infracciones y sanciones aplicables a este ámbito de la acción social, que es la Cooperación Internacional al Desarrollo.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Esta Ley Foral tiene por objeto regular las acciones por las cuales la Comunidad Foral de Navarra asume la responsabilidad de cooperar con otros países para propiciar su desarrollo integral, contribuir a la mejora de las condiciones de vida de sus habitantes y aliviar y corregir las situaciones de pobreza, propiciando un desarrollo humano solidario y estable, que incluya mayores cuotas de libertad y un reparto más justo de los frutos del crecimiento económico.
+
+### Artículo 2
+
+Artículo 2. Objetivos de la cooperación.
+La cooperación regulada por esta Ley Foral tiene como objetivo fundamental la contribución al desarrollo de los países más empobrecidos y en particular:
+a) Apoyar a los países en desarrollo para que puedan alcanzar un desarrollo autosostenido y sostenible, respetuoso con el medio ambiente, dentro de un marco democrático, participativo y de respeto a los derechos humanos, y con la participación de las poblaciones afectadas en su propio proceso de desarrollo.
+b) Contribuir a un mayor equilibrio en las relaciones comerciales, políticas y estratégicas de la comunidad internacional, fomentando la justicia y la paz internacionales.
+c) Impulsar la participación ciudadana en las acciones de cooperación al desarrollo, apoyando las iniciativas que surgen desde la sociedad a favor de un mayor compromiso social con los pueblos de los países en desarrollo.
+d) Potenciar los recursos humanos de los países en desarrollo, reforzar sus estructuras productivas, fortalecer sus instituciones públicas, apoyar procesos de integración regional y favorecer el desarrollo no dependiente.
+e) Colaborar en la atención de las situaciones de emergencia, mediante ayuda humanitaria, que se presenten en los países en desarrollo.
+
+### Artículo 3
+
+Artículo 3. Principios rectores.
+La cooperación al desarrollo impulsada desde la Comunidad Foral de Navarra, expresión de la solidaridad de la sociedad navarra con los sectores sociales más desfavorecidos de los países y pueblos histórica y estructuralmente empobrecidos, se regirá por los siguientes principios:
+a) Se deberá respetar la plena soberanía de los pueblos.
+b) Se planificarán y realizarán las actuaciones de conformidad con los objetivos convenidos con los propios pueblos afectados.
+c) Se orientará a la satisfacción de las necesidades básicas de las personas y de las familias y se insertará de forma integral tanto en las acciones sociales, como en las culturales, económicas y técnicas, sean éstas emprendidas por los poderes públicos o por las organizaciones privadas.
+d) La Administración de la Comunidad Foral promoverá la participación de sectores significativos de la sociedad civil en la concepción y en la acción de cooperación al desarrollo.
+e) La cooperación al desarrollo promoverá las condiciones necesarias para que la igualdad entre las personas en todos los pueblos llegue a ser real y efectiva, respetando a la vez las características propias de cada pueblo para conseguir la integración plena de los individuos en su comunidad.
+f) La cooperación al desarrollo asumirá el compromiso con la democracia y apoyará a los pueblos empobrecidos para que se desarrollen en un marco sociopolítico participativo, basado en el ejercicio de todos los derechos humanos y libertades.
+g) Todas las acciones de cooperación al desarrollo no serán más que un elemento subsidiario y complementario de los propios esfuerzos de los pueblos con los que se coopere para conseguir así para éstos un desarrollo sostenible y autosostenido.
+h) Todas las Administraciones Públicas de Navarra con competencias en el ámbito de la cooperación al desarrollo colaborarán para conseguir el máximo aprovechamiento de los recursos públicos de que disponen en su conjunto.
+i) Las acciones en materia de Cooperación al Desarrollo estarán regidas por el principio de gratuidad, en el sentido de que la cooperación al desarrollo no estará orientada, ni directa ni indirectamente, a la recepción de una contraprestación económica por parte de las instituciones, organizaciones o empresas navarras.
+j) Deberá respetarse el principio de coherencia, de forma que todas las políticas generales y sectoriales que se desarrollan en Navarra estarán de acuerdo con los principios y objetivos de la cooperación al desarrollo.
+Se modifica la letra h) por el art. único.1 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+## CAPÍTULO II
+
+Prioridades geográficas y sectoriales
+
+### Artículo 4
+
+Artículo 4. Prioridades de la cooperación al desarrollo.
+La cooperación navarra al desarrollo debe articularse con arreglo a una doble prioridad, que deberá ser concretada en los planes y programas a los que se hace referencia en los artículos 17 y 18 de esta Ley Foral:
+a) Geográfica, definida por las áreas y países que de manera preferente serán objeto de la cooperación navarra.
+b) Sectorial, representada por los ámbitos de actuación en los que aquélla se desarrollará.
+
+### Artículo 5
+
+Artículo 5. Prioridades geográficas.
+La cooperación navarra asume una concepción mundialista de la misma, aunque se priorizarán actuaciones en los países y regiones con los más altos índices de pobreza.
+
+### Artículo 6
+
+Artículo 6. Prioridades sectoriales.
+La cooperación articulada desde la Comunidad Foral se orientará principalmente hacia los siguientes ámbitos de actuación:
+a) Programas y proyectos al desarrollo humano básico, como seguridad alimentaria, educación básica y capacitación de recursos humanos, reciclaje, formación y especialización de profesionales locales, atención sanitaria, suministro y potabilización de agua, y otros.
+b) Estrategias para reducir la pobreza, promover oportunidades de empleo productivo y generación de excedentes.
+c) Actuaciones en favor de la infancia y de otros colectivos especialmente vulnerables.
+d) Programas y proyectos que favorezcan el desarrollo propio de grupos indígenas autóctonos.
+e) Acciones tendentes a la promoción de los derechos humanos, a la creación y fortalecimiento de sistemas democráticos de los países en desarrollo, el apoyo a las instituciones descentralizadas y fortalecimiento de la sociedad civil.
+En todos los casos, se priorizarán las acciones que tomen en consideración la situación del género en el desarrollo y la igualdad entre mujeres y hombres, valorándose especialmente aquellos proyectos implementados por las propias mujeres y sus organizaciones, tendentes a la satisfacción de sus necesidades básicas y estratégicas, con el objetivo último de favorecer el denominado empoderamiento de las mujeres.
+Igualmente se priorizarán en todos los casos, las acciones que tomen en consideración el medio ambiente y la conservación y utilización sostenible de los recursos naturales.
+
+### Artículo 7
+
+Artículo 7. Educación para el desarrollo y sensibilización social.
+1. Se entiende por educación para el desarrollo y sensibilización social el conjunto de actividades que favorezcan una mejor percepción de la sociedad hacia los problemas que afectan a los países en desarrollo y que estimulen la solidaridad y cooperación activas con los mismos, por vía de campañas de divulgación, servicios de información, programas formativos, apoyo a las iniciativas a favor de un comercio justo y consumo responsable respecto a los productos procedentes de los países en desarrollo.
+2. Las Administraciones Públicas de Navarra incluirán en sus programas de cooperación al desarrollo la realización, directamente o en colaboración con las organizaciones no gubernamentales para el desarrollo, de acciones de educación para el desarrollo y sensibilización social.
+
+## CAPÍTULO III
+
+Marco Institucional
+
+### Artículo 8
+
+Artículo 8. Gobierno de Navarra.
+El Gobierno de Navarra establecerá cada cuatro años las líneas generales y directrices básicas de su política de cooperación al desarrollo, así como la concreción de los objetivos y prioridades para la misma fijados en esta Ley. Todo ello, en los términos establecidos en el artículo 17 de la presente Ley Foral.
+El Departamento competente, de conformidad con las directrices del Gobierno de Navarra, programará y ejecutará dicha política de cooperación, con el auxilio, según lo dispuesto en los artículos 10 a 12 de esta Ley Foral, del Consejo Navarro de Cooperación al Desarrollo.
+
+### Artículo 9
+
+Artículo 9. Las Entidades Locales de Navarra.
+Las Entidades Locales de Navarra en el ejercicio de sus competencias, podrán realizar las acciones de cooperación al desarrollo que consideren oportunas, respetando los principios rectores, las prioridades y los objetivos de la cooperación expresados en los Capítulos I y II de la presente Ley Foral. Facultativamente tenderán al fortalecimiento municipal en los países en desarrollo.
+
+### Artículo 10
+
+Artículo 10. Consejo Navarro de Cooperación al Desarrollo.
+El Consejo Navarro de Cooperación al Desarrollo es el órgano colegiado consultivo de la Administración y de participación en la definición de la política de cooperación internacional para el desarrollo por parte de la Comunidad Foral de Navarra.
+Se modifica por el art. único.2 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Artículo 11
+
+Artículo 11. Entidades u órganos con representación en el Consejo.
+1. El Consejo estará presidido por el Consejero o Consejera titular del Departamento competente y tendrán derecho a representación en el mismo, la Administración de la Comunidad Foral de Navarra que, en ningún caso, podrá ser mayoritaria sobre el total de componentes; los Grupos Parlamentarios a través de representantes que ostenten o no la condición de miembros del Parlamento de Navarra; la Federación Navarra de Municipios y Concejos; las Universidades radicadas en Navarra; las Centrales Sindicales y Organizaciones Empresariales mayoritarias de la Comunidad Foral y las Organizaciones No Gubernamentales de Desarrollo de Navarra.
+En el caso de las Organizaciones No Gubernamentales de Desarrollo de Navarra su representación se elegirá en el seno de la Coordinadora de Organizaciones No Gubernamentales de Desarrollo de Navarra.
+En el nombramiento de los miembros del Consejo se promoverá la representación paritaria de hombres y mujeres.
+2. El Consejo contará con una Vicepresidencia, elegida por el propio Consejo de entre los miembros no pertenecientes a la representación de la Administración de la Comunidad Foral de Navarra.
+3. Dentro del Consejo se creará una Comisión Permanente. También podrán crearse comisiones o grupos de trabajo.
+4. La composición, organización y régimen de funcionamiento del Consejo se determinará reglamentariamente previa audiencia de las organizaciones que lo conforman.
+5. La composición, organización y régimen de funcionamiento de la Comisión Permanente y, en su caso, de las comisiones y de los grupos de trabajo se determinarán mediante acuerdo del Consejo a propuesta de la Presidencia.
+6. El Consejo podrá reunirse a petición de la representación de las entidades sociales conforme se determine reglamentariamente.
+7. El Consejo podrá solicitar el asesoramiento de expertos en materia de cooperación al desarrollo.
+Se modifica por el art. único.3 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Artículo 12
+
+Artículo 12. Funciones básicas del Consejo.
+Serán funciones del Consejo las siguientes:
+a) Asesorar y asistir a las Administraciones Públicas de Navarra en materia de cooperación internacional al desarrollo.
+b) Informar los planes y programas de cooperación al desarrollo, con carácter previo a su remisión al Gobierno de Navarra. Informar y aprobar el Plan Cuatrienal.
+c) Informar previamente los anteproyectos de leyes que afecten a la cooperación al desarrollo.
+d) Colaborar en el seguimiento periódico y evaluación tanto de la ejecución de los proyectos como del nivel de cumplimiento global de la ayuda oficial al desarrollo.
+e) Proponer e impulsar iniciativas de sensibilización y educación para el desarrollo.
+f) Impulsar la colaboración entre las distintas Administraciones Públicas y los distintos agentes sociales implicados en la cooperación al desarrollo en la Comunidad Foral de Navarra.
+g) Emitir informes para los distintos Departamentos de la Administración de la Comunidad Foral de Navarra, a instancia de éstos, sobre la coherencia de otras políticas del Gobierno de Navarra, que afecten a sus relaciones con países en desarrollo, con los objetivos de la cooperación internacional al desarrollo.
+h) Cuantas otras funciones le encomiende el Gobierno de Navarra en materia de cooperación al desarrollo o le atribuyan las leyes.
+
+## CAPÍTULO IV
+
+Marco Instrumental
+Se modifica el título por el art. único.4 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Artículo 13
+
+Artículo 13. Modalidades de Cooperación al Desarrollo.
+Las Administraciones Públicas de Navarra actuarán en el ámbito de la cooperación al desarrollo a través de las siguientes modalidades:
+a) Cooperación económica: disposición de fondos económicos con la finalidad de fomentar programas y proyectos de desarrollo humano, integral, participativo y sostenible, en sus dimensiones sociocultural, institucional, económico-financiera, científico-técnica, educativa y medioambiental, donde se potencie el fortalecimiento de la sociedad civil y se respeten los Derechos Humanos.
+b) Cooperación técnica: colaboración en proyectos que promuevan el refuerzo de las capacidades necesarias para la consecución de los Objetivos de Desarrollo del Milenio, de personas y organizaciones implicadas directa o indirectamente en el desarrollo endógeno de los países empobrecidos, mediante el asesoramiento técnico, la formación y capacitación y la investigación aplicada, y todo ello mediante el intercambio y transferencia de conocimiento entre profesionales y expertos de Navarra y de los países socios.
+c) Ayuda humanitaria: apoyo económico a proyectos orientados a la asistencia y rehabilitación de poblaciones en situación de emergencia o de grave e inminente riesgo, bien a consecuencia de catástrofes naturales o de conflictos de origen humano, que además tiene como finalidad preservar la vida de las poblaciones vulnerables en dichas circunstancias y como objetivos inseparables la asistencia, la protección y la prevención.
+d) Educación para el desarrollo: realización de programas y proyectos de educación al desarrollo y acciones y campañas de sensibilización de la opinión pública y de la sociedad navarra en su conjunto, tendentes a la comprensión de las realidades de los países en desarrollo y a la promoción de la solidaridad. Incluye además las acciones de incidencia y compromiso político y social, tanto de las Instituciones Públicas como de la sociedad civil y las acciones encaminadas a la promoción de las conductas éticas y responsables.
+Se modifica por el art. único.5 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Artículo 14
+
+Artículo 14. Medios de actuación.
+Para hacer efectivas las modalidades de cooperación al desarrollo descritas en el artículo anterior, las Administraciones Públicas de la Comunidad Foral de Navarra podrán contar con los siguientes medios de actuación, que podrán ser desarrollados reglamentariamente:
+a) La disposición de fondos públicos para fomentar las acciones de cooperación al desarrollo.
+b) La cooperación técnica de las Administraciones Públicas de Navarra, bien a título individual bien en colaboración con la cooperación bilateral española y la cooperación multilateral.
+c) Declaraciones institucionales y apoyo a iniciativas ciudadanas que promuevan un desarrollo global, sostenido y armónico.
+Se modifica por el art. único.6 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Artículo 15
+
+Artículo 15. Eficiencia y Equidad.
+1. Las subvenciones en materia de cooperación internacional al desarrollo se regirán además de por los principios recogidos en el artículo 5.1 de la Ley Foral 11/2005, de 9 de noviembre, de subvenciones, por los principios de equidad y redistribución de la riqueza, de conformidad con su naturaleza solidaria a la que hace referencia el artículo 3 de esta Ley Foral.
+2. Para la mejor consecución de los fines y la mayor eficiencia de los recursos destinados, las Administraciones Públicas de Navarra realizarán preferentemente actuaciones en régimen de cofinanciación, podrán constituir fondos con aportaciones de varias de ellas para programas o proyectos comunes y posibilitarán el intercambio de información entre los distintos agentes que actúan en el ámbito de la cooperación al desarrollo.
+Se modifica por el art. único.7 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Artículo 16
+
+Artículo 16. Subvenciones de cooperación al desarrollo.
+1. Todas las subvenciones de cooperación al desarrollo se adecuarán a lo dispuesto en la Ley Foral 11/2005, de 9 de noviembre, de subvenciones, con las siguientes especialidades:
+a) Salvo previsión expresa en contrario en las bases reguladores las subvenciones se abonarán anticipadamente.
+b) Para los casos de anticipos de subvención igual o superiores a 1.000.000 de euros anuales se deberá tener la calificación necesaria o, en caso contrario, se podrá exigir el establecimiento de garantías. Para cantidades inferiores no será necesario el establecimiento de garantías.
+c) A efectos del cómputo de los plazos de ejecución de las acciones subvencionadas se tendrá por fecha de inicio la de la resolución de concesión de la subvención.
+Los plazos de ejecución de dichas acciones podrán extenderse hasta el doble del tiempo inicialmente previsto en los términos que se fijen en las bases reguladoras.
+d) Cuando las actividades o intervenciones hayan sido cofinanciadas además de con la subvención del Gobierno de Navarra con fondos o recursos propios o privados u otras subvenciones públicas, deberá acreditarse en la justificación el importe, procedencia y aplicación de tales fondos a las actividades subvencionadas mediante certificado emitido por la propia entidad, en el caso de fondos privados, o mediante copia de la resolución favorable en la que se especifique cuantía y proyecto, para el caso de otras subvenciones públicas.
+e) En los casos en que el socio local sea un Organismo Internacional, la rendición de cuentas por parte de éstos será la establecida legalmente en los acuerdos o tratados internacionales suscritos por España.
+f) En la acreditación documental de las entidades locales de los países destinatarios de las ayudas, se respetará el principio de reciprocidad, atendiendo a la realidad de medios físicos y materiales de las mismas. En ningún caso se exigirá más acreditación que la requerida a una Administración Pública española, salvo recomendación del Ministerio de Asuntos Exteriores.
+g) Las bases de las convocatorias podrán establecer la posibilidad de aceptar como documento justificativo la presentación de auditorías contables, siempre que éstas hayan sido realizadas por Censores Jurados de Cuentas.
+En el supuesto de que la revisión de las cuentas justificativas por parte de un auditor de cuentas se produzca en el extranjero, podrá ser realizada por auditores ejercientes en el país donde se lleve a cabo, siempre que en dicho país exista un régimen de habilitación para el ejercicio de la profesión.
+De no existir un sistema de habilitación para el ejercicio de la profesión de auditor de cuentas en el país, la revisión prevista en este apartado podrá realizarse por un auditor establecido en el mismo, siempre que su designación por el beneficiario, sea ratificada por el órgano de la Administración concedente con arreglo a criterios técnicos que garanticen la adecuada calidad.
+2. En el caso de que exista, por cualquier circunstancia, un remanente sin asignación del fondo de cooperación consignado en los Presupuestos Generales de Navarra, se aprobará una nueva convocatoria urgente de subvenciones, de acuerdo con lo dispuesto en esta Ley Foral.
+Si por cuestiones de plazos u otras circunstancias no fuera posible realizar una nueva convocatoria, la cantidad remanente no asignada será gestionada directamente por el Servicio de Cooperación al Desarrollo.
+3. Las bases de las convocatorias deberán definir los plazos máximos para la valoración, resolución, informe final y pago de las subvenciones concedidas. Dichos procesos y plazos deberán ser adecuados y estar adaptados a las distintas realidades y a los diferentes instrumentos de cooperación existentes.
+4. En el caso de incumplimiento de los plazos de resolución y pago establecidos en la convocatoria, la Administración deberá ampliar la cantidad concedida hasta incluir el coste de los avales bancarios que las entidades hayan tenido que satisfacer.
+5. La Administración de la Comunidad Foral de Navarra establecerá los instrumentos de control y evaluación que garanticen la legalidad y eficacia en el uso de sus fondos públicos, sin perjuicio de las competencias atribuidas legalmente a la Cámara de Comptos.
+Se modifica por el art. único.8 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+ Téngase en cuenta que, para el año 2011, se exceptúa la aplicación del apartado 2, según establece el art. 8 del Decreto-ley Foral 1/2011, de 6 de octubre. Ref. BOE-A-2011-20377
+
+### Artículo 17
+
+Artículo 17. Planificación.
+1. El Gobierno de Navarra aprobará Planes Directores plurianuales que definirán dentro de las normas establecidas en esta Ley Foral, las prioridades y objetivos de las acciones de cooperación al desarrollo. Dichos planes serán remitidos para su debate y dictamen al Parlamento de Navarra.
+2. El Parlamento de Navarra conocerá anualmente, en la forma y modo que se determine y a propuesta e iniciativa del Gobierno, la política de cooperación al desarrollo. A tal efecto, el Gobierno de Navarra remitirá a la Cámara, posteriormente para su aprobación el Plan Anual al que se refiere el artículo siguiente.
+3. La comisión competente del Parlamento de Navarra será informada por el Gobierno del nivel de eje cución y grado de cumplimiento de los programas, proyectos y acciones comprendidas en el Plan Director y el Plan anual, y recibirá cuenta de la evaluación de la cooperación, así como de los resultados que refleje la Memoria de Gestión del Programa Anual del ejercicio precedente.
+
+### Artículo 18
+
+Artículo 18. Programa anual de actuación.
+Con carácter anual el Departamento competente elaborará un Programa de Actuación de desarrollo de los Planes Cuatrienales de Actuación, así como una Memoria de Gestión del Programa Anual realizado, que deberán ser aprobados por el Gobierno de Navarra.
+
+## CAPÍTULO V
+
+Agentes de la Cooperación
+
+### Artículo 19
+
+Artículo 19. Agentes de la Cooperación.
+A los efectos de la presente Ley Foral se consideran agentes de la cooperación los siguientes:
+– La Administración de la Comunidad Foral de Navarra.
+– Las Administraciones Locales de Navarra.
+– Las Organizaciones No Gubernamentales de Desarrollo, es decir, aquellas entidades privadas, legalmente constituidas y sin ánimo de lucro, que tengan entre sus fines o como objeto expreso, según sus propios estatutos o documento equivalente, la realización de actividades relacionadas con los ámbitos de actuación de cooperación internacional para el desarrollo, aludidos en el artículo sexto de esta Ley Foral. Estas organizaciones se constituyen en interlocutores permanentes y preferentes de la Comunidad Foral de Navarra en materia de cooperación internacional para el desarrollo, interlocución que se hace operativa en lo dispuesto en el artículo 11 de esta Ley Foral.
+– Las entidades y personas jurídicas entre cuyos fines expresos se encuentre la cooperación al desarrollo, aunque tengan ánimo de lucro, pero no podrán aplicar éste en las actividades de cooperación al desarrollo de conformidad con el principio de gratuidad establecido en el artículo 3 apartado i) de esta Ley Foral.
+– Los socios o contrapartes locales de los países en desarrollo con los que se colabore.
+Se modifica por el art. único.9 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Artículo 20
+
+Artículo 20. Condiciones para actuar en el ámbito de la cooperación al desarrollo en Navarra.
+Los Agentes de Cooperación, exclusión hecha de las entidades de personificación jurídico pública, así como las entidades privadas que quieran actuar en el ámbito de la cooperación al desarrollo en Navarra deberán reunir las siguientes condiciones:
+a) Estar dotadas de personalidad jurídica conforme a las leyes vigentes.
+b) Tener sede social o delegación permanente en la Comunidad Foral de Navarra que le permita ser el centro efectivo de las decisiones y gestiones relativas a las actuaciones pautadas en el marco de esta Ley Foral.
+c) Carecer de ánimo de lucro. En el caso de entidades privadas lucrativas de tipo empresarial, gremial o equivalentes, este requisito se entenderá en el sentido de no apropiarse del lucro o beneficio empresarial obtenido a través de las acciones de cooperación al desarrollo financiadas al amparo de esta Ley Foral. En cualquier caso, todo ingreso obtenido en dichas actuaciones deberá ser contabilizado con total transparencia y reinvertido en actividades de desarrollo, ayuda humanitaria o educación para el desarrollo de las poblaciones de referencia de dichas acciones, con el acuerdo expreso de la Administración correspondiente.
+d) Contar con un Socio o Contraparte Local en la zona donde se vayan a realizar los proyectos.
+A los efectos de esta Ley Foral, se entenderá por socio o contraparte local aquella entidad, con personalidad jurídica de conformidad con la legislación del país beneficiario, que ejecute materialmente el proyecto o programa. Dicha personalidad jurídica se entenderá como requisito exclusivamente en aquellos países en que se permita la legalización de la contraparte.
+e) Al efecto de obtener fondos públicos para sus programas o proyectos, deberán cumplir los requisitos que se exijan para su obtención en las bases reguladoras de la concesión de aquéllos.
+
+### Artículo 21
+
+Artículo 21. Registro de Organizaciones No Gubernamentales de Desarrollo en Navarra.
+La inscripción en el Registro de Organizaciones No Gubernamentales del Ministerio competente en materia de Cooperación Internacional al Desarrollo constituye una condición indispensable para recibir de las Administraciones Públicas ayudas o subvenciones computables como ayuda oficial al desarrollo.
+Se modifica por el art. único.10 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Artículo 22
+
+Artículo 22. Régimen fiscal de las Organizaciones No Gubernamentales de Desarrollo y de las aportaciones a las mismas.
+(Derogado).
+Se deroga por la disposición derogatoria única.1.b) del Decreto Foral Legislativo 2/2023, de 24 de mayo. Ref. BOE-A-2023-16401#dd
+ Se modifica por el art. único.11 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+## CAPÍTULO VI
+
+Personal de la cooperación al desarrollo
+
+### Artículo 23
+
+Artículo 23. Disposiciones generales.
+El cumplimiento de los fines y la gestión de los programas de cooperación al desarrollo podrán realizarse con personal al servicio de las Administraciones Públicas o al de cualquiera de las entidades privadas que actúan en el ámbito de la cooperación navarra al desarrollo.
+
+### Artículo 24
+
+Artículo 24. Personal de las Administraciones Públicas.
+1. El personal al servicio de las Administraciones Públicas de Navarra, podrá participar en tareas de cooperación al desarrollo bien en programas o proyectos propios de éstas, bien en actividades de Organizaciones No Gubernamentales de Desarrollo, de Organismos Internacionales o de otras Administraciones Públicas.
+2. Cuando dicho personal participe en programas y proyectos propios de su respectiva Administración Pública, se le conferirá una comisión de servicios de carácter temporal, manteniéndose en la situación de servicio activo a todos los efectos, siempre que ello no exija la sustitución en su puesto de trabajo.
+Los costes de desplazamiento, manutención y de material derivados de esta participación se sufragarán con cargo a las partidas presupuestarias destinadas a la cooperación internacional al desarrollo de la Administración correspondiente.
+La Administración Pública respectiva dotará a este personal de los seguros complementarios que las circunstancias aconsejen con cargo al presupuesto de dichos programas o proyectos.
+3. Cuando dicho personal participe en proyectos de Organizaciones No Gubernamentales de Desarrollo financiados con fondos públicos de las Administraciones Públicas de Navarra o en proyectos de Organismos Internacionales o de otras Administraciones Públicas, en calidad de personal voluntario o cooperante, en el caso de que el período de esta participación sea superior a un mes por año, exija o no la sustitución en su puesto de trabajo, pasará a la situación de servicios especiales, con los efectos establecidos para dicha situación administrativa en la normativa que resulte de aplicación, y en el caso de que sea igual o inferior a un mes por año se le conferirá una comisión de servicios de carácter temporal siempre que las necesidades organizativas lo permitan, debiendo estar motivada, en su caso, su negativa.
+Los costes de personal derivados de dichas situaciones deberán ser asumidos por el Departamento al que pertenezca dicho personal y podrán computarse como ayudas oficiales al desarrollo del Gobierno de Navarra definidas por organismos internacionales.
+Se modifica por el art. único.12 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Artículo 25
+
+Artículo 25. Personal contratado al servicio de otras entidades: Cooperantes.
+Los derechos y obligaciones de los cooperantes, así como su régimen de incompatibilidades, formación, homologación de los servicios que prestan, modalidades de previsión social y demás aspectos de su régimen jurídico serán los fijados en el Estatuto al que hace referencia el artículo 38.2 de la Ley 23/1998, de 7 de julio, de Cooperación Internacional para el Desarrollo.
+
+### Artículo 26
+
+Artículo 26. Personal voluntario al servicio de otras entidades.
+Se entienden por personas voluntarias de cooperación al desarrollo, las personas físicas que se comprometan libremente a realizar actividades de interés general, con carácter altruista y solidario, integrados en organizaciones sin ánimo de lucro, que tengan personalidad jurídica propia y participen en la gestión o ejecución de programas concretos de la cooperación al desarrollo.
+La condición de persona voluntaria será compatible, en su caso, con la de socio en la misma organización.
+
+### Artículo 27
+
+Artículo 27. Personal voluntario expatriado.
+Las Organizaciones No Gubernamentales de Desarrollo de Navarra, con relación a las personas voluntarias integradas en las mismas y que presten sus servicios en el exterior, están obligadas a respetar los siguientes derechos, que deberán contemplarse como contenido mínimo del correspondiente acuerdo o compromiso formal que les vincule con las mismas:
+a) Ser dotadas de los recursos necesarios para hacer frente a las necesidades de subsistencia y alojamiento en el país de destino, los gastos de desplazamiento y de los medios materiales necesarios para el cumplimiento de la actividad encomendada.
+b) A un seguro de asistencia en favor de las mismas y de los familiares directos que con ella se desplacen, que en todo caso cubra los riesgos de enfermedad y accidente para el período de tiempo de su estancia en el extranjero, los gastos de repatriación, así como la responsabilidad civil por daños sufridos o causados a terceros.
+c) Disponer de una acreditación identificativa de su condición de persona voluntaria.
+d) Un período de formación, si fuera necesario.
+
+### Artículo 28
+
+Artículo 28. Disposiciones comunes para el personal voluntario.
+Las personas voluntarias de cooperación al desarrollo deberán ser informadas, por la organización a la que estén vinculados, de los objetivos de su actuación, el marco en el que se produce, los derechos y deberes, así como de la obligación de respetar las leyes del país de destino.
+En lo no previsto en los artículos anteriores, serán de aplicación al voluntariado de la cooperación al desarrollo lo dispuesto en la Ley Foral 2/1998, de 27 de marzo, del Voluntariado.
+
+## CAPÍTULO VII
+
+Infracciones y sanciones
+
+### Artículo 29
+
+Artículo 29. Infracciones en materia de cooperación internacional al desarrollo.
+1. Son infracciones en materia de cooperación internacional al desarrollo las acciones u omisiones que contravengan lo dispuesto en la presente Ley Foral y en las normas para su desarrollo.
+2. Las infracciones se clasifican en leves, graves y muy graves, atendiendo a la naturaleza, entidad y repercusión de las mismas.
+Se modifica el título y el apartado 1 por el art. único.13 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Artículo 30
+
+Artículo 30. Infracciones leves.
+Son infracciones leves:
+a) No proporcionar al personal voluntario expatriado la acreditación identificativa de la condición de persona voluntaria.
+b) No impartir al personal voluntario expatriado la formación necesaria.
+c) No dotar al personal voluntario expatriado con los medios materiales necesarios para el cumplimiento de la actividad de cooperación encomendada.
+d) No firmar el acuerdo o compromiso formal, a que se refiere el artículo 27 de la presente Ley Foral, con el contenido mínimo fijado en dicho artículo.
+e) Cualesquiera otras acciones u omisiones que vulneren lo establecido en la presente Ley Foral o disposiciones de desarrollo y no constituyan infracción grave o muy grave.
+
+### Artículo 31
+
+Artículo 31. Infracciones graves.
+Son infracciones graves:
+a) No dotar al personal voluntario expatriado de los recursos necesarios para hacer frente a las necesidades de subsistencia y alojamiento en el país de destino y a los gastos de desplazamiento.
+b) No asegurar al personal voluntario expatriado en los términos establecidos en el apartado b) del artículo 27 de esta Ley Foral.
+c) Impedir u obstruir la labor de control y evaluación de la Administración.
+d) La acumulación de tres o más faltas leves de la misma naturaleza.
+
+### Artículo 32
+
+Artículo 32. Infracciones muy graves.
+Son infracciones muy graves:
+a) La acumulación de tres o más faltas graves de la misma naturaleza.
+b) Cualquier acción u omisión que genere un riesgo o daño grave para la integridad física o para la salud de los cooperantes o voluntarios expatriados.
+
+### Artículo 33
+
+Artículo 33. Sanciones.
+1. Las infracciones en materia de cooperación internacional al desarrollo serán sancionadas de acuerdo con lo siguiente:
+1.1 Las infracciones muy graves lo serán con multa de entre 10.000 y 150.000 euros. La autoridad sancionadora competente podrá acordar, además, la imposición de la sanción de pérdida durante el plazo de tres a cinco años del derecho a obtener subvenciones para la financiación de actividades relativas al artículo 6 de esta Ley Foral.
+1.2 Las infracciones graves lo serán con multa de 6.000 a 9.999 euros. La autoridad sancionadora competente podrá acordar además la imposición de la sanción de pérdida durante el plazo de uno a tres años del derecho a obtener subvenciones para la financiación de actividades relativas al artículo 6 de esta Ley Foral.
+1.3 Las Infracciones leves lo serán con multa de 600 a 5.999 euros y apercibimiento.
+Se modifica por el art. único.14 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Artículo 34
+
+Artículo 34. Prescripción.
+Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses, a contar desde el día en que la infracción se hubiera cometido.
+Las sanciones por infracción muy grave prescribirán a los tres años, las impuestas por infracciones graves a los dos años y las impuestas por infracciones leves al año desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+
+### Artículo 35
+
+Artículo 35. Órganos competentes para el ejercicio de la potestad sancionadora.
+Son órganos competentes para iniciar el procedimiento sancionador los que en cada momento tengan atribuida las competencias en materia de cooperación internacional al desarrollo.
+Será competente para la resolución del procedimiento sancionador en las infracciones leves y graves, el titular del Departamento que en cada momento ejerza las competencias en materia de cooperación internacional al desarrollo.
+La resolución en los supuestos de infracción muy grave corresponderá al Gobierno de Navarra.
+
+### Artículo 36
+
+Artículo 36. Procedimiento sancionador.
+El procedimiento sancionador será el dispuesto en el Título V en la Ley Foral 15/2004, de 3 de diciembre, de la Administración de la Comunidad Foral de Navarra.
+Se modifica por el art. único.15 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se modifica la letra i) del apartado 1 del artículo 24 del Texto refundido del Estatuto del Personal al servicio de las Administraciones Públicas de Navarra, cuya nueva redacción será la siguiente:
+«i) Cuando sean autorizados para realizar una misión en Organismos Internacionales, Gobiernos o Entidades públicas extranjeras, en programas de cooperación internacional o al servicio de una Organización No Gubernamental de Desarrollo sin fines lucrativos, reconocida legalmente, en algún proyecto o programa cofinanciado por la Administración respectiva.»
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Ayudas excepcionales y preferentes.
+Cuando concurran circunstancias o situaciones excepcionales, derivadas de catástrofes de cualquier tipo, el Gobierno de Navarra tendrá singularmente en cuenta estas circunstancias a la hora de gestionar las ayudas destinadas a la cooperación para el desarrollo y la promoción de proyectos, que contribuyan a la reconstrucción del correspondiente país.
+Se modifica por el art. único.16 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+El primer plan de los mencionados en el artículo 17 será elaborado por el Gobierno de Navarra en el plazo máximo de un año a partir de la entrada en vigor de esta Ley Foral.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno de Navarra a dictar las disposiciones administrativas necesarias para el desarrollo y ejecución de esta Ley Foral.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se autoriza al Consejero competente en materia de Cooperación al Desarrollo, oído el Consejo Navarro de Cooperación al Desarrollo, para la actualización periódica de las cuantías económicas fijadas en esta Ley Foral.
+Se modifica por el art. único.17 de la Ley Foral 4/2010, de 6 de abril. Ref. BOE-A-2010-8389
+
+### Disposición final tercera
+
+Disposición final tercera.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley Foral.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+Esta Ley Foral entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de Navarra».
+
+### [firma]
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S.M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 9 de marzo de 2001.
+MIGUEL SANZ SESMA,
+Presidente

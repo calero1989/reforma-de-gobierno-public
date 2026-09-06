@@ -1,0 +1,1178 @@
+# Ley 3/2007, de 9 de abril, de prevención y defensa contra los incendios forestales de Galicia.
+
+- Identificador BOE: `BOE-A-2007-10022`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-10022
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el BOE núm. 137, de 8 de junio de 2007. Ref. BOE-A-2007-11326.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+1
+El medio rural gallego –e integrado en el mismo el monte– constituye un patrimonio esencial para el desarrollo sostenible de un país, especialmente en Galicia, donde los terrenos de monte constituyen más del 65% de su superficie y donde integrados con ellos hay 315 municipios con 31.550 núcleos de población, más del 90% de los mismos con una población inferior a los 500 habitantes.
+El monte desempeña una triple funcionalidad: social, ambiental y económica. Los recursos que aporta benefician a toda la sociedad, lo que obliga a las administraciones públicas a velar por su conservación, protección, regeneración y mejora de sus aprovechamientos. El artículo 4 de la Ley 43/2003, de 21 de noviembre, de montes, contempla la función social de los montes vinculada a la producción de recursos naturales y servicios ambientales. Además de ello, en Galicia tiene una especial relevancia el aspecto económico de los montes, al tener las actividades desarrolladas en los mismos un carácter estratégico para el desarrollo del medio rural, teniendo en cuenta que aproximadamente el 50% de la producción forestal del Estado se extrae de los montes gallegos, y ser una importante base territorial para el desarrollo de la ganadería extensiva.
+Pero el importante valor que el monte desempeña para nuestra sociedad en su conjunto viene siendo amenazado por la propagación de incendios forestales, afectando a su riqueza ambiental y paisajística y a las actividades agroforestales que se desarrollan en el mismo.
+Las causas que originan los fuegos forestales son de diversa índole, existiendo causas estructurales que constituyen factores subyacentes, aunque ninguna de ellas por sí sola constituye una causa inmediata de los incendios forestales. Una parte de las causas estructurales que inciden en la proliferación de incendios forestales está relacionada con la situación de abandono y progresivo despoblamiento que a lo largo de los últimos decenios ha venido produciéndose en el espacio rural gallego, que ha provocado una abrupta desagrarización y abandono de tierras cultivadas en muchas comarcas rurales de Galicia; con el cambio de usos del monte; con la ausencia de ordenación de los usos del territorio desde el punto de vista agrario, forestal e incluso urbano; con los descuidos o negligencias en el uso del fuego en prácticas de gestión agroforestal; con la existencia de conflictos sociales arraigados en determinadas zonas que se dirimen prendiendo fuego al monte; y también con el incremento de la delincuencia incendiaria, agravada por la falta de un rechazo social contundente a la misma.
+Esta situación debe hacernos conscientes de que los incendios forestales en el medio rural constituyen una grave amenaza para cualquier política seria de desarrollo rural, además de comprometer la sostenibilidad económica y social de Galicia.
+La política de defensa del medio rural contra los incendios, por su vital importancia para el país, no puede ser implementada de forma aislada, sino integrándose en un contexto más amplio de planificación del territorio y de desarrollo rural, comprometiendo a todas las administraciones, las personas propietarias de terrenos forestales, los agricultores y agricultoras, las comunidades de montes vecinales en mano común, la sociedad del medio rural y en general el conjunto de la ciudadanía.
+Los terrenos forestales y sus zonas de influencia tienen una configuración específica que dificulta su protección contra los incendios forestales; entre otras, estas características son la fragmentación de la propiedad, el desequilibrio entre zonas, el abandono de la agricultura, la ganadería extensiva sin control y la progresiva transformación de las parcelas agrícolas fragmentadas en terrenos de monte, lo que ha dado lugar a un progresivo desorden del territorio incrementando la amenaza derivada de un incendio forestal.
+2
+A lo largo de los últimos años hemos venido asistiendo además a una creciente proliferación de incendios en la interfaz urbano-forestal, esto es, en las áreas que abarcan el perímetro común entre los terrenos forestales y los núcleos de población habitados.
+Además de las políticas y medidas de organización territorial de carácter estructural que ayuden a evitar esta situación, es necesario adoptar a corto plazo actuaciones que controlen la existencia de biomasa vegetal con alto potencial combustible en las cercanías de los núcleos de población, asegurando su retirada con anterioridad a la época de peligro de incendios, bien a través de la obligación de las personas titulares bien por medio de la ejecución subsidiaria, a través de procedimientos ágiles, por parte de las administraciones públicas.
+En consecuencia, la desorganización del territorio obliga a tener que asumir a corto y medio plazo la estrategia de defensa del rural contra los incendios, que pasa por la defensa primordial de las personas y los bienes junto a la defensa de los recursos forestales.
+3
+Es necesario dotar a Galicia de una nueva norma que permita establecer las medidas preventivas que faciliten la lucha contra el fuego y que sirva asimismo para la puesta en valor de la potencialidad productiva, ecológica y social del monte gallego como base del desarrollo sostenible del medio rural de nuestro país.
+El marco normativo general de referencia en materia de prevención e incendios forestales viene determinado por diversa normativa de ámbito comunitario y estatal que conviene desarrollar y adaptar a nuestra realidad, teniendo en cuenta las competencias previstas en los artículos 27.10.º del Estatuto de autonomía de Galicia y 148.1.º 8 y 149.1.º 23 de la Constitución de 1978.
+Los artículos 43, 44.3.º, 48 y 50 de la Ley 43/2003, de 21 de noviembre, de montes, modificada por la Ley 10/2006, de 28 de abril, atribuyen a las comunidades autónomas facultades para desarrollar aspectos de la defensa contra incendios forestales, que hasta ahora han sido aplicados en Galicia por medio de reglamentos pero no con normas de rango de ley, por lo que conviene superar esa situación, dotándonos de ese marco regulador legislativo que contribuya a fortalecer la seguridad jurídica de las administraciones públicas gallegas y de los ciudadanos en la prevención y defensa contra los incendios forestales.
+Por otro lado, con la entrada en vigor de la Ley 43/2003, de 21 de noviembre, de montes, se ha recopilado en su título VII el régimen sancionador en esa materia, sin perjuicio de lo que disponga al respecto la legislación autonómica. No obstante, la norma antes citada no establece atribuciones competenciales concretas para la imposición de las sanciones y medidas que contempla, limitándose en su artículo 73.1.º a contener una indicación reconociendo la facultad a los órganos de la comunidad autónoma que tengan atribuida la competencia en cada caso. Teniendo en cuenta esta circunstancia, se hace necesario realizar el desarrollo de esta normativa básica, tanto de la atribución competencial como de otros aspectos no contemplados en aquélla.
+La prevención y defensa de incendios forestales se encuentra también incluida en el campo de la protección civil, cuya normativa está esencialmente contenida en la Ley 2/1985, de 21 de enero, de protección civil, en el Real decreto 407/1992, de 24 de abril, por el que se aprueba la Norma básica de protección civil, y en el Acuerdo del Consejo de Ministros de 18 de marzo de 1993 por el que se aprueba la Directriz básica de planificación de protección civil de emergencias por incendios forestales; materia ésta, la de protección civil, desarrollada por la normativa gallega en materia de emergencias.
+La legislación en materia de régimen local también regula las competencias en materia de protección y defensa contra los incendios forestales de los entes locales, en concreto en los artículos 80.2.º c) de la Ley 5/1997, de 22 de julio, de Administración local de Galicia, y 25.2.º c) de la Ley 7/1985, de 2 de abril, de bases de régimen local.
+4
+La presente ley tiene como uno de sus objetivos actualizar el régimen jurídico de la lucha contra los incendios en el medio rural, integrando en el mismo la prevención y la extinción, además de la protección de la población, infraestructuras e instalaciones agrarias, pues únicamente considerando estas tres líneas de actuación en su conjunto será posible garantizar un tratamiento eficaz del problema.
+La planificación preventiva pasa a ser un elemento estructural fundamental de este sistema, que se asienta en la actuación concertada de todas las administraciones actuantes en el ámbito de la defensa contra los incendios forestales.
+El sistema de defensa contra los incendios en el medio rural expuesto en la presente ley identifica los objetivos y recursos y se traduce en un modelo activo, dinámico e integrado, encuadrando en una lógica de medio y largo plazo los instrumentos disponibles, con los siguientes criterios básicos:
+1. Organizar la gestión de biomasa en zonas estratégicas, especialmente aquellas declaradas de alto riesgo de incendio, unido a la construcción y mantenimiento de fajas exteriores de protección de zonas pobladas, el tratamiento de áreas forestales en un esquema de intervención según modelos silvícolas previamente establecidos, en el ámbito de las dos dimensiones que se complementan, la defensa de personas y bienes y la defensa de los montes.
+2. Reforzar las estructuras de extinción y de prevención de los incendios forestales.
+3. Ampliar los esfuerzos de educación, sensibilización, divulgación y extensión agroforestal para la defensa del medio rural contra los incendios y para el uso correcto del fuego en estos parajes.
+4. Reforzar la vigilancia y poner coto a la actividad criminal incendiaria mediante la colaboración vecinal, además de asegurar la eficacia en la fiscalización y aplicación del régimen sancionador instituido.
+5
+La presente ley, teniendo en cuenta la experiencia acumulada, incorpora novedades en el ámbito de la defensa contra incendios forestales, en el campo de la planificación y gestión de biomasa vegetal y en la intervención de las administraciones públicas y los particulares.
+El título I regula las disposiciones generales, donde se incluyen las definiciones de los términos utilizados a lo largo de la ley, así como la organización del sistema de prevención contra los incendios forestales de Galicia y la distribución competencial entre los distintos órganos de las administraciones públicas gallegas.
+El título II se dedica al planeamiento de la defensa del espacio rural frente a los incendios forestales, con el establecimiento de una planificación en cuatro niveles, autonómico, de distrito, municipal o inframunicipal, al objeto de asegurar la consistencia territorial de las políticas, instrumentos, medidas y acciones, en una lógica de colaboración entre todas las administraciones y los ciudadanos.
+La planificación va a realizarse a través de un instrumento, el Plan de prevención y defensa contra incendios forestales de Galicia, el cual engloba la planificación preventiva y la operacional. Esta planificación tiende a contemplar el problema en su conjunto y permitirá agilizar y coordinar de manera más efectiva las intervenciones preventivas y las de extinción de todos los organismos con competencias en la lucha contra incendios en Galicia.
+El título III se dedica a las actuaciones preventivas, contemplando las infraestructuras de prevención y defensa contra los incendios forestales, la ordenación preventiva del terreno forestal y las medidas de silvicultura preventiva, prestando especial atención a la defensa de las personas y los bienes ante la amenaza de los incendios forestales.
+Como medida más novedosa en este sentido se incorpora la gestión de la biomasa a través del establecimiento de redes de gestión que engloban los terrenos contiguos a los núcleos de población, a las instalaciones industriales y de recreo y a las infraestructuras de transporte y de distribución de energía eléctrica, sentando las bases para una nueva actuación que tiene por objetivo principal proteger la seguridad de las personas. A estos efectos también se define un cuadro jurídico que permite y acelera la intervención de la administración en lo que se refiere a la retirada de biomasa vegetal en las zonas cercanas a los núcleos rurales antes de la época de peligro de incendios.
+El título IV se refiere a la regulación de las condiciones de acceso, permanencia y circulación en zonas forestales, en especial en las épocas de peligro alto de incendios forestales.
+El título V regula el uso de aquellas actividades en las que se emplea el fuego, en orden a atenuar las acciones que conllevan mayor riesgo de producción de incendios forestales.
+El título VI contempla las condiciones para la realización de determinados aprovechamientos forestales, agrícolas y ganaderos en el monte, atendiendo a la compatibilidad entre esas actividades y la regeneración de las zonas incendiadas.
+El título VII se refiere al régimen sancionador, partiendo de la normativa básica recogida en la Ley 43/2003, de 21 de noviembre, de montes.
+El título VIII regula los incentivos a las personas titulares de terrenos forestales, especialmente a aquellos afectados por las figuras preventivas en los planeamientos, y además la colaboración con las entidades locales de cara a la prevención y extinción de los incendios forestales.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.2.º del Estatuto de Galicia y con el artículo 24 de la Ley 1/1983, de 23 de febrero, reguladora de la Xunta y de su presidente, promulgo en nombre del Rey, la Ley de prevención y defensa contra los incendios forestales de Galicia.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Objeto y conceptos generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la ley.
+La presente ley tiene por objeto defender los montes o terrenos forestales frente a los incendios y proteger a las personas y los bienes afectados por los mismos, promoviendo la adopción de una política activa de prevención coordinada de todas las administraciones públicas de acuerdo con la legislación gallega en materia de emergencias, basada en:
+a) Actuar en los montes y áreas colindantes mediante los tratamientos adecuados de la biomasa vegetal.
+b) Compatibilizar y regular los aprovechamientos y transformaciones del monte y zonas agrarias colindantes con la finalidad de evitar los incendios.
+c) Establecer las condiciones para la protección de los asentamientos rurales respecto a los incendios forestales, en el marco de una política integral de desarrollo rural.
+d) (Derogado)
+e) Regular la redacción de los diferentes planes de prevención y defensa y la coordinación entre las distintas administraciones.
+Se deroga el apartado d) por la disposición derogatoria única.d) de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+A los efectos de la presente ley, se definen los siguientes términos:
+1. Monte o terreno forestal: todo terreno en el que vegetan especies forestales arbóreas, arbustivas, de matorral o herbáceas, sea espontáneamente o procedentes de siembra o plantación, que cumplan o puedan cumplir funciones ambientales, protectoras, productoras, culturales, paisajísticas o recreativas.
+Tienen también la consideración de monte o terreno forestal los demás terrenos descritos en el artículo 5 de la Ley 43/2003, de 21 de noviembre, de montes, y en la Ley de Montes de Galicia.
+No tendrán la consideración de monte o terreno forestal los terrenos dedicados al cultivo agrícola, el suelo urbano, de núcleo rural y urbanizable, incluyendo el canal y la zona de dominio público hidráulico de estos suelos, y los excluidos por la normativa vigente, así como los terrenos rústicos de protección agropecuaria.
+No obstante, y a los solos efectos del cumplimiento de las obligaciones establecidas en la presente ley, podrán tener la consideración de monte aquellas superficies que estén clasificadas como terreno rústico de protección agropecuaria que reúnan las características contempladas en el artículo 5.1.º de la Ley 43/2003, en tanto subsista su uso forestal.
+2. Incendio forestal: el fuego que se extiende sin control sobre combustibles forestales situados en el monte, incluyéndose los enclaves forestales ubicados en terrenos agrícolas cualquiera que fuese su extensión.
+3. Quema: fuego que se extiende sin control sobre el monte raso.
+4. Quema de restos agrícolas: fuego que se aplica sobre restos agrícolas previa comunicación a la administración forestal.
+5. Quema de restos forestales: fuego que se aplica a restos forestales previa autorización de la administración forestal.
+6. Quema controlada: fuego que se aplica para el control de la biomasa forestal con criterios de idoneidad técnica y bajo la supervisión de la administración forestal.
+7. Terrenos quemados: aquellos que hayan sido afectados por un incendio forestal y que, temporalmente, quedan condicionados a lo establecido en la presente ley.
+8. Forestal: todo lo relativo a los montes.
+9. Repoblación forestal: introducción de especies forestales en un terreno mediante siembra o plantación. Puede ser forestación o reforestación.
+10. Forestación: repoblación, mediante siembra o plantación, de un terreno que era agrícola o estaba dedicado a otros usos no forestales.
+11. Reforestación: la reintroducción de especies forestales, por medio de siembra o plantación, en terrenos que ya estuvieron poblados forestalmente hasta épocas recientes pero que quedaron rasos a causa de talas, incendios, vendavales, plagas, enfermedades u otros motivos.
+12. Restos capaces de producir un riesgo de incendio: aquellos materiales de fácil combustión y elevada inflamabilidad que puedan originar o facilitar la propagación de un incendio forestal, tales como las leñas, ramas, cortezas o similares que se generan tras el aprovechamiento de las masas forestales.
+13. Zona de influencia forestal: las áreas colindantes que abarcan una franja circundante de los terrenos forestales con un ancho de 400 metros, excluyendo el suelo urbano, de núcleo rural y urbanizable.
+14. Gestión de biomasa: la creación y mantenimiento de la discontinuidad horizontal y vertical de la carga de combustible en el terreno forestal y en su zona de influencia, a través del control o eliminación parcial o total de la biomasa vegetal por medio del empleo de las técnicas más recomendadas y con la intensidad y frecuencia adecuadas para el cumplimiento de los objetivos previstos.
+15. Red de fajas de gestión de biomasa: el conjunto de parcelas lineales del territorio estratégicamente ubicadas, donde se garantiza el control y la eliminación total o parcial de la biomasa forestal, mediante técnicas silvícolas idóneas, con el objetivo principal de reducir el riesgo de incendio.
+16. Detección de incendio: la identificación y localización precisa de las ocurrencias de incendio forestal con vistas a su comunicación rápida a las entidades responsables de la extinción.
+17. Índice de riesgo diario de incendio forestal: la expresión numérica que traduzca el estado de la biomasa forestal y de la meteorología en un momento dado, de modo que puedan preverse las condiciones de inicio y propagación de un incendio.
+18. Instrumentos de gestión forestal: engloban los proyectos de ordenación de montes, planes dasocráticos, planes técnicos u otras figuras equivalentes, como los planes de ordenación de recursos forestales.
+19. (Derogado)
+20. Época de peligro alto de incendios: el periodo durante el cual estén en vigor medidas y acciones especiales de prevención y defensa contra incendios forestales, en consideración a los antecedentes estadísticos y climatológicos, así como cuando las condiciones meteorológicas u otras circunstancias agravasen el riesgo de incendios.
+21. (Derogado)
+22. (Derogado)
+23. Distrito forestal: cada una de las unidades administrativas, bajo dependencia orgánica y funcional de la dirección general competente en materia forestal, en las que se organizan territorialmente los servicios de prevención y extinción de incendios forestales.
+24. Tesela: parcela forestal.
+25. Persona directora de extinción: persona responsable del dispositivo de extinción en un incendio forestal, dotada de la autoridad necesaria para organizar los medios propios de la Xunta y los que proporcionen el resto de las entidades y administraciones implicadas en el dispositivo. Tendrá la condición de agente de la autoridad, pudiendo movilizar medios públicos y privados para actuar en la extinción de acuerdo con un plan de operaciones.
+Se modifican los apartados 1 y 13 por el art. 17.1 y 2 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Se derogan los apartados 19 y 22 y se modifican los apartados 1, 13, 20 y 25 por las disposiciones derogatoria única.d) y final 1.1 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+ Se deroga el apartado 21 por la disposición derogatoria única.1 de la Ley 15/2010, de 28 de diciembre. Ref. BOE-A-2011-2546.
+
+### Artículo 3
+
+Artículo 3. Obligaciones generales.
+1. Toda persona deberá extremar el cuidado del monte en la realización de usos o actividades en el mismo, respetando las prohibiciones, limitaciones o normas establecidas al efecto en la presente ley y en su normativa de desarrollo, así como en la normativa básica estatal.
+2. Toda persona o entidad pública o privada habrá de prestar la colaboración requerida, de acuerdo con sus posibilidades, por las autoridades competentes en la lucha contra los incendios forestales y para la adopción de medidas de prevención o protección.
+3. Las personas propietarias, arrendatarias y usufructuarias de terrenos forestales y de las zonas de influencia forestal, así como titulares o concesionarias de infraestruc-turas públicas ubicadas en los mismos, tienen la obligación de mantenerlos en condiciones que contribuyan a prevenir o evitar los incendios forestales, respetando especialmente las relativas a la gestión de la biomasa vegetal y las disposiciones referentes a las especies que se contemplan en la disposición adicional tercera de la presente ley.
+Las obligaciones a que se refiere el párrafo anterior se entenderán sin perjuicio de las establecidas por la consejería competente en materia de medio ambiente en el supuesto de terrenos incluidos en espacios naturales protegidos.
+4. La realización de actividades que puedan conllevar el riesgo de incendios forestales, tanto en los terrenos forestales como en sus áreas de influencia, se ajustará a lo dispuesto en la presente ley y en su normativa de desarrollo.
+
+## CAPÍTULO II
+
+Organización
+
+### Artículo 4
+
+Artículo 4. Sistema de prevención y defensa contra incendios forestales de Galicia.
+1. El sistema de prevención y defensa contra incendios forestales de Galicia está formado por el conjunto de medidas y acciones dirigidas a la prevención y protección del monte contra los incendios forestales. Estas medidas y acciones comprenden la sensibilización, planificación, ordenación del espacio forestal y agrario, silvicultura, infraestructuras, vigilancia preventiva, detección, combate y control a llevar a cabo por las administraciones y entidades implicadas en el ámbito de la defensa contra los incendios forestales.
+2. A los efectos de la coordinación de las medidas y acciones a que se refiere el apartado 1 de este artículo, el órgano competente en materia forestal mantendrá un sistema de gestión de los incendios forestales y llevará un registro cartográfico e informático de las superficies quemadas y de las redes de defensa contra los incendios forestales de los distritos.
+3. Para integrar toda la información necesaria en el sistema referido en el número anterior, se regulará y normalizará el sistema de toma de datos, así como sus fuentes y el acceso de los interesados, por orden de la consejería con competencias en materia forestal.
+
+### Artículo 5
+
+Artículo 5. Órgano competente.
+1. Corresponde a la Xunta de Galicia la gestión y dirección del sistema de prevención y defensa contra incendios forestales de Galicia.
+2. Las competencias de la Xunta de Galicia en materia de incendios forestales se ejercerán por el Consello de la Xunta y la consejería competente en materia forestal, en los términos previstos en la presente ley.
+
+### Artículo 6
+
+Artículo 6. Competencias de la Comunidad Autónoma.
+1. Corresponde a la Xunta de Galicia:
+a) Establecer la política general de prevención y lucha contra los incendios forestales.
+b) Elaborar y aprobar el Plan de prevención y defensa contra los incendios forestales de Galicia, así como los planes de prevención y defensa contra los incendios forestales de distrito.
+c) Establecer las zonas de alto riesgo de incendio y las épocas de peligro de incendios forestales.
+d) Programar y ejecutar actuaciones de prevención y lucha contra los incendios forestales.
+e) Establecer las medidas de prevención y lucha contra los incendios forestales que sea necesario adoptar tanto por la administración como por los particulares y asegurar su cumplimiento.
+f) Gestionar las redes primarias y terciarias de fajas de gestión de la biomasa en los términos de la presente Ley.
+g) Ordenar la gestión de la biomasa vegetal en los términos de los artículos 20 bis, 21 bis y 22 y conforme a los criterios que se establecerán reglamentariamente por orden de la consejería competente en materia forestal.
+h) Regular las actividades susceptibles de provocar incendios forestales, así como controlar y autorizar el uso del fuego y la realización de actividades generadoras de riesgo de incendios forestales en los términos previstos en la presente ley.
+i) Coordinar las actuaciones de las administraciones públicas y de los particulares en las tareas de prevención y lucha contra los incendios forestales y promover mecanismos de participación social en dichas tareas.
+j) Proceder a la ejecución subsidiaria o directa de trabajos preventivos en los términos establecidos en la presente ley.
+k) Inspeccionar la realización efectiva de los trabajos incluidos en el planeamiento preventivo e instruir y resolver los expedientes sancionadores que en su caso procedan.
+l) Velar por la recuperación de los terrenos incendiados y el cumplimiento de las medidas que a tal efecto se establezcan.
+m) Desarrollar campañas y actividades de educación e información para la sensibilización de la ciudadanía en lo relativo al combate de los incendios forestales y a la persecución de las actividades delictivas o negligentes que causan los incendios forestales y coordinar la ejecución de estas campañas, con independencia de las entidades que las realicen.
+n) Promover la divulgación periódica del índice de riesgo diario de incendio forestal.
+ñ) Divulgar las medidas preventivas aconsejadas u obligatorias, donde se incluyen las referidas en los artículos 31, 35, 36 y 37, así como su incidencia territorial.
+2. Estas competencias serán ejercidas por el Consello de la Xunta de Galicia y por la consejería competente en materia forestal, en los términos establecidos en la presente ley.
+Se modifican los apartados f) y g) por la disposición final 1.5 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 7
+
+Artículo 7. Competencias de las entidades locales.
+Corresponde a los ayuntamientos y a otras entidades locales:
+a) Elaborar y aprobar los planes municipales de prevención y defensa contra los incendios forestales, con arreglo a lo previsto en la presente Ley y en la legislación gallega de montes, e integrarlos en los planes de emergencia municipales, de acuerdo con lo previsto en la legislación gallega de emergencias.
+b) Adoptar las medidas de prevención de incendios forestales que les correspondan en terrenos de su titularidad.
+c) Colaborar con los medios disponibles con la dirección técnica de extinción de incendios forestales.
+d) Ordenar la ejecución de las obras necesarias para conservar y mantener el suelo y la biomasa vegetal en las condiciones precisas que eviten los incendios, en consonancia con los artículos 199.2 y 9.4 de la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y protección del medio rural de Galicia, y de forma más concreta la ordenación y ejecución subsidiaria de la gestión de la biomasa en los términos de los artículos 21, 22 y 23 de la presente ley, contando para ello con la colaboración técnica y/o económica de la Xunta de Galicia en los términos previstos en el artículo 59 de la presente Ley, con arreglo a lo establecido en el artículo 331.1 de la Ley 5/1997, de 5 de agosto, de Administración local de Galicia.
+e) Gestionar las redes secundarias de fajas de gestión de la biomasa y las fajas laterales de las redes viarias de su titularidad, en los términos de la presente Ley.
+Se modifican los apartados a) y d) y se añade el apartado e) por la disposición final 1.6 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 8
+
+Artículo 8. Cooperación administrativa.
+Las administraciones públicas de Galicia colaborarán entre sí y cooperarán en las tareas de prevención y lucha contra los incendios forestales, aportando los medios materiales, económicos y humanos a su disposición en los términos de la presente ley.
+
+## TÍTULO II
+
+Planeamiento de la defensa del espacio rural frente a los incendios forestales
+
+## CAPÍTULO I
+
+Elementos básicos del planeamiento
+
+### Artículo 9
+
+Artículo 9. Épocas de peligro.
+1. En consideración a los antecedentes y datos históricos sobre el riesgo de aparición de incendios forestales en Galicia y sobre la incidencia de las variables meteorológicas en el comportamiento del fuego, la consejería con competencias en materia forestal definirá épocas de peligro alto, medio y bajo, que condicionarán la intensidad de las medidas a adoptar para la defensa del territorio de Galicia.
+2. La consejería con competencias en materia forestal establecerá las fechas correspondientes a la época de peligro alto.
+Se modifica el apartado 2 por la disposición final 1.7 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 10
+
+Artículo 10. Índice de riesgo diario de incendio forestal.
+1. El índice de riesgo diario de incendio forestal establece, para cada una de las épocas de peligro, el riesgo diario de ocurrencia de incendio forestal, cuyos niveles son bajo (1), moderado (2), alto (3), muy alto (4) y extremo (5).
+2. Para el establecimiento del índice de riesgo diario de incendio forestal se tendrá en cuenta la conjunción de los siguientes factores: la situación meteorológica, el estado de la biomasa vegetal y el estado del suelo.
+3. El índice de riesgo diario de incendio forestal es elaborado por la consejería con competencias en materia forestal y será divulgado a través de su página web oficial, debiendo ésta ser diaria cuando el índice de riesgo diario de incendio forestal fuese de niveles alto, muy alto o extremo, a efectos de aplicación de lo dispuesto en el artículo 31 de la presente ley. En este caso se procurará la difusión también a través de medios de comunicación social públicos y privados de amplia difusión en todo el ámbito territorial de la Comunidad Autónoma.
+4. El índice de riesgo diario de incendio forestal se establecerá de acuerdo con la coherencia territorial-climática, realizándose al menos para las zonas de la franja atlántica, costa norte y Galicia interior. La delimitación de las citadas zonas será establecida por orden de la consejería competente en materia forestal.
+Se modifica el apartado 2 por la disposición final 1.8 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 11
+
+Artículo 11. Zonas de alto riesgo de incendio.
+1. A los efectos de la presente ley, y en base a los criterios de la información histórica y los datos estadísticos sobre la ocurrencia de incendios forestales, vulnerabilidad poblacional, amenazas a los ecosistemas forestales y protección del suelo frente a la erosión, se determinarán las zonas de alto riesgo de incendio forestal existentes en el territorio.
+2. Las zonas de alto riesgo de incendio forestal son las superficies donde se reconoce como prioritaria la aplicación de medidas más rigurosas de defensa contra los incendios forestales ante el elevado riesgo de incendio, por la especial frecuencia o virulencia de los incendios forestales o por la importancia de los valores amenazados.
+3. Estas zonas serán identificadas y delimitadas a nivel de parroquia y ayuntamiento en el Plan de prevención y defensa contra los incendios forestales de Galicia y en los planes de prevención y defensa contra los incendios forestales de distrito regulados en los artículos 14 y 15 de la presente Ley.
+4. La planificación de las actuaciones preventivas y de defensa que se elabore para estas zonas de alto riesgo de incendio se integrará en los planes de prevención y defensa contra los incendios forestales de distrito. La ejecución de los trabajos incluidos en los planes de defensa de las zonas de alto riesgo de incendio será considerada de interés general.
+5. Las zonas de alto riesgo de incendio serán declaradas por orden de la consejería con competencia en materia forestal.
+Se modifica por la disposición final 1.9 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 12
+
+Artículo 12. Perímetros de alto riesgo de incendio.
+1. Sin perjuicio de lo dispuesto en el artículo 22.5 para las zonas de actuación prioritaria y urgente por existir una situación objetiva de grave riesgo para las personas o los bienes en los casos de incumplimiento por parte de las personas responsables de sus obligaciones de gestión de biomasa vegetal, se podrán declarar perímetros de alto riesgo de incendios, con carácter no permanente, basados en la información histórica y en los datos estadísticos sobre la ocurrencia de incendios forestales, vulnerabilidad poblacional, amenazas a los ecosistemas forestales y protección del suelo frente a la erosión, aquellos lugares en que el estado de abandono signifique un alto riesgo de propagación de incendios forestales, mediante resolución de la persona titular de la dirección general con competencias en materia de prevención de incendios forestales, contando con los oportunos informes previos.
+2. La resolución contendrá, además de la descripción del perímetro, las medidas de gestión de la biomasa que se tendrán que llevar a cabo para la prevención de incendios forestales. Los trabajos se planificarán en márgenes de pistas, en áreas cortafuegos y en otras actuaciones encaminadas a romper la continuidad de los combustibles forestales, actuando sobre la biomasa tanto por medios manuales como mecánicos o mediante quemas controladas.
+3. Dicha resolución se publicará en el Diario Oficial de Galicia, en el Boletín Oficial del Estado y en el tablón de anuncios del ayuntamiento en que esté radicado. Al titular catastral se le notificará la resolución con el perímetro de alto riesgo de incendio y las labores que deberán realizar los titulares de las fincas o de sus derechos de aprovechamiento para disminuir el riesgo de incendios forestales.
+4. Los titulares de las fincas o de los derechos de aprovechamiento en que tengan que realizarse los trabajos preventivos dispondrán de un plazo de treinta días naturales, contados a partir del día siguiente al de la notificación, para realizarlos y, en el caso de no hacerlo, la consejería con competencias en materia de prevención de incendios podrá realizarlos con cargo a sus presupuestos, atendiendo a las disponibilidades presupuestarias.
+Sin perjuicio de lo anterior, la Administración autonómica, al amparo de los principios de cooperación y colaboración administrativa en prevención y defensa contra incendios, podrá conveniar con los ayuntamientos la realización de los citados trabajos preventivos, en el marco de lo previsto en la normativa vigente, y, en concreto, en la legislación en materia de administración local y en la de prevención y defensa contra incendios.
+Con el objetivo de promover actuaciones de fomento del empleo y, en particular, las ligadas a los programas de formación y práctica profesional, los convenios a que se refiere el párrafo anterior podrán prever la realización de los trabajos preventivos a través de talleres duales de empleo organizados con tal fin por el ayuntamiento.
+Se modifica por el art. 13.1 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Se modifica el apartado 4 por el art. 17.1 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+ Se añade por el art. 20.1 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+ Se deroga por la disposición derogatoria única.d) de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+## CAPÍTULO II
+
+Planeamiento de la defensa del espacio rural
+
+### Artículo 13
+
+Artículo 13. Planeamiento de la defensa frente a los incendios forestales.
+1. El planeamiento de la defensa frente a los incendios forestales, de acuerdo con lo establecido en la legislación gallega de emergencias, se configura como un plan especial para hacer frente a las emergencias derivadas de los riesgos de los incendios forestales, estructurándose en un nivel gallego, de distrito y municipal, así como en un nivel inframunicipal que indicará, en este último, el planeamiento de un monte o de un espacio concreto mediante un instrumento de gestión.
+2. El planeamiento autonómico, a través del Plan de prevención y defensa contra los incendios forestales de Galicia, organiza el sistema y define la visión, ejes estratégicos, objetivos y acciones prioritarias.
+3. El planeamiento a nivel de distrito forestal, a través de los planes de prevención y defensa contra los incendios forestales de distrito, se caracteriza por la clasificación y organización de las acciones y objetivos definidos en el Plan de prevención y defensa contra los incendios forestales de Galicia a escala de distrito.
+4. El planeamiento a nivel municipal integrará en los planes de emergencia municipales las actuaciones de prevención y defensa contra los incendios forestales del municipio, con arreglo a lo previsto en la legislación gallega de emergencias.
+5. En el nivel inframunicipal los instrumentos de gestión tendrán en cuenta lo establecido en los planes de prevención y defensa contra los incendios forestales de distrito y en los planes de emergencia municipales y, en todo caso, lo establecido con carácter general en el Plan de prevención y defensa contra los incendios forestales de Galicia.
+6. Los planes previstos en este artículo habrán de ser redactados por técnicos competentes en materia forestal.
+7. En general deberán ajustarse a los planes de ordenación de recursos forestales existentes o, en su defecto, a lo contemplado en el artículo 31.6 de la Ley 43/2003, de 21 de noviembre, de montes.
+Se modifica el apartado 6 por la disposición final 1.10 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 14
+
+Artículo 14. Plan de prevención y defensa contra los incendios forestales de Galicia.
+1. El Plan de prevención y defensa contra los incendios forestales de Galicia reflejará la política y las medidas para la defensa de los terrenos forestales y las áreas de influencia forestal, englobando los planes de prevención, protección, sensibilización, vigilancia, detección, extinción, investigación y desarrollo, soporte cartográfico, coordinación y formación de los medios y agentes del servicio, así como una definición clara de objetivos y metas a alcanzar, la programación de las medidas y acciones, el presupuesto y el plan financiero, así como los indicadores de su ejecución.
+2. La elaboración del Plan de prevención y defensa contra los incendios forestales de Galicia corresponde a la consejería competente en materia forestal.
+La aprobación de este plan corresponde al Consello de la Xunta, a propuesta de dicha consejería, oído el Consejo Forestal de Galicia.
+El Plan de prevención y defensa contra los incendios forestales de Galicia se integrará en el Plan especial de protección civil ante emergencias por incendios forestales de la Comunidad Autónoma de Galicia, desarrollando el nivel 0 de emergencia por incendios forestales.
+3. El Plan de prevención y defensa contra los incendios forestales de Galicia debe contener las orientaciones básicas a concretar en los planes de los distritos, reflejándose en los niveles subsiguientes del planeamiento.
+4. En los años siguientes a su aprobación, y mientras mantenga su vigencia, deberá ser actualizado en aquellos aspectos que sufran variaciones, siendo incorporadas dichas modificaciones al documento inicial y aprobadas por el Consello de la Xunta de Galicia. 5. Las modificaciones derivadas de su actualización serán efectuadas de acuerdo con lo previsto en la legislación gallega de emergencias.
+5. Las modificaciones del Plan de prevención y defensa contra los incendios forestales de Galicia aprobadas por el Consello de la Xunta de Galicia serán integradas en el Plan especial de protección civil ante emergencias por incendios forestales de la Comunidad Autónoma de Galicia.
+Se modifican los apartados 1, 2 y 5 por la disposición final 1.11 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 15
+
+Artículo 15. Plan de prevención y defensa contra los incendios forestales de distrito.
+1. El plan de prevención y defensa contra los incendios forestales de distrito desarrolla las orientaciones previstas en la planificación establecidas en el Plan de prevención y defensa contra los incendios forestales de Galicia, concretando la estrategia de distrito.
+2. La elaboración, adaptación y revisión de los planes de prevención y defensa contra los incendios forestales de distrito corresponde a la dirección general de la consejería competente en materia forestal, siendo aprobados por la persona titular de dicha consejería.
+3. Los planes de prevención y defensa contra los incendios forestales de distrito contienen las acciones necesarias para la defensa contra incendios forestales y, más allá de las acciones de prevención y otras medidas previstas en materia de emergencias, incluyen la previsión y la programación integrada de las intervenciones de las diferentes entidades implicadas en el operativo contra incendios forestales.
+4. Para la elaboración, coordinación y actualización continua del planeamiento del distrito contra incendios forestales se establecerán los mecanismos de participación de las diferentes administraciones, entidades, asociaciones del sector y personas propietarias afectadas.
+En todo caso, será necesario informe previo de la consejería competente en materia de medio ambiente cuando el plan de prevención y defensa contra los incendios forestales de distrito afecte a espacios protegidos a efectos de adecuar sus previsiones a los planes de ordenación de los recursos naturales.
+5. En los planes de prevención y defensa contra los incendios forestales de distrito se incluirán previsiones específicas respecto a las zonas colindantes entre los diferentes distritos, para asegurar su coherencia.
+6. (Derogado)
+7. La consejería competente en materia forestal podrá crear y aplicar programas especiales de intervención en el ámbito de los planes de prevención y defensa contra incendios forestales de distrito para áreas forestales contiguas a infraestructuras de elevado valor estratégico y para áreas forestales estratégicas de elevado valor, de acuerdo con lo establecido en los planes de ordenación de recursos forestales. Igualmente, en dichos planes podrán establecerse zonas de actuación preferente a los efectos de prevención de incendios, para cuya gestión podrán concertarse convenios de colaboración con la propiedad o ayudas específicas.
+8. Las áreas referidas en el número anterior se designarán a propuesta de la dirección general competente en materia de montes, y por orden de la consejería competente en materia forestal, oída la consejería con competencias en materia de medio ambiente.
+9. Para cada una de las zonas de alto riesgo de incendio se elaborará un plan específico de defensa, que se integrará en el plan de prevención y defensa contra los incendios forestales de distrito y que, como mínimo, tendrá en cuenta:
+a) Las medidas y trabajos preventivos aplicables a las mismas. Estos trabajos preventivos incluirán cortafuegos, vías de acceso y puntos de agua que deben realizar las personas titulares de los montes de la zona, así como los plazos y modalidades de ejecución, sin perjuicio de la colaboración con las administraciones públicas.
+b) Los usos, costumbres y actividades que puedan existir en la zona y que se manifiesten a través de la provocación reiterada de incendios o del uso negligente del fuego.
+c) El establecimiento y disponibilidad de medios de vigilancia y extinción necesarios para dar cobertura a toda la superficie forestal de la zona, con las previsiones para su financiación.
+d) La regulación de los aprovechamientos y usos que puedan dar lugar a riesgo de fuegos forestales.
+Se deroga el apartado 6 por la disposición derogatoria única.d) y se modifican los apartados 2 y 7 por la disposición final 1.12 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 16
+
+Artículo 16. Planeamiento municipal de prevención y defensa contra los incendios forestales.
+1. El planeamiento municipal de prevención y defensa contra los incendios forestales se integrará en los planes municipales de emergencias, con arreglo a lo establecido en la legislación gallega de emergencias.
+2. La estructura de los planes municipales de prevención y defensa contra los incendios forestales se ajustará a las directrices que establezca la normativa aplicable en materia de emergencias. En todo caso, incluirá la red de las pistas, vías, caminos, carreteras y montes de titularidad municipal y la definición de las redes de fajas secundarias, así como el análisis de la propiedad de estas redes de fajas. Podrán incluir ordenanzas de prevención de incendios concordantes con el objeto de la presente ley en suelo urbano, de núcleo rural y urbanizable situado a menos de 400 metros del monte.
+3. La dirección general competente en materia forestal emitirá informe preceptivamente y con carácter vinculante sobre los planes municipales de prevención y defensa contra los incendios forestales antes de su aprobación.
+4. Los planes municipales podrán ser aprobados para la totalidad del territorio del ayuntamiento o progresivamente por fases.
+Los ayuntamientos cuyos planes generales de ordenación municipal (PGOM) estén en trámite de aprobación podrán elaborar sus planes municipales de prevención y defensa contra los incendios forestales basándose en dichos PGOM. Después de su aprobación definitiva, los ayuntamientos modificarán, de ser necesario, los planes municipales de prevención y defensa contra los incendios forestales. Con carácter previo a la aprobación por parte de los ayuntamientos de las modificaciones introducidas en el plan, la dirección general competente en materia de prevención de incendios forestales emitirá preceptivamente y con carácter vinculante su informe sobre dichas modificaciones.
+5. La coordinación y la gestión del planeamiento municipal de prevención y defensa contra los incendios forestales compete a los alcaldes o alcaldesas. La elaboración, ejecución y actualización de este planeamiento tiene carácter obligatorio.
+Se modifica el apartado 4 por el art. 13.2 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Se modifica por el art. 20.2 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+ Se modifica el apartado 2 por el art. 17.3 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Se modifica el apartado 2 por la disposición final 1.13 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 17
+
+Artículo 17. Planeamiento inframunicipal y particular de defensa contra los incendios forestales.
+1. Todas las iniciativas particulares de prevención y defensa deben estar articuladas y encuadradas en los planes de prevención y defensa contra los incendios forestales de distrito.
+2. Todos los instrumentos de gestión forestal deben explicitar no sólo acciones de silvicultura de defensa de los montes contra los incendios forestales y de las infraestructuras de los terrenos forestales sino también su integración y compatibilización con los instrumentos de planeamiento de nivel superior, en concreto los planes de prevención y defensa contra los incendios forestales de distrito.
+3. Los instrumentos de gestión forestal de las zonas de ámbito inframunicipal o particular deben ser presentados, para su aprobación, a la consejería competente en materia forestal en el plazo de tres meses después de su redacción.
+
+## TÍTULO III
+
+Actuaciones preventivas
+
+## CAPÍTULO I
+
+Infraestructuras preventivas
+
+### Artículo 18
+
+Artículo 18. Redes de defensa contra los incendios forestales del distrito forestal.
+1. Las redes de defensa contra los incendios forestales del distrito concretan territorialmente, y de forma coordinada, el conjunto de infraestructuras y equipamientos vinculados a la defensa y lucha contra los incendios forestales.
+2. Las redes de defensa contra los incendios forestales del distrito integran los siguientes componentes:
+a) Redes de fajas de gestión de biomasa.
+b) Red viaria forestal.
+c) Red de puntos de agua.
+d) Red de vigilancia y detección de incendios forestales.
+e) Otras infraestructuras de apoyo a la extinción.
+3. La recogida, registro y actualización de la base de datos de las redes de defensa contra los incendios forestales del distrito habrá de ser efectuada por la consejería competente en materia forestal e integrada en el sistema de información geográfica descrito en el artículo 4.2 de la presente ley.
+4. La gestión de las infraestructuras a que se refieren los apartados c), d) y e) de este artículo que sean titularidad de la Comunidad Autónoma podrá ser cedida por la Xunta de Galicia a las entidades locales u otras entidades gestoras, con arreglo a lo previsto en la legislación patrimonial y en su reglamento de ejecución.
+5. Se declaran de utilidad pública las infraestructuras y los equipamientos preventivos vinculados a la defensa y lucha contra los incendios forestales, a los efectos de la expropiación forzosa de los bienes y derechos necesarios para su construcción e instalación.
+Para el reconocimiento concreto de la utilidad pública de las infraestructuras y los equipamientos preventivos, la dirección general competente en materia de montes elaborará el proyecto de obras y/o instalaciones acompañado de la relación concreta e individualizada de los bienes o derechos que se estimen de necesaria expropiación. El proyecto se someterá a información pública, recabándose los informes sectoriales afectados por la infraestructura o equipamiento. Concluida la tramitación, la declaración de utilidad pública se acordará por la persona titular de la consejería competente en materia de montes, sin perjuicio de la competencia del Consello de la Xunta en caso de oposición por parte de otros organismos sectoriales.
+La declaración de utilidad pública conllevará la necesidad de ocupación de los bienes y de adquisición de los derechos afectados y la imposición de servidumbres de paso de energía u otras necesarias para la ejecución del proyecto, permitiendo iniciar el procedimiento para su urgente ocupación a los efectos previstos en la legislación de expropiación forzosa.
+Sin perjuicio de lo dispuesto en el artículo 11.4 del texto refundido de la Ley del suelo y rehabilitación urbana, aprobado por Real decreto legislativo 7/2015, de 30 de octubre, la realización de puntos de agua incluidos en la red de puntos de agua no requerirá título habilitante urbanístico, estando exenta del pago de tasas administrativas autonómicas.
+Se añade el apartado 5 por el art. 20.3 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+ Se modifican los apartados 2 y 4 por la disposición final 1.14 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 19
+
+Artículo 19. Normalización de las redes de defensa contra los incendios forestales de los distritos.
+Las normas técnicas y funcionales relativas a la clasificación, construcción, mantenimiento y señalización de vías integrantes de la red viaria forestal, puntos de agua y demás infraestructuras forestales integrantes de las redes de defensa contra los incendios forestales de los distritos serán desarrolladas reglamentariamente por orden del conselleiro o conselleira competente en materia forestal.
+
+### Artículo 20
+
+Artículo 20. Redes de fajas de gestión de biomasa.
+1. La gestión de la biomasa existente en los terrenos forestales y zonas de influencia forestal es realizada a través de fajas, ubicadas en lugares estratégicos, donde se procede a la modificación o remoción total o parcial de la misma, buscando la ruptura de la continuidad horizontal y vertical de la biomasa presente.
+2. Las fajas de gestión de biomasa se dividen en redes primarias, secundarias y terciarias.
+3. Las redes primarias de fajas de gestión de biomasa son infraestructuras lineales de prevención y defensa, ubicándose a lo largo:
+a) De la red de autopistas, autovías, corredores, vías rápidas y carreteras convencionales.
+b) De las infraestructuras ferroviarias.
+c) De las instalaciones de producción de energía eléctrica eólicas o solares, líneas de transporte y distribución de energía eléctrica, subestaciones eléctricas, líneas de transporte y distribución de gas natural, estaciones de regulación y medida de gas y depósitos de distribución de gas, y estaciones de telecomunicaciones.
+4. Las redes secundarias de fajas de gestión de biomasa tienen un ámbito municipal y poseen la función prioritaria de protección de los núcleos poblacionales, las infraestructuras, los equipamientos sociales, las zonas edificadas, los parques y los polígonos industriales.
+5. Las redes terciarias de fajas de gestión de biomasa se ubican en los terrenos forestales y zonas de influencia forestal y están vinculadas a las infraestructuras de uso público, así como a las siguientes infraestructuras de prevención y defensa contra los incendios forestales: caminos, viales, pistas forestales, cortafuegos, fajas auxiliares de pista, áreas cortafuegos y otras infraestructuras o construcciones relacionadas con la prevención y defensa contra los incendios forestales.
+6. Las especificaciones técnicas en materia de defensa del monte contra los incendios forestales relativas a equipamientos forestales y ambientales y de uso social ubicados en terrenos forestales serán definidas mediante orden conjunta de las consejerías competentes en materia forestal y de conservación de la naturaleza.
+7. Sin perjuicio de lo dispuesto en los artículos siguientes, las especificaciones técnicas relativas a la construcción y mantenimiento de las redes de fajas de gestión de biomasa se desarrollarán por la consejería competente en materia forestal.
+8. Los proyectos de repoblación forestal habrán de respetar las fajas de gestión de biomasa previstas en este artículo.
+Se modifica el apartado 3.c) por el art. 20.4 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+ Se modifica el apartado 3.c) por el art. 17.4 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Se modifica por la disposición final 1.15 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 20 bis
+
+Artículo 20 bis. Redes primarias de fajas de gestión de biomasa.
+En los espacios definidos como redes primarias de fajas de gestión de biomasa será obligatorio para las personas responsables, en los términos establecidos en el artículo 21 ter de la presente ley:
+a) A lo largo de la red de autopistas, autovías, corredores, vías rápidas y carreteras convencionales, habrá de gestionarse la biomasa vegetal, de acuerdo con los criterios estipulados en la presente ley, en los terrenos incluidos en la zona de dominio público. Además, en dichos terrenos no podrá haber árboles de las especies señaladas en la disposición adicional tercera.
+b) A lo largo de la red ferroviaria habrá de gestionarse la biomasa vegetal, de acuerdo con los criterios estipulados en la presente ley, en los terrenos incluidos en la zona de dominio público. En esta faja no podrá haber árboles de las especies señaladas en la disposición adicional tercera.
+c) En las instalaciones de producción de energía eléctrica eólica deberá gestionarse la biomasa en la superficie afectada de pleno dominio y vuelo, de acuerdo con lo establecido en el Plan sectorial eólico de Galicia, alrededor de cada aerogenerador de producción de energía eléctrica eólica instalado.
+Asimismo, en los caminos interiores de dichas instalaciones la gestión de la biomasa vegetal, en el estrato arbustivo y subarbustivo, se hará en los 5 metros desde la arista exterior del camino. En este último supuesto, no se exigirá la retirada de árboles de las especies señaladas en la disposición adicional tercera.
+En las líneas de transporte, distribución y evacuación de energía eléctrica, sin perjuicio del necesario respeto de las especificaciones de la reglamentación electrotécnica sobre distancia mínima entre los conductores, los árboles y otra vegetación, deberá gestionarse la biomasa en una faja de 5 metros desde la proyección de los conductores eléctricos más externos, considerando su desviación máxima producida por el viento según la normativa sectorial vigente. Además, en una faja de 5 metros desde el límite de la infraestructura no podrá haber árboles de las especies señaladas en la disposición adicional tercera.
+En las instalaciones de producción de energía eléctrica solares y en las subestaciones eléctricas deberá gestionarse la biomasa en una faja de 5 metros desde el último elemento en tensión y desde los paramentos de las edificaciones no destinadas a las personas. Además, en dicha faja no podrá haber árboles de las especies señaladas en la disposición adicional tercera.
+Si en las subestaciones eléctricas existen edificaciones destinadas a albergar oficinas, almacenes o parque móvil, a dichas edificaciones les será aplicable lo dispuesto en el artículo 21 para las edificaciones o viviendas aisladas.
+Para todas las instalaciones indicadas en esta letra, la gestión de la biomasa incluirá la retirada de esta por parte de la persona que resulte responsable conforme al artículo 21 ter.
+A estos efectos, la persona responsable deberá remitir al tablón de edictos del ayuntamiento un anuncio, con quince días de antelación a las operaciones de gestión de la biomasa, a los efectos de que los propietarios de los terrenos puedan ejecutarlas previamente, en el caso de estar interesados. Transcurrido dicho plazo sin que se haya hecho la correspondiente gestión de biomasa, la persona responsable estará obligada a su realización. En caso de que el propietario del terreno no haya ejecutado la gestión de la biomasa y no le conceda permiso al titular de la instalación para realizar esta gestión, la persona titular de la instalación deberá comunicarlo al órgano competente en materia de prevención y defensa contra los incendios forestales para la adopción de las medidas oportunas, según lo previsto en el artículo 22, por ser de interés general evitar la generación y la propagación de incendios forestales. Desde el momento en que el titular de la instalación remita la mencionada comunicación al órgano competente, será el propietario de los terrenos el que pase a tener la condición de persona responsable a los efectos de lo previsto en esta ley.
+d) En las conducciones de transporte de gas natural habrá de gestionarse la biomasa en una faja de 1 metro y medio a cada lado de su eje.
+e) En las estaciones de telecomunicaciones habrá de gestionarse la biomasa en una faja de 5 metros desde las infraestructuras de telecomunicación y desde los paramentos de las edificaciones no destinadas a las personas. Además, en dicha faja no podrá haber árboles de las especies señaladas en la disposición adicional tercera.
+En las estaciones de telecomunicaciones, si existieran edificaciones destinadas a albergar oficinas, almacenes o parque móvil, a dichas edificaciones les será de aplicación lo dispuesto en el artículo 21 para las edificaciones o viviendas aisladas.
+En caso de las estaciones de regulación y medida de gas y depósitos de distribución de gas, habrá de gestionarse la biomasa teniendo en cuenta la reglamentación derivada de su normativa específica, siendo en todo caso, como mínimo, una faja de 5 metros desde las infraestructuras y desde los paramentos de las edificaciones no destinadas a las personas.
+Se modifica la letra c) por el art. 13.3 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Se modifica por el art. 20.5 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+ Se modifica la letra c) y se añade la e) por el art. 17.5 y 6 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Se añade por la disposición final 1.16 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+## CAPÍTULO II
+
+Defensa de personas y bienes
+
+### Artículo 21
+
+Artículo 21. Redes secundarias de fajas de gestión de biomasa.
+1. En los espacios previamente definidos como redes secundarias de fajas de gestión de biomasa en los planes municipales de prevención y defensa contra los incendios forestales será obligatorio para las personas que resulten responsables conforme al artículo 21 ter gestionar la biomasa vegetal, de acuerdo con los criterios estipulados en esta ley y en su normativa de desarrollo, en una franja de 50 metros:
+a) Perimetral al suelo urbano, de núcleo rural y urbanizable, sin perjuicio de lo dispuesto en la disposición transitoria quinta.
+b) Alrededor de las edificaciones destinadas a las personas, viviendas aisladas, urbanizaciones, basureros, cámpines, gasolineras y parques e instalaciones industriales ubicados a menos de 400 metros del monte.
+c) Alrededor de las edificaciones aisladas destinadas a las personas en suelo rústico ubicadas a más de 400 metros del monte.
+2. Con carácter general, en la misma franja de 50 metros mencionada en el número anterior no podrá haber árboles de las especies señaladas en la disposición adicional tercera.
+3. Las distancias mencionadas en este artículo se medirán, según los casos:
+a) Desde el límite del suelo urbano, de núcleo rural y urbanizable.
+b) Desde los paramentos exteriores de las edificaciones, viviendas aisladas y urbanizaciones, o los límites de sus instalaciones anexas.
+c) Desde el límite de las instalaciones en el caso de los depósitos de basura, gasolineras y parques e instalaciones industriales.
+d) Desde el cierre perimetral en el caso de los campings.
+4. El órgano competente en materia de prevención y extinción de incendios podrá promover la declaración de proyectos de gestión integral de la biomasa mediante actividad agroganadera, con arreglo al procedimiento regulado en la sección primera del capítulo II del título VI de la Ley 11/2021, de 14 de mayo, de recuperación de la tierra agraria de Galicia, con las siguientes especificidades:
+a) El responsable de presentar la solicitud a que se refiere el artículo 111 de la Ley 11/2021, de 14 de mayo, será el órgano competente en materia de prevención y extinción de incendios forestales. La solicitud deberá fundamentarse en un informe sobre la idoneidad de la actuación propuesta como infraestructura preventiva.
+b) En la elaboración del plan de ordenación productiva, el órgano competente en materia de prevención y extinción de incendios forestales podrá proponer cultivos o aprovechamientos preferentes de cara a la prevención de incendios forestales.
+c) Entre los criterios de valoración para la selección de las propuestas de aprovechamiento de los terrenos incorporados al proyecto deberán ser tenidos en cuenta aquellos que mejor cumplan la finalidad preventiva de la actuación.
+d) En caso que de no haya propuestas de aprovechamiento válidas, el proyecto podrá ser objeto de desarrollo directo o indirecto por parte del órgano competente en materia de prevención y extinción de incendios forestales.
+Estos proyectos de gestión integral de la biomasa mediante actividad agroganadera quedarán integrados en la red secundaria de fajas de gestión de biomasa.
+Se añade el apartado 4 por el art. 18 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifica el apartado 1.a) a c) por el art. 20.6 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+ Se modifica por el art. 17.7 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Véase, en cuanto a la exigibilidad de las nuevas obligaciones, la disposición transitoria 3.1 de la citada ley.
+ Se modifica por la disposición final 1.17 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 21 bis
+
+Artículo 21 bis. Redes terciarias de fajas de gestión de biomasa.
+En los espacios previamente definidos como redes terciarias de fajas de gestión de biomasa en los planes de prevención y defensa contra los incendios forestales del distrito, que en todo caso se actualizarán incluyendo las infraestructuras preventivas contempladas en los proyectos de ordenación o gestión forestal en el ámbito del correspondiente distrito, será obligatorio para las personas responsables, en los términos establecidos en el artículo 21 ter de la presente Ley:
+a) Gestionar la biomasa vegetal en la totalidad de la superficie de las infraestructuras de uso público o áreas recreativas, así como en una franja perimetral de 50 metros.
+b) Gestionar la biomasa vegetal en la totalidad de las parcelas que se encuentren dentro de una franja circundante de 50 metros alrededor de zonas forestales de alto valor, específicamente declaradas por orden de la consejería competente en materia forestal, con arreglo a lo previsto en los criterios para la gestión de biomasa definidos en la presente ley y en su normativa de desarrollo.
+c) En las vías y caminos forestales, la gestión de la biomasa vegetal se hará, en el estrato arbustivo y subarbustivo, en la plataforma de rodadura del camino y en los 2 metros desde la arista exterior de la vía o camino.
+d) En el resto de infraestructuras de prevención y defensa contra los incendios forestales (cortafuegos, fajas auxiliares de pista, desbroces, áreas cortafuegos y otras infraestructuras de prevención y defensa contra incendios forestales), la gestión de la biomasa vegetal se hará de acuerdo con el planeamiento de prevención y defensa contra los incendios forestales de los distritos, debiendo contemplarse en los instrumentos de ordenación o gestión forestal.
+Se añade por la disposición final 1.18 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 21 ter
+
+Artículo 21 ter. Personas responsables.
+1. Con carácter general, se entenderá por personas responsables:
+a) En los supuestos a que se refieren los artículos 21 y 21 bis, las personas físicas o jurídicas titulares del derecho de aprovechamiento sobre los terrenos forestales y los terrenos situados en las zonas de influencia forestal en que tengan sus derechos.
+b) En los supuestos a que se refieren el artículo 20 bis y, en su caso, la letra b) del artículo 21 bis, las administraciones públicas, las entidades o las sociedades que tengan encomendada la competencia sobre la gestión, o cedida esta en virtud de alguna de las modalidades previstas legalmente, de las vías de comunicación, líneas de transporte y distribución de energía eléctrica, subestaciones eléctricas, líneas de transporte y distribución de gas natural y estaciones de telecomunicaciones.
+2. En caso de las edificaciones o instalaciones destinadas a las personas finalizadas sin licencia, comunicación previa u orden de ejecución, o incumpliendo las condiciones señaladas en las mismas, la responsabilidad de la gestión de la biomasa vegetal corresponderá a la persona propietaria de los terrenos edificados, que dispondrá de una servidumbre de paso forzosa para acceder a la faja establecida, hasta que transcurra el plazo de caducidad de seis años que se establece en el artículo 153 de la Ley 2/2016, de 10 de febrero, del suelo de Galicia. Este acceso se llevará a cabo durante el tiempo estrictamente necesario para la labor de gestión de la biomasa por el punto menos perjudicial o incómodo para los terrenos gravados y, si fuera compatible, por el más conveniente para la persona beneficiaria.
+La retirada de especies arbóreas se realizará por las personas propietarias de las mismas.
+El cumplimiento de las obligaciones a que se refiere este número, y en tanto no transcurra el plazo de caducidad de seis años que se establece en el artículo 153 de la Ley 2/2016, de 10 de febrero, del suelo de Galicia, se entiende sin perjuicio del derecho de las personas titulares del derecho de aprovechamiento de los terrenos gravados por la servidumbre de paso forzosa o de las personas propietarias de los árboles retirados a reclamar de la persona propietaria de los terrenos edificados, en la vía jurisdiccional que corresponda, la correspondiente indemnización por los daños y perjuicios sufridos, incluido el lucro cesante.
+Transcurrido el plazo de caducidad de seis años que se establece en el artículo 153 de la Ley 2/2016, de 10 de febrero, del suelo de Galicia, la responsabilidad de la gestión de la biomasa vegetal corresponderá a la persona responsable que se establece en el número 1 de este artículo.
+3. En suelo urbano, de núcleo rural y urbanizable se aplicarán subsidiariamente los criterios establecidos en los artículos 20 bis, 21, 21 ter, 22 y 23, salvo aprobación específica de ordenanza municipal o a falta de ella, que podrá elaborarse de conformidad con el artículo 16 de esta ley.
+Se modifica el apartado 2 por el art. 20.7 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+ Se modifica por el art. 17.8 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Se añade por la disposición final 1.19 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 21 quater
+
+Artículo 21 quater. Sistema público de gestión de la biomasa de los terrenos rústicos incluidos en las redes de fajas secundarias de gestión de la biomasa.
+1. El sistema público de gestión de la biomasa en los terrenos rústicos incluidos en las redes de fajas secundarias de gestión de la biomasa, como sistema de cooperación entre la Administración general de la Comunidad Autónoma de Galicia, la entidad del sector público autonómico Seaga, la Fegamp y los ayuntamientos que voluntariamente se adhieran al sistema, tiene por fin la prevención de incendios forestales, de modo que se consiga la disminución del número de incendios forestales en las zonas de interfaz urbana, garantizando así el interés público de la seguridad de personas y de bienes.
+Sin perjuicio de lo anterior, la Administración general del Estado, las diputaciones provinciales, o cualquier otra administración o entidad del sector público dependientes de ellas, podrán, en su caso, participar en el sistema público de gestión de la biomasa mediante la firma del convenio de colaboración a que se refiere el número siguiente. En este supuesto, el convenio determinará los términos precisos en que se concretará la colaboración y cooperación de la administración o entidad que se incorpore a él y, en concreto, sus aportaciones económicas, a los efectos de contribuir a la sostenibilidad financiera del sistema.
+2. El sistema público de gestión de la biomasa se instrumenta a través del correspondiente convenio de colaboración, de acuerdo con lo previsto en este artículo.
+El convenio de colaboración en que se instrumenta el sistema público de gestión de la biomasa, basado en los principios de colaboración y cooperación entre administraciones, se formaliza al amparo de lo previsto en el número 1 del artículo 6 de la Ley 9/2017, de 8 de noviembre, de contratos del sector público, por la que se trasponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014; de lo regulado en la Ley 5/1997, de 22 de julio, reguladora de la Administración local de Galicia, en cuanto a la cooperación y coordinación mediante la suscripción de convenios entre la Administración autonómica y las administraciones locales con la finalidad de la más eficaz gestión y prestación de los servicios de su competencia; así como de lo dispuesto en esta ley de prevención y defensa contra los incendios forestales de Galicia, en lo que hace a la regulación de la colaboración con las entidades locales y cooperación administrativa en materia de prevención y lucha contra los incendios forestales.
+Atendiendo a las necesidades de prevención y lucha contra los incendios forestales, podrán incluirse en el convenio de colaboración, de manera complementaria y con cargo a las aportaciones realizadas por la Administración autonómica, actuaciones de ejecución subsidiarias de su competencia.
+3. El sistema público de gestión de la biomasa comprende, en los términos que se estipulan en el convenio de colaboración en que se instrumenta, y, en particular, de acuerdo con los criterios de prioridad que en él se determinan y con las disponibilidades presupuestarias existentes, todas o alguna de las siguientes actuaciones:
+a) La colaboración económica y técnica entre la Administración general de la Comunidad Autónoma y los ayuntamientos para garantizar la gestión de la biomasa de las parcelas incluidas en las fajas secundarias de gestión de la biomasa, y, en particular, para el ejercicio de las competencias que corresponden a los ayuntamientos de ejecución subsidiaria de las obligaciones de gestión de la biomasa y para la retirada de especies arbóreas prohibidas regulada en el artículo 22.
+Dentro de la colaboración económica y técnica señalada se incluye, asimismo, la asistencia técnica y el apoyo a los ayuntamientos para la tramitación por estos de los procedimientos de aprobación de planes de prevención y de determinación y delimitación de fajas.
+Sin perjuicio de lo anterior, la colaboración podrá incluir cualquier otro tipo de actuaciones que tengan por objeto conseguir la finalidad del sistema público de gestión de la biomasa en los términos señalados en el número 1 de este artículo, como, entre otras, actuaciones de movilización y recuperación de tierras en las fajas secundarias que tengan como objetivo combatir el abandono de áreas rurales y garantizar la adecuada gestión de la biomasa a medio o largo plazo.
+b) La prestación por la Administración autonómica del sistema público de gestión de la biomasa en los terrenos rústicos incluidos en las fajas secundarias de gestión de la biomasa mediante la formalización de contratos de gestión de la biomasa con los titulares de los terrenos.
+4. Las actividades materiales de gestión de la biomasa previstas en este artículo, así como las restantes obligaciones de cooperación técnica que la Administración autonómica asuma dentro del sistema público de gestión de la biomasa serán gestionadas, en su caso, de forma directa a través de Seaga, como entidad instrumental perteneciente al sector público autonómico, de la forma que se concrete en el convenio de colaboración del sistema público de gestión de la biomasa. A tales efectos, Seaga podrá prestar la actividad de gestión de la biomasa mediante sus propios medios técnicos, personales o materiales, o proceder a la contratación total o parcial de las obras y actividades materiales precisas, de acuerdo con lo dispuesto en la legislación de contratos del sector público.
+A los efectos de compensación de costes, Seaga percibirá de las personas usuarias del servicio, en los casos en que así proceda, la tarifa prevista en el número 7 de este artículo. En los restantes supuestos, Seaga será compensada por la Administración autonómica de los costes derivados de su actuación en los términos que se señalen en el convenio de colaboración del sistema público de gestión de la biomasa.
+5. El convenio de colaboración a través del cual se instrumenta el sistema público de gestión de la biomasa preverá la adhesión voluntaria de cualquier ayuntamiento de la Comunidad Autónoma a dicho convenio, a los efectos de que todos los ayuntamientos de Galicia puedan acceder al sistema y a la colaboración correspondiente.
+6. En todo caso, lo previsto en este artículo no afecta ni altera el sistema de distribución de competencias en la materia establecido en la presente ley, y, en particular, no afecta a las competencias atribuidas a las entidades locales, ni supone su asunción por la Administración autonómica.
+En este sentido, y a los efectos de colaborar económicamente con el sistema, se reservará un subfondo con una cantidad específica dentro del Fondo de Cooperación Local con la finalidad de contribuir económicamente al convenio. Estas aportaciones de las entidades locales al convenio con cargo al Fondo de Cooperación Local serán las que se determinen para cada anualidad en la correspondiente Ley de presupuestos generales de la Comunidad Autónoma.
+7. La Administración autonómica realizará la prestación del sistema público de gestión de la biomasa en las parcelas incluidas en las redes de fajas secundarias de gestión de biomasa de los ayuntamientos adheridos al convenio mediante la formalización de contratos de gestión de biomasa con los titulares de los terrenos.
+El servicio público, en el marco del sistema público de gestión de la biomasa a que se refiere este artículo, será prestado por la Administración autonómica en los términos previstos en el mismo, así como en el convenio de colaboración correspondiente en el que se establece el régimen jurídico de la actividad prestacional.
+Las actividades de prestación llevadas a cabo por la Administración autonómica en el marco del sistema público de gestión de la biomasa a las que se refiere el párrafo anterior constituyen un servicio público, de acuerdo con lo previsto en el número 1 del artículo 33 de la Ley 1/2015, de 1 de abril, de garantía de calidad de los servicios públicos y de la buena administración, les será aplicable la regulación y garantías establecidas en dicha ley y serán asumidas como propias por la Administración autonómica y puestas, bajo su responsabilidad, a disposición de la ciudadanía, a los efectos de lo previsto en la citada Ley 1/2015, de 1 de abril, y con base en el convenio de colaboración en el que se regula el sistema público de gestión de la biomasa en las fajas secundarias.
+A los efectos de la sostenibilidad financiera del sistema público de gestión regulado en el presente artículo se establecerá en el convenio una tarifa que deberá ser objeto de abono por las personas responsables del cumplimiento de las obligaciones de gestión de la biomasa que formalicen el contrato de gestión a que se refiere este número. La tarifa será percibida por Seaga, como prestadora material de la actividad, será uniforme para todas las personas responsables, y será en todo caso inferior a los costes económicos totales de las actividades prestadas, teniendo en cuenta el interés público presente en la prevención de los incendios forestales. En los casos de impago de la tarifa establecida en el contrato, será de aplicación el régimen previsto en el artículo 39 de la Ley 1/2015, de 1 de abril, de modo que las cantidades debidas tendrán la consideración de créditos de derecho público, cuya recaudación en la vía ejecutiva corresponderá a los órganos competentes de la Administración, atendida la situación estatutaria de las personas destinatarias de las prestaciones y la responsabilidad última de la Administración sobre la actividad.
+Se añade por el art. 17.2 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+### Artículo 22
+
+Artículo 22. Procedimiento para la gestión de la biomasa en el ámbito de las redes de fajas.
+1. Las personas que resulten responsables de acuerdo con el artículo 21 ter procederán a la ejecución de la obligación de gestión de la biomasa en el ámbito de las redes de fajas de gestión de biomasa, incluida, en su caso, la retirada de especies arbóreas, de tal modo que se mantenga un control de la carga de combustible para impedir el riesgo de incendios forestales y su propagación durante todo el año. Con el objeto de preparación de las campañas de prevención de los incendios forestales de cada año en los períodos de mayor riesgo de incendios, las administraciones competentes, con la antelación precisa, intensificarán sus acciones de control con el objetivo de que la gestión de la biomasa por los responsables esté concluida, en todo caso, antes de que finalice el mes de mayo de cada año, procurando actuar con preferencia en las zonas de mayor riesgo de incendios forestales.
+No obstante, en caso de que en alguno de los cuatro años anteriores, las personas responsables no hubiesen atendido la advertencia para el cumplimiento de sus obligaciones de gestión de la biomasa y retirada de especies, efectuada de acuerdo con lo establecido en el punto 2, la administración competente realizará sus acciones de control con el objetivo de que la gestión esté concluida, en todo caso, con anterioridad al primer día de abril de cada año.
+Cuando por la extensión o especial dificultad de las labores de gestión de biomasa o retirada de especies sea precisa la elaboración de una planificación anual de las actuaciones, esta planificación anual tendrá que ser aprobada por el órgano directivo competente en materia de prevención de incendios, salvo en el caso de que la infraestructura sea de titularidad estatal, caso en que corresponderá su aprobación a las autoridades estatales, sin perjuicio de las actuaciones que se adopten entre ambas administraciones públicas en aplicación de los principios de colaboración y cooperación que establece el artículo 140.1 de la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público. El órgano directivo competente en materia de prevención de incendios, en la aprobación de las actuaciones de planificación de su competencia, procurará su coordinación con la actuación de otras administraciones públicas responsables de la gestión de la biomasa y retirada de especies respecto a infraestructuras de su titularidad, especialmente atendiendo a la seguridad en las zonas de interface urbano-forestal, conforme a lo establecido en el artículo 44 de la Ley 43/2003, de 21 de noviembre, de montes, o norma que la sustituya.
+La gestión de la biomasa y la retirada de especies arbóreas se realizará conforme a los criterios establecidos mediante orden de la consejería competente en materia forestal.
+2. En el supuesto de incumplimiento de la obligación establecida en el número anterior, la administración pública competente, de oficio o a solicitud de persona interesada, podrá enviar a la persona responsable una comunicación en la que se le recordará su obligación legal de gestión de la biomasa vegetal y retirada de especies arbóreas prohibidas, y se le concederá para hacerlo un plazo máximo de quince días naturales, o de tres meses en el caso de las fajas laterales de las vías de comunicación, contado desde la recepción de la comunicación.
+Esta comunicación incluirá la advertencia de que, en caso de persistencia en el incumplimiento transcurrido dicho plazo, se podrán imponer multas coercitivas reiteradas cada tres meses, cuya cuantía será de 900 euros por hectárea de superficie de parcela no gestionada, o la parte proporcional si el área fuere inferior, mientras persista el incumplimiento, o bien proceder a la ejecución subsidiaria a través de la realización por la administración de las actuaciones materiales necesarias, con repercusión de los costes de gestión de la biomasa y, en su caso, decomiso de las especies arbóreas prohibidas retiradas por la administración, en las condiciones establecidas en este precepto.
+En todo caso, la cuantía mínima a imponer por multa coercitiva será de 100 euros con independencia de las hectáreas que integren la superficie de la parcela no gestionada. En la comunicación se advertirá de que, en el caso de ejecución subsidiaria, el inicio de las actuaciones materiales necesarias por la administración se podrá verificar en cualquier momento transcurrido el plazo máximo concedido, dentro de los cuatro años posteriores, atendidas sus posibilidades materiales y presupuestarias de actuación, siempre que se mantenga el incumplimiento. Una vez transcurrido este plazo de cuatro años, la administración competente deberá reiterar el apercibimiento para poder proceder a las actuaciones materiales en que consista la ejecución subsidiaria. Igualmente, se incluirá en la comunicación que, ante la falta de atención de dicho apercibimiento, la administración competente realizará sus acciones de control durante los cuatro años siguientes con el objetivo de que la gestión esté concluida, en todo caso, con anterioridad al primer día de abril de cada año.
+La imposición de multas coercitivas o, en su caso, de la ejecución subsidiaria será independiente de la instrucción del procedimiento sancionador que pueda llevarse a cabo, sin perjuicio de que, en caso de que la administración opte por la imposición de multas coercitivas, estas se sustituyan en su momento por las que se puedan acordar en el procedimiento sancionador. A tal fin, en la comunicación indicada se informará de que la falta de cumplimiento de las obligaciones indicadas es constitutiva de infracción administrativa, por lo que dará lugar al inicio del procedimiento sancionador que corresponda, en el que podrán adoptarse medidas de carácter provisional consistentes en trabajos preventivos de gestión de la biomasa y retirada de especies arbóreas con el objeto de evitar los incendios forestales y decomiso de las indicadas especies.
+La persona responsable que reciba la comunicación y apercibimiento tendrá la obligación de poner en conocimiento del órgano requirente el inicio y la realización de los trabajos de gestión. En ausencia de la indicada comunicación, la administración podrá considerar los trabajos como no realizados mientras no conste prueba en contrario.
+3. Cuando no se pueda determinar la identidad de la persona responsable de la gestión de la biomasa vegetal y retirada de especies arbóreas prohibidas, cuando se ignore el lugar de notificación o cuando, intentada esta, no pueda practicarse la notificación de la comunicación prevista en el número anterior, se hará por medio de un anuncio publicado en el "Diario Oficial de Galicia", en el "Boletín Oficial del Estado" y en el tablón de anuncios del ayuntamiento, y contendrá los datos catastrales de la parcela. En estos supuestos, el plazo para el cumplimiento se computará desde la publicación del anuncio en el "Boletín Oficial del Estado".
+En el supuesto previsto en el párrafo anterior, la publicación en el "Diario Oficial de Galicia" no supondrá ningún coste para las entidades locales, sin que pueda aplicarse ninguna tasa por dicha publicación. En caso de que no pueda determinarse la identidad de la persona responsable, se podrá promover la investigación de la titularidad de los inmuebles a que se refiere el artículo 19 de la Ley 11/2021, de 14 de mayo, de recuperación de la tierra agraria de Galicia, con la aplicación de las consecuencias derivadas de la tramitación de dicho procedimiento.
+En el marco de los procedimientos de investigación de la titularidad o movilización de tierras se podrán adoptar medidas provisionales de gestión de la biomasa y retirada de especies arbóreas.
+4. En el supuesto de que la administración pública competente haya optado por enviar la comunicación prevista en el número 2 y hayan transcurrido los plazos previstos en él sin que conste que la persona responsable cumplió su obligación de gestión de la biomasa y, en su caso, de retirada de las especies arbóreas prohibidas, y sin perjuicio de la posibilidad de proceder a una visita de comprobación, la administración pública competente podrá proceder, sin más trámite, a la realización de los trabajos materiales en que consista la ejecución subsidiaria, atendiendo a las necesidades de los incendios forestales, especialmente respecto de la seguridad en las zonas de interfaz urbano-forestal, conforme a lo establecido en el artículo 44 de la Ley 43/2003, de 21 de noviembre, de montes, o norma que la sustituya, sin perjuicio de la repercusión de los costes de la gestión de la biomasa a la persona responsable.
+En el ámbito de las redes de fajas secundarias, cuando las actuaciones materiales de ejecución subsidiaria en las parcelas se agrupen por ayuntamientos, parroquias o núcleos, con carácter previo a su inicio, la administración competente deberá publicar un anuncio en el Diario Oficial de Galicia, en el boletín oficial de la provincia a la que pertenece y en el tablero de anuncios del ayuntamiento, mediante el cual comunicará la previsión de inicio de las indicadas actuaciones materiales en el ámbito territorial que corresponda y que llevarán a cabo sobre aquellas parcelas en las que persista el incumplimiento de gestión de biomasa. Este anuncio no será necesario en los casos previstos en los números 7 y 8.
+Del mismo modo, la administración pública competente, con la finalidad de mantener un control de la carga de combustible para impedir el riesgo de incendios forestales y su propagación, cuando constate el incumplimiento por parte de las personas responsables de su obligación legal prevista en el número 1 de tener concluida la gestión de la biomasa y retirada de especies arbóreas una vez que finalice el mes de mayo de cada año, y salvo que exista una planificación anual aprobada a la que se refiere el mismo número 1, podrá proceder, sin más trámite y, en particular, sin necesidad de efectuar la comunicación prevista en el número 2, a la ejecución de la realización de los trabajos materiales y repercusión de los costes de la gestión de la biomasa, con el objeto de la preparación de la campaña de prevención de los incendios forestales de cada año, procurando actuar con preferencia en las zonas de mayor riesgo de incendios forestales. En estos supuestos deberá proceder con carácter previo al inicio de las actuaciones materiales, en todo caso, a la publicación de los anuncios previstos en el párrafo anterior y conceder un plazo mínimo de quince días para el cumplimiento de la obligación legal.
+En los supuestos de ejecución previstos en este número, los costes que se repercutirán podrán liquidarse provisionalmente de manera anticipada, incluso en la comunicación a que se refiere el número 2, y realizarse su exacción desde el momento en que se verifique el incumplimiento de la obligación de gestión de la biomasa en los plazos señalados en este artículo, sin perjuicio de su liquidación definitiva una vez finalizados los trabajos de ejecución subsidiaria. La liquidación definitiva se aprobará una vez finalizados los trabajos de ejecución subsidiaria por parte de la administración actuante que desarrolle las actuaciones materiales de ejecución subsidiaria y será notificada a la persona responsable para su pago.
+Para la liquidación de los costes correspondientes a cada parcela, la administración tendrá en cuenta la cantidad resultante de aplicar la parte proporcional a la cabida de la parcela del importe del correspondiente contrato, encargo o coste de los trabajos realizados en la zona de actuación.
+Cuando la identidad de la persona responsable no fuese conocida en el momento de proceder a la ejecución subsidiaria, la repercusión de los costes se aplazará al punto en que, en su caso, llegue a ser conocida, siempre que no hubiesen prescrito los correspondientes derechos de cobro a favor de la hacienda pública.
+Si la ejecución subsidiaria incluye la retirada de especies arbóreas prohibidas, se dará traslado de la resolución en que se acuerde dicha ejecución subsidiaria al órgano competente para la incoación del correspondiente procedimiento sancionador, el cual deberá proceder de inmediato a la adopción del acuerdo de incoación del expediente sancionador y de la medida cautelar de decomiso de las especies indicadas. El destino de las especies objeto de decomiso será su enajenación, que será efectuado, en los términos regulados en esta ley, por la administración que hubiese realizado la ejecución subsidiaria.
+En el caso de venta de las especies objeto de decomiso, los importes obtenidos deberán aplicarse, por parte de la administración que realice tales ventas, a sufragar los gastos derivados de las ejecuciones subsidiarias de su competencia.
+5. Alternativamente a la ejecución subsidiaria prevista en el número anterior, podrán imponerse las multas coercitivas previstas en el punto 2, mientras persista el incumplimiento de gestión de la biomasa. No obstante, en caso de que se aprecie una necesidad sobrevenida derivada del riesgo de incendios, se podrá proceder a la ejecución subsidiaria incluso en aquellos supuestos en los que previamente se impusieron una o varias multas coercitivas, si tras su imposición no se llevó a cabo la gestión de la biomasa requerida, y sin perjuicio de la repercusión de los costes de la gestión de la biomasa a la persona responsable. Para la realización de esta ejecución subsidiaria deberá publicarse previamente el anuncio previsto en el número anterior, excepto en los casos previstos en los números 7 y 8.
+6. Los ayuntamientos que dispongan de un plan de prevención y defensa contra incendios aprobado podrán delimitar, en función de la presencia de factores objetivos de riesgo, tales como el carácter recurrente de la producción de incendios forestales, zonas de actuación prioritaria, en las cuales se priorizarán las actuaciones de comprobación de gestión de biomasa y, en su caso, de la ejecución subsidiaria. De la misma forma, la Administración autonómica podrá priorizar la ejecución subsidiaria, en el marco del sistema público de gestión de la biomasa, de acuerdo con los factores objetivos de riesgo de incendios forestales.
+7. Podrán delimitarse zonas de actuación prioritaria y urgente, en las cuales el incumplimiento por parte de las personas responsables de sus obligaciones de gestión de la biomasa vegetal o la retirada de especies arbóreas prohibidas en la fecha a que se refiere el número 1 habilitará a las administraciones públicas competentes para proceder de manera inmediata a la ejecución subsidiaria de tales obligaciones, en función de la presencia de factores objetivos de riesgo tales como el carácter recurrente de la producción de incendios forestales en la zona. Dicha delimitación se efectuará mediante decreto del Consejo de la Xunta de Galicia, sobre la base de una evaluación técnica especializada de las zonas que se van a delimitar.
+Sin perjuicio de esta delimitación general, cuando concurran razones urgentes derivadas de una situación objetiva de grave riesgo para las personas o los bienes en caso de que no se efectúe inmediatamente la gestión de la biomasa y la retirada de especies prohibidas, las administraciones públicas podrán delimitar, mediante resolución, en las fajas de su competencia, una o varias zonas como de actuación prioritaria y urgente con el fin de habilitar para proceder de manera inmediata a la ejecución subsidiaria en caso de incumplimiento de las obligaciones de gestión de la biomasa o retirada de especies prohibidas por parte de las personas responsables. La delimitación provisional de estas zonas de actuación prioritaria y urgente se publicará en el «Diario Oficial de Galicia» e incluirá un apercibimiento de las consecuencias establecidas en esta ley en el caso de aprobación. Transcurridos quince días, la resolución por la que se delimitan las zonas se publicará en el «Diario Oficial de Galicia».
+8. Con independencia de lo previsto en los números anteriores, la consejería competente en materia forestal podrá proceder a la ejecución directa de trabajos preventivos en las redes de fajas de gestión de biomasa establecidas en los artículos 20 bis, 21 y 21 bis, sin necesidad de comunicación previa ni de autorización de ningún tipo, cuando se declare un incendio forestal que suponga un riesgo inminente para las personas o los bienes.
+9. En los supuestos de ejecución subsidiaria, la persona responsable está obligada a facilitar los accesos necesarios a los sujetos que acometan los trabajos de gestión de la biomasa y retirada de especies arbóreas prohibidas. En todo caso, la aministración y sus agentes y colaboradores podrán acceder a los montes, terrenos forestales y otros terrenos incluidos en las fajas de gestión de la biomasa para realizar los trabajos necesarios de gestión de la biomasa y retirada de especies arbóreas prohibidas, sin que sea preciso el consentimiento de su titular, salvo en aquellos supuestos excepcionales en que el acceso afecte, dentro de la parcela, a espacios físicos susceptibles de merecer la calificación de domicilio a los efectos del artículo 18.2 de la Constitución, caso en el que deberá pedirse la correspondiente autorización judicial para la entrada en ellos si no se cuenta con la autorización de su titular.
+10. La competencia para efectuar las comunicaciones y tramitar los procedimientos de ejecución subsidiaria y multas coercitivas regulados en este artículo corresponde a las entidades locales en los casos de incumplimiento de lo dispuesto en el artículo 21, así como en las fajas laterales de las redes viarias de su titularidad, y a la consejería competente en materia forestal en los demás casos.
+No obstante, en el marco del convenio que regula el sistema público de gestión de la biomasa de los terrenos rústicos incluidos en las redes de fajas secundarias de gestión de la biomasa al que se refiere el artículo 21 quater de esta ley, se podrá prever como fórmula de colaboración, entre otras actuaciones, que la consejería competente en materia forestal asuma la competencia para efectuar las comunicaciones, los apercibimientos, la imposición de multas coercitivas, las publicaciones y el desarrollo de las actuaciones materiales de ejecución subsidiaria previstas en este precepto. Asimismo, en los casos de incumplimiento de lo dispuesto en el artículo 21 en los que, por razones técnicas debidamente motivadas, resulte inviable que la Administración local pueda realizar la ejecución subsidiaria, podrán arbitrarse medios de colaboración entre las entidades locales no adheridas al sistema público de gestión de la biomasa y la autonómica para posibilitar la ejecución subsidiaria. A estos efectos el convenio podrá prever, entre otras actuaciones, las previstas en el párrafo anterior. Los instrumentos de colaboración determinarán igualmente el destino de los fondos que, en su caso, se perciban de la venta de las especies arbóreas.
+En los casos en que la Administración autonómica, en el marco del convenio previsto en el artículo 21 quater.2 para las redes de fajas secundarias, asuma la consideración de administración actuante y desarrolle las actuaciones materiales de ejecución subsidiaria a través de Seaga, compensará todos los gastos o costes en los que incurra esta sociedad. A estos efectos, como garantía de la sostenibilidad financiera del sistema público de gestión de la biomasa, los costes derivados de la ejecución subsidiaria por la persona responsable tendrán la consideración de créditos de derecho público de la Administración autonómica, y su recaudación ejecutiva corresponderá a los órganos competentes de esta. De acuerdo con lo expuesto, en estos casos la consejería competente en materia forestal será la encargada de ordenar la ejecución subsidiaria y, de acuerdo con la justificación documental de costes de la ejecución subsidiaria presentada por Seaga, deberá aprobar la liquidación definitiva y notificarla a la persona responsable, concediéndole un período de pago voluntario de un mes para el pago de los gastos y costes correspondientes a la ejecución subsidiaria, adjuntando el correspondiente documento de ingreso según el modelo que apruebe la consejería competente en materia de hacienda. La gestión recaudatoria se llevará a cabo por los órganos de recaudación competentes de la Administración autonómica.
+11. El incumplimiento de las obligaciones que esta ley establece por parte de la persona propietaria del terreno implicará el incumplimiento de la función social de la propiedad y será causa de expropiación forzosa por interés social, en caso de que los costes acumulados de la ejecución subsidiaria de los trabajos de gestión de la biomasa que la Administración actuante haya asumido con cargo a su presupuesto, y que no pueda repercutir a aquella por desconocerse su identidad, superen el valor catastral de la parcela. La entidad gestora del Banco de Tierras de Galicia o la administración que haya asumido esos costes con cargo a su presupuesto tendrá la condición de beneficiaria de la expropiación forzosa y compensará, en el momento del abono del justiprecio expropiatorio, las cantidades adeudadas por la persona propietaria por este concepto, siempre que no hayan prescrito los correspondientes derechos de cobranza a favor de la Hacienda pública. En caso de que la beneficiaria de la expropiación fuese la Administración local, podrá ceder esos terrenos al Banco de Tierras de Galicia.
+Se modifica el apartado 4 por el art. 82.1 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica por el art. 21 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+ Téngase en cuenta, para las comunicaciones y apercibimentos realizados en base a los números 2 y 3 de este artículo, la disposicion transitoria 3 de la citada Ley.
+ Se modifican los apartados 1 a 3 por el art. 14.1 a 3 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica el apartado 3 por el art. 13.4 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Se modifica el apartado 3 por el art. 20.8 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+ Se modifica por el art. 17.9 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Se modifica por la disposición final 1.20 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 22 bis
+
+Artículo 22 bis. Fondo de gestión de la biomasa y retirada de especies.
+(Suprimido).
+Se suprime por el art. 17.3 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+ Se añade por el art. 17.10 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+
+### Artículo 22 ter
+
+Artículo 22 ter. Negocios patrimoniales de enajenación de la madera.
+1. La venta de la madera procedente de especies arbóreas prohibidas que proceda retirar de acuerdo con lo establecido en esta ley se regirá por las siguientes reglas y, supletoriamente, por la legislación patrimonial de las administraciones públicas.
+2. Los negocios jurídicos por los que se venda la madera, incluyendo su tala y retirada a cargo del contratista, tendrán la consideración de privados.
+3. La Administración podrá estipular las cláusulas y condiciones precisas, siempre que no sean contrarias al ordenamiento jurídico o a los principios de buena administración. En particular, la madera podrá agruparse en lotes por zonas por razones económicas y de eficiencia en la actuación.
+4. Será suficiente la formalización de estos negocios jurídicos en documento administrativo.
+5. La venta de la madera deberá ir precedida de una valoración previa para determinar su valor de mercado.
+6. El órgano competente para enajenar la madera será el alcalde, en caso de que la competencia corresponda al ayuntamiento, o la persona titular de la dirección general competente en materia forestal de la Administración autonómica, en caso de que la competencia corresponda a la Administración de la Comunidad Autónoma, sin perjuicio de la posibilidad de desconcentración o delegación.
+7. La enajenación de la madera podrá realizarse mediante subasta pública, por concurso o adjudicación directa. La forma común de enajenación será la subasta pública. Podrá acordarse la adjudicación directa cuando sea declarada desierta la subasta promovida para la enajenación o esta resulte errada como consecuencia del incumplimiento de sus obligaciones por parte del adjudicatario; y cuando la valoración de la madera no exceda de 12.000 euros. En el procedimiento de adjudicación directa deberán solicitarse, al menos, tres ofertas, siempre que resulte posible.
+8. Cuando deba procederse a la retirada aislada de madera, cuando por sus condiciones o las del terreno en que se encuentre se pueda justificar técnicamente que el valor de venta equivale a los costes de su extracción, podrá adjudicarse directamente su retirada y entregar la madera en compensación de los indicados costes.
+En caso de que los costes de extracción superen el valor en venta, la contratación de las obras se realizará de acuerdo con la legislación de contratos del sector público, y podrá entregarse la madera como parte de la contraprestación que deba abonar la Administración. En este caso, el compromiso de gasto correspondiente se limitará al importe que se satisfaga en dinero al contratista, sin tener en cuenta el valor de la madera. El precio que abone la Administración podrá ser repercutido a la persona responsable como coste de la ejecución subsidiaria.
+Se añade por el art. 17.11 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+
+### Artículo 23
+
+Artículo 23. Nuevas edificaciones en terrenos forestales y zonas de influencia forestal y medidas de prevención de incendios forestales en las nuevas urbanizaciones.
+1. Los instrumentos de planeamiento urbanístico deberán tener en cuenta la evaluación de riesgo de incendio forestal, en lo que respecta a la zonificación del territorio y a las zonas de alto riesgo de incendio que constan en los planes de prevención y defensa contra los incendios forestales de distrito.
+2. Las nuevas instalaciones que se construyan de acuerdo con las disposiciones que se establezcan en su normativa específica para la construcción que le servirán de base para obtener el correspondiente título habilitante municipal destinadas a explotaciones agrícolas, ganaderas y forestales y las viviendas vinculadas a estas, así como las nuevas urbanizaciones y edificaciones para uso residencial, comercial, industrial o de servicios resultantes de la ejecución de planes de ordenación urbanística que afecten a zonas de monte o de influencia forestal, y que no tengan continuidad inmediata con la trama urbana y que resulten colindantes con monte o con zonas de influencia forestal, tendrán que cumplir con lo dispuesto en el artículo 21.
+3. La responsabilidad de la gestión de la biomasa vegetal corresponderá a la persona propietaria de los terrenos edificados, que dispondrá de una servidumbre de paso forzosa para acceder a la faja establecida. Este acceso se llevará a cabo durante el tiempo estrictamente necesario para la labor de gestión de la biomasa por el punto menos perjudicial o incómodo para los terrenos gravados y, si fuera compatible, por el más conveniente para la persona beneficiaria.
+La retirada de especies arbóreas se realizará por las personas propietarias de las mismas.
+El cumplimiento de las obligaciones a que se refiere este número se entiende sin perjuicio del derecho de las personas titulares del derecho de aprovechamiento de los terrenos gravados por la servidumbre de paso forzosa o de las personas propietarias de los árboles retirados a reclamar de la persona propietaria de los terrenos edificados, en la vía jurisdiccional que corresponda, la correspondiente indemnización por los daños y perjuicios sufridos, incluido el lucro cesante.
+4. En caso de urbanizaciones y edificaciones para uso industrial, deberán disponer de forma perimetral de una red de hidrantes homologados para la extinción de incendios o, en su defecto, de tomas de agua, de acuerdo con lo que se establezca reglamentariamente en la normativa específica para la construcción.
+5. Los promotores y promotoras de nuevas edificaciones habrán de presentar ante la Administración municipal un proyecto técnico de prevención y defensa contra incendios forestales que garantice el cumplimiento de lo que establece la presente ley y la normativa que la desarrolla, así como el cumplimiento del plan municipal de prevención y defensa contra incendios forestales, en su caso.
+6. En caso de incumplimiento de la gestión de la biomasa vegetal, corresponderá al ayuntamiento su realización, acudiendo a la ejecución subsidiaria de acuerdo con lo establecido en el artículo 22, sin perjuicio de la instrucción del correspondiente expediente sancionador.
+Se modifica por el art. 20.9 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+ Se modifica por el art. 17.12 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Véase, en cuanto a la exigibilidad de las nuevas obligaciones, la disposición transitoria 3.1 de la citada ley.
+ Se modifica por la disposición final 1.21 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+## CAPÍTULO III
+
+Silvicultura preventiva
+
+### Artículo 24
+
+Artículo 24. Silvicultura preventiva.
+1. La silvicultura preventiva contempla el conjunto de acciones en el ámbito de la defensa de los montes contra incendios forestales y engloba las medidas aplicadas a las masas forestales, matorrales y otras formaciones espontáneas, al nivel de la composición específica y de su arreglo estructural, con los objetivos de disminuir el peligro de incendio forestal y garantizar la máxima resistencia del territorio a la propagación del fuego.
+2. Los instrumentos de ordenación o gestión forestal deben explicitar las medidas de silvicultura y de la red de infraestructuras de terrenos forestales que garanticen la discontinuidad horizontal y vertical de la biomasa forestal, en el ámbito de las orientaciones del planeamiento de prevención y defensa contra los incendios forestales de distrito.
+3. Reglamentariamente se desarrollarán los criterios para la ordenación preventiva del territorio forestal y su aplicación en los instrumentos de ordenación o gestión forestal.
+Se modifica por la disposición final 1.22 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 24 bis
+
+Artículo 24 bis. Depósitos de subproductos forestales.
+1. Durante los meses de julio, agosto y septiembre, solo será permitido el apilado en cargadero de subproductos resultantes de corta o extracción forestal tales como la biomasa forestal residual, astillas y corcho, siempre que fuera salvaguardada un área sin vegetación con un mínimo de 10 metros alrededor.
+2. Los depósitos temporales de madera en rollo quedan expresamente excluidos de la aplicación de este artículo.
+Se añade por la disposición final 1.23 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+## CAPÍTULO IV
+
+Ordenación preventiva del terreno forestal
+Se deroga por la disposición derogatoria única.d) de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 25
+
+Artículo 25. Usos prohibidos con carácter general.
+1. Se establecen las siguientes prohibiciones:
+a) Se prohíben las repoblaciones forestales en suelo urbano y núcleos rurales.
+b) Se prohíben las repoblaciones forestales en zonas dedicadas a labradío, cultivo, prados o pastos, con independencia de su calificación urbanística.
+2. En zonas incluidas en un proceso de concentración parcelaria, los usos habrán de adaptarse al plan de ordenación de cultivos o forestal, tal y como prevé la Ley 10/1985, de 14 de agosto, de concentración parcelaria para Galicia, con sus sucesivas modificaciones.
+3. Podrá admitirse, en caso de que exista un plan de ordenación de cultivos o forestal, un cambio de uso de tierras agrícolas, siempre que no interfiera en el desarrollo agrario de la zona. Para la aprobación de esta forestación será obligatorio que la misma se realice con frondosas caducifolias u otras plantas autóctonas de estación, priorizando el aprovechamiento integral del uso.
+
+### Artículos 25 a 28
+
+Artículos 25 a 28.
+(Derogados)
+Se derogan por la disposición final única.d) de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 26
+
+Artículo 26. Ordenación de las repoblaciones forestales.
+1. Las repoblaciones forestales colindantes con terrenos ubicados en suelo rústico de especial protección agropecuaria deberán guardar, como mínimo, 10 metros de distancia respecto a los mismos.
+2. Se establecen las siguientes distancias mínimas para las repoblaciones forestales en todo tipo de terrenos y respecto a las edificaciones que se indican:
+a) Para las especies señaladas en la disposición adicional tercera de la presente ley:
+i. Con viviendas o instalaciones preexistentes: 50 metros. En cualquier caso, las ayudas para las repoblaciones forestales se condicionarán a que en la superficie que esté a menos de 100 metros desde el límite de cualquier parcela edificada en el núcleo rural no se introduzcan tales especies.
+b) Para el resto de las especies:
+i. Con viviendas o instalaciones preexistentes: 10 metros.
+ii. Con industrias o instalaciones preexistentes en las que se desarrollen actividades peligrosas con arreglo a lo establecido en la Ley 1/1995, de 2 de enero, de protección ambiental de Galicia, o en su normativa de desarrollo: 25 metros.
+3. Las distancias anteriores no serán de aplicación en parques públicos, jardines botánicos y en el interior de parcelas rústicas o de núcleos rurales edificados con plantaciones de pies aislados o jardines con setos y especies arbóreas ornamentales. Tampoco será de aplicación en el caso de afectar a árboles singulares.
+4. Las distancias se medirán desde el límite exterior de la repoblación, entendiendo por tal el pie del ejemplar de la misma más próximo a la propiedad vecina, hasta el límite medianero con la otra propiedad.
+5. Las personas titulares de las fincas que hayan realizado repoblaciones forestales colindantes con otras fincas, respetando las distancias mínimas establecidas en la legislación vigente, deberán mantener limpias de ramas sus masas arbóreas, sin que se extiendan sobre las fincas colindantes.
+6. En todo caso, estarán sujetas a la declaración de impacto ambiental las repoblaciones forestales en los supuestos previstos en el anexo I del Decreto legislativo 1302/1986, de 28 de junio, de evaluación de impacto ambiental, y en el Decreto 442/1990, de 13 de septiembre, de evaluación de impacto ambiental de Galicia.
+7. Asimismo, en caso de las repoblaciones forestales contempladas en el anexo II del Decreto legislativo 1302/1986, de 28 de junio, de evaluación de impacto ambiental, la consejería competente en materia de medio ambiente determinará, previa solicitud del interesado, la necesidad de someterse o no a la evaluación de impacto ambiental.
+
+### Artículo 27
+
+Artículo 27. Redes primarias de fajas de gestión de biomasa.
+1. Las fajas integrantes de las redes primarias, ubicadas en lugares estratégicos, pretenden facilitar la extinción de los grandes incendios forestales.
+2. Las fajas citadas en el número anterior poseen una anchura no inferior a 125 metros y definen compartimentos que, preferentemente, deben poseer entre 500 y 1.000 hectáreas.
+3. El planeamiento, la instalación y el mantenimiento de las redes primarias de fajas de gestión de biomasa deben tener en consideración, en concreto:
+a) Su eficacia en la extinción de incendios forestales de grandes dimensiones.
+b) La seguridad de las personas responsables de la extinción.
+c) El valor socioeconómico, paisajístico y ecológico de los terrenos forestales y zonas de influencia.
+d) Las características fisiográficas y las particularidades del paisaje local.
+e) El historial y los datos estadísticos de los grandes incendios forestales en el distrito forestal y su comportamiento previsible en situaciones de elevado riesgo meteorológico.
+f) Las actividades que en las mismas puedan desarrollarse y contribuir para su sostenibilidad técnica y financiera.
+4. Las redes primarias de fajas de gestión de biomasa son definidas por la consejería competente en materia forestal en el ámbito del plan de prevención y defensa contra los incendios forestales de distrito y obligatoriamente integradas en el planeamiento municipal e inframunicipal de prevención y defensa contra los incendios forestales.
+5. Las actividades de aprovechamiento de la cubierta vegetal o las obras que supongan la alteración del suelo en las redes primarias de fajas de gestión de biomasa definidas en el ámbito del plan de prevención y defensa contra los incendios forestales de distrito estarán supeditadas a la autorización previa de la consejería competente en materia forestal, que será emitida en el plazo de un mes y sólo podrá denegarse en función de su valor preventivo frente al fuego, sin perjuicio de otras autorizaciones que sean preceptivas por la normativa vigente.
+6. Las personas titulares de los terrenos afectados por lo dispuesto en el número anterior podrán beneficiarse de indemnizaciones compensatorias, además de ayudas para el mantenimiento de las redes, que serán reguladas por orden de la consejería competente en materia forestal.
+
+### Artículo 28
+
+Artículo 28. Depósitos de productos inflamables.
+1. Se prohíbe el depósito de subproductos resultantes de explotación forestal, tales como la biomasa forestal residual, astillas, corteza, resina y todo tipo de restos agrícolas y de productos inflamables, en las redes primarias y secundarias y en los mosaicos de parcelas de gestión de biomasa, con excepción de los lugares expresamente autorizados por licencia municipal.
+2. Durante los meses de julio, agosto y septiembre, sólo será permitido el apilado en cargadero de subproductos resultantes de corte o extracción forestal tales como la biomasa forestal residual, astillas, corteza, resina y todo tipo de restos agrícolas, siempre que sea salvaguardada un área sin vegetación con 25 metros alrededor.
+
+## CAPÍTULO V
+
+Reorganización preventiva del terreno forestal
+
+### Artículo 29
+
+Artículo 29. Reorganización de la propiedad forestal y fomento de las agrupaciones de propietarios forestales.
+Al objeto de garantizar la defensa contra los incendios forestales y de facilitar la ordenación de los montes y su planeamiento preventivo, se promoverá la reorganización de la propiedad forestal y la puesta en marcha de agrupaciones de propietarios forestales.
+Se modifica por el art. 14 de la Ley 15/2010, de 28 de diciembre. Ref. BOE-A-2011-2546.
+
+### Artículo 30
+
+Artículo 30. Sistema de reorganización de la propiedad forestal.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley 15/2010, de 28 de diciembre. Ref. BOE-A-2011-2546.
+
+## TÍTULO IV
+
+Condiciones de acceso, circulación y permanencia en zonas forestales
+
+### Artículo 31
+
+Artículo 31. Limitaciones de acceso, circulación y permanencia por razones de riesgo de incendios.
+1. Durante la época de peligro alto de incendios forestales, definida en el artículo 9 de la presente Ley, queda condicionado el acceso, circulación y permanencia de personas y bienes en los terrenos forestales incluidos:
+a) En las zonas de alto riesgo de incendio referidas en el artículo 11.
+b) En las áreas bajo gestión de la Xunta de Galicia señalizadas a tal fin.
+c) En las áreas donde exista señalización correspondiente a la limitación de actividades.
+d) Las condiciones de limitación de acceso y las señalizaciones correspondientes incluidas en este apartado para áreas no incluidas en zonas de alto riesgo se desarrollarán por orden de la consejería competente en materia forestal.
+2. El acceso, circulación y permanencia de personas y bienes en los terrenos y condiciones establecidas en el apartado anterior queda condicionado en los siguientes términos:
+a) Cuando se verifique que el índice de riesgo diario de incendio forestal sea muy alto o extremo, no estará permitido acceder, circular y permanecer en el interior de las áreas referidas en el número anterior, así como en los caminos forestales, caminos rurales y otras vías que las atraviesan.
+b) Cuando se verifique que el índice de riesgo diario de incendio forestal sea alto, no estará permitido, en el interior de las áreas referidas en el número anterior, ejecutar trabajos que supongan la utilización de maquinaria sin los dispositivos previstos en el artículo 39.
+c) Cuando se verifique que el índice de riesgo diario de incendio forestal sea moderado y alto, todas las personas que circulen en el interior de las áreas referidas en el número 1 y en los caminos forestales, caminos rurales y otras vías que las atraviesan o delimitan están obligadas a identificarse ante los miembros de las fuerzas y cuerpos de seguridad del Estado, agentes forestales y agentes facultativos medioambientales.
+3. Fuera de la época de peligro alto, y desde que se verifique el índice de riesgo diario de incendio forestal de niveles muy alto y extremo, no estará permitido acceder, circular y permanecer en el interior de las áreas referidas en el número 1, así como en los caminos forestales, caminos rurales y otras vías que las atraviesan.
+4. Fuera de la época de peligro alto, y desde que se verifique el índice de riesgo diario de incendio forestal de niveles moderado y alto, la circulación de personas en el interior de las áreas referidas en el número 1 queda sujeta a las medidas referidas en el apartado c) del punto 2 de este artículo.
+5. En las áreas a que se refiere el apartado b) del número 1 de este artículo el acceso queda condicionado, además, a lo señalado por la consejería competente en materia de conservación de la naturaleza cuando afectase a espacios naturales protegidos.
+6. El incumplimiento de las condiciones establecidas en este artículo será sancionado con arreglo a lo dispuesto en el artículo 67.k) de la Ley 43/2003, de 21 de noviembre, de montes.
+Se modifica por la disposición final 1.24 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 32
+
+Artículo 32. Excepciones.
+1. Constituyen excepciones a las medidas referidas en los apartados a) y b) del número 2 y en el número 3 del artículo 31:
+a) El acceso, circulación y permanencia en el interior de las referidas áreas de personas residentes, propietarias y productoras forestales y personas que allí ejerzan su actividad profesional.
+b) La circulación de personas en el interior de las referidas áreas sin otra alternativa de acceso a sus residencias y locales de trabajo.
+c) El acceso y permanencia en las áreas recreativas cuando estén debidamente equipadas, en los términos de la legislación aplicable.
+d) La circulación en autovías y autopistas, itinerarios principales, itinerarios complementarios y carreteras de la red estatal y autonómica.
+e) La circulación en carreteras de titularidad local para las cuales no existiese otra alternativa de circulación con equivalente recorrido.
+f) El acceso, circulación y permanencia en el interior de las referidas áreas de autoridades y personal dependiente de las administraciones con competencias en materia forestal, de agentes de las fuerzas y cuerpos de seguridad de las distintas administraciones y de autoridades, fuerzas armadas y personal de protección civil y emergencias en el ejercicio de sus competencias.
+g) El acceso, circulación y permanencia en el interior de las referidas áreas de personal militar en misión intrínsecamente militar.
+h) El acceso, circulación y permanencia en las fincas rústicas de régimen cinegético especial para aquellos cazadores socios de las sociedades gestoras de las mismas que participen en actividades cinegéticas autorizadas.
+i) El acceso y permanencia de personas debidamente acreditadas que desarrollen o participen en actividades recreativas, deportivas o turísticas expresamente autorizadas por la consejería competente en materia forestal.
+2. Lo dispuesto en el artículo 31 no se aplica, en ningún caso:
+a) A las áreas urbanas y áreas industriales.
+b) A los accesos habilitados a tal efecto a las playas fluviales y marítimas.
+c) A los medios de prevención, vigilancia, detección y extinción de los incendios forestales.
+d) A la ejecución de obras de interés público, con tal reconocimiento, bajo la responsabilidad del adjudicatario de las mismas.
+e) A la circulación de vehículos prioritarios cuando estuvieran en marcha de urgencia.
+f) A las áreas bajo jurisdicción militar.
+Se modifica por la disposición final 1.25 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+## TÍTULO V
+
+Uso del fuego
+
+### Artículo 33
+
+Artículo 33. Uso del fuego.
+Como medida preventiva, se prohíbe el uso del fuego en los terrenos agrícolas, terrenos forestales y zonas de influencia forestal definidas en el artículo 2 de la presente ley, salvo para las actividades y en las condiciones, periodos o zonas autorizadas por la consejería competente en materia forestal en los términos de la presente Ley y de lo que establezca su normativa de desarrollo.
+Se modifica por la disposición final 1.26 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 34
+
+Artículo 34. Comunicaciones y autorizaciones de quemas de restos agrícolas y forestales.
+1. La quema de restos agrícolas apilados en terrenos agrícolas y en aquellos terrenos ubicados en las zonas de influencia forestal será comunicada previamente, con carácter obligatorio, a la consejería competente en materia forestal, en los términos que se fijen reglamentariamente. Queda prohibida la quema de restos agrícolas y de actividades de jardinería en terrenos forestales.
+2. La quema de restos forestales apilados en terrenos agrícolas, forestales o en aquellos ubicados en las zonas de influencia forestal habrá de contar con autorización preceptiva de la consejería competente en materia forestal, en los términos que se fijen reglamentariamente. En todo caso, para la concesión de la autorización de quema de restos forestales se tendrán en cuenta los riesgos y la superficie que se solicita quemar.
+Se modifica por la disposición final 1.27 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 35
+
+Artículo 35. Autorización de quemas controladas.
+1. En el caso en que sea preciso, por razones de idoneidad técnica, realizar el control de la biomasa forestal por medio de quemas controladas, será necesaria la autorización de la consejería competente en materia forestal, para lo cual se tendrán en cuenta los riesgos derivados de la vulnerabilidad del terreno en relación con la erosión, pendiente y superficie a quemar.
+2. La realización de quemas controladas en terrenos agrícolas y forestales y zonas de influencia forestal solo será permitida, en los términos que se establezcan reglamentariamente, previa autorización expresa y con la presencia de personal técnico autorizado para la gestión de quemas controladas y con equipos de extinción de incendios. Las autorizaciones a que se refiere este apartado serán otorgadas por la consejería competente en materia forestal.
+3. Sin acompañamiento técnico adecuado, la quema controlada será considerada como fuego intencionado, a los efectos de la graduación de la sanción que pueda corresponder.
+4. La realización de quemas controladas solo estará permitida fuera de la época de peligro alto y cuando el índice de riesgo diario de incendio forestal sea bajo o moderado.
+5. Las quemas controladas sólo podrán realizarse de acuerdo con las normas técnicas y funcionales que se definirán reglamentariamente por orden de la consejería competente en materia forestal.
+6. Asimismo, en caso de que las quemas controladas se desarrollasen en terrenos calificados como espacios naturales protegidos, según la normativa sectorial de aplicación, será necesario el informe previo de la consejería competente en materia de conservación de la naturaleza.
+Se modifican los apartados 2 y 4, y se añade el apartado 6 por la disposición final 1.28 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 36
+
+Artículo 36. Otros usos del fuego.
+1. En las zonas agrícolas y forestales y en las de influencia forestal, durante la época de peligro alto de incendios forestales queda prohibido realizar hogueras para recreo u ocio y para la preparación de alimentos, así como utilizar equipamientos de quema y combustión destinados a la iluminación o a la elaboración de alimentos.
+2. En las zonas agrícolas y forestales y en las de influencia forestal, cuando el índice de riesgo diario de incendio forestal sea muy alto o extremo queda prohibido quemar matorrales cortados y amontonados y cualquier tipo de sobrantes de explotación, limpieza de restos o cualquier otro objeto combustible. La publicación por parte de la consejería competente en materia forestal, en los términos previstos en el artículo 10, del índice de riesgo diario de incendios forestales de nivel muy alto o extremo determinará la suspensión automática de los títulos habilitantes para la realización, en las zonas afectadas por estos niveles de riesgo y mientras se mantengan estos, de las quemas previstas en este número.
+3. Se exceptúa de lo dispuesto en el número 1 la preparación de alimentos en espacios no incluidos en zonas de alto riesgo de incendio, siempre que sea realizada en las áreas expresamente previstas al efecto, como son las áreas recreativas y otras, cuando estén debidamente identificadas y cuenten con infraestructuras adecuadas a tal fin.
+4. Excepcionalmente, la consejería con competencias en materia forestal podrá autorizar áreas recreativas incluidas en zonas de alto riesgo de incendio en las cuales puedan prepararse alimentos, siempre que contasen con los requisitos, instalaciones y equipamientos específicos que se señalen reglamentariamente.
+5. Se exceptúa, asimismo, de lo dispuesto en el número 1 el uso de fuego en las fiestas locales o de arraigada tradición popular, que requerirá autorización previa del ayuntamiento, en la cual figurarán, en todo caso, las medidas de seguridad y prevención de incendios forestales.
+6. Se exceptúa de lo dispuesto en el número 2 la quema de restos de explotación debida a exigencias fitosanitarias de carácter obligatorio y que así venga determinado por las autoridades competentes. Esta deberá realizarse con la presencia de una unidad de algún equipo de bomberos de las entidades locales o de un equipo autorizado por la Xunta de Galicia.
+Se modifican los apartados 1, 2, 3, 5 y 6 por el art. 82.2 y 3 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica por la disposición final 1.29 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 37
+
+Artículo 37. Cohetes y otras formas de fuego.
+1. En todos los terrenos forestales y zonas de influencia forestal, durante la época de peligro alto, los artefactos que lleven aparejado el uso del fuego, así como la utilización de fuegos de artificio, el lanzamiento de globos y otros artefactos pirotécnicos, que en todos los casos estén relacionados con la celebración de fiestas locales o de arraigada tradición cultural, están sujetos a la autorización previa del respectivo ayuntamiento, que incluirá las medidas específicas de seguridad y prevención adecuadas. El ayuntamiento comunicará las autorizaciones al distrito forestal correspondiente a su ámbito territorial con cuarenta y ocho horas de antelación como mínimo.
+En caso de que el índice de riesgo diario de incendio forestal sea extremo, el ayuntamiento no podrá autorizar la utilización de artefactos que lleven aparejado el uso del fuego, fuegos de artificio, globos y artefactos pirotécnicos. En los casos de que el índice de riesgo diario de incendio forestal sea extremo el día de la celebración, se entenderán revocadas las autorizaciones emitidas con anterioridad.
+Los lanzamientos de fuegos de artificio o artefactos pirotécnicos en los terrenos forestales y zonas de influencia forestal solo podrán ser realizados por personal autorizado de las empresas que figuren en el registro sectorial de esta actividad. Los fuegos de artificio y artefactos pirotécnicos habrán de emplear materiales ignífugos, o bien ignifugados.
+La autorización otorgada no eximirá en caso alguno de las responsabilidades por daños y perjuicios a que hubiera lugar en caso de que concurriese negligencia o imprudencia.
+2. Durante la época de peligro alto, las acciones de fumigación o desinfección en panales de abejas no están permitidas, salvo en el caso de que los fumigadores estén equipados con dispositivos de retención de chispas.
+3. En los terrenos forestales, durante la época de peligro alto, no está permitido fumar o hacer fuego de cualquier tipo en su interior o en las vías que los delimitan o atraviesan.
+4. Fuera de la época de peligro alto y desde que se verifique el índice de riesgo diario de incendio forestal de nivel extremo, se mantienen las restricciones referidas en el número 1 de este artículo.
+5. Fuera de la época de peligro alto y desde que se verifique el índice de riesgo diario de incendio forestal de niveles alto, muy alto y extremo, se mantienen las restricciones referidas en los números 2 y 3 de este artículo.
+6. La consejería competente en materia forestal podrá prohibir todos los usos de cohetes y otras formas de fuego si las circunstancias de peligro de incendio así lo aconsejan y mientras las mismas persistan.
+Se modifican los apartados 1, 4 y 5 por la disposición final 1.30 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 38
+
+Artículo 38. Limitaciones a la utilización de explosivos.
+El uso, transporte y almacenamiento de explosivos para aperturas de carreteras, trabajos de canteras, prospecciones mineras y otras actividades que incluyan el uso de los citados materiales en terrenos forestales habrá de realizarse según sus normas de seguridad, elaborando un plan de medidas de seguridad y prevención que será remitido para su conocimiento a la consejería con competencia en materia forestal.
+
+### Artículo 39
+
+Artículo 39. Maquinaria y equipamiento.
+1. Durante la época de peligro alto, en los trabajos y otras actividades que se lleven a cabo en todos los terrenos forestales y zonas de influencia forestal es obligatorio que los tractores, máquinas y vehículos de transporte pesados que van a utilizarse estén provistos de equipamiento para la extinción de incendios.
+2. El uso de otra maquinaria no forestal ni agrícola con herramientas que puedan producir chispas o soldaduras de cualquier tipo precisará de la correspondiente autorización en los términos que se establezcan.
+Se modifica el apartado 1 por el art. 20.10 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+
+## TÍTULO VI
+
+Aprovechamientos en el monte
+
+## CAPÍTULO I
+
+Cambios de actividad en terrenos quemados
+Se modifica por la disposición final 1.31 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 40
+
+Artículo 40. Cambios de actividad de forestal a agrícola.
+1. Con carácter general, el cambio de actividad de forestal a agrícola se regirá por lo dispuesto en la Ley de montes de Galicia.
+2. En caso de que se produjese un incendio forestal, no se autorizará el cambio de actividad de forestal a agrícola o pastizal desde la fecha en que se produjese el incendio forestal hasta el 31 de diciembre posterior a la fecha en la que se cumplieran dos años del mismo. Solamente de forma excepcional, y en atención a las circunstancias especiales que se determinen reglamentariamente, en los términos previstos en el artículo 50.1 de la Ley 43/2003, de 21 de noviembre, de Montes, podrá autorizarse dicho cambio de actividad.
+Se modifica por la disposición final 1.32 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 41
+
+Artículo 41. Aprovechamiento de pastos en los terrenos forestales.
+(Derogado)
+Se deroga por la disposición derogatoria única.d) de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+## CAPÍTULO II
+
+Actividades en terrenos quemados
+
+### Artículo 42
+
+Artículo 42. Aprovechamiento de madera quemada.
+Los aprovechamientos de madera quemada, con independencia de la especie forestal, requerirán la autorización previa del órgano inferior competente por razón del territorio de la consejería competente en materia forestal. Se desarrollarán reglamentariamente las condiciones para la autorización del aprovechamiento de la madera quemada por incendios forestales.
+Se modifica por la disposición 1.33 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 43
+
+Artículo 43. Limitaciones al pastoreo.
+1. Con carácter general, se prohíbe el pastoreo en todos los terrenos forestales que resultasen afectados por incendios forestales, en un plazo mínimo a contar desde la fecha en que se produjese el incendio hasta el 31 de diciembre posterior a la fecha en la que se cumpliesen dos años del mismo y hasta que las adecuadas condiciones de restauración de la masa arbolada, en su caso, lo permitan. En este caso, se precisará de autorización administrativa, en los términos que se establezcan al efecto.
+2. Reglamentariamente podrán contemplarse excepciones a la prohibición establecida en el apartado anterior, basadas en la acreditación de pérdidas de difícil reparación por la prohibición al pastoreo o en la inexistencia de alternativas al pastoreo en las áreas afectadas por incendios forestales dentro de la misma demarcación forestal, salvo que se trate de superficies arboladas quemadas, o superficies de parroquias incluidas en zonas declaradas como de alto riesgo donde, por el número de incendios forestales reiterados o por su gran virulencia, precisasen medidas extraordinarias de prevención de incendios y de protección de los montes frente a los impactos producidos por los mismos.
+Se modifica por la disposición final 1.34 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 44
+
+Artículo 44. Limitaciones a la actividad cinegética.
+1. Los aprovechamientos y la repoblación cinegética en terrenos quemados quedan prohibidos durante un periodo a contar desde la fecha en que se produjese el incendio hasta el 31 de diciembre posterior a la fecha en la que se cumpliesen tres años del mismo, salvo autorización expresa del órgano competente en materia cinegética, previo informe favorable de la consejería competente en materia forestal.
+2. La falta de esta autorización, o la realización de la actividad en condiciones distintas a las autorizadas, se sancionará con arreglo a lo dispuesto en la legislación gallega en materia cinegética.
+Se modifica por la disposición final 1.35 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+## CAPÍTULO III
+
+Vigilancia y detección de incendios forestales
+
+### Artículo 45
+
+Artículo 45. Vigilancia y detección.
+1. La vigilancia de los terrenos forestales y zonas de influencia forestal contribuye a la reducción del número de incendios forestales, identificando potenciales agentes causantes y disuadiendo comportamientos que propicien la existencia de incendios forestales.
+2. La detección tiene como objetivo la identificación inmediata y la localización precisa de los incendios forestales y su comunicación rápida a las entidades responsables de la extinción.
+3. La vigilancia y detección de incendios forestales puede realizarse por:
+a) Cualquier persona que detecte un incendio forestal, que está obligada a alertar de inmediato a las entidades competentes.
+b) La red de puntos de vigilancia, dependiente de los servicios de defensa contra incendios forestales, que asegura en todo el territorio de Galicia las funciones de detección fija de incendios forestales.
+c) La red de vigilancia de los espacios forestales de Galicia.
+d) La red de vigilancia móvil, dependiente de los servicios de defensa contra incendios forestales.
+e) Medios aéreos.
+f) Medios de las distintas administraciones públicas que se establezcan a través de los instrumentos de colaboración y cooperación institucional, las agrupaciones de defensa contra incendios y el voluntariado social.
+Se modifica por el art. 20.11 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+
+### Artículo 46
+
+Artículo 46. La red de puntos de vigilancia.
+1. La red de puntos de vigilancia está constituida por puestos de vigía ubicados en edificaciones o instalaciones previamente aprobadas por la consejería competente en materia forestal.
+2. La cobertura de detección de la red de puntos de vigilancia puede ser complementada con medios de detección móviles.
+3. La coordinación de la red de puntos de vigilancia corresponde a la consejería competente en materia forestal, que establecerá las orientaciones técnicas y funcionales para su ampliación, redimensionamiento y funcionamiento.
+4. Los puestos de vigilancia se instalarán según criterios de prioridad fundados en el grado de riesgo de incendio forestal, valor del patrimonio a defender y visibilidad, siendo dotados del equipamiento tecnológico adecuado a sus funciones.
+5. La instalación de cualquier equipamiento de comunicación radioeléctrica que pueda interferir en la calidad de las comunicaciones de la red de radio de los servicios de prevención y defensa contra los incendios forestales requerirá de informe previo favorable de la consejería competente en materia forestal.
+6. Cualquier plantación que se realice en el espacio de 50 metros alrededor de un puesto de vigía requerirá igualmente de informe previo favorable de la consejería competente en materia forestal.
+Se modifica el título por el art. 20.12 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+ Se modifican los apartados 4 y 5, y se añade apartado 6 por la disposición final 1.36 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 46 bis
+
+Artículo 46 bis. La red de vigilancia de los espacios forestales de Galicia.
+1. De acuerdo con la Ley 7/2012, de 28 de junio, de montes de Galicia, en cuanto determina el carácter estratégico para el desarrollo económico de Galicia de los recursos forestales gallegos y el interés público en la conservación de las masas forestales, y lo dispuesto en la presente ley, teniendo en cuenta su finalidad de proteger a las personas y los bienes afectados por los incendios forestales, y como instrumento de apoyo de las redes de vigilancia y detección de incendios forestales que componen las redes de defensa contra los incendios forestales de distrito forestal, la Administración autonómica pondrá en marcha la red de vigilancia de los espacios forestales de Galicia.
+2. La red de vigilancia de los espacios forestales de Galicia incluirá la instalación de sistemas tecnológicos de detección de incendios mediante cámaras ópticas en los puntos del monte gallego que se determinen, con la finalidad de facilitar las tareas de vigilancia forestal del monte gallego y detección temprana de incendios, así como, en caso de detectarse fuegos, permitir la visualización en directo y el seguimiento del avance, condiciones y evolución de los mismos a través de medios digitales e imágenes geoposicionadas, todo ello como mecanismo de apoyo a la toma de decisiones óptimas por las autoridades y personal técnico competentes para la movilización y gestión de medios y asignación y coordinación de recursos para la extinción.
+3. La instalación de los sistemas de vigilancia se realizará con preferencia en torres de telecomunicaciones e infraestructuras de titularidad de la Administración autonómica o de su sector público, y priorizando los puntos que permitan la vigilancia forestal de las parroquias de alta actividad incendiaria y zonas de alto riesgo definidas en el Plan de prevención y defensa contra los incendios forestales de Galicia, todo ello sin perjuicio de los medios personales y materiales de vigilancia ya existentes.
+4. La red de vigilancia de los espacios forestales de Galicia podrá ir incorporando las diferentes innovaciones tecnológicas que permita en cada momento la evolución del estado de la ciencia y de la técnica, como capacidad de visión nocturna e imágenes térmicas, al objeto de ir mejorando su efectividad y eficiencia.
+5. La operación de la red corresponderá a la consejería competente en materia de prevención y defensa contra incendios forestales y el mantenimiento técnico a la entidad del sector público competente en materia de modernización tecnológica de Galicia.
+6. En la implantación del proyecto se adoptarán todas las medidas técnicas, organizativas y de seguridad que sean necesarias para asegurar la privacidad y el cumplimiento de la normativa sobre protección de datos, en la medida en que pudieran captarse incidentalmente imágenes de personas identificables. A estos efectos, se establece como responsable de dicho tratamiento la consejería competente en materia de prevención y defensa contra incendios forestales.
+En el marco aludido, se aprobarán medidas como el establecimiento de protocolos de uso del sistema por parte del personal técnico competente, registros de accesos de la manipulación de las cámaras, mecanismos técnicos de encriptación para la conservación de las imágenes, limitación de plazos de conservación antes de su destrucción y todas aquellas otras medidas que sean precisas para el cumplimiento de las normas señaladas.
+Asimismo, las imágenes podrán ser puestas a disposición de la autoridad judicial y de las fuerzas y cuerpos de seguridad del Estado en los supuestos previstos en la normativa aplicable.
+Se añade por el art. 20.13 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+
+### Artículo 47
+
+Artículo 47. Sistemas de vigilancia móvil.
+1. Los sistemas de vigilancia móvil comprenden las patrullas de vigilancia que la Xunta de Galicia constituya y otros grupos que al efecto vengan a ser reconocidos por la consejería competente en materia forestal.
+2. Los sistemas de vigilancia móvil tienen, en concreto, por objetivos:
+a) Aumentar el efecto de disuasión.
+b) Identificar a los agentes causantes o supuestos de incendios forestales, poniéndolos en conocimiento de las autoridades competentes.
+c) Detectar incendios forestales en zonas sombra de los puestos de vigía.
+d) Realizar acciones de primera intervención en fuegos incipientes.
+3. Es competencia de la consejería competente en materia forestal la coordinación de las acciones de vigilancia llevadas a cabo por las diversas entidades o grupos.
+
+## CAPÍTULO IV
+
+Extinción e investigación de incendios forestales
+
+### Artículo 48
+
+Artículo 48. Extinción, remate, vigilancia, investigación y repercusión de gastos de incendios forestales.
+1. Toda persona que observase la existencia o el comienzo de un incendio está obligada a comunicarlo a los servicios de prevención y defensa contra los incendios forestales, a las fuerzas y cuerpos de seguridad del Estado o a los servicios de protección civil de la forma más rápida posible y, en su caso, colaborar, dentro de sus posibilidades, a la extinción del incendio.
+2. La dirección técnica de extinción se realizará por personal técnico dependiente de la consejería competente en materia forestal. Las operaciones de extinción de los incendios forestales serán realizadas por el personal perteneciente al Servicio de Defensa contra Incendios Forestales, por el personal dependiente de los servicios de protección civil y por profesionales habilitados al efecto por la consejería competente en materia forestal.
+3. El sistema de extinción de incendios forestales se basará en una estructura de base territorial, profesionalizada e integrada, bajo el mando único de la administración competente en materia forestal, a través de los órganos que se especifiquen en el Plan de prevención y defensa contra los incendios forestales de Galicia (Pladiga).
+4. Pueden participar en las operaciones de extinción y finalización de incendios forestales, bajo el mando único operativo dependiente de la consejería competente en materia forestal:
+a) Los vigilantes de la naturaleza de las áreas protegidas, las brigadas de comunidades y mancomunidades de montes vecinales en mancomún y de entidades locales y otros grupos que sean reconocidos por la consejería competente en materia forestal.
+b) Los efectivos de los distintos cuerpos de bomberos pertenecientes a las entidades, mancomunidades, agrupaciones de defensa contra incendios forestales y consorcios locales.
+c) Las personas propietarias y titulares de derechos reales y personales de los terrenos forestales con los medios materiales de que dispongan o que puedan serles puestos a disposición por los servicios de extinción de incendios bajo las órdenes y directrices de la administración competente.
+d) El personal dependiente de los servicios de protección civil, de los grupos locales de pronto auxilio y de otros vinculados a protección civil.
+5. La participación de los medios referidos en el número anterior se concretará a través del Plan de prevención y defensa contra los incendios forestales de Galicia.
+6. En situaciones de emergencia, cuando para la extinción de un incendio forestal fuera preciso, la persona directora o responsable técnica de las tareas de extinción podrá movilizar los medios públicos y privados para actuar en la extinción de acuerdo con un plan de operaciones. Asimismo, podrá disponer, cuando fuese necesario y aunque no pudiera contarse con la autorización de las personas titulares respectivas, la entrada de equipos y medios en fincas forestales, agrícolas o ganaderas, la circulación por caminos privados, la apertura de brechas en muros o cercas, la utilización de aguas, la apertura de cortafuegos de urgencia y la quema anticipada mediante contrafuego en las zonas que se estimase, dentro de una normal previsión, que pueden ser consumidas por el incendio.
+7. Asimismo, la administración competente podrá proceder a la ejecución directa de trabajos preventivos, sin necesidad de requerimiento previo, cuando se declarase un incendio forestal que suponga un riesgo inminente para las personas y los bienes.
+8. Tras la finalización de un incendio forestal, se procederá, en función de los medios disponibles, a la investigación de causas, al objeto de establecer las circunstancias en que se produjo e identificar y sancionar a la persona responsable de su autoría. La investigación debe servir también para establecer las medidas preventivas para evitar los incendios. Esta investigación, sin perjuicio de las competencias de las fuerzas y cuerpos de seguridad del Estado, será realizada por técnicos de los servicios de prevención y defensa contra incendios forestales y técnicos pertenecientes a los distritos forestales, agentes forestales o agentes facultativos medioambientales especializados o las brigadas de investigación de incendios forestales, siguiendo los protocolos oficiales y los procedimientos técnicos establecidos por la consejería competente en materia forestal.
+9. Sin perjuicio de las responsabilidades que, en su caso, correspondan a las personas autoras de los incendios forestales, la consejería competente en materia forestal repercutirá los gastos de extinción, previa tramitación por el órgano territorial de aquella del preceptivo procedimiento, con audiencia de las personas interesadas:
+a) A las personas que resulten responsables conforme al artículo 21 ter cuando hubiesen incumplido las obligaciones de gestión de la biomasa vegetal o retirada de especies arbóreas que les impone esta ley.
+b) A las personas que resulten responsables conforme al artículo 21 ter cuando hubiesen incumplido las distancias mínimas establecidas en esta ley y en la Ley 7/2012, de 28 de junio, de montes de Galicia, o norma que la sustituya.
+c) A las personas titulares del aprovechamiento de fincas concentradas o reestructuradas que estén en estado de abandono.
+El procedimiento para la repercusión de los gastos de extinción se iniciará de oficio, en la jefatura territorial correspondiente al municipio en que se produjo el incendio, o, si fuesen varios municipios afectados y ello determinase la competencia de órganos distintos, por el que corresponda al municipio con mayor superficie afectada, siempre que de la investigación a la que se refiere el número anterior se desprenda que dichos incumplimientos de las personas responsables o el estado de abandono de las fincas concentradas o reestructuradas influyeron en la producción, en la propagación o en la agravación de la intensidad y en los daños provocados por el incendio forestal.
+Los gastos se repercutirán a las personas mencionadas en proporción a la contribución de los incumplimientos que les sean imputables o del estado de abandono de las fincas concentradas o reestructuradas a la producción, a la propagación o a la agravación de la intensidad y a los daños provocados por el incendio forestal.
+La instrucción y resolución del procedimiento corresponderá al mismo órgano territorial competente para iniciarlo.
+10. La inclusión en el registro cartográfico e informático de superficies quemadas, recogido en el número 2 del artículo 4 de esta ley, tendrá efectos de reconocimiento oficial del incendio.
+Se modifican el título y el apartado 9 y se añade el 10 por el art. 17.13 a 15 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Véase, en cuanto a la repercusión de los gastos de extinción de los incendios forestales, la disposición transitoria 3.1 de la citada ley.
+ Se modifican los apartados 1, 2, 3, 6 y 8, y se añaden los apartados 4.d) y 9 por la disposición final 1.37 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 49
+
+Artículo 49. Mantenimiento y restauración de los terrenos incendiados.
+1. Anualmente, una vez finalizada la época de peligro alto de incendios forestales, la Administración autonómica gallega promoverá la elaboración de un mapa de riesgos, asociados a los incendios forestales del último período, en el que se concretarán las zonas sensibles a la erosión, la afección sobre los cursos y recursos hídricos, forestales y pesqueros y las infraestructuras.
+Asimismo promoverá la adopción de medidas urgentes y de colaboración con los afectados por los incendios forestales para llevar a cabo en las zonas de actuación prioritaria y que serán acometidas por los diferentes departamentos o consejerías competentes en la respectiva materia sectorial. Estas medidas urgentes podrán consistir en actuaciones para la conservación de los ecosistemas naturales, de los recursos forestales, hídricos y del suelo y en medidas destinadas a la regeneración de los terrenos, estableciendo limitaciones o prohibiciones de aquellas actividades que sean incompatibles con la regeneración de la cubierta vegetal.
+2. Este mapa de riesgos se elaborará por una comisión de carácter interdepartamental, en la que estarán representadas las diferentes consejerías con competencias en los sectores afectados por los incendios forestales. Su creación, composición y régimen jurídico se determinará reglamentariamente.
+3. El Consello de la Xunta de Galicia podrá declarar de utilidad pública las ocupaciones de infraestructuras o bienes privados que sean necesarios para la ejecución de las obras de restauración y regeneración de los terrenos quemados, así como para la realización de cualquier actuación destinada a la protección hidrológica a los efectos de lo previsto en la legislación sobre expropiación forzosa.
+
+## TÍTULO VII
+
+Régimen sancionador
+
+## CAPÍTULO I
+
+Infracciones y sanciones
+
+### Artículo 50
+
+Artículo 50. Infracciones en materia de incendios forestales.
+1. Los incumplimientos de lo dispuesto en la presente ley y su normativa de desarrollo serán sancionados con arreglo a lo previsto en el título VII de la Ley 43/2003, de 21 de noviembre, de montes, sin perjuicio de las peculiaridades que se contemplan en el presente título.
+2. Además de las tipificadas en el artículo 67 de la Ley 43/2003, de 21 de noviembre, de montes, constituyen infracciones en materia de incendios forestales:
+1) El incumplimiento de la obligación de gestionar la biomasa con arreglo a lo previsto en alguno de los artículos 20 bis, 21, 21 bis, 21 ter, 22 y 23 o en la disposición transitoria tercera de la presente Ley.
+2) El incumplimiento del procedimiento de gestión de biomasa establecido en el artículo 22 de la presente ley, así como el incumplimiento de los criterios de gestión de biomasa que se establezcan por orden de la consejería competente en materia forestal.
+3) El incumplimiento de las medidas de prevención para las nuevas edificaciones en zonas forestales y de influencia forestal, en los términos del artículo 23.2.
+4) La ejecución de medidas de silvicultura preventiva vulnerando lo dispuesto en la presente Ley y en su normativa de desarrollo.
+5) (Derogado)
+6) (Derogado)
+7) El depósito de productos forestales y productos inflamables en condiciones distintas de las previstas en el artículo 24 bis de la presente Ley.
+8) El empleo de maquinaria y equipamiento incumpliendo las condiciones establecidas en el artículo 39.
+9) El cambio de actividad sin obtener la autorización prevista en el artículo 40 o en condiciones distintas a las autorizadas.
+10) La práctica del pastoreo en los terrenos forestales que resultasen afectados por incendios forestales vulnerando lo dispuesto en el artículo 43 de la presente ley o incumpliendo la autorización prevista en el mismo.
+11) El aprovechamiento de madera quemada sin contar con la autorización, o en condiciones distintas a las autorizadas.
+12) Repoblaciones realizadas a menos de 50 metros alrededor de un puesto de vigía sin informe favorable de la consejería competente en materia forestal.
+13) Acampadas fuera de las zonas delimitadas a tal fin.
+Se derogan los apartados 2.5) y 2.6) por la disposición derogatoria única.d), se modifican los apartados 2.1), 2.3), 2.4), 2.7), 2.9), 2.10) y se añaden los apartados 2.12) y 2,13) por la disposición final 1.38 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 51
+
+Artículo 51. Calificación de las infracciones.
+Las infracciones en materia de incendios forestales tipificadas en el artículo anterior y en el artículo 67 de la Ley 43/2003, de 21 de noviembre, de montes, se calificarán como muy graves, graves y leves con arreglo a los criterios previstos en el artículo 68 de dicha ley, y además los siguientes:
+1. Infracciones muy graves:
+a) Las conductas constitutivas de infracción en materia de incendios forestales cuando afecten a una superficie superior a 25 hectáreas arboladas o a más de 50 hectáreas de matorral o matorral mezclado con arbolada.
+b) La conducta tipificada en el número 2.8 del artículo 50 de la presente Ley cuando el índice de riesgo diario de incendio forestal sea extremo.
+c) La realización, en época de peligro alto de incendios forestales, de quemas sin la autorización referida en los artículos 34.2 y 35 de la presente ley en relación con el apartado d) del artículo 67 de la Ley 43/2003.
+d) La comisión de una tercera infracción de carácter grave en el plazo de dos años, siempre que, respecto a las dos anteriores, la resolución sancionadora hubiera sido firme en vía administrativa. El plazo comenzará a contar desde el día en que la primera resolución sea firme en esta vía.
+2. Infracciones graves:
+a) Las conductas constitutivas de infracción en materia de incendios forestales cuando afecten a superficies de 1 a 25 hectáreas arboladas, de 2 a 50 hectáreas de matorral o matorral mezclado con arbolada o a más de 100 hectáreas de terrenos dedicados a pastos.
+b) Las conductas tipificadas en el número 2.8 del artículo 50 de la presente Ley, cuando el índice de riesgo diario de incendio forestal sea muy alto.
+c) Las conductas tipificadas en el artículo 50.2.3.
+d) La conducta tipificada en el número 2.7 del artículo 50.
+e) La conducta descrita en el número 2.4 del artículo 50, cuando las medidas de silvicultura se realizasen en terrenos incluidos en las redes secundarias de fajas de gestión de biomasa.
+f) La conducta prevista en el apartado o) del artículo 67 de la Ley 43/2003, de 21 de noviembre, de montes.
+g) La comisión de una tercera infracción de carácter leve en el plazo de dos años, siempre que, respecto a las dos anteriores, la resolución sancionadora hubiera sido firme en vía administrativa. El plazo comenzará a contar desde el día en que la primera resolución sea firme en esta vía.
+h) La conducta tipificada en el apartado k) del artículo 67 de la Ley 43/2003, de 21 de noviembre, de montes, cuando el índice de riesgo diario de incendio forestal sea muy alto o extremo.
+3. Infracciones leves:
+a) Constituyen infracción leve las conductas constitutivas de infracción en materia de incendios forestales cuando no deban calificarse como graves o muy graves.
+b) Asimismo, constituye infracción leve cualquier otro incumplimiento total o parcial de otras obligaciones o prohibiciones establecidas en la presente ley, en su normativa de desarrollo reglamentario o en la normativa estatal en materia de incendios.
+4. Cuando en la comisión de una infracción en materia de incendios forestales concurran varios criterios de los especificados en la presente ley y en la Ley 43/2003, de 21 de noviembre, de montes, para su calificación se atenderá a lo que resulte de mayor gravedad.
+Se modifican los apartados 1 y 2 por la disposición final 1.39 y 1.40 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 52
+
+Artículo 52. Criterios para la graduación de las sanciones.
+1. Para la determinación concreta de la sanción que se imponga, entre las asignadas a cada tipo de infracción, se tomarán en consideración, además de los criterios establecidos en la Ley 43/2003, de 21 de noviembre, de Montes, los siguientes, que habrán de ser debidamente motivados en la instrucción del expediente sancionador:
+a) La superficie afectada y el valor atribuido a cada tipo de cobertura vegetal.
+b) La adopción inmediata y eficaz de medidas tendentes a disminuir el daño o perjuicio ocasionado.
+c) La falta de acompañamiento técnico adecuado en la realización de quemas controladas, con arreglo a lo previsto en el artículo 35.3 de la presente Ley.
+d) La diferente consideración de la época de peligro, zonas de riesgo e índice de riesgo diario de incendio forestal, en la fecha de la comisión de la infracción, según lo dispuesto en los artículos 9, 10 y 11 de la presente Ley.
+e) La reiteración, entendida como la concurrencia de varias irregularidades o infracciones que se sancionen en el mismo procedimiento.
+f) La intencionalidad.
+g) La situación de riesgo generado para las personas o los bienes.
+h) El ánimo de lucro.
+i) Los perjuicios causados y la irreversibilidad de los mismos.
+j) La trascendencia social, medioambiental o paisajística.
+k) La agrupación u organización para cometer la infracción.
+l) Que la infracción fuera cometida en zona quemada o declarada como de especial riesgo de incendios.
+m) La reincidencia en la comisión de una infracción de las contempladas en la presente ley en el último año. El plazo comenzará a contarse desde el día siguiente a aquel en que adquiriese firmeza la resolución en vía administrativa.
+2. En todo caso, podrá reducirse la sanción o la cuantía de la sanción, a juicio del órgano competente para resolver según el tipo de infracción de que se trate, en atención a las circunstancias específicas del caso, entre ellas el reconocimiento y la enmienda de la conducta infractora y la reparación de los daños causados en el plazo que se señale en el correspondiente requerimiento efectuado bien por el agente denunciante, por el órgano competente para la incoación del expediente sancionador o por el órgano competente para su resolución, o cuando la sanción resulte excesivamente onerosa.
+3. Los criterios de graduación contemplados en el apartado 2 no podrán utilizarse para agravar la infracción cuando estén contenidos en la descripción de la conducta infractora o formen parte del propio ilícito administrativo. 4. La propuesta de resolución del expediente y la resolución administrativa que recaiga habrá de explicitar los criterios de graduación de la sanción tenidos en cuenta. Cuando no se estime relevante a estos efectos ninguna de las circunstancias enumeradas, la sanción se impondrá en la cuantía mínima prevista para cada tipo de infracción, sin perjuicio de lo dispuesto en el apartado 2.
+Se modifica el apartado 1 por la disposición final 1.41 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 53
+
+Artículo 53. Sanciones accesorias.
+1. El órgano competente para resolver podrá imponer acumulativamente las siguientes sanciones accesorias en el ámbito de las actividades y proyectos forestales:
+a) Privación del derecho a subvenciones u otros beneficios otorgados por las administraciones públicas, sus organismos autónomos y las entidades de derecho público relacionadas con la actividad forestal.
+b) Suspensión de autorizaciones y permisos a que se refiere la presente ley.
+2. Las sanciones referidas en el número anterior tienen la duración máxima de dos años a contar a partir de la firmeza, sea en vía administrativa o en vía contencioso-administrativa, de la resolución sancionadora.
+3. A los efectos de lo dispuesto en el apartado 1, la consejería competente en materia forestal comunicará, en el plazo de cinco días a partir de la firmeza de la resolución, a todas las entidades públicas responsables de la concesión de subvenciones y otros beneficios la aplicación de esta sanción accesoria.
+4. El órgano competente para resolver impondrá acumulativamente, en su caso, la sanción accesoria de decomiso definitivo de la madera correspondiente a las especies arbóreas prohibidas retiradas por la Administración en el caso de las ejecuciones subsidiarias realizadas conforme a lo establecido en el artículo 22 de esta ley. Si la madera se hubiese vendido de acuerdo con lo establecido en dicho artículo, el decomiso se referirá al producto obtenido por su venta, al cual deberá darse el destino previsto en esta ley.
+Se añade el apartado 4 por el art. 17.16 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+
+### Artículo 53 bis
+
+Artículo 53 bis. Multas coercitivas y ejecución subsidiaria.
+1. Si los infractores no procediesen a la reparación o indemnización, de acuerdo con lo establecido en la presente Ley, y una vez transcurrido el plazo señalado en el requerimiento correspondiente, la persona instructora del procedimiento u órgano encargado de la resolución podrá acordar la imposición de multas coercitivas o la ejecución subsidiaria.
+2. Las multas coercitivas serán reiteradas por lapsos de tiempo que sean suficientes para cumplir lo ordenado, no superando la cuantía de cada una de dichas multas el 20 % de la multa fijada por la infracción cometida.
+3. La ejecución subsidiaria de la reparación ordenada será a costa del infractor.
+Se añade por la disposición final 1.42 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+## CAPÍTULO II
+
+Procedimiento sancionador
+
+### Artículo 54
+
+Artículo 54. Competencia sancionadora.
+1. Será competente para incoar el procedimiento sancionador para las infracciones cometidas en terrenos agrícolas, forestales y de influencia forestal la persona titular del departamento territorial de la consejería con competencias en materia de incendios forestales por razón del territorio en el que se cometió la infracción o de aquel con mayor superficie afectada.
+En el caso de las infracciones recogidas en el artículo 50.2, números 1), 2) y 3), serán competentes para incoar el procedimiento sancionador los servicios de inspección de la Agencia de Protección de la Legalidad Urbanística correspondientes por razón del territorio, de acuerdo con su estructura orgánica.
+2. Serán competentes para la resolución de los procedimientos sancionadores por infracciones tipificadas en esta ley e incoados de conformidad con lo dispuesto en el número 1 en materia de incendios forestales:
+a) La persona titular del departamento territorial de la consejería competente en materia de incendios forestales, para la imposición de sanciones por la comisión de infracciones leves.
+b) El órgano competente en materia de incendios forestales, para la imposición de sanciones por la comisión de infracciones graves.
+c) La persona titular de la consejería que tenga asignada la competencia en materia de incendios forestales, para la imposición de sanciones por la comisión de infracciones muy graves.
+d) En el caso de las infracciones contempladas en el artículo 50.2, números 1), 2) y 3), será competente la persona titular de la dirección de la Agencia de Protección de la Legalidad Urbanística.
+3. La incoación del procedimiento sancionador en aplicación de esta ley para las infracciones cometidas en suelo urbano, de núcleo rural y urbanizable será competencia del correspondiente ayuntamiento. La resolución de los expedientes por la comisión de infracciones leves, graves o muy graves corresponderá a la persona titular de la alcaldía, de conformidad con lo establecido en el número 3 del artículo 21 ter.
+4. En el caso de las infracciones cometidas en suelo urbano, de núcleo rural y urbanizable la adhesión a la Agencia para la Protección de la Legalidad Urbanística producirá la atribución a esta de las competencias sancionadoras de los municipios integrados, de acuerdo con lo que se establezca en los correspondientes convenios de adhesión. Estas competencias se ejercerán por delegación, de acuerdo con lo establecido en la legislación aplicable a la agencia.
+Se modifica por el art. 82.4 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica el apartado 3 por el art. 17.17 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Se modifica por la disposición final 1.43 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 55
+
+Artículo 55. Plazo de resolución.
+1. El plazo máximo para resolver y notificar la resolución expresa que ponga fin al procedimiento será de nueve meses, a contar desde la fecha de inicio del procedimiento administrativo sancionador, que se corresponde con la fecha del acuerdo de incoación. Habiendo transcurrido este plazo sin que se notificara la resolución, se producirá la caducidad del mismo, con el archivo de las actuaciones, sin perjuicio de la obligación de dictar la correspondiente resolución.
+2. En caso de que el procedimiento se suspendiese o paralizase por causas imputables al interesado, se interrumpirá el cómputo del plazo para resolver.
+3. De conformidad con lo dispuesto por la legislación básica del procedimiento administrativo, el órgano competente para resolver, de oficio o a instancia de la persona instructora, puede acordar, mediante resolución motivada, una ampliación del plazo de aplicación que no exceda de la mitad del plazo inicialmente establecido. Dicha resolución debe ser notificada a la persona interesada antes del vencimiento del plazo de caducidad contemplado en la presente Ley.
+4. La caducidad del procedimiento no produce por sí misma la prescripción de la infracción. No obstante lo anterior, los procedimientos caducados no interrumpirán el plazo de prescripción.
+Se modifica por la disposición final 1.44 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 55 bis
+
+Artículo 55 bis. Procedimiento sancionador especial para determinadas infracciones en materia de incendios forestales.
+1. No obstante lo dispuesto en el artículo 54.1 respecto a la incoación del procedimiento sancionador, las denuncias formuladas por los agentes forestales, agentes facultativos medioambientales y por los miembros de la Unidad del CNP adscrita a la Comunidad Autónoma de Galicia, así como por el resto de los miembros de los cuerpos y fuerzas de seguridad en el ejercicio de sus funciones, siempre que sean notificadas en el acto al denunciado, constituirán el acuerdo de inicio del procedimiento sancionador en el caso de la comisión de las siguientes infracciones:
+a) El empleo de maquinaria y equipamiento cuando incumpla las condiciones establecidas en el artículo 39, cuando el índice de riesgo diario de incendio forestal sea extremo, contenida en el artículo 50.2.8 en relación con el artículo 51.1.b).
+b) La realización, en época de peligro alto de incendios forestales, de quemas sin autorización reguladas en los artículos 34.2 y 35 en relación con el artículo 51.1.c).
+c) El empleo de maquinaria y equipamiento cuando incumpla las condiciones establecidas en el artículo 39, cuando el índice de riesgo diario de incendio forestal sea muy alto, contenida en el artículo 50.2.8 en relación con el artículo 51.2.b).
+d) El depósito de productos forestales y productos inflamables en condiciones distintas de las previstas en el artículo 24 bis de esta ley, conforme a lo dispuesto en el artículo 50.2.7 en relación con el artículo 51.2.d).
+e) El tránsito o la permanencia en caminos o zonas forestales donde exista prohibición expresa en tal sentido cuando el índice de riesgo diario de incendio forestal sea muy alto o extremo, de acuerdo a lo dispuesto en el artículo 67.k) de la Ley 43/2003, de 21 de noviembre, de montes, en relación con los artículos 31 y 51.2.h) de esta ley.
+f) En el supuesto de las siguientes conductas, siempre que sean constitutivas de infracción leve:
+– El empleo de maquinaria y equipamiento cuando incumplan las condiciones establecidas en el artículo 39, cuando el índice de riesgo diario de incendio forestal sea bajo, moderado o alto, de acuerdo a lo dispuesto en el artículo 50.2.8 en relación con el artículo 51.3.a) de esta ley.
+– La realización, en época de peligro medio o bajo de incendios forestales, de quemas sin autorización reguladas en los artículos 34.2 y 35 en relación con el artículo 51.3.a) de esta ley.
+– El tránsito o la permanencia en caminos o zonas forestales donde exista prohibición expresa en tal sentido cuando el índice de riesgo diario de incendio forestal sea bajo, moderado o alto, de acuerdo a lo dispuesto en el artículo 67.k) de la Ley 43/2003, de 21 de noviembre, de montes, en relación con los artículos 31 y 51.3.a) de esta ley.
+– Acampadas fuera de las zonas delimitadas a tal fin.
+2. En estas denuncias deberá constar:
+a) La identificación de la persona o personas presuntamente responsables.
+b) El domicilio que, en su caso, indique el interesado a efectos de notificaciones.
+c) Una descripción sucinta de los hechos que motivan la incoación del procedimiento, con expresión del lugar, fecha y hora, así como de su calificación.
+d) La sanción que pudiere corresponder así como la obligación de reparar los daños y perjuicios ocasionados o, en su defecto, de indemnizarlos en los términos previstos en la Ley 43/2003, de 21 de noviembre, de montes, sin perjuicio de lo que resulte de la instrucción.
+e) El número de identificación profesional del agente de la autoridad.
+f) La unidad instructora del procedimiento y el régimen de recusación aplicable.
+g) El órgano competente para imponer la sanción conforme a lo dispuesto en esta ley.
+h) La indicación de que dicha denuncia inicia el procedimiento sancionador y de que su destinatario dispone de un plazo de veinte días para formular las alegaciones y/o proponer las pruebas que juzgue convenientes. En el caso de infracción leve se indicará asimismo al denunciado la posibilidad de abonar la multa en el plazo de veinte días con una reducción del 50 % de su cuantía, lo que determinará la conclusión del procedimiento sancionador.
+i) Las medidas de carácter provisional que adopte el agente denunciante, sin perjuicio de las que se puedan adoptar durante la tramitación del procedimiento sancionador.
+3. En el plazo máximo de siete días, a contar desde el siguiente al acuerdo de inicio del procedimiento, la persona titular de la jefatura territorial de la consejería con atribuciones en materia de incendios forestales que corresponda por razón del territorio en el que se hubiese cometido la infracción designará a la persona física que asumirá la instrucción del procedimiento y resolverá sobre el mantenimiento, modificación o levantamiento de las medidas provisionales adoptadas por el agente en la denuncia. De dicho acuerdo se dará traslado al denunciado a efectos de la posibilidad de interponer recurso de alzada respecto a la decisión adoptada sobre las medidas provisionales así como, en su caso, a efectos de la recusación respecto a la designación del instructor.
+4. En el supuesto de las infracciones leves indicadas en la letra f) del primer punto, transcurrido el plazo de veinte días sin que el denunciado hubiese formulado alegaciones y/o hubiese propuesto prueba, o sin que hubiese realizado el pago voluntario de la sanción, la denuncia se considerará propuesta de resolución. De ella se dará traslado al órgano competente para resolver, que dictará resolución en el plazo de tres días desde la recepción de la propuesta de resolución y del resto de la documentación.
+El procedimiento deberá resolverse en el plazo máximo de dos meses a contar desde el día siguiente al de la denuncia del agente.
+5. En los demás casos, recibidas las alegaciones y propuestas de prueba o transcurrido el plazo de veinte días concedido al efecto, el órgano instructor podrá acordar la práctica de prueba, y podrá solicitar en este momento los informes necesarios para la gradación de la sanción de acuerdo a los criterios indicados en el artículo 52 de esta ley.
+Finalizada, en su caso, la prueba, el instructor formulará propuesta de resolución en la que se concretarán los hechos probados, su calificación jurídica, la infracción que aquéllos constituyan y la persona o personas responsables, y se propondrá la sanción que deba imponerse con las sanciones accesorias que en ese caso procedan. En la propuesta de resolución se incluirán asimismo la forma y las condiciones en que el infractor debe reparar el daño causado con la determinación de la cuantía de la indemnización que en su caso proceda abonar al amparo de lo previsto en la Ley 43/2003, de 21 de noviembre, de montes.
+La propuesta de resolución se notificará a los interesados, y se les concederá un plazo de quince días para formular alegaciones y presentar los documentos que estimen pertinentes. Transcurrido dicho plazo, el órgano instructor remitirá la propuesta de resolución con todos los documentos, alegaciones e informaciones que obren en el expediente al órgano competente para resolver el procedimiento.
+El órgano competente para resolver, sin perjuicio de la facultad de acordar la práctica de actuaciones complementarias prevista en el Real decreto 1398/1993, de 4 de agosto, por el que se aprueba el reglamento del procedimiento para el ejercicio de la potestad sancionadora, dictará resolución en el plazo de diez días desde la recepción de la propuesta de resolución y del resto de la documentación.
+6. El plazo máximo para resolver y notificar la resolución expresa que ponga fin al procedimiento será de seis meses a contar desde la fecha de la denuncia.
+7. Las denuncias que no hubiesen podido ser notificadas en el momento de la denuncia a la persona denunciada se remitirán en el plazo máximo de siete días a la persona titular de la jefatura territorial de la consejería con atribuciones en materia de incendios forestales que corresponda por razón del territorio en el que se hubiese cometido la infracción para su tramitación ordinaria.
+En todo caso, el plazo máximo para resolver y notificar la resolución expresa que ponga fin al procedimiento sancionador que se siga por cualquiera de las infracciones descritas en el apartado 1 de este artículo será de seis meses a contar desde la fecha del acuerdo de incoación.
+Se añade por la disposición final 12 de la Ley 14/2013, de 26 de diciembre. Ref. BOE-A-2014-1586.
+
+## TÍTULO VIII
+
+Incentivos
+
+### Artículo 56
+
+Artículo 56. Objeto de los incentivos.
+Los incentivos contemplados en la presente ley podrán destinarse, de acuerdo con las disponibilidades presupuestarias, a la realización de trabajos y la adopción de medidas de prevención y lucha contra incendios forestales, sean o no exigibles al amparo de lo dispuesto en la presente ley y demás disposiciones aplicables. Asimismo, podrán otorgarse para contribuir a la recuperación y restauración de zonas incendiadas, en cuyo caso la concreción del destino de los incentivos se determinará por la consejería competente en materia forestal.
+
+### Artículo 57
+
+Artículo 57. Clases de incentivos.
+1. Los beneficios otorgables al amparo de la ley podrán consistir en cualquiera de los previstos en la normativa de régimen financiero y presupuestario de Galicia, así como cualquier otro que, en desarrollo de la presente ley, pudiera establecerse.
+2. Las medidas que puedan ser financiadas de acuerdo con la presente ley se establecerán reglamentariamente.
+
+### Artículo 58
+
+Artículo 58. Personas beneficiarias.
+1. Tendrán acceso a los beneficios contemplados en la presente ley todas las entidades y personas físicas o jurídicas, de carácter público o privado, y las comunidades y mancomunidades de montes vecinales en mancomún, ya sean propietarias o titulares de terrenos o explotaciones forestales o sean titulares de un derecho personal o real sobre los mismos.
+2. Tendrán preferencia en la asignación de incentivos aquellos titulares de terrenos forestales que tuvieran suscrito un seguro forestal o dispusiesen de instrumentos de ordenación o gestión forestal, debidamente aprobados de acuerdo con lo dispuesto en la presente Ley, y los propietarios que tuvieran un seguro de incendios.
+Se modifica el apartado 2 por la disposición final 1.45 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 59
+
+Artículo 59. Colaboración con las entidades locales.
+1. La Xunta de Galicia colaborará con las entidades locales para la prevención y extinción de incendios, bien a través de medios propios bien por medio de mecanismos de apoyo económico.
+2. La Xunta de Galicia incluirá en los presupuestos generales de la Comunidad Autónoma dotaciones económicas para la celebración de convenios de colaboración con los ayuntamientos para la redacción de los planes municipales de prevención y defensa contra incendios forestales en los términos establecidos en el artículo 16 y para la realización de trabajos preventivos en las vías y montes de titularidad municipal y en la gestión de la biomasa de las parcelas de propietario desconocido, determinadas en análisis de la propiedad de conformidad con lo establecido en el artículo 16.2, y a fin de que puedan tener recursos para ejercer las competencias contempladas en la misma con arreglo al artículo 331.1 de la Ley 5/1997, de 5 de agosto, de Administración local de Galicia.
+Se modifica por la disposición final 1.46 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En el supuesto de autorizaciones relativas a las condiciones de acceso, circulación y permanencia en zonas forestales, o de que la realización de aprovechamientos agrícolas, ganaderos o forestales en el monte se desarrollen en terrenos calificados, según el artículo 9 de la Ley 9/2001, de 21 de agosto, de conservación de la naturaleza, como espacios naturales protegidos o se encuentren delimitados dentro de hábitats para la conservación de aves silvestres, conforme prevé la Directiva 79/409/CEE, del Consejo, de 2 de abril de 1979, relativa a la conservación de aves silvestres, y el Real decreto 439/1980, de 30 de marzo, por el que se regula el Catálogo nacional de especies amenazadas, se exigirá además informe previo de la consejería competente en materia de medio ambiente.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. A los efectos de poder intervenir adecuadamente en la investigación específica de las causas de los incendios forestales, la consejería competente en materia forestal llevará un registro actualizado donde consten todas las investigaciones iniciadas por agentes de la autoridad por la provocación o tentativa de provocación de incendios forestales. A estos efectos, las distintas administraciones habrán de comunicar el estado de tramitación de los expedientes judiciales o sancionadores, así como, en caso de finalización de los mismos, cuál ha sido el resultado de las actuaciones.
+2. Reglamentariamente se establecerán las disposiciones relativas a la estructura, funcionamiento, comunicaciones y gestión de dicho registro.
+Se suprime el apartado 3 por la disposición final 1.47 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+1. Se determinan las siguientes especies a los efectos de la gestión de la biomasa vegetal y de la ordenación de las repoblaciones forestales, en los términos establecidos en la presente ley:
+Especie
+ Nombre común
+ Pinus pinaster.
+ pino gallego.
+ pino del país.
+ Pinus sylvestris.
+ pino silvestre.
+ Pinus radiata.
+ pino de Monterrey.
+ Pseudotsuga menziesii.
+ pino de Oregón.
+ Acacia dealbata.
+ mimosa.
+ Acacia melanoxylum.
+ acacia negra.
+ Eucalyptus spp.
+ eucalipto.
+ Calluna vulgaris.
+ brecina.
+ Chamaespartium tridentatum.
+ carquesa.
+ Cytisus spp.
+ retama.
+ Erica spp.
+ brezo.
+ Genista spp.
+ retama, piorno.
+ Pteridium aquilinum.
+ helecho.
+ Rubus spp.
+ zarza.
+ Ulex europaeus.
+ tojo.
+2. En todo caso, podrán conservarse árboles de las especies señaladas en el número anterior en cualquier clase de terrenos incluidos en las redes primarias y secundarias de gestión de biomasa en caso de tratarse de árboles singulares o aquellos que cumplan funciones ornamentales o que se emplacen en zonas recreativas (siempre que se mantenga una discontinuidad horizontal y vertical del combustible) o se hallen aislados y no supongan un riesgo para la propagación de incendios forestales.
+3. No serán de aplicación las obligaciones de gestión de la biomasa establecidas en la presente ley a las frondosas no incluidas en el listado del número 1.
+Se modifica el apartado 2 y se añade el 3 por el art. 20.14 y 15 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+ Se modifica el apartado 2 por la disposición final 1.48 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Los procedimientos de autorización regulados en la presente ley para actividades de servicios que vayan a realizarse en montes demaniales habrán de respetar los principios de publicidad, objetividad, imparcialidad y transparencia. Se aplicará, además, el principio de concurrencia competitiva en los supuestos siguientes:
+a) Cuando se trate de una actividad de servicios que promueva la administración gestora del monte conforme a los instrumentos de planificación y gestión del mismo.
+b) Cuando el ejercicio de la actividad excluya el ejercicio de otras actividades por terceros.
+Los criterios en que se basará la autorización para la realización de actividades de servicios estarán directamente vinculados a la protección del medio ambiente.
+La duración de dichas autorizaciones será limitada de acuerdo con sus características y no dará lugar a la renovación automática ni a la ventaja a favor del anterior titular o personas especialmente vinculadas con él.
+Se añade por el art. 17 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Las referencias a la Consejería de Medio Ambiente contenidas en los artículos 3.2, número 2; 15.4, número 2; 15.8, 31.5, 34.2 y disposición adicional primera de la presente Ley se entenderán hechas a la consejería competente en materia de conservación de la naturaleza.
+Se añade por la disposición final 1.49 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Informes sectoriales por cambio de uso.
+Los informes sectoriales de los servicios competentes en materia de incendios forestales solicitados por cambios de usos de los montes comprobarán exclusivamente si la zona forestal en la que se propone el cambio de uso ha sido afectada por incendios forestales.
+Se modifica por el art. 20.16 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+ Se añade por el art. 17.18 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+La presente ley no será de aplicación a la elaboración, alteración y revisión de los planes generales de ordenación municipal que, a la entrada en vigor de la misma, hayan iniciado el trámite de información pública.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En tanto no se publique la normativa de desarrollo de la presente ley, permanecerá en vigor el Decreto 105/2006, de 22 de junio, por el que se regulan medidas relativas a la prevención de incendios forestales, protección de los asentamientos en el medio rural y regulación de aprovechamientos y repoblaciones forestales, en aquellos aspectos que no contradigan la presente ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+1. En tanto no se definan las redes secundarias de fajas de gestión de la biomasa en los planes municipales de prevención y defensa contra los incendios forestales, serán de directa aplicación las obligaciones derivadas de lo dispuesto en el artículo 21.
+2. En tanto no se definan las redes primarias y terciarias de fajas de gestión de la biomasa, con arreglo a lo dispuesto en la presente Ley, en el Plan de defensa contra los incendios forestales de distrito, serán de directa aplicación las obligaciones derivadas de lo dispuesto en los artículos 20 bis y 21 bis, salvo la obligación contemplada en el apartado d) del artículo 20 bis, para cuyo cumplimiento las personas responsables dispondrán del plazo de un año para adaptarse a lo dispuesto en la misma.
+Se modifica por la disposición final 1.50 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+1. El Plan de prevención y defensa contra los incendios forestales de distrito habrá de adaptarse a lo dispuesto en la presente Ley en el plazo de dieciocho meses desde su entrada en vigor.
+2. Los planes municipales de prevención y defensa contra los incendios forestales habrán de adaptarse a lo dispuesto en la presente Ley en un plazo de cinco años desde su entrada en vigor.
+Se modifica por la disposición final 1.51 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Gestión de la biomasa en suelos no urbanizados.
+La gestión de la biomasa existente en los terrenos forestales y en las zonas de influencia forestal de la red secundaria de fajas en el entorno del suelo urbanizable no será preceptiva hasta que se desarrolle ese ámbito a través de un plan parcial y se apruebe definitivamente el proyecto de urbanización correspondiente.
+Se añade por el art. 20.17 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-20
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas todas las disposiciones que contravengan lo dispuesto en la presente ley.
+
+### Disposición final primera
+
+Disposición final primera.
+La regulación contenida en la presente ley se entenderá sin perjuicio de lo dispuesto en la legislación gallega de emergencias.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación para el desarrollo normativo.
+Se faculta al Consejo de la Xunta de Galicia para dictar las disposiciones necesarias para el desarrollo reglamentario y la aplicación de esta ley.
+Sin perjuicio de lo anterior, y en atención a las circunstancias de cada año que puedan suponer un incremento del riesgo de incendio, la consejería competente en materia de prevención y defensa contra incendios forestales podrá modificar, mediante orden, las fechas indicadas en los apartados 1 y 2 del artículo 22 de esta ley.
+Se modifica por el art. 14.4 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de Galicia.
+
+Santiago de Compostela, 9 de abril de 2007.
+EMILIO PÉREZ TOURIÑO,
+Presidente

@@ -1,0 +1,512 @@
+# Ley 8/2007, de 30 de julio, del Instituto Catalán de la Salud.
+
+- Identificador BOE: `BOE-A-2007-15544`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-15544
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 65 del Estatuto de autonomía de Cataluña, promulgo la siguiente Ley 8/2007, de 30 de julio, del Instituto Catalán de la Salud.
+PREÁMBULO
+I
+La Ley 12/1983, de 14 de julio, de administración institucional de la sanidad, y de la asistencia y los servicios sociales de Cataluña, creó el Instituto Catalán de la Salud como entidad gestora de la Seguridad Social y de los servicios y prestaciones sanitarias de la Generalidad, para desarrollar las competencias que la Constitución española y el Estatuto de autonomía le atribuían y para ejecutar los servicios y funciones que le habían sido traspasados.
+En el momento de la creación del Instituto Catalán de la Salud, la regulación básica sobre la gestión institucional de la Seguridad Social era establecida por el Real decreto ley 36/1978, de 16 de noviembre, una norma que rompía las estructuras corporativas heredadas del pasado y reestructuraba radicalmente el sistema de entidades gestoras.
+Desde entonces, la configuración del sistema de la Seguridad Social ha evolucionado normativamente hacia un redimensionamiento progresivo del propio ámbito y hacia el carácter instrumental o adicional de la condición de entidad gestora. Se ha producido, también, la distinción entre la integración en el sistema y las prestaciones, la gestión diferenciada de las prestaciones económicas y las prestaciones sanitarias y la atribución progresiva de las competencias sanitarias a las comunidades autónomas.
+A lo largo de esta evolución normativa, destacan la Ley 14/1986, de 25 de abril, general de sanidad, que creó el Sistema Nacional de Salud, y la Ley 15/1990, de 9 de julio, de ordenación sanitaria de Cataluña, que creó el Servicio Catalán de la Salud, responsable de garantizar la atención sanitaria pública y una cobertura pública de calidad de los ciudadanos de Cataluña mediante una adaptación adecuada de la oferta sanitaria a sus necesidades.
+La Ley de ordenación sanitaria de Cataluña permitió que el Instituto Catalán de la Salud empezase a adaptar progresivamente su marco de gestión para poder operar como el resto de proveedores del sistema sanitario. Por ello, mediante el Decreto 138/1993, de 7 de mayo, y, posteriormente, el Decreto 276/2001, de 23 de octubre, se realizaron dos reestructuraciones del Instituto Catalán de la Salud, con el objetivo de mejorar su eficacia, eficiencia y calidad de los servicios.
+Ahora, con esta ley del Instituto Catalán de la Salud, se hace un acto de normalización institucional que permite que este Instituto deje de ser exclusivamente un ente gestor de la Seguridad Social y se convierta en un instrumento de referencia de la política sanitaria de la Generalidad.
+II
+El nuevo Instituto Catalán de la Salud tiene su origen en una concepción dinámica, eficiente, innovadora y flexible del sector público, imprescindible para responder adecuadamente a las necesidades de los ciudadanos. Así, la presente ley se configura como la herramienta jurídica capaz de hacer posible un Instituto Catalán de la Salud ágil, competitivo, adaptable a los constantes cambios sociodemográficos –como el aumento de la esperanza de vida y los flujos migratorios–, epidemiológicos y tecnológicos, y próximo a la realidad de la población.
+La misión del Instituto Catalán de la Salud es desarrollar una organización sanitaria pública de la Generalidad que sea un referente y un modelo de provisión de servicios de salud en Cataluña. La actuación del Instituto se fundamenta en unos valores coherentes con esta misión, como por ejemplo la competencia de sus profesionales, unas adecuadas condiciones de trabajo, la calidad como factor distintivo de excelencia de los servicios, la innovación, el respeto, la humanización y la ética en la atención a los pacientes y usuarios, la responsabilidad, la confidencialidad, la integridad, la equidad, la responsabilidad social, la igualdad de oportunidades entre mujeres y hombres y la integración de la perspectiva de género.
+El proveedor de servicios asistenciales más importante de Cataluña adopta ahora una perspectiva ajustada al entorno en el que opera. La respuesta a un escenario de demanda y costes crecientes exige que el Instituto Catalán de la Salud, al igual que los demás proveedores sanitarios de cobertura pública, pueda desarrollar una gestión pública moderna, autónoma, abierta a la comunidad, con participación de los profesionales, establecer alianzas y acuerdos de colaboración y cooperación con otras instituciones sanitarias de cobertura pública, y pueda descentralizar, todo lo posible, la toma de decisiones en los niveles de asistencia más próximos a los ciudadanos, haciendo compatible la aplicación del principio de subsidiariedad con la definición de unos servicios corporativos centrados en la estrategia y evaluación de resultados.
+La orientación empresarial pública de la gestión del Instituto Catalán de la Salud no implica la introducción del concepto de beneficio, pero sí que tiene un enfoque basado en el binomio calidad-coste, en la aplicación de técnicas modernas de gestión, en la optimización de las nuevas tecnologías de la información –que se ponen al servicio de los ciudadanos–, en un proceso dinámico de toma de decisiones, así como con la introducción de nuevos instrumentos y mecanismos de evaluación de los objetivos y resultados de la gestión, más transparentes, eficaces y modernos. Así, la actividad del Instituto Catalán de la Salud debe sustentarse en los valores de la simplicidad organizativa, la autonomía de los centros, la desconcentración y la descentralización territorial, el rigor presupuestario, los procedimientos de evaluación de la gestión, la transparencia en la gestión y los resultados, la sostenibilidad, el diálogo con los usuarios y los profesionales y la participación de estos en la gestión.
+III
+La presente ley se estructura en cinco capítulos, cuatro disposiciones adicionales, dos disposiciones transitorias, una disposición derogatoria y tres disposiciones finales. El capítulo I determina la creación de la empresa pública Instituto Catalán de la Salud, con personalidad jurídica propia y autonomía funcional y de gestión, que actúa sometida a derecho privado y que lleva a cabo su función de acuerdo con los correspondientes principios informadores y de gestión.
+El capítulo II regula los órganos de dirección, de participación comunitaria y de gestión del Instituto Catalán de la Salud. Entre los primeros, destaca el Consejo de Administración como órgano superior de gobierno. En cuanto a los órganos de gestión, se distinguen los servicios corporativos, las gerencias territoriales y las unidades de gestión de los centros, servicios y establecimientos del Instituto, que actúan bajo el principio de autonomía económica y financiera y de gestión, en el marco de un programa anual de actividad aprobado por el Consejo de Administración.
+El capítulo III, relativo a la prestación de los servicios sanitarios y sociosanitarios, define el contrato-programa como el instrumento que articula la prestación de servicios del Instituto Catalán de la Salud por cuenta del Servicio Catalán de la Salud.
+El capítulo IV fija el régimen de contratación, de impugnación de actos y de responsabilidad del Instituto Catalán de la Salud, de acuerdo con la legislación administrativa básica.
+Finalmente, el capítulo V trata del régimen de personal, económico y patrimonial del Instituto Catalán de la Salud. En concreto, regula las distintas tipologías de personal, el patrimonio adscrito y el propio, los recursos económicos, el régimen presupuestario y contable y el control financiero, dentro del marco de la normativa aplicable a la empresa pública catalana.
+IV
+En cuanto a la parte final de la presente ley, cabe destacar que contiene una disposición final que modifica cuatro disposiciones transitorias de la Ley 7/2003, de 25 de abril, de protección de la salud. La Ley 7/2003, tiene la voluntad de avanzar en la ordenación de las actividades y los servicios de salud pública y persigue modernizar la acción administrativa en el ámbito de la protección de la salud, a fin de dotarla de las herramientas científicas, técnicas y organizativas necesarias que contribuyan a preservar la salud de la población de Cataluña, de acuerdo con los principios informadores del sistema sanitario catalán de racionalización, eficacia, simplificación y eficiencia.
+Las disposiciones transitorias modificadas de la Ley 7/2003, son la primera, la segunda, la octava y la novena, dirigidas a regular la situación del personal que ha ejercido funciones y actividades en el ámbito de la salud pública en Cataluña. Estas disposiciones establecen una transformación profunda del panorama de los recursos humanos vigente hasta el momento. Sin embargo, desde la entrada en vigor de la Ley 7/2003, se han detectado algunos aspectos que requieren una mejora bajo el punto de vista de la prestación del servicio de salud pública y de la coherencia interna del sistema de salud en Cataluña, y también bajo el punto de vista de la constitucionalidad de los procesos de selección previstos. Por estas razones la presente ley incluye modificaciones en el contenido de las disposiciones mencionadas.
+Las disposiciones transitorias que son objeto de modificación hacen referencia a dos situaciones. Las disposiciones transitorias primera y segunda se refieren a los funcionarios de los cuerpos de médicos y practicantes titulares, que deben optar por alguna de las alternativas que les ofrecen dichas disposiciones transitorias. Las disposiciones transitorias octava y novena hacen referencia a las personas que en el momento de la entrada en vigor de la Ley 7/2003 ocupaban, con carácter interino, un puesto de trabajo de los cuerpos de médicos, practicantes, comadrones o farmacéuticos titulares, y determina su situación a partir de la entrada en vigor de la presente ley. También se regulan el proceso de selección que deben superar los médicos, practicantes y comadrones para acceder a la condición de personal estatutario fijo del Instituto Catalán de la Salud y el proceso de selección que deben superar los farmacéuticos para acceder a la condición de personal funcionario del Cuerpo de Titulación Superior de la Generalidad, Salud Pública.
+Con la presente ley, pues, quiere llevarse a cabo la reforma asistencial y la reforma organizativa necesarias para que el Instituto Catalán de la Salud dé una respuesta adecuada a las necesidades de salud de la ciudadanía y, a su vez, consiga una mayor eficiencia en el uso de los recursos públicos.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Creación de la empresa pública Instituto Catalán de la Salud.
+Se crea el Instituto Catalán de la Salud como entidad de derecho público de la Generalidad, que actúa sujeto al derecho privado, con personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus funciones, de conformidad con el artículo 21 del Decreto legislativo 2/2002, de 24 de diciembre, por el que se aprueba el texto refundido de la Ley 4/1985, de 29 de marzo, del Estatuto de la empresa pública catalana.
+
+### Artículo 2
+
+Artículo 2. Régimen jurídico.
+1. El Instituto Catalán de la Salud se rige por la presente ley, por las normas de desarrollo que debe aprobar el Gobierno, a quien corresponde aprobar sus estatutos, y por los acuerdos que adopte su consejo de administración dentro de este marco. El Instituto queda sometido a la normativa reguladora del sector público de la Generalidad, a la normativa sobre finanzas públicas y del patrimonio de la Generalidad y, en general, a las demás normas de derecho público en las materias establecidas por la presente ley.
+2. El Instituto Catalán de la Salud tiene autonomía funcional y de gestión y queda adscrito al Servicio Catalán de la Salud.
+3. El Instituto Catalán de la Salud se ajusta a los principios de desconcentración y de descentralización territorial y de gestión, de acuerdo con el modelo sanitario de Cataluña y con el marco organizativo territorial aprobado por el Gobierno.
+4. El Instituto Catalán de la Salud tiene la condición de medio propio instrumental y de servicio técnico de la Administración de la Generalidad y de los entes que dependen de la misma, a efecto de lo que se establece en los artículos 4.1.n y 24.6 del texto refundido de la Ley de contratos del sector público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre.
+5. Las relaciones entre el Instituto Catalán de la Salud y los departamentos en los que se estructura la Administración de la Generalidad y los entes que de ella dependen de los cuales es medio propio instrumental y de servicio técnico no tienen naturaleza contractual y se articulan mediante los correspondientes encargos. En consecuencia, el Instituto Catalán de la Salud está obligado a llevar a cabo los encargos que le formulen estos departamentos, que deben especificar, como mínimo, el ámbito del encargo, la previsión de los costes y el sistema de financiación.
+6. El Instituto Catalán de la Salud no puede participar en las licitaciones públicas convocadas por los departamentos de la Administración de la Generalidad respecto a los cuales tiene la consideración de medio propio instrumental y de servicio técnico. No obstante, cuando no concurra ningún licitador, puede encargarse al Instituto Catalán de la Salud la ejecución de la actividad objeto de la licitación pública.
+7. El importe de las prestaciones realizadas por el Instituto Catalán de la Salud se determina mediante la aplicación de las correspondientes tarifas a las unidades ejecutadas. En la determinación de estas tarifas deben tenerse en cuenta los costes reales de la realización o ejecución de la correspondiente prestación.
+Se modifica el apartado 2 y se añaden los apartados 4 a 7 por el art. 162.1 y 2 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se modifica el apartado 2 por el art. 7.1 del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha de 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 3
+
+Artículo 3. Objetivos.
+1. Los objetivos del Instituto Catalán de la Salud son:
+a) Prestar servicios sanitarios públicos preventivos, asistenciales, diagnósticos, terapéuticos, rehabilitadores, paliativos, de cuidados y de promoción y mantenimiento de la salud destinados a los ciudadanos, de conformidad con el catálogo de prestaciones del Sistema Nacional de Salud y la cartera de servicios aprobada por el Gobierno de la Generalidad.
+b) Prestar otros servicios financiados con tasas o precios públicos que le pueda encargar el departamento competente en materia de salud.
+c) Llevar a cabo actividades docentes y de investigación en el campo de las ciencias de la salud.
+2. Las prestaciones públicas deben incluir necesariamente la atención primaria y la atención continua extrahospitalaria; la atención hospitalaria, que incluye los servicios de alta complejidad y alta tecnología médica; la atención sociosanitaria; la atención de la salud mental, y la prestación de servicios diagnósticos y apoyo para garantizar unos servicios asistenciales eficientes y de calidad.
+3. El Instituto Catalán de la Salud debe cooperar con los demás prestadores públicos de servicios sanitarios y sociosanitarios, a fin de dar eficacia y coherencia a la realización de su objeto.
+
+### Artículo 4
+
+Artículo 4. Funciones.
+El Instituto Catalán de la Salud tiene las siguientes funciones:
+a) Desarrollar una organización asistencial de la Generalidad que sea un referente y un modelo de provisión de servicios de salud en Cataluña.
+b) Garantizar la prestación sostenible de unos servicios asistenciales de calidad, que se ajusten a los requerimientos específicos de los ciudadanos, respetando el principio de autonomía de gestión de centros y servicios, la participación y corresponsabilización profesional en la gestión de los servicios, la transparencia en su actuación y en la colaboración con otras instituciones con finalidades similares.
+c) Mejorar y modernizar sus infraestructuras y equipamientos, con una distribución coherente sobre el territorio.
+d) Reforzar las políticas de personal para asegurar la competencia y la motivación de los profesionales y promover condiciones de trabajo adecuadas.
+e) Adaptar la organización y prestación de sus servicios a las problemáticas cambiantes y garantizar una utilización óptima de los medios disponibles.
+f) Promover la utilización de las terapias más adecuadas.
+g) Adaptar las políticas de información y los métodos de interacción con los usuarios.
+h) Optimizar la gestión de los recursos financieros.
+i) Establecer formas de gobierno rigurosas y transparentes, que permitan a los órganos de gobierno ejercer una dirección efectiva de la institución y garanticen una participación efectiva de todos los implicados.
+
+### Artículo 5
+
+Artículo 5. Principios de gestión.
+1. El Instituto Catalán de la Salud actúa de acuerdo con los principios de eficiencia, mediante una gestión pública moderna y rigurosa de los recursos; autonomía de gestión; eficacia; simplificación; desconcentración; descentralización territorial; racionalización; transparencia; agilidad; evaluación de la gestión; sostenibilidad; cooperación; participación social y corresponsabilidad de sus profesionales; continuidad del proceso asistencial, equidad en el acceso a las prestaciones, proximidad y orientación de la gestión a los ciudadanos.
+2. El Instituto Catalán de la Salud debe facilitar el acceso, promoción y desarrollo profesional de sus miembros teniendo en cuenta, entre otros, sus méritos y su capacidad profesional, y debe respetar su autonomía técnica y científica sin más limitaciones que las que se deriven del ordenamiento jurídico y el código deontológico.
+3. Los principios que rigen la gestión del Instituto Catalán de la Salud se articulan mediante la aplicación de las nuevas tecnologías de la información, la innovación organizativa y asistencial, la formación continua de los profesionales, la evidencia científica disponible y la gestión de riesgo en los términos y condiciones establecidos por la normativa aplicable.
+4. El Instituto Catalán de la Salud debe contar con un sistema integral de gestión que permita conocer y controlar la calidad y el coste de los servicios y los resultados obtenidos en el ejercicio de sus actividades, globalmente y en cada nivel de responsabilidad, así como efectuar la evaluación del funcionamiento del sistema y la consecución de los objetivos fijados respetando los principios de autonomía de gestión de cada centro.
+5. El departamento competente en materia de salud debe velar para que la empresa pública Instituto Catalán de la Salud elabore un sistema de rendición de cuentas basado en la contabilidad de costes y que incorpore indicadores de calidad, satisfacción de los usuarios y eficiencia económica y resultados de salud.
+6. El Instituto Catalán de la Salud, en el marco de las disponibilidades presupuestarias, debe disponer de los recursos suficientes para lograr sus objetivos.
+7. La dirección y gestión de los centros propios del Instituto Catalán de la Salud corresponden exclusivamente a los cargos directivos y al personal con funciones de mando del Instituto, y en ningún caso pueden contratarse a terceros. En el caso de los consorcios y demás entidades en que el Instituto Catalán de la Salud participa mayoritariamente, estas funciones corresponden, en los mismos términos y condiciones, al personal directivo de los mismos o al personal con funciones de mando del Instituto.
+
+## CAPÍTULO II
+
+Organización
+
+### Artículo 6
+
+Artículo 6. Órganos de dirección, participación comunitaria y gestión.
+1. Los órganos de dirección del Instituto Catalán de la Salud son el Consejo de Administración y el director o directora gerente.
+2. Los órganos de participación comunitaria del Instituto Catalán de la Salud son el Consejo General de Participación, los consejos de participación de los centros, servicios y establecimientos del Instituto, y los demás órganos de participación que puedan crearse.
+3. Los órganos a que se refiere el apartado 2 se configuran como órganos colegiados de participación comunitaria con fines de asesoramiento, consulta, seguimiento y supervisión de la actividad sanitaria del Instituto Catalán de la Salud y deben ser integrados, entre otros, por representantes de los entes locales, la sociedad civil y las organizaciones sindicales y empresariales más representativas en Cataluña y de las profesiones sanitarias. Estos órganos deben disponer de los instrumentos y medios necesarios para garantizar una participación efectiva y útil.
+4. Se crea el Consejo de Participación de los Profesionales del Instituto Catalán de la Salud, como órgano de participación que asesora al Consejo de Administración sobre asuntos relacionados con las condiciones y el ejercicio profesional del personal médico y de enfermería del Instituto.
+5. La composición, funciones y normas de funcionamiento de los órganos de participación a que se refieren los apartados 3 y 4 deben establecerse mediante los respectivos estatutos o por acuerdo del Consejo de Administración.
+6. Los órganos de gestión del Instituto Catalán de la Salud son:
+a) Los servicios corporativos, que son a su vez estructura de apoyo del director o directora gerente y de los centros, servicios y establecimientos del Instituto.
+b) Las gerencias territoriales.
+c) Las unidades de gestión de los centros, servicios y establecimientos del Instituto.
+
+### Artículo 7
+
+Artículo 7. El Consejo de Administración.
+1. El Consejo de Administración es el órgano superior de gobierno y dirección del Instituto Catalán de la Salud.
+2. El Consejo de Administración está formado por:
+a) El presidente o presidenta, nombrado por el Gobierno, que puede delegar las funciones en un vocal o una vocal.
+b) Cuatro vocales propuestos por el consejero o consejera del departamento competente en materia de salud.
+c) Dos vocales propuestos por el consejero o consejera del departamento competente en materia de economía y finanzas.
+d) Un vocal o una vocal propuesto por el consejero o consejera del Departamento de la Presidencia.
+e) Un vocal o una vocal propuesto por el consejero o consejera del departamento competente en materia de administración local.
+f) Un vocal o una vocal propuesto por el consejero o consejera del departamento competente en materia de servicios sociales.
+g) Un vocal o una vocal propuesto por el consejero o consejera del departamento competente en materia de servicios penitenciarios.
+h) Un vocal o una vocal propuesto por el consejero o consejera del departamento competente en materia de innovación.
+i) Un vocal o una vocal propuesto por el consejero o consejera del departamento competente en materia de trabajo.
+j) Un vocal o una vocal propuesto por el Consejo de Participación de los Profesionales del Instituto Catalán de la Salud.
+k) Un vocal o una vocal propuesto por el consejero o consejera del departamento competente en materia de salud, entre los miembros de las asociaciones de pacientes o de las asociaciones de consumidores y usuarios.
+l) Dos vocales propuestos por las entidades asociativas de los entes locales de Cataluña.
+m) Dos vocales propuestos por el consejero o consejera del departamento competente en materia de salud, entre profesionales de reconocido prestigio en el ámbito sanitario.
+n) Dos vocales propuestos por las organizaciones sindicales más representativas en Cataluña.
+o) Dos vocales propuestos por las organizaciones sindicales con más representación en el ámbito del Instituto Catalán de la Salud.
+3. Los vocales del Consejo de Administración son nombrados por el Gobierno.
+4. Los miembros del Consejo de Administración están sometidos al régimen de incompatibilidades establecido por la normativa general que les corresponde y, en particular, son incompatibles con cualquier vinculación directa con personas físicas o jurídicas cuya actividad esté directamente relacionada con los trabajos encomendados al Instituto Catalán de la Salud, si esta vinculación puede impedir o menoscabar el cumplimiento estricto de sus deberes o comprometer su imparcialidad o independencia.
+5. El presidente o presidenta del Consejo de Administración debe nombrar a un secretario o secretaria entre los profesionales del Instituto Catalán de la Salud, con voz pero sin voto, al que corresponde extender las actas de las sesiones, entregar las certificaciones de los acuerdos y conservar los libros oficiales.
+6. La composición del Consejo de Administración debe procurar conseguir la paridad de género.
+7. El director o directora gerente del Instituto Catalán de la Salud asiste a las sesiones del Consejo de Administración, con voz pero sin voto.
+8. Los estatutos deben prever la creación de una comisión ejecutiva del Consejo de Administración, con las facultades que, de acuerdo con lo establecido por el artículo 8.3, este Consejo le delegue. En la composición de la Comisión Ejecutiva debe ser mayoritaria la representación de la Generalidad.
+9. Los acuerdos en el Consejo de Administración o en la Comisión Ejecutiva se adoptan por mayoría. En caso de empate, el voto del presidente o presidenta del Consejo de Administración es dirimente.
+
+### Artículo 8
+
+Artículo 8. Funciones del Consejo de Administración.
+1. El Consejo de Administración del Instituto Catalán de la Salud se encarga de llevar a cabo la planificación estratégica de los medios que están adscritos al mismo, dirigir sus actuaciones y ejercer el control superior de su gestión.
+2. En el marco de la función general determinada por el apartado 1, corresponden al Consejo de Administración las siguientes funciones específicas:
+a) Proponer al consejero o consejera competente en materia de salud, para que sean presentadas al Gobierno, la aprobación y modificación de los estatutos del Instituto Catalán de la Salud, y aprobar, si procede, el reglamento marco de funcionamiento interno de los centros, servicios y establecimientos del Instituto.
+b) Establecer, a propuesta del director o directora gerente o a iniciativa propia, de acuerdo con los estatutos, la estructura organizativa de los órganos de gestión del Instituto; las normas de funcionamiento, y las normas y criterios de desarrollo organizativo.
+c) Fijar los objetivos de actuación del Instituto Catalán de la Salud y de los entes que dependen del mismo y aprobar las directrices necesarias para su consecución.
+d) Aprobar, antes de que los departamentos competentes en materia de salud y en materia de economía y finanzas hagan la presentación conjunta al Gobierno, el contrato-programa entre el Instituto Catalán de la Salud y el Servicio Catalán de la Salud que establece el artículo 14, y, si procede, las propuestas de modificación del contrato-programa.
+e) Aprobar los programas anuales de los centros, servicios y establecimientos del Instituto Catalán de la Salud.
+f) Aprobar el proyecto de presupuesto del Instituto Catalán de la Salud y presentarlo al departamento competente en materia de salud, para que lo incorpore a su proyecto general y lo tramite según la normativa vigente.
+g) Aprobar la memoria anual del Instituto Catalán de la Salud y la liquidación de su presupuesto, después de que la Intervención General haya emitido informe favorable del mismo.
+h) Presentar al departamento competente en materia de salud las propuestas normativas en las materias sujetas al ámbito competencial del Instituto Catalán de la Salud.
+i) (Derogada)
+j) Ratificar los acuerdos o los convenios de colaboración con otras entidades, firmados por el director o directora gerente del Instituto Catalán de la Salud, de contenido económico superior a 250.000 euros.
+k) (Derogada)
+l) Autorizar las modificaciones de créditos presupuestarios de contenido económico superior a 250.000 euros con sujeción a la legislación de finanzas públicas de la Generalidad y a las sucesivas leyes anuales de presupuestos.
+m) Aprobar el programa anual para cada centro, servicio y establecimiento del Instituto Catalán de la Salud, en el que deben especificarse los recursos que estos gestionan en régimen de autonomía.
+n) Aprobar los planes de inversiones relativos a la construcción y remodelación de los centros, servicios y establecimientos del Instituto Catalán de la Salud de contenido económico superior a un millón de euros.
+o) Ratificar las adquisiciones de nuevos equipamientos médicos y de otros tipos, de acuerdo con la política general de planificación territorial de servicios fijada por el departamento competente en materia de salud y con los límites establecidos en la dotación del capítulo VI del presupuesto del Instituto, siempre y cuando no se trate de una adquisición por reposición y que el coste del equipo supere los 250.000 euros.
+p) Aprobar los objetivos y parámetros de evaluación de los cargos directivos del Instituto Catalán de la Salud que le proponga el director o directora gerente.
+q) Aprobar, a propuesta del director o directora gerente, la relación, la valoración y la clasificación de los puestos de trabajo, así como su modificación, con la determinación de su ámbito territorial y funcional.
+r) Aprobar las ofertas públicas de ocupación que deben dar lugar a los procesos de selección de personal del Instituto Catalán de la Salud, siempre de acuerdo con la normativa presupuestaria y con las demás disposiciones aplicables en el ámbito de la Generalidad.
+s) Aprobar el régimen retributivo y las retribuciones de los cargos directivos y del personal con funciones de mando del Instituto Catalán de la Salud, así como las cuantías retributivas del personal del Instituto, que deben sujetarse siempre a la normativa presupuestaria y a las demás disposiciones aplicables en el ámbito de la Generalidad.
+t) Nombrar a los cargos directivos a que se refiere el artículo 20, a propuesta del director o directora gerente, y, si procede, crear nuevos cargos directivos.
+u) Garantizar la calidad y equidad de los servicios que presta el Instituto Catalán de la Salud en sus centros, servicios y establecimientos, y establecer un modelo público de rendición de cuentas con indicadores de calidad, satisfacción de los usuarios y eficiencia económica. Este modelo también debe establecer los objetivos que deben conseguir los cargos directivos y el sistema de evaluación de las respectivas gestiones.
+v) Velar para que el Instituto Catalán de la Salud consiga el uso completo de sus capacidades potenciales para utilizar con la máxima eficiencia los recursos públicos asignados.
+w) Aprobar el plan de ordenación de recursos humanos, previa negociación en la mesa sectorial de negociación de sanidad, de conformidad con el artículo 80.2.g de la Ley 55/2003, de 16 de diciembre, del Estatuto marco del personal estatutario de los servicios de salud.
+3. El Consejo de Administración del Instituto Catalán de la Salud puede delegar en la Comisión Ejecutiva las funciones establecidas por el apartado 2, salvo las establecidas por las letras a, c, d, f y w.
+Se modifican los apartados 2 y 3 por los arts. 22 a 27 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 9
+
+Artículo 9. El director o directora gerente.
+El director o directora gerente tiene la representación legal del Instituto Catalán de la Salud, asume la dirección de su gestión ordinaria y es nombrado y cesado por el Gobierno a propuesta del consejero o consejera del departamento competente en materia de salud, una vez oído al Consejo de Administración.
+
+### Artículo 10
+
+Artículo 10. Funciones del director o directora gerente.
+Corresponden al director o directora gerente del Instituto Catalán de la Salud las siguientes funciones:
+a) Cumplir y hacer cumplir las disposiciones que regulan la actuación del Instituto Catalán de la Salud y ejecutar los acuerdos adoptados por el Consejo de Administración y por la Comisión Ejecutiva en las materias en que tiene competencia.
+b) Llevar a cabo los acuerdos que adopta el Consejo de Administración y la Comisión Ejecutiva en las materias de su competencia.
+c) Ejercer la dirección y la inspección generales de los centros y servicios asistenciales del Instituto Catalán de la Salud en las vertientes sanitaria, científica, docente, económica, administrativa, presupuestaria, patrimonial y de personal, para el cumplimiento de sus objetivos y fines.
+d) Dirigir las funciones de planificación, evaluación y control de la gestión económica, financiera y presupuestaria, así como distribuir el presupuesto del Instituto entre los centros de gasto y las subunidades presupuestarias del Instituto Catalán de la Salud, de acuerdo con la normativa vigente.
+e) Ejercer la dirección de personal del Instituto Catalán de la Salud, así como la potestad disciplinaria, sin perjuicio de las facultades y competencias que expresamente se atribuyan por acuerdo del Consejo de Administración a los órganos de gestión operativa y a la autonomía de los centros.
+f) Proponer al Consejo de Administración la relación, valoración y clasificación de los puestos de trabajo, así como su modificación, con la determinación de su ámbito territorial y funcional.
+g) Elaborar y proponer al Consejo de Administración el proyecto de oferta de ocupación pública.
+h) Contratar las obras, servicios y suministros, y proponer los planes de inversiones del Instituto Catalán de la Salud dentro de los límites establecidos por la normativa aplicable y respetando la capacidad de gestión de los centros.
+i) Elaborar, de acuerdo con el Servicio Catalán de la Salud, la propuesta del contrato-programa que establece el artículo 14 y la propuesta de los programas anuales de los centros, servicios y establecimientos del Instituto Catalán de la Salud.
+j) Establecer acuerdos y convenios de colaboración con otras instituciones públicas y privadas, siempre y cuando el interés público lo aconseje, e informar de ello al Consejo de Administración.
+k) Implantar instrumentos y aprobar instrucciones, circulares y órdenes de servicio para asegurar la transparencia y la rendición de cuentas a otros departamentos de la Generalidad, al Gobierno y a la ciudadanía.
+l) Proponer al Consejo de Administración el nombramiento de los cargos directivos de los servicios corporativos y de los gerentes territoriales del Instituto Catalán de la Salud.
+m) Nombrar al personal con funciones de mando a que se refiere el artículo 21, e informar de ello al Consejo de Administración.
+n) Cualquier otra función de dirección y gestión no asignada expresamente a los demás órganos del Instituto Catalán de la Salud.
+
+### Artículo 11
+
+Artículo 11. Organización y funciones de los servicios corporativos.
+1. Los servicios corporativos del Instituto Catalán de la Salud son la estructura directiva de apoyo al director o directora gerente y a los centros, servicios y establecimientos del Instituto, de los que dependen.
+2. Los servicios corporativos del Instituto Catalán de la Salud ejecutan las estrategias y políticas comunes del Instituto, de acuerdo con el principio de desconcentración, descentralización y autonomía de gestión con respecto a los centros, servicios y establecimientos del Instituto.
+3. Los servicios corporativos del Instituto Catalán de la Salud organizan su actividad como centros de servicios compartidos y comunes al Instituto, aprovechando las sinergias y economías de escala de la organización; proponen objetivos en cuanto a la actividad, calidad y eficiencia económica de todos los centros, servicios y establecimientos del Instituto, y evalúan sus resultados, que son públicos.
+4. Los objetivos estratégicos de los servicios corporativos del Instituto Catalán de la Salud deben ser establecidos por sus estatutos.
+
+### Artículo 12
+
+Artículo 12. Los centros, servicios y establecimientos.
+1. Los centros, servicios y establecimientos mediante los que actúa el Instituto Catalán de la Salud se organizan bajo el principio de autonomía económica y financiera y de gestión, en el marco de los programas anuales aprobados por el Consejo de Administración del Instituto.
+2. Los estatutos del Instituto Catalán de la Salud deben establecer los criterios generales de creación o modificación de los órganos de gestión de los centros y servicios del Instituto y, sin perjuicio de las facultades otorgadas por la presente ley al Consejo de Administración y al director o directora gerente en la materia, deben concretar sus normas de organización y funcionamiento.
+3. La creación por parte del Instituto Catalán de la Salud de consorcios y de entidades en cualquier forma admitida en derecho, salvo entes de derecho público y de organismos autónomos, así como la participación en consorcios y entidades ya existentes, requieren el acuerdo de una mayoría absoluta de los miembros del Consejo de Administración previo a la autorización del Gobierno, si procede.
+4. (Derogado)
+5. (Derogado)
+6. El Consejo de Administración puede delegar competencias en los órganos de dirección de los centros, servicios y establecimientos del Instituto Catalán de la Salud.
+Se derogan los apartados 4 y 5 y se modifica el 3 por los arts. 28 y 29 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 13
+
+Artículo 13. Organización de los centros, servicios y establecimientos.
+1. Los centros, servicios y establecimientos del Instituto Catalán de la Salud pueden organizarse mediante:
+a) Gerencias territoriales que gestionan conjuntamente la atención primaria, la atención hospitalaria y otros servicios sociosanitarios.
+b) Unidades de gestión de atención primaria.
+c) Unidades de gestión hospitalaria.
+d) Otras unidades de gestión con las que se dote al Instituto.
+2. Si lo aconseja el impulso y la ejecución de proyectos estratégicos o de gestión compartida del Instituto Catalán de la Salud, y siempre en el marco de estas alianzas estratégicas o proyectos de gestión compartida, los profesionales del Instituto pueden prestar servicios conjuntos en dos o más centros, servicios y establecimientos propios o ajenos, en los términos establecidos por la disposición adicional octava de la Ley de medidas fiscales, financieras y administrativas para el 2015 y sin perjuicio de lo que establezca, si procede, la normativa de incompatibilidades.
+Se modifica el apartado 2 por el art. 64.1 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+
+## CAPÍTULO III
+
+Prestación de los servicios sanitarios y sociosanitarios
+
+### Artículo 14
+
+Artículo 14. Contrato-programa con el Servicio Catalán de la Salud.
+1. La prestación de servicios del Instituto Catalán de la Salud por cuenta del Servicio Catalán de la Salud se articula a través de un contrato-programa suscrito por ambas entidades, previa aprobación del Gobierno, a propuesta conjunta de los departamentos competentes en materia de salud y de economía y finanzas, y de acuerdo con la normativa de aplicación del sector público de la Generalidad.
+2. El departamento competente en materia de salud, como garante superior del uso eficiente y equitativo de los recursos públicos, debe garantizar que el modelo de contratación con el Instituto Catalán de la Salud responda a las políticas generales que tiene establecidas.
+3. El contrato-programa entre el Instituto Catalán de la Salud y el Servicio Catalán de la Salud tiene una duración máxima de cinco años y en él deben hacerse constar, al menos, los siguientes aspectos:
+a) La relación de servicios y actividades que debe prestar el Instituto Catalán de la Salud por cuenta del Servicio Catalán de la Salud, la correspondiente evaluación económica, los recursos con relación a los sistemas de compra y pago vigentes, los objetivos y la financiación. En esta relación deben constar los distintos centros, servicios y establecimientos del Instituto.
+b) Los requisitos y condiciones en que deben prestarse los servicios y actividades.
+c) Los objetivos, resultados esperados, mecanismos para evaluar los objetivos y resultados efectivamente conseguidos, los indicadores y el marco de responsabilidad del Instituto Catalán de la Salud.
+d) El plazo de vigencia, en el supuesto de que sea inferior al máximo establecido por el presente apartado.
+e) Las facultades de seguimiento que corresponden al Servicio Catalán de la Salud para el cumplimiento efectivo del contrato-programa.
+4. El contrato-programa entre el Servicio Catalán de la Salud y el Instituto Catalán de la Salud debe establecer un programa anual para cada centro, servicio y establecimiento del Instituto, que debe asegurar su suficiencia presupuestaria en caso de aumento inesperado de la demanda o por la complejidad de las prestaciones.
+
+### Artículo 15
+
+Artículo 15. Prestación de servicios a cargo de un tercero obligado al pago.
+1. El Instituto Catalán de la Salud debe reclamar, al amparo del artículo 83 de Ley general de sanidad, el pago de la tasa o el precio público pertinente, en virtud de las normas legales o reglamentarias, de las de seguros públicos o privados o de las de responsabilidad por lesión o enfermedad causadas a las personas asistidas por el Instituto Catalán de la Salud, siempre y cuando exista un tercero obligado al pago. En el caso de convenios o conciertos con terceros obligados al pago, debe reclamárseles el importe de la asistencia prestada de acuerdo con los términos del correspondiente convenio o concierto.
+2. La actividad de los centros y servicios del Instituto Catalán de la Salud debe dirigirse a toda la población que tiene derecho a la asistencia sanitaria de acuerdo con la Ley 21/2010, de 7 de julio, de acceso a la asistencia sanitaria de cobertura pública a cargo del Servicio Catalán de la Salud, sin perjuicio de lo establecido por los artículos 16 y 83 de la Ley general de sanidad.
+Se modifica por el art. 30 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+## CAPÍTULO IV
+
+Contratación, impugnación de los actos y responsabilidad
+
+### Artículo 16
+
+Artículo 16. Contratación.
+1. El Instituto Catalán de la Salud debe ajustar su actividad contractual a lo dispuesto en la normativa reguladora de los contratos de las administraciones públicas.
+2. El órgano de contratación del Instituto Catalán de la Salud es el director o directora gerente. Los directores de los centros, servicios y establecimientos del Instituto también pueden serlo si está determinado en los estatutos o es acordado por el Consejo de Administración.
+
+### Artículo 17
+
+Artículo 17. Régimen de impugnación de los actos.
+1. Las personas interesadas pueden interponer los correspondientes recursos administrativos contra los actos administrativos emanados de los órganos del Instituto Catalán de la Salud, en los mismos casos, plazos y formas establecidos por la legislación sobre el procedimiento administrativo común, de acuerdo con las especialidades determinadas por el presente artículo.
+2. Los acuerdos del Consejo de Administración del Instituto Catalán de la Salud agotan la vía administrativa.
+3. Los actos dictados por el director o directora gerente del Instituto Catalán de la Salud que no agotan la vía administrativa pueden ser objeto de un recurso de alzada ante el Consejo de Administración. En todos los casos, agotan la vía administrativa los actos dictados en materia de personal estatutario y laboral, las resoluciones de los procedimientos de responsabilidad patrimonial y los demás actos que establece la normativa reguladora de los entes que integran el sector público de la Generalidad.
+4. Los actos dictados por los servicios corporativos, por las unidades de gestión y por las gerencias territoriales del Instituto Catalán de la Salud no agotan la vía administrativa y pueden ser objeto de un recurso de alzada ante el director o directora gerente del Instituto.
+5. Las reclamaciones previas en vía jurisdiccional civil y laboral deben presentarse al director o directora gerente del Instituto Catalán de la Salud, que es el órgano competente para su resolución, de acuerdo con la normativa vigente sobre el procedimiento administrativo común.
+6. Los actos de gestión, liquidación y recaudación de los precios públicos del Instituto Catalán de la Salud son impugnables ante los órganos económicos y administrativos de la Generalidad.
+
+### Artículo 18
+
+Artículo 18. Responsabilidad.
+1. El régimen de responsabilidad del Instituto Catalán de la Salud y de las autoridades y el funcionariado que prestan servicios en el mismo se exige en los mismos términos y casos que se exigen para la Administración de la Generalidad y de acuerdo con las disposiciones generales de aplicación.
+2. Los procedimientos de responsabilidad patrimonial deben ser resueltos por el director o directora gerente del Instituto Catalán de la Salud.
+
+## CAPÍTULO V
+
+Régimen de personal, económico y patrimonial
+
+### Artículo 19
+
+Artículo 19. Personal.
+1. El personal del Instituto Catalán de la Salud puede estar integrado por:
+a) Personal estatutario de los servicios de salud, que se rige por la Ley del Estado 55/2003, de 16 de diciembre, del Estatuto marco del personal estatutario de los servicios de salud, y por la normativa de desarrollo que apruebe la Generalidad. Por razones de interés general determinadas por acuerdo del Gobierno y con el fin de garantizar la prestación del servicio público sanitario equitativo en todo el territorio de Cataluña, puede eximirse del requisito de la nacionalidad en el acceso a la condición de personal estatutario del Instituto Catalán de la Salud; a este personal se le exige un conocimiento suficiente de catalán y castellano para acceder a la condición de personal estatutario del Instituto.
+b) Personal funcionario de la Administración de la Generalidad, que se rige por la normativa de la función pública propia de la Administración de la Generalidad. El personal sanitario funcionario se rige por la Ley del Estado 55/2003, en los términos establecidos por el artículo 2.3 de dicha ley.
+c) Personal laboral, que se rige por la normativa laboral y demás normas convencionalmente aplicables.
+d) Personal eventual, que, en virtud de nombramiento y con carácter no permanente, sólo hace funciones expresamente calificadas de confianza o de asesoramiento especial. Este personal es retribuido con cargo a los créditos presupuestarios consignados a este fin, y se rige por la normativa de función pública de la Generalidad que regula este personal.
+2. Los procesos de selección de personal y provisión de puestos de trabajo deben basarse en la legislación correspondiente a cada tipología de personal y deben garantizar los principios de igualdad, mérito, capacidad, publicidad y objetividad.
+3. La gestión de personal debe integrar fórmulas de información periódica, de participación en el análisis de las problemáticas, así como la formulación correlativa de iniciativas de mejora, promoción y formación profesionales, mecanismos de mediación de conflictos y tratamiento de eventuales insuficiencias, de acuerdo con la normativa de aplicación.
+Se modifica la letra c) del apartado 1 por el art. 12 del Decreto-ley 4/2010, de 3 de agosto. Ref. BOE-A-2010-15126.
+
+### Artículo 20
+
+Artículo 20. Cargos directivos.
+1. Es cargo directivo del Instituto Catalán de la Salud quien desempeña funciones de gerencia o dirección profesional con autonomía y plena responsabilidad sólo limitadas por los criterios e instrucciones directas emanados de los órganos superiores de gobierno del Instituto. El personal directivo del Instituto ocupa el puesto de trabajo en virtud de un contrato laboral de alta dirección.
+2. A las personas que acceden a un cargo directivo desde la condición de personal laboral fijo, personal estatutario fijo o funcionariado de carrera al servicio de la Administración de la Generalidad o de cualquier otra administración pública, debe reconocérseles la situación administrativa de servicios especiales o equivalente, de acuerdo con lo dispuesto en la normativa de aplicación a su vinculación de origen.
+3. Los cargos directivos del Instituto Catalán de la Salud son sometidos periódicamente a procedimientos de verificación de las responsabilidades de la gestión encomendada. El Consejo de Administración debe regular estos procedimientos, que deben permitir la evaluación, en todos los casos, de la eficiencia y la eficacia en la actividad realizada, la equidad en las decisiones, la austeridad y el control del gasto, la acción para alcanzar la calidad total y la ética en la actuación.
+El resultado del proceso de verificación y de evaluación de la gestión o, en su caso, la falta de verificación de las responsabilidades de la gestión encomendada debe trasladarse a los órganos competentes en materia de nombramientos, que quedan vinculados.
+La superación de los procesos de verificación de las responsabilidades permite la continuidad en la gestión encomendada. Transcurridos cuatro años desde que se haya encomendado la gestión, la falta de verificación de las responsabilidades o la no superación de los procesos de verificación comporta el cese automático en las funciones asignadas.
+4. Son cargos directivos del Instituto Catalán de la Salud el director o directora gerente, los directores de los servicios corporativos o los que están asimilados, los gerentes territoriales, los gerentes o directores de unidad de gestión hospitalaria y los gerentes o directores de unidad de gestión de atención primaria o los que están asimilados, así como los demás cargos creados por los estatutos o por acuerdo del Consejo de Administración que, de acuerdo con el apartado 1, tengan dicha condición.
+5. El ejercicio de un cargo directivo es incompatible con cualquier otra actividad laboral, excepto las docentes, las de investigación y las actividades de prestación conjunta en el marco de alianzas estratégicas o proyectos de gestión compartida. En todos los casos, los cargos directivos están sometidos a la normativa de incompatibilidades de los altos cargos de la Administración de la Generalidad y sin perjuicio de la limitación de retribución máxima establecida por la Ley 2/2014, de 27 de enero, de medidas fiscales, administrativas, financieras y del sector público.
+Se modifica el apartado 3 por el art. 166.1 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-77
+ Se modifica el apartado 5 por el art. 64.2 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Se deroga el apartado 6 por el art. 162.3 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 21
+
+Artículo 21. Personal con funciones de mando.
+1. Es personal con funciones de mando el que ocupa puestos de trabajo que tienen atribuidas funciones de mando en las estructuras de los servicios corporativos y en las unidades de gestión y gerencias territoriales del Instituto Catalán de la Salud, pero carentes de la consideración de cargos directivos de acuerdo con el artículo 20. Estos puestos de trabajo se proveen mediante convocatoria pública.
+2. Los procedimientos de selección de estos puestos de trabajo deben determinar en cada caso si la provisión se realiza con profesionales que tengan la condición de funcionarios o estatutarios, o bien con profesionales vinculados por una relación de carácter laboral. El mismo puesto de trabajo puede ser convocado de forma alternativa, en distintos procesos selectivos, de acuerdo con alguno de los mencionados sistemas de vinculación.
+3. El régimen jurídico, las condiciones y el procedimiento de aplicación a estas convocatorias y a los profesionales seleccionados se determinan por acuerdo del Consejo de Administración del Instituto Catalán de la Salud. En todos los casos deben garantizarse los principios de publicidad, objetividad, mérito y capacidad.
+4. Tienen la consideración de personal con funciones de mando las personas que ocupan las subdirecciones de los servicios corporativos o asimilados, las direcciones asistenciales médicas, de enfermería, de personal, de gestión económica y de servicios generales o asimiladas de las gerencias territoriales, centros hospitalarios y ámbitos de atención primaria y otras unidades de gestión de la estructura del Instituto Catalán de la Salud, así como las direcciones clínicas y los puestos de trabajo que tienen atribuidas las funciones de cualquiera de los mencionados en el presente artículo con independencia de la denominación que tengan.
+5. El ejercicio de un puesto con funciones de mando del Instituto Catalán de la Salud es incompatible con cualquier otra actividad laboral de responsabilidad y contenido similares que pueda realizarse en otro centro, servicio o establecimiento sanitario, salvo en los casos y en los términos de la disposición adicional octava de la Ley de medidas fiscales, financieras y administrativas para el 2015 y sin perjuicio de lo establecido por la normativa de incompatibilidades.
+Se modifica el apartado 5 por el art. 64.3 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+
+### Artículo 22
+
+Artículo 22. Patrimonio.
+Constituyen el patrimonio del Instituto Catalán de la Salud:
+a) Los bienes y derechos de que es titular, los que haya adquirido y los que adquiera o reciba por cualquier título.
+b) Los bienes y derechos de cualquier naturaleza afectos a los servicios del Instituto Catalán de la Salud, cuya titularidad demanial le sea cedida por la Generalidad o por el Servicio Catalán de la Salud.
+c) Los bienes y derechos de cualquier naturaleza que le sean adscritos por la Generalidad o por el Servicio Catalán de la Salud.
+Se modifica por el art. 31 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 23
+
+Artículo 23. Régimen patrimonial.
+1. El Instituto Catalán de la Salud, en las condiciones y los términos regulados por la normativa de aplicación, debe establecer la contabilidad y los registros que permitan conocer la naturaleza, titularidad y destino de sus bienes y derechos, propios o adscritos, sin perjuicio de las competencias de los demás entes y organismos en materia de salud.
+2. Los bienes y derechos que la Generalidad adscriba al Instituto Catalán de la Salud deben revertir en las mismas condiciones que tenían al producirse su adscripción, en el supuesto de que el Instituto Catalán de la Salud se extinga o modifique la naturaleza de sus funciones, siempre y cuando esta modificación tenga incidencia en dichos bienes y derechos.
+3. Los bienes y derechos que estén adscritos al Instituto Catalán de la Salud conservan la calificación jurídica originaria; la adscripción no debe implicar la transmisión de su dominio público ni su desafectación.
+4. El patrimonio del Instituto Catalán de la Salud afecto al ejercicio de sus funciones tiene la consideración de dominio público como patrimonio afecto a un servicio público y, como tal, disfruta de las exenciones tributarias que corresponden a los bienes de esta naturaleza.
+5. En todo aquello que no esté regulado en este artículo, es de aplicación a los bienes y derechos del Instituto Catalán de la Salud la normativa reguladora de los entes que integran el sector público de la Generalidad y, en su defecto, el Decreto legislativo 1/2002, de 24 de diciembre, por el que se aprueba el texto refundido de la Ley de patrimonio de la Generalidad de Cataluña.
+
+### Artículo 24
+
+Artículo 24. Recursos económicos.
+1. Los recursos económicos del Instituto Catalán de la Salud están constituidos por:
+a) Las asignaciones con cargo a los presupuestos de la Generalidad.
+b) Los rendimientos procedentes de los bienes y derechos propios o que tenga adscritos.
+c) Los créditos y préstamos que le sean concedidos.
+d) Las subvenciones, donaciones y cualquier otra aportación voluntaria de entidades y particulares.
+e) La recaudación de tasas y el ingreso de precios públicos.
+f) Cualquier otro recurso que pueda serle atribuido expresamente.
+2. En todos los casos, los precios y demás ingresos de derecho público derivados del ejercicio de las actividades del Instituto Catalán de la Salud quedan afectos al Instituto para el cumplimiento de sus fines.
+
+### Artículo 25
+
+Artículo 25. Operaciones de crédito y prestación de avales.
+1. El Instituto Catalán de la Salud, en los términos y condiciones establecidos por la normativa de aplicación, puede hacer uso del endeudamiento mediante la formalización de operaciones de crédito en forma de préstamos concertados con entidades de crédito, dentro de los límites del importe fijado por la correspondiente ley de presupuestos de la Generalidad. El Consejo de Administración debe formular la propuesta referente a las características de cada operación de crédito.
+2. El Instituto Catalán de la Salud puede proponer la prestación de avales a favor de los consorcios y entidades en que participa mayoritariamente, con los límites y fines que estén fijados en cada ley de presupuestos de la Generalidad.
+3. A efectos de lo establecido en el presente artículo, es de aplicación subsidiariamente la normativa reguladora del sector público de la Generalidad.
+
+### Artículo 26
+
+Artículo 26. Presupuesto.
+1. El presupuesto del Instituto Catalán de la Salud se rige por la normativa reguladora de las entidades que integran el sector público, la normativa reguladora de las finanzas públicas de la Generalidad y las sucesivas leyes de presupuestos.
+2. El Instituto Catalán de la Salud adecua su funcionamiento al presupuesto incluido en cada ley de presupuestos de la Generalidad. Este presupuesto integra los ingresos y gastos de los centros, servicios y establecimientos a través de los cuales actúa el Instituto.
+3. El Consejo de Administración aprueba anualmente el proyecto de presupuesto, que debe contener:
+a) El estado de recursos, con las estimaciones correspondientes para el ejercicio.
+b) El estado de dotaciones, con la evaluación de los medios necesarios para desarrollar las actividades del ejercicio.
+c) Lo que determina la normativa anual de elaboración de los presupuestos.
+4. El Instituto Catalán de la Salud debe presentar el presupuesto de explotación y de capital y el programa de actuaciones, inversiones y financiación, tanto individualizado como consolidado con los consorcios y sociedades de derecho privado en que participa.
+
+### Artículo 27
+
+Artículo 27. Régimen contable.
+1. El régimen de contabilidad del Instituto Catalán de la Salud está establecido en la normativa reguladora de las entidades que integran el sector público de la Generalidad.
+2. El Instituto Catalán de la Salud, en los términos y condiciones establecidos por la normativa de aplicación, debe llevar la contabilidad según los procedimientos más adecuados a la índole de su actividad, de modo que permita un conocimiento adecuado y un control efectivo de las actuaciones y los costes.
+3. La prestación del servicio de tesorería del Instituto Catalán de la Salud debe efectuarse de acuerdo con los criterios que determine el departamento competente en materia de economía y finanzas, que debe respetar el principio de autonomía financiera.
+
+### Artículo 28
+
+Artículo 28. Control financiero.
+1. El control financiero de la actividad del Instituto Catalán de la Salud está establecido en la normativa reguladora de las finanzas públicas de Cataluña, que se lleva a cabo, mediante el procedimiento de control financiero permanente a cargo de la Intervención General, con emisión de informes periódicos, que deben contener la auditoría de la legalidad y la eficacia y eficiencia de la gestión.
+2. Los informes pueden contener directrices de obligado cumplimiento en materia de legalidad y contabilidad y, especialmente, deben efectuar el seguimiento del cumplimiento de estas directrices. En el caso de incumplimiento manifiesto y reiterado, el consejero o consejera del departamento competente en materia de economía y finanzas, a propuesta de la Intervención General, puede acordar que se aplique a determinados centros o gastos el procedimiento de control por fiscalización previa.
+3. El Instituto Catalán de la Salud, las entidades que dependen del mismo y las entidades que puedan crearse al amparo del artículo 12 quedan sometidos a los sistemas de información corporativa en materia económico-financiera y de recursos humanos, en los términos que determinen los departamentos competentes en materia de economía y finanzas y de función pública.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Subrogación.
+La entidad creada por la presente ley se subroga en todos los derechos y deberes del Instituto Catalán de la Salud creado por la Ley 12/1983, de 14 de julio, de administración institucional de la sanidad, y de la asistencia y los servicios sociales de Cataluña.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Reserva de nombres, y beneficios, exenciones y franquicias.
+El Instituto Catalán de la Salud y, si procede, todos los organismos dotados de personalidad que dependan del mismo, en el ejercicio de sus funciones, disfrutan de la reserva de nombres y de los beneficios, exenciones y franquicias, cualquiera que sea su naturaleza, que la legislación atribuya a la Administración de la Generalidad y a las entidades públicas que tienen encomendada la gestión de la Seguridad Social.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Transferencia de bienes y servicios.
+El Gobierno de la Generalidad debe llevar a cabo las negociaciones necesarias con el Gobierno del Estado para conseguir, por transferencia, la titularidad de bienes y servicios del patrimonio único de la Seguridad Social adscritos a la Generalidad.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Incompatibilidades.
+1. Los puestos de trabajo de jefe de servicio del Instituto Catalán de la Salud que estén cubiertos a partir de la entrada en vigor de la presente ley son incompatibles con cualquier otra actividad laboral de responsabilidad similar que pueda ejercerse en otro centro, servicio o establecimiento sanitario.
+2. Cualquier otra actividad laboral que puedan ejercer los jefes de servicio del Instituto Catalán de la Salud queda sometida a la normativa sobre incompatibilidades del personal al servicio de la Administración de la Generalidad.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Ejercicio de funciones por el Servicio Catalán de la Salud.
+De acuerdo con el régimen de adscripción establecido en el artículo 2.2, las funciones que atribuyen al departamento competente en materia de salud el artículo 3.1.b), el artículo 5.5 y las letras f, h y o del artículo 8.2 se ejercen a través del Servicio Catalán de la Salud.
+Se añade por el art. 162.4 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se añade por el art. 7.2 del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha de 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Sistema de asignación de las funciones de jefe o jefa de servicio de los servicios jerarquizados del Instituto Catalán de la Salud.
+1. La asignación de las funciones de jefe o jefa de servicio de los servicios jerarquizados del Instituto Catalán de la Salud, cuando se asignen exclusivamente por convocatoria interna entre personal estatutario fijo, se hará por el sistema de libre designación. Cuando exista una vacante en el servicio y se asignen al mismo tiempo las funciones de jefe o jefa de servicio mediante una única convocatoria abierta, se hará por el sistema de concurso público, de conformidad con la normativa reglamentaria aplicable.
+2. Corresponde al Consejo de Administración del Instituto Catalán de la Salud, en uso de las facultades que le otorga la presente ley, adecuar los procedimientos a los que se refiere el apartado 1 a las necesidades y peculiaridades de la estructura organizativa del Instituto, que debe garantizar en cualquier caso la publicidad, idoneidad y transparencia del proceso.
+Se añade por el art. 162.5 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Certificación de evaluación positiva de las funciones de gestión clínica del Instituto Catalán de la Salud.
+1. Para la continuidad en el ejercicio de las funciones de gestión clínica, una vez transcurridos el primero y los siguientes cuatrienios desde el inicio del ejercicio de las funciones, la persona titular debe estar en posesión del certificado de evaluación positiva de las funciones asignadas.
+2. El procedimiento para la obtención del certificado de evaluación positiva se inicia a instancia de la persona que tenga encargadas las funciones de gestión clínica mediante una solicitud dirigida a la dirección de centro hospitalario o a la dirección de atención primaria a la que está adscrita, y debe acompañarse la solicitud con la memoria de la actividad realizada y el proyecto a desarrollar en los siguientes cuatro años.
+3. El plazo de presentación de las solicitudes de inicio del procedimiento para la obtención del certificado de evaluación positiva es de un mes a contar desde la fecha en que falten cuatro meses para la finalización del ejercicio de las funciones asignadas.
+4. El director o directora del hospital o del centro de atención primaria debe verificar y valorar:
+a) La memoria de la actividad realizada en los últimos cuatro años.
+b) El proyecto a desarrollar en los siguientes cuatro años.
+c) Las competencias en gestión y liderazgo de la persona interesada mediante instrumentos en que participen los profesionales del entorno de la persona evaluada.
+d) Cualquier otra documentación que pueda recaudar el órgano competente para la resolución del procedimiento.
+5. Contra la resolución que pone fin al procedimiento el profesional puede interponer recurso de alzada ante el director o directora gerente del Instituto Catalán de la Salud. Transcurridos tres meses desde la fecha de inicio del procedimiento sin que se haya notificado resolución expresa, la solicitud presentada se entiende desestimada.
+6. Los certificados de evaluación positiva tienen una validez de cuatro años. Una vez transcurridos los cuatro años desde la asignación de las funciones de gestión clínica, la falta del certificado de evaluación positiva comporta el cese automático en las funciones asignadas.
+La falta de presentación de la solicitud para el inicio del procedimiento para la obtención del certificado de evaluación positiva dentro del plazo establecido por esta disposición comporta, asimismo, el cese automático en las funciones asignadas por la falta de voluntad de la persona interesada para continuar ejerciéndolas.
+7. Tienen la consideración de funciones de gestión clínica las descritas en el artículo 10 de la Ley del Estado 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, y en particular las funciones asignadas a las direcciones y subdirecciones médicas, a las direcciones y subdirecciones de enfermería, a las direcciones clínicas, a los de jefe de servicio y de sección del servicios jerarquizados de atención hospitalaria y de atención primaria, a los adjuntos y a los supervisores de enfermería, y a los directores y a los adjuntos de equipo de atención primaria y de atención continuada y urgencias de base territorial (ACUT).
+Se modifica por el art. 166.2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-77
+ Se añade por el art. 162.6 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Régimen retributivo del personal estatutario del Instituto Catalán de la Salud que ocupe un cargo directivo.
+El personal estatutario del Instituto Catalán de la Salud que suscriba un contrato laboral de alta dirección para ocupar un cargo directivo tiene derecho a continuar percibiendo el importe del complemento de carrera profesional correspondiente al nivel de carrera que tiene reconocido como personal estatutario.
+Se añade por el art. 110 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Régimen de control de los gastos.
+El régimen de control que regula el artículo 28 debe aplicarse, respecto a los gastos del capítulo I del presupuesto del Instituto, gradualmente, en las condiciones y plazos que establezca el consejero o consejera competente en materia de economía y finanzas, a propuesta de la Intervención General.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Personalidad jurídica de centros, servicios y establecimientos.
+(Derogada)
+Se deroga por el art. 32 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Período transitorio para obtener la certificación de evaluación positiva de las funciones de gestión clínica del Instituto Catalán de la Salud.
+1. Los profesionales que tengan encomendadas funciones de gestión clínica que en la fecha de entrada en vigor de la presente disposición transitoria no hayan sido evaluados, o haga más de tres años y ocho meses que hayan sido evaluados, disponen de cuatro meses, a contar desde la mencionada entrada en vigor, para iniciar el procedimiento para obtener el certificado de evaluación positiva.
+2. El plazo de resolución y notificación de los procedimientos para obtener el certificado de evaluación positiva al que se refiere esta disposición transitoria es de dieciocho meses, a contar desde la fecha de presentación de las solicitudes de inicio del procedimiento.
+3. Están excluidas de lo establecido por los apartados 1 y 2 las personas que tienen asignadas funciones de jefe de servicio y de jefe de sección, que quedan sujetas a lo que determina el apartado 2 de la disposición adicional cuarta de la Ley 2/2014, de 27 de enero, de medidas fiscales, administrativas, financieras y del sector público.
+Se añade por el art. 166.3 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-77
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Quedan derogados los artículos relativos al Instituto Catalán de la Salud de la Ley 12/1983, de 14 de julio, de administración institucional de la sanidad, y de la asistencia y los servicios sociales de Cataluña, y las disposiciones transitorias segunda, tercera, cuarta, sexta y octava y el apartado 2 de la disposición final primera de la Ley 15/1990, de 9 de julio, de ordenación sanitaria de Cataluña, en todo aquello que afecta directamente el Instituto Catalán de la Salud.
+2. Quedan derogadas cuantas normas se opongan a lo establecido por la presente ley, sin perjuicio de la vigencia de las disposiciones siguientes, cuya relación se efectúa a título enunciativo, o de las que las modifican o sustituyen, siempre y cuando no contradigan la presente ley y mientras no se aprueben sus normas de desarrollo y de aplicación:
+a) Decreto 380/1983, de 8 de septiembre, de estructuración de los consejos generales del Instituto Catalán de la Salud y del Instituto Catalán de Asistencia y Servicios Sociales, en la parte que afecta al Instituto Catalán de la Salud.
+b) Decreto 276/2001, de 23 de octubre, de reestructuración del Instituto Catalán de la Salud.
+c) Decreto 277/2001, de 23 de octubre, por el que se regulan las estructuras de dirección, gestión y administración de las instituciones sanitarias en el ámbito de la atención primaria del Instituto Catalán de la Salud.
+d) Decreto 202/2005, de 27 de septiembre, por el que se establecen las normas reguladoras de los órganos de participación de los centros hospitalarios gestionados por el Instituto Catalán de la Salud.
+e) Decreto 53/2006, de 28 de marzo, de medidas de reforma del Instituto Catalán de la Salud.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 7/2003, de 25 de abril, de protección de la salud.
+1. Se modifica la disposición transitoria primera de la Ley 7/2003, de 25 de abril, de protección de la salud, que queda redactada del siguiente modo:
+«1.1 Los funcionarios de los cuerpos de médicos y practicantes titulares que se hayan integrado en los equipos de atención primaria en los términos de la disposición transitoria cuarta del Decreto 84/1985, de 21 de marzo, de medidas para la reforma de la atención primaria de salud en Cataluña, y de la Orden del Departamento de Sanidad y Seguridad Social de 6 de mayo de 1986, deben optar por una de las siguientes alternativas:
+a) Integrarse en la Agencia de Protección de la Salud para llevar a cabo las funciones que esta entidad tiene encomendadas. Los médicos titulares quedan integrados en el Cuerpo de Titulación Superior de la Generalidad, Salud Pública, y los practicantes titulares quedan integrados en el Cuerpo de Diplomatura de la Generalidad, Salud Pública, con la jornada de trabajo ordinaria del personal que ejerce funciones administrativas y técnicas al servicio de la Administración de la Generalidad. Este personal, que permanece en la situación administrativa que legalmente le corresponda con relación a su cuerpo de origen por razón de la integración voluntaria a que se refiere el presente apartado, debe recibir las retribuciones que le corresponden como personal del Cuerpo de Titulación Superior de la Generalidad, Salud Pública, o del Cuerpo de Diplomatura de la Generalidad, Salud Pública.
+b) Cumplir únicamente las funciones propias de los equipos de atención primaria e integrarse como personal estatutario de los servicios de salud en la categoría que corresponda y con sujeción al régimen de prestación de servicios, de dedicación y retributivo que establezcan las normas en vigor en cada momento para los profesionales que prestan la actividad asistencial en el ámbito de la atención primaria. Este personal, que permanece en la situación administrativa que legalmente corresponda con relación a su cuerpo de origen debido a la integración voluntaria a que se refiere el presente apartado, debe recibir las retribuciones que le corresponden como personal estatutario, sin perjuicio de la percepción de un complemento personal, transitorio y absorbible por la diferencia que se produzca si, en ocasión del ejercicio de este derecho de opción, se acredita una reducción de las retribuciones anuales.
+c) Seguir cumpliendo las funciones propias de los equipos de atención primaria y las de protección de la salud. En cuanto a las funciones de protección de la salud, este personal queda adscrito funcionalmente a la Agencia de Protección de la Salud. Debe establecerse por reglamento el régimen de dedicación horaria a estas funciones, al margen de lo establecido con carácter general para las actividades inherentes a los equipos de atención primaria. Este personal debe seguir percibiendo las retribuciones que acreditaba hasta el momento de ejercer este derecho de opción.
+1.2 Debe establecerse el procedimiento para el ejercicio del derecho de opción a que se refiere el apartado 1 mediante una orden del consejero o consejera de Salud.
+1.3 En el caso de que las personas interesadas no manifiesten la opción escogida en los plazos fijados por el procedimiento establecido a tal efecto, se entiende que optan por la del apartado 1.1.c). 1.4 En el caso de que la opción escogida sea la del apartado 1.1.a) o la del apartado 1.1.b), el derecho de opción sólo puede ejercerse una vez.»
+2. Se modifica la disposición transitoria segunda de la Ley 7/2003, que queda redactada del siguiente modo:
+«2.1 Los funcionarios de los cuerpos de médicos y practicantes titulares que hayan optado por no integrarse en los equipos de atención primaria, al amparo de la disposición transitoria cuarta del Decreto 84/1985 y de la Orden del Departamento de Sanidad y Seguridad Social de 6 de mayo de 1986, deben optar por una de las siguientes alternativas:
+a) Integrarse en la Agencia de Protección de la Salud para llevar a cabo las funciones que esta tiene encomendadas, adscritos a la Agencia. Los médicos titulares quedan integrados en el Cuerpo de Titulación Superior de la Generalidad, Salud Pública, y los practicantes titulares quedan integrados en el Cuerpo de Diplomatura de la Generalidad, Salud Pública, con la jornada de trabajo ordinaria propia del personal que ejerce funciones administrativas y técnicas al servicio de la Administración de la Generalidad. Este personal, que permanece en la situación administrativa que legalmente corresponda con relación a su cuerpo de origen debido a la integración voluntaria a que se refiere el presente apartado, debe recibir las retribuciones que le correspondan como personal del Cuerpo de Titulación Superior de la Generalidad, Salud Pública, o del Cuerpo de Diplomatura de la Generalidad, Salud Pública.
+b) Cumplir únicamente las funciones propias de los equipos de atención primaria e integrarse como personal estatutario de los servicios de salud en la categoría que corresponda y con sujeción al régimen de prestación de servicios, de dedicación y retributivo que establezcan las normas en vigor en cada momento para los profesionales que prestan la actividad asistencial en el ámbito de la atención primaria. Este personal, que permanece en la situación administrativa que legalmente proceda con relación a su cuerpo de origen debido a la integración voluntaria a que se refiere el presente apartado, debe recibir las retribuciones que le correspondan como personal estatutario, sin perjuicio de la percepción de un complemento personal, transitorio y absorbible por la diferencia que se produzca si, en ocasión del ejercicio de este derecho de opción, se acredita una reducción de las retribuciones anuales.
+c) Seguir cumpliendo las funciones propias de protección de la salud y ejercer las funciones asistenciales en el ámbito de la atención primaria. El régimen de prestación de servicios, de dedicación y retributivo de la actividad asistencial del personal que ejercite esta opción es el establecido para la categoría correspondiente de personal estatutario de los servicios de salud en las normas en vigor en cada momento para los profesionales que prestan servicios en los equipos de atención primaria. Este personal, por razón del desarrollo de las funciones propias de los equipos de atención primaria, percibe las retribuciones propias de la categoría correspondiente de personal estatutario de los servicios de salud, sin perjuicio de la percepción de un complemento personal, transitorio y absorbible por la diferencia que se produzca si, en ocasión del ejercicio de este derecho de opción, se acredita una reducción de las retribuciones anuales. En cuanto a las funciones de protección de la salud, este personal queda adscrito funcionalmente a la Agencia de Protección de la Salud. Debe establecerse por reglamento el régimen de dedicación horaria a dichas funciones, al margen de las previsiones establecidas con carácter general para las actividades inherentes a los equipos de atención primaria. Este personal debe seguir percibiendo las retribuciones que acreditaba hasta el momento de ejercer este derecho de opción.
+2.2 Debe establecerse el procedimiento para el ejercicio del derecho de opción a que se refiere el apartado 1 mediante una orden del consejero o consejera de Salud.
+2.3 En el caso de que las personas interesadas no manifiesten la opción escogida en los plazos fijados por el procedimiento establecido al efecto, se entiende que optan por la del apartado 2.1.c). 2.4 En el caso de que la opción escogida sea la del apartado 2.1.a) o la del apartado 2.1.b), el derecho de opción sólo puede ejercerse una vez.»
+3. Se modifica la disposición transitoria octava de la Ley 7/2003, que queda redactada del siguiente modo:
+«8.1 El personal al servicio de la Generalidad que en el momento de la entrada en vigor de la presente ley ocupe con carácter interino un puesto de trabajo de los cuerpos de médicos, practicantes o comadrones titulares pasa a ocupar, con carácter temporal y de forma automática, un puesto de trabajo de personal estatutario de la misma categoría, adscrito al Instituto Catalán de la Salud.
+8.2 El departamento competente en materia de salud, con carácter excepcional, debe realizar las convocatorias adecuadas para que el personal estatutario temporal a que se refiere el apartado 1 pueda acceder a la condición de personal estatutario fijo del Instituto Catalán de la Salud, mediante la superación de un procedimiento selectivo, de acuerdo con las siguientes condiciones:
+a) El personal que se halle en alguna de las situaciones previstas en la disposición transitoria tercera del Decreto Legislativo 1/1997, de 31 de octubre, por el que se aprueba la refundición en un texto único de los preceptos de determinados textos legales vigentes en Cataluña en materia de función pública, debe superar un procedimiento selectivo, en turno restringido, mediante la realización de pruebas específicas del sistema de concurso-oposición que deben versar sobre los contenidos propios de las funciones a desarrollar y sobre los correspondientes aspectos prácticos y organizativos. Este personal dispone de tres convocatorias que deben realizarse sin solución de continuidad. Agotada la última convocatoria, las personas que no lo hayan superado siguen con la vinculación de personal estatutario interino, sometidas al procedimiento de selección ordinario.
+b) Para el personal que no se encuentre incluido en ninguna de las situaciones a que se refiere la letra a, debe convocarse, con carácter excepcional, transitorio y por una sola vez, un proceso selectivo, en turno de reserva especial, por concurso-oposición libre, para acceder a la condición de funcionario o funcionaria de las distintas categorías de personal estatutario fijo de los servicios de salud. Este proceso conlleva la realización y superación de pruebas específicas del sistema de concurso-oposición que deben versar sobre los contenidos propios de las funciones a desarrollar y sobre los correspondientes aspectos prácticos y organizativos.
+8.3 El proceso descrito por las letras a y b del apartado 8.2 debe contener la calificación de los méritos acreditados por los aspirantes que superen la fase de oposición. Las bases de la convocatoria de este proceso selectivo deben establecer la valoración especial de los servicios prestados por los aspirantes en el ámbito del departamento competente en materia de salud y del Instituto Catalán de la Salud, así como en otras administraciones públicas, correspondientes a funciones propias de las plazas convocadas. Los aspirantes deben demostrar conocimientos orales y escritos de lengua catalana mediante una prueba. Quedan exentos los aspirantes que acrediten documentalmente los conocimientos pertinentes.
+8.4 La adquisición de la condición de personal estatutario fijo de acuerdo con los apartados anteriores conlleva su sujeción al régimen de prestación de servicios, de dedicación y retributivo que establezcan las normas en vigor en cada momento para los profesionales que prestan la actividad asistencial en el ámbito de la atención primaria.»
+4. Se modifica la disposición transitoria novena de la Ley 7/2003, de 25 de abril, de protección de la salud, que queda redactada del siguiente modo:
+«9.1 El personal al servicio de la Generalidad que en el momento de la entrada en vigor de la presente ley ocupe con carácter interino un puesto de trabajo del Cuerpo de Farmacéuticos Titulares pasa a ocupar, con carácter temporal y de forma automática, un puesto de trabajo del Cuerpo de Titulación Superior de la Generalidad, Salud Pública, adscrito a la Agencia de Protección de la Salud.
+9.2 El Departamento de Gobernación y Administraciones Públicas, con carácter excepcional, debe realizar las convocatorias adecuadas para que el personal a que se refiere el apartado 1 pueda acceder a la condición de funcionario o funcionaria del Cuerpo de Titulación Superior de la Generalidad, Salud Pública, mediante la superación de un procedimiento selectivo, de acuerdo con las siguientes condiciones:
+a) El personal que se halle en alguna de las situaciones previstas en la disposición transitoria tercera del Decreto Legislativo 1/1997, de 31 de octubre, por el que se aprueba la refundición en un texto único de los preceptos de determinados textos legales vigentes en Cataluña en materia de función pública, debe superar un procedimiento selectivo, en turno restringido, mediante la realización de pruebas específicas del sistema de concurso-oposición que deben versar sobre los contenidos propios de las funciones a desarrollar y sobre los correspondientes aspectos prácticos y organizativos. Este personal dispone de cuatro convocatorias que deben realizarse sin solución de continuidad. Agotada la última convocatoria, las personas que no lo hayan superado siguen con la vinculación de personal interino, sometidas al procedimiento de selección ordinaria.
+b) Para el personal que no se halle incluido en ninguna de las situaciones a se refiere la letra a, debe convocarse, con carácter excepcional, transitorio y por una sola vez, un proceso selectivo, en turno de reserva especial, por concurso-oposición libre, para acceder a la condición de funcionario o funcionaria del Cuerpo de Titulación Superior de la Generalidad, Salud Pública. Este proceso conlleva también la realización y superación de pruebas específicas del sistema de concurso-oposición que deben versar sobre los contenidos propios de las funciones a desarrollar y sobre los correspondientes aspectos prácticos y organizativos.
+9.3 El proceso descrito por las letras a) y b) del apartado 9.2 debe contener la calificación de los méritos acreditados por los aspirantes que superen la fase de oposición. Las bases de la convocatoria de este proceso selectivo deben establecer la especial valoración de los servicios prestados por los aspirantes en el ámbito del departamento competente en materia de salud y del Instituto Catalán de la Salud, así como en otras administraciones públicas, correspondientes a funciones propias de las plazas convocadas. Los aspirantes deben demostrar conocimientos orales y escritos de lengua catalana mediante una prueba. Quedan exentos los aspirantes que acrediten documentalmente los conocimientos pertinentes.»
+Téngase en cuenta que se declara la inconstitucionalidad y nulidad de los apartados 2b) y 3 de la disposición transitoria 9 de la Ley 7/2003, de 25 de abril. Ref. BOE-A-2003-10531#dtnovena., en la redacción dada por el apartado 4 de la presente disposición, en cuanto establecen una especial valoración de los servicios prestados por los aspirantes, por Sentencia del TC 86/2016, de 28 de abril. Ref. BOE-A-2016-5198.
+Se declara la inconstitucionalidad y nulidad de los apartados 2b) y 3 de la disposición transitoria 9 de la Ley 7/2003, de 25 de abril. Ref. BOE-A-2003-10531#dtnovena., en la redacción dada por el apartado 4 de la presente disposición, en cuanto establecen una especial valoración de los servicios prestados por los aspirantes, por Sentencia del TC 86/2016, de 28 de abril. Ref. BOE-A-2016-5198.
+
+### Disposición final segunda
+
+Disposición final segunda. Aprobación de los estatutos.
+El Gobierno, en el plazo de seis meses, debe aprobar los estatutos del Instituto Catalán de la Salud, que han de regular su organización y régimen de funcionamiento.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley entra en vigor al día siguiente de su publicación en el Diari Oficial de la Generalitat de Catalunya, salvo lo establecido en el apartado 1 de la disposición adicional cuarta, que no será efectivo mientras no entre en vigor la reforma de la legislación en materia de ordenación sanitaria.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 30 de julio de 2007.–El Presidente, José Montilla i Aguilera.–La Consejera de Salud, Marina Geli i Fàbrega.

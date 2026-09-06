@@ -1,0 +1,55 @@
+# Ley por la que se autoriza al Gobierno para la ejecución de las obras de riego de Alto Aragón (rectificada).
+
+- Identificador BOE: `BOE-A-1915-143`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1915-143
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Se mantiene la vigencia de la reserva de agua para los riegos del Alto Aragón por la disposición adicional 5 de la Ley 10/2001, de 5 de julio. Ref. BOE-A-2001-13042#daquinta
+
+## Preámbulo
+
+Habiéndose padecido un error en la inserción en la Gaceta de ayer de la ley autorizando al Gobierno para la ejecución de las obras de riego del Alto Aragón, se reproduce de nuevo debidamente rectificada.
+LEY
+Don ALFONSO XIII, por la gracia de Dios y la Constitución, Rey de España;
+A todos los que la presente vieren y entendieren, sabed: que las Cortes han decretado y Nós sancionado lo siguiente:
+
+### Artículo 1
+
+Artículo 1.
+Se autoriza ál Gobierno para la ejecución de las obras de riego del Alto Aragón, con agua de los ríos Gállego, Cinca, Sotón, Aztón y Guatizalema, en toda la extensión necesaria para regar las zonas de Sobrarbe, Somontano y Monegros.
+
+### Artículo 2
+
+Artículo 2.
+El Gobierno resolverá, en vista de los informes técnicos y de todos los antecedentes que estime precisos, cuál sea el proyecto que responda mejor, tanto desde el punto de vista técnico como del económico, al fin propuesto. Adoptará asimismo el Gobierno las determinaciones necesarias para que los trabajos empiecen dentro del primer trimestre del año 1915, y con arreglo a los estudios hechos por la Administración pública que sean aprovechables, cualquiera que fuere el proyecto que en su día acepte el Gobierno para la ejecución definitiva de los obras.
+
+### Artículo 3
+
+Artículo 3.
+La ejecución de las obras habrá de realizarse en un plazo máximo de veinticinco años, distribuyendo el Ministerio de Fomento el presupuesto total en la forma que exige el desarrollo de las mismas, para que puedan utilizarse en lo posible a medida que se construyan, y entendiéndose la consignación de cada año ampliada en lo que no hubiera podido gastarse de la correspondiente a años anteriores.
+
+### Artículo 4
+
+Artículo 4.
+Como regla general las obras se harán por el sistema de Administración, salvo la adquisición de materiales, que se hará por concurso ó subasta con arreglo a las disposiciones vigentes. Podrá, no obstante, emplearse el sistema de subasta en las obras que por su índole no exijan garantías especiales,. En las obras por Administración podrán ajustarse destajos parciales que no excedan de 100.000 pesetas.
+
+### Artículo 5
+
+Artículo 5.
+El Estado explotará las aguas aplicando las tarifas que figuren en el proyecto que se adopte.
+
+### Artículo 6
+
+Artículo 6.
+Los gastos que origine el cumplimiento de esta ley, se satisfarán con cargo a los créditos que para riegos del Alto Aragón se concedan especialmente en el presupuesto del Ministerio de Fomento.
+
+### [firma]
+
+Por tanto:
+Mandamos a todos los Tribunales, Justicias, Jefes, Gobernadores y demás Autoridades, así civiles como militares y eclesiásticas, de cualquier clase y dignidad, que guarden y hagan guardar, cumplir y ejecutar la presente ley en todas sus partes.
+Dado en Palacio a siete de Enero de mil novecientos quince.
+YO EL REY.
+El Ministro de Fomento,
+Javier Ugarte

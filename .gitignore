@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+!.env.example
+.tunnel.env
+herramientas/smtp.env
+datos/comunidad/
+datos/tunel_url.txt
+backups-vps/
+backups/
+*.tar.gz
+*.log
+.DS_Store
+Thumbs.db

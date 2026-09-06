@@ -1,0 +1,767 @@
+# Ley 4/1998, de 24 de junio, reguladora del Juego y de las Apuestas de Castilla y León.
+
+- Identificador BOE: `BOE-A-1998-20057`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-20057
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+El Estatuto de Autonomía de Castilla y León atribuye a la Comunidad Autónoma competencia exclusiva en la materia de casinos, juegos y apuestas, con exclusión de las apuestas mutuas deportivo-benéficas, lo que la habilita para el ejercicio de facultades tanto legislativas como ejecutivas, sin perjuicio de lo establecido en el artículo 149 de la Constitución.
+En desarrollo de estas facultades se dicta la presente Ley, que tiene por objeto abordar de una manera global y sistemática la actividad del juego y las apuestas, estableciendo las reglas básicas a las que debe ajustarse la ordenación de este sector.
+El rango de esta norma se justifica por las medidas limitadoras de derechos y libertades que se producen en este ámbito, tales como la limitación a la libertad de acceso a los establecimientos de juego o la limitación a la libertad de empresa para la organización y explotación de aquéllos, así como por la necesaria delimitación de infracciones y sanciones que requiere una norma de este rango.
+No se pretende con esta Ley ni incitar al juego ni impedirlo, se trata de fijar unas reglas generales que ofrezcan al ciudadano la seguridad jurídica debida y al Gobierno la posibilidad de desarrollar una política reguladora del juego adaptada a la realidad económica y social.
+La Ley vincula el desarrollo de las actividades en materia de juego y apuestas a la previa autorización administrativa, estableciéndose una serie de requisitos mínimos. De este modo, se exige que el juego o apuesta esté incluido en el Catálogo de Juegos y Apuestas que los establecimientos en los que se vayan a desarrollar actividades de juego reúnan una serie de características, y que las empresas que pretendan explotar u organizar juegos y apuestas ostenten unas condiciones determinadas.
+Se crea el Registro de Juegos y Apuestas para controlar y centralizar los aspectos administrativos del juego y las apuestas, y se alumbra la Comisión de Juegos y Apuestas como órgano coordinador y de estudio que sirva de apoyo a los órganos ejecutivos competentes en esta materia, y se establece un régimen sancionador ajustado a los principios de legalidad, tipicidad, responsabilidad y proporcionalidad, atribuyendo la competencia sancionadora a los diferentes órganos de la Administración, atendiendo a la naturaleza y gravedad de los hechos.
+Finalmente, dado de que la materia de juego y apuestas es compleja, la Ley contempla los principios fundamentales sobre los que debe asentarse el ulterior desarrollo reglamentario.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. La presente Ley tiene por objeto regular, en el ámbito territorial de la Comunidad de Castilla y León, el juego y las apuestas en sus distintas modalidades y cualesquiera otras actividades relacionadas con las mismas, conforme a lo dispuesto en el Estatuto de Autonomía.
+2. Se considera juego, a los efectos de esta Ley, toda actividad en la que se aventuran cantidades de dinero u objetos económicamente evaluables que permitan su transferencia entre los participantes, con independencia de que predomine el grado de habilidad, destreza o maestría de los mismos o intervenga exclusivamente la suerte, envite o azar, tanto si se desarrolla a través de actividades humanas como mediante la utilización de máquinas.
+3. Se entiende por apuesta, a los efectos de esta Ley, cualquier actividad en la que se arriesga dinero u objetos económicamente evaluables sobre el resultado de un acontecimiento determinado, de desenlace incierto y ajeno a las partes intervinientes.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. El régimen jurídico de la presente Ley se extenderá a:
+a) Las actividades propias de juego y apuestas.
+b) Los establecimientos donde se realice la gestión y explotación de juegos y apuestas.
+c) La fabricación, homologación, instalación, comercialización, suministro y mantenimiento de materiales relacionados con el juego en general.
+d) Las personas y empresas que de alguna forma intervengan en cualquiera de las actividades anteriores.
+2. Quedan excluidos del ámbito de aplicación de esta Ley los juegos y apuestas de ocio y recreo constitutivos de usos sociales de carácter tradicional o familiar, siempre que no sean objeto de explotación lucrativa. Quedan también excluidas las máquinas recreativas o de tipo A, así como los salones recreativos en los que sólo se instalen este tipo de máquinas, y las empresas que exclusivamente tengan por objeto la explotación de estas máquinas o salones, por lo que no requerirán autorización administrativa para su instalación y funcionamiento así como tampoco la homologación e inscripción en los registros de modelos y de empresas regulados reglamentariamente.
+Se modifica el apartado 2.1 por el art, 12 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251
+
+### Artículo 3
+
+Artículo 3. Catálogo de Juegos y Apuestas de Castilla y León.
+1. El Catálogo es el instrumento básico de ordenación de juegos y apuestas de la Comunidad, en cuya elaboración se tendrán en cuenta los siguientes principios:
+a) Transparencia en el desarrollo del juego o de la apuesta y garantía de que no se produzcan fraudes.
+b) Posibilidad de intervención y control por parte de la Administración.
+c) Prevención de perjuicios a terceros.
+2. En el Catálogo de Juegos y Apuestas se especificarán, para cada uno de ellos, las distintas denominaciones con que sea conocido y sus posibles modalidades, los elementos personales y materiales necesarios para su práctica, las reglas esenciales para su desarrollo y los condicionantes, restricciones y prohibiciones que, en su caso, se consideren necesarios establecer para su práctica.
+3. El Catálogo incluirá, al menos, los siguientes juegos y apuestas:
+a) Bingo, en sus distintas modalidades.
+b) Los que se desarrollen mediante el empleo de máquinas de juego incluidas en esta Ley.
+c) Juego de boletos.
+d) Rifas, tómbolas y combinaciones aleatorias.
+e) Las distintas modalidades de apuestas.
+f) El juego de las chapas.
+g) Los exclusivos de los casinos de juego.
+h) Loterías.
+Se modifica el apartado 3.e) por la disposición final 3.2 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 4
+
+Artículo 4. Autorizaciones, comunicaciones o declaraciones responsables.
+1. La realización de cualquier actividad incluida en el ámbito de esta ley requiere la previa autorización administrativa, comunicación o declaración responsable, sin perjuicio de la obligación de acompañar los documentos que se establezcan reglamentariamente.
+En los términos, condiciones y requisitos que reglamentariamente se prevean, las asociaciones de empresas titulares de autorizaciones de juego presencial, o éstas individualmente, podrán desarrollar de forma remota a través de medios telemáticos, interactivos o de comunicación a distancia, determinadas actividades de juego y apuestas incluidas en el Catálogo de Juegos y Apuestas, con independencia de los juegos que amparen dichas autorizaciones, y previa la obtención de los correspondientes permisos.
+2. Las autorizaciones y permisos se otorgarán cuando se cumplan los requisitos establecidos en la Ley y reglamentos, salvo que razones excepcionales de interés social o económico justifiquen su denegación.
+Si se limitase el número de autorizaciones a través de la correspondiente planificación, se otorgarán aquellas mediante concurso público.
+Con carácter excepcional, la autorización para la organización, explotación y gestión de un determinado juego o apuesta podrá estar a cargo de una única entidad autorizada en concurso público, cuando la viabilidad económica de su implantación así lo justifique, los ingresos procedentes de la tributación del juego o apuesta se destinen a fines sociales y tenga por objeto social su exclusiva explotación, bajo la supervisión de la Administración de la Comunidad de Castilla y León, en los términos, condiciones y requisitos que se establezcan reglamentariamente. Las leyes de presupuestos generales de la Comunidad determinarán los concretos programas presupuestarios que se financiarán con estos ingresos.
+La solicitud para la obtención de permisos de juego remoto que pudieran presentar las empresas que vayan a asociarse en los subsectores de casinos, bingos o máquinas, se realizará en virtud del número de autorizaciones de juego presencial existentes en cada momento referidas a establecimientos en casinos o bingos, o referidas al número de máquinas, y se presentará, al menos, por un 68 por ciento en los subsectores de casinos o bingos, o por un 26 por ciento en el subsector de máquinas, y si la presentación de la solicitud se realizara por empresas pertenecientes a distintos subsectores, exigirá que, al menos, cada uno aporte un mínimo del 10 por ciento en su correspondiente subsector y la suma de porcentajes de todos ellos acumule un 68 por ciento.
+Reglamentariamente se determinará el régimen aplicable a los permisos de juego remoto que pudieran otorgarse para las solicitudes que formulen otras empresas no pertenecientes a los subsectores citados que, ocasionalmente, cuenten con autorizaciones de juego presencial.
+3. Las autorizaciones señalarán de forma explícita sus titulares, el tiempo por el que se conceden, las actividades autorizadas y condiciones de las mismas, y los lugares en que pueden ser practicadas, indicando las características que éstos deben poseer.
+Las autorizaciones tienen una duración temporal y cesan sus efectos una vez transcurrido el tiempo de vigencia concedido.
+La autorización concedida para la realización de actividades de acto único y en fecha determinada finaliza con la celebración del acto autorizado. Si el acto no se celebrase la autorización finalizará el día en que se debió celebrar.
+4. La autorización, la comunicación o la declaración responsable para la actividad de juego y apuestas en un determinado establecimiento, requerirá la previa obtención de la correspondiente licencia o presentación de la comunicación exigida en la normativa sectorial correspondiente, según se determine reglamentariamente.
+5. Podrán ser revocadas las autorizaciones si desaparecen todas o algunas de las circunstancias que motivaron su otorgamiento, y quedarán sin efecto si se incumplieren las condiciones a que estuvieren subordinadas.
+6. Las autorizaciones no podrán cederse ni ser explotadas a través de una tercera persona distinta del titular. No obstante, podrán transmitirse en los casos y condiciones que reglamentariamente se determinen, previo conocimiento de la Administración. No serán transmisibles aquellas en cuyo otorgamiento se haya tenido en cuenta las circunstancias personales del titular.
+7. Podrán ser titulares de las autorizaciones necesarias para la organización y explotación de los juegos o las apuestas regulados por esta Ley quienes no se encuentren en alguna de las siguientes circunstancias:
+a) Haber sido condenados dentro de los cinco años anteriores a la fecha de la solicitud, mediante sentencia firme, por delito de falsedad, contra las personas, contra la propiedad o contra la Hacienda Pública.
+Esta previsión alcanzará a las personas jurídicas en las que algunos de sus directivos o miembros de los órganos de gobierno se encuentren incursos en dicho supuesto.
+b) Los quebrados no rehabilitados y quienes, habiéndose declarado en estado legal de suspensión de pagos o concurso de acreedores, hayan sido declarados insolventes o no hayan cumplido totalmente las obligaciones adquiridas.
+c) Haber sido sancionados, mediante resolución firme, por dos o más infracciones tributarias graves, en los últimos cinco años, por tributos sobre el juego y apuestas.
+La incursión en alguna de las circunstancias mencionadas con posterioridad al otorgamiento de la autorización llevará aparejada la pérdida de ésta, y no podrá volver a solicitarse durante un período de cinco años.
+8. En ningún caso se podrán otorgar autorizaciones para instalar establecimientos específicos de juego y apuestas en la zona de influencia de centros en los que se imparta educación primaria, secundaria obligatoria, ciclos formativos de grado básico, enseñanzas elementales de música y danza, así como educación secundaria postobligatoria comprensiva del bachillerato, la formación profesional de grado medio, las enseñanzas artísticas tanto de música y de danza como de artes plásticas y diseño de grado medio y las enseñanzas deportivas de grado medio, que se establece en una distancia de 150 metros.
+Asimismo, tampoco se podrán otorgar autorizaciones para instalar establecimientos específicos de juego y apuestas cuando exista otro establecimiento específico de juego y/o apuestas ya autorizado a menos de 300 metros de distancia de la ubicación pretendida.
+La forma de medir estas distancias se establecerá reglamentariamente.
+Se añaden dos párrafos al apartado 3 y se modifican los apartados 6 y 8 por el art. único.1, 2 y 3 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+ Se modifican los apartados 1, 4 y 8 por el art. 3.1 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+ Se modifica el apartado 2 por la disposición final 3.1 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se modifican los apartados 1 y 2 por la disposición final 1.1 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+ Se modifica el apartado 4 por el art. 12.2 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251
+ Se modifica el apartado 1 por la disposición final 1 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 5
+
+Artículo 5. Juegos y apuestas prohibidos.
+Se consideran prohibidos aquellos juegos y apuestas que no estén incluidos en el Catálogo, así como aquellos que, estando incluidos, se realicen sin la debida autorización o sin la presentación de la correspondiente comunicación o declaración responsable, por persona, en forma o lugares distintos de los establecidos reglamentariamente o especificados en las correspondientes autorizaciones, comunicaciones o declaraciones responsables.
+Se modifica por el art. 3.2 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+
+### Artículo 6
+
+Artículo 6. Publicidad, patrocinio y promoción del juego y de las apuestas.
+1. La publicidad, el patrocinio y la promoción del juego y de las apuestas están sometidos a autorización administrativa previa en los términos y condiciones que se establezcan reglamentariamente.
+2. La publicidad de cualquier modalidad de juego y apuestas deberá ajustarse a la normativa sobre protección de menores, a la normativa general en materia de publicidad, defensa de consumidores y usuarios y de prácticas comerciales desleales y a la normativa específica sobre comunicaciones audiovisuales y de servicios de la sociedad de la información y de comercio electrónico, y no podrá contener, en ningún caso, gráficos, textos o imágenes xenófobas, sexistas, que fomenten comportamientos compulsivos, actitudes de juego no moderado e irresponsable, o cualquier trato discriminatorio o contrario a la Constitución o al Estatuto de Autonomía de Castilla y León.
+En servicios de comunicación audiovisual la publicidad del juego y de las apuestas deberá ajustarse a las restricciones horarias previstas en la legislación reguladora de las comunicaciones audiovisuales.
+En particular, queda prohibida la publicidad efectuada en la radio durante la emisión de programas o espacios especialmente dirigidos al público infantil.
+3. Se considera libre la actividad publicitaria realizada en el interior de los establecimientos específicos de juego y de las apuestas y en los medios de comunicación especializados en el sector de juego y apuestas, si bien se ha de ajustar a la normativa referida en el apartado 2 de este artículo.
+4. En las fachadas y en el exterior de los establecimientos específicos de juego y apuestas no se podrán utilizar carteles informativos, comunicaciones comerciales o imágenes publicitarias de juego sin autorización o que induzcan a error de la actividad autorizada, inciten o estimulen a la práctica de juego o incluyan información sobre el importe de premios, el coeficiente de las apuestas, o imágenes o referencias al deporte o la facilidad para obtener premios.
+5. La actividad publicitaria, de patrocinio y de promoción no alterará la dinámica de la práctica del juego o de las apuestas correspondientes, respetará los principios básicos sobre juego responsable y deberá contener una leyenda referida a que “Las autoridades sanitarias advierten que la práctica abusiva del juego y las apuestas perjudica la salud, pudiendo producir ludopatía”, y de que “La práctica del juego y de las apuestas está prohibida a los menores de edad”.
+Se modifica por el art. único.4 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+ Se modifica por la disposición final 3.3 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 7
+
+Artículo 7. Registro de visitantes y Servicio de control de acceso.
+1. Todos los establecimientos de juego y apuestas deberán disponer de un Registro de visitantes y un Servicio de control de acceso situados en cada una de las puertas de entrada al establecimiento. En el Registro de visitantes se identificará y registrará a todas las personas que deseen acceder al establecimiento y el Servicio de control impedirá la entrada a los menores de edad y a las personas inscritas en el Registro de Interdicciones de Acceso al Juego de la Comunidad de Castilla y León previsto en el artículo 7 bis. Del cumplimiento de estas obligaciones será responsable el titular de la autorización de instalación del establecimiento de juego o apuestas.
+De igual forma, se prohibirá el acceso a los establecimientos de juego y apuestas a quienes presenten síntomas de embriaguez, intoxicación por drogas o enajenación mental y los que ostensiblemente puedan perturbar el orden.
+2. En la puerta de acceso de todos los establecimientos específicos de juego y apuestas figurarán carteles informativos que adviertan de la prohibición de entrada a los menores de edad y a las personas inscritas en el Registro de Interdicciones de Acceso al Juego de la Comunidad de Castilla y León.
+La identificación previa al acceso al establecimiento se realizará mediante la entrega por el cliente de su documento nacional de identidad o número de identidad de extranjero, pasaporte o documento oficial de identificación personal con fotografía para su inmediata consulta en el Registro de Interdicciones de Acceso al Juego de la Comunidad de Castilla y León y su anotación en el Registro de visitantes del local, sin que ninguna persona pueda acceder al interior y hacer uso de los elementos de juego sin el previo control de identificación, consulta y anotación.
+En el Registro de visitantes se anotará, únicamente, el nombre y apellidos, el tipo y el número de documento de identificación del cliente, así como la fecha y hora de acceso.
+Los datos contenidos en el Registro de visitantes se ajustarán a la normativa de protección de datos de carácter personal, no podrán ser manipulados, tendrán carácter reservado y no podrán ser utilizados para ninguna otra finalidad distinta del control de acceso. Los datos anotados se conservarán durante un periodo de seis meses y podrán ser consultados por el personal de la Administración con funciones de inspección y control del juego y de las apuestas y remitidos al órgano directivo central competente en materia de juego y apuestas y a los órganos judiciales, a requerimiento de éstos, con motivo de un procedimiento administrativo o judicial abierto por presunto incumplimiento de la normativa sustantiva reguladora de la materia de juego y apuestas. En su caso, el sistema informático que gestione el Registro de visitantes deberá permitir la extracción de la totalidad de su contenido a soporte informático, a solicitud del personal de la Administración con funciones de inspección y control del juego y de las apuestas.
+3. El Servicio de control de acceso del establecimiento estará conectado con el Registro de Interdicciones de Acceso al Juego de la Comunidad de Castilla y León durante el tiempo que permanezca abierto, será gestionado por el empleado que desarrolle estas funciones en el establecimiento y podrá servirse de medios técnicos previamente homologados por el órgano directivo central competente en materia de juegos y apuestas. Para poder desarrollar estas funciones el empleado habrá de haber asumido el deber de confidencialidad y secreto profesional.
+Se modifica por el art. único.5 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+ Se añade el apartado 5 por el art. 3.3 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+ Se modifica el primer párrafo del apartado 1 por el art. 12.3 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251
+
+### Artículo 7 bis
+
+Artículo 7 bis. Limitaciones subjetivas de acceso y práctica del juego y de las apuestas y Registro de Interdicciones de Acceso al Juego de la Comunidad de Castilla y León.
+1. No podrán practicar ninguno de los juegos regulados en la presente Ley ni participar en apuestas:
+a) Los menores de edad.
+b) Las personas con discapacidad que, por resolución judicial, estén sujetas a medidas de apoyo que afecten a su libre participación en los juegos y apuestas.
+c) El personal de la Administración de la Comunidad de Castilla y León destinado en las unidades y órganos administrativos que directamente gestionen la materia de juego y apuestas.
+d) El personal de inspección y control del juego y de las apuestas, salvo que para el ejercicio de sus funciones lo precisen.
+e) Los funcionarios públicos que, en el ejercicio de sus funciones, manejen fondos públicos.
+f) Los altos cargos de la Administración de la Comunidad de Castilla y León con competencias en materia de juego y apuestas.
+2. Las reglamentaciones específicas reguladoras del juego y de las apuestas podrán establecer otras limitaciones de acceso y práctica.
+3. Bajo la denominación de Registro de Interdicciones de Acceso al Juego de la Comunidad de Castilla y León habrá un apartado específico del Registro de Juegos y Apuestas de Castilla y León previsto en el artículo 11 de esta Ley donde constarán las personas con limitación individualizada de acceso y práctica a juegos y apuestas en Castilla y León y cuya gestión dependerá del órgano directivo central competente en materia de juego y apuestas de la Comunidad de Castilla y León.
+En el Registro de Interdicciones de Acceso al Juego de la Comunidad de Castilla y León se anotará la información necesaria para hacer efectivo el derecho de todas las personas a que les sea prohibido el acceso a los establecimientos de juego y apuestas y su participación en los juegos y apuestas. Igualmente, se inscribirá la información relativa a las personas con discapacidad que, por resolución judicial, estén sujetas a medidas de apoyo que afecten a su libre participación en los juegos y apuestas o a aquellas personas que por resolución administrativa tengan prohibido el acceso y la práctica del juego y las apuestas, en los términos que se establezcan reglamentariamente.
+Los datos registrales no tienen carácter público y su difusión comprende únicamente la información estrictamente necesaria para el cumplimiento de las finalidades previstas en esta Ley, respetando lo dispuesto en la legislación sobre protección de datos de carácter personal.
+Se podrá establecer un sistema informatizado para la interconexión automatizada del Registro de Interdicciones de Acceso al Juego de la Comunidad de Castilla y León con el Registro de Interdicciones de Acceso al Juego de ámbito estatal, así como los mecanismos de coordinación necesarios para la comunicación de datos con otros registros oficiales equivalentes de las Comunidades Autónomas, para el cumplimiento de las finalidades establecidas en la presente Ley, de acuerdo con la legislación sobre protección de datos de carácter personal y garantía de los derechos digitales.
+Se añade por el art. único.6 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Artículo 8
+
+Artículo 8. Material de juego y apuestas.
+1. Los juegos y apuestas a que se refiere la presente Ley se practicarán con el material que haya sido homologado con carácter previo por el órgano competente.
+2. El material no homologado que sea usado en la práctica de juego y apuestas se considera clandestino y será decomisado por los agentes de la autoridad que tengan conocimiento de dicha práctica.
+
+### Artículo 9
+
+Artículo 9. Competencias de la Junta de Castilla y León.
+Corresponde a la Junta de Castilla y León:
+a) La aprobación del Catálogo de Juegos y Apuestas de Castilla y León.
+b) La reglamentación de los juegos y apuestas incluidos en el Catálogo.
+c) La planificación de los Juegos y Apuestas de la Comunidad, con arreglo a los siguientes criterios:
+– Localización y distribución geográfica.
+– La realidad social en el correspondiente ámbito geográfico.
+– Número de establecimientos afectados.
+– Realidad tributaria.
+– Demanda empresarial.
+d) La imposición de sanciones en los términos previstos en el título VI.
+e) Cualquier otra competencia que le sea atribuida por esta Ley.
+Se modifica por la disposición final 3.4 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 10
+
+Artículo 10. Competencias de la Consejería competente en materia de juego y apuestas.
+1. Corresponde a la Consejería competente en materia de juego y apuestas:
+a) La concesión, en su caso, de las autorizaciones necesarias para realizar las actividades previstas en esta Ley.
+b) La inspección, control y, en su caso, sanción, en los términos previstos en el título VI, de los aspectos técnicos y administrativos de las actividades relacionadas con juegos y apuestas, así como de las empresas y establecimientos.
+c) El desarrollo de los Reglamentos y la ejecución en materia de juegos y apuestas.
+d) La organización y actualización del Registro de Juegos y Apuestas de Castilla y León.
+e) La homologación del material de juego y apuestas.
+f) Aquellas que la Junta de Castilla y León le desconcentre o delegue.
+g) Cualquier otra competencia que expresamente le sea atribuida por esta Ley.
+2. Estas competencias pueden ser desconcentradas o delegadas en otros órganos centrales o periféricos, a excepción de la potestad sancionadora y de las atribuidas por delegación.
+Se modifican las referencias a la "Consejería de Presidencia y Administración Territorial" según establece la disposición final 1 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Artículo 11
+
+Artículo 11. Registro de Juegos y Apuestas de Castilla y León.
+1. Las personas físicas o jurídicas que pretendan dedicarse a la explotación u organización de cualquier juego o apuesta, a la distribución y mantenimiento del material o de las máquinas y a su fabricación deberán inscribirse en el Registro de Juegos y Apuestas de Castilla y León.
+2. La inscripción en el Registro será requisito indispensable para el desarrollo de la actividad de juego o apuesta en la Comunidad de Castilla y León.
+3. En el Registro se anotarán los establecimientos autorizados para la práctica del juego y las apuestas, las máquinas de juego, sus modelos y sus datos de identificación e instalación, los permisos de explotación, las personas con limitación individualizada de acceso y práctica a juegos y apuestas, y otros datos de interés relativos a la actividad de juego, así como cualquier modificación que se produzca en los mismos.
+4. Reglamentariamente se determinará la estructura del Registro, las condiciones y requisitos necesarios para la inscripción o anotación, así como su adscripción orgánica.
+Se modifica el apartado 3 por el art. 3.4 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+
+## TÍTULO II
+
+De los establecimientos y los juegos que en ellos se practican
+
+### Artículo 12
+
+Artículo 12. De los establecimientos.
+1. Los juegos y apuestas podrán practicarse exclusivamente en los establecimientos que, reuniendo los requisitos exigidos en esta Ley y en las disposiciones que la desarrollen, sean autorizados expresamente para ello.
+Podrán ser autorizados para la práctica de juegos y apuestas los siguientes establecimientos:
+a) Casinos de juego.
+b) Salas de bingo.
+c) Salones de juego.
+d) Casas de apuestas.
+De igual forma, se podrán autorizar, según cada modalidad de juego y apuesta, otros establecimientos abiertos al público.
+2. Previa presentación de una declaración responsable podrán practicarse los juegos y apuestas en establecimientos en los que la actividad de juegos y apuestas sea actividad complementaria de la actividad principal, como restaurantes, cafeterías, cafés-bares, bares, discotecas, salas de fiesta, pubs y karaokes, bares especiales, cafés cantante, boleras, centros de ocio o recreo familiar, campings, recintos feriales, hoteles y demás establecimientos análogos.
+3. El aforo y superficie de los establecimientos, así como las condiciones de funcionamiento, se determinarán reglamentariamente.
+Las puertas de los establecimientos específicos de juego y apuestas deberán permanecer cerradas de forma que los elementos de juego y apuestas no puedan ser visibles desde el exterior.
+4. En los establecimientos autorizados para la práctica de juegos y apuestas existirán, a disposición de los jugadores, hojas de reclamaciones en modelo oficial aprobado por el órgano competente en materia de consumo, folletos informativos de prevención y de tratamiento de la ludopatía, folletos de la práctica del juego responsable y el modelo oficial de solicitud de inclusión en el Registro de Interdicciones de Acceso al Juego de la Comunidad de Castilla y León, y deberán anunciarlo en el Servicio de control de acceso del establecimiento.
+5. La apertura de establecimientos abiertos al público en los que pretendan desarrollarse actividades de juegos y apuestas por parte de los operadores autorizados por otras Administraciones, requerirán la previa obtención de título habilitante otorgado por el órgano competente en materia de juego de la Comunidad de Castilla y León.
+De igual forma, también se precisará la obtención de título habilitante por parte del órgano competente en materia de juego de la Comunidad de Castilla y León para la instalación de equipos que permitan la participación en los citados juegos y apuestas, en cualquier establecimiento abierto al público.
+En aplicación de lo dispuesto en el apartado cinco de la disposición adicional primera de la Ley 13/2011, de 27 de mayo, de regulación del juego, la apertura de establecimientos accesibles al público por la Sociedad Estatal Loterías y Apuestas del Estado y por la Organización Nacional de Ciegos Españoles que se destinen a la comercialización de los juegos que gestionaran estas entidades hasta la entrada en vigor de la citada ley y de los juegos sujetos a reserva no requerirá autorización del órgano competente en materia de juego de la Comunidad de Castilla y León.
+6. En los establecimientos autorizados para la práctica de juegos y de las apuestas no se pueden establecer espacios para fumar en su interior ni habilitar clubes de fumadores.
+Se modifican los apartados 3, 4 y 5 y se añade el apartado 6 por el art. único.7, 8, 9 y 10 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+ Se modifican los apartados 1 y 2 por el art. 3.5 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+ Se añade una letra e) al apartado 2 por la disposición final 2.1 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica el apartado 2 y se añade el 5 por la disposición final 3.5 y 6 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se suprime el apartado 2.c) por el art. 12.4 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251
+
+### Artículo 13
+
+Artículo 13. Casinos de juego.
+1. Tendrán la consideración de casinos de juego los establecimientos autorizados con este carácter y en los cuales se puedan practicar todos o al menos la mayoría de los siguientes juegos:
+Ruleta francesa.
+Ruleta americana.
+Veintiuna o Black-Jack.
+Bola o Boule.
+Treinta y cuarenta.
+Punto y banca.
+Ferrocarril, Bacarrá o Chemin de Fer.
+Bacarrá a dos paños.
+Dados o Craps.
+Poker
+Ruleta de la fortuna.
+Asimismo, podrán practicarse, previa autorización, otros juegos de los incluidos en el Catálogo.
+2. La Junta de Castilla y León determinará mediante la correspondiente planificación el número de casinos a instalar en el ámbito territorial de la Comunidad Autónoma.
+3. El otorgamiento de autorizaciones de instalación se efectuará mediante concurso público, en el que se valorará el interés turístico del proyecto, la solvencia de los promotores, el programa de inversiones, así como el cumplimiento de cualquier otro requisito exigido en las bases de la convocatoria. En cada concurso se establecerá el plazo concreto para el que se convoca la concesión.
+4. Los casinos, además de sala de juego, deberán disponer, como mínimo, de las siguientes dotaciones:
+Servicio de bar.
+Servicio de restaurante.
+Sala de estar.
+Sala de espectáculos o fiestas.
+Reglamentariamente se regulará la disponibilidad de estos servicios.
+5. En la autorización de instalación se fijará el plazo dentro del cual se deberá informar a la Administración de la fecha de apertura del casino de juego y presentar una declaración responsable con los documentos que se establezcan reglamentariamente. El período máximo de explotación será de 10 años desde la fecha de apertura del casino de juego. Esta autorización de instalación podrá ser renovada.
+Se modifican los apartados 3 y 5 por el art. 3.6 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+
+### Artículo 14
+
+Artículo 14. Salas de bingo.
+1. Tendrán la consideración de salas de bingo los establecimientos que hayan sido autorizados para la práctica del juego del bingo en sus distintas modalidades.
+2. En las salas de bingo podrán instalarse máquinas de tipo "B" en función del aforo del local y en los términos que se determinen reglamentariamente. Asimismo, podrán practicarse, previa autorización, otros juegos de los incluidos en el Catálogo.
+3. Las salas de bingo deberán disponer, como mínimo, de un área de recepción y una sala de juegos.
+4. En la autorización de instalación se fijará el plazo dentro del cual se deberá informar a la Administración de la fecha de apertura de la sala de bingo y presentar una declaración responsable con los documentos que se establezcan reglamentariamente. El período máximo de explotación será de 10 años desde la fecha de apertura de la sala de bingo. Esta autorización de instalación podrá ser renovada.
+Se modifica el apartado 4 por el art. 3.7 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+ Se modifica el apartado 2 por la disposición final 3.7 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 15
+
+Artículo 15. Salones de juego.
+1. Tendrán la consideración de salones de juego aquellos establecimientos específicamente autorizados para instalar máquinas de juego en los términos establecidos en su reglamentación específica. Asimismo, podrán practicarse, previa autorización, otros juegos de los incluidos en el Catálogo.
+2. El número mínimo de máquinas a instalar en estos salones será de 10 y el máximo estará en función de la superficie útil del local destinada a juego.
+3. En la autorización de instalación se fijará el plazo dentro del cual se deberá informar a la Administración de la fecha de apertura del salón de juego y presentar una declaración responsable con los documentos que se establezcan reglamentariamente. El período máximo de explotación será de 10 años desde la fecha de apertura del salón de juego. Esta autorización de instalación podrá ser renovada.
+Se modifica el apartado 1 por el art. único.11 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+ Se prorroga la suspensión de la aplicación del apartado 1, hasta el día 1 de enero de 2025 o hasta la entrada en vigor de la ley que modifique la Ley 4/1998, de 24 de junio, si ésta se produjera con anterioridad, por el art. único del Decreto-ley 3/2021, de 10 de junio en la redacción dada por la disposición final 1 del Decreto-ley 3/2023, de 11 de mayo. Ref. BOCL-h-2023-90202#df
+ Se suspende la aplicación del apartado 1, por el art. único del Decreto-ley 3/2021, de 10 de junio. Ref. BOCL-h-2021-90217, respecto a las nuevas solicitudes que se presenten a partir de la entrada en vigor de este Decreto-ley, que tendrá una duración de 24 meses o hasta la entrada en vigor de la ley que modifique la Ley 4/1998, de 24 de junio, si ésta se produjera con anterioridad.
+ Se modifica y renumera por el art. 3.8 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+ Anteriormente era el art. 16.
+ Se suprime por el art. 12.5 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251
+
+### Artículo 16
+
+Artículo 16. Casas de apuestas.
+1. Tendrán la consideración de casas de apuestas aquellos establecimientos específicamente autorizados para la práctica de apuestas. Asimismo, podrán practicarse, previa autorización, otros juegos de los incluidos en el Catálogo.
+Téngase en cuenta que la aplicación del apartado 1 se encuentra suspendida, hasta el día 1 de enero de 2025 o hasta la entrada en vigor de la ley que modifique la Ley 4/1998, de 24 de junio, si ésta se produjera con anterioridad, por el art. único del Decreto-ley 3/2021, de 10 de junio. Ref. BOCL-h-2021-90217, en la redacción dada por la disposición final 1 del Decreto-ley 3/2023, de 11 de mayo. Ref. BOCL-h-2023-90202#df
+2. El número mínimo de terminales auxiliares de apuestas a instalar será de 6 y el máximo estará en función de lo que se determine reglamentariamente.
+3. En las casas de apuestas podrán instalarse máquinas de tipo ‘‘B’’ en los términos que se determinen reglamentariamente.
+4. En la autorización de instalación se fijará el plazo dentro del cual se deberá informar a la Administración de la fecha de apertura de la casa de apuestas y presentar una declaración responsable con los documentos que se establezcan reglamentariamente. El período máximo de explotación será de 10 años desde la fecha de apertura de la casa de apuestas, sin perjuicio de su extinción anticipada por la extinción de la autorización de la empresa organizadora y explotadora de las apuestas. Esta autorización de instalación podrá ser renovada.
+Se prorroga la suspensión de la aplicación del apartado 1, hasta el día 1 de enero de 2025 o hasta la entrada en vigor de la ley que modifique la Ley 4/1998, de 24 de junio, si ésta se produjera con anterioridad, por el art. único del Decreto-ley 3/2021, de 10 de junio en la redacción dada por la disposición final 1 del Decreto-ley 3/2023, de 11 de mayo. Ref. BOCL-h-2023-90202#df
+ Se suspende la aplicación del apartado 1, por el art. único del Decreto-ley 3/2021, de 10 de junio. Ref. BOCL-h-2021-90217, respecto a las nuevas solicitudes que se presenten a partir de la entrada en vigor de este Decreto-ley, que tendrá una duración de 24 meses o hasta la entrada en vigor de la ley que modifique la Ley 4/1998, de 24 de junio, si ésta se produjera con anterioridad.
+ Se modifica por el art. 3.9 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+ Se modifica el apartado 1 por la disposición final 3.8 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se suprime el segundo párrafo del apartado 1 por el art. 12.6 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251
+
+### Artículo 17
+
+Artículo 17. Otros establecimientos.
+En los establecimientos dedicados a la actividad de restaurante, cafetería, café-bar, bar, discoteca, sala de fiesta, pub y karaoke, bar especial, café cantante, bolera, y análogos, podrá autorizarse la instalación de un máximo de dos máquinas y en los establecimientos habilitados en recintos feriales, hoteles, campings y centros de ocio y recreo familiar, o similares, el número de máquinas estará en función de su superficie útil, según se determine reglamentariamente.
+No obstante, en los establecimientos citados en el anterior párrafo que tengan una superficie igual o superior a 60 metros cuadrados de zona de concurrencia o uso público, excluidos los aseos, podrá autorizarse la instalación de una máquina más, que deberá ser de las previstas en la letra d) del apartado 2 del artículo 18 de esta ley, según se determine reglamentariamente.
+Las obligaciones de los titulares de los establecimientos respecto del uso de las máquinas se establecerán reglamentariamente.
+Se modifica el párrafo primero por el art. 3.10 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+ Se modifica el párrafo primero por la disposición final 2.2 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica por la disposición final 3.9 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se modifica el segundo párrafo por el art. 12.7 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251
+ Se modifica por el art. 55 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+
+### Artículo 18
+
+Artículo 18. Máquinas de juego.
+1. Son máquinas de juego, a los efectos de la presente Ley, los aparatos manuales o automáticos que, a cambio de un precio fijo, ofrecen al usuario el mero entretenimiento o la posibilidad de obtener un premio.
+2. Las máquinas de juego se clasifican en los siguientes grupos:
+a)(Suprimida).
+b) Máquinas tipo B o recreativas con premio, son las que a cambio del precio de la partida o jugada conceden al usuario un tiempo de uso o de juego y, eventualmente, un premio en metálico, de acuerdo con el programa de juego.
+Solo podrá autorizarse la instalación de máquinas de tipo B en los establecimientos dedicados a la actividad de restaurante, cafetería, bar, discoteca, pub y karaoke, bar especial, café teatro y café cantante, bolera, y análogos, en casas de apuestas, salas de bingo, salones de juego y casinos de juego, según se determine reglamentariamente.
+c) Máquinas tipo C son las que, a cambio del precio de la partida o jugada, conceden al usuario un tiempo de juego y, eventualmente, pueden ofrecer un premio que siempre dependerá del azar.
+Sólo podrá autorizarse la instalación de máquinas de tipo C en los casinos de juego.
+d) Aquellas otras máquinas, manuales o automáticas, que permitan la obtención de premios combinando modalidades, elementos o mecanismos de diferentes juegos regulados en esta Ley y que no estén contempladas en los tipos anteriores, podrán clasificarse como de tipo diferenciado y la reglamentación específica determinara su régimen jurídico. Este tipo de máquinas podrán instalarse en salas de bingo, salones de juego y casinos de juego.
+3. Quedan excluidas de la presente Ley las máquinas expendedoras que se limiten a efectuar mecánicamente venta de productos y mercancías, siempre que el valor del dinero depositado en las máquinas corresponda al valor en mercado de los productos que entreguen, así como las máquinas tocadiscos o vídeo-discos y las máquinas o aparatos de competencia pura o deporte en donde el juego se realice sin la ayuda directa de componentes electrónicos.
+Quedan también excluidas de la presente Ley las máquinas tipo A o recreativas, entendiéndose por tales las siguientes:
+a) Aquéllas que, a cambio de un precio, ofrecen al jugador un tiempo de utilización, sin que haya ningún tipo de premio o compensación en metálico, en especie o en forma de puntos canjeables, salvo la posibilidad de continuar jugando por el mismo importe inicial.
+b) Las denominadas de realidad virtual, simulación y análogas, siempre y cuando el usuario intervenga en el desarrollo de los juegos.
+c) Las de competencia pura o deportiva cuyos componentes electrónicos tengan influencia decisiva en el desarrollo del juego.
+d) Los juegos recreativos sin premio desarrollados a través de ordenadores y otros soportes informáticos, tales como los videojuegos u otros programas informáticos de juego recreativo, practicados en locales abiertos al público, explotados lucrativamente a cambio de un precio mediante su instalación bien en la propia memoria del ordenador personal o de otros soportes informáticos, bien en una red de área local, o bien en otras redes informáticas de telecomunicaciones o análogas de carácter externo, sin perjuicio de lo dispuesto en la normativa sobre propiedad intelectual.
+No obstante, lo dispuesto en este apartado se entenderá sin perjuicio de la necesidad de cumplimiento por tales máquinas de la normativa vigente dirigida a la protección de menores que les sea de aplicación así como la que regule específicamente el contenido de los juegos o soportes a través de los cuales se practican.
+4. Las máquinas reguladas en la presente Ley no podrán situarse en terrazas y zonas que sean de ocupación de vías públicas. Tampoco podrían instalarse máquinas de tipo “B” en los bares de centros y áreas comerciales o estaciones de transporte público si el local no se encuentra aislado de la zona de paso, en los bares que sean dependencias complementarias de otros locales y establecimientos destinados a espectáculos públicos y otras actividades recreativas o deportivas.
+Se modifican el apartado 2.b) y d) por la disposición final 2.3 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica el apartado 2.b) por la disposición final 3.10 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se modifican los apartados 3 y 4 y se suprime el 2.a) por el art. 12.8 a 10 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251
+
+### Artículo 19
+
+Artículo 19. Rifas, tómbolas y combinaciones aleatorias.
+1. Podrá autorizarse la celebración de rifas, tómbolas y combinaciones aleatorias en las condiciones y requisitos que reglamentariamente se establezcan.
+Quedan exentas de autorización las rifas y tómbolas realizadas por entidades, asociaciones y organizaciones sin ánimo de lucro siempre que el importe del premio no exceda del límite que se determine reglamentariamente.
+2. Las combinaciones aleatorias, para ser consideradas como tales a los efectos de esta Ley, deberán tener una finalidad publicitaria.
+3. Los premios de las rifas y tómbolas tendrán que ser en especie y no canjeables por dinero.
+Se añade un párrafo segundo al apartado 1 por el art. único.12 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Artículo 20
+
+Artículo 20. Apuestas.
+Las apuestas debidamente autorizadas podrán ser practicadas en el interior de los establecimientos y recintos destinados a la celebración de determinadas actividades deportivas o de competición y en otros lugares y establecimientos que se determinarán reglamentariamente.
+Se modifica por la disposición final 3.11 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 21
+
+Artículo 21. Boletos.
+Podrá autorizarse la práctica del juego consistente en la adquisición, en establecimientos autorizados, de boletos que a cambio de un precio cierto permiten obtener, en su caso, un premio en metálico previamente determinado en el boleto, y cuyas características y modalidades se determinarán reglamentariamente.
+
+## TÍTULO III
+
+De las empresas titulares de autorización para la realización de juegos y apuestas, del personal empleado y de los jugadores
+Se modifica por el art. único.13 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Artículo 22
+
+Artículo 22. Empresas de juego.
+1. La realización de las actividades incluidas en el ámbito de esta Ley por cualquier persona física o jurídica requerirá la previa autorización e inscripción en el Registro.
+2. Las empresas de juego y apuestas deberán constituir a disposición de la Comunidad de Castilla y León fianzas, las cuales estarán afectas a las responsabilidades en que puedan incurrir como consecuencia del incumplimiento de las obligaciones previstas en esta Ley y sus normas de desarrollo.
+3. La Junta de Castilla y León, bien directamente, bien a través de empresas públicas o sociedades mixtas de capital público mayoritario, podrá asumir la realización de juegos y apuestas.
+4. Los empresarios de juego y apuestas están obligados a facilitar a la Administración Autonómica la información que ésta solicite, a fin de cumplir las funciones de control y a efectos estadísticos.
+5. La transmisión de acciones o participaciones de las entidades dedicadas a la organización y explotación de juegos y apuestas requerirá, en todo caso, comunicación previa a la Administración, quien comprobará la concurrencia de los requisitos del nuevo socio, en su caso.
+6. Reglamentariamente podrá limitarse la participación de personas físicas o jurídicas en diferentes empresas o entidades dedicadas a la explotación del juego y las apuestas.
+7. Lo dispuesto en este artículo será de aplicación a quienes esporádica o eventualmente sean autorizados para la organización y explotación de alguna modalidad de juego.
+8. Las empresas titulares de las autorizaciones de juego y apuestas no podrán conceder préstamos ni cualquier otra modalidad de crédito o financiación económica a los jugadores, ni conceder bonificaciones, partidas gratuitas o elementos canjeables por dinero.
+Se añade un apartado 8 por el art. único.14 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Artículo 22 bis
+
+Artículo 22 bis. Derechos y obligaciones de las empresas titulares de autorización para la realización de juegos y apuestas.
+1. Las empresas titulares de autorización para la realización de juegos y apuestas tienen derecho a:
+a) Determinar las condiciones de acceso a sus establecimientos sin que en ningún caso puedan suponer discriminación por razón de raza, identidad de género, orientación sexual, religión, opinión, discapacidad o cualquier otra condición o circunstancia personal o social.
+b) Adoptar las medidas que consideren pertinentes para garantizar el funcionamiento del establecimiento en condiciones de seguridad y calidad.
+2. Las empresas titulares de autorización para la realización de juegos y apuestas tienen obligación de:
+a) Cumplir los requisitos y condiciones previstos en la normativa sustantiva reguladora de los juegos y apuestas.
+b) Facilitar al órgano competente en materia de juego toda la información que éste solicite para el cumplimiento de sus funciones de control, coordinación y estadística.
+c) Realizar los controles de identificación en los términos recogidos en el artículo 7 de esta Ley.
+d) Tener en los establecimientos de juego y apuestas las hojas de reclamaciones, folletos informativos de prevención y de tratamiento de la ludopatía, folletos de la práctica del juego responsable y el modelo oficial de solicitud de inclusión en el citado Registro de Interdicciones de Acceso al Juego de la Comunidad de Castilla y León.
+e) Facilitar al personal de inspección y control del juego y de las apuestas la realización de las funciones de inspección y de control.
+f) Permitir a los jugadores finalizar el tiempo de uso de juego correspondiente al precio de la partida de que se trate.
+g) Mantener en adecuado funcionamiento las máquinas de juego durante el horario autorizado para el establecimiento en el que se encuentren instaladas.
+h) Pagar los premios y las apuestas correspondientes de conformidad con la normativa sustantiva reguladora de los distintos juegos y apuestas.
+i) Facilitar a los jugadores toda la información sobre el juego y las apuestas y sus normas y reglas.
+j) Facilitar la información que le sea solicitada sobre la práctica del juego responsable.
+k) Recibir y gestionar las quejas y reclamaciones que se presenten.
+l) Elaborar un plan de medidas a fin de mitigar los perjuicios que se puedan derivar de la práctica abusiva e irresponsable del juego y de las apuestas, tal y como viene previsto en el apartado 4 del artículo 43.
+m) Cualquier otra obligación establecida en esta Ley o que se determine reglamentariamente.
+Se añade por el art. único.15 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Artículo 23
+
+Artículo 23. Entidades titulares de casinos.
+Las empresas titulares de casinos deberán reunir los siguientes requisitos mínimos:
+a) Constituirse bajo la forma de sociedad anónima.
+b) Tener por objeto social exclusivo la explotación de casinos de juego y, eventualmente, el desarrollo de actividades complementarias a que se refiere el artículo 13.4 de esta Ley.
+c) Ostentar la nacionalidad de cualquier país miembro de la Unión Europea.
+d) El capital social, en cuantía no inferior a la fijada reglamentariamente, habrá de estar totalmente suscrito y desembolsado.
+e) Las acciones representativas del capital social deberán ser nominativas.
+f) La administración de la sociedad será colegiada.
+
+### Artículo 24
+
+Artículo 24. Entidades titulares de bingo.
+1. Podrán ser titulares de salas de bingo:
+a) Las entidades benéficas, deportivas, culturales y turísticas que tengan más de tres años de ininterrumpida existencia legal y funcionamiento.
+b) Aquellas entidades mercantiles que se constituyan al efecto bajo la forma de sociedades anónimas que tengan por objeto social exclusivo la explotación de bingos, y cuyo capital social esté totalmente suscrito y desembolsado, en la cuantía y forma que se fije reglamentariamente, y dividido en acciones nominativas.
+2. Las entidades mencionadas en el apartado 1. a) podrán realizar por sí mismas y bajo su exclusiva responsabilidad la gestión del juego del bingo, o contratarla con una empresa que reúna los requisitos establecidos en el apartado 1. b).
+
+### Artículo 25
+
+Artículo 25. Empresas operadoras de máquinas de juego.
+1. La explotación de máquinas de juego en establecimientos autorizados sólo podrá efectuarse por las empresas operadoras.
+2. Ostentarán tal consideración las personas físicas o jurídicas que sean autorizadas mediante su inscripción en el Registro.
+3. Los titulares de casinos y de salones de juego tendrán la consideración de empresas operadoras respecto de las máquinas que exploten en sus establecimientos.
+4. La autorización de explotación se concederá por un período de diez años y podrá ser renovada.
+
+### Artículo 26
+
+Artículo 26. Personal empleado.
+1. Las personas que presten servicios en empresas dedicadas a la gestión y explotación de juego y apuestas, deberán carecer de antecedentes penales, en los términos señalados en el artículo 4.7.a) de esta Ley. Asimismo, no podrán prestar servicios en empresas dedicadas a la gestión y explotación de juego y apuestas las personas que hayan sido sancionadas, en los últimos dos años, mediante resolución firme por la comisión de infracción administrativa muy grave o, en el último año, por la comisión de infracción administrativa grave, en esta materia.
+2. A los sujetos a que se refiere el apartado anterior, no se les permitirá la participación en juegos y apuestas en los establecimientos en los que trabajen como empleados.
+Se modifica por el art. 3.11 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+
+### Artículo 26 bis
+
+Artículo 26 bis. Derechos y obligaciones de los jugadores.
+1. Son jugadores las personas físicas que practiquen o participen, en calidad de usuarias, en las actividades de juego, incluyendo las apuestas.
+2. Los jugadores tienen, ante la empresa de juego y apuestas, el establecimiento y su personal, derecho a:
+a) Recibir un trato considerado y respetuoso.
+b) Tiempo de uso correspondiente al precio de la jugada o apuesta de que se trate.
+c) Conocer la identidad de la empresa organizadora, explotadora o comercializadora de los juegos y apuestas.
+d) Recibir información clara, veraz y suficiente sobre las reglas particulares que rigen los juegos y las apuestas, así como acerca de las medidas del juego responsable.
+e) Cobro del premio que le pudiera corresponder, según su reglamentación específica.
+f) Participar libremente en los juegos y apuestas, sin coacciones o amenazas provenientes de otros jugadores, del personal del establecimiento de juego o de cualquier otra tercera persona, así como el derecho a que el juego y las apuestas se desarrollen con sujeción a la normativa que los regule.
+g) Que su identificación se realice de manera segura, mediante la exhibición del documento nacional de identidad, número de identidad de extranjero, pasaporte o documento oficial de identificación personal con fotografía, con sujeción a las disposiciones relativas a la protección de datos de carácter personal.
+h) Tener a su disposición, de forma inmediata, las hojas de reclamaciones en modelo oficial aprobado por el órgano competente en materia de consumo y demás documentos exigidos en esta Ley y en sus normas de desarrollo.
+i) Recibir información en los establecimientos de juego sobre la práctica del juego responsable.
+3. Los jugadores tienen la obligación de:
+a) Observar y cumplir las normas y reglas de los juegos y apuestas en los que participen.
+b) Respetar el orden y no alterar el desarrollo de los juegos y apuestas.
+c) Aceptar los principios del juego con responsabilidad.
+d) Mantener una actitud respetuosa hacia el personal del establecimiento y otros jugadores.
+e) Utilizar de manera apropiada el material, máquinas y elementos de los juegos y apuestas.
+Se añade por el art. único.16 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+## TÍTULO IV
+
+De la Comisión del Juego y Apuestas de Castilla y León
+
+### Artículo 27
+
+Artículo 27. Creación.
+1. La Comisión del Juego y Apuestas de Castilla y León es el órgano de estudio, coordinación y asesoramiento sobre las actividades relacionadas con el juego y apuestas, y depende de la Consejería competente en la materia.
+2. Reglamentariamente se determinará su composición, organización y funcionamiento.
+
+### Artículo 28
+
+Artículo 28. Funciones.
+Son funciones de la Comisión del Juego y Apuestas las siguientes:
+a) Informar de las disposiciones de carácter general que se hayan de dictar en la materia, incluida la planificación.
+b) Emitir informes y dictámenes sobre las cuestiones que le sean planteadas por los distintos órganos de la Administración.
+c) Elevar a la Administración las propuestas que estime pertinentes.
+d) Aprobar la memoria anual.
+e) Cualquier otra función que se le atribuya reglamentariamente.
+
+## TÍTULO IV BIS
+
+TÍTULO IV bis
+De la Comisión Técnica de Coordinación del Juego Responsable
+Se añade por el art. único.17 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Artículo 28 bis
+
+Artículo 28 bis. Creación.
+Se crea una Comisión Técnica de Coordinación del Juego Responsable, como órgano colegiado encargado de coordinar la política de la Administración de la Comunidad de Castilla y León en materia del juego responsable.
+Será presidida por el titular del órgano directivo central competente en materia de juego y apuestas de la Administración de Castilla y León. Su composición, organización y funcionamiento se determinará reglamentariamente. No obstante, estarán representados los órganos directivos centrales con competencia en materia de salud pública, protección a los menores de edad, educación, juventud, y conductas adictivas, así como la Federación Regional de Municipios y Provincias y asociaciones del ámbito de la prevención del juego patológico.
+Se añade por el art. único.17 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Artículo 28 ter
+
+Artículo 28 ter. Funciones.
+Corresponde a la Comisión Técnica de Coordinación del Juego Responsable:
+a) Analizar la situación del sector del juego y de las apuestas y la incidencia de estas actividades en la sociedad castellano y leonesa.
+b) Coordinar las actuaciones relacionadas con la aplicación de esta Ley y las normas que las desarrollen, en particular por lo que respecta al fomento de las políticas de juego responsable y la prevención y lucha contra el juego patológico.
+c) Elaborar y realizar el seguimiento de la Estrategia de Prevención y Tratamiento del Juego Patológico prevista en el apartado 5 del artículo 43.
+Se añade por el art. único.17 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+## TÍTULO V
+
+De la inspección del juego y de las apuestas
+
+### Artículo 29
+
+Artículo 29. Inspección de juego.
+1. Las funciones de control e investigación de los aspectos técnicos y administrativos del juego y de las apuestas, de las empresas y establecimientos relacionados con esta actividad, y sin perjuicio de las competencias del Estado en materia de orden público y seguridad ciudadana, se realizarán por personal de la Administración de la Comunidad de Castilla y León debidamente acreditado, que tendrá la consideración de agente de la autoridad, gozando como tal de la protección que le dispense la legislación vigente.
+2. Este personal tendrá las funciones que reglamentariamente se le asignen y, principalmente, las siguientes:
+a) Vigilancia e inspección sobre el cumplimiento de la normativa.
+b) Descubrimiento y persecución del juego y las apuestas clandestinos.
+c) Levantar las pertinentes actas por infracciones administrativas.
+d) Proceder al precinto y comiso de los elementos o clausura de los establecimientos de juego y apuestas, de acuerdo con lo dispuesto en esta Ley.
+3. El personal de inspección y control del juego y apuestas está facultado para acceder y examinar los establecimientos, máquinas, documentos y todo lo que pueda servir de información para el mejor cumplimiento de sus funciones.
+Los titulares de autorizaciones o establecimientos, sus representantes legales o las personas que se encuentren al frente de las actividades en el momento de la inspección tendrán la obligación de facilitar a este personal el acceso a los establecimientos y a sus dependencias, así como el examen de los libros, documentos y registros que necesiten para realizar la inspección.
+
+## TÍTULO VI
+
+Régimen sancionador
+
+### Artículo 30
+
+Artículo 30. Infracciones administrativas.
+1. Son infracciones administrativas en materia de juego y apuestas las acciones u omisiones tipificadas en la presente Ley, sin perjuicio de que por vía reglamentaria puedan establecerse especificaciones al cuadro de infracciones legalmente establecidas, en orden a una más correcta identificación de las conductas.
+2. Las infracciones administrativas en materia de juego se clasifican en muy graves, graves y leves.
+
+### Artículo 31
+
+Artículo 31. Responsables de las infracciones.
+1. Son responsables de las infracciones las personas físicas o jurídicas que cometan las acciones u omisiones tipificadas como tales en esta Ley.
+Además, a los titulares de las autorizaciones administrativas y a los suscriptores de comunicaciones o declaraciones responsables se les imputarán las infracciones que les correspondan, si se trata de sujetos distintos.
+2. De las infracciones cometidas por los directivos, administradores o empleados en general son también directa y solidariamente responsables las personas físicas o jurídicas para quienes aquellos presten sus servicios.
+3. En el caso de incumplimiento de los requisitos establecidos para la transmisión o cesión de autorizaciones, la infracción será imputable tanto a la persona que transmite o cede como a la adquirente.
+Se modifica por el art. único.18 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+ Se modifica por el art. 3.12 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+
+### Artículo 32
+
+Artículo 32. Infracciones muy graves.
+1. Constituyen infracciones muy graves:
+a) La organización, instalación, gestión o explotación de juegos y apuestas, así como permitir estas actividades, sin haber obtenido la correspondiente autorización o inscripción, sin haber presentado las comunicaciones o declaraciones responsables, o los documentos exigidos en las normas, o con incumplimiento de los requisitos y condiciones establecidos en las mismas.
+b) La realización o consentimiento de las actividades mencionadas en el apartado anterior con elementos de juego o máquinas superiores en número al autorizado o previsto por las normas, así como su realización o consentimiento en establecimientos, recintos, lugares o por personas no autorizadas o habilitadas de acuerdo con esta Ley y las disposiciones que la desarrollen.
+c) La fabricación, importación, comercialización, distribución y explotación de máquinas o elementos de juego no homologados.
+d) La utilización de datos o aportación de documentos no conformes con la realidad para obtener los permisos, autorizaciones o inscripciones.
+e) La modificación unilateral de cualquiera de las condiciones esenciales en virtud de las cuales se concedieron las preceptivas autorizaciones o, en su caso, que alteren el contenido de la comunicación o declaración responsable.
+f) La cesión de las autorizaciones otorgadas, incumpliendo las condiciones o requisitos establecidos reglamentariamente.
+g) La manipulación de los juegos y apuestas o del material.
+h) La admisión de apuestas o la concesión de premios que excedan de los máximos previstos en cada actividad de juego.
+i) El impago total o parcial a los apostantes o jugadores de las cantidades ganadas.
+j) La concesión de préstamos, directamente o por medio de terceras personas, a los jugadores o apostantes, en los lugares donde se practique el juego, realizada por parte de los titulares o empleados de las empresas organizadoras, explotadoras o del establecimiento, así como sus cónyuges, ascendientes y descendientes en primer grado.
+k) La participación como jugadores de las personas señaladas en el apartado anterior, directamente o por medio de terceras personas, en los juegos o apuestas que gestionen o exploten dichas empresas o se desarrollen en sus establecimientos.
+l) La participación directa en el desarrollo de los juegos y apuestas de los propietarios, accionistas o partícipes de las empresas de juego, así como sus cónyuges, ascendientes y descendientes hasta el primer grado.
+ll) La obstaculización e impedimento de las funciones de control y vigilancia en el ámbito de la inspección.
+m) La venta de cartones de juego de bingo, boletos o billetes de juego, apuestas, rifas, tómbolas, a precio diferente del autorizado.
+n) La contratación de personal que se encuentre incurso en la circunstancia prevista en el artículo 26.1 de esta Ley.
+ñ) Permitir la práctica de juego o el acceso a los establecimientos de juego y apuestas a las personas que lo tengan prohibido en virtud de esta Ley.
+o) Efectuar publicidad de los juegos y apuestas, o de los establecimientos en que se practiquen, sin la debida autorización o al margen de los límites fijados en la misma.
+p) Ejercer coacción o intimidación sobre los jugadores en caso de protesta o reclamación.
+q) La reincidencia por la comisión de una segunda infracción grave en el plazo de un año.
+2. También constituyen infracciones muy graves las conductas descritas en el apartado anterior, entendiendo incluidas las especificaciones que resulten necesarias para la determinación de las conductas que pudieran corresponder a la explotación y comercialización de los juegos desarrollados de forma remota, a través de medios telemáticos, interactivos o de comunicación a distancia.
+Se modifican las letras a), b), e) y n) por el art. 3.13 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+ Se añade el apartado 2 y se numera el anterior por la disposición final 1.2 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+
+### Artículo 33
+
+Artículo 33. Infracciones graves.
+1. Constituyen infracciones graves:
+a) La práctica de juegos y apuestas en establecimientos públicos, círculos tradicionales, clubes privados o públicos que no tengan tales actividades en sus previsiones estatutarias, siempre que cada jugada o apuesta supere la cuarta parte del salario mínimo interprofesional mensual, o cuando el total de las jugadas o apuestas de cada participante alcance o supere, en un período de veinticuatro horas, el salario mínimo interprofesional mensual.
+b) No tener o llevar incorrectamente los libros, hojas de reclamaciones o registros exigidos en la presente Ley o en la correspondiente reglamentación de juego, negarse a ponerlos a disposición de quien los reclame, así como no dar curso a las reclamaciones formuladas.
+c) No remitir en plazo a los órganos competentes la información y datos que la normativa exija.
+d) No exhibir en las máquinas de juego o, en su caso, no disponer en el establecimiento del documento acreditativo de la autorización correspondiente, así como aquellos otros documentos que en desarrollo de esta Ley se exijan.
+e) La conducta desconsiderada hacia los jugadores o los apostantes, tanto durante el desarrollo del juego o de la apuesta, como en el caso de protestas o reclamaciones de éstos.
+f) La transferencia de acciones o participaciones sociales sin notificarlo previamente.
+g) El incumplimiento de las normas técnicas previstas en el reglamento de cada juego o apuesta.
+h) La reincidencia, por la comisión de una tercera infracción leve en el plazo de un año.
+i) La conducta de los jugadores y visitantes que consista en la participación en juegos y apuestas clandestinos o ilegales, la manipulación de máquinas o elementos de juego, la perturbación del orden en las salas dedicadas a juego y apuestas, la omisión de la colaboración debida a los agentes de la autoridad y, en general, cualquier comportamiento que suponga incumplimiento de los requisitos o prohibiciones establecidos en la normativa vigente.
+j) La inexactitud, falsedad u omisión de carácter esencial, de cualquier dato o información que figure en una declaración responsable o comunicación, o en los documentos que las acompañen o se incorporen a éstas.
+k) Mantener las puertas abiertas de los establecimientos específicos de juego y apuestas o permitir que los elementos de juego sean visibles desde el exterior.
+l) El incumplimiento de las obligaciones de información previstas en los apartados 4 y 5 del artículo 6 de la presente Ley y disposiciones de desarrollo.
+m) La carencia, o el no funcionamiento o el funcionamiento deficiente, del Registro de visitantes y/o del Servicio de control de acceso, así como la ausencia del empleado que desarrolle estas funciones en el establecimiento.
+n) El incumplimiento de la obligación establecida de elaborar un plan de medidas en relación con la mitigación de los posibles perjuicios que puedan derivarse de una práctica abusiva e irresponsable del juego y de las apuestas.
+2. También constituyen infracciones graves las conductas descritas en el apartado anterior, entendiendo incluidas las especificaciones que resulten necesarias para la determinación de las conductas que pudieran corresponder a la explotación y comercialización de los juegos desarrollados de forma remota, a través de medios telemáticos, interactivos o de comunicación a distancia.
+Se modifica la letra d) y se añaden las letras k), l), m) y n) al apartado 1 por el art. único.19 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+ Se añade la letra j) por el art. 3.14 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+ Se añade el apartado 2 y se numera el anterior por la disposición final 1.3 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+
+### Artículo 34
+
+Artículo 34. Infracciones leves.
+1. Constituyen infracciones leves:
+a) No disponer de fichero de visitantes en los establecimientos autorizados para el juego, tenerlos incompletos o inexactos, de acuerdo con lo que se determine reglamentariamente.
+b) La exhibición de la documentación preceptiva de manera que dificulte su visibilidad, o la no adopción de las medidas necesarias para impedir su deterioro o manipulación.
+c) Cualquier acción u omisión que suponga el incumplimiento de los requisitos o prohibiciones establecidos en esta Ley, Reglamentos y demás disposiciones complementarias, no señaladas como faltas graves o muy graves.
+2. También constituyen infracciones leves las conductas descritas en el apartado anterior, entendiendo incluidas las especificaciones que resulten necesarias para la determinación de las conductas que pudieran corresponder a la explotación y comercialización de los juegos desarrollados de forma remota, a través de medios telemáticos, interactivos o de comunicación a distancia.
+Se añade el apartado 2 y se numera el anterior por la disposición final 1.4 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+
+### Artículo 35
+
+Artículo 35. Sanciones.
+1. Las infracciones calificadas como muy graves se sancionarán con multa de hasta 600.000 euros.
+En atención a las circunstancias que concurran y transcendencia de la infracción, podrán imponerse, accesoriamente, las siguientes sanciones:
+a) Inhabilitación de la persona sancionada por un período de dos a quince años para actividades de juego y apuestas, y consiguiente revocación de las autorizaciones de las que sea titular o, en su caso, pérdida de la eficacia para el ejercicio de la actividad de la comunicación o declaración responsable.
+b) Revocación de las autorizaciones para actividades de juego y apuestas sin que puedan volver a obtenerse por el mismo titular, o su prohibición sin que pueda volver a presentarse comunicación o declaración responsable por el mismo suscriptor, durante un período de dos a quince años, o clausura del establecimiento.
+c) Suspensión de las autorizaciones o de las actividades comunicadas o declaradas, o cierre del establecimiento para actividades de juego y apuestas, por un período máximo de dos años.
+d) El comiso de las máquinas o elementos de juego o apuestas.
+No podrán obtenerse por terceros nuevas autorizaciones durante el período de dos años cuando se impongan las sanciones accesorias de inhabilitación de la persona sancionada, revocación de las autorizaciones o clausura del establecimiento, ni durante el plazo de un año cuando se hubiera impuesto la de suspensión o cierre.
+2. Las infracciones calificadas como graves se sancionarán con multa de hasta 60.000 euros.
+En atención a las circunstancias que concurran y transcendencia de la infracción, podrán imponerse, accesoriamente las siguientes sanciones:
+a) La suspensión de las autorizaciones o cierre del establecimiento para actividades de juego o apuestas por un período máximo de un año.
+b) El comiso de las máquinas o elementos de juego y apuestas.
+Cuando se impongan las sanciones accesorias de suspensión o cierre, no podrán obtenerse por terceros nuevas autorizaciones durante el período de seis meses.
+3. Las infracciones calificadas como leves se sancionarán con una multa de hasta 6.000 euros.
+4. Las sanciones previstas en los apartados anteriores también se aplicarán, según su graduación, a las infracciones tipificadas sobre explotación y comercialización de los juegos desarrollados de forma remota, a través de medios telemáticos, interactivos o de comunicación a distancia, entendiendo incluidas en éstas sanciones las vinculadas a dicha explotación y comercialización.
+5. En los establecimientos cuya actividad principal no sea el juego o las apuestas, no podrán imponerse la clausura o cierre, pero sí la prohibición de instalar y practicar las referidas actividades.
+Se modifican los apartados 1, 2 y 3 por el art. único.20 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+ Se modifican las letras a), b) y c) del apartado 1 por el art. 3.15 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+ Se modifica el apartado 4 y se añade el 5 por la disposición final 1.5 y 6 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+
+### Artículo 36
+
+Artículo 36. Graduación de las sanciones.
+1. Las sanciones establecidas en la presente Ley podrán ser objeto por vía reglamentaria de especificaciones o graduaciones que contribuyan a la más precisa determinación de las mismas.
+2. Para la graduación de la sanción se tendrán en cuenta las circunstancias personales y materiales que concurran en cada caso, y especialmente:
+a) El grado de culpabilidad o la existencia de intencionalidad.
+b) La continuidad o persistencia en la conducta infractora.
+c) La reincidencia por la comisión, en el término de un año, de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme en vía administrativa.
+d) Los perjuicios ocasionados a la Administración y a terceros.
+Además de las circunstancias personales y materiales, para la graduación de la sanción podrá tenerse en cuenta:
+a) La trascendencia económica y social de la infracción.
+b) El cumplimiento espontáneo de las obligaciones o deberes formales del presunto infractor por iniciativa propia, en cualquier momento del procedimiento administrativo sancionador, antes de dictarse resolución.
+3. En todo caso, la sanción a imponer será proporcional a la gravedad del hecho constitutivo de la infracción y llevará implícita la devolución de los beneficios ilícitamente obtenidos a la Administración o a los perjudicados que estén identificados.
+Se modifica el apartado 2 por el art. único.21 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Artículo 36 bis
+
+Artículo 36 bis. Destino de las sanciones.
+La recaudación obtenida por los ingresos provenientes de las multas y sanciones previstas en la presente ley se destinará, preferentemente, a:
+a) La financiación de los programas de prevención y de rehabilitación de personas con problemas de adicción al juego.
+b) Campañas y acciones formativas de prevención, dirigidas a la sensibilización y difusión de las buenas prácticas del juego, así como de los posibles efectos que se puedan derivar de una práctica no adecuada.
+c) Programas sociales, educativos y de salud pública de carácter general.
+Se añade por el art. único.22 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Artículo 37
+
+Artículo 37. Competencia sancionadora.
+1. Corresponderá a la Junta de Castilla y León la imposición de sanciones por infracciones muy graves siempre que la multa supere la cantidad de 180.000 euros o comporte la revocación de la autorización sin posibilidad de volver a obtenerla en un plazo mínimo de cinco años, la clausura del establecimiento o la inhabilitación del titular de la autorización por el mismo plazo.
+2. Corresponderá al Consejero de Presidencia y Administración Territorial la imposición del resto de sanciones previstas.
+Esta competencia podrá ser desconcentrada en otros órganos administrativos.
+Se modifica el apartado 1 por el art. único.23 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Artículo 38
+
+Artículo 38. Prescripción.
+1. Las infracciones leves prescribirán a los seis meses, las graves al año y las muy graves a los dos años, contados desde el día en que se hubiera cometido la infracción.
+2. Las sanciones impuestas por infracciones leves prescribirán al año, las impuestas por infracciones graves a los dos años y las impuestas por infracciones muy graves a los tres años, contados desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+
+### Artículo 39
+
+Artículo 39. Medidas cautelares.
+1. Cuando existan indicios de infracción grave o muy grave se podrá acordar, previa audiencia del interesado, las medidas provisionales recogidas en la norma estatal que regula el procedimiento administrativo común.
+2. Los agentes de la autoridad, en el momento de levantar acta por presuntas infracciones muy graves, podrán acordar como medidas cautelares el precinto y depósito de las máquinas de juego y de otros materiales utilizados para la práctica del juego y apuestas, así como del dinero obtenido. En este caso, el órgano competente para iniciar el expediente deberá confirmar o levantar la medida cautelar adoptada en el plazo máximo de veinte días, previa audiencia al interesado, vencido el cual, si no ha sido ratificada, quedará sin efecto.
+Se modifica el apartado 1 por el art. 3.16 de la Ley 6/2017, de 20 de octubre. Ref. BOE-A-2017-12951
+ Se modifica el apartado 2 por el art. 22 de la Ley 13/1998 de 23 de diciembre . Ref. BOE-A-1999-2948
+
+### Artículo 40
+
+Artículo 40. Comiso del material de juego y apuestas.
+El material de juego y apuestas que sea decomisado será vendido, si es de lícito comercio, y, si no lo fuere, se le dará el destino que dispongan los Reglamentos o, en su defecto, se inutilizará o destruirá.
+
+### Artículo 41
+
+Artículo 41. Procedimiento sancionador.
+El procedimiento sancionador aplicable será el establecido con carácter general por la Administración de la Comunidad de Castilla y León, sin perjuicio de que se puedan establecer ciertas especialidades en los Reglamentos que se dicten en desarrollo de la presente Ley.
+
+## TITULO VII
+
+TÍTULO VII
+De las políticas del juego responsable
+Se añade por el art. único.24 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Artículo 42
+
+Artículo 42. Principios rectores de la actividad de los juegos y de las apuestas.
+1. Los principios rectores que orientan la actuación en materia de juegos y apuestas son:
+a) La protección de los menores de edad y de las personas que tengan reducidas sus capacidades intelectuales o volitivas o presenten discapacidad de acuerdo con las medidas de apoyo que se hayan adoptado de conformidad con la normativa en la materia, con el objetivo de impedir su acceso a los establecimientos de juego y su participación en juegos y apuestas.
+b) La prevención de las posibles repercusiones que se pueden derivar del uso abusivo del juego y de las apuestas al participante y, en particular, a sus familias y a la sociedad.
+c) El respeto a las reglas básicas de una política del juego responsable.
+d) La transparencia en el desarrollo de los juegos y apuestas.
+e) La garantía de que no se produzcan fraudes en su desarrollo, así como al cobro de los premios.
+f) La intervención, vigilancia y control por parte de la Administración, en aras de la protección de los menores de edad y otras personas que lo necesiten por motivos de salud.
+g) La seguridad jurídica de las empresas de juego y apuestas y de los jugadores.
+h) La colaboración en el cumplimiento de la legislación de prevención de blanqueo de capitales y de la financiación del terrorismo.
+2. En todo caso, en la ordenación del juego se tendrá en cuenta la realidad y la incidencia social de la actividad de juego, las repercusiones económicas y la diversificación empresarial del juego, en las distintas modalidades.
+Se deberá favorecer la concurrencia en condiciones de igualdad, no se deberá fomentar el hábito del juego y se deberán evitar sus efectos negativos.
+Para ello la Administración deberá velar por la aplicación de los principios rectores que orientan la actuación en materia de juegos y apuestas y las empresas deberán colaborar en este objetivo.
+3. Las actividades de juego y apuestas deben desarrollarse con sentido de la responsabilidad social corporativa por las empresas de juego y apuestas, mediante prácticas empresariales abiertas y transparentes basadas en valores éticos y en el respeto hacia los jugadores, las personas empleadas, la sociedad en general y el medio ambiente.
+Se añade por el art. único.24 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Artículo 43
+
+Artículo 43. Juego responsable.
+1. El juego responsable se fundamenta, entre otros, en los siguientes principios:
+a) El juego es una forma de ocio.
+b) El juego es una actividad social.
+c) El juego puede provocar adicción.
+d) Jugar no es un medio de vida.
+e) Responsabilidad social corporativa.
+2. La Administración de la Comunidad Autónoma de Castilla y León y las empresas titulares de autorizaciones de juego y apuestas deben promover políticas del juego responsable, entendidas como aquellas en las que el juego, desde una perspectiva integral de responsabilidad social, se contemple como un fenómeno complejo donde deben combinarse acciones preventivas, de sensibilización, de información, de intervención y control, así como de reparación de los efectos negativos que se pudieran derivar del mismo.
+3. Las acciones preventivas se orientarán a la sensibilización, la educación, la información, la difusión de las buenas prácticas del juego y a garantizar que la persona jugadora realice la actividad de forma responsable.
+4. Las empresas titulares de autorizaciones para organizar y explotar juego y apuestas en Castilla y León deberán elaborar un plan de medidas en relación con la mitigación de los posibles perjuicios que puedan derivarse de una práctica abusiva e irresponsable del juego y de las apuestas e incorporarán los principios del juego responsable.
+En todo caso, deben incluir las siguientes acciones:
+a) Prestar la debida atención a los grupos y colectivos de riesgo.
+b) Proporcionar la información necesaria para que los jugadores puedan hacer una selección consciente, promoviendo que las actividades de juego y apuestas y la actitud ante ellos sea moderada, responsable y no compulsiva.
+c) Informar de las prohibiciones de participación y acceso de los menores de edad y de las personas que lo tienen prohibido, así como establecer los mecanismos de control necesarios para garantizarlos.
+d) Impartir a sus empleados cursos de formación relacionados con las prácticas del juego responsable y la prevención del juego problemático y patológico.
+5. La Comunidad de Castilla y León deberá contar con una Estrategia de Prevención y Tratamiento del Juego Patológico de carácter plurianual en la que se aborden las medidas coordinadas de prevención del juego problemático o patológico.
+La elaboración y el seguimiento de la Estrategia corresponde a la Comisión Técnica de Coordinación del Juego Responsable prevista en el artículo 28 bis.
+Se añade por el art. único.24 de la Ley 2/2024, de 15 de marzo. Ref. BOE-A-2024-6864
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Catálogo de Juegos y Apuestas deberá elaborarse en el plazo de un año desde la entrada en vigor de la presente Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Las autorizaciones que no tuvieran señalado plazo de vigencia deberán renovarse en el plazo de cinco años a partir de la entrada en vigor de esta Ley.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+La constitución de la Comisión del Juego y Apuestas de Castilla y León se llevará a cabo en el plazo de seis meses a partir de la entrada en vigor de esta Ley.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Las funciones de inspección y control, hasta que se dé cumplimiento a lo previsto en el título V, se ejercerán por las Fuerzas y Cuerpos de Seguridad del Estado, en virtud de los correspondientes Convenios y Acuerdos entre la Administración de la Comunidad Autónoma y la Administración del Estado.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Se autoriza a la consejería competente en materia de juego para dar publicidad, mediante Orden que será publicada en el Boletín Oficial de Castilla y León, a la forma de hacer eficaces en la Comunidad de Castilla y León las diversas autorizaciones, licencias, permisos, habilitaciones y cualificaciones profesionales, homologaciones, inscripciones y demás resoluciones administrativas que, estando reguladas en esta ley, puedan ser o hayan sido otorgadas por una autoridad competente u organismo dependiente, reconocido o habilitado por ella de fuera de la Comunidad de Castilla y León, a personas o empresas que sean y tengan la condición de interesadas en la materia de los juegos y apuestas dentro del territorio del Estado Español, y que en aplicación de la Ley 20/2013, de 9 de diciembre, de garantía de unidad de mercado, quieran hacer valer cualesquiera de estos títulos en el territorio de Castilla y León.
+Se añade por el art. 8 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Liberalización del mercado de máquinas de juego de tipo “B”.
+1. Se liberaliza el mercado de máquinas de juego de tipo “B”. Las empresas operadoras podrán solicitar la concesión de nuevas autorizaciones de explotación de máquinas de tipo «B» en cualquier momento, sin necesidad de concurso público.
+2. Asimismo, las empresas operadoras podrán dar de baja temporal, por un período máximo de 12 meses, las autorizaciones de explotación de las máquinas de juego de tipo “B” de su titularidad, plazo durante el cual cesará la explotación de la máquina, pudiendo recuperar de nuevo su explotación dando de alta la autorización de explotación en cualquier momento. Transcurrido el plazo de baja temporal la autorización de explotación se extinguirá causando baja permanente.
+3. Los trámites indicados en los apartados anteriores se realizarán, en todo caso, de forma telemática por las empresas operadoras.
+Se añade por el art. 13 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Hasta que se produzca el desarrollo reglamentario de la presente Ley, serán de aplicación las disposiciones generales de la Administración del Estado en todo aquello que no se oponga a lo dispuesto en esta Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+A efectos fiscales, continuará siendo de aplicación la clasificación de máquinas recreativas y de azar prevista en la normativa del Estado hasta que por la Comunidad Autónoma se establezcan las correspondientes normas.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Las autorizaciones de carácter temporal concedidas con anterioridad a la entrada en vigor de esta Ley se considerarán válidas y en vigor hasta la conclusión del plazo indicado en las mismas.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+El régimen de infracciones y sanciones regulado en esta Ley se aplicará únicamente a los hechos cometidos a partir de la entrada en vigor de la misma.
+Los procedimientos sancionadores ya iniciados se regirán por la normativa anterior.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza a la Junta de Castilla y León a dictar las disposiciones para el desarrollo de esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de Castilla y León».
+
+### [firma]
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y autoridades que corresponda que la hagan cumplir.
+Valladolid, 24 de junio de 1998.
+JUAN JOSÉ LUCAS JIMÉNEZ,
+Presidente

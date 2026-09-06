@@ -1,0 +1,287 @@
+# Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual.
+
+- Identificador BOE: `BOE-A-1995-26714`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-26714
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+EXPOSICION DE MOTIVOS
+I
+La víctima del delito ha padecido un cierto abandono desde que el sistema penal sustituyó la venganza privada por una intervención pública e institucional, ecuánime y desapasionada, para resolver los conflictos generados por la infracción de la ley penal. Pero, desde una perspectiva más global, la pretensión punitiva del Estado debe acercarse al problema social y comunitario en que el delito consiste para prevenirlo y recuperar al infractor, desde luego, pero además, para reparar en lo posible el daño padecido por la víctima. En muchas ocasiones, el abandono social de la víctima a su suerte tras el delito, su etiquetamiento, la falta de apoyo psicológico, la misma intervención en el proceso, las presiones a que se ve sometida, la necesidad de revivir el delito a través del juicio oral, los riesgos que genera su participación en el mismo, etc., producen efectos tan dolorosos para la víctima como los que directamente se derivan del delito.
+En esta línea, desde hace ya bastantes años la ciencia penal pone su atención en la persona de la víctima, reclamando una intervención positiva del Estado dirigida a restaurar la situación en que se encontraba antes de padecer el delito o al menos a paliar los efectos que el delito ha producido sobre ella.
+En el caso de los delitos violentos, las víctimas sufren, además, las consecuencias de una alteración grave e imprevista de su vida habitual, evaluable en términos económicos. En el supuesto de que la víctima haya sufrido lesiones corporales graves, la pérdida de ingresos y la necesidad de afrontar gastos extraordinarios acentúan los perjuicios del propio hecho delictivo. Si se ha producido la muerte, las personas dependientes del fallecido se ven abocadas a situaciones de dificultad económica, a menudo severa. Estas consecuencias económicas del delito golpean con especial dureza a las capas sociales más desfavorecidas y a las personas con mayores dificultades para insertarse plenamente en el tejido laboral y social.
+II
+La preocupación por la situación de las víctimas de los delitos registra ya importantes manifestaciones normativas tanto en Convenios y Recomendaciones de organismos internacionales como en la legislación comparada.
+Debe destacarse el Convenio número 116, del Consejo de Europa, de 24 de noviembre de 1983, sobre la indemnización a las víctimas de delitos violentos. Su entrada en vigor se produjo en 1988 y aunque no firmado aún por España, constituye un referente jurídico de primer orden en el tratamiento de esta materia, al lado de la Recomendación del Comité de Ministros del Consejo de Europa a los Estados miembros, de 28 de junio de 1985, sobre la posición de la víctima en el marco del derecho penal y del proceso penal.
+En el ámbito de la legislación comparada, aunque iniciándose en primer lugar en el área anglosajona, se ha ido extendiendo la protección a las víctimas por los países de nuestro entorno geográfico, a raíz de la aprobación del citado Convenio del Consejo de Europa.
+Por otra parte, en el ámbito interno, el fenómeno de la victimización ha encontrado eco en los programas de partidos políticos y en iniciativas parlamentarias desde hace una década.
+III
+La Ley regula, por una parte, las ayudas de contenido económico a las víctimas de delitos violentos y, por otra parte, la asistencia a las víctimas de todo tipo de delitos.
+El concepto legal de ayudas públicas contemplado en esta Ley debe distinguirse de figuras afines y, señaladamente, de la indemnización. No cabe admitir que la prestación económica que el Estado asume sea una indemnización ya que éste no puede asumir sustitutoriamente las indemnizaciones debidas por el culpable del delito ni, desde otra perspectiva, es razonable incluir el daño moral provocado por el delito. La Ley, por el contrario, se construye sobre el concepto de ayudas públicas -plenamente recogido en nuestro Ordenamiento- referido directamente al principio de solidaridad en que se inspira.
+La presente Ley contempla los delitos violentos y dolosos cometidos en España. El concepto de dolo excluye de entrada los delitos de imprudencia cuya admisión haría inviable económicamente esta iniciativa legislativa. Por otra parte, tanto el Convenio del Consejo de Europa como el grueso de la legislación comparada aluden únicamente a los delitos intencionales, es decir, dolosos.
+Los delitos susceptibles de generar ayudas públicas serán aquellos cuyo resultado sea la muerte, lesiones corporales graves o daños graves en la salud física o mental. Por lo que respecta a la gravedad de las lesiones o los daños en la salud, la Ley se remite a efectos de su valoración a la legislación de la Seguridad Social.
+De esta forma se opta por acotar aquellos delitos violentos con resultado de máxima gravedad con el propósito de avanzar de forma rigurosa aunque selectiva, cubriendo inicialmente los daños de carácter más grave pero afianzando la convicción social de que esta función debe ser paulatinamente ejercida por el Estado.
+El concepto de beneficiario se ha construido atendiendo a considerar como víctimas tanto a quien sufre directamente las lesiones corporales o daños en su salud como a las personas que dependieran del fallecido en los supuestos con resultado de muerte.
+La cuantificación de las ayudas es un aspecto central del sistema. Se parte de la fijación de cuantías máximas correspondientes a cada una de las clases de incapacidad contempladas por la legislación de la Seguridad Social. Sobre estos importes máximos la ayuda a percibir se establecerá aplicando coeficientes correctores en atención a la situación económica de la víctima, al número de personas que dependieran económicamente de ella y al grado de afectación o menoscabo sufrido. Igual criterio se sigue en el supuesto de muerte: fijación de una cuantía máxima de ayuda y aplicación sobre ella de coeficientes correctores.
+La ayuda económica se declara incompatible con la percepción de las indemizaciones de los perjuicios y daños causados por el delito que se establezcan mediante sentencia judicial. El círculo se cierra declarando la subrogación del Estado en los derechos que asistan a la víctima contra el autor del delito y hasta el total importe de la ayuda concedida.
+La gestión de este sistema de ayudas se confía al Ministerio de Economía y Hacienda, con objeto de no crear una nueva estructura administrativa.
+La revisión en vía administrativa de las resoluciones de dicho Departamento se encomienda a una Comisión Nacional de Ayuda y Asistencia a las Víctimas de Delitos Violentos y contra la Libertad Sexual, creada al amparo de las previsiones del artículo 107.2 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Se considera que un procedimiento de impugnación ante una Comisión integrada por representantes de distintos Departamentos y, eventualmente, por representantes de organizaciones o sectores sociales especialmente vinculados a este tema permitirá una actuación más ajustada que la vía clásica del recurso administrativo ante el órgano superior jerárquico.
+La concesión de la ayuda se condiciona, como regla general, a que se haya producido la resolución judicial firme que ponga fin al proceso penal. Los plazos con los que trabaja la Justicia penal hacen que esta solución sea insatisfactoria en aquellos casos en los que la precaria situación de la víctima reclame una ayuda económica desde el momento en que se ha cometido el delito. La Ley contempla la concesión de ayudas provisionales, atendiendo a la precaria situación de la víctima del delito.
+Un punto particularmente sensible es el de la confluencia de este nuevo sistema de ayudas con el régimen de resarcimientos vigente para las víctimas de bandas armadas y elementos terroristas.
+Elementales razones de prudencia financiera impiden en estos momentos establecer un sistema de ayudas a las víctimas de los delitos violentos equiparable al de las víctimas de bandas armadas y elementos terroristas, tanto en la cuantía de las ayudas como en la cobertura de los daños materiales. Por otra parte, una confluencia de regímenes que supusiera minorar las cuantías percibidas por las víctimas de delitos terroristas sería sin duda inaceptable para la actual sensibilidad política y social.
+Se ha optado por una solución intermedia basada en dos elementos. Por una parte, se deslegaliza por completo el régimen de resarcimientos por daños a las víctimas de bandas armadas y elementos terroristas. Por otra parte, se prevé la confluencia de ambos regímenes en sus aspectos procedimentales en el momento en que se apruebe el Reglamento de desarrollo de la presente Ley.
+En cuanto a la asistencia a las víctimas, se contempla en la Ley como concepto diferenciado de las estrictas ayudas económicas a las víctimas de delitos violentos.
+Con ello pretende generalizar la atención psicológica y social a las víctimas de delitos de todo tipo, a través de la red de Oficinas de asistencia a las víctimas, que canalizarán sus primeras necesidades atendiendo a las más perentorias que se produzcan como consecuencia del delito, generalizando las experiencias surgidas ya en varios puntos de la geografía española con resultado muy positivo.
+
+## CAPITULO I
+
+Ayudas públicas
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. Se establece un sistema de ayudas públicas en beneficio de las víctimas directas e indirectas de los delitos dolosos y violentos, cometidos en España, con el resultado de muerte, o de lesiones corporales graves, o de daños graves en la salud física o mental.
+2. Se beneficiarán asimismo de las ayudas contempladas por esta ley las víctimas de violencia sexual en el sentido del artículo 3.1 de la Ley Orgánica de garantía integral de la libertad sexual, incluidas las víctimas de homicidio subsiguiente a un delito contra la libertad sexual.
+Se modifica el apartado 2 por la disposición final 7.1 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#df-7
+ Se modifica el apartado 2, con efectos desde el 7 de octubre de 2022, por la disposición final 5.1 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-5
+
+### Artículo 2
+
+Artículo 2. Beneficiarios.
+1. Podrán acceder a estas ayudas quienes, en el momento de perpetrarse el delito, sean españoles o nacionales de algún otro Estado miembro de la Unión Europea o quienes, no siéndolo, residan habitualmente en España, sean nacionales de otro Estado que reconozca ayudas análogas a los españoles en su territorio.
+Asimismo, podrán acceder a las ayudas las mujeres nacionales de cualquier otro Estado que se hallen en España, cualquiera que sea su situación administrativa, cuando la afectada sea víctima de violencias sexuales en el sentido de la Ley Orgánica de garantía integral de la libertad sexual, incluidas las víctimas de homicidio subsiguiente a un delito contra la libertad sexual, o víctima de violencia de género en los términos previstos en la Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la Violencia de Género.
+La condición de víctima de violencia de género o violencia sexual deberá acreditarse por cualquiera de los siguientes medios de prueba:
+a) A través de la sentencia condenatoria.
+b) A través de la resolución judicial que hubiere acordado como medida cautelar de protección de la víctima la prohibición de aproximación o la prisión provisional del inculpado.
+c) De la forma establecida en el artículo 23 de la Ley Orgánica 1/2004, de 28 de diciembre, o en el artículo 37 de la Ley Orgánica de garantía integral de la libertad sexual.
+En el caso de fallecimiento consecuencia de la violencia sufrida, lo previsto en los párrafos anteriores será exigible respecto de las personas beneficiarias a título de víctimas indirectas, con independencia de la nacionalidad o residencia habitual de la víctima fallecida.
+2. Podrán acceder a estas ayudas, a título de víctimas directas, las personas que sufran lesiones corporales graves o daños graves en su salud física o mental como consecuencia directa del delito, incluidas las víctimas de la violencia vicaria, prevista en el artículo 1.4. de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, cuando su familiar o allegado menor de edad fallezca como consecuencia del delito.
+3. Son beneficiarios a título de víctimas indirectas, en el caso de muerte, y con referencia siempre a la fecha de ésta, las personas que reúnan las condiciones que se indican a continuación:
+a) El cónyuge del fallecido, si no estuviera separado legalmente, o la persona que hubiera venido conviviendo con el fallecido de forma permanente con análoga relación de afectividad a la de cónyuge, con independencia de su orientación sexual, durante, al menos, los dos años anteriores al momento del fallecimiento, salvo que hubieran tenido descendencia en común, en cuyo caso bastará la mera convivencia.
+b) Los hijos del fallecido, que dependieran económicamente de él, con independencia de su filiación o de su condición de póstumos. Se presumirá económicamente dependientes del fallecido a los hijos menores de edad y mayores incapacitados.
+c) Los hijos que, no siéndolo del fallecido, lo fueran de las personas contempladas en el párrafo a) anterior, siempre que dependieran económicamente de aquél.
+d) En defecto de las personas contempladas por los párrafos a), b) y c) anteriores, serán beneficiarios los padres de la persona fallecida si dependieran económicamente de ella.
+4. De concurrir varios beneficiarios a título de víctimas indirectas, la distribución de la cantidad a que ascienda la ayuda se efectuará de la siguiente forma:
+a) La cantidad se dividirá en dos mitades. Corresponderá una al cónyuge o a la persona que hubiera venido conviviendo con el fallecido en los términos del párrafo a) del apartado anterior. Corresponderá la otra mitad a los hijos contemplados por los párrafos b) y c) del apartado anterior, y se distribuirá entre todos ellos por partes iguales.
+b) De resultar beneficiarios los padres del fallecido, la cantidad a que ascienda la ayuda se repartirá entre ellos por partes iguales.
+5. Serán también beneficiarios a título de víctimas indirectas los padres del menor que fallezca a consecuencia directa del delito.
+Se modifica el apartado 1.c) por la disposición final 7.2 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#df-7
+ Se modifican los apartados 1 y 2, con efectos desde el 7 de octubre de 2022, por la disposición final 5.2 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-5
+ Se modifica el apartado 1 por la disposición final 5.1 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-6
+ Se modifica el apartado 3.b), con efectos de 1 de enero de 2011, por la disposición final 5 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+
+### Artículo 3
+
+Artículo 3. Supuestos especiales de denegación o limitación.
+1. Se podrá denegar la ayuda pública o reducir su importe cuando su concesión total o parcial fuera contraria a la equidad o al orden público atendidas las siguientes circunstancias declaradas por sentencia:
+a) El comportamiento del beneficiario si hubiera contribuido, directa o indirectamente, a la comisión del delito, o al agravamiento de sus perjuicios.
+b) Las relaciones del beneficiario con el autor del delito, o su pertenencia a una organización dedicada a las acciones delictivas violentas.
+2. Si el fallecido a consecuencia del delito estuviera incurso en alguna de las causas de denegación o limitación de las ayudas contempladas en el apartado anterior, podrán acceder a las mismas los beneficiarios a título de víctimas indirectas, si quedaran en situación de desamparo económico.
+
+### Artículo 4
+
+Artículo 4. Concepto de lesiones y daños.
+1. A los efectos de la presente Ley, son lesiones graves aquellas que menoscaben la integridad corporal o la salud física o mental y que incapaciten con carácter temporal o permanente a la persona que las hubiera sufrido.
+No se considerará incapacidad permanente aquella que no suponga un grado de minusvalía de, al menos, el 33 por 100.
+2. Las lesiones corporales o los daños a la salud física o mental habrán de tener entidad suficiente como para que, conforme a la legislación de la Seguridad Social, tuviera lugar una declaración de invalidez permanente en cualquiera de sus grados o una situación de incapacidad temporal superior a seis meses.
+3. Reglamentariamente se determinarán el procedimiento y el órgano competente para la calificación de las lesiones o daños a la salud.
+
+### Artículo 5
+
+Artículo 5. Incompatibilidades.
+1. La percepción de las ayudas reguladas en la presente Ley no será compatible con la percepción de las indemnizaciones por daños y perjuicios causados por el delito, que se establezcan mediante sentencia.
+No obstante lo establecido en el párrafo anterior, procederá el eventual abono de toda o parte de la ayuda regulada en la presente Ley y normas de desarrollo cuando el culpable del delito haya sido declarado en situación de insolvencia parcial, sin que en ningún caso pueda percibirse por ambos conceptos importe mayor del fijado en la resolución judicial.
+2. Asimismo, las ayudas contempladas en esta Ley serán incompatibles con las indemnizaciones o ayudas económicas a que el beneficiario de las mismas tuviera derecho a través de un sistema de seguro privado, así como, en el supuesto de incapacidad temporal de la víctima, con el subsidio que pudiera corresponder por tal incapacidad en un régimen público de Seguridad Social.
+No obstante lo establecido en el párrafo anterior, procedería el eventual abono de la ayuda regulada en la presente Ley y normas de desarrollo, al beneficiario de un seguro privado cuando el importe de la indemnización a percibir en virtud del mismo fuera inferior a la fijada en la sentencia sin que la diferencia a pagar pueda superar el baremo fijado.
+3. En los supuestos de lesiones o daños determinantes de la incapacidad permanente o muerte de la víctima, la percepción de las ayudas será compatible con la de cualquier pensión pública que el beneficiario tuviera derecho a percibir.
+4. Las ayudas por incapacidad permanente serán compatibles con las de incapacidad temporal.
+
+### Artículo 6
+
+Artículo 6. Criterios para determinar el importe de las ayudas.
+1. El importe de las ayudas no podrá superar en ningún caso la indemnización fijada en la sentencia. Tal importe se determinará mediante la aplicación de las siguientes reglas, en cuanto no supere la cuantía citada:
+a) De producirse situación de incapacidad temporal, la cantidad a percibir será la equivalente al duplo del indicador público de renta de efectos múltiples (IPREM) diario, durante el tiempo en que el afectado se encuentre en tal situación después de transcurridos los seis primeros meses.
+b) De producirse lesiones invalidantes, la cantidad a percibir como máximo se referirá al IPREM mensual vigente en la fecha en que se consoliden las lesiones o daños a la salud y dependerá del grado de incapacitación de acuerdo con la siguiente escala:
+Incapacidad permanente parcial: cuarenta mensualidades.
+Incapacidad permanente total: sesenta mensualidades.
+Incapacidad permanente absoluta: noventa mensualidades.
+Gran invalidez: ciento treinta mensualidades.
+c) En los casos de muerte, la ayuda máxima a percibir será de ciento veinte mensualidades del (IPREM) vigente en la fecha en que se produzca el fallecimiento.
+2. El importe de la ayuda se establecerá mediante la aplicación de coeficientes correctores sobre las cuantías máximas previstas en el apartado anterior, en la forma que reglamentariamente se determine y en atención a:
+a) La situación económica de la víctima y de la persona beneficiaria.
+b) El número de personas que dependieran económicamente de la víctima y de la persona beneficiaria.
+c) El grado de afectación o menoscabo que sufriera la víctima dentro de los límites de aquella situación que le correspondiera de entre las previstas por el artículo 6.1.b) de esta ley.
+En el supuesto de que la afectada sea víctima de violencias sexuales en el sentido de la Ley Orgánica de garantía integral de la libertad sexual, o víctima de violencia de género en los términos previstos en el artículo 2.1 de esta ley, el importe de la ayuda, calculado de acuerdo con lo establecido en los apartados anteriores, se incrementará en un veinticinco por ciento. En los casos de muerte consecuencia de alguna de estas formas de violencia, la ayuda será incrementada en un veinticinco por ciento para beneficiarios hijos menores de edad o mayores respecto de los que se hayan establecido judicialmente medidas de apoyo.
+3. En el supuesto contemplado por el artículo 2.5 de esta Ley, la ayuda consistirá únicamente en el resarcimiento de los gastos funerarios que hubieran satisfecho efectivamente los padres o tutores del menor fallecido, en la cuantía máxima que reglamentariamente se determine.
+4. En los supuestos de violencias sexuales y de violencias de género que causaren a la víctima daños en su salud mental, el importe de la ayuda sufragará la reparación económica de los daños y perjuicios sufridos, debiendo ser evaluados, al menos, los siguientes conceptos:
+a) El daño físico y mental, incluido el daño a la dignidad, el dolor, el sufrimiento y la angustia emocional.
+b) La pérdida de oportunidades, incluidas las oportunidades de educación, empleo y prestaciones sociales.
+c) Los daños materiales y la pérdida de ingresos, incluido el lucro cesante.
+d) El daño social, incluida la exclusión de la familia o comunidad.
+e) El tratamiento terapéutico, social y de salud sexual y reproductiva libremente elegido por la víctima, en la cuantía máxima que reglamentariamente se determine.
+f) Las actividades domésticas y de cuidados no remuneradas.
+Será procedente la concesión de esta ayuda aun cuando las lesiones o daños sufridos por la víctima no sean determinantes de incapacidad temporal.
+En cualquier caso, la ayuda prevista por este apartado será compatible con la que correspondiera a la víctima si las lesiones o daños sufridos produjeran incapacidad temporal o lesiones invalidantes.
+Se modifican los apartados 2 y 4 , con efectos desde el 7 de octubre de 2022, por la disposición final 5.3 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-5
+ Se modifican los apartados 1 y 2 por la disposición final 5.2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-6
+
+### Artículo 7
+
+Artículo 7. Prescripción de la acción.
+1. La acción para solicitar las ayudas prescribe por el transcurso del plazo de un año, contado desde la fecha en que se produjo el hecho delictivo. El plazo de prescripción quedará suspendido desde que se inicie el proceso penal por dichos hechos, volviendo a correr una vez recaiga resolución judicial firme que ponga fin provisional o definitivamente al proceso y le haya sido notificada personalmente a la víctima.
+No obstante, en el supuesto de violencias sexuales y de violencia de género, el plazo de prescripción será de cinco años y no afectará el transcurso del mismo desde que se produjo el hecho causante, comenzando a contarse en todo caso desde que recaiga resolución judicial firme que ponga fin provisional o definitivamente al proceso o desde el momento en que se acredite su condición de víctima conforme a lo establecido en el artículo 23 de la Ley Orgánica 1/2004, de 28 de diciembre, o el artículo 37 de la Ley Orgánica de garantía integral de la libertad sexual, sin perjuicio de lo establecido en el artículo 10 de la presente ley. Si no se hubiera sustanciado procedimiento judicial, el plazo de prescripción de cinco años comenzará a contar desde la comisión del hecho delictivo.
+2. En los supuestos en que a consecuencia directa de las lesiones corporales o daños en la salud se produjese el fallecimiento, se abrirá un nuevo plazo de igual duración para solicitar la ayuda o, en su caso, la diferencia que procediese entre la cuantía satisfecha por tales lesiones o daños y la que corresponda por el fallecimiento; lo mismo se observará cuando, como consecuencia directa de las lesiones o daños, se produjese una situación de mayor gravedad a la que corresponda una cantidad superior.
+Reglamentariamente se determinará el procedimiento para comprobar el nexo causal en los supuestos contemplados por este apartado.
+Se suprime el apartado 4 por la disposición final 7.3 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#df-7
+ Se añade el párrafo segundo al apartado 1, con efectos desde el 7 de octubre de 2022, por la disposición final 5.4 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-5
+ Se añade el apartado 4 por la disposición final 5.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-6
+
+### Artículo 8
+
+Artículo 8. Competencias.
+1. Las solicitudes de ayuda presentadas al amparo de la presente Ley serán tramitadas y resueltas por el Ministerio de Economía y Hacienda.
+2. Sus resoluciones y actos de trámite que determinen la imposibilidad de continuar el procedimiento o produzcan indefensión, podrán ser impugnadas por los interesados ante la Comisión Nacional de Ayuda y Asistencia a las Víctimas de Delitos Violentos y contra la Libertad Sexual, creada por el artículo 11 de esta Ley.
+Este procedimiento de impugnación tendrá carácter sustitutivo del recurso ordinario, en los términos del artículo 107.2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 9
+
+Artículo 9. Procedimiento.
+1. Las solicitudes de las ayudas, dirigidas al Ministerio de Economía y Hacienda, se podrán presentar por el interesado o por su representante en cualquiera de las formas previstas por el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y contendrán los extremos a que se refiere el artículo 70.1 de dicha Ley.
+2. Las solicitudes de ayuda que se formulen deberán contener además, los siguientes datos:
+a) Acreditación documental del fallecimiento, en su caso, y de la condición de beneficiario a título de víctima indirecta.
+b) Descripción de las circunstancias en que se hubiera cometido el hecho que presente caracteres de delito doloso violento, con indicación de la fecha y el lugar de su comisión.
+c) Acreditación de que los hechos fueron denunciados ante la autoridad pública.
+d) Declaración sobre las indemnizaciones y ayudas percibidas por el interesado o de los medios de que dispone para obtener cualquier tipo de indemnización o ayuda por dichos hechos.
+e) Copia de la resolución judicial firme que ponga fin al proceso penal, ya sea sentencia, auto de rebeldía o que declare el archivo por fallecimiento de la persona culpable, o declare el sobreseimiento provisional de la causa o el sobreseimiento libre por darse los supuestos previstos por los artículos 383, 641.2.º o 637.3.º de la Ley de Enjuiciamiento Criminal, respectivamente.
+3. El Ministerio de Economía y Hacienda podrá solicitar a las autoridades policiales, al Ministerio Fiscal o a los Juzgados o Tribunales la información que necesite para resolver sobre las solicitudes de ayuda. Podrá proceder, u ordenar que se proceda, a cualquier clase de investigación pertinente a sus propios fines.
+4. El Ministerio de Hacienda y Administraciones Públicas podrá también recabar de cualquier persona física o jurídica, entidad o Administración pública, la aportación de informes sobre la situación profesional, financiera, social o fiscal del autor del hecho delictivo y de la víctima, siempre que tal información resulte necesaria para la tramitación y resolución de los expedientes de concesión de ayudas, o el ejercicio de las acciones de subrogación o repetición. Podrá igualmente ordenar las investigaciones periciales precisas con vistas a la determinación de la duración y gravedad de las lesiones o daños a la salud producidas a la víctima. La información así obtenida no podrá ser utilizada para otros fines que los de la instrucción del expediente de solicitud de ayuda, quedando prohibida su divulgación.
+5. La resolución será adoptada tras oír las alegaciones del interesado en trámite de audiencia y conocer el informe del Servicio Jurídico del Estado, que intervendrá siempre en la tramitación de los expedientes.
+Se modifica la letra e) del apartado 2, con efectos desde el 7 de octubre de 2022, por la disposición final 5.5 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-5
+ Se modifica el apartado 4 por la disposición final 4 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+
+### Artículo 10
+
+Artículo 10. Concesión de ayudas provisionales.
+1. Podrán concederse ayudas provisionales con anterioridad a que recaiga resolución judicial firme que ponga fin al proceso penal, siempre que quede acreditada la precaria situación económica en que hubiese quedado la víctima o sus beneficiarios.
+Reglamentariamente se determinarán los criterios en virtud de los cuales se considerará precaria la situación económica de la víctima del delito, a los efectos de poder acceder a la concesión de ayudas provisionales.
+En los supuestos en que la víctima del delito tenga la consideración de víctima de violencias sexuales o de violencia de género, en los términos previstos en el artículo 2.1 de esta ley, podrán concederse las ayudas provisionales cualquiera que sea la situación económica de la víctima o de sus beneficiarios.
+2. Podrá solicitarse la ayuda provisional una vez que la víctima haya denunciado los hechos ante las autoridades competentes o cuando se siga de oficio proceso penal por los mismos.
+3. La solicitud de ayuda provisional deberá contener, además de los extremos a que se refiere el artículo 66.1 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas, los siguientes datos:
+a) La calificación de las lesiones o daños a la salud, así como los daños a las víctimas de violencias sexuales, realizada por el órgano y mediante el procedimiento que se determine reglamentariamente.
+b) Acreditación documental del fallecimiento en su caso y de la condición de beneficiario a título de víctima indirecta.
+c) Informe del Ministerio Fiscal que indique la existencia de indicios razonables para suponer que el fallecimiento, las lesiones o los daños se han producido por un hecho con caracteres de delito violento, doloso o contra la libertad sexual.
+4. La ayuda provisional no podrá ser superior al 80 por 100 del importe máximo de ayuda establecido por esta ley para los supuestos de muerte, lesiones corporales graves, daños graves en la salud o daños por delitos contra la libertad sexual, según corresponda.
+Su cuantía se establecerá mediante la aplicación de los coeficientes correctores a los que se refiere el artículo 6.2.
+5. La ayuda provisional podrá ser satisfecha de una sola vez o mediante abonos periódicos, que se suspenderán de producirse alguno de los supuestos previstos por el artículo 14 de esta Ley.
+Se modifican los apartados 1, 3 y 4, con efectos desde el 7 de octubre de 2022, por la disposición final 5.6 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-5
+ Se modifica el apartado 1 por la disposición final 5.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-6
+
+### Artículo 11
+
+Artículo 11. Comisión Nacional de Ayuda y Asistencia a las Víctimas de Delitos Violentos y contra la Libertad Sexual.
+1. Se crea la Comisión Nacional de Ayuda y Asistencia a las Víctimas de Delitos Violentos y contra la Libertad Sexual, que será competente para resolver los procedimientos de impugnación de las resoluciones del Ministerio de Economía y Hacienda en materia de las ayudas reguladas por esta Ley.
+La Comisión Nacional no estará sometida a instrucciones jerárquicas y resolverá los procedimientos de impugnación de las resoluciones del Ministerio de Economía y Hacienda, así como los recursos extraordinarios de revisión contra sus propios acuerdos con respeto a los principios, garantías y plazos que las leyes reconocen a los ciudadanos y a los interesados en todo procedimiento administrativo.
+2. El Gobierno, a propuesta de los Ministros de Justicia, de Economía y Hacienda y del Interior, establecerá la composición y el régimen de funcionamiento de la Comisión Nacional. Estará presidida por un Magistrado nombrado a propuesta del Consejo General del Poder Judicial, e integrada por representantes de la Administración General del Estado y, en su caso, de las organizaciones vinculadas a la asistencia y defensa de las víctimas. En cualquier caso, corresponderá una de sus vocalías a un representante del Ministerio Fiscal, nombrado a propuesta del Fiscal General del Estado.
+3. Los acuerdos de la Comisión Nacional, al resolver los procedimientos de impugnación previstos por la presente Ley, pondrán fin a la vía administrativa.
+Se modifica el apartado 2 por el art. único de la Ley 38/1998, de 27 de noviembre. Ref. BOE-A-1998-27393
+
+### Artículo 12
+
+Artículo 12. Procedimiento de impugnación.
+1. Los interesados podrán impugnar las resoluciones del Ministerio de Economía y Hacienda en materia de las ayudas reguladas por esta Ley ante la Comisión Nacional en el plazo de un mes desde su notificación personal a los interesados.
+Transcurrido dicho plazo sin haberse impugnado la resolución, ésta será firme a todos los efectos, sin perjuicio, en su caso, de la procedencia del recurso extraordinario de revisión ante el Ministerio de Economía y Hacienda.
+2. La impugnación podrá fundarse en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 62 y 63 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Los vicios y defectos que hagan anulable el acto no podrán ser alegados por los causantes de los mismos.
+3. La impugnación podrá formularse ante el Ministerio de Economía y Hacienda o ante la Comisión Nacional.
+De formularse ante el Ministerio de Economía y Hacienda, éste deberá remitirla a la Comisión Nacional en el plazo de diez días, con su informe y una copia completa y ordenada del expediente.
+4. Transcurridos tres meses desde la formulación de la impugnación sin que se adopte acuerdo por la Comisión Nacional, se podrá entender desestimada la impugnación, salvo en el supuesto previsto por el artículo 43.3.b) de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y quedará expedita la vía del recurso contencioso-administrativo.
+
+### Artículo 13
+
+Artículo 13. Acción de subrogación del Estado.
+El Estado se subrogará de pleno derecho, hasta el total importe de la ayuda provisional o definitiva satisfecha a la víctima o beneficiarios en los derechos que asistan a los mismos contra el obligado civilmente por el hecho delictivo. La repetición del importe de la ayuda contra el obligado civilmente por el hecho delictivo se realizará, en su caso, mediante el procedimiento administrativo de apremio previsto en el Reglamento General de Recaudación.
+El Estado podrá mostrarse parte en el proceso penal o civil que se siga, sin perjuicio de la acción civil que ejercite el Ministerio Fiscal.
+
+### Artículo 14
+
+Artículo 14. Acción de repetición del Estado.
+El Estado podrá exigir el reembolso total o parcial de la ayuda concedida, por el procedimiento previsto en el Reglamento General de Recaudación, en los siguientes casos:
+a) Cuando por resolución judicial firme se declare la inexistencia de delito a que se refiere la presente Ley.
+b) Cuando con posterioridad a su abono, la víctima o sus beneficiarios obtuvieran por cualquier concepto la reparación total o parcial del perjuicio sufrido en los tres años siguientes a la concesión de la ayuda, en los términos establecidos en el artículo 5 de esta Ley.
+c) Cuando la ayuda se hubiera obtenido en base a la aportación de datos falsos o deliberadamente incompletos o a través de cualquier otra forma fraudulenta, así como la omisión deliberada de circunstancias que determinaran la denegación o reducción de la ayuda solicitada.
+d) Cuando la indemnización reconocida en la sentencia sea inferior a la ayuda provisional.
+e) Cuando con posterioridad a su abono hubiera de efectuarse un nuevo reparto de la ayuda, por la concurrencia de nuevos beneficiarios.
+f) Cuando de las circunstancias declaradas en sentencia se deduzca la concurrencia de alguna de las causas de denegación o reducción previstas en el artículo 3 de esta Ley.
+Se añaden las letras e) y f) por la disposición final 6 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+
+## CAPITULO II
+
+Asistencia a las víctimas
+
+### Artículo 15
+
+Artículo 15. Deberes de información.
+1. Los Jueces y Magistrados, miembros de la Carrera Fiscal, autoridades y funcionarios públicos que intervengan por razón de su cargo en la investigación de hechos que presenten caracteres de delitos dolosos violentos y contra la libertad sexual, informarán a las presuntas víctimas sobre la posibilidad y procedimiento para solicitar las ayudas reguladas en esta Ley.
+2. Las autoridades policiales encargadas de la investigación de hechos que presenten caracteres de delito recogerán en los atestados que instruyan todos los datos precisos de identificación de las víctimas y de las lesiones que se les aprecien. Asimismo, tienen la obligación de informar a la víctima sobre el curso de sus investigaciones, salvo que con ello se ponga en peligro su resultado.
+3. En todas las fases del procedimiento de investigación el interrogatorio de la víctima deberá hacerse con respeto a su situación personal, a sus derechos y a su dignidad.
+4. El Secretario judicial cuidará de que la víctima de un hecho que presente caracteres de delito, en el mismo momento de realizar la denuncia o, en todo caso, en su primera comparecencia ante el órgano competente, sea informada en términos claros de las posibilidades de obtener en el proceso penal la restitución y reparación del daño sufrido y de las posibilidades de lograr el beneficio de la justicia gratuita. Igualmente cuidará de que la víctima sea informada de la fecha y lugar de celebración del juicio correspondiente y de que le sea notificada personalmente la resolución que recaiga, aunque no sea parte en el proceso.
+5. El Ministerio Fiscal cuidará de proteger a la víctima de toda publicidad no deseada que revele datos sobre su vida privada o su dignidad, pudiendo solicitar la celebración del proceso penal a puerta cerrada, de conformidad con lo previsto por la legislación procesal.
+Aun cuando el proceso se vea abocado a resolución que ponga fin al proceso penal por los supuestos de rebeldía, archivo por fallecimiento del culpable, o pudiera recaer sobreseimiento provisional de la causa o el sobreseimiento libre por darse los supuestos previstos por los artículos 383, 641.2.º o 637.3.º de la Ley de Enjuiciamiento Criminal, o hubiere recaído ya resolución judicial firme, siempre que existieren indicios razonables de haberse cometido los delitos objeto de aplicación de la presente ley, el Ministerio Fiscal, una vez recabado el informe forense, vendrá obligado a solicitar y recabar, incluso con la interposición de los recursos oportunos, la información relativa a la identidad de la víctima, los daños físicos y psíquicos sufridos, su conexión causal con los hechos indiciariamente constitutivos de delito y en definitiva, cualquier prueba conducente para la obtención de la ayuda pública prevista en la presente ley.
+El Ministerio Fiscal actuará de la misma manera en los casos en que no se haya sustanciado proceso por haberse acreditado la violencia por medios no judiciales.
+Se añaden los dos párrafos finales al apartado 5, con efectos desde el 7 de octubre de 2022, por la disposición final 5.7 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-5
+ Se modifica el apartado 4 por el art. 11 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
+
+### Artículo 16
+
+Artículo 16. Oficinas de asistencia a las víctimas.
+1. El Ministerio de Justicia e Interior procederá, de conformidad con las previsiones presupuestarias, a la implantación de Oficinas de asistencia a las víctimas en todas aquellas sedes de Juzgados y Tribunales o en todas aquellas Fiscalías en las que las necesidades lo exijan.
+2. En relación con las actividades desarrolladas por estas Oficinas, el Ministerio de Justicia e Interior podrá establecer convenios para la encomienda de gestión con las Comunidades Autónomas y con las Corporaciones locales.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Gobierno, a propuesta de los Ministros de Justicia e Interior y de Economía y Hacienda, podrá revisar las cuantías contempladas en la presente Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. La percepción de las ayudas contempladas en esta Ley no será compatible en ningún caso con los resarcimientos por daños a las víctimas de bandas armadas y elementos terroristas.
+Se derogan los apartados 2 y 3 por la disposición derogatoria única.4 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Quedan excluidos del ámbito de aplicación de la presente Ley los daños y perjuicios contemplados por la Ley 52/1984, de 26 de diciembre, de protección de medios de transporte por carretera que se hallen en territorio español realizando viajes de carácter internacional, cuya indemnización se resolverá mediante la aplicación de su legislación especial.
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+El Gobierno depositará el instrumento de ratificación del Convenio 116 del Consejo de Europa de 1983 en el plazo de seis meses, a partir de la entrada en vigor de la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+El Gobierno, a propuesta de los Ministros de Justicia e Interior y de Economía y Hacienda, aprobará en el plazo máximo de seis meses las disposiciones necesarias para el desarrollo y ejecución de esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley.
+Madrid, 11 de diciembre de 1995.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZALEZ MARQUEZ
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que, con efectos de 6 de octubre de 2020, la Dirección General de Ordenación de la Seguridad Social asumirá las competencias en la gestión de las prestaciones contempladas en la presente Ley 35/1995, según establece la disposición adicional 8.3 del Real Decreto-ley 15/2020, de 21 de abril, Ref. BOE-A-2020-4554#da-8, en relación con la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril, Ref. BOE-A-2020-4763#dt-2

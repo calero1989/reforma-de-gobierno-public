@@ -1,0 +1,976 @@
+# Ley 2/2000, de 28 de junio, del Juego de la Comunidad Autónoma de Aragón.
+
+- Identificador BOE: `BOE-A-2000-14238`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2000-14238
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOA núm. 110, de 13 de septiembre de 2000 Ref. BOA-d-2000-90257, y la corrección de erratas publicada en BOE núm. 180, de 28 de julio de 2000. Ref. BOE-A-2000-14351
+
+## Preámbulo
+
+En nombre del Rey y como Presidente de la Comunidad Autónoma de Aragón, promulgo la presente Ley, aprobada por las Cortes de Aragón, y ordeno se publique en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado», todo ello de conformidad con lo dispuesto en el artículo 20.1 del Estatuto de Autonomía.
+PREÁMBULO
+1
+El artículo 35.1.36.ª del Estatuto de Autonomía de Aragón, tras las reformas introducidas por las Leyes Orgánicas 6/1994, de 24 de marzo, y 5/1996, de 30 de diciembre, de modificación de dicha norma institucional básica, establece la competencia exclusiva de la Comunidad Autónoma en materia de casinos, juegos, apuestas y combinaciones aleatorias, excepto las apuestas y loterías del Estado.
+Mediante Real Decreto 1055/1994, de 20 de mayo, se instrumentó la transferencia a la Comunidad Autónoma de Aragón de las funciones y servicios en las señaladas materias, que, desde su entrada en vigor, fueron asumidas por los órganos competentes de la Administración de la Comunidad Autónoma; en la actualidad, por el Departamento de Presidencia y Relaciones Institucionales, en virtud de lo dispuesto en el Decreto 181/1999, de 28 de septiembre, del Gobierno de Aragón, de Estructura Orgánica del Departamento de Presidencia y Relaciones Institucionales.
+No obstante lo anterior, hasta la fecha, excepción hecha del Decreto del Gobierno de Aragón 183/1994, de 31 de agosto, por el que se regulan las modalidades de bingo acumulado y bingo interconexionado del juego del bingo, y su Orden de desarrollo de 13 de junio de 1995, y del Decreto del Gobierno de Aragón 31/1999, de 23 de marzo, modificado por el Decreto 98/2000, de 16 de mayo, por el que se aprueba el Reglamento de las modalidades de bingo acumulado, interconectado y plus del juego del bingo, que sustituyó al Decreto 183/1994, este ámbito competencial no ha sido objeto de una regulación específica por disposiciones de la Comunidad Autónoma, sino que se regula por diversa normativa estatal que parte de una norma preconstitucional, el Real Decreto Ley 16/1977, de 25 de febrero, por el que se regulan los aspectos penales, administrativos y fiscales de los juegos de suerte, envite o azar, el cual despenaliza esta actividad como medida para la expansión del sector turístico y de provisión de recursos tributarios.
+Dicha norma, desarrollada posteriormente por el Real Decreto 444/1977, de 11 de marzo, se complementó con diversas Órdenes y Reales Decretos, tales como las Órdenes de 9 de enero de 1979, por las que se aprobaron los Reglamentos de Casinos de Juego y del Juego del Bingo, y la Orden de 9 de octubre de 1979, por la que se aprobó la versión definitiva del Catálogo de Juegos, que han reglamentado los distintos juegos autorizados, poniendo de manifiesto una intención deslegalizadora en esta materia, salvo en lo referente al régimen sancionador, regulado en la Ley 34/1987, de 26 de diciembre.
+En consideración a lo que antecede, en la presente Ley se contiene la regulación del sector del juego y apuestas en el ámbito territorial de Aragón, partiendo del hecho de considerar al juego como una realidad social lícita, al suponer una manifestación más del principio de libertad individual recogido en la Constitución de 1978, que necesita, no obstante, ser regulada por esta Ley, que, con visión de conjunto y criterio de unidad, recoge en su articulado las directrices básicas a las que debe ajustarse la planificación y ordenación del juego y apuestas para que, teniendo en cuenta las características y peculiaridades propias, permita la formación de una política adecuada a las circunstancias sociales, económicas y administrativas de nuestra Comunidad.
+Por todo ello, es necesaria y urgente la aprobación de la presente norma, que justifica su rango de Ley por varios motivos fundamentales. En primer lugar, por afectar al derecho de libertad de empresa reconocido en el artículo 38 de nuestra Constitución y cuyo desarrollo está reservado a la Ley, según el artículo 53 de la Ley Fundamental, y todo ello sin olvidar los otros límites constitucionales que pudieran inducirse de lo establecido en sus artículos 43.2 y 3, 49, 51 y 128; en segundo lugar, por establecer un régimen sancionador, en el que se recoge un nuevo procedimiento, con tipificación de infracciones y previsión de sanciones, que, igualmente, por exigencia constitucional, requiere dicho rango legal; y, finalmente, por crear un tributo autonómico, cual es la Tasa por prestación de servicios administrativos y técnicos en materia de juego, que también precisa de dicho rango normativo por exigencias lógicas derivadas del respeto al principio de legalidad (artículos 31.3 y 133.2 de la Constitución Española).
+2
+En su aspecto formal, la Ley se estructura en siete títulos, que contienen cincuenta y siete artículos, seis disposiciones adicionales, cinco transitorias, dos derogatorias y dos finales, regulando en su título I los principios básicos en materia de juego, tales como: su ámbito de aplicación, exclusiones, los juegos y apuestas autorizados en el Catálogo de Juegos y Apuestas de la Comunidad Autónoma de Aragón y los requisitos del material utilizable para la práctica de aquéllos. Asimismo se regulan las autorizaciones administrativas exigidas para la organización, explotación y práctica de los juegos y apuestas, y las competencias del Gobierno de Aragón y del Departamento de Presidencia y Relaciones Institucionales en materia de juego y su régimen de publicidad, creando el Registro General del Juego de la Comunidad Autónoma.
+En el título II se recogen las distintas modalidades de juego y apuestas autorizados, sus requisitos y los establecimientos y locales donde pueden practicarse. Se describen igualmente las diferentes máquinas de juego, delimitando las excluidas del ámbito de aplicación de la Ley, y se definen los juegos de loterías, boletos, apuestas y las rifas, tómbolas y combinaciones aleatorias.
+En el título III se regulan los requisitos comunes y específicos de las empresas titulares de autorizaciones para juegos y apuestas, así como los de los demás elementos personales que intervienen en esta actividad.
+El título IV regula las funciones de inspección y control de las actividades relacionadas con el juego y apuestas, que se atribuyen al Departamento de Presidencia y Relaciones Institucionales, y regulando igualmente la colaboración, mediante Convenio, de los agentes de los Cuerpos y Fuerzas de Seguridad del Estado.
+Como se apuntó, la Ley establece en su título V un régimen sancionador propio, con tipificación de las infracciones administrativas y correspondientes sanciones, fundado en los principios básicos del Derecho Administrativo sancionador.
+Siguiendo los antecedentes del sector, la Ley especifica en su título VI los órganos competentes en la actividad del juego, con la constitución de un órgano colegiado con funciones consultivas, deliberantes y de asesoramiento, como es la Comisión del Juego de la Comunidad Autónoma de Aragón.
+En materia tributaria, la Ley, en el título VII, crea y regula una tasa por prestación de servicios administrativos y técnicos en materia de juego, de acuerdo con la Ley 10/1998, de 22 de diciembre, de Tasas y Precios Públicos de la Comunidad Autónoma de Aragón, preservando así el principio de legalidad en materia tributaria, tanto para la creación como para la modificación del tributo, dado el carácter de tributo propio de las Comunidades Autónomas que atribuye la Ley Orgánica de Financiación de las Comunidades Autónomas a las tasas por prestación de servicios transferidos a las mismas.
+La presente Ley, en definitiva, regula el ejercicio por el Gobierno y la Administración aragonesa de las competencias sobre el juego asumidas en el Estatuto de Autonomía, marcando las pautas y estableciendo las reglas para la práctica de una actividad socialmente admitida, pero difícil y compleja por sus connotaciones aleatorias y su posible incidencia en conductas patológicas, lo que justifica la pormenorizada y estricta regulación del sector.
+Precisamente por ello se dedica atención específica a la prevención de la ludopatía a través de una disposición adicional, fórmula que se considera la más adecuada a la técnica legislativa, dado el ámbito objetivo específico de la Ley. En dicha disposición, en congruencia con los criterios de la Ley sobre aspectos sociales del juego, protección de menores y evitación de hábitos y conductas patológicas, se establecen mandatos al Gobierno para que promueva la necesaria información y actividades que desincentiven la ludopatía, previéndose expresamente su colaboración con las asociaciones de afectados.
+
+## TÍTULO I
+
+Disposiciones generales.
+
+## CAPÍTULO I
+
+Ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Objeto y normativa aplicable.
+1. De acuerdo con lo señalado en el artículo 71.50.ª del Estatuto de Autonomía de Aragón, la presente ley tiene por objeto regular la actividad de la Comunidad Autónoma en relación con los casinos, juegos, apuestas y combinaciones aleatorias, excepto las loterías y apuestas gestionadas por el Estado.
+2. Las citadas actividades se regirán por lo establecido en esta ley, sus normas de desarrollo y por las disposiciones estatales sobre la materia.
+3. Asimismo, de conformidad con el artículo 17.1 del Estatuto de Autonomía de Aragón, la presente ley incluye como objeto incidir en la prevención del trastorno por juego y definir medidas de juego responsable que lo posibiliten en aras de garantizar la salud de la población.
+Se modifica por el art. único.1 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+ Se modifica el apartado 1 por el art. único.1 de la Ley 4/2011, de 10 de marzo. Ref. BOE-A-2011-7333
+
+### Artículo 2
+
+Artículo 2. Delimitación conceptual.
+1. A los efectos de esta Ley, se entiende por juego las actividades de carácter aleatorio en las que se comprometen cantidades de dinero u otros bienes u objetos económicamente valuables, susceptibles de ser transferidos entre los participantes, en función de un resultado incierto, con independencia de que predomine en ellas la habilidad, destreza o maestría de los jugadores o sean exclusivamente de suerte, envite o azar, y tanto si se desarrollan a través de actividades humanas como mediante la utilización de máquinas o redes electrónicas o telemáticas.
+2. Asimismo, se entiende por apuesta la actividad del juego por la que se arriesga una cantidad económicamente determinada sobre los resultados de un acontecimiento deportivo o de otra índole, previamente establecido, de desenlace incierto.
+3. Se entiende por juego responsable aquel que se lleva a cabo de forma consciente e informada y, en consecuencia, tiene lugar de forma controlada, en cuanto a gasto y tiempo, por la persona jugadora. Las políticas de juego responsable suponen que el ejercicio de las actividades de juego se abordará desde un enfoque integral y de responsabilidad social corporativa que contemple el juego como un fenómeno complejo donde se deben combinar acciones preventivas, de sensibilización, de intervención y de control, y también de reparación de los efectos negativos producidos.
+4. El trastorno por juego problemático, persistente y recurrente es el que provoca un deterioro o malestar clínicamente significativo en los términos que recoge el Manual diagnóstico y estadístico de los trastornos mentales.
+Se añaden los apartados 3 y 4 por el art. único.2 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+ Se modifica el apartado 1 por el art. único.2 de la Ley 4/2011, de 10 de marzo. Ref. BOE-A-2011-7333
+
+### Artículo 3
+
+Artículo 3. Ámbito objetivo de aplicación.
+El ámbito de aplicación de esta Ley se extiende a:
+a) Las actividades propias de los juegos y apuestas señaladas en el artículo 1 anterior.
+b) Las personas físicas o jurídicas dedicadas a la gestión o explotación de dichos juegos y apuestas, y a la fabricación, distribución y comercialización de materiales de juego del ámbito de esta Ley, así como a otras actividades conexas.
+c) Los edificios e instalaciones, como casinos y demás establecimientos, en los que se lleven a cabo las actividades relacionadas en apartados anteriores, así como la producción de los eventos determinantes de los resultados condicionantes.
+d) Las personas naturales o jurídicas que intervengan de alguna forma en la gestión, explotación y práctica de los juegos y apuestas.
+
+### Artículo 4
+
+Artículo 4. Exclusiones.
+Quedan excluidas del ámbito de aplicación de esta Ley los juegos, apuestas o competiciones de puro ocio o recreo que constituyen usos sociales de carácter tradicional, familiar o amistoso, siempre que los jugadores participantes, apostadores u organizadores no hagan de ellos objeto de explotación económica.
+Se entiende que existe dicha explotación económica, lo que comportará su consideración de prohibidos, cuando la suma total de apuestas en cada jugada iguale o supere el cincuenta por ciento del importe mensual del salario mínimo interprofesional, o si el total de las apuestas admitidas a un jugador en un período de veinticuatro horas iguala o supera el cien por cien de dicho salario.
+Asimismo, queda excluida del ámbito de aplicación de esta ley la comercialización de juegos de lotería estatal reservados por ley a la Sociedad de Loterías del Estado y a la ONCE, bien en soporte de papel o bien a través de terminales de venta, de uso exclusivo por el personal del punto de venta o del establecimiento autorizado abierto al público, sin que este pueda tener acceso a su utilización.
+Se añade el párrafo tercero por el art. único.3 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Artículo 5
+
+Artículo 5. Juegos y apuestas catalogados.
+1. La autorización de juegos o apuestas regulados en esta Ley exigirá que los mismos se encuentren previamente incluidos en el Catálogo de Juegos y Apuestas, al que se refiere el artículo 10.1 siguiente, y en el que se especificarán para cada uno de ellos:
+a) Las denominaciones con que sea conocido y sus posibles modalidades.
+b) El juego del bingo con sus distintas modalidades como juegos autonómicos.
+c) Las reglas esenciales para su desarrollo.
+d) Los condicionantes, restricciones y prohibiciones que se considere necesario imponer a su práctica.
+2. En el Catálogo de Juegos y Apuestas autorizados en la Comunidad Autónoma de Aragón se comprenderán los siguientes:
+a) Las loterías.
+b) Los exclusivos de los casinos de juego.
+c) El juego del bingo, en sus distintas modalidades.
+d) Los que se desarrollen mediante el empleo de máquinas recreativas y de azar.
+e) El juego de boletos.
+f) Las rifas, tómbolas y combinaciones aleatorias, así como los campeonatos de naipes y demás manifestaciones de suerte, envite y azar.
+g) Las apuestas basadas en actividades deportivas o de competición.
+h) Los concursos desarrollados en medios de comunicación e información.
+Se añade la letra h) por el art. 44.1 de la Ley 3/2012, de 8 de marzo. Ref. BOE-A-2012-5203
+
+### Artículo 6
+
+Artículo 6. Material para la práctica de juegos y apuestas.
+1. El material utilizable para la práctica de los juegos y apuestas deberá estar, en todo caso, previamente homologado por el órgano competente de la Administración de la Comunidad Autónoma y tendrá la consideración de material de comercio restringido.
+2. La comercialización, distribución y mantenimiento del material de juego y apuestas requerirán autorización administrativa previa.
+3. El material no homologado o aquel cuya distribución carezca de la oportuna autorización y que se use en la práctica de los juegos y apuestas, que se regulan en esta ley, se considerará material clandestino.
+4. Los cartones de bingo, billetes de lotería, cupones, papeletas de rifas y otros juegos similares, incluidos en el Catálogo de Juegos y Apuestas de la Comunidad Autónoma de Aragón, tendrán la consideración de efectos estancados, cualquiera que sea su soporte físico.
+5. Las plataformas, material de software, equipos, sistemas, terminales y demás instrumentos complementarios o conexos a la actividad de juego precisan, previa a su instalación en un local de juego, de la homologación del órgano competente en la gestión administrativa del juego.
+A los efectos de esta ley, son elementos complementarios o conexos a la actividad de juego los sistemas, equipos y demás instrumentos telemáticos, informáticos o electrónicos utilizados para la organización, explotación y desarrollo de la actividad de juego autorizada, así como para la anotación y registro de las personas inscritas en el Libro de visitantes, la realización de comunicaciones comerciales de la marca de la empresa, la realización de sorteos y demás transacciones económicas realizadas entre el titular del establecimiento y las personas jugadoras.
+El expediente de homologación de dichos elementos incluirá la memoria técnica de todas las funcionalidades del sistema y un certificado de auditoría informática externa que verifique todas las funcionalidades posibles del material sujeto a homologación, entre las que incluirá el acceso remoto, en tiempo real y con registros históricos, a la información de la actividad conexa o complementaria a la actividad de juego, a través de sistemas de comunicación seguros.
+Para garantizar el adecuado control y comprobación del funcionamiento de esos elementos complementarios o conexos a la actividad de juego, el acceso estará disponible para los órganos de gestión y de inspección de juego en todo momento.
+Se modifica por el art. único.4 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Artículo 7
+
+Artículo 7. Prohibiciones objetivas.
+1. Los juegos y apuestas no incluidos en el Catálogo de Juegos y Apuestas tendrán, a todos los efectos, la consideración legal de prohibidos, y el dinero, material, efectos, instrumentos y útiles usados en su práctica podrán ser objeto de comiso, en los términos previstos en el artículo 45.3, e).
+2. Se consideran asimismo prohibidos los juegos y apuestas que, aun estando permitidos, se realicen incumpliendo lo dispuesto en esta ley, o sin la debida autorización o incumpliendo los requisitos exigidos en la misma.
+Se modifica el título y se deroga el apartado 3 por el art. único.5 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+## CAPÍTULO II
+
+De la actividad administrativa
+
+### Artículo 8
+
+Artículo 8. Autorizaciones.
+1. La organización, explotación y práctica de los juegos y apuestas regulados por esta Ley, así como el almacenamiento del material y soportes necesarios para su desarrollo, requerirán la previa y correspondiente autorización administrativa, de duración determinada, a excepción de las máquinas de tipo A o recreativas y las combinaciones aleatorias con fines publicitarios o promocionales siempre y cuando la participación en las mismas sea gratuita y en ningún caso exista sobreprecio o tarifación adicional alguna cualquiera que fuera el procedimiento o sistema a través del cual se realicen, si bien el promotor de las mismas queda obligado a formular su comunicación individualizada previa.
+Las personas, físicas o jurídicas, titulares de actividades de juego y apuestas deberán constituir una fianza, en los términos que reglamentariamente se establezcan.
+2. Las autorizaciones podrán concederse bien para el ejercicio de actividades continuadas para realizar en uno o varios eventos o bien para un período de tiempo, renovable, en su caso, por la propia Administración. La validez de las autorizaciones concedidas para actividades a realizar en acto único finalizará con la celebración del evento o actividad autorizada.
+3. Las autorizaciones deberán señalar, como mínimo, de forma explícita: Sus titulares; el tiempo o modalidad por el que se expiden, con indicación, en su caso, de la fecha exacta de inicio y extinción; los juegos y apuestas autorizados y las condiciones de los mismos; los establecimientos o locales en los que puedan ser practicados y su aforo.
+4. Las autorizaciones de establecimientos para la práctica de juegos y apuestas tendrán también vigencia temporal, en los términos reglamentariamente establecidos, pudiendo ser renovadas en el supuesto de que continúen cumpliendo los requisitos exigidos en el momento de su autorización, salvo que éstos se hubieran modificado ulteriormente por Ley.
+5. Las autorizaciones sólo podrán transmitirse inter vivos o mortis causa o explotarse a través de terceras personas, en los casos y con las condiciones que reglamentariamente se establezcan, y siempre previa autorización de la Administración de la Comunidad Autónoma de Aragón.
+6. Las autorizaciones podrán ser revocadas, quedando sin efecto cuando durante su período de vigencia se pierdan todas o algunas de las condiciones que determinaron su otorgamiento, o por la concurrencia sobrevenida de alguna de las causas de inhabilitación señaladas en el artículo siguiente, y todo ello, sin perjuicio de las sanciones a que hubiera lugar, de acuerdo con lo dispuesto en el título V de esta Ley.
+Se modifica el apartado 1 por el art. 31.1 de la Ley 10/2012, de 27 de diciembre. Ref. BOE-A-2013-1424
+
+### Artículo 9
+
+Artículo 9. Causas de inhabilitación.
+1. Sin perjuicio de lo señalado en el título V de esta Ley, no podrán ser autorizados para la realización de las actividades y la organización de los juegos y apuestas a que se refiere esta Ley quienes se encuentren en alguna de las circunstancias siguientes:
+a) Haber sido condenado, dentro de los cinco años anteriores a la fecha de la solicitud de la autorización, por sentencia firme por algún delito de falsedad o contra las personas, el patrimonio, el orden socioeconómico, la Hacienda Pública o la Seguridad Social.
+b) Los quebrados no rehabilitados y los que, encontrándose en estado legal de suspensión de pagos o concurso de acreedores, hubiesen sido declarados insolventes o no hayan cumplido totalmente las obligaciones adquiridas en la sustanciación de dichos procedimientos, así como quienes hubiesen sido condenados, mediante resolución firme, a penas o sanciones que lleven aparejadas la privación de derechos o que supongan la inhabilitación absoluta o la especial para empleo, profesión, oficio, industria o comercio.
+c) Haber sido sancionados, mediante resolución firme, por dos o más infracciones tributarias graves en los últimos cinco años, por tributos sobre el juego y apuestas.
+d) Los sancionados, mediante resolución firme, por tres o más infracciones graves o muy graves cometidas contra los mandatos de la presente Ley, su normativa de desarrollo o la legislación del Estado en materia de juego, durante los cinco últimos años.
+2. Si las personas físicas, titulares o partícipes de una sociedad, incurrieren en alguna de las circunstancias a que se refieren los apartados a), b), c) y d) del presente artículo con posterioridad a la obtención de la autorización administrativa, ésta quedará revocada en los términos fijados reglamentariamente.
+3. Lo establecido en el apartado 1 anterior afectará igualmente a las empresas individuales, comunidades de bienes y personas jurídicas en las que sus administradores, directores, gerentes o quienes realicen tales funciones se encuentren incursos en alguno de los supuestos allí señalados.
+
+## CAPÍTULO III
+
+Distribución de competencias
+
+### Artículo 10
+
+Artículo 10. Competencias del Gobierno de Aragón.
+1. Corresponde al Gobierno de Aragón la aprobación, mediante Decreto, del Catálogo de Juegos y Apuestas, en el que se determinarán sus distintas denominaciones, modalidades posibles, elementos personales y reales necesarios para su práctica y las reglas esenciales para su desarrollo, así como la inclusión o exclusión de cualquier modalidad no contemplada.
+2. Dicho Catálogo se inspirará en los siguientes principios básicos:
+a) La transparencia en el desarrollo de los juegos.
+b) La evitación y, en su caso, persecución de prácticas fraudulentas.
+c) La prevención de perjuicios a terceros.
+d) La inspección y control por la Administración.
+3. Corresponde al Gobierno de Aragón aprobar los reglamentos específicos de cada juego incluidos en el Catálogo. Se autoriza al Consejero competente en la gestión administrativa del juego para poder modificar las características y las cuantías de las jugadas y premios, así como para desarrollar nuevas variantes de los juegos autorizados.
+4. Corresponde al Gobierno de Aragón garantizar la aplicación de medidas que posibiliten el juego responsable, la prevención y tratamiento de los trastornos por juego.
+Se añade el apartado 4 por el art. único.6 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+ Se modifica el apartado 3 por el art. 31.2 de la Ley 10/2012, de 27 de diciembre. Ref. BOE-A-2013-1424
+ Se modifica el apartado 3 por el art. único.3 de la Ley 4/2011, de 10 de marzo. Ref. BOE-A-2011-7333
+
+### Artículo 11
+
+Artículo 11. Principios rectores y circunstancias específicas para la ordenación del juego.
+1. El Gobierno de Aragón ordenará la actividad del juego de acuerdo con los siguientes principios:
+a) Evitar la incentivación de hábitos y conductas patológicas.
+b) Promover la protección de los menores de edad y de las personas que tengan reducidas sus capacidades volitivas, impidiendo su acceso a determinadas prácticas y locales de juego.
+c) Ponderar las repercusiones sociales, económicas y tributarias derivadas de la actividad del juego.
+d) Reducir, diversificar y no fomentar su hábito e impedir en su gestión actividades monopolistas.
+2. En la ordenación de la actividad del juego se tendrán en cuenta las siguientes circunstancias:
+a) La población y extensión superficial de la localidad para la que se insten las autorizaciones, a fin de fijar el número máximo de las mismas y el de locales para la práctica del juego.
+b) El aforo mínimo, máximo o ambos de los locales e instalaciones destinadas al juego.
+c) Las zonas o lugares en los que no proceda autorizar determinados juegos.
+d) Las distancias mínimas entre locales e instalaciones dedicadas a determinadas actividades de juego.
+
+### Artículo 12
+
+Artículo 12. Publicidad, patrocinio y promoción de las actividades de juego, de las empresas y de los locales de juego.
+1. Corresponde al Gobierno de Aragón regular mediante Decreto:
+a) El régimen de publicidad, patrocinio y promoción de las actividades de juego, de las empresas y de los locales de juego comprendidos en el ámbito de aplicación de esta ley, cualquiera que sea el medio que se utilice.
+b) El régimen de publicidad, patrocinio y promoción de las actividades de juego, de las empresas y de los locales de juego en el interior de dichos locales.
+c) Las normas pertinentes para garantizar el adecuado conocimiento por las personas usuarias de las reglas y condiciones en que se desarrolle cada juego.
+2. Se prohíbe toda forma de publicidad, patrocinio y promoción de las actividades de juego, de las empresas y de los locales de juego que incite o estimule la práctica del juego, cualquiera que sea el medio que se utilice, o que sugiera que el juego puede ser una solución a problemas personales, educativos, profesionales o financieros.
+3. Por considerarse contrario a la protección del menor, se prohíbe la publicidad, patrocinio y promoción de las actividades de juego, de las empresas y de los locales de juego comprendidos en el ámbito de aplicación de esta ley, dirigidas, directa o indirectamente, a atraer la atención o el interés particular de las personas menores de edad, cualquiera que sea el medio, programa o soporte en que se difunda o emplace.
+En el interior o exterior de los establecimientos deportivos y en las equipaciones deportivas, cuando se celebren acontecimientos o competiciones de ámbito local, provincial o autonómico aragonés cuya participación esté restringida en exclusiva a menores de edad, se prohíbe la publicidad, patrocinio y promoción de las actividades de juego, de las empresas y de los locales de juego comprendidos en el ámbito de aplicación de esta ley
+4. Las comunicaciones comerciales de las actividades de juego, empresas y locales de juego incluirán, en tamaño fácilmente visible y legible, la advertencia de que “La práctica del juego está prohibida a los menores de edad” y de que “El juego en exceso puede producir trastorno por juego”.
+5. En el exterior de los locales de juego, así como en las páginas web y en los demás servicios tecnológicos, las empresas de juego comprendidas en el ámbito de aplicación de esta ley podrán publicitar, previa comunicación, su nombre comercial, dirección, horario, las modalidades de juego y las actividades complementarias que, en su caso, ofertan.
+Dichas comunicaciones comerciales no podrán utilizar imágenes que induzcan a error sobre la actividad autorizada, información sobre el importe de premios o el coeficiente de las apuestas o mensajes que sugieran la facilidad para obtener premios, para la consecución de éxito mediante la práctica de juego y demás reclamos que inciten a la práctica de juego.
+6. En la parte exterior de la puerta de acceso de todos los locales de juego, con excepción de los salones recreativos, en las redes sociales y en los demás servicios tecnológicos de las empresas de juego comprendidas en el ámbito de aplicación de esta ley, figurará información, previamente facilitada por la Administración, de las dependencias oficiales en la que se puede solicitar la inscripción en el Registro del Juego de Prohibidos de Aragón (REJUP), así como carteles informativos que adviertan de:
+a) La prohibición de entrada a los menores de edad.
+b) La prohibición de entrada a las personas inscritas en el Registro del Juego de Prohibidos de Aragón.
+c) El juego en exceso puede producir trastorno por juego.
+7. Se prohíbe a las empresas de juego comprendidas en el ámbito de aplicación de esta ley la realización de actividades de captación y de fidelización de clientes, cualquiera que sea el medio o soporte físico, informático o telemático empleado sin el consentimiento expreso del receptor, así como el ofrecimiento de juego gratuito o a precio inferior al autorizado.
+Así mismo, se prohíben las prácticas empresariales que estimulan la afluencia de personas a los locales de juego, proporcionando más tiempo de juego, por sesiones de juego más frecuentes y repetitivas, o sirviendo comidas y bebidas de manera generalizada e indiscriminada gratuitas o a precio inferior al de mercado.
+Ningún tipo de promoción puede alterar la mecánica del juego, ni el retorno en premios de los juegos a los que se aplica.
+8. No podrán realizarse actividades de patrocinio que consistan en la utilización del nombre, marca o denominación comercial de una empresa de juego para identificar a una instalación deportiva o a cualquier centro de entrenamiento. Tampoco podrán realizarse actividades de patrocinio que impliquen sustituir o añadir al nombre de un equipo o competición deportiva, de ámbito local, provincial o autonómico o de cualquier otra entidad ajena al sector del juego, el nombre o la denominación comercial de la empresa de juego.
+9. En relación con los juegos comprendidos en el ámbito de aplicación de esta ley, se prohíben las comunicaciones individualizadas a las jugadoras y jugadores autoprohibidos por medios informáticos, electrónicos o telemáticos y a través de las redes sociales y demás proveedores de servicios tecnológicos ubicados en Aragón.
+10. Queda prohibida la publicidad sobre los juegos comprendidos en el ámbito de aplicación de la presente ley mediante su distribución por buzones, por correo, por teléfono y, en general, mediante mensajes que se envíen a un domicilio, sin perjuicio de lo establecido en el apartado 7 de este artículo.
+Se modifica por el art. único.7 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Artículo 13
+
+Artículo 13. Competencias del Departamento de Presidencia y Relaciones Institucionales.
+Corresponde al Consejero de Presidencia y Relaciones Institucionales:
+1.º La concesión de las autorizaciones necesarias para la realización de las actividades reguladas en esta Ley, en los términos que reglamentariamente se determinen.
+2.º Acordar la prórroga, caducidad o extinción de dichas autorizaciones, así como la novación modificativa de las ya concedidas, en los casos de transferencia directa o indirecta, cambio de domicilio o de ubicación de los espacios, instalaciones o locales donde haya de desarrollarse el juego y otras circunstancias similares.
+3.º Proponer al Gobierno, previo informe de la Comisión del Juego, las disposiciones reglamentarias reguladoras de los juegos y apuestas incluidos en el catálogo, y en las que se contendrán, entre otras, las siguientes cuestiones:
+a) El régimen y ámbito de aplicación.
+b) Los requisitos que deberán cumplir las personas físicas o jurídicas o entidades que puedan ser autorizadas para gestionar y explotar el juego o las apuestas de que se trate.
+c) Las condiciones de inscripción en el registro correspondiente.
+d) El régimen de tramitación, concesión, modificación, renovación, caducidad, revocación y, en su caso, la transmisión de las autorizaciones.
+e) Los requisitos de los establecimientos o locales para la práctica del juego o de los eventos determinantes de los resultados condicionantes de los premios y, en su caso, las normas técnicas, aforos y distancias mínimas que deban cumplir dichos locales, así como las autorizaciones para su traslado.
+f) Los requisitos de homologación de las máquinas y demás elementos y componentes del juego.
+g) Los horarios de apertura y cierre de los locales de juego.
+h) Los requisitos de admisión del personal y las condiciones de habilitación profesional.
+i) La cuantía máxima de las apuestas, el valor máximo de las ganancias por unidad de apuestas, la velocidad del juego y, en su caso, la cadencia de los períodos de juego y descanso.
+j) El régimen específico de publicidad.
+k) La atribución de facultades para la calificación de infracciones e imposición de sanciones, de acuerdo con lo previsto en la presente Ley.
+l) El régimen de gestión y explotación.
+m) La documentación exigible a efectos de inspección y control administrativo.
+4.º La ordenación de la inspección, comprobación, vigilancia y control de las actividades relacionadas con los juegos y apuestas.
+5.º Dirigir el establecimiento y mantenimiento del Registro General del Juego.
+6.º Ordenar la gestión de las tasas administrativas del juego.
+
+### Artículo 14
+
+Artículo 14. Registro General del Juego.
+1. Las personas físicas y jurídicas que se dediquen a la explotación de cualquier juego o apuesta, a la distribución y mantenimiento del material o de las máquinas y a su fabricación, deberán inscribirse en el Registro del Juego de la Comunidad Autónoma, que dependerá del Departamento de Presidencia y Relaciones Institucionales.
+2. La inscripción en el Registro del Juego será requisito indispensable para el desarrollo de la actividad del juego en la Comunidad Autónoma.
+3. En este Registro se anotarán los locales autorizados para la práctica del juego y apuestas y la instalación de máquinas de juego, los permisos de explotación e instalación, las sanciones por faltas muy graves y graves impuestas a empresas y particulares por resolución firme y otros datos de interés relativos a la actividad del juego, así como cuantos cambios de titularidad, ubicación y demás modificaciones que se produzcan en los mismos.
+4. La estructura del Registro, las condiciones y requisitos necesarios para la inscripción o anotación, así como su cancelación se determinarán reglamentariamente.
+
+## TÍTULO II
+
+De las distintas modalidades de juegos y apuestas, sus requisitos y los establecimientos y locales donde se practican
+
+## CAPÍTULO I
+
+Establecimientos autorizados
+
+### Artículo 15
+
+Artículo 15. Requisitos y clases de locales.
+1. Los juegos y apuestas catalogados sólo podrán organizarse, explotarse y practicarse con los requisitos, condiciones y en los establecimientos y lugares señalados en esta ley y en sus disposiciones de desarrollo.
+2. La práctica del juego podrá autorizarse en los siguientes locales:
+a) Casinos de juego.
+b) Salas de bingo.
+c) Salones de juego.
+d) Salones recreativos.
+e) Espacios especialmente habilitados.
+f) Locales de apuestas.
+g) Aquellos otros que reglamentariamente se determinen.
+3. Corresponde a la Administración de la Comunidad Autónoma de Aragón autorizar la instalación y explotación de las máquinas de juego o apuestas y demás terminales y aparatos auxiliares necesarios para la práctica del juego de boletos, loterías o similares, cualquiera que sea su titularidad, pública o privada, que se emplacen en el territorio de la Comunidad Autónoma de Aragón, con la excepción de las máquinas de tipo A o recreativas, que quedarán sujetas a comunicación previa.
+No obstante, queda excluida del ámbito de aplicación de esta ley la comercialización de los juegos de lotería estatal a que hace referencia el párrafo tercero del artículo 4.
+4. No podrán concederse nuevas autorizaciones de apertura o de ampliación de locales de juego a una distancia a pie inferior a 500 metros, medidos de las puertas de acceso de un local de juego a la puerta de acceso principal de los centros educativos acreditados por el departamento competente en materia de educación para impartir educación primaria y secundaria, bachillerato, ciclo de formación profesional básica y enseñanzas artísticas profesionales, y de los establecimientos públicos que realicen actividades de ocio y tiempo libre, principalmente, con menores y jóvenes y de formación no reglada, acreditados por el Instituto Aragonés de la Juventud. La medición se realizará tomando como referencia el vial que tenga la consideración de dominio público más corto que utilicen los peatones entre las puertas de acceso.
+5. En el interior del local de juego deberá figurar, en lugar visible, de forma clara y a disposición directa de los clientes, la indicación de los juegos autorizados, los precios, las apuestas máximas y mínimas, la distribución de los premios, el coeficiente de las apuestas, un extracto de las principales reglas de juego, varios ejemplares de la reglamentación técnica específica de cada uno de los juegos autorizados en el local y de la Ley del Juego de la Comunidad Autónoma de Aragón, folletos informativos de juego responsable, así como folletos informativos autorizados por la Administración de prevención y de tratamiento del trastorno por juego, que incluirán “autotest” para conocer su comportamiento de juego, con la indicación de las dependencias oficiales en las que se puede solicitar la inscripción en el Registro del Juego de Prohibidos de Aragón, los datos de contacto de instituciones y unidades de atención de los servicios sanitarios de la Administración dedicadas al tratamiento y rehabilitación de personas con trastorno por juego y, en su caso, de las entidades colaboradoras que se especifican en el apartado 4 de la disposición adicional sexta de esta ley, y los procedimientos para acceder a tratamiento.
+6. Los locales de juego desarrollarán su actividad con las puertas cerradas y la actividad de juego no será visible desde el exterior.
+Se modifica por el art. único.8 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+ Se modifica el apartado 3 por el art. 31.3 de la Ley 10/2012, de 27 de diciembre. Ref. BOE-A-2013-1424
+ Se modifica por el apartado 3 por el art. 44.2 de la Ley 3/2012, de 8 de marzo. Ref. BOE-A-2012-5203
+ Redactado conforme a la corrección de errores publicado en BOE núm. 161, de 6 de julio de 2012. Ref. BOE-A-2012-9064
+ Se modifica el apartado 3 por el art. único.4 de la Ley 4/2011, de 10 de marzo. Ref. BOE-A-2011-7333
+
+### Artículo 16
+
+Artículo 16. Casinos de juego.
+1. A efectos de esta Ley, son casinos de juego los locales de juego que hayan sido autorizados para la práctica de juegos de azar exclusivos, y en los que, en su caso, mediante pago, puede, además, asistirse a otros espectáculos o actividades recreativas complementarias.
+2. Son juegos de los casinos de juego:
+a) Juegos exclusivos de casinos, tales como:
+Ruleta francesa.
+Ruleta americana.
+Ruleta americana doble cero.
+Bola o boule.
+Treinta y cuarenta.
+Veintiuno o blackjack.
+Punto y banca.
+Ferrocarril, bacará o chemin de fer.
+Bacará a dos paños.
+Dados o craps.
+Póquer y sus distintas modalidades
+Ruleta de la fortuna.
+b) Máquinas de azar o de tipo ‘‘C’’, exclusivas de casinos, a las que hace referencia el artículo 21.2.c) de esta Ley.
+c) (Derogado).
+3. (Derogado).
+4. El consejero competente en materia de juego, a solicitud del titular del casino de juego permanente, podrá autorizar la apertura y el funcionamiento de una sala de juego adicional que, formando parte del casino de juego permanente, se encuentre situada fuera del inmueble o complejo donde esté ubicado el mismo, siempre y cuando se instale en el mismo término municipal que la sala de juego principal.
+Estas salas no estarán limitadas, en cuanto a distancias, respecto de ningún local de juego.
+La apertura de esta sala de juego adicional quedará sujeta a la autorización de apertura y funcionamiento concedida por la Administración autonómica y por la normativa aplicable a los locales de pública concurrencia.
+La autorización de apertura y funcionamiento se renovará junto con la autorización de apertura y funcionamiento del casino de juego permanente, de modo que constituya una única autorización.
+Las condiciones y requisitos exigidos a la sala de juego adicional se establecerán reglamentariamente. En cualquier caso, deberá existir necesariamente un registro de admisión y de control de asistencia y de identificación de los usuarios.
+Para la autorización de las salas de juego adicionales, se tendrán en cuenta, en su caso, las circunstancias recogidas en la presente Ley para la autorización de casinos.
+5. Los casinos de juego deberán ofrecer y prestar al público, entre otros, los servicios de bar, restaurante y salas de descanso o estar, sin perjuicio de la realización de otras actividades empresariales recogidas en la correspondiente autorización de explotación.
+6. El aforo, la superficie y el funcionamiento de los casinos de juego y de sus salas adicionales se determinarán reglamentariamente.
+La sala principal de los casinos de juego se proyectará para un aforo mínimo de 200 personas y tendrá una superficie mínima de 250 metros cuadrados. Esta obligación no será de aplicación a los casinos de juego temporales ni a las salas adicionales de los casinos de juego.
+7. El Gobierno de Aragón regulará el número máximo y la distribución geográfica de los casinos de juego, con atención a los principios establecidos en el artículo 11 de esta Ley.
+8. Corresponde a la Administración de la Comunidad Autónoma de Aragón otorgar la autorización de apertura y funcionamiento de los casinos de juego, previo concurso público, en el que se valorarán, entre otras circunstancias, el interés turístico del proyecto, la viabilidad del mismo, la solvencia técnica y financiera de los promotores, el programa de inversiones, el empleo que pueda generarse, la contribución a la oferta turística y de ocio de la Comunidad Autónoma, el informe del ayuntamiento del municipio donde se hubiese de instalar y los demás exigidos en las bases del concurso.
+9. Las autorizaciones para la explotación de casinos podrán ser provisionales o definitivas. La autorización definitiva se otorgará por un período mínimo de diez años, susceptible de ulteriores renovaciones cada cinco años.
+10. La transferencia de la explotación de los casinos de juego, así como el cambio de ubicación en el ámbito de la Comunidad Autónoma de Aragón, exigirán también autorización administrativa, de acuerdo con lo establecido en el artículo 13 de esta Ley.
+A efectos de esta Ley, se entiende por transferencia cualquier cambio de titularidad tanto en los activos del inmovilizado como de la explotación, así como la incorporación de nuevos socios, por ampliación de capital, fusión o transformación y por la transmisión de un montante de títulos representativos del capital de la entidad explotadora o cualesquiera otras operaciones que, aislada o acumulativamente, supongan una alteración de los accionistas o partícipes superior al 5 % del capital social.
+Se deroga el apartado 3 por la disposición derogatoria única.2.c) de la Ley 2/2014, de 23 de enero. Ref. BOE-A-2014-1510#dd
+ Se deroga el apartado 2.c) de la Ley 10/2012, de 27 de diciembre. Ref. BOE-A-2013-1424
+ Se modifica por el art. único.5 de la Ley 4/2011, de 10 de marzo. Ref. BOE-A-2011-7333
+ Se modifica el apartado 1.c) por el art. único.1 de la Ley 3/2004, de 22 de junio. Ref. BOA-d-2004-90017
+ Se modifica el apartado 1.c) por el art. único.1 de la Ley 4/2003, de 24 de febrero. Ref. BOE-A-2003-5694
+
+### Artículo 17
+
+Artículo 17. Salas de bingo.
+1. A los efectos de esta Ley, se denominan salas de bingo los locales expresamente autorizados para la práctica del juego del bingo en sus distintas modalidades, mediante cartones oficialmente homologados, y cualquier sistema que reglamentariamente se determine, cuya venta habrá de efectuarse, exclusivamente, dentro de la sala donde el juego se desarrolle, a la que sólo podrán acceder los usuarios, previo control identificativo realizado en el correspondiente control de admisión.
+2. En las salas de bingo podrá autorizarse la instalación de máquinas recreativas de tipo B o asimiladas, a las que se refiere el artículo 21.2.b) de esta Ley, con las condiciones que reglamentariamente se determinen.
+3. Las autorizaciones para la explotación de salas de bingo podrán ser provisionales o definitivas. Las definitivas se concederán por un período mínimo de diez años, susceptibles de ulteriores renovaciones cada cinco años.
+4. El aforo, superficie, funcionamiento y los servicios mínimos a prestar al público en las salas de bingo se determinarán reglamentariamente.
+5. A los efectos de la autorización de la transferencia y cambio de ubicación de salas de bingo, se estará a lo preceptuado en el artículo 16.8 de la presente Ley.
+
+### Artículo 18
+
+Artículo 18. Salones de juego.
+1. A los efectos de esta Ley, se denominan salones de juego los establecimientos dedicados a la explotación de máquinas de tipo B, o recreativas con premio, y especiales asimiladas, en su caso, señaladas en el artículo 21.2.b). En dichos salones podrán instalarse, al propio tiempo, máquinas de tipo A o de puro esparcimiento. En tal caso, deberán estar separadas en distintas salas sin comunicación directa, salvo cuando exista la prohibición expresa de entrada a menores en todo el local.
+Los salones de juego deberán tener instaladas un mínimo de tres máquinas de tipo B, siempre que, al menos, conlleve la instalación de 15 puestos de juego
+2. Las autorizaciones para la explotación de salones de juego podrán ser provisionales o definitivas. Las definitivas se concederán por un período mínimo de diez años, susceptibles de ulteriores renovaciones cada cinco años.
+En lo referente a la autorización de su transferencia y cambio de ubicación se observará lo dispuesto en el artículo 16.8 de la presente Ley.
+3. Deberán contar con un cartel o letrero en la puerta de acceso con la indicación de la prohibición de entrada a los menores de edad, sin perjuicio de lo dispuesto en el apartado primero de este artículo, y con un servicio de admisión que impedirá su entrada.
+Se añade el segundo párrafo del apartado 1 por el art. 31.4 de la Ley 10/2012, de 27 de diciembre. Ref. BOE-A-2013-1424
+
+### Artículo 19
+
+Artículo 19. Salones recreativos.
+A los efectos de esta Ley, se consideran salones recreativos los establecimientos destinados a la explotación exclusiva de máquinas de tipo A, señaladas en el artículo 21.2.a).
+
+### Artículo 19 bis
+
+Artículo 19 bis. Locales de apuestas.
+A efectos de esta ley, se consideran locales de apuestas aquellos establecimientos cuya actividad principal es la formalización de apuestas deportivas, de competición o de otra índole.
+Se añade por el art. único.9 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Artículo 20
+
+Artículo 20. Desarrollo reglamentario.
+El Gobierno de Aragón regulará reglamentariamente los salones de juego y salones recreativos mencionados en esta Ley, valorando, entre otros aspectos, las condiciones a reunir por los titulares de autorizaciones para la explotación de salones de juego y recreativos, el número de máquinas a instalar y el aforo y superficie de los mismos.
+
+## CAPÍTULO II
+
+Máquinas recreativas o de juego
+
+### Artículo 21
+
+Artículo 21. Máquinas de juego.
+1. A los efectos de esta ley, se consideran máquinas de juego, recreativas y de azar, los aparatos o instrumentos manuales o automáticos, mecánicos, electrónicos o informáticos que, a cambio de un precio en dinero, permiten su utilización para la obtención de un premio, o para el mero pasatiempo o recreo, en función del azar, de la habilidad de las personas jugadoras o de ambas circunstancias.
+2. A efectos del régimen jurídico de su explotación, las máquinas se clasifican en los siguientes grupos:
+a) De tipo A o recreativas. Son las máquinas que proporcionan un tiempo de juego y, en función de la habilidad, destreza o conocimiento de las jugadoras y jugadores, pueden conceder, eventualmente, un premio en especie limitado, de forma directa o mediante la obtención de una cantidad de tiques, fichas o similares.
+Las máquinas de juego de tipo A no podrán ofertar modalidades de juego cuya práctica esté prohibida a menores de edad, ni usar imágenes o realizar actividades propias de locales no autorizados para menores o que de cualquier manera puedan herir la sensibilidad o perjudicar la formación de los menores de edad.
+El funcionamiento de juego de la máquina de tipo A no incluirá mecanismos tales como botones, palancas, rodillos, ruletas y similares específicos de las máquinas de tipo B y de tipo C del juego de bingo y exclusivos de casino o sistemas de juego prohibidos a menores de edad.
+b) De tipo B o recreativas con premio. Son las máquinas que, a cambio del precio de la partida o jugada, conceden a la persona usuaria un tiempo de uso o de juego, de acuerdo con un programa de juego y, eventualmente, un premio en metálico.
+c) De tipo C o de azar. Son las máquinas exclusivas de casinos las que, a cambio del precio de la partida, conceden a la persona usuaria un tiempo de juego y, eventualmente, un premio en metálico, que dependerá siempre del azar.
+Sin perjuicio de lo señalado en los apartados anteriores, el Gobierno de Aragón, mediante Decreto, podrá, a propuesta del departamento competente en la gestión administrativa del juego, previo informe de los departamentos competentes en hacienda, sanidad y servicios sociales, incorporar a la clasificación anterior otros tipos o subgrupos de máquinas que, por sus características singulares, no estuvieran exactamente identificadas o comprendidas en las antes señaladas.
+3. Los requisitos y las condiciones técnicas y de interconexión, así como los premios de estas máquinas de juego se concretarán por Orden de la persona titular del departamento competente en la gestión administrativa del juego.
+4. Se excluyen de esta ley las máquinas expendedoras que se limiten a efectuar mecánicamente y de forma directa, sin intervención de la pericia o fortuna de la persona usuaria, la venta de productos o mercancías, siempre que el valor del dinero depositado en las mismas corresponda, aproximadamente, al precio al por menor de los productos que se entreguen, así como las máquinas tocadiscos o vídeo-discos, las de naturaleza estrictamente manual o mecánica y las máquinas de competición o puro deporte que no den premio directo o indirecto alguno.
+Se determinarán reglamentariamente los requisitos que deben cumplir las máquinas expendedoras para su exclusión del ámbito de aplicación de esta ley.
+5. En los establecimientos de hostelería, bares, cafeterías, restaurantes, clubes y otros análogos, podrán instalarse máquinas de tipo A y B, en el número y con los requisitos que reglamentariamente se determinen.
+6. Las máquinas de juego podrán ser multipuesto. Son máquinas multipuesto aquellas que, reuniendo las características técnicas de cada tipo de máquina, permitan su utilización simultánea o independiente por dos o más personas jugadoras y con el límite de personas que señale la normativa de desarrollo, según tipo de máquina y locales en los que se instale. Estas máquinas estarán amparadas por una única autorización de explotación, computando a los efectos de aforo como una sola máquina.
+7. Los juegos incluidos en las máquinas de juego podrán estar alojados en un servidor, cuyas características se determinarán mediante Orden de la persona titular del departamento competente en la gestión administrativa del juego.
+8. Las máquinas de tipo B1 y demás elementos de juego instalados en hostelería y establecimientos análogos durante el tiempo en el que no se encuentren en uso no podrán emitir estímulos sonoros, visuales o lumínicos, e incluirán en sus pantallas de juego mensajes de prohibición de uso a menores y prohibidos, así como mensajes de juego responsable.
+Previo al inicio de la sesión de juego por la persona jugadora, el terminal formulará preguntas al usuario, relativas a su edad y responsabilidad con el juego. Completadas las respuestas, automáticamente el terminal iniciará el juego.
+9. Por Orden de la persona titular del departamento competente en la gestión administrativa del juego, se fijarán las condiciones técnicas de las máquinas de juego de tipo B1 instaladas en los establecimientos de hostelería para garantizar la efectividad de no acceso al juego de las personas inscritas en el Registro del Juego de Prohibidos de Aragón, sin menoscabo y con cumplimiento de lo dispuesto en la normativa vigente sobre protección de datos de carácter personal.
+Se modifica por el art. único.10 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+ Se modifican los apartados 2.a) y 4 por el art. 32.1 y 2 de la Ley 2/2014, de 23 de enero. Ref. BOE-A-2014-1510#a3-4
+ Se modifica el apartado 4 por el art. 31.5 y 6 de la Ley 10/2012, de 27 de diciembre. Ref. BOE-A-2013-1424
+ Se modifica el apartado 2.b) por el art. 44.3 de la Ley 3/2012, de 8 de marzo. Ref. BOE-A-2012-5203
+ Se modifica el apartado 2.a) por el art. único.2 de la Ley 3/2004, de 22 de junio. Ref. BOA-d-2004-90017
+
+### Artículo 22
+
+Artículo 22. Requisitos de las máquinas de juego.
+1. Además de los requisitos fiscales exigibles en su caso, las máquinas de juego señaladas en el artículo anterior deberán cumplir para su explotación, como mínimo, los siguientes requisitos:
+a) Estar debidamente homologadas por la Administración de la Comunidad Autónoma de Aragón.
+b) Llevar incorporadas las marcas de fábrica y la placa de identidad de la máquina, así como los contadores, dispositivos de seguridad y demás elementos y requisitos que reglamentariamente se establezcan.
+c) Disponer de la preceptiva autorización de explotación, en su caso.
+d) Disponer de un sistema de monitorización, para el control y acceso remoto por la Administración, que permita acceder en tiempo real al sistema de juego de las máquinas instaladas en los locales de juego, y que almacene, por un periodo mínimo de tres meses, la fecha y hora, debidamente sincronizada, y de cada jugada, las cantidades jugadas y los premios entregados.
+2. Las condiciones para la instalación, explotación y transferencia de las máquinas, así como el procedimiento para su canje, sustitución e inutilización, en su caso, se establecerán reglamentariamente.
+3. En el frontal de la máquina de juego constarán, visibles y legibles, las siguientes advertencias e informaciones:
+a) Prohibición de jugar de los menores de edad.
+b) Prohibición de jugar a las personas inscritas en el Registro del Juego de Prohibidos de Aragón.
+c) El juego en exceso puede producir trastorno por juego.
+d) Información de las dependencias oficiales para solicitar la inscripción en el Registro del Juego de Prohibidos de Aragón facilitada por la Administración y del procedimiento para el acceso a tratamiento o ayuda.
+e) Datos de contacto de instituciones y unidades de atención de los servicios sanitarios de la Administración dedicadas al tratamiento y rehabilitación de personas con trastorno por juego y, en su caso, de las entidades colaboradoras que se especifican en el apartado 4 de la disposición adicional sexta de esta ley.
+Se modifica por el art. único.11 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+ Se modifica el apartado 1.b) por el art. 31.7 de la Ley 10/2012, de 27 de diciembre. Ref. BOE-A-2013-1424
+
+## CAPÍTULO III
+
+Otras modalidades de juego
+
+### Artículo 23
+
+Artículo 23. Juego de loterías y boletos.
+1. Son loterías, a los efectos de esta Ley, los juegos en los que se conceden premios en efectivo metálico o signo que lo represente, en el supuesto de que el número o números expresados en el billete en poder del jugador coincida, en todo o en parte, con el que se determine a través de un sorteo celebrado en la fecha que se especifica en el mismo.
+Sin perjuicio de lo señalado con anterioridad, reglamentariamente se fijarán los requisitos de las modalidades especiales de lotería, tales como bonoloto, instantánea y otras.
+2. El juego de boletos es aquel que, mediante la adquisición por un precio cierto de determinados boletos, en establecimientos autorizados al efecto, permite obtener, en su caso, el premio previamente determinado en el mismo. Esta modalidad de juego podrá practicarse bien de forma individualizada o bien combinada con otras, previamente determinadas en el boleto, y siempre con indicación del precio y premio que pueda corresponder.
+
+### Artículo 24
+
+Artículo 24. Apuestas.
+1. Dentro del concepto de apuesta regulado en el artículo 2.2 de esta Ley se comprenderá la modalidad denominada «apuesta-traviesa», como aquella en la que los apostantes son ajenos a los que intervienen en el acontecimiento condicionante del premio.
+2. Podrá autorizarse el cruce de apuestas dentro de los recintos en que se realicen determinadas competiciones, tales como hipódromos, canódromos, frontones y similares, con las condiciones que reglamentariamente se determinen.
+
+### Artículo 25
+
+Artículo 25. Rifas, tómbolas, combinaciones aleatorias y otros juegos.
+1. Corresponde al Departamento competente en materia de espectáculos y establecimientos públicos la autorización para la celebración de rifas, tómbolas, sorteos, campeonatos de naipes y demás juegos de envite, en las condiciones y con los requisitos que reglamentariamente se establezcan, incluso en los casos en que el producto de la actividad del juego se destine íntegramente a fines benéficos, filantrópicos o a la financiación de fiestas populares y otras similares.
+2. Los premios de las rifas y tómbolas necesariamente tendrán que ser en especie y no canjeables por dinero o signo que lo represente.
+3. No se exigirá autorización administrativa previa para la organización, celebración y desarrollo de combinaciones aleatorias con fines publicitarios o promocionales, cualquiera que sea la fórmula de loterías o juegos promocionales que revistan, siempre que la participación del público en estas actividades sea gratuita y en ningún caso exista sobreprecio o tarificación adicional alguna cualquiera que fuere el procedimiento o sistema a través del que se realice.
+Se modifica por el art. 13 del Decreto-ley 1/2010, de 27 de abril. Ref. BOA-d-2010-90041
+
+### Artículo 25 bis
+
+Artículo 25 bis. Concursos desarrollados en medios de comunicación e información.
+Corresponde al Departamento competente en la gestión administrativa de juego autorizar la oferta, desarrollo y celebración de concursos que se desarrollen por un medio de comunicación, ya sea de televisión, radio, internet u otro, siempre que la actividad de juego esté conexa o subordinada a la actividad principal y sus participantes realicen un desembolso económico, bien directamente o bien mediante llamadas telefónicas, envío de mensajes de texto o cualquier otro procedimiento electrónico, informático o telemático en el que exista una tarificación adicional. Los premios se concederán en metálico o en especie, siendo indiferente el hecho de que en la adjudicación de los premios intervenga no solamente el azar, sino también la superación de pruebas de competición o de conocimiento o destreza.
+No se entenderá por concurso aquellos programas en los que, aun existiendo premio, el concursante no realice ningún tipo de desembolso económico para participar, ya sea directamente o por medio de llamadas telefónicas, envío de mensajes de texto o cualquier otro procedimiento electrónico, informático o telemático en el que exista una tarificación adicional.
+Se añade por art. 44.4 de la Ley 3/2012, de 8 de marzo. Ref. BOE-A-2012-5203
+
+## TÍTULO III
+
+Empresas de juego y personas jugadoras
+Se modifica por el art. único.12 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+## CAPÍTULO I
+
+Requisitos comunes
+
+### Artículo 26
+
+Artículo 26. Empresas de juego.
+1. Previa la correspondiente autorización administrativa de la Comunidad Autónoma de Aragón, las personas físicas o jurídicas inscritas en los correspondientes registros podrán, con carácter exclusivo, organizar y explotar los juegos y apuestas, así como realizar las operaciones conexas a su actividad, tales como la recepción y distribución de material para el juego y la utilización y el mantenimiento de las máquinas e instrumentos necesarios para su práctica, en la forma que reglamentariamente se determine y sin perjuicio de las actividades complementarias de hostelería o esparcimiento señaladas en esta Ley y en las normas que la desarrollen.
+2. Sin perjuicio de lo señalado en el capítulo II de este título, para ejercer la actividad del juego y apuestas en la Comunidad Autónoma de Aragón, los titulares de las respectivas empresas deberán ser personas físicas o entidades mercantiles, salvo las excepciones contempladas en esta Ley, y ajustarse a los requisitos y condiciones que reglamentariamente se determinen. En todo caso, deberán cumplir, como mínimo, los requisitos siguientes:
+a) Tratándose de entidades mercantiles, deberán constituirse bajo la forma de sociedades anónimas o de responsabilidad limitada, con el exclusivo objeto de la explotación del juego, sin perjuicio de que puedan realizar las operaciones conexas o vinculadas señaladas en esta Ley o en su desarrollo reglamentario.
+b) Los estatutos sociales deberán reflejar las limitaciones contenidas en esta Ley, tanto en lo relativo al capital social como a la transferencia directa o indirecta de las empresas de juego, y en lo referente al tráfico de sus activos empresariales que sean elementos necesarios para la práctica del juego y apuestas. En cualquier caso, la transmisión de acciones o participaciones y operaciones asimiladas, señaladas en el artículo 16.8 de esta Ley, estarán sujetas a la condición de la previa autorización del Departamento de Presidencia y Relaciones Institucionales.
+3. Asimismo, la Comunidad Autónoma de Aragón podrá asumir la organización y explotación de juegos o apuestas, bien directamente, bien a través de organismos públicos y empresas públicas.
+Salvo en los supuestos contemplados en el párrafo anterior de este apartado, las personas adscritas o vinculadas por razón del servicio a los órganos administrativos a los que estén atribuidas las actuaciones gestoras en materia de juego o de su fiscalidad, no podrán ser titulares de las autorizaciones preceptivas para su explotación ni participar en el capital social de las entidades autorizadas. Dicha limitación personal se extenderá a sus cónyuges o personas con análoga relación de convivencia afectiva, ascendientes y descendientes en primer grado de consanguinidad o afinidad.
+4. Con independencia de los deberes de información tributaria que procedan, las empresas dedicadas a actividades de juego, de forma continuada o esporádica, estarán obligadas a facilitar a los Departamentos de Presidencia y Relaciones Institucionales y de Economía, Hacienda y Empleo toda la información que éstos recaben a fin de cumplir con las funciones de control, inspección, coordinación y estadística.
+
+### Artículo 27
+
+Artículo 27. Fianzas.
+1. Las empresas organizadoras y explotadoras de juego y apuestas deberán constituir, en la Caja General de Depósitos del Gobierno de Aragón, fianzas en metálico o mediante aval prestado por banco, caja de ahorros, cooperativas de crédito y sociedades de garantía recíproca o por contrato de seguro de caución con entidad aseguradora, que garanticen el cumplimiento de las obligaciones derivadas de esta ley, en los términos que reglamentariamente se determinen.
+2. Estas fianzas estarán afectas al pago de los tributos específicos sobre el juego, al pago de los premios y al cumplimiento de las responsabilidades económicas en que puedan incurrir como consecuencia de la aplicación del régimen sancionador previsto en la ley.
+3. Se establecerá reglamentariamente el plazo de devolución de la fianza, una vez que desaparezcan las circunstancias que dieron origen a su constitución.
+Se modifica por el art. único.13 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+## CAPÍTULO II
+
+De las distintas clases de empresas de juego
+
+### Artículo 28
+
+Artículo 28. Entidades o empresas titulares de casinos.
+1. Las entidades o empresas titulares de la explotación de casinos deberán reunir, como mínimo, los siguientes requisitos:
+a) Constituirse bajo la forma de sociedades anónimas, tener por objeto la explotación de un casino y, eventual o complementariamente, el desarrollo de actividades de promoción turística y hostelería.
+b) El capital social mínimo será de doscientos millones de pesetas y deberá estar totalmente desembolsado, tanto al tiempo de su constitución como en las futuras ampliaciones, y su cuantía real, entendiendo por tal su neto patrimonial, no podrá ser inferior a dicha cifra durante la vida de la sociedad.
+c) Las acciones representativas del capital social deberán ser nominativas, de una cuantía mínima de diez mil pesetas y con los demás requisitos que reglamentariamente se establezcan.
+d) El órgano de administración de la sociedad deberá ser colegiado y conformado por personas físicas.
+2. Salvo autorización expresa del Gobierno de Aragón ninguna persona física o jurídica podrá participar en el capital, ni ostentar cargos directivos o formar parte del órgano de administración en más de una sociedad explotadora de casinos de juego en el ámbito de la Comunidad Autónoma de Aragón.
+3. Los libros y registros contables específicos que deberán llevar las entidades explotadoras de casinos se regularán reglamentariamente.
+
+### Artículo 29
+
+Artículo 29. Entidades titulares de salas de bingo.
+1. Podrán ser titulares de empresas de bingo las entidades mercantiles constituidas al efecto bajo la forma de sociedades anónimas, cuyo principal objeto social sea la explotación de salas de bingo y cuyo capital social mínimo será de 150.000 euros, que habrá de estar totalmente desembolsado y representado por acciones nominativas.
+2. Se determinarán reglamentariamente las circunstancias y los requisitos para la obtención de la autorización de instalación y explotación de las salas de bingo.
+3. Las entidades citadas en el apartado 1.a) anterior podrán realizar la explotación del juego por sí o bien a través de empresas de servicio explotadoras, que habrán de constituirse como sociedades anónimas, con los requisitos señalados en el apartado 1.b) anterior. La superposición de sociedades explotadoras no comportará minoración de las responsabilidades del ente titular de la autorización frente a la Administración de la Comunidad Autónoma de Aragón.
+Se modifica por el art. único.6 de la Ley 4/2011, de 10 de marzo. Ref. BOE-A-2011-7333
+
+### Artículo 30
+
+Artículo 30. Empresas operadoras de máquinas de juego.
+1. Sólo podrán explotar las máquinas recreativas y de azar, en los locales autorizados de titularidad propia o ajena, las empresas operadoras debidamente autorizadas.
+2. A los efectos de esta Ley, tendrán la consideración de empresa operadora de máquinas recreativas las personas naturales o jurídicas que, previa autorización, estén inscritas en el registro correspondiente.
+Los casinos de juego y las salas de bingo tendrán la condición de empresas operadoras respecto de las máquinas instaladas dentro de sus respectivos locales.
+3. En el caso de personas jurídicas constituidas conforme a lo señalado en el artículo 26.2.a) anterior, su capital deberá estar totalmente desembolsado y dividido en participaciones o acciones nominativas.
+4. La autorización de empresa operadora se concederá por un período mínimo de diez años, renovable por iguales períodos.
+5. El órgano competente del Departamento de Presidencia y Relaciones Institucionales fijará las características de los documentos normalizados, en los que se especificarán la autorización y la relación existente entre el operador y el titular, por cualquier concepto, del establecimiento en que se encuentre instalada cada máquina de los tipos antes citados.
+6. Se fijarán reglamentariamente los requisitos y condiciones para la autorización de las modificaciones de los elementos objetivos, personales y de localización derivados del ejercicio de la actividad de las empresas operadoras.
+Redactado el apartado 2, conforme a la correción de errores publicada en el BOA núm.110, de 13 de septimbre de 2000. Ref. BOA-d-2000-90257
+
+### Artículo 30 bis
+
+Artículo 30 bis. Personas que realicen su actividad laboral en empresas de juego.
+Las personas físicas, comunidades de bienes o personas jurídicas, los accionistas y partícipes titulares de más del 25% del capital social y los administradores, así como las personas que realicen su actividad laboral o profesional en estas o en los locales autorizados para su práctica, deberán carecer de antecedentes penales por delitos contra la salud pública, de falsedad, de asociación ilícita, de contrabando, contra el patrimonio y contra el orden socioeconómico, contra la Administración Pública o contra la Hacienda Pública y la Seguridad Social, así como por cualquier infracción penal derivada de la gestión o explotación de juegos para los que no hubieran sido autorizados.
+Se añade por el art. único.14 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+## CAPÍTULO III
+
+De las personas jugadoras y prohibiciones de acceso a los locales de juego
+Se modifica por el art. único.15 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Artículo 31
+
+Artículo 31. Prohibiciones subjetivas.
+1. Se prohíbe la participación en los juegos y el acceso a los locales de juego objeto de esta ley a:
+a) Los menores de edad y a las personas respecto de las que se hayan establecido legal o judicialmente medidas de apoyo para el adecuado ejercicio de su capacidad jurídica de acuerdo con lo que establezca la normativa civil.
+b) Las personas voluntariamente inscritas en el Registro del Juego de Prohibidos de Aragón o en otros registros equivalentes existentes en el Estado español suscritos los correspondientes convenios de interconexión o que lo tengan prohibido por resolución judicial firme.
+2. En ningún caso podrán participar en los juegos autorizados en esta ley, directa o indirectamente a través de terceras personas, accionistas, partícipes o titulares de la propia empresa, su personal directivo, empleadas y empleados que tengan una intervención directa en el juego, así como las personas a que se refiere el artículo 26.3, salvo lo dispuesto para ascendientes y descendientes en primer grado de consanguinidad o afinidad.
+3. Tampoco podrán participar, directa o indirectamente, en las apuestas, deportistas, sus agentes, entrenadoras y entrenadores, juezas y jueces, árbitras y árbitros, las personas que participen en los recursos contra las decisiones de aquellos o cualquier otra persona que pueda tener interés personal directo, participe directamente en el acontecimiento o actividad objeto de apuesta o pueda influir en su resultado, como los directivos de las entidades deportivas que participen u organicen el acontecimiento o actividad deportiva.
+Se modifica por el art. único.16 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Artículo 32
+
+Artículo 32. Personas jugadoras.
+1. Las personas jugadoras incluidas en el ámbito de esta ley tienen los siguientes derechos:
+a) A obtener información clara y veraz sobre las reglas del juego en el que desea participar, precios, apuestas máximas y mínimas y premios en los establecimientos autorizados para la instalación de elementos de juego.
+b) A recibir información en los establecimientos autorizados para la instalación de elementos de juego sobre la práctica de juego responsable y las posibles consecuencias de la práctica del juego.
+c) A tener acceso directo, en los establecimientos autorizados para la instalación de elementos de juego, a los folletos informativos de prevención e información sobre el trastorno por juego autorizados por la Administración, que incluirán autotest, para que el jugador pueda conocer si presenta comportamientos de riesgo de juego patológico, e información de las dependencias oficiales en las que puede solicitar la inscripción en el Registro del Juego de Prohibidos de Aragón, y del procedimiento para acceder al tratamiento o ayuda frente a los trastornos por juego.
+d) A recibir información facilitada por la Administración sobre los recursos públicos y las entidades públicas o privadas que tengan como objeto la prevención y el tratamiento del trastorno por juego.
+e) Al cobro de los premios que les pudiera corresponder, en el tiempo y forma establecidos, de conformidad con la normativa específica de cada juego.
+f) A tener a su disposición, en los establecimientos autorizados para la instalación de elementos de juego, las hojas de reclamaciones y, en su caso, a la formulación de las quejas que se estime oportunas.
+g) A que su identificación, consulta en el Registro del Juego de Prohibidos de Aragón y anotación en el Libro de visitantes del local de juego se realicen de manera segura, mediante la exhibición del DNI, NIE o documento oficial de identificación personal del país de origen con fotografía, con sujeción a las disposiciones vigentes relativas a la protección de datos de carácter personal.
+2. Las personas participantes en los juegos incluidos en el ámbito de esta ley tienen las siguientes obligaciones:
+a) Identificarse mediante la exhibición del DNI, NIE o documento oficial de identificación personal del país de origen con fotografía, previo al acceso al local de juego, a los efectos de garantizar el cumplimiento de los requisitos de control de acceso de identificación, comprobación de que no consta inscrito en el Registro del Juego de Prohibidos de Aragón y anotación en el Libro de visitantes del local.
+b) Cumplir las normas y reglas de juego.
+c) Respetar el derecho de admisión de los locales, así como el orden y el normal desarrollo de los juegos.
+d) Utilizar de manera apropiada los elementos y el material de juego del establecimiento y mantener una actitud respetuosa hacia el personal de los locales y hacia el resto de las personas jugadoras.
+3. Los establecimientos autorizados para la práctica de juegos deberán tener las hojas de reclamaciones exigidas por la legislación vigente. Dichas hojas de reclamaciones estarán a disposición de las jugadoras y los jugadores. En dicha hoja se explicará el procedimiento a seguir para llevar a cabo la reclamación por parte del jugador o jugadora en lenguaje accesible.
+4. Los titulares de los establecimientos donde se practiquen los juegos podrán ejercer el derecho de admisión, de acuerdo con la normativa de espectáculos públicos.
+Se modifica por el art. único.17 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Artículo 33
+
+Artículo 33. Servicio de control de acceso y llevanza del Libro de visitantes del local y Registro del Juego de Prohibidos de Aragón.
+1. Los locales de juego, con excepción de los salones recreativos, deberán disponer de un Servicio de control de acceso y llevanza del Libro de visitantes situado en la entrada de cada una de las puertas de acceso del establecimiento, para impedir la entrada de menores y de personas inscritas en el Registro del Juego de Prohibidos de Aragón.
+2. A los efectos de esta ley, se entiende por Servicio de control de acceso y llevanza del Libro de visitantes el espacio habilitado en los locales de juego para la previa identificación de todas las personas que desean acceder al local por la persona empleada del establecimiento, que podrá estar asistida por un sistema de control de acceso debidamente homologado y autorizado.
+3. La identificación previa al acceso al local se realizará mediante la entrega por el cliente a la persona responsable del local de juego, de su DNI o NIE, para la comprobación de su edad e inmediata consulta en el Registro del Juego de Prohibidos de Aragón y posterior anotación en el Libro de visitantes del local, sin que ninguna persona pueda acceder al interior del local ni hacer uso de los elementos de juego sin el previo control de identificación, con la correspondiente comprobación de la equivalencia de los rasgos físicos del portador del documento con la fotografía del documento oficial que entrega el visitante, y la consulta en el Registro del Juego de Prohibidos de Aragón y anotación en el Libro de visitantes del local.
+Las personas visitantes que no dispongan de DNI o NIE se identificarán mediante documento oficial de identificación personal del país de origen con fotografía, para su identificación, comprobación de su edad e inmediata consulta exclusivamente de su nombre y apellidos en el Registro del Juego de Prohibidos de Aragón y anotación en el Libro de visitantes del local.
+Del incumplimiento de estas obligaciones será responsable el titular de la autorización de funcionamiento del local de juego.
+4. Por Orden de la persona titular del departamento competente en la gestión administrativa del juego, se fijarán las funcionalidades y condiciones técnicas y el procedimiento de homologación y autorización de los sistemas informáticos automatizados de control de identificación, consulta en el Registro del Juego de Prohibidos de Aragón y anotación en el Libro de visitantes.
+5. En todo caso, la persona jugadora deberá portar su DNI, NIE o documento oficial de identificación personal del país de origen con fotografía para permitir su acceso al establecimiento.
+6. Los locales de juego, con carácter previo a su apertura, mantendrán diariamente actualizado el Registro del Juego de Prohibidos de Aragón.
+Del incumplimiento de esta obligación será responsable el titular de la autorización de funcionamiento del local de juego.
+7. Únicamente dispondrán de acceso a los datos contenidos en el Registro del Juego de Prohibidos de Aragón las personas funcionarias en el ejercicio de sus competencias.
+8. Las inscripciones practicadas en el Registro del Juego de Prohibidos de Aragón, a instancia de las personas interesadas, podrán formalizarse de manera presencial o mediante sistemas de identificación electrónica autorizados, conforme a la legislación de procedimiento administrativo común. La inscripción será por tiempo indefinido y para todo tipo de juego, con independencia del canal de comercialización del juego. No obstante, la persona interesada podrá solicitar la cancelación de la inscripción transcurridos seis meses desde la práctica de la misma.
+Las inscripciones practicadas en el Registro del Juego de Prohibidos de Aragón a instancia de un tercero o por resolución judicial se formalizarán por el tiempo que se establezca en las resoluciones de las que traigan causa. En el caso de que no se señale plazo, la inscripción se formalizará por tiempo indefinido.
+9. La función de anotación en el Libro de visitantes se realizará por la persona empleada del local, a través de un sistema informático, registrando, únicamente, el nombre y apellidos, el tipo y el número de documento de identificación de la persona usuaria, así como la fecha y hora de acceso.
+Los datos contenidos en el Libro de visitantes son para uso exclusivo de control de acceso de visitantes, se ajustarán a la normativa de protección de datos, no podrán ser manipulados, tendrán carácter confidencial e intransferible y no podrán ser utilizados para ninguna otra finalidad distinta del control de acceso. Los datos anotados se conservarán durante un periodo de doce meses y podrán ser consultados, en todo momento, por el personal funcionario de inspección de juego y remitidos al órgano competente en materia de gestión de juego y a los órganos judiciales, a requerimiento de estos, con motivo de un procedimiento administrativo o judicial abierto.
+El sistema informático del Libro de visitantes deberá permitir la extracción de la totalidad de su contenido en soporte informático, a solicitud de la inspección de juego.
+10. La persona titular y las trabajadoras y los trabajadores del local de juego prestarán la colaboración requerida por la inspección de juego.
+11. La persona titular del local de juego informará por escrito a las trabajadoras y los trabajadores del local de sus obligaciones normativas para el correcto control de acceso, firmando su conformidad la empleada o el empleado. Dicha información será visada con carácter previo por el órgano competente en la gestión administrativa del juego. Dicha información visada se colocará de forma visible para las personas usuarias y empleadas en el Servicio de control de acceso y llevanza del Libro de visitantes.
+Se modifica por el art. único.18 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+ Téngase en cuenta, sobre regimen sancionador, la disposición transitoria séptima de la citada ley.
+
+## TÍTULO IV
+
+De la inspección y control
+
+## CAPÍTULO I
+
+De la inspección
+
+### Artículo 34
+
+Artículo 34. Órganos de control.
+1. Corresponde al departamento competente en la gestión administrativa del juego la competencia para la inspección, comprobación e investigación de las actividades relacionadas con el juego y apuestas, en el ámbito territorial de la Comunidad Autónoma de Aragón.
+Dichas funciones se extenderán, en la forma que reglamentariamente se determine, a los aspectos administrativos y técnicos regulados en esta ley.
+2. El departamento competente en la gestión administrativa del juego podrá habilitar a determinados funcionarios públicos para realizar las funciones de comprobación e inspección del juego y apuestas.
+Dichos funcionarios tendrán, en el ejercicio de sus funciones, la consideración de agentes de la autoridad, y gozarán como tales de la protección que les dispensa la legislación vigente, estando facultados para acceder a los establecimientos y locales de juego y examinar todo aquello que pueda servir de información para el cumplimiento de sus funciones, como el material y elementos de juego, los elementos auxiliares y conexos a la actividad de juego y demás soportes técnicos e informáticos, libros, registros, documentos, grabaciones y datos de personas físicas que resulten necesarios para el estricto cumplimiento de sus funciones de inspección y control de la normativa de juego. El resultado de la inspección se hará constar en un acta.
+Se modifica por el art. único.19 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Artículo 35
+
+Artículo 35. De la función inspectora.
+1. Los funcionarios integrados en la Inspección del Juego y apuestas realizarán, entre otras, las funciones siguientes:
+a) Vigilar el cumplimiento de lo previsto en la presente Ley y en sus disposiciones de desarrollo.
+b) Controlar y descubrir, en su caso, posibles supuestos de juego clandestino.
+c) Incoar las diligencias, actas de inspección y de constancia de hechos y por presunta comisión de infracciones administrativas, para su tramitación por el órgano competente.
+d) Proceder al precinto y comiso de los elementos irregularmente utilizados en la práctica del juego y, en su caso, previo el trámite de audiencia a los interesados y demás comprobaciones oportunas, a la clausura provisional de los locales.
+e) Realizar la comprobación de documentos, libros y demás registros administrativos y contables relacionados con la actividad del juego.
+f) Las demás actuaciones que reglamentariamente se determinen.
+2. Los funcionarios habilitados para la Inspección del Juego quedan facultados para examinar las máquinas, utensilios, documentos y todos los demás elementos que puedan servir de información para el mejor cumplimiento de sus funciones.
+3. Las diligencias y actas señaladas en el apartado 1.c) anterior incoadas por los funcionarios a los que se encomiende la comprobación e inspección del juego, tendrán naturaleza de documento público a efectos de la eficacia probatoria de los hechos que motiven su formalización, salvo prueba en contrario.
+4. Se elaborará un Plan de inspección cuatrienal que incluya la organización de la actividad para cubrir la dispersión geográfica de nuestra comunidad, la dotación de recursos apropiada y un plan de formación del personal inspector. Anualmente se elaborará una memoria que recogerá las inspecciones y sanciones, incluyendo prescripciones y procedimientos tanto en curso como caducados que se hayan llevado a cabo, así como la evaluación y las propuestas de mejora de la acción inspectora.
+Se añade el apartado 4 por el art. único.20 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+## CAPÍTULO II
+
+De la colaboración en la actuación inspectora
+
+### Artículo 36
+
+Artículo 36. Del deber de colaboración.
+Las personas físicas, los representantes legales de las personas jurídicas titulares de las autorizaciones o de los establecimientos y locales de juego y todas las personas empleadas que se encuentren en el local tienen la obligación de facilitar a la inspección, en el ejercicio de sus funciones, el acceso y la comprobación del local, así como de proporcionar la información y la documentación relativa a la actividad de juego.
+Corresponde al titular de local de juego garantizar la conservación de los soportes de almacenamiento empleados para la grabación audiovisual durante un periodo de tres meses.
+Se modifica por el art. único.21 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Artículo 37
+
+Artículo 37. Órganos de colaboración.
+1. Las competencias en materia de inspección, comprobación e investigación del juego y apuestas a que se refiere el presente Título podrán ejercitarse en régimen de colaboración, previos los correspondientes convenios, por los agentes de los Cuerpos y Fuerzas de Seguridad del Estado, que podrán quedar adscritos funcionalmente al Departamento de Presidencia y Relaciones Institucionales, sin perjuicio de su dependencia orgánica.
+2. Igualmente, se determinarán reglamentariamente las condiciones y requisitos de los procedimientos de colaboración con los órganos de las entidades locales que tengan atribuidas competencias en materia de policía administrativa conexas a la actividad del juego, así como para la sustanciación de las denuncias y comunicaciones provenientes de las asociaciones y organizaciones de consumidores y entidades asimiladas.
+
+## TÍTULO V
+
+Del régimen sancionador
+
+## CAPÍTULO I
+
+De las infracciones
+
+### Artículo 38
+
+Artículo 38. Infracciones administrativas.
+1. Constituirán infracciones administrativas las acciones u omisiones tipificadas que contravengan lo establecido en la presente Ley y en la normativa que la desarrolle. Dichas infracciones serán sancionables incluso si se derivan de simple negligencia.
+2. Las infracciones administrativas en materia de juego se clasifican en muy graves, graves y leves.
+3. Un mismo hecho no podrá ser considerado como constitutivo de infracciones diferentes en materia de juego, sin perjuicio de que pueda concurrir infracción tributaria.
+Cuando una acción u omisión sea subsumible en varios tipos de infracción, el órgano administrativo competente adoptará la sanción que corresponda al tipo de infracción más grave, tomando en consideración como circunstancias agravantes las demás infracciones cometidas.
+Cuando de la comisión de una infracción se derive necesariamente la comisión de otra u otras, se deberá imponer únicamente la sanción correspondiente a la infracción más grave cometida.
+4. Será sancionable como infracción continuada la realización de una pluralidad de acciones u omisiones que infrinjan el mismo o semejantes preceptos administrativos, en ejecución de un plan preconcebido o aprovechando idéntica ocasión. En estos supuestos, el responsable será sancionado con la multa correspondiente a la infracción cometida en su máxima cuantía.
+
+### Artículo 39
+
+Artículo 39. Infracciones muy graves.
+Son infracciones muy graves:
+a) La práctica tolerada de juegos de envite o de azar por personas físicas o jurídicas o en entidades públicas o privadas, sin ánimo de lucro, en los que la actividad de juego no esté comprendida en su objeto social, ni forme parte de sus actividades estatutarias, cuando la suma total de apuestas en cada jugada iguale o supere el 50 % del importe mensual del salario mínimo interprofesional o si el total de las apuestas admitidas a una jugadora o jugador en un periodo de veinticuatro horas iguala o supera el 100 % de dicho salario.
+b) La organización, celebración o explotación de juegos que tengan la consideración de prohibidos.
+c) La organización, celebración, explotación o venta de boletos, cartones o participaciones de los juegos incluidos en el ámbito de aplicación de esta ley, así como consentir expresa o tácitamente las anteriores conductas, careciendo de la autorización o sin haber formulado la declaración responsable o comunicación previa correspondiente, así como la práctica de los mismos fuera de los locales o recintos autorizados al efecto o mediante personas, medios, instrumentos, elementos no autorizados, ni homologados.
+d) La falta de homologación de los elementos complementarios o conexos a la actividad del juego referidos en el artículo 6.5 de esta ley o su modificación sin la previa homologación.
+e) La fabricación, importación, distribución o comercialización de máquinas, material y juegos no homologados ni autorizados.
+f) La fabricación, almacenamiento, distribución o comercialización de máquinas, material de juego y juegos distintos de los autorizados o su sustitución o manipulación, así como la utilización de los no homologados.
+g) La instalación o explotación de máquinas de juego, material de juego y juegos careciendo de la preceptiva autorización, comunicación o en número que exceda del autorizado o comunicado.
+h) La utilización de documentos y datos falsos para obtener los permisos o autorizaciones necesarios, así como la vulneración de las normas y condiciones por las que se concedieron dichas autorizaciones.
+i) La manipulación o alteración de juegos, de las competiciones sobre las que se basen las apuestas y elementos y material de juego, tendentes a alterar los resultados, la distribución de premios, los porcentajes establecidos para cada tipo de juego, así como el importe de los premios.
+j) Utilizar documentos y aportar datos falsos en la realización de declaraciones responsables o comunicaciones previas.
+k) Completar el importe de los premios al margen de las normas establecidas o autorizaciones concedidas.
+l) La transferencia indebida, directa o indirecta, de las autorizaciones concedidas, salvo con las condiciones o requisitos establecidos en esta ley y demás normas de desarrollo.
+m) Permitir o tolerar el acceso a los locales de juego a los menores de edad, a las personas inscritas en el Registro del Juego de Prohibidos de Aragón y a quienes lo tengan prohibido, en virtud de la presente ley y de las disposiciones que la desarrollen.
+n) Permitir o consentir el titular o el empleado de los establecimientos señalados en el artículo 21.5 de la ley que los menores o personas inscritas en el Registro del Juego de Prohibidos de Aragón jueguen en las máquinas y demás elementos de juego con premio en dinero o en cualesquiera transferencias económicamente evaluables.
+ñ) La participación en el juego como personas jugadoras de aquellas a las que se refiere el artículo 31, apartados 2 y 3 de esta ley, tanto si dicha participación se efectúa directamente o mediante persona interpuesta.
+o) El incumplimiento de las obligaciones señaladas en el artículo 33, apartados 1 a 3 y 6 de esta ley.
+p) La falta de Libro de visitantes exigido en esta ley a los locales de juego, a excepción de los salones recreativos, el incumplimiento de la obligación de inscripción de todos los visitantes que accedan al local de juego en el Libro de visitantes o su llevanza incompleta o inexacta.
+q) Conceder préstamos o cualquier otra modalidad de crédito, incluido el uso de tarjeta de crédito para intercambiar por efectivo con el que jugar, así como conceder asistencia financiera a particulares y a las personas que acceden a los establecimientos y locales en que tenga lugar la actividad de juego, mediante la entrega de dinero a crédito para el jugador, por parte de las personas titulares u organizadoras de las actividades de juego o por parte de las personas al servicio de estas, empleadas o empleados o directivos de los locales.
+r) El impago total o parcial de los premios que corresponden a quienes participen en los juegos.
+s) La resistencia, obstrucción, excusa o negativa a la función inspectora, de control y vigilancia realizada por agentes de la autoridad y personal funcionario encargados o habilitados específicamente para el ejercicio de tales funciones, así como la ocultación o destrucción de la información, documentos o soportes de la misma.
+t) La comisión de una infracción grave cuando, en los dos años inmediatamente anteriores, se haya sido sancionado con carácter firme en vía administrativa por otras dos infracciones graves.
+Se modifica por el art. único.22 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+ Téngase en cuenta, sobre regimen sancionador, la disposición transitoria octava de la citada ley.
+
+### Artículo 40
+
+Artículo 40. Infracciones graves.
+Son infracciones graves:
+a) La transferencia, inutilización o desguace de máquinas, elementos y material de juego sin autorización o incumpliendo las condiciones reglamentariamente establecidas.
+b) El incumplimiento de las normas técnicas y de funcionamiento de los juegos de las máquinas, material de juego y juegos homologados o de los elementos complementarios o conexos a la actividad de juego autorizados, conforme a la presente ley y a sus disposiciones de desarrollo.
+c) Permanecer abierto al público con su actividad y las máquinas o material de juego en funcionamiento fuera de su horario de apertura y cierre autorizado o mantener en funcionamiento las máquinas de juego y material de juego instalados fuera de los horarios establecidos.
+d) Efectuar la promoción, patrocinio y publicidad de las actividades y locales objeto de esta ley, cuando quienes lo realicen carezcan de título habilitante o se difundan con infracción de las condiciones y límites fijados en el mismo, así como infringir las normas vigentes en esta materia, cualquiera que sea el medio que se utilice para ello.
+e) Permitir que los elementos de juego sean visibles desde el exterior del establecimiento o mantener las puertas de los locales de juego abiertas.
+f) Reducir el capital de las empresas de juego o apuestas obviando los límites establecidos.
+g) Incumplir la persona titular del local de juego las obligaciones señaladas en el artículo 33.11 de esta ley.
+h) No remitir al órgano competente en materia de juego los datos o documentos que se requieran por la legislación de juego.
+i) La comisión de una infracción leve cuando, en el plazo de los dos años inmediatamente anteriores, se hubiera sido sancionado con carácter firme en vía administrativa por otras dos infracciones leves.
+Se modifica por el art. único.23 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+ Se añade la letra ñ) por el art. 31.8 de la Ley 10/2012, de 27 de diciembre. Ref. BOE-A-2013-1424
+ Se añade la letra m) bis por el art. único.2 de la Ley 4/2003, de 24 de febrero. Ref. BOE-A-2003-5694ñ) La realización de actividades de juego sin la comunicación previa prevista en la presente Ley.
+
+### Artículo 41
+
+Artículo 41. Infracciones leves.
+1. Son infracciones leves:
+a) No exhibir en los locales de juego, así como en las máquinas de juego, los documentos acreditativos de su autorización.
+b) El incumplimiento de las obligaciones de información previstas en los apartados 4 y 6 del artículo 12 y el apartado 3 del artículo 22 de la presente ley y disposiciones de desarrollo.
+c) La ausencia de hojas de reclamaciones en los locales autorizados para el juego y la negativa a ponerlas a disposición de quien las reclame.
+d) La omisión por parte de la persona jugadora o visitante de la colaboración debida a los funcionarios o fuerzas y cuerpos de seguridad, en el ejercicio de sus funciones.
+e) La comisión de irregularidades en la práctica del juego que, suponiendo un perjuicio para la persona o entidad organizadora del mismo o para terceros, no estén tipificadas como infracción grave o muy grave.
+f) El incumplimiento de las obligaciones, requisitos o prohibiciones establecidos en la presente ley que no esté tipificado como infracción grave o muy grave cuando no opere como elemento de agravación de las sanciones.
+2. Dentro de los límites exigidos por el principio de legalidad, la especificación de las conductas constitutivas de infracciones leves podrá concretarse en los reglamentos reguladores de las distintas clases de juego.
+Se modifica por el art. único.24 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Artículo 42
+
+Artículo 42. Prescripción de las infracciones.
+1. Las infracciones leves prescribirán a los seis meses, las graves a los dos años y las muy graves a los cuatro.
+2. El cómputo del plazo de prescripción de las infracciones comenzará a contarse desde el día en que la infracción se hubiera cometido.
+3. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de seis meses por causa no imputable al presunto responsable.
+4. El transcurso de los plazos señalados en los apartados anteriores determinará de oficio la cancelación de los respectivos procedimientos de calificación y sanción.
+
+### Artículo 43
+
+Artículo 43. Responsables de las infracciones.
+1. Son responsables de las infracciones tipificadas en esta ley las personas físicas o jurídicas que las cometan, a excepción de las infracciones contempladas en los apartados m), n), o), p) y q) del artículo 39 y apartados c) y e) del artículo 40 de esta ley, de cuyo incumplimiento será responsable el titular del local de juego.
+2. En el supuesto de infracciones cometidas en el desempeño de su trabajo por los empleados, directivos o administradores de empresas de juego, responderán, solidariamente con estos, los titulares de las respectivas entidades,
+3. Asimismo, responderán solidariamente de las infracciones reguladas en esta ley quienes sean causantes o colaboren en la comisión de conductas calificadas como tales.
+Se modifica por el art. único.25 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Artículo 44
+
+Artículo 44. Supuestos de exclusión de responsabilidad.
+No darán lugar a responsabilidad por infracción en materia de juego las acciones u omisiones tipificadas como tales en esta Ley, en los siguientes supuestos:
+a) Cuando se realicen por quienes carezcan de capacidad de obrar.
+b) Cuando concurra fuerza mayor.
+c) Cuando deriven de una decisión colectiva, para quienes hubieran salvado su voto o no hubieran asistido a la reunión en que se adoptó la misma.
+
+## CAPÍTULO II
+
+De las sanciones
+
+### Artículo 45
+
+Artículo 45. Sanciones.
+1. La comisión de las infracciones tipificadas en los artículos anteriores determinará la imposición de sanciones pecuniarias y de otra índole, de conformidad con lo regulado en esta Ley, y todo ello sin perjuicio de las sanciones que procedan por la comisión de infracciones tributarias.
+2. Las sanciones pecuniarias se exigirán de acuerdo con la siguiente escala:
+– Las muy graves, con multa de hasta 600.000 euros.
+– Las graves, con multa de hasta 60.000 euros.
+– Las leves, con multa de hasta 3.000 euros.
+3. En los casos de infracciones calificadas como muy graves y graves, y en consideración a las circunstancias que concurran en cada supuesto, podrán imponerse, además de las multas señaladas con anterioridad, las sanciones administrativas accesorias siguientes:
+a) La suspensión, cancelación temporal por período máximo de dos años o revocación definitiva de la autorización para el establecimiento de empresas o la celebración, organización o explotación de juegos y apuestas.
+b) La suspensión por un período máximo de un año o revocación definitiva de las autorizaciones de explotación de máquinas de juego, así como la suspensión del permiso de explotación de estas, en los establecimientos de hostelería, de juego de bingo o de otra índole, por un período máximo de un año o de forma definitiva, dependiendo de la reiteración.
+c) La clausura definitiva o temporal, por un período máximo de dos años, del establecimiento donde tenga lugar la explotación del juego o apuesta, y la inhabilitación definitiva del mismo para actividades del juego.
+d) La inhabilitación temporal o definitiva, para ser titular de autorizaciones respecto del juego y apuestas.
+e) El decomiso y, adquirida firmeza la sanción, la destrucción o inutilización, en su caso, de las máquinas o elementos de juego utilizados para la comisión de las conductas objeto de la infracción.
+4. En las empresas o establecimientos en los que su objeto o actividad principal no sea el juego o las apuestas, no podrán imponerse sanciones accesorias de clausura temporal de los mismos, si bien podrá acordarse la retirada o precintado de los elementos de juego y, previo trámite de audiencia a los interesados y demás comprobaciones oportunas, la prohibición de instalaciones y el cese de las actividades de juego o apuestas.
+Se modifican los apartados 2 y 3.b) por el art. único.26 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Artículo 46
+
+Artículo 46. Publicidad de las sanciones.
+Cuando se imponga una sanción grave o muy grave a una persona física o jurídica por infracción del ordenamiento del juego, ésta, una vez adquirida firmeza, será publicada en el «Boletín Oficial de Aragón».
+
+### Artículo 47
+
+Artículo 47. Graduación de las sanciones.
+Para la imposición y graduación de las sanciones se ponderarán las circunstancias personales o materiales que concurran en cada supuesto, teniendo en cuenta la trascendencia económica y social de la conducta infractora y la reincidencia o reiteración, en su caso, aplicándose criterios de proporcionalidad, sin que la sanción pueda ser inferior al triplo del beneficio ilícitamente obtenido mediante la comisión de dicha conducta infractora.
+
+### Artículo 48
+
+Artículo 48. Órganos competentes para la imposición de sanciones.
+Corresponderá imponer las sanciones:
+a) Al Gobierno de Aragón, las multas superiores a 50.000.000 de pesetas y todas aquellas que lleven aparejadas las sanciones accesorias que supongan revocación definitiva de las correspondientes autorizaciones administrativas, la clausura definitiva del local y la inhabilitación definitiva para ser titular de autorización de juego o apuestas.
+b) Al Consejero de Presidencia y Relaciones Institucionales, las multas comprendidas entre 5.000.001 y 50.000.000 de pesetas, así como las que, siendo inferiores a 5.000.001 pesetas, lleven aparejadas las sanciones accesorias recogidas en el artículo 45.3, apartados a), b), c) y d), con la excepción de las reservadas al Gobierno de Aragón recogidas en el apartado anterior.
+c) Al Director general de Política Interior, las multas comprendidas entre 500.001 y 5.000.000 de pesetas, así como las que, siendo inferiores a 500.001 pesetas, lleven aparejadas las sanciones accesorias recogidas en el artículo 45.3.e). Para estas mismas cuantías serán competentes los Delegados Territoriales del Gobierno de Aragón en Teruel y Huesca, siempre dentro de sus respectivos ámbitos territoriales.
+d) A los Jefes de Servicio a los que esté encomendada la gestión administrativa del juego, les compete la imposición de sanciones de hasta 500.000 pesetas.
+
+### Artículo 49
+
+Artículo 49. Procedimiento.
+1. En los supuestos de faltas muy graves o graves, la potestad sancionadora se ejercerá de acuerdo con el siguiente procedimiento:
+a) La iniciación será siempre de oficio, por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, petición razonada de otros órganos o por denuncia, designándose instructor al respecto.
+b) El acuerdo de iniciación se comunicará al instructor y a los interesados, a quienes se pondrá de manifiesto el expediente por un plazo no inferior a quince días, para aportar cuantas alegaciones, documentos e informes estimen convenientes y para proponer, en su caso, las pruebas que consideren oportunas.
+c) Cuando el instructor estime que los hechos denunciados o alegados no estuvieran suficientemente acreditados, podrá acordar, de oficio o a instancia de parte, la apertura de un período de prueba por plazo no superior a treinta días ni inferior a diez.
+d) Transcurrido el plazo para formular alegaciones a que se refiere el apartado b) anterior, o concluida, en su caso, la fase probatoria, el instructor formulará propuesta de resolución en la que se fijarán las circunstancias de hecho y se determinará, de forma motivada, la infracción que, en su caso, se derive de tales hechos, así como los responsables, especificándose, también motivadamente, la sanción que se propone imponer y las medidas cautelares que se hubieran adoptado por el órgano competente para iniciar el procedimiento.
+A la vista de lo actuado, la propuesta de resolución correspondiente se notificará a los interesados, concediéndoseles un plazo de quince días para formular alegaciones y presentar los documentos que estimen pertinentes.
+2. En el supuesto de falta leve, se observará lo establecido en el apartado anterior, a excepción de lo indicado en la letra c). En tales casos bastará para iniciar el procedimiento la propia acta incoada por los servicios de inspección, en cuyo caso, el inspector actuario podrá tener la consideración de instructor del expediente.
+3. Sin perjuicio de lo señalado en el artículo 45.3, cuando existan indicios de infracción grave o muy grave, se podrá acordar, como medida cautelar, el cierre temporal del establecimiento en el que se practique el juego y el precinto, depósito o incautación de los materiales y elementos usados para su práctica, así como la incautación del dinero ilícitamente obtenido.
+4. Los inspectores actuarios que lleven a cabo las actuaciones de comprobación o investigación podrán, por sí mismos, adoptar, como medida cautelar urgente, la incautación o precinto de las máquinas de juego que carezcan de los requisitos establecidos en esta Ley o que infrinjan los límites de apuestas o premios, así como las instaladas en locales no autorizados y de otros elementos o materiales de juego utilizados para la práctica de los no autorizados, lo que se hará constar en el acta incoada al efecto. Dicha medida deberá ser ratificada, en su caso, por el órgano competente al sustanciar el expediente sancionador.
+5. El plazo máximo en el que debe resolverse el procedimiento sancionador será de doce meses, salvo que hubieran sido suspendidas las actuaciones por alguna causa de las previstas en la legislación básica sobre procedimiento administrativo.
+Transcurrido dicho plazo, el órgano competente emitirá, a solicitud del interesado, certificación en la que conste que ha caducado el procedimiento y se ha procedido al archivo de las actuaciones.
+6. Las resoluciones que sean firmes en vía administrativa serán inmediatamente ejecutivas.
+7. Contra la resolución dictada por el órgano competente en el expediente sancionador podrán interponerse los recursos que procedan de acuerdo con lo previsto en la legislación básica del procedimiento administrativo común.
+Se modifica el primer párrafo del apartado 5 por el art. único.27 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+## TÍTULO VI
+
+La Comisión del Juego de la Comunidad Autónoma de Aragón
+
+## CAPÍTULO ÚNICO
+
+Creación y funciones
+
+### Artículo 50
+
+Artículo 50. Creación.
+1. Se crea la Comisión del Juego de la Comunidad Autónoma de Aragón, adscrita al Departamento de Presidencia y Relaciones Institucionales, como órgano consultivo, de estudio, asesoramiento y coordinación de las actividades relacionadas con el juego y apuestas en el ámbito territorial de esta Comunidad.
+2. La citada Comisión estará presidida por el Consejero de Presidencia y Relaciones Institucionales, y su estructura, funcionamiento y composición se determinarán reglamentariamente. En todo caso, estarán representados los Departamentos del Gobierno de Aragón con competencias relacionadas con el juego, así como las organizaciones sindicales y empresariales más representativas y las asociaciones tanto de defensa de los consumidores como de las personas afectadas por ludopatía.
+3. En el seno de la Comisión, podrán constituirse grupos de trabajo de las distintas clases de juego y apuestas, en los que podrán estar representados las empresas y trabajadores del sector, el Consejo Aragonés de la Juventud y las unidades o centros universitarios especializados en la investigación, prevención y tratamiento del trastorno por juego. En su composición, se procurará una presencia equilibrada de mujeres y hombres en la designación de las personas integrantes de dichos grupos de trabajo que no lo sean por razón de su cargo.
+Se modifica el apartado 3 por el art. único.28 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Artículo 51
+
+Artículo 51. Funciones.
+1. Corresponde a la Comisión del Juego de la Comunidad Autónoma de Aragón, con independencia de las que, en su caso, reglamentariamente se determinen, las siguientes facultades y funciones:
+a) Informar preceptivamente todas las disposiciones reglamentarias dictadas en desarrollo y aplicación de esta Ley.
+b) Informar los acuerdos para la instalación de nuevos casinos de juego y modificación de autorizaciones.
+c) Informar, en su caso, las propuestas de sanción en las infracciones calificadas como muy graves, cuando así se le solicite.
+d) Elaborar la Memoria e Informe anual sobre el desarrollo del juego en la Comunidad Autónoma de Aragón.
+e) Emitir cualquier otro informe en materia de juego y apuestas que le sea requerido en el ámbito de su actividad.
+f) Evaluar los efectos de la aplicación de la ley y de las medidas planteadas, con el objetivo de ir depurando los procedimientos y técnicas que se plantean.
+g) Consensuar medidas para hacer efectivo el juego responsable.
+2. El Gobierno de Aragón dictará las disposiciones precisas para el funcionamiento de esta Comisión, que adoptará su propio reglamento de régimen interior.
+Se añaden las letras f) y g) al apartado 1 por el art. único.29 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+## TÍTULO VII
+
+Comisión Técnica Interdepartamental de Políticas de Juego
+Se añade por el art. único.30 de Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+ Se deroga por la disposición derogatoria única.2 del Decreto Legislativo 1/2004, de 27 de julio. Ref. BOA-d-2004-90019
+
+## CAPÍTULO I
+
+Constitución y elementos objetivos y subjetivos
+
+### Artículo 52
+
+Artículo 52. Creación y funciones de la Comisión Técnica Interdepartamental de Políticas de Juego.
+1. Se crea la Comisión Técnica Interdepartamental de Políticas de Juego, como órgano consultivo colegiado con el fin de coordinar la política del Gobierno en materia de juego.
+2. La Comisión Técnica Interdepartamental de Políticas de Juego se adscribe al departamento competente en la gestión administrativa del juego, bajo la presidencia de la persona titular de la dirección general con competencias en la gestión administrativa del juego, y estará constituida por representantes de los departamentos con competencias en sanidad, educación y derechos sociales.
+3. Su composición, organización y funcionamiento se determinarán reglamentariamente.
+4. Esta Comisión podrá recabar la colaboración y el asesoramiento de personas expertas que considere necesarios para la adopción de sus decisiones.
+5. Corresponde a esta Comisión Técnica Interdepartamental de Políticas de Juego:
+a) Analizar la situación del sector del juego y la incidencia de las actividades del juego con dinero en la sociedad aragonesa, ahondando en el conocimiento de la adicción a los juegos comprendidos en el ámbito de aplicación de esta ley y sus implicaciones bio-psico-sociales, como actividad de especiales características a tener en cuenta cuando se practica o comercializa por el riesgo de adicción que conlleva para determinados grupos de población más vulnerables.
+b) Asesorar, coordinar las actuaciones relacionadas con la aplicación de esta ley y las normativas que la desarrollan por parte de las administraciones públicas de Aragón, así como elaborar trabajos, informes, propuestas u otras actuaciones que, si procede, sirvan como base para la puesta en marcha de acciones cuyo principal objetivo sea el desarrollo de políticas de juego de protección a los menores de edad, a los grupos poblacionales de mayor riesgo por su vulnerabilidad y a los participantes en el juego.
+c) Promover la minimización del impacto social derivado de la actividad de juego, anticipando las tendencias emergentes en cuanto a juego responsable.
+d) Bajo la coordinación del departamento competente en salud pública, colaborar en el seguimiento de las acciones de prevención y tratamiento del trastorno por juego incluidas en el Plan de Adicciones de la Comunidad Autónoma de Aragón.
+e) Colaborar con el departamento competente en el establecimiento y coordinación de criterios objetivos de evaluación, tales como la aparición de trastornos de juego o de demandas de asistencia antes y después de la aplicación de las medidas, en la selección de grupos poblacionales concretos sobre los que observar el efecto de estas, en la aplicación de forma secuencial de algunas de dichas medidas y en el examen del efecto que van teniendo en la población general o en ámbitos específicos.
+f) Colaborar con el departamento competente en la elaboración de los protocolos de detección precoz, de coordinación y de derivación desde diferentes ámbitos para el tratamiento del trastorno por juego.
+Se añade por el art. único.31 de Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+ Se deroga por la disposición derogatoria única.2 del Decreto Legislativo 1/2004, de 27 de julio. Ref. BOA-d-2004-90019
+
+### Artículo 53
+
+Artículo 53. Hecho imponible.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 del Decreto Legislativo 1/2004, de 27 de julio. Ref. BOA-d-2004-90019
+
+### Artículo 54
+
+Artículo 54. Sujetos pasivos.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 del Decreto Legislativo 1/2004, de 27 de julio. Ref. BOA-d-2004-90019
+
+## CAPÍTULO II
+
+Elementos cuantificadores y temporales
+
+### Artículo 55
+
+Artículo 55. Parámetros y tarifas.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 del Decreto Legislativo 1/2004, de 27 de julio. Ref. BOA-d-2004-90019
+ Se modifica por el art. unico.3 de la Ley 3/2004, de 22 de junio. Ref. BOA-d-2004-90017
+ Se modifica la tarifa 2.12 y se añade la 2.19 por el art. único.3 y 4 de la Ley 4/2003, de 24 de febrero. Ref. BOE-A-2003-5694
+ Se modifica por el art. 13 de la Ley 26/2001, de 28 de diciembre. Ref. BOE-A-2002-1308
+
+### Artículo 56
+
+Artículo 56. Actualización.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 del Decreto Legislativo 1/2004, de 27 de julio. Ref. BOA-d-2004-90019
+
+### Artículo 57
+
+Artículo 57. Devengo.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 del Decreto Legislativo 1/2004, de 27 de julio. Ref. BOA-d-2004-90019
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Hasta tanto no exista una regulación unitaria del procedimiento sancionador aplicable de la Comunidad Autónoma de Aragón, el mismo se instruirá conforme a lo señalado en el artículo 49 de esta Ley.
+2. Sin perjuicio de lo establecido en el apartado anterior y conforme a lo señalado en el artículo 149.3 de la Constitución, serán de aplicación supletoria las disposiciones contenidas en el derecho estatal.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+En lo no regulado en esta Ley o en sus normas de desarrollo, respecto de las autorizaciones administrativas en materia de juego, podrán ser de aplicación las disposiciones reguladoras de las concesiones administrativas de servicios públicos de la Comunidad Autónoma de Aragón.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Mediante Ley de Cortes de Aragón, se podrá reservar a la Comunidad Autónoma de Aragón, u organismo público dependiente de la misma, la organización o explotación económica en exclusiva en el territorio de Aragón de algunos de los juegos comprendidos en esta Ley.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+El Gobierno podrá revisar la cuantía de las sanciones pecuniarias para adaptarla a la evolución del índice de precios al consumo en la Ley anual de Presupuestos de la Comunidad Autónoma.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+El Gobierno de Aragón, en el plazo de seis meses desde la entrada en vigor de la Ley del Juego, constituirá la Comisión del Juego de la Comunidad Autónoma de Aragón.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Prevención y tratamiento del trastorno por juego.
+1. El Gobierno de Aragón desarrollará actividades de prevención del trastorno por juego dirigidas a la población en general y adoptará medidas para desincentivar los hábitos y conductas patológicas relacionadas con el juego, con especial atención a los sectores sociales más vulnerables.
+2. En atención a la transversalidad de las intervenciones públicas de prevención del juego patológico y para lograr un modelo homogéneo y sistematizado de prevención de las adicciones en el conjunto del territorio de Aragón, el departamento competente en la gestión administrativa del juego colaborará con el departamento con competencias en sanidad del Gobierno de Aragón en coordinación con el resto de departamentos, y, en el marco del Plan de Adicciones de la Comunidad Autónoma de Aragón, elaborará estrategias y programas para prevenir y atender situaciones de trastorno por juego, en sus distintos niveles de actuación, ambiental, del desarrollo e informativa, especialmente, en lo que pueda afectar a las personas menores de edad, jóvenes y grupos de población más vulnerables.
+3. Entre los objetivos que incluirán los programas de prevención del trastorno por juego figurarán:
+a) El estricto cumplimiento de la normativa autonómica de juego.
+b) El incremento de la eficacia de la actuación inspectora de la Unidad de Policía Nacional adscrita a la Comunidad Autónoma de Aragón, mediante la coordinación con las demás Fuerzas y Cuerpos de Seguridad y la dotación de medios adecuados.
+c) La promoción de la investigación en el área del juego.
+d) El incremento de los conocimientos en el área de la prevención, detección precoz e intervención temprana y abordaje de los problemas relacionados con el juego entre los profesionales de los recursos que trabajan en adicciones.
+e) La potenciación de la prevención de adicciones comportamentales en el marco de la promoción de la salud, desde todos los sectores implicados, y el desarrollo de procedimientos de detección precoz en el ámbito educativo y social.
+f) La generación de una política de juego responsable en las actividades de juego con dinero en los empresarios, empleados de los locales de juego, medios de comunicación que operen en el territorio ámbito de aplicación de esta ley y en las personas jugadoras.
+g) La reducción de los problemas generados por el juego entre personas que ya experimentan niveles elevados de juego.
+h) El diseño de estrategias motivacionales para atraer a los colectivos más vulnerables ante el juego al tratamiento, la disposición de instrumentos de detección temprana específicos, así como la realización de campañas de sensibilización e información que recojan un enfoque de género en su diseño y desarrollo.
+i) La información y el ofrecimiento de asistencia y tratamiento a las personas que presenten trastorno por juego y a sus familiares dentro de la red pública de atención sociosanitaria.
+j) La previsión de la dotación económica adecuada en los presupuestos de cada ejercicio para la implementación de las acciones previstas en los correspondientes programas de prevención y tratamiento del trastorno por juego.
+k) La realización de talleres y actividades formativas de educación para la salud, así como el ofrecimiento de información sanitaria y sobre prevención del trastorno por juego en los ámbitos educativo, sanitario, deportivo y sociolaboral.
+l) El establecimiento de protocolos de detección precoz y control del trastorno por juego en el ámbito educativo y sociosanitario.
+m) El fomento del ocio alternativo y el ocio educativo especialmente dirigido a las personas adolescentes y jóvenes.
+n) La implantación de unidades multidisciplinares específicas de tratamiento del trastorno por juego.
+ñ) El desarrollo de campañas contra el estigma y los estereotipos en la población general.
+4. El Gobierno de Aragón colaborará con las entidades que trabajen en el desarrollo de las actividades de prevención e información del trastorno por juego, mediante la convocatoria de subvenciones en la que se concretarán las actuaciones a desarrollar.
+Se modifica por el art. único.32 de la Ley 9/2023, de 23 de marzo. Ref. BOE-A-2023-9959
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Revitalización de la actividad de los casinos de juego.
+1. Con el objeto de revitalizar la actividad de los casinos de juego, previa comunicación al órgano de la Administración competente en materia de juego, los casinos de juego podrán organizar mesas de demostración y torneos de juegos exclusivos de casino. Los torneos y modalidades de los mismos podrán celebrarse fuera del recinto del casino, con el personal del casino y según las bases de celebración, lugar y horario de apertura y cierre previamente comunicado.
+2. Al objeto de dinamizar los juegos exclusivos de los casinos de juego, que evidencian ciertos rasgos de estancamiento y recesión, a partir de la entrada en vigor de la Ley, corresponde a la dirección de juegos, previa comunicación al órgano de la Administración competente en la gestión administrativa de juego:
+a) Determinar el personal necesario para el correcto control de cada sector de juegos.
+b) Redistribuir las funciones del personal que presta sus servicios directamente relacionados con el desarrollo de los juegos, sin merma del correcto desarrollo de los juegos y de que cada mesa de juego disponga de un sistema de grabación individualizado.
+c) Modificar los límites mínimos de las apuestas de cada uno de los juegos o de las mesas determinadas, previa indicación de los mínimos establecidos en la mesa.
+d) Acordar que la sala de juego permanezca en funcionamiento después de la hora de cierre, sin posibilidad de admisión de nuevos clientes, y por un máximo de dos horas, si en la sala hubiera un número de jugadores que lo justificara.
+3. La totalidad del personal del casino tiene prohibido percibir participaciones porcentuales de los ingresos brutos o de los beneficios de los juegos, sin perjuicio de lo dispuesto en el artículo 46 del Decreto 198/2002, de 11 de junio, del Gobierno de Aragón, por el que se aprueba el Reglamento de Casinos de Juego.
+Se añade por el art. 31.9 de la Ley 10/2012, de 27 de diciembre. Ref. BOE-A-2013-1424
+
+### Disposición adicional octava
+
+Disposición adicional octava. Planificación y regulación de los aparatos auxiliares de expedición de apuestas a instalar en los establecimientos de hostelería, bares, cafeterías, restaurantes, clubes y otros análogos.
+El Gobierno de Aragón, de acuerdo con todos los sectores y asociaciones afectados, determinará, en su caso, las fórmulas de aplicación del artículo 21.4 de esta ley en lo relativo a la planificación y regulación de los aparatos auxiliares de expedición de apuestas que puedan instalarse en los establecimientos de hostelería, bares, cafeterías, restaurantes, clubes y otros análogos, concretando tanto el número de elementos que puedan instalarse como las condiciones de comercialización y explotación de las apuestas, para su puesta en funcionamiento en el ejercicio 2015.
+Se añade por el art. 32.3 de la Ley 2/2014, de 23 de enero. Ref. BOE-A-2014-1510#a3-4
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las autorizaciones temporales concedidas con anterioridad a la entrada en vigor de esta Ley seguirán siendo válidas durante el plazo de vigencia que en ellas se hubiese fijado. No obstante, su ulterior renovación deberá realizarse con arreglo a las disposiciones de esta Ley y las reglamentarias que la desarrollen.
+Las autorizaciones que no tuvieran señalado plazo de vigencia deberán renovarse en el plazo de dos años a partir de la entrada en vigor de esta Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Con carácter general, y hasta tanto no se dicten las disposiciones reglamentarias a las que se refiere la presente Ley, serán de aplicación las normas estatales vigentes en todo aquello que no se opongan a lo aquí establecido.
+Redactado conforme a la corrección de erratas publicada en BOE núm. 180, de 28 de julio de 2000. Ref. BOE-A-2000-14351
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+El régimen de infracciones y sanciones regulado en esta Ley se aplicará únicamente a las conductas constitutivas de infracción realizadas a partir de su entrada en vigor. No obstante, la presente Ley será de aplicación a las infracciones cometidas con anterioridad a su vigencia cuando aún no exista resolución firme y sus disposiciones resulten más favorables para el sujeto infractor.
+Redactado conforme a la corrección de erratas publicada en BOE núm. 180, de 28 de julio de 2000. Ref. BOE-A-2000-14351
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Las referencias que se efectúan en esta Ley a la peseta, como unidad monetaria vigente, se entenderán, en su caso, aplicables a su equivalente en euros cuando el mismo entre en vigor.
+Redactado conforme a la corrección de erratas publicada en BOE núm. 180, de 28 de julio de 2000. Ref. BOE-A-2000-14351
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Las autorizaciones administrativas otorgadas a los empleados de las empresas de juego contempladas en esta Ley que se encuentren en plena vigencia temporal en el momento de la publicación de la misma, serán sustituidas por el organismo administrativo competente, de oficio y de forma gratuita, por la acreditación prevista en el artículo 31.2, en el plazo de tres meses a partir de la entrada en vigor de esta Ley.
+Redactado conforme a la corrección de erratas publicada en BOE núm. 180, de 28 de julio de 2000. Ref. BOE-A-2000-14351
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera.
+Quedan derogadas todas las disposiciones que se opongan a lo establecido en la presente Ley.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda.
+Desde la entrada en vigor de esta Ley, no será de aplicación en el territorio de la Comunidad Autónoma de Aragón el artículo 4 del Real Decreto 1337/1977, de 10 de junio, sobre normas para la instalación de casinos de Juego.
+
+### Disposición final primera
+
+Disposición final primera.
+El Gobierno de Aragón dictará las disposiciones de desarrollo y ejecución de la presente Ley, así como las que regulen la distribución entre sus órganos administrativos de las facultades y funciones que en la misma se establecen.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Aragón».
+
+### [firma]
+
+Así lo dispongo a los efectos del artículo 9.1 de la Constitución y los correspondientes del Estatuto de Autonomía de Aragón.
+Zaragoza, 28 de junio de 2000.
+MARCELINO IGLESIAS RICOU,
+Presidente
+
+## [Información relacionada] 
+
+Información relacionada
+ Téngase en cuenta que las referencias incluidas en esta Ley, relativas al Departamento o al Consejero de Presidencia y Relaciones Institucionales se entenderán referidas al departamento que, de acuerdo con el Decreto de Organización de la Administración de la Comunidad Autónoma de Aragón y los Decretos de Estructura Orgánica, tenga atribuidas las competencias en la gestión administrativa de juego, según se establece en la disposición adicional 1 de la Ley 4/2011, de 10 de marzo. Ref. BOE-A-2011-7333

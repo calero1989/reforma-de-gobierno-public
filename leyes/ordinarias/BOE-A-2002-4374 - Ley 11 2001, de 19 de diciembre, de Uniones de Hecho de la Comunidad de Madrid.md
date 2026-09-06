@@ -1,0 +1,166 @@
+# Ley 11/2001, de 19 de diciembre, de Uniones de Hecho de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-2002-4374`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2002-4374
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber, que la Asamblea de Madrid ha aprobado la presente Ley, que yo, en nombre del Rey, promulgo.
+PREÁMBULO
+En la sociedad en la que vivimos, la sociedad del siglo XXI, el matrimonio continúa siendo la forma de unión predominante en Occidente, pero a raíz de los cambios acaecidos en el último medio siglo, otros tipos de unión demandan una regulación por parte de los poderes públicos. Las uniones de carácter estable, reconocidas mayoritariamente por la sociedad y denominadas «uniones de hecho», se encuentran en la actualidad con barreras jurídicas para su reconocimiento público.
+El matrimonio y las uniones de hecho, por tratarse de instituciones distintas, obedecen a opciones y planteamientos personales que requieren el respeto a la diferencia, tanto en el plano social como en el jurídico.
+El Derecho, por su parte, debe ajustarse a las nuevas realidades sociales. La presente Ley trata de dar una adecuada solución a la realidad sociológica del incremento en el número de uniones entre personas, difícilmente encuadrables en las categorías jurídicas existentes.
+La convivencia, estable y duradera, debe considerarse una realidad a la que los poderes públicos con capacidad normativa deben dar una respuesta convincente. La regulación normativa debe ser el mecanismo equilibrador e igualitario para aquellas personas que por el libre ejercicio de sus opciones, sean éstas cuales fueren, están o pudieran sentirse discriminadas. Hasta ahora han sido los Tribunales de Justicia y, en especial, el Tribunal Constitucional quienes han aplicado soluciones coyunturales o de emergencia a los casos concretos que se les planteaban. Sin embargo, es la normativa el marco de referencia general, en donde se han producido avances importantes en los últimos años y donde se deben plasmar las soluciones con carácter universal.
+En definitiva, la aprobación de la presente Ley tiene su justificación, además, en el artículo 7 del Estatuto de Autonomía de la Comunidad de Madrid, en el artículo 14 de la Constitución Española que garantiza la igualdad de los españoles ante la Ley sin que pueda prevalecer discriminación alguna por razones, entre otras, de sexo, opinión o cualquier condición o circunstancia personal o social, el artículo 9 de la Constitución Española relativo a la obligación de los poderes públicos de promover la igualdad evitando situaciones en que pueda producirse discriminación, así como en la Resolución de 8 de febrero de 1994, del Parlamento Europeo, sobre la igualdad de los derechos de los homosexuales y lesbianas en la Comunidad Europea, que reitera «la convicción de que todos los ciudadanos tienen derecho a un trato idéntico con independencia de su orientación sexual».
+Por otro lado, esta Ley dará respuesta a una limitación fundamental, derivada de la falta de legislación propia de la Comunidad de Madrid, dentro de su actual ámbito competencial.
+La convivencia genera relaciones diversas de carácter intersubjetivo, muchas de las cuales se ajustan a las esferas personal y patrimonial. Su regulación supondría una extensión del Código Civil a uniones de hecho no formalizadas en sede matrimonial, especialmente en lo tocante a los convivientes, pues respecto a los descendientes las reformas del Derecho de Familia dan cumplida respuesta a tales situaciones.
+Sin embargo, a la espera de la referida extensión de la legislación civil, la Comunidad de Madrid debe poner sus medios y sus competencias al alcance de las uniones de hecho no reguladas, con el fin de otorgarles un reconocimiento y, además, introducir así una mayor seguridad jurídica que permita evitar situaciones de desigualdad. Todo ello, además, con la suficiente flexibilidad, de modo que los preceptos de esta Ley puedan encajar en las diversas configuraciones legislativas que alternativamente adopte la Ley Civil Estatal, ya sea en su configuración como unión personal civil, ya sea en su conceptuación afectiva o cuasiconyugal.
+En este sentido, el Gobierno de la Comunidad de Madrid, mediante el Decreto 36/1995, de 20 de abril, creó el Registro de Uniones de Hecho de la Comunidad de Madrid, Decreto que fue desarrollado mediante la Orden 827/1995, de 25 de abril, de la Consejería de Integración Social, suponiendo ahora la presente Ley una respuesta clara a una demanda reconocida por amplios sectores sociales e institucionales, con el fin de apoyar un itinerario ya iniciado de reconocimiento de esta fórmula de convivencia en el marco del Derecho común que evite cualquier tipo de discriminación para la persona.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Ámbito de aplicación.
+1. La presente Ley será de aplicación a las personas que convivan en pareja, de forma libre, pública y notoria, vinculadas de forma estable, al menos durante un período ininterrumpido de doce meses, existiendo una relación de afectividad, siempre que voluntariamente decidan someterse a la misma mediante la inscripción de la unión en el Registro de Uniones de Hecho de la Comunidad de Madrid.
+2. Esta Ley únicamente será de aplicación a aquellas uniones en las que ambos miembros se hallen empadronados en el mismo domicilio y tengan su residencia en la Comunidad de Madrid.
+Se modifica el apartado 2 por el art. 25.1 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 2
+
+Artículo 2. Requisitos personales.
+1. No pueden constituir una unión de hecho de acuerdo con la normativa de la presente Ley:
+a) Los menores de edad no emancipados y las personas con discapacidad que no les permita prestar su consentimiento a la unión válidamente.
+b) Las personas ligadas por el vínculo del matrimonio no separadas judicialmente.
+c) Las personas que forman una unión estable con otra persona.
+d) Los parientes en línea recta por consanguinidad o adopción.
+e) Los parientes colaterales por consanguinidad o adopción dentro del tercer grado.
+2. No podrá pactarse la constitución de una pareja estable no casada con carácter temporal ni someterse a condición.
+Se modifica la letra a) del apartado 1 por el art. 4 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2025-3304
+
+## CAPÍTULO II
+
+De la inscripción de las uniones de hecho
+
+### Artículo 3
+
+Artículo 3. Acreditación.
+1. Las uniones a que se refiere la presente Ley producirán sus efectos desde la fecha de la inscripción en el Registro de las Uniones de Hecho de la Comunidad de Madrid, previa acreditación de los requisitos a que se refiere el artículo 1 en expediente contradictorio ante el Encargado del Registro.
+2. Reglamentariamente se regulará tal expediente contradictorio. En todo caso, la previa convivencia libre, pública, notoria e ininterrumpida en relación de afectividad, habrá de acreditarse mediante el certificado de empadronamiento de ambos miembros que forman la unión en el mismo domicilio durante un período ininterrumpido de doce meses, inmediatamente anteriores a la fecha de solicitud de inscripción.
+3. La existencia de la unión de hecho se acreditará mediante certificación del Encargado del Registro.
+Se modifica el apartado 2 por el art. 25.2 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Véase en cuanto a su aplicación, la disposición final 8.2 de la citada ley.
+
+## CAPÍTULO III
+
+De la inscripción de los pactos de convivencia
+
+### Artículo 4
+
+Artículo 4. Regulación de la convivencia.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 81/2013, de 11 de abril. Ref. BOE-A-2013-4901.
+
+### Artículo 5
+
+Artículo 5. Inscripción.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 81/2013, de 11 de abril. Ref. BOE-A-2013-4901.
+
+## CAPÍTULO IV
+
+De la extinción de la unión
+
+### Artículo 6
+
+Artículo 6. Extinción de la unión.
+1. Las uniones de hecho se extinguen por las siguientes causas:
+a) De común acuerdo.
+b) Por decisión unilateral de uno de los miembros de la unión notificada al otro por cualquiera de las formas admitidas en Derecho.
+c) Por muerte o declaración de fallecimiento de uno de los miembros de la unión de hecho.
+d) Por separación de hecho de más de seis meses.
+e) Por matrimonio de uno de los miembros.
+f) Cuando alguno de los dos miembros de la unión de hecho deje de estar empadronado en alguno de los municipios de la Comunidad de Madrid.
+2. La cancelación de la inscripción de la unión de hecho podrá efectuarse a instancia de uno solo de los miembros. En este caso el Encargado del Registro comunicará a la otra parte dicha cancelación.
+Se añade la letra f) al apartado 1 por el art. 25.3 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 7
+
+Artículo 7. Inscripción.
+La concurrencia de causa extintiva de la unión se hará constar en el Registro de Uniones de Hecho de la Comunidad de Madrid en la forma que se determine reglamentariamente.
+
+## CAPÍTULO V
+
+Normas administrativas
+
+### Artículo 8
+
+Artículo 8. Beneficios respecto de la función pública.
+En relación con el personal al servicio de la Administración de la Comunidad de Madrid, los convivientes mantendrán los mismos beneficios reconocidos a las parejas que hayan contraído matrimonio.
+
+### Artículo 9
+
+Artículo 9. Normativa de derecho público.
+Los derechos y obligaciones establecidos en la normativa madrileña de Derecho Público para los miembros de parejas que hayan contraído matrimonio, serán de aplicación a los miembros de la unión de hecho, en especial en materia presupuestaria, de subvenciones y de tributos propios.
+
+### Disposición adicional única
+
+Disposición adicional única.
+La Administración de la Comunidad de Madrid mantendrá las oportunas relaciones de cooperación con otras Administraciones Públicas que cuenten con Registros de Uniones de Hecho o similares, al objeto de evitar supuestos de doble inscripción.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Acreditación de la convivencia previa fuera del ámbito territorial de la Comunidad de Madrid: Validez de los certificados de otros Registros de Uniones de Hecho.
+Para la acreditación de los doce meses de empadronamiento conjunto de los miembros de la unión establecido en el punto 3.2 serán válidos los certificados de Registros de Uniones de Hecho de cualquier Comunidad Autónoma o país perteneciente a la Unión Europea válidamente emitidos, así como, los certificados de empadronamiento en cualquier municipio español.
+Se añade por el art. 25.4 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Véase en cuanto a su aplicación, la disposición final 8.2 de la citada ley.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Inscripción de la cancelación cuando uno de los miembros deje de estar empadronado.
+La inscripción de cancelación cuando alguno de los dos miembros de la unión de hecho deje de estar empadronado en alguno de los municipios de la Comunidad de Madrid establecida en el punto f) del apartado 1 del artículo 6 solamente se aplicará a aquellas parejas inscritas a partir de la entrada en vigor de la modificación de la Ley 11/2001, de 19 de diciembre, de Uniones de Hecho de la Comunidad de Madrid, efectuada por la Ley de medidas urgentes para el impuso de la actividad económica y modernización de la Administración de la Comunidad de Madrid.
+Se añade por el art. 25.5 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Responsable del expediente de las Uniones de Hecho.
+La Consejería competente en materia de Uniones de Hecho velará por la correcta gestión y funcionamiento del Registro, así como por la veracidad de los datos y documentos aportados por los interesados.
+Se añade por el art. 25.6 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+El tiempo de convivencia transcurrido antes de la entrada en vigor de esta Ley, se ha de tener en cuenta a los efectos del cómputo de los doce meses a que se refiere el artículo 1, si los miembros de la unión están de acuerdo.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Las inscripciones en el Registro de Uniones de Hecho de la Comunidad de Madrid, regulado por el Decreto 36/1995, de 20 de abril, y en la Orden 827/1995, de 25 de abril, de la Consejería de Integración Social, se integrarán de oficio y con carácter inmediato en el Registro contemplado en el artículo 3 de esta Ley.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas todas las disposiciones de igual o inferior rango en lo que contradigan o se opongan a la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+1. En el plazo de un año desde la entrada en vigor de esta Ley, el Gobierno de la Comunidad de Madrid deberá aprobar los Reglamentos de desarrollo de ésta.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de la Comunidad de Madrid».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar.
+Madrid, 19 de diciembre de 2001.
+ALBERTO RUIZ-GALLARDÓN,
+Presidente

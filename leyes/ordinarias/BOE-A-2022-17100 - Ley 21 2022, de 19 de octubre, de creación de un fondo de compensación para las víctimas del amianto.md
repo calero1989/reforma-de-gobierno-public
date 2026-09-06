@@ -1,0 +1,143 @@
+# Ley 21/2022, de 19 de octubre, de creación de un fondo de compensación para las víctimas del amianto.
+
+- Identificador BOE: `BOE-A-2022-17100`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2022-17100
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+FELIPE VI
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley:
+PREÁMBULO
+En el conjunto del Estado español, entre los años 1994 y 2008 el número de fallecimientos vinculados directamente al amianto fue de 3.943.
+Durante todo el siglo XX se importaron unas 2.600.000 toneladas de amianto. El pico máximo de consumo se produjo entre los años 1970 y 1980. Unas tres cuartas partes se utilizaron para fabricación de fibrocemento para la construcción, cifra similar a la de otros países.
+Se calcula en unas 2.300.000 toneladas el consumo de amianto entre los años 1960 y 1995, lo que supone un 30 % menos de consumo que en Francia.
+Se ha probado científicamente que existe una relación directa ente el consumo de amianto y el mesotelioma. En estudios recientes (Chérié-Charline en 2012) se señala que en Francia actualmente se diagnostican unos 1.000 mesoteliomas de promedio al año. Por ello, se estima que, si el consumo ha sido un 30 % inferior, podríamos afirmar que estaríamos en torno a los 700 mesoteliomas de promedio por año.
+Esta situación es similar a la existente en otros países de la Unión Europea, y, no obstante, a pesar de ello, España no cuenta aún con un fondo de compensación.
+Si se hace una estimación del número anual de casos de patologías por amianto, entre los años 2003 y 2009 podrían haberse producido 7.154 casos a indemnizar en sus diferentes modalidades.
+De estos datos se puede deducir que hasta 2023 seguiremos con un número ascendente de casos, lo que pone más en evidencia la necesidad de poner en marcha en nuestro país un fondo de compensación como los existentes en Francia, Holanda o Bélgica. A partir del 2023 se estabilizarán las cifras y se iniciará una rápida tendencia descendente. Estas son las previsiones.
+El amianto actualmente ya no existe como problema preventivo. El problema radica fundamentalmente en las enfermedades derivadas de antiguas exposiciones que afloran y seguirán aflorando aún con más intensidad.
+Los daños sufridos están derivando en una gran cantidad de litigios. Ello hace necesaria la creación de un fondo de compensación sin culpa.
+La litigiosidad fundamental se refiere o afecta a trabajadores y trabajadoras que hayan podido estar en relación con el amianto. Y además hay que tener en cuenta los contactos fuera del ámbito laboral, dentro del ámbito familiar (por lavado de ropa en casa) o ambiental, que no regula ahora el sistema.
+A diferencia de los accidentes de trabajo, en las enfermedades profesionales los daños no son instantáneos, aparecen años más tarde, y en el caso del amianto décadas más tarde, cuando muchas empresas han desaparecido. No obstante, todos los datos anteriormente señalados ponen de manifiesto que afecta a un número de trabajadores y trabajadoras suficientemente significativo como para poder justificar el establecimiento de un fondo de compensación.
+Además, el principal problema es que muchas empresas donde se produjo la exposición ya han desaparecido cuando la enfermedad se manifiesta, dado que podemos estar hablando de exposiciones que se produjeron de 20 a 50 años antes. O que los trabajadores y trabajadoras han podido prestar servicios en diferentes empresas a lo largo de su vida laboral, lo que dificulta la identificación de la exposición concreta que generó la enfermedad. Ello supone una dificultad añadida en la identificación de las empresas responsables del pago de las indemnizaciones que pueden corresponder a los afectados y las afectadas.
+Muchas de esas empresas han podido sufrir con el paso del tiempo reconversiones, escisiones, absorciones, cambios de denominación o traslado de actividades, que además pueden dificultar sobremanera la identificación del que puede ser el actual responsable de la que fuera, en su día, empleadora del trabajador, y de la actual sucesora. Ello conlleva por parte de los afectados y las afectadas o sus familiares una labor detectivesca, un enorme y dificultoso esfuerzo para identificar a la empresa responsable, que impide muchas veces reclamar, quedando el afectado sin compensación a pesar del daño sufrido en su salud. La demostración de la exposición es dificultosa por todo ello, y resulta difícil establecer la causa-efecto para el afectado/a y sus familiares.
+El fondo de compensación conseguirá que aquellas familias o trabajadores y trabajadoras afectadas que tienen vedada la vía judicial, por no tener empresa a la que reclamar la indemnización, vean compensado el daño.
+Otro problema añadido es la judicialización de los procesos. Las víctimas han de luchar en los juzgados, para reclamar sus derechos, con los organismos de la Seguridad Social y con las mutuas. Los trabajadores y trabajadoras afectadas y sus familiares se ven abocados a un proceso judicial que conlleva un coste económico importante por parte de las familias, o por parte de las viudas y viudos, que, percibiendo pensiones mínimas, además han de asumir ese coste económico.
+Toda esta situación (la enfermedad sufrida por el afectado o la afectada, o el proceso judicial, entre otros) conlleva también un coste emocional para las familias y los afectados y las afectadas.
+
+## CAPÍTULO I
+
+Naturaleza y organización
+
+### Artículo 1
+
+Artículo 1. Fondo de compensación y naturaleza.
+El Fondo se constituye como mecanismo de compensación para las víctimas del amianto mediante los recursos económicos a que se refiere el artículo 4 de la presente ley. El Instituto Nacional de la Seguridad Social, en los términos regulados en la presente ley, gestionará con su crédito presupuestario las compensaciones que correspondan.
+Se modifica por la disposición final 10 de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#df-10
+
+### Artículo 2
+
+Artículo 2. Fines.
+La compensación para las víctimas del amianto tiene por objeto la reparación íntegra de los daños y perjuicios sobre la salud resultantes de una exposición al amianto padecidos por toda persona en su ámbito laboral, doméstico o ambiental en España, así como a sus causahabientes en los términos establecidos en la presente ley.
+Se modifica por la disposición final 10 de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#df-10
+
+### Artículo 3
+
+Artículo 3. Compensaciones.
+Las personas que resulten beneficiarias según lo establecido en esta ley tendrán derecho a las compensaciones que se determinen reglamentariamente.
+
+### Artículo 4
+
+Artículo 4. Recursos económicos.
+1. Para el cumplimiento de los fines previstos en la presente ley se contará con los siguientes recursos:
+a) Las consignaciones o transferencias que se determinen cada año en la correspondiente Ley de Presupuestos Generales del Estado.
+b) Las cantidades que se obtengan por subrogación de las personas afectadas por el amianto, o sus causahabientes, en vía judicial.
+c) Las aportaciones provenientes de las sanciones impuestas por la autoridad laboral correspondiente, a propuesta de la Inspección de Trabajo y Seguridad Social, por incumplimiento de las obligaciones en materia de seguridad y salud laborales relacionadas con el amianto, determinadas reglamentariamente en términos porcentuales.
+d) Cualesquiera otros previstos en las leyes.
+2. La modalidad de control ejercida sobre el reconocimiento del derecho y de la obligación del mecanismo de compensación será la función interventora y el control financiero permanente de acuerdo con lo establecido en el artículo 147.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+Se modifica por la disposición final 10 de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#df-10
+
+### Artículo 5
+
+Artículo 5. Comisión de Seguimiento de las compensaciones para las víctimas del amianto.
+1. Se crea la Comisión de Seguimiento de las compensaciones para las víctimas del amianto, adscrita a la Secretaría de Estado de la Seguridad Social y Pensiones como órgano colegiado de consulta y asesoramiento que tiene como finalidad coadyuvar en la mejora de la respuesta en la protección de las personas expuestas al amianto y sus familiares.
+2. Son funciones de la Comisión de Seguimiento:
+a) Asesorar de cuantas actuaciones se deriven de la implantación de la ley, desarrollo y gestión y, en particular, en lo relativo a las patologías, criterios de baremación y cuantía de las compensaciones.
+b) Proponer al titular del órgano administrativo de gestión cuantas actuaciones y medidas estén relacionadas con la mejora de los fines establecidos en el artículo 2. Asimismo, en atención a la evolución de las patologías de las personas trabajadoras afectadas por el amianto, teniendo en cuenta las condiciones de la prestación de la actividad laboral y su afectación en dicha patología, entre otras cuestiones, podrá formular propuestas de mejora de las condiciones de trabajo y de su protección social de presente y de futuro.
+c) Cualquier otra función que se le atribuya legal o reglamentariamente.
+3. Para el cumplimiento de sus fines, la Comisión de Seguimiento será informada de los criterios de actuación de la gestión de las compensaciones, de los datos y evolución económica, así como del anteproyecto y liquidación de las partidas presupuestarias y presupuesto anual que recojan estas compensaciones y de las medidas propuestas al Gobierno para el mejor cumplimiento de sus fines.
+4. La Comisión de Seguimiento estará compuesta, en todo caso, por representantes de la Administración General del Estado, de las organizaciones empresariales y sindicales más representativas, estatales o autonómicas, entidades y expertos de reconocido prestigio de la comunidad científica conocedores de las consecuencias y patologías derivadas del amianto y de la Federación de Asociaciones de Víctimas del Amianto.
+5. La participación y la asistencia a sus convocatorias no devengará retribución ni compensación económica alguna.
+6. La Comisión de seguimiento se dotará de un reglamento interno donde se especificarán sus reglas de funcionamiento.
+Se modifica por la disposición final 10 de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#df-10
+
+## CAPÍTULO II
+
+Personas beneficiarias
+
+### Artículo 6
+
+Artículo 6. Personas beneficiarias.
+1. Serán beneficiarias de la reparación íntegra a cargo del Fondo de Compensación para las Víctimas del Amianto por los daños y perjuicios sobre la salud resultantes de una exposición al amianto padecidos en ámbito laboral, doméstico o ambiental en España:
+a) Las personas que hayan obtenido el reconocimiento de una enfermedad profesional ocasionada por el amianto.
+b) Las personas con una enfermedad que no pueda ser reconocida como profesional, pero de la cual se haya determinado o pueda determinarse que su causa principal o coadyuvante haya sido su exposición al amianto.
+c) Las personas causahabientes de los beneficiarios mencionados en las letras anteriores, en los términos que se determinen reglamentariamente.
+2. El diagnóstico y la valoración de la enfermedad, su calificación y revisión, así como la determinación de su causa o del fallecimiento se realizarán por los equipos de valoración que se determinen reglamentariamente.
+
+## CAPÍTULO III
+
+Procedimiento
+
+### Artículo 7
+
+Artículo 7. Ordenación del procedimiento de gestión de las compensaciones económicas.
+En el marco de lo previsto por esta ley, y siguiendo el procedimiento establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, corresponde al Instituto Nacional de la Seguridad Social la ordenación administrativa, el diseño, la implantación y el seguimiento de los procedimientos para reconocer, suspender y extinguir el derecho a las compensaciones a favor de las personas beneficiarias a que se refiere esta ley, así como hacer las correspondientes propuestas de pago con cargo a la cuenta abierta a nombre de la Tesorería General de la Seguridad Social donde se sitúen los fondos.
+Se modifica por la disposición final 10 de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#df-10
+
+### Artículo 8
+
+Artículo 8. Particularidades del procedimiento.
+1. El procedimiento para el reconocimiento de la compensación económica para las personas afectadas por el amianto se iniciará a solicitud de la persona perjudicada o de sus causahabientes, en caso de fallecimiento de aquella, dirigida al Instituto Nacional de la Seguridad Social.
+Dicha solicitud deberá ir acompañada de los documentos acreditativos de la enfermedad y lesiones padecidas, y por los informes emitidos en los términos que se determinen reglamentariamente.
+En el caso de las personas trabajadoras afectadas por la exposición al amianto, la solicitud se acompañará además del informe sanitario del PIVISTEA (Plan Integral de Vigilancia de la salud de los trabajadores que estén o estuvieron expuestos al amianto), así como de los documentos que se establezcan reglamentariamente para probar la exposición al amianto. No obstante, cuando se hubiera determinado el origen profesional de la enfermedad, el solicitante adjuntará a la petición exclusivamente la resolución de reconocimiento de la enfermedad.
+En su caso, también se acompañará de la información relativa a las acciones judiciales y extrajudiciales que estén en curso en el momento de la solicitud, así como de las prestaciones o compensaciones reconocidas como consecuencia de su exposición al amianto.
+2. El Instituto Nacional de la Seguridad Social procederá a dictar resolución y a notificar la misma a la persona solicitante de la compensación económica en el plazo máximo de seis meses desde la fecha de entrada en su registro de la solicitud, indicando, en su caso, de conformidad con la documentación aportada, la enfermedad padecida, lesiones, causa de las lesiones o del fallecimiento, y posible discapacidad que se le haya reconocido así como la compensación que corresponda.
+Transcurrido dicho plazo sin que se hubiera notificado resolución expresa, se entenderá desestimada la solicitud. En todo caso se deberá dictar resolución expresa.
+Reglamentariamente se determinará el procedimiento de la valoración de la enfermedad, su calificación y revisión de la determinación de su causa o del fallecimiento.
+3. En los supuestos de reconocimiento de la compensación económica, el Instituto Nacional de la Seguridad Social, en los supuestos y en los términos que se establezca reglamentariamente, se podrá subrogar en todas las acciones y derechos que correspondan a los beneficiarios.
+Se modifica por la disposición final 10 de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#df-10
+
+### Artículo 9
+
+Artículo 9. Recursos administrativos.
+Las resoluciones del Instituto Nacional de la Seguridad Social relativas a las compensaciones a las personas perjudicadas por el amianto previstas en esta ley podrán ser objeto de recurso administrativo según lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+### Disposición adicional única
+
+Disposición adicional única. Inicio de actividades del Fondo de Compensación para las Víctimas del Amianto.
+La puesta en marcha e inicio de actividades del Fondo de Compensación para las Víctimas del Amianto tendrá lugar el mismo día en que entre en vigor el reglamento de desarrollo de la presente ley, el cual deberá dictarse en el plazo de tres meses desde la publicación de esta en el «Boletín Oficial del Estado».
+Con carácter previo al inicio de las actividades del Fondo, el Gobierno lo dotará de los medios humanos y materiales necesarios.
+
+### Disposición final primera
+
+Disposición final primera. Facultades de desarrollo reglamentario.
+Se faculta al Gobierno para dictar cuantas disposiciones sean necesarias para el desarrollo de la presente ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+Esta ley entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado».
+
+### [firma]
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 19 de octubre de 2022.
+FELIPE R.
+El Presidente del Gobierno,
+PEDRO SÁNCHEZ PÉREZ-CASTEJÓN

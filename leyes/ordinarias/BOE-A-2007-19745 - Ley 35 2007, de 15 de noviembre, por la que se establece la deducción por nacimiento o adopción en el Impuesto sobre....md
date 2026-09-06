@@ -1,0 +1,172 @@
+# Ley 35/2007, de 15 de noviembre, por la que se establece la deducción por nacimiento o adopción en el Impuesto sobre la Renta de las Personas Físicas y la prestación económica de pago único de la Seguridad Social por nacimiento o adopción.
+
+- Identificador BOE: `BOE-A-2007-19745`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-19745
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+El artículo 39 de la Constitución española ordena a los poderes públicos asegurar una protección adecuada a la familia, en los ámbitos social, económico y jurídico. Se trata de principios programáticos que se sitúan en la misma línea de otras declaraciones contenidas en diferentes instrumentos internacionales, entre los que se encuentran la Carta de los Derechos Fundamentales de la Unión Europea o la Carta Social Europea, que consideran a la familia como elemento esencial de la sociedad, teniendo derecho a una protección, en los planos jurídico, económico y social, para lograr su desarrollo.
+En el marco de la protección a la familia, el sistema de la Seguridad Social contempla unas prestaciones económicas por hijo o menor acogido a cargo, cuya cuantía está en función de la edad y las circunstancias de los hijos. De igual modo, la legislación fiscal regula determinados beneficios, que guardan relación con las cargas familiares, tanto en lo que afecta a la determinación de la base liquidable, en función de la aplicación del «mínimo familiar», como al establecimiento de una deducción de maternidad, en favor de las personas, dadas de alta en la Seguridad Social que tengan a cargo un menor de 3 años.
+No obstante, el Gobierno ha considerado necesario complementar dichas prestaciones e incrementar el apoyo otorgado en nuestro país a la familia, dado que esta función social es un área que merece una protección prioritaria. Nuestro país se enfrenta a unas previsiones de importante envejecimiento de la población, que han motivado que se hayan tratado de mejorar las condiciones de las familias en las que se producen nuevos nacimientos o adopciones, buscando con ello hacer frente a largo plazo a esa tendencia poblacional. Dicha finalidad ha motivado que se exija a las personas beneficiarias de la nueva prestación una residencia efectiva en el territorio español durante al menos los dos años anteriores al nacimiento o la adopción.
+El contenido de la presente norma trata de contribuir al objetivo anterior estableciendo una nueva prestación por nacimiento o adopción de hijo, que consiste en un pago único cuya finalidad es compensar en parte los mayores gastos que ocasiona el nuevo ser, en especial en la primera etapa de su vida. Esta nueva prestación tiene una doble naturaleza. Para las personas que realicen una actividad por cuenta propia o ajena por la cual estén dadas de alta en la Seguridad Social en el momento del nacimiento o la adopción, o hubieran percibido en el período impositivo anterior rendimientos o ganancias de patrimonio, sujetos a retención o ingreso a cuenta, o rendimientos de actividades económicas por los que se hubieran efectuado los correspondientes pagos fraccionados, la prestación adquiere el carácter de beneficio fiscal y minora la cuota diferencial del Impuesto sobre la Renta de las Personas Físicas, pudiendo percibirse de forma anticipada. Por el contrario, de forma subsidiaria, para las personas que no tienen derecho al beneficio fiscal antes indicado por no encontrarse en la situación descrita, el pago adquiere la naturaleza de prestación de Seguridad Social, en su modalidad no contributiva.
+La nueva prestación es compatible con la actual deducción por maternidad regulada en el Impuesto sobre la Renta de las Personas Físicas, si bien ambas prestaciones responden a finalidades distintas; mientras la última busca fomentar la incorporación de la mujer al mercado laboral, la primera trata de compensar los gastos ocasionados por la incorporación de un nuevo hijo a la unidad familiar. La nueva prestación también es compatible con las prestaciones por hijo a cargo o por nacimiento o adopción de tercer o sucesivos hijos, así como con la correspondiente prestación por parto o adopción múltiples de la Seguridad Social.
+Dada la diferente naturaleza de los beneficios contemplados en la presente Ley, resulta, asimismo, distinta la cobertura financiera de los mismos que, respecto de la deducción fiscal, recae en la parte estatal de la cuota del Impuesto sobre la Renta de las Personas Físicas, mientras que, en su vertiente de prestación no contributiva de Seguridad Social, será financiada por aportaciones del Estado al presupuesto de la Seguridad Social, de acuerdo con las previsiones contenidas en el artículo 86 de la Ley General de la Seguridad Social.
+Con esta medida se viene a complementar, en el ámbito de las ayudas a la familia, el conjunto de instrumentos que, a lo largo de la legislatura, se han ido aprobando para facilitar la conciliación de la vida personal, familiar y laboral de las personas y compensar, en cierto grado, los gastos ocasionados en el hogar familiar, entre los que convendría destacar la importante elevación de los mínimos personales y familiares en la nueva Ley del Impuesto sobre la Renta de las Personas Físicas.
+Por último, la coordinación entre el Gobierno de España y las Comunidades Autónomas ha de facilitar una integración efectiva de las políticas de apoyo a la familia de las diferentes Administraciones, que, además de otros objetivos, permita garantizar a los núcleos familiares que se sitúen en tomo al umbral de la pobreza, a través de la actuación conjunta de los servicios y de las prestaciones económicas, que el nacimiento o la adopción de hijos no empeora su renta disponible y su bienestar. A tales efectos, se deberá realizar una evaluación de la situación del colectivo señalado así como de los elementos de refuerzo necesarios en la acción pública.
+
+### Artículo 1
+
+Artículo 1. Objeto.
+(Derogado)
+Se deroga, con efectos desde el 1 de enero de 2011, por la disposición derogatoria única.1 b) del Real Decreto-Ley 8/2010, de 20 de mayo. Ref. BOE-A-2010-8228
+
+### Artículo 2
+
+Artículo 2. Personas beneficiarias.
+(Derogado)
+Se deroga, con efectos desde el 1 de enero de 2011, por la disposición derogatoria única.1 b) del Real Decreto-Ley 8/2010, de 20 de mayo. Ref. BOE-A-2010-8228
+
+### Artículo 3
+
+Artículo 3. Instrumentación e importe.
+(Derogado)
+Se deroga, con efectos desde el 1 de enero de 2011, por la disposición derogatoria única.1 b) del Real Decreto-Ley 8/2010, de 20 de mayo. Ref. BOE-A-2010-8228
+
+### Artículo 4
+
+Artículo 4. Plazo y procedimiento para su solicitud.
+(Derogado)
+Se deroga, con efectos desde el 1 de enero de 2011, por la disposición derogatoria única.1 b) del Real Decreto-Ley 8/2010, de 20 de mayo. Ref. BOE-A-2010-8228
+
+### Artículo 5
+
+Artículo 5. Competencia para la gestión y administración de la prestación no contributiva de la Seguridad Social.
+(Derogado)
+Se deroga, con efectos desde el 1 de enero de 2011, por la disposición derogatoria única.1 b) del Real Decreto-Ley 8/2010, de 20 de mayo. Ref. BOE-A-2010-8228
+
+### Disposición adicional primera
+
+Disposición adicional primera. Nacimientos y adopciones que dan derecho a la presente ayuda.
+(Derogada)
+Se deroga con efectos desde el 1 de enero de 2011, por la disposición derogatoria única.1 b) del Real Decreto-Ley 8/2010, de 20 de mayo. Ref. BOE-A-2010-8228
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Contribuyentes a los que resulte aplicable la normativa foral del Impuesto sobre la Renta de las Personas Físicas.
+(Derogada)
+Se deroga con efectos desde el 1 de enero de 2011, por la disposición derogatoria única.1 b) del Real Decreto-Ley 8/2010, de 20 de mayo. Ref. BOE-A-2010-8228
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Coordinación con las Comunidades Autónomas.
+En el marco de las políticas familiares, el Gobierno impulsará la coordinación con las Comunidades Autónomas en la determinación de las circunstancias asociadas a las ayudas familiares y en la integración de las políticas de la Seguridad Social con las de las mismas, a fin de conseguir un mayor grado de eficacia en la consecución de los objetivos comunes, respetando en todo caso el marco competencial de las Comunidades Autónomas.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Políticas tendentes a la escolarización de cero a tres años.
+En el marco de las políticas estatales, siempre con respeto al marco competencial de las Comunidades Autónomas, el Gobierno impulsará políticas tendentes a desarrollar la escolarización de cero a tres años.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Políticas tendentes al desarrollo de la conciliación de la vida laboral, personal y familiar.
+En el marco de las políticas estatales, siempre con respeto al marco competencial de las Comunidades Autónomas, el Gobierno impulsará políticas tendentes a desarrollar la conciliación de la vida laboral, personal y familiar.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Perspectiva de género.
+En el diseño, aplicación y evaluación de las políticas familiares se potenciará la perspectiva de género.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Convenios de financiación de centros y servicios que posibiliten la red de escuelas infantiles en el tramo de cero a tres años.
+A partir de los Presupuestos Generales del Estado de 2008 se incrementarán sustancialmente las partidas destinadas a financiar, mediante convenio entre la Administración del Estado y las Comunidades Autónomas y otras Administraciones, las nuevas inversiones y la puesta en marcha de nuevos centros y servicios que posibiliten la extensión y generalización de la red de escuelas infantiles en el tramo de cero a tres años.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Comunicaciones presentadas antes de la entrada en vigor de esta Ley.
+Las comunicaciones de nacimientos o adopciones presentadas con anterioridad a la entrada en vigor de esta Ley por las personas que reúnan los requisitos establecidos en ella o por sus representantes legales, tendrán la consideración de solicitudes de acuerdo con lo previsto en el artículo 4 de esta Ley, entendiéndose formuladas desde la fecha de entrada en vigor de la misma.
+
+### Disposición final primera
+
+Disposición final primera. Modificaciones de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de los no Residentes y sobre el Patrimonio.
+Uno. Se añade un punto z) al artículo 7 de la Ley, en los siguientes términos:
+«z) Las prestaciones y ayudas familiares percibidas de cualquiera de las Administraciones Públicas, ya sean vinculadas a nacimiento, adopción, acogimiento o cuidado de hijos menores.»
+Dos. Se añade un nuevo artículo 81 bis, que quedará redactado en los siguientes términos:
+«Artículo 81 bis. Deducción por nacimiento o adopción.
+1. Los contribuyentes a que se refiere el artículo 2 de la Ley 35/2007, de 15 de noviembre, podrán minorar la cuota diferencial de este Impuesto en 2.500 euros anuales por cada hijo nacido o adoptado en el período impositivo, siempre que cumplan cualquiera de las siguientes condiciones:
+a) que realicen una actividad por cuenta propia o ajena por la cual estén dados de alta en el régimen correspondiente de la Seguridad Social o mutualidad en el momento del nacimiento o la adopción.
+b) que hubieran obtenido durante el período impositivo anterior rendimientos o ganancias de patrimonio, sujetos a retención o ingreso a cuenta, o rendimientos de actividades económicas por los que se hubieran efectuado los correspondientes pagos fraccionados.
+La deducción se practicará en el período impositivo en el que se haya efectuado la inscripción del descendiente en el Registro Civil.
+2. Se podrá solicitar a la Agencia Estatal de Administración Tributaria el abono de la deducción de forma anticipada, pudiendo ceder, en su caso, al otro progenitor o adoptante que cumpla los requisitos previstos en el artículo 2.2 de la Ley 35/2007, de 15 de noviembre, el derecho a su cobro una vez le sea reconocido. Se entenderá que no existe transmisión lucrativa a efectos fiscales por esta cesión.
+Cuando se perciba la deducción de forma anticipada no se minorará la cuota diferencial del impuesto.
+3. En ningún caso se tendrá derecho a esta deducción cuando, en relación con el mismo nacimiento o adopción, ya hubiera percibido la prestación a que se refiere la letra b) del artículo 3 de la Ley 35/2007, de 15 de noviembre.»
+Tres. Se modifican los apartados 1 y 2 del artículo 103, que quedan redactados en los siguientes términos.
+«Artículo 103. Devolución derivada de la normativa del tributo.
+1. Cuando la suma de las retenciones, ingresos a cuenta y pagos fraccionados de este Impuesto, así como de las cuotas del Impuesto sobre la Renta de no Residentes a que se refiere el párrafo d) del artículo 79 de esta Ley y, en su caso, de las deducciones previstas en los artículos 81 y 81 bis de esta Ley, sea superior al importe de la cuota resultante de la autoliquidación, la Administración tributaria practicará, si procede, liquidación provisional dentro de los seis meses siguientes al término del plazo establecido para la presentación de la declaración.
+Cuando la declaración hubiera sido presentada fuera de plazo, los seis meses a que se refiere el párrafo anterior se computarán desde la fecha de su presentación.
+2. Cuando la cuota resultante de la autoliquidación o, en su caso, de la liquidación provisional, sea inferior a la suma de las cantidades efectivamente retenidas y de los pagos a cuenta de este Impuesto realizados, así como de las cuotas del Impuesto sobre la Renta de no Residentes a que se refiere el párrafo d) del artículo 79 de esta Ley y, en su caso, de las deducciones previstas en los artículos 81 y 81 bis de esta Ley, la Administración tributaria procederá a devolver de oficio el exceso sobre la citada cuota, sin perjuicio de la práctica de las ulteriores liquidaciones, provisionales o definitivas, que procedan.»
+Cuatro. Se añade una nueva disposición adicional vigésimo sexta, que quedará redactada en los siguientes términos:
+«Disposición adicional vigésimo sexta. Deducción por nacimiento o adopción en el período impositivo 2007.
+Lo previsto en los artículos 81 bis y 103 de esta Ley sólo resultará aplicable respecto de los nacimientos que se hubieran producido a partir del 1 de julio de 2007, así como de las adopciones que se hubieran constituido a partir de dicha fecha.»
+Se modifica el apartado 3, con efectos desde la entrada en vigor de la Ley 35/2007, de 15 de noviembre, por la disposición final 4 de la Ley 41/2007, de 7 de diciembre. Ref. BOE-A-2007-21086
+
+### Disposición final segunda
+
+Disposición final segunda. Modificaciones de la Ley General de la Seguridad Social, texto refundido aprobado por Real Decreto Legislativo 1/1994, de 20 de junio.
+Uno. Se modifica el párrafo b) del artículo 181, en los siguientes términos:
+«b) Una prestación económica de pago único a tanto alzado por nacimiento o adopción de hijo, en supuestos de familias numerosas, monoparentales y en los casos de madres discapacitadas.»
+Dos. Se añade un nuevo párrafo d) al artículo 181, con la siguiente redacción:
+«d) Una prestación económica de pago único por nacimiento o adopción de hijo.»
+Tres. Se modifica el primer párrafo de la letra c) del apartado 1 del artículo 182, en los siguientes términos:
+«c) No perciban ingresos anuales, de cualquier naturaleza, superiores a 11.000 euros. La cuantía anterior se incrementará en un 15 por 100 por cada hijo o menor acogido a cargo, a partir del segundo, éste incluido.»
+Cuatro. Se modifica el apartado 1 del artículo 182 bis, en los siguientes términos:
+«1. La cuantía de la asignación económica a que se refiere el párrafo a) del artículo 181 será en cómputo anual de 500 euros, cuando el hijo o menor acogido a cargo tenga una edad inferior a 3 años, y de 291 euros, cuando el hijo o menor acogido a cargo tenga una edad comprendida entre los 3 y 18 años de edad, salvo en los supuestos especiales que se contienen en el artículo siguiente.»
+Cinco. Se modifica el párrafo a) del apartado 2 del artículo 182 bis, en los siguientes términos:
+«a) 1.000 euros cuando el hijo o menor acogido a cargo tenga un grado de discapacidad igual o superior al 33 por ciento.»
+Seis. Se modifica la rúbrica de la Subsección 2.ª, Sección 2.ª, Capítulo IX, Título II, que pasa a tener la siguiente redacción:
+«Subsección 2.ª Prestación económica de pago único a tanto alzado por nacimiento o adopción de hijo en supuestos de familias numerosas monoparentales y en los casos de madres discapacitadas.»
+Siete. Se modifica el apartado 1 del artículo 185, en los siguientes términos:
+«1. En los casos de nacimiento o adopción de hijo en España en una familia numerosa o que, con tal motivo, adquiera dicha condición, en una familia monoparental o en los supuestos de madres que padezcan una discapacidad igual o superior al 65 por ciento, se tendrá derecho a una prestación económica del sistema de la Seguridad Social, en la cuantía y en las condiciones que se establecen en los siguientes apartados.
+A los efectos de la consideración de la familia numerosa, se estará a lo dispuesto en la Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas.
+Se entenderá por familia monoparental la constituida por un solo progenitor con el que convive el hijo nacido o adoptado y que constituye el sustentador único de la familia.»
+Ocho. Se modifica el apartado 1 del artículo 186, que pasa a tener la siguiente redacción:
+«1. La prestación por nacimiento o adopción de hijo, regulada en la presente Subsección, consistirá en un pago único de 1.000 euros.»
+Nueve. Se incorpora, dentro de la Sección Segunda, Capítulo IX, Título II, una nueva Subsección, la 4.ª y los artículos 188 bis, 188 ter, 188 quáter, 188 quinquies y 188 sexies -pasando la actual Subsección 4.ª a constituir la Subsección 5.ª- todo ello en los siguientes términos:
+«Subsección 4.ª Prestación económica por nacimiento o adopción de hijo.
+Artículo 188 bis. Personas beneficiarias.
+Son beneficiarias de esta prestación las personas a que se refiere el artículo 2 de la Ley 35/2007, de 15 de noviembre, siempre que no hubieran tenido derecho a la deducción por nacimiento o adopción regulada en el artículo 81 bis de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de los no Residentes y sobre el Patrimonio.
+Artículo 188 ter. Cuantía.
+La prestación consistirá en un pago único de 2.500 euros por cada hijo nacido o adoptado.
+Artículo 188 quáter. Plazo para su solicitud.
+La solicitud se podrá efectuar a partir de la inscripción del descendiente en el Registro Civil.
+Artículo 188 quinquies. Cesión del cobro de la prestación al otro progenitor o adoptante.
+El derecho al cobro de la prestación económica podrá ser cedido al otro progenitor o adoptante una vez le sea reconocido, si éste reúne los requisitos establecidos en el artículo 2.2 de la Ley 35/2007, de 15 de noviembre. Se entenderá que no existe transmisión lucrativa a efectos fiscales por esta cesión.
+Artículo 188 sexies. Competencia para la gestión y administración.
+Corresponde al Instituto Nacional de la Seguridad Social, a través de su Director General, la gestión y administración de la prestación no contributiva a la que se refiere la letra d) del artículo 181 de la Ley General de la Seguridad Social. Tanto esta competencia como la resolución de la reclamación previa a la vía judicial podrán ser objeto de delegación en los órganos de la Agencia Estatal de Administración Tributaria, con los efectos del artículo 13 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y los requisitos referido a los órganos delegados del apartado cuarto de la disposición adicional decimotercera de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.»
+Diez. Se incorpora el apartado 4 en el artículo 189, en los términos siguientes:
+«4. La percepción de la prestación por nacimiento o adopción de hijo será compatible con la percepción de las demás prestaciones familiares de la Seguridad Social, reguladas en la presente Sección.»
+
+### Disposición final tercera
+
+Disposición final tercera. Habilitación normativa.
+Se faculta al Gobierno para dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de la presente Ley.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial, del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 15 de noviembre de 2007.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

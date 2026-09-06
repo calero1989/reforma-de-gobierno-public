@@ -1,0 +1,778 @@
+# Ley 1/1984, de 19 de enero reguladora de la Administración institucional de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1984-5399`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1984-5399
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada, por Resolución de 9 de febrero, en BOCM núm. 37, de 13 de febrero de 1984.
+
+## Preámbulo
+
+Aprobada por la Asamblea de Madrid la Ley 1/1984, publicada en el «Boletín Oficial de la Comunidad de Madrid» número 29, de fecha 3 de febrero de 1984, se inserta a continuación el texto correspondiente.
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo.
+EXPOSICIÓN DE MOTIVOS
+I. La Administración pública de la Comunidad, con el fin de lograr la mejor forma de prestar servicio al pueblo de Madrid, requiere adecuar su estructura para deteminadas actuaciones, cuya realización resultaría poco ágil y más cara, sin cierta autonomía funcional, muy limitada en una organización jerárquicamente ordenada.
+Por otra parte, la participación de entidades y asociaciones ciudadanas de diverso tipo, interesadas en la gestión de determinados servicios públicos, hace necesario también dotar de autonomía a los entes a los que se atribuya la ejecución de una competencia, ya que la citada participación, salvo en lo referente a iniciativas e información, no es propia de la organización jerárquica. Esta participación se hace aún más necesaria por cuanto la Comunidad pretende impulsar, dentro de sus competencias, la actividad económica del territorio de Madrid, y tal impulso va a exigir en múltiples ocasiones la participación de los particulares interesados.
+Finalmente, la larga tradición de existencia de una Administración institucional de la extinguida Diputación Provincial de Madrid que gestionaba servicios públicos de gran trascendencia social obliga a regular en el momento de formarse la Comunidad de Madrid y subrogarse ésta en las relaciones jurídicas derivadas de las actividades desarrolladas por aquélla la transformación de los órganos especiales de gestión, fundaciones públicas del servicio y sociedades existentes, regidas por la legislación local, en otros organismos sujetos al régimen jurídico autonómico.
+II. La transformación de la Administración institucional existente y la creación de la nueva que resulte necesaria se debe efectuar bajo los principios de eficacia, economía y participación. No se va a buscar, en consecuencia, una multiplicación de organismos y entes, sino que la creación de los mismos únicamente se realizará cuando los fines específicos que se pretendan conseguir, o la necesaria participación de los administrados en la gestión de diversos servicios o actividades, hagan necesario un determinado nivel de autonomía funcional. En cualquier caso rige el llamado «principio de especialidad»: los entes actuarán en consecuencia al servicio de los fines para los que sean creados.
+No se debe intentar, en ningún caso, por medio de la Administración institucional, huir de los controles propios del Derecho administrativo. Se pretende en la presente Ley, por el contrario, fijar un derecho de referencia obligada para estas entidades y que, independientemente de sus legítimas particularidades derivadas de los fines muy diversos para los que se creen, tengan un cierto grado de homogeneidad en cuanto a creación y extinción, órganos de gobierno, régimen presupuestario, contratos recursos, reclamaciones y personal.
+III. Tanto en el Estado como en las Administraciones locales han existido diversos supuestos de entes institucionales. Unos pese a carecer de personificación, tienen una determinada autonomía funcional que sirve a la mejor consecución de sus fines. Otros con personalidad distinta de la Administración matriz que los crea, adoptan una forma pública de personificación con las prerrogativas y, por otra parte, los controles que ello conlleva. Finalmente, y para el cumplimiento de determinadas actuaciones públicas en el mundo económico de la producción y de los servicios, se han ido creando entidades de naturaleza mercantil y propiedad pública o mixta que actúan en el tráfico en régimen de Derecho privado, recogiendo aspectos de los dos últimos tipos se encuentran los entes con personalidad pública y régimen de actuación de Derecho privado.
+La Ley, teniendo en cuenta los precedentes normativos, en particular la Ley de Entidades Estatales Autónomas de 26 de diciembre de 1958, la Ley General Presupuestaria de 4 de enero de 1977 y el Reglamento de Servicios de las Corporaciones locales de 17 de junio de 1955, opta por abarcar en su ámbito de aplicación los tres supuestos básicos antes mencionados, denominándoles, respectivamente, órganos de gestión sin personalidad jurídica, organismos autónomas y empresas públicas. El cuarto supuesto –entes con forma pública de personificación que actúan en el tráfico en régimen de Derecho privado– es recogido también dentro de la regulación legal como uno de los supuestos de empresa pública.
+IV. Si bien la Ley establece que la personalidad jurídica de los organismos autónomos es distinta de la de la Comunidad, y en consecuencia dichas entidades gozan, junto al aspecto público de la competencia que se les atribuye, de una existencia, de una realidad jurídica general en el mundo del Derecho (también en el mundo del Derecho privado), que no tienen los órganos de gestión, también señala con claridad que no se trata de personas independientes de la Comunidad.
+La atribución de personalidad jurídica a los organismos autónomos obedece a una técnica organizatoria que pretende la sola instrumentalización de los citados organismos para el cumplimiento de sus fines, que siguen siendo propios de la Administración que los crea, estableciéndose una relación de dirección de ésta sobre aquéllos. La personalidad limitada de carácter instrumental de los organismos autónomos y la citada relación de dirección son la base de la comunicabilidad del patrimonio, de la integración presupuestaria de las medidas de fiscalización y control, del llamado recurso de alzada impropio y de las especialidades que la Ley introduce en el régimen jurídico del personal al servicio de dichos organismos.
+V. La Ley regula la creación y extinción de las diversas entidades públicas de carácter institucional, exigiendo rango de Ley o de Decreto, según tengan o no los referidos entes personalidad jurídica distinta de la de la Comunidad.
+Respecto de las empresas públicas y en armonía con las facultades que la Ley de Presupuestos de la Comunidad otorgue anualmente al Consejo de Gobierno, la Ley hace depender la exigencia de rango de que la cuantía de la aportación pública exceda o no la cantidad autorizada al ejecutivo.
+VI. Con independencia de la remisión a la Ley de Sociedades Anónimas y a sus estatutos respectivos de la regulación de los órganos de gobierno de las empresas públicas constituidas como Sociedades Anónimas, la Ley establece una estructura de los referidos órganos de gobierno de los organismos autónomos y órganos de gestión, dando amplias facultades al Consejo de Administración, que en cualquier caso podrá recabar las del Gerente, determinadas también en el texto legal, y que deberán ser ejercidas conforme a las directrices que fije el Consejo. Este podrá delegar parcialmente sus facultades en un Consejero-Delegado previa autorización del Consejo de Gobierno.
+La Ley, en desarrollo de las facultades de control e intervención que la Comunidad ostenta sobre los entes institucionales, otorga al Consejo de Gobierno la competencia sobre el nombramiento, y, en su caso, cese de los miembros del Consejo de Administración y del Gerente.
+Dada la variedad de fines específicos de los entes y con el propósito de mejorar el conocimiento de los aspectos técnicos de los asuntos sometidos a la resolución del Consejo, así como de aumentar la participación de los interesados, la Ley establece la posibilidad de nombrar miembros adscritos al Consejo de Administración con voz pero sin voto.
+VII. En las materias presupuestaria y contable la Ley, sobre la base del equilibrio entre el principio de unidad del presupuesto de la Comunidad de Madrid y la necesaria autonomía de los entes de su Administración institucional, hace una remisión a la Ley de Gobierno y Administración de la Comunidad en cuanto regule estos aspectos y a la legislación básica del Estado, fundamentalmente la Ley General Presupuestaria de 4 de enero de 1977, aplicable a las entidades de análoga naturaleza de la Administración del Estado.
+VIII. La Ley determina que la contratación de los organismos autónomos se regirá por la legislación del Estado con las particularidades derivadas de la organización propia de los mismos y de su dependencia de la Comunidad Autónoma. En este sentido, adapta los preceptos contenidos en la Ley de Contratos del Estado y en el Reglamento General de Contratación del Estado que la desarrolla.
+IX. La Ley regula el régimen jurídico de los entes institucionales desarrollando los principios básicos y remitiendo expresamente para todo lo no previsto a la legislación estatal que integrará el ordenamiento autonómico, bien por la vía de supletoriedad, bien por analogía.
+Se establece el llamado recurso de alzada impropio contra las resoluciones y actos de los entes descentralizados, recurso que no choca con el carácter de personalidad distinta de la Comunidad que tienen los organismos autónomos, sino que es lógica consecuencia de la relación de dirección existente entre aquéllas y éstos.
+X. La doctrina es casi unánime al señalar que las competencias respecto a las actividades y servicios que desarrollan, aunque localizadas en el ente institucional, siguen perteneciendo a la Administración pública de la que depende aquél, pertenencia que explica el hecho de que la responsabilidad política derivada del ejercicio de la competencia corresponde a la administración matriz. De esta especial situación surge la necesidad de fiscalización, control y tutela de los entes institucionales por parte de la Comunidad, siendo regulada ampliamente por la Ley la forma en que se desarrollan aquéllos.
+XI. La Ley regula, de forma acorde con los preceptos de la Ley de Gobierno y Administración de la Comunidad de Madrid, los supuestos de adscripción de un ente institucional a varias Consejerías, en previsión de que la naturaleza interdisciplinar de los fines de creación, exija la superación de la exclusiva dependencia de un solo departamento.
+XII. La transformación de una Administración institucional regida por la legislación local en una dependencia y al servicio de una Comunidad Autónoma y, por otra parte, la transferencia de organismos autónomos dependientes del Estado, hacían urgente el que la Ley regulase el régimen jurídico del personal al servicio de los organismos autónomos.
+No hubiese resultado correcto recoger únicamente los criterios existentes para situaciones absolutamente diversas de las que se plantean. Criterios de los que han comenzado a desmarcarse la Ley del Proceso Autonómico, así como la reciente jurisprudencia y que además están reconocidos como obsoletos por la práctica totalidad de la doctrina. En consecuencia, y tomando como base, por una parte, el hecho de que en múltiples ocasiones la Comunidad transfiere al ente una funcion en bloque y, por otra, las nuevas ideas de racionalización de las relaciones de los empleados al servicio de las Administraciones públicas con las mismas, la Ley regula el mantenimiento de la relación de servicio del funcionario del ente con la Comunidad, sin perjuicio de su dependencia orgánica y funcional del organismo autónomo.
+Además, en base al carácter meramente instrumental de la personalidad atribuida a los organismos autónomos, la Ley regula la movilidad del personal laboral de los mismos.
+XIII. La Ley regula las empresas públicas de la Comunidad, cuya creación suele ser especialmente necesaria en la actividad económica por la utilidad que supone en la misma, acogerse a un régimen de actuaciones de Derecho privado. Pero si su actuación escapa a una determinada rigidez pública, no se puede olvidar que, por una parte, son fondos públicos los que sirven de base a esas empresas y, por otra, y de acuerdo con el artículo 63.2 del Estatuto de Autonomía, que las líneas generales de actuación del sector público económico deben ir coordinadas con la actividad presupuestaria anual. En consecuencia, la Ley establece las líneas de dicha coordinación con remisión a la Ley General Presupuestaria y, por otra parte, el sometimiento de las antedichas empresas al régimen de la contabilidad pública y al control parlamentario.
+Dentro de la categoría de empresas públicas, la Ley distingue las de personalidad privada, constituidas como sociedades anónimas, de las que tienen personalidad de Derecho público, sin que ello sea óbice a que su régimen de actuación se someta al Derecho privado.
+XIV. Las disposiciones adicionales de la Ley contemplan la regulación de la necesaria transformación de la Administración institucional de la extinguida Diputación Provincial de Madrid en la propia de la Comunidad, siguiendo, en general, el paralelismo que indica la doctrina entre organismos autónomos y fundaciones públicas del servicio y el de empresas públicas y sociedades privadas.
+Era, por otra parte, preciso homogeneizar la Administración institucional de la Comunidad, por lo cual, la Ley señala para las fundaciones públicas del servicio de la Diputación Provincial un período de adaptación máximo de un año, transcurrido el cual, si no son adaptadas, se prevé su extinción, regulándose las particularidades de ésta.
+
+## TÍTULO PRELIMINAR
+
+### Art 1
+
+Art. 1.
+La Comunidad de Madrid, de acuerdo con la legislación básica del Estado y en cumplimiento de lo señalado en los artículos 39 y 40 de su Estatuto de Autonomía, podrá crear, para la prestación de determinados servicios públicos o el ejercicio de actividades que coadyuven a su realización, entidades de carácter institucional con el régimen y requisitos establecidos en la presente Ley.
+
+### Art 2
+
+Art. 2.
+1. El sector público institucional de la Comunidad de Madrid estará formado por:
+a) Los organismos públicos vinculados o dependientes de la Administración de la Comunidad de Madrid, bien directamente o bien a través de otro organismo público, que se clasifican en:
+1.oOrganismos autónomos.
+2.oEntes de Derecho público de régimen especial.
+3.oEntes de Derecho público sometidos al derecho privado.
+b) Las sociedades mercantiles.
+c) Los consorcios adscritos a la Administración de la Comunidad de Madrid.
+d) Las fundaciones del sector público.
+e) Las universidades públicas.
+2. Los sujetos del sector público institucional de la Comunidad de Madrid se definen de la siguiente manera:
+a) Son organismos autónomos las entidades de derecho público creadas por ley de la Asamblea, con personalidad jurídica propia, patrimonio propio y autonomía en su gestión, a quienes se encomienda expresamente en régimen de descentralización actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público, susceptibles o no de contraprestación.
+b) Son entes de Derecho público de régimen especial las entidades de derecho público, creadas por ley, con personalidad jurídica propia, patrimonio propio y autonomía en su gestión, a quienes se encomienda expresamente en régimen de descentralización, actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público, susceptibles o no de contraprestación, con especialidades en su régimen jurídico.
+c) Son entes de Derecho público sometidos al derecho privado las entidades de derecho público creadas por ley, con personalidad jurídica propia, patrimonio propio y autonomía en su gestión, que desarrollan actividades prestacionales, de gestión de servicios o de producción de bienes de interés público susceptibles de contraprestación y que, por la singularidad de su actividad, deben ajustarse al ordenamiento jurídico privado.
+d) Son sociedades mercantiles de la Comunidad de Madrid aquellas en cuyo capital sea mayoritaria la participación, directa o indirecta, de la Administración de la Comunidad de Madrid o de cualquiera de los sujetos de su sector público institucional, incluida otra sociedad mercantil; así como, las que se encuentren en el supuesto del artículo 42 del Código de Comercio respecto de la Administración de la Comunidad de Madrid o de cualquiera de los sujetos de su sector público.
+e) Son consorcios adscritos a la Administración de la Comunidad de Madrid las entidades de derecho público, con personalidad jurídica propia, creadas por varias Administraciones Públicas o entidades integrantes del sector público institucional, entre sí o con participación de entidades privadas, para el desarrollo de actividades de interés común a todas ellas dentro del ámbito de sus competencias, cuyos estatutos determinen su adscripción a la Comunidad de Madrid de conformidad con lo dispuesto en la legislación básica estatal.
+f) Son fundaciones del sector público autonómico aquellas que realizan actividades sin ánimo de lucro, para el cumplimiento de fines de interés general, con independencia de que el servicio se preste de forma gratuita o mediante contraprestación y que reúnen alguno de los requisitos siguientes:
+1.oQue se constituyan de forma inicial, con una aportación mayoritaria, directa o indirecta, de la Administración de la Comunidad de Madrid o cualquiera de los sujetos integrantes del sector público institucional autonómico, o bien reciban dicha aportación con posterioridad a su constitución.
+2.oQue el patrimonio de la fundación esté integrado en más de un 50 % por bienes o derechos aportados o cedidos por la Administración de la Comunidad de Madrid o cualquiera de los sujetos integrantes del sector público institucional autonómico con carácter permanente.
+3.oLa mayoría de derechos de voto en su patronato corresponda a representantes de la Administración de la Comunidad de Madrid o del sector público institucional autonómico.
+g) Las universidades públicas de la Comunidad de Madrid, que se regirán por su legislación específica.
+Se modifica por la disposición final 1.1 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+ Se modifica el apartado 2 c).1 por la diposición adicional 7.1 de la Ley 3/2001, de 21 de junio. Ref. BOE-A-2001-14644#daseptima.
+ Se modifica el apartado 2 c).1 por la diposición adicional 8 de la Ley 4/1987, de 23 de diciembre. Ref. BOE-A-1988-12122.
+ Se modifica el apartado 2 c).1 por la diposición adicional 7 de la Ley 7/1986, de 23 de julio. Ref. BOE-A-1987-5873.
+ Redactado conforme a la corrección de errores publicada en BOCM núm. 183, de 4 de agosto de 1986.
+
+### Art 3
+
+Art. 3.
+A la empresa pública Radio Televisión Madrid, S. A. le será de aplicación la presente Ley en los términos previstos en su legislación específica.
+Se modifica por la disposición final 2 de la Ley 8/2015, de 28 de diciembre. Ref. BOE-A-2016-2871#dfsegunda.
+
+## TÍTULO I
+
+De los organismos autónomos
+
+## CAPÍTULO 1
+
+De la creación, extinción y órganos de Gobierno
+
+### Art 4
+
+Art. 4.
+1. Los organismos autónomos se regirán por lo dispuesto en su Ley constitutiva en cuanto esté conforme con las normas que para ellos se establecen en la presente Ley.
+2. Podrán ser de carácter administrativo o bien de carácter comercial, industrial, financiero o análogos.
+
+### Art 5
+
+Art. 5.
+Las Leyes de creación de los organismos autónomos deberán contener las siguientes determinaciones:
+a) Carácter del organismo con arreglo a las categorías recogidas en el artículo 4.2 de la presente Ley.
+b) Funciones que hayan de tener a su cargo en el ámbito de su competencia, debiendo ser aprobada por Ley de la Asamblea cualquier modificación de las mismas.
+c) Consejería o Consejerías a que se adscriben.
+d) Régimen de acuerdos y composición de sus órganos.
+e) Bienes y medios económicos que se les asignen para el cumplimiento de sus fines y los que hayan de disponer para la realización de los mismos.
+
+### Art 6
+
+Art. 6.
+1. Los organismos autónomos se extinguen:
+a) Por Ley de la Asamblea.
+b) Por el transcurso del tiempo de existencia señalado en la Ley fundacional.
+2. El patrimonio de los organismos autónomos extinguidos pasará a la Comunidad.
+
+### Art 7
+
+Art. 7.
+1. Los órganos de Gobierno de los organismos autónomos son: el Consejo de Administración, su Presidente, el Gerente y, en su caso, el Consejero-Delegado.
+2. Por Decreto del Consejo de Gobierno podrán crearse órganos de asesoramiento y participación llamados Consejos Asesores, cuyos miembros serán nombrados a propuesta y en representación de asociaciones ciudadanas, de usuarios, sindicales, profesionales o empresariales.
+
+### Art 8
+
+Art. 8.
+Los miembros del Consejo de Administración, así como su Presidente, serán nombrados y, en su caso, cesados por acuerdo del Consejo de Gobierno, a propuesta del Consejero titular del departamento al que esté adscrito.
+El nombramiento de los cargos a que se refiere el párrafo anterior podrá recaer en el titular de la Consejería.
+En los supuestos de organismos autónomos de adscripción múltiple se estará a lo establecido en el artículo 39 de la presente Ley.
+
+### Art 9
+
+Art. 9.
+El Consejo de Gobierno podrá, asimismo, nombrar como miembros del Consejo de Administración, estableciendo las modalidades y efectos del nombramiento, a las personas que estime oportuno por su carácter representativo o técnico.
+
+### Art 10
+
+Art. 10.
+1. Las atribuciones del Consejo de Administración serán:
+a) Aprobación del anteproyecto del presupuesto del organismo.
+b) Aprobación de las cuentas anuales, así como de la memoria anual de las actividades del organismo, que serán presentadas al Consejero a cuyo departamento esté adscrito el ente, para su aprobación por el Consejo de Gobierno.
+c) La aprobación del programa de actuación anual.
+d) Los acuerdos referidos al ejercicio de toda clase de acciones y recursos, así como al desistimiento y allanamiento, dando cuenta de ello al Consejero al que esté adscrito el ente o al de la Presidencia en los supuestos de adscripción múltiple.
+e) El control de la actuación del Gerente.
+f) Aprobar las plantillas orgánicas y proceder a la ratificación de la adscripción de los funcionarios de carrera al servicio del organismo autónomo; nombrar y separar a sus funcionarios de empleo, contratar al personal en régimen laboral, así como ejercer todas las facultades referentes a retribuciones, jornadas de trabajo, régimen disciplinario y cese del personal dependiente del organismo autónomo, con arreglo a lo regulado en la presente Ley, en los convenios colectivos de aplicación y de acuerdo con las instrucciones dictadas por el Consejo de Gobierno.
+g) Aprobar los reglamentos que, dentro de sus competencias, estime procedentes, así como las normas de funcionamiento del propio Consejo.
+h) La aprobación y, en su caso, modificación de su organigrama funcional.
+i) El ejercicio de la vigilancia de todas las unidades y servicios del organismo autónomo.
+j) La aprobación de los convenios, conciertos y acuerdos de cooperación o cualesquiera otros con otras Administraciones públicas, dando cuenta previa al Consejero a cuyo departamento esté adscrito el ente y siempre dentro de sus competencias y de los límites presupuestarios.
+k) (Suprimida)
+l) (Suprimida)
+m) La Administración del patrimonio y bienes del ente.
+n) La propuesta de nombramiento y sustitución de los miembros de los Consejos de Administración de las Empresas públicas creadas por el organismo autónomo.
+o) El ejercicio de las atribuciones correspondientes respecto de los órganos de gestión que dependan del Organismo autónomo, que deberán ser fijadas por la Ley fundacional del Organismo autónomo o por el decreto del Consejo de Gobierno que autorice la creación de los referidos órganos de gestión.
+p) Cuantas facultades de gobierno y administración de los intereses peculiares del ente no estén atribuidas de un modo expreso a otro órgano del mismo.
+2. En los Consejos de Administración deberá existir un Secretario. Sus atribuciones serán determinadas en la Ley fundacional.
+Se suprimen las letras k) y l) del apartado 1 por el art. 11.1 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+
+### Art 11
+
+Art. 11.
+El Consejo de Administración podrá delegar en uno de sus miembros o en el Gerente las competencias señaladas en los párrafos d), f), i), k), l), m), s), o) y p) del apartado 1 del artículo anterior. Respecto a la delegación de competencias señaladas en el párrafo o), se estará a lo establecido en la Ley o Decreto correspondiente.
+Se modifica por la disposición adicional 3 de la Ley 9/1990, de 8 de noviembre. Ref. BOE-A-1991-413.
+ Se modifica por la disposición adicional 8 de la Ley 4/1990, de 4 de abril. Ref. BOE-A-1990-16634.
+ Se modifica por la disposición adicional 5 de la Ley 4/1987, de 23 de diciembre. Ref. BOE-A-1988-12122.
+ Redactado conforme a la corrección de errores publicada en BOCM núm. 66, de 18 de marzo de 1988.
+ Se modifica por la disposición adicional 6 de la Ley 12/1986, de 19 de diciembre. Ref. BOE-A-1987-8335.
+ Se modifica por la disposición adicional 4 de la Ley 11/1985, de 19 de diciembre. Ref. BOE-A-1986-15206.
+ Se modifica el segundo párrafo por la disposición adicional 5 de la Ley 2/1985, de 25 de febrero. Ref. BOE-A-1985-8401.
+
+### Art 12
+
+Art. 12.
+Corresponderá la representación del organismo autónomo al Presidente del Consejo de Administración, cuyo nombramiento y cese se regirá por lo señalado en el artículo 8 de la presente Ley.
+
+### Art 13
+
+Art. 13.
+1. a) El Gerente será nombrado y, en su caso, cesado, mediante decreto del Consejo de Gobierno, a propuesta del Consejo de Administración respectivo.
+b) Podrá, asimismo, el Gerente ser designado por el Consejo de Administración previa autorización del Consejo de Gobierno. La designación deberá ser publicada en el «Boletín Oficial de la Comunidad de Madrid».
+2. Serán sus funciones:
+a) Elaborar y proponer al Consejo de Administración la aprobación del programa de actuación anual y el anteproyecto de presupuesto del organismo.
+b) Rendir cuentas ante el Consejo de Administración del cumplimiento del presupuesto y someter al mismo las cuentas anuales.
+c) Elaborar la Memoria de las actividades desarrolladas y facilitar al Consejo la información que requiera sobre el desarrollo de las mismas.
+d) Ejecutar y hacer cumplir los acuerdos del Consejo de Administración.
+e) Formular propuestas de resolución, así como de actuación al Consejo de Administración en asuntos cuya aprobación le competa.
+f) Ejercer las atribuciones que en materia de personal le confiera la Ley de creación del ente.
+g) Celebrar contratos relativos a las materias propias de la competencia del Organismo Autónomo y ejercer cuantas facultades y competencias vengan atribuidas a los órganos de contratación por la legislación sobre contratos de las Administraciones Públicas y sus normas de desarrollo, sin perjuicio de la previa autorización del Gobierno en los supuestos contemplados en la Ley.
+h) Ordenar los gastos, dando cuenta al Consejo, dentro de los límites presupuestarios.
+i) Ordenar los pagos, dando cuenta al Consejo dentro de los límites presupuestarios.
+j) Asistir a las sesiones del Consejo, con voz y sin voto.
+k) Las demás que el Consejo de Administración le confiera.
+Se modifica la letra g) del apartado 2 por el art. 11.2 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+
+### Art 14
+
+Art. 14.
+El Consejo de Administración, en cualquier momento, podrá recabar para sí todas o parte de las atribuciones del Gerente.
+
+## CAPÍTULO 2
+
+De la hacienda
+
+### Art 15
+
+Art. 15.
+1. La hacienda de los organismos autónomos está formada por:
+a) Los derechos y obligaciones cuya titularidad les corresponde.
+b) Los productos y rendimientos de su patrimonio.
+c) Las subvenciones, aportaciones y donativos que reciba de la Comunidad, organismos, entidades y particulares.
+d) Los ingresos ordinarios y extraordinarios que estén autorizados a percibir, según las disposiciones por que se rijan.
+e) Los beneficios que obtengan en sus operaciones comerciales, industriales o análogas o, en general, en las que sean propias de su institución.
+f) Cualquiera otro recurso que pudiera serles atribuido.
+2. Los organismos autónomos, dentro de los límites y procedimientos señalados por las leyes, podrán emitir deuda pública o convenir operaciones de crédito a medio o largo plazo. La cuantía, características y finalidades de cada emisión de deuda pública, serán establecidas por el Consejo de Gobierno a propuesta del Consejero de Economía y Hacienda.
+Se modifican las letras a) y b) del apartado 1 por la disposición adicional 7.2 de la Ley 3/2001, de 21 de junio. Ref. BOE-A-2001-14644#daseptima.
+
+### Art 16
+
+Art. 16.
+1. Los organismos autónomos tienen derecho de prelación en concurrencia con otros acreedores, excepto el Estado, la Comunidad y los que lo sean de dominio, prenda, hipoteca o cualquier otro derecho real inscrito en un Registro Público, para el cobro de las cuotas que les correspondan como consecuencia de la aplicación de los ingresos de derecho público que tengan establecidos.
+2. Las certificaciones de descubierto acreditativas de deudas expedidas por funcionarios competentes serán título suficiente para iniciar la vía de apremio y tendrán la misma fuerza ejecutiva que la sentencia judicial, para proceder contra los bienes y derechos de los deudores.
+3. La efectividad de los derechos no comprendidos en el apartado primero se llevará a cabo con sujeción a las normas y procedimientos del Derecho privado.
+
+## CAPÍTULO 3
+
+De los presupuestos
+
+### Art 17
+
+Art. 17.
+Los organismos autónomos administrativos y mercantiles estarán sometidos al régimen presupuestario, de gestión económico-financiera y de control establecido en la ley que regula el régimen jurídico de la hacienda de la Comunidad de Madrid.
+Se modifica por la disposición final 1.2 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 18
+
+Art. 18.
+Los organismos autónomos administrativos y mercantiles quedan sujetos al régimen de contabilidad pública, de conformidad con lo establecido en la ley que regula el régimen jurídico de la hacienda de la Comunidad de Madrid.
+Se modifica por la disposición final 1.3 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+## CAPÍTULO 4
+
+De la contratación de los organismos autónomos
+
+### Art 19
+
+Art. 19.
+Los contratos que celebren los Organismos Autónomos de la Comunidad de Madrid se regirán por la legislación básica del Estado en materia de contratos de las Administraciones Públicas y por las leyes de la Asamblea de Madrid y demás normas de carácter reglamentario que se dicten para su desarrollo y ejecución.
+Se modifica por el art. 11.3 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+
+### Art 20
+
+Art. 20.
+1. Los Gerentes son los órganos de contratación de los Organismos Autónomos y están facultados para celebrar contratos en su nombre y representación, en el ámbito de sus respectivas competencias.
+2. Se requerirá, no obstante, la autorización previa del Gobierno de la Comunidad de Madrid para la celebración de los contratos en los siguientes supuestos:
+a) En los contratos de cuantía indeterminada.
+b) Cuando el importe del contrato coincida con las cuantías que para la autorización de gastos la Ley de Presupuestos Generales de la Comunidad de Madrid reserve a la autorización del Gobierno.
+c) En los contratos de carácter plurianual que requieran la modificación de los porcentajes o del número de anualidades a los que se refiere el artículo 55.4 de la Ley Reguladora de la Hacienda de la Comunidad de Madrid.
+d) Cuando se concierte el pago mediante los sistemas de arrendamiento financiero o de arrendamiento con opción de compra y el número de anualidades supere cuatro años.
+e) En los contratos de obras que se efectúen bajo la modalidad de abono total del precio, según lo previsto en la legislación sobre contratos públicos.
+f) En los contratos de suministros de bienes muebles con pago aplazado en el supuesto recogido en el artículo 57.3 de la Ley Reguladora de la Hacienda de la Comunidad de Madrid.
+3. El Gerente dará cuenta al Consejo de Administración del Organismo Autónomo de los contratos cuya celebración deba autorizar el Gobierno de la Comunidad de Madrid conforme a lo previsto en el apartado anterior.
+4. Cuando el Gobierno autorice la celebración del contrato deberá autorizar igualmente su modificación cuando sea causa de resolución y la resolución misma, en su caso.
+Se modifica la letra d) del apartado 2 por el art. 9.1 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+ Se modifica por el art. 11.4 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+ Se modifica por el art. 9.1 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Art 21
+
+Art. 21.
+1. Corresponde al Gobierno de la Comunidad de Madrid, a propuesta de la Junta Consultiva de Contratación Administrativa, a través del Consejero de Hacienda, y previo dictamen del Consejo de Estado, la aprobación de los pliegos de cláusulas administrativas generales.
+Corresponde al Gobierno de la Comunidad de Madrid a propuesta del Consejero correspondiente, la aprobación de los pliegos de prescripciones técnicas generales, previo informe de la Junta Consultiva de Contratación Administrativa.
+2. Compete a los órganos de contratación la aprobación de los proyectos técnicos y de los pliegos de prescripciones técnicas y de cláusulas administrativas particulares que hayan de servir de base a cada contrato.
+Los órganos de contratación podrán establecer modelos tipo de pliegos particulares de general aplicación a los contratos de naturaleza análoga, previo el preceptivo informe de los Servicios Jurídicos y de la Junta Consultiva de Contratación Administrativa.
+3. Se anunciarán en el ‟Boletín Oficial de la Comunidad de Madrid” las licitaciones y adjudicaciones de los contratos que de acuerdo con la legislación de contratos de las Administraciones Públicas estén sujetos a publicidad, sin perjuicio de la obligación, en su caso, de su publicación en otros diarios o boletines oficiales.
+Se modifica por el art. 9.2 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Art 22
+
+Art. 22.
+En cada Organismo autónomo existirá una Mesa de Contratación constituida por un presidente, un mínimo de cuatro vocales y un secretario designados por el órgano de contratación, el último entre funcionarios del mismo o, en su defecto, entre el personal a su servicio. Entre los vocales deberá figurar necesariamente un Letrado de los Servicios Jurídicos de la Comunidad de Madrid y un Interventor.
+La designación de los miembros de la Mesa de Contratación podrá hacerse con carácter permanente o de manera específica para la adjudicación de uno o más contratos. Si es permanente o se le atribuyen funciones para una pluralidad de contratos, su composición deberá publicarse en el ‟Boletín Oficial de la Comunidad de Madrid.
+Se modifica por el art. 9.3 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Art 23
+
+Art. 23.
+Las garantías que de conformidad con las disposiciones de la Ley de Contratos de las Administraciones Públicas se exijan en los contratos que celebren los órganos de contratación de los Organismos Autónomos, se depositarán indistintamente, cuando este requisito sea preceptivo, en la Tesorería del Organismo Autónomo, en la Tesorería de la Comunidad de Madrid o en los establecimientos equivalentes de otras Administraciones Públicas en los términos previstos en los convenios que a tal efecto se suscriban con las mismas.
+Se modifica por el art. 11.5 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+
+### Art 24
+
+Art. 24.
+1. Los organismos autónomos remitirán al Registro de Contratos de la Comunidad de Madrid los contratos que realicen en la forma, condiciones y con los efectos señalados por la normativa de la Comunidad aplicable a dicho Registro y por la Ley de Contratos del Estado y su Reglamento.
+2. La clasificación y registro de contratistas se efectuará por la Comunidad de Madrid de acuerdo con la legislación del Estado.
+
+## CAPÍTULO 5
+
+Del régimen jurídico de la administración de los organismos autónomos
+
+### Art 25
+
+Art. 25.
+1. Los actos de los organismos autónomos son inmediatamente ejecutivos, de acuerdo con los límites señalados en los artículos 101 y 116 de la Ley de Procedimiento Administrativo.
+2. Los actos de carácter general de los organismos autónomos, así como los de los mismos que no deban ser notificados, se publicarán en el «Boletín Oficial de la Comunidad de Madrid».
+Igualmente se publicarán los actos de los organismos autónomos que, no estando comprendidos en el párrafo anterior, deban serlo por disposición legal.
+
+### Art 26
+
+Art. 26.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 8/1999, de 9 de abril. Ref. BOE-A-1999-11985.
+ Se modifica por la disposición adicional 2 de la Ley 7/1993, de 22 de junio. Ref. BOE-A-1993-21450.
+
+### Art 27
+
+Art. 27.
+1. La reclamación previa a la vía jurídica civil se dirigirá al Consejo de Administración del organismo autónomo, a quien corresponderá la resolución de la misma.
+2. La reclamación previa a la vía judicial laboral deberá dirigirse al Gerente del organismo autónomo o al Director del establecimiento en que el trabajador preste sus servicios.
+
+### Art 28
+
+Art. 28.
+Las reclamaciones sobre la aplicación y efectividad de los arbitrios, derechos y tasas establecidos a favor de los organismos autónomos y cualesquiera otras que, según la legislación vigente, tengan naturaleza económico-administrativa, serán resueltas en única instancia por la Junta Superior de Hacienda de la Comunidad de Madrid, salvo que, de acuerdo con el artículo 54, 3, de la Ley de Gobierno y Administración de la misma, corresponda su resolución al Consejero de Economía y Hacienda.
+
+### Art 29
+
+Art. 29.
+El régimen de responsabilidad de los organismos autónomos de la Comunidad de Madrid y de las autoridades y funcionarios que presten sus servicios en los mismos, se exigirá en los mismos términos y casos que para la Administración de la Comunidad y de acuerdo con las disposiciones generales del Estado en la materia.
+
+### Art 30
+
+Art. 30.
+1. Sin perjuicio de lo establecido en el artículo 66 de la Ley de Procedimiento Administrativo, cada organismo autónomo llevará su propio registro de documentos.
+2. Se autoriza al Consejo de Gobierno, caso de efectuar el convenio con los Ayuntamientos, señalado en el artículo 58 2 de la Ley de Gobierno y Administración de la Comunidad de Madrid, a incluir en el mismo a los organismos autónomos que estime conveniente.
+
+### Art 31
+
+Art. 31.
+En relación con los objetivos y actuaciones de los organismos autónomos, la Oficina de Atención al Ciudadano de la Consejería de la Presidencia realizará las funciones señaladas en el artículo 48.4 de la Ley de Gobierno y Administración de la Comunidad de Madrid.
+Se modifica por la disposición adicional 5 de la Ley 28/1997, de 26 de diciembre.Ref. BOE-A-1998-20606.
+
+## CAPÍTULO 6
+
+De la fiscalización, control y tutela de los organismos autónomos
+
+### Art 32
+
+Art. 32.
+1. La inspección de los organismos autónomos dependientes de la Comunidad de Madrid corresponderá, en cuanto se refiera al cumplimiento de los servicios que tengan encomendados, al Consejero titular del departamento al que estén adscritos.
+2. Al finalizar cada ejercicio presentarán al Consejero, y éste al Consejo de Gobierno, una memoria detallando la actividad desarrollada durante el período correspondiente y los resultados de su gestión. Corresponde al Consejo de Gobierno la aprobación de dicha memoria.
+
+### Art 33
+
+Art. 33.
+1. El Consejo de Gobierno de la Comunidad, además de sus atribuciones en cuanto a nombramiento y sustitución de los miembros del Consejo de Administración y del Gerente señalados en los artículos 8.º, 9.º y 13 de la presente Ley, aprobará el proyecto de presupuesto anual de los organismos autónomos de la Comunidad de Madrid. Los anteproyectos de presupuesto deberán ser presentados por la Consejería a la que estén adscritos, pudiendo corregir, en su caso, los aprobados por el Consejo de Administración del organismo.
+2. Corresponde, igualmente, al Consejo de Gobierno la aprobación anual de las cuentas de liquidación del presupuesto de los organismos autónomos.
+
+### Art 34
+
+Art. 34.
+Corresponderá al Consejo de Gobierno, en todo caso, la facultad de autorizar la transacción sobre los bienes y derechos del organismo autónomo dependiente de la Comunidad de Madrid.
+
+### Art 35
+
+Art. 35.
+1. Los organismos autónomos de carácter administrativo están sometidos a la función interventora ejercida por la Intervención General de la Comunidad de Madrid en los términos establecidos en la Ley de Hacienda de la Comunidad de Madrid. Los organismos autónomos mercantiles, estarán asimismo sometidos a dicho control cuando así lo establezca su norma de creación.
+2. El control financiero de los organismos autónomos se ejercerá por la Intervención General de la Comunidad de Madrid de conformidad con lo establecido en la ley que regula el régimen jurídico de la hacienda de la Comunidad de Madrid.
+3. Los organismos autónomos están sujetos a la supervisión continua de la Intervención General de la Comunidad de Madrid con el objeto de comprobar la subsistencia de los motivos que justificaron su creación y su sostenibilidad financiera. Dicha supervisión se desarrollará de conformidad con lo establecido en la ley que regula el régimen jurídico de la hacienda de la Comunidad de Madrid y su normativa de desarrollo.
+Se modifica por la disposición final 1.4 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 36
+
+Art. 36.
+El control de eficacia de los organismos autónomos será ejercido por la Consejería a la que estén adscritos, y tendrá por objeto evaluar el cumplimiento de los objetivos propios de la actividad específica de los mismos y la adecuada utilización de los recursos que le han sido asignados.
+Se modifica por la disposición final 1.5 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 37
+
+Art. 37.
+El control parlamentario sobre los organismos autónomos se ejercerá en los términos previstos por el Reglamento de la Asamblea, a cuyo efecto el Consejero titular del departamento al que estén adscritos, o en los supuestos del capítulo 7 del título I de la presente Ley, el Consejo de Gobierno, remitirán a la Asamblea en el segundo semestre de cada año el programa de actuación anual del organismo, correspondiente al año siguiente.
+
+## CAPÍTULO 7
+
+De los organismos autónomos adscritos a varias Consejerías
+
+### Art 38
+
+Art. 38.
+En el supuesto de que de acuerdo con el artículo 5.º, c), de la presente Ley un organismo autónomo de la Comunidad de Madrid quede adscrito a varias Consejerías, las funciones de fiscalización, control y tutela reguladas en el capítulo 6 del título I de la presente Ley serán ejercidas por el Consejo de Gobierno de la Comunidad de Madrid, a iniciativa de cualquiera de las Consejerías a las que estuviera adscrito dicho organismo.
+
+### Art 39
+
+Art. 39.
+El nombramiento y sustitución de los miembros de los Consejos de Administración de los organismos autónomos de adscripción múltiple será efectuado por el Consejo de Gobierno a propuesta conjunta de las Consejerías a las que esté adscrito dicho organismo.
+
+### Art 40
+
+Art. 40.
+La comunicación del ejercicio de acciones y del desistimiento y allanamiento se efectuará a la Consejería de la Presidencia, de conformidad con lo regulado en el artículo 10, 1, d), de la presente Ley.
+
+## CAPÍTULO 8
+
+Del personal al servicio de los organismos autónomos
+
+### Art 41
+
+Art. 41.
+Integran el personal al servicio de los organismos autónomos de la Comunidad de Madrid:
+a) Los funcionarios de carrera adscritos a dichos organismos.
+b) Los contratados en régimen laboral.
+c) Los funcionarios de empleo.
+
+### Art 42
+
+Art. 42.
+1. Los funcionarios de carrera, bien sean originariamente de la Administración de la Comunidad de Madrid, bien hayan sido transferidos a la misma de otras Administraciones públicas podrán ser adscritos a los organismos autónomos de la Comunidad de Madrid mediante Orden del Consejero de Economía y Hacienda, oídos los Consejeros a que afecte y las organizaciones sindicales con implantación en la Administración de la Comunidad.
+2. Los funcionarios de carrera adscritos a los organismos autónomos de la Comunidad mantendrán su relación de servicio con la misma y, en consecuencia, todos los derechos derivados de su condición. Orgánica y funcionalmente pasarán a depender del organismo autónomo al que estén adscritos, asumiendo éste todas las obligaciones de la Comunidad de Madrid en relación con los mismos, incluidas las que se deriven del régimen de Seguridad Social o Clases Pasivas que les sean de aplicación.
+
+### Art 43
+
+Art. 43.
+Los trabajadores que sean contratados en régimen laboral podrán. de acuerdo con los principios de la contratación colectiva, ser adscritos a otro organismo autónomo o a la Administración de la Comunidad de Madrid, mediante Orden del Consejero de Economía y Hacienda, oídos los Consejeros a que afecte y las organizaciones sindicales con implantación en la Administración de la Comunidad.
+
+### Art 44
+
+Art. 44.
+1. Los funcionarios de empleo podrán ser nombrados y separados libremente por el Consejo de Administración.
+2. Su relación de servicio, así como su dependencia orgánica y funcional, es exclusivamente con el organismo autónomo en el que preste sus servicios.
+3. El cese del Presidente del Consejo de Administración implicará el de los funcionarios de empleo del organismo autónomo correspondiente.
+4. Los funcionarios de empleo no podrán ocupar, en ningún caso, plaza reservada a funcionarios de carrera o contratados laborales en la plantilla orgánica del organismo autónomo.
+
+### Art 45
+
+Art. 45.
+1. El régimen disciplinario de los funcionarios de los organismos autónomos será el mismo que el establecido para los funcionarios de la Administración de la Comunidad, y el de los trabajadores contratados en régimen laboral al establecido en la legislación de esta naturaleza, con las particularidades señaladas en los apartados siguientes de este artículo.
+2. La incoación del expediente disciplinario y la sanción por falta leve y grave corresponderá al Gerente en los supuestos de ser funcionario el autor de la falta. La sanción por falta muy grave, salvo la de separación del servicio, corresponde al Consejo de Administración.
+3. La sanción de separación del servicio sólo podrá imponerse por el Consejo de Gobierno de la Comunidad de Madrid, a propuesta del Consejero a cuyo departamento esté adscrito el organismo autónomo, o del de la Presidencia si es de adscripción múltiple.
+En todo caso, las sanciones disciplinarias que impliquen separación del servicio a funcionarios transferidos de la Administración estatal o de otras instituciones públicas no podrán adoptarse sin previo dictamen del Consejo de Estado.
+4. Las sanciones a funcionarios impuestas por el Gerente son recurribles en alzada ante el Consejo de Administración. Las impuestas por este órgano colegiado lo son en reposición ante el mismo. Las sanciones a funcionarios que imponga el Consejo son recurribles en reposición ante el mismo.
+5. Para el personal laboral de los organismos autónomos será competente:
+a) El Gerente para imponer sanciones por faltas leves y graves.
+b) El Consejo de Administración para imponer sanciones por faltas muy graves.
+6. En todos los supuestos del párrafo anterior la imposición y notificación de la sanción dejarán expedita la vía jurisdiccional correspondiente, sin perjuicio de la reclamación previa de acuerdo con la legislación laboral vigente.
+
+### Art 46
+
+Art. 46.
+La suspensión de funciones del funcionario expedientado, mientras dura el expediente disciplinario, es atribución del Gerente, quien podrá acordarlo en los casos y con los requisitos señalados por la legislación vigente.
+
+### Art 47
+
+Art. 47.
+En lo no previsto en el presente capítulo regirá la normativa sobre función pública y la de materia laboral, aplicables al personal al servicio de la Comunidad de Madrid.
+
+## TÍTULO II
+
+De los entes de Derecho público
+Se modifica el título por la disposición final 1.6 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+## CAPÍTULO 1
+
+De los entes de Derecho público de régimen especial
+Se añade por la disposición final 1.7 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 48
+
+Art. 48.
+Los entes de Derecho público de régimen especial, definidos en el artículo 2.2.b), serán creados por ley que establecerá sus fines generales, competencias, régimen de adscripción, sus órganos de gobierno y dirección y las especialidades de su régimen jurídico.
+En lo no regulado por su ley de creación, les será de aplicación lo establecido en esta ley para los organismos autónomos administrativos.
+Se modifica por la disposición final 1.8 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+ Se suprime el apartado 5 por el art. 5 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+ Se modifica el apartado 5 por el art. 13 de la Ley 5/2004, de 28 de diciembre. Ref. BOE-A-2005-2732.
+
+### Art 49
+
+Art. 49.
+Los entes de Derecho público de régimen especial estarán sujetos al régimen de presupuestación, gestión económico-financiera, control y contabilidad establecido en la ley que regula el régimen jurídico de la Hacienda de la Comunidad de Madrid.
+Se modifica por la disposición final 1.9 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 50
+
+Art. 50.
+La extinción y disolución de los entes de Derecho público de régimen especial se producirá mediante ley y llevará aparejada la subrogación de la Comunidad de Madrid en todas las relaciones jurídicas en los que fueran parte. Su patrimonio pasará a la Comunidad de Madrid.
+Se modifica por la disposición final 1.10 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+## CAPÍTULO 2
+
+De los entes de Derecho público sometidos a derecho privado
+Se añade por la disposición final 1.11 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 51
+
+Art. 51.
+Los entes de Derecho público sometidos al derecho privado, definidos en el artículo 2.2.c), serán creados por ley que establecerá sus fines generales, competencias, régimen de adscripción, órganos de gobierno y dirección y las especialidades de su régimen jurídico.
+Se modifica por la disposición final 1.12 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 52
+
+Art. 52.
+1. Los entes de Derecho público sometidos al derecho privado se rigen por el derecho privado, excepto en las cuestiones relacionadas con la formación de la voluntad de sus órganos y con el ejercicio de las potestades administrativas que tengan atribuidas y en los aspectos específicamente regulados en esta ley, en su ley de creación, en sus estatutos y demás disposiciones de general aplicación.
+2. El presupuesto de los entes de Derecho público sometidos al derecho privado tendrá carácter estimativo y se integrará en los presupuestos generales de la Comunidad de Madrid.
+Se modifica por la disposición final 1.13 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 53
+
+Art. 53.
+La extinción y disolución de los entes de Derecho público sometidos a derecho privado se producirá mediante ley y llevará aparejada la subrogación de la Comunidad de Madrid en todas las relaciones jurídicas en los que fueran parte. Su patrimonio pasará a la Comunidad de Madrid.
+Se modifica por la disposición final 1.14 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 54
+
+Art. 54.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.15 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 55
+
+Art. 55.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.15 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 56
+
+Art. 56.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.15 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 57
+
+Art. 57.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.15 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+## TÍTULO III
+
+De las sociedades mercantiles
+Se modifica el título por la disposición final 1.16 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+## CAPÍTULO 1
+
+Disposiciones comunes
+
+### Art 58
+
+Art. 58.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.17 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 59
+
+Art. 59.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.17 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+ Se modifica por el art. 9.2 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+
+### Art 60
+
+Art. 60.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.17 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 61
+
+Art. 61.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.17 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 62
+
+Art. 62.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.17 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 63
+
+Art. 63.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.17 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+ Se modifica por el art. 9.3 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+
+## CAPÍTULO 2
+
+De las empresas públicas constituidas como sociedades mercantiles
+Se modifica el título por la disposición adicional 7.3 de la Ley 3/2001, de 21 de junio. Ref. BOE-A-2001-14644#daseptima.
+
+### Art 64
+
+Art. 64.
+1. La constitución y disolución de sociedades mercantiles de la Comunidad de Madrid se autorizará por acuerdo del Consejo de Gobierno, a propuesta del titular de la Consejería competente en materia de hacienda.
+2. Todos los actos que impliquen la adquisición o pérdida de la participación mayoritaria, directa o indirecta, en el capital de sociedades mercantiles, por la Administración de la Comunidad de Madrid o por cualquier otro sujeto de su sector público institucional, se autorizarán por acuerdo del Consejo de Gobierno, a propuesta del titular de la Consejería competente en materia de hacienda.
+Asimismo, será precisa la autorización mediante acuerdo del Consejo de Gobierno en los supuestos de adquisición o pérdida de la condición de socio dominante en los grupos de sociedades regulados en el artículo 42 del Código de Comercio.
+3. El acuerdo de autorización, a que se refieren los apartados anteriores, deberá ser comunicado a la Asamblea de Madrid y publicado en el “Boletín Oficial de la Comunidad de Madrid”.
+4. Deberán ser comunicadas a la Consejería competente en materia de hacienda, para su conocimiento, e informe, en su caso, previo a su aprobación por la Junta General, las propuestas de acuerdos de aumento y reducción del capital y las demás que impliquen la modificación de estatutos sociales de sociedades mercantiles de la Comunidad de Madrid.
+5. Las sociedades mercantiles se regirán por lo previsto en la presente ley, y por el derecho privado, salvo en las materias en que le sea de aplicación la Ley de Hacienda de la Comunidad de Madrid o cualquier otra norma con rango legal, en lo no regulado por la misma. En ningún caso podrán disponer de facultades que impliquen el ejercicio de autoridad pública, sin perjuicio de que excepcionalmente la ley pueda atribuirle el ejercicio de potestades administrativas.
+Se modifica por la disposición final 1.18 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+ Se modifica por la disposición adicional 7.4 de la Ley 3/2001, de 21 de junio. Ref. BOE-A-2001-14644#daseptima.
+
+### Art 65
+
+Art. 65.
+1. El Consejo de Gobierno de la Comunidad de Madrid designará al órgano que represente a la Administración de la Comunidad de Madrid o a los sujetos del sector público institucional, en el otorgamiento de la escritura social y formalización de su inscripción registral y, en su caso, a los administradores de la sociedad mercantil a constituir.
+2. Las sociedades mercantiles en que la Administración de la Comunidad de Madrid o cualquiera de los sujetos del sector público institucional, ostenten una participación del 100 % en el capital deberán constituirse por el procedimiento de fundación simultánea.
+Se modifica por la disposición final 1.19 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+ Se modifica por la disposición adicional 7.5 de la Ley 3/2001, de 21 de junio. Ref. BOE-A-2001-14644#daseptima.
+ Se modifica por la disposición adicional 7 de la Ley 7/1986, de 23 de julio. Ref. BOE-A-1987-5873.
+ Redactado conforme a la corrección de errores publicada en BOCM núm. 183, de 4 de agosto de 1986.
+
+### Art 66
+
+Art. 66.
+1. Compete al Consejo de Gobierno de la Comunidad de Madrid la propuesta de nombramiento de los miembros del órgano de administración, que proporcionalmente correspondan a la Administración de la Comunidad de Madrid, de las sociedades mercantiles en cuyo capital participe.
+2. En las sociedades mercantiles, en cuyo capital participe cualquiera de los sujetos del sector público institucional, la propuesta de nombramiento de los miembros del órgano de administración que proporcionalmente les correspondan compete al órgano de administración de dicho sujeto.
+Se modifica por la disposición final 1.20 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+ Se modifica por la disposición adicional 7.6 de la Ley 3/2001, de 21 de junio. Ref. BOE-A-2001-14644#daseptima.
+
+### Art 67
+
+Art. 67.
+La junta general de las sociedades mercantiles en las que la Administración de la Comunidad de Madrid o cualquiera de los sujetos de su sector público institucional ostenten una participación del 100 % en el capital, estará constituida, respectivamente, por el Gobierno o por el órgano de administración del citado sujeto.
+Se modifica por la disposición final 1.21 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+ Se modifica por la disposición adicional 7.7 de la Ley 3/2001, de 21 de junio. Ref. BOE-A-2001-14644#daseptima.
+
+## CAPÍTULO 3
+
+De los entes con personalidad pública y régimen de actuación de Derecho privado
+
+### Art 68
+
+Art. 68.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.22 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 69
+
+Art. 69.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.22 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 70
+
+Art. 70.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.22 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+## TÍTULO IV
+
+De los Consorcios
+Se añade por la disposición final 1.23 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 71
+
+Art. 71.
+Los consorcios, definidos en el artículo 2.2.e), podrán realizar actividades de fomento, prestacionales o de gestión común de servicios públicos y cuantas otras estén previstas en las leyes.
+Los consorcios se regirán por lo establecido en la legislación básica estatal que regula el régimen jurídico del sector público, en la normativa autonómica de desarrollo y en sus estatutos.
+Se añade por la disposición final 1.24 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 72
+
+Art. 72.
+1. De conformidad con lo dispuesto en la normativa básica del Estado, los consorcios se crearán mediante convenio suscrito por las Administraciones, organismos públicos o entidades participantes.
+2. En los consorcios en los que participe la Administración de la Comunidad de Madrid o sus organismos públicos:
+a) La creación de consorcio deberá ser autorizada previamente por el Consejo de Gobierno.
+b) El convenio de creación requerirá autorización previa del Consejo de Gobierno.
+c) La competencia para la suscripción del convenio corresponderá al titular de la Consejería participante y en el caso de los organismos públicos al titular del máximo órgano de dirección del organismo o entidad dependiente, previo informe de la Consejería de adscripción o a la que esté vinculado.
+d) Del convenio formarán parte los estatutos, que requerirán el informe previo y favorable de la Consejería competente en materia de hacienda y de recursos humanos. El convenio y los estatutos, así como sus modificaciones, deberán publicarse en el “Boletín Oficial de la Comunidad de Madrid”.
+3. Los consorcios urbanísticos se regirán por su propia normativa, y por lo dispuesto en esta ley y en la legislación básica del Estado en lo no regulado por aquélla.
+Se añade por la disposición final 1.25 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+## TÍTULO V
+
+De las fundaciones del sector público autonómico
+Se añade por la disposición final 1.26 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 73
+
+Art. 73.
+1. Las fundaciones del sector público, definidas en el artículo 2.2.f), tendrán como actividades propias las realizadas, sin ánimo de lucro, para el cumplimiento de fines de interés general, con independencia de que el servicio se preste de forma gratuita o mediante contraprestación.
+Únicamente podrán realizar actividades relacionadas con el ámbito competencial de las entidades del sector público fundadoras, debiendo coadyuvar a la consecución de los fines de las mismas, sin que ello suponga la asunción de sus competencias propias, salvo previsión legal expresa. Las fundaciones no podrán ejercer potestades públicas, sin perjuicio de lo establecido en el artículo 76.3 respecto a la concesión de subvenciones.
+2. Para la financiación de las actividades y el mantenimiento de la fundación, debe haberse previsto la posibilidad de que en el patrimonio de las fundaciones del sector público pueda existir aportación del sector privado de forma no mayoritaria.
+Se añade por la disposición final 1.27 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 74
+
+Art. 74.
+1. La creación de las fundaciones del sector público autonómico o la adquisición de este carácter de forma sobrevenida se realizará por decreto del Consejo de Gobierno que establecerá los fines de la fundación y, en su caso, los recursos económicos con los que se le dota.
+2. El proyecto de decreto del Consejo de Gobierno deberá ser acompañado de una propuesta de estatutos y del plan de actuación, así como de una memoria económica, que habrá de ser informada por la Consejería competente en materia de hacienda y que habrá de justificar la suficiencia de la dotación inicialmente prevista para el comienzo de su actividad y, en su caso, de los compromisos futuros, y de los demás informes que procedan.
+3. Este mismo procedimiento se llevará a cabo en el caso de fundaciones que resulten adscritas a la Comunidad de Madrid.
+Se añade por la disposición final 1.28 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 75
+
+Art. 75.
+1. Las fundaciones del sector público autonómico se rigen por lo establecido en la normativa básica estatal, en la presente ley, en la Ley 1/1998, de 2 de marzo, de Fundaciones de la Comunidad de Madrid, y por el ordenamiento jurídico privado, excepto en las materias en que le sea de aplicación la ley de hacienda, así como, la normativa de contratación del sector público.
+2. Las fundaciones del sector público que se creen para actuar en ámbitos específicos regulados por normativa propia, se regirán por lo dispuesto en esta ley en lo no regulado por aquella.
+Se añade por la disposición final 1.29 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Art 76
+
+Art. 76.
+1. La contratación de las fundaciones del sector público autonómico se ajustará a lo dispuesto en la legislación sobre contratación del sector público.
+2. Las fundaciones del sector público autonómico estarán sometidas al régimen presupuestario, de gestión económico-financiera, de control y contabilidad establecido en la ley que regula del régimen jurídico de la hacienda de la Comunidad de Madrid.
+3. Las fundaciones del sector público autonómico podrán otorgar subvenciones cuando se cumplan los requisitos establecidos en la normativa básica estatal y autonómica.
+Se añade por la disposición final 1.30 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Sin perjuicio de los supuestos contemplados en los apartados anteriores, el Consejo de Gobierno de la Comunidad, mediante decreto, podrá transformar las fundaciones públicas del servicio que estimen oportuno en organismos autónomos, adaptándose a las disposiciones de la presente Ley y a las generales del Estado, reguladoras de éstos. El referido decreto deberá contener específicamente las determinaciones ordenadas en el artículo 5 de la presente Ley.
+2. La transformación de fundación pública del servicio en organismo autónomo se operará el día de publicación del decreto señalado en el apartado anterior en el «Boletín Oficial de la Comunidad de Madrid», salvo que el propio decreto difiera su entrada en vigor.
+3. Se considerarán disueltas las fundaciones públicas del servicio existente si, transcurrido un año desde la entrada en vigor de la presente Ley, no se publica el decreto de transformación. En este supuesto se estará a lo señalado en el artículo 88, 2, del Reglamento de Servicios de las Corporaciones Locales y en sus propios Estatutos.
+4. El Consejo de Gobierno, mediante decreto, podrá disolver las fundaciones públicas existentes o transformarlas en órganos de gestión sin personalidad jurídica, aunque no haya transcurrido un año desde la entrada en vigor de la presente Ley.
+En el supuesto de disolución, el decreto deberá ajustarse a lo señalado en el artículo 88, 2, del Reglamento de Servicios de las Corporaciones Locales y a los propios Estatutos de la Fundación Pública del Servicio.
+En el caso de transformación en órganos de gestión el patrimonio de la fundación transformada pasará a la Administración de la que vaya a depender directamente el nuevo órgano de gestión y el decreto señalará la adaptación de la fundación a las disposiciones de la presente Ley referentes a estos órganos.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El Consejo de Gobierno, mediante decreto, adaptará los actuales órganos especiales de gestión a las disposiciones de la presente Ley referentes a los órganos de gestión sin personalidad jurídica distinta de la Comunidad.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+1. Por decreto del Consejo de Gobierno se adscribirán a las Consejerías que proceda, los organismos autónomos y entes de titularidad estatal que sean objeto de transferencias a la Comunidad de Madrid, pudiéndose optar por las siguientes alternativas:
+a) Extinguirlos, pasando su patrimonio al de la Comunidad de Madrid.
+b) Mantener el carácter del ente transferido, o bien transformarlo, adaptando su normativa a la establecida en la presente Ley para los entes de análoga naturaleza.
+2. El personal al servicio de las Entidades a que se refiere el apartado 1 de esta disposición adicional tercera, se regirá por lo dispuesto en el capítulo 8, título I, de la presente Ley, sin perjuicio del respeto a los derechos adquiridos señalados por la disposición transitoria tercera del Estatuto de Autonomía.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+El Consejo de Gobierno, mediante decreto, efectuará las adaptaciones normativas pertinentes, en relación con la sociedad privada y la empresa mixta provinciales, pertenecientes a la extinta Diputación Provincial de Madrid.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+1. Los preceptos de la Ley de Incompatibilidades de Altos Cargos del Gobierno y Administración de la Comunidad de Madrid serán de aplicación a los Gerentes de los organismos autónomos, órganos de gestión y empresas públicas.
+2. Las leyes o, en su caso, decretos de creación de cada organismo autónomo, órgano de gestión o empresa pública podrán señalar a qué otros cargos, además de los indicados en el apartado 1 de esta disposición adicional quinta, les son aplicables los preceptos de la citada Ley de Incompatibilidades.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+El Consejo de Gobierno regulará por decreto la representación y, en su caso, la participación que corresponda a la Comunidad de Madrid en los órganos, organismos v empresas de titularidad estatal, salvo que por Ley se exija otro modo de designación.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las fundaciones públicas del servicio y los órganos especiales, de gestión, creados en su día por la Diputación Provincial de Madrid, continuarán rigiéndose, hasta la publicación de la ley o decreto que los transforme, adapte o disuelva, o hasta su disolución, en la forma dispuesta en el apartado 3 de la disposición adicional primera de la presente Ley, por sus normas estatutarias y específicas de funcionamiento, así como por lo señalado en los Decretos 14/1983, de 16 de junio, y 18/1983, de 26 de junio, del Consejo de Gobierno, y otros, que para la adaptación de los referidos entes pueda adoptarse dicho alto órgano. Igualmente les serán de aplicación las disposiciones contenidas en la Ley de Gobierno y Administración de la Comunidad de Madrid.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+El personal laboral que sea transferido de la Administración del Estado a la Comunidad y que sea adscrito por ésta a un ente regulado en la presente Ley, seguirá sujeto a las condiciones remuneratorias y de trabajo que tuviera en el momento del traspaso, según lo establecido en la disposición transitoria quinta de la Ley de Gobierno y Administración de la Comunidad de Madrid.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas las normas dictadas por la Comunidad de Madrid que se opongan a la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo de Gobierno para dictar cuantas disposiciones complementarias requiera el desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Para lo no previsto en esta Ley serán de aplicación las disposiciones legales del Estado en la materia, equiparándose los órganos por analogía de sus funciones.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de la Comunidad de Madrid», siendo también publicada en el «Boletín Oficial del Estado».
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y autoridades que corresponda la guarden y la hagan guardar.
+Madrid, 19 de enero de 1984.
+El Presidente de la Comunidad,
+JOAQUÍN LEGUINA

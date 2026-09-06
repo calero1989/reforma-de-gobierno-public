@@ -1,0 +1,166 @@
+# Ley 12/2003, de 21 de mayo, de prevención y bloqueo de la financiación del terrorismo.
+
+- Identificador BOE: `BOE-A-2003-10289`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-10289
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 12/2003, de 21 de mayo, de bloqueo de la financiación del terrorismo.", según establece la disposición final 1.1 de la Ley 10/2010, de 28 de abril. Ref. BOE-A-2010-6737#dfprimera
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+El terrorismo constituye una de las mayores agresiones a la paz, a la seguridad y a la estabilidad de las sociedades democráticas. Sucesos como los trágicos atentados del 11 de septiembre de 2001 no han hecho sino evidenciar aún más que ningún ciudadano, ninguna institución, ni ningún Estado se encuentran al margen de esta amenaza. En consecuencia, es obligado dar una respuesta proporcionada y coordinada a esta situación por todos los Estados, que han de dotarse de los mecanismos necesarios para luchar contra el terrorismo en todas sus formas y manifestaciones y para prevenir la comisión de actuaciones terroristas, con todos los instrumentos que proporciona el Estado de Derecho, en un ámbito de máxima cooperación internacional.
+Por eso, la Comunidad Internacional, reunida bajo los auspicios de Naciones Unidas, ha señalado como uno de los principales objetivos el acuerdo internacional y el trabajo común para prevenir y reprimir los actos de terrorismo.
+Un aspecto básico para la prevención de la comisión de actos terroristas es el cierre de los flujos financieros de que se nutren las organizaciones terroristas. Como ha declarado repetidamente Naciones Unidas, el número y gravedad de los actos de terrorismo dependen en gran medida de la financiación que puedan obtener los terroristas. De este modo, tanto las organizaciones internacionales como los Estados parte de éstas tienen el convencimiento de que, a través de las medidas preventivas, se pueden llegar a reducir las actividades de estas organizaciones y sus devastadores efectos. En concreto, la Resolución del Consejo de Seguridad de Naciones Unidas 1373 (2001), adoptada por unanimidad en su 4385.a sesión, celebrada el 28 de septiembre de 2001, completando lo dispuesto en sus Resoluciones números 1267 (1999), 1269 (1999), 1333 (2000) y 1368 (2001), ha ordenado a los Estados a que adopten las medidas necesarias para prevenir y reprimir el delito de terrorismo.
+Así, el apartado 1.a) de la Resolución 1373 decide que los Estados «prevengan y repriman la financiación de los actos de terrorismo». Y especialmente, en su párrafo c), ordena que «congelen sin dilación los fondos y demás activos financieros o recursos económicos de las personas que cometan, o intenten cometer, actos de terrorismo o participen en ellos o faciliten su comisión ; de las entidades de propiedad o bajo el control, directos o indirectos, de esas personas, y de las personas y entidades que actúen en nombre de esas personas y entidades o bajo sus órdenes, inclusive los fondos obtenidos o derivados de los bienes de propiedad o bajo el control, directos o indirectos, de esas personas y de las personas y entidades asociadas con ellos».
+En el ámbito europeo, el Consejo extraordinario de Jefes de Estado y de Gobierno, celebrado el 21 de septiembre de 2001, ha decidido que la lucha contra el terrorismo será más que nunca un objetivo prioritario para la Unión Europea y ha diseñado un específico Plan de Acción contra el Terrorismo, del que es elemento esencial la lucha contra su financiación.
+La Unión Europea y los Estados miembros se han comprometido a adoptar las medidas necesarias para lograr que nuestros sistemas financieros cooperen para evitar la creación y transferencia de fondos que sirvan a la comisión de actuaciones terroristas.
+Del mismo modo y en el ámbito nacional, tanto nuestros compromisos internacionales como la desgraciada experiencia española, que sufre la lacra del terrorismo desde hace décadas, hacen necesario completar nuestro ordenamiento jurídico con medidas eficaces en el ámbito de la prevención de esta forma de delincuencia, dentro del respeto a los principios que informan nuestro Estado democrático y de derecho. Esta línea continúa las políticas de prevención de formas especialmente graves de delincuencia, como el blanqueo de capitales o el tráfico de drogas, y conecta estrechamente con otros textos legislativos que, como la Ley 19/1993, de 28 de diciembre, sobre determinadas medidas de prevención del blanqueo de capitales, o la Ley 40/1979, de 10 de diciembre, sobre régimen jurídico de control de cambios, han puesto el acento en los mecanismos de prevención y evitación del delito desde la perspectiva de su financiación.
+II
+Para prevenir las actividades de financiación del terrorismo e impedir la utilización con tal propósito del sistema financiero en una economía globalizada, el principio en el que se inspira esta ley no es otro que la posibilidad de bloqueo de cualquier tipo de flujo o posición financiera para evitar la utilización de los fondos en la comisión de acciones terroristas, disponiéndose al tiempo de la capacidad para identificar y combatir los canales financieros del terrorismo, verificando la verdadera naturaleza de los fondos, su origen, localización, disposición y movimientos, o la identidad de los titulares reales de esas transacciones.
+Esta posibilidad de bloquear y examinar operaciones susceptibles de estar particularmente relacionadas con la financiación del terrorismo se lleva a cabo a través de la atribución de potestades específicas dirigidas a bloquear saldos y movimientos financieros de personas concretas, otorgadas a un órgano colegiado especializado, la Comisión de Vigilancia de Actividades de Finan ciación del Terrorismo, y siempre con la consideración de su naturaleza de medida preventiva carente de valor sancionador, dado que no se articula para sentar un juicio de culpabilidad, sino para evitar la realización de actos criminales que, en su caso, tienen que ser enjuiciados por el juez competente, haciendo así operativa cualquier alerta temprana.
+Dichas potestades podrán aplicarse a sujetos u operaciones cuando concurran indicios razonables de su posible utilización para la financiación de acciones terroristas, bien por la inclusión de aquéllos en listados de alcance internacional a los que España está vinculada, bien por la concurrencia de una serie de elementos subjetivos y objetivos, que la ley concreta, que permiten razonablemente considerar el propósito de apoyo económico a las actividades terroristas.
+En consecuencia, la Comisión de Vigilancia que ahora se crea está llamada a desarrollar la dirección e impulso de estas actividades de prevención de la utilización del sistema financiero para la comisión de delitos, y, concretamente, de acciones terroristas, así como a servir de cauce de colaboración en esta materia entre las Administraciones públicas y las entidades financieras, y a servir de auxilio a los órganos judiciales, al Ministerio Fiscal y a la Policía Judicial.
+Todo ello sin perjuicio, lógicamente, de las potestades que la Constitución y el resto del ordenamiento jurídico atribuyen al Poder Judicial para revisar la corrección, finalidad y proporcionalidad de la actuación administrativa, para perseguir y enjuiciar el delito y para garantizar los derechos de los ciudadanos. A lo que se une, además, una nueva garantía, consistente en la exigencia de autorización judicial para que las medidas puedan prolongarse en el tiempo más allá del mínimo que se considera indispensable para realizar complejas operaciones de comprobación.
+En fin, las medidas de bloqueo que prevé esta ley han de llevarse a cabo con la imprescindible colaboración de las entidades que actúan en el tráfico financiero, a las que se les exige determinadas obligaciones. Por otro lado, teniendo en cuenta la importancia que tiene la información referente a las transacciones que puedan asociarse a las personas y demás entidades sobre las que pueda recaer el bloqueo y para hacer posible la aplicación de esta ley, se hace preciso establecer una obligación de colaboración de otras Administraciones, organismos e instituciones en el intercambio de dicha información.
+
+### Artículo 1
+
+Artículo 1. Bloqueo de transacciones y movimientos de capitales y prohibición de apertura de cuentas en entidades financieras.
+1. Con el fin de prevenir las actividades de financiación del terrorismo, son susceptibles de ser bloqueadas, en los términos previstos en esta ley, las cuentas, saldos y posiciones financieras, así como las transacciones y movimientos de capitales, aun ocasionales, y sus correspondientes operaciones de cobro, pago o transferencia, en las que el ordenante, emisor, titular, beneficiario o destinatario sea una persona o entidad vinculada a grupos u organizaciones terroristas, o cuando se hubiera realizado la transacción, movimiento u operación con motivo u ocasión de la perpetración de actividades terroristas, o para contribuir a los fines perseguidos por los grupos u organizaciones terroristas.
+2. A los efectos previstos en esta ley, se entenderá por bloqueo la prohibición de realizar cualquier movimiento, transferencia, alteración, utilización o transacción de capitales o activos financieros que dé o pueda dar lugar a un cambio de volumen, importe, localización, propiedad, posesión, naturaleza o destino de dichos capitales o activos, o de cualquier otro cambio que pudiera facilitar su utilización, incluida la gestión de una cartera de valores.
+3. Asimismo, se podrá prohibir la apertura de cuentas en entidades financieras o sus sucursales que operen en España en las que aparezcan como titulares, autorizados para operar o representantes, las personas o entidades mencionadas en el apartado 1.
+4. Lo dispuesto en esta ley se entiende sin perjuicio de lo que la Ley de Enjuiciamiento Civil establece respecto de los bienes inembargables y de lo establecido en el artículo 2 de la Ley 40/1979, de 10 de diciembre, sobre régimen jurídico de control de cambios, y de las disposiciones que la desarrollen.
+
+### Artículo 2
+
+Artículo 2. Adopción de los acuerdos por la Comisión de Vigilancia de Actividades de Financiación del Terrorismo.
+1. En ejecución de lo dispuesto en el artículo anterior, corresponde a la Comisión de Vigilancia de Actividades de Financiación del Terrorismo la facultad de acordar el bloqueo de los saldos, cuentas y posiciones, incluidos los bienes depositados en cajas de seguridad, abiertas por personas o entidades vinculadas a organizaciones terroristas en cualquiera de las entidades enumeradas en el artículo 4, así como la prohibición de la apertura de nuevas cuentas en las que figure como titular, autorizada para operar o representante, alguna de dichas personas o entidades.
+2. Igualmente podrá la citada Comisión de Vigilancia acordar el bloqueo del efectivo, valores y demás instrumentos provenientes de transacciones u operaciones financieras que el ordenante o el beneficiario, directamente o a través de persona interpuesta, hubiera realizado con motivo u ocasión de la perpetración de actividades terroristas o para contribuir a los fines u objetivos perseguidos por los grupos u organizaciones terroristas.
+3. La Comisión de Vigilancia cuando haya acordado el bloqueo podrá autorizar aquellas transacciones y sus correspondientes cobros, pagos o transferencias que tengan por finalidad la satisfacción de las deudas de carácter salarial, tributarias, de Seguridad Social o cualesquiera de otra naturaleza con las que se evite el perjuicio a terceros de buena fe.
+4. Los acuerdos de bloqueo podrán adoptarse sin necesidad de previa audiencia del titular o titulares de las cuentas, posiciones o saldos a los que se refieran cuando ello comprometa gravemente la efectividad de la medida o el interés público afectado. En todo caso, se mantendrá la confidencialidad en sede administrativa y jurisdiccional respecto de la identidad de los funcionarios intervinientes en los procedimientos administrativos en los que se adopten y ejecuten los respectivos acuerdos.
+5. Los acuerdos a los que se refieren los apartados anteriores surtirán efecto por el tiempo que se determine expresamente por la Comisión de Vigilancia.
+Cuando el acuerdo se fundamente en una disposición o resolución adoptadas por el órgano competente de la Unión Europea o de cualquier organización internacional de las que España sea parte, la duración de sus efectos será la que se determine en dicha resolución.
+En los restantes supuestos la duración no podrá exceder inicialmente de seis meses, pudiendo la Comisión de Vigilancia prolongar este plazo en el supuesto de que subsistan las causas que motivaron su adopción, previa autorización judicial que deberá dictarse, en todo caso, en el plazo máximo de 15 días. La Comisión solicitará la autorización antes del vencimiento de dicho plazo, resolviendo el órgano judicial competente para conocer del recurso contra estos actos, oídas las personas afec tadas por el bloqueo o prohibición. En todo caso, el acuerdo inicial de bloqueo mantendrá su eficacia hasta que recaiga resolución judicial autorizando o denegando la prórroga.
+6. La Comisión de Vigilancia acordará, en cualquier caso, el cese del bloqueo cuando de las actuaciones o investigaciones realizadas no quede acreditado que los bienes afectados guardan relación con la financiación de actividades terroristas.
+
+### Artículo 3
+
+Artículo 3. Control jurisdiccional.
+1. La Comisión de Vigilancia ejercerá sus funciones siempre sin perjuicio de las potestades que la Constitución y el resto del ordenamiento jurídico atribuyen al Poder Judicial y en especial al orden jurisdiccional penal.
+2. La Comisión de Vigilancia auxiliará a los órganos jurisdiccionales penales y al Ministerio Fiscal en el ejercicio de las funciones que les son propias.
+3. Las resoluciones de la Comisión de Vigilancia, que agotan la vía administrativa, serán susceptibles de recurso contencioso-administrativo, cuya tramitación será preferente.
+4. Si se estuviera sustanciando un procedimiento penal en que exista identidad de personas, hechos y fundamento respecto de las actuaciones contempladas en esta ley, el órgano del orden jurisdiccional penal ante quien se esté tramitando dicho procedimiento será el competente para resolver sobre la continuidad del bloqueo de dichos saldos, cuentas, posiciones, efectivo, valores y demás instrumentos, mediante la adopción de las oportunas medidas cautelares.
+5. Si existiera un procedimiento penal que pudiera tener vinculación con las medidas de bloqueo adoptadas en vía administrativa, los acuerdos de la Comisión de Vigilancia deberán ponerse en conocimiento del órgano jurisdiccional penal ante el que se estuviera substanciando dicho procedimiento.
+6. La Comisión de Vigilancia pondrá inmediatamente en conocimiento del órgano jurisdiccional penal competente todo hecho del que tenga noticia en el ejercicio de las funciones atribuidas por esta ley que pudiera ser constitutivo de delito, o que, sin ser constitutivo de delito como tal, estuviera relacionado con hechos que pudieran tener la calificación de delictivos.
+
+### Artículo 4
+
+Artículo 4. Personas y entidades obligadas.
+Las Administraciones Públicas y los sujetos a que se refiere el artículo 2 de la Ley de prevención del blanqueo de capitales y de la financiación del terrorismo están obligados a colaborar con la Comisión de Vigilancia de Actividades de Financiación del Terrorismo y, en particular, a llevar a cabo las medidas necesarias para hacer efectivo el bloqueo previsto en el artículo 1; en particular, deberán:
+a) Impedir cualquier acto u operación que suponga disposición de saldos y posiciones de cualquier tipo, dinero, valores y demás instrumentos vinculados a movimientos de capitales u operaciones de pago o transferencia bloqueados, a excepción de aquéllos por los que afluyan nuevos fondos y recursos a cuentas bloqueadas.
+b) Comunicar a la Comisión de Vigilancia cualquier tipo de ingreso que se pueda realizar a la cuenta bloqueada, sin perjuicio de realizar la operación.
+c) Comunicar a la Comisión de Vigilancia, por iniciativa propia, cualquier solicitud o petición que reciban en la que el ordenante, emisor, titular, beneficiario o destinatario sea una persona o entidad respecto a la que la Comisión de Vigilancia haya adoptado alguna medida.
+d) Facilitar a la citada Comisión la información que ésta requiera para el ejercicio de sus competencias.
+e) No revelar ni al cliente ni a terceros que se ha transmitido información a la Comisión de Vigilancia.
+Se modifica por la disposición final 1.2 de la Ley 10/2010, de 28 de abril. Ref. BOE-A-2010-6737
+
+### Artículo 5
+
+Artículo 5. Exención de responsabilidad.
+Las medidas adoptadas de buena fe, a fin de cumplir con lo dispuesto en el artículo anterior, por las personas y entidades obligadas o, excepcionalmente, por sus directivos o empleados, no implicarán violación de las obligaciones impuestas por vía contractual o por las normas sectoriales a las que estuvieran sujetos ni dará lugar a la asunción de ningún tipo de responsabilidad.
+
+### Artículo 6
+
+Artículo 6. Supervisión y régimen sancionador.
+1. La función de supervisión e inspección del Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias a que se refiere el artículo 47 de la Ley de prevención del blanqueo de capitales y de la financiación del terrorismo se extiende al cumplimiento de las obligaciones establecidas en la presente Ley.
+Cuando de los informes de inspección a que se refiere el artículo 47.3 de la Ley de prevención del blanqueo de capitales y de la financiación del terrorismo resulte el incumplimiento de alguna de las obligaciones establecidas en el artículo 4 de esta Ley, el Comité Permanente de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias lo pondrá en conocimiento de la Comisión de Vigilancia de Actividades de Financiación del Terrorismo.
+2. El incumplimiento de los deberes previstos en esta Ley será considerado infracción muy grave a los efectos previstos en el Capítulo VIII de la Ley de prevención del blanqueo de capitales y de la financiación del terrorismo, y será sancionado conforme a lo que en él se dispone.
+Las referencias que en dicho Capítulo se contienen a la Secretaría y al Comité Permanente de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias deben entenderse realizadas a la Secretaría de la Comisión de Vigilancia y a la Comisión de Vigilancia, respectivamente.
+La competencia para proponer la imposición de sanciones por la comisión de las infracciones previstas en esta Ley corresponde al Ministro del Interior, y la competencia para sancionar, al Consejo de Ministros.
+Se modifica por la disposición final 1.3 de la Ley 10/2010, de 28 de abril. Ref. BOE-A-2010-6737
+
+### Artículo 7
+
+Artículo 7. Personas y entidades vinculadas a grupos u organizaciones terroristas.
+1. A los efectos previstos en esta ley, la comisión podrá considerar vinculadas a un grupo u organización terrorista a las siguientes personas o entidades:
+a) Aquéllas cuya vinculación con un grupo u organización terrorista haya sido reconocida en una resolución judicial, en una disposición o resolución adoptadas
+por el órgano competente de la Unión Europea o de cualquier organización internacional de la que España sea parte.
+b) Las que actúen como administradores de hecho o de derecho o en nombre, interés, por cuenta o representación legal o voluntaria de la organización o de cualquier persona o entidad integrada o controlada por un grupo terrorista.
+c) Aquellas entidades en cuyo órgano de gestión o administración o en cuyo capital o dotación participen, con influencia significativa, otras personas o entidades integradas o controladas por una organización terrorista.
+d) Las que constituyan una unidad de decisión con un grupo u organización terrorista, bien porque alguna de ellas ostente o pueda ostentar, directa o indirectamente, el control de las demás, bien porque dicho control corresponda a una o varias personas o entidades que actúen sistemáticamente o en concierto con el grupo u organización.
+e) Las personas y entidades creadas o interpuestas por una organización terrorista con la finalidad de ocultar la verdadera identidad de los ordenantes o beneficiarios de una transacción económica o de las partes en cualquier negocio o contrato.
+f) Las que, no estando incluidas en ninguno de los párrafos anteriores, coadyuven o favorezcan económicamente a una organización terrorista.
+g) Las personas o entidades respecto de las cuales, a la vista de las personas que las rigen o administran, o de cualesquiera otras circunstancias, se considere que constituyen materialmente una continuación o sucesión en la actividad de cualquier persona o entidad prevista en los párrafos anteriores, todo ello con independencia de la forma o título jurídico utilizados para dicha continuación o sucesión.
+2. En todo caso, tratándose de sociedades mercantiles, se estará a lo dispuesto en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, en cuanto a la consideración de las entidades que pertenecen a un mismo grupo empresarial.
+
+### Artículo 8
+
+Artículo 8. Obligación de cesión de información.
+1. Las Administraciones tributarias, las entidades gestoras y la Tesorería General de la Seguridad Social, el Banco de España, la Comisión Nacional del Mercado de Valores, la Dirección General de Seguros y Fondos de Pensiones y los demás órganos y organismos con competencias supervisoras en materia financiera tendrán la obligación de ceder los datos de carácter personal y la información que hubieran obtenido en el ejercicio de sus funciones a la Comisión de Vigilancia, a requerimiento de su Presidente, en el ejercicio de las competencias que esta ley le atribuye.
+2. A los efectos de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, los ficheros que cree la Comisión de Vigilancia para el cumplimiento de los fines previstos en esta ley tendrán la consideración de ficheros de titularidad pública.
+
+### Artículo 9
+
+Artículo 9. Comisión de Vigilancia de Actividades de Financiación del Terrorismo.
+1. Se crea la Comisión de Vigilancia de Actividades de Financiación del Terrorismo como órgano encargado de acordar el bloqueo de todas las operaciones definidas en el artículo 1 de esta Ley, así como el ejercicio de todas las competencias que sean necesarias para el cumplimiento de lo previsto en ésta.
+2. La Comisión de Vigilancia estará adscrita al Ministerio del Interior e integrada por:
+a) Presidente: el Secretario de Estado de Seguridad.
+b) Vocales:
+1.º Un miembro del Ministerio Fiscal, designado por el Fiscal General del Estado.
+2.º Un representante de los Ministerios de Justicia, del Interior y de Economía y Hacienda, designados por los titulares de los departamentos respectivos.
+c) Secretario: quien dirija la unidad orgánica que desempeñe la Secretaría de la Comisión de Vigilancia a que refiere el apartado 4.
+El Presidente de la Comisión, cuando lo estime conveniente, podrá convocar a expertos en las materias de su competencia, para el asesoramiento específico en alguno de los asuntos a tratar. El Director del Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias asistirá a las reuniones de la Comisión de Vigilancia con voz pero sin voto.
+3. Los miembros de esta Comisión están sometidos al régimen de responsabilidad establecido por el ordenamiento jurídico y, en particular, en lo relativo a las obligaciones derivadas del conocimiento de la información recibida y de los datos de carácter personal que sean objeto de cesión, que sólo podrán utilizarse para el ejercicio de las competencias atribuidas por esta Ley. A los expertos que asesoren a la Comisión les será de aplicación el mismo régimen de responsabilidad respecto de todo aquello de lo que conozcan por razón de su asistencia a la Comisión.
+4. La Comisión de Vigilancia ejercerá sus competencias con el apoyo de la Secretaría de la Comisión de Vigilancia, que tiene la consideración de órgano de la Comisión. La Secretaría será desempeñada por la unidad orgánica, con rango al menos de subdirección general, de las existentes en el Ministerio del Interior, que reglamentariamente se determine.
+Corresponderá a la Secretaría, entre otras funciones, instruir los procedimientos sancionadores a que hubiere lugar por las infracciones de esta Ley, así como formular a la Comisión de Vigilancia la correspondiente propuesta de resolución.
+5. El cumplimiento de las obligaciones de información a que se refiere el artículo 4 de esta Ley se hará a través de la Secretaría de la Comisión de Vigilancia.
+6. La Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias y la Comisión de Vigilancia de Actividades de Financiación del Terrorismo se prestarán la máxima colaboración para el ejercicio de sus respectivas competencias. En los términos que se acuerden entre ambas Comisiones y sin perjuicio de lo dispuesto en el artículo 45.3 de la Ley de prevención del blanqueo de capitales y de la financiación del terrorismo, el Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias informará en las reuniones de la Comisión de Vigilancia de su actividad relativa a hechos u operaciones que presenten indicios o certeza de relación con la financiación del terrorismo y, en especial, de los informes de inteligencia financiera que hubiera elaborado en relación con esta materia.
+Las competencias de la Comisión de Vigilancia se entienden sin perjuicio de las que la Ley de prevención del blanqueo de capitales y de la financiación del terrorismo atribuye a la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias.
+Se modifica por la disposición final 1.4 de la Ley 10/2010, de 28 de abril. Ref. BOE-A-2010-6737
+
+### Disposición adicional primera
+
+Disposición adicional primera. Modificación de la Ley 19/1993, de 28 de diciembre, sobre determinadas medidas de prevención del blanqueo de capitales.
+Se añade un nuevo párrafo g) al apartado 2 del artículo 15 de la Ley 19/1993, con el siguiente contenido, pasando el contenido del actual párrafo g) a un nuevo párrafo h):
+«g) Prestar la asistencia necesaria a la Comisión de Vigilancia de Actividades de Financiación del Terrorismo para el adecuado ejercicio y desarrollo de sus funciones, ejecutar sus órdenes y orientaciones y velar por la aplicación de lo dispuesto en la ley reguladora de dicha comisión de acuerdo con las instrucciones que reciba de ella.»
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Modificación de la Ley 230/1963, de 28 de diciembre, General Tributaria.
+Se añade un nuevo párrafo i) al apartado 1 del artículo 113 de la Ley General Tributaria, con el siguiente contenido:
+«i) La colaboración con la Comisión de Vigilancia de Actividades de Financiación del Terrorismo en el ejercicio de sus funciones, de acuerdo con lo previsto en el artículo 8 de la Ley de Prevención y Bloqueo de la Financiación del Terrorismo.»
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Modificación del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio.
+Se añade un nuevo párrafo i) al apartado 6 del artículo 36 del texto refundido de la Ley General de la Seguridad Social, con el siguiente contenido:
+«i) La colaboración con la Comisión de Vigilancia de Actividades de Financiación del Terrorismo en el ejercicio de sus funciones, de acuerdo con lo previsto en el artículo 8 de la Ley de Prevención y Bloqueo de la Financiación del Terrorismo.»
+
+### Disposicion derogatoria única
+
+Disposicion derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones, de igual o inferior rango, se opongan a lo establecido en esta ley.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+Se habilita al Gobierno para que, en el plazo de seis meses a contar desde la entrada en vigor de esta ley, apruebe las disposiciones reglamentarias para su ejecución y desarrollo, especialmente en materia de funcionamiento y régimen jurídico de adopción de acuerdos por parte de la Comisión de Vigilancia.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 21 de mayo de 2003.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

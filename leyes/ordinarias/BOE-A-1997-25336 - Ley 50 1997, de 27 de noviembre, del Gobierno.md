@@ -1,0 +1,598 @@
+# Ley 50/1997, de 27 de noviembre, del Gobierno.
+
+- Identificador BOE: `BOE-A-1997-25336`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+Desde la aprobación de la Constitución Española en 1978, puede observarse con satisfacción como su espíritu, principios y articulado han tenido el correspondiente desarrollo normativo en textos de rango legal, impulsando un período de fecunda producción legislativa para incorporar plenamente los principios democráticos al funcionamiento de los poderes e instituciones que conforman el Estado Español.
+En efecto, el conjunto de los poderes y órganos constitucionales han sido objeto de leyes que, con posterioridad a la Constitución, establecen las pautas de su organización, competencia y normas de funcionamiento a la luz de la norma vértice de nuestro ordenamiento democrático.
+Existe, sin embargo, un relevante ámbito de los poderes constitucionales al que todavía no ha llegado el desarrollo legal de la Constitución. Tal es el caso del núcleo esencial de la configuración del poder ejecutivo como es el propio Gobierno. En efecto, carece todavía el Gobierno, como supremo órgano de la dirección de la política interior y exterior del Reino de España, de texto legal que contemple su organización, competencia y funcionamiento en el espíritu, principios y texto constitucional. Tal es el importante paso que se da con la presente Ley.
+La Constitución de 1978 establece los principios y criterios básicos que deben presidir el régimen jurídico del Gobierno, siendo su artículo 97 el precepto clave en la determinación de la posición constitucional del mismo.
+Al propio tiempo, el artículo 98 contiene un mandato dirigido al legislador para que éste proceda al correspondiente desarrollo normativo del citado órgano constitucional en lo que se refiere a la determinación de sus miembros y estatuto e incompatibilidades de los mismos.
+Por otra parte, el Gobierno no puede ser privado de sus características propias de origen constitucional si no es a través de una reforma de la Constitución («garantía institucional»). Ahora bien, la potestad legislativa puede y debe operar autónomamente siempre y cuando no llegen a infringirse principios o normas constitucionales.
+Por ello, en lo que se refiere a aspectos orgánicos, procedimentales o funcionales, la presente Ley aparece como conveniente; y, en cuanto se trate de precisar y desarrollar las previsiones concretas de remisión normativa contenida en la Constitución, la Ley aparece como necesaria. Avala además la pertinencia del presente texto el hecho de que la organización y el funcionamiento del Gobierno se encuentra en textos legales dispersos, algunos de ellos preconstitucionales, y, por tanto, no del todo coherentes con el contenido de nuestra Carta Magna.
+Tres principios configuran el funcionamiento del Gobierno: el principio de dirección presidencial, que otorga al Presidente del Gobierno la competencia para determinar las directrices políticas que deberá seguir el Gobierno y cada uno de los Departamentos; la colegialidad y consecuente responsabilidad solidaria de sus miembros; y, por último, el principio departamental que otorga al titular de cada Departamento una amplia autonomía y responsabilidad en el ámbito de su respectiva gestión.
+Desde estos planteamientos, en el Título I se regula la posición constitucional del Gobierno, así como su composición, con la distinción entre órganos individuales y colegiados. Al propio tiempo, se destacan las funciones que, con especial relevancia, corresponden al Presidente y al Consejo de Ministros. Asimismo, se regula la creación, composición y funciones de las Comisiones Delegadas del Gobierno, órganos con una aquilatada tradición en nuestro Derecho.
+En efecto, el artículo 98.1 de nuestra Carta Magna establece una composición fija -aún con elementos disponibles- del Gobierno, remitiéndose a la Ley para determinar el resto de sus componentes. En este sentido, se opta ahora por un desarrollo estricto del precepto constitucional, considerando como miembros del Gobierno al Presidente, a los Vicepresidentes cuando existan, y a los Ministros. En cuanto a la posición relativa de los miembros del Gobierno, se destaca la importancia del Presidente, con fundamento en el principio de dirección presidencial, dado que del mismo depende, en definitiva, la existencia misma del Gobierno. El Derecho comparado es prácticamente unánime en consagrar la existencia de un evidente desequilibrio institucionalizado entre la posición del Presidente, de supremacía, y la de los demás miembros del Gobierno. Nuestra Constitución y, por tanto, también la Ley se adscriben decididamente a dicha tesis.
+Se mantiene, como no podía ser de otra manera, el carácter disponible de los Vicepresidentes, cuya existencia real en cada formación concreta del Gobierno dependerá de la decisión del Presidente. No se ha estimado conveniente, por otra parte, aumentar cualitativamente el número de categorías de quienes pueden ser miembros del Gobierno aun cuando esa posibilidad se encuentra permitida por el inciso final del artículo 98.1. En este sentido, si bien se contempla expresamente la figura de los Ministros sin cartera, no cabe duda de que su consideración es precisamente la de Ministros. Y desde esa posición, desempeñan una función política, encargándose de tareas que no corresponden, en principio ni en exclusiva, a uno de los Departamentos existentes. No son, en consecuencia, esos otros posibles miembros del Gobierno a que se refiere el artículo 98.1 de la Constitución.
+Por lo que respecta a los Secretarios de Estado, se opta por potenciar su «status» y su ámbito funcional sin llegar a incluirlos en el Gobierno. Serán órganos de colaboración muy cualificados del Gobierno, pero no miembros, si bien su importancia destaca sobre el resto de órganos de colaboración y apoyo en virtud de su fundamental misión al frente de importantes parcelas de actividad política y administrativa, lo que les convierte, junto con los Ministros, en un engarce fundamental entre el Gobierno y la Administración.
+El texto regula, asimismo, la Comisión General de Secretarios de Estado y Subsecretarios, con funciones preparatorias del Consejo de Ministros, el Secretariado del Gobierno y los Gabinetes.
+El Título II se dedica a regular el estatuto de los miembros del Gobierno -cumpliendo el mandato contenido en el artículo 98.4 de la Constitución- y, en especial, los requisitos de acceso al cargo, su nombramiento y cese, el sistema de suplencias y el régimen de incompatibilidades.
+Igualmente se contienen las normas sobre nombramiento, cese, suplencia e incompatibilidades de los Secretarios de Estado; y el régimen de nombramiento y cese de los Directores de Gabinete.
+En el Título III se pormenorizan, dentro de los lógicos límites que impone el rango de la norma, las reglas de funcionamiento del Gobierno, con especial atención al Consejo de Ministros y a los demás órganos del Gobierno y de colaboración y apoyo al mismo. También se incluye una referencia especial a la delegación de competencias, fijando con claridad sus límites, así como las materias que resultan indelegables.
+El Título IV se dedica exclusivamente a regular el Gobierno en funciones, una de las principales novedades de la Ley, con base en el principio de lealtad constitucional, delimitando su propia posición constitucional y entendiendo que el objetivo último de toda su actuación radica en la consecución de un normal desarrollo del proceso de formación del nuevo Gobierno.
+Por último, en el Título V se regula el procedimiento para el ejercicio por el Gobierno de la iniciativa legislativa que le corresponde, comprendiendo dos fases principales en las que interviene el Consejo de Ministros, asumiendo la iniciativa legislativa, en un primer momento, y culminando con la aprobación del proyecto de ley.
+Se regula asimismo el ejercicio de la potestad reglamentaria, con especial referencia al procedimiento de elaboración de los reglamentos y a la forma de las disposiciones y resoluciones del Gobierno, de sus miembros y de las Comisiones Delegadas. De este modo, el texto procede a una ordenación de las normas reglamentarias con base en los principios de jerarquía y de competencia, criterio este último que preside la relación entre los Reales Decretos del Consejo de Ministros y los Reales Decretos del Presidente del Gobierno, cuya parcela propia se sitúa en la materia funcional y operativa del órgano complejo que es el Gobierno.
+Finalmente, se regulan diversas formas de control de los actos del Gobierno, de conformidad con lo establecido por nuestra Constitución y por nuestra jurisprudencia constitucional y ordinaria, con la finalidad de garantizar el control jurídico de toda la actividad del Gobierno en el ejercicio de sus funciones.
+
+## TÍTULO I
+
+Del Gobierno: composición, organización y órganos de colaboración y apoyo
+
+## CAPÍTULO I
+
+Del Gobierno, su composición, organización y funciones
+
+### Artículo 1
+
+Artículo 1. Del Gobierno.
+1. El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.
+2. El Gobierno se compone del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros.
+3. Los miembros del Gobierno se reúnen en Consejo de Ministros y en Comisiones Delegadas del Gobierno.
+
+### Artículo 2
+
+Artículo 2. Del Presidente del Gobierno.
+1. El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo, sin perjuicio de la competencia y responsabilidad directa de los Ministros en su gestión.
+2. En todo caso, corresponde al Presidente del Gobierno:
+a) Representar al Gobierno.
+b) Establecer el programa político del Gobierno y determinar las directrices de la política interior y exterior y velar por su cumplimiento.
+c) Proponer al Rey, previa deliberación del Consejo de Ministros, la disolución del Congreso, del Senado o de las Cortes Generales.
+d) Plantear ante el Congreso de los Diputados, previa deliberación del Consejo de Ministros, la cuestión de confianza.
+e) Proponer al Rey la convocatoria de un referéndum consultivo, previa autorización del Congreso de los Diputados.
+f) Dirigir la política de defensa y ejercer respecto de las Fuerzas Armadas las funciones previstas en la legislación reguladora de la defensa nacional y de la organización militar.
+g) Convocar, presidir y fijar el orden del día de las reuniones del Consejo de Ministros, sin perjuicio de lo previsto en el artículo 62.g) de la Constitución.
+h) Refrendar, en su caso, los actos del Rey y someterle, para su sanción, las leyes y demás normas con rango de ley, de acuerdo con lo establecido en los artículos 64 y 91 de la Constitución.
+i) Interponer el recurso de inconstitucionalidad.
+j) Crear, modificar y suprimir, por Real Decreto, los Departamentos Ministeriales, así como las Secretarías de Estado, Asimismo, le corresponde la aprobación de la estructura orgánica de la Presidencia del Gobierno.
+k) Proponer al Rey el nombramiento y separación de los Vicepresidentes y de los Ministros.
+l) Resolver los conflictos de atribuciones que puedan surgir entre los diferentes Ministerios.
+m) Impartir instrucciones a los demás miembros del Gobierno.
+n) Ejercer cuantas otras atribuciones le confieran la Constitución y las leyes.
+
+### Artículo 3
+
+Artículo 3. Del Vicepresidente o Vicepresidentes del Gobierno.
+1. Al Vicepresidente o Vicepresidentes, cuando existan, les corresponderá el ejercicio de las funciones que les encomiende el Presidente.
+2. El Vicepresidente que asuma la titularidad de un Departamento Ministerial, ostentará, además, la condición de Ministro.
+
+### Artículo 4
+
+Artículo 4. De los Ministros.
+1. Los Ministros, como titulares de sus Departamentos, tienen competencia y responsabilidad en la esfera específica de su actuación, y les corresponde el ejercicio de las siguientes funciones:
+a) Desarrollar la acción del Gobierno en el ámbito de su Departamento, de conformidad con los acuerdos adoptados en Consejo de Ministros o con las directrices del Presidente del Gobierno.
+b) Ejercer la potestad reglamentaria en las materias propias de su Departamento.
+c) Ejercer cuantas otras competencias les atribuyan las leyes, las normas de organización y funcionamiento del Gobierno y cualesquiera otras disposiciones.
+d) Refrendar, en su caso, los actos del Rey en materia de su competencia.
+2. Además de los Ministros titulares de un Departamento, podrán existir Ministros sin cartera, a los que se les atribuirá la responsabilidad de determinadas funciones gubernamentales. En caso de que existan Ministros sin cartera, por Real Decreto se determinará el ámbito de sus competencias, la estructura administrativa, así como los medios materiales y personales que queden adscritos al mismo.
+Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 3.1 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+ Redacción anterior:
+ "2. Además de los Ministros titulares de un Departamento, podrán existir Ministros sin cartera, a los que se les atribuirá la responsabilidad de determinadas funciones gubernamentales."
+Se modifica el apartado 2, con efectos de 2 de octubre de 2016, por la disposición final 3.1 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 5
+
+Artículo 5. Del Consejo de Ministros.
+1. Al Consejo de Ministros, como órgano colegiado del Gobierno, le corresponde el ejercicio de las siguientes funciones:
+a) Aprobar los proyectos de ley y su remisión al Congreso de los Diputados o, en su caso, al Senado.
+b) Aprobar el Proyecto de Ley de Presupuestos Generales del Estado.
+c) Aprobar los Reales Decretos-leyes y los Reales Decretos Legislativos.
+d) Acordar la negociación y firma de Tratados internacionales, así como su aplicación provisional.
+e) Remitir los Tratados internacionales a las Cortes Generales en los términos previstos en los artículos 94 y 96.2 de la Constitución.
+f) Declarar los estados de alarma y de excepción y proponer al Congreso de los Diputados la declaración del estado de sitio.
+g) Disponer la emisión de Deuda Pública o contraer crédito, cuando haya sido autorizado por una Ley.
+h) Aprobar los reglamentos para el desarrollo y la ejecución de las leyes, previo dictamen del Consejo de Estado, así como las demás disposiciones reglamentarias que procedan.
+i) Crear, modificar y suprimir los órganos directivos de los Departamentos Ministeriales.
+j) Adoptar programas, planes y directrices vinculantes para todos los órganos de la Administración General del Estado.
+k) Ejercer cuantas otras atribuciones le confieran la Constitución, las leyes y cualquier otra disposición.
+2. A las reuniones del Consejo de Ministros podrán asistir los Secretarios de Estado y excepcionalmente otros altos cargos, cuando sean convocados para ello, sin perjuicio de lo dispuesto en los tratados internacionales válidamente celebrados por España.
+Téngase en cuenta que esta actualización del apartado 2, establecida por la disposición final 11.1 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-11, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1.
+ Redacción anterior:
+ "2. A las reuniones del Consejo de Ministros podrán asistir los Secretarios de Estado y excepcionalmente otros altos cargos, cuando sean convocados para ello."
+3. Las deliberaciones del Consejo de Ministros serán secretas.
+Se modifica el apartado 2, con efectos desde el 3 de abril de 2025, por la disposición final 11.1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76
+ Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.2 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 6
+
+Artículo 6. De las Comisiones Delegadas del Gobierno.
+1. La creación, modificación y supresión de las Comisiones Delegadas del Gobierno será acordada por el Consejo de Ministros mediante Real Decreto, a propuesta del Presidente del Gobierno.
+2. El Real Decreto de creación de una Comisión Delegada deberá especificar, en todo caso:
+a) El miembro del Gobierno que asume la presidencia de la Comisión.
+b) Los miembros del Gobierno y, en su caso, Secretarios de Estado que la integran.
+c) Las funciones que se atribuyen a la Comisión.
+d) El miembro de la Comisión al que corresponde la Secretaría de la misma.
+e) El régimen interno de funcionamiento y en particular el de convocatorias y suplencias.
+Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 3.3 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+ Redacción anterior:
+ "2. El Real Decreto de creación de una Comisión Delegada deberá especificar, en todo caso:
+ a) El miembro del Gobierno que asume la presidencia de la Comisión.
+ b) Los miembros del Gobierno y, en su caso, Secretarios de Estado que la integran.
+ c) Las funciones que se atribuyen a la Comisión.
+ d) El miembro de la Comisión al que corresponde la Secretaría de la misma."
+3. No obstante lo dispuesto en el apartado anterior, podrán ser convocados a las reuniones de las Comisiones Delegadas los titulares de aquellos otros órganos superiores y directivos de la Administración General del Estado que se estime conveniente.
+4. Corresponde a las Comisiones Delegadas, como órganos colegiados del Gobierno:
+a) Examinar las cuestiones de carácter general que tengan relación con varios de los Departamentos Ministeriales que integren la Comisión.
+b) Estudiar aquellos asuntos que, afectando a varios Ministerios, requieran la elaboración de una propuesta conjunta previa a su resolución por el Consejo de Ministros.
+c) Resolver los asuntos que, afectando a más de un Ministerio, no requieran ser elevados al Consejo de Ministros.
+d) Ejercer cualquier otra atribución que les confiera el ordenamiento jurídico o que les delegue el Consejo de Ministros.
+5. Las deliberaciones de las Comisiones Delegadas del Gobierno serán secretas.
+Se modifica, con efectos de 2 de octubre de 2016, el apartado 2 por la disposición final 3.3 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+## CAPÍTULO II
+
+De los órganos de colaboración y apoyo del Gobierno
+
+### Artículo 7
+
+Artículo 7. De los Secretarios de Estado.
+1. Los Secretarios de Estado son órganos superiores de la Administración General del Estado, directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específica de un Departamento o de la Presidencia del Gobierno.
+2. Actúan bajo la dirección del titular del Departamento al que pertenezcan. Cuando estén adscritos a la Presidencia del Gobierno, actúan bajo la dirección del Presidente.
+Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 3.4 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+ Redacción anterior:
+ "2. Actúan bajo la dirección del titular del Departamento al que pertenezcan. Cuando estén adscritos a la Presidencia del Gobierno, actúan bajo la dirección del Presidente. Asimismo, podrán ostentar por delegación expresa de sus respectivos Ministros la representación de éstos en materias propias de su competencia, incluidas aquéllas con proyección internacional, sin perjuicio, en todo caso, de las normas que rigen las relaciones de España con otros Estados y con las Organizaciones internacionales."
+3. Las competencias de los Secretarios de Estado son las que se determinan en la Ley de Organización y Funcionamiento de la Administración General del Estado.
+Se modifica, con efectos de 2 de octubre de 2016, el apartado 2 por la disposición final 3.4 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 8
+
+Artículo 8. De la Comisión General de Secretarios de Estado y Subsecretarios.
+1. La Comisión General de Secretarios de Estado y Subsecretarios estará integrada por los titulares de las Secretarías de Estado y por los Subsecretarios de los distintos Departamentos Ministeriales.
+Asistirá igualmente el Abogado General del Estado y aquellos altos cargos con rango de Secretario de Estado o Subsecretario que sean convocados por el Presidente por razón de la materia de que se trate.
+2. La Presidencia de la Comisión General de Secretarios de Estado y Subsecretarios corresponde a un Vicepresidente del Gobierno o, en su defecto, al Ministro de la Presidencia. En caso de ausencia del Presidente de la Comisión, la presidencia recaerá en el Ministro que corresponda según el orden de precedencia de los Departamentos ministeriales. No se entenderá por ausencia la interrupción transitoria en la asistencia a la reunión de la Comisión. En ese caso, las funciones que pudieran corresponder al Presidente serán ejercidas por la siguiente autoridad en rango presente, de conformidad con el orden de precedencia de los distintos Departamentos ministeriales.
+3. La Secretaría de la Comisión General de Secretarios de Estado y Subsecretarios será ejercida por el Subsecretario de la Presidencia. En caso de ausencia, vacante o enfermedad, actuará como Secretario el Director del Secretariado del Gobierno.
+4. Las deliberaciones de la Comisión General de Secretarios de Estado y Subsecretarios serán reservadas. En ningún caso la Comisión podrá adoptar decisiones o acuerdos por delegación del Gobierno.
+5. Corresponde a la Comisión General de Secretarios de Estado y Subsecretarios:
+a) El examen de todos los asuntos que vayan a someterse a aprobación del Consejo de Ministros, excepto los nombramientos, ceses, ascensos a cualquiera de los empleos de la categoría de oficiales generales y aquéllos que, excepcionalmente y por razones de urgencia, deban ser sometidos directamente al Consejo de Ministros.
+b) El análisis o discusión de aquellos asuntos que, sin ser competencia del Consejo de Ministros o sus Comisiones Delegadas, afecten a varios Ministerios y sean sometidos a la Comisión por su presidente.
+6. La Comisión General de Secretarios de Estado y Subsecretarios podrá celebrar sesiones, deliberar y aprobar actas a distancia por medios electrónicos, siempre que los miembros participantes se encuentren en territorio español y quede acreditada su identidad. Asimismo, se deberá asegurar la comunicación entre ellos en tiempo real durante la sesión, disponiéndose los medios necesarios para garantizar el carácter secreto o reservado de sus deliberaciones.
+Se añade el apartado 6 por el art. 221.1 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-33
+ Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.5 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 9
+
+Artículo 9. Del Secretariado del Gobierno.
+1. El Secretariado del Gobierno, como órgano de apoyo del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y de la Comisión General de Secretarios de Estado y Subsecretarios, ejercerá las siguientes funciones:
+a) La asistencia al Ministro-Secretario del Consejo de Ministros.
+b) La remisión de las convocatorias a los diferentes miembros de los órganos colegiados anteriormente enumerados.
+c) La colaboración con las Secretarías Técnicas de las Comisiones Delegadas del Gobierno.
+d) El archivo y custodia de las convocatorias, órdenes del día y actas de las reuniones.
+e) Velar por el cumplimiento de los principios de buena regulación aplicables a las iniciativas normativas y contribuir a la mejora de la calidad técnica de las disposiciones aprobadas por el Gobierno.
+f) Velar por la correcta y fiel publicación de las disposiciones y normas emanadas del Gobierno que deban insertarse en el "Boletín Oficial del Estado".
+2. Asimismo, el Secretariado del Gobierno, como órgano de asistencia al Ministro de la Presidencia, ejercerá las siguientes funciones:
+a) Los trámites relativos a la sanción y promulgación real de las leyes aprobadas por las Cortes Generales y la expedición de los Reales Decretos.
+b) La tramitación de los actos y disposiciones del Rey cuyo refrendo corresponde al Presidente del Gobierno.
+c) La tramitación de los actos y disposiciones que el ordenamiento jurídico atribuye a la competencia del Presidente del Gobierno.
+3. El Secretariado del Gobierno se integra en la estructura orgánica del Ministerio de la Presidencia, tal como se prevea en el Real Decreto de estructura de ese Ministerio. El Director del Secretariado del Gobierno ejercerá la secretaría adjunta de la Comisión General de Secretarios de Estado y Subsecretarios.
+4. De conformidad con las funciones que tiene atribuidas y de acuerdo con las normas que rigen la elaboración de las disposiciones de carácter general, el Secretariado del Gobierno propondrá al Ministro de la Presidencia la aprobación de las instrucciones que han de seguirse para la tramitación de asuntos ante los órganos colegiados del Gobierno y los demás previstos en el apartado segundo de este artículo. Las instrucciones preverán expresamente la forma de documentar las propuestas y acuerdos adoptados por medios electrónicos, que deberán asegurar la identidad de los órganos intervinientes y la fehaciencia del contenido.
+Téngase en cuenta que esta última actualización, establecida por la disposición final 3.6 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+ Redacción anterior:
+ "1. El Secretariado del Gobierno, como órgano de apoyo del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y de la Comisión General de Secretarios de Estado y Subsecretarios, ejercerá las siguientes funciones:
+ a) La asistencia al Ministro-Secretario del Consejo de Ministros.
+ b) La remisión de las convocatorias a los diferentes miembros de los órganos colegiados anteriormente enumerados.
+ c) La colaboración con las Secretarías Técnicas de las Comisiones Delegadas del Gobierno.
+ d) El archivo y custodia de las convocatorias, órdenes del día y actas de las reuniones.
+ e) Velar por la correcta y fiel publicación de las disposiciones y normas emanadas del Gobierno que deban insertarse en el «Boletín Oficial del Estado».
+ 2. El Secretariado del Gobierno se integra en la estructura orgánica del Ministerio de la Presidencia."
+Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.6 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 10
+
+Artículo 10. De los Gabinetes.
+1. Los Gabinetes son órganos de apoyo político y técnico del Presidente del Gobierno, de los Vicepresidentes, de los Ministros y de los Secretarios de Estado. Los miembros de los Gabinetes realizan tareas de confianza y asesoramiento especial sin que en ningún caso puedan adoptar actos o resoluciones que correspondan legalmente a los órganos de la Administración General del Estado o de las organizaciones adscritas a ella, sin perjuicio de su asistencia o pertenencia a órganos colegiados que adopten decisiones administrativas. Asimismo, los directores de los gabinetes podrán dictar los actos administrativos propios de la jefatura de la unidad que dirigen.
+Particularmente, los Gabinetes prestan su apoyo a los miembros del Gobierno y Secretarios de Estado en el desarrollo de su labor política, en el cumplimiento de las tareas de carácter parlamentario y en sus relaciones con las instituciones y la organización administrativa.
+El Gabinete de la Presidencia del Gobierno se regulará por Real Decreto del Presidente en el que se determinará, entre otros aspectos, su estructura y funciones. El resto de Gabinetes se regulará por lo dispuesto en esta Ley.
+2. Los Directores de Gabinete tendrán el nivel orgánico que se determine reglamentariamente. El resto de miembros del Gabinete tendrán la situación y grado administrativo que les corresponda en virtud de la legislación correspondiente.
+3. Las retribuciones de los miembros de los Gabinetes se determinan por el Consejo de Ministros dentro de las consignaciones presupuestarias establecidas al efecto adecuándose, en todo caso, a las retribuciones de la Administración General del Estado.
+Téngase en cuenta que esta última actualización, establecida por la disposición final 3.7 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+ Redacción anterior:
+ "1. Los Gabinetes son órganos de apoyo político y técnico del Presidente del Gobierno, de los Vicepresidentes, de los Ministros y de los Secretarios de Estado. Los miembros de los Gabinetes realizan tareas de confianza y asesoramiento especial sin que en ningún caso puedan adoptar actos o resoluciones que correspondan legalmente a los órganos de la Administración General del Estado o de las organizaciones adscritas a ella.
+ Particularmente les prestan su apoyo en el desarrollo de su labor política, en el cumplimiento de las tareas de carácter parlamentario y en sus relaciones con las instituciones y la organización administrativa.
+ 2. A los Directores, Subdirectores y demás miembros de estos Gabinetes les corresponde el nivel orgánico que reglamentariamente se determine.
+ 3. El número y las retribuciones de sus miembros se determinan por el Consejo de Ministros dentro de las consignaciones presupuestarias establecidas al efecto adecuándose, en todo caso, a las retribuciones de la Administración General del Estado."
+Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.7 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+## TÍTULO II
+
+Del estatuto de los miembros del Gobierno, de los Secretarios de Estado y de los Directores de los Gabinetes
+
+## CAPÍTULO I
+
+De los miembros del Gobierno
+
+### Artículo 11
+
+Artículo 11. De los requisitos de acceso al cargo.
+Para ser miembro del Gobierno se requiere ser español, mayor de edad, disfrutar de los derechos de sufragio activo y pasivo, así como no estar inhabilitado para ejercer empleo o cargo público por sentencia judicial firme y reunir el resto de requisitos de idoneidad previstos en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.
+Téngase en cuenta que esta última actualización, establecida por la disposición final 3.8 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+ Redacción anterior:
+ "Para ser miembro del Gobierno se requiere ser español, mayor de edad, disfrutar de los derechos de sufragio activo y pasivo, así como no estar inhabilitado para ejercer empleo o cargo público por sentencia judicial firme."
+Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.8 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 12
+
+Artículo 12. Del nombramiento y cese.
+1. El nombramiento y cese del Presidente del Gobierno se producirá en los términos previstos en la Constitución.
+2. Los Vicepresidentes y Ministros serán nombrados y separados por el Rey, a propuesta del Presidente del Gobierno. El nombramiento conllevará el cese en el puesto que, en su caso, se estuviera desempeñando, salvo cuando en el caso de los Vicepresidentes, se designe como tal a un Ministro que conserve la titularidad del Departamento. Cuando el cese en el anterior cargo correspondiera al Consejo de Ministros, se dejará constancia de esta circunstancia en el nombramiento del nuevo titular. La separación de los Ministros sin cartera llevará aparejada la extinción de dichos órganos.
+2 bis. En el nombramiento de las personas titulares de las Vicepresidencias y los Ministerios se garantizará el principio de presencia equilibrada de mujeres y hombres, de forma que cada uno de los sexos suponga como mínimo el cuarenta por ciento en su conjunto.
+3. La separación de los Vicepresidentes del Gobierno llevará aparejada la extinción de dichos órganos, salvo el caso en que simultáneamente se designe otro vicepresidente en sustitución del separado.
+4. Por Real Decreto se regulará el estatuto que fuera aplicable a los Presidentes del Gobierno tras su cese.
+Se añade el apartado 2 bis por el art. 7 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#as-3
+ Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.9 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 13
+
+Artículo 13. De la suplencia.
+1. En los casos de vacante, ausencia o enfermedad, las funciones del Presidente del Gobierno serán asumidas por los Vicepresidentes, de acuerdo con el correspondiente orden de prelación, y, en defecto de ellos, por los Ministros, según el orden de precedencia de los Departamentos.
+2. La suplencia de los Ministros, para el despacho ordinario de los asuntos de su competencia, será determinada por Real Decreto del Presidente del Gobierno, debiendo recaer, en todo caso, en otro miembro del Gobierno. El Real Decreto expresará entre otras cuestiones la causa y el carácter de la suplencia.
+3. No se entenderá por ausencia la interrupción transitoria de la asistencia a la reunión de un órgano colegiado. En tales casos, las funciones que pudieran corresponder al miembro del gobierno durante esa situación serán ejercidas por la siguiente autoridad en rango presente.
+Téngase en cuenta que esta última actualización, establecida por la disposición final 3.10 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+ Redacción anterior:
+ "1. En los casos de vacante, ausencia o enfermedad, las funciones del Presidente del Gobierno serán asumidas por los Vicepresidentes, de acuerdo con el correspondiente orden de prelación, y, en defecto de ellos, por los Ministros, según el orden de precedencia de los Departamentos.
+ 2. La suplencia de los Ministros, para el despacho ordinario de los asuntos de su competencia, será determinada por Real Decreto del Presidente del Gobierno, debiendo recaer, en todo caso, en otro miembro del Gobierno. El Real Decreto expresará la causa y el carácter de la suplencia."
+Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.10 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 14
+
+Artículo 14. Del régimen de incompatibilidades de los miembros del Gobierno.
+1. Los miembros del Gobierno no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.
+2. Será de aplicación, asimismo, a los miembros del Gobierno el régimen de incompatibilidades de los altos cargos de la Administración General del Estado.
+
+## CAPÍTULO II
+
+De los Secretarios de Estado
+
+### Artículo 15
+
+Artículo 15. Del nombramiento, cese, suplencia e incompatibilidades de los Secretarios de Estado.
+1. Los Secretarios de Estado son nombrados y separados por Real Decreto del Consejo de Ministros, aprobado a propuesta del Presidente del Gobierno o del miembro del Gobierno a cuyo Departamento pertenezcan.
+2. La suplencia de los Secretarios de Estado del mismo Departamento se determinará según el orden de precedencia que se derive del Real Decreto de estructura orgánica del Ministerio.
+3. Los Secretarios de Estado dependientes directamente de la Presidencia del Gobierno serán suplidos por quien designe el Presidente.
+4. Es de aplicación a los Secretarios de Estado el régimen de incompatibilidades previsto para los altos cargos de la Administración General del Estado.
+
+## CAPÍTULO III
+
+De los Directores de los Gabinetes de Presidente, Vicepresidentes, Ministros y Secretarios de Estado
+
+### Artículo 16
+
+Artículo 16. Del nombramiento y cese de los Directores de los Gabinetes.
+1. Los Directores de los Gabinetes del Presidente, de los Vicepresidentes y de los Ministros serán nombrados y separados por Real Decreto aprobado en Consejo de Ministros.
+2. Los Directores de Gabinete de los Secretarios de Estado serán nombrados por Orden Ministerial, previo conocimiento del Consejo de Ministros.
+3. Los Directores de los Gabinetes cesarán automáticamente cuando cese el titular del cargo del que dependen. En el supuesto del Gobierno en funciones continuarán hasta la formación del nuevo Gobierno.
+4. Los funcionarios que se incorporen a los Gabinetes a que se refiere este artículo pasarán a la situación de servicios especiales, salvo que opten por permanecer en la situación de servicio activo en su Administración de origen.
+Del mismo modo, el personal no funcionario que se incorpore a estos Gabinetes tendrá derecho a la reserva del puesto y antigüedad, conforme a lo dispuesto en su legislación específica.
+
+## TÍTULO III
+
+De las normas de funcionamiento del Gobierno y de la delegación de competencias
+
+### Artículo 17
+
+Artículo 17. De las normas aplicables al funcionamiento del Gobierno.
+El Gobierno se rige, en su organización y funcionamiento, por la presente Ley y por:
+a) Los Reales Decretos del Presidente del Gobierno sobre la composición y organización del Gobierno, así como de sus órganos de colaboración y apoyo.
+b) Las disposiciones organizativas internas, de funcionamiento y actuación emanadas del Presidente del Gobierno o del Consejo de Ministros.
+
+### Artículo 18
+
+Artículo 18. Del funcionamiento del Consejo de Ministros.
+1. El Presidente del Gobierno convoca y preside las reuniones del Consejo de Ministros, actuando como Secretario el Ministro de la Presidencia.
+2. Las reuniones del Consejo de Ministros podrán tener carácter decisorio o deliberante.
+3. El orden del día de las reuniones del Consejo de Ministros se fijará por el Presidente del Gobierno.
+4. De las sesiones del Consejo de Ministros se levantará acta en la que figurarán, exclusivamente, las circunstancias relativas al tiempo y lugar de su celebración, la relación de asistentes, los acuerdos adoptados y los informes presentados.
+
+### Artículo 19
+
+Artículo 19. De las actas de las Comisiones Delegadas del Gobierno y de la Comisión General de Secretarios de Estado y Subsecretarios.
+A las Comisiones Delegadas del Gobierno y a la Comisión General de Secretarios de Estado y Subsecretarios les será de aplicación lo dispuesto en el artículo 18 de la presente Ley en relación con las actas de dichos órganos colegiados.
+
+### Artículo 20
+
+Artículo 20. Delegación y avocación de competencias.
+1. Pueden delegar el ejercicio de competencias propias:
+a) El Presidente del Gobierno en favor del Vicepresidente o Vicepresidentes y de los Ministros.
+b) Los Ministros en favor de los Secretarios de Estado y de los Subsecretarios dependientes de ellos, de los Delegados del Gobierno en las Comunidades Autónomas y de los demás órganos directivos del Ministerio.
+2. Asimismo, son delegables a propuesta del Presidente del Gobierno las funciones administrativas del Consejo de Ministros en las Comisiones Delegadas del Gobierno.
+3. No son en ningún caso delegables las siguientes competencias:
+a) Las atribuidas directamente por la Constitución.
+b) Las relativas al nombramiento y separación de los altos cargos atribuidas al Consejo de Ministros.
+c) Las atribuidas a los órganos colegiados del Gobierno, con la excepción prevista en el apartado 2 de este artículo.
+d) Las atribuidas por una ley que prohíba expresamente la delegación.
+4. El Consejo de Ministros podrá avocar para sí, a propuesta del Presidente del Gobierno, el conocimiento de un asunto cuya decisión corresponda a las Comisiones Delegadas del Gobierno.
+La avocación se realizará mediante acuerdo motivado al efecto, del que se hará mención expresa en la decisión que se adopte en el ejercicio de la avocación. Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la decisión adoptada.
+Téngase en cuenta que esta última actualización, establecida por la disposición final 3.11 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+ Redacción anterior:
+ "Artículo 20. De la delegación de competencias.
+ 1. Pueden delegar el ejercicio de competencias propias:
+ a) El Presidente del Gobierno en favor del Vicepresidente o Vicepresidentes y de los Ministros.
+ b) Los Ministros en favor de los Secretarios de Estado dependientes de ellos, de los Delegados del Gobierno en las Comunidades Autónomas y de los órganos directivos del Ministerio.
+ 2. Asimismo, son delegables las funciones administrativas del Consejo de Ministros en las Comisiones Delegadas del Gobierno.
+ 3. No son en ningún caso delegables las siguientes competencias:
+ a) Las atribuidas directamente por la Constitución.
+ b) Las relativas al nombramiento y separación de los altos cargos atribuidas al Consejo de Ministros.
+ c) Las atribuidas a los órganos colegiados del Gobierno, con la excepción prevista en el apartado 2 de este artículo.
+ d) Las atribuidas por una ley que prohíba expresamente la delegación."
+Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.11 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+## TÍTULO IV
+
+Del Gobierno en funciones
+
+### Artículo 21
+
+Artículo 21. Del Gobierno en funciones.
+1. El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente.
+2. El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno, con las limitaciones establecidas en esta Ley.
+3. El Gobierno en funciones facilitará el normal desarrollo del proceso de formación del nuevo Gobierno y el traspaso de poderes al mismo y limitará su gestión al despacho ordinario de los asuntos públicos, absteniéndose de adoptar, salvo casos de urgencia debidamente acreditados o por razones de interés general cuya acreditación expresa así lo justifique, cualesquiera otras medidas.
+4. El Presidente del Gobierno en funciones no podrá ejercer las siguientes facultades:
+a) Proponer al Rey la disolución de alguna de las Cámaras, o de las Cortes Generales.
+b) Plantear la cuestión de confianza.
+c) Proponer al Rey la convocatoria de un referéndum consultivo.
+5. El Gobierno en funciones no podrá ejercer las siguientes facultades:
+a) Aprobar el Proyecto de Ley de Presupuestos Generales del Estado.
+b) Presentar proyectos de ley al Congreso de los Diputados o, en su caso, al Senado.
+6. Las delegaciones legislativas otorgadas por las Cortes Generales quedarán en suspenso durante todo el tiempo que el Gobierno esté en funciones como consecuencia de la celebración de elecciones generales.
+
+## TÍTULO V
+
+De la iniciativa legislativa y la potestad reglamentaria del Gobierno
+Téngase en cuenta que esta última actualización de la rúbrica, establecida por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+ Redacción anterior:
+ "De la iniciativa legislativa, de la potestad reglamentaria y del control de los actos del Gobierno"
+Se modifica la rúbrica, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 22
+
+Artículo 22. Del ejercicio de la iniciativa legislativa y la potestad reglamentaria del Gobierno.
+El Gobierno ejercerá la iniciativa y la potestad reglamentaria de conformidad con los principios y reglas establecidos en el Título VI de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y en el presente Título.
+Téngase en cuenta que esta última actualización, establecida por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+ Redacción anterior:
+ "Artículo 22. De la iniciativa legislativa del Gobierno.
+ 1. El Gobierno ejercerá la iniciativa legislativa prevista en los artículos 87 y 88 de la Constitución mediante la elaboración, aprobación y posterior remisión de los proyectos de ley al Congreso de los Diputados o, en su caso, al Senado.
+ 2. El procedimiento de elaboración de proyectos de ley a que se refiere el apartado anterior, se iniciará en el ministerio o ministerios competentes mediante la elaboración del correspondiente anteproyecto, que irá acompañado por la memoria, los estudios o informes sobre la necesidad y oportunidad del mismo, un informe sobre el impacto por razón de género de las medidas que se establecen en el mismo, así como por una memoria económica que contenga la estimación del coste a que dará lugar.
+ En todo caso, los anteproyectos de ley habrán de ser informados por la Secretaría General Técnica.
+ 3. El titular del Departamento proponente elevará el Anteproyecto al Consejo de Ministros a fin de que éste decida sobre los ulteriores trámites y, en particular, sobre las consultas, dictámenes e informes que resulten convenientes, así como sobre los términos de su realización, sin perjuicio de los legalmente preceptivos.
+ 4. Una vez cumplidos los trámites a que se refiere el apartado anterior, el titular del Departamento proponente someterá el Anteproyecto, de nuevo, al Consejo de Ministros para su aprobación como Proyecto de Ley y su remisión al Congreso de los Diputados o, en su caso, al Senado, acompañándolo de una Exposición de Motivos y de la Memoria y demás antecedentes necesarios para pronunciarse sobre él.
+ 5. Cuando razones de urgencia así lo aconsejen, el Consejo de Ministros podrá prescindir de los trámites contemplados en el apartado tercero de este artículo, salvo los que tengan carácter preceptivo, y acordar la aprobación de un Proyecto de Ley y su remisión al Congreso de los Diputados o, en su caso, al Senado."
+Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+ Se modifica el apartado 2 por el art. 1 de la Ley 30/2003, de 13 de octubre. Ref. BOE-A-2003-18920
+
+### Artículo 23
+
+Artículo 23. Disposiciones de entrada en vigor.
+Sin perjuicio de lo establecido en el artículo 2.1 del Código Civil, las disposiciones de entrada en vigor de las leyes o reglamentos, cuya aprobación o propuesta corresponda al Gobierno o a sus miembros, y que impongan nuevas obligaciones a las personas físicas o jurídicas que desempeñen una actividad económica o profesional como consecuencia del ejercicio de ésta, preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su aprobación.
+Lo previsto en este artículo no será de aplicación a los reales decretos-leyes, ni cuando el cumplimiento del plazo de transposición de directivas europeas u otras razones justificadas así lo aconsejen, debiendo quedar este hecho debidamente acreditado en la respectiva Memoria.
+Téngase en cuenta que esta última actualización, establecida por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+ Redacción anterior:
+ "Artículo 23. De la potestad reglamentaria.
+ 1. El ejercicio de la potestad reglamentaria corresponde al Gobierno de acuerdo con la Constitución y las leyes.
+ 2. Los reglamentos no podrán regular materias objeto de reserva de ley, ni infringir normas con dicho rango. Además, sin perjuicio de su función de desarrollo o colaboración con respecto a la ley, no podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, cánones u otras cargas o prestaciones personales o patrimoniales de carácter público.
+ 3. Los reglamentos se ajustarán a las siguientes normas de competencia y jerarquía:
+ 1º. Disposiciones aprobadas por Real Decreto del Presidente del Gobierno o del Consejo de Ministros.
+ 2º. Disposiciones aprobadas por Orden Ministerial.
+ Ningún reglamento podrá vulnerar preceptos de otro de jerarquía superior.
+ 4. Son nulas las resoluciones administrativas que vulneren lo establecido en un reglamento, aunque hayan sido dictadas por órganos de igual o superior jerarquía que el que lo haya aprobado."
+Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 24
+
+Artículo 24. De la forma y jerarquía de las disposiciones y resoluciones del Gobierno de la Nación y de sus miembros.
+1. Las decisiones del Gobierno de la Nación y de sus miembros revisten las formas siguientes:
+a) Reales Decretos Legislativos y Reales Decretos-leyes, las decisiones que aprueban, respectivamente, las normas previstas en los artículos 82 y 86 de la Constitución.
+b) Reales Decretos del Presidente del Gobierno, las disposiciones y actos cuya adopción venga atribuida al Presidente.
+c) Reales Decretos acordados en Consejo de Ministros, las decisiones que aprueben normas reglamentarias de la competencia de éste y las resoluciones que deban adoptar dicha forma jurídica.
+d) Acuerdos del Consejo de Ministros, las decisiones de dicho órgano colegiado que no deban adoptar la forma de Real Decreto.
+e) Acuerdos adoptados en Comisiones Delegadas del Gobierno, las disposiciones y resoluciones de tales órganos colegiados. Tales acuerdos revestirán la forma de Orden del Ministro competente o del Ministro de la Presidencia, cuando la competencia corresponda a distintos Ministros.
+f) Órdenes Ministeriales, las disposiciones y resoluciones de los Ministros. Cuando la disposición o resolución afecte a varios Departamentos revestirá la forma de Orden del Ministro de la Presidencia, dictada a propuesta de los Ministros interesados.
+2. Los reglamentos se ordenarán según la siguiente jerarquía:
+1.º Disposiciones aprobadas por Real Decreto del Presidente del Gobierno o acordado en el Consejo de Ministros.
+2.º Disposiciones aprobadas por Orden Ministerial.
+Téngase en cuenta que esta última actualización, establecida por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+ Redacción anterior:
+ "Artículo 24. Del procedimiento de elaboración de los reglamentos.
+ 1. La elaboración de los reglamentos se ajustará al siguiente procedimiento:
+ a) La iniciación del procedimiento de elaboración de un reglamento se llevará a cabo por el centro directivo competente mediante la elaboración del correspondiente proyecto, al que se acompañará un informe sobre la necesidad y oportunidad de aquél, así como una memoria económica que contenga la estimación del coste a que dará lugar.
+ b) A lo largo del proceso de elaboración deberán recabarse, además de los informes, dictámenes y aprobaciones previas preceptivos, cuantos estudios y consultas se estimen convenientes para garantizar el acierto y la legalidad del texto.
+ En todo caso, los reglamentos deberán ir acompañados de un informe sobre el impacto por razón de género de las medidas que se establecen en el mismo.
+ c) Elaborado el texto de una disposición que afecte a los derechos e intereses legítimos de los ciudadanos, se les dará audiencia, durante un plazo razonable y no inferior a quince días hábiles, directamente o a través de las organizaciones y asociaciones reconocidas por la ley que los agrupen o los representen y cuyos fines guarden relación directa con el objeto de la disposición. La decisión sobre el procedimiento escogido para dar audiencia a los ciudadanos afectados será debidamente motivada en el expediente por el órgano que acuerde la apertura del trámite de audiencia. Asimismo, y cuando la naturaleza de la disposición lo aconseje, será sometida a información pública durante el plazo indicado.
+ Este trámite podrá ser abreviado hasta el mínimo de siete días hábiles cuando razones debidamente motivadas así lo justifiquen. Sólo podrá omitirse dicho trámite cuando graves razones de interés público, que asimismo deberán explicitarse, lo exijan.
+ d) No será necesario el trámite previsto en la letra anterior, si las organizaciones o asociaciones mencionadas hubieran participado por medio de informes o consultas en el proceso de elaboración indicado en el apartado b).
+ e) El trámite de audiencia a los ciudadanos, en sus diversas formas, reguladas en la letra c), no se aplicará a las disposiciones que regulan los órganos, cargos y autoridades de la presente Ley, así como a las disposiciones orgánicas de la Administración General del Estado o de las organizaciones dependientes o adscritas a ella.
+ f) Junto a la memoria o informe sucintos que inician el procedimiento de elaboración del reglamento se conservarán en el expediente todos los estudios y consultas evacuados y demás actuaciones practicadas.
+ 2. En todo caso, los proyectos de reglamentos habrán de ser informados por la Secretaría General Técnica, sin perjuicio del dictamen del Consejo de Estado en los casos legalmente previstos.
+ 3. Será necesario informe previo del Ministerio de Administraciones Públicas cuando la norma reglamentaria pudiera afectar a la distribución de las competencias entre el Estado y las Comunidades Autónomas.
+ 4. La entrada en vigor de los reglamentos aprobados por el Gobierno requiere su íntegra publicación en el «Boletín Oficial del Estado»."
+Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+ Se añade un párrafo al apartado 1 b) por el art. 2 d la Ley 30/2003, de 13 de octubre. Ref. BOE-A-2003-18920
+
+### Artículo 25
+
+Artículo 25. Plan Anual Normativo.
+1. El Gobierno aprobará anualmente un Plan Normativo que contendrá las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente.
+2. El Plan Anual Normativo identificará, con arreglo a los criterios que se establezcan reglamentariamente, las normas que habrán de someterse a un análisis sobre los resultados de su aplicación, atendiendo fundamentalmente al coste que suponen para la Administración o los destinatarios y las cargas administrativas impuestas a estos últimos.
+3. Cuando se eleve para su aprobación por el órgano competente una propuesta normativa que no figurara en el Plan Anual Normativo al que se refiere el presente artículo será necesario justificar este hecho en la correspondiente Memoria del Análisis de Impacto Normativo.
+4. El Plan Anual Normativo estará coordinado por el Ministerio de la Presidencia, con el objeto de asegurar la congruencia de todas las iniciativas que se tramiten y de evitar sucesivas modificaciones del régimen legal aplicable a un determinado sector o área de actividad en un corto espacio de tiempo. El Ministro de la Presidencia elevará el Plan al Consejo de Ministros para su aprobación antes del 30 de abril.
+Por orden del Ministerio de la Presidencia se aprobarán los modelos que contengan la información a remitir sobre cada iniciativa normativa para su inclusión en el Plan.
+Téngase en cuenta que esta última actualización, establecida por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+ Redacción anterior:
+ "Artículo 25. De la forma de las disposiciones y resoluciones del Gobierno, de sus miembros y de las Comisiones Delegadas.
+ Las decisiones de los órganos regulados en esta Ley revisten las formas siguientes:
+ a) Reales Decretos Legislativos y Reales Decretos Leyes, las decisiones que aprueban, respectivamente, las normas previstas en los artículos 82 y 86 de la Constitución.
+ b) Reales Decretos del Presidente del Gobierno, las disposiciones y actos cuya adopción venga atribuida al Presidente.
+ c) Reales Decretos acordados en Consejo de Ministros, las decisiones que aprueben normas reglamentarias de la competencia de éste y las resoluciones que deban adoptar dicha forma jurídica.
+ d) Acuerdos del Consejo de Ministros, las decisiones de dicho órgano colegiado que no deban adoptar la forma de Real Decreto.
+ e) Acuerdos adoptados en Comisiones Delegadas del Gobierno, las disposiciones y resoluciones de tales órganos colegiados. Tales acuerdos revestirán la forma de Orden del Ministro competente o del Ministro de la Presidencia, cuando la competencia corresponda a distintos Ministros.
+ f) Órdenes Ministeriales, las disposiciones y resoluciones de los Ministros. Cuando la disposición o resolución afecte a varios Departamentos revestirá la forma de Orden del Ministro de la Presidencia, dictada a propuesta de los Ministros interesados."
+Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 26
+
+Artículo 26. Procedimiento de elaboración de normas con rango de Ley y reglamentos.
+La elaboración de los anteproyectos de ley, de los proyectos de real decreto legislativo y de normas reglamentarias se ajustará al siguiente procedimiento:
+1. Su redacción estará precedida de cuantos estudios y consultas se estimen convenientes para garantizar el acierto y la legalidad de la norma.
+2. Se sustanciará una consulta pública, a través del portal web del departamento competente, con carácter previo a la elaboración del texto, en la que se recabará opinión de los sujetos potencialmente afectados por la futura norma y de las organizaciones más representativas acerca de:
+a) Los problemas que se pretenden solucionar con la nueva norma.
+b) La necesidad y oportunidad de su aprobación.
+c) Los objetivos de la norma.
+d) Las posibles soluciones alternativas regulatorias y no regulatorias.
+Podrá prescindirse del trámite de consulta pública previsto en este apartado cuando concurra cualquiera de las siguientes circunstancias:
+a) Cuando se trate de normas presupuestarias u organizativas de la Administración General del Estado o de las organizaciones dependientes o vinculadas a éstas.
+b) Cuando concurran razones graves de interés público que lo justifiquen.
+c) Cuando la propuesta normativa no tenga un impacto significativo en la actividad económica.
+d) Cuando la propuesta no imponga obligaciones relevantes a los destinatarios.
+e) Cuando la propuesta regule aspectos parciales de una materia.
+f) Cuando se acuerde la tramitación urgente de iniciativas normativas, en los términos previstos en el artículo 27.2.
+La concurrencia de alguna o varias de estas razones, debidamente motivadas, se justificarán en la Memoria del Análisis de Impacto Normativo.
+La consulta pública deberá realizarse de tal forma que todos los potenciales destinatarios de la norma tengan la posibilidad de emitir su opinión, para lo cual deberá proporcionarse un tiempo suficiente, que en ningún caso será inferior a quince días naturales.
+Téngase en cuenta que esta actualización del apartado 2, establecida por la disposición final 11.2 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-11, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1.
+ Redacción anterior:
+ "2. Se sustanciará una consulta pública, a través del portal web del departamento competente, con carácter previo a la elaboración del texto, en la que se recabará opinión de los sujetos potencialmente afectados por la futura norma y de las organizaciones más representativas acerca de:
+ a) Los problemas que se pretenden solucionar con la nueva norma.
+ b) La necesidad y oportunidad de su aprobación.
+ c) Los objetivos de la norma.
+ d) Las posibles soluciones alternativas regulatorias y no regulatorias.
+ Podrá prescindirse del trámite de consulta pública previsto en este apartado en el caso de la elaboración de normas presupuestarias u organizativas de la Administración General del Estado o de las organizaciones dependientes o vinculadas a éstas, cuando concurran razones graves de interés público que lo justifiquen, o cuando la propuesta normativa no tenga un impacto significativo en la actividad económica, no imponga obligaciones relevantes a los destinatarios o regule aspectos parciales de una materia. También podrá prescindirse de este trámite de consulta en el caso de tramitación urgente de iniciativas normativas, tal y como se establece en el artículo 27.2. La concurrencia de alguna o varias de estas razones, debidamente motivadas, se justificarán en la Memoria del Análisis de Impacto Normativo.
+ La consulta pública deberá realizarse de tal forma que todos los potenciales destinatarios de la norma tengan la posibilidad de emitir su opinión, para lo cual deberá proporcionarse un tiempo suficiente, que en ningún caso será inferior a quince días naturales."
+3. El centro directivo competente elaborará con carácter preceptivo una Memoria del Análisis de Impacto Normativo, que deberá contener los siguientes apartados:
+a) Oportunidad de la propuesta y alternativas de regulación estudiadas, lo que deberá incluir una justificación de la necesidad de la nueva norma frente a la alternativa de no aprobar ninguna regulación.
+b) Contenido y análisis jurídico, con referencia al Derecho nacional y de la Unión Europea, que incluirá el listado pormenorizado de las normas que quedarán derogadas como consecuencia de la entrada en vigor de la norma.
+c) Análisis sobre la adecuación de la norma propuesta al orden de distribución de competencias.
+d) Impacto económico y presupuestario, que evaluará las consecuencias de su aplicación sobre los sectores, colectivos o agentes afectados por la norma, incluido el efecto sobre la competencia, la unidad de mercado y la competitividad y su encaje con la legislación vigente en cada momento sobre estas materias. Este análisis incluirá la realización del test Pyme de acuerdo con la práctica de la Comisión Europea.
+e) Asimismo, se identificarán las cargas administrativas que conlleva la propuesta, se cuantificará el coste de su cumplimiento para la Administración y para los obligados a soportarlas con especial referencia al impacto sobre las pequeñas y medianas empresas.
+f) Impacto por razón de género, que analizará y valorará los resultados que se puedan seguir de la aprobación de la norma desde la perspectiva de la eliminación de desigualdades y de su contribución a la consecución de los objetivos de igualdad de oportunidades y de trato entre mujeres y hombres, a partir de los indicadores de situación de partida, de previsión de resultados y de previsión de impacto.
+g) Un resumen de las principales aportaciones recibidas en el trámite de consulta pública regulado en el apartado 2.
+h) Impacto por razón de cambio climático, que deberá ser valorado en términos de mitigación y adaptación al mismo.
+La Memoria del Análisis de Impacto Normativo incluirá cualquier otro extremo que pudiera ser relevante a criterio del órgano proponente.
+4. Cuando la disposición normativa sea un anteproyecto de ley o un proyecto de real decreto legislativo, cumplidos los trámites anteriores, el titular o titulares de los Departamentos proponentes lo elevarán, previo sometimiento a la Comisión General de Secretarios de Estado y Subsecretarios, al Consejo de Ministros, a fin de que éste decida sobre los ulteriores trámites y, en particular, sobre las consultas, dictámenes e informes que resulten convenientes, así como sobre los términos de su realización, sin perjuicio de los legalmente preceptivos.
+Cuando razones de urgencia así lo aconsejen, y siempre que se hayan cumplimentado los trámites de carácter preceptivo, el Consejo de Ministros podrá prescindir de este y acordar la aprobación del anteproyecto de ley o proyecto de real decreto legislativo y su remisión, en su caso, al Congreso de los Diputados o al Senado, según corresponda.
+5. A lo largo del procedimiento de elaboración de la norma, el centro directivo competente recabará, además de los informes y dictámenes que resulten preceptivos, cuantos estudios y consultas se estimen convenientes para garantizar el acierto y la legalidad del texto.
+Salvo que normativamente se establezca otra cosa, los informes preceptivos se emitirán en un plazo de diez días, o de un mes cuando el informe se solicite a otra Administración o a un órgano u Organismo dotado de especial independencia o autonomía.
+El centro directivo competente podrá solicitar motivadamente la emisión urgente de los informes, estudios y consultas solicitados, debiendo estos ser emitidos en un plazo no superior a la mitad de la duración de los indicados en el párrafo anterior.
+En todo caso, los anteproyectos de ley, los proyectos de real decreto legislativo y los proyectos de disposiciones reglamentarias, deberán ser informados por la Secretaría General Técnica del Ministerio o Ministerios proponentes.
+Asimismo, cuando la propuesta normativa afectara a la organización administrativa de la Administración General del Estado, a su régimen de personal, a los procedimientos y a la inspección de los servicios, será necesario recabar la aprobación previa del Ministerio de Hacienda y Función Pública una vez emitidos el resto de informes que conformen el expediente, a excepción en su caso del dictamen del Consejo de Estado, y antes de ser sometida al órgano competente para promulgarla. Si transcurridos 15 días desde la recepción de la solicitud y de los textos definitivos de la propuesta no se hubiera formulado ninguna objeción, se entenderá concedida la aprobación.
+Será además necesario informe previo del Ministerio de Política Territorial cuando la norma pudiera afectar a la distribución de las competencias entre el Estado y las Comunidades Autónomas.
+6. Sin perjuicio de la consulta previa a la redacción del texto de la iniciativa, cuando la norma afecte a los derechos e intereses legítimos de las personas, el centro directivo competente publicará el texto en el portal web correspondiente, con el objeto de dar audiencia a los ciudadanos afectados y obtener cuantas aportaciones adicionales puedan hacerse por otras personas o entidades. Asimismo, podrá recabarse directamente la opinión de las organizaciones o asociaciones reconocidas por ley que agrupen o representen a las personas cuyos derechos o intereses legítimos se vieren afectados por la norma y cuyos fines guarden relación directa con su objeto.
+El plazo mínimo de esta audiencia e información públicas será de 15 días hábiles, y podrá ser reducido hasta un mínimo de siete días hábiles cuando razones debidamente motivadas así lo justifiquen; así como cuando se aplique la tramitación urgente de iniciativas normativas, tal y como se establece en el artículo 27.2. De ello deberá dejarse constancia en la Memoria del Análisis de Impacto Normativo.
+El trámite de audiencia e información pública sólo podrá omitirse cuando existan graves razones de interés público, que deberán justificarse en la Memoria del Análisis de Impacto Normativo. Asimismo, no será de aplicación a las disposiciones presupuestarias o que regulen los órganos, cargos y autoridades del Gobierno o de las organizaciones dependientes o vinculadas a éstas.
+7. Se recabará el dictamen del Consejo de Estado u órgano consultivo equivalente cuando fuera preceptivo o se considere conveniente.
+8. Cumplidos los trámites anteriores, la propuesta se someterá a la Comisión General de Secretarios de Estado y Subsecretarios y se elevará al Consejo de Ministros para su aprobación y, en caso de proyectos de ley, su remisión al Congreso de los Diputados o, en su caso, al Senado, acompañándolo de una Exposición de Motivos y de la documentación propia del procedimiento de elaboración a que se refieren las letras b) y d) del artículo 7 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno y su normativa de desarrollo.
+9. El Ministerio de la Presidencia, con el objeto de asegurar la coordinación y la calidad de la actividad normativa del Gobierno analizará los siguientes aspectos:
+a) La calidad técnica y el rango de la propuesta normativa.
+b) La congruencia de la iniciativa con el resto del ordenamiento jurídico, nacional y de la Unión Europea, con otras que se estén elaborando en los distintos Ministerios o que vayan a hacerlo de acuerdo con el Plan Anual Normativo, así como con las que se estén tramitando en las Cortes Generales.
+c) La necesidad de incluir la derogación expresa de otras normas, así como de refundir en la nueva otras existentes en el mismo ámbito.
+d) El contenido preceptivo de la Memoria del Análisis de Impacto Normativo y, en particular, la inclusión de una sistemática de evaluación posterior de la aplicación de la norma cuando fuere preceptivo.
+e) El cumplimiento de los principios y reglas establecidos en este Título.
+f) El cumplimiento o congruencia de la iniciativa con los proyectos de reducción de cargas administrativas o buena regulación que se hayan aprobado en disposiciones o acuerdos de carácter general para la Administración General del Estado.
+g) La posible extralimitación de la iniciativa normativa respecto del contenido de la norma comunitaria que se trasponga al derecho interno.
+Reglamentariamente se determinará la composición del órgano encargado de la realización de esta función así como su modo de intervención en el procedimiento.
+10. Se conservarán en el correspondiente expediente administrativo, en formato electrónico, la Memoria del Análisis de Impacto Normativo, los informes y dictámenes recabados para su tramitación, así como todos los estudios y consultas emitidas y demás actuaciones practicadas.
+11. Lo dispuesto en este artículo y en el siguiente no será de aplicación para la tramitación y aprobación de decretos-leyes, a excepción de la elaboración de la memoria prevista en el apartado 3, con carácter abreviado, y lo establecido en los números 1, 8, 9 y 10.
+Se modifica el apartado 2, con efectos desde el 3 de abril de 2025, por la disposición final 11.2 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76
+ Se modifica el apatado 5 por la disposición final 8 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-8
+ Se añade la letra h) al apartado 3 por la disposición final 5 de la Ley 7/2021, de 20 de mayo. Ref. BOE-A-2021-8447#df-5
+ Se modifica, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 27
+
+Artículo 27. Tramitación urgente de iniciativas normativas en el ámbito de la Administración General del Estado.
+1. El Consejo de Ministros, a propuesta del titular del departamento al que corresponda la iniciativa normativa, podrá acordar la tramitación urgente del procedimiento de elaboración y aprobación de anteproyectos de ley, reales decretos legislativos y de reales decretos, en alguno de los siguientes casos:
+a) Cuando fuere necesario para que la norma entre en vigor en el plazo exigido para la transposición de directivas comunitarias o el establecido en otras leyes o normas de Derecho de la Unión Europea.
+b) Cuando concurran otras circunstancias extraordinarias que, no habiendo podido preverse con anterioridad, exijan la aprobación urgente de la norma.
+La Memoria del Análisis de Impacto Normativo que acompañe al proyecto mencionará la existencia del acuerdo de tramitación urgente, así como las circunstancias que le sirven de fundamento.
+2. La tramitación por vía de urgencia implicará que:
+a) Los plazos previstos para la realización de los trámites del procedimiento de elaboración, establecidos en ésta o en otra norma, se reducirán a la mitad de su duración. Si, en aplicación de la normativa reguladora de los órganos consultivos que hubieran de emitir dictamen, fuera necesario un acuerdo para requerirlo en dicho plazo, se adoptará por el órgano competente; y si fuera el Consejo de Ministros, se recogerá en el acuerdo previsto en el apartado 1 de este artículo.
+b) No será preciso el trámite de consulta pública previsto en el artículo 26.2, sin perjuicio de la realización de los trámites de audiencia pública o de información pública sobre el texto a los que se refiere el artículo 26.6, cuyo plazo de realización será de siete días.
+c) La falta de emisión de un dictamen o informe preceptivo en plazo no impedirá la continuación del procedimiento, sin perjuicio de su eventual incorporación y consideración cuando se reciba.
+Téngase en cuenta que este artículo, añadido por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+Se añade, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 28
+
+Artículo 28. Informe anual de evaluación.
+1. El Consejo de Ministros, a propuesta del Ministerio de la Presidencia, aprobará, antes del 30 de abril de cada año, un informe anual en el que se refleje el grado de cumplimiento del Plan Anual Normativo del año anterior, las iniciativas adoptadas que no estaban inicialmente incluidas en el citado Plan, así como las incluidas en anteriores informes de evaluación con objetivos plurianuales que hayan producido al menos parte de sus efectos en el año que se evalúa.
+2. En el informe se incluirán las conclusiones del análisis de la aplicación de las normas a que se refiere el artículo 25.2, que, de acuerdo con lo previsto en su respectiva Memoria, hayan tenido que ser evaluadas en el ejercicio anterior. La evaluación se realizará en los términos y plazos previstos en la Memoria del Análisis de Impacto Normativo y deberá comprender, en todo caso:
+a) La eficacia de la norma, entendiendo por tal la medida en que ha conseguido los fines pretendidos con su aprobación.
+b) La eficiencia de la norma, identificando las cargas administrativas que podrían no haber sido necesarias.
+c) La sostenibilidad de la disposición.
+El informe podrá contener recomendaciones específicas de modificación y, en su caso, derogación de las normas evaluadas, cuando así lo aconsejase el resultado del análisis.
+Téngase en cuenta que este artículo, añadido por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley.
+Se añade, con efectos de 2 de octubre de 2016, por la disposición final 3.12 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+## TITULO VI
+
+TÍTULO VI
+Del control del Gobierno
+Se añade, con efectos de 2 de octubre de 2016, por la disposición final 3.13 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+
+### Artículo 29
+
+Artículo 29. Del control de los actos del Gobierno.
+1. El Gobierno está sujeto a la Constitución y al resto del ordenamiento jurídico en toda su actuación.
+2. Todos los actos y omisiones del Gobierno están sometidos al control político de las Cortes Generales.
+3. Los actos, la inactividad y las actuaciones materiales que constituyan una vía de hecho del Gobierno y de los órganos y autoridades regulados en la presente Ley son impugnables ante la jurisdicción contencioso-administrativa, de conformidad con lo dispuesto en su Ley reguladora.
+4. La actuación del Gobierno es impugnable ante el Tribunal Constitucional en los términos de la Ley Orgánica reguladora del mismo.
+Téngase en cuenta que este artículo, añadido por la disposición final 3.13 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera., entra en vigor el 2 de octubre de 2016, según determina la disposición final 18 de la citada ley. No obstante, su contenido se corresponde con el anterior artículo 26, vigente hasta la citada fecha.
+Se añade, con efectos de 2 de octubre de 2016, por la disposición final 3.13 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dftercera.
+ Su anterior numeración era art. 26.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Quienes hubieran sido Presidentes del Gobierno tienen derecho a utilizar dicho título y gozarán de todos aquellos derechos, honores y precedencias que legal o reglamentariamente se determinen.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El Consejo de Estado, supremo órgano consultivo del Gobierno, se ajustará en su organización, funcionamiento y régimen interior, a lo dispuesto en su Ley Orgánica y en su Reglamento, en garantía de la autonomía que le corresponde.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+1. En situaciones excepcionales, y cuando la naturaleza de la crisis lo exija, el Presidente del Gobierno podrá decidir motivadamente que el Consejo de Ministros y las Comisiones Delegadas del Gobierno puedan celebrar sesiones, adoptar acuerdos y aprobar actas a distancia por medios electrónicos, siempre que los miembros participantes se encuentren en territorio español y quede acreditada su identidad. Asimismo, se deberá asegurar la comunicación entre ellos en tiempo real durante la sesión, disponiéndose los medios necesarios para garantizar el carácter secreto o reservado de sus deliberaciones.
+2. A estos efectos, se consideran medios electrónicos válidos las audioconferencias y videoconferencias.
+Se modifica el apartado 1 por el art. 221.2 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-33
+ Se añade por la disposición final 1 del Real Decreto-ley 7/2020, de 12 de marzo. Ref. BOE-A-2020-3580#df
+
+### Disposición transitoria única
+
+Disposición transitoria única. Régimen aplicable a los procedimientos de elaboración de normas con rango de ley y reglamentos ya iniciados con carácter previo a la modificación del artículo 26.2 por la Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia.
+No será necesaria la consulta pública en aquellos procedimientos de elaboración de normas con rango de ley y reglamentos ya iniciados a la entrada en vigor de la Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia, en los que concurra cualquiera de las circunstancias previstas en el artículo 26.2 de esta ley.
+Téngase en cuenta que esta disposición, añadida por la disposición final 11.3 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-11, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1.
+Se añade, con efectos desde el 3 de abril de 2025, por la disposición final 11.3 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+1. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley y, en concreto:
+a) Los artículos que conforme a la disposición derogatoria 2.a) de la Ley de Organización y Funcionamiento de la Administración General del Estado continuaban vigentes de la Ley de Régimen Jurídico de la Administración del Estado, texto refundido aprobado por Decreto de 26 de julio de 1957.
+b) Los artículos que conforme a la disposición derogatoria 2.b) de la Ley de Organización y Funcionamiento de la Administración General del Estado continuaban vigentes de la Ley 10/1983, de 16 de agosto, de Organización de la Administración Central del Estado.
+c) Los artículos 48 a 53 de la Ley de Conflictos Jurisdiccionales, de 17 de julio de 1948.
+d) Los artículos 129 a 132 de la Ley de Procedimiento Administrativo, de 17 de julio de 1958.
+e) Se suprimen las menciones a los Directores de los Gabinetes de los Secretarios de Estado contenidas en el artículo 1.g) de la Ley 12/1995, de 11 de mayo, de Incompatibilidades de los miembros del Gobierno de la Nación y de los altos cargos de la Administración General del Estado.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 27 de noviembre de 1997.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

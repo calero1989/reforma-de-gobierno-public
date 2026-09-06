@@ -1,0 +1,81 @@
+# Real Decreto-ley 4/2000, de 23 de junio, de Medidas Urgentes de Liberalización en el Sector Inmobiliario y Transportes.
+
+- Identificador BOE: `BOE-A-2000-11834`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2000-11834
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de erratas publicada en BOE núm. 154, de 28 de junio de 2000. Ref. BOE-A-2000-12135.
+
+## Preámbulo
+
+La evolución positiva de la economía española, en la que han tenido especial incidencia las medidas liberalizadoras acordadas por el Gobierno, hace necesario seguir avanzando en el proceso de liberalización para mantener el ritmo de crecimiento económico. Por otra parte, la interdependencia de las economías, al introducir ciertos elementos de comportamiento imprevisible que pueden repercutir desfavorablemente en la evolución positiva producida hasta ahora en la economía española, obliga también a adoptar ciertas medidas que eviten efectos indeseables.
+Por ello, este Real Decreto-ley, en el marco de un conjunto de medidas de naturaleza estructural que con carácter de urgencia adopta el Gobierno, a fin de evitar la aparición de desequilibrios macroeconómicos que amenacen la estabilidad y el proceso expansivo de nuestra economía, se centran, sin perder su condición de medidas integrantes de la política unitaria del Gobierno, en los sectores de la competencia del Ministerio de Fomento. Su objetivo fundamental es incidir de forma inmediata en el comportamiento de los distintos agentes económicos para estimular la competencia, conseguir una mejor asignación de los recursos y, en definitiva, influir positivamente sobre el nivel de precios.
+Las medidas, por tanto, que se contienen en este Real Decreto-ley se proyectan sobre una serie de sectores básicos de la esfera de actuación del Ministerio de Fomento, como son el sector inmobiliario y el de los transportes, incluyendo el suministro de hidrocarburos a los buques en los puertos para favorecer la competencia entre las empresas suministradoras.
+Por lo que respecta al sector inmobiliario, las medidas que se adoptan pretenden corregir las rigideces advertidas en el mercado como consecuencia del fuerte crecimiento de la demanda y la incidencia en los productos inmobiliarios del precio del suelo, condicionada a su vez por la escasez de suelo urbanizable. En consecuencia, la reforma que se introduce habrá de incrementar la oferta del suelo al eliminar aquellas previsiones normativas en vigor que por su falta de flexibilidad pudieran limitarla, trasladando este efecto positivo al precio final de los bienes inmobiliarios.
+Por otra parte, y en lo que concierne también al referido sector, el Real Decreto-ley pretende clarificar la situación actual del ejercicio de la actividad de intermediación inmobiliaria que se encuentra afectada por la falta de una jurisprudencia unánime que reconozca que dicha actividad no está reservada a ningún colectivo singular de profesionales.
+En relación con el sector de los transportes, las medidas que se contienen en el Real Decreto-ley están llamadas a actuar sobre el régimen concesional de los servicios regulares de viajeros por carretera, reduciendo los plazos de las concesiones, a fin de que la evolución de la economía en general y del sector en su conjunto repercutan con carácter inmediato en la prestación del servicio. Esta reducción de plazos permitirá una mayor secuencia en la adjudicación de las concesiones con el consiguiente incremento de la competencia.
+Por otra parte, y en la misma línea de fomento de la competencia, se suprime, en el ámbito portuario, cualquier obstáculo de carácter formal que pueda suponer una restricción en el suministro de productos petrolíferos a los buques, con la positiva repercusión en los precios que de ello ha de derivarse.
+El conjunto de estas medidas tiene su apoyo constitucional en el artículo 149.1.13.ª, que otorga al Estado competencia exclusiva sobre las bases y coordinación de la planificación general de la actividad económica; en el artículo 149.1.1.ª, que prevé la competencia estatal para la regulación de las condiciones básicas que garanticen la igualdad en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, en relación con el artículo 33 de la Constitución; en el artículo 149.1.18.ª, sobre procedimiento administrativo común, y en la competencia estatal sobre los puertos de interés general y sobre los transportes terrestres que transcurran por el territorio de más de una Comunidad Autónoma, a que se refiere el artículo 149.1.20.ª y 21.ª
+En la adopción de estas medidas, que como se ha indicado se integran en el conjunto más amplio de las que adopta el Gobierno, concurren, por naturaleza y finalidad de las mismas, la circunstancia de extraordinaria y urgente necesidad que exige el artículo 86 de la Constitución para la utilización del Real Decreto-ley, requisito imprescindible como ha recordado por otra parte la jurisprudencia constitucional.
+En su virtud, a propuesta del Ministro de Fomento, previa deliberación del Consejo de Ministros en su reunión del día 23 de junio de 2000, y en uso de la autorización concedida por el artículo 86 de la Constitución, dispongo:
+
+### Artículo 1
+
+Artículo 1. Modificación de la Ley 6/1998, de 13 de abril, sobre Régimen del Suelo y Valoraciones.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 137/2011, de 14 de septiembre. Ref. BOE-A-2011-16025.
+ Redactado el apartado 3.3 conforme a la corrección de erratas publicada en BOE núm. 154, de 28 de junio de 2000. Ref. BOE-A-2000-12135.
+
+### Artículo 2
+
+Artículo 2. Modificación de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres.
+El apartado 3 del artículo 72 queda redactado de la manera siguiente:
+«3. La duración de las concesiones se establecerá en el título concesional, de acuerdo con las características y necesidades del servicio y atendiendo a los plazos de amortización de vehículos e instalaciones. Dicha duración no podrá ser inferior a seis años ni superior a quince. Cuando finalice el plazo concesional sin que haya concluido el procedimiento tendente a determinar la subsiguiente prestación del servicio, el concesionario prolongará su gestión hasta la finalización de dicho procedimiento, sin que en ningún caso esté obligado a continuar dicha gestión durante un plazo superior a doce meses.»
+
+### Artículo 3
+
+Artículo 3. Condiciones para el ejercicio de la actividad de intermediación inmobiliaria.
+Las actividades enumeradas en el artículo 1 del Decreto 3248/1969, de 4 de diciembre, por el que se aprueba el Reglamento de los Colegios Oficiales de Agentes de la Propiedad Inmobiliaria y de su Junta general, podrán ser ejercidas libremente sin necesidad de estar en posesión de título alguno ni de pertenencia a ningún Colegio oficial.
+
+### Artículo 4
+
+Artículo 4. Modificación de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante.
+Se añade una disposición adicional vigesimoprimera, con el siguiente contenido:
+«Las Autoridades Portuarias, de conformidad con lo dispuesto en la presente Ley, adjudicarán un número mínimo de instalaciones de avituallamiento de combustibles dentro del dominio público portuario, en los términos y de acuerdo con los criterios que reglamentariamente se determinen; dichos criterios tendrán en cuenta, entre otras circunstancias, la intensidad del tráfico, el volumen de operaciones comerciales, la superficie ocupada por cada puerto, su situación estratégica, la distancia a otros puertos, las condiciones de seguridad, la incidencia de las operaciones de avituallamiento de combustibles en el tráfico de buques y, en general, las que puedan afectar a la seguridad en el suministro y al buen desarrollo del tráfico y de las operaciones portuarias.
+En todo caso, las instalaciones de avituallamiento de combustibles deberán cumplir los requisitos técnicos exigibles, así como las condiciones de seguridad para las personas y las cosas, debiendo el titular de la concesión obtener las licencias, permisos y autorizaciones conforme a la legislación vigente.»
+En el plazo de seis meses a partir de la entrada en vigor del presente Real Decreto-ley, el Gobierno desarrollará reglamentariamente lo establecido en esta disposición.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Las concesiones de líneas regulares de transporte de viajeros por carretera que, a la entrada en vigor de este Real Decreto-ley, no hayan agotado su plazo de vigencia subsistirán hasta la finalización del plazo inicialmente concedido y el de las prórrogas que hubieran sido legalmente otorgadas.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones se opongan a lo dispuesto en el presente Real Decreto-ley.
+
+### Disposición final primera
+
+Disposición final primera. Facultad de desarrollo.
+Se habilita al Gobierno para desarrollar reglamentariamente lo dispuesto en el presente Real Decreto-ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Títulos competenciales.
+El artículo 1 se dicta al amparo de lo dispuesto en el artículo 149.1.1.ª, 13.ª y 18.ª de la Constitución.
+El artículo 2 se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª y 21.ª de la Constitución.
+El artículo 3 se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª y 18.ª de la Constitución.
+El artículo 4 se dicta al amparo del artículo 149.1.13.ª y 20.ª de la Constitución.
+
+### Disposición final tercera
+
+Disposición final tercera.
+El presente Real Decreto-ley entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 23 de junio de 2000.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

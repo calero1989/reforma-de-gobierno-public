@@ -1,0 +1,407 @@
+# Ley 10/1998, de 14 de diciembre, de Colegios Profesionales de las Illes Balears.
+
+- Identificador BOE: `BOE-A-1999-2776`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-2776
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Islas Baleares ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 27.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley de Colegios Profesionales de las Illes Balears.
+EXPOSICIÓN DE MOTIVOS
+I
+Los ciudadanos son partidarios de que los colegios profesionales sirvan decididamente los intereses generales en su tarea de ordenar y vigilar el ejercicio de la profesión respectiva a fin de satisfacer con eficacia la prestación de los servicios. En la evolución de las corporaciones profesionales, a menudo criticadas por su distanciamiento respecto de los problemas sociales, parece haber llegado el momento en que su dimensión pública sólo puede justificarse institucionalmente si se refuerza su papel de colaboradoras de los poderes públicos, y especialmente de las Administraciones Públicas, y ello tanto en las labores de regulación y control de las actividades profesionales como en otras funciones de interés general relacionadas con las respectivas profesiones. La Comunidad Autónoma de las Islas Baleares acoge estos planteamientos en el momento de emprender la regulación de las peculiaridades propias del régimen jurídico de los colegios profesionales en aquellos aspectos en que la Constitución y el Estatuto de Autonomía le permiten intervenir normativamente.
+II
+De acuerdo con lo que dispone el artículo 11.11 del Estatuto, a la Comunidad Autónoma le corresponden las competencias de desarrollo legislativo y de ejecución en materia de corporaciones de derecho público representativas de intereses económicos y profesionales, que habrá de ejercerlas en el marco de la legislación básica del Estado y, si procede, en los términos que ésta establezca. De acuerdo con la doctrina del Tribunal Constitucional, el Parlamento de las Illes Balears, al aprobar la presente Ley, ha tenido presentes no tan sólo los límites de los artículos 36 y 139 del texto constitucional, sino también los que dimanan de la aplicación del título de competencias que en favor de las instituciones centrales del Estado establece el artículo 149.1.18. a de la Constitución, en razón de que los colegios profesionales participan limitadamente de la naturaleza de administraciones públicas, a los efectos de garantizar las bases del régimen jurídico de las corporaciones profesionales.
+La falta de una ley postconstitucional, que afronte de forma acabada la definición de aquello que es básico en esta materia, no impide al legislador autonómico el conocimiento suficiente del espacio de regulación de que dispone, actualmente acotado por la Ley 2/1974, de 13 de febrero –de la cual cabe inducir los aspectos de naturaleza básica con la guía que proporciona la jurisprudencia del Tribunal Constitucional–, con las modificaciones introducidas por la normativa estatal contenida en la Ley 74/1978, de 26 de diciembre, la Ley 12/1983, de 14 de octubre, el Decreto-ley 5/1996, de 7 de junio, y la Ley 7/1997, de 14 de abril. Necesariamente han de permanecer fuera del poder normativo de las Illes Balears las cuestiones relativas al ejercicio de las profesiones tituladas, pues su regulación excede los límites del precepto estatutario antes mencionado.
+III
+Los colegios profesionales se caracterizan tradicionalmente, y también en esta Ley, como corporaciones de Derecho público. Ello no supone su incardinación en la Administración Pública, pero da a entender en nuestra cultura jurídica que el origen de estas entidades es también público y que sus funciones presentan una indudable dimensión pública que propicia la colaboración con los entes territoriales para la satisfacción de los intereses generales. Desde esta perspectiva, los colegios profesionales regulados en esta Ley no solamente asumen los fines esenciales que les son propios –ordenación de la profesión y defensa y representación de los intereses generales y colectivos de la profesión–, sino que también se convierten en entes colaboradores del Gobierno y de la Administración de las Illes Balears y, eventualmente, de otras administraciones de las Illes Balears, de forma que se pueda predicar de aquéllos, incluso en algunos casos, la condición de instrumentos para la consecución de determinados objetivos cuando su especial vinculación con intereses o sectores sociales lo haga aconsejable.
+IV
+La presente Ley nace con la voluntad de ser el marco normativo estable que ha de guiar las instituciones autonómicas en su tarea de regulación y de ordenación de los colegios profesionales radicados en las Illes Balears. La estructura de su texto delimita los diversos bloques de cuestiones objeto de regulación, de acuerdo con criterios de sistemática comúnmente aceptados.
+Como rasgos más significativos de esta regulación pueden destacarse los siguientes:
+A) El reconocimiento de la bifrontalidad típica de los colegios profesionales, que implica la persecución de fines públicos junto con los de naturaleza privada o colectiva, y paralelamente el reforzamiento de su condición de entes colaboradores de los poderes públicos, haciendo un énfasis especial en aquellas funciones de mayor relevancia social.
+B) El refuerzo de los mecanismos necesarios para que las corporaciones reguladas en la presente Ley puedan perseguir con eficacia los objetivos de mejora de la finalidad de los servicios profesionales y de atención a los consumidores y usuarios. La participación de los colegios en la formación de los profesionales es, desde este punto de vista, una preocupación del legislador de las Illes Balears.
+C) La adecuación del procedimiento de creación de nuevos colegios profesionales a las exigencias derivadas de la Constitución y del Estatuto de Autonomía para garantizar que la conversión de una determinada profesión en profesión colegiada se realiza de acuerdo con el interés general y es respetuosa con los derechos y libertades públicas consagrados en la Constitución.
+D) El desarrollo de las prescripciones necesarias para asegurar que la estructura interna y funcionamiento de los colegios profesionales serán democráticos. La ley fomenta la participación de los colegiados en la dirección y gestión de sus respectivas corporaciones y asegura que las decisiones de mayor trascendencia serán adoptadas por los órganos asamblearios.
+E) La adecuación de la organización colegial a las peculiaridades de las Illes Balears, atendidos el número actual de corporaciones y de colegiados, y la distribución de éstos en el territorio. Esta directriz se manifiesta en una doble dirección. Por un lado se establece un modelo según el cual sólo podrán constituirse colegios profesionales de ámbito territorial coincidente con el de la Comunidad Autónoma, lo que supone renunciar a un sistema de corporaciones de ámbito insular y al mantenimiento de consejos de colegios o corporaciones de segundo grado para la organización de los colegios profesionales de ámbito insular que se hubieran constituido antes de la entrada en vigor de esta Ley. Por otra parte, la ley asegura la presencia suficiente y proporcionada de representantes de las delegaciones territoriales en las que se organice el colegio profesional.
+F) La garantía del principio de legalidad tanto en el control de los estatutos colegiales como en el ejercicio de la potestad disciplinaria; en este último caso, la ley asegura la proyección, en el ámbito corporativo, de los principios que rigen el ejercicio de la potestad sancionadora de la Administración Pública, incluidos los aspectos de procedimiento.
+G) La innovación en el sistema de recursos contra los actos colegiales con la introducción de un recurso corporativo especial que refuerza la imparcialidad de su resolución.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+Se rigen por la presente Ley los colegios profesionales que desarrollen sus actividades exclusivamente en el territorio de las Illes Balears.
+
+### Artículo 2
+
+Artículo 2.
+1. Los colegios profesionales son corporaciones de derecho público, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.
+2. De acuerdo con las leyes, los colegios profesionales actúan como corporaciones colaboradoras del Gobierno y de la Administración de las Illes Balears para la satisfacción de los intereses generales, sin perjuicio de las funciones que tengan atribuidas en materia de representación y defensa de los intereses profesionales de los colegiados.
+3. Las corporaciones reguladas en esta ley sujetarán su actuación al derecho administrativo sólo cuando ejerzan potestades públicas.
+4. Los acuerdos, las decisiones y las recomendaciones de los colegios observarán los límites de la Ley 15/2007, de 3 de julio, de defensa de la competencia.
+5. La estructura interna y el funcionamiento de los colegios profesionales deben ser democráticos.
+Se modifica por el art. 4.1 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487.
+
+## CAPÍTULO II
+
+Constitución
+
+### Artículo 3
+
+Artículo 3.
+1. La creación de nuevos colegios profesionales, que suponga la extensión de la organización colegial a profesiones diferentes de aquellas que ya la posean, requerirá Ley del Parlamento de las Illes Balears.
+2. La propuesta de iniciativa legislativa podrá ser instada por la mayoría de los profesionales interesados.
+3. No se podrá constituir más de un colegio de la misma profesión dentro del ámbito territorial de las Illes Balears, ni podrá haber colegios de ámbito territorial diferente al de la Comunidad Autónoma.
+
+### Artículo 4
+
+Artículo 4.
+Los colegios profesionales que se constituyan de acuerdo con esta Ley adquirirán personalidad jurídica desde la entrada en vigor de sus normas de creación y tendrán capacidad de obrar desde la constitución de sus órganos de gobierno.
+
+### Artículo 5
+
+Artículo 5.
+1. Las denominaciones de los colegios profesionales habrán de responder a la denominación de la profesión que representen o a la de la titulación que tengan los miembros del cual formen parte y no podrán ni coincidir, ni ser similares a la de otros colegios profesionales preexistentes en el ámbito territorial de las Illes Balears, ni inducir a error en cuanto a los profesionales que los integran.
+2. Solamente las corporaciones reguladas en esta Ley podrán incluir en su denominación las palabras «colegio», «colegio profesional» o «colegio oficial».
+
+## CAPÍTULO III
+
+Relaciones con el Gobierno y la Administración de las Illes Balears
+
+### Artículo 6
+
+Artículo 6.
+1. Los colegios profesionales se relacionarán con el Gobierno y la Administración de las Illes Balears por medio de la Consejería competente en la materia objeto de esta Ley.
+2. Por lo que respecta a los contenidos de cada profesión, los colegios profesionales se relacionarán con la Consejería o las Consejerías cuyas competencias estén referidas a la respectiva profesión.
+
+### Artículo 7
+
+Artículo 7.
+1. El Gobierno de las Illes Balears podrá delegar en los colegios profesionales, previo acuerdo o convenio, el ejercicio de funciones administrativas relacionadas con las finalidades corporativas o con la actividad profesional de los colegiados. La norma de delegación deberá determinar el alcance, el contenido, las condiciones y la duración de ésta, así como las formas de control que se reserve el Gobierno de las Illes Balears y los medios materiales y económicos que, si es preciso, se atribuyan. Las delegaciones deberán publicarse en el «Butlletí Oficial de les Illes Balears».
+2. Asimismo, podrá ser encomendada a los colegios profesionales, mediante el correspondiente convenio, la realización de actividades de carácter material, técnico o de servicios, que no implique dictar resoluciones.
+
+### Artículo 8
+
+Artículo 8.
+El Gobierno de las Illes Balears podrá suscribir con las corporaciones profesionales reguladas por la presente Ley convenios de colaboración para la realización de actividades de interés común y, especialmente, para la promoción de actividades orientadas a la defensa y promoción de los intereses generales.
+
+## CAPÍTULO IV
+
+Absorción, fusión, segregación y disolución
+
+### Artículo 9
+
+Artículo 9.
+Se requerirá Ley del Parlamento de las Illes Balears para:
+1. La fusión de dos o más colegios que pertenezcan a diferente profesión mediante la constitución de uno nuevo o la absorción por uno de ellos de otros preexistentes.
+2 La segregación de un colegio profesional de otro u otros para el cual, desde ese momento, se exija titulación diferente a la del colegio profesional de origen.
+3. La disolución de un colegio profesional.
+
+## CAPÍTULO V
+
+Finalidades, funciones y obligaciones de los colegios profesionales
+Se modifica su denominación por el art. 4.2 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487.
+
+### Artículo 10
+
+Artículo 10.
+Son fines esenciales de los colegios profesionales:
+1. La ordenación del ejercicio de la profesión en el marco de la Ley.
+2. La defensa y la representación de los intereses generales de la profesión, especialmente ante los poderes públicos.
+3. La colaboración con las Administraciones Públicas para la satisfacción de los intereses generales.
+4. La defensa y la representación de los intereses colectivos de los profesionales.
+5. La protección de los derechos de los consumidores y usuarios en relación a los servicios de sus colegiados. 6. La representación institucional de los colegiados en los casos de colegiación obligatoria.
+Se añaden los apartados 4 y 5 por el art. 4.3 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487.
+
+### Artículo 11
+
+Artículo 11.
+1. Para el cumplimiento de sus fines, los colegios profesionales ejercerán las siguientes funciones:
+a) Regular y vigilar el ejercicio de la respectiva profesión. El ejercicio profesional en forma societaria se regirá por lo que establecen las leyes. En ningún caso, los colegios profesionales podrán, por ellos mismos, a través de sus estatutos o el resto de normativa colegial, establecer restricciones al ejercicio profesional en forma societaria.
+b) Velar por la ética profesional, haciendo cumplir las normas deontológicas y colaborando en la protección de los consumidores y usuarios de los servicios profesionales. Los estatutos de los colegios o los códigos deontológicos que aprueben los colegios profesionales podrán incluir previsiones expresas dirigidas a exigir a los profesionales colegiados que su conducta en materia de comunicaciones comerciales se ajuste a lo que disponga la ley, con la finalidad de salvaguardar la independencia e integridad de la profesión, así como, en su caso, el secreto profesional.
+c) Velar por el adecuado nivel de calidad de las prestaciones profesionales de los colegiados, procurando el respeto a los derechos e intereses legítimos de los destinatarios de aquéllas.
+d) Adoptar las medidas que conducen a evitar el intrusismo profesional, la competencia desleal y la publicidad ilegal.
+e) Ejercer la facultad disciplinaria sobre los colegiados.
+f) Aprobar sus estatutos y reglamentos de régimen interior.
+g) Aprobar sus presupuestos y regular y exigir las aportaciones económicas de los miembros que forman parte de ellos.
+h) Intervenir, como mediador y en vía de arbitraje, en los conflictos que por motivos profesionales se susciten entre colegiados y, de acuerdo con la normativa correspondiente, entre los colegiados y los destinatarios de sus prestaciones.
+i) Visar los trabajos profesionales de los colegiados en el términos establecidos en los apartados 2 y 3 de este artículo.
+j) Establecer normas o baremos de honorarios con carácter orientativo, facilitándose la consulta por los ciudadanos.
+k) Encargarse del cobro de los honorarios profesionales a solicitud de los colegiados, en los términos establecidos en los respectivos estatutos.
+l) Emitir dictámenes en materia de honorarios profesionales.
+m) Organizar y desarrollar actividades de formación y perfeccionamiento para sus colegiados.
+n) Colaborar con las universidades en la capacitación de lo futuros titulados y facilitar la incorporación de éstos a la actividad profesional mediante las acciones formativas correspondientes.
+o) Facilitar a la Administración de Justicia, de conformidad con la legislación procesal, el ejercicio de la función pericial.
+p) Organizar servicios comunes de carácter profesional, cultural, asistencial, de previsión y análogos que sean de interés para los colegiados.
+q) Llevar a cabo todas las actuaciones que sean favorables para los intereses corporativos y se encaminen al cumplimiento de los fines colegiales.
+r) Cualquier otra que establezca la legislación básica del Estado.
+2. Los colegios de profesiones técnicas tendrán como función propia el visado de los trabajos profesionales. Estos colegios visarán los trabajos profesionales en el ámbito de su competencia únicamente cuando se solicite por petición expresa de los clientes, incluidas las administraciones públicas cuando actúen como tales, o cuando así lo establezca el Estado mediante real decreto, previa consulta a los colegios afectados, con los siguientes criterios:
+a) Que sea necesario por el hecho de existir una relación de causalidad directa entre el trabajo profesional y la afectación a la integridad física y la seguridad de las personas.
+b) Que se acredite que el visado es el medio de control más proporcionado.
+3. En ningún caso, los colegios, por sí mismos o a través de sus previsiones estatutarias, podrán imponer la obligación de visar los trabajos profesionales. El objeto del visado es comprobar al menos:
+a) La identidad y la habilitación profesional del autor del trabajo, utilizando para ello los registros de colegiados previstos en el artículo 13.6.
+b) La corrección e integridad formal de la documentación del trabajo profesional, de acuerdo con la normativa aplicable al trabajo de que se trate.
+En todo caso el visado expresará claramente cuál es su objeto, detallando qué aspectos están sometidos a control e informará sobre la responsabilidad que asuma el colegio. En ningún caso comprenderá los honorarios ni las otras condiciones contractuales, cuya determinación quede sujeta al libre acuerdo entre las partes, ni tampoco comprenderá el control técnico de los elementos facultativos del trabajo profesional.
+En caso de daños derivados de un trabajo profesional que haya visado el colegio en el que éste resulte responsable, el colegio responderá subsidiariamente de los daños que tengan su origen en defectos que se tendrían que haber puesto de manifiesto por el colegio a la hora de visar el trabajo profesional y que guarden relación directa con los elementos que se han visado en el trabajo en concreto.
+Se modifica por el art. 4.4 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487.
+
+### Artículo 12
+
+Artículo 12.
+En relación directa con las administraciones públicas de las Illes Balears, los colegios profesionales cumplirán las siguientes funciones:
+1. Ejercerán las competencias que reciban por delegación de las mencionadas administraciones.
+2. Informarán sobre los proyectos y anteproyectos de normas que elabore el Gobierno de las Illes Balears en materia de colegios profesionales, y serán oídos en el procedimiento de elaboración de disposiciones de carácter general que afecten directamente a los intereses que representan.
+3. Colaborarán con las Administraciones Públicas mediante la realización de estudios, emisión de informes, elaboración de estadísticas, participación en procedimientos de arbitraje y desarrollo de otras actividades relacionadas con sus fines que puedan ser solicitados por los órganos competentes.
+4. Colaborarán con las Administraciones Públicas en la realización de actividades educativas, de formación técnica, de perfeccionamiento profesional o similares, especialmente cuando no tengan exclusivamente a los colegiados como destinatarios.
+5. Prestarán apoyo, en los términos en que se acuerde, a las actividades administrativas de planificación, promoción, divulgación e información en materias que afecten a los derechos culturales, económicos y sociales de los ciudadanos.
+6. Participarán en los órganos asesores o consultivos de las Administraciones Públicas en los términos que prevea la normativa correspondiente.
+
+### Artículo 13
+
+Artículo 13.
+Los colegios profesionales tendrán las siguientes obligaciones:
+1. Elaboración de una memoria anual que tiene que contener, como mínimo, la información siguiente:
+a) Informe anual de gestión económica, incluyendo los gastos de personal suficientemente desglosados y especificando las retribuciones de los miembros de la Junta de Gobierno en razón de su cargo.
+b) Importe de las cuotas aplicables desglosadas por concepto y por tipo de servicios prestados, así como las normas para su cálculo y aplicación.
+c) Información agregada y estadística relativa a los procedimientos informativos y sancionadores en fase de instrucción o que hayan devenido firmes, con indicación de la infracción a la que se refieren, su tramitación y la sanción impuesta en su caso, respetando siempre la legislación en materia de protección de datos de carácter personal.
+d) Información agregada y estadística relativa a las quejas y reclamaciones presentadas por los consumidores y usuarios, así como por sus organizaciones representativas, y también sobre su tramitación, así como, en su caso, los motivos de estimación o desistimiento de la queja o reclamación, respetando la legislación en materia de datos de carácter personal.
+e) Cambios en el contenido de sus códigos deontológicos, en caso de disponer de ellos.
+f) Normas sobre incompatibilidades y las situaciones de conflicto de intereses en que se encuentren los miembros de las juntas de gobierno.
+g) Información estadística sobre la actividad de visado.
+2. Los colegios profesionales no podrán establecer baremos orientativos ni cualquier otra orientación, recomendación, directriz, norma o regla sobre honorarios profesionales, excepto en el caso que se trate de criterios orientativos a los solos efectos de tasación de costas y de la jura de cuentas de los abogados, así como para el cálculo de honorarios y derechos que correspondan a los efectos de la tasación de costas en la asistencia jurídica gratuita.
+3. La cuota de inscripción o colegiación no podrá superar en ningún caso los costes asociados a la tramitación de la inscripción. Los colegios dispondrán de los medios necesarios para que los solicitantes puedan tramitar su colegiación por vía telemática, de acuerdo con lo establecido en el punto 4 de este artículo.
+4. Los colegios profesionales dispondrán de una página web para que, a través de la ventanilla única prevista a la Ley 17/2009, de 23 de noviembre, de libre acceso a las actividades de servicios y su ejercicio, los profesionales puedan efectuar todos los trámites necesarios para la colegiación, su ejercicio y su baja en el colegio, mediante un único sitio, por vía electrónica y a distancia.
+5. Mediante esta ventanilla, los profesionales podrán, de forma gratuita:
+a) Obtener toda la información y los formularios necesarios para el acceso a la actividad profesional y su ejercicio.
+b) Presentar toda la documentación y las solicitudes necesarias, incluyendo la de colegiación.
+c) Conocer el estado de la tramitación de los procedimientos en los que tengan la consideración de personas interesada y recibir la correspondiente notificación de los actos de trámite preceptivos y la resolución de éstos por el colegio, incluida la notificación de los expedientes disciplinarios cuando no fuera posible por otros medios.
+d) Convocar a los colegiados a las juntas generales ordinarias y extraordinarias y hacerlos conocedores de la actividad pública y privada del colegio profesional.
+6. Para la mejor defensa de los derechos de los consumidores y usuarios, los colegios ofrecerán, a través de la ventanilla única, la siguiente información:
+a) El acceso al registro de colegiados, que estará permanentemente actualizado y en el que constarán, al menos, los siguientes datos: nombre y apellidos de los profesionales colegiados, número de colegiación, títulos oficiales que poseen, domicilio profesional y situación de habilitación profesional.
+b) El acceso al registro de sociedades profesionales, que tendrá el contenido descrito en el artículo 8 de la Ley 2/2007, de 15 de marzo, de sociedades profesionales.
+c) Las vías de reclamación y los recursos que podrán interponerse en el caso de conflicto entre el consumidor o usuario y un colegiado o el colegio profesional.
+d) Los datos de las asociaciones u organizaciones de consumidores y usuarios a las que los destinatarios de los servicios pueden dirigirse para obtener asistencia.
+e) El contenido de los códigos deontológicos.
+Se modifica por el art. 4.5 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487.
+
+### Artículo 14
+
+Artículo 14.
+En las sedes y delegaciones de los colegios profesionales se prestará el servicio de atención al ciudadano en relación a las demandas de información sobre las actividades corporativas y la prestación de servicios profesionales que puedan afectarle y se orientará sobre los procedimientos a seguir en los casos de quejas o reclamaciones de los usuarios de los servicios profesionales.
+
+## CAPÍTULO VI
+
+Derechos y deberes de los colegiados
+
+### Artículo 15
+
+Artículo 15.
+1. Los colegios profesionales deberán atender las quejas o reclamaciones presentadas por los colegiados.
+2. Los colegios profesionales dispondrán de un servicio de atención a los consumidores y usuarios, que tramitará y resolverá todas las quejas y reclamaciones referidas a la actividad colegial o profesional de los colegiados que se presenten por cualquier consumidor o usuario que contrate los servicios profesionales, así como por las organizaciones de consumidores y usuarios en defensa de sus intereses. Estas quejas o reclamaciones se deberán poder presentar vía electrónica y a distancia.
+3. Los colegios profesionales, mediante este servicio de atención a los consumidores o usuarios, resolverán sobre la queja o reclamación de la forma más adecuada, bien informando sobre el sistema extrajudicial de resolución de conflictos, bien con el envío del expediente a los órganos colegiales competentes para instruir los expedientes informativos o disciplinarios, o bien archivando o adoptando cualquier otra decisión conforme a derecho.
+Se modifica por el art. 4.6 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487.
+
+### Artículo 16
+
+Artículo 16.
+1. Será requisito indispensable para el ejercicio de una profesión encontrarse incorporado en el colegio profesional correspondiente cuándo así lo establezca una ley estatal.
+2. En los casos de colegiación obligatoria los estatutos no podrán establecer requisitos de admisión adicionales a los que prevea el ordenamiento jurídico.
+3. Los requisitos que obliguen a ejercer de forma exclusiva una profesión o que limiten el ejercicio conjunto de dos o más profesiones serán sólo los que se establezcan mediante una ley.
+Se modifica por el art. 4.7 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487.
+
+### Artículo 17
+
+Artículo 17.
+La participación de los colegiados en la organización y funcionamiento de los colegios profesionales se desarrollará, como mínimo, a través de las siguientes vías:
+1. El derecho de sufragio activo y pasivo para la elección de miembros de los órganos de gobierno.
+2. El derecho a promover actuaciones de los órganos de gobierno mediante iniciativas formuladas de acuerdo con los estatutos.
+3. El derecho a crear agrupaciones representativas de intereses específicos en el seno de los colegios, sometidos en todo caso a sus órganos de gobierno.
+4. El derecho a remover a los titulares de los órganos de gobierno mediante votos de censura, en los términos fijados por los estatutos.
+
+### Artículo 18
+
+Artículo 18.
+Los miembros de los colegios profesionales adecuaran la actuación profesional y corporativa a los deberes establecidos en los estatutos correspondientes y en la normativa profesional que les afecte.
+
+## CAPÍTULO VII
+
+Estatutos colegiales
+
+### Artículo 19
+
+Artículo 19.
+1. Los colegios profesionales aprobarán los propios estatutos con autonomía, sin más limitaciones que las que imponga la Constitución y el resto del ordenamiento jurídico.
+2. Los estatutos colegiales, en el marco de la presente Ley, regularán al menos las siguientes cuestiones:
+a) La denominación, la sede, el domicilio, el ámbito territorial y, en su caso, las delegaciones territoriales de los colegios.
+b) Los derechos y deberes de los colegiados.
+c) Los requisitos para el acceso a la condición de colegiado y las causas de denegación, suspensión o pérdida de esta condición.
+d) La denominación, la composición y la forma de elección de los órganos de gobierno, y los requisitos necesarios para formar parte de ellos.
+e) Las competencias y el régimen de funcionamiento de los órganos colegiales.
+f) El régimen económico.
+g) El régimen disciplinario.
+h) El sistema de impugnación y de revisión de las resoluciones de los órganos de gobierno.
+i) El régimen de disolución.
+j) El procedimiento de visado, si procede.
+3. Los estatutos atribuirán la representación del colegio al decano, al presidente, al síndico o al cargo equivalente.
+
+### Artículo 20
+
+Artículo 20.
+1. Cada colegio profesional contará con un órgano asambleario integrado por todos los colegiados o por los compromisarios elegidos democráticamente según los respectivos estatutos, que será el máximo representante de la voluntad corporativa y al que le corresponderá, en todo caso, la aprobación de los estatutos, de la normativa electoral y del presupuesto.
+2. La dirección y la administración de cada corporación corresponderá a un órgano colegiado de carácter ejecutivo, cuyos miembros habrán de ser elegidos por todos los colegiados.
+3. Al regular la composición de los órganos colegiados de carácter ejecutivo y consultivo, los estatutos deberán asegurar la presencia suficiente y proporcionada de representantes de las delegaciones territoriales en las que se organice el colegio profesional.
+
+### Artículo 21
+
+Artículo 21.
+1. Los colegios profesionales comunicarán a la conselleria competente en esta materia, en los términos que se determinen reglamentariamente:
+a) El texto oficial de los estatutos y las modificaciones que de ellos se hagan.
+b) Las personas que integran los órganos de gobierno correspondientes y los cambios de éstas que se hagan.
+2. Los estatutos se someterán al control de legalidad. Si lo superan, se inscribirán en el Registro de Colegios Profesionales y se publicarán en el «Bulletí Oficial de les Illes Balears».
+3. Reglamentariamente se determinará el procedimiento de aprobación de los estatutos.
+
+## CAPÍTULO VIII
+
+La potestad disciplinaria y el régimen jurídico
+
+### Artículo 22
+
+Artículo 22.
+1. La potestad disciplinaria de los colegios profesionales sobre los colegiados que incurran en infracción en el ejercicio de su profesión o en su actividad corporativa se desarrollará de acuerdo con los principios que rigen la potestad sancionadora de las administraciones públicas y que por su naturaleza sean aplicables a las corporaciones reguladas en la presente Ley.
+2. Nadie podrá ser sancionado disciplinariamente sin que se haya tramitado el procedimiento correspondiente.
+
+### Artículo 23
+
+Artículo 23.
+1. Son infracciones:
+a) Las vulneraciones de las normas deontológicas de la profesión.
+b) Las vulneraciones de las normas dictadas en materia de ordenación del ejercicio profesional y de las actividades corporativas.
+2. Los estatutos de cada colegio profesional, directamente o por remisión a los estatutos generales de la respectiva profesión, especificarán y detallarán el cuadro de infracciones previsto en el punto anterior, y las clasificarán en muy graves, graves y leves.
+
+### Artículo 24
+
+Artículo 24.
+1. Además de lo que dispone el artículo anterior, los estatutos colegiales contendrán en materia disciplinaria, como mínimo, las previsiones relativas a las siguientes cuestiones:
+a) Las sanciones aplicables a los diversos tipos de infracciones.
+b) Los órganos competentes para iniciar, instruir y resolver el procedimiento sancionador.
+c) Las reglas generales que ha de seguir el procedimiento sancionador.
+d) Los plazos de caducidad del procedimiento y de prescripción de las infracciones y las sanciones.
+2. De acuerdo con lo que se dispone en la letra c) del punto anterior, la regulación de los procedimientos respetará:
+a) La debida separación entre las fases instructora y sancionadora.
+b) La existencia de un trámite de audiencia al presunto responsable.
+3. La suspensión en el ejercicio de la profesión sólo se podrá acordar en virtud de infracción grave o muy grave y la expulsión del colegio profesional en virtud de infracción muy grave.
+
+### Artículo 25
+
+Artículo 25.
+1. Los actos y resoluciones de los colegios profesionales sujetos al derecho administrativo serán objeto de recurso ordinario ante el órgano superior jerárquico que determinen los respectivos estatutos, de acuerdo con lo que establece la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. No obstante lo anterior, los estatutos colegiales podrán atribuir la competencia para resolver el recurso ordinario a un órgano colegial dotado de autonomía funcional.
+3. El recurso ordinario podrá ser sustituido en los estatutos colegiales por un recurso corporativo especial, de carácter potestativo, que habrá de interponerse, en el plazo de un mes, ante la Comisión Mixta de Garantías de la Consejería competente en la materia de colegios profesionales.
+4. La Comisión Mixta de Garantías, que estará integrada, en cada caso, por tres miembros del colegio profesional del que emane el acto impugnado y por tres representantes de la Administración de las Illes Balears, actuará con autonomía funcional y resolverá las impugnaciones de acuerdo con criterios de imparcialidad.
+
+### Artículo 26
+
+Artículo 26.
+Corresponde al Gobierno de las Illes Balears la competencia para resolver los recursos ordinarios que se interpongan contra los actos colegiales que hayan sido dictados en el ejercicio de competencias delegadas por éste.
+
+### Artículo 27
+
+Artículo 27.
+1. Contra los actos que resuelvan el recurso ordinario o el recurso corporativo regulado en el artículo 25.3 de la presente Ley, y también contra los actos y resoluciones de los colegios sujetos al derecho administrativo que pongan fin a la vía administrativa, se podrá interponer el recurso contencioso-administrativo en los términos establecidos por la legislación reguladora de esta jurisdicción.
+2. La interposición del recurso extraordinario de revisión, la revisión de oficio y el régimen de los actos presuntos de los colegios profesionales, se regirán de acuerdo con lo que establece la Ley 30/1992, de 26 de noviembre, ya citada.
+
+### Artículo 28
+
+Artículo 28.
+Para que produzcan efectos jurídicos, los estatutos colegiales, las disposiciones deontológicas o de ordenación del ejercicio profesional y las normas electorales que dicten los colegios profesionales regulados en esta Ley deberán publicarse en el «Butlletí Oficial de les Illes Balears».
+
+## CAPÍTULO X
+
+Registro de Colegios Profesionales
+
+### Artículo 29
+
+Artículo 29.
+1. Se crea el Registro de Colegios Profesionales como instrumento de publicidad de los datos y de las actuaciones de las corporaciones profesionales reguladas en esta Ley.
+2. En los términos que reglamentariamente se establezcan accederán al Registro:
+a) Los estatutos de los colegios profesionales y las modificaciones que se hagan en ellos.
+b) Los reglamentos de régimen interior y las modificaciones que se hagan en ellos.
+c) Las personas que en cada momento integren los órganos de gobierno.
+d) Los actos que por disposición legal o reglamentaria hayan de ser objeto de inscripción o de anotación.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Las delegaciones o demarcaciones de colegios profesionales de ámbito supraautonómico, que dispongan de órganos de gobierno elegidos democráticamente por los colegiados residentes en las Illes Balears, tendrán la misma consideración que las corporaciones reguladas en la presente Ley para actuar como colaboradoras del Gobierno y de la Administración de las Illes Balears, a los efectos de lo dispuesto en los artículos 7, 8 y 12 de esta Ley.
+2. El Gobierno de las Illes Balears promoverá que las delegaciones o demarcaciones en las Illes Balears de colegios de ámbito supraautonómico adopten las medidas necesarias para la prestación de atención a los consumidores y usuarios prevista en el artículo 15 de esta ley.
+Se modifica el apartado 2 por el art. 4.8 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Las delegaciones o demarcaciones de colegios profesionales de ámbito supraautonómico podrán segregarse para constituir colegios independientes.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+1. Se entiende por organización colegial el conjunto de corporaciones colegiales de una determinada profesión. Son corporaciones colegiales el consejo general o superior de colegios, los colegios de ámbito estatal, los consejos autonómicos de los colegios y los colegios profesionales.
+2. Los colegios profesionales regulados a esta ley tendrán, en los consejos generales de sus respectivas profesiones, la intervención que la legislación del Estado les asigne.
+Se modifica por el art. 4.9 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Los colegios oficiales de funcionarios que ejerzan exclusivamente sus actividades en el territorio de las Illes Balears se regirán por sus normas específicas y, supletoriamente, por lo que dispone la presente Ley.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+En los procedimientos de elaboración de las disposiciones reglamentarias que desarrollen directamente la presente Ley se dará audiencia previa a los colegios profesionales afectados.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+El Gobierno de las Illes Balears velará para que, en los casos en que legalmente corresponda, estén incorporados al respectivo colegio profesional los funcionarios y el personal laboral de las Administraciones Públicas de las Illes Balears que desarrollen actividades profesionales que tengan como destinatarios inmediatos a los particulares.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+No obstante lo dispuesto en el artículo 3.3 de la presente Ley, podrán conservar su actual organización los colegios profesionales de ámbito insular que se hubieran constituido antes de la entrada en vigor de esta Ley y estén integrados en un Consejo Colegial de ámbito autonómico. En todo caso, las funciones a que se refiere el artículo 12 de esta Ley serán llevadas a cabo preferentemente por medio del Consejo Colegial de ámbito autonómico, de acuerdo con lo que reglamentariamente se determine.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+En todo aquello que no esté previsto a esta ley, se aplicará la normativa estatal sobre colegios profesionales.
+Se añade por el art. 4.10 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Los colegios profesionales actualmente existentes en las Illes Balears cumplirán las obligaciones registrales que dimanen de la presente Ley y adaptarán los estatutos a la misma, en el plazo de seis meses, contado a partir de la publicación del Reglamento general a que hace referencia la disposición final primera de esta Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Gobierno de las Illes Balears para que, en el plazo de seis meses, contados a partir de la entrada en vigor de la presente Ley, dicte el Reglamento general para su aplicación.
+El reglamento establecerá, entre otros aspectos, el procedimiento a seguir para la creación de los colegios profesionales sin perjuicio de la posibilidad de impulsar su creación vía proposición de ley.
+Se añade el párrafo segundo por el art. 1 de la Ley 5/2019, de 8 de febrero. Ref. BOE-A-2019-3913
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al mes de su publicación en el «Butlletí Oficial de les Illes Balears».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los tribunales y las autoridades a los que corresponda la hagan guardar.
+Palma de Mallorca,14 de diciembre de 1998.
+PILAR FERRER VANRELL,
+ JAUME MATAS I PAOLU,
+ Consejera de la Función Pública e Interior
+ Presidente

@@ -1,0 +1,593 @@
+# Ley 11/2010, de 2 de noviembre, de ordenación del transporte marítimo de las Illes Balears.
+
+- Identificador BOE: `BOE-A-2010-19486`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2010-19486
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 48.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+La adecuada regulación del transporte marítimo de pasajeros y mercancías es un instrumento de política legislativa de suma importancia para el fomento del desarrollo económico y la cohesión social en las Illes Balears.
+El artículo 30.6 del Estatuto de Autonomía de las Illes Balears establece la competencia exclusiva en materia de «transporte marítimo exclusivamente entre puertos o puntos de la comunidad autónoma, sin conexión con otros puertos o puntos de otros ámbitos territoriales».
+El ejercicio de esta competencia ha de enlazarse en el más amplio marco de las competencias del Estado y de la Unión Europea. La norma estatal básica, actualmente vigente, es la Ley de puertos y de la marina mercante, de 26 de diciembre de 1997, que modificó la Ley 27/1992, de 24 de noviembre. En cuanto al derecho comunitario, las dos normas fundamentales sobre esta materia son el Reglamento 4056/1986 del Consejo, de 22 de diciembre de 1986, por el que se determinan las modalidades de aplicación de los artículos 85 y 86 del Tratado de la Comunidad Económica Europea a los transportes marítimos (actuales artículos 81 y 82 TUE); y, sobre todo, el Reglamento 3577/1992 del Consejo, de 7 de diciembre de 1992, por el que se aplica el principio de libre prestación de servicios a los transportes marítimos dentro de los estados miembros (cabotaje marítimo).
+Los citados conjuntos normativos establecen el principio de la libertad de las empresas comunitarias para prestar servicios de transporte marítimo, libertad que sólo puede ser eventualmente limitada por razones de orden público, seguridad, salud pública o por otras causas imperiosas de interés general.
+Además, este cuadro normativo se completa con la consolidada doctrina del Tribunal de Justicia de la Unión Europea sobre esa libertad de prestación de servicios de transporte marítimo; la sentencia más destacada es la de 20 de febrero de 2001, dictada en el asunto C-205/99, el denominado «caso Analir», al resolver tres cuestiones prejudiciales sobre la interpretación de los artículos 1, 2 y 4 del Reglamento 3577/92, suscitadas en el marco de cuatro litigios contra la Administración General del Estado español promovidos, entre otros, por una naviera de las Illes Balears.
+En suma, este es el marco jurídico en el que se inserta el ejercicio de la competencia exclusiva de la comunidad autónoma de las Illes Balears sobre el transporte marítimo en nuestras islas.
+II
+Dentro del referido marco, la presente ley aborda la regulación de todos los servicios remunerados de transporte marítimo exclusivamente entre puertos y puntos del litoral de las Illes, bajo un principio básico: la libre prestación de esos servicios. Consecuentemente, el régimen general para todos los transportes marítimos es de mera comunicación previa, en el que el ejercicio de la actividad no precisa de autorización administrativa expresa sino que sólo se somete a la carga de comunicar previamente a la administración pública competente el inicio de la actividad, con el fin de permitirle conocer quién realiza esos transportes y, a través de la documentación aportada, verificar el cumplimiento de todos los requisitos exigidos para su ejercicio, requisitos que tienden a garantizar la capacidad de la empresa transportista, la seguridad y la regularidad de los servicios ofertados, de acuerdo con lo previsto en el artículo 1.1 del Reglamento (CEE) 3577/1992.
+Excepcionalmente, cuando mediante el régimen de reparto entre todos los operadores autorizados tampoco se alcance la suficiencia de los servicios, de acuerdo con la normativa comunitaria, la ley prevé la suspensión del régimen de autorización previa y la convocatoria pública de un contrato de servicio público articulado sobre el derecho a una contraprestación económica que asegure la viabilidad de la prestación durante un período corto de tiempo, en condiciones de exclusividad. Las condiciones o los requisitos que la ley impone a este contrato –la concreción de las rutas afectadas, la obligación de la licitación pública de ámbito comunitario, la limitación temporal de la duración, así como la posibilidad de conceder una compensación económica– se basan en la Comunicación, de 22 de diciembre de 2003, de la Comisión de las Comunidades Europeas al Parlamento Europeo, al Consejo, al Comité Económico y Social Europeo y al Comité de las Regiones, de interpretación del Reglamento 3577/1992. Y, en cuanto a las condiciones de la contraprestación económica, se atiende a las fijadas por el Pleno del Tribunal de Justicia de la Unión Europea en la Sentencia de 24 de julio de 2003, C-280/2000, caso «Altmark», que resuelve una cuestión prejudicial planteada por el Bundesverwaltungsgericht alemán sobre la interpretación de los artículos 73 y 87 del Tratado CE y el Reglamento del Consejo 1191/69, de 26 de junio de 1969, relativo a la acción de los estados miembros en materia de obligaciones inherentes a la noción de servicio público en el sector de los transportes por ferrocarril, carretera y vía navegable.
+Al objeto de dotar de mecanismos que garanticen el cumplimiento de esta regulación de los transportes marítimos en las Illes Balears, la ley establece y delimita las potestades de control, inspección y sanción que la administración necesita para actuar.
+En cuanto a las infracciones y sanciones, también serán aplicables al transporte marítimo interinsular las tipificadas en la Ley 27/1992, de 24 de noviembre, de puertos del Estado y de la marina mercante.
+III
+Por otra parte, la Ley aprovecha para introducir normas relativas a los derechos y deberes de los pasajeros, dotándoles de un régimen similar al del proyectado reglamento europeo relativo a los derechos de los pasajeros que viajan por mar y por vías navegables.
+Asimismo, se incorporan a esta ley los derechos específicos para los residentes empadronados en la isla de Formentera, ya que exclusivamente mediante servicios de transporte marítimo puede garantizarse la comunicación regular de los formenterenses con el exterior y el suministro ordinario de mercancías a la isla.
+IV
+Por último, conviene enfatizar que la ágil comunicación entre las Illes no es el único fin de interés público al que debe tender la ordenación del transporte marítimo. Tan importante como éste es la protección del ecosistema marino, de la fauna, de la flora y de la propia calidad de las aguas y costas del archipiélago, frente al alto riesgo de contaminación por hidrocarburos y sustancias peligrosas que supone el transporte marítimo, que ha motivado la declaración del mar Mediterráneo por la OMI como «área especial», es decir, merecedora de normas específicas de protección más severas que otros mares.
+Es por este motivo, así como por la relevancia turística de las aguas y costas del país, que la ley declara que la libertad de prestación de servicios de transporte marítimo también puede ser gravada con la imposición de limitaciones cuando sea necesario para proteger aquellos bienes. La ley hace una previsión general, pero suficiente, para, llegado el caso, poder legitimar las medidas específicas que resulten necesarias para proteger el medio ambiente por el que se desarrolla el transporte marítimo.
+Se suprimen los párrafos del segundo al quinto por la disposición final 20.1 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df-20
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley regula el transporte por mar entre puertos o puntos situados exclusivamente en el litoral de las Illes Balears, sin conexión con otros puertos o puntos de otros ámbitos territoriales.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+La presente ley se aplica a la actividad de transporte marítimo de pasajeros, de mercancías, o mixtos, en buques debidamente registrados y a cambio de una remuneración, sea directa o indirecta, con independencia de la finalidad que tenga. Por lo tanto, queda fuera del ámbito regulador el transporte con fines de recreo que se realice sin contraprestación económica.
+
+### Artículo 3
+
+Artículo 3. Definiciones.
+A los efectos de la presente ley se entiende por:
+1. Naviero o empresa naviera: la persona física o jurídica que utiliza buques mercantes propios o ajenos y se dedica a su explotación, aun cuando ello no constituya su actividad principal, bajo cualquier modalidad admitida por los usos internacionales.
+2. Armador comunitario: empresa naviera que realiza actividades de transporte marítimo remunerado y cumple los requisitos establecidos por el Reglamento 3577/1992, del Consejo, de 7 de diciembre de 1992, por el que se aplica el principio de libre prestación de servicios a los transportes marítimos dentro de los estados miembros, o la norma que lo sustituya.
+3. Navegación interior: es la que transita exclusivamente por aguas de un único puerto o bahía o entre puntos de otras aguas interiores del litoral de las Illes Balears.
+4. Navegación de cabotaje: es aquélla que no siendo de interior se realiza exclusivamente entre puertos o puntos del litoral de las Illes Balears.
+5. Línea de transporte marítimo: trayecto cubierto por servicios regulares de transporte marítimo. Su denominación debe incluir el puerto de origen y el de destino, así como los puertos de escala intermedios.
+6. Modificación de la línea de transporte marítimo: cambio que afecta a los horarios, las fechas o las frecuencias de los viajes establecidos, o que supone la sustitución del buque o añade o suprime puertos intermedios de escala de la línea, en las condiciones que reglamentariamente se establezcan. Los cambios de los puertos de origen o de destino se consideran creación de nuevas líneas.
+7. Obligaciones de servicio público: las obligaciones relativas al transporte establecidas por la administración y que el naviero no asumiría o no lo haría en la misma medida ni en las mismas condiciones si considerara su interés comercial.
+8. Puerto base de un buque: el puerto del litoral de las Illes Balears elegido por el armador, con la previa autorización del organismo gestor portuario, desde el que desarrolla normalmente las actividades de transporte, incluyendo el ofrecimiento de sus servicios, o bien aquel que constituye su lugar de atraque durante más de seis meses al año.
+9. Transportes de pasajeros: los destinados principalmente al transporte de personas y, en su caso, sus equipajes y vehículos de uso particular, mediante buques registrados para tal fin.
+10. Transportes marítimos de pasajeros de carácter turístico o recreativo: aquéllos en los que la actividad de transporte se acompaña de otras actividades y servicios accesorios de carácter turístico, hostelería, ocio, educativos o de naturaleza análoga, a cambio de una contraprestación económica, con independencia de si lo es con reiteración o no del itinerario, el calendario y el horario, y de la modalidad de contratación.
+11. Transportes de mercancías: los destinados principalmente al transporte marítimo de bienes de cualquier tipo mediante buques registrados para esta actividad, sin perjuicio de que también puedan trasladar personas cuando estén autorizados para ello.
+12. Transportes mixtos: los destinados al desplazamiento conjunto de personas y mercancías en buques habilitados para ello, con la debida separación y registradas para esta actividad.
+13. Líneas regulares: los servicios de cabotaje que están sujetos a itinerarios, frecuencias de escalas, tarifas y demás condiciones de transporte previamente establecidas y publicadas.
+A estos efectos, tienen la consideración de líneas regulares los servicios de cabotaje que, aun sin denominarse de tal modo, se ofertan de forma general a los posibles usuarios y se prestan en condiciones de regularidad, publicidad y contratación asimilables a los servicios regulares de cabotaje.
+14. Navegación no regular: la que no se corresponda con las determinaciones de la definición del apartado anterior.
+15. Pasajeros: las personas físicas que contratan cualquier clase de servicios de transporte marítimo, de pasajeros o mixtos, tanto regulares como ocasionales, cualquiera que sea la modalidad de contratación.
+16. Circunstancias excepcionales: se consideran circunstancias excepcionales en el marco del transporte marítimo todos aquellos acontecimientos que hayan entorpecido la ejecución del servicio de transporte y que no se hayan podido evitar, incluso después de haber adoptado todas las medidas oportunas.
+
+### Artículo 4
+
+Artículo 4. Competencia.
+1. La reglamentación, ordenación y planificación del transporte marítimo entre puertos y puntos exclusivamente del litoral de las Illes Balears y de las actividades relacionadas con el mismo son competencia del Gobierno de les Illes Balears, que la ejercerá de acuerdo con lo previsto en esta ley y en las disposiciones que la desarrollen.
+2. La gestión, la inspección, el control y el régimen sancionador del transporte marítimo y de las actividades relacionadas con el mismo corresponden a la consejería del Gobierno de las Illes Balears competente por razón de la materia, en los términos que se establecen en la presente ley.
+
+## CAPÍTULO II
+
+Régimen de prestación de los servicios de transporte marítimo
+
+## Sección 1
+
+Sección 1.ª Principios
+
+### Artículo 5
+
+Artículo 5. Libertad de prestación: limitaciones y condicionantes.
+1. La actividad económica de cabotaje se rige por el principio general de la libre prestación de servicios.
+2. Este principio general del punto 1 anterior únicamente puede ser limitado o condicionado eventualmente de acuerdo con las disposiciones previstas por esta ley, para garantizar la suficiencia de los transportes regular interior y de cabotaje insulares o interinsulares, o de otros de interés general mediante la imposición de obligaciones de servicio público, en los términos establecidos en esta ley.
+
+### Artículo 6
+
+Artículo 6. Buques.
+1. Las actividades de transporte con finalidad mercantil a las que se refiere la presente ley pueden ser realizadas únicamente por buques matriculados y abanderados en cualquiera de los estados miembros de la Unión Europea o pertenecientes al Espacio Económico Europeo.
+2. La condición de matriculación en un estado miembro de la Unión Europea presupone que el registro en cuestión está situado en un territorio donde son aplicables el Tratado de la UE y el derecho que de él se deriva.
+3. En supuestos excepcionales, y de acuerdo con el procedimiento que se establezca reglamentariamente, cuando no existan buques que cumplan el requisito de nacionalidad del apartado anterior, la consejería competente, mediante resolución motivada, puede autorizar a las empresas navieras para contratar y emplear buques mercantes no comunitarios, siempre que éstos y su tripulación cumplan con los requisitos para ejercer la actividad previstos en la presente ley y en las demás aplicables.
+
+## Sección 2
+
+Sección 2.ª Régimen jurídico general de la actividad
+
+### Artículo 7
+
+Artículo 7. Comunicación previa.
+1. Las actividades de transporte a que se refiere el artículo 2 de la presente ley quedan sujetas en general al régimen de comunicación previa. A tales efectos, las personas interesadas deben notificar fehacientemente su voluntad de realizarlas a la consejería competente, con una antelación mínima de quince días al inicio de la actividad, y deben acreditar el cumplimiento de los requisitos legales preceptivos para ejercerla.
+2. En la comunicación previa debe determinarse el tipo de servicio que se pretende prestar. Si se trata de un transporte no regular u ocasional, se indicará la zona o las zonas donde esté previsto llevarlo a cabo, los puntos de partida y de llegada y la previsión de escalas. Cuando se pretenda prestar servicios de línea regular de cabotaje marítimo, también se deben indicar el puerto base, el itinerario o los itinerarios que se han de realizar, los puntos de partida y de llegada, las escalas, los horarios y las frecuencias, y si se trata de un transporte de pasajeros, de mercancías o mixto.
+3. La comunicación de inicio de las actividades no exime de la obtención de las autorizaciones, las licencias, los permisos o las concesiones que sean precisos de acuerdo con la legislación vigente, en particular los que afectan a la seguridad de los buques y de los pasajeros y a la tripulación.
+4. El cese en la prestación del servicio regular debe ser comunicada a la consejería competente con una antelación mínima de quince días.
+
+### Artículo 8
+
+Artículo 8. Requisitos para ejercer la actividad.
+1. Los requisitos para llevar a cabo servicios de transporte marítimo objeto de esta ley que deben cumplirse son los siguientes:
+a) Tener la condición de empresa naviera española o de armador comunitario.
+b) Estar inscritas en uno de los registros de empresas navieras, regulados en la Ley 27/1992, de puertos del Estado y de la marina mercante, o en la norma que la modifique.
+c) El título de propiedad, de arrendamiento o de fletamento u otro por tiempo que asegure la disponibilidad sobre el conjunto de los buques que sean destinados a la línea.
+d) Acreditar que el buque o los buques que se destinan al transporte cumplen los requisitos exigidos por la normativa vigente para poder navegar y los requerimientos técnicos y de seguridad en función de las características del transporte a realizar.
+e) La comunicación de los cuadros de precios o tarifas previstos.
+f) La garantía de una duración de la prestación del servicio no inferior a doce meses, cuando el itinerario afecte a una línea regular ya existente, salvo causas excepcionales debidamente acreditadas.
+g) Disponer de los seguros obligatorios de viajeros y de responsabilidad civil por daños a terceras personas con ocasión del transporte que exija la normativa mercantil vigente.
+h) Cualquier otro requisito referente al buque, a su tripulación y a la actividad de transporte que se pretende desarrollar que sea legalmente exigible.
+2. Los requisitos c), e) y f) anteriores no serán exigibles al transporte no regular.
+3. La acreditación de los anteriores requisitos para ejercer la actividad puede realizarse también mediante los oportunos certificados de las administraciones o de las empresas competentes, quedando obligada la empresa a comunicar, mediante declaración responsable o los certificados pertinentes, cualquier ulterior variación en dichos requisitos.
+
+### Artículo 9
+
+Artículo 9. Incumplimiento de los requisitos.
+Si la consejería competente en materia de transporte marítimo constata el incumplimiento de los requisitos establecidos en el anterior artículo, una vez haya transcurrido el plazo legal de subsanación otorgado al efecto, dictará resolución motivada ordenando la prohibición del inicio del servicio o su inmediata paralización hasta que sea corregida la omisión, sin perjuicio de las sanciones administrativas a que hubiere lugar.
+
+### Artículo 10
+
+Artículo 10. Registro Balear de Navieros.
+1. Se crea el Registro Balear de Navieros como registro público de carácter administrativo, de ámbito autonómico y de acceso libre, cuya gestión corresponde a la consejería competente en materia de transportes marítimos.
+2. El Gobierno regulará reglamentariamente el objetivo y las funciones del Registro, que incluirá:
+a) Las empresas que hayan realizado la comunicación previa de prestación de servicios de transporte marítimo objeto de esta ley, con los requisitos legales.
+b) Los servicios que presten dichas empresas y sus modificaciones.
+c) Las autorizaciones previas y los contratos de obligación de servicio público, de acuerdo con lo previsto en los artículos 20.3 y 21.4 de esta ley.
+d) Cualesquiera otros aspectos que se determinen reglamentariamente.
+3. En cualquier caso, en el funcionamiento del Registro Balear de Navieros se respetará lo que dispone la normativa legal de protección de datos.
+
+### Artículo 11
+
+Artículo 11. Obligaciones de información.
+1. Las empresas inscritas en el Registro Balear de Navieros deben facilitar al Gobierno los datos y la información de los servicios de transporte marítimo necesarios para el control, la gestión y las estadísticas sobre estas actividades.
+2. El reglamento que desarrolle esta ley determinará la información objeto de la obligación de suministro de datos.
+Cuando la persona interesada ya haya proporcionado formalmente a algún departamento del Gobierno datos de los servicios y las actividades del transporte, no será de aplicación la regla de obligación de suministro de este artículo a la información y a los datos ya facilitados.
+3. La consejería competente garantizará la confidencialidad de la información suministrada por las empresas que pueda afectar al secreto comercial e industrial y a las materias reguladas por la Ley Orgánica de protección de datos.
+
+### Artículo 12
+
+Artículo 12. Modificación de las condiciones de prestación de los servicios.
+1. Con carácter general, la modificación de cualquiera de las condiciones de prestación de los servicios regulares en materia de horario o ruta será comunicada a la consejería competente en la materia con diez días de antelación.
+2. El régimen establecido en el anterior párrafo puede ser exceptuado en los supuestos de caso fortuito o de fuerza mayor a fin de garantizar la prestación del servicio en las mejores condiciones posibles hasta la normalización del mismo. De cualquier forma, estas incidencias serán comunicadas en el plazo de veinticuatro horas a la consejería competente en la materia.
+
+### Artículo 13
+
+Artículo 13. Causas de imposibilidad legal.
+Son causas de imposibilidad legal de prestación del transporte marítimo:
+a) El cese de la actividad de la empresa naviera, tras su notificación a la consejería competente.
+b) La extinción de la personalidad del transportista.
+c) La sanción administrativa firme que así lo establezca.
+
+## Sección 3
+
+Sección 3.ª Régimen jurídico de la actividad en casos especiales
+
+### Artículo 14
+
+Artículo 14. Establecimiento de líneas de interés estratégico.
+1. Se declaran de interés estratégico para las Illes Balears las siguientes líneas con objeto de garantizar la suficiencia de los servicios:
+a) Las siguientes líneas regulares de transporte marítimo interinsular:
+1. Entre el puerto de La Savina de la isla de Formentera y el puerto de Eivissa de la isla de Ibiza.
+2. Entre el puerto de Ciutadella de la isla de Menorca y el puerto de Alcúdia de la isla de Mallorca.
+3. Entre el puerto de Eivissa de la isla de Ibiza y el puerto de Palma de la isla de Mallorca.
+b) Para el transporte marítimo interinsular regular las siguientes instalaciones portuarias: La Savina, Eivissa, Palma, Alcúdia, Ciutadella de Menorca, Maó, Sant Antoni y Cala Rajada.
+2. Con objeto de garantizar la suficiencia del transporte regular interinsular de pasajeros, mercancías o mixto, las líneas de interés estratégico se podrán prestar:
+– Bajo obligación de servicio público.
+– En régimen de contrato administrativo.
+3. Quedarán excluidos de la determinación anterior los transportes de viajeros con islas sin núcleo de población residente estable o con islotes.
+Se modifica por la disposición final 20.2 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df-20
+
+### Artículo 15
+
+Artículo 15. Obligaciones específicas.
+1. Excepcionalmente y con independencia de lo dispuesto en el artículo anterior, el Gobierno de las Illes Balears, con informe previo y favorable del Consejo Económico y Social, puede establecer obligaciones específicas singulares a las empresas navieras que prestan los servicios de cabotaje a los que se refiere esta ley, estrictamente por motivos de protección medioambiental u otras causas graves de utilidad pública o interés social que son competencia de la comunidad autónoma.
+2. Estas obligaciones pueden dar lugar a compensaciones económicas a las empresas afectadas por los costes adicionales especiales en que incurran.
+3. Quedan sometidas a informes previos ante el Consejo Económico y Social las propuestas de obligaciones específicas singulares y, en su caso, las de las compensaciones económicas a empresas navieras a las que se refiere este artículo.
+Cuando las obligaciones específicas singulares sean motivadas por cuestiones medioambientales será preceptivo el informe de la Comisión Balear de Medio Ambiente previamente a instar los establecidos en el párrafo anterior.
+
+### Artículo 16
+
+Artículo 16. Obligaciones de servicio público.
+Las obligaciones de servicio público, que tendrán carácter de mínimos, serán las siguientes:
+a) Continuidad en la prestación del servicio.
+Las empresas que operen en las líneas de interés estratégico deberán prestar sus servicios durante un tiempo mínimo de doce meses consecutivos, excepto por fuerza mayor o incapacidad de la naviera de continuar el servicio.
+b) Frecuencias mínimas y regularidad:
+1. Línea Eivissa – Formentera – Eivissa:
+– Transporte de pasajeros: diez frecuencias diarias.
+– Transporte de mercancías: cinco frecuencias diarias en días laborables.
+2. Línea Eivissa – Palma - Eivissa: tres frecuencias semanales.
+3. Línea Ciutadella - Alcúdia - Ciutadella: una frecuencia diaria.
+Se modifica por la disposición final 20.3 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df-20
+
+### Artículo 17
+
+Artículo 17. Garantía.
+Las empresas que quieran operar líneas de interés estratégico con obligaciones de servicio público deberán acreditar una capacidad económica suficiente para garantizar la prestación del servicio.
+A tal efecto deberán disponer de los recursos financieros y de los medios materiales precisos para iniciar y prestar de manera ininterrumpida el servicio.
+Se modifica por la disposición final 20.4 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df-20
+
+### Artículo 18
+
+Artículo 18. Prestación y cálculo de la garantía.
+Reglamentariamente se establecerán los requisitos y el procedimiento para prestar y calcular la garantía.
+Se modifica por la disposición final 20.5 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df-20
+
+### Artículo 19
+
+Artículo 19. Principios.
+1. De acuerdo con lo establecido en el Reglamento (CEE) n.º 3577/92 del Consejo, de 7 de diciembre de 1992, por el que se aplica el principio de libre prestación y de servicios a los transportes marítimos en el interior de los Estados miembros, el establecimiento de obligaciones de servicio público se limitará a los requisitos relativos a los puertos desde los que se tiene que prestar el servicio, a la regularidad, la continuidad, la frecuencia, la capacidad de prestación del servicio, las tarifas aplicables y la tripulación del barco.
+2. La imposición de nuevas obligaciones de servicio público se realizará de una forma objetiva, transparente, no discriminatoria y conocida previamente por parte de las personas interesadas, con el fin de garantizar que el servicio se preste en condiciones de libre y leal competencia.
+3. La regulación tendrá especial atención a los costes derivados de la doble insularidad de los residentes en las islas de Menorca y de Ibiza, y de la triple insularidad de los residentes en la isla de Formentera.
+Se modifica por la disposición final 20.6 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df-20
+
+### Artículo 20
+
+Artículo 20. Obligaciones de servicio público adicionales.
+Por causas excepcionales, debidamente justificadas, la Consejería de Movilidad y Vivienda podrá modificar, suprimir o imponer otras obligaciones de servicio público previstas en el Reglamento (CEE) 3577/92 del Consejo, de 7 de diciembre de 1992, a las empresas que operen en líneas de interés estratégico, previa audiencia a los interesados con una antelación mínima de un mes.
+Se modifica por la disposición final 20.7 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df-20
+
+## Sección 4
+
+Sección 4.ª Contratos de obligación de servicio público
+
+### Artículo 21
+
+Artículo 21. Adjudicación y naturaleza.
+1. Cuando se acredite que la imposición de obligaciones de servicio público no asegura una oferta adecuada en cantidad y calidad, la Consejería de Movilidad y Vivienda, con objeto de satisfacer de forma directa o inmediata la finalidad pública que representan las líneas de interés estratégico, podrá establecer la prestación de servicios marítimos regulares interinsulares, mediante un contrato administrativo especial.
+2. La adjudicación de dichos contratos se realizará bajo los principios de concurrencia y publicidad, mediante concurso público en la forma prevista en la legislación vigente en materia de contratación de las administraciones públicas, pudiendo acudirse al procedimiento negociado en los supuestos previstos en dicha normativa para los contratos de gestión de servicios públicos. Con carácter general, la licitación es objeto de publicidad en el «Diario Oficial de la Unión Europea».
+3. Estos contratos tienen naturaleza administrativa especial y se rigen por la normativa comunitaria, la presente ley, las normas que la desarrollen y por la legislación de contratos de las administraciones públicas aplicable a esta comunidad autónoma.
+4. Los contratos de obligación de servicio público deben ser inscritos en el Registro Balear de Navieros.
+Se modifica el apartado 1 por la disposición final 20.8 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df-20
+
+### Artículo 22
+
+Artículo 22. Contenido.
+1. Los contratos de obligación de servicio público pueden comprender, entre otros, los siguientes servicios:
+a) Servicios de transporte que cumplan normas sobre continuidad, regularidad, capacidad y calidad.
+b) Servicios de transporte complementarios.
+c) Servicios de transporte a precios y condiciones específicos, en especial para determinadas categorías de viajeros o para determinadas conexiones.
+d) Adaptaciones de los servicios prestados a las necesidades reales.
+2. Estos contratos podrán prever una compensación económica, no deberán tener una duración superior a cinco años, incluidas las prórrogas, y solo se podrá adjudicar uno por cada línea declarada de interés público.
+3. Los parámetros para el cálculo de la compensación económica referida en el apartado anterior deben ser fijados con anterioridad a la convocatoria pública de forma objetiva y transparente. Su cuantía no puede superar la necesaria para cubrir total o parcialmente los gastos ocasionados por la ejecución de las obligaciones de servicio público, teniendo en cuenta los ingresos correspondientes y un beneficio razonable por la ejecución de esas obligaciones, de acuerdo con el ordenamiento comunitario.
+4. Los transportistas que resulten adjudicatarios de estos contratos deben cumplir las obligaciones previstas en el artículo 11 de esta ley.
+Se modifica el apartado 2 y se suprime el 5 por la disposición final 20.9 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df-20
+
+## CAPÍTULO III
+
+Régimen particular de los transportes marítimos con finalidad turística o recreativa
+
+### Artículo 23
+
+Artículo 23. Régimen del transporte marítimo de pasajeros de carácter turístico o recreativo.
+1. El transporte marítimo de pasajeros de carácter turístico o recreativo definido en el artículo 3.10 de esta ley queda sometido al régimen de comunicación previa establecido en la sección 2.ª del capítulo II de la presente ley con las modificaciones establecidas en este capítulo. Reglamentariamente, el Gobierno puede adaptar sus exigencias a las características de cada uno de estos transportes, bien para simplificar sus requisitos, o bien para hacer efectiva la necesaria coordinación entre las administraciones y los departamentos que por razón de la actividad complementaria pueden resultar afectados.
+2. La comunicación no exime al empresario de la previa obtención de cuantas autorizaciones, licencias o permisos sean necesarios para realizar la actividad turística, recreativa, de ocio, de enseñanza o de instrucción que se pretenda desarrollar.
+3. Los transportes regulados en este precepto deben realizarse en condiciones diferenciadas en relación con los transportes regulares que resulten, total o parcialmente, coincidentes con su itinerario.
+
+### Artículo 24
+
+Artículo 24. Normas de esta ley aplicables a este tipo de transporte marítimo.
+Al transporte marítimo de pasajeros de carácter turístico o recreativo únicamente le son aplicables los siguientes preceptos de esta ley:
+1. Limitación del principio de libertad de prestación: Artículo 5.2.
+2. Buques: Artículo 6.
+3. Comunicación previa: Artículo 7 y lo previsto en el artículo 23.2.
+4. Requisitos para ejercer la actividad: artículo 8.1, apartados a), b), c), d), g) y h).
+5. Actividad: Artículo 9.
+6. Registro Balear de Navieros: Artículo 10.
+7. Imposibilidad legal: Artículo 13.
+8. Derechos de los pasajeros: Artículo 25.1, apartados a), b) y e).
+9. Reclamaciones: Artículo 26.
+10. Obligaciones: Artículo 27, apartados c) y e).
+11. Documentos de control: Artículo 30.
+12. Inspección: Artículos 31 y 32.
+13. Infracciones: Artículo 33; artículo 34, apartados b), c) y e); artículo 35, apartados a), b.2), b.3), b.5), c), d) y e); artículo 36, apartados a.1), a.2), c), y d); y artículos 37 y 38.
+14. Sanciones: Artículo 39.1, 2, 3, 4 apartados a) y d), 5, 6 y 7; y artículo 40.
+15. Procedimiento sancionador: Artículos 42, 43 y 44.
+Se modifica el apartado 4 por la disposición final 46 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-46
+
+## CAPÍTULO IV
+
+Derechos y obligaciones de los pasajeros
+
+### Artículo 25
+
+Artículo 25. Derechos.
+1. Los pasajeros tienen derecho a unos servicios de transporte marítimo seguros, asequibles y de calidad. En particular a:
+a) Unos buques en las condiciones necesarias de limpieza y conservación para garantizar la correcta prestación del servicio de transporte.
+b) Información completa y detallada sobre los servicios ofertados por las empresas navieras y sus condiciones de prestación, incluyendo precios, trayectos, horarios, buques a utilizar y tiempo estimado del viaje.
+c) Información detallada sobre las incidencias que puedan afectar a los servicios contratados, en particular en el caso de retraso sobre el horario previsto, suspensión o cancelación y denegación de embarque, y sobre los derechos que les asisten en estas situaciones.
+d) En caso de retraso, la empresa naviera les informará de los horarios estimados de salida y llegada tan pronto disponga de esa información y, a más tardar, treinta minutos después del horario de salida programado. Si los pasajeros pierden una conexión debido al retraso, la naviera adoptará las medidas que estén a su alcance para informarles sobre las conexiones alternativas.
+e) Unos servicios accesibles y adaptados a las necesidades de las personas de movilidad reducida, de acuerdo con la legislación aplicable y su normativa de desarrollo, y a recibir gratuitamente la asistencia debida.
+2. Cuando una empresa naviera prevé que un servicio de transporte marítimo de pasajeros va a retrasarse, los pasajeros tienen derecho a ser asistidos por la naviera en los siguientes términos:
+a) Si el retraso previsto es de más de sesenta minutos, la naviera ofrecerá a los pasajeros comida y refrigerios gratuitos en la medida adecuada al tiempo de espera, si están disponibles a bordo del buque o en el puerto, o si pueden suministrarse razonablemente.
+b) Si el retraso requiere una estancia de una o varias noches o una suplementaria a la prevista por el pasajero, se ofrecerá a los pasajeros de forma gratuita, siempre y cuando sea materialmente posible, alojamiento en un hotel o residencia y transporte entre el puerto y el alojamiento, además de las comidas y refrigerios indicados en el apartado a).
+c) Si no pudiera proseguirse el servicio marítimo, se organizará cuando antes un servicio alternativo para los pasajeros, siempre que fuera posible.
+d) Si el retraso previsto es de más de dos horas, la empresa ofrecerá inmediatamente a los pasajeros:
+d.1) Servicios de transporte alternativo en condiciones razonables o, si ello no es viable, información sobre los servicios alternativos apropiados de otros operadores de transporte.
+d.2) El reembolso del precio del billete, salvo cuando se acepten los servicios de transporte alternativo ofrecidos. El reembolso se efectuará en el plazo máximo de un mes a partir de la solicitud correspondiente.
+e) Las personas con discapacidad, movilidad reducida y sus acompañantes deben ser objeto de especial asistencia.
+3. Sin renunciar a su derecho al transporte, los pasajeros pueden solicitar a la empresa naviera:
+a) Una indemnización cuando la llegada a su destino pueda demorarse por alguna cancelación o retraso, en los siguientes términos:
+a.1) El 25% del precio del pasaje en caso de retraso comprendido entre una y menos de dos horas.
+a.2) El 50% del precio del pasaje en caso de retraso de dos o más horas.
+a.3) El cien por cien del precio del pasaje si el transportista no puede proporcionar el transporte alternativo o la información sobre los servicios alternativos apropiados aludidos en el apartado 2.d.1) de este artículo.
+b) La indemnización se abonará en el plazo de un mes a partir de la solicitud correspondiente, y puede pagarse en forma de vales y/u otros servicios, siempre y cuando las condiciones del contrato sean flexibles, especialmente en cuanto al período de validez y al destino, salvo que el pasajero exija su abono en efectivo.
+c) Son inexigibles las indemnizaciones previstas en este apartado 3, cuando el retraso o la cancelación hayan sido ocasionados por circunstancias excepcionales que hayan entorpecido la ejecución del servicio de transporte y que no hayan podido evitarse, incluso tras la adopción de todas las medidas oportunas.
+4. Los derechos reconocidos en este artículo a los pasajeros rigen aun cuando se trate de servicios cubiertos por contratos de servicio público.
+
+### Artículo 26
+
+Artículo 26. Reclamaciones.
+1. Los derechos descritos lo son sin menoscabo de los que adicionalmente les confiere la legislación de consumidores y usuarios.
+2. Las reclamaciones que formulen los pasajeros de estos servicios se someten a lo establecido por la legislación de consumidores y usuarios, sin perjuicio de las especialidades que establezca el reglamento de desarrollo de la presente ley.
+
+### Artículo 27
+
+Artículo 27. Obligaciones.
+Los pasajeros tienen las siguientes obligaciones:
+a) Disponer del billete adecuado para el trayecto, las condiciones y la categoría del servicio contratado.
+b) Estar provistos del Documento Nacional de Identidad, el pasaporte u otro documento nacional de identificación.
+c) Viajar en los lugares habilitados al efecto en cada buque.
+d) Exhibir los documentos exigidos en los apartados a) y b) de este artículo a requerimiento del personal autorizado de la empresa naviera con carácter previo al embarque y, en su caso, de los inspectores de la consejería competente en la materia.
+Los pasajeros con destino a Formentera que embarquen vehículos a motor también deberán exhibir la acreditación administrativa que les permita circular por la isla durante los períodos de limitación establecidos anualmente.
+Lo mismo será predicable de los pasajeros con destino a la isla de Eivissa.
+e) Atender las indicaciones de la tripulación, en especial en cuanto a las condiciones de seguridad.
+f) Guardar un comportamiento respetuoso con los pasajeros, la tripulación y las condiciones de conservación y limpieza del buque.
+Se añade un párrafo a la letra d) por la disposición final 1 de la Ley 5/2024, de 11 de noviembre. Ref. BOE-A-2024-26254#df
+ Se modifica la letra d) por la disposición final 1 de la Ley 7/2019, de 8 de febrero. Ref. BOE-A-2019-3915
+
+## CAPÍTULO V
+
+Derechos específicos para los residentes en la isla de Formentera
+
+### Artículo 28
+
+Artículo 28. Derechos de los residentes empadronados en Formentera.
+1. Los residentes empadronados en Formentera tienen derecho a unos servicios mínimos de transporte marítimo de pasajeros, en días laborables, de diez frecuencias en cada sentido entre Formentera e Ibiza, y de cinco para el transporte de mercancías.
+2. Todos los residentes empadronados en Formentera tienen derecho a que el precio máximo del transporte marítimo entre Formentera e Ibiza sea el menor entre el importe que resulte de deducir del precio regular del servicio del transporte las bonificaciones de los regímenes vigentes a la aprobación de esta ley, y cualquier otra derivada de la modificación de los sistemas de bonificaciones o del establecimiento de precios máximos de aplicación a los residentes.
+3. El desarrollo reglamentario de la ley establecerá el procedimiento para determinar variaciones de las frecuencias de los servicios de transporte marítimo para los residentes de Formentera que, necesariamente, debe prever la participación del Consejo de Formentera, de los representantes económicos y sociales de la isla y de las empresas transportistas.
+En ningún caso las variaciones podrán reducir las frecuencias declaradas mínimas en esta ley.
+El establecimiento de los horarios debe procurar facilitar los enlaces con las conexiones marítimas y aéreas de Ibiza con el exterior.
+4. Hasta la aprobación de las frecuencias y franjas horarias previstas en el punto 3 anterior, regirán las que determina esta ley.
+
+## CAPÍTULO VI
+
+Las potestades administrativas de control, inspección y sanción
+
+## Sección 1
+
+Sección 1.ª Control y seguimiento
+
+### Artículo 29
+
+Artículo 29. Medidas de control.
+Las empresas que realicen los servicios de transporte marítimo regulados en esta ley deben someterse a los mecanismos y a las exigencias de control que establezca la consejería competente en materia de transporte. Dicha medidas van dirigidas a comprobar la efectividad de los servicios prestados, los precios aplicados, el número de usuarios y, en general, todos los elementos que sean necesarios para el ejercicio eficaz de las competencias de planificación y ordenación del transporte marítimo.
+
+### Artículo 30
+
+Artículo 30. Documentos de control.
+1. Las empresas navieras deben disponer en cada buque y establecimiento de un libro oficial de reclamaciones a disposición de los usuarios, debiendo remitir a las administraciones competentes en la materia una copia de todas las reclamaciones en el plazo de los diez días siguientes a su formulación.
+2. Además del libro de reclamaciones, deben tener a bordo de los buques la certificación de inscripción en el Registro Balear de Navieros, las autorizaciones y los contratos de obligación de servicio público, en su caso, y demás documentos de control exigidos por la normativa de aplicación, debidamente cumplimentados y que deben exhibirse a requerimiento de los funcionarios que ejerzan funciones de control o de inspección.
+3. Las características de las hojas de reclamación, el procedimiento de tramitación de las reclamaciones, y cuantos otros aspectos sean precisos para la efectividad del control, se regularán por lo dispuesto en la normativa vigente en la comunidad autónoma en materia de consumidores y usuarios.
+
+## Sección 2
+
+Sección 2.ª Inspección
+
+### Artículo 31
+
+Artículo 31. Órganos de inspección.
+1. Los servicios de inspección de la consejería competente tienen la potestad de inspección y vigilancia de los servicios de transporte marítimo, sin perjuicio de las competencias de otras administraciones públicas en materia de inspección.
+2. Los hechos contenidos en las actas de inspección levantadas por los inspectores en el ejercicio de su cargo gozan de presunción iuris tantum de veracidad, sin perjuicio de las pruebas que las personas interesadas pueden señalar o aportar en defensa de sus respectivos derechos e intereses.
+3. Para un eficaz cumplimiento de su función, los inspectores pueden recabar el apoyo necesario de las fuerzas y cuerpos de seguridad.
+
+### Artículo 32
+
+Artículo 32. Ejercicio de la función inspectora.
+1. La función inspectora se ejerce de oficio, sea por propia iniciativa o como consecuencia de orden superior, o bien a petición razonada de otros órganos o en virtud de denuncia.
+2. Las empresas inspeccionadas y los capitanes o patrones de los buques deben facilitar al personal de los servicios de inspección toda la documentación que requieran en el marco de esta ley, así como permitirles el acceso y el examen de los buques destinados a los servicios de transporte, siempre que resulte necesario para verificar el cumplimiento de la normativa aplicable.
+3. Las actas levantadas por los servicios de inspección deben reflejar los datos identificadores de la empresa naviera, de la persona presuntamente infractora y de la persona inspeccionada, y exponer con claridad los hechos o las actividades que pueden ser constitutivos de infracción, con todas las circunstancias que sean relevantes, así como las disposiciones que se consideren infringidas.
+
+## Sección 3
+
+Sección 3.ª Régimen de infracciones y sanciones
+
+### Artículo 33
+
+Artículo 33. Clases de infracciones.
+Las infracciones administrativas reguladas en la presente ley se clasifican en leves, graves y muy graves.
+
+### Artículo 34
+
+Artículo 34. Infracciones leves.
+Tienen la consideración de infracciones leves:
+a) Las irregularidades cometidas en la prestación de los servicios que afecten a las frecuencias y los horarios y no sean calificables como graves.
+b) El trato descortés dispensado a los usuarios.
+c) La vulneración de los derechos del pasajero reconocidos en el artículo 25 de esta ley, con independencia de las compensaciones e indemnizaciones a que tenga derecho de acuerdo con lo previsto en esta ley.
+d) La falta de actualización de los datos contenidos en la autorización administrativa o los que acompañaron a la comunicación previa.
+e) El incumplimiento del plazo de remisión a la consejería de las reclamaciones formuladas por los usuarios, según la previsión del artículo 30.1 de esta ley.
+f) Incumplir del deber de información a la administración competente.
+g) No mantener los buques en las condiciones necesarias de limpieza y conservación para garantizar la correcta prestación del servicio de transporte.
+h) La realización de las actividades comprendidas en el ámbito de aplicación del artículo 2 de esta ley, sin haber efectuado su comunicación previa, siempre que se cumplan los requisitos legales para la realización del servicio.
+
+### Artículo 35
+
+Artículo 35. Infracciones graves.
+Tienen la consideración de infracciones graves:
+a) La realización de las actividades comprendidas en el ámbito de aplicación del artículo 2 de esta ley, sin haber realizado su comunicación previa, siempre que no se cumplan los requisitos legales para realizar el servicio.
+b) El incumplimiento de:
+b.1) Las condiciones propias de las líneas de transporte regular, sea por la modificación de las condiciones de regularidad, el retraso en el inicio de la prestación o la falta de comunicación en el plazo del cese de la prestación.
+b.2) Los requisitos para ejercer la actividad, salvo que tal conducta deba calificarse de muy grave por conllevar peligro grave o directo para la seguridad de las personas o del medio ambiente.
+b.3) Falsear total o parcialmente la información suministrada a la administración.
+b.4) La obligación de completar la garantía económica establecida en el artículo 19.3.c) de esta ley, cuando haya resultado minorada o agotada por aplicación a cualquiera de sus finalidades, incluido el pago de multas.
+b.5) La obligación de remitir a la consejería las reclamaciones formuladas por los usuarios, según la previsión del artículo 30.1 de esta ley cuando, habiendo expirado el plazo legal para ello, hayan transcurrido tres días sin atender al requerimiento administrativo de remisión.
+c) La comisión de alguna de las infracciones tipificadas como leves cuando el responsable ya ha sido sancionado mediante resolución firme en vía administrativa por la comisión de dos o más infracciones leves en el año anterior.
+d) La negativa u obstrucción a la actuación de los servicios de inspección que impida el ejercicio de las funciones que legal o reglamentariamente los servicios tengan atribuidas.
+e) No tener contratados los seguros exigibles, con cobertura o importe insuficiente o no estando al corriente del pago.
+
+### Artículo 36
+
+Artículo 36. Infracciones muy graves.
+Tienen la consideración de infracciones muy graves:
+a) El incumplimiento de las normas que reservan a:
+a.1) Buques mercantes de bandera de cualquiera de los estados miembros de la Unión Europea la realización de transportes marítimos de acuerdo con lo previsto en esta ley.
+a.2) Empresas de nacionalidad de cualquiera de los estados miembros de la Unión Europea la realización de transportes marítimos.
+b) La prestación de servicios de transporte marítimo regulares sin autorización administrativa previa cuando sea necesaria según la presente ley.
+c) La reiteración en la negativa u obstrucción a la actuación de los servicios de inspección que impida el ejercicio de las funciones que legal o reglamentariamente los servicios tengan atribuidas.
+d) La comisión de alguna de las infracciones tipificadas como graves cuando el responsable ya ha sido sancionado mediante resolución firme en vía administrativa por la comisión de dos o más infracciones graves en los dos años anteriores.
+
+### Artículo 37
+
+Artículo 37. Responsabilidad por infracciones.
+1. Las personas físicas o jurídicas a las que sean imputables las acciones u omisiones tipificadas como infracciones en esta ley son responsables de las mismas.
+2. Si las acciones u omisiones tipificadas como infracciones en la presente ley son imputables a varias personas conjuntamente, responderán todas ellas de forma solidaria.
+
+### Artículo 38
+
+Artículo 38. Prescripción de las infracciones.
+1. El plazo de prescripción de las infracciones es de un año para las leves, de dos años para las graves y de tres años para las muy graves, contándose el plazo desde la realización del acto o la omisión infractor.
+2. El plazo de prescripción se interrumpe con la iniciación, con conocimiento de la persona interesada, del procedimiento sancionador.
+
+### Artículo 39
+
+Artículo 39. Sanciones.
+1. La responsabilidad declarada por la comisión de las infracciones tipificadas en la presente ley conlleva la imposición de una sanción.
+2. Las sanciones a imponer son las siguientes:
+a) Apercibimiento.
+b) Multa.
+3. Se impondrá la sanción de:
+a) Apercibimiento, en los supuestos de infracciones leves, cuya persona responsable no haya sido sancionada en firme con anterioridad.
+b) Multa, en los demás casos.
+4. En caso de reiteración o concurrencia de dos o más circunstancias agravantes de infracciones graves y muy graves, pueden imponerse las siguientes sanciones accesorias:
+a) Cese o suspensión de la actividad.
+b) Caducidad de la autorización.
+c) Resolución del contrato de obligación de servicio público.
+d) Inhabilitación para el transporte marítimo.
+5. Las multas se impondrán en la siguiente escala:
+a) Infracciones leves, hasta 5.000 euros.
+b) Infracciones graves, desde 5.001 hasta 100.000 euros.
+c) Infracciones muy graves, desde 100.001 hasta 200.000 euros.
+6. La cuantía de las multas fijadas de conformidad con las reglas establecidas en los números anteriores se puede atemperar mediante acuerdo del órgano competente para su imposición, y siempre que la persona infractora haya procedido a corregir la situación creada por la comisión de la infracción, previo requerimiento y en el plazo que reglamentariamente se determine. La cuantía de las multas y la aplicación de las sanciones accesorias se determina en función del beneficio obtenido por la comisión de la infracción, la relevancia externa de la conducta infractora, la negligencia o intencionalidad del sujeto infractor, el número de infracciones cometidas, el daño causado, el carácter de línea básica de transporte regular, el perjuicio al medio ambiente marino, así como por cualquier otra circunstancia que pueda incidir en el grado de reproche de la infracción, en un sentido atenuante o agravante.
+Se aplicarán analógicamente, en la medida de lo posible y con las matizaciones y adaptaciones que exija la peculiaridad del sector administrativo de que se trata, las reglas penales sobre exclusión de la antijuridicidad y de la culpabilidad, sin perjuicio de atender, a idénticos efectos, a otras circunstancias relevantes en dicho sector.
+7. A la vista de los criterios de graduación expresados en el anterior apartado, la comisión de:
+a) Las infracciones graves previstas en los apartados a), b.3), b.4), b.5) y c) del artículo 35 de esta ley, además de la sanción de la multa que corresponda, pueden conllevar la suspensión de la actividad por un plazo no superior a un año.
+b) Las infracciones muy graves a que se refieren los apartados a.1), a.2), b), y d) del artículo 36, con independencia de la multa que corresponda, pueden dar lugar al cese de la actividad, a la caducidad de la autorización correspondiente por un plazo máximo de tres años, e incluso, excepcionalmente, cuando concurriesen tres o más circunstancias agravantes, a la inhabilitación para el ejercicio del transporte marítimo o la actividad de arrendamiento por un plazo no superior a cinco años.
+
+### Artículo 40
+
+Artículo 40. Prescripción de las sanciones.
+1. Las sanciones prescriben:
+a) Las leves, al año.
+b) Las graves, a los dos años.
+c) Las muy graves, a los tres años.
+2. El inicio del plazo de prescripción de las sanciones se computa desde el día siguiente en el que haya alcanzado firmeza la resolución que las impone, y se interrumpe por la iniciación, con conocimiento de la persona sancionada, del procedimiento de ejecución de la resolución sancionadora.
+
+### Artículo 41
+
+Artículo 41. Medidas excepcionales.
+En los supuestos de infracciones acaecidas en el marco de contratos de servicio público, si el cumplimiento de la sanción de resolución del contrato produce un trastorno grave a la continuidad del servicio, el órgano competente suspenderá temporalmente la ejecución y ordenará que se mantenga provisionalmente la vigencia del contrato, conforme a las mismas cláusulas, hasta que se adopten medidas urgentes que eviten el referido perjuicio.
+
+## Sección 4
+
+Sección 4.ª Procedimiento sancionador
+
+### Artículo 42
+
+Artículo 42. Régimen jurídico y órgano competente.
+1. El procedimiento para imponer las sanciones fijadas en la presente ley debe ajustarse a lo establecido en las normas de procedimiento administrativo aplicables en cada momento en la comunidad autónoma de las Illes Balears.
+2. El ejercicio de la potestad sancionadora corresponde a la consejería con competencias en materia de transporte marítimo, concretamente la tienen que ejercer:
+a) Las resoluciones por infracciones leves corresponden a la persona titular de la dirección general.
+b) Las resoluciones por infracciones graves o muy graves corresponden a la persona titular de la consejería.
+
+### Artículo 43
+
+Artículo 43. Medidas cautelares provisionales.
+1. Incoado el procedimiento sancionador, el órgano competente en la materia puede adoptar, a propuesta de la persona que instruye y mediante resolución motivada, las medidas cautelares provisionales que sean necesarias para asegurar la eficacia de la resolución que pueda dictarse, para preservar los intereses generales o para evitar el mantenimiento de los efectos de la infracción. La resolución que adopte la medida fijará un plazo para que el responsable adecue su actuación a la legalidad.
+2. Puede acordarse la suspensión temporal de la prestación del servicio de transporte hasta el cumplimiento de los requisitos exigidos, cuando tenga lugar el incumplimiento de las condiciones de prestación por causas imputables a la persona titular, con previa audiencia de la misma.
+
+### Artículo 44
+
+Artículo 44. Plazo máximo de resolución.
+El plazo máximo en que debe dictarse y notificarse la resolución del procedimiento sancionador es de un año desde la fecha de incoación. Transcurrido ese plazo sin que haya recaído resolución expresa, se acordará la caducidad del expediente.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Medidas de salvaguardia.
+1. En caso de que la liberalización del transporte marítimo produzca perturbaciones graves en los transportes marítimos a los que se refiere esta ley, el Gobierno de las Illes Balears, a través de las vías necesarias, puede dirigirse a la Comisión Europea en solicitud de medidas de salvaguardia, de acuerdo con lo previsto en la normativa comunitaria.
+2. Cuando la falta de servicio en una línea determine la incomunicación por vía marítima de una isla, la consejería competente en materia de transporte marítimo podrá acordar la concesión de una compensación económica al armador que, mediante una autorización provisional, se comprometa a restablecer la comunicación en las condiciones mínimas hasta la adjudicación del contrato de obligación de servicio público. En caso de que sean varios los operadores dispuestos a realizar este servicio, la autorización debe ser accesible a todos ellos, sin discriminación, sin perjuicio de que, en este caso, la naviera beneficiaria pueda ser seleccionada de conformidad con los procedimientos establecidos por la legislación de contratos para los supuestos de urgencia. En ningún caso la autorización provisional debe prolongarse más allá de seis meses en beneficio de una sola naviera.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Declaración de línea de interés estratégico.
+La declaración de línea de interés estratégico para líneas regulares de transporte marítimo interinsular no establecidas en el artículo 14 de esta ley corresponde al Consejo de Gobierno, a propuesta motivada de la persona titular de la consejería competente en materia de transporte marítimo.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Medidas para la modernización, la eficiencia y la economía administrativas.
+El Gobierno debe promover y facilitar el uso de la ofimática y de cuantas medidas de economía administrativa sean posibles para que la gestión administrativa sea más eficiente, y facilitar los cumplimientos formales de los administrados ante la administración y demás obligaciones como el suministro de datos, los controles documentales o las inspecciones.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Medidas de fomento de implantación de sistemas de gestión de calidad ambiental.
+El Gobierno promoverá y facilitará, mediante convocatorias de ayuda pública, la implantación de sistemas de gestión de calidad ambiental en el sector del transporte marítimo que opera en los puertos y puntos del litoral de las Illes Balears.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Bonificaciones a usuarios residentes.
+1. A los efectos de la percepción de las bonificaciones en los transportes de viajeros establecidas por razón de la residencia en las Illes Balears, se estará al Real Decreto 1340/2007, de 11 de octubre, o a la norma que lo sustituya.
+2. El Gobierno instará de la Administración del Estado, ofreciendo la colaboración necesaria, la modificación del Real Decreto 1340/2007, de 11 de octubre, para incorporar al transporte marítimo regular de viajeros de las Illes Balears un tratamiento informatizado del control de la condición de residente similar al del transporte aéreo, con la finalidad de simplificar y agilizar la tramitación del derecho a la bonificación el precio del transporte marítimo.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Subsistencia de los contratos de obligación de servicio público.
+Los contratos de obligación de servicio público vigentes a la entrada en vigor de esta ley mantienen la vigencia hasta su expiración.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Conversión de autorizaciones preexistentes.
+1. A partir de la entrada en vigor de esta ley, las autorizaciones otorgadas con anterioridad, excepto para las líneas declaradas de interés público, quedan convertidas en comunicaciones previas, y deben inscribirse de oficio con tal carácter en el Registro Balear de Navieros.
+2. La anterior conversión no exime a los transportistas de la obligación de acreditar el cumplimiento de los requisitos legales no exigidos por la normativa anterior. Transcurrido un año desde la entrada en vigor de esta ley sin que se cumpla este deber de adaptación, previo requerimiento por parte de la consejería competente y transcurridos quince días naturales sin que se proceda a esa acreditación, se acordará la suspensión de la actividad de transporte que vinieran realizando, con las consecuencias previstas en esta ley para la actividad sin título.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Frecuencias horarias de los servicios de transporte entre Formentera e Ibiza.
+Hasta la aprobación de frecuencias horarias de los servicios de transporte entre Formentera e Ibiza de acuerdo con el artículo 28.3 de esta ley, las franjas horarias en cada sentido de los servicios de transporte marítimo entre Formentera e Ibiza serán como mínimo las siguientes:
+Una salida temprana desde Formentera, a las 6:00 horas de la mañana. Con el servicio a la demanda.
+Dos conexiones matinales, con salidas entre las 7:30 horas y las 10:30 horas.
+Una conexión a media mañana, con salida entre las 10:30 horas y las 12:00 horas
+Dos conexiones al mediodía, con salidas entre las 12:00 horas y las 15:30 horas
+Dos conexiones por la tarde, con salidas entre las 16:00 horas y las 18:00 horas
+Dos conexiones vespertinas, con salidas entre las 18:00 horas y las 20:00 horas
+Una salida nocturna desde Ibiza, a las 21:30 horas
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Capacidad económica.
+Lo establecido en el artículo 17 relativo a la necesidad de que las empresas que quieran operar líneas de interés estratégico con obligaciones de servicio público acrediten una capacidad económica suficiente para garantizar la prestación del servicio, solo será exigible a aquellas empresas que empiecen a operar a partir de la entrada en vigor del reglamento que desarrolle esta Ley.
+Se añade por la disposición final 20.10 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df-20
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a lo establecido en esta ley.
+2. La Orden de la Consejería de Movilidad y Ordenación del Territorio de 25 de octubre de 2007, que regula la actividad de arrendamiento de embarcaciones de recreo, mantiene su vigencia.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+El Gobierno de las Illes Balears dictará las normas reglamentarias y disposiciones administrativas que requieran el desarrollo y la aplicación de esta ley en el plazo máximo de seis meses desde su entrada en vigor.
+
+### Disposición final segunda
+
+Disposición final segunda. Actualización de las sanciones.
+Se autoriza al Gobierno de las Illes Balears para actualizar anualmente las sanciones previstas en la presente ley en la cuantía que resulte de la evolución del Índice de Precios de Consumo (IPC) o del índice que lo sustituya.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley entra en vigor a los dos meses de su publicación en el «Butlletí Oficial de les Illes Balears».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que corresponda la hagan guardar.
+Palma, 2 de noviembre de 2010.–El Presidente, Francesc Antich Oliver.–El Consejero de Medio Ambiente y Movilidad, Gabriel Vicens i Mir.

@@ -1,0 +1,2895 @@
+# Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León.
+
+- Identificador BOE: `BOE-A-2002-976`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2002-976
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 16.4 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+El artículo cuarenta y cuatro del Estatuto de Autonomía de Castilla y León prevé, entre los recursos financieros que constituyen la Hacienda de la Comunidad, los rendimientos de sus propias tasas y precios públicos, sobre los que la Comunidad Autónoma puede legislar acomodando su regulación a lo establecido en la Ley Orgánica que regule la financiación de las Comunidades Autónomas.
+La Ley 7/1989, de 9 de noviembre, de Tasas y Precios Públicos de la Comunidad Autónoma de Castilla y León, que sustituyó a la Ley 4/1985, de 21 de junio, General de Tasas de la Comunidad, incorporó a nuestro ordenamiento la figura del precio público y el nuevo concepto de tasa establecido por la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, tras su reforma mediante Ley Orgánica 1/1989, de 13 de abril.
+Posteriormente, la Sentencia del Tribunal Constitucional número 185/1995, de 14 de diciembre, declaró la inconstitucionalidad parcial de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos del Estado, al considerar que la categoría de los precios públicos ha de cumplir simultáneamente dos requisitos: Que la solicitud del servicio o actividad administrativa que los ocasiona se realice en forma libre y espontánea por los administrados y que dicho servicio o actividad se preste también por el sector privado; de no concurrir ambas circunstancias, tales precios públicos, en cuanto comportan coactividad para los interesados, deben respetar el principio de legalidad establecido en el artículo 31.3 de la Constitución. Si bien dicha Sentencia se circunscribe al análisis del régimen de los precios públicos contenido en la citada Ley estatal, los argumentos utilizados por el Tribunal Constitucional afectan también decisivamente al concepto de tasa y además pueden ser aplicables a la Ley 7/1989, de Tasas y Precios Públicos de la Comunidad, ya que la delimitación conceptual que ésta efectúa es prácticamente idéntica a la estatal.
+Como consecuencia de los criterios definidos en la indicada sentencia, la Ley Orgánica 3/1996, de 27 de diciembre, que realiza una nueva modificación parcial de la Ley Orgánica de Financiación de las Comunidades Autónomas, establece un nuevo concepto de tasa más amplio que el anterior, que engloba además todas las figuras que, definidas en la anterior legislación como precios públicos, han sido consideradas por el Tribunal Constitucional prestaciones patrimoniales públicas recogidas en el apartado 3 del artículo 31 de la Constitución, y por tanto sometidas a la reserva de ley que dicho precepto establece, por lo que se hace preciso revisar la regulación contenida en nuestra Ley de Tasas y Precios Públicos.
+II
+A los motivos de constitucionalidad señalados, hay que añadir la necesidad de revisar los aspectos jurídicos, formales, cuantitativos y estructurales recogidos en la normativa hasta ahora vigente, reordenando y actualizando las concretas figuras de las tasas propias de la Comunidad, ajustando una normativa, que en muchos casos data de los años sesenta, a la realidad de las actuaciones actualmente desarrolladas por la Administración, revisando, también, unas tarifas, en algunos casos desfasadas, tomando como referencia y límite el coste real de las actuaciones desarrolladas, y racionalizando en general la estructura de estos tributos. En este sentido, el Tribunal Constitucional ha establecido que la creación y determinación de los elementos esenciales o configuradores de las tasas, y en general, de las prestaciones patrimoniales públicas coactivamente impuestas, debe realizarse por ley, aunque ello no excluye la posibilidad de que la ley pueda contener remisiones a normas reglamentarias, señalando los criterios o límites que orienten el marco de actuación del reglamento e impidan una actuación discrecional.
+Por ello es necesaria una nueva Ley de Tasas y Precios Públicos que, derogando totalmente la anterior para una mayor claridad, establezca el concepto y el régimen jurídico general de las tasas y precios públicos de la Comunidad Autónoma de Castilla y León, reordene las concretas figuras vigentes hasta ahora mediante, en algunos casos, la supresión de determinados supuestos de hecho que actualmente carecen de aplicación práctica, en otros, mediante la nueva redacción de hechos imponibles de tasas ya existentes en forma más clara, o que incluya actuaciones que la Administración ha comenzado a realizar recientemente, y en otros, mediante la agrupación bajo una única figura de distintos supuestos de hecho sometidos a gravamen en la actualidad pero dispersos en varias tasas que deben refundirse por razón de la materia.
+Además, la actualización y reestructuración de las tasas que se efectúa mediante esta Ley debe ser el inicio de una modernización general y una mejora sustancial en la gestión de estos importantes ingresos de Derecho público de la Comunidad.
+III
+En cuanto a su contenido, esta Ley se estructura en cuatro títulos. Los tres primeros contienen una serie de disposiciones generales (Título I) y el concepto, modo de establecimiento y régimen general de las tasas (Título II) y de los precios públicos (Título III). El Título IV contiene un catálogo completo de las tasas de la Comunidad incluyendo la regulación de los elementos esenciales o configuradores de cada una de ellas.
+La regulación de cada una de las tasas que se contienen en este Título IV tiene una estructura homogénea y define cada uno de los elementos que las conforman.
+Un gran número de las tasas vigentes en la actualidad en nuestra Comunidad tienen su origen en el paulatino traspaso de funciones y competencias del Estado a la Comunidad de Castilla y León, por ello muchos de los conceptos que en la actualidad están gravados, bien con tasas o bien con precios públicos, recogen figuras que, en su mayor parte, proceden de regulaciones estatales realizadas en los años 1950 y 1960. Esta situación determina que muchos aspectos de la regulación y las propias tarifas aplicables hayan quedado desfasadas u obsoletas y que, en consecuencia, sea necesario suprimir algunos supuestos que actualmente carecen de aplicación práctica, incluir otras actuaciones que la Administración ha comenzado a desarrollar recientemente y homogeneizar, en la medida de lo posible, ciertas actuaciones que se llevan a cabo por órganos diversos de la Administración de la Comunidad y que en la actualidad tienen regulaciones diferentes, como es el caso de la tasa por dirección e inspección de obras.
+Esta reordenación de las tasas de la Comunidad permitirá mejorar y modernizar los sistemas de gestión e ingreso de estos derechos de la Comunidad, además de facilitar su conocimiento por quienes hayan de cumplirlas.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de la Ley.
+1. La presente Ley establece el régimen jurídico de las tasas y los precios públicos propios de la Comunidad de Castilla y León que perciban la Administración General e Institucional de la Comunidad.
+2. Son tasas propias de la Comunidad:
+a) Las recogidas en esta Ley.
+b) Las que se establezcan de conformidad con lo que dispone esta Ley.
+c) Las que graven la utilización o prestación de los bienes o servicios que se transfieran por el Estado y, en su caso, por las Corporaciones Locales.
+3. Son precios públicos propios de la Comunidad los que se establezcan con sujeción a lo dispuesto en la presente Ley.
+4. La presente Ley no será de aplicación a las contraprestaciones obtenidas por los entes públicos cuando actúen según normas de Derecho privado.
+
+### Artículo 2
+
+Artículo 2. Régimen normativo.
+1. Las tasas de la Comunidad se regirán por esta Ley, por la Ley propia de cada tasa, en su caso, por las Leyes generales que les sean de aplicación y por las normas reglamentarias que las desarrollen, y supletoriamente por la normativa estatal en esta materia.
+2. Los precios públicos de la Comunidad se regirán por esta Ley, por las Leyes generales que les sean de aplicación y por las disposiciones normativas que los establezcan o desarrollen, y supletoriamente por la normativa estatal en esta materia.
+
+### Artículo 3
+
+Artículo 3. Régimen presupuestario.
+El rendimiento recaudatorio de las tasas y precios públicos tendrá la naturaleza de ingreso presupuestario de la Comunidad de Castilla y León y sus entidades institucionales, y se aplicará íntegramente al presupuesto que corresponda, destinándose a satisfacer el conjunto de las respectivas obligaciones, salvo que excepcionalmente y mediante Ley se establezca la afectación de algunos ingresos a finalidades concretas.
+
+### Artículo 4
+
+Artículo 4. Revisión de actos en vía administrativa.
+La revisión en vía administrativa de los actos dictados en materia de tasas se regirá por lo establecido en la Ley de la Hacienda de la Comunidad de Castilla y León.
+
+### Artículo 5
+
+Artículo 5. Responsabilidades.
+Las autoridades, funcionarios públicos, agentes u otro tipo de personal al servicio de la Administración General e Institucional de la Comunidad Autónoma que con dolo, culpa o negligencia graves exijan una tasa o un precio público indebidamente o adopten resoluciones o realicen actos que infrinjan la presente Ley o las demás normas reguladoras de esta materia, incurrirán en las responsabilidades que establece la Ley de la Hacienda de la Comunidad de Castilla y León.
+
+## TÍTULO II
+
+De las tasas
+
+### Artículo 6
+
+Artículo 6. Concepto.
+Las tasas de la Comunidad son tributos cuyo hecho imponible consiste en la utilización de su dominio público, así como en la prestación de servicios o la realización de actividades por la Administración de la Comunidad en régimen de derecho público que se refieran, afecten o beneficien de modo particular a los sujetos pasivos, cuando concurra cualquiera de las siguientes circunstancias:
+a) Que no sean de solicitud voluntaria para los administrados. A estos efectos, no se considerará voluntaria la solicitud por parte de los administrados:
+Cuando venga impuesta por disposiciones legales o reglamentarias.
+Cuando los bienes, servicios o actividades requeridos sean imprescindibles para la vida privada o social del solicitante.
+b) Que no se presten o realicen por el sector privado, esté o no establecida su reserva a favor del sector público conforme a la normativa vigente.
+
+### Artículo 7
+
+Artículo 7. Establecimiento y regulación.
+1. El establecimiento, la modificación y la supresión de las tasas de la Comunidad se realizarán por Ley.
+2. La Ley que establezca una tasa regulará al menos su hecho imponible, el sujeto pasivo, los elementos de cuantificación determinantes de la cuota, su devengo, y, en su caso, los beneficios tributarios.
+3. Las Leyes de presupuestos podrán modificar los elementos de cuantificación de las tasas.
+4. Cuando se autorice por Ley, con subordinación a los criterios, límites y elementos de cuantificación que determine la misma y a los que establece esta Ley, se podrán concretar mediante norma reglamentaria las cuantías exigibles para cada tasa.
+5. Con independencia de las eventuales actualizaciones anuales de las tarifas, en cualquier momento, a propuesta de la consejería competente por razón de la materia o de la consejería competente en materia de hacienda, se podrán revisar las cuotas de las tasas para garantizar el cumplimiento de los requisitos de cuantificación establecidos en el artículo 11 de esta ley. A este fin, se evaluará el coste del servicio, actividad o prestación vinculada a la tasa y el resto de los elementos de cuantificación recogidos en el artículo 11 de esta ley aplicando el procedimiento que establezca la consejería competente en materia de hacienda mediante orden.
+La aprobación de las cuotas revisadas se podrá realizar por orden de la consejería competente en materia de hacienda.
+Se modifica el apartado 5 por el art. 2.1 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Se añade el apartado 5 por el art. 38.1 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Véase, en cuanto a la revisión en el ejercicio 2012 de tasas y precios públicos, la disposición transitoria 4 de la citada ley.
+
+### Artículo 8
+
+Artículo 8. Sujetos pasivos y responsables.
+1. Serán sujetos pasivos de las tasas, en calidad de contribuyentes, y quedarán obligados al cumplimiento de las correspondientes prestaciones tributarias, las personas físicas o jurídicas que utilicen el dominio público o que resulten afectadas o beneficiadas, personalmente o en sus bienes, por el servicio prestado o la actividad realizada que constituyan el hecho imponible.
+2. La Ley que establezca cada tasa podrá designar sustitutos del contribuyente cuando las características del hecho imponible lo aconsejen.
+3. En su caso, tendrán la consideración de sujetos pasivos las herencias yacentes, comunidades de bienes y demás entidades sin personalidad jurídica que constituyan una unidad económica o un patrimonio separado susceptible de imposición.
+4. La concurrencia de dos o más titulares respecto al hecho imponible obligará a éstos solidariamente.
+5. Las responsabilidades solidaria y subsidiaria se exigirán de conformidad con lo que disponga la normativa general tributaria.
+
+### Artículo 9
+
+Artículo 9. Exenciones y bonificaciones.
+1. Con carácter general, salvo que la regulación de cada tasa establezca lo contrario, gozarán de exención subjetiva la Administración General e Institucional de esta Comunidad, las Diputaciones Provinciales, Ayuntamientos, Mancomunidades, Juntas Administrativas de Entidades Locales Menores, Consejos Comarcales y otros Entes Locales, respecto a los bienes, servicios y actividades que demanden de oficio y sean necesarios para el cumplimiento de sus fines.
+2. Sin perjuicio de lo previsto en el número cuatro del artículo once, solamente podrán establecerse otros beneficios tributarios en las tasas de la Comunidad mediante Ley o como consecuencia de lo establecido en tratados o acuerdos internacionales que hayan pasado a formar parte del ordenamiento interno.
+3. Para la aplicación a las exenciones y bonificaciones de las tasas de los límites establecidos en función de la base imponible del sujeto pasivo, se estará a lo previsto en la normativa reguladora del Impuesto sobre la Renta de las Personas Físicas.
+Se añade el apartado 3 por el art. 11 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+### Artículo 10
+
+Artículo 10. Devengo.
+1. Salvo que la regulación específica de cada tasa en otra Ley o en el Título IV de ésta disponga otra cosa, las tasas se devengarán en el momento en que se conceda la utilización del dominio público o se inicie la prestación del servicio o el ejercicio de la actividad de que se trate, sin perjuicio de lo dispuesto en el número uno del artículo trece.
+2. Cuando la prestación del servicio o la realización de la actividad administrativa se produzca de forma sucesiva e ininterrumpida, la tasa se devengará el primer o el último día del período impositivo, según se establezca en cada caso.
+
+### Artículo 11
+
+Artículo 11. Cuota tributaria.
+1. La cuota de las tasas podrá consistir en una cantidad fija, determinarse en función de un tipo de gravamen aplicable sobre elementos cuantitativos que sirvan de base imponible o establecerse conjuntamente por ambos procedimientos.
+2. La cuantificación de la cuota de las tasas se efectuará de manera que el rendimiento estimado por su aplicación tienda a cubrir en su conjunto, sin exceder de él, el coste total real o previsible del servicio o actividad de que se trate o, en su defecto, del valor de la prestación recibida. La cuota de las tasas por la utilización del dominio público se cuantificará tomando como referencia el coste de mantenimiento en condiciones normales de uso de los bienes de que se trate, así como la utilidad que reporte al sujeto pasivo.
+3. Para la determinación del coste total de un servicio o actividad se considerarán tanto los costes directos como indirectos, incluso los de amortización y generales que sean de aplicación.
+4. Cuando las características de las tasas lo permitan, sus cuotas se fijarán teniendo en cuenta la capacidad económica de las personas que deban satisfacerlas.
+5. Cuando el hecho imponible de las tasas consista en la realización de actividades o la prestación de servicios considerados de interés general, la Comunidad Autónoma podrá asumir la financiación de parte de los costes de tales actividades o servicios.
+6. Los proyectos normativos dirigidos al establecimiento de una tasa o a la modificación de sus cuotas, que no sean una mera actualización general de cuantías, deberán incluir entre sus antecedentes una memoria que incluya un análisis económico-financiero sobre el coste o valor del servicio o actividad de que se trate y sobre la justificación de las cuotas propuestas.
+
+### Artículo 12
+
+Artículo 12. Gestión.
+1. La gestión, liquidación y recaudación en período voluntario de cada tasa corresponderá a la Consejería u Organismo que deba, en función de la materia, autorizar o conceder el uso del dominio público, realizar la actividad o prestar el servicio gravados, aplicando los principios y procedimientos establecidos por la normativa general tributaria.
+2. Corresponden a la Consejería de Economía y Hacienda las funciones directivas y de control tanto con relación al tributo como en relación a los órganos que tengan encomendada su gestión, la recaudación de las tasas en período ejecutivo y la inspección de estos tributos, sin perjuicio de que pueda establecerse la colaboración de los órganos gestores de cada tasa y de las facultades de comprobación que a éstos atribuye la normativa tributaria.
+3. Cuando la regulación específica o reglamentaria lo establezca, los sujetos pasivos de las tasas estarán obligados a practicar operaciones de autoliquidación tributaria y a ingresar el importe resultante de las mismas. En estos casos, los órganos gestores de la Administración podrán comprobar las declaraciones-liquidaciones presentadas y practicar cuando proceda, previa puesta de manifiesto a los interesados a efectos de que aleguen lo que estimen pertinente, liquidación provisional de oficio para regularizar las cuotas autoliquidadas por el sujeto pasivo. De igual manera, podrán dictar liquidaciones provisionales de oficio cuando los elementos de prueba que obren en su poder pongan de manifiesto la realización de un hecho imponible o la existencia de elementos del mismo que no hayan sido declarados, o la existencia de elementos determinantes de la cuantía de la deuda tributaria distintos a los declarados.
+4. Reglamentariamente se desarrollará el procedimiento de gestión, liquidación y recaudación de las tasas de la Comunidad.
+5. Las tasas de devengo periódico podrán ser notificadas colectivamente mediante publicación en el «Boletín Oficial de Castilla y León», siempre que la liquidación correspondiente al alta en el respectivo registro, padrón, censo o matrícula hubiera sido notificada individualmente al sujeto pasivo y se hubiese advertido a éste que las posteriores notificaciones se efectuarían en la forma señalada en este apartado.
+
+### Artículo 13
+
+Artículo 13. Pago.
+1. El pago de las tasas se exigirá, con carácter general, por anticipado o simultáneamente a la prestación del servicio o realización de la actividad correspondiente o a la utilización del dominio público gravados.
+2. Los plazos y medios de pago de las tasas, así como su aplazamiento o fraccionamiento, se regirán por lo establecido en la normativa recaudatoria de la Comunidad.
+3. La recaudación de las tasas no ingresadas en período voluntario se realizará mediante el procedimiento administrativo de apremio.
+
+### Artículo 14
+
+Artículo 14. Devolución.
+Cuando no llegue a utilizarse el dominio público, a prestarse el servicio o a realizarse la actividad gravada por causas no imputables, directa o indirectamente, al sujeto pasivo, habiéndose ingresado anticipadamente la tasa, procederá la devolución, de oficio o a instancia de parte, del importe que por tal concepto haya sido satisfecho y, en su caso, de los intereses que correspondan. También procederá la devolución en los otros supuestos de ingresos indebidos previstos por la normativa general tributaria.
+
+### Artículo 15
+
+Artículo 15. Infracciones y sanciones.
+La calificación y régimen jurídico de las infracciones tributarias en relación con las tasas de la Comunidad, y la imposición de las correlativas sanciones, se regirá por lo establecido en la normativa tributaria general.
+
+## TÍTULO III
+
+De los precios públicos
+
+### Artículo 16
+
+Artículo 16. Concepto.
+1. Son precios públicos las contraprestaciones pecuniarias que han de satisfacerse por la prestación de servicios o la realización de actividades por la Administración en régimen de Derecho público cuando tales servicios o actividades sean prestados o realizadas también por el sector privado y su solicitud o recepción sea voluntaria por los administrados.
+2. A efectos de lo dispuesto en el número anterior, no se considerará voluntaria la solicitud por parte de los administrados:
+a) Cuando les venga impuesta por disposiciones legales o reglamentarias.
+b) Cuando los servicios o actividades requeridos sean imprescindibles para la vida privada o social del solicitante.
+
+### Artículo 17
+
+Artículo 17. Establecimiento.
+1. El establecimiento o modificación de los precios públicos se realizará mediante decreto de la Junta de Castilla y León, a propuesta del consejero competente por razón de la materia, previo informe de la consejería competente en materia de hacienda y el resto de trámites previstos, en su caso, en la legislación sectorial vigente. Las propuestas de establecimiento o modificación de precios públicos que no consistan en una mera actualización general de cuantías deberán acompañarse de una memoria económico-financiera en donde se justifiquen los importes propuestos y el grado de cobertura financiera de los costes correspondientes.
+2. Mediante decreto de la Junta de Castilla y León, a propuesta de la consejería competente en materia de hacienda, se actualizarán con periodicidad anual los importes de los precios públicos, atendiendo a la evolución del índice de los precios de consumo. Se excluirán de esta actualización los precios públicos que hayan sido establecidos o modificados en el ejercicio anterior.
+3. Con independencia de las actualizaciones anuales previstas en el apartado anterior, en cualquier momento, a propuesta de la consejería competente por razón de la materia o de la consejería competente en materia de hacienda, se podrán revisar los importes de los precios públicos para garantizar el cumplimiento de los requisitos de cuantificación establecidos en el artículo 19 de esta ley. A este fin, se evaluará el coste del servicio o actividad vinculada al precio y el resto de los elementos de cuantificación recogidos en el artículo 19 de esta ley aplicando el procedimiento que establezca la consejería competente en materia de hacienda mediante orden.
+Se modifica el apartado 3 por el art. 2.2 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Se modifica por el art. 38.2 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Véase, en cuanto a la revisión en el ejercicio 2012 de tasas y precios públicos, la disposición transitoria 4 de la citada ley.
+
+### Artículo 18
+
+Artículo 18. Obligados al pago.
+Están obligados al pago de los precios públicos las personas físicas o jurídicas que resulten afectadas o beneficiadas, personalmente o en sus bienes, por la actividad cuya realización los origina. En su caso, corresponderá el pago a las herencias yacentes, comunidades de bienes y demás entidades sin personalidad jurídica que constituyan una unidad económica o un patrimonio separado.
+
+### Artículo 19
+
+Artículo 19. Importes.
+1. En general, la cuantía de los precios públicos se fijará de modo que, como mínimo, cubra los costes económicos totales originados por la prestación de los servicios o la realización de las actividades en relación con los cuales se establezcan, teniéndose además en cuenta la utilidad derivada de la prestación administrativa para el interesado.
+2. Salvo que una norma con rango de ley dictada por el Estado disponga lo contrario, las exenciones y bonificaciones aplicables a los precios públicos se establecerán teniendo en cuenta la capacidad económica de los obligados al pago, y en el supuesto de resultar necesario, previa adopción de las previsiones presupuestarias precisas para la cobertura de la parte de coste subvencionada.
+Se modifica el apartado 2 por el art. 11 de la Ley 4/2012, de 16 de julio. Ref. BOE-A-2012-10158
+ Véase, en cuanto a su aplicación, la disposición final 8 de la citada ley.
+
+### Artículo 20
+
+Artículo 20. Administración y cobro.
+1. La administración y cobro de los precios públicos se realizará por las Consejerías u Organismos a quienes corresponda la prestación de los servicios o la realización de las actividades, sin perjuicio de las facultades de dirección, supervisión y control propias de la Consejería de Economía y Hacienda.
+2. Los precios públicos serán exigibles desde el inicio de la realización de la actividad o prestación del servicio. No obstante, podrá establecerse la exigencia de pago o depósito previos del importe total o parcial de los mismos.
+3. El pago de los precios públicos se realizará en efectivo, salvo que expresamente se posibilite la utilización de otro medio de pago.
+4. Procederá la devolución de los importes pagados cuando, por causas no imputables al obligado al pago, no se realice la actividad o se preste el servicio.
+5. Las deudas por precios públicos podrán exigirse mediante el procedimiento administrativo de apremio.
+6. Reglamentariamente se desarrollará el procedimiento de administración y cobro de los precios públicos de la Comunidad.
+
+## TÍTULO IV
+
+De la regulación específica de las tasas de la Comunidad
+
+## CAPÍTULO I
+
+Tasa del Boletín Oficial de Castilla y León
+Se modifica por el art. 6 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 21
+
+Artículo 21. Hecho imponible.
+1. Constituye el hecho imponible de esta tasa la inserción de anuncios de pago en el Boletín Oficial de Castilla y León.
+2. Son anuncios de pago todos aquellos que no estén declarados reglamentariamente como oficiales, y en concreto:
+a) Los anuncios de particulares cuando la normativa establezca su publicación obligatoria.
+b) La publicación de escrituras, convocatorias, balances, tarifas y cualquier otro documento de entidades, bancos, sociedades y en general de cualquier persona física o jurídica que se efectúe por mandato del ordenamiento jurídico.
+c) Los relativos a procedimientos de concesiones, licencias, autorizaciones y permisos de explotaciones industriales, mineras u otras análogas, instruidos de oficio o a instancia del interesado para el provecho o beneficio de este último, así como, en su caso, los derivados de procedimientos en materia de contratación pública.
+Se modifica por el art. 6 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 22
+
+Artículo 22. Sujeto Pasivo.
+1. Son sujetos pasivos de la tasa quienes soliciten la inserción de los anuncios gravados.
+2. Los obligados al pago de la tasa de los anuncios gravados son quienes soliciten la inserción, salvo en el caso de los anuncios previstos en el artículo 21.2.c) que lo serán los interesados en los procedimientos previstos en dicho artículo.
+Se modifica por el art. 6 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 23
+
+Artículo 23. Cuota por inserción de anuncios.
+Por inserción de anuncios: 0,125 euros por dígito.
+Se modifica el art. 2.1 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se modifica por el art. 5 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica por el art. 12 de la Ley 4/2012, de 16 de julio. Ref. BOE-A-2012-10158
+ Se modifica por el art. 6 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+ Se modifica el apartado 3 por el art. 14 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+ Se modifica por el art. 16 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1183
+
+### Artículo 24
+
+Artículo 24. Pago.
+1. El pago de la tasa se exigirá, con carácter general, por adelantado.
+2. No obstante en los anuncios derivados de procedimientos en materia de contratación pública podrá diferirse el pago hasta el momento en que se conozca el sujeto obligado al mismo.
+Se modifica por el art. 6 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+## CAPÍTULO II
+
+Tasa en materia de Asociaciones, Fundaciones y Colegios Profesionales
+Se deroga por la disposición derogatoria de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifica por el art. 31 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+
+### Artículos 25 a 27
+
+Artículos 25 a 27.
+(Derogados).
+Se derogan por la disposición derogatoria de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifica por el art. 31 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+
+### Artículo 25
+
+Artículo 25. Hecho imponible.
+Constituyen el hecho imponible de esta tasa las siguientes actuaciones administrativas:
+1. En relación con el Registro de Colegios Profesionales y Consejos de Colegios de Castilla y León: la obtención de información mediante certificación, nota simple, copia del contenido de los asientos o copia de la documentación depositada.
+2. En relación con los Registros de Asociaciones de Castilla y León:
+a) La obtención de información mediante certificación, nota simple, copia del contenido de los asientos o copia de la documentación depositada.
+b) La inscripción de asociaciones o de federaciones, confederaciones y uniones de asociaciones, de cualquier ámbito.
+c) La inscripción de modificaciones estatutarias de cualquiera de las entidades inscritas.
+3. En relación con el Registro de Fundaciones de Castilla y León:
+a) La inscripción de los siguientes actos:
+1.º La primera inscripción de una fundación.
+2.º La modificación de los estatutos de una fundación.
+3.º La fusión entre dos o más fundaciones.
+4.º El otorgamiento de poderes por el órgano competente de la fundación.
+5.º La enajenación o gravamen de bienes o derechos de una fundación, cuando se requiera la previa autorización del protectorado.
+b) La obtención de información mediante certificación, nota simple o reproducción de asientos.
+c) La obtención de certificaciones referidas a la existencia de fundaciones inscritas o pendientes de inscribir en el Registro de Fundaciones de Castilla y León, con denominación coincidente o similar a la indicada por el solicitante, así como las prórrogas que sobre dichas certificaciones se soliciten.
+Se modifica por el art. 12 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se modifica por el art. 13.1 de la Ley 4/2012, de 16 de julio. Ref. BOE-A-2012-10158
+ Se modifica por el art. 31 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+ Se modifica por el art. 15 de la Ley 21/2002, de 27 de diciembre. Ref. BOE-A-2003-1918
+
+### Artículo 26
+
+Artículo 26. Sujeto pasivo y devengo.
+1. Son sujetos pasivos de la tasa quienes soliciten las actuaciones que constituyen el hecho imponible.
+2. La tasa se devengará cuando se realicen las correspondientes actuaciones administrativas. No obstante, su pago se exigirá por anticipado, en el momento en que se formule la solicitud de la actuación administrativa que constituye el hecho imponible.
+Se modifica por el art. 12 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se modifica por el art. 31 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+
+### Artículo 27
+
+Artículo 27. Cuota.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. En relación con el Registro de Colegios Profesionales y Consejos de Colegios de Castilla y León, por la obtención de información mediante certificación, nota simple, copia del contenido de los asientos o copia de la documentación depositada: 5 euros.
+2. En relación con los Registros de Asociaciones de Castilla y León:
+a) Por la obtención de información mediante certificación, nota simple, copia del contenido de los asientos o copia de la documentación depositada: 5 euros.
+b) Por la inscripción de una asociación de ámbito local o provincial: 25 euros.
+c) Por la inscripción de federaciones, confederaciones y uniones de asociaciones de ámbito local o provincial: 30 euros.
+d) Por la inscripción de una asociación de ámbito autonómico: 45 euros.
+e) Por la inscripción de federaciones, confederaciones y uniones de asociaciones de ámbito autonómico: 50 euros.
+f) Por la inscripción de modificaciones estatutarias de cualquiera de las entidades inscritas en los Registros de Asociaciones: 20 euros.
+3. En relación con el Registro de Fundaciones de Castilla y León:
+a) Por la inscripción de los siguientes actos:
+1.º La primera inscripción de una fundación: 35 euros.
+2.º La modificación de los estatutos de una fundación: 20 euros.
+3.º La fusión de dos o más fundaciones: 20 euros.
+4.º El otorgamiento de poderes por el órgano competente de una fundación: 20 euros.
+5.º La enajenación o gravamen de bienes o derechos que requieren previa autorización del Protectorado: 10 euros.
+b) Por la obtención de información mediante certificación, nota simple o reproducción de asientos: 5 euros.
+c) Por la obtención de certificaciones referidas a la existencia de fundaciones inscritas o pendientes de inscribir en el Registro de Fundaciones de Castilla y León, con denominación coincidente o similar a la indicada por el solicitante, así como de las prórrogas que se concedan de dichas certificaciones: 5 euros.
+Se modifica por el art. 12 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se modifica por el art. 13.2 de la Ley 4/2012, de 16 de julio. Ref. BOE-A-2012-10158
+ Se modifica por el art. 31 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+ Se modifica por el art. 15 de la Ley 21/2002, de 27 de diciembre. Ref. BOE-A-2003-1918
+
+## CAPÍTULO III
+
+Tasa por la participación en las pruebas de selección para acceder a la condición de personal al servicio de la Administración de la Comunidad y en pruebas de selección convocadas y gestionadas por la Administración de la Comunidad mediante convenio para acceder a otras Administraciones Públicas.
+Se modifica el título por el art. 2.3 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+
+### Artículo 28
+
+Artículo 28. Hecho imponible.
+Constituye el hecho imponible de la tasa la actividad administrativa derivada de la participación como aspirantes en las pruebas selectivas de acceso a los Cuerpos y Escalas de funcionarios, a las categorías de personal estatutario o las categorías de personal laboral convocadas por la Administración de la Comunidad de Castilla y León, así como en las pruebas selectivas de acceso a otras Administraciones Públicas, convocadas y gestionadas por la Administración de la Comunidad mediante convenio.
+Se modifica por el art. 2.4 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Se modifica por el art. 15 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 29
+
+Artículo 29. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas que soliciten la participación como aspirantes en dichas pruebas selectivas.
+La tasa se devengará en el momento de la solicitud de la participación en las pruebas selectivas, la solicitud no se admitirá mientras no se haya efectuado el pago de la tasa, excepto para los opositores exentos de su pago.
+
+### Artículo 30
+
+Artículo 30. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Pruebas selectivas de acceso a Cuerpos o Escalas de funcionarios:
+a) Grupo A: 4.100 pesetas (24,64).
+b) Grupo B: 3.405 pesetas (20,46).
+c) Grupo C: 2.040 pesetas (12,26).
+d) Grupo D: 1.365 pesetas (8,20).
+2. Pruebas selectivas de acceso a las categorías del personal laboral:
+a) Grupo I: 2.355 pesetas (14,15).
+b) Grupo II: 1.570 pesetas (9,44).
+c) Grupos III y IV: 1.185 pesetas (7,12).
+d) Grupos V y VI: 765 pesetas (4,60).
+3. Pruebas selectivas de acceso a categorías de personal estatutario, en virtud del título exigido para su ingreso y de conformidad con la clasificación regulada en los artículos 6 y 7 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:
+a) Licenciados con título de especialista en Ciencias de la Salud, licenciados sanitarios y licenciados universitarios o personal con título equivalente: 27,30 euros.
+b) Diplomados con título de especialista en Ciencias de la Salud, diplomados sanitarios y diplomados universitarios o personal con título equivalente: 22,70 euros.
+c) Técnicos superiores o personal con título equivalente: 13,65 euros.
+d) Técnicos o personal con título equivalente: 9,15 euros.
+e) Otro personal: 8 euros.
+4. En el caso de tratarse de una prueba de selección convocada y gestionada por la Administración autonómica mediante convenio para la cobertura de plazas de los Cuerpos de Policía Local de ayuntamientos de la Comunidad de Castilla y León: 38 euros.
+Se añade el apartado 4 por el art. 2.5 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Se añade el apartado 3 por el art. 16 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 31
+
+Artículo 31. Exenciones y bonificaciones.
+1. Estarán exentas del pago de la tasa:
+a) Las personas con discapacidad igual o superior al 33 por 100.
+b) Los participantes en las pruebas selectivas que se convoquen dentro de procesos generales de reordenación de la función pública dirigidos en exclusiva al personal al servicio de la Administración de la Comunidad de Castilla y León.
+c) Los miembros de las familias numerosas que tengan reconocida tal condición.
+d) Los participantes en las pruebas selectivas que tengan la condición de víctima del terrorismo conforme a lo previsto en los apartados 1 y 2 del artículo 2 de la Ley 4/2017, de 26 de septiembre, de Reconocimiento y Atención a las Víctimas del Terrorismo en Castilla y León.
+2. Tendrán una reducción del 50 por 100 los sujetos pasivos que, como personal al servicio de la Administración de la Comunidad de Castilla y León, participen en las pruebas selectivas por promoción interna.
+3. Las bonificaciones y exenciones reguladas en las letras b) y c) del apartado 1 y en el apartado 2 anteriores sólo serán de aplicación cuando la base imponible total, menos el mínimo personal y familiar, del sujeto pasivo de la tasa no supere 18.900 euros en tributación individual o 31.500 en tributación conjunta.
+Se añade la letra d) al apartado 1 por el art. 2.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Se añade el apartado 3 por el art. 13 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se añade la letra c) al apartado 1 por el art. 17 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1183
+
+### Artículo 32
+
+Artículo 32. Expresión de las cuantías en las convocatorias.
+Las cuantías exigibles por la tasa se consignarán expresamente en las resoluciones que convoquen las correspondientes pruebas selectivas.
+
+## CAPÍTULO IV
+
+Tasa en materia de espectáculos y actividades recreativas
+
+### Artículo 33
+
+Artículo 33. Hecho imponible.
+Constituye el hecho imponible de esta tasa las actuaciones administrativas desarrolladas para la tramitación de autorizaciones relativas a la celebración o realización de espectáculos públicos o actividades recreativas.
+
+### Artículo 34
+
+Artículo 34. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten o en cuyo interés se realicen las actuaciones administrativas que constituyen el hecho imponible.
+
+### Artículo 35
+
+Artículo 35. Responsables.
+Son responsables solidarios del pago de la tasa los titulares de los establecimientos donde hayan de celebrarse los espectáculos públicos o las actividades recreativas.
+
+### Artículo 36
+
+Artículo 36. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+a) Autorización de pruebas deportivas: 2.580 pesetas (15,51).
+b) Autorización de espectáculos taurinos: 6.990 pesetas (42,01).
+c) Autorización de espectáculos taurinos populares: 3.965 pesetas (23,83).
+
+### Artículo 37
+
+Artículo 37. Bonificaciones.
+La cuota de la tasa se reducirá un 25 por 100 en poblaciones de menos de 5.000 habitantes y un 10 por 100 en poblaciones de más de 5.000 pero menos de 25.000 habitantes.
+
+## CAPÍTULO V
+
+Tasa en materia de juego
+
+### Artículo 38
+
+Artículo 38. Hecho imponible.
+Constituye el hecho imponible de esta tasa la actuación administrativa desarrollada en interés del administrado o peticionario en orden a la obtención de autorizaciones y homologaciones, modificaciones de las mismas, diligenciado de libros y expedición de documentos tanto en materia de apuestas y juegos de suerte, envite o azar, como respecto de los establecimientos en los que se practican.
+
+### Artículo 39
+
+Artículo 39. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten o en cuyo interés se realicen las actuaciones administrativas que constituyen el hecho imponible.
+
+### Artículo 40
+
+Artículo 40. Devengo.
+La tasa se devengará cuando se realicen las correspondientes actuaciones administrativas. No obstante, su pago se exigirá por anticipado, en el momento en que se formule la solicitud, en las actuaciones realizadas a instancia de parte.
+
+### Artículo 41
+
+Artículo 41. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Autorizaciones y declaraciones responsables:
+a) De funcionamiento de casinos de juego: 2.774,26 euros.
+b) De funcionamiento de salas de bingo: 659,05 euros.
+c) De funcionamiento de salones de juego: 493,50 euros.
+d) De funcionamiento de casas de apuestas: 493,50 euros.
+e) De instalación de máquinas de juego en establecimientos no específicos de juego: 89,18 euros.
+f) De inscripción en el Registro de Empresas relacionadas con las Máquinas Recreativas y de Azar: 130,37 euros.
+g) De homologación de material de juego: 130,37 euros.
+h) De celebración del juego de las chapas: 31,73 euros.
+i) De interconexión de máquinas: 40,82 euros.
+j) De cambio de titularidad de establecimientos no específicos de juego: 44,59 euros.
+k) De emplazamiento de máquinas de juego y azar: 40,82 euros.
+l) De terminales físicos accesorios de juego online: 493,50 euros.
+m) De zona o córner de apuestas: 493,50 euros.
+2. Renovaciones, modificaciones, transmisiones y extinciones: Por la renovación, modificación, transmisión o extinción de las anteriores autorizaciones y de las autorizaciones de instalación de salas de bingo, salones de juego y casas de apuestas se exigirá el 50% de las cuotas establecidas en el apartado anterior, salvo aquellas que procedan para los casinos de juego y que afecten a límites de apuestas, horarios, modificaciones de juegos, periodo anual, escrituras o estatutos, garantías, cargas reales o suspensión de funcionamiento, en que se exigirá una cuota de 441,70 euros.
+3. Cancelación de la inscripción en el registro de personas que tienen prohibido el acceso al juego: 20,30 Euros.
+4. Consulta previa de viabilidad de salón de juego: 246,75 Euros.
+5. Consulta previa de viabilidad de Casa de apuestas 246,75 Euros.
+6. Emisión de duplicados y certificaciones: 11,30 Euros.
+7. Diligenciado de libros:
+– Hasta 100 páginas: 9.58 Euros.
+– Por cada página que exceda de 100: 0,33 Euros.
+Se modifica por el art. 2.1 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+ Se modifica el apartado 1 por el art. 6 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica por el art. 39 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se modifica el apartado 1 por el art. 32 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+
+## CAPÍTULO VI
+
+Tasa por acreditación de laboratorios de ensayo para el control de calidad de la construcción
+Se deroga por la disposición derogatoria única de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+
+### Artículo 42
+
+Artículo 42. Hecho imponible.
+Constituye el hecho imponible de la tasa la realización por la Administración de las actuaciones precisas para conceder la acreditación de laboratorios de ensayo para el control de calidad de la construcción, su seguimiento y renovación.
+
+### Artículos 42 a 45
+
+Artículos 42 a 45.
+(Derogados)
+Se derogan por la disposición derogatoria única de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+
+### Artículo 43
+
+Artículo 43. Sujeto pasivo.
+Son sujetos pasivos de la tasa los titulares de laboratorios de ensayo para el control de calidad de la construcción que soliciten, o para quienes se efectúen, las actuaciones administrativas constitutivas del hecho imponible.
+
+### Artículo 44
+
+Artículo 44. Devengo.
+1. El gravamen por acreditación o renovación de la misma se devengará cuando se realicen las correspondientes actuaciones administrativas. No obstante, su pago se exigirá por anticipado, en el momento en que se formule la solicitud.
+2. El gravamen por seguimiento de la acreditación se devengará el 1 de enero de cada año. En el caso de precisarse segundas o ulteriores inspecciones anuales a consecuencia de reparos u objeciones en las precedentes, el devengo se producirá al iniciarse la actuación administrativa. En ambos casos el pago se exigirá por anticipado.
+
+### Artículo 45
+
+Artículo 45. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Por expediente de acreditación:
+a) Por una sola área: 141.690 pesetas (851,57).
+b) Por cada área adicional: 70.950 pesetas (426,42).
+2. Por seguimiento de la acreditación:
+a) Por una sola área: 65.050 pesetas (390,96).
+b) Por cada área adicional: 32.525 pesetas (195,48).
+3. Por la realización de segundas o ulteriores inspecciones, considerándose como tales las realizadas a consecuencia de reparos u objeciones en la primera inspección previa a la acreditación o en la primera anual de seguimiento:
+a) Si la inspección se refiere a una sola área: 41.957 pesetas (252,17).
+b) Por cada área adicional a inspeccionar: 20.978 pesetas (126,08).
+4. Por renovación de la acreditación: 37.875 pesetas (227,63).
+
+## CAPÍTULO VII
+
+Tasa en materia de vivienda
+
+### Artículo 46
+
+Artículo 46. Hecho imponible.
+Constituye el hecho imponible de esta tasa el examen por la Administración de la documentación técnica y jurídica para el otorgamiento de la calificación de las actuaciones en materia de vivienda que tengan la consideración de protegibles con arreglo a la legislación vigente, así como el reconocimiento e inspección de las viviendas, en su caso.
+
+### Artículo 47
+
+Artículo 47. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten las actuaciones administrativas que constituyen el hecho imponible.
+
+### Artículo 48
+
+Artículo 48. Liquidación complementaria.
+1. Se practicará una liquidación complementaria en el momento de la calificación definitiva respecto a las actuaciones protegibles en los proyectos en los que se apruebe un incremento del presupuesto inicial de más de un 10 por 100.
+2. La liquidación complementaria se calculará tomando como base la totalidad del aumento producido en el presupuesto.
+
+### Artículo 49
+
+Artículo 49. Cuotas.
+1. La tasa se exigirá de acuerdo con las siguientes cuotas:
+a) Calificación de viviendas de protección pública para venta: Se aplicará la siguiente escala de gravamen en función del presupuesto protegible, siendo como mínimo el importe en cada tramo igual al importe máximo correspondiente al tramo anterior:
+Presupuesto protegible
+ Cuota
+ –
+ %
+ Hasta 60.101,21 euros.
+ 0,100
+ De 60.101,22 euros a 300.506,05 euros
+ 0,090
+ De 300.506,06 euros a 721.214,53 euros
+ 0,080
+ De 721.214,54 euros a 1.202.024,20 euros
+ 0,070
+ De 1.202.024,21 euros a 1.803.036,31 euros
+ 0,065
+ De 1.803.036,32 euros a 3.005.060,52 euros
+ 0,060
+ De 3.005.060,53 euros a 4.808.096,84 euros
+ 0,055
+ Más de 4.808.096,84 euros
+ 0,050
+b) Calificación de viviendas de protección pública para arrendamiento: Se aplicará un coeficiente reductor de 0,80 sobre los valores definidos en la tabla anterior.
+c) Calificación de rehabilitación de viviendas de protección pública, ya sea para venta o para arrendamiento: Se aplicará un coeficiente del 0,50 sobre los valores definidos en los apartados anteriores, según la calificación de que se trate.
+2. Tendrán la consideración de viviendas de protección pública las previstas en las disposiciones autonómicas aplicables en materia de vivienda protegida.
+Se modifica por el art. 6 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 50
+
+Artículo 50. Exenciones.
+Están exentos del pago de esta tasa las cooperativas y sociedades municipales que sean promotoras de viviendas de protección oficial y asimismo la que se devengue por rehabilitaciones de viviendas en conjuntos declarados históricos. La rehabilitación afectará cuando menos al 50 por 100 de la vivienda.
+
+## CAPÍTULO VIII
+
+Tasa en materia de servicios de comunicación audiovisual
+Se modifica por el art. 7 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+
+### Artículo 51
+
+Artículo 51. Hecho imponible.
+Constituye el hecho imponible de esta tasa las actuaciones administrativas desarrolladas por la Administración de la Comunidad de Castilla y León, en el ámbito de los servicios de comunicación audiovisual, y en particular:
+a) El otorgamiento de las licencias para la prestación del servicio de comunicación audiovisual previstas en los artículos 22.3 y 32.3 de la Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual.
+b) La renovación de las licencias.
+c) La autorización previa de la celebración de negocios jurídicos sobre las licencias reguladas en el artículo 22 de la citada ley.
+d) La expedición de certificaciones acreditativas de los datos y documentos obrantes en el Registro de Prestadores de Servicios de Comunicación Audiovisual de Castilla y León.
+Se modifica por el art. 3.1 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica por el art. 7 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+
+### Artículo 52
+
+Artículo 52. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten y obtengan las actuaciones administrativas constitutivas del hecho imponible.
+Se modifica por el art. 7 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+
+### Artículo 53
+
+Artículo 53. Devengo.
+La tasa se devengará:
+a) En el otorgamiento de licencias, cuando se otorguen.
+b) En los negocios jurídicos sobre las mismas, cuando se autoricen, sin que surtan efecto ni puedan ser inscritos en el Registro de Prestadores de Servicios de Comunicación Audiovisual de Castilla y León sin la acreditación del pago de la tasa devengada.
+c) En la renovación de las licencias y en la expedición de certificaciones acreditativas de los datos y documentos obrantes en el Registro de Prestadores de Servicios de Comunicación Audiovisual de Castilla y León, cuando se realicen las actuaciones administrativas gravadas. No obstante su pago se exigirá por adelantado.
+Se modifica por el art. 3.2 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica por el art. 7 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica por el art. 23 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+
+### Artículo 54
+
+Artículo 54. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Otorgamiento de licencia para la prestación del servicio de comunicación audiovisual radiofónica, renovación de la misma y autorización de negocios jurídicos que impliquen la transmisión de su titularidad: 4 euros por cada vatio de potencia asignado a la frecuencia conforme al Plan Técnico Nacional de Radiodifusión.
+2. Otorgamiento de licencia para la prestación del servicio de comunicación audiovisual televisiva, renovación de la misma y autorización de negocios jurídicos que impliquen la transmisión de su titularidad: 7.198,55 euros.
+3. Autorización del arrendamiento o de otros negocios jurídicos que no impliquen la transmisión de la titularidad, sobre la licencia para la prestación del servicio de comunicación audiovisual radiofónica: 1,58 euros por cada vatio de potencia asignado a la frecuencia conforme al Plan Técnico Nacional de Radiodifusión.
+4. Autorización del arrendamiento o de otros negocios jurídicos que no impliquen la transmisión de la titularidad, sobre la licencia para la prestación del servicio de comunicación audiovisual televisiva: 2.836,86 euros.
+5. Certificaciones acreditativas de los datos y documentos obrantes en el Registro de Prestadores de Servicios de Comunicación Audiovisual de Castilla y León: 7,65 euros por cada dato certificado.
+Se modifica por el art. 3.3 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica por el art. 7 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+
+### Artículo 55
+
+Artículo 55. Exenciones.
+1. Están exentas del pago de los gravámenes que recaen sobre la adjudicación y renovación de la emisora y sobre la certificación registral, las emisoras municipales.
+2. Las Entidades Locales están exentas del pago del gravamen por certificación registral de datos referentes a las emisoras de las que sean titulares
+Se modifica por el art. 24 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+
+## CAPÍTULO IX
+
+Tasa en materia de transportes por carretera
+
+### Artículo 56
+
+Artículo 56. Hecho imponible.
+Constituye el hecho imponible de esta tasa la realización por la Administración de las actuaciones o la prestación de los servicios administrativos relativos a los transportes por carretera, a sus actividades auxiliares y complementarias y a la capacitación profesional en esta materia.
+
+### Artículo 57
+
+Artículo 57. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten la prestación de los servicios o la realización de las correspondientes actuaciones administrativas.
+
+### Artículo 58
+
+Artículo 58. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Autorizaciones de transporte: por cada otorgamiento, visado, rehabilitación o renovación, copia certificada (salvo la primera) o duplicado:
+a) Transporte en vehículos de turismo, ambulancias y ligeros de mercancías: 18,85 euros.
+b) Transporte en vehículos pesados de mercancías, autobuses y vehículos mixtos: 26,30 euros.
+c) Ejercicio de actividades de operador de transporte de mercancías, arrendamiento de vehículos con conductor, estaciones de transporte, centros de información y distribución de cargas y aquellas otras actividades que la normativa en materia de transporte incluya como actividades auxiliares del transporte: 26,30 euros.
+d) Transporte regular de viajeros de uso especial: 26,30 euros.»
+2. (Derogado)
+3. Competencia profesional para el ejercicio de las actividades de transporte público por carretera o auxiliares y complementarias y para el ejercicio de las actividades de Consejero de Seguridad para el transporte de mercancías peligrosas por carretera o ferrocarril:
+a) Por participación en las pruebas para la obtención del certificado de competencia profesional, actividades de transporte: 21,10 euros.
+b) Por participación en las pruebas para la obtención del certificado de capacitación profesional, actividades de Consejero de Seguridad: 24,85 euros.
+c) Por la expedición de certificados o emisión de duplicados, por cada uno: 21,10 euros.
+d) Por la autorización de centros de formación para impartir cursos de transportes, y por la modificación de la autorización: 85,75 euros.
+e) Por homologación de cursos y su renovación: 46,60 euros.
+f) Por participación en las pruebas para la obtención del certificado de aptitud profesional acreditativa de la cualificación inicial ordinaria: 20,40 euros.
+g) Por participación en las pruebas para la obtención del certificado de aptitud profesional de cualificación inicial acelerada: 20,40 euros.
+h) Por expedición de la tarjeta de cualificación del conductor: 31,10 euros.
+i) Por expedición del visado de autorización de centros de formación: 84,05 euros.
+4. Concesión de servicios públicos de transportes regulares de viajeros de uso general:
+a) Modificaciones substanciales del servicio regular (establecimiento, modificación o supresión de hijuelas; establecimiento, modificación o supresión de tráficos; modificación del itinerario; establecimiento o supresión de servicios parciales; la modificación del número de expediciones que consista en una disminución de las inicialmente establecidas en el título concesional; establecimiento, modificación o supresión de paradas; autorización de vehículos para transportar viajeros de pie; y establecimiento, modificación o supresión de servicios coordinados), por cada una: 12.000 pesetas (72,12).
+b) Modificación de las condiciones de explotación de los servicios regulares (modificación de calendario, horario, del número de expediciones que consista en un aumento de las inicialmente establecidas en el título concesional y autorización de los cuadros de precios), por cada una: 3.000 pesetas (18,03).
+c) Aumento o reducción del número de vehículos, sustitución de vehículos, modificación de las características técnicas de los mismos y autorización del uso indistinto de material móvil, por cada solicitud: 3.500 pesetas (21,04).
+d) Unificación de concesiones y establecimiento de concesiones zonales: 6.000 pesetas (36,06).
+e) Transmisión de la titularidad y cambio de forma jurídica de la empresa titular: 2.800 pesetas (16,83).
+5. Por la expedición de certificaciones sobre datos contenidos en el Registro de Empresas y Actividades de Transporte: 6,50 euros.
+6. Por la expedición de tarjeta tacógrafo digital: 28 euros.
+7. En los supuestos en que la tasa derive de cambio de titularidad y ésta se haya producido por transmisión mortis causa la cuota sufrirá una reducción del 95 por 100 para los herederos forzosos.
+Se deroga el apartado 2 por la disposición derogatoria de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Se modifican los apartados 1 y 5 por el art. 2.1 de la Ley 7/2015, de 30 de diciembre. Ref. BOE-A-2016-1884
+ Se modifica el apartado 3.e) el art. 2.2 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se modifica el apartado 5 por el art. 8 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica el apartado 3 por el art. 40 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se modifica el apartado 3 por el art. 25 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+ Se añade la letra d)[Sic] al apartado 3 por el art. 7 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+ Se modifica el apartado 3 por el art. 9 de la Ley 9/2007, de 27 de diciembre. Ref. BOE-A-2008-907
+ Se modifica el apartado 6 y se añade el 7 por el art. 23 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+## CAPÍTULO X
+
+Tasa en materia de industrias agroalimentarias
+
+### Artículo 59
+
+Artículo 59. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación por los órganos de la Administración de la Comunidad, a instancia del interesado o de oficio, de los servicios técnicos y administrativos necesarios para la inscripción en los correspondientes Registros Oficiales de la instalación de nuevas industrias agroalimentarias, su ampliación, modificación o traslado, cambio de titularidad o de denominación social, la sustitución de maquinaria, el diligenciado de libros registro y la expedición de certificados relacionados con las industrias agroalimentarias.
+
+### Artículo 60
+
+Artículo 60. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten o en cuyo interés se realicen las actuaciones constitutivas del hecho imponible.
+
+### Artículo 61
+
+Artículo 61. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Inscripción de nuevas industrias, ampliación o modificación de las existentes y sustitución de maquinaria:
+a) Menos de 60.000,00: 72,9.
+b) Entre 60.000,01 y 300.000,00: 72,9 + 0,4 (N-60).
+c) Entre 300.000,01 y 1.200.000,00: 169,06 + 0,35 (N-300).
+d) Entre 1.200.000,01 y 3.000.000,00: 484,60 + 0,3 (N-1.200).
+e) Entre 3.000.000,01 y 6.000.000,00: 1.025,51 + 0,25 (N-3.000).
+f) Más de 6.000.000,01: 1.776,77 + 0,2 (N-6.000).
+Siendo N el importe en miles, por exceso, de la inversión realizada.
+2. Inscripción del traslado de industrias: 12.130 pesetas (72,90).
+3. Inscripción de cambio de titularidad o denominación social: 2.280 pesetas (13,70).
+4. Inscripción en el Registro de Envasadores y Embotelladores y en el Registro de Productos Enológicos: 3.415 pesetas (20,52).
+5. Por la realización de oficio de las actuaciones descritas en los apartados 1 a 4 ambos inclusive se aplicará el 200 por 100 de las cuotas establecidas para cada caso en dichos apartados.
+6. Diligenciado de libros registro del sector vitivinícola: 1.085 pesetas (6,52).
+7. Expedición de certificados:
+a) Que no requieran visita a las industrias: 1.300 pesetas (7,81).
+b) Que requieran visita a las industrias: 13.325 pesetas (80,08).
+Se modifica el apartado 1, a partir de 1 de enero de 2002, por la disposición adicional 3 de la presente ley.
+
+### Artículo 62
+
+Artículo 62. Reducciones.
+En los supuestos en que la tasa derive de cambio de titularidad y esta se haya producido por transmisión mortis causa la cuota sufrirá una reducción del 95 por 100 para los herederos forzosos.
+
+## CAPÍTULO XI
+
+Tasa por actuaciones administrativas relativas a actividades agrícolas
+
+### Artículo 63
+
+Artículo 63. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los servicios técnicos y actividades administrativas realizadas por los órganos de la Administración de la Comunidad relacionados con la inspección, la inscripción en los registros a que se refiere el artículo 66.2, la expedición de certificaciones y la emisión de informes relativos al desempeño de actividades agrícolas.
+Se modifica por el art. 3.4 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 64
+
+Artículo 64. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten o en cuyo interés se realicen las actuaciones constitutivas del hecho imponible.
+
+### Artículo 65
+
+Artículo 65. Exenciones y bonificaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 66
+
+Artículo 66. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Por inspección fitosanitaria a viveros, establecimientos de horticultura, arboricultura, fruticultura y jardinería, campos y cosechas, instalaciones, e inspección fitosanitaria para el comercio interior de productos: 55,75 euros.
+2. Por inscripción en Registros Oficiales:
+a) Registro de empresas dedicadas al acondicionamiento de granos para la siembra: 11,35 euros.
+b) Registro de establecimientos Fitosanitarios y Zoosanitarios: 22,45 euros.
+c) Registro de comerciantes productores de plantas vegetales y otros objetos de procedencia vegetal: 5,95 euros.
+3. Informes facultativos: 55,75 euros.
+4. Certificaciones de traslado de aforos y certificación de semillas y plantas de vivero: 55,75 euros.
+5. Tramitación de expedientes de cambio de aprovechamiento de terrenos: 55,75 euros.
+6. Expedición de certificados:
+a) Que requieran la búsqueda de expedientes archivados: 16,90 euros.
+b) Que no requieran la búsqueda de expedientes archivados: 6,90 euros.
+7. Expedición y renovación del carné de utilización de productos fitosanitarios: 4,11 euros.
+Se modifican los apartados 2, 3 y 4 por el art. 3.1 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifica por el art. 3.5 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se añade el apartado 7 art. 2.3 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+
+## CAPÍTULO XII
+
+Tasa por actuaciones y servicios de los laboratorios agrarios y forestales
+Se modifica por el art. 33 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+
+### Artículo 67
+
+Artículo 67. Hecho imponible.
+Constituye el hecho imponible de esta tasa las pruebas y análisis oficiales que se detallan en el artículo 71, efectuados en los laboratorios agrarios y forestales dependientes de la Administración de la Comunidad.
+Se modifica por el art. 33 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+
+### Artículo 68
+
+Artículo 68. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten o en cuyo interés se realicen las actuaciones constitutivas del hecho imponible.
+
+### Artículo 69
+
+Artículo 69. Devengo.
+La tasa se devengará cuando se presten los servicios o se realicen las correspondientes actuaciones administrativas. No obstante, su pago se exigirá por anticipado, en el momento en que se formule la solicitud, en las actuaciones realizadas a instancia de parte.
+
+### Artículo 70
+
+Artículo 70. Exenciones.
+Estarán exentos del pago de esta tasa los Consejos Reguladores de las Denominaciones de Calidad de Castilla y León por la realización de análisis de productos sometidos a su control en los centros tecnológicos dependientes de la Administración de la Comunidad, siempre que tales análisis respondan a lo previsto en la normativa de calidad de cada Consejo.
+
+### Artículo 71
+
+Artículo 71. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Análisis de productos agrarios, alimentarios y forestales.
+a) Tierras:
+Análisis básico (textura, pH, materia orgánica, conductividad, fósforo y potasio asimilable, nitrógeno total, caliza activa, carbonato cálcico, relación C/N): 10.600 pesetas (63,71).
+Análisis completo (análisis básico completado con capacidad de cambio catiónico, calcio, magnesio, potasio y sodio de cambio): 20.000 pesetas (120,20).
+Análisis de salinidad (pH y conductividad en extracto, cloruros, sulfatos, carbonatos y bicarbonatos, sodio, potasio, calcio y magnesio, RAS): 10.100 pesetas (60,70).
+b) Aguas:
+Análisis para agua de riego (pH, conductividad, calcio, magnesio, dureza, sodio, cloruros, sulfatos, contenido en sales y SAR): 6.000 pesetas (36,06).
+Análisis para fertirrigación (nitratos, nitritos y DQO): 5.200 pesetas (31,25).
+c) Fertilizantes:
+Análisis básico en fertilizantes minerales (nitrógeno total, fósforo soluble en agua y citrato y potasio en agua): 5.500 pesetas (33,06).
+Análisis básico en fertilizantes orgánicos (pH materia seca, materia orgánica total, nitrógeno total, fósforo total, potasio total y relación C/N): 10.100 pesetas (60,70).
+d) Aceites y grasas:
+Análisis básico de calidad (acidez, índice de peróxidos, K270, humedad y materias volátiles e impurezas insolubles en éter de petróleo): 3.000 pesetas (18,03).
+Análisis básico de pureza (prueba de Belier, índice de saponificación, prueba de tetrabromuros, índice de iodo e índice de refracción): 5.500 pesetas (33,06).
+Ácidos grasos: 3.500 pesetas (21,04).
+Esteroles (cualitativa): 13.000 pesetas (78,13).
+Esteroles (cuantitativo): 17.000 pesetas (102,17).
+e) Mieles:
+Análisis básico (humedad, conductividad, azúcares, prolina, sacarosa aparente, acidez, hidroximetilfurfural, diastasa y sólidos insolubles): 11.000 pesetas (66,11).
+Análisis polínico: 5.000 pesetas (30,05).
+f) Productos y conservas de origen vegetal:
+Cereales: Análisis básico (humedad, peso específico, proteína, cenizas, gluten húmedo y seco, índice de Zeleny, índice de caída y alveograma): 9.000 pesetas (54,09).
+Cereales: Análisis completo (análisis básico completado con peso 1.000 granos y degradación): 13.000 pesetas (78,13).
+Otros productos: Grado sacarimétrico: 1.500 pesetas (9,02).
+g) Piensos y materias primas:
+Análisis básico (humedad, cenizas, fibra, proteína, grasa): 5.000 pesetas (30,05).
+Vitaminas: 8.000 pesetas (48,08).
+Toxinas: 15.000 pesetas (90,15).
+h) Residuos de fitosanitarios:
+Ditiocarbamatos: 5.000 pesetas (30,05).
+Organoclorados y organofosforados: 6.000 pesetas (36,06).
+Bencimidazoles: 10.000 pesetas (60,01).
+N-metilcarbamatos: 11.500 pesetas (69,12).
+Otros residuos: 5.500 pesetas (33,06).
+i) Residuos de zoosanitarios:
+Clembuterol: 5.500 pesetas (33,06).
+Antitiroideos: 5.500 pesetas (33,06).
+Trembolona: 20.000 pesetas (120,20).
+Estilbenos: 20.000 pesetas (120,20).
+Otros residuos: 15.500 pesetas (93,16).
+j) Otras determinaciones:
+Análisis por medición directa (con instrumental sencillo, reacciones cualitativas o cálculos aritméticos), cada muestra: 1.000 pesetas (6,01).
+Preparación y análisis de muestras por técnicas condicionales (extracciones, mineralizaciones, destilaciones,...), cada muestra: 2.000 pesetas (12,02).
+Identificación y/o cuantificación de elementos por métodos instrumentales no especificados en otros apartados, cada elemento: 2.500 pesetas (15,03).
+Identificación y/o cuantificación de elementos por absorción atómica con llama o generador de hidruros, cada elemento: 3.000 pesetas (18,03).
+Identificación y/o cuantificación de elementos por absorción atómica con cámara de grafito, cada elemento: 4.500 pesetas (27,05).
+Identificación de elementos mediante técnicas instrumentales separativas (cromatografía de gases, líquidos, electroforesis), cada elemento: 5.500 pesetas (33,06).
+Cuantificación de elementos mediante técnicas instrumentales separativas, cada elemento: 10.000 pesetas (60,10).
+Determinación de una sustancia mediante equipos específicos: 5.000 pesetas (30,05).
+Ensayo de germinación de semillas según normas internacionales: 80,80 euros.
+Ensayo de pureza y número de semillas/kg.: 19,50 euros.
+2. Análisis físico-químicos y biológicos de la leche:
+a) Análisis consistente en mediciones directas con instrumental, reacciones cualitativas o cálculos aritméticos, cada muestra: 2.000 pesetas (12,02).
+b) Preparación de muestras para análisis con operaciones básicas o cuantificación de análisis, consistentes en operaciones convencionales de laboratorio (extracciones, destilaciones, mineralizaciones, etc.), cada muestra: 3.000 pesetas (18,03).
+c) Identificación y/o cuantificación de una sustancia mediante técnicas instrumentales: 2.000 pesetas (12,02).
+d) Identificación de una sustancia mediante técnicas espectrofotométricas (ultravioleta visible, infrarrojo, emisión de llama, absorción atómica, etc.): 4.000 pesetas (24,04).
+e) Identificación de una sustancia mediante técnicas instrumentales separativas (cromatografía de gases, de líquidos, de fluidos supercríticos, electroforesis capilar, etc.): 5.000 pesetas (30,05).
+f) Cuantificación de una sustancia mediante técnicas instrumentales definidas en los apartados d) y e): 10.000 pesetas (60,10).
+g) Determinación de una sustancia mediante equipos específicos por análisis enzimático, radio-inmunoensayo, etc.: 5.000 pesetas (30,05).
+h) Análisis sensorial cuyo resultado se obtenga mediante el dictamen de un panel de cata, cada muestra: 10.000 pesetas (60,10).
+i) Análisis microbiológico:
+Recuento, cada muestra: 3.000 pesetas (18,03).
+Aislamiento e identificación, cada microorganismo: 2.500 pesetas (15,03).
+3. Análisis del vino y bebidas alcohólicas:
+a) Vinos:
+Análisis básico: grado alcohólico, sulfuroso libre, sulfuroso total, acidez volátil, acidez total, azúcares, grado beaumé, ácido sórbico, ácido benzoico, sulfatos, alcohol metílico: 5.000 pesetas (30,05).
+Análisis por métodos automáticos no homologados (grado alcohólico, sulfuroso libre, sulfuroso total, acidez volátil, azúcares): 1.000 pesetas (6,01).
+Otras determinaciones: 1.500 pesetas (9,02).
+Toma de muestras y precintado de envases:
+Vinos envasados en bocoyes, foudres o cisternas, por cada recipiente: 750 pesetas (4,51).
+Vino embotellado o en cajas, por cada caja: 10 pesetas (0,060101).
+b) Brandys y otras bebidas alcohólicas:
+Análisis, por cada determinación: 1.500 pesetas (9,02).
+Toma de muestras y precintado de envases: Igual que en el apartado 3.a).
+c) Certificados: Por cada uno, con independencia de los acreditativos del origen que expiden los correspondientes Consejos Reguladores: 1.500 pesetas (9,02).
+4. Análisis de productos y conservas de origen animal:
+a) Análisis básico (humedad, proteína, cenizas, grasa, hidroxiprolina, hidratos de carbono, conservantes): 7.000 pesetas (42,07).
+b) Otras determinaciones: 1.500 pesetas (9,02).
+5. Expedición de certificados e informes sobre análisis:
+a) Emisión de un certificado sobre un análisis realizado: 1.000 pesetas (6,01).
+b) Emisión de un informe sobre un análisis practicado: 5.000 pesetas (30,05).
+Se modifica el apartado 1 por el art. 34 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+
+## CAPÍTULO XIII
+
+Tasa por aprovechamiento de pastos, hierbas y rastrojeras
+
+### Artículo 72
+
+Artículo 72. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación por los órganos competentes de la Administración de la Comunidad de los servicios relativos a la ordenación común del aprovechamiento de pastos, hierbas y rastrojeras, regulada por la Ley 1/1999, de 4 de febrero.
+
+### Artículo 73
+
+Artículo 73. Sujeto pasivo.
+Son sujetos pasivos, como contribuyentes, los titulares de las explotaciones agrícolas cuyos terrenos sean objeto de aprovechamiento de pastos sometidos a ordenación común, y como sustitutos del contribuyente las Juntas Agropecuarias Locales o las entidades a quienes corresponda la administración de los recursos pastables.
+
+### Artículo 74
+
+Artículo 74. Devengo.
+La tasa se devenga en el momento de la adjudicación de los correspondientes aprovechamientos.
+
+### Artículo 75
+
+Artículo 75. Base y tipo de gravamen.
+La base imponible de la tasa es el valor de adjudicación del aprovechamiento de pastos, hierbas y rastrojeras. El tipo de gravamen es el 3 por 100.
+
+### Artículo 76
+
+Artículo 76. Autoliquidación y pago.
+El ingreso de la tasa a favor de la Hacienda de la Comunidad se realizará por los sujetos pasivos sustitutos del contribuyente mediante autoliquidación, en la forma y plazo que reglamentariamente se establezcan.
+
+### Artículo 77
+
+Artículo 77. Otras obligaciones.
+Las Juntas Agropecuarias Locales, o las entidades u organismos que las sustituyan en la gestión de estos recursos, remitirán al órgano competente de la Administración de la Comunidad copia autenticada del documento acreditativo de la adjudicación.
+
+## CAPÍTULO XIV
+
+Tasa por prestación de servicios veterinarios
+
+### Artículo 78
+
+Artículo 78. Hecho imponible.
+Constituye el hecho imponible de la tasa la realización de actuaciones o la prestación de los servicios administrativos veterinarios, por los órganos de la Administración de la Comunidad, de oficio o a instancia de parte, relacionados con el desempeño de actividades ganaderas.
+
+### Artículo 79
+
+Artículo 79. Sujeto pasivo.
+Son sujetos pasivos quienes soliciten o en cuyo interés se realicen las actuaciones administrativas que constituyen el hecho imponible.
+
+### Artículo 80
+
+Artículo 80. Exención y bonificación.
+1. Están exentos del pago de esta tasa los sujetos pasivos receptores de estos servicios cuando se hay declarado oficialmente una epizootía o zoonosis o se trate de acciones sanitarias de carácter especial y así lo establezca la normativa que las regule.
+2. Asimismo, están exentos del pago de esta tasa los sujetos pasivos que obtengan mediante tramitación telemática la documentación necesaria para el transporte y circulación de animales.
+Se modifica el apartado 2 por el art. 9 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica por el art. 25 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 81
+
+Artículo 81. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Prestación de servicios de diagnóstico, análisis y dictamen no exigidos por la legislación vigente a petición de parte:
+a) Análisis físico-químicos:
+1.º Por determinación: 3 euros.
+2.º Máximo para varias determinaciones en una única muestra: 24,15 euros.
+b) Análisis microbiológicos:
+1.º Aislamiento o identificación (por muestra): 20 euros.
+2.º Análisis bacteriológico (por muestra): 15 euros.
+3.º Determinación de antibiogramas (por muestra): 5 euros.
+c) Análisis parasitológicos (por muestra): 2 euros.
+d) Análisis serológicos (por determinación):
+1.º Ovino/caprino: 1,30 euros.
+2.º Porcino: 2,30 euros.
+3.º Bovino: 5,75 euros.
+4.º Equino: 8 euros.
+5.º Otras especies: 2,30 euros.
+e) Diagnóstico molecular (PCR convencional y PCR tiempo real): 20 euros.
+f) Necropsias:
+1.º Bovino y equino: 25 euros.
+2.º Porcino, ovino, caprino, cánidos y félidos: 20 euros.
+3.º Aves y lagomorfos: 10 euros.
+4.º Otras especies: 10 euros.
+g) Otras analíticas laboratoriales no especificadas (por muestra): 6 euros.
+h) Intradermotuberculinización:
+1.º Bovina: 5,75 euros.
+2.º Caprina: 2,50 euros.
+i) Otros servicios de dictamen no especificados: 6 euros.
+2. Expedición de documentación necesaria para el transporte y circulación de animales:
+a) Talonarios de documentos de control de movimiento pecuario: 3,35 €.
+b) Guías de Origen y Sanidad Animal: las cantidades que se detallan a continuación según la especie de que se trate:
+Bovino y equino: 0,50 € por cada animal
+Porcino (sacrificio y reproducción): 0,13 € por cada animal.
+Porcino (de cría): 0,06 € por cada animal.
+Ovino y Caprino: 0,06 € por cada animal.
+Aves y conejos: 0,15 € por cada centenar o fracción.
+Polluelos: 0,05 € por cada centenar o fracción.
+Huevos para incubar: 0,12 € por cada millar.
+Colmenas: 0,05 € por cada unidad.
+c) Certificado sanitario de intercambios intracomunitarios o con países terceros: 30,20 € por cada certificado.
+Si se precisasen varios certificados, por ser varios los destinos o los medios de transporte, además de la cantidad anterior se aplicará la cuota determinada en el apartado 3.b teniendo en cuenta el número de animales que ampare cada certificado.
+Por la analítica que sea precisa para expedir la certificación se devengará la cuota correspondiente determinada en el apartado 2 de este artículo.
+d) Documentos especiales para el movimiento de animales: 3,35 €.
+e) Expedición o revisión de Documento Sanitario y de Identificación Individual: 3,45 €.
+3. Actualización de la documentación y expedición de certificados de las explotaciones ganaderas no obligatoria a petición del interesado: 6 €.
+4. Realización de inspecciones y controles voluntarios a petición de parte: 15 €.
+5. Identificación de ganado bovino, ovino y caprino:
+Especie bovina:
+Por suministro de material de identificación (crotal y DI) o reexpedición del documento de identificación por alta en nueva explotación: 0,31 €.
+Por suministro de material para recrotalización: 0,61 €.
+Por expedición de duplicados de documentos de identificación: 3,35 €.
+Especie ovina y caprina:
+Por suministro de material de identificación (Bolo y crotal): 0,50 €.
+Por suministro de material para reidentificación (bolo o crotal) por cada elemento: 0,20 €.
+Se modifica por el art. 2.4 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se modifica por el art. 17 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+ Se añade el apartado 12 por el art. 18 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1183
+ Se añade el último párrafo al apartado 5.b) por el art. 16 de la Ley 21/2002, de 27 de diciembre. Ref. BOE-A-2003-1918
+
+## CAPÍTULO XV
+
+Tasa en materia medioambiental
+
+### Artículo 82
+
+Artículo 82. Hecho imponible.
+Constituye el hecho imponible de esta tasa las actuaciones administrativas inherentes al suministro de información medioambiental.
+Se modifica por el art. 2.2 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+ Se modifica por el art. 35 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+
+### Artículo 83
+
+Artículo 83. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten las actuaciones constitutivas del hecho imponible.
+
+### Artículo 84
+
+Artículo 84. Exenciones y bonificaciones.
+1. Estarán exentos del pago de la cuota correspondiente al suministro de información medioambiental los profesionales de los medios de comunicación siempre que vaya dirigida a su publicación.
+2. También estarán exentos del pago de la cuota correspondiente al suministro de información medioambiental, los docentes que en su materia necesiten dicha información previa justificación de la necesidad de aquélla, y las ONG que tengan entre sus funciones la información medioambiental, y en ambos casos para un único ejemplar de la información solicitada.
+3. Existirá una reducción del 50 por 100 de la cuota correspondiente al suministro de información medioambiental cuando sea solicitada en relación con algún trabajo o proyecto de investigación avalado por un organismo oficial competente.
+
+### Artículo 85
+
+Artículo 85. Cuotas.
+1. Suministro de información medioambiental:
+a) Por la tramitación de la solicitud de información elaborada según las necesidades del usuario: 36,25 euros.
+b) Por la tramitación de la solicitud de Difusión Selectiva de dicha información: 7,35 euros por cada nuevo registro.»
+Se modifica por el art. 14 de la Ley 4/2012, de 16 de julio. Ref. BOE-A-2012-10158
+ Se deroga el apartado 2 por la disposición derogatoria de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+
+## CAPÍTULO XVI
+
+Tasa en materia forestal y de vías pecuarias
+
+### Artículo 86
+
+Artículo 86. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de servicios, la ejecución de trabajos y el otorgamiento de autorizaciones por la Administración de la Comunidad relacionados con la actividad forestal y de vías pecuarias que se especifican en el artículo 88.
+
+### Artículo 87
+
+Artículo 87. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten o en cuyo interés se realicen las actuaciones constitutivas del hecho imponible.
+
+### Artículo 88
+
+Artículo 88. Cuotas.
+La tasa se exigirá aplicando las siguientes cuotas:
+1. Levantamiento de planos:
+1) Levantamiento de itinerarios:
+De 0 a 6 km: 37.872 pesetas (227,62).
+Por cada km adicional: 3.787 pesetas (22,76).
+2) Confección de planos:
+Plano hasta 200 Ha (E 1:5.000): 33.000 pesetas (198,33).
+Por cada Ha adicional: 172 pesetas (1,03).
+2. Replanteo:
+De 0 a 4 km: 37.872 pesetas (227,62).
+Por cada km adicional: 6.312 pesetas (37,94).
+3. Deslinde: La cuota estará formada por la suma de las cuotas de los apartados 1 (levantamiento de planos), 2 (Replanteo) y 4 (Amojonamiento) más 35.000 pesetas (210,35) en concepto de tramitación.
+4. Amojonamiento: 7.500 pesetas (45,08)/mojón. En caso de no hacerse simultáneamente con el replanteo, se aplicará además la cuota correspondiente al replanteo.
+5. Demarcación y señalamiento de lugares puntuales, lineales o superficiales menores de 100 metros cuadrados:
+a) Señalamiento puntual: 5.000 pesetas (30,05)/u.d.
+b) Lineal:
+Hasta 75 m: 7.000 pesetas (42,07)/u.d.
+Por cada metro lineal adicional: 50 pesetas (0,300506).
+c) Superficie de menos de 100 metros cuadrados: 10.000 pesetas (60,10)/ u.d.
+6. Ocupación y autorización en vías pecuarias:
+1. Por tramitación administrativa de expediente o autorización para el uso concreto solicitado: 100 €. En caso de renovaciones: 70 €.
+2. Ocupación o autorización para:
+a) Tendidos eléctricos aéreos (anchura mínima a considerar de 1,5 metros): 0,20 €/m2/año.
+b) Sobrevuelo de palas de aerogeneradores, infraestructuras asociadas a parques eólicos o huertos solares: 0,40 €/m2/año.
+c) Tuberías y otras instalaciones subterráneas (anchura mínima a considerar de 1,5 metros): 0,20 €/m2/año.
+d) Porteras, pasos canadienses y cerramientos de todo tipo (anchura mínima de un metro, por la longitud ocupada en vía pecuaria): 6 €/m2/año.
+e) Cualquier otro uso de superficie de vías pecuaria (utilización temporal en obras, instalaciones diversas): 0,10 €/m2/año.
+f) Otras instalaciones superficiales puntuales con importante afección a las vías: 4 €/m2/año (carteles, antenas, puntos de telefonía).
+g) Canon recreativo o deportivo en vías pecuarias:
+– Competiciones o eventos que precisen autorización y supongan el uso de vehículos a motor: 40 €/km/día.
+– Competiciones y eventos que no suponen el uso de vehículos a motor: 10 €/Km/día.
+Para cualquiera de las ocupaciones planteadas se considerará ocupada la superficie medida en proyección horizontal de los elementos que componen la instalación, incluyendo en los elementos móviles su máxima extensión, así como las bandas de seguridad exigidas por su reglamentación sectorial.
+En caso de terrenos urbanos o urbanizables, se aplicará a las tasas calculadas un coeficiente corrector de valor entre 5 y 15 (en todo caso, no se superarán los 3 euros/m2 y año, excepto para la tasa del aptdo. d) y f) para los cuales no existe ese máximo) en función del tamaño de la población (número de habitantes) según lo dispuesto en la siguiente tabla:
+N.º de habitantes
+ Coeficiente corrector
+ > 20.000
+ 15
+ 5000-20.000
+ 10
+ < 5000
+ 5
+3. La tasa de ocupación o autorización es la suma de los apartados anteriores que fueran de aplicación y deberá abonarse previamente a la expedición de la autorización administrativa correspondiente, la cual será anual o única para el período máximo de 10 años en función de que la tasa se abone anualmente o de una sola vez.
+4. Serán libres y gratuitos los usos compatibles y complementarios que prevé la Ley 3/1995, de 23 de marzo, de Vías Pecuarias, con las previsiones contempladas en los artículos 16 y 17 de la misma, excepto cuando supongan la ocupación con instalaciones de cualquier tipo, en cuyo caso se gravará la actividad con las tasas correspondientes según los apartados anteriores.
+5. La renovación de la ocupación o autorización se tramitará previo pago de las tasas calculadas de idéntica manera a lo establecido para nuevas solicitudes.
+7. Valoraciones:
+Valoraciones inferiores a 100.000 pesetas (601,01): 1.000 pesetas (6,01).
+Exceso sobre 100.000 pesetas (601,01) de valoración: el 5 por 1.000 del importe total de lo valorado.
+8. Inventario y cálculo de existencias:
+a) Inventario de árboles: 1,69 pesetas (0,010157)/m3.
+b) Cálculo de corcho, resinas y frutos: 1,69 pesetas (0,010157) cada árbol.
+c) Existencias apeadas: 5 por 1.000 del valor inventariado.
+d) Montes rasos: 25 pesetas (0,150253)/Ha.
+e) Montes bajos: 83 pesetas (0,498840)/Ha.
+9. Autorizaciones de cultivos agrícolas en terrenos forestales:
+1) Por demarcación o señalamiento de terrenos:
+Por cada una de las 20 primeras Ha: 258 pesetas (1,55).
+Por cada una de las restantes: 172 pesetas (1,03).
+2) Por la inspección anual del disfrute: 5 por 100 del canon o renta anual del mismo.
+10. Informes sobre viveros e informes e inspecciones sobre el estado fitosanitario de montes: 14.000 pesetas (84,14) por informe.
+11. Inspecciones fitosanitarias de viveros forestales para pasaporte fitosanitario:
+Hasta 0,4 Ha de cultivo: 10.000 pesetas (60,10).
+De 0,4 a 1 Ha: 20.000 pesetas (120,20).
+De 1 a 2 Ha: 30.000 pesetas (180,30).
+De 2 a 4 Ha: 40.000 pesetas (240,40).
+Más de 4 Ha de cultivo: 50.000 pesetas (300,51).
+Se modifica el apartado 6 y se deroga el apartado 12 por el art. 10 y la disposición derogatoria de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica el apartado 6 por el art. 24 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 89
+
+Artículo 89. Exenciones.
+Estarán exentas de la aplicación de la tasa las actuaciones administrativas, las prestaciones de servicios, la ejecución de trabajos y otorgamiento de autorizaciones de ocupación en montes catalogados de utilidad pública, consorciados o conveniados, solicitados por las entidades o personas propietarias.
+
+## CAPÍTULO XVII
+
+Tasa en materia de caza
+
+### Artículo 90
+
+Artículo 90. Hecho imponible.
+Constituye el hecho imponible de esta tasa la actividad administrativa inherente a la expedición de licencias o reconocimiento de las expedidas por otras comunidades autónomas, permisos, matrículas, tramitación de expedientes y realización de exámenes relativos a la práctica de la caza.
+Se modifica por el art. 2.5 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se modifica por el art. 7 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 91
+
+Artículo 91. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten las actuaciones administrativas constitutivas del hecho imponible.
+
+### Artículo 92
+
+Artículo 92. Cuotas.
+1. Por la expedición o el reconocimiento de:
+– Licencias quinquenales de caza Clase A. Para cazar con armas de fuego o cualquier otro procedimiento que no requiera autorización específica: 42,65 euros.
+– Licencias quinquenales de caza Clase B. Reducida: únicamente para practicar la caza con galgo: 13,70 euros.
+– Licencias anuales de Clase C. Rehala con fines de caza: 270 euros.
+2. Por la expedición de la licencia de caza interautonómica: 70 euros.
+3. Matrículas de cotos privados de caza y cotos federativos:
+La cuota anual de matriculación se calculará en función del número de hectáreas de terreno acotado y del grupo correspondiente en relación con el tipo de aprovechamiento:
+– Grupo I (Cotos que tiene autorizada la caza intensiva fuera del período hábil): 0,90 euros/hectárea.
+– Grupo II (Resto): 0,40 euros/hectárea.
+4. Examen del cazador:
+– Derechos de examen (válido para dos convocatorias): 55,00 euros.
+– Certificados de aptitud: 11,00 euros.
+5. Especialista en control de predadores:
+– Derechos de examen (válido para dos convocatorias): 110,00 euros.
+– Certificados de aptitud: 11,00 euros.
+6. Autorizaciones y permisos especiales en materia de caza:
+a) Constitución o renovación de zonas de adiestramiento de perros y prácticas de cetrería: 75,00 euros.
+b) Tramitación de autorización de traslado y suelta de piezas de caza viva: 28,00 euros.
+c) Tramitación de declaración de zonas de seguridad: 110,00 euros.
+d) Tramitación de autorizaciones de caza en zonas de seguridad: 110,00 euros.
+e) Tramitación de autorización de tenencia de piezas de caza menor en cautividad: 11,00 euros.
+f) Tramitación de autorización de tenencia de piezas de caza mayor en cautividad: 55,00 euros.
+g) Tramitación de autorización de tenencia de hurones: 28,00 euros.
+7. Cotos privados y federativos de caza:
+a) Tramitación de expedientes de constitución o de adaptación de coto de caza: 220,00 euros.
+b) Tramitación de expedientes de ampliación, de segregación, de cambio de titularidad y de prórroga de coto de caza: 110,00 euros.
+8. Granjas cinegéticas:
+a) Tramitación de expedientes de autorización o renovación: 325,00 euros.
+b) Modificación sustancial de las instalaciones o de los objetos de producción: 165,00 euros.
+c) Inspección de funcionamiento: 110,00 euros.
+d) Tramitación de expediente de cambio de titularidad: 55,00 euros.
+9. Cotos industriales (tramitación de expediente de autorización o renovación): 220,00 euros.
+10. Cotos intensivos (tramitación de expediente de autorización o renovación): 220,00 euros.
+11. Palomares industriales (tramitación de expediente de autorización o renovación): 28,00 euros.
+Se modifica el apartado 1 por el art. 3.2 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifica por el art. 2.6 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se modifica el apartado 1 por el art. 11.1 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica por el art. 14.1 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se modifica el apartado 1 por el art. 8 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+ Se modifican los apartados 1 y 2 por el art. 19 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1183
+ Se modifica por el art. 25 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 93
+
+Artículo 93. Exenciones y bonificaciones.
+1. Estarán exentos del pago de la cuota correspondiente a la licencia de caza de las Clases A y B los residentes en Castilla y León, cuya base imponible total menos el mínimo personal y familiar del sujeto pasivo de la tasa no supere los 18.900 euros en tributación individual o 31.500 euros en tributación conjunta, y que además cumplan una o más de las siguientes condiciones:
+a) Ser mayor de 65 años.
+b) Ser mayor de 60 años y beneficiario del sistema público de pensiones.
+c) Acreditar un grado de discapacidad mayor del 65%.
+Así mismo estarán exentos del pago de la cuota correspondiente a la licencia de las clases A y B, los Agentes Forestales, Celadores de Medio Ambiente, los Agentes Medioambientales y Peones Especializados de Montes de la Junta de Castilla y León, en el ejercicio de sus cometidos en materia de caza.
+2. Existirá una reducción del 50 por 100 de la cuota correspondiente a la matrícula de los cotos de caza cuando su titularidad sea federativa o corresponda a una asociación de los propietarios de los terrenos, si se cumplen los requisitos que para estos casos establece la normativa en materia de caza.
+3. Tendrán una reducción en la tasa de matriculación de cotos de caza equivalente al porcentaje reservado los cotos privados en los que se establezcan Zonas de Reserva, si se cumplen los requisitos que para estos casos establece la normativa en materia de caza.
+Se modifica el apartado 1 por el art. 11.2 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica el apartado 1 por el art. 14.2 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se modifica el apartado 1 por el art. 20 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1183
+ Se modifica el apartado 1 por el art. 36 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+
+## CAPÍTULO XVIII
+
+Tasa en materia de pesca
+
+### Artículo 94
+
+Artículo 94. Hecho imponible.
+Constituye el hecho imponible de esta tasa la actividad administrativa inherente a la expedición de licencias o reconocimiento de las expedidas por otras comunidades autónomas, matrículas y tramitación de expedientes relativos a la práctica de la pesca y a los centros de acuicultura.
+Se modifica por el art. 2.7 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se modifica por el art. 11.3 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica por el art. 9 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 95
+
+Artículo 95. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten las actuaciones administrativas constitutivas del hecho imponible.
+
+### Artículo 96
+
+Artículo 96. Cuotas.
+1. Por la expedición o el reconocimiento de licencias quinquenales de pesca: 15,20 euros.
+2. Por la expedición de la licencia de pesca interautonómica: 25 euros.
+3. Centros de acuicultura:
+a) Tramitación de expediente de autorización: 325,00 euros.
+b) Tramitación de expedientes de modificación sustancial de las instalaciones o de los objetivos de producción: 165,00 euros.
+c) Inspección de funcionamiento: 55,00 euros.
+d) Tramitación de expediente de cambio de titularidad: 110,00 euros.
+4. Autorización de pesca en aguas privadas o de uso privativo:
+a) Tramitación de expediente de pesca en aguas privadas: 275,00 euros.
+b) Tramitación de expediente de pesca en aguas de uso privativo: 275,00 euros.
+Se modifica el apartado 1 por el art. 3.3 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifica por el art. 2.8 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se modifica el apartado 1 y se deroga el 2 por el art. 11.4 y la disposición derogatoria de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica por el art. 15.1 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se modifica el apartado 2 por el art. 41 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se modifica el apartado 1 por el art. 10 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+ Se modifica el apartado 2.b) y se deroga el 4 por el art. 26 y la disposición derogatoria única de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 97
+
+Artículo 97. Exenciones y bonificaciones.
+1. Estarán exentos del pago de la cuota correspondiente a la licencia de pesca:
+a) Los residentes en Castilla y León cuya base imponible total menos el mínimo personal y familiar del sujeto pasivo de la tasa no supere los 18.900 euros en tributación individual o 31.500 euros en tributación conjunta, y que además cumplan una o más de las siguientes condiciones:
+1.º Ser mayor de 65 años.
+2.º Ser mayor de 60 años y beneficiario del sistema público de pensiones.
+3.º Acreditar un grado de discapacidad mayor del 65%.
+b) Todos los menores de 14 años.
+2. En los supuestos en que la tasa derive de la transmisión mortis causa de la titularidad de centros de acuicultura, la cuota se reducirá en un 95 % para los herederos forzosos.
+Se modifica por el art. 2.9 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se modifica el apartado 1 y se derogan los apartados 2 y 4 por el art. 11.5 y disposición derogatoria de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica por el art. 15.2 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se modifica el apartado 1 por el art. 21 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1183
+ Se modifica el apartado 2 por el art. 27 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+## CAPÍTULO XIX
+
+Tasa en materia de especies protegidas
+
+### Artículo 98
+
+Artículo 98. Hecho imponible.
+Constituye el hecho imponible de esta tasa la actividad administrativa inherente a la expedición de autorizaciones relativas a especies protegidas.
+
+### Artículo 99
+
+Artículo 99. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten las actuaciones administrativas constitutivas del hecho imponible.
+
+### Artículo 100
+
+Artículo 100. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Alta y modificación de titularidad de aves de presa en el Registro de la Comunidad: 1.000 pesetas (6,01).
+2. Autorización para cría en cautividad: 30.000 pesetas (180,30), más 5.000 pesetas (30,05) por cada hembra que interviene en el proceso excepto la primera.
+
+## CAPÍTULO XX
+
+Tasa en materia de protección ambiental
+
+### Artículo 101
+
+Artículo 101. Hecho imponible.
+Constituye el hecho imponible de esta tasa la realización de las actuaciones administrativas inherentes a la tramitación de autorizaciones, inscripciones de datos en los registros relativos a la protección ambiental, así como las certificaciones de los mismos.
+
+### Artículo 102
+
+Artículo 102. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten las actuaciones administrativas constitutivas del hecho imponible.
+
+### Artículo 103
+
+Artículo 103. Cuotas.
+I. Producción y gestión de residuos:
+a) Tramitación de expedientes de autorización en materia de gestión de residuos:
+1. Autorizaciones de instalaciones de tratamiento de residuos, incluido el almacenamiento en el ámbito de la recogida en espera de tratamiento, así como la ampliación o modificación sustancial de la instalación: 363,60 euros.
+2. Autorización o modificación de autorización de personas físicas o jurídicas que realicen operaciones de tratamiento de residuos: 169,10 euros.
+3. Autorización de actividades de valorización de residuos de construcción y demolición en la propia obra (autorización, modificación o clausura): 363,60 euros.
+4. Autorización para actividades de utilización de residuos inertes en obras de restauración, acondicionamiento o relleno (autorización, modificación o clausura): 363,60 euros.
+5. Autorización de sistemas colectivos de responsabilidad ampliada (autorización, modificación o cese): 599,90 euros.
+6. Actividades de importación y exportación de residuos peligrosos: 38,95 euros.
+b) Inscripciones registrales. Tramitación de la inscripción de las comunicaciones previas al inicio de actividades de transporte de residuos con carácter profesional, de producción de residuos peligrosos o que generen más de 1.000 t/año de residuos no peligrosos, de agente de residuos, de negociante de residuos y de sistemas individuales de responsabilidad ampliada del productor del producto.
+1. Por la primera inscripción: 36,80 euros.
+2. Por cada inscripción o anotación que modifique datos obrantes en el registro: 18,35 euros.
+3. Por certificación de datos obrantes en el registro de producción y gestión de residuos: 22,35 euros.
+4. Por la inscripción de la comunicación de la condición de productor de aparatos eléctricos y electrónicos: 36,80 euros.
+II. Certificaciones contempladas en el Real Decreto 283/2001, de 16 de marzo.
+a. Hasta 30.050,61 euros del presupuesto de la inversión del proyecto: 36,25 euros.
+b. A partir de 30.050,61 euros del presupuesto de la inversión del proyecto: 108,30 euros.
+III. Planes empresariales de prevención de residuos:
+a) Aprobación de planes empresariales de prevención de envases: 166,62 euros.
+b) Aprobación de planes empresariales de prevención de aceites usados: 166,62 euros.
+IV. Suelos contaminados e informes de situación de suelos:
+a) Declaración de suelo contaminado: 924,57 euros.
+b) Declaración de suelo descontaminado: 924,57 euros.
+c) Recuperación voluntaria de suelos: 511,44 euros.
+d) Aprobación de informes preliminares y periódicos de situación: 166,62 euros.
+e) Aprobación de informes de situación: 166,62 euros.
+V. Prevención y control ambiental. Autorización Ambiental:
+a) Autorización ambiental de actividades o instalaciones: 1.410,75 euros.
+b) Revisión de la autorización ambiental: 1.151,15 euros.
+c) Modificación sustancial de actividades o instalaciones sujetas a autorización ambiental: 1.151,15 euros.
+d) Modificación no sustancial de actividades o instalaciones sujetas a autorización ambiental: 103,90 euros.
+e) Comunicación de inicio de actividad sujeta a autorización ambiental: 304,70 euros.»
+VI. Actividades de utilización confinada y liberación voluntaria de organismos modificados genéticamente:
+a) Actividades de liberación voluntaria de organismos modificados genéticamente por cada emplazamiento: 773,19 euros.
+b) Actividades de utilización confinada de organismos de bajo riesgo: 144,45 euros.
+c) Actividades de utilización confinada de organismos clasificados de alto riesgo: 360,70 euros.
+VII. No serán aplicables las cuotas contempladas en el apartado I de este artículo cuando proceda alguna de las cuotas prevista en el apartado V.
+Se suprime el apartado I.b).5 y se modifica el apartado V por el art. 2.2 de la Ley 7/2015, de 30 de diciembre. Ref. BOE-A-2016-1884
+ Se modifica el apartado I.b) por el art. 2.10 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se modifica el apartado I por el art. 12 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica por el art. 15 de la Ley 4/2012, de 16 de julio. Ref. BOE-A-2012-10158
+ Se modifica el apartado I.b) por el art. 10 de la Ley 9/2007, de 27 de diciembre. Ref. BOE-A-2008-907
+ Se modifica por el art. 37 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+
+### Artículo 104
+
+Artículo 104. Exenciones.
+Estarán exentos del pago de esta tasa los Entes Públicos, siempre que actúen en el ejercicio de sus funciones o competencias.
+
+## CAPÍTULO XXI
+
+Tasa por servicios sanitarios
+
+### Artículo 105
+
+Artículo 105. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los servicios inherentes a las actuaciones sanitarias obligatorias, realizadas a solicitud del interesado y, en particular, las actuaciones descritas en el artículo 108.
+
+### Artículo 106
+
+Artículo 106. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten las actuaciones constitutivas del hecho imponible.
+
+### Artículo 107
+
+Artículo 107. Exención.
+Estarán exentas del pago de esta tasa las actuaciones de oficio que se realicen con carácter general, como consecuencia de la ejecución de programas o campañas oficiales establecidas por los órganos autonómicos competentes en materia sanitaria.
+
+### Artículo 108
+
+Artículo 108. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Centros, servicios y establecimientos sanitarios, a excepción de los establecimientos farmacéuticos.
+a) Por la autorización sanitaria de instalación, funcionamiento, modificación, cierre y de renovación de un centro sanitario con internamiento y de los servicios sanitarios que se presten en los centros con internamiento.
+Autorización de instalación: 102,15 euros.
+Autorización de funcionamiento: 164,00 euros.
+Autorización de modificación: 102,15 euros.
+Verificación de cierre: 164,00 euros.
+Autorización de renovación: 164,00 euros.
+b) Por la autorización sanitaria de instalación, funcionamiento, modificación, cierre y de renovación de un centro sanitario sin internamiento y de los servicios sanitarios que se presten en los centros sin internamiento.
+Autorización de instalación: 61,90 euros.
+Autorización de funcionamiento: 74,60 euros.
+Autorización de modificación: 61,90 euros.
+Verificación de cierre: 74,60 euros.
+Autorización de renovación: 74,60 euros.
+2. Productos Sanitarios:
+a) Por la licencia de funcionamiento a los fabricantes de productos sanitarios a medida: 114,60 euros.
+b) Por la renovación de la licencia de funcionamiento a los fabricantes de productos sanitarios a medida: 75,45 euros.
+3. Policía Sanitaria Mortuoria:
+a) Por la autorización sanitaria de instalación, ampliación, reforma, actividad y funcionamiento de un cementerio:
+Instalación: 26,10 euros.
+Ampliación y/o reforma: 26,10 euros.
+Actividad: 50,40 euros.
+b) Por la autorización sanitaria para el traslado de cadáveres fuera de la Comunidad Autónoma: 27,70 euros.
+c) Exhumación de cadáveres: 63,80 euros.
+4. Vacunación de viajeros internacionales: Se abona la tasa prevista en la normativa estatal, por la prestación del servicio de vacunación con o sin expedición del certificado correspondiente, más el coste autorizado de importación de la vacuna.
+5. Protección de la salud: por autorizaciones, anotaciones o inscripciones en registros administrativos, así como por las actividades de control sanitario, en materia de protección de la salud, realizado sobre industrias, establecimientos, servicios, productos y otras actividades relacionadas.
+a) Empresas, establecimientos y/o actividades alimentarias:
+1. Por la tramitación de autorizaciones sanitarias de funcionamiento de establecimientos o empresas alimentarias, seguidas de inscripción inicial en los registros oficiales correspondientes, o de modificaciones de la autorización sanitaria de funcionamiento, que comporten una actividad de control sanitario in situ, en el domicilio de la empresa, establecimiento o servicio: 103 euros.
+2. Por la tramitación de inscripción inicial de empresas, establecimientos o actividades alimentarias, de ámbito nacional, en los registros oficiales correspondientes o de modificación de datos registrales, que comporten un estudio administrativo de carácter técnico: 60 euros.
+3. Por la tramitación de inscripción inicial de empresas, establecimientos o actividades alimentarias, de ámbito autonómico, en el registro de actividades alimentarias de Castilla y León o de modificación de datos registrales, que comporten un estudio administrativo de carácter técnico: 25 euros.
+Cuando se realicen simultáneamente dos actuaciones administrativas o más de las anteriormente descritas en los apartados anteriores, en interés del mismo solicitante, y el contenido del acto se entienda como unitario, se cobrará la tasa de un solo acto, que corresponderá a la de mayor cuantía.
+4. Por evaluación, estudio y tramitación consecutiva a la comunicación de puesta en el mercado de productos alimenticios destinados a una alimentación especial: 80 euros por producto.
+5. Por evaluación, estudio y tramitación consecutiva a la notificación de puesta en el mercado de complementos alimenticios: 90 euros por producto.
+6. Por la realización de inspecciones o auditorias en empresas alimentarias, a petición de parte, con la correspondiente emisión de informe, motivados por exigencias de países terceros destinatarios de los productos exportados u otros. Por cada inspección o auditoría en empresas alimentarias: 1.600 euros.
+b) Establecimientos de pública concurrencia: 44,71 euros.
+c) Almacenes de productos químicos: 73 euros.
+6. Otras certificaciones administrativas:
+a) Por emisión de certificados oficiales que provienen de archivos y registros del ente competente en la materia propia de la tasa regulada en este Capítulo, por cada certificado emitido de producto o empresa: 13 euros.
+b) Por emisión de certificado sanitario oficial para la exportación de productos alimenticios:
+– Hasta 1.000 kg. o litros: 13 euros.
+– Más de 1.000 kg. o litros: 23 euros.
+c) Vehículos de transporte sanitario y vehículos funerarios: 32,73 euros.
+d) Otras certificaciones administrativas: 12,74 euros.
+7. Formación continuada de los profesionales sanitarios: Por la tramitación de las solicitudes de acreditación de las actividades de formación continuada de las profesiones sanitarias:
+Primera acreditación: 98,46 euros.
+Reacreditación: 85,97 euros.
+8. Declaración de Interés Sanitario: Por la tramitación de las solicitudes de declaración de interés sanitario de determinados actos de carácter científico o técnico: 46,57.euros.
+9. Investigación biomédica y en ciencias de la salud: Por la tramitación y gestión de actuaciones previas a la emisión de dictámenes por el Comité Ético de Investigación Clínica relativos a la realización de ensayos clínicos y estudios postautorización con medicamentos de uso humano o productos sanitarios:
+a) Por nueva solicitud de ensayo clínico o estudio postautorización: 800 euros.
+b) Por modificaciones relevantes, que conlleven la emisión de un nuevo dictamen del Comité Ético de Investigación Clínica: 500 euros.
+10. Laboratorios de salud pública: Por la realización de análisis por los laboratorios de salud pública de la Consejería de Sanidad, cuando tales análisis vengan impuestos por las disposiciones vigentes en el ámbito de la exportación de alimentos a terceros países.
+a) Detección de microorganismos en alimentos 42 euros.
+b) Detección de Listeria monocytogenes en superficies 40 euros.
+c) Detección de Salmonellaspp. en superficies 21 euros.
+Se añade el apartado 10 por el art. 3.4 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifican los apartados 4 a 6 y añade el apartado 9 por el art. 13 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se añaden los apartados 7 y 8 por el art. 16 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se modifica el apartado 4 por el art. 18 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+ Se modifica el apartado 1 y se deroga el apartado 3.d) por el art. 22 y la disposición derogatoria de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1183
+ Se modifica por el art. 38 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+ Se deroga el apartado 2 por la disposición derogatoria única de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+## CAPÍTULO XXII
+
+Tasa por certificación del reconocimiento de titulaciones de las profesiones sanitarias enumeradas en el anexo IV del Real Decreto 1396/1995, de 4 de agosto
+
+### Artículo 109
+
+Artículo 109. Hecho imponible.
+Constituye el hecho imponible de la tasa la resolución, por los órganos de la Administración de la Comunidad competentes en materia de sanidad, sobre el reconocimiento de titulaciones expedidas en Estados miembros de la Unión Europea de las profesiones sanitarias enumeradas en el anexo IV del Real Decreto 1396/1995, de 4 de agosto, por el que se regula un segundo sistema de reconocimiento de formaciones profesionales de los Estados miembros de la Unión Europea y de los demás Estados signatarios del Acuerdo sobre espacio económico europeo y complementa lo establecido en el Real Decreto 1665/1991, de 25 de octubre.
+
+### Artículo 110
+
+Artículo 110. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten la resolución administrativa constitutiva del hecho imponible.
+
+### Artículo 111
+
+Artículo 111. Cuotas.
+Por cada resolución sobre reconocimiento de titulación, sin examen: 5.940 pesetas (35,70).
+
+## CAPÍTULO XXIII
+
+Tasas por inspecciones y controles sanitarios de animales y sus productos
+
+### Artículo 112
+
+Artículo 112. Hecho imponible.
+1. Constituyen el hecho imponible de la tasa por inspecciones y controles sanitarios de animales y sus productos las actuaciones de inspección y control sanitario de los animales y sus carnes frescas destinadas al consumo que, preceptivamente, con el fin de preservar la salud pública, realicen los servicios veterinarios oficiales de salud pública. Estas actuaciones se desarrollarán durante las operaciones de sacrificio de animales y de despiece de canales para consumo humano, y comprenden:
+a) Inspecciones y controles sanitarios anteriores al sacrificio de animales para la obtención de carnes frescas.
+b) Inspecciones y controles sanitarios de los animales sacrificados para la obtención de carnes frescas.
+c) Control del marcado sanitario de canales, vísceras y despojos destinados al consumo humano, así como de las piezas obtenidas en las salas de despiece, centros de tratamiento de caza y salas de tratamiento de reses de lidia.
+d) Controles sanitarios de sustancias y la investigación de residuos en los animales vivos destinados al sacrificio y sus carnes, practicados según los métodos de análisis previstos en la normativa vigente.
+e) Inspecciones y controles sanitarios anteriores al sacrificio de aves de corral que se realicen en la explotación de origen, cuando así lo establezca la normativa vigente.
+2. Constituyen también el hecho imponible de la tasa los controles sanitarios de determinadas sustancias y residuos en productos procedentes de la acuicultura, en la leche y productos lácteos, en los huevos, ovoproductos y en la miel.
+3. No están sujetas a esta tasa las actuaciones de carácter sanitario que se realicen sobre animales sacrificados en domicilios particulares cuyas carnes sean destinas al consumo familiar del criador.
+Se modifica por el art. 8 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 113
+
+Artículo 113. Sujeto pasivo.
+1. Serán sujetos pasivos de estas tasas, obligados al pago de las mismas y al cumplimiento de las obligaciones formales que se establecen, las personas físicas o jurídicas titulares de las empresas o establecimientos donde se efectúen las actuaciones constitutivas del hecho imponible.
+2. Cuando las operaciones sobre las que recaen las actuaciones de inspección y control sanitario se realicen por cuenta de un tercero, los titulares de las empresas o establecimientos donde se desarrollen, sin perjuicio de las liquidaciones que procedan, deberán cargar o repercutir separadamente el importe de la tasa en la factura que expidan al tercero o a las personas por cuya cuenta se realicen las operaciones, y procederán a realizar el pago a la Comunidad Autónoma conforme a la presente Ley y normas que la desarrollen.
+3. En su caso, tendrán igualmente la condición de sujetos pasivos las herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptible de tributación.
+
+### Artículo 114
+
+Artículo 114. Responsables.
+1. Serán responsables subsidiarios, en los supuestos y con el alcance previsto en el artículo 40 de la Ley General Tributaria, los administradores de las sociedades y los síndicos, interventores o liquidadores de quiebras, concursos, sociedades y entidades en general que se dediquen a las actividades cuya inspección y control genera el devengo del tributo.
+2. Responderán solidariamente del pago de las tasas todas las personas que sean causantes o colaboren en la realización de una infracción tributaria relativa a estas tasas.
+
+### Artículo 115
+
+Artículo 115. Devengo.
+Las tasas se devengarán en el momento en que se inicien las actuaciones de inspección y control sanitario constitutivas del hecho imponible.
+
+### Artículo 116
+
+Artículo 116. Cuotas de la tasa por inspecciones y controles sanitarios de carnes frescas y carnes de aves, conejo y caza.
+La cuota de la tasa por inspecciones y controles sanitarios de carnes frescas y carnes de aves, conejo y caza, se determinará mediante la aplicación de los siguientes tipos de gravamen:
+1. Sacrificio de animales: Por las actuaciones conjuntas de inspección y control sanitario anteriores y posteriores al sacrificio, control documental de las operaciones realizadas, marcado sanitario de las canales y controles sanitarios de determinadas sustancias y sus residuos, se aplicarán los siguientes tipos de gravamen:
+Clase de animal
+ Tipo de gravamen
+ –
+ (Euros/animal)
+ 1. BOVINO.
+ 1.1 Bovino igual o mayor de 24 meses.
+ 5
+ 1.2 Bovino menor de 24 meses.
+ 2
+ 2. SOLÍPEDOS/ÉQUIDOS.
+ 2. Solípedos/équidos.
+ 3
+ 3. PORCINO Y JABALÍES.
+ 3.1 Con peso superior a 25 kg.
+ 1
+ 3.2 Peso inferior o igual a 25 kg y mayores de 5 semanas.
+ 0,5
+ 3.3 Menores de 5 semanas.
+ 0,1626
+ 4. OVINO, CAPRINO Y OTROS RUMIANTES.
+ 4.1 Con peso superior o igual a 12 kg.
+ 0,25
+ 4.2 Con peso menor de 12 kg.
+ 0,15
+ 5. AVES Y CONEJOS.
+ 5.1 Aves de género Gallus y pintadas.
+ 0,005
+ 5.2 Patos y ocas.
+ 0,01
+ 5.3 Pavos.
+ 0,025
+ 5.4 Conejos de granja.
+ 0,005
+ 5.5 Ratites (avestruz, emú, ñandú).
+ 0,545
+ 5.6 Otras aves (caza de cría).
+ 0,005404
+2. Sacrificio de animales fuera del horario regular diurno: Por las actuaciones de los servicios veterinarios oficiales fuera del horario regular diurno de 6 a 19 horas de lunes a viernes laborables, adicionalmente a lo establecido en el punto 1 se aplicará un gravamen de:
+– 15,00 euros/noche/inspector asignado de lunes a viernes.
+– 15,00 euros/hora/inspector asignado en sábado, domingo o festivo.
+3. Actuaciones extraordinarias de los servicios veterinarios oficiales a demanda de los establecimientos. Se consideran actuaciones extraordinarias las llevadas a cabo como consecuencia de los sacrificios extraordinarios en días u horas autorizados de trabajo, fuera del horario habitual establecido y autorizado para cada matadero. Adicionalmente a lo establecido en el punto 1, se aplicará un gravamen de:
+– 100,00 euros cuota mínima.
+– 30,00 euros/hora/inspector asignado.
+4. Despiece de canales: Por la inspección y control sanitario del despiece de canales, control documental de las operaciones realizadas, marcado sanitario de las piezas obtenidas y, en su caso, controles sanitarios de determinadas sustancias y sus residuos, se aplicarán, por tonelada de carne comercializada, los siguientes tipos de gravamen:
+Clase de animal
+ Tipo de gravamen
+ –
+ (Euros/Tm)
+ 1. Bovino, porcino, solípedos/équidos, ovino y caprino.
+ 2
+ 2. Aves y conejos de granja.
+ 1,5
+ 3. Ratites (avestruz, emú, ñandú).
+ 3
+ 4. Caza silvestre y de cría:
+ 4.1 Caza menor de pluma y pelo.
+ 1,5
+ 4.2 Jabalíes y rumiantes silvestres.
+ 2
+5. Transformación de la caza y salas de tratamiento de reses de lidia:
+Clase de animal
+ Tipo de gravamen
+ –
+ (euros/animal)
+ 1. Caza menor de pluma.
+ 0,005
+ 2. Caza menor de pelo.
+ 0,01
+ 3. Mamíferos terrestres.
+ 3.1 Jabalíes.
+ 1,5
+ 3.2 Rumiantes.
+ 0,5
+ 4. Lidia.
+ 4.1 Toros y novillos.
+ 21,65
+ 4.2 Becerros.
+ 16,20
+Se modifican los apartados 1, 4 y 5 por el art. 3.5 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifica el apartado 1 por el art. 2.3 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+ Se modifican los apartados 2 y 3 y se añaden los apartados 4 y 5 por el art. 2.3 de la Ley 7/2015, de 30 de diciembre. Ref. BOE-A-2016-1884
+ Se modifica por el art. 9 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 117
+
+Artículo 117. Reglas especiales de aplicación de la tasa.
+No obstante lo dispuesto en el artículo anterior, cuando en un establecimiento se realicen de forma integrada las operaciones de sacrificio y despiece y la tasa exigida por las operaciones de sacrificio cubra el coste total de la inspección de la actividad desarrollada, no se exigirá tasa alguna por las operaciones de despiece.
+La aplicación de lo previsto en el párrafo anterior requerirá que el sujeto pasivo esté autorizado por los órganos de la Administración competentes en materia de sanidad, que resolverán atendiendo a las circunstancias concurrentes en cada establecimiento cuando la situación de los locales en los que se desarrollen las actividades permita a los técnicos facultativos llevar a cabo el control de ellas sin un incremento apreciable del tiempo que normalmente sería preciso dedicar, por sí solo, para efectuar los controles de las operaciones de sacrificio.»
+Se modifica por el art. 10 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 118
+
+Artículo 118. Cuotas de la tasa por controles sanitarios de determinadas sustancias y sus residuos en productos de origen animal destinados al consumo humano.
+La cuota de la tasa por controles sanitarios de determinadas sustancias y sus residuos, se determinará mediante la aplicación de los siguientes tipos de gravamen:
+Tipo de producto
+ Tipo de gravamen
+ 1. Acuicultura.
+ 0,1061 €/Tm de producto.
+ 2. Leche y productos lácteos.
+ 0,0212 €/cada 1.000 litros de leche cruda utilizada como materia prima.
+ 3. Huevos, ovoproductos y miel.
+ 0,0212 €/Tm de producto.
+Se modifica por el art. 11 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 119
+
+Artículo 119. Deducciones.
+1. Los establecimientos dedicados al sacrificio de ganado que sean sujetos pasivos de la tasa podrán aplicarse en las cuotas establecidas en el artículo 116.1 las siguientes deducciones, sin que la cuantía total a deducir por la suma de los distintos conceptos pueda superar el 80% del importe:
+1.1 Por la inspección y control sanitario anterior al sacrificio realizado en la explotación de origen, de conformidad con lo establecido en el Anexo II, Sección III, punto 7 del Reglamento (CE) n.º 853/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, por el que se establecen normas específicas de higiene de los alimentos de origen animal, y en el Anexo I, Sección I, Capítulo II, punto B.5 del Reglamento (CE) n.º 854/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, por el que se establecen normas específicas para la organización de controles oficiales de los productos de origen animal destinados al consumo humano, y no sea necesario repetirla en el matadero, se aplicará una deducción del 20%.
+1.2 Por personal de apoyo al Servicio Veterinario Oficial suplido por los establecimientos sujetos pasivos de esta tasa. Podrán aplicarse, con carácter excluyente, las siguientes deducciones:
+a) Cuando personal del matadero desempeñe las funciones de los asistentes oficiales especializados en relación con los controles de la producción de carne de aves de corral y de lagomorfos según se contempla en el Capítulo III de la Sección III del Anexo I del Reglamento (CE) n.º 854/2004 del Parlamento Europeo y del Consejo, por el que se establecen normas específicas para la organización de controles oficiales de los productos de origen animal destinados al consumo humano, se aplicará una deducción del 30%.
+b) En los demás supuestos, cuando el sujeto pasivo, de acuerdo con su actividad y la normativa vigente, ponga a disposición de los Servicios Oficiales encargados del control oficial, personal propio que colabore de forma efectiva y suficientemente relevante en dicho control, se aplicará una deducción del 25%.
+1.3 Por horario de sacrificio comprendido entre las 7 horas y las 16 horas de lunes a viernes, se aplicará una deducción del 10%.
+1.4 Por uso eficiente de recursos asignados, cuando los sujetos pasivos que lleven a cabo la actividad de sacrificio dispongan de sistemas de planificación y programación y los lleven a la práctica de manera efectiva de forma que los servicios de control oficial conozcan el servicio que es necesario prestar con una antelación mínima de 72 horas, el sacrificio se realice de forma continuada a lo largo de la jornada de trabajo, concentrando el volumen de sacrificio semanal en días puntuales y tengan una plantilla suficiente para alcanzar una velocidad de sacrificio óptima, se aplicará una deducción del 25%.
+1.5 Por apoyo instrumental, cuando el establecimiento ponga a disposición de los servicios de inspección el material y los equipamientos apropiados para llevar a cabo las actividades de control específicas en las mismas instalaciones. Esta dotación incluirá equipos de protección, espacio de trabajo suficiente, debidamente equipado y en condiciones adecuadas en cuanto a mobiliario, medios informáticos con acceso a Internet, material de oficina y comunicaciones, utensilios e instrumental adecuados, limpieza y desinfección de todo el equipo, incluido el vestuario, se aplicará una deducción del 20%.
+2. Para la aplicación y graduación de estas deducciones se requerirá el reconocimiento de los órganos de la Administración competente en materia sanitaria, previa solicitud del titular del matadero (dirigida al Jefe del Servicio Territorial de Sanidad de la provincia donde esté ubicado el establecimiento) e informe de los Servicios Oficiales responsables del control oficial que acredite el cumplimiento de los requisitos para el reconocimiento de las deducciones solicitadas. Asimismo, el reconocimiento de las deducciones inicialmente fijadas, podrá ser revisado posteriormente a instancia del interesado, si justificase la adecuación a los requisitos exigidos, o de oficio, si se detectase el incumplimiento de las condiciones a las que están sujetas dichas deducciones, previa audiencia del interesado.
+Se deroga el apartado 3 por la disposición derogatoria de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifica por el art. 3.6 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica por el art. 12 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 120
+
+Artículo 120. Normas de gestión de la tasa.
+1. El ingreso de las tasas a favor de la Hacienda de la Comunidad se realizará por los sujetos pasivos mediante autoliquidación, en la forma y plazos que se establezcan por los órganos de la Administración competentes en materia tributaria.
+2. Los sujetos pasivos llevarán un registro de las operaciones realizadas y de las cuotas tributarias generadas por las mismas, de acuerdo con lo que establezcan los órganos competentes de la Administración en materia tributaria.
+3. El importe de las tasas correspondientes no podrá ser objeto de restitución a terceros a causa de la exportación de las carnes, ya sea directa o indirectamente.
+Se modifica por el art. 13 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+ Se modifica el apartado 3 por el art. 11 de la Ley 9/2007, de 27 de diciembre. Ref. BOE-A-2008-907
+ Se modifican los apartados 2 y 3 por el art. 19 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 121
+
+Artículo 121. Otras normas.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+## CAPÍTULO XXIV
+
+Tasa por análisis de detección de triquina mediante métodos de digestión en animales no sacrificados en matadero
+Se modifica por el art. 3.6 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifica por el art. 14 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 122
+
+Artículo 122. Hecho imponible.
+Constituye el hecho imponible de la tasa las actuaciones derivadas del examen para control de triquina de animales no sacrificados en mataderos que realicen los servicios veterinarios oficiales de salud pública.
+Se modifica por el art. 3.6 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifica por el art. 14 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 123
+
+Artículo 123. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten las actuaciones constitutivas del hecho imponible.
+Se modifica por el art. 14 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 124
+
+Artículo 124. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Ganado porcino sacrificado en domicilios particulares: 16 euros por cada animal.
+2. Jabalíes: 30 euros por cada animal.
+Se modifica por el art. 3.6 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifica por el art. 14 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+ Se deroga el apartado 2 por la disposición derogatoria de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+
+## CAPÍTULO XXV
+
+Tasa en materia de archivos y bibliotecas
+
+### Artículo 125
+
+Artículo 125. Hecho imponible.
+Constituye el hecho imponible de la tasa las actuaciones administrativas, la entrega de bienes, la prestación de servicios o la autorización para publicar que realicen los órganos competentes de la Administración de la Comunidad de Castilla y León, a instancia del interesado, en relación con los archivos o bibliotecas de titularidad de la Administración de la Comunidad Autónoma o gestionados por ésta, incluidos los archivos de historias clínicas dependientes de las instituciones sanitarias.
+Se modifica por el art. 17.1 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Téngase en cuenta que esta tasa será exigible para la copia de historias clínicas a partir del 1 de marzo de 2013, según establece la disposición final 16 de la citada ley.
+ Se modifica por el art. 20 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 126
+
+Artículo 126. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten las actuaciones administrativas, servicios, suministros o autorizaciones constitutivos del hecho imponible.
+Se modifica por el art. 21 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 127
+
+Artículo 127. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Fotocopias:
+1.1 Fotocopias blanco y negro para archivos:
+a) Copia DIN A4: 0,30 euros.
+b) Copia DIN A3: 0,40 euros.
+c) Copia DIN A0: 5,20 euros.
+1.2 Fotocopias blanco y negro para bibliotecas:
+a) Copia DIN A4: 0,06 euros.
+b) Copia DIN A3: 0,10 euros.
+1.3 Fotocopias color para archivos:
+a) Copia DIN A4: 0,70 euros.
+b) Copia DIN A3: 1,50 euros.
+1.4 Fotocopias color para bibliotecas:
+a) Copia DIN A4: 0,50 euros.
+b) Copia DIN A3: 1 euro.
+2. Imágenes digitales: Cada página: 0,21 euros, con un mínimo de 2,05 euros. Además, se cobrará el precio del soporte:
+2.1 Soporte CD-R: 1 euro por unidad.
+2.2 Soporte DVD-R: 2 euros por unidad.
+3. Impresiones efectuadas con impresora láser:
+3.1 Página impresa en blanco y negro:
+a) DIN A4: 0,05 euros.
+b) DIN A3: 0,10 euros.
+3.2 Página impresa en color:
+a) DIN A4: 0,55 euros.
+b) DIN A3: 1,15 euros.
+4. Préstamo interbibliotecario y obtención de documentos:
+4.1 Préstamo de documentos originales: Por cada volumen original prestado: 4 euros más los gastos de envío por correo o mensajería.
+4.2 Envío de copias o reproducciones: Cada copia de artículo o documento enviado: 2 euros más el importe de las copias según las cuotas establecidas en este artículo, y en su caso de los soportes, y los gastos de envío por correo, mensajería o comunicaciones.
+5. Copias digitales de la historia clínica digitalizada, completa o parcial: 7,00 euros por cada CD y 7,50 euros por cada DVD.
+Se modifica por el art. 3.7 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se añade el apartado 13 por el art. 17.2 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Téngase en cuenta que esta tasa será exigible para la copia de historias clínicas a partir del 1 de marzo de 2013, según establece la disposición final 16 de la citada ley.
+ Se modifica por el art. 42 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se modifica por el art. 22 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 127 bis
+
+Artículo 127 bis. Exención.
+1. Estarán exentos del pago de la cuota correspondiente al préstamo interbibliotecario de documentos originales a que se refiere el apartado 4.1 del artículo 127 los centros solicitantes que formen parte del Sistema de Bibliotecas de Castilla y León y del pago de las cuotas por copia, total o parcial, de historias clínicas aquellos casos en que el solicitante sea centro integrado en el Sistema Nacional de Salud.
+2. En los supuestos contemplados en el apartado 4.2 los centros solicitantes que formen parte del Sistema de Bibliotecas de Castilla y León abonarán únicamente el importe de las copias y, en su caso, de los soportes.
+Se modifica por el art. 3.7 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifica el apartado 1 por el art. 17.3 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Téngase en cuenta que esta tasa será exigible para la copia de historias clínicas a partir del 1 de marzo de 2013, según establece la disposición final 16 de la citada ley.
+ Se modifica por el art. 43 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se añade por el art. 23 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 127 ter
+
+Artículo 127 ter. Normas específicas de la tasa por copia de historias clínicas.
+Las copias de historias clínicas, completas o parciales, se realizarán en formato digital cuando sea posible utilizar este medio.
+La cuantía máxima de la cuota derivada de la copia de historias clínicas, total o parcial, será de 20 euros, tanto si la copia se realiza en formato papel como en formato digital.
+Se añade por el art. 17.4 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Téngase en cuenta que esta tasa será exigible para la copia de historias clínicas a partir del 1 de marzo de 2013, según establece la disposición final 16 de la citada ley.
+
+## CAPÍTULO XXVI
+
+Tasa por actividades administrativas en materia de Museos
+Se deroga por la disposición derogatoria de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+
+### Artículos 128 a 131
+
+Artículos 128 a 131.
+(Derogados).
+Se derogan por la disposición derogatoria de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+
+### Artículo 128
+
+Artículo 128. Hecho imponible.
+Constituyen el hecho imponible de esta tasa las actuaciones administrativas y prestaciones de servicios en esta materia que se describen en el artículo 130.
+
+### Artículo 129
+
+Artículo 129. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas que soliciten las actuaciones administrativas o prestación de servicios constitutivos del hecho imponible.
+
+### Artículo 130
+
+Artículo 130. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Realización de reproducciones fotográficas: 5.000 pesetas (30,05) por cada fotografía de fondos por personal externo al museo, utilizando trípode y/o luz o lámpara complementaria.
+2. Autorizaciones para la realización de filmaciones:
+a) Si el tiempo empleado en la filmación no excede de una hora: 60.000 pesetas (360,61).
+b) Por el exceso de una hora: 30.000 pesetas (180,30) por cada fracción de tiempo igual o inferior a media hora.
+3. Autorizaciones para la realización de copias pictóricas:
+a) Autorización válida por un período de un año: 2.000 pesetas (12,02).
+b) Autorización para períodos iguales o inferiores a un semestre: 1.000 pesetas (6,01).
+c) Por cada reproducción realizada: 5.000 pesetas (30,05).
+
+### Artículo 131
+
+Artículo 131. Exenciones.
+Estará exenta la realización de reproducciones fotográficas, filmaciones y copias pictóricas si los fines fuesen de investigación o estudio, y se demostrase la carencia de interés económico o ánimo de lucro. También estará exenta la utilización de cámaras de vídeo domésticas siempre que no utilicen luz o lámpara complementaria y de cámaras fotográficas sin trípode y no exista interés económico o ánimo de lucro.
+
+## CAPÍTULO XXVII
+
+Tasa en materia de Patrimonio Histórico
+Se deroga por la disposición derogatoria de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+
+### Artículos 132 a 134
+
+Artículos 132 a 134.
+(Derogados).
+Se derogan por la disposición derogatoria de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+
+### Artículo 132
+
+Artículo 132. Hecho imponible.
+Constituye el hecho imponible de esta tasa la entrega por la Administración de la Comunidad de copias o reproducciones de la documentación obrante en los expedientes ya tramitados relativos al patrimonio histórico castellano y leonés custodiada en los archivos de la Administración, así como la autorización por los órganos administrativos competentes para la publicación de fotogramas, fotografías o fotocopias de los mismos.
+
+### Artículo 133
+
+Artículo 133. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten las entregas, actuaciones o autorizaciones constitutivos del hecho imponible.
+
+### Artículo 134
+
+Artículo 134. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Copias de planos:
+a) DIN A3: 100 pesetas (0,60).
+b) DIN A2: 150 pesetas (0,90).
+c) DIN A1: 160 pesetas (0,96).
+d) DIN A0: 250 pesetas (1,50).
+2. Fotocopias de otra documentación:
+a) Sin compulsar:
+Tamaño DIN A4: 10 pesetas (0,060101)/página.
+Tamaño DIN A3: 15 pesetas (0,090152)/página.
+b) Compulsadas:
+Tamaño DIN A4: 15 pesetas (0,090152)/página.
+Tamaño DIN A3: 20 pesetas (0,120202)/página.
+3. Autorizaciones para publicación:
+a) Fotogramas o fotografías: 200 pesetas (1,20)/unidad.
+b) Fotocopias: 85 pesetas (0,510860)/unidad.
+
+## CAPÍTULO XXVIII
+
+Tasa por la expedición de títulos y certificados y por la realización de pruebas en el ámbito de las enseñanzas no universitarias
+Se modifica por el art. 18 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se modifica por el art. 11.1 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 135
+
+Artículo 135. Hecho Imponible.
+Constituye el hecho imponible de esta tasa la actividad administrativa tendente a la expedición de títulos y certificados y a la realización de pruebas en el ámbito de las enseñanzas no universitarias para los que se regulen cuotas en el artículo 138.
+Se modifica por el art. 18 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se modifica por el art. 11.2 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 136
+
+Artículo 136. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas que soliciten la expedición de los títulos y certificados o la participación en las pruebas para los que se regulen cuotas en el artículo 138.
+Se modifica por el art. 18 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+### Artículo 137
+
+Artículo 137. Devengo.
+La tasa se devengará en el momento de la solicitud, que no será tramitada mientras no se haya efectuado el pago.
+Se modifica por el art. 18 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+### Artículo 138
+
+Artículo 138. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+a) Expedición de títulos y certificados.
+a.1) Título de Bachiller (todas las modalidades): 52,45 euros.
+a.2) Título de Técnico Superior de Formación Profesional, de Artes Plásticas y Diseño, de Técnico Deportivo Superior, título profesional de Música, título profesional de Danza, título de Técnico de las Enseñanzas Profesionales de Música, título de Técnico de las Enseñanzas Profesionales de Danza: 52,95 euros.
+a.3) Título de Técnico de Formación Profesional, de Artes Plásticas y Diseño, de Técnico Deportivo, Certificado de nivel avanzado de Idiomas, Certificado de competencia general del nivel Intermedio B2 de Idiomas: 21,65 euros.
+a.4) Título Superior de Música, de Arte Dramático, de Artes Plásticas (Vidrio y Cerámica), de Diseño, o de Conservación y Restauración de Bienes Culturales, y título de Máster de Enseñanzas Artísticas Superiores: 143,50 euros por cada uno de ellos.
+a.5) Certificado de Aptitud del Ciclo Superior del Primer Nivel de Enseñanzas Especializadas de Idiomas: 25,30 euros.
+a.6) Certificado nivel intermedio de Idiomas, Certificado de competencia general del nivel Intermedio B1 de idiomas: 16,20 euros.
+a.7) Certificado nivel básico de Idiomas, Certificado de competencia general del nivel Básico A2 de Idiomas: 10,80 euros.
+a.8) Expedición de duplicados por causas imputables al interesado: 7,55 euros.
+a.9) Certificado nivel C1 de Idiomas, Certificado de competencia general del nivel Avanzado C1 de Idiomas, Certificado de competencia general del nivel Avanzado C2 de Idiomas: 25,90 euros.
+b) Realización de pruebas.
+b.1) Pruebas para el acceso a ciclos formativos de formación profesional inicial, de enseñanzas deportivas y de formaciones deportivas en el periodo transitorio:
+– De grado medio: 15,00 euros.
+– De grado superior: 20,00 euros.
+b.2) Pruebas para la obtención del título de técnico de formación profesional:
+– Por cada módulo: 7,50 euros.
+– Por curso completo: 45,00 euros.
+b.3) Pruebas para la obtención del título de Técnico Superior de Formación Profesional:
+– Por cada módulo: 10,00 euros.
+– Por curso completo: 50,00 euros.
+Se modifica la letra a) por el art. 2.4 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+ Se modifica el apartado a.4) por el art. 2.2 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Se modifica por el art. 18 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se añade el apartado 9 por el art. 44 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se modifica por el art. 11.3 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+ Se añaden los apartados 10 a 14 por el art. 24 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+ Se añade el apartado 9 por el art. 23 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1183
+
+### Artículo 139
+
+Artículo 139. Exenciones y bonificaciones.
+1. Están exentos del pago de esta tasa los sujetos pasivos pertenecientes a familias numerosas de categoría especial, gozando de una bonificación del cincuenta por ciento de la cuota los sujetos pasivos pertenecientes a familias numerosas de categoría general.
+2. Están exentos del pago de esta tasa los sujetos pasivos que presenten una discapacidad reconocida igual o superior al 33 por ciento y los sujetos pasivos que tengan la condición de víctimas del terrorismo en los términos previstos en los apartados 1 y 2 del artículo 2 de la Ley 4/2017, de 26 septiembre, de Reconocimiento y Atención a las Víctimas del Terrorismo en Castilla y León.
+Se modifica el apartado 2 por el art. 2.3 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Se deroga el apartado 3 por la disposición derogatoria única.1 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica el apartado 2 por el art. 14 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica por el art. 18 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se modifica por el art. 26 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+
+## CAPÍTULO XXIX
+
+Tasa en materia de industria y energía
+
+### Artículo 140
+
+Artículo 140. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los servicios administrativos relativos a la ordenación, las autorizaciones preceptivas y la inspección, verificación y supervisión de la actividad industrial y energética.
+
+### Artículo 141
+
+Artículo 141. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten o en cuyo interés se realicen las actuaciones constitutivas del hecho imponible.
+
+### Artículo 142
+
+Artículo 142. Reglas generales para la aplicación de las cuotas.
+1. Las cuotas señaladas en el artículo siguiente en ningún caso incluyen el coste derivado de la publicidad de los expedientes, por lo que la inserción de los correspondientes anuncios, tanto en boletines oficiales como en otros medios de comunicación, serán de cuenta de los interesados.
+2. Cuando, a petición del interesado, las actuaciones constitutivas del hecho imponible de esta tasa se realicen en día no laborable o en horario nocturno, se devengará una cuota adicional del 50 por 100 de la que corresponda por aplicación del artículo siguiente.
+3. Cuando las actuaciones constitutivas del hecho imponible se realicen en el interior de las explotaciones mineras, se incrementará un 50 por 100 la correspondiente cuota, salvo que conste expresamente incluido en la misma.
+4. En los supuestos en que la tasa derive de cambio de titularidad y ésta se haya producido por transmisión mortis causa la cuota sufrirá una reducción del 95 por 100 para los herederos forzosos.
+5. En el caso de modificaciones de importancia o sustanciales de instalaciones, según la definición dada en cada reglamento de seguridad industrial, se aplicará la cuota correspondiente a una nueva inscripción de ese tipo de instalación. En el caso de que el presupuesto de la modificación de importancia sea inferior a 400 euros, se considerará que se trata de una sustitución de maquinaria.
+Se añade el apartado 5 por el art. 2.5 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+
+### Artículo 143
+
+Artículo 143. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Inscripción de establecimientos industriales y control de industrias:
+a) Inscripción de nuevas industrias y sus ampliaciones. Según el valor de la inversión en maquinaria e instalaciones:
+Valor de la inversión en maquinaria e instalaciones
+ Cuota (euros)
+ Hasta 30.000 euros.
+ 47,60
+ Entre 30.001 euros y 1.000.000 euros.
+ 95,20
+ Más de 1.000.000 euros.
+ 428,40
+b) Traslado del establecimiento: se aplicará una tasa de 47,60 euros.
+c) Cambios de titular: se aplicará una tasa de 47,60 euros.
+d) Modificaciones (ampliaciones) del establecimiento industrial: se aplicará una tasa de 47,60 euros.
+e) Cambio de actividad: se aplicará una tasa de 47,60 euros.
+f) Reconocimientos periódicos efectuados a las industrias (Censo Industrial): se aplicará una tasa de 47,60 euros.
+2. Inscripción y control de instalaciones eléctricas:
+a) Alta tensión: Se aplicará el apartado 1.a).
+b) Baja tensión:
+b.1 Boletines de instalaciones eléctricas: por cada boletín en función de la potencia máxima admisible:
+– Hasta 10 Kw: 13,65 euros.
+– Hasta 20 Kw: 16,95 euros.
+– Hasta 50 Kw: 20,35 euros.
+– Más de 50 Kw: 23,35 euros.
+b.2 Instalaciones con proyecto: se aplicarán las cuantías del apartado 1.a) además de las señaladas en el apartado 2.b).1, salvo que exista un único titular de la instalación en cuyo caso no se aplicarán estas últimas.
+3. Inscripción y control de instalaciones de fontanería o distribución de agua:
+a) Instalaciones sin proyecto: por cada vivienda o local, 13,65 euros.
+b) Instalaciones con proyecto: se aplicarán las cuantías del apartado 1.a) además de las señaladas en el apartado 2.b).1, salvo que exista un único titular de la instalación en cuyo caso no se aplicarán estas últimas.
+4. Inscripción y control de instalaciones térmicas en los edificios:
+a) Instalación individual:
+– Potencia hasta 25 Kw. en calefacción: 19,65 euros.
+– Calefacción potencia mayor a 25 Kw. y climatización: 25,60 euros.
+b) Instalación centralizada: se aplicarán las cuantías del apartado 1.a).
+5. Inscripción y control de almacenamiento de productos petrolíferos líquidos, excepto gasolineras:
+a) Si la normativa no exige presentación de proyecto: 19,65 euros.
+b) Si la normativa exige presentación de proyecto: se aplicarán las cuantías del apartado 1.a).
+6. Inscripción y control de almacenamiento de gases licuados del petróleo o de gas natural licuado o comprimido en depósitos:
+a) Si la normativa no exige presentación de proyecto: 19,55 euros.
+b) Si la normativa exige presentación de proyecto: se aplicarán las cuantías del apartado 1.a) que correspondan.
+7. Inscripción y control de instalaciones receptoras de gases combustibles, incluyendo el almacenamiento en botellas:
+a) Si no precisan proyecto: 22,55 euros.
+b) Si precisan proyecto: se aplicarán las cuantías del apartado 1.a).
+8. Inscripción y control de instalaciones de venta al público de gasóleos, gasolinas y otros productos petrolíferos: se aplicarán las cuantías del apartado 1.a).
+9. Inscripción y control de instalaciones frigoríficas:
+a) Si la normativa no exige presentación de proyecto: 18,95 euros.
+b) Si la normativa exige presentación de proyecto: se aplicarán las cuantías del apartado 1.a).
+10. Inscripción y control de aparatos a presión:
+a) Instalación sin proyecto: 27,00 euros.
+b) Instalación con proyecto: se aplicarán las cuantías del apartado 1.a).
+11. Inscripción y control de aparatos de elevación y manutención:
+a) Ascensores: 47,60 euros.
+b) Grúas torre para obras: 47,60 euros.
+c) Grúas autopropulsadas: 47,60 euros.
+12. Inscripción de instalaciones de rayos X con fines de diagnóstico médico: 32,25 euros.
+13. Tramitación de expedientes de autorizaciones administrativas en materia de industria, incluida, en su caso, la inscripción en el registro: se aplicarán las cuantías del apartado 1.a) que correspondan por cada proyecto.
+13 bis. Tramitación de expedientes de autorización administrativa previa o autorización administrativa de construcción de instalaciones en materia de energía, según los siguientes tramos:
+Presupuesto de la instalación
+ –
+ Euros
+ Cuota
+ –
+ Euros
+ Menos de 30.000
+ 60,55
+ Entre 30.000 y 90.000
+ 60,55+1,1 (N-30)
+ Entre 90.000,01 y 150.000
+ 126,55+1,5 (N-90)
+ Entre 150.000,01 y 12.000.000
+ 216,55+0,5 (N-150)
+ Más de 12.000.000,01
+ 6.141,55+0,2 (N-12.000)
+Siendo N el presupuesto del proyecto, expresado en miles de euros.
+En el caso de tramitación conjunta de autorización administrativa previa y de construcción, solo se abonará una tasa.
+14. Inscripción y control de instalaciones de almacenamiento de productos químicos:
+a) Si la normativa no exige presentación de proyecto: 18,95 euros.
+b) Si la normativa exige presentación de proyecto: se aplicarán las cuantías del apartado 1.a).
+15. Inscripción y control de centros de almacenamiento y distribución de gases licuados del petróleo:
+a) Centros de 1.ª, 2.ª y 3.ª categoría: 116,70 euros.
+b) Centros de 4.ª y .5ª categoría: 80,05 euros.
+16. Expropiación forzosa:
+– Hasta 5 parcelas para las que se solicite expropiación o imposición de servidumbre: 612,35 euros.
+– Por cada parcela más: se adicionará la cantidad de 74,90 euros.
+17. Participación en pruebas de aptitud para la obtención de carnés y habilitaciones profesionales: por la realización de exámenes de instalador, mantenedor o reparador y operador de calderas o grúas: 20,35 euros.
+18. Expedición o renovación de carnés profesionales: por cada uno 8,35 euros.
+19. Por la expedición del certificado de empresa instaladora, mantenedora-reparadora, o en su caso, documento de calificación empresarial: por cada uno 8,35 euros.
+20. Por la expedición del certificado de vigencia del carné y de no haber sido sancionado: por cada uno 8,35 euros.
+21. Actuaciones de supervisión de Organismos de Control: por cada certificación presentada 4,00 euros.
+22. Por la expedición de certificaciones administrativas en materia de industria y energía:
+a) Emitidos en base a datos obrantes en los archivos: 8,35 euros.
+b) Los que requieran para su emisión visita a las instalaciones: 250,25 euros.
+23. Inscripción y control de instalaciones de protección contra incendios en los establecimientos industriales: se aplicarán las cuantías del apartado 1.a).
+24. Copia de documentos oficiales de expedientes de industria: 3,65 euros, incrementado en 0,109 euros por cada hoja a partir de la décima.
+25. Inscripción y control de instalaciones de protección contra incendios en edificios no industriales: 21,52 euros.
+26. Actuaciones de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas:
+a) Inspecciones de los establecimientos afectados por la normativa de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas de nivel superior: 264,24 euros.
+b) Evaluación de los informes de seguridad de los establecimientos afectados por la normativa de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas de nivel superior: 1.565,80 euros.
+Se modifica el apartado 13 y se añade el 13 bis por el art. 2.6 y 7 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Redactado el apartado 13 bis conforme a la corrección de errores publicada en BOCYL núm. 130, de 5 de julio de 2024. Ref. BOCL-h-2024-90140
+ Se modifica el apartado 11 por el art. 3.8 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifica el apartado 1 por el art. 2 de la Ley 2/2022, de 1 de diciembre. Ref. BOE-A-2022-21578
+ Se añaden los apartados 25 y 26 por el art. 2.6 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+ Se modifica el apartado 5 por el art. 3.7 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica por el art. 2.4 de la Ley 7/2015, de 30 de diciembre. Ref. BOE-A-2016-1884
+ Se modifican los apartados 9, 11 y 15.1 y se añade el apartado 24 por el art. 15 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica el apartado 18 por el art. 19 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se modifica por el art. 15 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+ Se modifica el apartado 1.a), a partir de 1 de enero de 2002, por la disposición adicional 4 de la presente ley.
+
+## CAPÍTULO XXX
+
+Tasa en materia de Metrología
+
+### Artículo 144
+
+Artículo 144. Hecho imponible.
+Constituyen el hecho imponible de esta tasa las actuaciones administrativas relativas a las verificaciones metrológicas de aparatos sometidos a este tipo de control.
+
+### Artículo 145
+
+Artículo 145. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten o en cuyo interés se realicen las actuaciones constitutivas del hecho imponible.
+
+### Artículo 146
+
+Artículo 146. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Verificación de contadores eléctricos, de gas y de agua en laboratorio: 8,35 euros.
+2. Verificación de contadores a domicilio: 51,65 euros.
+3. Verificación de limitadores de corriente y transformadores de medida: 8,35 euros.
+4. Aparatos surtidores:
+– Por gasolinera: 69,65 euros.
+– Por cada surtidor: 24,80 euros.
+– Por cada manguera a verificar: 24,80 euros.
+Siendo la cuota total la suma de lo que corresponda por cada uno de los tres conceptos anteriores.
+5. Verificación de manómetros: se aplicará el apartado 1 ó 2 según se trate de una verificación en laboratorio o a domicilio.
+Si la verificación en una gasolinera se hace coincidir con la de los aparatos surtidores, se aplicará el apartado 4, como si se tratara de una manguera más.
+6. Actuaciones de supervisión de organismos notificados, de control metrológico y autorizados de verificación metrológica: por cada certificación 4,00 euros.
+Se modifica por el art. 2.5 de la Ley 7/2015, de 30 de diciembre. Ref. BOE-A-2016-1884
+ Se modifica el apartado 1, a partir de 1 de enero de 2002, por la disposición adicional 5 de la presente ley.
+
+## CAPÍTULO XXXI
+
+Tasa en materia de Minas
+
+### Artículo 147
+
+Artículo 147. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los servicios administrativos relativos a la ordenación, las concesiones, las autorizaciones preceptivas y la inspección de la actividad minera.
+
+### Artículo 148
+
+Artículo 148. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten o en cuyo interés se realicen las actuaciones constitutivas del hecho imponible.
+
+### Artículo 149
+
+Artículo 149. Reglas generales para aplicación de las cuotas.
+1. Las cuotas señaladas en el artículo siguiente en ningún caso incluyen el coste derivado de la publicidad de los expedientes, por lo que la inserción de los correspondientes anuncios, tanto en boletines oficiales como en otros medios de comunicación, serán de cuenta de los interesados.
+2. Cuando, a petición del interesado, las actuaciones constitutivas del hecho imponible de esta tasa se realicen en día no laborable o en horario nocturno, se devengará una cuota adicional del 50 por 100 de la que corresponda por aplicación del artículo siguiente.
+3. Cuando las actuaciones constitutivas del hecho imponible se realicen en el interior de las explotaciones mineras, se incrementará un 50 por 100 la correspondiente cuota, salvo que conste expresamente incluido en la misma.
+
+### Artículo 150
+
+Artículo 150. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Tramitación de permisos de exploración e investigación y concesiones de explotación (Secciones C y D), así como permisos de exploración e investigación de Hidrocarburos y permisos de investigación para almacenamiento geológico de dióxido de carbono (CO2):
+a) Por cada expediente de permiso de exploración, estudios, confección de planos de situación y relación de permisos, concesiones y otros derechos mineros preexistentes:
+a.1 Por las primeras 300 cuadrículas: 2.728,55 euros.
+a.2 Por cada cuadrícula más: 8 euros.
+b) Por cada expediente de permiso de investigación, derivado o no de uno de exploración, estudios de la posible división en fracciones, confrontación de datos sobre el terreno y confección de planos:
+b.1 Por las primeras 50 cuadrículas: 2.404,55 euros.
+b.2 Por cada cuadrícula más: 40 euros.
+c) Por cada expediente de concesión de explotación, derivada de un permiso de investigación:
+c.1 Por las primeras 10 cuadrículas: 2.404,55 euros.
+c.2 Por cada cuadrícula más: 47,65 euros.
+d) Por cada expediente de concesión de explotación directa:
+d.1 Por las primeras 10 cuadrículas: 3.225,40 euros.
+d.2 Por cada cuadrícula más: 47,65 euros.
+e) Por cada expediente de permisos de exploración de hidrocarburos:
+e.1 Por las primeras 10.000 hectáreas: 3.879,35 euros.
+e.2 Por cada hectárea más: 0,35 euros.
+f) Por cada expediente de permiso de investigación de hidrocarburos:
+f.1 Por las primeras 10.000 hectáreas: 8.584,55 euros.
+f.2 Por cada hectárea más: 0,70 euros.
+g) Tramitación y autorización de permisos de investigación para almacenamiento geológico de dióxido de carbono (CO2):
+g.1 Hasta 10.000 hectáreas: 8.284,25 euros.
+g.2 Desde 10.000 hectáreas: 9.941,10 euros.
+g.3 Desde 50.000 hectáreas: 12.426,40 euros.
+h) Por cada expediente de prórroga de permisos de exploración e investigación, y de las concesiones de explotación: el 25% de la cuota prevista en los apartados anteriores según el permiso que se prorrogue y el número de hectáreas.
+2. Declaración de la condición mineral y termal de unas aguas: 520,80 euros. Esta cuota no incluye el importe de los análisis de las aguas, que serán realizados directamente y por cuenta del solicitante.
+3. Investigación, reconocimientos previos y clasificación de yacimientos de origen no natural y estructuras subterráneas (sección B): 521,50 euros.
+Esta cuota no incluye el importe de los análisis de materiales necesarios, que serán realizados directamente y por cuenta del solicitante.
+4. Autorización de explotaciones de recursos mineros de la sección A: 1.122,70 euros.
+5. Autorización de aprovechamiento o concesiones de sección B, aguas minerales y termales, y yacimientos de origen no natural: 1.568,10 euros.
+6. Autorización de aprovechamiento o utilización de estructuras subterráneas de la Sección B: 1.568,10 euros.
+7. Tramitación de transmisiones, arriendos y contratos de derechos mineros, así como solicitudes de concentración de trabajos de derechos mineros: 187,80 euros.
+8. Tramitación de rectificaciones, amojonamientos y divisiones de derechos mineros ya demarcados: Cada derecho minero resultante de la rectificación, amojonamiento o división, devengará la cuota correspondiente por aplicación del apartado 1, según el tipo de derecho minero de que se trate.
+9. Tramitación de demasías de derechos mineros: Se aplicará la cuantía fijada en el apartado 1.d) en función del número de cuadrículas mineras afectadas por los terrenos en demasía declarados.
+10. Deslinde entre dos o más puntos de partida de permisos o concesiones, e intrusiones: 919,20 euros.
+11. Estudios, revisión e informe de confrontación sobre el terreno de planes de labores. Según el importe del presupuesto:
+• Hasta 60.000 euros: 326 euros.
+• El exceso entre 60.000,01 euros y 300.000 euros: 1,00 por mil.
+• El exceso desde 300.000,01 euros: 0,10 por mil.
+Cuando no sea necesaria la presentación de presupuesto, se aplicará la cuantía mínima: 326 euros.
+12. Autorización o tramitación de cualquier tipo de expediente minero o de restauración minera, no incluido en otros apartados:
+• En el caso de que no precise confrontación en el terreno ni sea preceptivo acompañar presupuesto: 46,75 euros.
+• Si la autorización se solicitase sobre proyectos o expedientes que requieran la aportación de presupuesto se aplican las cuotas correspondientes a la inscripción de nuevas industrias, incrementadas en un 25% si se trata de labores de exterior o en un 50% si se refiere a labores de interior.
+• En el caso de que en cualquiera de los supuestos anteriores se precisase asimismo informe de confrontación sobre el terreno, a la cantidad resultante se le deberá añadir 248,75 euros.
+13. Expediente de caducidad de derecho minero a solicitud del titular: 250,00 euros.
+14. Suspensión temporal de labores mineras: 369,62 euros.
+15. Aforos de aguas subterráneas: 393,30 euros.
+16. Copias de planos de demarcación:
+• Hasta 50 hectáreas: 37,70 euros.
+• Por cada hectárea o fracción adicional: 0,41 euros.
+17. Expropiación forzosa:
+• Hasta 3 parcelas para las que se solicite expropiación o imposición de servidumbre: 603,30 euros.
+• Por cada parcela más: 75,20 euros.
+18. Por la expedición de certificaciones administrativas en materia de minería:
+a) Emitidos sobre la base de datos obrantes en los archivos: 8,35 euros.
+b) Los que requieran para su emisión visita a las instalaciones: 261,35 euros.
+19. Participación en pruebas de aptitud para la obtención de carnés profesionales: Por la participación en exámenes para la práctica profesional en la minería: 320,20 euros por empresa y día, con independencia del número de personas examinadas.
+20. Expedición o renovación de carnés profesionales. Por cada uno 8,35 euros.
+21. Por la expedición del certificado de vigencia del carné y de no haber sido sancionado. Por cada uno 8,35 euros.
+22. Copia de documentos oficiales de expedientes mineros: 3,65 euros, incrementado en 0,109 euros, por cada hoja a partir de la décima.
+23. (Derogado)
+24. Abandono de labores de aprovechamiento y de instalaciones de residuos mineros:
+a) Inspección final. Abandono definitivo de labores de aprovechamiento:
+Hasta 10 hectáreas afectadas por el proyecto: 235,00 euros.
+Por cada hectárea o fracción más: 10,00 euros.
+b) Inspección final. Cierre y clausura de instalación de residuos mineros, Categoría A): 705,00 euros y Categoría no A): 235 euros.
+Se deroga el apartado 23 por la disposición derogatoria de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Se modifica el apartado 13 y se añade el 24 por el art. 3.8 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica por el art. 16 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se añade el apartado 22 por el art. 16 de la Ley 4/2012, de 16 de julio. Ref. BOE-A-2012-10158
+ Se modifica por el art. 16 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+ Se modifican los apartados 7, 12 y 13 y se añade el 21 por el art. 24 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1183
+
+## CAPÍTULO XXXII
+
+Tasa por exámenes de habilitación como Guía de Turismo
+Téngase en cuenta que, desde el 7 de marzo de 2023 y hasta el 31 de diciembre de 2026, se procede a la exención de la tasa por exámenes de habilitación como Guía de Turismo, según establece la disposición adicional 4 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+
+### Artículo 151
+
+Artículo 151. Hecho imponible.
+Constituye el hecho imponible de esta tasa la participación en las pruebas o exámenes para la obtención de la habilitación como Guía de Turismo de Castilla y León, en las modalidades Regional y Provincial, incluida en su caso la expedición del carné profesional.
+
+### Artículo 152
+
+Artículo 152. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten la participación en dichas pruebas o exámenes.
+
+### Artículo 153
+
+Artículo 153. Cuotas.
+La cuota de la tasa es de 2.000 pesetas (12,02).
+
+## CAPÍTULO XXXIII
+
+Tasa por dirección e inspección de obras
+
+### Artículo 154
+
+Artículo 154. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación por la Administración de la Comunidad del servicio facultativo consistente en la dirección e inspección de las obras públicas realizadas mediante contrato.
+
+### Artículo 155
+
+Artículo 155. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los adjudicatarios de obras de la Comunidad Autónoma en relación con las cuales se preste el servicio gravado por la misma.
+
+### Artículo 156
+
+Artículo 156. Devengo y pago.
+La tasa se devengará cuando se realicen las correspondientes actuaciones administrativas. No obstante, su pago se exigirá fraccionadamente, mediante liquidaciones practicadas al tiempo de expedirse cada una de las certificaciones de obra, incluida la correspondiente al saldo total de la liquidación.
+
+### Artículo 157
+
+Artículo 157. Cuota.
+La cuota de la tasa se obtendrá aplicando el tipo de gravamen del 4 por 100 sobre el importe del presupuesto de ejecución material de cada certificación, corregido en su caso por el coeficiente de adjudicación.
+
+## CAPÍTULO XXXIV
+
+Tasa en materia de Televisión Digital Terrenal
+Se deroga por la disposición derogatoria de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se añade por el art. 28 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 158
+
+Artículo 158. Hecho imponible.
+Constituye el hecho imponible de esta tasa la realización por la Administración de la Comunidad de Castilla y León, en el ámbito del servicio público de televisión digital terrenal, de las siguientes actividades:
+a) La adjudicación y renovación de concesiones para la explotación del servicio de televisión digital terrenal de ámbito de cobertura autonómico o local.
+b) La autorización de modificaciones en la titularidad de acciones, participaciones o títulos equivalentes de las empresas concesionarias, y autorización de las ampliaciones de capital de dichas empresas cuando la suscripción de las acciones o títulos equivalentes no se realice en idéntica proporción entre los propietarios del capital social.
+c) La expedición de certificaciones del estado de la concesión y de todos los actos jurídicos relacionados con la misma.
+Se añade por el art. 28 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículos 158 a 162
+
+Artículos 158 a 162.
+(Derogados)
+Se derogan por la disposición derogatoria de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+
+### Artículo 159
+
+Artículo 159. Sujeto pasivo.
+Son sujetos pasivos de la tasa quienes soliciten las actuaciones constitutivas del hecho imponible. En el caso de transferencia en la titularidad de acciones, participaciones o títulos equivalentes de las empresas concesionarias será responsable solidario del pago de la tasa aquel que adquiera la titularidad de los títulos, independientemente de los acuerdos privados que puedan establecerse entre los particulares.
+Se añade por el art. 28 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 160
+
+Artículo 160. Devengo.
+La tasa se devengará:
+a) En la adjudicación de licencias, cuando se otorguen.
+b) En la renovación de licencias, cuando se acuerden o autoricen sin que surta efecto el negocio jurídico hasta que dicha tasa sea abonada.
+c) En la autorización de modificaciones en la titularidad de acciones, participaciones o títulos equivalentes de las empresas licenciatarias, y autorización de las ampliaciones de capital de dichas empresas cuando la suscripción de las acciones o títulos equivalentes no se realice en idéntica proporción entre los propietarios del capital social, cuando se acuerden o autoricen sin que surta efecto el negocio jurídico hasta que dicha tasa sea abonada.
+d) En los certificados, cuando se expidan; no obstante, en este caso el pago se exigirá por anticipado, en el momento en que se formule la solicitud.
+Se modifica por el art. 27 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+ Se añade por el art. 28 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 161
+
+Artículo 161. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+a) Adjudicación o renovación de la titularidad de concesiones del servicio público de televisión digital terrenal local: 6.000 euros.
+b) Autorización de la modificación en la titularidad del capital o su ampliación: 420 euros.
+c) Por cada dato certificado: 60 euros.
+Se añade por el art. 28 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 162
+
+Artículo 162. Exenciones.
+Las Entidades Locales están exentas del pago de la tasa que grava la adjudicación y renovación de la concesión y de la tasa que grava la expedición de certificaciones.
+Se añade por el art. 28 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+## CAPÍTULO XXXV
+
+Tasa por servicios farmacéuticos
+Se añade por el art. 29 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 163
+
+Artículo 163. Hecho Imponible.
+Constituyen el hecho imponible de esta tasa la prestación de los servicios y la realización de las actuaciones administrativas obligatorias previstas en el artículo 166, realizadas a solicitud del interesado.
+No están sujetas a esta tasa las actuaciones de oficio que se realicen con carácter general.
+Se añade por el art. 29 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 164
+
+Artículo 164. Sujeto Pasivo.
+Son sujetos pasivos de la tasa quienes soliciten las actuaciones constitutivas del hecho imponible.
+Se añade por el art. 29 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 165
+
+Artículo 165. Exención.
+Estarán exentos del pago de la tasa los promotores de estudios postautorización observacionales prospectivos con medicamentos, cuando dichos promotores sean la propia Administración, sus facultativos o grupos pertenecientes a la misma.
+Asimismo, estarán exentos del pago de la tasa por participación en los procedimientos para la autorización de apertura de nuevas oficinas de farmacia, los solicitantes que se encuentren en situación de desempleo en la fecha de la resolución de la iniciación del procedimiento, siempre que acrediten tal situación con certificación del organismo oficial correspondiente.
+Se modifica por el art. 45 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se añade por el art. 29 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 166
+
+Artículo 166. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Por la inspección y control de la industria farmacéutica:
+a) Por la inspección de un laboratorio farmacéutico para la verificación del cumplimiento de las Normas de Correcta Fabricación: 1.955,70 euros.
+b) Por las actuaciones relacionadas con la toma de posesión en el cargo del Director Técnico o del Director Técnico suplente: 97,40 euros.
+c) Por la emisión de un certificado de cumplimiento de las Normas de Correcta Fabricación de Medicamentos: 143,98 euros.
+d) Por la inspección de un laboratorio farmacéutico para la verificación del cumplimiento de las Buenas Prácticas de Laboratorio: 1.650 euros.
+e) Por la emisión de un certificado de cumplimiento de las Buenas Prácticas de Laboratorio: 120 euros.
+2. Tramitación de expedientes de estudios postautorización de tipo observacional prospectivos:
+a) Tramitación de solicitudes de autorización: 360,70 euros.
+b) Tramitación de solicitudes de modificaciones relevantes de estudios previamente autorizados: 115 euros.
+3. Establecimientos sanitarios farmacéuticos:
+a) Por la participación en los procedimientos de autorización de nuevas oficinas de farmacia: 315,07 €.
+b) Por la autorización de funcionamiento y apertura de una oficina de farmacia, autorización de botiquines, servicios de farmacia hospitalaria, almacenes de medicamentos y depósitos de medicamentos:
+– Oficina de farmacia: 96,20 €.
+– Botiquines: 50,00 €.
+– Servicio de Farmacia Hospitalaria: 130,50 €.
+– Almacenes de medicamentos: 114,45 €.
+– Depósitos de medicamentos: 60,55 €.
+c) Por la autorización de traslado o modificación de oficina de farmacia:
+– Traslado oficina de farmacia: 96,20 €.
+– Modificación oficina de farmacia: 96,20 €.
+d) Por la autorización de transmisión de oficina de farmacia:
+– Transmisión oficina de farmacia: 96,20 €.
+e) Por la acreditación para la elaboración de fórmulas magistrales y preparados oficinales para la dispensación en el propio establecimiento y su renovación o autorización para la elaboración de fórmulas magistrales y preparados oficinales para terceros y su renovación: 94,30 €.
+f) Por el cierre definitivo de oficinas de farmacia: 97.40 €.
+g) Por el nombramiento de farmacéuticos regentes: 54,57 €.
+Se modifica el apartado 1 por el art. 17 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica el apartado 3 por el art. 46 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se añade la letra d) al apartado 3 por el art. 25 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1183
+ Se modifican los apartados 2 y 3 por los arts. 39 y 40 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+ Se añade por el art. 29 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+## CAPÍTULO XXXVI
+
+Tasa por solicitud de concesión de la etiqueta ecológica
+Se modifica por el art. 2.11 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade por el art. 17 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 167
+
+Artículo 167. Hecho imponible.
+Constituye el hecho imponible de la tasa la tramitación por la Administración de la Comunidad de la solicitud de concesión de la etiqueta ecológica para un producto o servicio determinado.
+Se modifica por el art. 2.11 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade por el art. 17 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 168
+
+Artículo 168. Sujetos pasivos.
+Son sujetos pasivos de la tasa quienes soliciten la realización de las actividades que constituyen su hecho imponible.
+Se añade por el art. 17 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 169
+
+Artículo 169. Devengo.
+La tasa se devenga cuando se presente la solicitud que inicie la tramitación administrativa para la concesión de la etiqueta ecológica.
+Se modifica por el art. 2.12 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade por el art. 17 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 170
+
+Artículo 170. Cuotas.
+1. La tasa se exigirá de acuerdo con las siguientes cuotas:
+a) Por cada solicitud de concesión de la etiqueta ecológica, no incluida en las letras b) y c) de este apartado: 540,65 euros.
+b) Por cada solicitud de concesión de etiqueta ecológica presentada por los operadores en los países en desarrollo y por pequeñas y medianas empresas: 300 euros.
+c) Por cada solicitud de concesión de etiqueta ecológica presentada por microempresas: 200 euros.
+A estos efectos, se estará a lo establecido en la Recomendación 2003/361 de la Comisión, de 6 de mayo de 2003, sobre la definición de microempresas, pequeñas y medianas empresas.
+2. Los costes generados por las pruebas que puedan resultar necesarias en relación con los productos o servicios sujetos a solicitud de la etiqueta ecológica serán satisfechos por los solicitantes o titulares.
+La cuota de la tasa por solicitud de concesión de la etiqueta ecológica no incluye ningún elemento relativo al coste de la misma.
+Se modifica por el art. 2.7 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+ Se modifica por el art. 2.13 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade por el art. 17 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 171
+
+Artículo 171. Bonificaciones.
+La tasa por la solicitud de concesión de la etiqueta ecológica será objeto de las siguientes reducciones:
+a) Reducción del 30 %, para los solicitantes registrados en el Sistema Comunitario de Gestión y Auditoría Medioambientales (EMAS).
+b) Reducción del 15 %, para los solicitantes que dispongan de certificación conforme a la norma ISO 14001.
+Las reducciones no serán acumulativas. Cuando se satisfagan ambos sistemas solo se aplicará la reducción más elevada.
+La reducción estará sujeta a la condición de que el solicitante se comprometa expresamente a garantizar que sus productos con etiquetado ecológico cumplen plenamente los criterios pertinentes de la etiqueta ecológica de la UE durante el periodo de validez del contrato Ecolabel y que este compromiso se incorpore de forma adecuada en su política medioambiental y en objetivos ambientales detallados.
+Se modifica por el art. 2.8 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+ Se modifica por el art. 2.14 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade por el art. 17 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 172
+
+Artículo 172. Autoliquidación e ingreso.
+La cuota por solicitud de concesión de la etiqueta ecológica se autoliquidará por los sujetos pasivos en el momento en que éstos formulen la solicitud que inicie el procedimiento.
+Se modifica por el art. 2.15 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade por el art. 17 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+## CAPÍTULO XXXVII
+
+Tasa por actuaciones y servicios en materia de certificaciones de eficiencia energética de edificios de Castilla y León
+Se modifica por el art. 18.1 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se añade por el art. 12 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 173
+
+Artículo 173. Hecho imponible.
+Constituye el hecho imponible de esta tasa la actividad administrativa realizada para la inscripción o la renovación y actualización de certificado de eficiencia energética de edificio existente o parte del mismo, o de certificado de eficiencia energética de obra terminada, en el Registro Público de Certificación de Eficiencia Energética de Edificios de Castilla y León.
+Se modifica por el art. 2.8 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Se modifica por el art. 18.2 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se añade por el art. 12 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 174
+
+Artículo 174. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades a las que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la realización de las actividades que constituyen el hecho imponible.
+Se añade por el art. 12 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 175
+
+Artículo 175. Devengo.
+La tasa se devenga en el momento de presentar la solicitud de actuación administrativa, que no se iniciará hasta tanto no se haya realizado el pago correspondiente.
+Se añade por el art. 12 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 176
+
+Artículo 176. Cuotas.
+La tasa se exigirá aplicando las siguientes cuotas:
+1. Por bloques de viviendas o edificios del sector terciario: 86,93 euros.
+2. Por viviendas unifamiliares, viviendas dentro de un bloque de viviendas, o locales: 29,10 euros.
+Se modifica por el art. 18.3 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se añade por el art. 12 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+## CAPÍTULO XXXVIII
+
+Tasa por expedición de títulos en materia de juventud
+Se añade por el art. 13 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 177
+
+Artículo 177. Hecho imponible.
+Constituye el hecho imponible de esta tasa la actividad administrativa realizada por los órganos competentes en materia de juventud tendente a la expedición de títulos en materia de juventud pertenecientes al ámbito de la educación no formal.
+Se añade por el art. 13 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 178
+
+Artículo 178. Sujeto pasivo.
+Son sujetos pasivos de la tasa, las personas físicas a quienes les sean expedidos los títulos por la Administración de la Comunidad de Castilla y León, al haber superado las diferentes etapas formativas tendentes a la obtención de la titulación de juventud.
+Se añade por el art. 13 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 179
+
+Artículo 179. Devengo.
+La tasa se devengará en el momento de la solicitud, que no será tramitada mientras no se haya efectuado el pago.
+Se añade por el art. 13 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 180
+
+Artículo 180. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Por la expedición de cada uno de los títulos que en materia de Juventud se detallan a continuación: 4,50 euros:
+a) Monitor de tiempo libre.
+b) Coordinador de tiempo libre.
+c) Monitor de nivel
+d) Coordinador de nivel
+e) Profesor de formación.
+f) Director de formación
+g) Informador juvenil
+h) Gestor de información juvenil (todas las especialidades).
+i) Logista de instalaciones juveniles.
+j) Gestor de instalaciones juveniles.
+2. Por la expedición de duplicados por causas imputables al interesado: 3 euros.
+Se añade por el art. 13 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 181
+
+Artículo 181. Exenciones y bonificaciones.
+1. Gozan de exención en el pago de esta tasa los sujetos pasivos pertenecientes a familias numerosas de categoría especial.
+2. Tendrán una reducción de la cuota del 50 por 100 los sujetos pasivos pertenecientes a familias numerosas de categoría general.
+3. Las bonificaciones y exenciones reguladas en los apartados anteriores sólo serán de aplicación cuando la base imponible total, menos el mínimo personal y familiar, del sujeto pasivo de la tasa no supere 18.900 euros en tributación individual o 31.500 en tributación conjunta.
+Se añade el apartado 3 por el art. 20 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se añade por el art. 13 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+## CAPÍTULO XXXIX
+
+Tasa en materia de protección ciudadana
+Se añade por el art. 47 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 182
+
+Artículo 182. Hecho imponible.
+1. Constituyen el hecho imponible de esta tasa los servicios prestados por los órganos competentes de la Administración de la Comunidad de Castilla y León en materia de protección ciudadana, a instancia del interesado o bien de oficio por razones de seguridad pública, en el ámbito de las competencias de la Comunidad, en los siguientes supuestos, aunque el riesgo o peligro sean simulados:
+a) Búsqueda y rescate de personas, en los siguientes casos:
+– Cuando el afectado no haya atendido los boletines o partes de avisos de alerta o de predicción de meteorología adversa emitidos por los servicios meteorológicos nacionales, protección civil u organismos análogos, incluidos los avisos emitidos por la Junta de Castilla y León.
+– Cuando la búsqueda o rescate tenga lugar en zonas señaladas como peligrosas o en aquellas de acceso prohibido o restringido, sin autorización de la autoridad competente.
+– Cuando las personas rescatadas no llevaran el equipamiento adecuado a la actividad.
+b) Asistencia en accidentes de tráfico, ferrocarril u otros medios de transporte, incluidos aquellos en los que estén presentes mercancías peligrosas.
+2. No se produce el hecho imponible por actuaciones o intervenciones a consecuencia de causas de fuerza mayor, de grave riesgo colectivo o de calamidad pública.
+Se añade por el art. 47 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 183
+
+Artículo 183. Sujetos pasivos.
+1. Serán sujetos pasivos de la tasa, en concepto de contribuyentes, las personas físicas o jurídicas y las entidades a las que se refiere el artículo 35 de la Ley General Tributaria que resulten afectadas o beneficiadas, personalmente o en sus bienes, por la actuación o intervención que constituya el hecho imponible.
+2. En los casos de simulación de existencia de riesgo o peligro, se considerará, en todo caso, sujeto pasivo al responsable de dicha simulación.
+3. En el supuesto descrito en la letra b) del artículo anterior, se considerará sujeto pasivo al causante o responsable del suceso.
+4. Se considerarán sustitutas del contribuyente las entidades aseguradoras con las que se tenga contratada la cobertura de los riesgos que constituyen la causa y den lugar a la prestación de las actuaciones o intervenciones señaladas en el hecho imponible.
+Se añade por el art. 47 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 184
+
+Artículo 184. Devengo.
+La tasa se devengará en el momento en que se inicien las actuaciones o intervenciones constitutivas del hecho imponible. A todos los efectos, el inicio de la actuación o intervención coincidirá con la salida de la dotación correspondiente desde la base donde esté situada.
+Se añade por el art. 47 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 185
+
+Artículo 185. Cuotas.
+1. La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Servicios prestados por rescatador de búsqueda y rescate, incluida la parte proporcional de equipamientos: 32,30 euros/hora.
+2. Servicios prestados por operador de logística, incluida la parte proporcional de equipamientos: 25,47 euros/hora.
+3. Servicios prestados por técnico de mando o coordinación, incluida la parte proporcional de equipamientos: 37,83 euros/hora.
+4. Servicios prestados por helicóptero de protección ciudadana: 1.947 euros/hora.
+2. La primera hora, que comprenderá los derechos de salida, se devengará completa. A partir de la primera hora, se liquidará por minutos.
+Se añade por el art. 47 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 186
+
+Artículo 186. Exenciones.
+Están exentas del pago de esta tasa las entidades del sector público autonómico de la Comunidad de Castilla y León, así como las entidades locales de la Comunidad.
+Se añade por el art. 47 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+## CAPÍTULO XL
+
+Tasa por actividades administrativas en materia audiovisual y cinematográfica
+Se añade por el art. 48 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 187
+
+Artículo 187. Hecho imponible.
+Constituye el hecho imponible de esta tasa la entrega por la Administración de la Comunidad de Castilla y León de copias o reproducciones de la documentación custodiada en la Filmoteca de Castilla y León.
+Se añade por el art. 48 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 188
+
+Artículo 188. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas que soliciten las actuaciones administrativas constitutivas del hecho imponible.
+Se añade por el art. 48 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 189
+
+Artículo 189. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Fotocopias:
+Fotocopias blanco y negro: Copia DIN A4: 0,05 euros.
+2. Reproducciones fotográficas:
+Fotografías 13 × 8 cm: 10,11 euros.
+3. Imágenes digitales (incluido soporte DVD-R): 9,31 euros.
+Se añade por el art. 48 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+## CAPÍTULO XLI
+
+Tasa por la participación en el procedimiento para la evaluación y acreditación de las competencias profesionales adquiridas a través de la experiencia laboral o de vías no formales de formación
+Se modifica por el art. 2.16 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade por el art. 49 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 190
+
+Artículo 190. Hecho imponible.
+Constituye el hecho imponible de la tasa la participación en el procedimiento para la evaluación y acreditación de las competencias profesionales adquiridas a través de la experiencia laboral o de vías no formales de formación convocadas por la Comunidad de Castilla y León, de conformidad con lo dispuesto en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral.
+Se modifica por el art. 2.16 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade por el art. 49 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 191
+
+Artículo 191. Sujetos pasivos.
+Son sujetos pasivos de la tasa las personas admitidas a la fase de asesoramiento del procedimiento a que se refiere el artículo anterior.
+Se modifica por el art. 2.16 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade por el art. 49 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 192
+
+Artículo 192. Devengo.
+La tasa se devenga previamente al inicio de la fase de asesoramiento del procedimiento.
+Se modifica por el art. 2.16 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade por el art. 49 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 193
+
+Artículo 193. Cuota.
+La tasa se exigirá de acuerdo con la siguiente cuota: 36 euros por cada cualificación profesional por la que se participe en el procedimiento.
+Se modifica por el art. 2.16 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade por el art. 49 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 194
+
+Artículo 194. Exenciones y bonificaciones.
+La tasa por participación en el procedimiento para la evaluación y acreditación de las competencias profesionales adquiridas a través de la experiencia laboral o de vías no formales de formación será objeto de las siguientes exenciones y bonificaciones:
+1. Una exención total de la cuota si el sujeto pasivo pertenece a una familia numerosa de categoría especial, o es una persona desempleada que figure inscrita como tal en su correspondiente oficina de empleo, o tiene una discapacidad igual o superior al 33%.
+2. Una bonificación del 50% de la cuota si el sujeto pasivo pertenece a una familia numerosa de categoría general.
+Las bonificaciones y exenciones reguladas en este artículo sólo serán de aplicación cuando la base imponible total, menos el mínimo personal y familiar, del sujeto pasivo de la tasa no supere 18.900 euros en tributación individual o 31.500 euros en tributación conjunta.
+Se modifica por el art. 2.16 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade el último párrafo por el art. 21 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se añade por el art. 49 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 195
+
+Artículo 195. Devolución.
+(Sin contenido)
+Se deja sin contenido por el art. 2.16 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade por el art. 49 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+## CAPÍTULO XLII
+
+Tasa por expedición de certificados de profesionalidad, acreditaciones parciales acumulables y expedición de duplicados
+Téngase en cuenta que se procede a la exención de la tasa regulada en este capítulo, desde el 15 de mayo de 2024 hasta el 31 de diciembre de 2025, ambos días inclusive, según establece la disposición adicional 1 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+Se añade por el art. 50 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 196
+
+Artículo 196. Hecho imponible.
+Constituye el hecho imponible de la tasa la actividad administrativa inherente a la expedición de certificados de profesionalidad y acreditaciones parciales acumulables, con validez en todo el territorio español, así como la expedición, por causas no imputables a la Administración, de duplicados de dichos certificados o acreditaciones.
+Se añade por el art. 50 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 197
+
+Artículo 197. Sujetos pasivos.
+Son sujetos pasivos de la tasa las personas que soliciten las actuaciones administrativas constitutivas del hecho imponible.
+Se añade por el art. 50 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 198
+
+Artículo 198. Devengo.
+La tasa se devenga cuando se presente la solicitud que inicie la actuación administrativa, que no se tramitará mientras no se haya efectuado el pago.
+Se añade por el art. 50 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 199
+
+Artículo 199. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Por expedición de certificados de profesionalidad y acreditaciones parciales acumulables (por unidad):
+a. Certificados de profesionalidad: 40 euros.
+b. Acreditaciones parciales acumulables: 20 euros.
+2. Por expedición de duplicados de certificados o acreditaciones (por unidad): 15 euros.
+Se añade por el art. 50 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 200
+
+Artículo 200. Exenciones y bonificaciones.
+La tasa por expedición de certificados de profesionalidad y acreditaciones parciales acumulables y expedición de duplicados será objeto de las siguientes exenciones y bonificaciones:
+1. Una exención total de la cuota por expedición de certificados, acreditaciones parciales acumulables y duplicados, si el sujeto pasivo pertenece a una familia numerosa de categoría especial o es una persona desempleada que figure inscrita como tal en su correspondiente Oficina de empleo.
+2. Una bonificación del 50% de la cuota por expedición de certificados, acreditaciones y duplicados, si el sujeto pasivo pertenece a una familia numerosa de categoría general.
+Las bonificaciones y exenciones reguladas en este artículo sólo serán de aplicación cuando la base imponible total, menos el mínimo personal y familiar, del sujeto pasivo de la tasa no supere 18.900 euros en tributación individual o 31.500 en tributación conjunta.
+Se añade el último párrafo por el art. 22 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se añade por el art. 50 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+## CAPÍTULO XLIII
+
+Tasa por la evaluación o emisión de informes previos a la contratación de determinadas modalidades de personal Docente e Investigador por parte de las Universidades
+Se añade por el art. 23 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+### Artículo 201
+
+Artículo 201. Hecho imponible.
+Constituye el hecho imponible de la tasa la actividad administrativa inherente a la evaluación o emisión de informes previos a la contratación de las siguientes modalidades de personal docente e investigador por parte de las universidades: profesor Contratado Doctor, Ayudante Doctor, profesor de Universidad privada con título de Doctor o profesor Colaborador.
+Se añade por el art. 23 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+### Artículo 202
+
+Artículo 202. Sujetos Pasivos.
+Son sujetos pasivos de la tasa las personas que soliciten las actuaciones administrativas constitutivas del hecho imponible.
+Se añade por el art. 23 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+### Artículo 203
+
+Artículo 203. Devengo.
+La tasa se devenga en el momento de presentación de la solicitud que inicie la actuación administrativa, que no se tramitará mientras no se haya efectuado el pago.
+Se añade por el art. 23 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+### Artículo 204
+
+Artículo 204. Cuotas.
+La tasa por la evaluación o emisión de informe de cada figura contractual se exigirá de acuerdo con las siguientes cuotas:
+a) Si la tramitación en alguna de las fases de procedimiento se hace de manera presencial: 55,00 euros.
+b) Si la tramitación de todo el procedimiento se hace de forma telemática: 50,00 euros.
+Se modifica por el art. 2.6 de la Ley 7/2015, de 30 de diciembre. Ref. BOE-A-2016-1884
+ Se añade por el art. 23 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+## CAPÍTULO XLIV
+
+Tasa por la autorización o reconocimiento de compatibilidad con actividades públicas o privadas al personal comprendido en el ámbito de aplicación del Reglamento de Incompatibilidades del Personal al Servicio de la Administración de la Comunidad de Castilla y León aprobado mediante Decreto 227/1997, de 20 de noviembre
+Se añade por el art. 24 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+### Artículo 205
+
+Artículo 205. Hecho imponible.
+Constituye el hecho imponible de la tasa la solicitud de autorización o de reconocimiento de compatibilidad con actividades públicas o privadas formulada por el personal comprendido en el ámbito de aplicación del Reglamento de Incompatibilidades del Personal al Servicio de la Administración de la Comunidad de Castilla y León aprobado mediante Decreto 227/1997, de 20 de noviembre.
+Se añade por el art. 24 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+### Artículo 206
+
+Artículo 206. Sujetos pasivos.
+Son sujetos pasivos los empleados públicos de la Administración de la Comunidad de Castilla y León y de su sector público en los términos previstos en el ámbito de aplicación del Reglamento de Incompatibilidades del Personal al Servicio de la Administración de la Comunidad de Castilla y León, que soliciten dicha autorización o reconocimiento conforme a la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, y al propio Reglamento.
+Se añade por el art. 24 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+### Artículo 207
+
+Artículo 207. Cuota.
+La tasa se exigirá de acuerdo con la siguiente cuota:
+Solicitud de autorización o reconocimiento de compatibilidad con actividades públicas o privadas: 75,00 euros.
+Se añade por el art. 24 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+### Artículo 208
+
+Artículo 208. Devengo.
+1. La tasa se devengará cuando se presente la solicitud que inicie el procedimiento administrativo, que no se tramitará sin que se haya efectuado y acreditado el pago correspondiente.
+2. En aquellos casos en que se solicite simultáneamente autorización o reconocimiento de compatibilidad para más de una actividad, se devengará la correspondiente tasa por cada una de las actividades solicitadas.
+Se añade por el art. 24 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+## CAPÍTULO XLV
+
+Tasa por inscripción o acreditación en el Registro de centros y entidades de formación profesional para el empleo de Castilla y León
+Se añade por el art. 2.17 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+
+### Artículo 209
+
+Artículo 209. Hecho imponible.
+Constituye el hecho imponible de la tasa la presentación de solicitud para la inscripción y, en su caso, acreditación en el Registro de centros y entidades de formación profesional para el empleo de Castilla y León, así como para la modificación de las mismas.
+Se añade por el art. 2.17 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+
+### Artículo 210
+
+Artículo 210. Sujetos pasivos.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas titulares de los centros o entidades de formación que presenten la solicitud constitutiva del hecho imponible.
+Se añade por el art. 2.17 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+
+### Artículo 211
+
+Artículo 211. Devengo.
+La tasa se devenga en el momento de presentación de la solicitud constitutiva del hecho imponible. La solicitud se tramitará previa acreditación del pago de la tasa.
+El desistimiento, inadmisión o desestimación de la solicitud no generará derecho a devolución de la tasa devengada.
+Se añade por el art. 2.17 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+
+### Artículo 212
+
+Artículo 212. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Por inscripción y, en su caso, acreditación:
+a) Por presentación de la solicitud: 180 euros.
+b) Por cada especialidad contenida en la solicitud: 30 euros.
+2. Por modificación de la inscripción y, en su caso, acreditación:
+Por presentación de la solicitud: 180 euros.
+Se añade por el art. 2.17 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+
+### Artículo 213
+
+Artículo 213. Exención.
+Quedan exentos del pago de la tasa la Administración General y los entes integrantes de la Administración Institucional de la Comunidad de Castilla y León respecto de los centros o entidades de formación profesional para el empleo que sean de su titularidad.
+Se añade por el art. 2.17 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+
+## CAPÍTULO XLVI
+
+Tasa por autorización, seguimiento, control y evaluación de la impartición de acciones formativas conducentes a la obtención de certificados de profesionalidad no financiadas con fondos públicos de la administración laboral
+Se añade por el art. 2.18 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+
+### Artículo 214
+
+Artículo 214. Hecho imponible.
+Constituye el hecho imponible de la tasa la presentación de solicitud para la autorización, seguimiento, control y evaluación de acciones de formación profesional para el empleo conducentes a la obtención de certificados de profesionalidad, no financiadas con fondos públicos provenientes de la administración laboral, desarrolladas en el ámbito territorial de Castilla y León en la modalidad presencial, por centros y entidades de formación previamente inscritos y acreditados en el Registro de centros y entidades de formación profesional para el empleo de Castilla y León.
+Se añade por el art. 2.18 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+
+### Artículo 215
+
+Artículo 215. Sujetos pasivos.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas titulares de los centros o entidades de formación profesional para el empleo que presenten la solicitud constitutiva del hecho imponible.
+Se añade por el art. 2.18 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+
+### Artículo 216
+
+Artículo 216. Devengo.
+La tasa se devenga en el momento de presentación de la solicitud constitutiva del hecho imponible. La solicitud se tramitará previa acreditación del pago de la tasa. El desistimiento, inadmisión o desestimación de la solicitud no generará derecho a devolución de la tasa devengada.
+Se añade por el art. 2.18 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+
+### Artículo 217
+
+Artículo 217. Cuota.
+La cuota de la tasa por cada acción formativa para la que se solicita autorización es de 270 euros.
+Se añade por el art. 2.18 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+
+### Artículo 218
+
+Artículo 218. Exención.
+Quedan exentos del pago de la tasa la Administración General y los entes integrantes de la Administración Institucional de la Comunidad de Castilla y León respecto de los centros o entidades de formación profesional para el empleo que sean de su titularidad.
+Se añade por el art. 2.18 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+
+## CAPÍTULO XLVII
+
+Tasa por emisión de informe con carácter previo a la adquisición o transmisión de bienes inmuebles
+Se añade por el art. 2.9 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+
+### Artículo 219
+
+Artículo 219. Hecho imponible.
+Constituye el hecho imponible de esta tasa la emisión, a solicitud del interesado, y en relación con los tributos cuya gestión corresponda a la Comunidad Autónoma de Castilla y León, de informes sobre el valor a efectos fiscales de los bienes inmuebles que, situados en el territorio de la Comunidad, vayan a ser objeto de adquisición o transmisión, salvo que éstos se obtengan directamente por los medios telemáticos que a tal efecto establezca la Comunidad Autónoma de Castilla y León.
+Se añade por el art. 2.9 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+
+### Artículo 220
+
+Artículo 220. Sujeto pasivo.
+Son sujetos pasivos las personas físicas y jurídicas y entidades a que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten los citados informes de valor.
+Se añade por el art. 2.9 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+
+### Artículo 221
+
+Artículo 221. Devengo.
+La tasa se devengará en el momento en el que se solicite la valoración, siendo necesario la autoliquidación y pago previo de la misma.
+Se añade por el art. 2.9 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+
+### Artículo 222
+
+Artículo 222. Cuotas.
+La tasa se exigirá de acuerdo con las siguientes cuotas:
+Bien a valorar
+ Tasa por cada bien valorado
+ Piso, vivienda colectiva, almacén, trastero, garaje, o finca rústica con superficie menor o igual a 10 Ha in edificaciones.
+ 30 euros.
+ Edificio, parte de un edificio, casa, vivienda rural, vivienda unifamiliar, local comercial, oficina, nave industrial, nave agrícola, o nave ganadera.
+ 40 euros.
+ Suelo urbano, suelo urbanizable, finca rústica con superficie mayor de 10 Ha.
+ 50 euros.
+Se añade por el art. 2.9 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Las tasas que el Estado y las Corporaciones Locales transfieran a la Comunidad continuarán rigiéndose por las mismas normas que las regulen antes de la transferencia, en lo que no se opongan a esta Ley, hasta que se dicte la normativa propia correspondiente.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Los precios públicos que se satisfacen por las visitas a los museos y lugares equiparables a los mismos dependientes de la Administración de la Comunidad de Castilla y León se aprobarán por la Junta de Castilla y León, a propuesta de la consejería respectiva y previo informe de la Dirección General de Tributos y Financiación Autonómica, en la cuantía necesaria en función de los costes y niveles de prestación de tales servicios.
+Se modifica por el art. 19 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+A partir del 1 de enero de 2002 el apartado 1 del artículo 61 quedará redactado de la siguiente forma:
+«1. Inscripción de nuevas industrias, ampliación o modificación de las existentes y sustitución de maquinaria:
+a) Menos de 60.000,00: 72,9.
+b) Entre 60.000,01 y 300.000,00: 72,9 + 0,4 (N-60).
+c) Entre 300.000,01 y 1.200.000,00: 169,06 + 0,35 (N-300).
+d) Entre 1.200.000,01 y 3.000.000,00: 484,60 + 0,3 (N-1.200).
+e) Entre 3.000.000,01 y 6.000.000,00: 1.025,51 + 0,25 (N-3.000).
+f) Más de 6.000.000,01: 1.776,77 + 0,2 (N-6.000).
+Siendo N el importe en miles, por exceso, de la inversión realizada.»
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+A partir del 1 de enero de 2002 el apartado 1, letra a), del artículo 143 quedará redactado de la siguiente forma:
+«1. Inscripción de establecimientos industriales y control de industrias:
+a) Inscripción de nuevas industrias y sus ampliaciones. Según el valor de la inversión en maquinaria e instalaciones:
+Hasta 3.000: 37,26.
+Entre 3.000,01 y 30.000: 51,09.
+Entre 30.000,01 y 90.000: 105,78.
+Entre 90.000,01 y 150.000: 179,70.
+Entre 150.000,01 y 600.000: 179,70 + N.
+Entre 600.000, 01 y 3.000.000: 630,46 + 0,7 N.
+Entre 3.000.000,01 y 12.000.000: 2.310,3 + 0,5 N.
+Entre 12.000.000,01 y 30.000.000: 6.820,89 + 0,2 N.
+Más de 30.000.000,01: 10.426,96 + 0,1 N.
+Siendo “N” el número de millares con dos decimales o fracción que exceda de la base mínima del tramo correspondiente.
+La inscripción de las industrias agrarias y alimentarias no está sujeta a la tasa por inscripción en el Registro Industrial, si bien cuando sus instalaciones se rijan por reglamentos específicos devengarán la correspondiente tasa en materia de industria y energía.»
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+A partir del 1 de enero de 2002 el apartado 1 del artículo 146 quedará redactado de la siguiente forma:
+«1. Verificación primitiva de aparatos sometidos a control metrológico. Por cada unidad verificada, en función de su precio de venta al público:
+Hasta 6,01: El 5 por 100.
+Entre 6,02 y 300,51: 0,30 + el 2 por 100 N.
+Entre 300,52 y 601,01: 6,19 + el 1 por 100 N.
+Entre 601,02 y 1.502,53: 9,20 + el 0,8 por 100 N.
+Entre 1.502,54 y 3.005,06: 16,41 + el 0,6 por 100 N.
+Entre 3.005,07 y 6.010,12: 25,42 + el 0,4 por 100 N.
+Entre 6.010,13 y 30.050,61: 37,44 + el 0,2 por 100 N.
+Más de 30.050,62: 85,52 + el 0,1 por 100 N.
+Siendo “N” el precio que excede de la base mínima del tramo correspondiente.
+Cuando la verificación primitiva se realice por muestreo, para calcular el importe de la tasa sólo se tendrá en cuenta el número de unidades de la muestra.»
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Cualquier referencia a las concesiones y a las empresas concesionarias contenida en los capítulos VIII y XXXIV del título IV de la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León, se entenderá realizada a las licencias y a las empresas licenciatarias, respectivamente.
+Se añade por el art. 28 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los precios fijados por la Junta de Castilla y León con anterioridad a la entrada en vigor de esta Ley que cumplan los requisitos establecidos en el artículo 16, tendrán la consideración de precios públicos, y continuarán regulándose por las mismas normas que los establecieron o regularon, en cuanto no se opongan a lo dispuesto en esta Ley, en tanto no se modifiquen de conformidad con lo que determina esta Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Tasa por habilitaciones para el ejercicio profesional de protésicos dentales e higienistas dentales a quienes es de aplicación la disposición transitoria primera del Real Decreto 1594/1994, de 15 de julio, por el que se desarrolla lo previsto en la Ley 10/1986, que regula la profesión de odontólogo, protésico e higienista dental, continuará vigente hasta el 31 de diciembre del año 2001, en los términos establecidos en los artículos 10 a 12 de la Ley 13/1998, de 23 de diciembre, de Medidas Económicas, Fiscales y Administrativas.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+En tanto no se desarrollen reglamentariamente los procedimientos de gestión, liquidación y recaudación de las tasas y de administración y cobro de los precios públicos de la Comunidad, conservarán su vigencia las normas que desarrollan la legislación que ahora se deroga, en lo que no se opongan a lo dispuesto en esta Ley.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+La presente Ley no será de aplicación a las concesiones administrativas de utilización del dominio público anteriores a su vigencia.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Bonificación de la tasa por prestación de servicios veterinarios.
+Con vigencia en el ejercicio 2021, será aplicable una bonificación del 95% en la cuota tributaria de la tasa por prestación de servicios veterinarios.
+Se modifica por el art. 2.10 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+ Se modifica por el art. 3.9 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica por el art. 51 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se modifica por el art. 29 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+ Se añade por el art. 13 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+ Se modifica por el art. 18 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+ Se añade por el art. 12 de la Ley 9/2007, de 27 de diciembre. Ref. BOE-A-2008-907
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Reducción transitoria en la tasa por licencias de caza de la clase A.
+Durante el año 2015 se aplicará una reducción del 10 % de la cuota correspondiente a las licencias anuales de caza de la Clase A para aquellos cazadores que se encuentren federados en la Federación de Caza de Castilla y León.
+Se modifica por el art. 2.19 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117
+ Se añade por el art. 20 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Bonificación de determinadas tasas para el ejercicio 2018.
+Con vigencia exclusiva en el ejercicio 2018 será aplicable una bonificación del 100 % en la cuota tributaria de las siguientes tasas:
+Tasa por actuaciones administrativas –relativas a actividades agrícolas.
+Tasa por aprovechamiento de pastos, hierbas y rastrojeras.
+Tasa por prestación de servicios veterinarios.
+Tasa en materia de industrias agroalimentarias.
+Se modifica por el art. 2.4 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Se añade por el art. 3.10 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a la presente Ley y en especial:
+a) La Ley 7/1989, de 9 de noviembre, de Tasas y Precios Públicos de la Comunidad Autónoma de Castilla y León, excepto su disposición adicional primera.
+b) El artículo 34 de la Ley 1/1989, de 10 de febrero, de Presupuestos Generales de la Comunidad para 1989.
+c) El Decreto 356/1991, de 26 de septiembre, de implantación de una tasa por la prestación de servicios de supervisión, inspección y control de la actividad desarrollada por las Entidades de Inspección y Control Reglamentario.
+d) El Decreto 114/1992, de 2 de julio, de aplicación de la tasa por la prestación de servicios relativos a la acreditación de laboratorios de ensayo para el control de calidad.
+e) El artículo 18.5 del Decreto 82/1994, de 7 de abril, por el que se regula la actividad recaudatoria de la Administración de la Comunidad.
+f) El Decreto 174/1994, de 28 de julio, que regula los precios de entrada a los museos.
+g) El Decreto 218/1994, de 6 de octubre, de aplicación de la tasa por inscripción en las pruebas selectivas del personal al servicio de la Administración de la Comunidad de Castilla y León.
+h) Las disposiciones transitorias cuarta y quinta de la Ley 4/1996, de 12 de julio, de Caza de Castilla y León.
+i) El artículo 5 de la Ley 11/1997, de Medidas Económicas, Fiscales y Administrativas, que añade una tarifa 26.a) a la tasa por prestación de servicios facultativos veterinarios.
+j) La Ley 6/1998, de 9 de julio, de Tasas por Inspecciones y Controles Sanitarios de Animales y sus Productos.
+k) Los artículos 13 a 15, ambos inclusive, de la Ley 13/1998, de Medidas Económicas, Fiscales y Administrativas, que crean la tasa por certificación del reconocimiento de titulaciones de profesiones sanitarias.
+l) Artículo 48 de la Ley 1/1999, de 4 de febrero, de Ordenación de los Recursos Agropecuarios Locales y de la Tasa por Aprovechamiento de Pastos, Hierbas y Rastrojeras; y los artículos 72, 73, 74 y 75 de su Reglamento aprobado por el Decreto 307/1999, de 9 de diciembre.
+m) Los artículos 8 a 13, ambos inclusive, de la Ley 6/1999, de Medidas Económicas, Fiscales y Administrativas, por los que se modifica la tarifa 26 de la tasa por prestación de servicios facultativos veterinarios y se crea la tasa por participación en las pruebas selectivas del personal al servicio de la Administración de la Comunidad.
+n) Los artículos 16 a 34, ambos inclusive, de la Ley 12/2000, de Medidas Económicas, Fiscales y Administrativas, que regulan la tasa en materia de radiodifusión sonora, en materia de transportes por carretera, en materia de juego y en materia de espectáculos y actividades recreativas.
+o) El apartado 1 del artículo 43 de la Ley 11/2000, de 28 de diciembre, de Presupuestos Generales de la Comunidad para el año 2001, en cuanto a las tarifas del «Boletín Oficial de Castilla y León».
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el primer día del trimestre natural siguiente al de la fecha de su publicación en el «Boletín Oficial de Castilla y León», excepto sus disposiciones adicionales que lo harán el día siguiente al de la indicada publicación.
+
+### [firma]
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 20 de diciembre de 2001.
+JUAN VICENTE HERRERA CAMPO,
+Presidente
+(Publicada en el «Boletín Oficial de Castilla y León», suplemento al número 249, de 26 de diciembre de 2001)

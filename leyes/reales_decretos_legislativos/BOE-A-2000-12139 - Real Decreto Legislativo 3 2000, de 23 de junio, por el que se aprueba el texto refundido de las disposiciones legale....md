@@ -1,0 +1,362 @@
+# Real Decreto Legislativo 3/2000, de 23 de junio, por el que se aprueba el texto refundido de las disposiciones legales vigentes sobre el Régimen especial de Seguridad Social del personal al servicio de la Administración de Justicia.
+
+- Identificador BOE: `BOE-A-2000-12139`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2000-12139
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 162, de 7 de julio de 2000. Ref. BOE-A-2000-12880
+
+## Preámbulo
+
+La Ley 29/1975, de 27 de junio, sobre Seguridad Social de los Funcionarios Civiles del Estado, determinaba en su disposición adicional segunda que la Seguridad Social del personal al servicio de la Administración de Justicia se regulará por una ley especial, adaptada a las directrices de la Ley 29/1975, y en régimen de mutualismo, a través de una Mutualidad de Funcionarios de la Administración de Justicia.
+En cumplimiento de la anterior previsión legal, el Real Decreto-ley 16/1978, de 7 de junio, creó la Mutualidad General Judicial, a través de la cual se gestiona el Régimen especial de Seguridad Social de los Funcionarios de la Administración de Justicia, adoptándose como directrices fundamentales la tendencia a la unidad, la participación de los interesados en el gobierno de la Mutualidad y la prestación por el Estado de la necesaria cobertura económica, de forma que la Mutualidad General Judicial quedaba definitivamente consolidada dentro del sistema de la Seguridad Social española.
+Esta norma ha sido objeto de numerosas modificaciones posteriores. Entre las disposiciones con rango de ley que han incidido en ella pueden citarse, sin ánimo exhaustivo, la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial ; el texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto legislativo 676/1987, de 30 de abril ; sucesivas Leyes de Presupuestos Generales del Estado y de Medidas fiscales, administrativas y del orden social y la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de enero.
+Por otra parte, es preciso tener presente que la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, como dispone el artículo 62 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, es de aplicación a esta Mutualidad General Judicial en lo relativo a los Organismos autónomos, con determinadas especialidades que se establecen en el mismo artículo.
+Asimismo, el citado artículo 62 de la Ley 50/1998, de 14 de abril, autoriza al Gobierno para que, en el plazo de un año a partir de la entrada en vigor de dicha Ley, proceda a la elaboración, entre otros, de un texto refundido que regularice, aclare y armonice el Real Decreto-ley 16/1978, de 7 de junio, y sus modificaciones posteriores con las disposiciones que hayan incidido en el ámbito del mutualismo administrativo contenidas en norma con rango de ley.
+Finalmente, la disposición adicional segunda de la Ley 55/1999, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, prorroga hasta el 30 de junio del año 2000 la autorización otorgada al Gobierno por el artículo 62 anteriormente mencionado.
+En su virtud, a propuesta del Ministro de Justicia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 23 de junio de 2000,
+D I S P O N G O :
+
+### Artículo único
+
+Artículo único.
+Se aprueba el texto refundido de las disposiciones legales vigentes sobre el Régimen especial de Seguridad Social del personal al servicio de la Administración de Justicia, que se inserta a continuación.
+
+### Disposición final única
+
+Disposición final única.
+El presente Real Decreto legislativo, y el texto refundido que aprueba, entrarán en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Madrid a 23 de junio de 2000.
+JUAN CARLOS R.
+El Ministro de Justicia,
+ÁNGEL ACEBES PANIAGUA
+
+## TEXTO
+
+Texto refundido de las disposiciones legales vigentes sobre el Régimen especial de Seguridad Social del personal al servicio de la Administración de Justicia
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Régimen especial del personal al servicio de la Administración de Justicia.
+El Régimen especial de Seguridad Social del personal al servicio de la Administración de Justicia se regirá por lo dispuesto en el presente Real Decreto-ley y en sus normas de aplicación y desarrollo.
+
+### Artículo 2
+
+Artículo 2. Campo de aplicación.
+Quedan obligatoriamente incluidos en este Régimen especial:
+a) El personal al servicio de la Administración de Justicia comprendido en la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+b) Los funcionarios en prácticas al servicio de la Administración de Justicia, con la extensión y en los términos que se fijen reglamentariamente.
+
+### Artículo 3
+
+Artículo 3. Mecanismos de cobertura.
+1. Este Régimen especial queda integrado por los siguientes mecanismos de cobertura:
+a) El Régimen de Clases Pasivas del Estado, de acuerdo con sus normas específicas.
+b) El Mutualismo Judicial, que se regula en la presente Ley.
+2. No obstante lo anterior, el personal al servicio de la administración de justicia comprendido en el campo de aplicación de esta Ley que haya ingresado a partir del 1 de enero de 2011, quedará integrado en el Régimen General de la Seguridad Social a los exclusivos efectos de pensiones, manteniendo su condición de mutualistas de la Mutualidad General Judicial y teniendo acceso a todas las prestaciones reguladas en la presente Ley y gestionadas por la Mutualidad General Judicial, de acuerdo con lo dispuesto en la disposición adicional tercera, apartado 1 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social.
+Se modifica por la disposición final 5.1 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+
+## CAPÍTULO II
+
+Mutualidad General Judicial
+
+### Artículo 4
+
+Artículo 4. Adscripción de la Mutualidad General Judicial.
+El sistema de Mutualismo Judicial, que se regula en el presente Real Decreto-ley, se gestionará a través de la Mutualidad General Judicial, adscrita al Ministerio de Justicia.
+
+### Artículo 5
+
+Artículo 5. Naturaleza y régimen jurídico.
+1. La Mutualidad General Judicial es un organismo público con personalidad jurídica pública diferenciada, patrimonio y tesorería propios, así como autonomía de gestión, y se regirá por las previsiones de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, relativas a los Organismos autónomos, salvo lo dispuesto en el apartado siguiente. Asimismo, la Mutualidad General Judicial gozará del mismo tratamiento fiscal que la Ley establezca para el Estado.
+2. El régimen económico-financiero, patrimonial, presupuestario y contable, así como el de intervención y control financiero de las prestaciones y el régimen de los conciertos para la prestación de los servicios de asistencia sanitaria y farmacéutica será el establecido por su legislación específica, por la Ley General Presupuestaria en las materias que sean de aplicación y supletoriamente por la Ley de Organización y Funcionamiento de la Administración General del Estado.
+Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 162, de 7 de julio de 2000. Ref. BOE-A-2000-12880
+
+### Artículo 6
+
+Artículo 6. Gobierno y administración.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.e) de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Artículo 7
+
+Artículo 7. Funcionarios al servicio de la Mutualidad General Judicial.
+Los funcionarios de la Administración General del Estado o de la Administración de Justicia que pasen a prestar sus servicios en la Mutualidad General Judicial permanecerán en la situación de servicio activo en los cuerpos, escalas o plazas de procedencia.
+Redactado conforme a la corrección de errores publicada en BOE núm. 162, de 7 de julio de 2000. Ref. BOE-A-2000-12880
+
+### Artículo 8
+
+Artículo 8. Funcionamiento de los órganos de la Mutualidad General Judicial.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.e) de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+## CAPÍTULO III
+
+De las personas protegidas, de la afiliación y de la cotización
+
+### Artículo 9
+
+Artículo 9. Campo de aplicación.
+1. El personal comprendido en el artículo 2 de este Real Decreto-ley, en situación de servicio activo o en prácticas, excedencia forzosa, excedencia para el cuidado de hijos, servicios especiales o suspensión de funciones, será obligatoriamente incorporado, como mutualista, a la Mutualidad General Judicial.
+2. Se mantendrá obligatoriamente en el campo de aplicación de este Régimen especial el personal comprendido en el artículo 2 de este Real Decreto-ley que pase a la situación de jubilado, salvo que, en tal situación y estando incorporado a otro Régimen de Seguridad Social, haya renunciado o renuncie expresamente al regulado en este Real Decreto-ley.
+3. El personal que por motivos distintos al aludido en el número anterior pierda la condición de funcionario o se encuentre o pase a la situación de excedencia voluntaria, salvo lo previsto para el cuidado de hijos, adquirirá o conservará, respectivamente, la condición de mutualista, con igualdad de derechos, siempre que satisfaga, a su cargo, las cuotas y aportación del Estado correspondiente.
+4. Cuando una única prestación de servicios sea causa de inclusión obligatoria en este Régimen especial y en otro u otros regímenes de Seguridad Social, se podrá optar, por una sola vez, por pertenecer exclusivamente al regulado en este Real Decreto-ley, salvo que la doble afiliación afecte a éste y a otro Régimen especial de funcionarios, en cuyo caso se podrá optar también, por una sola vez, por pertenecer a cualquiera de los dos.
+5. Los viudos, viudas y huérfanos de mutualistas activos o jubilados, siempre que no tengan derecho por sí mismos a equivalente cobertura de asistencia sanitaria mediante otro régimen de los que componen el Sistema Español de Seguridad Social, tendrán derecho a las prestaciones establecidas en los apartados a) y e) del artículo 12 del presente Real Decreto-ley.
+
+### Artículo 10
+
+Artículo 10. Cotización.
+1. La cotización a la Mutualidad General Judicial será obligatoria para todos los mutualistas que se enumeran en los apartados 1 y 3 del artículo 9 del presente Real Decreto-ley. Los mutualistas en situación de excedencia por cuidado de hijos no tendrán obligación de cotizar mientras dure tal situación.
+2. La base de cotización será la que anualmente se establezca como haber regulador en la Ley de Presupuestos Generales del Estado.
+3. El tipo porcentual de cotización será fijado anualmente en la Ley de Presupuestos Generales del Estado.
+4. La cuota mensual de cotización se obtendrá dividiendo por catorce la cantidad resultante de aplicar a la base de cotización anual el tipo porcentual establecido, y se abonará doblemente en los meses de junio y diciembre.
+No obstante, la cotización correspondiente a la paga extraordinaria se reducirá, cualquiera que sea la fecha de su devengo, en la misma proporción que se minore dicha paga como consecuencia de abonarse la misma en cuantía proporcional al tiempo que se haya permanecido en situación de servicio activo.
+Las cuotas correspondientes a los períodos de tiempo en que se disfruten licencias sin derecho a retribución no experimentarán reducción en su cuantía.
+5. La obligación de pago de las cotizaciones a la Mutualidad prescribirá a los cuatro años a contar desde la fecha en que preceptivamente debieran ser ingresadas. La prescripción quedará interrumpida por las causas ordinarias y, en todo caso, por cualquier actuación administrativa realizada con conocimiento formal del obligado al pago de la cotización conducente a la liquidación o recaudación de la deuda y, especialmente, por el requerimiento al deudor.
+Se modifica el apartado 2 por la disposición final 7.1 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653
+ Se añade el apartado 5 por el art. 43.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+## CAPÍTULO IV
+
+Contingencias y prestaciones
+
+### Artículo 11
+
+Artículo 11. Contingencias protegidas.
+Las contingencias protegidas por el Régimen especial de Seguridad Social que establece este Real Decreto-ley son las siguientes:
+a) Alteración de la salud.
+b) Incapacidad temporal, derivada de enfermedad, cualquiera que fuese su causa, incluida la situación especial contemplada en el artículo 18, de accidente común o en acto de servicio, o como consecuencia de él.
+Téngase en cuenta que esta actualización de la letra b), establecida por el art. 4.1 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693, entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
+ Redacción anterior:
+ "b) Incapacidad temporal, derivada de enfermedad, cualquiera que fuese su causa, de accidente común o en acto de servicio, o como consecuencia de él."
+c) Incapacidad permanente en los mismos supuestos anteriores.
+d) Cargas familiares.
+Se modifica la letra b) por el art. 4.1 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693
+ Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
+
+### Artículo 12
+
+Artículo 12. Prestaciones.
+1. Las prestaciones que cubrirá la Mutualidad General Judicial serán las siguientes:
+a) Asistencia sanitaria.
+b) Subsidio por incapacidad temporal, incluida la situación especial contemplada en el artículo 18.
+Téngase en cuenta que esta actualización de la letra b) del apartado 1, establecida por el art. 4.2 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693, entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
+ Redacción anterior:
+ "b) Subsidio por incapacidad temporal."
+c) Prestaciones recuperadoras por incapacidad permanente total, absoluta y gran invalidez y para la retribución del personal encargado de la asistencia del gran inválido.
+d) Indemnizaciones por lesión, mutilación o deformidad, de carácter definitivo no invalidante, originada por enfermedad profesional o en acto de servicio o como consecuencia de él.
+e) Prestaciones sociales y asistencia social.
+f) Prestaciones familiares por hijo a cargo minusválido.
+g) Subsidio especial por maternidad en caso de parto múltiple, prestación económica de pago único por parto múltiple y prestación económica de pago único por nacimiento de hijo.
+2. La financiación de estas prestaciones se realizará con cargo a los recursos económicos a que se refiere el artículo 22, salvo las prestaciones familiares por hijo a cargo minusválido, por nacimiento de hijo y las de parto múltiple, que se financiarán exclusivamente con subvención del Estado.
+3. Las prestaciones relacionadas en este artículo que no sean reguladas expresamente en el presente Real Decreto-ley se establecerán por Real Decreto, a propuesta del Ministro de Justicia, y se reconocerán en la misma extensión que en los Regímenes especiales de Seguridad Social de los Funcionarios Públicos.
+Se modifica la letra b) del apartado 1 por el art. 4.2 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693
+ Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
+
+## CAPÍTULO V
+
+Prestaciones en particular
+
+## Sección 1
+
+Sección 1.ª Prestaciones sanitarias
+
+### Artículo 13
+
+Artículo 13. Objeto de la prestación.
+1. La asistencia sanitaria tiene por objeto la prestación de los servicios médicos, quirúrgicos, hospitalarios y farmacéuticos conducentes a conservar, recuperar o restablecer la salud de las personas protegidas por este Régimen especial de Seguridad Social, así como su aptitud para el trabajo.
+2. Proporcionará también los servicios convenientes para completar las prestaciones médicas y farmacéuticas y, de modo especial, atenderá a la rehabilitación precisa para la recuperación profesional de las personas protegidas.
+
+### Artículo 14
+
+Artículo 14. Contingencias cubiertas.
+Las contingencias cubiertas por la prestación de asistencia sanitaria serán las de enfermedad común o profesional y las lesiones causadas por accidente cualquiera que sea su causa, así como el embarazo, el parto y el puerperio.
+
+### Artículo 15
+
+Artículo 15. Beneficiarios de asistencia sanitaria.
+1. La asistencia sanitaria se dispensará a todos lo mutualistas incluidos en el ámbito de aplicación de este Régimen especial y jubilados mutualistas, así como a los beneficiarios de ambos.
+2. Para la determinación de la condición de beneficiario a cargo de un mutualista de este Régimen, se estará a lo dispuesto en el Reglamento del Mutualismo Judicial que, asimismo, establecerá los supuestos y condiciones en que se dispensará la asistencia sanitaria tanto a los viudos como a los huérfanos de mutualistas activos o jubilados.
+El reconocimiento o mantenimiento por MUGEJU de la condición de beneficiario a cargo de un mutualista será incompatible con la condición de asegurado o beneficiario a efectos de la asistencia sanitaria a través del Sistema Nacional de Salud, reconocida por cualquiera de los otros organismos públicos competentes a tal efecto.
+3. En ningún caso MUGEJU facilitará a su cargo la prestación de asistencia sanitaria a los familiares o asimilados de los mutualistas cuando aquéllos no tengan reconocida la condición de beneficiarios del mutualismo judicial, salvo en el caso del recién nacido cuando la madre sea mutualista o beneficiaria y en los supuestos de adopción o acogimiento, durante los primeros quince días desde el momento del parto, desde la decisión administrativa o judicial de acogimiento o desde la resolución judicial por la que se constituya la adopción.
+Se modifican los apartados 2 y 3 por la disposición final 11 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-12
+
+### Artículo 16
+
+Artículo 16. Prestación de la asistencia sanitaria y farmacéutica.
+1. La asistencia sanitaria se prestará al titular y a los beneficiarios a su cargo, con la extensión, duración y condiciones que reglamentariamente se determinen para las distintas contingencias constitutivas del hecho causante, con la extensión y alcance determinado o que se determine en el Régimen general de la Seguridad Social.
+2. Los beneficiarios de la prestación farmacéutica participarán mediante el pago de una cantidad porcentual en los términos que se establezcan reglamentariamente.
+El modelo receta oficial será el establecido por la Mutualidad, con sujeción a lo previsto en la normativa vigente, y podrá emitirse en soporte papel y en soporte electrónico.
+Se modifica por la disposición final 5.2 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+
+### Artículo 17
+
+Artículo 17. Medios para la prestación de la asistencia sanitaria.
+La asistencia sanitaria se prestará mediante servicios propios dependientes de la Mutualidad General Judicial, en virtud del concierto con otras entidades o establecimientos públicos o privados o por concierto con instituciones de la Seguridad Social.
+
+## Sección 2
+
+Sección 2.ª Incapacidad temporal
+
+### Artículo 18
+
+Artículo 18. Incapacidad laboral.
+La incapacidad laboral, en sus modalidades de temporal y permanente, consistirá en la falta o disminución de la integridad psicofísica del mutualista, con reflejo en la situación económico-profesional del funcionario.
+Se considerará situación especial de incapacidad temporal aquella en la que se encuentre el personal comprendido en el artículo 2 de este texto refundido donante de órganos o tejidos para su trasplante. Esta situación comprenderá tanto los días discontinuos como ininterrumpidos, en los que el donante reciba asistencia sanitaria y esté impedido para el servicio o la práctica como consecuencia de la preparación médica de la cirugía, como los transcurridos desde el día del ingreso hospitalario para la realización de esta preparación hasta que sea dado de alta por curación.
+Téngase en cuenta que esta actualización, establecida por el art. 4.3 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693, entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
+ Redacción anterior:
+ "Artículo 18. Incapacidad laboral.
+ La incapacidad laboral, en sus modalidades de temporal y permanente, consistirá en la falta o disminución de la integridad psicofísica del mutualista, con reflejo en la situación económico-profesional del funcionario."
+Se modifica por el art. 4.3 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693
+ Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
+
+### Artículo 19
+
+Artículo 19. Régimen de la incapacidad temporal.
+1. Los funcionarios en activo comprendidos en el ámbito de aplicación del presente texto refundido, que hayan obtenido licencias por enfermedad o accidente que impidan el normal desempeño de sus funciones, se considerarán en situación de incapacidad temporal.
+2. Asimismo, se encontrará en situación de incapacidad temporal el personal funcionario en activo comprendido en el ámbito de aplicación del presente texto refundido que se encuentre en las situaciones especiales de incapacidad temporal por contingencias comunes a que se refiere el artículo 169.1.a), párrafos segundo y tercero, del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en los términos de los artículos 144, 172 y 173 de la misma norma.
+Téngase en cuenta que esta actualización, establecida por el art. 4.4 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693, entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
+ Redacción anterior:
+ "2. Asimismo, se encontrarán en situación de incapacidad temporal las funcionarias en activo comprendidas en el ámbito de aplicación del presente texto refundido que se encuentren en las situaciones especiales de incapacidad temporal por contingencias comunes a que se refiere el artículo 169.1.a), párrafos segundo y tercero, del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en los términos de los artículos 144, 172 y 173 de la misma norma."
+3. La concesión de las licencias y el control de las mismas corresponderá a los órganos judiciales y administrativos competentes en materia de gestión de personal, con el asesoramiento facultativo que, en su caso, estimen oportuno.
+A efectos de cómputo de plazos, se considerará que existe nueva enfermedad cuando el proceso patológico sea diferente y, en todo caso, cuando se hayan interrumpido las licencias durante un mínimo de un año.
+La duración de la primera y sucesivas licencias será del tiempo previsible para la curación y con el máximo de un mes cada una de ellas.
+4. En cualquier momento en que se prevea que la enfermedad o lesión por accidente impedirá definitivamente el desempeño de las funciones públicas, se iniciará, por el órgano de jubilación competente, de oficio o a instancia del interesado, el procedimiento de jubilación por incapacidad permanente para el servicio. Por Orden ministerial se establecerán los mecanismos necesarios para coordinar las actuaciones de la Mutualidad y las del órgano de jubilación.
+5. La duración y extinción de la situación de incapacidad temporal serán las mismas que las del Régimen general de la Seguridad Social.
+Se modifica el apartado 2 por el art. 4.4 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693
+ Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
+ Se modifica por la disposición final 5 de la Ley Orgánica 1/2023, de 28 de febrero. Ref. BOE-A-2023-5364#df-5
+ Esta modificación entra en vigor el 1 de junio de 2023, según establece la disposición final 17 de la citada Ley Orgánica.
+
+### Artículo 20
+
+Artículo 20. Derechos económicos.
+1. En la situación de incapacidad temporal, el funcionario mutualista tendrá los siguientes derechos económicos:
+A) (Derogado)
+B) Desde el séptimo mes, percibirá las retribuciones básicas y, en su caso, la prestación por hijo a cargo y un subsidio por incapacidad temporal a cargo de la Mutualidad General Judicial, cuya cuantía, fija e invariable mientras dure la incapacidad, será la mayor de las dos cantidades siguientes:
+1.a El 80 por 100 de las retribuciones básicas (sueldo y trienios), incrementadas en la sexta parte de una paga extraordinaria, correspondientes al primer mes de licencia.
+2.a El 75 por 100 de las retribuciones complementarias devengadas en el primer mes de licencia.
+La suma de las cantidades anteriores no podrá exceder del importe de las percepciones que el funcionario tuviera en el primer mes de licencia.
+C) En la situación especial de incapacidad temporal por donación de órganos o tejidos para su trasplante, prevista en el artículo 18, el subsidio por incapacidad temporal a cargo de la Mutualidad General Judicial tendrá una cuantía igual al 100 por ciento de las retribuciones complementarias devengadas desde el séptimo mes de licencia.
+Durante los seis primeros meses las personas mutualistas tendrán derecho al percibo de la totalidad de las retribuciones previstas en las Leyes y Reglamentos aplicables según su respectiva Carrera, Cuerpo y Escala, a cargo de los órganos de personal correspondiente.
+Téngase en cuenta que la letra C), añadida al apartado 1 por el art. 4.5 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693, entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
+2. Cuando la situación de incapacidad temporal se extinga por el transcurso del plazo máximo establecido, se procederá al examen de la misma en los términos y plazos establecidos en el Régimen General de la Seguridad Social al objeto de la correspondiente calificación del estado del funcionario como incapacitado con carácter permanente para las funciones propias de su Cuerpo o Escala y declaración de jubilación por incapacidad permanente para el servicio. En aquellos casos en que continúe la necesidad de tratamiento médico por no ser definitivas las reducciones anatómicas o funcionales del funcionario, y así se haya dictaminado en informe razonado sobre la capacidad o incapacidad del funcionario por el Equipo de Valoración de Incapacidades de la Dirección Provincial del Instituto Nacional de la Seguridad Social de la provincia en que tenga su domicilio aquél, o por la Unidad de Valoración que resulte procedente de acuerdo con el Cuerpo o Escala del funcionario, se podrá declarar, por el órgano a quien se refiere el apartado 2 del artículo 19 de esta Ley, su reposición en la situación de incapacidad temporal, con el carácter de especial y revisable en el plazo de seis meses. Esta declaración, en su caso, deberá recaer necesariamente dentro del plazo de tres meses subsiguiente al de la extinción de la situación de incapacidad temporal por el transcurso de su plazo máximo de duración, incluida su prórroga.
+Los efectos de la situación de incapacidad temporal se prorrogarán hasta el momento de la calificación del estado del funcionario.
+El derecho al subsidio económico por incapacidad temporal, cualquiera que sea la situación que haya dado lugar al mismo, se entenderá, en todo caso, extinguido por el transcurso del plazo máximo de veintisiete meses desde el inicio de la situación de incapacidad temporal.
+3. Los permisos o licencias por parto, adopción y acogimiento establecidos en el número 3 del artículo 30 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, no tendrán la consideración de incapacidad temporal. Si al término del permiso continuase la imposibilidad de incorporarse al trabajo, se iniciarán las licencias que dan lugar a la incapacidad temporal.
+4. Tendrá la misma consideración y efectos que la incapacidad temporal la situación de la funcionaria que haya obtenido licencia por riesgo durante el embarazo, en tanto que la misma suponga la no percepción de haberes.
+Se añade una letra C) al apartado 1 por el art. 4.5 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693
+ Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
+ Se deroga el apartado 1.A) por la disposición derogatoria única.5 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ Téngase en cuenta la corrección de errores publicada en BOE núm. 172, de 19 de julio de 2012. Ref. BOE-A-2012-9654.
+ Se modifica el apartado 2, con efectos desde el 1 de enero de 2007, por la disposición final 5 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865
+
+## Sección 3
+
+Sección 3.ª Protección a la familia
+
+### Artículo 21
+
+Artículo 21. Prestaciones económicas.
+1. Las prestaciones económicas de protección a la familia serán de pago periódico y de pago único. Las primeras corresponden a las prestaciones familiares por hijo a cargo, y las segundas al subsidio especial por maternidad en los supuestos de parto múltiple y a la prestación económica de pago único por parto múltiple y a la prestación económica por nacimiento de hijo.
+2. Las prestaciones por hijo a cargo menor de dieciocho años no minusválido se regirán por lo dispuesto en el capítulo IX del Título II del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto legislativo 1/1994, de 20 de junio, y su gestión corresponde a las unidades y órganos administrativos que tenían encomendada la de las extinguidas prestaciones de ayuda familiar, sin perjuicio de que, cuando el beneficiario tenga la condición de pensionista, la consignación y abono de las prestaciones reconocidas se efectúen por los servicios correspondientes a Clases Pasivas del Ministerio de Hacienda.
+3. Las prestaciones por hijo a cargo minusválido se regirán por lo dispuesto en el capítulo IX del Título II del texto refundido de la Ley General de la Seguridad Social, y su gestión corresponde a la Mutualidad General Judicial.
+4. a) El subsidio especial por maternidad en el supuesto de parto múltiple tendrá el mismo contenido que en el Régimen general de la Seguridad Social, y su gestión corresponde igualmente a la Mutualidad General Judicial.
+b) La prestación económica por nacimiento de hijo, la prestación económica de pago único por parto múltiple, compatible con el subsidio del apartado a) de este mismo artículo, tendrá el mismo contenido que en el Régimen general de la Seguridad Social, y su gestión corresponde a la Mutualidad General Judicial.
+5. Las prestaciones de protección a la familia establecidas en el presente Real Decreto-ley son incompatibles con cualesquiera otras análogas fijadas en los restantes Regímenes del sistema de la Seguridad Social.
+
+## CAPÍTULO VI
+
+Régimen económico y financiero
+
+### Artículo 22
+
+Artículo 22. Recursos económicos.
+Los recursos económicos de la Mutualidad General Judicial son los siguientes:
+1.º Las aportaciones estatales que se establecen en el artículo siguiente.
+2.º Las cuotas de los mutualistas.
+3.º Las subvenciones, herencias, legados o donaciones de cualquier naturaleza.
+4.º Los bienes que adquiera y sus frutos, rentas e intereses.
+
+### Artículo 23
+
+Artículo 23. Aportaciones del Estado.
+1. El Estado consignará de modo permanente en sus Presupuestos las aportaciones que anualmente concederá a la Mutualidad General Judicial para que la financiación de las prestaciones a que se refiere el artículo 12, apartado 1, salvo las indicadas en el párrafos f) y g) de dicho apartado.
+2. La cuantía de las aportaciones estatales se fijará anualmente en la Ley de Presupuestos Generales del Estado, mediante el establecimiento de un porcentaje aplicable sobre los haberes reguladores a que se refiere el apartado 2 del artículo 10 y esta aportación será, en todo caso, independiente de las subvenciones mencionadas en el apartado 3 del artículo 22.
+Se modifica el apartado 2 por la disposición final 7.2 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653
+ Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 162, de 7 de julio de 2000. Ref. BOE-A-2000-12880
+
+### Artículo 24
+
+Artículo 24. Subvención del Estado.
+Las prestaciones mencionadas en los párrafos f) y g) del apartado 1 del artículo 12 se financiarán exclusivamente con subvención del Estado.
+
+## CAPÍTULO VII
+
+Recursos y régimen jurisdiccional
+
+### Artículo 25
+
+Artículo 25. Recursos y régimen jurisdiccional.
+1. El régimen jurídico aplicable a los órganos de la Mutualidad es el establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, con las modificaciones introducidas en la misma por la Ley 4/1999, de 13 de enero.
+2. Los actos administrativos y resoluciones de los órganos de gobierno, administración y representación de la Mutualidad General Judicial serán impugnables con arreglo a lo previsto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado y en el artículo 82 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social.
+3. (Derogado)
+4. (Derogado)
+Se derogan los apartados 3 y 4 y se modifica el apartado 2 por la disposición derogatoria única.1.e) y el art. 43.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Disposición adicional primera
+
+Disposición adicional primera. Mutualistas no pertenecientes a los Cuerpos que se enumeran en el artículo 6, apartado 3.B).
+1. Mantendrán la condición de mutualistas aquellas personas que, no perteneciendo a los Cuerpos que se enumeran en el artículo 6, apartado 3.B) están incluidas en el campo de aplicación de este Régimen especial a la entrada en vigor de este Real Decreto-ley.
+2. Los familiares de estos mutualistas, así como sus viudos, viudas y huérfanos, podrán ser beneficiarios de las prestaciones de este Régimen especial en las mismas circunstancias y condiciones que los familiares, viudos, viudas y huérfanos de los restantes mutualistas.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Extensión de la acción protectora a anteriores cónyuges.
+A los efectos de la acción protectora que este Real Decreto-ley dispensa a los viudos, se considerarán asimilados a los mismos quienes perciban pensión de viudedad de clases pasivas por haber sido cónyuges de funcionarios incluidos en el campo del mutualismo administrativo.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Mutualidades de funcionarios de la Administración de Justicia integradas en la Mutualidad General Judicial.
+1. El Estado garantiza a los socios y beneficiarios de la Mutualidad Benéfica de Funcionarios de Justicia Municipal, de la Mutualidad de Previsión de Funcionarios de la Administración de Justicia y de la Mutualidad Benéfica de Auxiliares de la Administración de Justicia, integradas en la Mutualidad General Judicial al amparo de la disposición adicional vigésima primera de la Ley 50/1984, de 30 de diciembre, las prestaciones vigentes al 31 de diciembre de 1984.
+No obstante, las pensiones que se reconozcan se reducirán hasta alcanzar las cuantías vigentes al 31 de diciembre de 1973, en un 20 por 100 anual de la diferencia entre las cuantías de las pensiones inicialmente garantizadas y las vigentes al 31 de diciembre de 1973, operando dichas reducciones a partir del ejercicio siguiente a su concesión.
+2. La totalidad de los bienes y recursos de las tres Mutualidades, aportados con su integración a la Mutualidad General Judicial, constituyen un fondo especial al que se incorporan las cuotas de los mutualistas afectados y los recursos públicos que les correspondan. Las cuotas serán vigentes al 31 de diciembre de 1973.
+3. Los gastos imputables a las Mutualidades integradas se financiarán con los recursos del mencionado fondo especial, cuyo déficit, en su caso, será cubierto mediante subvención del Estado.
+4. A los efectos previstos en el párrafo primero del número 1 de esta disposición adicional, los colectivos de socios mutualistas integrados en el Fondo Especial de la Mutualidad General Judicial son los existentes en cada una de las Mutualidades al 31 de diciembre de 1984.
+La opción individual de darse de baja en las Mutualidades integradas podrá ejercitarse en cualquier momento, con pérdida por parte del beneficiario de cualquier prestación y sin derecho a devolución de cuotas.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Régimen del medicamento.
+A efectos de lo establecido en el artículo 16.2 de este Real Decreto-ley y de acuerdo con la disposición adicional decimoséptima de la Ley 66/1997, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, será de aplicación a la prestación farmacéutica de este Régimen especial lo establecido en el artículo 94.6 de la Ley 25/1990, de 20 de diciembre, del Medicamento, en la redacción dada al mismo por el artículo 109.3 de la citada Ley 66/1997.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Reintegro de prestaciones indebidas y plazo para su prescripción.
+1. Los mutualistas y las demás personas que hayan percibido indebidamente prestaciones de la Mutualidad General Judicial vendrán obligados a reintegrar su importe.
+2. Quienes por acción u omisión hayan contribuido a hacer posible la percepción indebida de una prestación responderán subsidiariamente con los perceptores, salvo buena fe probada, de la obligación de reintegrar que se establece en el apartado anterior.
+3. La obligación de reintegro del importe de las prestaciones indebidas percibidas prescribirá a los cuatro años, contados a partir de la fecha de su cobro, o desde que fue posible ejercitar la acción para exigir su devolución, con independencia de la causa que originó la percepción indebida, incluidos los supuestos de revisión de las prestaciones por error imputable a la Mutualidad.
+Se añade por el art. 43.3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+1. En virtud de su incorporación al presente texto refundido, quedan derogados el Real Decreto-ley 16/1978, de 7 de junio, sobre el Régimen especial de Seguridad Social de los Funcionarios de la Administración de Justicia, y sus modificaciones posteriores contenidas en normas con rango de ley.
+2. Asimismo, quedan derogadas cuantas normas de igual o inferior rango se opongan a lo establecido en el presente texto refundido.
+
+### Disposición final primera
+
+Disposición final primera. Título competencial.
+Este texto refundido se dicta al amparo de lo previsto en el artículo 149.1.17.ª de la Constitución.
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo reglamentario.
+Se faculta al Ministro de Justicia, previo informe, en su caso, del Ministro de Hacienda y del de Trabajo y Asuntos Sociales en el ámbito de sus respectivas competencias, para dictar o proponer al Gobierno, según proceda, las normas de aplicación y desarrollo del presente texto refundido.

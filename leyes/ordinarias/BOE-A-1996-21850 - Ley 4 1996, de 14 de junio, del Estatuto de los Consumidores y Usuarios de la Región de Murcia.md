@@ -1,0 +1,659 @@
+# Ley 4/1996, de 14 de junio, del Estatuto de los Consumidores y Usuarios de la Región de Murcia.
+
+- Identificador BOE: `BOE-A-1996-21850`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1996-21850
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia que la Asamblea Regional ha aprobado la Ley 4/1996, de 14 de junio, del Estatuto de los Consumidores y Usuarios de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30.Dos del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+El artículo 51 de la Constitución Española, apartados 1 y 2, dispone que los poderes públicos garantizarán la defensa de los consumidores y usuarios, protegiendo, mediante procedimientos eficaces, la seguridad, la salud y los legítimos intereses económicos de los mismos, así como que promoverán la información y la educación de los consumidores y usuarios, fomentarán sus organizaciones y oirán a éstas en las cuestiones que puedan afectar a aquéllos, en los términos que la ley establezca.
+Con el fin de dar cumplimiento al citado mandato constitucional, se aprobó la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios, que establece un marco legal general, el cual, para cumplir con sus objetivos (establecer procedimientos eficaces para la defensa de los consumidores y usuarios, favorecer el movimiento asociativo en este campo, etcétera), viene siendo desarrollado por normas de carácter estatal, y cada vez en mayor grado por otras de ámbito autonómico en relación con la evolución que el proceso de traspaso de competencias ha tenido.
+La Comunidad Autónoma de la Región de Murcia, en virtud de lo dispuesto en el artículo 11.10 de su Estatuto de Autonomía, asume la función ejecutiva en materia de comercio interior y defensa de los consumidores en los términos establecidos en las leyes y normas reglamentarias que en desarrollo de su legislación dicte el Estado.
+El Real Decreto 4165/1982, de 29 de diciembre, sobre transferencias de funciones y servicios de la Administración del Estado a la Comunidad Autónoma de la Región de Murcia en materia de disciplina de mercado, atribuye a esta última las funciones inherentes a las infracciones administrativas en materia de disciplina de mercado cometidas en el ámbito territorial de la Región.
+La Ley Orgánica 4/1994, de 24 de marzo, de Reforma del Estatuto de Autonomía de la Comunidad Autónoma de la Región de Murcia, confiere a nuestra Comunidad Autónoma en el marco de la legislación básica del Estado, y, en su caso, en los términos que la misma establezca, el desarrollo legislativo y la ejecución de la defensa del consumidor y usuario, de acuerdo con las bases y ordenación de la actividad económica general de la política del Estado, las bases y coordinación general de la sanidad, en los términos de lo dispuesto en los artículos 38 y 131, y en los números 11, 13 y 16 del apartado uno del artículo 149 de la Constitución.
+Además en esta materia, hemos de tener presente, entre otras disposiciones legales, las siguientes:
+a) Ley 34/1988, de 11 de noviembre, General de Publicidad.
+b) Ley 22/1994, de 6 de julio, de Responsabilidad Civil por Daños Causados por productos defectuosos.
+c) Ley 7/1995, de 23 de marzo, de Normas Reguladoras de Crédito al Consumo.
+El ejercicio de esta competencia exige el establecimiento de un marco normativo regional al más alto nivel jerárquico que sistematice los mecanismos y medidas de defensa del consumidor y usuario, a desplegar por las administraciones públicas de la Región de Murcia.
+Del mismo modo, una norma de rango legal resulta el instrumento jurídico adecuado para plasmar determinadas previsiones, como son las referentes al deber de colaboración de los ciudadanos ante las actuaciones inspectoras, a la potestad sancionadora de la Administración y a la necesaria coordinación entre las diferentes administraciones públicas, tanto por exigencias constitucionales como por la aplicación de los criterios de la Ley 30/1996, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+La presente Ley pretende conseguir un elevado grado de protección de los consumidores y usuarios, entendidos éstos en la estricta concepción que se va imponiendo en España y en la legislación europea, y ello mediante fórmulas de participación y colaboración con todos los agentes sociales, principalmente con las organizaciones de consumidores y usuarios, y mediante fórmulas de coordinación a todos los niveles.
+Por ello, el objetivo prioritario de la Ley es el de conjugar el necesario protagonismo de los ciudadanos en la promoción de una política de consumo racional, con la defensa de los productos y servicios que se ofrecen, dentro de un marco de abordaje integral de los medios y fines que se habilitan para ello.
+La Ley se estructura en tres títulos. El I está dedicado a las disposiciones generales. El título II a las acciones públicas a desarrollar en cada uno de los supuestos que constituyen los derechos esenciales de los consumidores y usuarios, conteniendo precisiones concretas en desarrollo de las formulaciones básicas estatales, sin pretender reiterar los preceptos de la Ley 26/1984 más allá de lo estrictamente necesario para asegurar la inteligibilidad del texto. El título III, que desarrolla las infracciones y sanciones en materia de consumo y la potestad sancionadora de la Administración, cierra el círculo normativo en el que se mueven todas las relaciones jurídicas referidas a la defensa del consumidor y usuario.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente Ley tiene por objeto la defensa y protección de los consumidores y usuarios y el establecimiento de los principios y normas para la mejora de la calidad de vida de quienes ostenten tal condición en el territorio de la Región de Murcia.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación y definiciones.
+1. La presente Ley será de aplicación a las relaciones entre consumidores o usuarios y empresarios en la Región de Murcia.
+2. A los efectos de la presente Ley son consumidores o usuarios las personas físicas o jurídicas que actúan en un ámbito ajeno a una actividad empresarial o profesional.
+3. A los efectos de la presente Ley se considera empresario a toda persona física o jurídica que actúa en el marco de su actividad empresarial o profesional, ya sea pública o privada.
+4. A los efectos de la presente Ley se considera productor al fabricante del bien o al prestador del servicio o intermediario, o al importador del bien o servicio en el territorio de la Unión Europea, así como a cualquier persona que se presente como tal al indicar en el bien, ya sea en el envase, el envoltorio o cualquier otro elemento de protección o presentación, o servicio su nombre, marca u otro signo distintivo.
+5. A los efectos de la presente Ley es producto todo bien mueble conforme a lo previsto en el artículo 335 del Código Civil.
+6. A los efectos de la presente Ley es proveedor el empresario que suministra o distribuye productos en el mercado, cualquiera que sea el título o contrato en virtud del cual realice dicha distribución.
+7. Resolución extrajudicial de conflictos: cualquier procedimiento alternativo al jurisdiccional que permita poner fin a las controversias surgidas en el marco de una relación de consumo.
+8. Pobreza energética: incapacidad de un hogar para satisfacer el mínimo de servicios energéticos y, de esta forma, garantizar las necesidades básicas teniendo en cuenta los factores personales, geográficos y materiales que concurren. Estos parámetros deben definirse por reglamento.
+Téngase en cuenta que los apartados 7 y 8 añadidos por el art. 2.1 de la Ley 10/2016, de 7 de junio. Ref. BOE-A-2016-6647. entran en vigor el 15 de septiembre de 2016, según establece la disposición final 4 de la citada ley.
+Se añaden los apartados 7 y 8 por el art. 2.1 de la Ley 10/2016, de 7 de junio. Ref. BOE-A-2016-6647.
+ Se modifica por el art. 1 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 3
+
+Artículo 3. Derechos de los consumidores y usuarios.
+Son derechos esenciales de los consumidores y usuarios los siguientes:
+1. La protección frente a los riesgos que puedan afectar a su salud y seguridad, concebida aquélla de forma integral, incluyendo, por tanto, los riesgos que amenacen al medio ambiente y a la calidad de vida.
+2. La protección de sus legítimos intereses económicos y sociales.
+3. La información y la educación en materia de consumo.
+4. La representación, a través de sus organizaciones, para la defensa de sus intereses y la participación y la consulta en las materias que les afecten.
+5. La protección jurídica, administrativa y técnica y la reparación e indemnización de daños y perjuicios sufridos.
+
+### Artículo 4
+
+Artículo 4. Colectivos especiales.
+Los colectivos de consumidores y usuarios que, por circunstancias especiales, se encuentran en una posición de inferioridad, subordinación, indefensión o desprotección más acusada, serán objeto de actuaciones específicas en el marco de lo dispuesto en la presente Ley, en especial los niños y adolescentes, las mujeres gestantes, las personas mayores, los enfermos, los discapacitados y los inmigrantes.
+
+### Artículo 5
+
+Artículo 5. Irrenunciabilidad.
+Quedan prohibidos la renuncia previa al ejercicio de derechos e intereses reconocidos en la presente Ley y reglamentos de desarrollo y los pactos que tengan por objeto la exclusión de su aplicación que, en todo caso, serán nulos de pleno derecho.
+
+## TÍTULO II
+
+Protección jurídica, administrativa y técnica de los Derechos del Consumidor y Usuario
+
+## CAPÍTULO I
+
+Derecho a la protección de la salud y la seguridad
+
+### Artículo 6
+
+Artículo 6. Requisitos de los productos, bienes y servicios.
+1. Los productos, bienes y servicios puestos en el mercado a disposición de los consumidores y usuarios no implicarán riesgos para su salud o seguridad.
+2. Los productores e importadores quedan obligados a comercializar únicamente productos, bienes y servicios seguros.
+3. Los distribuidores deberán actuar con diligencia para contribuir a la comercialización de productos, bienes y servicios seguros, en particular absteniéndose de comercializar aquellos respecto de los cuales conozcan o deban conocer que no son seguros, observando las normas de manipulación, envasado, transporte y conservación, y transmitiendo correctamente la información sobre riesgos.
+
+### Artículo 7
+
+Artículo 7. Producto seguro.
+Por producto seguro se entenderá el que se ajusta con idoneidad a las disposiciones específicas sobre seguridad, a los reglamentos o normas de calidad que le resulten de aplicación. En defecto de tales normas, se entenderá por producto seguro aquel que, en condiciones de utilización normales o razonablemente previsibles, incluida la duración, no presente riesgo alguno o únicamente riesgos mínimos, compatibles con el uso del producto y considerados admisibles dentro del respeto de un elevado nivel de protección de la salud y de la seguridad de las personas, teniendo en cuenta, en particular, los siguientes elementos:
+a) Características del producto y, entre ellas, su composición, embalaje e instrucciones para su montaje y mantenimiento.
+b) Efectos sobre otros productos cuando, razonablemente, se pueda prever la utilización del primero junto con los segundos.
+c) Presentación del producto, etiquetado, instrucciones de uso y eliminación, así como cualquier otra información del productor.
+d) Colectivos de consumidores y usuarios que estén en condiciones de mayor riesgo en la utilización del producto. En particular, los indicados en el artículo 4.
+
+## CAPÍTULO II
+
+Derecho a la protección de los legítimos intereses económicos y sociales
+
+### Artículo 8
+
+Artículo 8. Contenido.
+Las Administraciones Públicas de la Región de Murcia, con competencia en materia de defensa del consumidor y usuario, promoverán acciones que aseguren el respeto de los legítimos intereses económicos y sociales de los consumidores y usuarios y, en particular, las encaminadas a garantizar:
+a) La entrega de recibo o documento acreditativo de las operaciones realizadas, debidamente desglosado, en su caso.
+b) La entrega de presupuesto previo a la operación que indique, necesariamente, su plazo de validez.
+c) La entrega de resguardo de depósito de bienes proporcionados por el consumidor y usuario, como consecuencia de una operación concertada.
+d) La entrega del documento de garantía cuando sea obligado.
+e) La tenencia de hojas de reclamaciones en todos los establecimientos y su entrega cuando sea exigida por el consumidor y usuario.
+f) La exposición pública y visible de los precios y tarifas, junto a los productos, bienes y servicios ofertados.
+g) La prohibición del corte del suministro de servicios públicos o de interés económico general de prestación continua, sin constancia fehaciente de recepción previa por el consumidor y usuario de una notificación concediéndole plazo suficiente para subsanar el motivo que pueda esgrimirse como fundamento del corte y sin las previas autorizaciones administrativas o judiciales que, en su caso, puedan proceder. La citada prohibición incluye, en particular, los servicios de agua potable, electricidad, teléfono y gas, y no estará referida a los cortes de suministro de carácter general por averías, reparaciones u otros análogos.
+h) La prohibición de publicidad ilícita.
+i) La inexistencia de contrataciones que contengan cláusulas abusivas o contra la buena fe y el justo equilibrio de las contraprestaciones.
+j) La prohibición de comercialización de productos en los que no se asegure la existencia de repuestos y el adecuado servicio técnico cuando sean obligatorios.
+k) La eliminación de los métodos especiales de venta que limiten la libertad de elección del consumidor y usuario.
+l) La prohibición de acciones que provoquen inexactitud en precio, peso o medida.
+ll) La libertad de elección entre los distintos suministradores de productos, bienes y servicios existentes y a que se respeten las reglas de la economía de mercado.
+Se modifica la letra g) y se añade la ll) por el art. 2 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+## CAPÍTULO III
+
+Derecho a la información y a la educación
+
+### Artículo 9
+
+Artículo 9. Información en productos.
+1. Los bienes, productos y, en su caso, los servicios puestos a disposición de los consumidores y usuarios deberán incorporar, llevar consigo o permitir de forma cierta y objetiva una información veraz, eficaz y suficiente sobre sus características esenciales.
+2. Los productores, importadores, distribuidores y suministradores quedan obligados a comercializar únicamente productos, bienes y servicios que contengan dicha información.
+
+### Artículo 10
+
+Artículo 10. Oficinas de información.
+1. Las administraciones públicas, con competencia en materia de defensa del consumidor y usuario, fomentarán la creación de Oficinas de Información al Consumidor y Usuario, de titularidad pública o de las Organizaciones de Consumidores y Usuarios que presten o puedan en el futuro prestar sus servicios o realicen sus actividades en la Comunidad Autónoma de la Región de Murcia.
+2. Se creará, dentro de la Consejería competente, una Oficina Regional de Información al Consumidor y Usuario, con la finalidad fundamental de atender a los ciudadanos de localidades donde no existan oficinas de información al consumidor y usuario de otro tipo.
+3. Igualmente, se establecerá un Registro de Oficinas de Información al Consumidor y Usuario de la Región de Murcia, que dependerá de la Consejería competente en la materia, en el que deberán inscribirse las oficinas del consumidor y usuario que existan en la Región de Murcia.
+
+### Artículo 11
+
+Artículo 11. Campañas de difusión e información.
+1. Las administraciones públicas, con competencia en materia de defensa del consumidor y usuario, llevarán a cabo acciones o campañas orientativas de difusión de información referida a los derechos y deberes de los consumidores y usuarios y los medios para ejercerlos, promoviendo especialmente la existencia de espacios y programas divulgativos sobre consumo en los medios de titularidad pública y privada, especialmente en los dependientes de la Administración Regional.
+2. La Comunidad Autónoma fomentará, en colaboración con las organizaciones empresariales, la existencia de distintivos para productos, bienes y servicios de la Región, caracterizados por incorporar un elevado nivel de calidad.
+
+### Artículo 12
+
+Artículo 12. Educación.
+Las administraciones públicas, con competencia en materia de defensa del consumidor y usuario, adoptarán las medidas necesarias para hacer efectivo el derecho a la educación en materia de consumo, que se orientará hacia la formación integral de la persona, fomentando prioritariamente:
+1. La inclusión de la educación del consumidor y usuario, en todos los ciclos y niveles de la educación obligatoria, y, en la medida de lo posible, en los de educación no obligatoria.
+2. La formación permanente en materia de consumo del personal docente.
+3. La elaboración y publicación de materiales didácticos de apoyo a la educación y formación de los consumidores y usuarios.
+
+### Artículo 13
+
+Artículo 13. Formación.
+Las administraciones públicas, con competencia en materia de defensa del consumidor y usuario, potenciarán la formación permanente en materia de consumo del personal que ejerza funciones de información, inspección, control de calidad o cualquier otra responsabilidad, en aplicación de la presente Ley.
+
+## CAPÍTULO IV
+
+Derecho a la representación, participación y consulta
+
+### Artículo 14
+
+Artículo 14. Asociaciones de consumidores y usuarios.
+1. Las Asociaciones de consumidores y usuarios constituyen el cauce idóneo de representación, participación y consulta de los consumidores y usuarios.
+2. A los efectos de esta ley, tienen la consideración de asociaciones de consumidores y usuarios las siguientes:
+a) Las entidades sin ánimo de lucro constituidas conforme a la legislación sobre asociaciones cuya finalidad, recogida en sus estatutos, sea la información, educación, formación, defensa y protección de los derechos e intereses de los consumidores y usuarios, bien con carácter general bien en relación con productos o servicios determinados. Su organización y funcionamiento serán democráticos.
+b) Las entidades constituidas por consumidores y usuarios conforme a la legislación de cooperativas, en cuyo objeto social se incluya la información, educación, formación, defensa y protección de los derechos e intereses de sus socios como consumidores y usuarios, y que dispongan de un fondo social de, al menos, el 15 por ciento de los excedentes netos de cada ejercicio económico destinado exclusivamente a tales fines.
+3. Las asociaciones de consumidores y usuarios deberán figurar inscritas en un registro administrativo, cuya regulación reglamentaria fijará igualmente los requisitos mínimos de implantación territorial, número de asociados y programas de actividades a desarrollar que deberán acreditar para su inscripción. Tras su denominación, estas asociaciones de consumidores y usuarios indicarán su número de inscripción registral.
+4. La Administración podrá pedir a las asociaciones de consumidores y usuarios inscritas o a las que soliciten su inscripción cuanta documentación e información sea precisa para verificar el cumplimiento y mantenimiento de los requisitos exigidos. Asimismo, las asociaciones y la administración podrán realizar, por sí o mediante la contratación con entidades externas e independientes, auditorías de cuentas con idéntica finalidad.
+5. En particular, como instrumento de transparencia, las asociaciones inscritas deberán depositar en el órgano competente en materia de consumo de la Administración regional los marcos de colaboración con operadores del mercado que establezcan los convenios o acuerdos de colaboración que suscriban con éstos o sus asociaciones o fundaciones, así como sus modificaciones, prórrogas o denuncias, y las cuentas anuales de la asociación; todo ello conforme a los artículos 29 a 31 del Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias. La información depositada será pública.
+Se modifica por el art. 3 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 15
+
+Artículo 15. Derechos y funciones de las asociaciones de consumidores y usuarios.
+1. Son funciones y derechos de las asociaciones de consumidores y usuarios, entre otros:
+a) Informar, formar y educar a sus socios, pudiendo hacerlo extensible al conjunto de los ciudadanos en su calidad de consumidores y usuarios.
+b) Asesorar y, en su caso, prestar asistencia jurídica a sus socios en el ejercicio y defensa de sus derechos e intereses pudiendo hacerlo extensible al conjunto de los ciudadanos en su calidad de consumidores y usuarios.
+c) Propiciar y participar en la resolución extrajudicial de conflictos entre consumidores y usuarios y empresarios y profesionales, de conformidad con lo previsto por la normativa aplicable.
+d) Presentar ante los órganos judiciales o administrativos correspondientes las denuncias que estimen oportunas para la protección y defensa de los derechos e intereses de los consumidores y usuarios.
+e) Ejercer las correspondientes acciones judiciales o extrajudiciales en defensa de sus socios, de la asociación y, en general, de los intereses y derechos de los consumidores y usuarios, de conformidad con la legislación aplicable.
+f) Ser oídas preceptivamente en consulta en el procedimiento de elaboración de proyectos de ley y de disposiciones administrativas de carácter general que afecten a los intereses que representan; en el procedimiento de fijación de precios y tarifas sujetos a control de las administraciones públicas de la Región de Murcia, en cuanto afecten directamente a los consumidores y usuarios; y en el procedimiento de elaboración de condiciones generales de la contratación de servicios prestados por las administraciones públicas de la Región de Murcia, bien directamente o a través de empresas de capital mayoritariamente público. En el caso de existir consejos de consumo, el derecho de consulta se ejercerá preferentemente a través de los mismos.
+g) Tener presencia en los órganos de consulta y participación donde se conozcan asuntos que afecten directamente a los derechos e intereses de los consumidores y usuarios, de conformidad con las reglamentaciones específicas de los órganos de consulta, y con las reglas de reparto que determine el Consejo Asesor.
+h) Obtener información y datos de las administraciones públicas de la Región de Murcia sobre los asuntos que afecten directamente a los derechos e intereses de los consumidores y usuarios, en el marco de la regulación estatal sobre el derecho de acceso a los registros y archivos administrativos y la protección de datos de carácter personal.
+i) Ser declaradas de utilidad pública.
+j) Integrarse en agrupaciones y federaciones de idénticos fines y, en su caso, de ámbito territorial más amplio.
+k) Participar en sociedades mercantiles de acuerdo con los requisitos previstos en el artículo 28 del Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias.
+2. Las asociaciones de consumidores y usuarios ajustarán sus actuaciones a los principios de veracidad, buena fe, lealtad, diligencia e independencia frente a los operadores del mercado y a los poderes públicos conforme a lo dispuesto en el artículo 27 del Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias. No podrán divulgar datos que no se encuentren respaldados por procedimientos, resultados analíticos o ensayos suficientemente contrastados ni podrá mermar su independencia la obtención de subvenciones u otros recursos públicos concedidos en base a criterios de objetividad. Todo ello de acuerdo con los principios y criterios establecidos en el Real Decreto Legislativo 1/2007, de 16 de noviembre.
+3. El incumplimiento de estos principios, requisitos y normas de actuación será causa de baja de la correspondiente inscripción en el Registro, con la imposibilidad de volverse a inscribir en un plazo de cinco a siete años, en función de los perjuicios y alarma social ocasionados. La baja será acordada por el titular de la dirección general competente en materia de defensa al consumidor y usuario, previa audiencia a la entidad afectada.
+4. Las asociaciones empresariales serán oídas en consulta en el procedimiento de elaboración de las disposiciones de carácter general relativas a materias que les afecten directamente. Se entenderá cumplido dicho trámite cuando se encuentren representadas en los órganos colegiados que participen en la elaboración de la disposición. En los demás casos, la notificación o comunicación se dirigirá a la federación o agrupación empresarial correspondiente.
+Se modifica por el art. 3 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 16
+
+Artículo 16. Colaboración entre las administraciones públicas y las asociaciones de consumidores y usuarios.
+1. Las administraciones públicas de la Región de Murcia fomentarán el fortalecimiento del movimiento asociativo en el ámbito de la protección y defensa de los consumidores y usuarios.
+2. Las administraciones públicas de la Región de Murcia, en el ámbito de sus respectivas competencias, establecerán un marco de cooperación y colaboración con las asociaciones de consumidores y usuarios, a los efectos de desarrollar programas conjuntos de protección de los consumidores.
+3. Las asociaciones de consumidores y usuarios podrán acceder a los instrumentos de colaboración previstos en el apartado anterior y a las subvenciones y ayudas que para la consecución de sus fines concedan las administraciones públicas de la Región de Murcia cuando estén inscritas en el Registro de Asociaciones de Consumidores y Usuarios de la Región de Murcia y cumplan con las condiciones o requisitos que en cada caso se establezcan.
+Se modifica por el art. 3 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 17
+
+Artículo 17. Consejo Asesor Regional de Consumo.
+1. Se configura el Consejo Asesor Regional de Consumo como máximo órgano colegiado de consulta, coordinación, participación, diálogo y concertación en materia de consumo, adscrito a la Consejería competente en materia de defensa del consumidor y usuario.
+2. El consejo estará integrado por representantes de las organizaciones más representativas, tanto empresariales como de consumidores y usuarios, de las consejerías con los ámbitos de actuación más relacionados con la protección del consumidor y de las administraciones municipales.
+3. Reglamentariamente, se establecerá su composición, funciones y régimen de funcionamiento. En cualquier caso, los criterios sustantivos y de inscripción en el Registro de Asociaciones de Consumidores y Usuarios de la Región de Murcia que deban cumplir estas asociaciones para formar parte del Consejo se fijarán en función de que su fin sea la defensa de los intereses de los consumidores y usuarios con carácter general o en relación con productos o servicios determinados; de sus socios al corriente de pago; de las oficinas de información a consumidores y usuarios de las que sean titulares; de sus delegaciones territoriales; de las actividades de consumo que hayan organizado; de su autofinanciación; de su pertenencia a órganos consultivos públicos y de su presupuesto.
+Se modifica por el art. 3 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 18
+
+Artículo 18. Consejos municipales de consumo.
+1. Los municipios impulsarán la creación de consejos de consumo, como órganos colegiados de carácter consultivo en el diseño y aplicación de las políticas públicas que afecten al ámbito de la defensa del consumidor y usuario.
+2. Estos consejos estarán integrados por representantes de los sectores implicados y, en todo caso, por las más representativas de su ámbito territorial.
+Se modifica por el art. 3 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 19
+
+Artículo 19. Mesa de las asociaciones de consumidores y usuarios de la Región de Murcia.
+1. Se configura la Mesa de las Asociaciones de Consumidores y Usuarios de la Región de Murcia como instrumento de diálogo, coordinación, colaboración y cooperación.
+2. La Mesa estará presidida por la Administración e integrada por representantes de las Asociaciones de Consumidores y Usuarios en función de su representatividad y que cumplan con los requisitos establecidos por la normativa en vigor.
+3. Reglamentariamente se determinará su funcionamiento, composición, estructura, periodicidad de sus reuniones y funciones, ostentando en todo caso las siguientes:
+a) Fijar posición común de las Asociaciones de Consumidores de la Región en relación a temas que afectan a los intereses de Consumidores y Usuarios.
+b) Formular propuestas de interés en materia de protección de los Consumidores y Usuarios.
+c) Solicitar información a las Administraciones Públicas competentes sobre materias de interés general o sectorial que afecten a los Consumidores y Usuarios.
+d) Cuantas otras funciones se le asignen reglamentariamente.
+Se modifica por el art. 3 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 19 bis
+
+Artículo 19 bis.
+En situaciones de sobreendeudamiento derivado de relaciones de consumo, se establece un procedimiento de mediación al que se someterán las entidades adheridas al convenio que al efecto será redactado según lo establecido en el desarrollo reglamentario de esta ley y se sustanciará ante las comisiones de sobreendeudamiento reguladas por su legislación específica. Si las comisiones de sobreendeudamiento no alcanzan un acuerdo entre el consumidor y los acreedores, queda abierta la correspondiente vía judicial para hacer efectivo lo dispuesto por este código y la legislación complementaria.
+Se levanta la suspensión de la vigencia y aplicación de este precepto, en la redacción dada por el art. 2.2 de la Ley 10/2016, de 7 de junio, por Auto del TC de 6 de septiembre de 2017. Ref. BOE-A-2017-10491
+ Téngase en cuenta que se declara la desestimación del recurso de inconstitucionalidad 1302/2017, por Sentencia del TC 102/2018, de 4 de octubre. Ref. BOE-A-2018-15006
+ Se suspende la vigencia y aplicación de este precepto, en la redacción dada por el art. 2.2 de la Ley 10/2016, de 7 de junio, desde el 15 de marzo de 2017 para las partes y desde el 4 de mayo de 2017 para los demás por providencia del TC de 25 de abril de 2017, que admite a trámite el recurso de inconstitucionalidad 1302/2017. Ref. BOE-A-2017-4818
+ Se añade por el art. 2.2 de la Ley 10/2016, de 7 de junio. Ref. BOE-A-2016-6647.
+
+## CAPÍTULO V
+
+Protección jurídica y reparación de daños y perjuicios
+
+### Artículo 20
+
+Artículo 20. Actuaciones de protección.
+Las administraciones públicas, en el ámbito de sus competencias, adoptarán las medidas adecuadas para equilibrar las situaciones de inferioridad, subordinación o indefensión en que pueda encontrarse el consumidor y usuario, individual o colectivamente. Sin perjuicio de las que en cada caso resulten oportunas, procederán las siguientes actuaciones:
+1. Creación de oficinas de información al consumidor y usuario en los términos del artículo 10 de la presente Ley.
+2. Realización de campañas de difusión e información en los términos del artículo 11 de la presente Ley.
+3. Realización de actuaciones de inspección y control de calidad de productos, bienes y servicios, en particular de aquellos considerados como de uso o consumo común, ordinario y generalizado, y de aquellos que sean objeto de un mayor número de reclamaciones, quejas o denuncias.
+4. Ante situaciones de riesgo inaceptable para la salud y seguridad de los consumidores y usuarios, o de lesión real de sus intereses económicos y sociales o de aspectos sustanciales de su derecho a la información, las administraciones públicas competentes en materia de defensa del consumidor y usuario deberán adoptar, con la máxima celeridad e incluso inmediatamente, las medidas adecuadas, proporcionadas y estrictamente necesarias para eliminar o reducir dicho riesgo o lesión. Entre otras, estas medidas podrán consistir en el establecimiento de condiciones previas a la comercialización de un producto, bien o servicio; la suspensión cautelar o prohibición definitiva de la oferta, puesta en el mercado o comercialización o prestación de productos, bienes o servicios; la clausura de establecimientos; la inmovilización cautelar; la retirada del mercado y, en su caso, recuperación de los consumidores y usuarios de bienes o productos; su destrucción; y cualesquiera otras medidas instrumentales que garanticen la plena eficacia de las anteriores. Igualmente, las situaciones de riesgo inaceptable para la salud deberán comunicarse de forma inmediata a las autoridades sanitarias. Todo ello sin perjuicio de las competencias que ostenten otros órganos en virtud de normas sectoriales que también tengan como finalidad la protección del consumidor.
+Los responsables de la elaboración, distribución, comercialización o prestación de bienes y servicios deberán colaborar con las administraciones públicas competentes en la ejecución de las medidas adoptadas y realizar las actuaciones necesarias para su mayor eficacia. Los gastos que genere la ejecución de estas medidas serán a cargo de los responsables de los riesgos detectados, pudiendo acudirse al procedimiento administrativo de apremio para su exacción.
+En todo caso, las administraciones públicas competentes en materia de defensa del consumidor y usuario podrán advertir a los empresarios o profesionales del incumplimiento de alguno de sus deberes y, si resultara procedente, requerirles su subsanación en un concreto plazo.
+5. Fomento de servicios destinados a la solución amistosa de los conflictos privados de los consumidores y usuarios, principalmente a través del ejercicio de funciones de mediación y conciliación por las oficinas de información al consumidor y usuario por las organizaciones de consumidores y usuarios, y participando las Administraciones Públicas de la Región de Murcia en el desarrollo del Sistema Arbitral de Consumo, de conformidad con la legislación vigente en la materia.
+6. Potenciación de la coordinación entre las diversas administraciones públicas con competencia en la ejecución de la presente Ley y de la cooperación técnica y jurídica con centros y entidades colaboradoras.
+7. Las Administraciones Públicas de la Comunidad Autónoma de la Región de Murcia, en el ámbito de sus competencias, propiciarán que las entidades o empresas públicas que dependan de ellas y las entidades o empresas privadas que gestionen servicios públicos establezcan en sus contratos la opción de acogerse al sistema arbitral de consumo para resolver los conflictos y las reclamaciones derivadas de la prestación de servicios a los consumidores y usuarios.
+Se modifica el apartado 4 por el art. 4.1 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 21
+
+Artículo 21. Daños y perjuicios.
+Los consumidores y usuarios tienen derecho a la indemnización por los daños y perjuicios sufridos, de acuerdo con la legislación vigente.
+
+### Artículo 22
+
+Artículo 22. Ámbito de la inspección de consumo.
+1. La actividad de inspección de consumo podrá recaer sobre todos los productos, bienes y servicios que se ofrecen, están destinados a ofrecerse o es razonablemente previsible que puedan ser utilizados por los consumidores y usuarios; así como sobre los establecimientos, el personal, las materias primas y cualesquiera otros elementos que se utilicen para su producción, distribución, comercialización o prestación; y ello con la finalidad de verificar el cumplimiento de los deberes, prohibiciones y limitaciones impuestos normativamente o voluntariamente asumidos mediante la oferta, promoción y publicidad, que tengan por objeto proteger cualquiera de los derechos esenciales de los consumidores y usuarios establecidos en esta ley. Igualmente, será objeto de la inspección de consumo la perfección y ejecución de los contratos entre los consumidores y empresarios o profesionales, en cuanto en ello estén implicados los deberes impuestos a las administraciones públicas por esta ley, sin perjuicio de las inspecciones que, para ciertos sectores o aspectos, correspondan a otras administraciones públicas o a otros órganos o servicios de la propia Administración Regional.
+2. La actividad de inspección de consumo se realizará preferentemente sobre aquellos bienes, productos y servicios considerados como de uso o consumo común, ordinario y generalizado; y especialmente en aquellas fases o ámbitos donde no existan otras inspecciones administrativas con finalidades concurrentes, como la de carácter sanitario.
+3. Los distintos servicios de inspección de las Administraciones públicas de la Región de Murcia actuarán coordinadamente, colaborarán entre sí y se informarán recíprocamente de las irregularidades que detecten y cuya represión corresponda a otros órganos. Igualmente, prestarán la asistencia, especialmente de carácter técnico, que les requieran los órganos competentes en materia de defensa del consumidor y usuario. Las actuaciones realizadas conforme a su normativa por otros servicios de inspección tendrán plena validez en los procedimientos seguidos para la aplicación de esta ley.
+4. Los inspectores de consumo, además de la actividad de verificación a la que se refiere el apartado primero, en el curso de sus actuaciones inspectoras, podrán:
+a) Informar y asesorar a los inspeccionados sobre sus deberes y la forma de cumplirlos.
+b) Efectuar las advertencias y requerimientos a que se refiere el párrafo tercero del artículo 20.4.
+c) Proponer a los órganos administrativos competentes las medidas que consideren adecuadas a las irregularidades que hayan detectado y colaborar en la ejecución de las que se acuerden.
+d) Realizar las actuaciones inspectoras previas a un procedimiento sancionador o de otro tipo que considere necesarias el órgano competente para la incoación, así como colaborar en la tramitación de estos procedimientos, practicando las diligencias materiales que acuerde el instructor, así como la ratificación del contenido de las actas de inspección formalizadas.
+e) Colaborar en la toma o suministro de datos con finalidad estadística o de estudios de mercado y en la programación y evaluación de las campañas de inspección.
+Se modifica por el art. 4.2 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 23
+
+Artículo 23. El estatuto del inspector de consumo.
+1. El inspector de consumo es aquel funcionario que con la correspondiente habilitación, incluso de carácter ocasional, realiza las actuaciones de inspección de consumo. En el ejercicio de sus funciones tendrá la consideración de agente de la autoridad a todos los efectos y podrá solicitar el apoyo, concurso, auxilio y protección de cualquier otra autoridad o sus agentes, que resulte precisa y éstos deberán prestarlo. Asimismo, en el desarrollo de las actuaciones inspectoras, podrá ser acompañado y auxiliado por personal técnico.
+2. El inspector de consumo, en el ejercicio de sus funciones, tendrá las siguientes facultades:
+a) Acceder sin previo aviso, pero en el horario laboral ordinario, a los locales y dependencias en los que se realicen actividades con trascendencia para los consumidores y usuarios. En el caso de apreciar indicios de irregularidad que lo justifiquen, podrá acceder a los lugares en que pudieran encontrarse pruebas relevantes, aunque no estén abiertos al público en general, sin perjuicio de la necesidad de contar con el consentimiento del afectado o con la correspondiente autorización judicial conforme a lo dispuesto en el artículo 91 de la Ley Orgánica del Poder Judicial cuando resulten preceptivas.
+b) Exigir la exhibición de los documentos que sean obligatorios según las normas cuyo cumplimiento vigila, así como obtener copias y reproducciones. En el caso de apreciar indicios de irregularidad que lo justifiquen, podrá examinar la documentación mercantil, industrial o contable del inspeccionado y sacar notas o copias.
+c) Requerir información sobre cualquier aspecto de la actividad inspeccionada que tenga relación con la investigación que esté llevando a cabo.
+d) En el caso de apreciar indicios de irregularidad que lo justifiquen, solicitar de terceros datos o antecedentes útiles para la investigación. En particular, podrá requerir información de los datos transmitidos, las actividades realizadas y la identificación de los destinatarios de sus servicios a los intermediarios de servicios de la sociedad de la información, en el marco de lo establecido por la legislación estatal aplicable.
+e) Requerir la remisión a las dependencias administrativas de la documentación necesaria.
+f) Requerir la presencia de los inspeccionados o sus representantes en las dependencias administrativas a fin de completar las diligencias de inspección e investigación.
+g) Realizar in situ las pruebas, análisis, ensayos, mediciones o exámenes necesarios, así como tomar muestras para su realización posterior, en la forma y condiciones que se determine reglamentariamente.
+h) Adoptar provisionalmente, en los casos de urgencia, aquellas medidas a que se refiere el artículo 20.4 que sean imprescindibles para la protección del derecho a la salud y seguridad de los consumidores y usuarios, con sometimiento al régimen establecido en el artículo 72.2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. Los sujetos inspeccionados deberán permitir, facilitar y colaborar con las actuaciones inspectoras, debiendo a estos efectos adoptar las medidas que sean necesarias y, entre otras, garantizar que el personal tiene las instrucciones oportunas y establecer la organización interna necesaria que permita una comunicación efectiva con el inspector de consumo.
+4. El inspector de consumo deberá actuar en todo momento con respeto y deferencia hacia los sujetos inspeccionados o quienes atendieran la inspección, debiendo mantener estricto sigilo profesional respecto a los datos o informaciones obtenidas en el ejercicio de sus funciones. Sin perjuicio de responsabilidades de otro tipo, la inobservancia de este deber de sigilo supondrá infracción disciplinaria muy grave.
+Se modifica por el art. 4.3 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 24
+
+Artículo 24. Las actuaciones inspectoras y su formalización.
+1. Las actuaciones inspectoras, salvo que se realicen como una diligencia dentro de un procedimiento administrativo sancionador, se regirán por las siguientes reglas:
+a) Se desarrollarán en la forma y momento que mejor permita conocer la realidad, con o sin previo aviso, y por los medios lícitos que en cada caso se consideren más adecuados para la averiguación de los hechos relevantes, tales como: la observación de las ofertas o la publicidad en cualquier medio de comunicación o servicio de la sociedad de la información; la solicitud o demanda de bienes o servicios, incluso los ofrecidos a distancia; la indagación entre los consumidores y usuarios o los empresarios que puedan suministrar datos de interés; la consulta de registros y archivos públicos; el examen de documentos o de otro material escrito; las visitas a establecimientos o lugares; la toma de muestras; o la realización de análisis, ensayos o mediciones.
+b) Se ajustarán a los principios de congruencia y proporcionalidad, perturbando sólo lo imprescindible la actividad laboral, empresarial o profesional.
+c) El inspector de consumo deberá identificarse previamente en su condición, salvo en aquellos supuestos excepcionales en que la finalidad de la inspección pudiera frustrarse por tal motivo y ésta se realice en lugares de acceso público. En estos casos, se recogerán por escrito las causas que justifican tal forma de proceder.
+d) La toma de muestras se indemnizará con el valor de coste, incluidos gravámenes, salvo que se detectara infracción de la presente ley, en cuyo caso, deberá exigirse al responsable el pago de los gastos ocasionados, incluidos los de los análisis y ensayos, además de la sanción que se le imponga.
+2. El inspector de consumo levantará acta de sus actuaciones de inspección en los siguientes supuestos:
+a) Cuando aprecie indicios de infracción.
+b) Cuando realice advertencias o requerimientos de subsanación de las irregularidades detectadas.
+c) Cuando, de conformidad con lo previsto en el artículo anterior, adopte alguna medida provisional para la protección de la salud y seguridad de los consumidores y usuarios.
+d) Cuando tome muestras o haga diligencias similares para posteriores análisis o ensayos.
+e) Cuando exija la remisión de documentación o información que no haya podido ser facilitada en el momento de la inspección, o requiera la presencia del inspeccionado en las dependencias administrativas.
+f) Cuando ejerza las potestades de acceso a locales cerrados o las de examen de la documentación mercantil, industrial o contable, sin perjuicio de la necesidad de contar con el consentimiento del afectado o con la correspondiente autorización judicial conforme a lo dispuesto en el artículo 91 de la Ley Orgánica del Poder Judicial.
+g) En los demás casos que se establezca reglamentariamente.
+3. El acta es un documento público administrativo que deberá ir en todo caso firmada por el inspector que la cumplimente, así como por el personal auxiliar que, en su caso, le haya acompañado. Cuando en la inspección haya estado presente el titular, un representante o un empleado de la empresa, se le entregará copia y firmará el acta a los únicos efectos de reconocer esa presencia, la recepción de la copia y demás circunstancias de la inspección, incluida la toma de muestras. Si se negare a firmar, el inspector lo hará constar en el acta. A las actas se unirán los documentos o copias de documentos, recogidos en cualquier tipo de soporte material, incluidos los soportes informáticos, las fotografías o el material que en cada caso resulte procedente, con la debida identificación.
+4. Los hechos recogidos en el acta de inspección, que hayan sido directamente constatados por el inspector de consumo en el ejercicio de sus funciones y que se formalicen con observancia de los requisitos establecidos en este precepto y la normativa que lo desarrolle, tendrán valor probatorio y podrán constituir por sí mismos prueba de cargo suficiente para imponer la sanción correspondiente, sin perjuicio de las pruebas que en defensa de sus respectivos derechos o intereses puedan proponer o aportar los administrados.
+Se modifica por el art. 4.4 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+## TÍTULO III
+
+Infracciones y sanciones
+
+## CAPÍTULO I
+
+Tipificación de las infracciones
+
+### Artículo 25
+
+Artículo 25. Infracciones por alteración, adulteración, fraude o engaño.
+Son infracciones por alteración, adulteración, fraude o engaño las siguientes:
+1. La elaboración, la distribución o el suministro y la venta de productos o bienes a los que se haya adicionado o sustraído cualquier sustancia o elemento para variar su composición, su estructura, su peso o su volumen, en detrimento de sus cualidades; para corregir defectos mediante procesos o procedimientos no autorizados, o para encubrir la inferior calidad, la alteración o el origen de los productos utilizados.
+2. El incumplimiento de las disposiciones administrativas sobre la prohibición de comercializar, distribuir o suministrar determinados productos, bienes o servicios, y la comercialización, distribución o suministro de los que precisen autorización administrativa y no la posean.
+3. La presencia en el mercado de productos, bienes o servicios que incumplan las normas relativas al origen, la calidad, la composición, la cantidad, el peso o la medida, y la presentación de los mismos mediante envases, etiquetas, rótulos, cierres, precintos o cualquier información o publicidad que induzca a engaño o confusión, o que oculte su verdadera naturaleza.
+4. La alteración de la composición de bienes y productos destinados al mercado con respecto a la normativa vigente, a las correspondientes autorizaciones administrativas o a las declaraciones registradas.
+5. El incumplimiento en la prestación de todo tipo de servicio, de las condiciones de calidad, cantidad, intensidad o naturaleza, de conformidad con la normativa vigente o las condiciones en que se ofrece al mercado.
+6. El incumplimiento de la normativa vigente en materia de reparación de bienes de consumo duraderos, la insuficiencia de asistencia técnica o inexistencia de piezas de repuesto dentro de las exigencias dispuestas por la normativa vigente.
+7. La no asunción o incumplimiento de la garantía entregada al consumidor y usuario en el momento de la adquisición de bienes o servicios.
+8. La no entrega de garantía escrita o entrega de garantía escrita que no respete los requisitos mínimos, dispuestos por la normativa vigente, en la adquisición de bienes o suministro de servicios que obligatoriamente conlleven su entrega.
+9. La oferta de productos, bienes o servicios mediante publicidad o información, de cualquier clase y por cualquier medio, en que se les atribuya calidades, características, comprobaciones, certificaciones o resultados que difieran de los que realmente tienen o puedan obtenerse, y toda la publicidad que, de cualquier forma, incluida la presentación de los mismos, induzca a error o sea susceptible de inducir a error a las personas a las que se dirige.
+10. La utilización en las etiquetas, envases o propaganda de nombres, clase, indicaciones de procedencia u otras que no correspondan al producto, bien o servicio, e induzcan a confusión al consumidor y usuario.
+11. La oferta de premios o de regalos, si el coste de los mismos ha repercutido en el precio de la transacción, si se compensa la ventaja ofrecida o se disminuye la calidad o la cantidad del objeto principal de la transacción, y si, de cualquier otra forma, no recibe el consumidor y usuario, real y efectivamente lo que se le ha prometido en la oferta.
+12. La falta de garantía de los bienes o servicios ofrecidos como premio u obsequio, o la minoración de la misma respecto a la que es exigible según la normativa vigente para los mismos tipos de bienes o servicios que los obsequiados.
+13. La minoración en las prestaciones cuando se ofrezcan mejores condiciones y formas de pago de los productos, bienes o servicios.
+14. El fraude en la prestación de servicios de instalación o reparación de bienes y de asistencia en el hogar por la innecesaria realización de trabajos o sustitución de piezas para conseguir un aumento del precio, aunque el usuario haya prestado su consentimiento por las falsas indicaciones del sujeto responsable, o por la facturación de trabajos no realizados o ejecutados con accesorios de peor calidad que los indicados al usuario.
+15. El incremento de los precios de los repuestos o piezas al aplicarlos en las reparaciones o instalaciones de bienes y el cobro injustificado por mano de obra, traslado o visita de cantidades muy superiores a los costes medios estimados de cada sector.
+16. La manipulación fraudulenta en los aparatos o sistemas de medición de los productos o servicios suministrados a los consumidores y usuarios.
+17. La distribución, suministro, venta u oferta de bienes que hayan superado su fecha de caducidad o de consumo idóneo, salvo las excepciones que reglamentariamente se prevean para este ultimo supuesto.
+Se añaden los apartados 14 a 17 por el art. 5.1 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 26
+
+Artículo 26. Infracciones en materia de transacciones comerciales y condiciones técnicas de venta y en materia de precios.
+Son infracciones en materia de transacciones comerciales y condiciones técnicas de venta y en materia de precios:
+1. La venta de bienes o la prestación de servicios a precios superiores a los establecidos o autorizados por la Administración, comunicados, anunciados al público, presupuestados o pactados con el consumidor y usuario; y, en general, el incumplimiento de las disposiciones o las normas vigentes en materia de precios y márgenes comerciales.
+2. La ocultación al consumidor y usuario de parte del precio o mediante rebajas en la cantidad o la calidad reales respecto a las prestaciones aparentemente convenidas.
+3. La realización de transacciones en que se imponga al consumidor y usuario la condición expresa o tácita de comprar una cantidad mínima de productos no solicitados, distintos de los que son objeto de la transacción, o bien, la condición de prestarle un servicio no solicitado u ofrecido.
+4. La intervención en la venta de productos y bienes o en la prestación de servicios sujetos a regulación, de cualquier persona, firma o empresa que suponga la aparición de un nuevo grado intermedio dentro del proceso habitual de distribución, siempre que ello constituya o propicie un aumento no autorizado de los precios o de los márgenes comerciales máximos fijados.
+5. El acaparamiento y la retirada injustificada de materias, productos, bienes o servicios destinado directa o indirectamente al suministro o a la venta, con perjuicio directo o inmediato para el consumidor y usuario,
+6. La negativa injustificada a satisfacer las demandas del consumidor y usuario, de los expendedores o de los distribuidores, y cualquier tipo de discriminación respecto a las demandas referidas.
+7. La no entrega de presupuesto previo, documento acreditativo de la operación, resguardo de depósito, factura o comprobante de la venta de productos y bienes o de la prestación de servicios, en los casos que sea preceptivo o cuando lo solicite el consumidor y usuario.
+8. El corte del suministro al abonado de servicios públicos o de interés económico general sin respetar lo dispuesto en el artículo 8.g).
+9. La realización de actividades sin los seguros, avales u otras garantías similares impuestas legalmente en beneficio de los consumidores y usuarios.
+Se modifican los apartados 1 y 8 y se añade el 9 por el art. 5.1 a 4 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 27
+
+Artículo 27. Infracciones en materia de normalización, documentación y condiciones de venta y en materia de suministros o de prestación de servicios.
+Son infracciones en materia de normalización, documentación y condiciones de venta y en materia de suministros o de prestación de servicios:
+1. El incumplimiento de las disposiciones relativas a la normalización y a la tipificación de los productos, bienes o servicios que se comercialicen o existan en el mercado.
+2. El incumplimiento de las disposiciones de ordenación sobre requisitos para la apertura de establecimientos comerciales o de servicios y para el ejercicio de actividades mercantiles, cualquiera que sea su naturaleza.
+3. El incumplimiento de las disposiciones administrativas que prohíben la venta de ciertos productos, bienes o servicios en determinados establecimientos o a determinadas personas.
+4. El incumplimiento de las disposiciones que regulan el marcado de precios, el etiquetado, el envasado y la publicidad sobre productos, bienes y servicios.
+5. El incumplimiento de las disposiciones sobre utilización de marchamos, contrastes, precintos y contramarcas en los productos puestos a disposición del mercado.
+6. El incumplimiento, con relación a la protección del consumidor y usuario, de las normas relativas a documentación, información, libros o registros establecidos obligatoriamente para el adecuado régimen y funcionamiento de la empresa, la instalación o el servicio, en particular la no tenencia o no facilitación al consumidor y usuario de hoja de reclamaciones.
+7. El incumplimiento de las disposiciones sobre seguridad de los productos, bienes y servicios puestos a disposición en el mercado, cuando ello afecte al consumidor y usuario o pueda suponer un riesgo para el mismo.
+8. El incumplimiento de la normativa vigente que regule todo tipo de ventas especiales y actividades de promoción de ventas cuando afecten al consumidor y usuario.
+9. La elaboración, distribución, suministro u oferta de productos, bienes o servicios sin cumplir correctamente los deberes de información al consumidor o usuario que impongan las leyes y los reglamentos en relación con cualquiera de los datos o menciones obligatorios y por cualquiera de los medios previstos para tal información.
+10. La facilitación al consumidor o usuario de información de carácter no obligatorio sin atenerse a las normas que, en su caso, la regule; así como la inclusión en el etiquetado de marcados o símbolos que no estén avalados por las correspondientes certificaciones.
+11. La inclusión en los contratos con consumidores o usuarios de reenvíos a condiciones generales contenidas en textos o documentos que no se faciliten previa o simultáneamente a la conclusión del contrato o sin que se permita al adherente una posibilidad efectiva de conocer su existencia y contenido en el momento de la celebración.
+12. La inclusión o aplicación de cláusulas abusivas en la oferta o promoción de productos o servicios, en los contratos o en la propia ejecución de éstos.
+13. Las limitaciones o exigencias injustificadas al derecho del consumidor de poner fin a los contratos de prestación de servicios o suministro de bienes de tracto sucesivo o continuado, la obstaculización al ejercicio de tal derecho del consumidor a través del procedimiento pactado, la falta de previsión de éste o la falta de comunicación al usuario del procedimiento para darse de baja en el servicio, de conformidad con la legislación estatal aplicable.
+Se añaden los apartados 9 a 13 por el art. 5.5 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 28
+
+Artículo 28. Otras infracciones.
+También son infracciones:
+1. La resistencia, negativa u obstrucción a las labores de inspección; la no remisión a las oficinas administrativas de la documentación requerida; el suministro de información o documentación falsa o inexacta; la excusa reiterada, la negativa o la resistencia a la comparecencia formalmente requerida en las dependencias administrativas; así como el incumplimiento de cualesquiera de los deberes impuestos en el artículo 23.3 de la presente ley.
+2. La coacción, la amenaza, la represalia y cualquier otra forma de presión ejercida sobre los funcionarios encargados de las actuaciones a que se refiere la presente Ley, o bien, a las empresas, a los particulares o a las entidades representativas de consumidores y usuarios y comerciantes que hayan iniciado o pretendan iniciar cualquier acción legal o que participen en procedimientos ya incoados.
+3. La manipulación, el traslado y la desaparición, o bien la disposición en cualquier forma no autorizada legalmente de las muestras depositadas reglamentariamente o de la mercancía intervenida por los funcionarios competentes como medida cautelar.
+4. La falta de toda la documentación reglamentaria exigida, o de parte de la misma, o el hecho de llevarla defectuosamente, cuando afecte a la determinación de los hechos imputados o a la calificación de los mismos.
+5. El incumplimiento o la falta de colaboración de los responsables de la elaboración, distribución, comercialización o prestación de bienes y servicios en la ejecución de las medidas a que se refieren el párrafo primero del artículo 20.4 y el artículo 36.4.
+6. Toda actuación discriminatoria contra consumidores o usuarios por sus circunstancias personales o sociales.
+7. Aquellas conductas ilegítimamente limitadoras de la libertad de elección del consumidor o usuario.
+8. Cualquier otro incumplimiento de lo dispuesto en la presente Ley y en las disposiciones que la desarrollen.
+Se modifican los apartados 1 y 5 y se añaden el 6, 7 y 8 por el art. 5.6 a 8 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+## CAPÍTULO II
+
+Clasificación de las infracciones
+
+### Artículo 29
+
+Artículo 29. Infracciones leves.
+Son infracciones leves las tipificadas en esta ley que no estén calificadas expresamente como graves o muy graves. En todo caso, será infracción leve la recogida en el artículo 28.8 de esta ley.
+Se modifica por el art. 5.9 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 30
+
+Artículo 30. Infracciones graves.
+1. Son infracciones graves las tipificadas en esta ley cuando concurra alguna de las siguientes circunstancias:
+a) Aquellas recogidas en el artículo 25 que sean concurrentes, total o parcialmente, con infracciones sanitarias graves o hayan servido para facilitarlas o encubrirlas.
+b) Haberse cometido dolosamente o con grave negligencia por falta de los controles, precauciones, actuaciones o conocimientos más elementales exigibles según la actividad de que se trate; salvo los supuestos de incumplimiento de los deberes formales impuestos a los operadores económicos o de irregularidades menores que no hayan originado una lesión efectiva del derecho a la salud y seguridad o de los derechos o intereses económicos de los consumidores y usuarios.
+c) Haberse realizado explotando la especial situación de inferioridad o indefensión de los consumidores o usuarios incluidos en alguno de los colectivos especiales a que se refiere el artículo 4.
+d) Haberse realizado prevaliéndose el infractor de su situación de predominio en un sector del mercado.
+e) Cuando en el plazo de un año anterior a la comisión de una nueva infracción inicialmente calificable como leve, el presunto infractor hubiera sido sancionado de manera firme en vía administrativa por la comisión de otra infracción de las tipificadas en esta ley, salvo que la dimensión o extensión de la actividad del infractor no haga especialmente reprochable esta reiteración.
+f) Si calificando la infracción como leve, su comisión resultara para el infractor más beneficiosa que el cumplimiento de las normas infringidas.
+g) La infracción tipificada en el artículo 27.7, cuando produzca un riesgo o daño efectivo y grave para la salud y seguridad de los consumidores y usuarios.
+h) La infracción tipificada en el artículo 27.12, cuando se trate de los contratos de compraventa de vivienda o de arrendamiento para vivienda habitual.
+i) La aplicación de precios o de márgenes comerciales en cuantía superior a los establecidos o autorizados por la Administración comunicados, anunciados al público, presupuestados o pactados, cuando haya generado un beneficio ilícito global superior a los 5.000 euros.
+2. Será siempre calificada como infracción grave la resistencia, negativa u obstrucción a las labores de inspección.
+Se modifica por el art. 5.10 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 31
+
+Artículo 31. Infracciones muy graves.
+Son infracciones muy graves las tipificadas en esta ley cuando concurra alguna de las siguientes circunstancias:
+a) Aquellas recogidas en el artículo 25 que sean concurrentes, total o parcialmente, con infracciones sanitarias muy graves o hayan servido para facilitarlas o encubrirlas.
+b) Haber concurrido con una resistencia, negativa u obstrucción a la labor inspectora, que haya originado especiales dificultades en la detección, investigación o persecución de la conducta infractora.
+c) Haberse realizado aprovechando situaciones de necesidad de determinadas personas o de bienes, productos y servicios de uso o consumo común, ordinario y generalizado, así como haber originado igual situación en un sector o en una zona del mercado.
+d) Haber originado una grave alteración social, previsible en el momento de la comisión, originando alarma o grave desconfianza en los consumidores y usuarios o afectando muy desfavorablemente a un sector económico.
+e) Cuando en el plazo de los tres años anteriores a la comisión de la nueva infracción inicialmente calificable como grave, el presunto infractor hubiera sido sancionado de manera firme en vía administrativa por la comisión de otra infracción grave o muy grave de las tipificadas en esta ley o condenado ejecutoriamente por un delito en el que hubieran resultado perjudicados sujetos en su condición de consumidores o usuarios.
+f) La aplicación de precios o de márgenes comerciales en cuantía superior a los establecidos o autorizados por la Administración, comunicados, anunciados al público, presupuestados o pactados, cuando haya generado un beneficio ilícito global superior a los 50.000 euros.
+Se modifica por el art. 5.11 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+## CAPÍTULO III
+
+Responsables de las infracciones
+
+### Artículo 32
+
+Artículo 32. Responsabilidad por infracciones.
+Son responsables de las infracciones los que, por acción u omisión, hayan participado en las mismas, con las siguientes particularidades:
+1. En las infracciones cometidas en productos envasados, la firma o razón social cuyo nombre figure en la etiqueta se considerará responsable, salvo que se demuestre la falsificación o la mala conservación del producto por un tenedor y siempre que se especifiquen en el envasado original las condiciones de conservación. Se considerará responsable el envasador si se prueba su connivencia con el propietario de la marca.
+2. Si el producto envasado no lleva los datos necesarios para identificar al responsable, según lo establecido en la normativa vigente, serán considerados responsables los que hayan comercializado el producto, salvo que se pueda identificar al envasador.
+3. En las infracciones cometidas en productos a granel, el tenedor se considerará responsable, salvo que se pueda demostrar que dicha responsabilidad corresponda a un tenedor anterior.
+4. En las infracciones cometidas en la prestación de servicios se considerará responsable a la empresa o la razón social obligada a la prestación del servicio.
+5. Si una infracción es imputada a una persona jurídica se considerarán también como responsables sus gestores, directores o administradores, así como los técnicos responsables de la elaboración y control del producto o servicio. En ambos supuestos, siempre que sus conductas dolosas o gravemente negligentes hayan sido necesarias para la comisión de la infracción.
+6. Si la infracción se refiere a materia de precios y se ha cometido con relación a los productos sometidos a regulación y vigilancia de los mismos serán considerados responsables tanto la empresa que haya aumentado indebidamente el precio, como aquella otra que haya comercializado el producto con dicho aumento.
+7. Cuando el cumplimiento de las obligaciones previstas en la presente Ley corresponda a varias personas conjuntamente, responderán de forma solidaria de las infracciones que, en su caso, se cometan.
+8. Lo previsto en los puntos 1, 2, 3 y 4 se entenderá sin perjuicio de que cuando en relación con los mismos bienes o servicios hayan intervenido distintos sujetos como productores, importadores, distribuidores, minoristas u otros, cada uno será responsable como autor de la infracción que, en su caso, haya cometido y por ella será sancionado de manera independiente.
+9. Será responsable subsidiaria de las sanciones pecuniarias la persona o entidad que, mediante participaciones u otros mecanismos societarios o jurídicos, controle o dirija las actividades de la responsable principal de la infracción, siempre y cuando no se les considere coautores.
+Se modifica el apartado 5 y se añaden el 8 y 9 por el art. 5.12 y 13 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+## CAPÍTULO IV
+
+Sanciones
+
+### Artículo 33
+
+Artículo 33. Clasificación de las sanciones.
+1. Las infracciones tipificadas en la presente ley podrán ser sancionadas en los siguientes términos:
+a) Las infracciones leves, con amonestación por escrito o multa de 200 a 5.000 euros.
+b) Las infracciones graves, con multa comprendida entre 5.001 euros y 30.000 euros, cantidad que podrá rebasarse hasta alcanzar el quíntuplo del valor de los productos o servicios objeto de la infracción.
+c) Las infracciones muy graves, con multa comprendida entre 30.001 y 600.000 euros, cantidad que podrá rebasarse hasta alcanzar el quíntuplo del valor de los productos o servicios objeto de la infracción.
+2. Las infracciones a que se refiere la presente Ley podrán ser también corregidas con las siguientes sanciones, con carácter de accesorias o autónomas:
+a) Decomiso o destrucción de la mercancía.
+b) Cierre temporal de la empresa infractora.
+c) Publicidad de las sanciones.
+d) Rectificaciones públicas.
+Se modifica el apartado 1 por el art. 5.14 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 34
+
+Artículo 34. Graduación de las sanciones.
+1. Para la determinación de las sanciones que proceda imponer y su extensión, se valorarán todas las circunstancias objetivas y subjetivas con trascendencia para el injusto y la reprochabilidad que todavía no hayan sido consideradas. En particular, se apreciará la concurrencia de las agravantes y atenuantes previstas en los siguientes apartados.
+2. Son circunstancias agravantes:
+a) Los criterios enumerados en los artículos 30 y 31, aunque no se tendrá en cuenta aquél que haya sido utilizado para calificar la gravedad de la infracción.
+b) El efecto perjudicial que la infracción haya podido producir sobre los precios y sobre los mismos sectores implicados.
+c) La generalización en el número de consumidores y usuarios afectados.
+d) La reincidencia.
+e) El incumplimiento de las advertencias o requerimientos acordados por las administraciones públicas competentes para la subsanación de las irregularidades detectadas.
+f) Haber persistido en la conducta infractora de forma continuada o permanente.
+g) La concurrencia de elementos que dificulten gravemente la detección o persecución de la infracción.
+h) No formular la propuesta obligatoria de alquiler social en los supuestos en que el artículo 59 quáter de la Ley de medidas urgentes para afrontar la emergencia en el ámbito de la vivienda y la pobreza energética lo requiera.
+i) Incumplir en la formulación de la propuesta obligatoria de alquiler social los requisitos establecidos por la definición del alquiler social del artículo 59 quáter 7 de la Ley de medidas urgentes para afrontar la emergencia en el ámbito de la vivienda y la pobreza energética.
+Téngase en cuenta que la letras h) e i) añadidas por el art. 2.3 de la Ley 10/2016, de 7 de junio. Ref. BOE-A-2016-6647. entran en vigor el 15 de septiembre de 2016, según establece la disposición final 4 de la citada ley.
+3. Son circunstancias atenuantes las siguientes, siempre que se realicen con anterioridad a la resolución que ponga fin al procedimiento administrativo sancionador:
+a) La corrección diligente de las irregularidades en que consista la infracción.
+b) La devolución de las cantidades indebidamente cobradas.
+c) La reparación de los daños y perjuicios ocasionados al consumidor y usuario.
+d) La colaboración activa con los órganos competentes para evitar o disminuir los efectos de la infracción.
+4. A efectos de graduación de la sanción de multa, el margen sancionador correspondiente a cada tipo de infracción según su gravedad se dividirá en dos tramos, inferior y superior, de igual extensión. Sobre esta base, se observarán las siguientes reglas:
+a) Si concurre una circunstancia atenuante, la sanción se impondrá en su mitad inferior. Cuando sean varias, en la cuantía mínima de dicha mitad.
+b) Si concurre una circunstancia agravante, la sanción se impondrá en su mitad superior. Cuando sean varias o una muy cualificada, podrá alcanzar la cuantía máxima de dicha mitad.
+c) Si no concurren circunstancias atenuantes ni agravantes, el órgano sancionador individualizará la sanción dentro de la mitad inferior, atendiendo a todas las circunstancias de la infracción.
+d) Si concurren tanto circunstancias atenuantes como agravantes, el órgano sancionador las valorará conjuntamente, pudiendo imponer la multa entre la cuantía mínima y máxima correspondiente.
+5. El órgano sancionador podrá prescindir de las reglas establecidas en el apartado anterior, siempre que ello sea necesario para evitar que la comisión de la infracción resulte más beneficiosa para el infractor que el cumplimiento de las normas infringidas.
+6. Cuando la aplicación del régimen sancionador establecido por la presente ley origine una desproporción manifiesta entre la sanción que deba imponerse y la capacidad económica del infractor, el órgano sancionador podrá imponer la multa en su grado mínimo.
+Se añaden la letras h) e i) al apartado 2 por el art. 2.3 de la Ley 10/2016, de 7 de junio. Ref. BOE-A-2016-6647.
+ Se modifica por el art. 5.15 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 35
+
+Artículo 35. Decomiso y destrucción de la mercancía.
+1. La autoridad a quien corresponda resolver el expediente podrá acordar, como sanción accesoria, el decomiso de la mercancía adulterada, falsificada, fraudulenta o no identificada o que pueda suponer riesgo para el consumidor. Dichas mercancías deberán destruirse si su utilización o su consumo constituyen un peligro para la salud pública. En todo caso, el órgano sancionador determinará el destino final que deba darse a las mercancías decomisadas.
+2. Los gastos que originen las operaciones de intervención, depósito, decomiso, transporte y destrucción de la mercancía objeto de la sanción serán de cuenta del infractor.
+
+### Artículo 36
+
+Artículo 36. Cierre de la empresa infractora.
+1. En el caso de infracciones calificadas de muy graves podrá decretarse como sanción accesoria o autónoma, el cierre temporal de la empresa, el establecimiento o la industria infractores, cuando radiquen en el territorio de la Región de Murcia, por un período de hasta cinco años.
+2. La facultad de acordar el cierre se atribuye al Consejo de Gobierno. El acuerdo podrá determinar medidas complementarias para la plena eficacia de la decisión adoptada.
+3. Del acuerdo de cierre deberá darse traslado a la corporación local del término en que se ubique la citada empresa.
+4. La autoridad competente podrá adoptar, sin que tenga el carácter de sanción, previa incoación del correspondiente expediente administrativo, la medida de cerrar las instalaciones o los establecimientos que no cuenten con las autorizaciones o los registros preceptivos, o la suspensión de su funcionamiento hasta que se rectifiquen los defectos o se cumplan los requisitos exigidos.
+Del mismo modo, podrá suspender la venta o prestación de servicios cuando se den en su ejercicio las mismas irregularidades.
+
+### Artículo 37
+
+Artículo 37. Publicidad de las sanciones.
+1. En el caso de infracciones graves o muy graves, la autoridad que haya resuelto el expediente podrá acordar, como sanción accesoria, por razones de ejemplaridad y en previsión de futuras conductas infractoras, la publicación de las sanciones impuestas, una vez sean firmes en la vía administrativa.
+2. Dicha publicidad deberá dar referencia de los nombres o los apellidos, la denominación o la razón social de las personas naturales o jurídicas responsables, la clase y la naturaleza de las infracciones y la sanción principal impuesta, y deberá realizarse mediante el «Boletín Oficial de la Región de Murcia» y los medios de comunicación social de mayor difusión. También deberá comunicarse a las organizaciones de consumidores y usuarios. El coste de dicha publicidad correrá de cuenta del sancionado.
+
+### Artículo 38
+
+Artículo 38. Rectificaciones públicas.
+Si como consecuencia de la incoación de un expediente administrativo se sanciona el incumplimiento de lo que establece la presente Ley en materia de publicidad, el órgano competente exigirá al infractor, de oficio o a instancia de las organizaciones de consumidores y usuarios, la publicación a sus expensas de un comunicado en que se rectifique la publicidad efectuada, que deberá realizarse en las mismas o similares condiciones en que se produjo la actuación sancionada.
+
+### Artículo 39
+
+Artículo 39. Multas coercitivas.
+1. Las Administraciones públicas competentes podrán imponer multas coercitivas de conformidad con la legislación básica estatal vigente, destinadas a la ejecución de resoluciones dictadas en aplicación de la presente Ley y las demás disposiciones relativas a la defensa de los consumidores y usuarios.
+2. El órgano competente deberá cursar por escrito un previo requerimiento de ejecución de los actos o resoluciones de que se trate, advirtiendo a su destinatario del plazo de que dispone para cumplirlo y de la cuantía de la multa coercitiva que, en caso de incumplimiento, le podrá ser impuesta. El plazo señalado deberá ser, en todo caso, suficiente para el cumplimiento de la obligación de que se trate, y la multa no podrá exceder de 600 euros.
+3. Si la Administración comprobase el incumplimiento de lo ordenado, podrá reiterar las citadas multas por períodos que no puedan ser inferiores al señalado en el primer requerimiento.
+4. Estas multas son independientes de las que se puedan imponer en concepto de sanción, y son compatibles con las mismas.
+Se modifica el apartado 2 por el art. 5.16 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 40
+
+Artículo 40. Restitución de cantidades percibidas indebidamente.
+Independientemente de las sanciones a que se refiere la presente Ley, el órgano sancionador impondrá al infractor la obligación de restituir inmediatamente la cantidad percibida indebidamente, en los casos de aplicación de precios superiores a los autorizados, a los comunicados, a los presupuestados o a los anunciados al público.
+
+### Artículo 41
+
+Artículo 41. Efectos de las sanciones.
+1. Independientemente de las sanciones impuestas, el órgano sancionador podrá proponer a la autoridad correspondiente, en el caso de las infracciones muy graves, la supresión, la cancelación o la suspensión total o parcial de ayudas oficiales, tales como créditos, subvenciones, desgravaciones fiscales y otros que tuviese reconocidos o que hubiese solicitado la empresa sancionada.
+2. Si corresponde a las Administraciones de la Región de Murcia otorgar una ayuda solicitada por una empresa que haya sido objeto de una sanción firme por infracción grave o muy grave, el órgano al que corresponda resolver la solicitud podrá denegar la concesión de la ayuda, siempre y cuando no se haya producido la cancelación de los antecedentes en los términos previstos por la Ley.
+3. De la misma forma, y de conformidad con lo que establezca la legislación de contratos del Estado, en el caso de infracciones muy graves las empresas sancionadas podrán quedar, además, inhabilitadas para contratar con las Administraciones de la Región de Murcia, total o parcialmente, durante cinco años a contar desde la fecha en que sea firme la sanción impuesta.
+4. Las sanciones impuestas serán objeto de ejecución de acuerdo con lo dispuesto en el artículo 138 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y demás normas aplicables.
+Se modifica el apartado 4 por el art. 5.17 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+## CAPÍTULO V
+
+Procedimiento, prescripciones, caducidad y competencias
+
+### Artículo 42
+
+Artículo 42. El procedimiento sancionador.
+Las Administraciones públicas competentes ejercerán la potestad sancionadora en el ámbito establecido por la presente Ley, mediante el procedimiento legal o reglamentariamente establecido, quedando facultado el Consejo de Gobierno para, en su caso, regular un procedimiento con sujeción a los criterios de la legislación básica estatal.
+
+### Artículo 43
+
+Artículo 43. Prescripción y caducidad.
+1. Las infracciones a que se refiere la presente ley prescribirán por el transcurso de los siguientes plazos: las muy graves, a los tres años; las graves, a los dos; y las leves, a los seis meses. El plazo de prescripción comenzará a contarse desde el día en que la infracción se hubiera cometido. En cuanto a la interrupción de este plazo se estará a lo dispuesto en el artículo 132 de Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Además, interrumpirán la prescripción las actuaciones judiciales penales y la tramitación de otros procedimientos administrativos sancionadores en cuanto tales actuaciones impidan iniciar o continuar el procedimiento para sancionar las infracciones de esta ley.
+2. La acción para perseguir las infracciones caducará si, conocida por la Administración competente la existencia de una infracción y finalizadas las diligencias dirigidas al esclarecimiento de los hechos, transcurren seis meses sin que la autoridad competente ordene incoar el procedimiento oportuno. A tal efecto, si hubiera toma de muestras, las actuaciones de la inspección se entenderán finalizadas después de recibidos los resultados del análisis inicial.
+3. El plazo máximo para resolver y notificar la resolución sancionadora será de nueve meses.
+4. Las sanciones por faltas muy graves prescribirán a los tres años; las impuestas por faltas graves, a los dos años, y las impuestas por faltas leves, al año.
+5. La prescripción y la caducidad se apreciarán de oficio por parte del órgano competente, sin perjuicio de la posibilidad de ser alegadas por el interesado.
+6. Si se produjera la prescripción o la caducidad, el órgano competente podrá ordenar la incoación de las oportunas diligencias para determinar el grado de responsabilidad del funcionario o los funcionarios causantes de la demora.
+Se modifica por el art. 5.18 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 44
+
+Artículo 44. Competencia sancionadora.
+1. En el ámbito de la Administración regional, los órganos competentes para la imposición de las sanciones a que se refiere la presente ley son: el Director General de Consumo para imponer sanciones por infracciones leves y graves; el Consejero competente en materia de defensa del consumidor para imponer sanciones por infracciones muy graves hasta 250.000 euros; y el Consejo de Gobierno para imponer sanciones por infracciones muy graves que superen dicha cuantía.
+2. Las Administraciones locales tendrán competencia sancionadora respecto a las infracciones leves cometidas en su término municipal, en relación con las empresas y establecimientos en él domiciliados, y sobre cualesquiera infracciones tipificadas en esta ley en las que se incurra en el ejercicio de la actividad de venta ambulante en su territorio. No obstante, esta competencia podrá ser asumida directamente por los órganos competentes de la Administración regional cuando sea conveniente una actuación integral a causa de la extensión de la conducta infractora, de su gravedad, del número de municipios afectados o de la urgencia, previa y preceptiva notificación del acuerdo de incoación a las administraciones locales afectadas. Los órganos locales competentes para sancionar se determinarán conforme a la legislación de régimen local y a sus propias normas de organización.
+Se modifica por el art. 5.19 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+## TÍTULO IV
+
+La Administración Local en la defensa y protección de los consumidores y usuarios
+Se añade por el art. 6 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 45
+
+Artículo 45. Competencias locales.
+1. Sin perjuicio de las competencias propias de la Administración regional como Administración pública competente en materia de defensa del consumidor y usuario, corresponde a las Administraciones locales de la Región de Murcia velar y promover la protección y defensa de los consumidores y usuarios, en sus respectivos ámbitos territoriales, con el alcance y contenido que les atribuye la presente ley y el resto de las normas jurídicas aplicables.
+2. En particular, las Administraciones locales tienen las siguientes competencias:
+a) El desarrollo de actuaciones singulares y generales de información y formación dirigidas a los consumidores y usuarios a través de los instrumentos que se consideren adecuados y, en particular, mediante la creación de Oficinas Municipales de Información al Consumidor o la utilización de los medios de comunicación pública de titularidad local. Con este objeto, podrán recabar la colaboración de las Asociaciones de consumidores y usuarios.
+b) La inspección de consumo con el alcance y facultades previstos en esta ley y, en particular, la inspección y control del cumplimiento de la normativa de protección del consumidor y usuario en la venta ambulante o no sedentaria. La Consejería competente en materia de defensa del consumidor y usuario coordinará la actuación de la inspección de consumo local, conforme a lo dispuesto en la presente Ley y en las relativas a régimen local.
+c) La adopción de las medidas administrativas no sancionadoras previstas en los artículos 20.4 y 36.4, siempre que la situación a la que respondan sea estrictamente de ámbito local y se pueda afrontar en su totalidad dentro del término municipal. En caso contrario, sólo podrán adoptar provisionalmente las que sean urgentes, poniéndolo en conocimiento inmediato de la Dirección General competente en materia de defensa del consumidor y usuario para que ésta adopte los acuerdos procedentes.
+d) La colaboración en la aplicación y ejecución de las medidas administrativas no sancionadoras a las que se refiere el apartado anterior adoptadas por la Administración regional, en los términos que ésta determine.
+e) El ejercicio de las acciones judiciales que en defensa de los consumidores y usuarios le reconozca la legislación estatal aplicable, tales como las acciones de cesación, retractación y declarativas de condiciones generales de la contratación.
+f) El apoyo y fomento de las Asociaciones de consumidores y usuarios radicadas en su territorio o en cuanto a las actividades que realicen en él.
+g) El ejercicio de la potestad sancionadora con el alcance previsto en el artículo 44.2.
+h) Las demás que le atribuyan las leyes, así como el ejercicio de las que les delegue la Administración regional de conformidad con la legislación estatal y autonómica de régimen local.
+3. Todas las actividades y competencias de los municipios relacionadas con la defensa y protección de los consumidores y usuarios podrán desarrollarse por medio de mancomunidades u otras fórmulas asociativas.
+Se añade por el art. 6 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 46
+
+Artículo 46. De la colaboración, coordinación y cooperación interadministrativa.
+1. Las administraciones públicas de la Región de Murcia con competencias en materia de defensa del consumidor y usuario ajustarán su actuación a los principios de colaboración, coordinación y cooperación que rigen las relaciones interadministrativas, haciendo posible una utilización eficaz y eficiente de los recursos humanos y materiales de que dispongan y con el objetivo de alcanzar un elevado nivel de protección a los consumidores y usuarios.
+2. Las administraciones locales podrán solicitar la cooperación, asistencia y auxilio de la Administración regional para el eficaz ejercicio de sus competencias y ésta sólo podrá negarla por las causas previstas en la legislación general sobre régimen jurídico de las administraciones públicas y en la legislación sobre régimen local. Asimismo, podrán intimar a la Administración regional el ejercicio de sus propias competencias.
+3. Las administraciones locales deberán poner en conocimiento de los órganos regionales de defensa del consumidor cualesquiera datos o informaciones que pudieran ser relevantes para el ejercicio por aquéllos de sus competencias.
+Se añade por el art. 6 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Artículo 47
+
+Artículo 47. Planes sectoriales de coordinación.
+1. Si los instrumentos regulados resultaran insuficientes para asegurar la coherencia de la actuación de las administraciones públicas de la Región de Murcia en el ámbito de la protección y defensa de los consumidores y usuarios, el Consejo de Gobierno, de conformidad con lo previsto en la legislación estatal y autonómica de régimen local, podrá coordinar la actividad de las administraciones locales en esta materia mediante la aprobación de planes sectoriales en los que se fijen los objetivos y se determinen las prioridades de la acción pública en esta materia.
+2. Estos planes serán informados preceptivamente por el Consejo Asesor Regional de Consumo y en ningún caso podrán suponer menoscabo de las competencias que esta ley u otras leyes atribuyan a las administraciones locales.
+Se añade por el art. 6 de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### Disposición adicional única
+
+(Suprimida).
+Se suprime por el art. único del Decreto-ley 4/2020, de 30 de abril. Ref. BORM-s-2020-90152
+ Se deja sin efecto la derogación de este precepto por Acuerdo publicado por resolución de 31 de marzo de 2020. Ref. BORM-s-2020-90082, por el que queda derogado el Decreto-ley 1/2020, de 13 de febrero
+ Se suprime por el art. único del Decreto-ley 1/2020, de 13 de febrero. Ref. BORM-s-2020-90039
+ Se añade por el art. único de la Ley 7/2015, de 24 de marzo. Ref. BOE-A-2015-4748.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En tanto no se disponga reglamentariamente otra cosa, el Consejo Regional de Consumo se regirá por lo dispuesto en el Decreto Regional 1/1995, de 20 de enero.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Hasta que no se establezca reglamentariamente otra cosa, la actuación de la inspección de consumo, incluida la de carácter analítico, se llevará a cabo de acuerdo con lo dispuesto por el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+En tanto no se disponga reglamentariamente otra cosa, el procedimiento sancionador de consumo se regirá por lo dispuesto en el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento de procedimiento para el ejercicio de la potestad sancionadora.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Hasta que no se establezca reglamentariamente otra cosa, las competencias de los órganos administrativos regionales, en el ejercicio de la potestad sancionadora, se regirán por lo dispuesto en el Decreto regional 66/1984, de 20 de junio, y sus modificaciones por Decreto 97/1984, de 13 de septiembre.
+
+### Disposición final
+
+Disposición final.
+El Consejo de Gobierno queda facultado para proceder al desarrollo reglamentario de cualquiera de los preceptos de la presente Ley que así lo requieran.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario
+El Consejo de Gobierno queda facultado para proceder al desarrollo reglamentario de cualquiera de los preceptos de la presente Ley que así lo requieran.
+Se numera por el art. 7 de de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+ Su anterior denominación era disposición final.
+
+### Disposición final segunda
+
+Disposición final segunda. Actualización de las cuantías de las sanciones.
+El Consejo de Gobierno revisará y actualizará periódicamente las cuantías previstas para las sanciones pecuniarias, teniendo en cuenta la evolución del índice de precios al consumo.
+Se añade por el art. 7 de de la Ley 1/2008, de 21 de abril. Ref. BOE-A-2011-2209.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y autoridades que correspondan que la hagan cumplir.
+Murcia, 14 de junio de 1996.
+RAMÓN LUIS VALCÁRCEL SISO,
+Presidente

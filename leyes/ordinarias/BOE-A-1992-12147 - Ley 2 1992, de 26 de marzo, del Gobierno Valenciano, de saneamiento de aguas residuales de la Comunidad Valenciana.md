@@ -1,0 +1,1375 @@
+# Ley 2/1992, de 26 de marzo, del Gobierno Valenciano, de saneamiento de aguas residuales de la Comunidad Valenciana.
+
+- Identificador BOE: `BOE-A-1992-12147`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1992-12147
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianes han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley:
+PREÁMBULO
+I
+A nadie se oculta el valor insustituible que tiene el agua para la vida en sus distintas manifestaciones, así como para garantizar la estabilidad del medio en que nos movemos. Durante siglos el hombre ha utilizado este recurso con profusión, si bien sus aprovechamientos no ponían en peligro la calidad del mismo ni estaban en condiciones de afectar de modo decisivo ninguna de las fases que componen el ciclo hidráulico. Sin embargo, la industrialización y las exigencias crecientes de la sociedad han incrementado de manera espectacular los usos del agua, incidiendo en muchos casos negativamente en su calidad. La concentración demográfica, el establecimiento de centros fabriles y la demanda cada vez mayor de servicios generan volúmenes de aguas residuales que amenazan con desequilibrar definitivamente la integridad de los acuíferos, de los ríos y de las aguas litorales.
+Este hecho no es exclusivo de la Comunidad Valenciana, sino que se extiende más allá de nuestras fronteras, habiéndose convertido en los últimos años en objeto de atención preferente por parte de distintas instancias políticas y administrativas. Buena prueba de ello lo constituye, por ejemplo, la reciente Directiva de la CEE sobre el tratamiento de las aguas residuales urbanas.
+En nuestro caso, hay que considerar, además, el déficit histórico que arrastramos en infraestructuras de saneamiento y depuración, resultado de procesos de crecimiento y desarrollo poco armónicos con una adecuada ordenación del territorio y, en muchos casos, ajenos a la protección del medio natural. Los cauces públicos, lagunas y litoral han cumplido tradicionalmente el papel de depuradoras naturales por vía de dilución, pero esta posibilidad ha llegado a extremos de saturación casi generalizada.
+De ahí la necesidad de tomar medidas en relación con el saneamiento. La Constitución establece, en su artículo 45, que los poderes públicos velarán por la utilización racional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva. Asimismo, la Ley de Aguas de 1985 dedica todo su título V a la protección del dominio público hidráulico y a la calidad de las aguas continentales.
+En esa línea, desde el traspaso de competencias en esta materia, la Generalitat ha apostado de modo decidido por el saneamiento de nuestras aguas, prestando asistencia técnica y económica a las Entidades Locales y ejecutando un buen número de obras que están ya en servicio o a punto de entrar en funcionamiento. El esfuerzo realizado ha sido importante, pero, con todo, también han surgido dificultades altos costes financieros de las obras, complejidad en el mantenimiento de las instalaciones, etc., que, en ocasiones, han demorado la consecución de las soluciones adecuadas.
+II
+Todas estas circunstancias aconsejan la promulgación de la Ley. No sólo se trata de garantizar el funcionamiento de los sistemas ya ejecutados, sino también de tomar las medidas para que esta actuación se consolide e incluso se incremente en los próximos años. Con el fin de superar los puntos débiles del actual esquema de gestión de las infraestructuras de tratamiento y depuración de aguas residuales, cabe plantear un nuevo procedimiento capaz de potenciar la eficacia y la coordinación de esfuerzos de las diferentes Administraciones Públicas en la solución de estos problemas. Para ello se ha tenido en cuenta no sólo la experiencia acumulada en los últimos años por la Comunidad Valenciana, sino también la de otras Comunidades Autónomas que han promulgado sistemas legislativos en la materia, como Cataluña –Ley 5/1981–, Madrid –Ley 17/1984– o Navarra –Ley 10/1988.
+La habilitación competencial no ofrece dudas. El artículo 31, 13, del Estatuto de autonomía declara la competencia exclusiva de la Generalitat sobre las obras públicas que no tengan la calificación legal de interés general del Estado o cuya realización no afecte a otra Comunidad Autónoma, y el artículo 32 determina la facultad de la Generalitat para establecer normas adicionales de protección del medio ambiente.
+El saneamiento y la depuración de las aguas es un tema de alcance global. No es posible circunscribir las soluciones al campo municipal o, incluso, al de una cuenca o subcuenca hidrológica. Por ello se requiere una actuación coordinada de las Administraciones con responsabilidades en la materia. En ese sentido, corresponde a la Administración Autonómica la planificación de las obras e instalaciones objeto de esta Ley y la ejecución de aquellas obras que los planes le encomienden, así como el control del cumplimiento de los mismos.
+Pero esto no quiere decir que la intervención de la Generalitat tenga carácter excluyente. Se ha dicho que el problema tiene una dimensión global y por ello la Ley contempla no sólo el concurso de las Entidades Locales en la formulación de los planes, sino también su iniciativa para ejecutar obras o gestionar las instalaciones correspondientes, de acuerdo con las previsiones que aquéllos establezcan. Por último, y como cierre del sistema, se hace preciso arbitrar un mecanismo que permita la actuación de la Generalitat en los casos en que pudieran ponerse en peligro la estructura, la dimensión temporal o la consecución de los objetivos señalados en la planificación.
+De otro lado, la Ley es respetuosa con la legislación de régimen local, incorporando no sólo los sistemas de coordinación que la Ley 7/1985, de 2 de abril, sanciona, sino respetando además su competencia en materia de saneamiento.
+III
+La implantación de un nuevo esquema de intervención pública ha aconsejado disponer de una organización acorde a las diferentes funciones que han de asumirse. Se crea, pues, una Entidad de Derecho Público, dependiente de la Generalitat, con plena personalidad jurídica pública y privada para llevar a cabo de modo eficaz las nuevas tareas. En primer lugar, la explotación y el mantenimiento de las instalaciones y sistemas de depuración que la Generalitat ejecute o le encomienden otras Administraciones, así como la realización de cualesquiera otras funciones que la Administración Autonómica pudiera encargarle. Pero también la gestión recaudatoria del canon de saneamiento que la Ley instaura y su distribución en favor de las Administraciones y Entidades que han de construir o explotar las obras e instalaciones a que la Ley se refiere. La Entidad que se crea no viene a sustituir a las Empresas municipales existentes, sino que aparece como un órgano dependiente de la Generalitat que atiende a sus propias funciones y colabora con aquéllas.
+IV
+En cuanto a la financiación de las inversiones y el mantenimiento de los servicios anejos a aquéllas, el esquema expuesto hasta ahora exigía, tal y como se establece en el derecho autonómico comparado, el establecimiento de un régimen propio que asegurara la autosuficiencia económica de los planes de saneamiento.
+Este régimen parte de una consideración unitaria del ciclo hidráulico, y se fundamenta en la exacción de un canon de saneamiento, cuyos ingresos habrán de invertirse en garantizar el mantenimiento, así como contribuir a la construcción de sistemas de evacuación y tratamiento de aguas, lo que contribuirá a la mejora paulatina de la calidad de las mismas y a la conservación del medio, aspectos estos que a todos benefician.
+La unidad del ciclo a que antes nos referíamos aconseja tomar el volumen de agua consumida como criterio básico para la determinación del canon, sin perjuicio de poder completar su cálculo con otras especificaciones como la clase de consumo o la carga contaminante incorporada al agua consumida. En ese sentido, se estima asimismo conveniente integrar el canon de saneamiento –que representa el coste de aquella parte del ciclo hidráulico que es necesario acometer y que, en muchos casos, no se factura dentro del recibo de suministro de agua, correspondiendo a las Entidades perceptoras de éste su ingreso en favor de la Entidad pública de saneamiento creada por la Ley. Ello no obstante, no se olvida la existencia de abastecimientos no cobrados o no medidos por contador, previéndose en estos casos un tratamiento especial que garantice la igualdad de trato de todos los que consumen y la justa distribución de las cargas entre ellos.
+Por último, se considera conveniente implicar a los particulares, sobre todo industriales, en la tarea de reducir la contaminación que generan. Con ese objeto, la Ley recoge la posibilidad de que la Administración establezca primas por depuración que fomenten el interés de los mismos agentes en atenuar o eliminar la carga contaminante que incorporan al agua.
+V
+En definitiva, con los instrumentos que la Ley determina se pretende dar un impulso decisivo a las tareas de saneamiento y depuración de las aguas residuales en la Comunidad Valenciana, coordinando las acciones públicas de interés común e instituyendo un sistema de financiación basado en la solidaridad entre todos los usuarios y capaz de ser autosuficiente a medio plazo, lo que habrá de redundar en la mejora de los niveles de conservación del medio que cualquier sociedad avanzada demanda.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto
+1. La presente ley tiene por objeto garantizar una actuación coordinada y eficaz entre las distintas administraciones públicas; la captación y suministro en alta; la evacuación, depuración, tratamiento y reutilización de aguas residuales en el ámbito de territorial de la Comunitat Valenciana, así como la mejora de la gestión y de las infraestructuras vinculadas a estos procesos, con el objetivo de garantizar la sostenibilidad y la eficiencia hidráulica y energética del ciclo urbano del agua, con absoluto respeto a las competencias municipales y en el marco de la colaboración interadministrativa.
+A estos efectos se entienden comprendidas en el ámbito de la ley:
+a) La gestión y explotación de instalaciones públicas de abastecimiento en alta, evacuación, tratamiento, depuración y reutilización de aguas residuales procedentes de las redes de alcantarillado de titularidad local y, en su caso, de depósitos antidesbordamiento de sistemas unitarios.
+b) La realización de obras de infraestructura para abastecimiento de aguas de carácter general, de actuaciones que sirvan para la corrección de sistemas de saneamiento deficientes y de obras de construcción de instalaciones públicas de depuración y tratamiento para la reutilización de aguas residuales procedentes de las redes de alcantarillado de titularidad local y, en su caso, de depósitos antidesbordamiento de sistemas unitarios, así como colectores generales que unan las redes de alcantarillado de titularidad local a dichas instalaciones de depuración y reutilización y colectores de aguas depuradas que puedan reutilizarse para actuaciones de restauración ambiental y para usos consuntivos en los términos que permita la normativa al respecto, garantizando prioritariamente las necesidades ambientales y la protección del medio ambiente.
+2. Asimismo, la ley regula el régimen económico financiero preciso para asegurar el funcionamiento de las instalaciones de evacuación, tratamiento y depuración de aguas residuales, incluidos los sistemas antidesbordamiento asociados a colectores generales, que garantice la protección del medio ambiente y promueva su reutilización, así como, en su caso, para la ejecución de inversiones en los ámbitos objeto de esta ley, mediante la aplicación de un canon específico de saneamiento y depuración.
+3. Esta actuación se desarrolla en el ámbito de la política de la Generalitat definitoria del marco de protección del medio ambiente y de acción para hacer frente a la emergencia climática.
+Se modifica por el art. 87 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Se modifica por el art. 72 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+ Se modifica el apartado 1.b) por el art. 29 de la Ley 10/1998, de 28 de diciembre. Ref. BOE-A-1999-3255.
+
+### Artículo 2
+
+Artículo 2. Interés comunitario.
+1. Son de interés comunitario la planificación, la construcción, la gestión y la explotación de las obras e instalaciones a que se refiere el artículo 1.
+2. Las obras hidráulicas de interés comunitario y las obras y actuaciones hidráulicas de ámbito supramunicipal, incluidas en la planificación hidrológica, así como su gestión y explotación, no estarán sujetas a licencia ni a cualquier acto de control preventivo municipal a los que se refieren los artículos 84 y siguientes de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local y el párrafo b del apartado 1 del artículo 13 de la Ley 6/2014, de 25 de julio, de Prevención, Calidad y Control ambiental de Actividades en la Comunitat Valenciana.
+No obstante, el órgano que promueva la actuación establecerá un trámite de audiencia previo a las entidades locales afectadas por la propuesta de proyecto de ejecución de las obras de interés comunitario y supramunicipal y, en su caso, a los efectos pertinentes en la adaptación del planeamiento urbanístico.
+3. La aprobación de la planificación, la construcción de las obras hidráulicas y, en su caso, de la explotación de las actuaciones de interés comunitario se someterán al procedimiento de evaluación ambiental de acuerdo con la legislación vigente, debiéndose aprobar el proyecto definitivo que recoja las exigencias ambientales correspondientes por el órgano que promueva la actuación.
+Se modifica por el art. 91 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-3
+
+### Artículo 3
+
+Artículo 3. Competencias de la Generalitat.
+1. En el ámbito de sus competencias, corresponde a la Generalitat:
+a) La planificación de las infraestructuras del ciclo urbano del agua y fijar niveles mínimos de calidad en la prestación de los servicios vinculados al mismo. La formulación de las directrices de saneamiento y del esquema de infraestructuras, así como de los criterios sobre niveles de depuración y calidad exigible para los efluentes a dominio público, de acuerdo con la planificación hidrológica y ambiental.
+b) La aprobación definitiva de los planes y proyectos de ejecución de obras y de explotación de las instalaciones.
+c) La aprobación y revisión del régimen económico necesario para financiar la gestión, explotación y construcción de las obras e instalaciones, así como la intervención de los gastos financiados.
+d) La elaboración de proyectos, ejecución de obras y explotación de las instalaciones y servicios que promueva directamente, así como la realización participada, por convenio, por sustitución o por cualquier otro título previsto legalmente, de aquellas otras que las entidades locales no realicen o se ejecuten conjuntamente.
+e) El control de los vertidos a las redes de colectores generales, estableciendo las limitaciones de caudal y contaminación en función de las características de la red y de las instalaciones de tratamiento, de forma que se garantice una calidad adecuada del agua y se fijen unos niveles mínimos de servicio, que garantice la protección del medio ambiente receptor y favorezca la reutilización adecuada de las aguas, evitando su desaprovechamiento.
+f) Fomentar la reutilización del agua tratada, realizar planes y proyectos en la materia, introducir soluciones tecnológicas para mejorar la eficiencia hidráulica y energética e introducir el uso de energías renovables en todos los procesos del ciclo urbano del agua.
+g) Asesorar a los ayuntamientos en la determinación de los costes de los servicios vinculados al ciclo urbano del agua y los mecanismos de repercusión de dichos costes a las personas usuarias, físicas o jurídicas, así como en relación con el cumplimiento de los estándares que garanticen la gestión eficaz de estos servicios, teniendo en cuenta los criterios derivados del carácter de derecho humano fundamental del abastecimiento de agua potable y saneamiento.
+2. En el ámbito de la planificación hidrológica y de infraestructuras hidráulicas que corresponde a la Generalitat, la dirección general competente en materia de aguas incluirá planificación de infraestructuras para la reutilización de las aguas regeneradas, sea para usos consuntivos o para fines ambientales, así como su ejecución, sin menoscabo de aquellas actuaciones que puedan promover otras administraciones y centros directivos en el ejercicio de sus propias competencias.
+3. La Generalitat podrá delegar sus competencias en las entidades locales u otros organismos o utilizar cualquier otro mecanismo convenido, concertado, organizativo o funcional, en el caso de que ello contribuya a mejorar la eficacia de la gestión pública.
+Se modifica por el art. 87 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+### Artículo 4
+
+Artículo 4. Competencias de las Entidades Locales.
+1. En relación con las actuaciones contempladas en la presente Ley, y en el ejercicio de sus competencias, las Entidades Locales tienen iniciativa para:
+a) Constituir cualquier Organismo de gestión previsto en la vigente legislación de régimen local.
+b) Redactar planes y proyectos, en el marco de la planificación que la Generalitat establezca.
+c) Contratar y ejecutar obras.
+d) Gestionar la explotación de las instalaciones y de los servicios correspondientes, mediante cualquiera de las fórmulas establecidas en la legislación vigente.
+2. De conformidad con lo establecido en la legislación de régimen local, es de competencia municipal el servicio de alcantarillado, y podrá gestionarse mediante cualquiera de las formas previstas en la legislación. En relación con éste, corresponde a los Ayuntamientos:
+a) La planificación de sus redes de alcantarillado, de acuerdo con sus planes de ordenación urbana y respetando los puntos y condiciones de salida –a las redes de colectores generales– o llegada –puntos de vertido final– establecidos por el plan director o los planes zonales de saneamiento aprobados por la Generalitat.
+b) La construcción, explotación y mantenimiento de las redes.
+c) La aprobación de las tarifas o tasas del servicio de alcantarillado, de conformidad con los requisitos establecidos en la legislación vigente.
+d) El control de vertidos a las redes municipales de alcantarillado, incluyendo la adopción de medicas correctoras, de acuerdo con las correspondientes Ordenanzas municipales, normativa general de la Generalitat y del Estado.
+
+### Artículo 5
+
+Artículo 5. Relaciones interadministrativas.
+1. Las relaciones entre Administraciones que surjan de la aplicación de esta Ley se ajustarán a los principios de coordinación, respeto a la planificación, colaboración e información mutua.
+2. De acuerdo con las competencias e iniciativas atribuidas a las Corporaciones Locales, éstas podrán agruparse bajo cualquiera de las formas que prevé la legislación, constituyendo consorcios u otros Organismos que colaboren en la ejecución de un determinado plan o proyecto y cuyo ámbito de actuación podrá extenderse al área geográfica, cuenca del río o zona vertiente comprendida en los mismos.
+3. En el supuesto de que las Entidades Locales se vieren imposibilitadas para la realización de las previsiones contenidas en la planificación o incumplieran las mismas, la Administración de la Generalitat podrá realizarlas por sustitución o por cualquier otro instrumento autorizado o previsto por las Leyes.
+
+## CAPÍTULO II
+
+Planes y obras
+
+### Artículo 6
+
+Artículo 6. Planes sujetos a la Ley.
+1. La coordinación de las actuaciones de la Generalitat y de las Entidades Locales en las materias objeto de la presente Ley se realizará mediante la planificación global de las mismas, a través de un plan director de saneamiento y depuración de la Comunidad Valenciana o, en su caso, de planes zonales de saneamiento y depuración.
+2. En todo caso, se garantizará la participación de las Entidades Locales durante la tramitación de los planes, debiendo contemplarse la audiencia de éstas en los términos que se establezcan reglamentariamente.
+3. Los Planes fijarán los objetivos y prioridades de la acción pública, y a sus determinaciones se sujetarán las actuaciones de la Generalitat y de las Entidades Locales afectadas por ellos.
+La aprobación de los Planes llevará aparejada la declaración de utilidad pública para los proyectos y obras que los desarrollen, a los fines de expropiación forzosa y de imposición de servidumbres.
+
+### Artículo 7
+
+Artículo 7. Plan Director de Saneamiento y Depuración de la Comunidad Valenciana.
+1. El Plan Director de Saneamiento y Depuración de la Comunidad Valenciana tiene por objeto determinar, de forma global y coherente, los criterios esenciales sobre la implantación, financiación, gestión y explotación de las infraestructuras de saneamiento relacionadas con la calidad del agua, estableciendo motivadamente prioridades de actuación y señalando las líneas fundamentales a seguir en la materia.
+2. El Plan Director también podrá determinar la ejecución inmediata de programas y obras o la gestión de instalaciones y servicios concretos.
+3. El Plan Director tendrá la naturaleza de Plan de Acción Territorial de carácter sectorial de los previstos en la Ley de Ordenación del Territorio de la Comunidad Valenciana, y será aprobado por el Gobierno Valenciano.
+
+### Artículo 8
+
+Artículo 8. Planes Zonales de Saneamiento y Depuración.
+1. En cada una de las áreas, cuencas de ríos, comarcas o zonas vertientes que aconsejen un tratamiento homogéneo o unitario por razones funcionales, administrativas o económicas, podrá realizarse la planificación del saneamiento y depuración a través de Planes Zonales, en los que se ordenarán las actuaciones que deban realizarse, y se contemplará la financiación de los mismos.
+2. Los Planes Zonales de Saneamiento y Depuración serán aprobados, conjuntamente, por los Consellers de Obras Públicas, Urbanismo y Transportes y de Medio Ambiente.
+
+### Artículo 9
+
+Artículo 9. Obras.
+1. La ejecución de las obras e instalaciones referidas en el punto b del apartado 1 del artículo 1 de esta ley, por constituir infraestructuras de interés comunitario, no estarán sometidas a la obtención de licencia municipal. La adecuación entre las obras y el planeamiento se verificará conforme a lo dispuesto en la legislación urbanística.
+2. La iniciación de las obras y la puesta en marcha de las instalaciones habrán de ser comunicadas a los ayuntamientos afectados si su ejecución o gestión correspondiera a otras administraciones o entidades.
+Se modifica por el art. 87 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Se modifica el apartado 1 por el art. 30 de la Ley 10/1998, de 28 de diciembre. Ref. BOE-A-1999-3255.
+
+## CAPÍTULO III
+
+Relación con la Planificación Urbanística y Territorial
+
+### Artículo 10
+
+Artículo 10. Principio de coherencia.
+La elaboración y aprobación de la planificación de saneamiento y depuración prevista en la Ley, así como la del planeamiento territorial y urbanístico, se basarán en la necesidad de garantizar la coherencia entre las determinaciones de dichos tipos de planes en aquellos aspectos que deban ser regulados en ambos marcos de planificación.
+
+### Artículo 11
+
+Artículo 11. Conflictos.
+En el supuesto de conflicto entre las disposiciones del Plan Director o de un Plan Zonal de los previstos en esta Ley, y un instrumento de planeamiento territorial o urbanístico, se seguirán los criterios previstos en la Ley de Ordenación del Territorio de la Comunidad Valenciana para su resolución.
+
+### Artículo 12
+
+Artículo 12. Informe previo.
+1. Con el fin de garantizar la coherencia entre las determinaciones del futuro planeamiento urbanístico o territorial y la planificación de saneamiento prevista en esta ley, los organismos o administraciones competentes para la aprobación inicial de la planificación territorial o urbanística de ámbito municipal o supramunicipal, notificarán a la conselleria que tenga asignadas las competencias en materia de infraestructuras hidráulicas la apertura de los trámites de exposición o información pública previstos en la legislación urbanística o territorial.
+2. La aprobación de los planes territoriales o urbanísticos que afecten al plan director o a los planes zonales de saneamiento y depuración deberá pronunciarse expresamente sobre la conformidad de aquellos con estos últimos.
+A tal efecto, los servicios técnicos de la conselleria que tengan asignadas las competencias en materia de infraestructuras hidráulicas emitirán, en el plazo de un mes, y con carácter previo a su aprobación definitiva, un informe en el que se recogerán las sugerencias que estimen convenientes. Si transcurrido dicho plazo no se hubiera evacuado el citado informe, se entenderá su conformidad con los mismos.
+Se modifica por el art. 72 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+## CAPÍTULO IV
+
+Organización
+
+### Artículo 13
+
+Artículo 13. Órganos competentes.
+1. La actuación de la Generalitat en las materias a que se refiere la presente ley se llevará a cabo a través del Consell y de las consellerias que tengan asignadas las competencias en las materias que regula.
+2. Asimismo, se llevará a cabo a través de la entidad de derecho público Entidad Pública de Saneamiento de Aguas Residuales de la Comunidad Valenciana, que se crea por la presente ley.
+Se modifica por el art. 72 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 14
+
+Artículo 14. Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana. Naturaleza.
+1. La Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana es una entidad de derecho público, de las reguladas en el artículo 155 de la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones, que forma parte del sector público instrumental de la Generalitat, con personalidad jurídica propia e independiente de la personalidad jurídica de la Generalitat, y plena capacidad pública y privada. Está sujeta al ordenamiento jurídico privado, sin perjuicio de lo establecido en el artículo siguiente, y goza de autonomía en su organización y de patrimonio propio para el cumplimiento de sus fines.
+2. Su relación con la Generalitat se realizará a través de la conselleria a la que esté adscrita, en la forma que reglamentariamente se determine.
+3. La Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana tiene por objeto la gestión y explotación de instalaciones y servicios y la ejecución de obras de infraestructura, en materia de abastecimiento de agua, de tratamiento y depuración de aguas residuales y de reutilización de las aguas depuradas y, en general, de todas aquellas medidas que puedan contribuir a incrementar la eficiencia y la sostenibilidad del uso de los recursos hídricos en la Comunitat Valenciana, así como la gestión tributaria del canon de saneamiento establecido en esta ley.
+4. La Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana podrá realizar todas aquellas actividades en relación con los ámbitos objeto de su actuación establecidos en el apartado anterior que:
+a) le sean requeridas por la Generalitat;
+b) le sean requeridas por las entidades locales, en virtud del oportuno instrumento de colaboración entre administraciones;
+c) decidan sus órganos de gobierno en lo referido a las actuaciones de gestión y explotación;
+d) constituyan base, desarrollo o consecuencia de las instalaciones o servicios a su cargo, teniendo en cuenta los oportunos instrumentos de colaboración entre administraciones que correspondan en cada caso.
+De conformidad con lo dispuesto en el artículo relativo a las funciones de la EPSAR, dicha entidad podrá desarrollar las actividades integrantes de su objeto, total o parcialmente, por decisión de sus órganos de gobierno, o bien a requerimiento de la Generalitat o de los entes locales, lo que se llevará a cabo a través de los instrumentos previstos en la legislación del sector público.
+Se modifica por el art. 72 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+ Se modifica el apartado 3 por el art. 45 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433.
+ Se modifica el apartado 3 por el art. 18 de la Ley 9/2001, de 27 de diciembre. Ref. BOE-A-2002-2413.
+ Se modifica el párrafo primero del apartado 3 por el art. 31 de la Ley 10/1998, de 28 de diciembre. Ref. BOE-A-1999-3255.
+
+### Artículo 15
+
+Artículo 15. Régimen jurídico.
+1. La Entidad pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana se regirá por la presente ley, las disposiciones especiales que la regulen y, en concreto:
+a) Por la Ley 1/2015, 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones, o norma que la sustituya, en todo lo que sea de aplicación a su régimen económico administrativo, y en el resto de las previsiones de dicha ley que le sean de aplicación, así como por la legislación reguladora del dominio público.
+b) Por la Ley 9/2017, de 8 de noviembre, de contratos del sector público, o norma que la sustituya, en lo que se refiere a la ejecución material de obras y explotación de las instalaciones correspondientes.
+c) Por el estatuto de la Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana que apruebe el Consell, a propuesta de la persona titular de las conselleria a la que está adscrita, en cuanto a su estructura organizativa, funcionamiento interno y relaciones con los órganos e instituciones de la Generalitat.
+d) En todo lo demás, por las normas de derecho civil, mercantil y laboral, en cuanto a su actuación como empresa mercantil.
+2. Los planes de obras e instalaciones que realice la Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana para el cumplimiento de sus fines, llevarán aparejados la declaración de utilidad pública de estas.
+Se modifica por el art. 72 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+ Redactado conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. Ref. BOE-A-2019-8789
+
+### Artículo 16
+
+Artículo 16. Funciones.
+Corresponde a la Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana el ejercicio de las siguientes funciones:
+a) Gestionar la explotación de las instalaciones de saneamiento, depuración, reutilización y abastecimiento de titularidad de la Generalitat, así como las de titularidad local o estatal, en virtud del oportuno instrumento de colaboración entre administraciones.
+b) Ejecutar las obras que determine la Generalitat de las referidas en el punto b del apartado 1 del artículo 1 de esta ley o de inversiones en nuevas tecnologías y en energías renovables en las instalaciones del ciclo urbano del agua, o que determinen las entidades locales en virtud del oportuno instrumento de colaboración entre administraciones y, en todo caso, en el marco de la planificación aprobada por la Generalitat.
+c) Recaudar, gestionar y distribuir el canon de saneamiento, así como inspeccionar e intervenir el destino de los fondos asignados a otras administraciones o entidades distintas de la Generalitat, con el objeto de financiar las inversiones previstas en la ley.
+d) Constituir o participar en la puesta en marcha de sociedades mixtas y fomentar actuaciones conjuntas de cooperación en materia de saneamiento y depuración, reutilización y abastecimiento.
+e) Participar, de manera transitoria o permanente, en el capital de sociedades que contribuyan al cumplimiento de los fines de la ley.
+f) Llevar a cabo las actuaciones que determine la Generalitat en relación con las competencias especificadas en los apartados a, d, e, f y g del punto 1 del artículo 3 de esta ley.
+g) Cualesquiera otras funciones que:
+(i) sean necesarias para llevar a cabo actividades que constituyan base, desarrollo o consecuencia de las instalaciones o servicios a su cargo, teniendo en cuenta los oportunos instrumentos de colaboración que correspondan en cada caso;
+(ii) en relación con su objeto, y vinculadas a los ámbitos de actuación de gestión y explotación, decidan sus órganos de gobierno;
+(iii) en relación con su objeto, le sean requeridas por la Generalitat, o por las entidades locales en virtud del oportuno instrumento de cooperación entre administraciones;
+(iv) en relación con esta ley, le sean encomendadas por la Generalitat mediante decreto.
+Se modifica por el art. 87 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Se modifica por el art. 72 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 17
+
+Artículo 17. Estructura.
+1. La Entidad Pública de Saneamiento de Aguas Residuales de la Comunidad Valenciana se regirá por un Consejo de Administración, compuesto por los siguientes miembros:
+Un Presidente, que será el titular de la conselleria a la que esté adscrita la Entidad de Saneamiento de Aguas.
+Un Vicepresidente, en su caso.
+Once vocales, designados del siguiente modo:
+Seis de ellos en representación de la administración de la Generalitat, nombrados a propuesta del Presidente del Consejo de Administración. Uno de los cuales podrá ser designado para ejercer las funciones de Vicepresidente.
+Cuatro de ellos, en representación de la administración Local, nombrados a propuesta de la Federación Valenciana de Municipios y Provincia. En dicha representación deberá figurar, al menos, un vocal por cada una de las tres Diputaciones Provinciales.
+Uno, en representación de la administración del Estado.
+Asimismo, asistirán a las sesiones del Consejo de Administración, el Gerente de la Entidad Pública de Saneamiento de Aguas Residuales de la Comunidad Valenciana y el Secretario del citado consejo, ambos con voz, pero sin voto.
+Se modifica por el art. 42 de la Ley 14/2007, de 26 de diciembre. Ref. BOE-A-2008-1338.
+ Se modifica el apartado 1 por el art. 37 de la Ley 14/2005, de 23 de diciembre. Ref. BOE-A-2006-2973.
+ Se modifica por el art. 37 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433.
+
+### Artículo 18
+
+Artículo 18. Patrimonio y bienes.
+1. La Entidad pública de Saneamiento de Aguas Residuales de la Comunidad Valenciana gozará de patrimonio propio, afecto al cumplimiento de sus fines, y se nutrirá con los siguientes bienes e ingresos:
+a) El rendimiento del canon de saneamiento de aguas residuales de la Comunidad Valenciana.
+b) Bienes y derechos que le sean afectados por la Generalitat, y productos y rentas procedentes de los mismos.
+c) Ingresos obtenidos por el ejercicio de sus actividades.
+d) Transferencias procedentes de la Generalitat o de cualesquiera otros entes públicos.
+e) Recursos procedentes de donaciones, aportaciones o cualquier otra procedencia.
+f) Recursos obtenidos mediante operaciones de crédito.
+2. La Entidad podrá asumir la titularidad plena de las infraestructuras o instalaciones en cuya construcción o gestión participe, siempre que medie acuerdo expreso al efecto.
+Se añade la letra a) y se reordenan las anteriores como b) a f) por el art. 19 de la Ley 9/2001, de 27 de diciembre. Ref. BOE-A-2002-2413.
+
+## CAPÍTULO V
+
+Régimen económico-financiero
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 19
+
+Artículo 19. Definiciones.
+A los efectos de esta ley, se entiende por:
+Agua residual: La resultante o sobrante del uso o empleo del agua, consuntivo o no, en el ejercicio de cualquier actividad económica, doméstica o en cualquier otro consumo humano, independientemente de la procedencia del agua usada o empleada; del lugar, público o privado, fosa séptica o red de alcantarillado donde se produzca su vertido y de su carga contaminante. En particular, tendrán la consideración de residuales las aguas aplicadas en cualquier tipo de riego, así como el empleado en instalaciones de climatización por geotermia en circuito abierto.
+Carga contaminante: Cantidad de contaminantes concentrados en un recurso natural, en particular, el agua y la atmósfera.
+Depuración de aguas residuales: Procedimiento que, realizado en las instalaciones de depuración, tiene por finalidad la eliminación de los contaminantes de las aguas residuales.
+Entidad Suministradora de agua: persona física o jurídica de cualquier naturaleza que, mediante redes o instalaciones de titularidad pública o privada, presten el servicio de abastecimiento domiciliario de agua.
+Explotación agrícola: el conjunto de bienes y derechos organizados empresarialmente por la persona titular de los mismos en el ejercicio de la actividad agraria, primordialmente con fines de mercado, y que constituye en sí misma una unidad técnico-económica.
+Explotación ganadera: Actividad económica que consiste en la cría de animales para el aprovechamiento de la carne y otros productos derivados. No tendrán esta consideración, los mataderos ni los recintos donde se estabulen animales para su uso en espectáculos o eventos deportivos o en la enseñanza del arte o deporte en la que intervengan tales animales.
+Fuga en la red interna: Todo consumo extraordinario derivado de un hecho fortuito, ocasional e involuntario de agua que, consecuentemente, no resulta aplicado a un uso doméstico o de otro tipo. Se entenderá extraordinario el consumo que exceda 3 veces del realizado en el mismo período de consumo del ejercicio inmediato anterior. No tendrán esta consideración los consumos extraordinarios derivados de descuidos o de la falta del adecuado mantenimiento por parte de los usuarios del agua. Toda fuga afectará a un máximo de dos períodos seguidos de facturación trimestral o su equivalente por año.
+Medio receptor: Ámbito físico (agua, aire o suelo) donde se recibe el agua residual.
+Reutilización de aguas: Aplicación, antes de su devolución al dominio público hidráulico y al marítimo-terrestre, para un nuevo uso privativo de las aguas que, habiendo sido utilizadas por quien las derivó, se han sometido al proceso o procesos de depuración establecidos en la correspondiente autorización de vertido y a los necesarios para alcanzar la calidad requerida en función de los usos a que se van a destinar.
+Riego agrícola: Agua utilizada para la evapotranspiración y la construcción celular, desde la siembra hasta la cosecha para un cultivo determinado, con fines de mercado. No tendrán esta consideración el riego de zonas ajardinadas ni el riego de superficies destinadas a la práctica deportiva, ni el riego de especies vegetales para consumo propio.
+Saneamiento: Conjunto de actividades e instalaciones que tienen por finalidad la recogida de las aguas residuales y pluviales y la depuración o tratamiento de estas hasta su vertido en los medios receptores, con el objetivo de reducir o eliminar la carga contaminante y facilitar su reutilización.
+Suministro propio: fuente de agua procedente de un aprovechamiento de agua superficial, subterránea o de pluviales almacenadas al efecto obtenido directamente por el usuario final del agua. También tendrán esta consideración los suministros procedentes de terceros cuando no se facturen, se facturen por referencia a elementos distintos del volumen de agua consumido o se apliquen en usos no autorizados.
+Suministro en alta: En los servicios públicos de abastecimiento de aguas, puesta a disposición por una empresa primaria de los caudales contratados por otras empresas que se ocupan de la distribución directa a los usuarios finales de acuerdo con los contratos de suministro o abastecimiento suscritos.
+Suministro en baja: El suministro domiciliario de agua prestado por una entidad suministradora a sus abonados, consumidores finales del agua suministrada, siempre que disminuya la disponibilidad del recurso y genere agua residual, independientemente de su vertido y del medio en que éste se deposite.
+Tratamiento de aguas residuales: Procedimiento que, aplicado sobre las aguas residuales, permite su vertido directo en masas de agua (interiores o costeras) sin una utilización específica. La conducción de aguas residuales para su depósito en una masa de agua sobre la que no tiene afección, así como la depuración previa a su vertido son ejemplos de tratamiento de aguas residuales.
+Uso del agua: Parte del agua retirada de su fuente para ser aplicada en un sector determinado (agrícola, ganadero, doméstico, industrial, servicios). El uso será consuntivo cuando el agua no esté disponible para reutilizarse después de su primer uso; será no consuntivo en caso contrario.
+Uso doméstico: El consumo de agua realizado en viviendas que den lugar a aguas residuales generadas por el metabolismo humano y las actividades domésticas, incluidas el riego de jardines o de cualquier superficie no afecta a una explotación agraria y el llenado de piscinas.
+Uso no doméstico: El consumo de agua realizado desde un establecimiento destinado al ejercicio de una actividad primaria, industrial, comercial o de servicios. Tendrá esta consideración cualquier otro uso distinto de los definidos en este glosario. Las actividades económicas que se mencionan en esta definición se describirán conforme a la Clasificación Nacional de Actividades Económicas aprobada por el Real decreto 475/2007, de 13 de abril, por el que se aprueba la Clasificación Nacional de Actividades Económicas 2009 (CNAE-2009) o por la clasificación que la sustituya.
+Vertido: Evacuación deliberada al medio (agua, aire o suelo) de productos, sustancias o compuestos de distinta naturaleza (líquidos, sólidos o gaseosos) que pueden tener una incidencia o impacto ambiental.
+Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Redacción anterior:
+ "Artículo 19. Disposición general.
+ 1. La financiación de los gastos de gestión y explotación de las instalaciones de evacuación, tratamiento, depuración, incluyendo los sistemas antidesbordamientos de colectores generales en sistemas unitarios, a los que se refiere esta ley, así como, en su caso, de las obras de construcción de las mismas, se llevará a cabo con los recursos que se obtengan por aplicación del presente régimen económico-financiero. Asimismo, las inversiones a que se refiere el artículo 1 de esta ley y los gastos de gestión y explotación vinculados a instalaciones para reutilización de aguas regeneradas, podrán financiarse con los citados recursos, con independencia que los mismos puedan recuperarse mediante los correspondientes instrumentos de colaboración en aplicación de la normativa específica.
+ 2. Las administraciones y entidades competentes para la gestión de las instalaciones y la ejecución de las obras podrán solicitar, asimismo, ayudas económicas provenientes de otras administraciones públicas, así como contraer los créditos necesarios con entidades oficiales o privadas.
+ 3. El pago de intereses y la amortización de créditos podrán garantizarse con cargo a la recaudación a obtener con el canon de saneamiento."
+Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Se modifica por el art. 87 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+### Artículo 20
+
+Artículo 20. Canon de saneamiento.
+1. El canon de saneamiento es un tributo propio de la Comunitat Valenciana, con la naturaleza de impuesto real e indirecto, que constituye un ingreso específico del régimen económico-financiero de la Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valenciana, debiéndose destinar su recaudación, exclusivamente, a la realización de los fines recogidos en la presente ley.
+2. Su hecho imponible está constituido por la producción de aguas residuales en el ámbito territorial de la Comunitat Valenciana, manifestada a través del consumo real o potencial de agua para cualquier uso, ya sea esta suministrada por entidades públicas o privadas o provenga de suministros propios.
+3. El canon de saneamiento es incompatible con la exacción de tasas, precios públicos u otros tributos de carácter local aplicados a la financiación efectiva de la gestión y explotación de las obras e instalaciones a que se refiere la ley.
+Será compatible, no obstante, con la imposición de tributos locales para financiar la construcción de dichas obras e instalaciones, así como con la percepción de tasas o con cualquier otro precio público o recurso legalmente autorizado para costear la prestación de los servicios de alcantarillado u otras actuaciones que no sean objeto de esta.
+4. No estará sujeto el consumo de agua para su posterior abastecimiento en alta a otros servicios públicos de distribución de agua potable.
+Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Redacción anterior:
+ "1. A los efectos previstos en el artículo anterior, se exigirá un canon de saneamiento, que tendrá la naturaleza de impuesto y la consideración de ingreso específico del régimen económico-financiero de la Entidad Pública de Saneamiento de las Aguas Residuales de la Comunidad Valenciana, debiéndose destinar su recaudación, exclusivamente, a la realización de los fines recogidos en la presente Ley.
+ 2. Su hecho imponible lo constituye la producción de aguas residuales, manifestada a través del consumo de agua de cualquier procedencia. El canon será exigible desde la entrada en vigor de la Ley y vendrá referido al volumen de agua consumida para usos domésticos o industriales, pudiendo diferenciarse en su determinación atendiendo a la clase de consumo, a la población y la carga contaminante incorporada al agua. Su aplicación afectará tanto al consumo de agua suministrada por los Ayuntamientos o por las Empresas de abastecimiento, como a los consumos no medidos por contadores o no facturados.
+ 3. El canon de saneamiento es incompatible con la exacción de tasas, precios públicos u otros tributos de carácter local aplicados a la financiación efectiva de la gestión y explotación de las obras e instalaciones a que se refiere la Ley. Pero es compatible con la imposición de tributos locales para financiar la construcción de dichas obras e instalaciones, así como con la percepción de tasas o con cualquier otro precio público o recurso legalmente autorizado para costear la prestación de los servicios de alcantarillado u otras actuaciones que no sean objeto de la misma."
+Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Se modifica el apartado 1 por el art. 20 de la Ley 9/2001, de 27 de diciembre. Ref. BOE-A-2002-2413.
+
+### Artículo 20 bis
+
+Artículo 20 bis. Exenciones.
+Están exentos de pago del Canon de Saneamiento:
+a) El consumo de agua para uso doméstico en municipios cuya población de derecho, unida, en su caso, a la ponderada de concentración estacional, sea inferior a 500 habitantes. Asimismo, se encuentra exento el uso doméstico de agua en los núcleos de población separada inscritos en el Registro de Entidades Locales, cuya población de derecho, unida, en su caso, a la ponderada de concentración estacional, sea inferior a 500 habitantes.
+b) El consumo de agua efectuado para sofocar incendios.
+c) El consumo de agua para el riego de campos deportivos, parques y jardines de titularidad pública, siempre que se encuentren afectos a un uso o servicio público.
+d) El consumo de agua para la alimentación de fuentes de titularidad pública afectas a un uso o servicio público.
+e) El consumo de agua para su posterior abastecimiento en alta, sin perjuicio de las obligaciones formales previstas reglamentariamente.
+f) Los consumos de agua producidos en el ámbito de la gestión de las instalaciones cuya financiación asume la Entidad de Saneamiento.
+g) El consumo de agua realizado por las explotaciones ganaderas.
+h) El consumo de agua realizado por las explotaciones agrícolas.
+Se añade la letra h) por el art. 136 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.
+ Se añade la letra g) por el art. 68 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663.
+ Se añade por el art. 38 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433.
+
+### Artículo 21
+
+Artículo 21. Exenciones.
+Están exentos de pago del canon de saneamiento:
+a) El consumo de agua para uso doméstico en municipios cuya población de derecho, unida, en su caso, a la ponderada de concentración estacional, sea inferior a 500 habitantes. Asimismo, se encuentra exento el uso doméstico de agua en los núcleos de población separada inscritos en el Registro de Entidades Locales, cuya población de derecho, unida, en su caso, a la ponderada de concentración estacional, sea inferior a 500 habitantes.
+b) El consumo de agua efectuado para sofocar incendios. Tendrán esta consideración los consumos destinados al mantenimiento de las redes de extinción de incendios así como los aplicados en los simulacros obligatorios.
+c) El consumo de agua para el riego de campos deportivos, parques y jardines, todos ellos de dominio público.
+d) El consumo de agua para la alimentación de fuentes de titularidad pública afectas a un uso o servicio público.
+e) Los consumos de agua producidos en el ámbito de la gestión de las instalaciones cuya financiación asume la Entidad de Saneamiento.
+f) El consumo de agua realizado por las explotaciones ganaderas.
+g) El consumo de agua realizado por las explotaciones agrícolas.
+h) Los suministros propios aplicados para usos no domésticos en los sistemas de climatización por geotermia en circuito abierto.
+Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Redacción anterior:
+ "Artículo 20 bis. Exenciones.
+ Están exentos de pago del Canon de Saneamiento:
+ a) El consumo de agua para uso doméstico en municipios cuya población de derecho, unida, en su caso, a la ponderada de concentración estacional, sea inferior a 500 habitantes. Asimismo, se encuentra exento el uso doméstico de agua en los núcleos de población separada inscritos en el Registro de Entidades Locales, cuya población de derecho, unida, en su caso, a la ponderada de concentración estacional, sea inferior a 500 habitantes.
+ b) El consumo de agua efectuado para sofocar incendios.
+ c) El consumo de agua para el riego de campos deportivos, parques y jardines de titularidad pública, siempre que se encuentren afectos a un uso o servicio público.
+ d) El consumo de agua para la alimentación de fuentes de titularidad pública afectas a un uso o servicio público.
+ e) El consumo de agua para su posterior abastecimiento en alta, sin perjuicio de las obligaciones formales previstas reglamentariamente.
+ f) Los consumos de agua producidos en el ámbito de la gestión de las instalaciones cuya financiación asume la Entidad de Saneamiento.
+ g) El consumo de agua realizado por las explotaciones ganaderas.
+ h) El consumo de agua realizado por las explotaciones agrícolas."
+ "Artículo 21. Sujeto pasivo.
+ 1. Vendrán obligados al pago del Canon de Saneamiento, en calidad de contribuyentes, las personas físicas o jurídicas, así como las entidades que, aun careciendo de personalidad jurídica, constituyan una unidad económica o un patrimonio separado, cuando realicen cualquier consumo de agua a que se refiere el artículo anterior.
+ 2. En los casos de consumos de agua obtenida a través de entidades suministradoras, éstas estarán obligadas al pago en calidad de sustitutos del contribuyente, debiendo incluir el canon en los recibos o facturas que emitan a cargo de los abonados del suministro separadamente de cualquier otro concepto.
+ 3. Las reclamaciones sobre aplicación y efectividad de las tarifas del canon de saneamiento tendrán carácter económico-administrativo."
+Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Se modifica por el art. 26 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+ Se modifica por el art. 17 de la Ley 11/2000, de 28 de diciembre. Ref. BOE-A-2001-2503.
+
+### Artículo 22
+
+Artículo 22. Sujetos pasivos.
+1. Vendrán obligados al pago del canon de saneamiento, en calidad de contribuyentes, las personas físicas o jurídicas, así como las entidades que, aun careciendo de personalidad jurídica, constituyan una unidad económica o un patrimonio separado, cuando realicen cualquier consumo de agua sujeto al impuesto.
+2. En los casos de consumos de agua obtenida a través de entidades suministradoras, estas estarán obligadas, en calidad de sustitutos del contribuyente, al cumplimiento de las obligaciones materiales y formales que establezca esta ley, sin perjuicio de lo establecido en el artículo 43.3 de esta ley.
+Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Redacción anterior:
+ "Artículo 22. Usos domésticos.
+ A los efectos de la presente Ley se entiende por usos domésticos los consumos de agua realizados en viviendas que den lugar a aguas residuales generadas principalmente por el metabolismo humano y las actividades domésticas."
+Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Se suprimen los apartados 2 y 3, pasando a ser el 1 apartado único por el art. 39 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433.
+
+### Artículo 23
+
+Artículo 23. Responsables.
+1. Cuando no ostenten la condición de contribuyentes, en el caso de captaciones propias responderán solidariamente del pago del impuesto las personas titulares de los aprovechamientos y de las instalaciones mediante las que o desde las cuales se produzcan las captaciones o realicen los vertidos contaminantes.
+2. Siempre que no ostenten la condición de contribuyentes, en el caso de suministros de red, responderán solidariamente del pago del impuesto las personas titulares de los contratos o pólizas de suministro domiciliario de agua.
+Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Redacción anterior:
+ "Artículo 23. Usos industriales.
+ Se entiende por usos industriales los consumos de aguas realizados desde locales utilizados para efectuar cualquier actividad comercial o industrial.
+ No obstante, los usos industriales del agua, efectuados por aquellos sujetos pasivos que reglamentariamente no están obligados a declarar la caracterización de sus vertidos, cuyo volumen, en cómputo anual, no supere los 3.000 m3 de agua, tendrán, a los efectos de esta ley, la consideración de usos domésticos.
+ Además, son usos industriales a los efectos de esta ley los consumos de agua que se apliquen a usos distintos del doméstico y del riego de explotaciones agrarias, entendiendo estas últimas como el conjunto de bienes y derechos organizados empresarialmente para la producción agraria con fines de mercado."
+Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Se modifica por el art. 40 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433.
+ Se añade el apartado 4 y se renumera el anterior 4 como 5 por el art. 21 de la Ley 9/2001, de 27 de diciembre. Ref. BOE-A-2002-2413.
+
+### Artículo 24
+
+Artículo 24. Base imponible.
+1. La base imponible de la cuota de consumo está constituida por el volumen de agua consumido o estimado, expresado en metros cúbicos.
+2. Cuando el consumo de agua no sea susceptible de medirse con contador u otros mecanismos de control, la base imponible se determinará por el método de estimación objetiva, evaluándose el caudal con la fórmula o fórmulas que se establecen en la sección segunda de este capítulo, o por el de estimación indirecta, según proceda.
+3. La rectificación de la base imponible del canon de saneamiento en los casos de una fuga en la red interna de cualquier consumidor de agua deberá ser reconocida por la EPSAR previa solicitud justificada del interesado. Solicitada la rectificación, la EPSAR comprobará si se cumplen los requisitos para ser reconocida y, en tal caso, procederá a determinar un consumo típico para el periodo o periodos afectados, tomando como tal, el consumo del mismo período del ejercicio anterior, recalculando la cuota de consumo que correspondería a la parte del consumo habitual. La EPSAR, mediante resolución, reconocerá la fuga, rectificará las facturas, lecturas o liquidaciones afectadas, lo que comunicará tanto al interesado como a la entidad suministradora, en su caso. La entidad suministradora deberá emitir una nueva factura con los datos rectificados por EPSAR y adoptar las acciones que correspondan en ejecución de la resolución dictada. Cuando no exista periodo de referencia, el consumo típico del periodo se determinará como media aritmética de los periodos no afectados por esta u otra fuga.
+Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Redacción anterior:
+ "Artículo 24. Determinación del consumo de agua.
+ Para la determinación del consumo de agua en el caso de suministros propios, los contribuyentes están obligados a instalar y mantener, a su cargo, contadores u otros mecanismos de medida directa del volumen real de agua efectivamente consumido. Tales contadores o mecanismos de medida del consumo deberán cumplir, en sus características y condiciones de instalación y funcionamiento, las especificaciones técnicas establecidas reglamentariamente.
+ Cuando los suministros propios o los procedentes de personas o entidades suministradoras no estén medidos de forma directa por los mecanismos a los que hace referencia el párrafo anterior, el consumo estimado se evaluará de la siguiente manera, sin perjuicio de las facultades de comprobación de la Administración:
+ A) Cuando se trate de consumos domésticos, a razón de 200 litros por habitante de la vivienda y día. En caso de desconocerse el número de "domiciliado" u "ocupante" de la vivienda, se estimará que existen tres habitantes por vivienda.
+ B) Cuando se trate de consumos industriales, el menor de los siguientes volúmenes: el obtenido a través de la fórmula o fórmulas determinadas reglamentariamente; o el que figure en la autorización o concesión administrativa de la explotación del suministro.
+ No obstante, cuando el volumen consumido para usos industriales no se pueda determinar conforme a lo establecido en el párrafo anterior, se tomará como tal el declarado por el contribuyente en la forma establecida reglamentariamente."
+Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Se modifica el título por el art. 41 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433.
+ Se modifica por el art. 18 de la Ley 11/2000, de 28 de diciembre. Ref. BOE-A-2001-2503.
+
+### Artículo 25
+
+Artículo 25. Cuota íntegra.
+1. La cuota del canon de saneamiento, formada por la suma de las cuotas de servicio y de consumo, se determinará de acuerdo con las tarifas fijadas en esta ley o en las que se determinen anualmente en la Ley de Presupuestos de la Generalitat.
+En cada ley de presupuestos de la Generalitat se determinarán las actuaciones financiadas con el canon anual. En la memoria anual de la Entidad Pública de Saneamiento de Aguas (EPSAR) se incorporará un anexo comprensivo de la ejecución de dichas actuaciones.
+2. La determinación del importe del canon de saneamiento se efectuará de acuerdo con las normas establecidas en la sección segunda de este capítulo, según se trate de consumos de agua de uso doméstico o de otro tipo.
+3. La cuota de servicio deberá prorratearse conforme al número de períodos en que se produzca un consumo de agua gravado.
+4. La cuota de consumo resultará de multiplicar el tipo aplicable en cada caso por el volumen que se facture o liquide, expresado en metros cúbicos (m3).
+5. Cuando en un período de liquidación sean aplicables sucesivamente diferentes tipos de gravamen, estos gravarán el consumo que se impute proporcionalmente en función del número de días de vigencia de cada uno de aquellos.
+Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Redacción anterior:
+ "Artículo 25. Cuota.
+ 1. La cuota del Canon de Saneamiento, que se integra por la suma de las cuotas de servicio y de consumo, se determinará de acuerdo con las tarifas fijadas anualmente en la Ley de Presupuestos de La Generalitat.
+ 2. En los consumos para usos industriales, la cuota resultante del Canon de Saneamiento se determinará por aplicación a las cuotas de servicio y de consumo del coeficiente corrector, establecido con arreglo a los siguientes criterios:
+ a) La incorporación ostensible de agua a los productos fabricados.
+ b) Las pérdidas de agua por evaporación.
+ c) El volumen de agua extraído de materias primas.
+ d) La carga contaminante que se incorpore al agua utilizada o que se elimine de ésta.
+ Tales criterios darán lugar a un coeficiente corrector único, cuyos límites, inferior y superior, serán los siguientes:
+ A) 0,1 y 8 cuando se trate de establecimientos que viertan la totalidad de sus aguas residuales a Dominio Público Hidráulico o Dominio Público Marítimo-Terrestre.
+ B) 0,1 y 8 cuando se trate de establecimientos que viertan a Dominio Público Hidráulico o Dominio Público Marítimo-Terrestre más de 300.000 m3/año, siempre que dicho volumen constituya, al menos, el 80 por 100 del vertido total.
+ C) 0,1 y 10 cuando se trate de establecimientos que efectúen una eliminación efectiva de la carga contaminante de su vertido:
+ Mediante el tratamiento de las aguas residuales procedentes del proceso productivo en una estación depuradora completa.
+ A estos efectos, se entenderá como estación depuradora completa aquella que, además de eliminar la contaminación orgánica y/o inorgánica, disponga de un sistema de tratamiento y eliminación de fangos.
+ Mediante la segregación de las aguas residuales procedentes del proceso productivo para su gestión de manera independiente al resto de vertidos efectuados sobre las redes de saneamiento públicas.
+ D) 0,1 y 10 cuando, como consecuencia del proceso productivo, el balance de agua suponga un volumen vertido inferior al 25 por 100 del total consumido.
+ Para el resto de establecimientos, los límites del coeficiente corrector serán entre 0,5 y 10.
+ Excepcionalmente, para las actividades englobadas en los epígrafes B, C, D o E del CNAE '93 podrán establecerse coeficientes por debajo de los citados límites inferiores, en virtud de acuerdo del Consell. En tales casos, el coeficiente corrector (CC) mínimo nunca podrá ser inferior a 0,001.
+ 3. Cuando una empresa, local o establecimiento dispongo de consumos para usos industriales de un sistema de climatización por geotermia en circuito abierto, debidamente autorizado por la Administración hídrica, al suministro propio resultante se le aplicarán las tarifas fijadas en la Disposición Adicional Cuarta de esta ley. La aplicación de estas tarifas no impedirá la determinación del coeficiente que, en su caso, corresponda al resto de actividades desarrolladas, excluidos los usos industriales del sistema de climatización por geotermia en circuito abierto, conforme al que se dispone en los apartados anteriores."
+Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Se añade el apartado 3 por el art. 9.1 del Decreto-ley 1/2022, de 22 de abril. Ref. DOGV-r-2022-90121#a9
+ Se modifica por el art. 20 de la Ley 10/2006, de 26 de diciembre. Ref. BOE-A-2007-1348.
+ Se modifica por el art. 42 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433.
+
+### Artículo 25 bis
+
+Artículo 25 bis. Bonificaciones en la cuota.
+Los establecimientos industriales cuya actividad esté englobada en los epígrafes B, C, D o E del CNAE´93 se podrán aplicar una bonificación del 45 por 100 de la cuota de consumo del Canon de Saneamiento en la parte que grave consumos procedentes de aguas tratadas en instalaciones públicas de saneamiento y depuración, suministradas directamente por la Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana.
+La aplicación de está bonificación estará sujeta al cumplimiento de los siguientes requisitos:
+Solicitud expresa del titular de la actividad industrial, o del representante debidamente acreditado a estos efectos, y reconocimiento mediante resolución dictada por el órgano competente de la Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana.
+Destino del consumo de las aguas tratadas, al menos en un 70 por 100, a usos relacionados con la actividad productiva desarrollada.
+Cumplimiento por el solicitante, en materia de autorización o concesión de reutilización de aguas depuradas, de lo dispuesto en la normativa sectorial aplicable.
+El procedimiento para el reconocimiento de la bonificación y los requerimientos técnicos específicos para la aplicación de la misma se regularán reglamentariamente.
+Se añade por el art. 38 de la Ley 14/2005, de 23 de diciembre. Ref. BOE-A-2006-2973.
+
+### Artículo 26
+
+Artículo 26. Bonificaciones.
+1. La cuota tributaria será el resultado de deducir de la cuota íntegra las bonificaciones previstas en este artículo.
+2. Los establecimientos cuya actividad esté englobada en las secciones B, C, D o E del CNAE gozarán de una bonificación del 45 por 100 de la cuota de consumo del canon de saneamiento en la parte que grave consumos procedentes de aguas tratadas en instalaciones públicas de saneamiento y depuración, suministradas directamente por la EPSAR.
+El reconocimiento de esta bonificación se producirá a solicitud del contribuyente mediante modelo normalizado y precisará de la justificación de los siguientes extremos:
+a) Que las aguas tratadas se destinan, al menos en un 70 por 100, a usos relacionados con la actividad productiva desarrollada.
+b) Que el contribuyente cumple la normativa sectorial aplicable en materia de autorización o concesión de reutilización de aguas depuradas.
+En el caso de que se dicte resolución estimatoria, esta producirá efectos desde la fecha de la solicitud y será comunicada a todos los obligados tributarios encargados de su aplicación.
+3. Se aplicará una bonificación del 75 por ciento sobre la cuota íntegra del canon de saneamiento en las facturas o liquidaciones que se emitan por los consumos de agua realizados en las viviendas que, disponiendo o no de alcantarillado, se hayan dotado de una depuradora individual o colectiva para el tratamiento y reutilización de las aguas residuales generadas por las actividades domésticas cuya explotación y mantenimiento sean financiados mediante aportaciones realizadas por los vecinos conectados al sistema de saneamiento y depuración.
+El derecho a aplicar esta bonificación requerirá el reconocimiento de la EPSAR, a solicitud del contribuyente mediante modelo normalizado, y precisará de la justificación de que las instalaciones depuradoras gestionen sus lodos y cumplan en todo momento las condiciones de la autorización de vertidos.
+En el caso de que se dicte resolución estimatoria, esta producirá efectos desde la fecha de la solicitud y será comunicada a todos los obligados tributarios encargados de su aplicación.
+Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Redacción anterior:
+ "Artículo 25 bis. Bonificaciones en la cuota.
+ Los establecimientos industriales cuya actividad esté englobada en los epígrafes B, C, D o E del CNAE´93 se podrán aplicar una bonificación del 45 por 100 de la cuota de consumo del Canon de Saneamiento en la parte que grave consumos procedentes de aguas tratadas en instalaciones públicas de saneamiento y depuración, suministradas directamente por la Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana.
+ La aplicación de está bonificación estará sujeta al cumplimiento de los siguientes requisitos:
+ Solicitud expresa del titular de la actividad industrial, o del representante debidamente acreditado a estos efectos, y reconocimiento mediante resolución dictada por el órgano competente de la Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana.
+ Destino del consumo de las aguas tratadas, al menos en un 70 por 100, a usos relacionados con la actividad productiva desarrollada.
+ Cumplimiento por el solicitante, en materia de autorización o concesión de reutilización de aguas depuradas, de lo dispuesto en la normativa sectorial aplicable.
+ El procedimiento para el reconocimiento de la bonificación y los requerimientos técnicos específicos para la aplicación de la misma se regularán reglamentariamente."
+ "Artículo 26. Devengo.
+ 1. El canon de saneamiento se devengará con el consumo de agua, y su pago será exigible al mismo tiempo que las cuotas correspondientes al suministro de agua.
+ A tal efecto, en los recibos que abonen los usuarios de las redes de abastecimiento de agua deberá figurar, sin perjuicio de otros componentes, el canon de saneamiento como elemento diferenciado.
+ 2. En el supuesto de usuarios no sometidos al pago de tarifas por suministro de agua, el pago del canon se realizará por la persona física o jurídica titular del aprovechamiento de agua, o propietaria de instalaciones de recogida de aguas pluviales o similares, mediante liquidaciones periódicas, en la forma que reglamentariamente se determine."
+Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Se suprime el apartado 3 por el art. 22 de la Ley 9/2001, de 27 de diciembre. Ref. BOE-A-2002-2413.
+
+### Artículo 27
+
+Artículo 27. Devengo del impuesto.
+El impuesto se devengará con el consumo de agua, que se entenderá producido:
+a) En el caso de abastecimientos servidos y facturados por entidades suministradoras, el día en que se haya producido la facturación.
+b) En el caso de abastecimientos no servidos por entidades suministradoras de agua, el último día del período de liquidación.
+c) En los casos de baja en el suministro propio, el día en que sea efectiva dicha baja, siempre que se comunique al órgano gestor del impuesto por la persona interesada.
+Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Redacción anterior:
+ "Artículo 27. Gestión del canon de saneamiento.
+ 1. La gestión del canon de saneamiento corresponde a la Entidad Pública de Saneamiento de las Aguas Residuales de la Comunidad Valenciana, y su percepción se efectuará por la misma, directamente a los contribuyentes o a través de entidades suministradoras de agua, consorcios o entidades públicas, quienes ingresarán lo recaudado a favor de aquélla, en los plazos que se establezcan reglamentariamente.
+ 2. La Entidad Pública de Saneamiento de las Aguas Residuales de la Comunidad Valenciana podrá comprobar e investigar los hechos, actos, situaciones, actividades, explotaciones, valoraciones y demás circunstancias que integren o condicionen el hecho imponible, la base imponible y los demás elementos necesarios para la determinación y percepción del rendimiento del canon de saneamiento, y, en particular, el consumo del agua, las características de las aguas residuales y los demás datos necesarios para la determinación de la carga contaminante de aquéllas, así como la facturación y cobro del canon por las entidades suministradoras.
+ 3. En todo caso, corresponde a la Intervención de la Generalitat Valenciana la fiscalización de la gestión del canon de saneamiento, en la forma establecida reglamentariamente.
+ 4. En el supuesto de que el canon de saneamiento no sea satisfecho en el período de ingreso voluntario, podrá utilizarse la vía de apremio para su exacción."
+Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Se modifica por el art. 23 de la Ley 9/2001, de 27 de diciembre. Ref. BOE-A-2002-2413.
+
+## CAPÍTULO VI
+
+CAPITULO VI
+Infracciones y sanciones
+Se añade por el art. 51 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357.
+
+### Artículo 28
+
+Artículo 28. Exigibilidad del impuesto.
+1. El período de liquidación coincidirá con:
+a) el mes natural, para las entidades suministradoras que durante el año natural anterior hubieran facturado en concepto de cuota tributaria más de 6.010.000 euros;
+b) el año natural, cuando el mismo importe, acumulado en cómputo de un año natural, no supere los 6.010 euros;
+c) el trimestre natural, en el resto de los casos, incluidos los suministros propios.
+En los supuestos de inicio de la actividad, el período de liquidación se determinará en función del importe previsible de las cuotas a facturar.
+Si durante el primer año de actividad esta se hubiere desarrollado durante un plazo inferior al año, el importe de las cuotas a ingresar facturadas se elevará al año de forma proporcional.
+Los periodos de liquidación así determinados se aplicarán para todo nuevo suministro que asuma una entidad suministradora ya en funcionamiento.
+2. Las entidades suministradoras estarán obligadas a declarar e ingresar el canon facturado a sus abonados durante los 20 primeros días naturales del mes siguiente al período de liquidación.
+Esta obligación se mantendrá a pesar de que durante el periodo no se haya facturado cantidad alguna.
+3. Serán exigibles mediante liquidación tributaria las cuotas del canon devengadas durante el periodo de liquidación como consecuencia de la realización de suministros propios.
+Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Redacción anterior:
+ "Artículo 28. Regimen sancionador.
+ 1. Las infracciones tributarias del Canon de Saneamiento serán calificadas y sancionadas de acuerdo con lo dispuesto en la Ley General Tributaria y demás normas de general aplicación, con las especialidades que establece la presente Ley.
+ 2. La competencia para acordar e imponer sanciones tributarias corresponde al Gerente de la Entidad Pública de Saneamiento de Aguas Residuales de la Comunidad Valenciana."
+Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Se modifica por el art. 51 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357.
+ Se añade por el art. 40.1 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213.
+
+## Sección 2
+
+Sección 2.ª Determinación de la cuota del canon
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+## Subsección 1
+
+Subsección 1.ª Usos domésticos
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 29
+
+Artículo 29. Cuota exigible a los consumos de uso doméstico.
+1. La tarifa de uso doméstico del canon de saneamiento resultará de la suma de una cuota de servicio, consistente en un importe en euros a satisfacer por cada abonado y suministro contratado, y de una cuota de consumo, en euros por metro cúbico facturado o liquidado, determinadas según la población del municipio, de acuerdo con la siguiente tabla:
+Población Municipio
+ (número de habitantes)
+ Cuota de servicio por abonad
+ (euros/año)
+ Tipo cuota de consumo
+ (euros/m3)
+ Entre 500/3.000.
+ 32,43
+ 0,321
+ Entre 3.001/10.000.
+ 39,75
+ 0,376
+ Entre 10.001/50.000.
+ 43,81
+ 0,412
+ Superior a 50.000.
+ 44,83
+ 0,441
+2. En el caso de que un solo contador sirva para medir el consumo de una comunidad de vecinos o grupo de viviendas, el número de abonados que servirá de base para la aplicación de la cuota de servicio se presumirá de acuerdo con la siguiente tabla, que establece una equivalencia entre el calibre de contador y el número de sujetos pasivos servidos por él. Esta equivalencia se utilizará mientras no se demuestre que es otro el número de abonados que obtienen el suministro de agua a través del mismo contador.
+– Contador con calibre de hasta 13 mm: 1 abonado.
+– Contador con calibre de hasta 15 mm: 2 abonados.
+– Contador con calibre de hasta 20 mm: 3 abonados.
+– Contador con calibre de hasta 25 mm: 4 abonados.
+– Contador con calibre de hasta 30 mm: 8 abonados.
+– Contador con calibre de hasta 40 mm: 15 abonados.
+– Contador con calibre de hasta 50 mm: 22 abonados.
+– Contador con calibre de hasta 65 mm: 50 abonados.
+– Contador con calibre de hasta 80 mm: 90 abonados.
+– Contador con calibre de más de 80 mm: 150 abonados.
+3. Cuando el volumen consumido no pueda estimarse mediante contador u otro aparato de medida similar, la cuota de consumo se evaluará a razón de 200 litros por habitante de la vivienda y día. En caso de desconocerse el número de habitantes, se presumirá, salvo prueba en contrario, que existen tres habitantes por vivienda.
+Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Redacción anterior:
+ "Artículo 29. Infracción tributaria por incumplimiento de la obligación de facturación del Canon de Saneamiento.
+ 1. Constituyen infracción tributaria grave las siguientes conductas:
+ a) El incumplimiento de la obligación de incluir el Canon de Saneamiento en la factura o recibo del suministro de agua.
+ b) La inclusión del Canon de Saneamiento en la factura o recibo del suministro de agua, sin la debida separación de los restantes conceptos.
+ La base de la sanción será el importe total indebidamente facturado por cualquiera de los dos motivos citados y la sanción consistirá en multa pecuniaria proporcional del 1 por ciento, sin que esta cantidad pueda exceder de 30.000 euros.
+ 2. Constituye infracción tributaria leve la inclusión del Canon de Saneamiento en documento separado de la factura o recibo del suministro de agua. La base de la sanción será el importe total del Canon de Saneamiento facturado indebidamente por este motivo y la sanción consistirá en multa pecuniaria proporcional del 1 por ciento, sin que esta cantidad pueda exceder de 3.000 euros."
+Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Se modifica por el art. 51 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357.
+ Se añade por el art. 40.2 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213.
+
+## Subsección 2
+
+Subsección 2.ª Usos no domésticos
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 30
+
+Artículo 30. Modalidades de determinación.
+En los consumos para usos no domésticos, la cuota del canon de saneamiento a satisfacer será la que resulte según una de las dos modalidades siguientes:
+a) Los hechos imponibles producidos en establecimientos dedicados a cualquier actividad incluida dentro de las secciones A, B, C, D o E de la Clasificación Nacional de las Actividades Económicas (CNAE) serán gravados por los tipos integrados en la tarifa de usos no domésticos, corregidos por un coeficiente corrector que se establecerá con arreglo a los siguientes criterios:
+1. La incorporación ostensible de agua a los productos fabricados.
+2. Las pérdidas de agua por evaporación.
+3. El volumen de agua residual gestionado.
+4. El volumen de agua extraída de materias primas.
+5. La carga contaminante que se incorpore al agua utilizada o que se elimine de ésta.
+Dicho coeficiente corrector se determinará conforme a lo previsto en esta subsección.
+Mientras no se haya determinado un coeficiente corrector, será de aplicación la tarifa prevista para los usos no domésticos, aplicándose por defecto un coeficiente corrector con un valor igual a 1 cuando el consumo anual de agua del establecimiento o explotación supere los 3.000 m3. En el caso de que el consumo sea igual o inferior a dicha cantidad resultará de aplicación la tarifa prevista para los usos domésticos.
+b) Los establecimientos o explotaciones que desarrollen actividades clasificadas en las demás secciones del CNAE tributarán por la tarifa regulada en el artículo 31 de esta ley cuando el consumo anual de agua del establecimiento o explotación supere los 3.000 m3. En caso contrario, les resultará de aplicación la tarifa prevista para los usos domésticos. No obstante, en el primer caso, podrán solicitar la aprobación y aplicación de un coeficiente corrector, siempre que les resulte más favorable.
+Desde el momento de la aprobación del coeficiente corrector quedarán sometidos a las tarifas y régimen de obligaciones formales aplicables a los establecimientos a que se refiere la letra anterior.
+c) Los usos no domésticos que utilicen la totalidad del agua suministrada al establecimiento o explotación en aparatos sanitarios y generen un único vertido de aguas residuales procedentes de aquellos, con independencia de la actividad que desarrollen, tendrán la consideración de usos domésticos, siéndoles de aplicación las tarifas previstas para estos usos. En tales casos no estarán obligados a tributar según tipos para usos no domésticos corregidos por el índice corrector ni podrán solicitar la aprobación de un coeficiente corrector.
+Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Redacción anterior:
+ "Artículo 30. Infracción tributaria por resistencia, excusa o negativa a las actuaciones de obtención de los datos necesarios para la determinación del coeficiente corrector o de la deuda tributaria en los supuestos de suministros propios de agua.
+ Constituye infracción tributaria la resistencia, excusa o negativa a las actuaciones de obtención de los datos necesarios para la determinación del coeficiente corrector o de la deuda tributaria en los supuestos de suministros propios de agua.
+ La infracción tributaria prevista en este artículo será grave y será sancionada con multa de 300 euros, si se ha incumplido por primera vez el requerimiento; con multa de 600 euros, si se ha incumplido por segunda vez; y con multa de 900 euros, si se incumple por tercera vez."
+Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Se añade por el art. 51 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357.
+
+### Artículo 31
+
+Artículo 31. Tarifa de usos no domésticos.
+1. La tarifa de usos no domésticos del canon de saneamiento resultará de la suma de una cuota de servicio, consistente en un importe en euros a satisfacer en función del calibre del contador, y de una cuota de consumo, en euros por metro cúbico facturado o liquidado, de acuerdo con la siguiente tabla:
+Calibre del contador
+ (en mm)
+ Cuota de servicio por abonado
+ (euros/año)
+ Tipo cuota de consumo
+ (euros/ m3)
+ Hasta a 13.
+ 116,39
+ 0.570
+ Hasta a 15.
+ 174,48
+ Hasta a 20.
+ 290,65
+ Hasta a 25.
+ 407,05
+ Hasta a 30.
+ 581,67
+ Hasta a 40.
+ 1.163,34
+ Hasta a 50.
+ 1.745,02
+ Hasta a 65.
+ 2.326,47
+ Hasta a 80.
+ 2.908,34
+ Mayor de 80.
+ 4.071,50
+2. En el supuesto de ausencia de contador, para la determinación de la cuota de servicio aplicable se utilizará la siguiente equivalencia entre volumen de agua consumido en el año anterior y el calibre del contador:
+Volumen consumido en el año anterior
+ (m3)
+ Calibre del contador
+ (mm)
+ Hasta 5.000.
+ 13
+ De 5.001 a 7.500.
+ 15
+ De 7.501 a 12.500.
+ 20
+ De 12.501 a 17.500.
+ 25
+ De 17.501 a 25.000.
+ 30
+ De 25.001 a 50.000.
+ 40
+ De 50.001 a 75.000.
+ 50
+ De 75.001 a 100.000.
+ 65
+ De 100.001 a 125.000:
+ 80
+Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Redacción anterior:
+ "Artículo 31. Infracción tributaria por no disponer de arqueta de registro o de contador homologado.
+ Constituye infracción tributaria la ausencia de arqueta de registro o dispositivo que lo sustituya o de contador homologado o de otros aparatos de medición del consumo de agua, así como su mantenimiento en condiciones no operativas.
+ La infracción será grave cuando medie requerimiento de instalación emitido por la Entidad de Saneamiento y será sancionada con multa de 300 euros, si se ha incumplido por primera vez el requerimiento; con 600 euros, si se ha incumplido por segunda vez; y con 900 euros, si se incumple por tercera vez.
+ En los supuestos no previstos en el apartado anterior la infracción será leve y será sancionada con multa fija de 200 euros."
+Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+ Se añade por el art. 51 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357.
+
+### Artículo 32
+
+Artículo 32. Estimación objetiva del consumo de agua en ausencia de contador u otro aparato de medida en funcionamiento.
+1. El volumen de agua facilitado por entidades suministradoras se determinará de la siguiente manera:
+a) En los casos de suministros mediante contratos de aforo, el volumen se evaluará por aplicación de la fórmula siguiente:
+siendoVel volumen de agua estimado en m3; I el importe satisfecho como precio del agua, expresado en las unidades monetarias de curso legal; y Mel precio medio de mercado del agua en el municipio correspondiente, expresado en las unidades monetarias de curso legal por m3.
+b) En aquellos casos en los que exista una ordenanza o reglamento regulador del precio del servicio de agua, con disposición de tarifas diferenciadas según el tipo de usuarios del servicio (viviendas, bares, comercios, etc.), la base imponible para los usos no domésticos se determinará conforme a la siguiente fórmula:
+donde Vies el volumen de agua estimado, expresado en m3, para el uso i; Ti es la tarifa del agua que la ordenanza o reglamento asigna al uso i; y, Td la tarifa del agua que la ordenanza o reglamento asigna a las viviendas.
+2. En los casos de consumos procedentes de suministros propios:
+a) Cuando se trate de captaciones subterráneas, el consumo mensual de agua podrá estimarse mediante la siguiente fórmula:
+siendo Q el consumo mensual expresado en m3, P la potencia nominal del grupo o grupos elevadores expresada en kilovatios; y h la profundidad media del acuífero en la zona considerada, expresada en metros.
+b) Cuando se trate de recogida de aguas pluviales, el consumo anual de agua se estimará en el equivalente al doble de la capacidad de los depósitos de recogida, expresada en m3.
+c) Cuando exista autorización o concesión administrativa, el consumo anual de agua estimado será el volumen que figure en la autorización o concesión administrativa de la explotación del suministro, cuando su valor sea menor que el determinado conforme a los procedimientos establecidos en los subapartados a y b anteriores.
+d) Cuando el consumo no se pueda estimar conforme a lo establecido en los tres subapartados anteriores, se tomará, como volumen consumido estimado para cada periodo, el declarado por el contribuyente en la forma establecida reglamentariamente.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 33
+
+Artículo 33. Estimación del consumo en los casos de suministros propios cuando se produzca una avería del contador.
+Excepcionalmente, en los supuestos de consumo de agua procedente de suministros propios, cuando por avería ocasional del contador no se pueda determinar de forma directa la base imponible de un determinado periodo, y siempre que dicha circunstancia se ponga en conocimiento de la Entidad de Saneamiento en el plazo de 24 horas desde el suceso, el caudal consumido se estimará de acuerdo con la estadística del consumo histórico del mismo periodo del año anterior, si lo hubiera, aplicándose en otro caso la regla general de la letra d), del apartado segundo del artículo 32. Cuando la avería no se comunique en debido plazo o cuando, habiéndose comunicado, no exista estadística del consumo histórico del mismo periodo del año anterior, se aplicará, para la determinación de los consumos estimados, la regla que proceda de las previstas para la estimación del volumen consumido conforme al uso de que se trate.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 34
+
+Artículo 34. Procedimiento para la determinación del coeficiente corrector.
+1. El procedimiento para la determinación del coeficiente corrector se iniciará mediante la presentación de una declaración de inicio o modificación de producción de aguas residuales, o de oficio.
+2. La EPSAR mantendrá un Registro de contribuyentes por usos no domésticos en el que se inscribirán los obligados tributarios que hayan presentado las declaraciones de producción de aguas residuales o para los que se haya determinado de oficio un coeficiente corrector. Dicho Registro se regirá por las normas contenidas en una orden aprobada por la conselleria en materia de hacienda.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 35
+
+Artículo 35. Declaraciones de inicio y de modificación de producción de aguas residuales.
+1. La presentación de una declaración de inicio de producción de aguas residuales iniciará el procedimiento administrativo de determinación del coeficiente corrector, que tendrá naturaleza tributaria.
+2. Cuando la actividad principal del contribuyente esté incluida en las Secciones A, B, C, D o E de la CNAE y sea generadora de consumos de agua no domésticos, este estará obligado a formular una declaración inicial de producción de las aguas residuales dentro de los seis meses posteriores al del inicio de la actividad, de acuerdo con los modelos y requisitos aprobados en una orden de la conselleria competente en materia de hacienda.
+También quedarán obligados a presentarla quienes, desarrollando actividades clasificadas en el resto de las secciones, soliciten la determinación de un coeficiente corrector.
+3. La declaración de producción de aguas residuales contendrá la información necesaria para la determinación del coeficiente corrector. Entre otros, deberá figurar la información identificativa del obligado tributario y del establecimiento donde se desarrolla la actividad, la descripción de la actividad a la que se dedica, la fecha de inicio del consumo de agua, la expresión del calendario laboral y del horario de trabajo, el balance de agua referido a un año de producción media, la caracterización de las aguas residuales generadas en el ejercicio de la actividad, el tratamiento recibido previo a su vertido y la identificación del medio receptor.
+Acompañarán a la declaración un acta de toma de muestras y un certificado de aguas sanitarias, este último antecedente únicamente en el supuesto de que las aguas destinadas a los aparatos sanitarios provengan de una red separada de la de la explotación. Estos documentos no deberán ser aportados en los supuestos de sucesión de la titularidad de actividades o explotaciones para las que no se hayan modificado las condiciones de producción de aguas residuales.
+4. Cuando la declaración de producción de aguas residuales omita algún dato esencial para la determinación del coeficiente corrector, la administración podrá utilizar los que tenga disponibles o bien recabarlos del propio obligado o de terceros, sin perjuicio de las responsabilidades a que hubiere lugar.
+5. La declaración inicial podrá tener carácter estimativo o definitivo.
+Tendrá carácter estimativo cuando se formule dentro del plazo de presentación previsto en la ley y, por razones de inicio de la actividad, se desconozcan los valores del balance de agua y de la caracterización del vertido generado. Dentro del año natural contado desde la presentación de la declaración estimativa deberá formularse una definitiva que la sustituirá a todos los efectos.
+6. Cuando obren en poder de la Administración todos los datos necesarios para la determinación del coeficiente corrector, esté se fijará conforme a los métodos de cálculo explicitados en el anexo I de esta ley.
+El coeficiente así determinado producirá efectos desde la fecha de inicio del consumo del agua contenida en la declaración inicial.
+En los supuestos en los que la declaración de inicio esté motivada por la sucesión en la titularidad de actividades o explotaciones, sin haberse modificado las condiciones de producción de aguas residuales, se mantendrá el coeficiente corrector que viniera aplicándose con anterioridad.
+7. Cuando se cambie de actividad, se alteren los procesos productivos, se modifiquen los productos elaborados o se adopten medidas para reducir el consumo de agua o la carga contaminante incorporada a los vertidos, el obligado tributario deberá presentar una declaración de modificación de aguas residuales dentro de los seis meses posteriores al momento en que los cambios tuvieran efecto. A esta declaración, además de la documentación anexa general, deberá incorporarse una memoria descriptiva de los cambios o modificaciones introducidos y de la variación del volumen de agua o de la carga contaminante incorporada al vertido.
+El coeficiente corrector resultante producirá efectos desde la fecha de presentación de la declaración de modificación de aguas residuales. La resolución expresa será notificada tanto al sujeto pasivo como al resto de obligados tributarios encargados de su aplicación, dentro del plazo de 6 meses desde la presentación de la declaración.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 36
+
+Artículo 36. Procedimiento para la determinación del coeficiente corrector de oficio.
+1. La EPSAR podrá determinar o comprobar el coeficiente corrector aplicable a los obligados tributarios seleccionados conforme a lo dispuesto en los correspondientes programas de actuación recogidos en el Plan de Control Tributario del ejercicio en el que se inicien las actuaciones.
+2. El procedimiento se iniciará, previa autorización de la persona titular del Departamento de Inspección de Vertidos, mediante una comunicación dirigida al contribuyente, que deberá expresar la naturaleza y alcance de las actuaciones e informará sobre sus derechos y obligaciones en el curso de estas.
+3. La comprobación será realizada por el Departamento de Inspección de Vertidos de acuerdo con los datos y documentos que ostente la administración, los declarados o suministrados por terceras personas o los que pueda obtener la Administración tributaria mediante requerimiento efectuado al propio obligado y a terceros.
+4. Cuando sea necesaria la realización de una toma de muestras, la caracterización de las aguas, los procedimientos de muestreo y de inspección, el ejercicio del derecho de las personas interesadas a un análisis contradictorio y la resolución de los resultados analíticos divergentes se regirán por lo establecido en el anexo II de esta ley.
+5. Cuando el resultado de la actuación requiera la determinación de un nuevo coeficiente corrector, el Departamento de Inspección de Vertidos elaborará un informe-propuesta que trasladará, junto a la documentación que integre la actuación de comprobación, al Departamento de Gestión del canon de saneamiento.
+6. El departamento de Gestión del canon de saneamiento notificará al obligado tributario la propuesta de resolución para que, en un plazo de 15 días contados a partir del día siguiente al de la notificación de dicha propuesta, alegue lo que convenga a su derecho, de manera previa a que se dicte la resolución.
+7. El coeficiente corrector determinado por la Administración producirá efectos desde el momento de notificación de la resolución.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 37
+
+Artículo 37. Terminación del procedimiento de determinación del coeficiente corrector.
+1. Los procedimientos de determinación del coeficiente corrector deberán terminar dentro del plazo de 6 meses desde la presentación de la declaración de inicio o modificación de aguas residuales o la notificación de la comunicación de inicio del procedimiento de comprobación de oficio. El transcurso del plazo anterior sin que se haya dictado resolución expresa producirá los siguientes efectos:
+a) En los procedimientos iniciados a instancia de parte, mientras no se notifique resolución expresa serán de aplicación las normas previstas en el artículo 30 de esta ley para la determinación de la cuota del canon para usos no domésticos en ausencia de coeficiente corrector. En los casos de modificación, mientras no se notifique la resolución expresa del procedimiento iniciado con la declaración, el último coeficiente aprobado conservará su vigencia hasta la fecha de presentación de la declaración de modificación.
+b) En los procedimientos iniciados de oficio se producirá la caducidad, sin perjuicio de que los datos y pruebas recabados en esta actuación puedan incorporarse al nuevo expediente que, en su caso, se inicie.
+2. La resolución de determinación del coeficiente corrector producirá efectos desde el momento establecido en la normativa reguladora de cada procedimiento de determinación del coeficiente corrector y será notificada tanto al sujeto pasivo como al resto de obligados tributarios encargados de su aplicación. En la misma se incluirá información sobre el importe del Canon resultante de la aplicación del nuevo coeficiente sobre el volumen de agua declarado o el determinado por la administración.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 38
+
+Artículo 38. Declaración de cese de producción de aguas residuales.
+En el plazo de seis meses contados a partir de la fecha en que se produzca el cese en la actividad de un establecimiento o explotación, o se cambie la actividad a una no obligada a la aplicación de un coeficiente corrector, deberá presentarse una declaración de cese de producción de aguas residuales.
+La presentación de una declaración de cese de producción de aguas residuales dejará sin vigencia el último coeficiente corrector desde la fecha que se determine en la resolución expresa que declare la baja en el Registro de contribuyentes por usos no domésticos.
+La notificación de la resolución del procedimiento deberá producirse en el plazo de 6 meses. En caso de falta de resolución, esta se entenderá estimada con efectos desde la fecha de la declaración.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 39
+
+Artículo 39. Arqueta de registro.
+1. Los titulares de establecimientos o explotaciones obligados a presentar una declaración de producción de aguas residuales, incluidos los que la presenten voluntariamente, están obligados a instalar a su cargo una arqueta de registro, de libre acceso desde el exterior y ubicada de tal forma que permita en todo momento la inspección del vertido, a los efectos de realizar operaciones de toma de muestras y la instalación de aparatos automáticos de muestreo y medición.
+2. En caso de imposibilidad acreditada de cumplimiento de esta norma, la Entidad de Saneamiento definirá la alternativa técnica más adecuada para garantizar la inspección y la toma de muestras.
+3. En los casos de falta de arqueta de registro u otra alternativa técnica o de acondicionamiento del punto de muestreo, la Entidad de Saneamiento podrá determinar la carga contaminante del vertido a partir de la realización de un muestreo puntual.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+## Sección 3
+
+Sección 3.ª Obligaciones materiales y formales
+Téngase en cuenta que esta Sección, añadida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+## Subsección 1
+
+Subsección 1.ª Consumos de agua obtenida a través de entidades suministradoras
+Téngase en cuenta que esta Subsección, añadida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 40
+
+Artículo 40. Obligaciones materiales y formales de los sustitutos del contribuyente.
+1. Las personas o entidades que ostenten la condición de sustitutos del contribuyente deberán cumplir las siguientes obligaciones:
+a) Presentar las declaraciones censales de inicio, modificación y cese de prestación del servicio de abastecimiento.
+b) Incluir el canon de saneamiento en la factura que emitan a sus abonados, de manera separada del resto de conceptos.
+c) Presentar una declaración-liquidación por cada período de liquidación.
+d) Cumplir con las obligaciones contables y registrales que permitan determinar las cantidades del canon facturadas y recaudadas.
+2. Las declaraciones que se mencionan en el presente artículo deberán formularse con arreglo a los procedimientos y modelos aprobados mediante orden de la conselleria competente en materia de hacienda.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 41
+
+Artículo 41. Declaraciones censales.
+Mediante orden de la persona titular de la conselleria competente en materia de hacienda se regulará un Registro de entidades suministradoras que permita determinar el número de municipios y abonados atendidos por cada una de estas.
+El registro se formará mediante la presentación por las entidades suministradoras de las correspondientes declaraciones de inicio, modificación o cese de la prestación del servicio en cada municipio abastecido.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 42
+
+Artículo 42. Obligación de incluir el canon en la factura.
+1. Toda entidad suministradora deberá incluir el canon de saneamiento en las facturas de agua que emita a sus abonados, consumidores finales, que estarán obligados a reintegrarlo.
+2. La factura contendrá, de manera diferenciada del resto de conceptos y con el suficiente detalle, expresión de los elementos determinantes del tipo aplicable, los tipos aplicados, el coeficiente corrector aplicado, en su caso, el volumen consumido, las cuotas de servicio y consumo, las bonificaciones aplicadas y la cuota a ingresar del impuesto.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 43
+
+Artículo 43. Obligación de presentación e ingreso de una declaración-liquidación por cada período de liquidación.
+1. Los sustitutos del contribuyente están obligados a presentar una declaración-liquidación e ingresar, en su caso, la suma de las cuotas tributarias facturadas durante el período de liquidación.
+2. El contenido de la declaración deberá permitir conocer, con el debido detalle, cada uno de los hechos imponibles devengados, con inclusión de las operaciones exentas.
+3. Podrán deducirse del importe anterior las cuotas tributarias que no hubieran sido ingresadas por los abonados y que cumplan las siguientes condiciones el último día del período de liquidación correspondiente a dicha declaración-liquidación:
+a) Que se hubiera ingresado por el sustituto del contribuyente la cuota facturada en una declaración-liquidación anterior.
+b) Que hayan transcurrido al menos dos años desde la fecha de facturación sin que se haya obtenido su cobro total o parcial.
+c) Que el importe de la factura pendiente de ingreso sea superior a los seis euros.
+4. Los abonados de los suministros cuyas cuotas del canon hayan sido deducidas en virtud de lo previsto en apartado anterior resultarán obligados al pago del impuesto en calidad de contribuyentes. Las entidades suministradoras se abstendrán de realizar cualquier procedimiento dirigido al cobro de los débitos relacionados.
+5. En el caso de que las entidades suministradoras cumplan en plazo las obligaciones establecidas en esta ley podrán deducir de la cuota resultante de su declaración-liquidación una bonificación calculada por aplicación de un porcentaje sobre la suma de las cuotas tributarias facturadas durante el periodo de liquidación.
+Dicho porcentaje se establece en función del número de abonados totales de cada entidad suministradora, de acuerdo con la tabla y la fórmula siguientes:
+Tramos para calcular la bonificación
+ Escalado de porcentajes
+ –
+ Porcentaje
+ Abonados desde
+ Abonados hasta
+ 1
+ 1.000
+ 3,00
+ 1.001
+ 10.000
+ 2,00
+ 10.001
+ 100.000
+ 0,50
+ 100.001
+ 500.000
+ 0,20
+ Más de 500.000
+ 0,10
+El % de bonificación no podrá ser inferior a 1,2 puntos porcentuales.
+A los efectos de este artículo, se considerará como número de abonados el número de facturas emitidas durante el periodo de liquidación que no hayan sido anuladas.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 44
+
+Artículo 44. Obligaciones contables.
+La contabilidad de las personas o entidades que actúen como sustitutos del contribuyente deberá permitir determinar, en todo momento y con la debida precisión, el importe del canon de saneamiento facturado, las cuotas ingresadas por los abonados, así como el cumplimiento efectivo de la obligación de inclusión en la factura.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+## Subsección 2
+
+Subsección 2.ª Consumos de agua procedentes de suministros propios.
+Téngase en cuenta que esta subsección, añadida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 45
+
+Artículo 45. Obligaciones formales de los contribuyentes.
+1. Los contribuyentes del impuesto en el supuesto de suministros propios estarán obligados a:
+a) Instalar y mantener, a su cargo, contadores u otros mecanismos de medida directa del volumen real de agua efectivamente consumido.
+b) Presentar las declaraciones de inicio, modificación o cese de suministros propios.
+c) Presentar la declaración informativa de consumos propios.
+d) En el caso de consumidores de agua para usos no domésticos, a presentar las declaraciones censales de producción de aguas residuales y a instalar a su cargo una arqueta de registro, de conformidad con lo previsto en la subsección segunda de esta ley.
+2. La Entidad Pública de Saneamiento de Aguas Residuales podrá requerir la presentación de las declaraciones a las que se refiere el presente artículo a los contribuyentes que reciban el agua de otras personas o entidades suministradoras que no facturen por contador u otros procedimientos de medida similares, o se apliquen en usos no autorizados. En estos casos se considerará como un suministro «en alta» el efectuado por la persona o entidad suministradora a dicho abonado, asimilándose a estos efectos la situación del consumidor a la de un consumo de agua procedente de fuentes propias.
+3. Las declaraciones que se mencionan en el presente artículo deberán formularse con arreglo a los procedimientos y modelos aprobados mediante orden de la conselleria competente en materia de hacienda.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 46
+
+Artículo 46. Obligación de instalar y mantener aparatos de medida.
+1. Para la determinación del consumo de agua en el caso de suministros propios, los contribuyentes están obligados a instalar y mantener, a su cargo, un contador homologado del volumen real de agua efectivamente consumido. Los dispositivos de medida instalados deberán cumplir, en sus características y condiciones de instalación y funcionamiento, las disposiciones establecidas por la normativa sectorial vigente, y disponer de los certificados de calibración y de correcta instalación emitidos, respectivamente, por la empresa fabricante y la instaladora, o bien por un organismo oficial o entidad autorizada.
+2. En todos los casos, serán por cuenta del contribuyente los gastos derivados de las siguientes operaciones:
+a) La instalación del sistema de medida del consumo de agua.
+b) La limpieza y mantenimiento del sistema que permita su conservación en óptimas condiciones de medida.
+c) La sustitución del aparato de medida en los casos de avería irreparable o de transcurso del tiempo de vida útil, siendo este último el establecido por el fabricante en las especificaciones técnicas del mismo.
+Cualquier accidente o avería que comporte una modificación de las lecturas del aparato de medida o que exija su reparación, deberá ponerse en conocimiento de la Entidad de Saneamiento en el plazo máximo de 24 horas desde el suceso, por cualquier método que acredite su constancia.
+3. La Entidad de Saneamiento podrá realizar en cualquier momento las lecturas y comprobaciones de los contadores que considere oportunas, así como precintarlos para asegurar que no se practican manipulaciones de estos. Estas actuaciones se realizarán por el personal propio de la Entidad de Saneamiento o por personas o entidades debidamente autorizadas.
+4. Cuando se acredite que las características del agua aflorada imposibiliten la instalación de un contador homologado, los obligados tributarios quedarán dispensados de las obligaciones formales derivadas de la disposición de un aparato de medida directa del volumen consumido. En tal caso, la base imponible se determinará por el método de estimación objetiva del consumo de agua en ausencia de contador u otro aparato de medida en funcionamiento.
+Igual presunción se establecerá para cuando el contador se instale tras el inicio de los suministros propios.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 47
+
+Artículo 47. Declaraciones censales de inicio, modificación y baja de suministros propios.
+1. Los obligados tributarios que dispongan de suministros propios deberán comunicarlo a la EPSAR mediante una declaración censal de inicio de suministros propios, en el plazo de un mes desde el inicio del aprovechamiento, de acuerdo con los modelos y requisitos aprobados en una orden de la conselleria competente en materia de hacienda.
+2. La presentación de la declaración censal de inicio determinará el alta del obligado tributario en el Registro de suministros propios.
+3. Los obligados tributarios registrados en el Registro de Suministros Propios deberán presentar una declaración de modificación de los datos registrados o de cese en el aprovechamiento propio en el plazo de un mes contado desde el momento en que se produjo la alteración en los datos facilitados o la finalización.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 48
+
+Artículo 48. Declaración informativa de consumos propios.
+1. Los obligados tributarios que dispongan de contadores instalados para la determinación de los volúmenes consumidos deberán presentar, dentro de los primeros veinte días naturales de cada trimestre natural, una declaración de las lecturas tomadas a finales del trimestre inmediato anterior o, en el momento previo a su sustitución, de todos y cada uno de estos.
+2. Finalizado el periodo de presentación, la EPSAR emitirá la liquidación del canon de saneamiento correspondiente al trimestre de consumo declarado.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+## Sección 4
+
+Sección 4.ª Aplicación del canon de saneamiento.
+Téngase en cuenta que esta sección, añadida por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 49
+
+Artículo 49. Competencias.
+1. Las competencias relativas a la aplicación del tributo y el ejercicio de la potestad sancionadora en el ámbito del canon de saneamiento, corresponden a la Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valenciana.
+2. Corresponde a la Presidencia de la Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valenciana el dictado de los actos de gestión tributaria y, en particular, la concesión de beneficios de carácter rogado, la resolución de los procedimientos de determinación o cese de vigencia del coeficiente corrector; los actos de recaudación e inspección tributaria del canon de saneamiento, la resolución de los recursos de reposición y la tramitación de los procedimientos especiales de revisión en vía administrativa de los actos dictados en el ejercicio de las funciones anteriores.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 50
+
+Artículo 50. Comprobación e investigación del canon de saneamiento.
+1. La Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valenciana podrá comprobar e investigar los hechos, actos, situaciones, actividades, explotaciones, valoraciones y demás circunstancias que integren o condicionen el hecho imponible, la base imponible y los demás elementos necesarios para la determinación y percepción del rendimiento del canon de saneamiento, y, en particular, el consumo del agua, las características de las aguas residuales y los demás datos necesarios para la determinación de la carga contaminante de aquéllas, así como la facturación y cobro del canon por las entidades suministradoras.
+2. Las actuaciones de comprobación e investigación del canon de saneamiento serán realizadas por el personal inspector de la Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valenciana de conformidad con la Ley general tributaria y su normativa de desarrollo, ostentando en su ejercicio de las facultades atribuidas al personal inspector.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 51
+
+Artículo 51. Convenios de recaudación.
+La Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valenciana podrá encomendar el ejercicio de las funciones relacionadas con la recaudación en período ejecutivo a otras entidades de derecho público con las que se haya formalizado el correspondiente convenio o en las que se haya delegado esta facultad.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+### Artículo 52
+
+Artículo 52. Recursos y reclamaciones.
+1. Los actos de gestión, de inspección y de recaudación, así como los actos de imposición de sanciones tributarias dictados en el ámbito del canon de saneamiento pueden ser objeto de reclamación económico-administrativa ante el Jurat Economicoadministratiu, sin perjuicio de la interposición previa, con carácter potestativo, del recurso de reposición ante el órgano que haya dictado el acto impugnado.
+2. La inclusión del canon de saneamiento en la factura del agua podrá ser objeto de reclamación económico-administrativa ante el Jurat Economicoadministratiu.
+3. Corresponde a la Presidencia del Consejo de Administración de Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valenciana la resolución de los procedimientos especiales de revisión que puedan plantearse con relación a los actos de aplicación del tributo.
+Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959.
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. Ref. DOGV-r-2025-90135
+
+## CAPÍTULO VI
+
+CAPITULO VI
+Infracciones y sanciones
+Se modifica por el art. 36 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. Ref. BOE-A-2025-12535
+
+### Artículo 53
+
+Artículo 53. Régimen sancionador.
+1. Las infracciones tributarias del canon de saneamiento serán calificadas y sancionadas de acuerdo con lo dispuesto en la Ley general tributaria y demás normas de general aplicación, con las especialidades que establece la presente ley.
+2. La competencia para acordar el inicio del procedimiento sancionador e imponer sanciones tributarias corresponde al Gerente de la Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana.
+Téngase en cuenta que este artículo, añadido por el art. 36 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. Ref. BOE-A-2025-12535
+Se añade por el art. 36 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959.
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. Ref. BOE-A-2025-12535
+
+### Artículo 54
+
+Artículo 54. Infracción tributaria por incumplimiento de la obligación de facturación del canon de saneamiento.
+1. Constituyen infracción tributaria grave las siguientes conductas:
+a) El incumplimiento de la obligación de incluir el canon de saneamiento en la factura o recibo del suministro de agua.
+b) La inclusión del canon de saneamiento en la factura o recibo del suministro de agua, sin la debida separación de los restantes conceptos.
+La base de la sanción será el importe total indebidamente facturado por cualquiera de los dos motivos citados y la sanción consistirá en multa pecuniaria proporcional del 1 por ciento, sin que esta cantidad pueda exceder de 30.000 euros.
+2. Constituye infracción tributaria leve la inclusión del canon de saneamiento en documento separado de la factura o recibo del suministro de agua. La base de la sanción será el importe total de las cuotas a ingresar del canon facturadas de manera separada durante el período de liquidación y la sanción consistirá en multa pecuniaria proporcional del 1 por ciento, sin que esta cantidad pueda exceder de 3.000 euros.
+Téngase en cuenta que este artículo, añadido por el art. 36 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. Ref. BOE-A-2025-12535
+Se añade por el art. 36 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959.
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. Ref. BOE-A-2025-12535
+
+### Artículo 55
+
+Artículo 55. Infracción tributaria por no disponer de arqueta de registro o de contador homologado.
+Constituye infracción tributaria la ausencia de arqueta de registro o dispositivo que lo sustituya y de contador homologado o de otros aparatos de medición del consumo de agua, así como su mantenimiento en condiciones no operativas.
+La infracción será grave cuando medie requerimiento de instalación emitido por la Entidad de Saneamiento y será sancionada con multa de 300 euros, si se ha incumplido por primera vez el requerimiento; con 600 euros, si se ha incumplido por segunda vez; y con 900 euros, si se incumple por tercera vez.
+En los supuestos no previstos en el apartado anterior la infracción será leve y será sancionada con multa fija de 200 euros.
+Téngase en cuenta que este artículo, añadido por el art. 36 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. Ref. BOE-A-2025-12535
+Se añade por el art. 36 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959.
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. Ref. BOE-A-2025-12535
+
+### Disposición adicional
+
+Disposición adicional.
+La Generalitat podrá establecer acuerdos con los distintos Organismos de Cuenca para adecuar la aplicación del canon de vertido a que se refiere la legislación sobre aguas, en aquellos ámbitos que pudieran verse afectados por el régimen económico-financiero previsto en esta Ley.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La Entidad Pública de Saneamiento de las Aguas Residuales de la Comunidad Valenciana podrá establecer acuerdos con los distintos Organismos de Cuenca para adecuar la aplicación del canon de regulación de vertidos a que se refiere la legislación sobre aguas, en aquellos ámbitos que pudieran verse afectados por el régimen económico-financiero previsto en esta ley.
+Se modifica por el art. 24 de la Ley 9/2001, de 27 de diciembre. Ref. BOE-A-2002-2413.
+ Se numera por el art. 19 de la Ley 11/2000, de 28 de diciembre. Ref. BOE-A-2001-2503.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Los sujetos pasivos que dispongan de suministros propios de agua tienen un plazo de seis meses a contar desde la entrada en vigor de esta Ley para la instalación de contadores homologados del consumo de agua. Durante este periodo, y mientras no se produzca la instalación de contador, la base imponible del Canon de Saneamiento se determinará por el procedimiento vigente con anterioridad a aquella entrada en vigor.
+Se añade por el art. 19 de la Ley 11/2000, de 28 de diciembre. Ref. BOE-A-2001-2503.
+
+### Disposición adicional única
+
+Disposición adicional única.
+Los sujetos pasivos que dispongan de suministros propios de agua tienen un plazo de seis meses a contar desde la entrada en vigor de esta Ley para la instalación de contadores homologados del consumo de agua. Durante este periodo, y mientras no se produzca la instalación de contador, la base imponible del Canon de Saneamiento se determinará por el procedimiento vigente con anterioridad a aquella entrada en vigor.
+Se suprime la disposición adicional 1 pasando la actual disposición adicional segunda a ser la disposición adicional única por el art. 43 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Los sujetos pasivos que dispongan de suministros propios de agua tienen un plazo de seis meses a contar desde la entrada en vigor de esta Ley para la instalación de contadores homologados del consumo de agua. Durante este periodo, y mientras no se produzca la instalación de contador, la base imponible del Canon de Saneamiento se determinará por el procedimiento vigente con anterioridad a aquella entrada en vigor.
+Se renumera por el art. 79 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291.
+ Su anterior numeración era única.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Del personal de la Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana.
+La Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana podrá tener en su plantilla puestos de naturaleza funcionarial, que se regirán por lo dispuesto en la normativa aplicable en materia de función pública.
+En consecuencia, podrán adscribirse funcionarios públicos a la Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana, en los términos y condiciones previstos en la normativa en vigor.
+Se añade por el art. 80 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Del plazo de duración de los convenios.
+Los convenios, entendidos como los instrumentos de formalización de la actividad convencional de la Generalitat con otras administraciones que tengan por objeto la amortización de infraestructuras hidráulicas relacionadas con el objeto de esta Ley, así como aquellos cuyo objeto sea el abastecimiento o la reutilización de las aguas; podrán prever un plazo determinado de duración superior a cuatro años, e inferior a veinticinco, cuando la naturaleza de las actuaciones a desarrollar así lo exija.
+Se añade por el art. 91 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-3
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Usos industriales en sistemas de climatización por geotermia.
+1. A los suministros propios para usos industriales en los sistemas de climatización por geotermia en circuito abierto se les aplicará la siguiente tarifa:
+Cuota de Servicio: 400,00 €/año
+Cuota de Consumo: 0,050 €/m3
+Estas cuotas, cuando resulten de aplicación, no serán objeto de corrección por el coeficiente corrector que, si procede, se determine.
+2. Cuando una empresa, local o establecimiento esté servido por más de una fuente de abastecimiento, aparte de los suministros propios para usos industriales en el sistema de climatización por geotermia en circuito abierto, las tarifas aplicables al resto de fuentes de abastecimiento serán las determinadas conforme a lo que se dispone en los apartados 1 y 2 del artículo 25 de esta ley, y en el capítulo tercero y anexos del Reglamento sobre el Régimen Económico-financiero y Tributario del Canon de Saneamiento.
+3. Las presentes tarifas podrán ser actualizadas en las Leyes de Presupuestos de la Generalitat, conforme a lo que se dispone en el apartado 1 del artículo 25 de esta ley.
+4. Las tarifas establecidas en esta Disposición Adicional Cuarta serán aplicables a las liquidaciones pendientes de emitir a la entrada en vigor del apartado 3 del artículo 25 de esta ley.
+Se añade por el art. 9.2 del Decreto-ley 1/2022, de 22 de abril. Ref. DOGV-r-2022-90121#a9
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Se faculta a la persona titular de la conselleria competente en materia de hacienda a regular el régimen de notificaciones por medios electrónicos de las personas y entidades inscritas en los registros llevados por la EPSAR en aplicación de esta ley.
+Se añade por el art. 39 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las tarifas del canon de saneamiento aplicables para el ejercicio de 1992 serán las siguientes:
+Usos domésticos:
+Municipios de menos de 500 habitantes:
+Cuota de servicio: Cero pesetas por año.
+Cuota de consumo: Cero pesetas por metro cúbico.
+Municipios entre 500 y 3.000 habitantes:
+Cuota de servicio: 1.200 pesetas por año.
+Cuota de consumo: 10 pesetas por metro cúbico.
+Municipios entre 3.001 y 10.000 habitantes:
+Cuota de servicio: 1.600 pesetas por año.
+Cuota de consumo: 13 pesetas por metro cúbico.
+Municipios entre 10.001 y 100.000 habitantes:
+Cuota de servicio: 2.000 pesetas por año.
+Cuota de consumo: 16 pesetas por metro cúbico.
+Municipios de más de 100.000 habitantes:
+Cuota de servicio: 2.200 pesetas por año.
+Cuota de consumo: 20 pesetas por metro cúbico.
+Usos industriales:
+Cuota de servicio: 3.000 pesetas por año.
+Cuota de consumo: 25 pesetas por metro cúbico.
+La exacción del canon de saneamiento para el ejercicio de 1992 se producirá en el momento en que el Gobierno Valenciano así lo determine.
+La cuota de servicio podrá percibirse en períodos inferiores al año.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Se establece una bonificación del 50 por 100 sobre las cuotas del canon de saneamiento por usos domésticos en aquellos municipios que no cuenten con sistemas de depuración en servicio, en ejecución o con proyecto técnico aprobado por la Generalitat.
+Esta bonificación quedará suprimida automáticamente, en todos los casos, desde el momento en que los municipios cuenten con un proyecto de sistema de depuración aprobado técnicamente por la Generalitat.
+Reglamentariamente se determinarán los municipios o áreas en que se habrá de aplicar esta bonificación.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+En el plazo de un año, y con el fin de evitar la doble imposición, las Entidades afectadas procederán a adecuar los cánones, tasas, precios públicos y recargos de carácter local existentes en la actualidad, y destinados a la financiación efectiva de la gestión y explotación de las obras e instalaciones a que se refiere la Ley, de modo que la recaudación del canon de saneamiento lleve aparejada simultáneamente la reducción que corresponda en el importe de los citados instrumentos financieros, garantizándose las cantidades necesarias para la explotación efectiva de las instalaciones de evacuación y tratamiento de aguas residuales de su titularidad.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+(Suprimida)
+Se suprime por el art. 44 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Las normas de desarrollo de esta ley así como los estatutos de la Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valenciana, que se regirá por los principios básicos de transparencia y rendición de cuentas, la protección de las personas consumidoras y el medio ambiente, la asequibilidad del servicio, la competencia entre gestores y la seguridad jurídica entre el sector público y privado, se adaptarán a esta ley y sus modificaciones en el plazo de seis meses desde su entrada en vigor. La presente ley y sus modificaciones serán de directa aplicación, con independencia del plazo de adaptación señalado.
+Se añade por el art. 87 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Se añade por el art. 52 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2357.
+ Se suprime por el art. 44 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Gobierno Valenciano para dictar las disposiciones necesarias en desarrollo y ejecución de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+En el plazo de seis meses el Gobierno Valenciano aprobará el Estatuto de la Entidad pública de Saneamiento de Aguas Residuales de la Comunidad Valenciana.
+Asimismo, en el plazo de seis meses se elaborará un proyecto de Plan Director de Saneamiento y Depuración, del que se dará conocimiento a las Cortes Valencianas. Una vez conocido por las Cortes, el Plan continuará su tramitación conforme a los criterios establecidos en la Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Se autoriza al Gobierno Valenciano para adoptar las medidas presupuestarias precisas para garantizar la puesta en funcionamiento de la Entidad pública de Saneamiento de Aguas Residuales de la Comunidad Valenciana.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Diario Oficial de la Generalitat Valenciana».
+
+Por tanto, ordeno que todos los ciudadanos, Tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 26 de marzo de 1992
+JOAN LERMA I BLASCO,
+Presidente de la Generalitat Valenciana
+
+## ANEXO I
+
+Coeficiente corrector del canon de saneamiento
+1. Composición
+El coeficiente corrector del canon de saneamiento para usos no domésticos (C) se compone de los cuatro índices siguientes y, se determinará de acuerdo con la fórmula que se indica al final de este apartado, y se expresará con una precisión de dos decimales:
+a) Índice corrector de volumen (ICV).
+b) Índice punta (IP).
+c) Índice de carga contaminante (ICC).
+d) Índice de contaminación específica (ICE)
+C= ICV×IP×ICE+ICC
+2. ICV
+El Índice Corrector de Volumen (ICV), deducido del balance de agua, representa la fracción del consumo global de agua que origina aguas residuales. Se calculará de la siguiente manera:
+donde:
+A: Volumen anual total de agua consumida.
+B0: Volumen anual total de agua extraída de materias primas.
+B1: Volumen anual total de agua incorporada a productos.
+B2: Volumen anual total de agua perdida por evaporación.
+B3: Volumen anual total de agua residual gestionada.
+3. IP
+El Índice Punta expresa la relación existente entre la carga contaminante vertida con valores superiores a los valores medios del vertido y dichos valores medios.
+Para el cálculo del Índice Punta se define un parámetro parcial de punta Ri característico de cada parámetro de contaminación y que se calcula como sigue:
+donde:
+Ri: Parámetro Punta Parcial correspondiente al parámetro de contaminación i en el vertido.
+Ci med: Concentración media anual del parámetro i en el vertido.
+Ci punta: Concentración instantánea máxima del parámetro i en el vertido.
+V: Volumen anual total vertido.
+Vi punta: Volumen anual de vertido con concentración para el parámetro i superior a la media.
+Para cada vertido, se determinará un Parámetro Punta de vertido, R, que tomará el máximo valor de los parámetros Ri correspondientes a dicho vertido. El Índice Punta (IP) vendrá determinado en función del parámetro punta global Rcomo:
+IP=1 ∀ R≤0,25
+IP=0,83+0,67×R ∀ R>0,25
+Siempre que exista un vertido punta y no sea posible determinar el valor para el Índice Punta o no se cumplimenten los datos necesarios para su cálculo, éste tomará un valor, por defecto, de 1,25.
+4. ICC
+Para el cálculo del Índice de Carga Contaminante, ICC, se define en primer lugar el vertido urbano que sirve de referencia como aquel que, teniendo su origen en los aparatos sanitarios e instalaciones domésticas, tiene las siguientes características:
+Parámetro
+ Valores de referencia
+ S.S.
+ 300 mg/l
+ DBO5
+ 300 mg/l
+ DQO
+ 500 mg/l
+ NKT
+ 50 mg/l
+ PT
+ 20 mg/l
+ COND
+ 2.000 µS/cm
+ TOX
+ 3 U.T.
+De acuerdo con este vertido urbano, el Índice de Carga Contaminante se calculará con arreglo a la siguiente fórmula:
+En la cual:
+Δ S.S.: Incremento de sólidos en suspensión a 103-105 C, en mg/l.
+Δ DBO5: Incremento de la demanda bioquímica de oxígeno a cinco días, en mg/l.
+Δ DQO: Incremento de la demanda química de oxígeno, en mg/l.
+Δ NKT: Incremento de nitrógeno Kjeldahl total (orgánico y amoniacal), en mg/l.
+Δ PT: Incremento de fósforo total, en mg/l.
+Δ COND: Incremento de conductividad eléctrica a 25.ºC en µS/cm.
+Δ TOX: Incremento de toxicidad, expresada en unidades de toxicidad (U.T.).
+Los incrementos se calcularán como diferencia entre el valor medio de salida en el vertido y el valor en las aguas de abastecimiento, con arreglo a la siguiente fórmula:
+∆ Ci=Ci med-Ci abas
+Siendo:
+Δ Ci: Incremento de valor del parámetro i.
+Ci med: Valor medio del parámetro i en el vertido.
+Ci abas: Valor del parámetro i en las aguas de abastecimiento. Cuando se omita este valor en la declaración de producción de aguas residuales.
+Los pesos de cada uno de los términos se obtienen en función del punto final de vertido de acuerdo con la siguiente tabla:
+Peso
+ Vertido a colectores o al dominio público hidráulico
+ Vertido al mar
+ p1
+ 0,14
+ 0,16
+ p2
+ 0,14
+ 0,16
+ p3
+ 0,18
+ 0,20
+ p4
+ 0,07
+ 0,08
+ p5
+ 0,11
+ 0,12
+ p6
+ 0,11
+ 0,00
+ p7
+ 0,25
+ 0,28
+En caso de que las aguas residuales de una industria sean vertidas al mar mediante emisarios submarinos cuya titularidad corresponda a la propia industria, los pesos p1, p2, p4 y p5 podrán ser corregidos multiplicándolos por un factor Fd. Este factor será función del coeficiente de dilución inicial (D1) conseguido por los difusores del emisario.
+Valor del coeficiente de dilución inicial (D1)
+ Factor Fd
+ D1 < 100
+ 1,00
+ 100 ≤ D1 < 1.000
+ 0,80
+ 1.00 0 ≤  D1 < 2.000
+ 0,75
+ 2.000 ≤  D1 < 4.000
+ 0,70
+ 4.000 ≤  D1 < 7.000
+ 0,65
+ 7.000 ≤  D1 < 11.000
+ 0,60
+ 11.000 ≤ D1
+ 0,55
+Cuando en un mismo establecimiento o explotación se produzcan varios vertidos, el Índice Punta (IP), el de Carga Contaminante (ICC), y el de Contaminación Específico (ICE), se calcularán como media ponderada de los correspondientes valores obtenidos en cada uno de los diferentes vertidos, tomando como factor de ponderación la razón entre el volumen total correspondiente a cada vertido y el volumen acumulado del conjunto.
+5. ICE
+Para el cálculo del Índice de Contaminación Específica (ICE), se consideran los principales parámetros contaminantes, no incluidos en el índice de carga contaminante (ICC).
+El ICEse calculará con arreglo a la siguiente fórmula:
+Siendo:
+Ci, el valor del parámetro i en el vertido, y
+LCi, el valor de referencia para el parámetro i.
+Donde:
+Δ pH se obtiene de la siguiente manera:
+∆ pH=pH-9 ∀ pH>7
+∆ pH=5,5 -pH ∀ pH≤7
+No obstante, ∆ pH=0 cuando ∆ pH<0
+El resultado se expresará con dos decimales. Los parámetros que caracterizar, así como los correspondientes valores de referencia de cada uno de ellos, son los siguientes:
+Parámetros
+ Valor de referencia
+ pH.
+ 5,5-9 (u. pH)
+ Cinc total.
+ 5 (mg/l)
+ Cobre total.
+ 1 (mg/l)
+ Níquel total.
+ 5 (mg/l)
+ Cadmio total.
+ 0,5 (mg/l)
+ Plomo total.
+ 1 (mg/l)
+ Cromo total.
+ 2,5 (mg/l)
+ Mercurio total.
+ 0,1 (mg/l)
+6. Límites
+El valor del coeficiente corrector quedará acotado dentro del intervalo comprendido entre 0’5 y 10, ambos extremos incluidos, con las siguientes excepciones:
+a) El valor del coeficiente corrector se acotará entre 0’1 y 8, cuando el volumen total de las aguas residuales generadas en el establecimiento sea vertido a dominio público hidráulico o dominio público marítimo terrestre, o, cuando, superando el volumen total vertido los 300.000 m3 año, se vierta a estos mismos medios receptores, al menos, el 80 por ciento del volumen total vertido.
+b) El valor del coeficiente corrector se acotará entre 0’1 y 10 cuando el volumen vertido sea inferior al 25 por ciento del volumen total empleado en el establecimiento o cuando éste consiga una eliminación efectiva de la carga contaminante incorporada a sus aguas residuales. Se entenderá conseguida una eliminación efectiva cuando el establecimiento tenga una instalación depuradora completa o cuando tenga una red separativa de efluentes que le permita gestionar de manera independiente todas las aguas residuales generadas en el proceso productivo, evitando su vertido. A estos efectos, se entenderá depuradora completa aquella instalación que además de eliminar la contaminación orgánica/inorgánica disponga de un sistema de tratamiento y eliminación de fangos.
+c) Cuando el coeficiente corrector calculado, antes de la aplicación de los límites anteriores, resulte inferior a 0’1, el límite inferior quedará acotado en 0’001, siempre y cuando el establecimiento reúna además todos los requisitos siguientes:
+a. El volumen anual consumido supere los 300.000 m3.
+b. La totalidad del volumen de aguas residuales generadas en el proceso productivo no sea recibido por una instalación pública de recogida de aguas residuales, ni tratado en una instalación depuradora cuyo mantenimiento y explotación estén financiados con cargo al Canon de Saneamiento.
+c. El volumen vertido no genere un impacto negativo sobre el medio ambiente.
+Téngase en cuenta que este anexo, añadido por el art. 37 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. Ref. BOE-A-2025-12535
+Se añade por el art. 37 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959.
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. Ref. BOE-A-2025-12535
+
+## ANEXO II
+
+Toma de muestras de las aguas residuales
+1. Caracterización de las aguas residuales y de abastecimiento
+Los análisis deberán realizarse por un laboratorio homologado, entendiendo por tal el correspondiente a empresa colaboradora de los organismos de cuenca en materia de control de vertidos, tal y como establece la Orden MAM/985/2006, de 23 de marzo, por la que se desarrolla el régimen jurídico de las entidades colaboradoras de la administración hidráulica en materia de control y vigilancia de calidad de las aguas y de gestión de los vertidos al dominio público hidráulico.
+Los parámetros analíticos que caracterizar se dividen en dos grupos:
+Tipo A pH (parámetros generales)
+ Conductividad eléctrica (COND)
+ Sólidos en suspensión (S. S.)
+ DQO
+ DBO5
+ NKT
+ P total
+ Toxicidad
+ Tipo B Cromo total (metales pesados)
+ Cinc total
+ Cadmio total
+ Cobre total
+ Níquel total
+ Plomo total
+ Mercurio total
+Los establecimientos o explotaciones que desarrollen cualquiera de las actividades que se citan a continuación, deberán caracterizar, en todos los puntos de vertido, los parámetros de los tipos A y B.
+Actividades:
+Extracción de minerales de uranio y torio.
+Extracción de minerales metálicos.
+Extracción de piritas y azufre.
+Preparación, curtido y teñido de pieles de peletería.
+Preparación, curtido y acabado del cuero.
+Refino del petróleo y tratamiento de combustibles nucleares.
+Industria química.
+Fabricación de vidrio y productos del vidrio.
+Fabricación de azulejos y baldosas cerámicas.
+Metalurgia y fabricación de productos metálicos.
+Industria de la construcción de maquinaria y equipo mecánico.
+Fabricación de hilos y cables eléctricos aislados.
+Fabricación de acumuladores y pilas eléctricas.
+Fabricación de lámparas eléctricas y aparatos de iluminación.
+Fabricación de vehículos a motor, remolques y semirremolques.
+Fabricación de otros materiales de transporte.
+Fabricación de artículos de joyería, orfebrería, platería y artículos similares.
+Fabricación de bisutería.
+Reciclaje de chatarra y desechos de metal.
+El resto de los establecimientos o explotaciones caracterizarán, únicamente, los parámetros contenidos en el Tipo A, en cada uno de sus puntos de vertido. No obstante, la Entidad de Saneamiento podrá requerir la caracterización de los parámetros del Tipo B a cualquier empresa obligada a presentar la Declaración de Producción de Aguas Residuales que pueda generar vertidos con metales pesados, con independencia de la actividad desarrollada.
+Los análisis para la determinación de las características de los vertidos se realizarán conforme a los Standard Methods for the Examination of Water and Wastewaterpublicados conjuntamente por APHA (American Public Health Association), AWWA (American Water Works Association), WPCF (Water Polution Control Federation). La toxicidad se determinará sobre la muestra bruta de agua residual, en ausencia de neutralización previa, mediante el bioensayo de inhibición de la luminiscencia Vibrio fischeri(antes, Photobacterium phosphoreum), o el bioensayo de inhibición de la movilidad en Daphnia magna.
+2. Muestreo
+2.1 Tipos.
+A) Como regla general, el muestreo, que podrá ser puntual o integrado, deberá ser realizado en una jornada de producción normal, por un laboratorio homologado que cumplimentará el acta de toma de muestras.
+B) Las industrias cuyas aguas residuales tengan un grado de contaminación sujeto a grandes fluctuaciones diarias, deberán caracterizar las mismas en la correspondiente Declaración de Producción de Aguas Residuales (Modelo MD-301), mediante la realización de un muestreo integrado.
+En los casos de industrias con procesos de producción estacionales, deberán caracterizarse los vertidos representativos de cada uno de estos periodos de manera independiente, con indicación de los volúmenes parciales correspondientes a cada periodo.
+2.2 Determinación del tipo de muestreo.
+En los casos en que la Entidad de Saneamiento lleve a cabo actuaciones de comprobación o investigación relacionadas con la caracterización de los vertidos, deberá utilizar el mismo tipo de muestreo, de los previstos en el apartado 2.1, que el empleado por el sujeto pasivo en su Declaración de Producción de Aguas Residuales. No obstante, en los casos de falta de presentación de la Declaración de Producción de Aguas Residuales, o de imposibilidad material de instalar el equipo automático de medida por parte de la Entidad de Saneamiento, la muestra a tomar por esta última será, en cualquier caso, puntual.
+Asimismo, en el caso de que la empresa disponga de un sistema de homogeneización de las aguas residuales previo a su vertido, la Entidad de Saneamiento será quien determine el tipo de muestreo a efectuar con independencia del realizado por el interesado en su declaración.
+3. Procedimiento de Inspección con toma de muestras
+3.1 Entrada en el establecimiento objeto de comprobación.
+El interesado facilitará el acceso a las instalaciones objeto de inspección, previa acreditación del personal de la Inspección de Vertidos, para realizar los controles que se estimen necesarios.
+3.2 Toma de muestras.
+La toma de muestras se deberá efectuar antes de que transcurran 15 minutos desde la entrada en el establecimiento del personal inspector. En caso contrario, se hará constar tal circunstancia en la diligencia correspondiente. Asimismo, se hará constar en la diligencia cualquier diferencia significativa en la calidad o en la cantidad del vertido que se observe durante la inspección.
+Los muestreos se realizarán sobre uno o varios puntos de vertido con independencia del número total de puntos de vertido que existan en el establecimiento, según se considere necesario en cada caso. Cada muestra se tomará en un punto que sea representativo de la calidad final de ese vertido.
+Cada muestra constará de tres ejemplares homogéneos, cuyos envases deberán quedar debidamente precintados y etiquetados. Dos ejemplares quedarán en poder de la Entidad de Saneamiento, mientras que el tercero de ellos será entregado al interesado para su eventual análisis contradictorio. En caso de que el tercer ejemplar no sea aceptado por el interesado, los tres ejemplares quedarán en poder de la Entidad de Saneamiento, haciéndose constar tal circunstancia en la correspondiente diligencia. Asimismo, se indicará en la mencionada diligencia el tipo de envases empleados.
+3.3 Diligencia de la Inspección de Vertidos.
+Cada una de las actuaciones de inspección de los vertidos se reflejará en una diligencia de inspección, la cual será firmada y sellada por el representante de la empresa y por el personal de la Entidad de Saneamiento presentes en las actuaciones de inspección. Para cada una de las muestras tomadas se levantará un acta de muestreo, incluida dentro de esta diligencia, en la que se reflejarán todas las circunstancias relativas a dicho muestreo. Asimismo, a cada uno de los ejemplares homogéneos que se entreguen al interesado se acompañará un acta de análisis contradictorio, destinada a garantizar la cadena de custodia.
+3.4 Análisis contradictorio.
+El interesado deberá conservar la muestra gemela en las debidas condiciones de precintado, etiquetado y refrigeración hasta su entrega en el laboratorio dentro de las 24 horas siguientes al muestreo. El coste asociado a este análisis será por cuenta del interesado.
+A la recepción del ejemplar homogéneo para la realización del análisis contradictorio, el laboratorio deberá cumplimentar el acta correspondiente conforme a las instrucciones que en ella se detallen, devolviendo al interesado copia de la misma.
+Dentro de los diez días hábiles siguientes a la recepción de los resultados del análisis inicial (aquél promovido por la Entidad de Saneamiento), el interesado podrá presentar los resultados del análisis contradictorio y formular las alegaciones que estime oportunas, adjuntando un acta de análisis contradictorio por cada una de las muestras depositadas, debidamente cumplimentado, firmado y sellado por un representante del laboratorio.
+En el acta de análisis contradictorio el laboratorio certificará que la muestra analizada corresponde al ejemplar homogéneo entregado al interesado en el momento de la inspección, para garantizar que los resultados obtenidos de su análisis puedan cotejarse con los obtenidos del análisis inicial promovido por la Entidad de Saneamiento.
+Serán causas de inadmisión de los resultados del análisis contradictorio, las que a continuación se relacionan:
+a) Que hayan transcurrido más de 24 horas desde el muestreo de las aguas residuales hasta la entrega en el laboratorio de la correspondiente muestra.
+b) Que el análisis no se haya realizado por laboratorio homologado.
+c) Que la muestra sea entregada en el laboratorio sin precinto, o que éste haya sido manipulado.
+d) Que el acta de análisis contradictorio no lo haya cumplimentado el laboratorio homologado.
+e) Que los datos consignados en el acta de análisis contradictorio no coincidan con los de la muestra entregada al interesado.
+f) Que no se hayan caracterizado todos los parámetros requeridos.
+g) Que por cualquier otra circunstancia no quede garantizada la cadena de custodia de las muestras entregadas al interesado.
+h) Que los resultados de la muestra contradictoria se presenten ante la Entidad de Saneamiento fuera del plazo establecido para ello.
+3.5 Criterios para la resolución de resultados analíticos divergentes.
+La comparación se efectuará tomando como referencia la suma del Índice de Carga Contaminante (ICC) y el Índice de Contaminación Específica (ICE), correspondientes a cada uno de los análisis (inicial y contradictorio).
+En el caso de que el valor de la suma del ICCy del ICEresultantes del análisis inicial sea superior al valor de la suma de los mismos índices obtenidos del análisis contradictorio, serán los resultados del análisis efectuado sobre la tercera muestra los que tengan valor como dirimentes y definitivos, a los efectos del cálculo del ICC y del ICE resultantes de la inspección del vertido.
+Esta tercera muestra se analizará dentro del plazo de caducidad de esta, en un laboratorio designado por la Entidad de Saneamiento y distinto de los anteriores. El coste asociado a este análisis correrá por cuenta de la Entidad de Saneamiento.
+En el caso de que el valor de la suma del ICC y del ICE resultantes del análisis inicial sea inferior al valor de la suma de los mismos índices obtenidos del análisis contradictorio, se tomará como valor definitivo el primero.
+La tercera muestra no podrá analizarse transcurrido un mes desde el muestreo, dado su carácter perecedero, debiendo destruirse tras el transcurrido dicho plazo.
+Téngase en cuenta que este anexo, añadido por el art. 38 de la Ley 5/2025, de 30 de mayo, Ref. BOE-A-2025-11959, entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. Ref. BOE-A-2025-12535
+Se añade por el art. 38 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959.
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. Ref. BOE-A-2025-12535
+
+## [Información relacionada]
+
+INFORMACION RELACIONADA
+ Todas las referencias a las Consellerias de Obras Públicas, Urbanismo y Transportes y de Medio Ambiente contenidas en esta ley se entenderán realizadas, respectivamente, a la conselleria competente en materia de infraestructuras hidráulicas y a la conselleria competente en materia de medio ambiente, según se establece en la disposición adicional 5 de la Ley 14/2007, de 26 de diciembre. Ref. BOE-A-2008-1338.

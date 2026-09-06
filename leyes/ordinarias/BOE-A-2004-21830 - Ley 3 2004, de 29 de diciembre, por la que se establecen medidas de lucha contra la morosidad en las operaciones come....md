@@ -1,0 +1,211 @@
+# Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales.
+
+- Identificador BOE: `BOE-A-2004-21830`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2004-21830
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+Esta Ley tiene por objeto incorporar al derecho interno la Directiva 2000/35/CE, del Parlamento Europeo y del Consejo, de 29 de junio de 2000, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales.
+A lo largo de esta última década, la Unión Europea ha venido prestando una atención creciente a los problemas de los plazos de pago excesivamente amplios y de la morosidad en el pago de deudas contractuales, debido a que deterioran la rentabilidad de las empresas, produciendo efectos especialmente negativos en la pequeña y mediana empresa. Además, las disparidades existentes entre los Estados miembros respecto a las legislaciones y prácticas en materia de pagos constituyen un obstáculo para el buen funcionamiento del mercado interior.
+Son numerosas las iniciativas de la Unión Europea desarrolladas sobre esta materia, entre las cuales está la Recomendación de la Comisión de 12 de mayo de 1995, relativa a los plazos de pago en las transacciones comerciales. Al no haberse logrado mejoras en materia de morosidad desde la adopción de esta recomendación, se ha hecho necesaria la Directiva 2000/35/CE.
+El objetivo general de esta directiva es fomentar una mayor transparencia en la determinación de los plazos de pago en las transacciones comerciales, y también su cumplimiento. Para ello, la directiva comprende un conjunto de medidas tendentes, de una parte, a impedir que plazos de pago excesivamente dilatados sean utilizados para proporcionar al deudor una liquidez adicional a expensas del acreedor, y, de otra, a disuadir los retrasos en los pagos, erradicando las causas por las que en la actualidad la morosidad puede resultar ventajosa económicamente para los deudores.
+El alcance de esta directiva está limitado a los pagos efectuados como contraprestación en operaciones comerciales entre empresas y entre éstas y el sector público. No regula las operaciones en las que intervienen consumidores, los intereses relacionados con otros pagos como los efectuados en virtud de la legislación en materia de cheques y letras de cambio ni los pagos de indemnizaciones por daños.
+El criterio subjetivo y material que delimita el ámbito de aplicación de la Directiva 2000/35/CE aconseja efectuar su transposición a nuestro ordenamiento jurídico mediante una ley especial que regule las medidas sustantivas contra la morosidad, y que, en una disposición final, modifique el texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto Legislativo 2/2000, de 16 de junio.
+Las medidas sustantivas contra la morosidad que esta Ley regula consisten en establecer, con carácter general, un plazo de exigibilidad de intereses de demora, determinar su devengo automático, señalar el tipo de interés de demora y otorgar al acreedor el derecho a reclamar al deudor una indemnización razonable por los costes de cobro. A estas medidas se añade la posibilidad de pactar cláusulas de reserva de dominio a los efectos de que el vendedor conserve la propiedad de los bienes hasta el pago total de la deuda.
+La nueva Ley introduce un cambio esencial en este ámbito, como es el de desplazar a los usos del comercio que hayan venido consagrando plazos de pago excesivamente dilatados, los cuales se verían sustituidos por las disposiciones de esta Ley. Cuando la Ley hace referencia a que el juez puede considerar los usos del comercio como elemento objetivo de valoración a la hora de determinar el posible carácter abusivo de una cláusula contractual, toma este extremo sólo como un dato factual y objetivo que permite comparar la actuación de un operador con la situación del tráfico mercantil en cada momento.
+El plazo de exigibilidad de la deuda y la determinación del tipo de interés de demora establecidos en la ley son de aplicación en defecto de pacto entre las partes. Ahora bien, la libertad de contratar no debe amparar prácticas abusivas imponiendo cláusulas relativas a plazos de pago más amplios o tipos de interés de demora inferiores a los previstos en esta Ley, por lo que el juez podrá modificar estos acuerdos si, valoradas las circunstancias del caso, resultaran abusivos para el acreedor. En este sentido, podrá considerarse factor constitutivo de dicho abuso el que el acuerdo sirva, principalmente, para proporcionar al deudor una liquidez adicional a expensas del acreedor o para que el contratista principal imponga a sus proveedores o subcontratistas unas condiciones de pago que no estén justificadas por razón de las obligaciones que asuma. Precisamente esta regulación de las cláusulas abusivas es la que ha determinado la necesidad de dar una nueva redacción al artículo 17.3 de la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, para ajustar los pagos a los proveedores a las previsiones de esta Ley. También, la Ley regula la acción colectiva dirigida a impedir la utilización de estas cláusulas cuando hayan sido redactadas para uso general.
+La adecuación de nuestra legislación interna sobre contratación pública al ordenamiento jurídico comunitario está contenida en el texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto Legislativo 2/2000, de 16 de junio. La inclusión de las Administraciones públicas en el ámbito de la Directiva 2000/35/CE, dispensando igual tratamiento a todos los agentes económicos en materia de pagos por operaciones comerciales, hace necesario modificar la regulación del tipo de interés de demora e introducir el reconocimiento del derecho del acreedor a una indemnización por costes de cobro de la deuda, para su adecuación a las previsiones de la norma comunitaria. Igual adecuación requieren las disposiciones reguladoras de los pagos entre contratistas y subcontratistas y suministradores. A estos fines responde la disposición final primera de esta Ley.
+La Ley se dicta al amparo de las competencias que la Constitución Española atribuye al Estado en el artículo 149.1.6.ª y 8.ª por afectar a la legislación mercantil y civil. No obstante, la disposición final primera de esta Ley se dicta al amparo del artículo 149.1.18.ª que atribuye al Estado la legislación básica sobre Contratos de las Administraciones Públicas.
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Esta Ley tiene por objeto combatir la morosidad en el pago de deudas dinerarias y el abuso, en perjuicio del acreedor, en la fijación de los plazos de pago en las operaciones comerciales que den lugar a la entrega de bienes o a la prestación de servicios realizadas entre empresas o entre empresas y la Administración.
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+A los efectos regulados en esta Ley, se considerará como:
+a) Empresa, a cualquier persona física o jurídica que actúe en el ejercicio de su actividad independiente económica o profesional.
+b) Administración, a los entes, organismos y entidades que forman parte del sector público, de acuerdo con el artículo 3.3 de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público.
+c) Morosidad, el incumplimiento de los plazos contractuales o legales de pago.
+d) Plazo de pago, se referirá a todos los días naturales del año, y serán nulos y se tendrán por no puestos los pactos que excluyan del cómputo los periodos considerados vacacionales.
+Se modifica por el art. 1.1 de la Ley 15/2010, de 5 de julio. Ref. BOE-A-2010-10708.
+
+### Artículo 3
+
+Artículo 3. Ámbito de aplicación.
+1. Esta Ley será de aplicación a todos los pagos efectuados como contraprestación en las operaciones comerciales realizadas entre empresas, o entre empresas y la Administración, de conformidad con lo dispuesto en la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, así como las realizadas entre los contratistas principales y sus proveedores y subcontratistas.
+2. Quedan fuera del ámbito de aplicación de esta Ley:
+a) Los pagos efectuados en las operaciones comerciales en las que intervengan consumidores.
+b) Los intereses relacionados con la legislación en materia de cheques, pagarés y letras de cambio y los pagos de indemnizaciones por daños, incluidos los pagos por entidades aseguradoras.
+c) Las deudas sometidas a procedimientos concursales incoados contra el deudor, que se regirán por lo establecido en su legislación especial.
+Se modifica por el art. 1.2 de la Ley 15/2010, de 5 de julio. Ref. BOE-A-2010-10708
+
+### Artículo 4
+
+Artículo 4. Determinación del plazo de pago.
+1. El plazo de pago que debe cumplir el deudor, si no hubiera fijado fecha o plazo de pago en el contrato, será de treinta días naturales después de la fecha de recepción de las mercancías o prestación de los servicios, incluso cuando hubiera recibido la factura o solicitud de pago equivalente con anterioridad.
+Los proveedores deberán hacer llegar la factura o solicitud de pago equivalente a sus clientes antes de que se cumplan quince días naturales a contar desde la fecha de recepción efectiva de las mercancías o de la prestación de los servicios.
+Cuando en el contrato se hubiera fijado un plazo de pago, la recepción de la factura por medios electrónicos producirá los efectos de inicio del cómputo de plazo de pago, siempre que se encuentre garantizada la identidad y autenticidad del firmante, la integridad de la factura, y la recepción por el interesado.
+2. Si legalmente o en el contrato se ha dispuesto un procedimiento de aceptación o de comprobación mediante el cual deba verificarse la conformidad de los bienes o los servicios con lo dispuesto en el contrato, su duración no podrá exceder de treinta días naturales a contar desde la fecha de recepción de los bienes o de la prestación de los servicios. En este caso, el plazo de pago será de treinta días después de la fecha en que tiene lugar la aceptación o verificación de los bienes o servicios, incluso aunque la factura o solicitud de pago se hubiera recibido con anterioridad a la aceptación o verificación.
+3. Los plazos de pago indicados en los apartados anteriores podrán ser ampliados mediante pacto de las partes sin que, en ningún caso, se pueda acordar un plazo superior a 60 días naturales.
+4. Podrán agruparse facturas a lo largo de un período determinado no superior a quince días, mediante una factura comprensiva de todas las entregas realizadas en dicho período, factura resumen periódica, o agrupándolas en un único documento a efectos de facilitar la gestión de su pago, agrupación periódica de facturas, y siempre que se tome como fecha de inicio del cómputo del plazo la fecha correspondiente a la mitad del período de la factura resumen periódica o de la agrupación periódica de facturas de que se trate, según el caso, y el plazo de pago no supere los sesenta días naturales desde esa fecha.
+Se modifica por el art. 33.1 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
+ Se modifica por el art. 33.1 del Real Decreto-ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.
+ Téngase en cuenta el plazo que figura en la disposición transitoria 3 del citado Real Decreto-ley.
+ Se modifica por el art. 1.3 de la Ley 15/2010, de 5 de julio.Ref. BOE-A-2010-10708.
+ Ténganse en cuenta los plazos que figuran en la disposición transitoria 2 de la citada Ley.
+
+### Artículo 5
+
+Artículo 5. Devengo de intereses de demora.
+El obligado al pago de la deuda dineraria surgida como contraprestación en operaciones comerciales incurrirá en mora y deberá pagar el interés pactado en el contrato o el fijado por esta Ley automáticamente por el mero incumplimiento del pago en el plazo pactado o legalmente establecido, sin necesidad de aviso de vencimiento ni intimación alguna por parte del acreedor.
+
+### Artículo 6
+
+Artículo 6. Requisitos para que el acreedor pueda exigir los intereses de demora.
+El acreedor tendrá derecho a intereses de demora cuando concurran simultáneamente los siguientes requisitos:
+a) Que haya cumplido sus obligaciones contractuales y legales.
+b) Que no haya recibido a tiempo la cantidad debida a menos que el deudor pueda probar que no es responsable del retraso.
+En caso de que las partes hubieran pactado calendarios de pago para abonos a plazos, cuando alguno de los plazos no se abone en la fecha acordada, los intereses y la compensación previstas en esta ley se calcularán únicamente sobre la base de las cantidades vencidas.
+Se añade un párrafo nuevo por el art. 33.2 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
+ Se añade un párrafo por el art. 33.2 del Real Decreto-ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.
+ Téngase en cuenta el plazo que figura en la disposición transitoria 3 del citado Real Decreto-ley.
+
+### Artículo 7
+
+Artículo 7. Interés de demora.
+1. El interés de demora que deberá pagar el deudor será el que resulte del contrato y, en defecto de pacto, el tipo legal que se establece en el apartado siguiente.
+2. El tipo legal de interés de demora que el deudor estará obligado a pagar será la suma del tipo de interés aplicado por el Banco Central Europeo a su más reciente operación principal de financiación efectuada antes del primer día del semestre natural de que se trate más ocho puntos porcentuales.
+Por tipo de interés aplicado por el Banco Central Europeo a sus operaciones principales de financiación se entenderá el tipo de interés aplicado a tales operaciones en caso de subastas a tipo fijo. En el caso de que se efectuara una operación principal de financiación con arreglo a un procedimiento de subasta a tipo variable, este tipo de interés se referirá al tipo de interés marginal resultante de esa subasta.
+El tipo legal de interés de demora, determinado conforme a lo dispuesto en este apartado, se aplicará durante los seis meses siguientes a su fijación.
+3. El Ministerio de Economía y Hacienda publicará semestralmente en el «Boletín Oficial del Estado» el tipo de interés resultante por la aplicación de la norma contenida en el apartado anterior.
+Se modifica el párrafo primero del apartado 2 por el art. 33.3 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
+ Se modifica el párrafo primero del apartado 2 por el art. 33.3 del Real Decreto-ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.
+ Téngase en cuenta el plazo que figura en la disposición transitoria 3 del citado Real Decreto-ley.
+
+### Artículo 8
+
+Artículo 8. Indemnización por costes de cobro.
+1. Cuando el deudor incurra en mora, el acreedor tendrá derecho a cobrar del deudor una cantidad fija de 40 euros, que se añadirá en todo caso y sin necesidad de petición expresa a la deuda principal.
+Además, el acreedor tendrá derecho a reclamar al deudor una indemnización por todos los costes de cobro debidamente acreditados que haya sufrido a causa de la mora de éste y que superen la cantidad indicada en el párrafo anterior.
+2. El deudor no estará obligado a pagar la indemnización establecida en el apartado anterior cuando no sea responsable del retraso en el pago.
+Se modifica el apartado 1 por el art. 33.4 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
+ Se modifica el apartado 1 por el art. 33.4 del Real Decreto-ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.
+ Téngase en cuenta el plazo que figura en la disposición transitoria 3 del citado Real Decreto-ley.
+ Se modifica por el art. 1.4 de la Ley 15/2010, de 5 de julio.Ref. BOE-A-2010-10708.
+
+### Artículo 9
+
+Artículo 9. Cláusulas y prácticas abusivas.
+1. Será nula una cláusula contractual o una práctica relacionada con la fecha o el plazo de pago, el tipo de interés de demora o la compensación por costes de cobro cuando resulte manifiestamente abusiva en perjuicio del acreedor teniendo en cuenta todas las circunstancias del caso, incluidas:
+a) Cualquier desviación grave de las buenas prácticas comerciales, contraria a la buena fe y actuación leal.
+b) La naturaleza del bien o del servicio.
+c) Y cuando el deudor tenga alguna razón objetiva para apartarse del tipo de interés legal de demora del apartado 2 del artículo 7, o de la cantidad fija a la que se refiere el apartado 1 del artículo 8.
+Asimismo, para determinar si una cláusula o práctica es abusiva para el acreedor se tendrá en cuenta, considerando todas las circunstancias del caso, si sirve principalmente para proporcionar al deudor una liquidez adicional a expensas del acreedor, o si el contratista principal impone a sus proveedores o subcontratistas unas condiciones de pago que no estén justificadas por razón de las condiciones de que él mismo sea beneficiario o por otras razones objetivas.
+En todo caso, son nulas las cláusulas pactadas entre las partes o las prácticas que resulten contrarias a los requisitos para exigir los intereses de demora del artículo 6, o aquellas que excluyan el cobro de dicho interés de demora o el de la indemnización por costes de cobro prevista en el artículo 8. También son nulas las cláusulas y prácticas pactadas por las partes o las prácticas que excluyan el interés de demora, o cualquier otra sobre el tipo legal de interés de demora establecido con carácter subsidiario en el apartado 2 del artículo 7, cuando tenga un contenido abusivo en perjuicio del acreedor, entendiendo que será abusivo cuando el interés pactado sea un 70 por ciento inferior al interés legal de demora, salvo que atendiendo a las circunstancias previstas en este artículo, pueda probarse que el interés aplicado no resulta abusivo. Esta posible modificación del interés de demora, de acuerdo con lo previsto en esta Ley, no será de aplicación a las operaciones comerciales realizadas con la Administración.
+2. El juez que declare la invalidez de dichas cláusulas abusivas integrará el contrato con arreglo a lo dispuesto en el artículo 1.258 del Código Civil y dispondrá de facultades moderadoras respecto de los derechos y obligaciones de las partes y de las consecuencias de su ineficacia.
+3. Serán igualmente nulas las cláusulas abusivas contenidas en las condiciones generales de la contratación según lo dispuesto en el apartado 1.
+4. Las acciones de cesación y de retracción en la utilización de las condiciones generales a que se refiere el apartado anterior podrán ser ejercitadas, conforme a la Ley 7/1998, de 13 de abril, sobre Condiciones Generales de la Contratación, por las siguientes entidades:
+a) Las asociaciones, federaciones de asociaciones y corporaciones de empresarios, de profesionales, de trabajadores autónomos y de agricultores que estatutariamente tengan encomendada la defensa de los intereses de sus miembros.
+b) Las Cámaras Oficiales de Comercio, Industria y Navegación.
+c) Los colegios profesionales legalmente constituidos.
+Estas entidades podrán personarse, en nombre de sus asociados, en los órganos jurisdiccionales o en los órganos administrativos competentes para solicitar la no aplicación de tales cláusulas o prácticas, en los términos y con los efectos dispuestos por la legislación comercial y mercantil de carácter nacional. Las denuncias presentadas por estas entidades ante las autoridades de competencia tendrán carácter confidencial en los términos de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia.
+5. Sin perjuicio de lo dispuesto en el apartado anterior, las entidades mencionadas en dicho apartado también podrán personarse en los órganos jurisdiccionales o en los órganos administrativos competentes y asumir el ejercicio de acciones colectivas de cesación y de retracción en defensa de los intereses de sus asociados frente a empresas incumplidoras con carácter habitual de los períodos de pago previstos en esta Ley, en los contratos que no están incluidos en el ámbito de la Ley 7/1998, de 13 de abril, sobre Condiciones Generales de la Contratación.
+Se modifica el último párrafo del apartado 1 por la disposición final 6 de la Ley 17/2014, de 30 de septiembre. Ref. BOE-A-2014-9896.
+ Se modifica el último párrafo del apartado 1 por la disposición final 6 del Real Decreto-ley 4/2014, de 7 de marzo. Ref. BOE-A-2014-2485.
+ Se modifica la rúbrica y el apartado 1 por el art. 33.5 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
+ Se modifica la rúbrica y el apartado 1 por el art. 33.5 del Real Decreto-ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.
+ Téngase en cuenta el plazo que figura en la disposición transitoria 3 del citado Real Decreto-ley.
+ Se modifica por el art. 1.5 y 6 de la Ley 15/2010, de 5 de julio.Ref. BOE-A-2010-10708.
+
+### Artículo 10
+
+Artículo 10. Cláusula de reserva de dominio.
+En las relaciones internas entre vendedor y comprador, aquél conservará la propiedad de los bienes vendidos hasta el pago total del precio, siempre que se haya convenido expresamente una cláusula de reserva de dominio entre comprador y vendedor antes de la entrega de los bienes.
+Sin perjuicio de la aplicación del artículo 1.112 del Código Civil, el vendedor podrá subrogar en su derecho a la persona que, mediante la realización de anticipos, financiación o asunción de la obligación, realiza la contraprestación por cuenta del deudor o permite a este último adquirir derecho sobre el objeto de la reserva de dominio o utilizarlo cuando dicha contraprestación se destina, efectivamente, a ese fin.
+Entre las medidas de conservación de su derecho, el vendedor o el tercero que haya financiado la operación podrá retener la documentación acreditativa de la titularidad de los bienes sobre los que se haya pactado la reserva de dominio.
+
+### Artículo 11
+
+Artículo 11. Transparencia en las buenas prácticas comerciales.
+Con el fin de velar por la plena transparencia en el ejercicio de los derechos y el cumplimiento de las obligaciones previstas en la presente Ley, las Administraciones Públicas promoverán la elaboración de Códigos de buenas prácticas comerciales, así como la adopción de sistemas de resolución de conflictos a través de la mediación y el arbitraje, siendo de adscripción voluntaria por parte de los agentes económicos.
+Se añade por el art. 1.7 de la Ley 15/2010, de 5 de julio. Ref. BOE-A-2010-10708.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Régimen de pagos en el comercio minorista.
+En el ámbito de los pagos a los proveedores del comercio que regula la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, se estará en primer lugar a lo dispuesto por el artículo 17 de dicha Ley, aplicándose de forma supletoria esta Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Informe del Gobierno al Congreso de los Diputados.
+El Gobierno, en el plazo de dos años desde la entrada en vigor de la presente Ley, remitirá al Congreso de los Diputados un informe en el que se analizarán y evaluarán los efectos y las consecuencias de la aplicación del contenido de la misma en relación a los plazos de pago en las operaciones comerciales realizadas entre empresas y entre empresas y Administración.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Contratos preexistentes.
+Esta Ley será de aplicación a todos los contratos que, incluidos en su ámbito de aplicación, hayan sido celebrados con posterioridad al 8 de agosto de 2002, en cuanto a sus efectos futuros, incluida la aplicación del tipo de interés de demora establecido en su artículo 7. No obstante, en cuanto a la nulidad de las cláusulas pactadas por las causas establecidas en su artículo 9, la presente Ley será aplicable a los contratos celebrados con posterioridad a su entrada en vigor.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a esta Ley, a excepción de aquellas que, en relación a la determinación del plazo de pago, resulten más beneficiosas para el acreedor.
+
+### Disposición final primera
+
+Disposición final primera. Modificación del texto refundido de la Ley de Contratos de las Administraciones Públicas aprobado por el Real Decreto Legislativo 2/2000, de 16 de junio.
+El texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto Legislativo 2/2000, de 16 de junio, se modifica en los siguientes términos:
+Uno. El apartado 4 del artículo 99 queda redactado como sigue:
+«4. La Administración tendrá la obligación de abonar el precio dentro de los sesenta días siguientes a la fecha de la expedición de las certificaciones de obras o de los correspondientes documentos que acrediten la realización total o parcial del contrato, sin perjuicio del plazo especial establecido en el apartado 4 del artícu­lo 110, y, si se demorase, deberá abonar al contratista, a partir del cumplimiento de dicho plazo de sesenta días, los intereses de demora y la indemnización por los costes de cobro en los términos previstos en la Ley por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales.»
+Dos. El apartado 4 del artículo 110 queda redactado como sigue:
+«4. Excepto en los contratos de obras, que se regirán por lo dispuesto en el artículo 147.3, dentro del plazo de un mes, a contar desde la fecha del acta de recepción, deberá acordarse y ser notificada al contratista la liquidación correspondiente del contrato y abonársele, en su caso, el saldo resultante. Si se produjera demora en el pago del saldo de liquidación, el contratista tendrá derecho a percibir los intereses de demora y la indemnización por los costes de cobro en los términos previstos en la Ley por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales.»
+Tres. Los apartados 4 y 5 del artículo 116 quedan redactados como sigue:
+«4. Salvo lo que se dispone en el siguiente apartado 5, el contratista deberá abonar las facturas en el plazo fijado de conformidad con el artículo 4 de la Ley por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales. En caso de demora en el pago, el subcontratista o el suministrador tendrá derecho al cobro de los intereses de demora y la indemnización por los costes de cobro en los términos previstos en la misma Ley.
+5. Cuando el plazo de pago se convenga más allá de sesenta días, dicho pago se instrumentará mediante un documento que lleve aparejada la acción cambiaria; y cuando el plazo de pago supere los ciento veinte días, podrá además exigirse por el subcontratista o suministrador que dicho pago se garantice mediante aval.
+Los subcontratos y los contratos de suministros a que se refiere el párrafo anterior tendrán en todo caso naturaleza privada.»
+Cuatro. El apartado 3 del artículo 169 queda redactado como sigue:
+«3. En el supuesto del artículo 167.a), el contratista tendrá derecho al abono del interés de demora previsto en la Ley por la que se establecen medidas de lucha contra la morosidad en operaciones comerciales de las cantidades debidas o valores económicos convenidos, a partir del vencimiento del plazo previsto para su entrega, así como de los daños y perjuicios sufridos.»
+Cinco. La letra a) del apartado 2 de la disposición final primera queda redactada como sigue:
+«a) Los plazos de sesenta días, cuatro meses y ocho meses previstos en el artículo 99.»
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación de la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista.
+La Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, se modifica en los siguientes términos:
+Uno. Los apartados 1, 3, 4 y 5 del artículo 17 quedan redactados como sigue:
+«1. A falta de plazo expreso, se entenderá que los comerciantes deben efectuar el pago del precio de las mercancías que compren antes de treinta días a partir de la fecha de su entrega.
+3. Los aplazamientos de pago de productos de alimentación frescos y de los perecederos no excederán en ningún caso de treinta días. Los aplazamientos de pago para los demás productos de alimentación y gran consumo no excederán del plazo de sesenta días, salvo pacto expreso en el que se prevean compensaciones económicas equivalentes al mayor aplazamiento y de las que el proveedor sea beneficiario, sin que en ningún caso pueda exceder el plazo de noventa días.
+Se entenderá por productos de alimentación frescos y perecederos aquellos que por sus características naturales conservan sus cualidades aptas para comercialización y consumo durante un plazo inferior a treinta días o que precisan condiciones de temperatura regulada de comercialización y transporte. Son productos de gran consumo aquellos fungibles de compra habitual y repetitiva por los consumidores y que presenten alta rotación.
+El Gobierno determinará reglamentariamente en el plazo de tres meses la definición de los productos a los que se refiere el apartado anterior.
+4. Con relación a los productos que no sean frescos o perecederos ni de alimentación y gran consumo, cuando los comerciantes acuerden con sus proveedores aplazamientos de pago que excedan de los sesenta días desde la fecha de entrega y recepción de las mercancías, el pago deberá quedar instrumentado en documento que lleve aparejada acción cambiaria, con mención expresa de la fecha de pago indicada en la factura. En el caso de aplazamientos superiores a noventa días, este documento será endosable a la orden. En todo caso, el documento se deberá emitir o aceptar por los comerciantes dentro del plazo de treinta días, a contar desde la fecha de recepción de la mercancía, siempre que la factura haya sido enviada. Para la concesión de aplazamientos de pago superiores a ciento veinte días, el vendedor podrá exigir que queden garantizados mediante aval bancario o seguro de crédito o caución.
+5. En cualquier caso, se producirá el devengo de intereses moratorios en forma automática a partir del día siguiente al señalado para el pago o, en defecto de pacto, a aquel en el cual debiera efectuarse de acuerdo con lo establecido en el apartado 1. En esos supuestos, el tipo aplicable para determinar la cuantía de los intereses será el previsto en el artículo 7 de la Ley por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, salvo que las partes hubieren acordado en el contrato un tipo distinto, que en ningún caso será inferior al señalado para el interés legal incrementado en un 50 por ciento.»
+Dos. Se añade una disposición transitoria segunda con la siguiente redacción:
+«Disposición transitoria segunda. Régimen de aplazamientos de pagos a los proveedores del comercio minorista.
+El plazo fijado para los productos frescos y perecederos seguirá siendo el ya exigible de 30 días. La limitación máxima de 60 días a la que se refiere el artículo 17.3 de esta Ley se aplicará a partir del 1 de julio de 2006. Entre tanto, los aplazamientos de pago de los productos de alimentación que no tengan carácter de frescos ni perecederos y los productos de gran consumo no excederán de noventa días desde la entrega de la mercancía.»
+
+### Disposición final tercera
+
+Disposición final tercera. Título competencial.
+Esta Ley se dicta al amparo de las competencias que el artículo 149.1.6.ª y 8.ª de la Constitución atribuye en exclusiva al Estado en materia de legislación mercantil y civil. No obstante, la disposición final primera de esta Ley se dicta al amparo del artículo 149.1.18.ª y tendrá la consideración de norma básica, con excepción de la modificación del artículo 169.3 del texto refundido de la Ley de Contratos de las Administraciones Públicas, que no tiene este carácter de norma básica de acuerdo con la disposición final primera de este texto legal.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 29 de diciembre de 2004.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

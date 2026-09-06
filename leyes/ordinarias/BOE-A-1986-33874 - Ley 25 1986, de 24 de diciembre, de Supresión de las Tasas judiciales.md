@@ -1,0 +1,66 @@
+# Ley 25/1986, de 24 de diciembre, de Supresión de las Tasas judiciales.
+
+- Identificador BOE: `BOE-A-1986-33874`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-33874
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+La Constitución Española en su artículo 1.°, propugna la libertad, la justicia, la igualdad y el pluralismo político como valores superiores del ordenamiento jurídico español. Además, en el párrafo dos del artículo 9.° instituye a los poderes públicos en la obligación de promover las condiciones para que la libertad y la igualdad sean reales y efectivas, y de remover los obstáculos que impidan o dificulten su plenitud.
+En el ámbito de la Administración de Justicia los valores constitucionales se manifiestan en el derecho a obtener la tutela judicial efectiva de los derechos e intereses legítimos, reconocido en el artículo 24 de la propia Constitución. El que, además de la justicia se manifiesten también la libertad y la igualdad, y el que todas ellas sean, como quiere la Constitución, reales y efectivas depende de que todos los ciudadanos puedan obtener justicia cualquiera que sea su situación económica o su posición social.
+La Constitución, consciente de esta realidad, previene, en el artículo 119, que «la justicia será gratuita cuando así lo disponga la Ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar».
+Son ya varias las actuaciones que se han llevado a cabo en esta dirección. Así la Ley 34/1984, de 6 de agosto, de reforma urgente de la Ley de Enjuiciamiento Civil, extendía notablemente el beneficio de justicia gratuita. Igualmente, la Ley Orgánica 14/1983, de 28 de diciembre, de Asistencia Letrada al Detenido y al Preso y modificación de los artículos 520 y 527 de la Ley de Enjuiciamiento Criminal, regulaba la gratuidad de dicha asistencia letrada al detenido o preso, lo que ha ido seguido de un importante incremento de las consignaciones presupuestarias destinadas a subvencionar dicha asistencia letrada. En fin, la Ley Orgánica 6/1985, de 3 de julio, del Poder Judicial recoge el mandato constitucional e insta a hacerlo efectivo, extendiendo el ámbito de la gratuidad al ejercicio de la acción popular.
+Por otro lado, la ordenación actual de las tasas judiciales, sobre ser incompatible con algunos principios tributarios vigentes, es causante de notables distorsiones en el funcionamiento de la Administración de Justicia. En efecto, la gestión tributaria, encomendada al Secretario Judicial, se ha demostrado poco eficiente en cuanto tal, al tiempo que ha apartado a ese funcionario de las importantes funciones procesales y de gestión de la Oficina Judicial que está llamado a desempeñar.
+Dentro de esta misma línea de gratuidad y para evitar la distorsión en la Administración de Justicia, se suprime el Impuesto de Actos Jurídicos Documentados en todo aquello que tenga relación con las actuaciones judiciales y ante el Registro Civil. No parece adecuado que, suprimido dicho impuesto para las instancias y documentos que los ciudadanos presenten en las Oficinas públicas y para las certificaciones y autorizaciones expedidas por autoridades administrativas, subsista tal tributo en el ámbito de la Administración de Justicia.
+
+### Artículo primero
+
+Artículo primero.
+Se suprimen las tasas judiciales y las que se devengan por las actuaciones del Registro Civil.
+
+### Artículo segundo
+
+Artículo segundo.
+Se suprime el Impuesto de Actos Jurídicos Documentados a que están sometidas las resoluciones jurisdiccionales, y los laudos arbitrales; los escritos de los interesados relacionado con ellas; así como las diligencias y actuaciones que se practiquen y testimonios que se expidan.
+
+## DISPOSICIONES ADICIONALES
+
+### Primera
+
+Primera.
+Las comunicaciones que los Juzgados y Tribunales hayan de realizar en el ejercicio de su función jurisdiccional, así como las certificaciones y testimonios expedidos por el Registro Civil, gozarán de franquicia postal y telegráfica.
+
+### Segunda
+
+Segunda.
+(Derogada)
+Se deroga por la disposición derogatoria única.7 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### DISPOSICIÓN TRANSITORIA
+
+A partir de la entrada en vigor de la presente Ley no se devengarán tasas judiciales en los procesos y actuaciones iniciados con anterioridad. No obstante, se liquidaran o recaudaran las tasas ya devengadas.
+
+### DISPOSICIÓN DEROGATORIA
+
+Quedan derogados:
+1. El Decreto 1034/1959, de 18 de junio, por el que se convalida y regula la exacción de las tasas administrativas del Ministerio de Justicia; en los apartados d) y e) de su artículo 1.º y en los números 4.º y 5.º de su articulo 4.º
+2. El Decreto 1035/1959, de 18 de junio, por el que se convalida y regula la exacción de las tasas judiciales.
+3. Los artículos 40.1, 41, a), 42, a) 43 y 44 del Real Decreto legislativo 3050/1980, de 30 de diciembre, por el que se aprueba el texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+4. Cualquier otra disposición que se oponga a la presente Ley.
+
+### DISPOSICIÓN FINAL
+
+Se autoriza al Gobierno para dictar cuantas disposiciones exija el desarrollo o ejecución de la presente Ley, que entrará en vigor el día 1 de enero de 1987.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela, Madrid, a 24 de diciembre de 1986.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

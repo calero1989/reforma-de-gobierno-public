@@ -1,0 +1,851 @@
+# Ley Orgánica 8/1981, de 30 de diciembre, de Estatuto de Autonomía para Cantabria.
+
+- Identificador BOE: `BOE-A-1982-635`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1982-635
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+PREÁMBULO
+Cantabria, como comunidad histórica perfectamente definida dentro de España y haciendo uso del derecho a la autonomía que la Constitución reconoce en su Título VIII y en base a las decisiones de la Diputación Provincial y de sus Ayuntamientos libre y democráticamente expresadas, manifiesta su voluntad de constituirse en Comunidad Autónoma de acuerdo con lo dispuesto en el artículo 143 de la Constitución.
+El presente Estatuto es la expresión jurídica de la identidad de Cantabria y define sus instituciones, competencias y recursos, dentro de la indisoluble unidad de España y en el marco de la más estrecha solidaridad con las demás nacionalidades y regiones.
+Cantabria encuentra en sus instituciones la voluntad de respetar los derechos fundamentales y libertades públicas, a la vez que se afianza e impulsa el desarrollo regional sobre la base de unas relaciones democráticas.
+Para hacer realidad el derecho de Cantabria al autogobierno, la Asamblea Mixta de Cantabria, prevista en el artículo 146 de la Constitución, propone y las Cortes Generales aprueban, el presente Estatuto.
+Se modifica por el art. único.1 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## Título Preliminar
+
+TÍTULO PRELIMINAR
+Se añade por el art. único.2 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo primero
+
+Artículo 1.
+1. Cantabria, como comunidad histórica, para ejercer su derecho al autogobierno reconocido constitucionalmente, se constituye en Comunidad Autónoma de acuerdo con la Constitución y el presente Estatuto, que es su norma institucional básica.
+2. Los poderes de la Comunidad Autónoma emanan de la Constitución, del presente Estatuto y del pueblo.
+3. La denominación de la Comunidad Autónoma será la de Cantabria.
+Se modifica el apartado 1 por el art. único.3 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo segundo
+
+Artículo 2.
+1. El territorio de la Comunidad Autónoma es el de los municipios comprendidos dentro de los límites administrativos de la anteriormente denominada provincia de Santander.
+2. La capital de la Comunidad Autónoma es la ciudad de Santander, donde tendrán la sede sus instituciones de autogobierno.
+3. Cantabria estructura su organización territorial en municipios.
+Una ley del Parlamento podrá reconocer la comarca como entidad local con personalidad jurídica y demarcación propia. La comarca no supondrá, necesariamente, la supresión de los municipios que la integran.
+Se modifica por el art. único.4 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo tercero
+
+Artículo 3.
+La bandera propia de Cantabria es la formada por dos franjas horizontales de igual anchura, blanca la superior y roja la inferior.
+Cantabria podrá establecer su escudo e himno por ley del Parlamento.
+El escudo de Cantabria, una vez aprobado por el Parlamento, podrá incorporarse a la bandera.
+Se modifica por el art. único.5 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo cuarto
+
+Artículo 4.
+Uno. A los efectos del presente Estatuto, gozan de la condición política de cántabros los ciudadanos españoles que, de acuerdo con las Leyes generales del Estado, tengan la vecindad administrativa en cualquiera de los municipios de Cantabria.
+Dos. Como cántabros gozan de los derechos políticos definidos en este Estatuto los ciudadanos españoles residentes en el extranjero que hayan tenido la última vecindad administrativa en Cantabria y acrediten esta condición en el correspondiente Consulado de España. Gozarán también de estos derechos sus descendientes inscritos como españoles, si así lo solicitan, en la forma que determine la Ley del Estado.
+
+### Artículo quinto
+
+Artículo 5.
+1. Los ciudadanos y ciudadanas de Cantabria son titulares de los derechos y deberes establecidos en la Constitución y en el presente Estatuto.
+2. Corresponde a las instituciones de la Comunidad Autónoma, en el ámbito de sus competencias, promover las condiciones para que la libertad y la igualdad de las personas y de los grupos en que se integran sean reales y efectivas, remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos y ciudadanas en la vida política, económica, cultural y social.
+Se modifica por el art. único.6 de la Ley Orgánica 11/1998, de 30 de diciembre.Ref. BOE-A-1998-30152
+
+### Artículo sexto
+
+Artículo 6.
+Las comunidades montañesas o cántabras asentadas fuera del ámbito territorial de Cantabria, así como sus asociaciones y centros sociales, tendrán el reconocimiento de su origen cántabro y el derecho a colaborar y compartir la vida social y cultural de Cantabria. Una ley del Parlamento regulará, sin perjuicio de las competencias del Estado, el alcance y contenido de dicho reconocimiento, que en ningún caso implicará la concesión de derechos políticos.
+La Comunidad Autónoma podrá solicitar del Estado que, para facilitar lo anteriormente dispuesto, celebre, en su caso, los oportunos tratados o convenios internacionales con los Estados donde existan dichas comunidades.
+Se modifica por el art. único.7 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## TÍTULO I
+
+De las instituciones de la Comunidad Autónoma de Cantabria
+Se modifica por el art. único.8 de Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo séptimo
+
+Artículo 7.
+1. Los poderes de la Comunidad Autónoma de Cantabria se ejercerán a través de sus instituciones de autogobierno, que son el Parlamento, el Gobierno y el Presidente.
+2. Las leyes de Cantabria ordenarán el funcionamiento de estas instituciones de acuerdo con la Constitución y el presente Estatuto.
+Se modifica por el art. único.9 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## CAPÍTULO I
+
+Del Parlamento
+Se modifica por el art. único.10 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo octavo
+
+Artículo 8.
+1. El Parlamento de Cantabria representa al pueblo cántabro y es a esta institución a la que corresponde expresar la voluntad política de aquél, ejercer la potestad legislativa, aprobar sus presupuestos, impulsar y controlar la acción del Gobierno y ejercer las demás competencias que le confiere la Constitución, el presente Estatuto y las demás normas del ordenamiento jurídico.
+2. El Parlamento de Cantabria es inviolable.
+Se modifica por el art. único.11 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## CAPÍTULO PRIMERO
+
+CAPÍTULO I
+De la Asamblea Regional
+
+### Artículo noveno
+
+Artículo 9.
+Corresponde al Parlamento de Cantabria:
+1. Ejercer la potestad legislativa en materia de su competencia. El Parlamento sólo podrá delegar esta potestad legislativa en el Gobierno en los términos que establecen los artículos 82, 83 y 84 de la Constitución para el supuesto de la delegación legislativa de las Cortes Generales al Gobierno del Estado, todo ello en el marco del presente Estatuto.
+2. Ejercer la iniciativa legislativa y solicitar del Gobierno del Estado la adopción de proyectos de ley, según lo dispuesto en la Constitución.
+3. Fijar las previsiones de índole política, social y económica que, de acuerdo con el artículo 131, apartado 2, de la Constitución, haya de suministrar la Comunidad Autónoma al Gobierno del Estado para la elaboración de los proyectos de planificación.
+4. Aprobar los convenios a realizar con otras Comunidades Autónomas y los acuerdos de cooperación con las mismas, a que se refiere el artículo 31 del presente Estatuto.
+5. Impulsar y controlar la acción política del Gobierno.
+6. Aprobar los presupuestos y cuentas de la Comunidad Autónoma sin perjuicio del control que corresponda al Tribunal de Cuentas, con arreglo al artículo 153 de la Constitución.
+7. Aprobar los planes de fomento de interés general para la Comunidad Autónoma.
+8. Designar para cada legislatura del Parlamento de Cantabria a los Senadores o Senadoras representantes de la Comunidad Autónoma de Cantabria, de acuerdo con lo previsto en el artículo 69, apartado 5, de la Constitución, por el procedimiento que al efecto señale el propio Parlamento. Estos Senadores o Senadoras deberán ser Diputados o Diputadas del Parlamento de Cantabria y cesarán como Senadores o Senadoras, además de lo dispuesto en la Constitución, cuando cesen como Diputados o Diputadas del Parlamento de Cantabria.
+9. Elegir de entre sus miembros al Presidente de la Comunidad Autónoma de Cantabria.
+10. Exigir, en su caso, responsabilidad política al Gobierno y a su Presidente.
+11. Interponer recursos de inconstitucionalidad y personarse ante el Tribunal Constitucional, en los términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional.
+12. Controlar los medios de comunicación social cuya titularidad corresponda a la Comunidad Autónoma.
+13. Recibir la información que proporcione el Gobierno del Estado en orden a tratados internacionales y otros proyectos que afecten al interés de la Comunidad Autónoma.
+14. Cualesquiera otras que le correspondan de acuerdo con la Constitución, las leyes y el presente Estatuto.
+Se modifica por el art. único.12 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo diez
+
+Artículo 10.
+1. El Parlamento estará constituido por Diputados y Diputadas elegidos por sufragio universal, igual, libre, directo y secreto, y de acuerdo con un sistema proporcional.
+2. La circunscripción electoral será la Comunidad Autónoma.
+3. El Parlamento será elegido por un período de cuatro años sin perjuicio de los casos de disolución anticipada. El mandato de los Diputados y Diputadas termina cuatro años después de su elección o el día de la disolución de la Cámara. Las elecciones serán convocadas por el Presidente de la Comunidad Autónoma en los términos previstos en la ley que regule el Régimen Electoral General, de manera que se realicen el cuarto domingo de mayo cada cuatro años. El Parlamento electo será convocado por el Presidente cesante de la Comunidad Autónoma dentro de los veinticinco días siguientes a la celebración de las elecciones.
+4. Una ley del Parlamento de Cantabria regulará el procedimiento para la elección de sus miembros, fijando su número que estará comprendido entre treinta y cinco y cuarenta y cinco, así como las causas de inelegibilidad e incompatibilidad que afecten a los mismos.
+Se modifican los apartados 1, 3 y 4 por el art. único.13 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+ Se modifica el apartado 3 por el art. único de la Ley Orgánica 7/1991, de 13 de marzo. Ref. BOE-A-1991-6823
+
+### Artículo once
+
+Artículo 11.
+1. Los Diputados y Diputadas del Parlamento de Cantabria gozarán, aun después de haber cesado en su mandato, de inviolabilidad por las opiniones manifestadas en actos parlamentarios y por los votos emitidos en el ejercicio de su cargo.
+Durante su mandato no podrán ser detenidos ni retenidos sino en caso de flagrante delito, correspondiendo decidir sobre su inculpación, prisión, procesamiento y juicio a los jueces ordinarios predeterminados por la Ley.
+2. Los Diputados no estarán sujetos a mandato imperativo.
+Se modifica el apartado 1 por el art. 1 de la Ley Orgánica 2/2021, de 23 de marzo. Ref. BOE-A-2021-4567
+ Se suprime el apartado 3 y se modifica el 1 por el art. único.14 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo doce
+
+Artículo 12.
+1. El Parlamento elegirá de entre sus miembros un Presidente y la Mesa. El Reglamento, que deberá ser aprobado por mayoría absoluta, regulará su composición, régimen y funcionamiento.
+2. El Parlamento de Cantabria fijará su propio presupuesto.
+3. El Parlamento funcionará en Pleno y en Comisiones y se reunirá en sesiones ordinarias o extraordinarias. Los períodos ordinarios de sesiones serán los comprendidos entre septiembre y diciembre, el primero, y entre febrero y junio, el segundo.
+Las sesiones extraordinarias habrán de ser convocadas por su Presidente, con especificación, en todo caso, del orden del día, a petición de la Diputación Permanente, de una quinta parte de los miembros del Parlamento o del número de grupos parlamentarios que el Reglamento determine, así como a petición del Gobierno.
+Para la deliberación y adopción de acuerdos, el Parlamento deberá estar reunido reglamentariamente y con asistencia de la mayoría de sus miembros. Los acuerdos se adoptarán por mayoría de los Diputados y Diputadas presentes si el Estatuto, las Leyes o el Reglamento no exigen otras mayorías más cualificadas.
+El voto es personal y no delegable.
+4. Las sesiones plenarias del Parlamento son públicas, salvo en los casos excepcionales previstos en su Reglamento.
+5. Las comisiones son permanentes y en su caso especiales o de investigación.
+6. El Reglamento precisará el número mínimo de Diputados para la formación de Grupos Parlamentarios, la intervención de éstos en el proceso legislativo y las funciones de la Junta de Portavoces de aquéllos. Los Grupos Parlamentarios participarán en las Comisiones en proporción al número de sus miembros.
+Se modifican los apartados 1 a 4 por el art. único.15 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo trece
+
+Artículo 13.
+El Presidente del Parlamento coordina los trabajos del Parlamento y de sus Comisiones y dirige los debates. La Mesa asiste al Presidente en sus funciones y establece el orden del día, oída la Junta de Portavoces.
+Se modifica por el art. único.16 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo catorce
+
+Artículo 14.
+Entre los períodos de sesiones ordinarias y cuando hubiere expirado el mandato del Parlamento, habrá una Diputación Permanente cuyo procedimiento de elección, composición y funciones regulará el Reglamento, respetando, en todo caso, la proporcionalidad de los distintos grupos parlamentarios.
+Se modifica por el art. único.17 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo quince
+
+Artículo 15.
+1. En el marco del presente Estatuto la iniciativa legislativa corresponde a los Diputados y Diputadas y al Gobierno. La iniciativa popular para la presentación de proposiciones de ley que hayan de ser tramitadas por el Parlamento de Cantabria, se regulará por éste mediante ley, que deberá ser aprobada por mayoría absoluta.
+2. Las leyes de Cantabria serán promulgadas, en nombre del Rey, por el Presidente de la Comunidad Autónoma y publicadas en el «Boletín Oficial de Cantabria» y en el «Boletín Oficial del Estado». Entrarán en vigor a los veinte días de su publicación en el «Boletín Oficial de Cantabria», salvo que la propia ley establezca otro plazo.
+Se modifica por el art. único.18 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## CAPÍTULO II
+
+Del Presidente de la Diputación Regional de Cantabria
+
+### Artículo dieciséis
+
+Artículo 16.
+1. El Defensor del Pueblo Cántabro es el Comisionado del Parlamento de Cantabria para la protección y defensa de los derechos fundamentales de las personas, la tutela del ordenamiento jurídico y la defensa del Estatuto de Autonomía para Cantabria, a cuyo efecto podrá supervisar la actividad de la Administración, dando cuenta al Parlamento cántabro.
+2. Una ley del Parlamento de Cantabria regulará su organización y funcionamiento.
+3. La aprobación de la ley y la elección del Defensor del Pueblo cántabro requerirá mayoría de tres quintos de la Cámara.
+Se modifica por el art. único.19 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## CAPÍTULO II
+
+Del Presidente
+Se modifica por el art. único.20 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## CAPÍTULO III
+
+Del Consejo de Gobierno
+
+### Artículo diecisiete
+
+Artículo 17.
+1. El Presidente de la Comunidad Autónoma ostenta la más alta representación de la Comunidad Autónoma y la ordinaria del Estado en Cantabria.
+2. El Presidente designa y separa a los miembros del Gobierno y preside, dirige y coordina su actuación.
+3. El Presidente de la Comunidad Autónoma será elegido por el Parlamento de entre sus miembros y nombrado por el Rey. A tal efecto, el Presidente del Parlamento, previa consulta con las fuerzas políticas representadas en el mismo y oída la Mesa, propondrá un candidato o candidata a Presidente de la Comunidad Autónoma. El candidato o candidata presentará su programa al Pleno de la Cámara y, para ser elegido o elegida, deberá obtener mayoría absoluta en la primera votación; de no obtenerse esta mayoría cualificada se procederá a una nueva votación pasadas cuarenta y ocho horas y resultará elegido o elegida si obtiene mayoría simple. En el caso de no obtenerse dicha mayoría en esta segunda votación se tramitarán sucesivas propuestas en la forma prevista anteriormente. Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato o candidata resultare elegido o elegida por el Parlamento, éste quedará automáticamente disuelto, procediéndose a la convocatoria de nuevas elecciones para el mismo. El mandato del nuevo Parlamento durará hasta la fecha en que debería concluir el anterior y sin perjuicio de lo dispuesto en el artículo 23. En ningún caso procederá la disolución del Parlamento cuando el plazo de dos meses concluya el último año de la legislatura.
+Se modifica por el art. único.21 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## CAPÍTULO III
+
+Del Gobierno
+Se modifica por el art. único.22 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo dieciocho
+
+Artículo 18.
+1. El Gobierno, órgano colegiado, dirige la acción política y ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución, el presente Estatuto y las leyes.
+2. El Gobierno está compuesto por el Presidente, el Vicepresidente, en su caso, y los Consejeros.
+3. Los miembros del Gobierno de Cantabria serán nombrados y cesados por el Presidente, siendo preceptiva la información de éste al Parlamento.
+4. El Presidente podrá delegar temporalmente funciones ejecutivas y de representación en el Vicepresidente o, en su defecto, en uno de los Consejeros.
+5. Una ley del Parlamento regulará la organización del Gobierno, las atribuciones y el estatuto personal de cada uno de sus componentes.
+6. Los miembros del Gobierno no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.
+Se modifica por el art. único.23 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo diecinueve
+
+Artículo 19.
+1. El Gobierno cesa:
+a) Tras la celebración de elecciones al Parlamento.
+b) Por dimisión, incapacidad o fallecimiento de su Presidente.
+c) Por la pérdida de confianza del Parlamento o la adopción por éste de una moción de censura.
+2. El Gobierno cesante continuará en sus funciones hasta la toma de posesión del nuevo Gobierno.
+Se modifica por el art. único.24 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo veinte
+
+Artículo 20.
+(Suprimido).
+Se suprime por el art. 2 de la Ley Orgánica 2/2021, de 23 de marzo. Ref. BOE-A-2021-4567
+ Se modifica por el art. único.25 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo veintiuno
+
+Artículo 21.
+El Gobierno podrá interponer recursos de inconstitucionalidad, suscitar conflictos de competencia y personarse ante el Tribunal Constitucional en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional.
+Se modifica por el art. único.26 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## CAPÍTULO IV
+
+De las relaciones entre el Parlamento y el Gobierno
+Se añade por el art. único.27 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## TÍTULO DOS
+
+TÍTULO II
+De las competencias de Cantabria
+
+### Artículo veintidós
+
+Artículo 22.
+1. El Gobierno de Cantabria responderá políticamente ante el Parlamento de forma solidaria sin perjuicio de la responsabilidad directa de cada uno de sus componentes.
+2. El Presidente, previa deliberación del Gobierno, puede plantear ante el Parlamento la cuestión de confianza sobre su programa o sobre una declaración de política general. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados y Diputadas.
+3. El Parlamento puede exigir la responsabilidad política del Presidente o del Gobierno mediante la adopción por mayoría absoluta de la moción de censura. Ésta habrá de ser propuesta, al menos, por un 15 por 100 de los Diputados y Diputadas y habrá de incluir un candidato o candidata a la Presidencia de Cantabria. La moción de censura no podrá ser votada hasta que transcurran cinco días desde su presentación. Si la moción de censura no fuese aprobada por el Parlamento sus signatarios y signatarias no podrán presentar otra mientras no transcurra un año desde aquélla, dentro de la misma legislatura. Durante los dos primeros días de la tramitación de la moción de censura podrán presentarse mociones alternativas.
+4. Si el Parlamento negara su confianza, el Presidente de Cantabria presentará su dimisión ante el Parlamento, cuyo Presidente convocará en el plazo máximo de quince días la sesión plenaria para la elección del nuevo Presidente de acuerdo con el procedimiento del artículo 17.
+5. Si el Parlamento aprobara una moción de censura, el Presidente presentará su dimisión ante la Cámara y el candidato o candidata incluido en aquélla se entenderá investido de la confianza del Parlamento. El Rey le nombrará Presidente de la Comunidad Autónoma.
+6. El Presidente no podrá plantear la cuestión de confianza mientras está en trámite una moción de censura.
+Se modifica por el art. único.28 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+ Se modifica por el art. único.1 de la Ley Orgánica 2/1994, de 24 de marzo. Ref. BOE-A-1994-6941
+ Redactado el apartado 17 conforme a la corrección de erratas publicada en BOE núm. 90, de 15 de abril de 1994. Ref. BOE-A-1994-8493
+
+### Artículo veintitrés
+
+Artículo 23.
+1. El Presidente, previa deliberación del Gobierno, y bajo su exclusiva responsabilidad, podrá acordar la disolución del Parlamento con anticipación al término natural de la legislatura.
+2. La disolución se acordará por Decreto, en el que se convocarán a su vez elecciones, conteniéndose en el mismo cuantos requisitos exija la legislación electoral aplicable.
+3. El Presidente no podrá acordar la disolución del Parlamento durante el primer período de sesiones de la legislatura, cuando reste menos de un año para su terminación, ni cuando se encuentre en tramitación una moción de censura. Tampoco podrá acordar la disolución antes de que transcurra un año desde la última disolución por este procedimiento. En ningún supuesto podrá el Presidente disolver el Parlamento cuando se encuentre convocado un proceso electoral estatal.
+4. En todo caso, el nuevo Parlamento que resulte de la convocatoria electoral tendrá un mandato limitado por el término natural de la legislatura originaria.
+Se modifica por el art. único.29 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+ Se modifica por el art. único.2 de la Ley Orgánica 2/1994, de 24 de marzo. Ref. BOE-A-1994-6941
+
+## TÍTULO II
+
+De las competencias de Cantabria
+
+### Artículo veinticuatro
+
+Artículo 24.
+La Comunidad Autónoma de Cantabria tiene competencia exclusiva en las materias que a continuación se señalan, que serán ejercidas en los términos dispuestos en la Constitución:
+1. Organización, régimen y funcionamiento de sus instituciones de autogobierno.
+2. Las alteraciones de los términos municipales comprendidos en su territorio y, en general, las funciones que corresponden a la Administración del Estado sobre las Corporaciones Locales, y cuya transferencia autorice la legislación sobre régimen local.
+3. Ordenación del territorio y del litoral, urbanismo y vivienda.
+4. Tratamiento especial de las zonas de montaña.
+5. Las obras públicas de interés para la Comunidad Autónoma que se realicen dentro de su propio territorio y que no sean de interés general del Estado ni afecten a otra Comunidad Autónoma.
+6. Los ferrocarriles, carreteras y caminos cuyo itinerario se desarrolle íntegramente en el territorio de la Comunidad Autónoma y, en los mismos términos, los transportes terrestres, fluviales y por cable o tubería; establecimiento de centros de contratación y terminales de carga en materia de transporte terrestre.
+7. Transporte marítimo, exclusivamente entre puertos o puntos de la Comunidad Autónoma, sin conexión con otros puertos o puntos de otros ámbitos territoriales.
+8. Puertos, aeropuertos y helipuertos que no sean de interés general del Estado.
+9. Agricultura, ganadería e industrias agroalimentarias de acuerdo con la ordenación general de la economía.
+10. Denominaciones de origen en colaboración con el Estado.
+11. Los proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales, regadíos de interés para la Comunidad Autónoma, y las aguas minerales, termales y subterráneas, cuando éstas discurran íntegramente por Cantabria. Ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran íntegramente por el ámbito territorial de la Comunidad Autónoma.
+12. La pesca en aguas interiores, el marisqueo y la acuicultura, la caza y la pesca fluvial y lacustre.
+13. Comercio interior, sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio del Estado y de la legislación sobre defensa de la competencia. Ferias y mercados interiores. Establecimiento de bolsas de valores y establecimiento y regulación de centros de contratación de mercancías, conforme a la legislación mercantil.
+14. Planificación de la actividad económica y fomento del desarrollo de Cantabria, dentro de los objetivos marcados por la política económica del Estado y del sector público económico de la Comunidad.
+15. Artesanía.
+16. Museos, archivos, bibliotecas, hemerotecas y demás centros de depósito cultural, conservatorios de música y servicios de bellas artes, de interés para la Comunidad Autónoma, cuya titularidad no sea estatal.
+17. Patrimonio histórico, artístico, monumental, arquitectónico y arqueológico de interés para la Comunidad Autónoma.
+18. Cultura.
+19. Investigación científica y técnica, en coordinación con la general del Estado.
+20. Turismo.
+21. Promoción del deporte y de la adecuada utilización del ocio.
+22. Asistencia, bienestar social y desarrollo comunitario incluida la política juvenil, para las personas mayores y de promoción de la igualdad de la mujer.
+23. Protección y tutela de menores.
+24. Vigilancia y protección de sus edificios e instalaciones y coordinación de las policías locales sin perjuicio de su dependencia jerárquica de la autoridad municipal.
+25. Casinos, juegos y apuestas, con exclusión de las Apuestas Mutuas Deportivo-Benéficas.
+26. Cooperativas y entidades asimilables, mutuas no integradas en el sistema de Seguridad Social, respetando la legislación mercantil.
+27. Espectáculos públicos.
+28. Estadística para fines no estatales.
+29. Fundaciones que desarrollen principalmente sus funciones en la Comunidad Autónoma.
+30. Industria, sin perjuicio de lo que determinen las normas del Estado por razones de seguridad, sanitarias o de interés militar y las normas relacionadas con las industrias que estén sujetas a la legislación de minas, hidrocarburos y energía nuclear. El ejercicio de la competencia se realizará de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, en los términos de lo dispuesto en los artículos 38, 131 y números 11 y 13 del apartado 1 del artículo 149 de la Constitución.
+31. Instalaciones de producción, distribución y transporte de energía, cuando el transporte no salga de su territorio y su aprovechamiento no afecte a otra Comunidad Autónoma. Todo ello sin perjuicio de lo establecido en los números 22 y 25 del apartado 1 del artículo 149 de la Constitución.
+32. Procedimiento administrativo derivado de las especialidades de la organización propia.
+33. Publicidad, sin perjuicio de las normas dictadas por el Estado para sectores y medios específicos, de acuerdo con los números 1, 6, y 8 del apartado 1 del artículo 149 de la Constitución.
+34. Servicio meteorológico de la Comunidad Autónoma.
+35. Cajas de Ahorro e instituciones de crédito cooperativo público y territorial, en el marco de la ordenación general de la economía y de acuerdo con las disposiciones que en uso de sus facultades dicte el Estado.
+Se modifica por el art. único.30 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+ Se modifica por el art. único.3 de la Ley Orgánica 2/1994, de 24 de marzo. Ref. BOE-A-1994-6941
+
+### Artículo veinticinco
+
+Artículo 25.
+En el marco de la legislación básica del Estado y en los términos que la misma establezca, corresponde a la Comunidad Autónoma de Cantabria el desarrollo legislativo y la ejecución de las siguientes materias:
+1. Montes, aprovechamientos y servicios forestales, vías pecuarias y pastos.
+2. Régimen local.
+3. Sanidad e higiene, promoción, prevención y restauración de la salud. Coordinación hospitalaria en general, incluida la de la Seguridad Social.
+4. Ordenación farmacéutica.
+5. Corporaciones de derecho público representativas de intereses económicos y profesionales. Ejercicio de profesiones tituladas.
+6. Defensa de los consumidores y usuarios, de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, las bases y coordinación general de la Sanidad, en los términos de lo dispuesto en los artículos 38, 131 y en los números 11, 13 y 16 del apartado 1 del artículo 149 de la Constitución.
+7. Protección del medio ambiente y de los ecosistemas.
+8. Régimen minero y energético.
+9. Prensa, radio, televisión y otros medios de comunicación social, en el marco de las normas básicas que el Estado establezca de acuerdo con el número 27 del apartado 1 del artículo 149 de la Constitución.
+10. Ordenación del sector pesquero.
+Se modifica por el art. único.31 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+ Se modifica por el art. único.4 de la Ley Orgánica 2/1994, de 24 de marzo. Ref. BOE-A-1994-6941
+
+### Artículo veintiséis
+
+Artículo 26.
+Corresponde a la Comunidad Autónoma de Cantabria, en los términos que establezcan las leyes y las normas reglamentarias que en desarrollo de su legislación dicte el Estado, la función ejecutiva en las siguientes materias:
+1. Gestión de la asistencia sanitaria de la Seguridad Social, de acuerdo con lo previsto en el número 17 del apartado 1 del artículo 149 de la Constitución, reservándose el Estado la alta inspección conducente al cumplimiento de la función a que se refiere este precepto.
+2. Asociaciones.
+3. Ferias internacionales.
+4. Gestión de las prestaciones y servicios sociales del sistema de Seguridad Social: INSERSO. La determinación de las prestaciones del sistema, los requisitos para establecer la condición de beneficiario o beneficiaria y la financiación se efectuará de acuerdo con las normas establecidas por el Estado en el ejercicio de sus competencias, de conformidad con lo dispuesto en el número 17 del apartado 1 del artículo 149 de la Constitución.
+5. Gestión de museos, archivos y bibliotecas de titularidad estatal que no se reserve el Estado. Los términos de la gestión serán fijados mediante convenios.
+6. Pesas y medidas. Contraste de metales.
+7. Planes establecidos por el Estado para la implantación o reestructuración de sectores económicos.
+8. Productos farmacéuticos.
+9. Propiedad industrial.
+10. Propiedad intelectual.
+11. Laboral. De conformidad con el número 7 del apartado 1 del artículo 149 de la Constitución corresponde al Estado la competencia sobre legislación laboral y la alta inspección. Quedan reservadas al Estado todas las competencias en materia de migraciones interiores y exteriores, fondos de ámbito nacional y de empleo, sin perjuicio de lo que establezcan las normas del Estado sobre estas materias.
+12. Salvamento marítimo.
+13. Nombramiento de registradores de la propiedad, notarios y otros fedatarios públicos.
+14. Aeropuertos con calificación de interés general cuya gestión directa no se reserve el Estado.
+15. Crédito, banca y seguros, de acuerdo con las previsiones de las reglas 6, 11 y 13 del apartado 1 del artículo 149 de la Constitución.
+16. Sector público estatal en el ámbito territorial de la Comunidad Autónoma, la que participará en los casos y actividades que proceda.
+17. Transporte de mercancías y viajeros que tengan su origen y destino en el territorio de la Comunidad Autónoma de Cantabria, sin perjuicio de la ejecución directa que se reserve el Estado.
+Se modifica por el art. único.32 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+ Se modifica por el art. único.5 de la Ley Orgánica 2/1994, de 24 de marzo. Ref. BOE-A-1994-6941
+
+### Artículo veintisiete
+
+Artículo 27.
+Transcurridos los cinco años previstos en el apartado 2 del artículo 148 de la Constitución, previo acuerdo del Parlamento, adoptado por mayoría absoluta, la Comunidad Autónoma podrá ampliar el ámbito de sus competencias en materias que no estén atribuidas en exclusiva al Estado, o que sólo estén atribuidas las bases o principios. El acuerdo de asumir las nuevas competencias se someterá a las Cortes Generales para su aprobación mediante ley orgánica.
+Asimismo, podrá asumir competencias a través de los procedimientos establecidos en los números 1 y 2 del artículo 150 de la Constitución.
+Se modifica por el art. único.33 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo veintiocho
+
+Artículo 28.
+1. Corresponde a la Comunidad Autónoma la competencia de desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo 27 de la Constitución y leyes orgánicas que, conforme al apartado 1 del artículo 81 de la misma, lo desarrollen, y sin perjuicio de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149, y de la alta inspección para su cumplimiento y garantía.
+2. Para garantizar una prestación homogénea y eficaz del servicio público de la educación que permita corregir las desigualdades o desequilibrios que puedan producirse, la Comunidad Autónoma facilitará a la Administración del Estado la información que ésta le solicite sobre el funcionamiento del sistema educativo en sus aspectos cualitativos y cuantitativos y colaborará con la Administración del Estado en las actuaciones de seguimiento y evaluación del sistema educativo nacional.
+3. En el ejercicio de estas competencias la Comunidad Autónoma fomentará la investigación, especialmente la referida a materias o aspectos peculiares de Cantabria.
+Se modifica por el art. único.34 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo veintinueve
+
+Artículo 29.
+En materia de medios audiovisuales de comunicación social del Estado, la Comunidad Autónoma de Cantabria ejercerá todas las potestades y competencias que le correspondan en los términos y casos establecidos en la Ley reguladora del Estatuto Jurídico de Radiotelevisión.
+Se modifica por el art. único.35 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo treinta
+
+Artículo 30.
+Corresponde a la Comunidad Autónoma de Cantabria, sin perjuicio de la obligación general del Estado, la defensa y protección de los valores culturales del pueblo cántabro.
+Se modifica por el art. único.36 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo treinta y uno
+
+Artículo 31.
+La Comunidad Autónoma de Cantabria podrá celebrar convenios con otras Comunidades Autónomas para la gestión y prestación de servicios propios de su competencia, de acuerdo con lo dispuesto en el artículo 145, apartado 2, de la Constitución.
+Estos acuerdos deberán ser aprobados por el Parlamento y comunicados a las Cortes, y entrarán en vigor a los treinta días de la comunicación, salvo que éstas acuerden en dicho plazo que, por su contenido, el convenio debe seguir el trámite previsto en el párrafo siguiente, como acuerdo de cooperación.
+La Comunidad Autónoma podrá establecer acuerdos de cooperación con otras Comunidades Autónomas previa autorización de las Cortes Generales.
+Se modifica por el art. único.37 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## TÍTULO III
+
+Del régimen jurídico
+
+### CAPÍTULO PRIMERO
+
+CAPÍTULO I
+Disposiciones generales
+
+### Artículo treinta y dos
+
+Artículo 32.
+La Comunidad Autónoma de Cantabria asume desde su constitución todas las competencias, medios y recursos que según las leyes correspondan a la Diputación Provincial de Santander.
+Los órganos de representación y gobierno de la Diputación Provincial establecidos por la legislación de régimen local quedan sustituidos en la provincia de Santander por los propios de la Comunidad Autónoma, en los términos de este Estatuto. El Parlamento de Cantabria determinará, según su naturaleza, la distribución de las competencias de la Diputación Provincial entre los distintos órganos de la Comunidad Autónoma de Cantabria previstos en el artículo 7 de este Estatuto.
+Se modifica por el art. único.38 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## TÍTULO III
+
+Del régimen jurídico
+
+## CAPÍTULO PRIMERO
+
+CAPÍTULO I
+Disposiciones generales
+
+### Artículo treinta y tres
+
+Artículo 33.
+1. Las competencias de la Comunidad Autónoma de Cantabria se entienden referidas a su territorio.
+2. En las materias de su competencia le corresponde al Parlamento de Cantabria la potestad legislativa en los términos previstos en el Estatuto, correspondiéndole al Gobierno la potestad reglamentaria y la función ejecutiva.
+3. Las competencias de ejecución de la Comunidad Autónoma de Cantabria llevan implícita la correspondiente potestad reglamentaria para la organización interna de los servicios, la administración y en su caso la inspección.
+Se modifica por el art. único.39 de Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo treinta y cuatro
+
+Artículo 34.
+La Comunidad Autónoma de Cantabria, como ente de Derecho público, tiene personalidad jurídica. Su responsabilidad, y la de sus autoridades y personal funcionario, procederá y se exigirá en los mismos términos y casos que establezca la legislación del Estado en la materia.
+Se modifica por el art. único.40 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## CAPÍTULO II
+
+De la Administración
+
+### Artículo treinta y cinco
+
+Artículo 35.
+1. En el ejercicio de sus competencias, la Comunidad Autónoma de Cantabria gozará de las potestades y privilegios propios de la Administración del Estado, entre los que se comprenden:
+a) La presunción de legitimidad y la ejecutoriedad de sus actos, así como las potestades de ejecución forzosa y revisión de oficio de aquéllos.
+b) La potestad de expropiación en las materias de su competencia, incluida la urgente ocupación de los bienes afectados y el ejercicio de las restantes competencias que la legislación expropiatoria atribuye a la Administración del Estado.
+c) Las potestades de investigación, deslinde y recuperación en materia de bienes.
+d) La potestad de sanción, dentro de los límites que establezca el ordenamiento jurídico.
+e) La facultad de utilización del procedimiento de apremio.
+f) La inembargabilidad de sus bienes y derechos, así como los privilegios de prelación y preferencia reconocidos a la Hacienda Pública para el cobro de sus créditos, sin perjuicio de los que correspondan en esta materia a la Hacienda del Estado y en igualdad de derechos con las demás Comunidades Autónomas.
+g) La exención de la obligación de prestar toda clase de garantías o cauciones ante los organismos administrativos y ante los Jueces y Tribunales de cualquier jurisdicción.
+2. No se admitirán interdictos contra las actuaciones de la Comunidad Autónoma en materia de su competencia y de acuerdo con el procedimiento legalmente establecido.
+3. Asimismo, en el ejercicio de la competencia de organización, régimen y funcionamiento prevista en el artículo 24 del presente Estatuto y, de acuerdo con la legislación del Estado, corresponde a la Comunidad Autónoma, entre otras materias, el establecimiento del régimen estatutario de su personal funcionario, la elaboración del procedimiento administrativo derivado de las especialidades de su organización propia, la regulación de los bienes de dominio público y patrimoniales cuya titularidad corresponda a la Comunidad Autónoma, y de los contratos y de las concesiones administrativas en el ámbito de la Comunidad.
+4. Para el ejercicio de la competencia de vigilancia y protección de sus edificios e instalaciones, prevista en el apartado 22 del artículo 24 del Estatuto, la Comunidad Autónoma podrá convenir con el Estado la adscripción de una Unidad del Cuerpo Nacional de Policía en los términos y para el ejercicio de las funciones previstas en la ley orgánica aludida en el número 29 del apartado 1 del artículo 149 de la Constitución.
+Se modifica por el art. único.41 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## CAPÍTULO II
+
+De la Administración
+
+### Artículo treinta y seis
+
+Artículo 36.
+Corresponde a la Comunidad Autónoma la creación y estructuración de su propia Administración pública, dentro de los principios generales y normas básicas del Estado.
+Se modifica por el art. único.42 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+ Su anterior numeración era art. 35.
+
+### Artículo treinta y siete
+
+Artículo 37.
+La Comunidad Autónoma de Cantabria ejercerá sus funciones administrativas a través de los organismos y entidades que se establezcan, dependientes del Gobierno, y pudiendo delegar dichas funciones en las comarcas, municipios y demás entidades locales, si así lo autoriza una ley del Parlamento que fijará las oportunas formas de control y coordinación.
+Se modifica por el art. único.43 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## CAPÍTULO III
+
+Del control de la Diputación Regional
+
+### Artículo treinta y ocho
+
+Artículo 38.
+El Consejo Jurídico Consultivo es el superior órgano de consulta y asesoramiento de las instituciones de la Comunidad Autónoma de Cantabria y de sus corporaciones locales. Una ley del Parlamento de Cantabria, aprobada por mayoría de tres quintos de sus miembros, regulará sus funciones, composición y régimen de funcionamiento.
+Se modifica por el art. único.44 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## CAPÍTULO III
+
+Del control de la Comunidad Autónoma
+Se modifica por el art. único.45 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo treinta y nueve
+
+Artículo 39.
+1. Las leyes del Parlamento de Cantabria estarán excluidas del recurso contencioso-administrativo y únicamente sujetas al control de su constitucionalidad, ejercido por el Tribunal Constitucional.
+2. El Parlamento de Cantabria podrá ser parte y personarse en los conflictos constitucionales.
+Se modifica por el art. único.46 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo cuarenta
+
+Artículo 40.
+Los actos y acuerdos y las normas reglamentarias emanadas de los órganos ejecutivos y administrativos de la Comunidad Autónoma serán, en todo caso, impugnables ante la jurisdicción contencioso-administrativa.
+Se modifica por el art. único.47 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## TÍTULO IV
+
+De la Administración de Justicia
+
+### Artículo cuarenta y uno
+
+Artículo 41.
+El control económico y presupuestario de la Comunidad Autónoma se ejercerá por el Tribunal de Cuentas del Estado.
+El informe del Tribunal de Cuentas será remitido, además de a las Cortes Generales, al Parlamento de Cantabria.
+Lo establecido en los párrafos anteriores se llevará a cabo de acuerdo con lo que disponga la ley orgánica prevista en el artículo 136, apartado 4, de la Constitución.
+Se modifica por el art. único.48 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## TÍTULO IV
+
+De la Administración de Justicia
+
+### Artículo cuarenta y dos
+
+Artículo 42.
+De acuerdo con la Ley Orgánica del Poder Judicial, se creará en Cantabria un Tribunal Superior de Justicia ante el que se agotarán las sucesivas instancias procesales, sin perjuicio de lo establecido en el artículo ciento veintitrés de la Constitución.
+Se modifica por el art. único.49 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+ Su anterior numeración era art. 41.
+
+### Artículo cuarenta y tres
+
+Artículo 43.
+Uno. La competencia de los órganos jurisdiccionales en Cantabria se extenderá:
+a) En el ámbito civil, penal y social a todas las instancias y grados, con la excepción de los recursos de casación y revisión.
+b) En el orden contencioso-administrativo y recursos que se deduzcan contra los actos y disposiciones de las Administraciones públicas en los términos que establezca la Ley Orgánica del Poder Judicial.
+c) A las cuestiones de competencia que se susciten entre los órganos jurisdiccionales de Cantabria.
+Dos. En las restantes materias se podrá interponer, cuando proceda, ante el Tribunal Supremo, el recurso de casación o el que corresponda según las leyes del Estado y, en su caso, el de revisión. El Tribunal Supremo resolverá también las cuestiones de competencia entre los Tribunales de Cantabria y los del resto de España.
+Se modifica por el art. único.50 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+ Su anterior numeración era art. 42.
+ Se modifica por el art. único.6 de la Ley Orgánica 2/1994, de 24 de marzo. Ref. BOE-A-1994-6941
+
+## TÍTULO V
+
+De la Economía y Hacienda
+
+### Artículo cuarenta y cuatro
+
+Artículo 44.
+1. En relación a la Administración de Justicia, exceptuada la Militar, corresponde a la Comunidad Autónoma de Cantabria ejercer todas las facultades que la Ley Orgánica del Poder Judicial reconozca o atribuya al Gobierno del Estado.
+2. El Parlamento de Cantabria fijará la delimitación de las demarcaciones territoriales de los órganos jurisdiccionales y la localización de su sede, de acuerdo con la Ley Orgánica del Poder Judicial.
+Se modifica por el art. único.51 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## TÍTULO V
+
+De la Economía y Hacienda
+
+### Artículo cuarenta y cinco
+
+Artículo 45.
+La Comunidad Autónoma de Cantabria, dentro de los principios de coordinación con las Haciendas estatal y local, y de solidaridad entre todos los españoles y españolas, tiene autonomía financiera, dominio público y patrimonio propio de acuerdo con la Constitución, el presente Estatuto y la Ley Orgánica de Financiación de las Comunidades Autónomas.
+Se modifica por el art. único.52 de la Ley Orgánica 11/1998, de 30 de diciembre.Ref. BOE-A-1998-30152
+
+### Artículo cuarenta y seis
+
+Artículo 46.
+1. El patrimonio de la Comunidad Autónoma estará integrado por:
+a) El patrimonio de la Diputación Provincial de Santander en el momento de aprobarse el Estatuto.
+b) Los bienes afectos a servicios traspasados a la Comunidad Autónoma de Cantabria.
+c) Los bienes adquiridos por la Comunidad Autónoma de Cantabria por cualquier título jurídico válido.
+2. El patrimonio de la Comunidad Autónoma de Cantabria, su administración, defensa y conservación, serán regulados por una ley del Parlamento.
+3. La Comunidad Autónoma tiene plena capacidad para adquirir, administrar y enajenar, según la legislación vigente, los bienes que integren su patrimonio.
+Se modifica por el art. único.53 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo cuarenta y siete
+
+Artículo 47.
+La Hacienda de la Comunidad Autónoma se constituye con:
+1. Los rendimientos de los impuestos que establezca la Comunidad Autónoma de Cantabria.
+2. Los rendimientos de los impuestos cedidos por el Estado, a que se refiere la disposición adicional primera, y de todos aquellos cuya cesión sea aprobada por las Cortes Generales.
+3. Un porcentaje de participación en la recaudación total del Estado por la totalidad de sus impuestos percibidos en la Comunidad Autónoma.
+4. El rendimiento de sus propias tasas, aprovechamientos especiales y por la prestación de servicios directos de la Comunidad Autónoma, sean de propia creación o como consecuencia de traspasos de servicios estatales.
+5. Las contribuciones especiales que establezca la Comunidad Autónoma en el ejercicio de sus competencias.
+6. Los recargos en impuestos estatales.
+7. En su caso, los ingresos procedentes del Fondo de Compensación Interterritorial.
+8. Otras asignaciones con cargo a los Presupuestos Generales del Estado.
+9. La emisión de deuda y el recurso al crédito.
+10. Los rendimientos del patrimonio de la Comunidad Autónoma.
+11. Ingresos de derecho privado; legados y donaciones.
+12. Multas y sanciones en el ámbito de sus competencias.
+Se modifica por el art. único.54 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo cuarenta y ocho
+
+Artículo 48.
+La Comunidad Autónoma de Cantabria y los entes locales afectados, participarán en los ingresos correspondientes a los tributos que el Estado pueda establecer para recuperar los costos sociales producidos por actividades contaminantes o generadoras de riesgo de especial gravedad para el entorno físico y humano de Cantabria, en la forma que establezca la ley creadora del gravamen.
+Se modifica por el art. único.55 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo cuarenta y nueve
+
+Artículo 49.
+1. Cuando se complete el traspaso de servicios o al cumplirse el sexto año de vigencia de este Estatuto, si la Comunidad Autónoma de Cantabria o el Estado lo solicita, la participación anual en los ingresos del Estado, citada en el número 3 del artículo 47 y definida en la disposición transitoria décima, se negociará sobre las siguientes bases:
+a) El coeficiente de población.
+b) El coeficiente de esfuerzo fiscal en el Impuesto sobre la Renta de las Personas Físicas.
+c) La cantidad equivalente a la aportación proporcional que corresponda a Cantabria, por los servicios y cargas generales que el Estado continúe asumiendo como propios.
+d) La relación inversa de la renta real por habitante de Cantabria respecto a la del resto de España.
+e) Relación entre los índices de déficit en servicios sociales e infraestructura que afecten al territorio de la Comunidad y al conjunto del Estado.
+f) Relación entre los costos por habitante de los servicios sociales y administrativos transferidos para el territorio de la Comunidad y para el conjunto del Estado.
+g) Otros criterios que se estimen procedentes.
+2. La fijación del nuevo porcentaje de participación será objeto de negociación y podrá revisarse en los siguientes supuestos:
+a) Cuando se amplíen o se reduzcan las competencias asumidas por la Comunidad Autónoma y que anteriormente realizase el Estado.
+b) Cuando se produzca la cesión de nuevos tributos.
+c) Cuando se lleven a cabo reformas sustanciales en el sistema tributario del Estado.
+d) Cuando, transcurridos cinco años después de su puesta en vigor, sea solicitada dicha revisión por el Estado o la Comunidad Autónoma de Cantabria.
+Se modifica por el art. único.56 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo cincuenta
+
+Artículo 50.
+1. La Comunidad Autónoma de Cantabria, mediante acuerdo del Parlamento, podrá concertar operaciones de crédito y emitir deuda pública para financiar gastos de inversión.
+2. El volumen y características se establecerán de acuerdo con la ordenación de la política crediticia y en coordinación con el Estado.
+3. Los títulos emitidos tendrán la consideración de fondos públicos a todos los efectos.
+4. Asimismo, el Gobierno podrá realizar operaciones de crédito por plazo inferior a un año, con objeto de cubrir sus necesidades transitorias de tesorería.
+5. Lo establecido en los artículos anteriores se ajustará a lo dispuesto en la Ley Orgánica de Financiación de las Comunidades Autónomas.
+Se modifica por el art. único.57 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo cincuenta y uno
+
+Artículo 51.
+1. La gestión, recaudación, liquidación e inspección de sus propios tributos, así como el conocimiento de las reclamaciones relativas a los mismos, corresponderán a la Comunidad Autónoma de Cantabria, la cual dispondrá de plenas atribuciones para la ejecución y organización de dichas tareas, sin perjuicio de la colaboración que pueda establecerse con la Administración Tributaria del Estado, especialmente cuando así lo exija la naturaleza del tributo.
+2. En el caso de los impuestos cuyos rendimientos se hubiesen cedido, el Gobierno asumirá, por delegación del Estado, la gestión, recaudación, liquidación, inspección y revisión, en su caso, de los mismos, sin perjuicio de la colaboración que pueda establecerse entre ambas Administraciones, todo ello de acuerdo con lo especificado en la ley que fije el alcance y condiciones de la cesión.
+3. La gestión, recaudación, liquidación, inspección y revisión, en su caso, de los demás impuestos del Estado, recaudados en Cantabria, corresponderá a la Administración Tributaria del Estado, sin perjuicio de la delegación que la Comunidad Autónoma de Cantabria pueda recibir de éste y de la colaboración que pueda establecerse, especialmente cuando así lo exija la naturaleza del tributo.
+Se modifica por el art. único.58 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo cincuenta y dos
+
+Artículo 52.
+1. Corresponde a la Comunidad Autónoma de Cantabria velar por los intereses financieros de los entes locales, respetando la autonomía que a los mismos reconocen los artículos 140 y 142 de la Constitución.
+2. Es competencia de los entes locales de Cantabria la gestión, recaudación, liquidación e inspección de los tributos propios que les atribuyen las leyes, sin perjuicio de la delegación que puedan otorgar para estas facultades a favor de la Comunidad Autónoma de Cantabria. Mediante ley del Estado, se establecerá el sistema de colaboración de los entes locales, de la Comunidad Autónoma de Cantabria y del Estado para la gestión, liquidación, recaudación e inspección de aquellos tributos que se determinen.
+Se modifica por el art. único.59 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo cincuenta y tres
+
+Artículo 53.
+La Comunidad Autónoma de Cantabria gozará del tratamiento fiscal que la ley establezca para el Estado.
+Se modifica por el art. único.60 de la Ley Orgánica 11/1998, de 30 de diciembre.Ref. BOE-A-1998-30152
+
+### Artículo cincuenta y cuatro
+
+Artículo 54.
+Se regularán necesariamente, mediante ley del Parlamento de Cantabria, las siguientes materias:
+a) El establecimiento, modificación y supresión de sus propios impuestos, tasas y contribuciones especiales y de las exenciones o bonificaciones que les afecten.
+b) El establecimiento, modificación y supresión de los recargos sobre los impuestos del Estado, de acuerdo con lo establecido en el artículo 12 de la Ley Orgánica de Financiación de las Comunidades Autónomas.
+Se modifica por el art. único.61 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo cincuenta y cinco
+
+Artículo 55.
+Corresponde al Gobierno de Cantabria:
+a) Aprobar los reglamentos generales de sus propios tributos.
+b) Elaborar las normas reglamentarias precisas para gestionar los impuestos estatales cedidos de acuerdo con los términos de dicha cesión.
+Se modifica por el art. único.62 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Artículo cincuenta y seis
+
+Artículo 56.
+Corresponde al Gobierno la elaboración y aplicación del presupuesto de la Comunidad Autónoma de Cantabria y al Parlamento su examen, enmienda, aprobación y control.
+El presupuesto será único, tendrá carácter anual e incluirá la totalidad de los gastos e ingresos de la Comunidad Autónoma de Cantabria y de los organismos y entidades dependientes de la misma. Igualmente se consignará en él el importe de los beneficios fiscales que afecten a los tributos atribuidos a la Comunidad Autónoma de Cantabria.
+Si los presupuestos generales de la Comunidad Autónoma no fueran aprobados antes del primer día del ejercicio económico correspondiente, quedará automáticamente prorrogada la vigencia de los anteriores.
+Se modifica por el art. único.63 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## TÍTULO VI
+
+De la reforma
+
+### Artículo cincuenta y siete
+
+Artículo 57.
+1. La Comunidad Autónoma de Cantabria, de acuerdo con lo que establezcan las leyes del Estado, designará sus propios representantes en los organismos económicos, las instituciones financieras y las empresas públicas del Estado cuya competencia se extienda al territorio de Cantabria y que, por su naturaleza, no sean objeto de traspaso.
+2. La Comunidad Autónoma podrá elaborar y remitir al Gobierno del Estado cualesquiera informes, estudios o propuestas relativos a la gestión de las empresas públicas o su incidencia en la socioeconomía de la Comunidad Autónoma. Dichos informes, estudios o propuestas darán lugar a resoluciones motivadas del Gobierno o de los organismos o entidades titulares de la participación de las empresas.
+3. La Comunidad Autónoma de Cantabria podrá constituir empresas públicas como medio de ejecución de las funciones que sean de su competencia, según lo establecido en el presente Estatuto.
+4. La Comunidad Autónoma de Cantabria, como poder público, podrá hacer uso de las facultades previstas en el apartado 1 del artículo 130 de la Constitución, y podrá fomentar mediante acciones adecuadas, las sociedades cooperativas. Asimismo, de acuerdo con la legislación del Estado en la materia, podrá hacer uso de las demás facultades previstas en el apartado 2 del artículo 129 de la Constitución.
+5. La Comunidad Autónoma de Cantabria queda facultada para constituir instituciones que fomenten la ocupación y el desarrollo económico y social, en el marco de sus competencias.
+Se modifica por el art. único.64 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+## TÍTULO VI
+
+De la reforma
+
+### Artículo cincuenta y ocho
+
+Artículo 58.
+1. La reforma del Estatuto se ajustará al siguiente procedimiento:
+a) La iniciativa de la reforma corresponderá al Gobierno, al Parlamento a propuesta de un tercio de sus miembros, o a las Cortes Generales.
+b) La propuesta de reforma requerirá, en todo caso, la aprobación del Parlamento de Cantabria, por mayoría de dos tercios, y la aprobación de las Cortes Generales, mediante ley orgánica.
+2. Si la propuesta de reforma no es aprobada por el Parlamento de Cantabria o por las Cortes Generales, no podrá ser sometida nuevamente a debate o votación por el Parlamento hasta que haya transcurrido un año.
+Se modifica por el art. único.65 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Disposición adicional
+
+Disposición adicional.
+Uno. Se cede a la Comunidad Autónoma, en los términos previstos en el párrafo tres de esta disposición, el rendimiento de los siguientes tributos:
+a) Impuesto sobre el Patrimonio Neto.
+b) Impuesto sobre Transmisiones Patrimoniales.
+c) Impuesto sobre Sucesiones y Donaciones.
+d) Imposición General sobre ventas en su fase minorista.
+e) Los impuestos sobre consumos, específicos en su fase minoritaria, salvo los recaudados mediante monopolios fiscales.
+f) Impuesto sobre casinos, juegos y apuestas con exclusión de las apuestas mutuas deportivo-benéficas.
+La eventual supresión de algunos de estos impuestos implicará la extinción o modificación de la cesión.
+Dos. El contenido de esta disposición se podrá modificar mediante acuerdo del Gobierno con la Comunidad Autónoma que será tramitado por el Gobierno como proyecto de ley. A estos efectos, la modificación de la presente disposición no se considerará modificación del Estatuto.
+Tres. El alcance y condiciones de la cesión se establecerán por la Comisión Mixta a que se refiere el apartado uno de la disposición transitoria séptima que, en todo caso, las referirá a rendimientos en Cantabria.
+El Gobierno tramitará el acuerdo de la Comisión como proyecto de ley, en el plazo de seis meses a partir de la constitución del primer Consejo de Gobierno de Cantabria.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Se cede a la Comunidad Autónoma de Cantabria el rendimiento de los siguientes tributos:
+a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial, en el porcentaje del 50 por ciento.
+b) Impuesto sobre el Patrimonio.
+c) Impuesto sobre Sucesiones y Donaciones.
+d) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+e) Los Tributos sobre el Juego.
+f) El Impuesto sobre el Valor Añadido, con carácter parcial, en el porcentaje del 50 por ciento.
+g) El Impuesto Especial sobre la Cerveza, con carácter parcial, en el porcentaje del 58 por ciento.
+h) El Impuesto Especial sobre el Vino y Bebidas Fermentadas, con carácter parcial, en el porcentaje del 58 por ciento.
+i) El Impuesto Especial sobre Productos Intermedios, con carácter parcial, en el porcentaje del 58 por ciento.
+j) El Impuesto Especial sobre el Alcohol y Bebidas Derivadas, con carácter parcial, en el porcentaje del 58 por ciento.
+k) El Impuesto Especial sobre Hidrocarburos, con carácter parcial, en el porcentaje del 58 por ciento.
+l) El Impuesto Especial sobre las Labores del Tabaco, con carácter parcial, en el porcentaje del 58 por ciento.
+m) El Impuesto Especial sobre la Electricidad.
+n) El Impuesto Especial sobre Determinados Medios de Transporte.
+ñ) El Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
+La eventual supresión o modificación por el Estado de alguno de los tributos antes señalados implicará la extinción o modificación de la cesión.
+2. El contenido de esta disposición se podrá modificar mediante acuerdo del Gobierno con la Comunidad Autónoma que será tramitado por el Gobierno como proyecto de ley. A estos efectos, la modificación de la presente disposición no se considerará modificación del Estatuto.
+3. El alcance y condiciones de la cesión se establecerán por la Comisión Mixta a que se refiere el apartado uno de la disposición transitoria séptima que, en todo caso, las referirá a rendimientos en Cantabria.
+El Gobierno tramitará el acuerdo de la Comisión como proyecto de ley, en el plazo de seis meses a partir de la constitución del primer Consejo de Gobierno de Cantabria.
+Se modifica el apartado 1 por el art. 1 de la Ley 20/2010, de 16 de julio. Ref. BOE-A-2010-11414
+ Esta modificación surte efectos desde el 1 de enero de 2009, según establece la disposición final única.
+ Se modifica el apartado 1 por el art. 1 de la Ley 21/2002, de 1 de julio. Ref. BOE-A-2002-13000
+ Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+ Se numera por el art. único.66 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+ La anterior denominación era disposición adicional.
+ Se modifica el apartado 1 por el art. 1 de la Ley 29/1997, de 4 de agosto. Ref. BOE-A-1997-17579
+ Esta modificación surte efectos desde el 1 de enero de 1997, según establece la disposición final única.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. La Comunidad Autónoma de Cantabria velará para que, en los términos de los artículos 138 y 139 de la Constitución española, el Estado garantice la realización efectiva de los principios de igualdad y solidaridad y el equilibrio económico de las diversas Comunidades Autónomas, sin que las diferencias entre sus Estatutos y competencias puedan implicar, en ningún caso, privilegios económicos o sociales en perjuicio de Cantabria.
+2. Con el fin de garantizar el nivel mínimo en la prestación de servicios públicos fundamentales que la Comunidad Autónoma haya asumido, y siempre que se dé el supuesto previsto en la Ley Orgánica reguladora de la Financiación de las Comunidades Autónomas, la Hacienda de la Comunidad Autónoma recibirá con cargo a los Presupuestos Generales del Estado la asignación complementaria a la que se refiere el artículo 158, apartado 1, de la Constitución Española.
+3. La Comunidad Autónoma velará para que en la valoración del coste de los servicios transferidos o a transferir, en el cálculo de la participación anual de los ingresos del Estado, en la determinación de la asignación compensatoria a que se refiere el apartado anterior y en la de los demás instrumentos de solidaridad previstos en el artículo 158 de la Constitución española para la corrección de los desequilibrios tradicionales de Cantabria se ponderen adecuadamente, entre otros, los factores de dificultad orográfica y dispersión demográfica.
+4. La Comunidad Autónoma de Cantabria velará para que el traspaso de funciones y servicios de la gestión de la asistencia sanitaria de la Seguridad Social, incluida en el apartado 1 del artículo 26 del presente Estatuto, garantice la continuidad del hospital «Marqués de Valdecilla» como centro de referencia nacional, para que pueda mantener e incrementar en el futuro su alto nivel de actualización asistencial, docente, científica y tecnológica.
+Se añade por el art. único.67 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+La celebración de elecciones atenderá a lo que dispongan las Cortes Generales, con el fin exclusivo de coordinar el calendario de las diversas consultas electorales.
+Se añade por el art. único.68 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las primeras elecciones a la Asamblea Regional de Cantabria se realizarán entre el uno de febrero y el treinta y uno de mayo de mil novecientos ochenta y tres, por sufragio universal, igual, libre, directo secreto, de los mayores de dieciocho años, según el sistema D'Hont, en base a los siguientes criterios:
+a) La Asamblea constará de treinta y cinco miembros.
+b) No serán tenidas en cuenta aquellas listas que no hubiesen obtenido por lo menos el cinco por ciento de los votos válidos emitidos en toda la Comunidad Autónoma.
+La Junta Electoral Provincial tendrá, dentro de los límites de su jurisdicción, la totalidad de las competencias atribuidas a la Junta Central. Para los recursos que no tuvieran por objeto las impugnaciones de la validez de la elección y proclamación de los miembros electos, será competente la Sala de lo Contencioso-Administrativo de la Audiencia Territorial de Burgos. Contra las resoluciones de la misma no cabrá recurso alguno.
+En todo lo no previsto por la presente disposición transitoria serán de aplicación las normas vigentes para las elecciones legislativas al Congreso de los Diputados de las Cortes Generales.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Una vez proclamados los resultados electorales por la Junta Provincial y dentro de los veinticinco días siguientes a la celebración de las elecciones, se constituirá la Asamblea Regional de Cantabria, presidida por una Mesa de edad integrada por un Presidente y dos Secretarios y procederá a elegir la Mesa, que estará compuesta por un Presidente, dos Vicepresidentes y dos Secretarios. El Presidente será elegido de entre sus miembros por mayoría absoluta en primera votación y por mayoría simple en posterior. Los Vicepresidentes y Secretarios serán elegidos de entre sus miembros, en dos votaciones separadas, en las que cada elector incluirá un nombre para Vicepresidente en la primera y otro para Secretario en la segunda, siendo elegidos en cada una de ellas los dos candidatos que más votos obtengan.
+La presentación de las candidaturas para la elección de la Mesa corresponderá a los distintos grupos políticos representados en la Asamblea Regional.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+A la entrada en vigor del presente Estatuto, la Diputación Provincial de Santander quedará integrada en la Comunidad Autónoma en los términos de lo dispuesto en el artículo treinta y uno del presente Estatuto.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Uno. En tanto no se celebren las primeras elecciones a la Asamblea Regional, ésta quedará constituida provisionalmente por los Diputados a Cortes, los Senadores y los Diputados provinciales de la actual provincia de Santander.
+Dos. Una vez constituida la Asamblea Regional Provisional, las vacantes producidas por renuncia, fallecimiento o pérdida individual de la condición de Diputado a Cortes o Senador, se cubrirán por las personas que a estos efectos propongan los partidos políticos cuyos miembros hubiesen originado la vacante.
+En caso de disolución anticipada de las Cortes, los Diputados y Senadores elegidos en la provincia de Santander se entenderán prorrogados como miembros de la Asamblea Regional Provisional hasta la proclamación de los nuevos Diputados y Senadores que resulten elegidos en la misma.
+En el caso de vacantes que afecten a los Diputados provinciales, la sustitución se efectuará de acuerdo con la Ley de Elecciones Locales.
+Tres. Esta Asamblea Regional Provisional tendrá las siguientes competencias:
+a) El control de la actividad del Consejo de Gobierno.
+b) Elaborar y aprobar las normas de su régimen interior y organizar sus propios servicios.
+c) Las que se deriven de los traspasos de competencias de la Administración del Estado.
+d) En general las que corresponden a la Asamblea Regional atribuidas a la misma por el presente Estatuto, excepto el ejercicio de la potestad legislativa.
+Cuatro. La Mesa de la Asamblea Regional Provisional estará compuesta por el Presidente, dos Vicepresidentes y dos Secretarios, que serán elegidos en la forma prevista en la disposición transitoria segunda.
+Cinco. Dentro de los veinticinco días siguientes a la entrada en vigor de este Estatuto se procederá a la constitución de la Asamblea Regional de Cantabria con la composición prevista en el punto anterior, mediante convocatoria a sus miembros efectuada por el Presidente de la actual Diputación Provincial.
+En esta primera sesión constitutiva de la Asamblea Regional se procederá a la elección del Presidente y de la Mesa.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Para el período de la Asamblea Provisional, el Presidente de la Diputación Regional de Cantabria se elegirá también conforme al artículo dieciséis coma dos de este Estatuto, sin que sea de aplicación el último párrafo del punto dos del citado artículo en lo que a limitación de tiempo se refiere.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Uno. El Presidente de la Diputación Regional a que se refiere la disposición transitoria quinta, nombrará a los miembros del Consejo de Gobierno. Su composición y funciones se acomodarán a las competencias que haya de ejercer durante este período transitorio la Diputación Regional
+Dos. Corresponden a este Consejo de Gobierno las siguientes competencias:
+a) Las que le atribuye el presente Estatuto.
+b) Las que actualmente corresponden a la Diputación Provincial.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Uno. Con la finalidad de transferir a la Diputación Regional de Cantabria las funciones y atribuciones que le corresponden con arreglo al presente Estatuto, se creará una Comisión Mixta paritaria, integrada por representantes del Estado y de la Diputación Regional de Cantabria. Dicha Comisión Mixta establecerá sus normas de funcionamiento. Los miembros de la Comisión Mixta representantes de Cantabria darán cuenta periódicamente de su gestión ante la Asamblea Regional de Cantabria.
+Dos. Los acuerdos de la Comisión Mixta adoptarán la forma de propuesta al Gobierno, que los aprobarán mediante Real Decreto, figurando aquéllos como anejo al mismo y serán publicados simultáneamente en el «Boletín Oficial del Estado» y en el «Boletín Oficial de Cantabria», adquiriendo vigencia a través de esta publicación.
+Tres. Para preparar los traspasos y para verificarlos por bloques orgánicos de naturaleza homogénea, la Comisión Mixta de transferencias estará asistida por Comisiones sectoriales de ámbito nacional, agrupadas por materias, cuyo cometido fundamental será determinar con la representación de la Administración del Estado, los traspasos de medios personales, financieros y materiales que deba recibir la Comunidad Autónoma.
+Las Comisiones sectoriales trasladarán sus propuestas de acuerdo a la Comisión Mixta que las habrá de ratificar.
+Cuatro. Será título suficiente para la inscripción en el Registro de la Propiedad del traspaso de bienes inmuebles del Estado a la Comunidad Autónoma, la certificación por la Comisión Mixta de los acuerdos gubernamentales debidamente promulgados. Esta certificación deberá contener los requisitos exigidos por la Ley Hipotecaria.
+El cambio de titularidad en los contratos de arrendamiento de locales para oficinas públicas de los servicios que se transfieran no dará derecho al arrendador a exigir o renovar el contrato.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+Hasta tanto la Asamblea Regional no legisle sobre las materias de su competencia continuarán en vigor las actuales leyes y disposiciones del Estado que se refieren a dichas materias, sin perjuicio de que su desarrollo reglamentario y ejecución se lleve a cabo por la Diputación Regional de Cantabria en los supuestos previstos por este Estatuto.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+Uno. Los funcionarios adscritos a la Administración del Estado y a otras Administraciones públicas que resulten afectados por la entrada en vigor de este Estatuto y por los traspasos de competencias a la Comunidad Autónoma de Cantabria, pasarán a depender de ésta, siéndoles respetados todos los derechos de cualquier otra naturaleza que les correspondan en el momento del traspaso, de acuerdo con el régimen jurídico específico vigente, en cada caso, en dicho momento.
+Concretamente conservarán su situación administrativa, su nivel retributivo y su derecho a participar en los concursos de traslado que se convoquen por la Administración respectiva, en igualdad de condiciones que los restantes miembros del Cuerpo o escala al que pertenezcan, pudiendo ejercer su derecho permanente de opción de acuerdo con la legislación vigente respectiva.
+Dos. La Diputación Regional de Cantabria quedará subrogada en la titularidad de los contratos sometidos al derecho administrativo o al derecho laboral, que vinculen al personal de esta naturaleza y que resulten afectados por la entrada en vigor de este Estatuto y por los traspasos de competencias a la Comunidad Autónoma de Cantabria.
+Tres. Mientras la Comunidad Autónoma de Cantabria no apruebe el régimen jurídico de su personal, serán de aplicación las disposiciones del Estado y demás Administraciones públicas vigentes sobre la materia.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima.
+Uno. Hasta que se haya completado el traspaso de los servicios correspondientes a las competencias fijadas en la Comunidad Autónoma de Cantabria en este Estatuto, el Estado garantizará la financiación de los servicios transferidos a la Comunidad con una cantidad igual al coste efectivo del servicio en Cantabria, en el momento de la transferencia.
+Dos. Para garantizar la financiación de los servicios antes referidos, la Comisión Mixta prevista en la disposición transitoria séptima adoptará un método encaminado a fijar el porcentaje de participación previsto en el artículo cuarenta y ocho de este Estatuto.
+El método a seguir tendrá en cuenta tanto los costes directos como los indirectos de los servicios, así como los gastos de inversión que correspondan.
+Tres. Al fijar las transferencias para inversiones se tendrá en cuenta, en la forma progresiva que se acuerde, la conveniencia de equiparar los niveles de servicios en todo el territorio del Estado, estableciéndose en su caso las transferencias necesarias para el funcionamiento de los servicios.
+La financiación a que se refiere este apartado tendrá en cuenta las aportaciones que se realicen a Cantabria, partiendo del Fondo de Compensación a que se refiere el artículo ciento cincuenta y ocho de la Constitución, así como la acción inversora del Estado en Cantabria que no sea aplicación de dicho Fondo.
+Cuatro. La Comisión Mixta a que se refiere el apartado dos de este artículo fijará el citado porcentaje, mientras dure el período transitorio con una antelación mínima de un mes a la presentación de los Presupuestos Generales del Estado en las Cortes.
+Cinco. A partir del método fijado en el apartado dos, anterior, se establecerá un porcentaje, en el que se considerará el coste efectivo global de los servicios transferidos por el Estado a la Comunidad Autónoma, minorado por el total de la recaudación obtenida por la misma por los tributos cedidos, en relación con la suma de los ingresos obtenidos por el Estado en los capítulos I y II del último presupuesto anterior a la transferencia de los servicios valorados.
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima.
+Se cede a la Comunidad Autónoma, en los términos previstos en la disposición transitoria tercera de la Ley Orgánica de Financiación de las Comunidades Autónomas el Impuesto sobre el Lujo que se recaude en destino.
+
+### Disposición final
+
+Disposición final.
+Recogiendo el sentir mayoritariamente ya expresado por la Diputación y Ayuntamientos de la actual provincia de Santander, la promulgación de este Estatuto conllevará automáticamente el cambio de denominación de la provincia de Santander por provincia de Cantabria. El Gobierno dictará las disposiciones oportunas para que en el plazo de un año se haya dado cumplimiento a las consecuencias derivadas de esta disposición final.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+Baqueira Beret a treinta de diciembre de mil novecientos ochenta y uno.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+LEOPOLDO CALVO-SOTELO Y BUSTELO

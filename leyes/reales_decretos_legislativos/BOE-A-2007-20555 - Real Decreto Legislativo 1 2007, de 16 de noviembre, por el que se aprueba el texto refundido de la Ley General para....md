@@ -1,0 +1,2987 @@
+# Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias.
+
+- Identificador BOE: `BOE-A-2007-20555`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 2008. Ref. BOE-A-2008-2487
+
+## Preámbulo
+
+I
+Este real decreto legislativo cumple con la previsión recogida en la disposición final quinta de la Ley 44/2006, de 29 de diciembre, de mejora de la protección de los consumidores y usuarios, que habilita al Gobierno para que, en el plazo 12 meses, proceda a refundir en un único texto la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios y las normas de transposición de las directivas comunitarias dictadas en materia de protección de los consumidores y usuarios que inciden en los aspectos regulados en ella, regularizando, aclarando y armonizando los textos legales que tengan que ser refundidos.
+Para la identificación de las normas objeto de refundición se ha considerado el listado del anexo de la Directiva 98/27/CE del Parlamento Europeo y del Consejo, de 19 de mayo de 1998, relativa a las acciones de cesación en materia de protección de los intereses de los consumidores y usuarios, que identifica las disposiciones comunitarias dictadas en materia de protección de los consumidores y usuarios, y, en consecuencia, las normas de transposición respecto de las cuales debe examinarse la procedencia de su incorporación al texto refundido.
+Analizado el anexo de la citada directiva, se integran en el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias las normas de transposición de las directivas comunitarias que, dictadas en materia de protección de los consumidores y usuarios, inciden en los aspectos contractuales regulados en la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios, y que establecen el régimen jurídico de determinadas modalidades de contratación con los consumidores, a saber: los contratos celebrados a distancia y los celebrados fuera de establecimiento comercial.
+La regulación sobre garantías en la venta de bienes de consumo, constituye transposición de directiva comunitaria que incide en el ámbito de la garantía regulado por la Ley General para la Defensa de los Consumidores y Usuarios, procediéndose, igualmente a su refundición.
+Asimismo, se incorpora a la refundición la regulación sobre viajes combinados, por tratarse de una norma de transposición de directiva comunitaria que se integra en el acervo comunitario de protección de los consumidores y establece un régimen jurídico específico en la contratación con consumidores no afectado por las normas estatales sectoriales sobre turismo.
+Además, se incorpora al texto refundido la regulación sobre la responsabilidad civil por daños causados por productos defectuosos, norma de transposición de directiva comunitaria que incide en aspectos esenciales regulados en la Ley General de Defensa de los Consumidores y Usuarios, y que, como de manera unánime reconoce la doctrina y jurisprudencia requiere aclarar y armonizar sus respectivas regulaciones, al objeto de asegurar una adecuada integración entre ellas, superando aparentes antinomias.
+Otras normas de transposición de las directivas comunitarias citadas en el anexo de la Directiva 98/27/CE, sin embargo, instrumentan regímenes jurídicos muy diversos que regulan ámbitos sectoriales específicos alejados del núcleo básico de la protección de los consumidores y usuarios.
+Tal es el caso de las leyes que regulan los servicios de la sociedad de la información y el comercio electrónico, las normas sobre radiodifusión televisiva y la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios.
+La Ley 7/1995, de 23 de marzo, de crédito al consumo, aún cuando contiene una regulación específica de los contratos con consumidores, no se incorpora a la refundición en consideración a su incidencia específica, también, en el ámbito financiero. Tales circunstancias determinan que las prescripciones de la Ley de crédito al consumo se completen no sólo con las reglas generales contenidas en la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios, sino también con aquéllas propias reguladoras de los servicios financieros, en particular las referidas a las obligaciones de las entidades de crédito en relación con la información a los clientes, publicidad y transparencia de las operaciones. Por ello, se considera que se integra de manera más armónica la regulación sobre crédito al consumo en este grupo de disposiciones financieras. Coadyuva esta decisión la incorporación al ordenamiento jurídico interno, mediante Ley 22/2007, de 11 de julio, sobre comercialización a distancia de servicios financieros destinados a los consumidores, de la Directiva 2002/65/CE del Parlamento Europeo y del Consejo, de 23 de septiembre de 2002, relativa a la comercialización a distancia de servicios financieros destinados a los consumidores, y por la que se modifican la Directiva 90/619/CEE del Consejo y las Directivas 97/7/CE y 98/27/CE.
+El peculiar régimen de constitución de los derechos de aprovechamiento por turno de bienes inmuebles de uso turístico y el establecimiento de normas tributarias específicas en la Ley 42/1998, de 15 de diciembre, que transpuso al ordenamiento jurídico interno la Directiva 94/47/CE, del Parlamento Europeo y del Consejo, de 26 de octubre de 1994, desaconseja, asimismo, su inclusión en el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias dada su indudable incidencia también en los ámbitos registral y fiscal, ajenos al núcleo básico de protección de los consumidores.
+Tampoco es objeto de refundición la Ley 34/1998, de 11 de noviembre, General de Publicidad, ya que su ámbito subjetivo de aplicación incluye también las relaciones entre empresarios y su contenido está pendiente de revisión como consecuencia de la aprobación de la Directiva 2005/29/CE, del Parlamento Europeo y del Consejo, de 11 de mayo de 2005, relativa a las prácticas comerciales desleales de las empresas con los consumidores en el mercado interior, que debe ser incorporada a nuestro ordenamiento jurídico.
+Por último, las normas reglamentarias que transponen directivas dictadas en materia de protección a los consumidores y usuarios, tales como las relativas a indicación de precios, etiquetado, presentación y publicidad de productos alimenticios, etcétera, no se incorporan al texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, toda vez que, como ha declarado el Consejo de Estado, la delegación legislativa no autoriza a incorporar al texto refundido disposiciones reglamentarias, ni para degradar el rango de las disposiciones legales excluyéndolas de la refundición.
+En consecuencia, el cumplimiento del mandato contenido en la disposición final quinta de la Ley 44/2006, de 29 de diciembre, de mejora de la protección de los consumidores y usuarios, exige incorporar al texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios, la Ley 26/1991, de 21 de noviembre, sobre contratos celebrados fuera de los establecimientos mercantiles; la regulación dictada en materia de protección a los consumidores y usuarios en la Ley 47/2002, de 19 de diciembre, de reforma de la Ley de Ordenación del Comercio Minorista, para la transposición al ordenamiento jurídico español de la Directiva sobre contratos a distancia; la Ley 23/2003, de 10 de julio, de Garantías en la Venta de Bienes de Consumo, la Ley 22/1994, de 6 de julio, de responsabilidad civil por los daños causados por productos defectuosos y la Ley 21/1995, de 6 de julio, sobre viajes combinados.
+II
+El texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias se estructura en cuatro libros.
+El libro primero se divide en cinco títulos. El primero, relativo a las disposiciones generales, incorpora una delimitación del ámbito de aplicación de la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios y una lista de conceptos reiteradamente utilizados en ella, asegurando una mayor claridad en la redacción, evitando repeticiones innecesarias e integrando las lagunas que había identificado la doctrina. En este título se regulan, asimismo, los derechos de los consumidores y usuarios y la legislación básica sobre ellos.
+El título II de este libro primero contiene la regulación del derecho de representación, consulta y participación e incorpora el régimen jurídico básico de las asociaciones de consumidores y usuarios adoptado en la modificación normativa introducida por la Ley de mejora de la protección de los consumidores y usuarios.
+En el título III del libro primero se incorpora la regulación en materia de cooperación institucional, especialmente relevante en la protección de los consumidores y usuarios teniendo en cuenta las competencias en la materia de las comunidades autónomas y de las entidades locales. Se integra así en un título específico la regulación de la Conferencia Sectorial de Consumo incorporada en la Ley General para la Defensa de los Consumidores y Usuarios en la modificación realizada por la Ley de mejora de los consumidores y usuarios y las disposiciones específicas sobre cooperación institucional en materia de formación y control de la calidad.
+Se fundamentan, en consecuencia, las disposiciones de este título en el principio de cooperación, en relación con el cual el Tribunal Constitucional, entre otras en STC 13/2007, FJ 7, viene señalando que «las técnicas de cooperación y colaboración «son consustanciales a la estructura compuesta del Estado de las Autonomías» (STC 13/1992, de 6 de febrero, F.7; y en el mismo sentido SSTC 132/1996, de 22 de julio F.6 y 109/1998, de 21 de mayo, F.14) y que el principio de cooperación «que no necesita justificarse en preceptos constitucionales o estatutarios concretos» (STC 141/1993, de 22 de abril, F.6.ñ; y en el mismo sentido STC 194/2004, de 4 de noviembre, F.9) «debe presidir el ejercicio respectivo de competencias compartidas por el Estado y las comunidades autónomas (STC 13/1988, de 4 de febrero, F.2; en el mismo sentido, STC 102/1995, de 26 de junio, f. 31) (...)».
+La sentencia del Tribunal Constitucional 15/1989, de 26 de enero de 1989, y el régimen jurídico vigente, atendiendo a las competencias asumidas por las comunidades autónomas y las entidades locales en materia de protección de los consumidores y usuarios, ha exigido regularizar y aclarar muchas de las disposiciones contenidas en la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios, y ahora incorporadas al libro primero, títulos I y III.
+En particular, se circunscriben las obligaciones impuestas a los medios de comunicación, a la radio y televisión de titularidad estatal, insertándose tales obligaciones en el ámbito de la potestad de autoorganización de la Administración General del Estado.
+Igualmente, atendiendo a las competencias de las entidades locales en materia de defensa de los consumidores y usuarios y sin perjuicio de la participación de la asociación de entidades locales con mayor implantación en la Conferencia Sectorial de Consumo, conforme previene el artículo 5.8 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, se establece expresamente la cooperación institucional entre la Administración General del Estado y las entidades locales a través de la asociación con mayor implantación.
+El título IV contiene las disposiciones en materia de procedimiento sancionador e infracciones y sanciones.
+El título V, último del libro, articula el acceso a la justicia de los consumidores y, en particular, incorpora la regulación de las acciones de cesación frente a las conductas contrarias a la regulación contenida en el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias y el Sistema Arbitral de Consumo.
+En la regulación del Sistema Arbitral del Consumo contenida en el capítulo II de este título V, se incorporan las importantes modificaciones introducidas por la Ley de mejora de la protección de los consumidores y usuarios, en el régimen jurídico de este eficaz mecanismo de resolución extrajudicial de conflictos.
+Conforme a la regulación adoptada, los pactos de sumisión al arbitraje se conducen al momento en el que el consumidor puede evaluar correctamente el alcance de la decisión que, en la mayor parte de los casos, se ve obligado a adoptar, y que es aquél en el que surge la controversia. Se eleva con ello la protección del usuario ante fórmulas arbitrales no siempre lícitas y se garantiza la no renuncia previa a los derechos reconocidos legalmente. Esta regla se completa con la determinación de la nulidad de los pactos suscritos contraviniéndola, en aplicación de las previsiones de la propia Ley General para la Defensa de los Consumidores y Usuarios sobre la irrenunciabilidad de los derechos reconocidos por la ley al consumidor. La tipificación de su vulneración, como infracción de consumo, se deduce claramente de la letra k) del artículo 49.1 en el que se califica como tal el incumplimiento de los requisitos, obligaciones o prohibiciones establecidas en esta Ley y disposiciones que la desarrollen.
+Se incorpora al articulado, asimismo, las precisiones introducidas por la reiterada Ley 44/2006, de 29 de diciembre, sobre la determinación reglamentaria de los supuestos en que podrá interponerse reclamación ante la Junta Arbitral Nacional frente a las resoluciones de las juntas arbitrales territoriales sobre admisión e inadmisión de solicitudes de arbitraje y el establecimiento, asimismo, en la norma reglamentaria, de los supuestos en que actuará un árbitro único en la administración del arbitraje de consumo.
+El libro segundo, que regula relaciones jurídicas privadas, se estructura en cinco títulos. El título I, en el que se contienen las disposiciones generales de los contratos con los consumidores, siguiendo el régimen contenido en la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios y estableciendo, conforme a las previsiones de las normas que se incorporan al texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, el régimen común del derecho de desistimiento en aquellos contratos en los que se prevé tal derecho.
+Se incorporan en este título las disposiciones introducidas por la Ley de mejora de la protección de los consumidores, en materia de contratos con los consumidores.
+Esta ley, para evitar la imposición a los consumidores de obstáculos onerosos o desproporcionados para el ejercicio de los derechos reconocidos en el contrato y en coherencia con lo previsto en la Directiva 2005/29/CEE del Parlamento Europeo y del Consejo, de 11 de mayo de 2005, sobre prácticas comerciales desleales, que prohíbe los obstáculos no contractuales para el ejercicio de tales derechos, y en tal sentido deberá ser transpuesta a nuestro ordenamiento jurídico, prohíbe las cláusulas contractuales que establezcan estas limitaciones y, en particular, la imposición de plazos de duración excesiva o las limitaciones que excluyan u obstaculicen el derecho del consumidor a poner fin al contrato.
+En los contratos de prestación de servicios o suministro de bienes de tracto sucesivo o continuado, se han observado prácticas obstruccionistas al derecho del consumidor a ponerles fin. Para evitarlas, se introducen reformas para que quede claramente establecido, tanto en la fase previa de información como en la efectiva formalización contractual, el procedimiento mediante el cual el consumidor puede ejercitar este derecho y se asegura que pueda ejercitarlo en la misma forma en que contrató, sin sanciones o cargas.
+Estas reglas se completan con dos previsiones. De un lado, la integración del contrato conforme a la buena fe objetiva, según las reglas de interpretación e integración del Código Civil y las exigencias de la leal competencia. Se refuerza así la posición contractual del consumidor y se establece con claridad en la norma la interpretación que del artículo 1258 del Código Civil mantenían la doctrina y jurisprudencia más avanzada.
+De otro lado, estableciendo la necesidad de que la información precontractual obligatoria se facilite al consumidor de forma gratuita, sin costes adicionales. Esta previsión tiene por objeto evitar prácticas lesivas, conforme a las cuales el cumplimiento de las obligaciones legales de los empresarios no sólo suponen costes adicionales a los consumidores, sino una retribución adicional al operador, mediante la utilización de las nuevas tecnologías. Nuevas tecnologías que, por otra parte, permiten la prestación gratuita de la información mínima exigible, conforme ya está previsto en algunos ámbitos de la actividad económica.
+El título II establece el régimen jurídico en materia de cláusulas contractuales no negociadas individualmente y cláusulas abusivas, conforme a las previsiones contenidas en la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios.
+Es en este título en el que quedan incorporadas las modificaciones introducidas por la Ley de mejora en materia de cláusulas y prácticas abusivas. Tal es el caso del fortalecimiento de la protección del consumidor adquirente de vivienda cuando se precisa el carácter abusivo de las cláusulas que le trasladen gastos que corresponden al profesional, como los impuestos en los que el sujeto pasivo es el vendedor, o los gastos de las conexiones a los suministros generales de la vivienda, con el fin de evitar cláusulas no negociadas que trasladan dichos gastos al consumidor.
+Se incorporan, asimismo, las previsiones tendentes a dar mayor claridad en las modalidades de cálculo del precio de los contratos, evitando la facturación de servicios no prestados efectivamente.
+En materia contractual, asimismo, se clarifica la equiparación entre las estipulaciones contractuales no negociadas y las prácticas no consentidas expresamente con idénticos efectos para los usuarios y en el ámbito sancionador.
+Los títulos III y IV se destinan, respectivamente, a regular los contratos con consumidores celebrados a distancia y fuera de los establecimientos mercantiles.
+Se incorporan así al texto refundido las disposiciones destinadas a regular las relaciones jurídicas con los consumidores en los contratos a distancia de bienes y servicios contenidas en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, modificada por la Ley 47/2002, de 19 de diciembre, de reforma de la Ley 7/1996, de Ordenación del Comercio Minorista, para la transposición al ordenamiento jurídico español de la Directiva 97/7/CE, en materia de contratos a distancia y para la adaptación de la Ley a diversas directivas comunitarias.
+Como consecuencia de esta refundición la regulación sobre contratos a distancia contenida en la Ley 7/1996, de 15 de enero, queda vigente para la regulación de las relaciones empresariales.
+Igualmente se incorpora al texto refundido la regulación contenida en la Ley 26/1991, de 21 de noviembre, sobre contratos celebrados fuera de los establecimientos mercantiles.
+El título V, último del libro segundo, regula el régimen de garantías y servicios posventa, integrando armónicamente el régimen de garantías previsto en la Ley General para la Defensa de los Consumidores y Usuarios y la regulación contenida en la Ley 23/2003, de 10 de julio, de Garantías en la Venta de Bienes de Consumo.
+El libro tercero armoniza el régimen de responsabilidad civil por daños causados por productos defectuosos, previsto en la Ley 22/1994, de 6 de julio, y las disposiciones sobre responsabilidad contenidas en el capítulo VIII de la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios.
+Este libro se divide en tres títulos. El título I en el que se contienen las disposiciones comunes en materia de responsabilidad por daños causados por bienes y servicios defectuosos, el título II en el que se regula la responsabilidad civil causada por productos defectuosos y el título III en el que se regula la responsabilidad causada por el resto de los bienes y servicios.
+En el libro cuarto, por último, se incorpora la regulación específica sobre viajes combinados. Este libro de divide en dos títulos, el primero sobre disposiciones generales y el segundo sobre resolución del contrato y responsabilidades.
+Las tres disposiciones transitorias del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias garantizan que no se altere el régimen transitorio respecto de la garantía comercial, mantienen el régimen transitorio en los bienes que han de ser considerados como bienes de naturaleza duradera y determinan la inaplicabilidad de la Ley 22/1994, de 6 de julio, a los productos que aún pudiera haber en nuestro mercado, puestos en circulación con anterioridad al 8 de julio de 1994.
+En tres disposiciones finales se mantiene la habilitación al Gobierno para modificar las cuantías establecidas en el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias y para el desarrollo reglamentario de lo dispuesto en la ley, manteniendo la aplicabilidad del régimen reglamentario en materia de infracciones y sanciones en los términos previstos en la Ley General para la Defensa de los Consumidores y Usuarios.
+La atribución al Gobierno, en la disposición final segunda, de facultades de desarrollo reglamentario en el ámbito de sus competencias incluye las materias sobre las que el Estado tiene competencias exclusivas y excepcionalmente, en relación con las normas enumeradas en el apartado 2 de la disposición final primera del real decreto legislativo, en aquéllos supuestos en los conforme a la doctrina constitucional, y con el carácter de excepcionalidad proclamado por el Tribunal Constitucional, se justifica el recurso al reglamento para establecer normas básicas.
+Conforme a esta doctrina, la invocación de esta «dispensa excepcional» de la suficiencia de rango normativo de las bases (STC 69/1988, 194/2004) sólo esta justificada en determinados supuestos. Así, «cuando resulta complemento indispensable para asegurar el mínimo común denominador establecido en las normas básicas» (entre otras SSTC 25/1983, 32/1983 y 48/1988); o «cuando, por la naturaleza de la materia, resultan complemento necesario para garantizar la consecución de la finalidad objetiva a que responde la competencia estatal sobre las bases» o, por último, cuando la ley formal no es el instrumento idóneo para regular exhaustivamente todos los aspectos básicos de la materia debido al «carácter marcadamente técnico o a la naturaleza coyuntural y cambiante» de los mismos» (STC 131/1996).
+De este modo, siendo constitucionalmente admisible reconocer al Gobierno la potestad de complementar las normas básicas con disposiciones reglamentarias, tal posibilidad queda circunscrita a los supuestos en que tal facultad es constitucionalmente admisible conforme a la doctrina del Tribunal Constitucional.
+III
+El texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias pretende, asimismo, aproximar la legislación nacional en materia de protección de los consumidores y usuarios a la legislación comunitaria, también en la terminología utilizada. Se opta por ello por la utilización de los términos consumidor y usuario y empresario.
+Así, el concepto de consumidor y usuario se adapta a la terminología comunitaria, pero respeta las peculiaridades de nuestro ordenamiento jurídico en relación con las «personas jurídicas».
+El consumidor y usuario, definido en la ley, es la persona física o jurídica que actúa en un ámbito ajeno a una actividad empresarial o profesional. Esto es, que interviene en las relaciones de consumo con fines privados, contratando bienes y servicios como destinatario final, sin incorporarlos, ni directa, ni indirectamente, en procesos de producción, comercialización o prestación a terceros.
+Se incorporan, asimismo, las definiciones de empresario, productor, producto y proveedor, al objeto de unificar la terminología utilizada en el texto. Las definiciones de empresario, productor y producto son las contenidas en las normas que se refunden. El concepto de proveedor es el de cualquier empresario que suministra o distribuye productos en el mercado, distinguiéndose del vendedor, que, aunque no se define, por remisión a la legislación civil es quien interviene en un contrato de compraventa, en el caso de esta ley, actuando en el marco de su actividad empresarial.
+Por otra parte, las referencias a las Administraciones públicas competentes o la inclusión en el texto refundido de normas sobre contratos cuyo control administrativo está atribuido a administraciones sectoriales distintas de las competentes en materia de consumo, no tiene efectos de atribución o modificación de las competencias administrativas atribuidas por la normativa estatal o autonómica que resulte de aplicación.
+El texto refundido no prejuzga cuáles sean las Administraciones públicas competentes en relación con las materias contenidas en él, consciente de que la protección de los consumidores es una materia pluridisciplinar en la que concurren diversas Administraciones. Las Administraciones públicas competentes serán, en cada caso, las que tengan atribuida tal competencia por razón de la materia con pleno respeto a la autonomía organizativa de las distintas Administraciones involucradas, en particular en las materias relacionadas con la salud y el turismo.
+IV
+En la tramitación del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, se ha dado audiencia al Consejo de Consumidores y Usuarios y a las organizaciones empresariales más representativas y se ha contado con el parecer de las comunidades autónomas, de la Federación Española de Municipios y Provincias y del Consejo Económico y Social.
+En su virtud, a propuesta de los Ministros de Sanidad y Consumo y de Justicia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 16 de noviembre de 2007,
+D I S P O N G O :
+Redactado conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 2008. Ref. BOE-A-2008-2487
+
+### Artículo único
+
+Artículo único. Aprobación del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias.
+Se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, al que se incorpora lo dispuesto en la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios, y la regulación sobre contratos con los consumidores o usuarios celebrados fuera de los establecimientos mercantiles y a distancia; las disposiciones sobre garantías en la venta de bienes de consumo; la regulación sobre responsabilidad civil por los daños causados por productos defectuosos y la regulación sobre viajes combinados.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Se derogan las siguientes disposiciones:
+1. Los artículos 48 y 65.1, letras n) y ñ) y la disposición adicional primera de la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista. Igualmente se derogan en la disposición final única de la Ley 7/1996, de 15 de enero, las menciones que se realizan al artículo 48 y la disposición adicional primera en su párrafo primero e íntegramente su último párrafo.
+2. La Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios.
+3. Ley 26/1991, de 21 de noviembre, sobre contratos celebrados fuera de los establecimientos mercantiles.
+4. Ley 22/1994, de 6 de julio, de responsabilidad civil por los daños causados por productos defectuosos.
+5. Ley 21/1995, de 6 de julio, reguladora de los viajes combinados
+6. Ley 23/2003, de 10 de julio, de Garantías en la Venta de Bienes de Consumo
+
+### Disposición final primera
+
+Disposición final primera. Título competencial.
+1. El capítulo I del título I del libro primero, en el que se define su ámbito de aplicación y el artículo 10, tienen carácter básico en relación con los preceptos del apartado 2 de esta disposición y se dictan en el uso de competencias exclusivas del Estado en relación con las disposiciones del apartado 3.
+2. Los artículos 8, 9, 17.1 y 3, 18, 23. 1 y 3, 25 y 26; los capítulos III y V del título I del libro primero y el título IV del libro primero tienen carácter básico al dictarse al amparo de las competencias que corresponden al Estado en el artículo 149.1.1.ª, 13.ª, 16.ª y 18.ª de la Constitución Española.
+3. El artículo 24 y el título V del libro primero, los libros segundo, tercero y cuarto, las disposiciones transitorias y las disposiciones finales se dictan en base a las competencias exclusivas que corresponden al Estado en materia de legislación mercantil, procesal y civil, conforme al artículo 149.1. 6.ª y 8.ª de la Constitución española.
+4. El resto de los preceptos del título II del libro primero serán de aplicación a las asociaciones de consumidores y usuarios de competencia estatal.
+Se modifica el apartado 2 por la disposición final 2 de la Ley 23/2022, de 2 de noviembre de 2022. Ref. BOE-A-2022-18037#df-2
+ Se modifica el apartado 2 por el art. 2 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Se modifica el apartado 2 por el art. 83 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica el apartado 2 por el art. 2 del Real Decreto-ley 1/2021, de 19 de enero. Ref. BOE-A-2021-793#as
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+El presente real decreto legislativo y el texto refundido que aprueba entrarán en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 16 de noviembre de 2007.
+JUAN CARLOS R.
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
+
+## TEXTO
+
+Texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias
+
+## LIBRO PRIMERO
+
+Disposiciones generales
+
+## TÍTULO I
+
+Ámbito de aplicación y derechos básicos de los consumidores y usuarios
+
+## CAPÍTULO I
+
+Ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Principios generales.
+En desarrollo del artículo 51.1 y 2 de la Constitución que, de acuerdo con el artículo 53.3 de la misma, tiene el carácter de principio informador del ordenamiento jurídico, esta norma tiene por objeto establecer el régimen jurídico de protección de los consumidores y usuarios en el ámbito de las competencias del Estado.
+En todo caso, la defensa de los consumidores y usuarios se hará en el marco del sistema económico diseñado en los artículos38 y 128 de la Constitución y con sujeción a lo establecido en el artículo 139.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+Está norma será de aplicación a las relaciones entre consumidores o usuarios y empresarios.
+
+### Artículo 3
+
+Artículo 3. Conceptos de consumidor y usuario y de persona consumidora vulnerable.
+1. A efectos de esta ley, y sin perjuicio de lo dispuesto expresamente en sus libros tercero y cuarto, son consumidores o usuarios las personas físicas que actúen con un propósito ajeno a su actividad comercial, empresarial, oficio o profesión.
+Son también consumidores a efectos de esta norma las personas jurídicas y las entidades sin personalidad jurídica que actúen sin ánimo de lucro en un ámbito ajeno a una actividad comercial o empresarial.
+2. Asimismo, a los efectos de esta ley y sin perjuicio de la normativa sectorial que en cada caso resulte de aplicación, tienen la consideración de personas consumidoras vulnerables respecto de relaciones concretas de consumo, aquellas personas físicas que, de forma individual o colectiva, por sus características, necesidades o circunstancias personales, económicas, educativas o sociales, se encuentran, aunque sea territorial, sectorial o temporalmente, en una especial situación de subordinación, indefensión o desprotección que les impide el ejercicio de sus derechos como personas consumidoras en condiciones de igualdad.
+Se modifica por el art. 1.1 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Se modifica por el art. 1.1 del Real Decreto-ley 1/2021, de 19 de enero. Ref. BOE-A-2021-793#ap
+ Se modifica por el art. único.1 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 4
+
+Artículo 4. Concepto de empresario.
+A efectos de lo dispuesto en esta norma, se considera empresario a toda persona física o jurídica, ya sea privada o pública, que actúe directamente o a través de otra persona en su nombre o siguiendo sus instrucciones, con un propósito relacionado con su actividad comercial, empresarial, oficio o profesión.
+Se modifica por el art. único.2 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 5
+
+Artículo 5. Concepto de productor.
+Sin perjuicio de lo dispuesto en el artículo 138, a efectos de lo dispuesto en esta norma se considera productor al fabricante del bien o al prestador del servicio o su intermediario, o al importador del bien o servicio en el territorio de la Unión Europea, así como a cualquier persona que se presente como tal al indicar en el bien, ya sea en el envase, el envoltorio o cualquier otro elemento de protección o presentación, o servicio su nombre, marca u otro signo distintivo.
+
+### Artículo 6
+
+Artículo 6. Concepto de producto.
+Sin perjuicio de lo establecido en el artículo 136, a los efectos de esta norma, es producto todo bien mueble conforme a lo previsto en el artículo 335 del Código Civil.
+
+### Artículo 7
+
+Artículo 7. Concepto de proveedor.
+A efectos de esta norma es proveedor el empresario que suministra o distribuye productos en el mercado, cualquiera que sea el título o contrato en virtud del cual realice dicha distribución.
+
+## CAPÍTULO II
+
+Derechos básicos de los consumidores y usuarios
+
+### Artículo 8
+
+Artículo 8. Derechos básicos de los consumidores y usuarios.
+1. Son derechos básicos de los consumidores y usuarios y de las personas consumidoras vulnerables:
+a) La protección contra los riesgos que puedan afectar su salud o seguridad.
+b) La protección de sus legítimos intereses económicos y sociales; en particular frente a las prácticas comerciales desleales y la inclusión de cláusulas abusivas en los contratos.
+c) La indemnización de los daños y la reparación de los perjuicios sufridos.
+d) La información correcta sobre los diferentes bienes o servicios en formatos que garanticen su accesibilidad y la educación y divulgación para facilitar el conocimiento sobre su adecuado uso, consumo o disfrute, así como la toma de decisiones óptimas para sus intereses.
+e) La audiencia en consulta, la participación en el procedimiento de elaboración de las disposiciones generales que les afectan directamente y la representación de sus intereses, a través de las asociaciones, agrupaciones, federaciones o confederaciones de consumidores y usuarios legalmente constituidas.
+f) La protección de sus derechos mediante procedimientos eficaces, en especial en relación con las personas consumidoras vulnerables.
+2. Los derechos de las personas consumidoras vulnerables gozarán de una especial atención, que será recogida reglamentariamente y por la normativa sectorial que resulte de aplicación en cada caso. Los poderes públicos promocionarán políticas y actuaciones tendentes a garantizar sus derechos en condiciones de igualdad, con arreglo a la concreta situación de vulnerabilidad en la que se encuentren, tratando de evitar, en cualquier caso, trámites que puedan dificultar el ejercicio de los mismos.
+Se modifica por el art. 1.2 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Se modifica por el art. 1.2 del Real Decreto-ley 1/2021, de 19 de enero. Ref. BOE-A-2021-793#ap
+ Se modifica el párrafo b) por el art. 3.1 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 9
+
+Artículo 9. Bienes y servicios de uso común.
+Los poderes públicos protegerán prioritariamente los derechos de los consumidores y usuarios cuando guarden relación directa con bienes o servicios de uso o consumo común, ordinario y generalizado.
+
+### Artículo 10
+
+Artículo 10. Irrenunciabilidad de los derechos reconocidos al consumidor y usuario.
+La renuncia previa a los derechos que esta norma reconoce a los consumidores y usuarios es nula, siendo, asimismo, nulos los actos realizados en fraude de ley de conformidad con lo previsto en el artículo 6 del Código Civil.
+
+## CAPÍTULO III
+
+Protección de la salud y seguridad
+
+### Artículo 11
+
+Artículo 11. Deber general de seguridad.
+1. Los bienes o servicios puestos en el mercado deben ser seguros.
+2. Se consideran seguros los bienes o servicios que, en condiciones de uso normales o razonablemente previsibles, incluida su duración, no presenten riesgo alguno para la salud o seguridad de las personas, o únicamente los riesgos mínimos compatibles con el uso del bien o servicio y considerados admisibles dentro de un nivel elevado de protección de la salud y seguridad de las personas.
+
+### Artículo 12
+
+Artículo 12. Información a los consumidores y usuarios sobre los riesgos de los bienes o servicios.
+1. Los empresarios pondrán en conocimiento previo del consumidor y usuario, por medios apropiados, los riesgos susceptibles de provenir de una utilización previsible de los bienes y servicios, habida cuenta de su naturaleza, características, duración y de las personas a las que van destinados, conforme a lo previsto en el artículo 18 y normas reglamentarias que resulten de aplicación.
+2. Los productos químicos y todos los artículos que en su composición lleven sustancias clasificadas como peligrosas deberán ir envasados con las debidas garantías de seguridad y llevar de forma visible las oportunas indicaciones que adviertan el riesgo de su manipulación.
+
+### Artículo 13
+
+Artículo 13. Otras obligaciones específicas para la protección de la salud y seguridad de los consumidores y usuarios.
+Cualquier empresario que intervenga en la puesta a disposición de bienes y servicios a los consumidores y usuarios estará obligado, dentro de los límites de su actividad respectiva, a respetar las siguientes reglas:
+a) La prohibición de tener o almacenar productos reglamentariamente no permitidos o prohibidos, en los locales o instalaciones de producción, transformación, almacenamiento o transporte de alimentos o bebidas.
+b) El mantenimiento del necesario control de forma que pueda comprobarse con rapidez y eficacia el origen, distribución, destino y utilización de los bienes potencialmente inseguros, los que contengan sustancias clasificadas como peligrosas o los sujetos a obligaciones de trazabilidad.
+c) La prohibición de venta a domicilio de bebidas y alimentos, sin perjuicio del reparto, distribución o suministro de los adquiridos o encargados por los consumidores y usuarios en establecimientos comerciales autorizados para venta al público, y del régimen de autorización de ventas directas a domicilio que vengan siendo tradicionalmente practicadas en determinadas zonas del territorio nacional.
+d) El cumplimiento de la normativa que establezcan las entidades locales o, en su caso, las comunidades autónomas sobre los casos, modalidades y condiciones en que podrá efectuarse la venta ambulante de bebidas y alimentos.
+e) La prohibición de suministro de bienes que carezcan de las marcas de seguridad obligatoria o de los datos mínimos que permitan identificar al responsable del bien.
+f) La obligación de retirar, suspender o recuperar de los consumidores y usuarios, mediante procedimientos eficaces, cualquier bien o servicio que no se ajuste a las condiciones y requisitos exigidos o que, por cualquier otra causa, suponga un riesgo previsible para la salud o seguridad de las personas.
+g) La prohibición de importar productos que no cumplan lo establecido en esta norma y disposiciones que la desarrollen.
+h) Las exigencias de control de los productos manufacturados susceptibles de afectar a la seguridad física de las personas, prestando a este respecto la debida atención a los servicios de reparación y mantenimiento.
+i) La prohibición de utilizar ingredientes, materiales y demás elementos susceptibles de generar riesgos para la salud y seguridad de las personas. En particular, la prohibición de utilizar tales materiales o elementos en la construcción de viviendas y locales de uso público.
+
+### Artículo 14
+
+Artículo 14. Reglamentos de bienes y servicios.
+1. Los reglamentos reguladores de los diferentes bienes y servicios determinarán, en la medida que sea preciso para asegurar la salud y seguridad de los consumidores y usuarios:
+a) Los conceptos, definiciones, naturaleza, características y clasificaciones.
+b) Las condiciones y requisitos de las instalaciones y del personal cualificado que deba atenderlas.
+c) Los procedimientos o tratamientos usuales de fabricación, distribución y comercialización, permitidos, prohibidos o sujetos a autorización previa.
+d) Las reglas específicas sobre etiquetado, presentación y publicidad.
+e) Los requisitos esenciales de seguridad, incluidos los relativos a composición y calidad.
+f) Los métodos oficiales de análisis, toma de muestras, control de calidad e inspección.
+g) Las garantías, responsabilidades, infracciones y sanciones.
+h) El régimen de autorización, registro y revisión.
+2. Para asegurar la protección de la salud y seguridad de los consumidores y usuarios las Administraciones públicas competentes podrán establecer reglamentariamente medidas proporcionadas en cualquiera de las fases de producción y comercialización de bienes y servicios, en particular en lo relativo a su control, vigilancia e inspección.
+
+### Artículo 15
+
+Artículo 15. Actuaciones administrativas.
+1. Ante situaciones de riesgo para la salud y seguridad de los consumidores y usuarios, las Administraciones públicas competentes podrán adoptar las medidas que resulten necesarias y proporcionadas para la desaparición del riesgo, incluida la intervención directa sobre las cosas y la compulsión directa sobre las personas. En estos supuestos, todos los gastos que se generen serán a cargo de quien con su conducta los hubiera originado, con independencia de las sanciones que, en su caso, puedan imponerse. La exacción de tales gastos y sanciones podrá llevarse a cabo por el procedimiento administrativo de apremio.
+2. Las Administraciones públicas, atendiendo a la naturaleza y gravedad de los riesgos detectados, podrán informar a los consumidores y usuarios afectados por los medios más apropiados en cada caso sobre los riesgos o irregularidades existentes, el bien o servicio afectado y, en su caso, las medidas adoptadas, así como de las precauciones procedentes, tanto para protegerse del riesgo, como para conseguir su colaboración en la eliminación de sus causas.
+3. Los responsables de la coordinación de los sistemas estatales de intercambio de información integrados en los sistemas europeos de alertas, trasladarán las comunicaciones que reciban a las autoridades aduaneras cuando, conforme a la información facilitada en las comunicaciones, los productos o servicios alertados procedan de terceros países.
+
+### Artículo 16
+
+Artículo 16. Medidas extraordinarias ante situaciones de urgencia y necesidad.
+Con carácter excepcional, ante situaciones de extrema gravedad que determinen una agresión indiscriminada a la salud y seguridad de los consumidores y usuarios en más de una comunidad autónoma, el Gobierno podrá constituir durante el tiempo imprescindible para hacer cesar la situación, un órgano en el que se integraran y participaran activamente las comunidades autónomas afectadas, que asumirá, las facultades administrativas que se le encomienden para garantizar la salud y seguridad de las personas, sus intereses económicos y sociales, la reparación de los daños sufridos, la exigencia de responsabilidades y la publicación de los resultados.
+
+## CAPÍTULO IV
+
+Derecho a la información, formación y educación
+
+### Artículo 17
+
+Artículo 17. Información, formación y educación de los consumidores y usuarios.
+1. Los poderes públicos, en el ámbito de sus respectivas competencias, fomentarán la formación y educación de los consumidores y usuarios, asegurarán que estos dispongan de la información precisa para el eficaz ejercicio de sus derechos y velarán para que se les preste la información comprensible sobre el adecuado uso y consumo de los bienes y servicios puestos a su disposición en el mercado.
+2. Los medios de comunicación social de titularidad pública estatal dedicarán espacios y programas, no publicitarios, a la información y educación de los consumidores y usuarios. En tales espacios y programas, de acuerdo con su contenido y finalidad, se facilitará el acceso o participación de las asociaciones de consumidores y usuarios representativas y los demás grupos o sectores interesados, en la forma que se acuerde con dichos medios.
+3. En el cumplimiento de lo dispuesto en los apartados anteriores, se prestará especial atención a aquellos sectores que, debido a su complejidad o características propias, cuenten con mayor proporción de personas consumidoras vulnerables entre sus clientes o usuarios, atendiendo de forma precisa a las circunstancias que generan la situación de concreta vulnerabilidad.
+Se añade el apartado 3 por el art. 1.3 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Téngase en cuenta que este apartado ya fue añadido por el Real Decreto-ley 1/2021, de 19 de enero.
+ Se añade el apartado 3 por el art. 1.3 del Real Decreto-ley 1/2021, de 19 de enero. Ref. BOE-A-2021-793#ap
+
+### Artículo 18
+
+Artículo 18. Etiquetado y presentación de los bienes y servicios.
+1. El etiquetado y presentación de los bienes y servicios y las modalidades de realizarlo deberán ser de tal naturaleza que no induzca a error al consumidor y usuario, especialmente:
+a) Sobre las características del bien o servicio y, en particular, sobre su naturaleza, identidad, cualidades, composición, cantidad, duración, origen o procedencia y modo de fabricación o de obtención.
+b) Prohibiendo ambigüedades sobre su contenido, y en especial respecto a los alérgenos alimentarios, debiendo ser el etiquetado claro y riguroso en la información exacta del contenido.
+c) Atribuyendo al bien o servicio efectos o propiedades que no posea.
+d) Sugiriendo que el bien o servicio posee características particulares, cuando todos los bienes o servicios similares posean estas mismas características.
+2. Sin perjuicio de las exigencias concretas que se establezcan reglamentariamente y de la normativa sectorial que en cada caso resulte de aplicación, que prestarán especial atención a las personas consumidoras vulnerables, todos los bienes y servicios puestos a disposición de los consumidores y usuarios deberán ser de fácil acceso y comprensión, ofrecidos en formatos que garanticen su accesibilidad y, en todo caso, incorporar, acompañar o, en último caso, permitir obtener, de forma clara y comprensible, información veraz, eficaz, suficiente y accesible sobre sus características esenciales, en particular sobre las siguientes:
+a) Nombre y dirección completa del productor.
+b) Naturaleza, composición y finalidad.
+c) Calidad, cantidad, categoría o denominación usual o comercial, si la tienen.
+d) Fecha de producción o suministro y lote, cuando sea exigible reglamentariamente, plazo recomendado para el uso o consumo o fecha de caducidad.
+e) Instrucciones o indicaciones para su correcto uso o consumo, así como la correcta gestión sostenible de sus residuos, advertencias y riesgos previsibles.
+f) Información sobre los servicios de información y atención al cliente así como los procedimientos de interposición de quejas y reclamaciones.
+3. Sin perjuicio de las excepciones previstas legal o reglamentariamente, las indicaciones obligatorias del etiquetado y presentación de los bienes o servicios comercializados en España deberán figurar, al menos, en castellano, lengua española oficial del Estado.
+Se modifican los apartados 1 y 2 por el art. 1.4 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Se modifica el apartado 2 por el art. 1.4 del Real Decreto-ley 1/2021, de 19 de enero. Ref. BOE-A-2021-793#ap
+ Se suprime el apartado 4 por el art. 3.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+## CAPÍTULO V
+
+Protección de los legítimos intereses económicos de los consumidores y usuarios
+
+### Artículo 19
+
+Artículo 19. Principio general y prácticas comerciales.
+1. Los legítimos intereses económicos y sociales de los consumidores y usuarios deberán ser respetados en los términos establecidos en esta norma, aplicándose, además, lo previsto en las normas civiles y mercantiles, en las regulaciones sectoriales de ámbito estatal, así como en la normativa comunitaria y autonómica que resulten de aplicación. En particular, en los procedimientos en que se ejerciten acciones promovidas por consumidores y usuarios, cuando el empresario no contribuyera a una solución consensuada de una controversia que tuviera su base en una cláusula de idéntica significación que otra ya declarada nula por abusiva por la jurisprudencia del Tribunal Supremo, o por sentencia firme que constara inscrita en el Registro de Condiciones Generales de la Contratación, o por sentencia del Tribunal de Justicia de la Unión Europea resolviendo específicamente sobre la materia, el órgano judicial que condene a la restitución de cantidades al empresario impondrá de oficio una indemnización por mora que consistirá en el pago de un interés anual igual al del interés legal del dinero vigente en el momento en que se devengue, incrementado en el 50 por 100. Estos intereses se considerarán producidos por días. A los efectos de este párrafo se entiende que una cláusula tiene idéntica significación a otra cuando su contenido y efectos sean iguales, pese a la existencia de diferencias no sustanciales en la redacción de las mismas. No obstante, transcurridos dos años desde la condena a la restitución de cantidades, el interés anual no podrá ser inferior al 20 por 100.
+Será término inicial del cómputo de dichos intereses la fecha del abono por los consumidores y usuarios de las cantidades que deban ser restituidas por el empresario. Será término final del cómputo de intereses el día de la total restitución de la cantidad debida por el empresario.
+No habrá lugar a la indemnización por mora del empresario cuando la falta de restitución debida por el empresario a los consumidores y usuarios esté fundada en una causa justificada o que no le fuere imputable. En la determinación de la indemnización por mora del empresario no será de aplicación lo dispuesto en el artículo 1108 del Código Civil, ni lo preceptuado en el artículo 576 de la Ley 1/2000, de 22 de enero, de Enjuiciamiento Civil.
+Téngase en cuenta que esta última actualización del apartado 1, establecida por la disposición final 16 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-16, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1
+ Redacción anterior:
+ "1. Los legítimos intereses económicos y sociales de los consumidores y usuarios deberán ser respetados en los términos establecidos en esta norma, aplicándose, además, lo previsto en las normas civiles y mercantiles, en las regulaciones sectoriales de ámbito estatal, así como en la normativa comunitaria y autonómica que resulten de aplicación."
+2. Sin perjuicio de lo dispuesto en los apartados siguientes, para la protección de los legítimos intereses económicos y sociales de los consumidores y usuarios, las prácticas comerciales de los empresarios dirigidas a ellos están sujetas a lo dispuesto en esta ley, en la Ley 3/1991, de 10 de enero, de Competencia Desleal, y en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, no obstante la normativa sectorial que en cada caso resulte de aplicación. A estos efectos, se consideran prácticas comerciales de los empresarios con los consumidores y usuarios todo acto, omisión, conducta, manifestación o comunicación comercial, incluida la publicidad y la comercialización, directamente relacionada con la promoción, la venta o el suministro de bienes o servicios, incluidos los bienes inmuebles, así como los derechos y obligaciones, con independencia de que sea realizada antes, durante o después de una operación comercial.
+No tienen la consideración de prácticas comerciales las relaciones de naturaleza contractual, que se regirán conforme a lo previsto en el artículo 59.
+3. Lo dispuesto en el apartado anterior no obsta la aplicación de:
+a) Las normas que regulen las prácticas comerciales que puedan afectar a la salud y seguridad de los consumidores y usuarios, incluidas las relativas a la seguridad de bienes y servicios.
+b) Las normas sobre certificación y grado de pureza de los objetos fabricados con metales preciosos.
+4. Las normas previstas en esta ley en materia de prácticas comerciales y las que regulan las prácticas comerciales en materia de medicamentos, etiquetado, presentación y publicidad de los productos, indicación de precios, aprovechamiento por turno de bienes inmuebles, crédito al consumo, comercialización a distancia de servicios financieros destinados a los consumidores y usuarios, comercio electrónico, inversión colectiva en valores mobiliarios, normas de conducta en materia de servicios de inversión, oferta pública o admisión de cotización de valores y seguros, incluida la mediación y cualesquiera otras normas de carácter sectorial que regulen aspectos concretos de las prácticas comerciales desleales previstos en normas comunitarias prevalecerán en caso de conflicto sobre la legislación de carácter general aplicable a las prácticas comerciales desleales.
+El incumplimiento de las disposiciones a que hace referencia este apartado será considerado en todo caso práctica desleal por engañosa, en iguales términos a lo dispuesto en el artículo 19.2 de la Ley 3/1991, de 10 de enero, de Competencia Desleal, en relación con las prácticas engañosas reguladas en los artículos 20 a 27 de dicha ley.
+5. En relación con las prácticas comerciales relativas a servicios financieros y bienes inmuebles, y en el ámbito de las telecomunicaciones o energético, podrán establecerse normas legales o reglamentarias que ofrezcan una mayor protección al consumidor o usuario.
+6. Las políticas públicas que inciden en el ámbito del consumo y las prácticas comerciales orientadas a las personas consumidoras vulnerables estarán destinadas, en su caso y siempre dentro del ámbito de las relaciones entre consumidores o usuarios y empresarios, a prever y remover, siempre que sea posible, las circunstancias que generan la situación de vulnerabilidad, así como a paliar sus efectos y a garantizar el ejercicio de sus derechos en condiciones de igualdad, en particular en relación con las comunicaciones comerciales o información precontractual facilitada, la atención post contractual o el acceso a bienes o servicios básicos.
+7. La Administración pública competente, con el fin de proteger en mayor medida los intereses legítimos de los consumidores y usuarios, podrá restringir, en los términos que se establezca, determinadas formas y aspectos de las visitas no solicitadas efectuadas por el empresario en el domicilio del consumidor y usuario o las excursiones organizadas por el mismo con el objetivo o efecto de promocionar o vender bienes o servicios. Las disposiciones que se adopten serán proporcionadas y no discriminatorias, sin que en ningún caso puedan implicar la prohibición de los citados canales de venta, salvo cuando se basen en motivos distintos a la protección de los consumidores, tales como el interés público o el respeto de la vida privada de los mismos.
+Se modifica el apartado 1, con efectos de 3 de abril de 2025, por la disposición final 16 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-16
+ Se añade el apartado 7 por la disposición final 1.1 de la Ley 23/2022, de 2 de noviembre de 2022. Ref. BOE-A-2022-18037#df
+ Se modifica por el art. 1.5 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Se añade el apartado 7 por el art. 82.1 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica por el art. 1.5 del Real Decreto-ley 1/2021, de 19 de enero. Ref. BOE-A-2021-793#ap
+ Se modifica el apartado 2 por la disposición final 17.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfdecimoseptima.
+ Redactado conforme a la corrección de errores publicada en el BOE núm. 210, de 2 de septiembre de 2015. Ref. BOE-A-2015-9524.
+ Se modifica el apartado 4 por el art. único.3 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Se modifica por el art. 3.3 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 20
+
+Artículo 20. Información necesaria en la oferta comercial de bienes y servicios.
+1. Las prácticas comerciales que, de un modo adecuado al medio de comunicación utilizado, incluyan información sobre las características del bien o servicio y su precio, posibilitando que el consumidor o usuario tome una decisión sobre la contratación, y siempre que no pueda desprenderse claramente del contexto, deberán contener, al menos, la siguiente información:
+a) Nombre, razón social y domicilio completo del empresario responsable de la oferta comercial y, en su caso, nombre, razón social y dirección completa del empresario por cuya cuenta actúa.
+b) Las características esenciales del bien o servicio de una forma adecuada a su naturaleza y al medio de comunicación utilizado.
+c) El precio final completo, incluidos los impuestos, desglosando, en su caso, el importe de los incrementos o descuentos que sean de aplicación a la oferta y los gastos adicionales, incluidos los potenciales gastos de gestión, que se repercutan al consumidor o usuario.
+En el resto de los casos en que, debido a la naturaleza del bien o servicio, no pueda fijarse con exactitud el precio en la oferta comercial, deberá informarse sobre la base de cálculo que permita al consumidor o usuario comprobar el precio. Igualmente, cuando los gastos adicionales que se repercutan al consumidor o usuario no puedan ser calculados de antemano por razones objetivas, debe informarse del hecho de que existen dichos gastos adicionales y, si se conoce, su importe estimado.
+En los contratos celebrados a distancia o fuera del establecimiento comercial, el comerciante facilitará de forma clara y comprensible información sobre el precio cuando este haya sido personalizado sobre la base de una toma de decisiones automatizada. Esta personalización no podrá derivar en incrementos del precio final de venta cuando se produzca un incremento de la demanda en contextos de urgencia, riesgo o necesidad de la persona consumidora.
+A los efectos de lo previsto en el párrafo anterior, se entenderá por contexto de urgencia, riesgo o necesidad de la persona consumidora, el derivado de cualquier situación que pueda ser calificada como emergencia de protección civil, en los términos regulados en la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil.
+En todo caso, el precio final ofertado deberá respetar la normativa reguladora de precios que resulte de aplicación, en su caso, con referencia expresa a dicha normativa y los parámetros utilizados para la fijación del precio final conforme a la misma.
+d) Los procedimientos de pago y los plazos de entrega y ejecución del contrato, cuando se aparten de las exigencias de la diligencia profesional, entendiendo por tal el nivel de competencia y cuidados especiales que cabe esperar de un empresario conforme a las prácticas honestas del mercado.
+e) En su caso, existencia del derecho de desistimiento.
+f) En el caso de bienes y servicios ofrecidos en mercados en línea, si el tercero que ofrece el bien o servicio tiene la condición de empresario o no, con arreglo a su declaración al proveedor del mercado en línea.
+2. A efectos del cumplimiento de lo previsto en el apartado anterior y sin perjuicio de la normativa sectorial que en su caso resulte de aplicación, la información necesaria a incluir en la oferta comercial deberá facilitarse a los consumidores o usuarios, principalmente cuando se trate de personas consumidoras vulnerables, en términos claros, comprensibles, veraces y en un formato que garantice su accesibilidad, de forma que aseguren su adecuada comprensión y permitan la toma de decisiones óptimas para sus intereses.
+3. Las prácticas comerciales consistentes en ofrecer a los consumidores y usuarios la posibilidad de buscar bienes y servicios ofertados por distintos empresarios o consumidores y usuarios sobre la base de una consulta en forma de palabra clave, expresión u otro tipo de dato introducido, independientemente de dónde se realicen las transacciones en último término, deberán contener, en una sección específica de la interfaz en línea que sea fácil y directamente accesible desde la página en la que se presenten los resultados de la búsqueda, la siguiente información:
+a) Información general relativa a los principales parámetros que determinan la clasificación de los bienes y servicios presentados al consumidor y usuario como resultado de la búsqueda.
+b) La importancia relativa de dichos parámetros frente a otros.
+El presente apartado no se aplicará a proveedores de motores de búsqueda en línea, tal como se definen en el artículo 2.6) del Reglamento (UE) 2019/1150 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, sobre el fomento de la equidad y la transparencia para los usuarios profesionales de servicios de intermediación en línea.
+4. Las prácticas comerciales en las que un empresario facilite el acceso a las reseñas de los consumidores y usuarios sobre bienes y servicios deberán contener información sobre el hecho de que el empresario garantice o no que dichas reseñas publicadas han sido efectuadas por consumidores y usuarios que han utilizado o adquirido realmente el bien o servicio. A tales efectos, el empresario deberá facilitar información clara a los consumidores y usuarios sobre la manera en que se procesan las reseñas.
+En cualquier caso, a efectos del apartado anterior, las reseñas emitidas deberán referirse a productos o servicios adquiridos o utilizados en los treinta días naturales anteriores a la fecha de la reseña y el empresario que comercialice el bien o servicio al que se refiera una reseña estará facultado para responder a la misma a través del mismo canal.
+En el supuesto de que una o varias reseñas no sean formuladas por un consumidor o usuario que haya adquirido o utilizado efectivamente el bien o servicio al que se refiere o sea engañosa, el empresario a cuyo bien o servicio se refiera la reseña estará facultado para solicitar la eliminación de esta, para lo que deberá acreditar, de forma fehaciente, que la reseña no ha sido publicada por un consumidor o usuario que haya comprado o utilizado el bien o servicio.
+5. La carga de la prueba en relación con el cumplimiento de los requisitos de información establecidos en este artículo incumbirá al empresario.
+6. El incumplimiento de lo dispuesto en los apartados anteriores será considerado una práctica desleal por engañosa en el sentido del artículo 7 de la Ley 3/1991, de 10 de enero, de Competencia Desleal.
+Se deja sin efecto la modificación del apartado 1.c) por Resolución de 26 de febrero de 2026, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 4/2026, de 10 de febrero. Ref. BOE-A-2026-4669
+ Se modifica el apartado 1.c) por el art. único.1 del Real Decreto-ley 4/2026, de 10 de febrero. Ref. BOE-A-2026-3084
+ Se modifican los apartados 1.c) y 4 por la disposición final 3.1 de la Ley 10/2025, de 26 de diciembre. Ref. BOE-A-2025-26698#df-3
+ Se modifica el apartado 1.c) por la disposición final 1 del Real Decreto-ley 8/2024, de 28 de noviembre. Ref. BOE-A-2024-24840#df
+ Se modifica el apartado 3 por la disposición final 1.2 de la Ley 23/2022, de 2 de noviembre de 2022. Ref. BOE-A-2022-18037#df
+ Se modifica el apartado 2 y se añade el 3 por el art. 1.6 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Se modifica por el art. 82.2 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica el apartado 2 y se añade el apartado 3 por el art. 1.6 del Real Decreto-ley 1/2021, de 19 de enero. Ref. BOE-A-2021-793#ap
+ Se modifica el apartado 2 por el art. único.4 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Se modifica por el art. 3.4 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 20 bis
+
+Artículo 20 bis. Medidas correctoras como consecuencia de las prácticas comerciales desleales a disposición de los consumidores y usuarios perjudicados.
+1. Para el ejercicio de las acciones contempladas en el artículo 32.1, 1.ª a 4.ª de la Ley 3/1991, de 10 de enero, de Competencia Desleal, se considerará acreditado, salvo prueba en contrario, el uso de prácticas comerciales desleales contra los consumidores y usuarios que haya sido constatado en una resolución firme de una autoridad competente o de un órgano jurisdiccional.
+2. Las personas que hubieran realizado de forma conjunta la infracción referida en el apartado anterior serán solidariamente responsables del resarcimiento de los daños y perjuicios ocasionados.
+3. En ningún caso, la existencia de una práctica comercial desleal puede ser utilizada en contra de los intereses de los consumidores y usuarios.
+Téngase en cuenta que este artículo, añadido por el art. 82.3 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+Se añade por el art. 82.3 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
+### Artículo 20 ter
+
+Artículo 20 ter. Limitación del incremento del precio final en contextos de urgencia, riesgo o necesidad de las personas consumidoras.
+(Sin efecto)
+Se deja sin efecto este artículo por Resolución de 26 de febrero de 2026, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 4/2026, de 10 de febrero, que lo añadió. Ref. BOE-A-2026-4669
+ Se añade por el art. único.2 del Real Decreto-ley 4/2026, de 10 de febrero. Ref. BOE-A-2026-3084
+
+### Artículo 21
+
+Artículo 21. Régimen de comprobación y servicios de atención al cliente.
+1. El régimen de comprobación, reclamación, garantía y posibilidad de renuncia o devolución que se establezca en los contratos, deberá permitir que el consumidor y usuario se asegure de la naturaleza, características, condiciones y utilidad o finalidad del bien o servicio; pueda reclamar con eficacia en caso de error, defecto o deterioro; pueda hacer efectivas las garantías de calidad o nivel de prestación ofrecidos, y obtener la devolución equitativa del precio de mercado del bien o servicio, total o parcialmente, en caso de incumplimiento o cumplimiento defectuoso.
+La devolución del precio del producto habrá de ser total en el caso de falta de conformidad del producto con el contrato, en los términos previstos en el título V del libro II.
+2. Las oficinas y servicios de información y atención al cliente que las empresas pongan a disposición del consumidor y usuario deberán asegurar que éste tenga constancia de sus quejas y reclamaciones, mediante la entrega de una clave identificativa y un justificante por escrito, en papel o en cualquier otro soporte duradero. Si tales servicios utilizan la atención telefónica o electrónica para llevar a cabo sus funciones deberán garantizar una atención personal directa, más allá de la posibilidad de utilizar complementariamente otros medios técnicos a su alcance.
+Las oficinas y servicios de información y atención al cliente serán diseñados utilizando medios y soportes que sigan los principios de accesibilidad universal y, en su caso, medios alternativos para garantizar el acceso a los mismos.
+Se deberán identificar claramente los servicios de atención al cliente en relación a las otras actividades de la empresa, prohibiéndose expresamente la utilización de este servicio para la utilización y difusión de actividades de comunicación comercial de todo tipo.
+En caso de que el empresario ponga a disposición de los consumidores y usuarios una línea telefónica a efectos de comunicarse con él en relación con el contrato celebrado, el uso de tal línea no podrá suponer para el consumidor y usuario un coste superior al coste de una llamada a una línea telefónica fija geográfica o móvil estándar.
+En el supuesto de utilizarse, de acuerdo con el párrafo anterior, una línea telefónica de tarificación especial que suponga un coste para el consumidor o usuario, el empresario facilitará al consumidor, junto con la información sobre dicha línea telefónica de tarificación especial y en igualdad de condiciones, información sobre un número geográfico o móvil alternativo.
+Adicionalmente, en los supuestos de servicios de carácter básico de interés general, las empresas prestadoras de los mismos deberán disponer, en cualquier caso, de un teléfono de atención al consumidor gratuito. A estos efectos, tendrán la consideración de servicios de carácter básico de interés general los de suministro y distribución de agua y energía, financieros y de seguros, postales, transporte aéreo de pasajeros, transporte de viajeros por ferrocarril, transporte de viajeros en autobús o autocar, los sanitarios, así como aquellos que legalmente se determinen.
+3. En todo caso, y con pleno respeto a lo dispuesto en los apartados precedentes, los empresarios pondrán a disposición de los consumidores y usuarios información sobre los medios a través de los cuales puedan interponer, cualquiera que sea su lugar de residencia, sus quejas y reclamaciones o solicitar información sobre los bienes o servicios ofertados o contratados, que deberá incluir, al menos, el medio por el que se inició la relación contractual, así como la vía postal, telefónica y un medio de comunicación electrónica. Los empresarios comunicarán además su dirección legal si esta no coincidiera con la dirección habitual para la correspondencia.
+Los empresarios deberán dar respuesta a las reclamaciones recibidas en el plazo más breve posible y, en todo caso, en el plazo máximo de quince días desde la presentación de la reclamación.
+4. En el supuesto de que el empresario no hubiera resuelto satisfactoriamente una reclamación interpuesta directamente ante el mismo por un consumidor, este podrá acudir a una entidad de resolución alternativa notificada a la Comisión Europea, de conformidad con lo previsto en la ley por la que se incorpora al ordenamiento jurídico español la Directiva 2013/11/UE, del Parlamento Europeo y del Consejo, de 21 de mayo de 2013, relativa a la resolución alternativa de litigios en materia de consumo.
+Los empresarios facilitarán el acceso a este tipo de entidades, proporcionando a los consumidores la información a la que vienen obligados por el artículo 41 de dicha ley.
+Se modifican los apartados 2 y 3 por la disposición final 3.2 de la Ley 10/2025, de 26 de diciembre. Ref. BOE-A-2025-26698#df-3
+ Se modifica el apartado 2 por el art. 3.1 del Real Decreto-ley 37/2020, de 22 de diciembre. Ref. BOE-A-2020-16824#a3
+ Se modifican los apartados 3 y 4 por la disposición final 5 de la Ley 7/2017, de 2 de noviembre. Ref. BOE-A-2017-12659#df-5
+ Se modifican los apartados 2 y 3 por el art. único.5 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Se añaden los apartados 3 y 4 por el art. 4.1 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+## TÍTULO II
+
+Derecho de representación, consulta y participación y régimen jurídico de las asociaciones de consumidores y usuarios
+
+## CAPÍTULO I
+
+Régimen jurídico básico de las asociaciones de consumidores y usuarios
+
+### Artículo 22
+
+Artículo 22. Objeto.
+Este título tiene por objeto adoptar, conforme a lo previsto en el artículo 1.3 de la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación, el régimen básico de las asociaciones de consumidores y la regulación específica a la que quedan sometidas las asociaciones de consumidores y usuarios de ámbito supraautonómico.
+
+### Artículo 23
+
+Artículo 23. Concepto y fines.
+1. Son asociaciones de consumidores y usuarios las organizaciones sin ánimo lucro que, constituidas conforme a lo previsto en la legislación sobre asociaciones y reuniendo los requisitos específicos exigidos en esta norma y sus normas de desarrollo y, en su caso, en la legislación autonómica que les resulte de aplicación, tengan como finalidad la defensa de los derechos e intereses legítimos de los consumidores, incluyendo su información, formación y educación, bien sea con carácter general, bien en relación con bienes o servicios determinados.
+También son asociaciones de consumidores y usuarios las entidades constituidas por consumidores con arreglo a la legislación de cooperativas, que respeten los requisitos básicos exigidos en esta norma y entre cuyos fines figure, necesariamente, la educación y formación de sus socios, y estén obligadas a constituir un fondo con tal objeto, según su legislación específica.
+2. Las asociaciones de consumidores y usuarios podrán integrarse en uniones, federaciones o confederaciones que tengan idénticos fines y cumplan los requisitos específicos exigidos por esta norma.
+3. Las asociaciones de consumidores y usuarios deben actuar para el cumplimiento de sus fines con independencia frente a los operadores del mercado y a los poderes públicos, sin que la obtención de subvenciones u otros recursos públicos concedidos en base a criterios de objetividad puedan mermar tal independencia.
+
+### Artículo 24
+
+Artículo 24. Legitimación de las asociaciones de consumidores y usuarios.
+1. Las asociaciones de consumidores y usuarios constituidas conforme a lo previsto en este título y en la normativa autonómica que les resulte de aplicación, son las únicas legitimadas para actuar en nombre y representación de los intereses generales de los consumidores y usuarios.
+Las asociaciones o cooperativas que no reúnan los requisitos exigidos en este título o en la normativa autonómica que les resulte de aplicación, sólo podrán representar los intereses de sus asociados o de la asociación, pero no los intereses generales, colectivos o difusos, de los consumidores.
+2. A efectos de lo previsto en el artículo 11.3 de la Ley de Enjuiciamiento Civil, tendrán la consideración legal de asociaciones de consumidores y usuarios representativas las que formen parte del Consejo de Consumidores y Usuarios, salvo que el ámbito territorial del conflicto afecte fundamentalmente a una comunidad autónoma, en cuyo caso se estará a su legislación específica.
+
+### Artículo 25
+
+Artículo 25. Uso exclusivo de la denominación de asociación de consumidores y usuarios.
+Se prohíbe utilizar los términos consumidor o usuario, la denominación de asociación de consumidores y usuarios o cualquier otra expresión similar que induzca a error o confusión sobre su naturaleza o su legitimidad para la defensa de los derechos e intereses de los consumidores y usuarios, a aquellas organizaciones que no reúnan los requisitos exigidos en esta norma o en la normativa autonómica que les resulte de aplicación.
+
+### Artículo 26
+
+Artículo 26. Pérdida de la condición de asociación de consumidores y usuarios.
+Las asociaciones de consumidores y usuarios que incurran en alguna de las prohibiciones previstas por la legislación que les resulte de aplicación perderán, en todo caso y por un período no inferior a los cinco años siguientes desde que dejaron de concurrir tales circunstancias, su condición de asociación de consumidores y usuarios.
+
+## CAPÍTULO II
+
+Independencia y transparencia de las asociaciones de consumidores y usuarios
+
+### Artículo 27
+
+Artículo 27. Requisitos de independencia.
+En cumplimiento del deber de independencia, en particular, las asociaciones de consumidores no podrán:
+a) Incluir como asociados a personas jurídicas con ánimo de lucro.
+b) Percibir ayudas económicas o financieras de las empresas o grupo de empresas que suministran bienes o servicios a los consumidores o usuarios.
+No tendrán la consideración de ayudas económicas las aportaciones que se realicen en las condiciones de transparencia establecidas en esta norma y normas reglamentarias, no mermen la independencia de la asociación y tengan su origen en los convenios o acuerdos de colaboración regulados en este capítulo.
+c) Realizar comunicaciones comerciales de bienes y servicios.
+A estos efectos se entiende por comunicación comercial todo acto, conducta o manifestación, incluida la publicidad, no meramente informativa, que se relacione directamente con la promoción o venta de bienes y servicios.
+d) Autorizar el uso de su denominación, imagen o cualquier otro signo representativo en la publicidad comercial realizada por los operadores del mercado, o no realizar las actuaciones tendentes a impedir dicha utilización, a partir del momento en que se tenga conocimiento de esta conducta.
+A estos efectos no se considerarán operadores de mercado las sociedades mercantiles en las que participen las asociaciones de consumidores en los términos contemplados en el artículo siguiente.
+e) Dedicarse a actividades distintas de la defensa de los intereses de los consumidores o usuarios, salvo lo previsto en el artículo 23.1, párrafo segundo.
+f) Incumplir las obligaciones de transparencia previstas en los artículos 29 a 31, ambos inclusive.
+g) Actuar la organización o sus representantes legales con manifiesta temeridad, judicialmente apreciada.
+h) Incumplir cualquier otra obligación impuesta a las asociaciones de consumidores y usuarios, legal o reglamentariamente.
+
+### Artículo 28
+
+Artículo 28. Participación en sociedades mercantiles.
+1. Las asociaciones de consumidores podrán participar en sociedades mercantiles siempre que éstas reúnan los siguientes requisitos:
+a) Tengan como objeto social exclusivo el desarrollo de actividades instrumentales concretamente delimitadas que sirvan a los fines de información, formación y defensa de los consumidores y usuarios.
+b) Su capital social corresponda íntegramente a asociaciones de consumidores que reúnan los requisitos exigidos por la legislación que les resulte de aplicación y cuyos beneficios sólo se repartan entre las asociaciones de consumidores que participen en el capital social.
+Estas sociedades mercantiles están sometidas a las prohibiciones previstas en el artículo anterior y a la obligación de depositar sus cuentas, que en todo caso deberán ajustarse a la normativa que les resulte de aplicación según su naturaleza, en el Instituto Nacional del Consumo de conformidad con lo dispuesto en el artículo 31.
+2. Del cumplimiento por estas sociedades mercantiles de lo dispuesto en este título, serán responsables las asociaciones de consumidores que participen en su capital social en los términos previstos en ella, pudiendo derivar, en su caso, en la pérdida de la condición de asociación de consumidores.
+
+### Artículo 29
+
+Artículo 29. Definición del marco de colaboración con los operadores del mercado.
+1. Estatutariamente o por acuerdo adoptado en asamblea general, las asociaciones de consumidores y usuarios definirán, con pleno respeto a lo establecido en esta norma, cuál es el marco legítimo de su colaboración con los operadores del mercado de cualquier sector de actividad, en defensa de los derechos de los consumidores y la leal competencia, así como los supuestos en que podrán celebrarse convenios o acuerdos de colaboración con éstos, su alcance y modo de instrumentarlos.
+2. Los estatutos o acuerdos de asamblea general en los que se establezca este marco de colaboración con los operadores del mercado de las asociaciones de ámbito supraautonómico, se depositarán en el Instituto Nacional del Consumo y en la Secretaría del Consejo de Consumidores y Usuarios.
+
+### Artículo 30
+
+Artículo 30. Convenios o acuerdos de colaboración.
+Los convenios o acuerdos de colaboración, de duración temporal o indefinida, de las asociaciones de consumidores y usuarios con empresas, agrupaciones o asociaciones de empresas, fundaciones o cualquier organización sin ánimo de lucro deberán cumplir los siguientes requisitos:
+a) Tener como finalidad exclusiva el desarrollo de proyectos específicos de información, formación y defensa de los consumidores y usuarios, mejorando su posición en el mercado.
+b) Respetar los principios de independencia y transparencia.
+c) Consistir en la realización de actuaciones, trabajos, estudios o publicaciones de interés general para los consumidores y usuarios.
+d) Ser depositados, así como sus modificaciones, prórrogas o denuncias, en el Instituto Nacional del Consumo y en la Secretaría del Consejo de Consumidores y Usuarios.
+
+### Artículo 31
+
+Artículo 31. Depósito de las cuentas anuales.
+Las cuentas anuales de las asociaciones de consumidores y usuarios se depositarán en el Instituto Nacional del Consumo en el plazo de un mes desde el día siguiente a la fecha de su aprobación por los órganos estatutarios correspondientes.
+Tales cuentas anuales, integradas por el balance, la cuenta de resultados y la memoria, deberán formularse de conformidad con las normas de adaptación del Plan General de Contabilidad a las entidades sin fines lucrativos, aprobadas por el artículo 1 del Real Decreto 776/1998, de 30 de abril.
+Redactado el primer párrafo conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 2008. Ref. BOE-A-2008-2487
+
+### Artículo 32
+
+Artículo 32. Publicidad de la información depositada por las asociaciones de consumidores y usuarios.
+1. La información depositada por las asociaciones de consumidores y usuarios a que se refieren los artículos precedentes será pública.
+2. Reglamentariamente podrán establecerse los plazos, condiciones y requisitos adicionales de las obligaciones de depósito y acceso reguladas en este capítulo.
+Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 2008. Ref. BOE-A-2008-2487
+
+## CAPÍTULO III
+
+Registro Estatal de Asociaciones de Consumidores y Usuarios
+
+### Artículo 33
+
+Artículo 33. Registro Estatal de Asociaciones de Consumidores y Usuarios.
+1. Las asociaciones de consumidores y usuarios de ámbito estatal y todas aquéllas que no desarrollen principalmente sus funciones en el ámbito de una comunidad autónoma, deberán figurar inscritas en el Registro Estatal de Asociaciones de Consumidores y Usuarios que se gestiona en el Instituto Nacional del Consumo.
+Tras su denominación, estas asociaciones de consumidores y usuarios indicarán su número de inscripción registral.
+2. El cumplimiento de los requisitos exigidos en los capítulos I y II de este título será condición indispensable para acceder a la inscripción en el Registro Estatal de Asociaciones de Consumidores y Usuarios.
+No obstante lo previsto en el párrafo anterior, reglamentariamente se establecerán los requisitos mínimos de implantación territorial, número de asociados y programas de actividades a desarrollar que deberán acreditar las asociaciones de consumidores y usuarios para su inscripción en el Registro Estatal de Asociaciones de Consumidores y Usuarios.
+
+### Artículo 34
+
+Artículo 34. Control de los requisitos exigidos para la inscripción.
+El Instituto Nacional del Consumo podrá pedir a las asociaciones de consumidores y usuarios que soliciten su inscripción en el Registro Estatal de Asociaciones de Consumidores y Usuarios o a las ya inscritas en él, cuanta documentación e información sea precisa para verificar el cumplimiento y mantenimiento de los requisitos exigidos en este título.
+Asimismo, podrán realizar, por sí o mediante la contratación con entidades externas e independientes, auditorias de cuentas con idéntica finalidad.
+
+### Artículo 35
+
+Artículo 35. Exclusión del Registro Estatal de Asociaciones de Consumidores y Usuarios.
+1. La realización por las asociaciones de consumidores y usuarios inscritas en el Registro Estatal de Asociaciones de Consumidores y Usuarios de alguna de las actuaciones prohibidas por los artículos 23.3, 27 y 28 dará lugar a su exclusión de dicho registro, previa tramitación del procedimiento administrativo previsto reglamentariamente.
+2. La resolución de exclusión del Registro Estatal de Asociaciones de Consumidores y Usuarios determinará la pérdida de esta condición, en todo caso, y por un período no inferior a cinco años desde la fecha de la exclusión, sin perjuicio del mantenimiento de su personalidad jurídica con arreglo a la legislación general de asociaciones o cooperativas.
+Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 2008. Ref. BOE-A-2008-2487
+
+### Artículo 36
+
+Artículo 36. Colaboración con los Registros autonómicos.
+1. A los exclusivos efectos de publicidad, en el Registro Estatal de Asociaciones de Consumidores y Usuarios podrá figurar información sobre las asociaciones de consumidores inscritas en los registros que, con tal finalidad, pudieran crearse en las comunidades autónomas.
+2. El Instituto Nacional del Consumo cooperará con las comunidades autónomas para que la información a que se refiere el apartado anterior figure en el Registro Estatal de Asociaciones de Consumidores y Usuarios y les facilitará información de las asociaciones de consumidores de ámbito nacional o que no desarrollen principalmente sus funciones en el ámbito de una comunidad autónoma inscritas en él.
+
+## CAPÍTULO IV
+
+Representación y consulta
+
+### Artículo 37
+
+Artículo 37. Derechos de las asociaciones de consumidores y usuarios.
+Las asociaciones de consumidores y usuarios de ámbito supraautonómico, legalmente constituidas e inscritas en el Registro Estatal de Asociaciones de Consumidores y Usuarios tendrán derecho, en los términos que legal o reglamentariamente se determinen, a:
+a) Ser declaradas de utilidad pública.
+b) Percibir ayudas y subvenciones públicas.
+c) Representar, como asociación de consumidores y usuarios, a sus asociados y ejercer las correspondientes acciones en defensa de los mismos, de la asociación o de los intereses generales, colectivos o difusos, de los consumidores y usuarios.
+d) Disfrutar del derecho de asistencia jurídica gratuita en la forma prevista en la Ley 1/1996, de 10 de enero, de Asistencia Jurídica Gratuita.
+e) Integrarse, en los términos que reglamentariamente se determine, en el Consejo de Consumidores y Usuarios.
+
+### Artículo 38
+
+Artículo 38. Consejo de Consumidores y Usuarios.
+1. Como órgano nacional de consulta y representación institucional de los consumidores y usuarios a través de sus organizaciones, el Consejo de Consumidores y Usuarios integrará las asociaciones de consumidores y usuarios de ámbito supraautonómico que, atendiendo a su implantación territorial, número de socios, trayectoria en el ámbito de la protección de los consumidores y usuarios y programas de actividades a desarrollar, sean más representativas.
+Reglamentariamente se determinará la composición y funciones del Consejo de Consumidores y Usuarios.
+2. La Administración fomentará la colaboración entre el Consejo de Consumidores y Usuarios y las asociaciones de consumidores que lo integran con las organizaciones de empresarios.
+3. El Consejo de Consumidores y Usuarios articulará mecanismos de cooperación con los órganos de consulta y representación de los consumidores constituidos por las comunidades autónomas. A través de los mecanismos habilitados por el Consejo de Consumidores y Usuarios, éste y los respectivos órganos consultivos podrán colaborar en la elaboración de los dictámenes que les sean solicitados en trámite de audiencia.
+
+### Artículo 39
+
+Artículo 39. Audiencia en consulta en el proceso de elaboración de las disposiciones de carácter general.
+1. El Consejo de Consumidores y Usuarios será oído en consulta, en el procedimiento de elaboración de disposiciones de carácter general de ámbito estatal relativas a materias que afecten directamente a los consumidores y usuarios.
+2. Será preceptiva su audiencia en los siguientes casos:
+a) Reglamentos de aplicación de esta norma.
+b) Reglamentaciones sobre bienes o servicios de uso y consumo.
+c) Ordenación del mercado interior y disciplina del mercado.
+d) Precios y tarifas de servicios, en cuanto afecten directamente a los consumidores o usuarios, y se encuentren legalmente sujetos a control de las Administraciones públicas.
+e) Condiciones generales de los contratos o modelos de contratos regulados o autorizados por los poderes públicos en servicios de interés general o prestados a los consumidores por empresas públicas.
+f) En los demás casos en que una ley así lo establezca.
+3. Las asociaciones empresariales serán oídas en consulta en el procedimiento de elaboración de las disposiciones de carácter general relativas a materias que les afecten directamente.
+Será preceptiva su audiencia en los supuestos contenidos en los apartados a), b), c) y f) del apartado anterior.
+4. Se entenderá cumplido dicho trámite preceptivo de audiencia cuando las asociaciones citadas se encuentren representadas en los órganos colegiados que participen en la elaboración de la disposición. En los demás casos, la notificación o comunicación se dirigirá a la federación o agrupación empresarial correspondiente.
+
+## TÍTULO III
+
+Cooperación institucional
+
+## CAPÍTULO I
+
+Conferencia Sectorial de Consumo
+
+### Artículo 40
+
+Artículo 40. Conferencia Sectorial de Consumo.
+1. La Conferencia Sectorial de Consumo, presidida por el Ministro de Sanidad y Consumo e integrada por éste y los consejeros competentes en esta materia de las comunidades autónomas, es el máximo órgano de cooperación institucional del Estado con las comunidades autónomas.
+2. Sin perjuicio de la participación de la asociación de ámbito estatal de entidades locales con mayor implantación en la Conferencia Sectorial de Consumo, conforme a lo previsto en el artículo 5.4 de la Ley 30/1992, de 26 de noviembre, el Ministerio de Sanidad y Consumo impulsará la cooperación institucional con las corporaciones locales a través de dicha asociación, estableciendo, en su caso órganos permanentes de cooperación institucional, de conformidad con lo previsto en la regulación de las bases de régimen local.
+
+### Artículo 41
+
+Artículo 41. Funciones de la Conferencia Sectorial de Consumo.
+Son funciones de la Conferencia Sectorial de Consumo:
+a) Servir de cauce de colaboración, comunicación e información entre las comunidades autónomas y la Administración General del Estado en materia de consumo.
+b) Aprobar los criterios comunes de actuación y coordinación, así como las propuestas en relación con la política del sector.
+c) Aprobar los planes, proyectos y programas conjuntos.
+d) Hacer efectiva la participación de las comunidades autónomas en los asuntos comunitarios europeos en la materia.
+e) Facilitar la información recíproca en materia de consumo, diseñar estadísticas comunes y poner a disposición de los ciudadanos los datos de las estadísticas estatales obtenidas por ella.
+f) Cooperar e impulsar las campañas nacionales de inspección y control.
+g) Promover la promulgación de la normativa oportuna en materia de consumo o su reforma e informar, en su caso, las disposiciones reglamentarias sobre la materia.
+h) Establecer criterios de actuación cuando resulten competentes varias comunidades autónomas.
+i) Programar el empleo racional de medios materiales de posible utilización común.
+j) Articular un sistema de formación y perfeccionamiento del personal con tareas específicas en el ámbito de consumo.
+k) Cuantas otras funciones le atribuya la legislación vigente.
+
+## CAPÍTULO II
+
+Cooperación institucional en materia de formación y control de la calidad
+
+### Artículo 42
+
+Artículo 42. Cooperación en materia de formación.
+En la Conferencia Sectorial de Consumo y sus órganos de cooperación institucional podrán acordarse medidas tendentes a fomentar la formación y educación en materia de consumo de:
+a) Los educadores.
+b) El personal al servicio de las Administraciones públicas competentes en materia de consumo, especialmente de quienes desarrollen funciones de ordenación, inspección, control de calidad e información.
+c) El personal que presta servicios en las asociaciones de consumidores y usuarios y en las organizaciones empresariales.
+d) Los empresarios que, directa o indirectamente, desarrollan su actividad en el ámbito del consumo.
+
+### Artículo 43
+
+Artículo 43. Cooperación en materia de control de la calidad.
+Los órganos de cooperación institucional con las comunidades autónomas, competentes por razón de la materia, podrán acordar la realización de campañas o actuaciones programadas de control de mercado, directamente o en colaboración con las asociaciones de consumidores y usuarios, especialmente en relación con:
+a) Los bienes y servicios de uso o consumo común, ordinario y generalizado.
+b) Los bienes y servicios que reflejen un mayor grado de incidencias en los estudios estadísticos o epidemiológicos.
+c) Los bienes o servicios sobre los que se produzca un mayor número de reclamaciones o en los que, por el tipo de estas, quepa deducir razonablemente que existen situaciones especialmente lesivas para los derechos de los consumidores y usuarios o que afecten, en particular, a las personas consumidoras vulnerables.
+d) Los bienes y servicios que sean objeto de programas específicos de investigación.
+e) Aquellos otros bienes o servicios en que así se acuerde atendiendo a sus características, su especial complejidad o cualquier otra razón de oportunidad.
+Se modifica la letra c) por el art. 1.7 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Se modifica la letra c) por el art. 1.7 del Real Decreto-ley 1/2021, de 19 de enero. Ref. BOE-A-2021-793#ap
+
+### Artículo 44
+
+Artículo 44. Información sobre la calidad de los bienes y servicios.
+1. Las Administraciones públicas competentes podrán hacer públicos los resultados de los estudios de mercado y de las campañas o actuaciones de control realizadas por ellas.
+2. Salvo por razones de salud y seguridad, los centros de investigación de la Administración General del Estado que intervengan en el control de la calidad de los bienes y servicios, podrán divulgar o autorizar la divulgación de los datos concretos sobre bienes o servicios obtenidos en los estudios, análisis o controles de calidad realizados por ellos, en cualquiera de las siguientes circunstancias:
+a) Exista conformidad expresa del empresario que suministra los correspondientes bienes o servicios.
+b) Los resultados obtenidos hayan servido de base para la imposición de una sanción administrativa firme.
+c) Los resultados obtenidos reflejen defectos o excesos que superen los índices o márgenes de tolerancia reglamentariamente establecidos y se haya facilitado su comprobación como garantía para los interesados o estos hayan renunciado a la misma.
+d) Los datos que se divulguen, reflejen resultados sobre composición, calidad, presentación, o cualquier otro similar, dentro de los índices o márgenes de tolerancia reglamentariamente establecidos.
+3. En los supuestos a que se refieren los párrafos a), c) y d) del apartado anterior, antes de autorizar la publicación de los resultados de los estudios, ensayos, análisis o controles de calidad, deberá darse audiencia, por el plazo de 10 días, a los productores implicados.
+4. Cuando los datos cuya divulgación se pretenda se hayan obtenido a requerimiento de otra Administración pública, no podrán publicarse los resultados obtenidos si existe oposición expresa de esta.
+
+### Artículo 45
+
+Artículo 45. Otros instrumentos de control y fomento de la calidad de los bienes y servicios.
+La Conferencia Sectorial de Consumo y sus órganos de cooperación institucional podrán acordar:
+a) El desarrollo de programas de prospección de mercado, mediante la realización de análisis comparativos de bienes y servicios que se ajusten a los requisitos que sobre la práctica de tales análisis comparativos se establezcan reglamentariamente que, en todo caso, debe garantizar los derechos de las partes afectadas.
+b) La realización de un análisis estadístico de las reclamaciones y quejas planteadas por los consumidores y usuarios en el territorio del Estado.
+c) Los requisitos que deben acreditar los empresarios merecedores de premios o distintivos de calidad de ámbito estatal.
+
+## TÍTULO IV
+
+Potestad sancionadora
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 46
+
+Artículo 46. Principios generales.
+1. Las infracciones en materia de consumo serán objeto de las sanciones administrativas correspondientes, previa instrucción del oportuno expediente, sin perjuicio de las responsabilidades civiles, penales o de otro orden que pudiesen corresponder.
+2. En los supuestos en que las infracciones tipificadas en esta ley pudieran ser constitutivas de delito, el órgano competente comunicará tal extremo a la autoridad judicial o al Ministerio Fiscal. La autoridad judicial y el Ministerio Fiscal comunicarán al órgano competente la resolución o acuerdo que hubieran adoptado. De no haberse estimado la existencia de ilícito penal, o en el caso de haberse dictado resolución de otro tipo que ponga fin al procedimiento penal, podrá iniciarse o proseguir el procedimiento sancionador. En todo caso, el órgano competente quedará vinculado por los hechos declarados probados en vía judicial.
+3. La instrucción de causa penal ante los tribunales de Justicia suspenderá la tramitación del expediente administrativo sancionador que hubiere sido incoado por los mismos hechos y, en su caso, la eficacia de los actos administrativos de imposición de sanción. No obstante, la instrucción de causa penal no será obstáculo para que la Administración adopte las medidas necesarias para salvaguardar la salud, seguridad y otros intereses de los consumidores en virtud de las potestades no sancionadoras que tenga conferidas.
+4. En ningún caso se producirá una doble sanción por los mismos hechos y en función de los mismos intereses públicos protegidos, si bien deberán exigirse las demás responsabilidades que se deduzcan de otros hechos o infracciones concurrentes.
+5. Cuando el mismo hecho y en función de idéntico ataque a los intereses públicos pueda ser calificado como infracción con arreglo a dos o más preceptos de esta Ley o de otras normas sancionadoras, se aplicará el que prevea más específicamente la conducta realizada y, si todos ofrecieran los mismos caracteres, el que establezca mayor sanción, sin perjuicio de que prevalezcan y sean de aplicación preferente las disposiciones sectoriales respecto de aquellos aspectos expresamente previstos en las disposiciones del derecho de la Unión Europea de las que traigan causa.
+6. Cuando de la comisión de una infracción derive necesariamente la comisión de otra u otras, se deberá imponer únicamente la sanción correspondiente a la infracción más grave cometida, sin perjuicio de que, al calificar la infracción o al fijar la extensión de la sanción, se tengan en cuenta todas las circunstancias.
+7. Cuando se trate de hechos concurrentes constitutivos de infracción, procederá la imposición de todas las sanciones o multas previstas en esta y las otras Leyes aplicables para cada una de las infracciones. No obstante, al imponer las sanciones, se tendrán en cuenta, a efectos de su graduación, las otras sanciones recaídas para que conjuntamente resulten proporcionadas a la gravedad de la conducta del infractor.
+Se considerará que hay hechos concurrentes constitutivos de infracción cuando el mismo sujeto haya incumplido diversos deberes que supongan diferentes lesiones del mismo o de distintos intereses públicos sin que una de las infracciones conlleve necesariamente la otra, aunque haya servido para facilitarla o encubrirla, y ello con independencia de que se refieran a los mismos productos o servicios, o que esos incumplimientos sean sancionables conforme al mismo tipo de infracción.
+8. No obstante lo dispuesto en el apartado anterior, se sancionará como única infracción, aunque valorando la totalidad de la conducta, la pluralidad continuada de acciones u omisiones idénticas o similares realizadas por un sujeto en relación con una serie de productos o prestaciones del mismo tipo.
+9. Cuando se vean afectados los intereses generales, colectivos o difusos de los consumidores y usuarios, las asociaciones de consumidores y usuarios constituidas conforme a lo previsto en esta norma, o en la normativa autonómica que les resulte de aplicación, se podrán personar en el procedimiento administrativo sancionador, en tanto no haya recaído resolución definitiva, y tendrán la consideración de partes interesadas en el mismo cuando el objeto de las actuaciones administrativas coincida con los fines establecidos en sus respectivos Estatutos y prueben la afectación concreta de los derechos e intereses legítimos de alguno de sus socios por las prácticas objeto del procedimiento.
+10. En aquellos procesos en los que la parte actora alegue discriminación y aporte indicios fundados sobre su existencia corresponderá a la parte contra la que se dirija la queja o la demanda la aportación de una justificación objetiva y razonable, suficientemente probada, de las medidas adoptadas y de proporcionalidad. A los efectos de lo dispuesto en el párrafo anterior, la administración competente en materia de consumo, así como los órganos judiciales de oficio o a instancia de parte podrán recabar informe de los organismos públicos competentes en materia de igualdad.
+11. Lo establecido en este título lo es con plena garantía de las competencias de las comunidades autónomas en materia de protección de los consumidores, pudiendo estas establecer la regulación necesaria para el pleno ejercicio de dichas competencias.
+En concreto, mediante norma con rango de ley podrán preverse otras circunstancias o supuestos adicionales a los previstos en los artículos 48.3, 48.4, 49.2 y 50. Igualmente, las sanciones previstas en el artículo 49 y los plazos de prescripción y caducidad establecidos en el artículo 52 serán considerados como mínimos, pudiendo ser desarrollados y ampliados por normas con rango de ley.
+Se modifica el apartado 9 y se añade el apartado 11 por la disposición final 1.3 de la Ley 23/2022, de 2 de noviembre de 2022. Ref. BOE-A-2022-18037#df
+ Se añade el apartado 10 por la disposición final 7.2 de la Ley 15/2022, de 12 de julio. Ref. BOE-A-2022-11589#df-7
+ Redactada conforme a la corrección de errores, publicada en BOE núm. 224, de 17 de septiembre de 2022. Ref. BOE-A-2022-15169
+ Se modifica por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
+## CAPÍTULO II
+
+Infracciones y sanciones
+Se modifica por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
+### Artículo 47
+
+Artículo 47. Infracciones en materia de defensa de los consumidores y usuarios.
+Son infracciones en materia de defensa de los consumidores y usuarios las siguientes:
+a) El incumplimiento de los requisitos, condiciones, obligaciones o prohibiciones de naturaleza sanitaria.
+b) Las acciones u omisiones que produzcan riesgos o daños efectivos para la salud o seguridad de los consumidores y usuarios, ya sea en forma consciente o deliberada, ya sea por abandono de la diligencia y precauciones exigibles en la actividad, servicio o instalación de que se trate.
+c) El incumplimiento o transgresión de los requisitos previos que concretamente formulen las autoridades competentes para situaciones específicas, al objeto de evitar contaminaciones, circunstancias o conductas nocivas de otro tipo que puedan resultar gravemente perjudiciales para la salud pública.
+d) La alteración, adulteración o fraude en bienes y servicios susceptibles de consumo por adición o sustracción de cualquier sustancia o elemento, alteración de su composición o calidad o incumplimiento de las condiciones que correspondan a su naturaleza.
+e) El incumplimiento del régimen de garantías y servicios posventa, o del régimen de reparación de productos de naturaleza duradera.
+f) El incumplimiento de las normas reguladoras de precios, la imposición injustificada de condiciones sobre prestaciones no solicitadas o cantidades mínimas o cualquier otro tipo de intervención o actuación ilícita que suponga un incremento de los precios o márgenes comerciales.
+g) El incumplimiento de las normas relativas a registro, normalización o denominación de productos, etiquetado, envasado y publicidad de bienes y servicios, incluidas las relativas a la información previa a la contratación.
+h) El incumplimiento de las disposiciones sobre seguridad en cuanto afecten o puedan suponer un riesgo para los consumidores y usuarios.
+i) La obstrucción o negativa a suministrar datos o a facilitar las funciones de información, vigilancia o inspección.
+j) La introducción o existencia de cláusulas abusivas en los contratos, así como la no remoción de sus efectos una vez declarado judicialmente su carácter abusivo o sancionado tal hecho en vía administrativa con carácter firme.
+k) Las limitaciones o exigencias injustificadas al derecho del consumidor de poner fin a los contratos de prestación de servicios o suministro de productos de tracto sucesivo o continuado, la obstaculización al ejercicio de tal derecho del consumidor a través del procedimiento pactado, la falta de previsión de éste o la falta de comunicación al usuario del procedimiento para darse de baja en el servicio.
+l) Toda actuación discriminatoria contra personas consumidoras vulnerables independientemente del motivo o contra cualquier consumidor o usuario por el ejercicio de los derechos que confiere esta Ley o sus normas de desarrollo, ya sea no atendiendo sus demandas, negándoles el acceso a los establecimientos o dispensándoles un trato o imponiéndoles unas condiciones desiguales, así como el incumplimiento de las prohibiciones de discriminación previstas en el Reglamento (UE) 2018/302, cuando dicha actuación no sea constitutiva de delito.
+m) El uso de prácticas comerciales desleales con los consumidores o usuarios.
+n) Las conductas discriminatorias en el acceso a los bienes y la prestación de los servicios y, en especial, las previstas como tales en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, cuando no sean constitutivas de delito.
+ñ) La negativa a aceptar el pago en efectivo como medio de pago dentro de los límites establecidos por la normativa tributaria y de prevención y lucha contra el fraude fiscal
+o) El incumplimiento de los deberes y prohibiciones impuestos por la Administración mediante órdenes o como medidas cautelares o provisionales dictadas con el fin de evitar la producción o continuación de riesgos o lesiones para los consumidores y usuarios, así como el incumplimiento de los compromisos adquiridos para poner fin a la infracción y corregir sus efectos.
+p) La obstrucción o negativa a suministrar las condiciones generales de la contratación que establece el artículo 81.1 de esta ley o cualquier otra información requerida por la Administración competente en el ejercicio de sus competencias de acuerdo con esta ley.
+q) El incumplimiento de las obligaciones en relación con los servicios de atención al cliente incluidas en esta norma y en su normativa específica.
+r) El incumplimiento del régimen establecido en materia de contratos celebrados fuera de los establecimientos mercantiles.
+s) El incumplimiento de las obligaciones que la regulación de contratos celebrados a distancia impone en materia de plazos de ejecución y de devolución de cantidades abonadas; el envío o suministro, con pretensión de cobro, de bienes o servicios no solicitados por el consumidor y usuario; el uso de técnicas de comunicación que requieran el consentimiento expreso previo o la falta de oposición del consumidor y usuario, cuando no concurra la circunstancia correspondiente; así como la negativa u obstrucción al ejercicio del derecho de desistimiento.
+t) El incumplimiento de las obligaciones que la regulación de contratos celebrados a distancia impone en materias no recogidas en la letra anterior.
+u) Cualquier otro incumplimiento de los requisitos, obligaciones o prohibiciones establecidas en esta norma o en disposiciones que la desarrollen, que no esté previsto en los tipos recogidos en este artículo será considerado infracción de la normativa de consumo y sancionado en los términos previstos en la legislación autonómica que resulte de aplicación.
+Se modifica la letra q) por la disposición final 3.3 de la Ley 10/2025, de 26 de diciembre. Ref. BOE-A-2025-26698#df-3
+ Se modifica por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se añade el apartado 4 por el art. único.6 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Se modifica el apartado 3 por el art. 3.5 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 48
+
+Artículo 48. Calificación y Graduación de las infracciones.
+1. Las infracciones contrarias a la salud de los consumidores y usuarios recogidas en las letras a) b) y c) del artículo anterior se calificarán de conformidad con lo previsto en el artículo 35 de la Ley 14/1986, de 25 de abril, General de Sanidad. Las mismas reglas, adaptando las referencias al bien jurídico protegido, se aplicarán respecto a las infracciones lesivas de la seguridad de los consumidores y usuarios.
+2. Cuando no sea de aplicación lo previsto en el apartado anterior, las infracciones se calificarán inicialmente por los caracteres de la acción u omisión y de la culpabilidad del responsable conforme a las siguientes reglas:
+a) Las infracciones de los apartados f), g), i), k), m), n), ñ), p), q) y t) del artículo 47 se calificarán como leves, salvo que tengan la consideración de graves de acuerdo con el apartado tercero de este artículo.
+b) Las infracciones de los apartados d), e), h), j), l) o), r) y s) se calificarán como graves, salvo que tengan la consideración de muy graves de acuerdo con el apartado tercero de este artículo.
+c) Los reglamentos de los diferentes productos, actividades y servicios podrán concretar la gravedad de las especificaciones de infracción que prevean atendiendo a los criterios señalados en esta Ley, sin que en ningún caso puedan constituir nuevas infracciones o sanciones, ni alterar la naturaleza o límites que esta Ley contiene.
+3. Las infracciones que, de acuerdo con el apartado anterior, merezcan en principio la calificación de leve o grave de acuerdo con el apartado anterior serán calificadas respectivamente como graves o muy graves si concurriere alguna de las siguientes circunstancias:
+a) Haber sido realizadas aprovechando situaciones de necesidad de determinados bienes, productos o servicios de uso o consumo ordinario y generalizado, así como originar igual situación.
+b) Haberse realizado explotando la especial inferioridad, subordinación o indefensión de determinados consumidores o grupos de ellos.
+c) Cometerse con incumplimiento total de los deberes impuestos o con una habitualidad, duración u otras circunstancias cualitativas o cuantitativas que impliquen desprecio manifiesto de los intereses públicos protegidos por esta Ley.
+d) Producir una alteración social grave, injustificada y previsible en el momento de la comisión, originando alarma o desconfianza en los consumidores o usuarios o incidiendo desfavorablemente en un sector económico.
+e) Realizarse prevaliéndose de la situación de predominio del infractor en un sector del mercado.
+f) Ser reincidente el responsable por la comisión de cualesquiera delitos o infracciones lesivas de los intereses de los consumidores o usuarios en las condiciones y plazos previstos en el artículo 29.3.d) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+4. Las infracciones que, de acuerdo con los apartados anteriores, merezcan en principio la calificación de grave o muy grave se considerarán respectivamente como leve o grave si antes de iniciarse el procedimiento sancionador el responsable corrigiera diligentemente las irregularidades en que consista la infracción siempre que no haya causado perjuicios directos, devolviera voluntariamente las cantidades cobradas, colaborara activamente para evitar o disminuir los efectos de la infracción u observara espontáneamente cualquier otro comportamiento de análogo significado.
+No obstante, no se tendrá en cuenta lo dispuesto en el párrafo anterior, y se impondrá la sanción en su grado máximo, cuando se acredite alguna de las siguientes circunstancias:
+a) Que se trate de una infracción continuada o de una práctica habitual.
+b) Que la infracción comporte un riesgo para la salud o la seguridad de los consumidores y usuarios, salvo que el riesgo forme parte del tipo infractor.
+5. Cuando concurrieran circunstancias del apartado 3 con las del apartado 4 se podrán compensar para la calificación de la infracción.
+Se modifican las letras a) y b) del apartado 2 por la disposición final 3.4 de la Ley 10/2025, de 26 de diciembre. Ref. BOE-A-2025-26698#df-3
+ Se modifica por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
+## CAPÍTULO II
+
+Infracciones y sanciones
+
+### Artículo 49
+
+Artículo 49. Sanciones.
+1. La imposición de sanciones deberá garantizar, en cualquier circunstancia, que la comisión de una infracción no resulte más beneficiosa para la parte infractora que el incumplimiento de las normas infringidas. Sobre esta base, las infracciones serán sancionadas con multa comprendida entre los siguientes importes máximos y mínimos:
+a) Infracciones leves: entre 150 y 10.000 euros, pudiéndose sobrepasar esas cantidades hasta alcanzar entre dos y cuatro veces el beneficio ilícito obtenido.
+b) Infracciones graves: entre 10.001 y 100.000 euros pudiéndose sobrepasar esas cantidades hasta alcanzar entre cuatro y seis veces el beneficio ilícito obtenido.
+c) Infracciones muy graves: ente 100.001 y 1.000.000 de euros, pudiéndose sobrepasar esas cantidades hasta alcanzar entre seis y ocho veces el beneficio ilícito obtenido.
+No obstante, cuando la aplicación de los rangos indicados anteriormente conlleve la imposición de una sanción desproporcionada en relación con la capacidad económica del infractor se podrá utilizar el rango asignado a la calificación de un menor nivel de gravedad para el cálculo de la sanción.
+2. Para determinar, dentro de los mínimos y máximos establecidos, el importe de la multa correspondiente a cada infracción, se atenderá especialmente a la concurrencia de alguna de las circunstancias de los apartados 3 o 4 del artículo anterior que no hubieran podido ser tenidas en cuenta para alterar la calificación de la infracción o que no se dieran con todos sus requisitos, además de la naturaleza de la infracción, el grado de culpabilidad o la existencia de intencionalidad, el carácter continuado de la infracción, el número de consumidores afectados, el nivel de los daños y perjuicios que hayan sufrido, las sanciones impuestas por la misma infracción a su autor en otros Estados miembros en casos transfronterizos así como el volumen de negocio anual o cualquier otro indicador de su capacidad económica.
+3. El beneficio ilícito se calculará, cuando no pueda ser determinado exactamente, con criterios estimativos e incluirá el aumento de ingresos y el ahorro de gastos que haya supuesto directa o indirectamente la infracción sin descontar multas, perjuicios de los comisos o cierres, ni las cantidades que por cualquier concepto haya tenido que abonar el responsable a la Administración o a los consumidores y usuarios como consecuencia de la infracción.
+4. La clausura o cierre de establecimientos, instalaciones o servicios que no cuenten con las autorizaciones o registros sanitarios preceptivos, o la suspensión de su funcionamiento hasta tanto se rectifiquen los defectos o se cumplan los requisitos exigidos por razones de sanidad, higiene o seguridad y la retirada del mercado precautoria o definitiva de bienes o servicios por razones de salud y seguridad, no tienen el carácter de sanción.
+5. Cuando se impongan sanciones con arreglo al artículo 21 del Reglamento (UE) 2017/2394, su importe máximo para infracciones muy graves, equivaldrá al 4 % del volumen de negocio anual del empresario en España o en los Estados miembros afectados por la infracción. En caso de no disponerse de esta información, se podrán imponer multas cuyo importe máximo equivaldrá a dos millones de euros.
+6. El órgano competente para imponer la sanción podrá resolver la terminación del procedimiento sancionador cuando los presuntos infractores propongan compromisos que resuelvan los efectos sobre los consumidores y usuarios derivados de las conductas objeto del expediente y quede garantizado suficientemente el interés público. Los compromisos serán vinculantes y surtirán plenos efectos una vez incorporados a la resolución que ponga fin al procedimiento.
+7. Cuando hayan adquirido firmeza en vía administrativa, las resoluciones por la que se ponga fin al procedimiento sancionador en relación con infracciones que tengan la calificación de muy graves conforme a esta norma, así como aquellas que se dicten con arreglo al artículo 21 del Reglamento (UE) 2017/2394, serán de libre acceso y publicadas en la página web de la autoridad correspondiente, una vez sea notificada a los interesados. Dicha publicación se llevará a cabo tras resolver, en su caso, sobre los aspectos confidenciales de su contenido y previa disociación de los datos de carácter personal a los que se refiere el artículo 4.1 Reglamento (UE) 2016/679 del Parlamento Europeo y el Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a la libre circulación de estos datos, salvo en lo que se refiere al nombre de los infractores.
+Se modifica el apartado 1 por la disposición final 1.4 de la Ley 23/2022, de 2 de noviembre de 2022. Ref. BOE-A-2022-18037#df
+ Se modifica por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica la letra i) y se añade la p) en el apartado 1 por el art. 3.2 del Real Decreto-ley 37/2020, de 22 de diciembre. Ref. BOE-A-2020-16824#a3
+ Se añade la letra o) al apartado 1 por el art. único.7 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Se reordena la letra k) del apartado 1 como letra l) y se añade la letra k) por el art. 4.2 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica la letra l) del apartado 1 y se añaden las letras m) y n) por el art. 3.6 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 50
+
+Artículo 50. Sanciones accesorias.
+La administración pública competente podrá acordar en relación con las infracciones en materia de defensa de los consumidores y usuarios previstas en esta norma las siguientes sanciones accesorias:
+1. El comiso de las mercancías objeto de la infracción que sean propiedad del responsable, salvo que ya se hubiere adoptado definitivamente para preservar los intereses públicos o que, pudiendo resultar de lícito comercio tras las modificaciones que procedan, su valor, sumado a la multa, no guarde proporción con la gravedad de la infracción, en cuyo caso podrá no acordarse tal medida o acordarse solo parcialmente en aras de la proporcionalidad. La resolución sancionadora que imponga esta sanción decidirá el destino que, dentro de las previsiones que en su caso se encuentren establecidas en la normativa aplicable, deba dar la Administración competente a los productos decomisados. Todos los gastos que origine el comiso, incluidos los de transporte y destrucción, serán de cuenta del infractor.
+2. La publicidad de las sanciones leves y graves impuestas, cuando hayan adquirido firmeza en vía administrativa, así como los nombres, apellidos, denominación o razón social de las personas naturales o jurídicas responsables y la índole y naturaleza de las infracciones, siempre que concurra riesgo para la salud o seguridad de los consumidores y usuarios, reincidencia en infracciones de naturaleza análoga o acreditada intencionalidad en la infracción.
+3. El cierre temporal del establecimiento, instalación o servicio por un plazo máximo de cinco años en los casos de infracciones muy graves.
+4. La exigencia al infractor de rectificación de los incumplimientos identificados en la resolución que ponga fin al procedimiento.
+Se modifica por la disposición final 1.5 de la Ley 23/2022, de 2 de noviembre de 2022. Ref. BOE-A-2022-18037#df
+ Se modifica el apartado 2 por la disposición final 7.1 de la Ley 15/2022, de 12 de julio. Ref. BOE-A-2022-11589#df-7
+ Redactada conforme a la corrección de errores, publicada en BOE núm. 224, de 17 de septiembre de 2022. Ref. BOE-A-2022-15169
+ Se modifica por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se declara la inconstitucionalidad y nulidad del apartado 1 por la Sentencia TC 10/2015, de 2 de febrero. Ref. BOE-A-2015-2256.
+
+### Artículo 51
+
+Artículo 51. Personas responsables.
+1. Son responsables de las infracciones de consumo las personas físicas o jurídicas que dolosa o culposamente incurran en las mismas.
+2. Cuando en relación con los mismos bienes o servicios e infracciones conexas hayan intervenido distintos sujetos, como fabricantes o importadores, envasadores, marquistas, distribuidores o minoristas, cada uno será responsable de su propia infracción.
+3. Asimismo, la responsabilidad de los coautores de una misma infracción será independiente y se impondrá a cada uno la sanción correspondiente a la infracción en la extensión adecuada a su culpabilidad y demás circunstancias personales. En particular, se entenderán incluidos en este caso los anunciantes y agencias de publicidad respecto de las infracciones de publicidad subliminal, engañosa o que infrinja lo dispuesto en la normativa sobre publicidad de determinados bienes o servicios.
+4. Los importadores o quienes distribuyan por primera vez en el mercado nacional productos de consumo que puedan afectar a la seguridad y salud de los consumidores o usuarios, tienen el deber de asegurar que dichos productos cumplen los requisitos exigibles para ser puestos a disposición de los consumidores o usuarios. Asimismo, responderán solidariamente de las sanciones impuestas a sus suministradores o proveedores, con independencia de la responsabilidad que les corresponda por sus propias infracciones cuando, dentro de su deber de diligencia, no hayan adoptado las medidas que estén a su alcance, incluyendo la facilitación de información, para prevenir las infracciones cometidas por estos.
+5. Cuando una infracción sea imputada a una persona jurídica podrán ser consideradas también como responsables las personas que integren sus organismos rectores o de dirección, así como los técnicos responsables de la elaboración y control.
+6. Conforme a lo previsto en el artículo 28.2 de la Ley 40/2015, de 1 de octubre, en el procedimiento sancionador podrá exigirse al infractor la reposición de la situación alterada por la infracción a su estado original y, en su caso, la indemnización de daños y perjuicios causados al consumidor o usuario, que será determinada y exigida por el órgano al que corresponda el ejercicio de la potestad sancionadora debiendo notificarse al infractor para que proceda a su satisfacción en un plazo que será determinado en función de la cuantía. De no satisfacerse la indemnización en el plazo que al efecto se determine en función de su cuantía, se procederá en la forma prevista en el artículo 101 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+7. La atribución al empresario de la carga de probar el cumplimiento de las obligaciones que le competen de conformidad con lo previsto en esta ley también abarca el ámbito administrativo sancionador en el caso de obligaciones de dar o hacer por parte del empresario.
+Se modifica el apartado 7 por la disposición final 1.6 de la Ley 23/2022, de 2 de noviembre de 2022. Ref. BOE-A-2022-18037#df
+ Se modifica por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
+### Artículo 52
+
+Artículo 52. Prescripción y caducidad.
+1. Las infracciones muy graves prescribirán a los cinco años, las graves a los tres años y las leves al año. Las sanciones impuestas por la comisión de infracciones muy graves prescribirán a los cinco años, las impuestas por la comisión de infracciones graves a los tres años y las impuestas por infracciones leves al año.
+2. El plazo de prescripción de la infracción de la normativa de consumo no comenzará a computar hasta que esta se manifieste o exteriorice y, en el caso de infracciones continuadas, solo cuando finalice la acción infractora o el último acto con que la infracción se consume.
+3. Interrumpirán la prescripción las actuaciones judiciales en el ámbito penal sobre los mismos hechos o sobre otros hechos conexos cuya separación de los constitutivos de la infracción de la normativa de consumo sea jurídicamente imposible, de manera que la sentencia que pudiera recaer vinculara a la Administración actuante.
+4. Igualmente interrumpirá la prescripción de las infracciones de la normativa de consumo la iniciación de procedimientos administrativos de naturaleza sancionadora por los mismos hechos, con conocimiento del interesado, sobre la base de normativa sectorial si, finalmente, apreciándose identidad de fundamento, procediese la aplicación preferente de la normativa de consumo. En estos supuestos, se reiniciará el cómputo del plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable.
+5. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que sea ejecutable la resolución por la que se impone la sanción o haya transcurrido el plazo para recurrirla. Interrumpirá la prescripción en estos supuestos la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causa no imputable al infractor. En el caso de desestimación presunta del recurso de alzada o de reposición interpuesto contra la resolución por la que se imponga la sanción, el plazo de prescripción de la sanción comenzará a contarse desde el día siguiente a aquél en que finalice el plazo legalmente previsto para la resolución de dichos recursos.
+6. Se producirá la caducidad del procedimiento sancionador en caso de no haber recaído resolución transcurridos nueve meses desde su iniciación. La falta de impulso de alguno de los trámites seguidos en el procedimiento no producirá por sí misma su caducidad. Si se acuerda la acumulación en un único procedimiento de infracciones que hasta entonces se tramitaban separadamente, el plazo para dictar resolución se contará desde el acuerdo de iniciación del último de los procedimientos incoado.
+Las actuaciones realizadas en el curso de un procedimiento caducado, así como los documentos y otros elementos de prueba obtenidos en dicho procedimiento, conservarán su validez y eficacia a efectos probatorios en otros procedimientos iniciados o que puedan iniciarse con posterioridad en relación con el mismo u otro responsable.
+En cualquier caso, podrá iniciarse un procedimiento sancionador en tanto no haya prescrito la infracción, con independencia del momento en que hubieran finalizado las diligencias preliminares dirigidas al esclarecimiento de los hechos o la caducidad de un procedimiento previo sobre los mismos hechos.
+7. De forma complementaria a los supuestos recogidos en el artículo 22 de la Ley 39/2015, de 1 de octubre, el transcurso del plazo de nueve meses previsto para resolver el procedimiento se podrá suspender, mediante resolución motivada, cuando deba solicitarse a terceros la aportación de documentos y otros elementos de juicio necesarios o cuando se requiera la cooperación o coordinación con otras autoridades de consumo de otras comunidades autónomas o de la Unión Europea. A tales efectos, el tiempo de suspensión abarcará el tiempo que transcurra desde la remisión de la solicitud hasta la recepción de la información solicitada por el órgano competente para continuar el procedimiento.
+8. La muerte del infractor extingue la responsabilidad. En caso de sanciones pecuniarias impuestas sobre entidades disueltas y liquidadas, la administración correspondiente podrá dirigirse, para el cobro de las sanciones pecuniarias impuestas a dichas entidades, contra los socios o partícipes que responderán solidariamente del importe de la deuda y hasta el límite del valor de la cuota de liquidación que se les hubiera adjudicado.
+Se modifican los apartados 6 y 7 por la disposición final 1.7 de la Ley 23/2022, de 2 de noviembre de 2022. Ref. BOE-A-2022-18037#df
+ Se modifica por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
+## CAPÍTULO III
+
+Régimen de competencias y puntos de enlace
+Se añade por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
+### Artículo 52 bis
+
+Artículo 52 bis. Administración competente.
+1. Las Administraciones españolas que en cada caso resulten competentes sancionarán las infracciones de consumo cometidas en territorio español cualquiera que sea la nacionalidad, el domicilio o el lugar en que radiquen los establecimientos del responsable.
+Las autoridades competentes en materia de consumo sancionarán, asimismo, las conductas tipificadas como infracciones en materia de defensa de los consumidores y usuarios de los empresarios de los sectores que cuenten con regulación específica, en tanto en cuanto dicha regulación no atribuya la competencia sancionadora en materia de consumo a otra administración, y las prácticas comerciales desleales con los consumidores o usuarios.
+2. A efectos de lo previsto en el apartado anterior, corresponderá a los órganos administrativos de las comunidades autónomas la tramitación y resolución de los procedimientos sancionadores derivados de la aplicación de las infracciones previstas en la presente Ley cometidas, aunque parcialmente, en sus respectivos territorios.
+3. Las infracciones se entenderán cometidas en cualquiera de los lugares en que se desarrollen las acciones u omisiones constitutivas de las mismas y, además, salvo en el caso de infracciones relativas a los requisitos de los establecimientos e instalaciones o del personal, en todos aquellos en que se manifieste la lesión o riesgo para los intereses de los consumidores y usuarios protegidos por la norma sancionadora.
+En concreto, en relación con el lugar de manifestación de la lesión o riesgo indicado en el párrafo anterior, las infracciones cometidas a través de internet se considerarán cometidas en el lugar en el que el consumidor o usuario tenga su residencia habitual tanto en el caso de que la infracción se produzca en el marco de un contrato de consumo como cuando la infracción derive de una práctica comercial no vinculada a un contrato de consumo pero haya sido dirigida de forma activa por parte del empresario a dicho consumidor o usuario.
+4. En caso en que, de conformidad con las reglas anteriores, resultasen competentes órganos de diversas administraciones autonómicas, se establecerán mecanismos de colaboración en el seno de la Comisión Sectorial de Consumo.
+5. No obstante, cuando la infracción produzca lesiones o riesgos para los intereses de los consumidores o usuarios de forma generalizada en el territorio de más de una comunidad autónoma, de tal forma que se pueda ver afectada la unidad de mercado nacional y la competencia en el mismo de acuerdo con lo establecido en este precepto, la competencia corresponderá a los órganos competentes en materia de consumo de la Administración General del Estado.
+A estos efectos, cuando los órganos competentes en materia de consumo de la Administración General del Estado inicien un procedimiento sancionador sobre la base de la competencia establecida en este apartado, deberán comunicarlo motivadamente a las autoridades de consumo de las comunidades autónomas, y de las ciudades autónomas de Ceuta y Melilla. Con independencia de lo anterior, las autoridades de consumo de las comunidades autónomas, y de las ciudades autónomas de Ceuta y Melilla, tendrán competencia para los expedientes sancionadores de acuerdo con los apartados 1 a 4 de este artículo, y los órganos competentes en materia de consumo de la Administración General del Estado deberán tener en cuenta las sanciones impuestas por estas autoridades con carácter previo para la determinación de la sanción correspondiente, en aras de garantizar su proporcionalidad.
+En caso de que sea competente la Administración General del Estado, la competencia corresponderá a la Dirección General competente en materia de consumo de la Administración General del Estado cuando la sanción impuesta no supere los 100.000 euros ni implique el cierre temporal del establecimiento, instalación o servicio y a la Secretaría General competente en materia de consumo de la Administración General del Estado en el resto de supuestos. En todo caso, la competencia de la Secretaría General competente en materia de consumo de la Administración General del Estado se extenderá de acuerdo con lo previsto en este apartado a las infracciones generalizadas o generalizadas con dimensión en la Unión Europea, previstas en el Reglamento (UE) 2017/2394, del Parlamento Europeo y del Consejo, de 12 de diciembre de 2017, y a las cometidas a través de internet cuando la residencia o domicilio del responsable, siempre que coincida con el lugar en que se realice efectivamente la gestión administrativa y dirección del negocio, esté fuera de la Unión Europea.
+Para considerar que una infracción de la normativa de consumo produce lesiones o riesgos para los intereses de los consumidores o usuarios de forma generalizada, de tal forma que se pueda ver afectada la unidad de mercado nacional y la competencia en el mismo, se tendrán en cuenta, entre otras circunstancias, el número de consumidores y usuarios afectados, la dimensión del mercado donde opere la compañía infractora, la cuota de mercado de la entidad correspondiente o los efectos de la conducta sobre los competidores efectivos o potenciales y sobre los consumidores y usuarios.
+Se modifica por la disposición final 1.8 de la Ley 23/2022, de 2 de noviembre de 2022. Ref. BOE-A-2022-18037#df
+ Se añade por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
+### Artículo 52 ter
+
+Artículo 52 ter. Oficina de enlace.
+1. La Dirección General competente en materia de consumo de la Administración General del Estado actuará como Oficina de enlace única a los efectos del Reglamento (UE) 2017/2394, del Parlamento Europeo y del Consejo de 12 de diciembre de 2017.
+2. Dicho órgano será responsable de coordinar las actividades de investigación y ejecución que realicen las autoridades competentes, otras autoridades públicas contempladas en el artículo 6 del Reglamento (UE) 2017/2394 y, en su caso, los organismos designados, en relación con las infracciones reguladas en dicho Reglamento.
+3. El órgano referido en el apartado 1 comunicará a la Comisión Europea las autoridades competentes que sean responsables de que se cumpla la legislación de la Unión que protege los intereses de los consumidores o usuarios y garantizará que colaboren estrechamente, de modo que puedan desempeñar eficazmente sus funciones.
+4. Las autoridades competentes designadas dispondrán al menos de las facultades mínimas de investigación y ejecución previstas en el artículo 9 del Reglamento (UE) 2017/2394 y las ejercerán de conformidad con su artículo 10.
+5. Con sujeción a lo establecido en el artículo 103 de la Ley 39/2015, de 1 de octubre, las autoridades competentes podrán imponer multas coercitivas, una vez efectuado requerimiento de ejecución de los actos y resoluciones administrativas destinadas al cumplimiento de lo establecido en el Reglamento (UE) 2017/2394. El requerimiento deberá advertir del plazo establecido para su cumplimiento, así como de la cuantía de la multa que pudiere ser impuesta en caso de incumplimiento. Para la determinación del plazo se estará a la naturaleza y extensión de la obligación, debiendo ser suficiente para su cumplimiento, no pudiendo exceder la cuantía de la multa de 3.000 euros o del 10% del importe de la obligación, si esta fuere cuantificable. Si la persona requerida no diere cumplimiento a lo ordenado en el plazo establecido, el órgano competente podrá reiterar las multas por períodos que sean suficientes para su cumplimiento, no pudiendo, en cualquier caso, otorgarse un plazo inferior al establecido en el primer requerimiento. Estas multas son independientes de las que puedan imponerse en concepto de sanción y compatibles con ellas.
+Téngase en cuenta que este artículo, añadido por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según determina su disposición final 10.c).
+Se añade por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
+## TÍTULO V
+
+Procedimientos judiciales y extrajudiciales de protección de los consumidores y usuarios
+
+## CAPÍTULO I
+
+Acciones de cesación
+
+### Artículo 53
+
+Artículo 53. Acciones de cesación.
+La acción de cesación se dirige a obtener una sentencia que condene al demandado a cesar en la conducta y a prohibir su reiteración futura. Asimismo, la acción podrá ejercerse para prohibir la realización de una conducta cuando esta haya finalizado al tiempo de ejercitar la acción, si existen indicios suficientes que hagan temer su reiteración de modo inmediato.
+A efectos de lo dispuesto en este capítulo, también se considera conducta contraria a esta norma en materia de cláusulas abusivas la recomendación de utilización de cláusulas abusivas.
+A cualquier acción de cesación podrá acumularse siempre que se solicite la de nulidad y anulabilidad, la de incumplimiento de obligaciones, la de resolución o rescisión contractual y la de restitución de cantidades que se hubiesen cobrado en virtud de la realización de las conductas o estipulaciones o condiciones generales declaradas abusivas o no transparentes, así como la de indemnización de daños y perjuicios que hubiere causado la aplicación de tales cláusulas o prácticas. De dicha acción acumulada accesoria conocerá el mismo juzgado encargado de la acción principal, la de cesación por la vía prevista en la ley procesal.
+(Último párrafo suprimido)
+Téngase en cuenta que se suprime el último párrafo, con efectos de 1 de enero de 2022, por el art. 16.1 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, según establece su disposición final octava.
+ Redacción anterior:
+ "Serán acumulables a cualquier acción de cesación interpuesta por asociaciones de consumidores y usuarios la de nulidad y anulabilidad, de incumplimiento de obligaciones, la de resolución o rescisión contractual y la de restitución de cantidades que se hubiesen cobrado en virtud de la realización de las conductas o estipulaciones o condiciones generales declaradas abusivas o no transparentes, así como la de indemnización de daños y perjuicios que hubiere causado la aplicación de tales cláusulas o prácticas."
+Se suprime el último párrafo, con efectos de 1 de enero de 2022, por el art. 16.1 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+ Se modifica por el art. único.8 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 54
+
+Artículo 54. Legitimación.
+1. Frente a las conductas contrarias a lo dispuesto en la presente norma en materia de cláusulas abusivas, contratos celebrados fuera de establecimiento mercantil, venta a distancia, garantías en la venta de productos y viajes combinados, estarán legitimados para ejercitar la acción de cesación:
+a) El Instituto Nacional del Consumo y los órganos o entidades correspondientes de las comunidades autónomas y de las corporaciones locales competentes en materia de defensa de los consumidores y usuarios.
+b) Las asociaciones de consumidores y usuarios que reúnan los requisitos establecidos en esta norma o, en su caso, en la legislación autonómica en materia de defensa de los consumidores y usuarios.
+c) El Ministerio Fiscal.
+d) Las entidades de otros Estados miembros de la Comunidad Europea constituidas para la protección de los intereses colectivos y de los intereses difusos de los consumidores y usuarios que estén habilitadas mediante su inclusión en la lista publicada a tal fin en el «Diario Oficial de las Comunidades Europeas».
+Los Jueces y Tribunales aceptarán dicha lista como prueba de la capacidad de la entidad habilitada para ser parte, sin perjuicio de examinar si la finalidad de la misma y los intereses afectados legitiman el ejercicio de la acción.
+2. Todas las entidades citadas en el apartado anterior podrán personarse en los procesos promovidos por otra cualquiera de ellas, si lo estiman oportuno para la defensa de los intereses que representan.
+3. La legitimación para el ejercicio de la acción de cesación frente al resto de conductas de empresarios contrarias a la presente norma que lesionen intereses colectivos o intereses difusos de los consumidores y usuarios, se regirá por lo dispuesto en el artículo 11, apartados 2 y 3, de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+Asimismo, estarán legitimados para el ejercicio de esta acción:
+a) El Instituto Nacional del Consumo y los órganos o entidades correspondientes de las comunidades autónomas y de las corporaciones locales competentes en materia de defensa de los consumidores.
+b) El Ministerio Fiscal.
+
+### Artículo 55
+
+Artículo 55. Acciones de cesación en otro Estado miembro de la Unión Europea.
+1. El Instituto Nacional del Consumo y los órganos o entidades correspondientes de las comunidades autónomas y de las corporaciones locales competentes en materia de defensa de los consumidores y usuarios podrán ejercitar acciones de cesación en otro Estado miembro de la Comunidad Europea, cuando estén incluidos en la lista publicada en el «Diario Oficial de las Comunidades Europeas».
+El Ministerio de Justicia notificará a la Comisión Europea cada una de dichas entidades, con su denominación y finalidad, previa solicitud de dichos órganos o entidades, y dará traslado de esa notificación al Instituto Nacional del Consumo.
+2. Las asociaciones de consumidores y usuarios presentes en el Consejo de Consumidores y Usuarios podrán ejercitar acciones de cesación en otro Estado miembro de la Comunidad Europea cuando estén incluidas en la lista publicada en el «Diario Oficial de las Comunidades Europeas», debiendo solicitar del Instituto Nacional del Consumo la incorporación a dicha lista.
+El Ministerio de Justicia notificará a la Comisión Europea cada una de dichas entidades, con su denominación y finalidad, a instancia del Instituto Nacional del Consumo.
+
+### Artículo 56
+
+Artículo 56. Imprescriptibilidad de las acciones de cesación.
+Las acciones de cesación previstas en este título son imprescriptibles, sin perjuicio de lo dispuesto en el artículo 19, apartado 2 de la Ley 7/1998, de 13 de abril, sobre condiciones generales de la contratación en relación con las condiciones generales inscritas en el Registro de Condiciones Generales de la Contratación.
+
+## CAPÍTULO II
+
+Sistema Arbitral del Consumo
+
+### Artículo 57
+
+Artículo 57. Sistema Arbitral del Consumo.
+1. El Sistema Arbitral del Consumo es el sistema extrajudicial de resolución de resolución de conflictos entre los consumidores y usuarios y los empresarios a través del cual, sin formalidades especiales y con carácter vinculante y ejecutivo para ambas partes, se resuelven las reclamaciones de los consumidores y usuarios, siempre que el conflicto no verse sobre intoxicación, lesión o muerte o existan indicios racionales de delito.
+2. La organización, gestión y administración del Sistema Arbitral de Consumo y el procedimiento de resolución de los conflictos, se establecerá reglamentariamente por el Gobierno. En dicho reglamento podrá preverse la decisión en equidad, salvo que las partes opten expresamente por el arbitraje de derecho, el procedimiento a través del cual se administrará el arbitraje electrónico, los supuestos en que podrá interponerse una reclamación ante la Junta Arbitral Nacional frente a las resoluciones de las Juntas arbitrales territoriales sobre admisión o inadmisión de las solicitudes de arbitraje y los casos en que actuará un árbitro único en la administración del arbitraje de consumo.
+3. Los órganos arbitrales estarán integrados por representantes de los sectores empresariales interesados, de las organizaciones de consumidores y usuarios y de las Administraciones públicas.
+4. No serán vinculantes para los consumidores los convenios arbitrales suscritos con un empresario antes de surgir el conflicto. La suscripción de dicho convenio, tendrá para el empresario la consideración de aceptación del arbitraje para la solución de las controversias derivadas de la relación jurídica a la que se refiera, siempre que el acuerdo de sometimiento reúna los requisitos exigidos por las normas aplicables.
+Se modifica el apartado 4 por el art. único.9 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 58
+
+Artículo 58. Sumisión al Sistema Arbitral del Consumo.
+1. La sumisión de las partes al Sistema Arbitral del Consumo será voluntaria y deberá constar expresamente, por escrito, por medios electrónicos o en cualquier otra forma admitida legalmente que permita tener constancia del acuerdo.
+2. Quedarán sin efecto los convenios arbitrales y las ofertas públicas de adhesión al arbitraje de consumo formalizados por quienes sean declarados en concurso de acreedores. A tal fin, el auto de declaración de concurso será notificado al órgano a través del cual se hubiere formalizado el convenio y a la Junta Arbitral Nacional, quedando desde ese momento el deudor concursado excluido a todos los efectos del Sistema Arbitral de Consumo.
+
+## LIBRO SEGUNDO
+
+Contratos y garantías
+
+## TÍTULO I
+
+Contratos con los consumidores y usuarios
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 59
+
+Artículo 59. Ámbito de aplicación.
+1. Son contratos con consumidores y usuarios los realizados entre un consumidor o un usuario y un empresario.
+2. Los contratos con consumidores y usuarios se regirán, en todo lo que no esté expresamente establecido en esta norma o en leyes especiales, por el derecho común aplicable a los contratos.
+La regulación sectorial de los contratos con los consumidores y usuarios deberá respetar el nivel de protección dispensado en esta ley, sin perjuicio de que prevalezcan y sean de aplicación preferente las disposiciones sectoriales respecto de aquellos aspectos expresamente previstos en las disposiciones del derecho de la Unión Europea de las que traigan causa.
+No obstante lo previsto en el párrafo anterior, la regulación sectorial podrá elevar el nivel de protección conferido por esta ley siempre que respete, en todo caso, las disposiciones del derecho de la Unión Europea.
+3. Los contratos con consumidores y usuarios que incorporen condiciones generales de la contratación están sometidos, además, a la Ley 7/1998, de 13 de abril, sobre condiciones generales de la contratación.
+4. El ámbito de aplicación de este Libro también abarcará los contratos en virtud de los cuales el empresario suministra o se compromete a suministrar contenidos o servicios digitales al consumidor o usuario y este facilita o se compromete a facilitar datos personales, salvo cuando los datos personales facilitados por el consumidor o usuario sean tratados exclusivamente por el empresario con el fin de suministrar los contenidos o servicios digitales objeto de un contrato de compraventa o de servicios o para permitir que el empresario cumpla los requisitos legales a los que está sujeto, y el empresario no trate esos datos para ningún otro fin.
+Téngase en cuenta que el apartado 4, añadido por el art. 16.2 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según establece su disposición final octava.
+Se añade el apartado 4, con efectos de 1 de enero de 2022, por el art. 16.2 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+ Se modifica el apartado 2 por el art. único.10 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 59 bis
+
+Artículo 59 bis. Definiciones.
+1. A los efectos de este libro se entenderá por:
+a) “Bienes con elementos digitales”: todo objeto mueble tangible que incorpore contenidos o servicios digitales o esté interconectado con ellos de tal modo que la ausencia de dichos contenidos o servicios digitales impediría que los bienes realizasen sus funciones.
+b) “Bienes elaborados conforme a las especificaciones del consumidor y usuario”: todo bien no prefabricado para cuya elaboración sea determinante una elección o decisión individual por parte del consumidor y usuario.
+c) “Compatibilidad”: la capacidad de los bienes de funcionar con los aparatos (hardware) o programas (software) con los cuales se utilizan normalmente los bienes del mismo tipo, sin necesidad de convertir los bienes, aparatos (hardware) o programas (software), así como la capacidad de los contenidos o servicios digitales de funcionar con los aparatos (hardware) o programas (software) con los cuales se utilizan normalmente los contenidos o servicios digitales del mismo tipo, sin necesidad de convertir los contenidos o servicios digitales.
+d) “Contenido digital”: los datos producidos y suministrados en formato digital.
+e) “Contrato complementario”: un contrato por el cual el consumidor y usuario adquiere bienes o servicios sobre la base de otro contrato celebrado con un empresario, incluidos los contratos a distancia o celebrados fuera del establecimiento, y dichos bienes o servicios son proporcionados por el empresario o un tercero sobre la base de un acuerdo entre dicho tercero y el empresario.
+f) “Contrato de compraventa o venta”: todo contrato celebrado, en el ámbito de una relación de consumo, en virtud del cual el empresario transmite o se compromete a transmitir la propiedad de bienes al consumidor o usuario pudiendo llevar incluido la prestación de servicios.
+g) “Contrato de servicios”: todo contrato, con excepción del contrato de venta o compraventa, celebrado en el ámbito de una relación de consumo, en virtud del cual el empresario presta o se compromete a prestar un servicio al consumidor o usuario, incluido aquel de carácter digital.
+h) “Datos personales”: toda información sobre una persona física identificada o identificable, considerándose así toda persona cuya identidad pueda determinarse, directa o indirectamente, en particular mediante un identificador, como por ejemplo un nombre, un número de identificación, datos de localización, un identificador en línea o uno o varios elementos propios de la identidad física, fisiológica, genética, psíquica, económica, cultural o social de dicha persona.
+i) “Durabilidad”: la capacidad de los bienes de mantener sus funciones y rendimiento requeridos en condiciones normales de utilización durante el tiempo que sea razonable en función del tipo de bien.
+j) “Entorno digital”: el aparato (hardware), programa (software) y cualquier conexión a la red que el consumidor y usuario utilice para acceder a los contenidos o servicios digitales o para hacer uso de ellos.
+k) “Establecimiento mercantil”: toda instalación inmueble de venta al por menor en la que el empresario ejerce su actividad de forma permanente; o toda instalación móvil de venta al por menor en la que el empresario ejerce su actividad de forma habitual.
+l) “Funcionalidad”: la capacidad de los contenidos o servicios digitales de realizar sus funciones teniendo en cuenta su finalidad.
+m) “Garantía comercial”: todo compromiso asumido por un empresario o un productor (el “garante”) frente al consumidor o usuario, además de sus obligaciones legales con respecto a la garantía de conformidad, de reembolsar el precio pagado o de sustituir, reparar o prestar un servicio de mantenimiento relacionado con el bien o el contenido o servicio digital, en caso de que no se cumplan las especificaciones o cualquier otro requisito no relacionado con la conformidad del bien o del contenido o servicio digital con el contrato, enunciados en la declaración de garantía o en la publicidad, disponible en el momento o antes de la celebración del contrato.
+n) “Integración”: la conexión e incorporación de los contenidos o servicios digitales con los componentes del entorno digital del consumidor o usuario para que los contenidos o servicios digitales se utilicen con arreglo a los requisitos de conformidad previstos en el título IV de este libro.
+ñ) “Interoperabilidad”: la capacidad de los bienes o de los contenidos o servicios digitales de funcionar con aparatos (hardware) o programas (software) distintos de aquellos con los cuales se utilizan normalmente los bienes o los contenidos o servicios digitales del mismo tipo.
+o) “Servicio digital”: un servicio que permite al consumidor o usuario crear, tratar, almacenar o consultar datos en formato digital, o un servicio que permite compartir datos en formato digital cargados o creados por el consumidor u otros usuarios de ese servicio, o interactuar de cualquier otra forma con dichos datos.
+p) “Servicio financiero”: todo servicio en el ámbito bancario, de crédito, de seguros, de pensión privada, de inversión o de pago.
+q) “Soporte duradero”: todo instrumento que permita al consumidor o usuario y al empresario almacenar información que se le haya dirigido personalmente de forma que en el futuro pueda consultarla durante un período de tiempo acorde con los fines de dicha información y que permita su fiel reproducción. Entre otros, tiene la consideración de soporte duradero, el papel, las memorias USB, los CD-ROM, los DVD, las tarjetas de memoria o los discos duros de ordenador, los correos electrónicos, así como los mensajes SMS.
+r) “Subasta pública”: método de venta en el que el empresario ofrece bienes o servicios a los consumidores o usuarios, que asisten o se les da la posibilidad de asistir a la subasta en persona, aunque sea por medios telemáticos, mediante un procedimiento de puja transparente y competitivo, dirigido por un subastador y en el que el adjudicatario esté obligado a comprar los bienes o servicios.
+2. A los efectos de este libro, título I, capítulo I, artículos 66 bis y 66 ter, y de los títulos III y IV, se consideran “bienes” a las cosas muebles corporales. El agua, el gas y la electricidad se considerarán “bienes” cuando estén envasados para su comercialización en un volumen delimitado o en cantidades determinadas.
+Téngase en cuenta que esta actualización, establecida por el art. 16.3 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "1. A los efectos de este libro se entenderá por:
+ a) "contrato de venta": todo contrato en virtud del cual el empresario transmita o se comprometa a transmitir a un consumidor la propiedad de ciertos bienes y el consumidor pague o se comprometa a pagar su precio, incluido cualquier contrato cuyo objeto esté constituido a la vez por bienes y servicios.
+ b) "contrato de servicios": todo contrato, con excepción de un contrato de venta, en virtud del cual el empresario preste o se comprometa a prestar un servicio al consumidor y usuario y éste pague o se comprometa a pagar su precio.
+ c) "contrato complementario": un contrato por el cual el consumidor y usuario adquiera bienes o servicios sobre la base de otro contrato celebrado con un empresario, incluidos los contratos a distancia o celebrados fuera del establecimiento, y dichos bienes o servicios sean proporcionados por el empresario o un tercero sobre la base de un acuerdo entre dicho tercero y el empresario.
+ d) "establecimiento mercantil": toda instalación inmueble de venta al por menor en la que el empresario ejerce su actividad de forma permanente; o toda instalación móvil de venta al por menor en la que el empresario ejerce su actividad de forma habitual.
+ e) "bienes elaborados conforme a las especificaciones del consumidor y usuario": todo bien no prefabricado para cuya elaboración sea determinante una elección o decisión individual por parte del consumidor y usuario.
+ f) "soporte duradero": todo instrumento que permita al consumidor y usuario y al empresario almacenar información que se le haya dirigido personalmente de forma que en el futuro pueda consultarla durante un período de tiempo acorde con los fines de dicha información y que permita su fiel reproducción. Entre otros, tiene la consideración de soporte duradero, el papel, las memorias USB, los CD-ROM, los DVD, las tarjetas de memoria o los discos duros de ordenador, los correos electrónicos, así como los mensajes SMS.
+ g) "servicio financiero": todo servicio en el ámbito bancario, de crédito, de seguros, de pensión privada, de inversión o de pago.
+ h) "subasta pública": procedimiento de contratación transparente y competitivo en virtud del cual el empresario ofrece bienes o servicios a los consumidores y usuarios que asistan o puedan asistir a la subasta en persona, dirigido por un subastador y en el que el adjudicatario esté obligado a comprar los bienes o servicios.
+ i) "contenido digital": los datos producidos y suministrados en formato digital.
+ j) "garantía comercial": todo compromiso asumido por un empresario o un productor (el "garante") frente al consumidor y usuario, además de sus obligaciones legales con respecto a la garantía de conformidad, de reembolsar el precio pagado, sustituir o reparar el bien o prestar un servicio relacionado con él, en caso de que no se cumplan las especificaciones o cualquier otro elemento no relacionado con la conformidad del bien con el contrato, enunciados en el documento de garantía o en la publicidad correspondiente, disponible en el momento o antes de la celebración del contrato.
+ 2. A los efectos de este libro, título I, capítulo I, artículos 66 bis y 66 ter y del título III, se consideran bienes a las cosas muebles corporales, excepto los vendidos por la autoridad correspondiente tras un embargo u otra medida similar. El agua, el gas y la electricidad se considerarán "bienes" cuando estén envasados para su comercialización en un volumen delimitado o en cantidades determinadas."
+3. A los efectos del artículo 20 y de este libro, se considera «mercado en línea» un servicio que emplea programas (software), incluidos un sitio web, parte de un sitio web o una aplicación, operado por el empresario o por cuenta de éste, que permite a los consumidores o usuarios celebrar contratos a distancia con otros empresarios o consumidores, y se considera «proveedor de un mercado en línea» a todo empresario que pone a disposición de los consumidores o usuarios un mercado en línea. A los mismos efectos, se entiende por «clasificación», la preeminencia relativa atribuida a los bienes y servicios, en su presentación, organización o comunicación por parte del empresario, independientemente de los medios tecnológicos empleados para dicha presentación, organización o comunicación.
+Téngase en cuenta que el apartado 3, añadido por el art. 82.5 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+Se añade el apartado 3 por el art. 82.5 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica, con efectos de 1 de enero de 2022, por el art. 16.3 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+ Se añade por el art. único.11 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 60
+
+Artículo 60. Información previa al contrato.
+1. Antes de que el consumidor y usuario quede vinculado por un contrato y oferta correspondiente, el empresario deberá facilitarle de forma clara y comprensible, salvo que resulte manifiesta por el contexto, la información relevante, veraz y suficiente sobre las características principales del contrato, en particular sobre sus condiciones jurídicas y económicas.
+Sin perjuicio de la normativa sectorial que en su caso resulte de aplicación, los términos en que se suministre dicha información, principalmente cuando se trate de personas consumidoras vulnerables, además de claros, comprensibles, veraces y suficientes, se facilitarán en un formato fácilmente accesible, garantizando en su caso la asistencia necesaria, de forma que aseguren su adecuada comprensión y permitan la toma de decisiones óptimas para sus intereses.
+2. Serán relevantes las obligaciones de información sobre los bienes o servicios establecidas en esta norma y cualesquiera otras que resulten de aplicación y, además:
+a) Las características principales de los bienes o servicios, en la medida adecuada al soporte utilizado y a los bienes o servicios.
+b) La identidad del empresario, incluidos los datos correspondientes a la razón social, el nombre comercial, su dirección completa y su número de teléfono y, en su caso, del empresario por cuya cuenta actúe.
+c) El precio total, incluidos todos los impuestos y tasas. Si por la naturaleza de los bienes o servicios el precio no puede calcularse razonablemente de antemano o está sujeto a la elaboración de un presupuesto, la forma en que se determina el precio así como todos los gastos adicionales de transporte, entrega o postales o, si dichos gastos no pueden ser calculados razonablemente de antemano, el hecho de que puede ser necesario abonar dichos gastos adicionales.
+En toda información al consumidor y usuario sobre el precio de los bienes o servicios, incluida la publicidad, se informará del precio total, desglosando, en su caso, el importe de los incrementos o descuentos que sean de aplicación, de los gastos que se repercutan al consumidor y usuario y de los gastos adicionales por servicios accesorios, financiación, utilización de distintos medios de pago u otras condiciones de pagos similares.
+d) Los procedimientos de pago, entrega y ejecución, la fecha en que el empresario se compromete a entregar los bienes o a ejecutar la prestación del servicio.
+e) Además del recordatorio de la existencia de una garantía legal de conformidad para los bienes, el contenido digital y los servicios digitales, la existencia y las condiciones de los servicios posventa y las garantías comerciales.
+f) La duración del contrato, o, si el contrato es de duración indeterminada o se prolonga de forma automática, las condiciones de resolución. Además, de manera expresa, deberá indicarse la existencia de compromisos de permanencia o vinculación de uso exclusivo de los servicios de un determinado prestador así como las penalizaciones en caso de baja en la prestación del servicio.
+g) La lengua o lenguas en las que podrá formalizarse el contrato, cuando no sea aquella en la que se le ha ofrecido la información previa a la contratación.
+h) La existencia del derecho de desistimiento que pueda corresponder al consumidor y usuario, el plazo y la forma de ejercitarlo.
+i) La funcionalidad de los bienes con elementos digitales, el contenido digital y los servicios digitales, incluidas las medidas técnicas de protección aplicables, como son, entre otras, la protección a través de la gestión de los derechos digitales o la codificación regional.
+j) Toda compatibilidad e interoperabilidad relevante de los bienes con elementos digitales, el contenido digital y los servicios digitales conocidos por el empresario o que quepa esperar razonablemente que conozca, como son, entre otros, el sistema operativo, la versión necesaria o determinados elementos de los soportes físicos.
+k) El procedimiento para atender las reclamaciones de los consumidores y usuarios, así como, en su caso, la información sobre el sistema extrajudicial de resolución de conflictos prevista en el artículo 21.4.
+3. El apartado 1 se aplicará también a los contratos para el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, calefacción mediante sistemas urbanos y contenido digital que no se preste en un soporte material.
+4. La información precontractual debe facilitarse al consumidor y usuario de forma gratuita y al menos en castellano.
+5. La carga de la prueba en relación con el cumplimiento de los requisitos de información establecidos en este artículo incumbirá al empresario.
+Téngase en cuenta que esta última actualización de las letras e), i) y j) del apartado 2 y el nuevo apartado 5, establecidos por el art. 82.6 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según determina su disposición final 10.c).
+ Redacción anterior:
+ "e) Además del recordatorio de la existencia de una garantía legal de conformidad para los bienes, la existencia y las condiciones de los servicios posventa y las garantías comerciales.
+ i) La funcionalidad de los contenidos digitales, incluidas las medidas técnicas de protección aplicables, como son, entre otras, la protección a través de la gestión de los derechos digitales o la codificación regional.
+ j) Toda interoperabilidad relevante del contenido digital con los aparatos y programas conocidos por el empresario o que quepa esperar razonablemente que conozca, como son, entre otros, el sistema operativo, la versión necesaria o determinados elementos de los soportes físicos."
+Se modifican las letras e), i) y j) del apartado 2 y se añade el apartado 5 por el art. 82.6 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 282, de 25 de noviembre de 2021. Ref. BOE-A-2021-19369
+ Se añade el párrafo segundo al apartado 1 por el art. 1.8 del Real Decreto-ley 1/2021, de 19 de enero. Ref. BOE-A-2021-793#ap
+ Se modifica por el art. único.12 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Se añade la letra h) al apartado 2 por el art. 4.3 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 60 bis
+
+Artículo 60 bis. Pagos adicionales.
+1. Antes de que el consumidor y usuario quede vinculado por cualquier contrato u oferta, el empresario deberá obtener su consentimiento expreso para todo pago adicional a la remuneración acordada para la obligación contractual principal del empresario. Estos suplementos opcionales se comunicarán de una manera clara y comprensible y su aceptación por el consumidor y usuario se realizará sobre una base de opción de inclusión. Si el empresario no ha obtenido el consentimiento expreso del consumidor y usuario, pero lo ha deducido utilizando opciones por defecto que éste debe rechazar para evitar el pago adicional, el consumidor y usuario tendrá derecho al reembolso de dicho pago.
+2. Corresponde al empresario probar el cumplimiento de las obligaciones a que este artículo se refiere.
+Se añade por el art. único.13 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 60 ter
+
+Artículo 60 ter. Cargos por la utilización de medios de pago.
+1. Los empresarios no podrán facturar a los consumidores y usuarios, por el uso de determinados medios de pago, cargos que superen el coste soportado por el empresario por el uso de tales medios.
+2. Corresponde al empresario probar el cumplimiento de las obligaciones a que este artículo se refiere.
+Se añade por el art. único.14 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 61
+
+Artículo 61. Integración de la oferta, promoción y publicidad en el contrato.
+1. La oferta, promoción y publicidad de los bienes o servicios se ajustarán a su naturaleza, características, utilidad o finalidad y a las condiciones jurídicas o económicas de la contratación.
+2. El contenido de la oferta, promoción o publicidad, las prestaciones propias de cada bien o servicio, las condiciones jurídicas o económicas y garantías ofrecidas serán exigibles por los consumidores y usuarios, aún cuando no figuren expresamente en el contrato celebrado o en el documento o comprobante recibido y deberán tenerse en cuenta en la determinación del principio de conformidad con el contrato.
+3. No obstante lo dispuesto en el apartado anterior, si el contrato celebrado contuviese cláusulas más beneficiosas, estas prevalecerán sobre el contenido de la oferta, promoción o publicidad.
+
+### Artículo 62
+
+Artículo 62. Contrato.
+1. En la contratación con consumidores y usuarios debe constar de forma inequívoca su voluntad de contratar o, en su caso, de poner fin al contrato.
+Se presumirá que no existe voluntad de contratar, deviniendo nulo el contrato, en aquellos contratos suscritos vía telefónica con incumplimiento de lo previsto en la normativa relativa a llamadas no solicitadas. En cualquier caso, se entenderá que no existe consentimiento para la realización de la llamada que da lugar a la contratación si este no ha sido obtenido o renovado de forma expresa en los dos años anteriores a la comunicación.
+Como excepción a lo previsto en el párrafo anterior, en la contratación de préstamos o créditos con entidades financieras en los que se haya perfeccionado el contrato y entregado las sumas prestadas, el incumplimiento de lo previsto en la normativa relativa a llamadas no solicitadas supondrá la aplicación al contrato de los intereses legales del dinero. Si el interés pactado fuese inferior al legal, se mantendrán los intereses pactados.
+2. Se prohíben, en los contratos con consumidores y usuarios, las cláusulas que impongan obstáculos onerosos o desproporcionados para el ejercicio de los derechos reconocidos al consumidor en el contrato.
+3. En particular, en los contratos de prestación de servicios o suministro de productos de tracto sucesivo o continuado se prohíben las cláusulas que establezcan plazos de duración excesiva o limitaciones que excluyan u obstaculicen el derecho del consumidor y usuario a poner fin al contrato.
+El consumidor y usuario podrá ejercer su derecho a poner fin al contrato en la misma forma en que lo celebró, sin ningún tipo de sanción o de cargas onerosas o desproporcionadas, tales como la pérdida de las cantidades abonadas por adelantado, el abono de cantidades por servicios no prestados efectivamente, la ejecución unilateral de las cláusulas penales que se hubieran fijado contractualmente o la fijación de indemnizaciones que no se correspondan con los daños efectivamente causados.
+4. Los contratos de prestación de servicios o suministro de productos de tracto sucesivo o continuado deberán contemplar expresamente el procedimiento a través del cual el consumidor y usuario puede ejercer su derecho a poner fin al contrato.
+5. En caso de que el usuario incumpla el compromiso de permanencia adquirido con la empresa, la penalización por baja o cese prematuro de la relación contractual, será proporcional al número de días no efectivos del compromiso de permanencia acordado.
+Se modifica el apartado 1 por la disposición final 3.5 de la Ley 10/2025, de 26 de diciembre. Ref. BOE-A-2025-26698#df-3
+ Se añade el apartado 5, con efectos de 1 de enero de 2022, por el art. 16.4 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+ Redactado conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 2008. Ref. BOE-A-2008-2487
+
+### Artículo 63
+
+Artículo 63. Confirmación documental de la contratación realizada.
+1. En los contratos con consumidores y usuarios se entregará recibo justificante, copia o documento acreditativo con las condiciones esenciales de la operación, incluidas las condiciones generales de la contratación, aceptadas y firmadas por el consumidor y usuario, cuando éstas sean utilizadas en la contratación.
+2. Salvo lo previsto legalmente en relación con los contratos que, por prescripción legal, deban formalizarse en escritura pública, la formalización del contrato será gratuita para el consumidor, cuando legal o reglamentariamente deba documentarse éste por escrito o en cualquier otro soporte de naturaleza duradera.
+3. En los contratos con consumidores y usuarios, estos tendrán derecho a recibir la factura en papel. En su caso, la expedición de la factura electrónica estará condicionada a que el empresario haya obtenido previamente el consentimiento expreso del consumidor. La solicitud del consentimiento deberá precisar la forma en la que se procederá a recibir la factura electrónica, así como la posibilidad de que el destinatario que haya dado su consentimiento pueda revocarlo y la forma en la que podrá realizarse dicha revocación.
+El derecho del consumidor y usuario a recibir la factura en papel no podrá quedar condicionado al pago de cantidad económica alguna.
+Se añade el apartado 3 por el art. único.15 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 117, de 14 de mayo de 2014. Ref. BOE-A-2014-5107.
+
+### Artículo 64
+
+Artículo 64. Documentación complementaria en la compraventa de viviendas.
+En el caso de viviendas cuya primera transmisión se efectúe después de la entrada en vigor de esta norma, se facilitará además la documentación prevista en la Ley de Ordenación de la Edificación o norma autonómica que resulte de aplicación.
+
+### Artículo 65
+
+Artículo 65. Integración del contrato.
+Los contratos con los consumidores y usuarios se integrarán, en beneficio del consumidor, conforme al principio de buena fe objetiva, también en los supuestos de omisión de información precontractual relevante.
+Redactado conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 2008. Ref. BOE-A-2008-2487
+
+### Artículo 66
+
+Artículo 66. Comparecencia personal del consumidor y usuario.
+En la contratación con consumidores y usuarios no se podrá hacer obligatoria la comparecencia personal del consumidor y usuario para realizar cobros, pagos o trámites similares, debiendo garantizarse, en todo caso, la constancia del acto realizado.
+
+### Artículo 66 bis
+
+Artículo 66 bis. Entrega de bienes y suministro de contenidos o servicios digitales que no se presten en soporte material.
+1. Salvo que las partes acuerden otra cosa, el empresario entregará los bienes mediante la transmisión de su posesión material o control al consumidor o usuario, sin ninguna demora indebida y en un plazo máximo de 30 días naturales a partir de la celebración del contrato y suministrará los contenidos o servicios digitales sin demora indebida tras la celebración del contrato.
+La obligación de suministro por parte del empresario se entenderá cumplida cuando:
+a) El contenido digital o cualquier medio adecuado para acceder al contenido digital o descargarlo sea puesto a disposición del consumidor o usuario o sea accesible para él o para la instalación física o virtual elegida por el consumidor y usuario para ese fin.
+b) El servicio digital sea accesible para el consumidor o usuario o para la instalación física o virtual elegida por el consumidor o usuario a tal fin.
+2. Si el empresario no cumple su obligación de entrega, el consumidor o usuario lo emplazará para que cumpla en un plazo adicional adecuado a las circunstancias.
+En el caso de que el empresario no cumpla su obligación de suministro, el consumidor o usuario podrá solicitar que le sean suministrados los contenidos o servicios digitales sin demora indebida o en un período de tiempo adicional acordado expresamente por las partes.
+Si el empresario continúa sin cumplir con la entrega o suministro, el consumidor o usuario tendrá derecho a resolver el contrato.
+3. No obstante lo anterior, el consumidor o usuario tendrá derecho a resolver el contrato en el momento en el que se dé alguna de las siguientes situaciones:
+a) El empresario haya rechazado entregar los bienes o haya declarado, o así se desprenda claramente de las circunstancias, que no suministrará los contenidos o servicios digitales.
+b) Las partes hayan acordado o así se desprenda claramente de las circunstancias que concurran en la celebración del contrato, que para el consumidor o usuario es esencial que la entrega o el suministro se produzca en una fecha determinada o anterior a esta. En el supuesto de tratarse de bienes, dicho acuerdo deberá haberse producido antes de la celebración del contrato.
+4. Cuando el consumidor o usuario resuelva el contrato de suministro de contenidos o servicios digitales con arreglo al presente artículo, se aplicarán en consecuencia los artículos 119 ter y 119 quáter.
+5. Recaerá en el empresario la carga de la prueba sobre el cumplimiento de las obligaciones que le corresponden en virtud de este artículo.
+6. Este artículo no será aplicable a los contratos excluidos del ámbito del Título IV de este Libro que aparecen relacionados en el apartado 2 del artículo 114, a excepción de los señalados en su apartado a).
+Téngase en cuenta que esta actualización, establecida por el art. 16.5 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Artículo 66 bis. Entrega de los bienes comprados mediante un contrato de venta.
+ 1. Salvo que las partes acuerden otra cosa, el empresario entregará los bienes mediante la transmisión de su posesión material o control al consumidor y usuario, sin ninguna demora indebida y en un plazo máximo de 30 días naturales a partir de la celebración del contrato.
+ 2. Si el empresario no cumple su obligación de entrega, el consumidor y usuario lo emplazará para que cumpla en un plazo adicional adecuado a las circunstancias. Si el empresario no hace entrega de los bienes en dicho plazo adicional, el consumidor y usuario tendrá derecho a resolver el contrato.
+ Lo dispuesto en este apartado no será aplicable cuando el empresario haya rechazado entregar los bienes o el plazo de entrega sea esencial a la vista de todas las circunstancias que concurran en su celebración o cuando el consumidor y usuario informe al empresario, antes de la celebración del contrato, de que es esencial la entrega antes de una fecha determinada o en una fecha determinada. En tales casos, si el empresario no cumple su obligación de entrega de los bienes en el plazo acordado con el consumidor y usuario, o en el plazo fijado en el apartado 1, el consumidor y usuario tendrá derecho a resolver el contrato de inmediato.
+ 3. Cuando se haya resuelto el contrato, el empresario deberá proceder a reembolsar, sin ninguna demora indebida, todas las cantidades abonadas por el consumidor y usuario en virtud del mismo.
+ 4. Corresponde al empresario la carga de la prueba sobre el cumplimiento de los plazos a que se refiere este artículo."
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.5 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+ Se modifica el apartado 3 por la disposición final 1 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#df
+ Se añade por el art. único.16 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 66 ter
+
+Artículo 66 ter. Transmisión del riesgo.
+Cuando el empresario envíe al consumidor y usuario los bienes comprados, el riesgo de pérdida o deterioro de éstos se transmitirá al consumidor y usuario cuando él o un tercero por él indicado, distinto del transportista, haya adquirido su posesión material. No obstante, en caso de que sea el consumidor y usuario el que encargue el transporte de los bienes o el transportista elegido no estuviera entre los propuestos por el empresario, el riesgo se transmitirá al consumidor y usuario con la entrega de los bienes al transportista, sin perjuicio de sus derechos frente a éste.
+Se añade por el art. único.17 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 66 quáter
+
+Artículo 66 quáter. Prohibición de envíos y suministros no solicitados.
+1. Queda prohibido el envío y el suministro al consumidor y usuario de bienes, de agua, gas o electricidad, de calefacción mediante sistemas urbanos, de contenido digital o de prestación de servicios no solicitados por él, cuando dichos envíos y suministros incluyan una pretensión de pago de cualquier naturaleza.
+En caso de que así se haga, y sin perjuicio de la infracción que ello suponga, el consumidor y usuario receptor no estará obligado a su devolución o custodia, ni podrá reclamársele pago alguno por parte del empresario que envió el bien o suministró el servicio no solicitado. En tal caso, la falta de respuesta del consumidor y usuario a dicho envío, suministro o prestación de servicios no solicitados no se considerará consentimiento.
+En caso de contratos para el suministro de agua, gas, electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, o calefacción mediante sistemas urbanos, en los que el suministro ya se estuviera prestando previamente al suministro no solicitado al nuevo suministrador, se entenderá el interés del consumidor en continuar con el suministro del servicio con su suministrador anterior, volviendo a ser suministrado por éste quién tendrá derecho a cobrar los suministros a la empresa que suministró indebidamente.
+2. Si el consumidor y usuario decide devolver los bienes recibidos no responderá por los daños o deméritos sufridos, y tendrá derecho a ser indemnizado por los gastos y por los daños y perjuicios que se le hubieran causado.
+Se añade por el art. único.18 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 67
+
+Artículo 67. Normas de derecho internacional privado.
+1. La ley aplicable a los contratos celebrados con consumidores y usuarios se determinará por lo previsto en el Reglamento (CE) n.º 593/2008 del Parlamento Europeo y del Consejo, de 17 de junio de 2008, sobre la ley aplicable a las obligaciones contractuales (Roma I), así como por las demás disposiciones del Derecho de la Unión Europea que les sean de aplicación. Cuando no se haya podido determinar el contenido de la ley extranjera, se aplicará subsidiariamente la ley material española.
+2. Las normas de protección frente a las cláusulas abusivas contenidas en los artículos 82 a 91, ambos inclusive, serán aplicables a los consumidores y usuarios, cualquiera que sea la ley elegida por las partes para regir el contrato, cuando éste mantenga una estrecha relación con el territorio de un Estado miembro del Espacio Económico Europeo.
+Se entenderá, en particular, que existe un vínculo estrecho cuando el empresario ejerciere sus actividades en uno o varios Estados miembros del Espacio Económico Europeo, o por cualquier medio de publicidad o comunicación dirigiere tales actividades a uno o varios Estados miembros y el contrato estuviere comprendido en el marco de esas actividades. En los contratos relativos a inmuebles se entenderá, asimismo, que existe un vínculo estrecho cuando se encuentren situados en el territorio de un Estado miembro.
+3. Las normas de protección en materia de garantías contenidas en los artículos 114 a 126 ambos inclusive, serán aplicables a los consumidores y usuarios, cualquiera que sea la ley elegida por las partes para regir el contrato, cuando éste mantenga una estrecha relación con el territorio de un Estado miembro del Espacio Económico Europeo.
+Se entenderá, en particular, que existe un vínculo estrecho cuando el bien haya de utilizarse, ejercitarse el derecho o realizarse la prestación en alguno de los Estados miembros de la Unión Europea, o el contrato se hubiera celebrado total o parcialmente en cualquiera de ellos, o una de las partes sea ciudadano de un Estado miembro de la Unión Europea o presente el negocio jurídico cualquier otra conexión análoga o vínculo estrecho con el territorio de la Unión Europea.
+Se modifica por el art. único.19 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 2008. Ref. BOE-A-2008-2487
+
+## CAPÍTULO II
+
+Derecho de desistimiento
+
+### Artículo 68
+
+Artículo 68. Contenido y régimen del derecho de desistimiento.
+1. El derecho de desistimiento de un contrato es la facultad del consumidor y usuario de dejar sin efecto el contrato celebrado, notificándoselo así a la otra parte contratante en el plazo establecido para el ejercicio de ese derecho, sin necesidad de justificar su decisión y sin penalización de ninguna clase.
+Serán nulas de pleno de derecho las cláusulas que impongan al consumidor y usuario una penalización por el ejercicio de su derecho de desistimiento.
+2. El consumidor tendrá derecho a desistir del contrato en los supuestos previstos legal o reglamentariamente y cuando así se le reconozca en la oferta, promoción publicidad o en el propio contrato.
+3. El derecho de desistimiento atribuido legalmente al consumidor y usuario se regirá en primer término por las disposiciones legales que lo establezcan en cada caso y en su defecto por lo dispuesto en este Título.
+
+### Artículo 69
+
+Artículo 69. Obligación de informar sobre el derecho de desistimiento.
+1. Cuando la ley atribuya el derecho de desistimiento al consumidor y usuario, el empresario contratante deberá informarle por escrito en el documento contractual, de manera clara, comprensible y precisa, del derecho de desistir del contrato y de los requisitos y consecuencias de su ejercicio, incluidas las modalidades de restitución del bien o servicio recibido. Deberá entregarle, además, un documento de desistimiento, identificado claramente como tal, que exprese el nombre y dirección de la persona a quien debe enviarse y los datos de identificación del contrato y de los contratantes a que se refiere.
+2. Corresponde al empresario probar el cumplimiento de lo dispuesto en el apartado anterior.
+
+### Artículo 70
+
+Artículo 70. Formalidades para el ejercicio del desistimiento.
+El ejercicio del derecho de desistimiento no estará sujeto a formalidad alguna, bastando que se acredite en cualquier forma admitida en derecho. En todo caso se considerará válidamente ejercitado mediante el envío del documento de desistimiento o mediante la devolución de los productos recibidos.
+
+### Artículo 71
+
+Artículo 71. Plazo para el ejercicio del derecho de desistimiento.
+1. El consumidor y usuario dispondrá de un plazo mínimo de catorce días naturales para ejercer el derecho de desistimiento.
+2. Siempre que el empresario haya cumplido con el deber de información y documentación establecido en el artículo 69.1, el plazo a que se refiere el apartado anterior se computará desde la recepción del bien objeto del contrato o desde la celebración de éste si el objeto del contrato fuera la prestación de servicios.
+3. Si el empresario no hubiera cumplido con el deber de información y documentación sobre el derecho de desistimiento, el plazo para su ejercicio finalizará doce meses después de la fecha de expiración del periodo de desistimiento inicial, a contar desde que se entregó el bien contratado o se hubiera celebrado el contrato, si el objeto de éste fuera la prestación de servicios.
+Si el deber de información y documentación se cumple durante el citado plazo de doce meses, el plazo legalmente previsto para el ejercicio del derecho de desistimiento empezará a contar desde ese momento.
+4. Para determinar la observancia del plazo para desistir se tendrá en cuenta la fecha de expedición de la declaración de desistimiento.
+Se modifica por el art. único.20 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 72
+
+Artículo 72. Prueba del ejercicio del derecho de desistimiento.
+Corresponde al consumidor y usuario probar que ha ejercitado su derecho de desistimiento conforme a lo dispuesto en este capítulo.
+En el caso de las personas consumidoras vulnerables, se facilitará la prueba del ejercicio del derecho de desistimiento bastando una afirmación de parte en plazo.
+Se añade el segundo párrafo por el art. 1.9 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+
+### Artículo 73
+
+Artículo 73. Gastos vinculados al desistimiento.
+El ejercicio del derecho de desistimiento no implicará gasto alguno para el consumidor y usuario. A estos efectos se considerará lugar de cumplimiento el lugar donde el consumidor y usuario haya recibido la prestación.
+
+### Artículo 74
+
+Artículo 74. Consecuencias del ejercicio del derecho de desistimiento.
+1. Ejercido el derecho de desistimiento, las partes deberán restituirse recíprocamente las prestaciones de acuerdo con lo dispuesto en los artículos 1.303 y 1.308 del Código Civil.
+2. El consumidor y usuario no tendrá que rembolsar cantidad alguna por la disminución del valor del bien, que sea consecuencia de su uso conforme a lo pactado o a su naturaleza, o por el uso del servicio.
+3. El consumidor y usuario tendrá derecho al rembolso de los gastos necesarios y útiles que hubiera realizado en el bien.
+4. (Suprimido)
+Téngase en cuenta que el apartado 4 se suprime por el art. 16.6 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, con efectos de 1 de enero de 2022, según establece su disposición final octava.
+ Redacción anterior:
+ "4. En caso de que el usuario incumpla el compromiso de permanencia adquirido con la empresa, la penalización por baja, o cese prematuro de la relación contractual, será proporcional al número de días no efectivos del compromiso de permanencia acordado."
+Se suprime el apartado 4, con efectos de 1 de enero de 2022, por el art. 16.6 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+ Se añade el apartado 4 por el art. único.21 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 75
+
+Artículo 75. Imposibilidad de devolver la prestación por parte del consumidor y usuario.
+1. La imposibilidad de devolver la prestación objeto del contrato por parte del consumidor y usuario por pérdida, destrucción u otra causa no privarán a éste de la posibilidad de ejercer el derecho de desistimiento.
+En estos casos, cuando la imposibilidad de devolución le sea imputable, el consumidor y usuario responderá del valor de mercado que hubiera tenido la prestación en el momento del ejercicio del derecho de desistimiento, salvo que dicho valor fuera superior al precio de adquisición, en cuyo caso responderá de éste.
+2. Cuando el empresario hubiera incumplido el deber de información y documentación sobre el derecho de desistimiento, la imposibilidad de devolución sólo será imputable al consumidor y usuario cuando éste hubiera omitido la diligencia que le es exigible en sus propios asuntos.
+
+### Artículo 76
+
+Artículo 76. Devolución de sumas percibidas por el empresario.
+Cuando el consumidor y usuario haya ejercido el derecho de desistimiento, el empresario estará obligado a devolver las sumas abonadas por el consumidor y usuario sin retención de gastos. La devolución de estas sumas deberá efectuarse sin demoras indebidas y, en cualquier caso, antes de que hayan transcurrido 14 días naturales desde la fecha en que haya sido informado de la decisión de desistimiento del contrato por el consumidor y usuario.
+Transcurrido dicho plazo sin que el consumidor y usuario haya recuperado la suma adeudada, tendrá derecho a reclamarla duplicada, sin perjuicio de que además se le indemnicen los daños y perjuicios que se le hayan causado en lo que excedan de dicha cantidad.
+Corresponde al empresario la carga de la prueba sobre el cumplimiento del plazo.
+Se modifica el primer párrafo por el art. único.22 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 76 bis
+
+Artículo 76 bis. Efectos del ejercicio del derecho de desistimiento en los contratos complementarios.
+1. Sin perjuicio de lo dispuesto en el artículo 29 de la Ley 16/2011, de 24 de junio, de contratos de crédito al consumo, el ejercicio, por parte del consumidor y usuario de su derecho de desistimiento conforme a las disposiciones de esta ley, tendrá por efecto la extinción automática y sin coste alguno para el consumidor y usuario de todo contrato complementario, excepto en aquellos casos en que sean complementarios de contratos celebrados a distancia o fuera del establecimiento en los que, sin perjuicio de su extinción automática, el consumidor y usuario deberá asumir los costes previstos en los artículos 107.2 y 108 de esta norma.
+2. Ejercido el derecho de desistimiento sobre el contrato principal, las partes deberán restituirse recíprocamente las prestaciones recibidas en virtud del contrato complementario, sin ninguna demora indebida y, en cualquier caso, antes de que hayan transcurrido 14 días naturales desde la fecha en que el consumidor y usuario haya informado al empresario de su decisión de desistir del contrato principal.
+En el supuesto de que el empresario no reintegre todas las cantidades abonadas en virtud del contrato complementario en el plazo señalado, el consumidor y usuario podrá reclamar que se le pague el doble de la suma adeudada, sin perjuicio a su derecho de ser indemnizado por los daños y perjuicios sufridos en lo que excedan de dicha cantidad. Corresponde al empresario la carga de la prueba sobre el cumplimiento del plazo.
+El consumidor y usuario tendrá derecho al reembolso de los gastos necesarios y útiles que hubiera realizado en el bien.
+3. En caso de que al consumidor y usuario le sea imposible devolver la prestación objeto del contrato complementario por pérdida, destrucción u otra causa que le sea imputable, responderá del valor de mercado que hubiera tenido la prestación en el momento del ejercicio del derecho de desistimiento, salvo que dicho valor fuera superior al precio de adquisición, en cuyo caso responderá de éste.
+4. Cuando el empresario hubiera incumplido el deber de información y documentación sobre el derecho de desistimiento del contrato principal, la imposibilidad de devolución sólo será imputable al consumidor y usuario cuando éste hubiera omitido la diligencia que le es exigible en sus propios asuntos.
+5. Lo dispuesto en los apartados anteriores será también de aplicación a los contratos complementarios de otros celebrados a distancia o fuera del establecimiento, regulados en el título III del libro II de esta ley.
+Se añade por el art. único.23 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 77
+
+Artículo 77. Desistimiento de un contrato vinculado a financiación al consumidor y usuario.
+Cuando se ejercite el derecho de desistimiento en los contratos celebrados entre un empresario y un consumidor y usuario, incluidos los contratos a distancia y los celebrados fuera del establecimiento mercantil del empresario, y el precio a abonar por el consumidor y usuario haya sido total o parcialmente financiado mediante un crédito concedido por el empresario contratante o por parte de un tercero, previo acuerdo de éste con el empresario contratante, el ejercicio del derecho de desistimiento implicará al tiempo la resolución del crédito sin penalización alguna para el consumidor y usuario.
+Se modifica por el art. único.24 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 78
+
+Artículo 78. Acciones de nulidad o resolución.
+La falta de ejercicio del derecho de desistimiento en el plazo fijado no será obstáculo para el posterior ejercicio de las acciones de nulidad o resolución del contrato cuando procedan conforme a derecho.
+
+### Artículo 79
+
+Artículo 79. Derecho contractual de desistimiento.
+A falta de previsiones específicas en la oferta, promoción, publicidad o en el propio contrato el derecho de desistimiento reconocido contractualmente, éste se ajustará a lo previsto en este título.
+El consumidor y usuario que ejercite el derecho de desistimiento contractualmente reconocido no tendrá en ningún caso obligación de indemnizar por el desgaste o deterioro del bien o por el uso del servicio debido exclusivamente a su prueba para tomar una decisión sobre su adquisición definitiva.
+En ningún caso podrá el empresario exigir anticipo de pago o prestación de garantías, incluso la aceptación de efectos que garanticen un eventual resarcimiento en su favor para el caso de que se ejercite el derecho de desistimiento.
+
+## TÍTULO II
+
+Condiciones generales y cláusulas abusivas
+
+## CAPITULO I
+
+Cláusulas no negociadas individualmente
+
+### Artículo 80
+
+Artículo 80. Requisitos de las cláusulas no negociadas individualmente.
+1. En los contratos con consumidores y usuarios que utilicen cláusulas no negociadas individualmente, incluidos los que promuevan las Administraciones públicas y las entidades y empresas de ellas dependientes, aquéllas deberán cumplir los siguientes requisitos:
+a) Concreción, claridad y sencillez en la redacción, con posibilidad de comprensión directa, sin reenvíos a textos o documentos que no se faciliten previa o simultáneamente a la conclusión del contrato, y a los que, en todo caso, deberá hacerse referencia expresa en el documento contractual.
+b) Accesibilidad y legibilidad, de forma que permita al consumidor y usuario el conocimiento previo a la celebración del contrato sobre su existencia y contenido. En ningún caso se entenderá cumplido este requisito si el tamaño de la letra del contrato fuese inferior a los 2.5 milímetros, el espacio entre líneas fuese inferior a los 1.15 milímetros o el insuficiente contraste con el fondo hiciese dificultosa la lectura.
+Téngase en cuenta que esta actualización de la letra b), establecida por el art. 1.10 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198, entra en vigor el 1 de junio de 2022, según determina su disposición final séptima.
+ Redacción anterior:
+ "b) Accesibilidad y legibilidad, de forma que permita al consumidor y usuario el conocimiento previo a la celebración del contrato sobre su existencia y contenido. En ningún caso se entenderá cumplido este requisito si el tamaño de la letra del contrato fuese inferior al milímetro y medio o el insuficiente contraste con el fondo hiciese dificultosa la lectura."
+c) Buena fe y justo equilibrio entre los derechos y obligaciones de las partes, lo que en todo caso excluye la utilización de cláusulas abusivas.
+2. Cuando se ejerciten acciones individuales, en caso de duda sobre el sentido de una cláusula prevalecerá la interpretación más favorable al consumidor.
+Se modifica la letra b) por el art. 1.10 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Téngase en cuenta que esta modificación entra en vigor el 1 de junio de 2022, según establece la disposición final séptima de la citada Ley.
+ Se modifica la letra b) del apartado 1 por el art. único.25 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 81
+
+Artículo 81. Aprobación e información.
+1. Las empresas que celebren contratos con los consumidores y usuarios, a solicitud de la Agencia Española de Consumo y Seguridad Alimentaria y Nutrición, de los órganos o entidades correspondientes de las Comunidades Autónomas y de las Corporaciones locales competentes en materia de defensa de los consumidores y usuarios, dentro del ámbito de sus respectivas competencias, estarán obligadas a remitir las condiciones generales de contratación que integren dichos contratos, en el plazo máximo de un mes desde la recepción de la solicitud, al objeto de facilitar el estudio y valoración del posible carácter abusivo de determinadas cláusulas y, en su caso, ejercitar las competencias que en materia de control y sanción les atribuye esta ley.
+2. Los Notarios y los Registradores de la Propiedad y Mercantiles, en el ejercicio profesional de sus respectivas funciones públicas, informarán a los consumidores y usuarios en los asuntos propios de su especialidad y competencia.
+3. Las cláusulas, condiciones o estipulaciones que utilicen las empresas públicas o concesionarias de servicios públicos, estarán sometidas a la aprobación y control de las Administraciones públicas competentes, cuando así se disponga como requisito de validez y con independencia de la consulta al Consejo de Consumidores y Usuarios, prevista en esta u otras leyes, todo ello sin perjuicio de su sometimiento a las disposiciones generales de esta norma.
+Se modifica por el art. único.26 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+## CAPÍTULO II
+
+Cláusulas abusivas
+
+### Artículo 82
+
+Artículo 82. Concepto de cláusulas abusivas.
+1. Se considerarán cláusulas abusivas todas aquellas estipulaciones no negociadas individualmente y todas aquéllas prácticas no consentidas expresamente que, en contra de las exigencias de la buena fe causen, en perjuicio del consumidor y usuario, un desequilibrio importante de los derechos y obligaciones de las partes que se deriven del contrato.
+2. El hecho de que ciertos elementos de una cláusula o que una cláusula aislada se hayan negociado individualmente no excluirá la aplicación de las normas sobre cláusulas abusivas al resto del contrato.
+El empresario que afirme que una determinada cláusula ha sido negociada individualmente, asumirá la carga de la prueba.
+3. El carácter abusivo de una cláusula se apreciará teniendo en cuenta la naturaleza de los bienes o servicios objeto del contrato y considerando todas las circunstancias concurrentes en el momento de su celebración, así como todas las demás cláusulas del contrato o de otro del que éste dependa.
+4. No obstante lo previsto en los apartados precedentes, en todo caso son abusivas las cláusulas que, conforme a lo dispuesto en los artículos 85 a 90, ambos inclusive:
+a) vinculen el contrato a la voluntad del empresario,
+b) limiten los derechos del consumidor y usuario,
+c) determinen la falta de reciprocidad en el contrato,
+d) impongan al consumidor y usuario garantías desproporcionadas o le impongan indebidamente la carga de la prueba,
+e) resulten desproporcionadas en relación con el perfeccionamiento y ejecución del contrato, o
+f) contravengan las reglas sobre competencia y derecho aplicable.
+
+### Artículo 83
+
+Artículo 83. Nulidad de las cláusulas abusivas y subsistencia del contrato.
+Las cláusulas abusivas serán nulas de pleno derecho y se tendrán por no puestas. A estos efectos, el Juez, previa audiencia de las partes, declarará la nulidad de las cláusulas abusivas incluidas en el contrato, el cual, no obstante, seguirá siendo obligatorio para las partes en los mismos términos, siempre que pueda subsistir sin dichas cláusulas.
+Las condiciones incorporadas de modo no transparente en los contratos en perjuicio de los consumidores serán nulas de pleno derecho.
+Téngase en cuenta que esta última modificación, establecida por la disposición final 8 de la Ley 5/2019, de 15 de marzo. Ref. BOE-A-2019-3814#df-8, entra en vigor el 16 de junio de 2019 según establece su disposición final 16:
+ Redacción anterior:
+ "Artículo 83. Nulidad de las cláusulas abusivas y subsistencia del contrato.
+ Las cláusulas abusivas serán nulas de pleno derecho y se tendrán por no puestas. A estos efectos, el Juez, previa audiencia de las partes, declarará la nulidad de las cláusulas abusivas incluidas en el contrato, el cual, no obstante, seguirá siendo obligatorio para las partes en los mismos términos, siempre que pueda subsistir sin dichas cláusulas."
+Se añade el último párrafo por la disposición final 8 de la Ley 5/2019, de 15 de marzo. Ref. BOE-A-2019-3814#df-8.
+ Véase la Instrucción de 13 de junio de 2019, de la Dirección General de los Registros y del Notariado, que interpreta determinados aspectos de la redacción dada por la Ley 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliario. Ref. BOE-A-2019-8934
+ Se modifica por el art. único.27 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 84
+
+Artículo 84. Autorización e inscripción de cláusulas declaradas abusivas.
+Los Notarios y los Registradores de la Propiedad y Mercantiles, en el ejercicio profesional de sus respectivas funciones públicas, no autorizarán ni inscribirán aquellos contratos o negocios jurídicos en los que se pretenda la inclusión de cláusulas declaradas nulas por abusivas en sentencia inscrita en el Registro de Condiciones Generales de la Contratación.
+
+### Artículo 85
+
+Artículo 85. Cláusulas abusivas por vincular el contrato a la voluntad del empresario.
+Las cláusulas que vinculen cualquier aspecto del contrato a la voluntad del empresario serán abusivas y, en todo caso, las siguientes:
+1. Las cláusulas que reserven al empresario que contrata con el consumidor y usuario un plazo excesivamente largo o insuficientemente determinado para aceptar o rechazar una oferta contractual o satisfacer la prestación debida.
+2. Las cláusulas que prevean la prórroga automática de un contrato de duración determinada si el consumidor y usuario no se manifiesta en contra, fijando una fecha límite que no permita de manera efectiva al consumidor y usuario manifestar su voluntad de no prorrogarlo.
+3. Las cláusulas que reserven a favor del empresario facultades de interpretación o modificación unilateral del contrato, salvo, en este último caso, que concurran motivos válidos especificados en el contrato.
+En los contratos referidos a servicios financieros lo establecido en el párrafo anterior se entenderá sin perjuicio de las cláusulas por las que el empresario se reserve la facultad de modificar sin previo aviso el tipo de interés adeudado por el consumidor o al consumidor, así como el importe de otros gastos relacionados con los servicios financieros, cuando aquéllos se encuentren adaptados a un índice, siempre que se trate de índices legales y se describa el modo de variación del tipo, o en otros casos de razón válida, a condición de que el empresario esté obligado a informar de ello en el más breve plazo a los otros contratantes y éstos puedan resolver inmediatamente el contrato sin penalización alguna.
+Igualmente podrán modificarse unilateralmente las condiciones de un contrato de servicios financieros de duración indeterminada por los motivos válidos expresados en él, siempre que el empresario esté obligado a informar al consumidor y usuario con antelación razonable y éste tenga la facultad de resolver el contrato, o, en su caso, rescindir unilateralmente, sin previo aviso en el supuesto de razón válida, a condición de que el empresario informe de ello inmediatamente a los demás contratantes.
+4. Las cláusulas que autoricen al empresario a resolver anticipadamente un contrato de duración determinada, si al consumidor y usuario no se le reconoce la misma facultad, o las que le faculten a resolver los contratos de duración indefinida en un plazo desproporcionadamente breve o sin previa notificación con antelación razonable.
+Lo previsto en este párrafo no afecta a las cláusulas en las que se prevea la resolución del contrato por incumplimiento o por motivos graves, ajenos a la voluntad de las partes, que alteren las circunstancias que motivaron la celebración del contrato.
+5. Las cláusulas que determinen la vinculación incondicionada del consumidor y usuario al contrato aún cuando el empresario no hubiera cumplido con sus obligaciones.
+6. Las cláusulas que supongan la imposición de una indemnización desproporcionadamente alta, al consumidor y usuario que no cumpla sus obligaciones.
+7. Las cláusulas que supongan la supeditación a una condición cuya realización dependa únicamente de la voluntad del empresario para el cumplimiento de las prestaciones, cuando al consumidor y usuario se le haya exigido un compromiso firme.
+8. Las cláusulas que supongan la consignación de fechas de entrega meramente indicativas condicionadas a la voluntad del empresario.
+9. Las cláusulas que determinen la exclusión o limitación de la obligación del empresario de respetar los acuerdos o compromisos adquiridos por sus mandatarios o representantes o supeditar sus compromisos al cumplimiento de determinadas formalidades.
+10. Las cláusulas que prevean la estipulación del precio en el momento de la entrega del bien o servicio o las que otorguen al empresario la facultad de aumentar el precio final sobre el convenido, sin que en ambos casos existan razones objetivas y sin reconocer al consumidor y usuario el derecho a resolver el contrato si el precio final resulta muy superior al inicialmente estipulado.
+Lo establecido en el párrafo anterior se entenderá sin perjuicio de la adaptación de precios a un índice, siempre que tales índices sean legales y que en el contrato se describa explícitamente el modo de variación del precio.
+11. Las cláusulas que supongan la concesión al empresario del derecho a determinar si el bien o servicio se ajusta a lo estipulado en el contrato.
+
+### Artículo 86
+
+Artículo 86. Cláusulas abusivas por limitar los derechos básicos del consumidor y usuario.
+En cualquier caso serán abusivas las cláusulas que limiten o priven al consumidor y usuario de los derechos reconocidos por normas dispositivas o imperativas y, en particular, aquellas estipulaciones que prevean:
+1. La exclusión o limitación de forma inadecuada de los derechos legales del consumidor y usuario por incumplimiento total o parcial o cumplimiento defectuoso del empresario.
+En particular las cláusulas que modifiquen, en perjuicio del consumidor y usuario, las normas legales sobre conformidad con el contrato de los bienes o servicios puestos a su disposición o limiten el derecho del consumidor y usuario a la indemnización por los daños y perjuicios ocasionados por dicha falta de conformidad.
+2. La exclusión o limitación de la responsabilidad del empresario en el cumplimiento del contrato, por los daños o por la muerte o por las lesiones causadas al consumidor y usuario por una acción u omisión de aquél.
+3. La liberación de responsabilidad del empresario por cesión del contrato a tercero, sin consentimiento del deudor, si puede engendrar merma de las garantías de éste.
+4. La privación o restricción al consumidor y usuario de las facultades de compensación de créditos, retención o consignación.
+5. La limitación o exclusión de la facultad del consumidor y usuario de resolver el contrato por incumplimiento del empresario.
+6. La imposición de renuncias a la entrega de documento acreditativo de la operación.
+7. La imposición de cualquier otra renuncia o limitación de los derechos del consumidor y usuario.
+
+### Artículo 87
+
+Artículo 87. Cláusulas abusivas por falta de reciprocidad.
+Son abusivas las cláusulas que determinen la falta de reciprocidad en el contrato, contraria a la buena fe, en perjuicio del consumidor y usuario y, en particular:
+1. La imposición de obligaciones al consumidor y usuario para el cumplimiento de todos sus deberes y contraprestaciones, aun cuando el empresario no hubiere cumplido los suyos.
+2. La retención de cantidades abonadas por el consumidor y usuario por renuncia, sin contemplar la indemnización por una cantidad equivalente si renuncia el empresario.
+3. La autorización al empresario para resolver el contrato discrecionalmente, si al consumidor y usuario no se le reconoce la misma facultad.
+4. La posibilidad de que el empresario se quede con las cantidades abonadas en concepto de prestaciones aún no efectuadas cuando sea él mismo quien resuelva el contrato.
+5. Las estipulaciones que prevean el redondeo al alza en el tiempo consumido o en el precio de los bienes o servicios o cualquier otra estipulación que prevea el cobro por productos o servicios no efectivamente usados o consumidos de manera efectiva.
+En aquellos sectores en los que el inicio del servicio conlleve indisolublemente unido un coste para las empresas o los profesionales no repercutido en el precio, no se considerará abusiva la facturación por separado de tales costes, cuando se adecuen al servicio efectivamente prestado.
+6. Las estipulaciones que impongan obstáculos onerosos o desproporcionados para el ejercicio de los derechos reconocidos al consumidor y usuario en el contrato, en particular en los contratos de prestación de servicios o suministro de productos de tracto sucesivo o continuado, la imposición de plazos de duración excesiva, la renuncia o el establecimiento de limitaciones que excluyan u obstaculicen el derecho del consumidor y usuario a poner fin a estos contratos, así como la obstaculización al ejercicio de este derecho a través del procedimiento pactado, cual es el caso de las que prevean la imposición de formalidades distintas de las previstas para contratar o la pérdida de las cantidades abonadas por adelantado, el abono de cantidades por servicios no prestados efectivamente, la atribución al empresario de la facultad de ejecución unilateral de las cláusulas penales que se hubieran fijado contractualmente o la fijación de indemnizaciones que no se correspondan con los daños efectivamente causados.
+Redactado el apartado 6 conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 2008. Ref. BOE-A-2008-2487
+
+### Artículo 88
+
+Artículo 88. Cláusulas abusivas sobre garantías.
+En todo caso se consideraran abusivas las cláusulas que supongan:
+1. La imposición de garantías desproporcionadas al riesgo asumido.
+Se presumirá que no existe desproporción en los contratos de financiación o de garantías pactadas por entidades financieras que se ajusten a su normativa específica.
+2. La imposición de la carga de la prueba en perjuicio del consumidor y usuario en los casos en que debería corresponder a la otra parte contratante.
+3. La imposición al consumidor de la carga de la prueba sobre el incumplimiento, total o parcial, del empresario proveedor a distancia de servicios financieros de las obligaciones impuestas por la normativa específica sobre la materia.
+
+### Artículo 89
+
+Artículo 89. Cláusulas abusivas que afectan al perfeccionamiento y ejecución del contrato.
+En todo caso tienen la consideración de cláusulas abusivas:
+1. Las declaraciones de recepción o conformidad sobre hechos ficticios, y las declaraciones de adhesión del consumidor y usuario a cláusulas de las cuales no ha tenido la oportunidad de tomar conocimiento real antes de la celebración del contrato.
+2. La transmisión al consumidor y usuario de las consecuencias económicas de errores administrativos o de gestión que no le sean imputables.
+3. La imposición al consumidor de los gastos de documentación y tramitación que por ley corresponda al empresario. En particular, en la compraventa de viviendas:
+a) La estipulación de que el consumidor ha de cargar con los gastos derivados de la preparación de la titulación que por su naturaleza correspondan al empresario (obra nueva, propiedad horizontal, hipotecas para financiar su construcción o su división y cancelación).
+b) La estipulación que obligue al consumidor a subrogarse en la hipoteca del empresario o imponga penalizaciones en los supuestos de no subrogación.
+c) La estipulación que imponga al consumidor el pago de tributos en los que el sujeto pasivo es el empresario.
+d) La estipulación que imponga al consumidor los gastos derivados del establecimiento de los accesos a los suministros generales de la vivienda, cuando ésta deba ser entregada en condiciones de habitabilidad.
+4. La imposición al consumidor y usuario de bienes y servicios complementarios o accesorios no solicitados.
+5. Los incrementos de precio por servicios accesorios, financiación, aplazamientos, recargos, indemnización o penalizaciones que no correspondan a prestaciones adicionales susceptibles de ser aceptados o rechazados en cada caso expresados con la debida claridad o separación.
+6. La negativa expresa al cumplimiento de las obligaciones o prestaciones propias del empresario, con reenvío automático a procedimientos administrativos o judiciales de reclamación.
+7. La imposición de condiciones de crédito que para los descubiertos en cuenta corriente superen los límites que se contienen en el artículo 19.4 de la Ley 7/1995, de 23 de marzo, de Crédito al Consumo.
+8. La previsión de pactos de renuncia o transacción respecto al derecho del consumidor y usuario a la elección de fedatario competente según la ley para autorizar el documento público en que inicial o ulteriormente haya de formalizarse el contrato.
+
+### Artículo 90
+
+Artículo 90. Cláusulas abusivas sobre competencia y derecho aplicable.
+Son, asimismo, abusivas las cláusulas que establezcan:
+1. La sumisión a arbitrajes distintos del arbitraje de consumo, salvo que se trate de órganos de arbitraje institucionales creados por normas legales para un sector o un supuesto específico.
+2. La previsión de pactos de sumisión expresa a Juez o Tribunal distinto del que corresponda al domicilio del consumidor y usuario, al lugar del cumplimiento de la obligación o aquél en que se encuentre el bien si éste fuera inmueble.
+3. La sumisión del contrato a un Derecho extranjero con respecto al lugar donde el consumidor y usuario emita su declaración negocial o donde el empresario desarrolle la actividad dirigida a la promoción de contratos de igual o similar naturaleza.
+
+### Artículo 91
+
+Artículo 91. Contratos relativos a valores, instrumentos financieros y divisas.
+Las cláusulas abusivas referidas a la modificación unilateral de los contratos, a la resolución anticipada de los contratos de duración indefinida y al incremento del precio de bienes y servicios, no se aplicarán a los contratos relativos a valores, con independencia de su forma de representación, instrumentos financieros y otros bienes y servicios cuyo precio esté vinculado a una cotización, índice bursátil, o un tipo del mercado financiero que el empresario no controle, ni a los contratos de compraventa de divisas, cheques de viaje o giros postales internacionales en divisas.
+
+## TÍTULO III
+
+Contratos celebrados a distancia y contratos celebrados fuera del establecimiento mercantil
+Se modifica la rúbrica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 92
+
+Artículo 92. Ámbito de aplicación.
+1. Se regirán por lo dispuesto en este título los contratos celebrados a distancia con los consumidores y usuarios en el marco de un sistema organizado de venta o prestación de servicios a distancia, sin la presencia física simultánea del empresario y del consumidor y usuario, y en el que se hayan utilizado exclusivamente una o más técnicas de comunicación a distancia hasta el momento de la celebración del contrato y en la propia celebración del mismo.
+Entre otras, tienen la consideración de técnicas de comunicación a distancia: el correo postal, Internet, el teléfono o el fax.
+2. Las disposiciones de este título serán también de aplicación a los siguientes contratos celebrados con consumidores y usuarios fuera del establecimiento mercantil:
+a) Contratos celebrados con la presencia física simultánea del empresario y del consumidor y usuario, en un lugar distinto al establecimiento mercantil del empresario.
+b) Contratos en los que el consumidor y usuario ha realizado una oferta en las mismas circunstancias que las que se contemplan en la letra a).
+c) Contratos celebrados en el establecimiento mercantil del empresario o mediante el uso de cualquier medio de comunicación a distancia inmediatamente después de que haya existido contacto personal e individual con el consumidor y usuario en un lugar que no sea el establecimiento mercantil del empresario, con la presencia física simultánea del empresario y el consumidor y usuario.
+d) Contratos celebrados durante una excursión organizada por el empresario con el fin de promocionar y vender productos o servicios al consumidor y usuario.
+3. Sin perjuicio de lo establecido en el artículo 10 y del carácter irrenunciable de los derechos reconocidos al consumidor y usuario en este título, serán válidas las cláusulas contractuales que sean más beneficiosas para el consumidor y usuario.
+4. Todos los contratos y ofertas celebrados fuera del establecimiento mercantil se presumen sometidos a las disposiciones de este título, correspondiendo al empresario la prueba en contrario.
+Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 93
+
+Artículo 93. Excepciones.
+La regulación establecida en este título no será de aplicación:
+a) A los contratos de servicios sociales, incluidos la vivienda social, el cuidado de los niños y el apoyo a familias y personas necesitadas, temporal o permanentemente, incluida la atención a largo plazo.
+b) A los contratos de servicios relacionados con la salud, prestados por un profesional sanitario a pacientes para evaluar, mantener o restablecer su estado de salud, incluidos la receta, dispensación y provisión de medicamentos y productos sanitarios, con independencia de que estos servicios se presten en instalaciones sanitarias.
+c) A los contratos de actividades de juego por dinero que impliquen apuestas de valor monetario en juegos de azar, incluidas las loterías, los juegos de casino y las apuestas.
+d) A los contratos de servicios financieros.
+e) A los contratos de creación, adquisición o transferencia de bienes inmuebles o de derechos sobre los mismos.
+f) A los contratos para la construcción de edificios nuevos, la transformación sustancial de edificios existentes y el alquiler de alojamientos para su uso como vivienda.
+g) A los contratos relativos a los viajes combinados del artículo 151.1.b), excepto los apartados 2 y 6 del artículo 98.
+h) A los contratos relativos a la protección de los consumidores y usuarios con respecto a determinados aspectos de los contratos de aprovechamiento por turno de bienes de uso turístico, de adquisición de productos vacacionales de larga duración, de reventa y de intercambio regulados en la Ley 4/2012, de 6 de julio, de contratos de aprovechamiento por turno de bienes de uso turístico, de adquisición de productos vacacionales de larga duración, de reventa y de intercambio y normas tributarias.
+i) A los contratos que, con arreglo a la legislación vigente, deban celebrarse ante un fedatario público, obligado por ley a ser independiente e imparcial y a garantizar, mediante el suministro de una información jurídica comprensible, que el consumidor y usuario celebra el contrato únicamente previa reflexión suficiente y con pleno conocimiento de su alcance jurídico.
+j) A los contratos para el suministro de productos alimenticios, bebidas u otros bienes de consumo corriente en el hogar, suministrados físicamente por un empresario mediante entregas frecuentes y regulares en el hogar o lugar de residencia o de trabajo del consumidor y usuario.
+k) A los contratos de servicios de transporte de pasajeros, sin perjuicio de la aplicación del artículo 98.2.
+l) A los contratos celebrados mediante distribuidores automáticos o instalaciones comerciales automatizadas.
+m) A los contratos celebrados con operadores de telecomunicaciones a través de teléfonos públicos para la utilización de esos teléfonos, o celebrados para el establecimiento de una única conexión de teléfono, Internet o fax por parte de un consumidor y usuario.
+n) A los contratos de bienes vendidos por la autoridad judicial tras un embargo u otro procedimiento.
+Téngase en cuenta que la letra n), añadida por el art. 82.7 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+Se añade la letra n) por el art. 82.7 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica la letra g) por el art. 4.1 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+ Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 94
+
+Artículo 94. Comunicaciones comerciales y contratación electrónica.
+En las comunicaciones comerciales por correo electrónico u otros medios de comunicación electrónica y en la contratación a distancia de bienes o servicios por medios electrónicos, se aplicará además de lo dispuesto en este título, la normativa específica sobre servicios de la sociedad de la información y comercio electrónico.
+Cuando lo dispuesto en este título entre en contradicción con el contenido de la normativa específica sobre servicios de la sociedad de la información y comercio electrónico, ésta será de aplicación preferente, salvo lo previsto en el artículo 97.7, párrafo segundo.
+Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 95
+
+Artículo 95. Servicios de intermediación en los contratos a distancia.
+Los operadores de las técnicas de comunicación a distancia, entendiendo por tales a las personas físicas o jurídicas, públicas o privadas, que sean titulares de las técnicas de comunicación a distancia utilizadas por los empresarios, están obligados a procurar, en la medida de sus posibilidades y con la diligencia debida, que éstos respeten los derechos que este título reconoce a los consumidores y usuarios y cumplan las obligaciones que en él se les imponen.
+Lo dispuesto en el párrafo anterior no será exigible a los prestadores de servicios de intermediación de la sociedad de la información, que se regirán por lo previsto en la normativa específica sobre servicios de la sociedad de la información y el comercio electrónico.
+Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 96
+
+Artículo 96. Comunicaciones comerciales a distancia.
+1. En todas las comunicaciones comerciales a distancia deberá constar inequívocamente su carácter comercial.
+2. En el caso de comunicaciones telefónicas, deberá precisarse explícita y claramente, al inicio de cualquier conversación con el consumidor y usuario, la identidad del empresario, o si procede, la identidad de la persona por cuenta de la cual efectúa la llamada, así como indicar la finalidad comercial de la misma. En ningún caso, las llamadas telefónicas se efectuarán antes de las 9 horas ni más tarde de las 21 horas ni festivos o fines de semana.
+3. La utilización por parte del empresario de técnicas de comunicación que consistan en un sistema automatizado de llamadas sin intervención humana o el telefax necesitará el consentimiento expreso previo del consumidor y usuario.
+El consumidor y usuario tendrá derecho a no recibir, sin su consentimiento, llamadas con fines de comunicación comercial que se efectúen mediante sistemas distintos de los referidos en el apartado anterior, cuando hubiera decidido no figurar en las guías de comunicaciones electrónicas disponibles al público, ejercido el derecho a que los datos que aparecen en ellas no sean utilizados con fines de publicidad o prospección comercial, o solicitado la incorporación a los ficheros comunes de exclusión de envío de comunicaciones comerciales regulados en la normativa de protección de datos personales.
+4. El consumidor y usuario tendrá derecho a oponerse a recibir ofertas comerciales no deseadas, por teléfono, fax u otros medios de comunicación equivalente.
+En el marco de una relación preexistente, el consumidor y usuario tendrá asimismo derecho a oponerse a recibir comunicaciones comerciales por correo electrónico u otro medio de comunicación electrónica equivalente. Debe ser informado en cada una de las comunicaciones comerciales de los medios sencillos y gratuitos para oponerse a recibirlas.
+5. En aquellos casos en que una oferta comercial no deseada se realice por teléfono, las llamadas deberán llevarse a cabo desde un número de teléfono identificable. Cuando el usuario reciba la primera oferta comercial del emisor, deberá ser informado tanto de su derecho a manifestar su oposición a recibir nuevas ofertas como a obtener el número de referencia de dicha oposición. A solicitud del consumidor y usuario, el empresario estará obligado a facilitarle un justificante de haber manifestado su oposición que deberá remitirle en el plazo más breve posible y en todo caso en el plazo máximo de un mes.
+El emisor estará obligado a conservar durante al menos un año los datos relativos a los usuarios que hayan ejercido su derecho a oponerse a recibir ofertas comerciales, junto con el número de referencia otorgado a cada uno de ellos, y deberá ponerlos a disposición de las autoridades competentes.
+6. En todo caso, deberán cumplirse las disposiciones vigentes sobre protección de los menores y respeto a la intimidad. Cuando para la realización de comunicaciones comerciales se utilicen datos personales sin contar con el consentimiento del interesado, se proporcionará al destinatario la información que señala el artículo 30.2 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y se ofrecerá al destinatario la oportunidad de oponerse a la recepción de las mismas.
+Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+## CAPÍTULO II
+
+Información precontractual y contratos
+
+### Artículo 97
+
+Artículo 97. Información precontractual de los contratos a distancia y los contratos celebrados fuera del establecimiento mercantil.
+1. Antes de que el consumidor y usuario quede vinculado por cualquier contrato a distancia o celebrado fuera del establecimiento o cualquier oferta correspondiente, el empresario le facilitará de forma clara y comprensible, con especial atención en caso de tratarse de personas consumidoras vulnerables, a las que se les facilitará en formatos adecuados, accesibles y comprensibles, la siguiente información:
+a) Las características principales de los bienes o servicios, en la medida adecuada al soporte utilizado y a los bienes o servicios de que se trate.
+b) La identidad del empresario, incluido su nombre comercial.
+c) La dirección completa del establecimiento del empresario, número de teléfono y dirección de correo electrónico. Asimismo, cuando el empresario facilite otros medios de comunicación en línea que garanticen que el consumidor o usuario puede mantener cualquier tipo de correspondencia escrita, incluida la fecha y el horario de dicha correspondencia, con el empresario en un soporte duradero, la información también incluirá detalles sobre esos otros medios. Todos estos medios de comunicación facilitados por el empresario permitirán al consumidor o usuario ponerse en contacto y comunicarse con el empresario de forma rápida y eficaz. Cuando proceda, el empresario facilitará también la dirección completa y la identidad del empresario por cuya cuenta actúa.
+d) Si es diferente de la dirección facilitada de conformidad con la letra c), la dirección completa de la sede del empresario y, cuando proceda, la del empresario por cuya cuenta actúa, a la que el consumidor o usuario puede dirigir sus reclamaciones.
+e) El precio total de los bienes o servicios, incluidos los impuestos y tasas, o, si el precio no puede calcularse razonablemente de antemano por la naturaleza de los bienes o de los servicios, la forma en que se determina el precio, así como, cuando proceda, todos los gastos adicionales de transporte, entrega o postales y cualquier otro gasto o, si dichos gastos no pueden ser calculados razonablemente de antemano, el hecho de que puede ser necesario abonar dichos gastos adicionales. En el caso de un contrato de duración indeterminada o de un contrato que incluya una suscripción, el precio incluirá el total de los costes por período de facturación. Cuando dichos contratos se cobren con arreglo a una tarifa fija, el precio total también significará el total de los costes mensuales. Cuando no sea posible calcular razonablemente de antemano el coste total, se indicará de forma precisa la forma en que se determina el precio.
+f) Cuando proceda, que el precio ha sido personalizado sobre la base de una toma de decisiones automatizada, que debe mantenerse invariable durante todo el proceso de compra, así como los parámetros que se han tenido en cuenta para llevar a cabo tal personalización, o sobre las fuentes de datos utilizadas en los casos de contratación de productos o servicios del sector financiero, que, en ningún caso, podrán ser discriminatorios ni explotar situaciones de urgencia o necesidad.
+g) El coste de la utilización de la técnica de comunicación a distancia para la celebración del contrato, en caso de que dicho coste se calcule sobre una base diferente de la tarifa básica.
+h) Los procedimientos de pago, entrega y ejecución, la fecha en que el empresario se compromete a entregar los bienes o a ejecutar la prestación de los servicios, así como, cuando proceda, el sistema de tratamiento de las reclamaciones del empresario.
+i) La lengua o lenguas en las que podrá formalizarse el contrato, cuando ésta no sea la lengua en la que se le ha ofrecido la información previa a la contratación.
+j) Cuando exista un derecho de desistimiento, las condiciones, el plazo y los procedimientos para ejercer ese derecho, así como el modelo de formulario de desistimiento.
+k) Cuando proceda, la indicación de que el consumidor o usuario tendrá que asumir el coste de la devolución de los bienes en caso de desistimiento y, para los contratos a distancia, cuando los bienes, por su naturaleza, no puedan devolverse normalmente por correo postal, el coste de la devolución de los mismos.
+l) En caso de que el consumidor o usuario ejercite el derecho de desistimiento tras la presentación de una solicitud con arreglo al artículo 98.8 o al artículo 99.3, la información de que en tal caso el consumidor o usuario deberá abonar al empresario unos gastos razonables de conformidad con el artículo 108.3.
+m) Cuando con arreglo al artículo 103 no proceda el derecho de desistimiento, la indicación de que al consumidor o usuario no le asiste dicho derecho, o las circunstancias en las que lo perderá cuando sí le corresponda.
+n) Un recordatorio de la existencia de una garantía legal de conformidad para los bienes, contenido digital o servicios digitales.
+ñ) Cuando proceda, la existencia de asistencia posventa al consumidor y usuario, servicios posventa y garantías comerciales, así como sus condiciones.
+o) La existencia de códigos de conducta pertinentes y la forma de conseguir ejemplares de los mismos, en su caso. A tal efecto, se entiende por código de conducta el acuerdo o conjunto de normas no impuestas por disposiciones legales, reglamentarias o administrativas, en el que se define el comportamiento de aquellos empresarios que se comprometen a cumplir el código en relación con una o más prácticas comerciales o sectores económicos.
+p) La duración del contrato, cuando proceda, o, si el contrato es de duración indeterminada o se prolonga de forma automática, las condiciones de resolución.
+En aquellos contratos de duración determinada, sujetos a renovación, se informará al consumidor o usuario, con quince días de antelación de forma previa al vencimiento del plazo para comunicar la voluntad de no renovación, del vencimiento de dicho plazo y de las consecuencias de no comunicar la cancelación de la renovación.
+q) Cuando proceda, la duración mínima de las obligaciones del consumidor o usuario derivadas del contrato.
+r) Cuando proceda, la existencia y las condiciones de los depósitos u otras garantías financieras que el consumidor o usuario tenga que pagar o aportar a solicitud del empresario.
+s) Cuando proceda, la funcionalidad de los bienes con elementos digitales, el contenido digital o los servicios digitales, incluidas las medidas técnicas de protección aplicables.
+t) Cuando proceda, toda compatibilidad e interoperabilidad relevante de los bienes con elementos digitales, el contenido digital o los servicios digitales conocidos por el empresario o que quepa esperar razonablemente que este pueda conocer.
+u) Cuando proceda, la posibilidad de recurrir a un mecanismo extrajudicial de resolución de conflictos al que esté sujeto el empresario y los métodos para tener acceso al mismo.
+2. El apartado 1 se aplicará también a los contratos para el suministro de agua, gas, electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, calefacción mediante sistemas urbanos y contenido digital que no se preste en un soporte material.
+3. En las subastas públicas, la información a que se refiere el apartado 1.b), c) y d), podrá ser sustituida por los datos equivalentes del subastador.
+4. La información contemplada en el apartado 1.j), k) y l) podrá proporcionarse a través del modelo de documento de información al consumidor o usuario sobre el desistimiento establecido en la letra A del anexo I. El empresario habrá cumplido los requisitos de información contemplados en el apartado 1.j), k) y l), cuando haya proporcionado dicha información correctamente cumplimentada.
+5. La información a que se refiere el apartado 1 formará parte integrante del contrato a distancia o celebrado fuera del establecimiento y no se alterará a menos que las partes dispongan expresamente lo contrario. Corresponderá al empresario probar el correcto cumplimiento de sus deberes informativos y, en su caso, el pacto expreso del contenido de la información facilitada antes de la celebración del contrato.
+6. Si el empresario no cumple los requisitos de información sobre gastos adicionales u otros costes contemplados en el apartado 1.e), o sobre los costes de devolución de los bienes contemplados en el apartado 1.k), el consumidor o usuario no tendrá la obligación de abonar dichos gastos o costes.
+7. Los requisitos de información establecidos en este capítulo se entenderán como adicionales a los requisitos que figuran en la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio y en la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico.
+Sin perjuicio de lo dispuesto en el párrafo anterior, si una disposición general o sectorial sobre prestación de servicios, incluidos los servicios de la sociedad de la información y de comercio electrónico, relativa al contenido o el modo en que se debe proporcionar la información entrase en conflicto con alguna disposición de esta ley, prevalecerá la disposición de esta ley, sin perjuicio de que prevalezcan y sean de aplicación preferente las disposiciones sectoriales respecto de aquellos aspectos expresamente previstos en las disposiciones del derecho de la Unión Europea de las que traigan causa.
+8. La carga de la prueba en relación con el cumplimiento de los requisitos de información establecidos en este artículo incumbirá al empresario.
+Se modifican las letras f) y p) del apartado 1 por la disposición final 3.6 de la Ley 10/2025, de 26 de diciembre. Ref. BOE-A-2025-26698#df-3
+ Se modifica por el art. 82.8 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 97 bis
+
+Artículo 97 bis. Requisitos de información específicos adicionales para contratos celebrados en mercados en línea.
+1. Antes de que un consumidor o usuario quede obligado por un contrato a distancia, o cualquier oferta correspondiente, en un mercado en línea, el proveedor del mercado en línea le facilitará, sin perjuicio de lo dispuesto en los artículos 19 y 20 de esta norma y en la Ley 3/1991, de 10 de enero, de Competencia Desleal, de forma clara, comprensible y adecuada a las técnicas de comunicación a distancia, con especial atención en caso de tratarse de personas consumidoras vulnerables, a las que se les facilitará en formatos adecuados, accesibles y comprensibles, la siguiente información:
+a) Información general, facilitada en una sección específica de la interfaz en línea que sea fácil y directamente accesible desde la página en la que se presenten las ofertas, relativa a los principales parámetros que determinan la clasificación de las ofertas presentadas al consumidor o usuario como resultado de la búsqueda y la importancia relativa de dichos parámetros frente a otros.
+b) Si el tercero que ofrece los bienes, servicios o contenido digital tiene la condición de empresario o no, con arreglo a su declaración al proveedor del mercado en línea.
+c) Cuando el tercero que ofrece los bienes, servicios o contenido digital no sea un empresario, la mención expresa de que la normativa en materia de protección de los consumidores y usuarios no es de aplicación al contrato.
+d) Cuando proceda, cómo se reparten las obligaciones relacionadas con el contrato entre el tercero que ofrece los bienes, servicios o contenido digital y el proveedor del mercado en línea, entendiéndose esta información sin perjuicio de cualquier responsabilidad que el proveedor del mercado en línea o el tercero empresario tenga en relación con el contrato en virtud de otra normativa de la Unión Europea o nacional.
+e) En su caso, las garantías y seguros ofrecidos por el proveedor del mercado en línea.
+f) Los métodos de resolución de conflictos y, en su caso, el papel desempeñado por el proveedor del mercado en línea en la solución de controversias.
+2. La carga de la prueba en relación con el cumplimiento de los requisitos de información establecidos en este artículo incumbirá al empresario.
+Téngase en cuenta que este artículo, añadido por el art. 82.9 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+Se añade por el art. 82.9 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
+### Artículo 98
+
+Artículo 98. Requisitos formales de los contratos a distancia.
+1. En los contratos a distancia, el empresario facilitará al consumidor y usuario, en la lengua utilizada en la propuesta de contratación o bien, en la lengua elegida para la contratación, y, al menos, en castellano, la información exigida en el artículo 97.1 o la pondrá a su disposición de forma acorde con las técnicas de comunicación a distancia utilizadas, en términos claros y comprensibles y deberá respetar, en particular, el principio de buena fe en las transacciones comerciales, así como los principios de protección de quienes sean incapaces de contratar. Siempre que dicha información se facilite en un soporte duradero deberá ser legible.
+2. Si un contrato a distancia que ha de ser celebrado por medios electrónicos implica obligaciones de pago para el consumidor o usuario, el empresario pondrá en conocimiento de éste de una manera clara y destacada, y justo antes de que efectúe el pedido, la información establecida en el artículo 97.1.a), e), p) y q).
+El empresario deberá velar por que el consumidor o usuario, al efectuar el pedido, confirme expresamente que es consciente de que el pedido implica una obligación de pago. Si la realización de un pedido se hace activando un botón o una función similar, estos deberán etiquetarse, de manera que sea fácilmente legible, únicamente con la expresión ''pedido con obligación de pago'' o una formulación análoga no ambigua que indique que la realización del pedido implica la obligación de realizar un pago al empresario. En caso contrario, el consumidor o usuario no quedará obligado por el contrato o pedido.
+3. Los sitios web de comercio deberán indicar de modo claro y legible, a más tardar al inicio del procedimiento de compra, si se aplica alguna restricción de entrega y cuáles son las modalidades de pago aceptadas.
+4. Si el contrato se celebra a través de una técnica de comunicación a distancia en la que el espacio o el tiempo para facilitar la información son limitados, el empresario facilitará en ese soporte específico o a través de él, antes de la celebración de dicho contrato, como mínimo la información precontractual sobre las características principales de los bienes o servicios, la identidad del empresario, el precio total, el derecho de desistimiento, la duración del contrato y, en el caso de contratos de duración indefinida, las condiciones de resolución, tal como se refiere en el artículo 97.1, letras a), b), e), j) y p) de la presente ley, excepto el modelo de formulario de desistimiento que figura en el anexo I, letra B, a que se refiere la letra j). El empresario facilitará al consumidor o usuario las demás informaciones que figuran en el artículo 97, incluido el modelo de formulario de desistimiento, de una manera apropiada con arreglo al apartado 1.
+5. Sin perjuicio de lo dispuesto en el apartado 4 si el empresario llama por teléfono al consumidor y usuario para celebrar un contrato a distancia, deberá revelar, al inicio de la conversación, su identidad y, si procede, la identidad de la persona por cuenta de la cual efectúa la llamada, así como indicar el objeto comercial de la misma.
+6. En aquellos casos en que sea el empresario el que se ponga en contacto telefónicamente con un consumidor y usuario para llevar a cabo la celebración de un contrato a distancia, deberá confirmar la oferta al consumidor y usuario por escrito, o salvo oposición del mismo, en cualquier soporte de naturaleza duradera. El consumidor y usuario sólo quedará vinculado una vez que haya aceptado la oferta mediante su firma o mediante el envío de su acuerdo por escrito, que, entre otros medios, podrá llevarse a cabo mediante papel, correo electrónico, fax o sms.
+7. El empresario deberá facilitar al consumidor y usuario la confirmación del contrato celebrado en un soporte duradero y en un plazo razonable después de la celebración del contrato a distancia, a más tardar en el momento de entrega de los bienes o antes del inicio de la ejecución del servicio. Tal confirmación incluirá:
+a) Toda la información que figura en el artículo 97.1, salvo si el empresario ya ha facilitado la información al consumidor y usuario en un soporte duradero antes de la celebración del contrato a distancia, y
+b) Cuando proceda, la confirmación del previo consentimiento expreso del consumidor y usuario y del conocimiento por su parte de la pérdida del derecho de desistimiento de conformidad con el artículo 103.m).
+8. En caso de que un consumidor o usuario desee que la prestación de servicios o el suministro de agua, gas o electricidad, –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, o de calefacción mediante sistemas urbanos, dé comienzo durante el plazo de desistimiento previsto en el artículo 104, y el contrato imponga al consumidor o usuario una obligación de pago, el empresario le exigirá que presente una solicitud expresa solicitando el comienzo del contrato, así como una declaración de que, una vez que el empresario haya ejecutado íntegramente el contrato, habrá perdido su derecho de desistimiento.
+9. Corresponde al empresario probar el cumplimiento de las obligaciones a que este artículo se refiere. El empresario deberá adoptar las medidas adecuadas y eficaces que le permitan identificar inequívocamente al consumidor y usuario con el que celebra el contrato.
+10. Este artículo se entenderá sin perjuicio de las disposiciones sobre la celebración de contratos y la realización de pedidos por vía electrónica establecidas en la Ley 34/2002, de 11 de julio.
+Téngase en cuenta que esta última redacción de los apartados 2, 4 y 8, establecida por el art. 82.10 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+ Redacción anterior:
+ "2. Si un contrato a distancia que ha de ser celebrado por medios electrónicos implica obligaciones de pago para el consumidor y usuario, el empresario pondrá en conocimiento de éste de una manera clara y destacada, y justo antes de que efectúe el pedido, la información establecida en el artículo 97.1.a), e), p) y q).
+ El empresario deberá velar por que el consumidor y usuario, al efectuar el pedido, confirme expresamente que es consciente de que éste implica una obligación de pago. Si la realización de un pedido se hace activando un botón o una función similar, el botón o la función similar deberán etiquetarse, de manera que sea fácilmente legible, únicamente con la expresión «pedido con obligación de pago» o una formulación análoga no ambigua que indique que la realización del pedido implica la obligación de pagar al empresario. En caso contrario, el consumidor y usuario no quedará obligado por el contrato o pedido.
+ 4. Si el contrato se celebra a través de una técnica de comunicación a distancia en la que el espacio o el tiempo para facilitar la información son limitados, el empresario facilitará en ese soporte específico, antes de la celebración de dicho contrato, como mínimo la información precontractual sobre las características principales de los bienes o servicios, la identidad del empresario, el precio total, el derecho de desistimiento, la duración del contrato y, en el caso de contratos de duración indefinida, las condiciones de resolución, tal como se refiere en el artículo 97.1. a), b), e), i) y p). El empresario deberá facilitar al consumidor y usuario las demás informaciones que figuran en el artículo 97 de una manera apropiada con arreglo al apartado 1.
+ 8. En caso de que un consumidor y usuario desee que la prestación de servicios o el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas– o de calefacción mediante sistemas urbanos dé comienzo durante el plazo de desistimiento previsto en el artículo 104, el empresario exigirá que el consumidor y usuario presente una solicitud expresa en tal sentido."
+Se modifican los apartados 2, 4 y 8 por el art. 82.10 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 99
+
+Artículo 99. Requisitos formales de los contratos celebrados fuera del establecimiento.
+1. En los contratos celebrados fuera del establecimiento, el empresario facilitará al consumidor y usuario la información exigida en el artículo 97.1 en papel o, si éste está de acuerdo, en otro soporte duradero. Dicha información deberá ser legible y estar redactada al menos en castellano y en términos claros y comprensibles.
+2. El empresario deberá facilitar al consumidor y usuario una copia del contrato firmado o la confirmación del mismo en papel o, si éste está de acuerdo, en un soporte duradero diferente, incluida, cuando proceda, la confirmación del previo consentimiento expreso del consumidor y usuario y del conocimiento por su parte de la pérdida del derecho de desistimiento a que se refiere el artículo 103.m).
+3. En caso de que un consumidor o usuario desee que la prestación de servicios o el suministro de agua, gas, electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, o de calefacción mediante sistemas urbanos, dé comienzo durante el plazo de desistimiento previsto en el artículo 104, y el contrato imponga al consumidor o usuario una obligación de pago, el empresario le exigirá que presente en un soporte duradero una solicitud expresa solicitando el comienzo del contrato, así como una declaración de que, una vez que el empresario haya ejecutado íntegramente el contrato, habrá perdido su derecho de desistimiento.
+Téngase en cuenta que esta última actualización del apartado 3, establecida por el art. 82.11 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+ Redacción anterior:
+ "3. En caso de que un consumidor y usuario desee que la prestación de servicios o el suministro de agua, gas, electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, o calefacción mediante sistemas urbanos, dé comienzo durante el plazo de desistimiento previsto en el artículo 104, el empresario exigirá que el consumidor y usuario presente una solicitud expresa en tal sentido en un soporte duradero."
+4. Corresponde al empresario probar el cumplimiento de las obligaciones a que este artículo se refiere. El empresario deberá adoptar las medidas adecuadas y eficaces que le permitan identificar inequívocamente al consumidor y usuario con el que celebra el contrato.
+Se modifica el apartado 3 por el art. 82.11 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 100
+
+Artículo 100. Consecuencias del incumplimiento.
+1. El contrato celebrado sin que se haya facilitado al consumidor y usuario la copia del contrato celebrado o la confirmación del mismo, de acuerdo con los artículos 98.7 y 99.2, podrá ser anulado a instancia del consumidor y usuario por vía de acción o excepción.
+2. En ningún caso podrá ser invocada la causa de nulidad por el empresario, salvo que el incumplimiento sea exclusivo del consumidor y usuario.
+3. El empresario asumirá la carga de la prueba del cumplimiento de lo dispuesto en este artículo.
+Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+## CAPÍTULO III
+
+Derecho de desistimiento
+
+### Artículo 101
+
+Artículo 101. Necesidad de consentimiento expreso.
+1. En ningún caso la falta de respuesta a la oferta de contratación podrá considerarse como aceptación de ésta.
+2. Si el empresario, sin aceptación explícita del consumidor y usuario destinatario de la oferta, le suministrase el bien o servicio ofertado, se aplicará lo dispuesto en el artículo 66 quáter.
+Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+## CAPÍTULO III
+
+Derecho de desistimiento
+Se reordena por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 102
+
+Artículo 102. Derecho de desistimiento.
+1. Salvo las excepciones previstas en el artículo 103, el consumidor o usuario tendrá derecho a desistir del contrato durante un periodo de catorce días naturales sin indicar el motivo y sin incurrir en ningún coste distinto de los previstos en los artículos 107.2 y 108.
+En el caso de los contratos celebrados en el contexto de visitas no solicitadas efectuadas por el empresario en el domicilio del consumidor o usuario o de excursiones organizadas por el empresario con el objetivo o efecto de promocionar o vender bienes o servicios, el plazo de desistimiento se amplía a treinta días naturales.
+Téngase en cuenta que esta última actualización del apartado 1, establecida por el art. 82.12 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+ Redacción anterior:
+ "1. Salvo las excepciones previstas en el artículo 103, el consumidor y usuario tendrá derecho a desistir del contrato durante un periodo de 14 días naturales sin indicar el motivo y sin incurrir en ningún coste distinto de los previstos en los artículos 107.2 y 108."
+2. Serán nulas de pleno derecho las cláusulas que impongan al consumidor y usuario una penalización por el ejercicio de su derecho de desistimiento o la renuncia al mismo.
+Se modifica el apartado 1 por el art. 82.12 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+## CAPÍTULO IV
+
+Ejecución del contrato
+
+### Artículo 103
+
+Artículo 103. Excepciones al derecho de desistimiento.
+El derecho de desistimiento no será aplicable a los contratos que se refieran a:
+a) La prestación de servicios, una vez que el servicio haya sido completamente ejecutado, y si el contrato impone al consumidor o usuario una obligación de pago, cuando la ejecución haya comenzado, con previo consentimiento expreso del consumidor o usuario y con el conocimiento por su parte de que, una vez que el empresario haya ejecutado íntegramente el contrato, habrá perdido su derecho de desistimiento.
+Téngase en cuenta que esta última actualización de la letra a), establecida por el art. 82.13 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+ Redacción anterior:
+ "a) La prestación de servicios, una vez que el servicio haya sido completamente ejecutado, cuando la ejecución haya comenzado, con previo consentimiento expreso del consumidor y usuario y con el reconocimiento por su parte de que es consciente de que, una vez que el contrato haya sido completamente ejecutado por el empresario, habrá perdido su derecho de desistimiento."
+b) El suministro de bienes o la prestación de servicios cuyo precio dependa de fluctuaciones del mercado financiero que el empresario no pueda controlar y que puedan producirse durante el periodo de desistimiento.
+c) El suministro de bienes confeccionados conforme a las especificaciones del consumidor y usuario o claramente personalizados.
+d) El suministro de bienes que puedan deteriorarse o caducar con rapidez.
+e) El suministro de bienes precintados que no sean aptos para ser devueltos por razones de protección de la salud o de higiene y que hayan sido desprecintados tras la entrega.
+f) El suministro de bienes que después de su entrega y teniendo en cuenta su naturaleza se hayan mezclado de forma indisociable con otros bienes.
+g) El suministro de bebidas alcohólicas cuyo precio haya sido acordado en el momento de celebrar el contrato de venta y que no puedan ser entregadas antes de 30 días, y cuyo valor real dependa de fluctuaciones del mercado que el empresario no pueda controlar.
+h) Los contratos en los que el consumidor y usuario haya solicitado específicamente al empresario que le visite para efectuar operaciones de reparación o mantenimiento urgente; si, en esa visita, el empresario presta servicios adicionales a los solicitados específicamente por el consumidor o suministra bienes distintos de las piezas de recambio utilizadas necesariamente para efectuar las operaciones de mantenimiento o reparación, el derecho de desistimiento debe aplicarse a dichos servicios o bienes adicionales.
+i) El suministro de grabaciones sonoras o de vídeo precintadas o de programas informáticos precintados que hayan sido desprecintados por el consumidor y usuario después de la entrega.
+j) El suministro de prensa diaria, publicaciones periódicas o revistas, con la excepción de los contratos de suscripción para el suministro de tales publicaciones.
+k) Los contratos celebrados mediante subastas públicas.
+l) El suministro de servicios de alojamiento para fines distintos del de servir de vivienda, transporte de bienes, alquiler de vehículos, comida o servicios relacionados con actividades de esparcimiento, si los contratos prevén una fecha o un periodo de ejecución específicos.
+m) El suministro de contenido digital que no se preste en un soporte material cuando la ejecución haya comenzado y, si el contrato impone al consumidor o usuario una obligación de pago, cuando se den las siguientes condiciones:
+1.º El consumidor o usuario haya otorgado su consentimiento previo para iniciar la ejecución durante el plazo del derecho de desistimiento.
+2.º El consumidor o usuario haya expresado su conocimiento de que, en consecuencia, pierde su derecho de desistimiento; y
+3.º El empresario haya proporcionado una confirmación con arreglo al artículo 98.7 o al artículo 99.2.
+Téngase en cuenta que esta última actualización de la letra m), establecida por el art. 82.13 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+ Redacción anterior:
+ "m) El suministro de contenido digital que no se preste en un soporte material cuando la ejecución haya comenzado con el previo consentimiento expreso del consumidor y usuario con el conocimiento por su parte de que en consecuencia pierde su derecho de desistimiento."
+Se modifican las letras a) y m) por el art. 82.13 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 104
+
+Artículo 104. Plazo para el ejercicio del derecho de desistimiento.
+Sin perjuicio de lo dispuesto en el artículo 105, el plazo de desistimiento concluirá a los catorce días naturales o, en su caso, a los treinta días naturales, contados a partir de:
+a) El día de la celebración del contrato, en el caso de los contratos de servicios.
+b) El día que el consumidor y usuario o un tercero por él indicado, distinto del transportista, adquiera la posesión material de los bienes solicitados, en el caso de los contratos de venta, o bien:
+1.º En caso de entrega de múltiples bienes encargados por el consumidor o usuario en el mismo pedido y entregados por separado, el día que el consumidor o usuario o un tercero por él indicado, distinto del transportista, adquiera la posesión material del último de los bienes.
+2.º En caso de entrega de un bien compuesto por múltiples componentes o piezas, el día que el consumidor o usuario o un tercero por él indicado, distinto del transportista, adquiera la posesión material del último componente o pieza.
+3.º En caso de contratos para la entrega periódica de bienes durante un plazo determinado, el día que el consumidor o usuario o un tercero por él indicado, distinto del transportista, adquiera la posesión material del primero de esos bienes.
+c) En el caso de los contratos para el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, o de calefacción mediante sistemas urbanos o de contenido digital que no se preste en un soporte material, el día en que se celebre el contrato.
+Téngase en cuenta que esta última actualización, establecida por el art. 82.14 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+ Redacción anterior:
+ "Sin perjuicio de lo dispuesto en el artículo 105, el plazo de desistimiento concluirá a los 14 días naturales contados a partir de:
+ a) En el caso de los contratos de servicios, el día de la celebración del contrato.
+ b) En el caso de los contratos de venta, el día que el consumidor y usuario o un tercero por él indicado, distinto del transportista, adquiera la posesión material de los bienes solicitados, o bien:
+ 1.º En caso de entrega de múltiples bienes encargados por el consumidor y usuario en el mismo pedido y entregados por separado, el día que éste o un tercero por él indicado, distinto del transportista, adquiera la posesión material del último de los bienes.
+ 2.º En caso de entrega de un bien compuesto por múltiples componentes o piezas, el día que el consumidor y usuario o un tercero por él indicado, distinto del transportista, adquiera la posesión material del último componente o pieza.
+ 3.º En caso de contratos para la entrega periódica de bienes durante un plazo determinado, el día que el consumidor y usuario o un tercero por él indicado, distinto del transportista, adquiera la posesión material del primero de esos bienes.
+ c) En el caso de los contratos para el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, o de calefacción mediante sistemas urbanos o de contenido digital que no se preste en un soporte material, el día en que se celebre el contrato."
+Se modifica por el art. 82.14 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 105
+
+Artículo 105. Omisión de información sobre el derecho de desistimiento.
+1. Si el empresario no ha facilitado al consumidor o usuario la información sobre el derecho de desistimiento, tal como se establece en el artículo 97.1.j), el periodo de desistimiento finalizará doce meses después de la fecha de expiración del periodo de desistimiento inicial, determinada de conformidad con el artículo 104.
+2. Si el empresario ha facilitado al consumidor o usuario la información contemplada en el apartado anterior en el plazo de doce meses a partir de la fecha contemplada en el artículo 104, el plazo de desistimiento expirará a los catorce días naturales o, en su caso, a los treinta días naturales de la fecha en que el consumidor y usuario reciba la información.
+Téngase en cuenta que esta última actualización, establecida por el art. 82.15 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+ Redacción anterior:
+ "1. Si el empresario no ha facilitado al consumidor y usuario la información sobre el derecho de desistimiento, tal como se establece en el artículo 97.1.i), el periodo de desistimiento finalizará doce meses después de la fecha de expiración del periodo de desistimiento inicial, determinada de conformidad con el artículo 104.
+ 2. Si el empresario ha facilitado al consumidor y usuario la información contemplada en el apartado 1, en el plazo de doce meses a partir de la fecha contemplada en el artículo 104, el plazo de desistimiento expirará a los 14 días naturales de la fecha en que el consumidor y usuario reciba la información."
+Se modifica por el art. 82.15 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 106
+
+Artículo 106. Ejercicio y efectos del derecho de desistimiento.
+1. Antes de que venza el plazo de desistimiento, el consumidor y usuario comunicará al empresario su decisión de desistir del contrato. A tal efecto, el consumidor y usuario podrá utilizar el modelo de formulario de desistimiento que figura en el anexo B de esta ley; o bien realizar otro tipo de declaración inequívoca en la que señale su decisión de desistir del contrato.
+2. El consumidor y usuario habrá ejercido su derecho de desistimiento dentro del plazo contemplado en el artículo 104 y en el artículo 105, cuando haya enviado la comunicación relativa al ejercicio del derecho de desistimiento antes de que finalice dicho plazo. Para determinar la observancia del plazo para desistir se tendrá en cuenta la fecha de expedición de la declaración de desistimiento.
+3. El empresario podrá ofrecer al consumidor y usuario, además de las posibilidades contempladas en el apartado 1, la opción de cumplimentar y enviar electrónicamente el modelo de formulario de desistimiento que figura en el anexo B, o cualquier otra declaración inequívoca a través del sitio web del empresario. En tales casos, el empresario comunicará sin demora al consumidor y usuario en un soporte duradero el acuse de recibo de dicho desistimiento.
+4. La carga de la prueba del ejercicio del derecho de desistimiento recaerá en el consumidor y usuario.
+5. El ejercicio del derecho de desistimiento extinguirá las obligaciones de las partes de ejecutar el contrato a distancia o celebrado fuera del establecimiento, o de celebrar el contrato, cuando el consumidor y usuario haya realizado una oferta.
+6. En caso de contratos para el suministro de agua, gas, electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, o calefacción mediante sistemas urbanos, en los que el suministro ya se estuviera realizando previamente a la contratación del servicio, salvo que expresamente se indique lo contrario, se entenderá el interés del consumidor en continuar con el suministro del servicio, volviendo a ser suministrado por su suministrador anterior. Por el contrario, si previamente a la contratación del servicio no se estuviera realizando el suministro, la solicitud de desistimiento supondrá la baja del servicio.
+Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+## TÍTULO IV
+
+Contratos celebrados fuera de establecimientos mercantiles
+
+## CAPÍTULO I
+
+Ámbito de aplicación
+
+### Artículo 107
+
+Artículo 107. Obligaciones y derechos del empresario en caso de desistimiento.
+1. El empresario reembolsará todo pago recibido del consumidor y usuario, incluidos, en su caso, los costes de entrega, sin demoras indebidas y, en cualquier caso, antes de que hayan transcurrido 14 días naturales desde la fecha en que haya sido informado de la decisión de desistimiento del contrato del consumidor y usuario de conformidad con el artículo 106.
+El empresario deberá efectuar el reembolso a que se refiere el primer párrafo utilizando el mismo medio de pago empleado por el consumidor para la transacción inicial, a no ser que el consumidor haya dispuesto expresamente lo contrario y siempre y cuando el consumidor no incurra en ningún gasto como consecuencia del reembolso.
+2. No obstante lo dispuesto en el apartado 1, en caso de que el consumidor y usuario haya seleccionado expresamente una modalidad de entrega diferente a la modalidad menos costosa de entrega ordinaria, el empresario no estará obligado a reembolsar los costes adicionales que de ello se deriven.
+3. Salvo en caso de que el empresario se haya ofrecido a recoger él mismo los bienes, en los contratos de venta, el empresario podrá retener el reembolso hasta haber recibido los bienes, o hasta que el consumidor y usuario haya presentado una prueba de la devolución de los bienes, según qué condición se cumpla primero.
+4. En lo que respecta a los datos personales del consumidor o usuario, el empresario cumplirá las obligaciones aplicables con arreglo al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, así como a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+5. El empresario se abstendrá de utilizar cualquier contenido, distinto de los datos personales, proporcionado o creado por el consumidor o usuario al utilizar los contenidos o servicios digitales suministrados por el empresario, excepto cuando dicho contenido cumpla alguna de las siguientes condiciones:
+a) No tenga ninguna utilidad fuera del contexto de los contenidos o servicios digitales suministrados por el empresario.
+b) Esté exclusivamente relacionado con la actividad del consumidor o usuario durante el uso de los contenidos o servicios digitales suministrados por el empresario.
+c) Haya sido agregado con otros datos por el empresario y no pueda desagregarse o sólo se pueda realizando esfuerzos desproporcionados.
+d) Haya sido generado conjuntamente por el consumidor o usuario y otras personas, y otros consumidores o usuarios puedan continuar haciendo uso del contenido.
+6. Salvo en las situaciones a que se refiere el apartado 5, letras a), b) o c), el empresario pondrá a disposición del consumidor o usuario, a petición de éste, cualquier contenido distinto de los datos personales que el consumidor o usuario haya proporcionado o creado al utilizar los contenidos o servicios digitales suministrados por el empresario.
+7. El consumidor o usuario tendrá derecho a recuperar dichos contenidos sin cargo alguno, sin impedimentos por parte del empresario, en un plazo razonable y en un formato utilizado habitualmente y legible electrónicamente.
+8. El empresario podrá impedir al consumidor o usuario cualquier uso posterior a la fecha de desistimiento de los contenidos o servicios digitales, en particular haciendo que estos no sean accesibles para el consumidor o usuario o inhabilitándole la cuenta de usuario, sin perjuicio de lo dispuesto en el apartado 6.
+Téngase en cuenta que los apartados 4 a 8, añadidos por el art. 82.16 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entran en vigor el 28 de mayo de 2022, excepto el apartado 5 que entra en vigor el 1 de enero de 2022 en lo referente a la resolución del contrato prevista en el apartado 5 del artículo 119 ter del presente texto refundido, según establece la disposición final 10.c) del citado Real Decreto-ley.
+Se añaden los apartados 4 a 8 por el art. 82.16 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, excepto el apartado 5 que entra en vigor el 1 de enero de 2022 en lo referente a la resolución del contrato prevista en el apartado 5 del artículo 119 ter del presente texto refundido, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica el apartado 1 por la disposición final 1 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#df
+ Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 108
+
+Artículo 108. Obligaciones y responsabilidad del consumidor y usuario en caso de desistimiento.
+1. Salvo si el propio empresario se ofrece a recoger los bienes, el consumidor y usuario deberá devolverlos o entregarlos al empresario, o a una persona autorizada por el empresario a recibirlos, sin ninguna demora indebida y, en cualquier caso, a más tardar en el plazo de 14 días naturales a partir de la fecha en que comunique su decisión de desistimiento del contrato al empresario, de conformidad con el artículo 106. Se considerará cumplido el plazo si el consumidor y usuario efectúa la devolución de los bienes antes de que haya concluido el plazo de 14 días naturales.
+El consumidor y usuario sólo soportará los costes directos de devolución de los bienes, salvo si el empresario ha aceptado asumirlos o no le ha informado de que le corresponde asumir esos costes.
+En el caso de contratos celebrados fuera del establecimiento en los que los bienes se hayan entregado ya en el domicilio del consumidor y usuario en el momento de celebrarse el contrato, el empresario recogerá a su propio cargo los bienes cuando, por la naturaleza de los mismos, no puedan devolverse por correo.
+2. El consumidor o usuario sólo será responsable de la disminución de valor de los bienes resultante de una manipulación de los mismos distinta a la necesaria para establecer su naturaleza, sus características o su funcionamiento. En ningún caso el consumidor o usuario será responsable de la disminución de valor de los bienes si el empresario no le ha informado de su derecho de desistimiento con arreglo al artículo 97.1.j).
+3. En caso de desistimiento del contrato, el consumidor o usuario se abstendrá de utilizar el contenido o servicio digital y de ponerlo a disposición de terceros.
+4. Cuando un consumidor y usuario ejerza el derecho de desistimiento tras haber realizado una solicitud de conformidad con lo dispuesto en el artículo 98.8 o en el artículo 99.3, abonará al empresario un importe proporcional a la parte ya prestada del servicio en el momento en que haya informado al empresario del ejercicio del derecho de desistimiento, en relación con el objeto total del contrato. El importe proporcional que habrá de abonar al empresario se calculará sobre la base del precio total acordado en el contrato. En caso de que el precio total sea excesivo, el importe proporcional se calculará sobre la base del valor de mercado de la parte ya prestada del servicio.
+5. El consumidor o usuario no asumirá ningún coste por:
+a) La prestación de los servicios o el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas– o de calefacción mediante sistemas urbanos, de forma total o parcial, durante el período de desistimiento, cuando:
+1.º El empresario no haya facilitado información con arreglo al artículo 97.1.j) o l); o
+2.º El consumidor o usuario no haya solicitado expresamente que la prestación del servicio se inicie durante el plazo de desistimiento con arreglo al artículo 98.8 y al artículo 99.3.
+b) El suministro, en su totalidad o en parte, de contenido digital que no se preste en un soporte material, cuando:
+1.º El consumidor o usuario no haya dado expresamente su consentimiento previo a la ejecución antes de que finalice el periodo de catorce o, en su caso, treinta días naturales contemplado en el artículo 102;
+2.º El consumidor o usuario no sea consciente de que renuncia a su derecho de desistimiento al dar su consentimiento; o
+3.º El empresario no haya dado la confirmación con arreglo al artículo 98.7 o al artículo 99.2.
+6. Con excepción de lo dispuesto en el artículo 107.2, y en este artículo, el consumidor y usuario no incurrirá en ninguna responsabilidad como consecuencia del ejercicio del derecho de desistimiento.
+Téngase en cuenta que esta última actualización de los apartados 2 a 6, establecida por el art. 82.17 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+ Redacción anterior:
+ "2. El consumidor y usuario sólo será responsable de la disminución de valor de los bienes resultante de una manipulación de los mismos distinta a la necesaria para establecer su naturaleza, sus características o su funcionamiento. En ningún caso será responsable de la disminución de valor de los bienes si el empresario no le ha informado de su derecho de desistimiento con arreglo al artículo 97.1.i).
+ 3. Cuando un consumidor y usuario ejerza el derecho de desistimiento tras haber realizado una solicitud de conformidad con lo dispuesto en el artículo 98.8 o en el artículo 99.3, abonará al empresario un importe proporcional a la parte ya prestada del servicio en el momento en que haya informado al empresario del ejercicio del derecho de desistimiento, en relación con el objeto total del contrato. El importe proporcional que habrá de abonar al empresario se calculará sobre la base del precio total acordado en el contrato. En caso de que el precio total sea excesivo, el importe proporcional se calculará sobre la base del valor de mercado de la parte ya prestada del servicio.
+ 4. El consumidor y usuario no asumirá ningún coste por:
+ a) La prestación de los servicios o el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas– o de calefacción mediante sistemas urbanos, de forma total o parcial, durante el período de desistimiento, cuando:
+ 1.º El empresario no haya facilitado información con arreglo al artículo 97.1.i) o k); o bien
+ 2.º El consumidor y usuario no haya solicitado expresamente que la prestación del servicio se inicie durante el plazo de desistimiento con arreglo al artículo 98.8 y al artículo 99.3; o bien
+ b) El suministro, en su totalidad o en parte, de contenido digital que no se preste en un soporte material, cuando:
+ 1.º El consumidor y usuario no haya dado expresamente su consentimiento previo a la ejecución antes de que finalice el periodo de 14 días naturales contemplado en el artículo 102.
+ 2.º El consumidor y usuario no es consciente de que renuncia a su derecho de desistimiento al dar su consentimiento; o bien
+ 3.º El empresario no haya dado la confirmación con arreglo al artículo 98.7 o al artículo 99.2.
+ 5. Con excepción de lo dispuesto en el artículo 107.2, y en este artículo, el consumidor y usuario no incurrirá en ninguna responsabilidad como consecuencia del ejercicio del derecho de desistimiento."
+Se modifica el apartado 2, se renumeran los apartados 3 a 5 como 4 a 6, se añade un nuevo 3 y se modifica el 5 por el art. 82.17 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+## CAPÍTULO IV
+
+Ejecución del contrato
+Se reordena por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 109
+
+Artículo 109. Ejecución del contrato a distancia.
+Salvo que las partes hayan acordado otra cosa, el empresario deberá ejecutar el pedido sin ninguna demora indebida y a más tardar en el plazo de 30 días naturales a partir de la celebración del contrato.
+Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+## CAPÍTULO II
+
+Contratación
+
+### Artículo 110
+
+Artículo 110. Falta de ejecución del contrato a distancia.
+En caso de no ejecución del contrato por parte del empresario por no encontrarse disponible el bien o servicio contratado, el consumidor y usuario deberá ser informado de esta falta de disponibilidad y deberá poder recuperar sin ninguna demora indebida las sumas que haya abonado en virtud del mismo.
+En caso de retraso injustificado por parte del empresario respecto a la devolución de las sumas abonadas, el consumidor y usuario podrá reclamar que se le pague el doble del importe adeudado, sin perjuicio a su derecho de ser indemnizado por los daños y perjuicios sufridos en lo que excedan de dicha cantidad.
+Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 111
+
+Artículo 111. Sustitución del bien o servicio contratado a distancia.
+De no hallarse disponible el bien o servicio contratado, cuando el consumidor y usuario hubiera sido informado expresamente de tal posibilidad, el empresario podrá suministrar sin aumento de precio un bien o servicio de características similares que tenga la misma o superior calidad.
+En este caso, el consumidor y usuario podrá ejercer sus derechos de desistimiento y resolución en los mismos términos que si se tratara del bien o servicio inicialmente requerido.
+Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 112
+
+Artículo 112. Pago del contrato a distancia mediante tarjeta.
+1. Cuando el importe de una compra o de un servicio hubiese sido cargado fraudulenta o indebidamente utilizando el número de una tarjeta de pago, el consumidor y usuario titular de ella podrá exigir la inmediata anulación del cargo. En tal caso, las correspondientes anotaciones de adeudo y reabono en las cuentas del empresario y del consumidor y usuario titular de la tarjeta se efectuarán a la mayor brevedad.
+2. Sin embargo, si la compra hubiese sido efectivamente realizada por el consumidor y usuario titular de la tarjeta y la exigencia de devolución no fuera consecuencia de haberse ejercido el derecho de desistimiento o de resolución, aquél quedará obligado frente al empresario al resarcimiento de los daños y perjuicios ocasionados como consecuencia de dicha anulación.
+Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 113
+
+Artículo 113. Responsabilidad solidaria en los contratos celebrados fuera del establecimiento.
+Del cumplimiento de las obligaciones establecidas en este título responderán solidariamente el empresario por cuya cuenta se actúe y el mandatario, comisionista o agente que hayan actuado en nombre propio.
+Se modifica por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+## TÍTULO V
+
+Garantías y servicios posventa
+
+## TÍTULO IV
+
+Garantías y servicios posventa
+Se renumera por el art. único.28 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Su anterior numeración era Título V.
+
+## CAPÍTULO I
+
+Disposiciones generales sobre garantía
+Téngase en cuenta que esta actualización del capítulo I, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Disposiciones generales sobre garantía de los productos de consumo"
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 114
+
+Artículo 114. Ámbito de aplicación.
+1. Están incluidos en el ámbito de aplicación de este título los contratos de compraventa de bienes existentes o de bienes que hayan de producirse o fabricarse y los contratos de suministro de contenidos o servicios digitales, incluyéndose como tales todos aquellos que tengan por objeto la entrega de soportes materiales que sirvan exclusivamente como portadores de contenidos digitales.
+El Reglamento (UE) 2016/679, General de Protección de Datos, así como la Ley 9/2014, de 9 de mayo, General de Telecomunicaciones y su normativa de desarrollo, se aplicarán a cualesquiera datos personales tratados en las relaciones contempladas en los apartados anteriores, prevaleciendo sus disposiciones en caso de conflicto con lo regulado en este Título.
+2. Lo previsto en este título no será de aplicación a:
+a) Los animales vivos.
+b) Los bienes de segunda mano adquiridos en subasta administrativa a la que los consumidores y usuarios puedan asistir personalmente.
+c) La prestación de servicios distintos de los servicios digitales, independientemente de que el empresario haya utilizado formas o medios digitales para obtener el resultado del servicio o para entregarlo o transmitirlo al consumidor o usuario.
+d) Los servicios de comunicaciones electrónicas prestados por lo general a cambio de una remuneración a través de redes de comunicaciones electrónicas, con la excepción de los servicios que suministren contenidos transmitidos mediante redes y servicios de comunicaciones electrónicas o ejerzan control editorial sobre ellos, y que incluyen:
+1.º El servicio de acceso a internet, entendido según la definición del punto 2) del párrafo segundo del artículo 2 del Reglamento (UE) 2015/2120 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2015, por el que se establecen medidas en relación con el acceso a una internet abierta.
+2.º El servicio de comunicaciones interpersonales, excepto los servicios de comunicaciones interpersonales independientes de la numeración.
+3.º Los servicios consistentes, en su totalidad o principalmente, en el transporte de señales, como son los servicios de transmisión utilizados para la prestación de servicios máquina a máquina y para la radiodifusión.
+e) Los contenidos o servicios digitales relacionados con la salud prescritos o suministrados por un profesional sanitario a pacientes para evaluar, mantener o restablecer su estado de salud, incluidos la receta, dispensación y provisión de medicamentos y productos sanitarios.
+f) Los servicios de juego que impliquen apuestas de valor pecuniario en juegos de azar, incluidos aquellos con un elemento de destreza, como las loterías, los juegos de casino, los juegos de póquer y las apuestas, por medios electrónicos o cualquier otra tecnología destinada a facilitar la comunicación y a petición individual del receptor de dichos servicios.
+g) Los servicios financieros.
+h) El programa (software) ofrecido por el empresario bajo una licencia libre y de código abierto, cuando el consumidor o usuario no pague ningún precio y los datos personales facilitados por el consumidor o usuario sean tratados exclusivamente por el empresario con el fin de mejorar la seguridad, compatibilidad o interoperabilidad de ese programa (software) concreto.
+i) El suministro de los contenidos digitales cuando estos se pongan a disposición del público en general por un medio distinto de la transmisión de señales como parte de una actuación o acontecimiento, como las proyecciones cinematográficas digitales.
+j) El contenido digital proporcionado de conformidad con la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector por organismos del sector público de cualquier Estado miembro de la Unión Europea.
+En el caso a que se refiere la letra b), los consumidores o usuarios podrán acceder fácilmente a información clara y comprensible de que no se aplican los derechos derivados del presente título.
+3. Los artículos 126 y 126 bis no se aplicarán cuando un paquete en el sentido del Código Europeo de las Comunicaciones Electrónicas, incluya elementos de un servicio de acceso a internet, tal como se define en el artículo 2.2) del Reglamento (UE) 2015/2120, o un servicio de comunicaciones interpersonales basado en numeración, según la definición del citado Código.
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Artículo 114. Principios generales.
+ El vendedor está obligado a entregar al consumidor y usuario productos que sean conformes con el contrato, respondiendo frente a él de cualquier falta de conformidad que exista en el momento de la entrega del producto.
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 115
+
+Artículo 115. Conformidad de los bienes y de los contenidos o servicios digitales.
+Los bienes, los contenidos o servicios digitales que el empresario entregue o suministre al consumidor o usuario se considerarán conformes con el contrato cuando cumplan los requisitos subjetivos y objetivos establecidos que sean de aplicación siempre que, cuando corresponda, hayan sido instalados o integrados correctamente, todo ello sin perjuicio de los derechos de terceros a los que se refiere el segundo párrafo del artículo 117.
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Artículo 115. Ámbito de aplicación.
+ 1. Están incluidos en el ámbito de aplicación de este título los contratos de compraventa de productos y los contratos de suministro de productos que hayan de producirse o fabricarse.
+ 2. Lo previsto en este título no será de aplicación a los productos adquiridos mediante venta judicial, al agua o al gas, cuando no estén envasados para la venta en volumen delimitado o cantidades determinadas, y a la electricidad. Tampoco será aplicable a los productos de segunda mano adquiridos en subasta administrativa a la que los consumidores y usuarios puedan asistir personalmente."
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 115 bis
+
+Artículo 115 bis. Requisitos subjetivos para la conformidad.
+Para ser conformes con el contrato, los bienes y los contenidos o servicios digitales deberán cumplir, en particular y cuando sean de aplicación, los siguientes requisitos:
+a) Ajustarse a la descripción, tipo de bien, cantidad y calidad y poseer la funcionalidad, compatibilidad, interoperabilidad y demás características que se establezcan en el contrato.
+b) Ser aptos para los fines específicos para los que el consumidor o usuario los necesite y que este haya puesto en conocimiento del empresario como muy tarde en el momento de la celebración del contrato, y respecto de los cuales el empresario haya expresado su aceptación.
+c) Ser entregados o suministrados junto con todos los accesorios, instrucciones, también en materia de instalación o integración, y asistencia al consumidor o usuario en caso de contenidos digitales según disponga el contrato.
+d) Ser suministrados con actualizaciones, en el caso de los bienes, o ser actualizados, en el caso de contenidos o servicios digitales, según se establezca en el contrato en ambos casos.
+Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según establece su disposición final octava.
+Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 115 ter
+
+Artículo 115 ter. Requisitos objetivos para la conformidad.
+1. Además de cumplir cualesquiera requisitos subjetivos para la conformidad, los bienes y los contenidos o servicios digitales deberán cumplir todos los siguientes requisitos:
+a) Ser aptos para los fines a los que normalmente se destinen bienes o contenidos o servicios digitales del mismo tipo, teniendo en cuenta, cuando sea de aplicación, toda norma vigente, toda norma técnica existente o, a falta de dicha norma técnica, todo código de conducta específico de la industria del sector.
+b) Cuando sea de aplicación, poseer la calidad y corresponder con la descripción de la muestra o modelo del bien o ser conformes con la versión de prueba o vista previa del contenido o servicio digital que el empresario hubiese puesto a disposición del consumidor o usuario antes de la celebración del contrato.
+c) Cuando sea de aplicación, entregarse o suministrarse junto con los accesorios, en particular el embalaje, y las instrucciones que el consumidor y usuario pueda razonablemente esperar recibir.
+d) Presentar la cantidad y poseer las cualidades y otras características, en particular respecto de la durabilidad del bien, la accesibilidad y continuidad del contenido o servicio digital y la funcionalidad, compatibilidad y seguridad que presentan normalmente los bienes y los contenidos o servicios digitales del mismo tipo y que el consumidor o usuario pueda razonablemente esperar, dada la naturaleza de los mismos y teniendo en cuenta cualquier declaración pública realizada por el empresario, o en su nombre, o por otras personas en fases previas de la cadena de transacciones, incluido el productor, especialmente en la publicidad o el etiquetado. El empresario no quedará obligado por tales declaraciones públicas, si demuestra alguno de los siguientes hechos:
+1.º Que desconocía y no cabía razonablemente esperar que conociera la declaración en cuestión.
+2.º Que, en el momento de la celebración del contrato, la declaración pública había sido corregida del mismo o similar modo en el que había sido realizada.
+3.º Que la declaración pública no pudo influir en la decisión de adquirir el bien o el contenido o servicio digital.
+2. En el caso de contratos de compraventa de bienes con elementos digitales o de suministro de contenidos o servicios digitales, el empresario velará por que se comuniquen y suministren al consumidor o usuario las actualizaciones, incluidas las relativas a la seguridad, que sean necesarias para mantener la conformidad, durante cualquiera de los siguientes períodos:
+a) Aquel que el consumidor o usuario pueda razonablemente esperar habida cuenta del tipo y la finalidad de los bienes con elementos digitales o de los contenidos o servicios digitales, y teniendo en cuenta las circunstancias y la naturaleza del contrato, cuando el contrato establezca un único acto de suministro o una serie de actos de suministro separados, en su caso.
+b) Aquel en el que deba suministrarse el contenido o servicio digital con arreglo al contrato de compraventa de bienes con elementos digitales o al contrato de suministro, cuando este prevea un plazo de suministro continuo durante un período de tiempo. No obstante, cuando el contrato de compraventa de bienes con elementos digitales prevea un plazo de suministro continuo igual o inferior a tres años, el período de responsabilidad será de tres años a partir del momento de la entrega del bien.
+3. En caso de que el consumidor o usuario no instale en un plazo razonable las actualizaciones proporcionadas de conformidad con el apartado anterior, el empresario no será responsable de ninguna falta de conformidad causada únicamente por la ausencia de la correspondiente actualización, siempre que se cumplan las siguientes condiciones:
+a) El empresario hubiese informado al consumidor o usuario acerca de la disponibilidad de la actualización y de las consecuencias de su no instalación; y
+b) El hecho de que el consumidor o usuario no instalase la actualización o no lo hiciese correctamente no se debiera a deficiencias en las instrucciones facilitadas.
+4. Cuando el contrato prevea el suministro continuo de contenidos o servicios digitales a lo largo de un período, estos serán conformes durante todo ese período.
+5. No habrá lugar a responsabilidad por faltas de conformidad en el sentido de lo dispuesto en los apartados 1 o 2 cuando, en el momento de la celebración del contrato, el consumidor o usuario hubiese sido informado de manera específica de que una determinada característica de los bienes o de los contenidos o servicios digitales se apartaba de los requisitos objetivos de conformidad establecidos en los apartados 1 o 2 y el consumidor o usuario hubiese aceptado de forma expresa y por separado dicha divergencia.
+6. Salvo que las partes lo hayan acordado de otro modo, los contenidos o servicios digitales se suministrarán de conformidad con la versión más reciente disponible en el momento de la celebración del contrato.
+Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según establece su disposición final octava.
+Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 115 quater 
+
+Artículo 115 quater. Instalación incorrecta de los bienes e integración incorrecta de los contenidos o servicios digitales.
+La falta de conformidad que resulte de una instalación incorrecta del bien o integración incorrecta de los contenidos o servicios digitales en el entorno digital del consumidor o usuario se equiparará a la falta de conformidad, cuando se de alguna de las siguientes condiciones:
+a) La instalación o integración incorrecta haya sido realizada por el empresario o bajo su responsabilidad y, en el supuesto de tratarse de una compraventa de bienes, su instalación esté incluida en el contrato.
+b) En el contrato esté previsto que la instalación o la integración la realice el consumidor o usuario, haya sido realizada por éste y la instalación o la integración incorrecta se deba a deficiencias en las instrucciones de instalación o integración proporcionadas por el empresario o, en el caso de bienes con elementos digitales, proporcionadas por el empresario.
+Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según establece su disposición final octava.
+Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 116
+
+Artículo 116. Incompatibilidad de acciones.
+El ejercicio de las acciones que contempla este título será incompatible con el ejercicio de las acciones derivadas del saneamiento previstas en el Código Civil.
+En todo caso, el consumidor o usuario tendrá derecho, de acuerdo con la legislación civil y mercantil, a ser indemnizado por los daños y perjuicios derivados de la falta de conformidad.
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Artículo 116. Conformidad de los productos con el contrato.
+ 1. Salvo prueba en contrario, se entenderá que los productos son conformes con el contrato siempre que cumplan todos los requisitos que se expresan a continuación, salvo que por las circunstancias del caso alguno de ellos no resulte aplicable:
+ a) Se ajusten a la descripción realizada por el vendedor y posean las cualidades del producto que el vendedor haya presentado al consumidor y usuario en forma de muestra o modelo.
+ b) Sean aptos para los usos a que ordinariamente se destinen los productos del mismo tipo.
+ c) Sean aptos para cualquier uso especial requerido por el consumidor y usuario cuando lo haya puesto en conocimiento del vendedor en el momento de celebración del contrato, siempre que éste haya admitido que el producto es apto para dicho uso.
+ d) Presenten la calidad y prestaciones habituales de un producto del mismo tipo que el consumidor y usuario pueda fundadamente esperar, habida cuenta de la naturaleza del producto y, en su caso, de las declaraciones públicas sobre las características concretas de los productos hechas por el vendedor, el productor o su representante, en particular en la publicidad o en el etiquetado. El vendedor no quedará obligado por tales declaraciones públicas si demuestra que desconocía y no cabía razonablemente esperar que conociera la declaración en cuestión, que dicha declaración había sido corregida en el momento de celebración del contrato o que dicha declaración no pudo influir en la decisión de comprar el producto.
+ 2. La falta de conformidad que resulte de una incorrecta instalación del producto se equiparará a la falta de conformidad del producto cuando la instalación esté incluida en el contrato de compraventa o suministro regulados en el artículo 115.1 y haya sido realizada por el vendedor o bajo su responsabilidad, o por el consumidor y usuario cuando la instalación defectuosa se deba a un error en las instrucciones de instalación.
+ 3. No habrá lugar a responsabilidad por faltas de conformidad que el consumidor y usuario conociera o no hubiera podido fundadamente ignorar en el momento de la celebración del contrato o que tengan su origen en materiales suministrados por el consumidor y usuario."
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+## CAPÍTULO II
+
+Responsabilidad del empresario y derechos del consumidor y usuario
+Téngase en cuenta que esta actualización del Capítulo II, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "CAPÍTULO II
+ Responsabilidad del vendedor y derechos del consumidor y usuario"
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 117
+
+Artículo 117. Responsabilidad del empresario y derechos del consumidor y usuario en caso de falta de conformidad de los bienes, contenidos o servicios digitales. Derechos de terceros.
+1. El empresario responderá ante el consumidor o usuario de cualquier falta de conformidad que exista en el momento de la entrega del bien, contenido o servicio digital, pudiendo el consumidor o usuario, mediante una simple declaración, exigir al empresario la subsanación de dicha falta de conformidad, la reducción del precio o la resolución del contrato. En cualquiera de estos supuestos el consumidor o usuario podrá exigir, además, la indemnización de daños y perjuicios, si procede.
+El consumidor o usuario tendrá derecho a suspender el pago de cualquier parte pendiente del precio del bien o del contenido o servicio digital adquirido hasta que el empresario cumpla con las obligaciones establecidas en el presente título.
+2. Cuando, a consecuencia de una vulneración de derechos de terceros, en particular de los derechos de propiedad intelectual, se impida o limite la utilización de los bienes o de los contenidos o servicios digitales, el consumidor o usuario podrá exigir igualmente, en el supuesto de su falta de conformidad, las medidas correctoras previstas en el apartado anterior, salvo que una ley establezca en esos casos la rescisión o nulidad del contrato.
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Artículo 117. Incompatibilidad de acciones.
+ El ejercicio de las acciones que contempla este título será incompatible con el ejercicio de las acciones derivadas del saneamiento por vicios ocultos de la compraventa.
+ En todo caso, el consumidor y usuario tendrá derecho, de acuerdo con la legislación civil y mercantil, a ser indemnizado por los daños y perjuicios derivados de la falta de conformidad."
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+## CAPÍTULO II
+
+Responsabilidad del vendedor y derechos del consumidor y usuario
+
+### Artículo 118
+
+Artículo 118. Régimen jurídico de la puesta en conformidad.
+1. Si el bien no fuera conforme con el contrato, para ponerlo en conformidad, el consumidor o usuario tendrá derecho a elegir entre la reparación o la sustitución, salvo que una de estas dos opciones resultare imposible o que, en comparación con la otra medida correctora, suponga costes desproporcionados para el empresario, teniendo en cuenta todas las circunstancias y, entre ellas las recogidas en el apartado 3 de este artículo, así como si la medida correctora alternativa se podría proporcionar sin mayores inconvenientes para el consumidor o usuario.
+2. Si los contenidos o servicios digitales no fueran conformes con el contrato, el consumidor o usuario tendrá derecho a exigir que sean puestos en conformidad.
+3. El empresario podrá negarse a poner los bienes o los contenidos o servicios digitales en conformidad cuando resulte imposible o suponga costes desproporcionados, teniendo en cuenta todas las circunstancias, y entre ellas:
+a) El valor que tendrían los bienes o los contenidos o servicios digitales si no hubiera existido falta de conformidad.
+b) La relevancia de la falta de conformidad.
+4. Las medidas correctoras para la puesta en conformidad se ajustarán a las siguientes reglas:
+a) Serán gratuitas para el consumidor o usuario. Dicha gratuidad comprenderá los gastos necesarios en que se incurra para que los bienes sean puestos en conformidad, especialmente los gastos de envío, transporte, mano de obra o materiales.
+b) Deberán llevarse a cabo en un plazo razonable a partir del momento en que el empresario haya sido informado por el consumidor o usuario de la falta de conformidad.
+c) Deberán realizarse sin mayores inconvenientes para el consumidor o usuario, habida cuenta de la naturaleza de los bienes o de los contenidos o servicios digitales y de la finalidad que tuvieran para el consumidor o usuario.
+5. Cuando proceda la reparación o la sustitución del bien, el consumidor o usuario lo pondrá a disposición del empresario y este, en su caso, recuperará el bien sustituido a sus expensas de la forma que menos inconvenientes genere para el consumidor o usuario dependiendo del tipo de bien.
+6. Cuando una reparación requiera la retirada de bienes que hayan sido instalados de forma coherente con su naturaleza y finalidad antes de manifestarse la falta de conformidad o, cuando se sustituyan, la obligación de repararlos o sustituirlos incluirá la retirada de los no conformes y la instalación de los bienes sustituidos o reparados, o la asunción de los costes de dicha retirada e instalación por cuenta del empresario.
+7. El consumidor o usuario no será responsable de ningún pago por el uso normal de los bienes sustituidos durante el período previo a su sustitución.
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Artículo 118. Responsabilidad del vendedor y derechos del consumidor y usuario.
+ El consumidor y usuario tiene derecho a la reparación del producto, a su sustitución, a la rebaja del precio o a la resolución del contrato, de acuerdo con lo previsto en este título."
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 119
+
+Artículo 119. Régimen jurídico de la reducción del precio y resolución del contrato.
+El consumidor o usuario podrá exigir una reducción proporcionada del precio o la resolución del contrato, en cualquiera de los siguientes supuestos:
+a) En relación con bienes y los contenidos o servicios digitales, cuando la medida correctora consistente en ponerlos en conformidad resulte imposible o desproporcionada en el sentido del apartado 3 del artículo 118.
+b) El empresario no haya llevado a cabo la reparación o la sustitución de los bienes o no lo haya realizado de acuerdo con lo dispuesto en los apartados 5 y 6 del artículo 118 o no lo haya hecho en un plazo razonable siempre que el consumidor o usuario hubiese solicitado la reducción del precio o la resolución del contrato.
+c) El empresario no haya puesto los contenidos o servicios digitales en conformidad de acuerdo con las reglas recogidas en el apartado 4 del artículo 118.
+d) Aparezca cualquier falta de conformidad después del intento del empresario de poner los bienes o los contenidos o servicios digitales en conformidad.
+e) La falta de conformidad sea de tal gravedad que se justifique la reducción inmediata del precio o la resolución del contrato.
+f) El empresario haya declarado, o así se desprenda claramente de las circunstancias, que no pondrá los bienes o los contenidos o servicios digitales en conformidad en un plazo razonable o sin mayores inconvenientes para el consumidor o usuario.
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Artículo 119. Reparación y sustitución del producto.
+ 1. Si el producto no fuera conforme con el contrato, el consumidor y usuario podrá optar entre exigir la reparación o la sustitución del producto, salvo que una de estas dos opciones resulte objetivamente imposible o desproporcionada. Desde el momento en que el consumidor y usuario comunique al vendedor la opción elegida, ambas partes habrán de atenerse a ella. Esta decisión del consumidor y usuario se entiende sin perjuicio de lo dispuesto en el artículo siguiente para los supuestos en que la reparación o la sustitución no logren poner el producto en conformidad con el contrato.
+ 2. Se considerará desproporcionada la forma de saneamiento que en comparación con la otra, imponga al vendedor costes que no sean razonables, teniendo en cuenta el valor que tendría el producto si no hubiera falta de conformidad, la relevancia de la falta de conformidad y si la forma de saneamiento alternativa se pudiese realizar sin inconvenientes mayores para el consumidor y usuario.
+ Para determinar si los costes no son razonables, los gastos correspondientes a una forma de saneamiento deben ser, además, considerablemente más elevados que los gastos correspondientes a la otra forma de saneamiento."
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 119 bis
+
+Artículo 119 bis. La reducción del precio.
+1. La reducción del precio será proporcional a la diferencia existente entre el valor que el bien o el contenido o servicio digital hubiera tenido en el momento de la entrega o suministro de haber sido conforme con el contrato y el valor que el bien o el contenido o servicio digital efectivamente entregado o suministrado tenga en el momento de dicha entrega o suministro.
+2. Cuando el contrato estipule que los contenidos o servicios digitales se suministren durante un período de tiempo a cambio del pago de un precio, la reducción en precio se aplicará al período de tiempo durante el cual los contenidos o servicios digitales no hubiesen sido conformes.
+Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 119 ter
+
+Artículo 119 ter. La resolución del contrato.
+1. El consumidor o usuario ejercerá el derecho a resolver el contrato mediante una declaración expresa al empresario indicando su voluntad de resolver el contrato.
+2. La resolución no procederá cuando la falta de conformidad sea de escasa importancia, salvo en los supuestos en que el consumidor o usuario haya facilitado datos personales como contraprestación, correspondiendo la carga de la prueba al empresario.
+3. Cuando la falta de conformidad se refiera sólo a algunos de los bienes entregados en virtud del mismo contrato y haya motivos para su resolución, el consumidor o usuario podrá resolver el contrato sólo respecto de dichos bienes y, en relación con cualesquiera de los otros bienes, podrá resolverlo también si no se puede razonablemente esperar que el consumidor o usuario acepte conservar únicamente los bienes conformes.
+4. Las obligaciones de las partes en caso de resolución del contrato de compraventa de bienes serán las siguientes:
+a) El empresario reembolsará al consumidor o usuario el precio pagado por los bienes tras la recepción de estos o, en su caso, de una prueba aportada por el consumidor o usuario de que los ha devuelto.
+b) El consumidor o usuario restituirá al empresario, a expensas de este último, los bienes.
+5. Las obligaciones y derechos del empresario en caso de resolución del contrato de suministro de contenidos o servicios digitales serán los siguientes:
+a) El empresario reembolsará al consumidor o usuario todos los importes pagados con arreglo al contrato.
+No obstante, en los casos en los que el contrato establezca el suministro de los contenidos o servicios digitales a cambio del pago de un precio y durante un período de tiempo determinado, y los contenidos o servicios digitales hayan sido conformes durante un período anterior a la resolución del contrato, el empresario reembolsará al consumidor o usuario únicamente la parte proporcional del precio pagado correspondiente al período de tiempo durante el cual los contenidos o servicios digitales no fuesen conformes, así como toda parte del precio pagado por el consumidor o usuario como pago a cuenta de cualquier período restante del contrato en caso de que este no hubiese sido resuelto.
+b) En lo que respecta a los datos personales del consumidor o usuario, el empresario cumplirá las obligaciones aplicables con arreglo al Reglamento (UE) 2016/679 general de protección de datos, así como a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+c) El empresario se abstendrá de utilizar cualquier contenido, distinto de los datos personales, proporcionado o creado por el consumidor o usuario al utilizar los contenidos o servicios digitales suministrados por el empresario, excepto cuando dicho contenido cumpla alguna de las condiciones recogidas en el artículo 107.5.
+d) Salvo en las situaciones a que se refiere el artículo 107.5, letras a), b) o c), el empresario pondrá a disposición del consumidor o usuario, a petición de este, cualquier contenido distinto de los datos personales que el consumidor o usuario haya proporcionado o creado al utilizar los contenidos o servicios digitales suministrados por el empresario.
+e) El consumidor o usuario tendrá derecho a recuperar los contenidos digitales que haya creado al utilizar los contenidos o servicios digitales sin cargo alguno, sin impedimentos por parte del empresario, en un plazo razonable y en un formato utilizado habitualmente y legible electrónicamente.
+f) El empresario podrá impedir al consumidor o usuario cualquier uso posterior de los contenidos o servicios digitales, en particular, haciendo que estos no sean accesibles para el consumidor o usuario o inhabilitándole la cuenta de usuario, sin perjuicio de lo dispuesto en la letra d).
+6. Las obligaciones del consumidor o usuario en caso de resolución del contrato de suministro de contenidos o servicios digitales serán las siguientes:
+a) Tras la resolución del contrato, el consumidor o usuario se abstendrá de utilizar los contenidos o servicios digitales y de ponerlos a disposición de terceros.
+b) Cuando los contenidos digitales se hayan suministrado en un soporte material, el consumidor o usuario, a solicitud y a expensas del empresario, devolverá el soporte material a este último sin demora indebida. Si el empresario decide solicitar la devolución del soporte material, dicha solicitud se realizará en el plazo de catorce días a partir de la fecha en que se hubiese informado al empresario de la decisión del consumidor o usuario de resolver el contrato.
+c) Al consumidor o usuario no se le podrá reclamar ningún pago por cualquier uso realizado de los contenidos o servicios digitales durante el período previo a la resolución del contrato durante el cual los contenidos o servicios digitales no hayan sido conformes.
+7. El ejercicio por el consumidor o usuario de su derecho a retirar su consentimiento u oponerse al tratamiento de datos personales permitirá que el empresario resuelva el contrato siempre y cuando el suministro de los contenidos o servicios digitales sea continuo o consista en una serie de actos individuales y se encuentre pendiente de ejecutar en todo o en parte. En ningún caso el ejercicio de estos derechos por el consumidor supondrá el pago de penalización alguna a su cargo.
+Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 119 quater
+
+Artículo 119 quater. Plazos y modalidades de reembolso por parte del empresario en caso de reducción del precio o resolución del contrato.
+1. Todo reembolso que el empresario deba realizar al consumidor o usuario debido a la reducción del precio o a la resolución del contrato se ejecutará sin demora indebida y, en cualquier caso, en un plazo de catorce días a partir de la fecha en la que el empresario haya sido informado de la decisión del consumidor o usuario de reclamar su correspondiente derecho.
+No obstante lo anterior, en el caso de que se trate de la resolución de un contrato de compraventa de bienes, el plazo para el reembolso en el párrafo anterior empezará a contar a partir de que se haya dado cumplimiento a lo previsto en el 119 ter 4.a).
+2. El empresario efectuará el reembolso indicado en el apartado anterior utilizando el mismo medio de pago empleado por el consumidor o usuario para la adquisición del bien o de los contenidos o servicios digitales, salvo que se hubiese acordado expresamente entre las partes de otro modo, y siempre que no suponga un coste adicional para el consumidor o usuario.
+3. El empresario no podrá imponer al consumidor o usuario ningún cargo por el reembolso.
+Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+## CAPÍTULO III
+
+Ejercicio de derechos por el consumidor y usuario
+
+### Artículo 120
+
+Artículo 120. Plazo para la manifestación de la falta de conformidad.
+1. En el caso de contrato de compraventa de bienes o de suministro de contenidos o servicios digitales suministrados en un acto único o en una serie de actos individuales, el empresario será responsable de las faltas de conformidad que existan en el momento de la entrega o del suministro y se manifiesten en un plazo de tres años desde la entrega en el caso de bienes o de dos años en el caso de contenidos o servicios digitales, sin perjuicio de lo dispuesto en el artículo 115 ter, apartado 2, letras a) y b).
+En los bienes de segunda mano, el empresario y el consumidor o usuario podrán pactar un plazo menor al indicado en el párrafo anterior, que no podrá ser inferior a un año desde la entrega.
+2. En el caso de contenidos o servicios digitales o de bienes con elementos digitales, cuando el contrato prevea el suministro continuo de contenidos o servicios digitales durante un período de tiempo determinado, el empresario será responsable de cualquier falta de conformidad de los contenidos o servicios digitales que se produzca o se manifieste dentro del plazo durante el cual deben suministrarse los contenidos o servicios digitales de acuerdo con el contrato. No obstante, si el contrato de compraventa de bienes con elementos digitales establece el suministro continuo de los contenidos o servicios digitales durante un período inferior a tres años, el plazo de responsabilidad será de tres años a partir del momento de la entrega.
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Artículo 120. Régimen jurídico de la reparación o sustitución del producto.
+ La reparación y la sustitución se ajustarán a las siguientes reglas:
+ a) Serán gratuitas para el consumidor y usuario. Dicha gratuidad comprenderá los gastos necesarios realizados para subsanar la falta de conformidad de los productos con el contrato, especialmente los gastos de envío, así como los costes relacionados con la mano de obra y los materiales.
+ b) Deberán llevarse a cabo en un plazo razonable y sin mayores inconvenientes para el consumidor y usuario, habida cuenta de la naturaleza de los productos y de la finalidad que tuvieran para el consumidor y usuario.
+ c) La reparación suspende el cómputo de los plazos a que se refiere el artículo 123. El período de suspensión comenzará desde que el consumidor y usuario ponga el producto a disposición del vendedor y concluirá con la entrega al consumidor y usuario del producto ya reparado. Durante los seis meses posteriores a la entrega del producto reparado, el vendedor responderá de las faltas de conformidad que motivaron la reparación, presumiéndose que se trata de la misma falta de conformidad cuando se reproduzcan en el producto defectos del mismo origen que los inicialmente manifestados.
+ d) Si concluida la reparación y entregado el producto, éste sigue siendo no conforme con el contrato, el consumidor y usuario podrá exigir la sustitución del producto, salvo que esta opción resulte desproporcionada, la rebaja del precio o la resolución del contrato en los términos previstos en este capítulo.
+ e) La sustitución suspende los plazos a que se refiere el artículo 123 desde el ejercicio de la opción por el consumidor y usuario hasta la entrega del nuevo producto. Al producto sustituto le será de aplicación, en todo caso, el artículo 123.1, párrafo segundo.
+ f) Si la sustitución no lograra poner el producto en conformidad con el contrato, el consumidor y usuario podrá exigir la reparación del producto, salvo que esta opción resulte desproporcionada, la rebaja del precio o la resolución del contrato en los términos previstos en este capítulo.
+ g) El consumidor y usuario no podrá exigir la sustitución en el caso de productos no fungibles, ni tampoco cuando se trate de productos de segunda mano."
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 121
+
+Artículo 121. Carga de la prueba.
+1. Salvo prueba en contrario, se presumirá que las faltas de conformidad que se manifiesten en los dos años siguientes a la entrega del bien o en el año siguiente al suministro del contenido o servicio digital suministrado en un acto único o en una serie de actos individuales, ya existían cuando el bien se entregó o el contenido o servicio digital se suministró, excepto cuando para los bienes esta presunción sea incompatible con su naturaleza o la índole de la falta de conformidad.
+En los bienes de segunda mano, el empresario y el consumidor y usuario podrán pactar un plazo de presunción menor al indicado en el párrafo anterior, que no podrá ser inferior al período de responsabilidad pactado por la falta de conformidad, de acuerdo con lo previsto en el artículo 120.1.
+2. En el caso de los contenidos o servicios digitales o de bienes con elementos digitales, cuando el contrato prevea el suministro continuo de contenidos o servicios digitales durante un período de tiempo determinado, la carga de la prueba respecto de si los contenidos o servicios digitales eran conformes durante el período indicado en el apartado 2 del artículo 120 recaerá sobre el empresario cuando la falta de conformidad se manifieste en dicho período de tiempo.
+3. Los apartados 1 y 2 no se aplicarán cuando el empresario demuestre que el entorno digital del consumidor o usuario no es compatible con los requisitos técnicos de los contenidos o servicios digitales objeto del contrato, y cuando el empresario haya informado al consumidor o usuario sobre dichos requisitos técnicos de forma clara y comprensible con anterioridad a la celebración del contrato.
+4. El consumidor o usuario cooperará con el empresario en la medida de lo razonablemente posible y necesario para establecer si la causa de la falta de conformidad de los contenidos o servicios digitales en el momento indicado en el artículo 120, apartados 1 o 2, según sea de aplicación, radica en el entorno digital del consumidor o usuario. La obligación de cooperación se limitará a los medios técnicos disponibles que sean menos intrusivos para el consumidor o usuario. Cuando el consumidor o usuario se niegue a cooperar, y siempre que el empresario haya informado al consumidor o usuario de dicho requisito de forma clara y comprensible con anterioridad a la celebración del contrato, la carga de la prueba sobre si la falta de conformidad existía o no en el momento indicado en el artículo 120, apartados 1 o 2, según sea de aplicación, recaerá sobre el consumidor o usuario.
+5. Los apartados 3 y 4 del presente artículo no serán de aplicación a los bienes con elementos digitales.
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Artículo 121. Rebaja del precio y resolución del contrato.
+ La rebaja del precio y la resolución del contrato procederán, a elección del consumidor y usuario, cuando éste no pudiera exigir la reparación o la sustitución y en los casos en que éstas no se hubieran llevado a cabo en plazo razonable o sin mayores inconvenientes para el consumidor y usuario. La resolución no procederá cuando la falta de conformidad sea de escasa importancia."
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 122
+
+Artículo 122. Suspensión del cómputo de plazos.
+1. Las medidas correctoras para poner el bien o el contenido o servicio digital en conformidad suspenden el cómputo de los plazos a que se refieren los artículos 120 y 121.
+2. El período de suspensión comenzará en el momento en que el consumidor o usuario ponga el bien o el contenido o servicio digital a disposición del empresario y concluirá en el momento en que se produzca la entrega del bien o el suministro del contenido o servicio digital, ya conforme, al consumidor o usuario.
+3. Durante el año posterior a la entrega del bien o el suministro del contenido o servicio digital ya conforme, el empresario responderá de las faltas de conformidad que motivaron la puesta en conformidad, presumiéndose que se trata de la misma falta de conformidad cuando se reproduzcan los defectos del mismo origen que los inicialmente manifestados.
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Artículo 122. Criterios para la rebaja del precio.
+ La rebaja del precio será proporcional a la diferencia existente entre el valor que el producto hubiera tenido en el momento de la entrega de haber sido conforme con el contrato y el valor que el producto efectivamente entregado tenía en el momento de dicha entrega."
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+## CAPÍTULO III
+
+Ejercicio de derechos por el consumidor y usuario
+
+### Artículo 123
+
+Artículo 123. Documentación justificativa.
+1. Salvo prueba en contrario, la entrega o el suministro se entienden hechos en el día que figure en la factura o tique de compra, o en el albarán de entrega correspondiente si este fuera posterior.
+2. El empresario deberá entregar al consumidor o usuario que ejercite su derecho a poner el bien o el contenido o servicio digital en conformidad justificación documental sobre la puesta a disposición del bien o del contenido o servicio digital por parte del consumidor y usuario en la que conste la fecha de entrega y la falta de conformidad que origina el ejercicio del derecho, así como justificación documental de la entrega al consumidor o usuario del bien o del suministro del contenido o servicio digital ya conforme, en la que conste la fecha de esta entrega y la descripción de la medida correctora efectuada.
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Artículo 123. Plazos.
+ 1. El vendedor responde de las faltas de conformidad que se manifiesten en un plazo de dos años desde la entrega. En los productos de segunda mano, el vendedor y el consumidor y usuario podrán pactar un plazo menor, que no podrá ser inferior a un año desde la entrega.
+ Salvo prueba en contrario, se presumirá que las faltas de conformidad que se manifiesten en los seis meses posteriores a la entrega del producto, sea éste nuevo o de segunda mano, ya existían cuando la cosa se entregó, excepto cuando esta presunción sea incompatible con la naturaleza del producto o la índole de la falta de conformidad.
+ 2. Salvo prueba en contrario, la entrega se entiende hecha en el día que figure en la factura o tique de compra, o en el albarán de entrega correspondiente si éste fuera posterior.
+ 3. El vendedor está obligado a entregar al consumidor o usuario que ejercite su derecho a la reparación o sustitución, justificación documental de la entrega del producto, en la que conste la fecha de entrega y la falta de conformidad que origina el ejercicio del derecho.
+ Del mismo modo, junto con el producto reparado o sustituido, el vendedor entregará al consumidor o usuario justificación documental de la entrega en la que conste la fecha de ésta y, en su caso, la reparación efectuada.
+ 4. La acción para reclamar el cumplimiento de lo previsto en el capítulo II de este título prescribirá a los tres años desde la entrega del producto.
+ 5. El consumidor y usuario deberá informar al vendedor de la falta de conformidad en el plazo de dos meses desde que tuvo conocimiento de ella. El incumplimiento de dicho plazo no supondrá la pérdida del derecho al saneamiento que corresponda, siendo responsable el consumidor y usuario, no obstante, de los daños o perjuicios efectivamente ocasionados por el retraso en la comunicación.
+ Salvo prueba en contrario, se entenderá que la comunicación del consumidor y usuario ha tenido lugar dentro del plazo establecido."
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+ Se renumeran los apartados 3 y 4 como 4 y 5 y se añade un apartado 3 por el art. 3.7 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 124
+
+Artículo 124. Prescripción de la acción.
+La acción para reclamar el cumplimiento de lo previsto en el capítulo II de este título prescribirá a los cinco años desde la manifestación de la falta de conformidad.
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Artículo 124. Acción contra el productor.
+ Cuando al consumidor y usuario le resulte imposible o le suponga una carga excesiva dirigirse frente al vendedor por la falta de conformidad de los productos con el contrato podrá reclamar directamente al productor con el fin de obtener la sustitución o reparación del producto.
+ Con carácter general, y sin perjuicio de que la responsabilidad del productor cesara, a los efectos de este título, en los mismos plazos y condiciones que los establecidos para el vendedor, el productor responderá por la falta de conformidad cuando ésta se refiera al origen, identidad o idoneidad de los productos, de acuerdo con su naturaleza y finalidad y con las normas que los regulan.
+ Quien haya respondido frente al consumidor y usuario dispondrá del plazo de un año para repetir frente al responsable de la falta de conformidad. Dicho plazo se computa a partir del momento en que se completó el saneamiento."
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+## CAPÍTULO IV
+
+Garantía comercial adicional, obligaciones de documentación y servicios posventa
+
+### Artículo 125
+
+Artículo 125. Acción contra el productor y de repetición.
+1. Cuando al consumidor o usuario le resulte imposible o le suponga una carga excesiva dirigirse al empresario por la falta de conformidad, podrá reclamar directamente al productor con el fin de conseguir que el bien o el contenido o servicio digital sea puesto en conformidad.
+Con carácter general, y sin perjuicio de que cese la responsabilidad del productor, a los efectos de este título, en los mismos plazos y condiciones que los establecidos para el empresario, el productor responderá por la falta de conformidad cuando esta se refiera al origen, identidad o idoneidad de los bienes o de los contenidos o servicios digitales, de acuerdo con su naturaleza y finalidad y con las normas que los regulan.
+2. Quien haya respondido frente al consumidor o usuario dispondrá del plazo de un año para repetir frente al responsable de la falta de conformidad. Dicho plazo se computará a partir del momento en que se ejecutó la medida correctora.
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "Artículo 125. Garantía comercial adicional.
+ 1. La garantía comercial deberá formalizarse, al menos en castellano, y, a petición del consumidor y usuario, por escrito o en cualquier otro soporte duradero y directamente disponible para el consumidor y usuario, que sea accesible a éste y acorde con la técnica de comunicación empleada.
+ 2. La garantía expresará necesariamente:
+ a) El bien o servicio sobre el que recaiga la garantía.
+ b) El nombre y dirección del garante.
+ c) Que la garantía no afecta a los derechos legales del consumidor y usuario ante la falta de conformidad de los productos con el contrato.
+ d) Los derechos, adicionales a los legales, que se conceden al consumidor y usuario como titular de la garantía.
+ e) El plazo de duración de la garantía y su alcance territorial.
+ f) Las vías de reclamación de que dispone el consumidor y usuario.
+ 3. La acción para reclamar el cumplimiento de lo dispuesto en la garantía comercial adicional prescribirá a los seis meses desde la finalización del plazo de garantía."
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+ Se deja sin contenido el apartado 1 y se renumeran los apartados 2, 3 y 4 como 1, 2 y 3 por el art. único.29 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+## CAPÍTULO IV
+
+Modificación de los contenidos o servicios digitales
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+ Redacción anterior:
+ "CAPÍTULO IV
+ Garantía comercial adicional, obligaciones de documentación y servicios posventa"
+Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 126
+
+Artículo 126. Modificación de los contenidos o servicios digitales.
+Cuando el contrato establezca que el suministro de los contenidos o servicios digitales, o el acceso a estos por parte del consumidor o usuario, se haya de garantizar durante un período de tiempo, el empresario podrá modificar los contenidos o servicios digitales más allá de lo necesario para mantener la conformidad de los contenidos o servicios digitales con arreglo a los artículos 115 bis y 115 ter, si se cumplen, de forma cumulativa, los siguientes requisitos:
+a) El contrato permite tal modificación y proporciona una razón válida para realizarla.
+b) La modificación se realiza sin costes adicionales para el consumidor o usuario.
+c) El consumidor o usuario es informado de forma clara y comprensible acerca de la modificación.
+d) En caso de que el consumidor o usuario tenga derecho a resolver el contrato de acuerdo con lo establecido en el artículo 126 bis, se informe al consumidor o usuario, con una antelación razonable y en un soporte duradero, de las características y el momento de la modificación y de su derecho a resolver el contrato, o sobre la posibilidad de mantener los contenidos o servicios digitales sin tal modificación con arreglo al apartado 4 de dicho artículo.
+Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, se aplicará solo a los contratos celebrados a partir del 1 de enero de 2022, según establece la disposición final octava.d) del citado Real Decreto-ley.
+ Redacción anterior:
+ "Artículo 126. Productos de naturaleza duradera.
+ En los productos de naturaleza duradera deberá entregarse en todo caso al consumidor, formalizada por escrito o en cualquier soporte duradero aceptado por el consumidor y usuario, y con el contenido mínimo previsto en el artículo anterior, la garantía comercial, en la que constará expresamente los derechos que este título concede al consumidor y usuario ante la falta de conformidad con el contrato y que éstos son independientes y compatibles con la garantía comercial."
+Se modifica por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+ Téngase en cuenta que esta modificación se aplicará solo a los contratos celebrados a partir del 1 de enero de 2022, según establece la disposición final octava.d) del citado Real Decreto-ley.
+
+### Artículo 126 bis
+
+Artículo 126 bis. Resolución del contrato por modificación de los contenidos o servicios digitales.
+1. El consumidor o usuario tendrá derecho a resolver el contrato si la modificación afecta negativamente a su acceso a los contenidos o servicios digitales o a su uso, salvo si dicho efecto negativo es de menor importancia.
+2. En el supuesto recogido en el apartado anterior, el consumidor o usuario tendrá derecho a resolver el contrato sin cargo alguno en un plazo de treinta días naturales a partir de la recepción de la información o a partir del momento en que el empresario modifique los contenidos o servicios digitales, si esto ocurriera de forma posterior.
+3. En el caso de que el consumidor o usuario resuelva el contrato de conformidad con los apartados anteriores, se aplicarán los artículos 119 ter y 119 quáter.
+4. Este artículo no será de aplicación si el empresario ha dado al consumidor y usuario la posibilidad de mantener, sin costes adicionales, los contenidos o servicios digitales sin la modificación y estos siguen siendo conformes.
+Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, se aplicará solo a los contratos celebrados a partir del 1 de enero de 2022, según establece la disposición final octava.d) del citado Real Decreto-ley.
+Se añade por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+ Téngase en cuenta que este artículo se aplicará solo a los contratos celebrados a partir del 1 de enero de 2022, según establece la disposición final octava.d) del citado Real Decreto-ley.
+
+## CAPÍTULO V
+
+Garantías comerciales y servicios posventa
+Téngase en cuenta que este capítulo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según establece su disposición final octava.
+Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 127
+
+Artículo 127. Garantías comerciales.
+1. Toda garantía comercial será vinculante para el garante en las condiciones establecidas en la declaración de garantía comercial y en la publicidad asociada disponible en el momento de la celebración del contrato o antes de dicha celebración. El productor que ofrezca al consumidor o usuario una garantía comercial de durabilidad con respecto a determinados bienes por un período de tiempo determinado será responsable directamente frente al consumidor o usuario, durante todo el período de la garantía comercial de durabilidad, de la reparación o sustitución. El productor podrá ofrecer al consumidor o usuario condiciones más favorables en la declaración de garantía comercial de durabilidad.
+Si las condiciones establecidas en el documento de garantía comercial son menos favorables para el consumidor o usuario que las enunciadas en la publicidad asociada, la garantía comercial será vinculante según las condiciones enunciadas en la publicidad relativa a la garantía comercial, a menos que antes de la celebración del contrato la publicidad asociada se haya corregido del mismo modo o de modo comparable a aquella.
+2. La declaración de garantía comercial se entregará al consumidor o usuario en un soporte duradero a más tardar en el momento de entrega de los bienes y estará redactada, al menos, en castellano y en su caso, a petición de cualquiera de las partes, deberá redactarse también en cualquiera de las otras lenguas oficiales en el lugar de celebración del contrato, de manera clara y comprensible.
+3. La declaración de garantía comercial incluirá, al menos, lo siguiente:
+a) Una declaración precisa de que el consumidor o usuario tiene derecho a medidas correctoras por parte del empresario, de forma gratuita, en caso de falta de conformidad de los bienes y de que la garantía comercial no afectará a dichas medidas. Dicha gratuidad comprenderá los gastos necesarios en que se incurre para que los bienes o los contenidos o servicios digitales sean puestos en conformidad, especialmente los gastos de envío, transporte, mano de obra o materiales.
+b) El nombre y la dirección del garante.
+c) El procedimiento que debe seguir el consumidor o usuario para conseguir la aplicación de la garantía comercial.
+d) La designación de los bienes o de los contenidos o servicios digitales a los que se aplica la garantía comercial.
+e) Las condiciones de la garantía comercial, entre otras, su plazo de duración y alcance territorial.
+El incumplimiento de este apartado no afectará al carácter vinculante de la garantía comercial para el garante.
+Se modifica el apartado 2 por el art. 1.12 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+### Artículo 127 bis
+
+Artículo 127 bis. Reparación y servicios posventa.
+1. El productor garantizará, en todo caso, la existencia de un adecuado servicio técnico, así como de repuestos durante el plazo mínimo de diez años a partir de la fecha en que el bien deje de fabricarse.
+2. Queda prohibido incrementar los precios de los repuestos al aplicarlos en las reparaciones. La lista de precios de los repuestos deberá estar a disposición del público así como la del resto de servicios aparejados, debiéndose diferenciar en la factura los diferentes conceptos.
+3. La acción o derecho de recuperación de los bienes entregados por el consumidor o usuario al empresario para su reparación prescribirá un año después del momento de la entrega. Reglamentariamente, se establecerán los datos que deberá hacer constar el empresario en el momento en que se le entrega un bien para su reparación y las formas en que podrá acreditarse la mencionada entrega.
+Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6, entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
+Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+
+## LIBRO TERCERO
+
+Responsabilidad civil por bienes o servicios defectuosos
+
+## TÍTULO I
+
+Disposiciones comunes en materia de responsabilidad
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 128
+
+Artículo 128. Indemnización de daños.
+Todo perjudicado tiene derecho a ser indemnizado en los términos establecidos en este Libro por los daños o perjuicios causados por los bienes o servicios.
+Las acciones reconocidas en este libro no afectan a otros derechos que el perjudicado pueda tener a ser indemnizado por daños y perjuicios, incluidos los morales, como consecuencia de la responsabilidad contractual, fundada en la falta de conformidad de los bienes o servicios o en cualquier otra causa de incumplimiento o cumplimiento defectuoso del contrato, o de la responsabilidad extracontractual a que hubiere lugar.
+
+### Artículo 129
+
+Artículo 129. Ámbito de protección.
+1. El régimen de responsabilidad previsto en este libro comprende los daños personales, incluida la muerte, y los daños materiales, siempre que éstos afecten a bienes o servicios objetivamente destinados al uso o consumo privados y en tal concepto hayan sido utilizados principalmente por el perjudicado.
+2. El presente libro no será de aplicación para la reparación de los daños causados por accidentes nucleares, siempre que tales daños se encuentren cubiertos por convenios internacionales ratificados por los Estados miembros de la Unión Europea.
+
+### Artículo 130
+
+Artículo 130. Ineficacia de las cláusulas de exoneración o limitación de la responsabilidad.
+Son ineficaces frente al perjudicado las cláusulas de exoneración o de limitación de la responsabilidad civil prevista en este libro.
+
+### Artículo 131
+
+Artículo 131. Seguro.
+El Gobierno, previa audiencia de los interesados y de las asociaciones de consumidores y usuarios, podrá establecer un sistema de seguro obligatorio de responsabilidad civil derivada de los daños causados por bienes o servicios defectuosos y un fondo de garantía que cubra, total o parcialmente, los daños consistentes en muerte, intoxicación y lesiones personales.
+
+## CAPÍTULO II
+
+Responsabilidad
+
+### Artículo 132
+
+Artículo 132. Responsabilidad solidaria.
+Las personas responsables del mismo daño por aplicación de este libro lo serán solidariamente ante los perjudicados. El que hubiera respondido ante el perjudicado tendrá derecho a repetir frente a los otros responsables, según su participación en la causación del daño.
+
+### Artículo 133
+
+Artículo 133. Intervención de un tercero.
+La responsabilidad prevista en este libro no se reducirá cuando el daño sea causado conjuntamente por un defecto del bien o servicio y por la intervención de un tercero. No obstante, el sujeto responsable que hubiera satisfecho la indemnización podrá reclamar al tercero la parte que corresponda a su intervención en la producción del daño.
+
+### Artículo 134
+
+Artículo 134. Retraso en el pago de la indemnización.
+1. El beneficiario de las indemnizaciones, tiene derecho a una compensación, sobre la cuantía de la indemnización, por los daños contractuales y extracontractuales durante el tiempo que transcurra desde la declaración judicial de responsabilidad hasta su pago efectivo.
+2. Dicha compensación se determinará según lo establecido en la Ley de Enjuiciamiento Civil.
+
+## TÍTULO II
+
+Disposiciones específicas en materia de responsabilidad
+
+## CAPÍTULO I
+
+Daños causados por productos
+
+### Artículo 135
+
+Artículo 135. Principio general.
+Los productores serán responsables de los daños causados por los defectos de los productos que, respectivamente, fabriquen o importen.
+
+### Artículo 136
+
+Artículo 136. Concepto legal de producto.
+A los efectos de este capítulo se considera producto cualquier bien mueble, aún cuando esté unido o incorporado a otro bien mueble o inmueble, así como el gas y la electricidad.
+
+### Artículo 137
+
+Artículo 137. Concepto legal de producto defectuoso.
+1. Se entenderá por producto defectuoso aquél que no ofrezca la seguridad que cabría legítimamente esperar, teniendo en cuenta todas las circunstancias y, especialmente, su presentación, el uso razonablemente previsible del mismo y el momento de su puesta en circulación.
+2. En todo caso, un producto es defectuoso si no ofrece la seguridad normalmente ofrecida por los demás ejemplares de la misma serie.
+3. Un producto no podrá ser considerado defectuoso por el solo hecho de que tal producto se ponga posteriormente en circulación de forma más perfeccionada.
+
+### Artículo 138
+
+Artículo 138. Concepto legal de productor.
+1. A los efectos de este capítulo es productor, además del definido en el artículo 5, el fabricante o importador en la Unión Europea de:
+a) Un producto terminado.
+b) Cualquier elemento integrado en un producto terminado.
+c) Una materia prima.
+2. Si el productor no puede ser identificado, será considerado como tal el proveedor del producto, a menos que, dentro del plazo de tres meses, indique al dañado o perjudicado la identidad del productor o de quien le hubiera suministrado o facilitado a él dicho producto. La misma regla será de aplicación en el caso de un producto importado, si el producto no indica el nombre del importador, aun cuando se indique el nombre del fabricante.
+
+### Artículo 139
+
+Artículo 139. Prueba.
+El perjudicado que pretenda obtener la reparación de los daños causados tendrá que probar el defecto, el daño y la relación de causalidad entre ambos.
+
+### Artículo 140
+
+Artículo 140. Causas de exoneración de la responsabilidad.
+1. El productor no será responsable si prueba:
+a) Que no había puesto en circulación el producto.
+b) Que, dadas las circunstancias del caso, es posible presumir que el defecto no existía en el momento en que se puso en circulación el producto.
+c) Que el producto no había sido fabricado para la venta o cualquier otra forma de distribución con finalidad económica, ni fabricado, importado, suministrado o distribuido en el marco de una actividad profesional o empresarial.
+d) Que el defecto se debió a que el producto fue elaborado conforme a normas imperativas existentes.
+e) Que el estado de los conocimientos científicos y técnicos existentes en el momento de la puesta en circulación no permitía apreciar la existencia del defecto.
+2. El productor de una parte integrante de un producto terminado no será responsable si prueba que el defecto es imputable a la concepción del producto al que ha sido incorporado o a las instrucciones dadas por el fabricante de ese producto.
+3. En el caso de medicamentos, alimentos o productos alimentarios destinados al consumo humano, los sujetos responsables, de acuerdo con este capítulo, no podrán invocar la causa de exoneración del apartado 1, letra e).
+
+### Artículo 141
+
+Artículo 141. Límite de responsabilidad.
+La responsabilidad civil del productor por los daños causados por productos defectuosos, se ajustará a las siguientes reglas:
+a) De la cuantía de la indemnización de los daños materiales se deducirá una franquicia de 500,00 euros.
+b) La responsabilidad civil global del productor por muerte y lesiones personales causadas por productos idénticos que presenten el mismo defecto tendrá como límite la cuantía de 63.106.270,96 euros.
+Se modifica la letra a) por la disposición final 17.2 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfdecimoseptima.
+
+### Artículo 142
+
+Artículo 142. Daños en el producto defectuoso.
+Los daños materiales en el propio producto no serán indemnizables conforme a lo dispuesto en este capítulo, tales daños darán derecho al perjudicado a ser indemnizado conforme a la legislación civil y mercantil.
+
+### Artículo 143
+
+Artículo 143. Prescripción de la acción.
+1. La acción de reparación de los daños y perjuicios previstos en este capítulo prescribirá a los tres años, a contar desde la fecha en que el perjudicado sufrió el perjuicio, ya sea por defecto del producto o por el daño que dicho defecto le ocasionó, siempre que se conozca al responsable de dicho perjuicio. La acción del que hubiese satisfecho la indemnización contra todos los demás responsables del daño prescribirá al año, a contar desde el día del pago de la indemnización.
+2. La interrupción de la prescripción se rige por lo establecido en el Código Civil.
+
+### Artículo 144
+
+Artículo 144. Extinción de la responsabilidad.
+Los derechos reconocidos al perjudicado en este capítulo se extinguirán transcurridos 10 años, a contar desde la fecha en que se hubiera puesto en circulación el producto concreto causante del daño, a menos que, durante ese período, se hubiese iniciado la correspondiente reclamación judicial.
+
+### Artículo 145
+
+Artículo 145. Culpa del perjudicado.
+La responsabilidad prevista en este capítulo podrá reducirse o suprimirse en función de las circunstancias del caso, si el daño causado fuera debido conjuntamente a un defecto del producto y a culpa del perjudicado o de una persona de la que éste deba responder civilmente.
+
+### Artículo 146
+
+Artículo 146. Responsabilidad del proveedor.
+El proveedor del producto defectuoso responderá, como si fuera el productor, cuando haya suministrado el producto a sabiendas de la existencia del defecto. En este caso, el proveedor podrá ejercitar la acción de repetición contra el productor.
+
+## CAPÍTULO II
+
+Daños causados por otros bienes y servicios
+
+### Artículo 147
+
+Artículo 147. Régimen general de responsabilidad.
+Los prestadores de servicios serán responsables de los daños y perjuicios causados a los consumidores y usuarios, salvo que prueben que han cumplido las exigencias y requisitos reglamentariamente establecidos y los demás cuidados y diligencias que exige la naturaleza del servicio.
+
+### Artículo 148
+
+Artículo 148. Régimen especial de responsabilidad.
+Se responderá de los daños originados en el correcto uso de los servicios, cuando por su propia naturaleza, o por estar así reglamentariamente establecido, incluyan necesariamente la garantía de niveles determinados de eficacia o seguridad, en condiciones objetivas de determinación, y supongan controles técnicos, profesionales o sistemáticos de calidad, hasta llegar en debidas condiciones al consumidor y usuario.
+En todo caso, se consideran sometidos a este régimen de responsabilidad los servicios sanitarios, los de reparación y mantenimiento de electrodomésticos, ascensores y vehículos de motor, servicios de rehabilitación y reparación de viviendas, servicios de revisión, instalación o similares de gas y electricidad y los relativos a medios de transporte.
+Sin perjuicio de lo establecido en otras disposiciones legales, las responsabilidades derivadas de este artículo tendrán como límite la cuantía de 3.005.060,52 euros.
+
+### Artículo 149
+
+Artículo 149. Responsabilidad por daños causados por la vivienda.
+Será aplicable el régimen de responsabilidad establecido en el artículo anterior a quienes construyan o comercialicen viviendas, en el marco de una actividad empresarial, por los daños ocasionados por defectos de la vivienda que no estén cubiertos por un régimen legal específico.
+
+## LIBRO CUARTO
+
+Viajes combinados y servicios de viaje vinculados
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Ámbito de aplicación y definiciones
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 150
+
+Artículo 150. Ámbito de aplicación.
+1. Este libro será de aplicación, en los términos establecidos en el mismo, a la oferta, contratación y ejecución de los viajes combinados y de los servicios de viaje vinculados, definidos en el artículo siguiente.
+2. La regulación establecida en este libro no será de aplicación a:
+a) Los viajes combinados y los servicios de viaje vinculados de duración inferior a veinticuatro horas, a menos que se incluya el alojamiento.
+b) Los viajes combinados que se ofrezcan, y los servicios de viaje vinculados que se faciliten, de manera ocasional, sin reiteración en un mismo año y sin ánimo de lucro, siempre que vayan dirigidos única y exclusivamente a los miembros de la entidad que lo organiza y no al público en general y no se utilicen medios publicitarios para su promoción, ni sean de general conocimiento.
+c) Los viajes combinados y los servicios de viaje vinculados contratados sobre la base de un convenio general para la organización de viajes de negocios entre un empresario y otra persona física o jurídica que actúe con fines relacionados con su actividad comercial, negocio, oficio o profesión.
+En estos supuestos, la no sujeción al régimen legal general previsto en este libro para los viajes combinados ha de ser informada expresamente en la documentación del viaje facilitada a los viajeros.
+3. No quedarán eximidos de las obligaciones establecidas en este libro los organizadores de viajes combinados, o, en su caso, los minoristas, así como los empresarios que facilitan servicios de viaje vinculados, aunque declaren que actúan exclusivamente como prestadores de un servicio de viaje, como intermediarios o en cualquier otra calidad, o que los servicios que prestan no constituyen un viaje combinado o servicios de viaje vinculados.
+Se modifica el apartado 2 por el art. 1.13 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 151
+
+Artículo 151. Definiciones.
+1. A los efectos de este libro se entenderá por:
+a) "Servicio de viaje":
+1.º El transporte de pasajeros.
+2.º El alojamiento cuando no sea parte integrante del transporte de pasajeros y no tenga un fin residencial.
+3.º El alquiler de turismos, de otros vehículos de motor en el sentido del artículo 2. 21 del Real Decreto 750/2010, de 4 de junio, por el que se regulan los procedimientos de homologación de vehículos de motor y sus remolques, máquinas autopropulsadas o remolcadas, vehículos agrícolas, así como de sistemas, partes y piezas de dichos vehículos, así como el alquiler de motocicletas que requieran un permiso de conducción de categoría A, con arreglo a lo dispuesto en el artículo 4.2.d) del Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores.
+4.º Cualquier otro servicio turístico que no forme parte integrante de un servicio de viaje de los definidos en los tres apartados anteriores.
+b) "Viaje combinado": la combinación de, al menos, dos tipos de servicios de viaje a efectos del mismo viaje o vacación, si esos servicios:
+1.º son combinados por un solo empresario, incluso a petición o según la selección del viajero, antes de que se celebre un único contrato por la totalidad de los servicios, o
+2.º con independencia de la celebración de contratos distintos con diferentes prestadores de servicios de viaje, esos servicios:
+i) son contratados en un único punto de venta y seleccionados antes de que el viajero acepte pagar,
+ii) son ofrecidos, vendidos o facturados a un precio a tanto alzado o global,
+iii) son anunciados o vendidos como «viaje combinado» o bajo una denominación similar,
+iv) son combinados después de la celebración de un contrato en virtud del cual el empresario permite al viajero elegir entre una selección de distintos tipos de servicios de viaje, o
+v) son contratados con distintos empresarios a través de procesos de reserva en línea conectados en los que el nombre del viajero, sus datos de pago y su dirección de correo electrónico son transmitidos por el empresario con el que se celebra el primer contrato a otro u otros empresarios con quienes se celebra otro contrato, a más tardar veinticuatro horas después de la confirmación de la reserva del primer servicio de viaje.
+La combinación de servicios de viaje en la que se combine como máximo uno de los tipos de servicios de viaje a que se refieren los apartados 1.º, 2.º o 3.º de la letra a) con uno o varios de los servicios turísticos a que se refiere su apartado 4.º, no se considerará un viaje combinado si estos servicios turísticos no representan una proporción igual o superior al veinticinco por ciento del valor de la combinación y no se anuncian o no constituyen por alguna otra razón una característica esencial de la combinación, o si solo han sido seleccionados y contratados después de que se haya iniciado la ejecución de un servicio de viaje contemplado en los mencionados apartados 1.º, 2.º o 3.º
+c) "Contrato de viaje combinado": el contrato por el conjunto del viaje combinado o, si dicho viaje se realiza con arreglo a contratos distintos, todos los contratos que regulen los servicios de viaje incluidos en el mismo.
+d) "Inicio del viaje combinado": el comienzo de la ejecución de los servicios de viaje incluidos en el viaje combinado.
+e) "Servicios de viaje vinculados": al menos dos tipos diferentes de servicios de viaje adquiridos con objeto del mismo viaje o vacación, que, sin constituir un viaje combinado, den lugar a la celebración de contratos distintos con cada uno de los prestadores individuales de servicios de viaje, si un empresario facilita:
+1.º con ocasión de una única visita o contacto con su punto de venta, la selección y el pago separado de cada servicio de viaje por parte de los viajeros, o
+2.º de manera específica, la contratación de al menos un servicio de viaje adicional con otro empresario, siempre que tenga lugar a más tardar veinticuatro horas después de la confirmación de la reserva del primer servicio de viaje.
+Cuando se adquiera como máximo uno de los servicios de viaje a que se refieren los apartados 1.º, 2.º o 3.º de la letra a) y uno o varios de los servicios turísticos a que se refiere su apartado 4º, no constituirán servicios de viaje vinculados si estos últimos no representan una proporción igual o superior al veinticinco por ciento del valor de la combinación y no se anuncian o no constituyen por alguna otra razón una característica esencial del viaje o vacación.
+f) "Viajero": toda persona que tiene la intención de celebrar un contrato o tiene derecho a viajar en virtud de un contrato celebrado con arreglo a este libro.
+g) "Organizador": un empresario que combina y vende u oferta viajes combinados directamente, a través de o junto con otro empresario, o el empresario que transmite los datos del viajero a otro empresario a efectos de lo indicado en el párrafo b) 2.º v).
+h) "Minorista": empresario distinto del organizador que vende u oferta viajes combinados por un organizador.
+i) "Establecimiento": el definido en el artículo 3.5 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+j) "Circunstancias inevitables y extraordinarias": una situación fuera del control de la parte que alega esta situación y cuyas consecuencias no habrían podido evitarse incluso si se hubieran adoptado todas las medidas razonables.
+k) "Falta de conformidad": la no ejecución o la ejecución incorrecta de los servicios de viaje incluidos en un contrato de viaje combinado.
+l) "Menor": toda persona menor de dieciocho años.
+m) "Punto de venta": toda instalación de venta al por menor, tanto mueble como inmueble, o un sitio web de venta al por menor o un dispositivo similar de venta minorista en línea, incluso cuando estos sitios web o dispositivos se presenten a los viajeros como un dispositivo único, incluido un servicio telefónico.
+n) "Repatriación": el regreso del viajero al lugar de salida o a cualquier otro lugar acordado por las partes contratantes.
+2. A los efectos de lo dispuesto en este libro, se entenderá por empresario, sin perjuicio de la definición establecida en el artículo 4, a aquel que atiende a los viajeros de manera presencial o en línea, tanto si actúa como organizador, minorista, empresario que facilita servicios de viaje vinculados o como prestador de servicios de viaje.
+Se modifica la letra k) del apartado 1 por el art. 1.14 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO II
+
+Disposiciones comunes en materia de responsabilidad
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 152
+
+Artículo 152. Responsabilidad por errores en la reserva.
+El empresario será responsable de los errores debidos a defectos técnicos que se produzcan en el sistema de reservas que le sean atribuibles, así como de los errores cometidos durante el proceso de reserva, cuando el empresario haya aceptado gestionar la reserva de un viaje combinado o de servicios de viaje que formen parte de servicios de viaje vinculados.
+El empresario no será responsable de los errores de reserva atribuibles al viajero o causados por circunstancias inevitables y extraordinarias.
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## TÍTULO II
+
+Viajes combinados
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO I
+
+Obligaciones de información y contenido del contrato de viaje combinado
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 153
+
+Artículo 153. Información precontractual.
+1. Antes de que el viajero quede obligado por cualquier contrato de viaje combinado u oferta correspondiente, el organizador, y también el minorista, cuando el viaje combinado se venda a través de este último, proporcionarán al viajero el formulario con la información normalizada relativa al viaje combinado que figura en el anexo II, A o B, así como la siguiente información que resulte aplicable al viaje combinado:
+a) Las principales características de los servicios de viaje que se señalan a continuación:
+1.º El destino o los destinos del viaje, el itinerario y los períodos de estancia, con sus fechas y, cuando se incluya el alojamiento, el número de pernoctaciones incluidas.
+2.º Los medios de transporte, sus características y categorías, los puntos, fechas y horas de salida y de regreso, la duración, los lugares de las paradas intermedias y las conexiones de transporte. Si la hora exacta está aún por determinar, se informará al viajero de la hora aproximada de salida y de regreso.
+3.º La ubicación, las principales características y, si procede, la categoría turística del alojamiento con arreglo a las normas del correspondiente país de destino.
+4.º Las comidas previstas.
+5.º Las visitas, excursiones u otros servicios incluidos en el precio total acordado del viaje combinado.
+6.º En caso de que esta información no pueda deducirse del contexto, indicación de si alguno de los servicios de viaje se prestará al viajero como parte de un grupo y, en caso afirmativo, cuando sea posible, el tamaño aproximado del grupo.
+7.º Si el disfrute de otros servicios turísticos depende de la capacidad del viajero para comunicarse verbalmente de manera eficaz, el idioma en que se prestarán dichos servicios.
+8.º Si el viaje o vacación es en términos generales apto para personas con movilidad reducida y, a petición del viajero, información precisa sobre la idoneidad del viaje o vacación en función de sus necesidades.
+b) El nombre comercial, la dirección completa del organizador y, en su caso, del minorista, así como el número de teléfono y la dirección de correo electrónico de ambos.
+c) El precio total del viaje combinado con todos los impuestos incluidos y, en su caso, todas las comisiones, recargos y otros costes adicionales o, si dichos costes no pueden calcularse razonablemente antes de la celebración del contrato, una indicación del tipo de costes adicionales que el viajero podría tener que soportar.
+d) Las modalidades de pago, incluido cualquier importe o porcentaje del precio que deba abonarse en concepto de anticipo y los plazos para abonar el saldo, o las garantías financieras que tenga que pagar o aportar el viajero.
+e) El número mínimo de personas necesario para la realización del viaje combinado y la fecha límite a que se refiere el artículo 160.3.a), antes del inicio del viaje combinado, para la posible cancelación del contrato si no se alcanza dicho número.
+f) Información general sobre los requisitos de pasaporte y visado, incluido el tiempo aproximado para la obtención de visados, e información sobre los trámites sanitarios para el viaje y la estancia en el país de destino.
+g) Indicación de que el viajero puede resolver el contrato en cualquier momento antes del inicio del viaje combinado, a cambio del pago de una penalización adecuada o, en su caso, de la penalización tipo aplicada por este concepto por el organizador, de conformidad con el artículo 160.1.
+h) Información sobre la suscripción de un seguro facultativo que cubra los gastos originados en caso de que el viajero decida poner fin al contrato o los gastos de asistencia, incluidos los de repatriación, en caso de accidente, enfermedad o fallecimiento.
+i) La información exigida por la normativa vigente en materia de protección de datos de carácter personal.
+Cuando se trate de contratos celebrados por teléfono se facilitará al viajero la información normalizada tal como figura en el anexo II.B y la información indicada en las letras a) a h), ambas inclusive, de este apartado.
+2. En la contratación de viajes combinados, tal como se definen en el apartado b).2.º.v) del artículo 151.1, el organizador y el empresario a los que se transmiten los datos garantizarán que cada uno de ellos facilite, antes de que el viajero esté obligado por contrato o por cualquier oferta correspondiente, la información indicada en las letras a) a h), ambas inclusive, del apartado anterior, en la medida en que sea pertinente para los respectivos servicios de viaje que ofrezcan. El organizador también facilitará al mismo tiempo la información normalizada por medio del formulario que figura en el anexo II.C.
+3. La información a que se hace referencia en los apartados 1 y 2 deberá facilitarse al viajero, al menos, en castellano y en su caso, a petición de cualquiera de las partes, deberá redactarse también en cualquiera de las otras lenguas oficiales en el lugar de celebración del contrato y de forma clara, comprensible y destacada, y cuando se facilite por escrito deberá ser legible.
+Se modifica el apartado 3 por el art. 1.15 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Se modifica el apartado 1.a)8º, con efectos de 1 de enero de 2022, por el art. 16.8 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
+ Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 154
+
+Artículo 154. Carácter vinculante de la información precontractual.
+1. La información facilitada al viajero con arreglo a las letras a), c), d), e) y g) del artículo 153.1, formará parte integrante del contrato de viaje combinado y no se modificará salvo que las partes contratantes acuerden expresamente lo contrario. El organizador y, en su caso, el minorista, antes de la celebración del contrato de viaje combinado, comunicarán al viajero, de forma clara, comprensible y destacada, todos los cambios de la información precontractual.
+2. Si antes de la celebración del contrato el organizador y, en su caso, el minorista no cumplen con los requisitos de información sobre comisiones, recargos u otros costes adicionales que establece el artículo 153.1.c), el viajero no tendrá que soportarlos.
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO III
+
+Otros derechos del consumidor y usuario
+
+### Artículo 155
+
+Artículo 155. Contenido del contrato de viaje combinado y documentos que se entregarán antes del inicio del viaje.
+1. Los contratos de viaje combinado deberán estar redactados en un lenguaje claro y comprensible y, si están por escrito, deberán ser legibles. En el momento de la celebración del contrato o posteriormente sin demora, el organizador o, en su caso, el minorista, proporcionará al viajero una copia del contrato o una confirmación del mismo en un soporte duradero. El viajero tendrá derecho a reclamar una copia del contrato en papel si este se ha celebrado en presencia física de ambas partes.
+En el caso de contratos celebrados fuera del establecimiento, el viajero deberá recibir una copia del contrato de viaje combinado o de su confirmación en soporte papel o, si está de acuerdo, en otro soporte duradero.
+2. El contrato o su confirmación recogerá el contenido íntegro de lo acordado, incluida toda la información mencionada en el artículo 153.1, así como la información siguiente:
+a) Necesidades especiales del viajero aceptadas por el organizador.
+b) Indicación de que el organizador y el minorista son responsables de la correcta ejecución de todos los servicios de viaje incluidos en el contrato, de conformidad con el artículo 161, y están obligados a prestar asistencia si el viajero se halla en dificultades de conformidad con el artículo 163.2.
+c) El nombre de la entidad garante en caso de insolvencia, el nombre de la entidad garante del cumplimiento de la ejecución del contrato de viaje combinado, y los datos de contacto, incluida su dirección completa, en un documento resumen o certificado y, cuando proceda, el nombre de la autoridad competente designada a tal fin y sus datos de contacto.
+d) El nombre, dirección completa, número de teléfono, dirección de correo electrónico y, si ha lugar, número de fax del representante local del organizador y, en su caso, del minorista, de un punto de contacto o de otro servicio que permita al viajero, a su elección, ponerse en contacto con cualquiera de ellos rápidamente y comunicarse con ellos eficazmente, pedir asistencia cuando tenga dificultades o presentar una reclamación por cualquier falta de conformidad advertida durante la ejecución del viaje combinado.
+e) Indicación de que el viajero debe comunicar toda falta de conformidad advertida durante la ejecución del viaje combinado de conformidad con el artículo 161.2.
+f) En el caso de que viajen menores que no estén acompañados por un familiar u otro adulto autorizado, siempre que el viaje combinado incluya el alojamiento, información que permita el contacto directo con el menor o con la persona responsable del mismo en el lugar de estancia de este.
+g) Información sobre los procedimientos internos de tramitación de reclamaciones disponibles y sobre sistemas de resolución alternativa de litigios, de conformidad con la Ley 7/2017, de 2 de noviembre, por la que se incorpora al ordenamiento jurídico español la Directiva 2013/11/UE del Parlamento Europeo y del Consejo, de 21 de mayo de 2013, relativa a la resolución alternativa de litigios en materia de consumo, y si procede, sobre la entidad de resolución de litigios a la que esté adherida el empresario y sobre la plataforma a que se refiere el Reglamento (UE) n.º 524/2013 del Parlamento Europeo y del Consejo, de 21 de mayo de 2013, sobre resolución de litigios en línea en materia de consumo y por el que se modifica el Reglamento (CE) n.º 2006/2004 y la Directiva 2009/22/CE.
+h) Información de que el viajero tiene derecho a ceder el contrato a otro viajero, de conformidad con el artículo 157.
+3. En los contratos de viajes combinados, tal como se definen en el apartado b).2.º.v) del artículo 151.1, el empresario al que se remiten los datos informará al organizador de la celebración del contrato que dé lugar a la constitución del viaje combinado. El empresario facilitará al organizador la información necesaria para que este cumpla con sus obligaciones.
+Tan pronto como el organizador haya sido informado de que se ha constituido el viaje combinado facilitará al viajero en un soporte duradero toda la información a la que se refiere el apartado 2 anterior.
+4. La información mencionada en los apartados 2 y 3 se proporcionará de forma clara, comprensible y destacada.
+5. Con suficiente antelación al inicio del viaje combinado, el organizador o, en su caso, el minorista proporcionarán al viajero los recibos, vales y billetes necesarios, la información acerca de la hora de salida programada y, si procede, la hora límite para facturar, así como la hora programada de las escalas, conexiones de transporte y llegada.
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 156
+
+Artículo 156. Carga de la prueba.
+La carga de la prueba en relación con el cumplimiento de los requisitos de información establecidos en este capítulo recaerá en el empresario.
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO II
+
+Modificaciones del contrato antes del inicio del viaje combinado
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO IV
+
+Modificación del contrato
+
+### Artículo 157
+
+Artículo 157. Cesión del contrato de viaje combinado a otro viajero.
+1. El viajero podrá ceder el contrato de viaje combinado a una persona que reúna todas las condiciones aplicables a ese contrato.
+2. La cesión deberá ser comunicada previamente al organizador o, en su caso, al minorista, en un soporte duradero, con una antelación razonable de al menos siete días naturales al inicio del viaje combinado.
+3. El cedente del contrato y el cesionario responderán solidariamente de la cantidad pendiente de pago del precio acordado, así como de cualquier comisión, recargo u otros costes adicionales derivados de la cesión. El organizador o, en su caso, el minorista informarán al cedente acerca de los costes efectivos de la cesión. Tales costes deberán ser razonables y, en todo caso, no superarán los costes efectivamente soportados por el organizador y el minorista a causa de la cesión.
+4. El organizador y, en su caso, el minorista proporcionarán al cedente las pruebas de las comisiones, recargos u otros costes adicionales derivados de la cesión del contrato.
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 158
+
+Artículo 158. Modificación del precio.
+1. Después de la celebración del contrato, los precios únicamente podrán incrementarse si en el mismo se reserva expresamente esa posibilidad y se establece que el viajero tiene derecho a una reducción del precio conforme al apartado 4. En tal caso, el contrato indicará el modo en que han de calcularse las revisiones del precio.
+El incremento de los precios solo será posible como consecuencia directa de cambios en:
+a) el precio del transporte de pasajeros derivado del coste del combustible o de otras fuentes de energía,
+b) el nivel de los impuestos o tasas sobre los servicios de viaje incluidos en el contrato, exigidos por terceros que no están directamente involucrados en la ejecución del viaje combinado, incluidas las tasas, impuestos y recargos turísticos, de aterrizaje y de embarque o desembarque en puertos y aeropuertos, o
+c) los tipos de cambio de divisa aplicables al viaje combinado.
+2. Si el aumento de precio mencionado en el apartado anterior excede del ocho por ciento del precio total del viaje combinado, se aplicará lo dispuesto en los apartados del 2 al 5 del artículo 159.
+3. Con independencia de su cuantía, solo será posible un aumento de precio si el organizador o, en su caso, el minorista lo notifican al viajero de forma clara y compresible, con una justificación de este incremento, y le proporcionan su cálculo en un soporte duradero a más tardar veinte días naturales antes del inicio del viaje combinado.
+4. Si el contrato estipula la posibilidad de aumentar los precios, el viajero tendrá derecho a una reducción del precio correspondiente a toda disminución de los costes a los que se hace referencia en las letras a), b) y c) del apartado 1 que se produzca en el periodo comprendido entre la celebración del contrato y el inicio del viaje combinado.
+5. Cuando se produzca una disminución del precio, el organizador y, en su caso, el minorista tendrán derecho a deducir los gastos administrativos reales del reembolso debido al viajero. Si el viajero lo solicita, el organizador y, en su caso, el minorista deberá aportar la prueba de estos gastos administrativos.
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## TÍTULO II
+
+Disposiciones relativas a la resolución del contrato y responsabilidades
+
+## CAPÍTULO I
+
+Resolución del contrato o cancelación
+
+### Artículo 159
+
+Artículo 159. Alteración de otras cláusulas del contrato.
+1. El organizador no podrá modificar unilateralmente las cláusulas del contrato antes del inicio del viaje combinado, con excepción del precio de conformidad con el artículo 158, salvo que se haya reservado este derecho en el contrato, que el cambio sea insignificante y que el propio organizador o, en su caso, el minorista informen al viajero de forma clara, comprensible y destacada en un soporte duradero.
+2. Si antes del inicio del viaje combinado el organizador se ve obligado a modificar sustancialmente alguna de las principales características de los servicios de viaje a que se refiere el artículo 153.1.a), no puede cumplir con alguno de los requisitos especiales a que se refiere el artículo 155.2.a) o propone aumentar el precio del viaje en más del ocho por ciento de conformidad con el artículo 158.2, el viajero podrá, en un plazo razonable especificado por el organizador, aceptar el cambio propuesto o resolver el contrato sin pagar penalización.
+El viajero que resuelva el contrato de viaje combinado podrá aceptar un viaje combinado sustitutivo que le ofrezca el organizador o, en su caso, el minorista, de ser posible de calidad equivalente o superior.
+3. El organizador o, en su caso, el minorista deberá comunicar sin demora al viajero, de forma clara, comprensible y destacada y en un soporte duradero:
+a) Las modificaciones propuestas contempladas en el apartado 2 y, cuando proceda de conformidad con el apartado 4, su repercusión en el precio del viaje combinado.
+b) Un plazo razonable en el que el viajero deberá informar de su decisión con arreglo al apartado 2.
+c) La indicación de que en el supuesto de que el viajero no notifique su decisión en el plazo indicado en la letra b) se entenderá que opta por resolver el contrato sin penalización alguna.
+d) En su caso, el viaje combinado sustitutivo ofrecido y su precio.
+4. Cuando las modificaciones del contrato de viaje combinado o el viaje combinado sustitutivo den lugar a un viaje combinado de calidad o coste inferior, el viajero tendrá derecho a una reducción adecuada del precio.
+5. En caso de resolución por el viajero del contrato de viaje combinado antes de su inicio, en virtud del apartado 2, sin pago de penalización o no aceptación por parte del viajero de un viaje combinado sustitutivo, el organizador o, en su caso, el minorista reembolsarán sin demora indebida todos los pagos realizados por el viajero o por un tercero en su nombre y, en cualquier caso, en un plazo no superior a catorce días naturales a partir de la fecha de resolución del contrato. A estos efectos, se aplicará lo dispuesto en los apartados 2 a 5 del artículo 162.
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO III
+
+Terminación del contrato de viaje combinado
+Se añade por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 160
+
+Artículo 160. Resolución, cancelación y derecho de desistimiento antes del inicio del viaje.
+1. En cualquier momento anterior al inicio del viaje combinado el viajero podrá resolver el contrato en cuyo caso el organizador, o, en su caso, el minorista podrán exigirle que pague una penalización que sea adecuada y justificable. El contrato podrá especificar una penalización tipo que sea razonable basada en la antelación de la resolución del contrato con respecto al inicio del viaje combinado y en el ahorro de costes y los ingresos esperados por la utilización alternativa de los servicios de viaje. En ausencia de una penalización tipo, el importe de la penalización por la resolución del contrato equivaldrá al precio del viaje combinado menos el ahorro de costes y los ingresos derivados de la utilización alternativa de los servicios de viaje. El organizador o, en su caso, el minorista deberán facilitar al viajero que lo solicite una justificación del importe de la penalización.
+2. No obstante lo dispuesto en el apartado anterior, cuando concurran circunstancias inevitables y extraordinarias en el lugar de destino o en las inmediaciones que afecten de forma significativa a la ejecución del viaje combinado o al transporte de pasajeros al lugar de destino, el viajero tendrá derecho a resolver el contrato antes del inicio del mismo sin pagar ninguna penalización. En este caso, el viajero tendrá derecho al reembolso completo de cualquier pago realizado, pero no a una compensación adicional.
+3. El organizador podrá cancelar el contrato y reembolsar al viajero la totalidad de los pagos que este haya realizado, pero no será responsable de compensación adicional alguna si:
+a) el número de personas inscritas para el viaje combinado es inferior al número mínimo especificado en el contrato y el organizador o, en su caso, el minorista notifican al viajero la cancelación dentro del plazo fijado en el mismo, que a más tardar será de:
+1.º veinte días naturales antes del inicio del viaje combinado en el caso de los viajes de más de seis días de duración,
+2.º siete días naturales antes del inicio del viaje combinado en el caso de los viajes de entre dos y seis días de duración,
+3.º cuarenta y ocho horas antes del inicio del viaje combinado en el caso de viajes de menos de dos días de duración, o
+b) el organizador se ve en la imposibilidad de ejecutar el contrato por circunstancias inevitables y extraordinarias y se notifica la cancelación al viajero sin demora indebida antes del inicio del viaje combinado.
+4. El organizador o, en su caso, el minorista, proporcionará los reembolsos exigidos en los apartados 2 y 3, o, con respecto al apartado 1, reembolsará cualquier pago realizado por el viajero o en su nombre, por el viaje combinado, menos la penalización correspondiente. Dichos reembolsos o devoluciones se realizarán al viajero sin demora indebida y, en cualquier caso, en un plazo no superior a catorce días naturales después de la terminación del contrato de viaje combinado.
+5. En el caso de los contratos de viaje combinado celebrado fuera del establecimiento, el viajero dispondrá de un plazo de catorce días para ejercer su derecho desistimiento del contrato de viaje combinado, sin necesidad de justificación.
+Se modifica el primer párrafo del apartado 3 por el art. 1.16 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO IV
+
+Ejecución del viaje combinado
+Se añade por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO II
+
+Incumplimiento, responsabilidad y garantías
+
+### Artículo 161
+
+Artículo 161. Responsabilidad por la ejecución del viaje combinado y derecho de resarcimiento.
+1. Los organizadores y los minoristas de viajes combinados responderán frente al viajero del correcto cumplimiento de los servicios de viaje incluidos en el contrato en función de las obligaciones que les correspondan por su ámbito de gestión del viaje combinado, con independencia de que estos servicios los deban ejecutar ellos mismos u otros prestadores.
+No obstante lo anterior, el viajero podrá dirigir las reclamaciones por el incumplimiento o cumplimiento defectuoso de los servicios que integran el viaje combinado indistintamente ante organizadores o minoristas, que quedarán obligados a informar sobre el régimen de responsabilidad existente, tramitar la reclamación de forma directa o mediante remisión a quien corresponda en función del ámbito de gestión, así como a informar de la evolución de la misma al viajero aunque esté fuera de su ámbito de gestión.
+La falta de gestión de la reclamación por parte del minorista supondrá que deberá responder de forma solidaria con el organizador frente al viajero del correcto cumplimiento de las obligaciones del viaje combinado que correspondan al organizador por su ámbito de gestión. De igual modo, la falta de gestión de la reclamación por parte del organizador supondrá que deberá responder de forma solidaria con el minorista frente al viajero del correcto cumplimiento de las obligaciones del viaje combinado que correspondan al minorista por su ámbito de gestión.
+En estos supuestos, le corresponderá al minorista u organizador, en su caso, la carga de la prueba de que ha actuado diligentemente en la gestión de la reclamación y, en cualquier caso, que ha iniciado la gestión de la misma con carácter inmediato tras su recepción.
+Quien responda de forma solidaria ante el viajero por la falta de gestión de la reclamación tendrá el derecho de repetición frente al organizador o al minorista al que le sea imputable el incumplimiento o cumplimiento defectuoso del contrato en función de su respectivo ámbito de gestión del viaje combinado.
+Cuando un organizador o un minorista abone una compensación, en función de su ámbito de gestión, conceda una reducción del precio o cumpla las demás obligaciones que impone esta ley, podrá solicitar el resarcimiento a terceros que hayan contribuido a que se produjera el hecho que dio lugar a la compensación, a la reducción del precio o al cumplimiento de otras obligaciones.
+2. El viajero deberá informar al organizador o, en su caso, al minorista sin demora indebida, teniendo en cuenta las circunstancias de cada caso, de cualquier falta de conformidad que observe durante la ejecución de un servicio de viaje incluido en el contrato.
+3. Si cualquiera de los servicios incluidos en el viaje no se ejecuta de conformidad con el contrato, el organizador y, en su caso, el minorista deberán subsanar la falta de conformidad, salvo que resulte imposible o si ello entraña un coste desproporcionado, teniendo en cuenta la gravedad de la falta de conformidad y el valor de los servicios de viaje afectados. En caso de que con arreglo a este apartado no se subsane la falta de conformidad será de aplicación lo dispuesto en el artículo 162.
+4. Sin perjuicio de las excepciones previstas en el apartado anterior, si el organizador o el minorista no subsanan la falta de conformidad en un plazo razonable establecido por el viajero, el propio viajero podrá hacerlo y solicitar el reembolso de los gastos necesarios. No será preciso que el viajero especifique un plazo límite si el organizador o, en su caso, el minorista se niegan a subsanar la falta de conformidad o si se requiere una solución inmediata.
+5. Cuando una proporción significativa de los servicios de viaje no pueda prestarse según lo convenido en el contrato de viaje combinado, el organizador o, en su caso, el minorista, ofrecerá, sin coste adicional alguno para el viajero, fórmulas alternativas adecuadas, de ser posible de calidad equivalente o superior a las especificadas en el contrato, para la continuación del viaje combinado, también cuando el regreso del viajero al lugar de salida no se efectúe según lo acordado.
+Si las fórmulas alternativas propuestas dan lugar a un viaje combinado de menor calidad que la especificada en el contrato, el organizador o, en su caso, el minorista aplicarán al viajero una reducción adecuada del precio.
+El viajero solo podrá rechazar las fórmulas alternativas propuestas si no son comparables a lo acordado en el contrato de viaje combinado o si la reducción del precio concedida es inadecuada.
+6. Cuando una falta de conformidad afecte sustancialmente a la ejecución del viaje y el organizador o, en su caso, el minorista no la hayan subsanado en un plazo razonable establecido por el viajero, este podrá poner fin al contrato sin pagar ninguna penalización y solicitar, en su caso, tanto una reducción del precio como una indemnización por los daños y perjuicios causados, de conformidad con el artículo 162.
+Si no es posible encontrar fórmulas de viaje alternativas o el viajero rechaza las propuestas de conformidad con el apartado 5, párrafo 3, tendrá derecho, en su caso, tanto a una reducción de precio como a una indemnización por daños y perjuicios de conformidad con el artículo 162, sin que se ponga fin al contrato de viaje combinado.
+Si el viaje combinado incluye el transporte de pasajeros, el organizador y, en su caso, el minorista, en los casos indicados en los dos párrafos anteriores, repatriará además al viajero en un transporte equivalente sin dilaciones indebidas y sin coste adicional.
+7. Si es imposible garantizar el retorno del viajero según lo convenido en el contrato debido a circunstancias inevitables y extraordinarias, el organizador o, en su caso, el minorista asumirán el coste del alojamiento que sea necesario, de ser posible de categoría equivalente, por un período no superior a tres noches por viajero. Cuando la normativa europea sobre derechos de los pasajeros, aplicable a los correspondientes medios de transporte para el regreso del viajero, establezca períodos más largos, se aplicarán dichos períodos.
+8. La limitación de costes a que se refiere el apartado anterior no se aplicará a las personas con discapacidad o movilidad reducida, tal como se definen en el artículo 2.a) del Reglamento (CE) n.º 1107/2006 del Parlamento Europeo y del Consejo, de 5 de julio de 2006, sobre los derechos de las personas con discapacidad o movilidad reducida en el transporte aéreo, ni a sus acompañantes, mujeres embarazadas y menores no acompañados, así como a las personas con necesidad de asistencia médica específica, si sus necesidades particulares han sido participadas al organizador o, en su caso, al minorista al menos cuarenta y ocho horas antes del inicio del viaje. El organizador y el minorista no podrán invocar las circunstancias inevitables y extraordinarias a efectos de la limitación de responsabilidad, conforme al apartado 7, si el transportista no puede acogerse a estas circunstancias en virtud de la normativa europea.
+Se modifica el apartado 1 por el art. 1.17 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+ Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 162
+
+Artículo 162. Reducción del precio e indemnización por daños y perjuicios.
+1. El viajero tendrá derecho a una reducción del precio adecuada por cualquier periodo durante el cual haya habido falta de conformidad, a menos que el organizador o el minorista demuestren que la falta de conformidad es imputable al viajero.
+2. El viajero tendrá derecho a recibir una indemnización adecuada del organizador o, en su caso, del minorista por cualquier daño o perjuicio que sufra como consecuencia de cualquier falta de conformidad. La indemnización se abonará sin demora indebida.
+3. El viajero no tendrá derecho a una indemnización por daños y perjuicios si el organizador o, en su caso, el minorista demuestran que la falta de conformidad es:
+a) imputable al viajero,
+b) imputable a un tercero ajeno a la prestación de los servicios contratados e imprevisible o inevitable, o
+c) debida a circunstancias inevitables y extraordinarias.
+4. En la medida en que los convenios internacionales que vinculan a la Unión Europea limiten el alcance o las condiciones del pago de indemnizaciones por parte de prestadores de servicios de viaje incluidos en un viaje combinado, las mismas limitaciones se aplicarán a los organizadores y minoristas. En los demás casos, el contrato podrá limitar la indemnización que debe pagar el organizador o el minorista siempre que esa limitación no se aplique a los daños corporales o perjuicios causados de forma intencionada o por negligencia y que su importe no sea inferior al triple del precio total del viaje.
+5. Todo derecho a indemnización o reducción del precio en virtud de lo establecido en esta ley no afectará a los derechos de los viajeros contemplados en:
+a) El Reglamento (CE) n.º 261/2004 del Parlamento Europeo y del Consejo, de 11 de febrero de 2004, por el que se establecen normas comunes sobre compensación y asistencia a los pasajeros aéreos en caso de denegación de embarque y de cancelación o gran retraso de los vuelos, y se deroga el Reglamento (CEE) n.º 295/91.
+b) El Reglamento (CE) n.º 1371/2007, del Parlamento Europeo y del Consejo, de 23 de octubre de 2007, sobre los derechos y las obligaciones de los viajeros de ferrocarril.
+c) El Reglamento (CE) n.º 392/2009 del Parlamento Europeo y del Consejo, de 23 de abril de 2009, sobre la responsabilidad de los transportistas de pasajeros por mar en caso de accidente.
+d) El Reglamento (UE) n.º 1177/2010 del Parlamento Europeo y del Consejo, de 24 de noviembre de 2010, sobre los derechos de los pasajeros que viajan por mar y por vías navegables y por el que se modifica el Reglamento (CE) n.º 2006/2004.
+e) El Reglamento (UE) n.º 181/2011 del Parlamento Europeo y del Consejo, de 16 de febrero de 2011, sobre los derechos de los viajeros de autobús y autocar y por el que se modifica el Reglamento (CE) n.º 2006/2004.
+f) Los convenios internacionales.
+Los viajeros tendrán derecho a presentar reclamaciones con arreglo a esta ley, a dichos reglamentos y a los convenios internacionales. La indemnización o reducción del precio concedida en virtud de esta ley y la concedida en virtud de dichos reglamentos y convenios internacionales se deducirán la una de la otra para evitar el exceso de indemnización.
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 163
+
+Artículo 163. Posibilidad de ponerse en contacto con el organizador a través del minorista y obligación de prestar asistencia.
+1. El viajero podrá enviar mensajes, peticiones o quejas en relación con la ejecución del viaje combinado directamente al minorista a través del cual fue adquirido. El minorista transmitirá dichos mensajes, peticiones o quejas al organizador sin demora indebida. A efectos del cumplimiento de los términos o plazos de prescripción, el acuse de recibo por el minorista de los mensajes, peticiones o quejas se considerará acuse de recibo por el organizador.
+2. El organizador y el minorista deberán proporcionar asistencia adecuada y sin demora indebida al viajero en dificultades, en especial en caso de circunstancias inevitables y extraordinarias, en particular mediante:
+a) el suministro de información adecuada sobre los servicios sanitarios, las autoridades locales y la asistencia consular, y
+b) la asistencia al viajero para establecer comunicaciones a distancia y la ayuda para encontrar fórmulas de viaje alternativas.
+El organizador y, en su caso, el minorista podrán facturar un recargo razonable por dicha asistencia si la dificultad se ha originado intencionadamente o por negligencia del viajero. Dicho recargo no superará en ningún caso los costes reales en los que haya incurrido el organizador o el minorista.
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+ Se modifica por la disposición final 17.3 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfdecimoseptima.
+
+## CAPÍTULO V
+
+Garantías
+Se añade por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 164
+
+Artículo 164. Efectividad y alcance de la garantía frente a la insolvencia.
+1. Los organizadores y los minoristas de viajes combinados establecidos en España tendrán la obligación de constituir una garantía y adaptarla cuando sea necesario. Dicha garantía podrá constituirse mediante la creación de un fondo de garantía, la contratación de un seguro, un aval u otra garantía financiera, en los términos que determine la Administración competente. Si el transporte de pasajeros está incluido en el contrato de viaje combinado se constituirá una garantía para la repatriación de los viajeros, pudiendo ofrecerse la continuación del viaje combinado. La exigencia de esta garantía quedará sujeta en todo caso a lo establecido en la Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado.
+Los organizadores y los minoristas no establecidos en un Estado miembro de la Unión Europea que vendan u ofrezcan viajes combinados en España, o que por cualquier medio dirijan dichas actividades a España, estarán también obligados a prestar dicha garantía.
+2. La garantía deberá ser efectiva y cubrir los costes que sean previsibles de manera razonable. Cubrirá el importe de los pagos realizados directamente por los viajeros, o por un tercero en su nombre, en relación con viajes combinados en temporada alta, teniendo en cuenta el período comprendido entre los pagos anticipados y los pagos finales y la finalización de los viajes combinados, así como el coste estimado de las repatriaciones en caso de insolvencia. La cobertura necesaria podrá calcularse a partir de los datos comerciales más recientes, como es el volumen de negocios en concepto de viajes combinados realizado en el ejercicio anterior, pero deberá adaptarse en caso de que aumenten los riesgos, especialmente debido a un incremento importante de la venta de estos viajes.
+3. La insolvencia se entenderá producida tan pronto como sea evidente que por la falta de liquidez de los organizadores o de los minoristas los servicios de viaje dejen de ejecutarse, no vayan a ejecutarse o vayan a ejecutarse solo en parte, o cuando los prestadores de servicios requieran a los viajeros pagar por ellos. Producida la insolvencia, la garantía deberá estar disponible pudiendo el viajero acceder fácilmente a la protección garantizada, sin perjuicio de que se le ofrezca la continuación del viaje combinado. Los reembolsos correspondientes a servicios de viaje no ejecutados se efectuarán sin demora indebida previa solicitud del viajero.
+4. La protección frente a la insolvencia del organizador y del minorista beneficiará a los viajeros sin tener en cuenta su lugar de residencia, el lugar de salida, el lugar dónde se haya vendido el viaje combinado o el Estado miembro en que esté situada la entidad garante en caso de insolvencia.
+5. Cuando la ejecución del viaje combinado se vea afectada por la insolvencia del organizador o del minorista, la garantía se activará gratuitamente para las repatriaciones y, en caso necesario, para la financiación del alojamiento previo a la repatriación, sin implicar ningún adelanto de pago para el viajero.
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 165
+
+Artículo 165. Garantía de la responsabilidad contractual.
+Los organizadores y los minoristas de viajes combinados tendrán la obligación de constituir una garantía que responderá con carácter general del cumplimiento de las obligaciones derivadas de la prestación de sus servicios frente a los contratantes de un viaje combinado. En todo caso, los viajeros podrán reclamar esta garantía directamente al sistema de cobertura constituido.
+Se modifica por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 166
+
+Artículo 166. Reconocimiento mutuo de la protección frente a la insolvencia y cooperación administrativa.
+1. A los efectos de acreditar el cumplimiento de los requisitos exigidos por esta ley en cuanto a la protección frente a la insolvencia, las autoridades autonómicas competentes aceptarán toda protección constituida por un organizador y, en su caso, por un minorista, cuando proceda conforme a las medidas adoptadas por la normativa del Estado miembro de su establecimiento. Así mismo, las autoridades autonómicas competentes en esta materia aceptarán toda protección constituida por un organizador y, en su caso, por un minorista, cuando proceda conforme a las medidas adoptadas según la normativa de la comunidad autónoma de su establecimiento.
+2. El Ministerio de Industria, Comercio y Turismo actuará como punto de contacto central para facilitar la cooperación administrativa europea y nacional. Las autoridades autonómicas competentes en esta materia llevarán a cabo el control de los organizadores y, en su caso, de los minoristas que operen en sus correspondientes comunidades autónomas y notificarán sus datos a través del punto de contacto central a los demás Estados miembros y a la Comisión.
+3. El Ministerio de Industria, Comercio y Turismo facilitará recíprocamente a los puntos de contacto centrales de los otros Estados miembros toda la información necesaria sobre los requisitos del régimen nacional de protección frente a la insolvencia, así como la identidad de la entidad o entidades garantes que ofrezcan dicha protección a un determinado organizador o minorista establecido en territorio español. Las comunidades autónomas facilitarán al Ministerio de Industria, Comercio y Turismo, como punto de contacto central, toda la información necesaria sobre los requisitos del régimen de protección frente a la insolvencia, así como la identidad de la entidad o entidades garantes que ofrezcan dicha protección a un determinado organizador o minorista establecido en su territorio. En todo caso, remitirán una primera respuesta en un plazo máximo de quince días hábiles desde la recepción de la solicitud del punto de contacto central.
+4. Los puntos de contacto centrales de los otros Estados miembros podrán acceder libremente al listado de los organizadores y minoristas que cumplan sus obligaciones de protección frente a la insolvencia gestionado por el Ministerio de Industria, Comercio y Turismo. Este listado será de acceso público, incluido el acceso en línea.
+5. Cuando existan dudas sobre la protección frente a la insolvencia de un organizador o de un minorista que no esté establecido en España, el Ministerio de Industria, Comercio y Turismo deberá pedir aclaraciones al Estado miembro de establecimiento del empresario. Respecto a los empresarios establecidos en España, el Ministerio de Industria, Comercio y Turismo responderá a las solicitudes de otros Estados miembros lo antes posible, habida cuenta de la urgencia y la complejidad del asunto. En todo caso, se remitirá una primera respuesta antes de quince días hábiles desde la recepción de la solicitud.
+Se añade por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+ Téngase en cuenta, sobre medios para el funcionamiento del punto de contacto central, la disposición adicional 1 del citado Real Decreto-ley.
+
+## TÍTULO III
+
+Servicios de viaje vinculados
+Se añade por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 167
+
+Artículo 167. Requisitos de protección frente a la insolvencia.
+1. Los empresarios que faciliten servicios de viaje vinculados deberán constituir una garantía para el reembolso de todos los pagos que reciban de los viajeros en la medida en que uno de los servicios de viaje que estén incluidos no se ejecute a consecuencia de su insolvencia. Si dichos empresarios son la parte responsable del transporte de pasajeros la garantía cubrirá también la repatriación de los viajeros. La garantía podrá constituirse mediante la creación de un fondo de garantía, la contratación de un seguro, un aval u otra garantía financiera, en los términos que determine la Administración competente. La exigencia de esta garantía quedará sujeta en todo caso a lo establecido en la Ley 20/2013, de 9 de diciembre.
+Los empresarios no establecidos en un Estado miembro de la Unión Europea que faciliten servicios de viaje vinculados en España, o que por cualquier medio dirijan dichas actividades a España, estarán también obligados a prestar dicha garantía.
+2. La garantía que se constituya deberá cumplir con lo dispuesto en los artículos 164 y 166.
+3. La insolvencia se entenderá producida tan pronto como sea evidente que por la falta de liquidez de los empresarios los servicios de viaje dejen de ejecutarse, no vayan a ejecutarse o vayan a ejecutarse solo en parte, o cuando los prestadores de servicios requieran a los viajeros pagar por ellos. Producida la insolvencia, la garantía deberá estar disponible pudiendo el viajero acceder fácilmente a la protección garantizada. Los reembolsos correspondientes a servicios de viaje no ejecutados se efectuarán sin demora indebida previa solicitud del viajero.
+Se añade por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 168
+
+Artículo 168. Requisitos de información.
+1. Antes de que el viajero quede obligado por cualquier contrato que dé lugar a servicios de viaje vinculados o por cualquier oferta correspondiente, el empresario que facilite estos servicios, incluidos los casos en que el empresario no esté establecido en un Estado miembro pero por cualquier medio dirija tales actividades a España, indicará de forma clara, comprensible y destacada:
+a) que el viajero no podrá acogerse a ninguno de los derechos que se aplican exclusivamente a los viajes combinados conforme a lo previsto en esta ley y que cada prestador de servicios será el único responsable de la correcta prestación contractual de su servicio, y
+b) que el viajero gozará de la protección frente a la insolvencia contemplada en el artículo 167.
+A fin de cumplir con lo dispuesto en el presente apartado, el empresario que facilite unos servicios de viaje vinculados proporcionará al viajero dicha información mediante el formulario normalizado correspondiente que figura en el anexo III. Cuando el carácter especial de los servicios de viaje vinculados no esté contemplado por ninguno de los formularios que figuran en dicho anexo proporcionará la información contenida en el mismo.
+2. Si el empresario que facilite servicios de viaje vinculados no ha cumplido con los requisitos establecidos en el artículo 167 y en el apartado 1 de este artículo, se aplicarán los derechos y obligaciones establecidos en los artículos 157 y 160 y en el capítulo IV del título II de este libro en relación con los servicios de viaje que forman parte de los servicios de viaje vinculados.
+3. Cuando unos servicios de viaje vinculados sean el resultado de la celebración de un contrato entre un viajero y un empresario que no facilita dichos servicios, este último informará al empresario que los facilita de la celebración del correspondiente contrato.
+Se añade por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## TÍTULO IV
+
+De la prescripción de las reclamaciones y régimen sancionador
+Se añade por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 169
+
+Artículo 169. Prescripción de las reclamaciones.
+El plazo de prescripción para presentar reclamaciones con arreglo a este libro será de dos años.
+Se añade por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 170
+
+Artículo 170. Régimen sancionador.
+A lo dispuesto en este libro no le es de aplicación el régimen de infracciones y sanciones previsto en el libro primero, título IV, capítulo II, siéndole de aplicación el régimen de infracciones y sanciones previsto en la legislación específica sobre la materia dictada por las Administraciones públicas competentes en materia de turismo o por aquellas que en cada caso tengan atribuida la competencia por razón de la materia. Las sanciones que se establezcan deberán ser efectivas, proporcionadas y disuasorias.
+Se añade por el art. 4.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Disposición adicional única
+
+Disposición adicional única. Nulidad de determinadas cláusulas.
+1. Serán nulas aquellas cláusulas, estipulaciones, condiciones o pactos que excluyan a una de las partes por tener VIH/SIDA u otras condiciones de salud. Asimismo, será nula la renuncia a lo estipulado en esta disposición por la parte que tenga VIH/SIDA u otras condiciones de salud.
+2. Serán nulas aquellas cláusulas, estipulaciones, condiciones o pactos que excluyan a una de las partes por haber padecido cáncer antes de la fecha de suscripción del contrato o negocio jurídico, una vez que hayan transcurrido cinco años desde la finalización del tratamiento radical sin recaída posterior. Al efecto, de forma previa a la suscripción de un contrato de consumo, independientemente del sector, no se podrá solicitar a la persona consumidora información oncológica una vez que hayan transcurrido cinco años desde la finalización del tratamiento radical sin recaída posterior. Asimismo, será nula la renuncia a lo estipulado en esta disposición por la parte que haya padecido cáncer en los casos anteriores.
+3. El Gobierno, mediante real decreto, podrá modificar los plazos establecidos en la presente disposición, conjuntamente o para patologías oncológicas específicas, en función de la evolución de la evidencia científica.
+Se modifica por el art. 210 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-22
+ Se añade por el art. único.1 de la Ley 4/2018, de 11 de junio. Ref. BOE-A-2018-7832
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Garantía comercial.
+1. Lo dispuesto en esta norma respecto de la garantía comercial adicional no será de aplicación a los productos puestos en circulación antes del 11 de septiembre de 2003.
+2. No obstante lo previsto en el apartado anterior, en relación con los bienes de naturaleza duradera puestos en circulación antes de dicha fecha, el productor o, en su defecto, el vendedor deberá entregar al consumidor y usuario una garantía, formalizada por escrito, en la que, como mínimo, se asegure al titular de la garantía:
+a) La reparación totalmente gratuita de los vicios o defectos originarios y de los daños y perjuicios por ellos ocasionados.
+b) En los supuestos en que la reparación efectuada no fuera satisfactoria y el objeto no revistiese las condiciones óptimas para cumplir el uso a que estuviese destinado, el titular de la garantía tendrá derecho a la sustitución del objeto adquirido por otro de idénticas características o a la devolución del precio pagado.
+3. El documento de garantía al que se refiere el apartado anterior tendrá el siguiente contenido mínimo:
+a) El objeto sobre el que recaiga la garantía.
+b) El garante.
+c) El titular de la garantía.
+d) Los derechos del titular de la garantía.
+e) El plazo de duración de la garantía que, en ningún caso será inferior a 6 meses desde la fecha de entrega, salvo cuando la naturaleza del bien lo impidiera y sin perjuicio de las disposiciones legales o reglamentarias para bienes o servicios concretos.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Productos de naturaleza duradera.
+En tanto no se concreten por el Gobierno los productos de naturaleza duradera, se entenderá que tales productos son los enumerados en el anexo II del Real Decreto 1507/2000, de 1 de septiembre, por el que se actualizan los catálogos de productos y servicios de uso o consumo común, ordinario y generalizado y de bienes de naturaleza duradera, a efectos de lo dispuesto, respectivamente, en los artículos 2, apartado 2, y 11, apartados 2 y 5, de la Ley General para la Defensa de los Consumidores y Usuarios y normas concordantes.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Responsabilidad civil por los daños causados por productos defectuosos puestos en circulación con anterioridad al 8 de julio de 1994.
+Las normas del libro tercero, título II, capítulo I de esta norma no serán de aplicación a la responsabilidad civil derivada de los daños causados por productos puestos en circulación antes de 8 de julio de 1994.
+Esta responsabilidad se regirá por las reglas del capítulo II del citado título, con las siguientes reglas adicionales:
+1. Con carácter general, y sin perjuicio de lo que resulte más favorable al consumidor y usuario, en virtud de otras disposiciones o acuerdos convencionales, regirán los siguientes criterios en materia de responsabilidad:
+a) El productor, suministrador o proveedor de productos a los consumidores y usuarios, responde del origen, identidad e idoneidad de los mismos, de acuerdo con su naturaleza y finalidad y con las normas que los regulan.
+b) En el caso de productos a granel responde el tenedor de los mismos, sin perjuicio de que se pueda identificar y probar la responsabilidad del anterior tenedor, proveedor o suministrador.
+c) En el supuesto de productos envasados, etiquetados y cerrados con cierre íntegro, responde la firma o razón social que figure en su etiqueta, presentación o publicidad. Podrá eximirse de esa responsabilidad probando su falsificación o incorrecta manipulación por terceros, que serán los responsables.
+2. En todo caso será de aplicación el régimen de responsabilidad previsto en el artículo 148 a los productos alimenticios, los de higiene, limpieza, cosméticos, especialidades o productos farmacéuticos, gas, electricidad, vehículos de motor, juguetes y productos dirigidos a los niños.
+3. Si a la producción de daños concurrieren varias personas, responderán solidariamente ante los perjudicados. El que pagare al perjudicado tendrá derecho a repetir de los otros responsables, según su participación en la causación de los daños.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de cuantías.
+Se autoriza al Gobierno a modificar las cuantías establecidas esta norma. Las cuantías de los artículos 49 y 148 se modificarán teniendo en cuenta la variación de los índices de precios al consumo y las previstas en el artículo 141 para adaptarlas a las revisiones periódicas de la normativa comunitaria.
+Téngase en cuenta que esta última actualización, establecida por el art. 82.20 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+ Redacción anterior:
+ "Se autoriza al Gobierno a modificar las cuantías establecidas esta norma. Las cuantías de los artículos 51 y 148 se modificarán teniendo en cuenta la variación de los índices de precios al consumo y las previstas en el artículo 141 para adaptarlas a las revisiones periódicas de la normativa comunitaria."
+Se modifica por el art. 82.20 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo reglamentario.
+Se faculta al Gobierno para dictar, en materia de su competencia, las disposiciones precisas para la aplicación de esta norma. En particular, el Gobierno determinará los productos de naturaleza duradera.
+Téngase en cuenta que esta última actualización, establecida por el art. 82.21 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según determina su disposición final 10.c).
+ Redacción anterior:
+ "Se faculta al Gobierno para dictar, en materia de su competencia, las disposiciones precisas para la aplicación de esta norma. En particular, el Gobierno determinará los productos de naturaleza duradera a que se refiere el artículo 126."
+Se modifica por el art. 82.21 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Aplicabilidad del régimen reglamentario en materia de infracciones y sanciones.
+A efectos de lo establecido en el libro primero, título IV, capítulo II de esta norma será de aplicación el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, sin perjuicio de sus ulteriores modificaciones o adaptaciones por el Gobierno.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Ampliación a otras enfermedades.
+El Gobierno, en el plazo de un año, presentará un proyecto de ley en el que determinará la aplicación de los principios de esta ley a otras enfermedades respecto a las que pueda considerarse que se aplican los mismos efectos excluyentes en las relaciones jurídicas.
+Se añade por el art. único.2 de la Ley 4/2018, de 11 de junio. Ref. BOE-A-2018-7832
+
+## ANEXO
+
+Información sobre el ejercicio del derecho de desistimiento
+A. Modelo de documento de información al consumidor y usuario sobre el desistimiento
+Derecho de desistimiento:
+Tiene usted derecho a desistir del presente contrato en un plazo de 14 días naturales sin necesidad de justificación.
+El plazo de desistimiento expirará a los 14 días naturales del día (1).
+Para ejercer el derecho de desistimiento, deberá usted notificarnos (2) su decisión de desistir del contrato a través de una declaración inequívoca (por ejemplo, una carta enviada por correo postal, fax o correo electrónico). Podrá utilizar el modelo de formulario de desistimiento que figura a continuación, aunque su uso no es obligatorio (3).
+Para cumplir el plazo de desistimiento, basta con que la comunicación relativa al ejercicio por su parte de este derecho sea enviada antes de que venza el plazo correspondiente.
+Consecuencias del desistimiento:
+En caso de desistimiento por su parte, le devolveremos todos los pagos recibidos de usted, incluidos los gastos de entrega (con la excepción de los gastos adicionales resultantes de la elección por su parte de una modalidad de entrega diferente a la modalidad menos costosa de entrega ordinaria que ofrezcamos) sin ninguna demora indebida y, en todo caso, a más tardar 14 días naturales a partir de la fecha en la que se nos informe de su decisión de desistir del presente contrato. Procederemos a efectuar dicho reembolso utilizando el mismo medio de pago empleado por usted para la transacción inicial, a no ser que haya usted dispuesto expresamente lo contrario; en todo caso, no incurrirá en ningún gasto como consecuencia del reembolso (4).
+(5)
+(6)
+Instrucciones para su cumplimentación:
+(1) Insértese una de las expresiones que aparecen entre comillas a continuación:
+a) en caso de un contrato de servicios o de un contrato para el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, de calefacción mediante sistemas urbanos o de contenido digital que no se preste en un soporte material: "de la celebración del contrato";
+b) en caso de un contrato de venta: "que usted o un tercero por usted indicado, distinto del transportista, adquirió la posesión material de los bienes";
+c) en caso de un contrato de entrega de múltiples bienes encargados por el consumidor y usuario en el mismo pedido y entregados por separado: "que usted o un tercero por usted indicado, distinto del transportista, adquirió la posesión material del último de esos bienes";
+d) en caso de entrega de un bien compuesto por múltiples componentes o piezas: "que usted o un tercero por usted indicado, distinto del transportista, adquirió la posesión material del último componente o pieza";
+e) en caso de un contrato para la entrega periódica de bienes durante un plazo determinado: "que usted o un tercero por usted indicado, distinto del transportista, adquirió la posesión material del primero de esos bienes".
+(2) Insértese su nombre, su dirección completa y, si dispone de ellos, su número de teléfono, su número de fax y su dirección de correo electrónico.
+(3) Si usted ofrece al consumidor y usuario en su sitio web la opción de cumplimentar y enviar electrónicamente información relativa a su desistimiento del contrato, insértese el texto siguiente: "Tiene usted asimismo la opción de cumplimentar y enviar electrónicamente el modelo de formulario de desistimiento o cualquier otra declaración inequívoca a través de nuestro sitio web [insértese la dirección electrónica]. Si recurre a esa opción, le comunicaremos sin demora en un soporte duradero (por ejemplo, por correo electrónico) la recepción de dicho desistimiento".
+(4) En caso de un contrato de venta en el que usted no se haya ofrecido a recoger los bienes en caso de desistimiento, insértese la siguiente información: "Podremos retener el reembolso hasta haber recibido los bienes, o hasta que usted haya presentado una prueba de la devolución de los mismos, según qué condición se cumpla primero".
+(5) Si el consumidor y usuario ha recibido bienes objeto del contrato insértese el texto siguiente:
+(a) insértese:
+– "Recogeremos los bienes", o bien
+– "Deberá usted devolvernos o entregarnos directamente los bienes o a… (insértese el nombre y el domicilio, si procede, de la persona autorizada por usted a recibir los bienes), sin ninguna demora indebida y, en cualquier caso, a más tardar en el plazo de 14 días naturales a partir de la fecha en que nos comunique su decisión de desistimiento del contrato. Se considerará cumplido el plazo si efectúa la devolución de los bienes antes de que haya concluido dicho plazo";
+(b) insértese:
+– "Nos haremos cargo de los costes de devolución de los bienes";
+– "Deberá usted asumir el coste directo de devolución de los bienes";
+– En caso de que, en un contrato a distancia, usted no se ofrezca a hacerse cargo de los costes de devolución de los bienes y estos últimos, por su naturaleza, no puedan devolverse normalmente por correo: "Deberá usted asumir el coste directo de devolución de los bienes, … euros (insértese el importe)"; o, si no se puede realizar por adelantado un cálculo razonable del coste de devolución de los bienes: "Deberá usted asumir el coste directo de devolución de los bienes. Se calcula que dicho coste se eleva a aproximadamente … euros (insértese el importe) como máximo", o bien
+– En caso de que, en un contrato celebrado fuera del establecimiento, los bienes, por su naturaleza, no puedan devolverse normalmente por correo y se hayan entregado ya en el domicilio del consumidor y usuario en el momento de celebrarse el contrato: "Recogeremos a nuestro cargo los bienes";
+(c) "Solo será usted responsable de la disminución de valor de los bienes resultante de una manipulación distinta a la necesaria para establecer la naturaleza, las características y el funcionamiento de los bienes".
+(6) En caso de un contrato para la prestación de servicios o para el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, o calefacción mediante sistemas urbanos, insértese lo siguiente: "Si usted ha solicitado que la prestación de servicios o el suministro de agua/ gas/ electricidad/ calefacción mediante sistemas urbanos (suprímase lo que no proceda) dé comienzo durante el período de desistimiento, nos abonará un importe proporcional a la parte ya prestada del servicio en el momento en que nos haya comunicado su desistimiento, en relación con el objeto total del contrato".
+B. Modelo de formulario de desistimiento
+(sólo debe cumplimentar y enviar el presente formulario si desea desistir del contrato)
+– A la atención de (aquí se deberá insertar el nombre del empresario, su dirección completa y, si dispone de ellos, su número de fax y su dirección de correo electrónico):
+– Por la presente le comunico/comunicamos (*) que desisto de mi/desistimos de nuestro (*) contrato de venta del siguiente bien/prestación del siguiente servicio (*)
+– Pedido el/recibido el (*)
+– Nombre del consumidor y usuario o de los consumidores y usuarios
+– Domicilio del consumidor y usuario o de los consumidores y usuarios
+– Firma del consumidor y usuario o de los consumidores y usuarios (solo si el presente formulario se presenta en papel)
+– Fecha
+(*) Táchese lo que no proceda.
+Se añade por el art. único.30 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+## ANEXO I
+
+Información sobre el ejercicio del derecho de desistimiento
+A. Modelo de documento de información al consumidor y usuario sobre el desistimiento
+Derecho de desistimiento:
+Tiene usted derecho a desistir del presente contrato en un plazo de catorce/treinta (*) días naturales sin necesidad de justificación.
+El plazo de desistimiento expirará a los catorce/treinta (*) días naturales del día (1).
+Para ejercer el derecho de desistimiento, deberá usted notificarnos (2) su decisión de desistir del contrato a través de una declaración inequívoca (por ejemplo, una carta enviada por correo postal o correo electrónico). Podrá utilizar el modelo de formulario de desistimiento que figura a continuación, aunque su uso no es obligatorio (3).
+Para cumplir el plazo de desistimiento, basta con que la comunicación relativa al ejercicio por su parte de este derecho sea enviada antes de que venza el plazo correspondiente.
+Consecuencias del desistimiento:
+En caso de desistimiento por su parte, le devolveremos todos los pagos recibidos de usted, incluidos los gastos de entrega (con la excepción de los gastos adicionales resultantes de la elección por su parte de una modalidad de entrega diferente a la modalidad menos costosa de entrega ordinaria que ofrezcamos) sin ninguna demora indebida y, en todo caso, a más tardar 14 días naturales a partir de la fecha en la que se nos informe de su decisión de desistir del presente contrato. Procederemos a efectuar dicho reembolso utilizando el mismo medio de pago empleado por usted para la transacción inicial, a no ser que haya usted dispuesto expresamente lo contrario; en todo caso, no incurrirá en ningún gasto como consecuencia del reembolso (4).
+(5)
+(6)
+Instrucciones para su cumplimentación:
+(1) Insértese una de las expresiones que aparecen entre comillas a continuación:
+a) en caso de un contrato de servicios o de un contrato para el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, de calefacción mediante sistemas urbanos o de contenido digital que no se preste en un soporte material: "de la celebración del contrato";
+b) en caso de un contrato de venta: "que usted o un tercero por usted indicado, distinto del transportista, adquirió la posesión material de los bienes";
+c) en caso de un contrato de entrega de múltiples bienes encargados por el consumidor y usuario en el mismo pedido y entregados por separado: "que usted o un tercero por usted indicado, distinto del transportista, adquirió la posesión material del último de esos bienes";
+d) en caso de entrega de un bien compuesto por múltiples componentes o piezas: "que usted o un tercero por usted indicado, distinto del transportista, adquirió la posesión material del último componente o pieza";
+e) en caso de un contrato para la entrega periódica de bienes durante un plazo determinado: "que usted o un tercero por usted indicado, distinto del transportista, adquirió la posesión material del primero de esos bienes".
+(2) Insértese su nombre, su dirección completa, su número de teléfono y su dirección de correo electrónico.
+(3) Si usted ofrece al consumidor y usuario en su sitio web la opción de cumplimentar y enviar electrónicamente información relativa a su desistimiento del contrato, insértese el texto siguiente: "Tiene usted asimismo la opción de cumplimentar y enviar electrónicamente el modelo de formulario de desistimiento o cualquier otra declaración inequívoca a través de nuestro sitio web [insértese la dirección electrónica]. Si recurre a esa opción, le comunicaremos sin demora en un soporte duradero (por ejemplo, por correo electrónico) la recepción de dicho desistimiento".
+(4) En caso de un contrato de venta en el que usted no se haya ofrecido a recoger los bienes en caso de desistimiento, insértese la siguiente información: "Podremos retener el reembolso hasta haber recibido los bienes, o hasta que usted haya presentado una prueba de la devolución de los mismos, según qué condición se cumpla primero".
+(5) Si el consumidor y usuario ha recibido bienes objeto del contrato insértese el texto siguiente:
+(a) insértese:
+– "Recogeremos los bienes", o bien
+– "Deberá usted devolvernos o entregarnos directamente los bienes o a… (insértese el nombre y el domicilio, si procede, de la persona autorizada por usted a recibir los bienes), sin ninguna demora indebida y, en cualquier caso, a más tardar en el plazo de 14 días naturales a partir de la fecha en que nos comunique su decisión de desistimiento del contrato. Se considerará cumplido el plazo si efectúa la devolución de los bienes antes de que haya concluido dicho plazo";
+(b) insértese:
+– "Nos haremos cargo de los costes de devolución de los bienes";
+– "Deberá usted asumir el coste directo de devolución de los bienes";
+– En caso de que, en un contrato a distancia, usted no se ofrezca a hacerse cargo de los costes de devolución de los bienes y estos últimos, por su naturaleza, no puedan devolverse normalmente por correo: "Deberá usted asumir el coste directo de devolución de los bienes, … euros (insértese el importe)"; o, si no se puede realizar por adelantado un cálculo razonable del coste de devolución de los bienes: "Deberá usted asumir el coste directo de devolución de los bienes. Se calcula que dicho coste se eleva a aproximadamente … euros (insértese el importe) como máximo", o bien
+– En caso de que, en un contrato celebrado fuera del establecimiento, los bienes, por su naturaleza, no puedan devolverse normalmente por correo y se hayan entregado ya en el domicilio del consumidor y usuario en el momento de celebrarse el contrato: "Recogeremos a nuestro cargo los bienes";
+(c) "Solo será usted responsable de la disminución de valor de los bienes resultante de una manipulación distinta a la necesaria para establecer la naturaleza, las características y el funcionamiento de los bienes".
+(6) En caso de un contrato para la prestación de servicios o para el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, o calefacción mediante sistemas urbanos, insértese lo siguiente: "Si usted ha solicitado que la prestación de servicios o el suministro de agua/ gas/ electricidad/ calefacción mediante sistemas urbanos (suprímase lo que no proceda) dé comienzo durante el período de desistimiento, nos abonará un importe proporcional a la parte ya prestada del servicio en el momento en que nos haya comunicado su desistimiento, en relación con el objeto total del contrato".
+B. Modelo de formulario de desistimiento
+(sólo debe cumplimentar y enviar el presente formulario si desea desistir del contrato)
+– A la atención de (aquí se deberá insertar el nombre del empresario, su dirección completa y su dirección de correo electrónico):
+– Por la presente le comunico/comunicamos (*) que desisto de mi/desistimos de nuestro (*) contrato de venta del siguiente bien/prestación del siguiente servicio (*)
+– Pedido el/recibido el (*)
+– Nombre del consumidor y usuario o de los consumidores y usuarios
+– Domicilio del consumidor y usuario o de los consumidores y usuarios
+– Firma del consumidor y usuario o de los consumidores y usuarios (solo si el presente formulario se presenta en papel)
+– Fecha
+(*) Táchese lo que no proceda.
+Se modifica por la disposición final 1.8 de la Ley 23/2022, de 2 de noviembre de 2022. Ref. BOE-A-2022-18037#df
+ Se modifica por el art. 82.18 y 19 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+ Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se numera como anexo I por el art. 4.3 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+ Su anterior denominación era Anexo.
+
+## ANEXO II
+
+A. Formulario de información normalizada para contratos de viaje combinado en los que sea posible utilizar hiperenlaces
+La combinación de servicios de viaje que se le ofrece es un viaje combinado en el sentido del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre.
+Por lo tanto, usted gozará de todos los derechos que se aplican en el marco de la UE a los viajes combinados. La(s) empresa(s) XY será(n) plenamente responsable(s) de la correcta ejecución del viaje combinado en su conjunto.
+Además, como exige la legislación, la(s) empresa(s) XY está(n) cubierta(s) por una garantía para reembolsarle los pagos realizados y, si el transporte está incluido en el viaje, asegurar su repatriación en caso de que incurra(n) en insolvencia.
+Más información sobre sus principales derechos con arreglo al texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre (que se proporcionará mediante un hiperenlace).
+Siguiendo el hiperenlace, el viajero recibirá la siguiente información:
+Principales derechos en virtud del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre:
+– Los viajeros recibirán toda la información esencial sobre el viaje combinado antes de celebrar el contrato.
+– Siempre habrá como mínimo un empresario responsable de la correcta ejecución de todos los servicios de viaje incluidos en el contrato.
+– Se proporcionará a los viajeros un número de teléfono de emergencia o los datos de un punto de contacto donde puedan contactar con el organizador o el minorista.
+– Los viajeros podrán ceder el viaje combinado a otra persona, con un preaviso razonable y, en su caso, con sujeción al pago de gastos adicionales.
+– El precio del viaje combinado solo se podrá aumentar si se producen gastos específicos (por ejemplo, en los precios de combustible) y está expresamente estipulado en el contrato, y en ningún caso en los últimos veinte días anteriores al inicio del viaje combinado. Si el aumento de precio excede del ocho por ciento del precio del viaje combinado, el viajero podrá poner fin al contrato. Si el organizador se reserva el derecho de aumentar el precio, el viajero tendrá derecho a una reducción del precio si disminuyen los gastos correspondientes.
+– Los viajeros podrán poner fin al contrato sin pagar ninguna penalización y obtener el reembolso completo de todos los pagos realizados si se modifica significativamente alguno de los elementos esenciales del viaje combinado que no sea el precio. Si el empresario responsable del viaje combinado lo cancela antes de su inicio, los viajeros tendrán derecho al reembolso de los pagos realizados y, cuando proceda, a una compensación.
+– En circunstancias excepcionales, por ejemplo en caso de que en el lugar de destino existan graves problemas de seguridad que puedan afectar al viaje combinado, los viajeros podrán poner fin al contrato antes del inicio del viaje combinado sin pagar ninguna penalización.
+– Además, los viajeros podrán poner fin al contrato en cualquier momento antes del inicio del viaje combinado mediante el pago de una penalización por terminación, que sea adecuada y justificable.
+– Si, después del inicio del viaje combinado, no pueden prestarse elementos significativos de este, deberán ofrecerse al viajero fórmulas alternativas adecuadas, sin coste adicional. Los viajeros podrán poner fin al contrato sin pagar ninguna penalización en caso de no ejecución de los servicios cuando ello afecte sustancialmente a la ejecución del viaje combinado y el organizador o, en su caso, el minorista no consigan solucionar el problema.
+– Los viajeros también tendrán derecho a una reducción del precio y/o a una indemnización por daños y perjuicios en caso de no ejecución o ejecución incorrecta de los servicios de viaje.
+– El organizador y el minorista deberán proporcionar asistencia al viajero en caso de que este se encuentre en dificultades.
+– Si el organizador o el minorista incurren en insolvencia se procederá al reembolso de los pagos. En caso de que el organizador o, en su caso, el minorista incurran en insolvencia después del inicio del viaje combinado y este incluya el transporte, se garantizará la repatriación de los viajeros. XY ha suscrito una garantía de protección frente a la insolvencia con YZ [la entidad garante en caso de insolvencia -por ejemplo, un fondo de garantía o una compañía de seguros-]. Si se deniegan servicios debido a la insolvencia de XY, los viajeros podrán ponerse en contacto con dicha entidad o, en su caso, con la autoridad competente (datos de contacto, entre otros, nombre, dirección completa, correo electrónico y número de teléfono).
+Texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre (hiperenlace).
+B. Formulario de información normalizada para contratos de viaje combinado en supuestos distintos de los contemplados en la parte A
+La combinación de servicios de viaje que se le ofrece es un viaje combinado en el sentido del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre.
+Por lo tanto, usted gozará de todos los derechos que se aplican en el marco de la Unión Europea a los viajes combinados. La(s) empresa(s) XY será(n) plenamente responsable(s) de la correcta ejecución del viaje combinado en su conjunto.
+Además, como exige la legislación, la(s) empresa(s) XY está(n) cubierta(s) por una garantía para reembolsarle los pagos realizados y, si el transporte está incluido en el viaje, asegurar su repatriación en caso de que incurra(n) en insolvencia.
+Principales derechos en virtud del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre:
+– Los viajeros recibirán toda la información esencial sobre el viaje combinado antes de celebrar el contrato de viaje combinado.
+– Siempre habrá como mínimo un empresario responsable de la correcta ejecución de todos los servicios de viaje incluidos en el contrato.
+– Se proporcionará a los viajeros un número de teléfono de emergencia o los datos de un punto de contacto donde puedan contactar con el organizador y, en su caso, con el minorista.
+– Los viajeros podrán ceder el viaje combinado a otra persona, con un preaviso razonable y, en su caso, con sujeción al pago de gastos adicionales.
+– El precio del viaje combinado solo se podrá aumentar si se producen gastos específicos (por ejemplo, en los precios de combustible) y está expresamente estipulado en el contrato, y en ningún caso en los últimos veinte días anteriores al inicio del viaje combinado. Si el aumento de precio excede del ocho por ciento del precio del viaje combinado, el viajero podrá poner fin al contrato. Si el organizador se reserva el derecho de aumentar el precio, el viajero tendrá derecho a una reducción del precio si disminuyen los gastos correspondientes.
+– Los viajeros podrán poner fin al contrato sin pagar ninguna penalización y obtener el reembolso completo de todos los pagos realizados si se modifica significativamente alguno de los elementos esenciales del viaje combinado que no sea el precio. Si el empresario responsable del viaje combinado lo cancela antes de su inicio, los viajeros tendrán derecho al reembolso de los pagos realizados y, cuando proceda, a una compensación.
+– En circunstancias excepcionales, por ejemplo en caso de que en el lugar de destino existan graves problemas de seguridad que puedan afectar al viaje combinado, los viajeros podrán poner fin al contrato antes del inicio del viaje combinado, sin pagar ninguna penalización.
+– Además, los viajeros podrán poner fin al contrato en cualquier momento antes del inicio del viaje combinado mediante el pago de una penalización por terminación que sea adecuada y justificable.
+– Si, después del inicio del viaje combinado, no pueden prestarse elementos significativos del mismo, deberán ofrecerse al viajero fórmulas alternativas adecuadas, sin coste adicional. Los viajeros podrán poner fin al contrato sin pagar ninguna penalización en caso de no ejecución de los servicios cuando ello afecte sustancialmente a la ejecución del viaje combinado y el organizador y, en su caso, el minorista no consigan solucionar el problema.
+– Los viajeros también tendrán derecho a una reducción del precio y/o a una indemnización por daños y perjuicios en caso de no ejecución o ejecución incorrecta de los servicios de viaje.
+– El organizador y el minorista deberán proporcionar asistencia al viajero en caso de que este se encuentre en dificultades.
+– Si el organizador o el minorista incurren en insolvencia se procederá al reembolso de los pagos. En caso de que el organizador o, en su caso, el minorista incurran en insolvencia después del inicio del viaje combinado y este incluya el transporte, se garantizará la repatriación de los viajeros. XY ha suscrito una garantía de protección frente a la insolvencia con YZ [la entidad garante en caso de insolvencia -por ejemplo, un fondo de garantía o una compañía de seguros-]. Si se deniegan servicios debido a la insolvencia de XY, los viajeros podrán ponerse en contacto con dicha entidad o, en su caso, con la autoridad competente (datos de contacto, entre otros, nombre, dirección completa, correo electrónico y número de teléfono).
+Texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre (hiperenlace).
+C. Formulario de información normalizada en caso de transmisión de datos por parte de un organizador a otro empresario de conformidad con el artículo 151.1.b).2.º v)
+Si usted celebra un contrato con la empresa AB antes de que se cumplan veinticuatro horas de la recepción de la confirmación de la reserva enviada por la empresa XY, el servicio de viaje ofrecido por XY y AB constituirá un viaje combinado en el sentido del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre
+Por lo tanto, usted gozará de todos los derechos que se aplican en el marco de la UE a los viajes combinados. La empresa XY será plenamente responsable de la correcta ejecución del viaje combinado en su conjunto.
+Además, como exige la legislación, la empresa XY está cubierta por una garantía para reembolsarle los pagos realizados y, si el transporte está incluido en el viaje, asegurar su repatriación en caso de que incurra en insolvencia.
+Más información sobre derechos principales con arreglo al texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre (que se proporcionará mediante un hiperenlace).
+Siguiendo el hiperenlace el viajero recibirá la siguiente información:
+Principales derechos en virtud del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre:
+– Los viajeros recibirán toda la información esencial sobre los servicios de viaje antes de celebrar el contrato de viaje combinado.
+– Siempre habrá como mínimo un empresario responsable de la correcta ejecución de todos los servicios de viaje incluidos en el contrato.
+– Se proporcionará a los viajeros un número de teléfono de emergencia o los datos de un punto de contacto donde puedan contactar con el organizador y, en su caso, con el minorista.
+– Los viajeros podrán ceder el viaje combinado a otra persona, con un preaviso razonable y, en su caso, con sujeción al pago de gastos adicionales.
+– El precio del viaje combinado solo se podrá aumentar si se producen gastos específicos (por ejemplo, en los precios de combustible) y está expresamente estipulado en el contrato, y en ningún caso en los últimos veinte días anteriores al inicio del viaje combinado. Si el aumento de precio excede del ocho por ciento del precio del viaje combinado, el viajero podrá poner fin al contrato. Si el organizador se reserva el derecho de aumentar el precio, el viajero tendrá derecho a una reducción del precio si disminuyen los gastos correspondientes.
+– Los viajeros podrán poner fin al contrato sin pagar ninguna penalización y obtener el reembolso completo de todos los pagos realizados si se modifica significativamente alguno de los elementos esenciales del viaje combinado que no sea el precio. Si el empresario responsable del viaje combinado lo cancela antes de su inicio, los viajeros tendrán derecho al reembolso de los pagos realizados y, cuando proceda, a una compensación.
+– En circunstancias excepcionales, por ejemplo en caso de que en el lugar de destino existan graves problemas de seguridad que puedan afectar al viaje combinado, los viajeros podrán poner fin al contrato antes del inicio del viaje combinado sin pagar ninguna penalización.
+– Además, los viajeros podrán poner fin al contrato en cualquier momento antes del inicio del viaje combinado mediante el pago de una penalización por terminación que sea adecuada y justificable.
+– Si, después del inicio del viaje combinado, no pueden prestarse elementos significativos del mismo, deberán ofrecerse al viajero fórmulas alternativas adecuadas, sin coste adicional. Los viajeros podrán poner fin al contrato sin pagar ninguna penalización en caso de no ejecución de los servicios cuando ello afecte sustancialmente a la ejecución del viaje combinado y el organizador y, en su caso, el minorista no consigan solucionar el problema.
+– Los viajeros también tendrán derecho a una reducción del precio y/o indemnización por daños y perjuicios en caso de no ejecución o ejecución incorrecta de los servicios de viaje.
+– El organizador y el minorista deberán proporcionar asistencia al viajero en caso de que este se encuentre en dificultades.
+– Si el organizador o el minorista incurren en insolvencia se procederá al reembolso de los pagos. En caso de que el organizador o, en su caso, el minorista incurran en insolvencia después del inicio del viaje combinado y este incluya el transporte, se garantizará la repatriación de los viajeros. XY ha suscrito una garantía de protección frente a la insolvencia con YZ [la entidad garante en caso de insolvencia -por ejemplo, un fondo de garantía o una compañía de seguros-]. Si se deniegan servicios debido a la insolvencia de XY, los viajeros podrán ponerse en contacto con dicha entidad o, en su caso, con la autoridad competente (datos de contacto, entre otros, nombre, dirección completa, correo electrónico y número de teléfono).
+Texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre (hiperenlace).
+Se añade por el art. 4.3 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## ANEXO III
+
+A. Formulario de información normalizada en caso de que el empresario que facilita servicios de viaje vinculados en línea en el sentido del artículo 151.1.e).1.º sea un transportista que vende un billete de ida y vuelta
+Si, después de haber seleccionado y pagado un servicio de viaje, usted reserva servicios de viaje adicionales para su viaje o vacación a través de nuestra empresa, XY, NO gozará de los derechos que se aplican a los viajes combinados en virtud del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre.
+Por lo tanto, nuestra empresa, XY, no será responsable de la correcta ejecución de dichos servicios de viaje adicionales. En caso de problemas, sírvase ponerse en contacto con el prestador de servicios correspondiente.
+No obstante, si usted reserva servicios de viaje adicionales durante la misma visita del sitio web de reservas de nuestra empresa, XY, estos servicios formarán parte de unos servicios de viaje vinculados. En este caso, tal y como exige el Derecho de la Unión Europea, la empresa XY ha suscrito una garantía de protección para reembolsarle los pagos abonados a XY en concepto de servicios que no se hayan ejecutado por insolvencia de XY y, en caso necesario, para su repatriación. Tenga en cuenta que no se procederá al reembolso en caso de insolvencia del prestador de servicios correspondiente.
+Más información sobre protección frente a la insolvencia (que se proporcionará mediante un hiperenlace).
+Siguiendo el hiperenlace el viajero recibirá la siguiente información:
+XY ha suscrito una garantía de protección frente a la insolvencia con YZ [la entidad garante en caso de insolvencia -por ejemplo, un fondo de garantía o una compañía de seguros-].
+Si se deniegan servicios debido a la insolvencia de XY, los viajeros podrán ponerse en contacto con dicha entidad o, en su caso, con la autoridad competente (datos de contacto, entre otros, nombre, dirección completa, correo electrónico y número de teléfono).
+Nota: La protección frente a la insolvencia no incluye contratos con partes distintas de XY que puedan ejecutarse pese a la insolvencia de XY.
+Texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre (hiperenlace).
+B. Formulario de información normalizada en caso de que el empresario que facilita servicios de viaje vinculados en línea en el sentido del artículo 151.1.e).1.º sea un empresario distinto del transportista que vende el billete de ida y vuelta
+Si, después de haber seleccionado y pagado un servicio de viaje, usted reserva servicios de viaje adicionales para su viaje o vacación a través de nuestra empresa, XY, NO gozará de los derechos que se aplican a los viajes combinados en virtud del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre.
+Por lo tanto, nuestra empresa, XY, no será responsable de la correcta ejecución de los distintos servicios de viaje. En caso de problemas, sírvase ponerse en contacto con el prestador de servicios correspondiente.
+No obstante, si usted reserva servicios de viaje adicionales durante la misma visita del sitio web de reservas de nuestra empresa, XY, estos servicios formarán parte de unos servicios de viaje vinculados. En este caso, tal y como exige la normativa, la empresa XY ha suscrito una garantía de protección para reembolsarle los pagos abonados a XY en concepto de servicios que no se hayan ejecutado por insolvencia de XY. Tenga en cuenta que no se procederá al reembolso en caso de insolvencia del prestador de servicios correspondiente.
+Más información sobre protección frente a la insolvencia (que se proporcionará mediante un hiperenlace).
+Siguiendo el hiperenlace el viajero recibirá la siguiente información:
+XY ha suscrito una garantía de protección frente a la insolvencia con YZ [la entidad garante en caso de insolvencia -por ejemplo, un fondo de garantía o una compañía de seguros-].
+Si se deniegan servicios debido a la insolvencia de XY, los viajeros podrán ponerse en contacto con dicha entidad o, en su caso, con la autoridad competente (datos de contacto, entre otros, nombre, dirección completa, correo electrónico y número de teléfono).
+Nota: La protección frente a la insolvencia no incluye contratos con partes distintas de XY que puedan ejecutarse pese a la insolvencia de XY.
+Texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre (hiperenlace).
+C. Formulario de información normalizada en caso de servicios de viaje vinculados en el sentido del artículo 151.1.e).1º, en los que los contratos se celebren en presencia física simultánea del empresario (distinto del transportista que vende un billete de ida y vuelta) y del viajero
+Si, después de haber seleccionado y pagado un servicio de viaje, usted reserva servicios de viaje adicionales para su viaje o vacación a través de nuestra empresa, XY, NO gozará de los derechos que se aplican a los viajes combinados en virtud del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre.
+Por lo tanto, nuestra empresa, XY, no será responsable de la correcta ejecución de los distintos servicios de viaje. En caso de problemas, sírvase ponerse en contacto con el prestador de servicios correspondiente.
+Sin embargo, si usted reserva servicios de viaje adicionales durante la misma visita o contacto con nuestra empresa, XY, estos servicios formarán parte de unos servicios de viaje vinculados. En este caso, tal y como exige la normativa, la empresa XY ha suscrito una garantía de protección para reembolsarle los pagos abonados a XY en concepto de servicios que no se hayan ejecutado por insolvencia de XY. Tenga en cuenta que no se procederá al reembolso en caso de insolvencia del prestador de servicios correspondiente.
+Más información sobre protección frente a la insolvencia (que se proporcionará mediante un hiperenlace).
+Siguiendo el hiperenlace el viajero recibirá la siguiente información:
+XY ha suscrito una garantía de protección frente a la insolvencia con YZ [la entidad garante en caso de insolvencia -por ejemplo, un fondo de garantía o una compañía de seguros-]
+Si se deniegan servicios debido a la insolvencia de XY, los viajeros podrán ponerse en contacto con dicha entidad o, en su caso, con la autoridad competente (datos de contacto, entre otros, nombre, dirección completa, correo electrónico y número de teléfono).
+Nota: La protección frente a la insolvencia no incluye contratos con partes distintas de XY que puedan ejecutarse pese a la insolvencia de XY.
+Texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado mediante Real Decreto Legislativo 1/2007, de 16 de noviembre (hiperenlace).
+D. Formulario de información normalizada en caso de que el empresario que facilita servicios de viaje vinculados en línea en el sentido del artículo 151.1.e).2º, sea un transportista que vende un billete de ida y vuelta
+Si usted reserva unos servicios de viaje adicionales para su viaje o vacación mediante este(os) enlace(s), NO gozará de los derechos que se aplican a los viajes combinados en virtud del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre.
+Por lo tanto, nuestra empresa, XY, no será responsable de la correcta ejecución de dichos servicios de viaje adicionales. En caso de problemas, sírvase ponerse en contacto con el prestador de servicios correspondiente.
+Sin embargo, si usted reserva servicios de viaje adicionales mediante este(os) enlace(s) antes de veinticuatro horas desde la recepción de la confirmación de la reserva por parte de nuestra empresa, XY, estos servicios formarán parte de unos servicios de viaje vinculados. En este caso, tal y como exige la normativa, la empresa XY ha suscrito una garantía de protección para reembolsarle los pagos abonados a XY en concepto de servicios que no se hayan ejecutado por insolvencia de XY y, en caso necesario, a efectos de repatriación. Tenga en cuenta que no se procederá al reembolso en caso de insolvencia del prestador de servicios correspondiente.
+Más información sobre protección frente a la insolvencia (que se proporcionará mediante un hiperenlace)
+Siguiendo el hiperenlace el viajero recibirá la siguiente información:
+XY ha suscrito una garantía de protección frente a la insolvencia con YZ [la entidad garante en caso de insolvencia -por ejemplo, un fondo de garantía o una compañía de seguros-].
+Si se deniegan servicios debido a la insolvencia de XY, los viajeros podrán ponerse en contacto con dicha entidad o, en su caso, con la autoridad competente (datos de contacto, entre otros, nombre, dirección completa, correo electrónico y número de teléfono).
+Nota: La protección frente a la insolvencia no incluye contratos con partes distintas de XY que pueden ejecutarse pese a la insolvencia de XY.
+Texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre (hiperenlace).
+E. Formulario de información normalizada en caso de que el empresario que facilita unos servicios de viaje vinculados en línea en el sentido del artículo 151.1.e).2º, sea un empresario distinto del transportista que vende el billete de ida y vuelta
+Si usted reserva servicios de viaje adicionales para su viaje o vacación mediante este(os) enlace(es), NO gozará de los derechos que se aplican a los viajes combinados en virtud del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre.
+Por lo tanto, nuestra empresa, XY, no será responsable de la correcta ejecución de los servicios de viaje adicionales. En caso de problemas, sírvase ponerse en contacto con el prestador de servicios correspondiente.
+Sin embargo, si usted reserva servicios de viaje adicionales mediante este(os) enlace(s) antes de veinticuatro horas desde la confirmación de la reserva por parte de nuestra empresa, XY, estos servicios formarán parte de unos servicios de viaje vinculados. En este caso, tal y como exige la normativa, la empresa XY ha suscrito una garantía de protección para reembolsarle los pagos abonados a XY en concepto de servicios que no se hayan ejecutado por insolvencia de XY. Tenga en cuenta que no se procederá al reembolso en caso de insolvencia del prestador de servicios correspondiente.
+Más información sobre protección frente a la insolvencia [que se proporcionará mediante un hiperenlace]
+Siguiendo el hiperenlace el viajero recibirá la siguiente información:
+XY ha suscrito una garantía de protección frente a la insolvencia con YZ [la entidad garante en caso de insolvencia -por ejemplo, un fondo de garantía o una compañía de seguros-].
+Si se deniegan servicios debido a la insolvencia de XY, los viajeros podrán ponerse en contacto con dicha entidad o, en su caso, con la autoridad competente (datos de contacto, entre otros, nombre, dirección completa, correo electrónico y número de teléfono).
+Nota: La protección frente a la insolvencia no incluye contratos con partes distintas de XY que puedan ejecutarse pese a la insolvencia de XY.
+Texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre (hiperenlace).
+Se añade por el art. 4.3 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769

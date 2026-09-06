@@ -1,0 +1,106 @@
+# Ley 4/1981, de 18 de marzo, sobre Designación de Senadores representantes de Euskadi.
+
+- Identificador BOE: `BOE-A-2012-5924`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-5924
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Se hace saber a todos los ciudadanos de Euskadi que el Parlamento ha aprobado la siguiente Ley 4/1981, de 18 de marzo, sobre «Designación de Senadores representantes de Euskadi».
+PREÁMBULO
+El artículo 69.5 de la Constitución de 25 de diciembre de 1978 determina que las Comunidades Autónomas designarán sus representantes específicos en la Cámara del Senado de las Cortes Generales del Estado, correspondiendo la designación a las Asambleas Legislativas de las respectivas Comunidades Autónomas.
+El Estatuto de Autonomía para el País Vasco en su artículo 28 apartado a), ratifica la competencia del Parlamento Vasco en orden a la designación de los Senadores que han de representarlo, mediante el procedimiento que al efecto se señale en una Ley del propio Parlamento Vasco.
+La presente Ley establece el procedimiento de designación de los Senadores representantes del País Vasco para el Senado de las Cortes Generales.
+
+### Artículo 1
+
+Artículo 1.
+La designación de los Senadores en representación del País Vasco y a los que se refiere el artículo 28, apartado a) del Estatuto de Autonomía, de 18 de diciembre de 1979, se efectuará por el Pleno del Parlamento Vasco, mediante el procedimiento que establece la presente Ley.
+
+### Artículo 2
+
+Artículo 2.
+1. Podrán ser elegidos como Senadores representantes de la Comunidad Autónoma los candidatos propuestos que, siendo mayores de edad, disfruten de la plenitud de sus derechos políticos y ostenten la condición política de vascos.
+2. Sin embargo, no tendrán el carácter de elegibles:
+a) Los componentes del Tribunal Constitucional.
+b) Los altos cargos de la Administración del Estado que determine la ley, con excepción de los miembros del Gobierno del Estado.
+c) El Defensor del Pueblo.
+d) Los Magistrados, Jueces y Fiscales, en activo.
+e) Los militares profesionales y los miembros de las fuerzas y cuerpos de seguridad y policía, en activo.
+f) Los miembros de las Juntas Electorales.
+3. Serán causas de incompatibilidad las señaladas en las leyes electorales generales y las específicas que determinen las leyes del Parlamento Vasco.
+Se declara en el recurso 208/1981 la desestimación y se corrigen errores según establece la Sentencia del TC de 18 de diciembre de 1981. Ref. BOE-T-1982-963.
+ Se declara la suspensión de la vigencia y aplicación de este precepto desde el 15 de julio de 1981 para las partes en el proceso y desde el 23 de julio de 1981 para los terceros, por providencia del TC de 17 de julio de 1981, que admite a trámite el recurso de inconstitucionalidad 208/1981. Ref. BOE-A-1981-16531.
+
+### Artículo 3
+
+Artículo 3.
+Celebradas las elecciones para el Parlamento Vasco y constituida la Mesa definitiva, su Presidente abrirá un plazo de veinte días naturales a fin de que los Grupos Parlamentarios puedan proponer candidatos a Senadores.
+
+### Artículo 4
+
+Artículo 4.
+Transcurrido el plazo a que se refiere el artículo anterior, la Mesa del Parlamento dará traslado a la Comisión de Incompatibilidades de las listas de candidatos y documentación recibida de los Grupos Parlamentarios proponentes.
+La Comisión Parlamentaria citada examinará, en sesión expresamente convocada, la concurrencia o no de los requisitos de capacidad y elegibilidad en los candidatos propuestos. A tal efecto, la Comisión podrá recabar de los Grupos proponentes la aportación de los documentos complementarios que estime oportunos y, en su caso, la formalización de las declaraciones pertinentes.
+En el plazo reglamentariamente establecido, la Comisión emitirá el oportuno dictamen, en el que se consignará si concurren o no en los candidatos las condiciones de capacidad, elegibilidad e incompatibilidad a las que se refiere el artículo 2º. de esta Ley.
+En el supuesto de que en alguno o algunos de los candidatos concurriese alguna causa de incompatibilidad, la Comisión determinará el plazo dentro del cual el candidato afectado, si fuera elegido, deberá optar entre el cargo de Senador y el que diere origen a la incompatibilidad denunciada.
+
+### Artículo 5
+
+Artículo 5.
+Emitido el dictamen por la Comisión de Incompatibilidades, se procederá a la elección de los Senadores, por el Pleno del Parlamento Vasco convocado al efecto, con referencia a los candidatos propuestos y admitidos por la Comisión.
+La votación se efectuará por papeletas en las que se consignará únicamente el nombre de un candidato.
+Antes de cada votación, cada Grupo Parlamentario designará cuál es el candidato que somete a la elección, de los incluidos en las listas propuestas y que hubiesen sido admitidos por la Comisión.
+Resultarán elegidos aquellos candidatos que obtuvieren la mayoría de los votos emitidos, siempre y cuando el candidato nominado alcanzara, al menos, la cuarta parte de los votos de los miembros de derecho de la Cámara.
+Si después de la primera votación quedasen Senadores por designar, se procederá a una segunda votación, resultando elegidos los candidatos que obtuviesen el mayor número de los votos válidamente emitidos.
+Para la segunda votación prevista en el párrafo anterior, se procederá por los Grupos Parlamentarios proponentes a una nueva designación de candidatos de entre los admitidos por la Comisión de Incompatibilidades.
+En caso de empate, resultará elegido el candidato que fuera apoyado por el Grupo Parlamentario que detentase el mayor número de escaños en el Parlamento. En el supuesto de igualdad de escaños entre los Grupos proponentes, resultará elegido el candidato designado por el Grupo que hubiese obtenido mayor número de votos en las últimas elecciones al Parlamento Vasco.
+Se declara en el recurso 208/1981, la desestimación por Sentencia del TC de 18 de diciembre de 1981. Ref. BOE-T-1982-963.
+ Se declara la suspensión de la vigencia y aplicación de los párrafos 2 a 6 desde el 15 de julio de 1981 para las partes en el proceso y desde el 23 de julio de 1981 para los terceros, por providencia del TC de 17 de julio de 1981, que admite a trámite el recurso de inconstitucionalidad 208/1981. Ref. BOE-A-1981-16531.
+
+### Artículo 6
+
+Artículo 6.
+El mandato de los Senadores representantes del Parlamento Vasco tendrá una duración de cuatro años.
+Los Senadores designados cesarán en los supuestos previstos en el Ordenamiento Jurídico y, en todo caso, al finalizar la legislatura del Parlamento Vasco en que fueron nombrados, una vez que, en la siguiente, sean designados los nuevos Senadores.
+En el supuesto de que la legislatura del Senado concluyese por cualquiera de las causas establecidas por la Ley, los nuevos Senadores a designar por el Parlamento Vasco deberán ser los mismos que hubieren sido elegidos por éste y continuarán en su mandato hasta su sustitución, una vez finalizada la legislatura del Parlamento Vasco.
+Se modifica por el art. único de la Ley 1/1986, de 19 de febrero. Ref. BOE-A-2012-4372.
+ Se declara en el recurso 208/1981, la desestimación por Sentencia del TC de 18 de diciembre de 1981. Ref. BOE-T-1982-963.
+ Se declara la suspensión de la vigencia y aplicación de los párrafos 1 y 3 y del inciso destacado desde el 15 de julio de 1981 para las partes en el proceso y desde el 23 de julio de 1981 para los terceros, por providencia del TC de 17 de julio de 1981, que admite a trámite el recurso de inconstitucionalidad 208/1981. Ref. BOE-A-1981-16531.
+
+### Artículo 7
+
+Artículo 7.
+En ningún caso podrán ser elegidos la totalidad de los Senadores representantes del País Vasco a propuesta de un sólo Grupo Parlamentario representado en la Cámara.
+Se declara en el recurso 208/1981, la desestimación por Sentencia del TC de 18 de diciembre de 1981. Ref. BOE-T-1982-963.
+ Se declara la suspensión de la vigencia y aplicación de este precepto desde el 15 de julio de 1981 para las partes en el proceso y desde el 23 de julio de 1981 para los terceros, por providencia del TC de 17 de julio de 1981, que admite a trámite el recurso de inconstitucionalidad 208/1981. Ref. BOE-A-1981-16531.
+
+### Artículo 8
+
+Artículo 8.
+Efectuada la elección de los Senadores, el Presidente del Parlamento dará cuenta a la Cámara de su resultado.
+Durante la celebración del mismo Pleno, o en el inmediatamente posterior, el Parlamento recibirá a los Senadores electos, comunicándoles su designación. Requeridos por la Presidencia para que acepten la designación y obtenido su asentimiento, serán proclamados Senadores en representación del País Vasco.
+La Mesa de la Cámara hará entrega a los proclamados electos de las pertinentes credenciales.
+
+### Artículo 9
+
+Artículo 9.
+Las vacantes de Senadores que se produjeren durante una misma legislatura, serán cubiertas con arreglo al procedimiento establecido en esta Ley, con la limitación que se contiene en el artículo 7.º
+Producida la vacante y en el plazo de quince días, las Mesa del Parlamento ordenará la pertinente publicación en el Boletín Oficial de la Cámara, en orden a la iniciación del trámite al que se refiere el artículo 3.º de esta Ley para la designación del nuevo Senador.
+
+### Disposición transitoria
+
+Disposición transitoria.
+En el término de los veinte días siguientes a la entrada en vigor de la presente Ley, el Presidente del Parlamento ordenará, mediante la oportuna publicación en el Boletín Oficial de la Cámara, la iniciación del trámite al que se refiere el artículo 3.º, y los candidatos que resultaren electos ostentarán su mandato en el Senado durante el tiempo de vigencia de la actual legislatura.
+Se declara en el recurso 208/1981, la desestimación por Sentencia del TC de 18 de diciembre de 1981. Ref. BOE-T-1982-963.
+ Se declara la suspensión de la vigencia y aplicación del inciso destacado desde el 15 de julio de 1981 para las partes en el proceso y desde el 23 de julio de 1981 para los terceros, por providencia del TC de 17 de julio de 1981, que admite a trámite el recurso de inconstitucionalidad 208/1981. Ref. BOE-A-1981-16531.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el mismo día de su publicación en el «Boletín Oficial del País Vasco».
+
+Por tanto, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades que la guarden y hagan guardarla.
+Vitoria-Gasteiz, 18 de marzo de 1981.–El Presidente, Carlos Garaikoetxea.

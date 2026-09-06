@@ -1,0 +1,580 @@
+# Ley Orgánica 8/2007, de 4 de julio, sobre financiación de los partidos políticos.
+
+- Identificador BOE: `BOE-A-2007-13022`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-13022
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica.
+Exposición de motivos
+La aprobación en el Congreso de los Diputados de la Ley Orgánica 3/87 sobre Financiación de Partidos Políticos constituyó la primera regulación de la fuente de ingresos de una de las instituciones básicas sobre la que se sustenta nuestro sistema democrático. Los partidos políticos son asociaciones privadas que cumplen una función pública trascendental en nuestro sistema democrático al ser instrumentos de representación política y de formación de la voluntad popular.
+Sin embargo se estima que la regulación que hace la ley actualmente vigente de un aspecto tan importante como es su financiación, factor esencial para garantizar la estabilidad del sistema democrático, no garantiza de manera adecuada la suficiencia, regularidad y transparencia de su actividad económica.
+Durante el transcurso de veinte años desde que se aprobó esta ley, la sociedad ha experimentado muchos cambios políticos y económicos como la rápida incorporación de las nuevas tecnologías, la incorporación del Estado español a la Unión Económica y Monetaria y la misma consolidación del sistema democrático que en el momento de la aprobación de la actual ley de financiación sólo tenía diez años. Junto a estos cambios cabe añadir la aparición ante la opinión pública de posibles irregularidades vinculadas en algunos casos a la financiación de los partidos políticos.
+Actualmente, hay un amplio sentir entre la sociedad y la opinión pública ciudadana que también se extiende a los partidos políticos sobre la necesidad de abordar una nueva regulación de la financiación de los partidos políticos que dote de mayor transparencia y control.
+En esta nueva regulación se pretende que se asuma definitivamente que el ejercicio de la soberanía popular exige que el control político de las instituciones elegidas en las urnas corresponde en último extremo al ciudadano, de donde se revela indispensable la necesidad de establecer garantías y más medios para que el sistema de financiación no incorpore elementos de distorsión entre la voluntad popular y el ejercicio del poder político.
+La libertad de los partidos políticos en el ejercicio de sus atribuciones quedaría perjudicada si se permitiese como fórmula de financiación un modelo de liberalización total ya que, de ser así, siempre resultaría cuestionable la influencia que en una determinada decisión política hubiesen podido ejercer de las aportaciones procedentes de una determinada fuente de financiación y romper la función de los partidos políticos como instituciones que vehiculan la formación de la voluntad popular.
+La financiación de los partidos políticos tiene que corresponder a un sistema mixto que recoja, por una parte, las aportaciones de la ciudadanía y, de otra, los recursos procedentes de los poderes públicos en proporción a su representatividad como medio de garantía de la independencia del sistema, pero también de su suficiencia. Las aportaciones privadas han de proceder de persones físicas o jurídicas que no contraten con las administraciones públicas, ser públicas y no exceder de límites razonables y realistas.
+Es necesario, al mismo tiempo, establecer mecanismos de auditoría y fiscalización dotados de recursos humanos y materiales suficientes para ejercer con independencia y eficacia su función. De aquí que se haga necesaria la regulación de sanciones derivadas de las responsabilidades que pudieran deducirse del incumplimiento de la norma reguladora.
+Lo que se trata es, por tanto, abordar de forma realista la financiación de los partidos políticos a fin de que tanto el Estado, a través de subvenciones públicas, como los particulares, sean militantes, adheridos o simpatizantes, contribuyan a su mantenimiento como instrumento básico de formación de la voluntad popular y de representación política, posibilitando los máximos niveles de transparencia y publicidad y regulando mecanismos de control que impiden la desviación de sus funciones.
+Finalmente, con esta Ley se viene a dar cumplimiento al requerimiento explícitamente efectuado por la Comisión Mixta para las relaciones con el Tribunal de Cuentas y a las reiteradas recomendaciones de los informes anuales del supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado, que en su sesión del 30 de octubre de 2001 aprobó la Moción relativa a la modificación de la normativa sobre financiación y fiscalización de los partidos políticos, para garantizar la suficiencia, regularidad y transparencia de la actividad económica de estas formaciones.
+
+## TÍTULO I
+
+Normas generales
+
+### Artículo 1
+
+Artículo 1. Ámbito de aplicación de la Ley.
+La financiación de los partidos políticos, federaciones, coaliciones o agrupaciones de electores se ajustará a lo dispuesto en la presente Ley Orgánica.
+A los efectos de esta Ley la expresión «partido político» comprenderá, en su caso, al conjunto de entidades mencionadas anteriormente.
+
+### Artículo 2
+
+Artículo 2. Recursos económicos.
+Los recursos económicos de los partidos políticos estarán constituidos por:
+Uno. Recursos procedentes de la financiación pública:
+a) Las subvenciones públicas para gastos electorales, en los términos previstos en la Ley Orgánica 5/1985, de Régimen Electoral General y en la legislación reguladora de los procesos electorales de las Asambleas Legislativas de las Comunidades Autónomas y de las Juntas Generales de los Territorios Históricos vascos.
+b) Las subvenciones estatales anuales para gastos de funcionamiento, reguladas en la presente Ley.
+c) Las subvenciones anuales que las Comunidades Autónomas establezcan para gastos de funcionamiento en el ámbito autonómico correspondiente, así como las otorgadas por los Territorios Históricos vascos y, en su caso, por las Corporaciones Locales.
+d) Las subvenciones extraordinarias para realizar campañas de propaganda que puedan establecerse en la Ley Orgánica reguladora de las distintas modalidades de referéndum.
+e) Las aportaciones que en su caso los partidos políticos puedan recibir de los Grupos Parlamentarios de las Cámaras de las Cortes Generales, de las Asambleas Legislativas de las Comunidades Autónomas, de las Juntas Generales de los Territorios Históricos vascos y de los grupos de representantes en los órganos de las Administraciones Locales.
+Dos. Recursos procedentes de la financiación privada.
+a) Las cuotas y aportaciones de sus afiliados.
+b) Los productos de las actividades propias del partido así como de aquellas, reflejadas en la documentación contable y sometidas al control del Tribunal de Cuentas, que se vengan desarrollando tradicionalmente en sus sedes y faciliten el contacto y la interacción con los ciudadanos; los rendimientos procedentes de la gestión de su propio patrimonio; los beneficios procedentes de sus actividades promocionales y los que puedan obtenerse de los servicios que puedan prestar en relación con sus fines específicos.
+c) Las donaciones en dinero o en especie, que perciban en los términos y condiciones previstos en la presente Ley.
+d) Los fondos procedentes de los préstamos o créditos que concierten.
+e) Las herencias o legados que reciban.
+Se modifican las letras a) y b) del apartado 2 por el art. 1.1 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+## TÍTULO II
+
+Fuentes de financiación
+
+## CAPÍTULO PRIMERO
+
+Recursos públicos
+
+### Artículo 3
+
+Artículo 3. Subvenciones.
+Uno. El Estado otorgará a los partidos políticos con representación en el Congreso de los Diputados, subvenciones anuales no condicionadas, con cargo a los Presupuestos Generales del Estado, para atender sus gastos de funcionamiento.
+Igualmente, podrá incluirse en los Presupuestos Generales del Estado una asignación anual para sufragar los gastos de seguridad en los que incurran los partidos políticos para mantener su actividad política e institucional.
+Dos. Dichas subvenciones se distribuirán en función del número de escaños y de votos obtenidos por cada partido político en las últimas elecciones a la indicada Cámara.
+Para la asignación de tales subvenciones se dividirá la correspondiente consignación presupuestaria en tres cantidades iguales. Una de ellas se distribuirá en proporción al número de escaños obtenidos por cada partido político en las últimas elecciones al Congreso de los Diputados y las dos restantes proporcionalmente a todos los votos obtenidos por cada partido en dichas elecciones.
+Tres. Igualmente, las Comunidades Autónomas podrán otorgar a los partidos políticos con representación en sus respectivas Asambleas Legislativas, subvenciones anuales no condicionadas, con cargo a los Presupuestos autonómicos correspondientes, para atender sus gastos de funcionamiento.
+Dichas subvenciones se distribuirán en función del número de escaños y de votos obtenidos por cada partido político en las últimas elecciones a las indicadas Asambleas Legislativas, en proporción y de acuerdo con los criterios que establezca la correspondiente normativa autonómica.
+Las subvenciones a las que se refiere este apartado podrán ser también otorgadas por los Territorios Históricos vascos.
+Cuatro. Las subvenciones a que hacen referencia los números anteriores serán incompatibles con cualquier otra ayuda económica o financiera incluida en los Presupuestos Generales del Estado, en los Presupuestos de las Comunidades Autónomas o en los de los Territorios Históricos vascos destinadas al funcionamiento de los partidos políticos, salvo las señaladas en el número uno del artículo 2 de la presente Ley.
+Cinco. Iniciado el procedimiento de ilegalización de un partido político, al amparo de lo dispuesto en el artículo 11.2 de la Ley Orgánica 6/2002, de 27 de junio, de Partidos Políticos, la autoridad judicial, a propuesta del Ministro del Interior, podrá acordar, de modo cautelar, la suspensión de la entrega al partido afectado de recursos procedentes de la financiación pública, cualquiera que sea su tipo o naturaleza.
+Seis. Cuando las subvenciones estatales anuales previstas en este artículo superen la cuantía de doce millones de euros, se requerirá acuerdo previo del Consejo de Ministros para autorizar su concesión. Esta autorización no implicará la aprobación del gasto, que, en todo caso, corresponderá al órgano competente para la concesión de la subvención.
+Siete. No podrá realizarse el pago de las subvenciones anuales en tanto el beneficiario no acredite hallarse al corriente en el cumplimiento de sus obligaciones tributarias y de la Seguridad Social en la forma que se determine reglamentariamente, o tenga pendiente algún reintegro de subvención o ayuda.
+Ocho. Se retendrá el pago de las subvenciones anuales ordinarias a aquellos partidos que en las fechas establecidas hayan incumplido las obligaciones de presentar y hacer públicas sus cuentas conforme establece el artículo 14.
+Nueve. Todos los organismos y Administraciones Públicas que concedan subvenciones a los partidos políticos deberán hacer público el detalle de las subvenciones abonadas y de los perceptores al menos una vez al año, de conformidad con lo dispuesto en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+Se añaden los apartados 6, 7, 8 y 9 por el art. 1.2 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+## CAPÍTULO SEGUNDO
+
+Recursos privados
+
+### Artículo 4
+
+Artículo 4. Aportaciones, donaciones, operaciones asimiladas y acuerdos sobre condiciones de deuda.
+Uno. Aportaciones de sus afiliados.
+Los partidos políticos podrán recibir de acuerdo con sus estatutos, cuotas y aportaciones de sus afiliados.
+Dos. Donaciones privadas a partidos políticos.
+a) Los partidos políticos podrán recibir donaciones no finalistas, nominativas, en dinero o en especie, procedentes de personas físicas, dentro de los límites y de acuerdo con los requisitos y condiciones establecidas en esta ley.
+Las donaciones recibidas conforme a lo dispuesto en esta ley, que tendrán carácter irrevocable, deberán destinarse a la realización de las actividades propias de la entidad donataria.
+Los partidos políticos no podrán aceptar o recibir, directa o indirectamente, donaciones de personas físicas que, en ejercicio de una actividad económica o profesional, sean parte de un contrato vigente de los previstos en la legislación de contratos del sector público.
+b) Las cantidades donadas a los partidos políticos deberán abonarse en cuentas abiertas en entidades de crédito exclusivamente para dicho fin. Los ingresos efectuados en estas cuentas serán, únicamente, los que provengan de estas donaciones. A tal efecto, el partido político comunicará a las entidades de crédito en las que tenga cuentas abiertas y al Tribunal de Cuentas, cuál o cuáles son las que se encuentran destinadas exclusivamente al ingreso de donaciones. Las entidades de crédito informarán anualmente al Tribunal de Cuentas sobre las donaciones que hayan sido ingresadas en las citadas cuentas.
+c) Cuando por causa no imputable al partido político, el ingreso de la donación se haya efectuado en una cuenta distinta a las señaladas en la letra b), aquel deberá proceder a su traspaso a una cuenta destinada exclusivamente a la recepción de donaciones en el plazo de tres meses desde el cierre del ejercicio, informando de tal circunstancia al Tribunal de Cuentas, con expresión individualizada de los ingresos afectados.
+d) De las donaciones previstas en la letra b) quedará constancia de la fecha de imposición, importe de la misma y del nombre e identificación fiscal del donante. La entidad de crédito donde se realice la imposición estará obligada a extender al donante un documento acreditativo en el que consten los extremos anteriores. La aceptación de las donaciones de efectivo se entenderá producida si en el plazo establecido en el apartado anterior no se hubiera procedido a su devolución al donante, a su consignación judicial o ingreso en el Tesoro.
+e) Las donaciones en especie se entenderán aceptadas mediante certificación expedida por el partido político en la que se haga constar, además de la identificación del donante, el documento público u otro documento auténtico que acredite la entrega del bien donado haciendo mención expresa del carácter irrevocable de la donación.
+La valoración de las donaciones en especie se realizará conforme a lo dispuesto en la Ley 49/2002, de 23 de diciembre, de Régimen Fiscal de las Entidades sin Fines Lucrativos y de los Incentivos Fiscales al Mecenazgo.
+f) Cuando la suma del valor de las donaciones efectuadas por una misma persona física exceda del límite máximo anual permitido se procederá a la devolución del exceso al donante. Cuando ello no haya resultado posible, la cantidad o el equivalente del bien en metálico, se ingresará en el Tesoro en el plazo de tres meses desde el cierre del ejercicio.
+g) En todo caso, cuando excepcionalmente no haya sido posible proceder a la identificación de un donante, el importe de la donación se ingresará en el Tesoro en el plazo de tres meses desde el cierre del ejercicio.
+h) Lo dispuesto en las letras anteriores será de aplicación a los supuestos de recepción de donaciones a través de mecanismos de financiación participativa.
+i) No tendrán la consideración de donaciones las entregas de efectivo, bienes muebles o inmuebles realizadas por partidos políticos pertenecientes a una misma unión, federación, confederación o coalición permanente, ya sean entre sí o a aquellas.
+Tres. Operaciones asimiladas.
+Los partidos políticos no podrán aceptar que, directa o indirectamente, terceras personas asuman de forma efectiva el coste de sus adquisiciones de bienes, obras o servicios o de cualesquiera otros gastos que genere su actividad.
+Cuatro. Acuerdos sobre condiciones de deuda.
+Los partidos políticos podrán llegar a acuerdos respecto de las condiciones de la deuda que mantengan con entidades de crédito de conformidad con el ordenamiento jurídico, sin que el tipo de interés que se aplique pueda ser inferior al que corresponda a las condiciones de mercado. De tales acuerdos, y en especial, de los que supongan la cancelación de garantías reales, se dará cuenta al Tribunal de Cuentas y al Banco de España por el partido político y por la entidad de crédito, respectivamente.
+Las entidades de crédito no podrán efectuar condonaciones totales o parciales de deuda a los partidos políticos. A estos efectos se entiende por condonación la cancelación total o parcial del principal del crédito o de los intereses vencidos o la renegociación del tipo de interés por debajo de los aplicados en condiciones de mercado.
+Se modifica por el art. 1.3 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+ Se modifica el apartado 2 y se añade el apartado 4 por los arts. 1 y 2 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Artículo 5
+
+Artículo 5. Límites a las donaciones privadas.
+Uno. Los partidos políticos no podrán aceptar o recibir directa o indirectamente:
+a) Donaciones anónimas, finalistas o revocables.
+b) Donaciones procedentes de una misma persona superiores a 50.000 euros anuales.
+c) Donaciones procedentes de personas jurídicas y de entes sin personalidad jurídica.
+Se exceptúan del límite previsto en la letra b) las donaciones en especie de bienes inmuebles, siempre que se cumplan los requisitos establecidos en el artículo 4.2, letra e).
+Dos. Todas las donaciones superiores a 25.000 euros y en todo caso, las donaciones de bienes inmuebles, deberán ser objeto de notificación al Tribunal de Cuentas por el partido político en el plazo de tres meses desde su aceptación.
+Se modifica por el art. 1.4 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+ Se modifica por el art. 3 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Artículo 6
+
+Artículo 6. Actividades propias.
+Uno. Los partidos políticos no podrán desarrollar actividades de carácter mercantil de ninguna naturaleza.
+Dos. No se reputarán actividades mercantiles las actividades propias a que se refiere la letra b) del apartado dos, artículo 2.
+Tres. Los ingresos procedentes de las actividades propias del partido político, los rendimientos procedentes de la gestión de su propio patrimonio, así como los beneficios derivados de sus actividades promocionales y los que puedan obtenerse de los servicios que puedan prestar en relación con sus fines específicos, precisarán la identificación del transmitente cuando la transmisión patrimonial al partido político sea igual o superior a 300 euros.
+
+### Artículo 7
+
+Artículo 7. Aportaciones de personas extranjeras.
+Uno. Los partidos políticos podrán recibir donaciones no finalistas, procedentes de personas físicas extranjeras, con los límites, requisitos y condiciones establecidas en la presente ley para las aportaciones privadas, y siempre que se cumplan, además, los requisitos de la normativa vigente sobre control de cambios y movimiento de capitales.
+Dos. Los partidos no podrán aceptar ninguna forma de financiación por parte de Gobiernos y organismos, entidades o empresas públicas extranjeras o de empresas relacionadas directa o indirectamente con los mismos.
+Se modifica por el art. 1.5 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+### Artículo 8
+
+Artículo 8. Justificación de las cuotas y aportaciones.
+Uno. Las cuotas y aportaciones de los afiliados deberán abonarse en cuentas de entidades de crédito abiertas exclusivamente para dicho fin.
+Dos. Los ingresos efectuados en las cuentas destinadas a la recepción de cuotas serán, únicamente, los que provengan de éstas, y deberán ser realizados mediante domiciliación bancaria de una cuenta de la cual sea titular el afiliado, o mediante ingreso nominativo en la cuenta que designe el partido.
+Tres. Las restantes aportaciones privadas deberán abonarse en una cuenta distinta de la prescrita en el párrafo anterior. En todo caso, quedará constancia de la fecha de imposición, importe de las mismas y del nombre completo del afiliado o aportante. La entidad de crédito donde se realice la imposición estará obligada a extender un documento acreditativo en el que consten los extremos anteriores. Todas las aportaciones que, de forma individual o acumulada, sean superiores a 25.000 euros y en todo caso, las de bienes inmuebles, deberán ser objeto de notificación al Tribunal de Cuentas por el partido político en el plazo de tres meses desde el cierre del ejercicio.
+Se modifica por el art. 1.6 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+## TÍTULO III
+
+Régimen tributario
+
+### Artículo 9
+
+Artículo 9. Objeto y ámbito de aplicación.
+Uno. El presente título tiene por objeto regular el régimen tributario de los partidos políticos, así como el aplicable a las cuotas, aportaciones y donaciones efectuadas por personas físicas para contribuir a su financiación.
+Dos. En lo no previsto en este título se aplicarán las normas tributarias generales y en particular, las previstas para las entidades sin fines lucrativos.
+Se modifica el apartado 1 por el art. 1.7 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+## CAPÍTULO PRIMERO
+
+Régimen tributario de los partidos políticos
+
+### Artículo 10
+
+Artículo 10. Rentas exentas de tributación.
+Uno. Los partidos políticos gozarán de exención en el Impuesto sobre Sociedades por las rentas obtenidas para la financiación de las actividades que constituyen su objeto o finalidad específica en los términos establecidos en el presente artículo.
+Dos. La exención a que se refiere el número anterior resultará de aplicación a los siguientes rendimientos e incrementos de patrimonio:
+a) Las cuotas y aportaciones satisfechas por sus afiliados.
+b) Las subvenciones percibidas con arreglo a lo dispuesto en esta Ley.
+c) Las donaciones privadas efectuadas por personas físicas así como cualesquiera otros incrementos de patrimonio que se pongan de manifiesto como consecuencia de adquisiciones a título lucrativo.
+d) Los rendimientos obtenidos en el ejercicio de sus actividades propias. Cuando se trate de rendimientos procedentes de explotaciones económicas propias la exención deberá ser expresamente declarada por la Administración Tributaria.
+La exención se aplicará, igualmente, respecto de las rentas que se pongan de manifiesto en la transmisión onerosa de bienes o derechos afectos a la realización del objeto o finalidad propia del partido político siempre que el producto de la enajenación se destine a nuevas inversiones vinculadas a su objeto o finalidad propia o a la financiación de sus actividades, en los plazos establecidos en la normativa del Impuesto sobre Sociedades.
+e) Los rendimientos procedentes de los bienes y derechos que integran el patrimonio del partido político.
+Se modifica la letra c) del apartado 2 por el art. 1.8 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+### Artículo 11
+
+Artículo 11. Tipo de gravamen, rentas no sujetas a retención y obligación de declarar.
+Uno. La base imponible positiva que corresponda a las rentas no exentas, será gravada al tipo del 25 por ciento.
+Dos. Las rentas exentas en virtud de esta Ley no estarán sometidas a retención ni ingreso a cuenta. Reglamentariamente se determinará el procedimiento de acreditación de los partidos políticos a efectos de la exclusión de la obligación de retener.
+Tres. Los partidos políticos vendrán obligados a presentar y suscribir declaración por el Impuesto sobre Sociedades con relación a las rentas no exentas.
+
+## CAPÍTULO SEGUNDO
+
+Régimen tributario de las cuotas, aportaciones y donaciones efectuadas a partidos políticos
+
+### Artículo 12
+
+Artículo 12. Incentivos fiscales.
+Uno. Las cuotas de afiliación, así como las restantes aportaciones realizadas a los partidos políticos, serán deducibles de la base imponible del Impuesto de la Renta de las Personas Físicas, con el límite de 600 euros anuales, siempre que dichas cuotas y aportaciones sean justificadas según el artículo 8.1.
+Dos. A las donaciones a que se refiere el artículo 4, efectuadas a los partidos políticos, les serán de aplicación las deducciones previstas en la Ley 49/2002, de 23 de diciembre, de Régimen Fiscal de las Entidades sin fines lucrativos y de los incentivos fiscales al Mecenazgo.
+
+### Artículo 13
+
+Artículo 13. Justificación de las cuotas, aportaciones y donaciones efectuadas.
+La aplicación del régimen tributario establecido en el artículo anterior estará condicionada a que la persona física disponga del documento acreditativo de la aportación, donación o cuota satisfecha al partido político perceptor.
+Se modifica por el art. 1.9 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+## TÍTULO IV
+
+Obligaciones contables y gestión económico-financiera
+Se modifica por el art. 1.10 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+### Artículo 14
+
+Artículo 14. Obligaciones relativas a la contabilidad de los partidos políticos.
+Uno. Los partidos políticos deberán llevar libros de contabilidad detallados que permitan en todo momento conocer su situación financiera y patrimonial y el cumplimiento de las obligaciones previstas en la presente ley.
+Dos. Los libros de Tesorería, Inventarios y Balances deberán contener, conforme a principios de contabilidad generalmente aceptados:
+a) El inventario anual de todos los bienes.
+b) La cuenta de ingresos, consignándose como mínimo las siguientes categorías de ingresos:
+– Cuantía global de las cuotas y aportaciones de sus afiliados.
+– Ingresos procedentes de su propio patrimonio.
+– Ingresos procedentes de las donaciones a que se refiere el artículo 4.
+– Subvenciones públicas.
+– Rendimientos procedentes de las actividades del partido.
+– Herencias y legados recibidos.
+c) La cuenta de gastos, consignándose como mínimo las siguientes categorías de gastos:
+– Gastos de personal.
+– Gastos de adquisición de bienes y servicios (corrientes).
+– Gastos financieros de préstamos.
+– Otros gastos de administración.
+– Gastos de las actividades propias del partido.
+d) Las operaciones de capital relativas a:
+– Créditos o préstamos de instituciones financieras.
+– Inversiones.
+– Deudores y acreedores.
+Tres. Las cuentas anuales comprenderán el Balance, la cuenta de Resultados y una Memoria explicativa de ambas. En todo caso, dicha Memoria incluirá la relación de subvenciones públicas y de donaciones privadas, tanto dinerarias como en especie de bienes inmuebles, muebles, servicios o cualquier otra transacción que constituya una ventaja económica, recibidas de personas físicas con referencia concreta, en cada una de ellas, de los elementos que permitan identificar al donante y señalar el importe del capital recibido.
+La Memoria deberá ir acompañada, igualmente, de un anexo donde se especifiquen pormenorizadamente las condiciones contractuales estipuladas de los créditos o préstamos de cualquier clase que mantenga el partido con las entidades de crédito. En él se identificará a la entidad concedente, el importe otorgado, el tipo de interés y el plazo de amortización del crédito o préstamo y la deuda pendiente al cierre del ejercicio de que se trate con indicación de cualquier contingencia relevante sobre el cumplimiento de las condiciones pactadas.
+Cuatro. No obstante lo dispuesto en el párrafo anterior, para la rendición de cuentas de los Grupos Parlamentarios de las Cortes Generales, de las Asambleas Legislativas de las Comunidades Autónomas, de las Juntas Generales de los Territorios Históricos vascos y de los Grupos de las Corporaciones Locales, se estará a lo que dispongan sus respectivos Reglamentos o su legislación específica, que deberán respetar los principios generales de esta ley en materia de rendición de cuentas.
+Cinco. Las cuentas anuales consolidadas de los partidos políticos se extenderán a los ámbitos estatal, autonómico y provincial. Las cuentas correspondientes al ámbito local y comarcal, si existiese, se integrarán en las cuentas de nivel provincial. Las cuentas anuales consolidadas de federaciones de partidos y coaliciones incluirán las de los partidos federados y coaligados.
+Seis. Todos los partidos políticos habrán de remitir las cuentas anuales consolidadas, en las que se detallarán y documentarán sus ingresos y gastos, debidamente formalizadas al Tribunal de Cuentas antes del 30 de junio del año siguiente al que aquellas se refieran. La presentación se efectuará por el responsable de la gestión económico-financiera del partido.
+Siete. Una vez presentadas las cuentas anuales, el Tribunal de Cuentas entregará al partido político justificación de haber efectuado dicha presentación. Dentro del mes siguiente a la finalización del plazo de presentación de las cuentas anuales, el Tribunal de Cuentas remitirá al Registro de partidos políticos del Ministerio del Interior y al Presidente de la Comisión Mixta para las Relaciones con el Tribunal de Cuentas, la relación de los partidos que hayan realizado la presentación.
+Ocho. Los partidos políticos deberán publicar en su página web, en el plazo máximo de un mes desde la fecha de envío al Tribunal de Cuentas, el balance, la cuenta de resultados y en particular: la cuantía de los créditos pendientes de amortización, con especificación de la entidad concedente, el importe otorgado, el tipo de interés y el plazo de amortización, las subvenciones recibidas y las donaciones y legados de importe superior a 25.000 euros con referencia concreta a la identidad del donante o legatario, sin perjuicio de lo establecido en el artículo 7.5 de la Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de Cuentas.
+Nueve. Los partidos políticos, una vez emitido por el Tribunal de Cuentas el informe de fiscalización correspondiente a un determinado ejercicio, deberán hacerlo público a través de su página web en un plazo máximo de 15 días.
+Téngase en cuenta que la redacción de este artículo, establecida por el art. 1.10 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441. entra en vigor el 1 de enero de 2016, según establece la disposición final 10.
+ Redacción anterior:
+ "Artículo 14. Libros de contabilidad.
+ Uno. Los partidos políticos deberán llevar libros de contabilidad detallados que permitan en todo momento conocer su situación financiera y patrimonial y el cumplimiento de las obligaciones previstas en la presente Ley.
+ Dos. Los libros de Tesorería, Inventarios y Balances deberán contener, conforme a principios de contabilidad generalmente aceptados:
+ a) El inventario anual de todos los bienes.
+ b) La cuenta de ingresos, consignándose como mínimo las siguientes categorías de ingresos:
+ – Cuantía global de las cuotas y aportaciones de sus afiliados.
+ – Ingresos procedentes de su propio patrimonio.
+ – Ingresos procedentes de las donaciones a que se refieren el artículo cuatro de esta Ley.
+ – Subvenciones públicas.
+ – Rendimientos procedentes de las actividades del partido.
+ c) La cuenta de gastos, consignándose como mínimo las siguientes categorías de gastos:
+ – Gastos de Personal.
+ – Gastos de adquisición de bienes y servicios (corrientes).
+ – Gastos financieros de préstamos.
+ – Otros gastos de administración.
+ – Gastos de las actividades propias del partido.
+ d) Las operaciones de capital relativas a:
+ – Créditos o préstamos de instituciones financieras.
+ – Inversiones.
+ – Deudores y acreedores.
+ Tres. El órgano máximo de dirección de aquellos partidos políticos que reciban algún tipo de subvención pública de las previstas en el artículo 3 de la presente Ley está obligado a presentar las cuentas anuales correspondientes a cada ejercicio económico, en las que se detallarán y documentarán sus ingresos y gastos.
+ Cuatro. Las cuentas anuales consolidadas se extenderán a los ámbitos estatal, autonómico, comarcal y provincial. Las cuentas anuales consolidadas de federaciones de partidos y coaliciones incluirán las de los partidos federados y coaligados.
+ Cinco. Las cuentas anuales comprenderán el Balance, la cuenta de Resultados y una Memoria explicativa de ambas. En todo caso dicha Memoria incluirá la relación de subvenciones públicas y de donaciones privadas recibidas de personas físicas o jurídicas con referencia concreta, en cada una de ellas, de los elementos que permitan identificar al donante y señalar el importe del capital recibido.
+ La Memoria deberá ir acompañada, igualmente, de un anexo donde se especifiquen pormenorizadamente las condiciones contractuales estipuladas de los créditos o préstamos de cualquier clase que mantenga el partido con las entidades de crédito. En él se identificará a la entidad concedente, el importe otorgado, el tipo de interés y el plazo de amortización del crédito o préstamo y la deuda pendiente al cierre del ejercicio de que se trate con indicación de cualquier contingencia relevante sobre el cumplimiento de las condiciones pactadas.
+ Seis. No obstante lo dispuesto en el párrafo anterior, para la rendición de cuentas de los Grupos Parlamentarios de las Cortes Generales, de las Asambleas Legislativas de las Comunidades Autónomas, de las Juntas Generales de los Territorios Históricos vascos y de los Grupos de las Corporaciones Locales, se estará a lo que dispongan sus respectivos Reglamentos o normativa local específica.
+ Siete. Las cuentas anuales consolidadas debidamente formalizadas se remitirán al Tribunal de Cuentas antes del 30 de junio del año siguiente al que aquéllas se refieran.
+ Ocho. Los partidos políticos, una vez emitido por el Tribunal de Cuentas el informe de fiscalización correspondiente a un determinado ejercicio, vendrán obligados a hacer públicas, preferentemente a través de su página web, el balance y la cuenta de resultados y, en particular, la cuantía de los créditos que les han sido concedidos, el tipo de entidad concedente y las condonaciones de deuda correspondientes a tal ejercicio, de forma que esta información sea de gratuito y fácil acceso para los ciudadanos."
+Se modifica por el art. 1.10 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+ Téngase en cuenta para la consolidación de cuentas de nivel local, la disposición transitoria 3 de la citada Ley Orgánica.
+ Se añade el apartado 8 por el art. 4 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Artículo 14 bis
+
+Artículo 14 bis. Responsable de la gestión económico-financiera.
+Uno. El responsable de la gestión económico-financiera del partido político será designado en la forma que determinen los estatutos entre personas con acreditados conocimientos o experiencia profesional en el ámbito económico y en las que concurra la condición de honorabilidad.
+Dos. Se considera que no concurre la honorabilidad en quienes:
+a) Estén condenados por sentencia firme a pena privativa de libertad, hasta que se haya cumplido la condena.
+b) Estén condenados por sentencia firme por la comisión de delitos de falsedad; contra la libertad; contra el patrimonio y orden socioeconómico, contra la Hacienda Pública y la Seguridad Social, contra los derechos de los trabajadores, la Administración Pública, la Constitución, las instituciones del Estado, la Administración de Justicia, la Comunidad Internacional; de traición y contra la paz o la independencia del Estado y relativos a la defensa nacional; y contra el orden público, en especial, el terrorismo, hasta que los antecedentes penales hayan sido cancelados.
+c) Se encuentren incursos en un proceso penal por un delito que comporte la inhabilitación o la pérdida del derecho de sufragio pasivo cuando se haya dictado auto de apertura de juicio oral.
+d) Los inhabilitados conforme a la Ley 22/2003, de 9 de julio, Concursal mientras no haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso.
+No podrán ser responsables de la gestión económico-financiera de un partido político los funcionarios en activo al servicio de la Administración Pública y las demás personas afectadas por una incompatibilidad legal.
+Tres. El responsable de la gestión económico-financiera responderá de la regularidad contable de la actividad reflejada en las cuentas anuales. Esta responsabilidad es independiente de aquella en la que hubieran incurrido quienes adoptaran las resoluciones o realizaran los actos reflejados en las cuentas.
+Cuatro. Son funciones del responsable de la gestión económico-financiera:
+a) La elaboración de las cuentas anuales y su presentación ante el Tribunal de Cuentas.
+b) La supervisión de los responsables de la gestión económico-financiera de nivel autonómico y provincial, si existiesen.
+c) Las funciones en materia de ordenación de pagos y autorización de gastos que en su caso señalen los estatutos del partido.
+d) Cualquier otra función que le atribuyan los estatutos o el máximo órgano de dirección del partido.
+Cinco. Para el adecuado cumplimiento de sus funciones, el responsable de la gestión económico-financiera del partido a nivel nacional podrá impartir instrucciones específicas y criterios de actuación a los responsables de los distintos niveles territoriales.
+Se añade por el art. 1.10 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+## TÍTULO V
+
+Fiscalización y control
+
+### Artículo 15
+
+Artículo 15. Control interno.
+Los partidos políticos deberán prever un sistema de control interno que garantice la adecuada intervención y contabilización de todos los actos y documentos de los que se deriven derechos y obligaciones de contenido económico, conforme a sus estatutos. El informe resultante de esta auditoría acompañará a la documentación a rendir al Tribunal de Cuentas.
+Se modifica por el art. 5 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Artículo 16
+
+Artículo 16. Control externo.
+Uno. Corresponde en exclusiva al Tribunal de Cuentas el control de la actividad económico-financiera de los partidos políticos, sin perjuicio de las competencias relativas a la fiscalización de los procesos electorales autonómicos atribuidas a los órganos de control externo de las Comunidades Autónomas previstos en sus respectivos estatutos.
+Dos. El Tribunal de Cuentas fiscalizará en todo caso las cuentas relativas a los partidos que perciban algún tipo de subvención pública de las previstas en el artículo 3.
+Respecto al resto de los partidos políticos el Tribunal de Cuentas realizará las actuaciones fiscalizadoras que considere oportunas conforme se establezca en sus planes de actuación.
+Tres. Este control se extenderá a la fiscalización de la legalidad de los recursos públicos y privados de los partidos políticos así como la regularidad contable de las actividades económico-financieras que realicen y a la adecuación de su actividad económico-financiera a los principios de gestión financiera que sean exigibles conforme a su naturaleza.
+Cuatro. El Tribunal de Cuentas, en el plazo de seis meses desde la recepción de la documentación señalada en el artículo 14, emitirá un informe sobre su regularidad y adecuación a lo dispuesto en el apartado anterior, o en su caso se harán constar expresamente cuantas infracciones o prácticas irregulares se hayan observado.
+Cinco. Dicho informe se elevará a las Cortes Generales y se publicará posteriormente en el "Boletín Oficial del Estado".
+Se modifica por el art. 1.11 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+ Se modifica el apartado 3 por el art. 6 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Artículo 16 bis
+
+Artículo 16 bis. Control parlamentario.
+La Comisión Mixta para las Relaciones con el Tribunal de Cuentas podrá, en el plazo de dos meses desde la aprobación del informe de fiscalización por el Tribunal de Cuentas, solicitar la comparecencia del responsable de la gestión económico-financiera de cualquier partido político que perciban las subvenciones contempladas en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, para que informe sobre las infracciones o prácticas irregulares que en su caso, se hayan observado por el órgano fiscalizador.
+Dicha comparecencia no exime de la obligación de remitir al Tribunal de Cuentas cualquier otra información contable que este estime pertinente.
+Se añade por el art. 1.12 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+ Se modifica el apartado 3 por el art. 6 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+## TÍTULO VI
+
+Régimen sancionador
+
+### Artículo 17
+
+Artículo 17. Infracciones.
+Uno. Sin perjuicio de las responsabilidades legales de cualquier índole que se deriven de lo dispuesto en el ordenamiento jurídico en general y de lo preceptuado en esta ley en particular, el Tribunal de Cuentas acordará la imposición de sanciones al partido político que cometa alguna de las infracciones que se tipifican en este artículo, siempre que no constituyan delito.
+Dos. Serán consideradas infracciones muy graves:
+a) La aceptación de donaciones o aportaciones que contravengan las limitaciones o requisitos establecidos en los artículos 4, 5, 7 y 8. Tendrán idéntica calificación la asunción, por terceras personas, de los gastos del partido en los términos indicados en el artículo 4.tres, así como aquellos acuerdos sobre condiciones de deuda que infrinjan la prohibición contenida en el artículo 4.cuatro.
+b) La superación por los partidos políticos, en un diez por ciento o más, de los límites de gastos electorales previstos en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, sin perjuicio de lo establecido en el artículo 134 de dicha Ley.
+c) El incumplimiento durante dos ejercicios consecutivos o tres alternos de la obligación de presentar las cuentas anuales en el plazo previsto en el artículo 14. Seis o la presentación de cuentas incompletas o deficientes que impidan al Tribunal de Cuentas llevar a cabo su cometido fiscalizador.
+Tres. Serán consideradas infracciones graves:
+a) La realización de actividades de carácter mercantil según establece el artículo 6.
+b) La superación por los partidos políticos, en más de un tres y en menos de un diez por ciento, de los límites de gastos electorales previstos en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, sin perjuicio de lo establecido en el artículo 134 de dicha Ley.
+c) El incumplimiento de la obligación de presentar las cuentas anuales, la presentación de cuentas incompletas o deficientes que impidan al Tribunal de Cuentas llevar a cabo su cometido fiscalizador durante un ejercicio o cualquier otra de las obligaciones contables previstas en esta ley, siempre que ello no constituya delito.
+d) La falta de un sistema de auditoría o control interno que establece el artículo 15.
+Cuatro. Serán consideradas infracciones leves:
+a) Las faltas al deber de colaboración que establece el artículo 19.
+b) La superación por los partidos políticos, en más de un uno y hasta un tres por ciento, de los límites de gastos electorales previstos en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, sin perjuicio de lo establecido en el artículo 134 de dicha Ley.
+Cinco. Las infracciones muy graves prescribirán a los cinco años, las graves a los tres años y las leves a los dos años.
+El cómputo de estos plazos se iniciará en el momento de la comisión de la infracción.
+Se modifica por el art. 1.13 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+ Se modifica por el art. 7 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Artículo 17 bis
+
+Artículo 17 bis. Sanciones.
+Uno. Por la comisión de infracciones muy graves se impondrán las siguientes sanciones:
+a) Por las infracciones previstas en el artículo 17 apartado dos a) una sanción cuyo importe irá del doble al quíntuplo de la cantidad que exceda del límite legalmente permitido, de la cantidad asumida por el tercero o de la cantidad condonada, según proceda.
+b) Por las infracciones previstas en el artículo 17 apartado dos b), una multa pecuniaria proporcional del duplo al quíntuplo del exceso de gasto producido.
+c) Por las infracciones previstas en el artículo 17 apartado dos c), una sanción de un mínimo de cincuenta mil euros y un máximo de cien mil euros.
+En ningún caso las sanciones previstas en los apartadosa) y b) serán inferiores a cincuenta mil euros.
+Dos. Por la comisión de infracciones graves se impondrán las siguientes sanciones:
+a) Por las infracciones previstas en el artículo 17 apartado tres a), una multa pecuniaria de entre veinticinco mil y cincuenta mil euros más una multa pecuniaria equivalente al cien por ciento del beneficio neto obtenido mediante la realización de las actividades mercantiles.
+b) Por las infracciones previstas en el artículo 17 apartado dos b), una sanción cuyo importe irá del doble al quíntuplo del exceso del gasto producido sin que en ningún caso pueda ser inferior a veinticinco mil euros.
+c) Para el resto de las infracciones graves, una sanción de un mínimo de diez mil euros y un máximo de cincuenta mil euros.
+Tres. Por la comisión de infracciones leves se impondrán las siguientes sanciones:
+a) Por la infracción prevista en el artículo 17, apartado tres a), una multa pecuniaria de entre cinco mil y diez mil euros.
+b) Por la infracción prevista en el artículo 17, apartado tres b), una sanción cuyo importe irá del doble al quíntuplo del exceso del gasto producido, sin que en ningún caso pueda ser inferior a cinco mil euros.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado Tres.b) y que se extiende, por conexión o consecuencia, esta misma declaración de inconstitucionalidad y nulidad a los incisos destacados de los apartados Uno y Dos.b), por Sentencia del TS 69/2024, de 24 de abril. Ref. BOE-A-2024-10947
+Cuatro. El Tribunal de Cuentas vigilará que las sanciones se hagan efectivas antes del libramiento de la siguiente subvención y que se detraiga su importe en el caso de no haber sido satisfechas.
+En aquellos casos en que el partido político sancionado no tenga derecho a la percepción de subvenciones, el Tribunal de Cuentas requerirá al citado partido para que proceda al ingreso del importe correspondiente a la sanción en el Tesoro Público.
+Cuando un partido político no haga efectivo el pago de la sanción impuesta, el Tribunal de Cuentas dará traslado a la Agencia Estatal de la Administración Tributaria para que ésta proceda a su recaudación en periodo ejecutivo.
+Se declara la inconstitucionalidad y nulidad de los incisos destacados de los apartados 1, 2.b) y 3.b) , por Sentencia del TS 69/2024, de 24 de abril. Ref. BOE-A-2024-10947
+ Se añade por el art. 1.14 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+### Artículo 18
+
+Artículo 18. Procedimiento sancionador.
+Uno. El procedimiento sancionador se iniciará por acuerdo del Pleno del Tribunal de Cuentas.
+Tan pronto como el Tribunal de Cuentas tenga conocimiento de los hechos, el Pleno dispondrá la apertura de un periodo de información previa en el que se dará audiencia al partido político presuntamente infractor, tras el cual, si hubiera lugar a ello, acordará la iniciación del procedimiento sancionador. El procedimiento sancionador será compatible, tanto con el ejercicio de su función fiscalizadora sobre la gestión económico-financiera del partido político presuntamente infractor, como con la imposición, cuando proceda, de las multas coercitivas previstas en el artículo 30 de la Ley 7/1988, de 5 de abril, de Funcionamiento del Tribunal de Cuentas. La iniciación del procedimiento sancionador interrumpe la prescripción de las infracciones.
+Dos. El acuerdo de iniciación tendrá el contenido mínimo siguiente:
+a) La identificación del partido político presuntamente responsable.
+b) Los hechos que motivan la incoación del procedimiento, su posible calificación jurídica y las sanciones que pudieran corresponder.
+c) El instructor del procedimiento, con expresa indicación del régimen de recusación del mismo.
+El acuerdo de iniciación se comunicará al instructor y se notificará al partido político presuntamente infractor, indicándole que tiene un plazo de quince días para aportar cuantas alegaciones, documentos o informaciones estime convenientes y para solicitar la apertura de un período probatorio y proponer los medios de prueba que consideren adecuados.
+El acuerdo de iniciación se acompañará de los documentos y pruebas que haya tenido en cuenta el Pleno para acordar la iniciación del procedimiento.
+Tres. Se abrirá un período probatorio en los siguientes supuestos:
+a) Cuando en el trámite de alegaciones establecido en el apartado precedente lo solicite el partido interesado con proposición de medios de prueba concretos.
+b) Cuando, en ausencia de solicitud de parte interesada, el instructor lo considere necesario para el esclarecimiento de los hechos y determinación de los responsables. En este caso el instructor dará un plazo de cinco días a los interesados para que propongan los medios de prueba que estimen oportunos.
+El período probatorio durará treinta días hábiles.
+La práctica de las pruebas se realizará de conformidad con lo establecido en el artículo 81 de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Cuatro. Concluido, en su caso, el período probatorio, el instructor formulará propuesta de resolución, la cual deberá contener:
+1. Si estima que existe infracción y responsabilidad:
+a) Los hechos que considere probados y la valoración de la prueba en que tal consideración se funde.
+b) El partido político que considere responsable y la valoración de la prueba en que tal consideración se funde.
+c) Los preceptos tipificadores de infracciones en que considere subsumidos los hechos y las razones de tal consideración.
+d) Las sanciones que estime procedentes en los términos del artículo 17 bis, y las circunstancias que a tal efecto haya considerado así como, en su caso, la proposición de suspensión de la ejecución de la sanción, de ejecución fraccionada o de su modificación, y las razones de tal proposición.
+2. Si estima que no existe infracción o responsabilidad, contendrá la propuesta de absolución.
+Cinco. La propuesta de resolución se notificará a los interesados, indicándoles que disponen de un plazo de quince días para formular alegaciones para lo que se les pondrá de manifiesto el expediente, a fin de que puedan consultarlo y obtener copias de los documentos que obren en el mismo.
+Concluido el trámite de audiencia, el instructor cursará inmediatamente la propuesta de resolución al Pleno del Tribunal de Cuentas para que resuelva el procedimiento, junto con los documentos, alegaciones e informaciones que obren en el expediente.
+Seis. El instructor podrá, motivadamente, prorrogar los plazos de dichos trámites de alegaciones y el del período de prueba, por una sola vez e idéntico o inferior tiempo al establecido, siempre que, por el número y la naturaleza de las pruebas a practicar, la complejidad de las situaciones fácticas y cuestiones jurídicas analizadas u otras razones atendibles, sea preciso para lograr la adecuada determinación de los hechos y las responsabilidades o para garantizar la eficaz defensa de los incursos en el procedimiento sancionador.
+Siete. Los actos del instructor que denieguen la apertura del período probatorio o la práctica de algún medio de prueba propuesta por las partes, serán susceptibles de recurso ante el Pleno del Tribunal de Cuentas, en el plazo de tres días, considerándose su silencio desestimatorio.
+Ocho. El Pleno del Tribunal de Cuentas dictará resolución motivada, que decidirá sobre todas las cuestiones planteadas por el partido interesado y aquellas derivadas del procedimiento. La resolución que resuelva el procedimiento deberá tener el contenido que se establece en el apartado 4.
+El Pleno del Tribunal de Cuentas únicamente podrá variar la relación de hechos expresada en la propuesta de resolución, matizándolos o tomando en cuenta otros, en el caso de que ello sea en beneficio del partido político incurso en el procedimiento sancionador, motivando específicamente en la resolución la variación fáctica.
+Si no hubiera sido notificada la resolución en el plazo de seis meses desde la iniciación del procedimiento se producirá la caducidad de este. El transcurso de este plazo quedará interrumpido mientras el procedimiento se encuentre paralizado por causas imputables a los interesados.
+Nueve. Las resoluciones sancionadoras que adopte el Tribunal de Cuentas serán susceptibles de recurso contencioso-administrativo ante el Tribunal Supremo. Cuando en dichas resoluciones se acuerde la imposición de alguna de las sanciones previstas en el artículo 17 bis, la interposición del recurso suspenderá automáticamente la ejecución de la resolución adoptada por el Tribunal de Cuentas.
+Se modifica por el art. 1.15 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+ Se modifica el párrafo inicial y el apartado 8 y se suprime el apartado 2.d) por el art. 8 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Artículo 19
+
+Artículo 19. Deber de colaboración.
+Uno. Los partidos políticos estarán obligados a la remisión de cuantos documentos, antecedentes, datos y justificaciones les sean requeridos por el Tribunal de Cuentas para el cumplimiento de su función fiscalizadora.
+Dos. Cuando en el ejercicio de la función fiscalizadora las autoridades o funcionarios del Tribunal de Cuentas tengan conocimiento de datos, informes o antecedentes que afecten a la intimidad de las personas, estarán obligados al más estricto y completo sigilo respecto de ellos, incurriendo, si incumpliesen dicha obligación, en las responsabilidades administrativas o penales que puedan corresponder.
+Asimismo, y sólo en estos supuestos, los partidos políticos podrán cumplir con la obligación a que se refiere el apartado uno del presente artículo poniendo a disposición del Tribunal la información que precise en la sede o dependencia que los mismos designen.
+Tres. Las entidades que hubieran mantenido relaciones de naturaleza económica con los partidos políticos estarán obligadas, si son requeridas por el Tribunal de Cuentas, a proporcionar a éste la información y justificación detallada sobre sus operaciones con ellos, de acuerdo con las normas de auditoría externa, generalmente aceptadas, y a los solos efectos de verificar el cumplimiento de los límites, requisitos y obligaciones establecidos por la presente Ley.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La letra c) del apartado 3 del artículo 9 del Texto Refundido del Impuesto sobre Sociedades, aprobado por Real Decreto Legislativo 4/2004, de 5 de marzo, quedará redactado como sigue:
+«c) Los colegios profesionales, las asociaciones empresariales, las cámaras oficiales y los sindicatos de trabajadores.»
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La letra d) del apartado 2 del artículo 28 del Texto Refundido del Impuesto sobre Sociedades, aprobado por Real Decreto Legislativo 4/2004, de 5 de marzo, quedará redactado como sigue:
+«d) Los colegios profesionales, las asociaciones empresariales, las cámaras oficiales y los sindicatos de trabajadores.»
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Se añade el número 28 al apartado Uno del artículo 20 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor añadido, con el siguiente texto:
+«28. Las prestaciones de servicios y las entregas de bienes realizadas por los partidos políticos con motivo de manifestaciones destinadas a reportarles un apoyo financiero para el cumplimiento de su finalidad específica y organizadas en su exclusivo beneficio.»
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Se añade un nuevo artículo 61 bis a la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, con la siguiente redacción:
+«Artículo 61 bis. Reducción por cuotas y aportaciones a partidos políticos.
+Las cuotas de afiliación y las aportaciones a Partidos Políticos, Federaciones, Coaliciones o Agrupaciones de Electores, podrán ser objeto de reducción en la base imponible con un límite máximo de 600 euros anuales.»
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Se añade una nueva letra e) al artículo 45.1 A) del Texto Refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por Real Decreto Legislativo 1/1993, de 24 de septiembre, con la siguiente redacción:
+«e) Los Partidos políticos con representación parlamentaria.»
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Uno. La Ley de Presupuestos Generales de cada ejercicio fijará el importe global de la consignación para atender las subvenciones reguladas en el artículo 3 de esta Ley.
+Dos. Las cantidades que figuran en los artículos de esta Ley distintas de las contempladas en al apartado primero de esta disposición se adecuarán anualmente al índice de precios al consumo.
+Se modifica por el art. 9 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Fundaciones y entidades vinculadas a partidos políticos o dependientes de ellos.
+Uno. Se considera que una fundación está vinculada o es dependiente de un partido político cuando concurra alguna de las siguientes circunstancias:
+a) Que se constituya con una aportación mayoritaria, directa o indirecta, del partido político o de otra fundación o entidad vinculada o dependiente de aquel.
+b) Que su patrimonio fundacional, con un carácter de permanencia, esté formado en más de un 50 por 100 por bienes o derechos aportados o cedidos por las referidas entidades.
+c) Que el partido político, directamente o a través de entidades vinculadas, pueda nombrar o destituir a la mayoría de los miembros del patronato.
+d) Que sea designada como fundación vinculada por el partido político, de acuerdo con lo dispuesto en la disposición adicional cuarta de la Ley Orgánica 6/2002, de 27 de junio, de Partidos Políticos.
+Se considera que una entidad está vinculada o es dependiente de un partido político cuando este ostente o pueda ostentar, directa o indirectamente, el control de aquella. En particular, se presumirá que existe control cuando el partido político se encuentre en relación con la entidad en alguna de las siguientes situaciones:
+a) Posea la mayoría de los derechos de voto.
+b) Tenga la facultad de nombrar o destituir a la mayoría de los miembros del órgano de administración.
+c) Pueda disponer, en virtud de acuerdos celebrados con terceros, de la mayoría de los derechos de voto.
+d) Haya designado con sus votos a la mayoría de los miembros del órgano de administración. En particular, se presumirá esta circunstancia cuando la mayoría de los miembros del órgano de administración de la sociedad dominada sean miembros del máximo órgano de dirección del partido político o de otra entidad vinculada o dependiente de aquel.
+e) Que sea designada como entidad vinculada por el partido político, de acuerdo con lo dispuesto en la disposición adicional cuarta de la Ley Orgánica 6/2002, de 27 de junio, de Partidos Políticos.
+A los efectos de este apartado, a los derechos de voto del partido político se añadirán los que posea a través de otras fundaciones o entidades vinculadas a o dependientes de ellos o a través de personas que actúen en su propio nombre pero por cuenta del partido político o de otras fundaciones o entidades vinculadas a o dependientes de aquel o aquellos de los que disponga concertadamente con cualquier otra persona. Se presume que una persona actúa por cuenta del partido político cuando su intervención en el órgano de administración derive de un nombramiento realizado por el partido político o de la titularidad de un cargo para el que haya sido designado por el partido político.
+Dos. Las aportaciones que reciban las fundaciones y entidades vinculadas a partidos políticos o dependientes de ellos estarán sometidas a los mecanismos de fiscalización y control, y al régimen sancionador previstos, respectivamente, en los títulos V y VI, sin perjuicio de las normas propias que les sean de aplicación. El control que lleve a cabo el Tribunal de Cuentas se extenderá además a la regularidad contable de dichas aportaciones y de los gastos derivados de programas y actividades financiados con cargo a subvenciones públicas.
+Tres. Los recursos que financien la actividad de las fundaciones y entidades vinculadas a partidos políticos o dependientes de ellos serán los previstos en la legislación aplicable en cada caso.
+Cuatro. En el caso de las donaciones, estarán sometidas a los límites y requisitos previstos en el capítulo segundo del título II, si bien, no será de aplicación lo previsto en el artículo 5.Uno, letras b) y c).
+Las donaciones procedentes de personas jurídicas requerirán siempre acuerdo adoptado en debida forma por el órgano o representante competente al efecto, haciendo constar de forma expresa el cumplimiento de las previsiones de la presente ley. Cuando estas donaciones sean de carácter monetario de importe superior a 120.000 euros, tendrán que formalizarse en documento público.
+Las fundaciones y entidades vinculadas reguladas en esta disposición no podrán aceptar o recibir directa o indirectamente, donaciones de organismos, entidades o empresas públicas.
+Cinco. No tendrán la consideración de donaciones, a los solos efectos de esta disposición adicional, las entregas monetarias o patrimoniales llevadas a cabo por una persona física o jurídica para financiar una actividad o un proyecto concreto de la fundación o entidad, en cuanto tal actividad o proyecto se realice como consecuencia de un interés común personal o derivado de las actividades propias del objeto societario o estatutario de ambas entidades.
+Las entregas realizadas al amparo de lo previsto en este apartado deberán, en todo caso, formalizarse en documento público, comunicarse al Tribunal de Cuentas en el plazo de tres meses desde su aceptación y hacerse públicas, preferentemente a través de la página web de la fundación o entidad vinculada.
+Seis. Las fundaciones y entidades reguladas en esta disposición adicional estarán obligadas a formular y aprobar sus cuentas en los términos previstos en la legislación vigente, a realizar una auditoría de sus cuentas anuales y a enviar toda la documentación al Tribunal de Cuentas.
+Una vez emitido por esta institución el informe de fiscalización al que se refiere el apartado Dos, vendrán obligadas a hacer públicas, preferentemente a través de su página web, el balance y la cuenta de resultados así como las conclusiones del informe de auditoría, de forma que esta información sea de gratuito y fácil acceso para los ciudadanos.
+Siete. Las fundaciones y entidades reguladas por esta disposición adicional estarán obligadas a informar anualmente al Ministerio de Hacienda y Administraciones Públicas de todas las donaciones y aportaciones recibidas, a cuyo fin se aprobará una orden ministerial en la que se indicarán el contenido, alcance y estructura de la información que ha de facilitarse. Además, todas las donaciones procedentes de personas jurídicas deberán ser objeto de notificación al Tribunal de Cuentas en el plazo de tres meses desde su aceptación.
+Se modifica por el art. 1.16 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+ Se modifica por el art. 10 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+(Derogada)
+Se deroga por la disposición derogatoria de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+Los límites cuantitativos previstos en los artículos 4, apartado cuatro, y 5 de la presente Ley se actualizarán cada año de conformidad con el incremento del índice de precios al consumo.
+Se modifica por el art. 11 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Disposición adicional décima
+
+Disposición adicional décima.
+Lo dispuesto en el Título III y en las disposiciones adicionales primera a quinta de esta Ley se entenderá sin perjuicio de los regímenes tributarios forales de concierto y convenio económico en vigor, respectivamente, en la Comunidad Autónoma Vasca y en la Comunidad Foral de Navarra.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima.
+Lo dispuesto en el apartado dos del artículo 7 de esta Ley no será de aplicación a aquellos partidos políticos que desarrollen funciones políticas como partidos legalmente establecidos en otros Estados distintos del español, siempre que se trate de subvenciones fundamentadas en el desarrollo de dichas funciones.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima.
+Para el ejercicio 2012 la cuantía de las convocatorias públicas de subvenciones a las asociaciones y fundaciones vinculadas a los partidos políticos se reducirá en un 20 por ciento respecto al ejercicio 2011.
+Se añade por el art. 12 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Régimen de contratación de los partidos políticos.
+1. Los procedimientos de contratación de los partidos políticos se inspirarán en a los principios de publicidad, concurrencia, transparencia, confidencialidad, igualdad y no discriminación sin perjuicio del respeto a la autonomía de la voluntad y de la confidencialidad cuando sea procedente.
+2. El partido político deberá aprobar unas instrucciones internas en materia de contratación que se adecuarán a lo previsto en el apartado anterior y que deberán ser informadas antes de su aprobación por el órgano al que corresponda su asesoramiento jurídico. Estas instrucciones deberán publicarse en la página web del partido político.
+Se añade por el art. 1.17 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Rango de ley ordinaria.
+Tienen carácter de ley ordinaria el Título III y las disposiciones adicionales primera, segunda, tercera, cuarta y quinta.
+Se añade por el art. 1.18 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta. Aportaciones de personas no afiliadas a partidos políticos.
+Las aportaciones efectuadas a los partidos políticos por personas no afiliadas que tengan la condición de electos, de altos cargos de todas las Administraciones Públicas o del Sector Público Estatal, Autonómico y Local, se considerarán a todos los efectos aportaciones de afiliados cuando así lo manifiesten los aportantes.
+Se añade por el art. 1.19 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta. Comunicación de cifra máxima de gasto electoral.
+El Tribunal de Cuentas, cuando sea competente en la fiscalización del proceso electoral convocado, comunicará en la forma en que se determine la cifra máxima individualizada de gasto electoral correspondiente a cada una de las formaciones políticas concurrentes con representación en el Congreso de los Diputados, inmediatamente después de que el acuerdo de proclamación de candidaturas sea firme. Además, remitirá la relación de las cifras máximas de gasto electoral de estas formaciones a la Junta Electoral competente a los efectos de que sean la referencia, si procediere, para el cálculo de las sanciones previstas en la ley.
+Se añade por el art. 1.20 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los partidos políticos deberán adaptar, en su caso, sus estatutos y normas internas a lo dispuesto en esta Ley Orgánica, en el plazo de un año.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Suprimida)
+Se suprime por el art. 13 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Uno. Para el ejercicio 2012 la subvención estatal anual para gastos de funcionamiento de los partidos políticos y la asignación anual para sufragar gastos de seguridad se fijan respectivamente, en 65.883.000,58 euros y 3.382.000,75 euros.
+Dos. A partir de la entrada en vigor de la presente Ley las cantidades percibidas por los partidos políticos hasta ese momento se entenderán entregadas a cuenta de la cantidad total prevista para el año 2012.
+Tres. Los abonos mensuales a partir de dicha fecha se ajustarán para que la suma total de todos los pagos no supere la cantidad prevista en el apartado uno.
+Se modifica por el art. 14 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas las siguientes disposiciones:
+La Ley Orgánica 3/1987, de 2 de julio, sobre Financiación de los Partidos Políticos.
+Las demás disposiciones que se opongan a la presente Ley.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado». No obstante, las normas relativas a la tributación del Impuesto sobre Sociedades, contenidas en la Sección 1.ª del Título III, serán aplicables a partir del primer ejercicio que se inicie a partir de la entrada en vigor de la Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+La presente Ley entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado». No obstante, las normas relativas a la tributación del Impuesto sobre Sociedades, contenidas en la Sección 1.ª del Título III, serán aplicables a partir del primer ejercicio que se inicie a partir de la entrada en vigor de la Ley.
+Se numera por el art. 15 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+ Su anterior denominación era Disposición final.
+
+### Disposición final segunda
+
+Disposición final segunda. Régimen supletorio.
+En lo no regulado por esta ley orgánica en materia de subvenciones, será de aplicación lo previsto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+Los procedimientos sancionadores regulados en esta ley, supletoriamente y en defecto de norma expresa, se regirán por las normas generales de estos procedimientos contenidas en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Se modifica por el art. 1.21 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+ Se añade por el art. 16 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+### Disposición final tercera
+
+Disposición final tercera. Modificación del apartado f) del párrafo 4 del artículo 6 del Real Decreto Legislativo 1298/1986, de 28 de junio, de adaptación del derecho vigente en materia de Entidades de Crédito al de las Comunidades Europeas.
+Se modifica el apartado f) del párrafo 4 del artículo 6 del Real Decreto Legislativo 1298/1986, de 28 de junio, de adaptación del derecho vigente en materia de Entidades de Crédito al de las Comunidades Europeas, que queda redactado como sigue:
+f) Las informaciones que el Banco de España tenga que facilitar para el cumplimiento de sus respectivas funciones al Tribunal de Cuentas, a la Comisión Nacional del Mercado de Valores, a la Dirección General de Seguros, a los Fondos de Garantía de Depósitos, a los interventores o a los síndicos de una entidad de crédito o de una entidad de su grupo, designados en los correspondientes procedimientos administrativos o judiciales, y a los auditores de las cuentas de las entidades de crédito y sus grupos.
+Se añade por el art. 17 de la Ley Orgánica 5/2012, de 22 de octubre. Ref. BOE-A-2012-13123.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley orgánica.
+Madrid, 4 de julio de 2007.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

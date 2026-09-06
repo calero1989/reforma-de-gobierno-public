@@ -1,0 +1,738 @@
+# Ley 11/2006, de 22 de diciembre, sobre Régimen del Comercio Minorista y Plan de Equipamientos Comerciales de la Región de Murcia.
+
+- Identificador BOE: `BOE-A-2007-9420`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-9420
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 11/2006, de 22 de diciembre, sobre Régimen del Comercio Minorista de la Región de Murcia" según establece el art. 5.1 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 11/2006, de 22 de diciembre, sobre Régimen del Comercio Minorista y Plan de Equipamientos Comerciales de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30.Dos, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+PREÁMBULO
+Transcurridos casi ocho años desde la aprobación de la Ley 10/1998, de 21 de diciembre, sobre el régimen del comercio minorista en la Región de Murcia, la experiencia en su aplicación a lo largo de este periodo de tiempo acredita su virtualidad en una primera fase, en la que se ha mostrado como un instrumento útil.
+Las nuevas situaciones que se están produciendo en el sector de la distribución comercial minorista, así como los cambios producidos en la normativa de la Unión Europea y en la española relativa al comercio minorista, debido a la sentencia del Tribunal Constitucional n.º 124/2003, de 19 de junio, que declara inconstitucionales y nulos diversos artículos de la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, y la nueva legislación estatal dictada en ejercicio de las competencias exclusivas del Estado reconocidas en la Constitución, y para la transposición al ordenamiento jurídico español de diversas directivas comunitarias, aconsejan la conveniencia de dictar una nueva ley que, sobre la base de aquel primitivo texto, permita mejorar la regulación de algunas materias, como la licencia comercial específica, los horarios comerciales o la inspección de comercio interior, añadiendo algunos temas nuevos no incluidos en la Ley 10/1998, como el plan de equipamientos comerciales de la Región de Murcia.
+El Gobierno y la Asamblea Regional de Murcia en ejercicio de las competencias que les otorga el Estatuto de Autonomía en materia de comercio interior, deben garantizar el equilibrio entre los distintos formatos del comercio detallista sobre la base de una importante presencia de la pequeña y mediana empresa comercial en el tejido urbano, dada la relación existente entre comercio y ciudad.
+El comercio urbano de proximidad ejerce una función social muy importante en cuanto que constituye un elemento esencial en la configuración de las ciudades, los pueblos y los barrios de la Región de Murcia y garantiza el abastecimiento de las personas, en general, y las que, por edad u otras circunstancias, tienen dificultades de movilidad, en particular. Desempeña también una función económica importante, puesto que es un factor clave en la creación de trabajo autónomo y en la redistribución de la renta.
+En este contexto, en primer lugar, la regulación de los horarios es un elemento capital de la ordenación del comercio. De una parte, es preciso que los horarios comerciales permitan atender de modo adecuado a las necesidades de la población y que faciliten la compra en aquellos momentos y fechas del año en los que se genera mayor demanda. De otra parte, deben hacer posible el equilibrio entre las pequeñas y medianas empresas de venta y distribución que configuran el pequeño comercio urbano de proximidad y las grandes empresas de venta y distribución.
+Finalmente debe tenerse en cuenta el derecho de los trabajadores al descanso y a compaginar su vida laboral con la familiar y social.
+En segundo lugar, y en el mismo contexto de la relación comercio-ciudad, los poderes públicos igualmente deben garantizar el equilibrio entre el comercio de los centros históricos de las ciudades y el comercio periférico, de forma que nuestras ciudades den respuesta tanto a las necesidades de aprovisionamiento de productos de consumo cotidiano, como a los aspectos más lúdicos del acto de compra que se corresponden con la adquisición de productos de consumo no cotidiano. Todo ello reduciendo la movilidad y evitando al máximo los desplazamientos innecesarios, que congestionan las infraestructuras públicas e incrementan la contaminación atmosférica derivada del tránsito de vehículos. A esta voluntad de reforzar el comercio urbano y de evitar movilidades innecesarias y sobrecarga de infraestructuras públicas, buscando el equilibrio entre las diferentes fórmulas comerciales responde el Plan de Equipamientos Comerciales de la Región de Murcia, que pretende garantizar a los consumidores una oferta diversificada y plural, de manera que el crecimiento de la oferta comercial sea producido fundamentalmente o esté justificado para atender, en las mejores condiciones, las necesidades de los ciudadanos y evitar las movilidades innecesarias. Por ello en los elementos de valoración para el otorgamiento de las licencias, sin descartar el «test económico», en concordancia con las pautas indicadas por la jurisprudencia del Tribunal de las Comunidades Europeas, por lo que se refiere a la libertad de establecimiento garantizada por el artículo 43 del Tratado de la Unión Europea, se incluyen otros criterios en el sentido expresado, de garantizar a los consumidores una oferta diversificada y plural, que atienda, en las mejores condiciones, las necesidades de los ciudadanos y evite las movilidades innecesarias, según un modelo comercial que combine el modelo de ciudad residencial con las actividades comerciales, garantizando el aprovisionamiento, la diversidad de oferta y la multiplicidad de operadores a la ciudadanía, tenga esta o no posibilidad de desplazarse.
+Otros objetivos de la ley que merecen resaltarse son el de mejorar algunos aspectos de la Ley 10/1998, en lo referente a la definición de las funciones de la inspección del comercio, o la regulación de la licencia comercial específica, así como al régimen sancionador aplicable, por otra parte se aprovecha la oportunidad para adecuar la ley autonómica a la nueva normativa estatal básica en materia de horarios comerciales, contenida en la Ley 1/2004, de 21 de diciembre, de Horarios Comerciales.
+La presente ley brinda asimismo la oportunidad de introducir algunas mejoras tendentes a elevar el nivel de calidad técnica de la Ley 10/1998, trasladando algunos apartados de ciertos artículos a otros artículos donde resulta más apropiada su ubicación en función del tema al que se refieren, de acuerdo con los criterios orientadores de la doctrina científica española en la materia, dadas las indudables ventajas que proporciona la mayor calidad técnica de las leyes, y que pueden sintetizarse en la realización del principio de seguridad jurídica, proclamado por nuestra Constitución.
+Asimismo se introducen mínimas correcciones, básicamente de estilo.
+En relación con el título I, sobre disposiciones generales, del capítulo 1, sobre objeto y ámbito de aplicación, merece destacarse que se mejora la definición del objeto de la ley a fin de adecuarlo al nuevo contenido de la misma.
+El capítulo II, sobre regulación administrativa, precisa el objeto de la ordenación e intervención administrativa de la actividad comercial, y detalla en el artículo 6 los distintos aspectos de la regulación de la función inspectora sobre el comercio interior no contemplados en la Ley 10/1998, de 21 de diciembre, sobre Régimen del Comercio Minorista de la Región de Murcia.
+En relación con el título II de la Ley, sobre establecimientos comerciales y Plan de Equipamientos Comerciales de la Región de Murcia, en el capítulo I, artículo 8, se precisa el concepto de gran establecimiento comercial cuando el artículo o producto requiere gran superficie de exposición y venta (automóviles, materiales de construcción, etcétera), por no resultar lógico exigir licencia por debajo de los 2.500 metros cuadrados de sala de ventas en tales casos, como ocurre en otras comunidades autónomas. En el artículo 10 se define el concepto de superficie útil de exposición y venta al público. En el Capítulo II se regula la licencia comercial específica y se exige que el solicitante de la licencia sea la empresa explotadora y, si la pide el promotor, se identifique claramente aquélla así como la enseña o nombre comercial, a fin de evitar la posibilidad de especulación con las licencias y que operadores con fuerte presencia en un mercado obtuviesen aquellas a través de empresas-pantalla.
+También se trata de asegurar la compatibilidad del proyecto de nueva implantación comercial con el planeamiento urbanístico vigente ya desde el momento de la presentación de la solicitud, a fin de evitar la presentación de solicitudes no compatibles con aquél, o que traten de ubicarse en suelo no apto para urbanizar.
+Se dota de rango legal, tal como exige la Ley 30/1992, en redacción dada por la Ley 4/1999, al efecto desestimatorio del transcurso del plazo para dictar y notificar las resoluciones referidas a procedimientos de solicitud de licencia comercial específica, plazo que se amplía por resultar insuficiente el actual de seis meses, si se han de cumplir todos los trámites de las normas del procedimiento administrativo común, más los específicos de estos procedimientos, como es el informe del Tribunal de Defensa de la Competencia.
+En relación con el título V de la Ley sobre horarios comerciales, se actualiza el mismo de acuerdo con lo establecido en la Ley 1/2004, de 21 de diciembre, de Horarios Comerciales.
+En relación con el título VIII de la Ley, sobre Régimen Sancionador, se suprime como infracción leve la negativa o resistencia a suministrar datos o a facilitar la información requerida por las autoridades o sus agentes, con lo que dicha actividad pasa a estar tipificada como infracción grave de acuerdo con la legislación estatal supletoria, lo que resulta preferible para alinearnos con el régimen de las comunidades autónomas de nuestro entorno a fin de evitar que faltas graves puedan quedar sin sanción. También se suprime el procedimiento simplificado sancionador de un mes, que regía en la Región de Murcia por aplicación de la normativa estatal aplicable supletoriamente, dado que por su brevedad resultaba inoperante.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Objeto y ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. Es objeto de esta Ley el establecimiento del régimen jurídico administrativo del comercio minorista, la racionalización, mejora y modernización de las estructuras comerciales, potenciando un modelo comercial que garantice el aprovisionamiento y la multiplicidad de oferta a los consumidores buscando la diversidad comercial, así como la regulación de determinadas ventas especiales en el marco del respeto a los derechos de los trabajadores, así como a los principios recogidos en la normativa comunitaria.
+2. A los efectos de esta Ley, es comercio minorista aquella actividad desarrollada profesionalmente con ánimo de lucro consistente en ofertar la venta de cualquier clase de artículos a los destinatarios finales de los mismos, utilizando o no un establecimiento.
+Se modifica el apartado 1 por el art. 5.3 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 2
+
+Artículo 2. Precisiones sobre el ámbito de aplicación.
+1. Será irrelevante para la aplicación de esta Ley que el comerciante minorista sea al propio tiempo fabricante o comerciante mayorista de artículos cuya oferta de venta realice.
+2. A salvo lo previsto en el párrafo siguiente, será igualmente indiferente a los efectos de esta ley que el comerciante minorista tenga el carácter de agricultor, ganadero, pescador o artesano, o que, en general, realice la totalidad o parte de las actividades precisas para obtener los productos que venda.
+3. Quedan excluidas del ámbito de aplicación de esta ley todas aquellas actividades que estén sujetas a una reglamentación o normas sectoriales específicas, y en todo caso estarán excluidos las ventas directas por agricultores y ganaderos de los productos agropecuarios, en estado natural o que ellos mismos han transformado, en el lugar de su producción.
+Se modifican los apartados 2 y 3 por la disposición final 1 de la Ley 4/2019, de 3 de abril. Ref. BOE-A-2019-7281#df
+
+### Artículo 3
+
+Artículo 3. Ejercicio simultáneo de actividad comercial minorista y de producción o distribución mayorista.
+Cuando la actividad de comercio minorista sea realizada simultáneamente en un mismo establecimiento con otras actividades de producción o de distribución mayorista, deberá ser debidamente delimitada la zona o espacio en que se desarrolla la actividad comercial minorista, y deberán cumplirse las normas relativas a cada tipo de actividad comercial.
+
+### Artículo 4
+
+Artículo 4. De las cooperativas de consumidores y usuarios.
+1. Las cooperativas de consumidores y usuarios, así como cualesquiera otras que suministren bienes y servicios a sus socios y terceros, estarán obligadas a distinguir la oferta dirigida a los socios de la que se dirija al público en general.
+Cuando la oferta de las cooperativas se dirija al público en general o no aparezca rigurosamente diferenciada de la que realicen a sus socios, estará sometida a esta Ley.
+2. Los economatos y, en general, cualquier tipo de establecimiento que, de acuerdo con la legislación vigente, suministren bienes, productos o servicios exclusivamente a una colectividad de empleados no podrán en ningún caso suministrarlos al público en general.
+
+## CAPÍTULO II
+
+Regulación administrativa
+
+### Artículo 5
+
+Artículo 5. Régimen jurídico administrativo de la actividad comercial minorista.
+1. La actividad comercial minorista vendrá sujeta a ordenación administrativa en los supuestos y conforme a las técnicas y procedimientos regulados en esta Ley.
+2. Con carácter general, la instalación y apertura de establecimientos comerciales no estará sujeta a régimen de autorización comercial. No obstante lo anterior, dicha instalación y apertura quedará sometida a una autorización cuando, una vez aplicados el juicio de proporcionalidad, y el principio de no discriminación, de manera clara e inequívoca, concurran razones imperiosas de interés general relacionadas con la distribución comercial, de acuerdo con lo que se establece en la presente Ley.
+3. En especial, la ordenación administrativa tendrá por objeto:
+a)(Suprimida)
+b) El régimen regulador de las ventas a distancia y su inscripción en el Registro correspondiente.
+c) El régimen de horarios comerciales.
+d) El régimen de determinadas prácticas promocionales de ventas.
+f) El régimen de otras ventas especiales como automáticas, domiciliarias y en subasta pública.
+4. Para el inicio de actividad, instalación, cambio de titularidad, traslado o modificación sustancial de las actividades comerciales al por menor que estén incluidas en el título I y el anexo de la Ley 12/2012, de 26 de diciembre, de medidas urgentes de liberalización del comercio y de determinados servicios, o en el capítulo II del título II y el anexo de la Ley regional 8/2014, de 21 de noviembre, de medidas tributarias, de simplificación administrativa y en materia de función pública, que son las relativas al ejercicio de las actividades comerciales al por menor realizadas en establecimientos de carácter permanente cuya superficie útil de exposición y venta al público no sea superior a 1000 metros cuadrados no se requerirá licencia previa y bastará la presentación de declaración responsable o la comunicación previa al ayuntamiento, de conformidad con lo previsto en dichas leyes.
+El ejercicio de estas actividades comerciales y de servicios y la apertura de los establecimientos adscritos a la actividad generarán la liquidación de la tasa o precio, o contraprestación económica que, en su caso, corresponda. Cuando deban realizarse diversas actuaciones relacionadas con la misma actividad o en el mismo local comercial en que ésta se desarrolla, las comunicaciones previas y las declaraciones responsables se tramitarán conjuntamente.
+Quedan al margen de la regulación contenida en este apartado del artículo 5 de esta Ley las actividades desarrolladas en los mencionados establecimientos que tengan impacto en el patrimonio histórico-artístico en el ámbito autonómico o local, así como en el uso privativo u ocupación de bienes de dominio público estatal, autonómico o local.
+5. La ordenación administrativa que compete a la Comunidad Autónoma de la Región de Murcia no excluye y salvaguarda la que corresponda a otras administraciones públicas en esta materia y, en especial, a los ayuntamientos para dictar ordenanzas y ejercer las potestades administrativas de comprobación, inspección, sanción y, en general, de control que le estén atribuidas por la normativa sectorial aplicable.
+Se modifica el apartado 4 por la disposición final 2.1 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se suprime el apartado 3.a) por el art. 1.1 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#ap.
+ Téngase en cuenta que el apartado 3.a) ya había sido suprimido por el Decreto-ley 2/2016, de 20 de abril.
+ Se suprime el apartado 3.a) por el art. 1.1 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+ Se modifica el apartado 4 y se añade el 5 por el art. único.1 y 2 de la Ley 11/2012, de 27 de diciembre. Ref. BOE-A-2013-1874.
+ Se modifica por el art. 5.4 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 6
+
+Artículo 6. Inspección y sanción.
+1. La Administración regional y los municipios, en el ámbito de sus respectivas competencias, realizarán las funciones de inspección, vigilancia y control precisos sobre los comerciantes, sus establecimientos comerciales y sus actividades.
+2. En el ámbito de la Administración regional, la función inspectora será desempeñada por personal adscrito a la Dirección General competente en materia de comercio, dentro de un cuerpo propio de inspección, quienes, cuando se encuentren en el ejercicio de sus funciones, se identificarán como tales y tendrán la consideración de agentes de la autoridad, a todos los efectos. Los hechos o circunstancias por ellos constatados gozarán de la presunción de veracidad, salvo prueba en contrario, estando obligados los inspectores al cumplimiento estricto del deber de sigilo profesional.
+3. El personal de la Inspección de Comercio Interior podrá solicitar el apoyo, concurso, auxilio y protección de cualquier otra autoridad o sus agentes, incluidos los cuerpos de seguridad del Estado, que resulte preciso para el ejercicio de sus funciones.
+4. El personal de la Inspección de Comercio Interior podrá requerir la exhibición y aportación de la documentación industrial, mercantil y contable que resulte necesaria para el ejercicio de sus funciones (documentos, libros, ficheros, facturas, justificantes de contabilidad, etcétera), así como acceder directamente a los locales y dependencias en los que se realicen actividades comerciales. Las informaciones obtenidas serán, en todos los casos, confidenciales.
+5. Las personas físicas y jurídicas requeridas por el personal de la Inspección de Comercio Interior tienen la obligación de consentir y facilitar las actuaciones inspectoras, de exhibir, suministrar y facilitar la obtención de copia de la información requerida y, en general, de consentir la realización de las visitas de inspección y de dar toda clase de facilidades para el cumplimiento de sus funciones.
+6. Las modalidades de actuación inspectora podrán ser:
+a) De control del mercado, verificando el cumplimiento de las obligaciones y deberes impuestos a los comerciantes por la legislación vigente.
+b) De investigación de mercado, destinadas a la obtención de información y datos que permitan conocer y realizar estudios de mercado y determinar sectores de los que pudieran derivar perjuicios para el mercado y sus agentes y también en relación con las posibles situaciones atentatorias a la libre competencia.
+c) De asesoramiento e información a los agentes del mercado, favoreciendo el cumplimiento de la normativa vigente y la extensión de las buenas prácticas comerciales que redunden en beneficio del comercio.
+d) De comprobación de aplicación de ayudas de los programas presupuestarios de la Dirección General competente en materia de comercio.
+7. El incumplimiento de lo establecido en esta Ley será sancionado conforme a lo previsto en su título VIII y demás normas aplicables en la materia.
+
+## TÍTULO II
+
+Establecimientos comerciales
+Se modifica por el art. 5.5 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+## CAPÍTULO I
+
+De los establecimientos comerciales y sus modalidades
+
+### Artículo 7
+
+Artículo 7. Definiciones y modalidades.
+1. Tendrán la consideración de establecimientos comerciales, los locales, construcciones o instalaciones, de carácter fijo y permanente, destinados al ejercicio regular de actividades comerciales, ya sea de forma individual o en un espacio colectivo, e independientemente de que se realice en forma continuada o en días o en temporadas determinadas.
+2. Los establecimientos comerciales se clasifican teniendo en cuenta el surtido de productos y la relación con otros equipamientos:
+a) Por el surtido de producto los equipamientos comerciales se dividen en:
+Establecimientos basados en la venta de productos cotidianos, que son los dedicados a la venta de productos de consumo cotidiano o habitual, predominantemente de alimentación, contando en algunos casos con otros productos no alimentarios (artículos de droguería, de menaje del hogar, etc.).
+Establecimientos basados en la venta de productos no cotidianos, que son aquellos especializados en la venta de productos de consumo ocasional, generalmente especializados en una gama de productos determinada, sea mediante venta personalizada o en régimen de autoservicio.
+Establecimientos polivalentes, que son los que ofrecen para la venta un amplio conjunto de productos de consumo cotidiano y no cotidiano, tales como hipermercados y grandes almacenes.
+b) Desde el punto de vista de la relación con otros equipamientos, los establecimientos comerciales se dividen en:
+Individuales.
+Colectivos, que son aquellos integrados por un conjunto de establecimientos situados dentro de un mismo edificio, recinto o parque comercial, vinculados entre sí por una planificación, gestión, promoción y administración común, en los que se ejercen las actividades comerciales de forma empresarial independiente, pudiendo coexistir, en su caso, con establecimientos dedicados a actividades de ocio, hostelería, restauración etc.
+3. A los efectos de esta Ley, quedan excluidos de la consideración de establecimientos comerciales colectivos los mercados municipales de abastos, así como las agrupaciones de comercios, en núcleos urbanos, que tengan la consideración de centros comerciales abiertos.
+Se modifica por el art. 5.6 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 8
+
+Artículo 8. Establecimientos comerciales con impacto supramunicipal.
+(Suprimido)
+Se suprime por el art. 1.1. de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#ap.
+ Téngase en cuenta que el art.8 ya había sido suprimido por el Decreto-ley 2/2016, de 20 de abril.
+ Se suprime por el art. 1.1 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+ Se modifica por el art. 5.7 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 9
+
+Artículo 9. Establecimientos comerciales de descuento.
+(Suprimido)
+Se suprime por el art. 5.8 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 10
+
+Artículo 10. Superficie de exposición y venta al público.
+1. Superficie útil de exposición y venta al público es aquella donde se produce el intercambio comercial, constituida por los espacios destinados a la exposición al público de los artículos ofertados, habitual u ocasionalmente, ya sea mediante mostradores, estanterías, vitrinas, góndolas, cámaras o murales, los probadores, las cajas registradoras y, en general, todos los espacios destinados a la permanencia y paso del público, excluyéndose expresamente las superficies destinadas a oficinas, aparcamientos, zonas de carga y descarga y almacenaje no visitables por el público y, en general, todas aquellas dependencias o instalaciones de acceso restringido al mismo.
+2. Cuando en un mismo edificio o centro comercial existan varios establecimientos comerciales, se excluyen del cómputo de la superficie de venta, además, los espacios de libre circulación comunes externos.
+
+## CAPÍTULO II
+
+Licencia comercial autonómica
+Se suprime por el art. 1.1 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#ap.
+ Téngase en cuenta que ya había sido suprimido por el Decreto-ley 2/2016, de 20 de abril.
+ Se suprime por el art. 1.1 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+ Se modifica por el art. 5.9 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 11
+
+Artículo 11. Licencia comercial autonómica. Supuestos de sujeción.
+1. La licencia comercial autonómica tiene como única finalidad comprobar la posible colisión de la implantación de los establecimientos comerciales que tengan impacto supramunicipal con el interés general.
+2. Se precisará disponer de licencia comercial, previamente a la obtención de licencias municipales de obras y de actividad, en los supuestos siguientes:
+a) En la instalación o apertura de los establecimientos comerciales individuales o colectivos que tengan impacto supramunicipal según lo dispuesto en el artículo 8 de esta Ley.
+b) En la ampliación de los establecimientos comerciales individuales o colectivos cuya superficie de ventas supere, antes o después de la ampliación, los limites establecidos para cada caso en el citado artículo 8.
+3. El mero cambio de la titularidad del establecimiento no estará sujeto a licencia comercial autonómica, igual que el cambio de actividad comercial, cuando esta sea de naturaleza similar a la anterior. Estos cambios deberán ser comunicados a la Dirección General competente en materia de comercio, una vez producidos.
+4. Los criterios y requisitos que condicionen la concesión de la licencia comercial, o la denieguen, estarán basados en razones imperiosas de interés general, tal como se indica en la Directiva 2006/123/CE del Parlamento Europeo y del Consejo de 12 de diciembre de 2006, relativa a la prestación de servicios en el mercado interior, entre otras, orden público, seguridad pública y salud pública, mantenimiento del orden en la sociedad, objetivos de política social, protección de los destinatarios de los servicios y de los consumidores, protección de los trabajadores, incluida su protección social, prevención de la competencia desleal, protección del medio ambiente y del entorno urbano, incluida la planificación urbana y rural, seguridad vial, conservación del patrimonio histórico y artístico.
+5. Los mercados municipales no precisarán licencia comercial autonómica. Tampoco requerirán, con independencia de su superficie, la instalación y/o apertura de los establecimientos individuales dedicados a la venta especializada de vehículos a motor, maquinaria agrícola e industrial, materiales de construcción y artículos de saneamiento, mobiliario, jardinería y combustible para automoción.
+Se modifica por el art. 5.10 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículos 11 a 17
+
+(Suprimidos)
+Se suprimen por el art. 1.1 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#ap.
+ Téngase en cuenta que ya se habían suprimido por el Decreto-ley 2/2016, de 20 de abril.
+ Se suprimen por el art. 1.1 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 12
+
+Artículo 12. Criterios para la concesión de la licencia comercial autonómica.
+1. Los criterios a tener en cuenta para conceder la licencia comercial autonómica, que según la Directiva 2006/123/CE, del Parlamento Europeo y del Consejo, han de ser proporcionados, no discriminatorios, objetivos, claros e inequívocos, son los siguientes:
+a) La adecuación del proyecto de establecimiento a las determinaciones y requisitos que se establecen en la presente ley y en las normas que la desarrollen.
+b) La adecuación del proyecto al planeamiento urbanístico y a los instrumentos de planificación territorial o sectorial vigentes.
+c) La adecuación del proyecto en cuanto a la seguridad y salud pública.
+d) El impacto sobre el territorio y la movilidad generada por el proyecto. Deberá prestarse una especial atención a la incidencia de la implantación en la red viaria y en las infraestructuras públicas.
+e) La cercanía y el fácil acceso de la oferta comercial para los consumidores y usuarios.
+f) El impacto en el medio ambiente del proyecto, de acuerdo con la normativa de aplicación en materia de evaluación de impacto ambiental.
+También deberá tenerse en cuenta la estimación de las emisiones atmosféricas de CO2 derivadas de la movilidad generada, así como el tratamiento de residuos para facilitar su reciclaje de acuerdo con su legislación reguladora.
+g) La integración del establecimiento en el entorno urbano y el impacto paisajístico y sobre el patrimonio histórico artístico.
+h) El grado de protección de los derechos de los ciudadanos, como consumidores de bienes y servicios.
+2. En relación con estos criterios, los proyectos de instalación de establecimientos comerciales que tengan impacto supramunicipal deberán contener medidas tendentes a:
+a) Garantizar la existencia de medios de transporte público colectivo suficientes para atender los flujos de público previsible y desincentivar así el uso del vehículo particular.
+b) Asegurar la accesibilidad al equipamiento comercial, valorándose especialmente de forma positiva aquellas medidas previstas por el promotor, encaminadas a mejorar el acceso al equipamiento comercial y que posibiliten la articulación con el transporte público. La previsión de soluciones de conexión y acceso, incluyendo los compromisos a asumir por los promotores en orden a ejecutar a su costa las infraestructuras de conexión, acceso y estacionamientos, así como terminarlas antes de la puesta en funcionamiento del centro.
+c) Acreditar el ahorro en el consumo energético con incidencia en las redes preexistentes. Con esta finalidad, deberán aprovechar al máximo el potencial de energías renovables que permita el emplazamiento, diseño y determinaciones técnicas del establecimiento. Reglamentariamente se establecerán las condiciones y parámetros relativos a la obligatoriedad de la utilización de estas energías.
+Se modifica por el art. 5.11 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 13
+
+Artículo 13. Solicitud de licencia comercial específica y documentación complementaria.
+1. La licencia comercial autonómica se solicitará ante la Dirección General competente en la materia de comercio por la persona, física o jurídica, que vaya a explotar la actividad comercial concreta. En los casos de establecimientos comerciales colectivos, la solicitud será formulada por el promotor del mismo.
+2. La solicitud deberá detallar el tipo y características principales del establecimiento que se pretende implantar o ampliar, y en caso de parque o centro comercial, las superficies dedicadas a las distintas actividades, comercial, ocio, servicios comunes etc. etc. A dicha solicitud habrá de acompañarse:
+a) Memoria de la instalación, suscrita por técnico competente, en la que, como mínimo, se describirá el tipo de establecimiento o establecimientos que se pretendan implantar, o ampliar, con expresión de su emplazamiento, superficie total a construir y superficies de exposición y venta al público, cubiertas o no, así como, en su caso, los locales y las superficies dedicadas a actividades no comerciales (restauración, hostelería, ocio, cultura, etc.); planos de situación, de planta y alzados y de secciones, de distribución de zonas, de accesos de los establecimientos y de aparcamientos previstos, presupuesto, global y por capítulos, de la inversión y financiación necesaria para ejecutar el proyecto, forma y plazo para su ejecución.
+b) Certificación del ayuntamiento en donde se pretende instalar o ampliar el establecimiento comercial que acredite la compatibilidad de la actuación con la calificación urbanística del suelo, conforme al planeamiento urbanístico en vigor.
+c) Declaración de impacto ambiental del proyecto, en su caso, efectuada por la autoridad competente en la materia, que tendrá carácter vinculante en caso de ser desfavorable.
+d) Informes suscritos por técnicos competentes sobre:
+Estimación de las emisiones de CO2 consecuencia de la instalación del establecimiento. Reglamentariamente se establecerán los porcentajes admisibles de tales emisiones, que en ningún caso podrán ser superiores a la media de emisiones de CO2 del ámbito en donde se localice el proyecto.
+Previsiones de ahorro en el consumo energético con incidencia en las redes preexistentes.
+Previsión de soluciones de conexión y acceso, incluyendo, en su caso, los compromisos a asumir por los promotores en orden a ejecutar a su costa las infraestructuras de conexión, acceso y estacionamientos, así como terminarlas antes de la puesta en funcionamiento del centro.
+Se modifica por el art. 5.12 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 14
+
+Artículo 14. Instrucción del procedimiento de licencia comercial autonómica.
+1. La tramitación de la solicitud de licencia comercial específica se ajustará al procedimiento administrativo común, sin perjuicio de las particularidades establecidas en la presente Ley, siendo la Dirección General competente en materia de comercio el órgano encargado de instruir el procedimiento.
+2. La solicitud de licencia y la documentación administrativa complementaria serán sometidas a informe del órgano competente en materia de defensa de la competencia. La tramitación del expediente administrativo proseguirá si transcurriese un mes sin haberse remitido dicho informe.
+3. Igualmente, se solicitarán los informes siguientes:
+Sobre la integración del establecimiento en el entorno urbano y el impacto paisajístico, emitido por la Dirección General de la Comunidad Autónoma competente en materia de urbanismo.
+Sobre la incidencia del proyecto en el patrimonio histórico artístico, emitido por la Dirección General de la Comunidad Autónoma competente en dicha materia, que tendrá carácter vinculante en caso de ser negativo.
+Sobre la movilidad y su incidencia en la red viaria, la accesibilidad del establecimiento comercial y la dotación de aparcamientos, emitido por la autoridad o autoridades que tengan atribuida la competencia en materia de red viaria.
+Sobre la existencia de medios de transporte público colectivo suficientes para atender los flujos de público, emitido por la autoridad o autoridades competentes en materia de transporte público.
+4. Los informes enumerados en el apartado 3 tendrán carácter vinculante en caso de ser desfavorables y serán emitidos por los centros directivos citados en el plazo máximo de un mes, sin perjuicio de la posibilidad de que el órgano competente para resolver el procedimiento de licencia comercial autonómica, pueda suspender el plazo de los trámites sucesivos por considerarlos determinantes para dictar resolución, de acuerdo con lo dispuesto en el artículo 83.3 de la Ley 30/1992, de 26 de noviembre.
+5. Igualmente, se someterá el expediente a informe de los ayuntamientos sobre los que se prevea la generación del impacto correspondiente, relativo a la idoneidad del proyecto en el desarrollo de la oferta comercial en el municipio o sobre cualquier otra cuestión relacionada con las competencias municipales. Tales informes serán emitidos en el plazo de un mes, y en caso de no emitirse en dicho plazo se continuará el expediente.
+6. Asimismo, el órgano instructor podrá recabar cuantos otros informes se estimen oportunos para la más adecuada resolución de la solicitud formulada.
+Se modifica por el art. 5.13 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 15
+
+Artículo 15. Resolución administrativa.
+1. El otorgamiento o la denegación de la licencia comercial autonómica corresponde a la Dirección General competente en materia de comercio.
+2. La resolución será adoptada en el plazo máximo de seis meses, contados desde el día en que la solicitud y la documentación exigida tengan entrada en el registro del órgano competente para su tramitación. Transcurrido dicho plazo sin haberse adoptado resolución expresa se entenderá estimada la solicitud de la licencia comercial por silencio administrativo.
+3. La licencia comercial autonómica solo podrá denegarse si la instalación o ampliación del establecimiento comercial lesionan el interés general sin posibilidad de adopción de condicionamientos o medidas correctoras que preserven el citado interés general. En otro caso, podrá concederse de forma condicionada al cumplimiento de tales condicionamientos o medidas, sin perjuicio de la existencia de informes desfavorables de los exigidos en el artículo 14.3.
+4. La resolución denegatoria vinculará a los ayuntamientos, que no podrán conceder las licencias municipales correspondientes.
+5. La tramitación del procedimiento de la licencia comercial autonómica estará sujeta al pago de la tasa que en cada momento establezca la legislación autonómica reguladora de esta materia.
+Se modifica por el art. 5.14 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 16
+
+Artículo 16. Coordinación con la Administración municipal.
+1. La Administración municipal que recibiere solicitudes de licencias de actividades y obras en relación con establecimientos que requieran la previa licencia comercial autonómica que se regula en esta ley, suspenderá su tramitación hasta tanto se acredite el otorgamiento de dicha licencia comercial.
+2. La Dirección General competente en materia de comercio notificará al ayuntamiento correspondiente la resolución que adopte sobre las solicitudes de licencia comercial específica que se le planteen. Igual obligación incumbe a la Administración municipal respecto de la Administración autonómica en relación con las resoluciones que adopte concediendo o denegando las licencias municipales de actividades y de obras relativas a los establecimientos que requieren licencia comercial específica de acuerdo con esta Ley.
+3. En todo caso, habrán de comunicarse a la Administración regional las condiciones a que se subordinen las licencias municipales, incluidos los plazos de ejecución de los proyectos de obras e instalaciones.
+
+### Artículo 17
+
+Artículo 17. Caducidad de la licencia comercial autonómica.
+1. La licencia comercial autonómica tendrá vigencia indefinida.
+2. No obstante, la Dirección General competente en materia de comercio, podrá declarar de oficio su caducidad, por causa imputable al interesado, tras la tramitación del procedimiento correspondiente con audiencia del titular, en los siguientes supuestos:
+a) Cuando en el plazo determinado en la licencia urbanística, desde su concesión para el comienzo de las obras, no hayan iniciado las mismas.
+b) Cuando transcurrido el plazo determinado en la licencia urbanística desde su concesión para la finalización de las obras, no hayan finalizado las mismas.
+c) Cuando transcurridos 24 meses desde la obtención de la licencia comercial autonómica para el desarrollo de la actividad objeto de la presente Ley, no haya tenido lugar el ejercicio efectivo de la actividad comercial en los términos contenidos en la autorización.
+3. La declaración de caducidad no supone el decaimiento de los derechos del solicitante, que podrá formular nueva solicitud.
+Se modifica por el art. 5.15 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+## CAPÍTULO III
+
+Plan de Equipamientos Comerciales
+Se suprime por el art. 5.16 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 18
+
+Artículo 18. Naturaleza jurídica.
+El Plan de Equipamientos Comerciales es el instrumento para la ordenación de la localización de los equipamientos comerciales en el territorio de la Región de Murcia, sin perjuicio de los instrumentos previstos en otras normas de urbanismo y ordenación del territorio, reguladoras de otros tipos de planeamiento territorial.
+
+### Artículos 18 a 26
+
+Artículos 18 a 26.
+(Derogados)
+Se derogan por el art. 5.16 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 19
+
+Artículo 19. Objetivos.
+1. El objetivo general del Plan de Equipamientos Comerciales es la ordenación de la localización de los establecimientos comerciales sujetos a licencia comercial específica, con el fin de compatibilizar el modelo territorial de la ciudad con el principio de diversidad comercial, tanto en formatos como en enseñas, sujeto a la sostenibilidad, actual y futura, del comercio de proximidad, maximizador de la función de utilidad comercial, en bienes cotidianos, de aquellos consumidores que tienen una especial relación de dependencia comunicacional de los transportes urbanos.
+2. De acuerdo con este criterio general, para elaborar y ejecutar el Plan deben constituir sus objetivos específicos:
+a) Evaluar la oferta comercial disponible en la Región de Murcia, tanto en lo referente al número de establecimientos como a la superficie total de venta, desglosada por municipios y, en su caso, otros ámbitos territoriales de actuación y por sectores de actividad de comercio minorista de bienes cotidianos y de compra ocasional.
+A efectos del Plan de Equipamientos Comerciales, el equipamiento comercial está constituido por la dotación de establecimientos comerciales, tanto de carácter individual como colectivo, de los municipios de la Región de Murcia.
+b) Evaluar el gasto comercializable del conjunto de la población regional, igualmente desglosada por municipios y otros ámbitos territoriales de actuación y por grupos de gasto en bienes cotidianos y ocasionales, excluido el gasto en automoción y carburantes.
+c) Establecer los déficit y los superávit de equipamiento comercial en cada ámbito territorial, a partir de parámetros estimados de balance comercial, lo cual debe permitir contrastar la oferta y la demanda.
+d) Potenciar determinadas zonas territoriales y núcleos escogidos por el Plan para corregir desequilibrios territoriales desde el punto de vista del equipamiento comercial.
+e) Establecer la corrección de los déficit de equipamientos comerciales que permita evitar desplazamientos de la población, especialmente en cuanto a la compra cotidiana.
+f) Establecer acciones de fortalecimiento de las áreas comerciales predeterminadas en cada zona de influencia.
+
+### Artículo 20
+
+Artículo 20. Estructura.
+El Plan de Equipamientos se compone de dos documentos básicos:
+a) Una memoria descriptiva de la situación del sector de la distribución en la Región de Murcia que incorpora toda la información estadística pertinente, tanto la disponible como la generada específicamente para el Plan, así como la metodología y modelos utilizados.
+b) Un documento normativo, elaborado de acuerdo a lo previsto en la presente Ley.
+
+### Artículo 21
+
+Artículo 21. Contenido.
+1. Criterios de ordenación espacial.
+A) El Plan de Equipamientos Comerciales considera el municipio como unidad básica de actuación para la ordenación espacial del comercio en la Región de Murcia.
+No obstante, también podrán considerarse otros ámbitos territoriales o áreas comerciales de actuación, a efectos de la determinación de los déficit o superávit de equipamiento comercial.
+B) Para la ordenación espacial del comercio en la Región de Murcia se establecen los ámbitos territoriales y entidades de población siguientes:
+a) Municipios con población censada hasta a 11.000 habitantes.
+b) Municipios con población censada comprendida entre 11.001 y 35.000 habitantes.
+c) Municipios con población censada superior a 35.000 habitantes.
+2. Criterios para potenciar la diversidad comercial en los pequeños y medianos municipios (apartados a y b).
+El Plan de Equipamientos Comerciales podrá establecer criterios para potenciar la diversidad comercial, tanto en formatos como en enseñas, por municipios, diputaciones o pedanías, u otros ámbitos territoriales que se consideren, en términos de sostenibilidad comercial.
+3. Criterios de ubicación de nuevas implantaciones. El Plan de Equipamientos Comerciales podrá fijar criterios para la ubicación de nuevas implantaciones de grandes establecimientos comerciales, con el fin de optimizar situaciones puntuales en términos de diversidad y sostenibilidad comercial.
+A) Tendrán prioridad para su aprobación aquellos proyectos de grandes establecimientos comerciales que lleven incorporada galería comercial y oferta complementaria de ocio y otros servicios (como gasolineras, cines, restauración y otros) fundamentalmente en los casos de establecimientos de compra cotidiana, así como los que, con esas características, se propongan en municipios pequeños o medianos.
+B) El Plan de Equipamientos Comerciales podrá establecer otros criterios de evaluación de las nuevas implantaciones de grandes establecimientos comerciales en función de su impacto en el área de influencia, en especial en el ámbito del urbanismo comercial, así como en función de otros criterios, como protección de los consumidores, defensa de la libre competencia, consecución de determinados objetivos en materia de política social como la creación de empleo y protección del entorno urbano en cascos históricos frente a situaciones indeseadas de deslocalización comercial.
+
+### Artículo 22
+
+Artículo 22. Tramitación y aprobación.
+1. El Plan de Equipamientos Comerciales será aprobado por el Consejo de Gobierno a propuesta de la Consejería competente en materia de comercio, a quien corresponde también su elaboración, y adoptará la forma de Decreto, que se publicará en el Boletín Oficial de la Región para general conocimiento.
+2. El Plan de Equipamientos Comerciales debe someterse a informe de las Consejerías competentes en materia de ordenación del territorio, de urbanismo y de medio ambiente, del Consejo Asesor Regional de Comercio y también se someterá a información pública por plazo de un mes, y por idéntico plazo se realizará un trámite de audiencia para los ayuntamientos.
+
+### Artículo 23
+
+Artículo 23. Ejecución.
+El Plan de Equipamientos Comerciales debe ejecutarse mediante:
+a) La aprobación y revisión de los instrumentos de planeamiento urbanístico: planes generales, normas subsidiarias, planes parciales, planes especiales, programas de actuación urbanística o figuras que los sustituyan.
+b) El otorgamiento de las licencias comerciales, de acuerdo con lo establecido en la legislación vigente.
+
+### Artículo 24
+
+Artículo 24. Vigencia y revisión.
+1. La vigencia del Plan de Equipamientos Comerciales es indefinida.
+2. Si se producen circunstancias que modifiquen sustancialmente la estructura de la oferta o la demanda comerciales, puede realizarse su revisión anticipada, general o parcial.
+3. Para la revisión del Plan de Equipamientos Comerciales es preciso tener en cuenta, especialmente:
+a) La evolución de los hábitos de compra y consumo de la población.
+b) La evolución en la composición de la oferta comercial, de las distintas tipologías de establecimientos, formatos y enseñas.
+c) El impacto producido por la implantación de grandes superficies en el comercio de proximidad, especialmente en los centros históricos tradicionales, para evitar, específicamente, el fenómeno de la desertización comercial, cultural y de ocio.
+
+### Artículo 25
+
+Artículo 25. Suspensión de licencias.
+El Consejo de Gobierno puede suspender el otorgamiento de las licencias comerciales en la Región de Murcia, por el periodo de un año, prorrogable por seis meses más, si se elabora o revisa el Plan de Equipamientos Comerciales.
+
+### Artículo 26
+
+Artículo 26. Carácter vinculante.
+El Plan de Equipamientos Comerciales tiene carácter vinculante para las administraciones públicas en general y, en especial, para la Administración regional, las administraciones locales, las personas promotoras y las empresas comerciales.
+a) La Administración regional debe tener en cuenta lo que dispone el Plan de Equipamientos Comerciales en los procedimientos de elaboración y tramitación del planeamiento urbanístico y en el procedimiento de licencia comercial específica previsto en esta Ley.
+b) Las administraciones locales deben seguir las determinaciones del Plan de Equipamientos Comerciales en el planeamiento urbanístico, así como en el otorgamiento de las licencias de edificación y de actividad de establecimientos comerciales cuando proceda la obtención de la licencia comercial específica con arreglo a esta Ley.
+c) Las personas promotoras y las empresas comerciales deben ajustarse a lo que dispone el Plan de establecimientos comerciales al solicitar las licencias de edificación y de actividad de grandes establecimientos comerciales.
+
+## TÍTULO III
+
+Obligaciones de los comerciantes minoristas
+
+### Artículo 27
+
+Artículo 27. Obligaciones genéricas.
+Los comerciantes minoristas habrán de cumplir los siguientes deberes:
+a) Con carácter general, los establecidos por las normas relativas a los bienes cuya venta ofrecen. En especial han de cumplir las normas relativas a la composición de los productos, etiquetado y de seguridad de los mismos, así como las especiales del sector o sectores comerciales que constituyan el objeto de su actividad y retirar de su establecimiento los bienes que no cumplieren tales normas.
+b) Acreditar ante la Administración competente estar en posesión de las autorizaciones y licencias que les sean exigibles.
+c) Hallarse al corriente en el pago de los tributos de cualquier clase de los que resulten sujetos pasivos.
+d) Cumplir las normas de protección de los derechos de los consumidores y usuarios.
+e) Los comerciantes minoristas, o sus representantes, deberán atender y cumplir los requerimientos que la Administración competente y sus agentes les dirijan en orden al cumplimiento de las normas legales y resoluciones administrativas relativas a la actividad comercial que ejerciten.
+
+### Artículo 28
+
+Artículo 28. Obligaciones básicas frente a los consumidores.
+Los comerciantes minoristas o sus representantes, conforme a lo dispuesto en el Estatuto de Consumidores y Usuarios de la Región de Murcia y su normativa de desarrollo, y sin perjuicio de ésta, deberán:
+a) Exhibir junto a los artículos sus correspondientes precios de venta al público.
+b) Entregar factura, recibo o documento acreditativo de la operación realizada conforme establezca la legislación vigente en materia de protección de los consumidores.
+c) Tener a disposición de los consumidores hojas de reclamaciones y exhibir un cartel, preferentemente el modelo establecido en el anexo III del Decreto n.º 3/2014, de 31 de enero, por el que se regula el sistema unificado de reclamaciones de los consumidores y usuarios en la Comunidad Autónoma de la Región de Murcia.
+d) Realizar sus actividades promocionales sin incurrir en formas de publicidad ilícita, en particular, sin incurrir en publicidad engañosa.
+e) Contratar con los consumidores sin existencia de cláusulas abusivas.
+f) Comercializar artículos seguros y con un adecuado servicio de asistencia técnica.
+Se modifica la letra c) por el art. 25.1 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#a2
+
+### Artículo 29
+
+Artículo 29. Exhibición de precios.
+1. El precio deberá figurar junto a todos los artículos ofertados a la venta.
+2. Junto al precio del artículo deberá figurar también el precio por unidad de medida de los productos conforme a la normativa de aplicación.
+3. En los productos vendidos a granel sólo se indicará el precio por unidad de medida.
+4. En la venta conjunta de dos o más artículos iguales, deberá figurar también su precio por unidad.
+5. En las actividades promocionales de ventas deberá figurar el precio de venta conforme a lo dispuesto en todos los artículos anteriores junto al precio de venta anterior.
+6. Los precios deberán indicarse de modo directo, legible, exacto y completo:
+– De modo directo: figurando en el artículo o junto a él, siempre dentro del mismo campo visual que ocupe en la exposición de venta.
+– De modo exacto: se prohíbe toda forma de exhibición de precio que obligue a realizar cálculos aritméticos para determinar su cuantía, excepto la aplicación de porcentajes de descuento sobre el precio indicado.
+– De modo completo: incluyendo el importe de los incrementos o descuentos aplicables en su caso y cuantos tributos puedan o deban repercutirse en el consumidor.
+Se modifica el apartado 6 por el art. 25.2 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#a2
+
+### Artículo 30
+
+Artículo 30. Excepciones al deber de indicación directa del precio.
+La Dirección General competente en materia de comercio podrá dispensar de la obligación de información directa sobre el precio de los artículos ofertados en venta, si el interesado u organizaciones representativas del sector afectado acreditan razones de seguridad del establecimiento u otras que se juzguen objetivamente atendibles, previo informe del Consejo Asesor Regional de Consumo.
+
+### Artículo 31
+
+Artículo 31. Indicación del precio de servicios accesorios.
+1. La exhibición de precios podrá completarse con información adicional sobre condiciones de financiación o aplazamiento de pago, coste de servicios accesorios o similares.
+2. Esta información deberá ser veraz, eficaz y suficiente.
+
+## TÍTULO IV
+
+De la comunicación e inscripción de las ventas a distancia
+Se modifica por el art. 5.17 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículos 32 a 35
+
+Artículos 32 a 35.
+(Derogados).
+Se derogan por el art. 25.4 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#a2
+
+### Artículo 32
+
+Artículo 32. Concepto.
+1. Se considerarán ventas a distancia, conforme al artículo 38 de la Ley 7/96, de 15 de enero, de Ordenación del Comercio Minorista, las celebradas sin la presencia física simultánea del comprador y del vendedor, siempre que su oferta y aceptación se realicen de forma exclusiva a través de una técnica cualquiera de comunicación a distancia y dentro de un sistema de contratación a distancia organizado por el vendedor, y en particular las siguientes técnicas de contratación a distancia: catálogo impreso, sin o con destinatario, carta normalizada, publicidad en prensa con cupón de pedido, teléfono, radio, televisión, visiófono (teléfono con imagen) videotexto y fax (telecopia).
+2. La regulación establecida en la presente ley para las ventas a distancia no será de aplicación a las actividades de prestación de servicios de la sociedad de la información y comercio electrónico.
+3. Cuando la contratación a distancia de bienes o servicios se lleve a cabo a través de medios electrónicos, se aplicará preferentemente la normativa específica sobre servicios de la sociedad de la información y comercio electrónico.
+
+### Artículo 33
+
+Artículo 33. Comunicación e inscripción.
+1. Las empresas de venta a distancia que tengan en la Región de Murcia su domicilio social deberán comunicar el inicio de la actividad al Registro de Ventas a Distancia de la Región de Murcia dependiente de la Dirección General competente en materia de comercio, en el plazo de tres meses desde que este se produjo.
+2. Las comunicaciones serán dirigidas a la Dirección General citada y se llevarán a cabo según el modelo oficial aprobado por la Consejería competente en la materia y publicado en el "Boletín Oficial de la Región de Murcia", que recogerá los datos siguientes: Descripción de la actividad a realizar, relación de productos o servicios que configuran la oferta comercial, ámbito de actuación, clase o clases de medios de comunicación para transmitir las propuestas de contratación y para recibir la aceptación de los clientes, así como la referencia al sistema comercial previsto para atender las reclamaciones de los consumidores y para atender el ejercicio, por parte de los mismos, del derecho de desistimiento o revocación en las ventas a distancia.
+3. La Dirección General competente en la materia acusará recibo de las comunicaciones dirigidas por las empresas de venta a distancia, y notificará a aquellas su inscripción en el Registro de Comerciantes Minoristas de Ventas a Distancia de la Región de Murcia, conforme a lo establecido en el artículo 34 de esta Ley. Todo ello sin perjuicio de las facultades de comprobación de la citada Dirección General, conforme a lo establecido en la Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+4. Contra la resolución denegatoria de la inscripción en el Registro citado podrá interponerse recurso de alzada ante el consejero competente en materia de comercio.
+5. La inscripción podrá cancelarse por el cese en la actividad de la empresa o por incumplimiento sobrevenido de los requisitos establecidos por la normativa aplicable.
+6. Las empresas de ventas a distancia vendrán obligadas a comunicar a la citada Dirección General, de acuerdo con el modelo oficial que así mismo se establezca, las modificaciones que se produzcan respecto de los datos declarados en la comunicación del inicio de la actividad.
+Se modifica por el art. 5.18 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 34
+
+Artículo 34. Registro de Comerciantes Minoristas de Ventas a Distancia de la Región de Murcia.
+1. Se crea el Registro de Comerciantes Minoristas de Ventas a Distancia de la Región de Murcia, que dependerá orgánicamente de la Dirección General competente en materia de comercio, y tendrá carácter público y naturaleza administrativa. Se inscribirán en el mismo de oficio tanto las comunicaciones de inicio de actividad y sus modificaciones como las cancelaciones.
+2. La obligación de inscripción estará referida a las empresas de ventas a distancia que tengan su domicilio social en la Región de Murcia.
+3. La inscripción comprenderá los datos relativos a la identificación de la empresa, el domicilio social, las técnicas de contratación a distancia, los productos o servicios que configuran su oferta comercial, su ámbito de actuación y el lugar al cual puedan dirigir sus reclamaciones los consumidores.
+4. El Registro deberá estar coordinado con los de naturaleza igual o similar organizados por la Administración General del Estado.
+5. Se incorporarán a este Registro los medios técnicos e informáticos adecuados, con las limitaciones que para la utilización de estos medios y para el acceso a los documentos relativos a materias protegidas por el secreto comercial o industrial establecen las leyes.
+Se modifican los apartados 1, 3 y 4 por el art. 5.19 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 35
+
+Artículo 35. Obligaciones de las empresas inscritas en el Registro.
+1. Las empresas de venta a distancia comunicarán a la Dirección General competente en la materia, en plazo de tres meses desde que se produzcan, las modificaciones ocasionadas respecto de los datos declarados en la comunicación del inicio de la actividad que sirvieron de base para la inscripción en el Registro, y especialmente en los siguientes supuestos:
+a) Las que afecten a la naturaleza de la empresa o signifiquen cambio de su objeto, orientación o actividad de venta.
+b) Las modificaciones en la composición y estructura de sus órganos de gobierno, y los datos de identificación correspondientes, en su caso, de los nuevos administradores.
+c) Los cambios de domicilio social y la apertura o cierre de establecimientos.
+2. Las empresas de venta a distancia deberán hacer constar en sus anuncios comerciales los datos relativos al registro y su número de identificación nacional y autonómica.
+Se modifica por el art. 5.20 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+## TÍTULO V
+
+Horarios comerciales
+
+## CAPÍTULO I
+
+Régimen general
+
+### Artículo 36
+
+Artículo 36. Competencia.
+Corresponde a la Consejería competente en materia de comercio la regulación de los horarios para la apertura y cierre de los locales comerciales en la Región de Murcia con sujeción a los principios generales establecidos en la normativa estatal básica que se dicte en cada momento y a lo dispuesto en la presente Ley.
+
+### Artículo 37
+
+Artículo 37. Horario semanal y diario.
+El horario de apertura y cierre de los establecimientos comerciales de venta al público será de libre fijación por la empresas minoristas en todo el territorio de la Comunidad Autónoma de la Región de Murcia, sin perjuicio de los derechos reconocidos a los trabajadores en el régimen laboral.
+Se modifica por el art. 1.2 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#ap.
+ Se modifica por el art. 1.2 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+ Se modifica por el art. único.3 de la Ley 11/2012, de 27 de diciembre. Ref. BOE-A-2013-1874.
+
+### Artículo 38
+
+Artículo 38. Régimen de apertura en domingos y días festivos.
+1. El número de domingos y días festivos en los que los comercios podrán permanecer abiertos al público en la Comunidad Autónoma de la Región de Murcia será de 14 días en el año 2017, 15 días en el año 2018 y 16 días a partir del año 2019.
+2. De acuerdo con lo dispuesto en el apartado anterior, corresponde a la consejería competente en materia de comercio, previa consulta a las asociaciones y organizaciones más representativas del sector, así como al Consejo Asesor Regional de Comercio, fijar para cada año, mediante orden, los domingos y días festivos en los que los establecimientos comerciales podrán permanecer abiertos al público en la Región de Murcia. La orden correspondiente se publicará en el Boletín Oficial de la Región de Murcia para general conocimiento con anterioridad al comienzo del año a que se refiera.
+Para la fijación de los domingos y días festivos regionales en los que podrán permanecer abiertos al público los comercios, habrá que ajustarse al siguiente orden de criterios atendiendo al carácter comercial de los mismos:
+a) La apertura obligatoria, por lo menos, en un día festivo cuando se produzca la coincidencia de dos o más días festivos continuados. Cuando se produzca la coincidencia de dos o más días festivos continuados y uno de ellos sea sábado, será de obligado cumplimiento autorizar la apertura del sábado.
+b) La apertura de los primeros domingos de los períodos tradicionales de rebajas: el primer domingo posterior al 6 de enero y el primer domingo de julio.
+c) La apertura de los domingos y festivos de más afluencia turística en la Comunidad Autónoma. Con carácter general, tendrá esta consideración Jueves Santo cuando este sea festivo.
+d) La apertura en los domingos o festivos de la campaña de Navidad.
+3. Los ayuntamientos podrán permutar dos de los domingos y festivos habilitados en el calendario regional por otros en atención a sus necesidades comerciales. La permuta será obligatoria para el ayuntamiento en caso de coincidencia de dos o más festivos continuados no aperturables comercialmente en su municipio, y en los supuestos en que uno de los festivos sea sábado el ayuntamiento deberá permutar éste por uno de los festivos de apertura comercial autorizada a nivel regional.
+El ayuntamiento comunicará su decisión a la dirección general competente en materia de comercio con una antelación mínima de dos meses. A dicha permuta se le dará la debida publicidad por parte de la propia Administración municipal para general conocimiento de los comerciantes y consumidores de su término.
+4. El horario de apertura de cada domingo y día festivo será libremente fijado por el comerciante.
+Se modifican los apartados 2 y 3 por la disposición final 2.2 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifica el apartado 1 por el art. 1.3 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#ap.
+ Se modifica el apartado 1 por el art. 1.3 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+ Se modifica por el art. único.4 de la Ley 11/2012, de 27 de diciembre. Ref. BOE-A-2013-1874.
+
+### Artículo 39
+
+Artículo 39. Información sobre horarios.
+En los establecimientos comerciales deberán exponerse los días de apertura semanal y los horarios de apertura y cierre, de forma perfectamente visible, tanto en el interior como en el exterior del establecimiento, incluso cuando el local esté cerrado.
+Se modifica por el art. único.5 de la Ley 11/2012, de 27 de diciembre. Ref. BOE-A-2013-1874.
+
+## CAPÍTULO II
+
+Establecimientos comerciales con libertad de horario
+
+### Artículo 40
+
+Artículo 40. Establecimientos con régimen especial de horarios.
+1. Tendrán plena libertad para determinar los días y horas en que permanecerán abiertos al público los establecimientos comerciales siguientes:
+a) Los establecimientos dedicados principalmente a la venta de pastelería y repostería, pan, platos preparados, prensa, combustibles y carburantes, floristerías y plantas, y las denominadas tiendas de conveniencia, así como las instaladas en puntos fronterizos, en estaciones y medios de transporte terrestre, marítimo o aéreo y en zonas de gran afluencia turística.
+b) Los establecimientos de venta de reducida dimensión distintos de los anteriores que dispongan de una superficie útil para la exposición y venta al público inferior a 300 metros cuadrados, excluidos los pertenecientes a empresas o grupos de distribución que no tengan la consideración de pequeña y mediana empresa según la legislación vigente.
+c) Los establecimientos dedicados exclusivamente a la venta de productos culturales. La enumeración de los productos culturales a estos efectos será establecida mediante orden de la consejería competente en materia de comercio.
+2. Se entenderá por tiendas de conveniencia aquellas que, con una superficie útil para la exposición y venta al público no superior a 500 metros cuadrados, permanezcan abiertas al público al menos dieciocho horas al día y distribuyan su oferta, en forma similar, entre libros, periódicos y revistas, artículos de alimentación, productos o material audiovisual e informático, juguetes, regalos y artículos varios, sin exclusión de ninguna de ellas, y sin que predomine netamente una sobre las demás.
+3. Las oficinas de farmacia, así como los estancos, se regirán por su normativa específica, aplicándose en su defecto las disposiciones de esta ley.
+Se modifica por el art. único.6 de la Ley 11/2012, de 27 de diciembre. Ref. BOE-A-2013-1874.
+
+### Artículo 41
+
+Artículo 41. Zonas de gran afluencia turística.
+1. Para la declaración de zonas de gran afluencia turística de términos municipales o parte de los mismos se considerarán circunstancias especiales, que, en determinados períodos del año, la media ponderada anual de población sea significativamente superior al número de residentes, o en los que tenga lugar una gran afluencia de visitantes por motivos turísticos.
+2. La determinación de las zonas de gran afluencia turística, así como el período o períodos a que se limite la aplicación del régimen de libertad de horarios, será establecido mediante orden de la consejería competente en materia de comercio, a propuesta de los ayuntamientos correspondientes oídas las asociaciones y organizaciones más representativas del sector.
+Se modifica por el art. único.7 de la ley 11/2012, de 27 de diciembre. Ref. BOE-A-2013-1874.
+
+## TÍTULO VI
+
+Actividades promocionales de ventas
+
+## CAPÍTULO I
+
+Objeto
+
+### Artículo 42
+
+Artículo 42. Delimitación de las actividades promocionales de ventas.
+1. A los efectos de esta Ley, se considerará actividad promocional de venta toda actuación imputable al comerciante minorista que sea objetivamente apta para suscitar en el consumidor final la imagen de que, adquiriendo los artículos objeto de la misma, obtendrá una reducción en su precio respecto del anteriormente practicado por el comerciante minorista o respecto del anterior o del actualmente aplicado por sus competidores, condiciones más favorables que las habituales o cualquier otro tipo de ventaja económica.
+2. En concreto tendrán la consideración de actividades promocionales de ventas las ventas en rebajas, las ventas en oferta o promoción, las ventas de saldos, las ventas en liquidación, las ventas con obsequio y las ofertas de venta directa.
+3. Las denominaciones antes señaladas únicamente podrán emplearse para anunciar las ventas que se ajusten a la regulación establecida en la legislación estatal y en la presente Ley, quedando expresamente prohibida la utilización de las citadas denominaciones u otras similares para anunciar ventas que no respondan al correspondiente concepto legal.
+4. La existencia de la actividad promocional será determinada, principalmente, atendiendo a su forma de presentación, de expresión y de difusión publicitaria, prestando especial relevancia al uso de expresiones gramaticales o gráficas aptas para sugerir en el consumidor la existencia de ventajas económicas al adquirir los artículos.
+5. Las actividades de promoción de ventas podrán simultanearse en un mismo establecimiento comercial, excepto en los supuestos de venta en liquidación, siempre y cuando exista la debida separación entre ellas y se respeten los deberes de información.
+Se añade el apartado 5 por el art. único.8 de la Ley 11/2012, de 27 de diciembre. Ref. BOE-A-2013-1874.
+
+### Artículo 43
+
+Artículo 43. Criterios especiales.
+1. Las actividades promocionales de ventas se regirán por la legislación estatal de ordenación del comercio minorista salvo en lo previsto en esta Ley.
+2. El presente título y los artículos 19 y 20 de la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, no serán aplicables a la actividad comercial principal, habitual y ordinaria de venta de artículos cuyo valor de mercado aparezca manifiestamente disminuido a causa del deterioro, desperfecto, desuso u obsolescencia de los mismos.
+
+## CAPÍTULO II
+
+Requisitos de las actividades promocionales de ventas
+
+### Artículo 44
+
+Artículo 44. Requisitos generales.
+Toda actividad promocional de ventas, salvo la venta de saldos, deberá reportar al consumidor final ventajas económicas reales. Corresponderá al comerciante minorista acreditar ante la Administración competente la realidad de tales ventajas.
+
+### Artículo 45
+
+Artículo 45. Requisitos específicos.
+Las actividades promocionales de ventas deberán ajustarse a los siguientes requisitos:
+a) El comerciante minorista habrá de procurar información clara, veraz y suficiente sobre el contenido y las condiciones de sus actividades promocionales. Quedan a salvo las normas en materia de integración publicitaria del contrato a favor de los consumidores finales. La información y la publicidad relativa a las actividades no podrá contener cláusulas abusivas y en particular de desvinculación basadas en errores tipográficos y, en general, de imprenta.
+b) El comerciante minorista al que sea imputable la actividad deberá informar sobre el día inicial y final de la misma en su establecimiento y en la difusión publicitaria que, en su caso, realice respecto de la citada actividad.
+c) La disponibilidad y existencias de los productos objeto de la actividad promocional habrá de ser suficiente. Dicha suficiencia será valorada de acuerdo con el contenido de la actividad y, en especial, se atenderá a las características de los productos, el periodo de duración de la oferta de venta, el contenido de las ventajas y el número de los potenciales consumidores destinatarios. Si la actividad promocional quedara limitada al agotamiento de los productos destinados a la misma, el comerciante minorista habrá de informar claramente sobre el número total de unidades objeto de la actividad.
+d) La actividad promocional por la que se garantice el precio mejor o el más bajo respecto a la totalidad o parte de los productos objeto de venta en un mismo establecimiento mediante entrega al comprador de la diferencia entre el precio pagado por éste y el menor aplicado por un competidor indeterminado, deberá ofrecer al comprador un plazo mínimo de quince días naturales, desde la fecha de la compra, para solicitar la entrega de la diferencia entre ambos precios. El precio más bajo del competidor será el señalado por el comprador dentro del citado plazo de quince días.
+
+### Artículo 46
+
+Artículo 46. Medios de pago.
+El comerciante que practique cualquier tipo de venta tendrá la obligación de informar al consumidor sobre los medios de pago admisibles en la operación, a través de su publicidad general en la exposición visible desde el exterior del establecimiento.
+Se modifica por el art. 25.3 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#a2
+
+### Artículo 47
+
+Artículo 47. Del doble precio.
+1. Toda forma de promoción o publicidad de ventas que transmita al consumidor un mensaje sugestivo sobre la diferencia de precio de determinados productos, obligará al comerciante a hacer constar en cada uno de ellos el precio ordinario con que se haya valorado el artículo con anterioridad y el precio actual.
+2. Cuando se trate de una reducción porcentual de un conjunto de artículos, bastará con el anuncio genérico de la oferta sin necesidad de que conste individualmente en cada artículo ofertado.
+
+## TÍTULO VII
+
+Consejo Asesor Regional de Comercio
+
+### Artículo 48
+
+Artículo 48. Constitución, funciones y composición del Consejo.
+1. El Consejo Asesor Regional de Comercio de la Región de Murcia es el órgano consultivo de la Administración regional competente en la citada materia, de conformidad con la Ley 9/1985, de 10 de diciembre, de los Órganos Consultivos de la Administración Regional, modificada por la Ley 1/1994, de 29 de abril.
+2. Serán funciones del citado Consejo las siguientes:
+a) Evacuar los informes y consultas sobre comercio que le sean solicitados por cualquiera de las administraciones competentes en dicha materia.
+b) Informar cuantos proyectos de leyes y demás disposiciones elabore el Gobierno regional relacionadas con el sector comercial.
+c) Elaborar un informe anual sobre la situación comercial de la Región de Murcia.
+d) Cualquier otra que reglamentariamente se establezca.
+3.1. La composición del Consejo Asesor Regional de Comercio de la Región de Murcia será la siguiente:
+a) Presidente: el Consejero competente en materia de comercio.
+b) Vicepresidente: el Director General competente en materia de comercio.
+c) Vocales:
+- Tres representantes de las Consejerías de la Administración regional cuyas competencias tengan relación con las funciones del Consejo, nombrado por el Consejo de Gobierno, a propuesta del Presidente.
+– Un representante de la Confederación Regional de Organizaciones Empresariales de Murcia perteneciente al sector comercial, designado por la misma.
+– Un representante de la Confederación Comarcal de Organizaciones Empresariales de Cartagena perteneciente al sector comercial, designado por la misma.
+– Un representante de la Confederación de Empresarios de Lorca perteneciente al sector comercial, designado por la misma.
+– Un representante de cada una de las dos Centrales Sindicales mayoritarias en el sector, designados por las mismas.
+– Un representante de la Cámara Oficial de Comercio, Industria y Navegación de Murcia, designado por la misma.
+– Un representante de la Cámara Oficial de Comercio, Industria y Navegación de Cartagena, designado por la misma.
+– Un representante de la Cámara Oficial de Comercio e Industria de Lorca, designado por la misma.
+– Un representante de la Federación de Municipios de la Región de Murcia, designado por la misma.
+– Un representante de cada una de las dos Asociaciones de Consumidores y Usuarios de la Región de Murcia más representativas del sector, designados por las mismas.
+– Tres representantes de las Federaciones y/o Asociaciones de Comerciantes minoristas con mayor implantación en el sector, pertenecientes al pequeño, mediano y gran comercio, respectivamente, designados por las mismas.
+– Un representante de las Asociaciones de Supermercados de la Región de Murcia, designado por las mismas.
+– Un representante del Colegio Oficial de Agentes Comerciales, designado por el mismo.
+– Un experto externo a la Administración regional de relevante prestigio o de reconocida talla o trayectoria profesional, relacionado con la materia del comercio, designado por el Presidente del Consejo.
+d) Actuará como Secretario, con voz pero sin voto, un funcionario de la Dirección General de Comercio y Artesanía, nombrado por el Presidente.
+3.2. Se designarán tantos vocales suplentes como titulares.
+3.3. El Consejo podrá ser asistido por el personal que se estime necesario, el cual no tendrá derecho a voto.
+3.4. El Consejo podrá constituir en su seno Comisiones de Trabajo para el examen o estudio de temas específicos y concretos y para la elaboración de trabajos que se sometan a la consideración del mismo. El acuerdo de constitución de dichas Comisiones determinará su composición, vigencia, objeto y ponente o coordinador del estudio o trabajo a desarrollar.
+3.5. El Consejero competente en la materia podrá modificar la composición de este Consejo Asesor mediante Orden.
+4. El Consejo Asesor Regional de Comercio quedará adscrito a la Consejería competente en dicha materia.
+Se modifica el apartado 3 por el art. único.9 de la Ley 11/2012, de 27 de diciembre. Ref. BOE-A-2013-1874.
+
+## TÍTULO VIII
+
+Régimen sancionador
+
+## CAPÍTULO I
+
+Infracciones administrativas
+
+### Artículo 49
+
+Artículo 49. Definición y régimen.
+1. Constituyen infracciones administrativas en materia de comercio las acciones u omisiones tipificadas en la Ley 7/1996, de 15 de enero, en la Ley 47/2002, de 19 de diciembre, de reforma de la anterior, y en la presente Ley, sin perjuicio de las responsabilidades de orden civil o de orden penal que pudieran derivarse.
+2. Serán de aplicación los principios y normas básicas que condicionan el ejercicio de la potestad administrativa sancionadora, contenidas en el título IX de la Ley 30/1992, de 26 de noviembre.
+
+### Artículo 50
+
+Artículo 50. Clasificación y tipificación de las infracciones.
+1. Las infracciones se clasifican en leves, graves y muy graves.
+2. Tendrán la calificación de infracciones leves, además de las tipificadas en el artículo 64 de la Ley 7/1996, de 15 de enero, las siguientes:
+a) El incumplimiento de la obligación de informar al público sobre el horario de apertura y cierre del establecimiento.
+b) (Derogada).
+c) El incumplimiento de las normas en materia de indicación de precios y en materia de prácticas promocionales de ventas, contenidas en esta Ley.
+d) En general, el incumplimiento de las obligaciones establecidas en la presente Ley o en las normas dictadas para su desarrollo que no sean objeto de sanción específica.
+3. Tendrán la calificación de infracciones graves, además de las tipificadas en el artículo 65 de la Ley 7/1996, de 15 de enero, las siguientes:
+a) Incumplir las disposiciones administrativas relativas a la prohibición de comercializar o distribuir determinados artículos o productos.
+b) Acaparar o retirar injustificadamente artículos o productos destinados directa o indirectamente a la venta.
+4. Tendrán la calificación de infracciones muy graves las definidas como graves cuando concurra alguna de las circunstancias definidas en el artículo 66 de la Ley 7/1996, de 15 de enero.
+Se deroga el apartado 2.b) por el art. 25.4 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#a2
+
+### Artículo 51
+
+Artículo 51. Reincidencia.
+1. Se entenderá que existe reincidencia, por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
+2. No obstante, lo señalado en el párrafo anterior, para calificar una infracción como muy grave, solo se atenderá a la reincidencia en infracciones graves y la reincidencia en infracciones leves sólo determinará que una infracción de este tipo sea calificada como grave cuando se incurra en el cuarto supuesto sancionable.
+
+### Artículo 52
+
+Artículo 52. Responsabilidad administrativa.
+La responsabilidad administrativa por las infracciones tipificadas en la presente Ley corresponderá a las personas físicas o jurídicas titulares de la empresa y actividades comerciales de que se trate.
+
+### Artículo 53
+
+Artículo 53. Prescripción de las infracciones.
+Las infracciones reguladas en la presente Ley prescribirán a los seis meses las calificadas como leves, a los dos años las calificadas como graves y a los tres años las calificadas como muy graves.
+
+## CAPÍTULO II
+
+Sanciones administrativas
+
+### Artículo 54
+
+Artículo 54. Cuantía de las sanciones.
+1. Las infracciones leves serán sancionadas con apercibimiento o multa de hasta 3.000 euros.
+2. Las infracciones graves serán sancionadas con multa de 3.001 a 15.000 euros.
+3. Las infracciones muy graves serán sancionadas con multa de 15.001 a 600.000 euros.
+4. Las cuantías fijadas en los apartados precedentes podrán ser actualizadas en función de la evolución del índice de precios al consumo mediante Decreto.
+
+### Artículo 55
+
+Artículo 55. Graduación de las sanciones.
+1. La cuantía de las sanciones económicas se graduará teniendo en cuenta los criterios básicos establecidos en el artículo 131.3 de la Ley 30/1992, de 26 de noviembre, los criterios del artículo 69 de la Ley 7/1996, de 15 de enero, el grave daño causado a los intereses de los consumidores y el aprovechamiento indebido del poder de demanda de los menores.
+2. Cuando la cuantía del beneficio obtenido como consecuencia de la infracción supere la de la sanción máxima aplicable, en casos de fraude, falsificación o incumplimiento doloso de los requisitos esenciales que rigieren la comercialización de los productos, el órgano sancionador podrá incrementar la cuantía máxima de la sanción hasta el importe total del beneficio obtenido.
+
+### Artículo 56
+
+Artículo 56. Sanciones accesorias.
+1. El órgano competente para la resolución del expediente sancionador podrá acordar, como sanción accesoria, el decomiso de las mercancías falsificadas, fraudulentas, no identificadas, o que incumplan los requisitos mínimos establecidos para su comercialización. Asimismo, en el supuesto de infracciones muy graves que produzcan un grave perjuicio económico o generen una amplia alarma social, podrá acordar, como sanción accesoria en la resolución del expediente sancionador, el cierre temporal de la empresa o establecimiento infractor.
+2. Asimismo, con carácter accesorio y en caso de infracciones graves y muy graves, el órgano sancionador podrá acordar, en la resolución del expediente sancionador, la publicación en el Boletín Oficial de la Región de Murcia y a través de los medios de comunicación social, las sanciones impuestas, una vez hayan adquirido firmeza, así como los nombres, apellidos, denominación o razón social de los responsables y la naturaleza y características de las infracciones, por razones de ejemplaridad. El coste de dicha publicidad correrá de cuenta del sancionado.
+
+### Artículo 57
+
+Artículo 57. Procedimiento administrativo sancionador.
+1. La imposición de sanciones habrá de sujetarse a las normas del procedimiento administrativo sancionador establecidas en el título IX de la Ley 30/1992, de 26 de noviembre, y en sus normas complementarias de desarrollo.
+No obstante, en los procedimientos en materia sancionadora el plazo máximo para resolver el procedimiento será de seis meses desde su iniciación, en todos los casos.
+2. La Administración podrá adoptar, de forma motivada, las siguientes medidas cautelares, a fin de asegurar la eficacia de la resolución que pudiera recaer, cuando existan riesgos para la salud y la seguridad o grave riesgo de perjuicio para los intereses económicos y sociales de los consumidores y usuarios, y cuando exista riesgo de distorsión del funcionamiento del mercado:
+a) Intervención de mercancías falsificadas, fraudulentas, o no clasificadas o que incumplan los requisitos mínimos legalmente exigidos para su comercialización.
+b) Suspensión de la actividad comercial hasta que se subsanen los defectos o se cumplan los requisitos exigidos.
+c) Clausura o cierre provisional de establecimientos e instalaciones que carezcan de las preceptivas autorizaciones, mientras permanezcan en esta situación.
+3. La competencia para adoptar cualquiera de las medidas provisionales señaladas en el apartado anterior corresponderá a la Dirección General que tenga atribuida la competencia en materia de comercio.
+
+### Artículo 58
+
+Artículo 58. Órganos competentes.
+Los órganos competentes para resolver el procedimiento sancionador serán los siguientes:
+a) El director general que tenga atribuidas las competencias en materia de comercio, para sancionar las infracciones leves.
+b) El consejero que ostente la competencia en materia de comercio, para sancionar las infracciones graves.
+c) El Consejo de Gobierno para sancionar las infracciones muy graves.
+
+### Artículo 59
+
+Artículo 59. Prescripción de las sanciones.
+1. Las sanciones impuestas por infracciones leves prescribirán a los seis meses, las impuestas por faltas graves a los dos años y las impuestas por faltas muy graves a los tres años.
+2. El plazo de prescripción comenzará a contarse a partir de la firmeza de la resolución sancionadora.
+
+### Disposición adicional
+
+Disposición adicional. Planeamiento.
+1. El planeamiento urbanístico, a la hora de determinar las zonas destinadas a equipamientos comerciales, deberá tener en cuenta las necesidades de consumo y compra de los ciudadanos, la utilización racional del territorio, la sostenibilidad de los recursos naturales, las infraestructuras y servicios públicos existentes y previstos, procurando la proximidad a la población, la integración en el tejido urbano y la cohesión social y territorial.
+2. En la aprobación definitiva de los planes urbanísticos, o de sus modificaciones o revisiones, cuando se definan o modifiquen zonas destinadas a equipamientos comerciales, se solicitará con carácter previo informe de la Consejería competente en materia de comercio.
+3. El citado informe, que será evacuado en el plazo máximo de tres meses, versará sobre la compatibilidad de la calificación del suelo con los criterios establecidos en el punto 1, con especial referencia a la incidencia de los equipamientos comerciales previstos en relación a los municipios del entorno. Trascurrido el plazo sin haberse evacuado, se entenderá informado en sentido favorable.
+4. Como regla general no se requerirá licencia comercial autonómica para la implantación de establecimientos comerciales de impacto supramunicipal en aquellos planeamientos informados favorablemente por la Consejería competente en materia de comercio, siempre y cuando el detalle del instrumento de planificación urbanística y su documentación complementaria permita conocer las características y actividades a desarrollar en los establecimientos comerciales previstos. En el citado informe se hará constar expresamente esta circunstancia.
+Se modifica por el art. 5.21 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los procedimientos en tramitación a la entrada en vigor de la presente Ley se ajustarán a las prescripciones de la misma, siempre que la aplicación de la norma le resulte más beneficiosa a la elección del interesado.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Las empresas que figuren inscritas a la entrada en vigor de esta Ley en la sección de comerciantes de ventas a distancia del Registro de Comerciantes Minoristas de Ventas Especiales de la Región de Murcia de acuerdo con la Ley 10/1998, de 21 de diciembre, sobre Régimen Minorista de la Región de Murcia, disponen de un plazo de seis meses para solicitar su inscripción en el nuevo Registro de Comerciantes Minoristas de Ventas a Distancia de la Región de Murcia.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Queda derogada la Ley 10/1998, de 21 de diciembre, sobre Régimen del Comercio Minorista en la Región de Murcia.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo de Gobierno para adoptar las normas necesarias para el desarrollo de esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor a los dos meses a partir de su publicación en el «Boletín Oficial de la Región de Murcia».
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Murcia, 22 de diciembre de 2006.
+RAMÓN LUIS VALCÁRCEL SISO,
+Presidente

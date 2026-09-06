@@ -1,0 +1,79 @@
+# Ley 1/2015, de 20 de febrero, de Creación del Colegio Profesional de Terapeutas Ocupacionales.
+
+- Identificador BOE: `BOE-A-2015-4282`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2015-4282
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL PRINCIPADO DE ASTURIAS
+Sea notorio que la Junta General del Principado de Asturias ha aprobado, y yo en nombre de Su Majestad el Rey, y de acuerdo con lo dispuesto en el artículo 31.2 del Estatuto de Autonomía del Principado de Asturias, vengo a promulgar la siguiente Ley del Principado de Asturias de creación del Colegio Profesional de Terapeutas Ocupacionales.
+PREÁMBULO
+El artículo 36 de la Constitución Española establece que la ley regulará las peculiaridades propias del régimen jurídico de los Colegios Profesionales y el ejercicio de las profesiones tituladas, y que su estructura interna y funcionamiento deberán ser democráticos.
+El artículo 11.9 del Estatuto de Autonomía del Principado de Asturias dispone que, en el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca, corresponde al Principado de Asturias el desarrollo legislativo y ejecución en materia de Corporaciones de Derecho Público representativas de intereses económicos y profesionales.
+La Ley 2/1974, de 13 de febrero, sobre Colegios Profesionales, es la norma básica en la materia que ha incorporado en su articulado la Directiva 2006/123/CE, del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, traspuesta a nuestro ordenamiento jurídico mediante la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio y la Ley 25/2009, de 22 de diciembre, de modificación de diversas leyes para su adaptación a la Ley sobre el libre acceso a las actividades de servicios y su ejercicio. La citada Ley 2/1974, de 13 de febrero, configura a los Colegios Profesionales como Corporaciones de derecho público amparadas por ley y reconocidas por el Estado, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines. Asimismo, establece una reserva de ley para la creación de los Colegios Profesionales, mediante procedimiento que se iniciará a petición de los profesionales interesados.
+La Asociación Profesional de Terapeutas Ocupacionales de Asturias (APTOPA) solicitó la creación del Colegio Profesional de Terapeutas Ocupacionales del Principado de Asturias.
+La terapia ocupacional es una profesión titulada cuyo reconocimiento académico y formativo se articuló en el Real Decreto 1420/1990, de 4 de julio, por el que se establece el título universitario oficial de Diplomado en Terapia Ocupacional y las directrices generales propias de los planes de estudios conducentes a la obtención de aquél. Posteriormente, la Ley Orgánica 4/2007, de 12 de abril, por la que se modifica la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, estableció una nueva estructuración de las enseñanzas y títulos universitarios oficiales, que se concreta en las enseñanzas de Grado, Máster y Doctorado. Estas previsiones son desarrolladas, principalmente, a través del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales.
+De conformidad con la citada normativa, mediante Resolución de 5 de febrero de 2009, de la Secretaría de Estado de Universidades, se publica el Acuerdo de Consejo de Ministros, por el que se establecen las condiciones a las que deberán adecuarse los planes de estudios conducentes a la obtención de títulos que habiliten para el ejercicio de la profesión regulada de Terapeuta Ocupacional; publicándose en el «Boletín Oficial del Estado» de 26 de marzo de 2009, la Orden CIN/729/2009, de 18 de marzo, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de la profesión de Terapeuta Ocupacional.
+La profesión de terapeuta ocupacional es además, una profesión sanitaria ya que el terapeuta ocupacional es un profesional sanitario al que, de acuerdo con el artículo 7.2.c) de la Ley 44/2003, de 21 de noviembre, de Ordenación de las Profesiones Sanitarias, le corresponde «la aplicación de técnicas y la realización de actividades de carácter ocupacional que tiendan a potenciar o suplir funciones físicas o psíquicas disminuidas o perdidas, y a orientar y estimular el desarrollo de tales funciones».
+El interés público que justifica la creación de este Colegio Profesional se fundamenta en la protección efectiva del derecho a la salud, reconocido en el artículo 43 de la Constitución. Por ello, concurren razones de interés público que justifican la creación de un Colegio Profesional de Terapeutas Ocupacionales en el ámbito del Principado de Asturias puesto que permitirá la integración de estos profesionales en una organización capaz de ordenar el ejercicio de la profesión, someter a los profesionales a unas normas deontológicas y de control comunes, y, en definitiva, proteger los intereses de los usuarios de los servicios prestados por estos profesionales.
+
+### Artículo 1
+
+Artículo 1. Creación.
+Se crea el Colegio Profesional de Terapeutas Ocupacionales del Principado de Asturias (en adelante Colegio Profesional) como Corporación de Derecho Público, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.
+
+### Artículo 2
+
+Artículo 2. Colegiación.
+1. Podrán integrarse en el Colegio Profesional quienes estén en posesión del título universitario de Terapeuta Ocupacional, de conformidad con el Real Decreto 1420/1990, de 26 de octubre, por el que se establece el título universitario oficial de Diplomado en Terapia Ocupacional y las directrices generales propias de los planes de estudios conducentes a la obtención de aquél, o del correspondiente título de Grado.
+2. Además, podrán integrarse en el Colegio Profesional quienes posean un título equivalente debidamente homologado.
+
+### Artículo 3
+
+Artículo 3. Ámbito territorial.
+El ámbito territorial del Colegio Profesional es el del Principado de Asturias.
+
+### Artículo 4
+
+Artículo 4. Relaciones con las Administraciones Públicas.
+El Colegio Profesional se relacionará con la Consejería competente en materia de colegios profesionales y, en lo relativo a los contenidos propios de la profesión, con la Consejería que corresponda por razón de la materia y con los órganos de otras Administraciones Públicas cuyas respectivas competencias incidan en el campo de la Terapia ocupacional.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Proceso constituyente.
+1. La Asociación de Terapeutas Ocupacionales de Asturias creará la Comisión Gestora que, en el plazo de seis meses a partir de la entrada en vigor de esta ley:
+a) Elaborará y aprobará unos estatutos provisionales que regularán necesariamente la participación y el funcionamiento de la Asamblea Constituyente y su convocatoria.
+b) Convocará la Asamblea Constituyente para garantizar la participación en la misma de los profesionales que ejerzan en el Principado de Asturias y reúnan los requisitos para incorporarse al Colegio Profesional.
+c) Elaborará un anteproyecto de Estatuto definitivo para someterlo a la consideración de la Asamblea Constituyente.
+2. Dicha Comisión Gestora actuará como órgano de gobierno provisional en los términos previstos en este régimen transitorio.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Asamblea Constituyente.
+1. La convocatoria de la Asamblea Constituyente deberá anunciarse, al menos, con veinte días de antelación en el «Boletín Oficial del Principado de Asturias».
+2. Las funciones de la Asamblea Constituyente son:
+a) Aprobar los Estatutos definitivos del Colegio Profesional.
+b) Elegir a los miembros de los órganos de gobierno del Colegio Profesional.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Control de legalidad y publicación.
+Los Estatutos definitivos, una vez aprobados, junto con el certificado del acta de la Asamblea Constituyente se enviarán a la Consejería competente en materia de colegios profesionales, para que verifique su adecuación a la legalidad y ordene su publicación en el «Boletín Oficial del Principado de Asturias».
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+Se autoriza al Consejo de Gobierno a dictar las disposiciones reglamentarias que sean necesarias para la ejecución y desarrollo de esta ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente ley entrará en vigor a los treinta días de su publicación en el «Boletín Oficial del Principado de Asturias».
+
+Por tanto, ordeno a todos los ciudadanos a quienes sea de aplicación esta Ley coadyuven a su cumplimiento, así como a todos los Tribunales y Autoridades que la guarden y la hagan guardar.
+Oviedo, 20 de febrero de 2015.
+El Presidente del Principado de Asturias,
+Javier Fernández Fernández.

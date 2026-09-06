@@ -1,0 +1,931 @@
+# Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial.
+
+- Identificador BOE: `BOE-A-1988-29622`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1988-29622
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 122, de 23 de mayo de 1989. Ref. BOE-A-1989-11628.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo a sancionar la siguiente Ley:
+PREÁMBULO
+I
+La Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, constituye el pilar normativo sobre el que se apoya el cumplimiento de los fines constitucionalmente atribuidos al Poder Judicial en el Estado social y democrático de Derecho.
+La Ley Orgánica ha atribuido contenido cabal a los principios de independencia, plenitud y unidad de la jurisdicción, garantía e imperio de la ley; ha hecho efectivo, asimismo, el gobierno autónomo del Poder Judicial, destacando el carácter de órgano constitucional del Consejo General del Poder Judicial y ha configurado, sobre unas bases nuevas y sentadas para el logro de la tutela jurisdiccional eficaz, el estatuto de los Jueces y Magistrados y el de los Secretarios Judiciales y demás personal al servicio de la Administración de Justicia.
+La Ley Orgánica del Poder Judicial, sin embargo, contiene otro conjunto de mandatos cuyo denominador común radica en la necesidad de un desarrollo normativo, organizativo y financiero complejo, por suponer la creación de Tribunales y de Juzgados de nueva planta, el crecimiento notable de los ya existentes y, en algunas ocasiones, el cambio de su naturaleza, de su competencia o de la circunscripción a la que se extiende su jurisdicción.
+Con la presente Ley, dentro de los principios y de las finalidades expuestas, se da cumplimiento, por ende, al mandato de la disposición adicional primera de la Ley Orgánica del Poder Judicial en lo que se refiere a la regulación legislativa de la demarcación y planta judicial. La reforma de la regulación legislativa del proceso en los diversos órdenes jurisdiccionales, paralelamente emprendida en idéntico contexto de desarrollo de la Ley Orgánica, constituye el complemento indispensable de aquélla.
+La demarcación se ha elaborado teniendo en cuenta las propuestas de las Comunidades Autónomas y el Proyecto de Ley ha sido sometido a informe del Consejo General del Poder Judicial, cumpliendo con ello, en ambos casos, las previsiones de la Ley Orgánica del Poder Judicial. Las observaciones formuladas han tenido un alto valor y han acrecentado notablemente el conocimiento de los datos y circunstancias necesarios para una adecuada decisión.
+II
+El estado social y democrático de Derecho, en la búsqueda de un contenido efectivo y real en los derechos de los ciudadanos, insiste en la nota de efectividad de la protección judicial de los derechos, que llega a plasmarse como derecho fundamental especifico en el artículo 24 de la Constitución.
+El adecuado desarrollo de la Ley Orgánica del Poder Judicial ha de hacer frente, por lo tanto, en primer término, al enorme déficit acumulado durante decenios por una organización judicial estructurada más en función de la presencia que de la eficacia; distribuida con criterios geográficos imperfectos y desequilibrados e infradotada en cuanto al número de sus titulares y sus órganos decisorios, con la consiguiente insuficiencia de los medios personales y económicos puestos a su servicio e inadecuación de las normas de procedimiento por las que se rige.
+En segundo término, al déficit histórico de la justicia se añade el mayor grado de exigencia social de buen funcionamiento que frente a ella, y en contraste con la pasividad tradicional, conlleva la proclamación del sistema constitucional del Estado social y democrático de Derecho. A mayor abundamiento, fenómenos tales como la judicialización del Estado y de la vida social, la mayor conciencia ciudadana de los derechos y de la garantía de su contenido real, la desaparición de vínculos sociales y políticos restrictivos de la libertad individual y del derecho de defensa de las personas, el control democrático de los defectos de funcionamiento de todas las instituciones públicas, la mayor conflictividad social derivada de la creciente complejidad demográfica y de los episodios de crisis económica, y la culminación del Estado de Derecho mediante el reconocimiento del valor normativo de la Constitución, han provocado en los últimos años un considerable incremento de la litigiosidad.
+Este incremento afecta especialmente a los órdenes jurisdiccionales más influidos por la conflictividad socioeconómica y la garantía de los derechos del ciudadano frente al poder público, el penal y el contencioso-administrativo, sin que sean de despreciar los incrementos de asuntos civiles y sociales.
+III
+Aun cuando la definitiva actualización de la infraestructura del Poder Judicial, en función de las necesidades de la sociedad actual, exige su programación normativa a través de la presente Ley, los poderes públicos han iniciado ya en el último lustro una decidida actuación de incremento de sus dotaciones, adelantando así las bases de la transformación cuantitativa y cualitativa que ha de alcanzar con esta Ley su pleno desarrollo.
+Los créditos presupuestarios estrictamente dedicados a la Administración de Justicia se duplican desde el año 1982 al 1987, y sólo en el período 1987-1988 se produce un incremento cercano a una tercera parte.
+Ello ha permitido desarrollar una intensa labor de gestión, en la línea de atender a las previsiones iniciales de la normativa proyectada, que ha cristalizado en la efectiva puesta en funcionamiento, durante el quinquenio expresado, de más de trescientos órganos judiciales, con los medios instrumentales personales y materiales a su servicio, lo que representa un acelerado ritmo de implantación de más de un órgano judicial cada semana, de promedio. Sólo por lo que se refiere a los órganos unipersonales, en el orden jurisdiccional social se ha puesto en funcionamiento, en este período, un número de Magistraturas de Trabajo que representa una cuarta parte del total de los órganos de esta clase existentes hoy en España. En los órdenes jurisdiccionales civil y penal, la puesta en funcionamiento de un elevado número de Juzgados de Primera Instancia, de Instrucción y de Primera Instancia e Instrucción ha permitido pasar de una relación en 1980 de 73.010 habitantes por Juzgado, la más desfavorable desde 1877, en que era de 34.434 habitantes por Juzgado, a una proporción de 55.726 habitantes por Juzgado en 1985, lo que no sólo supone recuperar el nivel correspondiente a dos décadas atrás, sino, lo que es aún más notable, invertir decididamente el constante e ininterrumpido proceso histórico de deterioro de la relación, que en 1988 alcanzará a 50.958 habitantes por Juzgado.
+IV
+La nueva división territorial de lo judicial no plantea especiales problemas en las esferas autonómica, provincial y municipal, por lo que la presente Ley, en punto a la demarcación, se limita a ratificar el ámbito territorial de la jurisdicción de los distintos órganos de alcance autonómico, provincial y municipal, que resulta de las correspondientes circunscripciones determinadas ya a efectos político-administrativos.
+Por el contrario, es objeto primordial de la presente Ley realizar una redefinición de los partidos judiciales en cuanto divisiones territoriales judiciales básicas en las que se inscribe el primer escalón de órganos judiciales servidos por Jueces de Carrera, el de los Juzgados de Primera Instancia e Instrucción, respetando la competencia de las Comunidades Autónomas para fijar la capitalidad.
+La nota de efectividad con que el artículo 24 de la Constitución consagra el derecho a la tutela por los Jueces y Tribunales de los derechos e intereses legítimos de los ciudadanos ha exigido tener presente, en primer lugar, la garantía de fácil acceso de aquéllos a los Juzgados y, en segundo lugar, la necesidad de evitar una dispersión excesiva de medios personales y materiales que quebrantaría los principios de racionalidad y economía por los que se rige toda organización eficaz. Se parte, por consiguiente, de una tendencia a la concentración en la medida necesaria para conseguir tales fines, y siguiendo, con ello, la tendencia general en la comarcalización de los servicios, lo que contribuirá a la debida coordinación entre ellos y a su mejor aprovechamiento por los ciudadanos.
+Como modelo general de partido se ha manejado el de una circunscripción general de configuración circular, de un mínimo deseable de 50.000 habitantes y de una superficie media de 700 a 1.000 kilómetros cuadrados, es decir, a partir de unos 15 kilómetros de radio, por considerarse una distancia media fácilmente superable en principio con los actuales medios de comunicación. La cifra de los habitantes viene dada por el hecho de que el número ideal de habitantes en proporción a cada Juzgado se estima en 25.000. Esta proporción no ha sido alcanzada nunca en nuestra historia. Se considera, asimismo, conveniente que los partidos judiciales, en la medida de lo posible, estén dotados de un número mínimo de dos Juzgados de Primera Instancia e Instrucción, con el fin de facilitar las sustituciones y la división de trabajo entre dos Jueces, especialmente en el orden penal, y de permitir un aprovechamiento de los servicios racional desde el punto de vista económico y con una organización de la oficina judicial óptima para la comodidad de los profesionales y de los ciudadanos.
+Los referidos parámetros, aparte de su modulación en función de los volúmenes de litigiosidad, las comunicaciones, y las características orográficas y comarcales, han sufrido alteraciones especialmente significativas en virtud de las peculiaridades de la población de cada zona. Así, la superficie de los partidos se reduce considerablemente en lugares de acumulación urbana, de condensación industrial y de carácter turístico, por la presencia en estos últimos de una población difícilmente registrable, de carácter estacional o permanente. Ello no obstante, el nivel poblacional de estos partidos suele mantenerse muy alto. Por el contrario, las zonas en que la densidad demográfica es muy baja, bien como consecuencia del fenómeno de la despoblación, bien por tratarse de zonas difícilmente habitables, determinan un considerable aumento de la superficie del partido, sin alcanzar siempre el número de población deseable en término medio.
+La demarcación establecida en la presente Ley no puede consistir en una transposición en partidos de los actuales distritos judiciales, puesto que la propia ley Orgánica del Poder Judicial ordena que no se mantengan los Juzgados de Distrito cuando por el escaso volumen de trabajo resulte procedente su conversión en Juzgados de Paz (disposición transitoria tercera). Ello no obstante, y a pesar de que el examen de la situación existente en el momento en que se promulga la Ley Orgánica del Poder Judicial pone de relieve que la implantación de la justicia de Distrito no tiene el mismo grado de penetración en todas las zonas del territorio nacional, se ha procurado mantener como partidos aquellos distritos que, aun por debajo del módulo medio, reúnen condiciones especiales, teniendo en cuenta especialmente los que generan un volumen importante de litigiosidad o se hallan radicados en municipios de elevada población, siempre que su proximidad a la cabeza de otro partido o las dificultades de configuración de éste no aconsejen lo contrario. La demarcación aprobada prescinde, en consecuencia, de todos aquellos intereses que no sean cohonestables con el principio de eficacia de la justicia, único norte de esta Ley, y se atiene rigurosamente, mediante la fijación de parámetros objetivos, a los criterios establecidos en la Ley Orgánica del Poder Judicial.
+En definitiva, se crean 105 nuevos partidos judiciales, que vienen a añadirse a los 317 actualmente existentes. El total de partidos judiciales es de 422, cifra que coincide exactamente con el número de partidos de la demarcación histórica existente a la promulgación de la Ley de 1870, lo que revela un elevado grado de equilibrio de la división territorial lograda, aun cuando, como se verá, los aumentos demográficos repercuten de forma muy notable en el aumento del número de órganos de cada circunscripción y en el conjunto, con respecto a aquella planta histórica.
+V
+La presente Ley, al configurar de modo completo la planta diseñada por la Ley Orgánica del Poder Judicial, articula los distintos órdenes jurisdiccionales de manera equilibrada, haciendo plena realidad el principio de unidad jurisdiccional. Al mismo tiempo, supone la reafirmación del carácter expansivo del orden jurisdiccional civil, del principio de garantía de los derechos fundamentales en el orden penal, de la voluntad del poder ejecutivo de hacer posible un efectivo control jurisdiccional de su actuación administrativa en el orden contencioso-administrativo y la de llevar a cabo en el orden social una eficaz tutela de las pretensiones planteadas en este sector del Derecho. Todos los órdenes jurisdiccionales, con las modulaciones que para cada uno de ellos impone su peculiar cometido dentro del marco genérico del ejercicio de la potestad jurisdiccional, quedan organizados con una estructura semejante, basada en una primera instancia o grado funcional ante un órgano unipersonal, una segunda instancia o grado funcional ante un órgano colegiado y un recurso de casación cuya función primordial es la de unificación en la interpretación de la Ley y la salvaguarda del principio de legalidad.
+VI
+El Tribunal Supremo, órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales, constituye el órgano de relevancia constitucional que culmina la organización del Poder Judicial, por lo que no es de extrañar que esta Ley le dedique atención especial.
+En la determinación de la planta del Tribunal Supremo se reequilibra levemente la composición de las distintas Salas, en beneficio sobre todo de lo penal, pero se mantiene un número total de Magistrados similar al actual. Se estima, en efecto, que la prohibición constitucional de las ulteriores instancias extraterritoriales supone el atribuir decididamente al Tribunal Supremo, como órgano jurisdiccional superior en todos los órdenes, con jurisdicción en toda España, la condición de un Tribunal con funciones específicamente casacionales, salvo las pocas excepciones previstas en la Ley Orgánica por motivos especiales, justificados en cada caso.
+El recurso de casación es un recurso especial y, por ende, limitado, que no puede convertirse en una segunda o tercera instancia. La regulación procesal del mismo, adecuadamente realizada, permitirá que, sin convertir al Tribunal Supremo, a través de un artificial y desproporcionado incremento de sus titulares, en un órgano de difícil funcionalidad, asuma plenamente, mediante la adecuada selección objetiva de las materias a que dedica su atención, su labor de unificar la interpretación del ordenamiento jurídico efectuada por todos los Juzgados y tribunales con el carácter de supremo garante del principio de legalidad y de la unidad de acción del Poder Judicial en su conjunto. La importancia de esta función para el cumplimiento del principio de igualdad y del papel constitucional del Poder Judicial no puede pasar inadvertida.
+VII
+Se destaca, asimismo, dentro de los órganos colegiados, la inmediata constitución de la Sala de lo Social de la Audiencia Nacional llamada a mantener en línea con el carácter exclusivamente estatal de la legislación aplicable, la interpretación uniforme en todo el territorio del Estado en materias tan dignas de atención como los conflictos y los convenios colectivos de ámbito superior al estrictamente autonómico. Las Salas de lo Penal y de lo Contencioso-Administrativo de la Audiencia Nacional se dotan, asimismo, del número de Magistrados suficiente para desarrollar la competencia que les corresponde.
+La regulación de los Tribunales Superiores de Justicia se ha efectuado de tal manera que su rápida puesta en funcionamiento sea compatible con el respeto a la facultad de las Asambleas legislativas de las Comunidades Autónomas, reconocida en la Ley Orgánica del Poder Judicial, de intervenir en la designación de algunos de sus Magistrados. Esta facultad ha sido objeto de la interpretación más favorable a la amplitud de su aplicación, entre las diversas posibles. Se ha puesto especial atención en la competencia de casación atribuida a los Tribunales Superiores de Justicia, como órganos que culminan la organización judicial en la Comunidad Autónoma. La integridad de dicha competencia ha sido garantizada mediante una norma de efectos transitorios, en tanto se aprueben las correspondientes leyes procesales.
+Particular consideración merecen, en este mismo capítulo, las Audiencias Provinciales, a las que se dota de un número de Magistrados suficiente para hacer frente a los asuntos penales y civiles que les corresponde asumir tras la Ley Orgánica. Con ello se sientan las bases para la implantación del Jurado, institución que se desenvuelve en el ámbito de estos Tribunales, y se contribuye a acelerar la justicia penal. Coadyuvará a este fin otras medidas legislativas emprendidas paralelamente para lograr el ajuste competencial de las cargas de trabajo de los diferentes órganos, que contribuirán a descargar a las Audiencias de un número excesivo de apelaciones que amenazaría con desequilibrar su regular funcionamiento.
+VIII
+En materia de órganos unipersonales, la Ley lleva a efecto la conversión de los Juzgados de Distrito en Juzgados de Primera Instancia e Instrucción, de Primera Instancia, o de Instrucción, en el plazo previsto en la Ley Orgánica del Poder Judicial. Se trata de una medida, ya solicitada por el Consejo General del Poder Judicial en el año 1985, que se plasma en la Ley Orgánica del Poder Judicial y que afecta a Juzgados históricamente vinculados a un Cuerpo suprimido en aplicación del principio constitucional de unidad de la Carrera Judicial, a la que corresponden unos únicos sistemas de acceso, esta medida evitará que estén conociendo en materias iguales, sin una adecuada articulación funcional en instancias, Jueces técnicos distintos sin más justificación que la distinta importancia teórica del asunto y reinstaurará la unidad de la primera instancia técnica, reintegrando a la misma el papel expansivo y conjunto sin el cual es difícil de construir una primera instancia civil y un primer escalón funcional en materia penal articulados con el suficiente grado de coherencia interna. Bien es cierto que esta conversión, por su novedad, puede suponer dificultades de adaptación, que se evitarán con las medidas procesales paralelamente iniciadas, especialmente para garantizar el carácter exclusivamente jurisdiccional de las funciones que corresponde desempeñar a los órganos de primera instancia.
+La Ley recoge, por otro lado, las previsiones necesarias para articular los Juzgados de lo Penal derivados de la Ley Orgánica de los Juzgados de lo Penal y por la que se modifican diversos preceptos de las Leyes Orgánica del Poder Judicial y de Enjuiciamiento Criminal. Ello permitirá hacer realidad la distinción entre la función instructora y enjuiciadora que viene exigida por el artículo 24 de la Constitución en la interpretación que del mismo han dado el Tribunal Constitucional y el Tribunal Europeo de Derechos Humanos. A tal efecto, la Ley configura una planta de los Juzgados de lo Penal adecuada para hacer frente a las necesidades que, previsiblemente, se plantearán a estos órganos del orden jurisdiccional penal.
+En la planta de los Juzgados de Instrucción, se dedica una especial atención a las funciones que han de corresponderles en materia de instrucción y de primera instancia en la futura configuración del proceso penal. Los Juzgados de lo Social, por otra parte, se configuran en número suficiente para atender el volumen de trabajo previsible, a partir de un examen crítico de los datos estadísticos de que se dispone.
+En los restantes órdenes jurisdiccionales, se presta particular atención a sectores o actividades sociales que constituyen, hoy, zonas materialmente exentas o que no son atendidas con la suficiente intensidad y grado de especialización por la jurisdicción. Tal es el principio que se observa en la implantación efectuada en cuanto a Juzgados de lo Contencioso-Administrativo (que constituirán una eficaz primera instancia en asuntos para los que funcionalmente puede resultar ventajoso este sistema o que hoy es excesivamente gravoso llevar a las Salas, como ocurre con algunas materias económico-administrativas), de Vigilancia Penitenciaria y de Menores. Con respecto a estos últimos, se ha diseñado una planta que ofrece las máximas oportunidades para especializar la función de reforma con respecto a la función de protección del menor, haciendo posible, desde el ángulo de la organización judicial, la efectividad de la reforma de la legislación del menor, de la que esta Ley constituye complemento necesario.
+Es de destacar, finalmente, el elevado grado de proximidad de la planta diseñada con la propuesta por el Consejo General del Poder Judicial en su informe.
+Los Juzgados de Paz se conciben por la Ley Orgánica del Poder Judicial como órganos incardinados en el ámbito del municipio, cuyos titulares son elegidos por el Pleno del Ayuntamiento. De ahí que no se haya renunciado a la tradicional colaboración de los municipios en el mantenimiento de los medios personales y materiales de dichos órganos, estableciendo el soporte económico del Estado, o, en su caso, de las Comunidades Autónomas, directamente o por medio de subvenciones.
+IX
+El número de Jueces y Magistrados en destinos estrictamente jurisdiccionales pasa a ser, en la presente Ley, de 3.570, lo que significa el establecimiento de una proporción de un miembro de la Carrera Judicial por cada 10.800 habitantes, que es similar, no obstante sus variaciones, a las proporciones que se observan en otros países de la Comunidad Europea. La relación entre los Juzgados de Primera Instancia e Instrucción y de lo Penal y los habitantes, de 1 por 19.000 habitantes, responde a una media que debe considerarse muy satisfactoria y nunca alcanzada en nuestra historia. Teniendo en cuenta que el número de Jueces y Magistrados en activo pertenecientes a la Carrera Judicial se sitúa en torno a los 2.000, es menester un gran esfuerzo para obtener el máximo de rendimiento posible de los sistemas de selección durante los años de programación de la nueva planta. Para lograr esta finalidad se ha reestructurado el centro de Estudios Judiciales, se ha reformado profundamente el sistema de oposición y se ha dado efectividad a los criterios de selección de Jueces y Magistrados mediante concurso entre juristas.
+X
+La planta establecida es objeto de las adecuadas previsiones temporales para su ejecución. La efectiva constitución de los distintos órganos se articula escalonadamente, teniendo en cuenta las posibilidades reales de implantación y atribuyendo al Gobierno la preparación de los programas económico-financieros necesarios.
+Como plazo máximo de programación, dentro del cual necesariamente han de alcanzarse en toda su integridad las previsiones de la Ley en materia de planta, se fija el período 1989-1992. Se trata de un plazo cierto y, aún escaso en su extensión, suficiente para, mediante un importante esfuerzo de carácter organizativo y financiero, articular, dentro de ese estrecho margen de tiempo, las medidas necesarias para llevar al terreno de la realidad la profunda actualización que esta Ley supone en las estructuras de la Administración de Justicia, dada su inaplazable necesidad. Para garantizar el cumplimiento del expresado plazo se prevén con carácter gradual las medidas de tipo orgánico y financiero necesarias para evitar quiebras en los procesos de implantación y se establecen las garantías pertinentes para asegurar la cobertura presupuestaria mediante el adecuado plan de financiación. Durante cada ejercicio se irán efectuando las creaciones de órganos necesarias para lograr el deseable equilibrio en el desarrollo de la programación, sin esperar a la última etapa y continuando la línea seguida en años anteriores.
+La demarcación y la planta así establecidas, con criterios plenamente suficientes para garantizar su permanencia durante un largo período de tiempo, es susceptible, no obstante, de medidas de adaptación y perfeccionamiento. Independientemente de las revisiones generales periódicas de la planta y de la demarcación que establece la Ley Orgánica del Poder Judicial, se regula y desarrolla la facultad del Gobierno para crear Secciones, Juzgados o plazas de Magistrados por encima de las previsiones de la planta establecida, con modificación de ésta. Esta medida ha de permitir en todo caso la permanente actualización cuantitativa del diseño orgánico establecido en la Ley Orgánica del Poder Judicial a las nuevas necesidades que puedan surgir.
+Redactado conforme a la corrección de errores publicada en BOE núm. 122, de 23 de mayo de 1989. Ref. BOE-A-1989-11628.
+
+## TÍTULO I
+
+De la demarcación judicial
+
+## CAPÍTULO I
+
+Circunscripción territorial de los órganos judiciales
+
+### Artículo 1
+
+Artículo 1.
+El Tribunal Supremo, la Audiencia Nacional y el Tribunal Central de Instancia tienen jurisdicción en toda España.
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.1 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "El Tribunal Supremo, la Audiencia Nacional, los Juzgados Centrales de Instrucción, los Juzgados Centrales de lo Penal, los Juzgados Centrales de lo Contencioso-administrativo, los Juzgados Centrales de Vigilancia Penitenciaria y el Juzgado Central de Menores tienen jurisdicción en toda España."
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se modifica por el art. 3.1 de la Ley Orgánica 5/2003, de 27 de mayo. Ref. BOE-A-2003-10614
+ Se modifica por el art. 4.1 de la Ley Orgánica 7/2000, de 22 de diciembre. Ref. BOE-A-2000-23659
+ Se modifica por el art. 1 de la Ley 37/1999, de 28 de octubre. Ref. BOE-A-1999-21088
+
+### Artículo 2
+
+Artículo 2.
+1. Los Tribunales Superiores de Justicia tienen jurisdicción en el ámbito territorial de su respectiva Comunidad Autónoma.
+2. Tienen jurisdicción limitada a las provincias de Cádiz, Córdoba, Huelva y Sevilla las Salas de lo Contencioso-Administrativo y de lo Social del Tribunal Superior de Justicia de Andalucía que tienen su sede en Sevilla; y a las provincias de Almería, Granada y Jaén las que tienen su sede en Granada. Las Salas de lo Contencioso-Administrativo y de lo Social del Tribunal Superior de Justicia de Andalucía con sede en Málaga tienen jurisdicción limitada a su provincia.
+3. Tienen jurisdicción limitada a las provincias de León, Palencia, Salamanca, Valladolid y Zamora las Salas de lo Contencioso-Administrativo y de lo Social del Tribunal Superior de Justicia de Castilla y León que tienen su sede en Valladolid; y a las provincias de Ávila, Burgos, Segovia y Soria, las que tienen su sede en Burgos.
+4. Tienen jurisdicción limitada a la Provincia Las Palmas las Salas de lo Contencioso-Administrativo y de lo Social del Tribunal Superior de Justicia de Canarias que tienen su sede en Las Palmas de Gran Canaria, y a la Provincia Santa Cruz de Tenerife, las que tienen su sede en Santa Cruz de Tenerife.
+5. A efectos de la demarcación judicial, las ciudades de Ceuta y Melilla quedan integradas en la circunscripción territorial del Tribunal Superior de Justicia de Andalucía.
+
+### Artículo 2.BIS
+
+Artículo 2 bis.
+1. En cada Tribunal Superior de Justicia, y para el ámbito territorial de la provincia, se crean las plazas de Jueces de adscripción territorial que se fijan en el anexo IV de esta Ley, de acuerdo con lo previsto en el artículo 347 bis de la LOPJ.
+2. El desarrollo posterior de estas plazas de Jueces de adscripción territorial así como su modificación se efectuará mediante Real Decreto, de acuerdo con lo establecido en el artículo 20 de esta Ley.
+Se añade por la disposición adicional 5 de la Ley 4/2010, de 4 de marzo. Ref. BOE-A-2010-4048.
+
+### Artículo 3
+
+Artículo 3.
+1. Tienen jurisdicción en el ámbito de su respectiva provincia:
+a) Las Audiencias Provinciales.
+b) Las Secciones de los Tribunales de Instancia de lo Penal, de lo Contencioso-Administrativo, de lo Social, de lo Mercantil, de Vigilancia Penitenciaria y de Menores.
+2. Las Secciones que integren los Tribunales de Instancia podrán extender su jurisdicción a uno o varios partidos judiciales de la misma provincia o de varias provincias limítrofes, dentro del ámbito de un mismo Tribunal Superior de Justicia, en los casos previstos en la ley.
+3. A efectos de la demarcación judicial, las Ciudades de Ceuta y Melilla quedan integradas en la circunscripción territorial de la Sección Sexta de la Audiencia Provincial de Cádiz con sede en Ceuta y de la Sección Séptima de la Audiencia Provincial de Málaga, con sede en Melilla, respectivamente.
+4. Los Tribunales de Instancia que tienen su sede en Ceuta y Melilla tienen la jurisdicción limitada al respectivo partido judicial.
+5. En los casos en que el Anexo V de esta ley prevea la existencia de Secciones de una Audiencia Provincial fuera de la capital de provincia, la jurisdicción de dichas Secciones se ejercerá en los partidos judiciales que, según el citado anexo, estén adscritos a la misma.
+6. Los magistrados y las magistradas destinados o destinadas en las plazas especializadas de la Sección de lo Mercantil del Tribunal de Instancia de Alicante tendrán competencia, además, para conocer, en primera instancia y de forma exclusiva, de todos aquellos litigios que se promuevan al amparo de lo previsto en el Reglamento (UE) 2017/1001 del Parlamento Europeo y del Consejo, de 14 de junio de 2017, sobre la marca de la Unión Europea, y el Reglamento (CE) núm. 6/2002, del Consejo, de 12 de diciembre de 2001, sobre los dibujos y modelos comunitarios. En el ejercicio de esta competencia estos magistrados o magistradas extenderán su jurisdicción a todo el territorio nacional, integrándose en el que, únicamente a estos solos efectos se denominará Tribunal de Marca de la Unión Europea.
+7. La Sección o Secciones de la Audiencia Provincial de Alicante que se especialicen conocerán, además en segunda instancia y de forma exclusiva de todos aquellos recursos a los que se refiere el artículo 133 del Reglamento (UE) 2017/1001 del Parlamento Europeo y del Consejo, de 14 de junio de 2017, sobre la marca de la Unión Europea, y el Reglamento (CE) núm. 6/2002, del Consejo, de 12 de diciembre de 2001, sobre los dibujos y modelos comunitarios. En el ejercicio de esta competencia extenderán su jurisdicción a todo el territorio nacional y a estos solos efectos se denominarán Secciones de Marca de la Unión Europea.
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.2 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. Las Audiencias Provinciales, los Juzgados de lo Penal, los Juzgados de lo Contencioso Administrativo, los Juzgados de lo Social, los Juzgados de Vigilancia Penitenciaria, los Juzgados de Menores y los Juzgados de lo Mercantil tienen jurisdicción en el ámbito territorial de su respectiva provincia.
+ 2. Sin embargo, tienen su jurisdicción limitada a un solo partido judicial, o a varios o, por el contrario, ampliada a varias provincias los juzgados de los órdenes a que se refiere el párrafo anterior en los casos previstos en los anexos VII, VIII, IX, X, XI y XII de esta ley.
+ 3. A efectos de la demarcación judicial, las Ciudades de Ceuta y Melilla quedan integradas en la circunscripción territorial de la Sección Sexta de la Audiencia Provincial de Cádiz, con sede en Ceuta y de la Sección Octava de la Audiencia Provincial de Málaga, con sede en Melilla, respectivamente.
+ 4. Los órganos judiciales que tienen su sede en Ceuta y Melilla tienen la jurisdicción limitada al respectivo partido judicial.
+ 5. En los casos en que el anexo V de esta ley prevea la existencia de Secciones de una Audiencia Provincial fuera de la capital de la provincia, la jurisdicción de dichas Secciones se ejercerá en los partidos judiciales que, según el citado anexo, estén adscritos a las mismas.
+ 6. Los Juzgados de lo Mercantil de Alicante que se especialicen tendrán competencia, además, para conocer, en primera instancia y de forma exclusiva, de todos aquellos litigios que se promuevan al amparo de lo previsto en los Reglamentos n.º 40/94 del Consejo de la Unión Europea, de 20 de diciembre de 1993, sobre la marca comunitaria y 6/2002, del Consejo de la Unión Europa, de 12 de diciembre de 2001, sobre los dibujos y modelos comunitarios. En el ejercicio de esta competencia dichos juzgados extenderán su jurisdicción a todo el territorio nacional, y únicamente a estos solos efectos se denominaran Juzgados de Marca Comunitaria.
+ 7. La Sección o Secciones de la Audiencia Provincial de Alicante que se especialicen, conocerán además, en segunda instancia y de forma exclusiva de todos aquellos recursos a los que se refiere el artículo 101 del Reglamento n.º 40/94 del Consejo de la Unión Europea, de 20 de diciembre de 1993, sobre la marca comunitaria y el Reglamento 6/2002, del Consejo de la Unión Europea, de 12 de diciembre de 2001, sobre los dibujos y modelos comunitarios. En el ejercicio de esta competencia extenderán su jurisdicción a todo el territorio nacional y a estos solos efectos se denominarán Tribunales de Marca Comunitaria."
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.2 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se modifica por la disposición adicional 11.1 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+ Se añade el apartado 5 por el art. 1 de la Ley 2/1999, de 11 de enero. Ref. BOE-A-1999-781.
+
+### Artículo 4
+
+Artículo 4.
+1. Habrá un Tribunal de Instancia en cada partido judicial, con sede en su capital, de la que tomará su nombre.
+2. Con carácter general, extienden su jurisdicción a un partido judicial:
+a) Las Secciones Civiles de los Tribunales de Instancia.
+b) Las Secciones de Instrucción de los Tribunales de Instancia.
+c) Las Secciones Civiles y de Instrucción de los Tribunales de Instancia que constituyan una Sección Única.
+d) Las Secciones de Familia, Infancia y Capacidad, las Secciones de Violencia contra la Infancia y la Adolescencia y las Secciones de Violencia sobre la Mujer de los Tribunales de Instancia.
+Téngase en cuenta que esta actualizaciónde los apartados 1 y 2, establecida por la disposición final 8.3 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. Los Juzgados de Primera Instancia e Instrucción y los Juzgados de Violencia sobre la Mujer tienen jurisdicción en el ámbito territorial de su respectivo partido.
+ No obstante lo anterior, y atendidas las circunstancias geográficas, de ubicación y población, podrán crearse Juzgados de Violencia sobre la Mujer que atiendan a más de un partido judicial.
+ 2. Los partidos judiciales tienen el ámbito territorial del municipio o municipios que los integran, conforme se establece en el Anexo I de esta Ley."
+3. La modificación de los límites de los municipios actuales comporta la adaptación automática de la demarcación judicial a la nueva delimitación geográfica.
+A los efectos de lo previsto en el párrafo anterior, se seguirán las siguientes reglas:
+a) Cuando se constituya un nuevo municipio por segregación de otro, continuará perteneciendo al mismo partido judicial.
+b) Cuando se incorporen o fusionen dos o más municipios pertenecientes al mismo partido judicial, continuarán perteneciendo a éste.
+c) Cuando se incorporen o fusionen dos o más municipios pertenecientes a distintos partidos judiciales, el municipio resultante se integrará en el partido judicial al que correspondía el municipio que tuviera mayor población de derecho entre los afectados.
+d) Cuando se constituya un nuevo municipio por segregación de parte del territorio de municipios pertenecientes a partidos diferentes, el nuevo municipio se integrará en el partido judicial al que correspondía la parte segregada con mayor población de derecho.
+e) Cuando se incorpore a un municipio parte del territorio de otro municipio limítrofe por segregación, el territorio segregado se integrará en el partido del municipio al que ha sido agregado.
+4. Las Comunidades Autónomas determinan, por Ley, la capitalidad de los partidos judiciales, que corresponde a un solo municipio.
+5. Los partidos judiciales se identifican por el nombre del municipio al que corresponde su capitalidad.
+Se modifican los apartados 1 y 2, con efectos de 3 de abril de 2025, por la disposición final 8.3 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se modifica el apartado 1 por el art. 48 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760#a48.
+ Se modifica el apartado 3 por el art. 3 de la Ley 3/1992, de 20 de marzo. Ref. BOE-A-1992-6576.
+
+### Artículo 5
+
+Artículo 5.
+Los Juzgados de Paz tienen jurisdicción en el término del respectivo municipio, del que toman su nombre.
+
+## CAPÍTULO II
+
+Sede de los órganos judiciales
+
+### Artículo 6
+
+Artículo 6.
+El Tribunal Supremo, la Audiencia Nacional y el Tribunal Central de Instancia tienen su sede en la villa de Madrid.
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.4 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ El Tribunal Supremo, la Audiencia Nacional, los Juzgados Centrales de Instrucción, los Juzgados Centrales de lo Penal, los Juzgados Centrales de lo Contencioso-administrativo, los Juzgados Centrales de Vigilancia Penitenciaria y el Juzgado Central de Menores tienen su sede en la villa de Madrid.
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.4 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se modifica por el art. 3.2 de la Ley Orgánica 5/2003, de 27 de mayo. Ref. BOE-A-2003-10614.
+ Se modifica por el art. 4.2 de la Ley Orgánica 7/2000, de 22 de diciembre. Ref. BOE-A-2000-23659.
+ Se modifica por el art. 2 de la Ley 37/1999, de 28 de octubre. Ref. BOE-A-1999-21088.
+
+### Artículo 7
+
+Artículo 7.
+1. Los Tribunales Superiores de Justicia tienen su sede en la ciudad que indiquen los respectivos Estatutos de Autonomía o la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+2. Las Salas de lo Contencioso-Administrativo y de lo Social con jurisdicción limitada a una o varias provincias tienen su sede donde la establece el artículo 2.
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.5 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. Los Tribunales Superiores de Justicia tienen su sede en la ciudad que indiquen sus respectivos Estatutos de Autonomía y, si no la indicaren, en la ciudad en que la tenga la Audiencia Territorial existente en el momento de la entrada en vigor de la Ley Orgánica del Poder Judicial y, cuando no exista, en la capital de la Comunidad Autónoma.
+ 2. Los Tribunales Superiores de Justicia de Castilla y León y de Andalucía tienen su sede en alguna de las sedes de las Audiencias Territoriales existentes en el momento de la entrada en vigor de la Ley Orgánica del Poder Judicial, según lo establecido por la respectiva Comunidad Autónoma.
+ 3. Las Salas de lo Contencioso-Administrativo y de lo Social con jurisdicción limitada a una o varias provincias tienen su sede donde la establece el artículo 2 de esta Ley."
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.5 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 8
+
+Artículo 8.
+1. Las Audiencias Provinciales y las Secciones de los Tribunales de Instancia con jurisdicción provincial tienen su sede en la capital de provincia.
+2. Las Secciones de las Audiencias Provinciales a que se refiere el apartado 5 del artículo 3, así como las Secciones de lo Penal, las Secciones de lo Contencioso-Administrativo, las Secciones de lo Social, las Secciones de Menores, las Secciones de lo Mercantil, las Secciones de Familia, Infancia y Capacidad, las Secciones de Violencia contra la Infancia y la Adolescencia y las Secciones de Violencia sobre la Mujer de los Tribunales de Instancia con jurisdicción de extensión territorial inferior o superior a la de una provincia tienen su sede en la capital del partido que se señale por ley de la correspondiente comunidad autónoma y toman el nombre del municipio en que aquella esté situada.
+3. La sede de las Secciones de Vigilancia Penitenciaria de los Tribunales de Instancia se establece por el Gobierno, oídos previamente la comunidad autónoma afectada y el Consejo General del Poder Judicial.
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.6 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. Las Audiencias Provinciales y los Juzgados con jurisdicción provincial tienen su sede en la capital de provincia.
+ 2. Las Secciones de las Audiencias Provinciales a que se refiere el apartado 5 del artículo 3 de esta Ley, así como los Juzgados de lo Penal, los Juzgados de lo Contencioso-administrativo, los Juzgados de lo Social, los Juzgados de Menores, los Juzgados de lo Mercantil y los Juzgados de Violencia sobre la Mujer, con jurisdicción de extensión territorial inferior o superior a la de una provincia, tienen su sede en la capital del partido que se señale por Ley de la correspondiente Comunidad Autónoma y toman el nombre del municipio en que aquélla esté situada.
+ 3. La sede de los Juzgados de Vigilancia Penitenciaria se establece por el Gobierno, oídos previamente la Comunidad Autónoma afectada y el Consejo General del Poder Judicial."
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.6 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se modifica el apartado 2 por la disposición final 1.1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dfprimera.
+ Se modifica el apartado 2 por la disposición adicional.1 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+ Se modifica el apartado 2 por el art. 3 de la Ley 2/1999, de 11 de enero. Ref. BOE-A-1999-781.
+ Se modifica el apartado 2 por el art. 4 de la Ley 3/1992, de 20 de marzo. Ref. BOE-A-1992-6576
+ Se declara la inconstitucionalidad del art. 8.2 en los términos del fundamento jurídico 10.b), por Sentencia del Tribunal Constitucional 62/1990, de 30 de marzo. Ref. BOE-T-1990-10241.
+
+### Artículo 9
+
+Artículo 9.
+La sede de las Secciones de Familia, Infancia y Capacidad, de las Secciones de Violencia contra la Infancia y la Adolescencia y de las Secciones de Violencia sobre la Mujer que extiendan su jurisdicción a más de un partido judicial se establecerá por el Gobierno, con informe previo de la comunidad autónoma afectada y el Consejo General del Poder Judicial.
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.7 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "Los Juzgados de Primera Instancia e Instrucción y los Juzgados de Violencia sobre la Mujer tienen su sede en la capital del partido."
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.7 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se modifica por el art. 49 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760#a49.
+
+### Artículo 10
+
+Artículo 10.
+1. La determinación del edificio, edificios o inmuebles sede de los órganos judiciales, y de aquellos en que deban constituirse cuando se desplacen fuera de su sede habitual, conforme prevé el artículo 269 de la Ley Orgánica del Poder Judicial, es competencia del Ministerio de Justicia o de la Comunidad Autónoma respectiva. Cuando se trate de Juzgados de Paz, la determinación del edificio se efectúa a propuesta del respectivo Ayuntamiento.
+2. Todas las Salas y Secciones de cada órgano judicial se hallan en el municipio de su sede, salvo las excepciones previstas en esta Ley.
+
+## TÍTULO II
+
+De la planta judicial
+
+## CAPÍTULO I
+
+Planta de los Tribunales
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.8 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "Planta de los Tribunales y Juzgados"
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.8 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 11
+
+Artículo 11.
+La planta del Tribunal Supremo es la establecida en el anexo II de esta Ley.
+
+### Artículo 12
+
+Artículo 12.
+1. La planta de la Audiencia Nacional es la establecida en el anexo III de esta Ley.
+2. El Presidente de la Sala de lo Penal y el Presidente de la Sala de lo Contencioso-Administrativo lo son también de su respectiva Sección Primera.
+
+### Artículo 13
+
+Artículo 13.
+1. La planta de los Tribunales Superiores de Justicia es la establecida en el anexo IV de esta Ley.
+2. El Presidente del Tribunal Superior de Justicia lo es también de su Sala de lo Civil y Penal. De los demás Magistrados que la compone, uno de ellos, en el caso de ser dos, o dos de ellos, en el caso de ser cuatro, son nombrados a propuesta en terna de la Asamblea Legislativa de la Comunidad Autónoma, en la forma prevista por el artículo 330 de la Ley Orgánica del Poder Judicial.
+3. El Gobierno, previo informe del Consejo General del Poder Judicial, puede ampliar hasta cinco el número de Magistrados de la Sala de lo Civil y Penal, en todos o en algunos de los Tribunales Superiores de Justicia que tienen asignada para dicha Sala una plantilla de tres Magistrados.
+
+### Artículo 14
+
+Artículo 14.
+1. La planta de las Audiencias Provinciales es la establecida en el anexo V de esta Ley.
+2. Las Secciones de las Audiencias Provinciales, cuando haya varias, se constituyen con tres Magistrados. Los que exceden del múltiplo de tres se integran en las Secciones existentes, a razón de uno por Sección, comenzando por la Primera. La creación de nuevas plazas de Magistrados en una Audiencia Provincial dará lugar, si procede, a la creación de una nueva Sección completa con las plazas de nueva creación y las que resulten de la reducción a tres del número de Magistrados existentes en otra u otras Secciones. Para la designación de los Magistrados de la nueva Sección procedentes de las ya existentes se atiende a los que lo soliciten de entre los ya destinados en las demás Secciones de la misma sede con mejor puesto escalafonal, y no existiendo o siendo insuficiente el número de los solicitantes que reúnan los requisitos legales, al criterio de menor antigüedad en la categoría. Lo dispuesto en el presente apartado será de aplicación sin perjuicio de lo establecido en el artículo 20.3 de esta Ley.
+Se modifica por el art. 5 de la Ley 3/1992, de 20 de marzo. Ref. BOE-A-1992-6576
+
+### Artículo 15
+
+Artículo 15.
+1. La planta de los Tribunales es la establecida en los anexos.
+2. Serán plazas de magistrados:
+a) Las que integran las Secciones Civiles y las de Instrucción de los Tribunales de Instancia.
+b) Las que integran las Secciones Civiles y de Instrucción que constituyan una Sección Única, las Secciones de Familia, Infancia y Capacidad, las Secciones de Violencia contra la Infancia y la Adolescencia y las Secciones de Violencia sobre la Mujer que tengan su sede en la capital de provincia, y en aquellos otros casos en que así se establezca en los anexos correspondientes de esta ley.
+c) Las que integran las Secciones de lo Mercantil, las de lo Penal, de Menores, de Vigilancia Penitenciaria, de lo Contencioso-Administrativo y de lo Social de los Tribunales de Instancia.
+d) Las que integran todas las Secciones del Tribunal Central de Instancia.
+3. El Consejo General del Poder Judicial podrá acordar, previo informe de las Salas de Gobierno, que, en aquellas circunscripciones donde sea conveniente en función de la carga de trabajo existente, el conocimiento de los asuntos en materia de familia corresponda a uno de los jueces, juezas, magistrados o magistradas de la Sección de Civil, o de Civil y de Instrucción que constituya una Sección Única, determinándose en esta situación que ese juez, jueza, magistrado o magistrada conozca de todos estos asuntos dentro del partido judicial, ya sea de forma exclusiva o conociendo también de otras materias.
+4. El Consejo General del Poder Judicial podrá acordar, previo informe de las Salas de Gobierno, que, en aquellas circunscripciones donde sea conveniente en función de la carga de trabajo existente, el conocimiento de los asuntos en materia de violencia sobre la mujer corresponda a uno de los jueces, juezas, magistrados o magistradas de la Sección de Instrucción, o de Civil y de Instrucción que constituya una Sección Única, determinándose en esta situación que ese juez, jueza, magistrado o magistrada conozca de todos estos asuntos dentro del partido judicial, ya sea de forma exclusiva o conociendo también de otras materias.
+5. El Consejo General del Poder Judicial podrá acordar, previo informe de las Salas de Gobierno, que, en aquellas circunscripciones donde sea conveniente en función de la carga de trabajo existente, el conocimiento de los asuntos en materia de violencia contra la infancia y la adolescencia corresponda a uno de los jueces, juezas, magistrados o magistradas de la Sección de Instrucción, o de Civil y de Instrucción que constituya una Sección Única, determinándose en esta situación que ese juez, jueza, magistrado o magistrada conozca de todos estos asuntos dentro del partido judicial, ya sea de forma exclusiva o conociendo también de otras materias.
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.9 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. La planta de los Juzgados Centrales de Instrucción, de los Juzgados Centrales de lo Penal, de los Juzgados de lo Penal, de los Juzgados de Primera Instancia, de los Juzgados de Instrucción y de los Juzgados de Primera Instancia e Instrucción es la establecida en los anexos VI y VII de esta Ley.
+ 2. Son servidos por Magistrados los Juzgados de lo Penal, los que tienen su sede en una capital de provincia y los demás Juzgados en que así se establezca en el anexo VI."
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.9 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 15. BIS
+
+(Suprimido)
+Téngase en cuenta que la supresión de este artículo, establecida por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. La planta inicial de los Juzgados de Violencia sobre la Mujer será la establecida en el anexo XIII de esta Ley.
+ 2. La concreción de la planta inicial y la que sea objeto de desarrollo posterior, será realizada mediante Real Decreto de conformidad con lo establecido en el artículo 20 de la presente Ley y se ajustará a los siguientes criterios:
+ a) Podrán crearse Juzgados de Violencia sobre la Mujer en aquellos partidos judiciales en los que la carga de trabajo así lo aconseje.
+ b) En aquellos partidos judiciales en los que, en atención al volumen de asuntos, no se considere necesario el desarrollo de la planta judicial, se podrán transformar algunos de los Juzgados de Instrucción y de Primera Instancia e Instrucción en funcionamiento en Juzgados de Violencia sobre la Mujer.
+ c) Asimismo cuando se considere, en función de la carga de trabajo, que no es precisa la creación de un órgano judicial específico, se determinará, de existir varios, qué Juzgados de Instrucción o de Primera Instancia e Instrucción, asumirán el conocimiento de las materias de violencia sobre la mujer en los términos del artículo 1 de la Ley Orgánica de Medidas de Protección Integral contra la Violencia de Género con carácter exclusivo junto con el resto de las correspondientes a la jurisdicción penal o civil, según la naturaleza del órgano en cuestión.
+ 3. Serán servidos por Magistrados los Juzgados de Violencia sobre la Mujer que tengan su sede en la capital de la provincia y los demás Juzgados que así se establecen en el anexo XIII de esta Ley."
+Se suprime, con efectos de 3 de abril de 2025, por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se añade por el art. 50 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760#a50.
+
+### Artículo 16
+
+Artículo 16.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "La planta de los Juzgados Centrales de lo Contencioso-administrativo y de los Juzgados de lo Contencioso-administrativo es la establecida en el anexo VIII de esta Ley."
+Sedeja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se modifica por el art. 3 de la Ley 37/1999, de 28 de octubre. Ref. BOE-A-1999-21088.
+
+### Artículo 17
+
+Artículo 17.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "La planta de los Juzgados de lo Social es la establecida en el anexo IX de esta Ley."
+Se deja sin contenido, desde el 3 de abril de 2025, por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 18
+
+Artículo 18.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. La planta de los Juzgados Centrales de Vigilancia Penitenciaria y de los Juzgados de Vigilancia Penitenciaria, en régimen de exclusividad de funciones, o compatibilizando con las del orden de jurisdicción penal, es la establecida en el anexo X de esta ley.
+ 2. Los Juzgados de Vigilancia Penitenciaria son servidos por Magistrados. En el caso del artículo 94.4 de la Ley Orgánica del Poder Judicial, la categoría de sus titulares es la que corresponde a los Juzgados de Primera Instancia e Instrucción en el partido de su sede."
+Se deja sin contenido, desde el 3 de abril de 2025, por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se modifica el apartado 1 por el art. 3.3 de la Ley Orgánica 5/2003, de 27 de mayo. Ref. BOE-A-2003-10614.
+
+### Artículo 19
+
+Artículo 19.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. La planta del Juzgado Central de Menores y de los Juzgados de Menores es la establecida en el anexo XI de esta Ley.
+ 2. El Juzgado Central de Menores y los Juzgados de Menores deberán ser servidos por Magistrados.
+ 3. La provisión del Juzgado Central de Menores y de los Juzgados de Menores se hace mediante concurso, que se resuelve a favor de quienes acrediten la especialización correspondiente en la Escuela Judicial y tengan mejor puesto en el escalafón y, en su defecto, a favor de los Magistrados con mejor puesto en el escalafón."
+Se deja sin contenido, desde el 3 de abril de 2025, por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se modifica por el art. 4.3 de la Ley Orgánica 7/2000, de 22 de diciembre. Ref. BOE-A-2000-23659.
+
+### Artículo 19.BIS
+
+Artículo 19 bis.
+(Suprimido)
+Téngase en cuenta que la supresión de este artículo, establecida por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. La planta inicial de los Juzgados de lo Mercantil es la establecida en el anexo XII de esta ley.
+ Para la concreción de esta planta inicial y la que sea objeto de desarrollo posterior, realizado mediante real decreto de conformidad con lo establecido en el artículo 20 de esta ley, se ajustará a los siguientes criterios:
+ a) Creación de Juzgados de lo Mercantil.
+ 1.o) Podrán crearse Juzgados de lo Mercantil con sede en la capital de la provincia y jurisdicción en toda ella, cuando las cargas de trabajo así lo aconsejen.
+ 2.o) Igualmente se podrán establecer Juzgados de lo Mercantil en poblaciones distintas de la capital de la provincia cuando criterios poblacionales, industriales o mercantiles así lo aconsejen, con jurisdicción en uno o varios partidos judiciales.
+ b) Transformación de Juzgados de Primera Instancia y de Primera Instancia e Instrucción en Juzgados de lo Mercantil.
+ En aquellas provincias donde, en atención al volumen de asuntos no sea necesaria la ampliación de la Planta se transformarán algunos Juzgados de Primera Instancia y de Primera Instancia e Instrucción en Juzgados de lo Mercantil.
+ c) Compatibilización, en un mismo Juzgado de las materias mercantiles con el resto de las de la jurisdicción civil.
+ En aquellos supuestos en que el volumen de asuntos así lo aconseje se compatibilizarán en un mismo juzgado las materias mercantiles con el resto de las de la jurisdicción civil.
+ 2. Los Juzgados de lo Mercantil son servidos por Magistrados.
+ 3. La provisión de los Juzgados de lo Mercantil se hace mediante concurso, que se resolverá a favor de quienes, acreditando la especialización correspondiente en los asuntos propios de dichos Juzgados obtenida mediante la superación de las pruebas selectivas que reglamentariamente determine el Consejo General del Poder Judicial, tengan mejor puesto en su escalafón. En su defecto, se cubrirá con los Magistrados que acrediten haber permanecido más años en el orden jurisdiccional civil.
+ A falta de estos, por el orden de antigüedad establecido en el apartado primero del artículo 329 de la Ley Orgánica del Poder Judicial."
+Se suprime, con efectos de 3 de abril de 2025, por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se añade por la disposición adicional 11.2 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+## CAPÍTULO II
+
+Modificación de la planta judicial
+
+### Artículo 20
+
+Artículo 20.
+1. El Gobierno podrá modificar el número y composición de los órganos judiciales establecidos por esta ley, mediante la creación de Secciones y plazas de juez, jueza, magistrado o magistrada, sin alterar la demarcación judicial, oídos preceptivamente el Consejo General del Poder Judicial y la comunidad autónoma afectada.
+Por real decreto, a propuesta del Ministro de Justicia, previo informe del Consejo General del Poder Judicial y previa audiencia con carácter preceptivo de la comunidad autónoma afectada, se podrán transformar plazas de magistrado, magistrada, juez o jueza de una Sección en plazas de otra Sección en la misma sede del Tribunal de Instancia, cualquiera que sea su orden jurisdiccional. Cuando existan procedimientos pendientes asociados a la plaza que se transforma, el juez, la jueza, el magistrado o la magistrada que la ocupe conservará su competencia sobre aquellos hasta su conclusión.
+2. En la creación de Secciones de todos los Tribunales se tendrá en cuenta, preferentemente, el volumen de litigiosidad de la circunscripción.
+3. El real decreto correspondiente a la creación de Secciones o de plazas de juez, jueza, magistrado o magistrada en el Tribunal Supremo, Audiencia Nacional, Tribunales Superiores de Justicia, Audiencias Provinciales, Tribunales de Instancia o Tribunal Central de Instancia dispondrá la modificación que proceda de los anexos de esta ley relativos a la planta judicial.
+4. La fecha de efectividad de las plazas de juez, jueza, magistrado o magistrada en el Tribunal Supremo, Audiencia Nacional, Tribunales Superiores de Justicia, Audiencias Provinciales, Tribunales de Instancia y Tribunal Central de Instancia, así como la entrada en funcionamiento de Secciones de nueva creación será fijada por el Ministro de Justicia, oído el Consejo General del Poder Judicial y las comunidades autónomas con competencia transferidas en materia de Justicia, y publicada en el "Boletín Oficial del Estado".
+5. Para el ejercicio de las facultades que se reconocen en los apartados anteriores al Gobierno y al Ministerio de Justicia, será necesaria la previa inclusión de las dotaciones de gastos especificadas en la Ley de Presupuestos Generales del Estado del ejercicio correspondiente.
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.11 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. El Gobierno podrá modificar el número y composición de los órganos judiciales establecidos por esta Ley, mediante la creación de Secciones y Juzgados, sin alterar la demarcación judicial, oído el Consejo General del Poder Judicial y, en su caso, la Comunidad Autónoma afectada.
+ Por Real Decreto, a propuesta del Ministro de Justicia, previo informe del Consejo General del Poder Judicial y previa audiencia con carácter preceptivo de la Comunidad Autónoma afectada, se podrán transformar Juzgados de una clase en Juzgados de clase distinta de la misma sede, cualquiera que sea su orden jurisdiccional.
+ Cuando el juzgado que se transforme esté en funcionamiento y tenga procedimientos pendientes, conservará su competencia sobre éstos hasta su conclusión.
+ 2. En la creación de Secciones y Juzgados se tendrá en cuenta, preferentemente, el volumen de litigiosidad de la circunscripción.
+ 3. El Gobierno, conforme a los mismos requisitos, podrá acordar el aumento de plazas de Magistrados cuando no se estime necesario crear una Sección completa.
+ 4. El Real Decreto de creación de Secciones, Juzgados o plazas de Magistrado dispondrá la modificación que proceda de los Anexos de esta Ley relativos a la planta judicial.
+ 5. La fecha de puesta en funcionamiento e inicio de actividades de las Secciones y Juzgados de nueva creación será fijada por el Ministro de Justicia, oído el Consejo General del Poder Judicial, y publicada en el «Boletín Oficial del Estado».
+ 6. Para el ejercicio de las facultades que se reconocen en los apartados anteriores al Gobierno y al Ministerio de Justicia, será necesaria la previa inclusión de las dotaciones de gastos especificadas en la Ley Presupuestaria del ejercicio correspondiente."
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.11 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se modifica el apartado 1 por el art. 4 de la Ley 2/1999, de 11 de enero. Ref. BOE-A-1999-781.
+ Se modifica el apartado 1 por el art. 3 de la Ley 26/1998, de 13 de julio. Ref. BOE-A-1998-16715.
+ Se modifica el apartado 1 por el art. 6 de la Ley 3/1992, de 20 de marzo. Ref. BOE-A-1992-6576.
+
+### Artículo 21
+
+Artículo 21.
+1. El Gobierno, a propuesta del Consejo General del Poder Judicial y con el informe previo de las comunidades autónomas con competencias transferidas en materia de justicia, podrá establecer la separación de las Secciones Civiles y de Instrucción que constituyan una Sección Única, en Sección Civil y Sección de Instrucción, en aquellos partidos judiciales en los que el número de plazas de magistrado, magistrada o juez que integren la Sección Única así lo aconseje.
+2. El Ministro de Justicia podrá establecer que las plazas de las Secciones Civiles y de Instrucción que constituyan una Sección Única, las de las Secciones de Familia, Infancia y Capacidad, las de las Secciones de Violencia contra la Infancia y la Adolescencia y las de las Secciones de Violencia sobre la Mujer, sean servidas por magistrados y magistradas, siempre que estén radicadas en un partido judicial superior a 150.000 habitantes de derecho o que experimente aumentos de población de hecho que superen dicha cifra, y el volumen de cargas competenciales así lo exija.
+3. En los casos previstos en el presente artículo se dispondrá la modificación que proceda de los anexos de esta ley relativos a la planta judicial.
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.12 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. El Gobierno, a propuesta del Consejo General del Poder Judicial y con el informe previo de las Comunidades Autónomas con competencias transferidas en materia de justicia, podrá establecer la separación entre Juzgados de Primera Instancia y Juzgados de Instrucción en aquellos partidos judiciales en los que el número de Juzgados de Primera Instancia e Instrucción así lo aconseje.
+ 2. El Ministro de Justicia podrá establecer que los Juzgados de Primera Instancia y de Instrucción o de Primera Instancia e Instrucción y los Juzgados de Violencia sobre la Mujer, sean servidos por Magistrados, siempre que estén radicados en un partido judicial superior a 150.000 habitantes de derecho o experimenten aumentos de población de hecho que superen dicha cifra, y el volumen de cargas competenciales así lo exija.
+ 3. En los casos previstos en el presente artículo se dispondrá la modificación que proceda de los anexos de esta Ley relativos a la planta judicial."
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.12 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se modifica el apartado 2 por el art. 51 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760#a51.
+ Se modifica el apartado 1 por la disposición adicional segunda de la Ley 38/2002, de 24 de octubre. Ref. BOE-A-2002-20823.
+
+## CAPÍTULO III
+
+Destinos de carácter técnico o con funciones exclusivas de Presidencia de Tribunales de Instancia o Tribunal Central de Instancia
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.13 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "Destinos de carácter técnico o con funciones exclusivas de Decanato y de Registro Civil"
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.13 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 22
+
+Artículo 22.
+En el Consejo General del Poder Judicial prestarán servicio los miembros de la Carrera Judicial que se determinen en su plantilla, con independencia de los que integren la planta prevista en esta Ley.
+
+### Artículo 23
+
+Artículo 23.
+Las retribuciones de los Letrados al servicio del Gabinete Técnico del Tribunal Supremo serán las correspondientes a un Letrado de la Administración de Justicia de Sala del Tribunal Supremo. No obstante, los Letrados que desarrollen labores de coordinación conforme a lo previsto en el apartado 4 del artículo 61 bis de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y que además pertenezcan a la Carrera judicial, percibirán las previstas en el Anexo II.2 de la Ley 15/2003 para los Magistrados del Gabinete Técnico del Tribunal Supremo.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado por Sentencia del TC 131/2024, de 23 de octubre. Ref. BOE-A-2024-24766
+Se declara inconstitucional y nulo el inciso destacado por Sentencia del TC 131/2024, de 23 de octubre. Ref. BOE-A-2024-24766
+ Se modifica por la disposición final 1.2 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dfprimera.
+ Téngase en cuenta para su aplicación la disposición final 8 de la citada Ley Orgánica.
+ Se modifican los apartados 1 y 3 por la disposición adicional 11.1 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+### Artículo 24
+
+Artículo 24.
+La Jefatura del Servicio de Inspección del Consejo General del Poder Judicial será cubierta por Magistrado del Tribunal Supremo o por quien sea promovido a dicha categoría. El Jefe del Servicio de Inspección, cuando cese en su cargo, quedará adscrito al Tribunal Supremo hasta que obtenga destino definitivo.
+
+### Artículo 25
+
+Artículo 25.
+En el Ministerio de Justicia, con la adscripción que determine su Reglamento Orgánico, podrán existir hasta diez plazas servidas por jueces o magistrados, diez por fiscales, diez por secretarios judiciales y dos por médicos forenses.Se proveerán mediante concurso de méritos que convocará y resolverá el Ministerio de Justicia en la forma que se determine reglamentariamente.
+Dichas plazas no incrementarán la relación de puestos de trabajo que tenga aprobada el Ministerio y los funcionarios que las ocupen mantendrán el régimen retributivo de sus Cuerpos de origen.
+Se modifica el párrafo 1 por la disposición final.3 de la Ley 54/2007, de 28 de dciciembre. Ref. BOE-A-2007-21760.
+ Se modifica por el art. 113 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117.
+
+### Artículo 26
+
+Artículo 26.
+La liberación total del trabajo en el orden jurisdiccional respectivo, que corresponde a quienes ostenten la Presidencia de los Tribunales de Instancia, a que se refiere el artículo 166.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, se efectuará en aquellos partidos judiciales que cuenten con cuarenta o más plazas judiciales en el Tribunal de Instancia.
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.14 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. La liberación total del trabajo, en el orden jurisdiccional respectivo, que corresponde al titular del Decanato de los Juzgados, a que se refiere el artículo 166.3 de la Ley Orgánica del Poder Judicial, se efectuará en aquellos partidos judiciales que cuenten con cuarenta o más Juzgados de los diversos órdenes jurisdiccionales.
+ 2. En las demás circunscripciones en que fuere necesario, el Decanato estará dotado de una oficina independiente para el ejercicio de las funciones que como tal le correspondan."
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.14 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 27
+
+Artículo 27.
+(Derogado)
+Téngase en cuenta que este artículo queda derogado, con efectos de 30 de abril de 2021, por la disposición derogatoria.2 de la Ley 20/2011, de 21 de julio. Ref. BOE-A-2011-12628#dd.
+ Redacción anterior:
+ 1. Las plazas de Jueces o Magistrados encargados con exclusividad del Registro Civil serán las del Registro Civil Central de Madrid y las demás previstas en el Anexo VI. En las poblaciones que cuenten con más de 500.000 habitantes y en aquellas otras en que se juzgue conveniente en atención al volumen de población y al alto número de actuaciones de esta naturaleza, podrán establecerse mediante Orden ministerial otras plazas de Jueces o Magistrados encargados con exclusividad del Registro Civil.
+ 2. En las demás poblaciones en que existan varios Juzgados de Primera Instancia o de Primera Instancia e Instrucción, ejercerán las funciones de Registro Civil los Juzgados procedentes de la conversión prevista en la disposición transitoria tercera de la Ley Orgánica del Poder Judicial que las vinieren ejerciendo en el momento de producirse la misma y, en su defecto, el Juzgado número 1. Por Orden ministerial podrá disponerse que asuma las funciones de Registro Civil el Juzgado único que se determine.
+Se deroga, con efectos de 30 de abril de 2021, por la disposición derogatoria.2 de la Ley 20/2011, de 21 de julio. Ref. BOE-A-2011-12628#dd.
+
+## TÍTULO III
+
+De las disposiciones orgánicas para la efectividad de la planta judicial
+
+## CAPÍTULO I
+
+Establecimiento de la planta del Tribunal Supremo y de la Audiencia Nacional
+
+### Artículo 28
+
+Artículo 28.
+1. Las actuales Salas Tercera, Cuarta y Quinta de lo Contencioso-Administrativo del Tribunal Supremo se constituirán en Sala única de lo Contencioso-Administrativo en el plazo de treinta días, a partir de la entrada en vigor de esta Ley.
+2. El Consejo General del Poder Judicial designará al Magistrado del Tribunal Supremo a quien corresponderá la presidencia de la Sala de lo Contencioso-Administrativo en lo sucesivo entre los Presidentes de las Salas actualmente existentes.
+
+### Artículo 29
+
+Artículo 29.
+1. Los Magistrados actualmente destinados en las Salas de lo Civil y de lo Contencioso-Administrativo del Tribunal Supremo continuarán prestando servicios en ellas.
+2. La composición de la Sala de lo Civil del Tribunal Supremo se acomodará a la prevista en el Anexo II, a cuyo efecto, a partir de la entrada en vigor de esta Ley, no se cubrirán y quedarán amortizadas las vacantes que se produzcan hasta que se alcance la nueva composición.
+3. La composición de la Sala de lo Contencioso-Administrativo se acomodará a la prevista en el Anexo II.
+Se modifica el apartado 3 por el art.7 de la Ley 3/1992, de 20 de marzo. Ref. BOE-A-1992-6576.
+
+### Artículo 30
+
+Artículo 30.
+A partir de la entrada en vigor de la presente Ley, el Consejo General del Poder Judicial propondrá los nombramientos necesarios para completar las Salas de lo Penal y de lo Social del Tribunal Supremo.
+
+### Artículo 31
+
+Artículo 31.
+1. En el plazo de tres meses a partir de la entrada en vigor de esta Ley, el Consejo General del Poder Judicial efectuará las adscripciones de Presidentes de Sala y Magistrados del Tribunal Central de Trabajo a la Sala de lo Social de la Audiencia Nacional y a la Sala de lo Social del Tribunal Superior de Justicia de Madrid, siguiendo el orden de preferencia establecido en la disposición transitoria decimoctava de la Ley Orgánica del Poder Judicial. Efectuadas las adscripciones, el Gobierno, en el plazo de un mes, a partir de su publicación, fijará la fecha, que se publicará en el «Boletín Oficial del Estado», en que comenzará el ejercicio de su competencia.
+2. El personal al servicio de la Administración de Justicia que presta servicio en el Tribunal Central de Trabajo será destinado a la Audiencia Nacional o al Tribunal Superior de Justicia de Madrid. La adscripción se determinará con arreglo a lo dispuesto reglamentariamente.
+
+## CAPÍTULO II
+
+Constitución y establecimiento de la planta de los Tribunales Superiores de Justicia
+
+### Artículo 32
+
+Artículo 32.
+1. La constitución de los Tribunales Superiores de Justicia tendrá carácter preferente dentro de la programación a que se refiere el artículo 62 de esta Ley .
+2. Dentro del plazo de tres meses a partir de la entrada en vigor de esta Ley, las Asambleas Legislativas de las Comunidades Autónomas presentarán las ternas de juristas de reconocido prestigio con más de diez años de ejercicio profesional en la Comunidad Autónoma respectiva, para cubrir plaza de Magistrado de la Sala de lo Civil y Penal del Tribunal Superior de Justicia. Recibida la terna en cualquier momento, el Consejo General del Poder Judicial procederá a proponer el nombramiento correspondiente.
+3. En el mismo plazo de tres meses, háyase o no recibido la terna a que se refiere el apartado 2 de este artículo, el Consejo General del Poder Judicial propondrá los nombramientos de los restantes Magistrados de las Salas de lo Civil y Penal y de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia.
+4. Una vez hayan sido nombrados los Magistrados de los Tribunales Superiores de Justicia, el Consejo General del Poder Judicial propondrá el nombramiento de los Presidentes de los expresados Tribunales y fijará la fecha, que será publicada en el «Boletín Oficial del Estado», en la que tendrá lugar la toma de posesión, de los miembros del Tribunal y su constitución, sin perjuicio de la publicación en el «Boletín Oficial» de la Comunidad Autónoma correspondiente.
+5. En la provisión de la plaza de Presidente del Tribunal Superior de Justicia en aquellas Comunidades Autónomas que gocen de Derecho civil especial o foral, así como de idioma oficial propio, el Consejo General del Poder Judicial valorará como mérito la especialización en este Derecho civil especial o foral y el conocimiento del idioma propio de la Comunidad.
+
+### Artículo 33
+
+Artículo 33.
+1. La Sala de lo Civil y Penal y la de lo Contencioso-Administrativo del Tribunal Superior de Justicia iniciarán el ejercicio de su competencia el día de la constitución del Tribunal.
+2. Si no se hubiera efectuado aún el nombramiento de Magistrado de la Sala de lo Civil y Penal presentado en terna por la Asamblea Legislativa de la Comunidad Autónoma, se aplicará el procedimiento previsto por la Ley para completar la Sala.
+3. El ámbito territorial de la jurisdicción del Tribunal Superior de Justicia tendrá efectividad, para cada una de sus Salas, el día del inicio del ejercicio de su competencia.
+
+### Artículo 34
+
+Artículo 34.
+1. Los Magistrados destinados en las Salas de lo Contencioso-Administrativo de las Audiencias Territoriales quedarán integrados en las Salas de lo Contencioso-Administrativo del Tribunal Superior de Justicia que tengan su sede donde la tuviesen aquéllas en el momento de la entrada en vigor de esta Ley.
+2. Los Magistrados destinados en la Sala de lo Contencioso-Administrativo que tienen su sede en Murcia quedarán integrados en la Sala del mismo orden del Tribunal Superior de Justicia de dicha Comunidad Autónoma.
+3. El Consejo General del Poder Judicial propondrá los nombramientos de los Magistrados a que se refieren los apartados anteriores de este artículo en el plazo previsto en el artículo 32.3.
+4. La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia será presidida por el Magistrado que desempeñe la presidencia de la Sala de lo Contencioso-Administrativo de la Audiencia Territorial. En caso de ser varios, por el Presidente de mayor antigüedad en la categoría de Magistrado.
+5. El personal al servicio de la Administración de Justicia que preste servicios en las Salas de lo Contencioso-Administrativo de las Audiencias Territoriales quedará destinado en el Tribunal Superior de Justicia y adscrito a la Sala de lo Contencioso-Administrativo. Dicha adscripción podrá ser modificada con arreglo a lo dispuesto reglamentariamente.
+
+### Artículo 35
+
+Artículo 35.
+1. El Gobierno, previo informe del Consejo General del Poder Judicial, determinará la fecha en que serán efectivas las plazas que correspondan a cada una de las Salas del Tribunal Superior de Justicia, con arreglo a las previsiones de la planta, atendiendo a un criterio de preferencia según las cargas competenciales de cada órgano.
+2. La composición plena de todas las Salas se alcanzará dentro del período de programación previsto en el artículo 62 de esta Ley.
+
+### Artículo 36
+
+Artículo 36.
+1. El Consejo General del Poder Judicial podrá limitar las propuestas iniciales de nombramiento de miembros de las Salas de lo Social de los Tribunales Superiores de Justicia al Presidente de la Sala y, si procediese, al Magistrado o a los Magistrados que se estimen necesarios en cada Tribunal, sin perjuicio de completar progresivamente la planta, hasta alcanzar su composición plena.
+2. Las propuestas a que se refiere el apartado anterior se efectuarán en el momento en que se estime conveniente, con sujeción a criterios de gradualidad, teniendo en cuenta las posibilidades de cobertura de las plazas correspondientes y las vacantes que puedan originarse en otros órganos.
+3. Efectuados los nombramientos, el Consejo General del Poder Judicial determinará la fecha en que cada Sala iniciará el ejercicio de la competencia, que se publicará en el «Boletín Oficial del Estado», sin perjuicio de la publicación en el «Boletín Oficial» de la Comunidad Autónoma correspondiente.
+
+### Artículo 37
+
+Artículo 37.
+En los supuestos previstos en los artículos anteriores, el plazo de cese en los órganos de procedencia y el plazo de toma de posesión de los Magistrados y de los miembros del personal que haya de integrarse en las respectivas Salas, se computará con sujeción a lo que se determine en el acuerdo de nombramiento o destino.
+
+### Artículo 38
+
+Artículo 38.
+El Consejo General del Poder Judicial, una vez hayan iniciado el ejercicio de su competencia la Sala de lo Social de la Audiencia Nacional y las Salas de lo Social de todos los Tribunales Superiores de Justicia, y efectuadas las integraciones que prevé la disposición transitoria decimoctava de la Ley Orgánica del Poder Judicial, determinará la fecha de supresión del Tribunal Central de Trabajo y finalización del ejercicio de su competencia y ordenará su publicación en el «Boletín Oficial del Estado». A partir de esta fecha, la Sala de lo Social del Tribunal Superior de Justicia de Madrid, en la forma que establece la disposición transitoria ya citada, conocerá de los asuntos pendientes ante el Tribunal Central de Trabajo, con excepción de lo que corresponda a la Sala de lo Social de la Audiencia Nacional.
+
+## CAPÍTULO III
+
+Establecimiento de la planta de las Audiencias Provinciales
+
+### Artículo 39
+
+Artículo 39.
+1. La composición inicial de las Audiencias Provinciales será la actual. El Gobierno, oído el Consejo General del Poder Judicial, a tenor de las disponibilidades presupuestarias de cada ejercicio económico, y atendiendo a criterios de preferencia según las mayores cargas competenciales, determinará la fecha de efectividad de las plazas correspondientes, hasta alcanzar la planta definitiva en el plazo de programación establecido en el artículo 62 de esta Ley.
+2. Cuando la planta fijada en esta Ley comprendiera un número de Magistrados inferior al actualmente previsto para la Audiencia Provincial, se amortizarán las plazas correspondientes a partir de la entrada en vigor de esta Ley, a tenor de las vacantes que se fueran produciendo.
+
+### Artículo 40
+
+Artículo 40.
+1. Las Audiencias Provinciales radicadas en localidades donde actualmente existen Salas de lo Civil quedarán integradas, además de por los Magistrados que actualmente las componen, por los Magistrados de las Salas de lo Civil de las Audiencias Territoriales de la sede, distribuidos en las correspondientes Secciones a tenor de lo que determine, según criterio de posición escalafonal, el Consejo General del Poder Judicial, hasta completar la planta prevista en esta Ley. El resto de los Magistrados de la Sala o Salas de lo Civil quedarán integrados en la propia Audiencia, en calidad de adscritos, con arreglo al orden de preferencia escalafonal.
+2. Los Magistrados adscritos según lo establecido en el apartado anterior ocuparán automáticamente las primeras vacantes que se produzcan en la Audiencia Provincial.
+3. El personal al servicio de la Administración de Justicia que preste servicios en las Salas de lo Civil de la Audiencia Territorial quedará destinado en la Audiencia Provincial. La adscripción se determinará con arreglo a lo dispuesto reglamentariamente.
+
+## CAPÍTULO IV
+
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "Establecimiento de la planta de los Juzgados"
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 41
+
+Artículo 41.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. El Gobierno, en el marco de la Ley de Presupuestos, previo informe del Consejo General del Poder Judicial teniendo en cuenta el desarrollo de los procesos de selección de miembros de la Carrera Judicial y atendiendo a criterios de preferencia según las mayores cargas competenciales y, asimismo, a la concentración urbana, industrial o turística del ámbito territorial de la jurisdicción, procederá de manera escalonada a la constitución, así como la conversión y supresión de Juzgados necesaria para la plena efectividad de la planta prevista en esta Ley, con sujeción a los criterios que se establecen en este artículo y en los siguientes.
+ 2. La constitución de aquellos Juzgados cuya entrada en funcionamiento sea necesaria para la efectividad de los partidos de nueva creación se efectuará dentro de los plazos previstos en el artículo 42 de esta Ley.
+ 3. Los límites geográficos de los actuales partidos judiciales se mantendrán a la entrada en vigor de esta Ley.
+ 4. El ámbito territorial de la jurisdicción de los distintos Juzgados, conforme a la demarcación establecida por esta Ley, tendrá efectividad en la fecha que se determine con arreglo a lo dispuesto en el artículo 42.2.
+ 5. La fecha de entrada en funcionamiento de los Juzgados a que se refiere el presente capítulo se fijará de conformidad con lo dispuesto en el artículo 20.5 de esta Ley."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 42
+
+Artículo 42.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. El Gobierno, en el plazo de seis meses, a partir de la fecha de promulgación de la presente Ley, oído el Consejo General del Poder Judicial, determinará la fecha en que los Juzgados de lo Penal entrarán en funcionamiento mediante Real Decreto con arreglo a la planta inicial que se determine y sin perjuicio de lo dispuesto en el artículo 41.
+ 2. En el plazo de un año, a partir de la fecha de la promulgación de la presente Ley, el Gobierno, oído el Consejo General del Poder Judicial, efectuará la conversión de los actuales Juzgados de Distrito en Juzgados de Primera Instancia, de Instrucción, de Primera Instancia e Instrucción o, en su caso, de Paz, con arreglo a lo dispuesto en la disposición transitoria tercera de la Ley Orgánica del Poder Judicial.
+ 3. Cuando el Consejo General del Poder Judicial haga uso de la facultad prevista en el artículo 98 de la Ley Orgánica del Poder Judicial con ocasión de la conversión de los Juzgados de Distrito en Juzgados de Primera Instancia, de Instrucción o de Primera Instancia e Instrucción, la fecha de producción de efectos del acuerdo podrá ser la de conversión a que se refiere el apartado anterior."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 43
+
+Artículo 43.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. En la fecha de entrada en vigor de esta Ley dejarán de ejercer sus funciones las actuales Magistraturas de Trabajo y entrarán en funcionamiento los Juzgados de lo Social, con los correspondientes titulares y funcionarios adscritos a aquéllas.
+ 2. El Gobierno, en el marco de la Ley de Presupuestos, dispondrá, previo informe del Consejo General del Poder Judicial, la constitución de los Juzgados de lo Social que resulte necesaria, hasta completar la planta prevista en esta Ley en el plazo general de programación establecido en el artículo 62."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 44
+
+Artículo 44.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "El Gobierno, en el marco de la Ley de Presupuestos, dispondrá, previo informe del Consejo General del Poder Judicial, la constitución de los distintos Juzgados de lo Contencioso-Administrativo previstos en esta Ley, dentro del plazo general de programación establecido en el artículo 62."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 45
+
+Artículo 45.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "El Gobierno, en el marco de la Ley de Presupuestos, previo informe del Consejo General del Poder Judicial, acordará la constitución y determinará la sede de los Juzgados de Vigilancia Penitenciaria necesarios para alcanzar el número total fijado en esta Ley en el plazo general de programación establecido en el artículo 62."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 46
+
+Artículo 46.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. El Gobierno, en el marco de la Ley de Presupuestos acordará la constitución de los distintos Juzgados de Menores, previo informe del Consejo General del Poder Judicial, en el plazo general de programación establecido en el artículo 62.
+ 2. La fecha de entrada en funcionamiento se fijará de acuerdo con lo dispuesto en el artículo 20.5 de esta Ley."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 46.BIS
+
+Artículo 46 bis.
+(Suprimido)
+Téngase en cuenta que la supresión de este artículo, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "El Gobierno, dentro del marco de la respectiva ley de presupuestos, oído el Consejo General del Poder Judicial, y en su caso la comunidad autónoma afectada, procederá de forma escalonada, mediante Real Decreto, a la constitución, compatibilización y transformación de Juzgados de Primera Instancia y de Juzgados de Primera Instancia e Instrucción para la plena efectividad de la planta correspondiente a los Juzgados de lo Mercantil."
+Se suprime, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se añade por la disposición adicional 11.2 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+### Artículo 46.TER
+
+Artículo 46 ter
+(Suprimido)
+Téngase en cuenta que la supresión de este artículo, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. El Gobierno, dentro del marco de la Ley de Presupuestos Generales del Estado, oído el Consejo General del Poder Judicial y, en su caso, la Comunidad Autónoma afectada, procederá de forma escalonada y mediante Real Decreto a la constitución, compatibilización y transformación de Juzgados de Instrucción y de Primera Instancia e Instrucción para la plena efectividad de la planta de los Juzgados de Violencia sobre la Mujer.
+ 2. En tanto las Comunidades Autónomas no fijen la sede de los Juzgados de Violencia sobre la Mujer, ésta se entenderá situada en aquellas poblaciones que se establezcan en el anexo XIII de la presente Ley."
+Se suprime, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se añade por el artículo 52 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760#a52.
+
+### Artículo 47
+
+Artículo 47.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "La entrada en funcionamiento del Juzgado o Juzgados de Menores supondrá el cese de los actuales titulares del Tribunal Tutelar de Menores cuyo ámbito territorial se corresponda con el de aquél o aquéllos y la integración del resto del personal en el Juzgado o Juzgados constituidos."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 48
+
+Artículo 48.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. En la fecha de entrada en vigor de esta Ley quedará suprimido y cesará en el ejercicio de su competencia el Tribunal de Apelación de los Tribunales Tutelares de Menores.
+ 2. El personal que preste servicios en el Tribunal de Apelación será destinado a los órganos judiciales de Madrid que tengan competencia en materia de menores, en régimen de titularidad de la plaza o, en su defecto, de adscripción con ocupación automática de la primera vacante."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 49
+
+Artículo 49.
+1. Los Jueces de Paz percibirán una retribución con arreglo a los módulos que se fijen en la Ley de Presupuestos Generales del Estado en función del número de habitantes de derecho de la localidad.
+2. La percepción a que se refiere el apartado anterior de este artículo será compatible con las percepciones ordinarias obtenidas por el interesado en el ejercicio de actividades profesionales o mercantiles. En ningún caso supondrá reconocimiento de dependencia alguna con respecto al Ayuntamiento.
+
+### Artículo 50
+
+Artículo 50.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. La Secretaría de los Juzgados de Paz de poblaciones de más de 7.000 habitantes y la de aquellos otros Juzgados de Paz o Agrupaciones de Secretarías de los mismos en los que la carga de trabajo lo justifique, será desempeñada por un Oficial al servicio de la Administración de Justicia, conforme se determinen en la plantilla del Cuerpo.
+ 2. La Orden de plantilla determinará las agrupaciones a que se refiere el artículo 99.2 de la Ley Orgánica del Poder Judicial.
+ 3. En los demás Juzgados de Paz, el Ayuntamiento nombrará una persona idónea para el desempeño de la Secretaría y lo comunicará al Ministerio de Justicia para su aprobación.
+ 4. Con sujeción al régimen local, las Comunidades Autónomas y los Ayuntamientos podrán promover y efectuar Agrupaciones de Secretarías para que sean servidas por un solo funcionario."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 51
+
+Artículo 51.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. En los Juzgados de Paz se prestará servicio por personal dependiente del Ayuntamiento, sin perjuicio de la normativa aplicable al ejercicio de su función.
+ 2. No obstante, en los Juzgados de Paz de poblaciones de más de 7.000 habitantes y en aquellos otros Juzgados de Paz en los que la carga de trabajo lo justifique prestarán servicio funcionarios de los Cuerpos al servicio de la Administración de Justicia, con arreglo a las plazas que se prevean en la plantilla de dichos Cuerpos.
+ 3. Las instalaciones y medios instrumentales del Juzgado de Paz, salvo cuando fuere conveniente su gestión total o parcial por el Ministerio de Justicia o la Comunidad Autónoma respectiva, estarán a cargo del Ayuntamiento respectivo."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 52
+
+Artículo 52.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "En los Presupuestos Generales del Estado se establecerá un crédito para subvencionar a los Ayuntamientos por la atención de los conceptos a que se refieren los dos artículos anteriores. La subvención se modulará en función del numero de habitantes de derecho del municipio."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+## TÍTULO IV
+
+De las disposiciones de orden procesal para la efectividad de la planta judicial
+
+### Artículo 53
+
+Artículo 53.
+1. Los órganos judiciales se atendrán a las normas orgánicas, procesales y de funcionamiento establecidas en la Ley Orgánica del Poder Judicial y en las disposiciones actualmente en vigor, salvo las modificaciones de estas últimas que resultan de la presente Ley.
+2. De no establecerse lo contrario, los órganos de nueva planta ajustarán su funcionamiento a las normas procesales vigentes aplicables a los órganos suprimidos de naturaleza similar.
+3. La composición de las Secciones se ajustará a lo dispuesto en el artículo 198 de la Ley Orgánica del Poder Judicial, sin más limitaciones que las que se infieren del artículo 12.2 y del artículo 14.2 de la presente Ley.
+4. La iniciación del ejercicio de la competencia por los órganos de nueva planta o de nueva creación previstos en esta Ley no supondrá la asunción de los procedimientos en trámite ante otros órganos ya existentes, salvo en los casos de supresión de éstos y sin perjuicio de lo que pueda acordarse por vía de reparto.
+
+### Artículo 54
+
+(Sin contenido)
+Se deja sin contenido por el art. 5 de la Ley 10/1992, de 30 de abril. Ref. BOE-A-1992-9548.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 122, de 23 de mayo. Ref. BOE-A-1989-11628.
+
+### Artículo 55
+
+Artículo 55.
+Los Magistrados de la Sala de lo Civil y Penal del Tribunal Superior de Justicia completarán las demás Salas del Tribunal, con arreglo al turno que se establezca en aplicación del artículo 199 de la Ley Orgánica del Poder Judicial.
+
+### Artículo 56
+
+Artículo 56.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. Las Audiencias Provinciales de Albacete, Asturias, Ávila, Baleares, Barcelona, Burgos, Cáceres, Cantabria, A Coruña, Granada, Guadalajara, Guipúzcoa, Madrid, Murcia, Las Palmas, Navarra, La Rioja, Santa Cruz de Tenerife, Segovia, Sevilla, Toledo, Valencia, Valladolid, Vizcaya y Zaragoza asumirán plena competencia en el orden civil a partir del día de la entrada en vigor de la presente Ley.
+ 2. Las restantes Audiencias Provinciales conservarán las atribuciones de orden civil que les corresponden en el momento de la entrada en vigor de esta Ley. En el plazo de un año a partir de su vigencia, el Gobierno dispondrá lo pertinente para que todas las Audiencias Provinciales asuman la plenitud de competencias en el orden civil.
+ 3. En tanto no asuman la plenitud de su competencia en el orden civil las Audiencias Provinciales a que se refiere el párrafo anterior, la competencia no asumida será ejercida por la Audiencia Provincial radicada en la localidad donde a la entrada en vigor de esta Ley existía Sala de lo Civil de la Audiencia Territorial."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 57
+
+Artículo 57.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia tendrán la competencia que a la entrada en vigor de esta Ley corresponde a las Salas de lo Contencioso-Administrativo de las Audiencias Territoriales, en tanto no se pongan en funcionamiento los Juzgados de lo Contencioso-Administrativo."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 58
+
+Artículo 58.
+1. No procederá el recurso de apelación ante la Sala de lo Contencioso-Administrativo del Tribunal Supremo en los recursos de que conozcan las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia contra actos o disposiciones provenientes de los Órganos de la Comunidad Autónoma, salvo si el escrito de interposición del recurso se fundase en la infracción de normas no emanadas de los Órganos de aquélla.
+2. Lo establecido en el apartado anterior se entiende sin perjuicio de lo dispuesto en el artículo 102 de la Ley Reguladora de la Jurisdicción Contencioso-Administrativa sobre el recurso de revisión.
+3. Las dudas sobre competencia que pudieran suscitarse entre la atribuida al Tribunal Supremo y al Tribunal Superior de Justicia se resolverán de conformidad con lo dispuesto en el apartado d) del artículo 54.1.
+
+### Artículo 59
+
+Artículo 59.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. En tanto no se regulen los procesos especiales de impugnación de convenios colectivos y los procesos sobre conflictos colectivos a que se refiere el artículo 67 de la Ley Orgánica del Poder Judicial, la Sala de lo Social de la Audiencia Nacional conocerá de los recursos de suplicación que se interpongan contra las sentencias dictadas por los Juzgados de lo Social en tales materias, con arreglo a la legislación vigente, siempre que el ámbito territorial de aplicación del convenio colectivo o en el que hayan de surtir efecto la resolución del conflicto colectivo sea superior al de una Comunidad Autónoma.
+ 2. Las Salas de lo Social de los Tribunales Superiores de Justicia entenderán de los recursos interpuestos contra resoluciones de los Juzgados de lo Social en el ámbito de la Comunidad Autónoma, de los que en el momento de la entrada en vigor de esta Ley conoce el Tribunal Central de Trabajo, salvo los previstos en el apartado anterior.
+ 3. En tanto no hubiesen iniciado el ejercicio de su competencia las Salas de lo Social de los Tribunales Superiores de Justicia respectivos, el conocimiento de los recursos previstos en el apartado anterior seguirá correspondiendo al Tribunal Central de Trabajo.
+ 4. Las cuestiones de competencia entre la Sala de lo Social de la Audiencia Nacional y el Tribunal Central de Trabajo o las Salas de lo Social de los Tribunales Superiores de Justicia se resolverán con arreglo a lo dispuesto en el artículo 51 de la Ley Orgánica del Poder Judicial."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 60
+
+Artículo 60.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "Los Juzgados de lo Social conocerán de todos los asuntos atribuidos a las Magistraturas de Trabajo en el momento de la entrada en vigor de esta Ley, en tanto no se promulgue la Ley Reguladora del proceso laboral."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 61
+
+Artículo 61.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. Los Juzgados de Menores tendrán la competencia establecida en la legislación reguladora de la responsabilidad penal de los menores.
+ 2. Las Audiencias Provinciales conocerán de los recursos interpuestos contra las resoluciones de los Juzgados de Menores en el ámbito de su respectiva provincia, sin perjuicio de lo dispuesto en la legislación reguladora de la responsabilidad penal de los menores para la Audiencia Nacional."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se modifica por el art. 4.4 de la Ley Orgánica 7/2000, de 22 de diciembre. Ref. BOE-A-2000-23659.
+
+## TÍTULO V
+
+De las medidas económico-financieras para la implantación y sostenimiento de la planta judicial
+
+### Artículo 62
+
+Artículo 62.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "El Gobierno elaborará los programas necesarios para la aplicación efectiva de la nueva planta judicial, en el período comprendido entre 1989 y 1992. Corresponderá al Ministerio de Justicia su desarrollo y ejecución.
+ No obstante lo dispuesto en el apartado anterior, el Gobierno, previo informe del Consejo General del Poder Judicial, podrá acordar la extensión de los mencionados programas durante los años 1993 y 1994."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+ Se añade el párrafo segundo por la disposición adicional cuarta de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Artículo 63
+
+Artículo 63.
+(Sin contenido)
+Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-8, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "Para la determinación de los créditos a que se refiere el artículo anterior, el Gobierno elaborará anualmente los programas necesarios, de acuerdo con los criterios objetivos de prioridades a que se refieren los artículos 32, 39, 41, 43.2, 44, 45 y 46 de la presente Ley. El Ministerio de Justicia presentará, a tal efecto, Memoria de las realizaciones llevadas a cabo."
+Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-8
+
+### Artículo 64
+
+Artículo 64.
+A los efectos prevenidos en el artículo 10 de la Ley de Expropiación Forzosa, se declaran de utilidad pública las obras de construcción, modificación y ampliación de edificios para sede de Juzgados, Tribunales y Centros, Organismos y Servicios de la Administración de Justicia necesarias para la ejecución de la planta establecida en esta Ley.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En tanto las Comunidades Autónomas no determinen la capitalidad de los partidos judiciales, de conformidad con lo dispuesto en el artículo 35.6 de la Ley Orgánica del Poder Judicial, ésta se entenderá reconocida al municipio que la tuviese a la entrada en vigor de esta Ley; si existiesen varios, al municipio en que radicasen más Juzgados de Primera Instancia e Instrucción; en caso de igualdad, al de mayor población de derecho. En su defecto, al municipio o municipios en que radicasen Juzgados de Distrito, con iguales criterios de preferencia y, en último término, al de mayor población de derecho.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Los dos Presidentes de las actuales Salas de lo Contencioso-Administrativo del Tribunal Supremo que no sean nombrados para la Presidencia de la Sala de lo Contencioso-Administrativo del mismo mantendrán, a título personal, los derechos económicos que correspondan a un Presidente de la Sala del Tribunal Supremo y presidirán las Secciones que puedan constituirse.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+1. Los Presidentes de las actuales Salas de lo Contencioso-Administrativo de las Audiencias Territoriales a los que no correspondiere la Presidencia de la Sala de lo Contencioso-Administrativo del Tribunal Superior Justicia presidirán, en su caso, las Secciones que pudieran constituirse y mantendrán los derechos económicos correspondientes a un Presidente de Sala, mientras no obtuviesen otro destino.
+2. Los Presidentes de las Salas de lo Civil de las Audiencias Territoriales presidirán, en su caso, las Secciones que pudieran constituirse y mantendrán los derechos económicos correspondientes a un Presidente de Sala, mientras no obtuviesen otro destino.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+En tanto no se produzca la constitución de los Juzgados de Menores, y sin perjuicio de lo establecido en la disposición transitoria vigésima sexta de la Ley Orgánica del Poder Judicial, el Consejo General del Poder Judicial podrá proceder al nombramiento de miembros de la Carrera Judicial para las plazas correspondientes a los Tribunales Tutelares de Menores que no se hallen ocupadas por Jueces pertenecientes a la Escala de Jueces Unipersonales de Menores, disponiendo el cese de sus actuales titulares.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Los actuales Secretarios de Juzgados de Paz continuarán desempeñando sus funciones con sujeción al régimen actual hasta que se produzca el nombramiento de persona idónea.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Los actuales Jueces de Paz continuarán ejerciendo sus funciones hasta la entrada en funcionamiento del Juzgado de Paz constituido de conformidad con lo establecido en la Ley Orgánica del Poder Judicial.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Las percepciones a que se refiere el artículo 49 únicamente corresponderán a los Jueces de Paz nombrados a partir de la entrada en vigor de la presente Ley.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+Los miembros de la Carrera Judicial a que se refiere la disposición transitoria vigésima quinta de la Ley Orgánica del Poder Judicial podrán participar en el concurso de méritos a que se hace referencia en el artículo 25 de la presente Ley. Si no obtuviesen plaza en el referido concurso o no tomasen parte en el mismo, en el plazo de tres meses, a partir de la fecha de la resolución, deberán optar entre pasar al servicio activo en la Carrera Judicial, quedando adscritos al Tribunal Superior de Justicia o a la Audiencia Provincial de Madrid hasta que obtengan destino en propiedad, o pasar a la situación de excedencia voluntaria en la misma.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+1. En tanto las comunidades autónomas respectivas no fijen la sede de los Juzgados de lo Penal, ésta se entenderá situada en donde se hubieran constituido los Juzgados de lo Penal correspondientes según lo dispuesto en el anexo VII de esta ley.
+2. En tanto las comunidades autónomas respectivas no fijen la sede de los Juzgados de lo Mercantil, ésta se entenderá situada en aquellas capitales de provincia o poblaciones que, tanto por ser núcleos en donde los procedimientos concursales son estadísticamente más frecuentes, como por tener atribuido el conocimiento exclusivo de determinadas competencias con exclusividad al resto, resulte así conveniente para el adecuado cumplimiento de la función jurisdiccional con respecto a los plazos procesales.
+Se añade por la disposición adicinal 11.5 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima.
+En tanto no entren en funcionamiento los Juzgados de Primera Instancia e Instrucción, de lo Penal y de lo Mercantil correspondientes a las nuevas circunscripciones territoriales creadas por esta ley, mantendrán su competencia los órganos judiciales que tuvieran a la entrada en vigor de la disposición, conociendo de los asuntos pendientes ante ellos hasta su definitiva conclusión.
+Se añade por la disposición adicional 11.5 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El cese de sus funciones como Juzgados de Primera Instancia e Instrucción o como Juzgados de Instrucción de los que resulten transformados se acomodará a las siguientes reglas:
+1.a A los veinte días de la entrada en vigor de la presente Ley, los Juzgados cesarán en sus funciones de instrucción de procedimientos penales, respecto de las causas que deban enjuiciar, asumiendo las mismas los restantes Juzgados de Instrucción.
+2.a Desde la fecha que señale el Real Decreto a que se refiere el apartado 1 del artículo 42 cesarán en sus funciones como Juzgados de Primera Instancia, salvo para dictar dentro de los plazos señalados, las sentencias en los asuntos que hubiesen quedado conclusos y sólo pendientes de fallo. Notificadas las resoluciones finales, remitirán los asuntos sentenciados, así como los pendientes, al Juzgado que corresponda, conforme a las reglas aprobadas por la correspondiente Sala de Gobierno, notificándolo a las partes.
+3.a Desde la misma fecha cesarán en sus funciones como Juzgados de Instrucción respecto a las causas que deba enjuiciar la Audiencia Provincial.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El titular y Secretario de los Juzgados transformados pasarán a ocupar los puestos correspondientes en los Juzgados de lo Penal. El personal adscrito a los Juzgados transformados pasará a estarlo al Juzgado de lo Penal correspondiente, sin perjuicio de las adscripciones que puedan realizarse conforme a los Reglamentos vigentes y de lo que pueda disponerse con arreglo al Real Decreto a que se refiere el artículo 42.1 de esta Ley. Los Juzgados a transformar serán los de Instrucción o Primera Instancia e Instrucción de creación mas reciente. De ellos, el de creación más lejana será el número 1, y así sucesivamente.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+En la fecha en que señale el Real Decreto a que se refiere el apartado 1 del artículo 42 de la presente Ley, y oído el Consejo General del Poder Judicial, se transformarán en Juzgados de lo Penal los siguientes:
+Juzgados de Primera Instancia e Instrucción:
+Dos en Algeciras.
+Uno en Huesca.
+Uno en Gijón.
+Uno en Tenerife.
+Uno en Palencia.
+Uno en Segovia.
+Uno en Cuenca.
+Uno en Ciudad Real.
+Uno en Cáceres.
+Uno en Santiago de Compostela.
+Uno en Lugo.
+Uno en Vigo.
+Dos en Alicante.
+Juzgados de Instrucción:
+Uno en Córdoba.
+Dos en Granada.
+Tres en Málaga.
+Cinco en Sevilla.
+Dos en Zaragoza.
+Dos en Palma de Mallorca.
+Dos en Las Palmas.
+Uno en Valladolid.
+Nueve en Barcelona.
+Uno en A Coruña.
+Doce en Madrid.
+Uno en Murcia.
+Uno en Pamplona.
+Cinco en Valencia.
+Tres en Bilbao.
+Uno en San Sebastián.
+
+### Disposición final única
+
+Disposición final única. Facultad de desarrollo.
+El Gobierno dictará cuantas disposiciones sean precisas en la ejecución y desarrollo de lo previsto en esta ley.
+Se añade por la disposición adicional 11.6 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de La Zarzuela, a 28 de diciembre de 1988.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ.
+
+## ANEXOS
+
+Anexos omitidos. Puede consultarlos en la página web del Ministerio de Justicia.

@@ -1,0 +1,614 @@
+# Ley 12/1994, de 28 de diciembre, de Medidas Administrativas y de modificación del texto articulado de la Ley de Bases de Tasas de la Generalidad Valenciana, aprobado por el Decreto Legislativo de 22 de diciembre de 1984, del Gobierno valenciano.
+
+- Identificador BOE: `BOE-A-1995-3326`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-3326
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el DOGV núm. 2448, de 13 de febrero de 1995. Ref. BOE-A-1995-5655
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos, que las Cortes Valencianas han aprobado, y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley:
+Exposición de motivos
+Los objetivos de la política presupuestaria y económica plasmados en la Ley de Presupuestos de la Generalidad Valenciana para 1995, requieren, para su mejor ejecución, la adopción de un conjunto de medidas de distinta naturaleza y alcance, cuyo común denominador se halla en ser instrumentos eficaces al servicio de la acción política y administrativa del Gobierno valenciano en los distintos ámbitos sectoriales en que éstas se desenvuelven.
+En consonancia con tal propósito, la Ley atiende a necesidades concretas en el ámbito de la gestión administrativa y en el de la organización, establece determinadas modificaciones en el régimen del personal docente no universitario y actualiza el régimen de determinadas tasas, tanto en lo que se refiere al hecho imponible como a los elementos de cuantificación de las mismas.
+1
+En materia de gestión administrativa, se autoriza la contratación plurianual del servicio de transporte escolar, se declara de urgente ocupación determinados bienes y derechos, se habilita a determinadas empresas de la Generalidad Valenciana como beneficiarias de expropiaciones y se incluye una modificación puntual del texto refundido de la Ley de Hacienda Pública en materia de transferencias de crédito.
+2
+En materia de organización, se recoge una norma de asignación compartida de las competencias que respecto a la promoción pública de viviendas ostenta la Generalidad Valenciana, lo que permitirá una ejecución de la misma más ágil y eficaz.
+3
+En materia de personal, las normas están dirigidas a racionalizar la dotación de medios humanos asignados a la prestación directa del servicio público de educación, en el marco del programa de aplicación de la LOGSE en la Comunidad Valenciana.
+4
+En materia de tasas, la Ley incluye un extenso artículo que actualiza el régimen de parte de las vigentes con el fin de facilitar la publicación, a lo largo del ejercicio de 1995, del texto refundido a que se refiere la disposición final primera de la Ley.
+5
+El capítulo V, que recoge la regulación básica de las infracciones y el procedimiento sancionador en materia de defensa de la calidad agroalimentaria, trata de solventar los problemas que el vacío legal en la materia provocaba en el momento de hacer efectivo el cumplimiento de las normas en la materia.
+Dicho capítulo también recoge la regulación del procedimiento sancionador en materia de contratación y prácticas comerciales en el ámbito de la cadena alimentaria.
+6
+Por último, se incluyen toda una serie de disposiciones adicionales de diferente alcance y contenido. Así, tenemos normas relativas a sanciones urbanísticas y en materia de caza, y otras destinadas a complementar, de manera puntual, la regulación sobre tasas y precios públicos.
+Se modifica el párrafo 5 por el art. 254 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## CAPÍTULO I
+
+De la gestión
+
+### Artículo 1
+
+Artículo 1. De la prestación del servicio de transporte escolar.
+Se autoriza a la Consejería de Educación y Ciencia para que, durante 1995, suscriba contratos de duración plurianual con cláusulas de revisión de precios, si procede, para la prestación del servicio de transporte escolar, de conformidad con el artículo 29 del vigente texto refundido de la Ley de Hacienda Pública de la Generalidad Valenciana.
+
+### Artículo 2
+
+Artículo 2. Expropiaciones derivadas del Plan de Carreteras de la Comunidad Valenciana 1988-1995, del Plan de Vivienda 1992-1995, del Plan de Puertos de la Generalidad Valenciana, del Plan Director de Saneamiento y Depuración de la Comunidad Valenciana, y de las obras incluidas en los proyectos denominados «Ciudad de las Ciencias» y «Torre de Comunicaciones».
+Se declara la necesidad de urgente ocupación de los bienes y derechos afectados de expropiación forzosa como consecuencia de la ejecución de las obras comprendidas en el Plan de Carreteras de la Comunidad Valenciana 1988-1995, en el Plan de Vivienda 1992-1995, en el Plan de Puertos de la Generalidad Valenciana, en el Plan Director de Saneamiento y Depuración de la Comunidad Valenciana, a realizar por la Generalidad Valenciana, por entidades habilitadas como beneficiarias de expropiaciones o por las entidades locales, y en los proyectos denominados «Ciudad de las Ciencias» y «Torre de Comunicaciones».
+
+### Artículo 3
+
+Artículo 3. Habilitación de «Seguridad y Promoción Industrial Valenciana, Sociedad Anónima», «Instituto Valenciano de Vivienda, Sociedad Anónima», «Gestión del Suelo de Alicante, Sociedad Anónima», «Valencia Ciencia y Comunicaciones, Sociedad Anónima» y «Nova Gestió Urbana, Sociedad Anónima», como benefiarios de expropiaciones.
+Para el cumplimiento de sus fines, «Seguridad y Promoción industrial Valenciana, Sociedad Anónima», el «Instituto Valenciano de Vivienda, Sociedad Anónima», «Gestión del Suelo de Alicante, Sociedad Anónima» «Valencia Ciencia y Comunicaciones, Sociedad Anónima», y «Nova Gestió Urbana, Sociedad Anónima», podrán llevar acabo las actuaciones de adquisición de suelo que convengan, incluso mediante expropiación, a cuyo efecto podrán ostentar la condición de beneficiarios prevista en la legislación en materia de expropiaciones, tanto en aquellos casos en los que corresponda la facultad expropiatoria a la Administración de la Generalidad Valenciana, como en aquellos otros en los que dicha facultad corresponda a otra Administración.
+
+### Artículo 4
+
+Artículo 4. De la gestión de la becas de formación del personal al servicio de la Administración Educativa.
+Las ayudas y becas a percibir por el profesorado en activo, de los centros docentes públicos no universitarios, para su formación, se articulará a través de las líneas de subvención que a tal efecto se incluyan en los correspondientes anexos de transferencias corrientes de la Ley de Presupuestos anual.
+
+### Artículo 5
+
+Artículo 5. De las transferencias de crédito.
+Se modifica el artículo 33 del texto refundido de la Ley de Hacienda Pública de la Generalidad Valenciana, que queda redactado como sigue:
+«1. Las transferencias de crédito estarán sujetas a las siguientes limitaciones:
+a) No podrán hacerse con cargo a los créditos para gastos de personal, a menos que se justifique que la cantidad cuya transferencia se propone no está afecta a obligación alguna de pago, ni va a estarlo durante lo que reste de ejercicio, y se sujetarán en todo caso al régimen retributivo que venga fijado en la Ley anual de Presupuestos.
+b) No afectarán al montante de las consignaciones sobre las que se haya formalizado una reserva o retención de crédito.
+c) No afectarán a los créditos para gastos destinados a subvenciones nominativas, a menos que, por cualquier causa, haya decaído el derecho a su percepción.
+d) No podrán hacerse a cargo de operaciones de capital con la finalidad de aumentar operaciones corrientes, salvo en los siguientes casos:
+Para dotar el funcionamiento de nuevas inversiones.
+Para hacer frente a los créditos de reconocimiento preceptivo que figuren expresamente en la Ley anual de Presupuestos.
+Para aumentar los créditos para transferencias corrientes a cargo de los de transferencias de capital.
+Las que se deriven de la distribución de los fondos consignados en el programa "Gastos diversos"».
+Redactado conforme a la corrección de errores publicada en el DOGV núm. 2448, de 13 de febrero de 1995. Ref. BOE-A-1995-5655
+
+## CAPÍTULO II
+
+De la organización
+
+### Artículo 6
+
+Artículo 6. De la promoción pública de viviendas.
+1. La promoción pública de viviendas de protección oficial de la Generalidad Valenciana será efectuada por la Consejería de Obras Públicas, Urbanismo y Transportes, bien directamente o bien mediante convenio al efecto, así como la efectuada por el «Instituto Valenciano de Vivienda, Sociedad Anónima», con cargo a sus propios presupuestos.
+2. Al «Instituto Valenciano de Vivienda, Sociedad Anónima», como entidad encargada de la gestión de la promoción pública de viviendas de la Generalidad Valenciana, se le confieren las facultades que se conceden en los artículos 141 y siguientes del Decreto 2144/1968, de 24 de julio, por el que se aprueba el Reglamento para la aplicación de la Ley sobre Viviendas de Protección Oficial, a los promotores para promover el desahucio de los adjudicatarios no ocupantes de todos los inmuebles integrantes del patrimonio de promoción pública de la Generalidad Valenciana, por las causas y con arreglo a los procedimientos previstos en la legislación común y en la especial de Viviendas de Protección Oficial, ejerciendo cuantas facultades se confieren en los indicados procedimientos al ente público titular, si bien la resolución de desahucio administrativo será en todo caso dictada por el Director general de Arquitectura y Vivienda, de la Consejería de Obras Públicas, Urbanismo y Transportes.
+
+## CAPÍTULO III
+
+Del personal al servicio de la Generalidad Valenciana
+
+### Artículo 7
+
+Artículo 7. El profesorado de los centros docentes públicos no universitarios.
+Con objeto de organizar un mejor funcionamiento de los centros docentes públicos no universitarios, la Consejería de Educación y Ciencia podrá efectuar el nombramiento de profesores interinos con horarios de trabajo inferiores a los establecidos con carácter general. En este supuesto, las retribuciones correspondientes, tanto básicas como complementarias, se fijarán de forma proporcional a la jornada desempeñada en las condiciones que, igualmente, determine la Consejería de Educación y Ciencia, previo informe favorable de la Consejería de Economía y Hacienda.
+La articulación del régimen jurídico del nombramiento de profesores interinos a tiempo parcial se determinará por la Consejería de Educación y Ciencia, a través de la correspondiente Orden, previo informe favorable de la Consejería de Administración Pública.
+
+### Artículo 8
+
+Artículo 8. Profesorado previsto en la Ley Orgánica de Ordenación General del Sistema Educativo.
+El profesorado perteneciente al Cuerpo de Educación Secundaria y al Cuerpo de Profesores Técnicos de Formación Profesional, incluido en el ámbito de gestión de la Consejería de Educación y Ciencia, que no disponga de horario completo en su centro para impartir las áreas, materias o módulos de su especialidad y no desee completarlo en otro centro de su localidad, experimentará una reducción de sus retribuciones básicas y complementarias proporcional al de la jornada lectiva docente no realizada.
+
+### Artículo 9
+
+Artículo 9. Complementos de destino correspondientes a los cuerpos docentes en los niveles educativos anteriores a la universidad.
+En los niveles educativos anteriores a la universidad, el nivel de complemento de destino correspondiente a los cuerpos docentes incluidos en el ámbito de gestión de la Consejería de Educación y Ciencia, será el que a continuación se indica, con independencia del puesto de trabajo concreto que se desempeñe en el Centro docente:
+Catedráticos de Música y Artes Escénicas: 26.
+Profesores de Enseñanza Secundaria, de Escuelas Oficiales de Idiomas y de Artes Plásticas y Diseño, con condición de Catedrático: 26.
+Profesores de Enseñanza Secundaria, de Escuelas Oficiales de Idiomas y de Artes Plásticas y Diseñó: 24.
+Profesores de Música y Artes Escénicas: 24.
+Profesores Técnicos de Formación Profesional y Maestros de Taller de Artes Plásticas y Diseño: 24.
+Maestros: 21.
+Los funcionarios pertenecientes a cuerpos y escalas declaradas a extinguir a que hace referencia el punto 7 de la disposición adicional décima de la Ley Orgánica 1/1990, de 3 de octubre, conservarán el nivel de complemento de destino que con anterioridad tuvieran asignado.
+
+### Artículo 10
+
+Artículo 10. De la clasificación del personal eventual.
+La clasificación de los puestos de naturaleza eventual, contemplados en el artículo 6.° del Decreto Legislativo de 20 de marzo de 1991, del Gobierno valenciano, por el que se aprobó el texto refundido de la Ley de la Función Pública Valenciana, contendrá exclusivamente el número de puesto, su denominación y la consejería de pertenencia.
+El número de puestos de esta naturaleza y las retribuciones de cada uno de ellos se determinarán dentro de los créditos establecidos al respecto en la correspondiente Ley de Presupuestos.
+
+### Artículo 11
+
+Artículo 11. Del cumplimiento específico de los puestos de trabajo clasificados para dos grupos de titulación.
+En los puestos de trabajo clasificados indistintamente para dos grupos de titulación, el complemento específico aplicable será el correspondiente al grupo de titulación superior.
+Para aquellos supuestos en que se viniera percibiendo un complemento específico superior en cuantía al especificado en el apartado anterior, en virtud de lo dispuesto en el Decreto 245/1991, de 23 de diciembre, del Gobierno valenciano, se les reconocerá con efectos de 1 de enero de 1995 y mientras desempeñen el puesto de trabajo, un complemento personal de garantía por la diferencia entre ambos complementos específicos.
+Este complemento especial de garantía solamente podrá ser absorbido, total o parcialmente, por cambio del puesto de trabajo o como consecuencia de cualquier incremento en los importes de los complementos de destino y/o específico, excluidos los derivados del incremento generalizado de las retribuciones para cada ejercicio económico.
+Todo lo anterior se aplicará sin perjucio sin perjuicio de la modificación del sistema retributivo que se derive del programa de reacionalización y ordenación de retribuciones complementarias a desarrollar en el ejercicio 1995, previa negociación con las organizaciones sindicales, y al cual se destinarán los recursos presupuestarios pertinentes.
+Redactado conforme a la corrección de errores publicada en el DOGV núm. 2448, de 13 de febrero de 1995. Ref. BOE-A-1995-5655
+
+## CAPÍTULO IV
+
+Tasas
+
+### Artículo 12
+
+Artículo 12. De la modificación del texto articulado de la Ley de Bases de Tasas de la Generalidad Valenciana, aprobado por el Decreto Legislativo de 22 de diciembre de 1984, del Gobierno valenciano.
+Se modifica el texto articulado de la Ley de Bases de Tasas de la Generalidad Valenciana, aprobado por el Decreto Legislativo de 22 de diciembre de 1984, del Gobierno valenciano, y modificado por las Leyes de la Generalidad Valenciana 7/1989, de 20 de octubre; 4/1990, de 31 de mayo; 7/1991, de 28 de diciembre; 7/1992, de 28 de diciembre, y 6/1993, de 31 de diciembre, en los siguientes términos:
+1. Se modifica el artículo 27.1.1, que quedará redactado del siguiente modo:
+«Inscripción de asociaciones, federaciones de asociaciones, colegios profesionales y consejos valencianos de colegios profesionales.»
+2. Se modifica el artículo 27.2.1.1 que quedará redactado del siguiente modo:
+«Autorizaciones de espectáculos taurinos a celebrar en plazas de toros permanentes y aquellas provisionales para más de una temporada, escuelas taurinas y tentaderos.»
+3. Se deja sin contenido el epígrafe 2.1.2 del artículo 27.
+4. Se modifica la denominación del capítulo II del título II, que quedará redactada del siguiente modo:
+«Capítulo II
+Tasa por los servicios prestados por la Consejería de Administración Pública»
+5. Se modifica el artículo 29, que quedará redactado del siguiente modo:
+«Constituye el hecho imponible de esta tasa la prestación por la Consejería de Administración Pública de los servicios siguientes:
+a) Pruebas de habilitación.
+b) Servicios administrativos.»
+6. Se modifica el artículo 31.3, que quedará redactado del siguiente modo:
+«Servicios administrativos prestados por la Consejería de Administración Pública.»
+7. Se deja sin contenido el capítulo I del título IV.
+8. Se modifica el capítulo II del título IV, que quedará redactado del siguiente modo:
+«Artículo 73. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación del servicio educativo del Curso de Orientación Universitaria (COU) por centros dependientes de la Consejería de Educación y Ciencia.
+Artículo 74. Sujetos pasivos.
+Son sujetos pasivos de esta tasa los solicitantes de los correspondientes servicios.
+Artículo 75. Exenciones y bonificaciones.
+1. Disfrutarán de exención total de pago de los derechos de matrícula los alumnos miembros de familias numerosas de honor y de segunda categoría.
+2. Disfrutarán de bonificación del 50 por 100 del pago de los citados derechos, los alumnos miembros de familias numerosas de primera categoría.
+3. Disfrutarán de exención total del pago de los derechos de matrícula los alumnos que ostenten la condición de becarios del MEC para el mismo nivel educativo.
+Artículo 76. Tipos de gravamen.
+La cuantía de la tasa por derechos de matrícula de COU se determinará conforme a lo dispuesto en el siguiente cuadro:
+1. Curso completo: 4.545 pesetas.
+2. Asignaturas sueltas: 761 pesetas.
+Artículo 77. Devengo y pago.
+La tasa se devengará cuando se presten los correspondientes servicios. No obstante, será exigible el pago por anticipado en el momento en que se formule la solicitud.»
+9. Se modifica el capítulo III del título IV, que quedará redactado del siguiente modo:
+«Capítulo III
+Tasa por la prestación de servicios administrativos derivados de la actividad académica
+Artículo 78. Hecho imponible.
+Constituye el hecho imponible de esta tasa la compulsa de documentos que deban constar en expedientes académicos, convalidación de estudios, emisión de certificaciones académicas y expedición de tarjetas de identidad de alumnos.
+Artículo 79. Sujetos pasivos.
+Estarán obligados al pago de la tasa quienes soliciten los servicios anteriormente expresados.
+Artículo 80. Tipos de gravamen.
+Los tipos de exacción serán los siguientes:
+1. Por compulsa de cada documento, cualquiera que sea el número de páginas: 168 pesetas.
+2. Por derechos de formación de expedientes de convalidación de estudios realizados en el extranjero: 2.730 pesetas.
+3. Por expedición e impresión de títulos, certificaciones y diplomas académicos competencia de la Consejería de Educación y Ciencia: 1.668 pesetas.
+4. Por expedición del Libro de Escolaridad: 421 pesetas.
+5. Por expedición de certificaciones académicas, incluidas las relativas al Libro de Escolaridad que soliciten los centros: 254 pesetas.
+6. Por expedición de tarjetas de identidad de alumnos: 121 pesetas.
+Artículo 81. Devengo.
+La tasa se devengará una vez prestado el servicio, si bien será exigible su pago en el momento que se formule la solicitud.»
+10. Se deja sin contenido el capítulo IV del título IV.
+11. Se modifica el capítulo VII del título IV, que quedará redactado del siguiente modo:
+«Capítulo VII
+Tasas por inscripción en pruebas selectivas, pruebas de la Junta Qualificadora de Coneixements de Valencià y por expedición de certificaciones de hojas de servicios
+Artículo 100. Hecho imponible.
+Constituye el hecho imponible de la tasa la inscripción en las convocatorias para la selección del personal docente que efectúe la Consejería de Educación y Ciencia, la inscripción en las pruebas para cada uno de los niveles de la Junta Qualificadora de Coneixements de Valencià, la formación de expedientes para las pruebas selectivas de acceso a cuerpos docentes y las certificaciones de hojas de servicio del personal docente no universitario.
+Artículo 101. Sujetos pasivos.
+Son sujetos pasivos de esta tasa quienes soliciten los correspondientes servicios.
+Artículo 102. Tipos de gravamen.
+La cuantía de la tasa se determinará conforme a lo dispuesto en el siguiente cuadro de tarifas:
+1. Derechos de examen:
+1.1 Pruebas selectivas para el acceso a cuerpos docentes:
+1.1.1 Grupo A: 3.157 pesetas.
+1.1.2 Grupo B: 2.103 pesetas
+1.2 Por prueba, para cada uno de los niveles de la Junta Qualificadora de Coneixements de Valencià: 1.280 pesetas.
+2. Derechos de formación de expedientes para las pruebas selectivas de acceso a cuerpos docentes: 428 pesetas.
+3. Certificaciones de hojas de servicios del personal docente no universitario: 254 pesetas.
+Artículo 103. Devengo.
+La tasa se devengará cuando se presten los correspondientes servicios. No obstante, será exigible el pago en el momento de solicitar la inscripción o expedición.»
+12. Se modifican los grupos I, IV y V del artículo 106, del siguiente modo:
+Se deja sin contenido el apartado 2 del grupo I.
+El párrafo segundo de la introducción del grupo IV, quedará redactado como sigue:
+«Las tarifas no incluyen el importe de los ingresos de los certificados correspondientes ni el precio de los marchamos.»
+La redacción de los epígrafes que se indican del grupo IV será la siguiente:
+«42.4 Fábrica de embutidos y otros productos cárnicos.
+42.6 Secadero de jamones y paletas curados.
+42.9 Carnicería-salchichería.
+45.2 Centro de embalaje de huevos.
+57.1 Pescaderías y carnicerías.»
+Se añade un nuevo epígrafe en el grupo V, cuya redacción será la siguiente:
+«64. En industrias y establecimientos alimentarios, por comprobación de sus instalaciones y emisión de los informes previos requeridos para su autorización sanitaria de funcionamiento: 7.208 pesetas.»
+13. Se modifica el artículo 121, que quedará redactado del siguiente modo:
+«Artículo 121. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación por los órganos competentes de la Generalidad Valenciana, a instancia del interesado o de oficio, de los trabajos y servicios realizados en expedientes relativos a:
+1. Inscripción de industrias en el Registro (RIA).
+1.1 Instalación de nuevas industrias, ampliación o traslado de las existentes y sustitución de maquinaria.
+1.2 Cambio de titularidad (venta o arrendamiento) o de la denominación social.
+2. Inspección, comprobación y control del cumplimiento de la legislación vigente.
+3. Tramitación de expedientes de auxilios económicos, incluyendo inspecciones a las industrias y pago de ayudas.
+4. Expedición de certificados sobre puesta en marcha, documento calificación especial y otros.»
+14. Se modifica el artículo 123, que quedará redactado del siguiente modo:
+«Artículo 123. Bases y tipos.
+A efectos del cálculo de las tasas de los expedientes, se clasifican en los siguientes estratos según volumen de la inversión (en millones de pesetas).
+Estrato
+ Inversión
+ —
+ Millones de pesetas
+ A
+ De 0 hasta 20.
+ B
+ Más de 20 hasta 100.
+ C
+ Más de 100 hasta 500.
+ D
+ Más de 500.
+La tasa se exigirá conforme al siguiente cuadro de tarifas:
+1. Inscripción de industrias en el Registro (RIA).
+1.1 Instalación de nuevas industrias, ampliación o traslado de las existentes y sustitución de maquinaria.
+Estrato
+ Tasa
+ —
+ Pesetas
+ A
+ 10.000
+ B
+ 20.000
+ C
+ 30.000
+ D
+ 40.000
+1.2 Cambio de titularidad (venta o arrendamiento) o de la denominación social.
+Todos los estratos: 5.000 pesetas.
+2. Inspección, comprobación y control del cumplimiento de la legislación vigente.
+Estrato
+ Tasa
+ —
+ Pesetas
+ A
+ 10.000
+ B
+ 20.000
+ C
+ 30.000
+ D
+ 40.000
+3. Tramitación de expedientes de auxilios económicos, incluyendo inspecciones a las industrias y pagos de ayudas.
+3.1 Acogidos a una sola línea de auxilios.
+Estrato
+ Tasa
+ —
+ Pesetas
+ A
+ 20.000 + 2.000 × I
+ B
+ 35.000 + 1.250 × I
+ C
+ 100.000 +  600 × I
+ D
+ 300.000 +  200 × I
+I = Inversión (en millones de pesetas).
+3.2 Incremento por cada línea adicional de auxilios.
+Todos tos estratos 20.000 pesetas.
+4. Expedición de certificados sobre puesta en marcha, documento calificación especial y otros.
+Todos los estratos 5.000 pesetas».
+15. Se modifica el artículo 130, añadiendo el siguiente párrafo:
+«7. Inscripción y autorización del pasaporte fitosanitario a viveros».
+16. Se modifica el artículo 132, añadiendo los siguientes apartados:
+«4.6 Regularización de plantaciones de viñedos.
+4.6.1 Uva de vinificación: 10.260 pesetas/hectárea.
+4.6.2 Uva de mesa: 14.650 pesetas/hectárea.
+7.1 Inspección y autorización del pasaporte fitosanitario a viveros: 9.450 pesetas».
+17. Se modifica la denominación del capítulo V del título VII y el párrafo primero del artículo 141, que quedará redactado como sigue:
+«Capítulo V
+Tasas del Instituto Politécnico Marítimo Pesquero del Mediterráneo»
+«Constituye el hecho imponible de esta tasa la prestación de los servicios con ocasión de la actividad docente desarrollada por el instituto Politécnico Marítimo Pesquero del Mediterráneo, dependiente de la Consejería de Agricultura, Pesca y Alimentación, que se enumeran a continuación».
+18. Se modifican los epígrafes que se indican del artículo 148, que quedarán redactados como sigue:
+«13. Señalamiento e inspección de toda clase de aprovechamientos y disfrutes forestales piscícolas y cinegéticos.
+13.1 Maderas de montes de utilidad pública:
+13.1.1 Señalamiento hasta 100 metros cúbicos: 50 pesetas/metro cúbico.
+13.1.2 Señalamiento de más de 100 metros cúbicos (hasta 200 metros cúbicos): 25 pesetas/metro cúbico.
+13.1.3 Señalamiento de más de 200 metros cúbicos: 17 pesetas/metro cúbico.
+13.1.4 Para contadas en blanco, 75 por 100 del señalamiento correspondiente.
+13.1.5 Para reconocimiento final, 50 por 100 del señalamiento.
+13.2 Maderas de montes privados:
+13.2.1 Señalamiento y reconocimiento final de hasta 100 metros cúbicos: 65 pesetas/metro cúbico.
+13.2.2 Señalamiento y reconocimiento final de 100 a 200 metros cúbicos: 30 pesetas/metro cúbico.
+13.2.3 Señalamiento y reconocimiento final de más de 200 metros cúbicos: 25 pesetas/metro cúbico.
+13.3 Inspección de especies de crecimiento rápido:
+13.3.1 Hasta 100 metros cúbicos: 10 pesetas/metro cúbico.
+13.3.2 Exceso 100 hasta 200 metros cúbicos: 8 pesetas/metro cúbico.
+13.3.3 Exceso 200 metros cúbicos: 5 pesetas/metro cúbico.
+13.4 Leñas en montes de utilidad pública y en los particulares:
+13.4.1 Hasta 500 estéreos: 8 pesetas/estéreo.
+13.4.2 Exceso 500 hasta 1.000 estéreos 5 pesetas/estéreo.
+13.4.3 Exceso 1.000 hasta 2.000 estéreos: 4 pesetas/estéreo.
+13.4.4 Exceso 2.000 estéreos: 4 pesetas/estéreo.
+13.5 Leñas de aprovechamiento de riberas:
+13.5.1 Hasta 1.000 garbones: 1 peseta/garbón.
+13.5.2 Más de 1.000 garbones: 2 pesetas/garbón».
+19. Se añade un nuevo artículo 152. bis, cuyo texto será el siguiente:
+«Artículo 152 bis. Exenciones.
+Estarán exentos del pago de la tasa contemplada en el artículo 151, apartado 1, los jubilados y demás perceptores de pensiones públicas».
+20. Se modifican los epígrafes 1 al 6 del artículo 153, que quedarán redactados como sigue:
+«1. Licencias de caza autonómicas:
+Tipo A. Licencia para caza con armas de fuego y asimiladas:
+1.1 Un año de validez: 1.234 pesetas.
+1.2 Tres años de validez: 3.701 «pesetas.
+Tipo B. Licencia para caza sin armas de fuego:
+1.3 Un año de validez: 1.234 pesetas.
+1.4 Tres años de validez: 3.701 pesetas.
+Tipo C. Licencia para rehalas de perros:
+1.5 Un año de validez: 30.852 pesetas.
+1.6 Sello de homologación, licencia tipo A: 1.234 pesetas.
+2. Licencia de pesca continental autonómica:
+Tipo único. Para pesca de cualquier especie:
+2.1 Un año de validez: 987 pesetas.
+2.2 Tres años de validez: 2.962 pesetas.
+2.3 Sello de homologación de licencias: 987 pesetas.
+3. Matrícula de embarcación:
+Tipo único:
+3.1 Un año de validez: 1.110 pesetas.
+3.2 Cinco años de validez: 3.450 pesetas.
+4. Matrícula de cotos de caza y su renovación anual:
+4.1 Caza mayor:
+Grupo I. Una res por cada 100 hectáreas o inferior: 9 pesetas/hectárea.
+Grupo II. Más de una y hasta dos reses por cada 100 hectáreas: 16 pesetas/hectárea.
+Grupo III. Más de dos y hasta tres reses por cada 100 hectáreas: 24 pesetas/hectárea.
+Grupo IV. Más de tres reses por cada 100 hectáreas: 38 pesetas/hectárea.
+4.2 Caza menor:
+Grupo I. 0,3 piezas por hectáreas o inferior: 9 pesetas/hectárea.
+Grupo ll. Más de 0,3 y hasta 0,8 piezas por hectárea: 14 pesetas/hectárea.
+Grupo III. Más de 0,8 y hasta 1,5 piezas por hectárea: 24 pesetas/hectárea.
+Grupo IV. Más de 1,5 piezas por hectárea: 38 pesetas/hectárea.
+La tarifa mínima por matrícula de los cotos de caza o su renovación anual, cualquiera que sea su extensión superficial, no podrá ser inferior a 10.000 pesetas.
+5. Permisos de caza en cotos sociales y terrenos sometidos a régimen de caza controlada:
+Clase 1.a: 8.000 pesetas.
+Clase 2.a: 4.000 pesetas.
+Clase 3.a: 2.500 pesetas.
+Clase 4.a: 1.000 pesetas.
+Clase 5.a: 500 pesetas.
+Clase 6.a: 250 pesetas.
+6. Permisos para cotos fluviales de pesca deportiva:
+Clase 1.a: 3.280 pesetas.
+Clase 2.a: 1.315 pesetas.
+Clase 3.a: 660 pesetas.
+Clase 4.a: 320 pesetas.
+Clase 5.a: 165 pesetas.
+Clase 6.a: 66 pesetas.»
+21. Se modifica el capítulo VIII del título VII, que quedará redactado como sigue:
+«Capítulo VIII
+Tasa por expedición de las licencias de pesca recreativa, esparavel y marisqueo
+Artículo 156. Hecho imponible.
+El hecho imponible de esta tasa está constituido por la prestación de servicios administrativos inherentes a la expedición de licencias de pesca recreativa, esparavel y marisqueo, por los órganos competentes de la Consejería de Agricultura, Pesca y Alimentación o los que en el futuro asuman tales competencias.
+Dichos servicios están constituidos por la tramitación y expedición del documento o licencia de pesca recreativa, esparavel y marisqueo.
+Artículo 157. Sujetos pasivos.
+Quedan obligados al pago de esta tasa quienes soliciten la inscripción u obtengan las licencias y cumplan los requisitos previstos por el ordenamiento vigente.
+Artículo 158. Cuantías.
+La cuantía se fija en 500 pesetas, teniendo la vigencia que determine la legislación vigente.
+Artículo 159. Devengo.
+La obligación de contribuir nacerá cuando haya sido realizado el hecho imponible.»
+
+## CAPÍTULO V
+
+Infracciones y procedimiento sancionador en materia de defensa de la calidad agroalimentaria. Procedimiento sancionador en materia de contratación y prácticas comerciales en el ámbito de la cadena alimentaria
+Se modifica el título por el art. 255 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 13
+
+Artículo 13. Ámbito de aplicación.
+1. El ejercicio de la potestad sancionadora a que se refiere esta Sección se extiende al control de la calidad agroalimentaria en la fabricación, envasado, distribución, almacenamiento de los productos agroalimentarios; así como a la adecuación de los medios de producción agrarios en su fabricación, almacenamiento y comercialización a las normas que regulan sus características y procedimientos de elaboración.
+2. Quedan excluidos de su ámbito de aplicación: los aspectos higiénico-sanitarios y de seguridad alimentaria; la legislación específica de organismos modificados genéticamente y de la irradiación de productos alimenticios; la producción primaria y operaciones conexas, incluida la legislación sobre bienestar de los animales; la oferta de alimentos para la venta directa al consumidor final, incluidos los obradores de las instalaciones detallistas y los productos con destino a países terceros (no pertenecientes a la UE).
+3. Se regula el ejercicio de la potestad sancionadora en materia de contratación y prácticas comerciales en el ámbito de la cadena alimentaria.
+Se añade el apartado 3 por el art. 256 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 70 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 14
+
+Artículo 14. Infracciones leves.
+1. La no presentación de las declaraciones de existencias, de elaboración o de movimiento de productos, o presentarlas incompletas, con inexactitudes, errores u omisiones o presentarlas fuera del plazo reglamentario o cuando sea preceptivo antes de la ejecución de prácticas de elaboración y tratamiento de productos determinados, si los hechos constitutivos de infracción no afectan a la naturaleza, calidad, características, composición, procedencia u origen de los productos consignados.
+2. No tener actualizados los documentos de cualquiera de los elementos que integran el sistema interno de control de calidad.
+3. Efectuar ampliaciones o reducciones sustanciales, trasladar, cambiar de titularidad, cambiar de domicilio social o cerrar una industria agroalimentaria sin la correspondiente comunicación a la Administración.
+4. No tener identificados los depósitos, silos, contenedores y cualquier clase de envase de productos a granel o los productos que contengan, o su identificación de forma no clara o sin marcado indeleble y, en su caso, no indicar el volumen nominal u otras indicaciones contempladas en la normativa de aplicación.
+5. Incumplir las instrucciones que sobre su actividad emanen de las Administraciones competentes en materia de defensa de la calidad agroalimentaria y de los requisitos, obligaciones o prohibiciones establecidas en las normas relacionadas con la producción siempre que se trate de infracciones meramente formales no incluidas como graves o muy graves.
+6. El suministro incompleto de información o documentación necesarias para las funciones de inspección y control administrativo.
+7. No presentar los registros o libros-registro, declaraciones relativas a alimentos o los documentos de acompañamiento sin causa justificada, cuando fueren requeridos para su control en actos de inspección, o presentarlos con inexactitudes, errores u omisiones, cuando la diferencia entre la cantidad consignada y la correcta no supere el 15 % de esta última y se puedan demostrar de otra forma los movimientos de los productos.
+8. No comunicar a la autoridad competente cuando existe la obligación legal de hacerlo cualquier forma de fraude, alteración, adulteración, abuso o negligencia que perjudique o ponga en riesgo la calidad de los productos, la protección de los consumidores o los intereses generales, económicos o sociales del sector agroalimentario.
+9. La expresión de alguna de las indicaciones obligatorias o facultativas reguladas del etiquetado o presentación de los productos, documentos de acompañamiento, documentos comerciales, registros, rotulación y embalajes en forma distinta a la reglamentaria o en los que las indicaciones que consten no sean las autorizadas, así como aquéllas no reguladas o autorizadas que incumplan los principios generales de la información alimentaria facilitada al consumidor.
+10. Cometer inexactitudes, errores u omisiones en los datos o informaciones en el etiquetado, los documentos de acompañamiento, los documentos comerciales, los registros, la rotulación, la presentación y el embalaje de productos agroalimentarios o de las materias y elementos para la producción y la comercialización agroalimentarias, si dichas inexactitudes, errores u omisiones no se refieren a indicaciones obligatorias o no afectan a su naturaleza, identidad, calidad, características, composición, procedencia u origen.
+11. Incurrir en discrepancia entre las características reales, incluidos peso y volumen, del producto agroalimentario o la materia o elemento para la producción y comercialización agroalimentarias y las que ofrece el operador agroalimentario si se refiere a parámetros o elementos cuyo contenido queda limitado por la reglamentación de aplicación y el exceso o defecto no afecta a su propia naturaleza, identidad, definición reglamentaria, calidad, designación o denominación del producto, o si las diferencias no superan el doble de la tolerancia admitida reglamentariamente para el parámetro o elemento de que se trata o, en caso de que no haya establecida tolerancia, no superen el 10% del valor establecido.
+12. Aplicar tratamientos, prácticas o procesos de forma distinta a la establecida, siempre que no afecten a la composición, definición, identidad, naturaleza, características o calidad de los productos agroalimentarios o las materias o elementos para la producción agroalimentaria.
+13. Las simples irregularidades en la observación de las obligaciones establecidas en las disposiciones vigentes en la materia agroalimentaria que no estén incluidas como infracciones graves o muy graves.
+Se modifica por el art. 70 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 15
+
+Artículo 15. Infracciones graves.
+1. No tener documentado o no llevar cualquiera de los elementos que integran el sistema interno de control de calidad.
+2. No disponer de alguno de los elementos reglamentarios en el sistema de aseguramiento de la trazabilidad, como la identificación, los registros y la documentación de acompañamiento de los productos, o no tener sistemas y procedimientos de trazabilidad suficientes, comprensibles y actualizados.
+3. No disponer de datos en el sistema de aseguramiento de la trazabilidad, como la identidad de los suministradores y receptores de los productos, o no disponer de informaciones relativas a la vida de estos productos, como su identificación, naturaleza, origen, características cualitativas y condiciones de producción y distribución.
+4. No conservar durante el período reglamentario los originales de los documentos de acompañamiento de productos recibidos y las copias de los documentos de acompañamiento de productos expedidos.
+5. No llevar registros o libros de registro comerciales, no tener talonarios matriz de facturas de venta o demás documentos establecidos por las disposiciones vigentes, tener estos documentos con una información poco legible o comprensible o gestionarlos defectuosamente o no tenerlo documentado por un sistema equivalente.
+6. No conservar los registros durante el tiempo reglamentario.
+7. No tener realizada una anotación en los registros cuando haya transcurrido más de un mes desde la fecha en que debió anotarse a efectos de trazabilidad o cuando, no habiendo transcurrido dicho periodo de tiempo, el asiento o los asientos no registrados no puedan justificarse mediante otra documentación.
+8. No presentar, o presentar fuera del plazo establecido, las declaraciones que deban realizarse de acuerdo con la normativa aplicable antes de la ejecución de prácticas de elaboración y tratamiento de determinados productos, o tener inexactitudes, errores u omisiones en las declaraciones, si los hechos constitutivos de infracción afectan a su naturaleza, calidad, características, composición, procedencia u origen de los productos consignados.
+9. Las inexactitudes o errores en los registros o declaraciones establecidos en la normativa alimentaria cuando la diferencia entre la cantidad consignada y la correcta rebase en un 15% esta última.
+10. Ejercer actividades relacionadas con cualquiera de las etapas de la producción, transformación o comercialización de productos agroalimentarios o materias y elementos para la producción y la comercialización agroalimentarias sin autorización o sin estar inscrito en los registros oficiales que le sean de aplicación, ejercer actividades que no consten expresamente en la autorización o registro o ejercer actividades para cuyo ejercicio ha sido cancelada su autorización o su registro.
+11. La instalación o modificación de las industrias agrarias y alimentarias con incumplimiento de las disposiciones vigentes en materia de regulación de dichas industrias.
+12. Tenencia y disposición de productos no identificados en cualquier instalación o medio de transporte.
+13. La amenaza, coacción, represalia o cualquier otra forma de presión a las autoridades, sus agentes o funcionarios competentes tanto en el ejercicio de sus funciones de programación e inspección de control de calidad agroalimentaria como las derivadas del ejercicio de la potestad sancionadora.
+14. Negarse o resistirse a suministrar datos o a facilitar la información requerida por los órganos competentes o los respectivos agentes, para el cumplimiento de las funciones de información, vigilancia, investigación, inspección, tramitación y ejecución en las materias a que se refiere la presente ley, y suministrar información inexacta o documentación falsa, y concretamente las siguientes actuaciones:
+a) No permitir el acceso a los locales, instalaciones o vehículos de transporte al personal que ejerza las funciones mencionadas.
+b) No permitir la toma de muestras o la realización de otros tipos de controles sobre los productos.
+c) No justificar las verificaciones y controles efectuados sobre los productos puestos en circulación.
+d) No aportar la documentación, datos o informaciones requeridos por el personal que realiza funciones inspectoras, ya sea en el momento de la inspección o en otras labores de investigación y control, o no aportarla en el plazo indicado.
+15. Manipular, trasladar o tener cualquier forma de mercancía cautelarmente inmovilizada con violación de los precintos, o si las mercancías salen de las instalaciones donde fueron intervenidas sin la autorización del órgano competente en la materia.
+16. Comercializar productos agroalimentarios sin someterse al control previo establecido cautelarmente.
+17. Movilizar los vehículos paralizados cautelarmente.
+18. Poner en funcionamiento un área, un elemento o una actividad del establecimiento cautelarmente suspendido.
+19. Comercializar, comprar o adquirir productos agroalimentarios o materias y elementos para la producción y comercialización agroalimentaria, cuando dichas actividades hubieran sido objeto de suspensión cautelar.
+20. No poder demostrar la exactitud de las informaciones que constan en el etiquetado, los documentos de acompañamiento o los documentos comerciales de los productos agroalimentarios, o las que constan en los productos utilizados en su producción o transformación.
+21. Cometer inexactitudes, errores u omisiones de datos o informaciones en el etiquetado, los documentos de acompañamiento, documentos comerciales, registros, rotulación, presentación y embalajes, si estas inexactitudes, errores u omisiones se refieren a indicaciones obligatorias.
+22. Utilizar en el etiquetado, los envases, embalajes, presentación, oferta, publicidad de los productos agroalimentarios o las materias y elementos para la producción y comercialización agroalimentarias indicaciones, razones sociales, nombres o denominaciones comerciales, expresiones, signos, marcas, símbolos, emblemas, denominaciones, designaciones, calificaciones, clases de producto, indicaciones de su origen o procedencia, indicaciones sobre el sistema de producción o elaboración que:
+a) No correspondan al producto o que, por su similitud fonética, gráfica u ortográfica, puedan inducir a confusión, aunque estén precedidos por los términos tipo, estilo, género, imitación, sucedáneo, o análogos.
+b) No correspondan a la verdadera identidad del operador.
+c) No correspondan al verdadero lugar de producción, fabricación, elaboración, envase, comercialización o distribución.
+d) No sean verificables.
+23. Modificar la verdadera identidad de los productos agroalimentarios o de las materias y elementos para la producción y la comercialización agroalimentarias que sirva para identificarlos.
+24. Inducir a confusión o engaño en lo que concierne a productos agroalimentarios o materias y elementos para la producción y la comercialización agroalimentarias, así como expedirlos, o comercializarlos, incluso en el caso de que el engaño sea conocido por los receptores, compradores o consumidores.
+25. Utilizar en el etiquetado de los productos alimenticios indicaciones que no sean acordes con las normas de comercialización vigentes en la Unión Europea y que establece la sección 1.ª del capítulo 1 del título II del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 y (CE) n.º 1234/2007, o con los términos reservados facultativos autorizados o cualquier otra indicación facultativa regulada por normativa nacional o de la Unión Europea, o reglamentaciones que las substituyan.
+26. Cometer fraude en las características de los productos agroalimentarios o las materias y los elementos para la producción y la comercialización agroalimentarias, especialmente las relativas a su identidad, naturaleza, especie, composición, contenido, designación, definición reglamentaria, calidad, riqueza, peso, volumen o cantidad, exceso de humedad, contenido en principios útiles, aptitud para el uso o cualquier otra discrepancia existente entre las características reales del producto agroalimentario o de la materia o los elementos de que se trate y las que ofrece el operador agroalimentario que supere los límites para ser considerado infracción leve, así como todo acto de naturaleza similar que implique una transgresión o incumplimiento de lo dispuesto por la legislación vigente.
+27. Utilizar o comercializar productos agroalimentarios o materias y elementos para la producción y la comercialización agroalimentarias no conformes.
+28. Tenencia y/o uso de productos, sustancias, equipos, maquinaria, materias o elementos no conformes o no autorizados por la legislación específica para actividades relacionadas con las etapas de producción, transformación o comercialización agroalimentarias.
+29. Comercializar productos agroalimentarios o materias y elementos para la producción y la comercialización agroalimentarias que hayan sido objeto de prácticas o tratamientos no autorizados, o bien que están etiquetados, marcados o identificados con nombres o indicaciones no conformes, aunque esta circunstancia sea conocida por los receptores, compradores o consumidores.
+30. La falta de inscripción de productos agroalimentarios, materias o elementos para la producción y la comercialización agroalimentarias de la forma que reglamentariamente se hubiera establecido.
+31. Elaborar productos o materias y elementos para la producción y la comercialización agroalimentarias, mediante tratamientos o procesos no autorizados por la legislación vigente, así como adicionar o sustraer sustancias o elementos que modifiquen su composición.
+32. Comercializar productos, materias o elementos sin el correspondiente etiquetaje, los documentos de acompañamiento, los documentos comerciales, la rotulación, la presentación, los embalajes, los envases o los recipientes que sean preceptivos, o comercializarlos con una información que induzca a engaño a los receptores o consumidores.
+33. No poder correlacionar los productos existentes en las instalaciones con las características principales de estos productos que constan en los registros y con la documentación de acompañamiento o, si procede, en la documentación comercial, o no tener constancia de las entradas y salidas de los productos y de las manipulaciones, tratamientos y prácticas que se han efectuado en los mismos.
+34. Cometer una infracción leve cuando hubiera sido sancionado por resolución firme por otras dos infracciones leves en los tres años anteriores.
+Se modifica por el art. 70 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 16
+
+Artículo 16. Infracciones muy graves.
+1. Negarse absolutamente a la actuación de los servicios públicos de inspección.
+2. Utilizar, sin tener derecho a ello, indicaciones, nombres comerciales, marcas, símbolos o emblemas referidos a los nombres protegidos por una denominación de origen protegida (DOP), una indicación geográfica protegida (IGP), una especialidad tradicional garantizada (ETG), una denominación geográfica o una marca de calidad agroalimentaria que tengan otros sistemas de protección de calidad agroalimentaria, o que tengan similitud fonética o gráfica con los nombres protegidos o con los signos o emblemas que les sean característicos, que induzcan a confusión sobre la naturaleza, calidad u origen de los productos, aunque vayan acompañados de los términos tipo, estilo, género, imitación, sucedáneo, o análogos.
+3. Tener, negociar, utilizar indebidamente o falsificar los documentos, etiquetas y demás elementos de identificación propios de las denominaciones de origen protegidas (DOP), las indicaciones geográficas protegidas (IGP), las especialidades tradicionales garantizadas (ETG), los vinos producidos en una región determinada (vcprd), las denominaciones geográficas, las marcas de calidad agroalimentaria u otros sistemas de protección de la calidad agroalimentaria.
+4. La falsificación de productos o comercialización de productos falsificados, siempre que no sean constitutivas de infracción penal.
+5. Cometer infracciones graves que impliquen la extensión de la alteración, la adulteración, la falsificación o el fraude a realizar por terceros a los cuales se faciliten la sustancia, los medios o procedimientos para realizarlos, encubrirlos o enmascararlos.
+6. Suministrar a industrias agroalimentarias, a título oneroso o gratuito, productos agroalimentarios o materias o sustancias no permitidas para la elaboración de los productos para los cuales están autorizadas dichas industrias.
+7. Cometer infracciones graves que, en todo o en parte, sean concurrentes con infracciones graves de la normativa sanitaria o que hayan servido para facilitarlas o encubrirlas.
+8. La reincidencia en cometer una infracción grave cuando hubiera sido sancionado por resolución firme por la misma cometida en los tres años anteriores.
+Se modifica por el art. 70 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 17
+
+Artículo 17. Graduación de las sanciones.
+La cuantía de las sanciones se graduará conforme a los siguientes criterios: el volumen de ventas de la empresa; la cuantía del beneficio obtenido; el efecto que la infracción haya producido sobre los precios, sobre el uso de dicho producto o sobre el propio sector productivo, y la reincidencia.
+Se modifica por el art. 70 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 18
+
+Artículo 18. Régimen sancionador y competencia sancionadora.
+1. El régimen sancionador se ajustará a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y al Título III de la Ley 28/2015, de 30 de julio, para la defensa de la calidad alimentaria.
+2. La persona titular de la Dirección General con funciones en la defensa de la calidad agroalimentaria será el órgano competente para incoar los expedientes sancionadores y designar los funcionarios instructores de los mismos, entre los pertenecientes a dicha Conselleria.
+3. Tienen competencia para imponer las sanciones que establece la presente ley los siguientes órganos:
+a) La persona titular de la Dirección General con funciones en la defensa de la calidad agroalimentaria, en caso de infracciones leves y graves.
+b) La persona titular de la Conselleria con funciones en la defensa de la calidad agroalimentaria, en caso de infracciones muy graves.
+c) El pleno del Consell, en el caso de clausura definitiva de la actividad empresarial en la Comunitat Valenciana.
+Se modifica por el art. 70 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 19
+
+Artículo 19. Sanciones.
+1. Las infracciones administrativas reguladas en este capítulo serán reprimidas con las sanciones siguientes:
+a) Las infracciones leves con apercibimiento o multa de hasta 4.000 euros.
+b) Las graves, con multa entre 4.001 y 150.000 euros.
+c) Las muy graves, con multa entre 150.001 a 3.000.000 euros.
+d) La sanción que se imponga en ningún caso podrá ser inferior en su cuantía al beneficio ilícito obtenido por la comisión de las infracciones.
+2. La autoridad a quien corresponda resolver el expediente podrá acordar, como medida cautelar, la suspensión temporal de la actividad empresarial radicada en la Comunitat Valenciana objeto de la investigación, así como el decomiso de la mercancía falsificada, fraudulenta, no identificada o que pueda entrañar riesgo para el consumidor, corriendo por cuenta del presunto infractor los gastos que tal medida ocasione.
+3. No tendrá carácter de sanción la retirada cautelar o definitiva de los canales de producción o distribución de aquellos productos que sean suministrados por establecimientos que carezcan de la preceptiva autorización.
+Se modifica por el art, 88 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Se modifica por el art. 70 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 20
+
+Artículo 20. Derogación Normativa.
+Queda derogado el Decreto 153/1996, de 30 de julio, del Gobierno Valenciano, por el que se regulan las infracciones, el procedimiento y la competencia sancionadora en materia de defensa de la calidad agroalimentaria.
+Se modifica por el art. 70 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 21
+
+Artículo 21. Régimen sancionador en materia de clasificación de canales de vacuno y porcino.
+1. El régimen sancionador por los incumplimientos de la normativa aplicable en materia de clasificación de canales de vacuno, porcino, derivada del artículo 10 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 y (CE) n.º 1234/2007, será el establecido en los artículos 18 y 19 de esta Sección, con la particularidad de que la Dirección General competente en incoar y resolver los expedientes sancionadores en clasificación de canales será aquella que tenga atribuidas funciones en esta materia.
+2. Son infracciones leves las siguientes:
+a) Llevar a cabo un faenado de la canal diferente a cualquiera de los permitidos según la normativa específica.
+b) No marcar la canal, o marcarla sin indicar todas las menciones obligatorias.
+c) En el caso de las canales de vacuno, utilizar presentaciones diferentes a las de referencia sin aplicar los coeficientes correctores establecidos a tal efecto para ajustar el peso de las canales. En el caso de las canales de porcino, utilizar presentaciones diferentes a las presentaciones tipo establecidas en el Real Decreto 1028/2011, de 15 julio, por el que se establecen disposiciones de aplicación relativas a la clasificación de las canales de porcino.
+d) No informar al proveedor de los animales, y, en su caso, al ganadero si así lo solicita, del resultado de la clasificación con indicación expresa de la categoría y peso, junto con los coeficientes correctores aplicados.
+e) La concurrencia de errores reiterados a la hora de determinar el peso o la clasificación de la canal, entendiendo como tales al menos un número de 20 detectados en la visita de inspección.
+3. Son infracciones graves las siguientes:
+a) No llevar a cabo la clasificación de canales en los casos en que la misma sea obligatoria.
+b) En el caso de las canales de vacuno, no tener entre su personal contratado ningún clasificador con la autorización vigente para realizar la clasificación, en el momento de la de clasificación autorizados conforme a la normativa vigente.
+c) No realizar los registros establecidos en la normativa específica de clasificación de canales o no conservar los registros sobre la clasificación de canales el tiempo establecido en la normativa específica.
+d) Movilizar las canales paralizadas cautelarmente.
+e) La reiteración de tres faltas leves por cualquier motivo o reincidencia de dos faltas leves por la misma causa en los últimos tres años.
+4. Son infracciones muy graves las siguientes:
+a) Negarse a la actuación de los servicios públicos de inspección.
+b) Vejar, coaccionar, intimidar o amenazar al personal de la Administración que realiza funciones de inspección, a los instructores de los expedientes sancionadores, al personal de los organismos de gestión o de las entidades de control, o ejercer cualquier otra forma de presión sobre los mismos, siempre que dichas acciones no constituyan infracción penal.
+c) Alterar el resultado de la clasificación de canales.
+d) Manipular, trasladar o tener cualquier forma de mercancía cautelarmente inmovilizada con violación de los precintos, o si las mercancías salen de las instalaciones donde fueron intervenidas sin la autorización del órgano competente en la materia.
+e) La reiteración de tres faltas graves por cualquier motivo o reincidencia de dos faltas graves por la misma causa en los últimos tres años.
+5. En el supuesto de la comisión de infracción grave o muy grave, la autoridad competente para resolver podrá imponer como sanción accesoria alguna de las siguientes medidas:
+a) Medidas de corrección, seguridad o control que impidan la continuidad en la producción del daño.
+b) Decomiso de las canales.
+Se modifica por el art. 70 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 21 bis
+
+Artículo 21 bis. Procedimiento sancionador en contratación y prácticas comerciales en el ámbito de la cadena alimentaria.
+1. El régimen sancionador por los incumplimientos en la normativa aplicable en materia de contratación y prácticas comerciales en el ámbito de la cadena alimentaria se ajustará a lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, con la salvedad que el plazo máximo para resolver el procedimiento sancionador y notificar la resolución expresa del mismo será de diez meses.
+2. Las disposiciones generales, infracciones y sanciones serán las establecidas en la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria.
+3. La persona titular de la dirección general u el órgano administrativo de rango equivalente con funciones en esta materia será el órgano competente para incoar los expedientes sancionadores y designar los funcionarios instructores de estos, entre los pertenecientes a la conselleria competente en esta materia.
+4. Tienen competencia para imponer las sanciones en esta materia los siguientes órganos:
+a) La persona titular de la dirección general u órgano administrativo de rango equivalente con funciones en contratación y prácticas comerciales en el ámbito alimentario, en caso de infracciones leves y graves.
+b) La persona titular de la conselleria con funciones en contratación y prácticas comerciales en el ámbito de la cadena alimentaria, en caso de infracciones muy graves hasta 600.000 euros.
+c) El Consell cuando dicha cuantía exceda de 600.000 euros.
+Se añade por el art. 257 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## CAPÍTULO VI
+
+De las competencias del Consejo de Salud de la Comunidad Valenciana
+
+### Artículo 22
+
+Artículo 22. De la ampliación de competencias.
+A fin de hacer más efectiva la colaboración ciudadana con la Consejería de Sanidad y Consumo y poder participar más directamente en el seguimiento y control de la gestión del SVS, se ampliarán las competencias del Consejo de Salud de la Comunidad Valenciana en las siguientes:
+1. Aprobar el estado de ingresos y gastos anual del SVS y elevarlo a la Consejería de Sanidad y Consumo para su posterior incorporación al anteproyecto general de la misma.
+2. Conocer el nombramiento y cese de los Gerentes de las áreas de. Salud a propuesta del Consejo de Dirección del área y oído el Consejo de Salud de la misma.
+3. Conocer el nombramiento y cese de los Directores y restante personal directivo de los hospitales y centros de Atención Primaria, a propuesta del Director general del SVS.
+4. Crear una comisión técnica de conciertos en el seno del Consejo de Salud de la Comunidad Valenciana, para el estudio, dictamen, propuesta y seguimiento de los mismos.
+
+### Disposición adicional primera
+
+Disposición adicional primera. De las sanciones urbanísticas.
+1. Corresponderán a las Haciendas municipales los ingresos derivados de aquellas multas, por infracción urbanística, que impongan los órganos urbanísticos de la Generalidad Valenciana como consecuencia de propuestas formuladas y tramitadas por los Ayuntamientos interesados, que requieran la aprobación de la Generalidad Valenciana.
+2. Corresponderán a la Hacienda de la Generalidad Valenciana los ingresos generados por la imposición de sanciones urbanísticas que ésta imponga en actuaciones tramitadas de oficio por sus propios órganos urbanísticos.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. De la actualización de determinadas tasas.
+A las tasas cuyas tarifas son objeto de actualización en el artículo 12 de esta Ley no les será de aplicación el incremento previsto al efecto, en la Ley de Presupuestos de la Generalidad Valenciana para 1995, dado que los importes recogidos en el mencionado artículo 12 corresponden a las cantidades a percibir durante el citado ejercicio.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. De las tarifas portuarias.
+El período voluntario de pago de las tarifas portuarias de la Generalidad Valenciana será de un mes a partir de la fecha de notificación de la liquidación correspondiente, transcurrido dicho plazo sin haber hecho efectivas dichas tarifas, se tendrá por impagada a efectos de suspensión de servicios, retirada o puesta en seco de embarcación, corte del suministro o cualquier otra medida que se derive de la aplicación de la normativa de explotación, sin perjuicio del inicio de la vía de apremio en el plazo establecido en la normativa correspondiente.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. De las infracciones administrativas en materia de caza.
+Las cuantías reflejadas en el artículo 48.3 de la Ley 1/1970, de 4 de abril, de Caza, en el ámbito de la Comunidad Valenciana serán las siguientes:
+Las infracciones administrativas serán sancionadas: las graves, con multas de 50.001 hasta 500.000 pesetas; las menos graves, con multas de 25.001 hasta 50.000 pesetas; y las leves, con multas de 5.000 hasta 25.000 pesetas.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Se declaran a extinguir las plazas de los funcionarios técnicos del Estado al servicio de la Sanidad Local, transferidas a la Comunidad Valenciana mediante Real Decreto 2103/1984, de 10 de octubre, e integradas en los Equipos de Atención Primaria. El personal interino que actualmente las ocupa permanecerá desempeñando sus funciones con la obligación de participar en las convocatorias que para Equipos de Atención Primaria se convoquen en la Comunidad Valenciana.
+Estas plazas tendrán, a partir de este momento, la condición de no ofertables y se amortizarán en el momento que cese el titular o funcionario interino que la desempeña. En ningún caso, los funcionarios interinos poseerán la titularidad de la plaza, en tanto no accedan a ésta por el procedimiento reglamentario.
+Se modifica por el art. 22 de la Ley 14/1997, de 26 de diciembre. Ref. BOE-A-1998-8203
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Transferencias de servicios sanitarios.
+1. Queda ampliado el plazo previsto en la disposición transitoria tercera de la Ley 8/1987, de 4 de diciembre, del Servicio Valenciano de Salud, hasta la fecha en que, de acuerdo con lo establecido en la disposición transitoria primera de la Ley 14/1986, de 25 de abril, General de Sanidad, concluya el proceso de transferencia de los servicios y establecimientos sanitarios pertenecientes a las corporaciones locales, en los términos previstos en el Decreto 109/1988, de 18 de julio, del Gobierno valenciano.
+2. La transferencia económico-financiera de los servicios sanitarios de los entes locales al Servicio Valenciano de Salud se ajustará en todas sus partes a lo recogido en la citada Ley 8/1987.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. De la exención contenida en el artículo 75.3 del texto articulado de la Ley de Bases de Tasas de la Generalidad Valenciana.
+La exención contenida en el artículo 75.3 del texto articulado de la Ley de Bases de Tasas de la Generalidad Valenciana, aprobado por el Decreto Legislativo de 22 de diciembre de 1984, del Gobierno valenciano, en la redacción dada al mismo por la presente Ley, se aplicará con carácter retroactivo en el año 1994.
+
+### Disposición final primera
+
+Disposición final primera. Del texto refundido de la Ley de Tasas de la Generalidad Valenciana.
+Se autoriza al Gobierno valenciano para elaborar, en el plazo máximo de seis meses, un texto refundido del texto articulado de la Ley de Bases de Tasas de la Generalidad Valenciana, con la denominación Texto refundido de la Ley de Tasas de la Generalidad Valenciana, al que se incorporarán, con capacidad para regularizar, actualizar y armonizar, las disposiciones legales vigentes.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Diario Oficial de la Generalidad Valenciana».
+
+### [firma]
+
+Por tanto ordeno a todos los ciudadanos, Tribunales, autoridades y poderes públicos a los que corresponda, que observen y hagan cumplir esta Ley.
+Valencia, 28 de diciembre de 1994.
+JOAN LERMA I BLASCO,
+Presidente

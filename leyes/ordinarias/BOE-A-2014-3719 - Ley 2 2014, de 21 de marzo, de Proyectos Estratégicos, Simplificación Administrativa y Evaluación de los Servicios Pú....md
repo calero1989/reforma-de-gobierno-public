@@ -1,0 +1,478 @@
+# Ley 2/2014, de 21 de marzo, de Proyectos Estratégicos, Simplificación Administrativa y Evaluación de los Servicios Públicos de la Comunidad Autónoma de la Región de Murcia.
+
+- Identificador BOE: `BOE-A-2014-3719`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2014-3719
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley de proyectos estratégicos, simplificación administrativa y evaluación de los servicios públicos de la Comunidad Autónoma de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30.Dos, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley.
+PREÁMBULO
+La actual crisis económica demanda que el Gobierno regional se convierta en motor de la recuperación económica desarrollando instrumentos que generen confianza en los ciudadanos y en la actividad privada. Por ello, esta norma pretende impulsar un conjunto de medidas de simplificación administrativa, de Administración electrónica, de proyectos estratégicos y de evaluación de los servicios públicos dirigidas a la mejora de la competitividad económica, propiciando, al mismo tiempo, la creación de riqueza y empleo en nuestra Región, y a lograr un mejor funcionamiento de las administraciones y, por tanto, un mejor y más eficiente servicio al ciudadano.
+Tanto la simplificación administrativa como la revisión y mejora de los procedimientos administrativos que la misma conlleva, así como la incorporación de la Administración electrónica, constituyen una necesidad actual de las administraciones públicas, pero, a su vez, es una exigencia derivada de la Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos, que establece como principio general el de simplificación administrativa, reduciendo de manera sustancial los tiempos y plazos de los procedimientos administrativos, logrando una mayor eficacia y eficiencia en la actividad administrativa. Por su parte, en el artículo 3.2 de la Ley 7/2004, de 28 de diciembre, de Organización y Régimen Jurídico de la Administración Pública de la Comunidad Autónoma de la Región de Murcia, ya se establecía como principio de funcionamiento el de racionalización y agilidad de los procedimientos administrativos y de las actividades de gestión.
+En este ámbito, la Administración regional ya ha realizado dos actuaciones fundamentales: por un lado, la aprobación del Decreto n.º 286/2010, de 5 de noviembre, sobre Medidas de Simplificación Documental en los Procedimientos Administrativos de la Administración Pública de la Comunidad Autónoma de la Región de Murcia, que regula importantes medidas en la materia, y, por otro lado, como consecuencia del Acuerdo del Consejo de Gobierno de 17 de abril de 2009, por el que se adoptan medidas urgentes de racionalización administrativa y se aprueban acciones para la calidad y modernización de la Administración Pública de la Región de Murcia, se está desarrollando un ambicioso proyecto de simplificación administrativa de los procedimientos administrativos existentes en la misma.
+Profundizar en el establecimiento de medidas en materia de simplificación administrativa que conduzcan a una efectiva reducción de las cargas burocráticas que la Administración impone, así como la demanda creciente de ciudadanos, empresas y de la propia Administración regional, determinan la existencia de esta ley.
+Por otro lado, la Ley 7/2011, de 26 de diciembre, de Medidas Fiscales y de Fomento Económico en la Región de Murcia, regula, en su título III, los proyectos estratégicos, definiendo como tales aquellos que tengan un gran impacto en el desarrollo económico, social y territorial de la Región. A este respecto se ha incorporado a esta ley ese régimen jurídico, de manera que se unifique en una misma norma el conjunto de medidas con impacto económico, ya que las medidas de simplificación administrativa y de Administración electrónica, junto con los proyectos de interés estratégicos, contribuyen a la dinamización de la economía, facilitando la puesta en marcha de actividades empresariales o profesionales, así como la consiguiente minoración de costes y tiempo.
+Por otra parte, la aplicación de medios electrónicos a la gestión de los procedimientos debe ir precedida necesariamente por una simplificación de los mismos, como bien señala el artículo 34 de la Ley 11/2007, de 22 de junio. Es por ello que la Administración regional ha aprobado el Decreto n.º 302/2011, de 25 de noviembre, de Régimen Jurídico de la Gestión Electrónica de la Administración Pública de la Comunidad Autónoma de la Región de Murcia, mediante el que se pretende una implantación de manera gradual y completa de una verdadera Administración electrónica, que conduzca a una agilización y flexibilización de los procedimientos administrativos y a facilitar las relaciones de los ciudadanos con la Administración Regional.
+Asimismo, el objetivo necesario y último de la actividad administrativa que esta ley pretende simplificar no puede ser otro que la satisfacción de los intereses generales. Por ello, esta ley no establece solamente medidas en materia de simplificación, modernización administrativa y el régimen de los proyectos de interés estratégico, sino que, junto con aquellas, pretende la implantación y el desarrollo de sistemas de gestión pública en la Administración regional, así como de sistemas de evaluación de las políticas públicas y de la calidad de los servicios prestados por la misma.
+En este contexto, la competencia de la Comunidad Autónoma de la Región de Murcia viene dada en virtud de lo dispuesto en el artículo 10.Uno.11 y 29, el artículo 11.Tres y el artículo 51 del Estatuto de Autonomía para la Región de Murcia, en materia de organización, régimen jurídico, planificación de la actividad económica y fomento del desarrollo económico y procedimiento administrativo.
+Formalmente, la ley se estructura en seis títulos con treinta y cinco artículos, cinco disposiciones adicionales, dos disposiciones transitorias, una disposición derogatoria y cinco disposiciones finales.
+El título preliminar, «Disposiciones generales», comprende el objeto, ámbito y finalidades de la ley. El objeto es establecer medidas de simplificación administrativa y Administración electrónica que mejoren los servicios prestados a los ciudadanos y reduzcan las cargas administrativas que los mismos soportan, regular el régimen jurídico de los proyectos de interés estratégico en el ámbito de la Comunidad Autónoma de la Región de Murcia, así como implantar en la Administración regional un modelo de gestión y de evaluación pública que permita desarrollar una evaluación integral tanto de sus políticas públicas como de la calidad de los servicios prestados a los ciudadanos. Además también se modifica la Ley 4/2009, de 14 de mayo, de Protección Ambiental Integrada.
+En cuanto al ámbito de aplicación, sus medidas van principalmente dirigidas a la Administración pública de la Comunidad Autónoma de la Región de Murcia.
+El título I, «Principios y derechos», recoge los principios generales a los que se ajusta la Administración regional y un catálogo de derechos de los ciudadanos en sus relaciones con la Administración.
+El título II, «Proyectos de interés estratégico de la Comunidad Autónoma de la Región de Murcia», pretende continuar con los objetivos de la Ley 7/2011, de 26 de diciembre, de Medidas Fiscales y de Fomento Económico en la Región de Murcia, estableciendo para ello una reducción de los plazos ordinarios de tramitación administrativa previstos en la normativa regional. Esta ley completa la regulación establecida en determinados aspectos, entre otros, los requisitos de los proyectos y criterios para obtener la declaración de proyecto de interés estratégico, quiénes pueden ser promotores de los proyectos, el procedimiento, plazo máximo de resolución y efectos del silencio administrativo, así como la competencia para la declaración. Respecto al silencio administrativo, el mandato legal del artículo 43 de la Ley 30/1992, de 26 de diciembre, descansa sobre la previsión general de circunscribir el sentido negativo del silencio administrativo a aquellos procedimientos en que lo exijan imperiosas razones de interés general y así lo sancione una ley; en este caso concurren motivos que justifican la opción por el sentido desestimatorio del silencio de entre las razones imperiosas de interés general establecidas por la Directiva de Servicios y previstas en el artículo 3.11 de la Ley 17/2009, de 23 de noviembre, la protección del medio ambiente y del entorno urbano, la conservación del patrimonio histórico y artístico nacional y los objetivos de la política social y cultural. Incorpora, asimismo, aspectos nuevos como promover la declaración de actuación de interés regional en el caso de que los proyectos estratégicos impliquen una alteración del planeamiento territorial o urbanístico.
+Por su parte, el título III, «Medidas de simplificación de procedimientos administrativos», establece un paquete de medidas de simplificación administrativa con el objetivo último de facilitar a las personas físicas o jurídicas la puesta en marcha y el desarrollo de actividades empresariales o profesionales en el ámbito de la Comunidad Autónoma de la Región de Murcia. El título se divide en dos capítulos: el primero, dedicado a las medidas destinadas a simplificar la tramitación administrativa, y el segundo, dedicado a las medidas destinadas al impulso de actividad empresarial y profesional.
+En el capítulo I, la primera de dichas medidas está precisamente referida a proseguir con el seguimiento e implantación efectiva del proceso de simplificación administrativa iniciado como consecuencia del Acuerdo del Consejo de Gobierno de 17 de abril de 2009, estableciendo las finalidades de dicho proceso.
+En segundo lugar, se regula la gestión y mejora continua de los procesos horizontales y los internos, ya que la simplificación administrativa comprende tanto los procedimientos horizontales e internos de la Administración como los externos cuyos destinatarios son los ciudadanos. Además se crea, como órgano colegiado encargado del impulso de la simplificación y de la reducción de cargas administrativas, la Comisión de Simplificación.
+La ley también establece la necesidad de contemplar un estudio de cargas administrativas en la elaboración de las leyes y disposiciones de carácter general cuya elaboración corresponda a la Administración regional, con el fin de que, previamente a su aprobación, se valore el impacto de la nueva regulación y si en la misma se contemplan trabas innecesarias que dificulten la implantación y desarrollo de actividades económicas.
+Las medidas a que se refieren los artículos siguientes vienen íntimamente relacionadas, pues recogen el derecho establecido en la Ley 11/2007, de 22 de junio, a no aportar datos y documentos no exigidos por las normas aplicables o que ya se encuentren en poder de las administraciones públicas cuando se pueda acceder a ellos por medios telemáticos, el instrumento donde se recogerá la documentación que el interesado no tiene la obligación de aportar ante la Administración regional, así como el medio para la obtención de oficio de esa documentación.
+En relación con el Catálogo de Simplificación Documental, el mismo comprenderá el listado de aquellos documentos cuya obligación de aportar por el interesado queda suprimida o sustituida por una declaración responsable e indicará qué documentos de los anteriores pueden ser consultables mediante el acceso a la Plataforma de Interoperabilidad.
+El artículo 19 se refiere a la Plataforma de Interoperabilidad de la Comunidad Autónoma de la Región de Murcia, definiéndola como la herramienta corporativa mediante la que la Administración regional podrá consultar o verificar determinados datos y documentos de los ciudadanos expedidos por las administraciones públicas e incluidos en el Catálogo de Simplificación. La ley establece tanto las necesarias precauciones para su uso derivadas de la normativa en materia de protección de datos de carácter personal como los datos a consultar en función de su origen y las autorizaciones a conceder para su utilización.
+El capítulo II se centra en las medidas destinadas al impulso de la actividad empresarial y profesional, regulando dos instrumentos que permitirán iniciar las actividades empresariales o profesionales correspondientes en menor plazo, modificando el control previo de la Administración por un control posterior, –las declaraciones responsables y las comunicaciones previas– a los que hace referencia el artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. La ley determina la necesidad de mantener permanentemente actualizado un listado de todos los procedimientos que se inicien mediante las mismas, así como de los modelos correspondientes. Tras lo anterior, la ley regula el régimen de las licencias y autorizaciones condicionadas que se otorgarán con el fin de evitar la denegación de las licencias o autorizaciones que, afectando a una actividad empresarial o profesional, fueran contrarias a condiciones no esenciales y que deberán cumplirse, en todo caso, en el plazo establecido en el acto de otorgamiento de la licencia.
+Finalmente, la ley establece la agilización de trámites para la creación de empresas sustanciándose los mismos en una única unidad administrativa.
+El título IV, «Incorporación de los medios electrónicos en la Administración regional», recoge la obligación de implantar progresivamente el uso de medios electrónicos en la gestión de la actividad administrativa con el fin de lograr mayores cotas de eficacia, eficiencia, accesibilidad, transparencia y calidad. Para ello promoverá la incorporación de los medios electrónicos en la prestación de servicios públicos y la cooperación y colaboración institucionales en la creación y puesta a disposición de infraestructuras y servicios comunes de Administración electrónica, con el fin de hacer más eficaz y económico el ofrecimiento de servicios a los ciudadanos y empresas. También recoge el deber de usar preferentemente los medios electrónicos en las relaciones con las empresas en el ejercicio de la actividad económica, siempre y cuando no represente un coste mayor para las mismas. Los servicios electrónicos que preste la Administración regional deberán ser accesibles en la sede electrónica de la Administración pública de la Comunidad Autónoma de la Región de Murcia.
+Se establecen garantías en la utilización de medios electrónicos que en ningún caso podrá implicar la existencia de restricciones o discriminaciones de cualquier naturaleza en el acceso de los ciudadanos a la prestación de servicios públicos. En cuanto al diseño y aprobación de aplicaciones, estas se basarán en criterios y estándares que faciliten la interoperabilidad y puedan ser reutilizadas por otras administraciones públicas.
+Por último, se evaluará periódicamente el impacto del uso de los medios electrónicos en la actuación administrativa mediante auditorías internas.
+El título V, «Gestión pública, evaluación de las políticas públicas y de la calidad de los servicios», regula un marco jurídico del sistema de gestión y de evaluación pública, sin el que no es posible medir de forma precisa los avances y las reorientaciones de la organización y de la actuación administrativa. La evaluación es una actividad específica y con identidad propia, claramente diferenciada de otras como el control interno, la auditoría financiera, la auditoría de gestión o el control presupuestario, pero con las que mantiene una estrecha relación de complementariedad.
+En este sentido, la Ley 7/2004, de 28 de diciembre, estableció como principios de funcionamiento de la Administración regional, junto con el principio constitucional de eficacia, el de eficiencia y de responsabilidad por la gestión pública, así como los principios de planificación, programación y desarrollo de objetivos y control de la gestión y de los resultados.
+Así, la ley instaura en relación con la gestión pública un modelo basado en la evaluación de las políticas públicas, la orientación a resultados y la calidad total de los servicios. A continuación, establece el sistema de evaluación de la gestión pública de la Administración regional recogiendo las medidas y objetivos que han de derivarse del mismo. Por su parte, ese sistema de evaluación se concreta, a su vez, en otras dos evaluaciones, estableciéndose el concepto y tipos de cada una de ellas: La evaluación de las políticas públicas, por un lado, y la evaluación de la calidad de los servicios públicos de la Administración regional, por otro. Respecto a esta última, se determinan las finalidades y extremos sobre los que se tiene que realizar la evaluación de la calidad de los servicios, mediante la aplicación de modelos de gestión de calidad comúnmente aceptados. Por último, se crea el Observatorio de la Calidad de los Servicios.
+La disposición adicional primera, en relación con la memoria de análisis de impacto normativo, establece la obligación del Consejo de Gobierno de aprobar en el plazo de un mes una guía metodológica que deberá seguirse en su elaboración.
+La disposición adicional segunda, en relación con el silencio administrativo, establece, de conformidad con lo señalado en la Ley 2/2011, de 4 de marzo, de Economía Sostenible, la necesaria adecuación del silencio administrativo en aquellos procedimientos regulados por normas anteriores a la modificación del régimen del silencio, operada por la Ley 25/2009, de 22 de diciembre, de modificación de diversas leyes para su adaptación a la Ley 17/2009, de 23 de noviembre, sobre libre acceso a las actividades de servicios y su ejercicio.
+La disposición adicional tercera, en relación con las declaraciones responsables y comunicaciones previas, establece la obligación de llevar a cabo las actuaciones necesarias para la implantación de dichas figuras en la Administración regional.
+La disposición final primera modifica la Ley 6/2004, de 28 de diciembre, del Estatuto del Presidente y del Consejo de Gobierno de la Región de Murcia, para introducir, tanto en los anteproyectos de ley como en el proceso de elaboración de reglamentos, memoria de análisis de impacto normativo que reduce la multiplicidad de memorias y documentos que han de realizarse en la tramitación normativa de los mismos a un único documento.
+La disposición final segunda modifica la Ley 4/2009, de 14 de mayo, de Protección Ambiental Integrada, con la finalidad de agilizar la tramitación y reducir cargas burocráticas en materia de autorizaciones y evaluaciones ambientales; para ello elimina la exigencia de visado por colegio profesional, la validación de las solicitudes de autorización y la presentación de copias de documentos para la emisión de informes y realización de trámites procedimentales. En relación con la documentación a aportar para la tramitación de la autorización ambiental integrada se exige la aportación de proyecto técnico de instalación, dando cobertura legal a una cuestión que en la práctica ya se realizaba. También se modifican otras cuestiones relacionadas con las entidades locales como son la comunicación de modificación no sustancial de autorización ambiental autonómica al ayuntamiento con la finalidad de que este, en su caso, modifique la licencia de actividad. Y que el informe de la entidad de control ambiental en la comunicación previa de actividades sujetas a calificación ambiental deje de ser preceptivo, previéndose en su caso en la licencia de actividad.
+Se modifica el anexo I de la Ley 4/2009 suprimiendo, para los proyectos sometidos a evaluación ambiental que no estén a su vez sujetos a ninguna autorización ambiental autonómica, que se sujeten a autorización ambiental única. La evaluación ambiental del proyecto se integrará en el procedimiento de autorización por razón de la materia que corresponda. Se gana así en simplificación procedimental, dado que en este caso no es necesario integrar varios trámites o procedimientos ambientales. También se actualizan las menciones del anexo I para adaptarlas a la Ley 22/2011, de 28 de julio, de Residuos y Suelos Contaminados. Con la finalidad de clarificar el anexo III, se modifican determinados supuestos que en la práctica han dado lugar a interpretaciones erróneas. Finalmente, se modifica el anexo IV, excluyéndose la evaluación ambiental directa de los planes especiales que afecten a suelo no urbanizable protegido, de modo que sea el órgano competente en materia ambiental el que determine si se ha de sujetar a evaluación ambiental o no.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 1
+
+Artículo 1. Objeto.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 3
+
+Artículo 3. Finalidades.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+## TÍTULO I
+
+Principios y derechos
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 4
+
+Artículo 4. Principios generales.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 5
+
+Artículo 5. Derechos de los ciudadanos en sus relaciones con la Administración regional.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+## TÍTULO II
+
+Proyectos de interés estratégico de la Comunidad Autónoma de la Región de Murcia
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 6
+
+Artículo 6. Concepto y requisitos.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifica el apartado 2, 3; y se añade el 4 y 5 por la disposición final 1.1 a 4 del Decreto-ley 5/2022, de 20 de octubre. Ref. BORM-s-2022-90316#df
+
+### Artículo 7
+
+Artículo 7. Procedimiento.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifica el apartado 3 por la disposición final 1.5 del Decreto-ley 5/2022, de 20 de octubre. Ref. BORM-s-2022-90316#df
+ Se modifican los apartados 1, 5, 6 y 8 por el art. 8.1 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#ao.
+ Se modifican los apartados 1, 5, 6 y 8 por el art. 8.1 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 8
+
+Artículo 8. Efectos.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se añaden los apartados 6 a 8 por la disposición final 1.6 a 8 del Decreto-ley 5/2022, de 20 de octubre. Ref. BORM-s-2022-90316#df
+ Se modifica el apartado 4 por el art. 8.2 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#ao.
+ Se modifica el apartado 4 por el art. 8.2 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 9
+
+Artículo 9. Seguimiento de los proyectos declarados.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifica por el art. 8.3 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#ao.
+ Se modifica por el art. 8.3 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+## TÍTULO III
+
+Medidas de simplificación de procedimientos administrativos
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+## CAPÍTULO I
+
+Medidas destinadas a simplificar la tramitación administrativa
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 10
+
+Artículo 10. Concepto de simplificación.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 11
+
+Artículo 11. Implantación y seguimiento del proceso de simplificación administrativa.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 12
+
+Artículo 12. Gestión y mejora continua de los procesos horizontales e internos.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 13
+
+Artículo 13. Comisión de Simplificación.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 14
+
+Artículo 14. Participación en el proceso de simplificación administrativa.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 15
+
+Artículo 15. Estudio de cargas administrativas.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 16
+
+Artículo 16. Guía de procedimientos y servicios.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 17
+
+Artículo 17. Presentación de documentos.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 18
+
+Artículo 18. El Catálogo de Simplificación Documental.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 19
+
+Artículo 19. La Plataforma de Interoperabilidad de la Comunidad Autónoma de la Región de Murcia.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+## CAPÍTULO II
+
+Medidas destinadas al impulso de la actividad empresarial y profesional
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 20
+
+Artículo 20. Declaraciones responsables y comunicaciones previas.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 21
+
+Artículo 21. Licencias y autorizaciones condicionadas.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Artículo 22
+
+Artículo 22. Unidad administrativa para la creación de empresas.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+## TÍTULO IV
+
+De la incorporación de los medios electrónicos en la Administración Regional
+
+### Artículo 23
+
+Artículo 23. Implantación de medios electrónicos en la Administración regional.
+1. La Administración Pública de la Comunidad Autónoma de la Región de Murcia implantará progresivamente el uso de medios electrónicos en la gestión de su actividad administrativa con el fin de lograr mayores cotas de eficacia, eficiencia, accesibilidad, transparencia y calidad en su desarrollo, así como garantizar el principio de servicio a los ciudadanos y la efectividad de los derechos reconocidos en la Ley 11/2007, de 22 de junio, de Acceso Electrónico de la Ciudadanos a los Servicios Públicos.
+2. Para el cumplimiento de lo establecido en el párrafo anterior, la Administración regional promoverá:
+a) La incorporación de los medios electrónicos en la prestación de servicios públicos, tanto en sus comunicaciones y relaciones con los ciudadanos y empresas como en los procesos internos de la Administración Regional y en las relaciones que se desarrollen con otras administraciones públicas e instituciones.
+b) La cooperación y colaboración institucionales en la creación y puesta a disposición de infraestructuras y servicios comunes de Administración electrónica que garanticen la interoperabilidad de los sistemas de información y hagan posible su uso por las distintas consejerías, organismos públicos y entidades de derecho público de la Administración regional, con el fin de hacer más eficaz y económico el ofrecimiento de servicios a los ciudadanos y empresas.
+c) La optimización de los recursos informáticos reorganizando los mismos, como soporte técnico fundamental para la efectiva implantación de los medios electrónicos en la Administración regional.
+
+### Artículo 24
+
+Artículo 24. Preferencia del uso de los medios electrónicos en las relaciones de la Administración regional con las empresas.
+1. La Administración regional usará preferentemente los medios electrónicos en las relaciones con las empresas en el ejercicio de su actividad económica siempre y cuando, globalmente, no represente un coste mayor para las mismas y se cumpla lo previsto en el artículo 27 de la Ley 11/2007, de 22 de junio. A los efectos de la presente ley, se entiende por empresa aquella entidad que ejerce una actividad económica, independientemente de su forma jurídica.
+2. Los servicios electrónicos que preste la Administración regional deberán ser accesibles en la sede electrónica de la Administración pública de la Comunidad Autónoma de la Región de Murcia.
+
+### Artículo 25
+
+Artículo 25. Garantías en la utilización de medios electrónicos.
+La aplicación de medios electrónicos en ningún caso podrá implicar la existencia de restricciones o discriminaciones de cualquier naturaleza en el acceso de los ciudadanos a la prestación de servicios públicos o a cualquier actuación o procedimiento administrativo.
+
+### Artículo 26
+
+Artículo 26. Diseño y aprobación de aplicaciones.
+1. La Administración regional garantizará que las aplicaciones que se pretendan implementar o desarrollar se basen en criterios y estándares que faciliten la interoperabilidad y puedan ser reutilizadas por otras administraciones públicas.
+2. Sin perjuicio de lo establecido en la disposición adicional cuarta de esta ley, las aplicaciones y sistemas de información que se desarrollen o vayan a ser incorporadas en la Administración regional para el ejercicio de potestades administrativas, habrán de ser previamente aprobadas conforme al procedimiento que se establezca reglamentariamente.
+
+### Artículo 27
+
+Artículo 27. Seguimiento y control del proceso de implantación de medios electrónicos.
+Para garantizar la efectividad de los principios y el respeto de los derechos de los ciudadanos reconocidos en las normas básicas sobre acceso electrónico de los ciudadanos a los servicios públicos y en la normativa autonómica de desarrollo, las consejerías que ostenten las competencias en materia de inspección y calidad de los servicios y en materia informática ejecutarán de manera coordinada medidas de seguimiento y control del funcionamiento de la Administración electrónica. A estos efectos, se emitirá un informe de evaluación anual sobre dichas medidas.
+
+### Artículo 28
+
+Artículo 28. Evaluación del impacto en el uso de medios electrónicos.
+La Administración regional evaluará anualmente el impacto del uso de los medios electrónicos en la actuación administrativa, realizando auditorías internas de los sistemas de información y de los procedimientos administrativos que se tramitan por medios electrónicos.
+
+## TÍTULO V
+
+Gestión pública, evaluación de las políticas públicas y de la calidad de los servicios
+
+### Artículo 29
+
+Artículo 29. La gestión pública de la Administración regional.
+1. La gestión pública de la Administración regional se regirá por los principios generales establecidos en el título I, el resto de principios proclamados por el ordenamiento jurídico y por un modelo basado en la evaluación de las políticas públicas, la orientación a resultados y la gestión de la excelencia o calidad total.
+2. La implantación de este modelo de gestión supondrá que la Administración pública regional ajuste su política y estrategia a las necesidades de los ciudadanos y al interés público.
+3. Las políticas públicas de la Administración regional se desarrollarán mediante la oportuna planificación estratégica en la que a través de planes y programas se definirán los objetivos estratégicos y las líneas de actuación concretas derivadas de aquellos. En este sentido, los principios que rigen la gestión pública de la Administración regional, y para una correcta evaluación de resultados, serán objeto de medición a través de indicadores, entre otros, de eficacia, eficiencia y calidad.
+
+### Artículo 30
+
+Artículo 30. Sistema de evaluación de la gestión pública de la Administración regional.
+1. La Administración pública regional impulsará una cultura de responsabilidad y control de la acción pública, estableciendo para ello las medidas necesarias para el desarrollo e implantación de un sistema de evaluación que, como instrumento de buen gobierno, de mejora continua de las políticas públicas y de los servicios prestados a los ciudadanos, incorporará las medidas que permitan analizar los siguientes extremos:
+a) La consecución de los resultados previstos y de los impactos de las políticas públicas, así como de los planes y programas que desarrollen y ejecuten las mismas.
+b) La calidad de los servicios prestados por los distintos órganos de la Administración regional.
+c) Comprobar el grado de aplicación, entre otros, de los principios generales que rigen las políticas públicas y actividad de la Administración regional.
+2. El sistema de evaluación de la gestión pública que conforma tanto las políticas públicas como la calidad de los servicios públicos tendrá como objetivos:
+a) Fomentar el uso racional de los recursos públicos y de los principios de buena gestión económica financiera.
+b) Desarrollar sistemas de información que faciliten la evaluación de las políticas y programas públicos.
+c) Implantar indicadores de gestión en la Administración regional que permitan conocer el impacto de una determinada política pública.
+d) Promover la calidad y la mejora continua de los servicios públicos mediante el compromiso con la excelencia mediante la utilización de modelos de evaluación de la calidad total en la Administración pública.
+e) Reforzar la cultura de responsabilidad entre los gestores de los planes y programas públicos.
+3. El sistema de evaluación de la gestión pública se realizará mediante la aplicación de sistemas y métodos en los que participarán los ciudadanos, de acuerdo con el principio y el derecho de participación ciudadana reconocido en esta ley. El sistema de evaluación tendrá en cuenta, además de los extremos mencionados en el apartado 1, el grado de participación ciudadana en las políticas públicas.
+4. La evaluación de políticas públicas se realizará por la consejería competente en dicha materia.
+
+### Artículo 31
+
+Artículo 31. Evaluación de las políticas públicas: concepto y modalidades.
+1. Se entiende por evaluación de las políticas públicas el proceso integral de análisis de su conceptualización y diseño, de su proceso de ejecución, aplicación y seguimiento, así como de la valoración de los resultados e impactos conseguidos mediante dichas políticas.
+2. La evaluación de las políticas públicas, atendiendo al momento en que se lleve a cabo, podrá realizarse en la fase de planificación o programación, durante su ejecución o con posterioridad a la misma.
+3. La evaluación de las políticas públicas, atendiendo al contenido y a los elementos a evaluar, podrá ser:
+a) Evaluación conceptual o de diseño de las políticas públicas, que se centrará sobre los aspectos relacionados con los elementos que justifican la necesidad de la intervención pública y el diseño de las políticas. Perseguirá evaluar las necesidades y problemas que determinaron su puesta en marcha, así como constatar la existencia de objetivos claramente definidos y medibles.
+b) Evaluación del proceso de ejecución y seguimiento de las políticas públicas y del sistema de gestión utilizado en las mismas, que se realizará sobre los procedimientos y las actuaciones necesarias puestas en práctica por las distintas consejerías para su ejecución y gestión. Esta evaluación medirá la capacidad de los distintos órganos en relación con su ejecución y seguimiento, valorando el grado de implicación de los gestores y de la organización, así como los procedimientos de gestión y la dotación de recursos para llevarlas a cabo óptimamente.
+c) Evaluación de los resultados e impactos obtenidos, así como de la eficacia y eficiencia de las políticas públicas, que prestará especial atención a la consecución de los objetivos perseguidos con ellas, analizando los efectos sobre sus destinatarios y sobre la población en general, permitiendo conocer el coste de los objetivos conseguidos en parámetros de tiempo, recursos humanos, materiales y financieros.
+
+### Artículo 32
+
+Artículo 32. Evaluación de la calidad de los servicios públicos de la Administración regional: finalidad y concepto.
+1. La evaluación de calidad de los servicios públicos tiene como finalidad proporcionar a los poderes públicos información para la toma de decisiones y fomentar la transparencia mediante la información y difusión pública del nivel de calidad de los servicios ofrecidos a los ciudadanos, así como aumentar el grado de eficiencia en la labor administrativa incrementando la productividad mediante el uso óptimo y asignación adecuada de los recursos.
+2. La evaluación de la calidad de los servicios públicos comprende el análisis sistemático y continuado del servicio público prestado, considerando, tanto el análisis de la demanda, la detección de necesidades de los usuarios y los niveles de prestación de los servicios en relación con las expectativas de los ciudadanos, como la medición del grado de cumplimiento de los compromisos de calidad previamente establecidos en las cartas de servicios o en aquellos otros sistemas de calidad que se encuentren establecidos.
+3. La medición de la calidad de los servicios públicos requerirá la previa fijación de compromisos y de sus correspondientes indicadores, y se realizará sobre los siguientes elementos:
+a) Los recursos materiales y humanos utilizados para prestarlos.
+b) Los procedimientos administrativos y los procesos de prestación de los servicios públicos.
+c) Los resultados de la actividad del órgano evaluado en relación con los compromisos previamente asumidos y con las expectativas de los usuarios.
+4. La evaluación de la calidad se realizará mediante la aplicación de modelos de gestión de calidad reconocidos y comúnmente aceptados que permitan la comparación de los resultados entre los distintos órganos administrativos y el intercambio de experiencias. La consejería competente en materia de inspección y calidad de los servicios determinará los modelos de gestión de calidad a aplicar, sin perjuicio de otros que ya se vinieran utilizando.
+5. La evaluación se articulará en los siguientes niveles: autoevaluación y evaluación externa.
+a) La autoevaluación, como ejercicio regular realizado por los propios órganos y unidades administrativas que analizan sus procesos y resultados.
+b) La evaluación externa consistirá en contrastar los resultados de las autoevaluaciones anteriormente realizadas o en la realización de evaluaciones por la consejería competente en materia de inspección y calidad de los servicios, y por otros órganos administrativos sectoriales en materia de calidad, así como por organismos especializados en evaluación de calidad.
+
+### Artículo 33
+
+Artículo 33. Desarrollo de la evaluación de la calidad de los servicios.
+1. Para la realización de la autoevaluación, los órganos administrativos aplicarán el modelo de gestión de calidad más adecuado a su naturaleza y características de entre los indicados en el apartado quinto del artículo anterior. En función de los resultados de cada ejercicio periódico de autoevaluación, los órganos evaluados elaborarán sus planes o programas de mejora.
+La consejería competente en materia de inspección y calidad de los servicios coordinará el proceso de evaluación y analizará su evolución con la finalidad de que los resultados de las evaluaciones sean susceptibles de comparación y aprendizaje.
+2. La evaluación de la calidad de los servicios públicos permitirá a sus responsables identificar los puntos fuertes, corregir deficiencias, establecer o proponer las correspondientes acciones correctivas, y elaborar consecuentemente planes y programas de mejora, para orientar su actividad con criterios de mejora continua y calidad, con el fin último de conseguir la excelencia en la prestación de los servicios públicos.
+
+### Artículo 34
+
+Artículo 34. Reconocimiento de la calidad de los servicios y premios a la calidad.
+1. El reconocimiento a la excelencia consistirá en la certificación conforme a los modelos de gestión de calidad a los que se refiere el artículo 32.4.
+2. Con la finalidad de contribuir a la mejora de la calidad de los servicios públicos y a la innovación en la gestión pública se promoverán premios a la calidad, destinados a reconocer y galardonar oficialmente a los órganos o entidades que se hayan distinguido por la adopción de prácticas de calidad e innovación. Los premios tendrán las características, modalidades, contenido y efectos que se determinen reglamentariamente.
+
+### Artículo 35
+
+Artículo 35. Observatorio de la Calidad de los Servicios.
+1. Dependiente de la consejería competente en materia de inspección y calidad de los servicios se crea el Observatorio de la Calidad de los Servicios, como órgano colegiado de la Administración regional, con el fin de desarrollar y extender métodos y prácticas relacionados con la simplificación, normalización, agilización de procesos y procedimientos y promoción de la excelencia, así como servir de plataforma de análisis periódico de la percepción ciudadana sobre los servicios públicos y de difusión de información global a los ciudadanos sobre la calidad en la prestación de los servicios. El ejercicio de sus funciones se realizará con medios propios de la Administración regional.
+2. El Observatorio de la Calidad de los Servicios tendrá, entre otras funciones, las siguientes:
+a) Impulsar una cultura de evaluación de calidad de los servicios públicos.
+b) Orientar sobre la mejora de la calidad de los servicios públicos.
+c) Facilitar y potenciar la participación ciudadana en torno a la mejora de la calidad de los servicios públicos.
+d) Informar periódicamente sobre el nivel de calidad con el que se prestan los servicios públicos así como difundir dicha información.
+3. El titular de la consejería competente en materia de inspección y calidad de los servicios designará mediante orden la composición, funcionamiento y funciones del Observatorio de la Calidad de los Servicios.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Guía metodológica de la memoria de análisis de impacto normativo.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Adecuación del sentido del silencio administrativo.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Implantación de la figura de declaración responsable y comunicación previa.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Interoperabilidad.
+Al objeto de favorecer la compatibilidad e interoperabilidad de los sistemas y aplicaciones empleados en la Administración pública de la Comunidad Autónoma de la Región de Murcia, la puesta en funcionamiento de nuevas aplicaciones y sistemas irá acompañada de informe técnico preceptivo y favorable del órgano directivo competente en materia de informática, que reflejará el grado de interoperabilidad que presentan con los servicios informáticos corporativos de la Administración regional y su adaptación a los requisitos técnicos establecidos por la Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos y normativa de desarrollo.
+Dicho informe se remitirá, con carácter previo a su puesta en funcionamiento, al órgano directivo competente en materia de inspección y calidad de los servicios.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Especificidades en materia de contratación y en el ámbito tributario.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Proyectos de ley y disposiciones administrativas de carácter general en tramitación.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Proyectos declarados de interés estratégico.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.b) del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+1. Queda derogado el título III de la Ley 7/2011, de 26 de diciembre, de Medidas Fiscales y de Fomento Económico en la Región de Murcia.
+2. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 6/2004, de 28 de diciembre, del Estatuto del Presidente y del Consejo de Gobierno de la Región de Murcia.
+Se modifican los artículos de la Ley 6/2004, de 28 de diciembre, del Estatuto del Presidente y del Consejo de Gobierno de la Región de Murcia, que a continuación se señalan:
+Uno. Se modifica el apartado 3 del artículo 46, que queda redactado en los siguientes términos:
+«3. El anteproyecto que se elabore irá acompañado por una memoria de análisis de impacto normativo, que incluirá en un único documento el siguiente contenido:
+a) Una justificación de su oportunidad que incluya la motivación técnica y jurídica de la norma a aprobar, en especial de las novedades que se introducirán en el ordenamiento, con el grado de detalle suficiente que requiera el caso, así como de los estudios o informes que se estimen precisos para justificar su necesidad. La adecuación de la norma a los principios de proporcionalidad, seguridad jurídica, transparencia, accesibilidad, simplicidad y eficacia, así como la justificación de la competencia de la Comunidad Autónoma para su aprobación.
+b) Un estudio que valore el impacto de la nueva regulación en las cargas administrativas que soportan los ciudadanos y empresas.
+c) Una relación de las disposiciones cuya vigencia resulte afectada por la norma proyectada.
+d) Un informe de impacto presupuestario que evalúe la repercusión de la futura disposición en los recursos personales y materiales y en los presupuestos de la Administración.
+e) Un informe de impacto económico que evalúe los costes y los beneficios que la aprobación de la futura disposición implicará para sus destinatarios y para la realidad social y económica.
+f) Un informe sobre el impacto por razón de género de las medidas que se establecen en el mismo.
+g) Cualquier otro extremo que pudiera ser relevante a criterio del órgano proponente, prestando especial atención a los impactos de carácter social y medioambiental y al impacto en materia de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad.»
+Dos. Se modifica el apartado 1 del artículo 53, cuya redacción pasa a ser la siguiente:
+«1. La iniciación del procedimiento se llevará a cabo, a través de la oportuna propuesta dirigida al consejero, por el órgano directivo de su departamento competente por razón de la materia, mediante la elaboración del correspondiente anteproyecto, al que se acompañarán la exposición de motivos y una memoria de análisis de impacto normativo que incluirá en un único documento el contenido establecido en el apartado tercero del artículo 46.»
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación de la Ley 4/2009, de 14 de mayo, de Protección Ambiental Integrada.
+Se modifican los artículos de la Ley 4/2009, de 14 de mayo, de Protección Ambiental Integrada, que a continuación se señalan:
+Uno. Se modifica el apartado cuatro del artículo 22, que queda redactado en los siguientes términos:
+«4. Cuando el titular de la instalación considere que la modificación que se comunica no es sustancial, podrá llevarla a cabo siempre que el órgano competente para otorgar la autorización ambiental autonómica, previa comunicación al ayuntamiento, no manifieste lo contrario en el plazo de un mes.
+En el caso de que el ayuntamiento considere que a consecuencia de la comunicación debe modificarse de oficio la licencia de actividad, se seguirá el procedimiento regulado en el artículo 75 de esta ley.»
+Dos. Se modifica el artículo 31, que queda redactado en los siguientes términos:
+«Artículo 31. Solicitud de autorización ambiental integrada.
+1. La solicitud de la autorización ambiental integrada se acompañará, al menos, de la siguiente documentación o información:
+a) Proyecto básico suscrito por técnico competente que incluya, al menos, los aspectos a que se refiere la legislación básica estatal en materia de autorización ambiental integrada.
+b) Proyecto técnico de la instalación, suscrito por técnico competente.
+c) Cédula de compatibilidad urbanística, emitida por el ayuntamiento en cuyo territorio se ubique la instalación.
+d) En su caso, la documentación exigida por la legislación de aguas para la autorización de vertidos a las aguas continentales y por la legislación de costas para la autorización de vertidos desde tierra al mar.
+En caso de vertidos a las aguas continentales, se hará constar expresamente si la documentación correspondiente fue ya remitida por el órgano ambiental al organismo de cuenca, a efectos de subsanación. Si el organismo de cuenca detectó deficiencias u omisiones de documentación, la documentación presentada pondrá de manifiesto las modificaciones introducidas para subsanarla o completarla.
+e) La determinación de los datos que, a juicio del solicitante, gocen de confidencialidad de acuerdo con las disposiciones vigentes.
+f) Cualquier otra documentación acreditativa del cumplimiento de requisitos establecidos en la legislación sectorial aplicable incluida, en su caso, la referida a fianzas o seguros obligatorios que sean exigibles de conformidad con la referida legislación sectorial.
+g) La documentación exigida, en su caso, por la normativa autonómica en relación con los vertidos de aguas residuales industriales a la red de saneamiento.
+h) Las informaciones que la normativa de protección del medio ambiente frente al ruido exige a los proyectos de actividades.
+i) En el supuesto de actividades incluidas en el ámbito de aplicación del Real Decreto 9/2005, de 14 de enero, por el que se establece la relación de actividades potencialmente contaminantes del suelo y los criterios y estándares para la declaración de suelos contaminados, los informes a que se refiere el artículo 3 del citado Real Decreto.
+j) El estudio de impacto ambiental, cuando la actividad esté sometida a evaluación ambiental de proyectos.
+2. La solicitud de autorización ambiental integrada se presentará, junto con la solicitud de autorización sustantiva por razón de la materia, ante el órgano autonómico competente para otorgar la autorización sustantiva. Si el proyecto no estuviese sometido a autorización sustantiva autonómica por razón de la materia, la solicitud y demás documentación se presentará directamente al órgano competente para otorgar la autorización ambiental integrada.
+3. La documentación presentada deberá estar organizada de manera que resulte fácilmente separable la relativa a las competencias locales, la relativa al vertido que en su caso se proyecte realizar a las aguas continentales y la que se refiera a cada una de las autorizaciones que en cada caso se integren en la autorización ambiental integrada.
+En el caso de vertidos a las aguas continentales, el órgano ante el que se presente la solicitud remitirá la documentación correspondiente al organismo de cuenca, a efectos de subsanación, salvo que dicha remisión hubiera sido previamente realizada por el órgano ambiental en el trámite de determinación de la amplitud y nivel de detalle del estudio de impacto ambiental.»
+Tres. Se modifica el apartado 1 del artículo 45, que queda redactado en los siguientes términos:
+«1. Se someten a autorización ambiental única la instalación, montaje, explotación o traslado, así como la modificación sustancial de las actividades e instalaciones, de titularidad pública o privada, no sometidas a autorización ambiental integrada, que se relacionan en el anexo I.
+Los proyectos sometidos a evaluación ambiental que no estén a su vez sujetos a ninguna de las autorizaciones incluidas en el anexo I no se sujetarán a autorización ambiental única, sino que la evaluación ambiental del proyecto se integrará en el procedimiento de autorización por razón de la materia que corresponda.»
+Cuatro. Se modifica el artículo 49, que queda redactado en los siguientes términos:
+«Artículo 49. Solicitud de autorización ambiental única.
+1. La solicitud de la autorización ambiental única deberá dirigirse al órgano competente, acompañándose de la documentación siguiente:
+a) Proyecto técnico de la instalación, suscrito por técnico competente.
+b) Cédula de compatibilidad urbanística, emitida por el ayuntamiento en cuyo territorio se ubique la instalación.
+c) Un ejemplar del estudio de impacto ambiental o, si este no resulta exigible, una memoria ambiental que incorpore una descripción de la actividad y analice su incidencia en el medio ambiente y la seguridad y salud de las personas, así como las medidas correctoras y preventivas, en su caso, y el programa de vigilancia ambiental que se proponga, debiendo justificar expresamente el cumplimiento de la normativa ambiental vigente. El documento ambiental, que sirve al órgano ambiental para pronunciarse sobre el sometimiento a evaluación ambiental caso por caso, puede, si es completo, hacer las veces de memoria ambiental.
+d) Documentación exigida por la normativa aplicable para la obtención de la licencia de actividad, incluida la relativa a los vertidos de aguas residuales industriales a la red de saneamiento.
+e) Documentación relativa a aquellas autorizaciones y pronunciamientos que en cada caso se integren en la autorización ambiental única.
+f) Las informaciones que la normativa de protección del medio ambiente frente al ruido exige a los proyectos de actividades.
+g) En el supuesto de actividades incluidas en el ámbito de aplicación del Real Decreto 9/2005, de 14 de enero, por el que se establece la relación de actividades potencialmente contaminantes del suelo y los criterios y estándares para la declaración de suelos contaminados, los informes a que se refiere el artículo 3 del citado Real Decreto.
+2. La documentación presentada deberá estar organizada de manera que resulte fácilmente separable la relativa a las competencias locales y la que se refiera a cada una de las autorizaciones que en cada caso se integren en la autorización ambiental única.»
+Cinco. Se modifica la letra c) del apartado dos del artículo 81, que queda redactado en los siguientes términos:
+«c. Un informe de la entidad de control ambiental que acredite el cumplimiento de las condiciones ambientales impuestas en la licencia de actividad, cuando así se exija en la licencia.»
+Seis. Se modifica el párrafo primero de la letra a) del apartado dos del artículo 88, que queda redactado en los siguientes términos:
+«a. Cuando el proyecto esté sometido a autorización o aprobación del órgano autonómico competente por razón de la materia, será este el que tenga la condición de órgano sustantivo a efectos de evaluación ambiental de proyectos.»
+Siete. Se modifica el anexo I, que queda redactado en los siguientes términos:
+«ANEXO I
+Instalaciones y actividades sujetas a autorización ambiental única
+Quedan sujetas a autorización ambiental única las actividades e instalaciones que, estando sometidas a licencia municipal de actividad, se encuentren comprendidas en alguno o algunos de los supuestos siguientes:
+1. Las instalaciones que realicen vertidos desde tierra al mar, sometidos a autorización de la Comunidad Autónoma de la Región de Murcia, regulada por la Ley 22/1988, de 28 de julio, de Costas.
+2. Las instalaciones de tratamiento de residuos, incluido el almacenamiento en el ámbito de la recogida en espera de tratamiento, así como la ampliación, modificación sustancial o traslado de dicha instalación, sometidas a autorización por el artículo 27.1 de la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados.
+3. Las instalaciones en las que se desarrollen alguna de las actividades incluidas en el catálogo de actividades potencialmente contaminadoras de la atmósfera, recogido en el anexo IV de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, y que figuran en dicho anexo como pertenecientes a los grupos A y B.
+4. Las actividades cuya instalación ocupe terrenos pertenecientes a más de un término municipal.»
+Ocho. Se modifican los siguientes apartados del anexo III:
+1. Se modifica el apartado g) del grupo 9 del anexo III A, que queda redactado del siguiente modo:
+«*g. Cualquier modificación o ampliación de proyectos que figuran en el apartado A de este anexo, ya autorizados, ejecutados o en proceso de ejecución (modificación o ampliación no recogida en este apartado A) que puedan tener efectos adversos significativos sobre el medio ambiente por suponer un incremento de más del 50% de emisiones a la atmósfera, de vertidos a cauces públicos o al litoral, de generación de residuos, de utilización de recursos naturales o de afección a áreas de especial protección designadas en aplicación de las directivas 79/409/CEE del Consejo, de 2 de abril de 1979, y 92/43/CEE del Consejo, de 2 de abril de 1979, y 92/43/CEE del Consejo, de 21 de mayo de 1992, o a humedales incluidos en la lista del Convenio Ramsar.»
+2. Se modifica el apartado h) del grupo 4 del anexo III B, que queda redactado del siguiente modo:
+«*h. Instalaciones industriales para la producción de electricidad, vapor y agua caliente con potencia térmica superior a 20MW.»
+3. Se modifica el apartado c) del grupo 6 del anexo III B, que queda redactado del siguiente modo:
+«c. Instalaciones industriales de almacenamiento de productos petroquímicos y químicos (proyectos no incluidos en el apartado A).»
+Nueve. Se suprime la letra c) del apartado 3 del anexo IV.
+Diez. Se modifica el apartado 5 del anexo IV, que queda redactado del siguiente modo:
+«Para los planes especiales que afecten al suelo no urbanizable protegido, así como para el resto de instrumentos de planeamiento urbanístico que no queden sometidos o excluidos de evaluación ambiental de planes y programas según las reglas anteriores, será el órgano ambiental quien determine si han de ser objeto de evaluación de planes y programas, de la forma establecida en esta ley.»
+
+### Disposición final tercera
+
+Disposición final tercera. Vigencia de normas reglamentarias.
+Quedan vigentes aquellas normas reglamentarias preexistentes en la materia objeto de esta ley en cuanto no se opongan a lo dispuesto en la misma.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Habilitación para el desarrollo de la presente ley.
+Se autoriza al Consejo de Gobierno para dictar las medidas necesarias para la aplicación, desarrollo y ejecución de esta ley.
+
+### Disposición final quinta
+
+Disposición final quinta. Entrada en vigor.
+Esta ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Región de Murcia».
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Murcia, 21 de marzo de 2014.–El Presidente, Ramón Luis Valcárcel Siso.
+(Publicada en el «Boletín Oficial de la Región de Murcia» número 71, de 27 de marzo de 2014)

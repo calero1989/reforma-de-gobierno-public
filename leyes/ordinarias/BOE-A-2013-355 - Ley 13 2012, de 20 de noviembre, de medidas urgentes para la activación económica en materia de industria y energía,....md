@@ -1,0 +1,372 @@
+# Ley 13/2012, de 20 de noviembre, de medidas urgentes para la activación económica en materia de industria y energía, nuevas tecnologías, residuos, aguas, otras actividades y medidas tributarias.
+
+- Identificador BOE: `BOE-A-2013-355`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2013-355
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 48.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente ley.
+PREÁMBULO
+I
+La situación de crisis económica actual y el número de personas sin trabajo que engrosan las listas del paro requieren que, de manera urgente, se aprueben una serie de normas para aplicar uniformemente en todo el territorio que ayuden y fomenten la actividad económica en el ámbito de la comunidad autónoma.
+La destrucción de empleo es notoria. La cifra de personas en paro del cuarto trimestre de 2011 en las Illes Balears llega a 146.500, lo cual representa un aumento del 13,95  % en relación con la del cuarto trimestre de 2010 y del 33,7 % sobre la del tercer trimestre de 2011, si bien este último dato se debe a los efectos de la estacionalidad. De esta manera, la tasa de paro del cuarto trimestre de 2011 se sitúa en el 25,2 %, tres puntos porcentuales por encima de la del mismo período de 2010 (22,2 %) y por encima de la tasa nacional (22,90 %). Aunque durante el primer trimestre de 2012 la tendencia de las cifras de paro ha sido descendiente, desde una perspectiva anual crece el 9,07 %.
+Por otro lado, los datos de paro por sectores se mantienen desde el año 2009 con muy pocas variaciones en la agricultura, actividad en que se pasa de 600 personas en paro el mes de abril de 2009 a 1.000 durante el mismo mes de 2011; la industria, sector en el que hay 300 personas más en paro en el mismo período; o la construcción, con una reducción del desempleo de 300 personas durante el mismo período. Contrariamente, el número de personas en paro en el sector de los servicios experimenta un fuerte aumento, y pasa de 48.400 en abril de 2009 a 57.100 en abril de 2011.
+Por lo que respecta a la evolución del total de empresas en las Illes Balears, también ha sido negativa. Así, mientras que el año 2009 se computaban 91.826 empresas, el año 2011 había 87.461; es decir, una reducción del 4,75 %. Además, prácticamente el 50 % de empresas correspondía a personas físicas: 45.820 el año 2009, que pasaron a 43.371 el año 2011, con una disminución del 5,34 %.
+Las cifras de paro indicadas y la destrucción de tejido empresarial ponen de manifiesto la gravedad de la situación económica y la necesidad de adoptar medidas de carácter extraordinario y urgente que faciliten de manera inmediata la creación de empresas y, consiguientemente, la generación de empleo.
+En este sentido, y ante el convencimiento de que es la sociedad civil la que debe llevar la iniciativa en la innovación, la implantación de empresas, el aumento de riqueza y la creación de puestos de trabajo, es obligado colaborar en ello creando el marco adecuado para ello con la aprobación de normas que, por una parte, reduzcan la burocracia administrativa de manera importante y, por otra, eliminen requisitos y exigencias en la tramitación de los expedientes administrativos, la cual ha ido incrementándose sin ninguna necesidad con el paso de los años. Esto no debe implicar que se pierdan garantías, una parte de las cuales se mantienen con procedimientos más ágiles que los actuales.
+La sociedad balear es una sociedad de creadores y emprendedores, tal y como acredita nuestra propia historia. En las Illes Balears, a pesar de los problemas que representan tanto la insularidad como la doble insularidad en las islas menores, se ha sabido crear un gran número de industrias y actividades que han elaborado a lo largo de nuestra historia productos de mucha calidad: calzado, bisutería, muebles, moda, vino, queso, etc. Estos emprendedores necesitan unos poderes públicos que den apoyo a estas actividades reduciendo los procedimientos administrativos necesarios y eliminando determinadas trabas administrativas que lo único que hacen es dificultar el nacimiento de estos emprendedores. El emprendedor debe encontrar las puertas abiertas y el camino libre para poder crear sus empresas, desarrollar sus actividades, fabricar nuevos productos y, sobre todo, crear nuevos puestos de trabajo, con la finalidad de superar la coyuntura económica de crisis actual.
+Así, la posibilidad de declaración de utilidad pública de energías renovables y las medidas de ahorro de energía que se prevén en el capítulo II se dirigen a conseguir la eficiencia energética en los sectores primario, industrial, residencial y terciario, además de posibilitar la implantación de energías renovables y autóctonas, facilitando la construcción de las infraestructuras necesarias para proveer la demanda energética y hacerlo con la calidad necesaria.
+Y con la posibilidad de considerar, de acuerdo con el capítulo III de esta ley, y en el marco del inciso final del artículo 24.2 de la Ley 6/1997, de 8 de julio, del suelo rústico de las Illes Balears, que la aprobación de los proyectos de implantación de las instalaciones de telecomunicaciones por parte del órgano competente de la administración autonómica determina, en los casos en que la implantación deba tener lugar en suelo rústico, que no sea necesaria la declaración de interés general a que se refiere la citada ley, se pretende favorecer la instalación y la explotación de redes de comunicaciones electrónicas y dar cobertura a todo el territorio autonómico.
+II
+Efectivamente, y por lo que respecta a la materia de industria y energía, se consideran la energía y las nuevas fuentes energéticas materias de gran interés, lo cual está motivado por el cumplimiento de los criterios que emanan de la Unión Europea. En concreto, en los objetivos para el 2020 se establece la necesidad de alcanzar las siguientes cuotas: promover las energías renovables hasta el 20 %, reducir las emisiones de gases de efecto invernadero en un 20 % y ahorrar el 20 % del consumo de energía con más eficiencia energética. Además, la creación de nuevas industrias sobre la base de las nuevas fuentes de energía puede llevar como consecuencia la diversificación de la actividad económica balear y la creación de nuevos puestos de trabajo en estos sectores.
+Por este motivo, y para poder cumplir los objetivos mencionados, se establece un método sencillo mediante la declaración de utilidad pública, siempre desde el punto de vista autonómico, y se mantiene la capacidad de intervención de los consejos insulares y de los ayuntamientos en el procedimiento establecido.
+Por otra parte, la biomasa, tanto la de origen agrícola como la de origen forestal, se ha convertido en una energía que ha de potenciarse, a partir de dos parámetros fundamentales: la protección medioambiental motivada por el uso de un combustible de emisión cero de dióxido de carbono y la protección contra incendios de los bosques, para facilitar las operaciones de limpieza y aprovechar su resultado.
+En este sentido, se considera que los proyectos energéticos, de indudable interés social y utilidad pública, tienen una dimensión supramunicipal, dado que las infraestructuras y las dotaciones que se requieren para la implantación de estos proyectos necesitan asentarse sobre más de un término municipal o, asentándose en un mismo término municipal, tienen una incidencia que trasciende el ámbito municipal por su magnitud, importancia o características especiales. Además, uno de los pilares del futuro económico son las energías renovables, lo que ha de permitir también llegar al cumplimiento de los objetivos de emisiones.
+Por lo que se refiere a la materia de nuevas tecnologías, es cierto que la investigación, el desarrollo y la innovación son ya el presente y el futuro de nuestra sociedad. Son indispensables en la modernización y el mantenimiento de la industria actual, como también en la creación de nuevas industrias. La simplificación y la mejora de los procedimientos administrativos deben ser una aspiración continua de las administraciones públicas, que están obligadas a proporcionar un servicio más ágil a la ciudadanía.
+Por ello, la implantación de las nuevas tecnologías en la red empresarial balear no puede demorarse en el tiempo, ya que es necesaria para conseguir que nuestras empresas sean más competitivas, tanto en el ámbito nacional como en el internacional.
+Resumiendo, el futuro económico incluye dos pilares fundamentales: por una parte, la implantación de las nuevas tecnologías de la información, que implica facilitar las instalaciones de telecomunicaciones, y, por otra, la implantación de las energías renovables para llegar al cumplimiento de los objetivos de emisiones.
+III
+En el capítulo IV, relativo a actividades, se simplifican los procedimientos administrativos para impulsar y facilitar la actividad privada, en especial la implantación de nuevas empresas, y se reserva la necesidad del permiso de instalación únicamente para las actividades permanentes mayores, las cuales, asimismo, se delimitan nuevamente, así como las actividades permanentes menores y las inocuas, cuyo ejercicio únicamente requiere la presentación de una declaración responsable, todo ello en concordancia, además, con lo dispuesto en el reciente Real Decreto Ley 19/2012, de 25 de mayo, de medidas urgentes de liberalización del comercio y de determinados servicios.
+Asimismo, en este capítulo IV se establecen algunas medidas que emanan de las aportaciones a las reglamentaciones del Estado y autonómicas que ha efectuado la Unión Europea, en concreto en todo lo referente a soluciones alternativas.
+En el capítulo V se establecen unas medidas relativas al tratamiento de residuos, orientadas a dar una solución a los restos de origen animal y residuos sanitarios del grupo II, que pueden tratarse en las plantas de residuos sólidos urbanos actualmente existentes en la isla de Mallorca, aplicando un precio reducido y sin necesidad de importantes inversiones en las plantas existentes; al establecimiento de una tarifa específica para el tratamiento de los lodos procedentes de las estaciones depuradoras de aguas residuales; a la posibilidad de que la comunidad autónoma autorice al gestor del servicio público insular de tratamiento de residuos a importar combustible derivado de residuos, con el fin de optimizar las plantas existentes, como también el establecimiento de una fianza única en materia de residuos de construcción y demolición, la exención de constituir determinadas garantías en materia de residuos y autorizaciones ambientales integradas, la bonificación a las entidades locales de la tasa de recogida de transporte y tratamiento de residuos de construcción y demolición, la posibilidad de utilización de las escorias tratadas procedentes de las plantas de incineración de residuos sólidos urbanos y el pago de una tarifa específica para el tratamiento de la fracción orgánica de residuo municipal (FORM).
+Finalmente, en el capítulo VI se establece una disposición relativa al otorgamiento de concesiones de aguas subterráneas para usos agrícolas y ganaderos a las unidades hidrológicas clasificadas, con la posibilidad de otorgar un máximo de 4 hm3 a determinadas explotaciones agrícolas, proyectos de nuevas inversiones y regularización de instalaciones agrícolas y ganaderas existentes que no dispongan de aguas suficientes para su actividad. Esta posibilidad se justifica en que los niveles de las reservas hídricas en las Illes Balears se mantienen estabilizados desde hace una década, en los mismos informes de organismos públicos y en la disminución de la superficie agrícola de regadío y de las explotaciones ganaderas en los últimos diez años.
+La norma se completa con cinco disposiciones adicionales, relativas, respectivamente, a la tramitación de informes preceptivos entre varias administraciones, a una declaración de utilidad pública a efectos de expropiación forzosa, a la declaración responsable o comunicación previa en determinadas obras, al uso del masculino genérico en las denominaciones y a la presentación de un proyecto de ley de energía; una transitoria, para los expedientes en tramitación que resulten afectados por las nuevas normas que se contienen en la ley; una derogatoria y diez finales, por las que se fija la entrada en vigor de la norma, y se modifican puntualmente la Ley 6/2010, de 17 de junio, por la que se adoptan medidas urgentes para la reducción del déficit público; la Ley 12/2010, de 12 de noviembre, de modificación de diversas leyes para la trasposición a las Illes Balears de la Directiva 2006/123/CE, de 12 de diciembre, del Parlamento Europeo y del Consejo, relativa a los servicios en el mercado interior; la Ley 1/2007, de 16 de marzo, contra la contaminación acústica de las Illes Balears; la Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividad de las Illes Balears; la Ley 11/2006, de 14 de septiembre, de evaluaciones de impacto ambiental y evaluaciones ambientales estratégicas en las Illes Balears; la Ley 5/2003, de 4 de abril, de salud de las Illes Balears; la Ley 11/2001, de 15 de junio, de ordenación de la actividad comercial en las Illes Balears; y la Ley 2/1993, de 30 de marzo, de creación del Parque Balear de Innovación Tecnológica.
+
+## CAPÍTULO I
+
+Objeto
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto establecer diversas medidas normativas urgentes en materia de industria y energía, nuevas tecnologías, residuos y aguas y otras actividades.
+
+## CAPÍTULO II
+
+Industria y energía
+
+### Artículo 2
+
+Artículo 2. Utilidad pública.
+1. Las instalaciones de generación, transporte y distribución de energía eléctrica y las infraestructuras eléctricas de las estaciones de recarga de vehículos eléctricos de potencia superior a 250 kW son declaradas de utilidad pública de acuerdo con lo establecido en el artículo 54 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, a efectos de la expropiación forzosa de los bienes y derechos necesarios para su establecimiento y de la imposición y el ejercicio de la servidumbre.
+2. Sin perjuicio de la legislación básica sectorial, pueden ser declaradas de utilidad pública, según su interés público y energético, las instalaciones de aprovechamiento térmico de la energía solar y/o de la biomasa, las redes de distribución de frío y/o calor, el aprovechamiento de la energía geotérmica y las de almacenamiento no eléctrico por el órgano competente en materia de energía, a efectos de la declaración de interés general en los términos previstos en el apartado 2 del artículo 24 de la Ley 6/1997, de 8 de julio, del Suelo Rústico de las Illes Balears, sin que, en caso de inversiones en materia de energías renovables, sea aplicable la prestación compensatoria por usos y aprovechamientos excepcionales, que recoge el artículo 17 de la mencionada Ley.
+3. Las instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables (energía eólica, solar o hidráulica, biomasa, energía procedente del mar u otras similares), según su interés energético o de aprovechamiento de espacios degradados, podrán solicitar a la dirección general competente en materia de energía el reconocimiento de la utilidad pública a efectos de la declaración de interés general en los términos previstos en el apartado 2 del artículo 24 de la Ley 6/1997, de 8 de julio, del Suelo Rústico de las Illes Balears, sin que, en caso de inversiones en materia de energías renovables, sea aplicable la prestación compensatoria por usos y aprovechamientos excepcionales, recogida en el artículo 17 de la mencionada Ley.
+4. Las instalaciones de transporte y distribución de energía eléctrica pueden solicitar a la dirección general competente en materia de energía el reconocimiento de la utilidad pública a efectos de la declaración de interés general a que se refiere el apartado 2 del artículo 24 de la Ley 6/1997, de 8 de julio, del suelo rústico de las Illes Balears. En estos casos no se puede exigir la prestación compensatoria para usos y aprovechamientos excepcionales a que se refiere el artículo 17 de la ley mencionada.
+Lo que se establece en el párrafo anterior es aplicable igualmente a las infraestructuras eléctricas de las estaciones de recarga de vehículos eléctricos de potencia superior a 250 kW, e igual o superior a 50 kW en la isla de Formentera. En estos casos no se puede exigir la prestación compensatoria mencionada.
+5. La declaración de utilidad pública o su reconocimiento tiene los mismos efectos que los que regulan los artículos 25, 26.5 y 26.6 del Plan Director Sectorial Energético de las Illes Balears, aprobado por el Decreto 96/2005, de 23 de septiembre, de aprobación definitiva de la revisión del Plan Director Sectorial Energético de las Illes Balears.
+Se modifica el apartado 4 por el art. 25.1 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se modifica el apartado 4 por el art. 24.1 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a2-6
+ Se modifica por la disposición final 4 del Decreto-ley 2/2023, de 6 de marzo. Ref. BOE-A-2023-13968
+ Se modifica el apartado 2 por la disposición final 3.1 del Decreto-ley 4/2022, de 30 de marzo de 2022. Ref. BOE-A-2022-9389#df-3
+ Se modifica el apartado 1 por la disposición final 15 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-15
+ Se modifica el apartado 1 por la disposición final 15 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-15
+
+### Artículo 3
+
+Artículo 3. Procedimiento para la declaración de utilidad pública, el reconocimiento de utilidad pública o la declaración de interés autonómico energético.
+1. El procedimiento para la declaración de utilidad pública o el reconocimiento de utilidad pública de las instalaciones mencionadas en el artículo anterior, así como para la declaración de interés autonómico energético, incluye los siguientes trámites:
+a) Presentación de la solicitud de declaración de utilidad pública, de reconocimiento de utilidad pública o de declaración de interés autonómico energético acompañada de la documentación técnica que se establezca por orden del consejero competente en materia de energía.
+b) Admisión a trámite y evaluación, si procede, de la solicitud de declaración de utilidad pública, de reconocimiento de utilidad pública o de declaración de interés autonómico energético por parte de la dirección general competente en materia de energía.
+c) En caso de admisión a trámite:
+1.º Trámite de información pública: consiste en la publicación en el “Butlletí Oficial de les Illes Balears” del anuncio relativo a la solicitud de autorización administrativa, utilidad pública, reconocimiento de utilidad pública o interés autonómico energético. Se publicará toda la información que consta en la solicitud del expediente en la página web de la dirección general competente en materia de energía. Esta información pública es suficiente a los efectos de los trámites de autorización administrativa previa o construcción.
+2.º Solicitud de informes a otras administraciones y, en todo caso, al consejo insular y a los ayuntamientos correspondientes sobre la conformidad o la oposición al proyecto, que emitirán el informe respectivo en un plazo máximo de treinta días, de manera que la falta de emisión del informe en este plazo se debe entender que implica la conformidad de la institución respectiva.
+3.º Comunicación a los titulares de bienes y derechos afectados, y otorgamiento de un plazo de un mes para formular alegaciones desde la recepción de la notificación correspondiente.
+4.º Resolución del director general competente en materia de energía.
+2. Todo aquello que no se define en este procedimiento se ajustará con carácter supletorio al procedimiento definido en la Ley 24/2013, de 26 de diciembre, del sector eléctrico; en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos; en la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas; y en la normativa legal en materia de impacto ambiental, si procede.»
+Se modifica por el art. 25.2 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se modifica por el art. 24.2 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a2-6
+ Se modifica por la disposición final 3.2 del Decreto-ley 4/2022, de 30 de marzo de 2022. Ref. BOE-A-2022-9389#df-3
+
+### Artículo 4
+
+Artículo 4. Integración de la producción de energía renovable en el medio rural.
+(Derogado).
+Se deroga por la disposición derogatoria única.2.b) de la Ley 3/2019, de 31 de enero. Ref. BOE-A-2019-3911#dd
+
+### Artículo 5
+
+Artículo 5. Órgano competente en la gestión de la extracción y el tratamiento de la biomasa vegetal.
+(Derogado).
+Se deroga por la disposición derogatoria única.2.b) de la Ley 3/2019, de 31 de enero. Ref. BOE-A-2019-3911#dd
+
+### Artículo 6
+
+Artículo 6. Gestores de biomasa vegetal.
+(Derogado).
+Se deroga por la disposición derogatoria única.2.b) de la Ley 3/2019, de 31 de enero. Ref. BOE-A-2019-3911#dd
+
+### Artículo 7
+
+Artículo 7. Puntos de recogida y tratamiento de biomasa vegetal.
+(Derogado).
+Se deroga por la disposición derogatoria única.2.b) de la Ley 3/2019, de 31 de enero. Ref. BOE-A-2019-3911#dd
+
+### Artículo 8
+
+Artículo 8. Puntos de almacenamiento y transferencia de biomasa vegetal.
+(Derogado).
+Se deroga por la disposición derogatoria única.2.b) de la Ley 3/2019, de 31 de enero. Ref. BOE-A-2019-3911#dd
+
+## CAPÍTULO III
+
+Nuevas tecnologías
+
+### Artículo 9
+
+Artículo 9. Interés general.
+De acuerdo con lo que prevé el inciso final del artículo 24.2 de la Ley 6/1997, de 8 de julio, del suelo rústico de las Illes Balears, en relación con el artículo 24.1.f) de la misma ley, la aprobación de los proyectos de implantación a que se refiere el artículo 10 de esta ley, implica, en todo caso, la declaración de interés general, con independencia de que la infraestructura correspondiente esté prevista o no en los instrumentos de planeamiento general o en los instrumentos de ordenación territorial, incluidos el Plan Director Sectorial de Telecomunicaciones y los planes de desarrollo que puedan aprobarse.
+
+### Artículo 10
+
+Artículo 10. Construcción de nuevas instalaciones de telecomunicaciones.
+1. La instalación de redes radioeléctricas en cualquier tipo de suelo, así como la construcción de otras instalaciones de telecomunicaciones en suelo rústico, exige la aprobación previa del proyecto de implantación correspondiente por parte de la dirección general competente en materia de telecomunicaciones.
+Las personas interesadas deben presentar, junto con el proyecto de implantación, la documentación que prevé el Plan Director Sectorial de Telecomunicaciones, así como también el resto de la documentación técnica que, mediante una resolución, establezca el director general competente en materia de telecomunicaciones.
+2. En todo caso, las instalaciones y las construcciones de telecomunicaciones deben adaptarse al ambiente en el que deben ubicarse, de acuerdo con lo que prevé el artículo 10.2 del texto refundido de la Ley del suelo, aprobado por Real Decreto Legislativo 2/2008, de 20 de junio.
+
+## CAPÍTULO IV
+
+Actividades
+Se deroga por la disposición derogatoria única.d) de la Ley 7/2013, de 26 de noviembre. Ref. BOE-A-2014-655.
+
+### Arts. 11 a 16
+
+Arts. 11 a 16.
+(Derogados).
+Se derogan por la disposición derogatoria única.d) de la Ley 7/2013, de 26 de noviembre. Ref. BOE-A-2014-655.
+
+### Artículo 11
+
+Artículo 11. Soluciones alternativas.
+1. En la normativa de ámbito municipal o insular que haga referencia a instalaciones que sean necesarias para el desarrollo de una actividad, se deben tener en cuenta posibles soluciones técnicas alternativas de las que pueda prescribir la normativa vigente, cuando haya causas justificables que imposibilitan su aplicación.
+2. Los técnicos que redacten el proyecto o la documentación técnica y los directores de obra pueden adoptar, bajo su responsabilidad, soluciones técnicas alternativas siempre que estas soluciones se detallen exhaustivamente y se justifiquen en el proyecto o en la documentación técnica, con autorización expresa de la propiedad.
+3. El proyecto o la documentación técnica con la solución alternativa ha de presentarse en los términos que prescribe la Ley 12/2010, de 12 de noviembre, de modificación de varias leyes para la transposición en las Illes Balears de la Directiva 2006/123/CE, de 12 de diciembre, del Parlamento Europeo y del Consejo, relativa a los servicios en el mercado interior.
+
+### Artículo 12
+
+Artículo 12. Regularización de actividades existentes.
+1. Los titulares de actividades que no dispongan de la denominada anteriormente «licencia de actividad» y que acrediten el ejercicio de la actividad antes de la entrada en vigor de la Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividad de las Illes Balears, pueden regularizar su situación, en el plazo de dieciocho meses desde que entre en vigor la presente ley, mediante la presentación de la siguiente documentación:
+a) Declaración responsable del titular, de acuerdo con la Ley 12/2010, de 12 de noviembre, de modificación de varias leyes para la transposición en las Illes Balears de la Directiva 2006/123/CE, de 12 de diciembre, del Parlamento Europeo y del Consejo, relativa a los servicios en el mercado interior.
+b) Proyecto redactado por un técnico competente, que incluya el estado actual de las instalaciones e indique sus medidas de seguridad y salubridad, y las condiciones medioambientales.
+c) Certificado expedido por un técnico competente sobre el proyecto indicado en la letra b) anterior.
+d) Pago, en su caso, de la tasa municipal correspondiente.
+2. La presentación de esta documentación habilita al titular para ejercer la correspondiente actividad, el cual ha de garantizar que la actividad no vulnera el ordenamiento urbanístico ni el resto de normativa aplicable.
+3. Sin perjuicio de la regularización a que se refiere el apartado 1 de este artículo, las modificaciones de la actividad que tengan lugar con posterioridad a la entrada en vigor de la presente ley han de someterse a la normativa vigente en materia de actividades.
+
+### Artículo 13
+
+Artículo 13. Clasificación y tramitación de actividades.
+1. En cumplimiento del artículo 84 bis de la Ley 7/1985, de 2 de abril, reguladora de las bases de régimen local, solo es preceptiva la obtención previa del permiso de instalación para las actividades permanentes mayores, de acuerdo con el artículo 6 de la Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividad de las Illes Balears.
+2. El resto de actividades permanentes inocuas y menores, y las no permanentes de tipo temporal, para iniciar y ejercer su actividad únicamente deben presentar la declaración responsable correspondiente junto al resto de documentación, de acuerdo con la disposición transitoria primera de la Ley 12/2010, de 12 de noviembre, de modificación de varias leyes para la transposición en las Illes Balears de la Directiva 2006/123/CE, de 12 de diciembre, del Parlamento Europeo y del Consejo, relativa a los servicios en el mercado interior.
+Las actividades menores obligatoriamente deberán elaborar un proyecto técnico.
+
+### Artículo 14
+
+Artículo 14. Excepciones.
+En todo caso, se exceptúan de la necesidad de obtener el permiso de instalación y de presentar la declaración responsable para iniciar y ejercer la actividad, así como de la necesidad del seguro de responsabilidad civil a que se refiere el artículo 19 de la Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividad de las Illes Balears, los siguientes casos:
+a) Los aparcamientos vinculados a una única vivienda, sin perjuicio de aparcamientos comunitarios, y las instalaciones técnicas propiamente dichas no vinculadas a una actividad.
+b) Las actividades relacionadas con la finalidad o con la naturaleza de las fincas vinculadas a los usos a que se refiere el artículo 21 de la Ley 6/1997, de 8 de julio, del suelo rústico de las Illes Balears, a no ser que requieran de evaluación de impacto ambiental de acuerdo con la normativa aplicable.
+c) Las estancias turísticas en viviendas.
+
+### Artículo 15
+
+Artículo 15. Informe de uso y de idoneidad de la ubicación.
+Con carácter potestativo, el promotor o titular de la actividad o un técnico competente pueden solicitar al correspondiente ayuntamiento un informe sobre el uso y la idoneidad de la ubicación de la actividad de acuerdo con la normativa municipal y urbanística.
+Este informe, que el ayuntamiento ha de emitir con carácter preceptivo en un plazo máximo de dos meses, es vinculante para el ayuntamiento, a no ser que se haya suspendido el otorgamiento de licencias por la normativa urbanística aplicable, y tiene una validez de doce meses.
+
+### Artículo 16
+
+Artículo 16. Actividades con autorización previa de la administración autonómica o de otras administraciones.
+Todas las actividades que requieren una autorización global previa de la administración autonómica o del Estado, la cual se haya tramitado con una documentación técnica que incluya el objeto propio de un permiso de instalación, no necesitan obtener el permiso previo de instalación, dado que se considera otorgado presuntamente mediante la autorización global mencionada. Para el inicio y el ejercicio de la actividad es suficiente presentar la declaración responsable, de acuerdo con lo establecido en la disposición transitoria primera de la Ley 12/2010, de 12 de noviembre, de modificación de varias leyes para la transposición en las Illes Balears de la Directiva 2006/123/CE, de 12 de diciembre, del Parlamento Europeo y del Consejo, relativa a los servicios en el mercado interior.
+
+## CAPÍTULO V
+
+Tratamiento de residuos
+
+### Artículo 17
+
+Artículo 17. Desechos de origen animal y residuos sanitarios del grupo II.
+1. El tratamiento de los desechos de origen animal, categorías 1, 2 y 3 del Reglamento CE 1069/2009 del Parlamento Europeo y del Consejo de 21 de octubre de 2009, por el cual se establecen normas sanitarias aplicables a los subproductos animales y productos derivados no destinados al consumo humano, como también de los residuos sanitarios del grupo II (códigos 18.01 y 18.02, no peligrosos, de la lista europea de residuos) del Decreto 136/1996, de 5 de julio, puede realizarse en las plantas de tratamiento de residuos urbanos actualmente existentes en la isla de Mallorca si cumplen los requisitos establecidos en el Reglamento CE 1069/2009, de 21 de octubre, en el Reglamento UE 142/2011, de 25 de febrero, en la normativa estatal básica que les sea aplicable, y siempre que dispongan de las autorizaciones sectoriales concurrentes.
+2. Por otra parte, estos residuos se pueden tratar en las Illes Balears mediante eliminación en celdas específicas ubicadas en un vertedero autorizado, y siempre que este método de tratamiento se implemente según la normativa europea mencionada.
+3. Los residuos MER (códigos LER 02.02.03 y/o 02.02.99) deben tratarse en las plantas de tratamiento de residuos sólidos autorizadas, con el cumplimiento de la normativa europea en materia de SANDACH.
+4. En el caso de instalaciones públicas de tratamiento conjunto con otros tipos de residuos, el precio aplicable al tratamiento de los restos de animales muertos y de matadero que provienen del sector primario, incluyendo los MER, como también de la industria cárnica en general, debe ser específico y reducido, y debe aplicarse una bonificación de hasta el 70 % del precio general para los demás residuos.
+
+### Artículo 18
+
+Artículo 18. Lodos de estaciones depuradoras de aguas residuales.
+1. El tratamiento de los lodos procedentes de las estaciones depuradoras de aguas residuales previsto en el Plan director sectorial para la gestión de los residuos urbanos de Mallorca, que no se pueden rechazar, requiere el pago de una tarifa específica que debe abonar el productor y que debe ser previamente aprobada por el Consejo Insular de Mallorca.
+2. En el procedimiento de aprobación de esta tarifa específica se tiene que garantizar, en todo caso, la participación de los productores de los lodos, que son las entidades gestoras de las estaciones depuradoras de aguas residuales, y debe calcularse según los costes reales del tratamiento de los lodos, sin incluir otros conceptos.
+
+### Artículo 19
+
+Artículo 19. Traslado y tratamiento de combustible derivado de residuos que provienen de la Unión Europea.
+(Derogado).
+Se deroga por el art. 8 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+### Artículo 20
+
+Artículo 20. Fianza única en materia de residuos de construcción y demolición.
+1. Los productores de residuos de construcción y demolición vinculados al suministro de servicios energéticos, de comunicaciones, suministro y saneamiento de agua, que queden obligados a depositar una fianza por sus obras, pueden hacerlo mediante una fianza única anual.
+2. El cálculo de la fianza debe hacerse aplicando el 125 % del mayor de los valores siguientes:
+a) La previsión de costes para gestionar correctamente los residuos previstos en las obras del año siguiente, según el procedimiento establecido en el artículo anterior.
+b) Los costes de los residuos efectivamente tratados en las plantas de tratamiento debidamente autorizadas para las obras del año anterior.
+3. Para la constitución de la fianza única debe presentarse una declaración responsable formulada por el productor, en la cual debe figurar la estimación de residuos que se tienen que generar por tipologías durante el año natural siguiente. Esta declaración debe presentarse antes de finalizar el mes de octubre del año natural anterior en el departamento competente en materia de residuos del Consejo Insular de Mallorca. Una vez que la declaración haya recibido el informe favorable, debe procederse al ingreso de la fianza, mediante alguna de las formas previstas en el artículo anterior. Esta fianza debe estar constituida en todo caso antes del 1 de enero del año siguiente.
+4. La devolución de la fianza única requiere la presentación de la correspondiente solicitud por parte del productor, en la cual deben acreditarse las obras ejecutadas el año correspondiente y debe indicarse el número de licencia municipal y las toneladas de residuos generadas en cada una de las obras, el certificado del gestor autorizado de los residuos que indique su procedencia, las cantidades aportadas y las fechas, y el informe favorable del Consejo Insular de Mallorca para la devolución.
+
+### Artículo 21
+
+Artículo 21. Garantías en materia de residuos y autorizaciones ambientales integradas.
+(Derogado).
+Se deroga por la disposición derogatoria única.g) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 22
+
+Artículo 22. Medidas tributarias.
+Las entidades locales de la comunidad autónoma de las Illes Balears pueden establecer una bonificación de hasta el 50 % en las tasas de recogida, transporte y tratamiento de residuos de demolición y construcción, cuando los productores o poseedores sean administraciones públicas o entidades del sector público.
+
+### Artículo 23
+
+Artículo 23. Escorias.
+Las escorias tratadas procedentes de las plantas de incineración de residuos sólidos urbanos se pueden valorizar para la restauración de espacios medioambientalmente degradados que dispongan de un plan de restauración aprobado, y siempre que cumplan la condición de residuo inerte de conformidad con el que establece la Decisión del Consejo de 19 de diciembre de 2002, por la cual se establecen los criterios y procedimientos de admisión de residuos en vertederos, de acuerdo con el artículo 16 y el anexo II de la Directiva 1999/31/CEE.
+
+### Artículo 24
+
+Artículo 24. Fracción orgánica de residuo municipal (FORM).
+El tratamiento de la fracción orgánica de residuo municipal (FORM) puede sujetarse al pago de una tarifa específica calculada según los costes reales de su tratamiento que, en la isla de Mallorca, será aprobada, en su caso, por el Consejo Insular de Mallorca.
+Se modifica por la disposición adicional 3 de la Ley 4/2017, de 12 de julio. Ref. BOE-A-2017-10495#da-3
+
+## CAPÍTULO VI
+
+Aguas
+
+### Artículo 25
+
+Artículo 25. Otorgamiento de concesiones de aguas subterráneas para usos agrícolas y ganaderos.
+1. Se pueden otorgar a las unidades hidrogeológicas clasificadas concesiones de aguas subterráneas para usos agrícolas y ganaderos hasta un máximo de 4 hectómetros cúbicos, que deben distribuirse por islas según su superficie agraria útil.
+2. Pueden solicitar estas concesiones:
+a) Los titulares de explotaciones agrarias incluidas en el Registro de Explotaciones Prioritarias de la consejería competente en materia de agricultura.
+b) Los promotores de proyectos de nuevas inversiones en materia agrícola y ganadera, que deberán inscribirse en el Registro de Explotaciones Agrarias.
+c) Los titulares de instalaciones agrícolas y ganaderas existentes que no dispongan de agua suficiente, con título habilitante, para su actividad.
+3. Las solicitudes deben ir acompañadas, además de la documentación prevista en el artículo 184 del Reglamento del dominio público hidráulico, aprobado por el Real Decreto 849/1986, de 11 de abril, de un estudio agronómico, que debe contener como mínimo una memoria explicativa de la actividad agrícola o ganadera que se tiene que desarrollar, la superficie afectada por la actividad, el sistema de riego, el tipo de cultivo, el volumen máximo anual necesario y las necesidades hídricas mes a mes.
+El sistema de riego propuesto debe garantizar una utilización eficiente del agua, de acuerdo con el tipo de cultivo y de explotación, y las mejores técnicas disponibles.
+La Dirección General de Recursos Hídricos debe evaluar la adecuación del estudio agronómico en cuanto a las necesidades de agua en función del tipo de cultivo y de explotación agrícola o ganadera.
+4. Se autoriza al consejero competente en materia de recursos hídricos para que, mediante una orden, pueda aumentar o disminuir la cantidad de hectómetros cúbicos indicada en el apartado 1 anterior, en función de las disponibilidades hídricas reales y la demanda existente.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Tramitación de informes preceptivos de otras administraciones.
+En los casos en que, en el ámbito de esta ley, sea preceptivo obtener informes o licencias de varias administraciones, se puede enviar directamente la solicitud a cada una de las administraciones, con independencia de que para dictar la resolución definitiva se requieran todos los informes.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Declaración de utilidad pública.
+De acuerdo con el artículo 9 de la Ley de 16 de diciembre de 1954, de expropiación forzosa, se declara de utilidad pública la estación de bombeo y el colector de conducción de las aguas residuales generadas por el municipio de Búger para la estación de depuración de las aguas residuales de Campanet, así como el acceso a la estación de bombeo.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Declaraciones responsables o comunicaciones previas en determinadas obras.
+(Derogada)
+Se deroga por la disposición derogatoria única.d) de la Ley 7/2013, de 26 de noviembre. Ref. BOE-A-2014-655.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Denominaciones.
+Todas las denominaciones que en esta ley aparecen en masculino han de entenderse referidas también al femenino.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Proyecto de ley de energía.
+El Gobierno de las Illes Balears presentará durante el año 2013 un proyecto de ley de energía que contemple la apuesta por las energías renovables como instrumento de sostenibilidad ambiental y económica, con la perspectiva de reducir el sobrecoste de generación asociado a nuestra condición insular.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Expedientes en tramitación.
+Los expedientes que se tramiten cuando entre en vigor esta ley deben seguir la tramitación iniciada, si bien los promotores pueden optar por desistir y acogerse a esta nueva regulación.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Normas que se derogan.
+1. Se derogan la letra b) del grupo 1, la letra b) del grupo 2, y las letras d) y j) del grupo 7, todas del anexo II de la Ley 11/2006, de 14 de septiembre, de evaluaciones de impacto ambiental y evaluaciones ambientales estratégicas en las Illes Balears.
+2. Se deroga el apartado 5 del artículo 20, el artículo 26, los capítulos I, III y IV del título IV, y los títulos I, II y III del anexo I de la Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividad de las Illes Balears.
+3. Quedan derogados el capítulo XXII, relativo a la tasa por los servicios de controles oficiales posteriores en materia de seguridad alimentaria (artículos 388 quadragies a 388 quaterquadragies) y el capítulo XXIII, relativo a la tasa por los servicios de controles oficiales posteriores en materia de salud ambiental (artículos 388 quinquadragies a 388 novoquadragies), del título VIII de la Ley 11/1998, de 14 de diciembre, sobre el régimen específico de tasas de la comunidad autónoma de las Illes Balears.
+4. Se derogan los puntos 2 y 3 del artículo 24 del Plan director sectorial para la gestión de los residuos urbanos de la isla de Mallorca, publicado en el «Butlletí Oficial de les Illes Balears» número 35, de 9 de marzo de 2006.
+5. Asimismo, quedan derogadas todas las normas de rango legal o reglamentario que se opongan a esta ley o la contradigan.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 12/2010, de 12 de noviembre, de modificación de diversas leyes para la transposición en las Illes Balears de la Directiva 2006/123/CE, de 12 de diciembre, del Parlamento Europeo y del Consejo, relativa a los servicios en el mercado interior.
+(Derogada)
+Se deroga por la disposición derogatoria única.d) de la Ley 7/2013, de 26 de noviembre. Ref. BOE-A-2014-655.
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación de la Ley 6/2010, de 17 de junio, por la que se adoptan medidas urgentes para la reducción del déficit público.
+Se añade un nuevo apartado, el apartado 4, al artículo 6 de la Ley 6/2010, de 17 de junio, por la que se adoptan medidas urgentes para la reducción del déficit público, con la siguiente redacción:
+«4. Excepcionalmente, en caso de que el elevado número de órganos de contratación a los que afecte el acuerdo marco lo aconseje, y por razones de economía y de eficiencia, el Consejo de Gobierno puede, por medio de un acuerdo, designar el órgano que debe tramitar y resolver el procedimiento de licitación y adjudicación del acuerdo marco. Este acuerdo del Consejo de Gobierno debe concretar los órganos de contratación que intervienen y la financiación que asume cada uno de estos órganos. En estos casos, no es necesario que se firme el convenio a que se refiere el apartado 2 anterior.»
+
+### Disposición final tercera
+
+Disposición final tercera. Modificación de la Ley 1/2007, de 16 de marzo, contra la contaminación acústica de las Illes Balears.
+1. El artículo 10 de la Ley 1/2007, de 16 de marzo, contra la contaminación acústica de las Illes Balears, queda modificado de la siguiente manera:
+«Artículo 10. Interpretación de los valores límite en las ordenanzas municipales.
+Para establecer los valores límite de los niveles de evaluación sonora, las ordenanzas municipales que se dicten al amparo de esta ley y del desarrollo reglamentario posterior, o su adaptación, deben considerar los que se expresan como exigencias mínimas. No obstante, estas ordenanzas pueden establecer valores límite más restrictivos en aquellos casos en que lo consideren oportuno, excepto en los supuestos establecidos en el artículo 12 de la Ley 37/2003, de 17 de noviembre, del ruido.»
+2. La disposición transitoria segunda de la Ley 1/2007 queda modificada de la siguiente manera:
+«Disposición transitoria segunda. Ordenanzas municipales aprobadas y zonas acústicamente saturadas.
+1. Las ordenanzas municipales aprobadas y las zonas declaradas acústicamente saturadas antes de la entrada en vigor de esta ley han de adecuarse a la legislación básica estatal y a esta ley antes del 30 de junio de 2013.
+2. Hasta que no tenga lugar la adaptación mencionada, son directamente aplicables las previsiones de la Ley 37/2003, de 17 de noviembre, del ruido, sus reglamentos de desarrollo parcial y la presente ley, particularmente por lo que respecta a la prohibición de actividades cuyos valores de emisión acústica estén en los márgenes y los horarios previstos en la normativa mencionada.»
+
+### Disposición final cuarta
+
+Disposición final cuarta. Modificación de la Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividad de las Illes Balears.
+(Derogada).
+Se deroga por la disposición derogatoria única.d) de la Ley 7/2013, de 26 de noviembre. Ref. BOE-A-2014-655.
+
+### Disposición final quinta
+
+Disposición final quinta. Modificación de la Ley 11/2006, de 14 de septiembre, de evaluaciones de impacto ambiental y evaluaciones ambientales estratégicas en las Illes Balears.
+1. La letra d) del grupo 3 del anexo I de la Ley 11/2006, de 14 de septiembre, de evaluaciones de impacto ambiental y evaluaciones ambientales estratégicas en las Illes Balears, queda modificada de la siguiente manera:
+«d) Tuberías para transportar gas y petróleo en suelo rústico a partir de 10 km de longitud con un diámetro nominal de tubería de más de 160 mm.»
+2. La letra l) del grupo 3 del anexo I de la Ley 11/2006, de 14 de septiembre, de evaluaciones de impacto ambiental y evaluaciones ambientales estratégicas en las Illes Balears, queda modificada de la siguiente manera:
+«l) Instalaciones fotovoltaicas, incluidos los tendidos de conexión a la red siguientes:
+– Instalaciones de más de 100 kW situadas en suelos rústico, excepto que estén situadas en cualquier tipo de cubierta.
+– Instalaciones de más de 10 kW que estén situadas en suelo rústico protegido.»
+
+### Disposición final sexta
+
+Disposición final sexta. Modificación de la Ley 5/2003, de 4 de abril, de salud de las Illes Balears.
+Se añade un nuevo apartado, el apartado 4, al artículo 48 de la Ley 5/2003, de 4 de abril, de salud de las Illes Balears, con la siguiente redacción:
+«4. En cuanto al control de la seguridad alimentaria en la venta ambulante o no sedentaria y a los mercados municipales permanentes o temporales, corresponde al municipio ejercer las funciones de control e inspección con carácter general. No obstante, corresponde, en todo caso, a la Administración de la comunidad autónoma de las Illes Balears ejercer la potestad sancionadora en esta materia. Cuando sea necesario para el ejercicio de sus funciones o por razones de interés público, corresponde también a la Administración de la comunidad autónoma de las Illes Balears la función inspectora en los ámbitos mencionados.»
+
+### Disposición final séptima
+
+Disposición final séptima. Modificación de la Ley 11/2001, de 15 de junio, de ordenación de la actividad comercial en las Illes Balears.
+El apartado 1 del artículo 15 de la Ley 11/2001, de 15 de junio, de ordenación de la actividad comercial en las Illes Balears, queda modificado de la siguiente manera:
+«1. La implantación, la ampliación de la actividad o el traslado de las instalaciones destinadas a establecimientos del tipo gran establecimiento comercial requieren expresamente la licencia autonómica, con carácter previo a la solicitud, si procede, del permiso municipal de instalación de la correspondiente actividad.
+No obstante, quedan exentos de la necesidad de obtener la licencia autonómica todos aquellos supuestos que formen parte del ámbito de aplicación del Real Decreto Ley 19/2012, de 25 de mayo, de medidas urgentes de liberalización del comercio y de determinados servicios.»
+
+### Disposición final octava
+
+Disposición final octava. Modificación de la Ley 2/1993, de 30 de marzo, de creación del Parque Balear de Innovación Tecnológica.
+El artículo 2 de la Ley 2/1993 queda modificado de la manera siguiente:
+«Artículo 2.
+A los efectos de esta ley se entiende por Parque Balear de Innovación Tecnológica la actuación territorial con ámbito de influencia interinsular, con el fin de crear y de ofrecer, en un conjunto unitario, suelo industrial, de servicios, recreacional y comercial en un medio urbanizado de alta calidad, que constituya un marco adecuado para la implantación de actividades vinculadas al desarrollo de tecnologías avanzadas y a la calificación de los recursos humanos.»
+
+### Disposición final novena
+
+Disposición final novena. Deslegalización.
+Conforme a lo previsto en la disposición adicional octava de la Ley 6/1997, de 8 de julio, del suelo rústico de las Illes Balears, las normas procedimentales que se contienen en el artículo 3 de esta ley se pueden modificar por medio de una orden de la persona titular de la consejería competente en materia de energía.
+
+### Disposición final décima
+
+Disposición final décima. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de las Illes Balears».
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que correspondan la hagan guardar.
+Palma, 20 de noviembre de 2012.
+El Presidente,
+ El Vicepresidente Económico, de Promoción Empresarial y de Empleo,
+ José Ramón Bauzá Díaz
+ José Ignacio Aguiló Fuster

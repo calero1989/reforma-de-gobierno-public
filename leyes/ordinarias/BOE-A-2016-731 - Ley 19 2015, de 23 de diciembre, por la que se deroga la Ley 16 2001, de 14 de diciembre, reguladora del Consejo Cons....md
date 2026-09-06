@@ -1,0 +1,94 @@
+# Ley 19/2015, de 23 de diciembre, por la que se deroga la Ley 16/2001, de 14 de diciembre, reguladora del Consejo Consultivo de Extremadura.
+
+- Identificador BOE: `BOE-A-2016-731`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2016-731
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE EXTREMADURA
+Sea notorio a todos los ciudadanos que la Asamblea de Extremadura ha aprobado y yo, en nombre del Rey, de conformidad con lo establecido en el artículo 40.1 del Estatuto de Autonomía, vengo a promulgar la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+El Estatuto de Autonomía de Extremadura prevé la existencia de un órgano de carácter consultivo, cuya creación y regulación corresponde a la Asamblea de Extremadura mediante una ley.
+La Asamblea de Extremadura, mediante la Ley 16/2001, de 14 de diciembre, creó y reguló el funcionamiento del Consejo Consultivo de Extremadura.
+El Consejo Consultivo de Extremadura, desde su creación en 2001, ha venido desempeñando su función consultiva con rigurosidad e independencia.
+La ejecución de políticas de racionalización y efectividad de los recursos públicos de la Comunidad Autónoma de Extremadura, justifican la derogación de la vigencia de la Ley 16/2001, de 14 de diciembre, sin que ello conlleve una merma en la encomienda de la garantía de los derechos de los ciudadanos atribuida por nuestro ordenamiento jurídico a los poderes públicos.
+Esta ley da cumplida respuesta a la voluntad política mayoritariamente expresada de aunar las necesidades de racionalización de la administración autonómica, motivada en las graves circunstancias económicas que soporta, con la garantía que supone, en el ámbito de la Comunidad Autónoma, la función consultiva encomendada por mandato constitucional al Consejo de Estado y en los asuntos detallados por esta ley a la Comisión Jurídica de Extremadura.
+La optimización de los recursos de la Comunidad Autónoma con una iniciativa como es la derogación del Consejo Consultivo, cobra mayor relevancia, tanto en la eficiencia del gasto como en la prestación del servicio, mediante la creación, en el seno de la Junta de Extremadura de un órgano verdaderamente profesionalizado, independiente, que aproveche el personal y los medios existentes en el extinto Consejo Consultivo que asuma aquellas funciones no reservadas expresamente a la Administración consultiva. De ahí la creación de la Comisión Jurídica de Extremadura como órgano colegiado, integrado en la administración autonómica y con una composición profesional y no política.
+Las funciones que el Consejo Consultivo tiene atribuidas por la disposición final segunda de la Ley 13/2015, de 8 de abril, como Tribunal Administrativo de Recursos Contractuales, pasan al ámbito competencial de la Junta de Extremadura y en aras a la independencia que debe presidir dichas funciones, serán desempeñadas con imparcialidad y criterios de naturaleza jurídica por la Comisión Jurídica de Extremadura, profundizando aún más en el objetivo de racionalización del gasto y mejora en la prestación de los servicios.
+
+### Artículo único
+
+Artículo único. Derogación de la Ley 16/2001, de 14 de diciembre, del Consejo Consultivo de Extremadura.
+Se deroga la Ley 16/2001, de 14 de diciembre, del Consejo Consultivo de Extremadura.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Comisión Jurídica de Extremadura.
+(Derogada).
+Se deroga por la disposición derogatoria única.2 de la Ley 2/2021, de 21 de mayo. Ref. BOE-A-2021-10592#dd
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Régimen patrimonial y medios materiales.
+1. Los bienes del Consejo Consultivo y los adscritos para el cumplimiento de sus fines, se integrarán en el patrimonio de la Junta de Extremadura.
+2. Los archivos, fondos documentales, aplicativos informáticos y demás bienes muebles materiales e inmateriales afectos al Consejo Consultivo de Extremadura quedarán adscritos a la Consejería competente en materia de Administración Pública.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Derechos y obligaciones.
+1. La Junta de Extremadura, a la entrada en vigor de esta ley, quedará subrogada en todos los derechos y obligaciones contraídos por el Consejo Consultivo de Extremadura.
+2. Los remanentes de tesorería y demás activos financieros del Consejo Consultivo, a la fecha de entrada en vigor de esta ley, se integrarán en la Hacienda de la Comunidad Autónoma de Extremadura.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Ejercicio por parte de las entidades locales de la Comunidad Autónoma de Extremadura de competencias de las que venían disponiendo con anterioridad a la entrada en vigor de la Ley 27/2013, de 27 de diciembre, de Racionalización y Sostenibilidad de la Administración Local, y condiciones para la asunción por las mismas de nuevas competencias propias, delegadas y distintas de las propias y de las atribuidas por delegación.
+1. Las competencias atribuidas a las entidades locales de la Comunidad Autónoma de Extremadura por la legislación autonómica anterior a la entrada en vigor de la Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local, se ejercerán por las mismas de conformidad con las previsiones contenidas en las normas de atribución, en régimen de autonomía y bajo su propia responsabilidad, de acuerdo con lo establecido en el artículo 7.2 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+2. La legislación sectorial de la Comunidad Autónoma de Extremadura podrá atribuir nuevas competencias propias a las entidades locales, actuando, en relación con lo dispuesto en los apartados 4 y 5 del artículo 25 o en el artículo 36 de la Ley 7/1985, de 2 de abril, además, de acuerdo con las previsiones que la legislación autonómica desarrolle. En cualquier caso, conforme a lo señalado anteriormente, en la atribución de competencias propias a los entes locales, la normativa autonómica atenderá al interés local del ámbito material en cuestión conforme a los principios de subsidiariedad y autonomía local así como el de sostenibilidad y estabilidad presupuestaria, en estos casos de las Haciendas Públicas implicadas.
+3. La Comunidad Autónoma de Extremadura podrá delegar el ejercicio de determinadas facultades propias de las competencias de su titularidad en las entidades locales de su ámbito territorial, de acuerdo con lo dispuesto en el artículo 59.3 del Estatuto de Autonomía de Extremadura y en los términos establecidos en los artículos 7, 27 y 37 de la Ley 7/1985, de 2 de abril. Dicha delegación de competencias deberá garantizar la capacidad de dirección suficiente en la gestión y prestación del servicio correspondiente, a fin de hacerlo compatible con el principio de autoorganización municipal, sin perjuicio de las correspondientes técnicas de control propias de la delegación de competencias para cuyo ejercicio se reserva la habilitación correspondiente la Administración delegante.
+4. Cuando la Comunidad Autónoma deba emitir el informe relativo a la inexistencia de duplicidades previsto en el artículo 7.4 de la Ley 7/1985, de 2 de abril, para el ejercicio por las entidades locales de nuevas competencias distintas de las propias y de las atribuidas por delegación, aquéllas seguirán para recabarlo el procedimiento establecido al efecto por la Junta de Extremadura.
+5. No será necesaria la solicitud del informe mencionado en el apartado anterior en el supuesto de que las entidades locales vinieran ejerciendo determinadas competencias o funciones en un concreto ámbito material con anterioridad a la entrada en vigor de la citada Ley 27/2013, de 27 de diciembre, en cuyo caso podrán seguir prestando los servicios o desarrollando las actividades que se llevaban a cabo, siempre que, previa valoración de la propia entidad local, no se incurra en supuestos de ejecución simultánea del mismo servicio público por considerarse éstos de carácter complementarios y no se ponga en riesgo la sostenibilidad del conjunto de la Hacienda Municipal, en los términos exigidos por la legislación de estabilidad presupuestaria y sostenibilidad financiera.
+6. Las competencias que, con carácter previo a la entrada en vigor de la Ley 27/2013, de 27 de diciembre, se preveían como propias de los municipios en materia de participación en la gestión de la atención primaria de la salud e inspección sanitaria, en materia de prestación de servicios sociales, y de promoción y reinserción social, así como aquellas otras en materia de educación, a las que se refieren las disposiciones adicionales decimoquinta y transitorias primera, segunda y tercera de la Ley 27/2013, de 27 de diciembre, continuarán siendo ejercidas por los municipios en los términos previstos en las leyes correspondientes, en tanto no hayan sido asumidas por parte de la Comunidad Autónoma.
+El resto de competencias en dichas materias atribuidas a las entidades locales por la legislación de la Comunidad Autónoma anterior a la entrada en vigor de la Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local, continuarán siendo ejercidas por éstas, de conformidad con las previsiones de la norma de atribución y en los términos establecidos en el artículo 7.2 de la Ley 7/1985, de 2 de abril, de Bases del Régimen Local.
+7. Las Entidades Locales de la Comunidad Autónoma de Extremadura ejercerán como competencia propia la colaboración con la Administración autonómica en la ejecución de políticas públicas de formación y empleo de su competencia, para favorecer y apoyar las iniciativas de generación de empleo en el ámbito local que ésta promueva a través de las distintas modalidades subvencionales que establezca, sin que ello implique la traslación de nuevas obligaciones financieras a dichas entidades.
+Se añade el apartado 7 por la disposición adicional 2 de la Ley 6/2016, de 24 de junio. Ref. BOE-A-2016-6650
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Régimen del personal del Consejo Consultivo de Extremadura.
+1. Los empleados públicos del Consejo Consultivo, así como los trabajadores laborales, se integrarán en la Administración de la Junta de Extremadura en las condiciones establecidas en la normativa que les resulte de aplicación. Se garantizarán los derechos retributivos y de carrera consolidados. Quienes ostenten la condición de funcionarios de la Junta de Extremadura y se encuentren en alguna de las excedencias previstas por la legislación reingresarán en su puesto de trabajo de origen o uno de la misma categoría y retribuciones que se creará al efecto, ello sin perjuicio de la consolidación de los derechos anteriormente reconocidos. El cuerpo de letrados del Consejo Consultivo se integrará como el Cuerpo de Administración Especial del Grupo A1 en la función pública de la Junta de Extremadura. Los funcionarios y puestos de trabajo correspondientes a dicho cuerpo que se integran en la Junta de Extremadura se adscribirán a la Abogacía General de la Junta de Extremadura.
+2. En tanto se adscribe el personal a su puesto de trabajo de destino, la Junta de Extremadura abonará las percepciones oportunas y dispondrá la asignación provisional de funciones conforme a la legislación vigente.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Expedientes en tramitación.
+Los expedientes que a la entrada en vigor de la presente ley se encuentren pendientes de dictamen en el Consejo Consultivo se remitirán a la Comisión Jurídica de Extremadura, a excepción de aquellos que en razón a su naturaleza jurídica deban ser remitidos al Consejo de Estado.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan, contradigan o resulten incompatibles con lo dispuesto en la presente ley y, en especial:
+a) Las disposiciones dictadas en desarrollo de la Ley 16/2001, de 14 de diciembre, del Consejo Consultivo de Extremadura.
+b) La disposición final segunda de la Ley 13/2015, de 8 de abril, de la Función Pública de Extremadura por la que se crea el Tribunal Administrativo de Recursos Contractuales de Extremadura.
+
+### Disposición final primera
+
+Disposición final primera. Modificaciones presupuestarias.
+El Consejo de Gobierno llevará a cabo las modificaciones presupuestarias que resulten necesarias para el cumplimiento de lo dispuesto en la presente ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación para el desarrollo reglamentario.
+Se autoriza al Consejo de Gobierno de la Junta de Extremadura para dictar las disposiciones reglamentarias necesarias para el desarrollo y aplicación de la presente ley, en particular respecto de todos los expedientes que se encuentren en tramitación en el Consejo Consultivo de Extremadura.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley se publicará en el Diario Oficial de Extremadura y entrará en vigor el 1 de enero de 2016.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos, que sea de aplicación esta ley, que cooperen a su cumplimiento y a los Tribunales y Autoridades que corresponda la hagan cumplir.
+Mérida, 23 de diciembre de 2015.–El Presidente de la Junta de Extremadura, Guillermo Fernández Vara.

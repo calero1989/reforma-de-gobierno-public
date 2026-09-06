@@ -1,0 +1,4113 @@
+# Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra.
+
+- Identificador BOE: `BOE-A-1990-19817`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1990-19817
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral de la Administración Local de Navarra.
+EXPOSICIÓN DE MOTIVOS
+El Reglamento para la Administración Municipal de Navarra de 3 de febrero de 1928 constituyó en su día un cuerpo normativo de singular importancia en la vida administrativa local de la Comunidad Foral, que supuso una adecuación de la peculiar configuración local de la misma, decantada a lo largo de los siglos, a los planteamientos derivados de la nueva situación nacida como consecuencia de la Ley de 25 de octubre de 1839, y de la Ley Paccionada de 16 de agosto de 1841, y la armonización de su régimen administrativo local a las directrices y orientaciones recogidas en las bases para la aplicación en Navarra del Estatuto Municipal de 8 de marzo de 1924, al tiempo que logró la refundición en un cuerpo legal uniforme de las variadas y dispersas normas que regulaban con anterioridad la Administración Local de Navarra.
+El mencionado texto normativo ha venido rigiendo desde entonces la vida local de la Comunidad Foral, siendo su larga permanencia y aplicación el mejor argumento que avala su bondad. Mas las profundas transformaciones experimentadas en los últimos tiempos en la sociedad española en general, y en la Navarra en particular, han venido haciendo necesaria una constante actualización de las materias reguladas por el mismo, pudiendo decirse que, en la actualidad, gran parte de su contenido carece de vigencia y aplicación como consecuencia de nuevas disposiciones forales que han venido dejando sin efecto, de manera expresa o tácita, importantes aspectos por él regulados. Sin ánimo de exhaustividad, tal es el caso de la materia relativa a la organización y funcionamiento de las Entidades locales, profundamente afectada por la Norma de 4 de julio de 1979, sobre Juntas de Oncena, Quincena y Veintena; por la Ley Foral 31/1983, de 13 de octubre, sobre constitución de los Concejos abiertos y elección de miembros de las Juntas concejiles, y por la Ley Foral 4/1984, de 2 de febrero, sobre adopción de acuerdos por las Corporaciones locales de Navarra; la materia referente a los funcionarios en general, regulada por la Ley Foral 13/1983, de 30 de marzo, y a los funcionarios sanitarios municipales, en particular, regulada por la Norma de 16 de noviembre de 1981 y la Ley Foral 22/1985, de 13 de noviembre; la materia de montes y comunes de los pueblos, regida en la actualidad por la Ley Foral 6/1986, de 28 de mayo, de Comunales; la materia de Haciendas locales, regulada por la Norma de 2 de junio de 1981; la materia de procedimiento, impugnaciones y recursos que se recoge en la Ley Foral 2/1986, de 17 de abril, reguladora del control por el Gobierno de Navarra de la legalidad y del interés general de las actuaciones de las Entidades locales de Navarra.
+La dispersión y el anacronismo, en algunos aspectos, de la normativa reguladora del peculiar régimen administrativo local de Navarra justificarían por sí mismos la conveniencia y oportunidad de acometer la tarea legislativa encaminada a refundir, actualizar y completar los variados aspectos de la Administración Local de la Comunidad Foral. Pero existen además otras razones, y de más profundidad aún, que refuerzan dicha decisión.
+El nuevo orden político derivado de la Constitución Española de 1978, con los presupuestos de autonomía y suficiencia financiera de las Entidades locales recogidos fundamentalmente en sus artículos 140 y 142, y la declaración contenida en el artículo 46.3 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra sobre autonomía de los municipios de Navarra, exige una adecuación de la normativa reguladora de la Administración Local de esta Comunidad Foral a los principios y planteamientos a que se ha hechor anterior referencia. Cierto es que la vida municipal de Navarra estuvo inspirada históricamente en la autonomía de las Entidades locales, y que tal principio se declara como el objeto primordial de la redacción del Reglamento para la Administración Municipal de Navarra de 3 de febrero de 1928, tal como se hace constar en el Preámbulo del mismo, mas es de reconocer que ese planteamiento se vio perturbado en la realidad por múltiples disposiciones forales que en el curso de los tiempos impusieron una serie de cortapisas a la actuación de las Entidades locales de Navarra que transformaron aquella tradicional autonomía en una declaración más teórica y formal que en un planteamiento real y efectivo, por lo que se hace necesario volver a orientaciones más acordes con la tradición histórica y con los principios constitucionales inspiradores de la vida local.
+De otra parte, el artículo 18.2 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra hace referencia a una Ley Foral sobre Administración Local, como una de las que la Comunidad Foral ha de aprobar, siendo de significar asimismo que la disposición adicional tercera de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, hace constar que regirá en Navarra en lo que no se oponga al régimen que para su Administración Local establece el artículo 46 de la Ley Orgánica antes mencionada, por lo que cumple desarrollar los preceptos de aquella Ley básica que sean de directa aplicación a Navarra en aquellas materias ajenas a su competencia privativa.
+La Ley Foral de Administración Local de Navarra, consecuentemente con lo anteriormente expuesto, regula el régimen de la Administración-Local de esta Comunidad Foral pretendiendo conjugar las peculiaridades históricas de la misma con los planteamientos que dimanan del nuevo orden constitucional: de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra y de la Ley reguladora de las Bases del Régimen Local, introduciendo las innovaciones que, sin alterar aquellos presupuestos básicos, se han estimado necesarias para el logro del mejor cumplimiento de los principios de desconcentración, eficacia y coordinación en la gestión de los intereses públicos que las Entidades locales tienen encomendados. A tal efecto, regula aquellas materias relativas a la administración local que corresponden a Navarra de conformidad con lo establecido en el artículo 46 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, con inclusión de aquellos aspectos que, como los referentes a los bienes comunales, y al control de legalidad y del interés general de las actuaciones de las Entidades locales de Navarra, fueron objeto de una regulación especial mediante Leyes Forales aprobadas en su día, la última en cumplimiento de lo previsto expresamente en la mencionada Ley Orgánica, así como de la materia relativa a las Haciendas locales, con respecto a la cual la presente Ley se remite, además a una Ley Foral de Haciendas Locales de posterior aprobación como materia propia del régimen local de Navarra, previsto en el artículo 18.2 de aquella Ley Orgánica.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones Generales
+
+### Artículo 1
+
+Artículo 1.
+La Comunidad Foral de Navarra organiza su Administración Local conforme a lo dispuesto en esta Ley Foral de acuerdo con los principios de autonomía, participación, desconcentración, eficacia y coordinación en la gestión de los intereses públicos para la consecución por ésta de la confianza de los ciudadanos.
+
+### Artículo 2
+
+Artículo 2.
+Los municipios son las Entidades locales básicas en que se organiza territorialmente la Comunidad Foral de Navarra.
+
+### Artículo 3
+
+Artículo 3.
+1. Además de los municipios, tienen también la condición de entes locales de Navarra:
+a) Las comarcas.
+b) Los concejos.
+c) La Comunidad de Bardenas Reales de Navarra, la Comunidad del Valle de Aezkoa, la Mancomunidad del Valle de Roncal, la Universidad del Valle de Salazar, la Unión de Aralar y el resto de corporaciones de carácter tradicional titulares o administradoras de bienes comunales existentes a la entrada en vigor de esta ley foral.
+d) Las mancomunidades de ayuntamientos.
+e) Las mancomunidades de planificación general.
+2. La Administración de la Comunidad Foral creará un registro donde deberán inscribirse, con todos los datos que reglamentariamente se determinen, todas las Administraciones Locales.
+Se modifica por el art. 1.1 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica el apartado 1 por el art. único.1 de la Ley Foral 23/2014, de 2 de diciembre. Ref. BOE-A-2014-13625
+
+### Artículo 4
+
+Artículo 4.
+1. Las Entidades locales de Navarra, en las materias de administración local que corresponden a Navarra conforme a lo establecido en el artículo 46 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral, se regirán por lo previsto en esta Ley Foral, por las disposiciones que en relación con tales materias dicte la Comunidad Foral, y por las de las propias Entidades dictadas en ejercicio de su potestad reglamentaria y de autoorganización.
+2. En las restantes materias, se regirán por lo dispuesto con carácter general para las Entidades locales del resto del Estado. Esta normativa se aplicará igualmente en defecto de derecho propio regulador de las materias que corresponden a Navarra.
+
+### Artículo 5
+
+Artículo 5.
+Las Leyes de la Comunidad Foral reguladoras de los distintos sectores de la acción pública determinarán las competencias propias de las Entidades locales de Navarra. Estas se ejercerán con plena autonomía conforme a lo establecido en el artículo 46.3 de la Ley Orgánica de Reintegración y Amejoramiento.
+
+## TÍTULO I
+
+Organización y administración de las Entidades locales de Navarra
+
+## CAPÍTULO I
+
+Municipios
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 6
+
+Artículo 6.
+1. El municipio es la Entidad local básica de la organización territorial de la Comunidad Foral y constituye el cauce primario de participación de los ciudadanos en los asuntos públicos.
+2. Son elementos del municipio el territorio, la población y la organización.
+
+### Artículo 7
+
+Artículo 7.
+El municipio tiene personalidad jurídica y plena capacidad para, con autonomía, ejercer las funciones públicas que tiene a su cargo, gestionar los servicios públicos cuya titularidad asuma, y representar a los intereses propios de la correspondiente colectividad.
+
+## Sección 2
+
+Sección 2.ª La organización municipal
+
+### Artículo 8
+
+Artículo 8.
+1. La organización de los municipios de Navarra, así como la formación de sus órganos de gobierno y administración, se sujetará a las disposiciones aplicables a los del resto del Estado.
+2. Las atribuciones de los órganos de gobierno y administración de los Municipios se ejercerán de conformidad con lo establecido en la legislación general, sin perjuicio de las especialidades que resultan de la legislación foral de régimen local.
+3. En los municipios de más de 5.000 habitantes y en los de menos en que así lo disponga su Reglamento Orgánico o lo acuerde el Pleno, existirán órganos que tengan por objeto el estudio, informe o consulta de los asuntos que han de ser sometidos a la decisión del Pleno, así como el seguimiento de la gestión del Alcalde, de la Comisión de Gobierno y de los Concejales que ostenten delegaciones, sin perjuicio de las competencias de control que corresponden al Pleno. Todos los grupos políticos integrantes de la Corporación tendrán derecho a participar en dichos órganos con las garantías establecidas en la legislación estatal.
+Se modifica el apartado 2 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+ Se modifica por el art. único de la Ley Foral 15/2002, de 31 de mayo. Ref. BOE-A-2002-12609
+
+### Artículo 9
+
+Artículo 9.
+El municipio del Noble Valle y Universidad de Baztán conservará su organización tradicional, integrada por el Ayuntamiento, la Junta General del Valle, y los batzarres de los lugares componentes del mismo, que participarán en el gobierno y administración del municipio de acuerdo con lo que dispongan las Ordenanzas Generales del Valle, aprobadas exclusivamente por la Junta General de conformidad con el marco legal vigente y los principios del Derecho Foral Navarro.
+
+### Artículo 9 bis
+
+Artículo 9 bis.
+El régimen de organización aplicable al Municipio de Pamplona será el previsto en el Título X de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, con las peculiaridades que se derivan de esta Ley Foral.
+Se añade por el art. 2 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## Sección 3
+
+Sección 3.ª La población
+
+### Artículo 10
+
+Artículo 10.
+1. La población del Municipio está constituida por el conjunto de personas inscritas en el padrón municipal.
+2. Son aplicables a los municipios de Navarra las disposiciones generales dictadas para los del resto del Estado en materia de población y empadronamiento.
+Se modifica el apartado 1 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## Sección 4
+
+Sección 4.ª El término municipal
+
+### Artículo 11
+
+Artículo 11.
+El término municipal es el ámbito territorial en que los órganos de gobierno y administración del municipio ejercen sus competencias.
+
+### Artículo 12
+
+Artículo 12.
+1. La demarcación y deslinde de los términos municipales de Navarra se realizará con arreglo a lo dispuesto en esta Ley Foral y en las disposiciones reglamentarias que la desarrollen.
+2. Las cuestiones que se susciten entre municipios de Navarra sobre deslinde de sus términos serán resueltas por la Administración de la Comunidad Foral, previo informe del Instituto Geográfico Nacional.
+3. Si la cuestión sobre deslinde de términos se suscita entre municipios de Navarra y otros pertenecientes a otra Comunidad será en todo caso preceptiva la intervención e informe del Gobierno de Navarra.
+
+## Sección 5
+
+Sección 5.ª Constitución y alteración de municipios
+
+### Artículo 13
+
+Artículo 13.
+1. La creación y supresión de municipios de Navarra, así como la alteración de sus términos, se realizará con arreglo a lo dispuesto en esta Ley Foral y en las disposiciones reglamentarias que la desarrollen.
+2. Las finalidades que han de perseguirse en todos los procesos citados en el número anterior serán las siguientes:
+a) Mejorar la prestación de los servicios de competencia municipal.
+b) Incrementar la capacidad de gestión de las Entidades locales afectadas.
+c) Adaptar los términos municipales a las realidades físicas, demográficas, urbanísticas y culturales.
+d) Facilitar la participación ciudadana en los asuntos locales y garantizar la efectiva prestación de los servicios.
+3. Los procesos de creación y supresión de municipios, así como la alteración de sus términos, nunca podrán dar como resultado el fraccionamiento de un espacio urbano continuo en más de un término municipal.
+
+### Artículo 14
+
+Artículo 14.
+La creación de nuevos municipios sólo podrá realizarse sobre la base de núcleos de población territorialmente diferenciados, y siempre que los municipios resultantes cuenten con recursos suficientes para el cumplimiento de las competencias municipales y no suponga disminución en la calidad, de los servicios que venían siendo prestados.
+
+### Artículo 15
+
+Artículo 15.
+1. Los términos municipales pueden ser alterados:
+a) Por fusión de dos o más municipios.
+b) Por incorporación de uno o más municipios a otro u otros.
+c) Por segregación de parte del territorio de uno o varios municipios para agregarla a otro u otros.
+d) Por segregación de parte del territorio de uno o varios municipios para constituir otro independiente.
+2. Para realizar las alteraciones a que se refieren los apartados a), b) y c) del número 1, es necesario que se trate de términos limítrofes. Las técnicas citadas en dichos apartados podrán combinarse en un único expediente.
+3. No puede segregarse parte de un municipio si con ello se privare a éste de las condiciones previstas en el artículo anterior.
+4. La segregación parcial de un término municipal llevará consigo la división del territorio y la de los bienes, derechos y acciones, así como la de las deudas y cargas, en función del número de habitantes y de la riqueza imponible del núcleo que se trata de segregar.
+5. La alteración de términos municipales no puede suponer en ningún caso modificación de los límites de la Comunidad Foral.
+
+### Artículo 16
+
+Artículo 16.
+1. La fusión de municipios podrá realizarse:
+a) Cuando carezcan separadamente de medios económicos suficientes para atender los servicios mínimos exigidos por la ley.
+b) Cuando se confundan sus núcleos urbanos como consecuencia del desarrollo urbanístico.
+c) Cuando concurran motivos notorios de necesidad o conveniencia económica o administrativa.
+2. La incorporación de uno o más municipios a otro u otros podrá acordarse cuando concurra la causa mencionada en el apartado c) del número anterior.
+3. La segregación, de parte del territorio de un municipio para agregarla a otro u otros podrá realizarse cuando concurra alguna de las causas a que se refieren los apartados b) y c) del número 1.
+4. La segregación de parte del territorio de uno o varios Municipios para constituir otro independiente podrá realizarse cuando existan motivos permanentes de interés público.
+No pueden crearse por segregación nuevos Municipios si no cuentan con más de 1.000 habitantes.
+Se modifica el apartado 4 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 17
+
+Artículo 17.
+La alteración de los términos municipales, en los supuestos previstos en el artículo 15.1, se ajustará en todo caso a lo siguiente:
+1.º La iniciativa podrá partir:
+a) De los vecinos, mediante petición suscrita por la mayoría de los que integran el último censo electoral del Municipio o Municipios, o de la parte o partes del mismo en el supuesto de segregación.
+b) Del Ayuntamiento o Ayuntamientos interesados por acuerdo del pleno adoptado con el voto favorable de la mayoría absoluta del número legal de miembros de la corporación.
+c) Del Gobierno de Navarra.
+2.º Ejercitada la iniciativa, el procedimiento a seguir por la Administración de la Comunidad Foral exigirá el cumplimiento de los siguientes trámites:
+a) Información pública por plazo no inferior a dos meses.
+b) Audiencia en el mismo período a todos los Ayuntamientos y, en su caso, Concejos afectados por el proceso.
+c) Dictamen del Consejo de Navarra. Simultáneamente a la petición del mismo se dará conocimiento a la Administración del Estado.
+3.º La resolución definitiva del procedimiento corresponde al Gobierno de Navarra, quien dará traslado de la misma a la Administración del Estado, a efectos de su inclusión en el Registro de entidades locales, y se publicará en los Boletines Oficiales de Navarra y del Estado.
+Se modifica por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 18
+
+Artículo 18.
+La resolución definitiva de los expedientes de alteración de términos municipales contemplarán todas las cuestiones suscitadas en los mismos incluida, en su caso, la situación de los Concejos afectados.
+
+### Artículo 19
+
+Artículo 19.
+Los municipios que se extingan como consecuencia de los procesos de alteración de términos municipales podrán quedar integrados en el municipio resultante con la condición de concejos, siempre que se acredite la suficiencia de recursos para el adecuado ejercicio de las competencias contempladas en el artículo 39 de la presente ley foral.
+Se modifica por el art. 1.2 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 20
+
+Artículo 20.
+1. El Gobierno de Navarra, atendiendo a las finalidades establecidas en el artículo 13.2 de esta Ley Foral potenciará la fusión e incorporación de los municipios.
+2. A tal efecto se establecerán medidas de fomento consistentes en:
+a) Ayudas económicas y técnicas para las iniciativas de fusión e incorporación que se emprendan, así como a los municipios resultantes de la alteración.
+b) Prioridad en la asignación de subvenciones corrientes y de capital de carácter finalista.
+c) La preferencia para la inclusión en los planes de la Comunidad Foral para obras y servicios de interés local, conforme a los baremos que se establezcan con carácter general.
+d) Cualesquiera otras medidas de fomento que el Gobierno de Navarra establezca con el fin de propiciar la fusión o incorporación de municipios.
+
+## Sección 6
+
+Sección 6.ª Cambios de denominación y de capitalidad
+
+### Artículo 21
+
+Artículo 21.
+1. No puede realizarse cambio de denominación de un municipio si la que se pretende adoptar es idéntica a otra existente o puede producir confusión en la organización de los servicios públicos.
+2. La utilización del vascuence en la denominación de los municipios se sujetará a lo dispuesto en la Ley Foral 18/1986, de 15 de diciembre.
+
+### Artículo 22
+
+Artículo 22.
+Los cambios de denominación de los municipios requieren el acuerdo del Ayuntamiento, adoptado previa información pública por un plazo mínimo de un mes.
+El acuerdo municipal deberá ser remitido a la Administración de la Comunidad Foral, para su aprobación por el Gobierno de Navarra, que se entenderá concedida si no recae resolución en el plazo de un mes.
+
+### Artículo 23
+
+Artículo 23.
+Los cambios de denominación de los municipios sólo tendrán carácter oficial cuando, tras su anotación en el Registro a que se refiere el artículo 14 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, se publiquen en el «Boletín Oficial del Estado» y en el «Boletín Oficial de Navarra».
+
+### Artículo 24
+
+Artículo 24.
+1. Los municipios de Navarra pueden alterar su capitalidad en base a los siguientes motivos:
+a) Desaparición del núcleo de población donde estuviere establecida.
+b) Mayor facilidad de comunicaciones.
+c) Carácter histórico de la población elegida.
+d) Mayor número de habitantes.
+e) Importancia económica o beneficios notorios que a los residentes en el término reporte el cambio.
+2. El cambio de capitalidad requiere el acuerdo favorable del Ayuntamiento, previa instrucción del expediente con información pública por período no inferior a un mes.
+
+### Artículo 25
+
+Artículo 25.
+1. Los acuerdos de los Ayuntamientos relativos a cambios de denominación y de capitalidad de los Municipios deben ser adoptados por el pleno con votación favorable de la mayoría absoluta del número legal de miembros de la corporación.
+2. Los cambios de capitalidad de los municipios deben publicarse en el «Boletín Oficial de Navarra» y en el «Boletín Oficial del Estado».
+3. Se dará, traslado a la Administración del Estado de las resoluciones sobre cambio de denominación y capitalidad de los municipios, a efectos de su inscripción en el Registro de las Entidades Locales.
+Se modifica el apartado 1 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## Sección 7
+
+Sección 7.ª De los símbolos
+
+### Artículo 26
+
+Artículo 26.
+1. Los municipios y otras Entidades locales podrán dotarse de una bandera.
+2. No podrán utilizarse la bandera de España, de la Comunidad Foral, ni la de ninguna otra Comunidad Autónoma, como fondo de las banderas de los municipios y otras Entidades locales.
+3. Lo establecido en el número anterior no será de aplicación a las banderas existentes a la entrada en vigor de la presente Ley Foral.
+
+### Artículo 27
+
+Artículo 27.
+En los libros, comunicaciones y demás documentos oficiales, las Corporaciones locales podrán utilizar un escudo o emblema distintivo, fundamentado en hechos históricos, tradicionales o geográficos, en características propias de la Corporación, o en su propio nombre.
+
+### Artículo 28
+
+Artículo 28.
+La aprobación o modificación de la bandera o escudos exigirá un procedimiento análogo al establecido para el cambio de nombre de los municipios.
+
+## Sección 8
+
+Sección 8.ª Competencias
+
+### Artículo 29
+
+Artículo 29.
+Los municipios de Navarra tienen las competencias, potestades y prerrogativas que la legislación general reconoce a todos los del Estado.
+Tendrán asimismo las competencias que, en materias que corresponden a Navarra, les atribuyan las leyes de la Comunidad Foral.
+
+### Artículo 30
+
+Artículo 30.
+1. El municipio puede delegar en los Concejos, si éstos aceptan la delegación, la realización de obras o la prestación de servicios relativos a la competencia de aquél, cuando afecten a los intereses propios de tales Concejos de forma que se mejore la eficacia de la gestión pública y se alcance una mayor participación ciudadana. En ningún caso serán delegables a los Concejos las competencias urbanísticas.
+2. De igual forma, puede el municipio ejercer competencias en materias atribuidas a los Concejos, por delegación de éstos.
+3. Los municipios que formen parte de las agrupaciones tradicionales mencionadas en el artículo 3. c), de esta Ley Foral podrán delegar en ellas el ejercicio de las competencias relativas a la prestación de servicios o realización de actividades.
+4. El régimen jurídico de las delegaciones será el establecido por la legislación general para los municipios.
+
+### Artículo 31
+
+Artículo 31.
+1. Los municipios de Navarra, por sí o agrupados, deben prestar en todo caso los servicios que con carácter mínimo se establecen en la legislación general. Los vecinos tendrán derecho a exigir el establecimiento y la prestación de tales servicios.
+2. En los municipios en cuyo ámbito territorial existan Concejos, la prestación en éstos de los servicios mencionados en el número anterior se realizará por los Ayuntamientos respectivos, a no ser que se refieran a materias atribuidas por esta Ley a tales Concejos.
+3. Los municipios pueden solicitar del Gobierno de Navarra la dispensa de la obligación de prestar los servicios mínimos de conformidad con lo previsto en la legislación general. El Gobierno de Navarra determinará la entidad que se hará cargo del servicio objeto de dispensa, a efectos de garantizar su prestación de forma satisfactoria, pudiéndose atribuir su establecimiento y prestación a la comarca.
+El acuerdo de dispensa fijará las condiciones y aportaciones económicas que procedan.
+Además de las establecidas por la legislación general, será causa específica de dispensa de la obligación del municipio en cuyo término existan concejos, con respecto a los servicios a prestar a los mismos, la suficiencia de los recursos de tales concejos para prestarlos derivada del aprovechamiento de sus bienes, en cuyo caso la obligación recaerá en tales concejos.
+4. Corresponderá a la comarca o al Gobierno de Navarra la asistencia, cooperación jurídica, económica y técnica, a los municipios que hayan obtenido la dispensa de la obligación de prestar los servicios mínimos a que se refiere el número uno de este artículo, a efectos de garantizar su adecuada prestación.
+Se modifican los apartados 3 y 4 por el art. 1.3 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+## Sección 9
+
+Sección 9.ª Regimenes especiales
+Redactado conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Artículo 32
+
+Artículo 32.
+1. Funcionarán en régimen de Concejo Abierto los Municipios con población inferior a cien habitantes.
+2. Podrán funcionar asimismo en régimen de Concejo abierto aquellos otros municipios en los que motivos geográficos, de mejora de gestión de los intereses municipales u otras circunstancias lo hagan aconsejable, requiriéndose para ello la petición de la mayoría de los vecinos, la decisión favorable del Ayuntamiento por mayoría de dos tercios de sus miembros y la aprobación por el Gobierno de Navarra.
+3. En el régimen de Concejo abierto, el gobierno y administración del municipio corresponderán al Alcalde elegido de conformidad con las determinaciones de la legislación electoral y a la Asamblea vecinal integrada por todos los electores.
+4. A falta de uso, costumbre, o tradición local, ajustarán su funcionamiento a las siguientes reglas:
+a) Corresponderá al Alcalde la representación del municipio y, en general, las atribuciones que en los Ayuntamientos ostenta el Alcalde.
+b) El Alcalde podrá designar una Comisión integrada por un mínimo de dos y un máximo de cuatro Vocales que le asistirán en el ejercicio de sus funciones y le sustituirán, por orden de designación, en caso de ausencia o enfermedad. Ostentará asimismo la Comisión las atribuciones, que, en su caso, el Alcalde o la Asamblea vecinal le deleguen.
+c) Corresponderán a la Asamblea vecinal las atribuciones que en los Ayuntamientos tiene encomendadas el Pleno de la Corporación.
+d) Con carácter supletorio, resultará de aplicación a la Asamblea vecinal el régimen de funcionamiento establecido para el pleno del Ayuntamiento por la legislación de régimen local.
+Se modifica el apartado 1 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 33
+
+Artículo 33.
+(Suprimido).
+Se suprime por el art. 1.4 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifican los apartados 1, 3 y 4 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 34
+
+Artículo 34.
+Las Leyes de la Comunidad Foral reguladoras de los distintos sectores de acción pública podrán establecer regímenes especiales para municipios que por su situación geográfica, actividad primordial, patrimonio histórico-artístico, o cualquier otra peculiaridad hagan aconsejable un tratamiento diferenciado en su organización o en su sistema de financiación.
+
+## Sección 10
+
+Sección 10.ª Comisión de Delimitación Territorial
+
+### Artículo 35
+
+Artículo 35.
+1. Se crea la Comisión de Delimitación Territorial como órgano de informe, estudio, consulta y propuesta, en relación con las actuaciones referentes a la modificación de municipios o a la constitución de agrupaciones de los mismos.
+2. La Comisión de Delimitación Territorial se adscribirá orgánicamente al Departamento de Administración Local.
+3. Serán funciones de la Comisión:
+a) Emitir informe preceptivo en todos los expedientes de constitución y alteración de municipios.
+b) Emitir informe preceptivo en los expedientes de constitución y alteración de cualquier otra entidad local.
+c) Elaborar, por iniciativa propia o a petición del Gobierno de Navarra o del Departamento de Administración Local, estudios, informes o dictámenes sobre la revisión o modificación de los términos municipales o comarcales y, en general, sobre cualquier alteración del mapa comarcal, municipal o concejil.
+d) Cualesquiera otras que se le atribuyan por Ley Foral.
+Se modifica el apartado 3.b) y c) por el art. 1.5 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 36
+
+Artículo 36.
+La composición, organización y funcionamiento de la Comisión de Delimitación Territorial se determinará reglamentariamente. En todo caso, formarán parte de la misma:
+a) Representantes de la Administración de la Comunidad Foral.
+b) Representantes de los municipios, concejos y comarcas, designados por sus entidades asociativas.
+A este fin, habrá de garantizarse la representación de cada una de estas entidades locales y, así mismo, que exista al menos un representante de las entidades locales que formen parte de cada comarca.
+c) Representantes de instituciones públicas o privadas que, en virtud de sus objetivos y finalidades, tengan una relación o incidencia especiales sobre la organización territorial de Navarra.
+Se modifica por el art. 1.6 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+## CAPÍTULO II
+
+Otras Entidades locales
+
+## Sección 1
+
+Sección 1.ª Concejos
+
+### Artículo 37
+
+Artículo 37.
+1. Los Concejos son Entidades locales enclavadas en el término de un municipio, con población y ámbito territorial inferiores al de éste, con bienes propios y personalidad jurídica para la gestión y administración de sus intereses en el ámbito de las competencias atribuidas a los mismos por esta Ley Foral.
+Los Concejos, en el ámbito de las competencias que les atribuyen las leyes, y con las limitaciones que resulten de las mismas, tendrán las potestades y prerrogativas reconocidas a los municipios.
+2. Para tener la condición de entidad local concejil se deberá acreditar la suficiencia de recursos para el adecuado ejercicio de las competencias contempladas en el artículo 39 de la presente ley foral. Se entenderá esta suficiencia de recursos cuando el concejo disponga de ingresos suficientes, ya sean propios o procedentes de transferencias corrientes del Gobierno de Navarra o del ayuntamiento en que se integre. En cualquier caso, corresponde al Gobierno de Navarra la valoración de dicha suficiencia.
+3. Los cambios de denominación de los Concejos se sujetarán a las reglas establecidas para los municipios.
+Se modifica el apartado 2 por el art. 1.7 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica el apartado 2 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 38
+
+Artículo 38.
+1. El gobierno y administración de los Concejos se realizará por un Presidente y por una Junta o Concejo abierto.
+2. El Presidente y los vocales de las Juntas serán elegidos por sistema mayoritario por las personas que, como residentes en el Concejo, estén incluidas en el censo electoral vigente con derecho de sufragio activo en las elecciones municipales correspondientes al Municipio al que el Concejo pertenezca. La fecha de elección coincidirá con la de las elecciones municipales.
+Tendrán derecho de sufragio pasivo quienes tuvieren reconocido derecho de sufragio activo conforme a lo dispuesto en el apartado anterior.
+3. Se constituirá Concejo Abierto en los concejos cuya población sea inferior a 50 habitantes, o en aquéllos con mayor población que decidan voluntariamente constituirse como tales, mediante acuerdo de la Junta adoptado por mayoría absoluta de su número legal de miembros con anterioridad a la convocatoria de elecciones concejiles, debiendo comunicarse dicha circunstancia a la Administración de la Comunidad Foral.
+El Concejo Abierto deberá dotarse de una Presidencia y estará constituido, además de por ésta, por todas las personas residentes en el concejo que se hallen inscritas en el correspondiente padrón municipal en el momento de celebrarse las elecciones.
+La Presidencia designará a la persona del Concejo Abierto que le sustituirá en casos de ausencia o enfermedad.
+4. La Junta estará formada por la Presidencia y por cuatro vocales en los concejos de población inferior a 1.000 habitantes, y por la Presidencia y seis vocales en los concejos de población igual o superior a 1.000 habitantes.
+La Presidencia designará a la persona de la Junta que haya de sustituirla en casos de ausencia o enfermedad.
+5. Podrán igualmente dotarse de una Junta aquellos Concejos regidos en régimen de Concejo Abierto que así lo decidan mediante acuerdo adoptado por la mayoría absoluta del número legal de sus miembros con anterioridad a la convocatoria de elecciones concejiles, debiendo comunicarse dicha circunstancia a la Administración de la Comunidad Foral.
+Se modifican los apartados 3 y 4 y se añade el 5 por el art. 1.8 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifican los apartados 2 y 3 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 39
+
+Artículo 39.
+1. Corresponde a los órganos de gestión y administración de los Concejos el ejercicio de las competencias relativas a las siguientes materias:
+a) La administración y conservación de su patrimonio, así como la regulación y ordenación de su aprovechamiento y utilización.
+b) La conservación, mantenimiento y vigilancia de los caminos rurales de su término y de los demás bienes de uso y de servicio públicos de interés exclusivo del Concejo.
+c) El otorgamiento de licencias urbanísticas conforme al planeamiento, previo informe preceptivo y vinculante del Ayuntamiento.
+d) Limpieza viaria.
+e) Alumbrado público.
+f) Conservación y mantenimiento de cementerios.
+g) Archivo concejil.
+h) Fiestas locales.
+2. La ejecución de obras y prestación de servicios de exclusivo interés para la comunidad concejil podrán ser realizadas por el concejo, a su exclusivo cargo, si el municipio no las realiza o las presta.
+Los concejos navarros podrán organizar auzalan, auzolan, artelan, o trabajo en beneficio de la comunidad concejil, para la construcción, conservación y mejora de caminos vecinales y rurales y, en general, para la realización de obras de su competencia, de conformidad con lo establecido en la normativa foral reguladora de las haciendas locales y con lo que disponga la correspondiente ordenanza.
+3. Podrán asimismo ejercer los Concejos las competencias que el municipio o el Gobierno de Navarra les delegue.
+4. En los ayuntamientos en cuyo término existan concejos, en aquellos asuntos que afecten directamente a los intereses de éstos, deberá asegurárseles el derecho a participar en el proceso de toma de decisiones y seguimiento de su gestión.
+Para asegurar esta participación, el ayuntamiento creará un órgano consultivo de participación concejil con el que se mantendrá una recíproca y constante información entre éste y los concejos de su término municipal, facilitándose el acceso del concejo, a través de este órgano, a los instrumentos de planificación y programación, pudiendo participar, con voz y sin voto, en los órganos de representación en los que hayan de debatirse asuntos que afecten al interés concejil de que se trate.
+Se modifica el apartado 2 y se añade el 4 por el art. 1.9 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 40
+
+Artículo 40.
+Con respecto a la administración del Concejo y al ejercicio de las competencias que ésta Ley reconoce a estas Entidades locales, el Presidente tendrá las atribuciones que la Ley confiere al Alcalde.
+
+### Artículo 41
+
+Artículo 41.
+1. La Junta o, en su caso, el Concejo abierto, tendrá las siguientes atribuciones:
+a) El control y fiscalización de los actos del Presidente.
+b) La aprobación de presupuestos y ordenanzas, la censura de cuentas y el reconocimiento de créditos, siempre que no exista dotación presupuestaria.
+c) La administración y conservación del patrimonio, y la regulación del aprovechamiento de los bienes comunales.
+d) El ejercicio de acciones judiciales y administrativas.
+e) La adopción de acuerdos sobre disposición de bienes, operaciones de crédito, expropiación forzosa, y cuantas atribuciones la ley asigne, con respecto a los municipios, al Pleno del Ayuntamiento.
+f) la presentación de moción de censura contra la persona que ostente la Presidencia del concejo, de forma análoga a lo previsto en la Ley Orgánica de Régimen Electoral General para los municipios.
+Dicha moción de censura deberá formalizarse ante la secretaría del ayuntamiento al que el concejo pertenezca y ser avalada por la firma de la mayoría absoluta de los miembros de la Junta, o, en el supuesto de que se trate de un Concejo Abierto, de la mayoría absoluta de las personas integrantes de la Asamblea vecinal.
+2. Los acuerdos de la Junta o del Concejo abierto sobre expropiación forzosa deberán ser ratificados por el Ayuntamiento respectivo.
+Se añade el apartado 1.f) por el art. 1.10 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 42
+
+Artículo 42.
+1. Podrán constituirse nuevos Concejos cuando concurran conjuntamente las siguientes condiciones:
+a) Contar con recursos suficientes para el cumplimiento de sus fines.
+b) No comportar la constitución una pérdida de calidad en la prestación de los servicios generales del municipio.
+c) Concurrir circunstancias de orden geográfico, histórico, social, económico o administrativo que requieran la constitución del nuevo Concejo.
+2. No podrán constituirse Concejos cuando la población no sea superior a 100 habitantes, excepto cuando la constitución derive de la extinción de municipio como consecuencia de alteraciones territoriales.
+
+### Artículo 42 bis
+
+Artículo 42 bis.
+1. Sin perjuicio de lo dispuesto en el apartado 2º del artículo 30 de la presente ley foral, en aras al cumplimiento de las obligaciones legales exigibles a todas las entidades locales y al objeto de aprovechar las estructuras administrativas existentes, los concejos podrán convenir con su ayuntamiento un sistema de gestión competencial compartida, de conformidad con el régimen previsto en el presente artículo, que deberá incluir, en todo caso, las siguientes determinaciones:
+a) Las decisiones sobre tasas, contribuciones especiales y cualesquiera otros recursos económicos concejiles serán adoptadas por la Junta concejil o, en su caso, el Concejo Abierto.
+b) Los recursos económicos concejiles se destinarán a aquellas actuaciones que decida la Junta concejil o, en su caso, el Concejo Abierto.
+c) Los contratos y demás procedimientos administrativos y contables precisos para ejecutar las actuaciones decididas por el concejo serán tramitados por su ayuntamiento.
+2. En cualquier caso, si el ayuntamiento no aceptara convenir con un concejo de su término el sistema de gestión competencial compartida, será la comarca a la que pertenezca ese ayuntamiento la que podrá asumirlo.
+3. En los concejos acogidos a este régimen, los procedimientos administrativos, presupuestarios y contables de aplicación a los actos de gestión y administración del patrimonio del concejo, tales como adquisición, enajenación, utilización, aprovechamiento, cambio de calificación jurídica y adscripción de comunales u otros inmuebles, serán tramitados en sede municipal, de conformidad con las decisiones adoptadas por la Junta concejil o, en su caso, el Concejo Abierto.
+4. Como contraprestación por los gastos de gestión, el ayuntamiento o, en su caso, la comarca, percibirá la cuantía o el porcentaje de ingresos concejiles que acuerde con el concejo, de conformidad con lo que se determine en el correspondiente convenio regulador.
+5. Si un concejo decide dejar de acogerse a este sistema de gestión competencial compartida, deberá acreditar previamente el cumplimiento de las obligaciones legales exigidas para poder tramitar procedimientos administrativos conforme a la legislación reguladora del procedimiento administrativo común.
+En tanto el concejo permanezca integrado en este sistema, se utilizarán los registros y archivos electrónicos del ayuntamiento para operar en nombre y por cuenta del concejo.
+Se añade por el art. 1.11 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 43
+
+Artículo 43.
+1. La constitución de nuevos Concejos se sujetará a las siguientes normas:
+1.ª La iniciativa podrá partir de los vecinos residentes en el territorio que haya de ser base de la Entidad, o del Ayuntamiento.
+2.ª La iniciativa vecinal requerirá petición suscrita por la mayoría de los vecinos, dirigida a la Administración de la Comunidad Foral.
+3.ª La iniciativa municipal requerirá la adopción de acuerdo con el voto favorable de las dos terceras partes del número de hecho, y en todo caso de la mayoría absoluta del número legal de miembros de la Corporación.
+4.ª Ejercitada la iniciativa, el procedimiento a seguir por la Administración de la Comunidad Foral exigirá el cumplimiento de los siguientes trámites:
+a) Información pública vecinal por plazo no inferior a un mes, si la iniciativa hubiese partido del Ayuntamiento.
+b) Audiencia en el mismo período al Ayuntamiento, si la iniciativa hubiese partido de los vecinos.
+5.ª No habrá lugar a la continuación del procedimiento si existiese oposición a la constitución del Concejo manifestada por escrito por la mayoría de los vecinos o por el Ayuntamiento mediante acuerdo adoptado por la mayoría a que se refiere la norma 3.ª
+6.ª La resolución definitiva corresponderá al Gobierno de Navarra, previo informe de la Comisión de Delimitación Territorial, y si fuese favorable a la constitución del nuevo Concejo, comportará la determinación de los límites territoriales a los que se extenderá la jurisdicción de la Entidad y la correspondiente separación del patrimonio. Se publicará en el «Boletín Oficial de Navarra», y se comunicará a la Administración del Estado a efectos de la inscripción en el Registro de Entidades Locales.
+2. La modificación de los Concejos estará sujeta a procedimiento análogo al establecido para la constitución.
+
+### Artículo 44
+
+Artículo 44.
+1. Los concejos se extinguen:
+a) Por petición escrita de la mayoría de los vecinos y vecinas residentes.
+b) Por petición del órgano de gobierno del concejo adoptado por la mayoría de dos tercios del número legal de componentes del mismo.
+c) Cuando no se hayan presentado candidaturas en dos procesos electorales concejiles sucesivos, sin que a efectos del cómputo se tenga en consideración la celebración de elecciones parciales.
+Cuando carezcan manifiestamente de recursos económicos, humanos o materiales suficientes para el ejercicio de sus competencias y el cumplimiento de los fines que le sean propios.
+2. Corresponde al Gobierno de Navarra, previa audiencia al concejo y ayuntamiento afectados e informe de la Comisión de Delimitación Territorial, decretar la extinción de los concejos. El decreto foral de extinción se publicará en el “Boletín Oficial de Navarra” y se dará traslado del mismo a la Administración del Estado a efectos de su inscripción en el Registro de entidades locales.
+Se modifica por el art. 1.12 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica el apartado 1 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## Sección 2
+
+Sección 2.ª Agrupaciones tradicionales
+
+### Artículo 45
+
+Artículo 45.
+1. Las entidades locales a las que hace referencia el artículo 3.1 c) de esta Ley Foral se regirán, en cuanto a su organización, funcionamiento, competencias y recursos económicos, por los Reglamentos, Ordenanzas, Convenios, Acuerdos, Sentencias o Concordias que tengan legalmente establecidos.
+2. En el ámbito de las materias propias de su competencia, tendrán las potestades y prerrogativas reconocidas a los municipios, con las siguientes particularidades:
+a) La potestad tributaria se referirá exclusivamente al establecimiento de los tributos que les reconozca la Legislación reguladora de las Haciendas Locales de Navarra, y que en todo caso alcanzará al establecimiento de tasas o precios públicos por la prestación de servicios o realización de actividades, y a la imposición de contribuciones especiales.
+b) La potestad expropiatoria corresponderá al municipio donde radiquen los bienes de necesaria ocupación, o a la Comunidad Foral si radican en varios, que la ejercerán a petición y en beneficio de la Agrupación.
+3. Las agrupaciones tradicionales podrán asumir, en régimen de delegación, el ejercicio de todas las competencias municipales relativas a la prestación de servicios o realización de actividades, siempre que dichas funciones no hayan sido asumidas por la comarca correspondiente.
+4. En defecto de disposiciones específicas, su régimen económico, en cuanto a la formación de presupuestos, rendición de cuentas, liquidaciones, inventarios y balances, deberá ajustarse a lo establecido para los municipios.
+Se modifica el apartado 3 por el art. 1.13 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifican el apartado 1 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## Sección 3
+
+Sección 3.ª Agrupaciones de municipios
+
+### Artículo 46
+
+Artículo 46.
+(Suprimido).
+Se suprime por el art. 1.14 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica el apartado 3 por el art. único.2 de la Ley Foral 23/2014, de 2 de diciembre. Ref. BOE-A-2014-13625
+ Se modifican los apartados 2 y 3 por la disposición adicional 3 de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+ Se modifican los apartados 2 y 3 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## Sección 4
+
+Sección 4.ª Mancomunidades
+
+### Artículo 47
+
+Artículo 47.
+1. Los Municipios de Navarra pueden asociarse entre sí o con Municipios pertenecientes a otras Comunidades Autónomas, para la ejecución en común de obras y para la prestación de servicios determinados de su competencia.
+2. Las Mancomunidades tienen personalidad y capacidad jurídica para el cumplimiento de sus fines específicos, y se rigen por sus Estatutos propios.
+3. El objeto de las Mancomunidades no podrá incluir todas las competencias de los municipios asociados.
+4. Las potestades y prerrogativas reconocidas a los Municipios serán también de aplicación a las Mancomunidades de conformidad con lo establecido en los Estatutos. En defecto de previsión estatutaria, les corresponderán todas las potestades y prerrogativas de los Municipios, siempre que sean precisas para el cumplimiento de su finalidad, y de acuerdo con la legislación aplicable a cada una de dichas potestades, sin perjuicio de que pueda la Comunidad Foral de Navarra ejercer la potestad expropiatoria, cuando los bienes de necesaria ocupación radiquen en varios Municipios, a petición y en beneficio de la correspondiente Mancomunidad.
+Se modifica el apartado 1 y 4 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 48
+
+Artículo 48.
+Los Estatutos de las Mancomunidades han de regular el ámbito territorial de la Entidad, los municipios que la componen, la denominación, el objeto y la competencia, los órganos de gobierno y el lugar donde radiquen, el número y la forma de designación de los representantes de las Entidades mancomunadas en los órganos de gobierno, las normas de funcionamiento, los recursos económicos, el plazo de duración, las causas de disolución, y cuantos otros extremos sean necesarios para el funcionamiento de la Mancomunidad.
+
+### Artículo 49
+
+Artículo 49.
+Para la iniciación del procedimiento de constitución de las Mancomunidades será necesaria la adopción de acuerdo por los Plenos de los Ayuntamientos interesados promoviendo dicha constitución. Este acuerdo requerirá mayoría simple.
+
+### Artículo 50
+
+Artículo 50.
+1. La aprobación de los Estatutos se ajustará a las siguientes reglas:
+1.ª Elaboración inicial del Proyecto por los concejales de todos los Municipios promotores, constituidos en Asamblea. A tal efecto, y para la realización de los estudios previos que sean oportunos, podrá formarse una comisión compuesta por un representante como mínimo, de cada una de las entidades que hayan de integrarse en la Mancomunidad.
+2.ª Exposición del Proyecto por periodo de un mes en las secretarías de los Ayuntamientos, previo anuncio en los respectivos tablones, a fin de que los vecinos puedan examinarlo y formular alegaciones, reparos u observaciones.
+3.ª Resolución de las alegaciones, reparos u observaciones, por la asamblea, y elaboración definitiva del Proyecto de Estatutos.
+4.ª Informe de la Administración de la Comunidad Foral sobre el Proyecto aprobado por la asamblea.
+Será preceptiva la previa autorización de la Comunidad Foral de Navarra para la constitución de Mancomunidades compuestas por Municipios de la Comunidad Foral de Navarra y de otras Comunidades Autónomas.
+5.ª Aprobación de los Estatutos por los plenos de los Ayuntamientos de las entidades locales que decidan integrarse en la Mancomunidad, mediante acuerdo adoptado por mayoría absoluta, y designación de sus representantes en el órgano supremo de la misma.
+6.ª Publicación de los Estatutos en el Boletín Oficial de Navarra.
+2. Las aprobaciones del proyecto de Estatutos por parte de las Entidades locales, recaerán en su caso, sobre la totalidad del texto sometido a su consideración, sin que puedan plantearse modificaciones al mismo.
+No pertenecerán a la Mancomunidad aquellas Entidades que no aprueben sus Estatutos.
+3. La modificación de los Estatutos y la disolución de la Mancomunidad, estarán sujetas a las reglas establecidas para su aprobación, excepción hecha de las actuaciones previstas en las reglas 1.ª y 3.ª, que serán realizadas por el órgano supremo de la Mancomunidad, y de la aprobación definitiva a que se refiere la regla 5.ª, para la que se precisará, únicamente, la votación favorable en las dos terceras partes de las Entidades locales integrantes.
+Se modifica el apartado 1 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 51
+
+Artículo 51.
+1. Los órganos de gobierno de las Mancomunidades deben ser representativos, de los Ayuntamientos mancomunados y ostentarán las atribuciones que los Estatutos les confieran. En todo caso, la Junta general u órgano superior de la Entidad ostentará las atribuciones que, en los Ayuntamientos, corresponden al Pleno.
+2. El funcionamiento de las Mancomunidades se ajustará a lo dispuesto en sus Estatutos. En todo caso, los acuerdos relativos a materias que, en los Ayuntamientos requieren una mayoría cualificada, deberán adoptarse en las Mancomunidades con igual mayoría.
+3. El régimen económico de las Mancomunidades, en cuanto a la formación de presupuestos, rendición de cuentas, liquidaciones, inventarios y balances, deberá ajustarse a lo establecido para los municipios.
+
+### Artículo 52
+
+Artículo 52.
+1. Constituida una Mancomunidad, podrán adherirse a ella otros Municipios con sujeción a lo dispuesto en los Estatutos.
+La adhesión a Mancomunidades en las que se integren Municipios de otras Comunidades Autónomas precisará de autorización previa por la Comunidad Foral de Navarra.
+2. Asimismo, y con sujeción a las previsiones estatutarias, podrá separarse de la Mancomunidad cualquiera de las entidades locales que la integren.
+3. Si los Estatutos no contuviesen previsiones relativas a la adhesión de nuevos miembros a la Mancomunidad o a la separación de los que la integrasen, tales actuaciones requerirán el cumplimiento de las reglas establecidas para la modificación de Estatutos.
+Se modifica el apartado 1 por el art. 1 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 53
+
+Artículo 53.
+(Suprimido).
+Se suprime por el art. 1.15 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+## CAPÍTULO III
+
+Miembros de las Corporaciones locales de Navarra
+
+### Artículo 54
+
+Artículo 54.
+1. La determinación del número de miembros de los Ayuntamientos de Navarra, el procedimiento para su elección, la duración de su mandato y los supuestos de inelegibilidad e incompatibilidad se regirán por lo dispuesto en la legislación general.
+2. Cuando concurra la causa de incompatibilidad a que se refiere el artículo 178.2 b) de la Ley Orgánica 5/1985, de 19 junio, del Régimen Electoral General, se observarán las siguientes normas:
+a) Los funcionarios de las Administraciones Públicas de Navarra que accedan al cargo retribuido de Alcalde o Concejal, de dedicación exclusiva, pasarán a la situación de servicios especiales y quedarán sujetos al régimen establecido en el artículo 24 del Estatuto del Personal al Servicio de las Administraciones Públicas de Navarra.
+Los funcionarios que opten por el cargo de Alcalde o Concejal, sin dedicación exclusiva, pasarán a la situación de servicios especiales, con derecho a la reserva de la plaza y destino que ocupasen, a la carrera administrativa y a la participación en la provisión de puestos de trabajo en los términos establecidos en el Estatuto de Personal al Servicio de las Administraciones Públicas de Navarra, y percibirán las retribuciones del puesto o cargo efectivo que desempeñen y no las que les correspondan como funcionarios.
+b) Los contratados laborales que opten por el cargo de Alcalde o Concejal pasarán a la situación prevista en su respectivo convenio, o subsidiariamente, a la que, según el caso, se establece en el apartado anterior.
+
+### Artículo 55
+
+Artículo 55.
+1. La determinación del número de miembros de los órganos de gobierno y administración de los Concejos, y la elección o designación de los mismos, se regirán por lo establecido en el artículo 38 de esta Ley Foral.
+2. Los supuestos de inelegibilidad e incompatibilidad establecidos en la legislación general en relación con los Concejales serán de aplicación a los miembros de las Juntas concejiles y a los Presidentes de los Concejos abiertos.
+
+### Artículo 56
+
+Artículo 56.
+1. Las cantidades que las Corporaciones locales de Navarra pueden consignar en sus presupuestos con destino al abono de las retribuciones e indemnizaciones a sus miembros por el ejercicio de sus cargos no pueden exceder de los límites que con carácter general se establezcan.
+2. Los miembros de las Corporaciones locales serán indemnizados por las mismas de los daños y perjuicios que se causen en su persona o bienes a consecuencia del ejercicio de su cargo.
+3. La Administración de la Comunidad Foral de Navarra participará en la financiación del sistema retributivo de los cargos electivos municipales mediante sistemas de colaboración económica con los Ayuntamientos.
+Se añade el apartado 3 por el art. 3 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 57
+
+Artículo 57.
+En lo no previsto en la legislación de la Comunidad Foral son de aplicación a los miembros de las Corporaciones locales de Navarra las normas de carácter general reguladoras del estatuto de los miembros de las Corporaciones locales del resto del Estado.
+
+## TÍTULO II
+
+Relaciones Interadministrativas
+
+## CAPÍTULO I
+
+Disposiciones Comunes
+
+### Artículo 58
+
+Artículo 58.
+Las relaciones entre la Administración de la Comunidad Foral y las Entidades locales de Navarra deberán estar basadas en los principios de coordinación, cooperación, asistencia, y en el de información mutua, con respeto a los ámbitos competenciales respectivos.
+
+### Artículo 59
+
+Artículo 59.
+Las Entidades locales articularán y potenciarán sus relaciones mutuas utilizando técnicas de cooperación y colaboración que les permitan obtener una mayor eficacia y rentabilidad en su gestión.
+
+## CAPÍTULO II
+
+Relaciones entre la Administración de la Comunidad Foral y las Entidades locales de Navarra
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 60
+
+Artículo 60.
+1. La Administración de la Comunidad Foral está facultada para recabar y obtener información concreta sobre la actividad de las Entidades locales, a fin de comprobar la efectiva aplicación de la legislación vigente en materias que corresponden a Navarra, pudiendo solicitar incluso la exhibición de expediente y la emisión de informes.
+2. Asimismo, las Entidades locales tendrán acceso a la información de cuantos asuntos les afecten y podrá ser solicitada por sí mismas o a través de las federaciones o asociaciones que legalmente se constituyan para la defensa de sus intereses.
+3. La Administración de la Comunidad Foral debe facilitar el acceso de los representantes legales de las Entidades locales a la información sobre los instrumentos de planificación, programación y gestión de obras y servicios que les afecten directamente.
+
+## Sección 2
+
+Sección 2.ª Cooperación económica. Planes de inversión
+
+### Artículo 61
+
+Artículo 61.
+1. Como instrumento de cooperación económica con las Entidades locales, el Gobierno de Navarra, en el marco de la correspondiente Ley Foral habilitadora, establecerá planes de inversión que tendrán como finalidad principal garantizar la cobertura en todo el ámbito de la Comunidad Foral de los servicios municipales obligatorios.
+Este plan podrá ser financiado por las Entidades interesadas, por las aportaciones del Gobierno de Navarra y por aquellas otras que legalmente procedan.
+2. Las directrices generales del plan, así como las líneas de programación y planificación corresponderán al Gobierno de Navarra, previa audiencia de la Comisión Foral de Régimen Local.
+3. Asimismo, el Gobierno de Navarra y las Entidades locales podrán cooperar económicamente, tanto en la prestación de servicios locales como en asuntos de interés común, a través de convenios, consorcios y cualesquiera otros instrumentos.
+
+## Sección 3
+
+Sección 3.ª Cooperación jurídica, técnica y administrativa
+
+### Artículo 62
+
+Artículo 62.
+La Administración de la Comunidad Foral impulsará la prestación de servicios de asistencia y cooperación jurídica, económica, administrativa y técnica al objeto de potenciar la capacidad de gestión de las entidades locales a través de los instrumentos que estime necesarios. A estos efectos, se fomentará la asunción de estos servicios por la comarca correspondiente.
+Se modifica por el art. 1.16 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 63
+
+Artículo 63.
+La Administración de la Comunidad Foral y las Entidades locales podrán celebrar convenios de cooperación para la ejecución de obras y prestación de servicios de interés común.
+
+## Sección 4
+
+Sección 4.ª Comisión Foral de Régimen Local
+
+### Artículo 64
+
+Artículo 64.
+1. La Comisión Foral de Régimen Local es el órgano permanente para la colaboración entre la Administración de la Comunidad Foral y la Administración Local.
+2. Esta Comisión tendrá carácter deliberante y consultivo.
+
+### Artículo 65
+
+Artículo 65.
+1. La Comisión Foral de Régimen Local estará presidida por la Consejera o Consejero del Gobierno de Navarra que ostente la competencia en materia de régimen local y su composición se determinará reglamentariamente. En todo caso, formarán parte de la misma:
+a) Siete representantes de la Administración de la Comunidad Foral.
+b) Quince representantes de los municipios, concejos y comarcas, designados por sus entidades asociativas. A tal fin, habrá de garantizarse la representación en la Comisión de cada una de estas tipologías de entidades locales y así mismo, que exista al menos un representante de las entidades locales que formen parte de cada comarca.
+Contará, así mismo, con una persona que ejercerá la labor de secretaría, designada por la Presidencia de entre los integrantes de la Comisión, y de una Vicepresidencia, designada también por la Presidencia de entre los integrantes de la representación local y a propuesta de la misma.
+2. La composición de la Comisión Permanente será fijada reglamentariamente.
+3. A las sesiones que celebre, podrán asistir técnicos, en calidad de tales, designados por las partes.
+Se modifica el apartado 1 por el art. 1.17 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 66
+
+Artículo 66.
+La Comisión se reunirá, al menos, una vez al mes y, en todo caso, siempre que la convoque su Presidente, por propia iniciativa o a petición de la mayoría de los representantes de las Entidades locales.
+
+### Artículo 67
+
+Artículo 67.
+Los órganos de la Comisión adoptarán sus acuerdos por consenso, de ambas representaciones. La representación de la Administración de la Comunidad Foral expresará su voluntad a través de su Presidente y la de las Entidades locales se obtendrá por la mayoría absoluta de sus miembros.
+
+### Artículo 68
+
+Artículo 68.
+El Secretario levantará las oportunas actas de las sesiones en las que se recogerán acuerdos y motivos de disenso, en su caso, formulados sobre los asuntos del orden del día.
+
+### Artículo 69
+
+Artículo 69.
+La Comisión Foral de Régimen Local tendrá atribuidas las siguientes funciones:
+1.ª Informar los anteproyectos de Ley Foral y demás disposiciones generales sobre materias que afecten a la Administración Local de Navarra.
+2.ª Informar sobre las cuestiones que le sean planteadas por su Presidente.
+3.ª Efectuar propuestas y sugerencias al Gobierno de Navarra en materia de Administración Local, y en especial sobre:
+a) Dotación y sistemas de distribución de la participación de las Haciendas Locales en los impuestos de Navarra.
+b) Distribución de las subvenciones, créditos y transferencias de la Administración de la Comunidad Foral a la Administración Local.
+c) Previsiones de los Presupuestos de Navarra que afecten a las Entidades locales.
+d) Atribución y delegación de competencias en favor de las Entidades locales.
+e) Criterios de coordinación y colaboración entre el Gobierno de Navarra y las Entidades locales.
+4.ª Cualesquiera otras que se le atribuyan por las leyes.
+
+## CAPÍTULO III
+
+Relaciones entre las Administraciones locales
+
+## Sección 1
+
+Sección 1.ª Cooperación interlocal
+
+### Artículo 70
+
+Artículo 70.
+1. Las Entidades locales de Navarra podrán cooperar entre sí a través de convenios o acuerdos que tengan por finalidad la ejecución en común de obras, la prestación de servicios comunes o la utilización conjunta de bienes o instalaciones.
+2. Dichos convenios o acuerdos contendrán los derechos y obligaciones de las partes suscribientes, las precisiones oportunas sobre su duración y disolución y determinarán los mecanismos a utilizar para la realización de las actuaciones conjuntas y la resolución de los conflictos que pudieran plantearse.
+
+## Sección 2
+
+Sección 2.ª Organizaciones asociativas de Entidades locales
+
+### Artículo 71
+
+Artículo 71.
+1. Las Entidades locales podrán asociarse en Federaciones o Asociaciones para la protección y promoción de sus intereses comunes.
+2. Dichas organizaciones tendrán personalidad y capacidad jurídica plena para el cumplimiento de sus finalidades y se regirán por sus Estatutos, que habrán de prever necesariamente los aspectos siguientes:
+a) Denominación de la organización.
+b) Determinación de sus finalidades.
+c) Órganos de gobierno, que serán representativos de las Entidades locales asociadas.
+d) Régimen de funcionamiento y sistema de adopción de acuerdos.
+e) Procedimiento de admisión de nuevos miembros y pérdida de la condición de tales.
+f) Derechos de las Entidades locales asociadas que, en todo caso, han de incluir su participación en las tareas asociativas.
+g) Recursos económicos y su gestión.
+
+### Artículo 72
+
+Artículo 72.
+1. Las Federaciones o Asociaciones designarán, en proporción a su implantación en la Comunidad Foral, los representantes de las Entidades locales en los Organismos de la Administración de la Comunidad Foral que se creen para todo el ámbito de la misma y que hayan de incluir representación local.
+2. Las Federaciones o Asociaciones gozarán de las subvenciones y ayudas económicas que se establezcan en los Presupuestos Generales de Navarra.
+
+## TÍTULO III
+
+Régimen de funcionamiento de las Entidades locales de Navarra. Información y participación ciudadanas
+
+## CAPÍTULO I
+
+Funcionamiento de las Entidades locales de Navarra
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 73
+
+Artículo 73.
+1. Los órganos colegiados de las Entidades locales de Navarra funcionan en régimen de sesiones ordinarias, de periodicidad preestablecida, y extraordinaria, que pueden ser, además, urgentes.
+2. El régimen de sesiones de los órganos colegiados puede ser objeto de un Reglamento orgánico aprobado por la Entidad local.
+
+### Artículo 74
+
+Artículo 74.
+Las sesiones de las Corporaciones locales se celebrarán en la Casa Consistorial o sede de la Entidad local, o en edificio habilitado en caso de fuerza mayor.
+
+### Artículo 75
+
+Artículo 75.
+1. La asistencia de los miembros de las corporaciones a las sesiones tiene carácter obligatorio, salvo causa justificada, que deberán comunicar al Presidente.
+2. Los Presidentes de las corporaciones locales podrán sancionar con multa a los miembros de las mismas por falta no justificada de asistencia a las sesiones o incumplimiento reiterado de sus obligaciones.
+Las multas no podrán ser superiores a la cantidad que la corporación determine en su Reglamento orgánico, dentro de los límites que resultan de la escala que a continuación se establece, y que regirá en ausencia de disposición de la entidad local:
+– En entidades locales de población no superior a 5.000 habitantes, hasta 60 euros.
+– En las de entre 5.001 y 10.000, hasta 90 euros.
+– En las de entre 10.001 y 100.000, hasta 120 euros.
+– En las de más de 100.000, hasta 150 euros.
+Se modifica el apartado 2 por el art. 4 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 76
+
+Artículo 76.
+1. Los miembros electos de las entidades locales tendrán acceso a cuantos documentos y archivos obren en las mismas y resulten precisos para el desarrollo de su función.
+2. Las entidades locales podrán regular el ejercicio de este derecho en el correspondiente Reglamento. La petición o solicitud habrá de ser resuelta motivadamente por el Alcalde o Presidente o por la Junta de Gobierno Local en los cinco días naturales siguientes a la fecha en que se hubiera presentado en el Registro de la entidad local. Quien negase información a los miembros de la corporación incurrirá en responsabilidad.
+Se modifica por el art. 4 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+ Se modifica por el art. único de la Ley Foral 15/2002, de 31 de mayo. Ref. BOE-A-2002-12609
+
+## Sección 2
+
+Sección 2.ª Funcionamiento de los Ayuntamientos
+
+### Artículo 77
+
+Artículo 77.
+1. El Pleno celebrará sesión ordinaria como mínimo cada mes en los Ayuntamientos de municipios de más de 20.000 habitantes; cada dos meses en los Ayuntamientos de los municipios de una población entre 5.001 habitantes y 20.000 habitantes; y cada tres meses en los municipios de hasta 5.000 habitantes.
+2. Celebrará sesión extraordinaria:
+a) Cuando lo decida el Presidente.
+b) Cuando lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún Concejal pueda solicitar más de tres anualmente.
+c) Cuando lo determine una disposición legal.
+3. En el caso a que se refiere el apartado b) del número anterior, la celebración de la sesión no podrá demorarse por más de quince días hábiles desde que fuera solicitada. La convocatoria incluirá el orden del día propuesto por quienes hayan adoptado la iniciativa, pudiendo el Presidente incluir también otros asuntos, si lo consintieren los solicitantes de la sesión.
+Si no se celebrase el Pleno extraordinario solicitado por el número de concejales indicado dentro del plazo señalado, quedará automáticamente convocado para el quinto día hábil siguiente al de la finalización de dicho plazo, a las doce horas, lo que será notificado por el Secretario de la corporación a todos los miembros de la misma al día siguiente de la finalización del plazo citado anteriormente. En ausencia del Presidente o de quien legalmente haya de sustituirle, el Pleno quedará válidamente constituido siempre que concurra el quórum requerido en el artículo 79.1 de esta Ley Foral, en cuyo caso será presidido por el miembro de la corporación de mayor edad entre los presentes.
+Se modifica el apartado 3 por el art. 4 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+ Se modifica por el art. único de la Ley Foral 15/2002, de 31 de mayo. Ref. BOE-A-2002-12609
+
+### Artículo 78
+
+Artículo 78.
+1. La sesiones plenarias serán convocadas por el Presidente, al menos, con dos días hábiles de antelación a la fecha prevista para realizar la sesión, salvo las extraordinarias que lo sean con carácter urgente, cuya convocatoria con este carácter deberá ser ratificada por el Pleno, por mayoría simple.
+2. La convocatoria contendrá la fecha, hora y lugar de celebración de la sesión, así como el correspondiente orden del día.
+La documentación íntegra de los asuntos incluidos en el orden del día, que deberá servir de base al debate y, en su caso, votación, deberá estar a disposición de los miembros de la Corporación, en la secretaría, desde el mismo día de la convocatoria.
+Los expedientes y documentación a que alude el párrafo anterior deberán ir obligatoriamente foliados y numerados y si contienen informes expedidos por funcionarios o peritos necesariamente suscritos por los mismos.
+3. Cuando concurran circunstancias extraordinarias, el Presidente podrá decretar la anulación de la convocatoria, que será motivada, y deberá comunicarse a los miembros de la Corporación por el procedimiento más urgente.
+No obstante lo dispuesto en el párrafo anterior en ningún caso el Presidente podrá anular la nueva convocatoria de una sesión que ya hubiese sido objeto de anulación ni la convocatoria realizada por lo dispuesto en los apartados b) y c) del número 2 del artículo anterior.
+4. No obstante lo dispuesto en el número 1, pueden celebrarse sesiones extraordinarias urgentes, sin convocatoria, cuando se hallen presente todos los miembros de la Corporación y el Secretario, y aquellos acuerden su celebración por unanimidad.
+
+### Artículo 79
+
+Artículo 79.
+1. Las sesiones no pueden iniciarse ni celebrarse sin la presencia del Presidente y del Secretario, o quienes legalmente les sustituyan, y requiere la asistencia de un tercio del número legal de miembros de la Corporación, que nunca podrá ser inferior a tres. Este quórum deberá mantenerse durante toda la sesión.
+2. Cuando para la adopción de determinados acuerdos fuere preceptiva la votación favorable por una determinada mayoría cualificada y el número de asistentes a la sesión fuese inferior a ella, el asunto quedará sobre la mesa para su debate y decisión en posterior sesión en la que se alcance el número de asistentes requerido.
+3. Los miembros de las corporaciones locales podrán realizar grabaciones sonoras de las sesiones públicas, dando cuenta previa al Presidente de la Corporación.
+Se añade el apartado 3 por el art. único de la Ley Foral 15/2002, de 31 de mayo. Ref. BOE-A-2002-12609
+
+### Artículo 80
+
+Artículo 80.
+1. Las sesiones del Pleno son públicas. No obstante, podrán ser secretos el debate y votación de aquellos asuntos que puedan afectar al derecho fundamental de los ciudadanos a que se refiere el artículo 18.1 de la Constitución, cuando así se acuerde por mayoría absoluta.
+2. El público no podrá participar en los debates ni intervenir en las sesiones. No obstante, terminada la sesión del Pleno, el Presidente podrá establecer un turno de ruegos y preguntas por el público asistente sobre temas concretos de interés municipal. Corresponderá al Presidente ordenar y cerrar este turno.
+
+### Artículo 81
+
+Artículo 81.
+1. En las sesiones extraordinarias no se tratarán otros asuntos que los incluidos en el orden del día, a no ser que sean de carácter urgente, estén presentes todos los miembros de la Corporación y así lo acuerden por unanimidad.
+2. Salvo casos de reconocida urgencia, que deberá ser necesariamente motivada y ratificada por la Corporación por mayoría absoluta, no se tratarán en las sesiones ordinarias otros asuntos que los incluidos en el orden del día.
+
+### Artículo 82
+
+Artículo 82.
+Los miembros de las Corporaciones que formen parte de las comisiones de estudio, informe o consulta que existan en los Ayuntamientos podrán formular votos particulares a los dictámenes o informes elaborados por aquéllas. Los demás miembros de la Corporación podrán formular enmiendas antes de que el asunto se someta a votación en el Pleno.
+Redactado conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Artículo 83
+
+Artículo 83.
+1. En los Plenos ordinarios la parte dedicada al control de los demás órganos de la Corporación deberá presentar sustantividad propia y diferenciada de la parte resolutiva, debiéndose garantizar de forma efectiva en su funcionamiento y, en su caso, en su regulación, la participación de todos los grupos municipales en la formulación de ruegos, preguntas y mociones.
+2. Los miembros de las Corporaciones podrán formular en el Pleno ruegos o preguntas, oralmente o por escrito.
+3. Las preguntas formuladas oralmente en una sesión serán contestadas en la sesión siguiente, si el interpelado no da respuesta inmediata, y las formuladas por escrito con veinticuatro horas de antelación, como mínimo, del inicio de la sesión, se contestarán en el transcurso de la misma, salvo que el destinatario de la pregunta solicite el aplazamiento para la siguiente sesión.
+Se modifica por el art. único de la Ley Foral 15/2002, de 31 de mayo. Ref. BOE-A-2002-12609
+
+### Artículo 84
+
+Artículo 84.
+1. Los asuntos serán objeto de debate antes de ser sometidos, a votación, salvo que nadie pida la palabra.
+2. Se considerarán aprobadas por asentimiento las proposiciones del Presidente que no originen objeción u oposición. En otro caso, se efectuará votación conforme a lo establecido en los dos artículos siguientes.
+3. Los grupos que no hayan intervenido en el debate de una cuestión, y los miembros de la Corporación que no hubieran votado en el sentido de su grupo, podrán explicar el voto.
+
+### Artículo 85
+
+Artículo 85.
+1. La adopción de acuerdos se produce mediante votación de los miembros de la Corporación asistentes a la correspondiente sesión.
+2. Las votaciones pueden ser ordinarias, nominales o secretas.
+Generalmente se utilizará la votación ordinaria, salvo que la corporación acuerde para un caso concreto la votación nominal.
+Podrá ser secreta la votación cuando lo sea el debate de un asunto y así lo acuerde la corporación.
+Serán necesariamente nominales la votación de la moción de censura al Alcalde y la votación sobre cuestión de confianza planteada por el mismo, de conformidad con lo dispuesto en la legislación de régimen electoral general.
+Se modifica el apartado 2 por el art. 4 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 86
+
+Artículo 86.
+1. El voto puede emitirse en sentido afirmativo o negativo, pudiendo los miembros de las Corporaciones locales abstenerse de votar.
+2. Las votaciones, una vez iniciadas, no pueden interrumpirse, y durante el desarrollo de ellas ningún miembro de la Corporación podrá incorporarse a la sesión ni abandonarla.
+3. La ausencia de uno o varios Concejales, una vez iniciada la deliberación del asunto, equivale a la abstención a efectos de la votación correspondiente si no estuviesen presentes en el momento de realizarse ésta.
+4. El Pleno del Ayuntamiento podrá aprobar la inclusión en su Reglamento Orgánico de los supuestos de delegación de voto de los concejales, de acuerdo con lo siguiente:
+a) La concejala que por razón de su maternidad no pueda asistir a las sesiones podrá delegar su voto en otro concejal durante las seis semanas siguientes al parto.
+La baja por paternidad, la lactancia o el embarazo no son causas para el ejercicio del voto delegado, salvo el supuesto de embarazo de riesgo debidamente certificado por el médico responsable.
+b) El concejal que debido a su hospitalización o por enfermedad grave debidamente acreditadas, no pueda asistir a las sesiones podrá delegar su voto en otro concejal.
+c) La acreditación de la baja médica se efectuará mediante la presentación del correspondiente certificado médico firmado y con indicación del número de colegiado, en el que constará la gravedad de la enfermedad que se padece.
+d) El voto delegado solo será posible en las sesiones plenarias, nunca en comisiones o sesiones de trabajo o en otras circunstancias que requieran votación.
+e) Ningún concejal podrá ostentar más de un voto delegado.
+f) El número de votos delegados no podrá superar, bajo ninguna circunstancia, la mitad del total de concejales miembros de la Corporación.
+g) El periodo de delegación de voto no podrá ser, en ningún caso, superior a un año.
+Se añade el apartado 4 por el art. único de la Ley Foral 11/2013, de 12 de marzo. Ref. BOE-A-2013-3675
+
+### Artículo 87
+
+Artículo 87.
+1. Los acuerdos se adoptarán, como regla general, por mayoría simple de los miembros presentes. Existe mayoría simple cuando los votos afirmativos son más que los negativos.
+En el caso de votaciones con resultado de empate, se efectuará una nueva votación, y si persistiese el empate, decidirá el voto de calidad del Presidente, sin perjuicio del deber de abstención en los supuestos previstos en la ley.
+2. Los acuerdos de los Ayuntamientos de Navarra se adoptarán por mayoría cualificada en los casos en que la legislación general lo exija para los del resto del Estado, y en aquéllos en que así se establezca en la legislación privativa de Navarra.
+
+## Sección 3
+
+Sección 3.ª Funcionamiento de los Concejos
+
+### Artículo 88
+
+Artículo 88.
+1. La Junta de los Concejos se reunirá con carácter ordinario una vez al trimestre, como mínimo, en los días fijados por la misma, y con carácter extraordinario siempre que sea convocada por el Presidente o solicitado por la mayoría de los miembros mediante escrito dirigido al Presidente.
+2. El régimen de sesiones de las Juntas se acomodará a lo dispuesto con carácter general para el Pleno de los Ayuntamientos.
+
+### Artículo 89
+
+Artículo 89.
+El régimen de funcionamiento de los Concejos regidos en régimen de Concejo abierto se sujetará a lo establecido para las asambleas vecinales de los municipios que se gobiernan y administran en dicho régimen.
+
+### Artículo 90
+
+Artículo 90.
+(Suprimido).
+Se suprime por el art. 1.18 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+## Sección 4
+
+Sección 4.ª Funcionamiento de las restantes entidades locales
+
+### Artículo 91
+
+Artículo 91.
+El funcionamiento de las Mancomunidades y demás entidades locales de Navarra se sujetará a lo previsto en los Estatutos por los que se rijan o en las disposiciones que las creen, y supletoriamente por lo previsto en esta Ley Foral con carácter general.
+
+## CAPÍTULO II
+
+Información y participación ciudadanas
+
+### Artículo 92
+
+Artículo 92.
+1. Las entidades locales de Navarra facilitarán la más amplia información sobre su actividad y la participación de todos los ciudadanos en la vida local. Asimismo, fomentarán las formas asociativas y promoverán organismos de participación de los ciudadanos en la Administración local.
+Las relaciones entre las asociaciones y organismos de participación y las entidades locales serán reguladas por el Reglamento orgánico.
+2. Las formas, medios y procedimientos de participación que las entidades locales establezcan en ejercicio de su potestad de autoorganización, no podrán menoscabar las facultades de decisión que corresponden a los órganos representativos regulados por la ley.
+3. Para el desarrollo de las formas de participación señaladas en el número anterior, se facilitará a dichas asociaciones y organismos la más amplia información sobre sus actividades, y se impulsará su participación en la gestión de la entidad en los términos de lo dispuesto en el número anterior. A tales efectos, las asociaciones de participación ciudadana reconocidas por la ley podrán ser declaradas de utilidad pública.
+4. Asimismo, las entidades locales, y especialmente los Municipios, deberán impulsar la utilización interactiva de las tecnologías de la información y la comunicación para facilitar la participación y la comunicación con los vecinos, para la presentación de documentos y para la realización de trámites administrativos, de encuestas y de consultas ciudadanas en el marco de la Ley Foral que las regula.
+5. Cuando se trate de procedimientos y trámites para el acceso y ejercicio de una actividad de servicios incluida en el ámbito de la normativa reguladora sobre el libre acceso de las actividades de servicios y su ejercicio, los prestadores podrán realizarlos, por medio de una ventanilla única, por vía electrónica y a distancia, salvo que se trate de la inspección del lugar o del equipo que se utiliza en la prestación del servicio.
+Asimismo, las entidades locales promoverán que los prestadores de servicios puedan a través de la ventanilla única obtener toda la información y formularios relevantes para el acceso y ejercicio de su actividad y conocer las resoluciones y resto de comunicaciones de las autoridades competentes en relación con sus solicitudes.
+6. La Administración de la Comunidad Foral deberá colaborar con las entidades que, por su insuficiente capacidad económica y de gestión, no puedan desarrollar en grado suficiente el deber establecido en los apartados 4 y 5 de este artículo.
+7. La Administración de la Comunidad Foral garantizará el cumplimiento de la normativa vigente en cuanto a los derechos lingüísticos de la ciudadanía navarra en la utilización de la ventanilla única por vía electrónica.
+Se modifica por el art. único.1 de la Ley Foral 7/2010, de 6 de abril. Ref. BOE-A-2010-8423
+ Se modifica por el art. 4 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 93
+
+Artículo 93.
+1. Los ciudadanos tendrán derecho a asistir a las sesiones públicas de los órganos de las Entidades locales.
+2. Las convocatorias de las sesiones deberán ser anunciadas en el tablón de edictos de la Entidad simultáneamente a su notificación a los miembros de la Corporación.
+
+### Artículo 94
+
+Artículo 94.
+1. Sin perjuicio de su notificación o publicación en los casos y forma previstos por la ley, las Entidades locales deberán publicar en el tablón de edictos un extracto de las resoluciones y acuerdos que adopten sus órganos de gobierno y administración.
+2. Además, podrán publicar un boletín de información general sobre la gestión local y utilizar otros medios de naturaleza gráfica o audiovisual de conformidad con la legislación específica.
+
+### Artículo 95
+
+Artículo 95.
+1. Todos los ciudadanos tienen derecho a obtener copias y certificaciones acreditativas de las resoluciones y acuerdos adoptados por las Corporaciones locales, y de sus antecedentes. Dichas copias y certificaciones deberán entregarse en el plazo de quince días.
+2. Tendrán, asimismo, los ciudadanos derecho a consultar la documentación, archivos y registros de la Corporación, si la documentación tiene la condición de pública.
+3. El ejercicio de los derechos a que se refieren los dos números anteriores se realizará conforme a criterios de racionalidad, y la expedición de copias y la consulta de documentación, archivos y registros, además, de forma que quede garantizada la integridad de los documentos y que no cause perturbación grave en los servicios.
+La denegación o limitación de tales derechos, en todo cuanto afecte a la seguridad y defensa del Estado, a la averiguación de los delitos o a la intimidad de las personas, deberá verificarse mediante resolución motivada.
+
+### Artículo 96
+
+Artículo 96.
+1. Podrán someterse a consulta popular aquellos asuntos de la competencia propia municipal y de carácter local que sean de especial relevancia para los intereses de los vecinos, con excepción de los relativos a la Hacienda local, en los términos previstos en el artículo 71 de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local.
+2. No pueden realizarse consultas populares en los casos en que no esté permitida la celebración de referéndum.
+3. En todo caso, en la consulta popular se observarán las siguientes reglas:
+a) Podrán participar todos los inscritos en el censo electoral.
+b) La convocatoria señalará claramente la pregunta o preguntas, y la fecha y lugar donde la consulta ha de realizarse.
+c) La autorización del Gobierno de la Nación se solicitará a través del de Navarra.
+d) La convocatoria ha de publicarse en el «Boletín Oficial de Navarra» y en el tablón de edictos, y difundirse en los diarios que se publiquen en la Comunidad Foral, con una antelación mínima de cinco días.
+e) La consulta se realizará por sufragio igual, directo y secreto, y las contestaciones serán afirmativas, negativas o en blanco. Corresponde al Gobierno de Navarra aprobar el modelo de papeletas, sobres, actas de constitución y escrutinio con las que se celebrará el sufragio.
+f) Los partidos políticos así como las coaliciones, federaciones o agrupaciones de electores con representación en la Corporación podrán designar un representante en la Mesa que presida la consulta y realice el escrutinio.
+4. Una Ley Foral regulará el procedimiento para el ejercicio de las consultas populares en el ámbito de las entidades locales de Navarra, en los términos establecidos en los números anteriores.
+Se añade el apartado 4 por el art. 5 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+ Se modifica el apartado 3.e) por la disposición final 1 de la Ley Foral 27/2002, de 28 de octubre. Ref. BOE-A-2002-22651
+
+### Artículo 96 bis
+
+Artículo 96 bis.
+1. Los vecinos que gocen del derecho de sufragio activo en las elecciones municipales podrán ejercer la iniciativa popular, presentando propuestas de acuerdos o actuaciones o proyectos de disposiciones generales en materias de la competencia municipal. Dichas iniciativas deberán ir suscritas al menos por el siguiente porcentaje de vecinos del Municipio:
+– Hasta 2.000 habitantes, el 30 por 100.
+– De 2.001 a 5.000 habitantes, el 20 por 100.
+– De 5.001 a 50.000 habitantes, el 10 por 100.
+– A partir de 50.001 habitantes, el 5 por 100.
+2. Sin perjuicio de que sean resueltas por el órgano competente por razón de la materia, tales iniciativas deberán ser sometidas a debate y votación en el Pleno.
+En todo caso se requerirá el previo informe de legalidad del Secretario del Ayuntamiento, así como el informe del Interventor cuando la iniciativa afecte a derechos y obligaciones de contenido económico del Ayuntamiento.
+3. Tales iniciativas pueden llevar incorporada una propuesta de consulta popular local de conformidad con lo previsto en la legislación reguladora de las consultas populares en el ámbito local.
+En los casos en que el porcentaje mínimo de vecinos preciso para la iniciativa sea inferior al exigido para tramitar la consulta, de conformidad con lo dispuesto en su normativa específica, habrá de completarse dicho porcentaje con las firmas que resulten necesarias para alcanzar el mismo.
+4. Sólo en los supuestos de Concejos gobernados mediante Junta, la entidad podrá acordar que los vecinos que gocen del derecho de sufragio activo en las elecciones concejiles puedan ejercitar la iniciativa popular, presentando propuestas de acuerdos o actuaciones o proyectos de disposiciones generales en materias de la competencia concejil, sin que en ningún caso dichas iniciativas puedan ir suscritas por un porcentaje inferior al 30 por 100 de los vecinos residentes en el Concejo.
+5. En todo caso, quedan excluidas de la iniciativa popular las materias de naturaleza tributaria, así como los Presupuestos y Cuentas.
+Se añade por el art. 5 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 96 ter
+
+Artículo 96 ter.
+Los ciudadanos podrán ejercer, a su costa, las acciones judiciales y administrativas que correspondan a las entidades locales de Navarra, cuando aquéllas no fueren ejercidas por éstas, en los supuestos y términos establecidos en esta Ley Foral. Los ciudadanos serán compensados por los gastos que se les ocasionen si los tribunales fallan a su favor.
+Se añade por el art. 5 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## TÍTULO IV
+
+Bienes de las Entidades locales
+
+## CAPÍTULO I
+
+De los bienes en general
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 97
+
+Artículo 97.
+1. El patrimonio de las Entidades locales de Navarra está constituido por el conjunto de bienes, derechos y acciones que, por cualquier título, les pertenezcan.
+2. Los bienes de las Entidades locales de Navarra se clasifican en bienes de dominio público, bienes comunales y bienes de dominio privado o patrimoniales.
+
+### Artículo 98
+
+Artículo 98.
+1. Son bienes de dominio público los destinados al uso o a los servicios públicos.
+2. Son bienes comunales aquellos cuyo aprovechamiento y disfrute corresponde al común de los vecinos.
+3. Son bienes patrimoniales los de titularidad de las Entidades locales que no tengan el carácter de bienes de dominio público o comunal.
+
+### Artículo 99
+
+Artículo 99.
+1. Los bienes de las Entidades locales de Navarra se rigen por lo establecido en esta Ley Foral y sus disposiciones reglamentarias; por las restantes normas del Derecho Administrativo Foral de Navarra; por las Ordenanzas de la respectiva Entidad; y, en su defecto, por las normas del Derecho Privado Foral, sin perjuicio de lo dispuesto en el apartado tercero del artículo 40 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+2. Los bienes comunales tienen la consideración de bienes de dominio público, y les será de aplicación lo establecido, con carácter general, en esta Ley para los bienes de dicha naturaleza, en cuanto no esté previsto expresamente para aquella clase de bienes.
+
+### Artículo 100
+
+Artículo 100.
+Los bienes de dominio público y los comunales, son inalienables, imprescriptibles, inembargables, y no están sujetos a tributo alguno.
+Los bienes comunales no experimentarán cambio alguno en su naturaleza y tratamiento jurídico, cualquiera que sea la forma de disfrute y aprovechamiento de los mismos.
+
+## Sección 2
+
+Sección 2.ª Calificación jurídica. Alteración. Adscripción
+
+### Artículo 101
+
+Artículo 101.
+Las Entidades locales asignarán a los bienes y derechos de su patrimonio la calificación jurídica que les corresponda en razón de su naturaleza o destino.
+
+### Artículo 102
+
+Artículo 102.
+1. Las parcelas sobrantes y efectos no utilizables se clasificarán como bienes de dominio privado.
+Se entienden por parcelas sobrantes las que por su reducida extensión, forma irregular o emplazamiento no fueren susceptibles de uso adecuado, y por efectos no utilizables todos aquellos que por deterioro, depreciación o deficiente estado de conservación resulten inaplicables a los servicios de la Entidad local o a su normal aprovechamiento.
+La calificación de un terreno como parcela sobrante requiere expediente de calificación jurídica, en la forma que previene el número 1 del artículo siguiente.
+2. Los bienes y derechos adquiridos en virtud de expropiación forzosa quedarán implícitamente afectados a los fines que la motivaron.
+Concluida la afectación, pasarán a ser bienes patrimoniales, sin perjuicio, en su caso, del derecho de reversión en los términos de la legislación de expropiación forzosa.
+
+### Artículo 103
+
+Artículo 103.
+1. La alteración expresa de la calificación jurídica de los bienes de dominio público y de los patrimoniales requiere expediente en el que se acredite su oportunidad y legalidad.
+El expediente deberá ser resuelto por el Pleno, previa información pública por plazo de un mes. Si la alteración de la calificación jurídica se refiere a bienes de dominio público el acuerdo habrá de adoptarse por mayoría absoluta del número legal de miembros de la Corporación.
+Tratándose de bienes afectos a servicios o actividades públicas en las que concurran, junto a la competencia de la Entidad local de que se trate, la de otra u otras Administraciones Públicas, la acreditación de la oportunidad de la desafectación requerirá, en todo caso, informe favorable de éstas.
+2. La desafectación de los bienes comunales se regirá por lo dispuesto en el artículo 140.
+3. No obstante, la alteración se produce, automáticamente, sin necesidad de expediente, en los siguientes supuestos:
+a) Aprobación definitiva de los planes de ordenación urbana y de los proyectos de obras y servicios.
+b) Adscripción de bienes patrimoniales por más de veinticinco años a un uso o servicio público, o al aprovechamiento comunal.
+c) Adquisición por cesión obligatoria con el fin de ser destinados al uso público o a la prestación de un servicio público.
+4. La afectación de bienes a un uso o servicio público o comunal se entenderá producida, sin necesidad de acto formal, cuando la Entidad local adquiera por usucapión bienes destinados al uso o servicio público, o al aprovechamiento comunal.
+
+### Artículo 104
+
+Artículo 104.
+1. La adscripción de bienes a un determinado uso o servicio público se realizará por el pleno u órgano supremo de la entidad local y será precedida, en su caso, de su afectación al dominio público. Cuando ésta no fuere necesaria, puede el pleno delegar esta facultad en el Presidente o en la Junta de Gobierno Local.
+2. Los organismos autónomos locales, las entidades públicas empresariales locales, y las sociedades mercantiles cuyo capital social pertenezca íntegramente a la entidad local o a un ente público de la misma pueden solicitar de éstas la adscripción de bienes y derechos para el cumplimiento de sus fines.
+Los bienes y derechos adscritos conservarán la calificación jurídica originaria que les corresponda como bienes del patrimonio de las entidades locales.
+Las entidades que reciban dichos bienes no adquirirán su propiedad, atribuyéndoseles únicamente facultades en orden a su conservación y utilización para el cumplimiento de los fines que se determinen en la adscripción.
+Cuando los bienes y derechos adscritos a los organismos autónomos dejen de ser precisos para el fin concreto previsto en la adscripción, vendrán aquéllos obligados a comunicarlo a la entidad local, procediendo ésta a su desadscripción y, en su caso, a la desafectación.
+Se modifica por el art. 6 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## Sección 3
+
+Sección 3.ª Adquisición
+
+### Artículo 105
+
+Artículo 105.
+Las Entidades locales de Navarra tienen capacidad jurídica para adquirir bienes y derechos por los medios establecidos por las leyes, y para poseerlos, así como para ejercitar las acciones y recursos procedentes en defensa de su patrimonio.
+
+### Artículo 106
+
+Artículo 106.
+1. Las adquisiciones a título oneroso se regirán por los preceptos de esta Ley Foral, según la naturaleza de los bienes o derechos de que se trate, aplicándose subsidiariamente la legislación foral reguladora de la contratación administrativa.
+2. Las adquisiciones que provengan del ejercicio de la facultad de expropiación se regirán por sus disposiciones específicas.
+
+### Artículo 107
+
+Artículo 107.
+1. La adquisición onerosa de bienes, muebles e inmuebles, que las Entidades locales precisen para el cumplimiento de sus fines se realizará por el Presidente de la Corporación cuando su cuantía no exceda del 5 por 100 de los recursos ordinarios del presupuesto ni del 50 por 100 del límite general aplicable a la contratación directa.
+2. En los restantes casos, la adquisición se realizará por el Pleno de la Corporación. El acuerdo habrá de adoptarse por mayoría absoluta del número legal de miembros de la Corporación cuando la adquisición haya de gravar presupuestos de dos o más ejercicios.
+3. La adquisición de bienes inmuebles requerirá la previa valoración técnica de los mismos.
+
+### Artículo 108
+
+Artículo 108.
+1. La adquisición de bienes a título oneroso se efectuará mediante concurso público o contratación directa.
+2. La adquisición de bienes muebles mediante contratación directa sólo podrá acordarse cuando concurra alguno de los supuestos en los cuales proceda dicha forma de contratación en el contrato de suministro.
+3. La adquisición de los restantes bienes mediante contratación directa sólo podrá acordarse cuando concurra alguna de las siguientes circunstancias:
+a) Reconocida urgencia de la adquisición.
+b) Peculiaridad de la necesidad a satisfacer.
+c) Limitación de la oferta en el mercado.
+4. En los casos en que, conforme a lo previsto en los dos números- anteriores, proceda la contratación directa, se solicitarán, siempre que ello sea posible, un mínimo de tres ofertas.
+
+### Artículo 109
+
+Artículo 109.
+1. La adquisición de bienes a título gratuito corresponderá al Presidente de la Corporación y no estará sujeta a restricción alguna.
+2. No obstante, si la adquisición lucrativa llevase aneja alguna condición o modalidad onerosa, la adquisición corresponderá al Pleno, y sólo podrán aceptarse los bienes previo expediente en el que se acredite que el valor del gravamen impuesto no excede del valor de aquéllos.
+3. La aceptación de herencias se entenderá siempre hecha a beneficio de inventario. En el caso de herencias sometidas al Derecho Civil Foral de Navarra, se estará, a estos efectos, a lo dispuesto en la Compilación.
+Redactado el apartado 2 conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+## Sección 4
+
+Sección 4.ª Defensa, conservación y recuperación
+
+### Artículo 110
+
+Artículo 110.
+1. Las Entidades locales de Navarra deben velar por la conservación, defensa, recuperación y mejora de los bienes y derechos de su patrimonio, y tienen la obligación de ejercer las acciones necesarias para la defensa de los mismos.
+2. Cualquier vecino que se halle en pleno goce de sus derechos civiles y políticos podrá requerir a las Entidades locales el ejercicio de las acciones necesarias para la defensa de sus bienes y derechos. Este requerimiento, del que se dará conocimiento a quienes pudiesen resultar afectados por las correspondientes acciones, suspenderá el plazo para el ejercicio de las mismas por un término de treinta días hábiles.
+Transcurrido el plazo mencionado sin que la Entidad local acuerde el ejercicio de las acciones solicitadas, los vecinos pueden ejercitar dicha acción en nombre e interés de la misma, a cuyo efecto se les facilitará por ésta los antecedentes, documentos y elementos de prueba necesarios y que al efecto, soliciten por escrito dirigido al Presidente de la Corporación.
+De prosperar la acción, el actor tendrá derecho a ser reembolsado por la Entidad de las costas procesales y a la indemnización de cuantos daños y perjuicios se le hubiesen seguido.
+3. La Administración de la Comunidad Foral, previo requerimiento a la Entidad local, y a costa de ésta, podrá ejercer por subrogación las facultades de conservación, defensa y recuperación de los bienes de dominio público y de los comunales, cuando no sean ejercidas por las Entidades locales, en la forma establecida en esta Ley Foral y en sus disposiciones reglamentarias. En el caso de que no prosperase la acción, los gastos y perjuicios ocasionados serán de cuenta del Gobierno de Navarra.
+
+### Artículo 111
+
+Artículo 111.
+1. Las Entidades locales de Navarra podrán recuperar por sí mismas y en cualquier momento la posesión indebidamente perdida de los bienes y derechos de dominio público o comunal que les pertenezcan, previo dictamen del Secretario de la Asesoría Jurídica, o, en su caso, de un Letrado, y con audiencia del interesado. Promoverán, asimismo, el ejercicio de las acciones civiles que sean necesarias para la recuperación y defensa de dichos bienes.
+2. Del mismo modo podrán recuperar los bienes patrimoniales en el plazo de un año, contado desde el día siguiente a la fecha en que se haya producido la ocupación. Transcurrido este plazo, la Entidad local deberá acudir a los Tribunales ordinarios ejercitando las correspondientes acciones.
+3. No se admitirán interdictos contra las actuaciones de las Entidades locales en esta materia, siempre que éstas se hayan ajustado al procedimiento establecido.
+
+### Artículo 112
+
+Artículo 112.
+1. Los bienes y derechos de las Entidades locales que sean susceptibles de ello deberán ser inscritos en los Registros correspondientes. La inscripción en el Registro de la Propiedad de los bienes comunales deberá hacer constar expresamente su carácter de tales.
+2. Estarán exentos de inscripción los bienes de dominio público de uso general.
+3. En la inmatriculación o inscripción de los bienes y derechos de las Entidades locales se aplicarán las normas registrales establecidas para los de la Comunidad Foral de Navarra.
+
+### Artículo 113
+
+Artículo 113.
+1. Las Entidades locales formarán un inventario valorado de los bienes y derechos que constituyan su patrimonio.
+2. El inventario será objeto de actualización continua, se rectificará anualmente y se comprobará siempre que se renueve la Corporación.
+3. La aprobación del inventario, su rectificación y comprobación corresponderá al Pleno.
+
+### Artículo 114
+
+Artículo 114.
+1. Las Entidades locales deben realizar el deslinde de los inmuebles de su patrimonio cuyos límites aparezcan imprecisos o sobre los que existan indicios de indebida ocupación.
+2. Si las Entidades locales no promueven el deslinde en los casos establecidos en el número anterior, la Administración de la Comunidad Foral podrá subrogarse en las facultades de la Entidad local, a costa de la misma, si el deslinde fuese procedente en relación con las causas que lo motivaron.
+3. El deslinde se sujetará al procedimiento que se determine reglamentariamente, en el que, en todo caso, se dará audiencia a los interesados.
+4. Si la finca a que se refiere el deslinde se hallase inscrita en el Registro de la Propiedad, se inscribirá también el deslinde administrativo debidamente aprobado. En otro caso, se procederá a la inscripción previa del título adquisitivo de la misma o, a falta de éste, de la certificación librada conforme a la legislación vigente, inscribiéndose a continuación el deslinde.
+5. En tanto se tramite el procedimiento de deslinde, no podrá iniciarse procedimiento judicial con igual pretensión, ni se admitirán interdictos sobre el estado posesorio de las fincas de las Entidades locales.
+6. Corresponde al Pleno del Ayuntamiento u órgano supremo de gobierno y administración de la Entidad la aprobación de los deslindes.
+
+### Artículo 115
+
+Artículo 115.
+1. Corresponde a las Entidades locales la facultad de investigar e inspeccionar la situación de los bienes y derechos cuya pertenencia a su patrimonio se presuma, a fin de determinar la titularidad de los mismos.
+2. Todas las personas físicas o jurídicas de la Comunidad Foral, tanto públicas como privadas, están obligadas a cooperar en la investigación e inspección a que se hace referencia en el número anterior.
+3. Las Entidades locales deberán dar cuenta a la Administración de la Comunidad Foral de los edictos que les remita el Registro, de la Propiedad con motivo de la inmatriculación de fincas o excesos de cabida de fincas colindantes con bienes comunales. Sobre tales comunicaciones deberá recaer acuerdo del Pleno de la Corporación.
+
+### Artículo 116
+
+Artículo 116.
+1. Las Entidades locales no pueden allanarse a las demandas judiciales que afecten al dominio y demás derechos integrantes de su patrimonio, ni transigir sobre los mismos, si no es mediante acuerdo del Pleno adoptado por mayoría absoluta del número legal de miembros de la Corporación. Si el allanamiento o transacción se refiere a bienes comunales requerirán, además, la previa y expresa aprobación del Gobierno de Navarra.
+2. El sometimiento a arbitraje de las controversias o litigios sobre los bienes de derecho privado requerirá asimismo acuerdo del Pleno por votación favorable de la mayoría absoluta del número legal de los miembros de la Corporación.
+
+### Artículo 117
+
+Artículo 117.
+1. Toda persona natural o jurídica que tenga a su cargo bienes o derechos de las Entidades locales está obligada a su custodia, conservación y racional explotación, debiendo responder ante aquéllas de los daños y perjuicios ocasionados cuando concurra fraude o negligencia.
+2. Las sanciones que tales entidades pueden imponer a quienes, por dolo o negligencia, causen daños en sus bienes, o los usurpen de cualquier forma, no serán inferiores al tanto, ni superiores al triple del valor de lo usurpado o del perjuicio ocasionado. Cuando el valor no pueda estimarse, la sanción estará comprendida entre 50 y 1.800 euros.
+3. Las sanciones serán independientes de la obligación de reparar el daño causado y de restituir lo que se hubiese usurpado, y de otras responsabilidades en que haya podido incurrirse.
+4. Las responsabilidades y sanciones mencionadas en los números anteriores se sustanciarán y ejecutarán por vía administrativa.
+Se modifica el apartado 2 por el art. 6 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 118
+
+Artículo 118.
+La inclusión de un helechal en las hojas catastrales de las Entidades locales no prejuzga ninguna cuestión de propiedad, pero por sí sola constituye una prueba de posesión del terreno y de los demás aprovechamientos a favor de aquellas Entidades. Mientras éstas no sean vencidas en juicio ordinario declarativo de propiedad, serán mantenidas en su posesión.
+Redactado conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Artículo 119
+
+Artículo 119.
+1. La extinción de los derechos constituidos sobre los bienes de dominio público o comunales en virtud de autorización, concesión o cualquier otro título, y de las ocupaciones a que hubiesen dado lugar, se efectuará por las Entidades locales por vía administrativa, previa indemnización o sin ella, según proceda con arreglo a derecho, con sujeción a las normas reguladoras del procedimiento para el desahucio administrativo que se establezcan reglamentariamente.
+2. La extinción de los derechos constituidos sobre los bienes patrimoniales se efectuará con sujeción a las disposiciones de Derecho Privado, sin perjuicio de las facultades derivadas de la legislación de expropiación forzosa.
+Redactado el apartado 1 conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Artículo 120
+
+Artículo 120.
+Las Entidades locales interpretarán los contratos sobre bienes en que intervengan y resolverán las dudas que ofrezca su cumplimiento.
+Los acuerdos de interpretación serán inmediatamente ejecutivos, sin perjuicio de las resoluciones que sobre ellos se dicten por los órganos jurisdiccionales competentes.
+
+## Sección 5
+
+Sección 5.ª Utilización y aprovechamiento
+
+### Artículo 121
+
+Artículo 121.
+1. El destino propio de los bienes de uso público es su utilización común y general por todos los ciudadanos indistintamente, realizada normalmente conforme a la naturaleza y a la finalidad a que estén afectos.
+2. Las utilizaciones de carácter especial, privativo o anormal, estarán sujetas a licencia o concesión, conforme a las disposiciones de esta Sección.
+
+### Artículo 122
+
+Artículo 122.
+1. Estarán sujetas a licencia:
+a) La utilización común de los bienes de uso público, de carácter especial, por concurrir circunstancias singulares de peligrosidad, intensidad de uso u otras semejantes.
+b) La utilización privativa de tales bienes o personas o Entidades determinadas que suponga la limitación o exclusión de su utilización por otros y que no requiera obras o instalaciones de carácter permanente.
+2. Las licencias se otorgarán directamente, salvo si por cualquier circunstancia se limita el número de las mismas, en cuyo caso lo serán por licitación, observándose reglas de publicidad y concurrencia, y si no fuere posible porque todos los interesados hubiesen de reunir las mismas condiciones, se concederán mediante sorteo.
+3. Las ordenanzas determinarán el carácter transmisible o intransmisible de las licencias. No serán transmisibles las licencias concedidas en atención a las cualidades personales del sujeto o cuyo número estuviese limitado.
+4. Las licencias se entenderán concedidas a precario y podrán ser revocadas en cualquier tiempo.
+
+### Artículo 123
+
+Artículo 123.
+1. Estarán sujetas a concesión administrativa:
+a) La utilización privativa de los bienes de uso público a que se refiere el apartado b) del número 1 del artículo anterior, cuando requiera obras o instalaciones de carácter permanente.
+b) La utilización anormal de dichos bienes, de forma que su uso no fuese conforme a su destino.
+2. El otorgamiento de la concesión exigirá en todo caso la instrucción de expediente en el que consten las cláusulas con arreglo a las cuales se otorgase, que en todo caso contendrá las determinaciones que reglamentariamente se establezcan.
+3. La concesión no podrá ser superior a noventa y nueve años, salvo que disposiciones específicas señalen otro plazo menor.
+4. El otorgamiento de concesión se sujetará a reglas de publicidad y concurrencia.
+
+### Artículo 124
+
+Artículo 124.
+1. Las concesiones administrativas deberán tener una finalidad concreta, fijar el canon que hubiera de satisfacerse, así como el plazo de duración, y su otorgamiento se realizará salvo el derecho de propiedad y sin perjuicio de otros derechos.
+2. Asimismo, deberán fijarse las garantías suficientes a aportar por el concesionario para asegurar el buen uso de los bienes.
+3. Se considerará en todo caso implícita la facultad de las Entidades locales de inspeccionar en cualquier momento los bienes objeto de concesión, las instalaciones y construcciones, así como la de resolver las concesiones antes de su vencimiento, si lo justifican razones de interés público, resarciendo al concesionario, en tal caso, de los daños que se le hubieran causado.
+
+### Artículo 125
+
+Artículo 125.
+1. Las concesiones otorgadas se extinguen:
+a) Por vencimiento del plazo.
+b) Por desaparición del bien sobre el que hayan sido otorgadas.
+c) Por desafectación del bien.
+d) Por renuncia del concesionario.
+e) Por revocación de la concesión.
+f)  Por resolución judicial.
+2. La Entidad local podrá acordar el rescate de las concesiones si estimara que su mantenimiento durante el plazo del otorgamiento perjudica el ulterior destino de los bienes o les hace desmerecer considerablemente, en el caso de que se acordase su enajenación.
+
+### Artículo 126
+
+Artículo 126.
+1. La utilización de los bienes destinados al servicio público se regirá en primer lugar por las disposiciones del capítulo I del título V en materia de servicios y, subsidiariamente, por lo dispuesto en esta sección.
+2. Las normas reguladoras de los servicios públicos serán asimismo de preferente aplicación cuando la utilización de los bienes de uso público fuese sólo la base necesaria para la prestación del servicio.
+
+### Artículo 127
+
+Artículo 127.
+1. Corresponde a las Entidades locales regular la forma de utilización de sus bienes patrimoniales.
+2. La utilización podrá realizarse directamente por la Entidad local o cederse a los particulares mediante contrato. En este último supuesto, el procedimiento de adjudicación podrá ser el de subasta, concurso o concierto directo.
+3. Sólo podrá realizarse el concierto directo:
+a) Por razones de interés público debidamente acreditado.
+b) Cuando sólo haya una persona o Ente capacitado para llevar a cabo la explotación o utilización, cuya circunstancia se acreditará en el expediente.
+c) Cuando la cuantía del contrato sea inferior a la cifra que se determine reglamentariamente.
+d) Cuando la utilización o explotación se confíe a una Administración pública, o a una Sociedad en cuyo capital participe cualquiera de las Administraciones públicas de Navarra, directa o indirectamente, en una proporción superior al 75 por 100.
+
+### Artículo 128
+
+Artículo 128.
+1. Las Entidades locales podrán ceder gratuitamente el uso de los bienes patrimoniales en favor de otras Administraciones o Entidades públicas o de Entidades privadas sin ánimo de lucro para fines de utilidad pública o interés social que redunden en beneficio de los vecinos.
+2. El acuerdo de cesión deberá expresar la finalidad concreta del destino de los bienes y contener los condicionamientos, limitaciones y garantías que se estimen oportunos, cuyo incumplimiento dará lugar a la reversión del uso. Ésta se producirá asimismo cuando los bienes no se utilicen para el fin señalado dentro del plazo establecido en el acuerdo, dejasen de serlo con posterioridad o se utilizasen con grave quebranto de los bienes.
+3. El plazo máximo de cesión gratuita del uso de los inmuebles será de veinte años.
+
+### Artículo 129
+
+Artículo 129.
+Los actos y contratos que tengan por objeto la atribución del uso o del uso y disfrute, de bienes patrimoniales, se ajustarán a lo dispuesto en la Compilación de Derecho Civil Foral de Navarra. Los arrendamientos de naturaleza urbana o rústica se regirán, en su caso, por su normativa específica.
+
+### Artículo 130
+
+Artículo 130.
+1. Serán competencia del Presidente de la Corporación los actos relativos a la utilización de los bienes de las entidades locales en los casos siguientes:
+a) Cuando se refiera a otorgamiento de licencias.
+b) En la utilización onerosa de bienes de dominio privado, si el plazo no excede de cinco años ni su cuantía del 5 por 100 de los recursos ordinarios del presupuesto del primer ejercicio.
+2. En los restantes casos, la competencia será del Pleno.
+Se modifica por el art. único de la Ley Foral 15/2002, de 31 de mayo. Ref. BOE-A-2002-12609
+
+### Artículo 131
+
+Artículo 131.
+La utilización y aprovechamiento de los bienes comunales se regirá por lo dispuesto en la sección 2.ª del capítulo II de este título.
+
+## Sección 6
+
+Sección 6.ª Enajenación y gravamen
+
+### Artículo 132
+
+Artículo 132.
+1. La enajenación de los bienes de las entidades locales requiere la declaración previa de alienabilidad, por tratarse de bienes originariamente patrimoniales o que hayan adquirido este carácter por alteración de su calificación jurídica primitiva.
+2. La enajenación requiere acuerdo del Pleno u órgano supremo de gobierno y administración de la entidad local. Cuando la cuantía del bien a enajenar exceda del 20 por 100 de los recursos ordinarios del presupuesto, el acuerdo deberá adoptarse por mayoría absoluta del número legal de miembros de la Corporación.
+No obstante, el Presidente de la Corporación podrá enajenar bienes muebles e inmuebles que no sean precisos para el cumplimiento de los fines de la entidad local cuando su cuantía no exceda del 5 por 100 de los recursos ordinarios del presupuesto.
+3. Será requisito previo a la enajenación de los bienes la valoración técnica de los mismos que acredite de modo fehaciente su justiprecio.
+4. No podrán enajenarse bienes patrimoniales para financiar gastos corrientes, salvo que se trate de parcelas sobrantes o efectos no utilizables.
+Se modifica por el art. único de la Ley Foral 15/2002, de 31 de mayo. Ref. BOE-A-2002-12609
+
+### Artículo 133
+
+Artículo 133.
+El procedimiento de enajenación, excepto en el caso de permuta, será el de subasta pública y, excepcionalmente, la enajenación directa.
+
+### Artículo 134
+
+Artículo 134.
+1. Puede acordarse excepcionalmente la enajenación directa en los siguientes supuestos:
+a) Cuando el adquirente sea una Corporación de Derecho Público, o una Asociación o Fundación de interés público reconocida por la ley.
+b) Cuando las subastas no lleguen a adjudicarse por falta de licitadores, o porque las proposiciones presentadas no se hayan declarado admisibles, siempre que la adjudicación directa se acuerde en las mismas condiciones y por precio no inferior al que haya sido objeto de licitación.
+c) Cuando por la naturaleza del bien sea imposible o muy difícil la concurrencia pública.
+d) Cuando la venta se efectúe a favor de quien ostente un derecho de adquisición preferente reconocido por disposición legal.
+2. Si se tratara de bienes inmuebles, la enajenación directa puede además acordarse excepcionalmente en los siguientes supuestos:
+a) Cuando concurran los requisitos precisos para dicha forma de enajenación en la legislación urbanística o en otras leyes sectoriales.
+b) Cuando la enajenación haya de realizarse para la instalación o ampliación de industrias u otras actividades que la Entidad local declare de interés general para los vecinos.
+c) Para la enajenación de las parcelas sobrantes mencionadas en el artículo 102.1 al propietario o propietarios colindantes.
+3. Si se tratase de bienes muebles corporales, puede también acordarse excepcionalmente la enajenación directa:
+a) Para la enajenación de efectos no utilizables.
+b) Para la enajenación de artículos de consumo, productos de explotaciones agrícolas, comerciales o industriales, y publicaciones.
+4. Tratándose de títulos representativos de capital de Sociedades, cuotas o partes alícuotas de Empresas, obligaciones o títulos análogos, o de propiedades inmateriales, podrá acordarse la enajenación directa por motivos de interés público debidamente razonados y justificados.
+5. El acuerdo de enajenación de bienes muebles implicará, en su caso, su desafectación y desadscripción.
+Se añade el apartado 1.d) por el art. 6 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 135
+
+Artículo 135.
+1. Los bienes del patrimonio de las Entidades locales pueden ser permutados por otros, previa tasación pericial, siempre que de ésta resulte la equivalencia de valores o que la diferencia de éstos entre los bienes que se trata de permutar no sea superior al 50 por 100 del que tenga el valor más alto. En su caso, la diferencia de valoración entre los bienes se compensará en metálico.
+Siendo la permuta un procedimiento excepcional será necesaria para su realización una Memoria previa que la justifique y con oferta pública a los interesados que pudieran cumplir los requisitos exigibles.
+2. La permuta exige el cumplimiento de los requisitos previstos en el artículo 132 para la enajenación de bienes.
+
+### Artículo 136
+
+Artículo 136.
+1. La cesión a título gratuito de la propiedad de bienes y derechos del patrimonio de las Entidades locales se acordará por el Pleno del Ayuntamiento por mayoría absoluta del número legal de miembros de la Corporación, y sólo podrá realizarse en favor de otras Administraciones, Instituciones públicas o Instituciones privadas de interés público sin ánimo de lucro, para fines de utilidad pública o interés social, siempre que complementen o contribuyan al cumplimiento de intereses de carácter local, y previa declaración de alienabilidad.
+2. El acuerdo de cesión podrá contener cuantos condicionamientos, limitaciones o garantías se estimen oportunos.
+De no señalarse nada en el acuerdo, las cesiones de propiedad de bienes patrimoniales quedarán sujetas a las siguientes condiciones:
+a) Que los fines para los que se hubiesen otorgado se cumplan en el plazo máximo de cinco años.
+b) Que su destino se mantenga durante los treinta años siguientes.
+3. Incumplidos los condicionamientos, limitaciones o garantías impuestas, la propiedad de los bienes revertirá de pleno derecho al patrimonio de la Entidad local con sus pertenencias y accesiones.
+4. Las cesiones gratuitas de la propiedad de bienes inmuebles deben formalizarse en escritura pública, con expresión de los condicionamientos, limitaciones o garantías, y han de inscribirse en el Registro de la Propiedad.
+
+### Artículo 137
+
+Artículo 137.
+La constitución de gravámenes sobre los bienes y derechos del patrimonio de las Entidades locales exigirá los requisitos necesarios para enajenarlos.
+
+### Artículo 138
+
+Artículo 138.
+1. La Administración de la Comunidad Foral ejercerá el control del interés general de las actuaciones de las Entidades locales de Navarra en materia de enajenación, cesión de propiedad, permuta y gravamen de los bienes y derechos que a continuación se indican:
+a) Bienes muebles e inmuebles de carácter histórico-artístico.
+b) Bienes muebles e inmuebles no comprendidos en el apartado anterior, cuyo valor económico exceda del 25 por 100 de los recursos ordinarios del presupuesto de la Entidad.
+c) Valores mobiliarios, créditos y derechos de la Entidad local cuyo valor económico exceda del porcentaje del presupuesto mencionado en el apartado anterior.
+2. La enajenación, cesión de propiedad, permuta o gravamen referentes a los bienes y derechos mencionados en el número anterior requerirán la previa autorización de la Administración de la Comunidad Foral.
+No obstante, el control del interés general de las actuaciones de las Entidades locales en materia de bienes comunales se ejercerá en la forma y con el alcance establecido específicamente para esta clase de bienes.
+3. En aquellos casos en los que, de conformidad con lo previsto en el número 1, no resulte precisa la autorización de la Administración de la Comunidad Foral, tratándose de enajenación o gravamen de inmuebles, así como de cesión gratuita de los mismos, se dará cuenta a aquélla en todo caso.
+
+## CAPÍTULO II
+
+Bienes comunales
+
+## Sección 1
+
+Sección 1.ª Administración y actos de disposición
+
+### Artículo 139
+
+Artículo 139.
+Las facultades de disposición, administración, régimen de aprovechamiento y ordenación sobre los bienes comunales corresponden a las Entidades locales, en los términos de esta Ley Foral.
+Solamente en los casos previstos expresamente en esta Ley Foral necesitarán de la aprobación de la Administración de la Comunidad Foral las decisiones acordadas por los órganos competentes de las Entidades locales.
+
+### Artículo 140
+
+Artículo 140.
+1. Cabrá la desafectación de los bienes comunales en los supuestos previstos en este artículo.
+2. La desafectación de bienes comunales con motivo de cesión del uso o gravamen de los mismos se regirá por el siguiente procedimiento:
+a) Acuerdo inicial por mayoría absoluta de la Entidad local.
+b) Anuncio y exposición pública por plazo de un mes.
+c) Resolución de reclamaciones mediante acuerdo por mayoría absoluta de la Entidad local.
+d) Aprobación por el Gobierno de Navarra.
+3.  La desafectación para venta o permuta de pequeñas parcelas de terreno requerirá la declaración de utilidad pública o social por el Gobierno de Navarra, previa justificación por parte de la Entidad local de que el fin que se persigue no puede ser alcanzado por otros medios como la cesión del uso o el gravamen, que, en todo caso, serán opciones preferentes.
+Reglamentariamente se determinarán las medidas de las pequeñas parcelas a que se refiere esta Ley, de acuerdo con sus características y extensión del patrimonio comunal.
+El procedimiento será el siguiente:
+a) Acuerdo inicial por mayoría de dos tercios del número legal de miembros de la Entidad local correspondiente.
+b) Anuncio y exposición pública por plazo de un mes.
+c) Resolución de reclamaciones mediante acuerdo por mayoría de dos tercios del número legal de miembros de la Entidad local correspondiente.
+d) Declaración de utilidad pública o social y aprobación por el Gobierno de Navarra.
+4. Los casos de expropiación forzosa de bienes comunales se regirán por la legislación vigente en la materia.
+5. La desafectación para la transmisión del dominio a título oneroso o gratuito y para permuta de terrenos que superen la pequeña parcela, así como para los demás supuestos no contemplados en los números anteriores, requerirá una Ley Foral para su aprobación.
+6. Los acuerdos de cesión o gravamen de bienes comunales, una vez desafectados, deberán incluir siempre la cláusula de reversión en el supuesto de que desaparezcan o se incumplan los fines que los motivaron o las condiciones a que estuviesen sujetos.
+Producida la reversión, volverán a formar parte del patrimonio de la Entidad local correspondiente como bienes comunales.
+Redactado conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+## Sección 2
+
+Sección 2.ª Aprovechamiento de los bienes comunales
+
+## Subsección 1
+
+Subsección 1.ª Disposiciones generales
+
+### Artículo 141
+
+Artículo 141.
+Las Entidades locales velarán por la puesta en producción, mejora y aprovechamiento óptimo de los comunales.
+
+### Artículo 142
+
+Artículo 142.
+1. Con carácter general serán beneficiarias de los aprovechamientos comunales las unidades familiares cuyo titular cumpla los siguientes requisitos:
+a) Ser mayor de edad o menor emancipado o judicialmente habilitado.
+b) Estar inscrito como vecino en el Padrón municipal con una antigüedad de entre uno y seis años. Las Entidades locales fijarán por ordenanza este plazo.
+c) Residir efectiva y continuadamente en la Entidad titular del comunal, al menos durante nueve meses al año.
+d) Hallarse al corriente en el cumplimiento de las obligaciones fiscales con las Entidades locales a las que esté vinculado el beneficiario.
+2. Se computarán como miembros de la unidad familiar a todos los que convivan en el mismo domicilio. No obstante, se considerará como unidad familiar independiente a la formada por los padres jubilados, aun cuando convivan con sus familiares, siempre que sus ingresos sean inferiores al salario mínimo interprofesional.
+Redactado conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Artículo 143
+
+Artículo 143.
+1. En las subastas de aprovechamientos comunales podrán celebrarse segundas y, en su caso, terceras subastas, con la rebaja, respectivamente, del 10 y 20 por 100 del tipo inicial de tasación, si quedasen desiertas. Asimismo, podrán adjudicarse directamente el aprovechamiento por precio no inferior al tipo de licitación de la última subasta realizada, cuando ésta hubiese quedado desierta.
+2. Las subastas de aprovechamientos comunales deberán anunciarse en el «Boletín Oficial de Navarra» y en uno o más diarios de los que se publican en la Comunidad Foral, con una antelación de quince días naturales, al menos, a la fecha en que hayan de celebrarse.
+3. No obstante, para la celebración de segundas y terceras subastas de aprovechamientos de cultivo o de pastos bastará que se anuncien en el tablón de anuncios de la Entidad local con cinco días de antelación, al menos, de la fecha en que cada una de ellas vaya a celebrarse.
+
+## Subsección 2
+
+Subsección 2.ª Aprovechamiento de los terrenos comunales de cultivo
+
+### Artículo 144
+
+Artículo 144.
+Los aprovechamientos de terrenos comunales de cultivo se realizarán en tres modalidades diferentes:
+a) Aprovechamientos vecinales prioritarios.
+b) Aprovechamientos vecinales de adjudicación directa.
+c) Explotación directa por la Entidad local o adjudicación mediante subasta pública.
+Las Entidades locales realizarán el proceso de adjudicación de los aprovechamientos de terrenos de cultivo, aplicando sucesivamente estas modalidades en el orden señalado.
+
+### Artículo 145
+
+Artículo 145.
+1. Serán beneficiarios los vecinos titulares de unidad familiar que, reuniendo las condiciones señaladas en el artículo 142, tengan ingresos propios por cada miembro de la unidad familiar menores al 30 por 100 del salario mínimo interprofesional o ingresos totales de la unidad familiar por debajo de vez y media de dicho salario.
+2. Cuando en la unidad familiar existan miembros con incapacidad física o mental, se computará por cada uno de ellos un ingreso equivalente al 60 por 100 del salario mínimo interprofesional.
+3. Las Ordenanzas de las Entidades locales establecerán los criterios que hayan de observarse para la determinación de los niveles de renta a que se refiere este artículo, que han de basarse en datos objetivos como las declaraciones del Impuesto sobre la Renta de las Personas Físicas, los ingresos salariales, la posesión de tierras de cultivo en arrendamiento, o por otro título, el capital imponible de los bienes inmuebles sujetos a imposición local, salvo el que corresponda a la vivienda propia, la base impositiva local por el ejercicio de actividades, así como cualquier otro dato de naturaleza análoga.
+
+### Artículo 146
+
+Artículo 146.
+1. Las Entidades locales fijarán en Ordenanza la superficie del lote tipo, que será la necesaria para generar unos ingresos netos equivalentes a la mitad del salario mínimo interprofesional.
+2. Los lotes a entregar a los beneficiarios que respondan a lo establecido en el artículo 145 serán los resultantes de aplicar al lote tipo los siguientes coeficientes:
+a) Unidades familiares de hasta tres miembros, coeficiente 1.
+b) Unidades familiares de cuatro a seis miembros, coeficiente 2.
+c) Unidades familiares de siete a nueve miembros, coeficiente 3.
+d) Unidades familiares de más de nueve miembros, coeficiente 5.
+
+### Artículo 147
+
+Artículo 147.
+1. Las Entidades locales, habida cuenta de las características de sus comunales y de las condiciones sociales de la localidad, podrán, previa autorización de la Administración de la Comunidad Foral, rebajar proporcional y justificadamente los factores señalados en los dos artículos anteriores, pero no aumentarlos.
+2. Las Entidades locales, en estos casos, deberán destinar, al menos, el 50 por 100 de los terrenos comunales de cultivo para esta modalidad de reparto.
+
+### Artículo 148
+
+Artículo 148.
+El plazo de disfrute o aprovechamiento no será inferior a ocho años, ni superior al de la vida útil del cultivo cuando el terreno se destine a aprovechamientos plurianuales.
+Las Entidades locales señalarán en cada caso el plazo de disfrute o aprovechamiento correspondiente.
+
+### Artículo 149
+
+Artículo 149.
+El canon a satisfacer por los beneficios será fijado por las Entidades locales y su cuantía podrá ser de hasta el 50 por 100 de los precios de arrendamiento de la zona para tierras de características similares.
+En cualquier caso, el canon cubrirá, como mínimo, los costes con los que resultase afectada la Entidad local.
+
+### Artículo 150
+
+Artículo 150.
+Las parcelas comunales deberán ser cultivadas directa y personalmente por los beneficiarios, no pudiendo éstos arrendarlas o explotarlas por fórmula distinta a la del trabajo personal.
+Tendrá la consideración de cultivo directo y personal el cultivo en común de las parcelas adjudicadas a los beneficiarios cuando éstos se asocien en Cooperativas o grupos de trabajo legalmente constituidos e integrados exclusivamente por miembros que reúnan las condiciones señaladas en el artículo 145.
+
+### Artículo 151
+
+Artículo 151.
+Las parcelas que por imposibilidad física u otra causa no puedan ser cultivadas directa y personalmente por el beneficiario, serán adjudicadas por las Entidades locales en la forma que se establece en los artículos 152 a 156, sobre adjudicación vecinal directa, y, en su caso, en el artículo 157, sobre explotación directa o subasta pública. Las Entidades locales abonarán a los beneficiarios de las parcelas los ingresos obtenidos de la adjudicación, después de deducido el canon.
+Los beneficiarios que den en aparcería o cedan a otros su cultivo, serán desposeídos de las parcelas comunales por lo que reste del plazo de adjudicación.
+Los beneficiarios desposeídos deberán ingresar en la respectiva Hacienda Local el importe de los beneficios obtenidos desde el momento en que se produjo la aparcería o cesión.
+Las Entidades locales podrán, por vía de Ordenanza, establecer los requisitos que consideren necesarios para acreditar el hecho del cultivo en forma directa y personal y las modalidades del mismo.
+Redactado conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Artículo 152
+
+Artículo 152.
+Una vez atendidas las necesidades de parcelas según lo previsto en los artículos 145 a 151, las tierras de cultivo comunales sobrantes, así como las parcelas de aquellos beneficiarios que no las cultiven directa y personalmente, serán objeto de adjudicación vecinal directa por un precio no inferior al 90 por 100 del de arrendamiento de tierras de características similares en la zona.
+
+### Artículo 153
+
+Artículo 153.
+El cultivo será realizado directa y personalmente por el adjudicatario. Las Entidades locales podrán, por vía de Ordenanza, establecer los requisitos que consideren necesarios para acreditar el hecho del cultivo en forma directa y personal.
+
+### Artículo 154
+
+Artículo 154.
+Las Entidades locales determinarán la superficie de los lotes con criterios de proporcionalidad inversa a los ingresos netos del adjudicatario, o al tamaño de la explotación caso de que los adjudicatarios fuesen agricultores, con base en las unidades que se fijen reglamentariamente por zonas y tipos de cultivo.
+Al proceder a estas adjudicaciones las Entidades locales tendrán en cuenta la necesidad de reservar, para atender a nuevos beneficiarios, lotes de terrenos comunales que supongan una extensión que no supere el 5 por 100 del total inicial.
+
+### Artículo 155
+
+Artículo 155.
+En cuanto al plazo de la adjudicación vecinal directa, será de aplicación lo dispuesto en el artículo 148 con respecto a los aprovechamientos vecinales prioritarios.
+
+### Artículo 156
+
+Artículo 156.
+En las localidades donde existe tierra apropiada para ello, la Entidad local podrá entregar por sorteo entre los solicitantes vecinos que carezcan de tierra de características similares, una parcela con destino a huerto familiar o aprovechamiento similar. La superficie, canon y condiciones serán libremente fijados por las Entidades locales en la correspondiente Ordenanza, sin que en ningún caso la superficie global destinada a estos fines supere el 10 por 100 de la superficie comunal de cultivo.
+
+### Artículo 157
+
+Artículo 157.
+1. La Entidad local, en el supuesto de que exista tierra sobrante de cultivo una vez aplicados los procedimientos establecidos en los artículos 145 a 151, sobre aprovechamientos vecinales prioritarios, y en los artículos 152 a 156, sobre adjudicación vecinal directa, procederá a su adjudicación en pública subasta por el plazo necesario para que finalice la adjudicación en el momento del nuevo reparto.
+2. En el supuesto de que, realizada esta subasta, quedara tierra sobrante de cultivo, la Entidad local podrá explotarla directamente.
+
+## Subsección 3
+
+Subsección 3.ª Aprovechamiento de pastos comunales
+
+### Artículo 158
+
+Artículo 158.
+El aprovechamiento de los pastos comunales, o en unión de los de las fincas particulares que por costumbre tradicional, ley o convenio, constituyen una unidad de explotación conjunta, se realizará en las modalidades siguientes:
+a) Por adjudicación vecinal directa.
+b) Por costumbre tradicional.
+c) Por adjudicación mediante subasta pública.
+
+### Artículo 159
+
+Artículo 159.
+El aprovechamiento que se haga mediante adjudicación vecinal directa entre vecinos, que reúnan las condiciones establecidas en el artículo 142, se regulará por su respectiva Ordenanza, recogiéndolos usos y costumbres locales.
+En todo caso, tanto el canon por cabeza de ganado, según especies, como el precio de adjudicación no podrá ser inferior al 80 por 100 ni superior al 90 por 100 del valor real de los pastos.
+
+### Artículo 160
+
+Artículo 160.
+1. El plazo para el aprovechamiento por adjudicación vecinal directa, no podrá ser inferior a ocho años, ni superior a quince, siendo objeto de señalamiento concreto por las Entidades locales mediante Ordenanza.
+2. No obstante lo establecido en el número anterior, las Entidades locales podrán, en la respectiva Ordenanza, reservar hasta una quinta parte de la superficie de los pastos comunales, para su adjudicación anual por si hubiere nuevos beneficiarios.
+
+### Artículo 161
+
+Artículo 161.
+1. El aprovechamiento de los pastos será en forma directa, no permitiéndose el subarriendo o la cesión.
+2. Las Ordenanzas recogerán lo relativo a cotos y zonas de pastoreo, clases y rotación del ganado, tasación de las hierbas, plazos, sanciones y cuantos extremos estimen conveniente para el mejor aprovechamiento de los pastos comunales.
+Redactado el apartado 2 conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Artículo 162
+
+Artículo 162.
+En caso de que, agotado el procedimiento de adjudicación vecinal directa, no se hubiera producido la adjudicación de la totalidad de los pastos comunales, éstos serán adjudicados en subasta pública, por plazo comprendido entre ocho y quince años.
+
+## Subsección 4
+
+Subsección 4.ª Aprovechamientos maderables y leñosos
+
+### Artículo 163
+
+Artículo 163.
+Los aprovechamientos en los montes comunales se realizarán sujetándose a las autorizaciones y condiciones establecidas en la normativa foral en materia forestal. En el ámbito de la cooperación interadministrativa, el Departamento de la Administración de la Comunidad Foral de Navarra con competencias en materia forestal emitirá a instancia de la entidad local que lo solicite informe de valoración económica del aprovechamiento, teniendo dicha valoración carácter orientativo y no vinculante.
+Se modifica por el art. 1 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+
+### Artículo 164
+
+Artículo 164.
+Las entidades locales fijarán en Ordenanza la cuantía, plazos y demás condiciones de los aprovechamientos vecinales de leña de hogares y de materiales, no permitiéndose en ningún caso su venta.
+Se modifica por el art. 1 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+
+### Artículo 165
+
+Artículo 165.
+Las entidades locales, previa autorización de la Administración de la Comunidad Foral, podrán conceder aprovechamientos de lotes forestales, según usos y costumbres locales. Además de las condiciones generales señaladas en el artículo 142, las Ordenanzas locales exigirán los siguientes requisitos:
+a) Podrán ser beneficiarios los vecinos que tengan ingresos propios por cada miembro de la unidad familiar menores al 30 por 100 del salario mínimo interprofesional o ingresos totales de la unidad familiar por debajo de vez y media de dicho salario.
+Cuando en la unidad familiar existan miembros con incapacidad física o mental se computará por cada uno de ellos un ingreso equivalente al 60 por 100 del salario mínimo interprofesional.
+b) El volumen del lote tipo será de cinco metros cúbicos por hogar. Los lotes a entregar a los beneficiarios serán los resultantes de aplicar al lote tipo los siguientes coeficientes:
+Unidades familiares de hasta tres miembros, coeficiente 1.
+Unidades familiares de cuatro a seis miembros, coeficiente 1,5.
+Unidades familiares de siete a nueve miembros, coeficiente 2.
+Unidades familiares de más de nueve miembros, coeficiente 2,5.
+En ningún caso la totalidad de los lotes excederá del 25 por 100 de la posibilidad o renta anual del monte.
+c) Las entidades locales, habida cuenta de las características de sus comunales y de las condiciones sociales de la localidad, podrán rebajar proporcional y justificadamente los factores señalados en las letras a) y b) pero no aumentarlos.
+d) La explotación de estos lotes de productos forestales no podrá ser en forma aislada, sino conjuntamente por las entidades locales, que procederán a su enajenación, entregando a los beneficiarios el importe de la venta, una vez deducidos los gastos de señalamiento y subasta.
+Se modifica por el art. 1 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+
+### Artículo 166
+
+Artículo 166.
+1. Con carácter general se utilizará el sistema de subasta pública, de acuerdo con lo establecido en el apartado 2 del artículo 143 y en materia de contratación local, con las especialidades establecidas en esta Subsección.
+2. En caso de que la subasta quedase desierta y a los solos efectos de los aprovechamientos de productos maderables y leñosos, se podrán celebrar segundas y, en su caso, terceras subastas, con rebaja, respectivamente, del 10 y de hasta el 30 por 100 del tipo inicial de tasación.
+3. En caso de no aplicarse lo establecido en el párrafo anterior, o que tras la última subasta ésta hubiese quedado desierta y, no obstante, la entidad local reciba una nueva oferta, la entidad local solicitará de la Administración forestal informe de valoración económica de la misma. En este caso, la entidad local podrá enajenar los aprovechamientos maderables y leñosos conforme a lo establecido en el artículo 170 de esta Ley Foral.
+4. Del mismo modo, se podrá realizar la venta de productos maderables y leñosos, mediante concurso, en base a la mejor oferta calidad precio, cuando el precio no sea el único criterio determinante para la enajenación. En estos casos, al menos el 50 por ciento de la puntuación deberá calcularse mediante la aplicación de fórmulas objetivas que se establezcan en los pliegos reguladores de la venta y en los que se determinará la ponderación relativa de cada uno de los criterios. Se podrán incorporar igualmente criterios de carácter social y medioambiental. En el caso de que el concurso quedase desierto, se permitirá la adjudicación directa del lote, previo informe favorable de la oferta realizado, previa solicitud, por la administración forestal. En este caso la entidad local podrá enajenar los aprovechamientos maderables y leñosos conforme a lo establecido en el artículo 170 de esta ley foral.
+Se añade el apartado 4 por el art. único.1 de la Ley Foral 5/2022, de 22 de marzo. Ref. BOE-A-2022-6403
+ Se modifica por el art. 1 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+
+### Artículo 167
+
+Artículo 167.
+1. A instancia de las entidades locales, los aprovechamientos forestales de productos maderables o leñosos podrán dividirse en lotes diferentes a efectos de facilitar su venta posterior.
+2. Los aprovechamientos de productos maderables y leñosos de diferentes entidades locales podrán agruparse en un único lote a los efectos de proceder a su enajenación. Para ello, y a los efectos de la venta de productos maderables y leñosos, se podrán utilizar las centrales de ventas en los términos establecidos en la legislación foral de contratos públicos y en esta Ley Foral para las centrales de compras.
+Se modifica por el art. 1 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+
+### Artículo 168
+
+Artículo 168.
+(Sin contenido).
+Se deja sin contenido por el art. 1 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+
+### Artículo 169
+
+Artículo 169.
+1. Las entidades locales podrán celebrar Acuerdos Marco con una o más empresas a los efectos del aprovechamiento de sus productos maderables y leñosos. Estos Acuerdos Marco deberán especificar, como mínimo, su período de validez, las condiciones técnicas y administrativas generales, las características volumétricas y tipo de productos de los aprovechamientos y los precios.
+2. La regulación de los Acuerdos Marco para el aprovechamiento de productos maderables y leñosos se llevará a cabo a través de la modificación de la normativa reguladora de los bienes de las entidades locales de Navarra, aprobada por Decreto Foral 280/1990, de 18 de Octubre, quedando sin efecto la remisión a la legislación foral de contratos públicos que, con carácter supletorio y a los efectos de venta de productos maderables y leñosos, estaba legalmente establecida.
+Se modifica el apartado 2 por el art. único.1 de la Ley Foral 4/2013, de 25 de febrero. Ref. BOE-A-2013-2817
+ Se modifica por el art. 1 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+
+### Artículo 170
+
+Artículo 170.
+1. Las entidades locales podrán enajenar, sin el trámite de subasta, los aprovechamientos maderables y leñosos en los siguientes supuestos:
+a) Que estén compuestos por lote único con cubicaciones que reglamentariamente se determinen.
+b) Que se produzcan en razón de la realización de obras públicas o privadas de reconocida urgencia y que afecten al interés público, así como en situaciones de reconocida urgencia declaradas como tales por el Gobierno de España o el Gobierno de Navarra.
+c) Que se produzcan en razón de la urgente necesidad de extracción de los productos del monte como consecuencia de incendios forestales, plagas y enfermedades forestales o riesgos para la estabilidad del arbolado.
+d) Los supuestos contemplados en el artículo 166.3 de esta Ley Foral.
+2. En los supuestos contemplados en las letras b) y c) del apartado 1 del presente artículo, el Departamento de la Administración de la Comunidad Foral de Navarra con competencias en materia forestal deberá informar con carácter preceptivo y vinculante.
+Se modifica el apartado 1.b) por el art. único.2 de la Ley Foral 5/2022, de 22 de marzo. Ref. BOE-A-2022-6403
+ Se modifica por el art. 1 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+
+## Subsección 5
+
+Subsección 5.ª Otros aprovechamientos
+
+### Artículo 171
+
+Artículo 171.
+El aprovechamiento de la caza de los cotos constituidos con inclusión de terrenos comunales se regirá por la normativa foral reguladora de la materia.
+
+### Artículo 172
+
+Artículo 172.
+La ocupación de terrenos comunales, la explotación de canteras en terrenos comunales y cualquier aprovechamiento o mejora que se pretenda implantar en terrenos comunales, se regirán por los pliegos de condiciones que para cada caso elaboren las Entidades locales. Será precisa, además, la información pública por plazo no inferior a quince días y la aprobación por la Administración de la Comunidad Foral.
+
+### Artículo 173
+
+Artículo 173.
+Las Entidades locales no podrán conceder en lo sucesivo aprovechamiento vecinal de helechos. Los helechales anteriormente concedidos, expresa o tácitamente, revertirán a la Entidad local cuando no se realice su aprovechamiento efectivo durante dos años consecutivos, sin perjuicio de la facultad de desahucio contemplada en el artículo 119 de esta Ley Foral.
+
+## Subsección 6
+
+Subsección 6.ª Mejoras en los bienes comunales
+
+### Artículo 174
+
+Artículo 174.
+1. Las Entidades locales podrán dejar sin efecto las adjudicaciones de aprovechamientos existentes sobre los terrenos afectados por los proyectos que tengan por objeto:
+a) La redención de gravámenes que pesen sobre los mismos.
+b) La mejora del comunal.
+c) La realización de proyectos de carácter social a fin de atender a los vecinos que justifiquen su necesidad en razón a circunstancias personales, familiares o sociales.
+2. Estos proyectos podrán ser promovidos a iniciativa municipal o por los vecinos interesados y tendrán carácter prioritario.
+3. El procedimiento a seguir en estos supuestos sera el siguiente:
+a) Acuerdo de la Entidad local aprobando el proyecto de que se trate, así como la reglamentación que ha de regir el aprovechamiento de los terrenos comunales afectados.
+b) Exposición pública por plazo de un mes y acuerdo de la Entidad local sobre las alegaciones presentadas.
+c) Aprobación por el Gobierno de Navarra.
+4. La aprobación por el Gobierno de Navarra dejará sin efecto las adjudicaciones existentes en los terrenos comunales afectados, indemnizándose a los titulares en los daños y perjuicios que se les ocasionen, así como en las mejoras que hubiesen realizado.
+5. La reglamentación especial que las Entidades locales aprueben deberá acomodarse al objeto y características del proyecto que motiva dicha reglamentación y tendrá vigencia por el plazo necesario para cumplir los fines perseguidos por el proyecto.
+Una vez transcurrido el plazo de vigencia, los terrenos comunales afectados por el proyecto se integrarán nuevamente en el procedimiento general de aprovechamiento establecido en esta sección.
+
+### Artículo 175
+
+Artículo 175.
+Los proyectos de mejora del comunal por parte del beneficiario de los aprovechamientos deberán ser aprobados exclusivamente por la Entidad local correspondiente, con el procedimiento que ésta determine.
+
+### Artículo 176
+
+Artículo 176.
+La roturación de terrenos comunales para su cultivo deberá contar con la previa autorización de la Administración de la Comunidad Foral.
+
+## Sección 3
+
+Sección 3.ª Infracciones y sanciones
+
+### Artículo 177
+
+Artículo 177.
+Será competencia del Gobierno de Navarra el establecimiento del sistema sancionador relativo a los hechos que vulneren la legislación forestal.
+El sistema sancionador para el resto de las materias será competencia de las Entidades locales, que lo establecerán mediante la correspondiente ordenanza.
+Cuando las Entidades locales no ejerzan su potestad sancionadora en materia de ocupaciones y roturaciones de terrenos comunales, en el plazo de un mes desde el conocimiento de la infracción, el Gobierno de Navarra ejercerá subsidiariamente dicha potestad.
+La tipificación de las infracciones, la fijación de las sanciones y el procedimiento sancionador serán establecidos por el Gobierno de Navarra o por las Entidades locales, según corresponda, atendiendo a las competencias que, respectivamente, se les atribuyen en este artículo.
+
+### Artículo 178
+
+Artículo 178.
+Las sanciones estarán comprendidas entre cinco y diez veces el valor de los productos. Cuando el valor de lo aprovechado o del daño causado no pueda estimarse, la sanción estará comprendida entre 60 y 12.000 euros.
+Lo dispuesto con anterioridad se entiende sin perjuicio del resarcimiento de daños y de las responsabilidades a que hubiere lugar, así como, en su caso, del decomiso de los productos obtenidos ilícitamente y de los medios o instrumentos utilizados en la infracción.
+Se modifica por el art. 6 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## TÍTULO V
+
+Actividades, servicios y obras
+
+## CAPÍTULO I
+
+Intervención administrativa en la actividad privada
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 179
+
+Artículo 179.
+1. Las Entidades locales podrán intervenir la actividad de los ciudadanos para la defensa del interés público.
+2. La intervención de la Administración Local en la actividad privada se ajustará, en todo caso, a los siguientes principios:
+a) Igualdad de todos los ciudadanos ante la ley.
+b) Congruencia entre los fines justificativos y los medios de intervención utilizados.
+c) Elección, de entre los diversos medios admisibles, del más respetuoso con la libertad individual.
+
+### Artículo 180
+
+Artículo 180.
+1. La intervención podrá ser ejercida por los siguientes medios:
+a) Ordenanzas y bandos.
+b) Sometimiento previo a licencia y otros actos de control preventivo. No obstante, cuando se trate del acceso y ejercicio de actividades y servicios incluidos en el ámbito de aplicación de la normativa sobre el libre acceso de las actividades de servicios y su ejercicio, se estará a lo dispuesto en la misma.
+c) Sometimiento a comunicación previa o a declaración responsable, de conformidad con lo dispuesto en la legislación básica.
+d) Sometimiento a control posterior al inicio de la actividad, a efectos de verificar el cumplimiento de la normativa reguladora de la misma.
+e) Órdenes individuales constitutivas de mandato para la ejecución de un acto o la prohibición del mismo.
+2. Las licencias o autorizaciones otorgadas por otras Administraciones Públicas no eximen a sus titulares de obtener las correspondientes licencias de las entidades locales, respetándose, en todo caso, lo dispuesto en las correspondientes leyes sectoriales.
+3. El régimen jurídico de las disposiciones generales y de los actos singulares de intervención administrativa en la actividad de los particulares, así como el procedimiento para la adopción de los mismos, se acomodará a lo dispuesto con carácter general en el Capítulo I del Título IX de esta Ley Foral.
+Se modifica por el art. único.2 de la Ley Foral 7/2010, de 6 de abril. Ref. BOE-A-2010-8423
+
+### Artículo 181
+
+Artículo 181.
+1. Las licencias y demás actos de control producirán efectos entre la Entidad local y el sujeto a cuya actividad se refieran, y se entenderán otorgadas salvo el derecho de propiedad y sin perjuicio de tercero.
+No podrán ser invocadas para excluir o disminuir la responsabilidad en que incurran los beneficiarios en el ejercicio de la actividad.
+2. Las licencias quedarán sin efecto si se incumplen las condiciones, impuestas al beneficiario y cuando finalice el plazo por el que fueron otorgadas.
+3. Podrán ser revocadas las licencias cuando desaparezcan las circunstancias que motivaron su otorgamiento o sobrevinieren otras que de haber existido en el momento de la concesión, habrían justificado su denegación.
+Las licencias podrán ser revocadas asimismo cuando resulten otorgadas erróneamente y cuando se adopten nuevos criterios de apreciación. En estos casos, la revocación comportará el resarcimiento de los daños y perjuicios efectivamente ocasionados.
+
+### Artículo 182
+
+Artículo 182.
+1. Serán transmisibles, previa comunicación a la Entidad local, las licencias otorgadas sin consideración a las cualidades del sujeto beneficiario. En otro caso, se estará a lo dispuesto en su normativa específica y, en su defecto, a lo que se prevea en el acto de otorgamiento.
+2. No serán transmisibles las licencias de otorgamiento limitado.
+
+### Artículo 183
+
+Artículo 183.
+1. La infracción de las disposiciones generales y el incumplimiento de las obligaciones establecidas mediante actos singulares de intervención determinará la imposición de sanción.
+2. La cuantía de la sanción no podrá exceder los límites establecidos en la normativa sobre Haciendas locales, salvo en los casos en que las leyes sectoriales establezcan un régimen sancionador específico que determine una cuantía superior.
+
+## Sección 2
+
+Sección 2.ª Autorización reglamentada
+
+### Artículo 184
+
+Artículo 184.
+1. La ejecución de actividades o prestación de servicios privados de interés público, cuya tutela esté legalmente atribuida a las Entidades locales, estará sujeta a la intervención administrativa local conforme a lo dispuesto en la sección 1.ª de este capítulo.
+La potestad de intervención podrá comprender la ordenación de las bases generales de prestación del servicio, la autorización de su ejercicio, la aprobación de las tarifas, así como la imposición de sanciones en caso de infracción.
+2. Cuando el ejercicio de la actividad implique utilización especial o privativa del dominio público, la autorización determinará su alcance y condiciones.
+
+## CAPÍTULO II
+
+Servicios públicos
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 185
+
+Artículo 185.
+Son servicios públicos locales cuantos se prestan para realizar los fines señalados como de la competencia de las Entidades locales.
+
+### Artículo 186
+
+Artículo 186.
+1. Las Entidades locales de Navarra tendrán plena potestad para constituir, regular, modificar y suprimir los servicios de su competencia, de conformidad con lo establecido en las normas aplicables.
+2. Cuando el ejercicio de dichas potestades suponga modificación de las condiciones contractuales, en los casos de gestión indirecta, la Entidad local compensará al contratista en forma tal que se mantenga el equilibrio financiero que presidió la contratación.
+
+### Artículo 187
+
+Artículo 187.
+1. La prestación de servicios delegados por el Estado o la Comunidad Foral se ejercerá conforme a la reglamentación que apruebe la Entidad local en el marco de la legislación estatal o foral que corresponda y con sujeción, en su caso, a las directrices dictadas y a los controles fijados por la Entidad delegante, que no podrán menoscabar la potestad organizatoria atribuida a las Entidades locales.
+2. La prestación de servicios en ejercicio de competencias compartidas o concurrentes con las del Estado o de la Comunidad Foral se realizará coordinadamente con la Administración respectiva al objeto de garantizar la más alta eficacia de la actividad pública y mayor economía en el gasto.
+
+### Artículo 188
+
+Artículo 188.
+1. Corresponde a las Entidades locales, aun en los casos de gestión indirecta, el ejercicio de los poderes de policía y dirección necesarios para garantizar el correcto funcionamiento del servicio.
+2. El órgano competente podrá delegar facultades de policía en los contratistas de servicios públicos, sin perjuicio de la superior dirección que incumbe a aquél.
+
+### Artículo 189
+
+Artículo 189.
+Todos los ciudadanos que reúnan los requisitos establecidos en cada caso tendrán igual derecho a la utilización de los servicios públicos locales, sin que pueda existir discriminación en la prestación de los mismos.
+La reglamentación del servicio podrá contener determinaciones en beneficio de los grupos sociales de menor capacidad económica o precisados de especial protección.
+
+### Artículo 190
+
+Artículo 190.
+1. La prestación de los servicios públicos se realizará con la continuidad prevista en su reglamentación reguladora, no pudiendo el contratista interrumpirla, en los supuestos de gestión indirecta, a causa del incumplimiento por la Administración local, sin menoscabo de su derecho al resarcimiento de los daños e indemnización de los perjuicios ocasionados.
+2. Las Entidades locales están facultadas para adoptar las medidas necesarias tendentes a asegurar el funcionamiento de los servicios públicos en el caso de ejercicio del derecho de huelga por el personal adscrito a los mismos.
+
+### Artículo 191
+
+Artículo 191.
+La recepción y uso de los servicios de la reserva local por parte de los ciudadanos podrán ser declarados obligatorios mediante disposición reglamentaria o acuerdo, cuando la seguridad, salubridad u otras circunstancias de orden público lo requiera.
+
+## Sección 2
+
+Sección 2.ª Formas de gestión
+
+### Artículo 192
+
+Artículo 192.
+1. Los servicios públicos locales pueden gestionarse en forma directa o indirecta.
+2. La gestión directa adoptará alguna de las siguientes formas:
+a) Gestión por la propia entidad local.
+b) Organismo autónomo local.
+c) Entidad pública empresarial local.
+d) Sociedad mercantil local, cuyo capital social sea de titularidad pública y mayoritariamente de la propia entidad local o de un ente público de la misma.
+3. La gestión indirecta comprenderá las siguientes formas:
+a) Concesión.
+b) Gestión interesada.
+c) Arrendamiento.
+d) Concierto.
+e) Sociedad mercantil o cooperativa, cuyo capital social solo parcialmente pertenezca a la entidad local.
+f) Las demás previstas en la legislación foral reguladora de los Contratos de las Administraciones Públicas de Navarra.
+Se modifica el apartado 2.d) por el art. único de la Ley Foral 2/2023, de 6 de febrero. Ref. BOE-A-2023-4814
+ Se modifica el apartado 2.d) por el art. 2 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+ Se modifican los apartados 2 y 3 por el art. 7 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 193
+
+Artículo 193.
+1. Los servicios públicos que impliquen ejercicio de autoridad serán atendidos necesariamente por gestión directa por la propia entidad local o a través de un organismo autónomo local.
+2. Pueden gestionarse indirectamente los servicios de contenido económico que los haga susceptibles de explotación por empresarios particulares.
+Se modifica el apartado 1 por el art. 7 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 194
+
+Artículo 194.
+1. La gestión indirecta, en sus distintas formas, no podrá ser otorgada por tiempo indefinido, debiendo fijarse el término del convenio de acuerdo con las características del servicio, sin que en ningún caso exceda el plazo total, incluidas las prórrogas, de cincuenta años.
+2. En los casos de arrendamiento, concesión y sociedad mixta, revertirán al patrimonio local, al término del convenio, los bienes, instalaciones y material afectos al servicio en condiciones normales de uso.
+Se modifica el apartado 2 por el art. 7 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 195
+
+Artículo 195.
+En la gestión por la propia entidad local, ésta asumirá en exclusiva su propio riesgo y ejercerá los poderes de decisión y gestión. Los medios personales y materiales del servicio se adscribirán e integrarán en el presupuesto de la entidad local.
+Se modifica por el art. 7 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 196
+
+Artículo 196.
+1. Los organismos autónomos son entes de derecho público, con personalidad jurídica propia y patrimonio, creados por las corporaciones locales para la gestión descentralizada de sus intereses. Su creación, modificación, refundición y supresión corresponderá al Pleno de la entidad local, debiendo quedar adscritos al órgano que establezcan sus Estatutos.
+2. Se rigen por sus propios Estatutos, aprobados por la entidad local, que determinarán sus fines y funciones, bienes y recursos económicos, organización general y régimen de funcionamiento, sistema de designación de los titulares de los órganos y personal directivo, así como las facultades de tutela que aquélla se reserve, en los términos del apartado siguiente.
+El régimen de su patrimonio, así como el de impugnación y reclamaciones contra sus actos, es el establecido para las entidades locales en esta Ley Foral. El régimen de sus contrataciones es el establecido en la legislación foral reguladora de los contratos de las Administraciones Públicas de Navarra. El régimen de su personal es el establecido en la normativa foral reguladora del personal al servicio de las Administraciones Públicas de Navarra. El régimen presupuestario, económico-financiero, de contabilidad, intervención, control financiero y de eficacia se ajustará a lo establecido en la legislación foral de Haciendas Locales.
+3. Sin perjuicio de lo dispuesto en el apartado anterior, los organismos autónomos se regirán por las siguientes especialidades:
+a) Será necesaria la autorización del órgano que señalen los Estatutos para contrataciones superiores a las cantidades previamente fijadas en los mismos, así como para las adquisiciones de bienes inmuebles.
+b) La determinación y modificación de las condiciones retributivas, tanto del personal directivo como del resto del personal, deberá ajustarse en todo caso a las normas que al respecto apruebe el Pleno, de conformidad con la normativa reguladora del personal al servicio de las Administraciones Públicas de Navarra.
+Se modifica por el art. 7 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 196 bis
+
+Artículo 196 bis.
+Son entidades públicas empresariales locales los organismos públicos creados por las entidades locales de Navarra a los que se les encomiende la realización de actividades prestacionales, la gestión de servicios o la producción de bienes de interés público susceptibles de contraprestación. Se rigen por el derecho privado, con las especialidades que se establezcan en la legislación foral reguladora de las Haciendas Locales de Navarra y en su normativa específica.
+Se añade por el art. 8 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 197
+
+Artículo 197.
+1. Las Sociedades mercantiles, con capital social aportado exclusivamente por la Entidad local, adoptarán una de las formas de responsabilidad limitada.
+2. En la escritura de constitución de la Sociedad constará el capital aportado por la Entidad local, la forma de constituir el Consejo de Administración y la determinación de quienes tengan derecho a emitir voto en representación del capital social. La Corporación interesada asumirá, en todo caso, las funciones de Junta general.
+3. El personal de la Sociedad no adquirirá en ningún caso la condición de funcionario.
+4. Las Sociedades públicas locales elaborarán anualmente un programa de actuación, inversiones y financiación.
+Si percibieren subvenciones con cargo al presupuesto general de la Entidad local de que dependan, elaborarán además un presupuesto de explotación o de capital.
+
+### Artículo 198
+
+Artículo 198.
+1. En los casos de gestión indirecta mediante Sociedad mercantil con responsabilidad limitada, o Cooperativa, la aportación de la Entidad local podrá ser mayoritaria o minoritaria, sin que en ningún caso sea inferior al tercio del capital social, y podrá consistir en la concesión u otra clase de bienes o derechos que tengan la consideración de patrimoniales y numerario. El capital social será desembolsado completamente en el momento de la constitución o de la ampliación de capital.
+2. Los estatutos sociales delimitarán el carácter de la sociedad mixta en cuanto modo gestor de un servicio público y, en especial, determinarán las facultades reservadas al ente público o a sus representantes en los órganos directivos de la sociedad y las causas de disolución de éstas. La responsabilidad de la entidad local por las obligaciones sociales se limitará a su aportación al capital social.
+3. La gestión de la sociedad será compartida por la entidad local y los particulares en proporción a la participación respectiva en el capital social. No obstante, se requerirá la conformidad de la entidad local para la modificación del acto de constitución o de los estatutos de la sociedad, la concertación de operaciones de crédito y la aprobación de cuentas anuales.
+Se modifican los apartados 2 y 3 por el art. 7 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 199
+
+Artículo 199.
+Sin perjuicio de lo establecido en esta Ley Foral y en las disposiciones que la desarrollen, las Sociedades mercantiles, con participación exclusiva o parcial de las Entidades locales, se regirán por la normativa civil, mercantil o laboral que les sea de aplicación.
+
+### Artículo 200
+
+Artículo 200.
+1. En la concesión administrativa la Entidad local encomienda a un particular o Entidad el establecimiento a su cargo de un servicio público, mediante la realización de las obras e instalaciones necesarias, y su ulterior gestión, o solamente la prestación del servicio, cuando no requiera obras o instalaciones permanentes o estuviesen ya establecidas.
+2. La gestión del servicio por el concesionario se realizará a su riesgo y ventura.
+3. La retribución del concesionario será la establecida en el acuerdo de concesión pudiendo incluirse en la misma la cesión de tasas, precios del servicio, contribuciones especiales u otras aportaciones.
+
+### Artículo 201
+
+Artículo 201.
+1. Mediante la gestión interesada el particular o empresario presta el servicio y la Entidad local asume en exclusiva el resultado de la explotación o lo comparte con el gestor en la proporción establecida en el contrato.
+2. Corresponderá a la Entidad local la recepción de las tarifas devengadas por los usuarios. Los gastos de explotación se distribuirán entre el gestor y la Entidad local en la proporción pactada en el contrato.
+3. La remuneración que el gestor perciba de la Administración podrá consistir, conjunta o aisladamente, en una asignación fija o proporcional a los gastos o beneficios de la explotación. Asimismo, se podrá estipular un beneficio mínimo en favor de cualquiera de las partes asociadas atendiendo a los resultados de la explotación.
+
+### Artículo 202
+
+Artículo 202.
+1. La prestación de servicios cuyas instalaciones pertenezcan a las Entidades locales podrá ser objeto de arrendamiento por canon fijo anual.
+2. Corresponderá al arrendatario la percepción de las aportaciones de los usuarios y serán de su cargo los gastos de explotación y las reparaciones necesarias para el buen funcionamiento del servicio.
+
+### Artículo 203
+
+Artículo 203.
+1. Las Corporaciones locales podrán concertar la prestación de servicios con otros Entes públicos o privados y con particulares, utilizando los que éstos tengan establecidos mediante el pago de un precio alzado predeterminado e inalterable por la totalidad del servicio, por unidades o actos. La duración del concierto no podrá exceder de ocho años, salvo que la Entidad local prorrogue el inicialmente convenido.
+2. La Entidad local podrá repercutir en los usuarios el coste de los servicios concertados.
+3. En los ámbitos de salud y servicios sociales la concertación de la prestación de servicios se realizará de conformidad con la normativa reguladora de este tipo de conciertos.
+Se añade el apartado 3 por el art. único de la Ley Foral 14/2017, de 16 de noviembre. Ref. BOE-A-2017-15291
+
+## Sección 3
+
+Sección 3.ª Servicios económicos
+
+### Artículo 204
+
+Artículo 204.
+1. Las Entidades locales de Navarra podrán prestar los servicios económicos que estimen pertinentes en función de las necesidades vecinales y de la capacidad de la propia Entidad.
+2. El ejercicio de la actividad o la prestación del servicio podrán realizarse sin monopolio y con monopolio. Únicamente procederá el monopolio respecto a actividades o servicios prestados al sector público local mediante Ley del Estado o de la Comunidad Foral.
+
+### Artículo 205
+
+Artículo 205.
+1. La explotación de servicios y el ejercicio de actividades de carácter económico no declaradas de la reserva de las Entidades locales requerirá la previa municipalización mediante la tramitación de expediente acreditativo de la conveniencia y oportunidad de la medida, y que comprenderá cuantas formulaciones de carácter técnico, jurídico, financiero y social afectan al servicio o actividad, y la determinación de la forma de gestión del mismo.
+2. La municipalización se basará siempre en el interés social o utilidad pública del servicio o actividad, sujetándose el expediente al siguiente procedimiento:
+a) Acuerdo inicial del Pleno de la Corporación, previa redacción por una comisión nombrada al efecto de una Memoria comprensiva de los aspectos sociales, financieros, técnicos y jurídicos de la actividad, la forma de ejercicio, los beneficios potenciales y los supuestos de cese de la actividad.
+b) Exposición pública por plazo no inferior a un mes, a efectos de reclamaciones y alegaciones.
+c) Aprobación final del proyecto por el Pleno de la Corporación con el quórum de la mayoría absoluta de sus miembros.
+
+### Artículo 206
+
+Artículo 206.
+Los servicios municipalizados se prestarán preferentemente a través de Sociedad mercantil, con participación exclusiva o parcial de la Entidad local en el capital social, o de Cooperativa.
+
+### Artículo 207
+
+Artículo 207.
+La municipalización de un servicio o actividad cesará por las siguientes causas:
+a) Por expiración del plazo fijado en el acuerdo de establecimiento, salvo en los casos de prórroga.
+b) Cuando la Entidad local revoque el régimen de municipalización en consideración a la falta de concurrencia de las circunstancias que motivaron su implantación.
+c) Por la producción de pérdidas continuadas en la gestión.
+
+### Artículo 208
+
+Artículo 208.
+Corresponde a las Entidades locales la titularidad de las actividades y servicios reservados a las mismas, sin perjuicio de la intervención del sector privado a través de cualquiera de las modalidades de gestión indirecta previstas en esta Ley Foral.
+
+### Artículo 209
+
+Artículo 209.
+1. En los servicios reservados en favor de las Entidades locales que vayan a prestarse en régimen no monopolizado bastará para su establecimiento el acuerdo del Pleno de la Corporación con determinación de la forma de gestión del servicio, y previo expediente comprensivo de los aspectos sociales, financieros, técnicos y jurídicos de la actividad, y acreditativo de la idoneidad de la modalidad gestora proyectada.
+2. Si los servicios reservados en favor de las Entidades locales fuesen a prestarse en régimen de monopolio, el acuerdo del Pleno deberá adoptarse por mayoría absoluta del número legal de miembros de la Corporación, previa exposición pública por plazo no inferior a treinta días naturales, y requerirá la aprobación del Gobierno de Navarra, que se otorgará discrecionalmente en función de la concurrencia de circunstancias de interés público legitimadoras de la exclusión de la iniciativa privada en la actividad o servicio de que se trate. La resolución del Gobierno de Navarra deberá recaer en plazo de tres meses desde la recepción del expediente completo, teniendo el silencio carácter positivo.
+
+### Artículo 210
+
+Artículo 210.
+El acuerdo aprobatorio de la prestación de los servicios en régimen de monopolio llevará aneja la declaración de utilidad pública y la necesidad de ocupación de los bienes o adquisición de los derechos afectados por el servicio.
+
+### Artículo 211
+
+Artículo 211.
+1. La expropiación de Empresas o rescate de concesiones que hayan de producirse como consecuencia de la prestación de los servicios o ejecución de las actividades económicas en régimen de monopolio, requieren el previo aviso a los interesados con la antelación mínima de seis meses y se regirán por la legislación general reguladora de la materia.
+2. En el caso de no establecerse el servicio que motivó la expropiación en el plazo de dos años, los particulares o Entidades afectadas podrán recuperar los bienes o derechos que les hubieren sido expropiados, en la forma y condiciones previstas en la legislación sobre expropiación forzosa. Igual facultad les asistirá cuando desapareciere el servicio o cesare su prestación en régimen de monopolio en el plazo de diez años.
+
+## CAPÍTULO III
+
+CAPÍTULO III
+Consorcios y Mancomunidades de planificación general
+Se modifica por el art. 1.19 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 212
+
+Artículo 212. Consorcios.
+1. Las entidades locales podrán constituir consorcios con otras administraciones públicas de diferente naturaleza para fines de interés común o con asociaciones, fundaciones o entidades privadas que persigan fines de interés público concurrentes con los de las administraciones locales.
+2. Estos consorcios tendrán la consideración de entidades públicas con personalidad jurídica propia y potestad plena para el cumplimiento de sus fines. Podrán prestar los servicios de su competencia a través de cualquiera de las formas previstas por la legislación de régimen local. La constitución del consorcio requerirá el previo trámite de municipalización cuando tenga por objeto la prestación de servicios o ejecución de actividades sujetas a dicho trámite.
+3. Cada consorcio configurado conforme a lo dispuesto en los dos números anteriores quedará adscrito, en cada ejercicio presupuestario, a la Administración pública que disponga de mayor número de votos en su órgano superior de gobierno.
+Cuando varias administraciones dispongan de igual número de votos, se designará a aquella que cuente con voto de calidad para casos de empate. En su defecto, la adscripción recaerá sobre la Administración con mayor población atendida o más extensión territorial, dependiendo de si los fines definidos en sus estatutos están orientados a la prestación de servicios a personas o al desarrollo de actuaciones sobre el territorio.
+4. Los estatutos del consorcio se aprobarán previa información pública durante quince días, y determinarán su régimen orgánico, funcional y financiero, así como los fines para los que se instituya.
+5. En los casos de consorcios de carácter internacional, se estará a lo dispuesto en la legislación estatal en la materia.
+Se modifica por el art. 1.19 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. único.3 de la Ley Foral 23/2014, de 2 de diciembre. Ref. BOE-A-2014-13625
+
+### Artículo 213
+
+Artículo 213. Mancomunidades de planificación general.
+1. Las entidades locales navarras y la Administración de la Comunidad Foral podrán constituirse en mancomunidades de planificación general para la coordinación de la prestación de servicios de competencia local en los que la legislación aplicable atribuya a aquélla dicha función de forma necesaria.
+2. En atención a la materia objeto de coordinación, formarán parte de la misma, la Administración de la Comunidad Foral, las comarcas y los municipios de población inferior a 20.000 habitantes, pudiendo también integrarse en ella, así mismo, aquellos municipios con población superior a 20.000 habitantes que así lo soliciten.
+3. Mediante ley foral podrán atribuirse a la mancomunidad de planificación general competencias de gestión, recaudación e inspección tributaria, relativas a las funciones que realice y a los servicios que, en su caso, preste.
+4. Las mancomunidades de planificación general tienen personalidad y capacidad jurídica para el cumplimiento de sus fines específicos y se rigen por sus estatutos propios.
+5. La iniciativa para la creación de una mancomunidad de planificación general y para la determinación de su ámbito territorial corresponderá a la Administración de la Comunidad Foral en virtud de sus facultades de coordinación de la prestación de determinados servicios de competencia local.
+6. La iniciativa a la que se refiere el apartado anterior se adoptará por Acuerdo del Gobierno de Navarra. Adoptado el correspondiente Acuerdo, el departamento competente en materia de Administración Local dará traslado del mismo a todas las entidades locales que hayan de formar parte de la mancomunidad de planificación general para que, en el plazo de dos meses desde su recepción, formulen, mediante acuerdo adoptado por sus respectivos órganos superiores de gobierno, las alegaciones, reparos u observaciones que estimen procedentes y designen un representante para el proceso de elaboración de los estatutos.
+Si la entidad local no adopta ningún acuerdo o no lo comunica dentro del citado plazo, se entenderá que no tiene objeciones a su integración en la mancomunidad de planificación general.
+Transcurrido el plazo señalado, el Gobierno de Navarra, mediante Acuerdo, resolverá las alegaciones que en su caso se hubieren formulado y designará a los representantes del Gobierno de Navarra y de las entidades locales que hayan de formar parte de la Comisión redactora del proyecto de estatutos de la mancomunidad de planificación general.
+7. La elaboración de los estatutos de las mancomunidades de planificación general se ajustará a las siguientes normas:
+1.ª Elaboración inicial del proyecto por una comisión formada por representantes de la Administración de la Comunidad Foral y por un representante de cada una de las entidades locales que hayan de integrarse en la misma, de conformidad con lo previsto en el apartado anterior.
+En el supuesto de que el servicio objeto de coordinación de que se trate esté encomendado por las entidades locales a una entidad supramunicipal, y en tanto no se constituyan las comarcas, la representación de estas entidades locales recaerá en el Presidente de la entidad supramunicipal o persona en quien delegue.
+2.ª Sometimiento del proyecto a exposición pública por periodo de un mes en el portal de gobierno abierto de Navarra en Internet y en las secretarías de las entidades locales que hayan de formar parte de la mancomunidad de planificación general, previo anuncio en los respectivos tablones.
+3.ª Resolución, en su caso, por la citada comisión, de las alegaciones, reparos u observaciones que hubieran podido formularse en la fase de exposición pública y elaboración definitiva del proyecto de estatutos.
+4.ª Aprobación de los estatutos por Acuerdo del Gobierno de Navarra.
+5.ª Publicación de los estatutos en el “Boletín Oficial de Navarra”.
+8. La modificación de los estatutos estará sujeta a las reglas establecidas para su aprobación, excepción hecha de las actuaciones previstas en las reglas 1 y 3, que serán realizadas por el órgano superior de gobierno de la mancomunidad de planificación general.
+9. La disolución de la mancomunidad de planificación general estará sujeta a las normas establecidas en el presente artículo para su creación, a excepción de la determinación del ámbito territorial y de las previsiones relativas al nombramiento de representantes de las entidades locales.
+10. Aprobados los estatutos y constituida la mancomunidad de planificación general, las entidades locales participantes en la mancomunidad de planificación general, tendrán siempre, en conjunto, mayoría de votos en su órgano superior de gobierno, que estará integrado por representantes de la Administración de la Comunidad Foral y de las entidades mancomunadas.
+11. Los órganos de gobierno de las mancomunidades de planificación general ostentarán las atribuciones que los estatutos les confieran. En todo caso, la Asamblea u órgano superior de la entidad ostentará las atribuciones que, en los Ayuntamientos, corresponden al pleno.
+12. Las mancomunidades de planificación general contarán con puestos propios específicos de secretaría e intervención, con habilitación de la Comunidad Foral de Navarra.
+13. Podrán prestar los servicios de su competencia, así como aquellos que les encomienden sus entidades asociadas a través de cualquiera de las formas previstas por la legislación de régimen local.
+14. El Gobierno de Navarra fomentará la creación de mancomunidades de planificación general, de conformidad con lo previsto en el artículo 367 de la presente ley foral para las comarcas.
+Se modifica por el art. 1.19 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se añade el apartado 3 por el art. 8 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## CAPÍTULO IV
+
+Obras públicas locales
+
+### Artículo 214
+
+Artículo 214.
+1. Son obras públicas locales las de nueva planta, reparación o entretenimiento que ejecuten las Entidades locales, tanto con fondos propios como con auxilios de otras Entidades públicas o particulares, para la atención y realización efectiva de los servicios de su competencia.
+2. Las obras públicas podrán ser ordinarias o de urbanización. Estas últimas se regirán por lo dispuesto en la legislación urbanística.
+
+### Artículo 215
+
+Artículo 215.
+1. Las obras se ejecutarán conforme a los correspondientes proyectos técnicos y presupuestarios, previamente aprobados por el órgano competente de la Entidad.
+2. La aprobación de los proyectos de obras relativos a los planes de obras y servicios locales llevará implícita la declaración de utilidad pública y la necesidad de ocupación de los bienes comprendidos en ellos, a efectos de expropiación forzosa.
+
+## CAPÍTULO V
+
+Acción socioeconómica
+
+### Artículo 216
+
+Artículo 216.
+1. Las Entidades locales podrán explotar actividades industriales, mercantiles, agrícolas u otras análogas de naturaleza económica, conforme al artículo 128.2 de la Constitución, así como potenciar la creación y desarrollo de iniciativas locales de empleo con dicha finalidad.
+2. Asimismo, podrán adoptar medidas de protección y promoción del aprovechamiento de los recursos naturales e industriales ubicados en su territorio, coordinadamente con la acción del Estado o de la Comunidad Foral en el ámbito de sus respectivas competencias.
+3. Estas actuaciones tendrán como finalidad primordial el satisfacer las necesidades de las colectividades a que representan mediante la utilización preferente de recursos humanos y materiales propios de las mismas.
+
+### Artículo 217
+
+Artículo 217.
+1. La ejecución de actividades económicas a que se refiere el número 1 del artículo anterior podrá ser asumida por la Administración local en forma exclusiva mediante la constitución de Sociedades mercantiles cuyo capital social le pertenezca íntegramente o en colaboración con otras Entidades públicas o privadas y los particulares a través de Sociedades de economía mixta.
+Dichas Sociedades adoptarán la forma de sociedades anónimas o cooperativas de responsabilidad limitada y se regirán por las normas de Derecho privado que les sean de aplicación. Sus Estatutos garantizarán la máxima autonomía en el funcionamiento de la Sociedad y establecerán las causas tasadas de dependencia de la autoridad local.
+2. Cuando la Entidad local participe en más de un tercio del capital social, el ejercicio de la actividad económica requerirá la previa tramitación del expediente a que se refiere el artículo 205.
+
+### Artículo 218
+
+Artículo 218.
+1. La gestión económica se realizará en régimen de libre concurrencia con la iniciativa privada, sin ventajas de carácter fiscal con respecto a ésta, y se ajustará al principio de rentabilidad.
+2. El ejercicio de la actividad empresarial cesará, en todo caso, en el supuesto previsto en el apartado c) del artículo 207 para las municipalizaciones.
+
+### Artículo 219
+
+Artículo 219.
+La actividad cooperativa de las Entidades locales tendrá por objeto esencial la promoción del acceso a los bienes y servicios de primera necesidad de los sectores vecinales menos favorecidos. Incidirá preferentemente en la promoción del empleo mediante su participación en cooperativas de trabajo asociado.
+
+### Artículo 220
+
+Artículo 220.
+Con el fin de potenciar la creación y desarrollo de iniciativas locales de empleo, las Entidades locales podrán establecer agencias de desarrollo y aprobar reglamentaciones que contemplen el otorgamiento a dichas iniciativas de subvenciones, avales y cualesquiera otras medidas que se estimen oportunas.
+
+## CAPÍTULO VI
+
+Del fomento
+
+### Artículo 221
+
+Artículo 221.
+1. Las Entidades locales de Navarra pueden colaborar con otros Organismos públicos o privados y con los particulares en la gestión de los intereses públicos de la comunidad vecinal mediante la concesión de auxilios económicos para la prestación de servicios o ejecución de actividades que coadyuven o suplan las atribuidas a la competencia local.
+2. La concesión de ayudas se ajustará a los principios de publicidad, igualdad de trato y congruencia entre los medios y fines que la justifiquen.
+
+### Artículo 222
+
+Artículo 222.
+1. Las subvenciones se destinarán al fin para el que fueron otorgadas y con sujeción a las condiciones que se hubiesen establecido.
+2. La Administración local está facultada para comprobar en todo momento el cumplimiento de lo dispuesto en el número anterior.
+
+### Artículo 223
+
+Artículo 223.
+No podrán otorgarse auxilios económicos, directa o indirectamente, a particulares o Entidades sujetos a tributación de la respectiva Hacienda local, en cuanto supongan exenciones fiscales no previstas en la ley, compensaciones o aminoraciones de deudas contraídas con aquélla. Tampoco podrán concederse auxilios económicos a los particulares o Entidades que se hallen incursos en procedimiento de cobro por vía de apremio por deudas contraídas con la Entidad local.
+No obstante lo anterior, la entidad local podrá conceder auxilios económicos a particulares que se hallen incursos en procedimientos de cobro por vía de apremio por deudas contraídas con la misma, cuando de forma expresa se contemple tal circunstancia en la norma reguladora de los referidos auxilios y en los términos y condiciones que en ella se expresen.
+Se añade un párrafo por el art. único de la Ley Foral 7/2014, de 14 de abril. Ref. BOE-A-2014-5116
+
+## TÍTULO VI
+
+Contratación
+
+### Artículo 224
+
+Artículo 224.
+1. Los contratos que celebren las entidades locales de Navarra se ajustarán al régimen legal aplicable a las Administraciones Públicas de Navarra, con las especialidades que se contienen en esta Ley Foral.
+2. Los contratos de obras, suministro, asistencia y las concesiones de obras públicas y de servicios celebrados por el resto de personas y entidades vinculadas o dependientes de las entidades locales de Navarra o subvencionadas por estas, sujetos a la legislación foral de contratos públicos se prepararán y adjudicarán conforme a las disposiciones establecidas en dicha legislación para los contratos públicos de esos sujetos y entidades, con las especialidades que se contienen en esta Ley Foral.
+3. A los contratos para gestionar un servicio público de las entidades locales de Navarra y sus entidades vinculadas en los que la retribución al contratista no consista en su explotación económica o bien en la explotación acompañada de un precio se les aplicará el régimen jurídico establecido para los contratos de concesión de servicios con las siguientes salvedades:
+a) El plazo no podrá exceder, incluidas sus prórrogas, salvo en los conciertos, de diez años.
+b) Será de aplicación la obligación de publicidad comunitaria cuando, procediendo estas por el tipo de servicio de que se trate, el importe estimado del contrato exceda del umbral comunitario.
+4. La selección del socio o socios privados que se vaya a realizar por una entidad local o sus entidades vinculadas para la gestión de un servicio público mediante una sociedad mercantil o cooperativa cuyo capital sólo parcialmente pertenezca a la entidad local se realizará de conformidad con las disposiciones aplicables de la legislación foral de contratos públicos.
+5. Será aplicable a las entidades locales el régimen de encargos a sus propios entes instrumentales previsto en el artículo 8 de la Ley Foral de Contratos Públicos, sin perjuicio de la vigencia de las formas de gestión de los servicios públicos previstas en el artículo 192 y siguientes de dicha Ley Foral.
+Se modifica por el art. único.2 de la Ley Foral 4/2013, de 25 de febrero. Ref. BOE-A-2013-2817
+ Se modifica por el art. 3 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+ Se modifica por el art. 9 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 225
+
+Artículo 225.
+En las entidades locales de Navarra cuya población sea inferior a 2.000 habitantes, en aquellos procedimientos de contratación en los que los únicos trámites exigibles sean la previa reserva de crédito, conforme a la legislación presupuestaria aplicable y la presentación de la correspondiente factura, la existencia de incompatibilidad en los cargos electivos locales determinará únicamente la concurrencia de una causa de abstención.
+Se modifica por el art. único.3 de la Ley Foral 4/2013, de 25 de febrero. Ref. BOE-A-2013-2817
+ Se modifica por el art. 3 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+ Se modifica por el art. 9 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 226
+
+Artículo 226.
+La competencia para contratar corresponderá a los siguientes órganos de las entidades locales:
+1. En los Municipios, a los que corresponda de conformidad con lo establecido en el artículo 8 de esta Ley Foral.
+2. En los Concejos, a quien corresponda conforme a sus usos y costumbres y, en su defecto:
+a) Al Presidente:
+1) Las contrataciones anuales cuando su importe no supere el 10 por 100 de los ingresos corrientes del presupuesto.
+2) Las contrataciones plurianuales, siempre que el número de ejercicios a que se aplique el gasto no sea superior a cuatro, y que el importe acumulado de todas las anualidades no supere el porcentaje indicado anteriormente.
+b) A la Junta o Concejo Abierto, en los demás casos.
+3. En las Mancomunidades, Agrupaciones Tradicionales y otras entidades locales de carácter asociativo, se estará a lo dispuesto en sus respectivos estatutos, siendo de aplicación supletoria lo establecido para los Concejos en el apartado anterior.
+Se modifica por el art. 3 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+ Se modifica por el art. 9 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+ Se modifica por el art. único de la Ley Foral 15/2002, de 31 de mayo. Ref. BOE-A-2002-12609
+
+### Artículo 227
+
+Artículo 227.
+1. Las entidades locales podrán establecer pliegos de cláusulas administrativas generales y pliegos de prescripciones técnicas generales. La aprobación de estos pliegos compete al Pleno u órgano supremo de la entidad.
+Los pliegos de cláusulas administrativas particulares y los pliegos de prescripciones técnicas particulares no podrán incluir estipulaciones contrarias a lo previsto en los pliegos generales, salvo en los casos en que lo autorice el órgano competente para la aprobación de éstos.
+2. En lo supuestos en que una o varias entidades locales u organismos o entidades vinculadas o dependientes de éstas creen o constituyan centrales de compras o se adhieran a las promovidas por otras Administraciones Públicas de Navarra, dichas centrales podrán adjudicar en una única licitación uno o varios contratos de una o varias entidades formando a tal efecto lotes conforme a criterios geográficos, económicos, de homogeneidad de prestaciones o cualesquiera otros que permitan seleccionar adjudicatarios o poner a disposición de las entidades afectadas prestaciones que precisen, conforme al principio de eficiencia.
+Cuando vayan a adjudicar simultáneamente contratos de obras, suministros o asistencias por lotes separados, podrá establecerse la ejecución diferida en el tiempo de todos o parte de ellos y se podrá exigir a los licitadores que presenten ofertas para varios o la totalidad de los lotes, indicando en todo caso una u otra circunstancia en el pliego de cláusulas administrativas particulares o condiciones del contrato y en el anuncio de licitación, en su caso.
+3. En la tramitación excepcional de expedientes de emergencia, el órgano de contratación podrá ser en todos los casos el Presidente de la entidad, dando cuenta al Pleno de lo actuado en la primera sesión que se celebre.
+Se modifica por el art. 3 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+ Se modifica por el art. 9 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 228
+
+Artículo 228.
+1. Será obligatoria la constitución de una Mesa de Contratación para la adjudicación de los contratos de concesión en cualquier caso, para la de los contratos de obra de importe estimado superior a 300.000 euros, IVA excluido, y para la de los contratos de suministro y asistencia de importe estimado superior a 60.000 euros, IVA excluido. En los demás casos, el pliego de cláusulas administrativas podrá establecer una Mesa de Contratación.
+2. Será Presidente de la Mesa de Contratación quien lo sea de la corporación, o miembro de ésta en quien delegue, y formarán parte de la misma, como mínimo, dos vocales designados por el órgano de contratación, uno de los cuales será el Secretario de la entidad o un funcionario Licenciado en Derecho que ocupe plaza para la que se exija dicha titulación, que actuará como secretario.
+Si los vocales designados por el órgano de contratación no fueran técnicos especializados en la materia objeto del contrato, la Mesa deberá solicitar los informes técnicos oportunos en los que se basará la propuesta de adjudicación.
+3. En los supuestos en los que, de conformidad con el apartado 1 de este artículo, la constitución de la Mesa de Contratación sea potestativa, cuando no se constituya ésta, la admisión de los licitadores y la propuesta de adjudicación corresponderán a la unidad gestora del contrato, a propuesta del Secretario, debiéndose basarse ambas en los informes técnicos oportunos.
+Si se constituyera Mesa de Contratación, dicha constitución podrá ser para todo el proceso o exclusivamente a efectos de la formulación de la propuesta de adjudicación. En este último caso, la calificación y la admisión se producirán de conformidad con el párrafo anterior.
+Se modifica por el art. 3 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+ Se modifica por el art. 9 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 229
+
+Artículo 229.
+1. Las entidades locales podrán establecer, con carácter general o para cada contrato, criterios para dirimir los empates que se produzcan tras la aplicación de los criterios de adjudicación, resolviéndose por sorteo en los casos en que tras aplicar dichos criterios persistiera el empate y dirimiéndose, en caso de que no se establezcan, de conformidad con los fijados en la legislación foral de contratos públicos.
+2. El documento de condiciones esenciales del contrato en un procedimiento negociado contendrá como mínimo la regulación de las siguientes cuestiones: objeto, importe y plazo de contrato y especificaciones técnicas necesarias para su ejecución; identificación del órgano de contratación, unidad gestora del contrato y, en su caso, de la Mesa de Contratación; requisitos mínimos de solvencia; criterios de adjudicación; forma de pago y, en su caso, de la revisión de precios.
+3. Los procedimientos abiertos que se vayan a adjudicar exclusivamente con base en el precio podrán celebrarse a viva voz, mediante propuestas y pujas verbales que formulen los licitadores, con arreglo a los usos y costumbres de la localidad.
+En dichas contrataciones se aplicarán las prescripciones contenidas en la legislación foral de contratos públicos, sustituyéndose la presentación por escrito de las proposiciones económicas por las propuestas o pujas verbales que se realizarán en acto público.
+4. Para participar en las subastas relativas al aprovechamiento de bienes patrimoniales o comunales, o a la enajenación de aquellos, que se celebren por el procedimiento de a viva voz, el único requisito que se exigirá a los licitadores será la constitución de la garantía provisional, que habrá de establecerse en el pliego de cláusulas administrativas particulares.
+Previamente a la adjudicación se exigirá la presentación de la documentación acreditativa del cumplimiento de las condiciones exigidas en el pliego de cláusulas administrativas particulares.
+En caso de que el licitador a cuyo favor vaya a recaer la propuesta de adjudicación no cumpliere dichas condiciones, se incautará, en todo caso, la garantía provisional y responderá, además, de los daños y perjuicios que se causen a la Administración licitadora por la diferencia de la adjudicación. El resultado del acto de celebración de las subastas se hará público de inmediato en el tablón de anuncios de la entidad.
+5. Cuando las subastas relativas al aprovechamiento de bienes patrimoniales o comunales, o a la enajenación de aquellos, se hayan realizado por procedimiento abierto, la postura en cuyo favor haya recaído la propuesta de adjudicación podrá ser mejorada con el aumento de la sexta parte de su importe, como mínimo. El sexteo se sujetará a las siguientes normas:
+a) Deberá formularse dentro de los seis días siguientes a contar desde la hora anunciada para la subasta, y terminará a la misma hora del sexto día siguiente incluyendo los festivos.
+b) Podrá ser formulado por cualquier persona legalmente capacitada, aunque no haya sido licitadora en la subasta, siempre que haya constituido previamente la garantía provisional.
+c) Puede formularse por escrito o verbalmente mediante comparecencia ante el Secretario, que en todo caso extenderá diligencia firmada por el interesado, consignando día y hora de la presentación.
+d) Formalizado el sexteo, se celebrará nueva subasta dentro de los cuatro días hábiles siguientes al de terminación del plazo señalado para su ejercicio. La entidad local estará obligada a poner en conocimiento del licitador en cuyo favor hubiera recaído la propuesta de adjudicación que su postura ha sido mejorada en la sexta parte con indicación expresa de la fecha de la subasta definitiva.
+e) Para la subasta definitiva servirá de tipo de tasación el que resulte de la mejora formulada, publicándose a este fin el anuncio correspondiente en el tablón de anuncios, señalando con dos días naturales de antelación, cuando menos, la fecha y hora en que haya de tener lugar la nueva subasta, que se celebrará en igual forma que la originaria. Si no concurren licitadores, se propondrá la adjudicación a favor del sexteante.
+f) Se levantará acta de la nueva subasta celebrada y se anunciará su resultado en la forma prevista en el último párrafo del apartado 4 de este artículo.
+g) Dentro de los tres días hábiles siguientes al de la fecha de la propuesta de adjudicación, cualquier persona, aunque no haya sido licitadora, podrá alegar por escrito los defectos de tramitación de la licitación y en especial los relativos a la capacidad jurídica de los licitadores, y solicitar la adopción de la resolución que a su juicio proceda sobre la adjudicación.
+6. Los anuncios de licitación y de adjudicación se publicarán en los medios que establece la legislación foral en materia de contratación pública y, además, en el tablón de anuncios de la entidad local respectiva. El cómputo de los plazos comenzará a regir desde la publicación en el Portal de Contratación de Navarra o en el Diario Oficial de la Unión Europea de conformidad con la legislación foral en materia de contratación pública.
+Se modifica por el art. único.4 de la Ley Foral 4/2013, de 25 de febrero. Ref. BOE-A-2013-2817
+ Se modifica por el art. 3 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+ Se modifica por el art. 9 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 230
+
+Artículo 230.
+El pliego de cláusulas administrativas particulares deberá prever la constitución de garantías para el cumplimiento de obligaciones con carácter previo a la formalización del contrato cuando el importe de este sea superior a 300.000 euros, IVA excluido, en los contratos de obras, y superior a 60.000 euros, IVA excluido, en los de suministro y asistencia, así como en cualquier contrato, independientemente de su naturaleza y cuantía, cuando el adjudicatario hubiera presentado una oferta que pueda presumirse anormalmente baja de conformidad con la legislación foral de contratos públicos, en cuyo caso se podrá constituir una fianza de hasta el 50 por 100 del precio de adjudicación, sin perjuicio de su devolución o cancelación parcial antes de la recepción del contrato, previo informe de la unidad gestora del contrato.
+Las garantías exigidas para la licitación o para el cumplimiento de obligaciones en los contratos de las entidades locales serán depositadas en la Tesorería de la entidad contratante.
+Se modifica por el art. único.5 de la Ley Foral 4/2013, de 25 de febrero. Ref. BOE-A-2013-2817
+ Se modifica por el art. 3 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+ Se modifica por el art. 9 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 231
+
+Artículo 231.
+A la recepción de las obras concurrirá el Presidente de la entidad o miembro de ésta en quien delegue, el Secretario de la entidad, el encargado de la dirección de las obras, y el contratista, acompañado, si lo estima conveniente, de su facultativo, y quien ejerciere las funciones de Intervención.
+Se modifica por el art. 3 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+ Se modifica por el art. 9 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 232
+
+Artículo 232.
+Las empresas y profesionales interesados en la licitación y adjudicación de contratos públicos podrán solicitar la adopción de medidas cautelares y la presentación de reclamaciones en materia de contratación pública en los términos previstos en la legislación foral en materia de contratación pública.
+Se modifica por el art. único.6 de la Ley Foral 4/2013, de 25 de febrero. Ref. BOE-A-2013-2817
+ Se modifica por el art. 3 de la Ley Foral 1/2007, de 14 de febrero. Ref. BOE-A-2007-5446
+ Se modifica por el art. 9 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## TÍTULO VII
+
+Personal al servicio de las Entidades locales de Navarra
+
+## CAPÍTULO I
+
+Disposiciones comunes
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 233
+
+Artículo 233. Clases de personal. Régimen jurídico.
+1. El personal al servicio de las entidades locales de Navarra estará integrado por funcionarios públicos, personal eventual, y contratado, fijo o temporal.
+2. No tendrán la condición de personal de las entidades locales de Navarra quienes tengan atribuida la realización de funciones o la prestación de servicios por su condición de miembros de la Corporación, o los realicen o presten mediante una relación de arrendamiento.
+3. El personal al servicio de las entidades locales de Navarra se regirá, en lo no dispuesto por esta Ley, por el Estatuto del personal al servicio de las Administraciones Públicas de Navarra.
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+ Redactado conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Artículo 234
+
+Artículo 234. Descripción y ejercicio de funciones públicas necesarias.
+1. Son funciones públicas necesarias en todas las entidades locales de Navarra:
+a) La de secretaría, comprensiva de la fe pública y el asesoramiento legal preceptivo.
+b) La de intervención, comprensiva del control y fiscalización interna, del asesoramiento y gestión económica-financiera y presupuestaria y de la contabilidad.
+c) La de tesorería, comprensiva de las funciones de manejo y custodia de fondos y de recaudación.
+Con carácter general, el ejercicio de las funciones públicas de secretaría e intervención, queda reservado exclusivamente a personal funcionario con habilitación conferida por la Administración de la Comunidad Foral.
+Las funciones de tesorería y las que impliquen ejercicio de autoridad podrán ser ejercidas conforme a las determinaciones establecidas en la presente ley foral.
+Salvo en los supuestos previstos en el apartado 3º de este artículo, las funciones públicas de secretaría, intervención y tesorería no podrán ser ejercidas simultáneamente en diferentes entidades locales que cuenten con los puestos propios específicos contemplados en los artículos 243.2 y 244.2 de la presente ley foral.
+2. Las funciones públicas a que se refiere el número anterior se ejercerán:
+a) En las comarcas, agrupaciones tradicionales, mancomunidades de planificación general, mancomunidades con puesto de trabajo específico y municipios contemplados en los artículos 243.2 a) y 244.2 a) de la presente ley foral, se ejercerán por el personal propio de la respectiva entidad local.
+En los municipios que no cuenten con puestos propios específicos, las funciones públicas de secretaría o intervención se ejercerán de conformidad con lo establecido en el apartado 1.º del artículo 361.1 e) de la presente ley foral, por personal propio de la comarca correspondiente.
+b) En los concejos, el ejercicio de dichas funciones se ajustará a las siguientes reglas:
+– En el supuesto de gestión competencial compartida previsto en el artículo 42 bis) de la presente ley foral, los servicios administrativos de secretaría e intervención se prestarán por personal funcionario del ayuntamiento.
+– En los demás supuestos, los servicios administrativos de secretaría e intervención, se prestarán por personal funcionario propio de la respectiva comarca.
+c) En las Agrupaciones locales de carácter tradicional se desarrollarán de conformidad con lo dispuesto en los respectivos Reglamentos, Ordenanzas, Convenios, Acuerdos, Sentencias o Concordias.
+d) En aquellas Mancomunidades que no cuenten con puestos específicos, las funciones mencionadas en los apartados a) y b) del apartado 1, podrán encomendarse a quienes las desempeñen en alguna de las entidades locales asociadas y lo soliciten, o bien con carácter forzoso y rotativo en ausencia de solicitud, con el derecho a percibir la asignación económica que la Mancomunidad determine, que en ningún caso será inferior al 10 por ciento del sueldo inicial del nivel que tenga reconocido la persona encomendada.
+3. En los casos de ausencia, enfermedad o situación administrativa que conlleve reserva de plaza, así como en los de impedimento normativo para su definitiva provisión, o de provisión temporal de vacante convocada para ser cubierta por funcionario, el ejercicio de las funciones públicas necesarias de secretaría e intervención podrá ser realizado:
+a) En las comarcas:
+– Por un funcionario propio, con habilitación foral suficiente, o por personal fijo de su plantilla con titulación suficiente habilitado accidentalmente para su desempeño, o mediante contratación temporal en régimen administrativo de persona seleccionada mediante convocatoria pública.
+– Por un funcionario con habilitación foral suficiente que preste servicios en otra entidad local, siempre que quede suficientemente acreditada la imposibilidad de proveer temporalmente dichas plazas por ninguna de las opciones previstas en el apartado anterior o durante el tiempo que dure la tramitación correspondiente para conseguirlo. Para ello, previamente deberá comunicar tal circunstancia al departamento competente en materia de Administración Local y contar con la autorización de las entidades locales implicadas.
+b) En el resto de entidades locales con puesto propio específico:
+– Por personal fijo de plantilla de la respectiva entidad con titulación suficiente para el acceso a la plaza concreta habilitado accidentalmente por la misma, o mediante contratación temporal en régimen administrativo de persona seleccionada mediante convocatoria pública.
+– Por un funcionario con habilitación foral suficiente que preste servicios en otra entidad local, siempre que quede suficientemente acreditada la imposibilidad de proveer temporalmente dichas plazas por ninguna de las opciones previstas en el apartado anterior o durante el tiempo que dure la tramitación correspondiente para conseguirlo. Para ello, previamente deberá comunicar tal circunstancia al departamento competente en materia de Administración Local y contar con la autorización de las entidades locales implicadas.
+Se modifica por el art. 1.20 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+ Se modifica el apartado 1 por el art. 10 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+ Redactado el apartado 1.b) conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Artículo 235
+
+Artículo 235. Plantillas Orgánicas.
+1. Las entidades locales incluirán en la correspondiente plantilla orgánica las características de las plazas y puestos de trabajo, incluidas las relativas a la aplicación de la Ley Foral 18/1986, de 15 de diciembre, del Vascuence y su normativa de desarrollo, y a ellas deberán ajustarse los procedimientos de provisión de dicho personal.
+2. Las plantillas orgánicas de las entidades locales deben aprobarse anualmente con ocasión de la aprobación del presupuesto y tanto la aprobación, como su modificación durante la vigencia del mismo, requerirá el cumplimiento de los trámites establecidos para aquel, incluido el de su publicación en el Boletín Oficial de Navarra.
+3. Cuando, en virtud de la existencia de una entidad de carácter asociativo o de un convenio, exista personal que preste sus servicios en una pluralidad de entidades locales; este personal sólo deberá incluirse en la plantilla de la entidad de la que dependa orgánicamente, debiendo efectuarse la consiguiente indicación de la referida circunstancia en las plantillas orgánicas de las demás entidades en las que presten servicios.
+4. Las entidades locales enviarán una copia de la plantilla y de las relaciones de puestos de trabajo, incluyendo el personal que los ocupa, a la Administración de la Comunidad Foral en el plazo de un mes desde su aprobación definitiva.
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+ Se modifica el apartado 2 por el art. 10 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 236
+
+Artículo 236. Selección de personal.
+1. Corresponde a cada entidad local la selección del personal que haya de ocupar puestos de trabajo no reservados a personal con habilitación conferida por la Administración de la Comunidad Foral de Navarra.
+2. Corresponde al departamento del Gobierno de Navarra competente en materia de administración local la selección y nombramiento del personal que haya de ejercer funciones públicas necesarias de secretaría y/o intervención reservadas a personal con habilitación foral.
+Los puestos ocupados por el citado personal tendrán la consideración de plazas pertenecientes a la plantilla orgánica de la comarca, en los supuestos contemplados en el artículo 361.1 e) de la presente ley foral, o de las entidades locales respectivas, si se trata de puestos propios específicos regulados en los artículos 243.2 y 244.2.
+A dichos efectos, las comarcas incluirán en sus plantillas orgánicas los puestos de trabajo reservados a funcionarios con habilitación foral que resulten necesarios para garantizar el cumplimiento de las funciones públicas necesarias en las entidades locales de su término.
+3. El Instituto Navarro de Administración Pública tendrá entre sus funciones la formación del personal de las entidades locales. No obstante, las entidades locales y sus asociaciones podrán suscribir convenios con dicho organismo para la realización en común de actividades formativas.
+Se modifica el apartado 2 por el art. 1.21 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 237
+
+Artículo 237. Remuneraciones.
+El personal al servicio de las entidades locales, con las especificidades establecidas en esta Ley Foral, solo será remunerado por los conceptos y cuantías establecidas en el Estatuto del personal al servicio de las Administraciones Públicas de Navarra y en las disposiciones que lo desarrollan, debiendo ser detallados y concretadas en las plantillas orgánicas de cada entidad.
+En consecuencia, no podrán participar en la distribución de fondos de ninguna clase, ni percibir remuneraciones distintas de las comprendidas en tales normas.
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+ Se modifica por el art. único de la Ley Foral 15/2002, de 31 de mayo. Ref. BOE-A-2002-12609
+
+## CAPÍTULO II
+
+Delimitación de funciones públicas necesarias y de puestos reservados a funcionarios con habilitación foral
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+## Sección 1
+
+Sección 1.ª De las funciones públicas necesarias
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 238
+
+Artículo 238. Responsabilidad del ejercicio de funciones públicas necesarias.
+1. Como regla general, quien ostente la responsabilidad administrativa de cada una de las funciones públicas necesarias de Secretaría, Intervención y Tesorería que se relacionan en esta Sección, tendrá atribuida la dirección de los servicios encargados de su realización, sin perjuicio de las atribuciones de los órganos de gobierno de la Entidad Local en el ejercicio de su respectiva potestad organizativa.
+2. Las entidades locales adoptarán las medidas organizativas, personales y materiales necesarias y suficientes para garantizar que al personal que ejerce las funciones públicas necesarias y complementarias, se le garantice el cumplimiento de sus obligaciones con total independencia, objetividad e imparcialidad.
+Se modifica el apartado 2 por el art. 1.22 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+## CAPÍTULO II
+
+Disposiciones específicas para determinados cargos
+
+## Sección 1
+
+Sección 1.ª Secretaría
+
+### Artículo 239
+
+Artículo 239.
+La función de fe pública comprende:
+a) La preparación de los asuntos que hayan de ser incluidos en el orden del día de las sesiones que celebren el Pleno, la Junta de Gobierno decisoria y cualquier otro órgano colegiado de la Corporación en que se adopten acuerdos que vinculen a la misma, de conformidad con lo establecido por el Alcalde o Presidente de la Corporación y la asistencia al mismo en la realización de la correspondiente convocatoria, notificándola con la debida antelación a todos los componentes del órgano colegiado.
+b) Custodiar desde el momento de la convocatoria la documentación íntegra de los expedientes incluidos en el orden del día y tenerla a disposición de los miembros del respectivo órgano colegiado que deseen examinarla.
+c) Levantar acta de las sesiones de los órganos colegiados referidos en el apartado a) y someter a aprobación al comienzo de cada sesión el de la precedente. Una vez aprobada, se transcribirá en el Libro de Actas autorizada con la firma del Secretario y el visto bueno del Alcalde o Presidente de la Corporación.
+d) Transcribir al Libro de Resoluciones de la Presidencia las dictadas por aquélla y por los miembros de la Corporación que resuelvan por delegación de la misma.
+e) Certificar de todos los actos o resoluciones de la Presidencia y los acuerdos de los órganos colegiados decisorios, así como de los antecedentes, libros y documentos de la Entidad.
+f) Remitir a la Administración del Estado y a la Administración de la Comunidad Foral de Navarra, en los plazos y formas determinados reglamentariamente, copia o, en su caso, extracto de los actos y acuerdos de los órganos decisorios de la Corporación, tanto colegiados como unipersonales.
+g) Anotar en los expedientes, bajo firma, las resoluciones y acuerdos que recaigan.
+h) Autorizar, con las garantías y responsabilidades inherentes, las actas de todas las licitaciones, contratos y documentos administrativos análogos en que intervenga la Entidad.
+i) Disponer que en los medios oficiales de publicidad y en el tablón de anuncios de la Entidad se publiquen los que sean preceptivos, certificándose su resultado si así fuera preciso.
+j) Llevar y custodiar el Registro de Intereses de los miembros de la Corporación y el Inventario de Bienes de la Entidad.
+k) La superior dirección de los archivos y registros de la Entidad.
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 239 bis
+
+Artículo 239 bis.
+La función de asesoramiento legal preceptivo comprende:
+a) La emisión de informes previos en aquellos supuestos en que así lo ordene el Presidente de la Corporación o cuando lo solicite un tercio de Concejales con una antelación de ocho días a la celebración de la sesión en que hubiere de tratarse el asunto correspondiente. Tales informes deberán señalar la legislación en cada caso aplicable y la adecuación a la misma de los acuerdos en proyecto.
+b) La emisión de informe previo siempre que se trate de asuntos para cuya aprobación se exija una mayoría especial. En estos casos, si hubieran informado los demás Jefes de servicio o dependencia u otros asesores jurídicos, bastará consignar nota de conformidad o disconformidad, razonando esta última, asumiendo en este último caso el firmante de la nota la responsabilidad del informe.
+c) La emisión de informes previos siempre que un precepto legal expreso así lo establezca.
+d) Informar, en las sesiones de los órganos colegiados a que asista y cuando medie requerimiento expreso de quien presida, acerca de los aspectos legales del asunto que se discuta, con objeto de colaborar en la corrección jurídica de la decisión que haya de adoptarse. Si en el debate se ha planteado alguna cuestión sobre cuya legalidad pueda dudarse podrá solicitar al Presidente el uso de la palabra para asesorar a la Corporación.
+e) Acompañar al Presidente o miembros de la Corporación en los actos de firma de escrituras y, si así lo demandaren, en sus visitas a autoridades o asistencia a reuniones, a efectos de asesoramiento legal.
+f) Asistir al Presidente de la Corporación, junto con el Interventor, para la formación del presupuesto.
+g) La coordinación de los servicios jurídicos de la Entidad Local.
+h) Las funciones de asesoramiento y apoyo que les sean requeridas por los presidentes de los concejos existentes en el municipio.
+Se añade por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 240
+
+Artículo 240.
+La función de control y fiscalización interna comprende las siguientes actuaciones encuadradas en las respectivas funciones: interventora, de control financiero y de control de eficacia:
+1. Función interventora tendrá por objeto:
+a) Fiscalizar todos los actos de las entidades locales y de sus organismos autónomos que den lugar al reconocimiento y liquidación de derechos y obligaciones o gastos de contenido económico, los cobros y pagos que de aquellos se deriven y la recaudación, inversión y aplicación, en general, de los caudales públicos administrados, con el fin de que la gestión se ajuste a las disposiciones aplicables en cada caso. El ejercicio de la expresada función comprenderá:
+La intervención crítica o previa de todo acto, documento o expediente susceptible de producir derechos u obligaciones de contenido económico o movimiento de fondos o valores.
+La intervención formal de la ordenación del pago.
+La intervención material del pago.
+La intervención y comprobación material de las inversiones y de la aplicación de las subvenciones.
+b) Elevar informe al Pleno de todas las resoluciones adoptadas por la Presidencia de la entidad local contrarias a los reparos efectuados, así como un resumen de las principales anomalías detectadas en materia de ingresos.
+c) Advertir por escrito de la improcedencia de los gastos que se autoricen y de las obligaciones que se reconozcan, liquiden o paguen sin crédito suficiente, puesto que en caso contrario serán personalmente responsables de ellos.
+d) Emitir informe previo en aquellos Municipios con una población superior a 50.000 habitantes para acordar a propuesta de la Presidencia, que la intervención previa se limite a comprobar los siguientes extremos:
+La existencia de crédito presupuestario y que el propuesto es el adecuado a la naturaleza del gasto u obligación que se proponga contraer, así como el cumplimiento de lo preceptuado para los casos en que se trate de contraer compromisos de gastos de carácter plurianual.
+Que las obligaciones o gastos se proponen por órgano competente.
+Aquellos otros extremos que, por su trascendencia en el proceso de gestión, se determinen por el Pleno.
+El órgano interventor podrá formular las observaciones complementarias que considere convenientes, sin que las mismas tengan, en ningún caso, efectos suspensivos en la tramitación de los expedientes correspondientes.
+e) Acudir a la recepción de las obras junto con la Presidencia de la entidad o miembro de esta en quien delegue, la Secretaría de la entidad, el encargado de la dirección de las obras, y el contratista, acompañado, si lo estima conveniente, de su facultativo.
+2. La función de control financiero tendrá por objeto:
+a) Comprobar el funcionamiento en el aspecto económico-financiero de los servicios de las entidades locales, de sus organismos autónomos y de las sociedades mercantiles de ellas dependientes.
+b) Enjuiciar la adecuada presentación de la información financiera, el cumplimiento de las normas y directrices que sean de aplicación y el grado de eficiencia en la consecución de los objetivos previstos.
+c) Emitir informe escrito en el que se haga constar cuantas observaciones y conclusiones se deduzcan del examen practicado. Los informes, conjuntamente con las alegaciones efectuadas por el órgano auditado, serán enviados al Pleno para su examen.
+3. La función de control de eficacia tendrá por objeto comprobar periódicamente del grado de cumplimiento de los objetivos, así como el análisis del coste de funcionamiento y del rendimiento de los respectivos servicios o inversiones.
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+ Se modifica el apartado 1 por el art. 10 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 240 bis
+
+Artículo 240 bis.
+La función de asesoramiento y gestión económica-financiera y presupuestaria comprende:
+a) Asistir a la Presidencia junto con Secretaría en la formación del presupuesto de la entidad local.
+b) Suscribir un informe económico financiero que formará parte de la información complementaria del Presupuesto de la entidad en el que se expongan las bases utilizadas para la evaluación de los ingresos y de las operaciones de crédito previstas, la suficiencia de los créditos para atender el cumplimiento de las obligaciones exigibles y los gastos de funcionamiento de los servicios y, en consecuencia, la efectiva nivelación del presupuesto. En relación a las operaciones de crédito se incluirá además de su importe el detalle de las características y condiciones financieras de todo orden en que se prevean concertar y se hará una especial referencia a la carga financiera que pese sobre la entidad antes y después de su formalización.
+c) Emitir informe previo de síntesis junto con Secretaría sobre el proyecto del Presupuesto General para su remisión al Pleno de la Corporación por su presidente antes del día 1 de noviembre para su aprobación, enmienda o devolución.
+d) Emitir informe previo a las bases de ejecución respecto a las normas que regulan la expedición de órdenes de pago a justificar y anticipos de caja fija con cargo a los presupuestos de gastos, determinando los criterios generales, los límites cuantitativos y los conceptos presupuestarios a que sean aplicables.
+e) Informar necesariamente de todas las modificaciones de créditos presupuestarios.
+f) Emitir informe previo para la concertación de toda clase de operaciones de crédito, en el que se analizará especialmente la capacidad de la entidad local para hacer frente en el tiempo a las obligaciones que de aquellas se deriven por la misma. Asimismo también deberá emitirse informe previo a la concertación de operaciones de crédito por los organismos autónomos dependientes de la entidad local.
+g) Emitir informe previo a la autorización de gastos con imputación a ejercicios futuros, comprensivo de las repercusiones económico-financieras del gasto plurianual a autorizar, así como, en su caso, la correlación de los mismos con los planes de inversión y programas de financiación.
+h) Emitir informe preceptivo, con carácter previo a su aprobación por la Presidencia de la entidad local, de la liquidación de los presupuestos de la entidad local y de los organismos autónomos de ella dependientes.
+i) Emitir informe previo a la revocación de la reducción de gastos, en caso de liquidación de presupuesto con remanente de tesorería negativo.
+j) Emitir informes, dictámenes y propuestas que en materia económico-financiera o presupuestaria le hayan sido solicitadas por la presidencia o, por un tercio de los concejales o cuando se trate de materias para las que legalmente se exija una mayoría especial.
+k) Emitir dictamen sobre la procedencia de nuevos servicios o reforma de los existentes a efectos de la evaluación de la repercusión económico-financiera de las respectivas propuestas. Si en el debate se plantea alguna cuestión sobre cuyas repercusiones presupuestarias pudiera dudarse, podrá solicitar al presidente el uso de la palabra para asesorar a la corporación.
+l) Emitir informe previo cuando a iniciativa popular se presenten propuestas de acuerdos o actuaciones o proyectos de disposiciones generales en materia de competencia municipal que afecten a derechos y obligaciones de contenido económico.
+Se añade por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 240 ter
+
+Artículo 240 ter.
+La función de contabilidad comprende:
+a) Llevar y desarrollar la contabilidad y el seguimiento de la ejecución de los presupuestos de acuerdo con las normas generales y las dictadas por el Pleno de la Corporación.
+b) Control y supervisión de la contabilidad de los organismos autónomos y de las sociedades mercantiles dependientes de la entidad local, de acuerdo con los procedimientos que establezca el Pleno.
+c) Remitir al Pleno de la entidad local, por conducto de la Presidencia, información de la ejecución de los Presupuestos y demás aspectos contables que el Pleno demande, en los plazos y con la periodicidad que aquel establezca.
+d) Elaboración o formación de la cuenta general.
+Se añade por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 241
+
+Artículo 241. Funciones de Tesorería.
+1. La función de Tesorería comprende el manejo y custodia de fondos, valores y efectos de la Entidad local, de conformidad con lo establecido por las disposiciones legales vigentes y la jefatura de los servicios de recaudación.
+2. El manejo y custodia de fondos, valores y efectos comprende:
+a) La realización de cuantos cobros y pagos corresponda a los fondos y valores de la Entidad, de conformidad con lo establecido por las disposiciones legales vigentes.
+b) La organización de la custodia de fondos, valores y efectos de conformidad con las directrices señaladas por la Presidencia.
+c) Ejecutar, conforme a las directrices marcadas por la Corporación, las consignaciones en Bancos, Caja General de Depósitos y establecimientos análogos, autorizando junto con el Ordenador de pagos y el Interventor los cheques y demás órdenes de pago que se giren contra las cuentas abiertas en dichos establecimientos.
+d) La formación de los planes y programas de Tesorería, distribuyendo en el tiempo las disponibilidades dinerarias de la Entidad para la puntual satisfacción de sus obligaciones, atendiendo a las prioridades legalmente establecidas, conforme a las directrices marcadas por la Corporación.
+3. La jefatura de los servicios de recaudación comprende:
+a) El impulso y dirección de los procedimientos recaudatorios, proponiendo las medidas necesarias para que la cobranza se realice dentro de los plazos señalados.
+b) La autorización de pliegos de cargo de valores que se entreguen a los recaudadores y agentes ejecutivos.
+c) Dictar la providencia de apremio en los expedientes administrativos de este carácter y autorizar la subasta de bienes embargados.
+d) La tramitación de los expedientes de responsabilidad por perjuicio de valores.
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+## Sección 2
+
+Sección 2.ª De los puestos reservados a funcionarios con habilitación foral
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 242
+
+Artículo 242. Puestos reservados.
+Son puestos de trabajo reservados a funcionarios con habilitación de carácter foral los que tengan atribuida la responsabilidad administrativa de las funciones de Secretaría e Intervención descritas en los apartados a) y b) del punto 1 del artículo 234, en los términos y condiciones que se determinan en la presente Ley Foral.
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+## Subsección 1
+
+Subsección 1.ª Del puesto de Secretaría
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 243
+
+Artículo 243. Del puesto de Secretaría.
+1. El puesto de secretaría, tendrá atribuida la responsabilidad administrativa de las funciones de fe pública y el asesoramiento legal preceptivo señaladas en los artículos 239 y 239 bis de la presente ley foral.
+También formarán parte del contenido del puesto de secretaría, las funciones de organización y dirección de las dependencias y servicios de dicha entidad local, cuando no estén encomendadas a otro personal de nivel A que realice las funciones de gerencia.
+Las funciones propias del puesto de secretaría serán igualmente ejercidas en los ámbitos territoriales correspondientes por el personal funcionario de las comarcas, con habilitación conferida por la Administración de la Comunidad Foral, de conformidad con las determinaciones establecidas en el artículo 361.1 e).
+2. Existirá puesto propio específico de secretaría en:
+a) Los municipios con una población igual o superior a 1.500 habitantes, sin perjuicio de lo dispuesto en el artículo 361.1 e) de la presente ley foral para aquellos municipios de población inferior que así lo decidan, de conformidad con lo establecido en el mencionado precepto.
+b) Las comarcas.
+c) Las mancomunidades con puesto de trabajo específico.
+d) Las Agrupaciones tradicionales cuyos reglamentos, ordenanzas, convenios, acuerdos, sentencias o concordias así lo dispongan.
+e) Las mancomunidades de planificación general.
+3. El puesto de Vicesecretaría solo podrá existir en los Ayuntamientos de Municipios con población superior a 25.000 habitantes y se sujetará a las normas establecidas para los puestos de secretaría.
+Se modifican los apartados 1 y 2 por el art. 1.23 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+ Téngase en cuenta para el apartado 2 lo dispuesto en la disposición transitoria 3.1 de la citada Ley Foral.
+
+## Subsección 2
+
+Subsección 2.ª Del puesto de Intervención
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 244
+
+Artículo 244. Del puesto de Intervención.
+1. El puesto de intervención, tendrá atribuida la responsabilidad administrativa de las funciones señaladas en los artículos 240, 240 bis y 240 ter de esta ley foral.
+Además de las funciones propias del puesto de intervención, también forman parte del mismo las funciones de tesorería en aquellas entidades en las que no exista el puesto de tesorero.
+Las funciones propias de los puestos específicos de intervención serán igualmente ejercidas en los ámbitos territoriales correspondientes por el personal funcionario de las comarcas, con habilitación conferida por la Administración de la Comunidad Foral, de conformidad con las determinaciones establecidas en el artículo 361.1 e).
+2. El puesto de trabajo de intervención existirá necesariamente en:
+a) Los municipios con una población igual o superior a 3.000 habitantes, sin perjuicio de lo dispuesto en el artículo 361.1 e) de la presente ley foral para aquellos municipios de población superior a 2.000 habitantes que hubieran creado dicho puesto en su plantilla orgánica, de conformidad con lo establecido en el mencionado precepto.
+b) Las Agrupaciones tradicionales cuyos reglamentos, ordenanzas, convenios, acuerdos, sentencias o concordias así lo dispongan, siempre y cuando su gasto corriente anual en los últimos cinco años haya sido superior a tres millones de euros.
+c) Las comarcas.
+d) Las mancomunidades de planificación general.
+Se modifica por el art. 1.24 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+ Téngase en cuenta para el apartado 2 lo dispuesto en la disposición transitoria 3.1 de la citada Ley Foral.
+
+### Artículo 244 bis
+
+Artículo 244 bis. Clasificación de los puestos de Interventor.
+1. Todos los puestos de trabajo de interventor señalados en el artículo anterior, así como los de los municipios de población superior a 2.000 habitantes creados al amparo de lo dispuesto en el artículo 1 de la Ley Foral 11/2004, de 29 de octubre, para la actualización del régimen local de Navarra estarán encuadrados en el nivel A.
+2. En aquellas entidades locales en las que, por la evolución poblacional, o por otro tipo de circunstancias les corresponda una clasificación superior del puesto de intervención, quedarán dispensadas para su provisión con personal habilitado acorde con la clasificación sobrevenida durante el tiempo que dure la situación personal a extinguir del funcionario que las estuviera desarrollando con inferior clasificación, quien podrá seguir ejerciéndolas pero sin adquirir habilitación superior de la que ostentaba.
+Se modifica por el art. 1.24 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se añade por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+## Sección 3
+
+Sección 3.ª Selección y provisión
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+## Subsección 1
+
+Subsección 1.ª Acceso a la Habilitación
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 245
+
+Artículo 245. Convocatorias para obtención habilitación.
+1. Para el ejercicio de las funciones públicas necesarias de secretaría y/o intervención en las entidades locales navarras es necesaria la obtención de la habilitación conferida por la Administración de la Comunidad Foral.
+Queda exceptuado de lo anterior lo previsto para el Ayuntamiento de Pamplona en esta ley foral.
+2. Requisito previo para la obtención de la citada habilitación es la superación, en turno libre, de la convocatoria celebrada mediante el sistema de concurso oposición.
+Cuando el elevado número de aspirantes u otras razones de eficacia administrativa así lo aconsejen, la correspondiente convocatoria podrá establecer que la valoración de la fase de concurso se realice con posterioridad a la finalización de la fase de la oposición.
+En estos supuestos, los méritos que aleguen tener los aspirantes en la fecha de publicación de la convocatoria serán acreditados con posterioridad a la realización de la fase de oposición y sólo por los aspirantes que la hayan superado, en el plazo de quince días desde que les fuera requerido por el Tribunal.
+3. Las bases de estas convocatorias, así como los programas y baremos de méritos de las mismas, serán aprobados por el Departamento del Gobierno de Navarra competente en materia de Administración Local, con la participación de representantes de la Administración Local y de conformidad con las determinaciones establecidas en el Reglamento de Ingreso del Personal al servicio de las Administraciones Públicas de Navarra.
+4. Las convocatorias para la obtención de la habilitación podrán exigir la superación de cursos de formación que a tal efecto se organicen.
+5. El número de habilitaciones a conceder en cada convocatoria no podrá exceder del número de vacantes que resultaran tras la resolución de los previos concursos de provisión.
+Se modifican los apartados 1 y 2 por el art. 1.25 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 246
+
+Artículo 246. Tribunales.
+El Departamento competente en materia de Administración Local designará los Tribunales encargados de calificar las pruebas selectivas y, en su caso, aplicar los correspondientes baremos y evaluar los cursos de formación. En la composición de estos Tribunales, habrá una representación de las entidades locales de Navarra en la forma que determinen las convocatorias.
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 246 bis
+
+Artículo 246 bis. Requisitos para participar en las pruebas de habilitación.
+1. Podrán participar en las pruebas de habilitación y acceso al puesto de Secretario de las entidades locales de Navarra, quienes, en el momento en que termine el plazo de presentación de instancias establecido en la correspondiente convocatoria, acrediten estar en posesión de alguna de las siguientes titulaciones académicas, o los títulos de grado correspondientes o los que resultaran equivalentes.
+Licenciatura en Derecho.
+Licenciatura en Ciencias Políticas y de la Administración o Licenciatura en Sociología o Licenciatura en Ciencias Políticas y Sociología.
+2. Podrán participar en las pruebas de habilitación y acceso al puesto de Interventor Grupo A de las entidades locales de Navarra, quienes, en el momento en que termine el plazo de presentación de instancias establecido en la correspondiente convocatoria, acrediten estar en posesión de alguna de las siguientes titulaciones académicas, o los títulos de grado correspondientes o los que resultaran equivalentes.
+Licenciatura en Derecho.
+Licenciatura en Administración y Dirección de Empresas.
+Licenciatura en Economía.
+Licenciatura en Ciencias Actuariales y Financieras o Licenciatura en Ciencias Económicas y Empresariales.
+3. Podrán participar en las pruebas de habilitación y acceso al puesto de Interventor Grupo B de las entidades locales de Navarra, quienes, en el momento en que termine el plazo de presentación de instancias establecido en la correspondiente convocatoria, acrediten estar en posesión de alguna de las titulaciones referidas en el apartado anterior o de la Diplomatura en Ciencias Empresariales o los títulos de grado correspondientes o los que resultaran equivalentes.
+Se añade por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+ Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 104, de 2 de mayo de 2011. Ref. BOE-A-2011-7755
+
+### Artículo 246 ter
+
+Artículo 246 ter. Nombramiento, adjudicación de plazas y tomas de posesión.
+1. Los puestos de trabajo reservados a funcionarios con habilitación foral objeto de las convocatorias de los concursos de méritos que no fuesen cubiertos en éstos, se adjudicarán, previo nombramiento por la persona titular del departamento competente en materia de Administración Local, a quienes hubiesen obtenido la habilitación a que se refiere el artículo 245, previa elección realizada por los mismos conforme a la puntuación obtenida y de acuerdo al correspondiente perfil lingüístico de las plazas vacantes y los criterios establecidos al efecto en el punto 2 del artículo 250 de esta ley foral. La toma de posesión de las plazas adjudicadas se ajustará al Decreto Foral Legislativo 251/1993, de 30 de agosto, por el que se aprueba el Estatuto del personal al servicio de las Administraciones Públicas de Navarra y a su normativa de desarrollo.
+2. Quienes accedan a los puestos de trabajo de secretaría e intervención en una entidad local de Navarra, mediante un procedimiento selectivo convocado por la Administración de la Comunidad Foral de Navarra, en plazas para las que sea preceptivo el conocimiento del vascuence, solamente podrán participar posteriormente en la provisión de vacantes de otras entidades locales de Navarra para las que el conocimiento de dicho idioma sea preceptivo para su desempeño.
+Esta previsión no se aplicará en aquellos supuestos en los que, sin tener en cuenta el conocimiento del vascuence, el resultado del procedimiento selectivo de referencia le hubiera permitido al interesado la obtención de una plaza que no tuviera establecido dicho requisito.
+3. Los aspirantes a los procesos de habilitación que, habiendo superado las pruebas previstas en los mismos, no obtengan nombramiento para la provisión de las plazas vacantes objeto de la convocatoria, podrán ser designados por el Departamento de Administración Local para su contratación en régimen administrativo por las entidades locales que así lo demanden a éste, al objeto de que desarrollen con carácter temporal las funciones correspondientes a dichas plazas.
+A dichos efectos, se tendrá en cuenta el orden correlativo y preferente de la puntuación total obtenida en dichos procesos de selección.
+Se modifica el apartado 1 por el art. 1.26 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se añade por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+## Subsección 2
+
+Subsección 2.ª Provisión
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 247
+
+Artículo 247. Sistema de provisión, definición de vacantes.
+1. La provisión de puestos de trabajo reservados a funcionarios con habilitación, salvo en los supuestos previstos para el municipio de Pamplona en la Disposición Adicional décimo sexta de la Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra, se efectuará con carácter ordinario mediante concursos de méritos que deberá convocar el Departamento del Gobierno de Navarra competente en materia de Administración Local. Dichos concursos serán convocados, al menos cada tres años.
+2. Dichos concursos tendrán por objeto la cobertura de aquellas plazas que, estando comprendidas en los artículos 243.2, 244.2 y 361.1.e) de la presente ley foral, se encuentren vacantes y serán convocados, al menos cada tres años, con carácter previo a la aprobación de la convocatoria para obtención de la habilitación a que se refiere el artículo 245 de la presente ley foral.
+Mientras no se produzca la aprobación de la norma establecida en el artículo 356 de la presente ley foral se incluirán también en los citados concursos, sin perjuicio de lo dispuesto en el artículo 361.1.e) de la presente ley foral, y en la disposición transitoria tercera de la Ley Foral 4/2019, de 4 de febrero, de Reforma de la Administración Local de Navarra:
+a) Los puestos vacantes de Secretaría e Intervención de las Agrupaciones de Servicios administrativos existentes en el momento de la aprobación de la correspondiente convocatoria.
+b) Los puestos vacantes de Secretaría e Intervención de aquellas entidades locales de menos de 1.500 o 3.000 habitantes, respectivamente, que, en el momento de la aprobación de la correspondiente convocatoria, dispongan en su plantilla orgánica de puestos propios.
+c) Los puestos vacantes de Intervención de aquellas mancomunidades que, en el momento de la aprobación de la correspondiente convocatoria, dispongan en su plantilla orgánica de puestos específicos.
+3. Además serán objeto de provisión en cada concurso convocado aquellas plazas que, ajustándose a los supuestos previstos con anterioridad, resulten vacantes con motivo de haber obtenido sus titulares otra plaza en el citado concurso. Las bases de los concursos preverán el procedimiento de sucesivas vueltas con arreglo al cual puedan adjudicarse, teniendo en cuenta los méritos y el orden de prelación señalada por los aspirantes, tanto las plazas vacantes inicialmente convocadas, como las que resulten vacantes como consecuencia de la participación en el concurso de sus titulares.
+Se modifica el apartado 2 por el art. 9.1 de la Ley Foral 16/2022, de 30 de mayo. Ref. BOE-A-2022-9766
+ Se modifica el apartado 2 por el art. 1.27 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 5 de la citada Ley Foral.
+ Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 248
+
+Artículo 248. Procedimiento previo a las convocatorias de provisión.
+1. El departamento competente en materia de Administración Local, con una antelación mínima de tres meses a la convocatoria de los concursos de provisión de los puestos de trabajo reservados a funcionarios con habilitación foral, desarrollará las siguientes actuaciones:
+a) Informar a las entidades locales acerca de cuáles son las plazas de Secretaría e Intervención que tengan la consideración de vacantes o susceptibles de serlo.
+b) Solicitar de las Agrupaciones de carácter tradicional y del Ayuntamiento de Pamplona, su decisión respecto de la inclusión de sus puestos de secretaría e intervención en el sistema ordinario de provisión.
+c) Recabar de todas las entidades locales referidas en el apartado a) la información relativa a qué plazas se encuentran reservadas al turno de personas con discapacidad conforme a la normativa de aplicación.
+d) Demandar además de las entidades locales la información relativa al correspondiente perfil lingüístico de las plazas susceptibles de provisión funcionarial.
+2. En el plazo de dos meses desde la conclusión de las actuaciones descritas en el párrafo anterior, las entidades locales se dirigirán al referido departamento, a los efectos de:
+a) Confirmar, en su caso, la reserva al turno de personas con discapacidad de las plazas susceptibles de provisión.
+b) Definir el correspondiente perfil lingüístico de las plazas de secretaría e intervención, entendiendo que, si no lo comunican en el plazo establecido, el conocimiento del euskera no tendrá la consideración de preceptivo, valorándose de conformidad con lo que establezca la normativa específica para la Administración de la Comunidad Foral.
+El perfil lingüístico de los puestos propios de secretaría e intervención de las entidades supramunicipales contemplados en los artículos 243.2 y 244.2 de la presente ley foral se entenderá referido a la entidad local en la que se encuentre la sede.
+La definición por la comarca del perfil lingüístico de las plazas con habilitación de la Comunidad Foral existentes en su término se llevará a cabo previa consulta de las entidades locales para las que se presten las correspondientes funciones públicas necesarias, con sujeción en todo caso a la normativa vigente.
+3. Agotado el plazo establecido en el punto anterior y analizadas las comunicaciones realizadas por las entidades locales, el departamento competente en materia de administración local procederá, con anterioridad a la convocatoria de los referidos concursos de provisión, a publicar en el “Boletín Oficial de Navarra” la relación de los puestos de trabajo de secretaría e intervención que, de conformidad con los apartados 2 y 3 del artículo 247, son susceptibles de provisión funcionarial, indicando en su caso las reservas al turno de personas con discapacidad y las determinaciones del correspondiente perfil lingüístico.
+Se modifica la letra a) del apartado 1 por el art. 9.2 de la Ley Foral 16/2022, de 30 de mayo. Ref. BOE-A-2022-9766
+ Se modifica por el art. 1.28 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+## Sección 2
+
+Sección 2.ª Intervención
+
+### Artículo 249
+
+Artículo 249. Participación en los concursos.
+1. Podrán participar en los concursos de méritos para la provisión de puestos reservados a funcionarios con habilitación foral, los funcionarios locales habilitados que se encuentren en alguna de las situaciones administrativas que se relacionan, siempre que el puesto de trabajo al que concursen sea el correspondiente al cargo y grupo al que pertenezca el funcionario. A saber:
+Servicio activo.
+Servicios especiales.
+Excedencia voluntaria, si ha transcurrido un año al menos desde el pase a dicha situación.
+Excedencia especial.
+2. No podrán participar en los concursos los funcionarios que se encuentren inhabilitados o suspendidos en virtud de sentencia o resolución administrativa firme si no hubiera transcurrido el tiempo señalado en la sentencia o resolución sancionadora.
+3. Los funcionarios en situación de excedencia forzosa están obligados a participar en los concursos y solicitar todas las plazas vacantes.
+4. El procedimiento de elección de las plazas por los participantes será el determinado en las correspondientes convocatorias.
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 250
+
+Artículo 250. Méritos.
+1. La determinación del baremo de méritos de preceptiva valoración, con la participación de la representación de las entidades locales de Navarra, corresponderá al Departamento del Gobierno de Navarra competente en materia de Administración Local y deberán ajustarse a las previsiones del Reglamento de Provisión de puestos de trabajo en las Administraciones Públicas de Navarra, establecidas para el concurso de traslado.
+2. La acreditación del conocimiento del euskera y la valoración correspondiente a cada caso se ajustará a la regulación del tratamiento del conocimiento de dicha lengua establecido para el personal de la Administración de la Comunidad Foral de Navarra.
+Se modifica el apartado 2 por el art. 1.29 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+ Se modifican los apartados 1 y 2 y se añade el 4 por el art. 10 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 251
+
+Artículo 251. Tribunales.
+1. En los Tribunales encargados de resolver los concursos de méritos para la provisión de los puestos reservados a funcionarios, cuyos vocales serán designados por el Departamento competente en materia de Administración Local, participará una representación de las entidades locales.
+2. De acuerdo con las previsiones de las respectivas convocatorias los Tribunales procederán a la valoración de los méritos acreditados por los participantes, elaborando una relación ordenada de los mismos según la puntuación obtenida en aquella, donde figurarán los concursantes que están en disposición de optar a la provisión de plazas con conocimiento preceptivo de vascuence y se tendrá en cuenta la previsión contenida en el artículo 246 (ter).2 de la presente Ley Foral.
+3. Las resoluciones de los concursos con las propuestas de adjudicación de plazas, se elevarán al Titular del Departamento competente en materia de Administración Local, quien formalizará los nombramientos procedentes que se publicarán en el Boletín Oficial de Navarra.
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+ Se modifica el apartado 2 por el art. 10 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 252
+
+Artículo 252. Adjudicaciones y tomas de posesión.
+1. Quienes resulten adjudicatarios en virtud de los concursos de méritos tomarán posesión en los puestos para los que hubiesen sido nombrados dentro del mes siguiente a la publicación del nombramiento en el “Boletín Oficial de Navarra”, cesando, en su caso, en los puestos de trabajo que ocupaban.
+No obstante, por razones de eficacia administrativa, el órgano convocante podrá determinar una fecha concreta para la toma de posesión, pudiendo rebasarse el plazo establecido en el párrafo anterior.
+2. En lo no previsto en el apartado anterior, se estará a la regulación que, en cuanto a los concursos de méritos, se prevé en el Decreto Foral 215/1985, de 6 de noviembre, por el que se aprueba el Reglamento de Provisión de puestos de trabajo en las Administraciones Públicas de Navarra.
+Se modifican los apartados 1 y 2 por el art. 1.30 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+## Sección 3
+
+Sección 3.ª Tesorería
+
+## Sección 4
+
+Sección 4.ª Derechos y deberes
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 253
+
+Artículo 253. Retribuciones complementarias.
+Las retribuciones complementarias de los funcionarios con habilitación de carácter foral las fijarán las Entidades locales respectivas de conformidad con lo establecido en la legislación vigente y en función de las circunstancias específicas que a continuación se determinan:
+1. Todos los puestos de Secretaría e Intervención de las Entidades Locales de Navarra susceptibles de ser provistos funcionarialmente, se desarrollarán en régimen de incompatibilidad, salvo que se les asigne el régimen de prestación de servicios en la modalidad de dedicación exclusiva.
+2. La asignación de cualquiera de los regímenes descritos en el párrafo anterior, conllevará, si así fuera necesario, la revisión de las respectivas plantillas orgánicas, de forma que en las mismas quede constancia de dicha asignación, así como del complemento retributivo que por ello pueda corresponder a cada puesto de trabajo.
+3. La asignación del régimen de incompatibilidad a aquellos puestos de trabajo que a la entrada en vigor de esta Ley Foral no lo tuvieran reconocido, no podrá suponer un aumento del importe total de las retribuciones complementarias asignadas a cada puesto, salvo el que fuera preciso para alcanzar el 35 por 100 del sueldo inicial del nivel correspondiente.
+4. Aquellos puestos de trabajo que tuvieran asignadas unas retribuciones complementarias por un importe total igual o superior al 35 por 100 del sueldo inicial del nivel correspondiente, se entenderán desarrollados en régimen de incompatibilidad.
+5. Además de los señalados, podrán en todo caso, asignarse a cada puesto de trabajo otros complementos, en atención a las circunstancias concurrentes en cada uno de ellos, siempre que se ajusten a lo establecido en la norma reguladora del Estatuto del Personal al servicio de las Administraciones Públicas de Navarra y sus disposiciones de desarrollo.
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 254
+
+Artículo 254. Régimen disciplinario.
+El régimen disciplinario aplicable a los funcionarios locales con habilitación de la Comunidad Foral, se regulará por la normativa vigente aplicable a los funcionarios de las Administraciones Públicas de Navarra, atendiendo a las siguientes especialidades:
+1) Órganos competentes para la incoación de expedientes disciplinarios:
+a) La incoación de expedientes disciplinarios por la comisión de faltas leves corresponde al Alcalde o Presidente de la entidad local.
+b) La incoación de expedientes disciplinarios por la comisión de faltas graves o muy graves corresponde al Alcalde-Presidente de la entidad local y en su caso al Director General de Administración Local, cuando lo proponga el Alcalde Presidente y así lo autorice el órgano plenario de la entidad local.
+2) Órganos competentes para la imposición de sanciones:
+a) Corresponderá la imposición de sanciones por faltas leves al Alcalde o Presidente de la entidad local.
+b) La imposición de sanciones por la comisión de faltas graves y muy graves será competencia de quien haya incoado el expediente disciplinado, salvo en el supuesto que conlleve la separación del servicio, que corresponderá en todo caso al Gobierno de Navarra.
+Se modifican los apartados 1 y 2 por el art. 1.31 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+ Se modifica por el art. 10 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 255
+
+Artículo 255. Situaciones administrativas.
+Las situaciones administrativas de los funcionarios con habilitación de la Comunidad Foral de Navarra, con las particularidades contenidas en el presente artículo, quedarán reguladas por lo establecido en el Estatuto del Personal al servicio de las Administraciones Públicas de Navarra:
+1. La declaración de las situaciones administrativas de los funcionarios con habilitación de la Comunidad Foral de Navarra corresponderá al Presidente de la entidad local.
+2. Se considerarán en situación de servicio activo, aquellos funcionarios locales con habilitación conferida por la Comunidad Foral de Navarra, que se encuentren en cualquiera de las circunstancias que, de conformidad con el Estatuto del Personal al servicio de las Administraciones Públicas de Navarra, dan lugar a dicha situación administrativa, así como los que se hallen en alguna de las situaciones siguientes:
+a) Los que con motivo de una reorganización administrativa entre distintas Administraciones Locales con idénticos puestos de trabajo de carácter necesario no sean transferidos en los términos de la Disposición Adicional duodécima del Texto refundido del Estatuto del Personal al servicio de las Administraciones Públicas de Navarra.
+b) Los que, dependiendo orgánicamente de una Entidad local de carácter asociativo formalmente disuelta, no queden adscritos a ninguno de los Municipios integrantes de aquella.
+En ambos casos, estos funcionarios en situación de servicio activo tienen la obligación de participar en el inmediato concurso de provisión y de solicitar todas las plazas susceptibles de ser adjudicadas en el mismo, pasando a la situación de excedencia forzosa en el supuesto de que no participasen.
+Se modifica el apartado 1 por el art. 1.32 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 256
+
+Artículo 256. Vacaciones, Licencias y Permisos.
+La concesión de vacaciones, licencias y permisos de los funcionarios locales con habilitación de la Comunidad Foral de Navarra, se realizarán por las entidades locales de las que dependen, de conformidad a la reglamentación vigente de aplicación y en los supuestos de traslado, en función del tiempo prestado en cada entidad.
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+## CAPÍTULO III
+
+Personal de tesorería y policía
+Se añade por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Artículo 257
+
+Artículo 257. Puesto de Tesorero.
+1. El puesto de trabajo de Tesorero, correspondiente a personal sujeto al estatus funcionarial, tiene atribuida la responsabilidad administrativa de las funciones enumeradas en el artículo 240 (ter) de la presente Ley Foral.
+2. El puesto de tesorero existirá necesariamente en los ayuntamientos de municipios cuya población exceda de 25.000 habitantes.
+3. El acceso al puesto de Tesorero, requiere disponer de alguna de las titulaciones exigidas en esta Ley Foral para acceder a la habilitación de Intervención del Grupo A y supone la adquisición de la condición funcionarial, al servicio de la respectiva entidad local.
+4. En los ayuntamientos y demás entidades locales supramunicipales que tengan o hayan optado por incluir en sus plantillas orgánicas el puesto de interventor, corresponderá al mismo el ejercicio de las funciones de tesorería de la entidad.
+5. En las Entidades Locales en las que no exista el puesto de trabajo de tesorero y las funciones de tesorería no estén atribuidas al Interventor conforme a lo dispuesto con anterioridad, éstas se realizarán por personal sujeto al estatuto funcionarial nombrado por la respectiva entidad, encuadrado en el nivel C o en el D y a quienes se les podrá encomendar trabajos añadidos o complementarios, o podrán ser atribuidas a miembros de la Entidad.
+6. El ejercicio de las funciones de tesorería por quien detenta el puesto de tesorero, supondrá la constitución a su cargo de garantía suficiente que deberá ser determinada en su forma y cuantía por el órgano plenario de la Entidad Local respectiva.
+Se modifican los apartados 2 y 4 por el art. 1.33 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+## Sección 4
+
+Sección 4.ª Policía y sus auxiliares
+
+### Artículo 258
+
+Artículo 258. Policías Locales.
+Las funciones que impliquen el ejercicio de autoridad serán desempeñadas por el personal de la Policía Local y, en su caso, por el personal a que se refiere la Ley Foral 8/2007, de 23 de marzo, de las Policías de Navarra y demás normativa de aplicación.
+Se modifica por el art. unico de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+## TÍTULO VIII
+
+Haciendas Locales
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## CAPÍTULO I
+
+Disposiciones generales
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 259
+
+Artículo 259.
+Para el ejercicio de sus competencias y el cumplimiento de los fines que las entidades locales de Navarra tienen confiados se dotará a las Haciendas Locales de recursos suficientes, que serán regulados en una Ley Foral de Haciendas Locales como materia propia del régimen local de Navarra previsto en el articulo 18.2 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+La aprobación de la Ley Foral mencionada en el párrafo anterior requerirá la mayoría absoluta a que se refiere el articulo 20.2 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 260
+
+Artículo 260.
+Las Haciendas de las entidades locales de Navarra se nutrirán de los tributos propios, de la participación en tributos de la Comunidad Foral y del Estado, y de aquellos otros recursos que a tal efecto se prevean de conformidad y con el alcance que se establezca en la Ley Foral a que se refiere el artículo anterior, y, en su caso, en la legislación general del Estado.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 261
+
+Artículo 261.
+El reconocimiento con carácter general de exenciones y bonificaciones que se establezcan en las leyes, con excepción de las establecidas en la Ley Foral de Haciendas Locales de Navarra, y que afecten a tributos locales, deberá ser compensado económicamente mediante transferencias con cargo a los Presupuestos Generales de Navarra, o del Estado en su caso, o mediante otras fórmulas de compensación.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 262
+
+Artículo 262.
+1. Las entidades locales de Navarra tendrán autonomía para establecer y exigir tributos de acuerdo con lo que disponga la Ley Foral a que se refieren los artículos anteriores.
+2. La potestad reglamentaria de las entidades locales en materia tributaria se ejercerá a través de Ordenanzas fiscales reguladoras de sus tributos propios y de Ordenanzas generales de gestión, recaudación e inspección.
+Las Ordenanzas fiscales requieren la publicación integra en el Boletín Oficial de Navarra y entrarán en vigor con el ejercicio siguiente al de la aprobación, salvo que en las mismas se señale otra fecha.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 263
+
+Artículo 263.
+1. Las entidades locales de Navarra ajustarán su actividad financiera y tributaria al principio de legalidad.
+2. Los actos de determinación de las bases y deudas tributarias gozarán de presunción de legalidad, que sólo podrá destruirse mediante revisión practicada de oficio o en virtud de los recursos pertinentes.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 264
+
+Artículo 264.
+Las entidades locales de Navarra gozarán en los tributos de la Administración de la Comunidad Foral de los beneficios que se establezcan en las normas reguladoras de los mismos.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 265
+
+Artículo 265.
+Podrán ser satisfechas por vía de compensación las deudas que las entidades locales de Navarra tengan con la Administración de la Comunidad Foral y otras Administraciones Publicas, o viceversa, cuando se trate de deudas vencidas, líquidas y exigibles.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 266
+
+Artículo 266.
+Las entidades locales no podrán enajenar o hipotecar sus derechos y propiedades ni conceder exenciones, rebajas o moratorias para el pago de sus recursos o de los créditos que por cualquier concepto tuviesen liquidados a su favor, excepto en los casos previstos por las leyes.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## CAPÍTULO II
+
+Presupuesto, contabilidad y fiscalización
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 267
+
+Artículo 267.
+1. Las entidades locales de Navarra elaborarán y aprobarán anualmente un Presupuesto General Único que constituirá la expresión cifrada, conjunta y sistemática de las obligaciones que, como máximo, pueden reconocer, y de los derechos con vencimiento en el correspondiente ejercicio económico o que se prevea realizar en el mismo.
+2. El ejercicio presupuestario coincide con el año natural.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 268
+
+Artículo 268.
+El Presupuesto General Único de cada entidad local estará integrado:
+a) Por el presupuesto de la propia entidad, en el que se incluirán todos los servicios dependientes de la misma que no tengan personalidad jurídica independiente.
+b) Por los presupuestos de todos los organismos y sociedades locales con personalidad jurídica propia, dependientes de la entidad local.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+ Se modifica el apartado 1 por el art. 2 de la Ley Foral 4/1999, de 2 de marzo. Ref. BOE-A-1999-8878
+
+## CAPÍTULO II
+
+Presupuesto, contabilidad y tesorería
+
+## Sección 1
+
+Sección 1.ª Contenido y aprobación de los presupuestos
+
+### Artículo 269
+
+Artículo 269.
+Los Presupuestos Generales de las entidades locales de Navarra se ajustarán a la estructura presupuestaria que con carácter general se determine por el Gobierno de Navarra para estas entidades.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 270
+
+Artículo 270.
+La aprobación definitiva del Presupuesto General Único por el Pleno de la entidad local habrá de realizarse antes del 31 de diciembre del año anterior al del ejercicio en que deba aplicarse, conforme al procedimiento establecido en los artículos siguientes.
+Si el presupuesto no hubiese entrado en vigor antes del primer día del ejercicio económico correspondiente, quedará automáticamente prorrogada la vigencia del anterior hasta que no se produzca la entrada en vigor del nuevo.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 271
+
+Artículo 271.
+Aprobado inicialmente el Presupuesto General por el Pleno, se expondrá en la secretaría por periodo de quince días hábiles, previo anuncio en el Boletín Oficial de Navarra y en el tablón de anuncios, a fin de que los vecinos o interesados puedan examinar el expediente y formular las reclamaciones que estimen pertinentes.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 272
+
+Artículo 272.
+El Presupuesto General de las entidades locales de Navarra, una vez aprobado definitivamente, será insertado en el Boletín Oficial de la corporación, si lo tuviere, y resumido, en el de Navarra.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 273
+
+Artículo 273.
+1. La Cuenta General, formada por la intervención, se someterá por el Presidente, antes de 1 de junio, a informe de una Comisión Especial de Cuentas de la entidad local, la cual estará constituida por miembros pertenecientes, en su caso, a los distintos grupos políticos integrantes de aquélla.
+2. La Cuenta General, con los justificantes y el informe de la Comisión, será expuesta al público por plazo de quince días hábiles, durante el que los interesados podrán presentar reclamaciones, reparos u observaciones. Si se hubiesen presentado reclamaciones, se emitirá por la Comisión informe complementario sobre las mismas.
+3. Con los informes y documentos anteriores, la Cuenta general se someterá al Pleno de la corporación.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+ Se deroga el párrafo segundo por la disposición derogatoria 1.e) de la Ley Foral 2/1995, de 10 de marzo. Ref. BOE-A-1995-16401
+
+### Artículo 274
+
+Artículo 274.
+La fiscalización externa de las cuentas y de la gestión económica de las entidades locales de Navarra y de todos los organismos y sociedades de ellas dependientes se realizará por la Cámara de Comptos, de conformidad con lo dispuesto en el Título Noveno, Capítulo II, Sección Cuarta, de esta Ley Foral, sin perjuicio de las actuaciones a que haya lugar en relación con la materia de acuerdo con el ordenamiento jurídico vigente.
+Se modifica por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 275
+
+Artículo 275.
+El proyecto de presupuesto se formará por el Presidente de la Corporación, asistido del Secretario y del Interventor.
+Una vez elaborado, y previo informe del Secretario y del Interventor, deberá elevarse por el Presidente al Pleno antes del día 1 de noviembre de cada año, para su aprobación, enmienda o devolución.
+
+### Artículo 275 a 316
+
+Artículos 275 a 316.
+(Sin contenido).
+Se dejan sin contenido por el art. 12 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 276
+
+Artículo 276.
+1. Aprobado inicialmente el presupuesto por el Pleno, se expondrá en la Secretaría, por período de quince días hábiles, previo anuncio en el «Boletín Oficial de Navarra» y en el tablón, a fin de que los vecinos o interesados puedan examinar el expediente y formular las reclamaciones que estimen pertinentes.
+2. Si se formularan reclamaciones, el Pleno adoptará acuerdo expreso relativo a la resolución de aquéllas y a la aprobación definitiva del presupuesto.
+Si no se hubiesen formulado reclamaciones, el Presupuesto se entenderá aprobado definitivamente, una vez transcurrido el período de exposición pública señalado en el número anterior.
+
+### Artículo 277
+
+Artículo 277.
+1. El presupuesto de las Entidades locales de Navarra, una vez aprobado definitivamente, será insertado en el «Boletín Oficial» de la Corporación, si lo tuviere, y resumido, en el «Boletín Oficial de Navarra».
+2. El presupuesto entrará en vigor en el ejercicio correspondiente una vez publicado en la forma prevista en el número anterior.
+3. Las Entidades locales de Navarra deberán remitir a la Administración de la Comunidad Foral, en el plazo de quince días siguientes a la aprobación, copia del presupuesto, junto con la documentación complementaria que reglamentariamente se determine.
+
+### Artículo 278
+
+Artículo 278.
+Contra la aprobación definitiva del presupuesto podrán interponerse los recursos a que se refiere el número 1 del artículo 333 de esta Ley Foral, sin que, de utilizarse la vía de impugnación establecida en el apartado a) de dicho precepto, sea necesario el previo recurso de reposición.
+2. Están legitimados para entablar recursos contra el presupuesto, además de los que lo estén para impugnar los actos o acuerdos de las Entidades locales de Navarra, de conformidad con lo establecido en el número 3 del artículo 337 de esta Ley Foral:
+a) Los residentes en el territorio de la respectiva Entidad local.
+b) Los Colegios Oficiales, Cámaras Oficiales, Sindicatos, Asociaciones y demás Entidades legalmente constituidas para velar por intereses profesionales o económicos, cuando actúen en defensa de ellos.
+3. Únicamente podrán entablarse recursos contra los presupuestos:
+a) Por no haberse ajustado su elaboración y aprobación a los trámites establecidos en esta Ley.
+b) Por omitir el crédito necesario para el cumplimiento de obligaciones exigibles a la Entidad local en virtud de precepto legal o de cualquier otro título legítimo, o consignarse para el de atenciones que no sean de competencia de aquélla.
+c) Por ser de manifiesta insuficiencia los ingresos con relación a los gastos presupuestados, o bien de éstos respecto a las necesidades para las que esté previsto.
+
+### Artículo 279
+
+Artículo 279.
+Los acuerdos definitivos aprobatorios de los presupuestos por la Corporación tendrán plena eficacia ejecutiva respecto a la exacción de los ingresos previstos y la ordenación de los gastos consignados, sin perjuicio de los recursos que legalmente procedan contra los mismos.
+
+## Sección 2
+
+Sección 2.ª De los créditos presupuestarios y sus modificaciones
+
+### Artículo 280
+
+Artículo 280.
+1. Los créditos para gastos se destinarán exclusivamente a la finalidad específica para la que fueron aprobados y tendrán carácter limitativo, sin que puedan autorizarse o adquirirse compromisos de gastos u obligaciones por cuantía superior a su importe.
+No obstante, se considerarán ampliables los créditos para gastos cuya cuantía venga determinada en función del ingreso obtenido por un concepto específico directamente vinculado a aquéllos.
+En las bases de ejecución o, en su defecto, en el acto de aprobación del presupuesto, habrán de especificarse las partidas de gasto a las que se atribuya la condición de ampliables, así como los correspondientes conceptos de ingresos que se entiendan vinculados a aquéllas.
+2. Serán nulos de pleno derecho los acuerdos, resoluciones y actos administrativos en general que se adopten con infracción de lo establecido en este artículo, sin perjuicio de las responsabilidades civiles, penales y administrativas a que haya lugar.
+
+### Artículo 281
+
+Artículo 281.
+Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos por su importe íntegro, quedando prohibido atender obligaciones mediante minoración de los derechos a liquidar o ya ingresados. No tendrán carácter de minoración, a estos efectos, la devolución de ingresos indebidos.
+
+### Artículo 282
+
+Artículo 282.
+Con cargo a los créditos del estado de gastos del presupuesto sólo podrán contraerse obligaciones derivadas de adquisiciones, obras, servicios y demás prestaciones o gastos que se realicen en el año natural del propio ejercicio presupuestario. Excepcionalmente podrán imputarse al presupuesto en vigor obligaciones correspondientes a ejercicios anteriores, previo reconocimiento de las mismas y adopción del correspondiente acuerdo de habilitación o suplemento de crédito por el Pleno.
+
+### Artículo 283
+
+Artículo 283.
+1. La autorización o realización de gastos de carácter plurianual se subordinará al crédito que para cada ejercicio autorice el respectivo presupuesto.
+2. Podrán adquirirse compromisos por gastos que hayan de extenderse a ejercicios posteriores a aquel en que se autorice, siempre que su ejecución se inicie en el propio ejercicio y que, además, se encuentra en alguno de los casos siguientes:
+a) Inversiones, transferencias de capital y contratos de arrendamiento de equipos que no pueden ser estipulados o resulten antieconómicos por plazo de un año.
+b) Arrendamientos de bienes inmuebles, contratos de prestación de servicios y suministros y de ejecución de las obras de mantenimiento.
+3. El número de ejercicios a que pueden aplicarse los gastos referidos en el apartado a) del número anterior no podrá ser superior a cuatro.
+En casos excepcionales, el Pleno de la Entidad podrá ampliar el número de anualidades señalado en el párrafo anterior.
+Se deroga lo indicado del apartado 3 por la disposición derogatoria 1.e) de la Ley Foral 2/1995, de 10 de marzo. Ref. BOE-A-1995-16401
+
+### Artículo 284
+
+Artículo 284.
+1. Cuando haya de realizarse algún gasto que no pueda demorarse hasta el ejercicio siguiente y no exista en el presupuesto de la Entidad, o el consignado fuera insuficiente, se incoará expediente de habilitación de crédito extraordinario, en el primer caso, o de suplemento de crédito, en el segundo.
+2. Los expedientes de habilitación o suplemento de crédito habrán de ser informados previamente por el Interventor, y se someterán a la aprobación del Pleno de la Entidad local con sujeción a los mismos trámites y requisitos sobre información, reclamaciones y publicidad a que se refiere el artículo 276 de esta Ley.
+
+### Artículo 285
+
+Artículo 285.
+1. Las habilitaciones y suplementos de crédito que se acuerden en el transcurso de cada ejercicio se financiarán con el sobrante de la liquidación del presupuesto anterior, con los mayores ingresos recaudados sobre los totales previstos en el presupuesto corriente, o mediante transferencia de créditos de gasto de otras partidas no comprometidas, cuyas dotaciones se estimen reducibles sin perturbación del respectivo servicio.
+A este efecto se considerará sobrante de liquidación el remanente de tesorería, excluido el importe de los derechos liquidados pendientes de cobro, a excepción de aquéllos con antigüedad inferior a seis meses, y deducidas las obligaciones pendientes de pago.
+2. No obstante lo dispuesto en el número anterior, en el supuesto de que se obtengan ingresos no previstos presupuestariamente o superiores a los inicialmente consignados y que se encuentren vinculados directamente a la ejecución de un gasto, se podrá habilitar o suplementar el crédito correspondiente, cuya cuantía vendrá determinada en función del ingreso obtenido.
+En este caso, será suficiente el acuerdo del Pleno de la Entidad.
+
+### Artículo 286
+
+Artículo 286.
+Todas las modificaciones de créditos presupuestarios que se expresan en esta sección, necesariamente tendrán que estar informadas por el Interventor en los Ayuntamientos en que legalmente deba existir.
+
+## Sección 3
+
+Sección 3.ª Ejecución y liquidación de los presupuestos
+
+### Artículo 287
+
+Artículo 287.
+1. Las bases de ejecución del presupuesto podrán autorizar al Presidente de la Entidad la realización, previo informe del Interventor, de transferencias, de gastos corrientes entre partidas presupuestarias correspondientes a una misma función, cuya dotación sea reducible sin menoscabo del respectivo servicio y siempre que no incrementen los gastos de personal.
+2. Cuando en la ejecución de las inversiones previstas en el presupuesto se produzca una economía real, podrá destinarse, previo acuerdo del Pleno de la Entidad aprobatorio de la correspondiente transferencia, a la financiación de los gastos corrientes derivados de la entrada en funcionamiento de los servicios a que aquéllas se refieren, en cuantía no superior al 10 por 100 del importe de las mismas y sin que pueda exceder de la financiación derivada de ingresos corrientes.
+Redactado conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Artículo 288
+
+Artículo 288.
+La ejecución de los presupuestos se ajustará al principio de unidad de Caja. En consecuencia, se centralizarán todos los cobros y pagos en que se materialicen los gastos e ingresos presupuestarios y extrapresupuestarios.
+
+### Artículo 289
+
+Artículo 289.
+1. Dentro del importe de los créditos autorizados en los presupuestos, corresponderá la disposición de gastos:
+a) Al Presidente de la Entidad, cuando se trate de gastos fijos y de atenciones ordinarias, dentro de los límites que señalen las bases de ejecución del presupuesto o, en su defecto, los acuerdos de la Corporación, así como los relativos a la contratación de obras, servicios y suministros realizada dentro de los límites de sus atribuciones y a las demás actuaciones propias de su competencia.
+b) Al Pleno u órgano supremo de gobierno de la Entidad local en los demás casos.
+2. Corresponderá la ordenación de pagos a los Presidentes de las respectivas Entidades locales, sujetándose en su ejercicio:
+a) A los créditos presupuestarios.
+b) A los acuerdos de disposición de gastos.
+c) A la prioridad de los gastos en la forma que se determine reglamentariamente.
+3. La intervención emitirá informe preceptivo con carácter previo a todo acto de disposición de gasto y ordenación de pago.
+4. Los ordenadores de gastos y de pagos, en todo caso, y el personal que desempeñe las funciones de intervención, cuando no adviertan por escrito su improcedencia, serán personalmente responsables de todo gasto que autoricen y de toda obligación que reconozcan, liquiden o paguen sin crédito suficiente.
+
+### Artículo 290
+
+Artículo 290.
+(Derogado).
+Se deroga por la disposición derogatoria 1.e) de la Ley Foral 2/1995, de 10 de marzo. Ref. BOE-A-1995-16401
+
+### Artículo 291
+
+Artículo 291.
+(Derogado).
+Se deroga por la disposición derogatoria 1.e) de la Ley Foral 2/1995, de 10 de marzo. Ref. BOE-A-1995-16401
+ Redactado conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+## Sección 4
+
+Sección 4.ª De la contabilidad
+
+### Artículo 292
+
+Artículo 292.
+1. Las Entidades locales y sus Organismos autónomos quedan sometidos al régimen de contabilidad pública en los términos establecidos en esta Ley.
+2. Las Sociedades mercantiles en cuyo capital tengan participación total o mayoritaria las Entidades locales estarán igualmente sometidas al régimen de contabilidad pública, sin perjuicio de que se adapten a las disposiciones del ordenamiento jurídico mercantil y al plan general de contabilidad vigente para las Empresas privadas.
+3. La sujeción al régimen de contabilidad pública lleva consigo la obligación de rendir cuentas de las respectivas operaciones, cualquiera que sea su naturaleza, a la Cámara de Cómptos de Navarra.
+
+### Artículo 293
+
+Artículo 293.
+1. Corresponderá al Gobierno de Navarra, a propuesta del Departamento de Administración Local:
+a) Aprobar las normas contables de carácter general, a las que tendrá que ajustarse la organización de la contabilidad de las Entidades locales y sus Organismos autónomos.
+b) Aprobar el plan general de cuentas para las Entidades locales, conforme al plan general de contabilidad pública.
+c) Establecer los libros que, como regla general y con carácter obligatorio, deban llevarse.
+d) Determinar la estructura y justificación de las cuentas, estados y demás documentos relativos a la contabilidad pública.
+2. Las Entidades locales serán objeto, a los efectos indicados en el número anterior, de un tratamiento especial simplificado.
+Se deroga lo indicado del apartado 2 por la disposición derogatoria 1.e) de la Ley Foral 2/1995, de 10 de marzo. Ref. BOE-A-1995-16401
+
+### Artículo 294
+
+Artículo 294.
+1. A la intervención de las Entidades locales le corresponde llevar y desarrollar la contabilidad financiera y el seguimiento, en términos financieros, de la ejecución de los presupuestos de acuerdo con las normas generales y las dictadas por el Pleno de la Corporación, debiendo coincidir el ejercicio contable con el ejercicio presupuestario.
+2. Asimismo, competerá a la intervención la inspección de la contabilidad de los Organismos autónomos y de las Sociedades mercantiles dependientes de la Entidad local, de acuerdo con los procedimientos que establezca el Pleno.
+
+### Artículo 295
+
+Artículo 295.
+La contabilidad de las Entidades locales estará organizada al servicio de los siguientes fines:
+a) Establecer el balance de la Entidad local, poniendo de manifiesto la composición y situación de su patrimonio, así como sus variaciones.
+b) Determinar los resultados desde un punto de vista económico-patrimonial.
+c) Determinar los resultados analíticos poniendo de manifiesto el coste y rendimiento de los servicios.
+d) Registrar la ejecución de los presupuestos generales de la Entidad, poniendo de manifiesto los resultados presupuestarios.
+e) Registrar los movimientos y situación de la Tesorería Local.
+f) Proporcionar los datos necesarios para la formación de la Cuenta General de la Entidad, así como de las cuentas, estados y documentos que deban elaborarse.
+g) Facilitar la información necesaria para la confección de estadísticas económico-financieras.
+h) Facilitar los datos y demás antecedentes que sean precisos para la confección de las cuentas económicas del sector público.
+i) Rendir la información económica y financiera que sea necesaria para la toma de decisiones, tanto en el orden político como en el de gestión.
+j) Posibilitar el ejercicio de los controles de legalidad, financiero y de eficacia.
+k) Posibilitar el inventario y el control del inmovilizado material, inmaterial y financiero, el control del endeudamiento y el seguimiento individualizado de la situación deudora o acreedora de los interesados que se relacionen con la Entidad local.
+Redactada la letra f) conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Artículo 296
+
+Artículo 296.
+1. La contabilidad pública se llevará en libros, registros y cuentas según los procedimientos técnicos que sean más convenientes por la índole de las operaciones y de las situaciones que en ellos deban anotarse y de forma que facilite el cumplimiento de los fines señalados en el artículo anterior.
+2. En los citados libros, registros y cuentas se contabilizarán la totalidad de los actos u operaciones de carácter administrativo, civil o mercantil, con repercusión financiera, patrimonial o económica en general.
+
+### Artículo 297
+
+Artículo 297.
+La intervención remitirá al Pleno de la Entidad, por conducto de la presidencia, información de la ejecución de los presupuestos y del movimiento de la tesorería por operaciones presupuestarias, independiente y auxiliares del presupuesto y de su situación, en los plazos y con la periodicidad que el Pleno establezca.
+
+## Sección 5
+
+Sección 5.ª De la Tesorería
+
+### Artículo 298
+
+Artículo 298.
+1. Constituyen la tesorería de las Entidades locales todos los recursos financieros, sean dinero, valores o créditos, de la Entidad local, tanto por operaciones presupuestarias como extrapresupuestarias.
+2. Los preceptos contenidos en la presente sección serán de aplicación, asimismo, a los Organismos autónomos.
+
+### Artículo 299
+
+Artículo 299.
+Las disponibilidades de la tesorería y sus variaciones quedan sujetas a intervención y al régimen de la contabilidad pública, y se efectuarán previa expedición del oportuno mandamiento.
+
+### Artículo 300
+
+Artículo 300.
+Son funciones encomendadas a la tesorería de las Entidades locales:
+a) Recaudar los derechos y pagar las obligaciones.
+b) Servir al principio de unidad de caja, mediante la centralización de todos los fondos y valores generados por operaciones presupuestarias y extrapresupuestarias.
+c) Distribuir en el tiempo las disponibilidades dinerarias para la puntual satisfacción de las obligaciones.
+d) Responder de los avales contraídos.
+e) Realizar las demás que se deriven o relacionen con las anteriormente enumeradas.
+
+### Artículo 301
+
+Artículo 301.
+1. Las Entidades locales podrán concertar los servicios financieros de su tesorería con Entidades de crédito y ahorro, mediante la apertura de los siguientes tipos de cuentas:
+a) Cuentas operativas de ingresos y pagos.
+b) Cuentas restringidas de recaudación.
+c) Cuentas restringidas de pagos.
+d) Cuentas financieras de colocación de excedentes de tesorería.
+2. Asimismo, las Entidades locales podrán autorizar la existencia de cajas de efectivo para los fondos de las operaciones diarias, las cuales estarán sujetas a las limitaciones que reglamentariamente se establezcan.
+Redactado el apartado 1.d) conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Artículo 302
+
+Artículo 302.
+Las Entidades locales podrán dictar reglas especiales para el ingreso del producto de la recaudación de los recursos, que podrán realizarse en las cajas de efectivo o en las Entidades de crédito colaboradoras, mediante efectivo, transferencias, cheques o cualquiera otro medio o documento de pago, sean o no bancarios, que se establezcan.
+Podrán asimismo pagar sus obligaciones por cualquiera de los medios a que se refiere el párrafo anterior.
+
+## CAPÍTULO III
+
+De las cuentas
+
+### Artículo 303
+
+Artículo 303.
+Las Entidades locales, a la terminación del ejercicio presupuestario, formarán y elaborarán los estados y cuentas anuales que se regulan en este capítulo, los cuales comprenderán todas las operaciones presupuestarias, independientes y auxiliares, patrimoniales y de tesorería llevadas a cabo durante el ejercicio.
+
+### Artículo 304
+
+Artículo 304.
+1. Las Entidades locales formarán una cuenta general que estará integrada por:
+a) La de la propia Entidad.
+b) La de los Organismos autónomos.
+c) Las de las Sociedades mercantiles de capital íntegramente propiedad de las mismas.
+2. (Derogado).
+3. (Derogado).
+4. Las Entidades locales unirán a la cuenta general, en su caso, los estados integrados y consolidados de las distintas cuentas que reglamentariamente se determinen.
+5. (Derogado).
+6. La estructura y contenido de los estados y cuentas, así como la de los anexos que hayan de acompañarlos, se establecerán por el Gobierno de Navarra.
+Se derogan los apartados 2, 3, 5 y lo indicado del 6 por la disposición derogatoria 1.e) de la Ley Foral 2/1995, de 10 de marzo. Ref. BOE-A-1995-16401
+
+### Artículo 305
+
+Artículo 305.
+1. Las cuentas generales, preparadas y redactadas por la Intervención, se someterán por el Presidente, antes de 1 de junio, a informe de una Comisión Especial de Cuentas de la Entidad local, la cual estará constituida por miembros pertenecientes, en su caso, a los distintos grupos políticos integrantes de aquélla.
+2. Las cuentas, con los justificantes y el informe de la Comisión, serán expuestas al público por plazo de quince días hábiles, durante el que los interesados podrán presentar reclamaciones, reparos u observaciones. Si se hubiesen presentado reclamaciones, se emitirá por la Comisión informe complementario sobre las mismas.
+3. Con los informes y documentos anteriores, las cuentas se someterán a estudio del Pleno de la Entidad local para que, en su caso, sean aprobadas antes de 1 de septiembre.
+4. Las Entidades locales deben remitir a la Administración de la Comunidad Foral copia de las cuentas en el plazo de quince días siguientes a la aprobación.
+
+## CAPÍTULO IV
+
+Control y fiscalización
+
+### Artículo 306
+
+Artículo 306.
+Se ejercerán en las Entidades locales, con la extensión y efectos que se determinan en los artículos siguientes, las funciones de control interno respecto de la gestión económica de las mismas, de los Organismos autónomos y de las Sociedades mercantiles de ellas dependientes, en su triple acepción de función interventora, función de control financiero y función de control de eficacia.
+
+### Artículo 307
+
+Artículo 307.
+1. La función interventora tendrá por objeto fiscalizar todos los actos de las Entidades locales y de sus Organismos autónomos que den lugar al reconocimiento y liquidación de derechos y obligaciones o gastos de contenido económico, los ingresos y pagos que de aquéllos se deriven, y la recaudación, inversión y aplicación, en general, de los caudales públicos administrados, con el fin de que la gestión se ajuste a las disposiciones aplicables en cada caso.
+2. El ejercicio de la expresada función comprenderá:
+a) La intervención crítica o previa de todo acto, documento o expediente susceptible de producir derechos u obligaciones de contenido económico o movimiento de fondos de valores.
+b) La intervención formal de la ordenación del pago.
+c) La intervención material del pago.
+d) La intervención y comprobación material de las inversiones y de la aplicación de las subvenciones.
+
+### Artículo 308
+
+Artículo 308.
+Si en el ejercicio de la función interventora el órgano interventor se manifestara en desacuerdo con el fondo o con la forma de los actos, documentos o expedientes examinados, deberá formular sus reparos por escrito antes de la adopción del acuerdo o resolución.
+
+### Artículo 309
+
+Artículo 309.
+1. Cuando la disconformidad se refiere al reconocimiento o liquidación de derechos a favor de las Entidades locales o sus Organismos autónomos, la oposición se formalizará en nota de reparo que, en ningún caso, suspenderá la tramitación del expediente.
+2. Si el reparo afecta a la disposición de gastos, reconocimiento de obligaciones u ordenación de pagos, se suspenderá la tramitación del expediente hasta que aquél sea solventado en los siguientes casos:
+a) Cuando se base en la insuficiencia de crédito o el propuesto no se considere adecuado.
+b) Cuando se aprecien graves irregularidades en la documentación justificativa de las órdenes de pago o no hubieran sido fiscalizados los actos que dieron origen a las mismas.
+c) En los casos de omisión en el expediente de requisitos o trámites esenciales.
+d) Cuando el reparo derive de comprobaciones materiales de obras, suministros, adquisiciones y servicios.
+
+### Artículo 310
+
+Artículo 310.
+1. Cuando el órgano a que afecte el reparo no esté de acuerdo con el mismo, corresponderá al Presidente de la Entidad local resolver la discrepancia, siendo su resolución ejecutiva. Esta facultad no será delegable en ningún caso.
+2. No obstante lo dispuesto en el número anterior, corresponderá al Pleno la resolución de las discrepancias cuando los reparos:
+a) Se basen en insuficiencia o inadecuación de crédito.
+b) Se refieran a obligaciones o gastos cuya aprobación sea de su competencia.
+
+### Artículo 311
+
+Artículo 311.
+El órgano interventor elevará informe al Pleno de todas las resoluciones adoptadas por el Presidente de la Entidad local contrarias a los reparos efectuados, así como un resumen de las principales anomalías detectadas en materia de ingresos.
+
+### Artículo 312
+
+Artículo 312.
+1. No estarán sometidos a intervención previa los gastos de material no inventariable, suministros menores, así como los de carácter periódico y demás de tracto sucesivo, una vez intervenido el gasto correspondiente al período inicial del acto o contrato del que deriven o sus modificaciones.
+2. En los Ayuntamientos de municipios con una población superior a 50.000 habitantes y demás Entidades locales de ámbito superior, el Pleno podrá acordar, a propuesta del Presidente y previo informe del órgano interventor, que la intervención previa se limite a comprobar los siguientes extremos:
+a) La existencia de crédito presupuestario y que el propuesto es el adecuado a la naturaleza del gasto u obligación que se proponga contraer.
+b) Que las Obligaciones o gastos se generan por órgano competente.
+c) Aquéllos otros extremos que, por su trascendencia en el proceso de gestión, se determinen por el Pleno a propuesta del Presidente.
+El órgano interventor podrá formular las observaciones complementarias que considere convenientes, sin que las mismas tengan, en ningún caso, efectos suspensivos en la tramitación de los expedientes correspondientes.
+3. Las obligaciones o gastos sometidos a la fiscalización limitada a que se refiere el número 2 serán objeto de otra plena con posterioridad, ejercida sobre una muestra representativa de los actos, documentos o expedientes que dieron origen a la referida fiscalización, mediante la aplicación de técnicas de muestreo o auditoría, con el fin de verificar que se ajustan a las disposiciones aplicables en cada caso y determinar el grado del cumplimiento de la legalidad en la gestión de los créditos.
+Los órganos de control interno que realicen las fiscalizaciones con posterioridad deberán emitir informe escrito en el que hagan constar cuantas observaciones y conclusiones se deduzcan de las mismas. Estos informes se remitirán al Pleno con las observaciones que hubieran efectuado los órganos gestores.
+4. Las Entidades locales podrán determinar, mediante acuerdo del Pleno, la sustitución de la fiscalización previa de derechos por la inherente a la toma de razón en contabilidad y por actuaciones comprobatorias posteriores mediante la utilización de técnicas de muestreo o auditoría.
+
+### Artículo 313
+
+Artículo 313.
+1. El control financiero tendrá por objeto comprobar el funcionamiento, en el aspecto económico-financiero, de los servicios de las Entidades locales, de sus Organismos autónomos y de las Sociedades mercantiles de ellas dependientes.
+2. Dicho control tendrá por objeto informar acerca de la adecuada presentación de la información financiera, del cumplimiento de las normas y directrices que sean de aplicación y del grado de eficacia y eficiencia en la consecución de los objetivos previstos.
+3. Como resultado del control efectuado habrá de emitirse informe escrito en el que se hagan constar cuantas observaciones y conclusiones se deduzcan del examen practicado. Los informes, conjuntamente con las alegaciones efectuadas por el órgano auditado, serán enviados al Pleno para su examen.
+
+### Artículo 314
+
+Artículo 314.
+El control de eficacia tendrá por objeto la comprobación periódica del grado de cumplimiento de los objetivos, así como el análisis del coste de funcionamiento y del rendimiento de los respectivos servicios o inversiones.
+
+### Artículo 315
+
+Artículo 315.
+Los funcionarios que tengan a su cargo la fiscalización interna ejercerán su función con plena independencia y podrán recabar cuantos antecedentes consideren necesarios, efectuar el examen y comprobación de los libros, cuentas y documentos que consideren precisos, verificar arqueos y recuentos y solicitar de quien corresponda, cuando la naturaleza del acto, documento o expediente que deba ser intervenido lo requiera, los informes técnicos y asesoramientos que estimen necesarios.
+
+### Artículo 316
+
+Artículo 316.
+La fiscalización externa de las cuentas y de la gestión económica de las Entidades locales de Navarra y de todos los Organismos y Sociedades de ellas dependientes se realizará por la Cámara de Comptos de conformidad con lo dispuesto en el título IX, capítulo II, sección 4.ª, de esta Ley Foral, sin perjuicio de las actuaciones a que haya lugar en relación con la materia, de acuerdo con el ordenamiento jurídico vigente.
+
+## TÍTULO IX
+
+Procedimiento y régimen jurídico. Impugnación y control de las actuaciones de las Entidades locales de Navarra
+
+## CAPÍTULO I
+
+Procedimiento y régimen jurídico
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 317
+
+Artículo 317.
+1. El procedimiento y régimen jurídico de los actos y acuerdos de las Entidades locales de Navarra se ajustará a lo dispuesto en esta Ley Foral y en la legislación general vigente reguladora de la materia.
+2. Las Entidades locales de Navarra actuarán con sometimiento pleno a la Ley y al Derecho, y con arreglo a los principios de economía y eficacia y a los establecidos en el artículo 1 de esta Ley Foral.
+3. Las Entidades locales responderán directamente de los daños y perjuicios causados a los particulares en sus bienes y derechos como consecuencia del funcionamiento de los servicios públicos o de la actuación de sus autoridades, funcionarios o agentes, en los términos establecidos por la legislación general sobre responsabilidad administrativa.
+
+### Artículo 318
+
+Artículo 318.
+1. Las entidades locales están obligadas a resolver y notificar cuantas peticiones se les dirijan en materia de su competencia.
+2. El silencio administrativo tendrá efecto estimatorio si transcurren tres meses desde la presentación de la petición sin que se notifique su resolución.
+Las autorizaciones y licencias se entenderán concedidas por silencio positivo transcurrido el plazo de tres meses desde la petición, sin perjuicio de lo previsto en el artículo siguiente.
+Se modifica por el art. 13 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 319
+
+Artículo 319.
+El otorgamiento de autorizaciones y licencias se ajustará a las siguientes normas:
+1.ª La competencia para otorgarlas corresponderá al Presidente de la entidad local, a no ser que se establezca otra cosa en la legislación sectorial.
+2.ª Las solicitudes de licencia relativas al ejercicio de actividades personales y a la utilización del patrimonio local se resolverán en el plazo de un mes. Transcurrido este plazo sin haberse notificado resolución expresa podrán entenderse denegadas por silencio administrativo.
+3.ª El otorgamiento de licencias para los actos de edificación y uso del suelo, así como las relativas a actividades clasificadas para la protección del medio ambiente, y las referidas a autorizaciones de instalación, traslado o ampliación de empresas o centros de trabajo que no correspondan a actividades clasificadas, se regirán por la legislación específica aplicable en la Comunidad Foral de Navarra.
+Se suprime el apartado 4 por el art. único.3 de la Ley Foral 7/2010, de 6 de abril. Ref. BOE-A-2010-8423
+ Se modifica por el art. 13 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+ Se modifica el apartado 1 por el art. 2 de la Ley Foral 4/1999, de 2 de marzo. Ref. BOE-A-1999-8878
+
+### Artículo 320
+
+Artículo 320.
+En los expedientes relativos a peticiones que deban ser informadas o en que hayan de intervenir otras Administraciones Públicas y la resolución final corresponda a la Administración Local, ésta recabará de aquéllas la realización de las actuaciones pertinentes, conforme a la competencia que tuvieran atribuida.
+
+## Sección 2
+
+Sección 2.ª Acuerdos y resoluciones
+
+### Artículo 321
+
+Artículo 321.
+La adopción de acuerdos se producirá en la forma establecida en el título III, capítulo I, de esta Ley Foral.
+
+### Artículo 322
+
+Artículo 322.
+1. Será necesario el informe previo del Secretario, y, en su caso, del Interventor o de quienes legalmente les sustituyan, para la adopción de acuerdos en los siguientes casos:
+a) Cuando se refieran a materias para las que se exija una mayoría especial.
+b) Siempre que lo ordene el Presidente de la Corporación o lo solicite un tercio de los miembros que la integren con antelación suficiente a la celebración de la sesión en que hubieren de tratarse.
+c) En los demás supuestos en que lo establezca la legislación de régimen local y, en su caso, la legislación sectorial.
+2. Los informes preceptivos a que se hace mención en el número anterior se emitirán por escrito, con expresión de la legislación en cada caso aplicable y la adecuación de las propuestas de acuerdo a la misma.
+3. Los acuerdos para el ejercicio de las acciones necesarias para la defensa de los bienes y derechos de las Entidades locales, así como para allanarse a las demandas judiciales o transigir sobre los mismos, deberán adoptarse previo dictamen del Secretario, de la Asesoría Jurídica, en su caso, o de un Letrado.
+
+### Artículo 323
+
+Artículo 323.
+1. Los acuerdos de los órganos colegiados de las Entidades locales deberán incorporarse al acta de la sesión en que hubieran sido adoptados, en la que, además, constarán la fecha y hora de comienzo y terminación de la sesión, los nombres de quien la presida y de los restantes miembros asistentes a la misma, las materias debatidas, con expresión sucinta, en las sesiones plenarias, de las opiniones emitidas, e indicación del sentido de los votos, e incidencias acontecidas, así como las demás concreciones que se especifiquen reglamentariamente y con las formalidades que, asimismo, se determinen.
+El acta se elaborará por el Secretario, y se someterá a votación en la sesión ordinaria siguiente, previa lectura, si antes no ha sido distribuida entre los miembros de la corporación. Se hará constar en el acta la aprobación del acta anterior, así como las rectificaciones que sean pertinentes, sin que en ningún caso pueda modificarse el fondo de los acuerdos.
+Las actas de las sesiones, una vez aprobadas, se transcribirán en el Libro de Actas, autorizándolas con las firmas del Alcalde o Presidente y del Secretario. El Libro de Actas tiene la consideración de instrumento público solemne y deberá llevar en todas sus hojas, debidamente foliadas, la rúbrica del Presidente y el sello de la Corporación.
+2. Las resoluciones del Presidente de las Corporaciones locales y de otros órganos unipersonales se inscribirán, asimismo, en el libro especial destinado al efecto que revestirá el carácter atribuido al Libro de Actas.
+
+## Sección 3
+
+Sección 3.ª Reglamentos, Ordenanzas y Bandos
+
+### Artículo 324
+
+Artículo 324.
+1. Las disposiciones generales emanadas de las Entidades locales en ejercicio de la potestad reglamentaria y en el ámbito de su competencia adoptarán la forma de Reglamentos, si tuvieren por objeto regular la organización y funcionamiento de la Administración local, y, en otro caso, de Ordenanzas.
+2. Las Ordenanzas y Reglamentos aprobados por las Entidades locales se integrarán en el ordenamiento jurídico con sujeción al principio de jerarquía normativa, y serán de aplicación general en todo el término a que afecten.
+Las normas del Estado y de la Comunidad Foral respetarán, en todo caso, el ejercicio de la potestad reglamentaria local en el ámbito de su competencia propia.
+3. Lo establecido en las Ordenanzas y Reglamentos vinculará por igual a los ciudadanos y a la Entidad local, sin que ésta pueda dispensar individualmente de la observancia de los mismos.
+
+### Artículo 325
+
+Artículo 325.
+1. La aprobación de reglamentos y ordenanzas locales se ajustará al siguiente procedimiento:
+a) Aprobación inicial por el Pleno de la entidad local.
+b) Información pública, previo anuncio en el Boletín Oficial de Navarra y en el tablón de anuncios de la entidad del acuerdo de aprobación, por el plazo mínimo de treinta días en que los vecinos e interesados legítimos podrán examinar el expediente y formular reclamaciones, reparos u observaciones.
+c) Resolución de las reclamaciones, reparos u observaciones presentadas, y aprobación definitiva por el órgano a que se ha hecho referencia en el apartado a).
+No obstante, el acuerdo de aprobación inicial pasará a ser definitivo en el caso de que no se hubiesen formulado reclamaciones, reparos u observaciones. En este caso, para la producción de efectos jurídicos, deberá publicarse tal circunstancia, junto con el texto definitivo, en el Boletín Oficial de Navarra.
+2. La aprobación de las ordenanzas reguladoras de los aprovechamientos de los bienes comunales requerirá la votación favorable de la mayoría absoluta del número legal de miembros de la corporación.
+3. Para la modificación de los reglamentos y ordenanzas deberán observarse los mismos trámites que para su aprobación.
+4. No será preceptiva la información pública para la aprobación de los Reglamentos que afecten a la organización de la propia entidad local.
+Se modifica por el art. 13 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+ Se modifica por el art. 2 de la Ley Foral 4/1999, de 2 de marzo. Ref. BOE-A-1999-8878
+
+### Artículo 326
+
+Artículo 326.
+Las Ordenanzas y Reglamentos aprobados por las Entidades locales no producirán efectos jurídicos en tanto no haya sido publicado íntegramente su texto en el «Boletín Oficial de Navarra» y, excepto en las Ordenanzas fiscales, haya transcurrido el plazo establecido para el ejercicio por la Administración del Estado o de la Comunidad Foral de la facultad de requerimiento a las Entidades locales en orden a la anulación de sus actos o acuerdos.
+
+### Artículo 327
+
+Artículo 327.
+1. Las Entidades locales podrán dictar disposiciones interpretativas y aclaratorias de los Reglamentos y Ordenanzas que aprueben con los mismos requisitos de publicidad que la disposición de la que traen causa.
+2. El ejercicio de dicha facultad corresponderá al Presidente de la Corporación, si no se dispone otra cosa en la Ordenanza o Reglamento.
+
+### Artículo 328
+
+Artículo 328.
+Los Bandos dictados por el Alcalde o Presidente de la Entidad local, en el ámbito de su competencia, serán de aplicación general en el territorio a que afecten, con subordinación a las leyes y demás disposiciones generales, y se publicarán conforme a los usos y costumbres de la localidad.
+Si tuvieran por objeto la adopción de medidas extraordinarias, en los casos de catástrofes o infortunios públicos o grave riesgo, se dará cuenta inmediata al Pleno de la Entidad local.
+
+## Sección 4
+
+Sección 4.ª Conflictos de atribuciones y cuestiones de competencia
+
+### Artículo 329
+
+Artículo 329.
+Los Organismos y Entidades locales estarán obligados a declarar su incompetencia aunque no sean requeridos por otra autoridad, cuando se sometan a su decisión asuntos cuyo conocimiento no les corresponda.
+
+### Artículo 330
+
+Artículo 330.
+Los conflictos de atribuciones, positivos o negativos, que surjan entre órganos y Entidades dependientes de una misma Corporación se resolverán por el Pleno u órgano supremo de gobierno, o por el Presidente, en la forma prevista en el número 1 del artículo 50 de la Ley reguladora de las Bases del Régimen Local, y conforme al siguiente procedimiento:
+a) El órgano que se considere competente requerirá de inhibición al que conozca del asunto, quien suspenderá las actuaciones y las remitirá inmediatamente, junto con el requerimiento formulado, al órgano a que corresponda la resolución del conflicto, al objeto de que adopte la decisión procedente.
+b) En el caso de que un órgano o Entidad se considere incompetente para conocer de un asunto, remitirá las actuaciones al que considere competente, quien decidirá acerca de su competencia en el plazo de ocho días. Si se considerase incompetente remitirá de inmediato el expediente, con su informe, al que corresponda decidir el conflicto.
+
+### Artículo 331
+
+Artículo 331.
+1. Las cuestiones de competencia que se susciten entre Entidades locales de Navarra se resolverán con sujeción a las siguientes reglas:
+a) El planteamiento del conficto corresponderá al Pleno de la Entidad local.
+b) La Entidad local que conozca de un asunto y sea requerida de inhibición suspenderá las actuaciones y resolverá sobre su competencia.
+c) En el caso de que ambas Entidades se declaren competentes, quedará suscitado el conflicto positivo de competencias y remitirán las actuaciones respectivas al Gobierno de Navarra, que resolverá lo procedente en el plazo de quince días.
+2. Análogo procedimiento al mencionado en el número anterior se seguirá si el conflicto fuese negativo.
+
+## CAPÍTULO II
+
+Impugnación y control de las actuaciones de las Entidades locales de Navarra
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 332
+
+Artículo 332.
+De conformidad con lo establecido en el número 2 del artículo 46 de la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra, la Administración de la Comunidad Foral, sin perjuicio de la jurisdicción de los Tribunales de Justicia, ejercerá el control de legalidad y del interés general, de las actuaciones de todas las Entidades locales de Navarra reconocidas como tales por esta Ley Foral.
+
+### Artículo 333
+
+Artículo 333.
+1. La actividad administrativa de las entidades locales de Navarra sujeta al control de la jurisdicción contencioso-administrativa podrá ser impugnada por alguna de las siguientes vías:
+a) Mediante la interposición ante los órganos competentes de los recursos jurisdiccionales o administrativos establecidos en la legislación general.
+b) Mediante la interposición ante el Tribunal Administrativo de Navarra del recurso de alzada establecido en la sección segunda de este capítulo. Las resoluciones, expresas o presuntas, de dicho tribunal, pondrán fin a la vía administrativa foral y serán impugnables ante los órganos competentes de la jurisdicción contencioso-administrativa.
+2. Lo dispuesto en el número 1.b) y en la Sección Segunda de este capítulo se entiende sin perjuicio de los recursos que procedan contra los actos y acuerdos de las entidades locales dictados en ejercicio de competencias delegadas por la Administración del Estado o de la Comunidad Foral y de la resolución de los mismos por la Administración delegante.
+Se modifica el apartado 1 por el art. 1.34 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se modifica por el art. 2 de la Ley Foral 4/1999, de 2 de marzo. Ref. BOE-A-1999-8878
+ Redactado el apartado 1.a) conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Artículo 334
+
+Artículo 334.
+Contra los actos y acuerdos de las Entidades locales de Navarra no sujetos al control de la jurisdicción contencioso-administrativa podrán ejercerse o interponerse las acciones o recursos pertinentes ante los órganos jurisdiccionales competentes, con sujeción a la legislación general.
+
+### Artículo 335
+
+Artículo 335.
+1. La Administración de la Comunidad Foral podrá impugnar ante la jurisdicción contencioso-administrativa los actos y acuerdos, expresos o presuntos, la inactividad y las actuaciones materiales que constituyan vía de hecho, de las entidades locales de Navarra:
+a) Cuando considere que infringen el ordenamiento jurídico en materias propias de la competencia de la Comunidad Foral.
+b) Cuando, con vulneración de normas legales, excedan de la competencia propia de las entidades locales, menoscaben competencias de la Comunidad Foral o interfieran su ejercicio.
+2. La impugnación por la Administración de la Comunidad Foral de la actividad administrativa impugnable a que se refiere el número anterior se ajustará a lo establecido en la Subsección 1ª de la Sección Tercera de este Capítulo.
+Se modifica por el art. 13 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Artículo 336
+
+Artículo 336.
+La Administración de la Comunidad Foral ejercerá el control del interés general de las actuaciones de las Entidades locales de Navarra en los casos y términos previstos en esta Ley Foral.
+
+## Sección 2
+
+Sección 2.ª Recurso de alzada ante el Tribunal Administrativo de Navarra
+
+### Artículo 337
+
+Artículo 337.
+1. El recurso de alzada a que se refiere el párrafo b) del número 1 del artículo 333 tendrá carácter potestativo y gratuito y deberá interponerse, en su caso, ante el Tribunal Administrativo de Navarra.
+El plazo para la interposición del recurso de alzada será de un mes si el acto fuera expreso. Si no lo fuera, se podrá interponer el recurso en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo. En los demás casos de actividad administrativa impugnable conforme a la legislación de la jurisdicción contencioso-administrativa, se podrá interponer el recurso en cualquier momento a partir del día en que sea posible interponer recurso ante dicha jurisdicción.
+2. El recurso de alzada podrá fundarse en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.
+3. Estarán legitimados para la interposición del recurso de alzada quienes lo estuvieran para impugnar los actos y acuerdos de las Entidades locales conforme a la legislación general, y los vecinos, aunque no les afecte personalmente el acto o acuerdo.
+Se modifica el apartado 1 por el art. 1.35 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 338
+
+Artículo 338.
+1. El recurso de alzada se tramitará y resolverá por el Tribunal Administrativo de Navarra por el procedimiento que se determine reglamentariamente.
+2. Los recursos de alzada deberán resolverse en el plazo de seis meses. Transcurrido dicho plazo sin que recayera resolución expresa, se podrán entender desestimados.
+3. La resolución de los recursos de alzada relativos a la nivelación de los presupuestos de las Entidades locales se efectuará previo dictamen de la Cámara de Comptos, que se emitirá en el plazo de dos meses, conforme a lo dispuesto en su Ley Foral reguladora.
+4. El Tribunal Administrativo de Navarra, observando las normas de protección de datos, publicará las resoluciones que resuelvan los recursos de alzada que tramite en el plazo máximo de una semana a partir de la notificación a todos los interesados en los recursos.
+Se añade el apartado 4 por el art. único de la Ley Foral 4/2026, de 23 de marzo. Ref. BOE-A-2026-9046
+ Se modifica el apartado 2 por el art. 1.36 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 339
+
+Artículo 339.
+1. La interposición del recurso de alzada no suspenderá la ejecución del acto o acuerdo impugnado.
+2. Durante la tramitación del recurso de alzada, el Tribunal Administrativo no podrá suspender dicha ejecución.
+
+### Artículo 340
+
+Artículo 340.
+1. La ejecución de las resoluciones del Tribunal Administrativo de Navarra corresponderá al órgano de la entidad local autora de la actuación objeto del recurso.
+2. El Gobierno de Navarra, a instancia del Tribunal Administrativo de Navarra, podrá disponer lo pertinente para la ejecución subsidiaria de las referidas resoluciones, incluso la subrogación automática en las competencias que hagan posible la ejecución y la disponibilidad de los fondos económicos necesarios.
+Se modifica por el art. 1.37 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+## Sección 3
+
+Sección 3.ª Impugnación y control de la legalidad y del interés general de las actuaciones de las entidades locales por la administración de la comunidad foral
+
+## Subsección 1
+
+Subsección 1.ª Impugnación por la Administración de la Comunidad Foral de las actuaciones de las Entidades locales
+
+### Artículo 341
+
+Artículo 341.
+Cuando la Administración de la Comunidad Foral considere que un acto o acuerdo, expreso o presunto, la inactividad o una actuación material que constituya vía de hecho, de las entidades locales de Navarra, infringe el ordenamiento jurídico en materias propias de la competencia de la Comunidad Foral, menoscaba sus competencias, interfiere su ejercicio o excede de la competencia de dichas entidades, podrá adoptar alguna de las siguientes medidas:
+a) Requerir a la entidad local para que anule la actividad administrativa impugnable a que se refiere el párrafo anterior.
+b) Impugnar directamente ante la jurisdicción contencioso-administrativa la referida actividad administrativa impugnable.
+Se modifica por el art. 13 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+ Se modifica por el art. 2 de la Ley Foral 4/1999, de 2 de marzo. Ref. BOE-A-1999-8878
+
+### Artículo 342
+
+Artículo 342.
+1. Cuando la Administración de la Comunidad Foral decida hacer uso del requerimiento a que se refiere el artículo anterior, deberá formularlo, con invocación expresa del presente artículo, en el plazo de quince días hábiles.
+Dicho plazo empezará a contar a partir de la recepción de la comunicación del acto o acuerdo, o de que la Administración de la Comunidad Foral tenga o pueda tener conocimiento de que la entidad local debiera haber realizado una prestación o ejecutado un acto firme, de conformidad con la disposición general, acto administrativo, contrato o convenio administrativo del que hubiera nacido la obligación, o a partir de que la Administración de la Comunidad Foral tenga o pueda tener conocimiento de una actuación material constitutiva de vía de hecho.
+El requerimiento deberá ser motivado, expresar la normativa que se estime vulnerada, contener petición de anulación del acto o acuerdo, o de cumplimiento de las obligaciones de la entidad local en los concretos términos en que estén establecidos, u orden de cese de la actuación material constitutiva de vía de hecho, y señalar el plazo en que la entidad local ha de cumplir el objeto del requerimiento.
+2. Si la entidad local no atendiera el requerimiento, la Administración de la Comunidad Foral podrá impugnar la actuación o inactividad ante la jurisdicción contencioso-administrativa, dentro del plazo señalado para la interposición del recurso de tal naturaleza en la Ley reguladora de dicha jurisdicción, contado desde el día siguiente a aquél en que venza el requerimiento dirigido a la entidad local o al de la recepción de la comunicación de la misma rechazando el requerimiento, si se produce dentro del plazo fijado para su cumplimiento.
+Se modifica por el art. 13 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+ Se modifica por el art. 2 de la Ley Foral 4/1999, de 2 de marzo. Ref. BOE-A-1999-8878
+
+### Artículo 343
+
+Artículo 343.
+1. La Administración de la Comunidad Foral podrá impugnar directamente ante la jurisdicción contencioso-administrativa las actuaciones de las entidades locales de Navarra que menoscaben competencias de la Comunidad Foral, interfieran su ejercicio o excedan de la competencia de dichas entidades, en el plazo establecido en la legislación reguladora de la jurisdicción contencioso-administrativa.
+2. La impugnación deberá precisar la lesión o, en su caso, extralimitación competencial que la motiva y las normas legales vulneradas en que se funda. Podrá además contener petición expresa de suspensión de la actuación, razonada en la integridad y efectividad del interés comunitario afectado que, en su caso, producirá los efectos establecidos en la legislación general.
+Acordada la suspensión, podrá el tribunal alzarla en cualquier momento, en todo o en parte, a instancia de la entidad local y oyendo a la Administración de la Comunidad Foral, en caso de que de ella hubiera de derivarse perjuicio al interés local no justificado por las exigencias del interés comunitario hecho valer en la impugnación.
+Se modifica por el art. 13 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## Subsección 2
+
+Subsección 2.ª Control por la Administración de la Comunidad Foral del interés general de las actuaciones de las Entidades locales
+
+### Artículo 344
+
+Artículo 344.
+1. La Administración de la Comunidad Foral ejercerá, en los términos establecidos en esta Ley Foral, el control del interés general de las actuaciones de las Entidades locales de Navarra en materia de los bienes y derechos pertenecientes a las mismas.
+2. Asimismo ejercerá la Administración de la Comunidad Foral el control del interés general de las actuaciones de las Entidades locales en los demás casos previstos en las Leyes.
+3. El control del interés general en ningún caso tendrá por objeto juzgar sobre la oportunidad del acuerdo adoptado por la Entidad local, sino que tratará sobre su adecuación o no a los intereses generales que puedan concurrir en la decisión de aquélla.
+Redactado el apartado 3 conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+## Subsección 3
+
+Subsección 3.ª Disposiciones comunes
+
+### Artículo 345
+
+Artículo 345.
+1. Las Entidades locales de Navarra tienen el deber de remitir a la Administración de la Comunidad Foral, en los plazos y forma que reglamentariamente se determinen, copia o, en su caso, extracto de los actos y acuerdos de las mismas. Los Presidentes, y de forma inmediata, los Secretarios de las Corporaciones, serán responsables del cumplimiento de este deber.
+2. La Administración de la Comunidad Foral podrá solicitar ampliación de la información a que se refiere el número anterior, que deberá remitirse en el plazo máximo de veinte días hábiles. En tal caso, quedarán interrumpidos los plazos establecidos en el número 1 del artículo 342 y número 1 del artículo 343.
+
+### Artículo 346
+
+Artículo 346.
+1. El ejercicio de las facultades de impugnación de los actos y acuerdos, expresos o presuntos, la inactividad y las actuaciones materiales que constituyan vía de hecho, de las entidades locales de Navarra, a que se refiere el artículo 335, corresponderán al órgano de la Administración de la Comunidad Foral que ejerza las competencias en materia de Administración local.
+2. Las facultades de control del interés general de las actuaciones de las entidades locales se ejercerán por los órganos de la Administración de la Comunidad Foral a quienes corresponda por razón de la materia y de la legislación sectorial.
+Se modifica por el art. 13 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+## Sección 4
+
+Sección 4.ª Control externo de las actuaciones de las Entidades locales de Navarra
+
+### Artículo 347
+
+Artículo 347.
+1. De conformidad con lo dispuesto en el artículo 18.2 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, la Cámara de Comptos informará sobre las cuentas y la gestión económica de las Corporaciones locales de Navarra.
+2. La referida información se ejercerá de conformidad con la Ley Foral reguladora de la Cámara de Comptos. Atenderá fundamentalmente a criterios de legalidad, eficacia y economía en la gestión de los fondos públicos y podrá versar sobre las cuentas anuales, sobre dicha gestión global o sobre aspectos concretos de la misma.
+
+### Artículo 348
+
+Artículo 348.
+La labor fiscalizadora de la Cámara de Comptos se ejercerá mediante:
+a) El examen y revisión de las cuentas de las Entidades locales.
+b) La emisión de los informes de fiscalización que la Cámara de Comptos, por propia iniciativa y de acuerdo con su programa de actuación, estime oportuno realizar.
+c) La realización de informes que les sean solicitados por el Pleno de la Entidad local respectiva siempre que así lo acuerden, al menos, dos terceras partes de sus miembros. En este supuesto, la actuación de la Cámara de Comptos tendrá la amplitud que ésta estime oportuno y se llevará a cabo en coordinación con su programa de fiscalización.
+
+### Artículo 349
+
+Artículo 349.
+1. Las Entidades locales de Navarra deberán facilitar a la Cámara de Comptos cuantos datos, informes, documentos o antecedentes les sean requeridos por ésta para el desarrollo de sus funciones.
+2. Sin perjuicio de lo establecido en el número anterior, la Cámara de Comptos podrá inspeccionar los libros, metálico y valores, y comprobar toda la documentación de las oficinas públicas, dependencias, depósitos y almacenes y, en general, cualesquiera establecimientos, en cuanto lo estimase necesario para el desarrollo de sus funciones.
+3. La Cámara de Comptos podrá fijar plazos para la presentación de la información mencionada en el número 1.
+El incumplimiento de los plazos fijados o la negativa a remitir la información solicitada podrá dar lugar a la adopción de las siguientes medidas:
+a) Requerimiento conminatorio por escrito.
+b) Puesta en conocimiento al Parlamento y al Gobierno de Navarra para la adopción de las medidas que procedan con arreglo a la legislación vigente.
+
+### Artículo 350
+
+Artículo 350.
+1. Los informes de fiscalización y control elaborados por la Cámara de Comptos en el ejercicio de las funciones previstas en esta sección se remitirán a la Corporación respectiva y se publicarán en el «Boletín Oficial del Parlamento de Navarra».
+2. La Cámara de Comptos remitirá anualmente al Parlamento y al Gobierno de Navarra una Memoria-resumen sobre sus actuaciones de fiscalización y control en el ámbito de las Entidades locales, que se publicará en el «Boletín Oficial del Parlamento de Navarra».
+
+### Artículo 351
+
+Artículo 351.
+Sobre la base de su labor de fiscalización y control, la Cámara de Comptos podrá formular para la Corporación respectiva, el Parlamento y el Gobierno de Navarra cuantas recomendaciones estime oportunas en relación con la gestión económico-financiera de las Entidades locales de Navarra.
+
+## TÍTULO X
+
+Comarcas
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+## CAPÍTULO I
+
+Disposiciones generales
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 352
+
+Artículo 352. Definición, naturaleza y fines de las comarcas.
+1. En ejercicio de la competencia histórica reconocida en la letra a) del número 1 del artículo 46 de la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra y la base 13.ª del Real Decreto-Ley Paccionado del 4 de noviembre de 1925, los municipios limítrofes vinculados por características e intereses comunes se constituirán en comarcas, que gozarán de la condición de entidades locales.
+2. Las comarcas son entidades locales territoriales, de carácter supramunicipal, que tienen personalidad jurídica propia y gozan de capacidad y autonomía para el cumplimiento de sus fines.
+3. Las comarcas tendrán a su cargo la prestación de servicios y la gestión de actividades de ámbito supramunicipal, representando los intereses de la población y territorio comarcales en defensa de una mayor solidaridad y equilibrio territorial en Navarra.
+4. Asimismo, las comarcas cooperarán con los municipios que las integren en el cumplimiento de sus fines propios.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 353
+
+Artículo 353. Potestades de las comarcas.
+En el ejercicio de sus competencias, corresponden a las comarcas:
+a) Las potestades reglamentaria y de autoorganización.
+b) Las potestades financiera y tributaria.
+c) La potestad de programación y planificación.
+d) La presunción de legitimidad y la ejecutividad de sus actos.
+e) Las potestades de ejecución forzosa y sancionadora.
+f) La potestad de revisión de oficio de sus actos y acuerdos.
+g) La inembargabilidad de sus bienes y derechos en los términos previstos en las leyes; las prelaciones, preferencias y demás prerrogativas reconocidas a la Hacienda Pública en relación con sus créditos, sin perjuicio de las que correspondan a las Haciendas del Estado y de la Comunidad Foral de Navarra.
+h) Las potestades expropiatoria y de investigación, deslinde y recuperación de oficio de sus bienes.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 354
+
+Artículo 354. Término comarcal.
+1. El término comarcal estará constituido por el conjunto del territorio que se delimite en su ley foral de creación.
+2. Cada municipio podrá pertenecer sólo a una comarca.
+3. Si, como consecuencia de la alteración de términos municipales resultasen afectados los límites comarcales, deberá resolverse simultáneamente la correlativa alteración de la división comarcal.
+4. Las comarcas deberán tener continuidad territorial, con la salvedad de aquélla en la que se integre el municipio de Petilla de Aragón, dadas sus singulares características de ubicación geográfica.
+5. Al finalizar el proceso de creación de comarcas, todos los municipios de Navarra deberán estar integrados en alguna de ellas.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 355
+
+Artículo 355. Denominación y sedes de los servicios.
+1. Las comarcas se identifican por la denominación establecida en la ley foral de creación de cada una de ellas.
+2. La ley foral creadora de cada comarca determinará el municipio o municipios en los que los órganos de la comarca tendrán su sede.
+3. No obstante lo indicado en el apartado anterior, las leyes forales creadoras de las comarcas podrán atribuir a otros municipios la sede de determinados servicios.
+4. Los cambios de denominación y sede de las comarcas exigirán un procedimiento análogo al establecido para los municipios en los artículos 21 a 26 de la presente ley foral.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+## CAPÍTULO II
+
+Creación de las comarcas
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 356
+
+Artículo 356.
+La creación de las comarcas se realizará mediante ley foral que determinará su denominación, ámbito territorial, sede, recursos económicos y competencias, que habrán de ser, al menos, las contempladas en el apartado 1 del artículo 361 de la presente ley foral, así como la composición y el funcionamiento de sus órganos de gobierno.
+Dicha ley foral regulará, asimismo, el traspaso a la comarca de las funciones, bienes y personal que hasta el momento estaban integrados en otras entidades supramunicipales, que quedarán extinguidas a la creación de la comarca, de conformidad con lo establecido en los artículo 370 y 371 de la presente ley foral, con excepción de las Agrupaciones Tradicionales que en su caso existieran en su término.
+Los órganos de gobierno de dichas entidades supramunicipales continuarán en funciones hasta que no se proceda a la constitución de la Asamblea comarcal y a la elección de su Presidente.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 357
+
+Artículo 357.
+El proceso de creación de una comarca podrá comenzar:
+1. A propuesta de los ayuntamientos implicados, por iniciativa de:
+a) Un tercio, al menos, de los ayuntamientos que hayan de integrarla.
+b) Uno o varios de dichos ayuntamientos, siempre que representen, al menos, la mitad del censo electoral del territorio correspondiente.
+En ambos caso, la iniciativa tomará como referencia la delimitación comarcal que se detalla en la disposición transitoria primera de la Ley Foral de Reforma de la Administración Local de Navarra, requiriendo el acuerdo de los respectivos Plenos, adoptado con el voto favorable de la mayoría absoluta del número legal de personas integrantes de la Corporación.
+2. Por el Gobierno de Navarra, que dará inicio al proceso de creación de una comarca según la delimitación comarcal que se detalla en la disposición transitoria primera de la Ley Foral de Reforma de la Administración Local de Navarra, cuando, en el plazo de dieciocho meses a partir de su entrada en vigor, no se hubiera ejercitado dicha iniciativa por los ayuntamientos implicados.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 358
+
+Artículo 358.
+1. En el caso de que la iniciativa de creación de la comarca parta de los municipios, el departamento del Gobierno de Navarra competente en materia de administración local, una vez recibida certificación acreditativa de los acuerdos adoptados, y en el plazo máximo de un mes desde su recepción, dará traslado de los mismos al resto de los ayuntamientos comprendidos en la delimitación comarcal propuesta.
+Dichos ayuntamientos deberán pronunciarse expresamente sobre la aceptación o el rechazo de la misma, mediante acuerdo del Pleno que deberá adoptarse por mayoría absoluta del número legal de las personas integrantes de la Corporación, en el plazo máximo de 2 meses, a partir de la comunicación de los referidos acuerdos.
+Si el ayuntamiento no adopta ningún acuerdo o no lo comunica dentro del citado plazo se entenderá que no tiene objeciones a su integración en la comarca propuesta.
+2. Los municipios que no estén de acuerdo con la comarca en la que se encuentran ubicados, según la distribución territorial efectuada en la disposición transitoria primera de la Ley Foral de Reforma de la Administración Local de Navarra y que aparezcan en la misma como lindantes con otra comarca, podrán solicitar su incorporación a esta última, si así lo estiman oportuno.
+Dicha solicitud habrá de cumplir los siguientes requisitos:
+a) Ser aprobada por acuerdo adoptado por la mayoría absoluta del número legal de personas integrantes de la corporación.
+b) Que no haya reparo por parte de un mínimo de dos tercios de los ayuntamientos que formen o vayan a formar parte de la comarca en la que se solicita la inclusión.
+3. Si la iniciativa partiese del Gobierno de Navarra, el departamento competente en materia de Administración Local remitirá el correspondiente acuerdo a todos los municipios que hubieren de integrarse en la comarca, a efectos de que se pronuncien expresamente sobre la aceptación o el rechazo de la misma, de conformidad con lo establecido en los apartados anteriores para el supuesto de que la iniciativa sea municipal.
+4. En ambos casos, se dará audiencia a los concejos comprendidos en la delimitación comarcal propuesta.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 359
+
+Artículo 359.
+1. Conocido el parecer de todos los municipios y concejos afectados, el Gobierno de Navarra adoptará acuerdo sobre la procedencia y composición definitiva del ente comarcal, previo informe del departamento competente en materia de Administración Local.
+Si existiera negativa de algún municipio a su incorporación a la comarca propuesta, dicho informe habrá de pronunciarse expresamente, sobre su incorporación a aquélla o a la comarca con la que fuera lindante, de conformidad con lo establecido en el apartado segundo del artículo anterior.
+2. El Gobierno de Navarra no podrá pronunciarse sobre la constitución de la comarca, procediéndose al archivo del procedimiento, si se opusieren expresamente las dos quintas partes de los municipios propuestos para constituir la comarca, siempre que tales municipios representen, al menos, la mitad del censo electoral del territorio correspondiente.
+El rechazo a la constitución de la comarca implicará la imposibilidad de iniciar un nuevo proceso de creación de la misma, al que se refiere el artículo 357 de la presente ley foral, hasta la conformación de las corporaciones municipales surgidas de las siguientes elecciones municipales.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 360
+
+Artículo 360.
+1. Si el acuerdo del Gobierno de Navarra fuera favorable a la creación de la comarca, se constituirá una Comisión Técnica Comarcal, integrada por representantes de la Administración de la Comunidad Foral, de los ayuntamientos y entidades supramunicipales incluidas en el ámbito propuesto para la comarca y de las personas trabajadoras afectadas.
+La designación de estos últimos se llevará a cabo a propuesta de la Mesa General de las Administraciones Públicas de Navarra.
+2. La Comisión técnica comarcal tendrá por objeto la redacción de un informe detallado sobre los siguientes aspectos:
+a. Traspasos de personal, funciones, bienes y servicios de las entidades supramunicipales que deban integrarse en la comarca, según lo previsto en los artículos 370 y 371de la presente ley foral.
+b. Establecimiento, en su caso, de subcomarcas, en los supuestos contemplados en la delimitación comarcal prevista en la disposición transitoria primera de la Ley Foral de Reforma de la Administración Local de Navarra, y de conformidad con lo señalado en el artículo 369 de la presente ley foral.
+c. Propuesta sobre el número de integrantes de la Asamblea comarcal.
+3. El mencionado informe, con las determinaciones especificadas en el párrafo anterior, será preceptivo y acompañará a los que resultaren procedentes en el procedimiento de aprobación del anteproyecto de ley foral de creación de la comarca.
+4. La Comisión técnica comarcal tendrá carácter temporal y se extinguirá automáticamente con la entrada en vigor de la ley foral de creación de la comarca.
+5. En el seno de la Comisión técnica comarcal se constituirá una Subcomisión de Personal, integrada por una representación de las entidades locales afectadas por el proceso de comarcalización y la representación sindical designada para formar parte de la Comisión técnica comarcal, que, con carácter previo a la redacción del informe que preceptivamente tiene que efectuar, conozca el censo con la relación de puestos de trabajo de cada una de las Administraciones locales que se pudieran integrar en la correspondiente Comarca, así como la determinación de las necesidades de personal, la posible o futura previsión de plantilla orgánica y servicios de la comarca, las condiciones laborales y salariales y cualquier aspecto que afecte a las condiciones de trabajo de las empleadas y empleados públicos. El informe que emita esta Subcomisión se incorporará como anexo al que redacte la Comisión técnica comarcal para su remisión al Gobierno de Navarra.
+Se añade el apartado 5 por el art. 1 de la Ley Foral 20/2019, de 4 de abril. Ref. BOE-A-2019-6780
+ Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+## CAPÍTULO III
+
+Competencias y servicios
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 361
+
+Artículo 361.
+1. Las comarcas tendrán competencia en materia de:
+a) Servicios sociales de atención primaria a escala supramunicipal, de conformidad con la normativa foral sectorial aplicable, y sin perjuicio de las competencias reservadas a los municipios por la legislación básica.
+Los municipios que en la actualidad vienen realizando una gestión individual de los Servicios Sociales de Base podrán continuar efectuándola, si así lo solicitan, siempre que su población sea superior a 10.000 habitantes.
+b) Redes de abastecimiento de agua en alta a escala supramunicipal así como gestión de auxilios y ayudas a municipios y concejos para obras del ciclo hidráulico, de conformidad con lo dispuesto en la legislación foral y el planeamiento sectorial vigentes en la materia, y sin perjuicio de la competencia municipal relativa al abastecimiento domiciliario de agua potable.
+Podrán quedar exentos, si así lo solicitan, los municipios que gestionen de forma individual todo el proceso de abastecimiento de agua, tanto en alta como en baja, siempre que no se compartan acuíferos o infraestructuras potabilizadoras o redes de conducción con algún otro municipio.
+c) Tratamiento de residuos a escala supramunicipal, en el marco del planeamiento director del Gobierno de Navarra.
+En particular, y sin perjuicio de las competencias municipales sobre gestión de los residuos sólidos urbanos, podrán llevar a cabo, entre otras, las siguientes actividades:
+1. Valorización de residuos.
+2. Colaboración en la ejecución de los planes y programas de prevención, transporte, disposición de rechazos, sellado de vertederos incontrolados y reciclado de los residuos urbanos promovidos por el Gobierno de Navarra.
+3. Colaboración en la ejecución de los planes y programas en materia de residuos inertes provenientes de las actividades de construcción y demolición, neumáticos, residuos voluminosos y residuos de origen animal promovidos por el Gobierno de Navarra.
+4. Gestión y coordinación de la utilización de infraestructuras y equipos de eliminación de residuos urbanos.
+5. Medidas de fomento para impulsar y favorecer la recogida selectiva, la reutilización y el reciclado de residuos urbanos.
+6. Promoción y planificación de campañas de información y sensibilización ciudadanas en materia de residuos urbanos.
+7. Vigilancia y control de la aplicación de la normativa vigente en materia de residuos urbanos.
+d) Ordenación del territorio y urbanismo. De conformidad con la normativa aplicable y sin perjuicio de las competencias exclusivas reservadas tanto a los municipios, por la legislación básica, como a la Administración de la Comunidad Foral.
+e) Servicios administrativos de secretaría e intervención.
+1.º Servicios administrativos de secretaría e intervención a los ayuntamientos menores de 1.500 o 3.000 habitantes, respectivamente.
+A tal efecto, la comarca garantizará la prestación en las citadas entidades locales de las funciones públicas necesarias previstas en los artículos 234 y siguientes de la presente ley foral a través de personal funcionario propio, adscrito al correspondiente servicio de asistencia a los municipios y concejos de la comarca, con habilitación conferida por la Administración de la Comunidad Foral de Navarra.
+Lo previsto en el apartado anterior sobre la prestación de funciones públicas necesarias en las entidades locales de la comarca, no impedirá la asignación a los mencionados puestos de otras funciones distintas o complementarias de aquéllas.
+Para la determinación de los ámbitos territoriales de prestación de dichos servicios, se podrá tomar como referencia, salvo que concurran motivos notorios de necesidad o conveniencia económica o administrativa, el de las agrupaciones de servicios administrativos que estuvieran constituidas a la fecha de la entrada en vigor de la Ley Foral de Reforma de la Administración Local de Navarra, siempre que concurran los dos requisitos siguientes:
+a) Que se trate de municipios limítrofes integrados en la misma comarca.
+b) Que así lo manifiesten todas las entidades locales implicadas mediante acuerdo del pleno adoptado por la mayoría absoluta del número legal de sus miembros.
+No obstante lo dispuesto en los apartados anteriores, podrá existir puesto propio específico de secretaría, con habilitación de la Comunidad Foral de Navarra, en aquellos municipios de población inferior que así lo decidan mediante acuerdo adoptado por el Pleno por mayoría absoluta del número legal de sus miembros, siempre que concurra alguna de las circunstancias siguientes:
+– Que se trate de municipios compuestos con puesto propio de secretaría en la fecha de la entrada en vigor de la Ley Foral de Reforma de la Administración Local de Navarra, en los que la dispersión geográfica de sus núcleos de población aconsejen disponer de puesto de secretaría propio.
+– Que su gasto corriente anual en los últimos cinco años haya sido superior a 500.000 euros.
+El mencionado acuerdo habrá de ser remitido al departamento competente en materia de administración local en el plazo máximo de dos meses a partir de la entrada en vigor de la Ley Foral de Reforma de la Administración Local de Navarra.
+Existirá igualmente puesto propio específico de intervención en aquellos municipios con población superior a 2.000 habitantes que, en virtud de lo dispuesto en el artículo 1 de la Ley Foral 11/2004, de 29 de octubre, para la actualización del régimen local de Navarra, hubieran creado dicho puesto de trabajo, siempre que mantengan el mismo en su plantilla orgánica en la fecha de la entrada en vigor de la Ley Foral de Reforma de la Administración Local de Navarra.
+2.º Servicios administrativos de secretaría e intervención a los concejos de su término, de conformidad con lo previsto en el artículo 234.2 b) de la presente ley foral.
+2. Así mismo, la comarca prestará los servicios de abastecimiento de agua potable en baja, evacuación y tratamiento de aguas residuales y recogida y gestión de los residuos sólidos urbanos por tratarse de servicios mancomunados de forma generalizada, siempre y cuando los municipios titulares de la competencia no revoquen la delegación conferida a la mancomunidad respectiva.
+3. Las comarcas podrán ejercer aquellas competencias que les atribuya como propias la legislación sectorial en el ámbito competencial de la Administración de la Comunidad Foral, con sujeción en todo caso a lo establecido por los apartados 3, 4 y 5 del artículo 25 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, en las siguientes materias:
+a) Protección del patrimonio cultural.
+b) Intervención para la protección ambiental.
+c) Transporte interurbano en el ámbito de la comarca.
+d) Sanidad y salubridad pública.
+e) Desarrollo del medio rural, agricultura, ganadería y montes declarados de utilidad pública.
+f) Juventud.
+g) Turismo.
+h) Deporte.
+i) Protección de las/los consumidores/as y usuarios/as.
+j) Primer ciclo de Educación Infantil.
+k) Escuelas de música.
+l) Bibliotecas.
+m) Otras materias que se determinen mediante legislación sectorial.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 362
+
+Artículo 362. Funciones de apoyo y asistencia y cartera de servicios.
+1. Las comarcas ejercerán funciones de apoyo y asistencia a los municipios y concejos de su ámbito territorial, especialmente a los de menor capacidad económica y de gestión. Entre otros, podrán prestarles los siguientes servicios:
+– Apoyo a la implantación y el mantenimiento de la administración electrónica, particularmente, la creación y gestión de portales de transparencia.
+– Asesoramiento, emisión de informes y asistencia técnica en materias urbanística y ambiental.
+– Prevención de riesgos laborales.
+– Servicios técnicos de traducción al euskera.
+– Otros servicios específicos que demanden los municipios y concejos en el ámbito de la respectiva comarca.
+La puesta en marcha de estas funciones de apoyo y asistencia técnica se fomentará por el Gobierno de Navarra, según lo previsto en el artículo 62 de esta ley foral.
+La comarca prestará especial apoyo a los municipios compuestos que hubieran suscrito convenios de gestión competencial compartida con todos los concejos de su término y que así lo soliciten.
+2. Además de los servicios correspondientes a sus competencias propias, las comarcas podrán prestar otros servicios a las entidades locales de su ámbito que lo soliciten, mediante delegación o encomienda de realización de actividades de carácter material, técnico o de servicios, entre otras, en las siguientes áreas:
+– Otros servicios administrativos.
+– Policía y protección civil.
+– Área de urbanismo, vivienda y medio ambiente.
+– Desarrollo económico.
+– Servicios educativos.
+– Promoción del deporte e instalaciones deportivas y de ocupación del tiempo libre.
+– Promoción de la cultura y equipamientos culturales.
+– Juventud.
+– Políticas de igualdad.
+– Euskera.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 363
+
+Artículo 363. Delegaciones y encomiendas de gestión.
+1. La Administración de la Comunidad Foral podrá delegar el ejercicio de competencias en las comarcas o encomendarles la realización de actividades de carácter material, técnico o de servicios.
+2. Los municipios y los concejos podrán delegar competencias en las comarcas.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 364
+
+Artículo 364. Convenios.
+Las comarcas podrán establecer convenios con los municipios y concejos de su ámbito para la cooperación en cualquier materia de interés común.
+Los municipios y concejos que suscriban tales convenios podrán, en su caso, realizar funciones ejecutivas correspondientes a competencias de la comarca.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 365
+
+Artículo 365.
+Las comarcas podrán cooperar entre sí a través de convenios o acuerdos que tengan por finalidad la utilización conjunta de bienes o instalaciones, la ejecución en común de obras, o la prestación de servicios comunes que afecten a la totalidad de su término, tales como la implantación de agencias de desarrollo local, en orden a una mayor eficiencia en la gestión pública.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 366
+
+Artículo 366.
+1. A efectos de garantizar su prestación con calidad y eficiencia, evitando duplicidades y disfunciones, la comarca podrá coordinar, previa justificación técnica y económica, la prestación, en su ámbito, de los siguientes servicios:
+a) Servicios contemplados en el artículo 26.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local en los municipios con población inferior a 20.000 habitantes.
+b) Servicios prestados en el ejercicio de competencias distintas de las propias y de las atribuidas por delegación.
+2. Tanto la Asamblea comarcal como el Consejo de la subcomarca podrán proponer, en relación con los servicios señalados en el apartado anterior, la prestación directa por la comarca o la implantación de fórmulas de gestión compartida, con la conformidad de los municipios afectados, y de acuerdo con lo establecido en la normativa básica aplicable.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 367
+
+Artículo 367. Actividades de fomento.
+1. Las comarcas tendrán preferencia para la inclusión en los planes de la Comunidad Foral para obras y servicios de interés supramunicipal, conforme a los baremos que se establezcan con carácter general.
+2. El Gobierno de Navarra prestará especial asesoramiento y apoyo a la constitución de nuevas comarcas, así como al funcionamiento de las existentes.
+3. El proceso de organización y puesta en marcha de cada comarca será apoyado especialmente por el Gobierno de Navarra mediante la concesión de ayudas para las inversiones necesarias y para los gastos de funcionamiento que se precisen.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 368
+
+Artículo 368. Regla general sobre atribución y ejercicio de competencias.
+La atribución y el ejercicio de las competencias que se regulan en esta ley se entienden referidas al término de la comarca y a sus intereses propios, y siempre sin perjuicio de las competencias de los municipios que resultan de su autonomía municipal.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+## CAPÍTULO IV
+
+Subcomarcas
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 369
+
+Artículo 369. Subcomarcas.
+1. La ley foral de creación de cada comarca podrá contemplar, en los supuestos contemplados en la delimitación comarcal prevista en la disposición transitoria primera de la Ley Foral de Reforma de la Administración Local de Navarra, la existencia, dentro de la comarca, de una o dos subcomarcas cuando concurran características de orden social, geográfico o administrativo comunes sólo a una parte de los municipios de dicha comarca, que los diferencien claramente del resto, aunque sin llegar a dotarlos de cualidad suficiente como para constituir una comarca propia. Dichos municipios deberán tener continuidad territorial.
+2. En tal caso, las comarcas contarán con uno o dos Consejos de subcomarcas, integrados por representantes de las entidades locales de su ámbito.
+La Asamblea comarcal determinará, una vez constituida, el número y forma de elección de los miembros del Consejo de la subcomarca.
+Dicho Consejo se dotará de Presidencia y habrá de reunirse en sesión ordinaria, al menos, cada tres meses.
+3. El Consejo de la subcomarca podrá formular propuestas e iniciativas a la Asamblea comarcal, debiendo ser consultado de forma preceptiva y vinculante en aquellas materias que afecten significativamente al ámbito de los intereses de la subcomarca, de conformidad con lo que la ley foral de creación de la comarca establezca al efecto.
+Dichas materias no podrán ser, en ningún caso, las referidas a las competencias comarcales de abastecimiento de agua a escala supramunicipal o en alta, ni de tratamiento de residuos a escala supramunicipal.
+En particular, el Consejo de la subcomarca podrá formular propuestas y habrá de emitir informe preceptivo y vinculante en relación con la prestación directa por la comarca de los servicios contemplados en el artículo 366 de la presente ley foral, con excepción de los que afecten a la totalidad del ámbito comarcal.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+## CAPÍTULO V
+
+Entidades supramunicipales existentes en la comarca
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 370
+
+Artículo 370.
+1. Las comarcas sucederán a las entidades supramunicipales existentes a la entrada en vigor de la ley foral de creación de cada comarca como sujetos públicos titulares de las funciones mancomunadas, de conformidad con lo establecido en los artículos siguientes, con excepción de lo referido a las Agrupaciones Tradicionales.
+2. Cada ley foral de creación regulará los correspondientes traspasos de personal, funciones, bienes y servicios de las entidades supramunicipales cuyo ámbito territorial coincida total o parcialmente con el de la comarca.
+3. La comarca sucederá a la entidad supramunicipal en la percepción de transferencias para gastos corrientes e inversiones concedidas a esta última.
+4. Los fondos correspondientes a las extintas entidades supramunicipales podrán destinarse por parte de las comarcas a financiar inversiones de carácter supramunicipal u otros gastos derivados de los traspasos de personal, funciones, bienes y servicios de las entidades supramunicipales a la comarca.
+En particular, podrán utilizarse para adecuar, mejorar o completar infraestructuras necesarias para la implantación de las funciones asumidas por la comarca correspondiente. De la misma forma, también las deudas y remanentes negativos serán asumidos por la comarca.
+5. La subrogación por las comarcas en la gestión de los servicios hasta ese momento realizados por las entidades supramunicipales no comportará por sí alteración del régimen estatutario del servicio respecto de los usuarios y, en su caso, del concesionario.
+6. En aquellos casos en que una mancomunidad incluya municipios pertenecientes a una delimitación comarcal distinta de la comarca que suceda a esta mancomunidad, se procederá a concretar los fines que deben ser asumidos por dicha comarca en relación con los municipios pertenecientes a su propio ámbito territorial.
+A la vista de la repercusión que ello suponga, se planteará la modificación de los estatutos de la mancomunidad para adaptar su composición y fines a la nueva situación. Si ello hiciera inviable la continuidad de la mancomunidad o no pudiera asegurarse la prestación por ésta de los correspondientes servicios, la comarca que suceda a la mancomunidad deberá garantizar su mantenimiento, a cuyo fin se formalizarán convenios con los municipios interesados de la delimitación comarcal limítrofe hasta que se constituya la correspondiente comarca.
+En este supuesto, la ley foral creadora de cada comarca determinará la adscripción del personal a una u otra entidad local en base a criterios tales como el carácter funcionarial o laboral fijo de las personas que ocupan los puestos y, así mismo, a la antigüedad en el desempeño de los mismos.
+7. Las entidades supramunicipales cuyos fines no coincidan en su totalidad con las competencias de la comarca en cuyo ámbito territorial se encuentren, pervivirán exclusivamente en relación con dichos fines, debiendo adaptar sus estatutos a la nueva situación.
+Si ello hiciera inviable la continuidad de la entidad supramunicipal o no pudiera asegurarse la prestación de los correspondientes servicios, la comarca deberá garantizar su prestación, formalizando convenios con dicha entidad, hasta que se constituya la correspondiente comarca.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 371
+
+Artículo 371. Garantías legales para el proceso de integración de entidades supramunicipales en comarcas.
+1. Todo el personal de las entidades de ámbito supramunicipal, con excepción de lo referido en el artículo anterior para las Agrupaciones Tradicionales, quedará incorporado a la comarca en cuyo ámbito se integren, en las condiciones funcionariales o contractuales vigentes en el momento de la entrada en vigor de la ley foral de creación de cada comarca, sea cual sea el tipo de contrato.
+2. Las sociedades públicas se mantendrán, pasando a depender de la comarca que preste el correspondiente servicio.
+3. La titularidad de las redes de infraestructuras y servicios de las entidades supramunicipales pasará a la comarca en la que se integren. En caso de integración parcial, dicha titularidad corresponderá a la comarca en la que se ubique o vaya a ubicarse la localidad en la que la entidad tuviera su sede.
+4. Los ayuntamientos que se integren en una comarca diferente de la que suceda a la entidad supramunicipal titular de la red de infraestructuras podrán seguir recibiendo el servicio en las mismas condiciones que se apliquen a los ayuntamientos integrados en la comarca que se lo presta.
+5. La comarca adoptará las medidas necesarias para la adecuación a sus necesidades de las estructuras organizativas, inmobiliarias, de personal y de recursos, en función de las actividades que realice y de los servicios que preste.
+A tal fin, las comarcas deberán aprobar Planes para la ordenación de sus recursos humanos, que incluirán, entre otras, algunas de las siguientes medidas:
+a) Análisis de las disponibilidades y necesidades de personal, tanto desde el punto de vista del número de efectivos como del de los perfiles profesionales o niveles de cualificación de los mismos.
+b) Previsiones sobre los sistemas de organización del trabajo y modificaciones de estructuras de puestos de trabajo.
+c) Medidas de movilidad, entre las cuales podrá figurar la suspensión de incorporaciones de personal externo a un determinado ámbito o la convocatoria de concursos de provisión de puestos limitados a personal de ámbitos que se determinen.
+d) Medidas de promoción interna y de formación del personal y de movilidad forzosa de conformidad con lo dispuesto en la normativa de aplicación.
+e) La previsión de la incorporación de recursos humanos a través de la Oferta de empleo público.
+6. Asimismo, la comarca adoptará, de conformidad con la normativa aplicable, las medidas tendentes a la reducción de la temporalidad en el empleo público y al refuerzo de la estabilidad de su plantilla, limitando el recurso al sector privado en los siguientes supuestos:
+– A las necesidades no permanentes de personal.
+– Cuando se trate de la realización de actividades no habituales.
+– A las actividades que por su especificación técnica o de otro tipo no puedan ser realizadas por personal propio.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+## CAPÍTULO VI
+
+Organización y funcionamiento
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 372
+
+Artículo 372. Órganos de la comarca.
+1. En todas las comarcas habrá Presidencia, Junta de Gobierno y Asamblea comarcal.
+2. Una Comisión especial de Cuentas informará las cuentas anuales de la entidad antes de someterlas a su aprobación.
+3. El reglamento orgánico deberá regular la estructura administrativa y también el sistema de relaciones de los órganos comarcales y los municipios, y en su caso, los órganos complementarios que se establezcan.
+4. En las comarcas en cuyo ámbito territorial existan concejos, las correspondientes leyes forales de creación habrán de prever la existencia de un órgano consultivo específico de participación concejil.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 373
+
+Artículo 373. Presidencia.
+1. La Asamblea comarcal elegirá de entre sus miembros, en la misma sesión constitutiva, una persona que asumirá la Presidencia. Podrán ser candidatos y candidatas a la Presidencia todas las personas que pertenezcan a la Asamblea.
+2. Para ser elegido Presidente, el candidato o candidata deberá obtener mayoría absoluta de votos en la primera votación, bastando con la obtención de mayoría simple para su elección en segunda votación. En caso de empate, será proclamada electa la persona candidata perteneciente al ayuntamiento con mayor número de habitantes.
+3. La persona que ostenta la Presidencia podrá ser destituida del cargo mediante moción de censura, de forma análoga a lo previsto en la Ley Orgánica de Régimen Electoral General para los municipios.
+4. La Presidencia nombrará, entre los integrantes de la Asamblea, una o más personas con el cargo de Vicepresidente, que le sustituirán, por orden de nombramiento, en casos de vacante, ausencia o enfermedad, y que ejercerán aquellas atribuciones que expresamente les delegue.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 374
+
+Artículo 374. Asamblea comarcal.
+1. El gobierno y administración de la comarca corresponden a la Asamblea comarcal, integrada por la Presidencia y las personas asamblearias.
+2. El número total de integrantes de la Asamblea comarcal se determinará para cada comarca en su ley foral de creación. Su designación, salvo que en su ley foral de creación se disponga otra cosa, se realizará conforme a las siguientes reglas:
+a) Dos tercios de los integrantes de la Asamblea serán nombrados por los plenos de los ayuntamientos que integran la comarca entre concejales que hubieran tomado posesión de sus cargos.
+b) El otro tercio se designará de forma proporcional al número de votos obtenidos en la comarca por cada partido, coalición, federación y agrupación de electores en las últimas elecciones municipales que se hayan celebrado.
+3. El número de personas a designar por cada ayuntamiento como miembros de la Asamblea se determinará atendiendo a la población del municipio, de acuerdo con los datos del censo electoral vigente en el momento de celebrarse las últimas elecciones municipales. Cada comarca determinará los criterios de composición de su Asamblea, en función de los datos de población de dicho censo.
+4. En los casos de creación y supresión de municipios, así como de alteración de sus términos, las entidades locales resultantes del proceso deberán adecuar su representatividad en la comarca a la nueva realidad existente.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 375
+
+Artículo 375. La Junta de Gobierno.
+La Junta de Gobierno estará integrada por la Presidencia y un número de consejeros y consejeras no superior a un tercio de su número legal, todos ellos miembros de la Asamblea. El número de miembros de la Junta de Gobierno será determinado por la Asamblea.
+Corresponderá a dicha Junta la asistencia a la Presidencia, así como aquellas atribuciones delegadas por ésta o por la Asamblea, y que habrán de recogerse en el reglamento orgánico comarcal.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 376
+
+Artículo 376. Designación en atención al número de votos obtenidos en la comarca.
+1. Una vez constituidos todos los ayuntamientos de los municipios que integran la comarca, la Junta electoral, en el plazo de diez días hábiles, procederá a formar una relación de todos los partidos políticos, coaliciones y agrupaciones de electores que hayan obtenido alguna concejalía dentro de la comarca, ordenándolos en orden decreciente al de votos obtenidos por cada uno de ellos.
+2. Realizada esta operación, la Junta electoral procederá a distribuir los puestos que correspondan a las formaciones políticas en cada comarca, dividiendo el número de votos obtenidos por cada una de ellas por uno, dos, tres o más, hasta un número igual al de los puestos correspondientes a la Asamblea, atribuyendo dichos puestos a las organizaciones a las que correspondan los cocientes mayores.
+3. Si se produjera coincidencia de cocientes entre distintos partidos, coaliciones, o agrupaciones, la vacante se atribuirá al que mayor número de votos haya obtenido, y, en caso de empate, al de mayor número de concejalías en la comarca.
+Subsidiariamente, se resolverá por sorteo.
+4. Una vez realizada la asignación de puestos, la Junta Electoral convocará a las organizaciones políticas que hayan obtenido puestos en la Asamblea para que designen a las personas que hayan de ser nombradas como asamblearias entre las que ostenten la condición de concejalas o concejales de los municipios de la comarca, así como a sus sustitutos.
+Dichas organizaciones podrán presentar a la Junta Electoral una lista de consenso avalada con la firma de la mayoría de las concejalías de la correspondiente formación política en la comarca. En esta lista deberá constar la aceptación y firma de los y las concejales propuestos para su designación como asamblearios.
+5. A efectos de asignar puestos en la Asamblea respectiva, las agrupaciones de electores que se presenten a las elecciones municipales sólo pueden asociarse cuando lo hayan comunicado por escrito a la Junta Electoral previamente a la celebración de las elecciones municipales.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 2 de la citada Ley Foral.
+
+### Artículo 377
+
+Artículo 377. Designación por los ayuntamientos.
+Los Plenos de los ayuntamientos deberán proceder al nombramiento del número de representantes que les correspondan, en la primera sesión que se celebre después de la sesión constitutiva de la corporación, debiendo realizarse la designación entre concejales y concejalas electos que hubieran tomado posesión de sus cargos.
+No podrá designarse a aquel concejal o concejala que hubiera sido nombrado miembro de la Asamblea comarcal por la Junta Electoral, de conformidad con lo establecido en el artículo anterior.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 378
+
+Artículo 378. Constitución de la Asamblea comarcal.
+1. La Asamblea comarcal se constituirá en sesión pública en la sede de la comarca dentro del plazo de tres meses posterior a la celebración de las elecciones municipales.
+2. La sesión constitutiva estará presidida por una mesa de edad, integrada por la persona miembro de la asamblea de mayor edad y por la de menor edad presentes en el acto, actuando como secretario o secretaria el que lo sea de la comarca.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 379
+
+Artículo 379. Funcionamiento.
+1. Sin perjuicio de lo que al efecto determine el reglamento orgánico de la comarca, la Asamblea comarcal celebrará como mínimo una sesión ordinaria cada tres meses y se reunirá con carácter extraordinario siempre que sea convocada por la Presidencia, por propia iniciativa, o a propuesta de la cuarta parte de sus miembros, con petición de inclusión de uno o varios asuntos en el orden del día.
+2. En el caso de solicitud de convocatoria extraordinaria, la celebración de la misma no podrá demorarse por más de quince días hábiles desde que haya sido solicitada.
+3. Si la Presidencia no convocase la sesión extraordinaria solicitada por el número de miembros de la Asamblea indicado dentro del plazo señalado, quedará automáticamente convocada para el décimo día hábil siguiente al de finalización de dicho plazo, a las doce horas, lo que será notificado por la secretaría de la entidad local a todas las personas miembros de la Asamblea al día siguiente de la finalización del plazo citado anteriormente.
+4. Respecto de la convocatoria, desarrollo de sesiones, adopción de acuerdos, quórum de constitución y votaciones, se estará a lo dispuesto por la legislación aplicable en materia de régimen local.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 380
+
+Artículo 380. Cese de los miembros de la Asamblea.
+El cese de las personas integrantes de la Asamblea se producirá en los siguientes supuestos:
+a) Por haber cumplido su mandato como miembros de la Corporación a la que pertenezcan, debiendo continuar sus funciones como miembros de la Asamblea solamente para la administración ordinaria de asuntos hasta la designación de las personas que les sucedan en el cargo.
+b) Por sentencia judicial firme, fallecimiento, incapacidad o renuncia al cargo de concejal o al de miembro de la Asamblea. En tal caso, el ayuntamiento al que pertenezca o la Junta Electoral deberán nombrar un nuevo miembro de la Asamblea.
+Por destitución aprobada por el pleno municipal que lo nombró, en el caso de los y las representantes que hayan accedido al cargo de miembro de la Asamblea comarcal por esta vía.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 381
+
+Artículo 381.
+La Asamblea comarcal y la Presidencia de la comarca ejercerán las atribuciones y ajustarán su funcionamiento a las normas relativas al Pleno del ayuntamiento y a la Alcaldía, contenidas en la legislación de régimen local.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 382
+
+Artículo 382.
+Las personas integrantes de la Asamblea deberán observar en todo momento las normas sobre inelegibilidad e incompatibilidad previstas en la legislación general aplicable, debiendo poner en conocimiento de la Asamblea cualquier hecho que pudiera constituir causa de las mismas, en los términos establecidos en el artículo 178 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General y en el artículo 54.2 de la presente ley foral.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 383
+
+Artículo 383.
+En lo relativo a participación ciudadana, el reglamento orgánico comarcal recogerá, al menos, los instrumentos y procedimientos incluidos en la legislación sobre régimen local.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Artículo 384
+
+Artículo 384.
+El régimen del personal al servicio de las comarcas se regirá por lo dispuesto en el Título VII de la presente ley foral.
+Las comarcas contarán con puestos propios específicos de secretaría e intervención, con habilitación de la Comunidad Foral de Navarra.
+Se añade por el art. 1.38 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Derogada).
+Se deroga por la disposición derogatoria 2 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. Producida la extinción de un Concejo, cesarán sus órganos de gestión. El gobierno y administración, en el ámbito territorial del Concejo extinguido, se realizará por el Ayuntamiento del municipio que sucederá en la titularidad de los bienes y en los derechos y obligaciones del Concejo, ejerciendo todas las competencias que la Ley atribuye a los municipios.
+Con respecto a los presupuestos del Concejo en ejecución, se procederá a su liquidación e incorporación al del Ayuntamiento.
+2. Por lo que se refiere al personal de los Concejos extinguidos, se observarán las siguientes reglas:
+1.ª Con respecto a los Secretarios de los Concejos de más de 500 habitantes de derecho que ejerzan en jornada completa sus funciones en una o varias Entidades locales con carácter fijo con anterioridad a la entrada en vigor de la Ley Foral 13/1983, de 30 de marzo, y que no estén en condiciones de devengar derechos pasivos a la entrada en vigor de la presente Ley Foral, y no obstante lo dispuesto en la sección primera, capítulo II, del título séptimo de esta última, se tendrá en cuenta lo siguiente:
+a) Si el Concejo se hubiese segregado para constituirse en municipio independiente, el Ayuntamiento podrá optar para cubrir la plaza de Secretario, cuando se halle vacante, entre convocar concurso-oposición restringido al Secretario de un Concejo extinguido o incluir el puesto de trabajo en los concursos generales establecidos en la sección primera, capítulo II, del título séptimo.
+En todo caso, será requisito para participar en el concurso-oposición restringido que el Secretario del Concejo extinguido se halle en posesión de la titulación académica exigida en esta Ley Foral para ejercer el cargo de Secretario de Ayuntamiento.
+b) Los Secretarios de los Concejos extinguidos que no accedan a la plaza de Secretario del Ayuntamiento de acuerdo con lo establecido en el apartado anterior, por no hallarse la plaza vacante, carecer de la titulación académica exigida para participar en el respectivo concurso-oposición restringido o no obtener plaza en dicha prueba selectiva, pasarán a ser Vicesecretarios del respectivo Ayuntamiento, sujetos al estatuto funcionarial, y como situación personal a extinguir.
+2.ª El restante personal, sin perjuicio de las facultades laborales en orden a la cesación de la relación, quedará adscrito al Ayuntamiento con el régimen funcionarial o laboral a que estuviese sujeto.
+3.ª Cesará el personal no sujeto a relación funcionarial o laboral.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+El disfrute y aprovechamiento vecinal de los bienes comunales pertenecientes a las Entidades locales que se extingan como tales como consecuencia de lo dispuesto en esta Ley Foral quedará limitado a la población residente en el ámbito territorial que aquéllas hubiesen tenido.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+(Derogada).
+Se deroga por la disposición derogatoria 2 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+ Se suspende su aplicación, dese el 31 de diciembre de 1990, para aquellos Concejos que tienen iniciado expediente de segregación para constituirse en municipio independiente, por el art. único de la Ley Foral 12/1990, de 27 de diciembre. Ref. BOE-A-1991-7361
+ Redactado conforme la corrección de errores publicada en el BON núm. 124, de 15 de octubre de 1990. Ref. BON-n-1990-90148
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+1. Quedan automáticamente habilitados para ejercer, respectivamente, el cargo de Secretario o Interventor:
+a) Los Secretarios, Vicesecretarios e Interventores de Corporaciones locales de Navarra que tengan la condición de funcionarios públicos a la entrada en vigor de esta Ley Foral, y se hallen en situación de servicio activo o en la de servicios especiales, excedencia o suspensión temporal.
+b) Los Secretarios con habilitación conferida con anterioridad a la entrada en vigor de esta Ley Foral que se hallen ejerciendo a la entrada en vigor de la misma el cargo de Secretario de Ayuntamiento de Navarra en régimen distinto del funcionarial y con carácter fijo.
+Asimismo, los Secretarios de los Concejos extinguidos que hubiesen obtenido la plaza de Secretario o Vicesecretario de Ayuntamiento, de conformidad con lo establecido en el número 2 de la disposición adicional segunda, quedarán habilitados automáticamente para ejercer el respectivo puesto de trabajo.
+2. Los Secretarios de Ayuntamiento de Navarra que a la entrada en vigor de esta Ley Foral ostenten habilitación conferida con anterioridad a la misma para ejercer el cargo y lo ejerzan efectivamente con carácter fijo no funcionarial quedan sujetos a! estatuto jurídico de los funcionarios como situación personal a extinguir.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+(Derogada).
+Se deroga por la disposición derogatoria de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+Los funcionarios sanitarios titulares municipales se regirán por su normativa específica, y en lo no previsto en ella por lo establecido para los restantes funcionarios locales.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+Queda suprimida la obligación de las Entidades locales de Navarra de proporcionar vivienda o indemnización sustitutoria de la misma a los Profesores de Educación General Básica.
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+La elaboración y aprobación por las Entidades locales de Navarra de un presupuesto general único, a que se refiere el artículo 269 tendrá efectividad a partir del segundo ejercicio siguiente al de la entrada en vigor de esta Ley Foral.
+
+### Disposición adicional décima
+
+Disposición adicional décima.
+1. La regulación sobre bienes comunales contenida en esta Ley Foral será aplicable a los Ayuntamientos, Concejos, Distritos, Valles, Cendeas y Almiradíos de Navarra.
+2. A las instituciones citadas en los apartados segundo y tercero de la Ley 43 de la Compilación del Derecho Privado Foral de Navarra y otras tradicionales fundadas en aprovechamiento con carácter comunal, les será de aplicación lo dispuesto en la presente Ley Foral sobre aprovechamientos con carácter supletorio y en lo que no se oponga a sus regímenes respectivos, continuando rigiéndose por sus propios Reglamentos, Ordenanzas, Cotos, Paramentos, Convenios, Acuerdos, Sentencias o Concordias. Sí estarán sujetas a lo dispuesto respecto a los actos de desafectación y disposición entendida la referencia a las Corporaciones por la de sus respectivos órganos de gobierno.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima.
+El Gobierno de Navarra creará y mantendrá actualizada, en las condiciones establecidas reglamentariamente, un Registro de Riqueza Comunal en el que figurará la extensión, los límites y usos de los terrenos comunales de las distintas Entidades locales de Navarra, así como su potencialidad de generar recursos.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima.
+1. En cada Merindad se constituirá una Junta Arbitral de Comunales de carácter mixto, en la que tendrán representación los beneficiarios de los aprovechamientos comunales. La composición y funcionamiento de dichas Juntas se regularán reglamentariamente.
+2. Las Juntas Arbitrales de Comunales tendrán carácter consultivo para las Entidades locales en todas las materias cuya competencia se atribuyó a las mismas en la sección segunda, capítulo II, del título cuarto. Sus informes serán preceptivos, no vinculantes y de carácter público.
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera.
+Lo dispuesto en el artículo 326 será de aplicación a las ordenanzas que se aprueben con posterioridad a la entrada en vigor de esta Ley Foral.
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta.
+En el plazo de dos años a partir de la entrada en vigor de esta Ley, el Gobierno de Navarra remitirá al Parlamento de Navarra un proyecto de Ley Foral que regule la incorporación a uno o varios municipios limítrofes de las partes del territorio de la Comunidad Foral que no se hallan integradas en ningún término municipal.
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta.
+El número 2 de la Ley 43 de la compilación de Derecho Civil Foral o Fuero Nuevo de Navarra (Ley 1/1973, de 1 de marzo) queda redactado de la siguiente forma:
+El Noble Valle y Universidad del Baztán y las Juntas Generales de los Valles del Roncal y de Salazar, sin perjuicio de la personalidad jurídica de los Ayuntamientos que los integran. Estas Corporaciones actuarán siempre conforme a lo establecido en sus respectivas Ordenanzas.
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta.
+El régimen aplicable al Municipio de Pamplona previsto en el artículo 9 bis de esta Ley Foral tendrá las siguientes particularidades:
+1. Organización.
+a) La creación de Distritos municipales como forma de gestión desconcentrada tendrá carácter potestativo y su regulación, en su caso, se realizará mediante el Reglamento Orgánico correspondiente.
+b) La competencia para la adopción de los acuerdos a que se refieren los artículos 103.1, en lo relativo a la calificación jurídica de los bienes de dominio público, 140.2 y 3, 228.1 y 2 de esta Ley Foral, así como los artículos 131 y 225.3 de la Ley Foral 2/1995, de 10 de marzo, de Haciendas Locales de Navarra, corresponde al Pleno del Ayuntamiento.
+c) Los acuerdos a los que se refieren los artículos 81.1 y 2, 103.1, en lo relativo a la calificación jurídica de los bienes de dominio público, 140.2 y 3, 205.2.c), 209.2, 325.2 y 3 y 348 c), de esta Ley Foral, deberán ser adoptados con la mayoría prevista en los mismos.
+d) La competencia a que se refiere el apartado 2 del artículo 129 de la Ley Foral 2/1995, de 10 de marzo, de Haciendas Locales de Navarra, corresponde al Presidente o al Pleno del Ayuntamiento, según corresponda.
+e) Una vez formada la Cuenta General, será informada tanto por la intervención como por el órgano de gestión económico financiera y presupuestaria.
+2. Personal.
+a) El Ayuntamiento de Pamplona, con motivo de la aprobación de la plantilla orgánica, determinará el sistema de provisión de la plaza vacante de Secretario del Pleno, pudiendo optar entre:
+Incluir el puesto en el sistema de provisión regulado en los artículos 245 y siguientes de esta Ley. Para ello el Ayuntamiento de Pamplona se dirigirá al Departamento competente en materia de Administración Local, a los efectos previstos en el art. 248 de esta Ley Foral.
+Proveerlo conforme al Reglamento de Ingreso del Personal al Servicio de las Administraciones Públicas de Navarra en cuyas pruebas selectivas únicamente puedan participar los funcionarios de las Administraciones Públicas de Navarra a quienes se les haya exigido para su ingreso uno de los títulos a los que se refiere el artículo 246 bis.1.
+La persona que acceda al puesto en virtud de este procedimiento quedará automáticamente habilitado para el ejercicio del cargo de Secretario en las entidades locales de Navarra, en el caso de que no lo estuviera.
+Proveerlo entre funcionarios con habilitación foral, con arreglo a lo establecido en el Capítulo III, del Título II, del Reglamento de Provisión de puestos de trabajo de las Administraciones Públicas de Navarra.
+Quien acceda al puesto en virtud de este procedimiento, quedará en situación de servicios especiales en su plaza de origen.
+b) La designación del titular del órgano de apoyo a la Junta de Gobierno Local y al Concejal Secretario de la misma se realizará por dicha Junta mediante el sistema de libre designación entre funcionarios del propio Ayuntamiento que ocupen puestos en propiedad para los que haya sido exigida la titulación en Derecho.
+c) El titular de la asesoría jurídica será designado por la Junta de Gobierno Local mediante el sistema de libre designación entre funcionarios de las Administraciones Públicas de Navarra a quienes les haya sido exigido para su ingreso el título de licenciado en Derecho.
+d) El Ayuntamiento de Pamplona, con motivo de la aprobación de la plantilla orgánica, determinará el sistema de provisión de la plaza vacante de Intervención General Municipal, pudiendo optar entre:
+Incluir el puesto en el sistema de provisión regulado en los artículos 245 y siguientes de esta Ley. Para ello el Ayuntamiento de Pamplona se dirigirá al Departamento competente en materia de Administración Local, a los efectos previstos en el art. 248 de esta Ley Foral.
+Proveerlo conforme al Reglamento de Ingreso del Personal al Servicio de las Administraciones Públicas de Navarra en cuyas pruebas selectivas únicamente puedan participar los funcionarios de las Administraciones Públicas de Navarra a quienes se les haya exigido para su ingreso uno de los títulos a los que se refiere el artículo 246 bis.2.
+La persona que acceda al puesto en virtud de este procedimiento quedará automáticamente habilitado para el ejercicio del cargo de Interventor en las entidades locales de Navarra en el caso de que no lo estuviera.
+Proveerlo entre funcionarios con habilitación foral, con arreglo a lo establecido en el Capítulo III, del Título II, del Reglamento de Provisión de puestos de trabajo en las Administraciones Públicas de Navarra.
+Quien acceda al puesto en virtud de este procedimiento, quedará en situación de servicios especiales en su plaza de origen.
+e) El titular o titulares del órgano de gestión económico financiera y presupuestaria y del órgano de gestión tributaria se proveerán conforme a los sistemas generales establecidos en la normativa aplicable al personal de las Administraciones Públicas de Navarra, entre los funcionarios de dichas administraciones a quienes se les haya exigido para su ingreso el título de licenciado en economía o en ciencias empresariales.
+f) Para la cobertura del resto de personal, eventual y funcionarial del Ayuntamiento se estará a lo establecido con carácter general en el estatuto de personal al servicio de las Administraciones Públicas de Navarra y normas de desarrollo.
+3. Régimen Jurídico.
+Las impugnaciones de los actos y acuerdos en materia de gestión, liquidación, recaudación e inspección de tributos y de ingresos de derecho público de competencia municipal se regirán por las normas contenidas en el título IX de la Ley Foral de la Administración Local de Navarra.
+Se modifican los apartados 2.a) y d) por la disposición adicional 2 de la Ley Foral 4/2011, de 17 de marzo. Ref. BOE-A-2011-6555
+ Se añade por el art. 14 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Disposición adicional decimoséptima
+
+Disposición adicional decimoséptima.
+En desarrollo de lo establecido en el apartado 1 del artículo 110 de la presente ley foral, las entidades locales de Navarra deben procurar la recuperación del patrimonio inmatriculado al amparo del artículo 206 de la Ley Hipotecaria hasta la reforma del mismo llevada a cabo por la Ley 13/2015, de 24 de junio, de Reforma de la Ley Hipotecaria, aprobada por Decreto de 8 de febrero de 1946 y del texto refundido de la Ley de Catastro Inmobiliario, aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo.
+Se añade por el art. 1.39 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. No obstante lo dispuesto en el artículo 38, los Concejos continuarán rigiéndose por los órganos que actualmente los gobiernan y administran hasta la toma de posesión de quienes, tras la celebración de las elecciones que se convoquen con posterioridad a la entrada en vigor de esta Ley, han de constituir los órganos de gestión y administración a que se refiere aquel artículo.
+2. Hasta la formación de los órganos de gobierno a que se refiere el artículo 38, los Concejos que se constituyan como consecuencia de lo dispuesto en el artículo 19 se regirán y administrarán por una Comisión Gestora compuesta por cinco vocales designados por el Gobierno de Navarra, de entre los cuales, éstos elegirán un Presidente.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Hasta que se produzca la efectiva asunción por los municipios de las competencias que, estando atribuidas con anterioridad a los Concejos, correspondan a aquéllos, de conformidad con lo dispuesto en esta Ley Foral, los acuerdos concejiles relativos a la competencia municipal en materia de concertación de créditos y contratación de personal deberán ser ratificados por el Ayuntamiento.
+Los instrumentos de planeamiento urbanístico aprobados inicialmente por los Concejos, con anterioridad a la entrada en vigor de esta Ley Foral, continuarán su tramitación, no pudiéndose redactar en lo sucesivo planes e instrumentos de ordenación urbanística de ámbito inferior al municipal.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+(Derogada).
+Se deroga por el art. 11 de la Ley Foral 11/2004, de 29 de octubre. Ref. BOE-A-2004-20330
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Los expedientes de contratación iniciados con anterioridad a la entrada en vigor de esta Ley Foral se regirán, hasta su conclusión, por las disposiciones anteriormente vigentes.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Las Entidades locales deberán realizar las acciones precisas para acomodar los aprovechamientos de comunales existentes a la entrada en vigor de la Ley Foral 6/1986, de 28 de mayo, de Comunales, a los preceptos de la presente Ley Foral en el momento que se fije en la correspondiente ordenanza. En todo caso, este plazo no será posterior a la fecha de terminación de los plazos de los aprovechamientos, ni superior a ocho años, a partir de la fecha en que entró en vigor la mencionada Ley de Comunales, indemnizándose a la adjudicataria las mejoras realizadas, si las hubiere, y los perjuicios ocasionados.
+Las Entidades locales, en los aprovechamientos referidos a cultivos plurianuales o leñosos, podrán prolongar los plazos señalados en esta disposición, con el límite correspondiente a la duración de las concesiones.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+El Gobierno de Navarra remitirá al Parlamento de Navarra, en el plazo máximo de tres meses, el Proyecto de Ley Foral a que se refiere el artículo 259.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+En materia de aprovechamiento de la caza a que se refiere el artículo 171, y hasta tanto se dicte la normativa que lo sustituya, continuará en vigor el contenido de la Norma del Parlamento Foral de Navarra de 17 de marzo de 1981 y sus disposiciones complementarias, con exclusión de la referencia que dicha Norma hace al articulado del Reglamento para la Administración Municipal de Navarra.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+Los expedientes de alteración de términos municipales iniciados con anterioridad a la entrada en vigor de esta Ley continuarán su tramitación y se resolverán de acuerdo con las disposiciones anteriormente vigentes.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Quedan derogados:
+a) El Reglamento para la Administración Municipal de Navarra de 3 de febrero de 1928.
+b) La Norma sobre equiparación de las retribuciones de los funcionarios de la Administración municipal de Navarra a las de los funcionarios de la Diputación Foral de 29 de enero de 1980 y sus disposiciones reglamentarias.
+c) Las Normas sobre Juntas de Oncena, Quincena y Veintena de 4 de julio de 1979 y la Ley Foral 31/1983, de 13 de octubre, sobre constitución de los Concejos abiertos y elección y constitución de las Juntas de Oncena, Quincena y Veintena de los Concejos que han de regirse por tales Juntas, y sus disposiciones reglamentarias.
+d) La Ley Foral 4/1984, de 2 de febrero, de adopción de acuerdos por las Corporaciones locales de Navarra.
+e) Las Normas sobre asignaciones a los miembros electivos de las Entidades locales de Navarra de 5 de noviembre de 1979 y disposiciones complementarias.
+f) La Ley Foral 6/1986, de 28 de mayo, de Comunales.
+g) La Ley Foral 2/1986, de 17 de abril, reguladora del control por el Gobierno de Navarra de la legalidad y del interés general de las actuaciones de las Entidades locales de Navarra.
+h) Cuantas otras normas, de igual o inferior rango, incurran en oposición, contradicción o incompatibilidad con esta Ley Foral.
+2. No obstante, y hasta tanto se dicten las disposiciones reglamentarias que los sustituyan, continuarán aplicándose los Reglamentos de desarrollo de la Ley Foral 6/1986, de 28 de mayo, de Comunales, y de la Ley Foral 2/1986, de 17 de abril, reguladora del control por el Gobierno de Navarra de la legalidad y del interés general de las actuaciones de las Entidades locales de Navarra, en cuanto no se opongan, contradigan o sean incompatibles con lo establecido en esta Ley Foral.
+
+### Disposición final primera
+
+Disposición final primera.
+Queda autorizado el Gobierno de Navarra para la adecuación de las cantidades de carácter económico establecidas en esta Ley Foral a las alteraciones económicas que se produzcan en el futuro.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Esta Ley Foral entrará en vigor el día 1 de octubre de 1990.
+
+### [firma]
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S. M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 2 de julio de 1990.
+GABRIEL URRALBURU TAINTA,
+Presidente del Gobierno de Navarra

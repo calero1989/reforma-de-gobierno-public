@@ -1,0 +1,2635 @@
+# Ley 34/1998, de 7 de octubre, del sector de hidrocarburos.
+
+- Identificador BOE: `BOE-A-1998-23284`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-23284
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 29, de 3 de febrero de 1999. Ref. BOE-A-1999-2635
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICION DE MOTIVOS
+La presente Ley tiene por objeto renovar, integrar y homogeneizar la distinta normativa legal vigente en materia de hidrocarburos. Se pretende, por tanto, conseguir una regulación más abierta, en la que los poderes públicos salvaguarden los intereses generales a través de la propia normativa, limitando su intervención directa en los mercados cuando existan situaciones de emergencia. Esta regulación debe permitir, además, que la libre iniciativa empresarial amplíe su campo de actuación y la introducción en nuestro ordenamiento jurídico de realidades técnicas y mercantiles socialmente asumidas, pero carentes, en este momento, del encaje legal adecuado. Asimismo, paralelamente a esta apertura de la legislación debe profundizarse en los mecanismos de la información detallada por los agentes del mercado a las Administraciones competentes, para permitir la constatación de la consecución de los objetivos propuestos con la liberalización de los mercados.
+La presente Ley persigue proporcionar un tratamiento integrado a una industria verticalmente articulada. Desde la producción de hidrocarburos en un yacimiento subterráneo hasta su consumo en el motor de un vehículo, en la calefacción de una vivienda o en un proceso industrial, se producen o pueden producirse una serie de transacciones económicas y de procesos físicos de transformación, tratamiento o simplemente de transporte que merecen una consideración global, puesto que forman parte de una actividad económica que, aunque segmentable, responde a una concepción integrada. Esta integración debe facilitar un tratamiento equilibrado de las diferentes actividades reguladas en esta Ley y permitir mantener una sustancial homogeneidad en la forma de abordar problemas similares.
+A lo anterior se añade la preocupación de la Ley por la introducción de criterios de protección medioambiental que estarán presentes en las actividades objeto de la misma, desde el momento de su planificación. Así pues, se pretende reflejar la necesidad de preservar y restaurar el medio ambiente como condición indispensable para mejorar la calidad de vida.
+El primer bloque material que aborda la Ley es el relativo a la exploración, investigación y explotación de hidrocarburos que han venido siendo reguladas por la Ley 21/1974, de 27 de junio. Las principales novedades que la presente Ley contiene son su adecuación al ordenamiento constitucional, la supresión de la reserva en favor del Estado, la regulación de los almacenamientos subterráneos, la creación de la figura del operador y, por último, el especial hincapié en las obligaciones de desmantelamiento de las instalaciones que los concesionarios deben asumir. Mientras que la adecuación constitucional es una necesidad que se explica por sí misma, la supresión de la reserva en favor del Estado responde a la necesidad de configurar tal Estado como regulador y no como ejecutor de unas determinadas actividades industriales. Ello no es óbice para que, si el Estado lo considera oportuno, pueda promover la investigación de un área concreta a través de la convocatoria de los correspondientes concursos. Tanto los almacenamientos subterráneos como la figura del operador son novedades que se incorporan a nuestro ordenamiento a partir de la observación de la realidad. Los almacenamientos subterráneos, carentes de regulación, constituyen un núcleo fundamental tanto de la seguridad del sistema de gas natural como de otros tipos de hidrocarburos. En cuanto al operador, es la entidad que actúa como responsable ante la Administración del conjunto de actividades desarrolladas en el ámbito de investigación y explotación de hidrocarburos cuando existe titularidad compartida.
+El refino de petróleo y el transporte, almacenamiento, distribución y comercialización de productos petrolíferos se regulan desde una perspectiva de mayor liberalización, suprimiendo preexistentes autorizaciones para el ejercicio de la actividad por la mera autorización de instalaciones afectas a una actividad que por la naturaleza de los productos manejados requiere una especial atención. Tan sólo, como excepción, se mantiene la autorización de actividad para los operadores al por mayor que, en el conjunto del mercado de hidrocarburos líquidos, son responsables del mantenimiento de las existencias mínimas de seguridad, garantía básica del sistema.
+El suministro de gases licuados del petróleo envasado también recibe el impulso liberalizador que esta Ley trata de extender a todo el sector de hidrocarburos. Se suprimen requisitos para el ejercicio de la actividad entre los cuales, la supresión de la obligatoriedad de distribución a domicilio quizá constituya el ejemplo más relevante.
+La regulación del sector del gas trata de avanzar en la liberalización del sector y de recoger los avances habidos en nuestro país en esta industria desde la promulgación en 1987 de la Ley de disposiciones básicas para un desarrollo coordinado de actuaciones en materia de combustibles gaseosos, haciéndolo compatible con un desarrollo homogéneo y coherente del sistema gasista en todo el territorio nacional.
+Sobre la base de la homogeneidad ya aludida como criterio que preside esta norma, se pretende también que la homogeneidad se mantenga en el enfoque básico dado al sistema de gas natural, en relación con el sistema eléctrico. Se trata en ambos casos de suministros que requieren conexiones físicas entre productores y consumidores. Al no tener sentido económico la duplicidad de estas interconexiones, el propietario de la red se configura como un monopolista del suministro. La separación entre la propiedad de la infraestructura de transporte y el servicio que dicha infraestructura presta y la progresividad en este proceso de separación son las dos herramientas que, al igual que la Ley 54/1997, de 27 de noviembre, del sector eléctrico, la presente Ley utiliza para transformar el panorama de la industria del gas natural.
+No obstante, la presente Ley recoge otras posibilidades técnicas de suministros a partir de combustibles gaseosos distintos del gas natural, dentro de los que, por su incidencia, cabe destacar los suministros de gases licuados del petróleo por canalización.
+Además, aunque esta Ley es explícita en la intención de liberalizar total o parcialmente los precios de las transacciones mercantiles de los gases combustibles por canalización y especialmente las referidas al gas natural cuando haya señales suficientes en el mercado que lo hagan posible, se prevé que exista un régimen económico específico para estas mercancías, de forma que queden protegidos, desde el primer momento, los intereses tanto de consumidores como de futuros productores respecto de cualquier situación de poder de mercado.
+Resulta, asimismo, necesario abordar tres aspectos genéricos de la Ley que suponen una cierta novedad en nuestro ordenamiento:
+Se suprime en el sector del gas la consideración de servicio público. Se estima que el conjunto de las actividades reguladas en esta Ley no requieren de la presencia y responsabilidad del Estado para su desarrollo. No obstante, se ha mantenido para todas ellas la consideración de actividades de interés general que ya recogía la Ley 34/1992, de 22 de diciembre, de ordenación del sector petrolero.
+A diferencia del sector eléctrico, cuyos suministros son considerados de carácter esencial, los suministros del sector de hidrocarburos tienen una especial importancia para el desenvolvimiento de la vida económica que supone que el Estado debe velar por su seguridad y continuidad y justifica las obligaciones de mantenimiento de existencias mínimas de seguridad que afectan a los productos petrolíferos y al gas.
+Es necesario también hacer referencia a la Comisión Nacional de Energía que se crea en la presente Ley. La vinculación e interdependencia de los sectores energéticos, la similar problemática de algunos de ellos, especialmente, como se ha señalado, del gas natural y de la electricidad, y la progresiva interrelación empresarial en este ámbito económico recomiendan atribuir a un único órgano la regulación y vigilancia del mercado energético, para garantizar su transparencia y coordinar adecuadamente los criterios de resolución de los asuntos que conozca.
+Por último, procede aclarar los criterios de distribución competencial seguidos con esta norma, que se declara de carácter básico en aquellos preceptos que así lo requieren. El artículo 149.1.25ª atribuye al Estado la competencia para dictar las bases del régimen minero y energético, previsión que se completa en el ámbito ejecutivo con lo previsto en el número 22 del mismo artículo que asigna al Estado la competencia sobre infraestructuras de transporte de energía cuando salgan del ámbito territorial de una Comunidad Autónoma. A lo anterior, se añade la jurisprudencia del Tribunal Constitucional en el ámbito material que nos ocupa, en especial la sentencia 24/1985, de 21 de febrero, y la más reciente sentencia 197/1996, de 28 de noviembre. En ambas sentencias se parte de una delimitación competencial basada en la consideración del mercado de hidrocarburos como único, que inevitablemente se ha de proyectar, como una unidad. Esto obliga a separarse del criterio de territorialidad y determinar para cada instalación su impacto sobre un mercado global. Esta Ley respeta las competencias de las Comunidades Autónomas en todo lo referente a la distribución de hidrocarburos y las hace partícipes en los aspectos más generales de planificación y ordenación del sector.
+
+## TITULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de la Ley.
+1. La presente Ley tiene por objeto regular el régimen jurídico de las actividades relativas a los hidrocarburos líquidos y gaseosos.
+2. Se consideran incluidas en el ámbito de aplicación de la presente Ley las siguientes actividades:
+a) La exploración, investigación y explotación de yacimientos y de almacenamientos subterráneos de hidrocarburos.
+b) El comercio exterior, refino, transporte, almacenamiento y distribución de crudo de petróleo y productos petrolíferos, incluidos los gases licuados del petróleo.
+c) La adquisición, producción, licuefacción, regasificación, transporte, almacenamiento, distribución y comercialización de combustibles gaseosos por canalización.
+3. Las actividades destinadas al suministro de hidrocarburos líquidos y gaseosos se ejercerán bajo los principios de objetividad, transparencia y libre competencia.
+
+### Artículo 2
+
+Artículo 2. Régimen de actividades.
+1. A los efectos del artículo 132.2 de la Constitución tendrán la consideración de bienes de dominio público estatal, los yacimientos de hidrocarburos y almacenamientos subterráneos existentes en el territorio del Estado y en el subsuelo del mar territorial y de los fondos marinos que estén bajo la soberanía del Reino de España conforme a la legislación vigente y a los convenios y tratados internacionales de los que sea parte.
+2. Se reconoce la libre iniciativa empresarial para el ejercicio de las actividades a que se refieren los Títulos III y IV de la presente Ley.
+Estas actividades se ejercerán garantizando el suministro de productos petrolíferos y de gas por canalización a los consumidores demandantes dentro del territorio nacional y tendrán la consideración de actividades de interés económico general. Respecto de dichas actividades, las Administraciones públicas ejercerán las facultades previstas en la presente Ley.
+
+### Artículo 3
+
+Artículo 3. Competencias de las autoridades reguladoras.
+1. Corresponde al Gobierno, en los términos establecidos en la presente Ley:
+a) Ejercer las facultades de planificación en materia de hidrocarburos.
+b) Establecer la regulación básica correspondiente a las actividades a que se refiere la presente Ley.
+c) Determinar las tarifas de último recurso en aquellos casos en los que la presente Ley así lo establezca y fijar los tipos y precios de servicios asociados al suministro que se determinen reglamentariamente.
+d) Establecer los requisitos mínimos de calidad y seguridad que han de regir el suministro de hidrocarburos.
+e) Determinar la estructura y la metodología para el cálculo de los cánones de los servicios de acceso a las instalaciones gasistas destinados a cubrir la retribución asociada al uso de los almacenamientos subterráneos básicos, así como aprobar los valores de los cánones de acceso a dichas instalaciones. Determinar la metodología, los parámetros, la base de activos y las cuantías de la retribución de los almacenamientos subterráneos.
+f) Determinar la estructura y la metodología para el cálculo de los cargos que correspondan en relación a los costes de las instalaciones de gas natural no asociadas con el uso de las mismas, así como aprobar los valores de dichos cargos.
+2. Corresponde a la Administración General del Estado, en los términos establecidos en la presente Ley:
+a) Otorgar las autorizaciones de exploración y permisos de investigación a que se refiere el Título II, cuando afecte al ámbito territorial de más de una Comunidad Autónoma. Asimismo, otorgar las concesiones de explotación a que se refiere el citado Titulo de la presente Ley.
+b) Otorgar autorizaciones de exploración, permisos de investigación y concesiones de explotación en las zonas de subsuelo marino a que se refiere el Título II de la presente Ley. Asimismo, otorgar las autorizaciones de exploración y permisos de investigación cuando su ámbito comprenda a la vez zonas terrestres y del subsuelo marino.
+c) Autorizar las instalaciones que integran la red básica de gas natural, así como aquellas otras instalaciones de transporte secundario y de distribución, a que se refiere la presente Ley, cuando salgan del ámbito territorial de una Comunidad Autónoma. Asimismo, informará, con carácter vinculante, las autorizaciones de aquellas instalaciones de la red de transporte secundario que sean competencia de las Comunidades Autónomas. Dicho informe hará referencia explícita a las condiciones a aplicar en el procedimiento de adjudicación.
+d) Autorizar a los comercializadores de gas natural cuando su ámbito de actuación vaya a superar el territorio de una Comunidad Autónoma.
+e) (Derogada)
+f) Impartir, en el ámbito de su competencia, instrucciones relativas a la ampliación, mejora y adaptación de las infraestructuras de transporte y distribución de hidrocarburos en garantía de una adecuada calidad y seguridad en el suministro de energía.
+g) Inspeccionar, en el ámbito de su competencia, el cumplimiento de las condiciones técnicas y, en su caso, económicas, que resulten exigibles.
+h) Inspeccionar el cumplimiento del mantenimiento de existencias mínimas de seguridad de los operadores al por mayor que resulten obligados.
+i) Sancionar, de acuerdo con la Ley, la comisión de las infracciones establecidas en la presente Ley en el ámbito de su competencia.
+3. Sin perjuicio de las competencias atribuidas a los diferentes órganos de defensa de la competencia, corresponderán a la Comisión Nacional de Energía, además de las funciones que tenga atribuidas en la legislación vigente, las funciones del apartado tercero de la disposición adicional undécima de la presente Ley.
+4. (Suprimido)
+5. La Administración General del Estado podrá celebrar convenios de colaboración con las Comunidades Autónomas para conseguir una gestión más eficaz de las actuaciones administrativas relacionadas con las instalaciones a que se refiere la presente Ley.
+Se modifica la letra c) y se añaden las letras e) y f) en el apartado 1 por el art. 5.1 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+ Se modifica el apartado 3 y se suprime el 4 por el art. 2.1 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se deroga la letra e) del apartado 2 por el art. 19.1 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica por el art. único.1 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 4
+
+Artículo 4. Planificación en materia de hidrocarburos.
+1. La planificación en materia de hidrocarburos tendrá carácter indicativo, salvo en lo que se refiere a las instalaciones integrantes de la red básica de gas natural, a la red de transporte secundario, a la determinación de la capacidad de regasificación total de gas natural licuado necesaria para abastecer el sistema gasista, a las instalaciones de almacenamiento de reservas estratégicas de hidrocarburos líquidos y de almacenamiento básico de gas natural, a las instalaciones de transporte secundario y a la determinación de criterios generales para el establecimiento de instalaciones de suministro de productos petrolíferos al por menor, teniendo en estos casos carácter obligatorio para la garantía de suministro de hidrocarburos.
+Para el reconocimiento de la retribución de instalaciones de gas natural sujetas a planificación obligatoria, será requisito indispensable que hayan sido incluidas en la planificación a que se refiere el párrafo anterior.
+2. La planificación en materia de hidrocarburos, será realizada por el Gobierno con la participación de las Comunidades Autónomas y será presentada al Congreso de los Diputados.
+3. Dicha planificación deberá referirse, al menos, a los siguientes aspectos:
+a) Previsión de la demanda de productos derivados del petróleo y de gas natural a lo largo del período contemplado.
+b) Estimación de los abastecimientos de productos petrolíferos necesarios para cubrir la demanda prevista bajo criterios de calidad, seguridad del suministro, diversificación energética, mejora de la eficiencia y protección del medio ambiente.
+c) Previsiones relativas a las instalaciones de transporte y almacenamiento de productos petrolíferos de acuerdo con la previsión de su demanda, con especial atención de las instalaciones de almacenamiento de reservas estratégicas.
+d) Previsiones de desarrollo de la red básica de transporte de gas natural y de la capacidad de regasificación total de gas natural licuado necesaria para abastecer el sistema gasista, con el fin de atender la demanda con criterios de optimización de la infraestructura gasista en todo el territorio nacional.
+e) Definición de las zonas de gasificación prioritaria, expansión de las redes y etapas de su ejecución, con el fin de asegurar un desarrollo homogéneo del sistema gasista en todo el territorio nacional.
+f) Previsiones relativas a instalaciones de transporte y almacenamiento de combustibles gaseosos, así como de las plantas de recepción y regasificación de gas natural licuado, con el fin de garantizar la estabilidad del sistema gasista y la regularidad y continuidad de los suministros de gases combustibles.
+g) Establecimiento de criterios generales para determinar un número mínimo de instalaciones de suministro de productos petrolíferos al por menor en función de la densidad, distribución y características de la población y, en su caso, la densidad de circulación de vehículos.
+h) Los criterios de protección medioambiental que deben informar las actividades objeto de la presente Ley.
+4. La Comisión Nacional de los Mercados y la Competencia supervisará los planes de inversión de los gestores de red de transporte, evaluando dichos planes, en particular en lo referente a su adecuación al plan de desarrollo de la red en el ámbito comunitario mencionado en el artículo 8, apartado 3, letra b) del Reglamento (CE) n.º 714/2009, pudiendo incluir recomendaciones para su modificación.
+Se añade el apartado 4 por el art. 5.2 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+ Se modifican los apartados 1 y 2 por el art. único.2 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifica el apartado 1 por el art. 10 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+ Se modifica por el art. 76.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+
+### Artículo 5
+
+Artículo 5. Coordinación con planes urbanísticos y de infraestructuras viarias.
+1. La planificación de instalaciones de transporte de gas y de almacenamiento de reservas estratégicas de hidrocarburos, así como los criterios generales para el emplazamiento de instalaciones de suministro de productos petrolíferos al por menor, deberán tenerse en cuenta en el correspondiente instrumento de ordenación del territorio, de ordenación urbanística o de planificación de infraestructuras viarias según corresponda, precisando las posibles instalaciones, calificando adecuadamente los terrenos y estableciendo las reservas de suelo necesarias para la ubicación de las nuevas instalaciones y la protección de las existentes.
+La planificación de instalaciones a que se refiere la letra g) del número 3 del artículo 4 también será tomada en consideración en la planificación de carreteras.
+2. En los casos en los que no se haya tenido en cuenta la planificación de dichas instalaciones en instrumentos de ordenación o de planificación descritos en el apartado anterior, o cuando razones justificadas de urgencia o excepcional interés para el suministro de productos petrolíferos o gas natural aconsejen el establecimiento de las mismas, y siempre que en virtud de lo establecido en otras Leyes resultase preceptivo un instrumento de ordenación del territorio o urbanístico según la clase del suelo afectado, se estará a lo dispuesto en la legislación sobre régimen del suelo y ordenación del territorio que resulte aplicable.
+Téngase en cuenta que el apartado 2 queda derogado, en lo que resulte aplicable a las instalaciones de la red básica de transporte de gas natural, según establece la disposición derogatoria única.d) de la Ley 13/2002, de 23 de mayo. Ref. BOE-A-2003-10463
+3. Las restricciones previstas en los instrumentos de ordenación o de planificación descritos en el apartado anterior que afecten a las actividades de exploración, investigación y explotación de hidrocarburos no podrán tener carácter genérico y deberán estar motivadas.
+Se añade el apartado 3 por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se deroga el apartado 2, en lo que resulte aplicable a las instalaciones de la red básica de transporte de gas natural, por la disposición derogatoria única.d) de la Ley 13/2002, de 23 de mayo. Ref. BOE-A-2003-10463
+
+### Artículo 6
+
+Artículo 6. Otras autorizaciones.
+1. Las autorizaciones, permisos y concesiones objeto de la presente Ley lo serán sin perjuicio de aquellas otras autorizaciones que los trabajos, construcciones e instalaciones necesarios para el desarrollo objeto de las mismas pudieran requerir por razones fiscales, de ordenación del territorio y urbanismo, de protección del medio ambiente, de protección de los recursos marinos vivos, exigencia de la correspondiente legislación sectorial o seguridad para personas y bienes.
+2. En lo referente a la seguridad y calidad industriales de los elementos técnicos y materiales para las instalaciones objeto de la presente Ley, se estará a lo dispuesto en la Ley 21/1992, de 16 de julio, de Industria, y demás disposiciones aplicables en la materia.
+3. Cuando los trabajos, construcciones e instalaciones objeto de la presente Ley estén ubicadas o tengan que realizarse dentro de las zonas e instalaciones de interés para la defensa nacional, se requerirá autorización del Ministerio de Defensa, de acuerdo con lo dispuesto en la Ley 8/1975, de 12 de marzo, de zonas e instalaciones de interés para la defensa nacional, y su normativa de desarrollo.
+
+## TITULO II
+
+Exploración, investigación y explotación de hidrocarburos
+
+## CAPITULO I
+
+Disposiciones generales
+
+### Artículo 7
+
+Artículo 7. Actividades objeto de regulación.
+El presente Título establece el régimen jurídico de:
+a) La exploración, investigación y explotación de los yacimientos de hidrocarburos.
+b) La exploración, investigación y explotación de los almacenamientos subterráneos para hidrocarburos.
+c) Las actividades de transporte, almacenamiento y manipulación industrial de los hidrocarburos obtenidos, cuando sean realizadas por los propios investigadores o explotadores de manera accesoria y mediante instalaciones anexas a las de producción.
+
+### Artículo 8
+
+Artículo 8. Titulares.
+1. Las personas jurídicas, públicas o privadas podrán realizar cualquiera de las actividades a que se refiere este Título, mediante la obtención de las correspondientes autorizaciones, permisos y concesiones.
+Las autorizaciones, permisos y concesiones a que se refiere el presente artículo serán otorgados de acuerdo con los principios de objetividad, transparencia y no discriminación.
+2. Los permisos de investigación y las concesiones de explotación sólo podrán ser otorgados, individualmente o en titularidad compartida, a sociedades mercantiles que acrediten su capacidad técnica y financiera para llevar a cabo las operaciones de investigación y, en su caso, de explotación de las áreas solicitadas.
+Las sociedades mercantiles a que se hace referencia en el párrafo anterior deberán incluir en su objeto social la realización de actividades de exploración, investigación o explotación de hidrocarburos o de almacenamientos subterráneos.
+3. En el caso de titularidad compartida de permisos de investigación o concesiones de explotación, el conjunto de titulares deberá designar a uno de ellos como operador, sin perjuicio de su responsabilidad solidaria frente a la Administración por todas las obligaciones que de ellos se deriven.
+El operador será el representante del conjunto de titulares ante la Administración a los efectos de presentación de documentación, gestión de garantías y responsabilidades técnicas de las labores de prospección, evaluación y explotación.
+Se modifica el apartado 2 por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 9
+
+Artículo 9. Régimen jurídico de las actividades.
+1. La autorización de exploración faculta a su titular para la realización de trabajos de exploración en áreas libres, entendiendo por tales aquellas áreas geográficas sobre las que no exista un permiso de investigación o una concesión de explotación en vigor.
+2. El permiso de investigación faculta a su titular para investigar, en exclusiva, en la superficie otorgada la existencia de hidrocarburos y de almacenamientos subterráneos para los mismos, en las condiciones establecidas en la normativa vigente y en el plan de investigación previamente aprobado. El otorgamiento de un permiso de investigación confiere al titular el derecho, en exclusiva, a obtener concesiones de explotación, en cualquier momento del plazo de vigencia del permiso, sobre la misma área, previo cumplimiento de las condiciones a que se refiere el Capítulo III del presente Título.
+3. La concesión de explotación faculta a su titular para realizar el aprovechamiento de los recursos descubiertos, bien por extracción de los hidrocarburos, bien por la utilización de las estructuras como almacenamiento subterráneo de cualquier tipo de aquéllos, así como proseguir los trabajos de investigación en el área otorgada.
+El titular de una concesión de explotación tendrá derecho a las autorizaciones pertinentes para la construcción y utilización de las instalaciones que sean necesarias para el desarrollo de su actividad, siempre que se ajusten a la legislación vigente y al plan de explotación previamente aprobado.
+4. Con carácter previo a la iniciación de los trabajos de exploración, investigación, explotación o almacenamiento de hidrocarburos se deberá constituir un seguro de responsabilidad civil a fin de responder de posibles daños a personas o bienes, como consecuencia de las actividades a desarrollar de acuerdo con lo que se establezca reglamentariamente teniendo en cuenta su naturaleza.
+5. En el desarrollo de los trabajos a ejecutar en el marco de los títulos señalados en este artículo podrán aplicarse métodos geofísicos y geoquímicos de prospección, perforación de sondeos verticales o desviados con eventual aplicación de técnicas habituales en la industria, entre ellas, la fracturación hidráulica, la estimulación de pozo así como técnicas de recuperación secundaria y aquéllos otros métodos aéreos, marinos o terrestres que resulten necesarios para su objeto.
+6. Todas las coordenadas geográficas que figuren en las correspondientes delimitaciones de permisos de investigación y de concesiones de explotación de hidrocarburos se definirán a partir del sistema geodésico de referencia oficial en España.
+Téngase en cuenta que el apartado 6 será de aplicación a partir del 1 de enero de 2015, aplicándose hasta entonces lo establecido en la disposición transitoria 3 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ "Disposición transitoria tercera. Aplicación del sistema de referencia geodésico.
+ Lo dispuesto en el artículo 67.Uno de esta Ley y en los párrafos segundo y tercero del artículo setenta y seis. Dos de la Ley 22/1973, de 21 de julio, de Minas en su nueva redacción será de aplicación a partir del 1 de enero de 2015. Hasta entonces, para el otorgamiento de los derechos mineros, el elipsoide de referencia será el internacional de Hayford (Madrid, 1924), datum europeo (Postdam, 1950) y meridiano de Greenwich como origen de longitudes. Se adoptará la proyección Universal Transversal Mercator (UTM) y la distribución de husos y zonas internacionales. Para los derechos del dominio público de hidrocarburos, se cumplirá lo dispuesto en el artículo 16.3.2. del Reglamento de la Ley sobre Investigación y Explotación de Hidrocarburos de 27 de junio de 1974 aprobado por Real Decreto 2362/1976, de 30 de julio, en lo que no se oponga a la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, en sus redacciones vigentes antes de la entrada en vigor de la presente Ley."
+Se añade el apartado 6 por el art. 67.1 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este apartado ya fue añadido por el Real Decreto-ley 8/2014, de 4 de julio, y que lo dispuesto en el mismo será de aplicación a partir del 1 de enero de 2015, aplicándose hasta entonces lo establecido en la disposición transitoria 3 de la citada Ley.
+ Se añade el apartado 6 por el art. 67.1 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Téngase en cuenta que lo dispuesto en dicho apartado será de aplicación a partir del 1 de enero de 2015, aplicándose hasta entonces lo establecido en la disposición transitoria 3 del citado Real Decreto-ley.
+ Se añade el apartado 5 por la disposición final 2 de la Ley 17/2013, de 29 de octubre. Ref. BOE-A-2013-11332.
+ Se modifican los apartados 2 y 3, y se añade el 4 por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 10
+
+Artículo 10. Inversión por no nacionales.
+A los efectos de este Título la inversión de capital por personas jurídicas domiciliadas en el extranjero será libre, debiendo ajustarse a lo dispuesto en la normativa vigente sobre inversiones extranjeras.
+
+### Artículo 11
+
+Artículo 11. Transmisibilidad de permisos de investigación y concesiones de explotación.
+La transmisión total o parcial de permisos de investigación y concesiones de explotación, así como los convenios de colaboración que los titulares de los mismos lleven a cabo para el desarrollo de sus actuaciones, estarán sometidos a la autorización de la Administración competente previa acreditación de los requisitos exigidos para ser titular de los mismos.
+
+### Artículo 12
+
+Artículo 12. Obligación de información.
+1. Los titulares de autorizaciones de exploración, permisos de investigación y concesiones de explotación estarán obligados a proporcionar al órgano competente que los hubiese otorgado la información que le solicite respecto a las características del yacimiento y a los trabajos, producciones e inversiones que realicen, así como los informes geológicos y geofísicos referentes a sus autorizaciones, permisos y concesiones, así como los demás datos que reglamentariamente se determinen.
+2. En el supuesto de autorizaciones de exploración, el carácter confidencial se mantendrá durante el plazo de siete años desde la fecha de terminación de los trabajos de campo. Asimismo, en el supuesto de permisos de investigación y concesiones de explotación, la información obtenida tendrá carácter confidencial durante el periodo de vigencia de los mismos.
+3. La documentación técnica generada por programas de prospección en autorizaciones de exploración, permisos de investigación y concesiones de explotación deberá ser remitida a la Administración General del Estado para su incorporación al Archivo Técnico de Hidrocarburos del Ministerio de Industria, Turismo y Comercio y además, en su caso, a la Comunidad Autónoma que los hubiera otorgado.
+Se modifican los apartados 2 y 3 y se suprime el 4 por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+## CAPITULO II
+
+De la exploración e investigación
+
+### Artículo 13
+
+Artículo 13. Actividades libres.
+La exploración superficial terrestre de mero carácter geológico podrá efectuarse libremente en todo el territorio nacional.
+
+### Artículo 14
+
+Artículo 14. Autorizaciones de exploración.
+1. El Ministerio de Industria y Energía, o el órgano competente de la Comunidad Autónoma cuando afecte a su ámbito territorial, podrá autorizar en áreas libres trabajos de exploración de carácter geofísico u otros que no impliquen la ejecución de perforaciones profundas definidas así reglamentariamente.
+2. Los solicitantes de autorizaciones de exploración deberán acreditar los siguientes extremos en los términos que en las correspondientes normativas de desarrollo se establezcan:
+a) Capacidad legal, técnica y financiera del solicitante.
+b) Programa de exploración, con indicación de las técnicas a emplear y medidas de protección medioambiental.
+c) Situación de los lugares donde se vaya a acometer el plan de exploración.
+3. En ningún caso se autorizarán estas exploraciones con carácter de monopolio ni crearán derechos exclusivos.
+
+### Artículo 15
+
+Artículo 15. Permisos de investigación.
+1. Los permisos de investigación se otorgarán por el Gobierno o por los órganos de Gobierno de las Comunidades Autónomas cuando afecte a su ámbito territorial y conferirán el derecho exclusivo de investigar las áreas a que vayan referidas durante un período de seis años.
+Con carácter excepcional, este período podrá ser prorrogado, a petición del interesado, por un plazo de tres años. El otorgamiento de prórroga supondrá la reducción de la superficie original del permiso en un 50 por 100 y estará condicionada al cumplimiento por el titular del permiso de las obligaciones establecidas para el primer período de vigencia.
+2. Con carácter general las superficies de los permisos de investigación tendrán un mínimo de 10.000 hectáreas y un máximo de 100.000 hectáreas.
+Reglamentariamente, se determinará en qué casos la superficie del permiso de investigación podrá quedar fuera del rango establecido en el párrafo anterior.
+3. Las superficies de los permisos se delimitarán por coordenadas geográficas, admitiéndose en cada permiso de investigación desviaciones hasta del 4 por 100 de los límites máximos establecidos.
+Se modifica el apartado 2 por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 16
+
+Artículo 16. Solicitud y registro.
+1. El permiso de investigación se solicitará al Ministerio de Industria y Energía o al órgano correspondiente de la Comunidad Autónoma cuando afecte a su ámbito territorial. En el citado Ministerio deberá haber un Registro Público Especial, sin perjuicio de los posibles registros territoriales, en el que se hará constar la identidad del solicitante, el día de presentación, el número de orden que haya correspondido a la solicitud y las demás circunstancias.
+Las Comunidades Autónomas tendrán la obligación de comunicar al Ministerio de Industria, Turismo y Comercio la información relativa a los permisos de investigación solicitados a las Comunidades Autónomas y a los otorgados por éstas de acuerdo con el procedimiento que reglamentariamente se determine.
+2. El solicitante del permiso de investigación deberá presentar al menos la siguiente documentación con el alcance que se establezca en la correspondiente normativa de desarrollo:
+a) Acreditación de la capacidad legal, técnica y económico financiera del solicitante.
+b) Superficie del permiso de investigación que se delimitará por sus coordenadas geográficas.
+c) Plan de investigación, que comprenderá el programa de trabajos, el plan de inversiones, las medidas de protección medioambientales y el plan de restauración.
+d) Acreditación de constitución de la garantía a que se refiere el artículo 21 de la presente Ley.
+Se modifica por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 17
+
+Artículo 17. Ofertas en competencia.
+1. Recibida la solicitud en el correspondiente Registro, el órgano competente comprobará si el solicitante reúne los requisitos exigidos en este Título.
+2. En el caso de que el solicitante no reúna dichos requisitos, se denegará la solicitud. Si los cumple, se ordenará la publicación en el Boletín Oficial del Estado y además, en su caso, en el Boletín Oficial de la Comunidad Autónoma competente para el otorgamiento, de un anuncio en el que se publique el nombre del solicitante y la delimitación de la superficie, a fin de que en el plazo de dos meses puedan presentarse ofertas en competencia o de que puedan formular oposición quienes se consideren perjudicados en su derecho.
+Se modifica por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 18
+
+Artículo 18. Procedimiento de adjudicación.
+1. Reglamentariamente se establecerá la documentación, forma y plazos para la presentación de ofertas en competencia, procedimiento de adjudicación del permiso e inversiones mínimas a realizar en cada período de vigencia.
+2. La resolución sobre el otorgamiento del permiso de investigación se adoptará por Real Decreto o en la forma que cada Comunidad Autónoma establezca para los correspondientes a su ámbito territorial, debiendo resolver expresamente las eventuales oposiciones que se hubieran formulado.
+3. En la resolución de otorgamiento se fijarán los trabajos mínimos que deberán realizar los adjudicatarios de los permisos, incluidas las labores de protección medioambiental, hasta el momento de su extinción o de la renuncia a los mismos.
+Se modifican el título y el apartado 1 por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 19
+
+Artículo 19. Concurrencia de solicitudes.
+En el caso de concurrencia de dos o más solicitudes sobre la misma área, los nuevos solicitantes deberán acreditar su capacidad legal, técnica y económico-financiera ante el Ministerio de Industria, Turismo y Comercio o, en su caso, ante el órgano competente de la Comunidad Autónoma.
+Reglamentariamente, se regularán los criterios de valoración en el caso de ofertas en competencia teniendo en cuenta, entre otros, la mayor cuantía de las inversiones, rapidez de ejecución del programa de inversión y la prima ofrecida por encima del valor del canon de superficie para los permisos de investigación y concesiones de explotación que se establecen en la Disposición adicional primera de la presente Ley.
+Asimismo, reglamentariamente se establecerá el procedimiento de adjudicación de ofertas en competencia en el caso de demasías.
+Se modifica por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 20
+
+Artículo 20. Concurso para áreas no concedidas.
+El Consejo de Ministros, a propuesta del Ministro de Industria, Turismo y Comercio o, en su caso, los órganos de Gobierno de las Comunidades Autónomas, en el ámbito de sus competencias y cuando lo consideren necesario para obtener la oferta que mejor convenga al interés general, podrán abrir concurso sobre determinadas áreas no concedidas ni en tramitación mediante anuncio publicado en el Boletín Oficial del Estado y además en el Boletín Oficial de la Comunidad Autónoma en el caso de los concursos convocados por una Comunidad Autónoma, adjudicándolas al concursante que, reuniendo los requisitos exigidos, ofrezca las mejores condiciones.
+Se modifica por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 21
+
+Artículo 21. Garantía.
+1. La garantía exigida en el artículo 16 se fijará en función del plan de inversiones y del plan de restauración presentados por el solicitante y responderá al cumplimiento de las obligaciones de inversión, fiscales, de la Seguridad Social y de restauración y otras obligaciones derivadas de los permisos de investigación.
+2. La garantía que deba constituirse a favor de la Administración actuante consistirá en alguna de las previstas en el artículo 3 del Reglamento de la Caja General de Depósitos, aprobado por el Real Decreto 161/1997, de 7 de febrero, o norma autonómica que, en su caso, corresponda.
+3. El valor de la garantía exigida se fijará reglamentariamente y se actualizará de forma periódica para los nuevos permisos y concesiones otorgados, considerando principalmente los valores de mercado de las operaciones en el sector.
+4. El titular o el operador de cada permiso de investigación o concesión de explotación será responsable de la presentación y mantenimiento, ante el Ministerio de Industria y Energía o el órgano correspondiente de la Comunidad Autónoma, en los permisos de su ámbito territorial, del 100 por 100 de la garantía.
+5. En caso de denegación o renuncia del permiso o de extinción del mismo, siempre que el titular haya cumplido sus obligaciones, el depósito será devuelto al interesado o la garantía dejada sin efecto en los plazos que reglamentariamente se determinen.
+6. En el caso de que se ejecute total o parcialmente la garantía por incumplimiento de las obligaciones a que se refiere el apartado 1 de este artículo, el titular vendrá obligado a reponer aquélla dentro del plazo que al efecto se señale en el Reglamento y en el supuesto de incumplimiento el permiso quedará anulado.
+Se modifica el apartado 1 por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifica el apartado 1 por el art. 108.1 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+
+### Artículo 22
+
+Artículo 22. Desarrollo de labores y trabajos.
+1. El titular de un permiso de investigación estará obligado a desarrollar el programa de trabajo y las inversiones dentro de los plazos que se especifiquen en las resoluciones de otorgamiento del órgano competente. Asimismo, estará obligado a presentar anualmente los planes de labores de acuerdo con lo que se establezca reglamentariamente.
+2. El órgano competente podrá modificar, en las condiciones que reglamentariamente se determinen, los plazos a que se refiere el apartado 1 de este artículo, el programa de trabajos y el plan de inversiones, e incluso transferir obligaciones del plan de inversiones de unos permisos a otros, previa renuncia de los primeros.
+3. El titular de un permiso de investigación que descubriera hidrocarburos estará obligado a informar sobre ello a la Administración que hubiese concedido el permiso de investigación y, en todo caso, al Ministerio de Industria y Energía, y podrá utilizarlos en la medida que exijan las operaciones propias de la investigación y en cualquiera de las zonas que le hayan sido o le sean adjudicadas.
+Se modifican los apartados 1 y 2 por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 23
+
+Artículo 23. Concurrencia de derechos mineros.
+1. Podrán otorgarse permisos de investigación de hidrocarburos aun en los casos en que sobre la totalidad o parte de la misma área existan otros derechos mineros otorgados de acuerdo con la normativa que resulte aplicable.
+2. El otorgamiento de permisos de investigación con arreglo a la presente Ley no impedirá la atribución sobre las mismas áreas de autorizaciones, permisos o concesiones relativos a otros yacimientos minerales y demás recursos geológicos.
+3. Reglamentariamente se determinará el modo de resolver las incidencias que puedan presentarse por coincidir en una área permisos de investigación o concesiones de explotación de hidrocarburos y de otras sustancias minerales y demás recursos geológicos. En el caso de que las labores sean incompatibles, definitiva o temporalmente, el Ministerio de Industria y Energía o el órgano competente de la Comunidad Autónoma, si ambas actividades han de desarrollarse dentro de su ámbito territorial, resolverá sobre la sustancia o recurso cuya explotación resulte de mayor interés. El titular a quien se le conceda la prioridad habrá de abonar a aquél a quien se le deniegue la indemnización que proceda por los perjuicios que se le ocasionen. Si la incompatibilidad fuere temporal, las labores suspendidas podrán reanudarse una vez desaparecida aquélla.
+
+## CAPITULO III
+
+De la explotación
+
+### Artículo 24
+
+Artículo 24. Derechos de los titulares de las concesiones de explotación de yacimientos de hidrocarburos.
+1. La concesión de explotación de yacimientos de hidrocarburos confiere a sus titulares el derecho a realizar en exclusiva la explotación del yacimiento de hidrocarburos en las áreas otorgadas por un período de treinta años, prorrogable por dos períodos sucesivos de diez.
+2. Los titulares de una concesión de explotación de yacimientos de hidrocarburos tendrán derecho a continuar las actividades de investigación en dichas áreas y a la obtención de autorizaciones para las actividades previstas en este Título.
+3. Los titulares de una concesión de explotación de yacimientos de hidrocarburos podrán vender libremente los hidrocarburos obtenidos.
+Se modifica por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 24 bis
+
+Artículo 24 bis. Derechos de los titulares de las concesiones de explotación de almacenamiento subterráneo de hidrocarburos.
+1. Los titulares de una concesión de almacenamiento subterráneo de hidrocarburos tendrán derecho a almacenar hidrocarburos de producción propia o propiedad de terceros en el subsuelo del área otorgada y se otorgará por un período de treinta años, prorrogable por dos períodos sucesivos de diez años. Asimismo, podrán realizar actividades de investigación de dichos almacenamientos.
+2. Si por razones técnicas se requiere la extracción de hidrocarburos existentes en la estructura subterránea objeto de la concesión de almacenamiento subterráneo, los titulares de la misma podrán proceder a la extracción de los hidrocarburos de acuerdo con las condiciones establecidas en el otorgamiento de la concesión.
+Se añade por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 25
+
+Artículo 25. Solicitud de una concesión de explotación.
+1. Los solicitantes de concesiones de explotación de yacimientos de hidrocarburos o de almacenamientos subterráneos, en los términos que reglamentariamente se establezcan, deberán presentar al Ministerio de Industria, Turismo y Comercio la siguiente documentación:
+a) Memoria técnica detallando la situación, extensión y datos técnicos de la concesión que justifiquen su solicitud.
+b) Plan general de explotación, programa de inversiones, estudio de impacto ambiental y, en su caso, estimación de reservas recuperables y perfil de producción.
+c) Plan de desmantelamiento y abandono de las instalaciones una vez finalizada la explotación del yacimiento o del almacenamiento subterráneo, así como recuperación del medio.
+d) Resguardo acreditativo de la garantía constituida por el solicitante en la Caja General de Depósitos.
+2. El Gobierno autorizará, previo informe de la Comunidad Autónoma afectada, el otorgamiento de la concesión de explotación de yacimientos de hidrocarburos o de almacenamientos subterráneos mediante Real Decreto. El Real Decreto fijará las bases del plan de explotación propuesto, el seguro de responsabilidad civil que habrá de ser suscrito obligatoriamente por el titular de la concesión y la provisión económica de desmantelamiento. Cuando razones de interés general lo aconsejen, el plan de explotación podrá ser modificado por Real Decreto, previo informe de la Comunidad Autónoma afectada.
+No obstante lo establecido en el párrafo anterior, cuando la concesión de explotación se refiera a almacenamientos subterráneos de gas natural que por sus características no tengan la condición de almacenamientos básicos, la autorización del Gobierno deberá realizarse previo informe favorable de la Comunidad Autónoma afectada.
+3. Tres meses antes del comienzo de cada año natural, el concesionario presentará para su aprobación al Ministerio de Industria, Turismo y Comercio un plan anual de labores que se ajustará al plan de explotación en vigor.
+4. Si venciese el plazo de un permiso de investigación antes de haberse otorgado la concesión de explotación de yacimientos de hidrocarburos o de almacenamiento subterráneo solicitada, el permiso de investigación se entenderá prorrogado hasta la resolución del expediente de concesión.
+Se modifica por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 26
+
+Artículo 26. Superficie afecta y no afecta a una concesión de explotación.
+1. Las superficies que sean objeto de concesión de explotación podrán tener la forma que solicite el peticionario, pero habrán de quedar definidas por la agrupación de cuadriláteros de un minuto de lado, en coincidencia con minutos enteros de latitud y longitud, adosados al menos por uno de sus lados.
+2. La superficie de una concesión de explotación se adaptará a las dimensiones mínimas que sean necesarias para su protección.
+3. La parte de la superficie afecta a un permiso de investigación que no resulte cubierta por las concesiones de explotación otorgadas podrá seguir dedicándose a actividades de investigación hasta el límite del periodo de vigencia del permiso.
+Se modifica el apartado 3 por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 27
+
+Artículo 27. Condiciones y garantía.
+1. Los concesionarios en sus labores de explotación deberán cumplir las condiciones y requisitos técnicos que se determinen reglamentariamente.
+2. La garantía a la que se refiere el artículo 25 para una concesión de explotación se fijará en función del programa de inversiones presentado por el solicitante y responderá al cumplimiento de las obligaciones fiscales, de la Seguridad Social, de desmantelamiento y de recuperación, y otras obligaciones derivadas de las concesiones de explotación.
+Se modifica por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifica el apartado 2 por el art. 108.2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+
+### Artículo 28
+
+Artículo 28. Prórroga de las concesiones de explotación.
+1. Las prórrogas de concesiones de explotación de yacimientos y de almacenamientos subterráneos, de acuerdo con lo dispuesto en los artículos 24 y 24 bis de esta Ley, se solicitarán al Ministerio de Industria, Turismo y Comercio.
+2. Para la solicitud de prórroga por parte del titular de una concesión será condición necesaria que se hayan cumplido las obligaciones comprometidas en el período de vigencia anterior y mantenga su actividad de acuerdo con su plan de explotación. Reglamentariamente, se regulará el procedimiento de solicitud y otorgamiento de las prórrogas de una concesión de explotación de yacimientos o de almacenamiento subterráneo de hidrocarburos.
+Se modifica por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 29
+
+Artículo 29. Reversión de instalaciones.
+1. La anulación o extinción de una concesión de explotación dará lugar a su inmediata reversión al Estado que podrá exigir al titular el desmantelamiento, de las instalaciones de explotación.
+En el caso de que no se solicite el desmantelamiento revertirán gratuitamente al Estado los pozos, equipos permanentes de explotación y de conservación de aquellos y cualesquiera obras estables de trabajo incorporadas de modo permanente a las labores de explotación.
+2. La Administración podrá autorizar al titular de una concesión de explotación y a solicitud de éste, la utilización de las instalaciones de cualquier clase y obras estables situadas dentro de la concesión de explotación e incorporadas de modo permanente a las labores de explotación y que, conforme a lo dispuesto en este artículo, reviertan al Estado, si al tiempo de la reversión estuvieran utilizándose para el servicio de concesiones de explotación o permisos de investigación del mismo titular, en las condiciones que se establezcan reglamentariamente.
+Se modifica por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 29 bis
+
+Artículo 29 bis. Adaptación de concesiones de explotación.
+Reglamentariamente se establecerá el procedimiento de adaptación de una concesión de explotación de recursos naturales o de una concesión de explotación de yacimientos de hidrocarburos a una concesión de explotación de almacenamiento subterráneo.
+Se añade por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+## CAPITULO IV
+
+De la autoridad y jurisdicción
+
+### Artículo 30
+
+Artículo 30. Jurisdicción.
+Los titulares de autorizaciones de exploración, permisos de investigación o concesiones de explotación se someterán en cuantas cuestiones se susciten en relación con los mismos, a las leyes y tribunales españoles.
+
+### Artículo 31
+
+Artículo 31. Inspección administrativa.
+1. El Ministerio de Industria y Energía, o el órgano competente de la Comunidad Autónoma en los permisos de investigación que otorgue cuando afecte a su ámbito territorial, podrá, en cualquier momento, inspeccionar todos los trabajos y actividades regulados en este Título, para comprobar el cumplimiento de las obligaciones que resulten exigibles a los titulares.
+2. El Ministerio de Industria y Energía, o el órgano competente de la Comunidad Autónoma en las autorizaciones y permisos de investigación que otorgue cuando afecte a su ámbito territorial, podrá solicitar la presentación por los titulares de permisos y concesiones de las cuentas anuales, pudiendo exigirse que las cuentas estén debidamente auditadas, así como la práctica de auditorías complementarias sobre aquellos extremos que se consideren necesarios de la actividad de explotación de hidrocarburos en territorio nacional de la empresa de que se trate.
+
+### Artículo 32
+
+Artículo 32. Actividades en el subsuelo marino.
+Las actividades objeto de este título que se realicen en el subsuelo del mar territorial y en los demás fondos marinos que estén bajo la soberanía nacional se regirán por esta ley, por la legislación vigente de costas, mar territorial, zona económica exclusiva y plataforma continental, y por los acuerdos y convenciones internacionales de los que el Reino de España sea parte.
+Cuando se produzcan actividades en esos ámbitos, incidan o no en zonas terrestres, se requerirá informe previo de la comunidad autónoma afectada en el procedimiento de concesión de explotación de yacimientos y de almacenamientos subterráneos de hidrocarburos.
+Se modifica por la disposición adicional 29 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+## CAPITULO V
+
+De la anulabilidad, caducidad y extinción
+
+### Artículo 33
+
+Artículo 33. Anulabilidad de autorizaciones, permisos y concesiones.
+1. Las autorizaciones, permisos y concesiones a que se refiere el presente Título serán nulos cuando se otorguen contraviniendo lo dispuesto en la presente Ley.
+2. Los permisos y concesiones que se superpongan a otros ya otorgados serán nulos. La nulidad sólo afectará a la extensión superpuesta cuando quede en el resto del permiso o concesión área suficiente para que se cumplan las condiciones exigidas en este Título.
+
+### Artículo 34
+
+Artículo 34. Extinción.
+1. Las autorizaciones, permisos y concesiones regulados en el presente Título se extinguirán:
+a) Por incumplimiento de las condiciones de su otorgamiento.
+b) Por caducidad al vencimiento de sus plazos.
+c) Por renuncia total o parcialmente del titular, una vez cumplidas las condiciones en que fueron otorgados.
+d) Por la disolución o la liquidación de la empresa titular.
+e) Por cualesquiera otras causas establecidas por las leyes.
+2. Al extinguirse un permiso o concesión se devolverá a su titular la garantía o la parte de ésta que corresponda en el caso de extinción parcial, salvo que proceda su ejecución de acuerdo con lo establecido en el artículo 21 de la presente Ley.
+3. Cuando una concesión de explotación se extinga por vencimiento de su plazo y sea objeto de concurso para su ulterior adjudicación, tendrá preferencia para adquirirla, en igualdad de condiciones, el concesionario cesante.
+
+### Artículo 35
+
+Artículo 35. Paralización del expediente.
+1. Cuando por causa imputable al solicitante se paralice la tramitación de un expediente, la autoridad competente advertirá a éste que, transcurridos tres meses, se producirá la caducidad del mismo, y en el caso de que se trate de un permiso de investigación o concesión de explotación, como de sus prórrogas, el titular perderá a favor de la Administración competente la fianza o garantía depositada.
+2. Cuando la paralización del expediente o suspensión de trabajos se produzca por causas no imputables al titular, el permiso o concesión se prolongará por el plazo de duración de aquélla. Durante dicho periodo de paralización o suspensión no será exigible canon ni tasa algunos ni el mantenimiento del plan de inversiones previsto en las condiciones que reglamentariamente se establezcan.
+Se modifica el apartado 2 por el art. único.3 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 35 bis
+
+Artículo 35 bis. Régimen del silencio administrativo y de las notificaciones.
+1. En los procedimientos iniciados a solicitud del interesado que versen sobre materias reguladas en el presente título, el vencimiento del plazo máximo sin que les haya sido notificada la resolución expresa que les ponga término legitimará al interesado o interesados que hubieran deducido la solicitud o presentado ofertas para entenderlas desestimadas por silencio administrativo, salvo los planes a que se refieren los artículos 22.1 y 25.3 de esta Ley.
+2. En dichos procedimientos, solo será necesaria la notificación personal de los actos y resoluciones administrativas que puedan adoptarse a los propios solicitantes, a quienes hayan presentado ofertas en competencia y, en su caso, al operador o titulares de los permisos, autorizaciones o concesiones. Dichos actos y resoluciones serán, además, objeto de publicación con las formalidades previstas en el artículo 60 de la Ley 30/1992, de 26 de noviembre, cuya publicación sustituirá a la notificación en relación con cualesquiera otros interesados.
+Se añade por el art. 1.1 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a1.
+ Téngase en cuenta para su aplicación la disposición transitoria 6 de la citada ley.
+
+### Artículo 36
+
+Artículo 36. Normativa general.
+Lo dispuesto en el presente capítulo se entiende sin perjuicio de lo establecido en la legislación rectora del procedimiento administrativo común y en las disposiciones administrativas que la desarrollan. No obstante, las previsiones que sobre régimen del silencio administrativo y de notificaciones se contienen en el artículo 35 bis tendrán, en todo caso, aplicación preferente, siendo en dichos extremos la citada legislación únicamente de aplicación supletoria.
+Se modifica por el art. 1.2 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a1.
+
+## TITULO III
+
+Ordenación del mercado de productos derivados del petróleo
+
+## CAPITULO I
+
+Disposiciones generales
+
+### Artículo 37
+
+Artículo 37. Régimen de las actividades.
+1. Las actividades de refino de crudo de petróleo, el transporte, almacenamiento, distribución y venta de productos derivados del petróleo, incluidos los gases licuados del petróleo, podrán ser realizadas libremente en los términos previstos en la presente Ley, sin perjuicio de las obligaciones que puedan derivarse de otras disposiciones, de la correspondiente legislación sectorial y, en especial, de las fiscales, de las relativas a la ordenación del territorio y al medio ambiente y de protección de los consumidores y usuarios.
+2. Las actividades de importación, exportación e intercambio intracomunitario de crudo de petróleo y productos petrolíferos se realizará sin más requisitos que los que se deriven de la aplicación de la normativa comunitaria, sin perjuicio de la normativa fiscal aplicable.
+
+### Artículo 38
+
+Artículo 38. Precios.
+Los precios de los productos derivados del petróleo serán libres.
+
+## CAPÍTULO II
+
+Hidrocarburos líquidos
+
+### Artículo 39
+
+Artículo 39. Refino.
+1. La construcción, puesta en explotación o cierre de las instalaciones de refino, estará sometida al régimen de autorización administrativa previa en los términos establecidos en la presente Ley y en sus disposiciones de desarrollo.
+La autorización administrativa de cierre de una instalación de refino podrá imponer a su titular la obligación de proceder a su desmantelamiento.
+La transmisión o modificación sustancial de estas instalaciones deberá ser comunicada a la autoridad concedente de la autorización original.
+2. Para la obtención de tales autorizaciones, los solicitantes deberán acreditar los siguientes extremos:
+a) Las condiciones técnicas y de seguridad de las instalaciones propuestas.
+b) El adecuado cumplimiento de las condiciones de protección del medio ambiente.
+c) La adecuación del emplazamiento de la instalación al régimen de ordenación del territorio.
+3. Las autorizaciones a que se refiere el presente artículo tendrán carácter reglado y serán otorgadas por el Ministerio de Industria y Energía, de acuerdo con los principios de objetividad, transparencia y no discriminación.
+
+### Artículo 40
+
+Artículo 40. Transporte y almacenamiento.
+1. La construcción y explotación de las instalaciones de transporte o almacenamiento de productos petrolíferos, cuando estas últimas tengan por objeto prestar servicio a operadores a los que se refiere el artículo 42 de la presente Ley, estará sometida al régimen de autorización administrativa previa en los términos establecidos en esta Ley y en sus disposiciones de desarrollo.
+La transmisión o cierre de estas instalaciones deberá ser comunicada a la autoridad concedente de la autorización original.
+2. Los solicitantes de autorización para instalaciones de transporte o parques de almacenamiento de productos petrolíferos deberán acreditar los siguientes extremos:
+a) Las condiciones técnicas y de seguridad de las instalaciones propuestas.
+b) El adecuado cumplimiento de las condiciones de protección del medio ambiente.
+c) La adecuación del emplazamiento de la instalación al régimen de ordenación de territorio.
+3. Las autorizaciones a que se refiere el presente artículo tendrán carácter reglado y serán otorgadas por la Administración competente, de acuerdo con los principios de objetividad, transparencia y no discriminación, tomando en consideración los criterios de planificación que se deriven del artículo 4 de la presente Ley.
+
+### Artículo 41
+
+Artículo 41. Acceso de terceros a las instalaciones fijas de transporte y almacenamiento.
+1. Los titulares de instalaciones fijas de almacenamiento y transporte de productos petrolíferos, deberán permitir el acceso de terceros mediante un procedimiento negociado, en condiciones técnicas y económicas no discriminatorias, transparentes y objetivas, aplicando precios que deberán hacer públicos. El Gobierno podrá establecer peajes y condiciones de acceso para territorios insulares y para aquellas zonas del territorio nacional donde no existan infraestructuras alternativas de transporte y almacenamiento o éstas se consideren insuficientes.
+Los titulares de instalaciones fijas de almacenamiento y transporte de productos petrolíferos cumplirán las siguientes obligaciones:
+a) Comunicar a la Comisión Nacional de los Mercados y la Competencia las peticiones de acceso a sus instalaciones, los contratos que suscriban, la relación de precios por la utilización de las referidas instalaciones, así como las modificaciones que se produzcan en los mismos en un plazo máximo de un mes. La Comisión Nacional de los Mercados y la Competencia publicará esta información.
+b) Presentar a la Comisión Nacional de los Mercados y la Competencia la metodología de tarifas aplicada incluyendo los distintos tipos de descuentos aplicables, el sistema de acceso de terceros a sus instalaciones y el Plan anual de inversiones, que será publicada en la forma que determine por circular la Comisión Nacional de los Mercados y la Competencia.
+La Comisión Nacional de los Mercados y la Competencia podrá hacer recomendaciones a dicha metodología de tarifas. La Comisión Nacional de los Mercados y la Competencia emitirá un informe anual al Ministerio para la Transición Ecológica y el Reto Demográfico con sus observaciones y recomendaciones sobre estas metodologías, así como el grado de cumplimiento de sus recomendaciones de ejercicios anteriores.
+c) Publicar de forma actualizada la capacidad disponible de sus instalaciones, la capacidad contratada y su duración en el tiempo, la capacidad realmente utilizada, las congestiones físicas y contractuales registradas así como las ampliaciones, mejoras y cambios previstos y su calendario de entrada en funcionamiento. La Comisión Nacional de los Mercados y la Competencia supervisará la frecuencia con la que se producen congestiones contractuales que hagan que los usuarios no puedan acceder a estas instalaciones a pesar de la disponibilidad física de capacidad.
+d) En su gestión, evitarán cualquier conflicto de interés entre accionistas y usuarios de los servicios y observarán especialmente la obligación de igualdad de trato a todos los usuarios de los servicios de la actividad, con independencia de su carácter o no de accionistas de la sociedad.
+La Comisión Nacional de los Mercados y la Competencia establecerá por circular el procedimiento de comunicación de los conflictos que puedan suscitarse en la negociación de los contratos y en las solicitudes de acceso a las instalaciones de transporte o almacenamiento. Asimismo, resolverá, en el plazo máximo de tres meses, los conflictos que le sean planteados respecto a las solicitudes y a los contratos relativos al acceso de terceros a estas instalaciones de transporte o almacenamiento de productos petrolíferos que deben permitir el acceso de terceros.
+2. Cuando el solicitante de acceso tenga obligación de mantenimiento de existencias mínimas de seguridad, de acuerdo con el artículo 50 de la presente Ley, podrá solicitar la prestación del servicio de almacenamiento para dichas existencias, que le habrá de ser concedido en función de la utilización operativa contratada. Si no existe capacidad disponible para todos los demandantes del servicio, se asignará la existente con un criterio de proporcionalidad.
+3. Tendrán derecho de acceso a las instalaciones fijas de transporte y almacenamiento los operadores al por mayor, los distribuidores al por menor y los consumidores de productos petrolíferos, así como otras empresas de productos petrolíferos que reglamentariamente se determinen.
+4. Los titulares de las instalaciones podrán denegar el acceso de terceros en los siguientes supuestos:
+a) Que no exista capacidad disponible durante el período contractual propuesto por el potencial usuario.
+b) Que el solicitante no se encuentre al corriente en el pago de las obligaciones derivadas de utilizaciones anteriores.
+5. Asimismo, podrá denegarse el acceso a la red cuando la empresa solicitante o aquélla a la que adquiera el producto, directamente o por medio de acuerdos con otras empresas suministradoras, o aquéllas a las que cualquiera de ellas esté vinculada, radiquen en un país en el que no estén reconocidos derechos análogos y considere que pueda resultar una alteración del principio de reciprocidad para las empresas a las que se requiere el acceso. Todo ello, sin perjuicio de los criterios a seguir respecto de empresas de Estados miembros de la Unión Europea conforme a la legislación uniforme en la materia que se establezca.
+Se modifican los apartados 1 y 3 por el art. 47.1 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a4-9
+ Se modifica la letra b) del apartado 1 por el art. 2.1 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a2.
+ Se modifica el apartado 1 por el art. 39.1 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
+ Se modifica el apartado 1 por el art. 39.1 del Real Decreto-ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.
+ Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 51, de 28 de febrero de 2013. Ref. BOE-A-2013-2206.
+ Se modifica el párrafo segundo del apartado 1 por el art. único.4 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se añade un párrafo segundo al apartado 1 y se reordena el anterior párrafo segundo como párrafo tercero por el art. 2.1 y 2 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Artículo 42
+
+Artículo 42. Operadores al por mayor.
+1. Serán operadores al por mayor aquellos sujetos que comercialicen productos petrolíferos para su posterior distribución al por menor. En todo caso tendrán tal consideración los titulares de refinerías y plantas de producción de biocombustibles.
+2. Podrán actuar como operadores al por mayor exclusivamente aquellas sociedades mercantiles que cumplan las condiciones para la realización de la actividad que se establezcan reglamentariamente, entre las que se incluirá la suficiente capacidad técnica del solicitante y encontrarse al corriente en el cumplimiento de sus obligaciones tributarias.
+En todo caso, dichas sociedades deberán comunicar al Ministerio de Industria, Turismo y Comercio, que lo comunicará a su vez a la Comisión Nacional de Energía y a la Corporación de Reservas Estratégicas de Productos Petrolíferos, el inicio o cese de la actividad, acompañando la comunicación de una declaración responsable sobre el cumplimiento de las condiciones a que se refiere el párrafo anterior.
+Los operadores al por mayor deberán acreditar el cumplimiento de estas condiciones en caso de que les sea requerido por el Ministerio de Industria, Turismo y Comercio o por la Comisión Nacional de Energía.
+Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria deberá ser comunicado por el interesado, en el plazo máximo de un mes a partir del momento en que se produzca.
+La Comisión Nacional de Energía publicará en su página web un listado de los operadores al por mayor de productos petrolíferos que incluirá aquellas sociedades que hayan comunicado al Ministerio el ejercicio de esta actividad.
+3. En caso de que un operador al por mayor de productos petrolíferos incumpla alguno de los requisitos exigidos para el ejercicio de su actividad, o alguna de sus obligaciones sectoriales clasificadas como infracción muy grave de acuerdo con lo dispuesto en el artículo 109 de esta ley, la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico podrá, previa la tramitación de un procedimiento que garantice la audiencia del interesado, declarar la extinción de la habilitación para actuar como operador al por mayor de productos petrolíferos.
+En el marco del citado procedimiento y en atención a las circunstancias que en cada caso concurran, se podrán adoptar las medidas provisionales que sean necesarias para asegurar la eficacia de la resolución, incluyendo la inhabilitación temporal de la capacidad para actuar como operador al por mayor de productos petrolíferos.
+Se modifica el apartado 3 por el art. 47.2 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a4-9
+ Se modifican los apartados 1 y 2 y se añade el 3 por el art. 2.2 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a2.
+ Se modifica por el art. 19.2 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 43
+
+Artículo 43. Distribución al por menor de productos petrolíferos.
+1. Serán distribuidores al por menor de productos petrolíferos aquellas personas físicas o jurídicas que realicen, al menos, una de las siguientes actividades:
+a) El suministro de combustibles y carburantes a vehículos en instalaciones habilitadas al efecto.
+b) El suministro a instalaciones fijas para consumo en la propia instalación.
+c) El suministro de queroseno con destino a la aviación.
+d) El suministro de combustibles a embarcaciones.
+e) Cualquier otro suministro que tenga por finalidad el consumo de estos productos.
+En ningún caso, se permite el suministro entre distribuidores al por menor, ni el suministro de distribuidores al por menor a operadores al por mayor.
+Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 47.3 del Real Decreto-ley 8/2023, de 27 de diciembre, Ref. BOE-A-2023-26452#a4-9, entra en vigor el 28 de marzo de 2024, según determina la disposición final 13 del citado Real Decreto-ley.
+ Redacción anterior:
+ "1. La actividad de distribución al por menor de productos petrolíferos comprenderá al menos una de las actividades siguientes:
+ a) El suministro de combustibles y carburantes a vehículos en instalaciones habilitadas al efecto.
+ b) El suministro a instalaciones fijas para consumo en la propia instalación.
+ c) El suministro de queroseno con destino a la aviación.
+ d) El suministro de combustibles a embarcaciones.
+ e) Cualquier otro suministro que tenga por finalidad el consumo de estos productos.
+ Siempre y cuando realicen alguna de las actividades anteriores los distribuidores podrán suministrar a otros distribuidores al por menor de productos petrolíferos. En este caso deberán inscribirse previamente en el registro de los impuestos especiales, con arreglo a lo dispuesto en el apartado 7 del artículo 18 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y a su normativa de desarrollo."
+2. La actividad de distribución al por menor de carburante y combustibles petrolíferos podrá ser ejercida libremente por cualquier persona física o jurídica.
+Las instalaciones utilizadas para el ejercicio de esta actividad deberán cumplir con los actos de control preceptivos para cada tipo de instalación, de acuerdo con las instrucciones técnicas complementarias que establezcan las condiciones técnicas y de seguridad de dichas instalaciones, así como cumplir con el resto de la normativa vigente que en cada caso sea de aplicación, en especial la referente a metrología y metrotecnia y a protección de los consumidores y usuarios.
+Las administraciones autonómicas, en el ejercicio de sus competencias, deberán garantizar que los actos de control que afecten a la implantación de estas instalaciones de suministro de carburantes al por menor, se integren en un procedimiento único y ante una única instancia. A tal efecto, regularán el procedimiento y determinarán el órgano autonómico o local competente ante la que se realizará y que, en su caso, resolverá el mismo. Este procedimiento coordinará todos los trámites administrativos necesarios para la implantación de dichas instalaciones con base en un proyecto único.
+El plazo máximo para resolver y notificar la resolución será de ocho meses. El transcurso de dicho plazo sin haberse notificado resolución expresa tendrá efectos estimatorios, en los términos señalados en el artículo 43 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Los instrumentos de planificación territorial o urbanística no podrán regular aspectos técnicos de las instalaciones o exigir una tecnología concreta.
+Los usos del suelo para actividades comerciales individuales o agrupadas, centros comerciales, parques comerciales, establecimientos de inspección técnica de vehículos y zonas o polígonos industriales, serán compatibles con la actividad económica de las instalaciones de suministro de combustible al por menor. Estas instalaciones serán asimismo compatibles con los usos que sean aptos para la instalación de actividades con niveles similares de peligrosidad, residuos o impacto ambiental, sin precisar expresamente la cualificación de apto para estación de servicio.
+Lo establecido en los párrafos anteriores se entiende sin perjuicio de lo establecido en la Ley 25/1988, de 29 de julio, de Carreteras, y sus normas de desarrollo.
+3. Los acuerdos de suministro en exclusiva que se celebren entre los operadores al por mayor y los propietarios de instalaciones para el suministro de vehículos, recogerán en su clausulado, si dichos propietarios lo solicitaran, la venta en firme de los mencionados productos.
+Las empresas que distribuyan o suministren al por menor carburantes y combustibles petrolíferos deberán exigir, a los titulares de las instalaciones receptoras fijas para consumo en la propia instalación, la documentación y acreditación del cumplimiento de sus obligaciones.
+Cuando en virtud de los vínculos contractuales de suministro en exclusiva, las instalaciones para el suministro de combustibles o carburantes a vehículos se suministren de un solo operador que tenga implantada su imagen de marca en la instalación, éste estará facultado, sin perjuicio de las demás facultades recogidas en el contrato, para establecer los sistemas de inspección o seguimiento adecuados para el control del origen, volumen y calidad de los combustibles entregados a los consumidores y para comprobar que se corresponden con los suministrados a la instalación.
+Los operadores deberán dar cuenta a las autoridades competentes, si comprobaran desviaciones que pudieran constituir indicio de fraude al consumidor y de la negativa que, en su caso, se produzca a las actuaciones de comprobación.
+En estos supuestos, la Administración competente deberá adoptar las medidas necesarias para asegurar la protección de los intereses de los consumidores y usuarios.
+4. Las actuaciones de inspección y seguimiento de los operadores al por mayor, a que se refiere el apartado anterior, deberán realizarse con un procedimiento que asegure la posibilidad de los propietarios o gestores de la instalación de contrastar por ambas partes las pruebas realizadas.
+5. Los titulares de las instalaciones de distribución al por menor de productos petrolíferos que no pertenezcan a la red de distribución de un operador mayorista podrán informar del origen del combustible que comercializan publicitando el operador mayorista al que adquieren el combustible.
+Se modifica el apartado 1 por el art. 47.3 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a4-9
+ Esta modificación entra en vigor el 28 de marzo de 2024, según establece la disposición final 13 del citado Real Decreto-ley.
+ Se modifica el apartado 1 y se añade el 5 por el art. 2.3 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a2.
+ Se modifican los apartados 2 y 3 por el art. 39.2 y 5 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
+ Se modifica el apartado 2 por el art. 39.2 del Real Decreto-ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.
+ Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 51, de 28 de febrero de 2013. Ref. BOE-A-2013-2206.
+
+### Artículo 43 bis
+
+Artículo 43 bis. Limitaciones a los vínculos contractuales de suministro en exclusiva.
+1. Los vínculos contractuales de suministro en exclusiva deberán cumplir las siguientes condiciones:
+a) La duración máxima del contrato será de un año. Este contrato se prorrogará por un año, automáticamente, por un máximo de dos prórrogas, salvo que el distribuidor al por menor de productos petrolíferos manifieste, con un mes de antelación como mínimo a la fecha de finalización del contrato o de cualquiera de sus prórrogas, su intención de resolverlo.
+b) No podrán contener cláusulas exclusivas que, de forma individual o conjunta, fijen, recomienden o incidan, directa o indirectamente, en el precio de venta al público del combustible.
+c) No podrán contener cláusulas de exclusividad en lo relativo a la prestación de servicios de recarga eléctrica a vehículos.
+2. Se considerarán nulas y se tendrán por no puestas aquellas cláusulas contractuales en las que se establezca una duración del contrato diferente a la recogida en el apartado 1, o que determinen el precio de venta del combustible en referencia a un determinado precio fijo, máximo o recomendado, o cualesquiera otras que contribuyan a una fijación indirecta del precio de venta.
+3. Los operadores al por mayor comunicarán a la Dirección General de Política Energética y Minas la suscripción de este tipo de contratos, incluyendo la fecha de su finalización, la cual será publicada en la web oficial del Ministerio de Industria, Energía y Turismo. La Dirección General de Política Energética y Minas podrá solicitar en todo momento una copia de dichos contratos.
+4. Lo dispuesto en el presente artículo, a excepción de lo establecido en la letra c) del apartado 1, no será de aplicación cuando los bienes o servicios contractuales sean vendidos por el comprador desde locales y terrenos que sean plena propiedad del proveedor.
+Se añade el apartado 1.c) y se modifica el apartado 4 por el art. 6 del Real Decreto-ley 27/2021, de 23 de noviembre. Ref. BOE-A-2021-19305#as-2
+ Se modifica el apartado 3 por el art. 2.4 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a2.
+ Se modifica por el art. 39.3 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
+ Se añade por el art. 39.3 del Real Decreto-ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.
+
+### Artículo 44
+
+Artículo 44. Registro de instalaciones de distribución al por menor.
+1. Las Comunidades Autónomas constituirán un registro de instalaciones de distribución al por menor en el cual deberán estar todas aquellas instalaciones que desarrollen esta actividad en su ámbito territorial, previa acreditación del cumplimiento por dichas instalaciones de los requisitos legales y reglamentarios que resulten exigibles, así como los proyectos de apertura de nuevas estaciones de servicio y su estado de tramitación.
+2. Se crea en el Ministerio para la Transición Ecológica y el Reto Demográfico un registro de instalaciones de distribución al por menor que permita el ejercicio de las competencias que correspondan a la Administración General del Estado. A partir de este registro y la información de precios de venta de los carburantes, el Ministerio para la Transición Ecológica y el Reto Demográfico creará una base de datos a la que podrán acceder las comunidades autónomas.
+La Comisión Nacional de los Mercados y la Competencia incluirá en su Boletín Informativo sobre la Distribución de Carburantes en Estaciones de Servicio, un apartado que evalúe el grado de cumplimiento de la obligación de remisión de precios, así como un listado de las medidas sancionadoras adoptadas, publicándose en los 20 días posteriores al fin del mes correspondiente.
+3. Las Comunidades Autónomas incorporarán al registro del Ministerio de Industria, Energía y Turismo, en el plazo máximo de un mes desde la fecha de inscripción, alta, baja, modificación o proyecto de apertura, los datos referentes a dichos extremos con sus correspondientes fechas, la descripción detallada de la instalación a la que se refieran, incluyendo su capacidad de almacenamiento, los datos relativos de su ubicación y su titular, en relación a:
+a) Instalaciones habilitadas para el suministro de combustibles y carburantes a vehículos.
+b) Instalaciones de suministro a instalaciones fijas para consumo en la propia instalación.
+c) Instalaciones de suministro de queroseno con destino a la aviación.
+d) Instalaciones de suministro de combustibles a embarcaciones.
+e) Proyectos de apertura de nuevas instalaciones habilitadas para el suministro de combustibles y carburantes a vehículos y estado de tramitación.
+El Ministerio de Industria, Energía y Turismo establecerá, en colaboración con las Comunidades Autónomas, la forma de incorporación de la información a la base de datos y las condiciones y forma de acceso a la información.
+Se modifica el apartado 2 por la disposición final 4.1 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#df-4
+ Se modifican los apartados 1 y 3 por el art. 2.5 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a2.
+ Se modifica por el art. 27 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Artículo 44 bis
+
+Artículo 44 bis. Actividades relacionadas con el suministro de gases licuados del petróleo.
+1. Se entiende por gases licuados del petróleo, en adelante GLP, a los efectos de la presente Ley, las fracciones de hidrocarburos ligeros que se obtienen del petróleo crudo o del gas natural, principalmente propano y butano.
+2. Las actividades relacionadas con el suministro de GLP son las siguientes: Producción, adquisición, intercambio intracomunitario, importación y exportación; Almacenamiento, mezcla y envasado; Transporte; Comercialización al por mayor; Comercialización al por menor; Instalación, mantenimiento y revisión de las instalaciones relacionadas con el suministro de los GLP.
+3. Los GLP podrán ser suministrados en las modalidades de envasado y a granel, esta última modalidad incluye la distribución y/o suministro de GLP por canalización, entendido éste como la distribución y el suministro de GLP desde uno o varios depósitos por canalización a más de un punto de suministro, cuya entrega al cliente sea realizada en fase gaseosa, y cuyo consumo sea medido por contador para cada uno de los consumidores.
+4. Se entiende por "suministro al por mayor" aquél que no supone suministro a un consumidor o usuario final.
+5. Se entiende por "suministro al por menor" la venta a consumidores o usuarios finales.
+6. Reglamentariamente se regularán los derechos y obligaciones de los sujetos que realizan actividades relacionadas con el suministro de gases licuados del petróleo.
+Se modifica el apartado 3 y se añade el 6 por el art. 2.6 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a2.
+ Se añade por el art. único.5 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+## CAPITULO III
+
+Gases licuados del petróleo
+
+### Artículo 45
+
+Artículo 45. Operadores al por mayor de GLP.
+1. Serán operadores al por mayor de GLP aquellas sociedades mercantiles que realicen las actividades de almacenamiento, mezcla y envasado, transporte y comercialización al por mayor de GLP.
+2. Podrán actuar como operadores al por mayor de GLP exclusivamente aquellas sociedades que cumplan las condiciones para la realización de la actividad que se establezcan reglamentariamente, entre las que se incluirán la suficiente capacidad técnica del solicitante.
+En todo caso, dichas sociedades deberán comunicar al Ministerio de Industria, Turismo y Comercio, que lo comunicará a su vez a la Comisión Nacional de Energía y a la Corporación de Reservas Estratégicas de Productos Petrolíferos, el inicio o cese de la actividad, acompañando la comunicación de una declaración responsable sobre el cumplimiento de las condiciones a que se refiere el párrafo anterior.
+Los operadores al por mayor de GLP deberán acreditar el cumplimiento de estas condiciones en caso de que les sea requerido por el Ministerio de Industria, Turismo y Comercio o por la Comisión Nacional de Energía.
+Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria, así como el cese de la actividad, deberá ser comunicado por el interesado, en el plazo máximo de un mes a partir del momento en que se produzca.
+La Comisión Nacional de los Mercados y la Competencia publicará en su página web un listado de los operadores al por mayor de GLP que incluirá aquellas sociedades que hayan comunicado al Ministerio el ejercicio de esta actividad, eliminando aquellas que hayan cesado su actividad.
+3. Los sujetos que ejerzan esta actividad deberán tener a disposición de los comercializadores al por menor de GLP y, en su caso, de sus clientes, un servicio de asistencia técnica permanente de las instalaciones de sus usuarios que garantice el correcto funcionamiento de las mismas.
+4. Los operadores al por mayor deberán exigir a los comercializadores al por menor de GLP y a los titulares de las instalaciones de GLP o, en su caso, a los usuarios a los que suministren, la documentación acreditativa de que sus instalaciones cumplen las condiciones técnicas y de seguridad que reglamentariamente resulten exigibles.
+5. Las actividades a que se refiere este artículo, sin perjuicio de lo dispuesto en el artículo 6 de la presente Ley, podrán ser realizadas libremente, no siendo necesaria la comunicación al Ministerio de Industria, Energía y Turismo, cuando tengan por objeto los envases con capacidad no superior a 8 litros.
+6. Los operadores al por mayor de GLP deberán constituir y mantener actualizado un seguro de responsabilidad civil u otras garantías financieras con objeto de cubrir los riesgos que, para personas y/o bienes, puedan derivarse de las actividades ejercidas y en cuantía suficiente a fin de responder por los posibles daños causados.
+Se modifican el título y los apartados 2, 4 y 5 y se añade el 6 por el art. 2.7 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a2.
+ Se modifica por el art. 19.3 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica por el art. único.5 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 46
+
+Artículo 46. Comercializadores al por menor de gases licuados del petróleo a granel.
+1. Serán comercializadores al por menor de GLP a granel las sociedades mercantiles que realicen las actividades de almacenamiento, mezcla, transporte y comercialización al por menor de GLP a granel.
+2. Podrán actuar como comercializadores al por menor de GLP a granel, las sociedades que cumplan las condiciones para la realización de la actividad que se establezcan reglamentariamente, entre las que se incluirán la suficiente capacidad técnica del solicitante.
+En todo caso, dichas sociedades deberán comunicar al Ministerio de Industria, Turismo y Comercio, que lo comunicará a su vez a la Comisión Nacional de Energía y a la Corporación de Reservas Estratégicas de Productos Petrolíferos el inicio o cese de la actividad, acompañando la comunicación de una declaración responsable sobre el cumplimiento de la condiciones a que se refiere el párrafo anterior. Asimismo, remitirán copia de las autorizaciones de construcción, modificación o cierre de las instalaciones de distribución de GLP al Ministerio de Industria, Turismo y Comercio.
+Los comercializadores al por menor de GLP a granel deberán acreditar el cumplimiento de dichas condiciones en caso de que les sea requerido por el Ministerio de Industria, Turismo y Comercio o por la Comisión Nacional de Energía.
+Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria, así como el cese de la actividad, deberá ser comunicado por el interesado, en el plazo máximo de un mes a partir del momento en que se produzca.
+La Comisión Nacional de los Mercados y la Competencia publicará en su página web un listado de los comercializadores al por menor de gases licuados del petróleo que incluirá aquellas sociedades que hayan comunicado al Ministerio el ejercicio de esta actividad, eliminando aquellas que hayan cesado en la misma.
+3. Las empresas que suministren GLP a granel deberán exigir a los titulares de las instalaciones o, en su caso, a los consumidores la documentación acreditativa de que sus instalaciones cumplen las condiciones técnicas y de seguridad que reglamentariamente resulten exigibles.
+4. En todo caso, la actividad de suministro a vehículos desde instalaciones fijas de distribución al por menor de productos petrolíferos, sin perjuicio de lo dispuesto en el artículo 6 de la presente Ley, podrá ser realizada libremente, no siendo necesaria su comunicación al Ministerio de Industria, Turismo y Comercio.
+5. Los comercializadores al por menor de GLP a granel deberán efectuar el suministro a todo peticionario del mismo, siempre que el lugar donde deba efectuarse la entrega del gas se encuentre comprendido en la provincia de actuación del comercializador. Los plazos de entrega del GLP a granel se regirán por las estipulaciones contractuales entre suministrador y usuario.
+Los comercializadores al por menor de GLP a granel por canalización deberán efectuar el suministro a todo peticionario del mismo, siempre que el lugar donde deba efectuarse la entrega esté cubierto por la red de canalización de titularidad del comercializador.
+6. Los comercializadores al por menor de GLP a granel deberán constituir y mantener actualizado un seguro de responsabilidad civil u otras garantías financieras con objeto de cubrir los riesgos que, para personas y/o bienes, puedan derivarse de las actividades ejercidas y en cuantía suficiente a fin de responder por los posibles daños causados.
+Se modifica el apartado 2 y se añaden los apartados 5 y 6 por el art. 2.8 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a2.
+ Se modifica por el art. 19.4 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica por el art. único.5 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 46 bis
+
+Artículo 46 bis. Instalaciones de GLP a granel.
+1. Requerirán autorización administrativa previa, en los términos establecidos en la presente Ley y en sus disposiciones de desarrollo, la construcción, modificación, explotación y cierre de las instalaciones de almacenamiento y distribución de GLP a granel, y las canalizaciones necesarias para el suministro desde los almacenamientos anteriores hasta los consumidores finales.
+La transmisión de estas instalaciones deberá ser autorizada por la administración competente.
+La autorización administrativa de cierre de una instalación podrá imponer a su titular la obligación de proceder a su desmantelamiento.
+2. Podrán realizarse libremente, sin más requisitos que los relativos al cumplimiento de las disposiciones técnicas, de seguridad y medioambientales las siguientes instalaciones:
+a) Las que se relacionan en el apartado anterior cuando su objeto sea el consumo propio, no pudiendo suministrar a terceros.
+b) Las de almacenamiento, distribución y suministro de GLP de un usuario o de los usuarios de un mismo bloque de viviendas.
+3. No requerirán autorización administrativa los proyectos de instalaciones necesarias para la defensa nacional consideradas de interés militar, conforme a la Ley 8/1975, de 12 de marzo, de zonas e instalaciones de interés para la defensa nacional, y su normativa de desarrollo.
+4. Los solicitantes de autorizaciones para instalaciones de gas relacionadas en el apartado 1 deberán acreditar suficientemente el cumplimiento de los siguientes requisitos:
+a) Las condiciones técnicas y de seguridad de las instalaciones propuestas.
+b) El adecuado cumplimiento de las condiciones de protección del medio ambiente.
+c) La adecuación del emplazamiento de la instalación al régimen de ordenación del territorio.
+d) Su capacidad legal, técnica y económico-financiera para la realización del proyecto.
+5. Las autorizaciones a que se refiere el apartado 1 de este artículo serán otorgadas por la Administración competente, sin perjuicio de las concesiones y autorizaciones que sean necesarias, de acuerdo con otras disposiciones que resulten aplicables, la correspondiente legislación sectorial y, en especial, las relativas a la ordenación del territorio y al medio ambiente, valorándose la conveniencia de diseñar y construir las instalaciones compatibles para la distribución de gas natural.
+El procedimiento de autorización incluirá el trámite de información pública y la forma de resolución en el supuesto de concurrencia de dos o más solicitudes de autorización.
+Otorgada la autorización y a los efectos de garantizar el cumplimiento de sus obligaciones, el titular deberá constituir una garantía del dos por ciento del presupuesto de las instalaciones.
+La falta de resolución expresa de las solicitudes de autorización a que se refiere este artículo, tendrá efectos desestimatorios. En todo caso, podrá interponerse recurso ordinario ante la autoridad administrativa correspondiente.
+6. Las autorizaciones de instalaciones de distribución contendrán todos los requisitos que deban ser observados en su construcción y explotación, la delimitación de la zona en la que se debe prestar el suministro, los compromisos de expansión de la red en dicha zona que debe asumir la empresa solicitante y, en su caso, el plazo para la ejecución de dichas instalaciones y su caracterización.
+7. El incumplimiento de las condiciones, requisitos establecidos en las autorizaciones o la variación sustancial de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación.
+La Administración competente denegará la autorización cuando no se cumplan los requisitos previstos legalmente o la empresa no garantice la capacidad legal, técnica y económica necesarias para acometer la actividad propuesta.
+8. Los titulares de las instalaciones de distribución de GLP a granel deberán solicitar a la Administración concedente de la autorización la correspondiente autorización para transformar las mismas para su utilización con gas natural, debiendo cumplir las condiciones técnicas de seguridad que sean de aplicación, sometiéndose en todo a las disposiciones normativas vigentes para las instalaciones de distribución de gas natural.
+9. Reglamentariamente, se regularán las obligaciones y derechos de los titulares de las instalaciones, así como las de los consumidores y comercializadores de GLP a granel. Asimismo, se definirá el contenido mínimo de los contratos entre los usuarios y los propietarios de las instalaciones.
+10. El titular de instalaciones o en su caso los usuarios, serán responsables de que sus instalaciones cumplan las condiciones técnicas y de seguridad que reglamentariamente resulten exigibles así como de su correcto mantenimiento.
+Se suprime la letra e) del apartado 4 por el art. 19.5 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se añade por el art. único.5 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 47
+
+Artículo 47. Comercializadores al por menor de gases licuados del petróleo envasados.
+1. La comercialización al por menor de gases licuados del petróleo envasados será realizada libremente.
+Las instalaciones que se destinen al almacenamiento y comercialización de los envases de gases licuados del petróleo envasados, deberán cumplir las condiciones técnicas y de seguridad que reglamentariamente les sean exigibles.
+2. Serán comercializadores al por menor de GLP envasado aquellas personas físicas o jurídicas que realicen la venta al por menor de envases de GLP a consumidores o usuarios finales.
+3. (Suprimido)
+4. Los comercializadores al por menor de gases licuados del petróleo envasados podrán tener a disposición de sus clientes un servicio de asistencia técnica permanente de instalaciones de consumo de los usuarios.
+Se suprime el apartado 3 por el art. 57.1 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este apartado ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime el apartado 3 por el art. 57.1 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se modifica por el art. único.5 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 48
+
+Artículo 48. Registros administrativos.
+(Suprimido)
+Se suprime por el art. 19.6 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica por el art. único.5 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+## CAPITULO IV
+
+Garantía de suministro
+
+### Artículo 49
+
+Artículo 49. Garantía de suministro.
+1. Todos los consumidores tendrán derecho al suministro de productos derivados del petróleo en el territorio nacional, en las condiciones previstas en la presente Ley y en sus normas de desarrollo.
+2. En situaciones de escasez de suministro, el Consejo de Ministros, mediante Acuerdo, podrá adoptar en el ámbito, con la duración y las excepciones que se determinen, entre otras, alguna o algunas de las siguientes medidas:
+a) Limitaciones de la velocidad máxima del tránsito rodado en vías públicas.
+b) Limitación de la circulación de cualesquiera tipos de vehículos.
+c) Limitación de la navegación de buques y aeronaves.
+d) Limitación de horarios y días de apertura de instalaciones para el suministro de productos derivados del petróleo.
+e) (Derogado)
+f) Sometimiento a un régimen de intervención de las existencias mínimas de seguridad a que se refiere el artículo siguiente.
+g) Limitación o asignación de los suministros a consumidores de todo tipo de productos derivados del petróleo, así como restricciones en el uso de los mismos.
+h) Imponer a los titulares de concesiones de explotación de hidrocarburos a que se refiere el Título II la obligación de suministrar su producto para el consumo nacional.
+i) (Derogado)
+j) Cualesquiera otras medidas que puedan ser recomendadas por los organismos internacionales de los que el Reino de España sea parte, que se determinen en aplicación de aquellos convenios en que se participe o aquellos que haya suscrito en los que se contemplen medidas similares.
+En relación con tales medidas se determinará, asimismo, el régimen retributivo aplicable a aquellas actividades que se vieran afectadas por las medidas adoptadas garantizando, en todo caso, un reparto equilibrado de los costes.
+Se derogan las letras e) e i) del apartado 2 por la disposición derogatoria única.a) del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+### Artículo 50
+
+Artículo 50. Existencias mínimas de seguridad.
+1. Todo operador autorizado a distribuir al por mayor productos petrolíferos en territorio nacional, y toda empresa que desarrolle una actividad de distribución al por menor de carburantes y combustibles petrolíferos no adquiridos a los operadores regulados en esta Ley, deberán mantener en todo momento existencias mínimas de seguridad de los productos que el Gobierno determine reglamentariamente, en lo que se refiere a la cantidad, tipos de productos, lugar de almacenamiento y localización geográfica, hasta un máximo de ciento veinte días de sus ventas anuales, computados de acuerdo con la metodología que asimismo se establezca. Dicho máximo podrá ser revisado por el Gobierno cuando los compromisos internacionales del Reino de España lo requieran.
+Los consumidores de carburantes y combustibles, en la parte no suministrada por los operadores regulados en esta Ley, deberán igualmente mantener existencias mínimas de seguridad en la cantidad que reglamentariamente resulte exigible atendiendo a su consumo anual.
+Las existencias mínimas de seguridad anteriormente citadas tendrán la consideración de reservas de emergencia a los efectos de garantizar el cumplimiento por parte de España de los compromisos internacionales asumidos para garantizar la seguridad de suministro del mercado petrolífero.
+Asimismo, se determinarán reglamentariamente las distintas categorías de reservas petrolíferas, incluidas las reservas comerciales, pudiendo el Ministerio de Industria, Energía y Turismo, establecer reservas específicas para garantizar la seguridad de abastecimiento
+2. Cuando se trate de gases licuados del petróleo los operadores al por mayor de este producto, así como los comercializadores o consumidores que no adquieran el producto a operadores o comercializadores autorizados, estarán obligados a mantener existencias mínimas de seguridad hasta un máximo de treinta días de sus ventas o consumos anuales.
+3. A efectos del cómputo de las existencias mínimas de seguridad, que tendrá carácter mensual, se considerarán la totalidad de las existencias almacenadas por los operadores y empresas a las que se refieren los apartados anteriores en el conjunto del territorio nacional. Dichas existencias estarán disponibles y accesibles físicamente para garantizar la seguridad de abastecimiento del mercado nacional y su verificación podrá ser realizada en cualquier momento por la autoridad competente o la Entidad Central de Almacenamiento a la que se refiere el artículo 52.
+4. Reglamentariamente se establecerán los procedimientos administrativos y obligaciones necesarias para garantizar que se mantiene de forma permanente un nivel de existencias mínimas de seguridad equivalente, al menos, a la mayor de las cantidades correspondientes bien a noventa días de importaciones netas diarias medias, bien a sesenta y un días de consumo interno diario medio correspondiente al año de referencia, en petróleo equivalente.
+Asimismo, se podrán establecer obligaciones de remisión de información a entidades que, no siendo sujetos obligados al mantenimiento de existencias mínimas de seguridad, introduzcan en territorio español crudos y/o productos petrolíferos.
+5. La inspección del cumplimiento de la obligación de mantenimiento de existencias mínimas de seguridad corresponderá al Ministerio de Industria, Energía y Turismo cuando el sujeto obligado sea un operador al por mayor y a las Administraciones autonómicas cuando la obligación afecte a distribuidores al por menor o a consumidores.
+Reglamentariamente, se establecerá el procedimiento de comunicación de información entre la Administración pública competente para la inspección y la Corporación de Reservas Estratégicas de Productos Petrolíferos a la que se refiere el artículo 52.
+Se modifica por la disposición final 1.1 del Real Decreto-ley 15/2013, de 13 de diciembre. Ref. BOE-A-2013-13035.
+ Se añade el apartado 4 por el art. 19.7 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica el apartado 2 por el art. único.5 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 51
+
+Artículo 51. Sujetos obligados al mantenimiento de existencias mínimas de seguridad.
+1. Reglamentariamente se establecerá el procedimiento para que, con anterioridad al 31 de mayo de cada año, todos los sujetos conozcan las modalidades que vayan a aplicarse para calcular las obligaciones de almacenamiento en vigor a partir del 1 de enero del siguiente año.
+Asimismo, se establecerán las cantidades de reservas de los sujetos obligados que obligatoriamente mantendrá la Corporación y aquellas otras reservas que la Corporación podrá mantener a su favor más allá de los porcentajes obligatorios. En el caso de que los operadores deseen ejercer tal derecho más allá de las obligaciones establecidas, deberán comunicarlo antes del 30 de junio del año precedente.
+Los sujetos obligados al mantenimiento de existencias mínimas de seguridad de productos petrolíferos deberán ceder o arrendar existencias, así como facilitar instalaciones a la Corporación en la forma que se determine reglamentariamente.
+Las operaciones de compra, venta y arrendamiento de reservas, así como las referentes a su almacenamiento, se ajustarán a contratos tipo cuyo modelo será aprobado por el Ministerio de Industria, Energía y Turismo.
+2. Los sujetos obligados podrán cumplir sus obligaciones de reservas en beneficio del Reino de España, en los términos que reglamentariamente se establezcan, mediante existencias que sean de su propiedad o estén a su plena disposición en virtud de contratos de arrendamiento, siempre que no hayan sido cedidas o arrendadas a terceros en forma alguna, con entidades centrales de almacenamiento u operadores económicos de otros Estados miembros de la Unión Europea con capacidad de almacenamiento fuera del territorio nacional, y previa autorización del Ministerio de Industria, Energía y Turismo. Recíprocamente, se determinará la forma y las condiciones en las que los sujetos obligados en otros Estados miembros de la Unión Europea y terceros países podrán constituir existencias mínimas de seguridad en territorio español.
+Asimismo, podrán cumplir sus obligaciones mediante existencias que sean de su propiedad o estén a su plena disposición en virtud de contratos de arrendamiento, siempre que no hayan sido cedidas o arrendadas a terceros en forma alguna, con otros sujetos obligados u operadores económicos con capacidades de almacenamiento en el territorio nacional, y previa comunicación a la Corporación.
+3. Se garantizará, en todo caso, la disponibilidad de las reservas de emergencia y las reservas específicas almacenadas en territorio nacional por cuenta de otro Estado miembro. Asimismo, en caso de interrupción grave del suministro, las medidas que el Reino de España adopte en aplicación del artículo 49 de esta Ley, no supondrán obstáculo e impedimento para la transferencia, el uso o distribución de las reservas de emergencia y las reservas específicas almacenadas por cuenta de otro Estado miembro.
+Se modifica por la disposición final 1.1 del Real Decreto-ley 15/2013, de 13 de diciembre. Ref. BOE-A-2013-13035.
+
+### Artículo 52
+
+Artículo 52. Entidad Central de Almacenamiento.
+1. La Corporación de Reservas Estratégicas de Productos Petrolíferos, en su calidad de Entidad Central de Almacenamiento, tendrá por objeto la adquisición, constitución, mantenimiento y gestión de las reservas de hidrocarburos, incluidas las de gas natural en la forma y por la cuantía que se determine reglamentariamente, el control del mantenimiento de las existencias mínimas de seguridad previstas en esta Ley, así como la obligación de diversificación de suministros de gas natural.
+2. Asimismo, como corporación de derecho público sin ánimo de lucro actuará a favor del interés general y en régimen de derecho privado con personalidad jurídica propia. Se regirá por lo dispuesto en la presente Ley y sus disposiciones de desarrollo. La Corporación estará sujeta, en el ejercicio de su actividad, a la tutela de la Administración General del Estado, que la ejercerá a través del Ministerio de Industria, Energía y Turismo.
+3. Sin perjuicio de lo establecido en el apartado primero, la Corporación realizará las siguientes funciones:
+a) Identificación, verificación, contabilidad y control de las reservas definidas en esta Ley y sus disposiciones de desarrollo, incluidas las reservas comerciales, debiendo informar al Ministerio de Industria, Energía y Turismo, al menos con carácter mensual, de los niveles de reservas almacenados por los sujetos obligados y operadores económicos.
+b) Establecer un inventario detallado y permanentemente actualizado de todas las reservas de emergencia almacenadas, con exclusión, en su caso, de las reservas específicas. Dicho inventario incluirá, en particular, los datos necesarios para poder localizar el depósito, la refinería o la instalación de almacenamiento en que se encuentren las reservas en cuestión, así como las cantidades, el propietario y la naturaleza con arreglo a las categorías definidas por las normas del Derecho de la Unión Europea obligatorias y que sean de aplicación en cada momento. Dichos datos deberán mantenerse por un período de cinco años.
+En cualquier momento, el Ministerio de Industria, Energía y Turismo podrá requerir dicho inventario a la Corporación, que dispondrá de un plazo máximo de diez días para su remisión.
+Antes del 31 de enero de cada año, remitirá al Ministerio de Industria, Energía y Turismo, una versión resumida de dicho inventario en la que se indiquen como mínimo las cantidades y la naturaleza de las reservas de emergencia incluidas en el inventario a fecha del último día del año natural anterior.
+c) Publicar de manera permanente información completa, clasificada por categoría de productos, sobre los volúmenes de reservas cuyo mantenimiento la Corporación podrá garantizar a los sujetos obligados, a otros operadores económicos o a otras entidades centrales de almacenamiento. Asimismo, publicará con anterioridad al 31 de mayo de cada año las condiciones en las que ofrecerá los servicios de mantenimiento de reservas por cuenta de los sujetos obligados.
+d) Adquirir o vender, con carácter exclusivo, las reservas específicas que, en su caso, puedan establecerse por mandato del Ministerio de Industria, Energía y Turismo.
+e) Constitución, mantenimiento y gestión de las reservas de los operadores económicos o sujetos obligados en los términos que reglamentariamente se establezcan. Las reservas que estén a su plena disposición en virtud de contratos de arrendamiento no podrán ser cedidas o arrendadas, a terceros, en forma alguna.
+f) Cálculo y verificación de los niveles totales de reservas de petróleo equivalente y cantidades de productos que, de forma permanente, mantiene el Reino de España, calculadas tanto en días de importaciones netas diarias medias, como en días de consumo interno diario medio correspondiente al año de referencia en conformidad con la normativa europea y las obligaciones derivadas de los Tratados Internacionales en los que el Reino de España sea Parte.
+Asimismo, deberá remitir al Ministerio de Industria, Energía y Turismo las relaciones estadísticas sobre hidrocarburos que reglamentariamente se establezcan.
+g) Proponer al Ministerio de Industria, Energía y Turismo las actuaciones y medidas orientadas a la implementación y actualización de las obligaciones en materia de seguridad de suministro del mercado de hidrocarburos de acuerdo con los compromisos internacionales asumidos por el Reino de España.
+h) Colaborar con las distintas Administraciones Públicas, a efectos de proporcionar información, asesoramiento y realizar cualquier otra actividad respecto a aquellos aspectos de su competencia en el sector de hidrocarburos, en particular en la revisión del grado de preparación de España y del almacenamiento de reservas para emergencias.
+i) Aquellas funciones relativas a la seguridad de suministro del sector de hidrocarburos que le sean encomendadas por el Ministerio de Industria, Energía y Turismo.
+4. La Corporación deberá proponer a la autoridad competente la iniciación de los expedientes sancionadores cuando proceda e informar a la Administración General del Estado en aquellos expedientes sancionadores en que sea requerida. A estos efectos deberá recabar la información y realizar las inspecciones que sean precisas para controlar el cumplimiento de las obligaciones de los sujetos obligados.
+5. La Corporación estará exenta del Impuesto sobre Sociedades respecto de la renta derivada de las aportaciones financieras realizadas por sus miembros.
+Las aportaciones realizadas por los miembros, en cuanto contribuyan a la dotación de reservas de la Corporación, no serán fiscalmente deducibles a los efectos de determinar sus bases imponibles por el Impuesto sobre Sociedades. Tales aportaciones se computarán para determinar los incrementos o disminuciones de patrimonio que correspondan a los miembros de la Corporación, por efecto de su baja en la misma o modificación de la cuantía de sus existencias obligatorias, según la regulación de estos supuestos.
+Las rentas que se pongan de manifiesto en las operaciones a que se refiere el párrafo anterior no darán derecho a la deducción por doble imposición de dividendos en la parte que corresponda a rentas no integradas en la base imponible del Impuesto sobre Sociedades de la Corporación.
+Igualmente, estará exenta del Impuesto sobre Sociedades la renta que pudiera obtener la Corporación como consecuencia de las operaciones de disposición de existencias estratégicas, renta que no podrá ser objeto de distribución entre los miembros, ni de préstamos u operaciones financieras similares con ellos.
+6. Para asegurar el cumplimiento de sus obligaciones la Corporación podrá adquirir y arrendar crudos y productos petrolíferos, gas natural y gas natural licuado y concertar contratos con los límites y condiciones que se determinen reglamentariamente. Las reservas que estén a su plena disposición en virtud de contratos de arrendamiento no podrán ser cedidas o arrendadas a terceros.
+Asimismo, tendrá acceso a las instalaciones de regasificación, transporte y almacenamiento de gas natural y al mercado organizado de gas en los términos establecidos en la presente Ley y su normativa de desarrollo para los otros sujetos que actúan en el mercado.
+Toda disposición de existencias estratégicas por parte de la Corporación requerirá la previa autorización del Ministerio de Industria, Energía y Turismo y deberá realizarse a un precio igual al coste medio ponderado de adquisición o al de mercado, si fuese superior, salvo las excepciones determinadas reglamentariamente. Asimismo, la Corporación contabilizará sus existencias al coste medio ponderado de adquisición desde la creación de la misma.
+7. Los sujetos obligados al mantenimiento de existencias mínimas de seguridad de productos petrolíferos, incluidos los gases licuados del petróleo, y de gas natural, en los términos establecidos en esta Ley y sus disposiciones de desarrollo así como los obligados a la diversificación de los suministros de gas natural, deberán contribuir a la financiación de la Corporación, mediante el pago mensual a la misma de una cuota unitaria por cantidad de producto vendido o consumo en el mes anterior.
+Las aportaciones financieras de los sujetos obligados se establecerán en función de los costes presupuestados en que incurra la Corporación para el cumplimiento de las obligaciones establecidas en la presente Ley. Su fijación y cuantía se realizará por el Ministerio de Industria, Energía y Turismo, a propuesta de la Corporación, de acuerdo con el procedimiento establecido reglamentariamente y en ningún caso excederán de los servicios proporcionados por la Corporación. En caso de constitución de existencias a favor del sujeto obligado, no podrá exigirse el pago de las cuotas hasta la constitución efectiva de las mismas.
+Dicha aportación financiera deberá permitir la dotación por la Corporación, en los términos determinados reglamentariamente, de las reservas financieras necesarias para el adecuado ejercicio de sus actividades.
+8. Quienes vengan obligados a mantener existencias mínimas de seguridad, porque en el ejercicio de su actividad se suministren con carburantes y combustibles petrolíferos no adquiridos a los operadores regulados en esta Ley, podrán, en las condiciones y casos determinados reglamentariamente y en función del volumen de sus actividades, satisfacer la obligación establecida en el artículo 50 de la Ley mediante el pago de una cuota por tonelada de producto importado o adquirido para su consumo, destinada a financiar los costes de constitución, almacenamiento y conservación de las existencias mínimas de seguridad que reglamentariamente se establezcan.
+Esta cuota será determinada por el Ministerio de Industria, Energía y Turismo con la periodicidad necesaria y será percibida por la Corporación en la forma que se determine reglamentariamente.
+9. Reglamentariamente por el Gobierno se desarrollarán las funciones de la Corporación y se establecerá su organización y régimen de funcionamiento. En sus órganos de administración estarán suficientemente representados los operadores al por mayor a que se refieren los artículos 42 y 45 de la presente Ley y los comercializadores de gas natural regulados en el artículo 58 de esta Ley, así como representantes del Ministerio de Industria, Energía y Turismo, que habrán de ser designados entre empleados públicos con experiencia acreditada en el sector energético.
+Los representantes de los sujetos obligados indicados en el apartado anterior serán miembros de la Corporación, formarán parte de su Asamblea y su voto en ella se graduará en función del volumen de su aportación financiera anual.
+El Presidente de la Corporación y la parte de vocales de su órgano de administración que reglamentariamente se determine, serán designados por el Ministro de Industria, Energía y Turismo. El titular de dicho departamento podrá imponer su veto a aquellos acuerdos de la Corporación que infrinjan lo dispuesto en la presente Ley y disposiciones de desarrollo.
+Se modifican los apartados 1, 6 y 9 por el art. 2.9 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a2.
+ Se modifica por la disposición final 1.1 del Real Decreto-ley 15/2013, de 13 de diciembre. Ref. BOE-A-2013-13035.
+ Se modifica el apartado 5 por el art. único.6 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifican los apartados 3 y 5 por el art. 93.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Artículo 53
+
+Artículo 53. Obligaciones generales.
+Quienes en virtud del artículo 50 de la presente Ley estén obligados a mantener existencias mínimas de seguridad, así como toda aquella compañía que preste servicios de logística de productos petrolíferos, quedan obligados a cumplir las directrices dictadas por el Ministerio de Industria y Energía respecto de sus instalaciones y mantenimiento, seguridad, calidad de los productos y aportación de información. Igualmente, quedarán obligados a poner a disposición los suministros prioritarios que se señalen por razones de estrategia o dificultad en el abastecimiento.
+
+## TITULO IV
+
+Ordenación del suministro de gases combustibles por canalización
+
+## CAPITULO I
+
+Disposiciones generales
+
+### Artículo 54
+
+Artículo 54. Régimen de actividades.
+1. Las actividades de fabricación, regasificación, almacenamiento, transporte, distribución y comercialización de combustibles gaseosos podrán ser realizadas libremente en los términos previstos en este Título, sin perjuicio de las obligaciones que puedan derivarse de otras disposiciones, y en especial de las fiscales y de las relativas a la ordenación del territorio y al medio ambiente y a la defensa de los consumidores y usuarios.
+Son combustibles gaseosos a los efectos de este Título:
+a) El gas natural y sus especialidades gas natural licuado y gas natural comprimido.
+b) Los gases combustibles manufacturados o sintéticos, donde se puede distinguir entre:
+1.º Mezclas de gas natural, butano o propano con aire.
+2.º El biogás y/o cualquier otro gas obtenido a partir de la biomasa.
+3.º Cualquier otro tipo de gas combustible manufacturado o sintético o mezcla de gas combustible con aire.
+2. Las actividades de importación, exportación e intercambios comunitarios de combustibles gaseosos se realizarán sin más requisitos que los que deriven de la normativa comunitaria.
+3. Las normas establecidas en la presente Ley en relación con el gas natural serán también de aplicación, de manera no discriminatoria, al biogás y al gas obtenido a partir de la biomasa u otros tipos de gas siempre y cuando resulte técnicamente posible y seguro inyectar tales gases en la red de gas natural y transportarlos por ella.
+A estos efectos, se establecerán los requisitos de composición de estos gases al objeto de garantizar la seguridad de las personas, instalaciones y equipos de consumo así como la correcta conservación de los mismos.
+Se suprime el último párrafo del apartado 1 por el art. 3.1 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+ Se modifica por el art. 2.2 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+### Artículo 55
+
+Artículo 55. Régimen de autorización de instalaciones.
+1. Requerirán autorización administrativa previa en los términos establecidos en la presente Ley y disposiciones que la desarrollen, las siguientes instalaciones destinadas al suministro a los usuarios de combustibles gaseosos por canalización:
+a) Las plantas de regasificación y licuefacción de gas natural y de fabricación de gases combustibles manufacturados o sintéticos o de mezcla de gases combustibles por aire.
+b) Las instalaciones de almacenamiento, transporte y distribución de gas natural.
+c) El almacenamiento y distribución de combustibles gaseosos manufacturados, y sintéticos y mezclas de gases y aire para suministro por canalización.
+Las instalaciones relativas a los gases licuados del petróleo, se regirán por lo dispuesto en el Título III.
+2. Podrán realizarse libremente, sin más requisitos que los relativos al cumplimiento de las disposiciones técnicas y de seguridad y medioambientales las siguientes instalaciones:
+a) Las que se relacionan en el apartado anterior cuando su objeto sea el consumo propio, no pudiendo suministrar a terceros.
+b) Las relativas a fabricación, mezcla, almacenamiento, distribución y suministro de combustibles gaseosos desde un centro productor en el que el gas sea un subproducto.
+c) Las de almacenamiento, distribución y suministro de gas natural de un usuario o de los usuarios de un mismo bloque de viviendas.
+d) Las líneas directas.
+3. No requerirán autorización administrativa los proyectos de instalaciones necesarias para la defensa nacional consideradas de interés militar, conforme a la Ley 8/1975, de 12 de marzo, de zonas e instalaciones de interés para la defensa nacional, y su normativa de desarrollo ni las plantas de regasificación ubicadas en el archipiélago canario que tengan como uso principal alimentar a instalaciones de generación de energía eléctrica, pudiendo tener usos secundarios como la alimentación a puertos y a buques.
+Se modifica el apartado 2.d) por la disposición final 11.1 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#df-11
+ Se modifica el apartado 3 por la disposición final 4.1 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df-4
+ Se modifican los apartados 1 y 2 por el art. único.5 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 56
+
+Artículo 56. Fabricación de gases combustibles.
+1. A los efectos establecidos en la presente Ley tendrá la consideración de fabricación de gases combustibles, siempre que éstos se destinen al suministro final a consumidores por canalización, la fabricación de combustibles gaseosos manufacturados o sintéticos, incluida la mezcla de gas natural, butano o propano con aire.
+2. La fabricación de gases combustibles deberá ajustarse a los criterios de planificación en materia de hidrocarburos.
+3. En relación con la autorización administrativa le será de aplicación lo establecido al respecto en el artículo 73 de la presente Ley.
+4. Lo dispuesto en el presente artículo no será de aplicación a las plantas de producción de gases renovables.
+Se añade el apartado 4 por la disposición final 11.2 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#df-11
+ Se modifica el apartado 1 por el art. 2.3 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+### Artículo 57
+
+Artículo 57. Suministro.
+1. Los consumidores tendrán derecho de acceso y conexión a las redes de transporte y distribución de gas natural en las condiciones establecidas en la normativa de aplicación.
+2. Los consumidores que se determinen tendrán derecho a acogerse al suministro a unos precios que serán fijados y revisados por el Ministro de Industria, Energía y Turismo, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, y que tendrán la consideración de tarifa de último recurso. La tarifa de último recurso será el precio que cobrarán los comercializadores de último recurso a los consumidores que tengan derecho a acogerse a ella.
+3. El Ministro de Industria, Energía y Turismo podrá establecer condiciones específicas de suministro para determinados consumidores que, por sus características económicas, sociales o de suministro, tengan la consideración de clientes vulnerables.
+4. Las Administraciones competentes, en coordinación con la Comisión Nacional de Energía, establecerán puntos de contacto únicos para ofrecer a los consumidores toda la información necesaria relativa a sus derechos, a la legislación en vigor y a las vías de solución de conflictos de que disponen en caso de litigios.
+Se modifica el apartado 1 por el art. 5.3 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+ Se modifica por el art. 2.4 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. único.7 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 57 bis
+
+Artículo 57 bis. Derechos de los consumidores en relación con el suministro.
+Los consumidores tendrán los siguientes derechos:
+a) Realizar adquisiciones de gas en los términos establecidos en el Capítulo II del Título IV de la presente Ley.
+b) Elegir el suministrador para la compra del gas natural.
+c) Solicitar la verificación del buen funcionamiento de los equipos de medida de su suministro.
+d) Disponer de un servicio de asistencia telefónica facilitado por el distribuidor al que estén conectados sus instalaciones, en funcionamiento las veinticuatro horas del día, al que puedan dirigirse ante posibles incidencias de seguridad en sus instalaciones. Dicho número deberá figurar claramente identificado en las facturas y en todo caso será facilitado por el comercializador al consumidor.
+e) Tener un contrato con el comercializador en el que se especifique:
+1.º la identidad y la dirección del suministrador,
+2.º los servicios prestados, el nivel de calidad propuesto y el plazo para la conexión inicial,
+3.º el tipo de servicio de mantenimiento que se ofrezca,
+4.º la forma de obtener información actualizada sobre todas las tarifas aplicables y los gastos de mantenimiento,
+5.º la duración del contrato, las condiciones para la renovación y la rescisión de los servicios y del contrato y, cuando esté permitido, el desistimiento del contrato sin costes,
+6.º los acuerdos de compensación y reembolso aplicables si no se cumplen los niveles de calidad contratados, incluida la facturación incorrecta y retrasada,
+7.º el método para iniciar un procedimiento de resolución de conflictos de conformidad con lo dispuesto en el párrafo j),
+8.º la información sobre los derechos de los consumidores, inclusive la relativa a la tramitación de las reclamaciones y toda la información mencionada en este párrafo e), claramente comunicada mediante las facturas o los sitios de Internet de las compañías de gas natural, y
+9.º las condiciones serán equitativas y se darán a conocer con antelación. En cualquier caso, debe comunicarse esta información antes de la celebración o confirmación del contrato. Cuando los contratos se celebren a través de intermediarios, la información antes mencionada se comunicará asimismo antes de la celebración del contrato.
+f) Ser debidamente avisados de forma transparente y comprensible, con al menos un mes de antelación, por escrito y de manera separada a su factura, de cualquier intención de modificar las condiciones del contrato que se pueda producir una vez transcurrido el plazo de vencimiento del contrato o de sus prórrogas y ser informados de su derecho a rescindir el contrato sin coste alguno cuando reciban el aviso.
+Los contratos a precio variable deberán recoger todos los parámetros y fórmulas que determinen las posibles revisiones de precio aplicables hasta el término del contrato. Asimismo, los consumidores deberán ser notificados de forma directa por su suministrador sobre cualquier revisión de los precios derivada de las condiciones previstas, por escrito y de manera separada a su factura, con al menos un mes de antelación a su aplicación de forma transparente y comprensible.
+Las comunicaciones de revisiones de precios deberán incluir una comparativa de los precios aplicados antes y después de la revisión, así como una estimación del coste anual del suministro para dicho consumidor y su comparativa con el coste anual anterior.
+g) Recibir información transparente sobre los precios, tarifas y condiciones generales aplicables al acceso y al uso de los servicios de gas.
+h) Poder escoger libremente el modo de pago, de forma que no se produzca ninguna discriminación indebida entre consumidores. Los sistemas de pago anticipado serán justos y reflejarán adecuadamente el consumo probable. Cualquier diferencia en las condiciones reflejará los costes que suponen para el proveedor los distintos sistemas de pago. Las condiciones generales serán equitativas y transparentes. Se explicarán en un lenguaje claro y comprensible y no incluirán obstáculos no contractuales al ejercicio de los derechos de los clientes, por ejemplo, una documentación contractual excesiva. Se protegerá a los clientes contra los métodos de venta abusivos o equívocos.
+i) Cambiar de suministrador sin coste alguno.
+j) Disponer de procedimientos para tramitar sus reclamaciones. Concretamente, todos los consumidores tendrán derecho a un buen nivel de servicio y de tramitación de las reclamaciones por parte del suministrador del servicio de gas. Tales procedimientos de solución extrajudicial permitirán la resolución equitativa y rápida de los litigios, preferiblemente en un plazo de tres meses y contemplarán, cuando esté justificado, un sistema de reembolso y/o compensación.
+Siempre que sea posible, los procedimientos en cuestión se ajustarán a lo dispuesto en la Recomendación 98/257/CE de la Comisión, de 30 de marzo de 1998, relativa a los principios aplicables a los órganos responsables de la solución extrajudicial de los litigios en materia de consumo, como es el Sistema Arbitral de Consumo.
+k) Para los clientes conectados a la red de gas, ser informados de sus derechos a que se les suministre, con arreglo a lo dispuesto en la legislación nacional aplicable, gas natural de una determinada calidad a precios razonables.
+l) Tener a su disposición sus datos de consumo y poder, mediante acuerdo explícito y gratuito, dar acceso a los datos de medición a cualquier empresa de suministro registrada. La parte encargada de la gestión de datos estará obligada a facilitar estos datos a la empresa, utilizando los formatos y procedimientos desarrollados reglamentariamente. No podrán facturarse al consumidor costes adicionales por este servicio.
+m) Ser informados adecuadamente del consumo real de gas y de los costes correspondientes con la frecuencia que se establezca reglamentariamente, de manera que les permita regular su propio consumo de gas. La información se facilitará con el tiempo suficiente, teniendo en cuenta la capacidad del equipo de medición del cliente. No podrán facturarse al consumidor costes adicionales por este servicio.
+n) Recibir una liquidación de la cuenta después de cualquier cambio de suministrador de gas natural, en el plazo máximo de seis semanas a partir de la fecha del cambio de suministrador.
+o) Acceder a las instalaciones propiedad de terceros, de regasificación, almacenamiento, transporte y distribución, en los términos previstos en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, y normativa que la desarrolle.
+Se modifica la letra f) por la disposición final 4.2 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#df-4
+ Se modifica por el art. 5.2 del Real Decreto-ley 23/2021, de 26 de octubre de 2021. Ref. BOE-A-2021-17458#a5
+ Se añade por el art. 2.5 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+## CAPITULO II
+
+Sistema de gas natural
+
+### Artículo 58
+
+Artículo 58. Sujetos que actúan en el sistema.
+Las actividades destinadas al suministro de gas natural por canalización serán desarrolladas por los siguientes sujetos:
+a) Los transportistas son aquellas sociedades mercantiles autorizadas para la construcción, operación y mantenimiento de instalaciones de regasificación de gas natural licuado, de transporte o de almacenamiento básico de gas natural.
+Los gestores de red de transporte son aquellas sociedades mercantiles autorizadas para la construcción, operación y mantenimiento de instalaciones de la red troncal y certificadas de acuerdo con el procedimiento establecido en el artículo 63 bis. Asimismo, tienen consideración de gestores de red de transporte los gestores de red independientes.
+Los gestores de red independientes son aquellas sociedades mercantiles que gestionan instalaciones de la red troncal de las que no son propietarios y están autorizadas para la construcción, operación y mantenimiento de acuerdo con lo dispuesto en el artículo 63 quáter.
+Los gestores de red de transporte podrán mantener y celebrar acuerdos técnicos sobre cuestiones relativas a la gestión de gasoductos de transporte entre España y países no pertenecientes a la Unión Europea, siempre que dichos acuerdos sean compatibles con la normativa del mercado interior de gas natural y con las circulares y resoluciones de la Comisión Nacional de los Mercados y la Competencia. Dichos acuerdos deberán ser notificados a la Comisión Nacional de los Mercados y la Competencia.
+b) El Gestor Técnico del Sistema será el responsable de la operación y gestión de la Red Básica y de las redes de transporte secundario definidas en la presente Ley de acuerdo con las funciones establecidas en el artículo 64. Asimismo, será responsable de mantener las condiciones para la operación normal del sistema.
+c) Los distribuidores son aquellas sociedades mercantiles autorizadas para la construcción, operación y mantenimiento de instalaciones de distribución destinadas a situar el gas en los puntos de consumo.
+Los distribuidores también podrán construir, mantener y operar instalaciones de la red de transporte secundario, debiendo llevar en su contabilidad interna cuentas separadas de ambas actividades de conformidad con lo dispuesto en el artículo 63.
+d) Los comercializadores son las sociedades mercantiles que, accediendo a las instalaciones de terceros en los términos establecidos en el presente Título, adquieren el gas natural para su venta a los consumidores, a otros comercializadores o para realizar tránsitos internacionales. Asimismo, son comercializadores las sociedades mercantiles que realicen la venta de Gas Natural Licuado (GNL) a otros comercializadores dentro del sistema gasista o a consumidores finales.
+e) Los consumidores finales, que son los que adquieren gas para su propio consumo y tendrán derecho a elegir suministrador. En el caso de que accedan directamente a las instalaciones de terceros se denominarán Consumidores Directos en Mercado.
+Asimismo, tendrán la consideración de consumidor final a los efectos previstos en la presente Ley, las empresas que suministren gas natural, biogás o gases manufacturados para su uso como carburante en estaciones de servicio, siempre que se suministren de un comercializador. Las instalaciones que se destinen a este fin, deberán cumplir las condiciones técnicas y de seguridad que reglamentariamente les sean exigibles.
+f) La Corporación de Reservas Estratégicas de Productos Petrolíferos, que será la entidad que tiene por objeto la constitución, mantenimiento y gestión de las existencias de carácter estratégico de gas natural en la parte que se determine reglamentariamente.
+g) El Operador del mercado organizado de gas de acuerdo con lo establecido en el artículo 65 ter de esta Ley y las condiciones que reglamentariamente se establezcan.
+Se añade un párrafo final de la letra a) por la disposicion final 2.1 del Real Decreto-ley 34/2020, de 17 de noviembre. Ref. BOE-A-2020-14368#df-2
+ Se deja sin efecto la adición del último párrafo a la letra a) por Resolución de 10 de septiembre de 2020, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-10491
+ Se añade el último párrafo a la letra a) por la disposición final 5.1 del Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-9131#df-5
+ Se modifica la letra f) y se añade la letra g) por el art. 3.2 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+ Se modifica por el art. 2.6 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. único.8 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifica por el art. 7.1 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Artículo 59
+
+Artículo 59. Sistema gasista y red básica de gas natural.
+1. El sistema gasista comprenderá las siguientes instalaciones: las incluidas en la red básica, las redes de transporte secundario, las redes de distribución, los almacenamientos no básicos y demás instalaciones complementarias.
+2. A los efectos establecidos en la presente Ley, la red básica de gas natural estará integrada por:
+a) Los gasoductos de transporte primario de gas natural a alta presión. Se considerarán como tales aquellos cuya presión máxima de diseño sea igual o superior a 60 bares, diferenciándose entre:
+1.º Red troncal: Gasoductos de transporte primario interconectados esenciales para el funcionamiento del sistema y la seguridad de suministro excluyendo la parte de los gasoductos de transporte primario utilizados fundamentalmente para el suministro local de gas natural. En todo caso se considerarán incluidas las conexiones internacionales del sistema gasista español con otros sistemas, las conexiones con yacimientos de gas natural en el interior o con almacenamientos básicos, las conexiones con las plantas de regasificación, las estaciones de compresión y los elementos auxiliares necesarios para su funcionamiento.
+2.º Red de influencia local: Gasoductos de transporte utilizados fundamentalmente para el suministro local de gas natural.
+b) Las plantas de regasificación de gas natural licuado que puedan abastecer el sistema gasista y las plantas de licuefacción de gas natural. Quedan exceptuadas de las anteriores las instalaciones referidas en el artículo 55.3, así como las líneas de conducción de gas natural asociadas a las mismas y dedicadas en exclusividad a la alimentación de las centrales eléctricas, puertos y buques.
+c) Los almacenamientos básicos de gas natural, que puedan abastecer el sistema gasista.
+3. Las redes de transporte secundario están formadas por los gasoductos de presión máxima de diseño comprendida entre 60 y 16 bares.
+4. Las redes de distribución comprenderán los gasoductos con presión máxima de diseño igual o inferior a 16 bares y aquellos otros que, con independencia de su presión máxima de diseño, tengan por objeto conducir el gas a un único consumidor partiendo de un gasoducto de la Red Básica o de transporte secundario.
+5. Almacenamientos no básicos de gas natural son las estructuras de almacenamiento de gas natural en el subsuelo y las instalaciones de superficie que se requieran, con carácter temporal o permanente, para el desarrollo de la actividad de explotación del almacenamiento subterráneo de gas natural, incluidos los gasoductos de conexión entre el almacenamiento y la red básica de gas natural. Estas instalaciones quedarán excluidas del régimen retributivo del sistema de gas natural.
+Se modifica la letra b) del apartado 2 por la disposición final 4.2 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df-4
+ Se modifica por el art. 2.7 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifican los apartados 1 y 2 por el art. único.9 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifica el apartado 4 por el art. 7.2 del Real Decreto-Ley 6/2000, 23 de junio. Ref. BOE-A-2000-11836
+
+### Artículo 60
+
+Artículo 60. Funcionamiento del sistema.
+1. La regasificación, el almacenamiento básico, el transporte, y la distribución tienen carácter de actividades reguladas, cuyo régimen económico y de funcionamiento se ajustará a lo previsto en la presente Ley.
+2. Sin perjuicio de lo establecido para los suministradores de último recurso, la actividad de comercialización se desarrollará en régimen de libre competencia, conforme a lo dispuesto en la presente Ley y disposiciones que la desarrollen, y su régimen económico vendrá determinado por las condiciones que se pacten entre las partes.
+3. Se garantiza el acceso de terceros a las instalaciones de la red básica y a las instalaciones de transporte y distribución en las condiciones técnicas y económicas que se determinen. El precio por el uso de estas instalaciones vendrá determinado por el peaje, canon y cargo correspondiente.
+4. Salvo pacto expreso en contrario, la transmisión de la propiedad del gas se entenderá producida en el momento en que el mismo tenga entrada en las instalaciones del comprador.
+5. Las actividades para el suministro de gas natural que se desarrollen en los territorios insulares y extra-peninsulares serán objeto de una regulación reglamentaria singular, previo acuerdo con las Comunidades y Ciudades Autónomas afectadas y atenderá a las especificidades derivadas de su situación territorial.
+Se modifica el apartado 3 por el art. 5.4 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+ Se modifica por el art. único.10 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifican los apartados 1 y 3 por el art. 7.3 del Real Decreto-Ley 6/2000, 23 de junio. Ref. BOE-A-2000-11836
+
+### Artículo 61
+
+Artículo 61. Incorporación de gas natural al sistema.
+1. Podrán incorporar gas natural en el sistema:
+a) Los comercializadores.
+b) Los Consumidores Directos en Mercado.
+c) Los transportistas para el nivel mínimo de llenado de tanques de GNL, gasoductos de transporte, almacenamientos y redes de distribución, y para cualquier otra función que reglamentariamente se establezca que no tenga como finalidad última el suministro.
+d) El Gestor Técnico del Sistema para cualquier función que reglamentariamente se establezca que no tenga como finalidad última el suministro.
+e) La Corporación de Reservas Estratégicas de Productos Petrolíferos para su función de constitución, mantenimiento y gestión de las existencias de carácter estratégico de gas natural.
+2. Los sujetos autorizados para adquirir gas natural tendrán derecho de acceso a las instalaciones de regasificación, almacenamiento, transporte y distribución en los términos que la normativa de aplicación establezca.
+En el caso del acceso a instalaciones de regasificación, almacenamiento básico, transporte y distribución el acceso será regulado.
+En el caso de los almacenamientos no básicos el acceso será negociado y se establecerán reglamentariamente los criterios para el acceso a las instalaciones que serán transparentes, objetivos y no discriminatorios. Estas instalaciones quedarán excluidas del régimen retributivo del sistema de gas natural.
+3. Los sujetos que quieran ejercer su derecho como Consumidores Directos en Mercado deberán comunicarlo al Ministerio de Industria, Turismo y Comercio, que a su vez lo comunicará a la Comisión Nacional de Energía y a la Corporación de Reservas Estratégicas de Productos Petrolíferos.
+4. Ningún sujeto o sujetos pertenecientes a un mismo grupo de empresas de acuerdo con el artículo 42 del Código de Comercio que actúen en el sector de gas natural podrán aportar en su conjunto gas natural para su consumo en España en una cuantía superior al 70 % del consumo nacional.
+A los efectos del cálculo del porcentaje a que se refiere el párrafo anterior no se considerarán los autoconsumos que se puedan realizar.
+5. El Gobierno, mediante Real Decreto, podrá variar los porcentajes establecidos en el apartado anterior, en función de la evolución y de la estructura empresarial del sector.
+Se modifica el apartado 2 por el art. 5.5 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+ Se añade la letra e) al apartado 1 por el art. 3.3 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+ Se modifica el apartado 3 por el art. 19.8 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica por el art. único.11 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se añaden los apartados 3 y 4 por el art. 7.4 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Artículo 62
+
+Artículo 62. Contabilidad e información.
+1. Las entidades que desarrollen alguna o algunas de las actividades, a que se refiere el artículo 58, a excepción de los consumidores, de la presente Ley, llevarán su contabilidad de acuerdo con el Capítulo VII de la Ley de Sociedades Anónimas, aun cuando no tuvieran tal carácter.
+El Gobierno regulará las adaptaciones que fueran necesarias para el supuesto de que el titular de la actividad no sea una sociedad anónima.
+En cualquier caso, las empresas habrán de tener en su sede central, a disposición del público, una copia de sus cuentas anuales.
+2. Sin perjuicio de la aplicación de las normas generales de contabilidad, a las empresas que realicen actividades a que se refiere el artículo 58 de la presente Ley o a las sociedades que ejerzan control sobre las mismas, el Gobierno podrá establecer para las mismas las especialidades contables y de publicación de cuentas que se consideren adecuadas, del tal forma que se reflejen con nitidez los ingresos y gastos de las actividades gasistas y las transacciones realizadas entre sociedades de un mismo grupo, con objeto de evitar discriminaciones, subvenciones entre actividades distintas y distorsiones de la competencia.
+En el caso de las sociedades que tengan por objeto la realización de actividades reguladas, de acuerdo con el artículo 60.1 de la presente Ley, llevarán en su contabilidad cuentas separadas para cada una de ellas que diferencien entre los ingresos y los gastos estrictamente imputables a cada una de dichas actividades. Asimismo, los gestores de red independientes llevarán en su contabilidad cuentas separadas para cada empresa gestionada, diferenciando los ingresos y gastos imputables a dicha gestión.
+El Gestor técnico del sistema gasista, así como las empresas que realicen el suministro de último recurso, deberán llevar cuentas separadas que recojan los gastos e ingresos estrictamente imputables a dichas actividades.
+Las sociedades que realicen actividades gasistas no reguladas llevarán cuentas separadas de la actividad de producción, de comercialización, de aquellas otras actividades no gasistas que realicen en el territorio español y de todas aquellas otras que realicen en el exterior.
+3. Las entidades deberán explicar en la memoria de las cuentas anuales los criterios aplicados en el reparto de costes respecto a las otras entidades del grupo que realicen actividades gasistas diferentes. Además, deberán informar en la memoria sobre los criterios de asignación e imputación de los activos, pasivos, gastos e ingresos, así como de las reglas de amortización aplicadas.
+Estos criterios deberán mantenerse y no se modificarán, salvo circunstancias excepcionales. Las modificaciones y su justificación deberán ser explicadas en la memoria de las cuentas anuales del ejercicio en el que tengan lugar.
+Se incluirá también en la memoria de las cuentas anuales, información sobre las operaciones realizadas con las empresas de su mismo grupo empresarial, en las condiciones que reglamentariamente se establezcan.
+4. Las entidades que actúen en el sistema gasista deberán proporcionar a la Administración competente la información que les sea requerida, en especial en relación con los contratos de abastecimiento y suministro de gas que hubieran suscrito y con sus cuentas anuales que habrán de auditarse de conformidad con lo dispuesto en el Real Decreto Legislativo 1/2011, de 1 de julio, por el que se aprueba el texto refundido de la Ley de Auditoría de Cuentas y las disposiciones que la desarrollan. La auditoria verificará en particular que se respeta la obligación de evitar discriminaciones y subvenciones cruzadas entre actividades reguladas, y entre éstas y las actividades liberalizadas.
+Cuando estas entidades formen parte de un mismo grupo empresarial, la obligación de información se extenderá, asimismo, a la sociedad que ejerza el control de la que realiza actividades gasistas siempre que actúe en algún sector energético y a aquellas otras sociedades del grupo que lleven a cabo operaciones con la que realiza actividades en el sistema gasista.
+También deberán proporcionar a la Administración competente todo tipo de información sobre sus actividades, inversiones, calidad de suministro, medido según los estándares indicados por la Administración, mercados servidos y previstos con el máximo detalle, precios soportados y repercutidos, así como, cualquier otra información que la Administración competente crea oportuna para el ejercicio de sus funciones.
+5. Las entidades proporcionarán en su memoria de las cuentas anuales información sobre las actividades realizadas en materia de ahorro y eficiencia energética y de protección del medio ambiente.
+6. Las sociedades que realizan actividades reguladas no podrán otorgar préstamos, prestar garantías ni avalar préstamos de otras sociedades del grupo o partes vinculadas que realicen actividades liberalizadas u otras actividades ajenas al sector de gas natural español. Se excluyen los préstamos a sociedades del mismo grupo que tengan por objeto una gestión centralizada de la tesorería, sin que se dediquen a actividades liberalizadas u otras actividades ajenas al sector de gas natural español.
+Se añade el apartado 6 por la disposición final 1.1 de la Ley 7/2021, de 20 de mayo. Ref. BOE-A-2021-8447#df
+ Se modifican el segundo párrafo del apartado 2 y el primer párrafo del 4 por el art. 2.8 y 9 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. único.12 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 63
+
+Artículo 63. Separación de actividades.
+1. Las sociedades mercantiles que desarrollen alguna o algunas de las actividades reguladas de regasificación, almacenamiento básico, transporte y distribución a que se refiere el artículo 60.1 de la presente Ley deben tener como objeto social exclusivo el desarrollo de las mismas sin que puedan, por tanto, realizar actividades de producción o comercialización ni tomar participaciones en empresas que realicen estas actividades.
+2. Los transportistas que operen alguna instalación comprendida en la red básica de gas natural, definida en el apartado 2 del artículo 59 deberán tener como único objeto social en el sector gasista la actividad de transporte definida en el artículo 58.a), pudiendo incluir entre sus activos gasoductos de la red secundaria de transporte, debiendo llevar en su contabilidad interna cuentas separadas de las actividades de regasificación, almacenamiento y transporte.
+3. Las empresas propietarias de instalaciones pertenecientes a la red troncal de gasoductos deberán operar y gestionar sus propias redes, o ceder la gestión de las mismas a un gestor de red independiente en los casos previstos en la presente Ley.
+Los gestores de red de transporte deberán cumplir las siguientes condiciones:
+a) Ninguna persona física o jurídica tendrá derecho:
+1. A ejercer control, de manera directa o indirecta, sobre una empresa que lleve a cabo actividades de producción o suministro y a ejercer control, de manera directa o indirecta o a ejercer derechos en un gestor de la red de transporte o en la red troncal de gasoductos.
+2. A ejercer control de manera directa o indirecta sobre un gestor de la red de transporte o una red de transporte troncal y a ejercer control, de manera directa o indirecta o a ejercer derechos en una empresa que lleve a cabo cualquiera de las funciones de producción o suministro.
+b) Ninguna persona física o jurídica, tendrá derecho a nombrar a los miembros del órgano de administración de un gestor de red de transporte o una red troncal de transporte, y, directa o indirectamente, a ejercer control o ejercer derechos en una empresa que lleve a cabo cualquiera de la funciones de producción o suministro.
+c) Ninguna persona física o jurídica tendrá derecho a ser miembro del órgano de administración, simultáneamente en una empresa que lleve a cabo cualquiera de las funciones de producción o suministro y de un gestor de la red de transporte o de la red troncal de transporte.
+Los derechos indicados en las letras a) y b) anteriores incluirán en particular:
+1.º La facultad de ejercer derechos de voto.
+2.º La facultad de designar a miembros del órgano de administración o de los órganos que representen legalmente a la empresa.
+3.º La posesión de una parte mayoritaria conforme se establece en el artículo 42.1 del Código de Comercio.
+A los efectos de lo dispuesto en el apartado 3.a) se incluirá también dentro del concepto de «empresa que lleve a cabo cualquiera de las funciones de producción o comercialización» a aquellas que realicen las actividades de generación o suministro en el sector de la electricidad y en el término «gestor de red de transporte» al operador del sistema eléctrico o gestor de red de transporte en el sector de la electricidad.
+No obstante lo anterior, aquellas empresas transportistas, que fuesen propietarias de instalaciones de la red troncal con anterioridad al día 3 de septiembre de 2009 y que por formar parte de un grupo empresarial al que pertenezcan sociedades que desarrollen actividades de producción o comercialización no den cumplimiento a lo dispuesto en el párrafo anterior, podrán optar por mantener la propiedad de las instalaciones de la red troncal siempre y cuando cedan su gestión a un gestor de red independiente en las condiciones establecidas en el artículo 63 quáter.
+4. Sin perjuicio de lo establecido en el apartado 3 para empresas propietarias de instalaciones de la red troncal de gas, un grupo de sociedades podrá desarrollar actividades incompatibles de acuerdo con la Ley, siempre que sean ejercitadas por sociedades diferentes y se cumplan los siguientes criterios de independencia:
+a) Las personas responsables de la gestión de sociedades que realicen actividades reguladas no podrán participar en estructuras organizativas del grupo empresarial que sean responsables, directa o indirectamente, de la gestión cotidiana de actividades de producción o comercialización.
+b) Los grupos de sociedades garantizarán la independencia de las personas responsables de la gestión de sociedades que realicen actividades reguladas mediante la protección de sus intereses profesionales. En particular, establecerán garantías en lo que concierne a su retribución y su cese.
+Las sociedades que realicen actividades reguladas y las personas responsables de su gestión que se determine no podrán poseer acciones de sociedades que realicen actividades de producción o comercialización.
+Asimismo, en relación con las actividades reguladas, las personas responsables de la gestión de sociedades que realicen actividades de distribución no podrán participar en estructuras organizativas del grupo empresarial que sean responsables, directa o indirectamente, de la gestión cotidiana de la actividad de transporte, y viceversa.
+Además, las sociedades que realicen actividades reguladas así como sus trabajadores no podrán compartir información comercialmente sensible con las empresas del grupo de sociedades al que pertenecen en el caso de que éstas realicen actividades liberalizadas.
+c) Las sociedades que realicen actividades reguladas tendrán capacidad de decisión efectiva, independiente del grupo de sociedades, con respecto a activos necesarios para explotar, mantener, o desarrollar las instalaciones de regasificación de gas natural licuado, y de transporte, almacenamiento, y distribución de gas natural.
+No obstante, el grupo de sociedades tendrá derecho a la supervisión económica y de la gestión de las referidas sociedades, y podrán someter a aprobación el plan financiero anual, o instrumento equivalente, así como establecer límites globales a su nivel de endeudamiento.
+En ningún caso podrá el grupo empresarial dar instrucciones a las sociedades que realicen actividades reguladas respecto de la gestión cotidiana, ni respecto de decisiones particulares referentes a la construcción o mejora de activos de regasificación de gas natural licuado, y de transporte, almacenamiento, y distribución de gas natural, siempre que no se sobrepase lo establecido en el plan financiero anual o instrumento equivalente.
+d) Las sociedades que realicen actividades reguladas establecerán un código de conducta en el que se expongan las medidas adoptadas para garantizar el cumplimiento de lo estipulado en las letras a), b) y c) anteriores, que será remitido al Ministerio de Industria, Energía y Turismo y a la Comisión Nacional de los Mercados y la Competencia.
+Dicho código de conducta establecerá obligaciones específicas de los empleados, y su cumplimiento será objeto de la adecuada supervisión y evaluación por la persona u órgano competente designado por la sociedad a tal efecto. El encargado de evaluar el cumplimiento será totalmente independiente y tendrá acceso a toda la información de la sociedad y de cualquiera de sus empresas filiales que requiera para el desarrollo de sus funciones.
+Antes del 31 de marzo de cada año, el encargado de evaluar el cumplimiento presentará un informe al Ministerio de Industria, Energía y Turismo y a la Comisión Nacional de los Mercados y de la Competencia, que será publicado en la página web de la empresa y en la de la citada Comisión, indicando las medidas adoptadas para el cumplimiento de lo estipulado en las letras a), b) y c) anteriores.
+5. Sin perjuicio de lo establecido en el apartado 1, cualquier adquisición de participaciones accionariales por parte de aquellas sociedades mercantiles que desarrollen actividades reguladas exigirá la obtención de la autorización previa a que se refiere la disposición adicional undécima de esta Ley.
+6. Las empresas distribuidoras que formen parte de un grupo de sociedades que desarrollen actividades reguladas y no reguladas en los términos previstos en la presente Ley, no crearán confusión en su información y en la presentación de su marca e imagen de marca respecto a la identidad propia de las filiales de su mismo grupo que realicen actividades de comercialización, sin perjuicio de las infracciones previstas en la normativa vigente a este respecto.
+Se modifican los apartados 3 y 4.d) por el art. 67.2 y 3 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifican los apartados 3 y 4.d) por el art. 67.2 y 3 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se modifica por el art. 2.10 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. único.13 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Téngase en cuenta para su aplicación la disposición transitoria 1.
+ Se modifica por el art. 7.5 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Artículo 63 bis
+
+Artículo 63 bis. Certificación de los gestores de red de transporte.
+1. Las sociedades mercantiles que actúen como gestores de red de transporte o gestores de red independientes serán autorizadas y designadas como tales por el Ministro de Industria, Energía y Turismo a solicitud de las interesadas.
+Los gestores de red de transporte, incluyendo los gestores de red independientes, deberán obtener previamente una certificación de cumplimiento de los requisitos de separación de actividades otorgada por la Comisión Nacional de los Mercados y la Competencia en relación con el cumplimiento de los requisitos de separación de actividades establecidos en el artículo 63.3 y de acuerdo con el procedimiento recogido en los apartados siguientes.
+La Comisión Nacional de los Mercados y la Competencia controlará que la sociedad designada como gestor de la red de transporte se mantiene en el cumplimiento de los requisitos establecidos en el artículo 63.3.
+Las designaciones de los gestores de red de transporte se notificarán a la Comisión Europea a efectos de su publicación en el "Diario Oficial de la Unión Europea".
+2. Las empresas que pretendan ser gestores de una instalación perteneciente a la red troncal deberán solicitar la citada certificación a la Comisión Nacional de Energía.
+Asimismo, aquellas empresas que hayan sido certificadas deberán notificar a la Comisión Nacional de Energía cualquier transacción que pueda requerir un control del cumplimiento de los requisitos relativos a la separación de actividades, incluyendo toda circunstancia que pueda ocasionar que una persona o personas de un país no miembro de la Unión Europea asuma el control de parte de la red troncal o de un gestor de red de transporte.
+3. La Comisión Nacional de Energía iniciará el procedimiento de certificación tras la solicitud o notificación por la empresa interesada, tras una solicitud motivada del Ministerio de Industria, Energía y Turismo o de la Comisión Europea o a iniciativa propia en aquellos casos en los que tenga conocimiento de posibles transacciones que puedan dar o hayan dado lugar al incumplimiento de los requisitos establecidos en relación a la separación de actividades.
+4. La Comisión Nacional de Energía previa audiencia y de forma motivada, adoptará una resolución provisional sobre la certificación en el plazo máximo de cuatro meses desde la presentación de la solicitud o notificación. Transcurrido dicho plazo sin haberse dictado resolución expresa se considerará la certificación provisional concedida.
+5. En todos los casos, la Comisión Nacional de Energía deberá comunicar a la Comisión Europea su resolución provisional en relación con la certificación de la empresa interesada acompañada de la documentación pertinente relativa a la misma, con el fin de que ésta emita el correspondiente dictamen previo a la adopción de la resolución definitiva. Asimismo remitirá copia del expediente al Ministerio de Industria, Energía y Turismo.
+De no emitir un dictamen la Comisión Europea en el plazo previsto al efecto en la legislación comunitaria, se considerará que no pone objeciones a la resolución provisional de la Comisión Nacional de Energía.
+6. En el plazo de dos meses desde la recepción del dictamen emitido por la Comisión Europea, o agotados los plazos previstos al efecto en la legislación comunitaria, la Comisión Nacional de Energía resolverá con carácter definitivo sobre la certificación, dando cumplimiento a la decisión de la Comisión Europea. Dicha resolución, junto con el dictamen de la Comisión Europea, deberá publicarse en el «Boletín Oficial del Estado» y en el «Diario Oficial de la Unión Europea». La certificación no surtirá efectos hasta su publicación.
+7. En cualquier fase del procedimiento la Comisión Nacional de Energía y la Comisión Europea podrán solicitar a la empresa transportista o a las empresas que realicen actividades de producción o comercialización cualquier información útil para el cumplimiento de las tareas recogidas en este artículo.
+La Comisión Nacional de Energía garantizará la confidencialidad de la información sensible a efectos comerciales.
+Se modifica el apartado 1 por el art. 67.4 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifica el apartado 1 por el art. 67.4 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. 2.11 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+### Artículo 63 ter
+
+Artículo 63 ter. Certificación en relación con países no pertenecientes a la Unión Europea.
+1. Cuando se solicite una certificación por parte de una empresa que esté controlada por una persona o personas de uno o más países no miembros de la Unión Europea, la Comisión Nacional de Energía lo notificará a la Comisión Europea, así como toda circunstancia que pueda ocasionar que una persona o personas de uno o más terceros países asuman el control de parte de la red troncal o de un gestor de red de transporte.
+2. La Comisión Nacional de Energía iniciará el proceso de certificación de acuerdo con el procedimiento y plazos previstos en el artículo 63 bis.
+En cualquier caso, la Comisión Nacional de Energía denegará la certificación si no se ha demostrado:
+a) que la entidad en cuestión cumple los requisitos del artículo 63, y
+b) que la concesión de la certificación no pondrá en peligro la seguridad de suministro energético nacional y de la Unión Europea, teniendo en cuenta los derechos y obligaciones de España y de la Unión Europea con respecto a dicho tercer país, y otros datos y circunstancias específicos del caso y del tercer país de que se trate.
+En la notificación de la resolución provisional a la Comisión Europea, la Comisión Nacional de Energía solicitará un dictamen específico sobre si la entidad en cuestión cumple los requisitos de separación de actividades, y si la concesión de la certificación no pondrá en peligro la seguridad del suministro de energía a la Unión Europea.
+3. Cuando la resolución definitiva difiera del dictamen de la Comisión Europea, la Comisión Nacional de Energía comunicará y hará público, junto con dicha resolución, la motivación de la misma.
+Se añade por el art. 2.12 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+### Artículo 63 quáter
+
+Artículo 63 quáter. Gestor de red independiente.
+1. Las empresas propietarias de instalaciones de la red troncal de gasoductos que no cumplan los requisitos de separación de actividades establecidos en el artículo 63.3, y que con anterioridad al 3 de septiembre de 2009 fuesen propietarios de dichas instalaciones, así como las que con anterioridad al 23 de mayo de 2019 fuesen propietarias de instalaciones de interconexión con países no miembros de la Unión Europea, podrán optar por ceder la gestión de los mismos a un gestor de red independiente.
+A estos efectos propondrán un gestor de red independiente entre las empresas que hayan obtenido la certificación de cumplimiento de los requisitos de separación de actividades de transporte y solicitarán al titular del Ministerio para la Transición Ecológica y el Reto Demográfico su aprobación. Dicha designación estará supeditada a la aprobación de la Comisión Europea y podrá ser denegada en caso de que el gestor de red independiente no cumpla alguno de los requisitos establecidos en la presente Ley y su normativa de desarrollo.
+2. El gestor de red independiente deberá:
+a) Demostrar que dispone de los recursos humanos, técnicos, financieros y físicos necesarios para llevar a cabo sus funciones.
+b) Disponer de capacidad para cumplir con las obligaciones que impone el Reglamento (CE) n.º 715/2009 del Parlamento Europeo y del Consejo, de 13 de julio de 2009, sobre las condiciones de acceso a las redes de transporte de gas natural y por el que se deroga el Reglamento (CE) n.º 1775/2005, incluida la cooperación de los transportistas en los ámbitos europeo y regional.
+3. Las funciones que deberá llevar a cabo el gestor de red independiente en relación con las instalaciones de la red troncal cuya gestión le hayan sido encomendadas serán:
+a) Conceder y gestionar las solicitudes de acceso a las instalaciones.
+b) Firmar los contratos y recaudar los peajes correspondientes al acceso de terceros a las instalaciones.
+c) Explotar, mantener y desarrollar la red de transporte de acuerdo con lo previsto en la planificación obligatoria, en la presente Ley y su normativa de desarrollo.
+d) Planificar las infraestructuras necesarias para el correcto funcionamiento de las instalaciones que gestionan, tramitar las autorizaciones correspondientes y construir las mismas, siempre y cuando las instalaciones no sean objeto de adjudicación directa de acuerdo con lo dispuesto en el artículo 67.1 de la presente Ley.
+e) Adoptar las medidas necesarias para dar cobertura a las responsabilidades correspondientes a sus funciones en relación con los activos cuya gestión le hayan sido cedidos.
+4. Los propietarios de instalaciones de la red troncal que hayan cedido su gestión a un gestor de red independiente deberán:
+a) Cooperar y apoyar al gestor de red independiente para el desarrollo de sus funciones, incluida la aportación de toda la información necesaria.
+b) Adoptar las medidas necesarias para dar cobertura a la responsabilidad derivada de sus activos, exceptuando la correspondiente a las funciones del gestor de red independiente.
+c) Financiar las inversiones decididas por el gestor de red independiente y aprobadas por la Comisión Nacional de Energía, o dar su consentimiento para que sean financiadas por cualquier parte interesada, incluido el gestor de red independiente. Los correspondientes mecanismos de financiación deberán ser aprobados por la Comisión Nacional de Energía, que previamente deberá consultar al propietario de los activos junto con otras partes interesadas.
+d) Aportar las garantías necesarias para facilitar la financiación de cualquier ampliación de la red, con excepción de las inversiones para cuya financiación por cualquier parte interesada haya dado su consentimiento.
+e) No serán competentes para la concesión y gestión del acceso de terceros a las instalaciones cedidas ni de la planificación de inversiones.
+5. A estos efectos, el gestor de red independiente y el propietario de las instalaciones de la red troncal firmarán un contrato en el que se detallen las condiciones contractuales así como responsabilidades de cada uno. Dicho contrato deberá ser aprobado por la Comisión Nacional de Energía.
+6. La Comisión Nacional de Energía controlará que el propietario de la red de transporte y el gestor de red independiente cumplen lo establecido en el presente artículo. A estos efectos podrá solicitar la información que considere necesaria para el ejercicio de sus funciones y realizar inspecciones, incluso sin previo aviso, de las instalaciones tanto del titular de las instalaciones de transporte como del gestor de red independiente.
+7. La Comisión Nacional de Energía actuará como órgano de resolución de conflictos entre el titular de la instalación de transporte y el gestor de red independiente, cuando uno de ellos lo reclame.
+Se modifica el apartado 1 por la disposicion final 2.2 del Real Decreto-ley 34/2020, de 17 de noviembre. Ref. BOE-A-2020-14368#df-2
+ Se deja sin efecto la modificación del apartado 1 por Resolución de 10 de septiembre de 2020, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-10491
+ Se modifica el apartado 1 por la disposición final 5.2 del Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-9131#df-5
+ Se añade por el art. 2.13 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+## CAPITULO III
+
+Gestión técnica del sistema de gas natural y mercado organizado de gas
+Se modifica por el art. 3.5 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+
+### Artículo 64
+
+Artículo 64. El Gestor Técnico del Sistema.
+1. El Gestor Técnico del Sistema, será responsable de la operación y de la gestión técnica de la Red Básica y de transporte secundario, y garantizará la continuidad y seguridad del suministro de gas natural y la correcta coordinación entre los puntos de acceso, los almacenamientos, el transporte y la distribución.
+El Gestor del Sistema ejercerá sus funciones en coordinación con los distintos sujetos que operan o hacen uso del sistema gasista bajo los principios de transparencia, objetividad e independencia.
+2. Las actividades de gestión técnica que realice el Gestor del Sistema serán retribuidas adecuadamente conforme a lo dispuesto en el Capítulo VII de este Título.
+3. Serán funciones del Gestor Técnico del Sistema las siguientes:
+a) Gestionar todas las instalaciones de la Red Básica del sistema gasista y de transporte secundario.
+b) Determinar y controlar el nivel de garantía de abastecimiento de gas natural del sistema a corto y medio plazo.
+c) Prever a corto y medio plazo la utilización de instalaciones del sistema, así como de las reservas de gas natural, de acuerdo con la previsión de la demanda.
+d) Impartir las instrucciones necesarias para la correcta explotación del sistema de gas natural y su transporte de acuerdo con los criterios de fiabilidad y seguridad que se establezcan. Asimismo, impartirá las instrucciones precisas a los transportistas para ajustar los niveles de emisión de gas natural a la demanda del sistema gasista.
+e) Coordinar y modificar, en su caso, los planes de mantenimiento de instalaciones de forma que se asegure su funcionamiento y disponibilidad para garantizar la seguridad del sistema.
+f) Establecer y controlar las medidas de fiabilidad del sistema de gas natural, así como los planes de actuación para la reposición del servicio en caso de fallos generales en el suministro de gas natural, y coordinar y controlar su ejecución.
+g) Impartir las instrucciones de operación a las instalaciones de transporte, incluidas las interconexiones internacionales.
+h) Desarrollar aquellas otras actividades relacionadas con las anteriores que sean convenientes para el funcionamiento del sistema, así como cualesquiera otras funciones que le sean atribuidas por las disposiciones vigentes.
+i) Proponer al Ministerio de Industria, Turismo y Comercio el desarrollo de la Red Básica de gas natural y la ampliación y/o extensión de los almacenamientos.
+j) Proponer al Ministerio de Industria, Turismo y Comercio los planes de emergencia que considere necesarios, detallando las existencias disponibles, su ubicación y período de reposición de las mismas, así como sus revisiones anuales. Dichos planes y sus revisiones anuales serán objeto de aprobación o modificación por la Dirección General de Política Energética y Minas.
+k) Dar las órdenes oportunas para que las empresas titulares de las redes de instalaciones de la Red Básica y de transporte secundario hagan funcionar sus instalaciones de tal forma que se asegure la entrega de gas en las condiciones adecuadas en los puntos de salida del sistema.
+l) Para realizar y controlar su actuación, el Gestor del Sistema llevará a cabo los programas de entregas que reglamentariamente se determinen.
+m) Gestionar las entradas y salidas de gas natural en el sistema gasista a través de los gasoductos, las Plantas de Recepción, Almacenamiento y Regasificación, los almacenamientos subterráneos y los yacimientos naturales.
+n) (Suprimida.)
+o) Efectuar el cálculo y aplicación del balance diario de cada sujeto que utilice la red gasista y las existencias operativas y estratégicas del mismo.
+p) Ejecutar, en el ámbito de sus funciones, aquellas decisiones que sean adoptadas por el Gobierno en ejecución de lo previsto en la presente Ley.
+q) Colaborar con el Ministerio de Industria, Turismo y Comercio en la evaluación y seguimiento de los planes de inversión anuales y plurianuales presentados por los titulares de las empresas de instalaciones de transporte de gas natural.
+r) Elaborar un informe sobre el cumplimiento por parte de los distintos agentes del sistema y los resultados de las medidas adoptadas por el Gobierno ante situaciones de emergencia. Dicho informe se pondrá a disposición del Ministerio para la Transición Ecológica y de la Comisión Nacional de los Mercados y la Competencia.
+s) Proporcionar a la Corporación de Reservas Estratégicas de Productos Petrolíferos la información que ésta pueda requerir para el ejercicio de su función de mantenimiento de las existencias de carácter estratégico de gas natural.
+t) Realizar en coordinación con el operador del mercado organizado de gas las funciones que reglamentariamente se le asignen para garantizar el correcto funcionamiento de dicho mercado.
+u) Asumir las funciones previstas para el gestor de red de transporte, incluida la realización de acciones de balance, en el Reglamento (UE) n.º 312/2014, de la Comisión, de 26 de marzo de 2014, por el que se establece el código de red sobre el balance del gas en las redes de transporte.
+v) Adquirir o vender en el mercado organizado de gas a que hace referencia el artículo 65 bis de la presente Ley, el gas necesario para el ejercicio de sus funciones y en particular las adquisiciones y ventas de gas para mantener el sistema en operaciones de balance de acuerdo con la normativa aplicable.
+4. El Gestor Técnico del Sistema, tendrá un representante en el Consejo Consultivo de Hidrocarburos de la Comisión Nacional de Energía y en su Comisión Permanente.
+Se modifica la letra r) por el art. 5.6 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+ Se añaden las letras s), t), u), y v) al apartado 3 por el art. 3.4 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+ Se añade la letra r) al apartado 3 por el art. 2.14 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. único.14 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se añade el apartado 4 por el art. 92.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica por el art. 7.6 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Artículo 65
+
+Artículo 65. Normas de gestión técnica del sistema.
+1. El Ministerio para la Transición Ecológica y la Comisión Nacional de los Mercados y la Competencia aprobarán, en el ámbito de sus competencias, la normativa de gestión técnica del sistema que tendrá por objeto propiciar el correcto funcionamiento técnico del sistema gasista y garantizar la continuidad, calidad y seguridad del suministro de gas natural, coordinando la actividad de todos los transportistas.
+2. El Ministerio para la Transición Ecológica aprobará la normativa relacionada con los siguientes aspectos:
+a) Los mecanismos para garantizar el necesario nivel de suministro de gas natural del sistema a corto y medio plazo y el mantenimiento de las existencias mínimas de seguridad.
+b) Los procedimientos de coordinación que garanticen la correcta explotación y mantenimiento de las instalaciones de regasificación, almacenamiento y transporte, de acuerdo con los criterios de fiabilidad y seguridad necesarios, contemplando específicamente la previsión de planes de actuación para la reposición del servicio en caso de fallos generales en el suministro de gas natural.
+c) El procedimiento sobre las medidas a adoptar en el caso de situaciones de emergencia y desabastecimiento.
+d) La calidad del gas y los requisitos de medida.
+e) Los procedimientos de control de las entradas y salidas de gas natural hacia o desde el sistema gasista nacional.
+3. La Comisión Nacional de los Mercados y la Competencia regulará los siguientes aspectos:
+a) El procedimiento de cálculo del balance diario de cada sujeto autorizado a introducir gas natural en el sistema. El sistema de programaciones, nominaciones, renominaciones y repartos.
+b) El procedimiento de gestión y uso de las interconexiones internacionales.
+c) Las mermas y los autoconsumos, debiendo determinarse las cantidades a retener para cada tipo de instalación.
+Se modifica por el art. 5.7 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+ Se modifica el apartado 1 y se suprime el apartado 3 por el art. 7.7 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+ Su anterior numeración era art. 64.
+
+### Artículo 65 bis
+
+Artículo 65 bis. Mercado organizado de gas.
+1. A los efectos de esta Ley se entiende por mercado organizado de gas el integrado por transacciones de compra y venta de gas natural en el punto virtual de balance del sistema de transporte y distribución, mediante la contratación a corto plazo con entrega física de gas. La contratación a corto plazo incluirá al menos, productos con un horizonte de entrega hasta el último día del mes siguiente.
+El mercado organizado integrará asimismo las transacciones de compra y venta de gas u otras transacciones que reglamentariamente se determinen.
+La contratación en el mercado organizado se realizará de forma anónima, libre y voluntaria, en los términos previstos en la presente Ley y en su normativa de desarrollo.
+Reglamentariamente por el Gobierno se regularán los sujetos que podrán actuar en este mercado, las condiciones bajo las que podrán hacerlo, las características de los productos a negociar, el punto virtual de balance del sistema de transporte y distribución y la información que se deberá comunicar al Operador del Mercado y al Gestor Técnico del Sistema, a los efectos de asegurar el correcto funcionamiento del sistema gasista.
+Este mercado se constituye como "Plataforma de Comercio", según se define en el artículo 10 del Reglamento (UE) de la Comisión N.º 312/2014, de 26 de marzo de 2014, por el que se establece un código de red sobre el balance de gas en las redes de transporte.
+2. En todo caso podrán actuar en el mercado organizado de gas los siguientes sujetos:
+a) El operador del mercado organizado de gas que será la sociedad responsable de la gestión del sistema de ofertas de compra y venta de gas en el mercado organizado de gas natural.
+b) Los comercializadores y consumidores directos en mercado que podrán participar a través de la presentación de ofertas de compra y de venta de gas.
+c) El Gestor Técnico del Sistema.
+d) Los transportistas y distribuidores.
+e) La Corporación de Reservas Estratégicas de Productos Petrolíferos.
+f) Cualquier otro sujeto que realice operaciones de compra venta de gas con el resto de los participantes del mercado sin acceder a instalaciones de terceros.
+En este caso el balance de dicho sujeto al final del periodo de balance deberá ser igual a cero. Estos sujetos no necesitarán tener categoría de comercializador siempre que cumplan los requisitos que reglamentariamente se establezcan para la participación en el mercado. Dichos agentes limitarán toda su actividad a la compraventa de gas al resto de los participantes del mercado.
+El gas del que dichos agentes sean titulares solo podrá ser utilizado para el objeto de compra venta mencionada y en ningún caso podrá ser objeto de cesión, o arrendamiento con comercializadores para el cumplimiento de las obligaciones de mantenimiento de existencias de seguridad.
+Se añade por el art. 3.5 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+
+### Artículo 65 ter
+
+Artículo 65 ter. Operador del mercado organizado de gas.
+1. El operador del mercado organizado de gas asume la gestión del sistema de ofertas de compra y venta de gas natural en el mercado de gas natural en los términos y con las funciones que reglamentariamente se establezcan.
+En cualquier caso, serán funciones del operador del mercado:
+a) La recepción de las ofertas de venta y adquisición emitidas por los distintos sujetos que participan en el mercado organizado. El operador del mercado publicará en la plataforma de contratación del mercado los precios y el volumen de las ofertas de venta y adquisición, de forma anónima.
+b) La recepción de las garantías que, en su caso, procedan. La gestión de estas garantías podrá realizarla directamente o a través de terceros autorizados.
+c) La casación y determinación de los precios de los diferentes productos resultantes de las casaciones en el mercado organizado.
+d) La comunicación a los interesados de los resultados de la casación de las ofertas.
+e) La publicación de los precios y volúmenes negociados de cada uno de los productos.
+f) La liquidación y comunicación de los pagos y cobros, directamente o a través de un tercero.
+g) De conformidad con la normativa aplicable la comunicación al Gestor Técnico del Sistema de las operaciones realizadas por los distintos sujetos que participan en el mercado organizado.
+h) Informar públicamente sobre la evolución del mercado con la periodicidad que se determine.
+i) Realizar cualesquiera otras funciones que reglamentariamente le sean atribuidas.
+El operador del mercado ejercerá sus funciones en el sistema gasista español, respetando los principios de transparencia, objetividad, no discriminación e independencia.
+2. Actuará como operador del mercado organizado de gas una sociedad mercantil de cuyo accionariado podrá formar parte cualquier persona física o jurídica.
+La suma de las participaciones directas en el capital de esta sociedad del Operador del Mercado Ibérico de Energía, Polo Español, S.A., y en su caso, del Operador do Mercado Ibérico (Portugal), SGPS, S.A. será igual al 30 por ciento. El peso relativo de la participación de dichas sociedades en el operador del mercado organizado de gas será de 2/3 y 1/3 respectivamente.
+En el caso de los Gestores Técnicos de los sistemas gasistas español y portugués, la suma de las participaciones directas en el capital de esta sociedad será del 20 por ciento. El peso relativo de la participación de ambas sociedades en el operador del mercado organizado de gas será de 2/3 y 1/3 respectivamente.
+En el caso de los sujetos que realicen actividades en el sector energético, la suma de las participaciones directa o indirecta en el capital de esta sociedad no podrá superar el 3 por ciento. Asimismo la suma de participaciones de estos sujetos no podrá superar el 30 por ciento, no pudiendo sindicarse estas acciones a ningún efecto.
+En el caso del resto de los sujetos que participen en la sociedad, su participación directa o indirecta se verá limitada a un máximo del 5 por ciento de forma que no tenga un impacto relevante o influencia significativa en el desarrollo de las actividades de la sociedad.
+En el caso de que alguna persona física o jurídica pusiera de manifiesto a la sociedad mercantil que actúa como operador del mercado su voluntad de participar en el capital de dicha sociedad, la petición se elevará a la Junta General de Accionistas junto con la acreditación del solicitante de realizar o no actividades en el sector del gas natural.
+La Junta General deberá aceptar la solicitud presentada por una cifra máxima de participación equivalente a la media de las participaciones existentes en el tipo de accionista que haya de corresponder al peticionario, haciéndose efectiva a través de alguno o algunos de los siguientes procedimientos:
+a) La voluntad de venta por la sociedad o por alguno de sus accionistas de las correspondientes acciones manifestada en la Junta General.
+b) La ampliación de capital de la sociedad mediante la emisión de nuevas acciones siempre que se respete el límite del 30 por ciento que puede ser suscrito por sujetos que realicen actividades en el sector energético.
+Cuando los solicitantes de participación en el capital del operador del mercado organizado de gas realicen actividades en el sector energético, a fin de respetar el porcentaje mencionado, se podrá acordar una ampliación de capital superior a la necesaria, siempre que se manifieste en la Junta General la voluntad de suscripción de esas acciones por cualquiera de los accionistas que no ejerzan actividades gasistas.
+En todo caso, se excluye el derecho de suscripción preferente de los accionistas sobre las acciones que se emitan para atender las nuevas peticiones de participación.
+3. La retribución del operador del mercado organizado de gas será asumida por todos los agentes que operen en dicho mercado en las condiciones que se fijen por orden del Ministro de Industria, Energía y Turismo.
+Se añade por el art. 3.6 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+
+## CAPITULO IV
+
+Regasificación, transporte y almacenamiento de gas natural
+
+### Artículo 66
+
+Artículo 66. La red de transporte de combustibles gaseosos.
+1. La red de transporte primario está constituida por los gasoductos de presión máxima de diseño igual o superior a 60 bares.
+2. La red de transporte secundario de gas natural está constituida por los gasoductos de presión máxima de diseño inferior a 60 bar y superior a 16 bar.
+3. Asimismo, se consideran elementos constitutivos de la red de transporte las estaciones de compresión y de regulación y medida y todos aquellos activos de comunicaciones, protecciones, control, servicios auxiliares, terrenos, edificaciones y demás elementos auxiliares, necesarios para el adecuado funcionamiento de las instalaciones específicas de la red de transporte antes definida.
+4. Los transportistas serán responsables del desarrollo y ampliación de la red de transporte definida en este artículo, de tal manera que garantice el mantenimiento y mejora de una red configurada bajo criterios homogéneos y coherentes, todo ello sin perjuicio del cumplimiento de lo establecido en el artículo 4 de la presente Ley en materia de planificación de instalaciones.
+5. Se establecerán cuantas normas técnicas sean precisas para garantizar la fiabilidad del suministro de gas y de las instalaciones de la red de transporte y las a ella conectadas. Estas normas tenderán a garantizar la protección y seguridad de las personas y sus bienes, la calidad y fiabilidad en su funcionamiento, la unificación de las condiciones de los suministros, la prestación de un buen servicio y serán objetivas y no discriminatorias.
+Se modifica por el art. único.15 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 67
+
+Artículo 67. Autorizaciones administrativas.
+1. Requieren autorización administrativa previa, en los términos establecidos en esta Ley y en sus disposiciones de desarrollo, la construcción, explotación, modificación, y cierre de las instalaciones de la red básica y redes de transporte reseñadas en el artículo 59, sin perjuicio del régimen jurídico aplicable a los almacenamientos subterráneos de acuerdo con el Título II de la presente Ley.
+La transmisión de estas instalaciones deberá ser autorizada por la Administración competente.
+La autorización administrativa de cierre de una instalación podrá imponer a su titular la obligación de proceder a su desmantelamiento.
+Las autorizaciones de construcción y explotación de los gasoductos de transporte objeto de planificación obligatoria, de acuerdo con el artículo 4 de la presente Ley, deberán ser otorgadas mediante un procedimiento que asegure la concurrencia, promovido y resuelto por la autoridad competente cuando se trate de gasoductos de transporte secundario. En el caso de las instalaciones que formen parte de la red troncal, la construcción y la explotación de las instalaciones serán autorizadas de forma directa a la empresa titular de la mayor parte de las instalaciones de la red troncal. En el caso de otros gasoductos de transporte competencia de la Administración General del Estado, podrán adjudicarse a los titulares de las instalaciones a las que se conecten.
+2. Los solicitantes de autorizaciones para instalaciones de gas relacionadas en el apartado 1 de este artículo deberán acreditar suficientemente los siguientes requisitos:
+a) Las condiciones técnicas y de seguridad de las instalaciones propuestas.
+b) El adecuado cumplimiento de las condiciones de protección del medio ambiente.
+c) La adecuación del emplazamiento de la instalación al régimen de ordenación del territorio.
+d) Su capacidad legal, técnica y económico-financiera para la realización del proyecto.
+3. Las autorizaciones a que se refiere el apartado 1 de este artículo serán otorgadas por la Administración competente, sin perjuicio de las concesiones y autorizaciones sobre protección del dominio público que sean necesarias, de acuerdo con otras disposiciones que resulten aplicables, la correspondiente legislación sectorial y en especial las relativas a la ordenación del territorio, urbanismo y al medio ambiente.
+El procedimiento y otorgamiento de la autorización incluirá el trámite de información pública.
+Otorgada autorización y a los efectos de garantizar el cumplimiento de sus obligaciones, el titular deberá constituir una garantía en torno a un 2 por 100 del presupuesto de las instalaciones.
+La autorización en ningún caso se entenderá concedida en régimen de monopolio ni concederá derechos exclusivos.
+La falta de resolución expresa de las solicitudes de autorización a que se refiere el presente artículo, tendrá efectos desestimatorios. En todo caso, podrá interponerse recurso ordinario ante la autoridad administrativa correspondiente.
+4. Las autorizaciones de instalación de transporte contendrán todos los requisitos que deban ser observados en su construcción y explotación.
+Cuando las instalaciones autorizadas hayan de conectarse a instalaciones ya existentes de distinto titular, éste, o en su caso el gestor de red de transporte o el gestor de red independiente correspondiente, deberá permitir la conexión en las condiciones que reglamentariamente se establezcan.
+5. El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación.
+La Administración competente denegará la autorización cuando no se cumplan los requisitos previstos legalmente o la empresa no garantice la capacidad legal, técnica y económica necesarias para acometer la actividad propuesta.
+Se modifican los apartados 1 y 4 por el art. 2.15 y 16 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se suprime el último párrafo del apartado 2 por el art. 19.9 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica el párrafo cuarto del apartado 1 por el art. 5 del Real Decreto-Ley 6/2009, de 30 de abril. Ref. BOE-A-2009-7581
+ Se modifica el párrafo segundo del apartado 1 por el art. único.16 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 68
+
+Artículo 68. Obligaciones de los titulares de autorizaciones para la regasificación, transporte y almacenamiento de gas natural.
+Los titulares de autorizaciones administrativas para la regasificación de gas natural licuado y para el transporte y almacenamiento de gas natural, así como los gestores de red Independientes, en lo que les sea de aplicación, tendrán las siguientes obligaciones:
+a) Realizar sus actividades en la forma autorizada y conforme a las disposiciones aplicables, prestando el servicio de forma regular y continua, con los niveles de calidad que se determinen y manteniendo las instalaciones en las adecuadas condiciones de conservación e idoneidad técnica, siguiendo las instrucciones impartidas por el Gestor Técnico del Sistema y, en su caso, por la Administración competente.
+b) Presentar al Secretario de Estado de Energía del Ministerio de Industria, Energía y Turismo y a la Comisión Nacional de Energía, antes del 15 de octubre de cada año, los planes de inversión anuales y plurianuales, con un horizonte mínimo de diez años.
+En los planes de inversiones anuales figurarán, como mínimo, los datos de los proyectos previstos para el año siguiente, sus principales características técnicas, presupuesto y calendario de ejecución.
+c) Facilitar el uso de sus instalaciones para los movimientos de gas resultantes de lo dispuesto en la presente Ley, y admitir la utilización de todas sus instalaciones por todos los sujetos autorizados, en condiciones no discriminatorias, de acuerdo con las normas técnicas.
+d) Garantizar la confidencialidad de la información sensible a efectos comerciales que obre en su poder y evitar que se revele información confidencial sobre sus propias actividades de forma discriminatoria que pueda suponer alguna ventaja comercial.
+e) Celebrar los contratos de regasificación, almacenamiento y transporte con quienes tengan derecho de acceso a sus instalaciones.
+f) Proporcionar a cualquier otra empresa que realice actividades de almacenamiento, transporte y distribución, y al gestor del sistema, suficiente información para garantizar que el transporte y el almacenamiento de gas pueda producirse de manera compatible con el funcionamiento seguro y eficaz de la red interconectada.
+g) Proporcionar la información con el detalle y frecuencia con la que sea requerida por parte de la Administración competente y comunicar al Ministerio de Industria, Energía y Turismo los contratos de acceso a sus instalaciones que celebren. Asimismo, deberán comunicar a las Administraciones de las Comunidades Autónomas los contratos de acceso a sus instalaciones cuando estas instalaciones estén situadas total o parcialmente en esa Comunidad Autónoma y el contratante de esos servicios sea un consumidor cualificado, un comercializador o un transportista con instalaciones en esa Comunidad Autónoma.
+h) Participar en el proceso de planificación mediante la propuesta de las instalaciones que consideren necesarias para asegurar la suficiente capacidad de acuerdo con las previsiones de demanda y en base a lo que se determine reglamentariamente.
+Se modifica por el art. 2.17 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se suprime la letra d) por el art. 19.10 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifican las letras a) y b) por el art. único.17 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifica la letra f) por el art. 7.9 del Real Decreto-Ley 6/2000, de 23 de julio. Ref. BOE-A-2000-11836
+
+### Artículo 69
+
+Artículo 69. Derechos de los titulares de instalaciones de regasificación, transporte y almacenamiento de gas natural.
+Los titulares de instalaciones de regasificación, transporte y almacenamiento tendrán los siguientes derechos:
+a) El reconocimiento por parte de la Administración de una retribución por el ejercicio de sus actividades dentro del sistema gasista en los términos establecidos en el Capítulo VII de este Título de la presente Ley.
+b) Exigir que las instalaciones conectadas a las de su propiedad reúnan las condiciones técnicas establecidas y sean usadas en forma adecuada.
+c) Exigir las garantías que determine la Administración para el cobro de peajes y cánones.
+Se modifica por el art. único.18 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 70
+
+Artículo 70. Acceso a las instalaciones de transporte.
+1. Los titulares de las instalaciones deberán permitir la utilización de las mismas a los Consumidores Directos en Mercado y a los comercializadores que cumplan las condiciones exigidas, mediante la contratación separada o conjunta de los servicios de transporte, regasificación y almacenamiento, sobre la base de principios de no discriminación, transparencia y objetividad. El precio por el uso de las redes de transporte vendrá determinado por los peajes en vigor.
+Deberán asimismo permitir la utilización de dichas instalaciones a la Corporación de Reservas Estratégicas de Productos Petrolíferos, en el ejercicio de su función de constitución, mantenimiento y gestión de las existencias de carácter estratégico de gas natural.
+2. Sin perjuicio del desarrollo reglamentario de lo previsto en el presente artículo, la Comisión Nacional de los Mercados y la Competencia aprobará mediante Circular la metodología y las condiciones de acceso y conexión que comprenderá el contenido de las solicitudes y permisos, los criterios económicos, los criterios para la evaluación de la capacidad, los motivos para su denegación, el contenido mínimo de los contratos, y las obligaciones de publicidad y transparencia de la información relevante para el acceso y la conexión.
+3. En el caso del acceso a instalaciones de regasificación, almacenamiento básico, transporte y distribución, el acceso será regulado.
+La planificación obligatoria determinará el carácter básico de los almacenamientos en base a criterios económicos y técnicos, así como las necesidades de almacenamiento, tanto estratégico como operativo, para el funcionamiento eficiente del sistema.
+En el caso de los almacenamientos no básicos, incluidos con carácter indicativo en la planificación, el acceso será negociado con base en criterios transparentes, objetivos y no discriminatorios. Las instalaciones quedarán excluidas del régimen retributivo del sistema de gas natural.
+Los titulares de los almacenamientos no básicos presentarán a la Comisión Nacional de Energía la metodología de asignación de capacidad a sus instalaciones y las metodologías para el cálculo de los cánones con objeto de que ésta pueda verificar que se cumplen lo criterios de transparencia, objetividad y no discriminación incluidos en el párrafo anterior.
+Asimismo habrán de comunicar a la Comisión Nacional de Energía y al Ministerio de Industria, Energía y Turismo las principales condiciones comerciales, servicios ofrecidos, contratos que suscriban, relación de precios por la utilización de las instalaciones, así como las modificaciones que se produzcan en los mismos, en un plazo máximo de tres meses. La Comisión Nacional de Energía hará pública la parte de esta información que no sea sensible a efectos comerciales.
+4. Podrá denegarse el acceso a la red en caso de insuficiente capacidad o cuando el acceso a la red impidiera cumplir las obligaciones de suministro que se hubieran impuesto o debido a dificultades económicas y financieras graves que pudieran derivarse de la ejecución de los contratos de compra obligatoria, en las condiciones y con el procedimiento que se establezca siguiendo los criterios de la legislación uniforme comunitaria que se dispongan.
+El acceso a la red por parte de la Corporación de Reservas Estratégicas de Productos Petrolíferos no podrá limitarse o denegarse, y en todo caso será preferente respecto del de los otros sujetos, en situaciones de emergencia y en ejecución de las medidas que para las mismas en cada caso apruebe el Gobierno.
+5. Podrá, asimismo, previa conformidad de la Comisión Nacional de Energía, denegarse el acceso a la red, cuando la empresa suministradora de gas, directamente o por medio de acuerdos con otras empresas suministradoras, o aquéllas a las que cualquiera de ellas esté vinculada, radique en un país en el que no estén reconocidos derechos análogos y se considere que pueda resultar una alteración del principio de reciprocidad para las empresas a las que se requiere el acceso, ello sin perjuicio de los criterios a seguir respecto de empresas de Estados miembros de la Unión Europea conforme a la legislación uniforme en la materia que ésta establezca.
+6. Con carácter excepcional, se podrá exceptuar de la obligación de acceso de terceros en relación con determinadas instalaciones nuevas o las modificaciones de instalaciones existentes que supongan aumento significativo de capacidad o que permitan el desarrollo de nuevas fuentes de suministro de gas que por sus características singulares así lo requieran, de acuerdo con el procedimiento de autorización de la exención recogido en el artículo 71 de la presente Ley.
+En el caso de conexiones internacionales con instalaciones de países terceros, que no formen parte de la Unión Europea, la citada excepción se hará constar en la planificación en materia de hidrocarburos elaborada por el Gobierno de acuerdo con lo establecido en el artículo 4.
+La citada excepción supondrá la no inclusión de la instalación en el régimen retributivo del sector de gas natural.
+7. Los consumos que se suministren exclusivamente a través de acometidas o líneas directas conectadas a instalaciones de acceso al sistema acogidas a lo dispuesto en el apartado 5 del presente artículo, deberán cumplir las obligaciones impuestas en la presente Ley, y en particular las derivadas del artículo 98, con instalaciones no incluidas en la Red Básica.
+Se modifica el apartado 2 y el primer párrafo del 4 por el art. 5.8 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+ Se modifica el apartado 2 y se añade el párrafo segundo a los apartados 1 y 4 por el art. 3.7 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+ Se modifica por el art. 2.18 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. único.19 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se añade el apartado 5 por el art. 31 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Artículo 71
+
+Artículo 71. Exención de obligación de acceso de terceros.
+1. Podrá solicitarse la exención de la obligación de acceso de terceros a la que se refiere el apartado 6 del artículo 70, siempre que las mismas cumplan las siguientes condiciones:
+a) La inversión debe reforzar la competencia en el suministro de gas y potenciar la seguridad de suministro.
+b) El nivel de riesgo inherente a la inversión es tal que ésta no se llevaría a cabo de no concederse la exención.
+c) La infraestructura será propiedad de una entidad distinta, al menos en la personalidad jurídica, de los transportistas en cuyas redes vaya a construirse la infraestructura.
+d) Se cobrarán cánones a los usuarios de la infraestructura
+e) La exención no debe ser perjudicial para la competencia en los mercados pertinentes que probablemente se verán afectados por la inversión, ni para el funcionamiento efectivo del mercado interior del gas natural de la Unión, ni tampoco para el funcionamiento eficiente de las redes reguladas afectadas o para la seguridad de suministro de gas natural dentro de la Unión.
+La exención del acceso de terceros podrá referirse a la totalidad o parte de la capacidad de la nueva infraestructura o de la infraestructura existente cuya capacidad se aumenta.
+2. A estos efectos el titular de la instalación solicitará la exención al Ministerio para la Transición Ecológica y el Reto Demográfico, que requerirá un informe previo de la Comisión Nacional de los Mercados y la Competencia.
+La Comisión Nacional de los Mercados y la Competencia remitirá a la Comisión Europea copia de las solicitudes de exención recibidas y analizará cada caso en particular, tomando en consideración, entre otros aspectos, la capacidad adicional que vaya a construirse o la modificación de la capacidad existente, el plazo previsto del proyecto y las circunstancias del sector gasista. En su informe, la Comisión Nacional de los Mercados y la Competencia propondrá condiciones en relación con la duración de la exención y el acceso no discriminatorio a la infraestructura.
+Asimismo, en su informe, la Comisión Nacional de los Mercados y la Competencia propondrá las normas y mecanismos de gestión y asignación de la capacidad. En todo caso, se realizará una consulta previa a todos los posibles usuarios en relación a su interés por contratar la nueva capacidad antes de efectuar la asignación de la misma, incluyendo la capacidad para uso propio. Los resultados de dicha consulta previa serán tenidos en cuenta por la Comisión Nacional de los Mercados y la Competencia en la evaluación del cumplimiento de los criterios establecidos en el apartado 1 del presente artículo.
+La capacidad no utilizada deberá ser ofrecida en el mercado de forma transparente, objetiva y no discriminatoria, y los usuarios de la infraestructura tendrán derecho a vender la capacidad contratada en el mercado secundario.
+3. La Comisión Nacional de los Mercados y la Competencia, antes de la adopción de su informe final sobre la exención, consultará:
+a) a las autoridades reguladoras nacionales de los Estados miembros cuyos mercados probablemente se verán afectados por la nueva infraestructura, y
+b) las autoridades competentes de terceros países, cuando la infraestructura en cuestión esté conectada con la red de la Unión Europa bajo la jurisdicción de un Estado miembro, y tenga su origen o fin en uno o más países no pertenecientes a la Unión Europea.
+Cuando las autoridades consultadas del tercer país no respondan a la consulta en el plazo de dos meses, la Comisión Nacional de los Mercados y la Competencia podrá continuar con la tramitación de la exención.
+La Comisión Nacional de los Mercados y la Competencia elevará el informe junto con toda la documentación que conste en el expediente al titular del Ministerio para la Transición Ecológica y el Reto Demográfico que resolverá mediante orden que será publicada en el “Boletín Oficial del Estado”. Asimismo, se publicará dicha orden junto con el informe adoptado por la Comisión Nacional de los Mercados y la Competencia en el sitio de internet de dicho organismo
+4. La orden de exención será notificada a la Comisión Europea junto con toda la información pertinente relacionada con la misma, a los efectos del artículo 36.9 de la Directiva 2009/73/CE del Parlamento Europeo y del Consejo, de 13 de julio y, en su caso, se adaptará, o se revocará, según sea la decisión que adopte la Comisión en virtud del citado artículo.
+5. La decisión de exención aprobada por la Comisión Europea dejará de tener efectos a los dos años de su aprobación si, para entonces, no se hubiese iniciado la construcción de la infraestructura, y a los cinco años de su aprobación si, para entonces, la infraestructura no estuviera operativa, a menos que la Comisión Europea decida que los retrasos están motivados.
+6. En aquellos casos en que la infraestructura para la que se ha solicitado la exención se encuentre ubicada en el territorio de más de un Estado miembro de la Unión Europea, se estará a lo dispuesto en el artículo 36.4 de la Directiva 2009/73/CE del Parlamento Europeo y del Consejo, de 13 de julio.
+Se modifica por la disposicion final 2.3 del Real Decreto-ley 34/2020, de 17 de noviembre. Ref. BOE-A-2020-14368#df-2
+ Se deja sin efecto la modificación de este precepto por Resolución de 10 de septiembre de 2020, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-10491
+ Se modifica por la disposición final 5.3 del Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-9131#df-5
+ Se añade por el art. 2.19 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se suprime por el art. 19.11 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 71 bis
+
+Artículo 71 bis. Exenciones relativas a los gasoductos de transporte con destino u origen en países no pertenecientes a la Unión Europea.
+1. Los gasoductos de transporte con destino u origen en países no pertenecientes a la Unión Europea cuya construcción hubiera finalizado con anterioridad al 23 de mayo de 2019 podrán quedar exceptuados de lo establecido en los artículos 63.3, 63 bis, 63 ter y 70 de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, durante un periodo máximo de 20 años a contar desde el 24 de mayo de 2020, prorrogables en casos debidamente justificados, conforme a lo previsto en el apartado 3.
+2. Los titulares de los gasoductos de transporte con destino u origen en países no pertenecientes a la Unión Europea podrán solicitar la exención referida en el apartado primero al titular del Ministerio para la Transición Ecológica y el Reto Demográfico, siempre y cuando se justifique por razones objetivas como permitir la recuperación de la inversión realizada, por motivos de seguridad del suministro, el funcionamiento efectivo del mercado interior del gas en la Unión Europea y cuando la exención no sea perjudicial para la competencia.
+3. El titular del Ministerio para la Transición Ecológica y el Reto Demográfico resolverá, previo informe de la Comisión Nacional de los Mercados y la Competencia en relación al eventual impacto sobre la competencia o el funcionamiento efectivo del mercado interior del gas en la Unión Europea, otorgando o denegando la exención en función de la verificación del cumplimiento de las razones objetivas mencionadas en el párrafo anterior. La resolución de la prórroga de exención podrá establecer limitaciones que contribuyan a la consecución de los objetivos citados.
+4. La exención establecida en los apartados precedentes no implica la inclusión de las instalaciones en el régimen retributivo del sector de gas natural.
+La capacidad no utilizada deberá ser ofrecida en el mercado de forma transparente, objetiva y no discriminatoria, y los usuarios de las infraestructuras tendrán derecho a vender la capacidad contratada en el mercado secundario.
+5. Los titulares de las instalaciones exceptuadas en esta disposición deberán remitir a la Comisión Nacional de los Mercados y de la Competencia, y al Ministerio para la Transición Ecológica y el Reto Demográfico, un informe anual con el detalle de la utilización de la capacidad de gasoducto durante el año natural inmediatamente anterior, las empresas que han accedido a las instalaciones con las cantidades transportadas por cada una de ellas, precios de acceso así como cualquier otra información que los citados organismos soliciten. Dicho informe deberá remitirse antes de la finalización del primer trimestre de cada año.
+Transcurrido un año del otorgamiento de la exención, los titulares de las instalaciones exceptuadas en esta disposición deberán remitir al Ministerio para la Transición Ecológica y el Reto Demográfico un calendario de actuaciones para garantizar el pleno cumplimiento de lo establecido en los artículos 63.3, 63 bis, 63 ter y 70 de la Ley 34/1998, de 7 de octubre, antes de que finalice el periodo de la exención.
+6. Los titulares de las instalaciones deberán llevar cuentas separadas de las actividades de transporte y comercialización e incluirán las cuentas en el informe anual al que hace referencia el apartado anterior.
+Se añade por la disposicion final 2.4 del Real Decreto-ley 34/2020, de 17 de noviembre. Ref. BOE-A-2020-14368#df-2
+ Se deja sin efecto la adición de este precepto por Resolución de 10 de septiembre de 2020, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-10491
+ Se añade por la disposición final 5.4 del Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-9131#df-5
+
+## CAPITULO V
+
+Distribución de combustibles gaseosos por canalización
+
+### Artículo 72
+
+Artículo 72. Regulación de la distribución.
+1. La distribución de combustibles gaseosos se regirá por la presente Ley, sus normas de desarrollo y por la normativa que dicten las Comunidades Autónomas en el ámbito de sus competencias. El Gobierno establecerá, asimismo, la normativa que se requiera en materia de coordinación, y funcionamiento.
+2. La ordenación de la distribución tendrá por objeto establecer y aplicar principios comunes que garanticen su adecuada relación con las restantes actividades gasistas, determinar las condiciones de tránsito de gas por dichas redes, establecer la suficiente igualdad entre quienes realizan la actividad en todo el territorio y la fijación de condiciones comunes equiparables para todos los usuarios.
+Se modifica por el art. 5.9 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+
+### Artículo 73
+
+Artículo 73. Autorización de instalaciones de distribución de gas natural.
+1. Se consideran instalaciones de distribución de gas natural los gasoductos con presión máxima de diseño igual o inferior a 16 bares y aquellos otros que, con independencia de su presión máxima de diseño, tengan por objeto conducir el gas a un único consumidor, partiendo de un gasoducto de la red básica de transporte secundario.
+Asimismo, tendrán también la consideración de instalaciones de distribución las plantas satélites de gas natural licuado que alimenten a una red de distribución.
+Igualmente, tendrán la consideración de instalaciones de distribución las instalaciones de conexión entre la red de transporte y distribución en los términos y condiciones que reglamentariamente se determinen.
+2. Estarán sujetas a autorización administrativa previa, en los términos establecidos en esta Ley y en sus disposiciones de desarrollo, la construcción, modificación, explotación y cierre de las instalaciones de distribución de gas natural con independencia de su destino o uso.
+La transmisión de estas instalaciones deberá ser autorizada por la Administración competente.
+La autorización administrativa de cierre de una instalación podrá imponer a su titular la obligación de proceder a su desmantelamiento.
+3. Los solicitantes de autorizaciones para instalaciones de gas relacionadas en el apartado anterior deberán acreditar suficientemente el cumplimiento de los siguientes requisitos:
+a) Las condiciones técnicas y de seguridad de las instalaciones propuestas.
+b) El adecuado cumplimiento de las condiciones de protección del medio ambiente.
+c) La adecuación del emplazamiento de la instalación al régimen de ordenación del territorio.
+d) Su capacidad legal, técnica y económico-financiera para la realización del proyecto.
+4. Las autorizaciones a que se refiere el apartado 2 serán otorgadas por la Administración competente, sin perjuicio de las concesiones y autorizaciones que sean necesarias, de acuerdo con otras disposiciones que resulten aplicables, la correspondiente legislación sectorial y, en especial, las relativas a la ordenación del territorio y al medio ambiente.
+El procedimiento de autorización incluirá el trámite de información pública y la forma de resolución en el supuesto de concurrencia de dos o más solicitudes de autorización.
+Otorgada la autorización y a los efectos de garantizar el cumplimiento de sus obligaciones, el titular deberá constituir una garantía del dos por ciento del presupuesto de las instalaciones.
+La autorización en ningún caso se concederá con derechos exclusivos de uso.
+La falta de resolución expresa de las solicitudes de autorización a que se refiere este artículo, tendrá efectos desestimatorios. En todo caso, podrá interponerse recurso ordinario ante la autoridad administrativa correspondiente.
+5. Las autorizaciones de instalaciones de distribución contendrán todos los requisitos que deban ser observados en su construcción y explotación, la delimitación de la zona en la que se debe prestar el suministro, los compromisos de expansión de la red en dicha zona que debe asumir la empresa solicitante y, en su caso, el plazo para la ejecución de dichas instalaciones y su caracterización.
+Cuando las instalaciones autorizadas hayan de conectarse a instalaciones ya existentes de distinto titular, éste deberá permitir la conexión en las condiciones que reglamentariamente se establezcan.
+6. El incumplimiento de las condiciones, requisitos establecidos en las autorizaciones o la variación sustancial de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación.
+La Administración competente denegará la autorización cuando no se cumplan los requisitos previstos legalmente o la empresa no garantice la capacidad legal, técnica y económica necesarias para acometer la actividad propuesta.
+7. Las autorizaciones de construcción y explotación de instalaciones de distribución deberán ser otorgadas preferentemente a la empresa distribuidora de la zona. En caso de no existir distribuidor en la zona, se atenderá a los principios de monopolio natural del transporte y la distribución, red única y de realización al menor coste para el sistema gasista.
+Se añaden los párrafos segundo y tercero al apartado 1 por el art. 3.8 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+ Téngase en cuenta para su aplicación la disposición transitoria 5.1 de la citada ley.
+ Se suprime la letra e) del apartado 3 por el art. 19.12 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifican los apartados 2 y 7 por el art. único.20 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifica el apartado 4 por el art. 28 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+ Se modifica el apartado 1 por el art. 7.10 del Real Decreto 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Artículo 74
+
+Artículo 74. Obligaciones de los distribuidores de gas natural.
+1. Serán obligaciones de los distribuidores de gas natural:
+a) Realizar sus actividades en la forma autorizada y conforme a las disposiciones aplicables, garantizando los niveles de calidad que se establezcan reglamentariamente.
+b) Cumplir las instrucciones que dicte el gestor técnico del sistema y en su caso, la Administración competente en relación con el acceso de terceros a sus redes de distribución.
+c) Mantener las instalaciones en las adecuadas condiciones de conservación e idoneidad técnica.
+d) Proceder a la ampliación de las instalaciones de distribución y facilitar las conexiones, en el ámbito geográfico de su autorización, en condiciones de igualdad, cuando así sea necesario para atender nuevas demandas de suministro de gas, sin perjuicio de lo que resulte de la aplicación del régimen que reglamentariamente se establezca para las acometidas.
+Cuando existan varios distribuidores cuyas instalaciones sean susceptibles de ampliación para atender nuevos suministros y ninguno de ellos decidiera acometerla, la Administración competente determinará cuál de estos distribuidores deberá realizarla, atendiendo a sus condiciones.
+e) Facilitar el uso de sus instalaciones y efectuar los contratos de acceso a terceros a la red de gas natural en las condiciones que se determinen reglamentariamente.
+f) Proporcionar a las empresas de transporte, almacenamiento, comercialización de gas natural y al Gestor Técnico del Sistema suficiente información para garantizar que el suministro de gas pueda producirse de forma compatible con el funcionamiento seguro y eficaz del sistema.
+g) Comunicar a la Administración competente que hubiese otorgado las autorizaciones de instalaciones, y al Ministerio de Industria, Turismo y Comercio las modificaciones relevantes de su actividad, a los efectos de determinación de los peajes y la fijación de su régimen de retribución.
+h) Comunicar a la Administración competente y al Ministerio de Industria, Turismo y Comercio la información que se determine relacionada con la actividad que desarrollen dentro del sector gasista. Asimismo, deberán comunicar a cada Comunidad Autónoma toda la información que les sea requerida por ésta, relativa a su ámbito territorial.
+i) Estar inscritos en el Registro Administrativo de Distribuidores de combustibles gaseosos por canalización a que se refiere el presente Título.
+j) Realizar las acometidas y el enganche de nuevos usuarios de acuerdo con lo que reglamentariamente se establezca.
+k) Proceder a la medición de los suministros en la forma que reglamentariamente se determine, preservándose, en todo caso, la exactitud de la misma y la accesibilidad a los correspondientes aparatos facilitando el control de las Administraciones competentes.
+l) Suministrar a la Oficina de Cambios de Suministrador la información que se determine reglamentariamente.
+m) Aplicar las medidas que se establezcan en relación a la protección de consumidores que tengan la consideración de esenciales.
+n) Mantener un sistema operativo que asegure la atención permanente y la resolución de las incidencias que, con carácter de urgencia, puedan presentarse en las redes de distribución y en las instalaciones receptoras de los consumidores conectados a sus instalaciones.
+o) Realizar las pruebas previas al suministro que se definan reglamentariamente.
+p) Comunicar a los usuarios conectados a su red, con la periodicidad y en las condiciones definidas reglamentariamente, la necesidad de realizar la inspección de las instalaciones receptoras.
+En dicha comunicación se informará a los usuarios de la posibilidad de realizar dicha inspección con cualquier empresa instaladora de gas natural habilitada.
+Si en el plazo y en la forma en que se determine, no existe una comunicación a la empresa distribuidora relativa a la realización de la inspección por una empresa instaladora de gas natural habilitada, la empresa distribuidora estará obligada a realizar la inspección.
+Reglamentariamente se establecerán los procedimientos y efectos de no haber remitido el correspondiente certificado a la empresa distribuidora.
+q) Poner en práctica los programas de gestión de la demanda aprobados por la Administración.
+r) Procurar un uso racional de la energía.
+s) Presentar al órgano competente de la Comunidad Autónoma en la que desarrollen su actividad, antes del 15 de octubre de cada año, los planes de inversión anuales y plurianuales.
+En los planes de inversión anuales figurarán, como mínimo, los datos de los proyectos previstos para el año siguiente, sus principales características técnicas, presupuesto y calendario de ejecución.
+t) Cumplir los plazos que se establezcan reglamentariamente para las actuaciones que les corresponden en relación con los cambios de suministrador. El plazo que se establezca reglamentariamente no podrá ser superior en ningún caso a las tres semanas.
+2. Sin perjuicio de la responsabilidad que se deriva de las obligaciones que corresponden a los distribuidores de conformidad con lo previsto en el presente artículo, los titulares de instalaciones receptoras de gas natural o instalaciones para consumo, serán responsables de su correcto uso, modificación, mantenimiento e inspección periódica en las condiciones técnicas y de seguridad que resulten exigibles.
+Se modifica la letra p) del apartado 1 por el art. 3.9 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+ Se añade la letra t) al apartado 1 por el art. 2.20 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica la letra i) del apartado 1 por el art. 19.13 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica por el art. único.21 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 75
+
+Artículo 75. Derechos de los distribuidores.
+Los titulares de instalaciones de distribución tendrán los siguientes derechos:
+a) El reconocimiento por parte de la Administración y la percepción de una retribución por el ejercicio de sus actividades dentro del sistema gasista en los términos establecidos en el Capítulo VII del presente Título.
+b) Exigir que las instalaciones conectadas a las de su propiedad reúnan las condiciones técnicas establecidas y sean utilizadas en forma adecuada.
+c) Exigir que las instalaciones, aparatos receptores y equipos de medida de los consumidores reúnan las condiciones técnicas y de construcción que se determinen, así como el buen uso de las mismas y el cumplimiento de las condiciones establecidas para que el suministro se produzca sin deterioro o degradación de su calidad para otros consumidores.
+d) Promover la construcción de instalaciones receptoras comunes, con el fin de extender el suministro de gas natural, de acuerdo a las condiciones que reglamentariamente se determinen.
+e) Facturar y cobrar de los comercializadores y consumidores directos en mercado los peajes de acceso en los plazos establecidos por la legislación. Además, podrán facturar y cobrar otros servicios asociados al suministro en las condiciones que se establezcan reglamentariamente.
+f) Solicitar la verificación del buen funcionamiento de los equipos de medición de suministros.
+g) Recibir la información de la Oficina de Cambios de Suministrador que se determine reglamentariamente relativa a los cambios de suministro.
+h) Exigir las garantías que se determinen por los peajes de acceso a sus instalaciones.
+Se modifica por el art. único.22 de la Ley 12/2007, de 2 julio. Ref. BOE-A-2007-12869
+
+### Artículo 76
+
+Artículo 76. Acceso a las redes de distribución de gas natural.
+1. Los titulares de las instalaciones de distribución deberán permitir la utilización de las mismas a los Consumidores Directos en Mercado, y a los comercializadores que cumplan las condiciones exigidas, sobre la base de principios de no discriminación, transparencia y objetividad. El precio por el uso de redes de distribución vendrá determinado por los peajes administrativamente aprobados.
+2. El distribuidor solo podrá denegar el acceso a la red en caso de que no disponga de la capacidad necesaria. La denegación deberá ser motivada. La falta de capacidad necesaria solo podrá justificarse por criterios de seguridad, regularidad o calidad de los suministros, atendiendo a las exigencias que a estos efectos se establezcan.
+3. Sin perjuicio del desarrollo reglamentario de lo previsto en el presente artículo, la Comisión Nacional de los Mercados y la Competencia aprobará mediante Circular la metodología y las condiciones de acceso y conexión que comprenderá el contenido de las solicitudes y permisos, los criterios económicos, los criterios para la evaluación de la capacidad, los motivos para su denegación, el contenido mínimo de los contratos, y las obligaciones de publicidad y transparencia de la información relevante para el acceso y la conexión.
+Se modifican los apartados 2 y 3 por el art. 5.10 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+ Se modifican los apartados 1 y 3 por el art. único.23 de la Ley 12/2007, de 2 de junio. Ref. BOE-A-2007-12869
+
+### Artículo 77
+
+Artículo 77. Distribución de otros combustibles gaseosos.
+1. Se consideran instalaciones de distribución de otros combustibles gaseosos, las plantas de fabricación de gases combustibles a que hace referencia el artículo 56 y los gasoductos necesarios para el suministro desde las plantas anteriores hasta los consumidores finales.
+2. La autorización de estas instalaciones se regirá por lo dispuesto en el artículo 73, valorándose la conveniencia de diseñar y construir las instalaciones compatibles para la distribución de gas natural, y tendrán las obligaciones y derechos que se recogen en los artículos 74 y 75 de la presente Ley, con la excepción de las obligaciones relativas al acceso de terceros a las instalaciones y el derecho a adquirir gas natural al precio de cesión.
+3. Las empresas titulares de las instalaciones que regula este artículo, tendrán derecho a transformar las mismas, cumpliendo las condiciones técnicas de seguridad que sean de aplicación, para su utilización con gas natural, para lo cual deberán solicitar la correspondiente autorización a la Administración concedente de la autorización, sometiéndose en todo lo dispuesto para las instalaciones de distribución de gas natural.
+Se modifica el apartado 1 por el art. único.5 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 78
+
+Artículo 78. Líneas directas.
+1. Se entiende por línea directa al gasoducto complementario del sistema gasista, destinado al suministro exclusivo de un consumidor mediante una conexión directa con la red de transporte o a la conexión de una planta de producción de gases renovables con el sistema gasista destinada a la inyección de gas en él.
+2. Las líneas directas destinadas al suministro exclusivo de un consumidor mediante una conexión directa con la red de transporte quedarán excluidas de la planificación en materia de hidrocarburos y de la aplicación de las disposiciones en materia de expropiación y servidumbres establecidas en la presente ley, sometiéndose al ordenamiento jurídico general.
+Las líneas directas de conexión de una planta de producción de gases renovables con el sistema gasista destinada a la inyección de gas en él quedarán excluidas de la planificación en materia de hidrocarburos y se declaran de utilidad pública a los efectos de expropiación forzosa y ejercicio de la servidumbre de paso, aplicándose lo dispuesto en el título V de esta ley.
+3. Los consumidores, así como los productores de gases renovables, podrán construir las líneas directas por sus propios medios, o solicitar su construcción a una empresa transportista o a la empresa distribuidora con autorización administrativa en la zona. La titularidad de la línea directa será del consumidor o productor de gas renovable. Las líneas directas estarán excluidas del régimen retributivo de las actividades de transporte y distribución.
+4. El titular de la línea directa deberá permitir la apertura a terceros conforme a lo que reglamentariamente se disponga. La Comisión Nacional de los Mercados y la Competencia resolverá los conflictos de conexión y acceso que se produzcan.
+5. Con independencia de su presión máxima de diseño, la tramitación de estas instalaciones corresponderá al órgano competente de la Comunidad Autónoma por donde discurren, excepto cuando atraviesen más de una, en cuyo caso la autorización corresponderá a la Administración General del Estado conforme al procedimiento general de autorización, establecido en el título IV del Real Decreto 1434/2002, de 27 de diciembre.
+En el caso de líneas directas de inyección será necesario informe vinculante del Gestor Técnico del Sistema.
+6. Los consumos que se alimenten mediante una línea directa o acometida desde una planta de regasificación de la red básica cumplirán las obligaciones establecidas en la presente ley, y en particular las derivadas del artículo 98, con infraestructuras que no se encuentren incluidas en la red básica.
+Se modifica por el art. 13.1 del Real Decreto-ley 18/2022, de 18 de octubre de 2022. Ref. BOE-A-2022-17040#a1-5
+ Se modifica por la disposición final 4.3 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df-4
+ Se añade el apartado 4 por el art. único.24 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+## CAPITULO VI
+
+Comercialización de combustibles gaseosos
+Se modifica el título por el art. único.25 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 79
+
+Artículo 79. Comercialización.
+1. Sin perjuicio de lo establecido en el artículo 60, reglamentariamente se regularán los siguientes aspectos en relación a la comercialización del gas natural:
+a) Las modalidades y condiciones de suministro a los consumidores así como los procedimientos de denegación, suspensión o privación del mismo.
+b) El procedimiento de medición del consumo mediante la instalación de aparatos de medida y la verificación de éstos.
+c) El procedimiento y condiciones de facturación y cobro de los suministros y servicios efectuados.
+d) Las medidas de protección del consumidor que deben recogerse en las condiciones contractuales para el suministro de aquellos consumidores que por su volumen de consumo o condiciones de suministro requieran un tratamiento contractual específico.
+e) Procedimientos de cambio de comercializador.
+f) Procedimiento de resolución de las reclamaciones.
+2. Sin perjuicio de las competencias que correspondan a las Comunidades Autónomas y sin perjuicio del establecimiento por los comercializadores de sistemas propios de tramitación de reclamaciones que se ajusten a lo dispuesto en la Recomendación 98/257/CE de la Comisión, de 30 de marzo de 1998, relativa a los principios aplicables a los órganos responsables de la solución extrajudicial de los litigios en materia de consumo, se preverá reglamentariamente la posibilidad de acudir al Sistema Arbitral de Consumo para la resolución de tales reclamaciones.
+Se modifica por el art. único.26 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 80
+
+Artículo 80. Comercializadores de gas natural.
+1. Los comercializadores de gas natural deberán cumplir con los requisitos que se establezcan reglamentariamente, entre los que se incluirá la suficiente capacidad técnica del solicitante. Las empresas comercializadoras deberán presentar las garantías que resulten exigibles.
+Siempre deberán comunicar a la Administración competente y, en todo caso, al Ministerio de Industria, Energía y Turismo, que a su vez lo comunicará a la Comisión Nacional de los Mercados y la Competencia y a la Corporación de Reservas Estratégicas de Productos Petrolíferos el inicio o cese de la actividad, acompañando la comunicación de una declaración responsable sobre el cumplimiento de los requisitos a que se refiere el párrafo anterior.
+Junto con la referida comunicación de inicio de la actividad, los comercializadores de gas natural deberán remitir al Ministerio de Industria, Energía y Turismo una previsión de ventas para el primer año de actividad desglosada entre ventas firmes a consumidor final, ventas interrumpibles a consumidor final y otro tipo de ventas.
+Los comercializadores de gas natural deberán acreditar el cumplimiento de estos requisitos en caso de que les sea requerido por la Administración competente, el Ministerio de Industria, Energía y Turismo o por la Comisión Nacional de los Mercados y la Competencia.
+Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria deberá ser comunicado por el interesado, en el plazo máximo de un mes a partir del momento en que se produzca.
+En el caso de empresas habilitadas para comercializar gas natural en un país miembro de la Unión Europea con el que exista un acuerdo mutuo de reconocimiento de licencias de comercialización de gas natural bastará la comunicación de inicio o cese de la actividad, sin perjuicio de la constitución de las garantías económicas que sean necesarias en la contratación de acceso a las instalaciones.
+2. La Comisión Nacional de Energía publicará en su página web un listado de los comercializadores de gas natural que incluirá aquellas sociedades que hayan comunicado a la Administración competente el ejercicio de esta actividad.
+Se modifica el apartado 1 por el art. 3.10 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+ Se modifica por el art. 19.14 de la Ley 25/2009, de 22 de julio. Ref. BOE-A-2009-20725
+ Se modifica por el art. único.27 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Téngase en cuenta para su aplicación la disposición transitoria 8.
+
+### Artículo 81
+
+Artículo 81. Derechos y Obligaciones de los comercializadores.
+1. Los comercializadores tendrán los siguientes derechos:
+a) Realizar adquisiciones de gas en los términos establecidos en el Capítulo II de este Título.
+b) Vender gas natural a los consumidores y a otros comercializadores autorizados en condiciones libremente pactadas.
+c) Acceder a las instalaciones de terceros en los términos establecidos en este Título.
+d) Recibir la medición de los suministros de sus clientes.
+e) Exigir que los equipos de medida de los usuarios reúnan las condiciones técnicas y de construcción que se determinen, así como el buen uso de los mismos.
+f) Facturar y cobrar los suministros realizados.
+g) Solicitar la verificación del buen funcionamiento de los equipos de medición de suministros.
+h) Suscribir con sus clientes cláusulas de interrumpibilidad en las condiciones que reglamentariamente se determinen.
+i) Obtener la información relativa a los cambios de suministrador y los datos de los consumidores de la Oficina de Cambios de Suministrador que se determine reglamentariamente.
+2. Los comercializadores tendrán las siguientes obligaciones:
+a) Comunicar a la Administración competente el inicio o cese en el ejercicio de la actividad y cumplir con los requisitos reglamentariamente establecidos.
+b) Cumplir las obligaciones de mantenimiento de existencias mínimas de seguridad y diversificación de suministros establecidas en el Capítulo VIII.
+c) Coordinar su actividad con el gestor técnico del sistema, los transportistas y los distribuidores.
+d) Adquirir el gas y suscribir los contratos de acceso necesarios para cumplir los compromisos contractuales con sus clientes.
+e) Prestar las garantías que se determinen por los peajes y cánones de acceso contratados.
+f) Abonar en los plazos establecidos en la legislación los peajes y cánones de acceso a las instalaciones gasistas que correspondan.
+g) Abonar al distribuidor las cantidades recaudadas por servicios asociados al suministro prestados por el distribuidor al consumidor final en aquellos casos que hayan sido establecidos reglamentariamente.
+h) Garantizar la seguridad del suministro de gas natural a sus clientes suscribiendo contratos de regasificación de gas natural licuado, de transporte y distribución y de almacenamiento que sean precisos.
+i) Remitir al Ministerio de Industria, Turismo y Comercio la información periódica que se determine en relación con la actividad que desarrollen dentro del sector gasista. Dicha remisión de información incluirá, entre otras, las cantidades vendidas y los precios de venta aplicados en la forma y plazo que se establezcan. Asimismo, remitir a las Comunidades Autónomas la información que específicamente les sea reclamada relativa a su ámbito territorial.
+j) Facilitar a sus clientes la información y asesoramiento que pudiesen solicitar en relación al suministro de gas.
+k) Suministrar a la Oficina de Cambios de Suministrador la información que reglamentariamente se determine.
+l) Poner en práctica los programas de gestión de la demanda aprobados por la Administración.
+m) Procurar un uso racional de la energía.
+n) Para el suministro a consumidores finales deberán disponer de un servicio de atención a sus quejas, reclamaciones, solicitudes de información o comunicaciones de cualquier incidencia en relación al servicio contratado u ofertado, poniendo a su disposición una dirección postal, un servicio de atención telefónica y un número de teléfono, ambos gratuitos, un número de fax y una dirección de correo electrónico al que los mismos puedan dirigirse directamente. Dicho sistema de comunicación electrónica, deberá emitir de forma automatizada un acuse de recibo con indicación de la fecha, hora y número de solicitud, de manera que exista una seguridad de que la solicitud del ciudadano ha tenido entrada. Los prestadores comunicarán su dirección legal si esta no coincide con su dirección habitual para la correspondencia.
+o) Mantener a disposición del Ministerio de Industria, Energía y Turismo, de la Comisión Nacional de Energía, la Comisión Nacional de la Competencia y de la Comisión Europea, durante al menos cinco años, los datos pertinentes sobre todas las transacciones de los contratos de suministro de gas y los derivados relacionados con el gas suscritos con los clientes mayoristas y los gestores de redes de transporte, así como con los gestores de almacenamientos y de redes de GNL.
+p) Informar a los clientes sobre los sistemas de resolución extrajudicial de conflictos de los que dispone y la forma de acceso a los mismos.
+q) Cumplir los plazos que se establezcan reglamentariamente para las actuaciones que les corresponden en relación con los cambios de suministrador. El plazo que se establezca reglamentariamente no podrá ser superior en ningún caso a las tres semanas.
+r) Los comercializadores de gas natural no podrán realizar publicidad no solicitada en visitas domiciliarias sobre sus productos, excepto en el caso de que el destinatario haya solicitado por iniciativa propia recibir información sobre el servicio por dicho medio. La entidad anunciante será considerada la responsable del cumplimiento del presente apartado.
+s) Los comercializadores de gas natural no podrán realizar prácticas de contratación en los domicilios de los clientes de forma directa, salvo que exista una petición expresa por parte del cliente y a propia iniciativa para establecer la cita.
+t) Los comercializadores deberán publicar información transparente, comparable, adecuada y actualizada sobre los precios aplicables a todas las ofertas disponibles en cada momento para consumidores con consumo anual inferior a 50.000 kWh, y, en su caso, sobre las condiciones relacionadas con la terminación de los contratos, así como información sobre los servicios adicionales que exija su contratación.
+En los casos en que realicen ofertas para nuevas contrataciones limitadas en el tiempo publicarán tanto el precio ofertado como el precio resultante una vez transcurrido el límite temporal de la oferta. Ambos precios deberán ser publicitados con el mismo tipo y tamaño de letra, indicando claramente los periodos temporales de aplicación.
+Los precios deberán ser publicados indicando el término fijo (€/mes) y el término variable (€/kWh). En los casos de tarifas planas, se indicará los precios con el mismo formato, sin perjuicio de la modalidad de pago, de forma que todas las tarifas sean fácilmente comparables por el consumidor. En caso de que alguno de los términos de la tarifa se actualice mediante algún índice, este deberá ser público y se deberá indicar la forma de cálculo de forma que sea fácilmente reproducible por el usuario, incluyendo los parámetros empleados y la evolución reciente.
+En el caso de que las ofertas incluyan algún tipo de penalización por rescisión del contrato, esta deberá ser claramente legible, sin que la diferencia del tamaño de la letra pueda ser superior a un 10% respecto al resto del texto que describe la oferta.
+Toda esta información será facilitada a través de todos los medios de comunicación en los que se publiciten, y en todo caso en su página web, debiendo ser remitida también a la Comisión Nacional de los Mercados y la Competencia, según los criterios que establezca esta, con el fin de que estén a disposición todos los consumidores a través de su herramienta web Comparador de Ofertas de Energía.
+3. Los Consumidores Directos en Mercado tendrán los mismos derechos y obligaciones que los comercializadores en todo aquello que les sea de aplicación.
+Se añade la letra t) al apartado 2 por el art. 5.1 del Real Decreto-ley 23/2021, de 26 de octubre de 2021. Ref. BOE-A-2021-17458#a5
+ Se añaden las letras r) y s) al apartado 2 por el art. 13.1 del Real Decreto-Ley 15/2018, de 5 de octubre. Ref. BOE-A-2018-13593#a1-5
+ Se añaden las letras n) a q) al apartado 2 por el art. 2.21 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica la letra a) del apartado 2 por el art. 19.15 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica por el art. único.28 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifica la letra c) por el art. 7.11 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Artículo 82
+
+Artículo 82. Suministradores de último recurso.
+El Gobierno determinará qué comercializadores asumirán la obligación de suministradores de último recurso.
+Además de los derechos y obligaciones establecidas para los comercializadores en el artículo 81, los comercializadores de gas que hayan sido designados como suministradores de último recurso deberán atender las solicitudes de suministro de gas natural, de aquellos consumidores que se determinen, a un precio máximo establecido por el Ministro de Industria, Turismo y Comercio, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, que tendrá la consideración de tarifa de último recurso.
+Asimismo, en caso de que un comercializador no cumpla algunas de las obligaciones establecidas en las letras d), e), f), g) y h) a que hace referencia el artículo 81.2 de la presente Ley, o no cumpla en los plazos que se establezcan otras obligaciones de pago frente al sistema gasista, el Ministerio de Industria, Turismo y Comercio determinará, previo trámite de audiencia y de forma motivada, objetiva y transparente, el traspaso de los clientes de dicho comercializador a un comercializador de último recurso, sin que dicha circunstancia suponga cargas extraordinarias para el comercializador de último recurso. Asimismo, determinará las condiciones de suministro de dichos clientes.
+Lo anterior se entenderá sin perjuicio de las sanciones que puedan derivarse de acuerdo con lo establecido en el Título VI de la presente Ley.
+Se modifica por el art. 19.16 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica por el art. único.29 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se añade la letra d) por el art. 11.1 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+
+### Artículo 83
+
+Artículo 83. Registro Administrativo de Distribuidores.
+Se crea, en el Ministerio de Industria, Turismo y Comercio, el Registro Administrativo de Distribuidores de combustibles gaseosos por canalización. Reglamentariamente, previo informe de las Comunidades Autónomas, se establecerá su organización, así como los procedimientos de inscripción y comunicación de datos a este registro.
+Las Comunidades Autónomas con competencias en la materia podrán crear y gestionar los correspondientes registros territoriales.
+Se modifica por el art. 19.17 de la Ley 25/2009, de 22 de diciembre.Ref. BOE-A-2009-20725
+ Se modifica por el art. único.30 de la ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifica el apartado 1.h) y se suprimen las letras a), f) y g) del apartado 2 por el art. 11.2 y 3 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+ Se añade el apartado 2.f) y se reordenan los anteriores apartados 2.f) y g) como 2.g) y h) por el art. 7.12 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Artículo 83 bis
+
+Artículo 83 bis. Oficina de Cambios de Suministrador.
+(Derogado).
+Se deroga por la disposición derogatoria única.1.h.) de la Ley 24/2013, de 26 de diciembre. Ref. BOE-A-2013-13645.
+ Se añade por el art. único.31 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 84
+
+Artículo 84. Programas de gestión de la demanda.
+1. Los distribuidores y comercializadores, en coordinación con los diversos agentes que actúan sobre la demanda, podrán desarrollar programas de actuación que, mediante una adecuada gestión de la demanda gasista, mejoren el servicio prestado a los usuarios y la eficiencia y ahorro energéticos.
+2. Sin perjuicio de lo anterior, las Administraciones públicas podrán adoptar medidas que incentiven la mejora del servicio a los usuarios y la eficiencia y el ahorro energético, directamente o a través de agentes económicos cuyo objeto sea el ahorro y la introducción de la mayor eficiencia en el uso final del gas natural.
+
+### Artículo 85
+
+Artículo 85. Planes de ahorro y eficiencia energética.
+La Administración General del Estado y las Comunidades Autónomas, en el ámbito de sus respectivas competencias territoriales, podrán, mediante planes de ahorro y eficiencia energética, establecer las normas y principios básicos para potenciar las acciones encaminadas a la consecución de la optimización de los rendimientos de los procesos de transformación de la energía, inherentes a sistemas productivos o de consumo.
+Cuando dichos planes de ahorro y eficiencia energética establezcan acciones incentivadas con fondos públicos, las citadas Administraciones podrán exigir a las personas físicas o jurídicas participantes la presentación de una auditoría energética de los resultados obtenidos.
+Por real decreto del Consejo de Ministros se regularán los términos y condiciones en los que los comercializadores de gas natural podrán acceder a determinada información relativa al consumo de los consumidores con la finalidad de que puedan ofrecerles actuaciones tendentes a favorecer la gestión de demanda u otro tipo de medidas de eficiencia energética, bien directamente, o bien a través de empresas de servicios energéticos, respetando en todo caso la protección de datos de carácter personal.
+Se añade un párrafo final por el art. 13.2 del Real Decreto-Ley 15/2018, de 5 de octubre. Ref. BOE-A-2018-13593#a1-5
+
+### Artículo 86
+
+Artículo 86. Calidad del suministro de combustibles gaseosos.
+1. El suministro de combustibles gaseosos deberá ser realizado por las empresas titulares de autorizaciones previstas en la presente Ley, de forma continuada cuando así sea contratado y con las características que reglamentariamente se determinen.
+Para ello, las empresas gasistas contarán con el personal y medios necesarios para garantizar la calidad del servicio exigida por las reglamentaciones vigentes.
+Las empresas gasistas y, en particular, los distribuidores y comercializadores promoverán la incorporación de tecnologías avanzadas en la medición y para el control de la calidad del suministro de combustibles gaseosos.
+2. Si la baja calidad de la distribución de una zona es continua, o pudiera producir consecuencias graves para los usuarios, o concurrieran circunstancias especiales que puedan poner en peligro la seguridad en el servicio gasista, la Administración competente establecerá reglamentariamente las directrices de actuación, estableciéndose su ejecución y puesta en práctica, que deberán ser llevadas a cabo por los distribuidores para restablecer la calidad del servicio.
+3. Si se constatara que la calidad del servicio individual prestado por la empresa es inferior a la exigible, se aplicarán las reducciones en la facturación abonada por los usuarios, de acuerdo con el procedimiento reglamentariamente establecido al efecto.
+
+### Artículo 87
+
+Artículo 87. Potestad inspectora.
+1. Los órganos de la Administración competente dispondrán, de oficio o a instancia de parte, la práctica de cuantas inspecciones y verificaciones se precisen para comprobar la regularidad y continuidad en la prestación del suministro, así como para garantizar la seguridad de las personas y bienes.
+Las actuaciones de inspección deberán concluir en un plazo de doce meses contado desde la fecha de notificación de su inicio al interesado. Se entenderá que las actuaciones finalizan en la fecha en que se notifique el acta en que se documente su conclusión y resultado. Reglamentariamente podrán determinarse los supuestos de suspensión del plazo indicado.
+2. Las inspecciones a que alude el párrafo anterior cuidarán, en todo momento, de que se mantengan las características de los combustibles gaseosos suministrados dentro de los límites autorizados oficialmente.
+Se añade el párrafo segundo al apartado 1 por el art. 3.11 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+
+### Artículo 88
+
+Artículo 88. Suspensión del suministro.
+1. El suministro de combustibles gaseosos a los consumidores sólo podrá suspenderse cuando conste dicha posibilidad en el contrato de suministro, que nunca podrá invocar problemas de orden técnico o económico que lo dificulten, o por causa de fuerza mayor o situaciones de las que se pueda derivar amenaza cierta para la seguridad de las personas o las cosas, salvo lo dispuesto en los apartados siguientes.
+En el caso de suministro a consumidores cualificados se estará a las condiciones de garantía de suministro o suspensión que hubieran pactado.
+2. Podrá, no obstante, suspenderse temporalmente cuando ello sea imprescindible para el mantenimiento, seguridad del suministro, reparación de instalaciones o mejora del servicio. En todos estos supuestos, la suspensión requerirá autorización administrativa previa y comunicación a los usuarios en la forma que reglamentariamente se determine.
+3. En las condiciones que reglamentariamente se determine podrá ser suspendido el suministro de combustibles gaseosos por canalización a los consumidores privados sujetos a tarifa cuando hayan transcurrido dos meses desde que se les hubiera sido requerido fehacientemente el pago, sin que el mismo se hubiera hecho efectivo. A estos efectos el requerimiento se practicará por cualquier medio que permita tener constancia de la recepción por el interesado o su representante, así como de la fecha, la identidad y el contenido del mismo.
+En el caso de las Administraciones públicas, transcurridos dos meses desde que les hubiera sido requerido fehacientemente el pago sin que el mismo se hubiera efectuado, comenzarán a devengarse intereses que serán equivalentes al interés legal del dinero incrementado en 1,5 puntos. Si transcurridos cuatro meses desde el primer requerimiento el pago no se hubiera hecho efectivo, podrá interrumpirse el suministro.
+En ningún caso podrá ser suspendido el suministro de combustibles gaseosos por canalización a aquellas instalaciones cuyos servicios hayan sido declarados como esenciales. Reglamentariamente se establecerán los criterios para determinar qué servicios deben ser entendidos como esenciales. No obstante, las empresas distribuidoras o comercializadoras podrán afectar los pagos que perciban de aquellos de sus clientes que tengan suministros vinculados a servicios declarados como esenciales en situación de morosidad, al abono de las facturas correspondientes a dichos servicios, con independencia de la asignación que el cliente, público o privado, hubiera atribuido a estos pagos.
+4. Una vez realizado el pago de lo adeudado por el consumidor al que se le ha suspendido el suministro, le será repuesto éste de inmediato.
+
+### Artículo 89
+
+Artículo 89. Normas técnicas y de seguridad de las instalaciones.
+1. Las instalaciones de producción, regasificación, almacenamiento, transporte y distribución de combustibles gaseosos, instalaciones receptoras de los usuarios, los equipos de consumo, así como los elementos técnicos y materiales para las instalaciones de combustibles gaseosos deberán ajustarse a las correspondientes normas técnicas de seguridad y calidad industriales, de conformidad a lo previsto en la Ley 21/1992, de 16 de julio, de industria, sin perjuicio de lo previsto en la normativa autonómica correspondiente.
+2. Las reglamentaciones técnicas en la materia tendrán por objeto:
+a) Proteger a las personas y la integridad y funcionalidad de los bienes que puedan resultar afectados por las instalaciones.
+b) Conseguir la necesaria regularidad en los suministros.
+c) Establecer reglas de normalización para facilitar la inspección de las instalaciones, impedir una excesiva diversificación del material y unificar las condiciones del suministro.
+d) Obtener la mayor racionalidad y aprovechamiento económico de las instalaciones.
+e) Incrementar la fiabilidad de las instalaciones y la mejora de la calidad de los suministros de gas.
+f) Proteger el medio ambiente y los derechos e intereses de consumidores y usuarios.
+g) Conseguir los niveles adecuados de eficiencia en el uso del gas.
+3. Sin perjuicio de las restantes autorizaciones reguladas en el presente Título y a los efectos previstos en el presente artículo, la construcción, ampliación o modificación de instalaciones de gas requerirá la correspondiente autorización administrativa en los términos que reglamentariamente se disponga.
+Las ampliaciones de las redes de distribución, dentro de cada zona autorizada, podrán ser objeto de una autorización conjunta para todas las proyectadas en el año.
+
+### Artículo 90
+
+Artículo 90. Cobertura de riesgos.
+El Gobierno, de acuerdo con lo previsto en el artículo 30 de la Ley 26/1984, de 19 de julio, general para la defensa de los consumidores y usuarios, adoptará las medidas e iniciativas necesarias para que se establezca la obligatoriedad de la cobertura de los riesgos que, para las personas y bienes, puedan derivarse del ejercicio de las actividades reguladas en el presente Título.
+
+## CAPITULO VII
+
+Régimen económico
+
+### Artículo 91
+
+Artículo 91. Régimen económico de las actividades incluidas en la Ley.
+1. Las actividades destinadas al suministro de combustibles gaseosos serán retribuidas económicamente en la forma dispuesta en la presente Ley con cargo a las tarifas de último recurso, los peajes, cánones y cargos y a los precios abonados. No obstante lo anterior, las conexiones de los yacimientos de gas natural con las instalaciones de transporte serán costeadas por el titular de la concesión de explotación del yacimiento y no se incluirán entre los costes del sistema gasista.
+2. Se establecerá el régimen económico de los derechos por acometidas, alquiler de contadores y otros costes necesarios vinculados a las instalaciones. Los derechos a pagar por las acometidas serán establecidos por las Comunidades Autónomas en función del caudal máximo que se solicite y de la ubicación del suministro, con los límites superior e inferior que determine la Comisión Nacional de los Mercados y la Competencia. Los derechos de acometida deberán establecerse de forma que aseguren la recuperación de las inversiones realizadas. Los ingresos por este concepto se considerarán, a todos los efectos, retribución de la actividad de distribución.
+3. Las Comunidades Autónomas, respecto a los distribuidores que desarrollen su actividad en su ámbito territorial, establecerán el régimen económico de los derechos de alta, así como los demás costes derivados de servicios necesarios para atender los requerimientos de suministros de los usuarios.
+Se modifican los apartados 1 y 2 por el art. 5.11 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+ Se modifica el apartado 1 por el art. 3.12 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+ Téngase en cuenta para su aplicación la disposición transitoria 5.2 de la citada ley.
+ Se modifica por el art. único.32 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 92
+
+Artículo 92. Criterios para determinación de peajes, cánones y cargos.
+1. La Comisión Nacional de los Mercados y la Competencia aprobará, mediante resolución que se publicará en el “Boletín Oficial del Estado”, los precios de los peajes y cánones de acceso a las instalaciones de transporte, distribución y plantas de gas natural licuado de acuerdo con la metodología y estructura que a estos efectos sea aprobada por dicha Comisión.
+El Gobierno establecerá la metodología para el cálculo de los cánones de los servicios básicos de acceso a los almacenamientos subterráneos. El titular del Ministerio para la Transición Ecológica, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, aprobará los precios de los cánones de acceso a los almacenamientos subterráneos básicos
+Los peajes y cánones tendrán en cuenta los costes incurridos por el uso de las instalaciones de manera que se optimice el uso de las infraestructuras y podrán diferenciarse por niveles de presión, características del consumo y duración de los contratos.
+Estos precios deberán respetar el principio de sostenibilidad económica y financiera del sistema gasista y ser suficientes para cubrir los costes por el uso de las instalaciones de transporte, distribución y plantas de gas natural licuado.
+Los peajes y cánones deberán establecerse de forma que su determinación responda en su conjunto a los siguientes principios:
+a) Asegurar la recuperación de las inversiones realizadas por los titulares en el período de vida útil de las mismas.
+b) Permitir una razonable rentabilidad de los recursos financieros invertidos.
+c) Determinar el sistema de retribución de los costes de explotación de forma que se incentive una gestión eficaz y una mejora de la productividad que deberá repercutirse en parte a los usuarios y consumidores.
+2. El Gobierno, previo informe de la Comisión Nacional de los Mercados y la Competencia, establecerá la estructura y la metodología de cálculo de los cargos destinados a cubrir otros costes regulados del sistema que no estén asociados al uso de las instalaciones de acuerdo con lo establecido en el artículo 59 de la Ley 18/2014, de 15 de octubre, sin perjuicio de lo dispuesto para los peajes y cánones de transporte, distribución y plantas de gas natural licuado.
+Con carácter general, los peajes y cánones de acceso a las instalaciones gasistas, así como los cargos, se establecerán anualmente, correspondiendo a la Comisión Nacional de los Mercados y la Competencia la aprobación de los peajes y cánones de acceso a las instalaciones de transporte, distribución y plantas de Gas Natural Licuado.
+El titular del Ministerio para la Transición Ecológica, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, aprobará los cargos, así como los cánones de acceso a los almacenamientos subterráneos.
+3. Las empresas que realicen las actividades reguladas en el presente Título facilitarán a la Comisión Nacional de los Mercados y la Competencia y al Ministerio para la Transición Ecológica cuanta información sea necesaria para la determinación de los peajes, y cánones y cargos. Esta información estará también a disposición de las Comunidades Autónomas que lo soliciten, en lo relativo a su ámbito territorial.
+4. Las empresas comercializadoras deberán desglosar en sus facturas a los consumidores finales la cuantía correspondiente a los peajes, cánones y cargos.
+Se modifica por el art. 5.12 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+ Se añade el párrafo segundo al apartado 5 por el art. 3.13 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+ Se modifican los apartados 3, 4 y 5 por el art. 2.22 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. único.33 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 93
+
+Artículo 93. Tarifa de último recurso.
+1. La tarifa de último recurso será el precio máximo que podrán cobrar los comercializadores que, de acuerdo con lo previsto en el artículo 82 de la presente ley, hayan sido designados como comercializadores de último recurso, a los consumidores siguientes:
+a) Consumidores individuales con presión de suministro igual o inferior a 4 bar y consumo anual inferior a 50.000 kWh.
+b) Comunidades de propietarios de viviendas de uso residencial y agrupaciones de ellas, constituidas conforme los artículos 5 y 24 de la Ley 49/1960, de 21 de julio, sobre propiedad horizontal, así como a las empresas de servicios energéticos que les presten servicio,
+c) Edificios de titularidad pública destinados a viviendas de uso residencial y edificios de patronatos o de organizaciones sin ánimo de lucro destinados al mismo uso, así como a las empresas de servicios energéticos que les presten servicio.
+2. Los puntos de suministro referidos en los párrafos b) y c) del apartado anterior no tendrán limitación de consumo anual ni de presión de suministro, debiendo cumplir los dos siguientes requisitos:
+a) Deberán disponer de contadores individuales de calefacción o repartidores de costes de calefacción, salvo que se encuentren eximidas de esta obligación por inviabilidad técnica en los términos establecidos en el punto a) del anexo I del Real Decreto 736/2020, de 4 de agosto, por el que se regula la contabilización de consumos individuales en instalaciones térmicas de edificios.
+b) Deberán haber realizado en plazo, con resultado positivo, la inspección de eficiencia energética, conforme el artículo 31 del Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios.
+3. Las empresas de servicios energéticos que se acojan a esta tarifa deberán trasladar de manera íntegra el ahorro obtenido en el coste de adquisición del gas natural al precio unitario aplicado por el servicio de calefacción y agua caliente sanitaria.
+4. La tarifa de último recurso será única en todo el territorio español sin perjuicio de sus especialidades por niveles de presión y volumen de consumo.
+5. La persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dictará las disposiciones necesarias para el establecimiento de la tarifa de último recurso de gas natural o un sistema de determinación y actualización automática de la misma.
+6. El sistema de cálculo de la citada tarifa incluirá de forma aditiva el coste de la materia prima, peajes y cánones de acceso, cargos, costes de comercialización y los costes derivados de la seguridad de suministro.
+7. Las tarifas de último recurso se fijarán de forma que no ocasionen distorsiones de la competencia en el mercado.
+8. Se habilita al Gobierno a modificar los requisitos de aplicación de la tarifa en función de las condiciones de mercado.
+Se modifica por el art. 25 del Real Decreto-ley 4/2024, de 26 de junio de 2024. Ref. BOE-A-2024-12944#a2-7
+ Se modifica por el art. único.34 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Esta modifcación es aplicable a partir del día 1 de enero de 2008, según establece la disposición transitoria 4.
+ Se modifica por el art. 12.1 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+ Se modifica por el art. 108.3 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+
+### Artículo 94
+
+Artículo 94. Tarifas de los gases licuados del petróleo por canalización.
+El Ministro de Industria, Turismo y Comercio, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, podrá dictar las disposiciones necesarias para el establecimiento de las tarifas de venta de los gases licuados del petróleo por canalización para los consumidores finales, así como los precios de cesión de gases licuados del petróleo para los distribuidores de gases combustibles por canalización, estableciendo los valores concretos de dichas tarifas y precios o un sistema de determinación y actualización automática de las mismas, si así se requiere y en los términos que se establezcan por el desarrollo reglamentario que regule el marco de la actividad de suministro de gases licuados del petróleo.
+Se modifica por el art. único.35 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifica el apartado 1, se suprime el 4 y se reenumera el 5 como 4 por el art. 12.2 a 4 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+
+### Artículo 95
+
+Artículo 95. Impuestos y tributos.
+1. La tarifa de último recurso, los peajes y cánones y los precios de los servicios asociados al suministro aprobados por la Administración para cada categoría de consumo no incluirán ningún tipo de impuesto.
+En caso de que las actividades gasistas fueran gravadas con tributos de carácter autonómico o local, cuya cuota se obtuviera mediante reglas no uniformes para el conjunto del territorio español, al precio del gas resultante, o a los peajes, cánones o tarifa de último recurso, se le podrá incluir un suplemento territorial, que podrá ser diferente en cada Comunidad Autónoma.
+2. Con el fin de que exista la mayor transparencia en los precios del suministro de gas, los comercializadores desglosarán en la facturación al usuario, en la forma que reglamentariamente se determine, al menos los importes correspondientes a los precios y los tributos que graven el consumo de gas, así como los suplementos territoriales cuando correspondan.
+Se modifica por el art. único.36 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 96
+
+Artículo 96. Cobro y liquidación de peajes y cánones.
+Los peajes y cánones por el uso de la red gasista serán cobrados por las empresas que realicen las actividades de transporte y distribución, debiendo dar a las cantidades ingresadas la aplicación que proceda de acuerdo con lo previsto en la presente Ley.
+Reglamentariamente se establecerá el procedimiento de reparto de los fondos ingresados por los transportistas y distribuidores, entre quienes realicen las actividades incluidas en el sistema gasista, atendiendo a la retribución que les corresponda de conformidad con la presente Ley.
+Se modifica por el art. único.37 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifica el título y se añaden los dos últimos párrafos por el art. 7.13 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Artículo 97
+
+Artículo 97. Liberalización de precios.
+1. Cuando la situación del mercado lo haga recomendable, el Gobierno podrá acordar la liberalización, total o parcial, de las tarifas, peajes y cánones regulados en el presente capítulo.
+2. Excepcionalmente, el Gobierno podrá establecer precios máximos de gas aplicables por los comercializadores a las ventas realizadas a los consumidores cualificados, cuando la falta de desarrollo del mercado gasista o situaciones de dominio de mercado lo hagan aconsejable.
+
+## CAPITULO VIII
+
+Seguridad de suministro
+
+### Artículo 98
+
+Artículo 98. Seguridad de suministro.
+1. Los comercializadores de gas natural estarán obligados a disponer de unas existencias mínimas de seguridad que vendrán expresadas en días equivalentes de sus ventas firmes a consumidores finales en territorio español.
+Los Consumidores Directos en Mercado, estarán obligados a disponer de unas existencias mínimas de seguridad que vendrán expresadas en días equivalentes de sus consumos firmes en la parte no suministrada por un comercializador.
+2. Esta obligación podrá cumplirse por el sujeto obligado con gas de su propiedad o arrendando y contratando, en su caso, los correspondientes servicios de almacenamiento. El Gobierno determinará en función de las disponibilidades del sistema el número de días equivalentes de existencias mínimas de seguridad.
+3. Reglamentariamente se determinará la parte de existencias mínimas de seguridad que tendrán carácter estratégico y las que tendrán carácter operativo, así como la forma en que éstas podrán computarse y los sujetos encargados de su constitución, mantenimiento y gestión.
+La constitución, mantenimiento y gestión de las existencias mínimas de seguridad de carácter estratégico podrá ser llevada a cabo por la Corporación a que se refiere el artículo 52 en las condiciones y proporciones que se establezcan reglamentariamente.
+Las existencias mínimas de seguridad se mantendrán en los almacenamientos básicos y en las proporciones que reglamentariamente se determinen, sin perjuicio de lo establecido en el artículo 78.4 de la presente Ley.
+4. Se habilita al Ministro de Industria, Energía y Turismo a establecer la forma y las condiciones en las que los sujetos obligados en España y en su caso la Corporación de Reservas Estratégicas de Productos Petrolíferos podrán cumplir su obligación mediante la constitución de reservas en Estados miembros de la Unión Europea. Asimismo, podrá determinar la forma y las condiciones en las que los sujetos obligados en dichos países podrán constituir existencias mínimas de seguridad en territorio español.
+Se modifica por el art. 3.14 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a3.
+ Se añade el apartado 4 por el art. 19.18 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica por el art. único.38 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 99
+
+Artículo 99. Diversificación de los abastecimientos.
+1. Los comercializadores de gas natural deberán diversificar sus aprovisionamientos cuando en la suma de todos ellos la proporción de los provenientes de un mismo país sea superior al 60 %.
+El Ministerio de Industria, Turismo y Comercio, desarrollará reglamentariamente las condiciones para el cumplimiento de esta obligación atendiendo a la situación del mercado y podrá modificar el porcentaje a que se refiere el párrafo anterior, al alza o a la baja, en función de la evolución de los mercados internacionales de gas natural.
+2. En los términos que reglamentariamente se determinen, el Ministerio de Industria, Turismo y Comercio podrá exigir similares obligaciones de diversificación de aprovisionamiento a las establecidas en el punto anterior a los consumidores directos en mercados por la parte de su consumo no adquirida a comercializadores cuando, por su volumen y origen, puedan incidir negativamente en el balance de abastecimientos al mercado español.
+3. Estará eximido de la obligación de diversificación el abastecimiento del gas adquirido para atender el consumo de instalaciones que cuenten con suministros alternativos garantizados de otro combustible.
+Se modifica por el art. único.39 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 100
+
+Artículo 100. Control por la Administración.
+La Administración competente podrá inspeccionar el cumplimiento de los requisitos y condiciones de seguridad y diversificación establecidos en los artículos anteriores, solicitando, en su caso, cuanta información sea necesaria.
+En los casos que esta competencia corresponda a la Administración General del Estado, la inspección y control de las existencias mínimas de seguridad y la diversificación será realizada por la Corporación de Reservas Estratégicas de Productos Petrolíferos a que hace referencia el artículo 52. Reglamentariamente se determinará el funcionamiento y participación de los sujetos que actúan en el sector gasista como miembros de dicha Corporación.
+El Ministerio de Industria, Energía y Turismo en colaboración con la Corporación de Reservas Estratégicas de Productos Petrolíferos elaborará y publicará, antes del 31 de julio de cada año, un informe con los resultados de la supervisión de los aspectos relativos a la seguridad de suministro, así como las medidas adoptadas o previstas para solventar los problemas hallados.
+Se añade el párrafo tercero por el art. 2.23 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se añade el párrafo segundo por el art. 7.14 del Real Decreto-Ley 6/2000, de 23 junio. Ref. BOE-A-2000-11836
+
+### Artículo 101
+
+Artículo 101. Situaciones de emergencia.
+1. El Gobierno establecerá para situaciones de emergencia las condiciones en que se podrá hacer uso de las reservas estratégicas de gas natural a que se refiere el presente Título, por los obligados a su mantenimiento.
+2. El Gobierno en situaciones de escasez de suministro o en aquéllas en que pueda estar amenazada la seguridad de personas, aparatos o instalaciones o la integridad de la red podrá adoptar en el ámbito, con la duración y las excepciones que se determinen, entre otras, alguna o algunas de las siguientes medidas:
+a) Limitar o modificar temporalmente el mercado del gas.
+b) Establecer obligaciones especiales en materia de existencias mínimas de seguridad de gas natural.
+c) Suspender o modificar temporalmente los derechos de acceso.
+d) Modificar las condiciones generales de regularidad en el suministro con carácter general o referido a determinadas categorías de consumidores.
+e) Someter a autorización administrativa las ventas de gas natural para su consumo en el exterior.
+f) Cualesquiera otras medidas, que puedan ser recomendadas por los Organismos internacionales, de los que España sea parte o que se determinen en aplicación de aquellos convenios en que se participe.
+En relación con tales medidas se determinará, asimismo, el régimen retributivo aplicable a aquellas actividades que se vieran afectadas por las medidas adoptadas garantizando, en todo caso, un reparto equilibrado de los costes.
+3. El Gobierno fomentará la cooperación con terceros países a fin de desarrollar mecanismos coordinados ante situaciones de emergencia o escasez de suministro, así como para dar cumplimiento a las obligaciones derivadas de los compromisos internacionales adquiridos.
+4. El Gobierno notificará a la Comisión Europea y a los demás Estados miembros las medidas adoptadas.
+5. El Ministerio para la Transición Ecológica supervisará la correcta ejecución por parte de los agentes del sistema de las medidas adoptadas por el Gobierno ante situaciones de emergencia y elaborará un informe que pondrá a disposición inmediatamente de la Comisión Nacional de los Mercados y la Competencia. El Gestor Técnico del Sistema, la Corporación de Reservas Estratégicas de Productos Petrolíferos, y demás sujetos del sistema gasista aportarán a estos efectos toda la documentación que se les solicite.
+Se añade el apartado 5 por el art. 5.13 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+ Se añaden los apartados 3 y 4 por el art. 2.24 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+### Artículo 102
+
+Artículo 102. Ocupación del dominio público, patrimonial y de las zonas de servidumbre pública.
+1. Los titulares de concesiones, permisos o autorizaciones, a los que se refiere el artículo 103.2 de la presente Ley y en los mismos casos que los allí contemplados, tendrán derecho a la ocupación del dominio público, patrimonial y de las zonas de servidumbre pública.
+2. La autorización de ocupación concreta del dominio público, patrimonial y de las zonas de servidumbre pública será acordada por el órgano competente de la Administración pública titular de aquellos bienes o derechos.
+Las condiciones y requisitos que se establezcan por las Administraciones titulares de los bienes y derechos para la ocupación del mismo deberán ser, en todo caso, transparentes y no discriminatorios.
+3. Sin perjuicio de la aplicación de lo señalado en los apartados anteriores, en las autorizaciones de ocupación de bienes o derechos de titularidad local será de aplicación lo dispuesto en la legislación de régimen local.
+
+## TITULO V
+
+Derechos de ocupación del dominio público, expropiación forzosa, servidumbres y limitaciones a la propiedad
+
+### Artículo 103
+
+Artículo 103. Declaración de utilidad pública.
+1. Se declaran de utilidad pública a los efectos de expropiación forzosa y ejercicio de la servidumbre de paso las siguientes instalaciones:
+a) Las instalaciones y servicios necesarios para el desarrollo de las actividades de investigación y explotación a que se refiere el Título II.
+b) Las instalaciones de refino, tanto de nueva construcción como las ampliaciones de las existentes, las instalaciones de transporte por oleoducto y de almacenamiento de productos petrolíferos, así como la construcción de otros medios fijos de transporte de hidrocarburos líquidos y sus instalaciones de almacenamiento.
+c) Las instalaciones a que se refiere el Título IV de la presente Ley.
+d) Las plantas de regasificación a que se refiere el artículo 55.3 así como las líneas de conducción de gas natural asociadas a las mismas y dedicadas en exclusividad a la alimentación de las centrales eléctricas, puertos y buques.
+2. Los titulares de concesiones, permisos o autorizaciones para el desarrollo de las citadas actividades o para la construcción, modificación o ampliación de instalaciones necesarias para las mismas gozarán del beneficio de expropiación forzosa y ocupación temporal de bienes y derechos que exijan las instalaciones y servicios necesarios, así como la servidumbre de paso y limitaciones de dominio, en los casos que sea preciso para vías de acceso, líneas de conducción y distribución de los hidrocarburos, incluyendo las necesarias para atender a la vigilancia, conservación y reparación de las instalaciones.
+Se añade la letra d) al apartado 1 por la disposición final 4.4 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df-4
+
+### Artículo 104
+
+Artículo 104. Solicitud de reconocimiento de utilidad pública.
+1. Para el reconocimiento de la utilidad pública de las instalaciones a que se refiere el artículo anterior, será necesario que la empresa interesada lo solicite, incluyendo una relación concreta e individualizada de los bienes o derechos que el solicitante considere de necesaria expropiación u ocupación.
+2. La petición se someterá a información pública y se recabará informe de los órganos afectados.
+3. Concluida la tramitación, el reconocimiento de la utilidad pública será acordado por el Ministerio de Industria y Energía, si la autorización de la instalación corresponde al Estado, sin perjuicio de la competencia del Consejo de Ministros en caso de oposición de órganos u otras entidades de derecho público, o por el organismo competente de las Comunidades Autónomas en los demás casos.
+
+### Artículo 105
+
+Artículo 105. Efectos de la declaración de utilidad pública.
+La declaración de utilidad pública llevará implícita en todo caso la necesidad de ocupación de los bienes o de adquisición de los derechos afectados e implicará la urgente ocupación a los efectos del artículo 52 de la Ley de Expropiación Forzosa, de 16 de diciembre de 1954.
+
+### Artículo 106
+
+Artículo 106. Derecho supletorio.
+En lo relativo a la materia regulada en este Título será de aplicación supletoria lo dispuesto en la legislación general sobre expropiación forzosa y en el Código Civil cuando proceda.
+
+### Artículo 107
+
+Artículo 107. Servidumbres y autorizaciones de paso.
+1. Las servidumbres y autorizaciones de paso que conforme a lo dispuesto en el presente capítulo se establezcan gravarán los bienes ajenos en la forma y con el alcance que se determinan en la presente Ley y se regirán por lo dispuesto en la misma, en sus disposiciones de desarrollo y en la normativa a que se refiere el artículo anterior.
+2. Las servidumbres y autorizaciones de paso comprenderán, cuando proceda, la ocupación del subsuelo por instalaciones y canalizaciones a la profundidad y con las demás características que señalen Reglamentos y Ordenanzas municipales.
+3. Las servidumbres y autorizaciones comprenderán igualmente el derecho de paso y acceso, y la ocupación temporal del terreno u otros bienes necesarios para atender a la vigilancia, conservación y reparación de las instalaciones y conducciones.
+4. La afección a fincas particulares derivada de la construcción de las instalaciones gasistas y los oleoductos se concretará en la siguiente forma:
+a) Expropiación forzosa de los terrenos sobre los que se han de construir las instalaciones fijas en superficie.
+b) Para las canalizaciones y cable de comunicaciones de las conducciones:
+1.º Imposición de servidumbre permanente de paso, en una franja de terreno de hasta cuatro (4) metros, dos a cada lado del eje, que se concretará en la resolución de autorización, a lo largo de la canalización por donde discurrirá enterrada la tubería o tuberías que se requieran para la conducción. Esta servidumbre que se establece, estará sujeta a las siguientes limitaciones de dominio:
+i. Prohibición de efectuar trabajos de arada o similares a una profundidad superior a cincuenta centímetros, así como de plantar árboles o arbustos de tallo alto, a una distancia inferior a dos metros, a contar desde el eje de la tubería o tuberías.
+ii. Prohibición de realizar cualquier tipo de obras, construcción, edificación, o de efectuar acto alguno que pudiera dañar o perturbar el buen funcionamiento de las instalaciones, a una distancia inferior a diez metros (10 m) del eje del trazado, a uno y otro lado del mismo. Esta distancia podrá reducirse siempre que se solicite expresamente y se cumplan las condiciones que, en cada caso, fije el órgano competente de la Administración Pública.
+iii. Permitir el libre acceso del personal y equipos necesarios para poder vigilar, mantener, reparar o renovar las instalaciones con pago, en su caso, de los daños que se ocasionen.
+iv. Posibilidad de instalar los hitos de señalización o delimitación y los tubos de ventilación, así como de realizar las obras superficiales o subterráneas que sean necesarias para la ejecución o funcionamiento de las instalaciones.
+2.º Ocupación temporal de los terrenos necesarios para la ejecución de las obras de la franja que se reflejará, para cada finca, en los planos parcelarios de expropiación. En esta zona se hará desaparecer, temporalmente, todo obstáculo y se realizarán las obras necesarias para el tendido e instalación de la canalización y elementos anexos, ejecutando los trabajos y operaciones precisas a dichos fines.
+5. Las condiciones y limitaciones que deberán imponerse en cada caso por razones de seguridad, podrán ser modificadas con arreglo a los Reglamentos y Normas Técnicas que a los efectos se dicten.
+Se modifica el apartado 4 y se añade el apartado 5 por el art. 4.1 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a4.
+
+## TITULO VI
+
+Infracciones y sanciones
+
+### Artículo 108
+
+Artículo 108. Infracciones.
+1. Son infracciones administrativas las acciones y omisiones que se tipifican en los artículos siguientes.
+2. Las infracciones administrativas establecidas en la presente Ley se entenderán sin perjuicio de las responsabilidades civiles, penales o de otro orden en que puedan incurrir los titulares de las empresas que desarrollan las actividades a que se refieren.
+
+### Artículo 109
+
+Artículo 109. Infracciones muy graves.
+1. Son infracciones muy graves:
+a) La realización de actividades incluidas en el ámbito de aplicación de la presente Ley o la construcción, ampliación, explotación o modificación de instalaciones afectas a las mismas sin la necesaria concesión, autorización administrativa, declaración responsable, comunicación o inscripción en el Registro correspondiente cuando proceda o el incumplimiento del contenido, prescripciones y condiciones de las mismas cuando se ponga en peligro manifiesto a las personas o los bienes o el medio ambiente.
+b) La utilización de instrumentos, aparatos o elementos sujetos a seguridad industrial sin cumplir las normas y las obligaciones técnicas que por razones de seguridad deban reunir los aparatos e instalaciones afectos a las actividades objeto de la presente Ley cuando comporten peligro o daño grave para personas, bienes o para el medio ambiente.
+c) Cualquier manipulación fraudulenta tendente a alterar el precio o la calidad de los productos petrolíferos o de los gases combustibles o la medición de las cantidades suministradas.
+d) La negativa a admitir inspecciones o verificaciones reglamentarias o acordadas en cada caso por la administración competente, incluida la CNE, o la obstrucción a su práctica.
+e) La aplicación irregular de precios, tarifas o peajes de los regulados en la presente Ley o en las disposiciones de desarrollo de la misma, de manera que se produzca una alteración en el precio superior al l5 % y siempre que la misma suponga una alteración superior a 300.000 euros.
+f) El incumplimiento reiterado de las obligaciones resultantes de la aplicación del sistema tarifario o de los criterios de recaudación. Se entenderán como incumplimiento de las obligaciones del sistema tarifario la falta o retraso en el pago de las cantidades a que den lugar las liquidaciones de las actividades reguladas o en el ingreso de las cuotas con destinos específicos, la declaración indebida de ingresos y costes y las declaraciones efectuadas fuera del plazo establecido.
+g) El incumplimiento de las decisiones jurídicamente vinculantes y requerimientos efectuados por la Administración competente, incluida la Comisión Nacional de Energía, o por el Gestor Técnico del Sistema en el ámbito de sus funciones, cuando resulte perjuicio relevante para el funcionamiento del sistema.
+h) La realización de actividades incompatibles, así como el incumplimiento por parte de los sujetos obligados a ello de la obligación de separación patrimonial, separación funcional y de llevar cuentas separadas de acuerdo con lo dispuesto en la presente Ley y en sus normas de desarrollo.
+i) La falta de comunicación al Ministerio de Industria, Energía y Turismo o el incumplimiento de las condiciones u obligaciones establecidas, en el supuesto de la toma de participaciones en sociedades, en los términos previstos en la disposición adicional novena de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia.
+j) El incumplimiento reiterado de cuantas obligaciones de remisión de información se deriven de la aplicación de la normativa vigente o resulten del previo requerimiento por parte de la administración incluida la CNE, o del Gestor Técnico del Sistema.
+k) La negativa a suministrar gases por canalización o GLP envasado a consumidores en régimen de tarifa o precios regulados conforme a los títulos III y IV de esta Ley y disposiciones de desarrollo.
+l) El incumplimiento reiterado por parte de los sujetos obligados a ello, de conformidad con la normativa vigente, de las condiciones de calidad y continuidad del servicio.
+m) El incumplimiento de las obligaciones legal o reglamentariamente establecidas sobre existencias mínimas de seguridad, conforme a los títulos III y IV, cuando supongan una alteración significativa del citado régimen de existencias mínimas.
+n) El incumplimiento de las obligaciones legal y reglamentariamente establecidas, conforme al Título IV de la Ley, sobre diversificación de suministros, cuando suponga una alteración significativa del citado régimen de diversificación.
+o) Las acciones u omisiones que supongan incumplimiento de las medidas establecidas por el Gobierno en aplicación de lo previsto en la presente Ley sobre situaciones de emergencia o escasez de suministros en los títulos III y IV por quienes realizan actividades reguladas en la presente Ley y tengan incidencia apreciable en el citado suministro.
+p) La interrupción o suspensión injustificada de la actividad que se venga realizando mediante concesión o autorización administrativa, cuando de ello resulte perjuicio relevante para el funcionamiento del sistema.
+q) El incumplimiento de las obligaciones de contabilidad exigibles de acuerdo con la presente Ley. Se entenderá comprendida en dicho incumplimiento la existencia en la documentación contable de vicios o irregularidades esenciales que impidan conocer la situación patrimonial y financiera de la entidad.
+r) La denegación o alteración injustificada del acceso de terceros a instalaciones de red en los supuestos que la presente Ley y sus normas de desarrollo regulan.
+s) El incumplimiento por parte de los titulares de las instalaciones de su obligación de mantener las instalaciones en adecuadas condiciones de conservación e idoneidad técnica, siguiendo en su caso, las instrucciones impartidas por la administración competente, cuando dicho incumplimiento ponga en peligro manifiesto a las personas, los bienes o al medio ambiente.
+t) El incumplimiento por parte del distribuidor de su obligación de realizar visitas de inspección a las instalaciones receptoras existentes con la periodicidad definida por la normativa vigente.
+u) El incumplimiento, por parte de los titulares de instalaciones, de efectuar el cálculo del balance físico del gas que pasa por sus instalaciones en la forma y con la periodicidad que resulte necesaria para el adecuado funcionamiento del sistema.
+v) El incumplimiento, por parte del gestor técnico del sistema, de las obligaciones establecidas en el artículo 64, apartados 1 y 3, letras f), i), o) y p) de esta Ley.
+w) El incumplimiento de las normas de gestión técnica del sistema, cuando ello afecte a la continuidad y seguridad del suministro de gas natural.
+x) El incumplimiento continuado, por parte de los titulares de instalaciones, de su obligación de gestionar la verificación de sus equipos de medida, del volumen y características del gas, y de las instalaciones de puntos de suministro conectadas a sus redes, utilizando para ello los servicios de una entidad acreditada para tal fin.
+y) La interrupción o suspensión del suministro sin que medien los requisitos legal o reglamentariamente establecidos o fuera de los supuestos previstos.
+z) El incumplimiento de las obligaciones económicas en caso de desbalance derivadas de la regulación establecida por las Normas de Gestión Técnica del sistema.
+aa) El incumplimiento de las obligaciones que se establezcan relacionadas con el logro de los objetivos de biocarburantes y otros combustibles renovables líquidos y gaseosos.
+ab) El incumplimiento por parte del operador del mercado organizado de gas de la funciones a que se refieren los párrafos c) y d) del artículo 65 ter.1, en los términos previstos en la presente Ley y su normativa de desarrollo, cuando de este hecho se derive perjuicio para el sistema o los demás sujetos.
+ac) El incumplimiento, de forma reiterada, por parte de los gestores de red independientes o de los propietarios de las instalaciones cuya gestión les hayan cedido, de las obligaciones establecidas en el artículo 63 quáter de la presente Ley.
+ad) El incumplimiento de la obligación de suministro domiciliario de GLP envasado.
+ae) El incumplimiento de las limitaciones que se establezcan en cuanto a la participación en el accionariado de ENAGAS, S.A. así como la falta de comunicación definida en el artículo 63 bis.2 de cualquier circunstancia que pueda afectar al cumplimiento de los requisitos establecidos para las empresas certificadas como Gestores de la red de transporte.
+af) El incumplimiento reiterado por parte de los sujetos del sistema de sus obligaciones de información o comunicación a otros sujetos del sistema, así como la no remisión de forma reiterada de la información en la forma y plazo que resulte exigible.
+ag) La inexactitud o falsedad en cualquier dato, manifestación o documento que se presente a la Administración Pública, así como su no presentación en forma y plazo, al objeto de la determinación o percepción del régimen retributivo de las actividades con retribución regulada, siempre que esto suponga un impacto en los costes del sistema que exceda del 5 por ciento de la retribución regulada anual del sujeto.
+ah) La resistencia, obstrucción, excusa o negativa a las actuaciones inspectoras que hayan sido acordadas en cada caso por la Administración Pública competente, incluida la Comisión Nacional de los Mercados y la Competencia, y la Corporación de Reservas Estratégicas de Productos Petrolíferos.
+ai) El incumplimiento por parte de los obligados a ello por la normativa vigente de las obligaciones de preservar la medidas establecidas en aplicación de lo previsto en el artículo 101 por quienes realizan alguna de las actividades en ella regulada.
+aj) El incumplimiento por parte de los obligados a ello por la normativa vigente de las obligaciones de preservar y gestionar el acceso a la información que tenga carácter de confidencial.
+ak) El incumplimiento de los requisitos establecidos en la normativa de aplicación para tener derecho a la percepción del régimen retributivo de las actividades con retribución regulada, a menos que expresamente se hubiera tipificado como grave.
+al) El incumplimiento por parte de los responsables del punto de medida de la obligación de disponer de los equipos de medida y control y demás dispositivos que reglamentariamente se hayan establecido, de forma que se impida o altere la correcta medición y facturación, o cuando dicho incumplimiento comporte peligro o daño grave para personas, bienes o para el medio ambiente; así como la negativa u obstrucción al acceso de los encargados de la lectura, verificadores u organismos autorizados por la Administración Pública competente para la realización de la lectura, o verificación de los equipos.
+am) El incumplimiento por parte de los obligados a ello de la normativa vigente relativa a la instalación de los equipos de medida, y demás dispositivos de tratamiento de la información y comunicación necesarios para el correcto funcionamiento del sistema de medidas, así como el incumplimiento de los criterios de seguridad y de privacidad que se establezcan reglamentariamente.
+an) El incumplimiento reiterado por parte de los obligados a ello por la normativa vigente de la realización de los procesos de alta, lectura y tratamiento de las medidas e intercambios de la información, así como de la remisión de la información o, en su caso, su puesta a disposición a los destinatarios a los que están obligados a remitírsela en los términos, en el plazo y forma establecidos reglamentariamente.
+añ) La inexactitud o falseamiento de la información relativa a la medida remitida por parte de los obligados a ello por la normativa vigente, cuando de ello se derive un incremento significativo de los costes del sistema o una minoración significativa de los ingresos del mismo.
+ao) El incumplimiento continuado, por parte de los obligados a ello de conformidad con la normativa vigente, de su obligación de gestionar las verificaciones de los equipos de medida.
+ap) Cualquier manipulación de los equipos de medida o de las instalaciones o la no disposición de los dispositivos necesarios, tendentes a alterar la medición de las cantidades suministradas o consumidas o de cualquiera de los conceptos que sirven de base para la facturación de la energía suministrada o consumida.
+aq) La denegación o alteración injustificadas del permiso de conexión a un punto de la red. Se considerará que la denegación es injustificada cuando no obedezca a lo previsto en la presente Ley y en las normas de desarrollo aprobadas por el Gobierno.
+ar) El establecimiento de otros mecanismos diferentes de los previstos en esta Ley y en las normas de desarrollo aprobadas por el Gobierno para el otorgamiento de los permisos de conexión y acceso o para la priorización en el otorgamiento de los mismos.
+as) El otorgamiento de permisos de acceso o de permisos de conexión cuando no se disponga de la capacidad necesaria de acuerdo con las condiciones y criterios establecidos reglamentariamente por el Gobierno.
+at) El incumplimiento de las limitaciones establecidas en cuanto a la participación en el accionariado del operador del mercado organizado de gas previstas en el artículo 65 ter.2 de la presente Ley.
+au) El incumplimiento por parte de las empresas distribuidoras o transportistas de su obligación de realizar las acometidas y la conexión de nuevos suministros o ampliación de los existentes que se les planteen en las zonas en que operan, cuando así resulte exigible de conformidad con la normativa de aplicación.
+av) El incumplimiento por parte de las empresas distribuidoras o de las empresas comercializadoras de aplicar las medidas adecuadas de protección al consumidor, en los términos previstos en la presente Ley y su normativa de desarrollo, cuando de este hecho se derive un perjuicio económico para los sujetos afectados.
+aw) El incumplimiento por parte de los distribuidores, de los comercializadores de los requisitos de capacidad legal, técnica y económica establecidos en la presente Ley y su normativa de desarrollo.
+ax) La no formalización de los contratos de suministro y acceso a redes por parte de los sujetos obligados a ello de acuerdo a la normativa en vigor.
+ay) Cualquier otra actuación en el suministro o consumo de gas natural que suponga una alteración porcentual de la realidad de lo suministrado o consumido superior al 15 por ciento y que, a la par, exceda de 300.000 euros.
+az) El incumplimiento por parte de los distribuidores de las obligaciones establecidas en el ejercicio de su función, a menos que expresamente se hubiera tipificado como grave.
+ba) El incumplimiento por parte de los operadores dominantes de las restricciones impuestas en la normativa vigente.
+bb) La inexactitud, falsedad u omisión en cualquier dato o manifestación, de carácter esencial, sobre el cumplimiento de los requisitos exigidos señalados en la declaración responsable o la comunicación aportada por los interesados.
+bc) Ejercer la actividad de empresa instaladora de gas o de instalador de gas sin la correspondiente autorización administrativa o carné de instalador de acuerdo a la normativa vigente cuando suponga un riesgo para la seguridad de las personas o bienes.
+bd) No instalar o manipular indebidamente los dispositivos de medición fiscal de los hidrocarburos producidos en concesiones de explotación de hidrocarburos.
+be) El incumplimiento de las limitaciones y obligaciones impuestas en los artículos 43.1 y 43 bis.1.
+bf) El acaparamiento y utilización sustancialmente inferior de la capacidad de las instalaciones fijas de almacenamiento y transporte de productos petrolíferos que, de acuerdo con lo previsto en el artículo 41 de la presente Ley, deban permitir el acceso de terceros.
+bg) El incumplimiento, por parte de los sujetos con derecho de acceso, de sus programas de aprovisionamiento al sistema gasista español que dé lugar a la declaración por el gestor técnico del sistema de una situación de operación excepcional cuando exista riesgo para la seguridad de suministro, o que se produzca, bien durante una situación de operación excepcional cuando exista riesgo para la seguridad de suministro, o bien durante una situación de crisis, según se definan por la normativa de gestión técnica del sistema gasista.
+2. Igualmente, serán infracciones muy graves las infracciones graves del artículo siguiente cuando durante los tres años anteriores a su comisión hubiera sido impuesta al infractor sanción firme por el mismo tipo de infracción.
+Se modifica la letra aa) y se añade la bg) en el apartado 1 por la disposición final 4.3 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#df-4
+ Se modifica el apartado 1.be) por el art. 47.4 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a4-9
+ Se modifican las letras a), i), k), ab), ad), ae) y se añaden las letras af) al bf) al apartado 1 por el art. 5.1 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a5.
+ Se añaden las letras ad) y ae) al apartado 1 por el art. 39.4 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
+ Téngase en cuenta que las letras ad) y ae) ya fueron añadidas por el Real Decreto-ley 4/2013, de 22 de febrero.
+ Se añaden las letras ad) y ae) al apartado 1 por el art. 39.4 del Real Decreto-ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.
+ Se modifican las letras g) y h), se reordena la z bis) como aa) y se añaden las letras ab) y ac) al apartado 1 por el art. 2.25 y 26 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica la letra a) del apartado 1 por el art. 19.19 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica por el art. único.40 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 110
+
+Artículo 110. Infracciones graves.
+Son infracciones graves las conductas tipificadas en el artículo anterior cuando, por las circunstancias concurrentes, no puedan calificarse de muy graves y en particular:
+a) Las conductas tipificadas en las letras a) y b) del artículo anterior cuando no se ponga en peligro manifiesto a las personas, los bienes o el medio ambiente.
+b) La aplicación irregular de precios, tarifas o peajes de manera que se produzca una alteración en el precio inferior al 15 % y superior al 5 % y siempre que la misma suponga una alteración superior a 30.000 euros.
+c) Cualquier otra actuación en el suministro o consumo de Gas, que suponga una alteración porcentual de lo suministrado o consumido superior al 10 por 100 y siempre que la misma suponga una alteración superior a 30.000 €.
+d) El incumplimiento de las decisiones jurídicamente vinculantes y requerimientos efectuados por la Administración competente, incluida la Comisión Nacional de Energía, o por el Gestor Técnico del Sistema en el ámbito de sus funciones, cuando no resulte perjuicio relevante para el funcionamiento del sistema.
+e) El incumplimiento de las obligaciones resultantes de la aplicación del sistema tarifario o de los criterios de recaudación. Se entenderán como incumplimiento de las obligaciones del sistema tarifario la falta o retraso en el pago de las cantidades a que den lugar las liquidaciones de las actividades reguladas o en el ingreso de las cuotas con destinos específicos, la declaración indebida de ingresos y costes y las declaraciones efectuadas fuera del plazo establecido.
+f) El incumplimiento de cuantas obligaciones de remisión de información se deriven de aplicación de la normativa vigente o resulten del previo requerimiento por parte de la Administración, incluida la Comisión Nacional de los Mercados y la Competencia, la Corporación de Reservas Estratégicas de Productos Petrolíferos o el Gestor Técnico del Sistema.
+Asimismo, se considerará infracción grave el incumplimiento por parte de los sujetos del sistema de sus obligaciones de información o comunicación a otros sujetos del sistema. También se considerará infracción grave la no remisión de la información en la forma y plazo que resulte exigible.
+g) La negativa injustificada a suministrar productos petrolíferos o gases combustibles a los consumidores y usuarios a los que no sean de aplicación tarifas o precios administrativamente aprobados.
+h) La negativa injustificada a suministrar productos petrolíferos a los consumidores y usuarios a los que sean de aplicación tarifas o precios administrativamente aprobados.
+i) El incumplimiento reiterado por parte de la empresa suministradora de aplicar los descuentos correspondientes a los consumidores afectados por interrupciones en las condiciones previstas en la normativa de aplicación.
+j) Las acciones u omisiones que supongan incumplimiento de las medidas establecidas por el Gobierno en aplicación de lo previsto en la presente Ley sobre situaciones de emergencia o escasez de suministro en los títulos III y IV por quienes realizan actividades reguladas en la presente Ley y no tengan incidencia apreciable en el citado suministro.
+k) El incumplimiento por parte de los sujetos obligados de conformidad con lo dispuesto en esta Ley y en sus normas de desarrollo de su obligación de realizar auditorias externas en los supuestos en que así venga exigido.
+l) El incumplimiento, por parte de los titulares de las instalaciones de regasificación, almacenamiento y transporte, de la obligación de publicar la capacidad de sus instalaciones, o la publicación de las mismas sin cumplir las condiciones establecidas.
+m) El incumplimiento, por parte de los transportistas, distribuidores, comercializadores o, en general, de los titulares de las instalaciones, de las obligaciones establecidas en esta Ley y normativa de desarrollo cuando, por las circunstancias concurrentes, no se encuentre tipificado como infracción muy grave o leve.
+n) El incumplimiento, por parte del gestor técnico del sistema, de las obligaciones establecidas en esta Ley y normativa de desarrollo cuando, por las circunstancias concurrentes, no pueda ser considerado muy grave.
+o) El incumplimiento de las normas de gestión técnica del sistema, cuando ello no afecte a la continuidad y seguridad del suministro de gas natural.
+p) El incumplimiento, por parte de los sujetos con derecho de acceso, de su obligación de comunicar a los titulares de las instalaciones con quienes hayan suscrito los contratos de acceso y al gestor técnico del sistema su programa de aprovisionamiento y consumo en la forma que se establezca, así como cualquier incidencia que pueda hacer variar sustancialmente dichas previsiones.
+q) El incumplimiento, por parte de los consumidores, de su obligación de disponer de los equipos de medida necesarios y permitir el acceso a los mismos por parte de los titulares a las instalaciones a las que estén conectados, y de gestionar la verificación periódica de los mismos cuando de ello se derive un perjuicio para el funcionamiento del sistema gasista.
+r) La comercialización de hidrocarburos líquidos bajo una imagen de marca que no se corresponda con el auténtico origen y calidad de los mismos.
+s) El incumplimiento de cuantas obligaciones formales se impongan a quienes realicen actividades de suministro al público de productos petrolíferos o gases combustibles por canalización en garantía de los derechos de los consumidores y usuarios.
+t) El incumplimiento por parte de las empresas distribuidoras y comercializadoras de gas natural de las obligaciones de mantenimiento y correcto funcionamiento de un servicio de atención a las quejas, reclamaciones, incidencias en relación al servicio contratado u ofertado, solicitudes de información sobre los aspectos relativos a la contratación y suministro que incluya un servicio de atención telefónica y número de teléfono ambos gratuitos así como de las medidas de protección al consumidor de acuerdo con lo establecido en la presente Ley y su normativa de desarrollo.
+u) El incumplimiento por parte de los sujetos obligados de los Reglamentos y decisiones de la Unión Europea que les sean de aplicación en el sector de hidrocarburos. En particular cualquier infracción por manipulación o tentativa de manipulación de mercado, uso de información privilegiada o falta de difusión de información privilegiada, conforme a lo establecido en el Reglamento UE n.º 1227/2001, de 25 de octubre de 2011, sobre integridad y la transparencia del mercado mayorista de la energía o en la normativa de desarrollo del mismo, así como cualquier infracción por incumplimiento de lo establecido en el Reglamento n.º 715/2009, de 13 de julio de 2009, sobre las condiciones de acceso a las redes de transporte de gas natural y su normativa de desarrollo.
+v) El incumplimiento por parte de los gestores de red independientes o de los propietarios de las instalaciones cuya gestión les hayan cedido, de las obligaciones establecidas en el artículo 63 quáter de la presente Ley.
+w) El incumplimiento por parte del operador del mercado organizado de gas de las funciones y obligaciones que le corresponden de acuerdo con lo establecido en el artículo 65.ter.1 y su normativa de desarrollo, a menos que expresamente se hubiera considerado como muy grave.
+x) La inexactitud o falsedad en cualquier dato, manifestación o documento que se presente a la Administración Pública, así como su no presentación en forma y plazo, al objeto de la determinación o percepción del régimen retributivo de las actividades con retribución regulada, que suponga un impacto en los costes del sistema que se encuentre entre el 1 y el 5 por ciento de la retribución anual del sujeto.
+y) El incumplimiento de las medidas de seguridad, aun cuando no supongan peligro manifiesto para los bienes.
+z) El incumplimiento por parte de los obligados a ello por la normativa vigente de la realización de los procesos de alta, lectura y tratamiento de las medidas e intercambios de la información, así como de la remisión de la información o, en su caso, su puesta a disposición a los destinatarios a los que están obligados a remitírsela en los términos, en el plazo y forma establecidos reglamentariamente.
+aa) El incumplimiento, por parte de los obligados a ello de conformidad con la normativa vigente, de su obligación de gestionar las verificaciones de los equipos de medida, cuando no hubiera sido tipificado como infracción muy grave.
+ab) El incumplimiento por parte de los sujetos obligados a ello de conformidad con la normativa vigente, de los requisitos relativos a la calidad del servicio o de las condiciones de calidad y continuidad del servicio.
+ac) El retraso injustificado en el comienzo de la prestación del servicio a nuevos usuarios.
+ad) El incumplimiento, por parte de los distribuidores o comercializadores, de las obligaciones de mantener una base de datos de todos los puntos de suministro conectados a sus redes y a las redes de transporte de su zona, de permitir el acceso a la misma, así como de dotarse de los sistemas informáticos necesarios que permitan la consulta de los datos del registro de puntos de suministro y la recepción y validación informática de solicitudes y comunicaciones con los consumidores y comercializadores de energía.
+ae) El incumplimiento reiterado e injustificado de los plazos y contenidos establecidos para las comunicaciones con cualquiera de los sujetos que deben intervenir en el cambio de suministrador o en la realización de modificaciones de las condiciones de los contratos.
+af) El incumplimiento reiterado por parte de los comercializadores de los requisitos establecidos para la formalización de contratos de suministro de gas natural, así como de las condiciones de contratación y de apoderamiento con los clientes.
+ag) La creación de confusión en la información y en la presentación de la marca e imagen de marca de las empresas distribuidoras y las empresas comercializadoras de referencia que formen parte de un grupo de sociedades que desarrolle actividades reguladas y libres en los términos previstos en la presente Ley, respecto a la identidad propia de las filiales de su mismo grupo que realicen actividades de comercialización.
+ah) El incumplimiento por parte de los distribuidores, o de los comercializadores de sus obligaciones y de los requisitos que la normativa en vigor determine para ejercer la actividad, a menos que expresamente se hubiera tipificado como muy grave o como leve.
+ai) El incumplimiento por parte de los distribuidores o de los comercializadores de su obligación de poner en práctica los programas de gestión de la demanda aprobados por la Administración Pública.
+aj) La realización, tanto por los titulares de los terrenos afectados como por cualquier otra persona, de actos que impliquen un incumplimiento de las limitaciones al dominio establecidas o una invasión de la servidumbre permanente de paso impuesta para canalizaciones de hidrocarburos, de acuerdo con lo dispuesto en el artículo 107, apartado 4 letra b) que impidan o dificulten el libre acceso del personal y equipos necesarios para poder vigilar, mantener, reparar o renovar las instalaciones.
+En particular y sin carácter limitativo, se considerarán actos ilícitos la plantación de arbolado en la franja de servidumbre permanente de paso, la construcción de edificaciones a una distancia inferior a la establecida sin contar con la autorización prevista en el artículo 107 de esta Ley; la retirada de hitos de señalación y/o tubos de ventilación o la realización de cualquier acto que pueda afectar a la seguridad de las personas o de las instalaciones.
+ak) Ejercer la actividad de empresa instaladora de gas o de instalador de gas sin la correspondiente autorización administrativa o carné de instalador de acuerdo a la normativa vigente.
+al) La inexactitud, falsedad u omisión en cualquier dato o manifestación, de carácter no esencial, sobre el cumplimiento de los requisitos exigidos señalados en la declaración responsable o la comunicación aportada por los interesados.
+am) El incumplimiento de la obligación de pago a los titulares de los terrenos suprayacentes, por parte de los operadores de concesiones de explotación obligados a ello.
+an) El incumplimiento por parte de los operadores al por mayor de los límites en relación al número de estaciones de servicio y a los vínculos de suministro en exclusiva en los ámbitos geográficos en los que se superen las cuotas de mercado establecidas legalmente.
+añ) Cualquier práctica de los operadores al por mayor que vaya dirigida a determinar directa o indirectamente el precio de venta del combustible a estaciones de servicio, cuando no tenga la consideración de muy grave.
+ao) El incumplimiento por parte de los comercializadores de las obligaciones establecidas en la normativa relativas a prácticas de contratación y relación con los clientes.
+ap) El incumplimiento por parte de los titulares de instalaciones de suministro de combustibles y carburantes a vehículos de sus obligaciones de instalación de puntos de recarga eléctrica.
+aq) (Suprimida)
+ar) La inclusión en los contratos de suministro con clientes domésticos, microempresas o pequeñas empresas, de cláusulas contractuales que infrinjan los derechos de consumidores y usuarios establecidos en la regulación.
+Se suprime la letra aq) y se añade la ar) por la disposición final 4.4 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#df-4
+ Se añade una letra aq) por la disposición final 4.5 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df-4
+ Redactada conforme a la corrección de errores publicada en BOE núm. 100, de 27 de abril de 2022. Ref. BOE-A-2022-6764
+ Se añade el apartado ap) por la disposición final 1 del Real Decreto-ley 29/2021, de 21 de diciembre. Ref. BOE-A-2021-21096
+ Se añade el apartado ao) por el art. 13.3 del Real Decreto-Ley 15/2018, de 5 de octubre. Ref. BOE-A-2018-13593#a1-5
+ Se modifica por el art. 5.2 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a5.
+ Se modifica la letra f) por la disposición final 1.2 del Real Decreto-ley 15/2013, de 13 de diciembre. Ref. BOE-A-2013-13035.
+ Se modifica la letra d) y se añaden las letras u), v) y w) por el art. 2.27 y 28 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. único.41 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 111
+
+Artículo 111. Infracciones leves.
+Son infracciones leves:
+a) El incumplimiento por parte de los sujetos obligados a ello de sus obligaciones en relación con la formalización de los contratos de suministro cuando no tenga consideración de infracción grave o muy grave.
+b) El incumplimiento de las obligaciones derivadas de las normas de gestión técnica del sistema que no tengan la consideración de infracción muy grave o grave de conformidad con los artículos 109 y 110 cuando de dicho incumplimiento no derive perjuicio para el funcionamiento del sistema gasista.
+c) El incumplimiento injustificado de los plazos establecidos para las comunicaciones con los comercializadores y clientes y para llevar a cabo el cambio de suministrador, así como para realizar cualquier modificación de las condiciones de los contratos.
+d) El incumplimiento por parte de los comercializadores de los requisitos de contratación y apoderamiento con los clientes.
+e) El incumplimiento por parte de los comercializadores y distribuidores de cualquier requisito de información exigible en sus facturas.
+f) La aplicación irregular de precios, tarifas o peajes y cánones de los regulados en la presente Ley o en las disposiciones de desarrollo de la misma, de manera que se produzca una alteración en el precio, cuando no tenga consideración de infracción grave o muy grave.
+g) La inexactitud o falsedad en cualquier dato, manifestación o documento que se presente a la Administración Pública, así como su no presentación en forma y plazo, al objeto de la determinación o percepción del régimen retributivo de las actividades con retribución regulada, que suponga un impacto en los costes del sistema que no exceda del 1 por ciento de la retribución regulada anual del sujeto.
+h) El incumplimiento de las limitaciones de uso establecidas en los terrenos afectados por la construcción de instalaciones para la producción, transporte o suministro de hidrocarburos.
+Se modifica por el art. 5.3 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a5.
+ Se modifica por el art. 2.29 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. único.42 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 112
+
+Artículo 112. Graduación de sanciones.
+Para la determinación de las correspondientes sanciones se tendrán en cuenta las siguientes circunstancias:
+a) El peligro resultante de la infracción para la vida y salud de las personas, la seguridad de las cosas y el medio ambiente.
+b) La importancia del daño o deterioro causado.
+c) Los perjuicios producidos en la continuidad y regularidad del suministro a usuarios.
+d) El grado de participación y el beneficio obtenido.
+e) La intencionalidad o reiteración en la comisión de la infracción.
+f) La reiteración por comisión en el término de un año de más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme.
+
+### Artículo 113
+
+Artículo 113. Sanciones.
+1. Las infracciones tipificadas en los artículos anteriores serán sancionadas:
+a) Las infracciones muy graves, con multa de hasta 30.000.000 €.
+b) Las infracciones graves, con multa de hasta 6.000.000 €.
+c) Las infracciones leves, con multa de hasta 600.000 €.
+No obstante los límites establecidos anteriormente, en el caso de las sanciones impuestas por la Comisión Nacional de Energía, la cuantía nunca podrá superar el siguiente porcentaje del importe del volumen de negocios anual de la empresa infractora, o del volumen de negocios anual consolidado de la sociedad matriz del grupo integrado verticalmente al que pertenezca:
+a) El 1 por ciento en las infracciones leves.
+b) El 5 por ciento en las infracciones graves.
+c) El 10 por ciento en las infracciones muy graves.
+2. Cuando a consecuencia de la infracción se obtenga un beneficio cuantificable, la multa podrá alcanzar hasta el doble del beneficio obtenido.
+3. La cuantía de las sanciones se graduará atendiendo a criterios de proporcionalidad y a las circunstancias especificadas en el artículo anterior.
+4. La comisión de una infracción muy grave podrá llevar aparejada la revocación o suspensión de la autorización administrativa y la consecuente inhabilitación temporal para el ejercicio de la actividad por un período máximo de un año. La revocación o suspensión de las autorizaciones se acordará, en todo caso, por la autoridad competente para otorgarlas.
+5. La aplicación de las sanciones previstas en el presente artículo, se entenderá sin perjuicio de otras responsabilidades legalmente exigibles.
+6. Las sanciones impuestas por infracciones muy graves, una vez firmes, serán publicadas en la forma que se determine reglamentariamente.
+A tal efecto, la Administración actuante pondrá los hechos en conocimiento de la competente.
+7. A los efectos de esta Ley se considerará que un incumplimiento es reiterado cuando dentro del año inmediatamente anterior a su comisión el sujeto hubiera sido sancionado mediante resolución firme en vía administrativa con arreglo a la misma infracción.
+Se añade el apartado 7 por el art. 5.4 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a5.
+ Se añade un párrafo al apartado 1 por el art. 2.30 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica el apartado 1 por el art. único.43 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se convierten a euros las cuantías contempladas en el apartado 1 por el anexo de la Resolución de 28 de septiembre de 2001. Ref. BOE-A-2001-18591
+
+### Artículo 114
+
+Artículo 114. Multas coercitivas.
+Para asegurar el cumplimiento de las resoluciones o requerimientos de información que dicten, el Ministerio de Industria, Energía y Turismo o la Comisión Nacional de los Mercados y de la Competencia podrán imponer multas coercitivas por importe diario de 100 hasta 10.000 euros, en los términos previstos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+El importe de las multas se fijará atendiendo a los siguientes criterios:
+a) El peligro resultante de la infracción para la vida y salud de las personas, la seguridad de las cosas y el medio ambiente.
+b) La importancia del daño o deterioro causado.
+c) Los perjuicios producidos en la continuidad y regularidad del suministro.
+d) Los perjuicios económicos causados.
+Las multas coercitivas serán independientes de las sanciones que puedan imponerse y compatibles con ellas.
+El importe de las multas coercitivas previstas en esta disposición se ingresará en el Tesoro Público.
+Se modifica por el art. 5.5 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a5.
+
+### Artículo 115
+
+Artículo 115. Procedimiento sancionador.
+1. El procedimiento para la imposición de sanciones se ajustará a los principios de los artículos 127 a 138 de la Ley 30/1992, de 26 de noviembre de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y a lo dispuesto en el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del procedimiento para el ejercicio de la potestad sancionadora o norma autonómica correspondiente, sin perjuicio de que reglamentariamente se establezcan especialidades de procedimiento para la imposición de sanciones previstas en esta Ley.
+2. El plazo máximo para resolver y notificar en los procedimientos sancionadores para las infracciones administrativas tipificadas en esta Ley será de dieciocho meses en los expedientes por infracciones muy graves y graves, y de nueve meses cuando se incoen por infracciones leves. Transcurrido este plazo sin resolución expresa, el Director General correspondiente de la Secretaría de Estado de Energía o, cuando así proceda el órgano de la Comisión Nacional de los Mercados y la Competencia que tenga atribuida dicha competencia, declarará la caducidad del procedimiento y ordenará el archivo de las actuaciones, con los efectos previstos en el artículo 92 de la Ley 30/1992, de 26 de noviembre.
+Se modifica el apartado 2 por el art. 5.6 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a5.
+ Se modifica por el art. único.44 de la Ley 12/2007, de 6 de julio. Ref. BOE-A-2007-12869
+
+### Artículo 116
+
+Artículo 116. Competencias para imponer sanciones.
+1. En el ámbito de la Administración General del Estado:
+1.1 La competencia para la imposición de las sanciones correspondientes a las infracciones corresponderá:
+a) Al Consejo de Ministros para la imposición de sanciones por la comisión de infracciones muy graves.
+b) Al titular del Ministerio para la Transición Ecológica para la imposición de sanciones por la comisión de infracciones graves.
+c) Al titular de la Dirección General de Política Energética y Minas de la Secretaría de Estado de Energía para la imposición de sanciones por la comisión de infracciones leves.
+1.2 Será competente para imponer sanciones por la comisión de las infracciones administrativas siguientes en el ámbito de sus competencias:
+a) Las tipificadas como muy graves en los párrafos a), b), c), d), e), f), g), i), j), k), l), m), n), o), q), s), t), v), w), y), aa), ad), af), ag), ah), ai), aj), ak), al), am), añ), ao), ap), av), aw), az), bb), bc), bd), be), y bf) del artículo 109.
+b) Las tipificadas como graves a que se hace referencia en el párrafo anterior cuando, por las circunstancias concurrentes, no puedan calificarse como muy graves y, en particular, las tipificadas en los párrafos, a), b), d), e), f), g), h), i), j), k), m), n), o), q), r), s), x), y), z), aa), ab), ac), ah) ai), aj), ak), al), am), an), añ), y ao) del artículo 110.
+c) Las tipificadas como leves en los párrafos a), b), d), f), g) y h) del artículo 111.
+2. En el ámbito de las Comunidades Autónomas se estará a lo previsto en su propia normativa.
+3. La Comisión Nacional de los Mercados y la Competencia, en el ámbito de sus competencias, y en lo que se refiere a los gases combustibles e hidrocarburos líquidos, será competente para imponer sanciones por la comisión de las infracciones administrativas siguientes:
+a) Las tipificadas como muy graves en los párrafos c), d), e), f), g), h), i), j), k), l), p), q), r), s), u), v), w), x), y), z), ab), ac), ae), af), ag), ah), aj), ak), al), am) an) añ), ao, ap), aq), ar), as), at), au), av), aw), ax), ay), az) y ba) del artículo 109.
+b) Las tipificadas como graves a que se hace referencia en el párrafo anterior cuando, por las circunstancias concurrentes, no puedan calificarse como muy graves y, en particular, las tipificadas en los párrafos, b), c), d), e), f), g), k), l), m), n), o), p), q) s), t), u), v), w), x), z), aa), ab), ac), ad), ae), af), ag) y ao) del artículo 110.
+c) Las tipificadas como leves en los párrafos a), b), c), d), e), f) y g) del artículo 111.
+Se modifica el apartado 3 por la disposición final 4.5 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#df-4
+ Se modifica por el art. 5.14 del Real Decreto-ley 1/2019, de 11 de enero. Ref. BOE-A-2019-315#a5
+ Se modifica el apartado 3.b) por el art. 13.4 del Real Decreto-Ley 15/2018, de 5 de octubre. Ref. BOE-A-2018-13593#a1-5
+ Se modifica por el art. 5.7 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a5.
+ Se modifica el apartado 4 por la disposición final 3 de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+ Se modifica por el art. 2.31 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+### Artículo 117
+
+Artículo 117. Prescripción.
+Las infracciones muy graves previstas en este capítulo prescribirán a los tres años de su comisión, las graves a los dos años, y las leves a los 18 meses.
+Las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves, a los dos años y las impuestas por faltas leves, al año.
+Se modifica por el art. único.45 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Disposición adicional primera
+
+Disposición adicional primera. Canon de superficie.
+Los titulares de permisos de investigación y de concesiones de explotación regulados en el Título II estarán obligados al pago del canon de superficie.
+a) El canon se exigirá por hectárea y año con arreglo a las siguientes escalas:
+Escala primera
+ Euros
+ Permisos de investigación
+ 1. Durante el período de vigencia del permiso
+ 0,076310
+ 2. Durante cada prórroga
+ 0,152620
+Escala segunda
+ Euros
+ Concesiones de explotación
+ 1. Durante los cinco primeros años
+ 1,907752
+ 2. Durante los siguientes cinco años
+ 5,341706
+ 3. Durante los siguientes cinco años
+ 14,117364
+ 4. Durante los siguientes cinco años
+ 17,551318
+ 5. Durante los siguientes cinco años
+ 14,117364
+ 6. Durante los siguientes cinco años
+ 7,249458
+ 7. Durante las prórrogas
+ 5,341706
+b) Los cánones de superficie especificados anteriormente se devengarán a favor del titular del dominio público, el día primero de enero de cada año natural, en cuanto a todos los permisos o concesiones existentes en esa fecha, debiendo ser satisfechos durante el primer trimestre del mismo.
+c) Cuando los permisos de investigación o concesiones de explotación se otorguen después del primero de enero, en el año del otorgamiento se abonará como canon la parte de las cuotas anuales que proporcionalmente corresponda al tiempo que medie desde la fecha del otorgamiento hasta el final del año natural. En estos casos, el canon se devengará el día del otorgamiento del permiso o concesión y habrá de ser satisfecho en el plazo de noventa días, contados desde esta fecha.
+d) El Gobierno, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, podrá actualizar los valores de los cánones establecidos en esta disposición adicional.
+Se modifica por el art. único.46 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se convierten a euros las cuantías contempladas en la letra a) por el apartado 5 y anexo de la Resolución de 20 de diciembre de 2001. Ref. BOE-A-2001-24827
+ Se convierten a euros las cuantías contempladas en la letra a) por el apartado 11 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Extinción de las concesiones del Monopolio de Petróleos.
+Quedan extinguidas definitivamente las concesiones del Monopolio de Petróleos para el suministro de gasolinas y gasóleos de automoción mantenidas al amparo de lo dispuesto en la disposición adicional primera de la Ley 34/1992, de 22 de diciembre. Las actividades objeto de dichas concesiones se continuarán desarrollando en la forma regulada en el Título III.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Agentes de aparatos surtidores y gestores de estaciones de servicio.
+1. Los antiguos agentes de aparatos surtidores y gestores de estaciones de servicio a que se refieren las disposiciones adicionales segunda y tercera de la Ley 34/1992, de 22 de diciembre, cuya relación de derecho público quedó extinguida, podrán mantenerse en la explotación del punto de venta, en régimen de suministro de derecho privado con la entidad que ostente la titularidad dominical de la instalación y los derechos de exclusiva de suministro.
+2. En tanto no se formalice por escrito un acuerdo sobre las condiciones de la explotación del punto de venta y el suministro de productos petrolíferos con el titular dominical de la instalación, seguirán aplicándose las condiciones vigentes en el momento de la extinción de la relación de derecho público.
+3. En todo caso, los antiguos agentes y gestores tendrán derecho a mantenerse en la explotación por el plazo restante al inicialmente concedido y percibirán una comisión por la venta de los productos por cuenta del titular de la instalación cuya cuantía no podrá ser inferior a la establecida en las relaciones entre dicho titular y los comisionistas que exploten como arrendatarios otras instalaciones de su propiedad.
+4. El cónyuge y los hijos podrán subrogarse en la explotación en los casos y condiciones previstos en la normativa aplicable a las relaciones transformadas.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Autorizaciones concedidas al amparo de la Ley 34/1992, de 22 diciembre.
+Las autorizaciones concedidas en virtud de lo establecido en la Ley 34/1992, de 22 de diciembre, o declaradas «ex lege» por la misma se mantendrán y surtirán plenos efectos sin necesidad de ratificación, en lo que no se opongan a lo dispuesto en la presente Ley.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Instalaciones petrolíferas para uso de las Fuerzas Armadas.
+Las inspecciones y revisiones de las instalaciones petrolíferas para uso de las Fuerzas Armadas, que estén ubicadas dentro de la zona e instalaciones de interés para la Defensa Nacional, serán realizadas por los órganos correspondientes de las Fuerzas Armadas.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Extinción de concesiones.
+1. A la entrada en vigor de esta Ley, todas las concesiones para actividades incluidas en el servicio público de suministro de gases combustibles por canalización quedan extinguidas.
+Dichas concesiones quedan sustituidas de pleno derecho por autorizaciones administrativas de las establecidas en el Título IV de la presente Ley que habilitan a su titular para el ejercicio de las actividades, mediante las correspondientes instalaciones, que constituyeran el objeto de las concesiones extinguidas.
+2. Las citadas autorizaciones lo serán por tiempo indefinido quedando expresamente extinguida la reversión de instalaciones a la que se refiere el artículo 7.c) de la Ley 10/1987, de 15 de junio.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Transporte marítimo de hidrocarburos líquidos y sólidos.
+El transporte marítimo de hidrocarburos se ajustará en todo caso al régimen establecido por la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante, así como lo dispuesto en su normativa de desarrollo.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Desestimación de resoluciones.
+Las solicitudes de resoluciones administrativas que deban dictarse conforme a lo dispuesto en la presente Ley se podrán entender desestimadas, si no recae resolución expresa en el plazo que al efecto se establezca o se determine en sus disposiciones de desarrollo.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Actualización del importe de las sanciones.
+El Gobierno, por Real Decreto, procederá periódicamente a la actualización del importe de las sanciones establecidas en el Título VI teniendo en cuenta las variaciones de los índices de precios al consumo.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Intervención de una empresa.
+1. Cuando el incumplimiento de las obligaciones de las empresas que realizan las actividades y funciones reguladas en la presente Ley pueda afectar a la continuidad y seguridad del suministro de hidrocarburos, y a fin de garantizar su mantenimiento, el Gobierno podrá acordar la intervención de la correspondiente empresa de acuerdo con lo previsto en el artículo 128.2 de la Constitución, adoptando las medidas oportunas para ello.
+A estos efectos serán causas de intervención de una empresa las siguientes:
+a) La suspensión de pagos o quiebra de la empresa.
+b) La gestión irregular de la actividad cuando le sea imputable y pueda dar lugar a su paralización.
+c) La grave y reiterada falta de mantenimiento adecuado de las instalaciones que ponga en peligro la seguridad de las mismas.
+2. En los supuestos anteriores, si las empresas que desarrollan actividades y funciones o las que se refiere la presente Ley, lo hacen exclusivamente mediante instalaciones cuya autorización sea competencia de una Comunidad Autónoma, la intervención será acordada por ésta.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Comisión Nacional de Energía.
+Primero. (Derogado).
+Segundo. (Derogado).
+Tercero. (Derogado).
+Cuarto. (Derogado).
+Quinto. (Derogado).
+Sexto. Objetivos generales y relación de la Comisión Nacional de Energía con la Agencia de Cooperación de los Reguladores de la Energía y con los Organismos Reguladores del resto de los Estados miembros de la Unión Europea.
+1. En el ejercicio de las funciones especificadas en la presente Ley, y en colaboración con otras autoridades reguladoras nacionales o los órganos equivalentes de las Comunidades Autónomas, y sin perjuicio de las competencias de éstos, la Comisión Nacional de Energía tomará todas las medidas razonables para contribuir a lograr los siguientes objetivos:
+a) Promover el funcionamiento competitivo del sector de energético para garantizar la efectiva disponibilidad y prestación de unos servicios competitivos y de calidad, en lo que se refiere al suministro de la electricidad y de los hidrocarburos tanto líquidos como gaseosos, en beneficio del conjunto del mercado y de los consumidores y usuarios.
+b) Promover, en cooperación con la Agencia de Cooperación de los Reguladores de la Energía, las autoridades reguladoras de los demás Estados miembros y la Comisión Europea, un mercado interior de electricidad y del gas natural competitivo, seguro y sostenible ambientalmente, y abrir el mercado de manera efectiva a todos los clientes y suministradores comunitarios, así como garantizar las condiciones adecuadas para que las redes de electricidad y gas funcionen de modo eficaz y fiable, teniendo en cuenta objetivos a largo plazo.
+c) Desarrollar mercados regionales competitivos y que funcionen adecuadamente en el ámbito del mercado de la Unión Europea, con el fin de lograr el objetivo mencionado en el párrafo b).
+d) Eliminar las restricciones al comercio de la electricidad y del gas natural entre Estados miembros, incluyendo en este objetivo el desarrollo de la capacidad de transporte transfronterizo adecuada para satisfacer la demanda y reforzar la integración de los mercados nacionales que pueda facilitar el flujo de la electricidad y del gas natural a través del mercado interior de la Unión Europea.
+e) Contribuir a lograr, de la manera más rentable, el desarrollo de redes no discriminatorias seguras, eficientes y fiables, orientadas a los consumidores y fomentar la adecuación de la red, y, en consonancia con los objetivos generales de la política energética, la eficiencia energética, así como la integración de la producción a gran escala y a pequeña escala de la electricidad y del gas a partir de fuentes de energía renovables y la producción distribuida en las redes tanto de transporte como de distribución.
+f) Facilitar el acceso a la red de nuevas capacidades de producción, en particular, suprimiendo las trabas que pudieran impedir el acceso a nuevos agentes del mercado y de electricidad y gas procedentes de fuentes de energía renovables.
+g) Asegurar que se dan a los gestores y usuarios de redes los incentivos adecuados tanto a corto como a largo plazo para aumentar la eficiencia de las prestaciones de la red y fomentar la integración del mercado.
+h) Contribuir a garantizar un alto nivel de servicio, la protección de los consumidores de energía, especialmente los clientes vulnerables, y la compatibilidad de los procesos de intercambio de datos necesarios para que los clientes cambien de suministrador.
+2. La Comisión Nacional de Energía nombrará a un representante entre los miembros del Consejo y a un sustituto entre su personal directivo, a efectos de contacto y representación en el seno del Consejo de Reguladores de la Agencia de Cooperación de los Reguladores de la Energía, según lo previsto en el artículo 14, apartado 1, del Reglamento (CE) n.º 713/2009 del Parlamento Europeo y del Consejo, de 13 de julio de 2009, por el que se crea la Agencia de Cooperación de los Reguladores de la Energía.
+3. La Comisión Nacional de Energía fomentará el contacto, la colaboración en cuestiones transfronterizas, la coordinación regular y periódica con la Agencia de Cooperación de los Reguladores de la Energía, con la Comisión Europea y con los Organismos Reguladores de los Estados miembros de la Unión Europea y de otros Estados.
+4. Sin perjuicio de sus competencias específicas, la Comisión Nacional de Energía cooperará con el resto de Organismos Reguladores de los Estados miembros de la Unión Europea, con el fin de:
+a) Promover la aplicación de medidas operativas, a fin de permitir una gestión óptima de la red, y fomentar los intercambios conjuntos de gas y electricidad y la asignación de capacidad transfronteriza, así como para permitir un nivel adecuado de capacidad de interconexión, incluso mediante nuevas interconexiones, en una región y entre regiones, de manera que pueda darse una competencia efectiva y mejorarse la seguridad del suministro, sin que haya discriminación entre empresas de suministro de diferentes Estados miembros.
+b) Coordinar el desarrollo de todos los códigos de red para los gestores de red de transporte pertinentes y otros agentes del mercado.
+c) Coordinar el desarrollo de las normas que rigen la gestión de la congestión.
+5. La Comisión Nacional de Energía podrá establecer acuerdos de cooperación con el resto de Organismos Reguladores de los Estados miembros con el fin de fomentar la cooperación en el ámbito de la regulación.
+6. La Comisión Nacional de Energía comunicará al Ministerio de Industria, Energía y Turismo los nombramientos a los que se refiere el apartado 2. Asimismo informará a dicho Ministerio sobre el desarrollo de las actuaciones que se lleven a cabo en aplicación de los apartados 3 y 4 de forma que se permita realizar un seguimiento actualizado de las mismas y remitirá copia de los acuerdos a que se refiere el apartado 5.
+7. La Comisión Nacional de Energía deberá cumplir y poner en práctica las decisiones pertinentes y jurídicamente vinculantes de la Agencia y la Comisión Europea. La Comisión Nacional de Energía podrá solicitar un dictamen de la Agencia de Cooperación de los Reguladores de la Energía sobre la compatibilidad de cualquier decisión adoptada por un Organismo Regulador con las directrices mencionadas en las Directivas 2009/72/CE y 2009/73/CE o en el Reglamento (CE) n.º 715/2009 del Parlamento Europeo y del Consejo, de 13 de julio de 2009 sobre las condiciones de acceso a las redes de transporte de gas natural y por el que se deroga el Reglamento (CE) n.º 1775/2005.
+8. La Comisión Nacional de Energía remitirá la memoria anual de actividades que incluya las cuentas anuales, la situación organizativa y la información relativa al personal y las actividades realizadas por la Comisión, con los objetivos perseguidos y los resultados alcanzados al Ministerio de Industria, Energía y Turismo. Asimismo, informará anualmente de sus actividades y del cumplimiento de sus obligaciones a la Agencia de Cooperación de los Reguladores de la Energía y a la Comisión Europea.
+Se deroga, excepto el apartado 6, por la disposición derogatoria de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+ Se modifica el apartado 3 y se añade el 6 por el art. 2.32 a 34 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por la disposición final 33ª de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se añade el apartado 3.1.19 por el art. 5 del Real Decreto-Ley 1/2009, de 23 de febrero. Ref. BOE-A-2009-3022
+ Se modifica el apartado 3.1.14 por el art. único del Real Decreto-Ley 4/2006, de 24 de febrero. Ref. BOE-A-2006-3436
+ Se modifica el apartado 3.3 por el art. 13 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+ Se modifica el apartado 2.1 por el art. 92.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el apartado 3.1.8ª por el art. 76.2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+ Se modifica el apartado 3.3 por el art. 9 del Real Decreto 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+ Se modifican los apartados 1.4 y 2 por el art. 71.1 y 2 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
+ Redactado el apartado 2.3 conforme a la corrección de errores publicada en BOE núm. 29, de 3 de febrero de 1999. Ref. BOE-A-1999-2635
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Financiación de la Comisión Nacional de Energía.
+(Derogada).
+Se deroga por la disposición derogatoria de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+ Se modifican los puntos 2 y 3 del apartado 2 por la disposición final 3 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. único.47 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se añade el punto 6 al apartado 2 por el art. 1 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+ Se modifica por el art. 19.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Modificación de la Ley 6/1997, de 14 de abril.
+Se modifica el párrafo primero del apartado 1 de la disposición adicional décima de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado:
+«1. La Comisión Nacional del Mercado de Valores, el Consejo de Seguridad Nuclear, el ente público RTVE, las Universidades no transferidas, la Agencia de Protección de Datos, el Consorcio de la Zona Especial Canaria, la Comisión Nacional de Energía y la Comisión del Mercado de las Telecomunicaciones se regirán por su legislación específica y supletoriamente por esta Ley.»
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Regímenes fiscales forales.
+Las regulaciones contenidas en la presente Ley se entienden sin perjuicio de los regímenes tributarios forales vigentes en los Territorios Históricos del País Vasco y en la Comunidad Foral de Navarra.
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta. Sociedades cooperativas.
+Las sociedades cooperativas sólo podrán realizar las actividades de distribución al por menor de productos petrolíferos a que se refiere el artículo 43 de la presente Ley con terceros no socios, mediante la constitución de una entidad con personalidad jurídica propia, a la que sea aplicable el régimen fiscal general. No será necesario el cumplimiento de este requisito para las cooperativas agrarias.
+Para dar inicio a las actividades de distribución al por menor de productos petrolíferos a que se refiere el párrafo anterior, las cooperativas, incluidas las agrarias, deberán contar con instalaciones que cumplan cuantas instrucciones técnicas, de seguridad, de metrología o metrotecnia, medioambientales, normas urbanísticas, de protección de los consumidores y usuarios, o cualesquiera otras que sean exigibles a las instalaciones de suministro a vehículos y a las de suministro a instalaciones fijas para consumo propio, conforme al artícu­lo 43 de la presente Ley.
+Se modifica por el art. 9.1 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+ Se modifica por el art. 1.4 del Real Decreto-Ley 10/2000, de 6 de octubre. Ref. BOE-A-2000-18137
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta. Biocombustibles y biocarburantes.
+1. Se consideran biocarburantes los productos que a continuación se relacionan y que se destinen a su uso con fines de combustión en cualquier tipo de motor, directamente o mezclados con carburantes convencionales:
+a) El bioetanol: alcohol etílico producido a partir de productos agrícolas o de origen vegetal, ya se utilice como tal o previa modificación o transformación química.
+b) El biometanol: alcohol metílico, obtenido a partir de productos de origen agrícola o vegetal, ya se utilice como tal o previa modificación o transformación química.
+c) El biodiesel: ester metílico producido a partir de aceite vegetal o animal.
+d) Los aceites vegetales.
+e) Todos aquellos productos que se determine.
+2. La distribución y venta de estos productos se regirá por lo dispuesto en el Título III de la misma, tanto si se utilizan como carburantes como si se emplean mediante combustión con fines de producción de calor.
+3. Se establecen los siguientes objetivos anuales de biocarburantes y otros combustibles renovables con fines de transporte, que expresan contenidos energéticos mínimos en relación al de gasolinas y gasóleos comercializados con fines de transporte:
+2008
+ 2009
+ 2010
+ Contenido de biocarburantes...
+ 1,9 %
+ 3,4  %
+ 5,83 %
+El objetivo anual que se fija para el año 2008 tendrá carácter de indicativo, mientras que los objetivos establecidos para 2009 y 2010 serán obligatorios.
+El Gobierno podrá modificar los objetivos establecidos en la tabla anterior, así como establecer objetivos adicionales.
+Se habilita al Ministerio de Industria, Turismo y Comercio, previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos, a dictar las disposiciones necesarias para regular un mecanismo de fomento de la incorporación de biocarburantes y otros combustibles renovables, destinado a lograr el cumplimiento de los objetivos establecidos en la presente Disposición Adicional. En particular, este mecanismo podrá incluir la cuantificación de las obligaciones, indicando los tipos de producto con que se deberá cumplir la obligación, los sujetos obligados, un sistema de certificación que permita la supervisión y control de las obligaciones, así como mecanismos de flexibilidad que favorezcan la máxima eficiencia en el logro de los objetivos.
+Se modifica por el art. único.48 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Disposición adicional decimoséptima
+
+Disposición adicional decimoséptima. Ley 54/1997, de 27 de noviembre, del sector eléctrico.
+1. Se modifica el apartado 1 del artículo 12 de la Ley 54/1997, de 27 de noviembre, del sector eléctrico, que queda redactado en los siguientes términos:
+«1. Las actividades para el suministro de energía eléctrica que se desarrollen en los territorios insulares o extrapeninsulares serán objeto de una reglamentación singular que atenderá a las especificidades derivadas de su ubicación territorial, previo acuerdo con las Comunidades o Ciudades Autónomas afectadas.»
+2. Se incluye una «disposición adicional decimoquinta. Sistemas eléctricos insulares y extrapeninsulares», en la Ley 54/1997, de 27 de noviembre, del sector eléctrico, que queda redactada en los siguientes términos:
+«1. La planificación eléctrica, que tendrá carácter indicativo salvo en lo que se refiere a instalaciones de transporte, en cuanto afecte a territorios insulares o extrapeninsulares, se realizará de acuerdo con las Comunidades o Ciudades Autónomas afectadas.
+2. En el caso de que en los territorios insulares o extrapeninsulares se produjeran situaciones de riesgo cierto para la prestación del suministro de energía eléctrica o situaciones de las que se pueda derivar amenaza para la integridad física o la seguridad de las personas, de aparatos o instalaciones o para la integridad de la red de transporte o distribución de energía eléctrica, la adopción de las medidas previstas en el artículo 10 de la presente Ley corresponderá a las Comunidades o Ciudades Autónomas afectadas, siempre que tal medida sólo afecte a su respectivo ámbito territorial. Dichas medidas no tendrán repercusiones económicas en el sistema eléctrico, salvo que mediara acuerdo previo del Ministerio de Industria y Energía.
+3. La determinación del gestor o gestores de la red de las zonas eléctricas ubicadas en territorios insulares y extrapeninsulares corresponderá a la respectiva Administración Autonómica.»
+3. Se incluye un tercer párrafo en la disposición transitoria decimoquinta. Sistemas insulares y extrapeninsulares, de la Ley 54/1997, de 27 de noviembre, del sector eléctrico, que queda redactado en los siguientes términos:
+«El período de transición a la competencia a que se refiere el párrafo primero no impedirá el otorgamiento por la Administración competente de autorizaciones de instalaciones de producción de energía eléctrica previstas en el artículo 21 de la presente Ley.»
+
+### Disposición adicional decimoctava
+
+Disposición adicional decimoctava. Consejo de Seguridad Nuclear.
+Se modifica el artículo 6 de la Ley de creación del Consejo de Seguridad Nuclear, en los siguientes términos:
+«Los cargos de Presidente, Consejeros y Secretario general del Consejo de Seguridad Nuclear son incompatibles con cualquier otro cargo o función, retribuida o no, percibiendo exclusivamente, por toda la duración de su mandato o cargo, la retribución que se fije en atención a la importancia de su función. Al cesar en el cargo y durante los dos años posteriores, no podrá ejercer actividad profesional alguna relacionada con la seguridad nuclear y la protección radiológica. Reglamentariamente se determinará la compensación económica que corresponda percibir en virtud de esta limitación.»
+
+### Disposición adicional decimonovena
+
+Disposición adicional decimonovena. Servidumbres de paso.
+La servidumbre de paso constituida a favor de la red básica de transporte, redes de transporte y redes de distribución de gas, incluye aquellas líneas y equipos de telecomunicación que por ellas puedan transcurrir, tanto si son para el servicio propio de la explotación gasista, como para el servicio de telecomunicaciones públicas y, sin perjuicio del justiprecio que, en su caso, pudiera corresponder, de agravarse esta servidumbre.
+Igualmente, las autorizaciones existentes a las que se refiere el artículo 103.2 de la presente Ley, incluyen aquellas líneas y equipos de telecomunicación que por ellas puedan transcurrir, con el mismo alcance objetivo y autonomía que resulten del párrafo anterior.
+
+### Disposición adicional vigésima
+
+Disposición adicional vigésima. Gestor Técnico del Sistema.
+El Director Ejecutivo de la sociedad filial de ENAGÁS, S.A. que ejerza las funciones del Gestor Técnico del Sistema será nombrado y cesado por el Consejo de Administración de la sociedad, con el visto bueno del Ministro de Industria, Turismo y Comercio.
+El personal de la filial que ejerza las funciones como Gestor Técnico del Sistema suscribirá el código de conducta al que hace referencia el artículo 63 de la presente Ley garantizando su independencia respecto al resto de actividades desarrolladas por el grupo empresarial.
+Se modifica por la disposición final 6.3 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Se modifica por el art. único.49 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se modifica por el art. 92.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se añade por el art. 15 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Disposición adicional vigésima primera
+
+Disposición adicional vigésima primera. Devengo de intereses en el supuesto de falta de ingreso de las cuotas con destinos específicos.
+En el supuesto de que los agentes del sistema gasista a los que corresponda efectuar el ingreso de las cuotas con destinos específicos de conformidad con lo dispuesto en el artículo 9 de la Orden ECO/2692/2002, de 28 de octubre, por la que se regulan los procedimientos de liquidación de la retribución de las actividades reguladas del sector de gas natural y de las cuotas con destinos específicos y se establece el sistema de información que deben presentar las empresas o norma que lo sustituya, no cumplieran con su obligación de ingresar las cantidades que les correspondan, comenzarán a devengarse automáticamente intereses de demora que serán equivalentes al interés legal del dinero incrementado en 1,5 puntos.
+A estos efectos, la Comisión Nacional de Energía les requerirá, inmediatamente después de transcurrido el plazo para efectuar el pago, para que procedan al ingreso de los importes correspondientes, sin perjuicio del devengo automático de los intereses a partir del día siguiente al de la finalización del período establecido para el pago.
+Queda exceptuado de lo dispuesto en los apartados anteriores la tasa aplicable a la prestación de servicios y realización de actividades por la Comisión Nacional de Energía en relación con el sector de hidrocarburos gaseosos que se regirá por su normativa específica.
+Se autoriza al Ministro de Economía para dictar cuantas disposiciones sean necesarias en desarrollo y cumplimiento de lo dispuesto en la presente disposición adicional.
+Se añade por el art. 92.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Disposición adicional vigésima segunda
+
+Disposición adicional vigésima segunda. Devengo de intereses en el supuesto de falta de pago por los agentes del sistema gasista de las liquidaciones.
+En el supuesto de que los transportistas o distribuidores a los que correspondiese efectuar pagos por liquidaciones de conformidad con lo dispuesto en los artículos 7 y 8 de la Orden ECO/2692/2002, de 28 de octubre, por la que se regulan los procedimientos de liquidación de la retribución de las actividades reguladas del sector de gas natural y de las cuotas con destinos específicos y se establece el sistema de información que deben presentar las empresas o norma que lo sustituya, no cumplieran con su obligación de ingresar en plazo las cantidades que les correspondan, comenzarán a devengarse, sin necesidad de requerimiento previo, intereses de demora que serán equivalentes al interés legal del dinero incrementado en 1,5 puntos.
+Se autoriza al Ministro de Economía para dictar cuantas disposiciones sean necesarias en desarrollo y cumplimiento de lo dispuesto en la presente disposición adicional.
+Se añade por el art. 92.5 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Disposición adicional vigésima tercera
+
+Disposición adicional vigésima tercera. Distribución de gas natural.
+Sobre la zona de distribución de gas natural de una autorización administrativa no podrán concederse nuevas autorizaciones para la construcción de instalaciones de distribución, debiendo cumplir las obligaciones de servicio de interés general y extensión de las redes, impuestas en la legislación y en la propia autorización administrativa. Todo ello sin perjuicio de lo previsto en el artículo 78.
+Se añade por el art. 29 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Disposición adicional vigésima cuarta
+
+Disposición adicional vigésima cuarta. Consumidores cualificados.
+(Suprimida)
+Se suprime por el art. único.50 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se añade por el art. 30 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Disposición adicional vigésima quinta
+
+Disposición adicional vigésima quinta. Almacenamiento Operativo incluido en los peajes de regasificación y de transporte y distribución.
+1. Los peajes de regasificación y de transporte y distribución incluirán el derecho al uso de las instalaciones necesarias para transportar el gas desde el punto de entrada en la red de transporte hasta el punto de suministro al consumidor y el derecho a un almacenamiento operativo mínimo necesario para poder operar en el sistema.
+Dicho almacenamiento mínimo se fija en ½ día de la capacidad de transporte y distribución contratada, para la red de gasoductos de transporte, y en cinco días de gas natural licuado de la capacidad contratada diaria para los tanques de las plantas de regasificación con carácter general, excepto para el caso de usuarios de las instalaciones con una capacidad de transporte y distribución contratada inferior al 0,5% de la capacidad contratada total, para los que el derecho al uso del almacenamiento operativo en la red de gasoductos corresponderá a un día de la capacidad de transporte y distribución contratada.
+2. El Ministro de Industria, Turismo y Comercio, podrá modificar el número de días de almacenamiento operativo incluido en el peaje de regasificación y en el peaje de transporte y distribución.
+Se añade por el art. 2.1 del Real Decreto-Ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+
+### Disposición adicional vigésima sexta
+
+Disposición adicional vigésima sexta. Asignación de la capacidad de los almacenamientos subterráneos.
+1.Para la asignación de la capacidad de los almacenamientos subterráneos se podrá reservar un porcentaje de la capacidad útil de los mismos para su reparto, con carácter anual, entre los sujetos del sistema gasista.
+En caso de existir capacidad remanente de almacenamiento subterráneo resultante del reparto anual, las solicitudes de acceso a los almacenamientos subterráneos se resolverán atendiendo al orden cronológico de recepción de la petición formal, sin que ningún comercializador pueda reservar más del 25 % de esta capacidad remanente. Si una vez realizada esta asignación quedara capacidad de almacenamiento remanente para el periodo anual considerado, se atenderán las solicitudes pendientes y las nuevas que se reciban por orden cronológico sin considerar el límite del 25 % por comercializador.
+2. Los contratos de acceso que se firmen como consecuencia del reparto asociado a esta reserva tendrán una duración anual, de abril de un año a marzo del año siguiente, sin derecho a prórroga.
+3. Las solicitudes de reserva de capacidad se presentarán por los sujetos interesados durante los meses de diciembre y enero. El Gestor Técnico del Sistema realizará la asignación de capacidades conforme al procedimiento descrito anteriormente antes del día 28 de febrero de cada año.
+3. El Ministro de Industria, Turismo y Comercio podrá modificar los criterios para la asignación de la capacidad de los almacenamientos subterráneos.
+Se añade por el art. 2.2 del Real Decreto-Ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+
+### Disposición adicional vigésima séptima
+
+Disposición adicional vigésima séptima. Comité de Seguimiento de la Gestión Técnica del Sistema Energético.
+Se crea el Comité de Seguimiento de la Gestión Técnica del Sistema Energético, el cual estará formado por representantes de la Secretaría General de Energía del Ministerio de Industria, Turismo y Comercio, del Gestor Técnico del Sistema de gas natural, del Operador del Sistema Eléctrico, de la Corporación de Reservas Estratégicas de Productos Petrolíferos y de la Comisión Nacional de Energía.
+El objetivo del citado Comité es el seguimiento permanente de la garantía de los suministros energéticos. La composición, funciones y régimen de funcionamiento del citado Comité se establecerán reglamentariamente.
+El Comité de Seguimiento de la Gestión Técnica del Sistema Energético elaborará un informe anual que será remitido a las Comunidades Autónomas.
+Se añade por el art. único.51 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869.
+
+### Disposición adicional vigésima octava
+
+Disposición adicional vigésima octava. Plazos de resolución de conflictos en relación con la gestión de las redes.
+Las reclamaciones administrativas contra un transportista o distribuidor de gas natural podrán presentarse ante el organismo responsable de la resolución de los mismos, quien, emitirá una decisión en el plazo de los dos meses siguientes a la recepción de la reclamación. Este plazo podrá prorrogarse por dos meses si el organismo responsable solicita información adicional. Asimismo, podrá prorrogarse por más tiempo con el consentimiento del reclamante.
+Se añade por el art. único.52 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869.
+
+### Disposición adicional vigésima novena
+
+Disposición adicional vigésima novena. Separación contable en el sector de hidrocarburos líquidos y gases licuados del petróleo.
+Aquellas sociedades mercantiles o grupos de sociedades que realicen actividades de exploración, producción, refino, transporte, almacenamiento, distribución mayorista, y distribución minorista de productos petrolíferos, y distribución mayorista, y distribución minorista de gases licuados del petróleo, deberán llevar cuentas separadas para cada una de dichas actividades.
+Sin perjuicio de la aplicación de las normas generales de contabilidad, el Gobierno podrá establecer las especialidades contables y de publicación de cuentas que se consideren adecuadas, del tal forma que se reflejen con nitidez los ingresos y gastos de diferentes actividades y las transacciones realizadas entre sociedades de un mismo grupo.
+Se añade por el art. único.53 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Disposición adicional trigésima
+
+Disposición adicional trigésima. Inscripciones vigentes en el registro de Distribuidores, Comercializadores y Consumidores Cualificados.
+Al registro de Distribuidores, Comercializadores y Consumidores Directos en Mercado de combustibles gaseosos por canalización, previsto en el artículo 83, quedarán incorporados, desde el momento de su creación, todos los asientos registrales vigentes en el Registro de Distribuidores, Comercializadores y Consumidores Cualificados de gases combustibles por canalización.
+Se añade por el art. único.54 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Disposición adicional trigésima primera
+
+Disposición adicional trigésima primera. Constitución de sociedades filiales de ENAGÁS, S.A.
+1. ENAGÁS, S.A. constituirá dos sociedades filiales en las que ostente la totalidad del capital social y a las que correspondan las funciones de gestor técnico del sistema y transportista respectivamente, que se realizará con la aportación de todos los activos materiales y personales que se encuentren actualmente dedicados al ejercicio de cada una de las citadas actividades. ENAGÁS, S.A. podrá transmitir su denominación social a la sociedad filial transportista.
+2. A la sociedad filial de ENAGÁS, S.A. constituida con arreglo al apartado anterior que ejerza las funciones del Gestor Técnico del Sistema le serán de aplicación todas las disposiciones de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos relativas al mismo.
+A la sociedad filial que ejerza la actividad de transportista le serán de aplicación todas las disposiciones de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos relativas a la citada actividad. Los gasoductos de transporte primario que forman parte de la red troncal le serán autorizados de forma directa a dicha sociedad filial de transporte a los efectos de la citada Ley.
+Ninguna persona física o jurídica podrá participar directa o indirectamente en el accionariado de la sociedad matriz, en una proporción superior al 5 por 100 del capital social, ni ejercer derechos políticos en dicha sociedad por encima del 3 por 100. Estas acciones no podrán sindicarse a ningún efecto. Aquellos sujetos que realicen actividades en el sector gasista y aquellas personas físicas o jurídicas que, directa o indirectamente participen en el capital de éstos en más de un 5 por 100, no podrán ejercer derechos políticos en dicha sociedad matriz por encima del 1 por 100. Dichas limitaciones no serán aplicables a la participación directa o indirecta correspondiente al sector público empresarial. Las participaciones en el capital social no podrán sindicarse a ningún efecto.
+Asimismo, la suma de participaciones directas o indirectas, de los sujetos que realicen actividades en el sector de gas natural, no podrá superar el 40 por 100.
+A efectos de computar la participación en dicho accionariado, se atribuirán a una misma persona física o jurídica, además de las acciones y otros valores poseídos o adquiridos por las entidades pertenecientes a su mismo grupo, tal y como éste se define en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, aquellas cuya titularidad corresponda:
+a) A las personas que actúen en nombre propio pero por cuenta de aquélla, de forma concertada o formando con ella una unidad de decisión. Se entenderá, salvo prueba en contrario, que actúan por cuenta de una persona jurídica o de forma concertada con ella los miembros de su órgano de administración.
+b) A los socios junto a los que aquélla ejerza el control sobre una entidad dominada conforme a lo previsto en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+En todo caso, se tendrá en cuenta tanto la titularidad dominical de las acciones y demás valores como los derechos de voto que se disfruten en virtud de cualquier título.
+El incumplimiento de la limitación en la participación en el capital a la que se refiere la presente disposición se considerará infracción muy grave a los efectos señalados en el artículo 109 de la presente Ley, siendo responsables las personas físicas o jurídicas que resulten titulares de los valores o a quien resulte imputable el exceso de participación en el capital o en los derechos de voto, de conformidad con lo dispuesto en los párrafos anteriores. En todo caso, será de aplicación el régimen sancionador previsto en dicha Ley.
+ENAGÁS, S.A. no podrá transmitir a terceros las acciones de las filiales que realicen actividades reguladas.
+3. Las limitaciones de los porcentajes de participación y no transmisibilidad de las acciones a las que se refiere la presente disposición no le resultará aplicable a otras filiales que ENAGÁS, S.A. pudiera constituir para el desarrollo de actividades empresariales distintas del transporte regulada en el artículo 66 de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, la gestión de la red de transporte y la gestión técnica del sistema gasista nacional.
+4. El régimen fiscal especial previsto en el capítulo VIII del título VII del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, será aplicable a las operaciones a que se refiere el apartado 1 de esta disposición adicional.
+Se añade por la disposición final 6.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+
+### Disposición adicional trigésima segunda
+
+Disposición adicional trigésima segunda. Sociedades filiales de ENAGAS, S.A.
+ENAGÁS, S.A. no podrá realizar a través de las filiales a las que se refiere la disposición adicional trigésimo primera actividades distintas de la gestión técnica del sistema, el transporte y la gestión de la red de transporte. Del mismo modo dichas filiales reguladas no podrán adquirir participaciones en las sociedades con objeto social distinto, todo ello sin perjuicio de lo establecido en el artículo 65.ter de la presente Ley.
+Se modifica por el art. 6.1 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a6.
+ Se añade por el art. 2.35 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442
+
+### Disposición adicional trigésima tercera
+
+Disposición adicional trigésima tercera. Obligación de suministro domiciliario de gases licuados del petróleo envasados, en envases con carga igual o superior a 8 kilogramos e inferior a 20 kilogramos y precios máximos de venta al público.
+1. Los usuarios con un contrato de suministro de gases licuados del petróleo envasado, para envases con carga igual o superior a 8 kilogramos e inferior a 20 kilogramos, a excepción de los envases de mezcla para usos de los gases licuados del petróleo como carburante, tendrán derecho a que dicho suministro les sea realizado en su propio domicilio.
+A nivel peninsular y en cada uno de los territorios insulares y extrapeninsulares, el operador al por mayor de GLP con mayor cuota de mercado por sus ventas en el sector de los gases licuados del petróleo envasado, en envases con carga igual o superior a 8 kilogramos e inferior a 20 kilogramos, exceptuados los envases de mezcla para usos de los gases licuados del petróleo como carburante, tendrá la obligación de efectuar el suministro domiciliario a todo peticionario del mismo dentro del ámbito territorial correspondiente.
+2. El listado de operadores al por mayor de GLP con obligación de suministro se determinará por resolución del Director General de Política Energética y Minas cada tres años. Esta resolución se publicará en el "Boletín Oficial del Estado".
+Cuando la evolución del mercado y la estructura empresarial del sector lo precisen y, en todo caso, cada cinco años, el Gobierno revisará las condiciones para ejercer la obligación impuesta en esta Disposición o acordar la extinción de la misma.
+3. No obstante lo dispuesto en el artículo 38 de esta Ley, en tanto las condiciones de concurrencia y competencia en este mercado no se consideren suficientes, el Ministro de Industria, Energía y Turismo, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, determinará los precios máximos de venta al público de los gases licuados del petróleo envasados, en envases con carga igual o superior a 8 kilogramos e inferior a 20 kilogramos, cuya tara sea superior a 9 kilogramos, a excepción de los envases de mezcla para usos de los gases licuados del petróleo como carburante, estableciendo valores concretos de dichos precios o un sistema de determinación y actualización automática de los mismos. El precio máximo incorporará el coste del suministro a domicilio.
+4. Sin perjuicio de lo dispuesto en los apartados anteriores, en el caso de que el operador al por mayor de GLP con obligación de suministro domiciliario, en envases con carga igual o superior a 8 kilogramos e inferior a 20 kilogramos, no disponga de envases cuya tara sea superior a 9 kilogramos, la obligación de suministro domiciliario a los precios máximos de venta a que hace referencia el apartado 3 se extenderá a envases cuya tara sea inferior a 9 kilogramos, en el correspondiente ámbito territorial.
+5. Los operadores al por mayor de GLP deberán proporcionar a la Dirección General de Política Energética y Minas la información que les sea requerida para el ejercicio de sus funciones, en especial a efectos de la aplicación, análisis y seguimiento de la obligación de suministro domiciliario, de los suministros de gases licuados del petróleo realizados y de los precios máximos de venta al público, a los que hacen referencia los apartados anteriores.
+Se añade por el art. 57.2 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que esta disposición ya fue añadida por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se añade por el art. 57.2 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Disposición adicional trigésima cuarta
+
+Disposición adicional trigésimo cuarta. Liquidez del mercado de gas.
+El Gobierno y el Ministro de Industria, Energía y Turismo adoptarán, en el ámbito de sus respectivas competencias, las disposiciones oportunas tendentes a garantizar la liquidez del mercado de gas.
+La Comisión Nacional de los Mercados y la Competencia publicará anualmente un informe en el que se analice y se incluyan recomendaciones en relación al nivel de liquidez, la transparencia y el nivel de competencia del mercado organizado de gas. En caso de que no hubiera operadores dispuestos a generar dicha liquidez de forma voluntaria en el mercado, o se considerase que su aportación es insuficiente, el Gobierno podrá obligar a los comercializadores de gas natural que ostenten la calificación de operadores dominantes, de acuerdo con lo establecido en la disposición adicional tercera del Real Decreto-ley 6/2000, de 23 de junio, de Medidas Urgentes de Intensificación de la Competencia en Mercados de Bienes y Servicios, a presentar ofertas de compra y venta de gas, por un volumen determinado, en el citado mercado con un diferencial.
+La Comisión Nacional de los Mercados y la Competencia propondrán al Ministerio de Industria, Energía y Turismo, para el producto considerado, una metodología para el cálculo de dicho diferencial así como para el volumen a ofertar. Dicha metodología será aprobada por resolución de la Secretaría de Estado de Energía.
+Se añade por el art. 6.2 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a6.
+
+### Disposición adicional trigésima quinta
+
+Disposición adicional trigésima quinta. Información de Estaciones de Servicio.
+Sin perjuicio de lo establecido en el artículo 44 de esta Ley, la información del Registro de instalaciones de distribución al por menor del Ministerio de Industria, Energía y Turismo se completará con la información prevista en la Orden ITC/2308/2007, de 25 de julio, por la que se determina la forma de remisión de información al Ministerio de Industria, Turismo y Comercio sobre las actividades de suministro de productos petrolíferos.
+Se añade por el art. 6.3 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a6.
+
+### Disposición adicional trigésima sexta
+
+Disposición adicional trigésima sexta. Liquidación definitiva.
+La liquidación definitiva de los ingresos y costes del sistema gasista de cada ejercicio, a partir de la correspondiente al año 2015, deberá ser realizada con anterioridad al día 1 de diciembre del año siguiente al que corresponda.
+Se añade por el art. 6.4 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a6.
+
+### Disposición adicional trigésima séptima
+
+Disposición adicional trigésima séptima. Acuerdos con países no pertenecientes a la Unión Europea en relación a los gasoductos de transporte.
+En las negociaciones entre España y países no pertenecientes a la Unión Europea, relativos a la modificación, ampliación, o celebración de acuerdos relativos a la gestión de gasoductos de transporte sobre asuntos que recaigan en al ámbito de aplicación de la Directiva 2009/73/CE del Parlamento Europeo y del Consejo, de 13 de julio, se actuará acorde con lo dispuesto en el artículo 49 ter de la citada Directiva.
+Se añade por la disposicion final 2.5 del Real Decreto-ley 34/2020, de 17 de noviembre. Ref. BOE-A-2020-14368#df-2
+ Se deja sin efecto la adición de este precepto por Resolución de 10 de septiembre de 2020, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-10491
+ Se añade por la disposición final 5.5 del Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-9131#df-5
+
+### Disposición adicional trigésima octava
+
+Disposición adicional trigésima octava. Suministro de gases renovables mediante canalizaciones aisladas.
+1. El suministro de gases renovables mediante canalizaciones, e instalaciones auxiliares, que sean aisladas, es decir, no conectadas al sistema gasista, tendrá la consideración de actividad de interés general, excluyendo en todo caso aquellas relativas a la producción de gases renovables y las líneas directas, definidas en el artículo 78.
+2. Las canalizaciones aisladas de gases renovables se declaran de utilidad pública a los efectos de expropiación forzosa y ejercicio de la servidumbre de paso, aplicándose lo dispuesto en el título V de la ley.
+3. Las canalizaciones aisladas de gases renovables no requerirán su inclusión en la planificación en materia de hidrocarburos.
+4. Con independencia de su presión máxima de diseño, la tramitación de estas canalizaciones aisladas corresponderá al órgano competente de la comunidad autónoma por donde discurran, excepto cuando atraviesen más de una comunidad autónoma, en cuyo caso la autorización corresponderá a la Administración General del Estado conforme al procedimiento general de autorización, establecido en el título IV del Real Decreto 1434/2002, de 27 de diciembre. En ambos casos, y cuando la presión máxima de diseño sea superior a 16 bar, la autorización requerirá informe previo preceptivo de la Comisión Nacional de los Mercados y la Competencia. Adicionalmente, en el caso de canalizaciones de hidrógeno conectadas a electrolizadores alimentados por la red eléctrica será necesario informe vinculante del Operador del Sistema Eléctrico.
+La tramitación de instalaciones con presión máxima de diseño superior a 16 bar que sea competencia de las comunidades autónomas requerirá, además, informe preceptivo y vinculante de la Dirección General de Política Energética y Minas del Ministerio para la Transición Ecológica y el Reto Demográfico.
+El acceso de terceros a estas instalaciones será negociado con base en principios de transparencia, objetividad y no discriminación, de forma que se asegure una rentabilidad razonable al titular, conforme a una empresa eficiente y bien gestionada, estableciendo la Comisión Nacional de los Mercados y la Competencia, si se considerase oportuno, los criterios de acceso. Se podrá solicitar la reserva de una parte de la capacidad de la conducción para aquellos centros de producción de gases renovables que se construyan simultáneamente con la canalización o durante los tres años siguientes.
+5. Estas instalaciones no devengarán retribución regulada y los ingresos por el acceso negociado que perciba el titular no deberán declararse en el procedimiento de liquidaciones.
+6. En función de su presión máxima de diseño, el titular de estas instalaciones tendrá la consideración de transportista o distribuidor a efectos de derechos, obligaciones, infracciones, sanciones, procedimiento sancionador y seguridad de suministro que le sean de aplicación y que se encuentren establecidos en la presente ley y en su normativa de desarrollo, con las especificidades derivadas de la naturaleza del combustible suministrado. Igualmente deberá cumplir con el resto de normas que sean de aplicación y en especial aquellas relativas a la seguridad industrial y la protección del medio ambiente.
+La conexión de nuevos ramales, que no tengan la consideración de líneas directas, con las instalaciones objeto de esta disposición adicional, será autorizada conforme a lo dispuesto en el apartado tercero.
+7. La comercialización de gases renovables mediante estas instalaciones se realizará conforme lo dispuesto en el capítulo VI del título IV de la ley. La empresa que realice la actividad de comercialización deberá estar registrada conforme al dispuesto para los comercializadores de gas natural y estará sujeta a los derechos y obligaciones de los comercializadores de gas natural que sean de aplicación, con la excepción de la obligación de mantenimiento de existencias mínimas de seguridad por el suministro de gases renovables. Esta actividad será compatible con la comercialización de gas natural y electricidad y estará sujeta a separación contable.
+8. A los consumidores conectados a estas instalaciones le serán de aplicación los derechos y obligaciones dispuestos para los consumidores de gas natural y su suministro se realizará conforme a lo dispuesto para el suministro de gas natural, siéndole también de aplicación las funciones y competencias de la Comisión Nacional de los Mercados y la Competencia atribuidas en la presente ley y en la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, en relación con el suministro de gas combustible por canalización.
+9. Los titulares de estas instalaciones tendrán la consideración de sujetos pasivos de la tasa aplicable a la prestación de servicios y realización de actividades en relación con el sector de hidrocarburos gaseosos, establecida en el anexo de la Ley 3/2013, de 4 de junio.
+Se añade por la disposición final 4.6 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df-4
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Aplicación de la Ley 21/1974, de 27 de junio.
+Los permisos de investigación y concesiones de explotación otorgados al amparo de la Ley 21/1974, de 27 de junio, sobre régimen jurídico de la investigación y explotación de hidrocarburos, o anteriores, se regirán por dicha Ley, salvo manifestación expresa de los titulares, de su deseo de acogerse a la regulación que para dichos permisos y concesiones establece la presente Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Disposiciones reglamentarias aplicables.
+No obstante lo dispuesto en la disposición derogatoria única, en tanto no se dicten las disposiciones de desarrollo de la presente Ley continuarán en vigor, en lo que no se opongan a la misma, las disposiciones reglamentarias aplicables en materias que constituyen su objeto.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Instrucciones técnicas.
+El Gobierno, en el plazo máximo de un año, mediante Real Decreto, aprobará las instrucciones técnicas complementarias a que se refiere el párrafo segundo del artículo 43.2 de la presente Ley, y mientras tanto serán de aplicación a cualquier persona física o jurídica que realice las actividades previstas en dicho precepto, las instrucciones técnicas complementarias actualmente vigentes, según el tipo de actividad de que se trate.
+A estos efectos, las futuras Instrucciones técnicas complementarias estarán referidas respectivamente a dos supuestos diferenciados, de un lado aquellas instalaciones sin suministro a vehículos y de otro lado, aquellas instalaciones en las que se efectúen suministros a vehículos, sin perjuicio de que en cada uno de estos supuestos se traten de forma diferenciada, de acuerdo con criterios objetivos, los distintos tipos de instalación en función de los diversos elementos técnicos concurrentes en cada caso. No obstante, durante este período transitorio, la Instrucción técnica complementaria MI-IP 03, «Instalaciones petrolíferas para uso propio», aprobada por Real Decreto 1427/1997, de 15 de septiembre, será de aplicación a las entidades de base asociativa de transportes, considerándolas incluidas en el apartado 2.1.K) de la citada Instrucción técnica complementaria, siempre que los suministros que realicen correspondan a un único tipo de carburante o combustible, se efectúen exclusivamente en vehículos de sus asociados afectos a su actividad de transporte público y en sus instalaciones no puedan repostar más de dos vehículos simultáneamente.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Precios de gases licuados del petróleo envasado.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.f) de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que esta disposición ya fue derogada por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se deroga por la disposición derogatoria única.2.f) del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Consumidores cualificados.
+(Derogada)
+Se deroga por la disposición derogatoria única.d) del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+ Se modifica el apartado 3 por el art. 93.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se modifica por el art. 11 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+ Se modifican los apartados 1 y 2 por el art. 4.1 del Real Decreto-Ley 6/1999, de 16 de abril. Ref. BOE-A-1999-8577
+ Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 101, de 28 de abril de 1999. Ref. BOE-A-1999-9408
+ Se añade el apartado 1 bis por el art. 108.4 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Término de conexión y seguridad.
+Hasta el 1 de enero del año 2005, las tarifas, peajes y cánones regulados en la presente Ley incluirán un término de conexión y seguridad del sistema, que será satisfecho por todos los consumidores de gas natural y que tendrá por objeto asegurar una rentabilidad razonable a aquellas inversiones en instalaciones de la Red Básica y de transporte secundario destinadas a dotar de la adecuada seguridad al sistema de gas natural, que hubiesen sido objeto de concesión antes de la entrada en vigor de la presente Ley.
+Se modifica por el art. 12 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Separación de actividades.
+1. Las sociedades que a la entrada en vigor de la presente Ley vinieran realizando actividades que, conforme a lo dispuesto en el artículo 63 deban estar separadas contablemente, procederán a hacer efectiva dicha separación contable en el plazo de un año desde dicha entrada en vigor.
+2. Las sociedades que a la entrada en vigor de la presente Ley realizasen actividades incompatibles dentro del sector gasista, procederán a la separación jurídica de dichas actividades, de acuerdo con lo previsto en el artículo 63, en el plazo de dos años desde la entrada en vigor de la presente Ley.
+3. Las sociedades que inicien actividades de comercialización de gases combustibles, lo harán mediante sociedades que tengan como único objeto social en el sector gasista dicha actividad.
+4. A las aportaciones de activos afectos a actividades gasistas que se efectúen en cumplimiento de la exigencia de separación de actividades prevista en el artículo 63 de esta Ley les será de aplicación el régimen establecido para las aportaciones de ramas de actividad en el capítulo VIII del Título VIII de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades.
+Los aranceles de Notarios, Registradores Mercantiles y de la Propiedad correspondientes a los actos necesarios de adaptación a la citada exigencia de separación de actividades quedarán reducidos al 10 por 100.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Expedientes de autorizaciones y concesiones en tramitación.
+Los expedientes de autorizaciones y concesiones referentes a actividades objeto de regulación en el Título IV y que se encuentren en trámite a la entrada en vigor de esta Ley se resolverán conforme a lo dispuesto en la misma.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Tarifas, peajes y cánones.
+Con objeto de evaluar correctamente la aplicación del nuevo sistema de peajes, tarifas y cánones y evitar posibles distorsiones en la regulación del derecho de acceso a las instalaciones de terceros lo dispuesto en el artículo 92.2 de la presente Ley se aplicará en un plazo no superior a dos años contados desde la fecha en que todos los consumidores tengan la condición de cualificados.
+Se modifica por el art. 13 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+ Redactado conforme a la corrección de errores publicada en BOE núm. 29, de 3 de febrero de 1999. Ref. BOE-A-1999-2635
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Comisión Nacional del Sistema Eléctrico.
+1. No obstante lo dispuesto en el apartado primero, 1, de la disposición adicional undécima de la presente Ley, la Comisión Nacional del Sistema Eléctrico continuará en el ejercicio de sus funciones hasta que finalice el período de cinco años para el que fueron designados los miembros que, a la entrada en vigor de la presente Ley, compongan su Consejo de Administración.
+Durante este período de tiempo, se podrá ostentar simultáneamente el cargo de miembro de la Comisión Nacional del Sistema Eléctrico y de miembro de la Comisión Nacional de Energía, siempre y cuando hayan resultado elegidos por el procedimiento previsto en la disposición adicional undécima, apartado primero, número 4, de esta Ley, percibiendo solamente remuneración por uno de ellos.
+2. Reglamentariamente se establecerá el traspaso de los medios materiales y personales de la Comisión Nacional del Sistema Eléctrico a la Comisión Nacional de Energía garantizando, en todo caso, la máxima economía de recursos.
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima. Miembros de la Comisión Nacional de Energía.
+En el plazo de tres meses desde la entrada en vigor de la presente Ley, se procederá a la designación del Presidente y los vocales miembros de la Comisión Nacional de Energía.
+
+### Disposición transitoria duodécima
+
+Disposición transitoria duodécima. Contratos de suministro en exclusiva.
+Los propietarios de las instalaciones para el suministro de vehículos que, a la entrada en vigor de la presente disposición transitoria, tuvieran concertado en régimen de comisión un acuerdo de suministro en exclusiva de carburantes y combustibles con un distribuidor al por mayor, tendrán derecho, desde dicha entrada en vigor, a la adaptación del clausulado del contrato al régimen de venta en firme, respetando su contenido económico, a cuyo efecto plantearán la correspondiente negociación, que no podrá dar lugar, en ningún caso, por esta causa, a la rescisión o resolución de estos contratos, ni a la interrupción del cumplimiento de la obligación de suministro en exclusiva ni de ninguna otra.
+
+### Disposición transitoria decimotercera
+
+Disposición transitoria decimotercera. Autorizaciones anteriores.
+Las autorizaciones concedidas con anterioridad a la entrada en vigor de la presente disposición en virtud de lo establecido en los artículos 7 y 8 de la Ley 34/1992, de 22 de diciembre, de ordenación del sector petrolero, se mantendrán vigentes y surtirán plenos efectos sin necesidad de ratificación.
+
+### Disposición transitoria decimocuarta
+
+Disposición transitoria decimocuarta.
+La transformación a que se refiere el artículo 77.3 de la presente Ley, la autorizará la Administración competente en cada momento con independencia de que la autorización original fuera de una Administración distinta a aquélla.
+
+### Disposición transitoria decimoquinta
+
+Disposición transitoria decimoquinta. Distribución de gas natural.
+(Derogada)
+Se deroga por la disposición derogatoria única.d) del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+ Se modifica por el art. 14 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+ Se modifica por el art. 4.2 del Real Decreto-Ley 6/1999, de 16 de abril. Ref. BOE-A-1999-8577
+
+### Disposición transitoria decimosexta
+
+Disposición transitoria decimosexta.
+El titular del contrato de aprovisionamiento de gas natural procedente de Argelia y suministrado a través del gasoducto de El Magreb asignará un 75 por 100 del gas proveniente del mismo a "Enagas, Sociedad Anónima", que lo venderá a los distribuidores para su venta a los consumidores a tarifas y el 25 por 100 restante a comercializadores para su venta a consumidores cualificados.
+Antes del 31 de diciembre de 2000 se fijará, por Orden del Ministro de Economía, el procedimiento para la aplicación del 25 por 100 destinado a los comercializadores, que deberá ser transparente y no discriminatorio y se realizará a un precio que incluya el coste de adquisición de la materia prima más una retribución en concepto de gastos de gestión que se fijará reglamentariamente. Cada comercializador no podrá acceder a más de un 25 por 100 del gas destinado al mercado liberalizado, podrá contemplarse la exclusión del mismo en función de la posición relativa en el mercado y contemplará la posibilidad de aplicar las cantidades no cubiertas por las peticiones de los comercializadores, al mercado a tarifas a través de la empresa "Enagas, Sociedad Anónima".
+A partir del 1 de enero del año 2004, el gas natural procedente de este contrato se aplicará preferentemente al suministro a tarifas.
+Se añade por el art. 15 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+ Redactado el último párrafo conforme a la corrección de errores publicada en BOE núm. 154, de 28 de junio de 2000. Ref. BOE-A-2000-12137
+
+### Disposición transitoria decimoséptima
+
+Disposición transitoria decimoséptima. Régimen transitorio de los ingresos de la Comisión Nacional de Energía.
+1. En tanto no se determine para el ejercicio 2002 la base imponible referida en la letra b), primero, del apartado 2 de la disposición adicional duodécima de la presente Ley, seguirán siendo de aplicación las ventas medias mensuales de gasolinas, gasóleos, querosenos y fuelóleos establecidas mediante Resoluciones de la Dirección General de Política Energética y Minas del Ministerio de Economía de 8 de marzo de 2001
+Una vez dictada la correspondiente Resolución por la Dirección General de Política Energética y Minas del Ministerio de Economía, la Comisión Nacional de Energía efectuará las regularizaciones que, en su caso, procedan, de acuerdo con la determinación de ventas que la misma hubiese establecido.
+2. En tanto no se aprueben por la Comisión Nacional de Energía los impresos de declaración-liquidación a que se refieren los números segundo y tercero de la disposición adicional duodécima, apartado 2 de la presente Ley resultarán de aplicación los modelos normalizados aprobados mediante Resolución de la Comisión Nacional de Energía de 23 de marzo de 2000 y Circular 3/1998, de 30 de julio, de la Comisión Nacional del Sistema Eléctrico.
+3. Los ingresos de la Comisión Nacional de Energía correspondientes al año 2001 y ejercicios anteriores al citado pendientes de recaudación a la entrada en vigor de la presente Ley seguirán rigiéndose a todos los efectos por la normativa anterior.
+Se añade por el art. 19.2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+
+### Disposición transitoria decimoctava
+
+Disposición transitoria decimoctava. Reparto de la capacidad de los almacenamientos subterráneos.
+El porcentaje de la capacidad útil reservado para el reparto entre los sujetos del sistema gasista se fija para 2006 en el 100% y se realizará bajo los siguientes criterios:
+El 83% de la capacidad de almacenamiento de gas utilizable de los almacenamientos subterráneos se asignará entre los usuarios que lo soliciten de forma proporcional a sus ventas o consumos totales en el mercado durante el año natural anterior a cada reparto.
+Los comercializadores cuyas cuotas de mercado en el cómputo de ventas totales de gas natural en el año natural anterior sea inferior al 0,5 por 100 podrán solicitar que sea considerada hasta un máximo de dicho porcentaje su cuota de ventas totales a los efectos de cómputo para el reparto descrito en el párrafo anterior.
+El 17% de la capacidad de almacenamiento de gas utilizable se asignará entre los usuarios de forma proporcional a las ventas a consumidores conectados a gasoductos de presión inferior o igual a 4 bares.
+Para el periodo 2006-2007, la duración de los contratos que se firmen como consecuencia del reparto asociado a esta reserva finalizará en marzo de 2007, con independencia de la fecha de su firma.
+El Secretario General de Energía del Ministerio de Industria, Turismo y Comercio podrá modificar los porcentajes a los que se refiere la presente disposición así como el procedimiento de reparto.
+El Gestor Técnico del Sistema realizará la asignación de capacidades para el periodo 2006-2007 en un plazo de quince días desde la entrada en vigor de la presente disposición. Los contratos de almacenamiento subterráneo de gas existentes deberán ajustarse a los plazos y cantidades asignadas en el reparto.
+Se añade por el art. 2.3 del Real Decreto-Ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+
+### Disposición transitoria decimonovena
+
+Disposición transitoria decimonovena. Existencias mínimas de seguridad de gas natural.
+Hasta el 1 de enero de 2012, las existencias mínimas de seguridad a que se refiere el artículo 98 de la presente Ley, podrán incluir reservas de carácter operativo. Reglamentariamente, se establecerá la parte de las existencias mínimas de seguridad que podrá tener carácter operativo y la forma en que éstas podrán computarse.
+Se añade por el art. único.55 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Disposición transitoria vigésima
+
+Disposición transitoria vigésima. Régimen transitorio de los gases manufacturados en territorios insulares.
+Hasta la finalización y puesta en marcha de las instalaciones que permitan el suministro de gas natural en los territorios insulares, las empresas distribuidoras propietarias de las instalaciones para la distribución de gases combustibles en el citado ámbito territorial, podrán efectuar el suministro de gases manufacturados y/o aire propanado por canalización con el régimen establecido en la presente disposición transitoria.
+El Ministro de Industria, Turismo y Comercio, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dictará las disposiciones necesarias para el establecimiento de las tarifas de venta de los gases manufacturados y/o aire propanado para los consumidores finales, estableciendo los valores concretos de dichas tarifas y precios o un sistema de determinación y actualización automática de las mismas, asimismo establecerá la retribución que corresponda a la citada empresa por el ejercicio de la actividad de suministro y por el suplemento de coste que suponga el suministro de los gases manufacturados y/o aire propanado.
+Las tarifas de gases manufacturados y/o aire propanado estarán limitadas al máximo que establezca la tarifa de último recurso para cada nivel de presión y volumen de consumo, y serán cobradas por las empresas distribuidoras de gas, debiendo dar a las cantidades ingresadas la misma aplicación que para los peajes y cánones proceda de acuerdo con lo previsto en la presente Ley.
+Durante dicho periodo transitorio en el procedimiento de reparto de los fondos ingresados por transportistas y distribuidores, se tomará en consideración la retribución que corresponda a las citadas empresas por el ejercicio de la actividad de suministro y por el suplemento de coste que suponga el suministro de los gases manufacturados y/o aire propanado.
+Se añade por el art. único.56 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Disposición transitoria vigésima primera
+
+Disposición transitoria vigésima primera. Régimen transitorio de los derechos de acometida para atender los requerimientos de suministro a los usuarios.
+En aquellas Comunidades Autónomas en las que no se hayan aprobado las cuantías relativas a los derechos de acometida a que se refiere el artículo 91, se aplicarán los importes previstos por este concepto de acuerdo con lo establecido en el Real Decreto 1434/2002, de 27 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de gas natural, y las disposiciones normativas de desarrollo en las que se establezcan las tarifas de gas natural y gases manufacturados por canalización, alquiler de contadores y derechos de acometida para los consumidores conectados a redes de presión de suministro igual o inferior a 4 bar.
+Se añade por el art. único.57 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+
+### Disposición transitoria vigésima segunda
+
+Disposición transitoria vigésima segunda. Régimen transitorio de instalaciones en dominio público.
+Los titulares de las actividades referidas en el artículo 103.1 de la presente Ley que con anterioridad a su entrada en vigor hayan requerido resolución de la Administración del Estado previa al inicio de su ejercicio en la que se establezca una determinada localización de las instalaciones e infraestructuras, con obligación de aprobación administrativa de su proyecto de instalación, resultando la necesidad de ocupación de terrenos deslindados, anterior o posteriormente, como dominio público estatal de cualquier naturaleza, tendrán derecho a la prórroga de dichas concesiones o, en su caso, al otorgamientos de nuevas concesiones de ocupación de dominio al término de la primera, en tanto no se declare extinguido el interés general que motivó dicha localización mediante resolución motivada de rango equivalente a aquella en que se adoptó dicha decisión, o hubieren perdido, por causa prevista en el ordenamiento, el título o condiciones que habilitan para el ejercicio de la actividad. En tanto no se resuelva dicha prórroga o, en su caso, una nueva concesión, se considerará prorrogada la existente.
+Se añade por la disposición final 29ª de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Disposición transitoria vigésima tercera
+
+Disposición transitoria vigésima tercera. Plazo para constituir la filial.
+Antes de que transcurra un año desde la entrada en vigor de la presente ley, ENAGÁS, S.A. constituirá las sociedades filiales a las que se refiere la disposición adicional trigésima primera de esta Ley. Los aranceles de Notarios, Registradores Mercantiles y de la Propiedad correspondientes a los actos necesarios para la constitución de las filiales quedarán reducidos al 10%.
+Se añade por la disposición final 6.2 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+
+### Disposición transitoria vigésima cuarta
+
+Disposición transitoria vigésima cuarta. Separación de actividades de los transportistas de la red troncal.
+Las empresas transportistas titulares de instalaciones de la red troncal deberán realizar las adaptaciones necesarias para dar cumplimiento a lo dispuesto en el artículo 63.3 antes del día 3 de octubre de 2012.
+Se añade por el art. 2.36 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Sin perjuicio de lo dispuesto en la disposición transitoria segunda, a la entrada en vigor de la presente Ley quedan derogadas:
+a) La Ley 21/1974, de 27 de junio, sobre investigación y explotación de los hidrocarburos.
+b) La Ley 10/1987, de 15 de junio, de disposiciones básicas para un desarrollo coordinado de actuaciones en materia de combustibles gaseosos.
+c) La Ley 34/1992, de 22 de diciembre, de ordenación del sector petrolero.
+d) Los artículos 25 a 29, ambos inclusive, del Real Decreto-ley 7/1996, de 7 de junio.
+e) El artículo 86.3 de la Ley 7/1985, de 2 de abril, y disposiciones concordantes, en lo que se refieren al suministro de gas.
+f) Los artículos 6, 7 y 8 de la Ley 54/1997, de 27 de noviembre, del sector eléctrico.
+g) Cualquier otra norma legal o reglamentaria en cuanto se oponga a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Carácter de la Ley.
+1. La presente Ley tiene carácter básico, de acuerdo con lo establecido en el artículo 149.1.13.ª y 25.ª de la Constitución.
+2. Se excluyen de este carácter básico las referencias a los procedimientos administrativos, que serán regulados por la Administración competente, ajustándose en todo caso a lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. Las disposiciones de la presente Ley relativas al régimen de comercio exterior de crudo de petróleo y productos petrolíferos y a expropiación forzosa y servidumbres se dictan en ejercicio de las competencias atribuidas al Estado en el artículo 149.1.8.ª , 10.ª y 18.ª de la Constitución.
+Los preceptos del Título II relativos a exploración, investigación y explotación de hidrocarburos son de aplicación general, al amparo de lo previsto en el artículo 149.1.13.ª, 18.ª y 25.ª de la Constitución.
+
+### Disposición final segunda
+
+Disposición final segunda. Facultades de desarrollo.
+El Gobierno, en el ámbito de sus competencias, aprobará mediante Real Decreto las normas de desarrollo de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La Ley de Presupuestos Generales del Estado podrá modificar, de conformidad con lo previsto en el apartado 7 del artículo 134 de la Constitución Española, las escalas contenidas en la disposición adicional primera de esta ley, así como las del artículo 44 de la Ley 21/1974, de 27 de junio, sobre régimen jurídico de la exploración, investigación y explotación de hidrocarburos, en la medida en que resultan aplicables en virtud de lo dispuesto en la disposición transitoria primera de esta ley.
+Se modifica por el art. 23.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+Se añade por el art. 23.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Su anterior numeración era disposición final 3.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 7 de octubre de 1998.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSE MARIA AZNAR LOPEZ

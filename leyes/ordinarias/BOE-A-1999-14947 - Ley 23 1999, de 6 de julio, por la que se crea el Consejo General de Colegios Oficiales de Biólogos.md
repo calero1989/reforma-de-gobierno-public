@@ -1,0 +1,51 @@
+# Ley 23/1999, de 6 de julio, por la que se crea el Consejo General de Colegios Oficiales de Biólogos.
+
+- Identificador BOE: `BOE-A-1999-14947`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-14947
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La Ley 2/1974, de 13 de febrero, de Colegios Profesionales, modificada por las Leyes 74/1978, de 26 de diciembre, y 7/1997, de 14 de abril, establece en su artículo 4.4 que cuando estén constituidos varios Colegios de una misma profesión de ámbito inferior al nacional existirá un Consejo General, para cuya creación se precisa una Ley del Estado, según lo previsto en el artículo 15.3 de la Ley 12/1983, de 14 de octubre, del Proceso Autonómico.
+La situación antes descrita se produce en relación con la profesión de biólogo, cuyo actual título oficial de licenciado universitario fue establecido por el Real Decreto 387/1991, de 22 de marzo, por lo que resulta procedente crear mediante la presente norma el Consejo General de Colegios Oficiales de Biólogos.
+
+### Artículo 1
+
+Artículo 1. Creación.
+Se crea el Consejo General de Colegios Oficiales de Biólogos como corporación de Derecho público, que tendrá personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines con arreglo a la ley.
+
+### Artículo 2
+
+Artículo 2. Relaciones con la Administración General del Estado.
+El Consejo General de Colegios Oficiales de Biólogos se relacionará con la Administración General del Estado a través del Ministerio de Educación y Cultura.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Comisión gestora.
+1. A la entrada en vigor de esta Ley, se constituirá una Comisión gestora compuesta por un representante de cada uno de los Colegios Oficiales de Biólogos actualmente existentes.
+2. En el plazo de tres meses, a contar desde la entrada en vigor de esta Ley, la Comisión gestora elaborará unos Estatutos provisionales reguladores de los órganos de gobierno del Consejo General de Colegios Oficiales de Biólogos, en los que se deberán incluir las normas de constitución y funcionamiento de dichos órganos, con determinación expresa de la competencia independiente, aunque coordinada, de cada uno de ellos.
+3. Los Estatutos provisionales se remitirán al Ministerio de Educación y Cultura, que verificará su adecuación a la legalidad y ordenará, en su caso, su publicación en el «Boletín Oficial del Estado».
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Constitución del Consejo General de Colegios Oficiales de Biólogos.
+1. El Consejo General de Colegios Oficiales de Biólogos quedará formalmente constituido y adquirirá personalidad jurídica y plena capacidad de obrar en el momento en que se constituyan sus órganos de gobierno, conforme a lo previsto en los Estatutos provisionales a que se refiere la disposición anterior.
+2. En el plazo de tres meses desde su constitución, el Consejo General de Colegios Oficiales de Biólogos elaborará sus Estatutos definitivos, previstos en el artículo 6.2 de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales, que serán sometidos a la aprobación del Gobierno, a través del Ministerio de Educación y Cultura.
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+Esta Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 6 de julio de 1999.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

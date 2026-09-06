@@ -1,0 +1,454 @@
+# Ley 3/1988, de 13 de diciembre, de Ordenación de la Función Pública de Castilla-La Mancha.
+
+- Identificador BOE: `BOE-A-1989-1487`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1989-1487
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Norma derogada, con efectos de 22 de septiembre de 2011, excepto los arts. 10, 11, 19.1 y 2 y 20, que mantendrán su vigencia con rango reglamentario hasta que entren vigor las normas de desarrollo, en los términos establecidos en la disposición derogatoria única.1.a) y 2.a) de la Ley 4/2011, de 10 de marzo. Ref. BOE-A-2011-7752#dd
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA
+Hago saber a todos los ciudadanos de la Región que las Cortes de Castilla-La Mancha han aprobado la Ley 3/1988, de 13 de diciembre, de Ordenación de la Función Pública de la Junta de Comunidades de Castilla-La Mancha.
+Por consiguiente, al amparo del artículo 12, número 2, del Estatuto de Autonomía aprobado por Ley Orgánica 9/1982, de 10 de agosto, en nombre del Rey, promulgo y ordeno la publicación en el «Diario Oficial de la Comunidad Autónoma de Castilla-La Mancha» y su remisión al «Boletín Oficial del Estado» de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La Constitución de 1978 ordenó, en su artículo 103.3, la regulación por Ley del Estatuto de los Funcionarios Públicos, atribuyendo al Estado la competencia exclusiva de dictar las bases del régimen estatutario de los funcionarios públicos, bases que, en interpretación del Tribunal Constitucional persiguen una regulación normativa uniforme y vigencia común en toda la Nación a efectos de asegurar, en aras de intereses generales, un común denominador normativo.
+Si el Estatuto habría de configurar el marco jurídico general de la Función Pública, hasta tanto se publicase, era necesario dar respuesta a las necesidades organizativas derivadas de la construcción del Estado de las Autonomías. Con esta finalidad primordial fue publicada la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+En ejercicio de las competencias atribuidas por el Estatuto de Autonomía y conforme a lo dispuesto en la referida Ley 30/1984, se dictó la Ley 5/1985, de 26 de junio, de Función Pública de Castilla-La Mancha.
+La Ley 5/1985, de 26 de junio, de Función Pública de Castilla-La Mancha ha permitido, en el tiempo de vigencia, administrar los recursos humanos, sometiendo al régimen jurídico común que en ella se contienen, a la heterogeneidad de colectivos funcionariales transferidos. Pero dicha Ley, que se sustentaba en la 3/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y muy especialmente en los preceptos que ésta declaró básicos, se ha visto afectada por los cambios operados en aquélla.
+La Ley 30/1984, se ha visto afectada tanto por la sentencia del Tribunal Constitucional de 11 de junio de 1987 que declaró inconstitucionales determinados preceptos de la misma, como la promulgación de la Ley 23/1988, de 28 de junio, de Modificación de la Ley de Medidas para la Reforma de la Función Pública.
+Las modificaciones jurídicas de preceptos declarados básicos y aplicables al personal de todas las Administraciones, tiene como consecuencia la derogación de los preceptos de la Ley Autonómica en los que se regulaban dichas materias.
+Por último, con la publicación de la Ley 9/1987, de 12 de mayo, de Órganos de Representación, Determinación de las Condiciones de Trabajo y Participación del Personal al Servicio de las Administraciones Públicas, se han incorporado al régimen jurídico de Función Pública en materias carentes de regulación con anterioridad.
+Todo lo anterior ha conducido necesariamente a un proceso de revisión de la legislación autonómica de Función Pública, a efectos de adecuarla a la legislación básica estatal en la que se sustenta, resultado de cuyo proceso es la Ley que ahora se presenta.
+La presente Ley contiene la regulación de aquellas materias que afectan al ámbito competencial autonómico, remitiéndose a la regulación contenida en la Legislación del Estado para el resto de las materias propias de Función Pública. Con ello, se pretende lograr un triple objetivo:
+a) La adecuación autonómica a los cambios futuros en la regulación de la materia de que se trate, evitando, de este modo, la producción de leyes modificativas en los supuestos de cuestiones sometidas a cambios de tratamiento legal. Piénsese que el mandato constitucional contenido en el artículo 149.1.18 no ha sido desarrollado en su integridad, por lo que su completo desarrollo habrá de incidir, en cuanto que norma común a todas las Administraciones Públicas, en la legislación de cada una de ellas.
+b) La unificación normativa del régimen jurídico de Función Pública, dando cumplimiento al principio recogida en toda la legislación reguladora del proceso de transferencias, de la igualdad entre funcionarios transferidos y no transferidos y el mantenimiento de sus derechos.
+c) Reforzar la sistemática del Ordenamiento Jurídico en materia de Función Pública procurando una economía normativa que evite, en la legislación autonómica, repeticiones innecesarias de la regulación ya contenida en la legislación del Estado.
+Con esos objetivos la presente Ley contiene elementos normativos suficientes para la ordenación de los recursos humanos al servicio de la Administración autonómica; el ejercicio de las competencias que la gestión de la relación jurídica funcionarial lleve consigo; la coordinación de la política de personal; participación de los trabajadores y de las entidades locales en el Consejo Regional de la Función Pública, y, por último para facilitar la carrera, promoción profesional y el perfeccionamiento del personal, mediante la Escuela de Administración Regional que por la presente Ley se crea.
+
+## CAPÍTULO PRIMERO
+
+Objetivo y ámbito de aplicación de la Ley
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley tiene por objeto la ordenación de la Función Pública de la Administración de la Junta de Comunidades de Castilla-La Mancha, en desarrollo de las competencias atribuidas en su Estatuto de Autonomía y en el marco de la Legislación básica del Estado.
+
+### Artículo 2
+
+Artículo 2.
+1. Esta Ley será de aplicación a todo el personal al servicio de la Administración de la Junta de Comunidades.
+2. El personal docente, investigador y sanitario se regirá por sus normas específicas, sin perjuicio de la aplicación supletoria de esta Ley.
+3. El personal que preste servicios en régimen de Derecho Laboral se regirá por las normas de esta naturaleza y por los artículos de la presente Ley que les resulten aplicables.
+4. El personal al servicio de la Administración Local se regirá por su normativa específica y les será de aplicación esta Ley en todo lo que no esta reservado a la legislación del Estado.
+
+### Artículo 3
+
+Artículo 3.
+En lo no previsto en esta Ley se aplicará la legislación del Estado reguladora de la Función Pública, sin perjuicio de la adecuación y adaptación, en su caso, por vía reglamentaria.
+
+## CAPÍTULO SEGUNDO
+
+Del personal al servicio de la Administración de la Junta de Comunidades
+
+### Artículo 4
+
+Artículo 4.
+El personal al servicio de la Administración de la Junta de Comunidades estará integrado por:
+a) Funcionarios de carrera.
+b) Funcionarios interinos.
+c) Personal eventual.
+d) Personal laboral.
+
+### Artículo 5
+
+Artículo 5.
+Son funcionarios de carrera quienes, en virtud de nombramiento legal, se hallan incorporados a la Administración con una relación de carácter permanente regulado por el Derecho Administrativo, y perciben sus retribuciones con cargo a las consignaciones de personal del Presupuesto de la Junta de Comunidades o se encuentran en alguna de las situaciones administrativas previstas en la Ley.
+
+### Artículo 6
+
+Artículo 6. Funcionarios interinos.
+Son funcionarios interinos los que, por razones de necesidad y urgencia o para la ejecución de programas temporales, en virtud de nombramiento legal, desarrollan funciones retribuidas por las Administraciones Públicas en tanto no sea posible su desempeño por funcionarios de carrera, permanezcan las razones de necesidad o urgencia o dure el programa temporal.
+Los programas temporales tendrán una duración determinada y responderán ordinariamente a actividades no habituales de la Administración.
+Los funcionarios interinos nombrados para colaborar en un programa temporal cesarán al término de éste.
+Las plazas ocupadas por funcionarios interinos nombrados por razones de necesidad y urgencia que no se encuentren reservadas a funcionarios de carrera, deberán incluirse en las ofertas de empleo público correspondientes o ser objeto de provisión de acuerdo con los procedimientos legalmente establecidos.
+A los funcionarios interinos les será aplicable, en cuanto sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera. Asimismo, cuando se den las circunstancias que puedan dar lugar al pase a la situación de servicios especiales, excedencia por cuidado de hijo o cualquier otra situación que conlleve una reserva del puesto de trabajo para los funcionarios de carrera, los funcionarios interinos tendrán derecho a la suspensión de su nombramiento con reserva del puesto, sin que ello afecte a la temporalidad de su relación. En estos casos, la Administración podrá nombrar un sustituto del funcionario interino, el cual cesará por reincorporación del funcionario titular del puesto, del funcionario interino sustituido, por ocupación del puesto por funcionario de carrera o por amortización de la plaza al haber desaparecido las circunstancias que dieron lugar a su creación.
+Se modifica por el art. único.1 de la Ley 1/1999, de 4 de marzo . Ref. BOE-A-1999-11700
+
+### Artículo 7
+
+Artículo 7.
+Es personal eventual quien, en virtud de nombramiento legal, ejerce funciones de carácter no permanente, expresamente calificadas de confianza o asesoramiento especial del Presidente de la Junta de Comunidades, Vicepresidente y Consejeros de las misma, en puestos de trabajo reservados a este personal en las correspondientes relaciones.
+El personal eventual, cuyo nombramiento y cese será libre, cesará automáticamente cuando cese la Autoridad a la que presta su función de confianza o asesoramiento.
+El desempeño de un puesto de trabajo como personal eventual no constituirá mérito para el acceso a la Función Pública o para la promoción interna, ni dará preferencia para prestar servicios como personal laboral.
+
+### Artículo 8
+
+Artículo 8.
+Es personal laboral, quien, en virtud de contrato de naturaleza jurídico-laboral, que se formalizará siempre por escrito, desempeña puesto de trabajo calificado como tal en las correspondientes relaciones.
+
+## CAPÍTULO TERCERO
+
+Órganos Superiores de la Función Pública
+
+### Artículo 9
+
+Artículo 9.
+Son Órganos Superiores en materia de personal en la Junta de Comunidades de Castilla-La Mancha:
+a) El Consejo de Gobierno.
+b) El Consejero de Presidencia.
+d) El Consejo Regional de Función Pública.
+
+### Artículo 10
+
+Artículo 10.
+1. El Consejo de Gobierno dirige la política de personal y ejerce la función ejecutiva y la potestad reglamentaria en materia de personal en la Junta de Comunidades.
+2. Corresponde en particular al Consejo de Gobierno:
+a) Aprobar los Proyectos de Ley y Reglamentos en materia de Función Pública.
+b) Determinar los Órganos que ejercerán las competencias en materia de personal no atribuidas por la presente Ley.
+c) Determinar las instrucciones a que deberán atenerse los representantes de la Administración, cuando proceda la negociación con la representación sindical de los funcionarios en materia de condiciones de empleo, así como dar validez y eficacia mediante su aprobación expresa y formal a los acuerdos alcanzados, estableciendo las condiciones de empleo en los casos en que no se produzca acuerdo en las negociaciones.
+d) Establecer las instrucciones a las que deberá atenerse la representación de la Administración en la negociación colectiva con el personal sujeto a derecho laboral.
+e) Fijar las normas y directrices para la aplicación del régimen retributivo del personal al servicio de la Junta de Comunidades.
+f) Aprobar las directrices sobre programación de las necesidades de personal a medio y largo plazo.
+g) Aprobar los intervalos de niveles de los puestos de trabajo asignados a cada grupo de funcionarios y los criterios generales sobre promoción profesional.
+h) Determinar los requisitos para la adquisición de los grados superiores de cada grupo mediante la superación de cursos de formación y perfeccionamiento o la acreditación de otros requisitos objetivos que se determinen.
+i) Aprobar las Relaciones de Puestos de Trabajo.
+j) Aprobar la Oferta Anual de Empleo Público.
+k) Establecer las instrucciones generales a que habrá de ajustarse el establecimiento de servicios mínimos en caso de huelga.
+l) Determinar la jornada.
+ll) Acordar la sanción disciplinaria de separación de servicio.
+m) El ejercicio de cualquier otra competencia que le atribuya el ordenamiento jurídico.
+
+### Artículo 11
+
+Artículo 11.
+1. Corresponde al Consejero de Administraciones Públicas la dirección, gestión, coordinación y control de la política de personal, sin perjuicio de que por el Consejo de Gobierno se pueda atribuir a los titulares de las Consejerías competentes por razón de la materia, el ejercicio de todas o algunas de las competencias relacionadas en el apartado 3 de este artículo, respecto del personal docente, sanitario o de aquellos otros colectivos que por la singularidad de su función así lo precisen.
+2. Le corresponde asimismo proponer al Consejo de Gobierno, a iniciativa propia de la o las Consejerías afectadas, los proyectos de normas y, en general, cuantas medidas deba adoptar dicho órgano en materia de Función Pública.
+3. Corresponde en particular al Consejo de Presidencia:
+a) Establecer las directrices generales conforme a las cuales se ejercerán las competencias en materia de personal.
+b) Cuidar del cumplimiento por los órganos de personal de la Junta de Comunidades de las normas de general aplicación en materia de Función Pública y ejercer la inspección sobre todo el personal.
+c) Impulsar, coordinar y, en su caso, establecer y ejecutar los planes, medidas y actuaciones dirigidas a mejorar el rendimiento, la formación y promoción personal.
+d) Aprobar las normas de organización y funcionamiento del Registro de Personal.
+e) Aprobar las bases de las convocatorias de provisión de puestos de trabajo, convocarlas y resolverlas.
+f) Aprobar las bases, programas y contenido de las pruebas selectivas de personal, convocarlas y designar los órganos de selección.
+g) Nombrar funcionarios de carrera y la formalización de los contratos laborales con carácter indefinido.
+h) Elaborar y publicar las relaciones de personal.
+i) Acordar la integración de los funcionarios en Cuerpos o Escalas conforme a lo previsto en la disposición adicional segunda de esta Ley.
+j) Dictar las instrucciones para la elaboración de las Relaciones de Puestos de Trabajo.
+k) Autorizar los regímenes de jornadas y horarios especiales.
+l) Convocar elecciones a representantes de personal de acuerdo con la normativa vigente.
+ll) Ejercer cualquier otra competencia que le atribuya la legislación vigente.
+Se modifican los apartados 1 y 2 por el art. único.2 de la Ley 1/1999, de 4 de marzo . Ref. BOE-A-1999-11700
+
+### Artículo 12
+
+Artículo 12.
+1. El Consejo Regional de Función Pública es el Órgano Superior colegiado de consulta de la política en materia de personal, así como de participación de personal.
+2. El Consejo Regional de Función Pública funcionara en pleno. Por acuerdo del Consejo podrán constituirse grupos de trabajo o ponencias técnicas.
+3. Los informes del Consejo Regional de Función Pública en ningún caso tendrán carácter vinculante.
+4. El Consejo Regional de Función Pública elaborará sus normas de organización y funcionamiento.
+
+### Artículo 13
+
+Artículo 13.
+1. El Consejo Regional de Función Pública estará integrado por:
+El Consejo de Presidencia, que lo presidirá.
+El Director general de la Función Pública, que será el Vicepresidente.
+El Director general de Hacienda.
+El Director general de Administración Local.
+Los Secretarios generales técnicos de las Consejerías y el Secretario general de la Presidencia de la Junta de Comunidades.
+Nueve representantes de las Corporaciones Locales designados por las Federaciones de Entidades Locales existentes en la Región.
+2. Actuará como Secretario, con voz pero sin voto, un funcionario designado por el Presidente del Consejo Regional de Función Pública.
+
+### Artículo 14
+
+Artículo 14.
+1. Corresponde al Consejo de Función Pública de Castilla-La Mancha informar con carácter preceptivo sobre las siguientes materias:
+a) Los Proyectos de Ley referentes al personal de la Administración de la Junta de Comunidades.
+b) Las disposiciones de carácter general en materia de personal que deban ser aprobadas por el Consejo de Gobierno.
+c) La imposición de la sanción de separación del servicio.
+d) Las cuestiones que, en materia de personal, le sean consultadas por el Consejo de Gobierno o por el Consejero de Administraciones Públicas.
+e) Cualquier otra materia que así se establezca por norma de rango legal.
+2. El Consejo de Función Pública de Castilla-La Mancha, a propuesta de sus componentes, podrá tomar conocimiento, debatir y, en su caso, recomendar al órgano competente de la Administración, la adopción de medidas dirigidas a mejorar la organización, condiciones de trabajo, salud laboral y protección social, rendimiento, selección, promoción, formación, además de aquellas otras que, en materia de personal, estén encaminadas a conseguir una mayor eficacia y eficiencia en la prestación de los servicios.
+Se modifica por el art. único.3 de la Ley 1/1999, de 4 de marzo . Ref. BOE-A-1999-11700
+
+## CAPÍTULO CUARTO
+
+Estructura y organización de la Función Pública
+
+### Artículo 15
+
+Artículo 15.
+Los funcionarios de carrera de la Administración de la Junta de Comunidades se integran en los Cuerpos y Escalas que por la presente Ley se crean, o en aquellos que en el futuro puedan crearse.
+La creación, modificación o extinción de Cuerpos y Escalas se hará, en todo caso, por Ley.
+
+### Artículo 16
+
+Artículo 16.
+Los Cuerpos y Escalas de la Administración de la Junta de Comunidades de Castilla-La Mancha, agrupados de acuerdo con el nivel de titulación exigida para su ingreso, y sin perjuicio de la formación o requisitos específicos adicionales que sean exigibles para el acceso a los mismos, son los siguientes:
+Primero. Grupo A:
+Cuerpo Superior, para cuyo ingreso se exige estar en posesión del Título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalentes. Dentro de este Cuerpo se crean las siguientes Escalas:
+1.  Escala Superior de Sanitarios Locales, en la que existirán las siguientes especialidades, siendo necesario para su ingreso en cada una de ellas estar en posesión de la titulación que respectivamente se indica:
+Especialidad de Medicina: Título de Médico Especialista en Medicina Familiar y Comunitaria.
+Especialidad de Veterinaria: Título de Licenciado en Veterinaria.
+Especialidad de Farmacia: Título de Licenciado en Farmacia.
+2.  Escala Superior de Archivos, Bibliotecas y Museos, en la que existirán las siguientes especialidades:
+Especialidad de Archivos.
+Especialidad de Bibliotecas.
+Especialidad de Museos.
+3.  Escala Superior de Sistemas y Tecnologías de la Información, para cuyo ingreso se exige estar en posesión de alguna de las siguientes titulaciones: Ingeniero en Informática, Ingeniero de Telecomunicación, Ingeniero Industrial, Ingeniero en Automática y Electrónica Industrial, Ingeniero en Electrónica, Licenciado en Física o Licenciado en Matemáticas.
+4.  Escala Superior Sociosanitaria, para cuyo ingreso se exige estar en posesión de alguna de las siguientes titulaciones: Licenciado en Medicina o Licenciado en Psicología.
+5.  Escala Superior de Inspección y Evaluación Sanitaria, con las siguientes Especialidades:
+Especialidad de Medicina, para cuyo ingreso se exige estar en posesión del Título de Licenciado en Medicina.
+Especialidad de Farmacia, para cuyo ingreso se exige estar en posesión del Título de Licenciado en Farmacia.
+6.  Escala Superior de Letrados, para cuyo ingreso se exige estar en posesión del título de Licenciado en Derecho.
+7.  Escala Superior de Prevención de Riesgos Laborales.
+Segundo. Grupo B:
+Cuerpo Técnico, para cuyo ingreso se exige estar en posesión del Título de Ingeniero Técnico, Diplomado Universitario, Arquitecto Técnico o equivalentes. Dentro de este Cuerpo se crean las siguientes Escalas:
+1.  Escala Técnica de Sanitarios Locales, para cuyo ingreso es necesario estar en posesión de la titulación de Diplomado en Enfermería.
+2.  Escala Técnica de Archivos, Bibliotecas y Museos, en la que existirán las siguientes especialidades:
+Especialidad de Archivos.
+Especialidad de Bibliotecas.
+Especialidad de Museos.
+3.  Escala Técnica de Sistemas e Informática, para cuyo ingreso se exige estar en posesión de alguna de las siguientes titulaciones: Ingeniero Técnico en Informática de Gestión, Ingeniero Técnico en Informática de Sistemas, Ingeniero Técnico de Telecomunicación, o Ingeniero Técnico Industrial, especialidad en Electrónica Industrial.
+4.  Escala Técnica Sociosanitaria, para cuyo ingreso se exige estar en posesión de alguna de las siguientes titulaciones: Diplomado en Enfermería, Diplomado en Trabajo Social, Diplomado en Fisioterapia, Diplomado en Logopedia, Diplomado en Terapia Ocupacional, Educador Social y Maestro con alguna de las siguientes especialidades: Pedagogía Terapéutica, Audición y Lenguaje o Educación Física.
+5.  Escala Educativa, para cuyo ingreso se exige estar en posesión del Título de Maestro con la especialidad de Educación Infantil.
+6.  Escala Técnica de Inspección y Evaluación Sanitaria, para cuyo ingreso se exige estar en posesión del Título de Diplomado en Enfermería.
+7.  Escala Técnica de Prevención de Riesgos Laborales.
+Tercero. Grupo C:
+1.  Cuerpo Ejecutivo, para cuyo ingreso se exige estar en posesión del Título de Bachiller, Técnico Superior o equivalentes. Dentro de este Cuerpo se crean las siguientes Escalas:
+1.1 Escala Administrativa de Archivos y Bibliotecas.
+1.2 Escala Administrativa de Informática.
+1.3 Escala Administrativa de Prevención de Riesgos Laborales, para cuyo ingreso se exige estar en posesión del Título de Técnico Superior en Prevención de Riesgos Profesionales o equivalente.
+2.  Cuerpo de Agentes Medioambientales, para cuyo ingreso se exige estar en posesión del Título de Técnico Superior en Gestión y Organización de los Recursos Naturales y Paisajísticos o equivalentes.
+Cuarto. Grupo D:
+1.  Cuerpo Auxiliar, para cuyo ingreso se exige estar en posesión del Título de Graduado en Educación Secundaria, Técnico o equivalentes. Dentro de este Cuerpo se crea la Escala Auxiliar de Archivos y Bibliotecas.
+2. Cuerpo de Guardería Forestal, para cuyo ingreso se exige estar en posesión del Título de Graduado en Educación Secundaria, Técnico o equivalentes.
+Quinto. Grupo E:
+Cuerpo Subalterno, para cuyo ingreso se exige el Certificado de Escolaridad o acreditación de los años cursados y de las calificaciones obtenidas en la Educación Secundaria Obligatoria o equivalentes.
+Se modifica por el art. único.1 de la Ley 4/2006, de 19 de octubre. Ref. BOE-A-2007-1119
+ Téngase en cuenta la disposición transitoria 2 de la citada ley.
+ Se añade en el grupo A el punto 1.5, en el grupo B el punto 1.6 y se modifica el punto 2 del grupo D por el art. único.1 de la Ley 18/2002, de 24 de octubre. Ref. BOE-A-2002-24539
+ Se modifica por el art. 1 de la Ley 1/2002, de 7 de febrero. Ref. BOE-A-2002-6234
+ Téngase en cuenta para la aplicabilidad de las Escalas Superior Sociosanitaria, Técnica Sociosanitaria, Educativa, Administrativa de Archivos y Bibliotecas y Auxiliar de Archivos y Bibliotecas, la disposición final de la citada ley.
+ Se modifica por el art. único.4 de la Ley 1/1999, de 4 de marzo . Ref. BOE-A-1999-11700
+ Téngase en cuenta respecto de la creación de las Escalas Superior de Sistemas y Tecnologías de la Información, Técnica de Sistema e Informática y Administrativa de Informática, la disposición final de la citada ley.
+
+### Artículo 17
+
+Artículo 17.
+1. En la Dirección General de la Función Pública se llevará el Registro de Personal en el que se inscribirá a todo el personal al servicio de la Administración de la Junta de Comunidades.
+2. En el Registro de Personal se anotarán, preceptivamente, todos los actos que afecten a la vida administrativa del personal al servicio de la Administración de la Junta de Comunidades.
+
+### Artículo 18
+
+Artículo 18.
+1. Para cada Cuerpo y Escala de funcionarios y categoría de personal laboral fijo, se formalizará una relación circunstanciada del personal que lo integra, cualquiera que sea su situación, ordenada alfabéticamente. En las relaciones se harán constar los datos y circunstancias que reglamentariamente se determinen.
+2. Las relaciones circunstanciadas se actualizarán con la periodicidad que reglamentariamente se determine y se publicarán en el «Diario Oficial de Castilla-La Mancha».
+
+### Artículo 19
+
+Artículo 19.
+1. Los puestos de trabajo de la Administración de la Junta de Comunidades se ordenarán en las correspondientes relaciones, que serán públicas, y comprenderán, conjunta o separadamente, los atribuidos a personal funcionario de carrera, el número y características de los que puedan ser ocupados por personal eventual, así como aquellos otros que puedan desempeñarse por personal laboral.
+Con carácter general los puestos de trabajo serán desempeñados por funcionarios de carrera.
+2. Las relaciones de puesto de trabajo indicarán, en todo caso, la denominación, características esenciales de los mismos y los requisitos exigidos para su desempeño.
+a) Las características esenciales de los puestos de trabajo que se harán constar en las relaciones serán las siguientes:
+Cuando se trate de puestos reservados a funcionarios: El complemento de destino, el complemento específico, en su caso, la forma de provisión; el grupo o grupos de titulación de los funcionarios que puedan desempeñarlos, la denominación del Centro a que corresponda y la localidad.
+Cuando se trate de puestos reservados a personal laboral: La categoría laboral, los complementos retributivos, la denominación del Centro a que corresponda la localidad y el régimen jurídico aplicable.
+b) En las relaciones de puesto de trabajo podrán incluirse requisitos específicos, como niveles de titulación, de experiencia o de antigüedad u otros que se consideren imprescindibles para el desempeño de los puestos de trabajo.
+3. Los puestos de trabajo serán de adscripción indistinta para todos los funcionarios. Únicamente podrán adscribirse con carácter exclusivo puestos de trabajo a funcionarios de un determinado Cuerpo, Escala o Especialidad cuando tal adscripción se derive necesariamente de la naturaleza y de la función a desempeñar en ellos y en tal sentido lo determine el Consejo de Gobierno.
+Los funcionarios pertenecientes a Cuerpos, Escalas o Especialidades que tengan adscritos con carácter exclusivo puestos de trabajo, sólo podrán acceder al desempeño de aquellos otros que guarden relación funcional con los a ellos reservados, siempre que así se determine en las relaciones de puestos de trabajo.
+4. Las relaciones de puestos de trabajo determinarán los que sean de adscripción indistinta para los funcionarios de la Administración General del Estado, los de las Comunidades Autónomas, los de las Entidades Locales y los de las Cortes de Castilla-La Mancha.
+Los funcionarios de la Administración de la Junta de Comunidades que, en su caso, obtengan un puesto de trabajo en las Cortes Regionales, en virtud de libre designación o concurso, quedarán en situación de excedencia voluntaria en aquélla.
+Se modifican los apartados 3 y 4 por el art. 2 de la Ley 1/2002, de 7 de febrero. Ref. BOE-A-2002-6234
+ Se añade el apartado 4 por la disposición adicional 7 de la Ley 3/1992, de 18 de diciembre . Ref. BOE-A-1993-10826
+
+### Artículo 20
+
+Artículo 20.
+1. Se crea la Escuela de Administración Regional de Castilla-La Mancha, adscrita a la Consejería de Presidencia, cuyos objetivos, a través de las funciones que se le encomienden, serán facilitar la carrera y promoción profesional del personal y mejorar su rendimiento, así como el perfeccionamiento del funcionamiento de los servicios.
+2. A la Escuela de Administración Regional podrán encomendarse funciones de selección, formación y perfeccionamiento del personal, la realización y promoción de las actividades de investigación, estudio y asesoramiento y documentación necesarias para el desarrollo del proceso general de perfeccionamiento de la Administración Regional y las de colaboración y cooperación con los Centro que tengan atribuidas dichas competencias en las restantes Administraciones Públicas.
+3. La Escuela de Administración Regional de Castilla-La Mancha podrá, asimismo, colaborar con las Corporaciones Locales del ámbito territorial de la Comunidad Autónoma, en el ejercicio de las funciones expuestas en el apartado anterior, en los términos que se establezcan en el correspondiente Convenio.
+4. El régimen de organización y funcionamiento de la Escuela se regulará por Decreto del Consejo de Gobierno, que contemplará, en todo caso, la participación de los representantes del personal en la planificación y programación de las actividades encomendadas.
+
+### Artículo 21
+
+Artículo 21.
+El personal funcionario de carrera de los Cuerpos de personal funcionario docente no universitario puede ser adscrito por un tiempo de cuatro años, prorrogable por periodos de dos años, y con reserva de su puesto de trabajo, a los órganos directivos y de apoyo de la Consejería competente en materia de educación para prestar servicios de asesoramiento o dirección en unidades administrativas implicadas en la gestión del servicio educativo que dependan directamente de la persona titular de los órganos gestores.
+Dicho personal tendrá derecho a la percepción de unas retribuciones complementarias equivalentes a las del puesto de trabajo al que se homologuen las funciones a realizar, a cuyo efecto la relación de puestos de trabajo reservados al personal funcionario y eventual determinará, para cada órgano gestor de la Consejería competente en materia de educación, los puestos a los que pueden ser homologados.
+Se modifica por la disposición final 1 de la Ley 7/2010, de 20 de julio. Ref. BOE-A-2010-15624#dfprimera
+ Se modifica por la disposición adicional 13 de la Ley 15/2007, de 20 de diciembre. Ref. BOE-A-2008-6809
+ Se añade por el art. único.4 de la Ley 18/2002, de 24 de octubre. Ref. BOE-A-2002-24539
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+A efectos de aplicación de esta ley, la referencia que en la legislación del Estado se haga a sus órganos propios, o al «Boletín Oficial del Estado», se entenderá referida a los órganos propios de la Administración de la Junta de Comunidades competentes en la materia de que se trate, o al «Diario Oficial de Castilla-La Mancha».
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. La integración de los funcionarios en los Cuerpos y Escalas establecidos en el artículo 16 de esta Ley, se efectuará conforme a las siguientes normas:
+a) Cuerpo Superior: Se integrarán en él todos los funcionarios transferidos pertenecientes a Cuerpos o Escalas de la Administración del Estado para cuyo ingreso en las mismas se exija, a la entrada en vigor de esta Ley, alguna de las titulaciones previstas en el artículo 16 de la misma para el Grupo A.
+La integración de los funcionarios pertenecientes a la Escala Superior de Sanitarios Locales en las Especialidades de Medicina, Veterinaria y de Farmacia, se realizará en función de la titulación exigida para su ingreso.
+En la Escala Superior de Archivos, Bibliotecas y Museos se integrarán los funcionarios transferidos de la Administración del Estado que pertenezcan a los Cuerpos de Facultativo de Archiveros, Bibliotecarios y Arqueólogos y Facultativo de Museos. La integración en cada una de las especialidades de esta Escala se realizará de la forma siguiente:
+En la Especialidad de Archivos se integrarán los funcionarios del Cuerpo Facultativo de Archiveros, Bibliotecarios y Arqueólogos, Sección de Archivos.
+En la Especialidad de Bibliotecas se integrarán los funcionarios del Cuerpo Facultativo de Archiveros, Bibliotecarios y Arqueólogos, Sección de Bibliotecas.
+En la Especialidad de Museos, se integrarán los funcionarios del Cuerpo Facultativo de Conservadores de Museos.
+En la Escala Superior de Sistemas y Tecnologías de la Información se integrarán los funcionarios del grupo A procedentes de Cuerpos o Escalas similares de otras Administraciones Públicas, así como el personal laboral perteneciente a la categoría de Titulado Superior Informática que supere el proceso selectivo que se convoque en desarrollo de lo dispuesto en la disposición transitoria segunda de esta Ley.
+En la Escala Superior Sociosanitaria se integrará el personal laboral que supere el proceso selectivo que se convoque en desarrollo de lo establecido en la disposición transitoria segunda de esta Ley, pertenezca a las especialidades de Medicina o Psicología de la categoría de Titulado Superior y desempeñe sus funciones en unidades o centros asistenciales y en centros de educación especial.
+Igualmente podrán integrarse los funcionarios del Cuerpo Superior que, a la fecha de publicación del nombramiento como funcionarios de carrera de la Escala Superior Sociosanitaria del personal al que se refiere el párrafo anterior, se encuentren desempeñando con carácter definitivo un puesto de trabajo perteneciente a las áreas funcionales de Sanidad o Servicios Sociales que esté adscrito a unidades o centros asistenciales, para el que se requiera alguna de las titulaciones exigidas para el ingreso en la misma, siempre que no pertenezcan a otra Escala.
+En la Escala Superior de Inspección y Evaluación Sanitaria se integrarán los funcionarios transferidos pertenecientes a las Escalas de Médicos Inspectores y de Farmacéuticos Inspectores del Cuerpo de Inspección Sanitaria de la Administración de la Seguridad Social. Los funcionarios pertenecientes a la Escala de Médicos Inspectores se integrarán en la Especialidad de Medicina y los pertenecientes a la Escala de Farmacéuticos Inspectores se integrarán a la Especialidad de Farmacia.
+En la Escala Superior de Letrados se integran:
+Los funcionarios transferidos o que en el futuro se transfieran pertenecientes a los Cuerpos de Abogados del Estado y de Letrados de la Administración de la Seguridad Social.
+Los funcionarios del Cuerpo Superior de la Administración de la Junta de Comunidades de Castilla-La Mancha que, encontrándose en la situación administrativa de servicio activo en dicho Cuerpo a la entrada en vigor de la Ley 4/2003, de 27 de febrero, de Ordenación de los Servicios Jurídicos de la Administración de la Junta de Comunidades de Castilla-La Mancha, hubieran desempeñado con carácter definitivo un puesto de Letrado del Gabinete Jurídico por un período mínimo de tres años.
+Los funcionarios que se encontrasen en situación diferente a la de servicio activo en el Cuerpo Superior de la Administración de la Junta de Comunidades en el momento de la entrada en vigor de la Ley 4/2003, de 27 de febrero, de Ordenación de los Servicios Jurídicos de la Administración de la Junta de Comunidades de Castilla-La Mancha, y hubieran desempeñado con carácter definitivo un puesto de Letrado del Gabinete Jurídico durante un período mínimo de tres años, siempre que hubiesen solicitado su integración en el plazo previsto en la disposición transitoria de dicha ley.
+Los funcionarios que a la entrada en vigor de la Ley 4/2003, de 27 de febrero, de Ordenación de los Servicios Jurídicos de la Administración de la Junta de Comunidades de Castilla-La Mancha, estuvieran desempeñando con carácter definitivo un puesto de Letrado del Gabinete Jurídico y que, una vez completado un período mínimo de permanencia de tres años en dicho puesto, solicitasen su integración en el plazo previsto en la disposición transitoria de dicha ley.
+En la Escala Superior de Prevención de Riesgos Laborales podrán integrarse los funcionarios del Cuerpo Superior de la Administración de la Junta de Comunidades adscritos con carácter definitivo a puestos de trabajo para los que se exija estar en posesión de la formación mínima prevista en el Reglamento de los Servicios de Prevención, aprobado por el Real Decreto 39/1997, de 17 de enero, o en su caso, de otros requisitos específicos de formación y cualificación equivalentes exigidos en la normativa vigente en materia de Prevención de Riesgos Laborales.
+b) En la Escala Técnica de Archivos, Bibliotecas y Museos se integrarán los funcionarios transferidos de la Administración del Estado que pertenezcan al Cuerpo de Ayudantes de Archivos, Bibliotecas y Museos. La integración en cada una de las especialidades de esta Escala se realizará de la siguiente forma:
+En la Especialidad de Archivos se integrarán los funcionarios del Cuerpo de Ayudantes de Archivos, Bibliotecas y Museos, Sección de Archivos.
+En la Especialidad de Bibliotecas se integrarán los funcionarios del Cuerpo de Ayudantes de Archivos, Bibliotecas y Museos, Sección de Bibliotecas.
+En la Especialidad de Museos se integrarán los funcionarios del Cuerpo de Ayudantes de Archivos, Bibliotecas y Museos, Sección de Museos.
+En la Escala Técnica de Sistemas de Informática se integrarán los funcionarios del grupo B procedentes de Cuerpos o Escalas similares de otras Administraciones Públicas, así como el personal laboral perteneciente a la categoría de Diplomado Universitario Informática que supere el proceso selectivo que se convoque en desarrollo de lo dispuesto en la disposición transitoria segunda de esta Ley.
+Se suprimen las Escalas a extinguir de Agentes de Economía Doméstica y Monitores.
+En la Escala Técnica Sociosanitaria se integrará el personal laboral que supere el proceso selectivo que se convoque en desarrollo de lo establecido en la disposición transitoria segunda de esta Ley y pertenezca a la categoría de Educador de Tareas Asistenciales y Recuperadoras (ETAR), o a las especialidades de Enfermería, Estimulador, Fisioterapeuta, Logopedia, Psicomotricista, Terapia Ocupacional, Educador y Monitor Ocupacional, correspondientes a la categoría de Diplomado Universitario, siempre que desempeñe sus funciones en unidades o centros asistenciales y en centros de educación especial.
+Igualmente podrán integrarse los funcionarios del Cuerpo Técnico que, a la fecha de publicación del nombramiento como funcionarios de carrera de la Escala Técnica Sociosanitaria del personal al que se refiere el párrafo anterior, se encuentren desempeñando con carácter definitivo un puesto de trabajo perteneciente a las áreas funcionales de Sanidad o Servicios Sociales que esté adscrito a unidades o centros asistenciales, para el que se requiera alguna de las titulaciones exigidas para el ingreso en la misma, siempre que no pertenezcan a otra Escala.
+En la Escala de Educación Infantil se integrará el personal laboral perteneciente a la categoría de Diplomado Universitario, especialidad Educador de Infancia que supere el proceso selectivo que se convoque en desarrollo de lo establecido en la disposición transitoria segunda de esta Ley.
+En la Escala Técnica de Inspección y Evaluación Sanitaria se integrarán los funcionarios transferidos pertenecientes a la Escala de Enfermeros Subinspectores del Cuerpo de Inspección Sanitaria de la Administración de la Seguridad Social.
+En la Escala Técnica de Prevención de Riesgos Laborales podrán integrarse los funcionarios del Cuerpo Técnico de la Administración de la Junta de Comunidades adscritos con carácter definitivo a puestos de trabajo para los que se exija estar en posesión de la formación mínima prevista en el Reglamento de los Servicios de Prevención, aprobado por el Real Decreto 39/1997, de 17 de enero, o en su caso, de otros requisitos específicos de formación y cualificación equivalentes exigidos en la normativa vigente en materia de Prevención de Riesgos Laborales.
+c) En la Escala Administrativa de Informática se integrarán los funcionarios del grupo C procedentes de Cuerpos o Escalas similares de otras Administraciones Públicas, así como el personal laboral perteneciente a la categoría de Administrativo Informática que supere el proceso selectivo que se convoque en desarrollo de lo dispuesto en la disposición transitoria segunda de esta Ley.
+En la Escala Administrativa de Archivos y Bibliotecas se integrará el personal laboral perteneciente a la categoría de Técnico Auxiliar de Archivos y Bibliotecas que supere el proceso selectivo que se convoque en desarrollo de lo establecido en la disposición transitoria segunda de esta Ley.
+En la Escala Administrativa de Prevención de Riesgos Laborales podrán integrarse los funcionarios del Cuerpo Ejecutivo de la Administración de la Junta de Comunidades que estén en posesión del Título de Técnico Superior en Prevención de Riesgos Profesionales y se encuentren adscritos con carácter definitivo a puestos de trabajo para los que se exija estar en posesión de la formación mínima prevista en el Reglamento de los Servicios de Prevención, aprobado por el Real Decreto 39/1997, de 17 de enero, u otros requisitos de formación y cualificación específicos exigidos en la normativa vigente en materia de Prevención de Riesgos Laborales.
+d) Cuerpo Auxiliar: Se integrarán en él los funcionarios transferidos o que en el futuro se transfieran pertenecientes a Cuerpos o Escalas de la Administración del Estado, para cuyo ingreso en los mismos se exija, a la entrada en vigor de esta Ley, alguna de las titulaciones previstas en el artículo 16 para el grupo D.
+Se integrarán en el Cuerpo de Guardería Forestal los funcionarios transferidos o que en el futuro se transfieran pertenecientes al Cuerpo de Guardería Forestal y a la Escala de Guardas del ICONA, así como el personal laboral perteneciente a la categoría de Agentes de Medio Ambiente que supere el proceso selectivo que se convoque en desarrollo de lo establecido en la disposición transitoria segunda de esta Ley.
+En la Escala Auxiliar de Archivos y Bibliotecas se integrará el personal laboral perteneciente a la categoría de Oficial de Archivos y Bibliotecas que supere el proceso selectivo que se convoque en desarrollo de lo establecido en la disposición transitoria segunda de esta Ley.
+e) Cuerpo de Subalternos: Se integraran en él los funcionarios transferidos o que en el futuro se transfieran pertenecientes a Cuerpos o Escalas de la Administración del Estado, para cuyo ingreso en los mismos se exija, a la entrada en vigor de esta Ley, la titulación prevista en el artículo 16 de la misma para el grupo E.
+2. El personal que hubiera accedido a la condición de funcionario de la Administración de la Junta de Comunidades, en virtud de pruebas selectivas convocadas al efecto, se integrará en el Cuerpo o Escala a que corresponda, de conformidad con la titulación exigida para su ingreso. Los funcionarios de nuevo ingreso que hubiesen accedido a plazas de Guardería Forestal, se integrarán, en todo caso, en el Cuerpo de Guardería Forestal.
+3. El personal transferido como vario sin clasificar o de plazas no escalafonadas, se integrará en el Cuerpo o Escala que corresponda, conforme a lo efectuado en cumplimiento de lo dispuesto en las disposiciones adicionales primera de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y Ley 5/1985, de 26 de junio, de Función Pública de Castilla-La Mancha.
+4. Los funcionarios de otras Administraciones Públicas que por los procedimientos de concurso o libre designación obtengan puestos de trabajo en la Administración regional quedarán asimilados a los funcionarios propios de ésta, siéndoles de aplicación el régimen jurídico establecido para estos últimos.
+Se modifica el apartado 1.a), b), c) por el art. único.2 de la Ley 4/2006, de 19 de octubre. Ref. BOE-A-2007-1119
+ Téngase en cuenta respecto al plazo para el ejercicio de la opción de integración de los funcionarios de los Cuerpos Superior, Técnico y Administrativo en las Escalas Superior, Técnica y Administrativa de Prevención de Riesgos Laborales, la disposición transitoria 1 de la citada ley.
+ Se modifica el apartado 1.a), b) y d) por el art. único.2 de la Ley 18/2002, de 24 de octubre. Ref. BOE-A-2002-24539
+ Se modifica el apartado 1.a), b), c) y d) por el art. 3 de la Ley 1/2002, de 7 de febrero. Ref. BOE-A-2002-6234
+ Téngase en cuenta respecto al plazo para el ejercicio de la opción de integración de los funcionarios de los Cuerpos Superior y Técnico, la disposición transitoria de la citada ley y véase la disposición adicional 1 de la misma, sobre otras formas de integración.
+ Se modifica el apartado 4 por la disposición adicional 4 de la Ley 7/2001, de 28 de junio. Ref. BOE-A-2001-17844
+ Se modifican los apartados 1.a), b), c) y 4 por el art. único.5 a 8 de la Ley 1/1999, de 4 de marzo . Ref. BOE-A-1999-11700
+ Se añade el apartado 4 por la disposición adicional 7 de la Ley 5/1990, de 26 de diciembre. Ref. BOE-A-1991-3666
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+1. Se declaran extinguidos los Cuerpos de Administración General y Administración Especial creados por las leyes 5/1985, de 26 de junio, de Función Pública de Castilla-La Mancha, y 1/1986, de 30 de enero, por la que se crearon los Cuerpos de Administración Especial.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+1. Los funcionarios del Estado al servicio de la Sanidad Local en la Comunidad Autónoma de Castilla-La Mancha seguirán rigiéndose por su legislación específica, sin perjuicio de la aplicación supletoria de esta Ley.
+2. Los funcionarios pertenecientes a las Escalas Superior y Técnica de Sanitarios Locales podrán acceder a puestos de trabajo de la Administración Sanitaria contemplados en las correspondientes relaciones, cuando así se exprese en la correspondiente convocatoria para la provisión de los puestos de que se trate. Mientras el funcionario de las Escalas citadas se encuentre desempeñando dichos puestos tendrá derecho a las retribuciones complementarias del puesto que desempeñe.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+El personal del Cuerpo de Camineros del Estado transferidos a la Comunidad Autónoma de Castilla-La Mancha, que no se integrará en los Cuerpos y Escalas previstas en el artículo 16 de esta Ley, seguirán rigiéndose por su legislación específica, y desempeñarán, exclusivamente, los puestos de trabajo que les reserven en las relaciones.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+1. Pasarán a situación de servicios especiales los funcionarios de carrera cuando presten servicios en los Gabinetes del Presidente, Vicepresidente y de los Consejeros y no opten por permanecer en la situación de servicio activo, y aquellos otros sobre los que recaiga nombramiento con rango de Decreto del Consejo del Gobierno.
+2. Los funcionarios de carrera de la Administración de la Junta de Comunidades de Castilla-La Mancha que pasen a prestar servicio en otras Administraciones Públicas quedarán en situación administrativa de servicio en otras Administraciones Públicas.
+Los funcionarios de carrera en situación administrativa de servicio en otras Administraciones Públicas continuarán perteneciendo a los Cuerpos y Escalas de la Administración de la Junta de Comunidades de Castilla-La Mancha, y, en tanto se hallen destinados en aquélla, les será de aplicación la legislación de las mismas en materia de Función Pública, con la única excepción de la imposición de la sanción disciplinaria de separación de servicio, que corresponderá, en todo caso, a la Administración de la Junta de Comunidades de Castilla-La Mancha.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+1. Una vez producidas las correspondientes transferencias del Estado a la Comunidad Autónoma en materia educativa, los funcionarios docentes quedarán integrados en la Función Pública Regional en los Cuerpos docentes no universitarios, con las denominaciones propias de su legislación específica.
+2. Los funcionarios docentes podrán ocupar los puestos de trabajo que dentro de la Consejería de Educación y Cultura tengan la consideración de Administración educativa en los casos y con las condiciones que se determinen en las relaciones de puestos de trabajo, sin consolidar grado personal.
+Se añade por el art. único.9 de la Ley 1/1999, de 4 de marzo . Ref. BOE-A-1999-11700
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+1. Los funcionarios que se transfieran a la Administración Regional como consecuencia de la asunción de nuevas competencias y servicios, continuarán desempeñando los puestos de trabajo a los que se encuentren adscritos y percibiendo las mismas retribuciones, sin perjuicio de los incrementos generales que les sean de aplicación, hasta tanto se realicen las equiparaciones y reestructuraciones de puestos que, en su caso, sean precisas, las cuales habrán de efectuarse en un plazo no superior a seis meses desde la fecha de efectividad del traspaso.
+En el supuesto de que como consecuencia de las equiparaciones de los puestos de trabajo a los equivalentes de la Administración Regional se produjera una disminución en el cómputo anual de las retribuciones consideradas fijas, periódicas y de devengo mensual, le será reconocido un complemento personal transitorio y absorbible por la diferencia.
+2. Los complementos reconocidos al amparo de lo dispuesto en la presente Disposición no sufrirán disminución en su cuantía como consecuencia de la aplicación del incremento general de las retribuciones que puedan establecer anualmente los Presupuestos Generales de Castilla-La Mancha.
+Se numera el texto como apartado 1 y se añade el apartado 2 por el art. único.3 de la Ley 18/2002, de 24 de octubre. Ref. BOE-A-2002-24539
+ Se añade por el art. único.9 de la Ley 1/1999, de 4 de marzo . Ref. BOE-A-1999-11700
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+(Derogada).
+Se deroga por la disposición derogatoria de la Ley 12/2001, de 29 de noviembre. Ref. BOE-A-2002-2517#dd
+ Se añade por el art. único.9 de la Ley 1/1999, de 4 de marzo . Ref. BOE-A-1999-11700
+
+### Disposición adicional décima
+
+Disposición adicional décima.
+Las referencias que en la Ley 3/1988, de 13 de diciembre, de Ordenación de la Función Pública de la Junta de Comunidades de Castilla-La Mancha, se hacen al Consejero de Presidencia, se entenderán efectuadas al titular de la Consejería competente en materia de personal.
+Se añade por el art. único.9 de la Ley 1/1999, de 4 de marzo . Ref. BOE-A-1999-11700
+
+### Disposición adicional undécima
+
+Disposición adicional undécima.
+Los funcionarios al servicio de la Administración de Justicia que se transfieran a la Comunidad Autónoma de Castilla-La Mancha mantendrán sus Cuerpos y Escalas nacionales de procedencia, sin integrarse en los previstos en el artículo 16 de la presente Ley, y seguirán rigiéndose por su legislación específica, desempeñando exclusivamente los puestos que les sean reservados en las relaciones de puestos de trabajo.
+Se añade por el art. único.3 de la Ley 4/2006, de 19 de octubre. Ref. BOE-A-2007-1119
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. Los funcionarios interinos que presten servicios en el ámbito de la Sanidad Local de Castilla-La Mancha a la entrada en vigor de esta Ley, podrán acceder a la condición de funcionario de carrera de las Escalas Superior o Técnica de Sanitarios Locales de la Administración de la Junta de Comunidades, mediante la superación de concurso-oposición libre que se convoque por una sola vez, en el que se garantizarán los principios constitucionales de igualdad, mérito y capacidad.
+En el concurso-oposición se valorarán los servicios prestados en calidad de funcionario interino o contratado en régimen de derecho administrativo en cualquiera de las Administraciones Públicas. Dicha valoración no podrá superar el 45 por 100 de la puntuación máxima alcanzable en la fase de oposición.
+En ningún caso la puntuación obtenida en la fase de concurso podra aplicarse para superar los ejercicios de la fase de oposición.
+2. El personal que acceda a la condición de funcionario de carrera, conforme a lo previsto en esta disposición transitoria, se regirá por la legislación a que se hace referencia en la disposición adicional cuarta de esta Ley.
+Se modifica el apartado 1 por la disposición adicional 6 de la Ley 5/1989, de 29 de diciembre. Ref. BOE-A-1990-3649
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+1. El personal laboral fijo al servicio de la Administración de la Junta de Comunidades que, a la entrada en vigor de la presente Ley, desempeñe con carácter definitivo un puesto de trabajo que sea clasificado como propio de personal funcionario en las relaciones de puestos de trabajo, podrá acceder por una sola vez a la condición de funcionario del Cuerpo al que figure adscrito el correspondiente puesto o al que le corresponda en función de la categoría profesional que tengan reconocida si el mismo estuviese adscrito a más de un Cuerpo, siempre que posea la titulación necesaria y reúna los demás requisitos exigidos, mediante la superación del proceso selectivo que de forma autónoma y específica se convoque para este personal.
+Lo previsto en el párrafo anterior será también de aplicación al personal laboral que tenga suspendido el contrato con reserva de puesto de trabajo. Igualmente será de aplicación a quienes obtengan la condición de personal laboral fijo como consecuencia de la superación de los procesos selectivos que estén celebrándose a la entrada en vigor de la presente Ley, así como a aquellos que reingresen al servicio activo con posterioridad a la entrada en vigor de esta Ley y con anterioridad de la finalización del plazo de solicitud establecido en la convocatoria del correspondiente proceso de funcionarización y siempre que cumplan los restantes requisitos previstos en el párrafo anterior.
+2. El personal al que se refiere el apartado anterior, que haya adquirido dicha condición en virtud de la superación de procedimientos selectivos de oposición o concurso-oposición convocados para acceder a la categoría profesional que ostente como laboral fijo a la entrada en vigor de la presente Ley, tanto por turno libre como por promoción interna, deberá realizar un curso de, al menos, 40 horas de duración, el cual versará sobre materias relacionadas con el funcionamiento y la organización de la Administración y superar la prueba selectiva que se determine en las bases de la convocatoria sobre el contenido del referido curso.
+3. El personal incluido en el apartado 1 al que no sea de aplicación lo previsto en el apartado anterior, deberá superar el concurso-oposición que se convoque, en el que se garantizarán los principios de igualdad, mérito, capacidad, así como el de publicidad.
+En la fase de concurso se valorarán los servicios prestados como personal laboral en cualquier Administración Pública. La valoración de la fase de concurso no podrá superar el 45 por 100 de la puntuación total.
+4. El personal que supere las pruebas selectivas previstas en esta disposición, quedará destinado en los puestos de trabajo que desempeñaban, con los efectos que correspondan al sistema de provisión con el que los obtuvieron.
+En el supuesto de que, a consecuencia del cambio de vinculación jurídica, se produjera una disminución en el cómputo anual de las retribuciones consideradas fijas, periódicas y de devengo mensual, les será reconocido un complemento personal transitorio y absorbible por la diferencia.
+5. El personal que no haga uso de esta forma de acceso a la Función Pública o que no supere las pruebas selectivas, continuará en el ejercicio de sus funciones, declarándose a extinguir el puesto que desempeñe o tenga reservado.
+6. Los puestos de trabajo afectados por la presente disposición tendrán la consideración de “a amortizar” como puestos de personal laboral y los mismos no podrán ser ofertados para su provisión, promoción o nuevo ingreso.
+Asimismo, los trabajadores que a la entrada en vigor de la presente Ley estuviesen desempeñando dichos puestos mediante una relación laboral de carácter temporal, cesarán en su relación jurídica. No obstante lo anterior, tendrán derecho a que se les nombre funcionarios interinos en los puestos reconvertidos, siempre que reúnan los requisitos necesarios para ello y lo soliciten en el plazo de diez días a contar desde el del cese.
+Lo previsto en el párrafo anterior no será de aplicación al personal laboral que se encuentre vinculado por un contrato temporal de interinidad por sustitución, en cuyo caso, la adopción de dicha medida quedará vinculada a la que adopte el trabajador sustituido.
+7. Lo previsto en los apartados anteriores también podrá ser de aplicación, en las mismas condiciones y requisitos, al personal laboral transferido con posterioridad a la entrada en vigor de esta Ley en puestos que posteriormente sean reconvertidos para su provisión por funcionarios. En estos procesos también podrán participar quienes, estando afectados por la presente disposición, no hubieran podido tomar parte en los procesos de funcionarización por carecer del requisito de titulación.
+Se modifica por el art. único.10 de la Ley 1/1999, de 4 de marzo . Ref. BOE-A-1999-11700
+ Téngase en cuenta en lo dispuesto en el apartado 6, la disposición final de la citada ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Los puestos de trabajo con funciones propias del personal caminero serán clasificados para su desempeño por personal laboral. El personal Caminero del Estado que desempeñe funciones de personal laboral podrán acceder a la condición de contratado laboral fijo por el procedimiento que reglamentariamente se determina.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+En tanto tenga lugar la aprobación de las relaciones de puestos de trabajo, a que se refiere el artículo 19 de la presente Ley, los funcionarios incluidos en su ámbito de aplicación continuarán desempeñando los puestos de trabajo que ocupen a la entrada en vigor de la misma por adscripción legal o en virtud de procedimiento de provisión en que se hayan respetado los principios constitucionales de igualdad, mérito, capacidad y publicidad.
+Aprobadas las relaciones, dichos funcionarios serán adscritos a aquellos puestos de trabajo que por sus características y funciones a realizar resultaran equiparables a los desempeñados en la fecha expresada en el párrafo primero.
+
+## Disposición derogatoria
+
+Disposición derogatoria.
+1. Quedan expresamente derogadas:
+La Ley 5/1985, de 26 de junio, de Función Pública de Castilla-La Mancha, y la Ley 1/1986, de 30 de enero, por la que se crean los Cuerpos Especiales de la Junta de Comunidades de Castilla-La Mancha.
+2. Asimismo se derogan todas aquellas disposiciones de igual o inferior rango que se opongan a lo previsto en la presente Ley.
+
+## Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Diario Oficial de Castilla-La Mancha».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan, y a los Tribunales y autoridades que corresponda que la hagan cumplir.
+Dada en Toledo a 13 de diciembre de 1988.
+JOSÉ BONO MARTÍNEZ,
+Presidente de la Junta de Comunidades de Castilla-La Mancha

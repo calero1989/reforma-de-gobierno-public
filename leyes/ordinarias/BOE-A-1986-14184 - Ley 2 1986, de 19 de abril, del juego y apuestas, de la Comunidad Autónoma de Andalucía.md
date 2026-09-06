@@ -1,0 +1,556 @@
+# Ley 2/1986, de 19 de abril, del juego y apuestas, de la Comunidad Autónoma de Andalucía.
+
+- Identificador BOE: `BOE-A-1986-14184`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-14184
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+A todos los que la presente vieren, sabed:
+Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por autoridad que confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente
+LEY DEL JUEGO Y APUESTAS DE LA COMUNIDAD AUTÓNOMA DE ANDALUCÍA
+El artículo 13.33 de la Ley 6/1981, de Estatuto de Autonomía para Andalucía, proclama que la Comunidad Autónoma de Andalucía tiene competencia exclusiva en materia de casinos, juegos y apuestas, con la única exclusión de las apuestas mutuas deportivo-benéficas.
+Por Real Decreto 1710/1984, de 18 de julio, se transfirieron de la Administración del Estado a la Comunidad Autónoma de Andalucía funciones y servicios en materia de casinos, juego y apuestas, y desde la entrada en vigor de dicho Real Decreto se vienen ejerciendo las funciones y competencias correspondientes.
+La aprobación de una Ley del Juego y Apuestas de la Comunidad Autónoma de Andalucía es necesaria e incluso urgente, dado que la realidad social desborda la posibilidad de actuación de la Administración Autónoma con las normas estatales, y fue en su día aconsejada por el Consejo de Estado, en dictamen fechado el día 21 de marzo de 1985, que recomendaba impulsar el desarrollo legislativo en la Comunidad «al objeto de promulgar una Ley que preste cobertura suficiente al régimen sancionador».
+Efectivamente, en el tiempo transcurrido se ha podido comprobar que la mera aplicación de la normativa estatal no es suficiente si se pretende una eficaz gestión en las competencias en materia de casinos, juego y apuestas, lo que justifica la labor que ahora se emprende de dictar un texto que, con el rango de Ley, incorpore a su articulado, con visión de conjunto y criterio de unidad, las normas básicas a las que deba ajustarse la ordenación del Juego y las apuestas en la Comunidad Autónoma de Andalucía, y que operará hacia el futuro como vía segura para su armónico desarrollo ulterior, evitando con ello los riesgos de que los defectos denunciados se agraven y acentúen.
+El núcleo de la Ley gira sobre el concepto de juego y apuestas autorizados, determinante de su penalización cuando las condiciones esenciales no se cumplen. El concepto de juego y apuestas autorizados viene establecido por una serie de requisitos mínimos que el propio texto legal predetermina, tales como inclusión de los juegos y apuestas concretos en el Catálogo que reglamentariamente se establezca, en el que se indicarán las normas específicas para su práctica, las Empresas que pueden explotarlos y organizarlos y condiciones necesarias de éstas, y los requisitos mínimos de los establecimientos o lugares de explotación u organización de los juegos y apuestas. En suma, la autorización administrativa autonómica estará determinada en los siguientes componentes mínimos: Qué juego o apuesta se autoriza, a quién se autoriza su organización y explotación, exigiéndose unas condiciones esenciales a las Empresas titulares, y por último, en dónde se autoriza el juego o apuesta concreto.
+Se definen asimismo los juegos y apuestas que han de considerarse prohibidos como diferenciados de los excluidos, prestándose un especial énfasis a la defensa de los menores, a los que se limita la entrada en locales en los que se practique el juego.
+Se significa que quedan fuera del ámbito de esta Ley los juegos de mero pasatiempo o recreo constitutivos de arraigados hábitos sociales.
+Se hace hincapié en que el juego y las apuestas constituyen una materia importante, tanto por los ingresos que pueda deparar a la Hacienda de la Comunidad Autónoma como por la incidencia social en el ámbito de la Comunidad.
+En lo que respecta a las infracciones y sanciones, la Ley opta por una solución por la que se garantizan a la vez los principios de legalidad y eficacia, estableciendo un procedimiento sancionador propio.
+Se trata, en definitiva, de una Ley densa, que precisará un posterior desarrollo normativo complejo, con la que posibilitar el ejercicio de las competencias estatutarias en materia de juego y apuestas con el establecimiento de un modelo de unas características muy específicas, que se resumen en su carácter sistemáticamente exhaustivo y en su transparencia.
+Así pues, a partir de ahora, tanto los jugadores y las Empresas dedicadas al juego y apuestas como la Administración de la Comunidad Autónoma tendrán unas reglas de actuación conocidas previamente.
+
+## TÍTULO PRIMERO
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley tiene por objeto regular, en el ámbito territorial de la Comunidad Autónoma de Andalucía, todas las actividades relativas a casinos, juego y apuestas, sobre la que tiene competencia exclusiva según lo dispuesto en el Estatuto de Autonomía para Andalucía.
+
+### Artículo 2
+
+Artículo 2.
+La competencia de la Comunidad Autónoma a la que se hace referencia en el artículo anterior se ejercerá sobre la totalidad de los juegos de azar, apuestas y, en general, todas aquellas actividades en las que se aventuren cantidades de dinero u objetos económicamente evaluables en cualquier forma sobre los resultados, y que permitan su transferencia entre los participantes, con independencia de que predomine en ellos el grado de habilidad, destreza o maestría de los jugadores o sean exclusiva y primordialmente de suerte, envite o azar, tanto si se desarrollan mediante la utilización de máquinas automáticas o de medios informáticos, como si se llevan a cabo a través de la realización de actividades humanas.
+Se modifica por el art. único.1 del Decreto-ley 6/2019, de 17 de diciembre. Ref. BOJA-b-2019-90590
+
+### Artículo 3
+
+Artículo 3.
+1. Se incluyen en el ámbito de aplicación de esta Ley:
+a) Las actividades propias de los juegos y apuestas.
+b) Las empresas dedicadas a la gestión o explotación de juegos y apuestas o que tengan por objeto la comercialización o distribución de materiales relacionados con el juego en general.
+c) Los locales en los que se lleven a cabo las actividades enumeradas en los apartados precedentes y la producción de los resultados condicionantes.
+d) Las personas naturales y jurídicas que de alguna forma intervengan en la gestión, explotación y práctica de los juegos y las apuestas.
+2. Quedan excluidos del ámbito de esta ley los juegos y competiciones de puro pasatiempo o recreo constitutivos de usos sociales o de carácter familiar, que no produzcan entre las personas participantes transferencias económicas y siempre que no sean objeto de explotación lucrativa para las personas usuarias.
+Se modifica el apartado 2 por la disposición final 8.1 de la Ley 7/2013, de 23 de diciembre. Ref. BOE-A-2014-592
+
+### Artículo 4
+
+Artículo 4.
+Requerirán autorización administrativa previa, en los términos que reglamentariamente se determinen:
+1. La organización, práctica y desarrollo de los siguientes juegos:
+a) Los exclusivos de casinos de juego.
+b) El juego del bingo.
+c) Los que se practiquen mediante máquinas de juego recreativas con premio en dinero y las de azar.
+d) El juego de boletos.
+e) Las rifas y tómbolas, incluidas las loterías.
+2. La organización, práctica y desarrollo de las siguientes apuestas:
+a) Las apuestas hípicas internas, externas y telemáticas.
+b) Las apuestas de galgos.
+c) Cualesquiera otras apuestas basadas en actividades deportivas o de competición.
+3. No se requerirá la autorización administrativa previa para la organización, celebración y desarrollo de combinaciones aleatorias con fines publicitarios o promocionales, cualquiera que sea la fórmula de loterías o juegos promocionales que revistan, incluidos los establecidos en el artículo 20 de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, siempre que la participación del público en estas actividades sea gratuita y en ningún caso exista sobreprecio o tarificación adicional alguna cualquiera que fuere el procedimiento o sistema a través del que se realice.
+Se modifica por la disposición final 8.2 de la Ley 7/2013, de 23 de diciembre. Ref. BOE-A-2014-592
+ Se modifica la letra e) del apartado 1 y se añade el apartado 3 por el art. 8.1 y 2 de la Ley 3/2010, de 21 de mayo. Ref. BOE-A-2010-9887
+ Se modifica la letra e) del apartado 1 y se añade el apartado 3 por el art. 8.1 y 2 del Decreto-ley 3/2009, de 22 de diciembre. Ref. BOJA-b-2009-90030
+
+### Artículo 5
+
+Artículo 5.
+1. Son juegos prohibidos todos los no incluidos en el Catálogo de Juegos y Apuestas de la Comunidad Autónoma de Andalucía, y aquéllos que estándolos se realicen sin la oportuna autorización o en la forma, lugares o por personas distintas de las que se especifiquen en los correspondientes reglamentos.
+2. El dinero, los efectos, los instrumentos y demás útiles destinados a juegos no autorizados caerán en comiso cualquiera que sea el lugar donde se hallen.
+
+### Artículo 6
+
+Artículo 6.
+1. La práctica de los juegos y apuestas a los que se refiere la presente Ley sólo podrá efectuarse con el material ajustado a los modelos homologados, que tendrá la consideración de material de comercio restringido.
+2. El material no homologado que se use en la práctica de los juegos y apuestas que se regulan en esta Ley se reputará material clandestino.
+3. La comercialización, distribución y mantenimiento del material del juego y apuestas requerirá autorización administrativa previa, de acuerdo con la legislación vigente.
+
+### Artículo 7
+
+Artículo 7.
+1. La realización de todas las actividades necesarias para la práctica de los juegos permitidos a que se refiere esta Ley requerirá la correspondiente autorización administrativa.
+2. Las autorizaciones deberán señalar de forma explícita sus titulares, los juegos autorizados, las condiciones de los mismos, y el establecimiento o local en que pueden ser practicados y aforo máximo permitido en su caso.
+3. Las autorizaciones de establecimiento para la práctica de los juegos se mantendrán en vigor siempre que cumplan los requisitos exigidos en todo momento y solo serán transmisibles previa autorización expresa de la Administración.
+4. La validez de las autorizaciones concedidas para actividades a realizar en acto único finalizará con la celebración del hecho o actividad autorizada.
+5. La autorización, organización y desarrollo de los juegos y apuestas serán objeto de regulación en sus propios reglamentos.
+Se modifica por el art. único.2 del Decreto-ley 6/2019, de 17 de diciembre. Ref. BOJA-b-2019-90590
+
+### Artículo 8
+
+Artículo 8.
+Corresponde al Consejo de Gobierno de la Junta de Andalucía:
+1. Aprobar el Catálogo de Juegos y Apuestas de la Comunidad Autónoma, especificando las diferentes denominaciones, modalidades, elementos necesarios, reglas esenciales, condicionamiento y prohibiciones que se consideren convenientes imponer para su práctica.
+2. Planificar los juegos y apuestas en la Comunidad Autónoma, teniendo en cuenta la realidad y la incidencia social del juego y de las apuestas sus repercusiones económicas y tributarias y la necesidad de diversificar el juego. La planificación deberá establecer los criterios por los que se regirá la concesión de autorizaciones, tanto en lo que respecta a la distribución territorial y al número de las mismas como a las condiciones objetivas para obtenerlas.
+
+### Artículo 9
+
+Artículo 9.
+Corresponde a la Consejería competente en materia de juego y apuestas:
+1. Determinar las normas por las que han de regirse los juegos y apuestas incluidos en el catálogo, que han de establecer como mínimo:
+a) Régimen y ámbito de aplicación.
+b) Requisitos que deberán cumplir las personas físicas o jurídicas que puedan ser autorizadas para gestionar y explotar el juego o las apuestas de que se trate.
+c) Régimen de tramitación, modificación y extinción de las autorizaciones.
+d) Normas técnicas que deban cumplir los locales donde pueda practicarse el juego y donde puedan producirse los resultados condicionantes.
+e) Horarios de apertura y cierre.
+f) Régimen de la admisión de las personas en la práctica de los juegos y las apuestas, así como a los locales en los que aquellos se desarrollen.
+g) Régimen de gestión y explotación.
+h) Documentación y control contable, de acuerdo con la legislación vigente.
+2. Determinar las condiciones que deberá cumplir la publicidad de las actividades y de los establecimientos incluidos en el ámbito de la presente ley.
+3. Conceder las autorizaciones y determinar los procedimientos y controles de las actividades relacionadas con los juegos y apuestas en la Comunidad Autónoma, en los términos previstos en esta ley y en las normas que la desarrollen.
+4. Controlar los aspectos administrativos y técnicos del Juego y las Apuestas y de las empresas y locales donde se gestionen y practiquen.
+Se modifica por el art. único.3 del Decreto-ley 6/2019, de 17 de diciembre. Ref. BOJA-b-2019-90590
+ Se modifica el apartado 2 por el art. 72 de la Ley 10/2002, de 21 de diciembre. Ref. BOE-A-2003-992
+
+## TÍTULO II
+
+De los establecimientos
+
+### Artículo 10
+
+Artículo 10.
+1. Los juegos permitidos solo podrán practicarse en los locales, que reuniendo los requisitos exigidos en esta ley y en las disposiciones reglamentarias que la desarrollen, sean expresamente autorizados.
+2. La práctica de juego podrá autorizarse en los establecimientos siguientes:
+a) Casinos de juego.
+b) Salas de bingo.
+c) Salones de juego.
+d) Tiendas de apuestas.
+3. Asimismo, y con las limitaciones que en cada caso se establezcan, podrá autorizarse la explotación de máquinas recreativas y de azar con premio en establecimientos de hostelería.
+Se modifica por el art. único.4 del Decreto-ley 6/2019, de 17 de diciembre. Ref. BOJA-b-2019-90590
+ Se modifica el apartado 2 por la disposición final 8.3 de la Ley 7/2013, de 23 de diciembre. Ref. BOE-A-2014-592
+
+### Artículo 11
+
+Artículo 11.
+1. Tendrán la consideración legal de casinos de juego los locales o establecimientos que, reuniendo los requisitos exigidos, hayan sido autorizados para la práctica de los juegos a que se hace referencia el apartado 4 de este artículo. Asimismo, podrán practicarse en los casinos de juego, previa autorización específica, los juegos autorizados para salas de bingo y salones de juego.
+2. Los casinos de juego podrán instalarse en todo el territorio de la Comunidad Autónoma de Andalucía.
+3. La concesión de instalación de un casino se hará mediante concurso público en el que se valorarán el interés turístico del proyecto, la solvencia de los promotores, el programa de inversiones y el cumplimiento de las condiciones concretas de la convocatoria. La concesión no excluye la obtención de las licencias preceptivas.
+4. Serán juegos exclusivos de los casinos de juego aquellos que expresamente se determinen en las normas por las que hayan de regirse los juegos y apuestas de este tipo de establecimientos.
+5. Los casinos de juego deberán prestar al público, al menos, los siguientes servicios:
+a) Servicio de bar.
+b) Servicio de restaurante.
+c) Salas de estar.
+d) Salas de espectáculos o fiestas.
+6. En todo caso, la sala principal o de juego de los casinos se proyectará para un aforo mínimo de quinientas personas.
+7. Durante el horario autorizado en que el casino se encuentre abierto al público, deberá hallarse en servicio, como mínimo, una mesa de cada tipo de juego autorizado.
+8. Las Empresas titulares de los casinos de Juegos deberán prestar al público los servicios que reglamentariamente se determinen.
+Se modifica el apartado 4 por la disposición final 8.4 de la Ley 7/2013, de 23 de diciembre. Ref. BOE-A-2014-592
+
+### Artículo 12
+
+Artículo 12.
+1. Son salas de bingo los locales o establecimientos específicos autorizados para la realización del juego del bingo.
+2. La sala de juego no podrá tener un aforo inferior a cien jugadores ni superior a mil. La sala de bingo tendrá, como mínimo, una superficie superior a un tercio a la sala de juego.
+3. En las salas de bingo podrán instalarse máquinas de juego de tipo «B» en las condiciones que reglamentariamente se determinen.
+
+### Artículo 13
+
+Artículo 13.
+1. Se entiende por Salones de Juego todos aquellos establecimientos destinados específicamente a la explotación de máquinas recreativas con premio tipo «B», en los cuales podrán instalarse terminales de apuestas deportivas.
+2. El número mínimo de máquinas a instalar en estos salones será el de diez, siendo el máximo y el aforo y superficie permitidos los que reglamentariamente se establezcan.
+Se modifica el apartado 1 por el art. único.5 del Decreto-ley 6/2019, de 17 de diciembre. Ref. BOJA-b-2019-90590
+
+### Artículo 14
+
+Artículo 14.
+(Derogado).
+Se deroga, con efectos de 1 de enero de 2013, por la disposición derogatoria 2.c) de la Ley 7/2013, de 23 de diciembre. Ref. BOE-A-2014-592
+
+### Artículo 15
+
+Artículo 15.
+Podrán ser autorizados para la instalación de máquinas de tipo «B» los locales y dependencias destinados a bares, cafeterías o similares, en las condiciones que reglamentariamente se determinen.
+Se modifica por la disposición final 8.5 de la Ley 7/2013, de 23 de diciembre. Ref. BOE-A-2014-592
+
+### Artículo 16
+
+Artículo 16.
+Podrá autorizarse el cruce de apuestas, asimismo previamente autorizadas, dentro de los locales o recintos donde se celebren determinadas competiciones, en otros locales que expresamente se determinen y en los salones de juego regulados en el artículo 13 de esta Ley.
+
+### Artículo 17
+
+Artículo 17.
+De igual modo podrán autorizarse locales, recintos o espacios para la celebración de rifas o tómbolas, en las condiciones que reglamentariamente se establezcan.
+
+### Artículo 18
+
+Artículo 18.
+1. A los efectos de esta Ley, los hipódromos se clasifican en hipódromos de tipo «A» y de tipo «B». Sus características serán desarrolladas reglamentariamente.
+2. Las apuestas hípicas en los hipódromos tipo «B» sólo podrán realizarse en el interior de los mismos, en las condiciones que reglamentariamente se establezcan. Las apuestas externas quedan reservadas a los hipódromos de tipo «A», en las condiciones que reglamentariamente se determinen.
+3. La concesión de hipódromos tipos «A» y «B» se hará previa convocatoria de concurso, para cuya resolución se valorará el interés turístico del proyecto global, la solvencia de los promotores, el programa de inversiones y el cumplimiento de los requisitos establecidos en las bases de la convocatoria, así como los incentivos y beneficios económicos y sociales que su instalación haya de crear en la zona geográfica donde se ubiquen.
+
+## TÍTULO III
+
+De las Empresas titulares de las autorizaciones de juego y/o apuestas
+
+### Artículo 19
+
+Artículo 19.
+1. La organización y explotación de juegos y apuestas, así como la comercialización, distribución y mantenimiento de material o de máquinas y aparatos de juegos o apuestas, únicamente podrán ser realizadas por empresas inscritas en el registro correspondiente que llevará al efecto el órgano que determine la Consejería de Gobernación.
+2. Asimismo, la Junta de Andalucía, bien directamente o bien a través de órganos de gestión específicamente creados a tal fin o empresas públicas, o sociedades mixtas de capital público mayoritario, podrá asumir la organización y explotación del juego.
+3. Para explotar la actividad del juego y apuestas en la Comunidad Autónoma de Andalucía los titulares de las empresas de juego y/o apuestas deberán ser sociedades mercantiles y ajustarse a los requisitos y condiciones que reglamentariamente se determinen. En todo caso, deberán cumplir los siguientes requisitos mínimos, que mantendrán durante el período de vida de las mismas:
+a) Constituirse bajo la forma de sociedades anónimas o de responsabilidad limitada, en su caso, con el objeto exclusivo de la explotación del juego.
+b) La transmisión de acciones o participaciones será notificada al órgano que corresponda.
+c) Ninguna persona, natural o jurídica, podrá tener participación en el capital ni ostentar cargos directivos en más de tres sociedades explotadoras de cualquier otro juego.
+4. Las entidades benéficas, deportivas, culturales y turísticas, que tengan más de tres años de ininterrumpida existencia legal y funcionamiento, tendrán preferencia en la concesión de autorizaciones para la explotación del juego de bingo, quedando exentas de la obligación de constituirse en sociedades mercantiles.
+5. (Derogado).
+6. Las empresas de juego y/o apuestas estarán obligadas a remitir, en la forma y plazo que reglamentariamente se establezca, información sobre las mismas al órgano que determine la Consejería de Gobernación en uso de sus funciones de control, coordinación y estadística.
+Se deroga el apartado 5, con efectos de 1 de enero de 2013, por la disposición derogatoria 2.c) de la Ley 7/2013, de 23 de diciembre. Ref. BOE-A-2014-592
+
+### Artículo 20
+
+Artículo 20.
+1. Con el fin de garantizar las obligaciones derivadas de la presente ley, las sociedades de juego y/o apuestas deberán constituir en la tesorería de la Consejería competente en materia de hacienda, a disposición de la Consejería competente en materia de juego, fianza en metálico o aval bancario, cuya cuantía se determinará reglamentariamente.
+2. La fianza quedará afecta a todas las obligaciones y responsabilidades económicas que se deriven de la comisión de infracciones en materia de juego y de la falta de pago de los tributos exigibles en dicha materia.
+3. La falta de constitución de la fianza, así como la falta de actualización de esta en el plazo de un mes a contar desde el requerimiento que realice la Administración, supondrá que la persona o la entidad interesada incurra en una causa de revocación del título habilitante.
+Se modifica por la disposición final 8.6 de la Ley 7/2013, de 23 de diciembre. Ref. BOE-A-2014-592
+
+### Artículo 21
+
+Artículo 21.
+Tanto el capital social como las fianzas deberán mantenerse en las cuantías que en cada momento corresponda. Las disminuciones que se produzcan por las cantidades que sobre la misma se dispongan en virtud de los oportunos procedimientos reglamentarios, deberán reponerse en un plazo dentro de los ocho días siguientes, y en caso de no hacerlo quedará en suspenso inmediatamente la autorización a la empresa; transcurridos tres meses sin que la reposición se llevara a efecto se anulará la autorización y se cancelará la inscripción correspondiente en el Registro de Empresas de Juego y Apuestas.
+
+## TÍTULO IV
+
+De los elementos personales para la práctica de los juegos
+
+### Artículo 22
+
+Artículo 22.
+1. Las personas que realicen su actividad profesional en empresas dedicadas a la explotación de los juegos y/o apuestas no podrán estar inhabilitadas judicialmente para el ejercicio de profesión u oficio relacionados con los mismos.
+2. Igual ausencia de inhabilitación se requerirá a las personas que sean socias, participes, administradoras, directoras, gerentes o apoderadas de las citadas empresas.
+3. Se someterán al régimen de declaración responsable o, en su caso, al de comunicación previa los procedimientos que en materia de juego y apuestas se determinen reglamentariamente.
+4. Las personas empleadas que participen directamente en la práctica de los juegos y apuestas, deberán formar parte de la plantilla de trabajadores de la empresa titular y no podrán tener participación alguna en la sociedad titular de la empresa de juego.
+Asimismo, las personas encargadas de controlar la admisión al establecimiento de juego, deberán formar parte de la plantilla de trabajadores de la empresa titular.
+5. La contratación por parte de estas empresas de personal extranjero se regirá por la legislación vigente en la materia.
+Se modifica el apartado 4 por el art. único.6 del Decreto-ley 6/2019, de 17 de diciembre. Ref. BOJA-b-2019-90590
+ Se modifica por el art. 5 de la Ley 3/2014, de 1 de octubre. Ref. BOE-A-2014-10663
+ Se modifica por el art. 5 del Decreto-ley 5/2014, de 22 de abril. Ref. BOJA-b-2014-90289
+
+### Artículo 23
+
+Artículo 23.
+Las personas menores de edad no podrán participar en los juegos y apuestas comprendidos en esta Ley, ni acceder a los establecimientos a que se refiere el artículo 10.2. Estas limitaciones serán aplicables a las personas que figuren en el Registro de Control e Interdicciones de Acceso a los Establecimientos dedicados a la práctica de los juegos y apuestas, creado mediante el Decreto 410/2000, de 24 de octubre, por el que se crea el Registro de Control e Interdicciones de Acceso a los Establecimientos dedicados a la práctica de los juegos y apuestas y se aprueba su Reglamento, en los términos establecidos en la correspondiente inscripción.
+Se modifica por el art. único.7 del Decreto-ley 6/2019, de 17 de diciembre. Ref. BOJA-b-2019-90590
+
+### Artículo 24
+
+Artículo 24.
+1. Los Reglamentos que desarrollen esta Ley podrán imponer condiciones especiales de acceso y de uso a los locales de juego y/o apuestas.
+2. En los establecimientos autorizados para la práctica de los juegos y/o apuestas existirá un libro de reclamaciones a disposición de los jugadores.
+
+## TÍTULO V
+
+De las máquinas de juego
+
+### Artículo 25
+
+Artículo 25.
+1. Son máquinas de juego los aparatos automáticos que a cambio de un precio permiten eventualmente a la persona usuaria la obtención de un premio en dinero.
+2. A los efectos de su régimen jurídico, las máquinas se clasifican en los siguientes grupos:
+Tipo «B» o recreativas con premio, que a cambio del precio de una partida o jugada conceden al usuario un tiempo de uso o de juego y, eventualmente, un premio en dinero en las condiciones que reglamentariamente se determinen.
+Tipo «C» o de azar, que a cambio del precio de la partida o jugada conceden al usuario un tiempo de uso o de juego y, eventualmente, un premio en dinero que dependerá siempre del azar y en las condiciones que reglamentariamente se determinen.
+3. Reglamentariamente podrán determinarse las condiciones de instalación de máquinas progresivas interconexionadas, cuyo conjunto pueda conceder un premio proporcional a las máquinas que lo integren.
+4. Las máquinas clasificadas en este artículo deberán estar inscritas en el correspondiente Registro de Modelos, estar perfectamente identificadas y contar con un boletín de instalación debidamente autorizado, en los términos que reglamentariamente se determinen.
+Se modifica por la disposición final 8.7 de la Ley 7/2013, de 23 de diciembre. Ref. BOE-A-2014-592
+ Se modifica por el art. 26 de la Ley 15/2001, de 26 de diciembre. Ref. BOE-A-2002-1221
+ Se modifica el apartado 2 por el art. 17 de la Ley 11/1998, de 28 de diciembre. Ref. BOE-A-1999-2942
+
+### Artículo 26
+
+Artículo 26.
+Quedan excluidas de la presente Ley las máquinas expendedoras que se limiten a efectuar mecánicamente la venta de productos o mercancías siempre que el valor del dinero depositado en las máquinas corresponda al valor de mercado de los productos que entreguen, así como las máquinas tocadiscos o video-discos y las de competencia pura o deporte que expresamente se determinen.
+
+## TÍTULO VI
+
+Del régimen sancionador
+
+### Artículo 27
+
+Artículo 27.
+1. Constituirá infracción administrativa el incumplimiento de las normas de la presente Ley y las de las disposiciones que la desarrollen y demás actos administrativos de ejecución.
+2. Las infracciones administrativas en materia de juego y apuestas se clasifican en muy graves, graves y leves.
+
+### Artículo 28
+
+Artículo 28.
+Son infracciones muy graves:
+1. La organización, práctica o celebración, gestión o explotación de juegos o apuestas sin poseer ninguna de las autorizaciones administrativas que reglamentaria y específicamente se establezcan para cada juego, así como el permitir o consentir, expresa o tácitamente, la celebración de estos juegos o actividades en locales o recintos no autorizados o mediante personas no autorizadas.
+2. Fabricar, distribuir o comercializar máquinas o elementos de juego o apuestas distintos de los autorizados u oficiales, así como la utilización de elementos de juego o máquinas no homologadas y la sustitución o manipulación fraudulenta del material del juego o las apuestas.
+3. La participación del personal empleado o directivo de las empresas dedicadas a la gestión o explotación del juego, directamente o por medio de terceras personas, en los juegos y apuestas que gestionen o exploten aquellas.
+4. Asociarse con otras personas para fomentar la práctica de los juegos o apuestas al margen de las normas o autorizaciones legales.
+5. Ceder por cualquier título las autorizaciones concedidas con arreglo a lo dispuesto en la presente Ley y demás normas que la desarrollen o complementen, salvo con las condiciones y requisitos que en las mismas se exijan.
+6. La modificación de cualquiera de las condiciones esenciales en virtud de las cuales se concedieron las preceptivas autorizaciones para la organización, práctica, gestión, comercialización, distribución y explotación de los juegos o apuestas, al margen de las normas contenidas en esta ley o de las que reglamentariamente se establezcan.
+7. Impedir u obstaculizar el ejercicio de las funciones de control y vigilancia que correspondan a los agentes de la autoridad y al personal funcionario encargado o habilitado específicamente para tales funciones.
+8. La manipulación de los juegos en perjuicio de las personas jugadoras o apostantes.
+9. El impago, total o parcial, a las personas apostantes o jugadoras de las cantidades que resultasen ganadoras.
+10. Otorgar préstamos a las personas jugadoras o apostantes en los lugares en los que se celebren los juegos y apuestas.
+11. Permitir el acceso a los locales o establecimientos de juego o apuestas, así como permitir su práctica a las personas que lo tengan prohibido en virtud de la presente Ley o por los Reglamentos que la desarrollen.
+Téngase en cuenta que esta última actualización del apartado 11, por el art. único.8 del Decreto-ley 6/2019, de 17 de diciembre. Ref. BOJA-b-2019-90590, entrará en vigor el 27 de junio de 2020, según se establece en la disposición final única.a) de la mencionada norma.
+12. Efectuar publicidad de los juegos y apuestas o de los salones de juego en los que estos se practiquen, o promociones de comercialización y venta mediante actividades análogas o juegos incluidos en el Catálogo de Juegos, salvo autorización previa.
+13. El incumplimiento de los horarios de apertura y cierre establecidos, en cada caso, para los establecimientos de juego.
+14. La comisión de tres infracciones graves en el plazo de un año.
+Se modifica por el art. único.8 del Decreto-ley 6/2019, de 17 de diciembre. Ref. BOJA-b-2019-90590
+ Téngase en cuenta que la modificación del apartado 11 entrará en vigor el 27 de junio de 2020, según se establece en la disposición final única.a) de la citada norma.
+
+### Artículo 29
+
+Artículo 29.
+Son infracciones graves:
+1. La organización, práctica o celebración, gestión o explotación de juegos o apuestas careciendo de alguna de las autorizaciones administrativas que reglamentaria y específicamente se establecen para cada juego, así como el permitir o consentir, expresa o tácitamente, la celebración de estos juegos o actividades en locales o recintos no autorizados o mediante personas no autorizadas.
+2. Obtener o intentar obtener las preceptivas autorizaciones para la organización, práctica, celebración, gestión o explotación de juegos o apuestas con aportación de documentos o datos no conformes con la realidad.
+3. Explotar o instalar máquinas o elementos de juegos o apuestas distintos de los autorizados u oficiales.
+4. Modificar o superar en un cien por cien los límites máximos de apuestas permitidas o autorizadas en cada juego.
+5. Utilizar la autorización administrativa para actividades o máquinas distintas de aquellas para las que fue concedida.
+6. Transferir acciones o participaciones sociales sin la previa notificación, así como la falta de los libros y documentación exigidos o hacerlos incorrectamente.
+7. Practicar sin autorización cualquier apuesta o juego incluidos en el Catálogo de Juegos y Apuestas en establecimientos públicos, no autorizados para ello, en círculos tradicionales o en clubes públicos o privados.
+8. La inexistencia o mal funcionamiento de las medidas de seguridad de los locales cuando puedan afectar gravemente a la seguridad de personas.
+9. Admitir más personas en el local que las permitidas según el aforo máximo autorizado para el mismo.
+10. La conducta desconsiderada sobre personas jugadoras o apostantes tanto en el desarrollo del juego como en el caso de protestas o reclamaciones de estas.
+11. La comisión de tres infracciones leves en el plazo de un año.
+Se modifica por el art. único.9 del Decreto-ley 6/2019, de 17 de diciembre. Ref. BOJA-b-2019-90590
+
+### Artículo 30
+
+Artículo 30.
+Son infracciones leves:
+1. No tener en el local o instalado en la máquina el documento acreditativo de la autorización y demás documentos que se establezcan.
+2. No proporcionar la información requerida al amparo del artículo 19.6 o hacerlo incorrectamente.
+3. El incumplimiento de los requisitos o prohibiciones establecidos en esta Ley, Reglamentos y demás disposiciones que la desarrollen, no señalados como infracciones muy graves o graves.
+Se modifica por el art. único.10 del Decreto-ley 6/2019, de 17 de diciembre. Ref. BOJA-b-2019-90590
+
+### Artículo 31
+
+Artículo 31.
+1. Las infracciones calificadas muy graves serán sancionadas con multas de 10.001 euros hasta 300.000 euros; las graves, con multas de 601 euros a 10.000 euros, y leves, con multa de hasta 600 euros.
+Además, cuando se aprecie fraude, la multa no podrá ser, en ningún caso, inferior al quíntuple de las cantidades defraudadas.
+Anualmente, en la Ley del Presupuesto, podrá considerarse la modificación de estas sanciones para adecuarlas a la realidad social y económica.
+2. Las infracciones que hubieren sido mencionadas conforme a lo dispuesto en el apartado anterior, llevarán implícitas conforme a su naturaleza las siguientes consecuencias o sanciones accesorias:
+a) La devolución a la Administración o a los perjudicados que hubieren sido identificados, de los beneficios ilícitamente obtenidos.
+b) En casos de infracciones graves o muy graves, la suspensión, o cancelación de la autorización concedida, procediendo a la clausura temporal o definitiva del local.
+Los locales clausurados por cancelación de la autorización correspondiente, no podrán durante cinco años ser objeto de las actividades previstas en la presente Ley, sea la misma o distinta la empresa autorizada. Cuando la actividad principal que se ejerza por la empresa autorizada en el local no sea el juego, la clausura no podrá exceder de seis meses.
+c) El precintado de la máquina o elemento de juego y, en su caso, su inutilización.
+d) La retirada temporal o definitiva de los documentos profesionales de los autores materiales de la infracción y de los que lo indujeren u ordenaren.
+3. Cuando las supuestas infracciones estuvieren encuadradas en los supuestos contemplados en los artículos 28 y 29 de la presente Ley, la persona instructora podrá acordar el comiso cautelar de las máquinas o elementos de juego de la infracción o su precinto, en los términos que reglamentariamente se determinen.
+4. Sin perjuicio de las sanciones que en su caso proceda imponer, podrán adoptarse como medidas provisionales la suspensión temporal de las autorizaciones o la clausura preventiva de los establecimientos públicos de juego o de apuestas cuando el procedimiento sancionador haya sido iniciado por la presunta comisión de infracciones graves o muy graves previstas en esta Ley.
+No obstante lo anterior, el órgano competente para iniciar el procedimiento sancionador acordará la adopción de tales medidas en los casos en los que presuntamente se haya permitido el acceso a los locales o establecimientos de juego o apuestas, a personas menores de edad o a las personas que figuren en el Registro de Control e Interdicciones de Acceso a los Establecimientos dedicados a la práctica de los juegos y apuestas, en los términos establecidos en la correspondiente inscripción.
+Téngase en cuenta que esta última actualización del párrafo 2 del apartado 4, por el art. único.11 del Decreto-ley 6/2019, de 17 de diciembre. Ref. BOJA-b-2019-90590, en cuanto a la medida provisional derivada de permitir el acceso a los locales o establecimientos de juego o apuestas a las personas que figuren en el Registro de Control e Interdicciones de Acceso a los Establecimientos, entrará en vigor el 27 de junio de 2020, según se establece en la disposición final única.b) de la mencionada norma.
+5. Los elementos de juego quedarán afectos al pago de las sanciones que se impongan.
+6. Los documentos profesionales podrán ser suspendidos cuando las personas titulares de los mismos hayan sido procesadas por algún delito relacionado con el juego. Si resultasen condenadas por actividades relacionadas con el juego, la revocación será definitiva.
+7. Iniciado el expediente sancionador por infracciones muy graves procederá el comiso cautelar de las máquinas o elementos de juego de la infracción, en los términos que reglamentariamente se determinen. Asimismo, en los casos de infracciones graves podrá decretarse el comiso.
+8. Para la imposición de la sanción se tendrán en cuenta tanto las circunstancias de orden personal como material que concurrieran en la infracción, los antecedentes del infractor o la posible reincidencia en la infracción, así como su incidencia en el ámbito territorial o social en que se produzca.
+9. De las infracciones reguladas en esta Ley, que se produzcan en los establecimientos en los que se practiquen los juegos y/o apuestas, responderán las empresas de juegos y/o apuestas y los titulares de dichos establecimientos, en los términos que reglamentariamente se determinen.
+10. Los elementos de juego quedarán afectos al pago de las sanciones impuestas.
+Se modifica por el art. único.11 del Decreto-ley 6/2019, de 17 de diciembre. Ref. BOJA-b-2019-90590
+ Téngase en cuenta que la modificación del párrafo 2 del apartado 4, en cuanto a la medida provisional derivada de permitir el acceso a los locales o establecimientos de juego o apuestas a las personas que figuren en el Registro de Control e Interdicciones de Acceso a los Establecimientos, entrará en vigor el 27 de junio de 2020, según se establece en la disposición final única.b) de la citada norma.
+ Se modifica el apartado 1 por la disposición final 8.8 de la Ley 7/2013, de 23 de diciembre. Ref. BOE-A-2014-592
+
+## TÍTULO VII
+
+De la inspección del juego y de las apuestas
+
+### Artículo 32
+
+Artículo 32.
+1. Los funcionarios de la Junta de Andalucía a los que se encomiende el control y la inspección del Juego y las Apuestas en el ámbito de la Comunidad Autónoma tendrá la consideración de agentes de la autoridad, gozando como tales de la protección que les dispensa la legislación vigente, con las facultades que reglamentariamente se determinen.
+2. Los funcionarios de inspección y control del juego están facultados para examinar los locales, máquinas, documentos y todo lo que pueda servir de información para el mejor cumplimiento de su tarea.
+3. Las personas físicas o jurídicas titulares de las autorizaciones o establecimientos de que se trate, sus representantes legales y, en definitiva, el personal de la inspección tendrá la obligación de facilitar a los inspectores y a su personal auxiliar el acceso a los locales y a sus diversas dependencias, así como el examen de los libros, registros y documentos que necesiten para efectuar la inspección.
+
+## TÍTULO VIII
+
+Procedimiento sancionador
+
+### Artículo 33
+
+Artículo 33.
+Las sanciones motivadas por infracciones a los preceptos de la presente Ley y a los de los Reglamentos y normas que la desarrollen se impondrán en virtud del procedimiento sancionador regulado en este título.
+Reglamentariamente, para determinados supuestos podrá determinarse como procedimiento sancionador el contenido en la Ley de Procedimiento Administrativo.
+
+### Artículo 34
+
+Artículo 34.
+El procedimiento sancionador se iniciará por providencia del órgano competente en cada caso o por denuncia de los inspectores, que tendrán, a los efectos de la tramitación del correspondiente procedimiento sancionador que aquélla motive, la consideración de Instructores del expediente.
+
+### Artículo 35
+
+Artículo 35.
+1. Las actas que levanten los inspectores, en cuanto agentes de la autoridad, contendrán el correspondiente pliego de cargos, debiendo notificarse a los interesados para surtir efectos.
+2. Las denuncias que formulen otros agentes de la autoridad ante la Junta de Andalucía podrán servir de fundamento a los inspectores, en cuanto instructores de los expedientes, para formular los correspondientes pliegos de cargos.
+3. Los escritos de denuncia de los particulares motivarán la Intervención directa de los inspectores, para lo que deberán contener la firma, nombre y apellidos de aquéllos, así como los hechos que motivan la denuncia, el lugar y la fecha.
+
+### Artículo 36
+
+Artículo 36.
+En el acta-pliego de cargos se consignará la relación circunstanciada del hecho y sus fundamentos de derecho, con expresión del lugar, fecha y hora en que haya sido apreciado, y demás la identificación personal del inspector-instructor.
+
+### Artículo 37
+
+Artículo 37.
+1. En el plazo de diez días desde la notificación del acta-pliego de cargos los interesados podrán alegar los descargos que a su derecho convengan, con aportación y propuesta de las pruebas que consideren oportunas.
+2. En el escrito de descargos podrán plantearse la recusación del inspector actuante y sobre ella resolverá el órgano al que esté adscrito el mismo.
+3. En todo caso, el órgano competente para resolver podrá acordar el cambio de instructor en un expediente determinado, mediante causa justificada para ello.
+
+### Artículo 38
+
+Artículo 38.
+1. Transcurrido el plazo de diez días, a la vista de los descargos alegados y documentos aportados, practicadas las pruebas propuestas y resuelta la recusación si se hubiere formulado, el instructor del expediente elevará propuesta de resolución el órgano competente para resolver en cada caso.
+2. La propuesta de resolución deberá estar fundada en los hechos que dieron lugar al pliego de cargos, considerará las alegaciones presentadas y determinará con precisión la falta que se estime cometida, su triplicación, responsable a quien se le imputa y sanción que se propone.
+
+### Artículo 39
+
+Artículo 39.
+1. La conformidad del órgano competente para resolver en cada caso elevará a resolución la propuesta que formulen los inspectores en los términos del apartado 2 del artículo anterior.
+2. Las resoluciones tendrán plena eficacia una vez notificadas a los interesados.
+3. Las resoluciones que recaigan en el procedimiento que se establece en esta Ley serán ejecutivas, con independencia de que los interesados interpongan los recursos que en cada caso procedan.
+4. El órgano competente para resolver podrá acordar la suspensión de la sanción, de oficio o a instancia del interesado, oído el inspector actuante, si mediara causa justa para ello y con las medidas cautelares que garanticen la ejecución del acto administrativo.
+
+### Artículo 40
+
+Artículo 40.
+Contra la resolución dictada en expediente sancionador podrán interponerse los recursos establecidos en la legislación ordinaria.
+
+## TÍTULO IX
+
+Comisión del Juego y Apuestas de la Comunidad Autónoma de Andalucía
+
+### Artículo 41
+
+Artículo 41.
+1. Como órgano de estudio, coordinación y control de las actividades relacionadas con el juego y apuestas, se crea la Comisión del Juego y Apuestas de la Comunidad Autónoma de Andalucía, que estará presidida por el Consejero de Gobernación, con la composición que reglamentariamente se determine.
+2. Corresponde a la Comisión de Juego de la Comunidad Autónoma de Andalucía:
+a) Emitir informes en materia de juegos de azar que le sean requeridos por organismos de la Junta de Andalucía, en el ámbito de sus competencias.
+b) Informar las propuestas de sanción en las infracciones calificadas como muy graves que deba resolver el Consejo de Gobierno.
+c) Elaborar la estadística e informe anual sobre el desarrollo del juego en la Comunidad Autónoma.
+d) Proponer la planificación en materia de juego.
+e) Cualquier otra que se atribuya por el Consejo de Gobierno.
+3. Por el Consejo de Gobierno se dictarán las disposiciones precisas para el funcionamiento de esta Comisión de Juego y Apuestas.
+
+## TÍTULO X
+
+Tasa de servicios sobre salones de juego
+
+### Artículo 42
+
+Artículo 42.
+Se crea la tasa de servicios administrativos referidos a salones de juego definidos en el artículo 13 de esta Ley.
+
+### Artículo 43
+
+Artículo 43.
+Constituyen hechos imponibles la autorización de apertura y funcionamiento y la expedición de cualquier documento complementario de la anterior autorización.
+
+### Artículo 44
+
+Artículo 44.
+Está obligado al pago de la tasa el titular de la autorización.
+
+### Artículo 45
+
+Artículo 45.
+La cuantía de la tasa será:
+1. Autorización de apertura y funcionamiento:
+1.1 Hasta 50 máquinas, 100.000 pesetas.
+1.2 Más de 50 máquinas, 150.000 pesetas.
+2. Expedición de cualquier documento complementario de la anterior autorización, 10.000 pesetas.
+La cuantía será revisada anualmente en la Ley de Presupuesto de la Comunidad Autónoma de Andalucía.
+
+### Artículo 46
+
+Artículo 46.
+El devengo de la tasa se producirá en el momento de solicitar el servicio que constituye el hecho imponible de la misma.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. El Consejo de Gobierno aprobará el primer Catálogo de juegos y apuestas de la Comunidad Autónoma de Andalucía, que incluirá al menos los siguientes:
+Lotería.
+Ruleta francesa y ruleta americana.
+Veintiuno o «black jack».
+Bola o «boule».
+Treinta y cuarenta.
+Dados.
+Punto y banca.
+Ferrocarril, «Baccará» o «Chemín de Fer».
+«Baccará» o dos paños.
+Bingo o lotería.
+Máquinas recreativas, recreativas con premio y de azar.
+Boletos.
+Rifas, tómbolas y combinaciones aleatorias.
+Apuestas hípicas.
+Apuestas de galgos.
+2. A propuesta de la Consejería de Gobernación, por el Consejo de Gobierno podrán autorizarse, incluyéndose en el Catálogo, juegos y apuestas no contemplados en esta Ley y que se considere oportuno regular dada su posible incidencia económica o social.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Se autoriza al Consejo de Gobierno de la Junta de Andalucía para que dicte las disposiciones necesarias para el desarrollo de la presente Ley.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En tanto los órganos de la Junta de Andalucía no hagan uso de las facultades reglamentarias que les otorga la presente Ley se aplicarán las disposiciones generales de la Administración del Estado.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Cuando no esté homologado por la Administración del Estado el material de un juego o apuesta determinado, incluido en el Catálogo de Juegos y Apuestas de la Comunidad Autónoma de Andalucía, podrá homologarse por la Junta de Andalucía.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Las autorizaciones de carácter temporal concedidas con antelación a la entrada en vigor de la presente Ley tendrán el plazo de vigencia que en ellas se indique.
+Se establece un plazo máximo de cinco años para los permisos expedidos para la explotación de máquinas de juegos, pudiendo ser renovados si se cumplen los supuestos exigidos en esta Ley y en las disposiciones reglamentarias que la desarrollen.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+La renovación de las autorizaciones actualmente vigentes, una vez transcurridos su período de validez, se realizará con arreglo a las disposiciones de la presente Ley y se tendrá en cuenta lo dispuesto para la planificación del juego en Andalucía y cuantas circunstancias de índole social y económica concurran y aconsejen su renovación o no.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+A los casinos de juego autorizados con arreglo a la legislación anterior no les será de aplicación, en el supuesto de solicitud de renovación, lo establecido en el número 3 del artículo 11 de esta Ley.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Los titulares de las Empresas de juego y/o apuestas que se encontrasen en funcionamiento legal en la fecha de entrada en vigor de la presente Ley, habrán de adoptarse a lo dispuesto en el artículo 19.3 de la misma en el plazo de dos años a partir de dicha entrada en vigor.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+En el plazo de tres meses a partir de la entrada en vigor de los Reglamentos que desarrollen esta Ley, las Empresas de juego y/o apuestas estarán obligadas a constituir fianza o a completar la que tengan constituida hasta alcanzar los mínimos que les correspondan, con arreglo a lo dispuesto en el artículo 20.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+El régimen de infracciones y sanciones administrativas regulado en esta Ley se aplicará únicamente a los hechos cometidos a partir de la entrada en vigor de la misma, aplicándose en los expedientes en tramitación el derecho sancionador a la referida entrada en vigor.
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera.
+En virtud de lo establecido en la disposición transitoria primera de la Ley Orgánica 6/1981, de Estatuto de Autonomía para Andalucía, dejan de tener vigor a partir de la vigencia de la presente Ley, en el ámbito de la Comunidad Autónoma de Andalucía, los Reales Decretos-ley 16/1977, de 25 de febrero; 9/1980, de 26 de septiembre, y 8/1982, de 30 de abril; el artículo 22.5 y la disposición adicional sexta de la Ley 5/1983, de 29 de junio; los Reales Decretos 444/1977, de 11 de marzo, y 2079/1978, de 14 de octubre, en lo que se opongan a la presente Ley.
+Asimismo quedan derogadas en el ámbito de la Comunidad Autónoma de Andalucía cuantas disposiciones se opongan a la presente Ley.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda.
+La Orden del Ministerio del Interior, de 9 de octubre de 1979, que aprueba el Catálogo de juegos, así como la Orden de 23 de enero de 1984, que lo modifica parcialmente, y las normas que reglamentan los diferentes juegos catalogados, seguirán en vigor en tanto no sean modificadas o no se opongan expresamente a lo dispuesto en la Ley.
+
+Sevilla, 19 de abril de 1986.‒El Presidente de la Junta de Andalucía, José Rodríguez de la Borbolla y Camoyan.‒El Consejero de Gobernación, Enrique Linde Cirujano.

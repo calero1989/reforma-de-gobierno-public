@@ -1,0 +1,203 @@
+# Ley 2/2018, de 26 de marzo, de Gratuidad de los Libros de Texto de la Comunidad Autónoma de la Región de Murcia.
+
+- Identificador BOE: `BOE-A-2018-8849`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2018-8849
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley de gratuidad de los libros de texto de la Comunidad Autónoma de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30.Dos, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+PREÁMBULO
+El derecho de todos a la educación está consagrado como derecho fundamental en el artículo 27.1 de la Constitución española, añadiendo taxativamente su número cuatro que «la enseñanza básica es obligatoria y gratuita».
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en el artículo tercero establece que la Educación Primaria y la Educación Secundaria Obligatoria constituyen la educación básica. Asimismo, determina en el artículo cuarto que la enseñanza básica es obligatoria y gratuita para todas las personas, y en el artículo 88.2 establece que las administraciones educativas dotarán a los centros de los recursos necesarios para hacer posible la gratuidad en las, enseñanzas de carácter gratuito.
+El artículo 3.10 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, establece que los ciclos de Formación Profesional Básica serán de oferta obligatoria y de carácter gratuito, y en la disposición adicional quinta determina que el Ministerio de Educación, Cultura y Deporte promoverá el préstamo gratuito de libros de texto y otros materiales curriculares para la educación básica en centros sostenidos con fondos públicos, en el seno de la Conferencia Sectorial de Educación.
+El Estatuto de Autonomía de la Región de Murcia, aprobado por ley orgánica 4/1982, del 9-6-1982, en su artículo 16 establece que corresponde a la Comunidad Autónoma la competencia de desarrollo legislativo y ejecución de la enseñanza en todas su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo 27 de la Constitución. Así mismo, en este mismo artículo se vuelve a establecer el derecho a garantizar una prestación homogénea y eficaz del servicio público de la educación que permita corregir las desigualdades o desequilibrios que puedan producirse.
+Una educación básica plenamente gratuita constituye un instrumento indispensable para garantizar la igualdad de oportunidades de los ciudadanos. Para ello, la comunidad educativa y las diferentes asociaciones de madres y padres de alumnos de nuestra Región están reclamando desde hace tiempo la gratuidad efectiva de la enseñanza obligatoria incluyendo la gratuidad de los libros de texto.
+Con el objeto de lograr eficiencia, rentabilidad de los recursos públicos y con el objetivo de extender la gratuidad de los libros de texto a la enseñanza obligatoria, se considera conveniente que todas las administraciones públicas y asociaciones de madres y padres de alumnos coordinen y aúnen las actuaciones que están realizando en este aspecto, por cuanto que el sistema de préstamo responde a principios de indudable valor social como el de uso responsable de los bienes o el de respecto a un medio ambiente sostenible y que exige un alto grado de implicación de todos los miembros de la comunidad educativa e instituciones regionales y municipales con el objeto de configurar un fenómeno de compromiso social activo.
+Facultada la Comunidad Autónoma de la Región de Murcia por los títulos competenciales en materia educativa recogidos en el artículo 16 de su Estatuto de Autonomía, se elabora la presente Ley de Gratuidad de los Libros de Texto para el alumnado de Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y Formación Profesional Básica en centros públicos y concertados de nuestra Región.
+De igual manera esta ley tiene como finalidad la creación de un banco de libros de texto en los centros escolares de nuestra Región que oferten enseñanzas obligatorias de carácter gratuito, en el que los alumnos, una vez finalizado el curso escolar, entreguen los libros para que puedan ser reutilizados por otro alumnado en cursos sucesivos, fomentando así en el alumnado actitudes de respeto y uso responsable de los libros de textos financiados por medio de fondos públicos. En definitiva, implantando un sistema de alcance universal que sustituya progresivamente el carácter limitado de las políticas de becas públicas desarrolladas hasta la fecha en este ámbito.
+Asimismo, es objetivo fundamental de esta Ley subrayar la necesidad de impulsar una transición digital y pedagógica, que haga del libro de texto (en ambas versiones: digital y papel) una herramienta más al servicio de las actividades de enseñanza-aprendizaje, y fomente nuevas metodologías activas, inclusivas y centradas en las necesidades del alumno/a.
+Por todo ello, se elabora la presente ley con el objeto de establecer la normativa que regule las convocatorias dirigidas a los centros educativos, impulsando la constitución y el mantenimiento de bancos de libros de texto y material curricular para su uso por el alumnado mediante sistema de préstamo y reutilización, facilitando su donación, gestión y estableciendo las medidas necesarias para su correcto funcionamiento, cubriendo las necesidades de la población escolar de la Región de Murcia y posibilitando acciones de innovación metodológica, por parte del profesorado, que incidan en la mejora de la educación.
+El articulado que compone la presente ley se estructura en cuatro capítulos.
+El capítulo I, «Disposiciones Generales», garantiza la gratuidad de los libros de texto en la enseñanza básica y opta, para materializar este derecho, por un sistema de préstamo y reutilización frente al de ayudas económicas directas. Dicha opción se basa, en primer término, en la consideración de que ofrece una mayor eficiencia en términos económicos por cuanto permite atender a un número proporcionalmente mayor de beneficiarios con un coste medio por alumno más reducido.
+El capítulo II, «De los libros de texto», los define legalmente, respeta su elección por los centros. Fija un período mínimo de vigencia indispensable para la viabilidad del sistema y se ocupa de su régimen de propiedad y uso.
+El capítulo III, «Voluntariedad, incompatibilidad, seguimiento y gestión del sistema de préstamo», aparte de configurar la adhesión al sistema como gratuita y la incompatibilidad con otras modalidades de ayuda, establece mecanismos de seguimiento inspirados en el principio de transparencia y atribuye la gestión del sistema a los centros docentes reforzando así su autonomía.
+El capítulo IV de la ley, bajo la rúbrica «De la financiación del sistema de préstamo», prevé los mecanismos de financiación para garantizar su aplicación efectiva.
+De la parte final destacar, como elemento fundamental, el calendario y los criterios de implantación, objeto de la disposición final primera.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. La presente ley tiene por objeto garantizar la gratuidad de los libros de texto a todo el alumnado que curse las enseñanzas de Educación Primaria, Educación Secundaria Obligatoria, Formación Profesional Básica y Educación Especial en todos los centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de la Región de Murcia.
+2. La implantación del programa de gratuidad de libros de texto en las enseñanzas de Educación Primaria, Educación Secundaria Obligatoria, Ciclos formativos de grado básico y Educación Especial en todos los centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de la Región de Murcia tendrá carácter progresivo, debiendo quedar totalmente implantado en las citadas enseñanzas para el curso 2025-2026.
+Se modifica el apartado 2 por la disposición final 4.1 de la Ley 1/2021, de 23 de junio. Ref. BOE-A-2021-21313#df-4
+
+### Artículo 2
+
+Artículo 2. Sistema de préstamo y reutilización. Finalidad y principios inspiradores.
+1. La gratuidad de los libros de texto y el material curricular garantizada por esta Ley se hará efectiva mediante un sistema en el que el alumnado beneficiario dispondrá, en régimen de préstamo, de los libros de texto elegidos por el centro para las enseñanzas obligatorias que esté cursando.
+2. El sistema de préstamo y reutilización de libros de texto tiene como finalidad principal el profundizar en la consecución del objetivo de gratuidad de la enseñanza básica y obligatoria, y en su aplicación se atenderá al principio de máxima eficiencia en la asignación de los recursos públicos. La propiedad de los libros de textos corresponderá a la Administración educativa que los pondrán a disposición del alumnado para su uso gratuito.
+3. Una vez finalizado el curso escolar, el alumno devolverá los libros de texto a su centro, donde estarán sometidos a la guardia y custodia hasta que puedan ser utilizados nuevamente por otros alumnos en años sucesivos.
+4. El desarrollo del sistema de préstamo responderá, además, a los siguientes principios inspiradores:
+a) El fomento en el alumnado de actitudes de respeto, compromiso y corresponsabilidad.
+b) Refuerzo de la autonomía de los centros docentes.
+c) Profundización en los mecanismos de colaboración entre las familias y los centros docentes.
+d) Promoción en la comunidad educativa de actitudes y valores de uso responsable de los bienes orientados a prácticas respetuosas con un medio ambiente sostenible.
+e) Reconocimiento del papel activo del alumnado en su propio proceso de aprendizaje y contribución en la creación de entornos de aprendizaje más eficaces.
+5. El gobierno de la Región de Murcia financiará, en los términos regulados en el capítulo IV de esta ley, la adquisición de los libros de texto necesarios para el funcionamiento del sistema de préstamo así como las necesidades de su reposición derivadas del vencimiento de vigencia, de su obsolescencia, de la imposibilidad de su reutilización o de su pérdida o deterioro no imputables al alumnado o a terceros, en los términos fijados legal y reglamentariamente.
+
+## CAPÍTULO II
+
+De los libros de texto
+
+### Artículo 3
+
+Artículo 3. Concepto de libro de texto.
+1. A los efectos de la presente ley, se entiende por libro de texto el material curricular duradero destinado a ser utilizado por el alumnado y que desarrolle de forma completa el currículo establecido en la normativa vigente para cada área, materia, módulo o ámbito que en cada curso, tramo o etapa educativa corresponda.
+Asimismo, se entiende por materiales curriculares reutilizables de uso común aquellos materiales, en cualquier medio o soporte, de uso compartido por el alumnado y, en su caso, por el profesorado. Dichos materiales deberán perseguir la consecución de los objetivos pedagógicos previstos en el proyecto educativo y la programación de curso o materia.
+De conformidad con ello, la ley atiende a la totalidad de las necesidades económicas de las familias para los gastos en libros de texto como materiales curriculares completos y suficientes para el alumnado.
+Reglamentariamente, podrá ampliarse este concepto para que con la dotación económica recibida por alumno se puedan adquirir los soportes digitales (ordenadores, tablets, DVD, discos duros, punteros láser...) con las particularidades que les sean aplicables, para el desarrollo del proyecto educativo del centro.
+2. Los libros de texto podrán estar editados en formato impreso o digital y, en ningún caso, contendrán elementos que precisen de licencias de terceros para su uso o acceso a los contenidos que se incluyan.
+3. Se podrá financiar las siguientes adquisiciones para configurar los bancos de libros de texto:
+a) Libros de texto y material curricular en formato impreso, que no podrán contener apartados destinados al trabajo personal del alumnado que impliquen su manipulación, ni espacios expresamente previstos para que en ellos se pueda escribir o dibujar, excepto en los destinados a los cursos primero y segundo de Educación Primaria y a los alumnos con necesidades educativas especiales para los que se podrá prever reglamentariamente su renovación anual. También reglamentariamente se potenciará Ia existencia de ediciones separadas de las partes reutilizables o no reutilizables de los libros y materiales de primero y segundo de Educación Primaria.
+b) En los centros en los que se haya optado por el libro de texto en formato digital, se entenderá incluido dentro del sistema de préstamo el coste del acceso a las plataformas digitales donde los centros pongan a disposición de los alumnos los libros de texto, que no podrán contener elementos que precisen licencias de terceros para su uso o acceso a los contenidos. Los libros de texto en formato digital que estén disponibles en línea deben permitir su descarga bien en un ordenador personal o en una tablet, de manera que el alumnado pueda disponer de la información contenida en ellos sin necesidad de conexión a redes de comunicación para el desarrollo de las actividades contenidas en él..
+c) Material curricular de propia elaboración, considerando como tal el diseñado por docentes o equipos docentes en formato impreso o digital que desarrollen curricularmente un área, materia, módulo o ámbito de un curso completo de las enseñanzas de educación obligatoria, teniendo en cuenta que no incumplan con las condiciones de copyright.
+Dichos materiales serán puestos a disposición de la comunidad educativa a través del departamento correspondiente de la Consejería de Educación, el cual lo difundirá por los cauces pertinentes permitiendo su uso y adaptación de forma que puedan ser accesibles en la plataforma virtual de la consejería y difundido por internet para que puedan ser utilizados por otros alumnos.
+El docente que haya desarrollado, individual o colectivamente este material, no percibirá compensación económica alguna, aunque la administración educativa sí establecerá otro tipo de compensación con el objetivo de difundir buenas práctica entre el profesorado.
+d) Material curricular: son los recursos didácticos necesarios para el desarrollo del programa completo de una materia, área o módulo, en todo lo que dispone la normativa vigente sobre el currículo de la Comunidad Autónoma de la Región de Murcia. En este concepto se incluyen al menos elementos como diccionarios, atlas, libros de lectura.
+e) Libros o materiales específicos destinados al alumnado con necesidades educativas especiales.
+4. No están contemplados en el sistema de préstamo regulado en esta ley aquellos materiales didácticos no susceptibles de ser reutilizados en cursos posteriores, salvo las excepciones indicadas para los dos primeros cursos de Educación Primaria y el alumnado con necesidades educativas especiales.
+5. Los centros educativos que trabajen por proyectos de innovación que no requieran el uso de libros de texto según la definición contenida en el presente artículo y cuyo material no sea reutilizable en cursos posteriores, recibirán una cantidad a determinar en los términos que se desarrolle reglamentariamente para garantizar la gratuidad de dicho material para los alumnos.
+Se modifican los apartados 1 y 3 y se añade el 5 por el art. único.1 a 4 de la Ley 5/2019, de 3 de abril. Ref. BOE-A-2019-7282
+
+### Artículo 4
+
+Artículo 4. Elección y vigencia de los libros de texto.
+1. La elección de los libros de texto o la del libro en soporte digital corresponde a cada centro docente y se realizará con arreglo al procedimiento establecido.
+2. Las ediciones elegidas, impresas o digitales, no podrán ser sustituidas durante un período mínimo de cuatro cursos escolares, salvo en situaciones excepcionales debidamente justificadas, conforme a la normativa aplicable, y cuando proceda la sustitución de las mismas como consecuencia de las necesarias modificaciones curriculares que se produzcan derivadas del calendario de implantación previsto en los apartados 4, 5 y 6 de la Disposición Final Quinta de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+3. Los centros educativos, en virtud de su autonomía, podrán alargar la vida útil de los libros de texto y materiales curriculares que estén en buen estado con la finalidad de racionalizar el gasto público, atendiendo a criterios de corresponsabilidad y sostenibilidad.
+Se modifica el apartado 2 por la disposición final 4.2 de la Ley 1/2021, de 23 de junio. Ref. BOE-A-2021-21313#df-4
+
+### Artículo 5
+
+Artículo 5. Régimen de propiedad y uso.
+1. Los centros docentes gestionarán los libros de texto pertenecientes al banco de libros regional, mediante la plataforma informática para facilitar y unificar la gestión de este procedimiento.
+2. La propiedad de los libros de texto y material curricular que constituyen el soporte necesario para el funcionamiento del sistema de préstamo regulado en esta ley corresponderá a la Administración educativa, con cesión a los centros docentes, por la adquisición de los mismos, a través del procedimiento reglamentariamente establecido, donaciones de familias u otras entidades o por aportaciones recibidas de terceros.
+3. La atribución para la compra de los libros de texto podrá venirle a los centros docentes a través del procedimiento que reglamentariamente se establezca.
+4. El alumnado adherido al sistema de préstamo estará obligado a hacer un uso adecuado y responsable de los libros de texto prestados y a reintegrarlos al centro docente en buen estado de conservación, una vez finalizado el correspondiente curso escolar o en el momento de causar baja en el centro en caso de traslado.
+5. El deterioro o extravío de los libros de texto prestados supondrá, sin perjuicio de las medidas correctoras aplicables, la obligación por parte de los representantes legales del alumno, de reponer el libro o libros deteriorados o extraviados.
+6. Los centros incorporarán en su reglamento de régimen interno las normas de utilización y conservación de los libros de texto y el material curricular puestos a disposición del alumnado. La pérdida o el deterioro por el alumno de los libros o el material prestado, cuando sea negligente a juicio de la comisión prevista en el artículo 8, dará lugar a la adopción de las medidas pertinentes para exigir las responsabilidades a que hubiera lugar, de acuerdo con la normativa reguladora de la convivencia en los centros docentes de la Comunidad Autónoma de la Región de Murcia y el reglamento de régimen interno, quedando obligado el alumno, en todo caso, a la reposición de los mismos. En cualquier caso, el requerimiento que se realice a los padres y madres o representantes legales del alumnado no podrá conllevar la pérdida definitiva del derecho a la gratuidad de los libros de texto y el material curricular.
+
+## CAPÍTULO III
+
+Voluntariedad, incompatibilidad, seguimiento y gestión del sistema de préstamo
+
+### Artículo 6
+
+Artículo 6. Voluntariedad e incompatibilidad del sistema de préstamo.
+1. Todos los alumnos participarán de forma automática en el sistema de préstamo, salvo renuncia expresa por parte de los representantes legales. En cualquier caso, las familias tutores deberán conocer y aceptar las condiciones de uso.
+2. Con carácter previo a la implantación del sistema de préstamo de libros se realizará una campaña de información a los centros educativos y los representantes legales de los alumnos sobre sus aspectos esenciales, en especial, de los derechos y deberes que para el alumnado y para sus representantes legales implique su participación, así como las regulaciones y normas de buen funcionamiento que deberán regir en los centros escolares.
+3. La participación en el sistema de préstamo será incompatible con la percepción de cualquier otra ayuda dirigida a la misma finalidad y otorgada por cualquier entidad pública o privada, nacional o internacional.
+
+### Artículo 7
+
+Artículo 7. Seguimiento del sistema de préstamo.
+1. Para el seguimiento del sistema de préstamo de libros de texto se constituirá una comisión de seguimiento presidida por el titular del órgano administrativo de la Consejería de Educación que tenga atribuida la competencia en esta materia. El régimen jurídico y la composición de esta comisión se determinarán reglamentariamente, debiendo garantizarse una representación plural de la comunidad educativa.
+2. La comisión de seguimiento elaborará e informará de los desarrollos reglamentarios y las modificaciones ulteriores de esta ley.
+3. La comisión de seguimiento elaborará, a la conclusión de cada curso escolar, un informe que, como contenido mínimo, deberá reflejar la asignación presupuestaria destinada al sistema de préstamo y una memoria estadística que refleje el número de alumnos adheridos al sistema y los libros de texto adquiridos en cada curso con desglose de los que hayan sido por vencimiento de su plazo de vigencia o por necesidades de reposición.
+4. El informe anual de la comisión de seguimiento se hará público para conocimiento de la comunidad educativa y de la ciudadanía en general por los medios y en los plazos que se determinen reglamentariamente, y será remitido a la Asamblea Regional de Murcia dentro de los tres meses siguientes a la conclusión de cada curso escolar.
+5. En el informe anual que hará público la Comisión de Seguimiento aparecerá la diferencia entre la aportación total realizada por la Consejería a cada centro escolar y el gasto total por la adquisición de los libros de texto de cada centro, para garantizar que el fondo de reserva que eventualmente se produzca sea transparente y conocido.
+
+### Artículo 8
+
+Artículo 8. Gestión del sistema de préstamo.
+1. Para la gestión del sistema de préstamo de libros de texto y material curricular se constituirá en cada centro docente y en el seno de su Consejo Escolar, una comisión de gestión del sistema de préstamo presidida por el director o directora o persona en quien delegue y en la que estén representados todos los sectores de la comunidad educativa. Las funciones de dicha comisión se determinarán reglamentariamente.
+2. Reglamentariamente se establecerá el modelo de gestión del sistema de préstamo de libros de texto.
+3. Los centros que por sus proyectos de innovación opten por utilizar material de uso común o de elaboración propia y que no sea reutilizable para el banco de libros serán los encargados de adquirirlos directamente y se asignará la dotación anual que se determine para la adquisición de dichos materiales, que será proporcional a la ayuda recibida por alumno en la misma etapa educativa.
+4. Los centros organizarán la recogida, comprobación, preparación, marcado y distribución de los libros de texto y el material curricular para su reutilización, así como el resto de tareas que se regulen reglamentariamente. La consejería competente en materia de educación proporcionará apoyo para estas labores en la forma que se determine reglamentariamente.
+5. La dirección del centro educativo designará, oído el claustro de profesores, un coordinador del programa para liderar pedagógicamente y supervisar y coordinar su desarrollo. Esta labor será recompensada como se determine reglamentariamente.
+6. Los centros docentes sostenidos con fondos públicos no podrán requerir a las familias ningún tipo de contribución económica para la adquisición de libros de texto.
+Se modifica por el art, único.5 de la Ley 5/2019, de 3 de abril. Ref. BOE-A-2019-7282
+
+## CAPÍTULO IV
+
+De la financiación del sistema de préstamo
+
+### Artículo 9
+
+Artículo 9. Financiación.
+1. la ley de Presupuestos Generales de la Comunidad Autónoma de la Región de Murcia incluirá en cada ejercicio presupuestario las partidas económicas necesarias para la financiación progresiva del sistema de préstamo de libros de texto objeto de la presente ley, de acuerdo con las fórmulas que reglamentariamente se establezcan.
+2. El importe mínimo a aportar por la Comunidad Autónoma de la Región de Murcia en cada curso escolar se determinará anualmente por ésta, y consistirá en una cantidad por alumno adherido al sistema de préstamo que se fijará en razón de la etapa de enseñanza en la que se haya de aplicar el sistema y de acuerdo con el coste medio real de los libros de uso más común.
+3. La Administración educativa regulará el procedimiento para poner a disposición de los centros y del alumnado los libros de texto y demás material relacionado en el artículo 3.3.
+4. Para el alumnado con necesidades educativas especiales, diagnosticado como tal, que esté cursando las enseñanzas objeto de esta ley en centros sostenidos con fondos públicos y que en lugar de libro de texto utilice un material curricular adaptado a sus necesidades individuales, se le asignará una dotación para la adquisición de dicho material, que podrá ser anual, fungible y compatible con otro tipo de ayudas públicas o privadas
+Se modifican los apartados 3, 4 y se suprime el 5 por el art. único. 6 a 8 de la Ley 5/2019, de 3 de abril. Ref. BOE-A-2019-7282
+
+### Artículo 10
+
+Artículo 10. Aplicación de las posibles diferencias entre la aportación de la Administración y el importe de los libros de texto.
+1. Cuando la cuantía de la aportación total realizada por la Administración a un centro docente sea superior al importe total de los libros de texto, la diferencia deberá permanecer como fondo de reserva para imprevistos e incidencias relacionados con la adquisición de libros de texto o gastos de material curricular.
+2. La Administración educativa comunicará a los centros docentes el importe asignado con tiempo suficiente para que la selección de los libros y el material curricular no supere las cantidades máximas establecidas. Solo podrán seleccionarse libros y material curricular que superen la cantidad asignada si el centro dispone de fondo de reserva suficiente para ello o asume directamente dicho gasto.
+3. Cuando las diferencias negativas vengan determinadas por disfunciones en el sistema de financiación, éstas deberán ser objeto de las medidas de corrección necesarias por parte del centro educativo que eviten la reiteración de tales diferencias en el curso siguiente, dando cuenta a la Consejería de Educación de las medidas adoptadas, quien también podrá adoptar otras medidas complementarias.
+
+### Artículo 11
+
+Artículo 11. Consolidación del sistema de préstamo.
+1. Los centros escolares incluirán en su proyecto educativo los objetivos, contenidos y actuaciones relativas al sistema de gratuidad de libros de texto y de material curricular, así como las estrategias organizativas para su desarrollo.
+2. Las normas de utilización y conservación de los libros de texto y material curricular cedidos al alumnado en régimen de préstamo se incluirán en el reglamento de régimen interno.
+3. El centro educativo incorporará al plan de acción tutorial las actividades que promuevan el valor pedagógico del sistema de préstamo de libros y material curricular, de manera que se supervise a lo largo del curso la correcta utilización de los libros de texto por parte del alumnado y que hagan de este uso una ocasión para mejorar la educación en valores y actitudes. Desde los centros docentes y las familias se educará al alumnado en su obligación de cuidar el material y mantener los libros en buen estado para su uso por otro alumnado en cursos sucesivos.
+4. La consejería competente en materia de educación habilitará teléfonos y un sistema de comunicación informático, así como una página web para atender cualquier consulta que pudiera plantearse en relación con las actuaciones a que se refiere esta ley y los reglamentos que la desarrollen, para difundir toda la información pertinente entre los centros docentes afectados e informará y asesorará a los centros educativos sobre las estrategias para la mejor gestión y supervisión de los libros de textos.
+Se modifican los apartados 2 y 4 por el art. único. 9 de la Ley 5/2019, de 3 de abril. Ref. BOE-A-2019-7282
+
+### Disposición adicional primera
+
+Disposición adicional primera. Actuaciones de la Inspección educativa.
+La inspección educativa supervisará el correcto desarrollo del sistema de préstamo y las medidas previstas en esta ley en los centros educativos sostenidos con fondos públicos.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Centros públicos de Educación Especial.
+Reglamentariamente se atenderá a las particularidades que presente la aplicación de la presente ley a los alumnos escolarizados en centros públicos de Educación Especial.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Centros privados concertados.
+Los centros privados concertados adecuarán la organización y competencias de sus órganos de gobierno al contenido de la presente Ley y normas de desarrollo, de acuerdo con la normativa específica que les sea de aplicación.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Bancos de libros de las AMPAS.
+Los centros escolares facilitarán que los bancos de libros existentes, puestos en marcha por las AMPAS, se integren en el nuevo modelo, sin que se pierda esa experiencia desarrollada.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas, a la entrada en vigor de la presente ley, cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la misma.
+
+### Disposición final primera
+
+Disposición final primera. Calendario y criterios de implantación.
+La implantación del sistema de préstamo de libros de texto se desarrollará reglamentariamente, con sujeción, en todo caso, a las siguientes normas y plazos:
+1.ª Con vigencia para el curso 2017-2018 se adoptarán todas las medidas normativas, organizativas o de cualquier otra índole que se determinen y resulten necesarias para el efectiva aplicación del sistema de préstamo a partir del curso 2018-2019.
+En particular, se realizarán campañas de comunicación institucional por parte de la Consejería de Educación y Universidades, así como acciones específicas de comunicación y concienciación por parte de los centros docentes con el objetivo de transmitir a la comunidad educativa los aspectos esenciales de funcionamiento del sistema de préstamo, con especial atención a su calendario de implantación.
+Para los alumnos matriculados en el curso escolar 2017-2018 en Educación Primaria, Educación Secundaria Obligatoria o Formación Profesional Básica, será requisito necesario para beneficiarse del sistema de préstamo en el curso siguiente, el haber aportado a los respectivos centros, en un adecuado estado de conservación, en el momento y en el porcentaje mínimo que se fijen reglamentariamente, los libros de texto utilizados durante ese curso.
+Reglamentariamente, se determinarán los supuestos exceptuados de este requisito entre los que se incluirán necesariamente los alumnos matriculados en los cursos 1.° y 2.° de Educación Primaria y los alumnos escolarizados en centros sostenidos con fondos públicos de educación especial.
+2.ª La Comunidad Autónoma de la Región de Murcia financiará la adquisición de los libros de texto necesarios para la puesta en marcha del sistema de préstamo, una vez descontados los ya aportados por los representantes legales de los alumnos.
+3.ª El sistema de préstamo comenzará a funcionar de forma efectiva en el curso 2018-2019 en todo el ámbito de aplicación de la ley delimitado en su artículo primero.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+Esta ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Región de Murcia».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Murcia, 26 de marzo de 2018.–El Presidente, Fernando López Miras.

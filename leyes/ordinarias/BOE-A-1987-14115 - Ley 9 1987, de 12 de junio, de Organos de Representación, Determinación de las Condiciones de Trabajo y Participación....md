@@ -1,0 +1,615 @@
+# Ley 9/1987, de 12 de junio, de Organos de Representación, Determinación de las Condiciones de Trabajo y Participación del Personal al Servicio de las Administraciones Públicas.
+
+- Identificador BOE: `BOE-A-1987-14115`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-14115
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Norma derogada, excepto su art. 7 y con la excepción contemplada en la disposición transitoria 5 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica-2., según establece su disposición derogatoria única.c) y con el alcance establecido en su disposición final 4.
+Disposición transitoria quinta. Procedimiento Electoral General.
+"En tanto se determine el procedimiento electoral general previsto en el artículo 39 del presente Estatuto, se mantendrán con carácter de normativa básica los siguientes artículos de la Ley 9/1987, de 12 de junio, de órganos de representación, determinación de las condiciones de trabajo y participación del personal al servicio de las Administraciones Públicas: 13.2, 13.3, 13.4, 13.5, 13.6, 15, 16, 17, 18, 19, 20, 21, 25, 26, 27, 28 y 29."
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: que las Cortes Generales han aprobado y yo vengo en sancionar la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+El artículo 103.3 de la Constitución ha establecido la regulación por Ley de las peculiaridades del ejercicio del derecho de sindicación de los funcionarios públicos. En este marco, atendiendo a los Convenios de la Organización Internacional del Trabajo, a los planteamientos de las Organizaciones Sindicales y a sus demandas de los propios funcionarios públicos, la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, dio un tratamiento unificado en su articulado al contenido esencial del derecho de libre sindicación reconocido en la Constitución, incluyendo en su ámbito de aplicación a los funcionarios públicos. Queda de esta forma, en virtud de la Ley orgánica de Libertad Sindical, regulado el ejercicio del derecho de libre sindicación a los funcionarios públicos, sin otros límites que los expresamente establecidos en ella.
+Es, consecuentemente, de aplicación directa a las Administraciones Públicas lo preceptuado en la Ley orgánica de Libertad Sindical en materia de libertad sindical, régimen jurídico sindical, representatividad sindical, acción sindical, tutela de la Libertad Sindical y represión de las conductas antisindicales.
+No regula, por tanto, la presente Ley estas materias ya recogidas en la Ley Orgánica, sino otros aspectos derivados del derecho reconocido a los funcionarios públicos y que hacen referencia a sus propios órganos de representación, a la determinación de sus condiciones de trabajo y a la participación del personal al servicio de las Administraciones Públicas.
+La misma Ley orgánica de Libertad Sindical, en su disposición adicional segunda, determina que «en el plazo de un año y en desarrollo de lo previsto en el artículo 103.3 de la Constitución, el Gobierno remitirá a las Cortes un Proyecto de Ley en el que se regulen los órganos de representación de los funcionarios de las Administraciones Públicas».
+Además, la ratificación por España de los Convenios números 151 y 154 de la Organización Internacional del Trabajo, sobre la protección del derecho de sindicación y los procedimientos para determinar las condiciones de empleo en la Administración Pública, y sobre el fomento de la negociación colectiva, respectivamente, llevan a considerar la urgencia de determinar con claridad en un texto legal, a semejanza de lo establecido para los trabajadores por cuenta ajena en el Estatuto de los Trabajadores, aquello que deba ser de aplicación a los funcionarios públicos en cuanto a los órganos de representación, aspecto esencial de su régimen estatutario.
+Ocurre, en consecuencia, que cumpliendo ya el mandato Constitucional en lo referente al ejercicio del derecho de libertad sindical, procede ahora la regulación de los órganos de representación y la determinación de las condiciones de trabajo de los funcionarios públicos –y de aspectos conexos a los mismos: Órganos de participación y derechos de reunión–. Todo ello constituye parte del régimen estatutario de los funcionarios públicos, en desarrollo de lo establecido en el artículo 149.1.18 de la Constitución, y en virtud de ello constituyen bases del régimen estatutario de los funcionarios de las Administraciones Públicas.
+La Ley pretende conjugar el principio de competencia exclusiva del Estado para determinar las bases de régimen jurídico de las Administraciones Públicas y del régimen estatutario de sus funcionarios con la potestad autoorganizadora de las Comunidades Autónomas. A tal fin, se realiza una regulación de esta materia que, sin menoscabo de la capacidad de las Comunidades Autónomas para ordenar sus respectivas funciones públicas, permita garantizar la igualdad de todos los funcionarios en el ejercicio de sus derechos.
+
+## CAPITULO PRIMERO
+
+Ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1.
+1. La presente Ley regula los órganos de representación y la participación, así como los procedimientos de determinación de las condiciones de trabajo, del personal que preste sus servicios en las distintas Administraciones Públicas, siempre que esté vinculado a las mismas a través de una relación de carácter administrativo o estatutario.
+Véase la disposición adicional única.1 del Real Decreto 1846/1994, de 9 de septiembre. Ref. BOE-A-1994-20237#daunica. en cuanto a la incorporación de ciertos colectivos de personal.
+2. Se incluye en la presente Ley el personal funcionario al servicio de los órganos constitucionales, sin perjuicio de lo dispuesto en el artículo 72 de la Constitución Española y el personal al servicio de la Administración de Justicia a que se refiere el artículo 454 de la Ley Orgánica 6/1985, de 1 de julio, en relación con su artículo 456.
+3. Siempre que en esta Ley se hace referencia a los funcionarios públicos, debe entenderse hecha al personal comprendido en los apartados 1 y 2 de este artículo.
+Véase la disposición adicional única.1 del Real Decreto 1846/1994, de 9 de septiembre. Ref. BOE-A-1994-20237#daunica. en cuanto a la incorporación de ciertos colectivos de personal.
+ Se modifica el apartado 2 por el art. único.1 de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 169, de 16 de julio de 1994. Ref. BOE-A-1994-16661.
+
+### Artículo 2
+
+Artículo 2.
+1. Quedan excluidos de la presente Ley:
+a) Los miembros de las Fuerzas Armadas y de los Institutos Armados de carácter militar.
+b) Los Jueces, Magistrados y Fiscales, sin perjuicio del ejercicio de sus derechos de asociación profesional, de conformidad con lo dispuesto en el artículo 401 de la Ley Orgánica del poder judicial.
+c) Los miembros de los Cuerpos y Fuerzas de Seguridad, que se regirán por la Ley Orgánica 2/1986, de 13 de marzo, salvo los Cuerpos de Policía Local, a los que será de aplicación la presente Ley de acuerdo con lo dispuesto en el artículo 52.2 de dicha Ley orgánica.
+d) El personal laboral al servicio de las distintas Administraciones Públicas, que se regirá por la legislación laboral común, sin perjuicio de lo previsto en los artículos 39 y 40 y en las Disposiciones adicionales quinta y sexta.
+2. Las normas de la presente Ley tienen carácter supletorio para el personal no laboral al servicio del Estado y de la Administración Pública no incluido en su ámbito de aplicación en todo aquello que no sea incompatible con su legislación específica.
+Se modifica el apartado 1.d) por el art. único.1 de la Ley 21/2006, de 20 de junio. Ref. BOE-A-2006-11049.
+
+## CAPITULO II
+
+De los órganos de representación
+
+### Artículo 3
+
+Artículo 3.
+Sin perjuicio de las formas de representación establecidas en la Ley 11/1985, de 2 de agosto, de Libertad Sindical, los funcionarios públicos tendrán derecho a constituir, de acuerdo con lo establecido en este capítulo, los órganos de representación de sus intereses ante las Administraciones Públicas y otros Entes públicos.
+
+### Artículo 4
+
+Artículo 4.
+Los órganos específicos de representación de los funcionarios públicos son los Delegados de Personal y las Juntas de Personal.
+
+### Artículo 5
+
+Artículo 5.
+La representación de los funcionarios en aquellas Entidades Locales que cuenten al menos con diez funcionarios y no alcancen el número de 50, corresponderá a los Delegados de Personal. Igualmente, podrá haber un Delegado de Personal en aquellos centros que cuenten entre seis y diez funcionarios si así lo decidieran éstos por mayoría.
+Los funcionarios elegirán Delegados de Personal de acuerdo con la siguiente proporción:
+Hasta 30 funcionarios, uno.
+De 31 a 49 funcionarios, tres, que ejercerán su representación mancomunadamente.
+Se modifica por la disposición adicional 4 de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#cuaa.
+
+### Artículo 6
+
+Artículo 6.
+1. Las Juntas de Personal se constituirán en Unidades Electorales, siempre que las mismas cuenten con un censo mínimo de 50 funcionarios.
+2. Sin perjuicio de lo previsto en el artículo 5 de esta Ley, en caso de que el número de funcionarios fuere inferior a 50, estos se agregarán al Censo de la unidad electoral correspondiente al Organismo del que dependan o al que estén adscritos.
+
+### Artículo 7
+
+Artículo 7.
+Se constituirá una Junta de Personal en cada una de las siguientes Unidades Electorales:
+1. En la Administración del Estado
+(Derogado)
+2. En la Administración de Justicia
+(Derogado)
+3. En las Comunidades Autónomas
+3.1 En las Comunidades Autónomas pluriprovinciales:
+3.1.1 Una en los servicios centrales de cada una de ellas.
+3.1.2 Una en cada provincia para los funcionarios destinados en ellas.
+3.2 En las Comunidades Autónomas uniprovinciales:
+3.2.1 Una para todos los funcionarios destinados en ellas.
+3.3 Otras Juntas de Personal:
+3.3.1 Una en cada provincia para el personal docente de los Centros públicos no universitarios, cuando están transferidos los servicios.
+3.3.2 Una en cada área de salud para el personal al servicio de Instituciones Sanitarias Públicas dependientes de la Comunidad Autónoma.
+3.3.3 Una en cada universidad dependiente de la Comunidad Autónoma para los funcionarios de los Cuerpos docentes y otra para el personal de Administración y Servicios.
+3.3.4 Una para el personal de cada Organismo autónomo, siempre que en conjunto tenga un censo mínimo de 150 funcionarios.
+De no alcanzarse dicho mínimo los funcionarios ejercerán su representación a través de las Juntas previstas en los apartados 3.1.1, 3.1.2 y 3.2.1 de este artículo.
+4. En la Administración Local
+Una en cada uno de los Ayuntamientos, Diputaciones provinciales, Cabildos, Consejos insulares y demás Entidades Locales.
+5. Previa negociación y acuerdo con las Organizaciones Sindicales legitimadas según lo dispuesto en los artículos 6 y 7 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, los órganos de gobierno de las Administraciones Públicas podrán modificar o establecer Juntas de Personal en razón al número o peculiarida­des de sus colectivos, adecuando las mismas a las estructuras administrativas y/o a los ámbitos de negociación constituidos o que se constituyan.
+Se derogan los apartados 1 y 2 por la disposición derogatoria única.4.b) del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364#ddunica.
+ Se modifica el apartado 5 por el art. único.2 de la Ley 21/2006, de 20 de junio. Ref. BOE-A-2006-11049.
+ Véase la disposición adicional única.2 y 3 del Real Decreto 1846/1994, de 9 de septiembre. Ref. BOE-A-1994-20237#daunica. en cuanto a la incorporación de ciertos colectivos de personal.
+ Se modifica el apartado 1.1 y 2 y se deroga el 1.3.3. por el art. único.2 al 5 y por la disposición derogatoria única de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+### Artículo 8
+
+Artículo 8.
+La Junta de Personal se compone de un número de representantes de acuerdo con la siguiente escala:
+De 50 a 100 funcionarios: 5.
+De 101 a 250 funcionarios: 7.
+De 251 a 500 funcionarios: 11.
+De 501 a 750 funcionarios: 15.
+De 751 a 1.000 funcionarios: 19.
+De 1.001 en adelante, dos por cada 1.000 o fracción, con un máximo de 75.
+Las Juntas de Personal elegirán de entre sus miembros un Presidente y un Secretario y elaborarán su propio reglamento de procedimiento, que no podrá contravenir lo dispuesto en la Ley, remitiendo copia del mismo y de sus modificaciones al órgano competente. Uno y otras deberán ser aprobados por los votos favorables de, al menos, dos tercios de sus miembros.
+
+### Artículo 9
+
+Artículo 9.
+Las Juntas de Personal y los Delegados de Personal, en su caso, tendrán las siguientes facultades, en sus respectivos ámbitos:
+1. Recibir información que le será facilitada trimestralmente sobre la política de personal del Departamento, Organismo o Entidad local.
+2. Emitir informe, a solicitud de la Administración Pública correspondiente, sobre las siguientes materias:
+a) Traslado total o parcial de las instalaciones.
+b) Planes de formación de personal.
+c) Implantación o revisión de sistemas de organización y métodos de trabajo.
+3. Ser informados de todas las sanciones impuestas por faltas muy graves.
+4. Tener conocimiento y ser oídos en las siguientes cuestiones y materias:
+a) Establecimiento de la jornada laboral y horario de trabajo.
+b) Régimen de permisos, vacaciones y licencias.
+c) Cantidades que perciba cada funcionario por complemento de productividad.
+5. Conocer, al menos, trimestralmente, las estadísticas sobre el índice de absentismo y sus causas, los accidentes en acto de servicio y enfermedades profesionales y sus consecuencias, los índices de siniestralidad, los estudios periódicos o especiales del ambiente y las condiciones de trabajo, así como de los mecanismos de prevención que se utilicen.
+6. Vigilar el cumplimiento de las normas vigentes en materia de condiciones de trabajo, seguridad social y empleo, y ejercer, en su caso, las acciones legales oportunas ante los organismos competentes.
+7. Vigilar y controlar las condiciones de seguridad e higiene en el desarrollo del, trabajo.
+8. Participar en la gestión de obras sociales para el personal establecidas en la Administración correspondiente.
+9. Colaborar con la Administración correspondiente para conseguir el establecimiento de cuantas medidas procuren el mantenimiento e incremento de la productividad.
+10. Informar a sus representados en todos los temas y cuestiones a que se refiere este artículo.
+
+### Artículo 10
+
+Artículo 10.
+Se reconoce a las Juntas de Personal, colegiadamente, por decisión mayoritaria de sus miembros y, en su caso, a los Delegados de personal, mancomunadamente, legitimación para iniciar, como interesados, los correspondientes procedimientos administrativos y ejercitar las acciones en vía administrativa o judicial en todo lo relativo al ámbito de sus funciones.
+Los miembros de las Juntas de Personal y estas en su conjunto, así como los Delegados de personal, en su caso, observaran sigilo profesional en todo lo referente a los temas en que la Administración señale expresamente el carácter reservado, aun después de expirar su mandato. En todo caso, ningún documento reservado entregado por la Administración podrá ser utilizado fuera del estricto ámbito de la Administración o para fines distintos a los que motivaron su entrega.
+
+### Artículo 11
+
+Artículo 11.
+Los miembros de la Junta de Personal y los Delegados de personal, en su caso, como representantes legales de los funcionarios, dispondrán en el ejercicio de su función representativa de las siguientes garantías y derechos:
+a) El acceso y libre circulación por las dependencias de su Unidad electoral, sin que entorpezca el normal funcionamiento de las correspondientes unidades.
+b) La distribución libre de todo tipo de publicaciones, ya se refieran a cuestiones profesionales o sindicales.
+c) Ser oída la Junta de Personal o restantes Delegados de personal en los expedientes disciplinarios a que pudieran ser sometidos sus miembros durante el tiempo de su mandato y durante el año inmediatamente posterior, sin perjuicio de la audiencia al interesado regulada en el procedimiento sancionador.
+d) Un crédito de horas mensuales dentro de la jornada de trabajo y retribuidas como de trabajo efectivo, de acuerdo con la siguiente escala:
+Hasta 100 funcionarios: 15.
+De 101 a 250 funcionarios: 20.
+De 251 a 500 funcionarios: 30.
+De 501 a 750 funcionarios: 35.
+De 751 en adelante: 40.
+Los miembros de la Junta de Personal de la misma candidatura que así lo manifiesten podrán proceder, previa comunicación al órgano que ostente la Jefatura de Personal ante la que aquélla ejerza su representación, a su acumulación, sin que ésta se pueda efectuar en cuantía superior a diez horas mensuales a favor de los funcionarios que ocupen los puestos de trabajo previstos en el apartado b), número 1, artículo 20 de la Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
+e) No ser trasladados ni sancionados durante el ejercicio de sus funciones ni dentro del año siguiente a la expiración de su mandato, salvo en caso de que esta se produzca por revocación o dimisión, siempre que el traslado o la sanción se base en la acción del funcionario en el ejercicio de su representación.
+Asimismo, no podrán ser discriminados en su promoción económica o profesional en razón, precisamente, del desempeño de su representación.
+
+### Artículo 12
+
+Artículo 12.
+El mandato de los miembros de las Juntas de Personal y de los delegados de personal, en su caso, será de cuatro años, pudiendo ser reelegidos. El mandato se entenderá prorrogado si, a su término, no se hubiesen promovido nuevas elecciones, sin que los representantes con mandato prorrogado se contabilicen a efectos de determinar la capacidad representativa de los sindicatos.
+Se deroga el párrafo 2 por la disposición derogatoria única de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+ Se modifica por la disposición final 2 de la Ley 11/1994, de 19 de mayo. Ref. BOE-A-1994-11610.
+
+### Artículo 13
+
+Artículo 13.
+1. Podrán promover la celebración de elecciones a Delegados y Juntas de Personal:
+a) Los sindicatos más representativos a nivel estatal.
+b) Los sindicatos más representativos a nivel de Comunidad Autónoma, cuando la unidad electoral afectada esté ubicada en el ámbito geográfico de la misma.
+c) Los sindicatos que, sin ser más representativos, hayan conseguido al menos el 10 por 100 de los representantes a los que se refiere esta Ley en el conjunto de las Administraciones públicas.
+d) Los sindicatos que hayan obtenido al menos dicho porcentaje del 10 por 100 en la unidad electoral en la que se pretende promover las elecciones.
+e) Los funcionarios de la unidad electoral, por acuerdo mayoritario.
+Las Organizaciones sindicales con capacidad para promover elecciones tendrán derecho a que la Administración pública correspondiente les suministre el censo de personal funcionario de las unidades electorales afectadas, distribuido por Organismos o centros de trabajo, con el fin de que puedan llevar a cabo tal promoción en los respectivos ámbitos.
+2. Los promotores comunicarán al órgano competente en materia de personal en la unidad electoral correspondiente y a la oficina pública de registro su propósito de celebrar elecciones con un plazo mínimo de, al menos, un mes de antelación al inicio del proceso electoral. En dicha comunicación los promotores deberán identificar con precisión la unidad electoral en la que se desea celebrar el proceso electoral y la fecha de inicio de éste, que será la de constitución de la Mesa electoral y, en todo caso, no podrá comenzar antes de un mes ni más allá de tres meses contabilizados a partir del registro de la comunicación en la oficina pública.
+Esta oficina pública de registro, dentro del siguiente día hábil, expondrá en el tablón de anuncios los preavisos presentados, facilitando copia de los mismos a los sindicatos que así lo soliciten.
+3. Sólo podrá promoverse la celebración de elecciones de manera generalizada en uno o varios ámbitos funcionales o territoriales, previo acuerdo mayoritario de los sindicatos más representativos, de los sindicatos que, sin ser más representativos, hayan conseguido, al menos, el 10 por 100 de los representantes a los que se refiere esta Ley en el conjunto de las Administraciones públicas y de aquellos sindicatos que hayan obtenido, al menos, dicho porcentaje del 10 por 100 en el ámbito o sector correspondiente. Dichos acuerdos deberán comunicarse a la oficina pública de registro para su depósito y publicidad.
+4. Cuando se promuevan elecciones para renovar la representación por conclusión de la duración del mandato, tal promoción sólo podrá efectuarse a partir de la fecha en que falten tres meses para el vencimiento del mandato.
+5. Podrán promoverse elecciones parciales cuando exista, al menos, un 50 por 100 de vacantes en las Juntas de Personal o de los Delegados de personal, o cuando se produzca un aumento de, al menos, un 25 por 100 de la plantilla. La duración del mandato de los representantes elegidos será por el tiempo que falte para completar los cuatro años.
+La acomodación de la representación de los funcionarios a las disminuciones significativas de la plantilla se realizará por acuerdo entre el órgano competente en materia de personal correspondiente y los representantes de los funcionarios.
+6. El incumplimiento de cualquiera de los requisitos establecidos en este artículo para la promoción de elecciones determinará la nulidad del proceso electoral, aunque la omisión de la comunicación al órgano competente en materia de personal podrá suplirse por medio del traslado al mismo de una copia de la comunicación presentada a la oficina pública, siempre que ésta se produzca con una anterioridad mínima de veinte días respecto de la fecha de iniciación del proceso electoral fijado en el escrito de promoción.
+La renuncia a la promoción con posterioridad a la comunicación a la oficina pública no impedirá el desarrollo del proceso electoral, siempre que se cumplan todos los requisitos que permitan la validez del mismo.
+En caso de concurrencia de promotores para la realización de elecciones en una unidad electoral determinada se considerará válida, a efectos de iniciación del proceso electoral, la primera convocatoria registrada, excepto en los supuestos en que la mayoría sindical de una unidad electoral determinada con Junta de Personal haya presentado otra fecha distinta, en cuyo caso prevalecerá esta última, siempre y cuando dichas convocatorias cumplan con los requisitos establecidos. En este último supuesto la promoción deberá acompañarse de una comunicación fehaciente de dicha promoción de elecciones a los que hubieran realizado otra u otras con anterioridad.
+Se modifica por el art. único.6 de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+ Se derogan los párrafos 2 y 3 por la disposición derogatoria de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#dd.
+
+### Artículo 14
+
+Artículo 14.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+### Artículo 15
+
+Artículo 15.
+Los funcionarios públicos ejercerán su derecho al voto en las Mesas Electorales establecidas de acuerdo con lo previsto en el artículo 26 y que correspondan al puesto de trabajo desempeñado.
+
+### Artículo 16
+
+Artículo 16.
+1. Serán electores y elegibles los funcionarios que se encuentren en la situación de servicio activo.
+La relación de servicio con la Administración Pública no se verá alterada por el acceso del personal interino a la condición de representante.
+2. No tendrán la condición de electores ni elegibles:
+a) Los funcionarios públicos que se encuentren en las situaciones administrativas de excedencia, suspensión y servicios especiales. No obstante lo anterior, los funcionarios que sean declarados en servicios especiales en virtud de lo dispuesto en el párrafo primero, letra l), apartado 2 del artículo 29 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, tendrán la condición de electores y elegibles.
+b) Quienes sean nombrados por Real Decreto acordado en Consejo de Ministros o por decreto de los Consejos de Gobierno de las Comunidades Autónomas y, en todo caso, quienes desempeñen cargos con categoría de Director general o asimilados u otros de rango superior.
+c) El personal eventual. No obstante, los funcionarios públicos que desempeñen puestos expresamente calificados de confianza o asesoramiento especial y hayan sido declarados en la situación administrativa de servicios especiales, tendrán la condición de electores, pero no la de elegibles y ejercerán su derecho en la unidad electoral a la que pertenecerían de no encontrarse en situación de servicios especiales.
+
+### Artículo 17
+
+Artículo 17.
+1. Podrán presentar candidatos a las Juntas de Personal y a Delegados de personal las Organizaciones sindicales legalmente constituidas o las coaliciones de éstas.
+2. También podrán presentarse candidaturas avaladas por un número de firmas de electores de su misma unidad electoral, equivalente, al menos, al triple de los miembros a elegir.
+Se modifica por el art. único.7 de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+### Artículo 18
+
+Artículo 18.
+1. Las elecciones a representantes de los funcionarios en las Juntas de Personal se ajustarán a las siguientes reglas:
+a) Cada elector podrá dar su voto a una sola de las listas proclamadas. Estas listas deberán contener, como mínimo, tantos nombres como puestos a cubrir. No obstante, la renuncia de cualquier candidato presentado en algunas de las listas para las elecciones antes de la fecha de la votación no implicará la suspensión del proceso electoral, ni la anulación de dicha candidatura aun cuando sea incompleta, siempre y cuando la lista afectada permanezca con un número de candidatos, al menos, del 60 por 100 de los puestos a cubrir. En cada lista deberán figurar las siglas del sindicato, coalición o grupo de funcionarios que la presente.
+b) No tendrán derecho a la atribución de representantes en la Junta de Personal aquellas listas que no hayan obtenido como mínimo el 5 por 100 de los votos.
+c) Mediante el sistema de representación proporcional se atribuirá a cada lista el número de puestos que le corresponda, de conformidad con el cociente que resulte de dividir el número de votos validos de las listas que hayan obtenido el 5 por 100 o más de los votos por el de puestos a cubrir. Los puestos sobrantes, en su caso, se atribuirán a las listas, en orden decreciente, según el resto de votos a cada una de ellas.
+d) Dentro de cada lista se elegirá a los candidatos por el orden en que figuren en la candidatura.
+e) Los representantes elegidos en cada candidatura se atribuirán al presentador, sindicato o grupo de funcionarios.
+Los representantes elegidos en candidaturas presentadas por coaliciones electorales se atribuirán a éstas.
+2. La inobservancia de cualquiera de las reglas anteriores determinará la nulidad de la elección del candidato o candidatos afectados.
+Se modifica el apartado 1.a) por el art. único.8 de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+### Artículo 19
+
+Artículo 19.
+En la elección para Delegados de Personal, cada elector podrá dar su voto a un número máximo de aspirantes equivalente al de puestos a cubrir entre los candidatos proclamados. Resultarán elegidos los que obtengan el mayor número de votos.
+En caso de empate resultara elegido el candidato de mayor antigüedad en la Función Pública.
+Cuando se produzca vacante se cubrirá automáticamente por el funcionario que hubiera obtenido en la votación un número de votos inmediatamente inferior al último de los elegidos. El sustituto lo será por el tiempo que reste del mandato.
+
+### Artículo 20
+
+Artículo 20.
+1. Las Juntas de Personal y los Delegados de Personal se elegirán mediante sufragio personal, libre, directo y secreto. Podrá emitirse por correos en la forma que se establezca, de acuerdo con las normas electorales.
+2. Solamente podrán ser revocados los miembros de la Junta y Delegados de Personal durante el mandato por decisión de quienes los hubieran elegido, mediante asamblea convocada al efecto a instancia de un tercio como mínimo de sus electores y por acuerdo adoptado por mayoría absoluta de éstos mediante sufragio personal, libre, directo y secreto. No obstante, hasta transcurridos seis meses de su elección, no podrá efectuarse su revocación.
+No podrán efectuarse propuestas de revocación hasta transcurridos seis meses de la anterior.
+3. En el caso de producirse vacante por dimisión o por cualquier otra causa en las Juntas de Personal, aquélla se cubrirá automáticamente por el candidato siguiente de la misma lista a la que pertenezca el sustituto. El sustituto lo será por el tiempo que reste de mandato.
+4. Las sustituciones, revocaciones, dimisiones y extinciones de los mandatos, se comunicarán a la oficina pública de registro y al órgano competente ante quien se ostente la representación, publicándose, asimismo, en el tablón de anuncios.
+Se modifica el apartado 4 por el art. único.9 de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+ Se modifica el apartado 4 por la disposición adicional 3 de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#tercera.
+
+### Artículo 21
+
+Artículo 21.
+La Administración pública correspondiente facilitará el censo de funcionarios y los medios personales y materiales para la celebración de las elecciones.
+Se modifica por el art. único.10 de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+### Artículo 22
+
+Artículo 22.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+### Artículo 23
+
+Artículo 23.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+ Se deroga el apartado 2 por la disposición derogatoria de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#dd.
+
+### Artículo 24
+
+Artículo 24.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+ Se derogan los párrafos 2 y 3 por la disposición derogatoria de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#dd.
+
+### Artículo 25
+
+Artículo 25.
+1. Los sindicatos con capacidad para promover elecciones en cada unidad electoral podrán acordar en la misma, por mayoría, el número y la distribución de las distintas Mesas electorales. En caso de no existir acuerdo, se constituirá una Mesa electoral por cada 250 funcionarios o fracción, otorgándose la facultad de distribuir las Mesas existentes, si éstas fueran varias, a la Mesa electoral Coordinadora.
+Sin perjuicio de las funciones que corresponden a la Mesa electoral coordinadora según lo dispuesto en el apartado 3 del presente artículo, a las Mesas electorales, una vez constituidas, compete vigilar el proceso electoral, determinar la lista de electores, fijar el número de representantes a elegir, recibir la presentación de candidaturas y proclamar las mismas, fijar la fecha y presidir la votación, realizar el escrutinio de los resultados, levantar las actas correspondientes y dar traslado de las mismas a la oficina pública de registro y a los demás interesados.
+2. La Mesa electoral coordinadora estará formada por el Presidente, que será el funcionario de más antigüedad, de acuerdo con el tiempo de servicios reconocido y dos Vocales que serán los funcionarios de mayor y menor edad de entre los incluidos en el censo correspondiente.
+Los Presidentes y Vocales de las demás Mesas electorales serán los que sigan en más antigüedad, mayor y menor edad en la misma unidad electoral.
+El Vocal de menor edad actuará de Secretario. Se designarán suplentes a aquellos funcionarios que sigan a los titulares de la Mesa electoral en el orden indicado de antigüedad o edad.
+3. La Mesa electoral coordinadora, una vez constituida, tendrá las siguientes funciones:
+a) Vigilar el proceso electoral con objeto de preservar la unidad electoral.
+b) Fijar los criterios a tener en cuenta en el proceso electoral.
+c) Distribuir el número de mesas electorales en función de los centros de trabajo existentes.
+d) Determinar la lista de electores.
+e) Fijar el número de representantes a elegir.
+f) Recibir la presentación de candidatos.
+Se modifica por el art. único.11 de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 169, de 16 de julio de 1994. Ref. BOE-A-1994-16661.
+ Se derogan los apartados 1 y 2 en lo que respecta a las referencias indicadas por la disposición derogatoria de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#dd.
+
+### Artículo 26
+
+Artículo 26.
+1. Comunicado al órgano competente en materia de personal de la unidad electoral afectada, conforme a lo dispuesto en el artículo 13, apartado 2 de la presente Ley, el propósito de celebrar elecciones por sus promotores, dicho órgano gestor de personal expondrá en el tablón de anuncios el escrito de promoción durante doce días hábiles. Transcurrido este período dará traslado del escrito de promoción a los funcionarios que, de conformidad con el artículo anterior deberán constituir la Mesa o, en su caso, las Mesas electorales, poniéndolo simultáneamente en conocimiento de los promotores.
+Las Mesas electorales se constituirán formalmente, mediante acta otorgada al efecto, en la fecha fijada por los promotores en su comunicación del propósito de celebrar elecciones, que será la fecha de iniciación del proceso electoral.
+2. Cuando se trate de elecciones a Delegado de personal, el órgano gestor de personal, en el mismo término, remitirá a los componentes de la Mesa electoral censo de funcionarios, que se ajustará, a estos efectos, a modelo normalizado.
+La Mesa electoral cumplirá las siguientes funciones:
+- Hará público entre los trabajadores el censo con indicación de quiénes son electores.
+- Fijará el número de representantes y la fecha tope para la presentación de candidaturas.
+- Recibirá y proclamará las candidaturas que se presenten.
+- Señalará la fecha de votación.
+- Redactará el acta de escrutinio en un plazo no superior a tres días naturales.
+Los plazos para cada uno de los actos serán señalados por la Mesa con criterios de razonabilidad y según lo aconsejan las circunstancias, pero, en todo caso, entre su constitución y la fecha de las elecciones no mediarán más de diez días.
+En el caso de elecciones en centros de trabajo de hasta treinta trabajadores en los que se elige un solo Delegado de personal, desde la constitución de la Mesa hasta los actos de votación y proclamación de candidatos electos habrá de transcurrir veinticuatro horas, debiendo, en todo caso, la Mesa hacer pública con la suficiente antelación la hora de celebración de la votación. Si se hubiera presentado alguna reclamación se hará constar en el acta, así como la resolución que haya tomado la Mesa.
+3. Cuando se trate de elecciones a Junta de Personal, las Mesas electorales obtendrán de la Administración el censo de funcionarios y confeccionarán con los medios que les habrá de facilitar la Administración pública correspondiente la lista de electores, que se hará pública en los tablones de anuncios de todos los centros de trabajo, mediante su exposición durante un tiempo no inferior a setenta y dos horas.
+La Mesa resolverá cualquier incidencia o reclamación relativa a inclusiones, exclusiones o correcciones que se presenten hasta veinticuatro horas después de haber finalizado el plazo de exposición de la lista y publicará la lista definitiva dentro de las veinticuatro horas siguientes. A continuación, la Mesa, o el conjunto de ellas, determinará el número de representantes que hayan de ser elegidos.
+4. Las candidaturas se presentarán ante las Mesas electorales durante los nueve días hábiles siguientes a la publicación de la lista definitiva de electores. La proclamación se hará en los dos días laborables inmediatamente posteriores a la fecha de conclusión de dicho plazo, publicándose en los tablones de anuncios citados. Contra el acuerdo de proclamación se podrá reclamar dentro del día hábil siguiente ante las propias Mesas, resolviendo éstas en el primer día laborable posterior a tal fecha. Entre la proclamación de candidatos y la votación mediará un plazo de, al menos, cinco días hábiles.
+Cuando cualquiera de los componentes de una Mesa sea candidato cesará en la misma y le sustituirá en ella su suplente.
+Cada candidatura para las elecciones a Juntas de Personal o, en su caso, cada candidato para la elección de Delegados de personal, podrá nombrar un Interventor de Mesa. Asimismo, la Administración correspondiente podrá designar un representante que asista a la votación y al escrutinio, con voz pero sin voto.
+Se modifica por el art. único.12 de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+### Artículo 27
+
+Artículo 27.
+1. El acto de votación se efectuará en los centros o lugares de trabajo, en la Mesa que corresponda a cada elector y durante la jornada laboral, teniéndose en cuenta, en su caso, las normas que regulen el voto por correo.
+El voto será libre, secreto, personal y directo, depositándose en urnas cerradas las papeletas, que en tamaño, color, impresión y calidad de papel, serán de iguales características en cada unidad electoral.
+2. Inmediatamente después de celebrada la votación, las Mesas electorales procederán públicamente al recuento de votos, mediante la lectura, en alta voz, de las papeletas.
+Del resultado del escrutinio se levantará acta, en la que constará, al menos, además de la composición de la Mesa o Mesas, el número de votantes, los votos obtenidos por cada lista, así como, en su caso, los votos nulos y las demás incidencias habidas. Una vez redactada el acta, ésta será firmada por los componentes de la Mesa o Mesas, los Interventores y los representantes de la Administración correspondiente, si los hubiere.
+3. Las Mesas electorales presentarán durante los tres días hábiles siguientes al de la finalización del escrutinio, copias de tal acta a la Administración pública afectada, a las Organizaciones sindicales que hubieran presentado candidaturas, a los representantes electos y a la Dirección General de la Función Pública del Ministerio para las Administraciones Públicas, como órgano que ostenta la Secretaría del Consejo Superior de la Función Pública, exponiendo otra copia del acta en el tablón de anuncios de cada uno de los centros de trabajo de la unidad electoral en donde quedarán proclamados oficialmente los resultados electorales.
+Asimismo, el Presidente de la Mesa electoral o el Vocal en el que se delegue por escrito, presentará, en el mismo período de los tres días hábiles siguientes al de la conclusión del escrutinio, el original del acta, junto con las papeletas de votos nulos o impugnados por los Interventores y las actas de constitución de las Mesas, en la oficina pública de registro, la cual procederá, en el inmediato día hábil, a la publicación en sus tablones de anuncios de una copia del acta, entregando otras copias a los sindicatos que lo soliciten y a la Administración pública afectada, con indicación de la fecha en que finaliza el plazo para impugnarla. Mantendrá el depósito de las papeletas hasta cumplirse los plazos de impugnación y, transcurridos diez días hábiles desde la publicación, procederá a la inscripción de las actas electorales en el registro establecido al efecto, o bien denegará dicha inscripción.
+Corresponde a la oficina pública el registro de las actas, así como la expedición de copias auténticas de las mismas y, a requerimiento del sindicato interesado, de las certificaciones acreditativas de su capacidad representativa a los efectos de los artículos 6 y 7 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, y de los artículos 30 y 31 de esta Ley. Dichas certificaciones consignarán si el sindicato tiene o no la condición de más representativo o representativo, salvo que el ejercicio de las funciones o facultades correspondientes requieran la precisión de la concreta representatividad ostentada.
+A los efectos de expedición de las certificaciones acreditativas de la capacidad representativa en el ámbito estatal, las Comunidades Autónomas con competencias para la ejecución de funciones en materia de depósito de actas relativas a las elecciones de órganos de representación, deberán remitir mensualmente copia de las actas electorales registradas a la oficina pública estatal.
+4. La denegación del registro de un acta por la oficina pública sólo podrá hacerse cuando se trate de actas que no vayan extendidas en el modelo oficial normalizado, falta de comunicación de la promoción electoral a la oficina pública de registro, falta de la firma del Presidente de la Mesa electoral y omisión o ilegibilidad en las actas de alguno de los datos que impida el cómputo electoral.
+En estos supuestos, la oficina pública requerirá, dentro del día siguiente hábil, al Presidente de la Mesa electoral para que en el plazo de diez días hábiles proceda a la subsanación correspondiente. Dicho requerimiento será comunicado a los sindicatos que hayan obtenido representación y al resto de las candidaturas. Una vez efectuada la subsanación, la oficina pública procederá al registro del acta electoral correspondiente. Transcurrido dicho plazo sin que se haya efectuado la subsanación, o no realizada ésta en forma, la oficina pública procederá en el plazo de diez días hábiles a denegar el registro, comunicándolo a los sindicatos que hayan obtenido representación y al Presidente de la Mesa.
+En el caso de que la denegación del registro se deba a ausencia de comunicación de la promoción electoral a la oficina pública de registro, no cabrá requerimiento de subsanación, por lo que, comprobada la falta por la oficina pública, ésta procederá sin más trámite a la denegación del registro, comunicándolo al Presidente de la Mesa electoral a los sindicatos que hayan obtenido representación y al resto de las candidaturas.
+La resolución denegatoria del registro podrá ser impugnada ante el orden Jurisdiccional Social, a través de la modalidad procesal establecida en el Libro II, Título II, capítulo V, sección segunda, subsección segunda del texto articulado de la Ley de Procedimiento Laboral.
+Se modifica por el art. único.13 de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 169, de 16 de julio de 1994. Ref. BOE-A-1994-16661.
+ Se modifica el apartado 6 por la disposición final 2 de la Ley 11/1994, de 19 de mayo. Ref. BOE-A-1994-11610.
+ Se modifica el apartado 5 por la disposición adicional 3 de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363.
+
+### Artículo 28
+
+Artículo 28.
+1. Las impugnaciones en materia electoral se tramitarán conforme al procedimiento arbitral regulado en este artículo, con excepción de las reclamaciones contra las denegaciones de inscripción, en las cuales podrá optarse entre la promoción de dicho arbitraje o el planteamiento directo de la impugnación ante la Jurisdicción Social.
+2. Todos los que tengan interés legítimo podrán impugnar la elección, las decisiones que adopten las Mesas, así como cualquier otra actuación de las mismas a lo largo del proceso electoral, fundándose para ello en la existencia de vicios graves que pudieran afectar a las garantías del proceso electoral y que alteren su resultado, en la falta de capacidad o legitimidad de los candidatos elegidos, en la discordancia entre el acta y el desarrollo del proceso electoral y en la falta de correlación entre el número de funcionarios que figuran en el acta de elecciones y el número de representantes elegidos. La impugnación de actos de la Mesa electoral requerirá haber efectuado reclamación ante la misma dentro del día laborable siguiente al acto de votación, la cual deberá ser resuelta por dicha Mesa en el posterior día hábil.
+3. Serán árbitros los designados conforme al procedimiento que se regula en este apartado, salvo en el caso de que las partes de un procedimiento arbitral se pusieran de acuerdo en la designación de un árbitro distinto.
+El árbitro o árbitros serán designados, con arreglo a los principios de neutralidad y profesionalidad, entre Licenciados en Derecho, Graduados Sociales o titulación equivalente, por acuerdo unánime de los sindicatos más representativos, a nivel estatal o de Comunidades Autónomas, de los que ostenten el 10 por 100 o más de los Delegados de personal y de los miembros de las Juntas de Personal en el ámbito de todas las Administraciones públicas, y de los que ostenten el 10 por 100 o más de representantes en el ámbito territorial, funcional o de la unidad electoral correspondiente. Si no existiera acuerdo unánime entre los sindicatos señalados anteriormente, la forma de designación será la prevista en la legislación laboral.
+La duración del mandato de los árbitros será de cinco años, siendo susceptible de renovación.
+La Administración facilitará la utilización de sus medios personales y materiales por los árbitros, en la medida necesaria para que éstos desarrollen sus funciones.
+4. Cuando la impugnación afecte a los procesos electorales regulados en esta Ley, los árbitros deberán abstenerse o, en su defecto, podrán ser recusados, en los supuestos siguientes:
+a) Tener interés personal en el asunto del que se trate.
+b) Ser funcionario adscrito a la unidad electoral afectada por el arbitraje.
+c) Tener parentesco de consanguinidad dentro del cuarto grado o afinidad dentro del segundo con cualquiera de los interesados, o con los asesores, representantes legales o mandatarios que intervengan en el procedimiento.
+d) Compartir despacho profesional, estar asociado, tener amistad íntima o enemistad manifiesta con alguna de las personas mencionadas en el apartado anterior.
+e) Tener relación de servicio con persona natural o jurídica interesada directamente en el asunto o haberle prestado en los últimos dos años servicios profesionales de cualquier tipo y en cualquier circunstancia o lugar.
+Se modifica por el art. único.14 de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+### Artículo 29
+
+Artículo 29.
+1. El procedimiento arbitral se iniciará mediante escrito dirigido a la oficina pública provincial correspondiente, del cual los propios solicitantes del arbitraje trasladarán copias a los promotores del proceso electoral y a los sindicatos, coaliciones o grupos de funcionarios que hayan presentado candidatos a las elecciones objeto de impugnación. Este escrito, en el que figurarán los hechos que se tratan de impugnar, deberá presentarse en un plazo de tres días hábiles, contados desde el día siguiente a aquél en que se hubieran producido los hechos o resuelto la reclamación por la Mesa; en el caso de impugnaciones promovidas por sindicatos que no hubieran presentado candidaturas en el centro de trabajo en el que se hubiera celebrado la elección, los tres días se computarán desde el día en que se conozca el hecho impugnable. Si se impugnasen actos del día de la votación o posteriores al mismo, el plazo será de diez días hábiles, contados a partir de la entrada de las actas en la oficina pública.
+Mientras se desarrolle el procedimiento arbitral y, en su caso, la posterior impugnación judicial, quedará paralizada la tramitación de un nuevo procedimiento arbitral. El planteamiento del arbitraje interrumpirá los plazos de prescripción.
+2. La oficina pública dará traslado al árbitro del escrito en el día hábil posterior a su recepción, así como de una copia del expediente electoral administrativo. Si se hubieran presentado actas electorales para registro, se suspenderá su tramitación.
+En las veinticuatro horas siguientes el árbitro convocará a las partes interesadas de comparecencia ante él, lo que habrá de tener lugar en los tres días hábiles siguientes. Si las partes, antes de comparecer ante el árbitro designado de conformidad a lo establecido en el artículo 28, apartado 3, de esta Ley, se pusieran de acuerdo y designaren uno distinto, lo notificarán a la oficina pública para que dé traslado a este árbitro del expediente administrativo electoral, continuando con el mismo el resto del procedimiento.
+3. El árbitro, previa práctica de las pruebas procedentes o conformes a Derecho, que podrán incluir la personación en el centro de trabajo y la solicitud de la colaboración necesaria de la Administración pública afectada y de otras instancias administrativas, dictará laudo escrito y razonado dentro de los tres días hábiles siguientes a la comparecencia de las partes, resolviendo en derecho sobre la impugnación electoral y, en su caso, sobre el registro de las actas.
+El laudo será notificado por el árbitro a los interesados y a la oficina pública provincial competente, la cual, si se hubiese impugnado la votación, o la denegación del registro, procederá a la inscripción del acta o a su rechazo, según el contenido del laudo.
+Dicho laudo arbitral podrá ser impugnado ante el orden Jurisdiccional Social, a través de la modalidad procesal establecida en el Libro II, Título II, capítulo V, sección segunda, subsección primera del texto articulado de la Ley de Procedimiento Laboral.
+Se modifica por el art. único.15 de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+## CAPÍTULO III
+
+De la negociación colectiva y la participación en la determinación de las condiciones de trabajo
+Se modifica por el art. único de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#aunico.
+
+### Artículo 30
+
+Artículo 30.
+La negociación colectiva y la participación en la determinación de las condiciones de trabajo de los funcionarios públicos se efectuará mediante la capacidad representativa reconocida a las Organizaciones Sindicales en los artículos 6.3, c); 7.1 y 7.2 de la Ley Orgánica de Libertad Sindical y lo previsto en este Capítulo.
+A este efecto, se constituirán Mesas de negociación en las que estarán presentes los representantes de la Administración Pública correspondiente y las Organizaciones Sindicales más representativas a nivel estatal y de Comunidad Autónoma, así como los Sindicatos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal.
+Se modifica por el art. único de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#aunico.
+
+### Artículo 31
+
+Artículo 31.
+1. A los efectos del artículo anterior se constituirá una Mesa General de Negociación en el ámbito de la Administración del Estado, así como en cada una de las Comunidades Autónomas y Entidades Locales, que será competente para la determinación de las condiciones de trabajo de los funcionarios públicos del ámbito correspondiente.
+Constituida la Mesa General en la Administración del Estado, se constituirán Mesas sectoriales de negociación para la negociación colectiva y la determinación de las condiciones de trabajo en los sectores específicos que a continuación se relacionan:
+— Para el personal docente en los centros públicos no universitarios.
+— Para el personal de los servicios de Correos, Telégrafos y Caja Postal de Ahorros.
+— Para el personal al servicio de las Instituciones sanitarias públicas.
+— Para el personal al servicio de la Administración de Justicia.
+— Para el personal funcionario de las Universidades.
+— Para el personal de la Administración Central e Institucional y de las Entidades Gestoras de la Seguridad Social.
+Por decisión de la Mesa General podrán constituirse otras Mesas sectoriales, en atención al número y peculiaridades de sectores conciertos de funcionarios públicos.
+La competencia de las Mesas sectoriales se extenderá a los temas que no hayan sido objeto de decisión por parte de la Mesa General.
+2. En la Mesa General estarán presentes las Organizaciones Sindicales más representativas a nivel estatal y de Comunidad Autónoma, así como los Sindicatos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal.
+En las Mesas sectoriales, además de las Organizaciones Sindicales más representativas a nivel estatal y las de Comunidad Autónoma, estarán presentes los sindicatos que hayan obtenido en el correspondiente sector el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal.
+3. La Mesa General y las Mesas sectoriales de negociación se reunirán, al menos, una vez al año.
+Igualmente tendrán lugar reuniones por decisión de la Administración Pública correspondiente; por acuerdo entre ésta y las Organizaciones Sindicales presentes en la correspondiente Mesa, y por solicitud de todas las Organizaciones Sindicales presentes en la respectiva Mesa.
+Se modifica el apartado 2 párrafo 2 por el art. único.3 de la Ley 21/2006, de 20 de junio. Ref. BOE-A-2006-11049.
+ Se modifica por el art. único de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#aunico.
+
+### Artículo 32
+
+Artículo 32.
+Serán objeto de negociación en su ámbito respectivo y en relación con las competencias de cada Administración Pública las materias siguientes:
+a) El incremento de retribuciones de los funcionarios y del personal estatutario de las Administraciones Públicas que proceda incluir en el Proyecto de Presupuestos Generales del Estado de cada año, así como el incremento de las demás retribuciones a establecer, para su respectivo personal, en los proyectos normativos correspondientes de ámbito autonómico y local.
+b) La determinación y aplicación de las retribuciones de los funcionarios públicos.
+c) La preparación y diseño de los planes de oferta de empleo público.
+d) La clasificación de puestos de trabajo.
+e) La determinación de los programas y fondos para la acción de promoción interna, formación y perfeccionamiento.
+f) La determinación de las prestaciones y pensiones de las clases pasivas y, en general, todas aquellas materias que afecten, de algún modo, a la mejora de las condiciones de vida de los funcionarios jubilados.
+g) Los sistemas de ingreso, provisión y promoción profesional de los funcionarios públicos.
+h) Las propuestas sobre derechos sindicales y de participación.
+i) Medidas sobre salud laboral.
+j) Todas aquellas materias que afecten, de algún modo, al acceso a la Función Pública, Carrera administrativa, retribuciones y Seguridad Social, o a las condiciones de trabajo de los funcionarios públicos y cuya regulación exija norma con rango de Ley.
+k) Las materias de índole económica, de prestación de servicio sindical, asistencial, y en general cuantas otras afecten a las condiciones de trabajo y al ámbito de relaciones de los funcionarios públicos y sus Organizaciones Sindicales con la Administración.
+Se modifica por el art. único de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#aunico.
+
+### Artículo 33
+
+Artículo 33.
+El proceso de negociación se abrirá, con carácter anual, en la fecha que en común acuerdo fijen el Gobierno u órganos de gobierno de las restantes Administraciones Públicas y los Sindicatos más representativos a nivel estatal y de Comunidad Autónoma, según lo dispuesto en los artículos 6 y 7 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, y comprenderá, de entre las materias relacionadas en el artículo anterior, las que ambas partes estimen oportuno.
+Se modifica por el art. único de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#aunico.
+
+### Artículo 34
+
+Artículo 34.
+1. Quedan excluidas de la obligatoriedad de la negociación, en su caso, las decisiones de las Administraciones Públicas que afecten a sus potestades de organización, al ejercicio del derecho de los ciudadanos ante los funcionarios públicos y al procedimiento de formación de los actos y disposiciones administrativos.
+2. Cuando las consecuencias de las decisiones de las Administracio­nes Públicas que afecten a sus potestades de organización puedan tener repercusión sobre las condiciones de trabajo de los funcionarios públicos, procederá la consulta a las Organizaciones Sindicales y Sindicatos a que hacen referencia los artículos 30 y 31.2 de la presente Ley.
+Se modifica por el art. único de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#aunico.
+
+### Artículo 35
+
+Artículo 35.
+Los representantes de la Administración del Estado, de las Comunidades Autónomas o de las Entidades Locales y de las Organizaciones Sindicales o Sindicatos a que hacen referencia los artículos 30 y 31.2 de la presente Ley podrán llegar a Acuerdos y Pactos para la determinación de las condiciones de trabajo de los funcionarios públicos.
+Los Pactos se celebrarán sobre materias que se correspondan estrictamente con el ámbito competencial del órgano administrativo que lo suscriba y vincularán directamente a las partes.
+Los Acuerdos versarán sobre materias competencia del Consejo de Ministros, Consejos de Gobierno de Comunidades Autónomas u órganos correspondientes de las Entidades Locales. Para su validez y eficacia será necesaria la aprobación expresa y formal de estos órganos en su ámbito respectivo.
+Los Pactos y Acuerdos deberán establecer las partes intervinientes y el plazo de vigencia, así como su ámbito personal, funcional y territorial.
+Por acuerdo de las partes, podrán establecerse comisiones de seguimiento de los Pactos y Acuerdos.
+Se modifica por el art. único de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#aunico.
+
+### Artículo 36
+
+Artículo 36.
+Los Acuerdos aprobados y los Pactos celebrados se remitirán a la oficina pública a que hace referencia la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, y serán de inmediato publicados en el "Boletín Oficial del Estado" o diarios oficiales correspondientes.
+Se modifica por el art. único de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#aunico.
+
+### Artículo 37
+
+Artículo 37.
+1. El Gobierno, los Consejos de Gobierno de las Comunidades Autónomas o el órgano correspondiente de las Entidades Locales podrán determinar, respectivamente, las instrucciones a que deberán atenerse sus representantes cuando proceda la negociación con la representación sindical establecida en este Capítulo.
+2. Corresponderá al Gobierno, en los términos del artículo 3.2, b), de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y a los órganos de gobierno de las demás Administra­ciones Públicas en sus respectivos ámbitos, establecer las condiciones de trabajo de los funcionarios públicos en los casos en que no se produzca acuerdo en su negociación o no se alcance la aprobación expresa y formal a que alude el artículo 35.
+Se modifica por el art. único de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#aunico.
+
+### Artículo 38
+
+Artículo 38.
+1. Las Administraciones Públicas y los Sindicatos a que se refieren los artículos 30 y 31.2 podrán nombrar de mutuo acuerdo un mediador o mediadores cuando no resulte posible llegar a acuerdo en la negociación o surjan conflictos en el cumplimiento de los Acuerdos o Pactos.
+2. La mediación se efectuará conforme al procedimiento que reglamentariamente se determine.
+3. Las propuestas del mediador y la oposición de las partes, en su caso, deberán hacerse públicas de inmediato.
+Se modifica por el art. único de la Ley 7/1990, de 19 de julio. Ref. BOE-A-1990-17363#aunico.
+
+## CAPÍTULO IV
+
+De la participación
+
+### Artículo 39
+
+Artículo 39.
+De acuerdo con lo establecido en los artículos 6 y 7 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, en el Consejo Superior de la Función Pública como Órgano Superior Colegiado de participación del personal al servicio de las Administraciones Públicas, existirán 17 representantes designados por las Organizaciones Sindicales de acuerdo con las siguientes normas:
+1. Un puesto por cada una de las Organizaciones Sindicales más representativas a nivel estatal y de Comunidad Autónoma.
+2. Los puestos restantes se distribuirán entre las Organizaciones Sindicales que hayan obtenido el 10 por 100 o más de los Delegados de Personal y miembros de Juntas de Personal, en forma proporcional a la audiencia obtenida valorada en función de los resultados alcanzados en las elecciones previstas en la presente Ley, así como en las elecciones del personal laboral al servicio de las Administraciones Públicas.
+
+### Artículo 40
+
+Artículo 40.
+1. Las Administraciones Públicas podrán establecer órganos colegiados para la participación de las Organizaciones Sindicales en las materias relacionadas con el sistema retributivo y el régimen del personal a su servicio.
+2. La representación de las Organizaciones Sindicales en los órganos a que se refiere el apartado anterior, se realizará de acuerdo con lo dispuesto en el artículo anterior, si bien la audiencia a que se refiere el número 2 de dicho artículo se entenderá referida al ámbito territorial de las Comunidades Autónomas cuando se trate de órganos colegiados de estas.
+
+## CAPÍTULO V
+
+Del derecho de reunión
+
+### Artículo 41
+
+Artículo 41.
+Están legitimados para convocar una reunión:
+a) Las Organizaciones Sindicales directamente o a través de los Delegados Sindicales.
+b) Los Delegados de Personal.
+c) Las Juntas de Personal.
+d) Cualesquiera funcionarios de las Administraciones respectivas, siempre que su número no sea inferior al 40 por 100 del colectivo convocado.
+
+### Artículo 42
+
+Artículo 42.
+1. Las reuniones en el centro de trabajo se autorizarán fuera de las horas de trabajo, salvo acuerdo entre el órgano competente en materia de personal y quienes estén legitimados para convocar las reuniones a que se refiere el artículo anterior. En este ultimo caso, sólo podrán concederse autorizaciones hasta un máximo de treinta y seis horas anuales. De éstas, dieciocho corresponderán a las secciones sindicales y el resto a los Delegados o Juntas de Personal.
+Téngase en cuenta que se declara inconstitucional el inciso destacado en el apartado 1 por Sentencia del TC 43/1996, de 14 de marzo. Ref. BOE-T-1996-8584.
+2. Cuando las reuniones hayan de tener lugar dentro de la jornada de trabajo, la convocatoria deberá referirse a la totalidad del colectivo de que se trate, salvo en las reuniones de las Secciones Sindicales.
+3. En cualquier caso, la celebración de la reunión no perjudicará la prestación de los servicios.
+4. En aquellos centros de trabajo en que presten servicios más de 250 funcionarios, se habilitará un local con dotación de material adecuado para uso de las Organizaciones Sindicales, Delegados de Personal o miembros de las Juntas de Personal, cuya utilización se instrumentará mediante acuerdo entre ellas.
+5. En todos los centros de trabajo habrán de existir lugares adecuados para la exposición, con carácter exclusivo, de cualquier anuncio sindical.
+El número y distribución de los tablones de anuncios será el adecuado al tamaño y estructura del centro, de forma que se garantice la publicidad más amplia de los anuncios que se expongan. En todo caso, las unidades administrativas con ubicación independiente, cualquiera que sea su rango, deberán disponer de, al menos, un tablón de anuncios.
+Se declara inconstitucional el inciso destacado en el apartado 1 por Sentencia del TC 43/1996, de 14 de marzo. Ref. BOE-T-1996-8584.
+
+### Artículo 43
+
+Artículo 43.
+1. Serán requisitos para convocar una reunión los siguientes:
+a) Comunicar por escrito su celebración con antelaciónde dos días hábiles.
+b) En este escrito se indicará:
+La hora y el lugar de la celebración.
+El orden del día.
+Los datos de los firmantes que acrediten estar legitimados para convocar la reunión, de conformidad con lo dispuesto en el artículo anterior.
+Téngase en cuenta que se declara inconstitucional el inciso destacado en el apartado 1 por Sentencia del TC 43/1996, de 14 de marzo. Ref. BOE-T-1996-8584.
+2. Si antes de las veinticuatro horas anteriores a la fecha de la celebración de la reunión, la Autoridad administrativa competente no formulase objeciones a la misma mediante resolución motivada podrá celebrarse sin otro requisito posterior.
+3. Los convocantes de la reunión serán responsables del normal desarrollo de la misma.
+Se declara inconstitucional el inciso destacado en el apartado 1 por Sentencia del TC 43/1996, de 14 de marzo. Ref. BOE-T-1996-8584.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El ejercicio de todas aquellas competencias no atribuidas a otros órganos de la Administración del Estado corresponde al Ministro para las Administraciones Públicas de acuerdo con lo establecido en los artículos 2 y 4 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, salvo las atribuidas al Ministro de Justicia en el artículo 455 de la Ley Orgánica 6/1985, de 1 de julio, del poder judicial.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La Administración Pública correspondiente procederá al descuento de la cuota sindical sobre las retribuciones de los funcionarios públicos afiliados a las Organizaciones Sindicales y a la correspondiente transferencia a solicitud de estas y previa conformidad siempre por escrito del funcionario.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Los Profesores asociados, visitantes y ayudantes a que se refieren los artículos 33.3 y 34 de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, ejercerán su representación a través de las Juntas de Personal de Funcionarios de Cuerpos Docentes a que se refieren los apartados 1.3.2 y 3.3.3 del artículo 7 de la presente Ley.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Los sindicatos interesados deberán acreditar la representatividad necesaria para estar presentes en las Mesas de Negociación de las Administraciones Públicas y en el Consejo Superior de la Función Pública, en el mes de enero y cada dos años a partir de esa fecha, mediante la presentación del correspondiente certificado de la oficina pública, a los efectos de que pueda constatarse la existencia de la legitimación necesaria para estar presentes en los citados órganos.
+Se añade por el art. único.16 de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+ Se deroga por la disposición derogatoria única de la Ley 11/1994, de 19 de mayo. Ref. BOE-A-1994-11610.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+A efectos de lo dispuesto en los artículos 39 y 40 de esta Ley, en adecuación a las actividades y organización específica de la Administración pública, en las elecciones a representantes del personal laboral al servicio de las Administraciones públicas, constituirá un único centro de trabajo la totalidad de establecimientos dependientes del departamento u organismo de que se trate, que radiquen en una misma provincia, siempre que los trabajadores afectados se encuentren incluidos en el ámbito de aplicación de un mismo convenio colectivo.
+A los mismos efectos, en las elecciones a representantes del personal laboral al servicio de la Sociedad Estatal Correos y Telégrafos S. A., constituirán un único centro de trabajo la totalidad de establecimientos dependientes de esta Sociedad que radican en la misma provincia.
+Se modifica por el art. 65 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412#a65.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Mesas Generales de Negociación.
+1. Además de las Mesas de negociación previstas en el artículo 31 de esta ley, se constituirá una Mesa General de Negociación de las Administraciones Públicas.
+La representación de las Administraciones Públicas, será unitaria, estará presidida por la Administración General del Estado y contará con representantes de las Comunidades Autónomas y de la Federación Española de Municipios y Provincias, en función de las materias a negociar.
+La representación de las Organizaciones Sindicales legitimadas para estar presentes de acuerdo con lo dispuesto en los artículos 6 y 7 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, se distribuirá en función de los resultados obtenidos en las elecciones a los órganos de representación del personal, Delegados de personal, Juntas de Personal y Comités de Empresa, en el conjunto de las Administraciones Públicas.
+Serán materias objeto de negociación en esta Mesa, las relacionadas en el artículo 32 de esta ley que resulten susceptibles de regulación estatal con carácter de norma básica, sin perjuicio de los acuerdos a que puedan llegar las Comunidades Autónomas en su correspondiente ámbito territorial en virtud de sus competencias exclusivas y compartidas en materia de Función Pública.
+2. Asimismo, para la negociación de todas aquellas materias y condiciones generales de trabajo comunes al personal funcionario, estatutario y laboral de cada Administración Pública, se constituirá en la Administración General del Estado, y en cada una de las Comunidades Autónomas y Entidades Locales, una Mesa General de Negociación.
+Son de aplicación a estas mesas generales los criterios señalados en el apartado 1 de la presente disposición adicional sobre representación de las organizaciones sindicales en la Mesa General de Negociación de las Administraciones Públicas, tomando en consideración en cada caso los resultados obtenidos en las elecciones a los órganos de representación del personal funcionario, del personal estatutario y del personal laboral del correspondiente ámbito de representación.
+Además, también estarán presentes en estas mesas generales, las organizaciones sindicales que formen parte de la Mesa General de Negociación de las Administraciones Públicas siempre que hubieran obtenido el 10 por 100 de los representantes a personal funcionario o personal laboral en el ámbito correspondiente a la mesa de que se trate.
+Se añade por el art. único.4 de la Ley 21/2006, de 20 de junio. Ref. BOE-A-2006-11049.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. Los funcionarios en situación de supernumerarios no podrán ostentar la condición de electores ni elegibles.
+2. Hasta tanto se cumpla la disposición final primera de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, al personal contratado de colaboración temporal en régimen de derecho administrativo que se encuentre prestando servicio, le será de aplicación, a todos los efectos, lo dispuesto en la presente Ley.
+Será, asimismo, de aplicación la presente Ley al personal contratado a que se refiere la disposición transitoria sexta, apartado cuarto, de la Ley de Medidas para la Reforma de la Función Pública.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La relación de servicio con la Administración Pública no se verá alterada por el acceso del personal contratado de colaboración temporal en régimen de derecho administrativo, a la condición de representante.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+En las Comunidades Autónomas en que las Áreas de Salud no estén establecidas y a los solos efectos de lo dispuesto en la presente Ley, por el órgano responsable de la Administración sanitaria, se definirán con la participación de los Sindicatos representativos, zonas o circunscripciones, constituyéndose una Junta de Personal por cada zona o circunscripción.
+
+### Disposición final
+
+Disposición final.
+Tendrán la consideración de normas básicas en el sentido previsto en el artículo 149.1.18ª de la Constitución y, en consecuencia, serán de aplicación para todas las Administraciones públicas, las siguientes de esta Ley:
+Artículos 1º, 2º, 1, d), y 2; 3º; 4º; 5º; 6º; 7º, 4; 8º; 9º; 10; 11; 12; 13; 15; 16; 17; 18; 19; 20; 21; 25; 26; 27; 28; 29; 30; 31, 3; 32; 33; 34; 35; 36; 37; 38; 39; 40, 2; 41; 42, 1, 2 y 3; 43; disposiciones adicionales segunda, cuarta y quinta; disposiciones transitorias primera, segunda y séptima.
+Téngase en cuenta que se declara inconstitucional en cuanto al cáracter básico de los arts. 25.1 párrafo 2 y 27.5 y 6 por Sentencia del TC 43/1996, de 14 de marzo. Ref. BOE-T-1996-8584.
+Se declara inconstitucional en cuanto al cáracter básico de los arts. 25.1 párrafo 2 y 27.5 y 6 por Sentencia del TC 43/1996, de 14 de marzo. Ref. BOE-T-1996-8584.
+ Se modifica por el art. único.17 de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela, Madrid, a 12 de junio de 1987.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

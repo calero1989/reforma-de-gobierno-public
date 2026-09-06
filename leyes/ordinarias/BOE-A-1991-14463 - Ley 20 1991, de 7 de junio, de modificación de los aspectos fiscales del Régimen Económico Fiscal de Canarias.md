@@ -1,0 +1,2905 @@
+# Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias.
+
+- Identificador BOE: `BOE-A-1991-14463`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-14463
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de erratas publicada en BOE núm. 254, de 23 de octubre de 1991. Ref. BOE-A-1991-25681
+
+## Preámbulo
+
+JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+I
+Canarias, desde su conquista a finales del siglo XV, ha venido disfrutando de un Régimen Económico Fiscal excepcional respecto del vigente en el resto del territorio nacional. El carácter insular, la lejanía, las especiales condiciones geográficas, geológicas y climáticas, así como la escasez de recursos naturales, han aconsejado históricamente la adopción de este régimen específico en el ámbito de la legislación económica y fiscal española. Esta especialidad y excepcionalidad económico-fiscal de las islas Canarias, ha ido adaptándose, a lo largo de estos casi quinientos años, a las circunstancias de cada época o momento histórico. Con el Real Decreto del 11 de julio de 1852 se configuró como puertos francos a los de «Santa Cruz de Tenerife, Orotava, Ciudad Real de Las Palmas, Santa Cruz de la Palma, Arrecife de Lanzarote, Puerto de Cabras y San Sebastián» (artículo 1), incorporándose así las franquicias aduaneras como un elemento fundamental y configurador del régimen fiscal aplicable en las islas. Estas franquicias aduaneras fueron luego ampliadas por la Ley de 10 de junio de 1870 al puerto de Valverde de la isla del Hierro (artículo 1), y a los demás puertos de la entonces provincia de Canarias (artículo 2), cuyos Ayuntamientos se comprometieron a sufragar por su cuenta los gastos de recaudación y administración del ramo. La Ley de Puertos Francos de 6 de marzo de 1900 confirmó asimismo estas franquicias aduaneras, extendiéndolas a todas las islas Canarias y amplió el ámbito de las franquicias canarias a los impuestos sobre el consumo, como confirmó el propio Tribunal Supremo en la Sentencia de 8 de abril de 1964. La Ley del Régimen Económico Fiscal de 22 de julio de 1972 al ratificar y actualizar el régimen Económico Fiscal de Canarias, que el paso del tiempo había deteriorado y dejado inoperante en algunos aspectos, conforme a los cambios producidos en el sistema tributario español por la reforma del 11 de junio de 1964, estableció asimismo que no era de aplicación en Canarias la Renta de Aduanas con algunas excepciones, y que al propio tiempo presentan una aplicación diferencia respecto al régimen común, como consecuencia de constituir Canarias un área diferenciada en la imposición sobre el consumo, el Impuesto General sobre el Tráfico de las Empresas, el Impuesto sobre el Lujo y los mismos impuestos especiales, estableciendo también una especialidad en los impuestos directos al ampliar la cuantía de la dotación al Fondo de Previsión para inversiones respecto de la establecida en la Península y Baleares.
+La instauración de los actuales Cabildos Insulares por la Ley de 11 de julio de 1912, trajo consigo un nuevo planteamiento de la financiación de las Corporaciones Locales Canarias, que han tenido, desde entonces, un régimen especial de financiación a través de los Arbitrios insulares. Los primeros Arbitrios Insulares fueron los de importación y aportación de mercancías que se aplicaron a partir de 1914, en fechas distintas, en todas las Islas Canarias. También se aplicó en todo el archipiélago desde 1937 el Arbitrio sobre el Tabaco. El Arbitrio sobre alcoholes fue un recurso propio de los Cabildos de Tenerife, Gran Canaria y La Palma. La Ley de Régimen Económico Fiscal de Canarias de 22 de julio de 1972, derogó todo este complejo sistema de arbitrios insulares, y creó como recursos de las Haciendas Locales Canarias, el arbitrio Insular a la Entrada de Mercancías con sus dos tarifas generales especial, y el lujo mejorando la capacidad de las mismas y llevándolas a jugar un importante papel en la promoción de la expansión económico-social de las Islas.
+Las circunstancias singulares del Régimen Económico-Fiscal de Canarias han sido asimismo reconocidas y confirmadas expresamente en la Disposición Adicional Tercera de la Constitución Española, y en el artículo 45 del Estatuto de Autonomía de Canarias.
+Todo este proceso de definición y adaptación histórica de un Régimen Económico Fiscal especial, ha tenido como objetivo dotar a Canarias de los instrumentos necesarios en cada etapa, para promover su desarrollo económico y social. Esta modificación debe tener igualmente como finalidad «establecer un conjunto de medidas económicas y fiscales encaminadas a promover el desarrollo económico y social del Archipiélago», tal y como contempla el artículo 1.º de la Ley vigente 30/1972, de 22 de julio.
+Sin embargo, por un lado, el paso de los años y, por otro, los profundos cambios surgidos en España tras la promulgación de la Constitución de 1978 con el reparto constitucional de competencias Estado-Comunidades Autónomas y muy especialmente la firma en 1985 del Tratado de Adhesión de España a la CEE y la reforma fiscal que esta adhesión llevó consigo, han producido un alto grado de obsolescencia del Régimen Económico Fiscal de Canarias, que ha generado un elevado nivel de inoperancia en las distintas figuras tributarias aplicadas en las Islas y para las que ha habido que dictar, a fin de mantener provisionalmente su operatividad y eficacia una serie de medidas transitorias hasta tanto se acometía una reforma a fondo.
+II
+Con la presente Ley se acomete una profunda reforma de los aspectos fiscales recogidos en el REF, de tal manera que, respetando la especialidad canaria que lleva consigo una presión fiscal indirecta, diferenciada y menor que en el resto del Estado, adecua las figuras impositivas a aplicar en Canarias, a las exigencias de la Comunidad Económica Europea a la vez que garantiza los ingresos de las Corporaciones Locales y su expansión futura.
+En este contexto, las figuras tributarias que se ven afectadas por esta Ley son, dentro del ámbito de la imposición local, los Arbitrios Insulares a la Entrada de Mercancías y sobre el Lujo y dentro de la imposición estatal, el Impuesto General sobre el Tráfico de las Empresas, el Impuesto sobre la Renta de las Personas Físicas y el Impuesto sobre Sociedades, estos dos últimos sólo en lo tocante a las disposiciones relativas al Fondo de Previsión para Inversiones.
+No se incluye dentro del contenido de la presente Ley disposición alguna en relación a los impuestos Especiales de naturaleza estatal, por lo tanto, éstos seguirán gestionándose de igual forma que lo han sido hasta el presente.
+III
+Las principales bases y principios de la reforma que afronta la presente Ley son los siguientes:
+A) Se implanta el Arbitrio sobre la Producción y la Importación, si bien se exonera durante una etapa transitoria a la producción interior de los bienes que grava. Desde el momento de su implantación, quedará definitivamente subsumida la Tarifa General del Arbitrio Insular a la Entrada de Mercancías.
+B) En cuanto a la Tarifa Especial del Arbitrio Insular a la Entrada de Mercancías, ésta se mantendrá en los términos previstos en el artículo 6 del Protocolo 2 del Tratado de Adhesión. En su momento, y atendiendo a las circunstancias que puedan concurrir en la economía canaria, el Gobierno español planteará a la Comisión su prolongación más allá del 1 de enero de 1993 para un periodo de tiempo limitado.
+C) Se crea el Impuesto General Indirecto Canario, con el fin de racionalizar, simplificar y unificar la actual imposición indirecta representada por el Impuesto General sobre el Tráfico de las Empresas y el Arbitrio Insular sobre el Lujo, manteniendo las especificidades del Régimen Fiscal tradicional de las islas de forma compatible con la profundización de la integración de Canarias en las políticas de la Comunidad Europea.
+El Impuesto General Indirecto Canario recae sobre las importaciones, entregas de bienes, ejecuciones de obra y prestaciones de servicios, gravando los factores de producción incorporados en cada fase del proceso productivo.
+No obstante, y para mantener las peculiaridades del Régimen Económico Fiscal de Canarias, los tipos de gravamen establecidos, o los que se establezcan en el futuro, serán, en todo caso, inferiores respecto de los propios de la imposición indirecta vigente en el resto del territorio nacional. Medida paralela a la anterior, y con idéntica finalidad, es la exclusión de gravamen de las exportaciones y operaciones asimiladas, las ventas al por menor, las operaciones realizadas por sujetos pasivos cuyo volumen de operaciones sea inferior al límite que a tal fin se señale y las actividades agrícolas, ganaderas, pesqueras y de captación, producción y distribución de agua.
+La estructura del Impuesto permite, en los casos en que proceda, la devolución de las cuotas soportadas en los «inputs» de las distintas fases de proceso de importación, producción y comercialización.
+D) En el marco de participación de las distintas Administraciones Públicas implicadas –Estado, Comunidad Autónoma y Corporaciones Locales– corresponde al Estado la titularidad normativa de los nuevos tributos, quien dicta, asimismo, previo informe de la Comunidad Autónoma, las disposiciones necesarias para el desarrollo y aplicación de la Ley. Por su parte, la Comunidad Autónoma regulará reglamentariamente los aspectos relativos a la gestión, liquidación, recaudación e inspección de las nuevas figuras, teniendo igualmente la iniciativa para las modificaciones de los tipos impositivos del Impuesto General indirecto que, en su caso, hayan de realizarse en las Leyes de Presupuestos del Estado correspondientes a cada año, así como para fijar los tipos del Arbitrio sobre la Producción e Importación dentro de los límites establecidos. Por lo que hace a las Corporaciones Locales es necesario, para dar cumplimiento al principio de autonomía, establecer, en el marco de la Comunidad Autónoma, su participación en la regulación y control de las nuevas figuras impositivas y sus recaudaciones.
+E) Con objeto de asegurar una gestión eficiente del nuevo marco fiscal, acorde con las especificidades de Canarias que sea a la vez compatible con una menor complejidad para el contribuyente, se atribuyen a la Comunidad Autónoma las competencias de gestión de las nuevas figuras tributarias mencionadas.
+F) Los rendimientos obtenidos por el Arbitrio sobre la Producción e Importación y por la Tarifa Especial del Arbitrio Insular a la Entrada de Mercancías, mientras esta última esté en vigor, corresponden a las Corporaciones Locales Canarias.
+La Comunidad Autónoma y las Corporaciones Locales Canarias son cotitulares en las proporciones que se determinan, de los rendimientos obtenidos por la aplicación del nuevo Impuesto General Indirecto, sustitutivo del IGTE y del Arbitrio Insular sobre el Lujo. Dicho reparto proporcional se efectúa desde el supuesto de que la capacidad recaudatoria estimada del nuevo impuesto en el primer año de su aplicación, sea igual a la suma de recaudación por IGTE y por el Arbitrio Insular sobre el lujo. La Comunidad Autónoma compensará, con la parte proporcional de la recaudación que se le atribuya, la minoración que, según lo expresado, experimente su participación en los ingresos del Estado, y, por otra parte, en el Acuerdo firmado por todas las Administraciones afectadas, asume el riesgo de asegurar que las Corporaciones Locales sigan percibiendo, como mínimo, los recursos financieros que les hubieren correspondido a través del Arbitrio Insular sobre el Lujo.
+G) En el capítulo de incentivos fiscales se diseña un sistema de incentivos a la inversión en Canarias en el que, homologándose su regulación con la del resto del territorio nacional, se conserva la peculiaridad existente hasta ahora, con la adecuada flexibilidad al establecer un período transitorio que permita a las Empresas y empresarios que han llevado a cabo dotaciones al Fondo de Previsión para inversiones efectuar la materialización de dichas dotaciones en beneficio de la economía canaria. Asimismo se prevé que el establecimiento del nuevo sistema no implicará la disminución de las inversiones estatales en el ámbito de Canarias.
+IV
+Por último, destacar que, siendo preciso mantener la capacidad financiera de las Administraciones Públicas, la reestructuración expuesta habrá de completarse con los ajustes financieros previstos para que ninguna de las tres Administraciones afectadas sufra mermas en la cuantía de los ingresos que de las figuras sustituidas venía obteniendo. En consecuencia, la pérdida de ingresos sufrida por la Hacienda del Estado, derivada de la integración del IGTE en el Impuesto General Indirecto, se compensará deduciendo de la participación de la Comunidad Autónoma de Canarias en los Ingresos del Estado, los rendimientos correspondientes al citado impuesto. Complemento de dicho ajuste financiero es que las Corporaciones Locales Canarias perciban una financiación análoga a la que habrían obtenido en estos momentos por el Arbitrio Insular sobre el Lujo y el de la Entrada de Mercancías, de no haberse producido la Adhesión de España a la CEE, dándose así cumplimiento al principio de suficiencia financiera de las Corporaciones Locales, recogido en el artículo 142 de la Constitución. Particularmente los Cabildos Insulares deberán concurrir al reparto de las participaciones de las Diputaciones Provinciales, Comunidades Autónomas uniprovinciales no insulares y Consejos Insulares en los ingresos del Estado, de la misma forma en que lo hagan los Ayuntamientos Canarios, lo que se alcanzará en el ejercicio siguiente al que se apruebe el nuevo Régimen Económico Fiscal.
+Por otra parte, las medidas que incorpora la presente Ley, que serán completadas en un futuro próximo con las que establezca la Ley que ha de regular los aspectos económicos del régimen especial de Canarias, tienen por finalidad promover el desarrollo económico y social del Archipiélago.
+
+## LIBRO PRELIMINAR
+
+Finalidad de la Ley
+
+### Artículo 1
+
+Artículo 1. Finalidad de la Ley.
+La presente Ley tiene por finalidad adaptar y actualizar los aspectos fiscales de la Ley 30/1972, de 22 de julio, del Régimen Económico Fiscal de Canarias, ajustándolo a las actuales y previsibles condiciones socioeconómicas del Archipiélago, garantizando a la vez a las Corporaciones Locales canarias la suficiencia financiera, especialmente, a través de los ingresos regulados en la misma.
+
+## LIBRO I
+
+Impuesto General Indirecto Canario
+
+## TÍTULO PRELIMINAR
+
+Naturaleza y ámbito de aplicación
+
+### Artículo 2
+
+Artículo 2. Naturaleza del Impuesto.
+El Impuesto General Indirecto Canario es un tributo estatal de naturaleza indirecta que grava, en la forma y condiciones previstas en esta Ley, las entregas de bienes y prestaciones de servicios efectuadas por empresarios y profesionales, así como las importaciones de bienes.
+
+### Artículo 3
+
+Artículo 3. Ambito espacial.
+1. Estarán sujetas al Impuesto General Indirecto Canario las entregas de bienes y prestaciones de servicios realizadas en las Islas Canarias, así como las importaciones de bienes en dicho territorio.
+A los efectos de este Impuesto, el ámbito espacial a que se refiere el párrafo anterior comprenderá el mar territorial, cuyo límite exterior está determinado por una línea trazada de modo que se encuentre a una distancia de doce millas náuticas de los puntos más próximos de las líneas de base, siguiendo el perímetro resultante la configuración general del Archipiélago; también comprende el ámbito espacial del Impuesto el espacio aéreo correspondiente.
+2. Lo dispuesto en el número anterior se entenderá sin perjuicio de lo establecido en los Tratados o Convenios Internacionales.
+Se modifica por el art. 2.1 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366.
+ Esta modificación tiene efectos desde el 1 de enero de 2010, según establece la disposición final 4.
+
+## TÍTULO I
+
+Tributación de las operaciones sujetas
+
+## CAPÍTULO I
+
+Delimitación del hecho imponible
+
+### Artículo 4
+
+Artículo 4. Hecho imponible.
+1. Están sujetas al Impuesto por el concepto de entregas de bienes y prestaciones de servicios las efectuadas por empresarios y profesionales a título oneroso, con carácter habitual u ocasional, en el desarrollo de su actividad empresarial o profesional.
+2. Asimismo, están sujetas al Impuesto por el concepto de importaciones de bienes la entrada de los mismos en las Islas Canarias, cualquiera que sea el fin a que se destinen o la condición del importador.
+3. La sujeción al Impuesto se produce con independencia de los fines o resultados perseguidos en la actividad empresarial o profesional o en cada operación en particular.
+4. Las operaciones sujetas a este Impuesto no estarán sujetas al concepto "transmisiones patrimoniales onerosas" del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+Se exceptúan de lo dispuesto en el párrafo anterior las entregas y arrendamientos de bienes inmuebles, así como la constitución o transmisión de derechos reales de goce o disfrute que recaigan sobre los mismos, cuando estén exentos del Impuesto, salvo en los casos en que el sujeto pasivo renuncie a la exención en las circunstancias y con las condiciones recogidas en el artículo 50.cinco de la Ley de la Comunidad Autónoma de Canarias 4/2012, de 25 de junio, de medidas administrativas y fiscales.
+Se modifica el apartado 4 por el art. 17.1 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica el apartado 4 por el art. 1.1 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este apartado ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 4 por el art. 1.1 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+### Artículo 5
+
+Artículo 5. Concepto de actividades empresariales o profesionales.
+1. Son actividades empresariales o profesionales las que impliquen la ordenación por cuenta propia de factores de producción materiales y humanos, o de uno de ellos, con la finalidad de intervenir en la producción o distribución de bienes o servicios.
+En particular, tienen esta consideración las extractivas, de fabricación, comercio o prestación de servicios, incluidas las agrícolas, forestales, ganaderas, pesqueras, de construcción, mineras y el ejercicio de actividades profesionales liberales y artísticas.
+A efectos de este impuesto, las actividades empresariales o profesionales se considerarán iniciadas desde el momento en que se realice la adquisición de bienes o servicios con la intención, confirmada por elementos objetivos, de destinarlos al desarrollo de tales actividades, incluso en los casos a que se refieren el apartado 2.º del número 2, y las letras a) y b) del número 4 de este artículo. Quienes realicen tales adquisiciones tendrán desde dicho momento la condición de empresarios o profesionales a efectos del Impuesto General Indirecto Canario.
+2. A los efectos de este Impuesto se reputarán empresarios o profesionales:
+1.° Las personas o entidades que realicen habitualmente actividades empresariales o profesionales.
+No obstante, no tendrán la consideración de empresarios o profesionales quienes realicen exclusivamente entregas de bienes o prestaciones de servicios a título gratuito, sin perjuicio de lo establecido en el apartado siguiente.
+2.° Las sociedades mercantiles, salvo prueba en contrario.
+3. La habitualidad podrá acreditarse por cualquiera de los medios de prueba admisibles en derecho.
+Se presumirá la habitualidad:
+a) En los supuestos a que se refiere el artículo 3 del Código de Comercio.
+b) Cuando para la realización de las entregas de bienes y prestaciones de servicios sujetas al Impuesto se exija contribuir por el Impuesto sobre Actividades Económicas.
+4. Se considerarán, en todo caso, empresarios o profesionales a quienes efectúen las siguientes operaciones:
+a) La realización de una o varias entregas de bienes o prestaciones de servicios que supongan la explotación de un bien corporal o incorporal con el fin de obtener ingresos continuados en el tiempo.
+En particular, tendrán dicha consideración los arrendadores de bienes y quienes constituyan, amplíen o transmitan derechos reales de goce o disfrute sobre bienes inmuebles.
+b) La urbanización de terrenos y la promoción, construcción o rehabilitación de edificaciones para su venta, adjudicación o cesión por cualquier título, aunque se realicen ocasionalmente.
+5. A los efectos de este Impuesto, se considerarán edificaciones las construcciones unidas permanentemente al suelo o a otros inmuebles, efectuadas tanto sobre la superficie como en el subsuelo, que sean susceptibles de utilización autónoma e independiente.
+En particular, tendrán la consideración de edificaciones las construcciones que a continuación se relacionan, siempre que estén unidas a un inmueble de una manera fija, de suerte que no puedan separarse de él sin quebranto de la materia ni deterioro del objeto:
+a) Los edificios, considerándose como tales toda construcción permanente, separada e independiente, concebida para ser utilizada como vivienda o para servir al desarrollo de una actividad económica.
+b) Las instalaciones industriales no habitables, tales como diques, tanques o cargaderos.
+c) Las plataformas para exploración y explotación de hidrocarburos.
+d) Los puertos, aeropuertos y mercados.
+e) Las instalaciones de recreo y deportivas que no sean accesorias de otras edificaciones.
+f) Los caminos, carreteras, autopistas y demás vías de comunicación terrestres, así como los puentes o viaductos y túneles relativos a las mismas.
+g) Las instalaciones fijas de transporte por cable.
+No tendrán la consideración de edificaciones:
+a) Las obras de urbanización de terrenos y en particular las de abastecimiento y evacuación de aguas, suministro de energía eléctrica, redes de distribución de gas, instalaciones telefónicas, accesos, calles y aceras.
+b) Las construcciones accesorias de explotaciones agrícolas que guarden relación con la naturaleza y destino de la finca aunque el titular de la explotación, sus familiares o las personas que con él trabajen tengan en ellas su vivienda.
+c) Los objetos de uso y ornamentación, tales como máquinas, instrumentos y utensilios y demás inmuebles por destino a que se refiere el artículo 334, apartados 4 y 5, del Código Civil.
+d) Las minas, canteras o escoriales, pozos de petróleo o de gas u otros lugares de extracción de productos naturales.
+6. Se entenderán realizadas en el desarrollo de una actividad empresarial o profesional:
+a) Las entregas de bienes y prestaciones de servicios efectuadas por las sociedades mercantiles, cuando tengan la condición de empresario o profesional.
+b) Las transmisiones o cesiones de uso a terceros de la totalidad o parte de cualesquiera bienes o derechos que integren el patrimonio empresarial o profesional de los sujetos pasivos, incluso las efectuadas con ocasión del cese en el ejercicio de las actividades económicas que determinen la sujeción al Impuesto.
+7. A los solos efectos de lo dispuesto en el artículo 17 de esta Ley, además de los que ya tengan tal consideración de acuerdo con lo dispuesto en el artículo, se reputarán empresarios o profesionales actuando como tales respecto de todos los servicios que les sean prestados:
+1.º Quienes realicen actividades empresariales o profesionales simultáneamente con otras que no estén sujetas al Impuesto de acuerdo con lo dispuesto en el número 1 del artículo 4 de esta Ley.
+2.º Las personas jurídicas que no actúen como empresarios o profesionales.
+Se modifica el apartado 6 por la disposición final 6.1 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añaden los apartados 6.c) y 7 por el art. 2.2 y 3 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366.
+ Esta modificación tiene efectos desde el 1 de enero de 2010, según establece la disposición final 4.
+ Se modifican los apartados 2 y 6 por el art. 6.1 y 2 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Se modifica el apartado 1 por el art. 8.1.1 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifica por el art. 1.2 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este art. ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica por el art. 1.2 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+ Redactado el párrafo segundo del apartado 1 conforme a la corrección de erratas publicada en BOE núm. 254, de 23 de octubre de 1991. Ref. BOE-A-1991-25681
+
+### Artículo 6
+
+Artículo 6. Concepto de entrega de bienes.
+1. Se entiende por entrega de bienes la transmisión del poder de disposición sobre bienes corporales.
+A estos efectos se consideran bienes corporales el calor, el frío, la energía eléctrica y las demás modalidades de energía.
+2. En particular se consideran entregas de bienes:
+1.º El suministro de un producto informático normalizado efectuado en cualquier soporte material.
+A estos efectos, se considerarán como productos informáticos normalizados aquellos que no precisen de modificación sustancial alguna para ser utilizados por cualquier usuario.
+2.º La transmisión de valores cuya posesión asegure, de hecho o de derecho, la atribución de la propiedad o del disfrute de un inmueble o de una parte del mismo en los supuestos previstos en el artículo 50.Uno.18.º k) de la Ley de la Comunidad Autónoma de Canarias 4/2012, de 25 de junio, de medidas administrativas y fiscales.
+3.º La transmisión del poder de disposición sobre mercaderías mediante la cesión de títulos representativos de las mismas.
+4.º Las ejecuciones de obra que tengan por objeto la construcción o rehabilitación de una edificación, en el sentido del número 5 del artículo 5 de esta Ley, cuando el empresario que ejecute la obra aporte una parte de los materiales utilizados, siempre que el coste de los mismos exceda del 40 por ciento de la base imponible.
+5.º Las aportaciones no dinerarias efectuadas por los sujetos pasivos del Impuesto de elementos de su patrimonio empresarial o profesional a sociedades o comunidades de bienes o a cualquier otro tipo de entidades y las adjudicaciones de esta naturaleza en caso de liquidación o disolución total o parcial de aquéllas, sin perjuicio de la tributación que proceda con arreglo a las normas reguladoras de los conceptos «actos jurídicos documentados» y «operaciones societarias» del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+En particular, se considerará entrega de bienes la adjudicación de terrenos o edificaciones promovidos por una comunidad de bienes realizada en favor de los comuneros, en proporción a su cuota de participación.
+6.º Las transmisiones de bienes en virtud de una norma o de una resolución administrativa o jurisdiccional.
+7.º Las cesiones de bienes en virtud de contratos de ventas a plazos con pacto de reserva de dominio o condición suspensiva y de arrendamientos-venta y asimilados.
+A efectos de lo dispuesto en el párrafo anterior se asimilarán a los arrendamientos-venta, los arrendamientos con opción de compra desde el momento en que el arrendatario se comprometa a ejercitar la opción de compra y, en general, los de arrendamientos de bienes con cláusula de transferencia de la propiedad, vinculante para ambas partes.
+8.º Las transmisiones de bienes entre comitente y comisionista que actúe en nombre propio efectuadas en virtud de contratos de comisión de venta o de comisión de compra.
+Se modifica el apartado 2.2, 4 y 7 por el art. 2.1 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica el apartado 2.5 por el art. 17.2 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica el apartado 2.4 por el art. 3.1 del Real Decreto-ley 6/2010, de 9 de abril. Ref. BOE-A-2010-5879.
+ Se modifica el apartado 2.1 y 4 por el art. 8.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el apartado 2.1 por el art. 1.3 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este apartado ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 2.1 por el art. 1.3 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+### Artículo 7
+
+Artículo 7. Concepto de prestación de servicios.
+1. A los efectos de este Impuesto se entiende por prestación de servicios toda operación sujeta al mismo que no tenga la consideración de entrega de bienes ni de importación de bienes.
+2. En particular, se consideran prestaciones de servicios:
+1.º El ejercicio independiente de una profesión, arte u oficio.
+2.º Los arrendamientos de bienes, industria o negocio, empresas o establecimientos mercantiles, con o sin opción de compra.
+3.º Las cesiones de uso o disfrute de bienes.
+4.º Las cesiones y concesiones de derechos de autor, licencias, patentes, marcas de fábrica y comerciales y demás derechos de propiedad intelectual e industrial.
+5.º Las obligaciones de hacer y no hacer y las abstenciones estipuladas en contratos de venta en exclusiva o derivadas de convenios de distribución de bienes en áreas territoriales delimitadas.
+6.º Las ejecuciones de obra que no tengan la consideración de entregas de bienes, con arreglo a lo dispuesto en el apartado 4.º del número 2 del artículo 6.º de esta Ley.
+7.º Los traspasos de locales de negocio.
+8.º Los transportes.
+9.º Los servicios de hostelería, restaurante o acampamento y las ventas de bebidas o alimentos para su consumo inmediato en el mismo lugar.
+10.º Las operaciones de seguro, reaseguro y capitalización.
+11.º Las prestaciones de hospitalización.
+12.º Los préstamos y créditos en dinero.
+13.º El derecho a utilizar instalaciones deportivas o recreativas.
+14.º La explotación de ferias y exposiciones.
+15.º Las operaciones de mediación y las de agencia o comisión cuando el agente o comisionista actúe en nombre ajeno. Cuando actúe en nombre propio y medie en una prestación de servicios se entenderá que ha recibido y prestado por sí mismo los correspondientes servicios.
+16.º El suministro de productos informáticos cuando no tenga la condición de entrega de bienes, considerándose accesoria a la prestación de servicios la entrega del correspondiente soporte.
+En particular, se considerará prestación de servicios el suministro de productos informáticos que hayan sido confeccionados previo encargo de su destinatario conforme a las especificaciones de éste, así como aquellos otros que hayan sido objeto de adaptaciones sustanciales necesarias para el uso por su destinatario.
+Se modifica el apartado 2.3 y 16 por el art. 8.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el apartado 2.12 por el art. 9.1 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se añade el apartado 2.16 por el art. 1.4 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este apartado ya estaba añadido por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se añade el apartado 2.16 por el art. 1.4 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+### Artículo 8
+
+Artículo 8. Concepto de importación de bienes.
+1. A los efectos de este Impuesto, se definen como territorios terceros, la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la Unión Europea o terceros países.
+A los efectos de este Impuesto se define la importación como la entrada de bienes en las Islas Canarias, procedentes de territorios terceros, cualquiera que sea el fin a que se destinen o la condición del importador.
+2. Sin perjuicio de lo previsto en el número 1 anterior se considerará también importación:
+1.º La autorización para el consumo en las Islas Canarias de los bienes que se encuentren reglamentariamente en los regímenes de importación temporal, tránsito, perfeccionamiento activo, depósito o zona franca.
+2.º La desafectación de los buques y, en su caso, de los objetos incorporados o utilizados a bordo de los mismos, de los fines a que se refiere el número 1, apartado 2.º, del artículo 14 de esta Ley, cuando la entrada de los referidos buques u objetos en el territorio a que se refiere este artículo se hubiere beneficiado de la exención del Impuesto.
+3.º La desafectación de las aeronaves y, en su caso, de los objetos incorporados o utilizados a bordo de las mismas, de las compañías que se dediquen esencialmente a la navegación aérea internacional cuando la entrada de las referidas aeronaves u objetos en el territorio a que se refiere este artículo se hubiese beneficiado de la exención del Impuesto.
+4.º El cambio de las condiciones en virtud de las cuales se hubiese aplicado la exención del Impuesto a las entregas o transformaciones de los buques, de las aeronaves y de los objetos incorporados o utilizados para la explotación de dichos medios de transporte.
+5.º Las adquisiciones realizadas en las Islas Canarias de los bienes cuya entrega o importación previas se hubiesen beneficiado de la exención del Impuesto en virtud de lo dispuesto en los números 6 y 7 del artículo 12, y en los números 8 y 9 del artículo 14, ambos de esta Ley.
+No obstante, lo dispuesto en el párrafo anterior, no será de aplicación cuando el adquirente exporte inmediata y definitivamente dichos bienes o los envíe del mismo modo a la Península e Islas Baleares, Ceuta o Melilla.
+3. Lo dispuesto en el número 2 precedente, apartados 2.º, 3.º y 4.º, no será de aplicación después de transcurridos quince años desde la realización de las importaciones o entregas exentas a que se refieren dichos apartados.
+Se modifican los apartados 1 y 2.1º por el art. 80.1 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-2
+
+### Artículo 9
+
+Artículo 9. Supuestos de no sujeción.
+No están sujetas al Impuesto:
+1.º La transmisión de un conjunto de elementos corporales y, en su caso, incorporales que, formando parte del patrimonio empresarial o profesional del sujeto pasivo, constituyan o sean susceptibles de constituir una unidad económica autónoma en el transmitente, capaz de desarrollar una actividad empresarial o profesional por sus propios medios, con independencia del régimen fiscal que a dicha transmisión le resulte de aplicación en el ámbito de otros tributos y del procedente conforme a lo dispuesto en el artículo 4.4 de esta Ley.
+Quedarán excluidas de la no sujeción a que se refiere el párrafo anterior, las siguientes transmisiones:
+a) La mera cesión de bienes o derechos.
+b) Las de los bienes muebles o semovientes que, formando parte de las existencias del patrimonio empresarial que se transmite, se lleven a cabo por quien tenga la condición de comerciante minorista de acuerdo con lo dispuesto en el artículo 50. Tres de la Ley de la Comunidad Autónoma de Canarias 4/2012, de 25 de junio, de medidas administrativas y fiscales, y, en función del destino previsible, el adquirente tenga derecho a la deducción, total o parcial, del Impuesto que se encuentre implícito en la contraprestación en los términos establecidos en el artículo 29.3 de esta Ley.
+A estos efectos, únicamente estará exenta del Impuesto, por aplicación del artículo 50.Uno.27.º de la Ley de la Comunidad Autónoma de Canarias 4/2012, la transmisión de los bienes muebles y semovientes que constituyan las existencias del patrimonio empresarial.
+c) Las realizadas por quienes tengan la condición de empresario o profesional exclusivamente conforme a lo dispuesto por el artículo 5.4.a) de esta Ley, cuando dichas transmisiones tengan por objeto la mera cesión de bienes o derechos.
+d) Las efectuadas por quienes tengan la condición de empresario o profesional exclusivamente por la realización ocasional de las operaciones a que se refiere el artículo 5.4.b) de esta Ley.
+A los efectos de lo dispuesto en este apartado, resultará irrelevante que el adquirente desarrolle la misma actividad a la que estaban afectos los elementos adquiridos u otra diferente, siempre que se acredite por el adquirente la intención de mantener dicha afectación al desarrollo de una actividad empresarial o profesional.
+En relación con lo dispuesto en este apartado, se considerará como mera cesión de bienes o de derechos, la transmisión de éstos cuando no se acompañe de una estructura organizativa de factores de producción materiales y humanos, o de uno de ellos, que permita considerar a la misma constitutiva de una unidad económica autónoma.
+En caso de que los bienes y derechos transmitidos, o parte de ellos, se desafecten posteriormente de las actividades empresariales o profesionales que determinan la no sujeción prevista en este número, la referida desafectación quedará sujeta al Impuesto en la forma establecida para cada caso en esta Ley.
+Los adquirentes de los bienes y derechos comprendidos en las transmisiones que se beneficien de la no sujeción establecida en este número se subrogarán, respecto de dichos bienes y derechos, en la posición del transmitente en cuanto a la aplicación de las normas contenidas en el artículo 50.Uno.22.º de la Ley de la Comunidad Autónoma de Canarias 4/2012 y en los artículos 37 a 44 de esta Ley.
+2.º Las entregas de dinero a titulo de contraprestación o pago.
+3.º Los servicios prestados por personas físicas en régimen de dependencia derivado de relaciones laborales o administrativas, así como los prestados a las cooperativas de trabajo asociado por los socios de las mismas.
+4.º Las transferencias de bienes o derechos del patrimonio empresarial o profesional del sujeto pasivo a su patrimonio personal o a su consumo particular.
+5.º La aplicación, total o parcial, al uso particular del sujeto pasivo de bienes afectos a sus actividades empresariales o profesionales.
+6.º El cambio de afectación de bienes corporales o de derechos reales de goce o disfrute sobre bienes inmuebles de un sector a otro de la actividad empresarial o profesional del sujeto pasivo.
+7.º La afectación o, en su caso, el cambio de afectación de bienes construidos, extraídos, transformados, adquiridos o importados en el ejercicio de una actividad empresarial o profesional del sujeto pasivo para su utilización en su actividad como bienes de inversión.
+8.º Las entregas de bienes y prestaciones de servicios realizadas sin contraprestación, salvo en los supuestos de vinculación a que se refiere el artículo 23, número 3, de la presente Ley.
+9.º A) Las entregas de bienes y prestaciones de servicios realizadas directamente por las Administraciones Públicas, así como las entidades a las que se refieren las letras C) y D) de este apartado, sin contraprestación o mediante contraprestación de naturaleza tributaria.
+B) A estos efectos se considerarán Administraciones Públicas:
+a) La Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local.
+b) Las entidades gestoras y los servicios comunes de la Seguridad Social.
+c) Los organismos autónomos, las Universidades Públicas y las Agencias Estatales.
+d) Cualesquiera entidades de derecho público con personalidad jurídica propia, dependientes de las anteriores que, con independencia funcional o con una especial autonomía reconocida por la Ley tengan atribuidas funciones de regulación o control de carácter externo sobre un determinado sector o actividad.
+No tendrán la consideración de Administraciones Públicas las entidades públicas empresariales estatales y los organismos asimilados dependientes de las Comunidades Autónomas y Entidades locales.
+C) No estarán sujetos al Impuesto los servicios prestados en virtud de los encargos ejecutados por los entes, organismos y entidades del sector público que ostenten, de conformidad con lo establecido en el artículo 32 de la Ley de Contratos del Sector Público, la condición de medio propio personificado del poder adjudicador que haya ordenado el encargo, en los términos establecidos en el referido artículo 32.
+D) Asimismo, no estarán sujetos al Impuesto los servicios prestados por cualesquiera entes, organismos o entidades del sector público, en los términos a que se refiere el artículo 3.1 de la Ley de Contratos del Sector Público, a favor de las Administraciones Públicas de la que dependan o de otra íntegramente dependiente de estas, cuando dichas Administraciones Públicas ostenten la titularidad íntegra de los mismos.
+E) La no consideración como operaciones sujetas al Impuesto que establecen las letras C) y D) anteriores será igualmente aplicable a los servicios prestados entre las entidades a las que se refieren los mismos, íntegramente dependientes de la misma Administración Pública.
+10.º La constitución de concesiones y autorizaciones administrativas, excepto las que tengan por objeto la cesión del derecho a utilizar infraestructuras ferroviarias o inmuebles o instalaciones en puertos y aeropuertos.
+Se modifica el apartado 9 por la disposición final 3.1 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268
+ Se modifican los apartados 1 y 9 por el art. 2.2 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica el apartado 1 y se suprime el 1.a) por el art. 6.3 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Se modifica el apartado 10 por el art. 12.1.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se modifican los apartados 8 y 9 por el art. 8.1.2 y 3 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifican los apartados 1 y 9 por el art. 1.5 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que el apartado 1 ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifican los apartados 1 y 9 por el art. 1.5 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+ Redactado el párrafo segundo del apartado 1º.b) conforme a la corrección de erratas publicada en BOE núm. 254, de 23 de octubre de 1991. Ref. BOE-A-1991-25681
+
+## CAPÍTULO II
+
+Exenciones
+
+### Artículo 10
+
+Artículo 10. Exenciones en operaciones interiores.
+Las exenciones en operaciones interiores de este impuesto se regulan en el artículo 50 de la Ley, de la Comunidad Autónoma de Canarias, 4/2012, de 25 de junio, de medidas administrativas y fiscales, en virtud de la competencia normativa atribuida a dicha Comunidad Autónoma, conforme con el número 1.º del apartado uno de la disposición adicional octava de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
+Lo señalado en el párrafo anterior se entiende sin perjuicio de las exenciones en operaciones interiores establecidas en los artículos 25 y 47 de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias.
+Se añade por la disposición final 6.2 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se deroga, con efectos desde el 1 de julio de 2012, por el art. 17.9 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica el apartado 1.19) por la disposición final 7.2 de la Ley 13/2011, de 27 de mayo. Ref. BOE-A-2011-9280.
+ Se modifica el apartado 1.22) por el art. 3.2 del Real Decreto-ley 6/2010, de 9 de abril. Ref. BOE-A-2010-5879.
+ Téngase en cuenta la disposición transitoria 3.2 en cuanto a su aplicación.
+ Se modifica el apartado 4 por el art. 2.4 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366.
+ Esta modificación tiene efectos desde el 1 de enero de 2010, según establece la disposición final 4.
+ Se modifica el apartado 1.28) por el art. 6.4 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Se modifica el apartado 1.22) por el art. 6.1 del Real Decreto-ley 2/2008, de 21 de abril. Ref. BOE-A-2008-6994.
+ Se modifica el apartado 1.1 y 24 por la disposición final 1.1 y 2 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
+ Se suprime el apartado 1.30) por el art. 12.3.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se modifican los apartados 1.18).j) y 1.28) por el art. 8.3 y 4 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifican los apartados 1.6 y 12 por el art. 10.1.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Téngase en cuenta la disposición transitoria 15 en cuanto a su aplicación.
+ Se modifica por el art. 8.1.4 a 7 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifica el apartado 1.18).f) y se añade el 1.30) por el art. 9.2 y 3 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se modifica el apartado 1.13) por el art. 7.1 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+ Se modifica el apartado 1 y se añade el 4 por el art. 1.6 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que estos apartados ya estaban modificados por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 1 y se añade el 4 por el art. 1.6 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+ Se modifica el apartado 1.27) y se añaden los párrafos segundo y tercero al apartado 1.28) por el art. 3.1 y 2 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+
+### Artículo 11
+
+Artículo 11. Exenciones relativas a las exportaciones.
+Están exentas del impuesto:
+1. Las entregas de bienes expedidos o transportados a un territorio tercero por el transmitente o por un tercero en nombre y por cuenta de este.
+2. Las entregas de los bienes expedidos o transportados a un territorio tercero por el adquirente no establecido en las Islas Canarias o por un tercero en nombre y por cuenta de este.
+Se excluyen de lo dispuesto en el párrafo anterior los bienes destinados al equipamiento o avituallamiento de embarcaciones deportivas o de recreo, de aviones de turismo o de cualquier medio de transporte de uso privado del adquirente.
+Estarán también exentas del impuesto:
+A) Las entregas de bienes a viajeros con cumplimiento de los siguientes requisitos:
+a) La exención se hará efectiva mediante el reembolso del impuesto soportado en las adquisiciones, o de la carga impositiva implícita en el caso de entrega en el desarrollo de su actividad comercial por un sujeto pasivo que tenga la condición de comerciante minorista.
+La Consejería competente en materia tributaria de la Comunidad Autónoma de Canarias podrá establecer una cuantía mínima de cuota del Impuesto o de carga impositiva implícita a reembolsar.
+b) Que los viajeros tengan su residencia habitual fuera del territorio de aplicación del Impuesto.
+c) Que los bienes adquiridos salgan efectivamente del territorio de aplicación del Impuesto.
+d) Que el conjunto de los bienes adquiridos no constituya una expedición comercial.
+A los efectos de esta ley, se considerará que los bienes conducidos por los viajeros no constituyen una expedición comercial cuando se trate de bienes adquiridos ocasionalmente, que se destinen al uso personal o familiar de los viajeros o a ser ofrecidos como regalos y que, por su naturaleza y cantidad, no pueda presumirse que sean el objeto de una actividad comercial.
+B) Las entregas de bienes efectuadas en las tiendas libres de impuestos que, bajo control de la Administración, existen en los puertos y aeropuertos sitos en Canarias, cuando los adquirentes sean personas que salgan inmediatamente con destino a territorios fuera del ámbito de aplicación del Impuesto, así como las efectuadas a bordo de los buques o aeronaves que realicen navegaciones con destino a puertos o aeropuertos situados en territorios fuera del ámbito de aplicación del Impuesto.
+Corresponde al Gobierno de Canarias el desarrollo reglamentario de las exenciones previstas en las letras A) y B) anteriores.
+3. Las entregas de bienes expedidos o transportados a un territorio tercero por persona distinta de la transmitente o el adquirente no establecido en el territorio de aplicación del Impuesto, que ostente la condición de exportador, de conformidad con la normativa aduanera, o por un tercero que actúe en nombre y por cuenta del mismo.
+4. Las prestaciones de servicios consistentes en trabajos realizados sobre bienes muebles adquiridos en el territorio de aplicación del Impuesto o importados para ser objeto de dichos trabajos en las Islas Canarias y seguidamente expedidos o transportados a un territorio tercero por quien ha efectuado los referidos trabajos, por el destinatario de los mismos no establecido en el territorio de aplicación del Impuesto, por persona distinta de los anteriores que ostente la condición de exportador, de conformidad con la normativa aduanera, o por un tercero que actúe en nombre y por cuenta de cualquiera de ellos.
+5. Las entregas de bienes a Organismos debidamente reconocidos que los exporten a un territorio tercero en el marco de sus actividades humanitarias, caritativas o educativas, previo reconocimiento del derecho a la exención en la forma que reglamentariamente se determine.
+No obstante, cuando quien entregue los bienes a que se refiere el párrafo anterior de este número sea un Ente Público no territorial o un establecimiento privado de carácter social, se podrá solicitar a la Agencia Tributaria Canaria la devolución del Impuesto soportado que no haya podido deducirse totalmente previa justificación de su importe en el plazo de tres meses desde que dichas entregas se realicen.
+Corresponde al Gobierno de Canarias el desarrollo reglamentario de lo previsto en este apartado.
+6. Las prestaciones de servicios, incluidas las de transporte y operaciones accesorias, distintas de las que gocen de exención conforme al artículo 50.Uno de la Ley, de la Comunidad Autónoma de Canarias, 4/2012, de 25 de junio, de medidas administrativas y fiscales, cuando estén directamente relacionadas con las exportaciones a un territorio tercero.
+Se considerarán directamente relacionados con las mencionadas exportaciones los servicios respecto de los cuales concurran las siguientes condiciones:
+a) Que se presten a quienes realicen dichas exportaciones, a los destinatarios de los bienes, a sus representantes aduaneros, o a los transitarios y consignatarios que actúen por cuenta de unos u otros.
+b) Que se realicen a partir del momento en que los bienes se expidan directamente con destino a un punto situado fuera del territorio de aplicación del Impuesto o a un punto situado en zona portuaria o aeroportuaria para su inmediata expedición fuera de dicho territorio.
+La condición a que se refiere la letra b) anterior no se exigirá en relación con los servicios de arrendamiento de medios de transporte, embalaje y acondicionamiento de la carga, reconocimiento de las mercancías por cuenta de los adquirentes y otros análogos cuya realización previa sea imprescindible para llevar a cabo el envío.
+7. Las prestaciones de servicios realizadas por intermediarios que actúen en nombre y por cuenta de terceros, cuando intervengan en las operaciones descritas en el presente artículo.
+8. Las entregas de bienes o prestaciones de servicios exentas por aplicación de lo dispuesto en los números anteriores, no comprenderán las que gocen de exención por aplicación del artículo 12 de esta ley y los artículos 50.Uno, 90 y 110 de la Ley, de la Comunidad Autónoma de Canarias, 4/2012, de 25 de junio, de medidas administrativas y fiscales.
+Se modifica por el art. 80.2 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-2
+ Se modifica el apartado 4, con efectos desde el 1 de enero de 2011 por la disposición final 1.2.1 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se declara la inconstitucionalidad y nulidad del apartado 4, con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.
+ Se modifica el apartado 4, con efectos desde el 1 de enero de 2011 por la disposición final 27.1 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Redactado el párrafo segundo del apartado 2 conforme a la corrección de erratas publicada en BOE núm. 254, de 23 de octubre de 1991. Ref. BOE-A-1991-25681
+
+### Artículo 12
+
+Artículo 12. Exenciones en operaciones asimiladas a las exportaciones.
+Están exentas las siguientes operaciones:
+1. Las entregas, construcciones, transformaciones, reparaciones, mantenimiento, fletamento, total o parcial, y arrendamiento de los buques que se indican a continuación:
+1.º Los buques aptos para navegar por alta mar que se afecten a la navegación marítima internacional en el ejercicio de actividades comerciales de transporte remunerado de mercancías o pasajeros, incluidos los circuitos turísticos, o de actividades industriales o de pesca.
+La exención no se aplicará en ningún caso a los buques destinados a actividades deportivas, de recreo o, en general, de uso privado.
+2.º Los buques afectos exclusivamente al salvamento, a la asistencia marítima o a la pesca costera.
+La desafectación de un buque de las finalidades indicadas en el párrafo anterior producirá efectos durante un plazo mínimo de un año, excepto en los supuestos de entrega posterior del mismo.
+3.º Los buques de guerra.
+La exención descrita en el presente número queda condicionada a que el adquirente de los bienes o destinatario de los servicios indicados sea la propia compañía que realiza las actividades mencionadas y utilice los buques en el desarrollo de dichas actividades o, en su caso, la propia entidad pública que utilice los buques en sus fines de defensa.
+A los efectos de esta ley, se considerará:
+Primero. Navegación marítima internacional, la que se realice a través de las aguas marítimas en los siguientes supuestos:
+a) La que se inicie en un puerto situado en el ámbito espacial de aplicación del Impuesto y termine o haga escala en otro puerto situado fuera de dicho ámbito espacial.
+b) La que se inicie en un puerto situado fuera del ámbito espacial de aplicación del Impuesto y termine o haga escala en otro puerto situado dentro o fuera de dicho ámbito espacial.
+c) La que se inicie y finalice en cualquier puerto, sin realizar escalas, cuando la permanencia en aguas situadas fuera del mar territorial del ámbito espacial de aplicación del Impuesto exceda de cuarenta y ocho horas.
+Lo dispuesto en esta letra c) no se aplicará a los buques que realicen actividades comerciales de transporte remunerado de personas o mercancías.
+En este concepto de navegación marítima internacional no se comprenderán las escalas técnicas realizadas para repostar, reparar o servicios análogos.
+Segundo. Que un buque está afecto a la navegación marítima internacional, cuando sus recorridos en singladuras de dicha navegación representen más del 50 por ciento del total recorrido efectuado durante los períodos de tiempo que se indican a continuación:
+a) El año natural anterior a la fecha en que se efectúen las correspondientes operaciones de reparación o mantenimiento, salvo lo dispuesto en la letra siguiente.
+b) En los supuestos de entrega, construcción, transformación, importación, fletamento, total o parcial, o arrendamiento del buque o en los de desafectación de los fines a que se refiere el apartado 2.º anterior, el año natural en que se efectúen dichas operaciones, a menos que tuviesen lugar después del primer semestre de dicho año, en cuyo caso el período a considerar comprenderá ese año natural y el siguiente.
+Este criterio se aplicará también en relación con las operaciones mencionadas en la letra anterior cuando se realicen después de las citadas en la presente letra.
+A efectos de lo dispuesto en esta letra, se considerará que la construcción de un buque ha finalizado en el momento de su matriculación definitiva en el Registro marítimo correspondiente.
+Si, transcurridos los períodos a que se refiere esta letra b), el buque no cumpliese los requisitos que determinan la afectación a la navegación marítima internacional, se regularizará su situación tributaria en relación con las operaciones de este apartado, de acuerdo con lo dispuesto en el artículo 8, número 2, apartado 2.º, de la presente ley.
+2. Las entregas, arrendamientos, reparaciones y mantenimiento de los objetos, incluidos los equipos de pesca, que se incorporen o se encuentren a bordo de los buques a que afectan las exenciones establecidos en el número anterior, siempre que se realicen durante los períodos en que dichos beneficios fiscales resulten de aplicación.
+La exención quedará condicionada a la concurrencia de los siguientes requisitos:
+1.º Que el destinatario directo de dichas operaciones sea el titular de la explotación del buque o, en su caso, su propietario.
+2.º Que los objetos mencionados se utilicen o, en su caso, se destinen a ser utilizados exclusivamente en la explotación de dichos buques.
+3.º Que las operaciones a que afecten las exenciones se efectúen después de la matriculación definitiva de los mencionados buques en el Registro Marítimo correspondiente.
+3. Las entregas de productos de avituallamiento para los buques que se indican a continuación, cuando se adquieran por los titulares de la explotación de dichos buques:
+1.º Los buques a que se refieren las exenciones del apartado 1 anterior, números 1.º y 2.º, siempre que se realicen durante los períodos en que dichos beneficios fiscales resulten de aplicación.
+No obstante, cuando se trate de buques afectos a la pesca costera, la exención no se extiende a las entregas de provisiones de a bordo.
+2.º Los buques de guerra que realicen navegación marítima internacional, en los términos descritos en el apartado 1.
+4. Las entregas, transformaciones, reparaciones, mantenimiento, fletamento total o arrendamiento de las siguientes aeronaves:
+1.º Las utilizadas exclusivamente por compañías dedicadas esencialmente a la navegación aérea internacional en el ejercicio de actividades comerciales de transporte remunerado de mercancías o pasajeros.
+2.º Las utilizadas por entidades públicas en el cumplimiento de sus funciones públicas.
+La exención está condicionada a que el adquirente o destinatario de los servicios indicados sea la propia compañía que realice las actividades mencionadas y utilice las aeronaves en el desarrollo de dichas actividades o, en su caso, la propia entidad pública que utilice las aeronaves en las funciones públicas.
+A los efectos de esta ley, se considerará:
+Primero. Navegación aérea internacional, la que se realice en los siguientes supuestos:
+a) La que se inicie en un aeropuerto situado en el ámbito espacial de aplicación del impuesto y termine o haga escala en otro aeropuerto situado fuera de dicho ámbito espacial.
+b) La que se inicie en un aeropuerto situado fuera del ámbito espacial del impuesto y termine o haga escala en otro aeropuerto situado dentro o fuera de dicho ámbito espacial.
+En este concepto de navegación aérea internacional no se comprenderán las escalas técnicas realizadas para repostar, reparar o servicios análogos.
+Segundo. Que una compañía está dedicada esencialmente a la navegación aérea internacional cuando corresponda a dicha navegación más del 50 por 100 de la distancia total recorrida en los vuelos efectuados por todas las aeronaves utilizadas por dicha compañía durante los períodos de tiempo que se indican a continuación:
+a) El año natural anterior a la realización de las operaciones de reparación o mantenimiento, salvo lo dispuesto en la letra siguiente.
+b) En los supuestos de entrega, construcción, transformación, importación, fletamento total o arrendamiento de las aeronaves, el año natural en que se efectúen dichas operaciones, a menos que tuviesen lugar después del primer semestre de dicho año, en cuyo caso el período a considerar comprenderá ese año natural y el siguiente.
+Este criterio se aplicará también en relación con las operaciones mencionadas en la letra anterior cuando se realicen después de las citadas en la presente letra.
+Si al transcurrir los períodos a que se refiere esta letra b) la compañía no cumpliese los requisitos que determinan su dedicación a la navegación aérea internacional, se regularizará su situación tributaria en relación con las operaciones de este apartado de acuerdo con lo dispuesto en el artículo 8, apartado 2, número 3.º, de esta ley.
+5. Las entregas, arrendamientos, reparaciones y mantenimiento de los objetos que se incorporen o se encuentren a bordo de las aeronaves a que se refieren las exenciones establecidas en el número anterior.
+La exención quedará condicionada a la concurrencia de los siguientes requisitos:
+1.º Que el destinatario de dichas operaciones sea el titular de la explotación de la aeronave a que se refieran.
+2.º Que los objetos mencionados se utilicen o, en su caso, se destinen a ser utilizados en la explotación de dichas aeronaves y a bordo de las mismas.
+3.º Que las operaciones a que se refieren las exenciones se realicen después de la matriculación de las mencionadas aeronaves en el Registro de Matrícula que se determine reglamentariamente.
+6. Las entregas de productos de avituallamiento para las aeronaves a que se refieren las exenciones establecidas en el apartado 4, cuando sean adquiridos por las compañías o entidades públicas titulares de la explotación de dichas aeronaves.
+7. Las prestaciones de servicios distintas de las relacionadas en los apartados anteriores de este artículo, realizadas para atender las necesidades directas de los buques y de las aeronaves a los que corresponden las exenciones establecidas en los apartados 1 y 4 anteriores, o para atender las necesidades del cargamento de dichos buques y aeronaves.
+Los servicios a que se refiere el párrafo anterior deberán tener por destinatarios a los titulares de la explotación de dichos buques o a las compañías o entidades públicas que utilizan dichas aeronaves.
+Por excepción a lo dispuesto en el párrafo anterior, estarán exentos los servicios de carga, estiba, descarga, desestiba y transbordo, relacionados con las necesidades de cargamento de los buques contemplados en el número 1 del presente artículo, prestados por profesionales estibadores, en nombre propio, a favor de empresas estibadoras y utilizados por estas en los servicios prestados, a su vez, a los titulares de la explotación de dichos buques.
+8. Las entregas de bienes y prestaciones de servicios realizadas en el marco de las relaciones diplomáticas y consulares en los casos y con los requisitos que se determinen reglamentariamente.
+9. Las entregas de bienes y las prestaciones de servicios destinadas a los Organismos internacionales reconocidos por España o al personal de dichos organismos con estatuto diplomático, dentro de los límites y con las condiciones fijadas en los convenios internacionales por los que se crean tales organismos o en los acuerdos de sede que sean aplicables en cada caso.
+En particular, se incluirán en este apartado las entregas de bienes y las prestaciones de servicios destinadas a la Comunidad Europea, a la Comunidad Europea de la Energía Atómica, al Banco Central Europeo o al Banco Europeo de Inversiones, o a los organismos creados por las Comunidades a los que se aplica el Protocolo de 8 de abril de 1965 sobre los privilegios y las inmunidades de las Comunidades Europeas, dentro de los límites y conforme a las condiciones de dicho Protocolo y a los acuerdos para su aplicación o a los acuerdos de sede, siempre que con ello no se provoquen distorsiones en la competencia.
+Asimismo, se incluirán en este apartado las entregas de bienes y las prestaciones de servicios destinadas a la Comisión o a un órgano u organismo establecidos con arreglo al Derecho de la Unión, cuando la Comisión o dicho órgano u organismo adquieran dichos bienes o servicios en el ejercicio de las tareas que les confiere el Derecho de la Unión en respuesta a la pandemia de COVID-19, excepto en caso de que los bienes y servicios adquiridos se utilicen, inmediatamente o en una fecha posterior, para entregas ulteriores a título oneroso por parte de la Comisión o de dicho órgano u organismo.
+10. Las entregas de bienes y prestaciones de servicios efectuadas por las fuerzas de los demás Estados partes del Tratado del Atlántico Norte, en los términos establecidos en el Convenio entre los Estados partes de dicho Tratado relativo al estatuto de sus fuerzas.
+11. Las entregas de bienes y las prestaciones de servicios efectuadas con destino a otro Estado miembro y para:
+a) las fuerzas de cualquier Estado parte del Tratado del Atlántico Norte, distinto del propio Estado miembro de destino, en los términos establecidos en el Convenio entre los Estados partes de dicho Tratado relativo al estatuto de sus fuerzas;
+b) las fuerzas armadas de cualquier Estado miembro distinto del propio Estado miembro de destino, para uso de dichas fuerzas o del personal civil a su servicio, o para el abastecimiento de sus comedores o cantinas, siempre que dichas fuerzas estén afectadas a un esfuerzo de defensa realizado para llevar a cabo una actividad de la Unión en el ámbito de la política común de seguridad y defensa.
+12. Las entregas de oro al Banco de España.
+13. Los transportes de viajeros y sus equipajes por vía marítima o aérea procedentes de o con destino a un puerto o aeropuerto situado fuera del ámbito espacial del impuesto.
+Se entenderán incluidos en este número los transportes por vía aérea amparados por un único título de transporte que incluya vuelos de conexión aérea.
+14. Las prestaciones de servicios realizadas por intermediarios que actúen en nombre y por cuenta de terceros cuando intervengan en las operaciones descritas en el presente artículo.
+15. Las entregas de bienes o prestaciones de servicios exentas por aplicación de lo dispuesto en los números anteriores no comprenderán las que gocen de exención por aplicación del artículo 11 de esta ley y los artículos 50.uno, 90 y 110 de la Ley, de la Comunidad Autónoma de Canarias, 4/2012, de 25 de junio, de medidas administrativas y fiscales.
+Se modifica por el art. 80.3 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-2
+ Se modifica el apartado 7, con efectos desde el 1 de enero de 2011 por la disposición final 1.2.2 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se declara la inconstitucionalidad y nulidad del apartado 7, con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.
+ Se modifica el apartado 7, con efectos desde el 1 de enero de 2011 por la disposición final 27.2 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica el apartado 7 por el art. 8.1.8 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se suprime el apartado 12 por el art. 9.1 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+ Se modifican los apartados 1 y 2 por el art. 1.7 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Se modifican los apartados 1, 3, 4 y 12 y se añade el 13 y el 14 por el art. 3.3 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+ Téngase en cuenta la disposición transitoria única en cuanto a la aplicación de las exenciones previstas en este art.
+
+### Artículo 13
+
+Artículo 13. Exenciones relativas a los regímenes aduaneros y depósitos.
+1. Están exentas las siguientes operaciones relacionadas con la situación de depósito temporal, siempre que se cumpla, en su caso, lo dispuesto en la legislación aplicable y los bienes a que se refieran permanezcan reglamentariamente en la citada situación sin ser utilizados ni consumidos:
+1.º Las entregas de bienes que se encuentren en situación de depósito temporal, así como las prestaciones de servicios directamente relacionadas con las entregas de bienes anteriores y las realizadas mientras los bienes se mantengan en dicha situación.
+2.º Las prestaciones de servicios realizadas por intermediarios que actúen en nombre y por cuenta de terceros cuando intervengan en las operaciones descritas en el número 1.º anterior.
+2. También están exentas las siguientes operaciones relacionadas con los bienes importados en los regímenes de zona franca, tránsito, importación temporal, depósito aduanero o perfeccionamiento activo, mientras permanezcan en dichas situaciones y se cumpla, en su caso, lo dispuesto en la legislación aplicable:
+1.º Las entregas de los bienes que se encuentren al amparo de dichos regímenes y las prestaciones de servicios directamente relacionadas con dichas entregas.
+2.º Las prestaciones de servicios realizadas por intermediarios que actúen en nombre y por cuenta de terceros cuando intervengan en las operaciones descritas en el apartado anterior.
+3. Las prestaciones de servicios que se declaren exentas en los apartados 1 y 2 de este artículo no comprenderán, en ningún caso, las que gocen de exención en virtud del artículo 10 de esta ley.
+Se modifica por el art. 80.4 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-2
+
+### Artículo 14
+
+Artículo 14. Exenciones en importaciones definitivas de bienes.
+Están exentas del Impuesto las importaciones de bienes en las Islas Canarias y las prestaciones de servicios que a continuación se especifican, siempre que se cumplan las condiciones y requisitos exigidos por las normas de desarrollo de esta Ley y los demás establecidos en las disposiciones que les sean de aplicación.
+1. Las importaciones definitivas de los siguientes bienes:
+1.º La sangre y demás fluidos, tejidos y otros elementos del cuerpo humano para fines médicos o de investigación o para su procesamiento por idénticos fines.
+2.º Los buques de guerra, los afectos esencialmente a la navegación marítima internacional y los dedicados exclusivamente al salvamento, a la asistencia marítima o a la pesca costera, así como los objetos incorporados a los citados buques o que se destinen a ser utilizados para su explotación a bordo de los mismos, incluido el armamento de pesca.
+La exención no se extiende a las embarcaciones deportivas o de recreo.
+3.º Las aeronaves destinadas a ser utilizadas por entidades públicas en el cumplimiento de sus funciones públicas y las utilizadas exclusivamente por las compañías, que se dediquen esencialmente a la navegación aérea internacional y los objetos incorporados a las citadas aeronaves o que se utilicen para su explotación, situados a bordo de las mismas.
+4.º Los productos de avituallamiento que, desde la entrada en las islas Canarias hasta la llegada al puerto o puertos situados en dicho territorio y durante la permanencia en los mismos por el plazo necesario para el cumplimiento de sus fines, se hayan consumido o se encuentren a bordo de los buques a los que correspondan las exenciones de las entregas de productos de avituallamiento establecidas en el artículo 12, número 2, con las limitaciones previstas en dicho precepto.
+5.º Los productos de avituallamiento que, desde la entrada en las islas Canarias hasta la llegada al aeropuerto o aeropuertos situados en dicho territorio y durante la permanencia en los mismos por el plazo necesario para el cumplimiento de sus fines, se hayan consumido o se encuentren a bordo de las aeronaves a las que corresponden las exenciones de las entregas de productos de avituallamiento establecidas en el artículo 12, número 4, y en las condiciones previstas en él, que realicen navegación aérea internacional.
+6.º Los productos de avituallamiento que se importen por las empresas titulares de la explotación de los buques y aeronaves a que afectan las exenciones establecidas en el artículo 12, números 2 y 4, de esta Ley, con las limitaciones establecidas en dichos preceptos y para ser destinadas exclusivamente a los mencionados buques y aeronaves.
+7.º Las divisas, billetes de banco y monedas que sean medios legales de pago, a excepción de las monedas y billetes de colección y de las piezas de oro, plata y platino.
+8.º Los títulos valores.
+9.º Las pinturas y dibujos realizados a mano y las esculturas, grabados, estampas y litografías, siempre que, en todos los casos, se trate de obras originales y las importaciones se efectúen directamente por los autores de las mismas.
+2. Las importaciones de oro efectuadas por el Banco de España y las de oro en lingotes destinados a su depósito en entidades financieras para que sirva de respaldo a la emisión de certificados acreditativos de tales depósitos.
+3. Las importaciones definitivas que se indican a continuación, cuando el importador solicite la exención y se cumplan las condiciones y requisitos que se establezcan reglamentariamente.
+1.º Los bienes personales importados por personas físicas que trasladen su residencia habitual desde la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la Comunidad Económica Europea o desde terceros países, a Canarias.
+Se entiende por bienes personales los destinados al uso personal del interesado o a las necesidades de su hogar, siempre que dichos bienes, por su naturaleza o cantidad, no constituyan una expedición comercial ni se destinen a los fines de una actividad económica salvo los instrumentos portátiles necesarios para el ejercicio de la profesión u oficio del importador.
+Los bienes a que se refiere el apartado 28.º de este número 3 sólo podrán ser importados con exención hasta el límite de las cantidades que se admitan con exención en el régimen de viajeros regulado en dicho apartado. No obstante, cuando el interesado hubiese tenido su anterior residencia en la Península, Islas Baleares, Ceuta, Melilla u otro Estado miembro de la Comunidad Económica Europea, la exención se extenderá hasta el cuádruplo de dichas cantidades.
+La exención quedará condicionada al cumplimiento de los siguientes requisitos:
+a) Que los bienes se hubiesen adquirido en las condiciones normales de tributación del país de origen o procedencia, sin haberse beneficiado con ocasión de su salida de dichos países, de exención o devolución de los impuestos soportados.
+Se considerará cumplido este requisito cuando los bienes se hubiesen adquirido al amparo de las exenciones establecidas en los regímenes diplomático o consular o en favor de los miembros de los Organismos Internacionales reconocidos y con sede en el Estado de origen, con los límites y condiciones fijados por los Convenios Internacionales por los que se crean dichos Organismos o por los acuerdos de sede.
+b) Los vehículos de motor para circular por carretera, incluidos los remolques, caravanas, viviendas transportables, embarcaciones de recreo y aviones de turismo deberán haber estado afectos al uso de los interesados, antes del traslado de su residencia, durante un período mínimo de doce meses si se hubiesen beneficiado de las exenciones a que se refiere el párrafo segundo de la letra a) anterior, y de seis meses en los demás casos.
+Los bienes indicados en el párrafo anterior no podrán ser transmitidos, cedidos o arrendados durante los doce meses siguientes a su importación, salvo causa justificada.
+c) Los bienes diferentes a los comprendidos en la letra b) anterior que se hubiesen beneficiado de las exenciones a que se refiere el párrafo segundo de la letra a) precedente deberán haber estado afectos al uso de los interesados durante un periodo mínimo de seis meses antes del traslado de residencia.
+d) Que los interesados acrediten haber permanecido en su anterior residencia durante los siguientes períodos mínimos: ciento ochenta y cinco días por año natural, sí proceden de la Península, Islas Baleares, Ceuta, Melilla u otro Estado miembro de la Comunidad Económica Europea, y doce meses si proceden de países no pertenecientes a dicha Comunidad.
+2.º Los bienes personales importados por personas que, con ocasión de su matrimonio, trasladen su residencia desde la Península, Islas Baleares, Ceuta, Melilla o el extranjero a Canarias.
+La exención se extiende también a las importaciones de los regalos ofrecidos habitualmente con ocasión de matrimonio que reciban las personas a que se refiere el párrafo anterior, de quienes tengan su residencia habitual en otro territorio de la Comunidad Económica Europea y el valor unitario de los regalos no exceda de 350 euros, o de quienes tengan su residencia habitual fuera de dicha Comunidad y el valor unitario de los regalos no exceda de 200 euros.
+Cuando se trate de los bienes a que se refiere el apartado 28.º de este número 3, la exención se aplicará hasta los límites señalados en el apartado 1.º anterior para dichos bienes.
+La exención quedará condicionada a la concurrencia de los siguientes requisitos:
+a) Los establecidos en el párrafo cuarto del apartado 1.º anterior, letras a), b) y c).
+b) Que el interesado aporte la prueba de su matrimonio.
+c) Si la importación se efectuase antes de la celebración del matrimonio, la Administración podrá exigir la prestación de una garantía.
+3.º Los bienes personales importados por personas físicas que hubiesen adquirido la propiedad o el usufructo de dichos bienes por causa de muerte, cuando el adquirente tuviese su residencia habitual en el territorio de aplicación del Impuesto.
+También se aplicará la exención cuando el adquirente tuviese una residencia secundaria en el territorio de aplicación del Impuesto, si los bienes procediesen de la Península, Islas Baleares, Ceuta, Melilla u otro Estado miembro de la Comunidad Económica Europea.
+Cuando se trate de los bienes a que se refiere el apartado 28.º de este número 3, la exención sólo se aplicará en los límites establecidos en el apartado 1.º anterior.
+Igualmente, estarán exentas del Impuesto las importaciones de bienes personales cuya propiedad o usufructo hubiesen sido adquiridos por causa de muerte por entidades sin fines de lucro establecidas en el territorio de aplicación del Impuesto.
+4.º Los bienes personales que se importen por un particular para amueblar una residencia secundaria suya en Canarias.
+También se benefician de la exención los bienes personales que se destinen a la residencia habitual o a otra secundaria del importador en Canarias, procedentes de una residencia secundaría del mismo que se abandone en la Península, Islas Baleares, Ceuta, Melilla u otro Estado miembro de la Comunidad Económica Europea, siempre que dichos bienes hubiesen estado realmente destinados al uso del interesado en esta residencia secundaria con anterioridad a su abandono.
+La exención estará condicionada al cumplimiento de los siguientes requisitos:
+a) Los establecidos en el párrafo cuarto, letras a) y c) del apartado 1.º anterior.
+b) Que el importador fuese propietario de la vivienda secundaria, o arrendatario por un plazo mínimo de doce meses.
+c) Que los bienes correspondan al mobiliario normal de la vivienda secundaria.
+5.º Los efectos personales y objetos de mobiliario usados que pertenezcan a estudiantes que, teniendo su residencia habitual en la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o en Terceros Países, vengan a residir temporalmente a las Islas Canarias para efectuar sus estudios en este territorio. Asimismo, se incluyen en la exención los objetos e instrumentos usados que se utilicen normalmente por dichos estudiantes en la realización de sus estudios.
+La exención sólo se concederá una vez durante cada año escolar.
+6.º Los bienes que se enumeran a continuación cuya importación este desprovista de carácter comercial:
+a) Las condecoraciones otorgadas por las autoridades de la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o de Terceros Países a personas que tengan su residencia habitual en el territorio de las Islas Canarias.
+b) Las copas, medallas y objetos similares de carácter esencialmente simbólico, concedidos en la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o en Terceros Países a personas que tengan su residencia habitual en el territorio de las Islas Canarias, en homenaje a sus actividades artísticas, científicas, deportivas o públicas o en reconocimiento concreto, a condición de que sean importados por las mismas personas a quienes se hubiesen concedido.
+c) Las copas, medallas y objetos similares de carácter esencialmente simbólico, entregados gratuitamente por autoridades o personas establecidas en la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o en Terceros Países para ser entregados con idénticos fines a los señalados en la letra b) anterior, en el territorio de las Islas Canarias.
+d) Las recompensas, trofeos, recuerdos de carácter simbólico y de escaso valor, destinados a ser distribuidos gratuitamente a personas que tengan su residencia normal en el territorio de las Islas Canarias, con ocasión de congresos, reuniones de negocios o manifestaciones similares de carácter internacional.
+7.º Los envíos dirigidos a personas o Entidades autorizadas para recibirlos, de muestras de sustancias referenciadas autorizadas por la Organización Mundial de la Salud para el control de la calidad de las materias utilizadas para la fabricación de medicamentos.
+8.º Los bienes que, en concepto de obsequio y con carácter ocasional:
+a) Se importen por personas que hayan realizado una visita oficial a la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o a Terceros Países.
+b) Se importen por personas que efectúen una visita oficial a las islas Canarias para ser entregados a autoridades o Entidades oficiales de este territorio.
+c) Se envíen a las autoridades o Entidades oficiales de las Islas Canarias por autoridades o Entidades oficiales de la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o de Terceros Países.
+En todo caso, las exenciones de este apartado estarán limitadas por el contenido de las disposiciones aplicables en el tráfico internacional de viajeros.
+9.º Los bienes destinados a ser usados o consumidos durante su permanencia en las Islas Canarias por los Jefes de Estado extranjeros, por quienes los representen o tengan prerrogativas análogas a ellos, a condición de reciprocidad.
+10.º Los bienes donados al Rey de España.
+11.º Los siguientes bienes, importados por Entidades o establecimientos creados para el cumplimiento de fines caritativos o filantrópicos, siempre que se utilicen exclusivamente para sus finalidades específicas:
+a) Los adquiridos a título gratuito para ser distribuidos a personas necesitadas, con excepción de los productos alcohólicos relacionados en el apartado 1.º anterior, el tabaco en rama o manufacturado, el café, el té y los vehículos de motor distintos de las ambulancias.
+b) Los destinados a ser distribuidos a las víctimas de catástrofes producidas en las Islas Canarias.
+12.º Los bienes importados por Entidades o establecimientos autorizados para la asistencia a minusválidos, especialmente concebidos para la educación, empleo o promoción social de los mismos.
+13.º Las importaciones a título gratuito de animales especialmente preparados para ser utilizados en laboratorios y de sustancias biológicas y químicas procedentes de la Península, Islas Baleares, Ceuta, Melilla o de otro Estado miembro de la CEE, siempre que unos y otras se importen por establecimientos públicos o servicios dependientes de ellos, dedicados a la enseñanza o investigación científica o, previa autorización, por establecimientos privados dedicados a las mismas actividades.
+La importación onerosa o gratuita de sustancias biológicas o químicas procedentes de países situados fuera de la Comunidad Económica Europea, gozará de exención cuando se realice por los establecimientos a que se refiere el párrafo anterior y esté exenta, a su vez, del Arbitrio sobre la Producción e Importación en las Islas Canarias.
+14.º Las sustancias terapéuticas de origen humano y los reactivos para la determinación de los grupos sanguíneos o para el análisis de tejidos humanos, importados para ser utilizados exclusivamente con fines médicos o científicos.
+La exención comprenderá también los embalajes indispensables para el transpone de dichas sustancias y reactivos, así como los disolventes y accesorios para su conservación o utilización.
+15.º Los productos farmacéuticos destinados al uso de las personas o de los animales que participen en competiciones deportivas internacionales, en las cantidades precisas para cubrir sus necesidades durante el tiempo que permanezcan en las Islas Canarias.
+16.º Las muestras sin valor comercial estimable, que no puedan servir más que para gestionar pedidos de mercancías de la especie por ellas representada
+17.º Los impresos de carácter publicitario, tales como catálogos, listas de precios, instrucciones de uso o folletos comerciales que se refieran a los siguientes bienes o servicios:
+a) Mercancías destinadas a la venta o alquiler por una persona establecida en la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o en Terceros Países.
+b) Prestaciones de servicios ofrecidos por una persona establecida en la Península, Islas Baleares, Ceuta, Melilla o en otro Estado miembro de la CEE.
+c) Prestaciones de servicios en materia de transporte, seguros comerciales o banca ofrecidos por una persona establecida en un país no perteneciente a la Comunidad Económica Europea.
+La exención del presente apartado queda condicionada al cumplimiento de los siguientes requisitos:
+a’) Los impresos deberán llevar de forma visible el nombre de la Empresa que produzca, venda o alquile las mercancías o que ofrezca las prestaciones de servicios a que se refieran.
+b’) Cada envío comprenderá un solo documento o un único ejemplar de cada documento si se compone de varios documentos. No obstante, podrán realizarse envíos de varios ejemplares de un mismo documento, si su peso bruto total no excede de un kilogramo.
+c’) Los impresos no deberán ser objeto de envíos agrupados de un mismo remitente a un mismo destinatario.
+No obstante lo anterior, los requisitos de las letras b’) y c’) no se exigirán respecto de los impresos relacionados con bienes destinados a la venta o alquiler o con servicios ofrecidos por una persona establecida en la Península, Islas Baleares, Ceuta, Melilla o en otro Estado miembro de la Comunidad Económica Europea, si dichos impresos se hubiesen importado para ser distribuidos gratuitamente.
+18.º Los objetos de carácter publicitario sin valor comercial, remitidos gratuitamente por proveedores establecidos en la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o bien en Terceros Países, y que no tenga otra posible función que la publicidad.
+19.º Los siguientes bienes destinados a una exposición o manifestación:
+a) Las pequeñas muestras representativas de mercancías.
+b) Las que se utilicen exclusivamente en la realización de demostraciones.
+c) Los materiales de escaso valor para la decoración de los pabellones de los expositores.
+d) Los impresos publicitarios.
+Los bienes a que se refieren las letras anteriores sólo podrán destinarse a su distribución gratuita o a ser consumidos o destruidos en el curso de la exposición y su valor global o cantidad estará en relación con la naturaleza de la manifestación y la importancia de la participación del expositor.
+Las muestras y los impresos no podrán tener otra utilización que para fines publicitarios.
+No se comprenderán en las exposiciones o manifestaciones de este apartado las que se organicen con carácter privado en almacenes o locales comerciales para la venta de mercancías.
+En todo caso, quedarán excluidos de la exención los productos alcohólicos, el tabaco y los combustibles y carburantes.
+20.º Los bienes de inversión pertenecientes a empresas que cesen definitiva y totalmente en su actividad en la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o en Terceros Países y se trasladen a las Islas Canarias para iniciar en este territorio una actividad similar, siempre que la transferencia de la empresa no tenga por causa la fusión con otra empresa establecida en las Islas Canarias.
+Se excluyen de esta exención:
+a) Los medios de transporte que no tengan el carácter de instrumentos de producción o de servicios.
+b) Los productos aptos para la alimentación humana o animal.
+c) Los combustibles y las existencias de materias primas, productos semielaborados o terminados.
+21.º Los bienes que hayan de ser objeto de examen, análisis o ensayos para determinar su propia composición, calidad o características técnicas, con fines exclusivos de información o de investigación de carácter industrial o comercial.
+22.º Las marcas, modelos o dibujos, así como los expedientes relativos a la solicitud de patentes de invención o similares, destinados a los Organismos competentes en materia de protección de derechos de autor o de la propiedad industrial o comercial.
+23.º Los bienes destinados al acondicionamiento o a la alimentación en ruta de animales que, procedentes de la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o de Terceros Países, son conducidos por las Islas Canarias en cualquier medio de transporte, siempre que dichos bienes se encuentren a bordo de los medios de transporte y se utilicen o distribuyan en el curso de dicho recorrido.
+24.º Los carburantes contenidos en los depósitos de los vehículos automóviles industriales y de turismo y en los de los contenedores para usos especiales, que se introduzcan en el territorio de aplicación del Impuesto, en las condiciones y con los límites que se indican a continuación:
+a) Carburantes contenidos en los depósitos normales de los vehículos automóviles y contenedores para usos especiales:
+a’) Vehículos automóviles industriales procedentes de la Península, Islas Baleares, Ceuta, Melilla o de otro Estado miembro de la Comunidad Económica Europea y destinados al transporte de personas: Hasta 600 litros.
+b’) Los demás vehículos automóviles industriales: Hasta 200 litros.
+c’) Contenedores para usos especiales: Hasta 200 litros.
+Tratándose de vehículos distintos de los mencionados en las letras anteriores, no se aplicará ninguna limitación en relación a los carburantes contenidos en los depósitos normales de dichos vehículos.
+b) Carburantes contenidos en depósitos portátiles de los vehículos de turismo: Hasta 10 litros.
+La exención se aplicará, asimismo, a los lubricantes que se encuentren a bordo de los vehículos hasta los límites que correspondan a las necesidades normales de su funcionamiento durante el trayecto en curso.
+A los efectos de este artículo se entiende por:
+a) Vehículo automóvil industrial: Todo vehículo a motor apto para circular por carretera que, por sus características y equipamiento, resulte adecuado y esté efectivamente destinado al transporte, con o sin remuneración, de más de nueve personas, incluido el conductor, o de mercancías, así como para otros usos especiales distintos del transporte.
+b) Vehículo automóvil de turismo: Todo vehículo a motor apto para circular por carretera que no esté comprendido en el concepto de vehículo automóvil industrial.
+c) Contenedores para usos especiales: Todo contenedor equipado con dispositivos especialmente adaptados para los sistemas de refrigeración, oxigenación, aislamiento térmico u otros sistemas.
+d) Depósitos normales: Los depósitos, incluso los de gas, incorporados de una manera fija por el constructor en todos los vehículos de serie o en los contenedores de un mismo tipo, cuya disposición permita la utilización directa del carburante para la tracción del vehículo o, en su caso, para el funcionamiento de los sistemas de refrigeración o de cualquier otro con que esté equipado el vehículo o con los contenedores de usos especiales.
+Los carburantes admitidos con exención no podrán ser empleados en vehículos distintos de aquéllos en los que se hubiesen importado, extraídos de dichos vehículos ni almacenados, salvo los casos en que los vehículos fuesen objeto de una reparación necesaria o de una cesión onerosa o gratuita por parte del beneficiario de la exención. No concurriendo las condiciones indicadas, quedarán sujetas al Impuesto las cantidades de dichos productos que hubiesen recibido los destinos irregulares mencionados.
+25.º Los bienes destinados a la construcción, conservación o decoración de monumentos conmemorativos o cementerios militares de extranjeros en Canarias.
+26.º Los ataúdes y urnas que contengan cadáveres o los restos de su incineración y las flores, coronas y demás objetos de ornamento que normalmente les acompañan.
+27.º A) Los bienes contenidos en los equipajes personales de los viajeros, con las limitaciones y requisitos que se indican a continuación:
+Que las mencionadas importaciones no tengan carácter comercial.
+A efectos de este artículo, se considerará que los bienes conducidos por viajeros no constituyen una expedición comercial cuando se trate de bienes adquiridos ocasionalmente, que se destinen al uso personal o familiar de los viajeros o a ser ofrecidos como regalos y que, por su naturaleza y cantidad, no pueda presumirse que sean el objeto de una actividad comercial.
+Que el valor global de los citados bienes no exceda, por persona, de 430 euros.
+En todo caso, tratándose de viajeros menores de quince años de edad, el valor global admitido con exención será 150 euros.
+Cuando el valor global exceda de las cantidades indicadas, la exención se concederá hasta el límite de dichas cantidades, exclusivamente para aquellos bienes que, importados separadamente, hubiesen podido beneficiarse de la exención.
+Para la determinación de los límites de exención señalados anteriormente no se computará el valor de los bienes que sean objeto de importación temporal o de reimportación derivada de una previa exportación temporal, ni el de los medicamentos necesarios para uso normal del viajero.
+B) A los efectos de esta exención, se considerarán equipajes personales de los viajeros, el conjunto de equipajes que presenten en la oficina de la Administración Tributaria Canaria en el momento de su llegada, así como los que se presenten con posterioridad, siempre que se justifique que, en el momento de la salida, fueron registrados en la empresa responsable de su transporte como equipajes acompañados.
+No constituyen equipajes personales los combustibles que excedan de las siguientes cantidades:
+Los contenidos en los depósitos normales de combustible de los medios de transporte motorizados.
+Los contenidos en depósitos portátiles de combustible hasta un máximo de 10 litros.
+C) Sin perjuicio de lo establecido en la letra A) anterior, estarán exentas del Impuesto las siguientes importaciones de bienes:
+a) Labores del tabaco:
+Cigarrillos: 200 unidades;
+Puritos (cigarros con un peso máximo 3 gramos unidad): 100 unidades;
+Cigarros puros: 50 unidades;
+Tabaco para fumar: 250 gramos.
+Para todo viajero, la franquicia se podrá aplicar a cualquier combinación de labores del tabaco, siempre que el total de los porcentajes utilizados de cada franquicia autorizada no supere el 100 por ciento.
+b) Alcoholes y bebidas alcohólicas:
+Bebidas destiladas y bebidas espirituosas de una graduación alcohólica superior a 22 por 100 vol.; alcohol etílico, no desnaturalizado, de 80 por 100 vol. o más: 1 litro en total;
+Bebidas destiladas y bebidas espirituosas, aperitivos a base de vino o de alcohol, tafia, sake o bebidas similares de una graduación alcohólica igual o inferior a 22 por 100 vol; vinos espumosos y generosos: 2 litros en total;
+Otros vinos: 4 litros en total;
+Cerveza: 16 litros en total.
+Para todo viajero, la franquicia se podrá aplicar a cualquier combinación de los tipos de alcohol y bebidas alcohólicas mencionados, siempre que el total de los porcentajes utilizados de cada franquicia autorizada no supere el 100 por ciento.
+El valor de estos bienes no se computará para la determinación de los límites de valor global señalados en la letra A) precedente.
+Los viajeros menores de diecisiete años de edad no se beneficiarán de las exenciones señaladas en las letras a) y b) anteriores.
+D) Los límites previstos para la exención del Impuesto que se establecen en este apartado se reducirán a la décima parte de las cantidades señaladas cuando los bienes a que se refieran se importen por el personal de los medios de transporte utilizados en el tráfico exterior y con ocasión de los desplazamientos efectuados en el ejercicio de sus actividades profesionales.
+28.º Los pequeños envíos de mercancías remitidos sin contraprestación por un particular residente en la Península, Islas Baleares, Ceuta, Melilla u otro Estado miembro de la CEE a otro particular residente en Canarias en las cantidades y condiciones que se fijen reglamentariamente.
+29.º Las publicaciones oficiales de la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o de Terceros Países, los impresos, folletos, carteles, anuarios, material técnico y otros análogos fines de propaganda turística para ser distribuidos gratuitamente o con destino a las agencias oficiales de turismo acreditadas en las Islas Canarias, siempre que no se contengan en ellos más de un 25 por 100 de publicidad comercial.
+30.º Las fotografías, diapositivas, y clichés para fotografías, incluso los que lleven leyendas, remitidos a agencias de prensa o a editores de diarios o publicaciones periódicas.
+31.º Los materiales audiovisuales de carácter educativo, científico o cultural producidos por la Organización de la Naciones Unidas o cualquiera de sus organismos en los términos y con los requisitos que se especifiquen reglamentariamente.
+32.º Los objetos de colección u objetos de arte de carácter educativo, científico o cultural; que se importen por museos, galerías u otros establecimientos para destinarlos exclusivamente a su exposición.
+La exención quedará condicionada a que se trate de una importación de bienes adquiridos a título gratuito o, tratándose de adquisiciones a título oneroso, a que los, bienes hubiesen sido entregados por una persona o Entidad que no fuese empresario ni profesional.
+33.º Los objetos destinados a servir de prueba o a fines similares ante los Tribunales u otras instancias oficiales de los Estados miembros de la Comunidad Económica Europea.
+34.º Los siguientes documentos y artículos:
+a) Los documentos enviados gratuitamente a los servicios públicos de los Estados miembros de la Comunidad Económica Europea.
+b) Las publicaciones de gobiernos extranjeros y las publicaciones de Organismos públicos internacionales destinadas a ser distribuidas gratuitamente.
+c) Las papeletas de voto para elecciones organizadas por Entes u Organismos establecidos en la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o en Terceros Países.
+d) Los reconocimientos de firmas y las circulares impresas relativas a firmas, expedidos en el marco de intercambios usuales de información entre servicios públicos o establecimientos bancarios.
+e) Los impresos de carácter oficial dirigidos a los Bancos centrales de los Estados miembros de la Comunidad Económica Europea.
+f) Los informes, memorias de actividades, notas de información, prospectos, boletines de suscripción y otros documentos expedidos por Sociedades que no tengan su sede en las Islas Canarias y dirigidos a los tenedores o suscriptores de los títulos emitidos por tales Sociedades.
+g) Las fichas perforadas, registros sonoros, microfilmes y otros soportes grabados utilizados para la transmisión de información, remitidos gratuitamente a su destinatario.
+h) Los expedientes, archivos, formularios y demás documentos destinados a ser utilizados en reuniones, conferencias o congresos internacionales, así como las actas y resúmenes de estas manifestaciones.
+i) Los planos, dibujos técnicos, copias, descripciones y demás documentos similares importados para la obtención o ejecución de pedidos en la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o en Terceros Países o para participar en concursos organizados en el territorio de las Islas Canarias.
+j) Los formularios destinados a ser utilizados en exámenes organizados en el territorio de las Islas Canarias por instituciones establecidas en otro país o en la Península, Islas Baleares, Ceuta y Melilla.
+k) Los formularios destinados a ser utilizados como documentos oficiales en el tráfico internacional de vehículos o mercancías, en cumplimiento de convenciones internacionales.
+I) Los formularios, etiquetas, títulos de transporte y documentos similares expedidos por Empresas de transporte o Empresas hoteleras establecidas en la Península, Islas Baleares, Ceuta, Melilla o en un país extranjero con destino a las oficinas de viaje establecidas en el territorio de las Islas Canarias.
+m) Los formularios y títulos de transporte, conocimientos de embarque, cartas de porte y demás documentos comerciales o de oficina ya utilizados.
+n) Los impresos oficiales emitidos por las autoridades nacionales o internacionales y los impresos conforme a modelos internacionales dirigidos por asociaciones de la Península, Islas Baleares, Ceuta, Melilla, o el extranjero a las asociaciones correspondientes situadas en las Islas Canarias, para su distribución.
+ñ) Las publicaciones oficiales que constituyan el medio de expresión de la autoridad pública del país de exportación, de Organismos internacionales, de Entidades públicas y Organismos de derecho público, establecidos en el territorio de exportación, así como los impresos distribuidos por organizaciones políticas extranjeras reconocidas oficialmente como tales en los Estados miembros de la Comunidad Económica con motivo de elecciones al Parlamento Europeo o de elecciones nacionales organizadas a partir del país de origen, siempre que dichas publicaciones e impresos hayan estado sujetos al Impuesto en el país de exportación y no hayan sido objeto de desgravación a la exportación.
+35.º Los signos de franqueo, efectos estancados y efectos timbrados, tales como sellos de correos, pólizas, letras de cambio, cheques y precintas fiscales.
+36.º Los impresos, boletos o cupones que sirvan como soporte para la celebración de loterías, apuestas y juegos organizados por el Organismo Nacional de Loterías y Apuestas del Estado, la Organización Nacional de Ciegos y, en su caso, por los órganos correspondientes de la Comunidad Autónoma de Canarias.
+37.º(Suprimido)
+38.º(Suprimido)
+39.º Los signos de franqueo, efectos estancados y efectos timbrados, tales como sellos de correos, pólizas, letras de cambio, cheques y precintas fiscales.
+40.º Los impresos, boletos o cupones que sirvan como soporte para la celebración de loterías, apuestas y juegos organizados por el Organismo Nacional de Loterías y Apuestas del Estado, la Organización Nacional de Ciegos y, en su caso, por los órganos correspondientes de la Comunidad Autónoma de Canarias.
+4. La reimportación de bienes realizada por quien efectuó la exportación temporal de los mismos a Terceros Países o su envío con carácter temporal a la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE, siempre que se presenten en el mismo estado en que salieron.
+La exención alcanzará también a la reimportación de los despojos y restos de buques nacionales naufragados en el extranjero, previa justificación documental del siniestro y de la pertenencia de dichos bienes al buque naufragado.
+Cuando se trate de bienes que no se presenten en el mismo estado en que salieron, por haber sido objeto en la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o en Terceros Países de una reparación, trabajo, transformación o incorporación de otros bienes, su reimportación sólo estará exenta en los siguientes casos:
+1.º Cuando las operaciones indicadas se realicen a título gratuito, en virtud de una obligación contractual o legal de garantía o como consecuencia de un vicio de fabricación.
+2.º Cuando dichas operaciones se realicen en buques o aeronaves nacionales cuya entrega o importación esté exenta, en virtud de lo establecido en el artículo 12 de esta Ley y en el presente artículo.
+5. La reimportación de bienes realizada por quien los envió temporalmente a la Península, Islas Baleares, Ceuta, Melilla, o a otro Estado de la Comunidad Económica Europea, cuando dichos bienes hayan sido objeto en estos territorios de un trabajo gravado por idéntico o análogo tributo al Impuesto General Indirecto Canario, sin derecho a deducción o devolución.
+6. Las importaciones efectuadas en los puertos por los armadores de buques de los productos de pesca que procedan directamente de sus capturas y que no hayan sido objeto de operaciones de transformación. A estos efectos, no se consideran operaciones de transformación las encaminadas a conservar los productos para su comercialización, realizadas antes de la primera entrega de los mismos.
+7. Las prestaciones de servicios, distintas de las declaradas exentas en el artículo 10 de esta Ley cuya contraprestación esté incluida en la base imponible de las importaciones de bienes a que se refieran, de acuerdo con lo establecido en el apartado 2.º del artículo 25 de esta Ley.
+8. Las importaciones en régimen diplomático consular conforme a la legislación que le sea aplicable.
+9. Las importaciones efectuadas por Organismos internacionales reconocidos por España y las realizadas por sus miembros con estatuto diplomático y su personal técnico y administrativo, con los límites y en las condiciones fijadas reglamentariamente o establecidas en los Convenios Internacionales por los que se crean tales organismos o en los Acuerdos sobre la sede de los mismos.
+En particular, estarán exentas del Impuesto las importaciones de bienes realizadas por la Comunidad Europea, la Comunidad Europea de la Energía Atómica, el Banco Central Europeo o el Banco Europeo de Inversiones, o por los organismos creados por las Comunidades a los que se aplica el Protocolo de 8 de abril de 1965 sobre los privilegios y las inmunidades de las Comunidades Europeas, dentro de los límites y conforme a las condiciones de dicho Protocolo y a los acuerdos para su aplicación o a los acuerdos de sede, siempre que dicha exención no provoque distorsiones en la competencia.
+Asimismo, estarán exentas del Impuesto las importaciones de bienes realizadas por la Comisión o por un órgano u organismo establecidos con arreglo al Derecho de la Unión, cuando la Comisión o dicho órgano u organismo los importen en el ejercicio de las funciones que les confiere el Derecho de la Unión en respuesta a la pandemia de COVID-19, salvo en caso de que los bienes importados se utilicen, inmediatamente o en una fecha posterior, para entregas ulteriores a título oneroso por parte de la Comisión o de dicho órgano u organismo.
+10. Los bienes importados al amparo de Convenios Internacionales vigentes en España en materia de cooperación cultural, científica o técnica.
+11. Las importaciones de bienes cuyo valor global no exceda de 150 euros.
+Se exceptúan de lo dispuesto en el párrafo anterior:
+a) Los productos alcohólicos comprendidos en los códigos NC 22.03 a 22.08 del Arancel Aduanero.
+b) Los perfumes y aguas de colonia.
+c) El tabaco en rama o manufacturado.
+12. Las importaciones de armamento, munición y material de uso específicamente militar que se requiera para la realización del programa de inversiones y sostenimiento de las Fuerzas Armadas.
+Se incluyen en este apartado las importaciones de bienes efectuadas por:
+a) las fuerzas de los demás Estados partes del Tratado del Atlántico Norte, en los términos establecidos en el Convenio entre los Estados partes de dicho Tratado relativo al estatuto de sus fuerzas;
+b) las fuerzas armadas de cualquier Estado miembro distinto de España, para uso de dichas fuerzas o del personal civil a su servicio, o para el abastecimiento de sus comedores o cantinas, siempre que dichas fuerzas estén afectadas a un esfuerzo de defensa realizado para llevar a cabo una actividad de la Unión en el ámbito de la política común de seguridad y defensa.
+Se modifican los apartados 9 y 12 por el art. 80.5 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-2
+ Se modifica el apartado 11 por la disposición final 2.1 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+ Se modifican los apartados 1.7 y 9, con efectos desde el 1 de enero de 2011 y el apartado 11, con efectos desde el 1 de enero de 2010 por la disposición final 1.1.1 y 2.3 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se declara la inconstitucionalidad y nulidad de los apartados 1.7, 9 y 11, con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.
+ Se modifican los apartados 1.7 y 9, con efectos desde el 1 de enero de 2011 y el apartado 11, con efectos desde el 1 de enero de 2010 por la disposición final 27.3 y 28.1 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifican los apartados 3.27 y 11 por el art. 6.5 y 6 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Se modifican los apartados 3.2 y 11 por el art. 10.1.3 y 4 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica el apartado 9 por el art. 8.1.9 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifica el apartado 3, se suprime el 11 y se renumeran el 12 y el 13 como 11 y 12 por el art. 1.8 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Se modifica el apartado 3, se suprime el 11 y se renumeran el 12 y el 13 como 11 y 12 por el art. 1.7 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+ Se modifica el apartado 1 y se añade el 13 por el art. 3.4 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+
+### Artículo 15
+
+Artículo 15. Exenciones en regímenes especiales de importación.
+1. Están exentas las operaciones que se relacionan a continuación siempre que se realicen de acuerdo con lo dispuesto en la legislación aplicable en las Islas Canarias:
+a) Las importaciones de bienes en los regímenes de tránsito o de importación temporal y las realizadas al amparo del sistema de suspensión del régimen de perfeccionamiento activo cuando los bienes a que se refieran permanezcan en los regímenes o sistemas indicados sin ser consumidos ni utilizados en fines distintos de aquellos para los que se autorizó su importación.
+La exención podrá condicionarse a la presentación de una garantía suficiente para afianzar el pago de la deuda tributaria que resulte del incumplimiento de los requisitos establecidos para cada uno de los regímenes o sistemas citados.
+b) Las importaciones de bienes que se coloquen en zonas o Depósitos Francos o en régimen de Depósito, mientras permanezcan en dichas situaciones sin ser utilizados o consumidos.
+c) Las prestaciones de servicios, incluidas las de transporte y operaciones accesorias al mismo relacionadas directamente con las importaciones exentas descritas en los apartados a) y b) anteriores.
+La exención no alcanza a las prestaciones de servicios que tengan por objeto la utilización o cesión por cualquier titulo de los bienes importados al amparo del régimen de importación temporal.
+d) Las prestaciones de servicios realizadas por intermediarios que actúen en nombre y por cuenta de terceros cuando intervengan en las operaciones descritas en los apartados a), b) y c) anteriores.
+2. Las prestaciones de servicios que se declaran exentas en el apartado 1 anterior de este artículo no comprenderán, en ningún caso, las que gocen de exención en virtud de lo establecido en el artículo 10 de esta Ley.
+
+## CAPÍTULO III
+
+Lugar de realización del hecho imponible por el concepto de entregas de bienes y prestaciones de servicios en las relaciones internacionales y con la Península, Islas Baleares, Ceuta y Melilla
+
+### Artículo 16
+
+Artículo 16. Lugar de realización de las entregas de bienes.
+El lugar de realización de las entregas de bienes se determinará según las reglas siguientes:
+Uno. Las entregas de bienes que no sean objeto de expedición o transporte, se entenderán realizadas en el territorio de aplicación del Impuesto cuando los bienes se pongan a disposición del adquirente en dicho territorio.
+Dos. También se entenderán realizadas en el territorio de aplicación del impuesto:
+1.º Las entregas de bienes muebles corporales que deban ser objeto de expedición o transporte para su puesta a disposición del adquirente, cuando la expedición o transporte se inicien en el referido territorio.
+No obstante lo dispuesto en el párrafo anterior, cuando el lugar de iniciación de la expedición o del transporte de los bienes que hayan de ser objeto de importación esté situado fuera del referido territorio, las entregas de los mismos efectuadas por el importador y, en su caso, por sucesivos adquirentes se entenderán realizadas en el territorio de aplicación del Impuesto.
+2.º Las entregas de los bienes que hayan de ser objeto de instalación o montaje antes de su puesta a disposición, cuando la instalación se ultime en el referido territorio y, siempre que, la instalación o montaje implique la inmovilización de los bienes entregados.
+3.º Las entregas de bienes inmuebles que radiquen en dicho territorio.
+4.º Las entregas de bienes a los pasajeros que se efectúen a bordo de un buque o de un avión, cuyo lugar de inicio y finalización se encuentre en el territorio de aplicación del Impuesto y no efectúe escala en puertos o aeropuertos sitos fuera de dicho territorio.
+Cuando se trate de un transporte de ida y vuelta, el trayecto de vuelta se considerará como un transporte distinto.
+A los efectos de este apartado, se considerará como lugar de inicio, el primer lugar previsto para el embarque de pasajeros en el territorio de aplicación del Impuesto, incluso después de la última escala fuera de dicho territorio.
+Tres. Las entregas de gas a través de una red de gas natural situada en el territorio de la Comunidad o de cualquier red conectada a dicha red, las entregas de electricidad o las entregas de calor o de frío a través de las redes de calefacción o de refrigeración, se entenderán efectuadas en el territorio de aplicación del Impuesto en el supuesto que se cita a continuación:
+Las efectuadas a un empresario o profesional revendedor, cuando este tenga la sede de su actividad económica o posea un establecimiento permanente o, en su defecto, su domicilio en el citado territorio, siempre que dichas entregas tengan por destinatarios a dicha sede, establecimiento permanente o domicilio.
+A estos efectos, se entenderá por empresario o profesional revendedor aquél cuya actividad principal respecto de las compras de gas, electricidad, calor o frío, consista en su reventa y el consumo propio de los mismos sea insignificante.
+Se modifica el apartado 2.2 por el art. 2.3 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica por el art. 17.3 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+
+### Artículo 17
+
+Artículo 17. Lugar de realización de las prestaciones de servicios.
+Uno. Reglas generales.
+Las prestaciones de servicios se entenderán realizadas en el territorio de aplicación del Impuesto en los siguientes casos:
+1. Cuando el destinatario sea un empresario o profesional que actúe como tal y radique en el citado territorio la sede de su actividad económica, o tenga en el mismo un establecimiento permanente o, en su defecto, el lugar de su domicilio o residencia habitual, siempre que se trate de servicios que tengan por destinatarios a dicha sede, establecimiento permanente, domicilio o residencia habitual, con independencia de dónde se encuentre establecido el prestador de los servicios y del lugar desde el que los preste.
+2. Cuando el destinatario no sea un empresario o profesional actuando como tal, siempre que los servicios se presten por un empresario o profesional y la sede de su actividad económica o establecimiento permanente desde el que los preste o, en su defecto, el lugar de su domicilio o residencia habitual, se encuentre en el territorio de aplicación del Impuesto.
+3. Por excepción a lo expresado en el número 2 anterior, no se entenderán realizados en el territorio de aplicación del Impuesto:
+Los servicios que se enumeran a continuación cuando el destinatario de los mismos esté establecido o tenga su domicilio o residencia habitual fuera de la Unión Europea:
+Las cesiones y concesiones de derechos de autor, patentes, licencias, marcas de fábrica o comerciales y los demás derechos de propiedad intelectual o industrial, así como cualesquiera otros derechos similares.
+La cesión o concesión de fondos de comercio, de exclusivas de compra o venta o del derecho a ejercer una actividad profesional.
+Los de publicidad.
+Los de asesoramiento, auditoría, ingeniería, gabinete de estudios, abogacía, consultores, expertos contables o fiscales y otros similares, con excepción de los comprendidos en el apartado 1 del número Uno del punto Tres de este artículo.
+Los de tratamiento de datos y el suministro de informaciones, incluidos los procedimientos y experiencias de carácter comercial.
+Los de traducción, corrección o composición de textos, así como los prestados por intérpretes.
+Los de seguro, reaseguro y capitalización, así como los servicios financieros, citados respectivamente por el artículo 50.Uno.16.º y 18.º de la Ley de la Comunidad Autónoma de Canarias 4/2012, de 25 de junio, de medidas administrativas y fiscales, incluidos los que no estén exentos, con excepción del alquiler de cajas de seguridad.
+Los de cesión de personal.
+El doblaje de películas.
+Los arrendamientos de bienes muebles corporales, con excepción de los que tengan por objeto cualquier medio de transporte y los contenedores.
+La provisión de acceso a los sistemas de distribución de gas natural, electricidad, calefacción o refrigeración, y su transporte o transmisión a través de dichos sistemas, así como la prestación de otros servicios directamente relacionados con cualesquiera de los servicios comprendidos en este párrafo.
+Las obligaciones de no prestar, total o parcialmente, cualquiera de los servicios enunciados en este número.
+Dos. A efectos de esta Ley, se entenderá por:
+– Sede de la actividad económica: lugar en el que los sujetos pasivos centralicen la gestión y el ejercicio habitual de su actividad empresarial o profesional.
+– Establecimiento permanente: cualquier lugar fijo de negocios donde los sujetos pasivos realicen actividades empresariales o profesionales.
+En particular, tendrán esta consideración:
+a) La sede de dirección, sucursales, oficinas, fábricas, talleres, instalaciones, tiendas y, en general, las agencias o representaciones autorizadas para contratar en nombre y por cuenta del sujeto pasivo.
+b) Las minas, canteras o escoriales, pozos de petróleo o de gas u otros lugares de extracción de productos naturales.
+c) Las obras de construcción, instalación o montaje cuya duración exceda de doce meses.
+d) Las explotaciones agrarias, forestales o pecuarias.
+e) Las instalaciones explotadas con carácter de permanencia por un empresario o profesional para el almacenamiento y posterior entrega de sus mercancías.
+f) Los centros de compras de bienes o de adquisición de servicios.
+g) Los bienes inmuebles explotados en arrendamiento o por cualquier título.
+– Servicios de telecomunicación: aquellos servicios que tengan por objeto la transmisión, emisión y recepción de señales, textos, imágenes y sonidos o información de cualquier naturaleza, por hilo, radio, medios ópticos u otros medios electromagnéticos, incluyendo la cesión o concesión de un derecho al uso de medios para tal transmisión, emisión o recepción e, igualmente, la provisión de acceso a redes informáticas.
+– Servicios prestados por vía electrónica: aquellos servicios que consistan en la transmisión enviada inicialmente y recibida en destino por medio de equipos de procesamiento, incluida la compresión numérica y el almacenamiento de datos, y enteramente transmitida, transportada y recibida por cable, radio, sistema óptico u otros medios electrónicos y, entre otros, los siguientes:
+a) El suministro y alojamiento de sitios informáticos.
+b) El mantenimiento a distancia de programas y de equipos.
+c) El suministro de programas y su actualización.
+d) El suministro de imágenes, texto, información y la puesta a disposición de bases de datos.
+e) El suministro de música, películas, juegos, incluidos los de azar o de dinero, y de emisiones y manifestaciones políticas, culturales, artísticas, deportivas, científicas o de ocio.
+f) El suministro de enseñanza a distancia.
+A estos efectos, el hecho de que el prestador de un servicio y su destinatario se comuniquen por correo electrónico no implicará, por sí mismo, que el servicio prestado tenga la consideración de servicio prestado por vía electrónica.
+– Servicios de radiodifusión y televisión: aquellos servicios consistentes en el suministro de contenidos de audio y audiovisuales, tales como los programas de radio o de televisión suministrados al público a través de las redes de comunicaciones por un prestador de servicios de comunicación, que actúe bajo su propia responsabilidad editorial, para ser escuchados o vistos simultáneamente siguiendo un horario de programación.
+Tres. Reglas especiales.
+Uno. Se entenderán prestados en el territorio de aplicación del Impuesto los siguientes servicios:
+1. Los relacionados con bienes inmuebles que radiquen en el citado territorio.
+Se considerarán relacionados con bienes inmuebles, entre otros, los siguientes servicios:
+a) El arrendamiento o cesión de uso por cualquier título de dichos bienes, incluidas las viviendas amuebladas.
+b) Los relativos a la preparación, coordinación y realización de las ejecuciones de obra inmobiliarias.
+c) Los de carácter técnico relativos a dichas ejecuciones de obra, incluidos los prestados por arquitectos, arquitectos técnicos e ingenieros.
+d) Los de gestión relativos a bienes inmuebles u operaciones inmobiliarias.
+e) Los de vigilancia o seguridad relativos a bienes inmuebles.
+f) Los de alquiler de cajas de seguridad.
+g) La utilización de vías de peaje.
+h) Los de alojamiento en establecimientos de hostelería, acampamento y balneario.
+2. Los de transporte que se citan a continuación, por la parte de trayecto que discurra por el territorio de aplicación del Impuesto tal y como éste se define en el artículo 3 de esta Ley:
+a) Los de transporte de pasajeros, cualquiera que sea su destinatario.
+b) Los de transporte de bienes cuando el destinatario no sea un empresario o profesional actuando como tal.
+3. El acceso a manifestaciones culturales, artísticas, deportivas, científicas, educativas, recreativas o similares, como las ferias y exposiciones, y los servicios accesorios al mismo, siempre que su destinatario sea un empresario o profesional actuando como tal y dichas manifestaciones tengan lugar efectivamente en el citado territorio.
+4. Los prestados por vía electrónica cuando el destinatario no sea un empresario o profesional actuando como tal, siempre que éste se encuentre establecido o tenga su residencia o domicilio habitual en el territorio de aplicación del Impuesto.
+5. Los de restaurante y catering que se presten materialmente en el territorio de aplicación del Impuesto.
+6. Los de restaurante y catering prestados a bordo de un buque o de un avión en el curso de un transporte de pasajeros cuyo lugar de inicio y finalización se encuentre en el territorio de aplicación del Impuesto y no efectúe escala en puertos o aeropuertos sitos fuera de dicho territorio.
+Cuando se trate de un transporte de ida y vuelta, el trayecto de vuelta se considerará como un transporte distinto.
+A los efectos de lo expresado en el primer párrafo de este número, se considerará lugar de inicio el primer lugar previsto para el embarque de pasajero en el territorio de aplicación del Impuesto, incluso después de la última escala fuera de dicho territorio.
+7. Los de mediación en nombre y por cuenta ajena cuyo destinatario no sea un empresario o profesional actuando como tal, siempre que las operaciones respecto de las que se intermedie se entiendan realizadas en el territorio de aplicación del Impuesto de acuerdo con lo dispuesto en esta Ley.
+8. Los que se enuncian a continuación, cuando se presten materialmente en dicho territorio y su destinatario no sea un empresario o profesional actuando como tal:
+a) Los servicios accesorios a los transportes tales como la carga y descarga, transbordo, manipulación y servicios similares.
+b) Los trabajos y las ejecuciones de obra realizados sobre bienes muebles corporales y los informes periciales, valoraciones y dictámenes relativos a dichos bienes.
+c) Los servicios relacionados con manifestaciones culturales, artísticas, deportivas, científicas, educativas, recreativas, juegos de azar o similares, como las ferias y exposiciones, incluyendo los servicios de organización de los mismos y los demás servicios accesorios a los anteriores.
+9. Los de telecomunicaciones, de radiodifusión y de televisión, cuando el destinatario no sea un empresario o profesional actuando como tal, siempre que éste se encuentre establecido o tenga su residencia o domicilio habitual en el territorio de aplicación del Impuesto.
+10. A) Los servicios de arrendamiento de medios de transporte en los siguientes casos:
+a) Los de arrendamiento a corto plazo cuando los medios de transporte se pongan efectivamente a disposición del destinatario en el citado territorio.
+b) Los de arrendamiento a largo plazo cuando el destinatario no tenga la condición de empresario o profesional actuando como tal siempre que se encuentre establecido o tenga su domicilio o residencia habitual en el citado territorio.
+No obstante, cuando los arrendamientos a largo plazo cuyo destinatario no sea un empresario o profesional actuando como tal tengan por objeto embarcaciones de recreo, se entenderán prestados en el territorio de aplicación del Impuesto cuando éstas se pongan efectivamente a disposición del destinatario en el mismo siempre que el servicio sea realmente prestado por un empresario o profesional desde la sede de su actividad económica o un establecimiento permanente situado en dicho territorio.
+B) A los efectos de lo dispuesto en este número, se entenderá por corto plazo la tenencia o el uso continuado de los medios de transporte durante un periodo ininterrumpido no superior a treinta días y, en el caso de los buques, no superior a noventa días.
+Dos. Asimismo, se considerarán prestados en el territorio de aplicación del Impuesto los servicios que se enumeran a continuación cuando, conforme a las reglas referentes al lugar de realización aplicable a estos servicios, contenidas en el presente artículo, no se entiendan realizados en la Unión Europea, pero su utilización o explotación efectivas se realicen en el territorio de aplicación del impuesto:
+1.º Los enunciados en el número 3 del apartado uno de este artículo y los de arrendamiento de medios de transporte, cuyo destinatario no tenga la consideración de empresario o profesional actuando como tal.
+2.º Los de seguros, reaseguros y capitalización, así como los servicios financieros, referidos en el número 3 del apartado uno de este artículo, y los de arrendamiento de medios de transporte cuyo destinatario sea un empresario o profesional actuando como tal.
+Se modifica el apartado dos del apartado tres por el art. 81 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-3
+ Se modifica, con efectos de 1 de enero de 2021, el apartado Tres.Dos por la disposición final 3 de la Ley 2/2022, de 24 de febrero. Ref. BOE-A-2022-2977#df-3
+ Se modifican los apartados 1.3, 2, 3.1.4 y 9 y 3.2 y con efectos desde el 1 de enero de 2010 el apartado 3.1.2, por el art. 2.4 y la disposición final 1.1.2 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Téngase en cuenta que la disposición final 1.3 de la citada ley, modifica la redacción de la letra a) del apartado 1.3 con efectos desde el 1 de enero de 2011 y hasta el 31 de diciembre de 2014.
+ Se declara la inconstitucionalidad y nulidad de los apartados 1.3.a) y 3.1.2, con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.
+ Se modifica el apartado 1.3.a), con efectos desde el 1 de enero de 2011 y el apartado 3.1.2, con efectos desde el 1 de enero de 2010 por la disposición final 27.4 y 28.2 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica por el art. 2.5 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366.
+ Esta modificación tiene efectos desde el 1 de enero de 2010, según establece la disposición final 4, con las excepciones indicadas en las disposiciones transitorias 4 a 6.
+ Se modifica el apartado 2.5.A).e) por el art. 12.1.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se modifica por el art. 8.5 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el apartado 2.1 y se añade el 2.6 por el art. 10.1.5 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se suprime el apartado 2.3.b) por el art. 8.1.10 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifica el apartado 2.4 por el art. 9.2 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+ Se modifican los apartados 2.3, 4 y 5 por el art. 1.9 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que estos apartados ya estaban modificados por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifican los apartados 2.3, 4 y 5 por el art. 1.8 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+## CAPÍTULO IV
+
+Devengo del Impuesto
+
+### Artículo 18
+
+Artículo 18. Devengo del Impuesto.
+Uno. Se devengará el Impuesto:
+1.º En las entregas de bienes, cuando tenga lugar su puesta a disposición del adquirente o, en su caso, cuando se efectúen conforme a la legislación que les sea aplicable.
+No obstante lo dispuesto en el párrafo anterior, en las entregas de bienes efectuadas en virtud de contratos de venta con pacto de reserva de dominio o cualquier otra condición suspensiva, de arrendamiento-venta de bienes o de arrendamiento de bienes con cláusula de transferencia de la propiedad vinculante para ambas partes, se devengará el Impuesto cuando los bienes que constituyan su objeto se pongan en posesión del adquirente.
+2.º En las prestaciones de servicios, cuando se presten, ejecuten o efectúen las operaciones gravadas.
+No obstante, en las prestaciones de servicios en las que el destinatario sea el sujeto pasivo del Impuesto conforme a lo previsto en el apartado 2.° del número 1 del artículo 19 de esta Ley, que se lleven a cabo de forma continuada durante un plazo superior a un año y que no den lugar a pagos anticipados durante dicho período, el devengo del Impuesto se producirá a 31 de diciembre de cada año por la parte proporcional correspondiente al período transcurrido desde el inicio de la operación o desde el anterior devengo hasta la citada fecha, en tanto no se ponga fin a dichas prestaciones de servicios.
+Por excepción de lo dispuesto en los párrafos anteriores, cuando se trate de ejecuciones de obra con aportación de materiales, en el momento en que los bienes a que se refieran se pongan a disposición del dueño de la obra.
+3.º Cuando se trate de ejecuciones de obra, con o sin aportación de materiales, cuyas destinatarias sean las Administraciones públicas, en el momento de su recepción, conforme a lo dispuesto en el artículo 235 del Texto Refundido de la Ley de Contratos del Sector Público aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre.
+4.º En las transmisiones de bienes entre el comitente y comisionista efectuadas en virtud de contratos de comisión de venta, cuando el último actúe en nombre propio, en el momento en que el comisionista efectúe la entrega de los respectivos bienes.
+Cuando se trate de entregas de bienes efectuadas en virtud de contratos por los que una de las partes entrega a la otra bienes muebles, cuyo valor se estima en una cantidad cierta, obligándose quien los recibe a procurar su venta dentro de un plazo y a devolver el valor estimado de los bienes vendidos y el resto de los no vendidos, el devengo de las entregas relativas a los bienes vendidos se producirá cuando quien los recibe los ponga a disposición del adquirente.
+5.º En las transmisiones de bienes entre comisionista y comitente efectuadas en virtud de contratos de comisión de compra, cuando el primero actúe en nombre propio, en el momento en que al comisionista le sean entregados los bienes a que se refieran.
+6.º En los arrendamientos, en los suministros y, en general, en las operaciones de tracto sucesivo o continuado, en el momento en que resulte exigible la parte del precio que comprenda cada percepción.
+No obstante, cuando no se haya pactado precio o cuando, habiéndose pactado, no se haya determinado el momento de su exigibilidad, o la misma se haya establecido con una periodicidad superior a un año natural, el devengo del Impuesto se producirá a 31 de diciembre de cada año por la parte proporcional correspondiente al periodo transcurrido desde el inicio de la operación, o desde el anterior devengo, hasta la citada fecha.
+Se exceptúan de lo dispuesto en los párrafos anteriores las operaciones a que se refiere el párrafo segundo del apartado 1.º precedente.
+Dos. No obstante lo dispuesto en el número uno anterior, en las operaciones sujetas a gravamen que originen pagos anticipados anteriores a la realización del hecho imponible el Impuesto se devengará en el momento del cobro total o parcial del precio por los importes efectivamente percibidos.
+Tres. Se devengará el Impuesto en las importaciones cuando los importadores las soliciten, previo cumplimiento de las condiciones establecidas en la legislación aplicable. En caso de falta de solicitud de importación en los plazos que reglamentariamente se prevean, el Impuesto se entenderá devengado en el momento de la entrada efectiva en el ámbito territorial de aplicación de este Impuesto conforme se define en el artículo 3.º de la presente Ley.
+Cuando se trate de la importación definitiva de los bienes que se encuentren en los regímenes o situaciones de tránsito, importación temporal, perfeccionamiento activo en el sistema de suspensión, Zona Franca, Depósito Franco o depósitos, el devengo del Impuesto se producirá en el momento en que se solicite dicha importación, cuando, asimismo, se cumplan los requisitos exigidos por la legislación aplicable.
+En el supuesto de incumplimiento de los requisitos que condicionan la concesión de cualquiera de los regímenes indicados en el párrafo anterior, se devengará el Impuesto en el momento en que se produjere dicho incumplimiento o, cuando no se pueda determinar la fecha del incumplimiento, en el momento en que se autorizó la aplicación de los citados regímenes.
+En las operaciones definidas como importaciones en los apartados 2.º, 3.º, 4.º y 5.º del número 2 del artículo 8.º de la presente Ley, el devengo se producirá en el momento en que tengan lugar, respectivamente, las desafectaciones, los cambios de condiciones o las adquisiciones a que se refieren dichos apartados.
+Se modifica por el art. 17.4 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifican los apartados 1.c) y 2 por el art. 1.10 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que estos apartados ya estaban modificados por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifican los apartados 1.c) y 2 por el art. 1.9 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+## CAPÍTULO V
+
+El sujeto pasivo
+
+### Artículo 19
+
+Artículo 19. Sujetos pasivos en las entregas de bienes y en las prestaciones de servicios.
+1. Son sujetos pasivos del Impuesto:
+1.º Con carácter general, las personas físicas o jurídicas que tengan la condición de empresarios o profesionales y realicen las entregas de bienes o presten los servicios sujetos al Impuesto.
+2.º Excepcionalmente, se invierte la condición de sujeto pasivo en los empresarios o profesionales y, en todo caso, en los entes públicos y personas jurídicas que no actúen como empresarios o profesionales, para quienes se realicen las operaciones sujetas a gravamen en los siguientes supuestos:
+a) Cuando las citadas operaciones se efectúen por personas o entidades no establecidas en Canarias, salvo que el destinatario, a su vez, no esté establecido en dicho territorio.
+Lo establecido en el párrafo anterior no será de aplicación:
+– Cuando se trate de prestaciones de servicios de arrendamientos de bienes inmuebles que estén sujetas y no exentas del Impuesto.
+– Cuando se trate de prestaciones de servicios de intermediación en el arrendamiento de bienes inmuebles.
+b) Cuando consistan en entregas de oro sin elaborar o de productos semielaborados de oro, de ley igual o superior a 325 milésimas.
+c) Cuando las citadas operaciones tengan lugar en virtud de una resolución administrativa o judicial.
+d) Cuando se trate de:
+– Entregas de desechos nuevos de la industria, desperdicios y desechos de fundición, residuos y demás materiales de recuperación constituidos por metales férricos y no férricos, sus aleaciones, escorias, cenizas y residuos de la industria que contengan metales o sus aleaciones.
+– Las operaciones de selección, corte, fragmentación y prensado que se efectúen sobre los productos citados en el guión anterior.
+– Entregas de desechos, desperdicios o recortes de plástico.
+– Entregas de desperdicios o desechos de papel, cartón o vidrio.
+– Entregas de desperdicios o artículos inservibles de trapos, cordeles, cuerdas o cordajes.
+– Entregas de productos semielaborados resultantes de la transformación, elaboración o fundición de los metales no férricos referidos en el primer guión de esta letra, con excepción de los compuestos por níquel. En particular, se considerarán productos semielaborados, los lingotes, bloques, placas, barras, grano, granalla y alambrón.
+En todo caso se considerarán comprendidas en los párrafos anteriores las entregas de los materiales definidos en el Anexo III bis de esta ley.
+e) Cuando se trate de prestaciones de servicios que tengan por objeto derechos de emisión, reducciones certificadas de emisiones y unidades de reducción de emisiones de gases de efecto invernadero a que se refieren la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero y el Real Decreto 1031/2007, de 20 de julio, por el que se desarrolla el marco de participación en los mecanismos de flexibilidad del Protocolo de Kioto.
+f) Cuando las citadas operaciones constituyan daciones en pago de deudas.
+g) Cuando se trate de las siguientes entregas de bienes inmuebles:
+– Las entregas efectuadas como consecuencia de un proceso concursal.
+– Las entregas exentas a que se refieren los números 20.º y 22.º del artículo 50.Uno de la Ley de la Comunidad Autónoma de Canarias 4/2012, de 25 de junio, de medidas administrativas y fiscales, en las que el sujeto pasivo hubiera renunciado a la exención.
+– Las entregas efectuadas en ejecución de la garantía constituida sobre los bienes inmuebles, entendiéndose, asimismo, que se ejecuta la garantía cuando se transmite el inmueble a cambio de la extinción total o parcial de la deuda garantizada o de la obligación de extinguir la referida deuda por el adquirente.
+h) Cuando se trate de ejecuciones de obra, con o sin aportación de materiales, así como las cesiones de personal para su realización, consecuencia de contratos directamente formalizados entre el promotor y el contratista que tengan por objeto la urbanización de terrenos o la construcción o rehabilitación de edificaciones.
+Lo establecido en el párrafo anterior será también de aplicación cuando los destinatarios de las operaciones sean a su vez el contratista principal u otros subcontratistas en las condiciones señaladas.
+i) Cuando se trate de entregas de los siguientes productos definidos en el Anexo VII de esta Ley:
+– Plata, platino y paladio, en bruto, en polvo o semilabrado; se asimilarán a los mismos las entregas que tengan por objeto dichos metales resultantes de la realización de actividades de transformación por el empresario o profesional adquirente. En todo caso ha de tratarse de productos que no estén incluidos en el ámbito de aplicación del régimen especial aplicable a los bienes usados y del régimen especial de objetos de arte, antigüedades y objetos de colección.
+– Teléfonos móviles.
+– Consolas de videojuegos, ordenadores portátiles y tabletas digitales.
+Lo previsto en estos dos últimos guiones solo se aplicará cuando el destinatario sea:
+a') Un empresario o profesional revendedor de estos bienes, cualquiera que sea el importe de la entrega.
+b') Un empresario o profesional distinto de los referidos en la letra anterior, cuando el importe total de las entregas de dichos bienes efectuadas al mismo, documentadas en la misma factura, exceda de 10.000 euros, excluido el Impuesto General Indirecto Canario.
+A efectos del cálculo del límite mencionado, se atenderá al importe total de las entregas realizadas cuando, documentadas en más de una factura, resulte acreditado que se trate de una única operación y que se ha producido el desglose artificial de la misma a los únicos efectos de evitar la aplicación de esta norma.
+La acreditación de la condición del empresario o profesional a que se refieren las dos letras anteriores deberá realizarse con carácter previo o simultáneo a la adquisición, en las condiciones que se determinen reglamentariamente por el Gobierno de Canarias.
+Las entregas de dichos bienes, en los casos en que sean sujetos pasivos del Impuesto sus destinatarios conforme lo establecido en este número 2.º, deberán documentarse en una factura mediante serie especial.
+2. Tienen la consideración de sujetos pasivos las herencias yacentes, comunidades de bienes y demás entidades que, careciendo de personalidad jurídica, constituyen una unidad económica o un patrimonio separado susceptible de imposición, cuando realicen operaciones sujetas al Impuesto.
+3. A los efectos de lo dispuesto en este artículo, se considerarán establecidos en el territorio de aplicación del Impuesto los sujetos pasivos que tengan en el mismo la sede de su actividad económica, su domicilio fiscal o un establecimiento permanente que intervenga en la realización de las entregas de bienes y prestaciones de servicios sujetas al Impuesto.
+Se entenderá que dicho establecimiento permanente interviene en la realización de entregas de bienes o prestaciones de servicios cuando ordene sus factores de producción materiales y humanos o uno de ellos con la finalidad de realizar cada una de ellas.
+Se modifican las letras a) y d) del apartado 1.2º por la disposición final 6.3 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade la letra i) al apartado 1.2 por el art. 2.5 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Esta modificación será de aplicación a partir del 1 de abril de 2015, según establece la disposición final 5.b) de la citada ley.
+ Se añade la letra h) al apartado 1.2 por el art. 17.5 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica el apartado 1.2.g) por el art. 6.1 de la Ley 7/2012, de 29 de octubre. Ref. BOE-A-2012-13416.
+ Se añade el apartado 1.2.g) por la disposición final 11 ter de la Ley 22/2003, de 9 de julio, en la redacción dada por el art. único.119 de la Ley 38/2011, de 10 de octubre. Ref. BOE-A-2011-15938.
+ Se modifica por el art. 2.6 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366.
+ Esta modificación tiene efectos desde el 1 de enero de 2010, según establece la disposición final 4 de la citada ley.
+ Se añade el apartado 1.2.e) por la disposición final 4.1 de la Ley 11/2009, de 26 de octubre. Ref. BOE-A-2009-17000.
+ Esta modificación es aplicable a los períodos impositivos que se inicien a partir del 1 de enero de 2009, según establece la disposición final 12 de la citada ley.
+ Se añade el apartado 1.2.d) por el art. 12.3.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se modifica el apartado 1.2.a) por el art. 10.1.2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica el apartado 1.2 por el art. 8.1.11 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifica el apartado 1.2 por el art. 9.4 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+
+### Artículo 20
+
+Artículo 20. Repercusión del impuesto y rectificación de las cuotas repercutidas.
+Uno. La repercusión del Impuesto se ajustará a los siguientes requisitos:
+1. Los sujetos pasivos deberán repercutir íntegramente el importe de impuestos sobre aquél para quien se realice la operación gravada, quedando éste obligado a soportarlo siempre que la repercusión se ajuste a lo dispuesto en esta Ley, cualesquiera que fueran las estipulaciones existentes entre ellos.
+En las entregas de bienes y prestaciones de servicios sujetas y no exentas al impuesto cuyos destinatarios fuesen entes públicos se entenderán siempre que los empresarios y profesionales que realicen las operaciones gravadas, al formular sus propuestas económicas aunque sean verbales, han incluido dentro de las mismas el Impuesto General Indirecto Canario que, no obstante, deberá ser repercutido como partida independiente, cuando así proceda, en los documentos que se presenten al cobro sin que el importe global contratado experimente incremento como consecuencia de la consignación del tributo devengado.
+2. La repercusión del impuesto deberá efectuarse mediante factura o documento sustitutivo, en las condiciones y con los requisitos que se determinen reglamentariamente.
+A estos efectos, la cuota repercutida se consignará separadamente de la base imponible, incluso en el caso de precios fijados administrativamente, indicando el tipo impositivo aplicado.
+Se exceptuarán de lo dispuesto en los párrafos anteriores de este número las operaciones que se determinen reglamentariamente.
+3. La repercusión del impuesto deberá efectuarse al tiempo de expedir y entregar la factura o documento sustitutivo correspondiente.
+4. Se perderá el derecho a la repercusión cuando haya transcurrido un año desde la fecha del devengo.
+5. El destinatario de la operación gravada por el Impuesto General Indirecto Canario no estará obligado a soportar la repercusión del mismo con anterioridad al momento del devengo de dicho impuesto.
+6. Las controversias que puedan producirse con referencia a la repercusión del impuesto, tanto respecto a la procedencia como a la cuantía de la misma, se considerarán de naturaleza tributaria a efectos de las correspondientes reclamaciones en la vía económico-administrativa.
+7. Cuando la consignación del tributo repercutido en la forma indicada perturbe sustancialmente el desarrollo de las actividades empresariales o profesionales, la Consejería de Economía y Hacienda del Gobierno de Canarias podrá autorizar, previa solicitud de las personas o sectores afectados, la repercusión del tributo dentro del precio, haciendo constar la expresión "IGIC incluido" y el tipo tributario aplicado.
+No será necesaria esta autorización en las operaciones que se indiquen en el Reglamento del impuesto.
+8. El repercutido tendrá derecho a exigir la expedición de factura ajustada a lo que se establezca en el Reglamento siempre que acredite en debida forma su condición de empresario o profesional sujeto pasivo del impuesto y las cuotas repercutidas sean deducibles.
+Dos. La rectificación de las cuotas impositivas repercutidas deberá realizarse de acuerdo con el siguiente procedimiento:
+1. Los sujetos pasivos deberán efectuar la rectificación de las cuotas impositivas repercutidas cuando el importe de las mismas se hubiese determinado incorrectamente o se produzcan las circunstancias que, según lo dispuesto en el artículo 22 de esta Ley, dan lugar a la modificación de la base imponible.
+La rectificación deberá efectuarse en el momento en que se adviertan las causas de la incorrecta determinación de las cuotas o se produzcan las demás circunstancias a que se refiere el párrafo anterior, siempre que no hubiesen transcurrido cuatro años a partir del momento en que se devengó el impuesto correspondiente a la operación o, en su caso, se produjeron las circunstancias a que se refiere el citado artículo 22.
+2. Lo dispuesto en el apartado anterior también será de aplicación cuando, no habiéndose repercutido cuota alguna, se hubiese expedido la factura o documento sustitutivo correspondiente a la operación.
+3. No obstante lo dispuesto en los apartados anteriores, no procederá la rectificación de las cuotas impositivas repercutidas en los siguientes casos:
+1.º Cuando la rectificación no esté motivada por las causas previstas en el artículo 22 de esta Ley, implique un aumento de las cuotas repercutidas y los destinatarios de las operaciones no actúen como empresarios o profesionales, salvo en supuestos de elevación legal de los tipos impositivos, en que la rectificación podrá efectuarse en el mes en que tenga lugar la entrada en vigor de los nuevos tipos impositivos y en el siguiente.
+2.º Cuando sea la Administración tributaria la que ponga de manifiesto, a través de las correspondientes liquidaciones, cuotas impositivas devengadas y no repercutidas mayores que las declaradas por el sujeto pasivo y resulte acreditado, mediante datos objetivos, que dicho sujeto pasivo participaba en un fraude, o que sabía o debía haber sabido, utilizando al efecto una diligencia razonable, que realizaba una operación que formaba parte de un fraude.
+4. La rectificación de las cuotas impositivas repercutidas deberá documentarse en la forma que reglamentariamente se establezca.
+5. Cuando la rectificación de las cuotas implique un aumento de las inicialmente repercutidas y no haya mediado requerimiento previo, el sujeto pasivo deberá presentar una declaración-liquidación rectificativa aplicándose a la misma el recargo y los intereses de demora que procedan de conformidad con lo establecido en los artículos 26 y 27 de la Ley General Tributaria.
+No obstante lo dispuesto en el párrafo anterior, cuando la rectificación se funde en las causas de modificación de la base imponible establecidas en los números 4 al 8 del artículo 22 de esta Ley o se deba a un error fundado de derecho, el sujeto pasivo podrá incluir la diferencia correspondiente en la declaración-liquidación del periodo en que se deba efectuar la rectificación.
+Cuando la rectificación determine una minoración de las cuotas inicialmente repercutidas, el sujeto pasivo podrá optar por cualquiera de las dos alternativas siguientes:
+a) Iniciar ante la Administración tributaria el procedimiento de rectificación de autoliquidaciones previsto en el artículo 120.3 de la Ley 58/2003, de 17 de diciembre, General Tributaria, y en su normativa de desarrollo.
+b) Regularizar la situación tributaria en la declaración-liquidación correspondiente al periodo en que deba efectuarse la rectificación o en las posteriores hasta el plazo de un año a contar desde el momento en que debió efectuarse la mencionada rectificación. En este caso, el sujeto pasivo estará obligado a reintegrar al destinatario de la operación el importe de las cuotas repercutidas en exceso.
+En los supuestos en que la operación gravada quede sin efecto como consecuencia del ejercicio de una acción de reintegración concursal u otras de impugnación ejercitadas en el seno del concurso, el sujeto pasivo deberá proceder a la rectificación de las cuotas inicialmente repercutidas en la declaración-liquidación correspondiente al periodo en que fueron declaradas las cuotas devengadas.
+Se modifica el apartado dos.3.2º por la disposición final 6.4 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se modifica la letra a) del apartado 2.5 por el art. 2.6 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica el apartado 2.5 por el art. 6.2 de la Ley 7/2012, de 29 de octubre. Ref. BOE-A-2012-13416.
+ Se modifican los apartados 1.2 y 3 y 2.2 por el art. 8.6 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el apartado 1.1 por el art. 10.1.6 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica el apartado 2 por el art. 9.5 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se modifica por el art. 1.11 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este art. ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica por el art. 1.10 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+### Artículo 21
+
+Artículo 21. Sujetos pasivos en las importaciones de bienes.
+Son sujetos pasivos en las importaciones de bienes quienes las realicen.
+Se consideran importadores, siempre que se cumpla, en cada caso, la legislación aplicable:
+a) Los destinatarios de los bienes importados, sean adquirentes, cesionarios o propietarios de los mismos, o bien consignatarios que actúen en nombre propio en la importación de dichos bienes.
+b) Los viajeros para los bienes que conduzcan al entrar en las islas Canarias.
+c) Los propietarios de los bienes en los casos no contemplados en los apartados a) y b) anteriores.
+Se modifica por el art. 1.12 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este art. ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica por el art. 1.11 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+### Artículo 21 bis
+
+Artículo 21 bis. Responsables del impuesto.
+1. Serán responsables solidarios de la deuda tributaria que corresponda satisfacer al sujeto pasivo los destinatarios de las operaciones que, mediante acción u omisión culposa o dolosa, eludan la correcta repercusión del impuesto.
+A los efectos de este número, la responsabilidad alcanzará a la sanción que pueda proceder.
+2. En las importaciones de bienes, también serán responsables solidarios del pago del Impuesto:
+1.º Las asociaciones garantes en los casos determinados en los Convenios internacionales.
+2.º Las empresas de transportes, cuando actúen en nombre de terceros en virtud de Convenios internacionales.
+3.º Las personas o entidades que actúen en nombre propio y por cuenta de los importadores.
+3. Serán responsables subsidiarios del pago del Impuesto las personas o entidades que actúen en nombre y por cuenta del importador.
+4. Las responsabilidades establecidas en los números 2 y 3 no alcanzarán a las deudas tributarias que se pongan de manifiesto como consecuencia de actuaciones practicadas fuera de los recintos aduaneros.'
+5.1.º Serán responsables subsidiarios de las cuotas tributarias correspondientes a las operaciones gravadas que hayan de satisfacer los sujetos pasivos aquellos destinatarios de las mismas que sean empresarios o profesionales, que debieran razonablemente presumir que el Impuesto repercutido o que hubiera debido repercutirse por el empresario o profesional que las realiza, o por cualquiera de los que hubieran efectuado la adquisición y entrega de los bienes de que se trate, no haya sido ni va a ser objeto de declaración e ingreso.
+2.º A estos efectos, se considerará que los destinatarios de las operaciones mencionadas en el número anterior debían razonablemente presumir que el Impuesto repercutido o que hubiera debido repercutirse no ha sido ni será objeto de declaración e ingreso, cuando, como consecuencia de ello, hayan satisfecho por ellos un precio notoriamente anómalo.
+Se entenderá por precio notoriamente anómalo:
+a) El que sea sensiblemente inferior al correspondiente a dichos bienes en las condiciones en que se ha realizado la operación o al satisfecho en adquisiciones anteriores de bienes idénticos.
+b) El que sea sensiblemente inferior al precio de adquisición de dichos bienes por parte de quien ha efectuado su entrega.
+Para la calificación del precio de la operación como notoriamente anómalo la Administración tributaria estudiará la documentación de que disponga, así como la aportada por los destinatarios, y valorará, cuando sea posible, otras operaciones realizadas en el mismo sector económico que guarden un alto grado de similitud con la analizada, con objeto de cuantificar el valor normal de mercado de los bienes existente en el momento de realización de la operación.
+No se considerará como precio notoriamente anómalo aquel que se justifique por la existencia de factores económicos distintos a la aplicación del Impuesto.
+3.º Para la exigencia de esta responsabilidad la Administración tributaria deberá acreditar la existencia de un Impuesto repercutido o que hubiera debido repercutirse que no ha sido objeto de declaración e ingreso.
+4.º Una vez que la Administración tributaria haya constatado la concurrencia de los requisitos establecidos en los apartados anteriores declarará la responsabilidad conforme a lo dispuesto en el artículo 41.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Se modifican el apartado 2.3.º, se añade un número 3 y se modifica el 4 por el art. 9.1 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#an
+ Se añade el apartado 5 por la disposición final 1.3 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
+ Se modifica el apartado 1 por el art. 8.7 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el apartado 4 por el art. 10.1.8 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se deroga el apartado 3 por la disposición derogatoria 7 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+ Se añade por el art. 1.13 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este art. ya estaba añadido por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se añade por el art. 1.12 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+## CAPÍTULO VI
+
+Base imponible
+
+### Artículo 22
+
+Artículo 22. Base imponible en las entregas de bienes y en las prestaciones de servicios: Regla general.
+1. La base imponible del impuesto estará constituida por el importe total de la contraprestación de las operaciones sujetas al mismo procedente del destinatario o de terceras personas.
+2. En particular, se incluyen en el concepto de contraprestación:
+a) Los gastos de comisiones, portes y transporte, seguros, primas por prestaciones anticipadas y cualquier otro crédito efectivo a favor de quien realice la entrega o preste el servicio, derivado de la prestación principal o de las accesorias a la misma.
+No obstante lo dispuesto en el párrafo anterior, no se incluirán en la contraprestación los intereses por el aplazamiento en el pago del precio en la parte en que dicho aplazamiento corresponda a un período posterior a la entrega de los bienes o la prestación de los servicios.
+A efectos de lo previsto en el párrafo anterior sólo tendrán la consideración de intereses las retribuciones de las operaciones financieras de aplazamiento o demora en el pago del precio, exentas del impuesto en virtud de lo dispuesto en el artículo 50.uno.18.º, letra c), de la Ley de la Comunidad Autónoma de Canarias 4/2012, de 25 de junio, de medidas administrativas y fiscales, que se haga constar separadamente en la factura emitida por el sujeto pasivo.
+En ningún caso se considerará interés la parte de la contraprestación que exceda del usualmente aplicado en el mercado para similares operaciones.
+b) Las subvenciones vinculadas directamente al precio de las operaciones sujetas al impuesto.
+Se considerarán vinculadas directamente al precio de las operaciones sujetas al Impuesto las subvenciones establecidas en función del número de unidades entregadas o del volumen de los servicios prestados cuando se determinen con anterioridad a la realización de la operación.
+En ningún caso se incluirán las subvenciones dirigidas a permitir el abastecimiento de productos comunitarios o disponibles en el mercado de la CEE, previsto en el Programa de opciones específicas por la lejanía e insularidad de las Islas Canarias.
+No obstante, no se considerarán subvenciones vinculadas al precio ni integran en ningún caso el importe de la contraprestación a que se refiere el número 1 del presente artículo, las aportaciones dinerarias, sea cual sea su denominación, que las Administraciones Públicas realicen para financiar:
+a’) La gestión de servicios públicos o de fomento de la cultura en los que no exista una distorsión significativa de la competencia, sea cual sea su forma de gestión.
+b’) Actividades de interés general cuando sus destinatarios no sean identificables y no satisfagan contraprestación alguna.
+c) Los tributos y gravámenes de cualquier clase que recaigan sobre las mismas operaciones gravadas, excepto el propio Impuesto General Indirecto Canario y el Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias.
+Lo dispuesto en esta letra comprenderá los impuestos especiales que se exijan en relación con los bienes que sean objeto de las operaciones gravadas, con excepción del Impuesto especial sobre determinados medios de transporte.
+d) Las percepciones retenidas con arreglo a derecho por el obligado a efectuar la prestación en los casos de resolución de las operaciones sujetas al impuesto.
+e) El importe de los envases y embalajes, incluso los susceptibles de devolución, cargado a los destinatarios de la operación, cualquiera que sea el concepto por el que dicho importe se perciba.
+f) El importe de las deudas asumidas por el destinatario de las operaciones sujetas como contraprestación total o parcial de las mismas.
+3. No se incluirán en la base imponible:
+a) Las cantidades percibidas por razón de indemnizaciones, distintas de las contempladas en el número anterior, que por su naturaleza y función no constituyan contraprestación o compensación de las entregas de bienes o prestaciones de servicios sujetas al impuesto.
+b) Los descuentos y bonificaciones que figuren separadamente en factura y que se concedan previa o simultáneamente al momento en que la operación se realice y en función de ella.
+Lo dispuesto en el párrafo anterior no será de aplicación cuando las minoraciones de precio constituyan remuneraciones de otras operaciones.
+c) Las sumas pagadas en nombre y por cuenta del cliente, en virtud del mandato expreso del mismo, que figuren contabilizadas por quien entrega los bienes o presta los servicios en las correspondientes cuentas específicas. El sujeto pasivo vendrá obligado a justificar la cuantía efectiva de tales gastos y no podrá proceder a la deducción del impuesto que, eventualmente, los hubiera gravado.
+d) En el caso de las entregas de bienes efectuadas en cualquiera de las islas, cuando se trate de bienes importados o fabricados en otra isla diferente del archipiélago canario, tampoco se incluirán en la base imponible los gastos en puertos o aeropuertos, seguros y fletes precisos para el traslado desde esta última isla a la de entrega.
+e)(Suprimida).
+4. Cuando por resolución firme, judicial o administrativa o con arreglo a Derecho o a los usos de comercio queden sin efecto total o parcialmente las operaciones gravadas o se altere el precio después del momento en que la operación se haya efectuado, la base imponible se modificará en la cuantía correspondiente.
+5. La base imponible determinada con arreglo a lo dispuesto en los números anteriores de este artículo se reducirá en los casos y cuantías siguientes:
+1.º El importe de los envases y embalajes susceptibles de reutilización que hayan sido objeto de devolución.
+2.º Los descuentos y bonificaciones otorgados con posterioridad al momento en que la operación se haya realizado siempre que sean debidamente justificados.
+6. La base imponible podrá reducirse cuando el destinatario de las operaciones sujetas al impuesto no haya hecho efectivo el pago de las cuotas repercutidas, y siempre que, con posterioridad al devengo de la operación, se dicte auto que declare el concurso de acreedores de aquel. La modificación, en su caso, no podrá efectuarse después de transcurrido el plazo de dos meses a partir del fin del plazo máximo establecido en el número 5.º del apartado 1 del artículo 21 de la Ley 22/2003, de 9 de julio, Concursal.
+Solo cuando se acuerde la conclusión del concurso por las causas expresadas en el artículo 176.1, apartados 1.º, 4.º y 5.º, de la Ley Concursal, el acreedor que hubiese modificado la base imponible deberá modificarla nuevamente al alza mediante la emisión, en el plazo que se fije reglamentariamente, de una factura rectificativa en la que se repercuta la cuota procedente.
+7. La base imponible también podrá reducirse proporcionalmente cuando los créditos correspondientes a las cuotas repercutidas por las operaciones gravadas sean total o parcialmente incobrables. A estos efectos:
+A) Un crédito se considerará total o parcialmente incobrable cuando reúna las siguientes condiciones:
+1.ª Que haya transcurrido un año desde el devengo del Impuesto repercutido sin que se haya obtenido el cobro de todo o parte del crédito derivado del mismo.
+No obstante, cuando se trate de operaciones a plazos o con precio aplazado, deberá haber transcurrido un año desde el vencimiento del plazo o plazos impagados a fin de proceder a la reducción proporcional de la base imponible. A estos efectos, se considerarán operaciones a plazos o con precio aplazado aquellas en las que se haya pactado que su contraprestación deba hacerse efectiva en pagos sucesivos o en uno solo, respectivamente, siempre que el período transcurrido entre el devengo del Impuesto repercutido y el vencimiento del último o único pago sea superior a un año.
+Cuando el titular del derecho de crédito cuya base imponible se pretende reducir sea un empresario o profesional cuyo volumen de operaciones, calculado conforme a lo dispuesto en el artículo 51 de esta Ley, no hubiese excedido durante el año natural inmediato anterior de 6.010.121,04 euros, el plazo a que se refiere esta condición 1.ª podrá ser de seis meses o un año.
+En el caso de operaciones a las que sea de aplicación el régimen especial del criterio de caja esta condición se entenderá cumplida en la fecha de devengo del impuesto que se produzca por aplicación de la fecha límite del 31 de diciembre a que se refiere el artículo 58 duodecies de esta Ley.
+No obstante lo previsto en el párrafo anterior, cuando se trate de operaciones a plazos o con precio aplazado será necesario que haya transcurrido el plazo de seis meses o un año a que se refiere esta regla 1.ª, desde el vencimiento del plazo o plazos correspondientes hasta la fecha de devengo de la operación.
+2.ª Que esta circunstancia haya quedado reflejada en los Libros Registros exigidos para este Impuesto.
+3.ª Que el destinatario de la operación actúe en la condición de empresario o profesional, o, en otro caso, que la base imponible de aquella, Impuesto General Indirecto Canario excluido, sea superior a 50 euros.
+4.ª Que el sujeto pasivo haya instado su cobro mediante reclamación judicial al deudor o por medio de requerimiento notarial al mismo, o por cualquier otro medio que acredite fehacientemente la reclamación del cobro a aquel, incluso cuando se trate de créditos afianzados por Entes públicos.
+Cuando se trate de las operaciones a plazos a que se refiere la condición 1.ª anterior, resultará suficiente instar el cobro de uno de ellos mediante cualquiera de los medios a los que se refiere la condición 4.ª anterior, para proceder a la modificación de la base imponible en la proporción que corresponda por el plazo o plazos impagados.
+Cuando se trate de créditos adeudados por Entes públicos, los medios a que se refiere la condición 4.ª anterior se sustituirán por una certificación expedida por el órgano competente del Ente público deudor de acuerdo con el informe del Interventor o Tesorero de aquel en el que conste el reconocimiento de la obligación a cargo del mismo y su cuantía.
+B) La modificación deberá realizarse en el plazo de los seis meses siguientes a la finalización del periodo de seis meses o un año a que se refiere la condición 1.ª anterior y comunicarse a la Administración Tributaria Canaria en el plazo que se fije reglamentariamente por el Gobierno de Canarias.
+En el caso de operaciones a las que sea de aplicación el régimen especial del criterio de caja, el plazo de seis meses para realizar la modificación se computará a partir de la fecha límite del 31 de diciembre a que se refiere el artículo 105 de la Ley, de la Comunidad Autónoma de Canarias, 4/2012, de 25 de junio, de medidas administrativas y fiscales.
+C) Una vez practicada la reducción de la base imponible, esta no se volverá a modificar al alza aunque el sujeto pasivo obtuviese el cobro total o parcial de la contraprestación, salvo cuando el destinatario no actúe en la condición de empresario o profesional. En este caso, se entenderá que el Impuesto General Indirecto Canario está incluido en las cantidades percibidas y en la misma proporción que la parte de contraprestación percibida.
+No obstante lo dispuesto en el párrafo anterior, cuando el sujeto pasivo desista de la reclamación judicial al deudor o llegue a un acuerdo de cobro con el mismo con posterioridad al requerimiento notarial efectuado, como consecuencia de este o por cualquier otra causa, deberá modificar nuevamente la base imponible al alza mediante la expedición, en el plazo de un mes a contar desde el desistimiento o desde el acuerdo de cobro, respectivamente, de una factura rectificativa en la que se repercuta la cuota procedente.
+8. En relación con los supuestos de modificación de la base imponible comprendidos en los números 6 y 7 anteriores, se aplicarán las siguientes reglas:
+1.ª No procederá la modificación de la base imponible en los casos siguientes:
+a) Créditos que disfruten de garantía real, en la parte garantizada.
+b) Créditos afianzados por entidades de crédito o sociedades de garantía recíproca o cubiertos por un contrato de seguro de crédito o de caución, en la parte afianzada o asegurada.
+c) Créditos entre personas o entidades vinculadas definidas en el artículo 23, número 3, de esta Ley.
+d) Créditos adeudados o afianzados por Entes públicos.
+Lo dispuesto en esta letra d) no se aplicará a la reducción de la base imponible realizada de acuerdo con el número 7 anterior para los créditos que se consideren total o parcialmente incobrables, sin perjuicio de la necesidad de cumplir con el requisito de acreditación documental del impago a que se refiere la condición 4.ª de la letra A) de dicho número.
+2.ª Tampoco procederá la modificación de la base imponible cuando el destinatario de las operaciones no esté establecido en el territorio de aplicación del Impuesto o en Península, Islas Baleares, Ceuta y Melilla.
+Quedan excluidos de lo dispuesto en el párrafo anterior los supuestos de créditos incobrables como consecuencia de un proceso de insolvencia declarado por un órgano jurisdiccional de otro Estado miembro cuando se trate de procedimientos de insolvencia a los que resulte de aplicación el Reglamento (UE) 2015/848 del Parlamento Europeo y del Consejo, de 20 de mayo de 2015, sobre procedimientos de insolvencia, que podrán dar lugar, en su caso, a la modificación de la base imponible del sujeto pasivo en los términos previstos en el apartado 6 de este artículo.
+3.ª Tampoco procederá la modificación de la base imponible de acuerdo con el número 7 de este artículo con posterioridad al auto de declaración de concurso para los créditos correspondientes a cuotas repercutidas por operaciones cuyo devengo se produzca con anterioridad a dicho auto.
+4.ª En los supuestos de pago parcial anteriores a la citada modificación, se entenderá que el Impuesto General Indirecto Canario está incluido en las cantidades percibidas y en la misma proporción que la parte de contraprestación satisfecha.
+5.ª La rectificación de las deducciones del destinatario de las operaciones, que deberá practicarse según lo dispuesto en el cuarto párrafo del apartado 2.º del número Dos del artículo 44 de esta Ley, determinará el nacimiento del correspondiente crédito en favor de la Hacienda Pública.
+Si el destinatario de las operaciones sujetas no hubiese tenido derecho a la deducción total del Impuesto, resultará también deudor frente a la Hacienda Pública por el importe de la cuota del impuesto no deducible. En el supuesto de que el destinatario no actúe en la condición de empresario o profesional y en la medida en que no haya satisfecho dicha deuda, resultará de aplicación lo establecido en la letra C) del número 7 anterior.
+9. En los casos a que se refieren los números 4 a 8 anteriores, la disminución de la base imponible estará condicionada al cumplimiento de los requisitos que reglamentariamente se establezcan.
+10. Cuando las cuotas del Impuesto General Indirecto Canario que graven las operaciones sujetas al mismo no se hubiesen repercutido expresamente en factura se entenderá que la contraprestación no incluyó dichas cuotas.
+Se exceptúan de lo dispuesto en el párrafo anterior:
+1.º Los casos en que la repercusión expresa del impuesto no fuese obligatoria.
+2.º Los supuestos a que se refiere el número 2, apartado d), de este artículo.
+11. Si el importe de la contraprestación no resultara conocido en el momento del devengo del impuesto, el sujeto pasivo deberá fijarlo provisionalmente aplicando criterios fundados, sin perjuicio de su rectificación cuando dicho importe fuera conocido.
+Se modifican las condiciones 3.ª y 4.º de la letra A), la letra B) del apartado 7, y el número 2.º del apartado 8, por la disposición final 6.5 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Véase la disposición transitoria séptima de la citada Ley 31/2022, en cuanto al plazo para la modificación de la base imponible del Impuesto General Indirecto Canario por créditos incobrables a que se refiere el apartado 7. Ref. BOE-A-2022-22128#dt-7
+ Se modifica el apartado 2.b) y se suprime la letra e) del apartado 3 por la disposición final 3.2 y 3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268
+ Se modifican los apartados 3, 6, 7 y 8 por el art. 2.7 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifican los apartados 1, 2, 7 y 8 y se añade el apartado 11 por el art. 17.6 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica el apartado 6, párrafo segundo por el art. 6.3 de la Ley 7/2012, de 29 de octubre. Ref. BOE-A-2012-13416.
+ Se modifican los apartados 7 y 8 por el art. 8 del Real Decreto-ley 6/2010, de 9 de abril. Ref. BOE-A-2010-5879.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 95, de 20 de abril de 2010. Ref. BOE-A-2010-6225
+ Se modifica el apartado 7 por la disposición final 4.2 de la Ley 11/2009, de 26 de octubre. Ref. BOE-A-2009-17000.
+ Esta modificación es aplicable a los períodos impositivos que se inicien a partir del 1 de enero de 2009 según establece la disposición final 12.
+ Se modifica el apartado 7 por el art. 6.7 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Se modifican los apartados 6 y 7 por el art. 12.2 y 12.1.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ El apartado 6 entra en vigor el 1 de septiembre de 2004, según establece la disposición final 19.3.
+ Se modifica el apartado 10 por el art. 8.8 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el apartado 2.c) por el art. 10.1.7 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifican los apartados 8.4 y 10.2 por el art. 7.2 y 3 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+ Se modifica por el art. 9.3 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+ Se modifica el apartado 4 por el art. 4.1 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta el art. 4.3 en cuanto a la aplicación de los párrafos segundo y siguientes del apartado 4.
+ Téngase en cuenta que este apartado ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 4 por el art. 3.1 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+ Téngase en cuenta el art. 3.3 en cuanto a la aplicación de los párrafos segundo y siguientes del apartado 4.
+ Se modifican los apartados 2.c) y d) por el art. 3.5 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+
+### Artículo 23
+
+Artículo 23. Base imponible en las entregas de bienes y en las prestaciones de servicios: Reglas especiales.
+1. En las operaciones cuya contraprestación no consista en dinero se considerará como base imponible el importe, expresado en dinero, que se hubiera acordado entre las partes.
+Salvo que se acredite lo contrario, la base imponible coincidirá con los importes que resulten de aplicar las reglas siguientes:
+1.ª Si los bienes fuesen entregados en el mismo estado en que fueron adquiridos sin haber sido sometidos a proceso alguno de fabricación, elaboración o transformación por el propio sujeto pasivo, o por su cuenta, la base imponible será la que se hubiese fijado en la operación por la que se adquirieron dichos bienes.
+Tratándose de bienes importados, la base imponible será la que hubiera prevalecido para la liquidación del impuesto a la importación de los mismos.
+2.ª Si los bienes entregados se hubiesen sometido a procesos de elaboración o transformación por el transmitente o por su cuenta, la base imponible será el coste de los bienes o servicios utilizados por el sujeto pasivo para la obtención de dichos bienes, incluidos los gastos de personal efectuados con la misma finalidad.
+3.ª No obstante, si el valor de los bienes entregados hubiese experimentado alteraciones como consecuencia de su utilización, deterioro, obsolescencia, envilecimiento, revalorización o cualquier otra causa, se considerará como base imponible el valor de los bienes en el momento en que se efectúe la entrega.
+4.ª En el caso de servicios, se considerará como base imponible el coste de prestación de servicios incluida, en su caso, la amortización de los bienes cedidos.
+No obstante, si la contraprestación consistiera parcialmente en dinero, se considerará base imponible el resultado de añadir al importe, expresado en dinero, acordado entre las partes, por la parte no dineraria de la contraprestación, el importe de la parte dineraria de la misma, siempre que dicho resultado fuere superior al determinado por aplicación de lo dispuesto en los párrafos anteriores.
+2. Cuando en una misma operación y por precio único se entreguen bienes o se presten servicios de diversa naturaleza, incluso en los supuestos de transmisión de la totalidad o parte de un patrimonio empresarial, la base imponible correspondiente a cada uno de ellos se determinará en proporción al valor de mercado de los bienes entregados o de los servicios prestados.
+Lo dispuesto en el párrafo anterior no se aplicará cuando dichos bienes o servicios constituyan el objeto de prestaciones accesorias de otra principal sujeta al impuesto.
+3. Cuando exista vinculación entre las partes que intervengan en una operación sujeta al Impuesto y no exenta, o no sujeta prevista en el artículo 9.8.º de esta Ley, su base imponible será su valor normal de mercado.
+La vinculación podrá probarse por cualquiera de los medios admitidos en derecho. Se considerará que existe vinculación en los siguientes supuestos:
+a) En el caso de que una de las partes intervinientes sea un sujeto pasivo del Impuesto sobre Sociedades o un contribuyente del Impuesto sobre la Renta de las Personas Físicas o del Impuesto sobre la Renta de No Residentes, cuando así se deduzca de las normas reguladoras de dichos impuestos que sean de aplicación.
+b) En las operaciones realizadas entre los sujetos pasivos y las personas ligadas a ellos por relaciones de carácter laboral o administrativo.
+c) En las operaciones realizadas entre el sujeto pasivo y su cónyuge o sus parientes consanguíneos hasta el tercer grado inclusive.
+d) En las operaciones realizadas entre una entidad sin fines lucrativos a las que se refiere el artículo 2 de la Ley 49/2002, de 23 de diciembre, sobre Régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo y sus fundadores, asociados, patronos, representantes estatutarios, miembros de los órganos de gobierno, los cónyuges o parientes hasta el tercer grado inclusive de cualquiera de ellos.
+e) En las operaciones realizadas entre una entidad que sea empresario o profesional y cualquiera de sus socios, asociados, miembros o partícipes.
+Esta regla de valoración únicamente será aplicable cuando se cumplan los siguientes requisitos:
+a) Que el destinatario de la operación no tenga derecho a deducir totalmente el impuesto correspondiente a la misma y la contraprestación pactada sea inferior a la que correspondería en condiciones de libre competencia.
+b) Cuando el empresario o profesional que realice la entrega de bienes o prestación de servicios determine sus deducciones aplicando la regla de prorrata y, tratándose de una operación que no genere el derecho a la deducción, la contraprestación pactada sea inferior al valor normal de mercado.
+c) Cuando el empresario o profesional que realice la entrega de bienes o prestación de servicios determine sus deducciones aplicando la regla de prorrata y, tratándose de una operación que genere el derecho a la deducción, la contraprestación pactada sea superior al valor normal de mercado.
+A los efectos de esta Ley, se entenderá por valor normal de mercado aquél que, para adquirir los bienes o servicios en cuestión en ese mismo momento, un destinatario, en la misma fase de comercialización en la que se efectúe la entrega de bienes o prestación de servicios, debería pagar en el territorio de aplicación del Impuesto en condiciones de libre competencia a un proveedor independiente.
+Cuando no exista entrega de bienes o prestación de servicios comparable, se entenderá por valor de mercado:
+a) Con respecto a las entregas de bienes, un importe igual o superior al precio de adquisición de dichos bienes o bienes similares o, a falta de precio de compra, a su precio de coste, determinado en el momento de su entrega.
+b) Con respecto a las prestaciones de servicios, la totalidad de los costes que su prestación le suponga al empresario o profesional.
+A estos efectos, será de aplicación, en cuanto proceda, lo dispuesto en el artículo 16 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
+4. En las transmisiones de bienes del comitente al comisionista en virtud de contratos de comisión de venta en los que el comisionista actúe en nombre propio, la base imponible estará constituida por la contraprestación convenida por el comisionista menos el importe de la comisión.
+5. En las transmisiones de bienes del comisionista al comitente en virtud de contratos de comisión de compra en los que el comisionista haya actuado en nombre propio, la base imponible estará constituida por la contraprestación convenida por el comisionista más el importe de la comisión.
+6. En las prestaciones de servicios realizadas por cuenta de terceros, cuando quien presta los servicios actúe en nombre propio, la base imponible de la operación realizada entre el comitente y el comisionista estará constituida por la contraprestación del servicio concertado por el comisionista menos el importe de la comisión.
+7. En las adquisiciones de servicios realizadas por cuenta de terceros, cuando quien adquiera los servicios actúe en nombre propio, la base imponible de la operación realizada entre el comisionista y el comitente estará constituida por la contraprestación del servicio convenido por el comisionista más el importe de la comisión.
+8. En las operaciones cuya contraprestación se hubiese fijado en moneda extranjera, la fijación del valor de la contraprestación en moneda española se efectuará aplicando el tipo de cambio vendedor fijado por el Banco de España correspondiente al día del devengo del Impuesto o, en su defecto, al inmediato anterior.
+9. En la base imponible de las operaciones a que se refieren los números anteriores, en cuanto proceda, deberán incluirse o excluirse los gastos o componentes comprendidos, respectivamente, en los números 2 y 3 del artículo anterior.
+Se modifica el apartado 1 por el art. 2.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifican los apartados 1 y 2 y se añade el apartado 9 por el art. 17.7 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica el apartado 3 por la disposición final 1.4 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
+
+### Artículo 24
+
+Artículo 24. Regímenes de determinación de la base imponible en las entregas de bienes y en las prestaciones de servicios.
+Con carácter general la base imponible se determinará en régimen de estimación directa, sin más excepciones que las establecidas en esta Ley y en las normas reguladoras del régimen de estimación indirecta de las bases imponibles.
+
+### Artículo 25
+
+Artículo 25. Base imponible en las importaciones: Regla general.
+En las importaciones la base imponible resultará de adicionar al "Valor en Aduana" los conceptos siguientes en cuanto que no estén comprendidos en el mismo:
+1.º Cualquier gravamen o tributo devengado con ocasión de la importación, con excepción del propio Impuesto General Indirecto Canario, y el Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias.
+2.º Los gastos accesorios y complementarios, tales como comisiones, embalajes, portes, transportes y seguros que se produzcan desde la entrada en las islas Canarias hasta el primer lugar de destino en el interior de dichos territorios.
+A estos efectos, se considerará como primer lugar de destino el que figure en el documento de transporte al amparo del cual los bienes son introducidos en las islas Canarias. De no existir esta indicación, se considerará que el primer lugar de destino es aquel en que se produce la primera desagregación o separación del cargamento en el interior de dichos territorios. No obstante, cuando el primer lugar de destino estuviera emplazado en cualquier isla y la entrada se efectuara por isla diferente de la de destino, no se adicionarán al "Valor en Aduana" los gastos pormenorizados en el párrafo anterior, cuando tuvieran como objeto permitir el traslado de los bienes a la isla de destino.
+Se modifica el apartado 1 por el art. 10.1.9 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica por el art. 3.6 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+
+### Artículo 26
+
+Artículo 26. Base imponible en las importaciones: Reglas especiales.
+1. La base imponible en las importaciones a consumo de bienes que previamente hubiesen estado colocados al amparo de los regímenes de importación temporal, tránsito, sistema de suspensión del de perfeccionamiento activo, Zona Franca, Depósito Franco o depósito, se determinará de la siguiente forma:
+1.º Tratándose de bienes originarios de la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o bien de Terceros Países, la base imponible se calculara de conformidad con lo previsto en el artículo anterior.
+2.º Si los bienes fuesen originarios de las Islas Canarias y hubiesen sido objeto de una entrega exenta del Impuesto, la base imponible será la suma de las contraprestaciones de dicha entrega y de los servicios directamente relacionados con la misma, determinadas de acuerdo con las normas contenidas en los artículos 22 y 23 de esta Ley.
+3.º Cuando los bienes importados a consumo estuviesen constituídos en parte por bienes comprendidos en el apartado 1.º anterior y en parte por bienes comprendidos en el apartado 2.º anterior, la base imponible será la suma de la que corresponda a cada uno de ellos, determinada de acuerdo con las normas de los citados apartados 1.º y 2.º que resulten aplicables según su origen.
+4.º Si los bienes importados a consumo fuesen originarios de las Islas Canarias y no hubiesen sido objeto de una entrega previa, la base imponible estará constituida exclusivamente por la que corresponda a los bienes comprendidos en los apartados 1.º o 2.º anteriores que, en su caso, se les hubiesen incorporado, determinada de acuerdo con las normas de dichos apartados que resulten aplicables según su origen.
+5.º En la base imponible de las importaciones a consumo de los bienes a que se refieren los apartados precedentes se integrarán asimismo, y siempre que no estén incluidas en los conceptos anteriores, las contraprestaciones correspondientes a las prestaciones de servicio directamente relacionadas con los bienes que se importen, cuando dichas prestaciones hayan estado exentas del Impuesto y hayan sido efectuadas mientras los mismos hubieran permanecido al amparo de los citados regímenes aduaneros. Tales contraprestaciones se determinarán de acuerdo con las normas contenidas en los artículos 22 y 23 de esta Ley.
+6.º Cuando se hubiesen producido una o varias entregas de los bienes importados mientras los mismos se encontrasen al amparo de los regímenes aduaneros indicados, la base imponible resultará de adicionar los siguientes conceptos:
+a) La contraprestación de la entrega de los bienes efectuada al importador, incrementada con la de los bienes incorporados a los interiores por el propio importador hasta el momento de la importación si estos últimos hubiesen sido adquiridos en virtud de operaciones exentas del Impuesto. Si las contraprestaciones correspondientes a los bienes originarios de la Península, Islas Baleares, Ceuta, Melilla, cualquier otro Estado miembro de la CEE o de Terceros Países fuesen interiores a sus respectivos «Valores en Aduana», se tomarán estos valores para la determinación de la base imponible.
+b) La contraprestación de los servicios directamente relacionados con los bienes de referencia y que se hubiesen prestado desde su entrega al importador hasta el momento de la importación.
+Las contraprestaciones a que se refieren las letras a) y b) anteriores se determinarán de acuerdo con las contenidas en los artículos 22 y 23 de esta Ley.
+c) Los derechos, gravámenes y gastos accesorios y complementarios comprendidos en los apartados 1.º y 2.º del artículo anterior de esta Ley.
+2. En las importaciones a consumo a que se refiere el apartado 5.º del número 2, del artículo 8 de esta Ley, la base imponible se determinará aplicando las normas que procedan del número 1, del presente artículo, de acuerdo con el origen de los bienes.
+3. La base imponible de las reimportaciones de bienes exportados temporalmente fuera del territorio de aplicación del Impuesto para ser objeto de trabajos de reparación, transformación, adaptación o trabajos por encargo será la contraprestación de los referidos trabajos determinada según las normas contenidas en los artículos 22 y 23 de la presente ley.
+También se comprenderán en la base imponible los conceptos a que se refieren los apartados 1.º y 2.º del artículo 25 de la presente ley, cuando no estén incluidos en la contraprestación definida en el párrafo anterior.
+4. La base imponible de las importaciones a que se refiere el artículo 8, apartado 2, números 2.º, 3.º y 4.º, incluirá el importe de la contraprestación de todas las operaciones relativas a los correspondientes medios de transporte, efectuadas con anterioridad a estas importaciones, que se hubiesen beneficiado de la exención del impuesto.
+5. El momento a que habrá de referirse la determinación de la base imponible o de los componentes de la misma será el del devengo del Impuesto.
+6. Las cuotas satisfechas en las importaciones de bienes a que se refiere el número 2 del artículo 15 de esta ley no podrán minorarse de la cuota que resulte de la importación a consumo de dichos bienes.
+Se modifican los apartados 3 y 4 y se renumeran los apartados 4 y 5 como 5 y 6 por el art. 80.6 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-2
+
+## CAPÍTULO VII
+
+El tipo impositivo
+
+### Artículo 27
+
+Artículo 27. Tipos impositivos.
+Los tipos de gravamen y el tipo de recargo sobre las importaciones realizadas por los comerciantes minoristas de este impuesto se regulan en los artículos 51 a 61 de la Ley, de la Comunidad Autónoma de Canarias, 4/2012, de 25 de junio, de medidas administrativas y fiscales, en virtud de la competencia normativa atribuida a dicha Comunidad Autónoma, en el número 2.º del apartado uno de la disposición adicional octava de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
+Se añade por la disposición final 6.6 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se deroga, con efectos desde el 1 de julio de 2012, por el art. 17.9 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica el apartado 1.1.f) por el art. 3.3 del Real Decreto-ley 6/2010, de 9 de abril. Ref. BOE-A-2010-5879.
+ Se añade el apartado 1.1.v) por la disposición final 4.3 de la Ley 11/2009, de 26 de octubre. Ref. BOE-A-2009-17000.
+ Téngase en cuenta la disposición final 12 en cuanto a su aplicación.
+ Se modifica el apartado 1.1.f) y se añade el 1.1.t) y u) por el art. 6.8 y 9 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Se modifica el apartado 1.1.f) por el art. 6.2 del Real Decreto-ley 2/2008, de 21 de abril. Ref. BOE-A-2008-6994.
+ Téngase en cuenta la disposición transitoria única.2 en cuanto a su aplicación.
+ Se modifica el apartado 1.1.a) y f) por el art. 8.9 y 10 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el apartado 1.1 por el art. 10.1.10 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica por el art. 8.1.12 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se añade el apartado 1.1.q), con efectos desde el 1 de enero de 2000 por el art. 73.2 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785.
+ Se añade el párrafo cuarto al apartado 1.1.c) por el art. 1.14 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Se modifica por el art. 3.7 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+
+## TÍTULO II
+
+Deducciones y devoluciones
+
+## CAPÍTULO I
+
+Deducciones
+
+### Artículo 28
+
+Artículo 28. Naturaleza y ámbito de aplicación.
+1. Los sujetos pasivos podrán deducir de las cuotas del Impuesto General Indirecto Canario devengadas como consecuencia de entregas de bienes y prestaciones de servicios que realicen en las islas Canarias las que, devengadas en dicho territorio, hayan soportado en las adquisiciones o importaciones de bienes o en los servicios que les hayan sido prestados, en la medida en que dichos bienes o servicios se utilicen en la realización de las operaciones sujetas y no exentas al Impuesto o en las demás operaciones determinadas en el número 4 del artículo siguiente de esta Ley.
+2. Sólo podrán hacer uso del derecho a deducir los sujetos pasivos que, teniendo la condición de empresarios o profesionales de conformidad con lo dispuesto en el artículo 5 de esta Ley, hayan iniciado efectivamente la realización habitual de las entregas de bienes o prestaciones de servicios correspondientes a sus actividades empresariales o profesionales.
+No obstante lo dispuesto en el párrafo anterior, las cuotas soportadas o satisfechas con anterioridad al inicio de la realización habitual de entregas de bienes o prestaciones de servicios correspondientes a sus actividades empresariales o profesionales podrán deducirse con arreglo a lo dispuesto en esta Ley.
+3. El ejercicio del derecho a la deducción correspondiente a los sujetos pasivos a quienes resulten aplicables los regímenes especiales regulados en esta Ley, se realizará de acuerdo con las normas establecidas para cada uno de ellos.
+4. No podrán ser objeto de deducción, en ninguna medida ni cuantía, las cuotas soportadas o satisfechas por las adquisiciones o importaciones de bienes o servicios efectuadas sin la intención de utilizarlos en la realización de actividades empresariales o profesionales, aunque ulteriormente dichos bienes o servicios se afecten total o parcialmente a las citadas actividades.
+5. Los sujetos pasivos que realicen conjuntamente operaciones sujetas al Impuesto y operaciones no sujetas por aplicación de lo establecido en el artículo 9.9.° de esta Ley, podrán deducir las cuotas soportadas por la adquisición de bienes y servicios destinados de forma simultánea a la realización de unas y otras operaciones en función de un criterio razonable y homogéneo de imputación de las cuotas correspondientes a los bienes y servicios utilizados para el desarrollo de las operaciones sujetas al Impuesto, incluyéndose, a estos efectos, las operaciones a que se refiere el artículo 29.4.2.° de esta Ley. Este criterio deberá ser mantenido en el tiempo salvo que por causas razonables haya de procederse a su modificación.
+A estos efectos, podrá atenderse a la proporción que represente el importe total, excluido el Impuesto General Indirecto Canario, determinado para cada año natural, de las entregas de bienes y prestaciones de servicios de las operaciones sujetas al Impuesto, respecto del total de ingresos que obtenga el sujeto pasivo en cada año natural por el conjunto de su actividad.
+El cálculo resultante de la aplicación de dicho criterio se podrá determinar provisionalmente atendiendo a los datos del año natural precedente, sin perjuicio de la regularización que proceda a final de cada año.
+No obstante lo anterior, no serán deducibles en proporción alguna las cuotas soportadas o satisfechas por las adquisiciones o importaciones de bienes o servicios destinados, exclusivamente, a la realización de las operaciones no sujetas a que se refiere el artículo 9.9° de esta Ley.
+Las deducciones establecidas en este apartado se ajustarán también a las condiciones y requisitos previstos en el Capítulo I del Título II de esta Ley y, en particular, los que se refieren a la regla de prorrata.
+Lo previsto en este número no será de aplicación a las actividades de gestión de servicios públicos en las condiciones señaladas en la letra a’) del artículo 22.2.b) de esta Ley.
+Se modifica el apartado 5 por la disposición final 3.4 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268
+ Se añade el apartado 5 por el art. 2.9 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica por el art. 8.1.13 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+
+### Artículo 29
+
+Artículo 29. Cuotas tributarias deducibles.
+1. Los sujetos pasivos a que se refiere el artículo anterior podrán deducir las cuotas del Impuesto General Indirecto Canario devengadas en las islas Canarias que hayan soportado por repercusión directa en sus adquisiciones de bienes o en los servicios a ellos prestados.
+Serán también deducibles, a partir del momento en que nazca el derecho a la deducción conforme a lo dispuesto en el artículo 32 de esta ley, las cuotas del mismo impuesto devengadas en dicho territorio en los supuestos siguientes:
+1.º En las importaciones.
+2.º En los supuestos de inversión del sujeto pasivo que se regulan en el apartado 2.º del número 1 del artículo 19 de esta ley y en el artículo 95 de la Ley, de la Comunidad Autónoma de Canarias, 4/2012, de 25 de junio, de medidas administrativas y fiscales, y en el supuesto de sustitución a que se refiere el apartado 2 del artículo 25 de la Ley 19/1994, de 6 de julio.
+2. En ningún caso procederá la deducción de las cuotas que no se hayan devengado con arreglo a derecho o en cuantía superior a la que legalmente corresponda.
+3. Asimismo, los sujetos pasivos que hayan efectuado adquisiciones a comerciantes minoristas, que se encuentren exentas en virtud del artículo 50.Uno.27.º de la Ley, de la Comunidad Autónoma de Canarias, 4/2012, de 25 de junio, de medidas administrativas y fiscales, podrán deducir la carga impositiva implícita del Impuesto General Indirecto Canario correspondiente a la contraprestación de esas operaciones, siempre que los comerciantes minoristas hayan hecho constar en su factura la condición de tales. Se considera carga impositiva implícita del Impuesto General Indirecto Canario el importe del Impuesto General Indirecto Canario que se encuentra implícito en la contraprestación de esas operaciones y se determinará aplicando un coeficiente sobre la cuantía de la contraprestación.
+El valor del referido coeficiente se obtendrá multiplicando 0,7 por el tipo de gravamen, expresado en tanto por uno, que se aplicaría a las entregas de bienes correspondientes en el supuesto de no estar exentas, aplicando la siguiente fórmula:
+K = (0,7 × T) / 100
+En la que K es el coeficiente a aplicar y T el tipo impositivo que corresponda.
+4. Las cuotas soportadas y la carga impositiva implícita reseñada en el número anterior serán deducibles en la medida en que los bienes o servicios cuya adquisición o importación determinen el derecho a la deducción, se utilicen por el sujeto pasivo en la realización de las siguientes operaciones:
+1.º Las efectuadas en las Islas Canarias que se indican a continuación:
+a) Las entregas de bienes y prestaciones de servicios sujetas y no exentas en el Impuesto General Indirecto Canario.
+b) Las prestaciones de servicios cuyo valor esté incluido en la base imponible de las importaciones de bienes a tenor de lo establecido en esta ley.
+c) Las entregas de bienes y prestaciones de servicios que gocen de exención en virtud de lo dispuesto en los artículos 11 y 12 de esta ley, así como las demás exportaciones definitivas de bienes y envíos de bienes con carácter definitivo a la Península, Islas Baleares, Ceuta o Melilla que no se destinen a la realización de las operaciones a que se refiere el apartado 2.º de este número 4.
+d) Las relativas a los regímenes suspensivos y depósitos que estén exentas del Impuesto de acuerdo con lo dispuesto en los números 1 y 2 del artículo 13 de esta ley y los servicios exentos de conformidad con lo establecido en el número 1, apartados c) y d), y el número 2 del artículo 15 de esta ley.
+e) Las de seguro, reaseguro, capitalización y servicios relativos a las mismas, así como las bancarias o financieras, que hubiesen resultado exentas, si se hubiesen realizado en el ámbito territorial de aplicación de este impuesto, en virtud de lo dispuesto en el artículo 50.uno.16.º y 18.º de la Ley, de la Comunidad Autónoma de Canarias, 4/2012, de 25 de junio, de medidas administrativas y fiscales, siempre que el destinatario de tales prestaciones no esté establecido en la Unión Europea o que las citadas operaciones estén directamente relacionadas con las exportaciones de bienes a países no pertenecientes a dicha Unión y se efectúen a partir del momento en que los bienes se expidan con destino a terceros países.
+f) Los servicios prestados por agencias de viajes exentos del Impuesto en virtud de lo establecido en el artículo 71 de la Ley, de la Comunidad Autónoma de Canarias 4/2012, de 25 de junio, de medidas administrativas y fiscales.
+g) Las entregas gratuitas de muestras y objetos publicitarios de escaso valor y las prestaciones de servicios de demostración a título gratuito, realizadas unas y otras para la promoción de actividades empresariales o profesionales.
+h) Las entregas de bienes de inversión exentas y las entregas de bienes exentas, por aplicación de lo dispuesto en los artículos 25 y 47, respectivamente, de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias.
+2.º Las realizadas en territorios terceros que originarían el derecho a deducción si se hubieran efectuado en las Islas Canarias.
+5. Los sujetos pasivos no podrán deducir las cuotas soportadas o satisfechas por las adquisiciones o importaciones de bienes o servicios que no se afecten, directa y exclusivamente a su actividad empresarial o profesional. Esta condición deberá cumplirla también la carga impositiva implícita a que se refiere el número 3 anterior.
+6. No se entenderán afectos directa y exclusivamente a la actividad empresarial o profesional, entre otros:
+1.º Los bienes que se destinen habitualmente a dicha actividad y a otras de naturaleza no empresarial ni profesional por periodos de tiempo alternativos.
+2.º Los bienes o servicios que se utilicen simultáneamente para actividades empresariales o profesionales y para necesidades privadas.
+3.º Los bienes o derechos que no figuren en la contabilidad o registros oficiales de la actividad empresarial o profesional del sujeto pasivo.
+4.º Los bienes adquiridos por el sujeto pasivo que no se integren en su patrimonio empresarial o profesional.
+5.º Los bienes destinados a ser utilizados en la satisfacción de necesidades personales o particulares de los empresarios o profesionales, de sus familiares o del personal dependiente de los mismos, con excepción de los destinados al alojamiento gratuito, en los locales o instalaciones de la empresa del personal encargado de la vigilancia y seguridad de los mismos, y a los servicios económicos y socio-culturales del personal al servicio de la actividad.
+7. No obstante lo dispuesto en los números anteriores, las cuotas soportadas por la adquisición, importación, arrendamiento o cesión de uso por otro título de los bienes de inversión que se empleen en todo o en parte en el desarrollo de la actividad empresarial o profesional podrán deducirse de acuerdo con las siguientes reglas:
+1.ª Cuando se trate de bienes de inversión distintos de los comprendidos en la regla siguiente, en la medida en que dichos bienes vayan a utilizarse previsiblemente, de acuerdo con criterios fundados, en el desarrollo de la actividad empresarial o profesional.
+2.ª Cuando se trate de vehículos automóviles de turismo y sus remolques, ciclomotores y motocicletas, se presumirán afectados al desarrollo de la actividad empresarial o profesional en la proporción del 50 por 100.
+A estos efectos, se considerarán automóviles de turismo, remolques, ciclomotores y motocicletas los definidos como tales en el anexo I del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, aprobado por el Real Decreto Legislativo 6/2015, de 30 de octubre, así como los definidos como vehículos mixtos en dicho anexo y, en todo caso, los denominados vehículos todo terreno o tipo “jeep”.
+No obstante lo dispuesto en esta regla 2.ª, los vehículos que se relacionan a continuación se presumirán afectados al desarrollo de la actividad empresarial o profesional en la proporción del 100 por 100:
+a) Los vehículos mixtos utilizados en el transporte de mercancías.
+b) Los utilizados en la prestación de servicios de transporte de viajeros mediante contraprestación.
+c) Los utilizados en la prestación de servicios de enseñanza de conductores o pilotos mediante contraprestación.
+d) Los utilizados por sus fabricantes en la realización de pruebas, ensayos, demostraciones o en la promoción de ventas.
+e) Los utilizados en los desplazamientos profesionales de los representantes o agentes comerciales.
+f) Los utilizados en servicios de vigilancia.
+3.ª Las deducciones a que se refieren las reglas anteriores deberán regularizarse cuando se acredite que el grado efectivo de utilización de los bienes en el desarrollo de la actividad empresarial o profesional es diferente del que se haya aplicado inicialmente.
+La mencionada regularización se ajustará al procedimiento establecido en el Capítulo I del Título II de esta ley para la deducción y regularización de las cuotas soportadas por la adquisición de los bienes de inversión, sustituyendo el porcentaje de operaciones que originan derecho a la deducción respecto del total por el porcentaje que represente el grado de utilización en el desarrollo de la actividad empresarial o profesional.
+4.ª El grado de utilización en el desarrollo de la actividad empresarial o profesional deberá acreditarse por el sujeto pasivo por cualquier medio de prueba admitido en derecho. No será medio de prueba suficiente la declaración-liquidación presentada por el sujeto pasivo ni la contabilización o inclusión de los correspondientes bienes de inversión en los registros oficiales de la actividad empresarial o profesional.
+5.ª A efectos de lo dispuesto en este apartado, no se entenderán afectos en ninguna proporción a una actividad empresarial o profesional los bienes que se encuentren en los supuestos previstos en los apartados 3.º y 4.º del apartado 6 de este artículo.
+8. Lo dispuesto en el número anterior será también de aplicación a las cuotas soportadas o satisfechas por la adquisición o importación de los siguientes bienes y servicios directamente relacionados con los bienes a que se refiere dicho número:
+1.º Accesorios y piezas de recambio para los mencionados bienes.
+2.º Combustibles, carburantes, lubrificantes y productos energéticos necesarios para su funcionamiento.
+3.º Servicios de aparcamiento y utilización de vías de peaje.
+4.º Rehabilitación, renovación y reparación de los mismos.
+Se modifica por el art. 82.1 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-4
+ Se modifican los apartados 1 y 4.1.e) por el art. 12.1.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se modifica el apartado 1 por el art. 8.11 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el apartado 1.2 por el art. 10.1.11 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se añade el apartado 4.1.h) por el art. 8.1.14 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se añade el apartado 8 por el art. 1.15 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este apartado ya estaba añadido por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se añade el apartado 8 por el art. 1.13 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+ Se modifica el apartado 3 por el art. 3.8 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+
+### Artículo 30
+
+Artículo 30. Exclusiones y restricciones del derecho a deducir.
+1. No podrán ser objeto de deducción, en ninguna proporción, las cuotas soportadas como consecuencia de la adquisición, importación, arrendamiento, transformación, reparación, mantenimiento o utilización de los bienes y servicios que se indican a continuación y de los bienes y servicios accesorios o complementarios a los mismos:
+1.º Las joyas, alhajas, piedras preciosas, perlas naturales o cultivadas, y objetos elaborados total o parcialmente con oro o platino.
+A efectos de este impuesto se considerarán piedras preciosas el diamante, el rubí, el zafiro, la esmeralda, el aguamarina, el ópalo y la turquesa.
+2.º Los alimentos, las bebidas y el tabaco.
+3.º Los espectáculos y servicios de carácter recreativo.
+4.º Los bienes o servicios destinados a atenciones a clientes, asalariados o a terceras personas.
+No tendrán esta consideración:
+a) Las muestras gratuitas y los objetos publicitarios de escaso valor.
+Se entenderán por muestras de mercancías los artículos representativos de una categoría de las mismas que, por su modo de presentación o cantidad, solo puedan utilizarse en fines de promoción.
+Se considerarán objetos de carácter publicitario los que carezcan de valor comercial intrínseco, en los que se consigne de forma indeleble la mención publicitaria.
+b) Los bienes destinados exclusivamente a ser objeto de entrega o cesión de uso, directamente o mediante transformación, a título oneroso, que, en un momento posterior a su adquisición, se destinasen a atenciones a clientes, asalariados o terceras personas.
+5.º Los servicios de desplazamiento o viajes, hostelería y restauración, salvo que el importe de los mismos tuviera la consideración de gasto fiscalmente deducible a efectos del Impuesto sobre la Renta de las Personas Físicas o del Impuesto sobre Sociedades.
+2. Se exceptúan de lo dispuesto en el número anterior las cuotas soportadas con ocasión de las operaciones mencionadas en ellos y relativas a los siguientes bienes y servicios:
+1.º Los bienes que objetivamente considerados sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica.
+2.º Los bienes destinados exclusivamente a ser objeto de entrega o cesión de uso a título oneroso, directamente o mediante transformación por empresarios o profesionales dedicados con habitualidad a la realización de tales operaciones.
+3.º Los servicios recibidos para ser prestados como tales a título oneroso por empresarios o profesionales dedicados con habitualidad a la realización de dichas operaciones.
+3. Las deducciones establecidas en el presente artículo y en el anterior se ajustarán también a las condiciones y requisitos previstos en el Capítulo I del Título II de esta ley y, en particular, los que se refieren a la regla de prorrata.
+Se modifica por el art. 82.2 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-4
+ Se modifica el apartado 1.2 y 3 y el apartado 2 por el art. 12.1.5 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se modifica el apartado 1.4 por el art. 9.6 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se modifican los apartados 1.1 y 1.2 por el art. 1.16 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que estos apartados ya estaban modificados por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifican los apartados 1.1 y 1.2 por el art. 1.14 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+### Artículo 31
+
+Artículo 31. Requisitos formales de la deducción.
+1. Sólo podrán ejercitar el derecho a la deducción los sujetos pasivos que estén en posesión del documento justificativo de su derecho.
+A estos efectos, únicamente se consideran documentos justificativos del derecho a la deducción:
+1.º La factura original expedida por quien realice la entrega o preste el servicio o, en su nombre y por su cuenta, por su cliente o por un tercero, siempre que, para cualquiera de estos casos, se cumplan los requisitos que se establezcan reglamentariamente.
+2.º En el caso de las importaciones, el documento en el que conste la liquidación practicada por la Administración o, si se trata de operaciones asimiladas a importaciones, la autoliquidación en la que se consigne el Impuesto devengado con ocasión de su realización.
+3.° La factura original o el justificante contable de la operación expedido por quien realice una entrega de bienes o una prestación de servicios al destinatario, sujeto pasivo del Impuesto, en los supuestos a que se refiere el apartado 2.° del número 1 del artículo 19 y el artículo 58 ter.6 de esta Ley, siempre que la cuota devengada por dicha entrega o prestación esté debidamente declarada en la declaración-liquidación a que se refiere el artículo 59.1.f) de la Ley 20/1991.
+En el supuesto de sustitución a que se refiere el apartado 6 del artículo 25 de la Ley 19/1994, de 6 de julio, el documento de ingreso de la cuota.
+4.º El recibo original firmado por el titular de la explotación agrícola, forestal, ganadera o pesquera a que se refiere el artículo 58.4 de esta Ley.
+2. Los documentos anteriores que no cumplan todos y cada uno de los requisitos establecidos legal y reglamentariamente no justificarán el derecho a la deducción, salvo que se produzca la correspondiente rectificación de los mismos. El derecho a la deducción de las cuotas cuyo ejercicio se justifique mediante un documento rectificativo sólo podrá efectuarse cuando el empresario o profesional reciba dicho documento o en los siguientes, siempre que no haya transcurrido el plazo al que hace referencia el artículo 33 bis de esta Ley.
+3. Tratándose de bienes o servicios adquiridos en común por varios sujetos pasivos, cada uno de los adquirentes podrá efectuar la deducción de la parte proporcional correspondiente, siempre que en cada uno de los ejemplares de la factura o documento justificativo se consigne, en forma distinta y separada, la porción de base imponible y cuota repercutida a cada uno de los adquirentes en común.
+4. En ningún caso será admisible el derecho a deducir en cuantía superior a la cuota tributaria expresa y separadamente consignada que haya sido repercutida o, en su caso, satisfecha según el documento justificativo de la deducción, salvo en el caso de la deducción que se establece en el número 3 del artículo 29 de esta Ley.
+Se modifica el apartado 1.3, con efectos desde el 1 de enero de 2011 por la disposición final 1.2.4 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se declara la inconstitucionalidad y nulidad del apartado 1.3, con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.
+ Se modifica el apartado 1.3, con efectos desde el 1 de enero de 2011 por la disposición final 27.5 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica el apartado 1.2 por el art. 6.10 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Se modifica por el art. 8.12 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Véase el art. 9.14 de la Ley 66/1997, de 30 de diciembre en cuanto a la aplicación del apartado 2. Ref. BOE-A-1997-28053.
+
+### Artículo 32
+
+Artículo 32. Nacimiento del derecho a deducir.
+El derecho a la deducción nace en el momento en que se devengan las cuotas deducibles.
+No obstante, en el supuesto de sustitución a que se refiere el apartado 6 del artículo 25 de la Ley 19/1994, de 6 de julio, el derecho a la deducción nace en el momento en que se ingrese la cuota.
+Se modifica, con efectos desde el 1 de enero de 2011 por la disposición final 1.2.5 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se declara inconstitucional y nulo, con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.
+ Se modifica, con efectos desde el 1 de enero de 2011 por la disposición final 27.6 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica por el art. 6.11 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Téngase en cuenta la disposición final 5.d) en cuanto a su aplicación.
+ Se modifica el apartado 2 por el art. 10.1.12 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Artículo 33
+
+Artículo 33. Ejercicio del derecho a la deducción.
+1. En las declaraciones-liquidaciones correspondientes a cada uno de los periodos de liquidación, los sujetos pasivos podrán deducir globalmente el montante total de las cuotas deducibles soportadas en dicho periodo del importe total de las cuotas del Impuesto General Indirecto Canario, devengadas durante el mismo período de liquidación en las Islas Canarias como consecuencia de las entregas de bienes o prestaciones de servicios por ellos realizadas.
+2. Las deducciones deberán efectuarse en función del destino previsible de los bienes y servicios adquiridos, sin perjuicio de su rectificación posterior si aquél fuese alterado.
+No obstante, en los supuestos de destrucción o pérdida de los bienes adquiridos o importados, por causa no imputable al sujeto pasivo debidamente justificada, no será exigible la referida rectificación.
+3. El derecho a la deducción solo podrá ejercitarse en la declaración-liquidación relativa al periodo de liquidación en que su titular haya soportado las cuotas deducibles o en las de los sucesivos, siempre que no hubiera transcurrido el plazo de cuatro años, contados a partir del nacimiento del mencionado derecho. El porcentaje de deducción de las cuotas deducibles soportadas será el definitivo del año en que se haya producido el nacimiento del derecho a deducir de las citadas cuotas.
+Sin embargo, en caso de declaración de concurso, el derecho a la deducción de las cuotas soportadas con anterioridad a la misma, que estuvieran pendientes de deducir, deberá ejercitarse en la declaración-liquidación correspondiente al periodo de liquidación en el que se hubieran soportado.
+Cuando no se hubieran incluido las cuotas soportadas deducibles a que se refiere el párrafo anterior en dichas declaraciones-liquidaciones, y siempre que no hubiera transcurrido el plazo de cuatro años, contados a partir del nacimiento del derecho a la deducción de tales cuotas, el concursado o, en los casos previstos por el artículo 86.3 de la Ley Concursal, la administración concursal, podrá deducirlas mediante la rectificación de la declaración-liquidación relativa al periodo en que fueron soportadas.
+Cuando hubiese mediado requerimiento de la Administración o actuación inspectora, serán deducibles, en las liquidaciones que procedan, las cuotas soportadas que estuviesen debidamente contabilizadas en los libros registros establecidos reglamentariamente para este Impuesto, mientras que las cuotas no contabilizadas serán deducibles en la declaración-liquidación del periodo correspondiente a su contabilización o en las de los siguientes. En todo caso, unas y otras cuotas solo podrán deducirse cuando no haya transcurrido el plazo a que se refiere el primer párrafo.
+4. Se entenderán soportadas las cuotas deducibles, así como la carga impositiva implícita en las adquisiciones a comerciantes minoristas, en el momento en que el empresario o profesional que las soportó reciba la correspondiente factura o demás documentos justificativos del derecho a deducir.
+Si el devengo del Impuesto se produjese en un momento posterior al de la recepción de la factura, dichas cuotas se entenderán soportadas cuando se devenguen.
+En el supuesto de sustitución a que se refiere el apartado 6 del artículo 25 de la Ley 19/1994, de 6 de julio, las cuotas se entenderán soportadas en el momento en el que se ingresen.
+5. Cuando la cuantía de las deducciones procedentes supere el importe de las cuotas devengadas en el mismo periodo de liquidación, el exceso podrá ser compensado en las declaraciones-liquidaciones posteriores, siempre que no hubiesen transcurrido cuatro años contados a partir de la presentación de la declaración-liquidación en que se origine dicho exceso.
+No obstante, el sujeto pasivo podrá optar por la devolución del saldo existente a su favor cuando resulte procedente en virtud de lo dispuesto en el Capítulo II de este Título, sin que en tal caso pueda efectuar su compensación en declaraciones-liquidaciones posteriores, cualquiera que sea el periodo de tiempo transcurrido hasta que dicha devolución se haga efectiva.
+En la declaración-liquidación, prevista reglamentariamente, referida a los hechos imponibles anteriores a la declaración de concurso se deberá aplicar la totalidad de los saldos acumulados a compensar de periodos de liquidación anteriores a dicha declaración.
+6. En los supuestos de errores o de modificación de bases o cuotas impositivas soportadas, la rectificación en las deducciones deberá efectuarse en la forma y plazos que se determinen reglamentariamente.
+Se modifica el apartado 4, con efectos desde el 1 de enero de 2011 por la disposición final 1.2.6 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se declara la inconstucionalidad y nulidad del apartado 4, con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.
+ Se modifican los apartados 3 y 5 por el art. 17.8 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifican los apartado 3 y 5 por el art. 6.4 de la Ley 7/2012, de 29 de octubre. Ref. BOE-A-2012-13416.
+ Se modifica el apartado 4, con efectos desde el 1 de enero de 2011 por la disposición final 27.7 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica el apartado 4 por el art. 6.12 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Téngase en cuenta la disposición final 5.d) en cuanto a su aplicación.
+ Se modifica el apartado 4 por el art. 8.13 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el párrafo primero de los apartados 3 y 5 por el art. 9.5 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se añade el último párrafo al apartado 2 y se modifica el 3 por el art. 1.17 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que estos apartados ya estaban modificados por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se añade el último párrafo al apartado 2 y se modifica el 3 por el art. 1.15 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+### Artículo 33 bis
+
+Artículo 33 bis. Caducidad del derecho a la deducción.
+El derecho a la deducción caduca cuando el titular no lo hubiera ejercitado en los plazos y cuantías señalados en el artículo 33 de esta Ley.
+No obstante, en los casos en que la procedencia del derecho a deducir o la cuantía de la deducción esté pendiente de la resolución de una controversia en vía administrativa o jurisdiccional, el derecho a la deducción caducará cuando hubiesen transcurrido cuatro años desde la fecha en que la resolución o sentencia sean firmes.
+Se modifica el párrafo segundo por el art. 9.5 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se añade por el art. 1.18 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este art. ya estaba añadido por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se añade por el art. 1.16 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+### Artículo 34
+
+Artículo 34. Régimen de deducciones en actividades diferenciadas.
+1. Los sujetos pasivos que realicen actividades económicas en sectores diferenciados de la actividad empresarial o profesional deberán aplicar el régimen de deducciones con independencia respecto de cada uno de ellos.
+La aplicación de la regla de prorrata especial podrá efectuarse independientemente respecto de cada uno de los sectores diferenciados de la actividad empresarial o profesional determinados por aplicación de lo dispuesto en las letras a') y c') del número 2 del presente artículo.
+Los regímenes de deducción correspondientes a los sectores diferenciados de actividad determinados por aplicación de lo dispuesto en el número 2, letra b') del presente artículo se regirán, en todo caso, por lo previsto en la misma para los regímenes especiales simplificado, de la agricultura y ganadería, de las operaciones con oro de inversión y de los comerciantes minoristas, según corresponda.
+Cuando se efectúen adquisiciones o importaciones de bienes o servicios para su utilización en común en varios sectores diferenciados de actividad, será de aplicación lo establecido en el artículo 37, números 2 y siguientes, de esta Ley, para determinar el porcentaje de deducción aplicable respecto de las cuotas soportadas en dichas adquisiciones o importaciones. A tal fin, se computarán las operaciones realizadas en los sectores diferenciados correspondientes y se considerará que, a tales efectos, no originan el derecho a deducir las operaciones incluidas en el régimen especial de la agricultura y ganadería o en el régimen especial de los comerciantes minoristas.
+Por excepción a lo dispuesto en el párrafo anterior, no se tendrán en cuenta las operaciones realizadas en el sector diferenciado de actividad de grupo de entidades. Asimismo y siempre que no pueda aplicarse lo previsto en dicho párrafo, cuando tales bienes o servicios se destinen a ser utilizados simultáneamente en actividades acogidas al régimen especial simplificado y en otras actividades sometidas al régimen especial de la agricultura y ganadería o de los comerciantes minoristas, el referido porcentaje de deducción, a efectos del régimen simplificado, será del 50 por 100 si la afectación se produce respecto de actividades sometidas a dos de los citados regímenes especiales, o de un tercio, en otro caso.
+2. A efectos de lo dispuesto en esta Ley, se considerarán sectores diferenciados de la actividad empresarial o profesional los siguientes:
+a') Aquellos en los que las actividades económicas realizadas y los regímenes de deducción aplicables sean distintos.
+Se considerarán actividades económicas distintas aquellas que tengan asignados grupos diferentes en la Clasificación Nacional de Actividades Económicas.
+No obstante lo establecido en el párrafo anterior, no se reputará distinta la actividad accesoria a otra cuando, en el año precedente, su volumen de operaciones no excediera del 15 por 100 del de esta última y, además, contribuya a su realización. Si no se hubiese ejercido la actividad accesoria durante el año precedente, en el año en curso el requisito relativo al mencionado porcentaje será aplicable según las previsiones razonables del sujeto pasivo, sin perjuicio de la regularización que proceda si el porcentaje real excediese del límite indicado.
+Las actividades accesorias seguirán el mismo régimen que las actividades de las que dependan.
+Los regímenes de deducción a que se refiere esta letra a') se considerarán distintos si los porcentajes de deducción, determinados con arreglo a lo dispuesto en el artículo 37 de esta Ley, que resultarían aplicables en la actividad o actividades distintas de la principal, difiriesen en más de 50 puntos porcentuales del correspondiente a la citada actividad principal.
+La actividad principal, junto con las actividades accesorias a la misma y las actividades económicas distintas cuyos porcentajes de deducción no difiriesen en más de 50 puntos porcentuales con el de aquélla constituirán un solo sector diferenciado.
+Las actividades distintas de la principal cuyos porcentajes de deducción difiriesen en más de 50 puntos porcentuales con el de ésta constituirán otro sector diferenciado del principal.
+A los efectos de lo dispuesto en la letra a'), se considerará principal la actividad en la que se hubiese realizado mayor volumen de operaciones durante el año inmediato anterior.
+b') Las actividades acogidas a los regímenes especiales simplificado, de la agricultura y ganadería, de las operaciones con oro de inversión y las actividades realizadas por comerciantes minoristas que resulten exentas en virtud de lo dispuesto en el artículo 10.1.27) de esta Ley, así como aquellas a las que sea de aplicación el régimen especial del comerciante minorista.
+c') Las operaciones de arrendamiento financiero a que se refiere la disposición adicional tercera de la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito.
+3. La Consejería de Economía y Hacienda podrá autorizar la aplicación de un régimen de deducción común al conjunto de actividades empresariales o profesionales diferenciadas realizadas por un mismo sujeto pasivo con los requisitos que se determinan reglamentariamente.
+Lo dispuesto en el párrafo anterior únicamente será aplicable a las actividades empresariales o profesionales diferenciadas determinadas conforme a lo dispuesto en la letra a') del número 2 del presente artículo.
+Se modifica el último párrafo del apartado 1 y la letra c') del apartado 2 por el art. 2.10 y 11 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifican los apartados 1 y 2 por el art. 9.7 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se modifica el apartado 1 por el art. 9.4 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+ Se modifica por el art. 1.19 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este art. ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica por el art. 1.17 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+### Artículo 35
+
+Artículo 35. Regla de prorrata.
+La regla de prorrata será de aplicación cuando el sujeto pasivo, en el ejercicio de su actividad empresarial o profesional, efectúe conjuntamente entregas de bienes o prestaciones de servicios que originen el derecho a la deducción y otras operaciones de análoga naturaleza que no habiliten para el ejercicio del citado derecho.
+Se modifica por la disposición final 1.1 de la Ley 3/2006, de 29 de marzo. Ref. BOE-A-2006-5691.
+ Se modifica por el art. 9.8 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Téngase en cuenta la disposición transitoria 8.3 en cuanto a la aplicación del párrafo segundo.
+
+### Artículo 36
+
+Artículo 36. Clases de prorrata y criterios de aplicación.
+1. La regla de prorrata tendrá dos modalidades de aplicación: general y especial.
+La regla de prorrata general se aplicará cuando no se den las circunstancias indicadas en el apartado siguiente.
+2. La regla de prorrata especial será aplicable en los siguientes supuestos:
+1.º Cuando los sujetos pasivos opten por la aplicación de dicha regla en los plazos y forma que se determinen reglamentariamente.
+2.º Cuando el montante total de las cuotas deducibles en un año natural por aplicación de la regla de prorrata general exceda en un 10 por ciento o más del que resultaría por aplicación de la regla de prorrata especial.
+Se modifica por el art. 2.12 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 37
+
+Artículo 37. La prorrata general.
+1. En los casos de aplicación de la regla de prorrata general, solo será deducible el impuesto soportado en cada período de liquidación en el porcentaje que resulte de lo dispuesto en el número 2 siguiente.
+Para la aplicación de lo dispuesto en el párrafo anterior, no se computarán en el impuesto soportado las cuotas que no sean deducibles, en virtud de lo dispuesto en los artículos 29 y 30 de esta ley.
+2. El porcentaje de deducción a que se refiere el número anterior se determinará multiplicando por 100 el resultante de una fracción en la que figuren:
+1.º En el numerador, el importe total, determinado para cada año natural, de las entregas de bienes y prestaciones de servicios que originen el derecho a la deducción, realizadas por el sujeto pasivo en el desarrollo de su actividad empresarial o profesional o, en su caso, en el sector diferenciado que corresponda.
+2.º En el denominador, el importe total, determinado para el mismo período de tiempo, de las entregas de bienes y prestaciones de servicios realizadas por el sujeto pasivo en el desarrollo de su actividad empresarial o profesional o, en su caso, en el sector diferenciado que corresponda, incluidas aquellas que no originen el derecho a deducir.
+En las operaciones de cesión de divisas, billetes de banco y monedas que sean medios legales de pago, exentas del impuesto, el importe a computar en el denominador será el de la contraprestación de la reventa de dichos medios de pago, incrementado, en su caso, en el de las comisiones percibidas y minorado en el precio de adquisición de las mismas o, si este no pudiera determinarse, en el precio de otras divisas, billetes o monedas de la misma naturaleza adquiridas en igual fecha.
+En las operaciones de cesión de pagarés y valores no integrados en la cartera de las entidades financieras, el importe a computar en el denominador será el de la contraprestación de la reventa de dichos efectos incrementado, en su caso, en el de los intereses y comisiones exigibles y minorado en el precio de adquisición de los mismos.
+Tratándose de valores integrados en la cartera de las entidades financieras deberán computarse en el denominador de la prorrata los intereses exigibles durante el período de tiempo que corresponda y, en los casos de transmisión de los referidos valores, las plusvalías obtenidas.
+La prorrata de deducción resultante de la aplicación de los criterios anteriores se redondeará en la unidad superior.
+3. Para la determinación de dicho porcentaje no se computará en ninguno de los términos de la relación:
+1.º Las operaciones realizadas desde establecimientos situados fuera de las islas Canarias.
+2.º Las cuotas del Impuesto General Indirecto Canario que hayan gravado directamente las operaciones a que se refiere el número 2 anterior.
+3.º El importe de las entregas de aquellos bienes de inversión que los sujetos pasivos hayan utilizado en su actividad empresarial o profesional.
+4.º El importe de las operaciones inmobiliarias o financieras que no constituyan actividad empresarial o profesional habitual del sujeto pasivo.
+En todo caso se reputará actividad empresarial o profesional habitual del sujeto pasivo la de arrendamiento.
+Tendrán la consideración de operaciones financieras a estos efectos las descritas en el artículo 50.uno.18.º de la Ley, de la Comunidad Autónoma de Canarias 4/2012, de 25 de junio, de medidas administrativas y fiscales.
+5.º Las operaciones no sujetas al Impuesto según lo dispuesto en el artículo 9 de esta ley.
+4. A los efectos del cálculo de la prorrata se entenderá por importe total de operaciones la suma de las contraprestaciones correspondientes a las mismas, determinadas según lo establecido en los artículos 22 y 23 de esta ley, incluso respecto de las operaciones exentas del impuesto y las no sujetas a que se refiere el artículo 29.4.2.º de esta ley.
+Tratándose de exportaciones definitivas, en defecto de contraprestación se tomará como importe de la operación el valor en el interior de las islas Canarias de los productos exportados.
+5. En las ejecuciones de obras y prestaciones de servicios realizadas fuera del territorio de aplicación del Impuesto se tomará como importe de la operación el resultante de multiplicar la total contraprestación por el coeficiente obtenido de dividir la parte de coste soportada en el territorio de aplicación del impuesto por el coste total de la operación.
+A efectos de lo dispuesto en el párrafo anterior, no se computarán los gastos de personal dependiente de la empresa.
+6. Para efectuar la imputación temporal serán de aplicación, respecto de la totalidad de operaciones incluidas en los números anteriores, las normas sobre el devengo del impuesto establecidas en esta ley.
+No obstante, las exportaciones, exentas del impuesto en virtud de lo establecido en el artículo 11 de esta ley, y las demás exportaciones definitivas de bienes se entenderán realizadas, a estos efectos, en el momento en que sea admitido por el organismo competente la correspondiente solicitud de salida.
+Se modifica por el art. 82.3 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-4
+ Se modifica el apartado 5 por el art. 2.13 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica el apartado 2.2 por la disposición final 1.2 de la Ley 3/2006, de 29 de marzo. Ref. BOE-A-2006-5691.
+ Se modifica por el art. 8.1.15 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifica el párrafo tercero del apartado 2.2 por el art. 6.2 de la Ley 6/2000, de 13 de diciembre. Ref. BOE-A-2000-22616.
+ Téngase en cuenta la disposición transitoria 5 en cuanto a la aplicación de la letra c) del párrafo tercero del apartado 2.2.
+ Se modifican los apartados 1 y 2 por el art. 9.9 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Téngase en cuenta la disposición transitoria 8.3 en cuanto a su aplicación.
+ Se modifica el apartado 2 por el art. 1.20 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este apartado ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 2 por el art. 1.18 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+### Artículo 38
+
+Artículo 38. Procedimiento de la prorrata general.
+1. La prorrata de deducción provisionalmente aplicable cada año natural será la determinada en base a las operaciones del año precedente.
+2. Salvo lo dispuesto en el artículo 43 de esta Ley, los sujetos pasivos que no puedan calcular dicha prorrata por no haber iniciado sus operaciones sujetas al Impuesto durante el año anterior, o que no puedan aplicar la prorrata resultante de las operaciones del año precedente por haberse alterado significativamente la proporción que en el mismo se daba, podrán practicar la deducción aplicando un porcentaje provisional aprobado por la Consejería de Hacienda del Gobierno Autónomo de Canarias en la forma que reglamentariamente se establezca.
+3. En la última liquidación del Impuesto correspondiente a cada año natural, el sujeto pasivo calculará la prorrata de deducción definitiva en función de las operaciones realizadas en dicho periodo y practicará la consiguiente regulación de las deducciones provisionales
+4. (Suprimido)
+Se suprime el apartado 4 por el art. 12.1.6 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 39
+
+Artículo 39. La prorrata especial.
+El ejercicio del derecho a deducir en la prorrata especial se ajustará a las siguientes reglas:
+1. Las cuotas impositivas soportadas en la adquisición o importación de bienes o servicios utilizados exclusivamente en la realización de operaciones que originen el derecho a la deducción podrán deducirse íntegramente.
+2. Las cuotas impositivas soportadas en la adquisición o importación de bienes o servicios utilizados exclusivamente en la realización de operaciones que no originen el derecho a deducir no podrán ser objeto de deducción.
+3. Las cuotas impositivas soportadas en la adquisición o importación de bienes o servicios utilizados sólo en parte en la realización de operaciones que originen el derecho a la deducción, podrán ser deducidas en la proporción resultante de aplicar al importe global de las mismas el porcentaje de la prorrata general regulado en esta Ley.
+Se modifica por la disposición final 1.3 de la Ley 3/2006, de 29 de marzo. Ref. BOE-A-2006-5691.
+ Se modifica el apartado 1 por el art. 9.10 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Téngase en cuenta la disposición transitoria 8.3 en cuanto a su aplicación.
+
+### Artículo 40
+
+Artículo 40. Deducciones por bienes de inversión y regularización de las mismas.
+1. Los sujetos pasivos podrán deducir las cuotas impositivas soportadas en la adquisición o importación de bienes calificados como de inversión con arreglo a las normas aplicables a los bienes de otra naturaleza.
+2. Sin embargo, las cuotas deducibles deberán regularizarse durante los cuatro años naturales siguientes a aquel en que se inicie la utilización efectiva o entrada en funcionamiento de dichos bienes cuando, entre la prorrata definitiva correspondiente a cada uno de dichos años y la que prevaleció en el año que se soportó la repercusión, exista una diferencia superior a diez puntos porcentuales. A los efectos de esta regularización, se considerará que no originan el derecho a deducir las operaciones realizadas por los sujetos pasivos que estén acogidos al régimen especial de comerciantes minoristas en el seno de dicho régimen.
+3. Tratándose de terrenos o edificaciones, la regularización se referirá a los nueve años siguientes a aquel en que tuvo lugar el comienzo de su utilización.
+4. La regularización de las cuotas impositivas que hubiesen sido soportadas con posterioridad al inicio de la utilización efectiva o entrada en funcionamiento de los bienes de inversión, deberá efectuarse al finalizar el año en que se soporten dichas cuotas con referencia a la fecha en que se hubieran producido las circunstancias indicadas y por cada uno de los años transcurridos desde entonces.
+5. Los ingresos o, en su caso, deducciones complementarias resultantes de la regularización de deducciones por bienes de inversión deberán efectuarse en la declaración-liquidación correspondiente al último período de liquidación del año natural a que se refieran, salvo el supuesto mencionado en el número 4 del presente artículo, en el que deberá realizarse en el mismo año en que se soporten las cuotas repercutidas.
+6. Lo dispuesto en este artículo no será de aplicación en las operaciones a que se refiere el artículo 9, apartado 1., de esta Ley, quedando el adquirente automáticamente subrogado en la posición del transmitente.
+En tales casos, la prorrata de deducción aplicable para practicar la regularización de deducciones de dichos bienes durante el mismo año y los que falten para terminar el período de regularización será la que corresponda al adquirente.
+7. En los supuestos de pérdida o inutilización definitiva de los bienes de inversión, por causa no imputable al sujeto pasivo debidamente justificada, no procederá efectuar regularización alguna durante los años posteriores a aquel en que se produzca dicha circunstancia.
+8. A los efectos de este impuesto, se considerarán de inversión los bienes corporales, muebles, semovientes o inmuebles que, por su naturaleza y función, estén normalmente destinados a ser utilizados por un período de tiempo superior a un año como instrumentos de trabajo o medios de explotación.
+9. No tendrán la consideración de bienes de inversión:
+1.º Los accesorios y piezas de recambio adquiridos para la reparación de los bienes de inversión utilizados por el sujeto pasivo.
+2.º Las ejecuciones de obra para la reparación de otros bienes de inversión.
+3.º Los envases y embalajes, aunque sean susceptibles de reutilización.
+4.º Las ropas utilizadas para el trabajo por los sujetos pasivos o el personal dependiente.
+5.º Los bienes excluidos del derecho a la deducción conforme dispone el número 1 del artículo 30 de esta Ley.
+6.º Cualquier otro bien cuyo valor de adquisición sea inferior a quinientas mil pesetas.
+Se modifica el apartado 9 por el art. 8.1.16 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifican los apartados 1, 2, 4 y 5 y se añaden los apartados 6 a 9 por el art. 1.21 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Se modifican los apartados 1, 4 y 5 y se añaden los apartados 6 a 9 por el art. 1.19 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+### Artículo 41
+
+Artículo 41. Procedimiento para practicar la regularización de deducciones por bienes de inversión.
+La regularización de las deducciones a que se refiere el artículo anterior se realizará del siguiente modo:
+1.º Conocido el porcentaje de deducción definitivamente aplicable en cada uno de los años en que debe tener lugar la regularización, se determinará el importe de la deducción que procedería si la repercusión de las cuotas se hubiese soportado en el año que se considere.
+2.º Dicho importe se restará del de la deducción efectuada en el año en que tuvo lugar la repercusión.
+3.º La diferencia positiva o negativa se dividirá por cinco o, tratándose de terrenos o edificaciones, por diez, y el cociente resultante será la cuantía del ingreso o de la deducción complementarios a efectuar.
+
+### Artículo 42
+
+Artículo 42. Transmisión de bienes de inversión durante el período de regularización.
+1. En los casos de entregas de bienes de inversión durante el período de regularización, ésta se realizará de una sola vez por el tiempo de dicho período que quede por transcurrir.
+A tal efecto, si la entrega estuviere sujeta al Impuesto y no exenta, se considerará que el bien de inversión se empleó exclusivamente en la realización de operaciones que originan el derecho a deducir durante todo el año en que se realizó dicha entrega y en los restantes hasta la expiración del período de regularización.
+No obstante, la diferencia resultante de la aplicación de lo dispuesto en el párrafo anterior no será deducible en cuanto exceda de la cuota repercutida al adquirente en la transmisión del bien a que se refiera.
+Si la entrega resultare exenta o no sujeta, se considerará que el bien de inversión se empleó exclusivamente en la realización de operaciones que no originan el derecho a deducir durante todo el año en que se realizó dicha entrega y en los restantes hasta la expiración del período de regularización.
+La regla establecida en el párrafo anterior también será de aplicación en los supuestos en que el sujeto pasivo destinase bienes de inversión a fines que, con arreglo a lo establecido en los números 5, 6, 7 y 8 del artículo 29 y el artículo 30 de esta ley, determinen la aplicación de limitaciones, exclusiones o restricciones del derecho a deducir, durante todo el año en que se produjesen dichas circunstancias y los restantes hasta la terminación del período de regularización.
+Se exceptúan de lo previsto en el primer párrafo de esta regla las entregas de bienes de inversión exentas o no sujetas que originen el derecho a la deducción, a las que se aplicará la regla primera. Las deducciones que procedan en este caso no podrán exceder de la cuota que resultaría de aplicar el tipo impositivo vigente en relación con las entregas de bienes de la misma naturaleza al valor interior de los bienes exportados.
+La regularización a que se refiere este artículo deberá practicarse incluso en el supuesto de que en los años anteriores no hubiere sido de aplicación la regla de prorrata.
+2. Lo dispuesto en este artículo no será aplicable, en ningún caso, a las operaciones a que se refiere el artículo 9., apartado 1. de esta Ley, quedando el adquirente subrogado en la posición del transmitente.
+En este caso, la prorrata de deducción aplicable para practicar la regularización de deducciones de dichos bienes durante el mismo año y los que faltan para terminar será la que corresponda al adquirente.
+3. Lo dispuesto en este artículo será de aplicación cuando los bienes de inversión se transmitan antes de su utilización por el sujeto pasivo.
+Se modifica el apartado 1 por el art. 82.4 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-4
+ Redactado conforme a la corrección de errores publicada en BOE núm. 52, de 2 de marzo de 2023. Ref. BOE-A-2023-5478
+ Se modifica el apartado 1 por el art. 10.1.13 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica el apartado 2 por el art. 1.22 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este apartado ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 2 por el art. 1.20 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+### Artículo 43
+
+Artículo 43. Deducciones de las cuotas soportadas o satisfechas con anterioridad al inicio de la realización de entregas de bienes o prestaciones de servicios correspondientes a actividades empresariales o profesionales.
+1. Quienes no viniesen desarrollando con anterioridad actividades empresariales o profesionales y adquieran la condición de empresario o profesional por efectuar adquisiciones o importaciones de bienes o servicios con la intención, confirmada por elementos objetivos, de destinarlos a la realización de actividades de tal naturaleza, podrán deducir las cuotas que, con ocasión de dichas operaciones, soporten o satisfagan antes del momento en que inicien la realización habitual de las entregas de bienes o prestaciones de servicios correspondientes a dichas actividades, de acuerdo con lo dispuesto en este artículo y en el artículo 43 bis siguiente.
+Lo dispuesto en el párrafo anterior será igualmente aplicable a quienes, teniendo ya la condición de empresario o profesional por venir realizando actividades de tal naturaleza, inicien una nueva actividad empresarial o profesional que constituya un sector diferenciado respecto de las actividades que venían desarrollando con anterioridad.
+2. Las deducciones a las que se refiere el apartado anterior se practicarán aplicando el porcentaje que proponga el empresario o profesional a la Consejería de Hacienda del Gobierno Autónomo de Canarias, salvo en el caso de que esta última fije uno diferente en atención a las características de las correspondientes actividades empresariales o profesionales.
+Tales deducciones se considerarán provisionales y estarán sometidas a las regularizaciones previstas en el artículo 43 bis de esta Ley.
+3. Los empresarios o profesionales podrán solicitar la devolución de las cuotas que sean deducibles en virtud de lo establecido en el presente artículo, con arreglo a lo dispuesto en el artículo 45 de esta Ley.
+4. Los empresarios que, en virtud de lo establecido en esta Ley, deban quedar sometidos al régimen especial de los comerciantes minoristas desde el inicio de su actividad comercial, no podrán efectuar las deducciones a que se refiere este artículo en relación con las actividades incluidas en dicho régimen.
+5. Los empresarios o profesionales que hubiesen practicado las deducciones a que se refiere este artículo no podrán acogerse al régimen especial de la agricultura y ganadería por las actividades en las que utilicen los bienes y servicios por cuya adquisición hayan soportado o satisfecho las cuotas objeto de deducción hasta que finalice el tercer año natural de realización de las entregas de bienes o prestaciones de servicios efectuadas en el desarrollo de dichas actividades.
+La aplicación de lo dispuesto en el párrafo anterior tendrá los mismos efectos que la renuncia al citado régimen especial.
+6. A efectos de lo dispuesto en este artículo y en el artículo 43 bis de esta Ley, se considerará primer año de realización de entregas de bienes o prestaciones de servicios en el desarrollo de actividades empresariales o profesionales, aquél durante el cual el empresario o profesional comience el ejercicio habitual de dichas operaciones, siempre que el inicio de las mismas tenga lugar antes del día 1 de julio y, en otro caso, el año siguiente.
+7. Las deducciones provisionales a que se refiere este artículo se regularizarán aplicando el porcentaje definitivo que globalmente corresponda al período de los cuatro primeros años naturales de realización de entregas de bienes o prestaciones de servicios efectuadas en el ejercicio de actividades empresariales o profesionales.
+8. El porcentaje definitivo a que se refiere el número anterior se determinará según lo dispuesto en el artículo 37 de esta Ley, computando al efecto el conjunto de las operaciones realizadas durante el período a que se refiere el número 6 de este artículo.
+9. La regularización de las deducciones a que se refiere este artículo se realizará del siguiente modo:
+1.º Conocido el porcentaje de deducción definitivamente aplicable a las cuotas soportadas o satisfechas con anterioridad al inicio de la realización de las entregas de bienes o prestaciones de servicios correspondientes a la actividad empresarial o profesional, se determinará el importe de la deducción que procedería en aplicación del mencionado porcentaje.
+2.º Dicho importe se restará de la suma total de las deducciones provisionales practicadas conforme a lo dispuesto en este artículo.
+3.º La diferencia, positiva o negativa, será la cuantía del ingreso o de la deducción complementaria a efectuar.
+Se modifica el apartado 8 por la disposición final 1.4 de la Ley 3/2006, de 29 de marzo. Ref. BOE-A-2006-5691.
+ Se modifica por el art. 8.1.17 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifica por el art. 9.6 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+ Se modifica por el art. 1.23 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Se modifica por el art. 1.21 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+### Artículo 43 bis
+
+Artículo 43 bis. Regularización de las cuotas correspondientes a bienes de inversión soportadas con anterioridad al inicio de la realización de las entregas de bienes o prestaciones de servicios correspondientes a actividades empresariales o profesionales.
+1. Las deducciones provisionales a que se refiere el artículo 43 de esta Ley correspondientes a cuotas soportadas o satisfechas por la adquisición o importación de bienes de inversión, una vez regularizadas con arreglo a lo dispuesto en dicho artículo, deberán ser objeto de la regularización prevista en el artículo 40 de esta misma Ley durante los años del período de regularización que queden por transcurrir.
+2. Para la práctica de las regularizaciones previstas en este artículo, se considerará deducción efectuada el año en que tuvo lugar la repercusión a efectos de lo dispuesto en el artículo 41, apartado 2.º de esta Ley, la que resulte del porcentaje de deducción definitivamente aplicable en virtud de lo establecido en el número 7 del artículo 43 de dicha Ley.
+3. Cuando los bienes de inversión a que se refiere este artículo sean objeto de entrega antes de la terminación del período de regularización a que se refiere el mismo, se aplicarán las reglas del artículo 42 de esta Ley, sin perjuicio de lo previsto en el artículo 43 de la misma y en los números anteriores de este artículo.
+Se modifica por el art. 8.1.18 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifica por el art. 9.16 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se añade por el art. 1.24 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este art. ya estaba añadido por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se añade por el art. 1.22 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+### Artículo 44
+
+Artículo 44. Rectificación de deducciones.
+Uno. Los sujetos pasivos, cuando no haya mediado requerimiento previo, podrán rectificar las deducciones practicadas cuando el importe de las mismas se hubiese determinado incorrectamente o el importe de las cuotas soportadas haya sido objeto de rectificación de acuerdo con lo dispuesto en el artículo 20.Dos de esta Ley.
+La rectificación de las deducciones será obligatoria cuando implique una minoración del importe inicialmente deducido.
+Dos. La rectificación de deducciones originada por la previa rectificación del importe de las cuotas inicialmente soportadas se efectuará de la siguiente forma:
+1.º Cuando la rectificación determine un incremento del importe de las cuotas inicialmente deducidas, podrá efectuarse en la declaración-liquidación correspondiente al periodo impositivo en que el sujeto pasivo reciba el documento justificativo del derecho a deducir en el que se rectifiquen las cuotas inicialmente repercutidas, o bien en las declaraciones-liquidaciones siguientes, siempre que no hubiesen transcurrido cuatro años desde el devengo de la operación o, en su caso, desde la fecha en que se hayan producido las circunstancias que determinan la modificación de la base imponible de la operación.
+Sin perjuicio de lo anterior, en los supuestos en que la rectificación de las cuotas inicialmente soportadas hubiese estado motivado por causa distinta de las previstas en el artículo 20.Dos de esta Ley, no podrá efectuarse la rectificación de la deducción de las mismas después de transcurrido un año desde la fecha de expedición del documento justificativo del derecho a deducir por el que se rectifican dichas cuotas.
+2.º Cuando la rectificación determine una minoración del importe de las cuotas inicialmente deducidas, el sujeto pasivo deberá presentar una declaración-liquidación rectificativa aplicándose a la misma el recargo y los intereses de demora que procedan de conformidad con lo previsto en los artículos 26 y 27 de la Ley General Tributaria.
+Tratándose del supuesto previsto en el artículo 22 número 6 de esta Ley, la rectificación deberá efectuarse en la declaración-liquidación correspondiente al periodo en que se ejerció el derecho a la deducción de las cuotas soportadas, sin que proceda la aplicación de recargos ni de intereses de demora.
+En los supuestos en que la operación gravada quede sin efecto como consecuencia del ejercicio de una acción de reintegración concursal u otras de impugnación ejercitadas en el seno del concurso, si el comprador o adquirente inicial se encuentra también en situación de concurso, deberá proceder a la rectificación de las cuotas inicialmente deducidas en la declaración-liquidación correspondiente al periodo en que se ejerció el derecho a la deducción de las cuotas soportadas, sin que proceda la aplicación de recargos ni de intereses de demora.
+No obstante, cuando la rectificación tenga su origen en un error fundado de derecho o en las causas de los números 4, 5 y 7 del artículo 22 de esta Ley deberá efectuarse en la declaración-liquidación correspondiente al periodo impositivo en que el sujeto pasivo reciba el documento justificativo del derecho a deducir en el que se rectifiquen las cuotas inicialmente soportadas.
+Se modifica por el art. 6.5 de la Ley 7/2012, de 29 de octubre. Ref. BOE-A-2012-13416.
+ Se modifica el apartado 3 por el art. 8.14 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el párrafo primero del apartado 3 por el art. 9.5 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se modifica por el art. 1.25 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este art. ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica por el art. 1.23 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+## CAPÍTULO II
+
+Devoluciones
+
+### Artículo 45
+
+Artículo 45. Supuestos generales de devolución.
+Uno. Los sujetos pasivos que no hayan podido hacer efectivas las deducciones originadas en un período de liquidación por el procedimiento previsto en el artículo 33 de esta Ley, por exceder la cuantía de las mismas de las cuotas devengadas, tendrán derecho a solicitar la devolución del saldo a su favor existente a 31 de diciembre de cada año en la autoliquidación correspondiente al último período de liquidación de dicho año.
+Dos. No obstante, tendrán derecho a solicitar la devolución del saldo a su favor existente al término de cada período de liquidación los sujetos pasivos a que se refiere el artículo 46 de esta Ley.
+Tres. En los supuestos a que se refieren este artículo y el siguiente, la Administración Tributaria Canaria procederá, en su caso, a practicar liquidación provisional dentro de los seis meses siguientes al término del plazo previsto para la presentación de la autoliquidación en que se solicite la devolución del Impuesto. No obstante, cuando la citada autoliquidación se hubiera presentado fuera de este plazo, los seis meses se computarán desde la fecha de su presentación.
+Cuando la autoliquidación o, en su caso, de la liquidación provisional resulte cantidad a devolver, la Administración Tributaria Canaria procederá a su devolución de oficio, sin perjuicio de la práctica de las ulteriores liquidaciones provisionales o definitivas, que procedan.
+El procedimiento de devolución será el previsto en los artículos 124 a 127, ambos inclusive, de la Ley 58/2003, de 17 de diciembre, General Tributaria, y en su normativa de desarrollo.
+Si la liquidación provisional no se hubiera practicado en el plazo establecido en el primer párrafo de este apartado, la Administración Tributaria Canaria procederá a devolver de oficio el importe total de la cantidad solicitada, sin perjuicio de la práctica de las liquidaciones provisionales o definitivas ulteriores que pudieran resultar procedentes.
+Transcurrido el plazo establecido en el primer párrafo de este apartado sin que se haya ordenado el pago de la devolución por causa imputable a la Administración tributaria, se aplicará a la cantidad pendiente de devolución el interés de demora a que se refiere el artículo 26.6 de la Ley General Tributaria, desde el día siguiente al de la finalización de dicho plazo y hasta la fecha del ordenamiento de su pago, sin necesidad de que el sujeto pasivo así lo reclame.
+Reglamentariamente el Gobierno de Canarias determinará el procedimiento y la forma de pago de la devolución de oficio a que se refiere el presente número.
+Se modifica por el art. 6.13 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Téngase en cuenta la disposición final 5.d) en cuanto a su aplicación.
+
+### Artículo 46
+
+Artículo 46. Solicitud de devoluciones al fin de cada período de liquidación.
+Los sujetos pasivos podrán optar por solicitar la devolución del saldo a su favor existente al término de cada período de liquidación conforme a las condiciones, términos, requisitos y procedimiento que establezca reglamentariamente el Gobierno de Canarias.
+El período de liquidación de los sujetos pasivos que opten por este procedimiento coincidirá con el mes natural, con independencia de su volumen de operaciones.
+Se modifica por el art. 6.14 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Se modifican los apartados 1 y 2 por el art. 1.26 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que estos apartados ya estaban modificados por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifican los apartados 1 y 2 por el art. 1.24 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+### Artículo 47
+
+Artículo 47. Garantías de las devoluciones.
+La Consejería de Hacienda del Gobierno Autónomo de Canarias podrá exigir a los sujetos pasivos la presentación de las garantías suficientes en los supuestos de devoluciones a que se refieren los dos artículos anteriores de esta Ley.
+
+### Artículo 48
+
+Artículo 48. Devoluciones a personas no establecidas en las Islas Canarias.
+1. Los empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto podrán solicitar la devolución de las cuotas del Impuesto General Indirecto Canario que hayan soportado por las adquisiciones o importaciones de bienes o servicios, incluida la carga impositiva implícita, realizadas en dicho territorio, de acuerdo con lo dispuesto en el presente artículo y con arreglo a los plazos y al procedimiento que se establezcan reglamentariamente.
+A estos efectos, se considerarán no establecidos en el territorio de aplicación del Impuesto los empresarios o profesionales que, siendo titulares de un establecimiento permanente situado en el mencionado territorio, no realicen desde dicho establecimiento entregas de bienes ni prestaciones de servicios durante el período a que se refiera su solicitud.
+2. Son requisitos para el ejercicio del derecho a la devolución a que se refiere el número anterior.
+1.º Que las personas o Entidades que pretendan ejercitarlo estén establecidas en la Península, Islas Baleares, Ceuta, Melilla, en otros Estados miembros de la Comunidad Económica Europea o en terceros países siempre que, en este útimo caso, se acredite la reciprocidad en favor de los empresarios y profesionales establecidos en España.
+2.º Que realicen en dichos territorios actividades empresariales o profesionales sujetas al Impuesto sobre el Valor Añadido o a un tributo análogo.
+La realización de dichas actividades deberá acreditarse en la forma que se determine reglamentariamente.
+3.º Que durante el periodo a que se refiere la solicitud, los interesados no hayan realizado en las Islas Canarias entregas de bienes o prestaciones de servicios sujetas al Impuesto General Indirecto Canario distintas de las que a continuación se relacionan:
+a) Las operaciones en las que los sujetos pasivos del Impuesto sean las personas para las que se realicen las mismas, según el supuesto de inversión del sujeto pasivo previsto en esta Ley.
+b) Las de transporte y prestaciones de servicios accesorias a las mismas, exentas en virtud de lo dispuesto en esta Ley en el artículo 11, excepto su número 2, en el artículo 12, en los números 1 y 2 del artículo 13, en el número 7 del artículo 14 y en el artículo 15.
+3. Las personas físicas o jurídicas en las que concurran los requisitos descritos en los números anteriores tendrán derecho a solicitar la devolución del Impuesto General Indirecto Canario que hayan soportado en las adquisiciones o importaciones de bienes o en los servicios que les hayan sido prestados en las Islas Canarias durante el periodo de tiempo a que corresponda la solicitud, en la medida en que los indicados bienes o servicios se utilicen en la realización de las operaciones descritas en el número 4, apartado 1.º, letras b), c) y d), y apartado 2.º del artículo 29 de esta Ley, o bien las señaladas en el número 2 anterior, apartado 3.º, letra a).
+Para la determinación de las cuotas a devolver se atenderá al destino real y efectivo de los bienes o servicios adquiridos o importados, sin que sean de aplicación a estos efectos las normas reguladoras de la regla de prorrata contenidas en la presente Ley.
+4. Serán de aplicación a las devoluciones reguladas en este artículo las limitaciones y exclusiones del derecho a deducir previstas en la Ley.
+5. Las solicitudes de devolución únicamente podrán referirse al período de liquidación o al año natural inmediatamente anteriores.
+6. Las personas o Entidades que, no estando establecidas en la Comunidad Económica Europea, pretendan hacer uso del derecho a la devolución regulado en este artículo deberán nombrar previamente un representante legal residente en España, a cuyo cargo estará el cumplimiento de las obligaciones formales o de procedimiento correspondientes y que responderá solidariamente en los casos de devolución improcedente.
+La Hacienda Pública de la Comunidad Autónoma de Canarias podrá exigir a dicho representante caución suficiente a estos efectos.
+7. No serán admisibles las solicitudes de devolución por un importe total inferior a la cifra que se determine reglamentariamente.
+8. En el caso de empresarios o profesionales establecidos en un Estado miembro de la Comunidad Europea, la solicitud deberá presentarse por vía electrónica a través del portal electrónico dispuesto al efecto por el Estado miembro en el que estén establecidos.
+Se modifica el apartado 8 por la disposición final 2.2 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+ Se añade el apartado 8, con efectos desde el 1 de enero de 2011 por la disposición final 1.2.7 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se declara la inconstitucionalidad y nulidad del apartado 8, con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.
+ Se añade el apartado 8, con efectos desde el 1 de enero de 2011 por la disposición final 27.8 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica el apartado 1 por el art. 2.7 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366.
+ Esta modificación tiene efectos desde el 1 de enero de 2010, según establece la disposición final 4.
+
+### Artículo 48 bis
+
+Artículo 48 bis. Devolución en las cuotas abonadas por los adquirentes en las importaciones de bienes en el supuesto de ejercicio del derecho de desistimiento previsto en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista.
+Sin perjuicio de lo dispuesto en la normativa aduanera, los sujetos pasivos importadores que no actúen en condición de empresarios o profesionales a efectos de este impuesto tendrán derecho a la devolución de las cuotas abonadas en las importaciones de aquellos bienes por los que se ejercite el derecho de desistimiento previsto en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, siempre que los bienes salgan del territorio de aplicación del impuesto dentro del plazo y con las condiciones señaladas en la citada ley.
+La devolución contemplada en este artículo no generará intereses de demora.
+El ejercicio del derecho a la devolución en el supuesto previsto en este artículo se desarrollará reglamentariamente por el Gobierno de Canarias.
+Se añade por el art. 12.1.7 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+## TÍTULO III
+
+Regímenes especiales
+Se modifica el Título III por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+
+## CAPÍTULO I
+
+Régimen simplificado
+
+### Artículo 49
+
+Artículo 49. Regulación de los regímenes especiales del Impuesto General Indirecto Canario.
+Los regímenes especiales de este impuesto se regulan en los artículos 64 a 111 de la Ley, de la Comunidad Autónoma de Canarias, 4/2012, de 25 de junio, de medidas administrativas y fiscales, en virtud de la competencia normativa atribuida a dicha Comunidad Autónoma en el número 3.º del apartado uno de la disposición adicional octava de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
+Se modifica por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade el apartado 2.5 por el art. 12.1.8 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se modifica por el art. 8.15 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica por el art. 9.6 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+ Se modifica por el art. 1.27 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este art. ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica por el art. 1.25 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+### Artículo 50
+
+Artículo 50. Contenido del régimen simplificado.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se modifica el apartado 1.A) y C) por la disposición final 1.5 y 6 de la Ley 3/2006, de 29 de marzo. Ref. BOE-A-2006-5691.
+ Se modifica el apartado 1 por el art. 8.16 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica por el art. 9.7 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+ Se modifica el apartado 6, se renumera el apartado 7 como 8 y se añade el 7 por el art. 1.28 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que estos apartados ya estaban modificados por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 6, se renumera el apartado 7 como 8 y se añade el 7 por el art. 1.26 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+### Artículo 51
+
+Artículo 51. Determinación del volumen de operaciones.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se modifica el párrafo primero del apartado 1 por el art. 10.1.14 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica por el art. 9.11 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se modifica por el art. 9.8 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+ Redactado el apartado 2 conforme a la corrección de erratas publicada en BOE núm. 254, de 23 de octubre de 1991. Ref. BOE-A-1991-25681
+
+## CAPÍTULO II
+
+Régimen especial de los bienes usados
+
+### Artículo 52
+
+Artículo 52. Régimen especial de los bienes usados.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+
+## CAPÍTULO III
+
+Régimen especial de objetos de arte, antigüedades y objetos de colección
+
+### Artículo 53
+
+Artículo 53. Régimen de objetos de arte, antigüedades y objetos de colección.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se modifica el apartado 1 por el art. 9.12 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+
+## CAPÍTULO IV
+
+Régimen especial de las agencias de viajes
+
+### Artículo 54
+
+Artículo 54. Régimen especial de las agencias de viajes.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade el párrafo segundo al apartado 6 por el art. 12.1.9 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se modifica el apartado 3 por el art. 8.1.20 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifica el último párrafo del apartado 5 por el art. 7.4 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+ Se modifica por el art. 9.9 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+ Se modifican los apartados 1 y 2 por el art. 1.29 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que estos apartados ya estaban modificados por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifican los apartados 1 y 2 por el art. 1.27 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+## CAPÍTULO V
+
+Régimen especial de la agricultura y ganadería
+
+### Artículo 55
+
+Artículo 55. Ámbito de aplicación del régimen especial.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se modifican los apartados 1 a 3 por el art. 8.17 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el apartado 4 por el art. 9.19 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se modifica el apartado 4 por el art. 7.5 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+ Se modifica por el art. 9.10 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+ Se modifica el apartado 7 por el art. 1.30 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este apartado ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 7 por el art. 1.28 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+### Artículo 56
+
+Artículo 56. Contenido del régimen especial de la agricultura y ganadería.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se modifica el apartado 1 por el art. 9.11 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+ Se modifica el apartado 1 por el art. 1.31 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este apartado ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 1 por el art. 1.29 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+ Redactado el párrafo segundo del apartado 1 conforme a la corrección de erratas publicada en BOE núm. 254, de 23 de octubre de 1991. Ref. BOE-A-1991-25681
+
+### Artículo 57
+
+Artículo 57. Régimen de deducciones y compensaciones.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se modifica el apartado 3 por el art. 9.20 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se modifica el apartado 3 por el art. 7.6 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1999. Ref. BOE-A-1999-10227
+ Se modifica por el art. 9.12 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+
+### Artículo 58
+
+Artículo 58. Obligados al reintegro de las compensaciones y deducción de las mismas.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se modifica por el art. 9.13 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+
+## CAPÍTULO VI
+
+CAPITULO VI
+Régimen especial de comerciantes minoristas
+Se añade por el art. 3.9 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+ Esta modificación es aplicable según lo que establece la disposición final única.
+
+### Artículo 58 bis
+
+Artículo 58 bis. Recargo sobre las importaciones efectuadas por comerciantes minoristas.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se deroga el apartado 3, con efectos desde el 1 de julio de 2012, por el art. 17.9 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifican los apartados 2 y 8 por el art. 10.1.15 y 16 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica el apartado 3 por el art. 8.1.21 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifica el apartado 3 por el art. 64.3 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117.
+ Se añade el apartado 9 por el art. 1.32 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este apartado ya estaba añadido por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se añade el apartado 9 por el art. 1.30 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+ Se añade por el art. 3.9 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+ Esta modificación es aplicable según lo que establece la disposición final única.
+
+## CAPÍTULO VII
+
+Régimen especial aplicable a las operaciones con oro de inversión
+Se añade por el art. 9.13 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
+
+### Artículo 58 ter
+
+Artículo 58 ter. Régimen especial aplicable a las operaciones con oro de inversión.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade por el art. 9.13 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
+
+## CAPÍTULO VIII
+
+Régimen especial del grupo de entidades
+Se añade por la disposición final 1.5 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
+ Téngase en cuenta la disposición adicional 8 en cuanto a su aplicación.
+
+### Artículo 58 quáter
+
+Artículo 58 quáter. Delimitación del grupo de entidades.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade por la disposición final 1.5 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
+ Téngase en cuenta la disposición adicional 8 en cuanto a su aplicación.
+
+### Artículo 58 quinquies
+
+Artículo 58 quinquies. Condiciones para la aplicación del régimen especial del grupo de entidades.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade por la disposición final 1.5 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
+ Téngase en cuenta la disposición adicional 8 en cuanto a su aplicación.
+
+### Artículo 58 sexies
+
+Artículo 58 sexies. Causas determinantes de la pérdida del régimen especial del grupo de entidades.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade por la disposición final 1.5 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
+ Téngase en cuenta la disposición adicional 8 en cuanto a su aplicación.
+
+### Artículo 58 septies
+
+Artículo 58 septies. Contenido del régimen especial del grupo de entidades.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade por la disposición final 1.5 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
+ Téngase en cuenta la disposición adicional 8 en cuanto a su aplicación.
+
+### Artículo 58 octies
+
+Artículo 58 octies. Obligaciones específicas en el régimen especial del grupo de entidades.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se modifica el apartado 4 por el art. 6.15 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Se añade por la disposición final 1.5 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
+ Téngase en cuenta la disposición adicional 8 en cuanto a su aplicación.
+
+## CAPÍTULO IX
+
+Régimen especial del criterio de caja
+Téngase en cuenta que este Capítulo se añade con efectos de 1 de enero de 2014.
+Se añade por el art. 24 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+
+### Artículo 58 nonies
+
+Artículo 58 nonies. Requisitos subjetivos de aplicación.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade por el art. 24 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+
+### Artículo 58 decies
+
+Artículo 58 decies. Condiciones para la aplicación del régimen especial del criterio de caja.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade por el art. 24 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+
+### Artículo 58 undecies
+
+Artículo 58 undecies. Requisitos objetivos de aplicación.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade por el art. 24 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+
+### Artículo 58 duodecies
+
+Artículo 58 duodecies. Contenido del régimen especial del criterio de caja.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade por el art. 24 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+
+### Artículo 58 terdecies
+
+Artículo 58 terdecies. Efectos de la renuncia o exclusión del régimen especial del criterio de caja.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade por el art. 24 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+
+### Artículo 58 quaterdecies
+
+Artículo 58 quaterdecies. Operaciones afectadas por el régimen especial del criterio de caja.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade por el art. 24 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+
+### Artículo 58 quinquiesdecies
+
+Artículo 58 quinquiesdecies. Efectos del auto de declaración del concurso.
+(Sin contenido)
+Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se añade por el art. 24 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+
+## TÍTULO IV
+
+Obligaciones de los sujetos pasivos
+
+### Artículo 59
+
+Artículo 59. Obligaciones de los sujetos pasivos.
+1. Los sujetos pasivos estarán obligados a:
+a) Presentar declaraciones relativas al comienzo, modificación y cese de las actividades que determinen su sujeción al Impuesto, en el plazo y con los requisitos que se establezcan reglamentariamente.
+b) Expedir y entregar facturas de las operaciones en que intervienen, adaptadas a las normas generales que regulan el deber de expedir y entregar factura que incumbe a los empresarios y profesionales.
+c) Conservar las facturas recibidas, los justificantes contables y las copias de las facturas expedidas, incluso por medios electrónicos, durante el plazo de prescripción del Impuesto.
+Cuando los documentos a que se refiere el párrafo anterior se refieran a adquisiciones por las cuales se haya soportado o satisfecho cuotas del Impuesto cuya deducción esté sometida a un período de regularización, deberán conservarse durante el período de regularización correspondiente a dichas cuotas y los cuatro años siguientes.
+d) Sin perjuicio de lo establecido en el Código de Comercio, llevar la contabilidad y registros de acuerdo con lo que se fije reglamentariamente.
+e) Presentar periódicamente o a requerimiento de la Comunidad Autónoma de Canarias información relativa a las operaciones económicas con terceras personas.
+f) Presentar las declaraciones-liquidaciones correspondientes a cada período de liquidación, así como una declaración resumen anual, en la forma y plazos que se establezcan reglamentariamente. En ningún caso esta obligación incumbirá a los sujetos pasivos acogidos al régimen especial de comerciantes minoristas por las actividades comprendidas en dicho régimen.
+g) Realizar su inscripción en el Registro fiscal correspondiente, en la forma, con los requisitos y a los efectos que se determinen reglamentariamente.
+2. Los sujetos pasivos que realicen fundamentalmente las operaciones exentas que se determinen por vía reglamentaria, podrán quedar exceptuados del cumplimiento de las obligaciones que, mencionadas en el número 1 anterior, expresamente se indiquen.
+3. Los sujetos pasivos que no están obligados a presentar declaraciones-liquidaciones periódicas deberán presentar una declaración-liquidación ocasional en el caso de estar obligados a declarar, en la forma y plazos que se establezcan reglamentariamente.
+4. La obligación de expedir y entregar factura por las operaciones efectuadas por los empresarios o profesionales se podrá cumplir, en los términos que reglamentariamente se establezcan, por el cliente del citado empresario o profesional o por un tercero, los cuales actuarán, en todo caso, en nombre y por cuenta del mismo.
+Cuando la citada obligación se cumpla por un cliente del empresario o profesional, deberá existir un acuerdo previo entre ambas partes, formalizado por escrito. Asimismo, deberá garantizarse la aceptación por dicho empresario o profesional de cada una de las facturas expedidas, en nombre y por su cuenta, por su cliente.
+Las facturas expedidas por el empresario o profesional, por su cliente o por un tercero, en nombre y por cuenta del citado empresario o profesional, podrán ser transmitidas por medios electrónicos, siempre que en este último caso, el destinatario de las facturas haya dado su consentimiento y los medios electrónicos utilizados en su transmisión garanticen la autenticidad de su origen y la integridad de su contenido.
+Reglamentariamente, se determinarán los requisitos a los que deba ajustarse la facturación electrónica.
+5. La Administración tributaria, cuando lo considere necesario a los efectos de cualquier actuación dirigida a la comprobación de la situación tributaria del empresario o profesional o sujeto pasivo, podrá exigir una traducción al castellano, o a cualquier otra lengua oficial, de las facturas correspondientes a entregas de bienes o prestaciones de servicios efectuadas en el territorio de aplicación del impuesto, así como de las recibidas por los empresarios o profesionales o sujetos pasivos establecidos en dicho territorio.
+Se modifica el apartado 1.c), con efectos desde el 1 de enero de 2011 por la disposición final 1.2.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se declara la inconstitucionalidad y nulidad del apartado 1.c), con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.
+ Se modifica el apartado 1.c), con efectos desde el 1 de enero de 2011 por la disposición final 27.9 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica el apartado 1.b) y c) y se añaden el 4 y el 5 por el art. 8.18 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el apartado 3 por el art. 10.1.17 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica el apartado 1.e) por el art. 8.1.22 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifica el apartado 1.f) y se añade el 3 por el art. 1.33 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que estos apartados ya estaban modificados por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 1.f) y se añade el 3 por el art. 1.31 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+### Artículo 60
+
+Artículo 60. Documentos contables.
+1. Sin perjuicio de lo establecido en el Código de Comercio, los empresarios y profesionales sujetos al Impuesto deberán llevar en debida forma los libros o registros que se establezcan reglamentariamente.
+2. La contabilidad deberá permitir determinar con precisión:
+a) El importe total del Impuesto General Indirecto Canario que el sujeto pasivo haya repercutido a sus clientes.
+b) El importe total del Impuesto soportado por el sujeto pasivo.
+3. Todas las operaciones realizadas por los sujetos pasivos en el ejercicio de sus actividades empresariales o profesionales deberán anotarse en los registros correspondientes dentro de los plazos establecidos para la liquidación y pago del impuesto.
+4. La Consejería de Hacienda del Gobierno Autónomo de Canaria: podrá modificar las obligaciones registrales establecidas en este artículo respecto de determinados sectores empresariales o profesionales.
+
+## TÍTULO V
+
+Gestión del Impuesto
+
+### Artículo 61
+
+Artículo 61. Liquidación del Impuesto.
+1. Los sujetos pasivos deberán determinar e ingresar la deuda tributaria en el lugar, forma, plazos y modelos que reglamentariamente se regulen.
+2. En las importaciones de bienes el impuesto se liquidará e ingresará en la forma, plazos y modelos que se establezca reglamentariamente, siendo de aplicación supletoria la legislación aduanera para los derechos arancelarios.
+3. Reglamentariamente se determinarán las garantías que resulten procedentes para asegurar el cumplimiento de las correspondientes obligaciones tributarias.
+4. Transcurridos treinta días desde la notificación al sujeto pasivo del requerimiento de la Administración tributaria para que efectúe la autoliquidación que no realizó en el plazo reglamentario, se podrá iniciar por aquélla el procedimiento para la práctica de la liquidación provisional del Impuesto General Indirecto Canario correspondiente, salvo que en el indicado plazo se subsane el incumplimiento o se justifique debidamente la inexistencia de la obligación.
+La liquidación provisional de oficio se realizará en base a los datos, antecedentes, signos, índices, módulos o demás elementos de que disponga la Administración tributaria y que sean relevantes al efecto, ajustándose al procedimiento que se determine reglamentariamente.
+Las liquidaciones provisionales reguladas en este artículo, una vez notificadas, serán inmediatamente ejecutivas, sin perjuicio de las reclamaciones que legalmente puedan interponerse contra ellas.
+Sin perjuicio de lo establecido en los párrafos anteriores de este número, la Administración podrá efectuar ulteriormente la comprobación de la situación tributaria de los sujetos pasivos, practicando las liquidaciones que procedan con arreglo a lo dispuesto en la Ley General Tributaria.
+Se modifica por el art. 2.15 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica el apartado 2 por el art. 1.34 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este apartado ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 2 por el art. 1.32 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+### Artículo 62
+
+Artículo 62. Competencia en la administración del Impuesto.
+La gestión, liquidación, recaudación e inspección del Impuesto General Indirecto Canario, así como la revisión de los actos dictados en aplicación del mismo, corresponderán a los órganos competentes de la Comunidad Autónoma de Canarias.
+Las reseñadas competencias de los órganos de la Comunidad Autónoma de Canarias respecto al Impuesto General Indirecto Canario podrán desarrollarse en cualquier lugar del archipiélago, incluso en los puertos y aeropuertos, sin perjuicio de las que correspondan a las Administraciones de Aduanas e Impuestos Especiales y otros órganos de la Administración del Estado en materia de control del comercio exterior, represión del contrabando y demás que les otorga la legislación vigente.
+Se añade el párrafo segundo por el art. 1.35 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este párrafo ya estaba añadido por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se añade el párrafo segundo por el art. 1.33 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+## TÍTULO VI
+
+Infracciones y sanciones
+
+### Artículo 63
+
+Artículo 63. Infracciones y sanciones.
+1. Las infracciones tributarias en este impuesto se calificarán y sancionarán conforme a lo establecido en la Ley General Tributaria y demás normas de general aplicación, sin perjuicio de las especialidades previstas en este título.
+Las sanciones pecuniarias que se impongan de acuerdo con lo previsto en esta Ley se reducirán conforme a lo dispuesto en el apartado 3 del artículo 188 de la Ley General Tributaria.
+2. Constituye infracción tributaria la expedición de facturas por los sujetos pasivos incluidos en el régimen especial de comerciantes minoristas sin que en las correspondientes facturas figure expresamente consignada su condición de tales.
+La infracción prevista en este apartado será grave.
+La sanción consistirá en multa pecuniaria fija de 30 euros por cada una de las facturas emitidas sin hacer constar la condición de comerciante minorista.
+3. Constituye infracción tributaria la obtención, mediante acción u omisión culposa o dolosa, de una incorrecta repercusión del impuesto, siempre y cuando el destinatario de la misma no tenga derecho a la deducción total de las cuotas soportadas.
+Serán sujetos infractores las personas o entidades destinatarias de las referidas operaciones que sean responsables de la acción u omisión a que se refiere el párrafo anterior.
+La infracción prevista en este apartado será grave.
+La sanción consistirá en multa pecuniaria proporcional del 50 por ciento del beneficio indebidamente obtenido.
+4. Constituye infracción tributaria:
+a) La repercusión improcedente en factura de cuotas impositivas por personas que no sean sujetos pasivos del Impuesto, sin que se haya procedido a su declaración o devolución, debidamente acreditada, a quienes las soportaron.
+La infracción prevista en este apartado será grave.
+La sanción consistirá en multa pecuniaria proporcional del 150 por ciento de las cuotas indebidamente repercutidas.
+b) La repercusión improcedente en factura de cuotas impositivas por personas que sean sujetos pasivos del Impuesto, respecto de operaciones exentas o no sujetas, sin que se haya procedido a su declaración o devolución, debidamente acreditada, a quienes las soportaron.
+La infracción prevista en este número será grave.
+La sanción consistirá en multa pecuniaria proporcional del 150 por ciento de las cuotas indebidamente repercutidas.
+c) La repercusión improcedente en factura de cuotas impositivas por parte de sujetos pasivos del Impuesto a un tipo superior al legalmente establecido y que no hayan sido declaradas ni hayan sido devueltas a quienes las soportaron, y así se acredite debidamente.
+La sanción derivada de la comisión de esta infracción será compatible con la que proceda por aplicación del artículo 191 de la Ley General Tributaria.
+La infracción prevista en este apartado será grave.
+La sanción consistirá en multa pecuniaria proporcional del 150 por ciento de las cuotas indebidamente repercutidas.
+La base de la sanción consistirá en la diferencia entre la cuota derivada de la aplicación del tipo impositivo legalmente aplicable y el indebidamente repercutido.
+5. Constituye infracción tributaria la no consignación en la autoliquidación a presentar por el período correspondiente de las cuotas de las que sea sujeto pasivo el destinatario de las operaciones conforme al apartado 2.º del número 1 del artículo 19 y el número 6 del artículo 58 ter, ambos de esta Ley, y el apartado 6 del artículo 25 de la Ley 19/1994.
+La infracción prevista en este apartado será grave.
+La sanción consistirá en multa pecuniaria proporcional del 75 por ciento de la cuota tributaria correspondiente a las operaciones no consignadas en la autoliquidación.
+La sanción impuesta de acuerdo con lo previsto en este apartado se reducirá conforme a lo dispuesto en el apartado 1 del artículo 188 de la Ley General Tributaria.
+6. Constituye infracción tributaria retirar los bienes importados sin que la Administración Tributaria Canaria haya autorizado previamente su levantamiento en los términos previstos reglamentariamente, así como disponer de los bienes sin la preceptiva autorización antes de que, por los Servicios de la Administración Tributaria Canaria, se hubiese procedido a su reconocimiento físico o extracción de muestras, en el caso de que se hubiese comunicado por dichos Servicios al importador o persona que actúe por su cuenta la intención de efectuar las referidas operaciones.
+La infracción prevista en este apartado será grave.
+La sanción consistirá en multa pecuniaria porcentual del 3 por ciento del valor de los bienes desplazados, con un mínimo de 100 euros y un máximo de 6.000 euros.
+7. Constituye infracción tributaria desplazar del lugar en que se encuentren los bienes importados en relación a los cuales no se haya concedido su levante, o manipular los mismos sin la preceptiva autorización.
+La infracción prevista en este apartado será grave.
+La sanción consistirá en multa pecuniaria porcentual del 5 por ciento del valor de los bienes desplazados, con un mínimo de 200 euros y un máximo de 6.000 euros.
+8. Constituye infracción tributaria el incumplimiento de los requisitos, condiciones y obligaciones, previstos para la autorización y el funcionamiento de los regímenes especiales, así como de los relativos a las zonas, depósitos francos u otros depósitos autorizados.
+La infracción prevista en este apartado será grave.
+La sanción consistirá en multa pecuniaria fija de 3.000 euros.
+9. Constituye infracción tributaria la falta de comunicación en plazo o la comunicación incorrecta, mediante acción u omisión culposa o dolosa, por parte de los destinatarios de las operaciones a que se refiere el artículo 19, número 1, apartado 2.º, letra g), tercer guión de esta Ley, a los empresarios o profesionales que realicen las correspondientes operaciones, de la circunstancia de estar actuando, con respecto a dichas operaciones, en su caso, en su condición de empresarios o profesionales, en los términos que se regulan reglamentariamente.
+La infracción prevista en este número será grave.
+La sanción consistirá en multa pecuniaria proporcional del 1 por ciento de las cuotas devengadas correspondientes a las entregas respecto de las que se ha incumplido la obligación de comunicación, con un mínimo de 300 euros y un máximo de 10.000 euros.
+10. La falta de comunicación en plazo o la comunicación incorrecta, mediante acción u omisión culposa o dolosa, por parte de los destinatarios de las operaciones a que se refiere el artículo 19, número 1, apartado 2.º, letra h), de esta Ley, a los empresarios o profesionales que realicen las correspondientes operaciones, de las siguientes circunstancias, en los términos que se regulan reglamentariamente:
+a) Que están actuando, con respecto a dichas operaciones, en su condición de empresarios o profesionales.
+b) Que tales operaciones se realizan en el marco de un proceso de urbanización de terrenos o de construcción o rehabilitación de edificaciones.
+La infracción prevista en este número será grave.
+La sanción consistirá en multa pecuniaria proporcional del 1 por ciento de las cuotas devengadas correspondientes a las operaciones respecto de las que se ha incumplido la obligación de comunicación, con un mínimo de 300 euros y un máximo de 10.000 euros.
+11. Constituye infracción tributaria el retraso en la obligación de llevar los libros registro a través de la sede electrónica de la Agencia Tributaria Canaria mediante el suministro de los registros de facturación en los términos establecidos reglamentariamente por el Gobierno de Canarias.
+La infracción prevista en este número será grave.
+La sanción consistirá en multa pecuniaria proporcional de un 0,5 por ciento del importe de la factura objeto de registro, con un mínimo trimestral de 300 euros y un máximo de 6.000 euros.
+Se añade el apartado 11 por el art. 9.2 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#an
+ Se modifica el apartado 5 y se añaden el 9 y 10 por el art. 2.16 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 62, de 13 de marzo de 2015. Ref. BOE-A-2015-2669.
+ Se modifican los apartados 4, 6 y 7 por el art. 2.8 a 10 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366.
+ Se modifica por la disposición final 8 de la Ley 58/2003, de 17 de diciembre. Ref. BOE-A-2003-23186.
+ Se modifica el apartado 2.3 por el art. 8.19 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se convierten a euros las cuantías contempladas en los apartados 3 y 6 por el apartado 1 y anexo I de la Resolución de 20 de noviembre de 2001. Ref. BOE-A-2001-22447.
+ Se modifica por el art. 1.36 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Se modifica por el art. 1.34 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154
+
+## TÍTULO VII
+
+Atribución del rendimiento del Impuesto
+
+### Artículo 64
+
+Artículo 64. Atribución del rendimiento del Impuesto.
+El importe de la recaudación líquida derivada de las deudas tributarias del Impuesto General Indirecto Canario, una vez descontados los gastos de administración y gestión del Impuesto, se distribuirá de la forma siguiente:
+a) El 50,35 por 100 a la Comunidad Autónoma de Canarias.
+b) El 49,65 por 100 restante a los Cabildos Insulares. La distribución de este porcentaje entre los diversos Cabildos Insulares se efectuará según lo que se establece en la Disposición Adicional Tercera de esta Ley. A su vez, de la cuantía que corresponda a cada Cabildo Insular, deducidos los gastos de gestión, éste se reservará un 60 por 100 que figurará como ingreso en su presupuesto ordinario, y el 40 por 100 restante lo distribuirá y librará a los Ayuntamientos de su isla, de acuerdo con las Cartas Municipales o bases en vigor en cada momento.
+
+## TÍTULO VIII
+
+Régimen transitorio
+
+## LIBRO II
+
+Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias
+Se modifica y reordena por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+## TÍTULO PRELIMINAR
+
+Naturaleza y ámbito espacial
+Se reordena por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Artículo 65
+
+Artículo 65. Naturaleza.
+El Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias es un impuesto estatal indirecto que contribuye al desarrollo de la producción de bienes en Canarias y que grava en fase única, en la forma y condiciones previstas en esta Ley, la producción de bienes corporales y la importación de bienes de igual naturaleza en este territorio.
+Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 69.
+
+### Artículo 66
+
+Artículo 66. Ámbito espacial.
+El Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias se aplicará en el ámbito territorial de las islas Canarias, sin perjuicio de lo dispuesto en los Tratados y Convenios Internacionales.
+A los efectos de este Arbitrio, el ámbito espacial a que se refiere el párrafo anterior comprenderá el mar territorial, cuyo límite exterior está determinado por una línea trazada de modo que se encuentre a una distancia de doce millas náuticas de los puntos más próximos de las líneas de base, siguiendo el perímetro resultante la configuración general del Archipiélago; también comprende el ámbito espacial del Arbitrio el espacio aéreo correspondiente.
+Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 70.
+
+## TÍTULO I
+
+Tributación de las operaciones sujetas
+Se reordena por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+## CAPÍTULO I
+
+Delimitación y localización del hecho imponible
+Se modifica y reordena por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Artículo 67
+
+Artículo 67. Hecho imponible.
+1. Están sujetas al Arbitrio las entregas efectuadas por empresarios, de forma habitual u ocasional y a título oneroso, de bienes muebles corporales incluidos en el Anexo I de la Ley de la Comunidad Autónoma de Canarias 4/2014, de 26 de junio, por la que se modifica la regulación del arbitrio sobre importaciones y entregas de mercancías en las Islas Canarias, producidos por ellos mismos. Igualmente estará sujeta al Arbitrio la importación de los bienes incluidos en el citado Anexo.
+2. A los efectos del Arbitrio sobre Importaciones y Entregas de Mercancías en Canarias se entiende por el mismo lo siguiente:
+1.º Entrega de bienes, la transmisión del poder de disposición sobre bienes muebles corporales. Se consideran bienes muebles corporales el gas, la electricidad, el calor y las demás formas de energía. No tienen la condición de entregas de bienes las ejecuciones de obra que tengan por objeto la construcción o rehabilitación de bienes muebles.
+2.º Empresario, la persona o entidad que realice habitualmente actividades empresariales. Son actividades empresariales las que implican ordenación por cuenta propia de factores de producción materiales o humanos, o de uno de ellos, con la finalidad de intervenir en la producción o distribución de bienes o servicios. Las sociedades mercantiles se reputarán en todo caso empresarios.
+3.º Producción empresarial de bienes, la realización de actividades extractivas, agrícolas, ganaderas, forestales, pesqueras, industriales y otras análogas.
+4.º Importación, la entrada definitiva o temporal de los bienes muebles corporales en el ámbito territorial de las Islas Canarias, cualquiera que sea su procedencia, el fin a que se destinen o la condición del importador.
+Sin perjuicio de lo previsto en el número anterior, se considera también importación:
+a) La autorización para el consumo en las Islas Canarias de los bienes que reglamentariamente se encuentren en cualquiera de los regímenes especiales a que se refiere el artículo 10 de la presente Ley, así como en zonas y depósitos francos. Se producirá también el hecho imponible importación de bienes en los supuestos de incumplimiento de los requisitos establecidos para la concesión de los regímenes a que se refiere el párrafo anterior.
+b) La desafectación de los objetos incorporados a los buques y aeronaves a los que se refieren los números 2 y 4 del artículo 71 de la presente Ley, cuando la producción de tales objetos haya estado exenta del Arbitrio conforme a lo dispuesto en los números 3 y 5 del mismo artículo.
+c) Las adquisiciones realizadas en las Islas Canarias de los bienes cuya producción o importación previas se hubiesen beneficiado de las exenciones relativas a los regímenes diplomático, consular o de los organismos internacionales. Lo dispuesto en las letras b) y c) anteriores no será de aplicación después de transcurridos quince años desde la realización de las importaciones o producciones exentas a que se refieren dichas letras.
+Se modifica el apartado 1 por el art. 2.17 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Esta modificación surte efectos desde el 1 de julio de 2014, según establece la disposición final 5.c).
+ Se modifica el apartado 2 por la disposición adicional 12 de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286.
+ Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 71.
+
+### Artículo 68
+
+Artículo 68. Supuestos de no sujeción.
+No están sujetas al Arbitrio las siguientes transmisiones de bienes:
+1.º Los incluidos en el Anexo I de la Ley de la Comunidad Autónoma de Canarias 4/2014, de 26 de junio, por la que se modifica la regulación del arbitrio sobre importaciones y entregas de mercancías en las Islas Canarias, en los supuestos comprendidos en los números 1.º, 4.º, 5.º, 7.º y 8.º del artículo 9 de esta Ley.
+2.º Las segundas y ulteriores entregas de los bienes efectuadas por los productores en el supuesto de recompra de los mismos.
+Se modifica el apartado 1 por el art. 2.18 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Esta modificación surte efectos desde el 1 de julio de 2014, según establece la disposición final 5.c).
+ Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 72.
+
+## LIBRO II
+
+Arbitrio sobre la Producción e Importación en las Islas Canarias
+
+## TÍTULO PRELIMINAR
+
+Naturaleza y ámbito espacial
+
+### Artículo 69
+
+Artículo 69. Localización del hecho imponible por el concepto de entregas de bienes.
+1. Regla general:
+Las entregas de bienes se entenderán realizadas donde éstos se pongan a disposición del adquirente.
+2. Reglas especiales:
+1.º Las entregas de bienes muebles corporales que situados en fábrica, almacén o depósito, deban ser objeto de transporte para su puesta a disposición del adquirente, se entenderán realizadas en el lugar en que se encuentren aquéllos al tiempo de iniciarse la expedición o transporte, sin perjuicio de lo dispuesto en el número 2.º siguiente.
+2.º Cuando los bienes sean objeto de instalación o montaje antes de su puesta a disposición, la entrega se entenderá realizada en el lugar donde se ultime la instalación o montaje.
+Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 73.
+
+## CAPÍTULO II
+
+Exenciones
+Se reordena por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Artículo 70
+
+Artículo 70. Exenciones en operaciones interiores.
+1. Está exenta del Arbitrio la entrega de los siguientes artículos de alimentación de primera necesidad:
+– Las hortalizas frescas, excepto la cebolla, la papa y el tomate.
+– Los agrios frescos.
+2. Están exentas las siguientes entregas de combustible:
+a) El necesario para el funcionamiento de los grupos generadores de las empresas productoras de energía eléctrica en Canarias, así como el necesario para la cogeneración de la misma energía por cualquiera de los productores autorizados en Canarias.
+b) El necesario para la realización de actividades de captación y producción de agua y a la realización de infraestructuras de canalización hidráulica.
+c) El que se utilice en el transporte regular marítimo o aéreo de pasajeros y de mercancías entre las Islas Canarias.
+Reglamentariamente se establecerán por la Consejería competente en materia de hacienda del Gobierno de Canarias módulos de consumo límite de combustible para la realización de las actividades a que se refiere este apartado, así como los específicos deberes de información de los sujetos pasivos que realicen las entregas exentas.
+3. Está exenta la entrega de periódicos y revistas que no contengan única o fundamentalmente publicidad, así como de los elementos complementarios que se entreguen conjuntamente con estos bienes mediante precio único.
+A estos efectos tendrán la consideración de elementos complementarios las cintas magnetofónicas, discos, videocasetes y otros soportes sonoros o videomagnéticos similares, cuyo coste de adquisición no supere el 50 por 100 del precio unitario de venta al público.
+Se entenderá que los periódicos y revistas contienen única o fundamentalmente publicidad, cuando más del 75 por 100 de los ingresos que proporcionen a su editor se obtengan por este concepto.
+4. Con la finalidad de lograr un adecuado nivel de desarrollo en las islas Canarias, está exenta la entrega de los bienes relacionados en el anexo V de esta Ley.
+5. Está exenta la entrega de los artículos de alimentación específicos para celíacos certificados por la Federación de Asociaciones de Celíacos de España.
+Se añade el apartado 5 por el art. 2.11 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366.
+ Esta modificación tiene efectos desde el 1 de enero de 2010, según establece la disposición final 4.
+ Se modifica el apartado 2 por el art. 9.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 74.
+
+## TÍTULO I
+
+Tributación de las operaciones sujetas
+
+## CAPÍTULO I
+
+Delimitación del hecho imponible
+
+### Artículo 71
+
+Artículo 71. Exenciones relativas a las exportaciones y a las operaciones asimiladas a las mismas.
+Está exenta del Arbitrio la entrega de los siguientes bienes:
+1. Los que se envíen con carácter definitivo al resto del territorio nacional, cualquier otro Estado miembro de la Comunidad Europea, o bien sean exportados definitivamente a Terceros países por el productor, por el primer adquirente de los bienes que no esté establecido en Canarias, o por un tercero en nombre y por cuenta de cualquiera de ellos, con los requisitos que se determinen reglamentariamente por el Gobierno de Canarias.
+2. Los productos de avituallamiento puestos a bordo de los siguientes buques:
+a) Los que realicen navegación marítima internacional.
+b) Los afectos al salvamento o a la asistencia marítima.
+c) Los afectos a la pesca, sin que la exención se extienda a las provisiones de a bordo.
+3. Los objetos que se incorporen de forma permanente a los buques a que se refiere el número anterior después de la inscripción en el Registro de Matrícula de Buques correspondiente, o que se utilicen para su explotación a bordo de los mismos. Esta exención se extenderá también a la producción de objetos que se incorporen a los buques de guerra.
+4. Los productos de avituallamiento de aeronaves utilizadas exclusivamente por entidades públicas en el cumplimiento de sus funciones públicas y las utilizadas por las compañías que se dediquen esencialmente a la navegación aérea internacional.
+5. Los objetos que se incorporen de forma permanente a las aeronaves a que se refiere el número anterior después de la inscripción en el Registro de Aeronaves, o que se utilicen para su explotación a bordo de las mismas.
+6. Los relativos a los regímenes diplomático, consular y de los organismos internacionales cuya importación en estos regímenes hubiera estado, en todo caso, exenta.
+Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 75.
+
+### Artículo 72
+
+Artículo 72. Exenciones relativas a zonas y depósitos francos, depósitos y regímenes especiales de importación.
+Están exentas del Arbitrio las entregas de bienes destinados a ser introducidos en zona franca, depósito franco o demás depósitos. Igualmente están exentas las entregas de bienes que se encuentren en las citadas áreas o al amparo de los regímenes a que se refiere el artículo 74 de esta Ley mientras permanezcan en dichas situaciones y se cumpla, en su caso, lo establecido en la legislación aplicable.
+Se modifica por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Artículo 73
+
+Artículo 73. Exenciones en importaciones de bienes.
+Están exentas de este Arbitrio las importaciones de bienes que a continuación se especifican.
+1. Las importaciones definitivas a que se refiere el número 3 del artículo 14 de la presente Ley, apartados 1.º a 6.º, 8.º a 12.º, 16.º a 21.º, 23.º, 24.º, 27.º a 29.º, 33.º, 34.º y 36.º, siempre que los bienes importados estén comprendidos en el Anexo I de la Ley de la Comunidad Autónoma de Canarias 4/2014, de 26 de junio, por la que se modifica la regulación del arbitrio sobre importaciones y entregas de mercancías en las Islas Canarias, se solicite la exención por parte del interesado y se cumplan los requisitos contenidos en los citados apartados.
+2. Las importaciones definitivas a que se refieren los números 4, 6, 8, 9, y 10 del artículo 14 de la presente Ley, siempre que los bienes importados estén comprendidos en el anexo I de la Ley de la Comunidad Autónoma de Canarias 4/2014 y se cumplan los requisitos contenidos en los citados números.
+3. Las importaciones definitivas de los siguientes bienes:
+1.º Los productos a que se refieren los apartados 1, 2 y 3 del artículo 2 de la Ley de la Comunidad Autónoma de Canarias 4/2014, de 26 de junio, por la que se modifica la regulación del arbitrio sobre importaciones y entregas de mercancías en las Islas Canarias.
+2.º Los productos de avituallamiento que, desde la entrada en las Islas Canarias hasta la llegada al puerto o puertos situados en dicho territorio y durante la permanencia en los mismos por el plazo necesario para el cumplimiento de sus fines, se hayan consumido o se encuentren a bordo de los buques a los que correspondan las exenciones de las entregas de productos de avituallamiento establecidas en el artículo 71, número 2, de la presente Ley.
+3.º Los productos de avituallamiento que, desde la entrada en las islas Canarias hasta la llegada al aeropuerto o aeropuertos situados en dicho territorio y durante la permanencia en los mismos por el plazo necesario para el cumplimiento de sus fines, se hayan consumido o se encuentren a bordo de las aeronaves a las que corresponden las exenciones de las entregas de productos de avituallamiento establecidas en el artículo 71, número 4, de la presente Ley.
+4.º Los productos de avituallamiento que se importen por las empresas titulares de la explotación de los buques y aeronaves a que afectan las exenciones establecidas en el artículo 71, números 2 y 4, de esta Ley, con las limitaciones establecidas en dichos preceptos y para ser destinadas exclusivamente a los mencionados buques y aeronaves.
+Se modifica el apartado 2 por la disposición final 2.3 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+ Se modifican los apartados 1, 2 y 3.1 por el art. 2.19 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Esta modificación surte efectos desde el 1 de julio de 2014, según establece la disposición final 5.c).
+ Se modifica el apartado 3.1 por el art. 2.12 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366.
+ Esta modificación tiene efectos desde el 1 de enero de 2010, según establece la disposición final 4.
+ Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 76.
+
+## CAPÍTULO II
+
+Exenciones
+
+### Artículo 74
+
+Artículo 74. Regímenes especiales de importación.
+Están exentas de este Arbitrio las importaciones de bienes que se realicen al amparo de los regímenes especiales de tránsito, importación temporal, depósito, perfeccionamiento activo y transformación bajo control aduanero, en la forma y con los requisitos que reglamentariamente se establezcan.
+Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 77.
+
+## CAPÍTULO III
+
+Devengo
+Se reordena por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Artículo 75
+
+Artículo 75. Devengo del Arbitrio.
+Uno. Devengo en las entregas de bienes.
+1. Regla general:
+El Arbitrio se devenga cuando el productor ponga los bienes a disposición de los adquirentes.
+2. Reglas especiales:
+1.º En las operaciones de tracto sucesivo, el Arbitrio se devenga en el momento en que resulte exigible la parte del precio que comprenda cada percepción.
+2.º En las operaciones sujetas a gravamen que originen pagos anticipados anteriores a la realización del hecho imponible, el Arbitrio se devengará en el momento del cobro total o parcial del precio por los importes efectivamente percibidos.
+3.º En las operaciones relativas a bienes objeto de los impuestos especiales de fabricación exigibles en Canarias, el momento del devengo quedará diferido al del devengo del respectivo impuesto especial de fabricación, si éste tiene lugar en un momento posterior al establecido en la regla general contemplada en el apartado 1 anterior.
+Lo dispuesto en el párrafo anterior se entiende sin perjuicio de los controles que se establezcan reglamentariamente por parte de la Consejería competente en materia de Hacienda del Gobierno de Canarias.
+Dos. Devengo en las importaciones.
+1. Regla general:
+En las importaciones de bienes el Arbitrio se devengará en el momento de la admisión de la declaración para el despacho de importación, previo cumplimiento de las condiciones establecidas en la normativa aplicable, o en su defecto, en el momento de la entrada de los bienes en el ámbito territorial de aplicación del Arbitrio.
+2. Reglas especiales:
+1.º Cuando se trate de importaciones de bienes que se encuentren en zona franca, depósito franco o demás depósitos o estén vinculados a los regímenes de tránsito, importación temporal, depósito aduanero, otros depósitos, perfeccionamiento activo o transformación bajo control aduanero, el devengo del Arbitrio se producirá en el momento en que los bienes salgan de las mencionadas áreas o abandonen los regímenes indicados.
+2.º En el supuesto de incumplimiento de la legislación aplicable en cada caso a los bienes que se encuentren en las áreas o regímenes mencionados en el apartado anterior, se devengará el Arbitrio en el momento en que se produjere dicho incumplimiento o, cuando no se pueda determinar la fecha del incumplimiento, en el momento en que se autorizó la entrada en las citadas áreas o la aplicación de los regímenes indicados.
+3.º En las operaciones definidas como importaciones en las letras b) y c) del apartado 4.º del número 2 del artículo 67 de la presente Ley, el devengo se producirá en el que tengan lugar, respectivamente, las desafectaciones y adquisiciones a que se refieren dichas letras.
+4.º En las operaciones relativas a bienes objeto de los impuestos especiales de fabricación exigibles en Canarias, el momento del devengo quedará diferido al del devengo del respectivo impuesto especial de fabricación, si éste tiene lugar en un momento posterior al establecido en la regla general contemplada en el apartado 1 anterior.
+Lo dispuesto en el párrafo anterior se entiende sin perjuicio de los controles que se establezcan reglamentariamente por parte de la Consejería competente en materia de Hacienda del Gobierno de Canarias.
+Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 78.
+ Se modifica el apartado 2 por el art. 3 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+
+## CAPÍTULO IV
+
+Sujeto pasivo
+Se reordena por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Artículo 76
+
+Artículo 76. Sujetos pasivos.
+1. Son sujetos pasivos de este Arbitrio en concepto de contribuyentes las personas físicas o jurídicas, así como las entidades a que se refiere el artículo 33 de la Ley General Tributaria, que sean productores o importadores.
+A efectos de lo dispuesto en el párrafo anterior se consideran:
+a) Productores: los empresarios titulares de una producción empresarial, tal y como se define en el artículo 67, número 2 apartado 3.º de la presente Ley.
+b) Importadores: los expresados en el artículo 21 de la presente Ley.
+2. Son sujetos pasivos en concepto de sustitutos, en los supuestos de devengo diferido previstos en el artículo 75 de esta Ley, las personas distintas de las previstas en el número anterior que decidan el abandono del régimen suspensivo de los impuestos especiales de fabricación.
+Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 79.
+ Se modifica el apartado 1.g) por el art. 9.17 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se añaden los apartados 1.k) y l) por el art. 10 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+ Se modifica el apartado 1.e) por el art. 63 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117.
+ Se modifica el apartado 1 por el art. 2.1 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Se modifica el apartado 1 por el art. 2.1 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+### Artículo 77
+
+Artículo 77. Responsables del Arbitrio.
+Serán responsables del Arbitrio las personas a que se refiere el artículo 21 bis de la presente Ley y en los mismos supuestos allí contemplados.
+Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 80.
+
+## CAPÍTULO III
+
+Devengo
+
+### Artículo 78
+
+Artículo 78. Repercusión del Arbitrio y rectificación de las cuotas repercutidas.
+Uno. Repercusión del Arbitrio.
+1. Los sujetos pasivos a que se refiere el artículo 76 anterior, a excepción de los importadores, deberán repercutir íntegramente el importe de las cuotas devengadas sobre los adquirentes de los bienes objeto del Arbitrio, quedando éstos obligados a soportarlo siempre que la repercusión se ajuste a lo dispuesto en esta Ley y sus normas reglamentarias, cualesquiera que fueran las estipulaciones existentes entre ellos.
+2. La repercusión del Arbitrio deberá efectuarse en la factura, que podrá emitirse por vía telemática, en las condiciones y con los requisitos que se determinen reglamentariamente.
+3. Quienes soporten cuotas de conformidad con lo dispuesto en el número 2 anterior tendrán derecho a exigir la expedición de factura.
+4. Se perderá el derecho a la repercusión cuando haya transcurrido un año desde la fecha del devengo.
+5. Las controversias que puedan producirse con referencia a la repercusión del Arbitrio, tanto respecto a la procedencia como a la cuantía de la misma, se considerarán de naturaleza tributaria a efectos de las correspondientes reclamaciones en la vía económico-administrativa.
+Dos. Los sujetos pasivos deberán efectuar la rectificación de las cuotas impositivas repercutidas cuando el importe de las mismas se hubiese determinado incorrectamente o se produzcan las circunstancias que, según lo dispuesto en el artículo 79 de esta Ley, dan lugar a la modificación de la base imponible. El procedimiento de rectificación de las cuotas repercutidas se regirá por las normas contenidas en el artículo 20.dos de la presente Ley.
+Se modifican los apartados 1.2 y 3 por el art. 9.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 81.
+ Se modifica el apartado 2 por el art. 2.2 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este apartado ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 2 por el art. 2.2 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+## CAPÍTULO V
+
+Base imponible
+Se reordena por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+## CAPÍTULO IV
+
+Sujeto pasivo
+
+### Artículo 79
+
+Artículo 79. Base imponible en las entregas de bienes: regla general.
+La base imponible del Arbitrio se determinará conforme a lo dispuesto en el artículo 22 de la presente Ley.
+Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 82.
+
+### Artículo 80
+
+Artículo 80. Base imponible en las entregas de bienes: reglas especiales.
+1. Serán de aplicación para la determinación de la base imponible del Arbitrio las normas contenidas en los números 1, 2, 3 y 8 del artículo 23 de la presente Ley.
+2. Para la aplicación del tipo específico previsto para los productos derivados del petróleo, la base imponible estará constituida por las cantidades de producto expresadas en las unidades de peso o de volumen a la temperatura de 15 ºC señaladas en las tarifas.
+Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 83.
+
+### Artículo 81
+
+Artículo 81. Base liquidable en las entregas de bienes.
+La base liquidable del Arbitrio en las entregas de bienes coincidirá con la base imponible.
+Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 84.
+
+## CAPÍTULO V
+
+Base imponible
+
+### Artículo 82
+
+Artículo 82. Base imponible en las importaciones.
+1. Con excepción de lo previsto en el apartado 2, la base imponible en las importaciones será la que resulte de adicionar al «valor en aduana» los conceptos siguientes en cuanto que no estén comprendidos en el mismo:
+a) Cualesquiera gravámenes o tributos que pudieran devengarse con ocasión de la importación, con excepción del propio Arbitrio sobre las Entregas e Importaciones en las Islas Canarias y del Impuesto General Indirecto Canario.
+b) Los gastos accesorios y complementarios, tales como comisiones, portes, transportes y seguros, que se produzcan hasta el primer lugar de destino o de ruptura de carga.
+A estos efectos se considerará como primer lugar de destino el que figure en el documento de transporte al amparo del cual los bienes son introducidos en las Islas Canarias. De no existir esta indicación, se considerará que el primer lugar de destino es aquél en que se produce la primera desagregación o separación del cargamento en el interior de dichos territorios. No obstante, cuando el primer lugar de destino estuviera emplazado en cualquier isla y la entrada se efectuara por isla diferente de la de destino, no se adicionarán al «Valor de Aduana» los gastos pormenorizados en el párrafo anterior, cuando tuviera como objeto permitir el traslado de los bienes a la isla de destino.
+2. La base imponible en las importaciones de productos derivados del petróleo estará constituida por las cantidades de producto expresadas en las unidades de peso o de volumen a la temperatura de 15 o C señaladas en las tarifas.
+3. La base imponible en las importaciones a consumo de bienes que previamente hubiesen estado colocados al amparo de los regímenes de importación temporal, tránsito sistema de suspensión de régimen de perfeccionamiento activo, Zona Franca, Depósito Franco o depósito, se determinará conforme a las normas recogidas en el número 1 del artículo 26 de esta Ley.
+4. En las importaciones, a consumo a que se refiere la letra c) del apartado 4.º del número 2 del artículo 67 de esta Ley, la base imponible se determinará aplicando las normas que procedan del apartado 3 anterior, de acuerdo con el origen de los bienes.
+5. En las reimportaciones de bienes que no se presenten en el mismo estado en que salieron por haber sido objeto de una reparación, trabajo, transformación o incorporación de otros bienes fuera de las Islas Canarias, la base imponible se determinará conforme a lo dispuesto en el número 3 del artículo 26 de la presente Ley.
+6. El momento a que habrá de referirse la determinación de la base imponible o de los componentes de la misma será el del devengo del Arbitrio.
+7. En las importaciones, la base liquidable coincidirá con la imponible.
+Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 85.
+ Se modifica el apartado 3 por el art. 4.2 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta el art. 4.3 en cuanto a la aplicación de los párrafos segundo y siguientes del apartado 3.
+ Téngase en cuenta que este apartado ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 3 por el art. 3.2 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+ Téngase en cuenta el art. 3.3 en cuanto a la aplicación de los párrafos segundo y siguientes del apartado 3.
+ Se modifican los apartados 2.b) y c) por el art. 5.1 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+
+## CAPÍTULO VI
+
+Tipo impositivo
+Se modifica y reordena por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Artículo 83
+
+Artículo 83. Tipos impositivos.
+1. El tipo de gravamen está constituido por el porcentaje fijado para cada clase de bien mueble corporal en el anexo IV de la Ley, o por el tipo específico establecido en éste para los productos derivados del petróleo, y será el mismo para la importación o entrega de los bienes.
+2. No obstante lo dispuesto en el apartado anterior, cuando de la aplicación del tipo impositivo previsto en el anexo IV para los cigarrillos resultase una cuota tributaria inferior a 6 euros por cada 1.000 cigarrillos, se aplicará, en lugar del tipo impositivo contenido en dicho anexo, un tipo impositivo de carácter específico de importe igual a 6 euros por cada 1.000 cigarrillos.
+3. El tipo de gravamen aplicable a cada operación será el vigente en el momento del devengo.
+4. Los anexos IV y V de esta Ley se establecerán siguiendo la estructura del arancel aduanero de las Comunidades Europeas. Cuando se produzcan variaciones en la estructura del arancel aduanero de las Comunidades Europeas, el Consejero de Economía, Hacienda y Comercio del Gobierno de Canarias procederá a la actualización formal de las correspondientes referencias contenidas en los anexos IV y V de esta Ley. Tal actualización formal de referencias en ningún caso podrá implicar una modificación del contenido real de dichos anexos.
+Se modifica por el art. 9.3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 86.
+ Se modifica por el art. 5.2 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+
+## TÍTULO II
+
+Devoluciones
+Se modifica y reordena por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Artículo 84
+
+Artículo 84. Devoluciones en las exportaciones en régimen de viajeros.
+En el supuesto de operaciones de entrega de bienes sujetas al Arbitrio pero exentas por aplicación de lo dispuesto en el artículo 71.1 de esta Ley, cuando la entrega se haya realizado en favor de viajeros, se repercutirá el Arbitrio no obstante estar exentas las operaciones. La cuota del Arbitrio repercutida se devolverá en la forma y condiciones que se establezcan reglamentariamente por el Gobierno de Canarias.
+Se modifica por el art. 9.4 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era art. 87.
+
+## CAPÍTULO VI
+
+Cuota tributaria
+
+### Artículo 85
+
+Artículo 85. Devolución de cuotas soportadas.
+1. Los sujetos pasivos tendrán derecho a la devolución de las cuotas del arbitrio que, devengadas con arreglo a derecho, hayan soportado en las adquisiciones o importaciones realizadas, en la medida en que los bienes adquiridos o importados se utilicen en la realización de operaciones sujetas y no exentas del arbitrio, o bien en la realización de operaciones descritas en los artículos 71 y 72 de esta ley, incluso cuando los envíos o exportaciones no estén sujetos al arbitrio.
+2. No podrán ser objeto de devolución las cuotas soportadas por la importación de bienes incluidos en el Anexo II de la Ley de la Comunidad Autónoma de Canarias 4/2014, de 26 de junio, por la que se modifica la regulación del arbitrio sobre importaciones y entregas de mercancías en las Islas Canarias, salvo que tales bienes se utilicen en la realización de las operaciones descritas en los artículos 71 y 72 de la presente Ley, incluso cuando los envíos o exportaciones no estén sujetos al Arbitrio.
+3. Será de aplicación lo previsto en el artículo 48 bis de esta ley respecto a las cuotas del arbitrio abonadas en la importación de bienes en el supuesto de ejercicio del derecho de desistimiento previsto en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista.
+La devolución contemplada en este artículo no generará intereses de demora.
+4. La forma y condiciones de las devoluciones reguladas en el presente artículo serán desarrolladas reglamentariamente por el Gobierno de Canarias.
+Se modifica el apartado 2 por el art. 2.20 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Esta modificación surte efectos desde el 1 de julio de 2014, según establece la disposición final 5.c).
+ Redactado conforme a la corrección de errores publicada en BOE núm. 62, de 13 de marzo de 2015. Ref. BOE-A-2015-2669.
+ Se modifican los apartados 1 y 3 y se añade el 4 por el art. 12.1.10 y 11 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se modifica el apartado 2 por el art. 9.5 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Artículo 86
+
+Artículo 86. Garantías de las devoluciones.
+La Consejería competente en materia de Hacienda del Gobierno de Canarias podrá exigir a los sujetos pasivos la presentación de las garantías suficientes en los supuestos de devoluciones a que se refiere el artículo anterior.
+Se modifica por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+## TÍTULO III
+
+TITULO III
+Regímenes especiales
+Se modifica y reordena por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+## TÍTULO II
+
+Deducciones y devoluciones
+
+### Artículo 87
+
+Artículo 87. Régimen especial simplificado.
+1. El régimen simplificado se aplicará a los empresarios que no superen el volumen de operaciones que establezca reglamentariamente el Gobierno de Canarias, salvo que renuncien al mismo.
+2. Los sujetos pasivos acogidos a este régimen especial determinarán, con referencia a cada actividad a que resulte aplicable este régimen especial, el importe de las cuotas a ingresar en concepto de Arbitrio sobre Importaciones y Entregas de Mercancías en las islas Canarias, por medio del procedimiento, índices, módulos y demás parámetros que establezca la Consejería competente en materia de Hacienda.
+3. En la estimación indirecta del Arbitrio, se tendrán en cuenta, preferentemente, los índices, módulos y demás parámetros establecidos para el régimen simplificado, cuando se trate de sujetos pasivos que hayan renunciado a este último régimen.
+4. Los sujetos pasivos que hubiesen incurrido en omisión o falseamiento de los índices o módulos a que se refiere el número 1 anterior, estarán obligados al pago de las cuotas tributarias totales que resultasen de la aplicación del régimen simplificado, con las sanciones e intereses de demora que procedan.
+5. Reglamentariamente por el Gobierno de Canarias se regulará este régimen simplificado y se determinarán las obligaciones formales y registrales que deberán cumplir los sujetos pasivos acogidos al mismo.
+Se modifica por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se añade el apartado 4 por el art. 7.7 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+
+## TÍTULO IV
+
+Obligaciones de los sujetos pasivos
+Se modifica y renumera por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era Título III.
+
+## TÍTULO III
+
+Obligaciones de los sujetos pasivos
+
+### Artículo 88
+
+Artículo 88. Obligaciones de los sujetos pasivos.
+1. Los sujetos pasivos estarán obligados a:
+a) Presentar declaraciones relativas al comienzo, modificación y cese de las actividades que determinen su sujeción al Arbitrio, en el plazo y con los requisitos que se establezcan reglamentariamente por el Gobierno de Canarias.
+b) Expedir y entregar facturas de las operaciones sujetas al Arbitrio, adaptados a las normas generales que regulan el deber de expedir y entregar factura que incumbe a los empresarios y profesionales.
+c) Conservar las facturas recibidas y documentos de importación por las operaciones sujetas al Arbitrio, así como los duplicados de las facturas a que se refiere la letra anterior, durante el plazo de prescripción del Arbitrio.
+d) Sin perjuicio de lo establecido en el Código de Comercio, llevar la contabilidad y registros de acuerdo con lo que se fije reglamentariamente por el Gobierno de Canarias.
+e) Presentar las declaraciones-liquidaciones correspondientes a cada período de liquidación, así como una declaración-resumen anual, en la forma y plazos que se establezcan reglamentariamente por el Gobierno de Canarias.
+2. Los sujetos pasivos que realicen fundamentalmente las operaciones exentas que se determinen por vía reglamentaria, podrán quedar exceptuados del cumplimiento de las obligaciones que, mencionadas en el número 1 anterior, expresamente se indiquen.
+Se modifica el apartado 1.b) por el art. 9.6 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+## TÍTULO V
+
+Gestión del Arbitrio
+Se modifica y reordena por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+## TÍTULO IV
+
+Gestión del Impuesto
+
+### Artículo 89
+
+Artículo 89. Liquidación del Arbitrio.
+1. Los sujetos pasivos deberán determinar e ingresar la deuda tributaria en el lugar, forma y plazos que reglamentariamente se regulen por el Gobierno de Canarias.
+Podrá establecerse, en los supuestos y mediante el procedimiento que reglamentariamente se determinen, la práctica por la Administración tributaria de liquidaciones provisionales de oficio.
+2. Reglamentariamente se determinarán por el Gobierno de Canarias los trámites para la liquidación del Arbitrio, los medios y plazos para el pago de las deudas Tributarias resultantes de las liquidaciones y las garantías que resulten procedentes para asegurar el cumplimiento de las correspondientes obligaciones Tributarias.
+Se modifica por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Artículo 90
+
+Artículo 90. Competencia en la administración del Arbitrio.
+La gestión, liquidación, recaudación e inspección del Arbitrio, así como la revisión de los actos dictados en aplicación del mismo, corresponderán a los órganos competentes de la Comunidad Autónoma de Canarias.
+Las reseñadas competencias de los órganos de la Comunidad Autónoma de Canarias respecto al Arbitrio sobre Importaciones y Entregas de Mercancías podrán desarrollarse en cualquier lugar del Archipiélago, incluso en los puertos y aeropuertos, sin perjuicio de las que correspondan a las Administraciones de Aduanas e Impuestos Especiales y otros órganos de la Administración del Estado en materia de control del comercio exterior, represión del contrabando y demás que les otorga la legislación vigente.
+Se modifica por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+## TÍTULO VI
+
+Infracciones y sanciones
+Se añade por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Su anterior numeración era Título V.
+
+### Artículo 91
+
+Artículo 91. Infracciones y sanciones.
+1. Sin perjuicio de lo dispuesto en el presente TÍTULO, las infracciones Tributarias en este Arbitrio se calificarán y sancionarán conforme a lo establecido en la Ley General Tributaria y demás normas de general aplicación.
+2. En relación con las entregas de bienes sujetas al Arbitrio tendrá la consideración de infracción simple la tipificada en el apartado 3.º del número 2 del artículo 63 de la presente Ley, y será sancionada en la forma contemplada en el apartado 3.º del número 3 del mismo artículo.
+3. En relación con las importaciones, constituyen infracciones graves las tipificadas en el apartado primero del número 4 del artículo 63 de la presente Ley, las cuales serán sancionadas conforme a lo dispuesto en la Ley General Tributaria y demás normas de general aplicación.
+4. En relación con las importaciones, constituyen infracciones simples las tipificadas en el apartado segundo del número 4 del artículo 63 de la presente Ley, las cuales serán sancionadas en la forma prevista en el número 6 del mismo artículo.
+Se modifica por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+## TÍTULO VII
+
+Atribución del rendimiento del Arbitrio
+Se añade por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+## TÍTULO V
+
+Infracciones y sanciones
+
+### Artículo 92
+
+Artículo 92. Atribución del rendimiento del Arbitrio.
+El importe de la recaudación líquida derivada de las deudas Tributarias del Arbitrio, una vez descontados los gastos de administración y gestión del mismo, se integrará como recurso derivado del Régimen Económico y Fiscal de Canarias, y será destinado a una estrategia de desarrollo económico y social de Canarias y contribuirá a la promoción de actividades locales.
+Se modifica por el art. 11.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica por el art. 2.3 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este art. ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica por el art. 2.3 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+## LIBRO III
+
+Incentivos fiscales a la inversión
+
+### Artículo 93
+
+Artículo 93. Régimen transitorio del Fondo de Previsión para Inversiones.
+1. Las Sociedades y demás Entidades jurídicas sujetas al Impuesto sobre Sociedades, acogidas al régimen del Fondo de Previsión para Inversiones conforme a las normas especiales del artículo 21 de la Ley 30/1972, de 22 de julio, sobre régimen económico fiscal de Canarias, tendrán derecho a la reducción en la base imponible de aquel Impuesto correspondiente a la dotación del último ejercicio económico cerrado antes del 1 de enero de 1992, y a la consolidación de la practicada respecto a las dotaciones de ejercicios anteriores y que se encuentren necesariamente materializadas en cuentas corrientes de efectivo en el Banco de España o en cuentas de depósito de títulos de la deuda del Estado y valores mobiliarios autorizados, siempre que tales dotaciones sean efectivamente invertidas en los elementos de activo a que se refiere el número 2 del presente artículo.
+El régimen transitorio a que se refiere el párrafo anterior será aplicable, asimismo, a los sujetos pasivos por el Impuesto sobre la Renta de las Personas Físicas que ejerzan actividades empresariales, con los mismos requisitos.
+2. La inversión efectiva de las dotaciones podrá realizarse indistintamente en los activos que se indican a continuación:
+a) En los siguientes elementos materiales de activo fijo, necesarios para el desarrollo de las actividades empresariales del sujeto pasivo, cualquiera que sea la naturaleza de éstas:
+Terrenos, construcciones y viviendas para trabajadores que sean necesarios para el desarrollo de la actividad.
+Bosques y plantaciones arbóreas no forestales.
+Obras de regadío o de establecimiento o ampliación de empresas de transformación de productos agrícolas.
+Minas y canteras.
+Edificios, instalaciones y mobiliario.
+Maquinaria y utillaje.
+Buques.
+Elementos o equipos de transporte.
+Construcciones de tipo agrario, ganadero y pesquero, almacenes, silos y cámaras frigoríficas.
+Laboratorios y equipos de investigación.
+Equipos para procesos de información y ofimática.
+b) En títulos valores o anotaciones en cuenta de Deuda Pública de la Comunidad Autónoma de Canarias, de las Corporaciones Locales Canarias o de sus Empresas Públicas u Organismos Autónomos, siempre que las mismas se destinen a financiar inversiones de infraestructura en el territorio canario. A estos efectos, el Gobierno de la Nación aprobará la cuantía y el destino de las emisiones, a partir de las propuestas que en tal sentido le formule la Comunidad Autónoma de Canarias, previo informe del Comité de Inversiones Públicas.
+c) En la suscripción de acciones o participaciones en el capital de sociedades domiciliadas en Canarias que efectúen en este territorio actividades comprendidas en los sectores que se determinen reglamentariamente a propuesta de la Comunidad Autónoma de Canarias.
+d) En terrenos que se destinen en un plazo máximo de tres años a la construcción de viviendas de protección oficial.
+e) Hasta un 20 por 100 de su importe en adquisiciones corrientes de bienes o en la satisfacción de gastos financieros derivados de la financiación de la compra de activos fijos.
+3. La inversión de las dotaciones deberá realizarse durante los cinco años siguientes a 1 de enero de 1992, si bien la de cada año deberá ser, como mínimo, de la quinta parte de la cuantía de aquella.
+4. Los sujetos pasivos deberán mantener en su poder los títulos a que se refieren las letras b) y c) del número 2 anterior al menos durante los cinco años consecutivos.
+Dicho plazo no se considerara interrumpido si antes de que el mismo finalice se produjera la amortización, canje, conversión o transmisión de los valores, siempre que el importe recibido se destine, en un plazo máximo de seis meses, a la adquisición de activos contemplados en las letras a), b) y c) del número 2 del presente artículo. En el caso de que se destine a la adquisición de nuevos valores, estos han de permanecer en poder del sujeto pasivo el tiempo necesario para completar los referidos cinco años.
+5. A partir del primer ejercicio económico en que no sea de aplicación en cada caso el régimen a que se refiere el número uno del presente artículo, las amortizaciones correspondientes a los bienes afectos al Fondo de Previsión para Inversiones y las de aquellos otros cuya adquisición se produzca como consecuencia de lo dispuesto en el número dos, quedarán liberadas de la obligación de reinversión.
+6. Tampoco se exigirá la reinversión del producto de la enajenación, prevista en el artículo 46 del texto refundido del Impuesto sobre Sociedades aprobado por Decreto 3359/1976, de 23 de diciembre, sin perjuicio del computo de las plusvalías o minusvalías que pudieran producirse en dicha enajenación.
+7. Las Sociedades y demás Entidades jurídicas que tengan aprobado por la Administración un plan de inversiones anticipadas, podrán continuar dotando de Fondo de Previsión para Inversiones hasta el cumplimiento de dicho plan, aplicándose luego, respecto a las inversiones efectuadas, lo dispuesto en los números 5 y 6 anteriores.
+8. Una vez realizadas las inversiones a que se refiere el número dos de este artículo, el saldo de la cuenta del Fondo de Previsión de Inversiones podrá destinarse:
+a) A la eliminación de resaltados contables negativos. La eliminación tendrá la consideración de saneamiento financiero realizado con cargo a fondos propios, a efectos de la compensación de pérdidas establecida en el artículo 18 de la Ley 61/1978, de 27 de diciembre, del Impuesto sobre Sociedades.
+b) A la ampliación del capital social.
+c) A la reserva legal establecida en el artículo 214 del Real Decreto Legislativo 1564/1989, de 22 de diciembre, por el que se aprueba el texto refundido de la Ley de Sociedades Anónimas.
+d) A reservas de libre disposición si estuviese totalmente dotada la reserva legal.
+No obstante lo dipuesto en los párrafos anteriores, no podrá disponerse de la parte del Fondo de Previsión para Inversiones aplicada según lo dispuesto en la letra e) del número 2 del presente artículo, hasta el día 1 de enero de 1997.
+Se declara la vigencia en la forma indicada por la disposición derogatoria.1.2.4 de la Ley 35/2006, de 28 de noviembre. Ref. BOE-A-2006-20764.
+ Se declara la vigencia por la disposición derogatoria única.2.5 de la Ley 40/1998, de 9 de diciembre. Ref. BOE-A-1998-28472.
+ Se declara la vigencia por la disposición derogatoria única.2.9 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+ Se modifica el párrafo primero del apartado 8 por el art. 4.4 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+
+### Artículo 94
+
+Artículo 94. Deducción por inversiones en Canarias.
+1. Las Sociedades y demás Entidades jurídicas sujetas al Impuesto sobre Sociedades, con domicilio fiscal en Canarias, podrán acogerse a partir del primer ejercicio económico cerrado con posterioridad a 31 de diciembre de 1991, y en relación a las inversiones realizadas y que permanezcan en el Archipiélago al régimen de deducción previsto en el artículo 26 de la Ley 61/1978, de 27 de diciembre, de acuerdo con las siguientes peculiaridades:
+a) Los tipos aplicables sobre las inversiones realizadas serán superiores en un 80 por 100 a los del régimen general, con un diferencial mínimo de 20 puntos porcentuales.
+b) Deducción por inversión en Canarias, tendrá por límite máximo el porcentaje que a continuación se indica de la cuota líquida resultante de minorar la cuota íntegra en el importe de las deducciones por doble imposición y, en su caso, las bonificaciones previstas en el artículo 25 de la Ley 61/1978, de 27 de diciembre, del Impuesto sobre Sociedades. Tal porcentaje será siempre superior en un 80 % al que para cada modificación de la deducción por inversiones se fije en el régimen general con un diferencial mínimo de 35 puntos porcentuales. No obstante, en las islas de La Palma, La Gomera y El Hierro, el tope mínimo del 80 % se incrementará al 100 % y el diferencial mínimo pasará a 45 puntos porcentuales cuando la normativa comunitaria de ayudas de estado así lo permita y se trate de inversiones contempladas en la Ley 2/2016, de 27 de septiembre y demás leyes de medidas para la ordenación de la actividad económica de estas islas.
+2. El régimen de deducción por inversiones del presente artículo será de aplicación a las Sociedades y demás Entidades jurídicas que no tengan su domicilio fiscal en Canarias, respecto de los establecimientos permanentes situados en este territorio y siempre que las inversiones correspondientes se realicen y permanezcan en el Archipiélago.
+En este caso el límite máximo de deducción sobre la cuota líquida a que se refiere la letra b) del número 1 anterior, se aplicará con independencia del que corresponda por las inversiones acogidas al régimen general.
+Igual criterio se seguirá respecto a las inversiones realizadas en territorio peninsular o Islas Baleares, mediante establecimientos permanentes, por las Entidades domiciliadas en Canarias.
+Asimismo, dicho régimen de deducción por inversiones será de aplicación a las personas físicas que realicen actividades empresariales o profesionales en Canarias, con los mismos condicionantes y restricciones que establezca la normativa del Impuesto sobre la Renta de las Personas Físicas para la aplicación a los sujetos pasivos de dicho Impuesto de los incentivos o estímulos a la inversión establecidos en el Impuesto sobre Sociedades.
+3. Además de los elementos que dan derecho a la deducción en el régimen general, las inversiones podrán efectuarse igualmente en elementos de activo fijo usados, que no hubieran gozado anteriormente de la deducción por inversiones en el resto del territorio nacional, cuando supongan una evidente mejora tecnológica para la empresa, en la forma y con los requisitos que se determinen reglamentariamente.
+4. En lo que no se oponga a lo establecido en los números anteriores del presente artículo, se estará a lo dispuesto en la normativa general de la deducción para inversiones regulada en la Ley 61/1978, de 27 de diciembre, del Impuesto sobre Sociedades y disposiciones complementarias.
+Se modifica el apartado 1.b) por el art. 1.41 de la Ley 8/2018, de 5 de noviembre. Ref. BOE-A-2018-15139#au
+ Se declara la vigencia en la forma indicada por la disposición derogatoria.1.2.4 de la Ley 35/2006, de 28 de noviembre. Ref. BOE-A-2006-20764.
+ Se declara la vigencia por la disposición derogatoria única.2.5 de la Ley 40/1998, de 9 de diciembre. Ref. BOE-A-1998-28472.
+ Se declara la vigencia por la disposición derogatoria única.2.9 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+ Se modifica el apartado 1.b) por la disposición adicional 4 de la Ley 19/1994, de 6 de julio. Ref. BOE-A-1994-15794.
+
+### Artículo 94 bis
+
+Artículo 94 bis. Deducciones de apoyo al emprendimiento y actividad económica aplicables en Canarias.
+Las entidades que contraten un trabajador para realizar su actividad en Canarias tendrán derecho al disfrute de los beneficios fiscales que por creación de empleo se establezcan por la normativa fiscal conforme a los requisitos que en ella se establezcan, incrementándolos en un 30 %.
+Se añade por el art. 2 de la Ley 8/2018, de 5 de noviembre. Ref. BOE-A-2018-15139#ad
+
+## LIBRO IV
+
+Régimen de las inversiones públicas en Canarias
+
+### Artículo 95
+
+Artículo 95. Compensación del hecho insular.
+De conformidad con lo prevenido en el artículo 138.1 de la Constitución Española y el artículo 54 del Estatuto de Autonomía de Canarias, se considerarán de interés general a efectos de la inclusión de los créditos correspondientes en los Presupuestos Generales del Estado, las obras de infraestructura y las instalaciones de telecomunicación que permitan o faciliten la integración del territorio del Archipiélago con el resto del territorio nacional o interconecten los principales núcleos urbanos de Canarias o las diferentes islas entre sí.
+La puesta en vigor del sistema fiscal establecido en la presente Ley no implicará menoscabo alguno de las asignaciones complementarias previstas en el artículo 54 del Estatuto de Canarias.
+
+### Artículo 96
+
+Artículo 96. Distribución del Programa de Inversiones Públicas.
+En cada ejercicio, el Programa de Inversiones Públicas que se ejecute en Canarias se distribuirá entre el Estado y la Comunidad Autónoma de tal modo que las inversiones estatales no sean inferiores al promedio que corresponda para el conjunto de las Comunidades Autónomas, excluidas de este cómputo las inversiones que compensen del hecho insular.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Derogada)
+Se deroga por la disposición derogatoria única.4 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+(Derogada)
+Se deroga por la disposición derogatoria única.4 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Véase el art. 66 de la Ley 13/1996, de 30 de diciembre en cuanto a la reducción de la Tarifa Especial del Arbitrio Insular a la Entrada de Mercancías. Ref. BOE-A-1996-29117.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+El porcentaje de la recaudación líquida del Impuesto General Indirecto Canario correspondiente a los Cabildos Insulares según lo previsto en el artículo 64 de esta Ley se distribuirá entre éstos de conformidad con lo establecido en la Ley 42/1985, de 19 de diciembre, sobre criterios de reparto de los ingresos procedentes de tributos regulados en el Capítulo II del Título III de la Ley 30/1972, de 22 de julio, sobre Régimen Económico-Fiscal.
+Redactada conforme a la corrección de erratas publicada en BOE núm. 254, de 23 de octubre de 1991. Ref. BOE-A-1991-25681
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Para todo lo no previsto en esta Ley, y en especial en lo relativo a materias aduaneras, se estará a lo que dispongan las disposiciones vigentes en el resto del territorio nacional en cuanto no se oponga a lo establecido en la misma.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+La exención a que se refiere el número 20 del artículo 48.1, a), del Texto Refundido del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, será aplicable en los mismos términos y condiciones, cuando las operaciones a que se refiere estén exentas del Impuesto General Indirecto Canario.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Los beneficios fiscales establecidos con anterioridad a la vigencia de la presente Ley no producirán efectos en relación con el Impuesto General Indirecto Canario y con el Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias.
+Se modifica por el art. 12.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+La Administración Tributaria del Estado y la Comunidad Autónoma de Canarias podrán convenir el régimen de colaboración que proceda en orden a la exacción de los impuestos indirectos contemplados en la presente Ley.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+(Derogada)
+Se deroga, con efectos desde el 1 de julio de 2012, por el art. 17.9 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica por el art. 8.1.23 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Redactado el apartado 2.b) conforme a la corrección de errores publicada en BOE núm. 155, de 29 de junio de 2001. Ref. BOE-A-2001-12536
+ Se modifica el apartado 1 por el art. 64.4 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117.
+ Se modifica el apartado 2 por el art. 7 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Se modifica por el art. 8.1 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+ Redactado el apartado 1.2 conforme a la corrección de erratas publicada en BOE núm. 254, de 23 de octubre de 1991. Ref. BOE-A-1991-25681
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+Las Leyes de Presupuestos Generales del Estado podrán modificar el régimen de tributación del autoconsumo en el Impuesto General Indirecto Canario, a iniciativa de la Comunidad Autónoma de Canarias.
+Igualmente se podrá modificar en las Leyes de Presupuestos Generales del Estado la regulación de las exenciones por exportaciones, operaciones asimiladas a las exportaciones e importaciones, la regulación del lugar de realización del hecho imponible y la regulación de la deducción.
+Todo ello, sin perjuicio del informe previo de la Comunidad Autónoma, exigible conforme a la disposición adicional tercera de la Constitución Española.
+Se modifica por el art. 2.21 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica por el art. 8 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este art. ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica por el art. 6 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+
+### Disposición adicional décima
+
+Disposición adicional décima.
+Uno. El Gobierno, previo informe de la Comunidad Autónoma de Canarias y sin perjuicio de lo establecido en el apartado siguiente, dictará las disposiciones necesarias para el desarrollo y aplicación de esta ley.
+Dos. La Comunidad Autónoma de Canarias, de conformidad con lo previsto en el artículo 32 del Estatuto de Autonomía de la Comunidad Autónoma de Canarias, regulará normativamente los aspectos relativos a la gestión, liquidación, recaudación e inspección del Impuesto General Indirecto Canario y del Arbitrio sobre Importaciones y Entregas de Mercancías en las islas Canarias, así como los relativos a la revisión de los actos dictados en aplicación de los mismos.
+Tres. Con independencia de lo establecido en el artículo 88.5 de la Ley General Tributaria, corresponde a la Comunidad Autónoma de Canarias la competencia para contestar las consultas tributarias relativas al Impuesto General Indirecto Canario y al Arbitrio sobre Importaciones y Entregas de Mercancías en las islas Canarias, si bien en aquellas cuya contestación afecte o tenga trascendencia en otros impuestos de titularidad estatal, así como, en todo caso, en las relativas a la localización del hecho imponible, será necesario informe previo del Ministerio de Hacienda.
+Cuatro. Será reclamable en vía económico-administrativa ante los órganos económico-administrativos de la Comunidad Autónoma de Canarias la aplicación de los tributos y la imposición de sanciones tributarias que realice la comunidad autónoma respecto a los tributos derivados del Régimen Económico y Fiscal de Canarias.
+Se modifica por el art. 12.1.12 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se modifica por el art. 12.2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima.
+Las disposiciones interpretativas o aclaratorias a que se refiere el artículo 12 de la Ley General Tributaria y relativas al Impuesto General Indirecto Canario y al Arbitrio sobre Importaciones y Entregas de Mercancías en las islas Canarias se dictarán por el Ministro de Hacienda, a instancia o previo informe de la Comunidad Autónoma de Canarias.
+Se modifica por el art. 12.1.12 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima.
+(Suprimida)
+Se suprime por el art. 80.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-2
+ Se modifica el apartado 1.2 por el art. 10.1.18 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica el apartado 1 por el art. 8.2 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera.
+Los bienes sujetos al Impuesto Especial de Alcoholes y Cervezas en Canarias no podrán tener una imposición superior a la vigente en cada momento en el resto del territorio nacional.
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta.
+Podrán tener la consideración de entidades dependientes de un grupo de entidades regulado en el Capítulo VIII del Título III del Libro Primero de esta Ley, las fundaciones bancarias a que se refiere el artículo 43.1 de la Ley 26/2013, de cajas de ahorros y fundaciones bancarias, de 27 de diciembre, que sean empresarios o profesionales y estén establecidas en el territorio de aplicación del impuesto, así como aquellas entidades en las que las mismas mantengan una participación, directa o indirecta, de más del 50 por ciento de su capital.
+Se considerará como dominante la entidad de crédito a que se refiere el artículo 43.1 de la Ley 26/2013, de cajas de ahorros y fundaciones bancarias, de 27 de diciembre y que, a estos efectos, determine con carácter vinculante las políticas y estrategias de la actividad del grupo y el control interno y de gestión.
+Se añade por el art. 2.22 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se deroga por la disposición derogatoria única.4 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se añade por el art. 8.1.24 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En los ejercicios que se cierren en los años 1992 y 1993, el tipo aplicable a la deducción por inversiones según lo dispuesto en la letra a) del artículo 94 de esta Ley, no podrá ser inferior al 30 por 100.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+No están sujetas al Impuesto General Indirecto Canario:
+1.º Las operaciones sujetas al Impuesto General sobre el Tráfico de las Empresas y al Arbitrio Insular sobre el Lujo cuyo devengo se hubiera producido con anterioridad a la entrada en vigor del Impuesto General Indirecto Canario.
+2.º Las ventas de viviendas de protección oficial concertadas y documentadas en escritura pública antes del uno de enero de 1992 y aquellas cuyos respectivos contratos se hubieran presentado para el preceptivo visado administrativo con anterioridad a la citada fecha ante el Organo competente en materia de vivienda.
+La no sujeción establecida en el párrafo anterior no impedirá el derecho del vendedor a la deducción por las cuotas del Impuesto General Indirecto Canario que, en su caso, le sean repercutidas como consecuencia de operaciones relacionadas con la edificación de las referidas viviendas.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+A la entrada en vigor del Impuesto General Indirecto Canario, y siempre que los bienes a que se reiteran hubiesen sido puestos a disposición de sus adquirentes, se considerarán devengadas la totalidad de las cuotas del Impuesto General sobre el Trafico de las Empresas que graven las siguientes operaciones:
+1.º Los contratos de arrendamiento-venta.
+2.º Los contratos de arrendamiento financiero y los demás arrendamientos con opción de compra cuando el arrendatario se hubiese comprometido a ejercitar dicha opción antes de la entrada en vigor del Impuesto General Indirecto Canario.
+3.º Las ventas de viviendas con pago aplazado del precio.
+No obstante, los sujetos pasivos podrán efectuar el ingreso de las cuotas tributarias, en la forma que se determine reglamentariamente, al finalizar el trimestre natural en que sean exigibles los pagos posteriores a la entrada en vigor del Impuesto General Indirecto Canario.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Las deducciones o, en su caso, devoluciones derivadas de la aplicación de lo dispuesto en el Título VIII del Libro I de esta Ley, tendrán la consideración de rendimientos o ingresos a efectos del Impuesto sobre la Renta de las Personas Físicas o del Impuesto de Sociedades.
+La imputación temporal de dichos rendimientos o ingresos deberá hacerse al período en que se hagan efectivas.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+La determinación de las cuotas mínimas a ingresar por los sujetos pasivos que opten por el régimen simplificado regulado en el Título III, Capitulo primero, del Libro I de esta Ley, se calculará de forma que comprendan las deducciones por régimen transitorio previstas en el Titulo VIII de dicho Libro. En ningún caso las indicadas cuotas mínimas podrán experimentar minoraciones como consecuencia de la aplicación de las referidas deducciones.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Durante los diez primeros años de aplicación del Arbitrio sobre la Producción e Importación en Canarias quedará exenta del mismo la producción o elaboración de bienes muebles corporales en las Islas Canarias.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Lo dispuesto en la Disposición Derogatoria se entiende sin perjuicio del derecho a exigir las deudas tributarias devengadas con anterioridad al 1 de enero de 1992, que continuarán sujetas a la legislación que se deroga por la presente Ley.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. A la entrada en vigor de la presente Ley quedarán derogadas cuantas disposiciones, legales o reglamentarias, se opongan a lo establecido en la misma y, en particular, las siguientes:
+a) El artículo 24 de la Ley 30/1972, de 22 de julio, sobre Régimen Económico-Fiscal de Canarias, por el que se creó el Arbitrio Insular sobre el Lujo; la Ordenanza para la Exacción del Arbitrio Insular sobre el Lujo, aprobada por Resolución del Ministerio de Hacienda de 27 de marzo de 1981 y demás disposiciones complementarias.
+b) El artículo 22 de la Ley 30/1972, de 22 de julio, y el Texto Refundido de la Ordenanza General para la Exacción del Arbitrio Insular a la Entrada de Mercancías en las Islas Canarias, aprobado por Resolución del Ministerio de Hacienda de 30 de noviembre de 1972, ambas disposiciones en lo relativo a la Tarifa General del Arbitrio Insular a la Entrada de Mercancías, así como las demás disposiciones complementarias.
+c) Artículo 21 de la Ley 30/1972, de 22 de julio, por el que se reguló el régimen especial de la previsión para inversiones en Canarias.
+d) Real Decreto 2600/1979, de 19 de octubre, por el que se armoniza el artículo 26 de la Ley 61/1978, de 27 de diciembre, del Impuesto sobre Sociedades, relativo a la deducción por inversiones, y el artículo 21 de la Ley 30/1972, de 22 de julio.
+2. Lo previsto en el apartado anterior se entiende sin perjuicio de lo dispuesto en la Disposición Transitoria Séptima.
+
+### Disposición final
+
+Disposición final.
+1. Se autoriza al Gobierno de la Nación para dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de la presente Ley sin perjuicio de lo previsto en el artículo 91 de la misma.
+2. (Derogado)
+3. No obstante lo dispuesto en el número anterior el Arbitrio sobre la Producción e Importación en Canarias comenzará a aplicarse el día 1 de julio de 1991, fecha a partir de la cual quedará definitivamente suprimida la Tarifa General del Arbitrio Insular a la Entrada de Mercancías.
+Se deroga el apartado 2 en la forma indicada por la disposición derogatoria.1 de la Ley 14/1992, de 5 de junio. Ref. BOE-A-1992-13445.
+ Téngase en cuenta, que el comienzo de la aplicación del IGIC es el 1 de enero de 1993, según se establece en el art. 1.
+ Se deroga el apartado 2 en la forma indicada por la disposición derogatoria del Real Decreto-ley 5/1991, de 20 de diciembre. Ref. BOE-A-1991-30457.
+ Téngase en cuenta, para el comienzo de la aplicación del IGIC, el art. único.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 7 de junio de 1991.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ
+
+## ANEXO I
+
+(Derogado)
+Se deroga, con efectos desde el 1 de julio de 2012, por el art. 17.9 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se añade el apartado 2.4 por la disposición final 4.4 de la Ley 11/2009, de 26 de octubre. Ref. BOE-A-2009-17000.
+ Téngase en cuenta la disposición final 12 en cuanto a su aplicación.
+ Se modifica, con efectos desde el 1 de enero de 2007 por el art. 67 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865.
+ Se modifica el apartado 1.4 y se añade el 1.15 por el art. 12.1.13 y 14 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se modifica el apartado 1.1 por el art. 10.1.19 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se deja sin contenido el apartado 1.13 por el art. 8.1.25 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se suprime el apartado 1.3 por el art. 9.18 de la Ley 55/1999, de 29 de diciembre Ref. BOE-A-1999-24786, y con entrada en vigor el 19 de enero de 2000 y efectos a partir del 1 de enero de 2000 se modifican los apartados 1.9 y 2 y se añade el 1.14 por el art. 73.1, 3 y 4 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785.
+ Se añade el apartado 1.13 por el art. 6.1 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Se modifica por el art. 4 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+
+## ANEXO I bis
+
+(Derogado)
+Se deroga, con efectos desde el 1 de julio de 2012, por el art. 17.9 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica el apartado 1.a).b') por la disposición adicional 63 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865.
+ Se modifica por el art. 12.1.15 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Téngase en cuenta el art. 12.1.16 en cuanto a la redacción del apartado 2.
+ Se modifica la letra a) por el art. 8.20 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se añade por el art. 8.1.26 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+
+## ANEXO II
+
+(Derogado)
+Se deroga, con efectos desde el 1 de julio de 2012, por el art. 17.9 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifican los apartados 1.4 y 2.1 y se añade el 2.3 por el art. 12.1.17 y 19 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Téngase en cuenta el art. 12.1.18 en cuanto a la redacción de los apartados 1.4 y 2.3.
+ Se modifica el apartado 1 por el art. 8.21 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el apartado 1.2 a 4 por el art. 10.1.20 y 21 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica por el art. 8.1.19 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+ Se modifica el apartado 3.f) por la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+ Se modifica el párrafo primero y el apartado 3 por el art. 64.1, 2 y 5 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117.
+ Se modifica el apartado 3.f) por el art. 6.2 de la Ley 16/1994, de 7 de junio. Ref. BOE-A-1994-12898.
+ Téngase en cuenta que este apartado ya estaba modificado por el Real Decreto-ley 21/1993, de 29 de diciembre.
+ Se modifica el apartado 3.f) por el art. 5.1 del Real Decreto-ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31154.
+ Se modifica por el art. 4 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+ Se modifica por la disposición adicional 3 de la Ley 38/1992, de 28 de diciembre. Ref. BOE-A-1992-28741.
+ Redactados los apartados c).2 y e).2 conforme a la corrección de errores publicada en BOE núm. 16, de 19 de enero de 1993. Ref. BOE-A-1993-1251
+
+## ANEXO III
+
+Peso de los lingotes o láminas de oro a efectos de su consideración como oro de inversión.
+Se considerarán oro de inversión a efectos de esta Ley los lingotes o láminas de oro de Ley igual o superior a 995 milésimas y que se ajusten a alguno de los pesos siguientes, en la forma aceptada por los mercados de lingotes:
+12,5 kilogramos.
+1 kilogramo.
+500 gramos.
+250 gramos.
+100 gramos.
+50 gramos.
+20 gramos.
+10 gramos.
+5 gramos.
+2,5 gramos.
+2 gramos.
+100 onzas.
+10 onzas.
+5 onzas.
+1 onza.
+0,5 onzas.
+0,25 onzas.
+10 tael.
+5 tael.
+1 tael.
+10 tolas.
+Se añade por el art. 9.14 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Se modifica por la disposición adicional 3 de la Ley 38/1992, de 28 de diciembre. Ref. BOE-A-1992-28741.
+
+## ANEXO III bis
+
+ANEXO III bis.
+Desperdicios o desechos de fundición, de hierro o acero, chatarra o lingotes de chatarra de hierro o acero, desperdicios o desechos de metales no férricos o sus aleaciones, escorias, cenizas y residuos de la industria que contengan metales o sus aleaciones
+Se considerarán desperdicios o desechos de fundición, de hierro o acero, chatarra o lingotes de chatarra de hierro o acero, desperdicios o desechos de metales no férricos o sus aleaciones, escorias, cenizas y residuos de la industria que contengan metales o sus aleaciones los comprendidos en las partidas siguientes del Arancel de Aduanas:
+Cód. NCE
+ Designación de la mercancía
+ 7204
+ Desperdicios y desechos de fundición de hierro o acero (chatarra y lingotes).
+Los desperdicios y desechos de los metales férricos comprenden:
+a) Desperdicios obtenidos durante la fabricación o el mecanizado de la fundición del hierro o del acero, tales como las torneaduras, limaduras, despuntes de lingotes, de palanquillas, de barras o de perfiles.
+b) Las manufacturas de fundición de hierro o acero definitivamente inutilizables como tales por roturas, cortes, desgaste u otros motivos, así como sus desechos, incluso si alguna de sus partes o piezas son reutilizables.
+No se comprenden los productos susceptibles de utilizarse para su uso primitivo tal cual o después de repararlos.
+Los lingotes de chatarra son generalmente de hierro o acero muy aleado, toscamente colados, obtenidos a partir de desperdicios y desechos finos refundidos (polvos de amolado o torneaduras finas) y su superficie es rugosa e irregular.
+Cód. NCE
+ Designación de la mercancía
+ 7402
+ Cobre sin refinar; ánodos de cobre para refinado.
+ 7403
+ Cobre refinado en forma de cátodos y secciones de cátodo.
+ 7404
+ Desperdicios y desechos de cobre.
+ 7407
+ Barras y perfiles de cobre.
+ 7408.11.00
+ Alambre de cobre refinado, en el que la mayor dimensión de la sección transversal sea > 6 mm.
+ 7408.19.10
+ Alambre de cobre refinado, en el que la mayor dimensión de la sección transversal sea de > 0,5 mm, pero <= 6 mm.
+ 7502
+ Níquel.
+ 7503
+ Desperdicios y desechos de níquel.
+ 7601
+ Aluminio en bruto.
+ 7602
+ Desperdicios y desechos de aluminio.
+ 7605.11
+ Alambre de aluminio sin alear.
+ 7605.21
+ Alambre de aluminio aleado.
+ 7801
+ Plomo.
+ 7802
+ Desperdicios y desechos de plomo.
+ 7901
+ Zinc.
+ 7902
+ Desperdicios y desechos de cinc (calamina).
+ 8001
+ Estaño.
+ 8002
+ Desperdicios y desechos de estaño.
+ 2618
+ Escorias granuladas (arena de escorias) de la siderurgia.
+ 2619
+ Escorias (excepto granulados), batiduras y demás desperdicios de la siderurgia.
+ 2620
+ Cenizas y residuos (excepto siderurgia) que contenga metal o compuestos de metal.
+ 3915
+ Desechos, desperdicios y recortes, de plástico.
+ 47.07
+ Desperdicios o desechos de papel o cartón. Los desperdicios de papel o cartón comprenden las raspaduras, recortes, hojas rotas, periódicos viejos y publicaciones, maculaturas y pruebas de imprenta y artículos similares. La definición comprende también las manufacturas viejas de papel o de cartón vendidas para su reciclaje.
+ 6310
+ Trapos, cordeles, cuerdas y cordajes, de materia textil, en desperdicios o en artículos inservibles.
+ 70.01
+ Desperdicios o desechos de vidrio. Los desperdicios o desechos de vidrio comprenden los residuos de la fabricación de objetos de vidrio, así como los producidos por uso o consumo. Se caracterizan generalmente por sus aristas cortantes.
+ Baterías de plomo recuperadas.
+Se modifica por la disposición final 6.8 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
+ Se modifica por el art. 12.3.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se añade por el art. 9.15 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+
+## ANEXO IV
+
+Primero.
+Se omite la tabla del apartado 1 por haber sufrido modificaciones que no se publicaron en el Boletín Oficial del Estado, sino en el Boletín Oficial de Canarias.
+Segundo.Tributará a 0 euros por mil litros el biodiesel, bioetanol y biometanol que se considere incluido en determinada cantidad en los siguientes bienes:
+2710114100 Las demás gasolinas con un contenido en plomo igual o inferior a 0,013 g. por litro con un octanaje inferior a 95.
+2710114500 Las demás gasolinas con un contenido en plomo igual o inferior a 0,013 g. por litro con un octanaje igual o superior a 95 pero inferior a 98.
+2710114900 Las demás gasolinas con un contenido en plomo igual o inferior a 1,013 g. por litro con un octanaje igual o superior a 98.
+2710194100 Aceites pesados o gasóleos que se destinen a otros usos con un contenido en azufre inferior o igual a 0,05 por 100.
+2710194500 Aceites pesados o gasóleos que se destinen a otros usos con un contenido en azufre superior al 0,05 por 100 pero inferior o igual a 0,2 por 100.
+2710194900 Aceites pesados o gasóleos que se destinen a otros usos con un contenido en azufre superior al 0,2 por 100.
+A la parte de la mezcla que no es biocarburante le será de aplicación el tipo impositivo que le corresponda conforme a lo establecido en el número anterior.
+El Consejero de Economía y Hacienda del Gobierno de Canarias regulará el procedimiento y requisitos para la aplicación de este tipo.
+Las definiciones de biodiesel, bioetanol y biometanol son las contenidas en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+Se añade el apartado 2 y se numera el contenido existente como apartado 1 por el art. 6.16 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Se modifica por el art. 12.1.20.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Redactado conforme a la corrección de errores y errata publicada en BOE núm. 79, de 1 de abril de 2004. Ref. BOE-A-2004-5818
+ Se modifica por el art. 9.7.1 y 3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Téngase en cuenta el art. 9.8 en cuanto a la exención del Arbitrio a las importaciones de determinados bienes para el 2002.
+ Se modifica por el art. 11.2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica por el art. 65 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117.
+ Téngase en cuenta el art. 67 en cuanto al incremento del importe inicial de los tipos de gravamen.
+ Véanse los arts. 5 y 6.3 de la Ley 16/1994, de 7 de junio en cuanto a la calificación y sanción de las infracciones tributarias, el devengo de la Tarifa Especial del Arbitrio Insular y la tributación del Código N.C 87.03. Ref. BOE-A-1994-12898.
+ Véanse los arts. 4 y 5.2 del Real Decreto-ley 21/1993, de 29 de diciembre en cuanto a la calificación y sanción de las infracciones tributarias y a la tributación del Código N.C 87.03. Ref. BOE-A-1993-31154.
+ Se modifica por el art. 6 del Real Decreto-ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663.
+ Téngase en cuenta el art. 7 en cuanto a la determinación de la base imponible del Arbitrio Insular a la entrada de mercancías-Tarifa especial.
+ Se modifica por el art. 2 de la Ley 14/1992, de 5 de junio. Ref. BOE-A-1992-13445.
+
+## ANEXO V
+
+Se omite la tabla por haber sufrido modificaciones que no se publicaron en el Boletín Oficial del Estado, sino en el Boletín Oficial de Canarias.
+Se modifica por el art. 12.1.20.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Redactado conforme a la corrección de errores y errata publicada en BOE núm. 79, de 1 de abril de 2004. Ref. BOE-A-2004-5818
+ Se modifica por el art. 9.7.2 y 4 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica por el art. 11.3 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se modifica por el art. 2 de la Ley 14/1992, de 5 de junio. Ref. BOE-A-1992-13445.
+
+## ANEXO VI
+
+(Derogado)
+Se deroga, con efectos desde el 1 de julio de 2012, por el art. 17.9 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica el apartado 1 por el art. 12.1.21 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se modifica por el art. 8.22 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se añade por el art. 10.1.22 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+
+## ANEXO VII
+
+Entregas de plata, platino, paladio, así como la entrega de teléfonos móviles, consolas de videojuegos, ordenadores portátiles y tabletas digitales
+Cód. NCE Designación de la Mercancía.
+7106 10 00 Plata en polvo.
+7106 91 00 Plata en bruto.
+7106 92 00 Plata semilabrada.
+7110 11 00 Platino en bruto, o en polvo.
+7110 19 Platino. Los demás.
+7110 21 00 Paladio en bruto o en polvo.
+7110 29 00 Paladio. Los demás.
+8517 12 Teléfonos móviles (celulares) y los de otras redes inalámbricas. Exclusivamente por lo que se refiere a los teléfonos móviles.
+9504 50 Videoconsolas y máquinas de videojuego excepto las de la subpartida 950430. Exclusivamente por lo que se refiere a las consolas de videojuego.
+8471 30 Máquinas automáticas para tratamiento o procesamiento de datos, portátiles, de peso inferior a 10 kg, que estén constituidas, al menos, por una unidad central de proceso, un teclado y un visualizador. Exclusivamente por lo que se refiere a:
+Ordenadores portátiles y Tabletas digitales.
+Se añade por el art. 2.23 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+## [Información relacionada]
+
+Información relacionada:
+ Téngase en cuenta que existe normativa autonómica que afecta al contenido de esta disposición, especialmente modificaciones de los anexos IV y V, para adaptarlos a la estructura vigente del arancel aduanero de las Comunidades Europeas. Puede consultar mas información en la página http://www.gobiernodecanarias.org/tributos/.
+ Téngase en cuenta que las referencias hechas al "régimen especial de la agricultura y ganadería", se entenderán realizadas al "régimen especial de la agricultura, ganadería y pesca", según establece el art. 2.14 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.

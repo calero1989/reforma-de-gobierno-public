@@ -1,0 +1,59 @@
+# Ley 2/1998, de 6 de febrero, de creación del Colegio Profesional de Protésicos Dentales de Cantabria.
+
+- Identificador BOE: `BOE-A-1998-5830`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-5830
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA DIPUTACIÓN REGIONAL DE CANTABRIA
+Conózcase que la Asamblea Regional de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2 del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 2/1998, de 6 de febrero, de creación del Colegio Profesional de Protésicos Dentales de Cantabria.
+PREÁMBULO
+El Estatuto de Autonomía para Cantabria, aprobado por Ley Orgánica 8/1981, de 30 de diciembre, reformado por la Ley Orgánica 2/1994, de 24 de marzo, dispone, en su artículo 23.5, que corresponde a la Comunidad Autónoma la competencia de desarrollo legislativo y ejecución de la materia de Corporaciones de Derecho Público representativas de intereses económicos y profesionales.
+Esta competencia estatutaria se ha hecho efectiva en virtud del Real Decreto 1379/1996, de 7 de junio, en cuanto a los Colegios Profesionales.
+Respecto de éstos, la Ley 2/1974, de 13 de febrero, modificada por la Ley 74/1978, y la Ley 7/1997, de 14 de abril, establece que los Colegios Profesionales son tales corporaciones y contiene su regulación general.
+La creación de estos Colegios, según su artículo 4, deben hacerse por Ley, a petición de los profesionales interesados, petición que ha sido hecha por la Asociación Profesional y Empresarial de Protésicos Dentales de Cantabria, cumpliendo acuerdo de su Asamblea General Extraordinaria.
+La Ley 10/1986, de 17 de marzo, reguladora de la profesión de Odontólogos, Protésicos e Higienistas Dentales, reconoce expresamente la profesión de los Protésicos Dentales con el título de Formación Profesional de Segundo Grado y determina que su ámbito de actuación se extiende a una serie de actuaciones conforme a las indicaciones y prescripciones de los Médicos Estomatológicos u Odontólogos.
+Con la creación de este Colegio Profesional, primero que se crea tras la asunción de las competencias, se permite a estos profesionales la ordenación del ejercicio de su profesión, así como la representación y defensa de sus intereses, todo con sujeción a los principios y reglas básicas de la legislación estatal y, en todo caso, en vista del interés público que se deriva de corresponder con un área de salud.
+
+### Artículo 1
+
+Artículo 1. Creación.
+Se crea el Colegio Profesional de Protésicos Dentales de Cantabria, como Corporación de Derecho Público, con personalidad jurídica propia y con plena capacidad para el cumplimiento de sus fines.
+
+### Artículo 2
+
+Artículo 2. Colegiación.
+1. La incorporación al Colegio que se crea será requisito previo para ejercer las actividades propias de la profesión de Protésico Dental, sin perjuicio de lo dispuesto en la legislación básica estatal.
+2. Podrán integrarse en el Colegio de Protésicos Dentales de Cantabria quienes, de conformidad con lo dispuesto en la Ley 10/1986, de 17 de marzo, sobre Odontólogos y otras profesiones relacionadas con la salud dental y con la normativa que la desarrolla, posean el título de Formación Profesional de Segundo Grado de Protésico Dental.
+
+### Artículo 3
+
+Artículo 3. Ámbito territorial.
+El ámbito territorial del Colegio es el de Cantabria.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. El colectivo integrado por los distintos profesionales de prótesis dental de Cantabria crearán una comisión gestora, que no podrá exceder de cinco miembros, la cual se nombrará mediante el sufragio y elección por la totalidad de protésicos dentales de la Comunidad de Cantabria.
+2. La elección de la comisión gestora se efectuará mediante la convocatoria en dos de los diarios de mayor circulación de la región de los protésicos dentales, los cuales deberán acreditar encontrarse en posesión de la titulación necesaria o, conforme a lo determinado en la Ley 10/1986, de 17 de marzo.
+3. Electos los distintos componentes de la comisión gestora y aceptado el cargo por los mismos, se procederá, en el plazo de seis meses desde la entrada en vigor de la Ley, a aprobar los estatutos provisionales que regulen la condición de colegiado, mediante el cual se podrá participar en la asamblea constituyente del Colegio.
+Esta Asamblea podrá nombrar gestores, aprobar los estatutos definitivos del Colegio y elegir las personas que integren los órganos directivos.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Los estatutos definitivos aprobados, junto con certificación del acta de la asamblea, se remitirán a la Secretaría General de la Consejería de Presidencia, órgano competente según el Decreto 58/1996, de 28 de junio, que dictará la resolución que corresponda.
+
+### Disposición final única
+
+Disposición final única.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de Cantabria».
+
+### [firma]
+
+Palacio de la Diputación, Santander a 6 de febrero de 1998.
+JOAQUÍN MARTÍNEZ SIESO,
+Presidente

@@ -1,0 +1,86 @@
+# Ley 19/1977, de 1 de abril, sobre regulación del derecho de asociación sindical.
+
+- Identificador BOE: `BOE-A-1977-8602`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1977-8602
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma queda derogada en todo cuanto se oponga a la Ley Orgánica 11/1985, de 2 de agosto, permaneciendo vigente la regulación que contiene referida a las asociaciones profesionales y, en particular, a las asociaciones empresariales cuya libertad de sindicación se reconoce a efectos de lo dispuesto en el artículo 28.1 de la Constitución española y de los convenios internacionales suscritos por España, según establece la disposición derogatoria de la citada Ley Orgánica 11/1985, de 2 de agosto. Ref. BOE-A-1985-16660#dd.
+
+## Preámbulo
+
+La Ley Sindical, de 17 de febrero de 1971, regula en el título II las diversas variedades del asociacionismo profesional, tanto el de carácter preferentemente institucional como el de promoción voluntaria.
+La citada ordenación legal, llevada a cabo en desarrollo de la Declaración XIII del Fuero del Trabajo, no parece la única interpretación válida que permite dicha Ley Fundamental, que posibilita otras más congruentes con las exigencias actuales y la deseable expansión de las asociaciones profesionales de base voluntaria.
+En consecuencia, se estima llegado el momento de proceder a la reforma de la Ley Sindical en este importante extremo, con toda la extensión y flexibilidad permitidas por el marco institucional. Esta reforma habrá de orientarse a la protección legal de la libertad de asociación sindical de los trabajadores y empresarios para la defensa de sus intereses peculiares, sin otros límites funcionales que los inherentes a la naturaleza profesional de sus fines estatutarios y al deber de acatamiento de la legalidad; todo ello en el ejercicio de las libertades propias de una sociedad democrática y teniendo en cuenta los convenios internacionales, especialmente los convenios números 87 y 98 de la Organización Internacional del Trabajo, así como el Pacto Internacional de Derechos Económicos, Sociales y Culturales recientemente firmado por el Gobierno español.
+En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo a sancionar:
+
+### Artículo primero
+
+Artículo primero.
+Uno. Los trabajadores y los empresarios podrán constituir en cada rama de actividad, a escala territorial o nacional, las asociaciones profesionales que estimen convenientes para la defensa de sus intereses respectivos.
+En la presente Ley, la referencia a los trabajadores comprende también, conjunta o separadamente, a los técnicos.
+Dos. A los efectos de esta Ley, se entiende por rama de actividad el ámbito de actuación económica, la profesión u otro concepto análogo que los trabajadores o los empresarios determinen en los estatutos.
+Tres. Las asociaciones mencionadas en el apartado número uno establecerán sus propios estatutos, se gobernarán con plena autonomía y gozarán de protección legal para garantizar su independencia respecto de la Administración Pública, así como contra todo acto de injerencia de unas respecto de las otras.
+Cuatro. Las normas estatutarias contendrán, al menos, la denominación de la asociación, ámbito territorial y profesional, órganos de representación, gobierno y administración, recursos económicos y sistema de admisión de miembros, y regularán su funcionamiento de acuerdo con principios democráticos.
+
+### Artículo segundo
+
+Artículo segundo.
+Uno. Los trabajadores y los empresarios tendrán derecho a afiliarse a las referidas asociaciones, con la sola condición de observar los estatutos de las mismas.
+Dos. Los trabajadores y los empresarios gozarán de protección legal contra todo acto de discriminación tendente a menoscabar la libertad sindical en relación con su empleo o función.
+
+### Artículo tercero
+
+Artículo tercero.
+Las asociaciones constituidas al amparo de la presente Ley deberán depositar sus estatutos en la oficina pública establecida al efecto. Adquirirán personalidad jurídica y plena capacidad de obrar transcurridos veinte días desde el depósito de los estatutos, salvo que dentro de dicho plazo se inste de la autoridad judicial competente la declaración de no ser conformes a derecho. La autoridad judicial dictará la resolución definitiva que proceda.
+
+### Artículo cuarto
+
+Artículo cuarto.
+Las asociaciones profesionales podrán constituir Federaciones y Confederaciones, con los requisitos y efectos previstos en el artículo 3, así como afiliarse a las de igual carácter que se hallen constituidas.
+
+### Artículo quinto
+
+Artículo quinto.
+Las organizaciones a que se refiere la presente Ley sólo podrán ser suspendidas o disueltas mediante resolución del órgano judicial basada en la realización de las actividades determinantes de la ilicitud o en otras causas previstas en las leyes o en los estatutos.
+
+### Artículo sexto
+
+Artículo sexto.
+Las organizaciones de trabajadores y empresarios podrán participar en los Organismos de consulta y colaboración en los ámbitos sectorial y territorial.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Queda excluido de la presente Ley el personal militar.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El ejercicio del derecho de asociación sindical por los funcionarios públicos y por el personal civil al servicio de la Administración Militar se regulará por disposiciones específicas.
+
+### Disposición final primera
+
+Disposición final primera.
+El Gobierno, oídos el Consejo Nacional de Trabajadores y Técnicos y el Consejo Nacional de Empresarios, dictará las disposiciones necesarias para el desarrollo de la presente Ley, determinándose en ellas las autoridades judiciales, procedimientos y plazo para la resolución judicial en relación con lo establecido en los artículos 3 y 5, así como la publicidad que deba tener el depósito de los estatutos.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Esta Ley entrará en vigor el día siguiente a su publicación en el «Boletín Oficial del Estado».
+
+### Disposición transitoria
+
+Disposición transitoria.
+Las asociaciones sindicales constituidas al amparo de la legislación en vigor que así lo soliciten quedarán automáticamente acogidas al régimen jurídico de las asociaciones profesionales de la presente Ley, previa la adaptación, en su caso, de las normas estatutarias, en la forma que se establezca en las disposiciones de desarrollo.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas las disposiciones que se opongan a lo establecido en la presente Ley.
+
+Dada en Madrid a uno de abril de mil novecientos setenta y siete.
+JUAN CARLOS R.
+El Presidente de las Cortes Españolas,
+TORCUATO FERNÁNDEZ-MIRANDA Y HEVIA

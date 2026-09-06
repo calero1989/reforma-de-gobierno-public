@@ -1,0 +1,162 @@
+# Ley 4/1987, de 27 de mayo, de Creación de la Escuela Gallega de Administración Pública.
+
+- Identificador BOE: `BOE-A-1987-16956`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-16956
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La necesidad de contar con un personal adecuado para dar satisfacción a las demandas sociales que se les formulan a las Administraciones Públicas en cada momento histórico obliga a éstas a cuidar su selección y formación, entendida en el sentido mas amplio de la palabra.
+Esta formación va dirigida a alcanzar una mayor profesionalización de su personal que redunde en una mayor eficacia en la prestación de los servicios públicos.
+La Xunta de Galicia creó, por el Decreto 163/1982, de 1 de diciembre, la Escuela Gallega de Administración Pública, con carácter de órgano administrativo sin personalidad jurídica propia, que ha venido desarrollando actividades de formación del personal.
+El volumen de la actividad de la Escuela aconseja la creación de la Escuela Gallega de Administración Pública como entidad autónoma de la Xunta de Galicia que, adscrita a la Consellería de la Presidencia, será el órgano encargado de la formación del personal al servicio de la Administración Publica gallega.
+Como la formación depende del modelo de función pública que se diseñe y del proceso selectivo que se implante —y, por tanto, del contenido y momento de impartición—, esta Ley regula con flexibilidad los fines, la estructura organizativa básica y las fuentes de financiación, y permite, vía convenios, establecer puentes de colaboración con otras instituciones públicas o privadas.
+La necesidad de creación de esta Escuela viene motivada, ademas, por la conveniencia de incardinar la Administración Autonómica en el entorno histórico, lingüístico, político y cultural de Galicia.
+Por todo lo expuesto, el Parlamento de Galicia aprobó, y yo, de conformidad con el artículo 13, 2, del Estatuto de Galicia, y con el articulo 24 de la Ley 1/1983, de 23 de febrero, reguladora de la Junta y de su Presidente, promulgo, en nombre del Rey, la Ley de Creación de la Escuela Gallega de Administración Pública.
+
+### Artículo 1
+
+Artículo 1.
+1. La Escuela Gallega de Administración Pública se crea como Organismo Autónomo de carácter administrativo, adscrito orgánicamente a la Consellería de la Presidencia.
+2. La Escuela Gallega de Administración Pública es una Entidad de Derecho público, con personalidad jurídica y patrimonio propio, que actúa con plena autonomía funcional para el cumplimiento de sus fines, y se regirá por la normativa autonómica que le sea de aplicación y por la reguladora de las Entidades autónomas.
+
+### Artículo 2
+
+Artículo 2.
+La Escuela Gallega de Administración Pública tendrá su sede en Santiago de Compostela, y podrá crear delegaciones y centros de estudios especializados, así como desarrollar actividades en otras localidades de Galicia.
+
+### Artículo 3
+
+Artículo 3.
+1. Son fines de la EGAP:
+a) Colaborar en la realización de las pruebas selectivas para el acceso a la condición de personal empleado público al servicio de la Administración general de la Comunidad Autónoma de Galicia, convocadas de conformidad con lo dispuesto en la normativa de empleo público aplicable, y de otras administraciones públicas que, mediando convenio, se lo encomienden, con excepción del personal docente y sanitario.
+b) Organizar e impartir cursos selectivos de formación y cursos complementarios de formación, de carácter no selectivo, subsiguientes a las pruebas selectivas, con excepción del personal docente y sanitario.
+c) Organizar e impartir cursos, seminarios y otras actividades de formación y perfeccionamiento del personal al que se alude en el apartado a).
+d) Realizar las pruebas e impartir los cursos que se establezcan para la promoción interna de los funcionarios.
+e) Realizar las pruebas e impartir los cursos selectivos descentralizados para el acceso a la condición de funcionarios locales con «habilitación de carácter nacional», en los términos previstos en el artículo 98.1, de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local.
+f) Realizar las pruebas selectivas y los cursos selectivos o complementarios de selección de los funcionarios de los Entes locales de Galicia «sin habilitación nacional», de acuerdo con los Convenios que se suscriban con las distintas Entidades Locales.
+g) La investigación, la documentación, el estudio y la realización de trabajos de divulgación en el campo de la Administración Pública, promoviendo su máxima difusión.
+h) El establecimiento de Convenios y la celebración de intercambios con organismos semejantes de las Administraciones Públicas, a nivel estatal e internacional.
+i) La difusión y normalización del idioma gallego en la Administración Pública, la capacitación lingüística del personal y la participación en la fijación del lenguaje técnico, administrativo y jurídico gallego.
+j) Cualesquiera otros que se le asignen por Ley.
+2. La Escuela podrá concertar con Centros universitarios de Galicia y con otros Centros o Entidades de titularidad pública o privada la realización de las actividades a las que se refiere el apartado anterior.
+Se modifica el apartado 1.a) por el art. 32.1 de la los arts. 3, 7, 8 y las referencias indicadas, por Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Se modifica por el art. único de la Ley 10/1989, de 10 de julio. Ref. BOE-A-1989-25116
+
+### Artículo 4
+
+Artículo 4.
+Las instituciones y órganos de la Comunidad Autónoma de Galicia podrán requerir de la Escuela Gallega de Administración Pública asesoramiento o dictamen para el mejor cumplimiento de sus funciones en relación con los fines enumerados en el artículo anterior.
+
+### Artículo 5
+
+Artículo 5.
+Los órganos de gobierno y administración de la Escuela Gallega de Administración Pública son:
+1. El Consejo Rector.
+2. El Director.
+
+### Artículo 6
+
+Artículo 6.
+El Consejo Rector tiene atribuidas las siguientes facultades:
+1. Aprobar el anteproyecto del presupuesto anual de la Escuela y sus cuentas.
+2. Aprobar el plan anual de actividades, el plan de estudios y la Memoria de la Escuela.
+3. Dar la conformidad a los proyectos de convenios con Centros semejantes de otras Administraciones Públicas e instituciones.
+4. Proponer la organización administrativa de la Escuela y su correspondiente plantilla.
+5. Proponer los programas comunes para el ingreso en la Administración Pública gallega e informar sobre los programas específicos de selección de personal al servicio de la misma, de conformidad con la normativa aplicable en cada caso.
+6. Establecer las bases y condiciones generales de participación y acceso a los cursos o actividades que convoque la Escuela Gallega de Administración Pública.
+7. Elaborar y aprobar el Reglamento interno de la Escuela Gallega de Administración Pública.
+8. Conocer los asuntos que por su relevancia le sean sometidos por el Presidente del Consejo o el Director de la Escuela Gallega de Administración Pública.
+
+### Artículo 7
+
+Artículo 7.
+El Consejo Rector de la EGAP estará constituido de la siguiente forma:
+1. Presidente: El Consejero de la Presidencia y Administración Pública.
+2. Vicepresidente: El Director general de la Función Pública.
+3. Vocales:
+a) El Director de la EGAP.
+b) Cinco representantes de la Junta de Galicia, designados, por razón de su cargo, por el Consejo de la misma de entre aquellos que ostenten la categoría de Director general.
+c) Cinco expertos de reconocido prestigio en el campo de la Administración Pública, nombrados por el Consejo de la Junta de Galicia.
+d) Tres representantes de las Universidades gallegas, designados por la Junta de Gobierno.
+e) Cuatro representantes de la Administración Local de Galicia, tres elegidos por los Ayuntamientos y uno por las Diputaciones.
+Su renovación tendrá lugar cada vez que se celebren elecciones locales generales.
+f) En representación del personal empleado público, una persona, con la condición de personal empleado público, designada por cada una de las organizaciones sindicales con representación en la Mesa General de Negociación de los Empleados Públicos de la Administración general de la Comunidad Autónoma de Galicia.
+Su renovación tendrá lugar cada vez que se celebren elecciones sindicales en el ámbito de la Administración general de la Comunidad Autónoma de Galicia.
+4. El mandato de los Vocales tendrá una duración de cuatro años. En el supuesto de renovación de alguno de ellos antes de finalizar dicho período, su sustituto será nombrado para el tiempo que reste para la finalización del mandato.
+De lo dispuesto en el párrafo anterior, se exceptúan aquellos Vocales que ocupen el puesto por razón de su cargo.
+5. La Junta de Galicia determinará por Decreto el procedimiento para la designación de los representantes de la Administración Local de Galicia en el Consejo Rector de la EGAP.
+6. El Secretario general de la EGAP actuará, asimismo, como Secretario de su Consejo Rector.
+Se modifica el apartado 3.f) por el art. 32.2 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Se modifica por el art. único de la Ley 10/1989, de 10 de julio. Ref. BOE-A-1989-25116
+
+### Artículo 8
+
+Artículo 8.
+1. El funcionamiento del Consejo Rector se ajustará a lo que dispone, en materia de órganos colegiados, la normativa básica estatal y la Ley 16/2010, de 17 de diciembre, de organización y funcionamiento de la Administración general y del sector público autonómico de Galicia.
+2. El Secretario, sin voz ni voto en el Consejo, redactará y custodiará las actas.
+3. El Consejo Rector se reunirá, por lo menos, una vez al trimestre y, de todos modos, siempre que sea convocado por el Presidente o a petición de una cuarta parte de sus miembros.
+4. El orden del día de las sesiones del Consejo Rector será fijado por su Presidente, teniendo en cuenta las peticiones formuladas al respecto por los demás miembros.
+Se modifica el apartado 1 por el art. 32.3 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+
+### Artículo 9
+
+Artículo 9.
+Son competencias del Director de la Escuela Gallega de Administración Pública:
+1. Ostentar la representación ordinaria de la Escuela.
+2. Preparar y ejecutar los acuerdos del Consejo Rector.
+3. Dirigir los servicios y ejercer la jefatura del personal de la Escuela.
+4. Ejercer la gestión presupuestaria de la Escuela, disponiendo los gastos y proponiendo la ordenación de los pagos.
+5. Elaborar el anteproyecto del presupuesto anual de la Escuela para someterlo a la aprobación del Consejo Rector.
+6. Proponer al Consejo Rector el plan anual de actividades.
+7. Preparar la Memoria de actividades de la Escuela para su sometimiento al Consejo Rector.
+8. Coordinar el desarrollo de las actividades de la Escuela.
+9. Expedir diplomas y certificados acreditativos de los estudios realizados en la Escuela.
+10. Dirigir, impulsar y supervisar el cumplimiento de los fines y actividades de la Escuela.
+
+### Artículo 10
+
+Artículo 10.
+El Director de la Escuela Gallega de Administración Pública tendrá categoría de Director General y será nombrado por la Xunta a propuesta del Conselleiro de la Presidencia entre personas con acreditados conocimientos y experiencia en la Administración Pública de Galicia.
+
+### Artículo 11
+
+Artículo 11.
+1. La plantilla de la Escuela será cubierta con funcionarios de carrera destinados en la Comunidad Autónoma de Galicia o en cualquier otra Administración Pública.
+2. Los Profesores de la Escuela que no ostenten la condición de funcionarios de carrera que les habilite para el desarrollo de tal función tendrán la condición de colaboradores temporales y devengarán las compensaciones económicas que correspondan por asistencia, horas lectivas, conferencias, seminarios o trabajos determinados.
+3. La Escuela podrá encargar trabajos de investigación para el mejor cumplimiento de sus fines, previa correspondiente convocatoria pública.
+
+### Artículo 12
+
+Artículo 12.
+Para el cumplimiento de sus fines la Escuela Gallega de Administración Pública dispondrá de los siguientes medios económicos:
+1. Recursos ordinarios:
+1.1 Las cantidades que se le asignen en los Presupuestos Generales de la Comunidad Autónoma.
+1.2 Los bienes y los valores que constituyen su propio patrimonio y los rendimientos de éste.
+2. Recursos extraordinarios:
+2.1 Las subvenciones oficiales y los donativos o aportaciones voluntarias de Entidades o particulares.
+2.2 Las contraprestaciones económicas que generen los convenios que celebre y las actividades de la Escuela.
+2.3 Los ingresos que obtenga por sus publicaciones.
+
+### Disposición adicional
+
+Disposición adicional.
+Sin perjuicio de su valor en la Comunidad Autónoma Gallega, se promoverá el reconocimiento de los diplomas otorgados por la Escuela ante el resto de las Administraciones Públicas.
+
+### Disposición final
+
+Disposición final.
+Se faculta a la Xunta de Galicia para dictar, en el plazo de los cuatro meses siguientes a la entrada en vigor de esta Ley, las disposiciones que fuesen precisas para su desarrollo y cumplimiento.
+
+### [firma]
+
+Santiago de Compostela, 27 de mayo de 1987.
+GERARDO FERNÁNDEZ ALBOR
+Presidente
+
+## Información relacionada
+
+Información relacionada
+ Téngase en cuenta que las referencias hechas a la Consejería de la Presidencia, al consejero de la Presidencia y Administración Pública y al consejero de la Presidencia se entenderán hechas a la consejería competente en materia de administración pública y a la persona titular de la consejería competente en materia de administración pública, respectivamente, según establece el art. 32.4 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633

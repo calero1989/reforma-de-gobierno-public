@@ -1,0 +1,347 @@
+# Ley 7/2016, de 21 de julio, de medidas extraordinarias contra la exclusión social.
+
+- Identificador BOE: `BOE-A-2016-7692`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2016-7692
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE EXTREMADURA
+Sea notorio a todos los ciudadanos que la Asamblea de Extremadura ha aprobado y yo, en nombre del Rey, de conformidad con lo establecido en el artículo 40.1 del Estatuto de Autonomía, vengo a promulgar la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+I
+La presente ley contempla las medidas extraordinarias adoptadas para dar cumplimiento al compromiso de la Junta de Extremadura contra la exclusión social.
+La dureza, la profundidad y las medidas adoptadas para gestionar la salida de la crisis económica se ha traducido en mayores niveles de pobreza, con especial virulencia en la edad infantil, pérdida de la universalidad de la atención sanitaria con riesgo importante desde el punto de vista de la salud pública, y pérdida del derecho a la vivienda o a la posibilidad de tener acceso a una, de manera digna y efectiva.
+El compromiso de la Junta de Extremadura se centra en erradicar las desigualdades sociales y luchar por la justicia social, siendo los derechos a la protección de la salud, la acción social, el derecho a la vivienda y el asegurar unos mínimos vitales en cuanto a energía y agua se refieren, derechos a asegurar para conseguir una sociedad más igualitaria y con mayores niveles de justicia social.
+Sin embargo, los indicadores de pobreza, tanto globales, como energética, los datos de acceso a la protección de la salud por una parte de la población, el acceso a la vivienda ante las necesidades actuales de la población y las situaciones de emergencia social, hacen que se tengan que adoptar una serie de medidas urgentes que permitan dar respuesta a las necesidades que en este momento tiene la población.
+De acuerdo con esta necesidad, la presente ley recoge una serie de medidas en los ámbitos de lo sanitario, lo social, la vivienda que tratan de dar respuesta a las necesidades urgentes que en este momento tiene la sociedad actual y así contribuir a la erradicación de la desigualdad y aumentar la justicia social.
+II
+Cualquiera de los indicadores universalmente aceptados, nos indican que existen más personas que no disponen de los recursos materiales suficientes para atender sus necesidades básicas, lo que les impide vivir la vida con un mínimo de dignidad. En esta acepción de la pobreza se puede afirmar que las cifras de personas en esta situación han aumentado en Extremadura.
+Pero además, los indicadores nos hablan de un aumento de personas que se encuentran en claro riesgo de exclusión social. Así el concepto de exclusión social nos permite a los poderes públicos avanzar en el concepto de pobreza y no circunscribirlo a un mero concepto economicista. La exclusión social es un concepto dinámico y variable que tiene un origen multifactorial y donde además de la situación económica, se contemplan aspectos como las relaciones sociales, la situación laboral y el acceso a los recursos energéticos entre otros.
+En cuanto a la situación laboral, las cifras de desempleo, la disminución de la cobertura a los desempleados, la precariedad en el empleo y los salarios de los empleados son factores en clara relación con las cifras de exclusión social.
+La profundidad, la crudeza y la duración, así como los mecanismos políticos para salir de la crisis económica nos han llevado a mayores cifras de personas en situación de pobreza económica.
+Los recortes sanitarios que se han producido al amparo del Real Decreto Ley 16/2012 ha dejado a una parte de la población desprotegida. Y precisamente a la parte de la población más vulnerable a las situaciones de exclusión social y con necesidades de atención para prevenir enfermedades en el ámbito de la salud individual y colectiva.
+Y es necesario citar otro de los factores que incide de forma clara en las situaciones de exclusión social que es el acceso a la vivienda y en unas condiciones dignas. Las situaciones de emergencia social y las necesidades de vivienda han aumentado de forma importante, tanto que los mecanismos de acceso de los que nos habíamos dotado, hoy no responden a la necesidad de la población.
+En Extremadura se ha producido un claro incremento del número de personas en hogares con riesgo de pobreza y exclusión social, tanto que en 2014 las cifras eran de 437.535 extremeños, frente a 399.372 solamente cuatro años atrás. Lo que hace que casi 40 hogares de cada 100 se encuentran en situación de riesgo de pobreza y exclusión social, lo que representa un 39,8% de los hogares extremeños, siendo este dato superior en 10,6 puntos al del conjunto del Estado. Esto mismo lo atestiguan los indicadores de privación material severa, el índice de baja intensidad en el trabajo en el hogar o las cifras de desempleo. Indicadores, donde Extremadura se sitúa entre las de mayores cifras en cuanto a los mismos en el conjunto de las comunidades autónomas.
+Mención especial requieren los datos en cuanto a pobreza infantil donde datos de diferentes informes y estudios sitúan a nuestro país, como uno de los que mayores cifras de niños y niñas en riesgo de pobreza dentro de los de nuestro entorno, concretamente el 30,5 % de los niños y niñas de nuestro país vive en riesgo de pobreza infantil. Además, Extremadura se situaría como la Comunidad Autónoma con mayor tasa de riesgo de pobreza infantil, siendo en el informe de UNICEF del 46%.
+Los datos anteriormente expuestos reflejan una situación en la que los poderes públicos deben articular soluciones para dar respuesta a las situaciones de urgencia social en la que se encuentra la población.
+III
+El derecho a la protección de la salud reconocido en el artículo 43 de la Constitución Española, impone a los poderes públicos el deber de organizar y tutelar la salud pública a través de las medidas preventivas y de las prestaciones y servicios necesarios.
+El modelo español de sistema nacional de salud que garantiza la protección de la salud se sustenta en la financiación pública, la universalidad y la gratuidad de los servicios sanitarios. Estos principios quedan reflejados en la Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud (SNS).
+El Real Decreto Ley 16/2012, de 20 de abril, que modificó la Ley 16/2003, de 28 de mayo, establece que el Instituto Nacional de la Seguridad Social (INSS) y el Instituto Social de la Marina (ISM) son los competentes para controlar la condición de asegurado o de beneficiario del SNS.
+Por otro lado, el Real Decreto Ley 16/2012, de 20 de abril, añade un tercer artículo, asistencia sanitaria en situaciones especiales, a la Ley 16/2003, de 28 de mayo, que establece que los extranjeros no registrados y no autorizados como residentes en España recibirán asistencia pública en caso de embarazo, parto y postparto y en caso de menores de 18 años, con la misma extensión que la que tienen reconocida las personas que ostentan la condición de aseguradas.
+Por otra parte, de acuerdo con la Ley 33/2011, de 4 de octubre, General de Salud Pública, las prestaciones sanitarias de salud pública en el sistema nacional de salud incluyen acciones preventivas, asistenciales, de seguimiento y control de situaciones dirigidas a preservar la salud pública de la población, así como evitar los riesgos asociados a situaciones de alerta y emergencia sanitaria. Las competencias y actuaciones en materia de salud pública corresponden a las comunidades autónomas, quienes las ejercen independientemente del dispositivo de asistencia sanitaria y que se dirigen a toda la población sin distinción de su acceso al sistema sanitario asistencial.
+En el ámbito de la Comunidad Autónoma de Extremadura, los principios rectores de la actuación del sistema extremeño de salud se recogen en la Ley 10/2001, de 28 de junio, de Salud de Extremadura, en su artículo 3.
+Desarrollando los principios de dicha ley, se regula la universalización de la atención sanitaria garantizando la igualdad efectiva en las condiciones de acceso a los servicios y actuaciones sanitarias de los extranjeros en la Comunidad Autónoma de Extremadura mediante el Decreto 31/2004, de 23 de marzo, por el que se regula la protección sanitaria a los extranjeros en la Comunidad Autónoma de Extremadura y se crea la Tarjeta para la Atención Sanitaria en el Sistema Sanitario Público de Extremadura.
+La aplicación en la Comunidad Autónoma de Extremadura del Real Decreto Ley 16/2012, de 20 de abril, dejó sin cobertura de acceso reglado al Servicio Extremeño de Salud a los extranjeros que anteriormente disponían legalmente de tarjeta sanitaria del SNS de acuerdo con el Real Decreto 1088/1989, de 8 de septiembre, la normativa básica de la Seguridad Social y la propia Ley 10/2001, de 28 de junio, de Salud de Extremadura y Decreto 31/2004, de 23 de marzo, por el que se regula la protección sanitaria a los extranjeros en la Comunidad Autónoma de Extremadura y se crea la Tarjeta para la Atención Sanitaria en el Sistema Sanitario Público de Extremadura.
+La limitación de cobertura a la garantía de acceso en caso de urgencias y a la inclusión de determinados procedimientos de salud pública, así como la indefinición en los conceptos de gratuidad de la asistencia prestada, ha generado de hecho una situación contraria a lo establecido como principios rectores en la propia Ley 10/2001, de 28 de junio, de Salud de Extremadura.
+Por otra parte, la eficacia y eficiencia de la acción asistencial, de promoción de la salud y de defensa de la salud pública del sistema extremeño de salud se ha visto comprometida por la presencia de un importante colectivo no incluido de forma sistemática y reglada en los procedimientos generales habilitados para estos fines.
+Por todo ello, y ante la necesidad de paliar urgentemente la situación actual, en coherencia con el principio rector de universalidad de acceso a la asistencia sanitaria recogido en la Ley 10/2001, de 28 de junio, de Salud de Extremadura, es necesario establecer las condiciones de acceso al sistema extremeño de salud, del citado colectivo actualmente excluido, manteniendo los principios de equidad, garantía de acceso, sostenibilidad económica, eficiencia en la prestación de servicios sanitarios y defensa de la sanidad pública.
+IV
+Incorpora esta ley modificaciones a la Ley 9/2014, de 1 de octubre, por la que se regula la Renta Básica Extremeña de Inserción, que inciden en el procedimiento para la concesión de la Renta Básica Extremeña de Inserción, mediante la supresión de los plazos de convocatoria hasta ahora previstos e introduciendo cambios que permitan agilizar la tramitación administrativa y la gestión económica inherente al reconocimiento del derecho y hacer efectivo con mayor celeridad el cobro de la Renta Básica de Inserción.
+Asimismo, se incorporan modificaciones para dar respuesta a la demanda ciudadana planteada ante aquellos casos en los que el derecho a la prestación económica se pueda ver afectado debido a cambios en la unidad familiar de convivencia, mediante la incorporación de un procedimiento de subrogación en el derecho a la prestación.
+V
+En nuestra región, al margen de otros recursos precedentes de lucha contra los procesos de riesgo o de exclusión social, la entrada en vigor de la Ley 3/2013, de 21 de mayo, reguladora de la Renta Básica Extremeña de Inserción, supuso un nuevo hito normativo para el logro de la real y efectiva igualdad de los colectivos más deprimidos, reconociéndose a esta prestación la naturaleza de derecho subjetivo, esto es, se instituye un verdadero derecho de la ciudadanía a tener cubiertas sus necesidades básicas y a su inserción social y laboral.
+No obstante, los nuevos perfiles de pobreza y la reducción de los recursos económicos de las familias, especialmente de aquellas afectadas por la lacra del desempleo, hacen necesario ampliar las acciones aplicables a estas situaciones para que sean atendidas adecuadamente por los poderes públicos, de modo que se garantice real y efectivamente el acceso de todos los ciudadanos a los bienes y servicios básicos.
+De otra parte, la Ley 14/2015, de 9 de abril, de Servicios Sociales de Extremadura, como señala en su Exposición de Motivos, instaura un nuevo marco legislativo con la declaración del derecho a los servicios sociales como un derecho subjetivo y universal de los ciudadanos. El Sistema Público de Servicios Sociales de Extremadura comprende el conjunto de servicios, prestaciones y actuaciones de titularidad pública que aseguren el derecho a la atención de las necesidades personales y sociales en el marco de la justicia social, teniendo por finalidad, entre otras, garantizar a toda persona la cobertura de sus necesidades personales básicas.
+En este sentido, como servicio más próximo al ciudadano en la detección de sus necesidades, se hace imprescindible la contribución de los Servicios Sociales de Extremadura a fin de garantizar una atención personal e integral de forma coordinada con los demás poderes públicos, de modo que los ciudadanos obtengan una respuesta eficaz a la situación de urgencia social en que puedan verse inmersos.
+Así, junto a la Renta Básica Extremeña de Inserción y otras medidas transversales adoptadas por los poderes públicos regionales, como herramienta para dar respuesta inmediata a las urgencias sociales puntuales detectadas, las ayudas extraordinarias de apoyo social para contingencias vienen ahora a complementar y reforzar las políticas de acción social en Extremadura, a fin de paliar o superar las situaciones de emergencia social sobrevenidas en que puedan encontrarse sus ciudadanos.
+VI
+El problema de la pobreza energética está aumentando en los últimos años debido a la duración de la crisis económica, lo que ha conllevado un empeoramiento de la economía familiar agravado por la subida y por el encarecimiento de los recibos de la luz, el agua y el gas.
+Desde 2007, la factura eléctrica se ha disparado en España un 63%, mientras que la renta media de los hogares se ha reducido un 8,5%, según las cifras del Instituto Nacional de Estadística. La tasa de pobreza energética ha pasado del 5,9% en 2008 al 10% en 2010, y se estima que actualmente ronde el 15%. Esta circunstancia genera consecuencias en la salud de las familias menos favorecidas, afectando especialmente a sus miembros más vulnerables: ancianos, niños y adolescentes.
+El gasto más importante, la calefacción, supone ya el 42% del total de la factura de energía, haciendo gastar a las familias por encima de sus posibilidades. En el contexto extremeño la incidencia es mayor por el estado general de los inmuebles, ya que un 40% de ellos padecen patologías (humedades, goteras, podredumbres) que incrementan ese gasto de calefacción. Y hay, por lo menos, un 10% de familias cuyos recursos le impiden alcanzar una temperatura media de 18 grados, mínimo considerado por la Organización Mundial de la Salud (OMS) para alcanzar las necesarias condiciones de salubridad.
+Extremadura es la tercera región del país con un mayor porcentaje de hogares que llegan a fin de mes con mucha dificultad, con una tasa de un 20,9%, además, según el INE, en cuanto a las tasas de riesgo de pobreza, las tasas más elevadas del país se dan en Extremadura, donde se encuentran también los ingresos medios más bajos del país.
+Son más de 27.000 familias extremeñas las que pueden pasar frío en invierno debido al mal acondicionamiento de las viviendas y a los problemas para abonar las facturas, y es por ello que la Junta de Extremadura no puede pasar por alto esta grave circunstancia, debiendo adoptar medidas para garantizar a las personas sin recursos o más necesitadas el suministro energético básico de su vivienda habitual.
+VII
+Es necesario, además adoptar medidas urgentes para dar respuesta al derecho a la vivienda que tienen los ciudadanos y ciudadanas extremeños, modificando los criterios de adjudicación de viviendas de promoción pública de la Comunidad Autónoma de Extremadura, que estableció como sistema de adjudicación el realizado mediante sorteo entre las personas necesitadas de este tipo de viviendas.
+La experiencia acumulada a lo largo de estos años demuestra que es necesario un cambio de este sistema de adjudicación por otro que sea más justo y que valore de una forma más racional la realidad social de las personas que solicitan estas viviendas de promoción pública.
+Para ello se implanta como sistema general de adjudicación el denominado como concurso de valoración.
+Por otra parte, se establece una nueva regulación de los supuestos de ocupación ilegal de vivienda de promoción pública, con el fin no de amparar o legitimar dichas situaciones, sino de posibilitar una actuación anticipada de la administración para resolver situaciones urgentes y reales de necesidad de vivienda y, al mismo tiempo ofrecer una segunda oportunidad a familias que por determinadas circunstancias se han visto abocadas a este tipo de ocupaciones ilegales, ofreciéndoles la posibilidad de participar en procedimientos de adjudicación de vivienda de promoción pública.
+Asimismo, se amplía por otros dos años más la duración máxima de las minoraciones del 100% de la renta de los contratos para aquellas unidades familiares cuyos ingresos se hayan visto reducidos por los actos de la crisis económica de forma considerable, al no solo persistir en la actualidad la situación de necesidad que motivó dicha medida, sino además por el recrudecimiento de aquella por su prolongación en el tiempo.
+En línea con lo anterior, en el ámbito de la vivienda se contempla la articulación de una línea de ayuda, en régimen de concesión directa, para familias afectadas por ejecuciones hipotecarias y que por este motivo tengan derecho a acceder a una vivienda de promoción pública, a fin de que puedan hacer frente al pago de la renta del alquiler de una vivienda en el mercado libre hasta que se resuelve y se hace efectiva la entrega de una vivienda de promoción pública.
+Finalmente, a fin de impulsar y coordinar medidas de intermediación tendentes a la solución de conflictos sobre ejecuciones hipotecarias o sobreendeudamiento en las familias, para dar solución a los conflictos surgidos entre las entidades bancarias y los deudores de préstamos con garantías hipotecarias se introduce una modificación de la Ley 1/2008, de 22 de mayo, de creación de Entidades Públicas de la Junta de Extremadura al objeto de incorporar el asesoramiento y la mediación e intermediación hipotecaria a los fines del Instituto de Consumo de Extremadura.
+VIII
+Por ello, y ante la necesidad de adoptar medidas urgentes que vengan a solucionar las necesidades de la población para disminuir la exclusión social de los ciudadanos extremeños, y en el marco de las competencias exclusivas que el Estatuto de Autonomía de Extremadura atribuye a esta Comunidad Autónoma en materia de sanidad y salud pública, participación en la planificación y coordinación general de la sanidad (artículo 9.1.24), en materia de acción social (artículo 9.1.27), en materia de vivienda (artículo 9.1.31) y en materia de consumo (artículo 9.1.18), se adoptan estas medidas a través de esta ley.
+Dado que los actuales mecanismos de intervención sobre los factores de riesgo y exclusión no han alcanzado los objetivos esperables, sino que lejos de salvar una situación extrema han colocado a Extremadura en una situación de urgencia histórica con indicadores por encima del resto de la nación y dado que los convencionales procedimientos de tramitación legislativa no van permitir revertir la situación con la celeridad que precisa una situación de emergencia social, es por lo que se considera justificada la utilización de esta norma como el mecanismo más efectivo para solucionar la situación fáctica habilitante, pues el Decreto-Ley 1/2016, de 10 de mayo, aglutina una serie de medidas que tienen por objeto intervenir sobre los factores de riesgo y exclusión en los ámbitos de la protección sanitaria, la renta básica, la vivienda y la garantía de suministro eléctrico y de agua con el fin de erradicar las desigualdades sociales y de aumentar la cohesión y la justicia social en Extremadura. La efectividad de la respuesta normativa propuesta por el Decreto-Ley 1/2016. de 10 de mayo, no puede demorarse durante el tiempo necesario para permitir su tramitación por el procedimiento legislativo ordinario precisamente por la necesidad de inmediatez de las medidas propuestas. Por todo ello, es por lo que se utiliza una legislación de urgencia, atendiendo al artículo 33 del Estatuto de Autonomía de Extremadura, por el que, en caso de extraordinaria y urgente necesidad, la Junta de Extremadura puede dictar disposiciones legislativas provisionales bajo la forma de decreto-ley, en el que sean contempladas medidas transversales que atiendan todos y cada uno de los indicadores que intervienen en el proceso de exclusión y que facilite de nuevo la cohesión y justicia social en Extremadura.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto establecer un conjunto de medidas extraordinarias destinadas a atender las necesidades básicas de personas, familias y colectivos susceptibles de especial protección y fomentar la inclusión social de las personas con necesidades crecientes de carácter social en segmentos de la población especialmente vulnerables.
+
+### Artículo 2
+
+Artículo 2. Acciones y medidas.
+Las acciones y medidas previstas en la presente ley se articulan mediante:
+a) (Anulado).
+b) Adaptación del procedimiento de acceso al derecho a la Renta Básica de Inserción de Extremadura a las necesidades sociales actuales.
+c) Puesta en marcha de medidas excepcionales destinadas a cubrir situaciones de emergencia social.
+d) Medidas para asegurar el acceso a unos mínimos vitales de luz, agua y gas a las personas vulnerables.
+e) Medidas tendentes a aumentar la justicia social en el acceso a la vivienda y a paliar las consecuencias de una crisis económica con la duración y profundidad de la actual.
+Se declara inconstitucional y nulo el apartado a), por Sentencia del TC 2/2018, de 11 de enero. Ref. BOE-A-2018-1678
+
+### Artículo 2 bis
+
+Artículo 2.bis. Procedimiento de Emergencia Ciudadana.
+1. Se entiende como Procedimiento de Emergencia Ciudadana aquellos procedimientos gestionados por la Administración de la Junta de Extremadura destinados a garantizar a las personas los recursos económicos y sociales mínimos para la convivencia en condiciones de dignidad e igualdad, estableciendo un conjunto de medidas de destinadas a dotar de recursos suficientes para la más óptima gestión y tramitación de dichos procedimientos.
+2. Se definen como procedimientos administrativos de emergencia ciudadana la gestión de las siguientes prestaciones o ayudas o aquellas que en el futuro se creen con el mismo o similar objeto:
+• Renta Básica Extremeña de Inserción.
+• Ayudas extraordinarias de apoyo social para contingencias.
+• Garantía de suministros vitales.
+• Ayudas al alquiler para familias afectadas por ejecuciones hipotecarias.
+3. Las personas titulares de las Consejerías garantizarán la provisión de medios materiales, de personal y económicos suficientes para el cumplimiento en los procedimientos declarados de emergencia ciudadana de los plazos previstos en esta ley.
+4. Durante el ejercicio presupuestario no podrá realizarse modificación alguna que suponga una reducción de los importes consignados en los créditos que figuren en los estados de gastos de la Junta de Extremadura destinados a la financiación de los gastos vinculados a los procedimientos de emergencia ciudadana.
+5. La Dirección General con competencia en materia de tesorería, a la que corresponde la función de Ordenador General de Pagos según lo establecido en el artículo 93.2 de la Ley 5/2007, de 19 de abril, General de Hacienda Pública de Extremadura, priorizará la ejecución de los pagos de la Tesorería de la Comunidad Autónoma de Extremadura derivados de los procedimientos de emergencia ciudadana, conforme a las disponibilidades líquidas efectivas o previstas de la Tesorería.
+
+## TÍTULO II
+
+Universalización de la atención sanitaria en el ámbito territorial de la Comunidad Autónoma de Extremadura
+
+### Artículo 3
+
+Artículo 3. Objeto de la universalización de la atención sanitaria en el ámbito de la Comunidad Autónoma de Extremadura.
+(Anulado).
+Se declara inconstitucional y nulo, por Sentencia del TC 2/2018, de 11 de enero. Ref. BOE-A-2018-1678
+
+### Artículo 4
+
+Artículo 4. Ámbito de aplicación de la universalidad de la atención sanitaria en el ámbito de la Comunidad Autónoma de Extremadura.
+(Anulado).
+Se declara inconstitucional y nulo, por Sentencia del TC 2/2018, de 11 de enero. Ref. BOE-A-2018-1678
+
+### Artículo 5
+
+Artículo 5. Prestaciones asistenciales.
+(Anulado).
+Se declara inconstitucional y nulo, por Sentencia del TC 2/2018, de 11 de enero. Ref. BOE-A-2018-1678
+
+### Artículo 6
+
+Artículo 6. Prestaciones farmacéuticas y ortoprotésicas.
+(Anulado).
+Se declara inconstitucional y nulo, por Sentencia del TC 2/2018, de 11 de enero. Ref. BOE-A-2018-1678
+
+### Artículo 7
+
+Artículo 7. Requisitos exigidos.
+(Anulado).
+Se declara inconstitucional y nulo, por Sentencia del TC 2/2018, de 11 de enero. Ref. BOE-A-2018-1678
+
+### Artículo 8
+
+Artículo 8. Procedimiento, solicitud y fecha de efecto.
+(Anulado).
+Se declara inconstitucional y nulo, por Sentencia del TC 2/2018, de 11 de enero. Ref. BOE-A-2018-1678
+
+### Artículo 9
+
+Artículo 9. Asignación de médico y centro de atención primaria.
+(Anulado).
+Se declara inconstitucional y nulo, por Sentencia del TC 2/2018, de 11 de enero. Ref. BOE-A-2018-1678
+
+### Artículo 10
+
+Artículo 10. Supuestos de exclusión.
+(Anulado).
+Se declara inconstitucional y nulo, por Sentencia del TC 2/2018, de 11 de enero. Ref. BOE-A-2018-1678
+
+## TÍTULO III
+
+Medidas para el fomento de la inclusión social
+
+### Artículo 11
+
+Artículo 11. Modificación de la Ley 9/2014, de 1 de octubre, por la que se regula la Renta Básica Extremeña de Inserción.
+(Derogado).
+Téngase en cuenta que este artículo se deroga por la disposición derogatoria única de la Ley 5/2019, de 20 de febrero. Ref. BOE-A-2019-3491#dd, con efectos de 26 de junio de 2019, según establece su disposición final 3.
+Se deroga por la disposición derogatoria única de la Ley 5/2019, de 20 de febrero. Ref. BOE-A-2019-3491#dd
+ Téngase en cuenta que esta derogación entra en vigor el 26 de junio de 2019, según establece la disposición final 3 de la citada ley.
+
+## TÍTULO IV
+
+Contingencias
+
+### Artículo 12
+
+Artículo 12. Ayudas extraordinarias de apoyo social para contingencias.
+1. Se establece la ayuda extraordinaria de apoyo social a otorgar a las personas residentes en Extremadura que por situaciones extraordinarias no puedan hacer frente, por sí mismas o mediante los recursos sociales o institucionales disponibles en el entorno, a determinados gastos considerados básicos, requiriendo atención en un breve plazo de tiempo con el fin de prevenir, evitar o paliar procesos de exclusión social y garantizar de manera temporal la cobertura de las necesidades personales básicas de subsistencia.
+Atendiendo a la naturaleza y finalidad de esta ayuda, se excluye del ámbito de aplicación de la normativa en materia de subvenciones. Asimismo, no podrá ser objeto de cesión, embargo o retención, sin perjuicio de lo dispuesto en la legislación procesal del Estado.
+2. Esta ayuda no tendrá carácter periódico o indefinido, limitándose a cubrir mediante un pago único las necesidades, puntuales e inusuales, originadas por contingencias extraordinarias que afecten a los destinatarios, debiendo destinarse al objeto para el que se ha concedido.
+3. A los efectos de estas ayudas, tendrán la consideración de gastos básicos, cuya cuantía máxima se determinará reglamentariamente, los siguientes:
+a) Gastos de alojamiento para mantener el derecho de uso de la vivienda habitual en régimen de alquiler y gastos derivados de intereses y de amortización de préstamos con garantía hipotecaria contraídos por la adquisición de la vivienda habitual de la unidad familiar, salvo las viviendas de promoción pública.
+b) Gastos de alojamiento temporal con el fin de acceder a una nueva vivienda o alojamiento, siempre que esta necesidad obedezca al desalojo de su anterior vivienda habitual por impago o por deterioro grave que imposibilite su habitabilidad, por motivos de salubridad, higiene o por una situación sobrevenida que se produzca en el hogar como inundaciones, incendios, violencia de género u otros de similar naturaleza.
+c) Gastos necesarios en instalaciones o equipamiento básico (mobiliario y electrodomésticos de primera necesidad) de la vivienda habitual o aquellos otros útiles de primera necesidad que se determinen reglamentariamente.
+d) Gastos referidos a las necesidades primarias, en concreto, los derivados de la alimentación básica o especializada, del aseo, del calzado y del vestido.
+e) Gastos necesarios de asistencia sanitaria o sociosanitaria no cubiertos por el Sistema Público, prescritos por el facultativo o técnico especialista competente, incluyendo en este apartado los derivados de gasto farmacéutico, desplazamientos para recibir tratamiento, prótesis auditivas, gafas, material ortoprotésico y tratamientos dentales no estéticos.
+f) Otros gastos destinados a atender una carencia crítica, de carácter excepcional, ocasionados por una situación social, asistencial o humanitaria que, de manera motivada y previo informe de los profesionales de los Servicios Sociales de Atención Social Básica, requiera de una intervención urgente e inmediata justificada en la ausencia de recursos propios, familiares o institucionales públicos o privados, que puedan permitir afrontar y paliar esa situación de emergencia.
+g) Otros gastos que pudieran contemplarse reglamentariamente.
+h) Gastos de endeudamiento previo originados por cualquiera de los conceptos previstos en los apartados anteriores.
+4. Podrán ser beneficiarias de las ayudas extraordinarias de apoyo social para contingencias las personas que cumplan los siguientes requisitos:
+a) Ser mayores de edad o que, aun siendo menores de dicha edad, sean huérfanas absolutas o estén emancipadas, por matrimonio o por concesión judicial o de quienes ejerzan la patria potestad.
+b) Estar empadronadas y residir legal y efectivamente en alguno de los municipios de la Comunidad Autónoma de Extremadura con una antigüedad de al menos seis meses.
+El requisito de antigüedad no será exigible a los emigrantes extremeños retornados, a los transeúntes, a los extranjeros refugiados o con solicitud de asilo en trámite, así como a los que tengan autorizada su estancia por razones humanitarias o, excepcionalmente, cuando la situación de emergencia comprometa gravemente la subsistencia del mismo o de su unidad familiar y así se haya acreditado en el informe motivado emitido por el Servicio Social de Atención Social Básica.
+c) Pertenecer a una unidad familiar en la que se carezca de rentas o ingresos suficientes en los términos que reglamentariamente se establezcan.
+d) Que se haya producido una contingencia extraordinaria que requiera de una acción inmediata e inaplazable que no pueda ser acometida por medios propios de la unidad familiar ni por otros recursos sociales o institucionales existentes en el entorno y así conste en el informe de los Servicios Sociales de Atención Social Básica del municipio de residencia del solicitante.
+e) No haber recibido la unidad familiar ayudas públicas que cubran la totalidad de los gastos para los que se solicita la ayuda extraordinaria de apoyo social para contingencias.
+5. No podrán ser beneficiarios de estas ayudas quienes:
+a) No hayan justificado una ayuda extraordinaria de apoyo social para contingencias que se hubiera concedido al solicitante o a cualquiera de los restantes miembros de la unidad familiar, y no hayan transcurrido dos años desde la resolución de concesión de la ayuda que no ha sido justificada.
+b) Residan en centros que pertenezcan a instituciones o entidades que estén obligadas a atender las necesidades básicas de subsistencia de sus residentes o estén ingresados con carácter permanente en un centro residencial o de carácter social, sanitario, socio sanitario, ya sea público, concertado o privado, para la cobertura de las necesidades que tengan cubiertas en los mismos. No obstante, podrá concederse la ayuda para sufragar los gastos de alquiler de vivienda habitual, siempre que se destine a iniciar una vida independiente de los citados centros o recursos residenciales.
+6. A los efectos de esta ayuda, se considera unidad familiar la integrada por la persona solicitante y quienes residan de manera efectiva con ella en el mismo domicilio, ya sea por unión matrimonial o pareja de hecho, por parentesco de consanguinidad o afinidad hasta el segundo grado, así como por adopción, tutela o acogimiento familiar constituidos por resolución judicial o administrativa.
+Se consideran parejas de hecho las inscritas debidamente en el Registro de Parejas de Hecho, así como aquellas parejas que conviven de manera libre, pública y notoria en una relación de afectividad análoga a la conyugal.
+7. El procedimiento para el reconocimiento de esta prestación económica se iniciará mediante solicitud de la persona interesada, correspondiendo la instrucción y resolución al órgano competente de la entidad local de residencia de la persona solicitante, de conformidad con las competencias que la legislación del Estado y de la Comunidad Autónoma de Extremadura atribuye a los municipios en materia de información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social.
+Téngase en cuenta que la última modificación de los apartados 1 y 7 establecida por la disposición adicional 3 de la Ley 5/2019, de 20 de febrero. Ref. BOE-A-2019-3491#da-3 entra en vigor el 26 de junio de 2019, según determina su disposición final 3:
+ Redacción anterior:
+ "1. Se establece la ayuda extraordinaria de apoyo social a otorgar a las personas residentes en Extremadura que por situaciones extraordinarias no puedan hacer frente, por si mismas o mediante los recursos sociales o institucionales disponibles en el entorno, a determinados gastos considerados básicos, requiriendo atención en un breve plazo de tiempo con el fin de prevenir, evitar o paliar procesos de exclusión social y garantizar de manera temporal la cobertura de las necesidades personales básicas de subsistencia. Estas ayudas tienen el carácter de inembargables.
+ [Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado, por Sentencia del TC 2/2018, de 11 de enero. Ref. BOE-A-2018-1678]
+ Las ayudas extraordinarias de apoyo social a contingencias estarán sujetas a una única convocatoria anual establecida mediante Orden publicada al efecto que permanecerá abierta durante toda la anualidad con objeto de poder presentar solicitud cuando surja la necesidad y durante todo el año."
+ "7. El órgano competente para la ordenación e instrucción del procedimiento será la Dirección General competente en materia de políticas sociales, que realizará de oficio cuantas actuaciones estime necesarias para la determinación, conocimiento y comprobación de los datos en virtud de los cuales deba formularse la correspondiente propuesta de resolución.
+ La concesión de las subvenciones será resuelta y notificada individualmente por el titular de la Consejería competente en materia de políticas sociales, en el plazo de tres meses desde la entrada de la solicitud en el Registro Único de la Junta de Extremadura. La resolución adoptada pone fin a la vía administrativa."
+Se modifican los apartados 1 y 7 establecida por la disposición adicional 3 de la Ley 5/2019, de 20 de febrero. Ref. BOE-A-2019-3491#da-3
+ Téngase en cuenta que esta modificación entra en vigor el 26 de junio de 2019, según determina la disposición final 3 de la citada Ley.
+ Se declara inconstitucional y nulo el inciso destacado del apartado 1, por Sentencia del TC 2/2018, de 11 de enero. Ref. BOE-A-2018-1678
+
+### Artículo 13
+
+Artículo 13. Situaciones excepcionales.
+1. Se establecerá un procedimiento especial que incluya un informe social estimatorio en el caso de que el ciudadano con residencia efectiva en la Comunidad Autónoma de Extremadura no pueda acreditar su empadronamiento o cuando justifique la dificultad para la obtención de los documentos requeridos y, en general, cuando se deban extender las condiciones de acceso establecidas en esta ley a aquellos ciudadanos sin distinción de origen, procedencia y circunstancias de la residencia efectiva según lo establecido para cada caso en el desarrollo de la presente ley.
+2. Con el objeto de garantizar la continuidad de los tratamientos farmacológicos prescritos o cuando así esté indicado por motivos de salud pública, se establecerán ayudas de carácter social a ciudadanos especialmente desfavorecidos, en el marco de las disponibilidades presupuestarias de cada ejercicio.
+
+## TÍTULO V
+
+Mínimos vitales
+
+### Artículo 14
+
+Artículo 14. Garantía de suministros mínimos vitales.
+1. La Junta de Extremadura garantiza el derecho subjetivo a los suministros de mínimos vitales, entendidos como el derecho a tener cubierto, al menos, el suministro de 100 litros de agua potable al día y 6 kilowatios hora al día de consumo eléctrico, así como el restablecimiento o incorporación de los consiguientes contadores de luz y agua en las viviendas de promoción pública y protección oficial, garantizando además de las medidas contra la pobreza energética, las condiciones de habitabilidad de las viviendas objeto de las políticas públicas.
+2. Podrán acceder al derecho a los suministros de mínimos vitales las personas que estén empadronadas y residan legal y efectivamente en Extremadura y cumplan los siguientes requisitos:
+a) Ser mayores de edad o que, aun siendo menores de dicha edad, sean huérfanas absolutas o estén emancipadas, por matrimonio o por concesión judicial o de quienes ejerzan la patria potestad.
+b) Haber residido en alguno de los municipios de la Comunidad Autónoma de Extremadura con una antigüedad de al menos seis meses. Este requisito de antigüedad no será exigible a los emigrantes extremeños retornados, a los transeúntes, ni a los extranjeros refugiados o con solicitud de asilo en trámite, así como los que tengan autorizada su estancia por razones humanitarias o, excepcionalmente, cuando la situación de emergencia comprometa gravemente la subsistencia del mismo o de su unidad de convivencia y así se haya acreditado en el informe motivado emitido por el Servicio Social de Atención Social Básica.
+c) Carecer de rentas o ingresos suficientes, en los términos que se establezcan reglamentariamente.
+d) No haber recibido ningún miembro de la unidad de convivencia ayudas públicas o privadas para el pago de los mismos conceptos, períodos e importes facturados objeto de suministro.
+3. A los efectos de esta norma, se considera beneficiarios de la ayuda a todos los miembros de la unidad de convivencia. No obstante lo anterior, solo podrá ser reconocida en favor de uno de los miembros de la misma.
+4. No podrán acceder a este derecho quienes residan en centros que pertenezcan a instituciones o entidades que estén obligadas a atender las necesidades básicas de subsistencia de sus residentes o estén ingresados con carácter permanente en un centro residencial o de carácter social, sanitario, socio sanitario, ya sea público, concertado o privado, para la cobertura de las necesidades que tengan cubiertas en los mismos. No obstante, podrá concederse la ayuda para sufragar los gastos de alquiler de vivienda habitual, siempre que la ayuda se destine a iniciar una vida independiente de los citados centros o recursos residenciales.
+Asimismo, también podrán establecerse otros supuestos de exclusión en las normas de desarrollo del presente título.
+5. Reglamentariamente se regulará el procedimiento para reconocer el derecho a los suministros de mínimos vitales.
+6. Para hacer efectivo el derecho a los suministros de mínimos vitales una vez reconocido, la Junta de Extremadura suscribirá convenios con las empresas y entidades suministradoras de estos servicios, para el pago directo de los mismos. No obstante, reglamentariamente podrán establecerse bien otras fórmulas de pago bien otras formas de intervención a través de otras Administraciones Públicas.
+7. Las asignaciones presupuestarias que en cada ejercicio económico se destinen a las ayudas extraordinarias de apoyo social para contingencias tendrán el carácter de crédito ampliable, de modo que se garantice la cobertura económica de este derecho a todos los solicitantes que reúnan los requisitos establecidos en esta ley.
+
+## TÍTULO VI
+
+Medidas de acceso a las viviendas de promoción pública de la Comunidad Autónoma de Extremadura y de mediación e intermediación hipotecaria
+
+### Artículo 15
+
+Artículo 15. Sistemas de adjudicación de viviendas.
+1. A partir de la entrada en vigor de la presente ley el sistema general de adjudicación de las viviendas promovidas por la Junta de Extremadura recogido en el Decreto 115/2006, de 27 de junio, por el que se regula el procedimiento de adjudicación de viviendas de promoción pública en la Comunidad Autónoma de Extremadura, será el sistema de concurso por valoración, con independencia de la zona en que se promueva la vivienda y el número de solicitudes presentadas y admitidas, sin que puedan ser adjudicadas por sorteo.
+2. Excepcionalmente, se mantendrá el sistema de adjudicaciones directas en los supuestos y con las condiciones establecidas tanto en el citado Decreto 115/2006, de 27 de junio, así como en otras normas reglamentarias.
+
+### Artículo 16
+
+Artículo 16. Ocupaciones ilegales de viviendas.
+Podrán participar en los procedimientos de adjudicación de viviendas de promoción pública contemplados en el Decreto 115/2006, de 27 de junio, que regula el procedimiento de adjudicación de viviendas de promoción pública en la Comunidad Autónoma de Extremadura, sin que constituya causa de exclusión de los mismos, aquellas personas que se encuentren ocupando ilegalmente una vivienda de promoción pública cuando previamente, con una antelación de al menos tres meses a la ocupación ilegal, hubiesen comunicado y acreditado ante el órgano competente en materia de vivienda la necesidad urgente de vivienda. En tal caso, de resultar adjudicatario de una vivienda de promoción pública dicha adjudicación quedará condicionada a la devolución de la posesión de la vivienda ocupada ilegalmente a la Junta de Extremadura.
+Asimismo, podrán participar quienes en algún momento anterior a la apertura del procedimiento de adjudicación hayan ocupado de manera ilegal alguna vivienda de promoción pública, y no continúen ocupándola al momento de apertura del procedimiento de adjudicación.
+El estado de necesidad será valorado junto con la situación de exclusión social y la carencia de vivienda a efectos de plazos, prerrogativas administrativas y procedimiento de adjudicación.
+
+### Artículo 17
+
+Artículo 17. Minoraciones de renta del 100% por alteración significativa de ingresos.
+1. Los adjudicatarios de las viviendas de promoción pública en régimen de alquiler a los que, por habérseles producido una alteración significativa en los ingresos de la unidad familiar, acrediten el cumplimiento de los requisitos exigidos en el apartado 9 del Anexo I del Decreto 115/2006, de 27 de junio, que regula el procedimiento de adjudicación de viviendas de promoción pública en la Comunidad Autónoma de Extremadura, podrán solicitar la minoración de la renta durante un período inicial de dos años, prorrogable por otros dos hasta agotar el máximo de cuatro años de minoración, cuando el importe de la misma suponga un esfuerzo económico superior al 10 por ciento de sus ingresos.
+2. A los efectos de esta medida se entiende que se ha producido una alteración significativa en los ingresos de la unidad familiar cuando el esfuerzo que represente el pago del importe del alquiler, sobre la renta de la unidad familiar se haya multiplicado por 1,5.
+3. Se entenderá por unidad familiar a estos efectos, la compuesta por el titular del contrato de arrendamiento, su cónyuge no separado legalmente o pareja de hecho inscrita y los hijos, con independencia de su edad, que residan en la vivienda, incluyendo los vinculados por una relación de tutela, guarda o acogimiento familiar.
+4. Para la concesión de la prórroga mencionada, será necesario que la misma sea solicitada por el interesado tres meses antes de su agotamiento y deberá cumplir al momento de dicha solicitud, así como en el momento de dictar la resolución por el órgano competente, los requisitos exigidos para su reconocimiento inicial, a excepción del exigido en la letra a) del apartado 9 del Anexo I del Decreto 115/2006, de 27 de junio.
+5. La solicitud inicial, o la prórroga en su caso, se formalizará mediante el modelo oficial aprobado por la Consejería competente en materia de vivienda, incorporado como al referido Decreto 115/2006, de 27 de junio.
+6. Esta prórroga será de aplicación a todas las minoraciones del 100% que se reconozcan a partir de la entrada en vigor de la presente ley, así como a las reconocidas con anterioridad a la misma.
+7. No obstante, para las minoraciones reconocidas del 100% de la renta cuyo plazo máximo inicial de dos años haya vencido al momento de la entrada en vigor de la presente norma, el interesado dispondrá de tres meses desde dicha fecha para solicitar la prórroga de dos años prevista en esta ley.
+8. Asimismo, los beneficiarios de minoraciones del 100% reconocidas antes de la entrada en vigor de la presente norma que a dicha fecha hayan agotado el primer año de minoración, no quedarán exceptuados de cumplir con el requisito exigido en la letra a) del apartado 9 del Anexo I del Decreto 115/2006, de 27 de junio, por el que se regula el procedimiento de adjudicación de viviendas de promoción pública de la Comunidad Autónoma de Extremadura para que se le reconozca la prórroga de dicha minoración.
+
+### Artículo 17 bis
+
+Artículo 17 bis. Ayudas para familias afectadas por ejecuciones inmobiliarias no hipotecarias.
+1. En régimen de concesión directa se articulará una línea de ayudas para familias afectas por ejecuciones inmobiliarias no hipotecarias que puedan acceder a una vivienda de promoción pública mediante adjudicación directa por cumplir los requisitos contemplados en el Decreto 97/2013, de 10 de junio, por el que se establecen los requisitos y el procedimiento para acceder a una vivienda de promoción pública por parte de aquellos solicitantes afectados por ejecuciones inmobiliarias no hipotecarias en la Comunidad Autónoma de Extremadura, que las posibilite hacer frente al pago del alquiler de una vivienda en el mercado libre hasta que se resuelve la adjudicación y entrega de una vivienda de promoción pública, tal y como refiere el artículo 18 de la citada ley.
+2. La Junta de Extremadura preverá en los Presupuestos Generales de la Comunidad Autónoma de Extremadura una cuantía destinada a tal efecto que será creciente y nunca inferior a un millón de euros, adaptado a los estudios de exclusión social y pobreza.
+Se añade por la disposición final 6 de la Ley 2/2017, de 17 de febrero. Ref. BOE-A-2017-3067
+
+### Artículo 18
+
+Artículo 18. Ayudas al alquiler para familias afectadas por ejecuciones hipotecarias.
+En régimen de concesión directa se articulará una línea de ayudas para familias afectadas por ejecuciones hipotecarias que puedan acceder a una vivienda de promoción pública mediante adjudicación directa por cumplir los requisitos contemplados en el Decreto 97/2013, de 10 de junio, por el que se establecen los requisitos y el procedimiento para acceder a una vivienda de promoción pública por parte de aquellos solicitantes afectados por ejecuciones hipotecarias en la Comunidad Autónoma de Extremadura, que les posibilite hacer frente al pago del alquiler de una vivienda en el mercado libre hasta que se resuelve la adjudicación y entrega de una vivienda de promoción pública.
+
+### Artículo 19
+
+Artículo 19. Modificación de la Ley 1/2008, de 22 de mayo, de creación de Entidades Públicas de la Junta de Extremadura.
+Se modifica el artículo 6 de la Ley 1/2008, de 22 de mayo, de creación de Entidades Públicas de la Junta de Extremadura, que queda redactado como sigue:
+«Artículo 6. Fines.
+1. El Instituto de Consumo de Extremadura ejercerá las competencias que corresponden a la Comunidad Autónoma de Extremadura en materia de consumo, sin perjuicio de las competencias que la legislación sectorial atribuya a otros órganos.
+2. En particular, tendrá como fines esenciales:
+a) La propuesta de planificación de las políticas de defensa y protección de los consumidores y la ejecución de las mismas.
+b) La formación y la educación de los consumidores, especialmente para que éstos conozcan sus derechos.
+c) La resolución de los conflictos en materia de consumo, a través de la mediación y el arbitraje.
+d) Otras atribuciones de protección y defensa de los consumidores y usuarios que legal o reglamentariamente le sean atribuidas.
+e) Cumplimiento y aplicación de la normativa sancionadora en materia de consumo.
+f) Puesta en marcha y coordinación de las Oficinas de Información al Consumidor.
+g) Gestión de las subvenciones.
+h) Gestión administrativa de la Junta Arbitral de Consumo.
+i) El asesoramiento y la mediación e intermediación hipotecaria.»
+
+### Disposición adicional primera
+
+Disposición adicional primera. Situaciones especiales de atención sanitaria.
+(Anulada).
+Se declara inconstitucional y nula, por Sentencia del TC 2/2018, de 11 de enero. Ref. BOE-A-2018-1678
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Evaluación y seguimiento.
+Periódicamente, por los órganos competentes de la Administración autonómica, se realizarán controles que verifiquen el grado de cumplimiento de los preceptos contenidos en la presente norma, así como la posible utilización inadecuada del acceso al Sistema Extremeño de Salud.
+Con la finalidad de evaluar, proponer mejoras y controlar el cumplimiento de los objetivos de esta ley, se creará una Comisión Mixta con representación de la Consejería con competencia en cada materia, las Organizaciones Sociales más representativas en cada materia, así como de cada uno de los grupos parlamentarios con representación en la Asamblea de Extremadura. Esta Comisión se reunirá, al menos, una vez cada seis meses.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Para alcanzar la adecuada cobertura presupuestaria de la Renta Básica Extremeña de inserción, se aumentará progresivamente hasta alcanzar en dos anualidades presupuestarias una cuantía de 86 millones de euros.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+La Junta de Extremadura destinará al Programa de Mínimos Vitales una cuantía económica anual de doce millones de euros, a alcanzar progresivamente en las dos anualidades presupuestarias posteriores a la entrada en vigor de la presente ley.
+La dotación presupuestaria del Programa de Mínimos Vitales tendrá la consideración de crédito ampliable.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+La Comunidad Autónoma de Extremadura destinará al programa de ayudas extraordinarias para el apoyo social para contingencias una cuantía económica anual no inferior a tres millones de euros, a alcanzar progresivamente en las dos anualidades presupuestarias posteriores a la entrada en vigor de la presente ley.
+La dotación presupuestaria de las ayudas extraordinarias para el apoyo social para contingencias tendrá la consideración de crédito ampliable.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Régimen transitorio Renta Básica Extremeña de Inserción.
+A los procedimientos en materia de Renta Básica Extremeña de Inserción iniciados con anterioridad a la entrada en vigor de esta ley, les será de aplicación lo dispuesto en su artículo 11, a excepción de la modificación operada en el artículo 21.2 de la Ley 9/2014, de 1 de octubre, por la que se regula la Renta Básica Extremeña de Inserción, que solo será de aplicación a los procedimientos que se inicien a partir de la entrada en vigor de la presente norma.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación normativa y desarrollo reglamentario.
+Se faculta a la Junta de Extremadura y al titular de la Consejería de Salud y Políticas Sociales para dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de lo establecido en esta ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación de disposiciones reglamentarias.
+Las modificaciones que, a partir de la entrada en vigor de esta ley, puedan realizarse respecto de normas reglamentarias que son objeto de modificación por esta ley podrán efectuarse por normas del rango reglamentario correspondiente a la norma en que figuran.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley entrará en vigor el mismo día de su publicación en el Diario Oficial de Extremadura.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos, que sea de aplicación esta ley, que cooperen a su cumplimiento y a los Tribunales y Autoridades que corresponda la hagan cumplir.
+Mérida, 21 de julio de 2016.
+El Presidente de la Junta de Extremadura,
+Guillermo Fernández Vara.

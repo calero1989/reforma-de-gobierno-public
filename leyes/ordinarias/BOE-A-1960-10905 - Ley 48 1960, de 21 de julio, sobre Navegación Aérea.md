@@ -1,0 +1,1329 @@
+# Ley 48/1960, de 21 de julio, sobre Navegación Aérea.
+
+- Identificador BOE: `BOE-A-1960-10905`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1960-10905
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La Ley de veintisiete de diciembre de mil novecientos cuarenta y siete autorizó al Gobierno para aprobar y publicar un Código de Navegación Aérea, arreglado a las Bases contenidas en ella. El tiempo desde entonces transcurrido ha originado el nacimiento de nuevas necesidades que requieren una regulación urgente y ha motivado la pérdida de actualidad de los criterios en que se inspiraron los preceptos relativos a ciertas materias comprendidas en aquella soberana disposición.
+Se juzga necesario en los momentos presentes atender con rapidez a la provisión de normas positivas que presidan el desarrollo y fomento de la navegación aérea, dejando para una segunda fase la preparación de otro proyecto comprensivo de las disposiciones penales de aplicación a la misma, aun cuando ello suponga desarrollar sólo parcialmente las disposiciones de la Ley de Bases.
+En la presente Ley se ha cuidado de desenvolver, con la fidelidad que permiten las circunstancias que hoy imperan, el mandato de aquella Ley fundamental, pero implantando una regulación más genérica y flexible, a fin de no estorbar la evolución futura de todo lo relacionado con la navegación aérea, ni invadir las facultades reglamentarias de la Administración; también se introducen modificaciones esenciales, como en materia de responsabilidad en caso de accidente, cuya necesidad era una exigencia manifiesta, por resultar ya insuficientes las disposiciones de nuestro Código Civil, lo que obligaba a establecer contractualmente, para el tráfico interno, el sistema de indemnizaciones propio del tráfico internacional.
+Si, de una parte, razones de urgencia aconsejan el desdoblamiento de materias englobadas en la citada Ley de Bases para desarrollarlas sucesivamente, de otro lado, la inclusión de obligadas innovaciones que la contradicen y perfeccionan requiere, a juicio de la comisión Codificación Aeronáutica, que redactó el proyecto, que éste se ajuste a las formalidades propias de una Ley.
+En su virtud, y de conformidad con la propuesta elaborada por las Cortes Españolas,
+DISPONGO:
+
+## CAPÍTULO I
+
+Disposiciones generales
+De la soberanía sobre espacio aéreo, de las leyes aeronáuticas y de las reglas generales para su aplicación
+
+### Artículo primero
+
+Artículo primero.
+El espacio aéreo situado sobre el territorio español y su mar territorial está sujeto a la soberanía del Estado español.
+
+### Artículo segundo
+
+Artículo segundo.
+Las aeronaves nacionales podrán hacer uso para la navegación del espacio aéreo español.
+El Estado español, por Tratados o Convenios con otros Estados o mediante permiso especial, podrá autorizar el tránsito inocuo sobre su territorio de las aeronaves extranjeras.
+
+### Artículo tercero
+
+Artículo tercero.
+El Gobierno podrá fijar las zonas en que se prohiba o restrinja el tránsito de aeronaves sobre territorio español, los canales de entrada y salida en el mismo y los aeropuertos aduaneros.
+También podrá suspender, total o parcialmente, las actividades aéreas en su territorio por causas graves.
+
+### Artículo cuarto
+
+Artículo cuarto.
+1. Se reconoce el derecho de los dueños u ocupantes de los bienes subyacentes a ser resarcidos conforme a los capítulos IX y XIII de la presente ley, la Ley 37/2003, de 17 de noviembre, los tratados internacionales y el Derecho Comunitario, de los daños y perjuicios que se les ocasionen como consecuencia de su deber de soportar la navegación aérea.
+2. El justo equilibrio entre los intereses de la economía nacional y los derechos de las personas residentes, trabajadoras, propietarias, usuarias de servicios u ocupantes de bienes subyacentes, obligará al Estado, respecto de los aeropuertos de su competencia:
+a) A garantizar que para las personas residentes, trabajadoras, propietarias, usuarias de servicios u ocupantes de bienes subyacentes en las poblaciones circundantes a dichos aeropuertos se respeten los objetivos de calidad acústica fijados en la normativa aplicable. Siempre que se cumplan estos objetivos será obligatorio soportar los niveles sonoros, sobrevuelos, frecuencias e impactos ambientales generados por la navegación aérea, sin perjuicio del derecho de los afectados a denunciar los incumplimientos de la normativa aeroportuaria o aeronáutica que pudieran producirse y a recabar su subsanación.
+b) A aprobar planes de acción, que incluyan las correspondientes medidas correctoras, cuando se establezcan servidumbres acústicas que permitan superar los objetivos de calidad acústica en el exterior de las edificaciones, los sobrevuelos, frecuencias e impactos ambientales asociados a aquéllos.
+Los planes de acción contemplarán asimismo medidas compensatorias para los municipios en los que se superen los objetivos de calidad acústica en el exterior de las edificaciones.
+3. El justo equilibrio entre los intereses en conflicto obligará, asimismo, a la Autoridad aeronáutica competente y al gestor aeroportuario a evaluar continuadamente el impacto ocasionado por la infraestructura a las poblaciones circundantes, a vigilar y sancionar los incumplimientos que se pudieran producir y, en general, a instar o adoptar las medidas pertinentes para compatibilizar una explotación eficiente de la infraestructura aeroportuaria con los derechos de los dueños u ocupantes de los bienes subyacentes.
+4. En los aeropuertos de competencia del Estado se constituirá una única Comisión ambiental cuando:
+a) En el aeropuerto se aprueben servidumbres aeronáuticas acústicas;
+b) La resolución que ponga fin a un procedimiento de evaluación ambiental sobre proyectos de la infraestructura contemple la creación de un órgano colegiado;
+c) La normativa estatal de aplicación contemple la creación de un órgano colegiado integrado por representantes de la Administración General del Estado y de la administración territorial al que se atribuyan funciones relativas a otros impactos ambientales de la infraestructura.
+5. Reglamentariamente se establecerán las funciones de estas comisiones que, en todo caso, incluirán:
+a) El informe, previo y preceptivo, a la aprobación de las servidumbres aeronáuticas acústicas y de los planes de acción asociados, así como su seguimiento; y
+b) Las de carácter informativo que le correspondan conforme a la resolución que ponga fin a los procedimientos de evaluación ambiental de la infraestructura.
+6. La norma de creación de las respectivas Comisiones ambientales establecerán su composición, salvaguardando la paridad de voto entre los representantes de la Administración General del Estado y sus organismos públicos vinculados o dependientes, y el resto de los miembros, y asegurando la participación de un representante del titular o gestor del aeropuerto y, en el número que se determine, de representantes de:
+a) El Ministerio de Transportes y Movilidad Sostenible, sus órganos, entidades de su sector público institucional con competencias o funciones en materia de aeropuertos de interés general y aviación civil, en uno de los cuales recaerá su presidencia; así como entidades con funciones en materia de navegación aérea.
+b) El Ministerio para la Transición Ecológica y el Reto Demográfico, o sus organismos públicos vinculados o dependientes con competencias en materia de medioambiente;
+c) La administración de la comunidad autónoma, entre los que ostenten competencias en materia de transporte, medioambiente u ordenación del territorio;
+d) Las administraciones locales afectadas, asegurando una participación de los municipios que satisfaga los distintos intereses en conflicto, sin que ningún municipio pueda disponer de más de un miembro en la comisión.
+Además, en la Comisión ambiental de los aeródromos utilizados conjuntamente por una base aérea o aeródromo militar y un aeropuerto se integrará un representante del Ministerio de Defensa.
+Para el tratamiento de los asuntos del orden del día que así se considere, el presidente podrá convocar a expertos o representantes de los intereses afectados que tendrán la participación que se acuerde.
+Se modifica el apartado 4 y se añaden los apartados 5 y 6 por el art. 1.1 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifica por el art. único de la Ley 5/2010, de 17 de marzo. Ref. BOE-A-2010-4503.
+ Téngase en cuenta para su aplicación la disposición transitoria.
+
+### Artículo quinto
+
+Artículo quinto.
+Sin perjuicio de lo estipulado en Tratados o Convenios internacionales, la presente Ley regulará la navegación aérea nacional, en todo caso, y la internacional sobre territorios de soberanía española.
+A falta de reglas propias en la materia, se estará a las Leyes o disposiciones vigentes de carácter común.
+Esta Ley se aplicará a la navegación aérea militar cuando se disponga expresamente.
+
+### Artículo sexto
+
+Artículo sexto.
+La aeronave de Estado española se considerará territorio español, cualquiera que sea el lugar o espacio donde se encuentre.
+Las demás aeronaves españolas estarán sometidas a las leyes españolas cuando vuelen por espacio libre o se hallen en territorio extranjero, o lo sobrevuelen, si a ello no se opusieran las leyes de Policía y Seguridad el país subyacente.
+
+### Artículo séptimo
+
+Artículo séptimo.
+A las aeronaves extranjeras, mientras se encuentren en territorio de soberanía española, o en espacio aéreo a ellas sujeto, les serán aplicadas las disposiciones de esta Ley, así como las penales, de policía y seguridad pública vigentes en España.
+
+## CAPÍTULO II
+
+De la organización administrativa
+
+### Artículo octavo
+
+Artículo octavo.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
+
+### Artículo noveno
+
+Artículo noveno.
+El territorio nacional se divide en demarcaciones aéreas, fijadas por el Ministerio del Aire, quien podrá modificarlas conforme lo aconsejen las necesidades de la navegación aérea.
+Las funciones gubernativas, administrativas, de Seguridad y Policía de la circulación aérea de las demarcaciones se determinarán por disposiciones reglamentarias.
+
+### Artículo décimo
+
+Artículo décimo.
+En cada demarcación existirá el número de aeropuertos que se juzgue necesario. Los Jefes de éstos limitarán sus facultades al área total del aeropuerto y a sus respectivas zonas de recalada, o espacio aéreo que se determine.
+
+## CAPÍTULO III
+
+De las aeronaves. De su definición, clasificación y nacionalidad
+
+### Artículo once
+
+Artículo once.
+Se entiende por aeronave:
+a) Toda construcción apta para el transporte de personas o cosas capaz de moverse en la atmósfera merced a las reacciones del aire, sea o no más ligera que éste y tenga o no órganos motopropulsores.
+b) Cualquier máquina no tripulada que pueda sustentarse en la atmósfera por reacciones del aire que no sean las reacciones de la misma contra la superficie de la tierra y opere o esté diseñada para operar de forma autónoma o para ser pilotada a distancia sin un piloto a bordo.
+Se modifica la letra b) por la disposición final 1.1 del Real Decreto-ley 26/2020, de 7 de julio. Ref. BOE-A-2020-7432#df
+ Se modifica por el art. 51.1 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifica por el art. 51.1 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Artículo doce
+
+Artículo doce.
+La adquisición, modificación o extinción de los derechos sobre una aeronave deberá constar necesariamente en documento público o privado.
+
+### Artículo trece
+
+Artículo trece.
+Las aeronaves se clasifican en aeronaves de Estado y privadas.
+
+### Artículo catorce
+
+Artículo catorce.
+Se considerarán aeronaves de Estado:
+Primero. Las aeronaves militares, entendiéndose por tales las que tengan como misión la defensa nacional o estén mandadas por un militar comisionado al efecto. Estas aeronaves quedan sujetas a su regulación peculiar.
+Segundo. Las aeronaves no militares destinadas exclusivamente a servicios públicos no comerciales.
+Se modifica por el art. 1.2 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo quince
+
+Artículo quince.
+Se reputarán aeronaves privadas las demás no comprendidas en el artículo anterior. Reglamentariamente se establecerán las categorías de esta clase de aeronaves en razón de su empleo o destino.
+
+### Artículo dieciséis
+
+Artículo dieciséis.
+La inscripción de la aeronave en el Registro de matrícula determina su nacionalidad.
+Se modifica por la disposición final 2.1 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo diecisiete
+
+Artículo diecisiete.
+Las aeronaves extranjeras tendrán la nacionalidad del Estado en que estén matriculadas.
+
+### Artículo dieciocho
+
+Artículo dieciocho.
+Son inscribibles en el Registro de Matrícula de Aeronaves del Estado español:
+1.º Las pertenecientes a personas físicas o jurídicas que disfruten de la nacionalidad española o de alguno de los países miembros del Espacio Económico Europeo.
+2.º A instancia del arrendatario, las aeronaves arrendadas a quienes posean la nacionalidad española o de algún país miembro del Espacio Económico Europeo.
+3.º Las aeronaves de uso privado pertenecientes o arrendadas a personas físicas o jurídicas de terceros Estados que tengan, respectivamente, su residencia habitual o un establecimiento permanente en España.
+Se modifica por la disposición final 2.2 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo diecinueve
+
+Artículo diecinueve.
+La aeronave matriculada en España dejará de ser española si legalmente se enajenara a persona que no disfrute de la nacionalidad española o de algún país miembro del Espacio Económico Europeo, o no tenga su residencia habitual o un establecimiento permanente en territorio español, o la aeronave fuera matriculada válidamente en país extranjero.
+En estos supuestos, se cancelará la matrícula de la aeronave en el Registro de Matrícula de Aeronaves del Estado español.
+Se modifica por la disposición final 2.3 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## CAPÍTULO IV
+
+De los documentos de a bordo
+
+### Artículo veinte
+
+Artículo veinte.
+Sin perjuicio de lo dispuesto en la normativa europea de aplicación, las aeronaves tripuladas deberán llevar a bordo, los siguientes documentos o información:
+a. El certificado matrícula;
+b. El certificado de aeronavegabilidad y, si procede, el certificado de niveles de ruido;
+c. La licencia, con la anotación de las habilitaciones correspondientes, de cada miembro de la tripulación;
+d. El diario de a bordo de la aeronave o registro equivalente;
+e. La licencia de estación de radio, si la aeronave está provista de ella;
+f. El manual de vuelo de la aeronave o documentación equivalente;
+g. El certificado de los seguros que resulten exigibles;
+h. En el caso de aeronaves que realicen transporte aéreo, una lista de sus nombres y lugares de embarque y puntos de destino, si transporta pasajeros; y un manifiesto y declaración de carga, si transporta carga;
+i. Cualquier otro documento o información que reglamentariamente pueda exigirse.
+Se modifica por la disposición final 2.1 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#df-2
+ Se reenumera el apartado 4 como 5 y se añade un apartado 4 por la disposición final 2.4 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo veintiuno
+
+Artículo veintiuno.
+No obstante lo dispuesto en el artículo veinte:
+a. Podrán conservar en el aeródromo o zona de operación la documentación o información prevista en sus letras a), b), d), e) y g), las aeronaves que realicen operaciones de aviación general o deportiva con despegue y aterrizaje en el mismo aeródromo o zona de operación, salvo que la normativa sectorial específica establezca otra cosa;
+b. Reglamentariamente podrán establecerse otros supuestos en los que la documentación no exigible para la operación de la aeronave pueda conservarse en el aeródromo o lugar de operación.
+Se modifica por la disposición final 2.2 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#df-2
+
+### Artículo veintidós
+
+Artículo veintidós.
+El cuaderno de la aeronave, la cartilla de motores y la de hélices, en su caso, se mantendrán al día en lugar seguro y a disposición de las Autoridades que puedan requerirlos.
+En caso de que la información contenida en estos documentos quede registrada en otra documentación obligatoria, no será necesario que se disponga de ellos.
+Se modifica por la disposición final 2.5 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo veintitrés
+
+Artículo veintitrés.
+Las aeronaves llevarán visibles en el exterior las marcas de nacionalidad y matrícula que se establezcan, y en lugar visible, ya sea en su interior o en el exterior, una placa con indicación del tipo, número de la serie y de matrícula.
+Se modifica por el art. 1.3 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo veinticuatro
+
+Artículo veinticuatro.
+Los libros de la aeronave se conservarán por el propietario durante dos años, a partir de la fecha del último asiento.
+
+### Artículo veinticinco
+
+Artículo veinticinco.
+Las Autoridades de los aeropuertos y aeródromos donde se encuentren las aeronaves podrán examinar los documentos de éstas.
+
+### Artículo veintiséis
+
+Artículo veintiséis.
+Si durante el vuelo ocurriesen incidencias que no se reflejasen en la documentación de a bordo, el Comandante de la aeronave dará cuenta suficiente de las mismas al Jefe del aeropuerto en el parte de llegada.
+
+### Artículo veintisiete
+
+Artículo veintisiete.
+Los modelos de los documentos referidos en los artículos anteriores se fijarán reglamentariamente.
+
+## CAPÍTULO V
+
+Del registro de matrícula de aeronaves
+
+### Artículo veintiocho
+
+Artículo veintiocho.
+Bajo la jurisdicción del Ministerio del Aire se establece un Registro de matrícula de aeronaves, el cual tendrá carácter administrativo.
+
+### Artículo veintinueve
+
+Artículo veintinueve.
+Las aeronaves habrán de ser matriculadas necesariamente en el Registro de matrícula de aeronaves civiles, según las obligaciones establecidas reglamentariamente.
+Se modifica por la disposición final 2.3 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#df-2
+
+### Artículo treinta
+
+Artículo treinta.
+Todo hecho, acto o negocio jurídico cuya inscripción o anotación se pretenda llevar a cabo en el Registro, deberá acreditarse en documento público o privado, según proceda.
+En el asiento se hará constar el título público o privado en virtud del cual se practica.
+Se modifica por el art. 1.4 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo treinta y uno
+
+Artículo treinta y uno.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo treinta y dos
+
+Artículo treinta y dos.
+Disposiciones reglamentarias establecerán normas sobre los actos y documentos inscribibles, requisitos, forma y efectos de la inscripción y modo de llevar el Registro.
+Se deroga el párrafo primero por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
+
+### Artículo treinta y tres
+
+Artículo treinta y tres.
+La inscripción en el Registro de Bienes Muebles de los actos y contratos que afecten a la aeronave se regirá por las leyes y reglamentos vigentes en la materia.
+Para el otorgamiento, calificación e inscripción en el Registro de Bienes Muebles, los Notarios y los Registradores podrán, bajo su responsabilidad, prescindir de la traducción oficial cuando conocieren el idioma en que estén redactados los documentos.
+Se modifica por el art. 1.5 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifica por el art. único de la Ley 113/1969, de 30 de diciembre. Ref. BOE-A-1969-1571.
+
+## CAPÍTULO VI
+
+De los prototipos y certificados de aeronavegabilidad
+
+### Artículo treinta y cuatro
+
+Artículo treinta y cuatro.
+Serán libres el estudio y las iniciativas para la construcción de prototipos de aeronaves y motores, así como de sus accesorios.
+Se entiende por prototipo las primeras unidades construidas para comprobar prácticamente la eficacia de una concepción técnica. Las demás unidades del mismo tipo se considerarán en serie.
+No se calificará ningún prototipo de aeronave, ni será autorizado para el vuelo, sin su previa inspección técnica por el Ministerio del Aire.
+Aprobado el prototipo los derechos sobre el mismo se regirán por la legislación de propiedad industrial.
+
+### Artículo treinta y cinco
+
+Artículo treinta y cinco.
+La construcción de aeronaves y motores en serie, así como la de sus accesorios específicos, necesitan la garantía de un técnico legalmente autorizado y, en todo caso, el permiso e inspección del Ministerio del Aire, quien podrá suspender la construcción cuando no se ajuste a las condiciones en que fue autorizada.
+
+### Artículo treinta y seis
+
+Artículo treinta y seis.
+Ninguna aeronave, salvo las exceptuadas en el artículo 151 de esta Ley, será autorizada para el vuelo sin la previa expedición de un certificado de aeronavegabilidad. Se entiende por certificado de aeronavegabilidad el documento que sirva para identificar técnicamente la aeronave, definir sus características y expresar la calificación que merece para su utilización, deducida de su inspección en tierra y de las correspondientes pruebas de vuelo.
+Se deroga el segundo párrafo por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifica por el art. 63.1 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+
+### Artículo treinta y siete
+
+Artículo treinta y siete.
+Podrán ser convalidados en España los certificados extranjeros de aeronavegabilidad que cumplan las condiciones mínimas aceptadas internacionalmente.
+
+### Artículo treinta y ocho
+
+Artículo treinta y ocho.
+Se establecerán en los Reglamentos los requisitos y pruebas para la obtención del certificado o su renovación, así como el plazo de vigencia.
+
+## CAPÍTULO VII
+
+De los aeropuertos y aeródromos
+
+### Artículo treinta y nueve
+
+Artículo treinta y nueve.
+Las superficies dispuestas para la llegada y partida de aeronaves se clasifican en aeródromos y aeropuertos. Los primeros pueden ser permanentes y eventuales.
+Se entiende por aeródromo la superficie de límites definidos, con inclusión, en su caso, de edificios e instalaciones apta normalmente para la salida y llegada de aeronaves. El aeródromo será eventual cuando su establecimiento obedezca a necesidades transitorias o sea designado para una utilización particular en circunstancias especiales.
+Los aeródromos por la naturaleza de sus servicios pueden ser militares o civiles, y estos últimos, así como los aeropuertos, públicos o privados.
+Se considera aeropuerto todo aeródromo en el que existan, de modo permanente, instalaciones y servicios con carácter público, para asistir de modo regular al tráfico aéreo, permitir el aparcamiento y reparaciones del material aéreo y recibir o despachar pasajeros o carga.
+
+### Artículo cuarenta
+
+Artículo cuarenta.
+Reglamentariamente se clasificarán los aeropuertos y aeródromos, según las dimensiones y la índole de sus instalaciones y de las aeronaves que hayan de utilizarlos y el carácter de los servicios que presten.
+Normas especiales determinarán los aeropuertos abiertos al tráfico internacional, por disponer permanentemente de los servicios necesarios para recibir aeronaves procedentes del extranjero o despacharlas con el mismo destino.
+
+### Artículo cuarenta y uno
+
+Artículo cuarenta y uno.
+Los aeródromos exclusivamente destinados de una manera permanente o eventual a servicios militares tomarán esta denominación y se regirán por su reglamentación especial. Los aeródromos militares podrán ser declarados abiertos al tráfico civil.
+
+### Artículo cuarenta y dos
+
+Artículo cuarenta y dos.
+Corresponde al Ministerio del Aire la construcción, calificación, inspección y explotación de los aeródromos militares y de los aeropuertos y aeródromos públicos, así como la determinación de los requisitos exigibles para otorgar concesiones dentro de ellos.
+
+### Artículo cuarenta y tres
+
+Artículo cuarenta y tres.
+Las Administraciones públicas territoriales y las personas y entidades particulares nacionales de un Estado miembro de la Unión Europea, deberán obtener una autorización previa, de acuerdo con las condiciones que determine el Ministerio de Fomento, para construir o participar en la construcción de aeropuertos de interés general. En tales casos, podrán conservar la propiedad del recinto aeroportuario y participar en la explotación de las actividades que dentro del mismo se desarrollen en los términos que se establezcan.
+Se modifica por el art. 100 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+
+### Artículo cuarenta y cuatro
+
+Artículo cuarenta y cuatro.
+Sólo podrá autorizarse a Corporaciones, Entidades o particulares que tengan la nacionalidad española la instalación de aeropuertos o aeródromos privados, que habrán de reunir los requisitos que previamente determine, en cada caso, el Ministerio del Aire. Todos ellos se someterán a las servidumbres que se establezcan, y a efectos de movilización dependerán de la Jefatura Militar Aérea en cuya demarcación se encuentren.
+
+### Artículo cuarenta y cinco
+
+Artículo cuarenta y cinco.
+Los aeródromos y aeropuertos que hayan de utilizar superficies de agua, dependientes de distintos Ministerios, serán establecidos previo acuerdo de todos ellos. Las zonas que no sean de utilización indispensable a los servicios de Marina serán atribuidas, con carácter exclusivo, a la navegación aérea, rigiéndose la disciplina y el servicio de embarcaciones por las disposiciones del Ministerio del Aire, en tanto no contraríen la legislación marítima vigente.
+
+### Artículo cuarenta y seis
+
+Artículo cuarenta y seis.
+Serán susceptibles de expropiación, de acuerdo con la legislación vigente, los bienes y derechos necesarios para el establecimiento e instalación de servicios de aeropuertos y aeródromos, así como de ayudas a la navegación aérea.
+
+### Artículo cuarenta y siete
+
+Artículo cuarenta y siete.
+Corresponde al Ministerio del Aire fijar las tarifas de aterrizaje, salida y estacionamiento de aeronaves, ayudas a la navegación, comunicaciones específicamente aeronáuticas y demás servicios de los aeropuertos y aeródromos de carácter público.
+La dirección técnica y administrativa de los aeropuertos y aeródromos públicos incumbe a la Dirección General de Aviación Civil, que establecerá, al efecto, las correspondientes Jefaturas de aeropuertos, con la organización adecuada a las necesidades que hayan de ser atendidas. Los servicios que, dependientes de otros Ministerios, se hallen instalados en los aeropuertos habrán de ser coordinados por la Jefatura de los mismos.
+
+## CAPÍTULO VIII
+
+Requisas, Incautaciones y movilización
+Se modifica por el art. 1 de la Ley 53/1968, de 27 de julio. Ref. BOE-A-1968-905.
+
+### Artículo cuarenta y ocho
+
+Artículo cuarenta y ocho.
+El Estado podrá requisar las aeronaves que se encuentren en territorio nacional o incautarse de las mismas, por acuerdo del Consejo de Ministros, siempre que concurran graves motivos de interés público y mediante indemnización.
+El acuerdo será ejecutado por el Ministerio del Aire.
+
+### Artículo cuarenta y nueve
+
+Artículo cuarenta y nueve.
+En los mismos casos y de igual forma que se establece en el artículo anterior, el Estado podrá incautarse de los servicios aéreos de las Empresas extranjeras instaladas en España y de los pertenecientes a españoles dentro o fuera del territorio nacional.
+
+### Artículo cincuenta
+
+Artículo cincuenta.
+Uno. Corresponde al Ministerio del Aire la ejecución de la movilización total o parcial acordada por el Gobierno conforme a la legislación vigente, de Empresas españolas de transporte aéreo, así como la consiguiente militarización del personal y consideracion del mismo a las categorías militares pertinentes.
+Las aeronaves de las Empresas movilizadas que se empleen para el transporte público no se considerarán aeronaves de Estado.
+Dos. Cuando lo aconsejen motivos de defensa nacional, orden público o sanitario, el Gobierno podrá limitar la actuación de Empresas e intervenir la estancia y vuelo de aeronaves.
+También podrán adoptarse medidas restrictivas respecto al personal y a la presencia a bordo de determinados técnicos o especialistas durante el vuelo.
+Se modifica por el art. 2 de la Ley 53/1968, de 27 de julio. Ref. BOE-A-1968-905.
+
+## CAPÍTULO IX
+
+Planificación aeroportuaria y del sistema de navegación aérea y servidumbres aeronáuticas
+Se modifica por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+## Sección 1
+
+Sección 1.ª Planificación de los aeropuertos de interés general y de las instalaciones para la navegación aérea
+Se añade por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo cincuenta y uno
+
+Artículo cincuenta y uno. Planes directores.
+1. Se adoptará un Plan Director de Navegación Aérea para todo el territorio nacional que tendrá como contenido mínimo la determinación de las instalaciones necesarias para la prestación de los servicios de navegación aérea que hayan de ubicarse fuera de los recintos aeroportuarios, delimitados por su perímetro de seguridad; los accesos rodados a dichas instalaciones y las acometidas de suministros; los espacios de reserva que garanticen la posibilidad de desarrollo y crecimiento del sistema de navegación aérea; así como las servidumbres aeronáuticas no acústicas y las afectaciones aeronáuticas al planeamiento que procedan.
+2. Asimismo, para cada aeropuerto de interés general se adoptará un plan director que tendrá como contenido mínimo la delimitación de la zona de servicio del aeropuerto, definida de modo que garantice las necesidades del tránsito y transporte aéreo, de la gestión del espacio aéreo y de los servicios de navegación aérea correspondientes, así como, en su caso, el cumplimiento de los fines de interés general establecidos en el artículo 21 de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia. Asimismo, el plan director deberá incluir las servidumbres aeronáuticas y las afectaciones aeronáuticas al planeamiento que procedan.
+La zona de servicio incluirá:
+a) Las superficies necesarias para la ejecución de las actividades aeroportuarias;
+b) Las superficies destinadas a las tareas complementarias de las actividades aeroportuarias y los espacios destinados a equipamientos;
+c) Las instalaciones para la navegación aérea ubicadas en el recinto aeroportuario, delimitado por su perímetro de seguridad; y
+d) Los espacios de reserva que garanticen la posibilidad de desarrollo y crecimiento del conjunto.
+e) Los espacios necesarios para el desarrollo de otras actividades cuya localización en la zona de servicio resulte necesaria o conveniente por su relación con el tráfico aéreo o por los servicios que presten a los usuarios de la infraestructura.
+f) Los espacios destinados a infraestructuras previstas para la generación de energía de origen renovable destinada al autoconsumo energético del aeródromo.
+3. Corresponde a la persona titular del Ministerio de Transportes y Movilidad Sostenible aprobar los planes directores a que se refieren los apartados anteriores. En el caso del Plan Director de Navegación Aérea, a propuesta de Enaire E.P.E., previa consulta por ésta al resto de los proveedores designados para la prestación de servicios de tránsito aéreo en espacio aéreo de soberanía española o en el que el Reino de España tenga la responsabilidad de la provisión de tales servicios, así como por los gestores aeroportuarios a los que presten servicio. En los aeródromos utilizados conjuntamente por una base aérea o aeródromo militar y un aeropuerto, la adopción del plan director del aeropuerto requerirá el informe favorable, en el ámbito de sus competencias, del Ministerio de Defensa.
+En la tramitación de los planes directores se recabará el informe del Ministerio de Defensa, de las correspondientes comunidades autónomas y de otras administraciones públicas afectadas, en relación con sus respectivas competencias, en particular respecto de estas últimas, en materia urbanística y de ordenación del territorio, que contarán con un plazo de tres meses para su emisión.
+La aprobación de estos planes directores incorporará la evaluación ambiental estratégica, cuando corresponda, y llevará implícita la declaración de utilidad pública y la necesidad de ocupación de los bienes y derechos necesarios para su ejecución a efectos expropiatorios, incluidos todos los bienes de titularidad privada comprendidos dentro de la delimitación de la zona de servicio e instalaciones y espacios de reserva establecidos conforme a lo previsto en los apartados 1 y 2. Esta aprobación corresponderá a la administración competente.
+Se modifica por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo cincuenta y uno bis
+
+Artículo cincuenta y uno bis. Integración en el planeamiento urbanístico y territorial.
+1. El planeamiento urbanístico y territorial calificará los aeropuertos y sus zonas de servicio, así como las instalaciones y espacios de reserva incluidos en el Plan Director de Navegación Aérea, como sistema general o equivalente, aeroportuario o de navegación aérea, según proceda, y no podrá incluir determinaciones que vulneren lo previsto en el respectivo plan director o supongan interferencia o perturbación en el ejercicio de las competencias del Estado en la materia. Estos sistemas generales se desarrollarán a través de los correspondientes planes especiales u otros instrumentos urbanísticos equivalentes, que resulten procedentes según la legislación urbanística aplicable, y:
+a) Deberán ser acordes con las previsiones contenidas en el correspondiente plan director;
+b) Podrán formularse, además de por los sujetos previstos en la legislación urbanística aplicable, por el gestor aeroportuario o por Enaire E.P.E., según corresponda;
+c) Su tramitación y aprobación se realizará de conformidad con lo establecido en la legislación urbanística aplicable, con las salvedades previstas en este artículo.
+2. Los planes especiales o instrumentos urbanísticos equivalentes a que se refiere el apartado 1, se someterán, tras su aprobación provisional o trámite equivalente, a informe vinculante del Ministerio de Transportes y Movilidad Sostenible sobre su compatibilidad con las determinaciones del correspondiente plan director. Los informes a que se refiere este artículo identificarán expresamente las observaciones vinculantes u orientativas que se formulen y las determinaciones territoriales o urbanísticas del plan que deban ser modificadas o añadidas, sin recoger exposiciones generales sobre cuestiones que el plan debe tener en cuenta. Cuando dicho informe tenga carácter desfavorable, una vez corregido el proyecto de planeamiento urbanístico para adecuarse a lo previsto en él, podrá continuarse su tramitación.
+El informe deberá emitirse en el plazo máximo de cuatro meses prorrogable por el órgano informante por otros dos, transcurrido el cual sin haberse adoptado expresamente se entenderá que reviste carácter desfavorable.
+Asimismo, en el plazo de quince días desde la aprobación provisional o trámite equivalente de los planes especiales o instrumentos urbanísticos a que se refiere el apartado 1, la administración urbanística competente recabará el informe del gestor aeroportuario o de Enaire E.P.E., según proceda, al objeto de que en el plazo de un mes se pronuncien sobre los asuntos que les afecten. Las discrepancias que surjan durante la tramitación del proyecto de planeamiento urbanístico entre los intereses de la explotación aeroportuaria o del sistema de navegación aérea y los intereses urbanísticos, tratarán de resolverse mediante consultas entre las partes por un plazo no superior a seis meses desde la comunicación de la discrepancia con el respectivo plan, trascurrido el cual, sin haber alcanzado un acuerdo, las discrepancias se resolverán por el Consejo de Ministros con carácter vinculante.
+3. Adoptado el plan especial o instrumento urbanístico equivalente, este se trasladará al Ministerio de Transportes y Movilidad Sostenible a los efectos oportunos.
+Se añade por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo cincuenta y uno ter
+
+Artículo cincuenta y uno ter. Obras.
+1. Las obras y actividades que se realicen dentro del sistema general aeroportuario o de navegación aérea, deberán adaptarse al instrumento de ordenación urbanística a que se refiere el artículo anterior, a cuyo efecto deberán someterse a informe de la administración urbanística competente, que se entenderá emitido en sentido favorable si no se hubiera evacuado de forma expresa en el plazo de un mes desde la recepción de la documentación.
+En el caso de que no se hayan aprobado los instrumentos de planeamiento a que se refiere el artículo anterior, bastará con que las obras que se realicen sean conformes con el correspondiente plan director.
+2. Las obras y actividades directamente vinculadas con la explotación aeroportuaria o del sistema de navegación aérea que se realicen dentro del sistema general aeroportuario o de navegación aérea, no están sometidas a los actos de control preventivo municipal previstos en el artículo 84.1.b) de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, tales como autorizaciones, permisos o licencias de obra o de primera instalación, funcionamiento o apertura, por constituir actuaciones de interés general.
+Se añade por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+## Sección 2
+
+Sección 2.ª Servidumbres aeronáuticas, afectaciones aeronáuticas al planeamiento y otras medidas para la protección de la navegación aérea
+Se añade por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo cincuenta y dos
+
+Artículo cincuenta y dos. Servidumbres aeronáuticas, afectaciones aeronáuticas al planeamiento y otras medidas de protección.
+1. Las servidumbres aeronáuticas, entre las que se incluyen las acústicas, son servidumbres legales impuestas por razón de la navegación aérea, que constituyen limitaciones del derecho de propiedad del suelo de acuerdo con su función social, y establecen las condiciones que exige la igualdad esencial de su ejercicio en todo el territorio nacional.
+Las afectaciones aeronáuticas al planeamiento, incluidas las acústicas, son las propuestas de servidumbres aeronáuticas de las instalaciones planificadas en la zona de servicio del correspondiente plan director para garantizar el desarrollo aeroportuario o del sistema de navegación aérea, según proceda.
+2. Podrán aprobarse servidumbres aeronáuticas sobre las superficies, terrestres o acuáticas, que circunden las instalaciones para la navegación aérea, los aeródromos militares o civiles de uso público y restringido, cuando en estos últimos se realicen actividades de interés público, que limiten sus usos y las actividades que puedan desarrollarse en ellas.
+Asimismo, podrán aprobarse afectaciones aeronáuticas al planeamiento que condicionen la planificación territorial, urbanística o cualquier otra que ordene las superficies, terrestres o acuáticas, afectadas por las actuaciones planificadas en los planes directores, delimitando las determinaciones sobre los usos del suelo y de las actividades que pueden desarrollarse en él.
+Además, en otras superficies, fuera de las zonas afectadas por servidumbres aeronáuticas no acústicas, podrán aprobarse las determinaciones que resulten necesarias para proteger la navegación aérea frente a las construcciones, instalaciones y plantaciones que, por su altura, puedan suponer obstáculos, así como frente a las actividades que puedan suponer un peligro para la seguridad y continuidad de las operaciones aéreas o el correcto funcionamiento de las instalaciones para la navegación aérea. A estas medidas les será de aplicación, en los términos que se establezca reglamentariamente, los instrumentos que resulten aplicables, respectivamente, de los artículos cincuenta y tres bis y cincuenta y cuatro bis, y se determinarán teniendo en cuenta las alternativas que, en su caso, hayan sido propuestas por los territorios afectados para compatibilizar las actividades aeronáuticas con las que se desarrollen en dichos territorios.
+3. Reglamentariamente se establecerá el régimen jurídico de las servidumbres aeronáuticas, las afectaciones aeronáuticas al planeamiento, los obstáculos para la navegación aérea y las actividades que puedan suponer un peligro para la seguridad y continuidad de las operaciones aéreas o el buen funcionamiento de las instalaciones para la navegación aérea, así como las condiciones de uso de los predios o de realización de actividades y su sujeción parcial al interés general, incluida la protección de las personas, del medio natural y de la seguridad de la navegación aérea.
+En el establecimiento del régimen jurídico de las servidumbres aeronáuticas de las infraestructuras aeroportuarias e instalaciones para la navegación aérea civiles se cumplirá la normativa europea de aplicación, teniendo en cuenta en la adopción de las servidumbres aeronáuticas no acústicas las normas y métodos recomendados de la Organización de Aviación Civil Internacional (OACI).
+Además, en materia de servidumbres aeronáuticas acústicas se establecerán reglamentariamente, para su aplicación en el entorno de los aeropuertos, los valores límite de inmisión, así como las limitaciones asociadas a usos, instalaciones o actividades aplicables en todo el territorio nacional en relación con el ruido generado por la operación aeroportuaria.
+4. El planeamiento territorial, el urbanístico y cualesquiera otros que ordenen ámbitos afectados por las servidumbres aeronáuticas deberán adaptarse para incorporar las limitaciones que dichas servidumbres imponen a las determinaciones que legalmente constituyen el ámbito objetivo de cada uno de los instrumentos referidos. Además, cuando estos instrumentos de planificación se adopten tras la aprobación de los planes directores deberán incorporar las limitaciones establecidas en las afectaciones aeronáuticas al planeamiento en los ámbitos en los que estas sean aplicables.
+La documentación cartográfica de los planes de ordenación territorial o urbanística sobre las servidumbres aeronáuticas y las afectaciones aeronáuticas al planeamiento que les afecten se ajustará a lo previsto en la normativa reguladora de estas.
+5. Sólo dará lugar a la expropiación forzosa la imposición de servidumbres aeronáuticas que impidan el ejercicio de derechos patrimonializados.
+Se modifica por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo cincuenta y dos bis
+
+Artículo cincuenta y dos bis. Competencia y procedimiento para la aprobación de servidumbres aeronáuticas en las infraestructuras e instalaciones civiles.
+1. Corresponde a la persona titular del Ministerio de Transportes y Movilidad Sostenible la aprobación y modificación de las servidumbres aeronáuticas de las infraestructuras e instalaciones civiles mediante un acto administrativo que adoptará la forma de orden ministerial, que se publicará en el "Boletín Oficial del Estado" y se trasladará a las administraciones territoriales competentes para su cumplimento. Esta orden:
+a) Requerirá el informe previo favorable del Ministerio de Defensa, en el ámbito de sus competencias, en el caso de los aeropuertos ubicados en infraestructuras de utilización conjunta civil y militar y de las instalaciones para la navegación aérea civil que se encuentren en terrenos propiedad del Ministerio de Defensa.
+b) Se adoptará a propuesta de la comunidad autónoma competente o, en otro caso, previo informe de esta, en el caso de los aeródromos de competencia autonómica.
+2. Como excepción a lo previsto en el apartado 1, letra a), cuando así se establezca reglamentariamente por su afectación a la navegación aérea militar, corresponderá al Ministerio de Defensa, previo informe favorable del Ministerio de Transportes y Movilidad Sostenible, en el ámbito de sus competencias, la aprobación o modificación de las servidumbres aeronáuticas no acústicas de los aeropuertos ubicados en infraestructuras de utilización conjunta civil y militar.
+3. En la tramitación de las resoluciones previstas en este artículo se garantizará la participación de los ciudadanos sometiéndolas a información pública y se recabará el informe, en el ámbito de sus respectivas competencias, de las comunidades autónomas y otras administraciones públicas afectadas, en particular en materia urbanística y de ordenación del territorio y, en su caso, de la Comisión ambiental única prevista en el artículo cuarto.
+Se añade por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo cincuenta y dos ter
+
+Artículo cincuenta y dos ter. Régimen específico aplicable a las infraestructuras e instalaciones militares.
+Las superficies, terrestres o acuáticas, que circunden los aeródromos militares o las instalaciones para la navegación aérea militares, estarán sujetas a las limitaciones sobre los usos y las actividades que se puedan desarrollar en ellas que se establezcan en las servidumbres aeronáuticas no acústicas, cuya aprobación y modificación corresponde a la persona titular del Ministerio de Defensa por orden ministerial.
+Lo dispuesto en este capítulo se aplicará a las servidumbres aeronáuticas no acústicas de las infraestructuras e instalaciones para la navegación aérea militares en cuanto sea compatible con la defensa nacional.
+Corresponde al Ministerio de Defensa el ejercicio de las funciones atribuidas al Ministerio de Transportes y Movilidad Sostenible, a la Agencia Estatal de Seguridad Aérea y a los gestores aeroportuarios y proveedores designados para la prestación de servicios de navegación aérea en el artículo cincuenta y tres bis y la sección 3.ª, para la vigilancia y salvaguarda de las servidumbres aeronáuticas no acústicas y de las medidas para proteger la navegación aérea militar frente a las construcciones, instalaciones y plantaciones que, por su altura, puedan suponer obstáculos, así como frente a las actividades que puedan suponer un peligro para la seguridad y continuidad de las operaciones aéreas o el correcto funcionamiento de las instalaciones para la navegación aérea.
+En lo que respecta a la evaluación y gestión del ruido generado por las actividades militares se estará a lo que, en su caso, se establezca en su normativa específica.
+Se añade por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo cincuenta y tres
+
+Artículo cincuenta y tres. Derechos de entrada y paso.
+Los propietarios o poseedores de inmuebles no podrán oponerse a la entrada en sus fincas o paso por ellas para operaciones de salvamento o auxilio a aeronaves accidentadas, ni para las actuaciones que resulten necesarias para el establecimiento y salvaguardia de las servidumbres aeronáuticas.
+Se modifica por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo cincuenta y tres bis
+
+Artículo cincuenta y tres bis. Vigilancia y medidas de ejecución.
+1. Los gestores aeroportuarios y los proveedores civiles designados para la prestación de servicios de navegación aérea vigilarán el cumplimiento de las limitaciones impuestas por las servidumbres aeronáuticas no acústicas, pudiendo solicitar, para asegurar dicho cumplimiento, el concurso de cualquier autoridad o administración pública competente, incluidas las Fuerzas y Cuerpos de Seguridad.
+2. La vulneración de las servidumbres aeronáuticas no acústicas que no se haya podido subsanar en el ejercicio de las funciones de vigilancia previstas en el apartado anterior, se comunicarán por el gestor aeroportuario o el prestador de servicios de navegación aérea, según corresponda, a la Agencia Estatal de Seguridad Aérea como autoridad nacional de supervisión civil, proponiendo la adopción de medidas adecuadas para la defensa de dichas servidumbres.
+3. Sin perjuicio de lo dispuesto en el artículo cincuenta y cuatro bis, apartado 3, la Agencia Estatal de Seguridad Aérea de oficio, ya sea por propia iniciativa o a propuesta o denuncia del gestor aeroportuario o prestador de servicios de navegación aérea, adoptará las medidas necesarias para hacer efectivas las servidumbres aeronáuticas no acústicas, así como la eliminación o modificación de obstáculos, instalaciones, actividades o usos del suelo surgidos, cuando proceda, con posterioridad a la aprobación de las servidumbres aeronáuticas, sin disponer del acuerdo previo favorable de la Agencia o incumpliendo lo dispuesto en él, o acordará su regularización mediante la emisión de un acuerdo favorable en el que se establezcan las condiciones que procedan. Dichas actuaciones se llevarán a cabo con proporcionalidad y tras realizar, cuando proceda, un estudio aeronáutico de seguridad.
+Todos los gastos que se generen para la ejecución de las medidas adoptadas por la Agencia Estatal de Seguridad Aérea serán a cargo de quien con su conducta los hubiera originado. La exacción de tales gastos tendrá naturaleza de crédito de derecho público y su importe podrá ser exigido por el procedimiento administrativo de apremio.
+Lo dispuesto en este apartado, se entiende sin perjuicio de la aplicación de las sanciones que procedan conforme a lo previsto en la normativa aplicable.
+Se añade por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+## Sección 3
+
+Sección 3.ª Disposiciones comunes
+Se añade por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo cincuenta y cuatro
+
+Artículo cincuenta y cuatro. Afecciones al territorio e informe de los instrumentos de planeamiento.
+1. Antes de su aprobación inicial o trámite equivalente, las administraciones u organismos competentes para la tramitación del planeamiento territorial o urbanístico solicitarán al Ministerio de Transportes y Movilidad Sostenible informe, preceptivo y vinculante, en lo que respecta al ejercicio de las competencias estatales, de los proyectos de planes o instrumentos de ordenación urbanística o territorial, o de cualquier otra índole que ordenen físicamente el territorio, así como de sus revisiones o modificaciones, siempre que incluyan dentro de su ámbito la zona de servicio aeroportuario, las instalaciones y espacios incluidos en el Plan Director de Navegación Aérea, o los espacios sujetos a servidumbres aeronáuticas o a afectaciones aeronáuticas al planeamiento.
+Sin perjuicio de la emisión del informe definitivo, las administraciones u organismos competentes para la tramitación del planeamiento territorial o urbanístico podrán solicitar información al Ministerio de Transportes y Movilidad Sostenible en las fases previas de elaboración del anteproyecto de planeamiento para ajustar su redacción a las determinaciones del plan director.
+Cuando proceda de conformidad con lo previsto reglamentariamente, se recabará el informe del Ministerio de Defensa con carácter previo a la adopción del informe a los instrumentos de planeamiento que incluyan dentro de su ámbito servidumbres aeronáuticas no acústicas de los aeropuertos ubicados en infraestructuras de utilización conjunta civil y militar y de las instalaciones para la navegación aérea civil que se encuentren en terrenos propiedad del Ministerio de Defensa.
+Transcurridos seis meses desde la solicitud sin que se haya evacuado el informe, deberá entenderse emitido en sentido desfavorable.
+2. Las determinaciones de los planeamientos aprobados sin haber solicitado el informe previsto en el apartado 1, sin perjuicio de las exenciones o excepciones adoptadas conforme a lo establecido en el artículo cincuenta y cuatro ter, o que contradigan su contenido vinculante, serán nulas de pleno derecho.
+Se modifica por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo cincuenta y cuatro bis
+
+Artículo cincuenta y cuatro bis. Control de actuaciones en zonas de servidumbres aeronáuticas no acústicas.
+1. Las administraciones públicas no podrán autorizar, ni expresa ni implícitamente o mediante consideración favorable de una comunicación previa o declaración responsable, ninguna construcción, instalación o plantación, incluyendo la utilización de medios auxiliares de la construcción, instalación o plantación ubicada en los espacios y zonas afectados por servidumbres aeronáuticas no acústicas, sin el acuerdo previo favorable de la Agencia Estatal de Seguridad Aérea.
+2. Las personas físicas o jurídicas, públicas o privadas, que desarrollen actuaciones no sujetas a control administrativo previo, entre otras, a la obtención de licencia, la presentación de una comunicación previa o declaración responsable, no podrán llevar a cabo ninguna construcción, instalación, incluyendo la utilización de medios auxiliares de la construcción, o plantación ubicada en los espacios y zonas afectados por servidumbres aeronáuticas no acústicas, sin el acuerdo previo favorable de la Agencia Estatal de Seguridad Aérea.
+3. Las autorizaciones concedidas sin haber obtenido el acuerdo previo favorable de la Agencia Estatal de Seguridad Aérea, o incumpliendo las medidas establecidas en él, salvo cuando resulten aplicables las exenciones o excepciones adoptadas conforme a lo previsto en el artículo siguiente, serán nulas de pleno derecho. Además, a las actuaciones realizadas que vulneren las servidumbres aeronáuticas les será de aplicación lo dispuesto en el artículo cincuenta y tres bis, apartado 3.
+4. En materia de dominio público radioeléctrico será de aplicación lo dispuesto en su normativa específica, correspondiendo al titular de los derechos de uso de dicho dominio público la obtención del acuerdo previo favorable previsto en este artículo, siéndoles de aplicación lo dispuesto en el apartado 2.
+Se añade por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo cincuenta y cuatro ter
+
+Artículo cincuenta y cuatro ter. Exenciones y excepciones.
+1. Cuando conste acreditado que no se compromete la seguridad o regularidad de las operaciones aéreas, el normal funcionamiento de las instalaciones para la navegación aérea y la planificación y desarrollo de los aeropuertos de interés general y de las instalaciones para la navegación aérea, los órganos competentes para su adopción, en los términos previstos reglamentariamente, podrán:
+a) Eximir de la petición de los informes al planeamiento y de los acuerdos previos previstos en esta sección, a áreas delimitadas geográficamente comprendidas dentro de las servidumbres aeronáuticas o de las afectaciones aeronáuticas al planeamiento, previo informe, cuando proceda, de la Agencia Estatal de Seguridad Aérea y, en su caso, del gestor aeroportuario o del proveedor de servicios de navegación aérea afectado.
+Las resoluciones que adopten estas exenciones no serán aplicables en relación con la instalación de aerogeneradores o construcciones e instalaciones de altura igual o superior a cien metros; podrán establecer los requisitos adicionales aplicables para acogerse a ellas; y perderán su eficacia, salvo que se confirmen expresamente, cuando se modifiquen las servidumbres aeronáuticas o las afectaciones aeronáuticas al planeamiento, según proceda, con posterioridad a su concesión.
+b) Emitir, con carácter excepcional, los informes y acuerdos previos favorables previstos en esta sección, aun cuando las actuaciones sobre las que se pronuncien superen las servidumbres aeronáuticas o, en su caso, las afectaciones aeronáuticas al planeamiento.
+2. Cuando proceda, de conformidad con lo previsto reglamentariamente, se recabará el informe del Ministerio de Defensa con carácter previo a la adopción de las exenciones y excepciones previstas en el apartado 1, en el supuesto de que las respectivas exenciones o excepciones afecten a las servidumbres aeronáuticas de los aeropuertos ubicados en infraestructuras de utilización conjunta civil y militar o de las instalaciones para la navegación aérea civil que se encuentren en terrenos propiedad del Ministerio de Defensa.
+Se añade por el art. 1.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+## CAPÍTULO X
+
+Del personal aeronáutico
+
+### Artículo cincuenta y cinco
+
+Artículo cincuenta y cinco.
+El personal afecto a la navegación aérea puede ser de vuelo y de tierra.
+
+### Artículo cincuenta y seis
+
+Artículo cincuenta y seis.
+El personal de vuelo es el destinado al mando o pilotaje de la aeronave, así como a la realización de funciones para la operación a bordo de esta, que son quienes constituyen su tripulación, y los pilotos a distancia de aeronaves no tripuladas.
+Se modifica por el art. 1.7 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo cincuenta y siete
+
+Artículo cincuenta y siete.
+El personal de tierra comprende a los directivos, técnicos y auxiliares de aeropuerto, aeródromo e instalaciones que apoyen directamente a la navegación aérea, así como el personal que realice tareas de apoyo a la operación con aeronaves no tripuladas.
+Se modifica por el art. 1.7 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo cincuenta y ocho
+
+Artículo cincuenta y ocho.
+Para el ejercicio de funciones, en vuelo o en tierra, en el ámbito de la aviación civil, que afecten al control del espacio aéreo, al tránsito y al transporte aéreo, será necesario estar en posesión de un título, licencia, autorización o certificado que faculte específicamente para ejercer esas funciones.
+Las condiciones para su obtención y las atribuciones, obligaciones y responsabilidades de sus titulares se determinarán de acuerdo con las normas del Derecho comunitario europeo, los tratados, convenios internacionales y normas de organismos internacionales de los que el Estado español sea parte y con lo dispuesto en esta ley y en sus normas de desarrollo.
+En todo caso, quienes ejerzan funciones o tengan responsabilidades vinculadas al control del espacio aéreo y a la seguridad del tránsito y del transporte aéreos, tanto en vuelo como en tierra, no podrán, sin causa justificada, abandonarlas o renunciar a su ejercicio en tanto no sean debidamente relevados o sustituidos.
+En el ámbito de la aviación militar, el Ministerio de Defensa determinará la titulación necesaria para el ejercicio de las funciones técnicas de la navegación aérea.
+Se modifica por la disposición adicional 2 de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
+
+### Artículo cincuenta y nueve
+
+Artículo cincuenta y nueve.
+El comandante de la aeronave es la persona designada por el operador para estar al mando y encargarse de la realización segura del vuelo.
+Se modifica por la disposición final 1.1 del Real Decreto-ley 38/2020, de 29 de diciembre. Ref. BOE-A-2020-17266#df
+ Se modifica el párrafo primero por el art. 3.1 del Real Decreto Ley 6/1999, de 16 de abril. Ref. BOE-A-1999-8577
+
+### Artículo sesenta
+
+Artículo sesenta.
+El Comandante designado por el empresario desempeñará el mando de la aeronave y será el responsable de la misma y de su tripulación, de los viajeros y equipajes, de la carga y del correo desde que se haga cargo de aquélla para emprender el vuelo, aunque no asuma su pilotaje material.
+Cesará esa responsabilidad cuando, finalizado el vuelo, haga entrega de la aeronave, pasajeros, correo y carga a cualquier autoridad competente o al representante de la Empresa.
+Se modifica el párrafo primero por el art. 3.2 del Real Decreto Ley 6/1999, de 16 de abril. Ref. BOE-A-1999-8577.
+
+### Artículo sesenta y uno
+
+Artículo sesenta y uno.
+Las funciones de ingeniería propias de la navegación aérea y las de meteorología en Organismos y Servicios del Estado o en cualquier Empresa concesionaria de tráfico aéreo serán desempeñadas, respectivamente, por quienes posean el título de Ingeniero Aeronáutico o de Meteorólogo.
+Las de naturaleza jurídica en Organismos y Servicios del Estado concernientes a la expresada navegación serán desempeñadas por personal del Cuerpo Jurídico del Aire, dándose preferencias a los que ostenten el diploma de Estudios Superiores de Derecho Internacional, Aéreo e Industrial.
+
+### Artículo sesenta y dos
+
+Artículo sesenta y dos.
+Los Jefes de aeropuertos serán designados por el Ministerio del Aire, quien establecerá las condiciones que hayan de reunir. Tendrán carácter de autoridad en el ejercicio de sus funciones.
+Compete al Jefe del aeropuerto, dentro de su jurisdicción, la coordinación e inspección de todos los servicios del mismo y dependerá de dicho Jefe el personal afecto a ellos, con arreglo a esta Ley y sus Reglamentos, sin perjuicio de la organización y dependencia técnica y administrativa propia de los servicios pertenecientes a otros Ministerios.
+
+### Artículo sesenta y tres
+
+Artículo sesenta y tres.
+Los contratos de trabajo del personal se regirán por las reglamentaciones especiales, convenios colectivos sindicales o, en su defecto, por las normas comunes de Derecho laboral español.
+En caso de accidentes de trabajo, se estará a lo dispuesto en la legislación sobre la materia.
+
+### Artículo sesenta y cuatro
+
+Artículo sesenta y cuatro.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo sesenta y cinco
+
+Artículo sesenta y cinco.
+Las licencias del personal técnico aeronáutico expedidas en el extranjero serán revalidadas o reconocidas en España, con arreglo a lo dispuesto en tratados y convenios internacionales. En su defecto, dicho reconocimiento podrá otorgarse siempre que estén expedidas por autoridades competentes, que cumplan los requisitos y condiciones mínimas exigidas en España y, en todo caso, a título de reciprocidad.
+Podrá también autorizarse el empleo circunstancial de técnicos extranjeros, como Instructores o Asesores del mismo personal español, cuando así lo aconseje el mejoramiento o modernización de los servicios, y por el tiempo indispensable.
+
+### Artículo sesenta y seis
+
+Artículo sesenta y seis.
+El Ministerio del Aire podrá asumir el conocimiento y resolución de los conflictos de trabajo que afecten a la disciplina de vuelo, a la seguridad del tráfico aéreo o a los intereses de la defensa nacional.
+Disposiciones especiales regularán la forma de proceder en estos casos.
+
+## CAPÍTULO XI
+
+Del tráfico aéreo
+
+### Artículo sesenta y siete
+
+Artículo sesenta y siete.
+1. A los efectos de esta ley, se considera:
+a) Tráfico aéreo: el servicio aéreo definido en el artículo 2, apartado 4), del Reglamento (CE) n.º 1008/2008 del Parlamento Europeo y del Consejo, de 24 de septiembre de 2008, sobre normas comunes para la explotación de servicios aéreos en la Comunidad, y disposiciones concordantes, como un vuelo o una serie de vuelos para el transporte de pasajeros, carga o correo a cambio de una remuneración o del pago de un alquiler.
+b) Tráfico aéreo regular: el servicio aéreo regular definido en el artículo 2, apartado 16), del Reglamento CE) n.º 1008/2008 del Parlamento Europeo y del Consejo, y normas concordantes, como una serie de vuelos que reúna todas las características siguientes:
+1.º en cada vuelo haya asientos o capacidad de carga disponibles para su adquisición de manera individual por el público, ya sea directamente a la compañía aérea o a través de sus agentes autorizados;
+2.º que esté organizado de suerte que garantice el tráfico entre los dos mismos o más aeropuertos:
+i) bien de acuerdo con un horario publicado, o
+ii) bien con una regularidad o frecuencia tales que constituyan una serie sistemática evidente.
+c) Tráfico aéreo no regular: cualquier otro servicio aéreo no comprendido en la letra b).
+2. Corresponde a la Agencia Estatal de Seguridad Aérea, autorizar la realización de servicios aéreos, así como ejercer la inspección necesaria para garantizar el cumplimiento de las condiciones establecidas para obtener la autorización.
+Se modifica por el art. 1.8 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo sesenta y ocho
+
+Artículo sesenta y ocho.
+1. Se considera tráfico aéreo internacional el que tenga escala en territorio extranjero.
+2. El tráfico de cabotaje comprende todo transporte de pasajeros, carga o correo que se realice entre lugares de soberanía española, aunque para ello se sobrevuele territorio o aguas jurisdiccionales de otro Estado.
+Con carácter general, los servicios aéreos de cabotaje están reservados a compañías aéreas del Espacio Económico Europeo (EEE) o cuyo tratamiento se asimile a este en virtud de los acuerdos en que la Unión Europea sea parte (en lo sucesivo ambos espacios, EEE ampliado). No obstante, excepcionalmente y en casos debidamente justificados por razones de interés general, la Agencia Estatal de Seguridad Aérea podrá autorizar temporalmente la realización de servicios de cabotaje a compañías de fuera del EEE ampliado.
+Se modifica por el art. 1.8 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo sesenta y nueve
+
+Artículo sesenta y nueve.
+Toda aeronave que efectúe tráfico aéreo internacional procedente o con destino fuera del territorio aduanero de la Unión tal y como se define en el artículo 4 del Reglamento 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013, por lo que se aprueba el código aduanero de la Unión, habrá de realizar su entrada y salida de territorio español por un aeropuerto aduanero. Con carácter excepcional y por razones debidamente justificadas, los órganos competentes en materia de Hacienda e Interior podrán autorizar la utilización de cualquier otro aeropuerto con capacidad para acoger este tipo de tráfico en condiciones seguras.
+Lo dispuesto en el párrafo anterior será igualmente aplicable al tráfico aéreo entre la Península o Baleares y Canarias.
+En el caso de las aeronaves que no estén obligadas a efectuar su entrada o salida de territorio español por un aeropuerto aduanero, los órganos competentes en materia de Interior podrán autorizar la utilización de cualquier aeropuerto con capacidad para acoger este tipo de tráfico en condiciones seguras, para lo cual se impulsarán medidas para permitir a los aeropuertos mencionados operar con vuelos internacionales mediante procedimientos excepcionales, siempre bajo estrictas garantías de seguridad y fiscalización.
+Se modifica por el art. 1.8 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo setenta
+
+Artículo setenta.
+1. Los servicios aéreos para el tráfico aéreo internacional se establecerán mediante acuerdos con los Estados interesados, sin perjuicio del régimen de libre prestación de servicios en el EEE ampliado, por las compañías aéreas de los Estados que formen parte de dicho EEE ampliado. No obstante lo anterior, las compañías aéreas de terceros países deberán obtener los correspondientes permisos, salvo que el acuerdo internacional establezca expresamente lo contrario.
+Las autoridades de aviación civil velarán porque las compañías aéreas que operen en virtud de los acuerdos de transporte aéreo internacional reciban un trato justo y equitativo conforme a lo previsto en ellos. Sin perjuicio de los mecanismos de solución de controversias previstos en dichos acuerdos, si se detecta un trato desfavorable para las aerolíneas designadas por el Reino de España, las autoridades de aviación civil españolas adoptarán las medidas necesarias para revertir esa situación y garantizar un tratamiento justo y equitativo.
+2. Sin perjuicio de lo previsto en el apartado 1, en ausencia de acuerdo, o para la realización de operaciones que no estén directamente contempladas en el que resulte de aplicación, para la realización de servicios del tráfico aéreo internacional, se requerirá una autorización expresa de la Agencia Estatal de Seguridad Aérea sujeta al principio de reciprocidad. Además:
+a) Para el transporte aéreo internacional regular, la autorización que tendrá carácter excepcional podrá otorgarse cuando quede justificado por razones de interés general.
+b) Para el transporte aéreo internacional no regular, la autorización estará condicionada a que no exista evidencia de perjuicio a los servicios aéreos regulares ya establecidos y siempre que no se trate de vuelos que se realicen conforme a un horario publicado o que tengan una regularidad o frecuencia tales que constituyan una evidente serie sistemática. Por resolución de la Agencia Estatal de Seguridad Aérea podrá excepcionarse de la obtención de la autorización previa a los vuelos médicos de emergencia u otros vuelos de emergencia no programables que se realizarán en las condiciones que se establezcan en dicha resolución.
+Se modifica por el art. 1.8 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo setenta y uno
+
+Artículo setenta y uno.
+Ninguna aeronave civil de fuera del EEE ampliado será autorizada para volar sobre territorio español sin tener suficientemente garantizadas, de acuerdo con la normativa de aplicación, las responsabilidades que pueda contraer por la realización de la operación.
+Se modifica por el art. 1.8 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo setenta y dos
+
+Artículo setenta y dos.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo setenta y tres
+
+Artículo setenta y tres.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo setenta y cuatro
+
+Artículo setenta y cuatro.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo setenta y cinco
+
+Artículo setenta y cinco.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo setenta y seis
+
+Artículo setenta y seis.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo setenta y siete
+
+Artículo setenta y siete.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo setenta y ocho
+
+Artículo setenta y ocho.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo setenta y nueve
+
+Artículo setenta y nueve.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo ochenta
+
+Artículo ochenta.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo ochenta y uno
+
+Artículo ochenta y uno.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo ochenta y dos
+
+Artículo ochenta y dos.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo ochenta y tres
+
+Artículo ochenta y tres.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo ochenta y cuatro
+
+Artículo ochenta y cuatro.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo ochenta y cinco
+
+Artículo ochenta y cinco.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo ochenta y seis
+
+Artículo ochenta y seis.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo ochenta y siete
+
+Artículo ochenta y siete.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo ochenta y ocho
+
+Artículo ochenta y ocho.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifica por la disposición final 1.2 del Real Decreto-ley 38/2020, de 29 de diciembre. Ref. BOE-A-2020-17266#df
+
+### Artículo ochenta y nueve
+
+Artículo ochenta y nueve.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo noventa
+
+Artículo noventa.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo noventa y uno
+
+Artículo noventa y uno.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+## CAPÍTULO XII
+
+Del contrato de transporte
+
+## Sección 1
+
+Sección 1.ª Del transporte de viajeros
+
+### Artículo noventa y dos
+
+Artículo noventa y dos.
+En el contrato del transporte de viajeros el transportista extenderá inexcusablemente el billete de pasaje que contendrá los siguientes requisitos:
+Primero. Lugar y fecha de emisión.
+Segundo. Nombre y dirección del transportista.
+Tercero. Punto de salida y destino.
+Cuarto. Nombre del pasajero.
+Quinto. Clase y precio del transporte.
+Sexto. Fecha y hora del viaje.
+Séptimo. Indicación sumaria de la vía a seguir, así como de las escalas previstas.
+
+### Artículo noventa y tres
+
+Artículo noventa y tres.
+El billete de pasaje es un documento nominativo e intransferible y únicamente podrá ser utilizado en el viaje para el que fue expedido y en el lugar del avión que, en su caso, determine.
+
+### Artículo noventa y cuatro
+
+Artículo noventa y cuatro.
+Cuando el viaje se suspenda o retrase por causa de fuerza mayor o razones meteorológicas que afecten a la seguridad del mismo, el transportista quedará liberado de responsabilidad, devolviendo el precio del billete.
+Si una vez comenzado el viaje se interrumpiera por cualquiera de las causa señaladas en el párrafo anterior, el transportista viene obligado a efectuar el transporte de viajeros y equipajes por su cuenta, utilizando el medio más rápido posible, hasta dejarlos en su destino, salvo que los pasajeros optasen por el reembolso de la parte proporcional al trayecto no recorrido.
+También sufragará el transportista los gastos de manutención y hospedaje que se deriven de la expresada interrupción.
+
+### Artículo noventa y cinco
+
+Artículo noventa y cinco.
+El pasajero puede renunciar a su derecho a efectuar el viaje obteniendo la devolución del precio del pasaje en la parte que se determine, siempre que aquella renuncia se haga dentro del plazo que reglamentariamente se fije.
+
+### Artículo noventa y seis
+
+Artículo noventa y seis.
+El transportista queda facultado para excluir del transporte a los pasajeros que por causas de enfermedad u otras circunstancias determinadas en los Reglamentos puedan constituir un peligro o perturbación para el buen régimen de la aeronave.
+
+### Artículo noventa y siete
+
+Artículo noventa y siete.
+El transportista estará obligado a transportar juntamente con los viajeros, y dentro del precio del billete, el equipaje con los límites de peso, independientemente del número de bultos, y volumen que fijen los Reglamentos.
+El exceso será objeto de estipulación especial.
+No se considerará equipaje a este efecto los objetos y bultos de mano que el viajero lleve consigo. El transportista estará obligado a transportar de forma gratuita en cabina, como equipaje de mano, los objetos y bultos que el viajero lleve consigo, incluidos los artículos adquiridos en las tiendas situadas en los aeropuertos. Únicamente podrá denegarse el embarque de estos objetos y bultos en atención a razones de seguridad, vinculadas al peso o al tamaño del objeto, en relación con las características de la aeronave.
+Se modifica por la disposición final 2.6 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo noventa y ocho
+
+Artículo noventa y ocho.
+El transportista responderá únicamente de la pérdida, sustracción o deterioro del equipaje que se le haya entregado para su custodia.
+
+### Artículo noventa y nueve
+
+Artículo noventa y nueve.
+Cuando el equipaje admitido no sea anotado en el billete, se registrará en talón anexo, que deberá contener las indicaciones que reglamentariamente se fijen.
+La entrega de los equipajes se hará contra presentación del billete o talón, en su caso, cualquiera que sea la persona que lo exhiba. La falta de dicha presentación dará derecho al transportista a cerciorarse de la personalidad de quien reclame el equipaje, pudiendo diferir la entrega hasta que la justificación resulte suficiente.
+
+### Artículo ciento
+
+Artículo ciento.
+El recibo del equipaje sin protesta del tenedor del talón o billete implica la renuncia a toda reclamación. Los Reglamentos determinarán los plazos y forma en que los transportistas podrán enajenar en pública subasta el equipaje abandonado por los pasajeros.
+
+### Artículo ciento uno
+
+Artículo ciento uno.
+Las tarifas del transporte de viajeros y sus equipajes serán previamente aprobadas por el Ministerio del Aire.
+
+## Sección 2
+
+Sección 2.ª Del transporte de mercancías
+
+### Artículo ciento dos
+
+Artículo ciento dos.
+El contrato de transporte de cosas se perfecciona con la entrega de las que sean objeto del mismo al transportista. Este, sobre la base de la declaración suscrita por el expedidor, extenderá el talón de transporte en el que obligatoriamente habrán de figurar los requisitos que reglamentariamente se determinen.
+
+### Artículo ciento tres
+
+Artículo ciento tres.
+El talón constituye prueba plena sobre la existencia del contrato, según los términos contenidos en aquél, y a su presentación por cualquier persona, el transportista entregará la mercancía, previo el cumplimiento de los requisitos aduaneros, sanitarios u otros administrativos exigibles.
+En caso de pérdida, extravío o sustracción del talón, el transportista viene obligado a facilitar una copia literal del mismo al remitente o consignatario, previa acreditación de la personalidad. También podrá el transportista entregar la mercancía al consignatario si ofreciese garantías suficientes al efecto.
+
+### Artículo ciento cuatro
+
+Artículo ciento cuatro.
+Las tarifas del transporte de mercancías serán previamente aprobadas por el Ministerio del Aire.
+
+### Artículo ciento cinco
+
+Artículo ciento cinco.
+Si, por fuerza mayor, las mercancías no pueden seguir el itinerario previsto en el talón, el transportista entregará por su cuenta los bultos a otra empresa de transportes para su más rápida conducción, de acuerdo con las instrucciones dadas o que se pidan al expedidor o destinatario.
+
+### Artículo ciento seis
+
+Artículo ciento seis.
+El transportista no responderá si el transporte no se efectúa en la fecha y hora previstas cuando la suspensión o retraso obedezcan a fuerza mayor o a razones meteorológicas que afecten a la seguridad del vuelo. Tampoco vendrá obligado a indemnizar respecto de la carga comercial que haya de reducir por alguna de esas circunstancias.
+
+### Artículo ciento siete
+
+Artículo ciento siete.
+El transportista está obligado a entregar la cosa transportada inmediatamente después de la llegada de ésta a su destino, previo cumplimiento, en su caso, de los requisitos que exijan los Reglamentos. Se considerará perdida la mercancía cuando transcurran los plazos que reglamentariamente se fijen sin efectuar la entrega.
+
+### Artículo ciento ocho
+
+Artículo ciento ocho.
+El transportista queda obligado a la custodia de los objetos que se le entreguen para el transporte y responde de su pérdida, avería o retraso en la entrega por motivo del viaje, siempre que no sean consecuencia exclusiva de la naturaleza o vicio propio de las mismas.
+El transportista responderá también de la pérdida sufrida en caso de echazón, necesaria para lograr la seguridad de la navegación.
+
+### Artículo ciento nueve
+
+Artículo ciento nueve.
+Cuando no pueda efectuarse la entrega de los objetos transportados porque no se encuentre al destinatario o porque éste se niegue a recibir las mercancías sin consignar protesta al deterioro que puedan tener las mismas o porque el destinatario no quiera pagar los gastos de reembolso, transporte u otros que le correspondiesen, el transportista lo comunicará al expedidor. En este caso, el transportista se constituirá en depositario remunerado de las mercancías durante el período de un mes; transcurrido el cual, si el expedidor no hubiese dispuesto de ellas, aquél las podrá enajenar en pública subasta, con las formalidades que el Reglamento señale, resarciéndose de los gastos y quedando el resto a disposición de los que resulten con derecho a él.
+Si el objeto del transporte fuese de naturaleza perecedera, el plazo fijado en el párrafo anterior podrá ser reducido en beneficio del valor en venta de la cosa transportada.
+El depósito de las cosas a que aluden los párrafos anteriores puede ser hecho por el transportista, bajo su responsabilidad, fuera de su domicilio.
+
+### Artículo ciento diez
+
+Artículo ciento diez.
+El transporte combinado entre varias Empresas de navegación aérea, las constituye en responsables solidarias, pudiendo elegir el expedidor o destinatario para la reclamación correspondiente, cualquiera de las que han tomado parte en el transporte.
+
+### Artículo ciento once
+
+Artículo ciento once.
+La recepción de las cosas transportadas, sin protesta por el destinatario, constituye presunción de que las mercancías han sido entregadas en buen estado, de acuerdo con el contrato de transporte. En caso de protesta por el destinatario se hará constar así en el talón de transporte o documento que lo sustituye, debiendo proceder a formalizar en plazo de ocho días, la correspondiente reclamación ante el propio transportista. Si ésta no se verifica en el termino dicho la responsabilidad de aquél se entenderá extinguida.
+
+### Artículo ciento doce
+
+Artículo ciento doce.
+El expedidor tiene derecho de disposición sobre las cosas objeto del transporte, pudiendo, después de haber suscrito el contrato, de acuerdo con el transportista, retirarlas del aeropuerto de salida o destino, detenerlas en el curso del viaje a un aeropuerto, cambiar el lugar de destino o la persona del destinatario o pedir su retorno al aeropuerto de salida. Los gastos que ocasione el ejercicio de este derecho serán por cuenta del expedidor.
+
+### Artículo ciento trece
+
+Artículo ciento trece.
+El transportista podrá excluir del contrato de transporte aquellas mercancías que, por su mal estado, acondicionamiento o por otras circunstancias graves que los Reglamentos señalen, puedan constituir un peligro evidente para la navegación.
+
+### Artículo ciento catorce
+
+Artículo ciento catorce.
+Las disposiciones de este capítulo se entenderán sin perjuicio de lo establecido en el siguiente sobre responsabilidad en caso de accidente.
+
+## CAPÍTULO XIII
+
+De la responsabilidad en caso de accidente
+
+### Artículo ciento quince
+
+Artículo ciento quince.
+A los efectos del presente capítulo se entenderá por daño en el transporte de viajeros el que sufran éstos a bordo de la aeronave y por acción de la misma, o como consecuencia de las operaciones de embarque y desembarque.
+El daño acaecido con motivo del empleo de otro medio de transporte para el servicio de los viajeros de la aeronave fuera del aeropuerto, aunque dicho medio sea de la misma Empresa, queda excluido de las disposiciones de este capítulo.
+En el transporte de mercancías y equipajes se estimará como daño el que experimenten dichos efectos desde su entrega a la empresa hasta que por ésta sean puestos a disposición del destinatario, excepto el tiempo durante el cual permanezcan en poder de los Servicios aduaneros. Lo dispuesto en este párrafo se entiende sin perjuicio de la responsabilidad que como depositario le corresponde, conforme a lo prevenido en el artículo ciento nueve de esta Ley.
+
+### Artículo ciento dieciséis
+
+Artículo ciento dieciséis.
+El transportista es responsable del daño o perjuicio causado durante el transporte:
+Primero. Por muerte, lesiones o cualquier otro daño corporal sufrido por el viajero.
+Segundo. Por destrucción, pérdida, avería o retraso de las mercancías y de los equipajes, facturados o de mano.
+
+### Artículo ciento diecisiete
+
+Artículo ciento diecisiete.
+Las indemnizaciones en favor del viajero serán las siguientes:
+1.ª Por muerte o incapacidad total permanente: 100.000 derechos especiales de giro.
+2.ª Por incapacidad parcial permanente, hasta el límite de 58.000 derechos especiales de giro.
+3.ª Por incapacidad parcial temporal, hasta el límite de 29.000 derechos especiales de giro.
+Se actualizan las cuantías por el art. 1 del Real Decreto 37/2001, de 19 de enero. Ref. BOE-A-2001-2343.
+ Se actualizan las cuantías por el art. 1 del Real Decreto 2333/1983, de 4 de agosto. Ref. BOE-A-1983-23967.
+
+### Artículo ciento dieciocho
+
+Artículo ciento dieciocho.
+Las indemnizaciones respecto a la carga o equipaje facturado, o de mano, serán las siguientes:
+1.ª Por pérdida o avería de la carga, hasta el límite de 17 derechos especiales de giro por kilogramo de peso bruto.
+2.ª Por pérdida o avería de equipajes, facturados o de mano, hasta el límite de 500 derechos especiales de giro por unidad.
+3.ª Por retraso en la entrega de la carga o equipaje facturado, hasta el límite de una cantidad equivalente al precio del transporte.
+Si la carga o equipaje facturado o de mano se transporta bajo manifestación de valor declarado, aceptado por el transportista, el límite de responsabilidad corresponde a ese valor.
+Se actualizan las cuantías por el art. 3 del Real Decreto 37/2001, de 19 de enero. Ref. BOE-A-2001-2343.
+ Se actualizan las cuantías por el art. 2 del Real Decreto 2333/1983, de 4 de agosto. Ref. BOE-A-1983-23967.
+
+### Artículo ciento diecinueve
+
+Artículo ciento diecinueve.
+Son indemnizables los daños que se causen a las personas o a las cosas que se encuentren en la superficie terrestre por acción de la aeronave, en vuelo o en tierra, o por cuanto de ella se desprenda o arroje. Las indemnizaciones debidas por aeronave y accidente tendrán las limitaciones siguientes:
+1.ª Para aeronaves de hasta 500 kilogramos de peso bruto, 220.000 derechos especiales de giro.
+2.ª Para aeronaves de peso bruto mayor de 500 kilogramos y hasta 1.000 kilogramos, 660.000 derechos especiales de giro.
+3.ª 660.000 derechos especiales de giro, más 520 derechos especiales de giro por kilogramo que exceda de los 1.000, para aeronaves que pesen más de 1.000 y no excedan de 6.000 kilogramos.
+4.ª 3.260.000 derechos especiales de giro, más 330 derechos especiales de giro por kilogramo que exceda de los 6.000, para aeronaves que pesen más de 6.000 y no excedan de 20.000 kilogramos.
+5.ª 7.880.000 derechos especiales de giro, más 190 derechos especiales de giro por kilogramo que exceda de 20.000, para aeronaves que pesen más de 20.000 y no excedan de 50.000 kilogramos.
+6.ª 13.580.000 derechos especiales de giro, más 130 derechos especiales de giro por kilogramo que exceda de los 50.000, para aeronaves que pesen más de 50.000 kilogramos.
+Se entiende como peso de la aeronave, a los efectos de este artículo, el máximo autorizado para el despegue en el certificado de aeronavegabilidad de la aeronave de que se trate.
+Las indemnizaciones por muerte o lesiones de personas se ajustarán a lo dispuesto en el artículo 1 de este Real Decreto, incrementadas en un 20 por 100. Si fuesen varios los perjudicados y la suma global de los daños causados excediera de los límites antes citados, se reducirá proporcionalmente la cantidad que haya de percibir cada uno.
+No obstante, las indemnizaciones debidas por daños a las personas gozarán de preferencia para el cobro con respecto a cualquier otra exigible por el siniestro, si el responsable no alcanza a cubrirlas todas.
+Se actualizan las cuantías por el art. 4 del Real Decreto 37/2001, de 19 de enero. Ref. BOE-A-2001-2343.
+ Se actualizan las cuantías por el art. 3 del Real Decreto 2333/1983, de 4 de agosto. Ref. BOE-A-1983-23967.
+
+### Artículo ciento veinte
+
+Artículo ciento veinte.
+La razón de indemnizar tiene su base objetiva en el accidente o daño y procederá, hasta los límites de responsabilidad que en este capítulo se establecen, en cualquier supuesto, incluso en el de accidente fortuito y aun cuando el transportista, operador o sus empleados justifiquen que obraron con la debida diligencia.
+
+### Artículo ciento veintiuno
+
+Artículo ciento veintiuno.
+No obstante lo dispuesto en el artículo anterior, el transportista u operador responderán de sus propios actos y de los de sus empleados, y no podrán ampararse en los límites de responsabilidad que en este capítulo se establecen, si se prueba que el daño es el resultado de una acción u omisión suya o de sus dependientes, en la que exista dolo o culpa grave. En el caso de los empleados habrá de probarse, además, que éstos obraban en el ejercicio de sus funciones.
+
+### Artículo ciento veintidós
+
+Artículo ciento veintidós.
+Si la persona que utiliza la aeronave lo hiciese sin el consentimiento del transportista o propietario, responderá aquélla ilimitadamente de los daños, y éste subsidiariamente, con los límites establecidos en este capítulo, si no se demuestra que le fue imposible impedir el uso ilícito.
+
+### Artículo ciento veintitrés
+
+Artículo ciento veintitrés.
+En caso de colisión entre aeronaves, los empresarios de ellas serán solidariamente responsables de los daños causados a tercero.
+Si la colisión ocurre por culpa de la tripulación de una de ellas serán de cargo del empresario los daños y pérdidas, y si la culpa fuese común o indeterminada, o por caso fortuito, cada uno de los empresarios responderá en proporción al peso de la aeronave.
+
+### Artículo ciento veinticuatro
+
+Artículo ciento veinticuatro.
+La acción para exigir el pago de las indemnizaciones a que se refiere este capítulo, prescribirá a los seis meses, a contar desde la fecha en que se produjo el daño.
+Las reclamaciones por avería o retraso de la carga o equipaje facturado deberán formalizarse por escrito ante el transportista u obligado, dentro de los diez días siguientes al de la entrega, o a la fecha en que debió entregarse, conforme a lo dispuesto en esta Ley sobre el contrato de transporte. La falta de esta reclamación previa impedirá el ejercicio de las acciones correspondientes.
+
+### Artículo ciento veinticinco
+
+Artículo ciento veinticinco.
+En defecto de tratado internacional obligatorio para España, la responsabilidad en materia de transporte aéreo internacional se regirá por la presente Ley aplicada con el principio de reciprocidad.
+
+## CAPÍTULO XIV
+
+De los seguros aéreos
+
+### Artículo ciento veintiséis
+
+Artículo ciento veintiséis.
+Los seguros aéreos tienen por objeto garantizar los riesgos propios de la navegación que afectan a la aeronave, mercancías, pasajeros y flete, así como las responsabilidades derivadas de los daños causados a tercero por la aeronave en tierra, agua o vuelo.
+
+### Artículo ciento veintisiete
+
+Artículo ciento veintisiete.
+Serán obligatorios el seguro de pasajeros, el de daños causados a tercero, el de aeronaves destinadas al servicio de líneas aéreas y el de las que sean objeto de hipoteca.
+
+### Artículo ciento veintiocho
+
+Artículo ciento veintiocho.
+No se autorizará la circulación por el espacio aéreo nacional de ninguna aeronave extranjera que no justifique tener asegurados los daños que pueda producir a las personas o cosas transportadas o a terceros en la superficie.
+Estos seguros podrán sustituirse por una garantía constituida mediante depósito de cantidades o valores, o por una de las fianzas admitidas por el Estado.
+
+### Artículo ciento veintinueve
+
+Artículo ciento veintinueve.
+La indemnización por el seguro de la aeronave en caso de siniestro o pérdida de la misma será consignada judicialmente, para su entrega a quien corresponda en caso de que aparecieren terceras personas con posible derecho a la expresada indemnización o se hubiese promovido reclamación judicial de preferencia sobre la misma.
+Para facilitar al acreedor hipotecario el ejercicio de sus derechos, el Juez ante quien se consigne la indemnización le notificará dicho siniestro, si fuere conocido según el Registro de aeronaves, y en todo caso se publicarán edictos en el Boletín Oficial del Estado en tres fechas distintas durante los tres meses siguientes al día en que tuvo lugar dicho siniestro.
+
+## CAPÍTULO XV
+
+De los gravámenes y de los créditos privilegiados
+
+### Artículo ciento treinta
+
+Artículo ciento treinta.
+En su condición de bienes muebles de naturaleza especial las aeronaves pueden ser objeto de hipoteca, usufructo, arrendamiento y demás derechos que las leyes autoricen.
+Las transferencias de propiedad de la aeronave, así como los actos a que se refiere el párrafo anterior, se inscribirán mediante el título correspondiente y con los efectos jurídicos establecidos en las leyes, en la Sección de Aeronaves del Registro de Bienes Muebles, cuya coordinación con el Registro de Matrícula de Aeronaves Civiles se verificará en la forma que se determine reglamentariamente.
+Se modifica por la disposición final 2.4 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#df-2
+ Se modifica por el art. único de la Ley 113/1969, de 30 de diciembre. Ref. BOE-A-1969-1571.
+
+### Artículo ciento treinta y uno
+
+Artículo ciento treinta y uno.
+Sólo podrán ser objeto de hipoteca las aeronaves matriculadas en España.
+
+### Artículo ciento treinta y dos
+
+Artículo ciento treinta y dos.
+El embargo de aeronaves pertenecientes a Empresas de tráfico aéreo no producirá la interrupción del servicio público a que estén destinadas. Las autoridades que lo decreten pondrán el hecho en conocimiento del Ministerio del Aire.
+
+### Artículo ciento treinta y tres
+
+Artículo ciento treinta y tres.
+Se considerarán créditos preferentemente privilegiados sobre la aeronave o sobre la indemnización que corresponda, en caso de seguro, y por el orden que se relacionan, los siguientes:
+Primero. Los créditos por impuestos, derechos y arbitrios del Estado, por la última anualidad y la parte vencida de la corriente.
+Segundo. Los salarios debidos a la tripulación por el último mes.
+Tercero. Los créditos de los aseguradores por las dos últimas anualidades o dividendos que se les adeuden.
+Cuarto. Las indemnizaciones que esta Ley establece en concepto de reparación de daños causados a personas o cosas, sin perjuicio de lo dispuesto en el artículo ciento diecinueve de esta Ley, párrafo último.
+Quinto. Los gastos de auxilio o salvamento de la propia aeronave, accidentada o en peligro.
+Para la prelación de los demás créditos, se estará a lo dispuesto en la legislación común.
+Los privilegios y el orden de prelación establecidos en los apartados anteriores regirán únicamente en los supuestos de ejecución singular.
+En caso de concurso, el derecho de separación de la aeronave previsto en la Ley Concursal se reconocerá a los titulares de los créditos privilegiados comprendidos en los números 1.º a 5.º del apartado primero.
+Se modifican los dos últimos párrafos por la disposición final 30 de la Ley 22/2003, de 9 de julio, en la redacción dada por el art. único.122 de la Ley 38/2011, de 10 de octubre. Ref. BOE-A-2011-15938.
+ Se añaden los dos últimos párrafos por la disposición final 30 de la Ley 22/2003, de 9 de julio. Ref. BOE-A-2003-13813.
+
+## CAPÍTULO XVI
+
+De los accidentes, de la asistencia y salvamento y de los hallazgos
+
+### Artículo ciento treinta y cuatro
+
+Artículo ciento treinta y cuatro.
+La asistencia y salvamento de las aeronaves accidentadas o en peligro son de interés público. Se efectuarán bajo la dirección de las autoridades aeronáuticas, a quienes corresponderá también la investigación y determinación de responsabilidades en los casos de accidentes.
+
+### Artículo ciento treinta y cinco
+
+Artículo ciento treinta y cinco.
+Las indemnizaciones debidas por trabajo para el salvamento de personas no podrán exceder, por cada una, de la cuarta parte de las cantidades fijadas en esta Ley para caso de muerte.
+
+### Artículo ciento treinta y seis
+
+Artículo ciento treinta y seis.
+En el caso de asistencia o salvamento de aeronaves o mercancías, la indemnización no podrá exceder del valor de las mismas o del capital de su seguro.
+
+### Artículo ciento treinta y siete
+
+Artículo ciento treinta y siete.
+El hallazgo de una aeronave abandonada o de sus restos se notificará al propietario, si fuese conocido, y serán devueltos a éste, previo abono de los gastos legítimos, más un premio de la tercera parte de su valor al descubridor.
+Se considerará abandonada la aeronave o sus restos cuando estuviese sin tripulación y no sea posible determinar su legítima pertenencia por los documentos de a bordo, marcas de matrícula que ostente u otro medio de identificación, o bien cuando el propietario manifieste de modo expreso su deseo de abandonarla.
+
+### Artículo ciento treinta y ocho
+
+Artículo ciento treinta y ocho.
+Para facilitar al propietario el ejercicio de sus derechos, se le notificará el hallazgo, si fuese conocido, y, en todo caso, se publicará en el "Boletín Oficial del Estado". Transcurrido el plazo de un año desde la fecha del hallazgo, sin que concurra reclamación del propietario, se estimará la presunción legal de abandono.
+Se modifica por el art. 1.9 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo ciento treinta y nueve
+
+Artículo ciento treinta y nueve.
+Si la aeronave o sus restos no pudieran conservarse o hubieran transcurrido los plazos establecidos en el artículo anterior, el material podrá ser ofrecido a instituciones educativas, culturales o sin ánimo de lucro que acrediten vinculación con el ámbito aeronáutico, previa emisión de un informe por parte de Aviación Civil sobre su estado y viabilidad de uso. Dichas instituciones tendrán un plazo de veinte días para solicitar la adjudicación. Si, transcurrido dicho plazo, no manifiestan interés, la aeronave o sus restos podrán ser subastados, y el producto de la venta se destinará en beneficio del Estado.
+Se modifica por el art. 1.10 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo ciento cuarenta
+
+Artículo ciento cuarenta.
+Disposiciones especiales regularán las obligaciones y funciones sobre esta materia de autoridades y particulares, el procedimiento a que haya de someterse la investigación y las colaboraciones de carácter internacional que deban admitirse.
+
+### Artículo ciento cuarenta y uno
+
+Artículo ciento cuarenta y uno.
+Las acciones derivadas de la asistencia y salvamento prescribirán a los dos años de terminadas las operaciones.
+
+## CAPÍTULO XVII
+
+De la policía de la circulación aérea
+
+### Artículo ciento cuarenta y dos
+
+Artículo ciento cuarenta y dos.
+La policía de la circulación aérea abarcará el cumplimiento de cuantos Reglamentos, disposiciones y normas permanentes o eventuales tiendan a conseguir una rápida, ordenada y segura circulación de las aeronaves, tanto en vuelo como en tierra.
+
+### Artículo ciento cuarenta y tres
+
+Artículo ciento cuarenta y tres.
+Las funciones a que se refiere el precedente artículo serán ejercidas, según los casos, por los Jefes de demarcación aérea, por los Jefes de aeropuerto y por los Comandantes de aeronave.
+
+### Artículo ciento cuarenta y cuatro
+
+Artículo ciento cuarenta y cuatro.
+Las disposiciones sobre policía de la circulación aérea y disciplina de vuelo obligan a todas las aeronaves civiles o militares, sin distinción de categoría o clase.
+
+### Artículo ciento cuarenta y cinco
+
+Artículo ciento cuarenta y cinco.
+Para que una aeronave pueda volar dentro del espacio aéreo español deberá ser debidamente autorizada, previa presentación de su plan de vuelo, ostentar las marcas de nacionalidad, matrícula o número y llevar la documentación exigida por esta Ley, sus reglamentos o los convenios o tratados internacionales. No obstante lo anterior, el plan de vuelo no será exigible en los vuelos interiores que se realicen siguiendo reglas de vuelo visual y siempre que las condiciones de la circulación aérea y la prestación de los servicios de tránsito aéreo lo permitan.
+Se modifica por el art. 63.2 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+
+### Artículo ciento cuarenta y seis
+
+Artículo ciento cuarenta y seis.
+Toda aeronave seguirá en su vuelo los canales o zonas de navegación que le sean impuestas y respetará las zonas prohibidas o reservadas.
+
+### Artículo ciento cuarenta y siete
+
+Artículo ciento cuarenta y siete.
+Cualquier aeronave en vuelo dentro del espacio aéreo queda obligada a aterrizar, inmediatamente, en el aeropuerto que se le indique por la Autoridad que vigile la circulación aérea, así como a variar la ruta primitivamente elegida a requerimiento de dicha Autoridad.
+
+### Artículo ciento cuarenta y ocho
+
+Artículo ciento cuarenta y ocho.
+Las operaciones de partida y llegada de las aeronaves no podrán efectuarse más que en aeropuertos y aeródromos oficialmente autorizados.
+
+### Artículo ciento cuarenta y nueve
+
+Artículo ciento cuarenta y nueve.
+El Ministro del Aire, por sí o mediante concesiones, asumirá la organización y funcionamiento de los servicios de telecomunicaciones específicamente aeronáuticas, meteorológicas y de ayuda a la navegación aérea.
+La autorización de dichos servicios, igual que la de los de aeropuerto, será obligatoria, y se ajustará a las condiciones y tarifas que los Reglamentos determinen.
+
+## CAPÍTULO XVIII
+
+De la aviación general y deportiva y de los trabajos técnicos o científicos
+Se modifica por el art. 1.11 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo ciento cincuenta
+
+Artículo ciento cincuenta.
+1. Las aeronaves sujetas a regulación nacional, utilizadas en operaciones de aviación general o deportiva, entre otras las de transporte privado de Empresas y las de Escuelas de Aviación, así como las dedicadas a trabajos técnicos o científicos, quedarán sujetas a las disposiciones de esta ley, en cuanto les sean aplicables, con las excepciones que a continuación se expresan:
+a) Podrán realizar servicio público de transporte aéreo de personas, sin remuneración, a partir de la entrada en vigor y aplicación de la norma reglamentaria que desarrolle las condiciones para la realización de este tipo de operaciones.
+b) No podrán realizar ningún servicio público de transporte aéreo de cosas, con o sin remuneración.
+c) Podrán utilizar terrenos diferentes de los aeródromos oficialmente abiertos al tráfico, previa autorización de la Agencia Estatal de Seguridad Aérea.
+2. Las aeronaves civiles no tripuladas, cualesquiera que sean las finalidades a las que se destinen, quedarán sujetas asimismo a lo establecido en esta ley y en sus normas de desarrollo, en cuanto les sean aplicables. Estas aeronaves no estarán obligadas a utilizar infraestructuras aeroportuarias autorizadas, salvo en los supuestos en los que así se determine expresamente en su normativa específica.
+Se modifica el apartado 1 por el art. 1.11 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifica el apartado 2 por la disposición final 1.2 del Real Decreto-ley 26/2020, de 7 de julio. Ref. BOE-A-2020-7432#df
+ Se modifica por el art. 51.2 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifica por el art. 51.2 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Artículo ciento cincuenta y uno
+
+Artículo ciento cincuenta y uno.
+1. A las actividades aéreas que se realicen a los fines del artículo anterior, de acuerdo con su regulación específica, se les podrá requerir la presentación de una declaración responsable o comunicación previa ante la Agencia Estatal de Seguridad Aérea o su autorización, en los casos en que la naturaleza de estas operaciones, el entorno o las circunstancias en que se realizan supongan riesgos especiales para la seguridad de las operaciones aeronáuticas o de terceros. Estas actividades estarán sometidas al control e inspección de la Agencia en los términos establecidos por la legislación vigente.
+2. Además, aquellas aeronaves que supongan bajo riesgo, por sus limitados usos, características técnicas y operacionales, podrán ser exceptuadas, en las condiciones que reglamentariamente se establezcan, de los requisitos de inscripción en el Registro de Matrícula de Aeronaves Civiles, de la obtención del certificado de aeronavegabilidad y de las habilitaciones para el ejercicio de las funciones en vuelo, a los cuales se refieren, respectivamente, los artículos veintinueve, treinta y seis y cincuenta y ocho de esta ley.
+Reglamentariamente podrán establecerse las condiciones especiales aplicables al uso de estas aeronaves de matrícula no española.
+Se modifica por el art. 1.12 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifica el párrafo primero por la disposición final 1.3 del Real Decreto-ley 26/2020, de 7 de julio. Ref. BOE-A-2020-7432#df
+ Se modifica el párrafo primero por el art. 51.3 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifica el párrafo primero por el art. 51.3 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se modifica el párrafo primero por el art. 20 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725.
+ Se añade el párrafo segundo por el art. 63.3 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+
+## CAPÍTULO XIX
+
+De las sanciones
+
+### Artículo ciento cincuenta y dos
+
+Artículo ciento cincuenta y dos.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
+ Se convierten a euros las cuantías contempladas en los apartados 3 y 5 por el anexo de la Resolución de 12 de diciembre de 2001. Ref. BOE-A-2001-25009.
+ Se actualizan las cuantías de los apartados 3 y 5 por el art. 3 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículo ciento cincuenta y tres
+
+Artículo ciento cincuenta y tres.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
+
+### Artículo ciento cincuenta y cuatro
+
+Artículo ciento cincuenta y cuatro.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
+ Se convierten a euros las cuantías mencionadas por el anexo de la Resolución de 12 de diciembre de 2001. Ref. BOE-A-2001-25009.
+ Se actualiza la cuantía por el art. 4.a) de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículo ciento cincuenta y cinco
+
+Artículo ciento cincuenta y cinco.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
+ Se convierte a euros la cuantía mencionada por el anexo de la Resolución de 12 de diciembre de 2001. Ref. BOE-A-2001-25009.
+ Se actualiza la cuantía por el art. 4.b) de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículo ciento cincuenta y seis
+
+Artículo ciento cincuenta y seis.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
+ Se convierte a euros la cuantía mencionada por el anexo de la Resolución de 12 de diciembre de 2001. Ref. BOE-A-2001-25009.
+ Se actualiza la cuantía por el art. 4.c) de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículo ciento cincuenta y siete
+
+Artículo ciento cincuenta y siete.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
+ Se convierte a euros la cuantía mencionada por el anexo de la Resolución de 12 de diciembre de 2001. Ref. BOE-A-2001-25009.
+ Se actualiza la cuantía por el art. 4.d) de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículo ciento cincuenta y ocho
+
+Artículo ciento cincuenta y ocho.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
+
+### Artículo ciento cincuenta y nueve
+
+Artículo ciento cincuenta y nueve.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 21/2003, de 7 de julio. Ref. BOE-A-2003-13616.
+
+### Disposición adicional única
+
+Disposición adicional única.
+(Derogada)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifica el apartado 4 y se añaden el 4.bis) y el 6 por la disposición final 2.5 a 7 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#df-2
+ Se añade por el art. 63.4 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786.
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 54, de 3 de marzo de 2000. Ref. BOE-A-2000-4214.
+
+### Disposición final primera
+
+Disposición final primera.
+El transporte del correo, sea de procedencia nacional o extranjera, se regulará por la legislación específica del Ramo.
+
+### Disposición final segunda
+
+Disposición final segunda. Régimen de responsabilidad en caso de accidentes y exención de la obligación de aseguramiento.
+Cuando las circunstancias económicas así lo aconsejen, el Gobierno, por Decreto acordado en Consejo de Ministros, podrá modificar la cuantía de las indemnizaciones reguladas en el capítulo XIII de esta ley.
+Asimismo, se habilita al Gobierno para que reglamentariamente pueda eximir o establecer diferentes modalidades en el cumplimiento de las obligaciones de aseguramiento establecidas en esta Ley para aquellas aeronaves no tripuladas que, por el bajo riesgo de sus operaciones, puedan resultar desproporcionadas.
+Se modifica por la disposición final 1.4 del Real Decreto-ley 26/2020, de 7 de julio. Ref. BOE-A-2020-7432#df
+
+### Disposición final tercera
+
+Disposición final tercera.
+Quedan excluidas del Seguro Obligatorio de Viajeros, ampliado por Ley de veintiséis de septiembre de mil novecientos cuarenta y uno, las Empresas de transporte aéreo que acrediten tener constituido el correspondiente Seguro de Viajeros conforme al artículo ciento veintisiete de la presente Ley, deduciéndose, en este supuesto, del precio del billete en el transporte aéreo nacional, el importe de la prima del indicado Seguro Obligatorio.
+En todo caso la indemnización se hará efectiva en el plazo máximo de treinta días.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+Quedan derogadas todas las disposiciones que se opongan a lo preceptuado en esta Ley.
+Se autoriza al Ministro del Aire para proponer al Gobierno o dictar, en su caso, las disposiciones relativas a la ejecución de la presente Ley, a cuyo fin la Comisión de Codificación Aeronáutica le presentará los proyectos de Reglamentos o disposiciones de carácter general que desarrollen aquélla.
+Queda derogada en lo que se refiere a la Comisión de Codificación Aeronáutica, según establece la disposición derogatoria.3 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904
+Se deroga en lo que se refiere a la Comisión de Codificación Aeronáutica por la disposición derogatoria.3 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Disposición final quinta
+
+Disposición final quinta.
+En relación con el párrafo tercero del artículo quinto de esta ley se declaran expresamente de aplicación a la navegación aérea militar los artículos once, diecisiete, treinta y cuatro a treinta y ocho, cuarenta y cinco, cuarenta y seis, cincuenta y dos a cincuenta y ocho, sesenta y uno, ciento treinta y cuatro y cualquier otro que en particular así lo disponga.
+No obstante lo previsto en el párrafo anterior, se excepciona de la obligación de obtener el certificado de aeronavegabilidad a las aeronaves militares no tripuladas de menos de 25 kg, pudiendo establecerse reglamentariamente otras excepciones a la obtención de dicho certificado a las aeronaves a que se refiere el artículo catorce, primero, así como el régimen específico al que quedan sujetas otras aeronaves que sean de interés para la Defensa o para la industria española de Defensa.
+Se modifica por el art. 1.13 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Disposición final sexta
+
+Disposición final sexta.
+Se habilita a la persona titular de la Dirección de la Agencia Estatal de Seguridad Aérea, en el marco de sus competencias, para conceder de oficio a los titulares o solicitantes de licencias, certificados, habilitaciones o autorizaciones, exenciones específicas al cumplimiento de la normativa aplicable en materia de aviación civil en los ámbitos no regulados por la normativa de la Unión Europea, cuando se produzcan circunstancias urgentes imprevistas o necesidades operativas urgentes, siempre que se cumplan todas las condiciones siguientes:
+a) Que no sea posible hacer frente a esas circunstancias o necesidades de forma adecuada cumpliendo los requisitos aplicables.
+b) Que se garantice la seguridad en caso necesario mediante la aplicación de las correspondientes medidas de mitigación.
+c) Que se mitigue cualquier posible distorsión de las condiciones del mercado como consecuencia de la concesión de la exención en la medida de lo posible.
+d) Que el alcance y la duración de la exención estén limitados a lo que resulte estrictamente necesario y que esta se aplique sin ocasionar discriminación.
+Asimismo, dichas exenciones se podrán emitir, si se cumplen todas las condiciones mencionadas en el párrafo anterior, previa solicitud de los interesados en la que se motive adecuadamente su cumplimiento, se especifiquen las circunstancias urgentes imprevistas o las necesidades operativas urgentes y que incluya, por parte del solicitante, las medidas de mitigación que permitan establecer un nivel de seguridad operacional equivalente.
+Se modifica por la disposición final 1 de la Ley 2/2021, de 29 de marzo. Ref. BOE-A-2021-4908#df
+ Se añade por la disposición final 1 del Real Decreto-ley 21/2020, de 9 de junio. Ref. BOE-A-2020-5895#df
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las Compañías nacionales de tráfico aéreo que a la publicación de la presente Ley tengan otorgada o autorizada la prestación de servicios aéreos en líneas regulares de tráfico interior o internacional seguirán en el disfrute de ellas en las mismas condiciones que en la actualidad hasta que el Gobierno, a propuesta del Ministerio del Aire, considere conveniente renovarlas en los términos que establece el capítulo XI de esta Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En tanto se fijen por el Ministerio del Aire las Demarcaciones a que se refiere el artículo noveno, las mismas coincidirán con las actuales regiones y zonas aéreas.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Régimen transitorio en materia de autorizaciones.
+En tanto no sea de aplicación la normativa específica que regule la comunicación previa prevista en el artículo ciento cincuenta y uno, será exigible la previa autorización de la Agencia Estatal de Seguridad Aérea para el ejercicio de las actividades previstas en dicho precepto.
+Se añade por el art. 51.4 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que esta disposición ya fue añadida por el Real Decreto-ley 8/2014.
+ Se añade por el art. 51.4 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-1960-10905.
+
+Dada en el Palacio de El Pardo a veintiuno de julio de mil novecientos sesenta.
+FRANCISCO FRANCO

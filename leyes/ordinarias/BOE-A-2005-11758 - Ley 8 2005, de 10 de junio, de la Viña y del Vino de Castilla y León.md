@@ -1,0 +1,783 @@
+# Ley 8/2005, de 10 de junio, de la Viña y del Vino de Castilla y León.
+
+- Identificador BOE: `BOE-A-2005-11758`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2005-11758
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 16.4 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+La importancia económica que el sector vitivinícola ha alcanzado en Europa determinó la aprobación por el Consejo de la Unión Europea del Reglamento (CE) 1493/1999, de 17 de mayo, por el que se establece la Organización Común del Mercado vitivinícola, con el que se pretende simplificar la normativa especialmente compleja que regulaba hasta ese momento el sector. Este Reglamento que es de aplicación directa a todos los Estados miembros desde el 1 de agosto de 2000, ha sido desarrollado por otros posteriores y en él se regula el potencial de producción de vino, los mecanismos de mercado, las agrupaciones de productores y las organizaciones sectoriales; las prácticas y tratamientos enológicos, la designación, la denominación, la presentación y la protección de los productos, los vinos de calidad producidos en regiones determinadas (v.c.p.r.d.) y el comercio con terceros países. Tan ambicioso objeto ha supuesto un desfase de la Ley 25/1970, de 2 de diciembre, por la que se aprobó el Estatuto de la Viña, del Vino y de los Alcoholes, con respecto al mencionado Reglamento, desfase que se ha corregido con la aprobación de la Ley 24/2003, de 10 de julio, de la Viña y del Vino («BOE» n.º 165, de 11 de julio) en vigor desde el 12 de julio de 2003.
+Si a nivel estatal era necesaria la adaptación a la normativa europea, no es menos cierto que en Castilla y León, la regulación de este sector también requiere una norma con rango legal.
+En efecto, esta Comunidad Autónoma consciente de que el desarrollo de una política de calidad en el sector agrícola, y especialmente en el sector vitivinícola, contribuye a la mejora de las condiciones del mercado, al incremento de la actividad comercial y en definitiva al progreso económico y social, ha impulsado la aprobación de las normas para el reconocimiento de los vinos de la tierra y v.c.p.r.d. de Castilla y León de las distintas zonas vitivinícolas de la región perfectamente definidas en cuanto a origen y calidades, para lo que los preceptos de la Ley 25/1970 sólo en parte han podido contribuir a fundamentar esta actividad administrativa, que ha venido a apoyarse también en otras normas de rango inferior.
+La aprobación de la Ley 24/2003, de 10 de julio, de la Viña y del Vino supone para la Comunidad Autónoma de Castilla y León una oportunidad excepcional para ordenar en lo preciso, mediante una Ley, la diversidad del sector vitivinícola.
+Partiendo del respeto a lo que la Disposición Final Segunda de la Ley 24/2003 determina como básico al amparo del artículo 149.1.13.ª CE, la Comunidad Autónoma de Castilla y León en el ejercicio de su competencia exclusiva en materia de agricultura así como en materia de denominaciones de origen y otras indicaciones de procedencia relativas a productos de la Comunidad, según lo dispuesto en el artículo 32.1.7.ª y 32.ª de su Estatuto de Autonomía de Castilla y León, aprueba esta Ley en la que se recoge todo lo que se considera merece ser incluido en una norma con rango de Ley de ordenación del sector vitivinícola de Castilla y León.
+Esta Ley consta de seis Títulos, que tratan sucesivamente del ámbito de aplicación y de los aspectos generales de la vitivinicultura, del sistema de protección del origen y calidad de los vinos, de los órganos de gestión y de los órganos de control de los vinos de calidad producidos en regiones determinadas, de las funciones atribuidas al Instituto Tecnológico Agrario de Castilla y León en el sector agroalimentario y del régimen sancionador.
+El Título I después de recoger el objeto de la Ley, centrado en la ordenación del sector vitivinícola de Castilla y León y hacer referencia al papel que desempeña la Administración en la promoción del sector, aborda las cuestiones vitícolas, siempre teniendo presente que es la Organización Común del Mercado vitivinícola la que ordena este sector y que la presente Ley ha de limitarse a recoger los aspectos que se consideran fundamentales y a la vez complementarios de la regulación comunitaria y nacional. De forma sucesiva se regulan el potencial vitícola, el Registro Vitícola de Castilla y León —ya en funcionamiento, pero que por constituir el instrumento indispensable para la gestión administrativa de las explotaciones vitícolas resultaba conveniente plasmar su existencia en la Ley—, el riego del viñedo —autorizándolo exclusivamente en las situaciones en que resulte necesario para lograr el objetivo de obtener productos de alta calidad con las características propias de cada zona productora y siendo la norma reguladora de cada v.c.p.r.d. la que establezca las condiciones de su aplicación y control—, el arranque de viñedo, la creación de la reserva regional, las variedades de vid autorizadas en Castilla y León y la obligatoriedad de presentar las declaraciones de cosecha por parte de los titulares de explotaciones vitícolas.
+En el Título II se establece el sistema de protección del origen y de la calidad de los vinos con diferentes niveles. De ahí resultan las distintas categorías de vinos: los de mesa, los de la Tierra de Castilla y León, los de calidad con indicación geográfica, vinos con denominación de origen, con denominación de origen calificada y vinos de pagos. Asimismo, se recoge la posibilidad de destinar la uva a otro nivel de protección, siempre que las uvas utilizadas y el vino obtenido cumplan los requisitos establecidos. A lo que se añade un régimen de protección de los nombres y marcas utilizados en la comercialización de los vinos de calidad que no trata de regular los efectos jurídicos sobre los signos distintivos de la producción o comercio sino que busca eliminar el riesgo de confusión en los consumidores atendiendo a su interés general ya que como destinatarios finales de un producto no pueden ser inducidos a error en el mercado de forma que se garantiza la calidad del vino que lleva la marca con un nivel de protección, permitiéndole distinguirlo sin confusión posible de aquellos que tienen otra procedencia.
+Se establece el procedimiento para reconocer y extinguir un nivel de protección. El reconocimiento de cualquiera de estos niveles de protección se puede extinguir en caso de incumplimiento de su normativa reguladora.
+En el Título III se establece el régimen jurídico de los órganos de gestión de los vinos de calidad con indicación geográfica, de los vinos de calidad producidos en regiones determinadas que en el caso de vinos con denominación de origen y denominación de origen calificada recibirán el nombre de Consejos Reguladores y de los órganos de gestión específicos de los vinos de pagos.
+Estos órganos de gestión se configuran en el primer caso como asociaciones profesionales o empresariales sometidas a derecho privado, en el segundo supuesto como corporaciones de derecho público en las que se encuentran representados de forma paritaria los viticultores y las bodegas inscritas en los correspondientes registros. En cuanto a los órganos de gestión específicos de los vinos de pagos serán corporaciones de derecho público con las especialidades que implica el reconocimiento de este nivel de protección. Los órganos de gestión pueden adoptar sus acuerdos por mayoría simple o cualificada en virtud de su contenido, y para el cumplimiento correcto de sus fines y funciones cuenta con unos recursos económicos propios. Sus actividades de gestión están sometidas a auditorías periódicas.
+El Título IV se dedica al régimen jurídico de los órganos de control, diferenciando, como en el caso de los órganos de gestión, según se trate de llevar a cabo el control de los vinos de calidad con indicación geográfica o del resto de vinos de calidad producidos en regiones determinadas. Serán competentes para efectuar dicho control tanto órganos de naturaleza pública adscritos al órgano de gestión que cumplan ciertos requisitos como las entidades de certificación de acuerdo con la norma UNE-EN 45011 o el propio Instituto Tecnológico Agrario de Castilla y León.
+Las funciones que el Instituto Tecnológico Agrario de Castilla y León desempeña en materia vitivinícola y agroalimentaria se recogen en el Título V de la Ley. Por lo que se refiere a la vitivinicultura, estas funciones se pueden dividir en tres grupos: las relacionadas con el reconocimiento y extinción de los distintos niveles de protección, su promoción y coordinación, las que desempeña en relación a los órganos de gestión y a los órganos de control. No obstante, la presente Ley es una oportunidad adecuada para recoger las actuaciones que en materia agroalimentaria se le atribuyen al Instituto en la Ley 7/2002, de 3 de mayo, de creación de este Ente.
+Finalmente, en el Título VI se regula el régimen sancionador aplicable a las infracciones administrativas en las materias objeto de la presente Ley, que necesariamente debe establecerse en una norma de rango legal en cumplimiento del principio de legalidad recogido en la Constitución.
+En la disposición adicional de la Ley se fijan las bases a las que ha de ajustarse la celebración del primer proceso electoral para la constitución de los Consejos Reguladores de las cinco denominaciones de origen existentes en la región en el momento de publicarse la Ley, unos Consejos Reguladores que continuarán desempeñando las funciones que el ordenamiento jurídico atribuía a sus antecesores, entre las que destaca de forma especial, la adaptación de los actuales reglamentos de las Denominaciones de Origen a lo dispuesto en la presente Ley y en el Reglamento que la desarrolle tal como señala la disposición transitoria primera.
+Por último, en la disposición final primera se faculta a la Junta de Castilla y León para aprobar el Reglamento de desarrollo de la presente Ley.
+
+## TÍTULO I
+
+Ámbito de aplicación y aspectos generales de la vitivinicultura
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. Es objeto de esta Ley la ordenación del sector vitivinícola de Castilla y León, en el marco de la normativa de la Unión Europea y de la estatal de carácter básico. Los preceptos referidos al viñedo serán de aplicación únicamente al viñedo destinado a la producción de uva de vinificación y a la multiplicación del material vegetal de vid.
+2. La Ley regula los niveles diferenciados del origen y la calidad de los vinos, así como el sistema de protección de las denominaciones y menciones que legalmente les están reservados, en defensa de los productores y consumidores, frente a su uso indebido. Asimismo, la Ley regula los órganos de gestión y los órganos de control de los vinos de calidad producidos en regiones determinadas.
+3. También se incluye en el objeto de esta Ley el régimen sancionador de las infracciones administrativas en las materias a las que se refiere el apartado anterior.
+
+### Artículo 2
+
+Artículo 2. Promoción.
+1. La Administración de la Comunidad Autónoma podrá financiar campañas de información, difusión y promoción del viñedo, del vino y de los mostos de uva, en el marco de la legislación de la Unión Europea y de acuerdo con el ordenamiento jurídico nacional vigente y en particular con la normativa que prohíbe a los menores de edad el consumo de bebidas alcohólicas.
+2. Los criterios orientativos que deberán seguirse en las campañas financiadas con fondos públicos serán los siguientes:
+a) Recomendar el consumo moderado y responsable del vino.
+b) Informar y difundir los beneficios del vino como alimento dentro de la dieta mediterránea.
+c) Fomentar el desarrollo sostenible del cultivo de la vid, favoreciendo el respeto del medio ambiente así como la fijación de la población en el medio rural.
+d) Destacar los aspectos históricos, tradicionales y culturales de los vinos de Castilla y León; en particular, las peculiaridades específicas de suelo y clima que influyen en ellos.
+e) Impulsar el conocimiento de los vinos de Castilla y León en los Estados miembros de la Unión Europea y en terceros países, con el objeto de lograr mayor presencia en sus mercados.
+f) Informar y difundir la calidad y los beneficios de los mostos y zumos de uva.
+3. La Administración de la Comunidad Autónoma promoverá una política de fomento de proyectos y programas de investigación y desarrollo en el sector vitivinícola.
+
+### Artículo 3
+
+Artículo 3. Regulación del potencial vitícola.
+Con carácter general la regulación del potencial de producción vitícola de Castilla y León será establecida en las correspondientes disposiciones normativas de la Consejería de Agricultura y Ganadería en el marco de la Unión Europea y de la normativa estatal básica, teniendo en cuenta los siguientes criterios:
+a) Plantaciones, derechos de replantación y autorizaciones: se establecerá el régimen de autorizaciones de nuevas plantaciones y replantaciones de viñedo y se podrá distribuir la superficie de las nuevas plantaciones entre las zonas vitícolas de Castilla y León de acuerdo con criterios objetivos, teniendo en cuenta la adaptación al mercado de los vinos de calidad producidos en regiones determinadas y de los Vinos de la Tierra de Castilla y León, así como el equilibrio de la economía vitícola regional.
+b) Derechos de plantación y sus autorizaciones: se establecerá el régimen de los derechos de plantación y de las transferencias de derechos de replantación entre particulares, en el marco de la normativa comunitaria, velando para que no se produzcan desequilibrios comarcales en la ordenación territorial del sector vitivinícola.
+La transferencia de derechos de replantación para ser ejercidos fuera de la Comunidad Autónoma de Castilla y León requerirá la certificación previa de la existencia y disponibilidad de tales derechos por parte de la Consejería de Agricultura y Ganadería. Para evitar que puedan producirse desequilibrios en la ordenación territorial del sector vitícola de Castilla y León, la Consejería de Agricultura y Ganadería podrá ejercer, en el marco de la normativa nacional de carácter básico, el derecho de tanteo sobre el precio del derecho de replantación que le señale el solicitante y hacer uso del derecho de retracto por el precio que efectivamente se convenga para la compraventa del derecho de replantación en el correspondiente contrato, en la forma y condiciones que, en su caso, establezcan sus propias disposiciones normativas. En estos supuestos, el pago del precio podrá ser realizado hasta el fin del primer trimestre del siguiente ejercicio económico.
+La transferencia de estos derechos para ser ejercidos fuera de la Comunidad Autónoma podrá sufrir una detracción de hasta un diez por ciento del conjunto de los mismos, que pasarán a ser de titularidad de la Comunidad Autónoma.
+c) Reposición de marras: Durante los cinco primeros años de la plantación, la reposición de marras no tendrá en ningún caso la consideración de replantación. En plantaciones de más de cinco años, sólo se podrá reponer anualmente un máximo del cinco por ciento del número de cepas útiles existentes en cada parcela vitícola. La reposición de un porcentaje superior requerirá la autorización previa de la Consejería de Agricultura y Ganadería, que sólo podrá concederla en casos de daños excepcionales debidamente acreditados.
+
+### Artículo 4
+
+Artículo 4. Registro Vitícola de Castilla y León.
+1. El Registro Vitícola de Castilla y León es el instrumento técnico-administrativo indispensable para el conocimiento real de las parcelas vitícolas y constituye la base de datos necesaria para la gestión administrativa de las explotaciones vitícolas.
+Tiene carácter único, está adscrito a la Consejería de Agricultura y Ganadería y compuesto por toda la información sobre las explotaciones vitícolas de la Comunidad Autónoma.
+2. En el Registro Vitícola se inscribirán todas las parcelas cultivadas de viñedo, los datos referidos a su superficie y localización, la identificación de sus titulares, sus características agronómicas y el destino de su producción.
+Asimismo se inscribirán los derechos de plantación autorizados dentro del territorio de Castilla y León.
+3. Con carácter general, los datos contenidos en el Registro Vitícola serán públicos, sin perjuicio del cumplimiento de la normativa vigente en materia de protección de datos de carácter personal.
+Por medios informáticos se podrá acceder a los datos sobre identificación, localización y características técnicas de cualquier parcela vitícola ubicada en el territorio de Castilla y León, así como a las informaciones de carácter estadístico sobre el potencial regional de producción vitícola que pueda elaborar la Consejería de Agricultura y Ganadería.
+
+### Artículo 5
+
+Artículo 5. Riego del viñedo en los v.c.p.r.d.
+(Derogado).
+Se deroga por la disposición derogatoria única.a) de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#ddunica.
+
+### Artículo 6
+
+Artículo 6. Arranque de viñedos.
+1. La obligación de arrancar el viñedo, por aplicación de la legislación vigente, corresponde al propietario de la parcela y será acordada por el órgano competente de la Consejería de Agricultura y Ganadería previa la tramitación del correspondiente procedimiento administrativo.
+2. En el caso de incumplimiento de la obligación de arranque de viñedos, la Consejería de Agricultura y Ganadería podrá imponer multas coercitivas con una periodicidad de seis meses, hasta el cumplimiento total del arranque y su importe será de 3.000 euros por hectárea, o ejecutar subsidiariamente el arranque a costa del obligado.
+3. Deberán ser arrancadas las plantaciones destinadas a la producción de vino realizadas con variedades de vid no clasificadas de acuerdo con la legislación básica de la Viña y del Vino. Se exceptúan aquellos casos contemplados en la normativa comunitaria.
+4. Cuando se demuestre fehacientemente que una superficie de viñedo no ha sido cultivada en las tres últimas campañas, la Consejería de Agricultura y Ganadería podrá acordar el arranque de dicha superficie de viñedo e incorporará, en su caso, a su reserva regional los derechos derivados del mismo.
+
+### Artículo 7
+
+Artículo 7. Reserva Regional de Castilla y León.
+1. Se crea la reserva regional de derechos de plantación de Castilla y León con el objeto de proteger y gestionar el potencial de producción vitícola de esta Comunidad Autónoma, considerando su estructura productiva y social.
+2. La reserva regional estará compuesta por el conjunto de derechos de plantación de viñedo de los que sea titular en cada momento la Comunidad Autónoma de Castilla y León y que figuren inscritos a su nombre en el Registro vitícola.
+3. El funcionamiento y la gestión administrativa de dicha reserva serán regulados por la Consejería de Agricultura y Ganadería dando participación a las organizaciones representativas del sector e incluyendo criterios sociales.
+
+### Artículo 8
+
+Artículo 8. Variedades de vid en Castilla y León.
+1. Las variedades de vid utilizadas en las plantaciones de viñedo deberán estar entre las variedades autorizadas y recomendadas por la Consejería de Agricultura y Ganadería, dentro de las modalidades establecidas por el órgano estatal competente, salvo en el caso de plantaciones para experimentación vitícola y cultivo de viñas madres de injertos.
+2. Los titulares de las plantaciones que se efectúen en la Comunidad Autónoma de Castilla y León dentro del ámbito geográfico de los vinos de calidad producidos en regiones determinadas y que pretendan comercializar su producción al amparo de éste, deberán inscribirse junto con sus plantaciones en el correspondiente registro de su órgano de gestión y utilizar las variedades autorizadas y recomendadas en su normativa reguladora.
+3. Quedan prohibidas la plantación, la sustitución de marras, el injerto in situ y el sobreinjerto de variedades de uva no previstas en la relación de variedades autorizadas y recomendadas de Castilla y León. Estas restricciones no serán de aplicación a las viñas utilizadas en investigación y experimentos científicos ni a las contempladas en la legislación vigente.
+
+### Artículo 9
+
+Artículo 9. Declaraciones de cosecha.
+Los titulares de explotaciones vitícolas estarán obligados a presentar a la Consejería de Agricultura y Ganadería en el plazo que establezca la normativa reguladora la declaración de cosecha de uva, diferenciando según el destino del producto entre uva destinada a la producción de los vinos de calidad producidos en regiones determinadas, vinos de la Tierra de Castilla y León, vinos de mesa, o, en su caso, otros destinos.
+La Consejería de Agricultura y Ganadería podrá exonerar de la obligación de presentar declaración a determinados productores, en el marco de la normativa comunitaria y, en su caso, nacional vigente.
+
+## TÍTULO II
+
+Sistema de protección del origen y la calidad de los vinos
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 10
+
+Artículo 10. Principios generales.
+El sistema de protección del origen y la calidad de los vinos se basará en los siguientes principios:
+a) Asegurar la calidad y mantener la diversidad de los vinos.
+b) Proporcionar a los operadores condiciones de competencia leal.
+c) Garantizar la protección de los consumidores y el cumplimiento del principio general de veracidad y demostrabilidad de la información que figure en el etiquetado.
+d) Permitir, con carácter general, la progresión de los vinos en diferentes niveles con un grado de requisitos creciente, de modo que cada nivel implique mayores exigencias que el inmediatamente inferior.
+e) Contar con un sistema para el control previsto en esta Ley, realizado por un organismo público o privado.
+
+### Artículo 11
+
+Artículo 11. Niveles del sistema.
+1. Según el nivel de requisitos que cumplan y, en su caso, de conformidad con las exigencias que se establezcan reglamentariamente, los vinos elaborados en Castilla y León podrán acogerse a alguno de los siguientes niveles:
+a) Vinos con indicación geográfica protegida:
+– Vino de la Tierra de Castilla y León.
+b) Vinos con denominación de origen protegida:
+– Vino de calidad con indicación geográfica.
+– Vino con denominación de origen.
+– Vino con denominación de origen calificada.
+– Vino de pago.
+2. Los operadores podrán decidir el nivel de protección al que se acogen sus vinos, siempre que estos cumplan los requisitos establecidos para cada nivel de protección en la legislación comunitaria, en la legislación nacional básica de la Viña y del Vino, en la presente ley y en las normas complementarias establecidas reglamentariamente.
+Se modifica por la disposición final 1.1 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 12
+
+Artículo 12. Superposición de niveles.
+1. Una misma parcela de viñedo sólo podrá proporcionar uvas para la elaboración de vinos con destino a un único nivel de protección por campaña. Las uvas utilizadas y el vino obtenido deberán cumplir los requisitos establecidos para el nivel elegido, incluido el rendimiento máximo de cosecha por hectárea asignado a dicho nivel.
+2. En el reglamento del nivel de protección se establecerá el procedimiento que deberá seguir el viticultor para comunicar al órgano de gestión que la producción de uva de parcelas inscritas en ese nivel va a ser destinada a la elaboración de vino de un nivel de protección distinto.
+3. La totalidad de la uva procedente de las parcelas, cuya producción tenga un rendimiento que exceda de los rendimientos máximos establecidos para un nivel de protección, será destinada a la elaboración de vino acogido a otro nivel de protección para el que se permitan rendimientos superiores, o en su defecto, a otros usos.
+
+### Artículo 13
+
+Artículo 13. Protección de nombres geográficos y uso de nombres y marcas comerciales.
+1. La protección de las denominaciones geográficas de calidad se extiende al nombre geográfico de la denominación, así como, desde la producción o elaboración a todas las fases de la comercialización de los productos, incluyendo la presentación, etiquetado, publicidad y documentación comercial, e implica la prohibición de:
+a) Toda utilización comercial, directa o indirecta, de una denominación geográfica para productos no amparados por la figura de calidad, en la medida en que sean comparables a los productos protegidos bajo dicha denominación o en la medida en que, al usar la denominación, se aprovechen de la reputación o renombre de la denominación geográfica.
+b) Toda usurpación, uso indebido, imitación o evocación, incluso cuando se indique el origen verdadero del producto y aunque la denominación geográfica se traduzca o vaya acompañada de una expresión como “estilo”, “tipo”, “método”, “producido como”, “imitación”, “sabor”, “parecido” u otros análogos.
+c) Cualquier otro tipo de indicación falsa o falaz en cuanto a la procedencia, el origen, la naturaleza o las características esenciales de los productos, en el envase o en el embalaje, en la publicidad o en los documentos relativos a los productos de que se trate, así como la utilización de envases que por sus características puedan crear una impresión errónea acerca de su origen.
+d) Cualquier otra práctica que pueda inducir a error a los consumidores sobre el auténtico origen del producto.
+2. Sin perjuicio de la protección del nombre geográfico a que se refiere el apartado anterior, el uso de las marcas y nombres comerciales se regirá por lo dispuesto en la legislación estatal en la materia, no siendo admisibles más limitaciones al derecho de propiedad industrial que comportan que las previstas en la citada legislación. No obstante, en aplicación de lo establecido en la letra e) del apartado 2 del artículo 26 de la presente ley, el órgano de gestión podrá exigir que, en el etiquetado de los vinos amparados, se introduzcan cuantas menciones garanticen la clara identificación del origen del vino, a fin de evitar cualquier confusión para los consumidores.
+Se modifica por la disposición final 1.2 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera
+
+## CAPÍTULO II
+
+Niveles del sistema: requisitos
+
+### Artículo 14
+
+Artículo 14. Vinos de la Tierra de Castilla y León.
+El vino de mesa podrá utilizar la mención Vino de la Tierra de Castilla y León siempre que, además de los exigidos en la legislación básica de la Viña y del Vino, cumpla los siguientes requisitos:
+a) Que sea elaborado con uvas procedentes en su totalidad de plantaciones de vid inscritas en el Registro Vitícola de Castilla y León.
+b) Que su elaboración se realice en bodegas ubicadas en Castilla y León.
+c) Que esté sometido a un sistema de control.
+Se modifica la letra b) por la disposición final 1.3 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 15
+
+Artículo 15. Vinos de calidad con indicación geográfica.
+Se entiende por vino de calidad con indicación geográfica el que cumpla los siguientes requisitos:
+a) Que sea producido, elaborado y envasado en una comarca, localidad, lugar u otro ámbito geográfico de Castilla y León y con uvas procedentes en su totalidad del mismo territorio.
+b) Que su calidad, reputación o características se deban al medio geográfico, al factor humano o a ambos, en lo que se refiere a la producción de la uva, a la elaboración del vino o a su envejecimiento.
+c) Que cuente con un órgano de gestión.
+d) Que esté sometido a un sistema de control.
+
+### Artículo 16
+
+Artículo 16. Vinos con denominación de origen.
+Se entiende por denominación de origen el nombre de un ámbito geográfico de Castilla y León, incluyendo el de la propia región, que haya sido reconocido administrativamente para designar vinos que cumplan los siguientes requisitos:
+a) Que las uvas procedan exclusivamente de terrenos de especial aptitud para el cultivo de la vid dentro de la zona delimitada.
+b) Que sean producidos, elaborados y envasados en dicho ámbito geográfico.
+c) Que su calidad y características se deban fundamental o exclusivamente al medio geográfico que incluye los factores naturales y humanos.
+d) Que disfruten de un elevado prestigio en el tráfico comercial en atención a su origen.
+e) Que hayan sido reconocidos previamente como vinos de calidad con indicación geográfica con una antelación de al menos cinco años.
+f) Que cuenten con un órgano de gestión.
+g) Que estén sometidos a un sistema de control.
+
+### Artículo 17
+
+Artículo 17. Vinos con denominación de origen calificada.
+Además de los requisitos exigibles a las denominaciones de origen, las denominaciones de origen calificadas deberán cumplir los siguientes:
+a) Que hayan transcurrido, al menos, diez años desde su reconocimiento como denominación de origen.
+b) Que su órgano de control establezca y ejecute un adecuado sistema de control, cuantitativo y cualitativo, de los vinos protegidos, desde la producción hasta la salida al mercado, que incluya un control físico-químico y organoléptico por lotes homogéneos de volumen limitado.
+c) Que en las bodegas inscritas, que habrán de ser independientes y separadas de otras bodegas, al menos por una vía pública o locales no inscritos, solamente tenga entrada uva procedente de viñedos inscritos o mostos o vinos procedentes de otras bodegas también inscritas en la misma denominación de origen calificada, y que en ellas se elabore o embotelle exclusivamente vino con derecho a la denominación de origen calificada o, en su caso, vinos de pagos calificados ubicados en su territorio.
+Podrán coexistir en una misma bodega, no obstante, vinos tranquilos con vinos espumosos, siempre que estén amparados por sus correspondientes denominaciones de origen.
+d) Que dentro de su zona de producción estén delimitados cartográficamente, por cada término municipal, los terrenos que se consideren aptos para producir vinos con derecho a la denominación de origen calificada.
+
+### Artículo 18
+
+Artículo 18. Vinos de pagos.
+1. Se entiende por «pago» el paraje o sitio rural con continuidad territorial y características edáficas uniformes y de microclima propias que lo diferencian y distinguen de otros de su entorno, conocido con un nombre vinculado de forma tradicional y notoria al cultivo de los viñedos de los que se obtienen vinos con rasgos y cualidades singulares y cuya extensión máxima no podrá ser igual o superior a la de ninguno de los términos municipales en cuyo territorio o territorios se ubique.
+Reglamentariamente se establecerán las condiciones que determinen la vinculación notoria con el cultivo de los viñedos, incluyendo en todo caso que el nombre del pago venga siendo utilizado de forma habitual en el mercado para identificar los vinos obtenidos en aquél durante un periodo mínimo de cinco años.
+2. Los vinos de pagos serán elaborados y embotellados en bodegas situadas dentro del pago por las personas físicas o jurídicas que, por sí mismas o por sus socios, ostenten la titularidad de los viñedos ubicados en el pago. Con carácter excepcional, las bodegas podrán estar ubicadas en la proximidad del pago y, en todo caso, deberán situarse en alguno de los términos municipales por los cuales se extienda el vino de pago o en los colindantes, en los supuestos que reglamentariamente se establezcan.
+Cuando un operador venga utilizando el nombre del pago que vaya a ser objeto de reconocimiento como nombre comercial o marca en la comercialización de sus vinos, el reconocimiento de ese vino de pago estará condicionado a que dicho operador autorice expresamente su utilización para la denominación de ese nivel de protección.
+3. Toda la uva que se destine al vino de pago deberá proceder de viñedos ubicados en el pago determinado y el vino deberá elaborarse, almacenarse y, en su caso, criarse de forma separada de otros vinos.
+4. En la elaboración de los vinos de pagos se implantará un sistema de calidad integral, que se aplicará desde la producción de la uva hasta la puesta en el mercado de los vinos. Este sistema deberá cumplir los requisitos que reglamentariamente se establezcan y que como mínimo serán los recogidos en la legislación básica de la Viña y del Vino.
+5. Los vinos de pagos deberán contar con una norma reguladora específica y con un órgano de gestión de conformidad con el título III de esta ley. No será necesaria la constitución de un órgano de gestión específico si el número de operadores es inferior a tres.
+6. Con carácter general, el reconocimiento del nivel de protección vino de pagos tendrá lugar si el pago se halla incluido en la zona de producción amparada por un vino de calidad con indicación geográfica, por una denominación de origen o por una denominación de origen calificada, debiendo permanecer inscritas las parcelas y la bodega o bodegas en los registros de esos niveles de protección. No obstante, se podrá reconocer el nivel de protección vino de pagos cuando dicho pago no esté incluido en una zona de producción amparada por los niveles de protección señalados si, además de cumplir lo establecido en los apartados 1, 2 y 4 de este artículo, se cumplen los siguientes requisitos:
+a. Que tengan una norma reguladora y un órgano de gestión específico. No será necesario la constitución de un órgano de gestión específico si el número de operadores es igual o inferior a tres.
+b. Que cuenten con un órgano de control y certificación autorizado conforme a lo dispuesto en el apartado 2 del artículo 37.
+c. Cualquier otro que reglamentariamente se establezca.
+7. Los vinos de pagos se identificarán mediante la mención «vino de pago de» seguida del nombre del pago para el que hayan sido reconocidos. En caso de que la totalidad del pago se encuentre incluida en el ámbito territorial de una denominación de origen calificada, podrá recibir el nombre de «vino de pago calificado» y los vinos producidos en dicho ámbito territorial se identificarán mediante la mención «vino de pago calificado de» seguida del nombre del pago para el que hayan sido reconocidos, siempre que se acredite el cumplimiento de los requisitos exigidos a los vinos de la denominación de origen calificada y se encuentren inscritos en ésta.
+8. Con el fin de evitar confusión al consumidor, cualquier identificación de un vino con el término ‘’pago’’, incluido en una marca registrada con posterioridad a la entrada en vigor de esta Ley y que se obtenga de una zona no reconocida con el nivel de protección vino de pago, deberá indicar en la etiqueta ‘’no reconocido como vino de pago’’.
+Si la identificación del vino con el término ‘’pago’’ y que se obtenga de una zona no reconocida con el nivel de protección vino de pago aparece incluido en una marca registrada con anterioridad a la entrada en vigor de esta Ley, deberá indicar en la etiqueta ‘’marca registrada con anterioridad al 7 de julio de 2005’’.
+9. Cuando el vino de pago esté incluido en la zona de producción amparada por un vino calidad con indicación geográfica, por una denominación de origen o por una denominación de origen calificada, las parcelas y la bodega o bodegas del vino de pago deberán permanecer inscritas en los registros del nivel de protección de ámbito territorial mayor.
+Se modifican los apartados 5 y 8 se añade el 9 por la disposición final 12.1 a 3 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica el apartado 6 por la disposición final 1.4 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+ Se modifica el apartado 8 por la disposición final 10 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1183
+
+## CAPÍTULO III
+
+Reconocimiento y extinción de Denominaciones de Origen Protegidas
+Se modifica por la disposición final 1.5 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 19
+
+Artículo 19. Solicitudes de reconocimiento y procedimiento de oposición.
+1. Toda organización, cualquiera que sea su forma jurídica o su composición, de viticultores y elaboradores de vino o, en casos excepcionales, conforme a lo dispuesto en el apartado 1 del artículo 118 sexies del Reglamento (CE) n.º 1234/2007 del Consejo, de 22 de octubre de 2007, por el que se crea una organización común de mercados agrícolas y se establecen disposiciones específicas para determinados productos agrícolas (Reglamento único para las OCM), las personas físicas o jurídicas podrán solicitar el reconocimiento o, en su caso, modificación de una Denominación de Origen Protegida, de acuerdo con el procedimiento que reglamentariamente se establezca.
+2. Desde la publicación de la solicitud de reconocimiento prevista en el apartado anterior y de acuerdo con el procedimiento que reglamentariamente se determine, cualquier persona física o jurídica que esté establecida o resida legalmente en España que se considere afectada en sus legítimos derechos o intereses como consecuencia del reconocimiento o, en su caso, modificación de la Denominación de Origen Protegida, podrá formular una declaración de oposición a dicho reconocimiento.
+Se modifica por la disposición final 1.5 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 20
+
+Artículo 20. Extinción del reconocimiento de una Denominación de Origen Protegida.
+De acuerdo con el procedimiento que reglamentariamente se establezca, si se considera que el cumplimiento de lo indicado en el pliego de condiciones ha dejado de estar garantizado, se podrán iniciar las actuaciones para la anulación de su reconocimiento.
+Se modifica por la disposición final 1.5 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 21
+
+Artículo 21. Tramitación.
+(Sin contenido).
+Se deja sin contenido por la disposición final 1.5 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 22
+
+Artículo 22. Resolución.
+(Sin contenido).
+Se deja sin contenido por la disposición final 1.5 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 23
+
+Artículo 23. Extinción del reconocimiento del nivel de protección.
+(Sin contenido).
+Se deja sin contenido por la disposición final 1.5 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+## TÍTULO III
+
+Órganos de gestión de los vinos de calidad producidos en regiones determinadas
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 24
+
+Artículo 24. Denominación y ámbito.
+1. La gestión de cada vino de calidad con indicación geográfica, denominación de origen, denominación de origen calificada y, en su caso, vinos de pagos, será realizada por un órgano de gestión, de acuerdo con lo que se establece en el presente Capítulo.
+Los órganos de gestión de los vinos con denominación de origen y denominación de origen calificada recibirán el nombre de Consejos Reguladores.
+2. Un mismo órgano podrá gestionar dos o más vinos de calidad con indicación geográfica, denominación de origen, denominación de origen calificada y/o vinos de pagos.
+3. Cuando un pago se encuentre ubicado dentro de la zona protegida por un vino de calidad con indicación geográfica, por una denominación de origen o por una denominación de origen calificada, el órgano de gestión del vino de pago será el mismo que el del vino de calidad con indicación geográfica o el Consejo Regulador de aquella. Reglamentariamente se determinará su representación en el órgano de gestión.
+Se modifica el apartado 2 por la disposición final 1.6 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 25
+
+Artículo 25. Naturaleza y régimen jurídico.
+1. Los órganos de gestión tendrán personalidad jurídica propia, autonomía económica, plena capacidad de obrar para el cumplimiento de sus funciones, actuarán sin ánimo de lucro y en sus órganos de dirección estarán representados de forma paritaria los viticultores y las bodegas inscritas en los correspondientes registros en la forma que determina la legislación vigente, la presente Ley y lo que se especifique reglamentariamente.
+2. Los órganos de gestión de los vinos de calidad con indicación geográfica serán asociaciones profesionales o empresariales legalmente constituidas cuya actuación se someterá al derecho privado. No obstante, los actos dictados en el ejercicio de las funciones a las que se refieren las letras d), f) y h) del apartado 2 del artículo siguiente podrán ser objeto de impugnación en vía administrativa ante el órgano competente de la Consejería de Agricultura y Ganadería cuya resolución pondrá fin a la vía administrativa.
+3. Los órganos de gestión de las denominaciones de origen y de las denominaciones de origen calificadas serán corporaciones de derecho público cuya actuación se someterá al derecho privado, excepto en los supuestos en que ejerzan potestades administrativas, en los que quedarán sujetos al derecho administrativo; en tal caso, contra sus actos podrá interponerse recurso de alzada ante la consejería competente en materia agraria.
+Cuando los órganos de gestión tengan delegadas tareas de control, y cumplan con lo establecido en el artículo 118 septdecies del Reglamento (CE) n.º 1234/2007, no podrá interponerse recurso de alzada ante la consejería contra las decisiones tomadas relativas al cumplimiento por parte de los operadores de los establecido en el pliego de condiciones.
+4. Los órganos de gestión podrán contratar en régimen laboral el personal necesario para su funcionamiento, que en ningún caso tendrá la consideración de personal al servicio de la Administración de la Comunidad de Castilla y León.
+5. La autorización de los órganos de gestión corresponde al Consejero de Agricultura y Ganadería.
+Se modifica el apartado 3 por la disposición final 1.7 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 26
+
+Artículo 26. Fines y funciones.
+1. Son fines del órgano de gestión de los v.c.p.r.d. la representación de los intereses económicos y sectoriales de sus integrantes, en particular de los minoritarios; la defensa, garantía y promoción tanto de los vinos amparados como de la propia denominación, así como la investigación y desarrollo del mercado.
+2. Para el cumplimiento de estos fines, el órgano de gestión desempeñará las siguientes funciones:
+a) Proponer el Reglamento del v.c.p.r.d. y sus posibles modificaciones.
+b) Orientar la producción y la calidad, y promocionar e informar a los consumidores sobre el v.c.p.r.d. y, en particular, sobre sus características específicas de calidad.
+c) Velar por el cumplimiento del Reglamento del v.c.p.r.d., debiendo denunciar cualquier uso incorrecto ante los órganos administrativos y jurisdiccionales competentes.
+d) Establecer, en el marco del Reglamento del v.c.p.r.d., para cada campaña, según criterios de defensa y mejora de la calidad y dentro de los límites fijados por el reglamento, los rendimientos, límites máximos de producción y de transformación, la forma, condiciones y control del riego, o cualquier otro aspecto de coyuntura anual que pueda influir en estos procesos.
+e) Calificar cada añada o cosecha y determinar los requisitos que deben cumplir las etiquetas de los vinos en el ámbito de sus competencias.
+f) Llevar los registros definidos en el Reglamento del v.c.p.r.d.
+g) Elaborar estadísticas de producción, elaboración y comercialización de los productos amparados, para uso interno y para su difusión y general conocimiento.
+h) Gestionar los recursos económicos establecidos para su financiación.
+i) Aprobar los presupuestos de ingresos y gastos.
+j) Proponer los requisitos mínimos de control a los que debe someterse cada operador inscrito en todas y cada una de las fases de producción, elaboración y comercialización de los vinos amparados por cada v.c.p.r.d. y, en su caso, los mínimos de control para la concesión inicial y para el mantenimiento de la certificación.
+k) Colaborar con las autoridades competentes en materia de vitivinicultura y en particular en el mantenimiento del Registro Vitícola de Castilla y León así como con los órganos encargados del control.
+l) Cualquier otra que pueda desarrollar para el mejor logro de sus fines, de acuerdo con la normativa vigente.
+
+## CAPÍTULO II
+
+Estructura de los órganos de gestión
+
+## Sección 1
+
+Sección 1.ª Órganos de gestión de los vinos de calidad con indicación geográfica
+
+### Artículo 27
+
+Artículo 27. Composición y atribuciones.
+1. El órgano de gestión de los vinos de calidad con indicación geográfica contará con la siguiente estructura:
+Asamblea General.
+Junta Directiva.
+Presidente.
+Vicepresidente, en su caso.
+2. La atribución de funciones a los órganos señalados en el apartado anterior será la que fijen sus Estatutos de acuerdo con lo establecido reglamentariamente.
+
+## Sección 2
+
+Sección 2.ª Órganos de gestión del resto de los v.c.p.r.d
+
+### Artículo 28
+
+Artículo 28. Composición y atribuciones.
+1. El órgano de gestión de los v.c.p.r.d. que no sean vinos de calidad con indicación geográfica contará con la siguiente estructura:
+Pleno.
+Presidente.
+Vicepresidente, en los casos que lo contemple su reglamento.
+2. Las funciones de los órganos enumerados en el apartado anterior serán las que se determinan en los artículos siguientes.
+
+### Artículo 29
+
+Artículo 29. Presidente y Vicepresidente.
+1. El Presidente será elegido por mayoría absoluta de los vocales electos del Pleno. El resultado de la elección del Presidente se notificará al órgano competente de la Consejería de Agricultura y Ganadería, para su nombramiento por el Consejero.
+Durante el tiempo que dure el proceso de elección del Presidente, actuará como tal, ejerciendo las funciones que competen al mismo, el vocal electo o representante del vocal electo de mayor edad.
+Si en el plazo de dos meses desde la toma de posesión de los vocales no se hubiera llegado a acuerdo para la elección del Presidente, se comunicará esta circunstancia a la Consejería de Agricultura y Ganadería, cuyo titular nombrará nuevo Presidente. No obstante lo anterior, el Pleno del Consejo Regulador podrá proponer para su nombramiento un nuevo Presidente, que sustituirá al designado por la Consejería de Agricultura y Ganadería, mediante acuerdo adoptado por mayoría de dos tercios de los vocales del Pleno.
+Al Presidente le corresponden las funciones de representar al órgano de gestión, convocar, presidir y moderar las sesiones del Pleno, ejecutar sus acuerdos, y cualquier otra función que pueda serle encomendada de acuerdo con la presente Ley, sus disposiciones de desarrollo o por el reglamento de la denominación de origen protegida.
+2. El Vicepresidente será nombrado de la misma forma que el Presidente y sustituirá a éste en los casos de ausencia.
+3. Si el Presidente o el Vicepresidente son elegidos de entre los vocales, para mantener la paridad no se cubrirá su puesto de vocal; en el caso de los vinos de pagos que cuenten con un órgano de gestión específico se procederá a cubrir el puesto de vocal.
+Se modifica el apartado 1 por la disposición final 1.8 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+ Téngase en cuenta la disposición transitoria 6 de la citada ley.
+
+### Artículo 30
+
+Artículo 30. El Pleno.
+1. En el caso de las denominaciones de origen y denominaciones de origen calificadas:
+a) El Pleno estará constituido por un máximo de seis vocales en representación de los viticultores, elegidos por y entre los viticultores inscritos en el correspondiente registro, y por un máximo de seis vocales en representación de los vinicultores, elegidos por y entre los vinicultores inscritos en el correspondiente registro.
+Los operadores inscritos en uno o varios registros no podrán tener representación doble, ni por sí mismos ni por medio de algún integrante de sus órganos de administración o dirección, ni a través de otras entidades en las que, por sí o por sus socios, participen en más de un veinte por ciento.
+De darse las circunstancias anteriores, los operadores afectados deberán optar por su presentación a la elección en un único registro.
+En el supuesto contemplado en el apartado 2 del artículo 24, el Pleno estará constituido por un máximo de seis vocales en representación de los viticultores y por un máximo de seis vocales en representación de los vinicultores por cada uno de los v.c.p.r.d. que se integren en el órgano de gestión, con excepción de los vinos de pagos.
+b) El Reglamento de cada denominación de origen protegida determinará el número de vocales que corresponde a cada uno de los sectores y, en todo caso, se mantendrá la paridad entre ellos.
+Para garantizar la representatividad de todos los intereses económicos y sectoriales integrados en la denominación de origen protegida, incluidos los minoritarios y, en su caso, de los vinos de pagos reconocidos, los vocales se elegirán de cada uno de los estratos que determinará la Consejería de Agricultura y Ganadería, en función de la estructura productiva y social, en el caso de los viticultores, y en función del número de bodegas y del volumen de vino comercializado o de su valor, en el caso de las bodegas.
+No obstante, en el caso de las bodegas cooperativas que elaboren más de un veinte por ciento del vino comercializado o de su valor en su caso, la Consejería establecerá el estrato específico adecuado que garantice su representatividad. Este estrato específico estará constituido únicamente por aquellas bodegas cooperativas que por sí solas hayan alcanzado dicho porcentaje. En el caso de que ninguna bodega cooperativa individualmente alcance dicho porcentaje pero en su conjunto se alcance sumando el vino comercializado por todas las bodegas cooperativas existentes en la denominación de origen protegida, se constituirá igualmente un estrato específico para todas ellas.
+Por cada uno de los vocales se designarán uno o dos suplentes, elegidos en la misma forma que el titular.
+Todos los vocales electos serán renovados cada cinco años, pudiendo ser reelegidos.
+A las reuniones, según establezca su reglamento, podrán asistir, con voz pero sin voto, uno o dos representantes designados por la Consejería de Agricultura y Ganadería.
+c) Corresponde a la Consejería de Agricultura y Ganadería organizar los procesos de elección de los vocales, teniendo en cuenta su Reglamento y la normativa que se apruebe.
+d) Los vocales electos perderán su condición de vocal:
+– Cuando causen baja en el registro vinculado al sector por el que fue elegido.
+– Cuando durante el mandato incurran en uno de los supuestos de representación doble previsto en la letra a).
+– Cuando hubieran sido sancionados por resolución firme como consecuencia de una infracción tipificada en la presente ley como muy grave.
+En cualquiera de los casos anteriores se procederá a su sustitución por sus respectivos suplentes.
+No comportará el cese del vocal electo el hecho de que la persona que lo represente, en su caso, deje de ostentar dicha representación.
+e) El órgano de gestión comunicará a la Consejería de Agricultura y Ganadería las modificaciones posteriores que pudieran producirse en la composición del Pleno.
+2. (Derogado).
+Se deroga el apartado 2 y se modifican las letras b) y d) del apartado 1 por la disposición derogatoria única. a) y la disposición final 1.9 y 10 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#ddunica.
+
+### Artículo 31
+
+Artículo 31. Adopción de acuerdos.
+1. Los acuerdos del Pleno del órgano de gestión se adoptarán por mayoría de dos tercios del total de los miembros con derecho a voto cuando vengan referidos a las funciones señaladas en las letras a) e i) del apartado 2 del artículo 26, así como a la ubicación de la sede del órgano de gestión.
+2. El resto de acuerdos se adoptarán por mayoría simple, salvo que el reglamento del v.c.p.r.d. establezca otro tipo de mayoría, siendo necesario, en todo caso, para su validez que estén presentes la mitad más uno de los miembros del Pleno con derecho a voto.
+El Presidente sólo tendrá voto de calidad si no es elegido de entre los vocales y así lo establece su Reglamento.
+Se modifica el párrafo segundo del apartado 2 por la disposición final 1.11 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+## CAPÍTULO III
+
+Recursos económicos
+
+### Artículo 32
+
+Artículo 32. Recursos económicos de los órganos de gestión de los vinos de calidad con indicación geográfica.
+El órgano de gestión de los vinos de calidad con indicación geográfica contará con los siguientes recursos:
+a) Las cuotas que se aprueben conforme a los Estatutos de la Asociación.
+b) Las subvenciones que puedan concederle las Administraciones Públicas.
+c) Las rentas y productos de su patrimonio.
+d) Las donaciones, legados, ayudas y cualesquiera otros recursos que puedan corresponderle.
+La Administración podrá prestar a estos órganos de gestión los servicios que puedan serles útiles para el ejercicio de sus funciones, de acuerdo con la normativa específica que sea de aplicación, o en régimen de colaboración.
+
+### Artículo 33
+
+Artículo 33. Recursos económicos de los órganos de gestión del resto de los v.c.p.r.d.
+1. El órgano de gestión del resto de las DOP contará con los siguientes recursos:
+a) Los bienes que constituyan su patrimonio y los productos, rentas y ventas del mismo.
+b) Las subvenciones, legados y donativos que reciban.
+c) Las cantidades que pudieran percibirse en concepto de indemnizaciones por daños y perjuicios ocasionados a la denominación de calidad.
+d) La cantidad recaudada por cuotas u otras contribuciones económicas que puedan exigir a los operadores para financiar el coste de la prestación de servicios y de sus normas de organización y funcionamiento.
+e) Cualquier otro ingreso que proceda.
+2. El órgano de gestión establecerá en su reglamento cuotas de pertenencia y tarifas por prestación de servicios, que en el caso de encontrarse dentro del ejercicio de funciones públicas, serán autorizadas por la consejería competente en materia agraria y en los términos que por la normativa correspondiente se determinen.
+3. La Administración podrá ceder a los consejos reguladores los bienes y prestar los servicios que puedan serles útiles para el ejercicio de sus funciones, de acuerdo con la normativa específica que sea de aplicación, o en régimen de colaboración.
+Se modifica por la disposición final 12.4 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+## CAPÍTULO IV
+
+Control de su actividad
+
+### Artículo 34
+
+Artículo 34. Control de su actividad.
+Los órganos de gestión estarán sometidos a auditorías técnicas, económicas y de gestión que serán efectuadas, con una periodicidad máxima de tres años, por la Consejería de Agricultura y Ganadería bien por el Instituto Tecnológico Agrario de Castilla y León o por otros órganos de la misma, o bien por entidades privadas designadas por los anteriores.
+
+### Artículo 35
+
+Artículo 35. Incumplimiento de las obligaciones de los órganos de gestión.
+1. La Consejería de Agricultura y Ganadería directamente o a través del Instituto Tecnológico Agrario de Castilla y León podrá apercibir al órgano de gestión en caso de incumplimiento de sus obligaciones a fin de que corrija su actuación, suspendiéndole en caso contrario, previo trámite de audiencia, en el ejercicio de sus funciones por un tiempo máximo de seis meses.
+Lo anterior se entenderá siempre que dicho incumplimiento no sea constitutivo de infracción administrativa de acuerdo con la presente Ley y la norma básica estatal.
+2. La reincidencia o reiteración, la mala fe, el incumplimiento deliberado o la perturbación manifiesta del interés público conllevarán, previo trámite de audiencia, la suspensión del ejercicio de las funciones del órgano de gestión por un período entre tres y seis meses, o su suspensión definitiva y la consiguiente convocatoria de elecciones de nuevos vocales.
+3. El órgano competente de la Consejería de Agricultura y Ganadería designará una comisión gestora mientras dure la suspensión temporal o mientras no sean elegidos nuevos vocales.
+
+## TÍTULO IV
+
+Órganos de control de los vinos de calidad producidos en regiones determinadas
+
+## CAPÍTULO I
+
+Órganos y entidades competentes
+
+### Artículo 36
+
+Artículo 36. Autoridad competente y organismos de control.
+El Instituto Tecnológico Agrario de Castilla y León como autoridad competente a efectos del control del cumplimiento de las condiciones y requisitos que afectan a los operadores y a los productos para estar amparados por las denominaciones de origen protegidas e indicaciones geográficas protegidas de productos vitivinícolas de Castilla y León, podrá delegar tareas de control específicas en uno o más organismos delegados siempre que se cumpla con lo establecido en el artículo 5 del Reglamento CE n.º 882/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004 o norma que lo sustituya.
+Se modifica por la disposición final 12.5 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 37
+
+Artículo 37. Verificación del cumplimiento del pliego de condiciones.
+1. La verificación del cumplimiento del pliego de condiciones de las denominaciones de origen protegidas e indicaciones geográficas protegidas de productos vitivinícolas de Castilla y León, previamente a la comercialización del producto, corresponderá a:
+a) La autoridad competente mencionada en el artículo anterior.
+b) Uno o varios organismos delegados en el sentido del artículo 2 del Reglamento (CE) n.º 882/2004 o norma que lo sustituya, que actúen como organismos de certificación de productos y estén acreditados de acuerdo con la norma UNE-EN ISO/IEC 17065:2012 «Evaluación de conformidad. Requisitos para organismos que certifican productos, procesos y servicios», o con otra norma que resulte más pertinente para las tareas delegadas de que se trate. En el caso de que la tarea se delegue en un Consejo Regulador acreditado, no podrá interponerse recurso de alzada ante la consejería competente en materia agraria contra las decisiones tomadas por éste relativas al cumplimiento por parte de los operadores de lo establecido en el pliego de condiciones.
+2. Para la verificación del cumplimiento del pliego de condiciones de las denominaciones de origen protegidas de productos vitivinícolas de Castilla y León, la autoridad competente se podrá apoyar en los controles realizados por un órgano de control de naturaleza pública, adscrito al órgano de gestión, cuya composición y funcionamiento será autorizado por la Dirección General del Instituto Tecnológico Agrario de Castilla y León, siempre que se cumplan los siguientes requisitos:
+a) Que se encuentren adecuadamente separados los órganos de gestión de los de control y certificación.
+b) Que su actuación se realice sin dependencia jerárquica ni administrativa respecto del órgano de gestión y bajo la tutela de la Consejería de Agricultura y Ganadería.
+c) Que se garantice la independencia e imparcialidad del personal que realiza las funciones de control y su actuación se realice bajo la tutela de la autoridad competente. Este personal deberá ser habilitado por el Instituto Tecnológico Agrario de Castilla y León y su remoción deberá ser motivada para que sea informada favorablemente por este.
+d) Cualquier otro que se establezca reglamentariamente.
+Se modifica por la disposición final 12.6 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifican los apartados 1 y 2 por la disposición final 1.12 y 13 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+## CAPÍTULO II
+
+Fines y funciones
+
+### Artículo 38
+
+Artículo 38. Funciones del órgano de control de naturaleza pública.
+1. Los Consejos Reguladores podrán establecer en su norma reguladora un sistema de control interno destinado al seguimiento del cumplimiento de las obligaciones asumidas por los operadores que se acogen voluntariamente a la DOP.
+2. El control interno será llevado a cabo por el órgano de control de naturaleza pública, adscrito al órgano de gestión, que tendrá las siguientes funciones:
+a) Efectuar las inspecciones y los informes previos a la inscripción, o a su mantenimiento, de los operadores en los correspondientes registros del órgano de gestión.
+b) Controlar la producción, la procedencia, la elaboración y el producto terminado para su certificación.
+c) Controlar el uso debido de las etiquetas y contraetiquetas de acuerdo con lo establecido por el órgano de gestión.
+d) Levantar las actas de inspección, elaborar los informes, así como incoar y tramitar los expedientes sancionadores dentro de las competencias que le correspondan.
+Se modifica por la disposición final 12.7 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 39
+
+Artículo 39. Certificación de vinos de pagos dentro de vinos de calidad con indicación geográfica, denominación de origen o denominación de origen calificada.
+(Derogado).
+Se deroga por la disposición derogatoria única. a) de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#ddunica.
+
+### Artículo 40
+
+Artículo 40. Incumplimiento de las obligaciones de los órganos de control.
+La Consejería de Agricultura y Ganadería podrá apercibir al órgano de control en caso de incumplimiento de sus obligaciones, a fin de que corrija su actuación en un plazo de seis meses. Lo anterior se entenderá siempre que dicho incumplimiento no sea constitutivo de infracción administrativa de acuerdo con la presente Ley y la normativa básica estatal.
+En caso de no corregir su actuación en el plazo señalado, si se trata de un órgano de control de carácter público, la Consejería de Agricultura y Ganadería revocará la autorización. Igualmente, cuando se trate de una entidad privada, la Consejería de Agricultura y Ganadería procederá a su baja en el registro de entidades de certificación.
+
+## TÍTULO V
+
+Funciones del Instituto Tecnológico Agrario de Castilla y León
+
+### Artículo 41
+
+Artículo 41. Funciones del Instituto Tecnológico Agrario de Castilla y León.
+En el marco de lo previsto en el artículo 2 de la Ley 7/2002, de 3 de mayo, el Instituto Tecnológico Agrario de Castilla y León podrá:
+a) Realizar actuaciones en investigación, experimentación, difusión y análisis para la orientación y la mejora de la calidad en materias de viticultura, enología y en general de productos agroalimentarios.
+b) Realizar las actuaciones administrativas para el reconocimiento o extinción, en su caso, por la Consejería de Agricultura y Ganadería de los distintos niveles de protección de los vinos y en general de todas la figuras de calidad agroalimentaria.
+c) (Suprimida).
+d) Aprobar los Pliegos de Etiquetado facultativo, así como la emisión del informe sobre el Reglamento de uso de las Marcas de Garantía.
+e) Vigilar, inspeccionar y controlar los órganos de gestión así como los órganos de control de naturaleza pública previstos en esta ley, y las entidades independientes de certificación e inspección a los efectos establecidos en el artículo 118 sexdecies del Reglamento (CE) n.º 1234/2007.
+f) Vigilar, inspeccionar y controlar los Consejos Reguladores de las figuras de calidad de productos agroalimentarios, el Consejo de Agricultura Ecológica, las entidades independientes de certificación e inspección a los efectos establecidos en el artículo 36 del reglamento (UE) n.º 1151/2012, y a las Asociaciones gestoras de Marcas de Garantía, y de Artesanía Alimentaria y a los distintos gestores de Pliegos de Etiquetado facultativo.
+g) Impulsar la promoción de los Vinos de la Tierra de Castilla y León, de los v.c.p.r.d., de las figuras de calidad agroalimentaria, y de los productos agrarios y alimentarios de Castilla y León, incluida la Artesanía Alimentaria.
+h) Proponer la autorización, la modificación, o la suspensión temporal o definitiva de los órganos de gestión de los v.c.p.r.d.
+i) Llevar los registros de entidades de certificación y de entidades de inspección de Vinos de la Tierra de Castilla y León, de v.c.p.r.d. y de productos agroalimentarios de Castilla y León.
+j) Ejercer en su caso, en cuanto organismo público de control, como entidad de certificación de los v.c.p.r.d. y de las figuras de calidad de los productos agroalimentarios de Castilla y León para las que además podrá ejercer como entidad de inspección.
+k) Participar financieramente en las actuaciones de los órganos de gestión de los v.c.p.r.d., del equivalente de Vinos de la Tierra de Castilla y León, de los Consejos Reguladores de productos agroalimentarios, de las asociaciones promotoras y gestoras de figuras de calidad incluidas las Marcas de Garantía y la Artesanía Alimentaria correspondientes a la Comunidad Autónoma de Castilla y León.
+l) Organizar e impartir cursos de difusión, especialización y de reciclaje de técnicos y profesionales en materia de viticultura, enología y productos agroalimentarios, así como colaborar en estas materias con las universidades y otros centros de investigación.
+m) Actuar como órgano de coordinación, y asesoramiento de los Vinos de la Tierra de Castilla y León, de los v.c.p.r.d. y de las figuras de calidad de productos agroalimentarios de Castilla y León.
+n) Colaborar con los sectores económicos y sociales en las materias relacionadas con la calidad agroalimentaria.
+o) Realizar las actuaciones que, en materia agroalimentaria, determine la Consejería de Agricultura y Ganadería.
+p) Incoar y tramitar expedientes sancionadores relacionados con las materias a que se refieren las letras anteriores.
+Se suprime la letra c) por la disposición final 12.8 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifican las letras e) y f) por la disposición final 1.14 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+## TÍTULO VI
+
+Régimen sancionador
+
+## CAPÍTULO I
+
+Normas generales
+
+### Artículo 42
+
+Artículo 42. Obligaciones de los interesados.
+1. Las personas físicas o jurídicas, asociaciones o entidades incluidas en el ámbito de aplicación de esta ley, estarán obligadas a cumplir lo establecido en esta ley y en su normativa de desarrollo. Estarán obligadas, igualmente, a consentir la realización de las visitas de inspección y a conservar, en condiciones que permita su comprobación, por un tiempo mínimo de cuatro años, la documentación relativa a las obligaciones que se establecen en el apartado 2 de este artículo.
+2. Asimismo estarán obligadas, a requerimiento de los órganos competentes o de los inspectores:
+a) A suministrar toda clase de información sobre instalaciones, productos, servicios o sistemas de producción o elaboración, permitiendo la directa comprobación de los inspectores.
+b) A exhibir la documentación que sirva de justificación de las transacciones efectuadas, así como facilitar que se obtenga copia o reproducción de la referida documentación.
+c) A permitir que se practique la oportuna toma de muestras o cualquier otro tipo de control o ensayo sobre sus explotaciones o sobre los productos o mercancías que elaboren, distribuyan o comercialicen, y sobre las materias primas, aditivos o materiales que utilicen.
+Se modifica por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+ Se modifica por la disposición final 7 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+
+### Artículo 43
+
+Artículo 43. Facultades de los inspectores y veedores.
+En el ejercicio de sus funciones de inspección y control en materia de vitivinicultura, los inspectores de las Administraciones Públicas y los veedores de los órganos de control de carácter público, habilitados por la consejería competente en materia agraria, tendrán la consideración de agentes de la autoridad, pudiendo solicitar el apoyo necesario de cualquier otra autoridad, así como de las fuerzas y cuerpos de seguridad en los términos previstos por la normativa del Estado.
+Se modifica por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 44
+
+Artículo 44. Medidas cautelares.
+1. Los inspectores podrán inmovilizar cautelarmente las mercancías, productos, envases, etiquetas, y demás objetos relacionados presuntamente con alguna de las infracciones previstas en esta Ley, haciendo constar en acta tanto el objeto como los motivos de la intervención cautelar.
+2. Cuando la presunta infracción detectada fuera imputable a un organismo público o a un órgano independiente de certificación e inspección, el órgano competente para incoar el procedimiento sancionador podrá acordar, a propuesta del instructor, la suspensión cautelar del indicado organismo u órgano de control. En tal caso, la resolución que se dicte establecerá el sistema de control aplicable en tanto se sustancia el procedimiento sancionador.
+Se modifica por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 45
+
+Artículo 45. Incoación e instrucción.
+1. La competencia para incoar e instruir los procedimientos sancionadores en las materias objeto de esta ley corresponderá a los servicios territoriales de la consejería competente en materia agraria, sin perjuicio de lo dispuesto en el artículo 41, letra p) de esta ley.
+2. No obstante, la incoación e instrucción corresponderá a los órganos de control de naturaleza pública cuando el presunto infractor esté inscrito en alguno de los registros del nivel de protección correspondiente y la presunta infracción afecte al cumplimiento de su reglamento específico y a los acuerdos del Consejo Regulador.
+3. Cuando llegue a conocimiento de un órgano de gestión o de control cualquier presunta infracción en materia vitivinícola que pueda dar lugar a la incoación de un procedimiento sancionador que no sea de su competencia, de acuerdo a lo dispuesto en el apartado anterior de este artículo, deberá ponerlo inmediatamente en conocimiento de la consejería competente en materia agraria.
+Se modifica por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 46
+
+Artículo 46. Resolución.
+La resolución de los expedientes sancionadores corresponderá:
+a) Al Delegado Territorial de la Junta de Castilla y León en la provincia en que se hubiera cometido la infracción, si ésta fuera leve.
+b) Al titular de la Dirección General competente en materia de producción agropecuaria, las sanciones por infracciones graves en materia vitícola.
+c) Al titular de la Dirección General competente en materia de industrias agrarias, las sanciones por infracciones graves en materia vinícola.
+d) Al titular de la Dirección General competente en materia de Política Agraria Comunitaria, las sanciones por infracciones graves en materia de regulación del mercado vitivinícola.
+e) Al titular de la consejería competente en materia agraria, si la sanción se impone por la comisión de una infracción muy grave
+Se modifica por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+## CAPÍTULO II
+
+Infracciones y sanciones
+Se modifica por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 47
+
+Artículo 47. Infracciones
+Las infracciones previstas en esta ley se clasifican en leves, graves y muy graves.
+Se modifica por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 48
+
+Artículo 48. Infracciones leves.
+1. Se considerarán infracciones leves:
+a) La ausencia de los libros-registro, sin causa justificada, cuando fueren requeridos para su control en actos de inspección.
+b) Las inexactitudes o errores en libros-registro, en declaraciones relativas a uvas, vinos y mostos, o en documentos de acompañamiento, cuando la diferencia entre la cantidad consignada y la real no supere un quince por ciento de esta última.
+c) La falta de actualización de los libros-registro cuando no haya transcurrido más de un mes desde la fecha en que debió practicarse el primer asiento no reflejado.
+d) La presentación de declaraciones relativas a uvas, vinos y mostos fuera del plazo reglamentario.
+e) El suministro de información incorrecta en las solicitudes relativas a viticultura.
+f) La plantación de viñedo sin autorización en una superficie igual a la arrancada que, de acuerdo con la normativa vigente, pudiera generar un derecho de replantación.
+g) El incumplimiento de los requisitos exigidos por la normativa comunitaria, nacional o autonómica, en materia de potencial de producción para la concesión de ayudas públicas.
+h) La falta de alguna de las indicaciones obligatorias en el etiquetado o presentación de los productos, salvo lo previsto en el párrafo e) del artículo siguiente, o su expresión en forma distinta a la reglamentaria.
+i) La falta de identificación de los recipientes destinados al almacenamiento de productos a granel y de la indicación de su volumen nominal, así como de las indicaciones previstas para la identificación de su contenido, a excepción de los recipientes de menos de seiscientos litros, que se realizará de acuerdo con lo previsto en el artículo 40.3 del Reglamento (CE) 436/2009, de la Comisión, de 26 de mayo de 2009.
+j) El incumplimiento de la entrega de productos para las destilaciones obligatorias.
+k) La aplicación, en forma distinta a la legalmente establecida, de tratamientos, prácticas o procesos autorizados en la elaboración o transformación de los productos regulados en esta ley, siempre que no exista un riesgo para la salud.
+l) El incumplimiento de alguna de las condiciones establecidas en la autorización de plantaciones, salvo lo previsto en el apartado siguiente.
+m) Las plantaciones con variedades de vid o de portainjertos no clasificados, el incumplimiento de la obligación del arranque de la parcela que ha sido objeto de la concesión de un derecho de plantación anticipado, o las plantaciones nuevas de vides o de portainjertos sin autorización, cuando el infractor procediere, en un plazo inferior a dos meses desde que la consejería competente en materia agraria lo requiriera para el arranque, de la superficie afectada por la infracción.
+n) La reposición de marras que incumpla las condiciones establecidas en esta ley.
+o) El riego de la vid cuando esté prohibida dicha práctica.
+p) El suministro incompleto de la información o documentación necesaria para las funciones de inspección y control administrativo.
+q) El incumplimiento de obligaciones meramente formales que impongan las disposiciones generales vigentes en la materia regulada por esta ley; en particular, la falta de inscripción de explotaciones, empresas, mercancías o productos, en los registros de las Administraciones públicas regulados en dichas disposiciones generales, o la no comunicación de los cambios de titularidad.
+2. Además, para los operadores voluntariamente acogidos a un nivel de protección, constituirán infracciones leves:
+a) Las inexactitudes u omisiones en los datos y comprobantes que en cada caso sean precisos en los registros del nivel de protección, cuando la diferencia entre la cantidad consignada y la real no supere un cinco por ciento de esta última.
+b) No comunicar cualquier variación que afecte a los datos suministrados en el momento de la inscripción en los registros, cuando no haya transcurrido más de un mes desde que haya acabado el plazo fijado en la norma que regule el nivel de protección.
+c) Cualquier otra infracción de la norma reguladora del nivel de protección o de los acuerdos de su órgano de gestión que establezcan obligaciones adicionales a las generales de cualquier vitivinicultor en materia de declaraciones, libros-registro, documentos de acompañamiento y otros documentos de control.
+d) La ausencia de suministro o el suministro incompleto de la información o documentación requerida por el órgano de gestión del nivel de protección, incluida la solicitada con fines estadísticos y de seguimiento de la producción y comercialización.
+Se modifica por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 49
+
+Artículo 49. Infracciones graves.
+1. Se considerarán infracciones graves:
+a) La falta de libros-registro, documentos de acompañamiento o declaraciones relativas a uvas, vinos y mostos, así como los errores, inexactitudes u omisiones en ellos que afecten a las características de los productos o mercancías consignados.
+b) Las inexactitudes o errores en libros-registro, documentos de acompañamiento o declaraciones relativas a uvas, vinos y mostos cuando la diferencia entre la cantidad consignada y la real supere un quince por ciento de esta última.
+c) La falta de actualización de los libros-registro cuando haya transcurrido más de un mes desde la fecha en que debió practicarse el primer asiento no reflejado.
+d) La aportación de datos falsos en las solicitudes de ayudas y subvenciones públicas y el suministro de información falsa en las solicitudes relativas a viticultura.
+e) La omisión en la etiqueta de la razón social responsable, o la falta de etiquetas o rotulación indeleble que fueran preceptivas, o la utilización de envases o embalajes que no reúnan los requisitos exigidos por las disposiciones vigentes.
+f) La utilización en el etiquetado, presentación o publicidad de los productos, de denominaciones, indicaciones, calificaciones, expresiones o signos que no correspondan al producto o induzcan a confusión, salvo lo previsto en las letras a) y c) del apartado 2 del artículo siguiente.
+g) El incumplimiento de la entrega de productos para las destilaciones obligatorias de dos o más campañas en el período de cinco años anteriores a la inspección.
+h) La tenencia o venta de productos enológicos sin autorización.
+i) La elaboración o transformación de los productos regulados en esta ley mediante tratamientos, prácticas o procesos no autorizados, siempre que no existan riesgos para la salud, así como la adición o sustracción de sustancias que modifiquen la composición de los productos regulados con resultados fraudulentos.
+j) Las defraudaciones en la naturaleza, composición, calidad, peso o volumen o cualquier discrepancia entre las características reales de los productos de que se trate y las ofrecidas por el productor, elaborador o envasador, así como cualquier acto de naturaleza similar cuyo resultado sea el incumplimiento de las características de los productos establecidas en la legislación vigente.
+k) La tenencia de maquinaria, instalaciones o productos no autorizados para la elaboración o almacenamiento de los vinos o mostos en locales de las industrias elaboradoras o envasadoras, siempre que no entrañen riesgos para la salud.
+l) Destino de productos a usos no conformes con la normativa relativa al potencial vitícola.
+m) Las plantaciones con variedades de vid o de portainjertos no clasificados, el incumplimiento de la obligación del arranque de la parcela que ha sido objeto de la concesión de un derecho de plantación anticipado, o las plantaciones de vid o de portainjertos sin autorización, cuando el infractor no procediere, en un plazo inferior a dos meses desde que la consejería competente en materia agraria lo requiera para el arranque, de la superficie afectada por la infracción.
+n) La oposición a la toma de muestras, la dilación injustificada o la negativa a suministrar información o documentación necesaria para las funciones de inspección y control administrativo, así como la aportación de documentación o información falsa.
+o) La manipulación o disposición en cualquier forma, sin contar con la autorización del órgano competente, de mercancías intervenidas cautelarmente, cuando no resulte acreditado que entrañasen un riesgo para la salud.
+p) El traslado físico, sin autorización del órgano competente, de las mercancías intervenidas cautelarmente, siempre que no se violen los precintos ni las mercancías salgan de las instalaciones en las que fueron intervenidas.
+2. Además, para los operadores voluntariamente acogidos a un nivel de protección, constituirán infracciones graves:
+a) Las inexactitudes u omisiones en los datos y comprobantes que en cada caso sean precisos en los registros del nivel de protección correspondiente, cuando la diferencia entre la cantidad consignada y la correcta supere el porcentaje que se establezca en la normativa estatal o autonómica, según corresponda, que en ningún caso podrá ser superior al cinco por ciento de dicha diferencia.
+b) El incumplimiento de las normas específicas del nivel de protección, sobre prácticas de producción, elaboración, transformación, conservación, transporte, acondicionamiento, etiquetado, envasado y presentación.
+c) La expedición, comercialización o circulación de vinos amparados sin estar provistos de las contraetiquetas, precintas numeradas o cualquier otro medio de control establecido por la norma reguladora del nivel de protección.
+d) Efectuar operaciones de elaboración, envasado o etiquetado de vinos amparados en instalaciones no inscritas en el nivel de protección correspondiente ni autorizadas.
+e) El impago de las cuotas obligatorias establecidas, en su caso, para la financiación del órgano de gestión.
+f) Cualquier otra infracción de la norma específica del nivel de protección, o de los acuerdos de su órgano de gestión en materia de producción, elaboración o características de los vinos amparados.
+g) La elaboración y comercialización de un vino espumoso de calidad o de un vino espumoso aromático de calidad mediante la utilización de vino base procedente de instalaciones no inscritas en el nivel de protección correspondiente, así como la de un vino con Denominación de Origen Protegida o Indicación Geográfica Protegida a partir de uvas, mostos o vino procedente de viñas no inscritas en el nivel de protección correspondiente.
+h) Para las Denominaciones de Origen Calificadas, la introducción en viñas o bodegas inscritas de uva, mostos, o vinos procedentes de viñas o bodegas no inscritas.
+i) Utilizar en la elaboración de productos de un determinado nivel de protección, uva procedente de parcelas en las que los rendimientos hayan sido superiores a los autorizados.
+j) La existencia de uva, mostos o vinos en bodega inscrita sin la preceptiva documentación que ampare su origen como producto por la denominación, o la existencia en bodega de documentación que acredite unas existencias de uva, mostos o vinos protegidos sin la contrapartida de estos productos. Las existencias de vino en bodega deben coincidir con las existencias declaradas documentalmente, admitiéndose una tolerancia del dos por ciento en más o en menos, con carácter general, y del uno por ciento para las Denominaciones de Origen Calificadas.
+k) La negativa a la entrada o permanencia en los viñedos, bodegas y demás instalaciones inscritas o en sus anejos, del personal técnico habilitado para el control por la autoridad competente o del personal de los organismos en los que ésta haya delegado tareas de control de conformidad con lo regulado en materia de control oficial.
+3. Para los organismos u órganos de inspección o de control constituirán infracciones graves las siguientes:
+a) La expedición de certificados o informes cuyo contenido no se ajuste a la realidad de los hechos.
+b) La realización de inspecciones, ensayos o pruebas por los citados organismos u órganos de forma incompleta o con resultados inexactos por una insuficiente constatación de los hechos o por la deficiente aplicación de normas técnicas.
+Se añade la letra k) al apartado 2 por la disposición final 12.9 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 50
+
+Artículo 50. Infracciones muy graves.
+1. Se considerarán infracciones muy graves:
+a) La elaboración, transformación o comercialización de los productos regulados en esta ley mediante tratamientos, prácticas o procesos no autorizados, siempre que existan riesgos para la salud.
+b) La no introducción en las etiquetas y presentación de los vinos de los elementos suficientes para diferenciar claramente su calificación y procedencia, a fin de evitar confusión en los consumidores derivada de la utilización de una misma marca, nombre comercial o razón social en la comercialización de vinos correspondientes a distintos niveles de protección o procedentes de diferentes ámbitos geográficos.
+c) La tenencia de maquinaria, instalaciones o productos no autorizados para la elaboración o almacenamiento de los vinos o mostos en locales de las industrias elaboradoras o envasadoras, cuando entrañen riesgos para la salud.
+d) La falsificación de productos o la venta de productos falsificados, siempre que no sean constitutivas de delito o falta.
+e) La negativa absoluta a la actuación de los servicios públicos de inspección.
+f) La manipulación, traslado o disposición, sin autorización, de mercancías intervenidas cautelarmente, si se violan los precintos o si las mercancías salen de las instalaciones donde fueron intervenidas.
+g) Las coacciones, amenazas, injurias, represalias, agresiones o cualquier otra forma de presión a los empleados públicos encargados de las funciones de inspección o vigilancia administrativa, siempre que no sean constitutivas de delito o falta.
+2. En relación con los vinos con Denominación de Origen Protegida o Indicación Geográfica Protegida constituirán, asimismo, infracciones muy graves:
+a) La utilización, cuando no se tenga derecho a ello, de indicaciones, nombres comerciales, marcas, símbolos o emblemas que hagan referencia a los nombres amparados por un nivel de protección, o que, por su similitud fonética o gráfica con los nombres protegidos o con los signos o emblemas que le sean característicos, puedan inducir a confusión sobre la naturaleza, calidad u origen de los productos, aunque vayan precedidos por los términos “tipo”, “estilo”, “género”, “imitación”, “sucedáneo” u otros análogos.
+b) La utilización, cuando no se tenga derecho a ello, de las menciones “Reserva”, “Crianza” y “Gran Reserva”, definidas en la legislación básica de la Viña y el Vino.
+c) El uso de los nombres protegidos en productos a los que expresamente se les haya negado, así como las infracciones de normas de protección de los nombres geográficos asociados al nivel correspondiente previstas en la legislación básica de la Viña y el Vino.
+d) La indebida tenencia, negociación o utilización de los documentos, etiquetas, contraetiquetas, precintas y otros elementos de identificación propios de los vinos con Denominación de Origen Protegida o Indicación Geográfica Protegida así como la falsificación de los mismos, siempre que esto no sea constitutivo de delito o falta.
+e) Las coacciones, amenazas, injurias, represalias, agresiones o cualquier otra forma de presión, al personal técnico habilitado para el control por la autoridad competente o del personal de los organismos en los que la autoridad competente haya delegado tareas de control de conformidad con lo regulado en materia de control oficial.
+3. Para los organismos u órganos de inspección o de control constituirán infracciones muy graves las tipificadas en el apartado 3 del artículo anterior, cuando de las mismas resulte un daño muy grave o se derive un peligro muy grave e inminente para las personas, la flora, la fauna o el medio ambiente.
+4. Para los Consejos Reguladores de los vinos con denominación de origen o con denominación de origen calificada constituirá infracción muy grave la intromisión del órgano de gestión, del presidente, vicepresidente, de cualquiera de sus miembros o persona que los represente, en la actividad del órgano de control, así como la perturbación de la independencia o imparcialidad de los controladores.
+Se añade la letra e) al apartado 2 y se modifica el apartado 4 por la disposición final 12.10 y 11 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se añade por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 51
+
+Artículo 51. Infracciones y sanciones específicas de las entidades independientes de inspección y certificación.
+1. Tienen la consideración de infracciones leves, sancionables con amonestación, las siguientes:
+a) La ausencia de comunicación dentro de los plazos establecidos reglamentariamente; en el caso de la resolución de su autorización, la ausencia de toda la información que resulte necesaria para la supervisión de la Entidad relativa a sus actuaciones, organización y operadores sujetos a su control; así como la no comunicación de modificaciones en la documentación vigente.
+b) La demora injustificada, por tiempo igual o inferior a un mes, en la realización de las comprobaciones solicitadas por el órgano competente.
+2. Tienen la consideración de infracciones graves, sancionables con suspensión de su autorización por un período de tiempo igual o superior a tres meses e inferior a diez años, y sin perjuicio de la imposición de la sanción correspondiente de acuerdo con la normativa básica, las siguientes:
+a) La comisión en un período de veinticuatro meses, de una tercera falta leve, siempre que las dos anteriores hayan sido sancionadas mediante resolución firme en vía administrativa.
+b) La demora injustificada, por tiempo superior a un mes, en la realización de las comprobaciones solicitadas por el órgano competente.
+c) El incumplimiento de forma injustificada de lo establecido en sus propios procedimientos de actuación.
+3. Tienen la consideración de infracciones muy graves, sancionables con la revocación definitiva de su autorización, y sin perjuicio de la imposición de la sanción correspondiente de acuerdo con la normativa básica, las siguientes:
+a) El incumplimiento de las condiciones esenciales de concesión de la autorización.
+b) La comisión de una segunda falta grave, siempre que la anterior haya sido sancionada con la suspensión de su autorización en los tres años anteriores.
+4. Se entenderán como condiciones esenciales de la autorización las relacionadas con la competencia técnica del organismo, su independencia, imparcialidad, objetividad y confidencialidad, así como, si procede, con el ejercicio de un control apropiado sobre la utilización de sus concesiones, certificados y marcas de conformidad.
+5. De las sanciones que sean impuestas a estas entidades por faltas graves y muy graves se dará cuenta a la entidad de acreditación, así como al órgano competente de la Comunidad Autónoma donde radique el domicilio social de la entidad de control, en el caso de que éste se encuentre ubicado fuera de la Comunidad de Castilla y León.
+Se añade por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 52
+
+Artículo 52. Responsabilidad por las infracciones.
+1. De las infracciones en productos envasados serán responsables las firmas o razones sociales que figuren en la etiqueta, bien nominalmente o bien mediante cualquier indicación que permita su identificación cierta. Asimismo será responsable solidario el elaborador, fabricante o envasador que no figure en la etiqueta si se prueba que conocía la infracción cometida y que prestó su consentimiento. En caso de que se hayan falsificado las etiquetas, la responsabilidad corresponderá a las personas que comercialicen los productos a sabiendas de la falsificación.
+2. De las infracciones en productos a granel, o envasados sin etiqueta, o cuando en la etiqueta no figure ninguna firma o razón social, será responsable su tenedor, excepto cuando se pueda identificar de manera cierta la responsabilidad de un tenedor anterior, sin perjuicio de la responsabilidad que corresponda al actual.
+3. De las infracciones relativas a plantaciones, replantaciones, reposiciones de marras o riego será responsable el titular de la explotación y, subsidiariamente, el propietario de la misma.
+4. De las infracciones cometidas por las personas jurídicas, incluidos los órganos de gestión de los vinos con Denominación de Origen Protegida y los organismos u órganos de inspección o control, serán responsables subsidiariamente los administradores o titulares de los mismos que no realizaren los actos necesarios que fuesen de su incumbencia para el cumplimiento de las obligaciones infringidas, consintieren el incumplimiento por quienes de ellos dependan o adoptaren acuerdos que hicieran posibles tales infracciones.
+5. Asimismo serán responsables subsidiariamente los técnicos responsables de la elaboración y control respecto de las infracciones directamente relacionadas con su actividad profesional.
+6. La responsabilidad administrativa por las infracciones reguladas en esta ley será independiente de la responsabilidad civil o penal que, en su caso, pueda exigirse a sus responsables, sin perjuicio de que no puedan concurrir dos sanciones en las que se aprecie identidad de sujeto, hecho y fundamento jurídico.
+Se añade por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 53
+
+Artículo 53. Sanciones.
+1. Las infracciones leves serán sancionadas con apercibimiento o multa de hasta dos mil euros, pudiendo rebasarse este importe hasta alcanzar el valor de las mercancías, productos o superficies objeto de la infracción. En materia de viticultura el cálculo del valor de los productos se realizará en la forma que se recoge en el apartado 2.
+2. Las infracciones graves serán sancionadas con multa comprendida entre dos mil uno y treinta mil euros, pudiendo rebasarse esta cantidad hasta alcanzar el cinco por ciento del volumen de ventas del producto objeto de infracción, correspondiente al ejercicio económico inmediatamente anterior al de la iniciación del procedimiento sancionador.
+3. En el caso de infracciones graves en materia específica de viticultura, el importe de la sanción será del tanto al quíntuplo del valor de la producción afectada. Ésta se calculará multiplicando la producción anual media por hectárea en el quinquenio precedente en la zona o provincia donde esté enclavada la superficie afectada por el precio medio ponderado en el mismo período y en la misma zona y provincia.
+4. Las infracciones muy graves serán sancionadas con multa comprendida entre treinta mil un euros y trescientos mil euros, pudiendo rebasarse esta cantidad hasta alcanzar el diez por ciento del volumen de ventas del producto objeto de infracción correspondiente al ejercicio económico inmediatamente anterior al de la iniciación del procedimiento sancionador.
+5. Cuando las infracciones graves sean cometidas por operadores acogidos a un nivel de protección y afecten a éste, podrá imponerse como sanción accesoria la pérdida temporal del uso del nombre protegido por un plazo máximo de tres años. Si se tratase de infracciones muy graves, podrá imponerse como sanción accesoria la pérdida temporal por un plazo máximo de cinco años o la pérdida definitiva de tal uso.
+6. En el supuesto de la comisión de infracción grave o muy grave, el órgano competente para resolver podrá imponer como sanción accesoria alguna de las siguientes:
+a) Medidas de corrección, seguridad o control que impidan la continuidad en la producción del daño.
+b) Decomiso de mercancías, productos, envases, etiquetas y demás objetos relacionados con la infracción, o cuando se trate de productos no identificados.
+c) Clausura temporal, parcial o total, de la empresa sancionada, por un período máximo de cinco años.
+d) Suspensión de los organismos públicos u órganos de control, de forma definitiva o por un período máximo de diez años.
+7. Las sanciones previstas en esta ley serán compatibles con la pérdida o retirada de derechos económicos previstos en la normativa comunitaria.
+Se añade por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 54
+
+Artículo 54. Medidas complementarias.
+1. Cuando se hayan intervenido cautelarmente mercancías, productos, envases, etiquetas, y demás objetos relacionados con la infracción sancionada, la autoridad a la que corresponda resolver el procedimiento sancionador acordará su destino. Las mercancías o productos deberán ser destruidos si su utilización o consumo constituyera peligro para la salud pública. En todo caso, los gastos originados por el destino alternativo, la destrucción o el decomiso correrán por cuenta del infractor, incluida la indemnización que deba abonarse al propietario de la mercancía decomisada cuando éste no sea el infractor.
+2. Cuando el obligado no cumpla la obligación impuesta en el artículo 6, relativa al arranque de viñedos, o lo haga de forma incompleta, así como cuando el infractor no cumpla una obligación impuesta como sanción accesoria, o lo haga de forma incompleta, podrán imponerse multas coercitivas a fin de que se cumpla íntegramente la obligación o la sanción establecida.
+3. En el caso de incumplimiento de la obligación de arranque de viñedos, las multas coercitivas se impondrán con una periodicidad de seis meses hasta el cumplimiento total del arranque y su importe será de hasta tres mil euros por hectárea.
+4. En caso de incumplimiento de la obligación de arranque, el órgano administrativo competente para requerir el arranque del viñedo podrá optar por ejecutar subsidiariamente dicha operación. Los gastos de arranque siempre correrán por cuenta del interesado.
+5. En el caso de incumplimiento de la obligación impuesta como sanción accesoria, las multas coercitivas se impondrán con una periodicidad de tres meses hasta el cumplimiento total de la sanción a que se refieran y su importe no podrá ser superior a tres mil euros.
+6. Las multas coercitivas serán independientes y compatibles con las multas que procedan como sanción por la infracción cometida.
+Se añade por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 55
+
+Artículo 55. Graduación de las sanciones.
+1. Para la determinación concreta de la sanción que se imponga, entre las asignadas a cada tipo de infracción, se tomarán en consideración los siguientes criterios:
+a) La existencia de intencionalidad o de simple negligencia.
+b) La reiteración, entendida como la concurrencia de varias irregularidades o infracciones que se sancionen en el mismo procedimiento.
+c) La naturaleza de los perjuicios causados; en particular, el efecto perjudicial que la infracción haya podido producir sobre la salud o intereses económicos de los consumidores, los precios, el consumo o, en su caso, el prestigio de los vinos con Denominación de Origen Protegida o Indicación Geográfica Protegida.
+d) La reincidencia, en los términos establecidos en la normativa básica reguladora de los principios de la potestad sancionadora de las Administraciones Públicas.
+e) El volumen de ventas o producción y la posición de la empresa infractora en el sector vitivinícola.
+f) El reconocimiento y la subsanación de las infracciones antes de que se resuelva el correspondiente procedimiento sancionador.
+g) La extensión de la superficie de cultivo o el volumen y valor de las mercancías o productos afectados por la infracción.
+2. La cuantía de la sanción podrá minorarse motivadamente cuando los hechos constitutivos de la infracción sancionada ocasionen, al mismo tiempo, la pérdida o retirada de beneficios comunitarios en proporción a la efectiva pérdida o retirada de dichos beneficios. Asimismo podrá minorarse motivadamente la sanción, en atención a las circunstancias específicas del caso, cuando la sanción resulte excesivamente onerosa.
+3. Cuando en la instrucción del correspondiente procedimiento sancionador se determine la cuantía del beneficio ilícito obtenido por la comisión de las infracciones sancionadas, la sanción impuesta en ningún caso podrá ser inferior en su cuantía al mismo.
+Se modifica el apartado 1.d) por el art. 8 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se añade por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Artículo 56
+
+Artículo 56. Prescripción de infracciones y sanciones.
+1. Las infracciones muy graves prescribirán a los tres años, las graves a los dos años, y las leves al año.
+2. Las sanciones impuestas por infracciones muy graves prescribirán a los tres años; las impuestas por infracciones graves a los dos años; y las impuestas por infracciones leves al año.
+Se añade por la disposición final 1.15 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Sin perjuicio de lo establecido con carácter general en el artículo 30 de la presente Ley, y al objeto de llevar a cabo la adaptación a ella de los actuales Reglamentos de las Denominaciones de Origen, en el plazo máximo de un año a partir de la entrada en vigor de esta Ley, la Consejería de Agricultura y Ganadería convocará el primer proceso electoral para la constitución de los Consejos Reguladores de las Denominaciones de Origen «Bierzo», «Cigales», «Ribera del Duero», «Rueda» y «Toro», de acuerdo con las siguientes bases:
+Primera. El número de vocales a elegir será de seis en representación de los viticultores y de seis en representación de los vinicultores. Por cada uno de los vocales se designará uno o dos suplentes, elegidos en la misma forma que el titular.
+Segunda. Para la elección de los vocales, los operadores inscritos en el registro de viticultores y de vinicultores se distribuirán en estratos determinados por la Consejería de Agricultura y Ganadería, en función del número y de la superficie inscrita en el registro de viticultores de la Denominación de Origen y en función del número de bodegas y de la media del total de contraetiquetas ponderadas por su precio de acuerdo al tipo de vino y utilizadas por cada bodega en los años 2001, 2002 y 2003, teniendo en cuenta asimismo y a estos efectos lo previsto en la letra b) del apartado 1 del artículo 30 para las bodegas cooperativas.
+Los operadores incluidos en un estrato elegirán exclusivamente a los vocales candidatos de dicho estrato.
+La Consejería de Agricultura y Ganadería determinará los estratos teniendo en cuenta la información proporcionada por los Consejos Reguladores. Determinados estos estratos, los Consejos Reguladores elaborarán el censo de operadores correspondientes a cada estrato.
+Tercera. El número mínimo de estratos por cada sector será de tres. Si no concurriera el número mínimo de candidatos por un estrato, las vacantes se acumularán al estrato superior o en su defecto, al inferior.
+Cuarta. La duración del mandato de los vocales así elegidos será de cinco años, aunque sea inferior el número de vocales que se determine en el reglamento de la Denominación de Origen que se apruebe, sin perjuicio de lo contemplado en el artículo 35 de esta Ley.
+Quinta. En todo lo no previsto expresamente en esta disposición se estará a lo dispuesto en la presente Ley, así como en la normativa reguladora del procedimiento electoral para la renovación de vocales de los Consejos Reguladores aprobada por la Consejería de Agricultura y Ganadería.
+2. Transcurridos tres meses desde la constitución del Pleno del Consejo Regulador sin que por éste se hubiera aprobado un proyecto de adaptación del reglamento regulador del v.c.p.r.d., el Instituto Tecnológico Agrario podrá proponer de oficio a la Consejería de Agricultura y Ganadería la aprobación de la citada adaptación.
+3. En el plazo de un año desde la entrada en vigor de la presente Ley, la Junta de Castilla y León regulará el funcionamiento y la gestión administrativa de la reserva regional de derechos de plantación de Castilla y León.
+Se numera como disposición adicional primera por la disposición adicional 1.16 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+ Su anterior denominación era disposición adicional.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Todas las referencias a los vinos de calidad producidos en región determinada (v.c.p.r.d.) que figuran en la presente ley se entenderán realizadas a los vinos con Denominación de Origen Protegida.
+Se añade por la disposición adicional 1.16 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfprimera.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Hasta tanto se lleve a cabo la aprobación de la norma reguladora de cada v.c.p.r.d., el nuevo Pleno del Consejo Regulador desempeñará sus funciones de acuerdo con el ordenamiento vigente y, en particular, con el Reglamento de la denominación de origen.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Las asociaciones con derecho a la utilización de la categoría vinos de calidad con indicación geográfica, Valles de Benavente, Tierra del Vino de Zamora, Arlanza, Tierra de León y Arribes, tendrán garantizado el acceso al nivel de protección Vino con Denominación de Origen una vez transcurridos cinco años desde que se les reconoció el derecho a la utilización de la mención Vinos de la Tierra. En todo caso, deberán acreditar, a la fecha de presentación de la solicitud, el cumplimiento de los restantes requisitos exigidos por la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+La Junta de Castilla y León, a propuesta del Consejero de Agricultura y Ganadería, aprobará el Reglamento de desarrollo de la presente Ley en el plazo máximo de seis meses a partir de la fecha de su entrada en vigor.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Boletín Oficial de Castilla y León».
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 10 de junio de 2005.
+
+### [firma]
+
+JUAN VICENTE HERRERA CAMPO,
+Presidente

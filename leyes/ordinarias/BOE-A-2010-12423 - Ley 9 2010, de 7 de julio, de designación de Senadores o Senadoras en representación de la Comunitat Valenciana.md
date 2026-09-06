@@ -1,0 +1,220 @@
+# Ley 9/2010, de 7 de julio, de designación de Senadores o Senadoras en representación de la Comunitat Valenciana.
+
+- Identificador BOE: `BOE-A-2010-12423`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2010-12423
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley.
+PREÁMBULO
+Desde su entrada en vigor, hace ya más de una década, la Ley 3/1988, de 23 mayo, de la Generalitat, de designación de Senadores en representación de la Comunitat Valenciana, ha sido aplicada a los cinco procesos de designación de Senadores o Senadoras llevados a cabo por Les Corts al amparo de lo previsto en el artículo 69.5 de la Constitución, con ocasión e inmediatamente después de las sucesivas renovaciones de Les Corts verificadas a raíz de las elecciones autonómicas celebradas en 1991, 1995, 1999, 2003 y 2007, así como a los procesos de designación verificados cada vez que, mediada la legislatura, ha sido menester cubrir una plaza vacante en el Senado.
+La modificación de la norma introduce, como punto esencial, un trámite de comparecencia ante Les Corts de las personas candidatas al Senado que permita constatar sus méritos y conocer de primera mano su trayectoria. Asimismo, se establece una nueva regulación de su comparecencia, ante Les Corts.
+La entrada en vigor en 2006 del nuevo Estatut d’Autonomia de la Comunitat Valenciana aconseja introducir en la vigente Ley cambios menores referidos a la denominación de las instituciones autonómicas, así como cuestiones de técnica normativa.
+Es, por ello, que, en virtud de todas estas consideraciones, y al amparo de lo previsto en el artículo 26.1 del Estatut d’Autonomia de la Comunitat Valenciana, el Consell presentó el Proyecto de ley de designación de Senadores o Senadoras en representación de la Comunitat Valenciana.
+
+## CAPÍTULO I
+
+De la determinación del número de Senadores y Senadoras que hayan de ser designados en representación de la Comunitat Valenciana, y de su distribución entre los grupos parlamentarios
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+Esta ley regula el procedimiento para determinar el número de representantes en el Senado que corresponde designar a las Corts Valencianes en nombre de la Comunitat Valenciana, la atribución a los grupos parlamentarios, la forma de presentación y el resto de trámites para su designación por el Pleno de las Corts Valencianes, de acuerdo con lo establecido en la Constitución española y el Estatuto de autonomía de la Comunitat Valenciana.
+Se modifica por el art. 1 de la Ley 8/2019, de 29 de noviembre. Ref. BOE-A-2020-446
+ Se declara la inconstitucionalidad y nulidad del inciso destacado, en la redacción dada por la Ley 10/2016, de 28 de octubre, por Sentencia 123/2017, de 2 de noviembre. Ref. BOE-A-2017-13227
+ Se suspende la vigencia y aplicación del inciso destacado en la redacción dada por la Ley 10/2016, de 28 de octubre, desde el 28 de julio de 2017 para las partes en el proceso y desde el 27 de septiembre de 2017 para los demás, por providencia del TC de 19 de septiembre de 2017, que admite a trámite el recurso de inconstitucionalidad 4061/2017. Ref. BOE-A-2017-10957
+ Téngase en cuenta que se declara la pérdida del objeto del recurso de inconstitucionalidad 4061/2017, por Sentencia del TC 141/2017, de 30 de noviembre. Ref. BOE-A-2018-284
+ Se modifica por el art. único.1 de la Ley 10/2016, de 28 de octubre. Ref. BOE-A-2016-11023.
+
+### Artículo 2
+
+Artículo 2. Determinación del número de Senadores o Senadoras.
+1. Dentro de los treinta días siguientes a la fecha de constitución de Les Corts, la Mesa de la Cámara determinará el número de Senadoras o Senadores que hayan de ser designados en representación de la Comunitat Valenciana, tomando como referencia el censo de población de derecho vigente en el momento de celebrarse las últimas elecciones generales al Senado.
+2. De acuerdo con la Junta de Síndics, la Mesa de Les Corts distribuirá proporcionalmente entre los Grupos Parlamentarios de la Cámara el número de Senadores o Senadoras que resulte de lo dispuesto en el punto 1 de este artículo; para ello aplicará la regla D’Hondt al número de Diputados y Diputadas que posea cada grupo.
+3. En el caso de que los cocientes de dos o más grupos fueran iguales, se resolverá con arreglo a los siguientes criterios:
+a) En favor del grupo, de entre los afectados, al que aún no se le haya fijado Senador o Senadora.
+b) Si persistiera la igualdad, se resolverá en favor del grupo, de entre los afectados, que mayor número de votos hubiere obtenido en las últimas elecciones autonómicas celebradas en la Comunitat Valenciana.
+4. Una vez efectuado el procedimiento establecido en el presente artículo, las modificaciones que pudieran producirse en la adscripción de los Diputados y Diputadas a los grupos parlamentarios no afectarán, en ningún caso, a la distribución del número de Senadores o Senadoras.
+
+## CAPÍTULO II
+
+De las propuestas de los grupos parlamentarios
+
+### Artículo 3
+
+Artículo 3. Propuesta de candidaturas.
+1. Una vez fijado por la Mesa de Les Corts, de acuerdo con la Junta de Síndics, el número de representantes al Senado que corresponda designar a Les Corts, cada grupo parlamentario propondrá por escrito ante la Mesa de Les Corts sus candidaturas, en igual número al que les hubiere correspondido, así como sus suplentes, dentro del plazo establecido por la Presidencia y que nunca excederá de diez días.
+2. En el escrito de propuestas figurarán los nombres y apellidos de las personas candidatas, incluidas los suplentes respectivos, los documentos que acrediten su elegibilidad, y un currículo detallado de cada una de ellas, en el que se especificarán los méritos profesionales y demás circunstancias que se consideren relevantes para valorar su idoneidad, así como declaración de no estar inmerso en causa alguna de inelegibilidad o incompatibilidad, además de la aceptación expresa del cargo.
+
+## CAPÍTULO III
+
+De la inelegibilidad e incompatibilidad
+
+### Artículo 4
+
+Artículo 4. Requisitos de las candidaturas.
+1. Podrán ser designados o designadas Senadores o senadoras en representación de la Comunitat Valenciana todas las personas que, gozando de la condición política de valencianas, reúnan los requisitos establecidos en la Ley orgánica del régimen electoral general y no estén incursos en ninguno de los supuestos de inelegibilidad previstos en aquella ley.
+2. Son inelegibles también:
+1. Los altos cargos de la presidencia de la Generalitat, de las Conselleries y de los Organismos Autónomos de ellas dependientes, nombrados por decreto del Consell.
+2. Los miembros del Consell Jurídic Consultiu de la Comunitat Valenciana, excepto los que, siendo natos, no estén incorporados.
+3. Los miembros del Consell Valencià de Cultura.
+4. El Síndic de Greuges de la Comunitat Valenciana y sus adjuntos.
+5. Los síndics de Comptes de la Comunitat Valenciana.
+6. Los miembros de la Acadèmia Valenciana de la Llengua.
+7. Los miembros del Comitè Econòmic i Social.
+8. El Presidente, vocales y Secretario de la Junta Electoral de la Comunitat Valenciana.
+9. Los Presidentes, vocales y Secretarios de las juntas electorales que comprende la administración electoral valenciana.
+10. El director general de Radiotelevisión Valenciana y los Directores de las sociedades de este ente público.
+11. Los parlamentarios de las asambleas legislativas de las otras Comunidades Autónomas.
+12. Los miembros de los Consejos de gobierno de las demás Comunidades Autónomas, así como los cargos públicos de libre designación de los citados Consejos nombrados por decreto.
+13. Miembros del Parlamento Europeo.
+14. Miembros de la Comisión Europea.
+15. Los altos cargos designados por decreto del Consejo de Ministros.
+16. Aquellos que ejerzan funciones o cargos conferidos y remunerados por un estado extranjero.
+3. Las causas de inelegibilidad lo son también de incompatibilidad.
+4. Igualmente será causa de incompatibilidad ser miembro del Consell o de la Mesa de Les Corts, además de las previstas en la Ley electoral valenciana para ser Diputado o Diputada.
+
+### Artículo 5
+
+Artículo 5. Examen de las candidaturas.
+La Mesa de Les Corts, recibidas las propuestas de los grupos parlamentarios, convocará reunión de la Comisión de Estatuto de los Diputados y las Diputadas, con el fin de que ésta determine si existe alguna causa de inelegibilidad o incompatibilidad y sobre el cumplimiento de los demás requisitos que contempla la presente ley.
+
+### Artículo 6
+
+Artículo 6. Dictamen sobre las candidaturas.
+La Comisión de Estatuto de los Diputados y las Diputadas emitirá dictamen sobre la situación de las personas candidatas y de sus suplentes, pudiendo recabar para ello, de los grupos parlamentarios que les hayan propuesto, los documentos que estime convenientes.
+
+### Artículo 7
+
+Artículo 7. Subsanación de las causas de inelegibilidad.
+En el supuesto de que el dictamen motivado de la comisión determinase la concurrencia de causa de inelegibilidad de alguna candidatura, la Mesa de Les Corts concederá un plazo de tres días para proceder a subsanarla. Agotado dicho plazo sin haberse procedido a la subsanación, el grupo parlamentario proponente afectado dispondrá de un plazo de cuarenta y ocho horas para la sustitución del candidato o candidata.
+
+### Artículo 8
+
+Artículo 8. Publicación de las candidaturas.
+Elevado dictamen favorable de la Comisión de Estatuto de los Diputados y las Diputadas a la Mesa de Les Corts, ésta ordenará la publicación, en el «Boletín Oficial de Les Corts», de las propuestas de candidatura, junto al referido dictamen.
+
+## CAPÍTULO IV
+
+De la designación de Senadores o Senadoras
+
+### Artículo 9
+
+Artículo 9. Comparecencia previa.
+(Suprimido).
+Se suprime por el art. 2 de la Ley 8/2019, de 29 de noviembre. Ref. BOE-A-2020-446
+ Téngase en cuenta que este art. ya había sido suprimido por el art. único.2 de la Ley 10/2016, de 28 de octubre. Ref. BOE-A-2016-11023.
+ Se suprime por el art. único.2 de la Ley 10/2016, de 28 de octubre. Ref. BOE-A-2016-11023.
+
+### Artículo 10
+
+Artículo 10. Del Pleno.
+Al inicio del Pleno convocado para la designación de los Senadores o Senadoras por la Mesa de las Corts Valencianes, en el plazo de los treinta días siguientes al dictamen de la Comisión del Estatuto de los Diputados y de las Diputadas, se dará lectura a dicho dictamen y a la propuesta conjunta de las candidaturas, titulares y suplentes.
+Se modifica por el art. 3 de la Ley 8/2019, de 29 de noviembre. Ref. BOE-A-2020-446
+
+### Artículo 11
+
+Artículo 11. Votación.
+1. La elección se efectuará mediante votación secreta por papeleta. Éstas contendrán el nombre de los candidatos o candidatas al Senado y de sus respectivos suplentes presentados por los grupos parlamentarios.
+2. Cada Diputado o Diputada podrá votar como máximo una candidatura de las presentadas por los grupos parlamentarios.
+3. Resultarán designados Senadores o Senadoras en representación de la Comunitat Valenciana aquellos candidatos o candidatas que hayan resultado votadas.
+4. Si tras la referida votación no se hubiera producido la designación de algún candidato o candidata, con su respectivo suplente, se procederá a la tramitación de una nueva candidatura por el procedimiento establecido en la presente ley, sin que ello pueda implicar paralización o retraso de la acreditación de los que hayan sido designados.
+
+### Artículo 12
+
+Artículo 12. Proclamación.
+1. Las candidatas o los candidatos que resulten elegidos serán proclamados, por la Presidencia de Les Corts, Senadores o Senadoras en representación de la Comunitat Valenciana.
+2. Efectuada la proclamación, la Presidencia de Les Corts informará de manera inmediata a la Presidencia del Senado de la designación de Senadores o Senadoras, así como expedirá las correspondientes credenciales para su acreditación ante aquella Cámara.
+
+## CAPÍTULO V
+
+De la permanencia en el cargo de Senador o Senadora
+
+### Artículo 13
+
+Artículo 13. Mandato.
+1. El mandato de las personas designadas, conforme a lo dispuesto en esta ley, lo será hasta la finalización de la legislatura de las Corts Valencianes en la que se produjo su designación. No obstante, los Senadores o las Senadoras en ejercicio deben continuar en sus funciones hasta la toma de posesión de quienes deban sustituirlos.
+2. Si concluye la legislatura del Senado antes de que concluya la legislatura de Les Corts que designó las senadoras o los senadores, se entenderán confirmados en el cargo por el tiempo que quede de la legislatura de Les Corts.
+Se modifica el apartado 1 y se suprime el 3 por el art. 4 y 5 de la Ley 8/2019, de 29 de noviembre. Ref. BOE-A-2020-446
+ Se declara la inconstitucionalidad y nulidad del apartado 3, en la redacción dada por la Ley 10/2016, de 28 de octubre, por Sentencia 123/2017, de 2 de noviembre. Ref. BOE-A-2017-13227
+ Se suspende la vigencia y aplicación del apartado 3 en la redacción dada por la Ley 10/2016, de 28 de octubre, desde el 28 de julio de 2017 para las partes en el proceso y desde el 27 de septiembre de 2017 para los demás, por providencia del TC de 19 de septiembre de 2017, que admite a trámite el recurso de inconstitucionalidad 4061/2017. Ref. BOE-A-2017-10957
+ Téngase en cuenta que se declara la pérdida del objeto del recurso de inconstitucionalidad 4061/2017, por Sentencia del TC 141/2017, de 30 de noviembre. Ref. BOE-A-2018-284
+ Se modifica por el art. único.3 de la Ley 10/2016, de 28 de octubre. Ref. BOE-A-2016-11023.
+
+## CAPÍTULO VI
+
+Del cese de Senadores o Senadoras
+
+### Artículo 14
+
+Artículo 14. Cese.
+Los senadores o senadoras en representación de la Comunitat Valenciana cesan en su cargo:
+1. Por disolución de las Corts Valencianes, sin perjuicio de lo establecido en el artículo 13 de esta ley.
+2. Por causa de muerte, incapacidad, renuncia o cualquier otro supuesto contemplado en la legislación electoral general.
+3. Por la pérdida de las condiciones específicas de inelegibilidad establecidas en esta ley o por causa de inelegibilidad no apreciada por la Comisión de Estatuto del Diputado y Diputada con anterioridad a la designación.
+4. Como consecuencia de incompatibilidad apreciada y no enmendada de las previstas específicamente en esta ley o en la Ley orgánica de régimen electoral general.
+Se suprime el apartado 5 por el art. 6 de la Ley 8/2019, de 29 de noviembre. Ref. BOE-A-2020-446
+ Se declara la inconstitucionalidad y nulidad del apartado 5, en la redacción dada por la Ley 10/2016, de 28 de octubre, por Sentencia 123/2017, de 2 de noviembre. Ref. BOE-A-2017-13227
+ Se suspende la vigencia y aplicación del apartado 5 en la redacción dada por la Ley 10/2016, de 28 de octubre, desde el 28 de julio de 2017 para las partes en el proceso y desde el 27 de septiembre de 2017 para los demás, por providencia del TC de 19 de septiembre de 2017, que admite a trámite el recurso de inconstitucionalidad 4061/2017. Ref. BOE-A-2017-10957
+ Téngase en cuenta que se declara la pérdida del objeto del recurso de inconstitucionalidad 4061/2017, por Sentencia del TC 141/2017, de 30 de noviembre. Ref. BOE-A-2018-284
+ Se modifica por el art. único.4 de la Ley 10/2016, de 28 de octubre. Ref. BOE-A-2016-11023.
+
+### Artículo 14 bis
+
+Artículo 14 bis. De la revocación.
+(Suprimido).
+Se suprime por el art. 7 de la Ley 8/2019, de 29 de noviembre. Ref. BOE-A-2020-446
+ Se declara la inconstitucionalidad y nulidad de este precepto, en la redacción dada por la Ley 10/2016, de 28 de octubre, por Sentencia 123/2017, de 2 de noviembre. Ref. BOE-A-2017-13227
+ Se suspende la vigencia y aplicación de este precepto en la redacción dada por la Ley 10/2016, de 28 de octubre, desde el 28 de julio de 2017 para las partes en el proceso y desde el 27 de septiembre de 2017 para los demás, por providencia del TC de 19 de septiembre de 2017, que admite a trámite el recurso de inconstitucionalidad 4061/2017. Ref. BOE-A-2017-10957
+ Téngase en cuenta que se declara la pérdida del objeto del recurso de inconstitucionalidad 4061/2017, por Sentencia del TC 141/2017, de 30 de noviembre. Ref. BOE-A-2018-284
+ Se añade por el art. único.5 de la Ley 10/2016, de 28 de octubre. Ref. BOE-A-2016-11023.
+
+### Artículo 15
+
+Artículo 15. Vacantes.
+1. Las vacantes de senadores o senadoras que pudieran producirse durante una misma legislatura de Les Corts se cubrirán de manera automática por los suplentes correspondientes, enmendadas, en su caso, las causas de incompatibilidad.
+En el caso de no existir suplentes, las vacantes serán cubiertas por medio del procedimiento establecido en esta ley.
+2. Las vacantes que se produzcan serán cubiertas con la propuesta previa del grupo parlamentario que propuso el senador o la senadora la sustitución del o de la que se trate y se sustanciarán, en todo caso, en el plazo máximo de 20 días desde que se produzca la vacante, siguiendo, en todo caso, el procedimiento establecido en la presente ley.
+Se modifica por el art. único.6 de la ley 10/2016, de 28 de octubre. Ref. BOE-A-2016-11023.
+
+## CAPÍTULO VII
+
+De las comparecencias
+
+### Artículo 16
+
+Artículo 16. Comparecencias de los senadores o de las senadoras.
+1. Los grupos parlamentarios podrán solicitar la comparecencia de los senadores y de las senadoras designados en representación de la Comunitat Valenciana para que informen sobre temas relacionados con la actividad parlamentaria, siguiendo el procedimiento que el Reglamento de Les Corts establezca para las comparecencias de los miembros del Consell.
+2 y 3 (Suprimidos).
+Se suprimen los apartados 2 y 3 por el art. 8 y 9 de la Ley 8/2019, de 29 de noviembre. Ref. BOE-A-2020-446
+ Se declara la inconstitucionalidad y nulidad de los apartados 2 y 3, en la redacción dada por la Ley 10/2016, de 28 de octubre, por Sentencia 123/2017, de 2 de noviembre. Ref. BOE-A-2017-13227
+ Se suspende la vigencia y aplicación de los apartados 2 y 3 en la redacción dada por la Ley 10/2016, de 28 de octubre, desde el 28 de julio de 2017 para las partes en el proceso y desde el 27 de septiembre de 2017 para los demás, por providencia del TC de 19 de septiembre de 2017, que admite a trámite el recurso de inconstitucionalidad 4061/2017. Ref. BOE-A-2017-10957
+ Téngase en cuenta que se declara la pérdida del objeto del recurso de inconstitucionalidad 4061/2017, por Sentencia del TC 141/2017, de 30 de noviembre. Ref. BOE-A-2018-284
+ Se modifica por el art. único.7 de la Ley 10/2016, de 28 de octubre. Ref. BOE-A-2016-11023.
+
+### Artículo 17
+
+Artículo 17. Asistencia en la Cámara.
+Los Senadores o las Senadoras designados en representación de la Comunitat Valenciana podrán asistir al Pleno y las comisiones de la cámara en los términos establecidos en el Reglamento de Les Corts.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Queda derogada la Ley 3/1988, de 23 de mayo, de la Generalitat, de designación de Senadores en representación de la Comunitat Valenciana.
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Diari Oficial de la Comunitat Valenciana».
+
+### Disposición final [sic]
+
+Disposición final nueva [sic].
+Se faculta al Consell de la Generalitat para que refunda en un texto único las disposiciones legales contempladas en esta ley.
+Se añade por el art. 10 de la Ley 8/2019, de 29 de noviembre. Ref. BOE-A-2020-446
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 7 de julio de 2010.–El President de la Generalitat, Francisco Camps Ortiz.

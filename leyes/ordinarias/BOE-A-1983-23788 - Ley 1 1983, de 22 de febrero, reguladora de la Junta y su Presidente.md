@@ -1,0 +1,597 @@
+# Ley 1/1983, de 22 de febrero, reguladora de la Junta y su Presidente.
+
+- Identificador BOE: `BOE-A-1983-23788`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1983-23788
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta ley pasa a denominarse "Ley 1/1983, de 22 de febrero, de normas reguladoras de la Xunta y de su presidencia", según establece la disposición adicional 8.1 de la Ley 2/2007, de 28 de marzo. Ref. BOE-A-2007-10021.
+
+## Preámbulo
+
+El Estatuto de Autonomía, en sus artículos 15 y 16, prevé que el Parlamento de Galicia determine, mediante Ley la regulación del estatuto personal, atribuciones y responsabilidades del Presidente y de la Xunta de Galicia.
+Recoge este mandato el espíritu de que la regulación de estas instituciones básicas tenga la prioridad debida y constituya, en consecuencia, uno de los pasos legislativos inmediatos en la construcción de la Autonomía gallega.
+Lo dispuesto en el artículo 9 del Estatuto al atribuir el ejercicio de los poderes de la Comunidad Autónoma al Parlamento, la Xunta y su Presidente quizás aconseje, una Ley del Parlamento que, estimada ahora fuera del contexto de esta norma de desarrollo de los artículos 15 y 16 del Estatuto, regule con precisión las relaciones de la Cámara con el Gobierno y alcance la debida complitud de la Autonomía de Galicia.
+Se limita, en consecuencia, esta Ley a la regulación de la organización y establecimiento de las normas generales relativas a los órganos ejecutivos superiores de Galicia, con un sentido básico, sin perjuicio de que una Ley de Régimen Jurídico de la Administración de la Comunidad Autónoma Gallega recoja en toda su integridad las necesarias normas de funcionamiento.
+Por lo tanto, en cumplimiento de los preceptos citados, el Parlamento de Galicia aprobó y yo promulgo en nombre del Rey la LEY REGULADORA DE LA XUNTA Y DE SU PRESIDENTE.
+
+## TÍTULO I
+
+De la Xunta
+
+## CAPÍTULO I
+
+De la naturaleza y composición de la Xunta
+
+### Artículo 1
+
+Artículo 1.
+La Xunta es el órgano colegiado que, bajo la dirección de su Presidente, dirige la política general y la Administración de la Comunidad Autónoma. A tal fin, ejerce la iniciativa legislativa, la función ejecutiva y la potestad reglamentaria de conformidad con el Estatuto de Autonomía y las Leyes.
+Se modifica por el art. 1 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 2
+
+Artículo 2.
+La Xunta de Galicia está compuesta por el Presidente, Vicepresidente o Vicepresidentes, –en su caso– y los Conselleiros.
+En el supuesto de que haya varios Vicepresidentes, uno de ellos tendrá la condición de Vicepresidente primero con las facultades que esta Ley le atribuye.
+Todos ellos constituyen conjunta y colegiadamente el Consello, que ejercerá, conforme a lo establecido en esta Ley, las atribuciones de la Xunta, sin perjuicio de las competencias de las Comisiones Delegadas.
+En la composición de la Xunta deberá respetarse el principio de equilibrio por sexos, en una proporción entre cada uno de ellos que ha de concretar el Parlamento al inicio de cada legislatura.
+Se añade el párrafo 4 por la disposición adicional 8.2 de la Ley 2/2007, de 28 de marzo. Ref. BOE-A-2007-10021.
+
+### Artículo 3
+
+Artículo 3.
+La Xunta de Galicia responde políticamente ante el Parlamento de forma solidaria, sin perjuicio de la responsabilidad directa de cada uno de sus componentes por su gestión.
+
+## CAPÍTULO II
+
+De las atribuciones de la Xunta
+
+### Artículo 4
+
+Artículo 4.
+Corresponde a la Xunta:
+1. Establecer las directrices y desarrollar el Programa de gobierno.
+2. Elaborar los presupuestos de la Comunidad Autónoma, remitirlo al Parlamento para su aprobación.
+3. Aprobar los Proyectos de Ley para su remisión al Parlamento y acordar en su caso su retirada.
+4. Dictar Decretos Legislativos en los supuestos de delegación expresa del Parlamento.
+5. Otorgar o denegar su conformidad a la tramitación de proposiciones de ley que supongan aumento de los créditos o disminución de los ingresos presupuestarios, en los términos previstos en el Reglamento del Parlamento.
+6. Aprobar los reglamentos para el desarrollo y ejecución de las leyes de Galicia, así como los de las leyes del Estado, cuando la competencia de ejecución corresponda a la Comunidad Autónoma en virtud del Estatuto de Autonomía o por delegación o transferencia.
+7. Adoptar, en su caso, las medidas reglamentarias que requiriese la ejecución de los tratados y convenios internacionales y el cumplimiento de los Reglamentos y directrices derivadas de aquellos, en lo que afecte a materias atribuidas a la competencia de la Comunidad Autónoma.
+8. Aprobar y remitir al Parlamento los proyectos de convenios y acuerdos de cooperación con otras Comunidades Autónomas para la ratificación o aprobación, en su caso.
+9. Acordar la interposición de recursos de inconstitucionalidad, así como el personarse en las cuestiones de inconstitucionalidad que afecten a Galicia y el planteamiento de conflictos de competencias ante el Tribunal Constitucional.
+10. Deliberar sobre la cuestión de confianza que el Presidente de la Xunta proponga plantear al Parlamento, así como sobre la disolución de la Cámara, que el Presidente puede decretar, al amparo del artículo 24 de la presente Ley.
+11. Resolver los recursos en vía administrativa en los casos previstos por las leyes.
+12. Resolver mediante Decreto los conflictos de atribuciones que se susciten entre las diversas Consellerías.
+13. Nombrar y destituir, a propuesta de quien ostente la titularidad de las consejerías respectivas, a los altos cargos de la Administración pública gallega de rango igual o superior a dirección general, así como a aquellos otros que legalmente se establezca. En los nombramientos se atenderá al principio de equilibrio por sexos, de acuerdo con los porcentajes y estructura que determine la propia Xunta.
+14. Crear, modificar y suprimir las Comisiones Delegadas de la Xunta.
+15. Determinar la estructura orgánica superior de la Vicepresidencia o Vicepresidencias y de las Consellerías de la Xunta de Galicia.
+16. Designar a los representantes de la Comunidad Autónoma en los organismos económicos, instituciones financieras y empresas públicas del Estado a que se refiere el artículo 55 del Estatuto de Autonomía. Del mismo modo, supervisar, de acuerdo con la Ley, la gestión de los servicios públicos y de los entes y empresas públicas dependientes de la Comunidad Autónoma, y administrar el patrimonio de la misma con sujeción a lo dispuesto en la Ley.
+17. Coordinar la actividad de las Diputaciones Provinciales, en cuanto afecte directamente al interés general de la Comunidad Autónoma, y acordar la transferencia o delegación de funciones en las mismas. Del ejercicio de estas competencias se dará cuenta al Parlamento.
+18. Tomar conocimiento de las resoluciones del Parlamento y adoptar, en su caso, las medidas que proceden.
+19. Garantizar y promover la aplicación del principio de igualdad por razón de sexo en todas las políticas que corresponda desarrollar a la Xunta de Galicia.
+20. Cualquier otra atribución que le venga conferida por alguna disposición legal o reglamentaria y, en general, deliberar acerca de aquellos asuntos cuya resolución deba revestir la forma de Decreto o que, por su importancia y repercusión en la vida de la Comunidad Autónoma, exijan el conocimiento o deliberación de la Xunta.
+Se modifican los apartados 13 y 19 y se añade el apartado 20 por la disposición adicional 8.3 a 5 de la Ley 2/2007, de 28 de marzo. Ref. BOE-A-2007-10021.
+ Se modifican los apartados 10, 14 a 16 y 18 y se añade el 19 por el art. 2 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+## CAPÍTULO III
+
+Del funcionamiento de la Xunta
+
+### Artículo 5
+
+Artículo 5.
+La Xunta se reúne en Consello, que someterá su funcionamiento a los principios de unidad, colegialidad, participación y coordinación.
+
+### Artículo 6
+
+Artículo 6.
+Las atribuciones de la Xunta serán ejercidas por el Consello. El Consello designará de entre sus miembros un Secretario que dará fe de sus acuerdos y de los de las Comisiones Delegadas y librará, cuando proceda, certificación de los mismos.
+Se modifica por el art. 3 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 7
+
+Artículo 7.
+1. El Consello será convocado por el Presidente de la Xunta. A la convocatoria se adjuntará el orden del día, que será conformado por el Secretario de acuerdo con las instrucciones del Presidente.
+2. El Consello se entenderá válidamente constituido cuando asista el Presidente, o quien lo sustituya, y, al menos, la mitad de sus miembros.
+3. Los miembros del Consello están obligados a guardar secreto sobre las deliberaciones de aquél, las opiniones y, en su caso, los votos emitidos.
+Se modifica por el art. 4 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 8
+
+Artículo 8.
+La Xunta podrá crear en su seno Comisiones Delegadas para coordinar la elaboración de directrices y disposiciones, programar la política sectorial, examinar asuntos de interés interdepartamental y preparar las reuniones del Consello.
+El régimen general de funcionamiento de las Comisiones, habrá de ajustarse a los criterios establecidos en esta ley para el Consello.
+En todo caso el Decreto de creación de una Comisión Delegada deberá contener la composición y Presidencia de la misma y las competencias asignadas.
+
+### Artículo 9
+
+Artículo 9.
+El Consello establecerá las normas internas que se precisen para el buen orden de sus trabajos y para la adecuada preparación de los acuerdos que hayan de adoptarse, mediante un Reglamento de Régimen Interior que habrá de ajustarse a los términos de la presente ley.
+
+## TÍTULO II
+
+Del Presidente de la Xunta
+
+## CAPÍTULO I
+
+Del Estatuto personal, elección y cese
+
+## Sección I
+
+Sección I. Del Estatuto Personal
+
+### Artículo 10
+
+Artículo 10.
+El Presidente de la Xunta ostenta la suprema representación de la Comunidad Autónoma y la ordinaria del Estado en Galicia. Dirige y coordina la acción de la Xunta o Gobierno.
+
+### Artículo 11
+
+Artículo 11.
+El Presidente de la Xunta en razón de su cargo tiene derecho a:
+1. La preeminencia que, con arreglo a la alta representación de la Comunidad Autónoma y a la ordinaria del Estado en Galicia, le corresponde.
+2. Que le sean rendido los honores que le correspondan con arreglo a lo que se establece en la legalidad vigente y lo que acuerde la Comunidad Autónoma.
+3. Recibir el tratamiento de Excelencia.
+4. Utilizar la bandera de Galicia como guion.
+5. Ocupar la residencia oficial que se establezca, con la correspondiente dotación de personal y servicios.
+6. Percibir la remuneración y gastos de representación que se establezcan por el Parlamento de Galicia y figuren en los Presupuestos Generales de la Comunidad Autónoma.
+7. Recibir con carácter vitalicio el tratamiento de excelentísimo señor y los honores protocolarios y las precedencias establecidas en la legislación vigente y en la que, en su caso, dicte la Comunidad Autónoma.
+Las ex presidentas y ex presidentes tendrán derecho a percibir, durante dos años desde la fecha de su cese, las compensaciones económicas que se establezcan por decreto de la Xunta de Galicia.
+Asimismo, tendrán derecho por un periodo de cuatro años adicionales, si tuvieron la condición de presidenta o presidente durante cuatro o menos años, o por un periodo de diez años adicionales, si tuvieron la condición de presidenta o presidente durante más de cuatro años, a los medios y servicios que se establezcan por decreto de la Xunta. Este derecho será incompatible con la condición de miembro nato del Consejo Consultivo de Galicia o con el ejercicio de un cargo público que otorgue una prestación de medios y servicios de análoga naturaleza.
+No obstante, la Xunta de Galicia podrá prestar a las ex presidentas y ex presidentes los medios materiales de apoyo precisos para el ejercicio de las funciones inherentes a su condición por un periodo de tiempo superior a lo establecido en el párrafo anterior.
+Se modifica el apartado 7 por el art. 2 de la Ley 12/2007, de 27 de julio. Ref. BOE-A-2007-16612.
+ Se añade el apartado 7 por el art. 5 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 12
+
+Artículo 12.
+El Presidente de la Xunta no podrá ejercer ninguna función pública que no se derive de su cargo, ni actividad o mercantil profesional o cualesquiera otras que pudiesen menoscabar la independencia y dignidad de su función.
+En cuanto a las funciones representativas propias del mandato parlamentario, habrá que atenerse a lo dispuesto en el artículo 6.º de la Ley de Galicia 8/1985, de 13 de agosto, de elecciones al Parlamento de Galicia.
+Se modifica por el art. 6 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 13
+
+Artículo 13.
+La responsabilidad política del Presidente de la Xunta ante el Parlamento será exigible en los términos establecidos en el Estatuto de Autonomía, en el Reglamento de la Cámara y en la presente ley.
+
+### Artículo 14
+
+Artículo 14.
+Durante su mandato y por los actos delictivos cometidos en el territorio de Galicia no podrá ser detenido ni retenido sino en caso de flagrante delito correspondiendo decidir, en todo caso, sobre su inculpación, prisión, procesamiento y juicio al Tribunal Superior de Justicia de Galicia. Fuera de dicho territorio la responsabilidad penal será exigible en los mismos términos ante la Sala de lo Penal del Tribunal Supremo.
+
+## Sección II
+
+Sección II. De la elección y cese
+
+### Artículo 15
+
+Artículo 15.
+El Presidente de la Xunta será elegido por el Parlamento Gallego de entre sus miembros.
+
+### Artículo 16
+
+Artículo 16.
+Constituido el Parlamento y en los demás supuestos en que así proceda, su Presidente, previa consulta con las fuerzas políticas representadas parlamentariamente y oída la Mesa, propondrá un candidato a la Presidencia de la Xunta, conforme a lo previsto en el artículo 136.1.º del Reglamento del Parlamento de Galicia.
+
+### Artículo 17
+
+Artículo 17.
+El candidato presentará su Programa al Parlamento. Para ser elegido el candidato deberá en primera votación obtener mayoría absoluta; de no obtenerla se procederá a una nueva votación 24 horas después de la anterior, y la confianza se entenderá otorgada si obtuviera mayoría simple. Caso de no conseguir dicha mayoría, se tramitarán sucesivas propuestas en la forma prevista anteriormente.
+Si transcurrieran dos meses a partir de la primera votación de investidura sin que ningún candidato propuesto hubiere obtenido la confianza del Parlamento, éste quedará disuelto y se procederá a la convocatoria de nuevas elecciones.
+
+### Artículo 18
+
+Artículo 18.
+Si el Parlamento otorga su confianza al candidato, el Presidente lo comunicará al Rey para su nombramiento, mediante Real Decreto que se publicará en el Boletín Oficial del Estado y en el Diario Oficial de Galicia.
+
+### Artículo 19
+
+Artículo 19.
+El Presidente elegido tomará posesión de su cargo dentro de los cinco días siguientes al de la publicación de su nombramiento.
+
+### Artículo 20
+
+Artículo 20.
+El Presidente prestará juramento en su toma de posesión con la siguiente fórmula.
+«Juro o prometo ser fiel a mi mandato como Presidente de la Xunta, observar y hacer cumplir la Constitución y el Estatuto de Autonomía y las demás leyes de Galicia y del Estado y ejercitar mis funciones en el interés supremo y exclusivo de Galicia y de España».
+
+### Artículo 21
+
+Artículo 21.
+El Presidente de la Xunta cesa tras la celebración de elecciones autonómicas, en los casos de pérdida de confianza parlamentaria o por dimisión, fallecimiento o incapacidad para el ejercicio del cargo. Corresponde al Parlamento la apreciación de la incapacidad del Presidente.
+
+### Artículo 22
+
+Artículo 22.
+En los supuestos de fallecimiento e incapacidad del Presidente, será sustituido por los Vicepresidentes si los hubiere por su orden, y en su defecto por el Conselleiro que más tiempo lleve perteneciendo ininterrumpidamente a la Xunta y, en caso de igualdad, el de más edad. El mismo orden de sustitución se observará en los casos de ausencia o enfermedad temporal del Presidente de la Xunta, salvo designación expresa del mismo.
+La sustitución habrá de publicarse en el Diario Oficial de Galicia.
+
+### Artículo 23
+
+Artículo 23.
+En los demás casos previstos en el artículo 20 el Presidente continuará el ejercicio de sus funciones hasta la toma de posesión del nuevo Presidente de la Xunta.
+
+## CAPÍTULO II
+
+De las atribuciones
+
+### Artículo 24
+
+Artículo 24.
+Al Presidente de la Xunta, como supremo representante de la Comunidad Autónoma, le compete representar a ésta en las relaciones con otras instituciones del Estado, suscribir los convenios y acuerdos de cooperación con otras Comunidades Autónomas, convocar elecciones al Parlamento de Galicia tras su disolución, promulgar en nombre del Rey las Leyes de Galicia, así como, en su caso, los Decretos legislativos y ordenar su publicación en el ''Diario Oficial de Galicia''.
+El Presidente, bajo su exclusiva responsabilidad y previa deliberación del Consello de la Xunta, podrá disolver el Parlamento mediante Decreto que fijará la fecha de las elecciones.
+Esta facultad en todo caso no se podrá ejercer cuando no hubiese transcurrido al menos un año desde la última disolución de la Cámara
+Se modifica por el art. 7 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 25
+
+Artículo 25.
+Como representante ordinario del Estado en Galicia, corresponde al Presidente de la Xunta mantener relaciones con la Delegación del Gobierno a los efectos de una mejor coordinación de las actividades del Estado en Galicia y las de la Comunidad Autónoma, ordenar la publicación en el Diario Oficial de Galicia del nombramiento del Presidente del Tribunal Superior de Justicia, y la de las Leyes y Decretos Legislativos de Galicia en el Boletín Oficial del Estado.
+
+### Artículo 26
+
+Artículo 26.
+Para la dirección y coordinación de las actividades de la Xunta le corresponde:
+1. Crear, modificar o suprimir mediante Decreto la Vicepresidencia o Vicepresidencias, si las hubiere, y las Consellerías, siempre que no suponga aumento de gasto público, así como nombrar y disponer el cese de los Vicepresidentes y Conselleiros.
+2. Convocar, presidir, suspender y levantar las reuniones del Consello y de las Comisiones Delegadas, así como dirigir sus deliberaciones.
+3. Dirigir y coordinar la acción de Gobierno y asegurar su continuidad.
+4. Velar por el cumplimiento de las directrices señaladas por la Xunta y promover o coordinar la ejecución de los acuerdos del Consello y de sus Comisiones Delegadas.
+5. Asegurar la coordinación entre las distintas Consellerías.
+6. Coordinar el programa legislativo de la Xunta y la elaboración de normas de carácter general.
+7. Encomendar a un Vicepresidente o a un Conselleiro que se encargue del despacho de una Consellería o de la propia Presidencia, en caso de ausencia, enfermedad o impedimento del titular.
+8. Plantear ante el Parlamento, previa deliberación del Consello, la cuestión de confianza.
+9. Presentar al Parlamento los proyectos de ley, por sí mismo o a través del miembro de la Xunta designado.
+10. Facilitar al Parlamento la información y documentación que este recabe de la Xunta.
+11. Solicitar que el Parlamento se reúna en sesión extraordinaria.
+12. Solicitar que se celebre un debate general en el Parlamento.
+13. Comunicar al Parlamento la interposición de recursos de inconstitucionalidad y el planteamiento de conflictos de competencias ante el Tribunal Constitucional, así como el acuerdo de la Xunta de personarse en los recursos y en las cuestiones de inconstitucionalidad que afecten a Galicia.
+14. Ejercer cuantas facultades y atribuciones le correspondan con arreglo a las disposiciones vigentes.
+Se modifica el apartado 1 por el art. 8 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+## TÍTULO III
+
+De los miembros de la Xunta
+
+## CAPÍTULO I
+
+Del estatuto personal, nombramiento y cese
+
+### Artículo 27
+
+Artículo 27.
+1. El Vicepresidente o Vicepresidentes, si los hubiere, y los Conselleiros serán nombrados y cesados por el Presidente de la Xunta, a tenor de lo dispuesto en el artículo 26, y tendrán la alta consideración que corresponde a su condición de miembros del Gobierno Autónomo y el tratamiento de excelentísimo señor.
+2. Los ex Vicepresidentes y los ex Conselleiros mantendrán el tratamiento de excelentísimo señor y recibirán los honores protocolarios que establezca la legislación vigente y la que dicte la Comunidad Autónoma.
+Se modifica por el art. 9 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 28
+
+Artículo 28.
+El Vicepresidente o Vicepresidentes, si los hubiere, y los Conselleiros prestarán juramento en su toma de posesión con la misma fórmula prevista en esta ley para el Presidente de la Xunta.
+
+### Artículo 29
+
+Artículo 29.
+El cese del Presidente de la Xunta comporta el de todos los miembros de la misma. La Xunta cesante continuará en funciones hasta la toma de posesión de la nueva Xunta.
+
+### Artículo 30
+
+Artículo 30.
+Los miembros de la Xunta percibirán la remuneración y gastos de representación que se establezcan por el Parlamento de Galicia y figuren en los Presupuestos Generales de la Comunidad Autónoma.
+
+### Artículo 31
+
+Artículo 31.
+El Vicepresidente o Vicepresidentes, si los hubiere, y los Conselleiros, no podrán ejercer otras funciones representativas que las propias del mandato parlamentario o, en su caso, del Senado, ni cualquier otra función pública que no derive de su cargo, ni actividad mercantil o profesional u otra que menoscabe la independencia y dignidad de su función.
+
+### Artículo 32
+
+Artículo 32.
+En cuanto a la inmunidad se estará a lo dispuesto en el artículo 13 para el Presidente.
+
+## CAPÍTULO II
+
+De las atribuciones
+
+### Artículo 33
+
+Artículo 33.
+El Vicepresidente, o en su caso, el Vicepresidente primero, además de sustituir al Presidente en los supuestos previstos en esta Ley ejercerá las funciones que aquel les delegue dentro del ámbito que le confieran las disposiciones de la presente Ley.
+Asimismo podrán designarse en el seno de la Xunta otros Vicepresidentes encargados de áreas homogéneas con las funciones que le sean asignadas.
+
+### Artículo 34
+
+Artículo 34.
+Los Conselleiros como jefes de sus Consellerías están investidos de las siguientes atribuciones:
+1. Ostentar la representación del Departamento de que son titulares.
+2. Proponer al Consello los nombramientos y ceses de los cargos de su Consellería que requieran la forma de Decretos para su designación.
+3. Ejercer la iniciativa, dirección e inspección de todos los servicios de la Consellería y la alta inspección y demás funciones que les correspondan respecto de los organismos autónomos adscritos a la misma.
+4. Proponer para su aprobación por el Consello la estructuración y organización de su Consellería.
+5. Proponer al Consello los proyectos de ley o de Decretos relativos a las competencias atribuidas a su Consellería.
+6. Ejercer la potestad reglamentaria en las materias de su Consellería.
+7. Resolver los recursos administrativos promovidos contra las resoluciones de los Organismos y Entidades de la Consejería, salvo cuando por Ley o reglamentariamente se atribuya esa facultad a otro órgano.
+8. Formular el anteproyecto de presupuestos de su Consellería.
+9. Disponer los gastos propios de los servicios de su Consellería no reservados a la competencia del Consello, dentro de los límites de la autorización presupuestaria e interesar de los servicios financieros competentes la ordenación de los pagos correspondientes.
+10. Firmar en nombre de la Xunta los contratos relativos a asuntos propios de su Consellería.
+11. Resolver los conflictos de atribuciones entre autoridades dependientes de su Consellería.
+12. Y cuantas facultades le atribuyan las disposiciones en vigor.
+Se modifica el punto 7 por el art. 30 de la Ley 7/2002, de 27 de diciembre. Ref. BOE-A-2003-1810.
+
+### Artículo 35
+
+Artículo 35.
+Los miembros de la Xunta podrán designar y cesar libremente al personal colaborador y de asistencia directa dentro de los créditos presupuestarios consignados al efecto. Este personal, de carácter eventual, cesará automáticamente al producirse el cese del miembro de la Xunta que efectuó su nombramiento.
+
+## TÍTULO IV
+
+Organización y régimen jurídico
+Se modifica por el art. 10 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 36
+
+Artículo 36.
+1. La Administración de la Comunidad Autónoma de Galicia, constituida por órganos jerárquicamente ordenados bajo la dirección de la Xunta, tiene personalidad jurídica única y posee la capacidad de obrar necesaria para llevar a cabo sus fines.
+2. La actuación de la Administración se ajusta a los principios de legalidad, objetividad, servicio al interés general, publicidad, eficacia, jerarquía, economía del gasto público, desconcentración y coordinación entre sus órganos.
+Se modifica por el art. 10 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 37
+
+Artículo 37.
+1. Adoptarán la forma de Decreto:
+a) Las disposiciones generales aprobadas por el Consello de la Xunta.
+b) Las resoluciones del Consello de la Xunta en los supuestos de los números 6, 7, 12, 13, 14, 15 y 16, primer inciso, y 18 del artículo 4.º de la presente Ley y los demás casos que establezcan las Leyes.
+c) Las resoluciones del Presidente de la Xunta, en los supuestos contemplados en el párrafo 2.º del artículo 24, y en los números 1 y 7 del artículo 26 de esta Ley.
+2. Los Decretos serán firmados por el Presidente de la Xunta y refrendados, salvo en el supuesto c) del apartado anterior, por el Conselleiro competente por razón de la materia.
+Se modifica por el art. 10 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 38
+
+Artículo 38.
+Las disposiciones y resoluciones de los Conselleiros revestirán la forma de Órdenes, que serán firmadas por el titular del Departamento. Cuando interesen a más de una Consellería, serán firmadas conjuntamente por los Conselleiros afectados.
+Se modifica por el art. 10 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 39
+
+Artículo 39.
+Las normas reglamentarias tendrán el rango del órgano que las hubiere aprobado y se ordenarán jerárquicamente de la siguiente forma:
+1. Decretos.
+2. Órdenes de las Comisiones Delegadas.
+3. Órdenes dictadas por los Conselleiros.
+Se modifica por el art. 10 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 40
+
+Artículo 40.
+Serán nulas de pleno derecho las normas reglamentarias que infrinjan otras de rango superior o se opongan a lo establecido por la ley.
+Se modifica por el art. 10 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 38.
+
+### Artículo 41
+
+Artículo 41.
+1. Las disposiciones reglamentarias no podrán establecer penas ni imponer tributos o exacciones de cualquier naturaleza. Tampoco podrán imponer sanciones sino en el marco de lo dispuesto en la Ley.
+2. Serán nulas las disposiciones y resoluciones que infrinjan lo dispuesto en el apartado anterior.
+Se modifica por el art. 10 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 39.
+
+### Artículo 42
+
+Artículo 42.
+Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general o dispensar singularmente de su cumplimiento, aún cuando aquellas tengan un rango formal igual o superior a ésta.
+Se modifica por el art. 10 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 40.
+
+## TÍTULO V
+
+De las relaciones de la Xunta con el Parlamento
+
+## CAPÍTULO I
+
+Del control parlamentario
+
+## Sección I
+
+Sección I. De la Moción de Censura
+
+### Artículo 43
+
+Artículo 43.
+1. El Consello podrá delegar las funciones administrativas que tenga encomendadas en las Comisiones Delegadas.
+2. Sin perjuicio de las competencias delegadas en el Vicepresidente primero de acuerdo con lo dispuesto en el artículo 32 de esta ley, el Presidente podrá delegar funciones puramente ejecutivas en los demás miembros de la Xunta dando cuenta al Parlamento.
+3. Los Conselleiros podrán delegar competencias administrativas en los órganos inmediatamente inferiores de sus Consellerías, cuando las necesidades de funcionamiento así lo aconsejen.
+Se modifica por el art. 10 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 41.
+
+### Artículo 44
+
+Artículo 44.
+1. La delegación de atribuciones a que se refiere el artículo anterior y su revocación habrán de publicarse en el «Diario Oficial de Galicia».
+2. No podrán ser objeto de delegación, salvo que una ley lo autorice expresamente, las competencias que, a su vez, hayan sido delegadas, ni la competencia para resolver recursos administrativos interpuestos contra actos o resoluciones del órgano delegatario.
+3. Los actos dictados por delegación se considerarán como propios del órgano delegante que, en cualquier momento, podrá revocar la delegación otorgada.
+Se modifica por el art. 10 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 42.
+
+## Sección II
+
+Sección II. De la Cuestión de confianza
+
+## TÍTULO V
+
+De las relaciones de la Xunta con el Parlamento
+
+## CAPÍTULO I
+
+Del control parlamentario
+
+## Sección I
+
+Sección I. De la Moción de Censura
+
+### Artículo 45
+
+Artículo 45.
+1. El Parlamento puede exigir la responsabilidad política de la Xunta y su Presidente mediante la adopción por mayoría absoluta de la moción de censura.
+2. La moción de censura deberá estar firmada al menos por una quinta parte de los miembros del Parlamento, y habrá de incluir un candidato a la Presidencia de la Xunta.
+3. La moción de censura no podrá ser votada hasta que transcurran cinco días desde su presentación. En los dos primeros días de dicho plazo podrán presentarse mociones alternativas.
+4. Si la moción de censura no fuese aprobada por el Parlamento, sus signatarios no podrán presentar otra durante el mismo período de sesiones.
+Se modifica por el art. 11.1 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 43.
+
+## Sección II
+
+Sección III. De otras formas de control
+
+### Artículo 46
+
+Artículo 46.
+Si prosperase la moción de censura la Xunta y su Presidente cesarán y el candidato incluido en ella se entenderá investido de la confianza del Parlamento, procediéndose a continuación a su designación como Presidente de la Xunta, según lo dispuesto en el artículo 17 de esta ley.
+Se modifica por el art. 11.1 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 44.
+
+## Sección II
+
+Sección II. De la Cuestión de confianza
+
+### Artículo 47
+
+Artículo 47.
+El Presidente de la Xunta, previa deliberación del Consello, puede plantear ante el Parlamento la cuestión de confianza sobre su Programa o sobre una declaración política general. La cuestión de confianza no podrá votarse hasta transcurridas 24 horas desde su presentación. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de Diputados.
+Si el Parlamento negase su confianza al Presidente de la Xunta se entenderá cesado y se procederá a la elección de nuevo Presidente conforme a lo establecido en esta Ley.
+Se modifica por el art. 11.1 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 45.
+
+## Sección III
+
+Sección III. Del impulso y control de la acción política del Gobierno
+Se modifica por el art. 11.2 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 48
+
+Artículo 48.
+La Xunta solicitará anualmente del Parlamento, al comienzo de uno de los periodos de sesiones, la celebración de un debate de política general. No cabrá celebrar este debate cuando en el mismo año la Cámara haya investido al presidente o a la presidenta de la Xunta de Galicia.
+Se modifica por la Ley 10/2015, de 31 de agosto. Ref. BOE-A-2015-10236.
+ Se modifica por el art. 2 de la Reforma del Reglamento del Parlamento de Galicia de 3 de agosto de 2015. Ref. DOG-g-2015-90696
+ Se modifica por el art. 11.2 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+## Sección IV
+
+Sección IV. De otras formas de control
+Se añade por el art. 11.3 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Artículo 49
+
+Artículo 49.
+El Parlamento, sus Comisiones y los Diputados, a través de la Presidencia del mismo, podrán recabar la información y ayuda que precisen de la Xunta, de sus Conselleiros y de cualquier otra autoridad de la Comunidad Autónoma.
+Se modifica por el art. 11.3 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 46.
+
+## CAPÍTULO II
+
+Delegación legislativa
+
+### Artículo 50
+
+Artículo 50.
+El Parlamento y sus Comisiones pueden reclamar la presencia de los Conselleiros y demás altos cargos de la Comunidad Autónoma.
+Se modifica por el art. 11.3 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 47.
+
+### Artículo 51
+
+Artículo 51.
+Los Conselleiros tienen acceso a las sesiones del Parlamento y a las de sus Comisiones y la facultad de hacerse oír en ellas. Ante las Comisiones podrán hacerse acompañar de altos cargos o funcionarios de sus Consellerías y solicitar que éstos informen.
+Se modifica por el art. 11.3 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 48.
+
+### Artículo 52
+
+Artículo 52.
+1. La Xunta y cada uno de sus miembros están sometidos a las mociones, interpelaciones y preguntas que se le formulen en el Parlamento.
+2. Toda interpelación podrá dar lugar a una moción en la que el Parlamento manifieste su posición.
+Se modifica por el art. 11.3 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 49.
+
+## CAPÍTULO II
+
+Delegación legislativa
+
+### Artículo 53
+
+Artículo 53.
+1. El Parlamento podrá delegar en la Xunta la potestad de dictar normas con rango de ley que recibirán el título de Decretos legislativos.
+2. La delegación legislativa deberá otorgarse mediante una ley de bases cuando su objeto sea la formación de textos articulados o por una ley ordinaria cuando se trate de refundir varios textos legales en uno solo.
+3. No podrán ser objeto de delegación la regulación del régimen electoral de la Comunidad Autónoma, la aprobación del presupuesto, las leyes institucionales o de desarrollo básico del Estatuto y las que, por su naturaleza, requieran mayoría cualificada para su aprobación.
+Se modifica por el art. 11.4 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 50.
+
+### Artículo 54
+
+Artículo 54.
+La delegación legislativa habrá de otorgarse a la Xunta en forma expresa para materia concreta y con fijación de plazo para su ejercicio, sin que pueda entenderse concedida de forma implícita ni por tiempo indeterminado. Tampoco podrá permitir la subdelegación en favor de autoridades distintas de la propia Xunta.
+Se modifica por el art. 11.4 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 51.
+
+### Artículo 55
+
+Artículo 55.
+1. Las leyes de bases delimitarán con precisión el objeto y alcance de la delegación legislativa y los principios y criterios que han de seguirse en su ejercicio. En ningún caso podrán autorizar a la Xunta para modificar la propia ley de bases ni para dictar normas con carácter retroactivo.
+2. Las leyes ordinarias de autorización para refundir textos legales, determinarán el ámbito normativo a que se refiere el contenido de la delegación, especificando si se circunscribe a la mera formulación de un texto único o si se incluye la de regularizar, aclarar y armonizar los textos legales que han de ser refundidos.
+Se añade por el art. 11.4 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 52.
+
+### Artículo 56
+
+Artículo 56.
+El control sobre los Decretos Legislativos se llevará a cabo en los términos previstos en el Reglamento del Parlamento de Galicia, sin perjuicio de lo cual las leyes de delegación podrán establecer, en cada caso, fórmulas adicionales de control parlamentario.
+Se añade por el art. 11.4 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 53.
+
+### Artículo 57
+
+Artículo 57.
+1. Cuando una proposición de ley o una enmienda sea contraria a una delegación legislativa en vigor, la Xunta está facultada para oponerse a su tramitación. En este caso podrá presentarse una proposición de ley para la derogación parcial o total de la ley de delegación.
+2. La delegación se entenderá agotada con la publicación por la Xunta de la norma correspondiente.
+Se añade por el art. 11.4 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+ Su anterior numeración era art. 54.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Lo dispuesto en el número 7 del artículo 11 de la presente Ley será aplicable a todos los efectos, desde la celebración de las primeras elecciones autonómicas gallegas.
+Los tratamientos honoríficos establecidos en ese precepto serán también extensibles a los ex Presidentes de la Preautonomía.
+Se añade por el art. 12 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En tanto la Xunta no regule por Decreto lo establecido en el párrafo segundo del número 7 del artículo 11 de la presente Ley, la compensación económica establecida será equivalente al 60 por 100 de la que corresponda al Presidente de la Xunta. Tal compensación será compatible con aquellas otras retribuciones que los ex Presidentes puedan percibir, por otros conceptos, con cargo a los Presupuestos Generales de la Comunidad Autónoma.
+En ningún caso, la cuantía global puede llegar a ser superior a la retribución total que en cada caso perciba el Presidente de la Xunta de Galicia.
+Se añade por el art. 12 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+(Derogada)
+Se deroga por el art. único de la Ley 12/1989, de 4 de octubre. Ref. BOE-A-1989-25806.
+ Se añade por el art. 12 de la Ley 11/1988, de 20 de octubre. Ref. BOE-A-1988-27172.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Mientras el Parlamento de Galicia no adopte la resolución prevista en el artículo 2, párrafo cuarto, de la presente ley, el porcentaje del sexo menos representado en el Consello de la Xunta de Galicia no puede ser inferior al 40 por 100.
+Se añade por la disposición adicional 8.6 de la Ley 2/2007, de 28 de marzo. Ref. BOE-A-2007-10021.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta a la Xunta para dictar sus propios Reglamentos internos conforme a lo establecido en esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente ley entrará en vigor el mismo día de su publicación en el Diario Oficial de Galicia.
+
+Santiago de Compostela, 22 de Febrero de 1983.
+GERARDO FERNÁNDEZ ALBOR,
+Presidente

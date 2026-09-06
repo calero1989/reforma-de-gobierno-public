@@ -1,0 +1,301 @@
+# Ley Foral 2/2014, de 17 de febrero, por la que se regulan los órganos rectores de determinadas fundaciones.
+
+- Identificador BOE: `BOE-A-2014-2712`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2014-2712
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta que se declara que esta Ley no es contraria al orden constitucional de distribución de competencias siempre que se interprete en los términos señalados en los fundamentos jurídicos 5 y 6, por Sentencia del TC 14/2015, de 5 de febrero. Ref. BOE-A-2015-2260.
+
+## Preámbulo
+
+LA PRESIDENTA DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral por la que se regulan los órganos rectores de determinadas fundaciones.
+EXPOSICIÓN DE MOTIVOS
+La presente ley foral tiene por objeto modificar la Ley Foral 2/2014, de 17 de febrero, por la que se regulan los órganos rectores de las fundaciones provenientes de la transformación de las cajas de ahorros.
+Tras la aprobación de la Ley Foral 21/2019, de 4 de abril, por la que se procede a la modificación y actualización de la Compilación del Derecho Civil Foral de Navarra (Fuero Nuevo), se ha producido un cambio sustancial en el régimen jurídico de las fundaciones, que ha motivado la aprobación de la Ley Foral 13/2021, de 30 de junio, de Fundaciones de Navarra, que ha adaptado la normativa existente al Fuero Nuevo y que contiene la regulación sustantiva aplicable a todas las fundaciones constituidas al amparo de la Ley 42 del Fuero Nuevo.
+A pesar de contar con una nueva regulación, la Ley Foral 2/2014, mantiene su vigencia dadas las especiales características que reúnen las fundaciones provenientes de la transformación de las cajas de ahorro.
+En el caso de Navarra, Fundación Caja Navarra es heredera de la Caja de Ahorros de Navarra, que desapareció como entidad de crédito con identidad propia, al traspasar su negocio financiero al banco Banca Cívica, luego absorbido por Caixabank, y transformada, en aplicación de la Ley 9/2012, de 14 de noviembre, de Reestructuración y Resolución de las Entidades de Crédito, en fundación bancaria llamada a gestionar lo que antes constituía el núcleo de la obra benéfica y social de Caja Navarra.
+Con fecha 26 de marzo de 2021 y como consecuencia de la inscripción en el Registro Mercantil de Valencia de la fusión por absorción de Bankia S.A. por Caixabank S.A., Fundación Caja Navarra ha dejado de cumplir con los requisitos que la normativa de Cajas de Ahorro y Fundaciones Bancarias exige para ser una fundación bancaria, por lo que debe ser transformada en una fundación ordinaria.
+Atendiendo a su origen y a la peculiar característica de Fundación Caja Navarra, se justifica que estas fundaciones deban someterse a un régimen normativo distinto, con una mayor participación y control público y sometido a las reglas de transparencia. Por todo ello, procede modificar la Ley Foral 2/2014, de 17 de febrero, por la que se regulan los órganos rectores de determinadas fundaciones, para adecuarla a la realidad jurídica y social actual.
+Se modifica por el art. 1.1 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+## CAPÍTULO I
+
+Órganos de gobierno, administración, gestión y representación
+
+### Artículo 1
+
+Artículo 1. Enumeración.
+1. Los estatutos de las fundaciones provenientes de la transformación de las cajas de ahorros de Navarra preverán que su ámbito de actuación es Navarra, y su órgano de gobierno será un patronato compuesto por nueve personas.
+2. Sin perjuicio de que atiendan a los fines de la fundación y de que esta tenga fines benéfico-sociales, los órganos rectores de las fundaciones provenientes de la transformación de las cajas de ahorros perseguirán en sus actos fines de interés social en pro de Navarra y de su ciudadanía.
+
+## CAPÍTULO II
+
+Del patronato y de los patronos
+
+### Artículo 2
+
+Artículo 2. El patronato.
+1. El patronato será el órgano superior de gobierno y decisión de las fundaciones sometidas a las disposiciones de esta ley foral.
+2. El patronato estará presidido por la persona nombrada para la presidencia.
+3. Del patronato dependerá jerárquicamente la dirección.
+
+### Artículo 3
+
+Artículo 3. Composición del patronato.
+1. Constituirán el patronato en calidad de patronos:
+a) Cinco miembros designados por el Pleno del Parlamento de Navarra, pudiendo votar cada Parlamentario Foral a un máximo de tres candidatos.
+b) Tres miembros elegidos por el Gobierno de Navarra.
+c) Un miembro elegido por el Pleno del Ayuntamiento de Pamplona.
+2. Las personas candidatas deberán tener reconocido prestigio profesional, conocimiento y experiencia en los ámbitos relacionados con los fines fundacionales en la manera que se especifique en los estatutos.
+3. Además de las incompatibilidades que les puedan afectar por aplicación de cualquier otra normativa vigente, no podrán ser elegidas ni nombradas como miembros del Patronato las personas que se encuentren en alguna de las siguientes circunstancias:
+a) Los concursados inhabilitados mientras no haya concluido el periodo de inhabilitación.
+b) Haber sido condenado a pena que lleve aneja la inhabilitación general o especial para el ejercicio de cargos públicos.
+c) El personal al servicio de las Administraciones públicas con funciones que se relacionen directamente con las actividades propias de las fundaciones.
+d) Mantener, en el momento de ser elegidos para los cargos o durante el ejercicio de los mismos, deudas vencidas y exigibles de cualquier clase frente a la fundación.
+e) Mantener cualquier reclamación judicial frente a la fundación, salvo las reclamaciones laborales o aquellas que planteen los miembros del patronato.
+f) Pertenecer al Consejo de Administración u órgano equivalente de más de cuatro sociedades mercantiles o entidades corporativas. Quedan exceptuados los cargos que se desempeñen en representación de la fundación o por designación de la misma.
+g) Estar vinculado a la fundación o a sociedades o entidades bancarias en las que participe esta con más de un 20 por ciento del capital por contrato de obras, servicios, suministros o trabajo retribuido. Esta incompatibilidad alcanzará también a cónyuges y asimilados y a las sociedades en las que el patrono, directa o indirectamente, participe en más de un 20 por ciento, aisladamente o con su cónyuge, ascendientes o descendientes o en las que desempeñen los cargos de presidente, consejero delegado o asimilado.
+h) Ocupar el cargo o puesto de patrono, presidente, consejero, administrador, director, gerente, asesor o asimilados en entidades bancarias, sus fundaciones o sociedades.
+i) Desempeñar cualquier cargo político electo en las instituciones de la Unión Europea, del Estado, de las comunidades autónomas y de la Foral de Navarra y de las Entidades Locales.
+j) Ocupar el puesto de alto cargo en la Administración de la Comunidad Foral de Navarra, en la Administración General del Estado, en la Administración local o en cualquiera de las entidades del sector público, de derecho público o privado, vinculadas o dependientes de ellas.
+k) Ocupar un cargo ejecutivo o directivo en partido político, asociación empresarial o sindicato.
+Las incompatibilidades señaladas en las letras g), i), j) y k) de este artículo se mantendrán durante los dos años siguientes a la fecha del cese en la vinculación o en cualquiera de los cargos relacionados.
+4. La Presidencia del patronato será elegida de entre sus miembros por mayoría absoluta y mediante votación secreta.
+5. Además, asistirán al patronato, salvo en el caso de asuntos laborales que les atañan directamente, las personas nombradas para la dirección y la secretaría. La asistencia de estas personas será con voz y sin voto. Ni el director ni el secretario tendrán la condición de patronos.
+6. Se procurará que la composición del patronato sea lo más paritaria posible, para lo cual cada una de las instituciones proponentes empleará criterios de paridad en su propuesta.
+Se modifica por el art. 1.2 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Artículo 4
+
+Artículo 4. Nombramiento y toma de posesión de los patronos.
+El Parlamento de Navarra, el Gobierno de Navarra y el Ayuntamiento de Pamplona comunicarán al Protectorado el nombre de las personas elegidas que han de ocupar el cargo de patrono, que deberán aceptarlo en la forma establecida en la Ley Foral 13/2021, de 30 de junio, de Fundaciones de Navarra en el plazo máximo de 1 mes desde su designación.
+Se modifica por el art. 1.3 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Artículo 5
+
+Artículo 5. Duración del cargo de patrono.
+La condición de miembro del patronato tendrá una duración de seis años, produciéndose una renovación parcial cada tres años en la forma que se determine en los estatutos, no pudiendo ser reelegidos en el mandato inmediatamente posterior.
+Se modifica por el art. 1.4 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Artículo 6
+
+Artículo 6. Obligaciones de los patronos.
+Son obligaciones de los patronos, además de otras que dispongan la legislación vigente o los estatutos de la fundación:
+a) Cumplir fielmente los fines de la fundación.
+b) Observar escrupulosamente los principios del Código Ético de Conducta que al efecto apruebe el patronato.
+c) Concurrir a las reuniones.
+d) Desempeñar sus cargos con la diligencia de un representante leal.
+e) Mantener y conservar los bienes y valores de la fundación.
+f) Responder frente a la fundación de los daños y perjuicios que causen por actos contrarios a la ley o a los estatutos, o por los realizados negligentemente. Quedarán exentos de responsabilidad quienes se opusiesen expresamente al acuerdo determinante de esta o quienes prueben que, no habiendo intervenido en su adopción y ejecución, desconocían su existencia o, conociéndola, hicieron todo lo conveniente para evitar el daño o, al menos, se opusieron expresamente a aquel.
+g) Custodiar el conjunto de la documentación desde la creación de la entidad que da origen a la fundación especial. Asimismo, realizará las gestiones que fueran necesarias, en su caso, para recuperar cuanta documentación le pudiera corresponder por su origen.
+Se modifica la letra g) por el art. 1.5 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Artículo 7
+
+Artículo 7. Retribuciones de los patronos.
+1. Los miembros del patronato ejercerán su cargo gratuitamente sin que en ningún caso puedan percibir retribución o dieta por el desempeño de su función.
+2. No obstante lo anterior, los miembros del patronato tendrán derecho a que se les reembolsen los gastos debidamente justificados que el desempeño de su función les ocasione y en la cuantía estrictamente necesaria. Las cantidades que perciban por estos conceptos serán públicas.
+
+### Artículo 8
+
+Artículo 8. Facultades del patronato.
+1. Además de las facultades que le puedan corresponder por aplicación de cualquier normativa vigente, corresponde al patronato las siguientes facultades:
+a) Las facultades del patronato se extienden a todo lo que concierne al gobierno, representación y administración de la fundación, en conformidad con lo recogido en los estatutos.
+b) Corresponde al patronato aprobar, modificar e interpretar, previo informe preceptivo del protectorado, los estatutos de la fundación, que en ningún caso podrán ser contrarios a lo establecido en esta ley foral y demás normativa vigente.
+La aprobación, modificación e interpretación de los estatutos requerirá acuerdo adoptado por la mayoría absoluta de los miembros del patronato.
+Los estatutos, sus modificaciones o acuerdos de interpretación se publicarán en el «Boletín Oficial de Navarra» y en la página web de la fundación.
+c) Corresponde al Patronato la confección de los presupuestos y la aprobación cada ejercicio, de las cuentas anuales de la fundación por acuerdo adoptado por la mayoría simple de sus miembros.
+Los gastos previstos recogidos en los presupuestos no podrán superar en un 25 por ciento el total de los ingresos previstos para el ejercicio, salvo autorización expresa del Protectorado.
+Los gastos previstos recogidos en los presupuestos no podrán suponer un incremento superior al 10 por ciento en relación con los gastos previstos incluidos en el presupuesto del ejercicio anterior, salvo autorización expresa del Protectorado.
+Los presupuestos y cuentas anuales, una vez aprobados, serán públicos.
+d) Corresponde al patronato el nombramiento de la sociedad encargada de auditar las cuentas anuales de la fundación.
+Tal nombramiento será público, así como el informe de auditoría.
+e) La aprobación del Código Ético de Conducta.
+f) La aprobación de la estructura orgánica de la fundación y de sus modificaciones, así como la elección de los cargos directivos.
+g) Ordenar, clasificar y gestionar toda la documentación de la fundación especial, así como toda la documentación de la entidad o entidades que da origen a la fundación. Dicha documentación podrá ser requerida por los Parlamentarios Forales ajustándose al procedimiento establecido en el Reglamento de la Cámara. Y deberá estar a disposición del resto de instituciones públicas de Navarra para lo que se articulará un protocolo de acceso que deberá ser aprobado por acuerdo de la mayoría de los miembros del Patronato.
+2. En ningún caso serán delegables las facultades previstas en el apartado anterior.
+Se modifica por el art. 1.6 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Artículo 9
+
+Artículo 9. Funcionamiento del patronato.
+1. El patronato se reunirá dentro de los seis primeros meses de cada año para aprobar las cuentas anuales, así como la propuesta de aplicación del resultado en los términos previstos en la legislación aplicable.
+De igual modo, en el cuarto trimestre del ejercicio se reunirá para la aprobación del Plan de Actuación correspondiente al ejercicio siguiente.
+2. Sin perjuicio de lo dispuesto en el número anterior, el patronato podrá celebrar cuantas otras reuniones convoque la presidencia o lo soliciten al menos tres patronos. Si solicitada una reunión por tres patronos, la presidencia no la convocara en el plazo de un mes, los solicitantes estarán facultados para convocarla formalmente.
+3. El patronato quedará válidamente constituido cuando concurran la mitad más uno de sus miembros. En todo caso, será necesaria la presencia del presidente y del secretario o de las personas que los sustituyan.
+4. Cada miembro del patronato tendrá derecho a un voto y los acuerdos se adoptarán válidamente por mayoría de los miembros presentes o debidamente representados, salvo cuando expresamente se exija otra mayoría cualificada.
+5. De las reuniones del patronato se levantará por el secretario la correspondiente acta, que deberá ser aprobada o al finalizar la reunión o en la siguiente sesión. Firmarán el acta el presidente y el secretario. El acta se transcribirá al correspondiente libro.
+6. El acta especificará los asistentes, presentes o representados, el orden del día de la reunión, las circunstancias del lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones si lo solicitaran los patronos, así como el contenido de los acuerdos adoptados.
+7. La convocatoria de las reuniones se cursará por el secretario por orden del presidente, con una antelación mínima de cinco días naturales a su celebración, por cualquier medio del que puedan tener constancia de su recepción al lugar o dirección designado al efecto por cada uno de los miembros del patronato.
+En la convocatoria se indicará el lugar, día y hora de celebración de la reunión, así como el orden del día. Con la convocatoria se remitirá la documentación que se estime necesaria para el examen de los distintos puntos incluidos en el orden del día.
+No se precisará convocatoria previa cuando se encuentren presentes todos los miembros del patronato y acuerden por unanimidad la celebración de la reunión.
+8. Los acuerdos surtirán efecto desde el momento en que sean adoptados, salvo que por disposición de la ley o decisión del patronato se demore su eficacia a un momento posterior.
+
+## CAPÍTULO II bis
+
+El Protectorado
+Se añade por el art. 1.7 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Artículo 9 bis
+
+Artículo 9 bis. Protectorado: carácter y funciones.
+1. El Protectorado de la Fundación corresponde a la Administración de la Comunidad Foral de Navarra, que lo ejercerá a través del departamento competente en materia de economía y hacienda o de aquel al que se atribuya la competencia reglamentariamente.
+2. El Protectorado, además de las facultades que le correspondan por aplicación de la normativa vigente, tendrá las facultades siguientes:
+a) Velar por la legalidad y el buen funcionamiento de la fundación, comprobando el cumplimiento adecuado de los fines fundacionales de acuerdo con los estatutos y teniendo en cuenta la consecución del interés general.
+b) Velar por la integridad, suficiencia y rentabilidad del patrimonio de la fundación y verificar si los recursos económicos de la fundación han sido aplicados al cumplimiento de los fines fundacionales, en los términos previstos en los presentes estatutos y en la ley, pudiendo solicitar del patronato la información que a tal efecto resulte necesaria.
+c) Designar un representante del Protectorado que podrá asistir, con voz pero sin voto, a las sesiones de los órganos colegiados de la fundación.
+d) Recabar de la fundación cuanta información considere necesaria para ejercer su función de protectorado.
+e) Practicar inspecciones en la fundación, tanto periódicas para comprobar el cumplimiento de las normas generales y estatutarias que regulan el funcionamiento y actividad de la fundación como extraordinarias sobre cualquier actividad o aspecto específico de la fundación.
+f) Ejercer provisionalmente las funciones del órgano de gobierno de la fundación si por cualquier motivo faltasen todas las personas llamadas a integrarlo e instar la extinción de la Fundación.
+g) Ejercitar la acción de responsabilidad de los patronos en los supuestos contemplados en la ley.
+h) Impugnar los actos y acuerdos de los órganos de la fundación que sean contrarios a los preceptos legales o estatutarios por los que se rige la fundación.
+i) Otorgar las autorizaciones para la fusión y extinción de la fundación y para la adopción de acuerdos por el patronato en los casos previstos en los presentes estatutos y en las leyes.
+j) Controlar el proceso de liquidación de la fundación.
+k) Cuantas otras funciones le confieran las leyes.
+l) Autorizar aquellos gastos que superen en un 25 por ciento el total de los ingresos previstos para el ejercicio.
+m) Autorizar aquellos gastos que supongan un incremento superior al 10 por ciento en relación con los gastos previstos incluidos en el presupuesto del ejercicio anterior.
+n) Emitir informe preceptivo al proyecto de estatutos de las fundaciones incluidas en el ámbito de aplicación de esta ley foral, así como a las modificaciones que de los mismos se produzcan.
+Se añade por el art. 1.7 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+## CAPÍTULO III
+
+La presidencia
+
+### Artículo 10
+
+Artículo 10. Elección.
+(Suprimido)
+Se suprime por el art. 1.8 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Artículo 11
+
+Artículo 11. Funciones.
+(Suprimido)
+Se suprime por el art. 1.8 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Artículo 12
+
+Artículo 12. Sustitución.
+(Suprimido)
+Se suprime por el art. 1.8 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+## CAPÍTULO IV
+
+La dirección
+
+### Artículo 13
+
+Artículo 13. Funciones.
+(Suprimido)
+Se suprime por el art. 1.8 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+## CAPÍTULO V
+
+De la secretaría
+
+### Artículo 14
+
+Artículo 14. De la secretaría.
+(Suprimido)
+Se suprime por el art. 1.8 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+## CAPÍTULO VI
+
+Obligaciones y control de la fundación
+
+### Artículo 15
+
+Artículo 15. Obligaciones de la fundación.
+1. Todos los órganos de las fundaciones sometidas a la presente ley foral deben ajustar su actuación a la legislación vigente y a los estatutos y cumplir con los principios de la ética, el buen gobierno y la profesionalidad.
+2. Las fundaciones rendirán cuentas de su actividad al Parlamento de Navarra anualmente, mediante comparecencia de quien ejerza la presidencia.
+El Parlamento de Navarra podrá requerir la comparecencia de los titulares de los órganos de la fundación, quienes vendrán obligados a colaborar con aquél y a facilitarle la información que les demande.
+3. La actividad de las fundaciones reguladas por la presente ley foral serán objeto de una auditoría anual que se analizará por el protectorado dentro de las funciones que tiene atribuidas. Dicha auditoría se remitirá al Parlamento de Navarra una vez aprobada.
+4. La publicidad de la actividad de la fundación, de su patronato, de sus principales actos, contratos, convenios y subvenciones, y de los actos que se citan en la presente ley foral, se efectuará mediante una página web de la fundación.
+En dicho portal se publicará también la relación de las personas que, por cualquier concepto, reciban de los fondos de la fundación más de 15.000 euros, así como la cuantía exacta y el concepto de la percepción. Se exceptúan de lo anterior las retribuciones de las personas que mantengan una relación laboral con la fundación, salvo la dirección.
+Se suprime por el art. 1.9 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En lo no dispuesto en la presente ley foral, se estará a lo establecido en el régimen foral aplicable a las fundaciones y, en particular, a la Ley Foral 13/2021 de 30 de junio, de Fundaciones de Navarra.
+Se modifica por el art. 1.10 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Sin perjuicio de su control por el Parlamento de Navarra, en los términos establecidos por esta ley foral y de los que se establezcan con carácter general en las leyes, se garantiza la autonomía de la actividad de las fundaciones sometidas a la presente ley foral respecto de cualquier otra institución pública.
+Se modifica por el art. 1.11 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Las fundaciones sometidas a la presente ley foral quedarán incluidas dentro del ámbito subjetivo de aplicación de la Ley Foral 5/2018, de 17 de mayo, de Transparencia, acceso a la información pública y buen gobierno.
+Se modifica por el art. 1.12 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Aplicación de los recursos al cumplimiento de los fines de las fundaciones provenientes de la transformación de las cajas de ahorros de Navarra.
+Las fundaciones reguladas en esta Ley foral no estarán sujetas a los límites establecidos en el artículo 47 de la Ley Foral 13/2021, de 30 de junio, de Fundaciones de Navarra.
+Se añade por la disposición final 13 de la Ley Foral 16/2025, de 22 de diciembre. Ref. BOE-A-2026-5611
+ Se suprime por el art. 1.13 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+(Suprimida)
+Se suprime por el art. 1.13 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+(Suprimida)
+Se suprime por el art. 1.13 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+Las fundaciones sometidas a la presente ley foral solicitarán el régimen fiscal especial de las fundaciones previsto en la Ley Foral 10/1996, de 2 de julio, reguladora del régimen tributario de las fundaciones y de las actividades de patrocinio.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. Las fundaciones de carácter especial constituidas en Navarra al amparo de las disposiciones del Real Decreto Ley 11/2010, de 9 de julio, por el que se regulan los órganos de gobierno y otros aspectos del régimen jurídico de las Cajas de Ahorros, que pierdan su condición de fundación bancaria o fundación especial deberán adaptar sus estatutos a las disposiciones de esta ley foral en el plazo de tres meses desde la pérdida de su condición de fundación bancaria o especial. Aquellas fundaciones que a la entrada en vigor de la ley foral hayan perdido la condición de fundación bancaria o especial deberán adaptar sus estatutos a las disposiciones de esta ley foral en el plazo de tres meses desde la entrada en vigor de la presente ley foral.
+Una vez aprobados los estatutos, cesará el Patronato y se procederá en el plazo de un mes a la elección de uno nuevo en la forma prevista en esta ley foral y en sus estatutos.
+En el supuesto excepcional de que no se realice la adaptación de los estatutos en el plazo previsto en el apartado anterior quedarán sin efecto las disposiciones de los estatutos que se opongan a lo previsto en la presente ley foral y cesará el actual Patronato procediéndose a la designación de uno nuevo en el plazo de un mes. Este Patronato así elegido realizará la adaptación de los estatutos en un nuevo plazo de tres meses.
+2. En caso de que no se realizara dicha adaptación, al cumplirse dicho plazo quedarán derogadas y sin aplicación todas las disposiciones de sus estatutos que se opongan a las disposiciones de la presente ley foral.
+3. A la aprobación de los estatutos y, en todo caso, al cumplirse el plazo mencionado en el apartado 1, cesarán en sus cargos los miembros de los órganos rectores de las fundaciones de carácter especial existentes.
+Se modifica el apartado 1 por el art. 1.14 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Renovación del primer patronato.
+Durante el primer mandato y con carácter excepcional, cuatro miembros elegidos por el Patronato conforme al procedimiento que se establezca en los estatutos cesarán en su cargo a los tres años del mandato, a fin de garantizar la renovación parcial prevista en el artículo 5. La Presidencia del patronato comunicará los ceses a las entidades afectadas con dos meses de antelación al vencimiento, para que procedan a nombrar nuevos candidatos.
+Se modifica por el art. 1.15 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+(Suprimida)
+Se suprime por el art. 1.16 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+(Suprimida)
+Se suprime por el art. 1.16 de la Ley Foral 1/2022, de 26 de enero de 2022. Ref. BOE-A-2022-2069
+
+### Disposición final primera
+
+Disposición final primera.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente ley foral.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente ley foral entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Navarra.
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S.M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 17 de febrero de 2014.–La Presidenta del Gobierno de Navarra, Yolanda Barcina Angulo.

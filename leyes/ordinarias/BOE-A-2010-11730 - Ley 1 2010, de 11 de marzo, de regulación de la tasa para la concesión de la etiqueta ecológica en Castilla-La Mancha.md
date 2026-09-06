@@ -1,0 +1,71 @@
+# Ley 1/2010, de 11 de marzo, de regulación de la tasa para la concesión de la etiqueta ecológica en Castilla-La Mancha.
+
+- Identificador BOE: `BOE-A-2010-11730`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2010-11730
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Las Cortes de Castilla-La Mancha han aprobado y yo, en nombre del Rey, promulgo la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+El Reglamento (CE) n.º 66/2010, del Parlamento Europeo y del Consejo, de 25 de noviembre de 2009, relativo a la etiqueta ecológica de la Unión Europea, pretende promover productos y servicios que puedan reducir los efectos ambientales adversos, en comparación con otros productos de la misma categoría, contribuyendo así a un uso eficaz de los recursos, a incentivar su uso y a un elevado nivel de protección del medio ambiente, todo ello a través de una rigurosa orientación e información a los consumidores.
+La celebración de un contrato con el solicitante de la etiqueta y el pago de un canon de concesión de la misma constituye el presupuesto mismo de la concesión de la etiqueta ecológica en relación a un producto concreto, canon cuya cuantía se fijará en el marco normativo establecido por el propio Reglamento (CE) n.º 66/2010, de 25 de noviembre de 2009.
+La presente Ley pretende desarrollar en el Ordenamiento autonómico castellano-manchego las previsiones comunitarias relativas al canon por concesión, de acuerdo con lo dispuesto en el artículo 49 del Estatuto de Autonomía de Castilla-La Mancha.
+
+### Artículo 1
+
+Artículo 1. Hecho imponible.
+Constituye el hecho imponible de esta tasa la tramitación, por el órgano administrativo competente de la Administración de la Junta de Comunidades de Castilla-La Mancha, de la solicitud de concesión de la etiqueta ecológica para los productos que se encuentren dentro del ámbito de aplicación del Reglamento 66/2010, del Parlamento Europeo y del Consejo, de 25 de noviembre de 2009, relativo a la etiqueta ecológica de la Unión Europea o la norma que lo sustituya.
+
+### Artículo 2
+
+Artículo 2. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, así como las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, que soliciten la realización de las actividades que constituyen su hecho imponible. Los partícipes o cotitulares de las entidades a las que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, responderán de manera solidaria respecto de la obligación tributaria.
+
+### Artículo 3
+
+Artículo 3. Cuota.
+La cuantía de la tasa se fija en 300 euros por solicitud.
+Se modifica por la disposición final 1 de la Ley 9/2012, de 29 de noviembre. Ref. BOE-A-2013-2558#df
+
+### Artículo 4
+
+Artículo 4. Bonificaciones.
+La cuantía de la tasa será objeto de la bonificación del 20% para los sujetos pasivos que acrediten disponer de la validación por el Reglamento EMAS o certificación por la Norma ISO 14001, y se comprometan, en su política medioambiental, a incorporar una referencia expresa al cumplimiento de los criterios de la etiqueta ecológica que han servido de base a la concesión.
+
+### Artículo 5
+
+Artículo 5. Devengo.
+La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, momento en el que se realizará el pago.
+
+### Artículo 6
+
+Artículo 6. Gestión.
+1. Los órganos de la Consejería competente en materia de medio ambiente serán los competentes para la gestión y recaudación en periodo voluntario de la tasa objeto de la presente Ley.
+2. La tasa se gestionará obligatoriamente en régimen de autoliquidación, en impresos normalizados aprobados por la persona titular de la Consejería competente en materia de medio ambiente que se facilitarán por sus Delegaciones Provinciales o a través de medios electrónicos.
+
+### Disposición adicional única
+
+Disposición adicional única. Actualización de la tasa.
+Las Leyes anuales de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha podrán actualizar la cuota de la tasa a la que se refiere la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 4/2007, de 8 de marzo, de Evaluación Ambiental en Castilla-La Mancha.
+El artículo 48 de La Ley 4/2007, de 8 de marzo, de Evaluación Ambiental en Castilla-La Mancha, queda redactado en los siguientes términos:
+«Artículo 48. Plazo de resolución.
+El plazo máximo para resolver y notificar la resolución de los procedimientos sancionadores referidos a las infracciones graves y muy graves contempladas en la presente Ley es de un año desde el inicio del procedimiento, y tres meses para las leves.»
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo.
+Se autoriza al Consejo de Gobierno, para dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Diario Oficial de Castilla-La Mancha».
+
+Toledo, 11 de marzo de 2010.–El Presidente, José María Barreda Fontes.

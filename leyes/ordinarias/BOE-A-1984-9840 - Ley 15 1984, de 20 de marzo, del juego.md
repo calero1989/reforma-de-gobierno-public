@@ -1,0 +1,192 @@
+# Ley 15/1984, de 20 de marzo, del juego
+
+- Identificador BOE: `BOE-A-1984-9840`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1984-9840
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de erratas publicada en DOGC núm. 495, de 19 de diciembre de 1984.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 33.2 del Estatuto de Autonomía, promulgo la siguiente Ley del Juego.
+El artículo 9.32 del Estatuto de Autonomía de Cataluña declara que la Generalidad tiene competencia exclusiva en materia de «Casinos, juegos y apuestas, con exclusión de las Apuestas Mutuas Deportivo-benéficas», en consecuencia, haciendo uso de la iniciativa legislativa que le reconoce el artículo 32.6 del Estatuto, en relación con el artículo 25.2, con esta Ley desarrolla las facultades que tiene atribuidas en esta materia.
+La aprobación de la Ley del juego es necesaria, e incluso urgente, dado que la realidad social desborda actualmente el marco normativo estatal, notoriamente insuficiente e incompleto. La intención de la Ley no es ni fomentar el juego ni prohibirlo con un rigor que sería contrario a las tendencias sociales. Su objetivo primordial consiste en establecer unas reglas terminantes que ofrezcan a los ciudadanos la seguridad jurídica debida y, por otra parte, permitan al poder ejecutivo de la Generalidad desarrollar una política del juego adaptada a las circunstancias de cada momento.
+En líneas generales, la Ley establece un sistema que no afecta inútilmente a las actuaciones administrativas, pero introduce modificaciones de cierta importancia, unas motivadas por la especificidad catalana y otras por la lección de la experiencia, dado que la legislación y la administración estatales son demasiado recientes y han ido apareciendo a título de ensayo, lo que ha provocado una situación de provisionalidad que es preciso superar.
+Una de estas modificaciones es la inclusión en la Ley catalana de un catálogo de juegos, concebido como un inventario completo de los juegos admitidos, a diferencia del catálogo estatal, que se refiere exclusivamente a los que un día fueron penalizados, por lo que falta en él un punto de referencia global y es preciso recurrir no sólo al catálogo, sino también a numerosas reglamentaciones especiales.
+Asimismo la Ley prevé la posibilidad de que el Consejo Ejecutivo de la Generalidad planifique la distribución de las autorizaciones concretas por lo que respecta a aquellos juegos, Empresas y locales en que, por la importancia económica o la incidencia social, resulte aconsejable hacerlo.
+Las autorizaciones en esta materia son discrecionales. El carácter especial del juego exige que la Administración retenga la facultad de autorizar o no su ejercicio, si bien una vez concedida la autorización éste queda estrictamente reglado.
+La intervención administrativa se extiende también al material del juego. Esta intervención se desarrolla a tres niveles:
+a) Con respecto a la fabricación, b) con respecto a la reglamentación de las características técnicas de las máquinas y del material del juego en general, y c) con respecto a la homologación del material.
+La Ley regula asimismo un aspecto capital y delicado como es el del control del juego. La Ley atribuye a la Generalidad el control de los demás aspectos administrativos, legales y técnicos, y con este fin ordena el establecimiento de un servicio de inspección.
+Por lo que respecta a las infracciones y sanciones, la Ley opta por una solución intermedia, con la que se garantizan a la vez los principios de legalidad y de eficacia. La legalidad se asegura mediante la tipificación reglamentaria posterior, y la eficacia se asegura por medio de las reglamentaciones especiales, rigurosamente sometidas a la supremacía de la Ley.
+Se trata, en definitiva, de una Ley breve con la que la Generalidad posibilita el ejercicio legal de sus competencias estatutarias con el establecimiento de un modelo de unas características muy específicas, que se resumen en un carácter sistemáticamente exhaustivo y en su transparencia. Así, pues a partir de ahora tanto los jugadores y las Empresas dedicadas al juego como la Administración tendrán unas reglas de actuación conocidas previamente.
+
+### Art 1
+
+Art. 1.
+La presente Ley tiene por objeto regular, para el ámbito territorial de Cataluña, todas las actividades relativas a casinos, juegos y apuestas, según lo dispuesto por el artículo 9.32 del Estatuto de Autonomía.
+
+### Art 2
+
+Art. 2.
+1. Se incluyen en el ámbito de la presente Ley:
+a) Las actividades en las que se arriesguen cantidades de dinero u objetos económicamente evaluables, en forma de envites, de quinielas o de apuestas sobre resultados de un hecho futuro o incierto con independencia de que predomine en ellas el grado de habilidad, de traza o de pericia de los participantes o de que sean exclusiva o primordialmente de suerte, de envite o de azar, tanto si se desarrollan mediante la utilización de máquinas automáticas como por medio de actos humanos.
+b) Las Empresas dedicadas a la gestión y explotación de juegos y de apuestas, a la fabricación de materiales de juego y a actividades conexas.
+c) Los locales donde se realiza la gestión y explotación de juegos y apuestas y la producción de los resultados condicionantes.
+d) Las personas que intervienen en la gestión, la explotación y la práctica de los juegos y las apuestas.
+2. Quedan excluidos, no obstante, los juegos y las apuestas de ocio y recreo constitutivos de usos sociales de carácter tradicional o familiar en los casos en que no se producen transferencias económicas entre los jugadores o éstas son de escasa importancia, siempre que los jugadores o las personas ajenas a éstos no hagan de ello objeto de explotación lucrativa.
+
+### Art 3
+
+Art. 3.
+1. Corresponderá al Consejo Ejecutivo aprobar el catálogo de juegos y apuestas autorizados de entre aquéllos a que hacen referencia los artículos anteriores.
+2. De cada juego, el catálogo especificará las diferentes denominaciones, las modalidades posibles, los elementos necesarios para practicarlo y las reglas esenciales que es preciso aplicar.
+
+### Art 4
+
+Art. 4.
+1. Corresponderá al Consejo Ejecutivo planificar los juegos y las apuestas.
+Esta planificación tendrá en cuenta la realidad y la incidencia social del juego y de las apuestas, sus repercusiones económicas y tributarias, y la necesidad de reducir, diversificar y no fomentar su hábito y de impedir en su gestión actividades monopolistas.
+2. La planificación deberá establecer los criterios por los que se regirá la concesión de autorizaciones tanto por lo que respecta a la situación territorial y al número de las mismas como a las condiciones objetivas para obtenerlas.
+
+### Art 5
+
+Art. 5.
+1. El Departamento competente en materia de juego debe aprobar las reglamentaciones especiales de los juegos y de las apuestas incluidos en el Catálogo, las cuales deben regular los condicionamientos y las prohibiciones que se consideran necesarias para practicarlos. El juego de la lotería se regula de conformidad con las previsiones de los apartados 3 al 7.
+2. Cada reglamentación ha de determinar como mínimo:
+a) El régimen y ámbito de aplicación.
+b) Los requisitos que deberán cumplir las personas o entidades que puedan ser autorizadas para gestionar y explotar el juego o la apuesta de que se trate.
+c) El régimen de tramitación, modificación, renovación y caducidad de las autorizaciones.
+d) Las normativas técnicas y urbanísticas de los locales donde pueda practicarse el juego y donde, en su caso, puedan producirse los resultados condicionantes.
+e) Los horarios de apertura y cierre.
+f) Los requisitos de admisión del personal y las condiciones de habilitación profesional.
+g) El régimen de fabricación y de instalación de los materiales que deben ser utilizados.
+h) El régimen de gestión y explotación.
+i) La documentación y el control contable.
+j) El régimen de sanciones.
+3. Corresponde a la persona titular del departamento competente en materia de juego regular, mediante una orden, los aspectos generales de la lotería, que tiene que establecer:
+a) Las medidas de juego responsable, de protección a los menores y personas dependientes y para la prevención del fraude y del blanqueo de capitales.
+b) Las condiciones y requisitos para celebrar sorteos, cuando corresponda.
+c) El régimen de los billetes y las combinaciones.
+d) El régimen de los premios.
+e) Los derechos de las personas participantes y los procedimientos de reclamación.
+f) El régimen de comercialización.
+4. El juego de lotería, en sus diversas modalidades, se reserva a la Generalitat de Catalunya, y está organizado y gestionado por cuenta de la Generalitat de Catalunya, por Loteries de Catalunya, SAU.
+5. Corresponde a la persona titular del departamento competente en materia de juego, con el informe previo de la dirección general competente en materia de juego, autorizar la comercialización de los juegos de loterías o modificar la autorización de juegos en funcionamiento.
+La autorización debe contener los aspectos siguientes:
+a) El porcentaje mínimo y el máximo destinado a premios.
+b) El régimen de los sorteos y, si procede, de las combinaciones de números.
+c) El régimen de participación y los derechos de las personas participantes.
+d) Las medidas de juego responsable.
+Las resoluciones de autorización de los juegos de loterías y las resoluciones de modificación de autorización de juegos en funcionamiento se tienen que publicar en el "Diario Oficial de la Generalitat de Catalunya" y en la web corporativa de Loteries de Catalunya, SAU.
+6. La solicitud de autorización o de modificación de autorización de un juego de lotería en funcionamiento tiene que ir acompañada de una memoria justificativa y económica que incluya un estudio de viabilidad económica, el plan de negocio, el plan de comercialización, el impacto en los juegos de loterías en funcionamiento y una propuesta de medidas de juego responsable.
+7. Dentro del marco de la autorización a que se refiere el apartado 5, el Consejo de Administración de Loteries de Catalunya, SAU tiene que acordar los otros aspectos necesarios para la comercialización del juego de lotería, como mínimo, el nombre comercial, la fecha de los sorteos, el porcentaje destinado a premios dentro de los márgenes establecidos, la determinación de precios de los billetes o combinaciones las categorías de premios y su distribución, el intervalo de números y series, si procede, la fecha de inicio de la comercialización y, si procede, la fecha final, y el lugar de pago de los premios.
+Este Acuerdo se debe publicar en el "Diari Oficial de la Generalitat de Catalunya" y en la web corporativa de Loteries de Catalunya, SAU.
+Se modifica el apartado 1 y se añaden los apartados 3, 4, 5, 6 y 7 por la disposición final 2 del Decreto-ley 16/2021, de 13 de julio. Ref. BOE-A-2021-14040#df-2
+ Téngase en cuenta, el regímen transitorio de los juegos de loteria en funcionamiento, establecido por la disposición transitoria segunda.2 del citado decreto-ley.
+
+### Art 6
+
+Art. 6.
+1. Salvo disposición en contrario del decreto de planificación, corresponderá a la Dirección General del Juego conceder las autorizaciones necesarias para gestionar y explotar los juegos y las apuestas.
+2. En cada autorización será necesario precisar la persona o entidad titular del juego o de la apuesta autorizados y el local donde deberá hacerse la gestión o explotación.
+3. Las autorizaciones se concederán discrecionalmente, tanto en lo que respecta a los titulares como en lo concerniente a los lugares, juegos y apuestas autorizados, pero con sujeción a las disposiciones generales determinadas en la planificación y la reglamentación sectorial correspondientes.
+4. Las autorizaciones concedidas por los órganos competentes en materia de juegos y apuestas de la Generalidad para explotar cualquier juego para cuya concesión sea necesario el acuerdo previo y bilateral de las partes son válidas hasta la fecha de su vencimiento.
+5. Los terminales, los aparatos dispensadores de billetes, boletines o justificantes de loterías o de apuestas y los terminales de cualquier modalidad de juegos que quieran instalarse en establecimientos públicos, situados dentro del ámbito territorial de Cataluña, requieren siempre la autorización previa del órgano de la Generalidad competente en materia de juegos y apuestas.
+6. La instalación de máquinas recreativas con premio en establecimientos de hostelería y en otros establecimientos de características similares solamente puede autorizarse a una empresa operadora.
+Se añade el apartado 6 por el art. 227 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-39
+ Se añaden los apartados 4 y 5 por el art. 209 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Art 7
+
+Art. 7.
+Corresponderá a la Generalidad determinar y homologar las características técnicas de los tipos o modelos de materiales de juego y de sus instrumentos autorizados en Cataluña.
+
+### Art 8
+
+Art. 8.
+Corresponderá al Departamento de Gobernación determinar las condiciones que deberá cumplir la publicidad de las actividades incluidas en el ámbito de la presente Ley.
+
+### Art 9
+
+Art. 9.
+Quedan prohibidos a los menores de edad y a cualquier persona que presente síntomas de embriaguez o de enajenación mental, la práctica de juegos, el uso de máquinas recreativas con premio y azar y la participación en apuestas y, en cualquier caso, la entrada en los locales que específicamente se dediquen a ello. Las reglamentaciones especiales podrán determinar condiciones más rigurosas de acceso y de uso.
+
+### Art 10
+
+Art. 10.
+1. Al objeto de garantizar el cumplimiento más exacto de lo que dispone la presente Ley, corresponderá al Departamento de Gobernación el control de los aspectos administrativos y técnicos del juego y de las Empresas y locales que se dediquen a él.
+2. Con este fin se creará y organizará un servicio especial de inspectores de juego, que se integrará en la policía de la Generalidad en el momento oportuno.
+
+### Art 11
+
+Art. 11.
+(Derogado).
+Se deroga por la disposición derogatoria de la Ley 1/1991, de 27 de febrero. Ref. BOE-A-1991-7867.
+
+### Art 12
+
+Art. 12.
+(Derogado).
+Se deroga por la disposición derogatoria de la Ley 1/1991, de 27 de febrero. Ref. BOE-A-1991-7867.
+
+### Disposición final primera
+
+Disposición final primera.
+En tanto los órganos de la Generalidad no hagan uso de las facultades reglamentarias que les otorga la presente Ley, se aplicarán las disposiciones generales de la Administración del Estado.
+
+### Disposición final segunda
+
+Disposición final segunda.
+En tanto la Generalidad no haya homologado el material de juego, serán válidas en Cataluña las homologaciones realizadas por la Administración del Estado.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Se autoriza al Consejo ejecutivo para que dicte las disposiciones necesarias para el desarrollo de la presente Ley.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En el plazo de tres meses el Consejo ejecutivo deberá aprobar el primer catálogo de juegos autorizados en Cataluña, que incluirá los juegos siguientes:
+Lotería.
+Ruleta.
+Veintiuno o black jack.
+Bola o boule.
+Treinta y cuarenta.
+Dados.
+Punto y banca.
+Bacarrá.
+Chemin de fer.
+Plena o bingo.
+Organización Nacional de Ciegos.
+Máquinas recreativas A, B y C.
+Boletos.
+Rifas.
+Tómbolas.
+Apuestas hípicas.
+Apuestas de galgos.
+Apuestas de frontón.
+Se declara inconstitucional la inclusión de la Organización Nacional de Ciegos en esta disposición por Sentencia del TC 52/1988, de 24 de marzo. Ref. BOE-T-1988-9032.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Las apuestas externas referidas a los juegos incluidos en el catálogo a que se refiere la disposición adicional precedente sólo se podrán realizar en el ámbito territorial de Cataluña.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Garantía del mantenimiento de los recursos tributarios de la Generalidad procedentes de los casinos.
+(Suprimida)
+Se suprime por el art. 2 de la Ley 2/2025, de 6 de febrero. Ref. BOE-A-2025-2984
+ Se añade por el art. 15 de la Ley 6/2014, de 10 de junio. Ref. BOE-A-2014-6666.
+
+Por tanto ordeno que todos los ciudadanos a los que sea de aplicación esta Ley, cooperen a su cumplimiento y que los Tribunales y Autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 20 de marzo de 1984.
+El Consejero de Gobernación,
+ El Presidente de la Generalidad de Cataluña,
+ MACIA ALAVEDRA I MONNER
+ JORDI PUJOL

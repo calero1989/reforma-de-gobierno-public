@@ -1,0 +1,3812 @@
+# Ley 9/2001, de 17 de julio, del Suelo, de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-2001-18984`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-18984
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la presente Ley, que yo, en nombre del Rey, promulgo.
+PREÁMBULO
+I. La Comunidad de Madrid, nacida en el marco de la España de las Autonomías, es una Comunidad de carácter uniprovincial con una extensión de ocho mil treinta kilómetros cuadrados, situada geográficamente en el centro de la Península Ibérica y con una población superior a los cinco millones de habitantes asentados en el conjunto de sus municipios. En ella se encuentra localizada la capital de España. Son éstas características propias que han de ser consideradas al regular su ordenamiento jurídico urbanístico.
+La Comunidad de Madrid tiene una vocación clara de la defensa y conservación de su medio natural. Tiene también una clara y decidida vocación por el desarrollo económico y social. Estas afirmaciones se visualizan a través de sus espacios protegidos, de sus empresas, de la apuesta decidida por la tecnología punta, por la investigación y el desarrollo, que hacen de Madrid uno de los grandes motores de la economía española y europea. Una potente red de infraestructuras de transporte, armonizada con la defensa del medio ambiente, junto a la vivienda, entendida no sólo como un bien de primera necesidad, a la que todos los madrileños tengan acceso, son políticas prioritarias y necesarias para que la Comunidad de Madrid siga siendo un referente imprescindible al hablar de calidad de vida y desarrollo armónico. Es por ello, que la presente Ley quiere representar el marco adecuado donde todas estas prioridades puedan armonizarse con un resultado justo y eficaz.
+II. La Comunidad de Madrid, con competencia exclusiva en materia de urbanismo, otorgada por el Estatuto de Autonomía, aprobado por Ley Orgánica 3/1983, de 25 de febrero, inició el ejercicio de esta incuestionable potestad legislativa con la Ley 4/1984, de 18 de febrero, de Medidas de Disciplina Urbanística; continuó con la Ley 10/1984, de 30 de mayo, de Ordenación Territorial; la Ley 8/1985, de 4 de diciembre, por la que quedaban sin aplicación las Delimitaciones de Suelo Urbano reguladas por el Real Decreto-ley 16/1981; la Ley 9/1985, de 4 de diciembre, Especial para el Tratamiento de Actuaciones Urbanísticas Ilegales; la Ley 9/1995, de 28 de marzo, de Medidas de Política Territorial, Suelo y Urbanismo y, por último, con la Ley 20/1997, de 15 de julio, de Medidas Urgentes en Materia de Suelo y Urbanismo.
+La Comunidad de Madrid, en el ejercicio de aquella función, y dentro del marco normativo estatal vigente, aprobó la Ley 4/1984 para atender una serie de problemas planteados en nuestra realidad urbanística cuya trascendencia y gravedad no admitían demora, instrumentando para ello un conjunto de medidas normativas dotadas de eficacia suficiente para restaurar y mantener la necesaria disciplina que debe presidir el proceso urbanístico y dotando a los Ayuntamientos y a los órganos de la Comunidad de Madrid de las competencias necesarias. Sin embargo, la Ley 4/1984 no ha sido una Ley relativa a la disciplina urbanística únicamente, sino también con incidencia en las actividades de la iniciativa privada en el planeamiento de desarrollo en suelo urbanizable, en la gestión de la ejecución del planeamiento urbanístico y en la intervención en la edificación y uso del suelo.
+La Ley 10/1984 estableció un marco de ordenación territorial de carácter supramunicipal, configurando las Directrices de Ordenación Territorial, con finalidad de establecer las pautas espaciales de asentamiento de las actividades, de acuerdo con las políticas sociales, económicas y culturales emanadas de la Comunidad de Madrid y los Programas Coordinados de Actuación, con la finalidad de integrar el conjunto de acciones e inversiones procedentes de los tres niveles de gobierno. Los Planes de Ordenación del Medio Físico completaron los instrumentos de ordenación territorial de la Comunidad de Madrid. La Ley 10/1984 pretendió regular a través de dichas figuras el conjunto de acciones, problemas y procesos que superan el estricto ámbito municipal en lo que a ordenación urbanística se refiere, para transformarse en problemas territoriales de toda la Comunidad Autónoma.
+La Ley 8/1985, Ley de artículo único, dejó sin aplicación en la Comunidad de Madrid las Delimitaciones de Suelo Urbano reguladas por el Real Decreto-ley 16/1981, de 16 de octubre, de Adaptación de Planes Generales de Ordenación Urbana, porque lejos de fomentar el proceso de adaptación del planeamiento urbanístico general al Texto Refundido de la Ley del Suelo de 1976 supuso un inconveniente.
+La Ley 9/1985 pretendió habilitar a la Comunidad de Madrid para adoptar toda una serie de medidas con carácter excepcional, tanto en cuanto a su ámbito de aplicación como a su vigencia temporal, en materia de disciplina urbanística, así como en orden al planeamiento y a la ejecución de las actuaciones regularizadas.
+La Ley 9/1995 definió el marco específico y necesario de la política territorial y urbanística que las circunstancias y las peculiaridades de la región madrileña demandaban. La Ley 9/1995 no es sólo una Ley territorial sino también urbanística, en cuanto que regula el régimen urbanístico del suelo no urbanizable y del suelo urbanizable no programado y arbitra mecanismos de agilización del procedimiento de aprobación del planeamiento, ordenando el contenido y alcance de la competencia de la Comunidad de Madrid en la aprobación definitiva del planeamiento urbanístico municipal, con la doble finalidad de acotar la intervención autonómica y de incrementar la seguridad jurídica en punto a los papeles respectivos de la instancia municipal y la autonómica en el proceso del planeamiento urbanístico. Una Ley que destacó, entre otras aportaciones, por su novedosa regulación de los convenios urbanísticos.
+Asimismo, la Ley 9/1995 incide en la gestión de la ejecución del planeamiento urbanístico a través de los sistemas de ejecución, en la expropiación forzosa por razón de urbanismo –creando además el Jurado Territorial de Expropiación Forzosa de la Comunidad de Madrid– , en la intervención pública en el mercado inmobiliario y en la vivienda, para terminar con una serie de medidas para el incremento de la eficacia de la actividad urbanística.
+La Ley 20/1997, de 15 de julio, de Medidas Urgentes en Materia de Suelo y Urbanismo, tenía como finalidad, explicitada en su exposición de motivos, la de cubrir temporalmente la parcial quiebra de la cobertura legal de la ordenación urbanística y su gestión como consecuencia de la Sentencia del Tribunal Constitucional 61/1997, de 20 de marzo. Efectivamente, el ordenamiento urbanístico de la Comunidad de Madrid, presidido por la Ley 9/1995, vino presuponiendo para todo lo no previsto en ella, la vigencia y aplicabilidad directa de la regulación general estatal contenida en el Real Decreto Legislativo 1/1992, de 26 de junio, por el que se aprobó el texto refundido de la Ley sobre Régimen del Suelo y Ordenación Urbana, declarado en su mayor parte inconstitucional.
+Como consecuencia de esta situación, la Ley 20/1997 ya anunciaba la intención de la Comunidad de Madrid de establecer un marco normativo completo en materia urbanística, en ejercicio de las competencias exclusivas que al efecto le atribuye el Estatuto de Autonomía. Dos eran las condiciones que el legislador consideró necesarias para poder acometer esta tarea: La primera, que se despejase definitivamente el marco legal estatal con influencia en la legislación urbanística autonómica. Esta circunstancia se produjo con la aprobación de la Ley 6/1998, de 13 de abril, sobre Régimen del Suelo y Valoraciones. La segunda condición era disponer, desde ese momento, de un período suficiente de reflexión —con el que la Ley de Medidas Urgentes, por las especiales circunstancias en que se produjo su elaboración y promulgación, no pudo obviamente contar— para poder definir con la necesaria precisión el amplio marco normativo que ahora se aborda.
+Es pretensión de la presente Ley que el marco jurídico que se establece, una a su carácter omnicomprensivo de la materia, la estabilidad que la misma demanda, ya que los procesos urbanísticos de ordenación y transformación del suelo en nuestra Región requieren un amplio consenso político y social. En efecto, los procesos urbanísticos de ordenación y transformación del suelo para dar soporte a los usos que el desarrollo de nuestra Región y de sus habitantes requiere, tienen una duración dilatada, que precisa de la necesaria estabilidad normativa y seguridad jurídica, en los últimos años ciertamente alterada. A este fin se encamina la Ley, no sólo creando los mecanismos que se entienden más adecuados para el desarrollo urbano en un territorio como el madrileño, sino buscando que tales mecanismos perduren en el tiempo, como elemento de seguridad que incentive la actividad de los agentes implicados en tan importantes procesos.
+III. La Comunidad de Madrid con este importante acervo en la configuración de su ordenamiento jurídico urbanístico y consciente de la urgente necesidad de resolver el problema de la dispersión legislativa actualmente existente, afronta el reto de regular el marco jurídico del ordenamiento urbanístico con la presente Ley.
+El ordenamiento jurídico urbanístico aplicable en el ámbito de la Comunidad de Madrid se encuentra integrado por una pluralidad de normas estatales, entre otras, los preceptos del texto refundido de la Ley del Suelo de 1992 no declarados inconstitucionales, el texto refundido de la Ley del Suelo de 1976 y sus Reglamentos de desarrollo, aplicables con carácter supletorio, los preceptos de aplicación del Real Decreto-ley 16/1981, la Ley 6/1998 y el Real Decreto-ley 4/2000, y de normas autonómicas, preceptos de aplicación de la Ley  4/1984, Ley 9/1995 y Ley 20/1997.
+La Sentencia del Tribunal Constitucional ya mencionada, delimita con precisión el ámbito competencial que corresponde al legislador estatal y a los legisladores autonómicos en materia de urbanismo. La base de la decisión del Tribunal es la inequívoca atribución constitucional y la estatutaria a las Comunidades Autónomas de la competencia exclusiva en esta materia. Así aparece efectivamente recogido en el artículo 26.1.4 del Estatuto de Autonomía de la Comunidad de Madrid, sobre cuyo alcance no cabe duda alguna ya tras la decisión adoptada por el Tribunal Constitucional. Corresponde, pues, esta Ley al ejercicio de esta competencia autonómica plena en materia de ordenación del territorio, urbanismo y vivienda y, por ello, dispone la Comunidad de Madrid de título competencial bastante para regular, como en efecto se hace, la totalidad del régimen jurídico del urbanismo en la Región.
+Son igualmente títulos competenciales exclusivos que justifican el contenido de esta Norma los relativos a organización, régimen y funcionamiento de las instituciones de autogobierno de la Comunidad de Madrid, procedimiento administrativo derivado de las especialidades de la organización propia, obras públicas de interés de la Comunidad, vías de comunicación regionales y patrimonio arquitectónico. Son títulos competenciales de desarrollo de la legislación básica estatal que justifican el contenido de la Ley, los relativos a régimen local, protección del medio ambiente y bienes de dominio público y patrimoniales cuya titularidad corresponde a la Comunidad de Madrid.
+Estas competencias regionales se han ejercido cohonestándolas con las competencias estatales que, distintas de las urbanísticas, inciden no obstante en esta materia —como ha delimitado con precisión el Tribunal Constitucional—, como es la regulación de las condiciones básicas que garanticen la igualdad en el ejercicio del derecho de propiedad del suelo, la expropiación forzosa, las valoraciones, la responsabilidad de las administraciones públicas y el procedimiento administrativo común. Tales competencias, plasmadas en la Ley 6/1998, de 13 de abril, de Régimen del Suelo y Valoraciones, modificada por el Real Decreto-ley 4/2000, de 23 de junio, de Medidas Urgentes de Liberalización en el Sector Inmobiliario y Transportes, así como las restantes competencias estatales que, contenidas en otras diversas normas, tienen igualmente influencia en la ordenación urbanística, han sido respetadas en la presente Ley, que contempla su contenido con el de la normativa estatal mencionada.
+Igualmente se ha respetado el principio de autonomía municipal para la gestión de sus propios intereses, tal y como establece el artículo 137 de la Constitución Española.
+Finalmente, la Ley garantiza el desarrollo sostenible y la cohesión social, respetando el principio de subordinación al interés general de toda la riqueza, cualquiera que sea su forma y titularidad.
+IV. La Ley del Suelo de la Comunidad de Madrid se estructura en siete Títulos, Disposiciones Adicional, Transitorias, Derogatoria y Finales. El Título Preliminar establece los objetivos y principios generales de la ordenación urbanística, el Título I, el Régimen Urbanístico del Suelo, y el Título II, el Planeamiento Urbanístico. Estos tres Títulos constituyen la base de la Ley, completando y desarrollando en su totalidad la función social de la propiedad, punto de partida de la regulación que se establece para la gestión y ejecución del planeamiento urbanístico, donde la Comunidad de Madrid ejerce plenamente la potestad legislativa. Esta gestión y ejecución se desarrolla en los Títulos III a V, ambos inclusive. El Título III, Ejecución del Planeamiento, define los diferentes mecanismos de ejecución del planeamiento urbanístico, el Título IV, Intervención en el uso del suelo, en la edificación y en el mercado inmobiliario, culmina el proceso edificatorio regulando los procedimientos de otorgamiento de las licencias urbanísticas y el Título V, Disciplina Urbanística, cierra el ciclo de la transformación del suelo regulando la protección de la legalidad urbanística y las infracciones urbanísticas y su sanción. El Título VI, Organización y Cooperación Interadministrativa, establece los órganos de la Comunidad de Madrid con competencia en materia urbanística y las fórmulas y técnicas de cooperación interadministrativa. Las Disposiciones Transitorias y la Disposición Final Cuarta cumplen el objetivo de posibilitar la aplicación paulatina de la nueva Ley, cuando sea aprobada por la Asamblea de Madrid, sin quiebra de la seguridad jurídica del administrado.
+V. En el Título Preliminar se establece el objeto de la Ley, sus principios rectores y los fines de la ordenación urbanística que comprende las actividades de garantía de la efectividad del régimen urbanístico del suelo, del planeamiento urbanístico, de ejecución del planeamiento urbanístico y de intervención en el uso del suelo, en la edificación y en el mercado inmobiliario. La Ley concibe la actividad urbanística como una función pública cuya titularidad y responsabilidad corresponde a las Administraciones públicas. Igualmente, se establece el deber y la obligación de fomento de la participación ciudadana.
+La condición de función pública del urbanismo no significa necesariamente la gestión directa por la Administración competente. Antes al contrario, por sus características el urbanismo demanda el fomento y la promoción, al máximo posible, de la iniciativa privada. Y ésta, a su vez, no se restringe a los privados que, además, tengan, con derecho bastante para ello (significativamente el de propiedad), la disposición del suelo, pues la actividad urbanística de transformación del suelo debe entenderse constitucionalmente comprendida en el ámbito de la libertad de iniciativa económica, es decir, de empresa. Sin perjuicio de ello, los propietarios y titulares de cualesquiera otros derechos suficientes sobre los correspondientes bienes intervienen en la actividad urbanística en los términos determinados en la presente Ley.
+VI. En el Título I se define el contenido urbanístico del derecho de propiedad del suelo, los derechos y los deberes y los principios del régimen urbanístico generales y particulares para cada clase de suelo. Se establecen tres clases de suelo: Urbano, urbanizable y no urbanizable de protección. La clasificación se ajusta a la legislación básica establecida por la Ley estatal 6/1998, modificada por el Real Decreto-ley 4/2000.
+Se clasifica como suelo urbano el que reúne las características físicas para ser incluido en esta clase de suelo por disponer de servicios urbanos o estar consolidado por la edificación en sus dos terceras partes. El suelo urbano se categoriza en suelo urbano consolidado y suelo urbano no consolidado. Se clasifica como suelo no urbanizable de protección aquel que tenga algún valor que proteger por estar sometido a algún régimen especial, de acuerdo con la legislación sectorial o el planeamiento regional territorial, o algún valor que preservar, de conformidad con el planeamiento regional territorial o el planeamiento urbanístico.
+El planeamiento regional territorial clasificará directamente los terrenos que, en todo caso, deban pertenecer a esta clase de suelo. El establecimiento de dicha categoría encuentra su amparo en el desarrollo del artículo 45 de la Constitución Española que establece el derechos de todos, sin distinciones, a disfrutar de un medio ambiente adecuado, el deber de conservarlo y la obligación de los poderes públicos de velar por la «utilización racional de todos los recursos naturales con el fin de proteger y mejorar la calidad de vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva».
+Se clasifica como suelo urbanizable el resto del suelo del término municipal, es decir, el que no es suelo urbano ni suelo no urbanizable de protección. El suelo urbanizable se categoriza en sectorizado y no sectorizado.
+En el suelo urbanizable sectorizado se distingue aquel que tenga ordenación pormenorizada, que no tendrá que realizar Plan Parcial para su ejecución, del que carezca de ordenación pormenorizada, que sí tendrá que ejecutarlo. El suelo urbanizable no sectorizado se transformará en sectorizado mediante el correspondiente Plan de Sectorización.
+VII. En el Título II la potestad de planeamiento de la ordenación urbanística municipal diferencia las determinaciones estructurantes, correspondientes al planeamiento general, y las determinaciones pormenorizadas, correspondientes al planeamiento de desarrollo. Son determinaciones estructurantes aquellas mediante las cuales se define el modelo de ocupación, utilización y preservación del suelo, así como los elementos fundamentales de la estructura urbana y territorial y de su desarrollo futuro. Son determinaciones pormenorizadas aquellas que tienen el grado de precisión suficiente para legitimar la realización de actos concretos de ejecución material.
+Son una determinación estructurante del planeamiento los elementos de las redes públicas o redes de infraestructuras, equipamientos y servicios públicos que son susceptibles de distinguirse jerárquicamente en tres niveles: Los que conforman la red supramunicipal, la red general y la red local. Este sistema de redes públicas se localiza sobre suelos de cesión obligatoria y gratuita por los promotores del suelo y se integra dentro de las reservas para dotaciones cuyos estándares se revisan y modifican radicalmente respecto de los establecidos por el Texto Refundido de la Ley de Suelo de 1976 y su Reglamento de Planeamiento de 1978, justificado este hecho en el cambio sustantivo de la realidad social y urbana de la Comunidad de Madrid desde entonces hasta nuestros días.
+La división del suelo en áreas homogéneas, ámbitos de actuación o sectores, con el señalamiento para cada uno de ellos de sus criterios y condiciones básicas de ordenación, es también una determinación estructurante. La totalidad del suelo urbano consolidado deberá dividirse en áreas homogéneas atendiendo a criterios de homogeneidad tipológica y funcional en sí mismas y respecto al conjunto del núcleo urbano. Dentro de las áreas homogéneas se delimitarán los ámbitos de actuación en suelo urbano no consolidado que proceda, pudiendo constituir todo el área homogénea un único ámbito. Superado este límite, dejará de ser suelo urbano no consolidado y se estará ante un suelo urbanizable. Los sectores son los espacios del suelo urbanizable que han de ser objeto de desarrollo por su ordenación pormenorizada. Sobre estas divisiones del suelo urbano y urbanizable sectorizado, el planeamiento urbanístico municipal volcará las zonas urbanísticas de ordenación pormenorizada.
+Son determinaciones estructurantes las edificabilidades y los aprovechamientos urbanísticos. En suelo urbano consolidado, la superficie edificable de cada solar o parcela vendrá definida según las condiciones de intensidad edificatoria establecidas por el planeamiento. En suelo urbano no consolidado, la distribución equitativa de beneficios y cargas derivados del planeamiento se producirá en cada ámbito de actuación delimitado al efecto.
+Es una determinación estructurante, en relación con los usos del suelo, la asignación en el área de reparto en suelo urbanizable, como mínimo, del 50 por 100 de las viviendas edificables a viviendas sujetas a algún régimen de protección pública, de las cuales las viviendas de precio tasado no podrán superar el 25 por 100. En todo caso, se reserva a cada Ayuntamiento la facultad de determinar la tipología de las viviendas en el 10 por 100 de la superficie del suelo urbanizable.
+Se unifican los instrumentos de planeamiento urbanístico de ámbito municipal en la figura del Plan General, que junto con la del Plan de Sectorización constituyen los instrumentos de planeamiento general. El Plan de Sectorización completa la ordenación estructurante del Plan General sobre el ámbito territorial de suelo urbanizable no sectorizado, que es objeto de una iniciativa de transformación urbanizadora.
+El Plan General armoniza dos derechos constitucionales como son la ordenación urbanística, entendida como desarrollo económico y social, y la protección del medio ambiente. El Plan General deviene instrumento jurídico de protección del medio ambiente, siguiendo los criterios más recientes de la directiva europea en relación con la materia y de la Consejería de Medio Ambiente, exigiéndose en el documento de Avance del Plan un «Informe previo de Análisis Ambiental» y una vez superados los trámites de aprobación inicial y de información pública, un «Informe definitivo de Análisis Ambiental», previo a la aprobación provisional por el Pleno del Ayuntamiento del Plan General, que así aprobado será remitido a la Consejería de Obras Públicas, Urbanismo y Transportes para el trámite de su aprobación definitiva.
+Mediante este procedimiento se quiere compatibilizar la protección del medio ambiente con la agilización del procedimiento y la seguridad jurídica de los administrados. Agilización del procedimiento porque no va a haber necesidad de nuevos informes medioambientales en el procedimiento administrativo para la tramitación del planeamiento de desarrollo y únicamente los relativos a las infraestructuras de saneamiento.
+Se universaliza como planeamiento de desarrollo el Plan Parcial, utilizándose tanto en suelo urbano no consolidado como en suelo urbanizable sectorizado. Los Planes Especiales se destinan al desarrollo de las redes públicas en cualquiera de las clases de suelo y a actuaciones en suelo urbano en relación con el patrimonio histórico-artístico.
+Finalidad importante de la presente Ley es la simplificación del procedimiento administrativo en la tramitación del planeamiento urbanístico. La aprobación inicial implicará el requerimiento de informe de todas las Administraciones previstas legalmente como preceptivas o que por razón de la posible afección de los intereses públicos por ellas gestionados deban considerarse determinantes en el procedimiento. Los informes preceptivos deberán ser emitidos en el plazo de un mes, coincidente con el período de información pública. Transcurrido el plazo de información pública, se suprime el otro período de igual duración que el anterior que el Texto Refundido de la Ley del Suelo de 1976 establecía para dar audiencia a los organismos.
+VIII. Siguiendo las pautas de la cultura urbanística existente, en el Título III de la presente Ley se desprograma el planeamiento urbanístico y, por el contrario, se programa la gestión y ejecución urbanística. La finalidad de este cambio tiene por objeto evitar que el modelo de ordenación urbanística quede obsoleto por incumplimiento de los antiguos programas de actuación de la legislación urbanística, consiguiendo, por el contrario, que se desarrolle el suelo según las necesidades sociales mediante la creación de la figura del promotor.
+La transformación del suelo se podrá llevar a cabo por los propietarios que cumplan con el programa de gestión, que consiste en la ejecución del planeamiento en el plazo de un año en suelo con ordenación pormenorizada, bien sea en suelo urbano no consolidado, bien en suelo urbanizable sectorizado, y de dos años en suelo sin ordenación pormenorizada de la clase que fuere, es decir, incluso en suelo urbanizable no sectorizado. Estos plazos comienzan a computar a partir de la ejecutividad del planeamiento que legitime la ordenación pormenorizada en cada caso. Transcurridos los plazos citados, los propietarios podrán seguir desarrollando su suelo pero con la posible competencia del promotor o promotores interesados en ese desarrollo. En todo caso, la adjudicación al promotor se hace previo concurso convocado al efecto.
+Se agilizan los procedimientos de gestión urbanística, fundamentalmente, a través de los siguientes mecanismos:
+1.º Reducción de trámites administrativos y simplificación del procedimiento en el sistema de compensación.
+2.º Posibilidad de la Administración de sustituir automáticamente el sistema de compensación por el sistema de ejecución forzosa por incumplimiento de los propietarios.
+La ejecución de la obra urbanizadora por iniciativa privada en los pequeños municipios se puede llevar a cabo por los propios Ayuntamientos por el mecanismo de obras públicas ordinarias resarciéndose de los costes mediante cuotas de urbanización, determinándose éstas mediante el procedimiento previsto en la legislación de régimen local para la imposición de contribuciones especiales.
+La presente Ley prevé la cesión obligatoria y gratuita de suelo para redes públicas supramunicipales a la Comunidad de Madrid con objeto de afrontar los problemas sociales territoriales desde la perspectiva global de toda la Comunidad. Esta cesión se cuantifica en veinte metros cuadrados de suelo por cada cien metros cuadrados construidos de cualquier uso, de aplicación en todos los suelos urbanizables sectorizados de la Comunidad, es decir, en todos los Planes Parciales que se ejecuten y se concentra en aquellos emplazamientos que el Gobierno de la Comunidad de Madrid considere adecuados a su política regional a materializar por el planeamiento regional territorial o, en su defecto, por el planeamiento general.
+En relación con el proceso de distribución de beneficios y cargas derivados del planeamiento en suelo urbanizable sectorizado, se consideran dos fases: Una primera de equidistribución en el área de reparto y una segunda de reparcelación en los sectores o unidades de ejecución en que éstos hayan podido ser divididos. En suelo urbano no consolidado, únicamente la de reparcelación en el ámbito de actuación o unidades de ejecución en que haya podido ser dividido.
+En relación al área de reparto ha de decirse que su delimitación únicamente se produce en suelos urbanizables sectorizados. En suelo urbano y en suelo urbanizable no sectorizado no existen áreas de reparto.
+IX. El Título IV regula la intervención en el uso del suelo, en la edificación y en el mercado inmobiliario. El texto de la Ley regula la parcelación en las diversas clases de suelo y contempla las distintas modalidades de intervención de la Comunidad de Madrid, distinguiendo las calificaciones urbanísticas y los proyectos de actuación especial. Por otra parte, contempla la intervención de los ayuntamientos en actos de uso del suelo, construcción y edificación. Entre los supuestos de intervención municipal en los citados actos se hace una regulación pormenorizada de las licencias urbanísticas, recogiéndose con carácter general el silencio positivo y diversas modalidades de agilización de los procedimientos. Se contempla asimismo el supuesto extraordinario de ejecución sustitutoria o, en su caso, expropiación forzosa, en determinados supuestos de incumplimiento de la función social de la propiedad, a fin de impedir la especulación del suelo.
+La Ley regula los deberes de conservación y rehabilitación de las construcciones, edificios e instalaciones, así como los supuestos de ruina legal y física. En relación con estos deberes, se incorpora la figura de la entidad de inspección técnica, que deberá ser homologada y registrada por la Consejería competente en materia de ordenación urbanística. Todo ello con independencia de las actuaciones que han de llevar a cabo los servicios técnicos municipales.
+Especial consideración merece la previsión que efectúa la Ley en relación con las viviendas sometidas a algún régimen de protección pública. Así, se han establecido las cautelas de exigir por los ayuntamientos la calificación provisional en el acto de solicitud de la preceptiva licencia urbanística y de la calificación definitiva en el acto de solicitud de la licencia de primera ocupación. Asimismo, respecto de este tipo de viviendas, se introduce la posibilidad de que la Comunidad de Madrid pueda ejercer los derechos de tanteo y retracto tanto sobre el suelo cuyo destino, según el planeamiento, sea la construcción de viviendas en régimen de protección, como sobre las propias viviendas sometidas a este régimen.
+En este Título se recogen los tradicionales instrumentos utilizados por las Administraciones públicas para incidir en el mercado inmobiliario; en concreto, los patrimonios públicos de suelo, los derechos de superficie y los de tanteo y retracto. Especial consideración merece, por su novedad, la supresión de la subasta como procedimiento de adjudicación de las enajenaciones de los terrenos de los patrimonios públicos de suelo y la obligación de comunicar a la Comunidad de Madrid los precios de construcción, venta y arrendamiento de inmuebles, que serán consolidados y difundidos por un observatorio de precios en esta materia.
+X. En el Título V se regula la inspección urbanística, la protección de la legalidad urbanística y las infracciones urbanísticas y su sanción. Se tipifica «ex novo» como infracción urbanística el fraude del régimen de protección pública a que estén sujetas este tipo de viviendas, incluido el precio del suelo donde se asienten o únicamente del solar en el caso de que no estuvieran edificadas. En atención a la próxima implantación del euro en España, la cuantía de las multas por infracciones urbanísticas se ha valorado en el texto de la presente Ley en euros, y en las Disposiciones Transitorias en pesetas para evitar la obsolescencia de la moneda considerada al poco tiempo de entrar en vigor este texto legal.
+XI. La Organización y Cooperación Interadministrativa reguladas en el Título VI son los órganos de la Comunidad de Madrid ya existentes, Comisión de Urbanismo y Jurado Territorial de Expropiación, y las fórmulas y técnicas de cooperación, tales como la cooperación interadministrativa y los convenios urbanísticos.
+XII. Por último, la disposición adicional única regula la homologación y el registro de entidades de inspección técnica. Dentro de las Disposiciones Transitorias, la Primera de ellas se refiere al régimen urbanístico del suelo para su aplicación a los planes y normas vigentes en el momento de la entrada en vigor de la Ley; la Segunda, a las determinaciones estructurantes y pormenorizadas para ser aplicadas a los planes y normas vigentes a la promulgación de la presente Ley; la Tercera, a la conservación de instrumentos urbanísticos, destacando el hecho de que los Planes de Ordenación Urbanística deberán adaptarse a esta Ley en el plazo de dos años desde su vigencia; la Cuarta fija una serie de aspectos sobre el planeamiento en ejecución; la Quinta está referida a los procedimientos de protección de la legalidad urbanística y sancionadores; la Sexta al cálculo de la edificabilidad o del aprovechamiento urbanístico; la Séptima a las dotaciones o redes de infraestructuras, equipamientos y servicios públicos; la Octava y la Novena, establecen, respectivamente, la cuantía de las sanciones en pesetas y la competencia para resolver los procedimientos sancionadores en pesetas, de aplicación hasta la sustitución de la unidad monetaria por implantación del euro.
+En cuanto a la Disposición Derogatoria Única, deroga, en lo que se oponga a esta Ley, las disposiciones de la Asamblea y del Gobierno de la Comunidad de Madrid en esta materia, es decir, la Ley 4/1984, de Medidas de Disciplina Urbanística; la Ley 9/1995, de Medidas de Política Territorial, Suelo y Urbanismo; la Ley 20/1997, de Medidas Urgentes en Materia de Suelo y Urbanismo, y la Ley 3/1998, de modificación parcial de la anterior, así como todas sus normas de desarrollo. Y respecto a las Disposiciones Finales, la Primera se refiere a la actualización de las normas de organización y funcionamiento de la Comisión de Urbanismo de Madrid y del Jurado Territorial de Expropiación; la Segunda habilita al Gobierno Regional para la actualización anual del importe de las sanciones consistentes en multa mediante Decreto; la Tercera se refiere a normas de desarrollo y ejecución reglamentarias; y la Cuarta fija un período de un mes para su entrada en vigor, desde la publicación completa de la Ley en el «Boletín Oficial de la Comunidad de Madrid».
+
+## TÍTULO PRELIMINAR
+
+Objeto y principios generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+La presente Ley tiene por objeto la ordenación urbanística del suelo en la Comunidad de Madrid.
+
+### Artículo 2
+
+Artículo 2. Objeto, contenido y naturaleza de la ordenación urbanística.
+1. La ordenación urbanística regula la utilización del suelo; los procesos de transformación de éste mediante la urbanización, la edificación y la construcción en general o cualquiera de las otras formas previstas en la presente Ley; y el uso, la explotación, la conservación y la rehabilitación de las obras, los edificios, las construcciones y las instalaciones.
+A los efectos de la ordenación urbanística del suelo se entiende comprendida la superficie del terreno, así como el vuelo y el subsuelo, tanto en su estado natural como transformado.
+2. La ordenación urbanística comprende las siguientes actividades:
+a) Garantía de la efectividad del régimen urbanístico del suelo.
+b) Planeamiento urbanístico.
+c) Ejecución del planeamiento urbanístico.
+d) Intervención en el uso del suelo, en la edificación y en el mercado inmobiliario.
+3. La actividad urbanística constituye una función pública cuya titularidad corresponde a las Administraciones públicas competentes, que la gestionarán y desarrollarán conforme a una equilibrada y equitativa ponderación de los bienes jurídicos relevantes protegidos por la Constitución y para la máxima realización posible en cada caso del orden por ésta definido.
+
+### Artículo 3
+
+Artículo 3. Principios rectores y fines de la ordenación urbanística.
+1. Son principios rectores de la ordenación urbanística:
+a) Los previstos en los artículos 45, 46 y 47 de la Constitución.
+b) El de subordinación al interés general de toda la riqueza, cualquiera que sea su forma y titularidad, garantizando la utilización sostenible del territorio y la cohesión social.
+c) Los de ejercicio de las potestades administrativas y los derechos subjetivos de forma tempestiva y conforme a las exigencias de la buena fe y de la confianza legítima, que obliga también a los sujetos privados respecto de las Administraciones urbanísticas.
+d) El de participación ciudadana. En la formulación, gestión y ejecución de la actividad urbanística, la Comunidad de Madrid y los Ayuntamientos deberán fomentar e impulsar la participación, así como velar por los derechos de iniciativa e información de los ciudadanos y de las entidades que les representan.
+A tal efecto, garantizarán el acceso de los ciudadanos, en los términos legalmente establecidos, a los documentos que integran los instrumentos de planeamiento y ejecución, durante el proceso de su redacción y con posterioridad a su aprobación.
+2. Son fines de la ordenación urbanística:
+a) El uso racional del recurso natural del suelo de acuerdo con las necesidades colectivas, públicas y privadas, presentes y futuras previsibles, y en el marco de la ordenación del territorio.
+b) La configuración y organización espaciales de la vida individual y social de modo que proporcione a ésta, en condiciones de desarrollo sostenible, el medio ambiente urbano y rural más adecuado para su desenvolvimiento conforme al orden de derechos, intereses, valores y bienes jurídicos reconocidos y protegidos por la Constitución.
+c) El aseguramiento, en el medio urbano, de la suficiencia y funcionalidad de los espacios, equipamientos, infraestructuras y servicios públicos y sociales en relación con las edificabilidades y los usos restantes; una densidad adecuada al bienestar individual y colectivo; una distribución territorial razonable de los usos y actividades, que permita un desarrollo armónico efectivo de las dimensiones de la vida humana relativas a la residencia, el trabajo, la educación, la cultura, la sanidad, el bienestar social, el ocio y el deporte y evite en todo caso las concentraciones que repercutan negativamente en la funcionalidad de los espacios, equipamientos, infraestructuras y servicios públicos y la fluida movilidad y comunicación.
+d) La organización en suelo no urbanizable de protección de los usos, las edificaciones, las construcciones y las instalaciones que, excediendo de su utilización y explotación conforme a su naturaleza, sean autorizables en dicho suelo, de modo que contribuya en mayor medida a la preservación de su carácter rural.
+e) La preservación de las características de los espacios naturales protegidos y del suelo excluido del proceso de urbanización.
+f) La protección, rehabilitación y mejora del medio ambiente urbano y rural, así como del patrimonio histórico artístico, cultural y arquitectónico.
+g) Impedir la especulación con el suelo.
+h) Asegurar siempre la adecuada participación de la comunidad en las plusvalías generadas por la acción urbanística de las Administraciones Públicas.
+i) La orientación de las actuaciones públicas y privadas en orden a hacer efectivo el derecho de todos a una vivienda digna y adecuada, especialmente mediante la calificación de suelo para viviendas sujetas a algún régimen de protección pública y la constitución de patrimonios públicos de suelo.
+
+### Artículo 4
+
+Artículo 4. Actividad de garantía de la efectividad del régimen urbanístico del suelo.
+1. La actividad de garantía de la efectividad del régimen urbanístico del suelo y de su propiedad es una potestad administrativa que corresponde al Municipio, salvo en los supuestos en que esta Ley la atribuye expresamente a otra Administración.
+2. La potestad de garantía del cumplimiento del régimen urbanístico comprende las siguientes facultades:
+a) Asegurar que el suelo y las construcciones, edificaciones e instalaciones se utilicen de acuerdo con la ordenación urbanística y, en todo caso, con el interés general y la función social de la propiedad.
+b) Afectar el aumento del valor originado por el proceso urbanístico al cumplimiento de los deberes de la propiedad del suelo.
+c) Asegurar el cumplimiento efectivo y pleno de los deberes legales inherentes a la propiedad del suelo con independencia del régimen de la gestión de la ejecución del planeamiento.
+d) Garantizar la efectividad del principio de distribución equitativa de beneficios y cargas derivados de la ordenación urbanística entre los propietarios de suelo.
+e) Hacer efectiva la participación de la comunidad en las plusvalías generadas por la ordenación urbanística.
+
+### Artículo 5
+
+Artículo 5. Actividad de planeamiento urbanístico.
+1. La actividad de planeamiento urbanístico es una potestad administrativa, cuyo ejercicio corresponde a la Administración urbanística que la tenga atribuida en cada caso de conformidad con la presente Ley.
+2. La potestad de planeamiento urbanístico comprende las siguientes facultades:
+a) Elaborar, formular, tramitar y aprobar instrumentos de planeamiento urbanístico general y de desarrollo.
+b) Establecer el destino y uso del suelo y su régimen urbanístico de utilización mediante su clasificación con arreglo a esta Ley.
+c) Concretar, mediante su calificación, el régimen urbanístico del suelo con delimitación del contenido del derecho de propiedad.
+d) Determinar las condiciones, organizar y programar la actividad de ejecución, tanto la de urbanización, como la de edificación y construcción en general, así como la de conservación del patrimonio urbano y arquitectónico existente y, en su caso, su rehabilitación.
+3. La potestad de planeamiento urbanístico se ejerce en coordinación con las atribuidas por la Ley a otras Administraciones para la gestión de intereses públicos específicos cuya realización condicione o limite el destino o la utilización del suelo o requiera la transformación o la ocupación de éste, integrando espacialmente todas las acciones públicas relevantes territorialmente y articulando éstas con las privadas.
+4. Los sujetos privados participan en el ejercicio de la potestad de planeamiento urbanístico mediante:
+a) La formulación de iniciativas y propuestas, incluso en forma de proyectos de instrumentos de planeamiento, en los casos en que así esté expresamente previsto en la presente Ley.
+b) La intervención en los procedimientos de aprobación de los instrumentos de planeamiento mediante sugerencias y alegaciones.
+La formulación de iniciativas y propuestas, así como la de sugerencias y alegaciones, en ningún caso genera derecho a obtener su aprobación o estimación, pero sí a un pronunciamiento motivado sobre las mismas.
+
+### Artículo 6
+
+Artículo 6. Actividad de ejecución del planeamiento urbanístico.
+1. La actividad de ejecución del planeamiento urbanístico incluye las siguientes facultades:
+a) La organización, determinación de las condiciones, programación, dirección y control de las acciones y los actos precisos para la materialización y efectividad de las determinaciones del planeamiento.
+b) La determinación del régimen y sistema de la gestión.
+c) La gestión de las acciones y los actos jurídicos y materiales precisos para la transformación del suelo y, en particular, la urbanización, la construcción y edificación, la explotación y el uso de construcciones, edificaciones e instalaciones, la conservación de éstas y su rehabilitación.
+d) El control de legalidad de los actos de uso y transformación del suelo, la protección de la legalidad urbanística y la imposición de sanciones por la comisión de infracciones administrativas.
+2. Las facultades a que se refieren las letras a), b) y d) del número anterior son potestades administrativas que corresponden a la Administración urbanística en cada caso competente de acuerdo con la presente Ley.
+3. La facultad a que se refiere la letra c) del número 1 es, en el régimen público de gestión, una potestad administrativa que corresponde a la Administración urbanística competente de acuerdo con la presente Ley.
+Los sujetos privados participan en la actividad administrativa de gestión en la forma determinada en la presente Ley.
+4. La facultad a que se refiere la letra c) del número 1 corresponde, en el régimen privado de gestión, a los sujetos privados en los términos de la presente Ley.
+La edificación o construcción en solares y, en su caso, parcelas es siempre una facultad del titular del derecho de propiedad en el momento de realización de las obras.
+
+### Artículo 7
+
+Artículo 7. Actividad de intervención en el uso del suelo, en la edificación y en el mercado inmobiliario.
+1. La actividad de intervención en las acciones y los actos de transformación, utilización y materialización del aprovechamiento del suelo es una potestad administrativa que corresponde al Municipio en cuyo término se lleven a cabo tales acciones y actos.
+2. La potestad a que se refiere el número anterior comprende las siguientes facultades:
+a) Intervenir las acciones y los actos en la forma dispuesta en la presente Ley para asegurar su conformidad con la ordenación urbanística.
+b) Proteger la legalidad urbanística para la reintegración del orden urbanístico conculcado, con reposición de las cosas a su debido estado.
+c) Sancionar las infracciones administrativas urbanísticas.
+3. La actividad de incidencia en el mercado inmobiliario es una potestad administrativa, cuyo ejercicio corresponde a la Administración urbanística competente en cada caso de conformidad con la presente Ley.
+4. La potestad prevista en el número anterior comprende las siguientes facultades:
+a) Constituir y administrar patrimonios públicos de suelo.
+b) Fomentar la generación de suelo urbanizado, la construcción en general y la edificación residencial en particular, así como la conservación y rehabilitación de los espacios urbanos y naturales, y del patrimonio arquitectónico existente.
+c) Ceder terrenos edificables y derechos de superficie sobre los mismos.
+d) Sujetar las transmisiones de derechos reales sobre bienes inmuebles a los derechos de tanteo y retracto.
+e) Establecer un sistema de publicidad de los precios en las operaciones inmobiliarias para procurar la transparencia del mercado.
+
+### Artículo 8
+
+Artículo 8. Administración pública y ordenación urbanística.
+1. A las Administraciones públicas urbanísticas corresponde en todo caso, en la ordenación urbanística, el encauzamiento, la dirección y el control de las actividades y los actos de los sujetos públicos y privados.
+2. Las potestades atribuidas y las competencias asignadas a las Administraciones públicas incluyen, además de las determinadas expresamente en la presente Ley, cuantas facultades sean congruentes con ellas para ser ejercidas con arreglo a la presente Ley.
+
+## TÍTULO I
+
+Régimen urbanístico del suelo
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 9
+
+Artículo 9. Contenido urbanístico del derecho de propiedad del suelo.
+1. La función social de la propiedad delimita el contenido de las facultades urbanísticas susceptibles de adquisición y condiciona su ejercicio. Los derechos y los deberes de la propiedad del suelo resultan de su clasificación y, en su caso, calificación urbanística.
+2. El cumplimiento de los deberes es condición previa para el ejercicio de las facultades urbanísticas que se definen y regulan en la presente Ley. Tanto el cumplimiento de los deberes como el ejercicio de las facultades del derecho de propiedad deberán producirse en los términos dispuestos por esta Ley y, en virtud de la misma, por el planeamiento general, con arreglo al régimen de gestión de la actividad de ejecución por éste determinada.
+3. La clasificación urbanística, la categoría del suelo y la calificación urbanística vinculan los terrenos, las construcciones y las edificaciones a los correspondientes destinos y usos y definen la función social de los mismos, completando la delimitación del contenido del derecho de propiedad.
+4. La utilización del suelo, y en especial su urbanización y edificación, deberá producirse en la forma y con las limitaciones que la legislación de ordenación territorial y urbanística establezcan, de conformidad con la clasificación urbanística de los predios.
+
+### Artículo 10
+
+Artículo 10. Principios generales del régimen urbanístico legal de la propiedad del suelo.
+1. La ordenación urbanística de los terrenos, las edificaciones y las construcciones, así como de sus usos, no confiere a los propietarios afectados por ella derecho alguno a indemnización, salvo por infracción del principio de prohibición de las vinculaciones singulares y en las condiciones y supuestos determinados por la Ley.
+2. Los deberes urbanísticos sobre terrenos, construcciones y edificaciones tienen carácter real. Las transmisiones realizadas por actos inter vivos o mortis causa no modificarán la situación jurídica del titular, quedando el adquirente subrogado en el lugar y puesto del transmitente, tanto en sus derechos y deberes urbanísticos, como en los compromisos que éste hubiera acordado con la Administración y hayan sido objeto de inscripción registral.
+3. La participación de la comunidad en las plusvalías generadas por la acción urbanística de los entes públicos, y el reparto de los beneficios y cargas derivados de la ejecución del planeamiento urbanístico entre los afectados por la misma, se produciráen los términos fijados por esta Ley.
+
+### Artículo 11
+
+Artículo 11. Derechos generales de la propiedad del suelo.
+1. Forman parte, en todo caso, del contenido urbanístico del derecho de propiedad del suelo, con independencia de la clase de éste, las facultades reales y actuales de uso, disfrute y explotación normales del bien a tenor de su situación, características objetivas y destino, conformes o, en todo caso, no incompatibles ni contradictorios con la legislación administrativa que sea de aplicación y, en particular, de la ordenación del territorio y la ordenación urbanística.
+2. Las facultades urbanísticas del derecho de propiedad se ejercerán dentro de los límites y con el cumplimiento de los deberes establecidos en las Leyes y en el planeamiento urbanístico.
+
+### Artículo 12
+
+Artículo 12. Deberes generales de la propiedad del suelo.
+Forman parte del contenido urbanístico del derecho de propiedad del suelo, con independencia de la clase de éste, los siguientes deberes:
+a) Destinar el suelo al uso previsto por la ordenación urbanística, levantando, en su caso, las cargas impuestas por ésta.
+b) Conservar y mantener el suelo natural y, en su caso, su masa vegetal en las condiciones precisas para minimizar riesgos de erosión o incendio, o que afecten a la seguridad o salud pública, o que puedan producir daños o perjuicios a terceros o al interés general, incluido el ambiental. Este deber incluye, asimismo, el de usar y explotar el suelo de forma que no se produzca contaminación indebida de la tierra, el agua y el aire, ni tengan lugar emisiones ilegítimas en bienes de terceros.
+c) Realizar las reforestaciones y los trabajos y obras de defensa del suelo y su vegetación que sean necesarios para mantener el equilibrio ecológico, minimizar los procesos erosivos, impedir la contaminación indebida del suelo y prevenir desastres naturales. En particular, proceder a la reposición de la vegetación en toda la superficie que la haya perdido como consecuencia de incendio, desastre natural o acción humana no debidamente autorizada, en la forma y condiciones prevenidas en la legislación correspondiente y en los planes y programas aprobados conforme a la misma.
+d) Respetar las limitaciones que deriven de la colindancia con bienes que tengan la condición de dominio público natural, en los que estén establecidos obras o servicios públicos o en cuyo vuelo o subsuelo existan recursos naturales sujetos a explotación regulada.
+e) Cumplir los planes y programas sectoriales aprobados conforme a la legislación administrativa reguladora de las actividades a que se refiere la letra c) precedente, así como los aprobados para la protección de los espacios naturales, la flora y la fauna.
+f) Permitir la realización por la Administración pública competente de los trabajos de restauración o mejora ambiental que sean necesarios.
+g) Respetar las limitaciones que para la utilización urbanística del suelo supone la determinación de superficies mínimas y características de unidades aptas para la edificación.
+h) Conservar las edificaciones, las construcciones y las instalaciones existentes de modo que cumplan en todo momento los requerimientos mínimos exigibles para la autorización de su uso, procediendo a las obras y los trabajos de mantenimiento, reparación, saneamiento y, en su caso, rehabilitación. Quedarán sujetos igualmente al cumplimiento de las normas sobre protección de los patrimonios arquitectónicos y arqueológicos.
+i) Solicitar y obtener en la forma dispuesta en la presente Ley las autorizaciones administrativas preceptivas para cualquier acto de transformación o uso del suelo, natural o construido.
+
+## CAPÍTULO II
+
+Clasificación del suelo
+
+### Artículo 13
+
+Artículo 13. Clases de suelo y categorías.
+1. El planeamiento general clasifica el suelo del término municipal en todas o algunas de las siguientes clases:
+a) Suelo urbano.
+b) Suelo urbanizable.
+c) Suelo no urbanizable de protección.
+2. Lo dispuesto en el número anterior se entiende sin perjuicio de la capacidad del planeamiento territorial para clasificar directamente terrenos, con plena y directa eficacia, cuando así esté previsto expresamente por la Ley de Ordenación del Territorio de la Comunidad de Madrid. La clasificación así dispuesta vincula en todo caso al planeamiento urbanístico.
+3. En las clases de suelo se distinguen categorías primarias y, en su caso, secundarias.
+4. Las categorías primarias precisan el régimen propio de la clase de suelo correspondiente.
+5. Las categorías secundarias complementan, cuando procedan, las primarias.
+6. Reglamentariamente se establecerán las categorías secundarias en que puedan dividirse todas o alguna de las categorías primarias definidas en este artículo.
+
+### Artículo 14
+
+Artículo 14. Suelo urbano.
+1. Tendrán la condición de suelo urbano los terrenos que, formando parte de una trama urbana, cumplan alguna de las siguientes condiciones:
+a) Que sean solares por ser aptos para la edificación o construcción y estar completamente urbanizados, estando pavimentadas las calzadas y soladas y encintadas las aceras de las vías urbanas municipales a que den frente y contando, como mínimo, con los servicios de abastecimiento de agua, evacuación de aguas residuales, suministro de energía eléctrica y alumbrado público conectados a las correspondientes redes públicas.
+b) Que cuenten con urbanización idónea para la edificación o construcción a que deba otorgar soporte y realizada en grado suficiente, que proporcione, en todo caso, acceso rodado por vía urbana municipal, abastecimiento de agua, evacuación de aguas residuales y suministro de energía eléctrica y alumbrado público.
+c) Que estén ocupados por la edificación o construcción al menos en las dos terceras partes de los espacios aptos para la misma, conforme a la ordenación que establezca el planeamiento urbanístico.
+d) Que estén urbanizados en ejecución del planeamiento urbanístico y de conformidad con sus determinaciones.
+2. El planeamiento general diferenciará en el suelo urbano, cuando proceda, todas o alguna de las siguientes categorías primarias:
+a) Suelo urbano consolidado, integrado por los solares, así como las parcelas que, por su grado de urbanización efectiva y asumida por el planeamiento urbanístico, puedan adquirir la condición de solar, mediante obras accesorias y simultáneas a las de edificación o construcción.
+Serán también suelo urbano consolidado aquellos solares o parcelas que sean objeto de actuaciones de dotación, aunque requieran de equidistribución de beneficios y cargas.
+b) Suelo urbano no consolidado, integrado por la restante superficie de suelo urbano y, en todo caso, aquellos terrenos que sean objeto de actuaciones de reforma o renovación de la urbanización.
+3. Reglamentariamente se concretarán los criterios para valorar adecuadamente el grado de urbanización y de consolidación de los terrenos para la clasificación como suelo urbano, así como los criterios que sean de aplicación, en su caso, para distinguir entre las dos categorías establecidas.
+Se modifica el apartado 2 por el art. 2.1 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+
+### Artículo 15
+
+Artículo 15. Suelo urbanizable.
+1. Tendrán la condición de suelo urbanizable los terrenos que el planeamiento general adscriba a esta clase de suelo, mediante su clasificación, por no proceder serlo a las clases de suelo urbano y no urbanizable de protección, y podrá ser objeto de transformación, mediante su urbanización o cualquiera de las otras formas previstas en la presente Ley, en las condiciones y los términos que dicho planeamiento determine, de conformidad con las Normas que reglamentariamente se establezcan.
+2. El planeamiento general diferenciará en el suelo urbanizable, cuando proceda, todas o alguna de las siguientes categorías primarias:
+a) Suelo urbanizable sectorizado, integrado por los terrenos que el planeamiento general prevea expresamente que deben transformarse en suelo urbano y que, a tales efectos, se dividen en recintos denominados sectores.
+b) Suelo urbanizable no sectorizado, integrado por los restantes terrenos adscritos a la clase de suelo urbanizable.
+
+### Artículo 16
+
+Artículo 16. Suelo no urbanizable de protección.
+1. Tendrán la condición de suelo no urbanizable de protección los terrenos en que concurran alguna de las circunstancias siguientes:
+a) Que deban incluirse en esta clase de suelo por estar sometidos a algún régimen especial de protección incompatible con su transformación de acuerdo con el planeamiento regional territorial o la legislación sectorial, en razón de sus valores paisajísticos, históricos, arqueológicos, científicos, ambientales o culturales, de riesgos naturales acreditados en el planeamiento sectorial, o en función de su sujeción a limitaciones o servidumbres para la protección del dominio público.
+b) Que el planeamiento regional territorial y el planeamiento urbanístico consideren necesario preservar por los valores a que se ha hecho referencia en el punto anterior, por sus valores agrícolas, forestales, ganaderos o por sus riquezas naturales.
+2. El planeamiento regional territorial clasificará directamente los terrenos que, en todo caso, deban pertenecer a esta clase de suelo, que será completado, en su caso, por la clasificación realizada por el planeamiento general.
+3. Si como consecuencia de incendio o agresión ambiental, sean cuales fueran sus causas, quedasen dañados el suelo, la vegetación y la fauna o sus hábitats, y los terrenos perdieran el valor que dio lugar a su protección, quedarán sujetos desde el mismo momento de la producción del daño a restitución medio ambiental. En todo caso, no podrá incluirse este suelo en ninguna otra clase, dentro de los treinta años siguientes al daño sufrido, salvo su previa autorización por Ley aprobada por la Asamblea de Madrid, en la que quede justificada la imposibilidad de dicha restitución medio ambiental.
+
+## CAPÍTULO III
+
+Régimen urbanístico del suelo urbano
+
+### Artículo 17
+
+Artículo 17. Derechos y deberes de los propietarios de suelo urbano consolidado.
+El contenido urbanístico del derecho de propiedad en suelo urbano consolidado comprenderá, además de los generales, los siguientes derechos y deberes, cuyo ejercicio se verificará secuencialmente según proceda:
+a) Realizar las obras ordinarias de carácter accesorio que resten para completar la urbanización de forma que la parcela adquiera la condición de solar con carácter previo o, en su caso y en las condiciones que se fijen, de forma simultánea a la edificación.
+b) Edificar en el solar en las condiciones y, en su caso, plazos establecidos por el planeamiento.
+c) Destinar la edificación a alguno de los usos legitimados por la ordenación urbanística en vigor.
+d) Conservar y, en su caso, rehabilitar la edificación a fin de que esta mantenga en todo momento las condiciones mínimas requeridas para la autorización de su ocupación.
+e) Realizar los deberes de cesión previstos para las actuaciones de dotación en el artículo 19 bis de esta ley, así como realizar la distribución equitativa de beneficios y cargas cuando lo requieran.
+Se modifica la letra e) por el art. 2.2 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifica por el art. 5.1 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 18
+
+Artículo 18. Derechos y deberes de la propiedad en suelo urbano no consolidado.
+1. El contenido urbanístico del derecho de propiedad en suelo urbano no consolidado comprenderá, además de los generales, los siguientes derechos, cuyo ejercicio se verificará secuencialmente según proceda:
+a) Instar a la aprobación del pertinente planeamiento de desarrollo a fin de establecer la ordenación pormenorizada precisa para legitimar la actividad de ejecución del planeamiento.
+b) Instar a la delimitación de la correspondiente unidad de ejecución y al señalamiento del sistema de ejecución.
+c) Llevar a cabo la actividad de ejecución o, en todo caso, intervenir y participar en ella con arreglo al principio de distribución equitativa de beneficios y cargas, y en los términos y condiciones determinados en el Título III de la presente Ley, salvo en los casos en que aquélla deba realizarse por un sistema público de ejecución.
+2. Durante el proceso de ejecución del ámbito de actuación los propietarios de suelo urbano no consolidado tendrán, además de los generales, los siguientes deberes específicos:
+a) Abstenerse de toda actuación en contra o al margen del sistema de ejecución que se haya determinado.
+b) Efectuar a título gratuito, en la forma y cuantía dispuesta en la presente Ley y en el contexto del sistema de ejecución establecido, las cesiones de suelo reservado para las redes de infraestructuras, equipamientos y servicios públicos.
+c) Ceder a título gratuito al Municipio, en solares, en la forma y cuantía dispuesta en la presente Ley, las superficies precisas para la materialización del 10 por 100 del producto del coeficiente de edificabilidad del ámbito de actuación, o unidades de ejecución en que se divida, por su superficie.
+d) Costear y, en su caso, ejecutar en las condiciones y los plazos fijados a tal fin y en el contexto del sistema de ejecución establecido al efecto, la totalidad de las obras de urbanización, incluida la parte que proceda de las obras precisas para asegurar la conexión del ámbito de actuación a las redes generales y, en su caso, supramunicipales de infraestructuras, equipamientos y servicios de la ordenación estructurante del planeamiento general y la integridad y funcionalidad de éstas, así como para reforzar, mejorar o ampliar tales redes cuando sea necesario para compensar el impacto y la sobrecarga que suponga la puesta en uso del ámbito de actuación.
+e) Realojar a los ocupantes legales de inmuebles que constituyan su residencia habitual, en las actuaciones urbanísticas que exijan el desalojo de dichos ocupantes y en los supuestos, términos y condiciones establecidos por la legislación de pertinente aplicación.
+3. Culminado el proceso de ejecución del planeamiento, en la forma establecida en el artículo 71 de la presente Ley, los terrenos comprendidos en el correspondiente ámbito de actuación alcanzarán la categoría de suelo urbano consolidado y, en consecuencia, los derechos y deberes de la propiedad serán los establecidos en el artículo anterior.
+Se modifica el apartado 1 y se añade la letra e) al apartado 2 por el art. 15.1 y 2 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 19
+
+Artículo 19. Régimen del suelo urbano consolidado.
+1. En suelo urbano consolidado, los terrenos estarán legalmente vinculados a los usos previstos por la ordenación urbanística y, en su caso, a la construcción o edificación, así como afectados por la carga de la ejecución y la financiación de todas las obras de urbanización que aún resten para que la parcela correspondiente adquiera la condición de solar, incluyendo, cuando proceda, la cesión a título gratuito de la superficie destinada a vial, y las infraestructuras de urbanización pendientes a todo lo largo del perímetro de la parcela, cuando ello fuera posible, y al pago de la cuota de urbanización correspondiente, en otro caso.
+2. Cuando proceda, la realización de cualquier acto de edificación requerirá con carácter previo, la puesta a disposición del Municipio de la superficie a que se refiere el número anterior y la prestación de garantía suficiente para la realización de las obras de urbanización pendientes.
+3. Para la materialización de la superficie edificable permitida podrá autorizarse la edificación, aún cuando la parcela correspondiente no tenga la condición de solar, siempre que se cumplan los siguientes requisitos:
+a) Asunción expresa y formal por el propietario de los compromisos de proceder a la realización simultánea de toda la urbanización pendiente y la edificación y de formalización, en su caso, de la cesión de superficie de vial asimismo pendiente, así como de no ocupación ni utilización de la edificación hasta la total terminación de las obras, la materialización, en su caso, de la cesión y el efectivo funcionamiento de los servicios urbanos correspondientes.
+b) El compromiso de no ocupación, ni utilización, incluirá el de consignación de condición, con idéntico contenido, en cuantos negocios jurídicos se celebren con terceros e impliquen el traslado a éstos de alguna facultad de uso, disfrute o disposición sobre la edificación o parte de ella.
+c) Prestación de garantía en cuantía suficiente para cubrir el coste de ejecución de las obras de urbanización comprometidas.
+
+### Artículo 19 bis
+
+Artículo 19 bis. Régimen de las actuaciones de dotación.
+1. El instrumento de planeamiento que, en una o más parcelas de un ámbito de suelo urbano consolidado, establezca una mayor edificabilidad o densidad o asigne un nuevo uso característico, siempre y cuando no requiera la reforma o renovación de la urbanización del ámbito, deberá contemplar un incremento de las redes públicas locales del ámbito de suelo urbanizado cuando sea necesario para reajustar su proporción y, en su caso, las correspondientes cesiones de la participación de la comunidad en las plusvalías del planeamiento.
+No será necesario reajustar la proporción de redes públicas en aquellos casos en los que, tras el incremento de edificabilidad, densidad o cambio de uso, estuvieran garantizados los estándares establecidos en el artículo 36.6 de esta ley.
+2. En relación con el incremento de redes públicas se tendrán en cuenta las siguientes consideraciones:
+a) Se entenderá como estándar dotacional establecido, el cociente de la superficie de redes públicas locales existentes, excluido el viario, entre la edificabilidad lucrativa existente en el área homogénea de referencia, delimitada conforme a los criterios establecidos en el artículo 37 de esta ley.
+b) Se entenderá como estándar dotacional establecido por vivienda, el cociente de la superficie de redes públicas locales existentes, excluido el viario, entre el número de viviendas existente en el área homogénea de referencia, delimitada conforme a los criterios establecidos en el artículo 37 de esta ley. En aquellos planeamientos que no tengan referencia al número de viviendas o superficie construida orientativa de la misma, se utilizará la referencia de una unidad de vivienda por cada 100 m2 construidos.
+c) En las actuaciones en suelo de uso residencial:
+1.º En las actuaciones que supongan una mayor edificabilidad, el deber de entregar a la Administración competente el suelo para redes públicas locales será, como mínimo, el correspondiente al producto del incremento de la superficie edificable por el estándar dotacional del área homogénea.
+2.º En las actuaciones que supongan un incremento de la densidad, por reducción del tamaño de vivienda, el deber de entregar a la Administración competente el suelo para redes públicas locales será como mínimo el correspondiente al producto del incremento de viviendas por el estándar dotacional por vivienda del área homogénea.
+3.º En las actuaciones en suelo de uso residencial en las que se den las dos circunstancias anteriores, se aplicarán conjuntamente los estándares de los epígrafes a y b de este apartado.
+d) En las actuaciones en suelo de uso no residencial:
+1.º En las actuaciones que se limiten a establecer un nuevo uso no residencial, el deber de entregar a la Administración competente el suelo para redes públicas locales será el que se determine en el estudio específico municipal de necesidades de redes que, para este supuesto, deberá contener el instrumento de planeamiento.
+2.º En las actuaciones que supongan una mayor edificabilidad, manteniendo el uso no residencial, o cambiándolo a otro uso no residencial, el deber de entregar a la Administración competente el suelo para redes públicas locales será como mínimo el correspondiente al producto del incremento de la superficie edificable por el estándar dotacional del área homogénea, con el objeto de mantener este estándar.
+3.º En las actuaciones en suelo de uso no residencial en las que se den las dos circunstancias anteriores, se aplicarán conjuntamente los estándares de los epígrafes a y b de este apartado.
+4.º En las actuaciones que supongan un cambio de uso no residencial a residencial, sin incrementar la edificabilidad, el deber de entregar a la Administración competente el suelo para redes públicas locales será como mínimo el correspondiente al producto del incremento de viviendas por el estándar dotacional por vivienda del área homogénea, con el objeto de mantener este estándar. En caso de no existir viviendas en el área homogénea, se aplicará el estándar de 15 metros cuadrados de superficie de red pública local por cada vivienda. Todo ello salvo lo dispuesto en el apartado 1 de este artículo.
+5.º En las actuaciones que supongan un cambio de uso de no residencial a residencial con incremento de la edificabilidad, se aplicará el estándar que resulte del apartado anterior sobre las viviendas resultantes de la edificabilidad total.
+3. El deber de entregar a la Administración competente el suelo para dotaciones públicas, en caso de justificarse la imposibilidad física de materializarlo en el ámbito correspondiente, podrá sustituirse por alguna de las siguientes fórmulas:
+a) La entrega de superficie edificada o edificabilidad no lucrativa en un complejo inmobiliario situado dentro del ámbito.
+b) La entrega de superficie edificada o edificabilidad no lucrativa dentro del área homogénea.
+c) Su equivalente económico, con destino a la mejora de las redes públicas locales del área homogénea que deberá materializarse en un plazo máximo de cinco años desde su entrega.
+4. La cesión de la participación de la comunidad en las plusvalías del planeamiento se determinará atendiendo únicamente al incremento de edificabilidad media ponderada del ámbito de suelo urbanizado definido en el instrumento de planeamiento y se concretará en un 5 por ciento del referido incremento.
+Esta cesión podrá cumplirse mediante la sustitución de la entrega de suelo por su valor en metálico, con la finalidad de costear la parte de financiación pública que pudiera estar prevista en la propia actuación, o a integrarse en el patrimonio público de suelo, con destino preferente a actuaciones de rehabilitación o de regeneración y renovación urbanas. El plazo máximo para materializar las actuaciones será de cinco años desde su entrega.
+5. Los deberes relacionados en los apartados anteriores, que deberán recogerse en el adecuado instrumento de planeamiento, deberán cumplirse en el momento del otorgamiento de la licencia de obra y en su caso de actividad o en el de presentación de la declaración responsable.
+6. Reglamentariamente se podrá establecer en qué casos un aumento de edificabilidad o número de viviendas o cambio de uso o tipología en el que se garanticen que las nuevas viviendas cuenten con determinados niveles de eficiencia energética, no precisará nuevas dotaciones públicas.
+Se modifica por el art. 2.3 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se añade por el art. 5.2 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 20
+
+Artículo 20. Régimen del suelo urbano no consolidado.
+1. En el suelo urbano no consolidado sólo podrán realizarse, mientras no cuente con ordenación pormenorizada establecida directamente por el planeamiento general o, en desarrollo de éste, por el correspondiente planeamiento de desarrollo:
+a) Las obras correspondientes a infraestructuras, equipamientos y servicios públicos de las redes definidas por la ordenación estructurante del planeamiento general, así como las de infraestructuras y servicios públicos de la competencia de cualquiera de las Administraciones públicas y los servicios públicos prestados por compañías suministradoras que sean compatibles con la ordenación establecida en el planeamiento.
+b) Los usos, construcciones, edificaciones e instalaciones de carácter provisional que no estén expresamente prohibidas por la legislación sectorial ni por el planeamiento, los cuales habrán de cesar en todo caso y ser demolidas, sin indemnización alguna, cuando lo acordare la Administración urbanística. Las licencias o autorizaciones que se concedan con estas condiciones, deberán ser aceptadas expresamente por el propietario. La eficacia de las licencias quedará condicionada en todo caso a la prestación de garantía por importe mínimo de los costes de demolición y desmantelamiento, así como de inscripción en el Registro de la Propiedad del carácter precario de los usos, las obras y las instalaciones.
+c) Las obras de mantenimiento y conservación de construcciones, edificios e instalaciones.
+2. El establecimiento de la ordenación pormenorizada del suelo urbano no consolidado, sea directamente a través del planeamiento general o mediante el planeamiento de desarrollo, determina lo siguiente:
+a) La vinculación legal de los terrenos al pertinente proceso urbanizador y edificatorio del ámbito de actuación o de las unidades de ejecución en las que se divida, en el contexto del sistema de ejecución determinado al efecto.
+b) La afectación legal de los terrenos al cumplimiento, en los términos del sistema de ejecución que se fije al afecto, al cumplimiento de los deberes legales de la propiedad, tal como resulten precisados por el planeamiento urbanístico, así como, en su caso, a la distribución equitativa de los beneficios y cargas entre los propietarios. Cuando la superficie total de los terrenos con destino o uso públicos y carácter dotacional previamente existentes en la unidad de ejecución sea igual o superior a la que deba resultar de la ejecución del planeamiento urbanístico, se entiende sustituida una por otra, percibiendo la Administración el exceso, si lo hay y en la proporción que corresponda, en terrenos con edificabilidad.
+c) La afección legal de los terrenos al cumplimiento de la cesión correspondiente al 10 por 100 del producto del coeficiente de edificabilidad del ámbito de actuación o de las unidades de ejecución en las que se divida, por la superficie del mismo, el cual se cederá urbanizado al Municipio.
+d) El derecho de los propietarios a la adjudicación de solar o solares resultantes de la ejecución en proporción al valor del terreno por ellos aportado, salvo que no asuman la ejecución ni participen en ella.
+e) La afectación legal de los terrenos obtenidos por la Administración en virtud de cesión a título gratuito y por cualquier concepto a los destinos previstos por esta Ley y, en virtud de la misma, por el planeamiento urbanístico.
+3. Antes de la finalización de las obras de urbanización no es posible, con carácter general, la realización de otros actos edificatorios o de implantación de usos que los provisionales previstos en la letra b) del número 1 anterior. Sin embargo, podrá autorizarse la edificación vinculada a la simultánea terminación de las obras de urbanización inmediata a la parcela de que se trate, en las mismas condiciones que en el suelo urbano consolidado.
+
+### Artículo 20 bis
+
+Artículo 20 bis. Régimen de las actuaciones de reforma o renovación de la urbanización.
+1. Se entenderá que se requiere reforma o renovación de la urbanización cuando, para la implantación de la mayor edificabilidad o densidad o nuevo uso característico, sea necesario modificar las redes del conjunto de los servicios existentes en el ámbito enumerados en el artículo 14.a) de esta ley en más de un cincuenta por ciento, tomando como referencia la superficie física de las redes de los servicios existentes, con independencia de la necesidad de aumentar su caudal, potencia o intensidad del servicio. No se tendrá en cuenta a estos efectos la implantación y, en general, las necesidades derivadas de la urbanización de las nuevas redes locales.
+2. Las actuaciones de reforma o renovación de la urbanización que incrementen edificabilidad y se desarrollen en áreas homogéneas en las que se alcancen o superen los estándares de redes locales establecidos en el artículo 36.6, deberán garantizar que las redes locales previstas mantienen, como mínimo, el estándar dotacional previsto por el planeamiento y el ya obtenido en el área. En aquellos casos en los que no se alcance dicho estándar, las actuaciones propuestas deberán cumplir, al menos, con los estándares previstos en el artículo 36.6 para redes públicas locales.
+Lo dispuesto anteriormente se entiende sin perjuicio de las demás obligaciones que legalmente correspondan.
+3. Reglamentariamente se podrá establecer en qué casos los instrumentos de ordenación urbanística podrán incrementar el aprovechamiento urbanístico previsto en el planeamiento general o de desarrollo sin necesidad de precisar nuevas dotaciones para los supuestos en que las nuevas viviendas alcance determinados niveles de eficiencia energética.
+Se añade por el art. 2.4 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para su aplicación.
+
+## CAPÍTULO IV
+
+Régimen urbanístico del suelo urbanizable
+
+### Artículo 21
+
+Artículo 21. Derechos y deberes de la propiedad en suelo urbanizable sectorizado.
+1. El contenido urbanístico del derecho de propiedad en suelo urbanizable sectorizado comprenderá, además de los generales, los mismos derechos y deberes establecidos para el suelo urbano no consolidado en el artículo 18 de la presente Ley.
+2. Siempre que se hubieran cumplido los deberes del número anterior, los terrenos de esta clase de suelo pasarán a tener la condición de suelo urbano consolidado, desde la recepción de las correspondientes obras de urbanización, en los términos del artículo 135 de la presente Ley.
+
+### Artículo 22
+
+Artículo 22. Derechos y deberes de la propiedad en suelo urbanizable no sectorizado.
+1. El contenido de los derechos de la propiedad en el suelo urbanizable no sectorizado comprende, además de los generales y de los atribuidos en suelo no urbanizable de protección, los siguientes:
+a) Promover la sectorización de sus terrenos y, para ello, el Plan de Sectorización, cuya aprobación supondrá la adscripción de los mismos al régimen urbanístico del suelo urbanizable sectorizado.
+b) Solicitar y, en su caso, ejecutar en sus terrenos las obras, construcciones y edificaciones e implantar los usos y las actividades autorizables en esta categoría de suelo conforme a esta Ley.
+c) En todo caso, consultar previamente al ejercicio de los anteriores derechos, a las Administraciones competentes, sobre la viabilidad de la sectorización y legislación sectorial aplicable, asícomo respecto de las obras de conexión con las redes exteriores a la actuación. El pronunciamiento administrativo será vinculante.
+2. El contenido de los deberes de la propiedad en el suelo urbanizable no sectorizado comprende, además de los generales y de los atribuidos en suelo no urbanizable de protección, los siguientes:
+a) Los establecidos para el suelo no urbanizable de protección, mientras no se apruebe ninguna de las actuaciones previstas en las letras a) y b) del número anterior.
+b) El de solicitar y obtener la aprobación o autorización que corresponda para la realización de las actuaciones a que se refieren las letras a) y b) del número anterior.
+c) El pago del canon municipal que proceda por la realización de actos legitimados por proyecto de actuación especial.
+d) En el caso de que se apruebe el Plan de Sectorización, los propios del suelo urbanizable sectorizado y los asumidos en la propuesta de compromisos, asícomo, en todo caso, los de ejecutar y ceder a las Administraciones públicas que corresponda las obras exteriores al sector necesarias para la debida conexión de éste con las redes supramunicipales de infraestructuras, equipamientos y servicios públicos municipales, desde la aprobación del correspondiente Plan de Sectorización.
+
+### Artículo 23
+
+Artículo 23. Régimen del suelo urbanizable.
+1. En el suelo urbanizable sectorizado será de aplicación el mismo régimen que se establece para el suelo urbano no consolidado en el artículo 20 de la presente Ley, distinguiendo según esté establecida o no la ordenación pormenorizada.
+El derecho de los propietarios a la adjudicación de solar o solares resultantes de la ejecución será en proporción a la superficie de terreno aportado por los mismos.
+En los casos de actuaciones en suelo urbanizable, el Ayuntamiento podrá autorizar la simultaneidad de la edificación de terrenos que todavía no tengan la condición de solar, con la ejecución de las obras de urbanización. La garantía a prestar por quien solicite la aplicación de dicho régimen será fijada de forma que alcance a cubrir el coste de ejecución de las obras de urbanización comprometidas.
+2. Mientras no se produzca el cambio de categoría a que se refiere el artículo siguiente, en el suelo urbanizable no sectorizado será de aplicación el régimen del suelo no urbanizable de protección en todo lo no previsto en este capítulo.
+Se añade el último párrafo al apartado 1 por el art. 12.1 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+ Téngase en cuenta la disposición transitoria 3 para su aplicación.
+
+### Artículo 24
+
+Artículo 24. Actuaciones en suelo urbanizable no sectorizado que requieren cambio en la categoría del suelo.
+1. En el suelo urbanizable no sectorizado podrán formularse iniciativas de desarrollo urbanístico mediante actuaciones urbanizadoras de transformación de los terrenos.
+2. Las iniciativas de desarrollo urbanístico se formalizarán mediante solicitudes de tramitación y aprobación del correspondiente Plan de Sectorización.
+3. Las determinaciones de ordenación y gestión de las actuaciones urbanizadoras que se legitimen por el correspondiente Plan de Sectorización deberán observar los criterios que sobre delimitación de sectores y su inserción en el modelo territorial se establezcan, en su caso, reglamentariamente, o los fijados por el planeamiento territorial y urbanístico de aplicación.
+
+### Artículo 25
+
+Artículo 25. Actuaciones en suelo urbanizable no sectorizado que no requieren cambio en la categoría del suelo.
+En el suelo urbanizable no sectorizado podrán realizarse, en todo caso, en los términos y condiciones en cada caso prescritos en la presente Ley, los siguientes actos:
+a) Las obras e instalaciones y los usos requeridos por las infraestructuras y los servicios públicos estatales, autonómicos o locales que precisen localizarse en terrenos con esta clasificación y categoría de suelo, así como los requeridos por las infraestructuras de distribución o transporte de energía y de telecomunicaciones, y sus construcciones estrictamente necesarias, para la prestación de servicios de utilidad pública o de interés general, con independencia de su titularidad pública o privada.
+b) Los que se legitimen mediante calificación urbanística o proyecto de actuación especial.
+c) Las instalaciones de carácter deportivo que podrán concederse mediante licencia municipal.
+Se modifica la letra a) por el art. 2.5 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se añade la letra c) por el art. 21.1 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+
+### Artículo 26
+
+Artículo 26. Actuaciones en suelo urbanizable no sectorizado que requieren calificación urbanística.
+1. En el suelo urbanizable no sectorizado, en los términos que disponga el planeamiento urbanístico y, en su caso, el planeamiento territorial, podrá legitimarse, mediante la previa calificación urbanística, la realización de las siguientes construcciones, edificaciones e instalaciones con los usos y actividades correspondientes:
+a) Las de carácter agrícola, ganadero, forestal, cinegético o análogo. Los usos agrícolas, ganaderos, forestales, cinegéticos o análogos, que deberán ser conformes, en todo caso, con su legislación específica, comprenderán las actividades, construcciones e instalaciones necesarias para las explotaciones de tal carácter, incluidas las de elaboración de productos del sector primario y su comercialización cuando se produzcan en la propia finca, y deberán guardar proporción con la extensión y características de dichas explotaciones, quedando vinculadas a ellas y a las superficies de suelo que les sirvan de soporte. La calificación a que se refiere esta letra podrá legitimar también el uso accesorio de vivienda cuando ésta sea necesaria para el funcionamiento de cada explotación e instalación.
+b) Las de carácter extractivo. El uso extractivo comprenderá las construcciones e instalaciones estrictamente indispensables para la investigación, obtención y primera transformación de los recursos minerales o hidrológicos. La superficie mínima de la finca soporte de la actividad será la funcionalmente indispensable.
+c) Las de carácter de infraestructuras. El uso de infraestructuras comprenderá las actividades, construcciones e instalaciones, de carácter temporal o permanente, necesarios para la ejecución y el mantenimiento de obras y la prestación de servicios relacionados con el transporte por cualquier medio de personas y mercancías, la generación de energía destinada a autoconsumo y la recogida, la selección, el tratamiento y la valorización de residuos.
+d) Las de carácter residencial. Para que se autorice el uso de vivienda familiar será necesario que se disponga aislada en el interior de la unidad, que por su localización no pueda presumirse finalidad urbanizadora por no existir instalaciones o servicios necesarios para la finalidad de aprovechamiento urbanístico, y que la finca cuente, cualquiera que sea su naturaleza, con la superficie mínima que se establece en la legislación forestal y agraria para los terrenos considerados monte.
+e) Las instalaciones destinadas al ejercicio de actividades científicas, docentes y divulgativas relacionadas con los espacios naturales, agrícolas y ganaderos, incluyendo el alojamiento, si fuera preciso. En estos supuestos, la superficie mínima de la finca será la que funcionalmente sea indispensable.
+f) Las instalaciones de carácter permanente para el desarrollo de actividades que favorezcan el desarrollo rural sostenible, incluyendo las de comercialización de productos agropecuarios vinculados a la propia explotación y los servicios complementarios de dichas actividades.
+g) Los establecimientos de turismo rural en edificaciones rurales tradicionales rehabilitadas al efecto, dentro de los límites superficiales y de capacidad que se determinen reglamentariamente.
+h) La rehabilitación para su conservación, incluso con destino residencial, de edificios existentes aun cuando se encontraran en situación de fuera de ordenación, pudiendo excepcionalmente incluir las obras de ampliación indispensables para el cumplimiento de las condiciones de habitabilidad.
+2. Los requisitos de contenido y el procedimiento de tramitación y aprobación de las iniciativas de actuación sometidas a calificación urbanística se regulan en los artículos 147 y 148 de la presente ley. Los ayuntamientos procurarán, a través de sus ordenanzas municipales, la tramitación conjunta del expediente de calificación urbanística y del correspondiente título habilitante, a fin de que ambos sean resueltos en el mismo acto.
+3. No requerirán de calificación urbanística, siempre que el uso no esté expresamente prohibido por el planeamiento o normativa sectorial de aplicación, las siguientes construcciones o instalaciones:
+a) La instalación de invernaderos temporales y desmontables.
+b) La instalación de casetas de aperos no habitables, de una superficie total no superior a 15 metros cuadrados por parcela.
+c) Los proyectos de riego.
+d) La plantación de cualquier especie agrícola o silvícola.
+e) La instalación de comederos abrevaderos desmontables y portátiles.
+f) Los cerramientos perimetrales de fincas o parcelas.
+g) La instalación de silos y heniles, desmontables y portátiles.
+h) La nivelación de terreno y despedregado.
+i) Los sondeos para captación de agua.
+j) La instalación de huertos.
+k) La mejora de caminos rurales y caminos nuevos.
+l) La colocación de señalización, paneles, mesas interpretativas.
+m) Las instalaciones ganaderas (mangas, embarcaderos, etc.) siempre que las mismas sean desmontables.
+n) La instalación de colmenas desmontables y portátiles.
+ñ) Las instalaciones públicas para tratamientos de residuos.
+o) Las instalaciones de básculas puente públicas.
+p) Los circuitos públicos biosaludables.
+q) La instalación pública de punto verde.
+r) Las instalaciones desmontables para la comercialización de los productos provenientes de la propia explotación de la finca, así como las actividades vinculadas a esta última.
+s) Aquellas otras que puedan señalarse mediante orden del titular de la consejería competente en materia de ordenación del territorio y urbanismo.
+4. Aquellas actuaciones que cuenten con calificación urbanística, pero sean susceptibles de ampliación podrán llevarse a cabo sin necesidad de un nuevo procedimiento de calificación urbanística siempre que se trate del mismo uso o accesorio. Para ello, solicitarán o presentarán al ayuntamiento el título habilitante de naturaleza urbanística que se requiera para su lícito ejercicio. Las actuaciones a las que se refiere este precepto en ningún caso podrán afectar a parcelas diferentes a las que ya cuentan con calificación.
+Se modifica por el art. 2.6 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se añade el apartado 3 por el art. 10.1 de la Ley 7/2007, de 21 de diciembre. Ref. BOE-A-2008-4062.
+
+### Artículo 27
+
+Artículo 27. Actuaciones en suelo urbanizable no sectorizado que requieren proyecto de actuación especial.
+1. Cuando justificadamente no sea factible su realización en suelo urbano o urbanizable sectorizado y siempre que el planeamiento territorial y urbanístico no lo prohíba, podrá legitimarse mediante la aprobación de un proyecto de actuación especial el establecimiento en suelo urbanizable no sectorizado de los siguientes usos y actividades, con las construcciones, edificaciones e instalaciones que cada uno de ellos requiera, y siempre que no se trate de infraestructuras, instalaciones o servicios públicos:
+a) Uso de equipamiento social, comprensivo, en las condiciones que fije el planeamiento general y, en su caso, el planeamiento territorial, de:
+1.º Establecimientos e instalaciones para la defensa o seguridad pública.
+2.º Actividades y servicios culturales, docentes, científicos, asistenciales, religiosos, funerarios y similares, y con carácter general, los de interés social.
+3.º Instalaciones recreativas, de ocio y esparcimiento.
+4.º Actividades y servicios propios de las áreas de servicio de las carreteras.
+b) Uso industrial, comprensivo, en las condiciones y con los requerimientos que establezca el planeamiento general y, en su caso, el planeamiento territorial, de:
+1.º Los depósitos de residuos inertes, materiales, maquinaria y vehículos.
+2.º Establecimientos industriales que, por los riesgos que comporten, precisen una localización aislada o que, por su vinculación con explotaciones extractivas, agropecuarias o forestales, deban ubicarse junto a éstas.
+c) Uso turístico, comprensivo, en las condiciones y con los requisitos que establezca el planeamiento general y, en su caso, el planeamiento territorial, de los establecimientos destinados al alojamiento temporal de personas dotados de equipamiento complementario adecuado, concebidos para satisfacer una oferta turística especializada en el suelo rural.
+d) Establecimientos para el desarrollo de infraestructuras relativas a tecnologías de la información, comunicación y digitalización tales como los centros de proceso de datos.
+2. El contenido y procedimiento de tramitación y aprobación del proyecto de actuación especial, en tanto instrumento de ejecución, se regula en los artículos 149 y 150 de la presente ley.
+Se modifica por el art. 2.7 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifica el punto 3 del apartado 1.a) por el art. 21.2 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+
+## CAPÍTULO V
+
+Régimen urbanístico del suelo no urbanizable de protección
+
+### Artículo 28
+
+Artículo 28. Derechos y deberes de la propiedad en suelo no urbanizable de protección.
+1. En el suelo no urbanizable de protección los derechos de la propiedad comprenden, además de los generales, los siguientes:
+a) La realización de los actos precisos para la utilización y explotación agrícola, ganadera, forestal, cinegética o análoga a la que estén efectivamente destinados, conforme a su naturaleza y mediante el empleo de medios técnicos e instalaciones, compatibles con la preservación de los valores que motivan su inclusión en esta clasificación de suelo. Esta facultad comprende sólo los trabajos y las instalaciones que sean indispensables y estén permitidos o, en todo caso, no prohibidos por las ordenaciones territorial y urbanística, debiendo ejecutarse en los términos de éstas y con sujeción, además y, en todo caso, a las limitaciones impuestas por la legislación civil y la administrativa aplicable por razón de la materia.
+b) La realización de obras, edificaciones y construcciones y el desarrollo de usos y actividades que se legitimen expresamente en los términos dispuestos por esta Ley mediante calificación urbanística.
+2. En el suelo no urbanizable de protección los deberes de la propiedad comprenden, además de los generales, los siguientes:
+a) Los que establezcan la legislación sectorial y las ordenaciones territoriales y urbanísticas, en función de las condiciones que el planeamiento fije para realizar las intervenciones y los usos permitidos.
+b) Los que voluntariamente asuma el propietario para la realización de usos e intervenciones opcionales compatibles con el específico régimen de protección a que estén sometidos los terrenos.
+
+### Artículo 29
+
+Artículo 29. Régimen de las actuaciones en suelo no urbanizable de protección.
+1. En el suelo no urbanizable con algún tipo de protección sectorial, excepcionalmente, a través del procedimiento de calificación previsto en la presente ley, podrán autorizarse actuaciones específicas siempre que estén previstas en la legislación sectorial correspondiente y no estén prohibidas expresamente por el planeamiento regional territorial o urbanístico.
+2. Además, en el suelo no urbanizable de protección podrán realizarse e implantarse, con las características resultantes de su función propia y de su legislación específicamente reguladora, las obras e instalaciones y los usos requeridos por los equipamientos, infraestructuras y servicios públicos estatales, autonómicos o locales que precisen localizarse en terrenos con esta clasificación. El régimen de aplicación sobre estas actuaciones será el mismo que se regula en los artículos 25 y 163 de la presente ley.
+Igualmente se consideran como usos compatibles y autorizables los requeridos por las infraestructuras de distribución o transporte de energía y telecomunicaciones, y sus construcciones estrictamente necesarias para la prestación de servicios de utilidad pública o de interés general, con independencia de su titularidad pública o privada.
+3. En el suelo no urbanizable de protección según el artículo 16.1.b), y sin protección sectorial, previa comprobación de la calificación urbanística, en los términos que disponga el planeamiento urbanístico y, en su caso, el planeamiento territorial podrá legitimarse en los suelos rurales dedicados al uso agrícola, ganadero, forestal o cualquier otro vinculado a la utilización racional de los recursos naturales, por ser de interés público o social, por su contribución a la ordenación y el desarrollo rurales o porque hayan de emplazarse en el medio rural, las siguientes construcciones e instalaciones con los usos y actividades correspondientes:
+a) Las de carácter agrícola, ganadero, forestal, cinegético o análogos, así como las infraestructuras necesarias para el desarrollo y realización de las actividades correspondientes. Los usos agrícolas, ganaderos, forestales, cinegéticos o análogos, que deberán ser conformes en todo caso con su legislación específica, comprenderán las actividades, construcciones o instalaciones necesarias para las explotaciones de tal carácter, incluidas las de elaboración de productos del sector primario, así como el accesorio de vivienda.
+b) Las de carácter extractivo. El uso extractivo comprenderá las construcciones e instalaciones estrictamente indispensables para la investigación, obtención y primera transformación de los recursos minerales o hidrológicos. La superficie mínima de la finca soporte de la actividad será la funcionalmente indispensable.
+c) Las instalaciones destinadas al ejercicio de actividades científicas, docentes y divulgativas relacionadas con los espacios naturales, incluyendo el alojamiento si fuera preciso. En estos supuestos, la superficie mínima de la finca será la que funcionalmente sea indispensable.
+d) Las actividades que favorezcan el desarrollo rural sostenible, incluyendo las de comercialización de productos agropecuarios vinculados a la propia explotación, y los servicios complementarios de dichas actividades.
+e) Los establecimientos de turismo rural en edificaciones rurales tradicionales rehabilitadas al efecto, dentro de los límites superficiales y de capacidad que se determinen reglamentariamente.
+f) La rehabilitación para su conservación, incluso con destino residencial y hostelero, de edificios existentes aun cuando se encontrarán en situación de fuera de ordenación, pudiendo excepcionalmente incluir las obras de ampliación indispensables para el cumplimiento de las condiciones de habitabilidad.
+g) El tratamiento y valorización de residuos orgánicos, vegetales o de biomasa forestal.
+4. No requerirán de calificación urbanística, siempre que el uso no esté expresamente prohibido por el planeamiento o normativa sectorial de aplicación, las siguientes construcciones o instalaciones:
+a) La instalación de invernaderos temporales y desmontables.
+b) La instalación de casetas de aperos no habitables, de una superficie total no superior a 15 metros cuadrados por parcela.
+c) Los proyectos de riego.
+d) La plantación de cualquier especie agrícola o silvícola.
+e) La instalación de comederos abrevaderos desmontables y portátiles.
+f) Los cerramientos perimetrales de fincas o parcelas.
+g) La instalación de silos y heniles, desmontables y portátiles.
+h) La nivelación de terreno y despedregado.
+i) Los sondeos para captación de agua.
+j) La instalación de huertos.
+k) La mejora de caminos rurales y caminos nuevos.
+l) La colocación de señalización, paneles y mesas interpretativas.
+m) Las instalaciones ganaderas (mangas, embarcaderos, etc.) siempre que las mismas sean desmontables.
+n) La instalación de colmenas desmontables y portátiles.
+ñ) Las instalaciones públicas para tratamientos de residuos.
+o) Las instalaciones de básculas puente públicas.
+p) Los circuitos públicos biosaludables.
+q) La instalación pública de punto verde.
+r) Las instalaciones desmontables para la comercialización de los productos provenientes de la propia explotación de la finca, así como las actividades vinculadas a esta última.
+s) Aquellas otras que puedan señalarse mediante orden del titular de la consejería competente en materia de ordenación del territorio y urbanismo.
+5. Aquellas actuaciones que cuenten con calificación urbanística pero que sean susceptibles de ampliación podrán llevarla a cabo sin necesidad de un nuevo procedimiento de calificación urbanística, siempre que se trate del mismo uso o accesorio. Para ello, solicitarán o presentarán al ayuntamiento el título habilitante de naturaleza urbanística que se requiera para su lícito ejercicio.
+Las actuaciones a las que se refiere este precepto, en ningún caso podrán afectar a parcelas diferentes.
+Se modifica por el art. 2.8 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifica por el art. 5.3 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica el apartado 2 por el art. 10.2 de la Ley 7/2007, de 21 de diciembre. Ref. BOE-A-2008-4062.
+ Se modifica el apartado 3 y se añade el 4 por el art. 14 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+
+### Artículo 29 bis
+
+Artículo 29 bis. Régimen de ejecución de los actos previstos en el artículo 25.a) y en el 29.2.
+1. En caso de que el planeamiento urbanístico contenga la ordenación pormenorizada definitoria de las condiciones para la ejecución de los usos y construcciones o instalaciones precisas previstas en el artículo 25.a) y 29.2 de esta ley, la ejecución de estos actos podrá llevarse a cabo una vez aprobados los correspondientes proyectos de obras o servicios y, en su caso, una vez que cuenten con los correspondientes permisos y autorizaciones que prevea su legislación sectorial, siempre que otorguen a la empresa autorizada el derecho a realizar una instalación concreta en determinadas condiciones, debiendo en todo caso, contar con el correspondiente pronunciamiento exigido por la legislación ambiental.
+2. En caso de tratarse de infraestructuras de transporte y distribución energética y telecomunicaciones necesarias para la prestación de servicios de interés general, con independencia de su titularidad pública o privada, y cuando el planeamiento no contenga la concreta ordenación pormenorizada o la misma no se adecue al proyecto presentado, la autorización o permiso que la administración competente en función de la materia otorgue para la puesta en servicio de las nuevas instalaciones, legitimará la ejecución de los actos.
+3. En los supuestos previstos en los apartados anteriores será necesario contar con informe urbanístico municipal, en los términos establecidos en el artículo 160 g) de la ley. Dicho informe deberá ser emitido en el plazo de un mes desde que sea solicitado, entendiéndose en sentido positivo, caso de no ser evacuado en dicho plazo. El informe versará, únicamente sobre la coordinación de la implantación de la infraestructura de la que se trate.
+Se añade por el art. 2.9 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para su aplicación.
+
+## TÍTULO II
+
+Planeamiento urbanístico
+
+## CAPÍTULO I
+
+Determinaciones legales y reglamentarias
+
+### Artículo 30
+
+Artículo 30. Determinaciones legales.
+1. Se entienden por determinaciones legales de la ordenación urbanística, aquellas normas contenidas en la presente Ley, que establecen prescripciones sobre el uso del suelo o de las construcciones y son directamente aplicables exista o no planeamiento urbanístico, imponiéndose en su caso a las determinaciones de éste.
+2. Los actos de uso, urbanización, instalación, construcción y edificación del suelo deberán respetar, en todo caso, exista o no un instrumento de planeamiento urbanístico, las siguientes reglas:
+a) Ser conformes con el régimen urbanístico del suelo.
+b) Realizarse en, sobre o bajo una superficie que reúna las características de unidad apta para la edificación, parcela mínima o solar.
+c) No producir afecciones, perturbaciones o emisiones ilegítimas en otros inmuebles.
+d) Adaptarse al ambiente en que se sitúen o emplacen y armonizar con los bienes declarados de interés cultural y los inmuebles sujetos a algún régimen de protección arquitectónica que se encuentren en su entorno.
+e) No romper la armonía del paisaje urbano y rural tradicional, ni perturbar, ni desfigurar su contemplación desde los caminos, las carreteras y cualesquiera otras vías.
+f) Adecuarse y adaptarse a la perspectiva, las necesidades específicas y los intereses de los niños, con atención especial a aquellos que, por razón de discapacidad, vulnerabilidad social, pobreza o cualquier otra circunstancia personal o familiar desfavorable requieran medidas inclusivas, con el fin de conseguir un espacio urbano adecuado.
+3. Cuando excepcionalmente, en virtud de resolución judicial, no exista planeamiento urbanístico aplicable, únicamente podrán autorizarse las obras necesarias para el cumplimiento de los deberes de conservación y las obras de construcción o edificación que:
+a) En suelo no urbanizable de protección, apto para ello conforme a esta Ley, no tengan altura superior a dos plantas, medida en cada punto del suelo en su estado natural, sin perjuicio de las demás limitaciones aplicables.
+b) En suelo urbano, no tengan una altura superior a dos plantas.
+Se añade la letra f) al apartado 2 por la disposición final 7 de la Ley 4/2023, de 22 de marzo. Ref. BOE-A-2023-14347#df-7
+
+### Artículo 31
+
+Artículo 31. Determinaciones reglamentarias.
+1. El Gobierno de la Comunidad de Madrid, a iniciativa y propuesta del Consejero competente en materia de ordenación del territorio y urbanismo, podrá aprobar, mediante Decreto, normas reguladoras de aplicación sobre la totalidad de la Comunidad o sobre espacios territoriales inferiores a ésta, sobre las siguientes materias:
+a) Estándares mínimos de suelo para dotaciones públicas, para su modulación, precisión y actualización en función de las características de las actuaciones y de su localización.
+b) Obras y servicios mínimos de urbanización y sus características técnicas.
+c) criterios para el cálculo y cómputo de edificabilidad y aprovechamiento vinculados al cumplimiento de nuevos estándares de eficiencia energética.
+2. El Consejero competente en materia de ordenación del territorio y urbanismo, previo informe de la Comisión de Urbanismo de Madrid, podrá aprobar, mediante orden, Instrucciones técnicas sobre las siguientes materias:
+a) Objetivos y prioridades de los instrumentos de planeamiento urbanístico y cuestiones y problemas más comunes o recurrentes que en ellos deban abordarse y resolverse.
+b) Requisitos mínimos de calidad, sustantivos y formales, de los instrumentos de planeamiento urbanístico.
+c) Criterios para homogeneizar las zonas urbanísticas de ordenación pormenorizada, y en especial los conceptos de empleo más usual en el planeamiento urbanístico.
+d) Criterios de medición y cálculo de los parámetros urbanísticos del planeamiento urbanístico, en especial los relativos a edificabilidades y aprovechamientos.
+e) Normalización de la información urbanística y de la cartografía.
+f) Cualesquiera otras cuestiones precisadas de orientación técnica en materia de planeamiento y gestión urbanística.
+3. Las Instrucciones técnicas a que se refiere el número anterior:
+a) Podrán integrar las determinaciones propias de los instrumentos de planeamiento urbanístico cuando estos facultativamente remitan, total o parcialmente, a la normativa modelo establecida por ellas.
+b) Tendrán carácter vinculante para la Administración de la Comunidad de Madrid y las entidades locales existentes en la misma.
+c) En ningún caso, podrán condicionar el ejercicio de la potestad de planeamiento de los municipios ni el modelo urbanístico a adoptar por los mismos.
+Se modifica por el art. 2.10 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+
+### Artículo 32
+
+Artículo 32. Ordenanzas municipales.
+1. Todos los municipios deberán contar con Ordenanzas municipales de urbanización, instalaciones, edificación y construcción, cuya aprobación, publicación y entrada en vigor se producirá conforme a la legislación de régimen local. En la publicación deberá hacerse constar expresamente el cumplimiento previo de la comunicación prevista en el número siguiente.
+2. La puesta en conocimiento a la Comunidad de Madrid se hará mediante remisión a la Consejería competente en materia de ordenación urbanística, de certificación del acuerdo de aprobación y del texto íntegro de la correspondiente Ordenanza. Esta remisión se llevará a cabo con carácter previo a su publicación.
+3. Las Ordenanzas municipales de urbanización deberán regular todos los aspectos relativos al proyecto, ejecución material, recepción y mantenimiento de obras y servicios de urbanización, así como normas para el control de calidad de la ejecución. Podrán también incluir criterios morfológicos y estéticos que deban respetarse en los proyectos.
+4. Las Ordenanzas municipales de instalaciones, edificación y construcción regularán pormenorizadamente los aspectos morfológicos y estéticos, y cuantas otras condiciones no definitorias de la edificabilidad y destino del suelo, sean exigibles para la autorización de los actos de construcción, instalaciones y edificación, incluidas las actividades susceptibles de autorización en los inmuebles. En concreto:
+a) Deberán regular los aspectos relativos a la seguridad, funcionalidad, economía, armonía y equilibrio medioambientales, estética, ornato, calidad, conservación y utilización de los edificios y demás construcciones e instalaciones, así como los requisitos y las condiciones de los proyectos y de la dirección, ejecución y recepción de edificaciones y restantes construcciones e instalaciones, de conformidad con la legislación reguladora de la edificación.
+b) Podrán regular cuantos otros aspectos de la edificación y construcción no estén reservados por esta Ley al planeamiento urbanístico.
+
+## CAPÍTULO II
+
+Determinaciones de la ordenación urbanística
+
+### Artículo 33
+
+Artículo 33. Potestad de planeamiento.
+1. La potestad de planeamiento de la ordenación urbanística se ejercerá observando las siguientes reglas:
+a) Operar a la vista de información suficiente sobre la realidad existente y sobre una valoración razonable de la previsible evolución de ésta.
+b) Basarse en una ponderación de todos los intereses y las necesidades, públicos y privados, a la luz del orden constitucional y de los fines de la ordenación urbanística.
+c) Expresarse en opciones y decisiones suficientemente motivadas y adecuadamente proporcionadas respecto de los objetivos perseguidos.
+d) Diferenciar, en los términos de la presente Ley, las determinaciones estructurantes, correspondientes al planeamiento general, y las determinaciones pormenorizadas, correspondientes al planeamiento de desarrollo.
+e) Diferenciar, en su caso, y en los términos de la presente Ley, aquellas determinaciones estructurantes que puedan ser modificadas por planes especiales.
+2. Sólo es legítimo el tratamiento urbanístico diferenciado de superficies en principio susceptibles de trato homogéneo cuando:
+a) Sea conveniente para impedir una indebida o disfuncional concentración de usos y actividades.
+b) Proceda evitar la abusiva reiteración de soluciones técnicas.
+c) Sea pertinente para asegurar el cumplimiento de las determinaciones establecidas por la legislación ambiental.
+d) Derive de un cambio razonado de criterio u orientación en las políticas de ordenación territorial y urbanística.
+e) Resulte necesario para establecer en el medio urbano, actuaciones de rehabilitación, renovación o regeneración, o por motivos de la protección ambiental del suelo, o de la protección del patrimonio histórico-artístico o arquitectónico en cualquier clase de suelo.
+3. La satisfacción de situaciones jurídicas individualizadas existentes no compatibles con el interés general deberá tener lugar, en cualquiera de las formas admisibles en derecho, sin interferencia del normal desarrollo de las actividades propias de la ordenación urbanística, ni desviación objetiva de los fines que le son legalmente propios.
+Se modifica por el art. 5.4 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 34
+
+Artículo 34. Ordenación urbanística municipal e instrumentos de planeamiento.
+1. La ordenación urbanística municipal está constituida por el conjunto de determinaciones que, de acuerdo con la presente Ley, establezcan los instrumentos de planeamiento.
+2. Los instrumentos de planeamiento a que se refiere el número anterior, según su función y alcance en la integración de la ordenación urbanística municipal, se clasifican en dos grupos de Planes de Ordenación Urbanística:
+a) De planeamiento general, que comprende los siguientes instrumentos:
+1.º Planes Generales.
+2.º Planes de Sectorización.
+b) De planeamiento de desarrollo, que comprende los siguientes instrumentos:
+1.º Planes Parciales.
+2.º Planes Especiales.
+3.º Estudios de Detalle.
+4.º Catálogos de Bienes y Espacios Protegidos.
+3. Las determinaciones de la ordenación urbanística municipal a que se refiere el número 1 son estructurantes o pormenorizadas. Las determinaciones estructurantes son las establecidas y alteradas, con carácter general, por los instrumentos de planeamiento general y, en su caso, por los planes especiales. Las determinaciones pormenorizadas habrán de desarrollar, sin contradecirlas, las estructurantes que correspondan.
+Se modifica el apartado 3 por el art. 5.5 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 35
+
+Artículo 35. Determinaciones estructurantes y determinaciones pormenorizadas.
+1. Son determinaciones estructurantes de la ordenación urbanística aquellas mediante las cuales se define el modelo de ocupación, utilización y preservación del suelo objeto del planeamiento general, así como los elementos fundamentales de la estructura urbana y territorial y de su desarrollo futuro.
+Las determinaciones estructurantes deben ser compatibles con la normativa sectorial, los instrumentos de ordenación del territorio y el planeamiento de los Municipios limítrofes y, con carácter general, se establecen y alteran por los instrumentos de planeamiento general.
+No obstante, los planes especiales habilitados para ello en el artículo 50 podrán modificar aquellas determinaciones estructurantes o elementos de las mismas que se indican en el apartado 5 de este artículo, con las condiciones que se establecen en el mismo, incluyendo una justificación suficiente en relación con su objeto específico y en cualquier caso en congruencia con el resto de la ordenación estructurante.
+2. Sin perjuicio de una mayor concreción mediante desarrollos reglamentarios, son, en todo caso, determinaciones estructurantes de la ordenación urbanística:
+a) El señalamiento de la clasificación y, en su caso, categoría del suelo.
+b) La definición de los elementos estructurantes de los sistemas de redes públicas.
+c) La división del suelo en áreas homogéneas, ámbitos de actuación o sectores, con el señalamiento para cada uno de sus criterios y condiciones básicas de ordenación: Usos globales, áreas de reparto, coeficientes de edificabilidad y coeficientes de edificabilidad homogeneizada definidos en el artículo 39.2 y 3, y aprovechamientos unitarios definidos en el artículo 39.5, así como los coeficientes de homogeneización entre usos globales del área de reparto.
+d) El régimen de usos del suelo no urbanizable de protección.
+3. Son determinaciones pormenorizadas de la ordenación urbanística aquellas que tienen el grado de precisión suficiente para legitimar la realización de actos concretos de ejecución material. Las determinaciones pormenorizadas habrán de desarrollar, sin contradecirlas, las determinaciones estructurantes que correspondan.
+En suelo urbano consolidado y en suelo no urbanizable, las determinaciones de ordenación pormenorizada se establecen y alteran por el planeamiento general.
+Podrán también alterarse justificadamente y en las condiciones establecidas en esta ley por planes especiales.
+En suelo urbanizable y urbano no consolidado, las determinaciones de ordenación pormenorizada se establecen y alteran por el plan parcial sin perjuicio de que potestativamente puedan ser establecidas por el planeamiento general, en cuyo caso deberá cumplir los requisitos de contenido y tramitación exigidos para dicho planeamiento.
+En el caso de que el planeamiento general haya establecido directamente la ordenación pormenorizada, sin necesidad de tramitación de instrumento de desarrollo posterior, esta ordenación podrá ser alterada por modificación de plan general y además, en caso de que se den las condiciones establecidas en esta ley, por planes parciales o planes especiales, justificando su adecuación a los fines establecidos para esos planes y la congruencia con la ordenación estructurante del planeamiento general y territorial.
+4. Sin perjuicio de una mayor concreción mediante desarrollos reglamentarios, son, en todo caso, determinaciones pormenorizadas de la ordenación urbanística:
+a) La definición detallada de la conformación espacial de cada área homogénea, ámbito de actuación o sector y, especialmente en suelos urbanos y urbanizables, de alineaciones y rasantes.
+b) Las condiciones que regulan los actos sobre las parcelas y las que deben cumplir éstas para su ejecución material.
+c) La regulación del tipo de obras admisibles y las condiciones que deben cumplir las edificaciones, las construcciones en general, las instalaciones y las urbanizaciones.
+d) El régimen normativo de usos pormenorizados, los coeficientes de ponderación entre ellos, su proporción en relación al uso global, y las intervenciones admisibles y prohibidas, así como las condiciones que deben cumplir para ser autorizadas.
+e) La definición de los elementos de infraestructuras, equipamientos y servicios públicos que conforman las redes locales, completando las redes generales y supramunicipales, pero sin considerarse parte de ellas.
+f) La delimitación, cuando proceda, de unidades de ejecución y la asignación o modificación de los sistemas de ejecución y gestión urbanística.
+g) Las que no estén expresamente calificadas por el planeamiento general como determinaciones estructurantes de la ordenación urbanística.
+5. Sin perjuicio de una mayor concreción mediante desarrollos reglamentarios, las determinaciones estructurantes o elementos de las mismas que pueden ser alterados mediante planes especiales y con las siguientes condiciones y límites son las siguientes:
+a) El cambio del uso pormenorizado de una o varias parcelas lucrativas de suelo urbano consolidado siempre que la variación de aprovechamiento urbanístico por cambio de uso no varíe en más de 15 por 100.
+b) Los incrementos de edificabilidad de una o varias parcelas en suelo urbano consolidado, con un máximo de un 15 por 100 de incremento sobre la superficie edificable establecida en el plan general.
+c) En aquellos instrumentos de planeamiento general en los que la densidad o número de viviendas sea una determinación estructurante, la intensificación de usos en parcela o parcelas privadas de suelo urbano consolidado que incrementen la densidad de población o usuarios, con un máximo de un 15 por 100 sobre la densidad existente o prevista en el plan general.
+d) Aquellas determinaciones estructurantes o elementos de las mismas establecidos en el planeamiento que contradigan, no sean coherentes o impidan la adaptación del régimen de usos autorizables en el suelo no urbanizable de protección, no protegido por legislación sectorial, a la legislación del suelo y ambiental vigentes, siguiendo las directrices y con las limitaciones que se establezcan reglamentariamente en desarrollo de esta ley.
+e) El establecimiento de conformidad con el artículo 50.1.a) de cualquier elemento de las redes públicas, sin perjuicio de lo establecido en los artículos 26 y 29bis.
+f) La delimitación de área o áreas homogéneas, o su modificación, así como el establecimiento o modificación de todas sus determinaciones estructurantes y pormenorizadas de conformidad con el artículo 37.1 y relacionados.
+g) Aquellas otras que se determinen reglamentariamente.
+Se modifica por el art. 2.11 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifica por el art. 5.6 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 36
+
+Artículo 36. Redes públicas.
+1. Se entiende por red pública el conjunto de los elementos de las redes de infraestructuras, equipamientos y servicios públicos que se relacionan entre sí con la finalidad de dar un servicio integral. Los elementos de cada red, aun estando integrados de forma unitaria en la misma, son susceptibles de distinguirse jerárquicamente en tres niveles:
+a) Los que conforman la red supramunicipal, que son aquellos cuya función, uso, servicio y gestión se puede considerar predominantemente de carácter supramunicipal y, por tanto, propia de las políticas de la Administración General del Estado o de la Comunidad de Madrid.
+b) Los que conforman la red general, que son aquellos cuya función se limita al uso y servicio de los residentes en el municipio y gestión de su propio espacio, pero sin ser claramente adscribibles a ningún área homogénea, ámbito de actuación, sector o barrio urbano o rural concreto, ni tampoco al nivel supramunicipal.
+c) Los que conforman la red local, que son aquellos cuya función se puede limitar al uso, servicio y gestión predominante de los residentes en un área homogénea, ámbito de actuación, sector o barrio urbano o rural concreto.
+2. El conjunto de los elementos de la red pública son susceptibles de distinguirse, a efectos de la presente Ley, desde el punto de vista funcional en los siguientes sistemas de redes:
+a) Redes de infraestructuras, que comprenden, a su vez:
+1.º Red de comunicaciones, tales como viarias, ferroviarias, portuarias, aeroportuarias y telefónicas.
+2.º Red de infraestructuras sociales, tales como abastecimiento, saneamiento y depuración.
+3.º Red de infraestructuras energéticas, tales como eléctricas y gasísticas.
+b) Redes de equipamientos, que comprenden, a su vez:
+1.º Red de zonas verdes y espacios libres, tales como espacios protegidos regionales, parques municipales y urbanos, jardines y plazas.
+2.º Red de equipamientos sociales, tales como educativos, culturales, sanitarios, asistenciales, deportivos, recreativos, administrativos y demás usos de interés social.
+c) Redes de servicios, que comprenden, a su vez:
+1.º Red de servicios urbanos, tales como suministro de agua, alcantarillado, suministro de energía eléctrica, alumbrado público, servicio telefónico, acceso rodado y aparcamientos.
+2.o Red de viviendas públicas sujetas a un régimen de protección.
+2.º 1 Este uso podrá implantarse en suelos vacantes de la red de servicios o de la red de equipamientos prevista en el apartado 2.b) 2.º de este artículo, siempre que se cumplan las siguientes condiciones:
+a) Que la edificabilidad del uso a implantar sea inferior al 5 por 100 de la edificabilidad residencial establecida por el planeamiento para el ámbito o sector.
+b) Que al computarse la edificabilidad resultante como residencial a estos únicos efectos, se mantenga el cumplimiento de la dotación de redes públicas exigibles.
+c) Los requisitos previstos en el apartado a) y b) no serán exigibles en el supuesto de redes supramunicipales, así como en las generales cuando quede acreditado que no sean necesarias para el uso previsto por el planeamiento.
+2.º 2 Será de aplicación a este uso concreto la normativa urbanística de edificación aplicable al uso residencial que resulte más adecuado para la vivienda sujeta a un régimen de protección y que se encuentre definida en el ámbito superior de referencia. Sin perjuicio de la aplicación de la normativa específica sobre viviendas públicas sujetas a un régimen de protección.
+2.º 3 La implantación de este uso requerirá la aprobación de un Plan Especial únicamente cuando sea preciso definir parámetros específicos de ordenación o parcelación que hagan viable dicha implantación.
+3. La definición de las redes públicas implica señalar expresamente todos aquellos de sus elementos necesarios para asegurar el funcionamiento correcto y adecuado a las necesidades previstas de la red correspondiente. A tal efecto, se establecen las siguientes precisiones:
+a) Tendrán el carácter de determinaciones estructurantes todas aquellas que consistan en señalar las reservas y dimensiones de cualquier suelo que se prevea como elemento de una red pública supramunicipal o general.
+b) Asimismo, tendrán el mismo carácter de determinaciones estructurantes las que definan las condiciones básicas de ordenación de cada uno de tales elementos, si bien el desarrollo detallado de los mismos se concretará a través de determinaciones pormenorizadas.
+c) El señalamiento de los espacios destinados a elementos de las redes locales, así como de cualesquiera otros parámetros necesarios para su ordenación detallada, tendrán el carácter de determinaciones pormenorizadas. En cambio, serán determinaciones estructurantes las instrucciones normativas al planeamiento de desarrollo sobre la localización y características de elementos de nivel local que resulten necesarias para asegurar la funcionalidad de la red correspondiente.
+4. El sistema de redes supramunicipales solo podrá ser establecido por el planeamiento regional territorial o, en su defecto, por el planeamiento general, sin perjuicio de lo establecido en el artículo 50. En consecuencia, la definición de cualquier elemento de una red pública supramunicipal, localización, capacidad o cualesquiera otras características de los suelos que formen parte de las redes supramunicipales en un municipio serán las que resulten de las determinaciones establecidas por estos planeamientos en suelos urbanizables.
+5. El sistema de redes generales deberá definirse en la ordenación estructurante respecto al conjunto del municipio, de forma que cada una tenga las dimensiones y características suficientes para satisfacer adecuadamente las necesidades sociales actuales y potenciales. A tales efectos, y por referencia a la capacidad total máxima de los suelos urbanos no consolidados y urbanizables y respecto a un módulo de 100 metros cuadrados de superficie edificable de cualquier uso, excepto el industrial, deberán cederse 20 metros cuadrados por dicho concepto, cuyo destino será fijado por dichas necesidades.
+6. El sistema de redes locales de un municipio se dimensionará respecto a cada ámbito de actuación o sector y unidad de ejecución atendiendo a las necesidades de la población prevista y de complementariedad respecto a las respectivas redes generales y supramunicipales. El planeamiento urbanístico podrá imponer condiciones de agrupación a las dotaciones locales de forma que se mejoren sus condiciones funcionales, sin que ello redunde en ningún caso en reducción de los estándares fijados en este artículo. En todo caso, en cada ámbito de suelo urbano no consolidado o sector y/o unidad de ejecución de suelo urbanizable no destinados a uso industrial, se cumplirán las siguientes condiciones mínimas:
+a) La superficie total en el ámbito o sector y/o unidad de ejecución de elementos de las redes locales de equipamientos y/o infraestructuras y/o servicios será de 30 metros cuadrados por cada 100 metros cuadrados construidos.
+b) Del total de la reserva establecida por el planeamiento, resultante de cumplir el apartado anterior, al menos el 50 por 100 deberá destinarse a espacios libres públicos arbolados.
+c) En el caso de que el planeamiento no hubiera establecido una reserva mínima de plazas de aparcamiento, por cada 100 metros cuadrados edificables o fracción de cualquier uso deberá preverse, como mínimo, una plaza y media de aparcamiento, siempre en el interior de la parcela privada. La dotación mínima de plazas de aparcamiento deberá mantenerse, aunque se modifique el uso.
+d) Los estándares del apartado anterior sobre reservas de aparcamiento no serán de aplicación en los siguientes supuestos:
+1.º Cuando por razones de congestión y densidad de los centros urbanos, el instrumento de planeamiento general establezca límites máximos a las plazas de aparcamiento privado o público para comercios, espectáculos y oficinas.
+2.º Cuando, por las condiciones de accesibilidad o las dimensiones de las manzanas o parcelas existentes, las ordenanzas municipales eximan de la obligatoriedad de plaza de garaje en el propio edificio; en tal supuesto, los requerimientos de aparcamiento deberán suplirse en otro lugar.
+3.º En las viviendas de protección pública, será de una plaza de aparcamiento por vivienda.
+e) Las reservas previstas en la anterior letra b) no serán de aplicación cuando se trate de vivienda que cuente con zonas verdes o espacios libres privados arbolados al menos en la misma cuantía que la cesión a la que estaría obligada. En el caso de que no se alcanzara, se cederá hasta completarla. Las zonas verdes o espacios libres privados arbolados deberán calificarse expresamente por el planeamiento.
+7. Por orden motivada del consejero competente en materia de ordenación urbanística, dictada previo informe de la Administración responsable del servicio afectado y de la Comisión de Urbanismo de Madrid, podrán reducirse las dimensiones mínimas para las redes locales hasta alcanzar valores iguales o superiores al 80 por 100 de los estándares establecidos en este artículo, sobre sectores en los que concurra cualquiera de los supuestos siguientes:
+a) Que tengan como uso característico el turístico, recreativo y/o residencial estacional, tipología edificatoria aislada y bajas densidad y edificabilidad, además de presentar autonomía suficiente respecto de cualesquiera otros. En tal caso, para admitirse la reducción de la superficie de redes locales, deberán preverse servicios y dotaciones privadas especialmente significativas o concurrir condiciones medioambientales excepcionales.
+b) Que se corresponda con una actuación para el establecimiento de complejos industriales aislados, en cuyo caso se aplicarán las mismas condiciones que en el apartado anterior.
+c) Que, por sus características y sin merma de la coherencia de la ordenación, requiera redes viarias de grandes dimensiones; en tales casos, el exceso de superficie viaria respecto a las proporciones normales en otros ámbitos o sectores podrá ser compensado reduciendo los mínimos exigidos en la presente Ley para cualesquiera de las otras redes, siempre que los valores finales no resulten inferiores al 90 por 100 de los estándares correspondientes.
+8. Reglamentariamente podrán diferenciarse las dotaciones mínimas de suelo que, dentro de cada grupo de redes generales o locales hayan de destinarse a usos específicos, sean públicos o privados.
+Se modifica el apartado 6.d).3º por el art. 2.1 de la Ley 2/2026, de 11 de junio. Ref. BOE-A-2026-16360
+ Se modifica el apartado 2.c).2º y el apartado 6 por el art. 2.12 y 13 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifican los apartados 2.c).2º y 6.d) por el art. 1.1 y 2 de la Ley 3/2024, de 28 de junio. Ref. BOE-A-2024-15001#ap
+ Se modifica por el art. 5.7 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Redactado conforme a la corrección de errores publicada en el BOCM núm. 47, de 24 de febrero de 2023. Ref. BOCM-m-2023-90050
+ Se añade la letra f) al apartado 6 por la Ley 6/2013, de 23 de diciembre. Ref. BOE-A-2014-3254.
+ Téngase en cuenta la disposición transitoria 2 para la aplicación del apartado 6.
+ Se modifican los apartados 5 y 6 por el art. 17.1 de la Ley 6/2011, de 28 de diciembre. Ref. BOE-A-2012-2980.
+ Téngase en cuenta la disposición transitoria 3 para su aplicación.
+ Se modifica el punto 2 del apartado 2.b) por el art. 12.2 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+ Se añade la letra e) al apartado 6 por el art. 14.1 de la Ley 10/2009, de 23 de diciembre. Ref. BOE-A-2010-4183.
+ Se modifica la letra b) del apartado 5 por el art. 15.3 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 37
+
+Artículo 37. Determinaciones sobre la división del suelo.
+1. La totalidad del suelo urbano de un término municipal deberá dividirse en áreas homogéneas, siendo cada una de ellas la pieza de referencia respecto a la cual se señalan las condiciones de la ordenación estructurante. Las áreas homogéneas del suelo urbano deberán delimitarse atendiendo a criterios de homogeneidad tipológica y funcional en sí mismas y respecto al conjunto del núcleo urbano y el territorio municipal. Respetando tales criterios, se justificará que, en la medida de lo posible, cada área homogénea de suelo urbano coincida en la mayor parte de su extensión con barrios o unidades tradicionales de la ciudad consolidada, y que sus límites sean elementos estructurantes de la ordenación urbanística. Sobre estas divisiones de suelo se aplicarán las zonas urbanísticas de ordenación pormenorizada u Ordenanzas, establecidas en el artículo 40.
+Dentro de las áreas homogéneas se delimitarán los ámbitos de actuación en suelo urbano no consolidado que proceda, pudiendo constituir todo el área homogénea un único ámbito.
+En suelo urbano consolidado sólo se admitirá la delimitación de ámbitos de actuación en los que, al concurrir alguna de las circunstancias señaladas en la letra e) del número 6 del artículo 42 de la presente Ley, se prevea la necesidad de formular un instrumento urbanístico de desarrollo.
+2. Los sectores son los espacios del suelo urbanizable que han de ser objeto del desarrollo de la ordenación pormenorizada. La delimitación sectorial procederá en los siguientes suelos:
+a) Sobre la totalidad del suelo urbanizable sectorizado, con la excepción opcional de los suelos calificados como elementos de redes supramunicipales o municipales que podrán integrarse o no dentro de los sectores. En esta categoría primaria de suelo, los sectores deberán delimitarse de forma que tengan dimensiones y características adecuadas para ser espacios de desarrollo unitario de planeamiento y, en su caso, de gestión. Junto a tal exigencia, la sectorización se efectuará siempre del modo más idóneo para articular la utilización urbanística del territorio, considerando especialmente los trazados de los elementos de las redes públicas estructurantes.
+b) En suelo urbanizable no sectorizado sólo podrá delimitarse cada sector en el momento de una iniciativa de transformación urbanizadora y a través del correspondiente Plan de Sectorización. Cada uno de tales sectores cumplirá las mismas condiciones que se señalan en la letra anterior.
+3. Las áreas homogéneas, los ámbitos de actuación y los sectores son tanto delimitaciones de suelo respecto de los que se señalan las condiciones de la ordenación estructurante, como espacios de referencia para el desarrollo de la ordenación pormenorizada. Las áreas homogéneas, los ámbitos y los sectores podrán ser continuos o discontinuos.
+4. La división del suelo en áreas homogéneas, ámbitos y sectores se complementará obligatoriamente con las siguientes determinaciones estructurantes de la ordenación urbanística:
+a) Señalando, respecto a cada una de las áreas homogéneas, ámbitos y sectores, el uso global y el coeficiente de edificabilidad o aprovechamiento unitario que corresponda, de acuerdo con lo dispuesto en los artículos 38 y 39 de la presente Ley.
+b) Estableciendo los criterios y objetivos que procedan respecto a la ordenación urbanística interior del área homogénea, del ámbito o del sector que habrán de ser respetados y concretados por el planeamiento de desarrollo.
+c) Regulando las condiciones que fueran pertinentes sobre la sectorización de los suelos urbanizables no sectorizados, cuyo cumplimiento habrá de justificar el correspondiente Plan de Sectorización.
+5. Reglamentariamente podrán establecerse condiciones específicas que habrán de ser cumplidas por el planeamiento urbanístico al establecer la división del suelo en áreas homogéneas, ámbitos y sectores.
+
+### Artículo 38
+
+Artículo 38. Determinaciones sobre los usos del suelo.
+1. Se entiende por uso global de un suelo el destino funcional que el planeamiento urbanístico le atribuye en relación al conjunto del término municipal. Sobre cada área homogénea, ámbito de suelo urbano y sector de suelo urbanizable deberá establecerse, con el carácter de determinación estructurante de la ordenación urbanística, el uso global, de forma que se caracterice sintéticamente el destino conjunto del correspondiente suelo. El porcentaje de uso global podrá ser modificado como determinación pormenorizada, siempre con el límite de no desvirtuar su condición de uso global.
+2. Se establecen las siguientes reservas mínimas de viviendas sujetas a algún régimen de protección pública:
+a) En suelo urbanizable sectorizado y no sectorizado como mínimo el 30 por 100 de la edificabilidad residencial deberá destinarse a viviendas sujetas a algún régimen de protección pública. Los planes generales podrán motivadamente modificar estos porcentajes, manteniendo el porcentaje global y el principio de cohesión social.
+b) En suelo urbano no consolidado, como mínimo el 10 por 100 de la edificabilidad residencial que deba someterse a actuaciones de reforma o renovación de la urbanización. Se podrán excepcionar de forma potestativa de su aplicación los instrumentos de ordenación de cualquier municipio que tengan por objeto actuaciones de reforma o mejora renovación de la urbanización existente en las que el uso residencial no alcance las 200 viviendas en total, siempre que se acuerde por el Pleno municipal.
+3. La ordenación pormenorizada de los usos en cada delimitación de suelo en que se haya dividido el término municipal comprende dos grupos de determinaciones:
+a) La regulación de las condiciones de admisibilidad de cada uno de los distintos usos pormenorizados en la delimitación de suelo correspondiente.
+b) El establecimiento para cada ámbito de suelo urbano no consolidado o sector en suelo urbanizable de los coeficientes que fijen las relaciones de ponderación u homogeneización entre todos los usos pormenorizados atendiendo a los objetivos urbanísticos perseguidos.
+4. La determinación estructurante del uso global de un ámbito de suelo urbano no consolidado o de un sector en suelo urbanizable, carece en sí misma de efectos operativos directos ya que para alcanzarlos requiere el desarrollo de los dos grupos de determinaciones de ordenación pormenorizada a que se refiere el número anterior. Por ello, si motivadamente el planeamiento general advierte el riesgo de que las determinaciones de ordenación pormenorizada puedan desvirtuar el uso global de algún área homogénea, ámbito o sector, establecerá, con el carácter de determinaciones estructurantes, condiciones específicas a aquellas, tales como la prohibición de usos concretos o parámetros cualitativos o cuantitativos para la admisibilidad de otros.
+5. Además de lo señalado en el número anterior, en el desarrollo de las determinaciones pormenorizadas de la ordenación urbanística sobre los usos, se justificará expresamente el cumplimiento de las siguientes condiciones:
+a) Que todos los usos admisibles resultan compatibles entre sí y, en especial, con los usos pormenorizados propios del uso global.
+b) Que la asignación de los valores relativos de los coeficientes de ponderación u homogeneización no incentive transformaciones o localizaciones de usos que en la práctica supongan un cambio del uso global del ámbito de actuación o del sector.
+6. Reglamentariamente podrán establecerse condiciones específicas que habrán de ser cumplidas por el planeamiento urbanístico al establecer determinaciones estructurantes o pormenorizadas en relación a los usos.
+Se modifica por el art. 5.8 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica el apartado 2 por el art. 17.2 de la Ley 6/2011, de 28 de diciembre. Ref. BOE-A-2012-2980.
+ Téngase en cuenta la disposición transitoria 3 para su aplicación.
+
+### Artículo 39
+
+Artículo 39. Determinaciones sobre las edificabilidades y los aprovechamientos urbanísticos.
+1. La determinación estructurante mediante la cual se establece el coeficiente de edificabilidad de cada área homogénea de suelo urbano consolidado consiste en señalar un valor numérico con la finalidad de definir la intensidad edificatoria.
+2. Sin perjuicio de una mayor concreción mediante desarrollo reglamentario, para su obtención se respetará el siguiente procedimiento:
+a) Se calculará la superficie edificada de cada solar o parcela, expresada en metros cuadrados construidos. La superficie edificada real del área homogénea será la suma de todas las superficies edificadas de todos los solares o parcelas existentes en el interior del área homogénea.
+El coeficiente de edificabilidad real del área homogénea será el cociente de la superficie edificada real entre la superficie de suelo de toda el área, expresado en metros cuadrados construidos por metro cuadrado de suelo.
+b) Al establecer la zona o zonas urbanísticas de ordenación pormenorizada, el planeamiento general calculará, sobre la superficie de suelo del área homogénea, la nueva superficie edificable, derivada de las condiciones de intensidad edificatoria establecidas por el planeamiento, a fin de compararla con la superficie edificada real y justificar, en su caso, las estrategias propuestas contemplando un escenario de evolución previsible del área homogénea con hipótesis razonables sobre la dinámica inmobiliaria.
+El coeficiente de edificabilidad homogeneizada del área homogénea, será el cociente de la nueva superficie edificable entre la superficie de suelo de toda el área, expresado en metros cuadrados construibles del uso global por metro cuadrado de suelo.
+3. La determinación estructurante mediante la cual se establece el coeficiente de edificabilidad de cada ámbito de suelo urbano no consolidado, consiste en señalar un valor numérico con la doble finalidad de definir la intensidad edificatoria y la distribución equitativa de beneficios y cargas.
+4. Sin perjuicio de una mayor concreción mediante desarrollo reglamentario, para su obtención se respetará el siguiente procedimiento:
+a) El coeficiente de edificabilidad de cada uno de los ámbitos de suelo urbano no consolidado será igual al coeficiente de edificabilidad homogenizada del área homogénea en que se encuentre, según se establece en el apartado 2.b) de este artículo, expresado en metros cuadrados construibles en el uso global por metro cuadrado de suelo.
+La superficie edificable de cada ámbito será la resultante de multiplicar el coeficiente de edificabilidad por la superficie de suelo de todo el ámbito, expresado en metros cuadrados construibles en el uso global.
+b) En el supuesto que el ámbito sea toda el área homogénea, la determinación del coeficiente de edificabilidad vendrá establecida discrecionalmente por el planeamiento general en función de las estrategias propuestas y por comparación con los coeficientes de edificabilidad de las áreas homogéneas colindantes, si las hubiera.
+c) El planeamiento que establezca la ordenación pormenorizada de los ámbitos señalará los coeficientes que, de conformidad con las estrategias propuestas, fijen las relaciones de ponderación entre todos los usos pormenorizados que se consideren, al objeto de definir la superficie edificable de cada uso pormenorizado.
+La superficie edificable de cada ámbito será la suma de las superficies edificables homogeneizadas de todos los usos pormenorizados.
+5. La determinación estructurante mediante la cual se establece el aprovechamiento unitario de cada sector de suelo urbanizable, consiste en señalar un valor numérico, que será fijado discrecionalmente por el instrumento de planeamiento general correspondiente, con la doble finalidad de definir la intensidad edificatoria y la distribución equitativa de beneficios y cargas.
+6. Al establecer la ordenación pormenorizada de un sector, el instrumento de planeamiento competente justificará que las condiciones establecidas de intensidad edificatoria y usos pormenorizados son compatibles con el aprovechamiento unitario.
+7. Sin perjuicio de una mayor concreción mediante desarrollo reglamentario, tal justificación se realizará mediante el siguiente procedimiento:
+a) Sobre cada zona urbanística de ordenación pormenorizada incluida en el sector se calculará la superficie edificable para cada uso pormenorizado según las condiciones del planeamiento.
+b) Se homogeneizará cada superficie edificable multiplicándola por el coeficiente de ponderación del uso pormenorizado a que se destina con relación al uso característico del sector. La suma de todas las superficies edificables homogeneizadas será la superficie edificable de cada zona urbanística de ordenación pormenorizada, expresada en metros cuadrados construibles en el uso característico.
+c) El coeficiente de edificabilidad del sector será el cociente de la suma de las superficies edificables de todas las zonas urbanísticas de ordenación pormenorizada incluidas en el sector entre la superficie de suelo del sector y de las redes públicas a él adscritas. El coeficiente de edificabilidad del sector deberá ser igual o inferior al aprovechamiento unitario del mismo.
+El aprovechamiento urbanístico total del sector será el resultante de multiplicar el coeficiente de edificabilidad por la superficie de suelo del sector y de las redes públicas a él adscritas.
+Se modifica por el art. 2.14 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se suprime el apartado 8 por el art. único de la Ley 4/2015, de 18 de diciembre. Ref. BOE-A-2016-2665.
+ Se añade el apartado 8 por el art. 13 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+
+### Artículo 40
+
+Artículo 40. Determinaciones sobre las zonas urbanísticas de ordenación pormenorizada.
+1. Se entiende por zona urbanística de ordenación pormenorizada, o simplemente zona, el recinto espacial, en cualquier clase de suelo, caracterizado porque sobre todas las parcelas, unidades mínimas de ejecución o unidades aptas para la edificación que puedan existir en su interior sean de aplicación, en un número suficientemente significativo de ellas, las mismas condiciones de ordenación pormenorizada.
+La delimitación de zonas o zonificación implica definir recintos de suelo con ordenación pormenorizada para los cuales es de aplicación un mismo régimen normativo, en especial en lo relativo a las condiciones sobre las parcelas, la edificación y los usos e intervenciones admisibles.
+2. Los instrumentos de planeamiento competentes para establecer la ordenación pormenorizada de un ámbito territorial, independientemente de su clasificación de suelo, podrán dividirlo en zonas como método práctico de sistematizar los principales parámetros normativos. En tales casos, en las normas urbanísticas del correspondiente instrumento, se destinará un apartado a la especificación de las condiciones de ordenación que caracterizan a cada una de las zonas empleadas.
+3. Asimismo, en los casos en que el planeamiento haya cubierto toda la ordenación pormenorizada de un área homogénea, ámbito o sector mediante la asignación de zonas, de forma que a cada una le corresponda un modelo tipológico de la edificación y un uso pormenorizado característico, podrá establecer las relaciones de ponderación a que se refiere la letra b) del número 3 del artículo 38 de la presente Ley, entre las distintas zonas, o bien entre éstas y cada uno de los posibles usos pormenorizados.
+4. En todo caso, reglamentariamente podrán regularse los parámetros normativos de ordenación pormenorizada que definen cada una de las zonas de mayor uso en la práctica del planeamiento.
+
+## CAPÍTULO III
+
+Planeamiento Urbanístico General
+
+## Sección 1
+
+Sección 1.ª Planes generales
+
+### Artículo 41
+
+Artículo 41. Función.
+1. Los Planes Generales son los instrumentos básicos para formular las políticas urbanísticas municipales de conformidad con el planeamiento territorial. Abarcarán términos municipales completos.
+2. Los Planes Generales tienen por objeto:
+a) La clasificación del suelo.
+b) Establecer las determinaciones de ordenación estructurante sobre la totalidad del suelo del Municipio, salvo aquellas que corresponden a los Planes de Sectorización en suelo urbanizable no sectorizado.
+c) Establecer las determinaciones de ordenación pormenorizada que, según cada clase de suelo, se señalan en el artículo siguiente.
+3. Para cumplir su función y objeto, el Plan General habrá de:
+a) Fijar los objetivos y estrategias globales para el desarrollo sostenible del territorio municipal, de conformidad con el planeamiento de ordenación territorial y de forma concertada con el planeamiento general de los municipios colindantes.
+b) Preservar los suelos no urbanizables de protección de su posible transformación mediante la urbanización y de su deterioro o degradación en cualquier otra forma.
+c) Articular la ordenación urbanística necesaria y previsible en los espacios susceptibles de desarrollo urbanístico, indicando el esquema global de usos del suelo y de las redes públicas.
+d) Precisar los ámbitos territoriales y las determinaciones concretas de ordenación pormenorizada cuya definición debe ser establecida por instrumentos de planeamiento de desarrollo, estableciendo, en su caso, las instrucciones pertinentes que deben respetarse en su formulación.
+e) Ordenar los espacios urbanos teniendo en cuenta la complejidad de usos y actividades que caracteriza la ciudad y la estructura histórica y social de su patrimonio urbanístico, y prever las intervenciones de reforma, renovación o rehabilitación que precise el tejido urbano existente.
+f) Organizar y programar la gestión de su ejecución.
+
+### Artículo 42
+
+Artículo 42. Contenido sustantivo.
+1. El Plan General establecerá sobre la totalidad del término municipal todas las determinaciones estructurantes de la ordenación urbanística que se enumeran y regulan en el capítulo II de este Título, para lo cual cumplirán las siguientes precisiones:
+a) La totalidad del suelo municipal estará adscrito a todas o algunas de las clases y categorías de suelo, incluyendo los espacios que califique como elementos integrantes de cualquier red pública de infraestructuras, equipamientos o servicios públicos.
+b) Habrá de justificarse expresamente, para cada una de las redes públicas, la suficiencia y funcionalidad de los elementos que se califican como integrantes de la misma. Tal justificación se hará en relación con la densidad global máxima o techo de capacidad de carga sostenible del territorio en función del conjunto de los usos previstos y previsibles. Para ello:
+1.º No se podrán contabilizar los elementos básicos supramunicipales situados en el municipio a efectos de cubrir las necesidades de servicio de la red correspondiente, salvo en las proporciones en que expresamente sea establecido por el planeamiento territorial que define dicho elemento.
+2.º Deberá justificarse, en función de la dinámica y caracterización del municipio, la distinción entre los elementos de redes generales y de redes locales. Los elementos de carácter general serán los suficientes para satisfacer las necesidades a escala municipal y en ningún caso tendrán superficies inferiores a las resultantes de aplicar los estándares señalados en el número 5 del artículo 36 de la presente Ley.
+c) Deberá justificar expresamente la idoneidad de las divisiones en áreas homogéneas, ámbitos de actuación y sectores resultantes tanto en los suelos urbanos como en los urbanizables sectorizados. El suelo no urbanizable de protección estará dividido en los espacios que, en función de sus características y requerimientos específicos, resulten necesarios a efectos del establecimiento de condiciones diferenciadas de ordenación.
+En ambos casos, se delimitarán específicamente aquellos que hayan de ser el ámbito de un Plan Especial a fin de completar la ordenación urbanística pormenorizada.
+2. En el suelo no urbanizable de protección el Plan General establecerá, en principio, todas las determinaciones pormenorizadas de la ordenación urbanística necesarias para garantizar su desarrollo equilibrado, integral y sostenible conforme a las características del espacio rural y para preservar los valores que justifican su protección. En especial, al establecer las determinaciones señaladas en la letra d) del número 4 del artículo 35 de la presente Ley respecto a los usos e intervenciones admisibles, se fijarán las medidas y condiciones de los diversos grados de actividad e intensidad, tanto normales como excepcionales, en función de las capacidades de acogida de cada parte del territorio. En todo caso, en aquellos ámbitos territoriales que por su complejidad o la concurrencia de circunstancias singulares así lo requieran, el Plan General podrá remitir el establecimiento de algunas determinaciones pormenorizadas a un Plan Especial, señalando los criterios y objetivos que deben observarse en su formulación.
+3. Tanto en los suelos clasificados como suelo no urbanizable de protección como suelo urbanizable no sectorizado, el Plan General enumerará las actuaciones que, siendo admisibles de acuerdo al régimen normativo general, hayan de autorizarse mediante calificación urbanística, estableciendo, en su caso, las condiciones complementarias que deben observarse en la tramitación de aquéllas. Asimismo, el Plan General contendrá análogas determinaciones respecto a las actuaciones que requieran para su autorización proyecto de actuación especial. En todo caso, la regulación específica del Plan General se atendrá a lo dispuesto en los artículos 26 y 27 de la presente Ley.
+4. En el suelo urbanizable no sectorizado, el Plan General contendrá las siguientes determinaciones:
+a) En lo que se refiere a la calificación de suelos como elementos integrantes de redes públicas, sólo podrán delimitarse expresamente aquellos que vengan definidos por el planeamiento territorial con carácter supramunicipal. Sin embargo, también con el carácter de determinaciones estructurantes, el Plan General podrá establecer, para el conjunto del suelo urbanizable no sectorizado o por áreas diferenciadas en que se divida éste, criterios en cuanto a la disposición de los elementos de las redes supramunicipales de infraestructuras, equipamientos o servicios públicos, así como estándares dimensionales de éstas que, en ningún caso, podrán ser inferiores a las que dispuestas en el número 5 del artículo 36 de la presente Ley.
+b) Las condiciones que fueran pertinentes para delimitar sectores a través del correspondiente Plan de Sectorización. Tales condiciones, que tendrán el carácter de determinaciones estructurantes, podrán ser generales para todo el suelo urbanizable no sectorizado o diferenciadas para cada una de las zonas urbanísticas de ordenación pormenorizada en que, a estos u otros efectos, el Plan General lo haya dividido, y tendrán por finalidad, especialmente, asegurar la adecuada inserción de un nuevo sector urbanizable en la estructura de la ordenación urbanística municipal.
+c) En cualquier caso, el Plan General establecerá en esta categoría de suelo la totalidad de las determinaciones de ordenación pormenorizada, en idénticos términos que en el suelo no urbanizable de protección, a fin de asegurar la eficacia del ejercicio de las facultades urbanísticas en tanto no se promuevan iniciativas de sectorización de los terrenos.
+5. En el suelo urbanizable sectorizado, el Plan General contendrá las siguientes determinaciones:
+a) Delimitación del área de reparto de cargas y beneficios.
+b) División en uno o varios sectores, de forma que todos los terrenos correspondientes a esta categoría urbanística pertenezcan a alguno de ellos. Respecto de los elementos integrantes de las redes públicas generales de infraestructuras, equipamientos y servicios, el Plan General deberá optar entre integrarlos como parte de un sector o considerarlos no pertenecientes a ninguno, resultando, en cada caso, los efectos diferenciados de ordenación y gestión que se contemplan en la presente Ley. El Plan General habrá de justificar expresamente la idoneidad de la delimitación de cada uno de los sectores, de acuerdo a lo establecido en el artículo 37 de la presente Ley.
+c) Señalamiento para cada sector, con el carácter de determinaciones estructurantes, del uso global y el aprovechamiento unitario. Asimismo, y con carácter igualmente estructurante, para cada sector en el que exista uso residencial, se deberá señalar el porcentaje de viviendas sujetas a protección pública. Todo ello de conformidad con lo dispuesto en los artículos 38 y 39.
+d) Salvo cuando se establezca directamente la ordenación pormenorizada, podrán establecerse, también con el carácter de determinaciones estructurantes, condiciones específicas respecto a la regulación de los usos o de la edificación, así como criterios y objetivos para la formulación del correspondiente Plan Parcial.
+e) Definición para cada sector de los coeficientes en que se fijen las relaciones de ponderación u homogeneización entre todos los usos pormenorizados posibles en el mismo. El Plan General deberá justificar expresamente las variaciones de coeficientes entre sectores distintos.
+f) Cuando así proceda, se indicará el orden de prioridad y las condiciones temporales que deben observarse para la incorporación de cada sector al tejido urbano. Asimismo, en su caso, se señalarán los elementos de redes públicas generales que deben estar concluidos y en funcionamiento previamente al desarrollo de cada sector y cuya cesión y ejecución habrán de ser consideradas obligaciones inherentes al mismo.
+g) Cuando convenga a los objetivos urbanísticos, el Plan General establecerá la completa ordenación pormenorizada de uno o varios de los sectores que delimite. En tales casos, deberá cumplir los requisitos de contenido exigidos para los Planes Parciales, sin que sea necesario formular este instrumento de planeamiento.
+6. La totalidad del suelo urbano deberá ser dividida por el Plan General en áreas homogéneas, y ámbitos de actuación de acuerdo a lo establecido en el artículo 37 de la presente Ley. Dentro de cada área y ámbito, con base en los objetivos y criterios urbanísticos y por aplicación del artículo 14 de la presente Ley, el Plan General habrá de adscribir la totalidad de los terrenos a las categorías primarias de suelo urbano consolidado o suelo urbano no consolidado. Hecho esto, sobre cada área homogénea y ámbito se establecerán las siguientes determinaciones:
+a) El señalamiento, con el carácter de determinación estructurante, del uso global y el coeficiente de edificabilidad, en cumplimiento de lo dispuesto, respectivamente, en los artículos 38 y 39 de la presente Ley.
+b) Definición de los coeficientes en que se fijen las relaciones de ponderación u homogeneización entre todos los usos pormenorizados. El Plan General deberá justificar expresamente las variaciones de coeficientes entre áreas distintas.
+c) La delimitación de todos aquellos elementos que sean necesarios para completar las redes públicas en la escala local. El Plan General habrá de justificar, con base en las limitaciones de la realidad urbanística existente en cada área que se aproxima lo más posible a los estándares establecidos en el número 6 del artículo 36 de la presente ley.
+En las áreas homogéneas en que no se alcancen los estándares citados podrán establecerse determinaciones de ordenación que supongan aumentos de edificabilidad, respecto a las condiciones existentes previas al Plan, en las actuaciones de dotación, en las actuaciones de reforma o renovación de la urbanización y en las actuaciones de rehabilitación concertada reguladas en los artículos 19 bis, 20 bis y 131 y siguientes de la presente ley.
+En las actuaciones de dotación y en las actuaciones de rehabilitación concertada, cuando el área homogénea no cumpla con los estándares del 36.6, deberá garantizarse un incremento mínimo de superficie de redes locales en el ámbito de la actuación, excluida la red viaria, de 15 metros cuadrados de suelo por cada 100 metros cuadrados aplicado sobre el incremento de edificabilidad, pudiendo sustituirse en ambos supuestos esta cesión por su equivalente económico conforme a las reglas recogidas en el artículo 19 bis de la presente ley.
+En las actuaciones de reforma o renovación de la urbanización se aplicarán las condiciones reguladas en el artículo 20 bis.
+d) La delimitación de los núcleos o áreas históricas tradicionales o características, sobre las que deba establecerse una normativa que excluya la sustitución o alteración indiscriminadas de la edificación y los usos e imponga que las nuevas edificaciones y usos armonicen con la tipología histórica o existente.
+e) La totalidad de las determinaciones de ordenación pormenorizada necesarias para legitimar la ejecución de los actos e intervenciones, incluyendo, al menos, las enumeradas en el número 4 del artículo 35 de la presente Ley. No obstante, se admitirá que el Plan General no establezca la completa ordenación pormenorizada sobre los siguientes ámbitos de suelo urbano:
+1.º Aquellos conjuntos históricos o tradicionales sobre los que convenga formular un Plan Especial a fin de detallar la ordenación pormenorizada en aras a su protección patrimonial y recuperación funcional.
+2.º Piezas concretas de suelo urbano consolidado, sean manzanas o incluso solares individuales, sobre las que se propone una ordenación singular, de forma que, previamente a autorizar actos de ejecución en las mismas, sea necesario formular algún instrumento urbanístico de desarrollo al que se remite la fijación de alguna o varias de las determinaciones de ordenación pormenorizada.
+3.º Elementos calificados como integrantes de redes públicas supramunicipales o generales que, por tener notable dimensión y especial complejidad, requieran ser ordenados pormenorizadamente a través del Plan Especial correspondiente.
+f) Cuando el Plan General no establezca la completa ordenación pormenorizada de un ámbito de suelo urbano, vendrá obligado a señalar sobre el mismo las siguientes determinaciones:
+1.º La delimitación del ámbito o ámbitos en que se divide, entendiendo cada uno de éstos como el ámbito objeto del correspondiente instrumento de planeamiento de desarrollo. Sobre cada uno de estos ámbitos será de aplicación el coeficiente de edificabilidad y el uso global correspondiente al área homogénea en que se localice, así como sus coeficientes de ponderación.
+2.º Optativamente, condiciones específicas respecto a la regulación de los usos o de la edificación, así como criterios y objetivos para la formulación del correspondiente instrumento de desarrollo; a tales efectos, podrán establecerse intervalos de edificabilidades, así como la prohibición de usos concretos o parámetros cuantitativos para la admisibilidad de otros.
+3.º Cuando así proceda, se indicará el orden de prioridad y las condiciones temporales que deben observarse para la incorporación de cada sector al tejido urbano.
+4.º Con carácter opcional, la delimitación de unidades de ejecución y el señalamiento del sistema de ejecución que proceda.
+7. Además de las ya señaladas con carácter general y para cada clase de suelo, el Plan General deberá contener, cuando proceda, las siguientes determinaciones complementarias:
+a) El tratamiento, conforme a su legislación reguladora, de los bienes de dominio público no municipal, así como de los espacios naturales protegidos comprendidos total o parcialmente en el territorio ordenado, respetando el régimen que para los mismos se haya establecido en sus respectivas declaraciones.
+b) La ordenación precisa de los centros cívicos y los establecimientos comerciales, terciarios y de espectáculos que, por sus características o por las actividades a que se destinen, tengan un impacto específico en el tejido urbano, sean susceptibles de generar tráfico, generen demandas especiales de aparcamiento o creen riesgos para la seguridad pública, así como de los establecimientos e instalaciones que, por razón de las sustancias que almacenen, manipulen o procesen, comporten riesgo de accidentes mayores.
+c) La catalogación de bienes inmuebles y el establecimiento de las medidas pertinentes de protección, de conformidad con la política de conservación del patrimonio cultural y arquitectónico.
+d) La delimitación de reservas de terrenos de posible adquisición para la constitución o ampliación de patrimonios públicos de suelo.
+e) La organización de la gestión y la ejecución de la ordenación estructurante, precisando, como mínimo:
+1.º Los requisitos objetivos de preceptivo cumplimiento para la realización e incorporación al tejido urbano de nuevas actuaciones urbanizadoras.
+2.º Las condiciones que deba satisfacer toda actuación urbanizadora.
+3.º El orden de prioridades a observar en el desarrollo urbano.
+Se modifica la letra c) del apartado 6 por el art. 2.15 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifica el apartado 6 por el art. 5.9 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se invierte el contenido de las letras a y b) del apartado 5 por el art. 15.4 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 43
+
+Artículo 43. Documentación.
+Los Planes Generales formalizarán su contenido en los documentos necesarios para alcanzar la máxima operatividad de sus determinaciones y en función de la complejidad urbanística del territorio. En todo caso, entre los documentos necesarios se contarán, al menos, los siguientes:
+a) Memoria: En la que deberá recogerse toda la información relevante para la adopción del modelo definido, exponerse el proceso seguido para la selección de alternativas y la toma de decisiones y justificarse la ordenación establecida, especialmente a la luz de su evaluación ambiental, que se unirá como anexo.
+b) Estudio de viabilidad: En el que se justificará la sostenibilidad del modelo de utilización del territorio y desarrollo urbano adoptado, así como su viabilidad en función de las capacidades de iniciativa y gestión y las posibilidades económicas y financieras, públicas y privadas, en el término municipal.
+c) Informe de análisis ambiental.
+d) Planos conteniendo los recintos de la ordenación estructurante y de la ordenación pormenorizada, en su caso, así como los derivados de la legislación ambiental.
+e) Normas urbanísticas, diferenciando las que correspondan a la ordenación pormenorizada que, en su caso, se establezca.
+f) Catálogo de bienes y espacios protegidos. El Catálogo identificará los terrenos; los edificios, las construcciones y los conjuntos de unos y otras; los jardines y los restantes espacios ya sujetos a protección en virtud de la legislación reguladora del patrimonio histórico y artístico y los merecedores de protección en atención a sus valores y por razón urbanística, e incorporará, por remisión, el régimen de protección a que estén sujetos los primeros y establecerá el aplicable a los segundos para su preservación.
+
+## Sección 2
+
+Sección 2.ª Planes de sectorización
+
+### Artículo 44
+
+Artículo 44. Función.
+1. Los Planes de Sectorización son los instrumentos mediante los cuales se establecen las determinaciones estructurantes de la ordenación urbanística, necesarias para valorar la procedencia de acometer la transformación urbanizadora de terrenos clasificados como suelo urbanizable no sectorizado.
+2. Los Planes de Sectorización completan la ordenación estructurante del correspondiente Plan General sobre el ámbito de suelo urbanizable no sectorizado que es objeto de una iniciativa de transformación.
+Para cumplir su función y objeto, todo Plan de Sectorización deberá:
+a) Ser coherente, en todas sus determinaciones, con las estrategias globales regionales y municipales para el desarrollo sostenible del territorio.
+b) Resolver la adecuada integración de la nueva propuesta urbanística en la estructura de ordenación municipal definida por el correspondiente Plan General.
+c) Vincular sus determinaciones propias de carácter estructurante a las pormenorizadas propias del Plan Parcial y de los instrumentos de gestión necesarios para la ejecución.
+
+### Artículo 45
+
+Artículo 45. Contenido sustantivo.
+1. El contenido sustantivo de un Plan de Sectorización cubre tres grupos de determinaciones estructurantes:
+a) La delimitación del sector que será objeto de actuación urbanizadora, estableciendo para el mismo las pertinentes condiciones básicas de ordenación.
+b) La calificación de los terrenos que deben formar parte de las redes públicas supramunicipales y generales, sean o no interiores al nuevo sector, de forma que se garantice su integración en la estructura municipal.
+c) La concreción, en forma de compromisos, de las contribuciones a la Administración pública como contrapartida de la autorización de la transformación urbanizadora y garantías de sostenibilidad de la propuesta.
+2. La delimitación sectorial y la fijación de las condiciones básicas de la ordenación urbanística cumplirá lo dispuesto para el Plan General respecto a los sectores de suelo urbanizable sectorizado en el número 5 del artículo 42 de la presente Ley, con las siguientes precisiones específicas:
+a) Habrá de justificarse expresamente que el sector cumple las condiciones que, en su caso, hubiera establecido el Plan General, en virtud de lo dispuesto en la letra b) del número 4 del artículo 42 de la presente Ley.
+b) Asimismo, también se justificará expresamente que las determinaciones estructurantes del aprovechamiento unitario de reparto, de uso global y cuantas otras fueran señaladas con este carácter son coherentes con las instrucciones que hubiera establecido el Plan General, con base en lo dispuesto en la letra c) del número 4 del artículo 42 de la presente Ley.
+c) Las condiciones de temporalización del desarrollo señaladas en la letra f) del número 5 del artículo 42 de la presente Ley serán siempre contenido obligatorio de cualquier Plan de Sectorización.
+d) El Plan de Sectorización podrá incluir como parte de su contenido la completa ordenación pormenorizada del sector correspondiente, cumpliendo los requisitos de contenido exigidos a los Planes Parciales. En todo caso, aunque la ordenación pormenorizada se contenga en un Plan Parcial independiente, siempre ambos documentos se formularán, conocerán y tramitarán de forma simultánea.
+3. En la calificación de elementos integrantes de las redes públicas supramunicipales y generales, el Plan de Sectorización cumplirá los siguientes requisitos:
+a) Considerará aquellos elementos supramunicipales que haya recogido el Plan General y que se encuentren interiores o adyacentes al sector.
+b) En el interior del sector, calificará los elementos de nivel municipal de cada una de las redes públicas necesarios como resultado de la ampliación de actividades y/o población que supone la sectorización. En todo caso, las superficies de los suelos calificados como integrantes de las redes generales en el interior del sector no serán inferiores a las resultantes de la aplicación de los estándares de los números 5 y 6 del artículo 36 de la presente Ley.
+c) Formarán asimismo parte del Plan de Sectorización aquellos elementos exteriores al sector e integrantes de las redes públicas de infraestructuras, equipamientos o servicios públicos que requieran definirse, ampliarse o reforzarse como consecuencia de la sectorización. A tales efectos, como criterio general el Plan de Sectorización optará preferentemente por establecer intervenciones de ampliación o mejora sobre elementos de redes generales ya definidos por el Plan General, antes que la calificación de nuevos suelos con tal destino; en todo caso, este criterio no eximirá al Plan de Sectorización de definir los nuevos elementos necesarios para asegurar las conexiones a las redes existentes, especialmente las de infraestructuras.
+4. Entre los compromisos que deberán constar en el Plan de Sectorización estarán, al menos, los siguientes:
+a) Prestación de garantía ante la Administración por importe mínimo del 10 por 100 del coste total de ejecución de las obras de urbanización del sector y de los elementos de las redes generales, tanto interiores como exteriores a aquél. Dicha garantía deberá cubrir, en todo caso, las responsabilidades derivadas de incumplimientos e infracciones, e incluso ser suficiente para acometer eventualmente las labores de restauración de los terrenos.
+b) Certificaciones técnicas de los órganos competentes respecto a la suficiencia de las redes de infraestructuras para garantizar el abastecimiento de la demanda de los servicios públicos derivados de la propuesta. En especial, se aportarán suficientes garantías en cuanto a la autonomía del sistema de transporte, de forma que se asegure que no se produce sobrecongestión en ninguna de las distintas hipótesis probables.
+Las citadas certificaciones técnicas de los órganos competentes respecto a la suficiencia de las redes de infraestructuras para garantizar el abastecimiento de la demanda eléctrica podrán condicionarse a la planificación que se encuentre en vigor con posterioridad a la aprobación definitiva del instrumento de planeamiento urbanístico. No impedirá la aprobación del instrumento de planeamiento urbanístico cuyo uso global sea el residencial la existencia de una certificación negativa sobre la suficiencia de las citadas redes, condicionada o no, si bien deberá quedar acreditada dicha suficiencia en un momento posterior y, en todo caso, con carácter previo a la aprobación definitiva del proyecto de urbanización.
+c) Plazos vinculantes para la completa realización de todas y cada una de las actuaciones, estableciendo las sanciones o contraprestaciones asumidas en caso de incumplimiento.
+d) Cuantas otras contraprestaciones asuma libremente el promotor a fin de aumentar la participación de la comunidad en las plusvalías del desarrollo urbanístico y mejorar, consiguientemente, el interés público de la iniciativa de sectorización.
+5. Cuando el sector que se proponga delimitar se sitúe aislado respecto a los suelos urbanos y urbanizables sectorizados del municipio, el Plan de Sectorización incluirá una propuesta de ordenación estructurante de todos los terrenos intermedios con la clasificación de suelo urbanizable no sectorizado. Dicha propuesta de ordenación contendrá una hipótesis razonable del desarrollo urbanístico de todos los sectores que pudieran delimitarse en el futuro en tales terrenos intermedios, y tendrá por objeto mostrar, para su adecuada valoración por la Consejería competente en materia de ordenación urbanística de la Comunidad de Madrid, la racionalidad, funcionalidad y efectos de las eventuales ampliaciones de la iniciativa en curso, la integración de todas en el conjunto y la adecuada funcionalidad e interconexión de las redes públicas de infraestructuras, equipamientos y servicios. Esta propuesta de ordenación tendrá carácter indicativo; sin embargo, si así conviniera, algunas de sus determinaciones podrían incorporarse al Plan General, mediante la pertinente modificación del mismo con carácter previo o simultáneo a la aprobación del Plan de Sectorización.
+Se modifica el apartado 4.b) por el art. 2.2 de la Ley 2/2026, de 11 de junio. Ref. BOE-A-2026-16360
+
+### Artículo 46
+
+Artículo 46. Documentación.
+1. Los Planes de Sectorización formalizarán su contenido en la siguiente documentación:
+a) Memoria: En la que se justificará el cumplimiento de las condiciones sobre la delimitación sectorial y sus condiciones básicas de ordenación que hubieran establecido el Plan General, el planeamiento territorial o disposiciones aplicables sectoriales. Además, se recogerá toda la información relevante para justificar la ordenación propuesta entre las distintas alternativas posibles.
+b) Estudio de viabilidad: En el que se justificará la sostenibilidad del modelo de utilización del territorio y desarrollo urbano adoptado, así como su viabilidad en función de las capacidades de iniciativa y gestión y las posibilidades económicas y financieras, públicas y privadas, en el término municipal.
+c) Estudios Sectoriales: Referidos especialmente a los efectos que supone la sectorización sobre todas y cada una de las redes públicas de infraestructuras, equipamientos y servicios, a fin de determinar las necesidades de calificación de suelos con este destino y de ejecución de intervenciones de refuerzo o mejora.
+d) Informe de análisis ambiental.
+e) Planos conteniendo los recintos de aplicación de la ordenación estructurante y de la ordenación pormenorizada, en su caso, así como los derivados de la legislación ambiental.
+f) Normas e instrucciones urbanísticas, diferenciando las que correspondan a la ordenación pormenorizada que, en su caso, se establezca.
+g) Programa de Actuación y Compromisos: Donde se recogerán las previsiones vinculantes de ejecución así como el resto de obligaciones que se hayan acordado entre la Administración y el promotor, tal como se señala en el número 4 del artículo anterior.
+2. Si el Plan de Sectorización incluye entre sus determinaciones la completa ordenación pormenorizada, a los documentos anteriores añadirá los establecidos en el artículo 49 de la presente Ley para los Planes Parciales.
+
+## CAPÍTULO IV
+
+Planeamiento Urbanístico de Desarrollo
+
+## Sección 1
+
+Sección 1.ª Planes parciales
+
+### Artículo 47
+
+Artículo 47. Función de los planes parciales.
+1. El Plan Parcial desarrolla el Plan General o el Plan de Sectorización para establecer la ordenación pormenorizada de ámbitos y sectores completos, tanto en suelo urbano no consolidado como en suelo urbanizable.
+2. Cuando, en suelo urbano no consolidado, los Planes Parciales tengan por objeto operaciones de reurbanización, reforma, renovación o mejora urbanas se calificarán de reforma interior.
+3. El Plan Parcial podrá modificar cualesquiera determinaciones de ordenación pormenorizada establecidas por el planeamiento general sobre el ámbito o sector. Para que tales modificaciones sean admisibles, el Plan Parcial habrá de justificar expresa y suficientemente que las mismas sean congruentes con la ordenación estructurante del planeamiento general y territorial.
+4. Los planes parciales podrán modificar los límites de los ámbitos o sectores, pudiendo alcanzar la variación de superficie un 5 por ciento de la superficie total del ámbito o sector, siempre que se justifique a través del correspondiente estudio topográfico y cartográfico y se expliquen los errores del planeamiento superior.
+Se modifica por el art. 5.10 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 48
+
+Artículo 48. Contenido sustantivo.
+1. El Plan Parcial establecerá sobre la totalidad del ámbito o sector todas las determinaciones pormenorizadas de ordenación urbanística que se enumeran y regulan en el Capítulo II de este Título. Para ello, respetarán las siguientes precisiones:
+a) Las alineaciones y rasantes se definirán compatibilizando la mejor adecuación a los condicionantes del relieve de los terrenos, la integración del ámbito o sector en las tramas urbanas adyacentes o en el entorno rural y la coherencia y funcionalidad tipológica y urbanística.
+b) Se deberán definir las condiciones que deben cumplir las parcelas para su ejecución material. A tales efectos, el Plan Parcial podrá incorporar la definición gráfica del parcelario, señalando expresamente el grado de vinculación normativa de la misma.
+c) Para todo suelo edificable se establecerán las precisas condiciones sobre la edificación y sobre la admisibilidad de los usos que sean suficientes para determinar el aprovechamiento de cualquier parcela. Cumplida esta exigencia mínima, en los espacios edificables en que así se justifique, el Plan Parcial podrá remitir a Estudios de Detalle el completar la ordenación volumétrica de la edificación y la fijación de los parámetros normativos consiguientes.
+d) Se localizarán las reservas de suelo destinadas a los elementos de las redes públicas locales, en posiciones tales que se optimice su nivel de servicio y, en el caso de los espacios dotacionales, contribuyan a la revalorización perceptual del espacio urbano.
+e) Se delimitarán, en su caso, las unidades de ejecución que se juzguen convenientes para la mejor gestión de la ejecución, señalando a cada una el sistema de ejecución correspondiente.
+2. Cuando se trate de un Plan Parcial en suelo urbanizable, además de las determinaciones contenidas en el número anterior, debe presentar para su aprobación inicial y posterior tramitación, los compromisos y garantías técnicas de sostenibilidad de las soluciones propuestas en los siguientes aspectos:
+a) Los estudios específicos necesarios y suficientes para la adecuada conexión, ampliación o refuerzo de todos y cada uno de las infraestructuras, equipamientos y servicios públicos municipales y supramunicipales cuya prestación haya de utilizar la población futura, integrando el supuesto de que llegue a ser residente permanente y, como mínimo, su integración en las redes escolar, educativa, asistencial, sanitaria, hospitalaria, deportiva, cultural, de ocio, comercio diario, servicios de seguridad interior, bomberos y los enlaces con las infraestructuras y servicios de carreteras o vías actuales, captación y depuración de agua, luz, teléfono, gas, residuos sólidos, correos, transportes públicos urbanos y regionales por carretera o ferrocarril.
+b) Verificación técnica, con informe preceptivo y autorización escrita de cada órgano competente sobre su capacidad, límites y compromisos, o contratos necesarios para garantizar el abastecimiento de la demanda de los servicios públicos mínimos antes citados generada por la propuesta y, en su caso, las medidas adoptadas para satisfacerla sin sobrecostes públicos inasumibles por el órgano prestador del servicio.
+La verificación técnica, el informe preceptivo y la autorización del órgano competente en relación con la capacidad, los límites y los compromisos del suministro eléctrico podrán condicionarse a la planificación que se encuentre en vigor con posterioridad a la aprobación definitiva del instrumento de planeamiento urbanístico. No impedirá la aprobación del instrumento de planeamiento urbanístico cuyo uso global sea el residencial la existencia de una certificación negativa sobre la suficiencia de las citadas redes, condicionada o no, si bien deberá quedar acreditada dicha suficiencia en un momento posterior y, en todo caso, con carácter previo a la aprobación definitiva del proyecto de urbanización.
+c) Estudio relativo a las infraestructuras de la red de saneamiento.
+d) Conexión y autonomía del sistema de transporte público garantizando la no sobrecongestión en caso límite de los transportes existentes, a partir de varias hipótesis de sobrecarga.
+e) Planes de alarma, evacuación y seguridad civil en supuestos catastróficos.
+3. Cuando un sector en suelo urbanizable sea un desarrollo urbanísticamente aislado, el Plan Parcial incluirá además una propuesta de ordenación global indicativa del desarrollo de los sectores que previsiblemente puedan limitar por todos los lados con el propuesto, mostrando la racionalidad, funcionalidad y efectos de su eventual futura ampliación integrada en dicho conjunto superior y de su conexión con las redes municipales y supramunicipales que, en relación con las previstas en el planeamiento general, estructuren y delimiten el mismo.
+4. El Plan Parcial, además del sector, habrá de ordenar, en su caso, los siguientes suelos destinados por el planeamiento general a redes públicas supramunicipales o generales, salvo que la Administración competente manifieste su intención de acometer su ordenación a través de un Plan Especial:
+a) Aquellos que se dispongan en el interior del sector.
+b) Aquellos que, situados adyacentes al sector, sean adscritos al mismo como resultado de la equidistribución respecto al correspondiente área de reparto.
+Se modifica el apartado 2.b) por el art. 2.3 de la Ley 2/2026, de 11 de junio. Ref. BOE-A-2026-16360
+
+### Artículo 49
+
+Artículo 49. Documentación.
+Los Planes Parciales se formalizarán, al menos, en la siguiente documentación:
+a) Memoria: En ella, de forma concisa, se describirá la ordenación establecida y se justificará su adecuación al planeamiento general, fundamentando, en su caso, las modificaciones introducidas en la ordenación pormenorizada previamente dispuesta por éste.
+b) Informe previsto en la normativa reguladora de las infraestructuras de saneamiento.
+c) Planos de ordenación pormenorizada.
+d) Organización y gestión de la ejecución.
+e) Normas urbanísticas.
+f) Catálogo de bienes y espacios protegidos, cuando proceda.
+
+## Sección 2
+
+Sección 2.ª Planes especiales
+
+### Artículo 50
+
+Artículo 50. Funciones de los planes especiales.
+1. Los planes especiales tienen cualquiera de las funciones enunciadas en este apartado:
+a) Definir, modificar, ampliar o proteger cualquier elemento integrante de las redes públicas de infraestructuras, equipamientos y servicios, en cualquier nivel jerárquico establecidos en el artículo 36, las infraestructuras y sus construcciones estrictamente necesarias para la prestación de servicios de utilidad pública o de interés general, con independencia de su titularidad pública o privada, o que por su legislación específica se definan como sistemas generales o lo equipare a las redes públicas de esta ley.
+Incluirán las completas determinaciones de su ordenación urbanística, incluidas su uso, edificabilidad y condiciones de construcción. En ningún caso generarán derecho a aprovechamiento urbanístico alguno en el plan especial.
+Lo expresado en este apartado será de aplicación sin perjuicio de lo establecido en los artículos 26 y 29 bis, y las viviendas públicas de protección establecidas en los artículos 36.2.c).2.º y 67.1.
+b) Modificar la ordenación establecida en el suelo urbano, conforme a los criterios de regeneración y reforma urbana del texto refundido de la Ley de Suelo y Rehabilitación Urbana.
+c) Regular, proteger o mejorar el medio ambiente, los espacios protegidos y paisajes naturales en suelo no urbanizable de protección.
+d) Conservar, proteger y rehabilitar el patrimonio histórico artístico, cultural, urbanístico y arquitectónico, de conformidad con la legislación sectorial correspondiente.
+e) Otras que se determinen reglamentariamente.
+2. Los planes especiales, en desarrollo de las funciones establecidas en el apartado 1, podrán modificar la ordenación pormenorizada previamente establecida por cualquier otra figura de planeamiento urbanístico, debiendo justificar expresa y suficientemente, en cualquier caso, su congruencia con la ordenación estructurante del planeamiento general y territorial.
+3. Además de lo establecido en el apartado anterior, los planes especiales que tengan por objeto las funciones recogidas en las letras a), b), c) y d) del apartado 1 de este artículo podrán, basándose en los principios de la ordenación urbanística establecidos en el artículo 3, alterar las determinaciones estructurantes, con los límites establecidos en los artículos 34 y 35 de esta ley.
+4. Los planes especiales que tengan por objeto las funciones recogidas en las letras b), c) y d) del apartado 1 de este artículo, deberán formularse exclusivamente por las Administraciones públicas cuando alteren determinaciones estructurantes.
+5. En cualquier caso, cualquier plan especial que altere las determinaciones estructurantes, deberá incluir una justificación suficiente del interés general al que se someten para dicha alteración. Ultimada toda la tramitación y con carácter previo a su aprobación definitiva conforme al artículo 59, requerirán de informe preceptivo y vinculante de la Comisión de Urbanismo de Madrid que se emitirá respecto de cuestiones de legalidad, sobre la conformidad de los informes sectoriales, y de cumplimiento de los límites establecidos en los artículos 34 y 35 de esta ley, así como la afectación a los intereses supramunicipales que, en su caso, estén presentes. Este informe deberá emitirse en un plazo de tres meses, debiendo entenderse desfavorable en caso de no haberse emitido. En el caso de ser necesaria la aprobación definitiva por algún órgano de la Comunidad de Madrid, se entenderá sustituido este informe por el propio de la aprobación definitiva con los plazos y sentido establecidos en los artículos 61 y 63 de la presente ley.
+Se modifica por el art. 2.16 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se añade un último inciso al apartado 1.a) por el art. 1.3 de la Ley 3/2024, de 28 de junio. Ref. BOE-A-2024-15001#ap
+ Se modifica por el art. 5.11 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Redactado el apartado 1.a) conforme a la corrección de errores publicada en el BOCM núm. 47, de 24 de febrero de 2023. Ref. BOCM-m-2023-90050
+
+### Artículo 51
+
+Artículo 51. Contenido sustantivo.
+1. Los Planes Especiales contendrán las determinaciones adecuadas a sus finalidades específicas, incluyendo la justificación de su propia conveniencia y de su conformidad con los instrumentos de ordenación del territorio y del planeamiento urbanístico vigentes sobre su ámbito de ordenación.
+2. En todo caso, el Plan Especial contendrá, según proceda:
+a) Las determinaciones propias del Plan Parcial que correspondan a su objeto específico, en su función de desarrollo del Plan General.
+b) Las determinaciones propias del Plan Parcial, en su caso de reforma interior, incluidas las establecidas directamente por el Plan General, que complementen o modifiquen.
+
+### Artículo 52
+
+Artículo 52. Documentación.
+El Plan Especial se formalizará en los documentos adecuados a sus fines concretos, incluyendo, cuando proceda, Catálogo de bienes y espacios protegidos e informe de los organismos afectados.
+
+## Sección 3
+
+Sección 3.ª Estudios de detalle
+
+### Artículo 53
+
+Artículo 53. Función y límites.
+1. El Estudio de Detalle, que deberá comprender manzanas o unidades urbanas equivalentes completas, tiene por función, en las áreas y los supuestos previstos por los Planes Generales y, en su caso, los Planes Parciales, la concreta definición de los volúmenes edificables de acuerdo con las especificaciones del planeamiento y el señalamiento de alineaciones y rasantes.
+2. En el cumplimiento de su función, los Estudios de Detalle:
+a) Podrán delimitar espacios libres y/o viarios en los suelos edificables objeto de su ordenación como resultado de la disposición de los volúmenes, pero los mismos tendrán carácter de áreas interiores vinculadas a los suelos edificables, sin conformar espacios con uso pormenorizado propio.
+b) En ningún caso podrán alterar el destino del suelo, incrementar la edificabilidad y desconocer o infringir las demás limitaciones que les imponga el correspondiente Plan General o Parcial.
+c) En ningún caso podrán parcelar el suelo.
+
+### Artículo 54
+
+Artículo 54. Contenido y documentación.
+El Estudio de Detalle establecerá las determinaciones y las formalizará en los documentos que sean adecuados a su objeto, todo ello con la precisión suficiente para cumplir éste.
+
+## Sección 4
+
+Sección 4.ª Catálogos de bienes y espacios protegidos
+
+### Artículo 55
+
+Artículo 55. Catálogos de bienes y espacios protegidos.
+1. Sin perjuicio de los que deben formar parte de los Planes de Ordenación regulados en este Título, podrán formarse y aprobarse Catálogos de bienes y espacios protegidos, con el mismo contenido, si bien únicamente para complementar, precisar, actualizar o mejorar aquéllos.
+2. El contenido de los Catálogos de bienes y espacios protegidos de los diversos Planes de Ordenación Urbanística y, los aprobados con carácter complementario o de actualización o mejora de éstos, integra un registro administrativo radicado en la Consejería competente en materia de ordenación urbanística.
+3. La organización y el funcionamiento del registro administrativo a que se refiere el número anterior, que se regularán reglamentariamente, deberán asegurar que proporcione información suficiente sobre la situación, características físicas y jurídicas y régimen de protección a que estén sujetos los bienes y los espacios.
+
+## CAPÍTULO V
+
+Formación, aprobación y efectos de los Planes de Ordenación Urbanística
+
+## Sección 1
+
+Sección 1.ª Actos preparatorios
+
+### Artículo 56
+
+Artículo 56. Formación y avances del planeamiento.
+1. El planeamiento urbanístico podrá ser formulado por las Administraciones públicas y por los particulares, salvo los Planes Generales, que solo podrán serlo por las primeras, sin perjuicio del derecho de los particulares a la formulación de propuestas de planeamiento general con las limitaciones previstas en el último párrafo del artículo 5.4 de la presente Ley.
+2. Para la formulación y elaboración de los instrumentos de planeamiento general, y sus revisiones, deberá formalizarse un documento de avance, expresivo de los criterios, objetivos y propuestas generales, así como de las alternativas de ordenación posibles. Asimismo, deberá contener el correspondiente documento inicial estratégico, con el contenido y el alcance previstos en la legislación sobre evaluación ambiental, así como un resumen ejecutivo que permita conocer con sencillez y claridad el documento de avance. En todos los demás casos, el Avance de planeamiento será facultativo.
+3. El procedimiento de aprobación de avances del planeamiento estará sujeto a los siguientes trámites preceptivos:
+a) Trámite de información pública por un período de cuarenta y cinco días, a efectos de que cualquier interesado pueda presentar sugerencias, que no requerirán contestación individualizada por la Administración pública. Una vez finalizado el trámite, en el plazo de quince días, deberá remitirse al órgano competente en materia de ordenación territorial de la Comunidad de Madrid las sugerencias recibidas y el certificado municipal sobre su recepción.
+b) De manera simultánea al trámite de información pública, se remitirá la documentación completa del avance al órgano competente en materia de ordenación territorial de la Comunidad de Madrid, que ejercerá las funciones y trámites del órgano sustantivo en el procedimiento de evaluación ambiental estratégica, de acuerdo a lo previsto en la legislación sobre evaluación ambiental, además de las que le corresponden en la tramitación del informe de impacto territorial.
+Para la coordinación de los informes y consultas del documento del alcance y el informe de impacto territorial, se realizarán los siguientes pasos:
+1.º El documento de alcance del estudio ambiental estratégico que emitirá el órgano ambiental competente de la Comunidad de Madrid, previa consulta e informe, durante el plazo establecido en el artículo 19.1 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, a las Administraciones Públicas afectadas y a las personas interesadas. Se comunicará al órgano competente en materia de ordenación de territorio para que no se dupliquen las consultas.
+2.º Simultáneamente, a la vista de la comunicación del órgano ambiental, el órgano competente en materia de ordenación territorial, solicitará aquellos informes adicionales que sean necesarios por ser preceptivos o ser necesarios para su valoración territorial de cualesquiera otras Consejerías, organismos y entidades de la Comunidad de Madrid o de la Administración General del Estado. Asimismo, solicitará informe no vinculante a los municipios colindantes o aquellos que desde esta Consejería se estime oportuno consultar por la incidencia del plan sobre esos municipios.
+Los informes sectoriales que no sean preceptivos y los municipales deberán emitirse en un plazo no superior a dos meses, entendiendo que son favorables en caso de no emitirse. Los demás se regularán por los plazos de su legislación específica.
+3.º Concluidos los trámites anteriores, el órgano competente en materia de ordenación territorial emitirá un informe dentro de sus competencias, para lo que tendrá en cuenta el documento de alcance y el resultado de las consultas efectuadas por el órgano ambiental y las recogidas en el punto 2.o anterior, y se analizará la incidencia del Avance sobre el municipio afectado y los municipios colindantes, sobre las dotaciones y equipamientos, las infraestructuras y servicios, los sistemas generales, la movilidad, el transporte, y cualesquiera otros aspectos que afecten directa o indirectamente a la estrategia territorial de la Comunidad de Madrid.
+El Informe de impacto territorial, emitido por el Consejo de Gobierno de la Comunidad de Madrid una vez recibidos el documento de alcance y el informe del órgano competente en materia de ordenación territorial, tiene carácter preceptivo y vinculante para la aprobación del avance y debe emitirse en el plazo máximo de cuatro meses desde la fecha de la recepción de la documentación indicada en el apartado anterior, no pudiendo entenderse favorable en caso contrario.
+4. Una vez realizados los trámites anteriores, el Avance será aprobado por el órgano competente del ayuntamiento, poniéndose a disposición del público a través de la sede electrónica del municipio junto con el informe de impacto territorial y con el documento de alcance del estudio ambiental estratégico. El acuerdo de aprobación del Avance deberá expresar el resultado de los trámites de sugerencias, del documento de alcance del estudio ambiental estratégico y del informe de impacto territorial, señalando la incidencia que han tenido en el contenido del Avance.
+La aprobación de los avances de planeamiento sólo tendrá efectos administrativos internos y en las relaciones entre las Administraciones públicas que hayan intervenido en su elaboración.
+Se modifica por el art. 5.12 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifican los apartados 2, 3 y 4 por el art. 10 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+
+### Artículo 56 bis
+
+Artículo 56 bis.
+Los Ayuntamientos o, en su caso, la Comunidad de Madrid en los supuestos en los que legalmente le corresponda la redacción, tramitación y aprobación de instrumentos del planeamiento, acordarán las medidas necesarias para garantizar la transparencia, difusión y divulgación suficiente entre todos los vecinos, de la apertura de los plazos de información pública y de exposición de los Avances, Planes e instrumentos urbanísticos que vayan a ser objeto de tramitación y aprobación.
+En la documentación que se someta a información pública deberá incluirse, además de la exigible para cada clase de instrumento urbanístico, un resumen ejecutivo expresivo, en primer lugar, de la delimitación de los ámbitos en los que la ordenación proyectada altera la vigente, con un plano de su situación, y alcance de dicha alteración; y en segundo lugar, en su caso, de los ámbitos en los que se suspendan la ordenación o los procedimientos de ejecución y la duración de dicha suspensión.
+Los Ayuntamientos adoptarán las medidas necesarias para la publicidad telemática del anuncio de sometimiento a información pública.
+Se añade por el art. 11 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+
+## Sección 2
+
+Sección 2.ª Procedimientos de aprobación de los planes
+
+### Artículo 57
+
+Artículo 57. Procedimiento de aprobación de los Planes Generales.
+El procedimiento de aprobación de los Planes Generales y de sus modificaciones y revisiones se desarrollará conforme a las siguientes reglas:
+a) El procedimiento se iniciará mediante acuerdo de aprobación inicial adoptado por el Pleno del Ayuntamiento, de oficio y a iniciativa propia o en virtud de moción deducida por cualquier otra Administración pública territorial. El acuerdo de aprobación inicial deberá expresar la adecuación o no de la documentación del Plan al avance previamente aprobado, indicando, en su caso y con precisión, las variaciones introducidas.
+b) La aprobación inicial implicará el sometimiento de la documentación del Plan General a información pública por plazo no inferior a un mes y, simultáneamente, el requerimiento de los informes de los órganos y entidades públicas previstos legalmente como preceptivos o que, por razón de la posible afección de los intereses públicos por ellos gestionados, deban considerarse necesarios. La información pública deberá llevarse a cabo en la forma y condiciones que propicien una mayor participación efectiva de los titulares de derechos afectados y de los ciudadanos en general. Los informes deberán ser emitidos en el mismo plazo de la información al público.
+c) A la vista del resultado de los trámites previstos en la letra anterior, el Pleno del Ayuntamiento resolverá sobre la procedencia de introducir en el documento las correcciones pertinentes. Si tales correcciones supusieran cambios sustantivos en la ordenación, el nuevo documento volverá a ser sometido a los trámites de información pública y requerimiento de informes, tal como se regula en la letra anterior.
+d) Una vez superados los trámites anteriores, el Pleno del Ayuntamiento remitirá el documento técnico del Plan General a la Consejería competente en materia de medio ambiente, a efectos de que por la misma se emita en el plazo de dos meses el informe definitivo de análisis ambiental.
+e) Aprobado provisionalmente el Plan General, el expediente completo derivado de la instrucción del procedimiento en fase municipal será remitido a la Consejería competente en materia de ordenación urbanística a los efectos de su aprobación definitiva, si procede, por el órgano competente.
+f) Reglamentariamente se establecerá el procedimiento de tramitación de las modificaciones puntuales del planeamiento urbanístico cuando no supongan modificaciones sustanciales, no siéndoles de aplicación el procedimiento establecido en el presente artículo. El Reglamento definirá estas modificaciones no sustanciales, que podrán incluir proyectos económicos de interés regional, a las que no serán de aplicación las limitaciones previstas en los artículos 68 y 69 de la presente Ley. Los informes sectoriales que deban emitirse en la tramitación de estas modificaciones deberán evacuarse en el plazo máximo de un mes. Si no se emitieran en dicho plazo se entenderán favorables a la tramitación de la modificación.
+Se modifica la letra f) por el art. 10.3 de la Ley 7/2007, de 21 de diciembre. Ref. BOE-A-2008-4062., en la redacción dada por el art. 15 de la Ley 10/2009, de 23 de diciembre. Ref. BOE-A-2010-4183.
+ Se añade la letra f) por el art. 10.3 de la Ley 7/2007, de 21 de diciembre. Ref. BOE-A-2008-4062.
+ Téngase en cuenta para su aplicación lo establecido en el art. 10.6 de la misma ley.
+
+### Artículo 58
+
+Artículo 58. Procedimiento de aprobación de los Planes de Sectorización.
+1. El Plan de Sectorización se formulará y presentará en el Ayuntamiento para su aprobación conjuntamente con el correspondiente Plan Parcial y la documentación necesaria para establecer la delimitación de las unidades de ejecución y el señalamiento del sistema de ejecución.
+2. El procedimiento para la aprobación del Plan de Sectorización se desarrollará según las reglas establecidas en los artículos 56 y 57, con la particularidad de que los acuerdos de aprobación inicial y provisional lo serán referidos a todos los documentos tramitados conjuntamente, de conformidad con lo señalado en el número anterior.
+
+### Artículo 59
+
+Artículo 59. Procedimiento de aprobación de los Planes Parciales y Especiales.
+1. El procedimiento de aprobación de los Planes Parciales y Especiales se ajustará a las reglas dispuestas en el artículo 57 de la presente Ley, con las especialidades que diferenciadamente se señalan en este artículo.
+2. Cuando se trate de Planes Parciales o Especiales formulados por el Municipio o por otra Administración pública, salvo en los del número siguiente:
+a) La aprobación inicial corresponderá al Alcalde.
+b) Sólo se requerirá de órganos y entidades administrativas los informes que estén legalmente previstos como preceptivos, por esta Ley o la legislación sectorial.
+c) La aprobación provisional procederá sólo cuando el Municipio no sea competente para acordar la definitiva, correspondiendo en tal caso la aprobación provisional al Pleno del Ayuntamiento.
+3. Cuando se trate de Planes Especiales de infraestructuras, equipamientos y servicios públicos de la Comunidad de Madrid, se aplicarán las mismas reglas del número anterior con las especialidades siguientes:
+a) La aprobación inicial corresponderá a la Comisión de Urbanismo de Madrid.
+b) Además de la apertura del período de información pública y el requerimiento de informes, la Comisión de Urbanismo trasladará el expediente a los municipios afectados para su conocimiento e informe, el cual se emitirá en el plazo máximo de un mes.
+c) No habrá aprobación provisional. Una vez superados los trámites anteriores, la Consejería competente en materia de ordenación urbanística elevará expediente a la Comisión de Urbanismo de Madrid para su aprobación definitiva, si procede.
+4. Cuando se trate de Planes Parciales o Especiales de iniciativa particular:
+a) El Alcalde, motivadamente y dentro de los treinta días siguientes a la presentación de la solicitud, adoptará la que proceda de entre las siguientes resoluciones:
+1.º Admisión de la solicitud a trámite, con aprobación inicial del proyecto de Plan.
+2.º Admisión de la solicitud a trámite, con simultáneo requerimiento al solicitante para que subsane y, en su caso, mejore la documentación presentada en el plazo que se señale. Este requerimiento, que no podrá repetirse, suspenderá el transcurso del plazo máximo para resolver. Cumplimentado en forma el requerimiento, el Alcalde adoptará alguna de las resoluciones a que se refieren los apartados 1 y 3.
+3.º Inadmisión a trámite por razones de legalidad, incluidas las de ordenación territorial y urbanística. De esta resolución deberá darse cuenta al Pleno del Ayuntamiento en la primera sesión que celebre.
+b) Aprobado inicialmente el Plan, la instrucción del procedimiento se desarrollará conforme a lo dispuesto en el número 2, salvo lo siguiente:
+1.º La aprobación inicial y la apertura del trámite de información pública deberá notificarse individualmente a todos los propietarios afectados.
+2.º De introducirse modificaciones con la aprobación provisional del proyecto del Plan, éstas deberán notificarse individualmente a todos los propietarios afectados, así como a los que hubieran intervenido en el procedimiento.
+5. Cuando se trate de Planes Especiales de iniciativa particular cuya tramitación y aprobación corresponda a la Comunidad de Madrid en base a lo dispuesto en el apartado 6.º del artículo 61, la instrucción del procedimiento se sustanciará conforme a lo dispuesto en el número 3, de este artículo, con las siguientes especialidades:
+a) Dentro de los treinta días siguientes a la presentación de la solicitud, el órgano competente de la consejería en materia de ordenación del territorio y urbanismo resolverá sobre la admisión o inadmisión a trámite de la misma, efectuando, en su caso, requerimiento al solicitante para que subsane y, en su caso, mejore la documentación presentada en el plazo de un mes, con indicación de, si así no lo hiciera, se le tendrá por desistido en su petición.
+b) La aprobación inicial y la apertura del trámite de información pública deberá notificarse individualizadamente a todos los propietarios afectados.
+Se añade el apartado 5 por el art. 2.17 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+
+### Artículo 60
+
+Artículo 60. Procedimiento de aprobación de los Estudios de Detalle y los Catálogos.
+El procedimiento de aprobación de los Estudios de Detalle y los Catálogos de bienes y espacios protegidos elaborados con carácter independiente se sustanciará en la forma dispuesta en el artículo anterior, con las siguientes particularidades:
+a) La información pública tendrá una duración de veinte días para los Estudios de Detalle y de treinta días para los Catálogos.
+b) Serán preceptivos los siguientes informes: El informe de la Consejería competente en materia de patrimonio histórico-artístico, cuando se trate de Catálogos que afecten a bienes de su competencia, que será vinculante en los términos de la legislación reguladora de esta materia; el de la Consejería competente en materia de Catálogos de protección del patrimonio urbano y arquitectónico, cuando se trate de Catálogos de bienes no incluidos en el patrimonio histórico-artístico, que será vinculante, y el de la Consejería competente en materia de medio ambiente cuando se trate de Catálogos de espacios naturales protegidos.
+c) La aprobación provisional de los Catálogos corresponderá al Pleno del Ayuntamiento, debiendo remitirse el expediente completo a la Consejería competente en materia de ordenación urbanística para su aprobación definitiva.
+
+### Artículo 61
+
+Artículo 61. Órganos competentes para la aprobación definitiva.
+1. Corresponde al Consejo de Gobierno de la Comunidad de Madrid, previo informe de la Comisión de Urbanismo, la aprobación definitiva de todos los Planes Generales y de Sectorización y sus revisiones, así como la aprobación de las modificaciones que correspondan a municipios con población de derecho superior a 15.000 habitantes.
+2. Corresponde al Consejero competente en materia de ordenación urbanística, previo informe de la Comisión de Urbanismo, la aprobación definitiva de las modificaciones de Planes Generales y de Planes de Sectorización que correspondan a municipios con población de derecho inferior a 15.000 habitantes.
+3. La Comisión de Urbanismo de Madrid será el órgano competente para la aprobación definitiva de los siguientes instrumentos de planeamiento urbanísticos:
+a) Los Planes Parciales y Especiales, así como sus modificaciones, en la medida en que no estén atribuidos a la competencia municipal.
+b) Los Planes Especiales y sus modificaciones, que tengan por objeto la ordenación de infraestructuras, equipamientos y servicios públicos que corran a cargo de la Comunidad de Madrid.
+c) Los Catálogos de bienes y espacios protegidos y sus modificaciones.
+4. El Pleno del Ayuntamiento de los municipios con población de derecho igual o superior a 15.000 habitantes, será el órgano competente para la aprobación definitiva de los Planes Parciales y Especiales, así como sus modificaciones. Cuando los Planes Parciales modifiquen la ordenación pormenorizada establecida por el Plan General, se requerirá informe previo de la Comisión de Urbanismo, el cual se emitirá respecto a las cuestiones estrictas de legalidad y a todo lo referente a localización, características y obtención de las redes supramunicipales de infraestructura, equipamientos y servicios públicos.
+5. Corresponde al Pleno del Ayuntamiento de los municipios la aprobación definitiva de los Estudios de Detalle y sus modificaciones.
+6. Corresponderá al órgano competente de la Comunidad de Madrid la tramitación y aprobación de los instrumentos de planeamiento que afecten a más de un término municipal.
+Se modifican los apartados 1, 2 y 3 por el art. 15 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+
+### Artículo 62
+
+Artículo 62. Aprobación definitiva de los Planes de Ordenación Urbanística.
+1. Ultimada la tramitación previa precisa para la aprobación definitiva, deberá examinarse con carácter previo la integridad y corrección tanto del proyecto de Plan o de su modificación o revisión, como del expediente y de las actuaciones administrativas realizadas. De apreciarse la omisión o defectuosa celebración de algún trámite o la existencia de alguna deficiencia en el contenido sustantivo o la documentación del proyecto de Plan o de su modificación o revisión, el Alcalde, si la aprobación definitiva corresponde al Municipio, o, en otro caso, la Consejería competente en materia de ordenación urbanística deberán ordenar o, en su caso, requerir la subsanación de los defectos o las deficiencias observadas, fijando o concediendo plazo al efecto. La orden o el requerimiento suspenderán, hasta su cumplimiento efectivo, el plazo legal para la resolución sobre la aprobación definitiva.
+2. El órgano competente para la aprobación definitiva podrá adoptar, motivadamente, alguna de estas decisiones:
+a) Aprobar definitivamente el Plan o su modificación o revisión en sus propios términos.
+b) Aplazar, motivadamente, en todo o en parte, la aprobación definitiva del Plan, hasta la subsanación de los reparos que hayan impedido ésta o, en su caso, de las precisiones o modificaciones de determinaciones que se estimen procedentes o las deficiencias técnicas que hayan sido apreciadas. Sólo podrá exceptuarse del aplazamiento y aprobarse definitivamente concreta o concretas partes del Plan que sean susceptibles de gestión, aplicación y ejecución autónomas.
+c) Denegar motivadamente la aprobación definitiva del Plan.
+d) Aprobar condicionadamente el Plan, quedando su eficacia suspendida hasta el cumplimiento de las modificaciones señaladas por el Consejo de Gobierno.
+Se añade la letra d) al apartado 2 por el art. 16 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+
+### Artículo 63
+
+Artículo 63. Plazos máximos para las aprobaciones de los Planes y sentido del silencio administrativo.
+1. La aprobación definitiva de los Planes Generales y de los Planes de Sectorización, así como de sus modificaciones y revisiones, deberá resolverse en el plazo de cuatro meses a contar desde que el Municipio interesado presente el expediente completo, comprensivo del proyecto de Plan y las actuaciones practicadas en el procedimiento de aprobación municipal, en el registro de la Consejería competente en materia de ordenación urbanística.
+2. El mero transcurso del plazo fijado en el número anterior sin notificación de acuerdo expreso alguno determinará la aprobación definitiva, por silencio administrativo positivo, del correspondiente Plan General o Plan de Sectorización de iniciativa pública, en los mismos términos de la provisional municipal. La eficacia de la aprobación definitiva por silencio administrativo, que sólo podrá hacerse valer por el Municipio interesado, quedará condicionada a su publicación por éste en la forma determinada por esta Ley.
+3. Las aprobaciones de los Planes de Sectorización, Planes Parciales y Especiales, los Estudios de Detalle y los Catálogos de bienes y espacios protegidos de iniciativa privada deberán resolverse en los siguientes plazos:
+a) Seis meses a contar desde la aprobación inicial, para la aprobación provisional por el Municipio, cuando la definitiva corresponda a la Comunidad de Madrid. Transcurrido este plazo sin que haya sido notificado al solicitante acuerdo expreso alguno, éste podrá:
+1.º Solicitar del Alcalde la expedición de copia autorizada del expediente íntegro formalizado a resultas de la tramitación del procedimiento, incluido el proyecto de Plan, o Catálogo. Desde que se formule esta solicitud no podrá el Municipio realizar actuación ulterior alguna en el procedimiento, debiendo expedir la copia interesada en el plazo de los diez días siguientes al ingreso de la solicitud en el registro municipal.
+2.º Formular solicitud de aprobación definitiva del proyecto de Plan o Catálogo de que se trate, acompañando la copia autorizada del expediente íntegro resultante del procedimiento ya instruido, ante el órgano de la Comunidad de Madrid competente para la aprobación definitiva.
+b) Seis meses a contar desde la aprobación inicial, para la aprobación definitiva, cuando ésta corresponda al Municipio.
+c) Tres meses para los Planes Parciales, Especiales y Catálogos, desde el ingreso del expediente completo o, en su caso, de la copia autorizada del mismo en el registro de la Consejería competente en materia de ordenación urbanística, cuando su aprobación definitiva corresponda a la Comunidad de Madrid.
+4. Las aprobaciones de los Planes Parciales, Especiales y los Catálogos de bienes y espacios protegidos de iniciativa pública cuya aprobación definitiva corresponda a la Comunidad de Madrid, ésta deberá producirse en el plazo máximo de tres meses, desde el ingreso del expediente completo en el registro de la Consejería competente en materia de ordenación urbanística.
+5. En los procedimientos a que se refiere el número anterior, el transcurso del plazo máximo para resolver sin notificación de acuerdo expreso alguno determinará la aprobación definitiva por silencio administrativo positivo de los Planes Parciales, de los Especiales y de los Estudios de Detalle. En todos los demás supuestos el incumplimiento de la obligación legal de resolver y notificar dentro del plazo máximo sólo habilitará a la persona interesada para entender desestimada su solicitud por silencio administrativo negativo.
+
+### Artículo 63 bis
+
+Artículo 63 bis.
+En los casos de grave incumplimiento por los municipios en el ejercicio de competencias urbanísticas que impliquen una manifiesta afectación a la ordenación del territorio y urbanismo, competencia de la Comunidad de Madrid, el Consejo de Gobierno, con audiencia al municipio afectado, dictamen del Consejo de Estado u órgano consultivo autonómico, y previo informe favorable de la Asamblea de Madrid, podrá atribuir a la Consejería competente en estas materias el ejercicio de las competencias de planeamiento que corresponden a los municipios conforme a lo dispuesto en el presente Capítulo V.
+El Acuerdo del Consejo de Gobierno delimitará el ejercicio de dicha potestad necesario para restablecer y garantizar las competencias afectadas, las condiciones para llevarlo a cabo, con la intervención del municipio en los procedimientos que se tramiten en la forma que se prevea en el mismo Acuerdo, y el plazo de atribución, que en ningún caso será superior a cinco años desde su adopción.
+Se añade por el art. 12 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+
+## Sección 3
+
+Sección 3.ª Efectos, publicación y vigencia de los planes
+
+### Artículo 64
+
+Artículo 64. Efectos de la entrada en vigor de los Planes.
+La entrada en vigor de los Planes de Ordenación Urbanística producirá, de conformidad con su contenido, todos o algunos de los siguientes efectos:
+a) La vinculación de los terrenos, las instalaciones, las construcciones y las edificaciones al destino que resulte de su clasificación y calificación y al régimen urbanístico que consecuentemente les sea de aplicación.
+b) La declaración en situación de fuera de ordenación de las instalaciones, construcciones y edificaciones erigidas con anterioridad que resulten disconformes con la nueva ordenación, en los términos que disponga el Plan de Ordenación Urbanística de que se trate.
+A los efectos de la situación de fuera de ordenación deberá distinguirse, en todo caso, entre las instalaciones, construcciones y edificaciones totalmente incompatibles con la nueva ordenación, en las que será de aplicación el régimen propio de dicha situación legal, y las que sólo parcialmente sean incompatibles con aquélla, en las que se podrán autorizar, además, las obras de mejora o reforma que se determinen.
+Son siempre incompatibles con la nueva ordenación, debiendo ser identificadas en el Plan de Ordenación Urbanística, las instalaciones, construcciones y edificaciones que ocupen suelo dotacional o impidan la efectividad de su destino.
+c) La obligatoriedad del cumplimiento de sus determinaciones por todos los sujetos, públicos y privados, siendo nulas cualesquiera reservas de dispensación.
+d) La ejecutividad de sus determinaciones a los efectos de la aplicación por la Administración pública de cualesquiera medios de ejecución forzosa.
+e) La declaración de la utilidad pública y la necesidad de ocupación de los terrenos, las instalaciones, las construcciones y las edificaciones correspondientes, cuando prevean obras públicas ordinarias o delimiten ámbitos de actuación, sectores o unidades de ejecución para cuya realización sea precisa la expropiación. Se entenderán incluidos en todo caso los precisos para las conexiones exteriores con las redes de infraestructuras, equipamientos y servicios públicos.
+f) La publicidad de su contenido, teniendo derecho cualquier persona a consultarlo y a obtener certificaciones o cédulas urbanísticas respecto de los mismos.
+
+### Artículo 65
+
+Artículo 65. Registro de los Planes de Ordenación Urbanística.
+1. A los efectos de garantizar la publicidad, en la Consejería competente en materia de ordenación urbanística existirá un registro administrativo de los Planes de Ordenación Urbanística.
+El depósito de los Planes en el registro, incluidas sus modificaciones y revisiones, será condición legal para la publicación a que se refiere el artículo siguiente.
+Las copias de los documentos de los Planes de Ordenación Urbanística expedidas por el registro, con los debidos requisitos legales, acreditan a todos los efectos legales el contenido de los mismos.
+2. En todo caso, la Administración urbanística procurará facilitar al máximo el acceso y el conocimiento del contenido de los Planes de Ordenación Urbanística por medios y procedimientos informáticos y telemáticos, así como de ediciones convencionales.
+
+### Artículo 66
+
+Artículo 66. Publicación y vigencia de los Planes de Ordenación Urbanística.
+1. Se publicarán en el «Boletín Oficial de la Comunidad de Madrid», con indicación de haberse procedido previamente al depósito del correspondiente Plan de Ordenación Urbanística, o de su modificación o revisión, en el registro administrativo de la Consejería competente en materia de ordenación urbanística:
+a) El acuerdo de aprobación definitiva, por disposición de la Administración que lo haya adoptado.
+b) El contenido íntegro de la parte del Plan cuya publicación exija la legislación de régimen local, por disposición del Municipio o de la Comunidad de Madrid, cuando proceda.
+2. Los Planes de Ordenación Urbanística entrarán en vigor el mismo día de su publicación en la forma señalada en el punto anterior.
+3. Los Planes de Ordenación Urbanística tendrán vigencia indefinida.
+
+## Sección 4
+
+Sección 4.ª Modificación y revisión de los planes
+
+### Artículo 67
+
+Artículo 67. Disposiciones comunes a cualquier alteración de los Planes de Ordenación Urbanística.
+1. Cualquier alteración de las determinaciones de los Planes de Ordenación Urbanística deberá ser establecida por la misma clase de Plan y observando el mismo procedimiento seguido para su aprobación, sin perjuicio de aquellas alteraciones que podrán llevarse a cabo por los Planes Parciales y los Planes Especiales, conforme a los artículos 47 y 50 de esta ley.
+La Comunidad de Madrid, en el desarrollo de sus competencias propias, y para el adecuado desarrollo de las redes públicas supramunicipales, podrán modificar cualquiera de las determinaciones urbanísticas establecidas por el planeamiento regional territorial o por el planeamiento municipal a los terrenos integrantes de una red pública supramunicipal de la Comunidad de Madrid. Estas modificaciones se aprobarán mediante un Plan Especial que se tramitará de acuerdo a lo previsto en el artículo 59.3 de esta ley, excepto en el caso de tratarse de usos ya previstos por el planeamiento y en el supuesto previsto en el artículo 36.2.c)2.º.
+En el caso de redes supramunicipales de la Administración General del Estado, se podrá actuar de la misma manera que en el párrafo anterior.
+Asimismo, en congruencia con las finalidades establecidas en el artículo 50.1, el uso de cualquier elemento de las redes públicas locales o generales de un municipio, podrá ser modificado por un plan especial que justifique adecuadamente la necesidad del cambio de uso, así como la adecuada ponderación entre el uso que se elimina y el que se propone, excepto en el caso de tratarse de usos ya previstos por el planeamiento.
+2. Toda alteración de la ordenación establecida por un Plan de Ordenación Urbanística que desafecte el suelo de redes públicas ya obtenidas por cesión obligatoria y gratuita, deberá garantizar el mantenimiento las redes públicas existentes mediante la calificación de nuevo suelo de redes públicas en cantidad y calidad equivalentes, de manera que se mantenga el estándar de calidad de vida urbana ya obtenida.
+Toda alteración de la ordenación establecida por un Plan de Ordenación Urbanística que descalifique suelo destinado a viviendas sujetas a algún régimen de protección pública deberá establecer la calificación de nuevo suelo para viviendas sujetas a algún régimen de protección pública en cantidad y calidad equivalentes, justificando que su nueva ubicación garantiza el cumplimiento del principio de cohesión social.
+Sin perjuicio del cumplimiento del primer párrafo de este apartado, toda alteración de la ordenación establecida por un Plan de Ordenación Urbanística que cambie el uso de redes públicas calificadas como docente, sanitario o viviendas sujetas a algún régimen de protección pública o de integración social, deberán contar con informe previo de la Consejería competente por razón de la materia, donde se justifique la innecesariedad de la permanencia de dicho destino, en cuyo caso el o los nuevos usos previstos deberán ser preferentemente públicos o de interés social con independencia de la titularidad.
+3. Todo proyecto de Plan de Ordenación Urbanística que altere solo parcialmente otro anterior deberá acompañar un documento de refundición que refleje tanto las nuevas determinaciones como las que queden en vigor, a fin de reemplazar completamente la antigua documentación.
+Toda alteración de la ordenación urbanística deberá, obligatoriamente, incluir la documentación técnica vigente y la modificada, con las oportunas diligencias y/o certificados de aprobación definitiva correspondientes. En los casos que se altere el planeamiento urbanístico por otra figura de planeamiento diferente a aquella por la que fue aprobada, deberá incorporar la modificación de aquellos documentos que sean necesarios para evitar incongruencias en el documento técnico y normativo. La documentación referida en este apartado deberá formar parte del expediente desde la aprobación inicial.
+Reglamentariamente se establecerá el procedimiento que permita establecer de manera coordinada las diligencias y/o certificados de aprobación en los instrumentos de planeamiento urbanístico para las Administraciones locales y autonómica.
+Se modifica el apartado 1 por el art. 2.18 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifica el apartado 1 por el art. 1.4 de la Ley 3/2024, de 28 de junio. Ref. BOE-A-2024-15001#ap
+ Se modifica por el art. 5.13 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se añade el párrafo segundo al apartado 1 por el art. 12.3 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+ Se añade el inciso final al apartado 1 por el art. 10.4 de la Ley 7/2007, de 21 de diciembre. Ref. BOE-A-2008-4062.
+
+### Artículo 68
+
+Artículo 68. Revisión de los Planes de Ordenación Urbanística.
+1. Se entenderá por revisión de un plan general, la adopción de nuevos criterios que afecten a la totalidad del suelo del término municipal.
+2. La revisión de un Plan de Ordenación Urbanística en vigor supone el ejercicio de nuevo, en plenitud, de la potestad de planeamiento.
+3. El Plan General se revisaráen los plazos que en él se dispongan y cuando se produzcan los supuestos y las circunstancias que el mismo defina, asícomo siempre que se pretenda introducir en él alteraciones de los elementos de la ordenación estructurante que supongan modificación del modelo territorial adoptado. La revisión podráacometerse de una sola vez o por fases referidas a partes del término municipal, cuya ordenación sea susceptible de gestión, aplicación y ejecución autónomas. En este último caso, el primer proyecto que se elabore deberájustificar el procedimiento escogido, determinar las fases y describir el proceso a desarrollar para culminar la revisión.
+4. Sin perjuicio de lo dispuesto en el número anterior, cuando razones de urgencia exijan la adaptación de los Planes de Ordenación Urbanística a los de la ordenación del territorio o se hayan incumplido los plazos de revisión, el Gobierno de la Comunidad de Madrid, mediante Decreto adoptado a propuesta del Consejero competente en materia de ordenación urbanística y previo informe de la Comisión de Urbanismo y audiencia del o de los municipios afectados, podrádisponer el deber de proceder a la revisión bien del Plan General o Planes Generales vigentes, bien de otros concretos Planes, según proceda en atención a las circunstancias, fijando a los municipios plazos adecuados al efecto y para la adopción de cuantas medidas sean pertinentes, incluidas las de índole presupuestaria. El mero transcurso de los plazos asífijados sin que se haya llegado a iniciar el o los correspondientes procedimientos habilitaráa la Consejería competente en materia de ordenación urbanística para proceder a la elaboración de la revisión omitida, en sustitución de los municipios correspondientes por incumplimiento de sus deberes legales.
+5. Los restantes instrumentos de planeamiento se revisarán cuando las alteraciones que en ellos se pretendan introducir requieran la completa reconsideración de la ordenación por ellos establecida.
+6. Cualquier alteración de planeamiento que conlleve, por sí misma o en unión de las alteraciones aprobadas en los dos últimos años a contar desde la fecha de aprobación inicial de esta última, un incremento superior al 20 por 100 de la superficie conjunta de suelo urbano consolidado, suelo urbano no consolidado, suelo urbanizable sectorizado y suelo urbanizable no sectorizado o equivalente, supondrá el ejercicio pleno de la potestad de planeamiento a través de la necesaria revisión del planeamiento general.
+Se añade el apartado 6 por el art. 2.19 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifica el apartado 1 por el art. 12.4 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+
+### Artículo 69
+
+Artículo 69. Modificación de los Planes de Ordenación Urbanística.
+1. Toda alteración del contenido de los Planes de Ordenación Urbanística no subsumible en el artículo anterior supondrá y requerirá su modificación.
+2. Los Planes de Ordenación podrán modificarse en cualquier momento. Las modificaciones puntuales podrán variar tanto la clase como la categoría del suelo, en cuyo caso no requerirán de otro instrumento de planeamiento general.
+Cuando la alteración afecte a zonas verdes o espacios libres obtenidos, se exigirá el mantenimiento de la misma extensión y en condiciones topográficas similares en relación con el área homogénea, en el caso de las redes locales, o con el conjunto de término municipal, en el caso de las redes generales y supramunicipales, con el fin de mantener el adecuado estándar de calidad de vida urbana.
+Se modifica el apartado 2 y se suprime el 3 por el art. 2.20 y 21 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifica por el art. 5.14 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica el apartado 2 por el art. 12.5 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+
+### Artículo 69 bis
+
+Artículo 69 bis. Corrección de errores materiales.
+1. Las Administraciones públicas competentes, de oficio o a instancia de los interesados, podrán rectificar, en cualquier momento, los errores materiales, de hecho, o aritméticos existentes en sus instrumentos de planeamiento, sin necesidad de llevar a cabo un procedimiento de modificación.
+2. La aprobación de estas correcciones de error corresponderá al Pleno municipal. En los municipios con población de derecho inferior a 15.000 habitantes será necesario un informe preceptivo de la dirección general competente en materia de urbanismo, que se emitirá en un plazo no superior a tres meses y se referirá únicamente a cuestiones de estricta legalidad. En caso de no emitirse en el plazo establecido, se entenderá favorable.
+3. El acuerdo de la rectificación, así como el contenido normativo de la misma, con expresión concreta de los documentos anulados y los vigentes, deberán remitirse al Registro de Planes de la Comunidad de Madrid antes de publicarse en el “Boletín Oficial de la Comunidad de Madrid”, del modo establecido en los artículos 65 y 66.
+Se añade por el art. 5.15 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 70
+
+Artículo 70. Suspensión cautelar de los Planes de Ordenación Urbanística.
+1. El Gobierno de la Comunidad de Madrid en el caso de Planes Generales de municipios de más de 50.000 habitantes y el Consejero competente en materia de ordenación urbanística en los restantes supuestos podrán suspender cualquier Plan de Ordenación Urbanística en todo o parte de su contenido y ámbito territorial, previa audiencia del Municipio o municipios afectados, a fin de proceder a su revisión o modificación cuando la ejecución del mismo afecte negativamente al interés regional.
+2. El acuerdo de suspensión se adoptarápor el plazo y con los efectos señalados en el número 4 de este artículo y deberá ser publicado en el «Boletín Oficial de la Comunidad de Madrid» y en uno de los diarios de mayor circulación de la Región.
+En el mismo acuerdo de suspensión el Gobierno de la Comunidad de Madrid deberáestablecer un plazo para que se lleve a cabo la revisión o modificación del planeamiento afectado por la suspensión.
+3. En todo caso, en el plazo máximo de seis meses desde el acuerdo de suspensión, el órgano que dispuso la suspensión dictará las normas de ordenación aplicables transitoriamente en sustitución de las suspendidas. La aprobación de estas normas transitorias exigirála previa audiencia del Municipio o municipios afectados y el sometimiento a información pública. Reglamentariamente se determinaráel contenido de las normas de ordenación.
+4. A los efectos de la elaboración, formación, tramitación y aprobación de todo tipo de instrumentos de planeamiento urbanístico y de sus modificaciones o revisiones e incluso en la fase de avance de planeamiento, podrásuspenderse la realización de actos de uso del suelo, de construcción y edificación y de ejecución de actividades. La aprobación inicial de un proyecto de Plan de Ordenación Urbanística o de su modificación o revisión comportarádicha suspensión. El período de vigencia total, continua o discontinua, de la medida cautelar de suspensión con motivo de un mismo procedimiento de aprobación de un Plan de Ordenación Urbanística o de su modificación o revisión no podráexceder de un año. El expresado plazo seráampliable otro año cuando dentro de aquél se hubiere completado el período de información pública.
+No será posible acordar nuevas suspensiones en la misma zona por idéntica finalidad hasta que transcurrieren cinco años, contados a partir del término de la suspensión.
+
+## TÍTULO III
+
+Ejecución del Planeamiento
+
+## CAPÍTULO I
+
+Actividad de ejecución
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 71
+
+Artículo 71. Actividad de ejecución: Contenido y formas de desarrollo.
+1. La actividad de ejecución del planeamiento urbanístico comprende los procesos dirigidos a materializar sobre el terreno las determinaciones de los Planes de Ordenación Urbanística y, en especial, aquellos de urbanización y edificación de los terrenos, destinándolos efectivamente a los usos previstos o permitidos.
+2. La actividad de ejecución requiere, como presupuestos legales previos de la misma, la definición de la ordenación pormenorizada, de la modalidad de gestión urbanística y de los pertinentes instrumentos de ejecución material. Verificados tales requisitos, los procesos de ejecución del planeamiento comprenden:
+a) La distribución equitativa de los beneficios y cargas derivados de la ordenación urbanística entre los afectados o equidistribución.
+b) La obtención de terrenos, o su valor equivalente, a las Administraciones urbanísticas para redes públicas de infraestructuras, equipamientos y servicios, en la forma que corresponda a la modalidad de gestión urbanística.
+c) La cesión en terrenos o equivalente económico, de la parte del aprovechamiento que corresponda a la participación del Municipio en las plusvalías urbanísticas.
+d) La realización de las obras de urbanización necesarias para que todas las parcelas incluidas en el ámbito de que se trate alcancen la condición de solar.
+e) La edificación de los solares según las condiciones del planeamiento urbanístico.
+f) La implantación en cada solar o edificio de los usos permitidos o previstos en el planeaiento urbanístico.
+g) La conservación de las obras de urbanización y de la edificación.
+3. La actividad de ejecución del planeamiento se llevará cabo, atendiendo al régimen jurídico urbanístico de cada clase de suelo y, en su caso, a lo que disponga el Plan de Ordenación Urbanística, a través de actuaciones aisladas o de actuaciones integradas.
+Se modifica la letra c) del apartado 2 por el art. 15.5 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 72
+
+Artículo 72. Sujetos que intervienen.
+1. Corresponde a las Administraciones públicas, dentro de sus respectivos ámbitos de competencia:
+a) La dirección, inspección y control, en los términos de la presente Ley, de toda actividad de ejecución, sea pública o privada, a fin de asegurar que se produzca de conformidad con la ordenación del territorio y la urbanística, asícomo, en su caso, según los correspondientes instrumentos de gestión y ejecución.
+b) La ejecución propiamente dicha, sea a través de actuaciones aisladas o integradas, en aquellos supuestos en que asíle corresponda, bien por aplicación directa de la presente Ley, bien por haberse establecido un sistema de ejecución público.
+2. En los restantes supuestos las actividades de ejecución serán llevadas a cabo por los sujetos privados, sean o no propietarios de suelo, de acuerdo a los términos establecidos en la presente Ley.
+
+### Artículo 73
+
+Artículo 73. Incumplimiento de las obligaciones.
+1. Cuando la actividad de ejecución sea privada, el incumplimiento de las obligaciones correspondientes en los plazos previstos según la forma y sistema de ejecución, legitimaráel cambio del sistema de ejecución y, en su caso, la ejecución por sustitución, todo ello, sin perjuicio de la adopción por la Administración de las medidas disciplinarias que pudieran proceder.
+2. Los incumplimientos de las obligaciones de ejecución de la Administración darán lugar, a petición de los afectados, a las pertinentes compensaciones o indemnizaciones, de acuerdo a lo previsto en la Ley.
+
+## Sección 2
+
+Sección 2.ª Formas de gestión de la actividad pública
+
+### Artículo 74
+
+Artículo 74. Gestión propia y en régimen de cooperación.
+1. La Administración de la Comunidad de Madrid y los municipios podrán utilizar, para el desarrollo de la actividad de ejecución que sea de su respectiva competencia, todas las formas o modalidades de gestión admitidas por la legislación de régimen jurídico y de contratación de las Administraciones públicas y de régimen local.
+2. Para el desarrollo cooperativo de la actividad de ejecución, las Administraciones previstas en el número 1 de este artículo podrán, además:
+a) Constituir consorcios, atribuyendo a éstos competencias.
+b) Crear Mancomunidades de municipios para la gestión de servicios urbanísticos.
+c) Delegar competencias propias en otras Administraciones, organismos de ellas dependientes o entidades públicas por ellas fundadas o controladas.
+d) Utilizar órganos de otras Administraciones o de los organismos dependientes o adscritos a ellas para la realización de tareas precisas para el ejercicio de competencias propias.
+
+### Artículo 75
+
+Artículo 75. Sociedades urbanísticas.
+1. Las Administraciones a que se refiere el artículo anterior, las entidades públicas de ellas dependientes o a ellas adscritas y los consorcios por ellas creados podrán constituir sociedades mercantiles de capital íntegramente público o mixto con cualquiera de las finalidades siguientes:
+a) Redacción, gestión y ejecución del planeamiento.
+b) Consultoría y asistencia técnica.
+c) Prestación de servicios.
+d) Actividad urbanizadora, ejecución de equipamientos, gestión y explotación de las obras resultantes.
+2. En ningún caso podrán las sociedades urbanísticas a que se refiere el número anterior proceder directamente a la ejecución material de las obras.
+
+### Artículo 76
+
+Artículo 76. Consorcios urbanísticos.
+1. Son consorcios urbanísticos las entidades dotadas de personalidad propia, creadas mediante acuerdo o convenio de la Comunidad de Madrid y la Administración General del Estado o uno o varios municipios o por éstos entre sípara el desarrollo de la actividad urbanística y para la gestión y ejecución de obras y servicios públicos. A los consorcios podrán incorporarse personas privadas, cuando ello sea necesario para el cumplimiento de sus fines y previa suscripción de convenio en el que se especifiquen las bases de su participación. Ésta en ningún caso podráser mayoritaria, ni dar lugar a que las personas privadas controlen o tengan una posición dominante en el funcionamiento del consorcio.
+2. Los consorcios sólo podrán tener por objeto funciones y actividades que no excedan de la competencia de las Administraciones consorciadas.
+3. Para la gestión de los servicios que se les encomienden, los consorcios urbanísticos podrán utilizar cualquiera de las formas previstas en la legislación aplicable a las Administraciones consorciadas.
+4. Los consorcios se regirán por sus estatutos propios, que serán elaborados de común acuerdo por todas las Administraciones miembros y deberán ser aprobados por los órganos competentes de cada una de ellas, por la presente Ley y, supletoriamente, por la legislación sobre régimen jurídico de las Administraciones públicas y del procedimiento administrativo común. En todo caso, se aplicarán a los consorcios las siguientes reglas:
+a) Podrán tener patrimonio propio, constituido por todos los bienes que las Administraciones miembros aporten y los adquiridos con recursos propios.
+b) Tendrán presupuesto propio, en cuyo capítulo de ingresos deberáincluirse el rendimiento de la totalidad de sus recursos propios, que sólo podráaplicarse a los conceptos que figuren en el capítulo de gastos.
+c) Para la adjudicación de toda clase de contratos y la enajenación de bienes emplearán el procedimiento de concurso a resolver según criterios de capacidad técnica y solvencia económica y garantías de toda clase de cumplimiento exacto del planeamiento urbanístico, la urbanización y el destino de las parcelas o solares.
+d) Podrán ser beneficiarios de las expropiaciones que deban realizarse para la ejecución del planeamiento urbanístico, verificando las operaciones técnicojurídicas que las actuaciones expropiatorias requieran.
+5. La aprobación de los estatutos del consorcio determinará la atribución aéste de las competencias administrativas, pertenecientes a las Administraciones consorciadas, que en dichos estatutos se especifiquen, incluyendo la gestión de tasas y precios públicos y su percepción. En ningún caso podráatribuirse a los consorcios la competencia para establecer o determinar tributos, ni la potestad expropiatoria.
+6. La creación de los consorcios y sus estatutos se publicarán, para su eficacia, en el «Boletín Oficial de la Comunidad de Madrid».
+
+### Artículo 77
+
+Artículo 77. Delegación intersubjetiva de competencias.
+1. Toda delegación de competencias entre Administraciones habilitarápara el pleno ejercicio de éstas, mientras no se produzca la publicación de su revocación. La delegación precisará, para su eficacia, la publicación en el «Boletín Oficial de la Comunidad de Madrid».
+2. Podrán ser beneficiarios de delegaciones intersubjetivas, además de las Administraciones territoriales, los organismos autónomos por éstas creados y los consorcios.
+
+## CAPÍTULO II
+
+Presupuestos legales
+
+### Artículo 78
+
+Artículo 78. Ordenación pormenorizada.
+1. El desarrollo de la actividad de ejecución, cualquiera que sea el sujeto legitimado y el ámbito territorial, requerirá que se haya aprobado definitivamente el planeamiento urbanístico idóneo conforme a esta Ley para establecer la ordenación pormenorizada en la clase de suelo de que se trate.
+2. Los Planes de Ordenación Urbanística, al establecer la ordenación pormenorizada, fijarán plazos mínimos y máximos para:
+a) La ejecución en los sectores que prevean y, en su caso, en las diferentes unidades de ejecución en que éstos se dividan o puedan resultar divididas al definir la modalidad de gestión.
+b) La edificación de los solares y la rehabilitación y conservación de la edificación existente.
+Se suprime la letra a) y se reordenan las letras b) y c) del apartado 2 como a) y b) por el art. 15.6 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 79
+
+Artículo 79. Definición de la modalidad de gestión urbanística.
+1. Previamente al inicio de la actividad de ejecución, deberá definirse la modalidad de gestión urbanística, o el preciso conjunto de procedimientos a través de los cuales ha de llevarse a cabo la transformación del suelo.
+2. La ejecución del planeamiento se llevaráa cabo, por regla general, a través de actuaciones integradas. La definición de la modalidad de gestión de una actuación integrada consistiráen la delimitación de la unidad de ejecución y la fijación del sistema de ejecución, todo ello según lo establecido en el Capítulo IV de este Título.
+3. La ejecución del planeamiento podrállevarse a cabo mediante actuaciones aisladas exclusivamente con las siguientes finalidades:
+a) Para la obtención de suelo, urbanización, edificación y puesta en servicio de infraestructuras, equipamientos y servicios públicos de las Administraciones públicas ordenados a través del correspondiente Plan Especial.
+b) Para la ejecución de obras públicas ordinarias.
+c) Para la edificación en suelo urbano consolidado, incluso cuando se requieran obras accesorias de urbanización para dotar a las parcelas de la condición de solar, siempre que el planeamiento prevea su ejecución mediante dichas actuaciones.
+d) Para la realización de actuaciones de dotación incluso las que requieran de la equidistribución de cargas y beneficios.
+Se añade la letra d) al apartado 3 por el art. 2.22 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+
+### Artículo 80
+
+Artículo 80. Proyectos técnicos de ejecución material.
+1. Cuando la actividad de ejecución del planeamiento implique la realización de obras de urbanización, será necesaria la formulación y aprobación previa del correspondiente proyecto de urbanización, instrumento técnico que tiene por objeto el diseño y la organización de las obras precisas y necesarias para la ejecución material de:
+a) La ordenación pormenorizada establecida directamente por los Planes de Ordenación Urbanística en actuaciones integradas.
+b) Los elementos de las redes públicas de infraestructuras, equipamientos y servicios públicos de la ordenación estructurante en los Planes Generales y los Planes de Sectorización.
+2. Los proyectos de urbanización:
+a) No podrán contener determinaciones propias del planeamiento urbanístico, debiendo cumplir las previsiones y, en su caso, requerimientos que para ellos establezca dicho planeamiento y las normas reguladoras de las obras y los servicios mínimos de urbanización previstas en el artículo 97 de la presente Ley.
+b) Deberán estar autorizados por técnico con habilitación legal suficiente y definir las obras que comprendan con la precisión suficiente para ser llevadas a cabo bajo la dirección de técnico distinto del autor del proyecto de que se trate.
+c) Podrán ser formulados por cualquier persona, pública o privada, y se aprobarán por los municipios por el mismo procedimiento de aprobación de los Estudios de Detalle, salvo que se tramiten simultáneamente con el correspondiente planeamiento urbanístico o deban seguir el procedimiento prescrito para la aplicación del sistema de ejecución privada.
+3. La ejecución del planeamiento mediante actos de uso del suelo y actuaciones edificatorias requerirá, como presupuesto legal previo para su legitimidad, la formulación y aprobación administrativa previa del correspondiente proyecto técnico de obras de construcción, edificación, instalación o rehabilitación en los supuestos previstos en la presente Ley o, en otro caso, por autorización municipal obtenida conforme a lo dispuesto en ella.
+4. En todo caso, los proyectos técnicos a que se refiere el número anterior, según sea su objeto específico, cumplirán lo dispuesto en el Título IV de la presente Ley respecto a los actos de parcelación, uso del suelo y edificación.
+
+### Artículo 81
+
+Artículo 81. Legitimación.
+1. Los actos jurídicos y materiales de la actividad de ejecución del planeamiento en unidades de ejecución sólo podrán ser realizados por los sujetos públicos o privados legitimados para ello conforme a esta Ley.
+2. Los actos de edificación en solares y, en su caso, parcelas sólo podrán ser realizados por quienes sean titulares de la autorización o licencia urbanística pertinente, sin perjuicio de la legitimación que por razón de la titularidad de derechos al efecto sea precisa, además, conforme a la legislación civil.
+3. Cuando promueva actos de uso del suelo y edificación, la Comunidad de Madrid quedarálegitimada para su realización por la resolución que ponga fin al pertinente procedimiento conforme a esta Ley.
+
+## CAPÍTULO III
+
+Distribución equitativa de beneficios y cargas
+
+## Sección 1
+
+Sección 1.ª Equidistribución
+
+### Artículo 82
+
+Artículo 82. Concepto y formas.
+1. La equidistribución es aquella parte de la actividad de ejecución mediante la cual se produce, en los términos señalados en la presente Ley, el reparto de los aprovechamientos asignados por el planeamiento y la distribución equitativa de las cargas y beneficios derivados del mismo, entre los propietarios de suelo comprendidos en determinados ámbitos territoriales delimitados previamente.
+2. La equidistribución se produce siempre entre terrenos adscritos a la misma clase y categoría de suelo, materializándose diferenciadamente según cada modalidad de gestión urbanística, de acuerdo a las siguientes condiciones:
+a) Cuando la ejecución del planeamiento se lleve a cabo a través de actuaciones aisladas, la equidistribución se materializará, si procede, a través de reparcelación.
+b) Cuando la ejecución del planeamiento se lleve a cabo a través de actuaciones integradas, la equidistribución se materializará siempre respecto a la totalidad de los terrenos incluidos en la correspondiente unidad de ejecución a través del pertinente sistema de ejecución. En todo caso, si la unidad de ejecución se encontrara incluida en un área de reparto, previamente a la reparcelación interna se deberá proceder a materializar la equidistribución del aprovechamiento por referencia al área de reparto.
+Se modifica la letra b) del apartado 2 por el art. 15.7 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 83
+
+Artículo 83. Usos y destino de los derechos, bienes y valores derivados de la equidistribución.
+1. Los derechos, bienes y valores que obtenga la Administración urbanística derivados de procesos de equidistribución, sean de gestión por áreas de reparto o por unidades de ejecución, se integrarán en cada caso y en la proporción determinada por esta Ley, en los patrimonios públicos de suelo de los municipios correspondientes y de la Comunidad de Madrid, a efectos de su gestión para el cumplimiento de la equidistribución de beneficios y cargas.
+2. Los derechos, bienes y valores asíincorporados tendrán por finalidad la adquisición y urbanización de terrenos destinados por el planeamiento urbanístico a las redes de infraestructuras, equipamientos y servicios públicos, asícomo también la compensación económica, cuando proceda, a quienes resulten con defecto de aprovechamiento.
+3. Los derechos, bienes y valores asíincorporados a dichos patrimonios sólo podrán ser enajenados en la forma establecida en el artículo 178 de la presente Ley. Los ingresos, en su caso, derivados de la enajenación deberán ser destinados a los fines señalados en el número anterior.
+
+## Sección 2
+
+Sección 2.ª Áreas de reparto
+
+### Artículo 84
+
+Artículo 84. Concepto, delimitación y edificabilidades y aprovechamientos urbanísticos.
+1. Las áreas de reparto son los espacios físicojurídicos, territorialmente continuos o discontinuos, delimitados por los Planes Generales para el suelo urbanizable sectorizado, cuyo objeto es materializar la equidistribución de aprovechamientos entre las propiedades afectadas por cada actuación urbanística.
+2. Todo el suelo urbanizable sectorizado clasificado por el Plan General, integrado tanto por los sectores como por los suelos destinados a redes públicas exteriores a los mismos, conformarán una única área de reparto.
+3. Al área de reparto le corresponderáun determinado valor de aprovechamiento unitario de reparto, que serála referencia para la equidistribución de todas las actuaciones de ejecución incluidas en dicha área.
+El valor del aprovechamiento unitario de reparto seráel cociente de dividir la suma de los aprovechamientos urbanísticos totales de los usos globales de todos los sectores entre la superficie total del área de reparto.
+4. Al delimitar sectores en suelo urbanizable no sectorizado, el aprovechamiento unitario que establezca el Plan de Sectorización seráel del área de reparto delimitada por el Plan General para el suelo urbanizable sectorizado.
+
+### Artículo 85
+
+Artículo 85. Gestión por áreas de reparto en sectores de suelo urbanizable.
+1. Todo sector de suelo urbanizable sectorizado por el Plan General materializarála equidistribución respecto al área de reparto con base en las siguientes reglas:
+a) Si el aprovechamiento unitario es mayor que el aprovechamiento unitario de reparto del conjunto del suelo urbanizable sectorizado, habráde incorporarse a la actuación la superficie de terrenos de redes públicas necesaria para verificar la igualdad entre ambos valores. La incorporación de tales terrenos a la actuación podráconcretarse mediante las formas siguientes:
+1.ª Preferentemente mediante la cesión al Municipio y/o a la Comunidad de Madrid de terrenos que estén destinados en el planeamiento vigente a redes públicas generales y/o supramunicipales y que tengan la clasificación de suelo urbanizable.
+2.ª De resultar inviable o excesivamente complejo para el promotor la obtención de la superficie necesaria de terrenos urbanizables destinados a redes públicas, aquél podrásustituir la parte no satisfecha de la cesión mediante la entrega a la Administración correspondiente de su equivalente económico.
+b) Si el aprovechamiento unitario es igual al aprovechamiento unitario de reparto del conjunto del suelo urbanizable sectorizado, se consideraráque el sector cumple la exigencia de equidistribución respecto al área de reparto, pudiendo proceder al desarrollo interno de la pertinente unidad o unidades de ejecución.
+c) Si el aprovechamiento unitario es inferior al aprovechamiento unitario de reparto del conjunto del suelo urbanizable sectorizado, los promotores del sector podrán requerir del Municipio la contribución a los costes de urbanización en la cuantía económica equivalente al valor del defecto de aprovechamiento.
+2. Todo sector de suelo urbanizable delimitado a través de un Plan de Sectorización materializarásu equidistribución con base en las siguientes reglas:
+a) Si el cociente del aprovechamiento urbanístico total del sector entre la superficie conjunta del sector y los terrenos exteriores destinados a redes públicas calificados por el Plan de Sectorización, resulta mayor que el aprovechamiento unitario del área de reparto de suelo urbanizable sectorizado delimitada por el Plan General, habráde incorporarse a la actuación la superficie de terrenos de redes públicas necesaria para verificar la igualdad entre ambos valores. La incorporación de tales terrenos a la actuación podráconcretarse mediante las formas establecidas en el punto 1 de este artículo.
+b) Si el cociente del aprovechamiento urbanístico total del sector entre la superficie conjunta del sector y los terrenos exteriores destinados a redes públicas calificados por el Plan de Sectorización, es igual al aprovechamiento unitario del área de reparto delimitada por el Plan General, se consideraráque el nuevo sector cumple la exigencia de equidistribución mediante la cesión, a través del proceso reparcelatorio interno, de todos los terrenos con destino público vinculados al desarrollo de la actuación.
+
+### Artículo 85 bis
+
+Artículo 85 bis. Transferencias de aprovechamiento en suelo urbano consolidado.
+1. En suelo urbano consolidado, los propietarios de parcelas o solares pueden transferir parte de su aprovechamiento privativo a otras parcelas o solares que se encuentren dentro de la misma área homogénea, ámbito de actuación o les sea aplicable la misma ordenanza zonal de ordenación pormenorizada, sin necesidad de alterar el planeamiento urbanístico aplicable.
+2. Para que pueda realizarse la transferencia de aprovechamiento, el incremento de aprovechamiento que comporte a la parcela o solar, deberá ser compatible con los parámetros urbanísticos de la ordenanza zonal que le sea de aplicación a la parcela, sin que sea posible que alguna de las parcelas afectadas quede sin aprovechamiento urbanístico, debiéndose mantener las correspondientes condiciones de ornato.
+3. La transferencia de aprovechamiento será suscrita por los interesados en documento notarial, o certificación administrativa cuando proceda, al cual se le adjuntarán planos expresivos de la localización, dimensiones de las parcelas, aprovechamiento existente, aprovechamiento que se transfiere, así como todos aquellos datos que el ayuntamiento considere necesarios.
+4. La transferencia de aprovechamiento debe ser aprobada por el alcalde u órgano en quien delegue, previa comprobación del cumplimiento de los requisitos exigidos, tras lo cual se formalizará en escrita pública y se inscribirá en el registro de la propiedad, en los términos recogidos en la legislación estatal.
+5. En todos los municipios existirá un registro público de transferencias de aprovechamiento en los que se anotarán estas y se custodiará un ejemplar completo de la transferencia autorizada por el ayuntamiento.
+6. No se podrán conceder licencias o admitir declaraciones responsables para la ejecución de obras o implantación de actividades sobre la parcela o solar en la que se implante el incremento de aprovechamiento transferido, en tanto no se encuentre inscrita la transferencia de aprovechamiento en el registro de la propiedad y en el registro municipal de transferencias de aprovechamiento.
+Se añade por el art. 5.16 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+## Sección 3
+
+Sección 3.ª Reparcelación
+
+### Artículo 86
+
+Artículo 86. Determinaciones generales.
+1. Se entiende por reparcelación, la transformación con finalidad equidistributiva, de las fincas afectadas por una actuación urbanística y de los derechos sobre ellas, para adaptar unas y otros a las determinaciones del planeamiento urbanístico, aplicando el criterio de proporción directa de los valores aportados a la operación reparcelatoria.
+2. El suelo objeto de cualquier reparcelación será siempre una unidad de ejecución completa. Así pues, salvo que sea innecesaria, la delimitación de la unidad de ejecución coloca los terrenos incluidos en la misma en situación de reparcelación, con prohibición de otorgamiento de licencias de parcelación, edificación y cambio de uso hasta la firmeza en vía administrativa de la operación reparcelatoria, sin perjuicio de la posibilidad de su solicitud y tramitación desde el mismo momento en que la aprobación definitiva de la operación reparcelatoria tenga lugar. La reparcelación tiene por objeto la equidistribución interna de la unidad de ejecución. Por tanto, en los casos en que sí proceda, de forma simultánea a la delimitación de la unidad de ejecución deberá haberse resuelto la equidistribución de la misma respecto al área de reparto en que se incluya, de acuerdo a lo regulado en los artículos anteriores. En todo caso, la equidistribución previa respecto al área de reparto supondrá, cuando la unidad de ejecución resulte con exceso de aprovechamiento, alguno de los siguientes efectos a considerar en la reparcelación:
+a) Si la equidistribución exterior se ha alcanzado total o parcialmente asignando a la unidad de ejecución terrenos destinados a redes públicas supramunicipales o generales, tales fincas habrán de formar parte del proyecto de reparcelación e integrarse en la unidad de ejecución.
+b) Si la equidistribución exterior se ha alcanzado total o parcialmente mediante la determinación de un valor económico que debe abonarse a la Administración, tal cuantía habrá de considerarse como una carga a ser distribuida internamente a través de la reparcelación entre todas las fincas de la unidad de ejecución.
+3. Procederála reparcelación, con la consiguiente delimitación de la unidad de ejecución correspondiente, para alcanzar cualquiera de las siguientes finalidades:
+a) La regularización de las fincas existentes.
+b) La distribución equitativa entre los incluidos en la unidad de ejecución de los beneficios y las cargas derivados de la ordenación urbanística y de su ejecución.
+c) La localización de la edificabilidad en suelo apto para la edificación conforme al planeamiento.
+d) La adjudicación a la Administración urbanística de los terrenos de cesión a título gratuito y, en su caso, de fincas resultantes constitutivas de parcelas o solares.
+e) La adjudicación de fincas resultantes, constitutivas de parcelas o solares, a intervinientes en la ejecución del planeamiento en la correspondiente unidad de ejecución y en función de su participación en la misma de acuerdo con el sistema de ejecución aplicado.
+f) La subrogación en el patrimonio de los propietarios, en su caso forzosa y en función de los derechos de éstos, de las fincas iniciales por fincas resultantes de la ejecución, constitutivas de parcelas o solares, o por su valor económico sustitutorio.
+4. No obstante, en las actuaciones aisladas o integradas cuya ejecución corresponde a un único sujeto, para alcanzar alguna o varias de las finalidades del número anterior podrásustituirse la reparcelación por un convenio entre aquél y la Administración actuante.
+5. La reparcelación podrállevarse a cabo de forma voluntaria o forzosa. Si bien la reparcelación voluntaria gozará de preferencia, será forzosa cuando el Municipio la imponga, de oficio o a instancia de parte, por ser necesaria para la ejecución del planeamiento con arreglo al sistema de ejecución aplicado. En todo caso, el carácter voluntario o forzoso de la reparcelación no enerva la obligación de cumplimiento de la equitativa distribución de beneficios y cargas en el interior de la correspondiente unidad de ejecución.
+Se modifica el apartado 2 por el art. 2.23 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Ténganse en cuenta las disposiciones transitorias 1 y 2 para la aplicación de la modificación.
+ Se modifica el apartado 2 por el art. 15.8 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 87
+
+Artículo 87. Criterios.
+1. Los proyectos de reparcelación deberán ajustarse a los siguientes criterios:
+a) Para la valoración de los bienes y derechos aportados se aplicarán, en defecto de los voluntariamente establecidos por la mayoría de los afectados, los criterios previstos por la legislación general pertinente.
+b) Los criterios voluntariamente establecidos no podrán ser contrarios a la ley o a la ordenación urbanística aplicable, en especial el principio de distribución equitativa de beneficios y cargas, ni lesivos de derechos de terceros o del interés público.
+c) La edificabilidad materializable en cada finca resultante, constitutiva de parcela o solar, habrá de ser proporcional al derecho o derechos de los adjudicatarios en función de sus aportaciones a la gestión y ejecución del planeamiento.
+d) Las fincas resultantes se valorarán con criterios objetivos y generales para toda la unidad de ejecución con arreglo a edificabilidad y, en su caso, uso, en función de su situación, características, grado de urbanización y destino de las edificaciones.
+e) Se procurará, siempre que sea posible, que las fincas adjudicadas estén situadas en un lugar próximo al de las antiguas propiedades de los mismos titulares.
+f) Cuando la cuantía del derecho de un beneficiario de la reparcelación no alcance ni supere la necesaria para la adjudicación de una o varias fincas resultantes como tales fincas independientes, el defecto o el exceso en la adjudicación podrán satisfacerse en dinero.
+g) La adjudicación se producirá en todo caso en exceso cuando se trate de mantener la situación del propietario de finca en la que existan construcciones compatibles con el planeamiento en ejecución.
+h) Será indemnizable el valor de las plantaciones, instalaciones, construcciones y usos existentes en los terrenos originarios que tengan que desaparecer necesariamente para llevar a cabo la ejecución del planeamiento.
+2. La adjudicación de fincas se producirá, con arreglo a los criterios señalados en el número anterior, en cualquiera de los siguientes términos:
+a) La superficie precisa para servir de soporte a la entera edificabilidad o que cubra su valor de indemnización sustitutoria a que tenga derecho el propietario, quedando aquélla afecta al pago de los gastos de urbanización según lo dispuesto en la normativa hipotecaria y el número siguiente.
+b) La superficie precisa para servir de soporte a la parte de la edificabilidad o del valor correspondiente al propietario que reste una vez deducida la correspondiente al valor de las cargas de urbanización.
+3. En relación con la afección de las fincas resultantes al pago de los gastos de urbanización serán de aplicación las siguientes reglas:
+a) Las fincas resultantes que deban responder del pago de los gastos de urbanización quedarán afectas con carácter real y en los términos previstos en la normativa hipotecaria al pago del saldo de la liquidación definitiva de la cuenta del proyecto de reparcelación aprobado.
+b) Una vez aprobado el proyecto de reparcelación de un ámbito o sector en el que, conforme a lo previsto en el apartado tercero del artículo 99 de esta ley, estén previstas varias fases o unidades funcionales independientes, el titular registral del dominio o de un derecho real sobre cualquier finca de resultado de dicho ámbito o sector podrá solicitar la reducción del importe que corresponda a la misma en el saldo de la cuenta de liquidación provisional de la reparcelación que conste en el Registro.
+c) La Administración actuante autorizará dicha reducción previa verificación del cumplimiento de los siguientes requisitos:
+1.º Que haya tenido lugar la recepción de las obras de urbanización de cualquiera de las fases o unidades funcionales.
+2º Que el titular de la finca a la que se refiere la solicitud haya satisfecho íntegramente el importe imputable a la misma en los gastos correspondientes a la fase o unidad funcional terminada y recibida. Dicho importe deberá coincidir con la cantidad en la que se pretenda minorar el saldo de la cuenta de liquidación provisional, manteniéndose la afección real de la finca a la cuenta de liquidación definitiva del resto de obras y deberes no recepcionados del proyecto de reparcelación, en su respectiva cuota.
+d) La autorización de la reducción no implicará la necesidad de tramitar una modificación del proyecto de reparcelación o una operación jurídica complementaria y se entiende sin perjuicio del cumplimiento del resto de deberes y obligaciones imputables a los propietarios. La certificación expedida por el órgano actuante de la que resulte la autorización y que exprese haber sido recibida la obra de urbanización de la fase o unidad funcional independiente de que se trate, así como el importe de la reducción, será remitida al Registro de la propiedad. Dicho importe habrá de coincidir con la parte de los gastos de urbanización de la fase o unidad funcional independiente que resulte imputable a la finca correspondiente según la cuota que se le atribuya registralmente en el pago de la liquidación definitiva, manteniéndose la afección real de la finca a la cuenta de liquidación definitiva del resto de obras y deberes no recepcionados del proyecto de reparcelación en su respectiva cuota, cualquiera que sea el resultado de dicha reducción que se haga constar en el Registro.
+Cuando se actúe a través del sistema de compensación se acompañará certificación de la Junta de Compensación acreditativa del pago del importe imputable a la finca correspondiente según lo dispuesto en el párrafo anterior.
+e) Con iguales requisitos podrá aprobarse la reducción y cancelación parcial de la garantía que, en su caso, se hubiera constituido para sustituir la afección real.
+Se modifica por el art. 2.24 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+
+### Artículo 88
+
+Artículo 88. Procedimiento.
+1. El procedimiento de aprobación de la reparcelación, que se iniciaráde oficio o a instancia de interesado y sobre la base de la documentación técnica necesaria, se ajustará las siguientes reglas:
+1.ª Información pública por plazo mínimo de veinte días.
+2.ª Acreditación de la titularidad y situación de las fincas iniciales mediante certificación del Registro de la Propiedad de dominio y cargas.
+3.ª Audiencia por plazo de quince días, sin necesidad de nueva información pública, de los titulares registrales no tenidos en cuenta en la elaboración del proyecto de reparcelación y aquéllos que resulten afectados por modificaciones acordadas tras el período de información pública.
+4.ª Aprobación, cuando sea a iniciativa privada, dentro del plazo máximo de dos meses desde la presentación de la totalidad de la documentación exigible o, en su caso, desde el efectivo cumplimiento, del único requerimiento posible de subsanación de deficiencias de la aportada, que sólo podrápracticarse dentro de los quince días siguientes al de aquella presentación. La no notificación de resolución expresa dentro del indicado plazo máximo autorizarápara entenderla aprobada por acto presunto, debiendo abstenerse la Administración de cualquier pronunciamiento expreso, distinto del confirmatorio del presunto, una vez producido éste.
+2. En las reparcelaciones voluntarias, recaída la aprobación municipal o producida por silencio administrativo, para la inscripción de la reparcelación en el Registro de la Propiedad bastará con la presentación enéste de la escritura pública en unión de certificación del acuerdo municipal aprobatorio o, en su caso, de la acreditación del acto presunto en los términos dispuestos por la legislación de Régimen Jurídico de las Administraciones Públicas.
+3. Las adjudicaciones de terrenos y las indemnizaciones sustitutorias a que dé lugar la reparcelación gozarán, cuando se efectúen en favor de los propietarios o titulares de otros derechos comprendidos en la unidad de ejecución correspondiente, de las exenciones y bonificaciones fiscales en los impuestos que graven, por cualquier concepto, los actos documentados y las transmisiones patrimoniales, previstas o autorizadas por Ley.
+
+### Artículo 89
+
+Artículo 89. Reparcelación económica.
+1. La reparcelación podrá ser económica en los siguientes supuestos:
+a) Cuando las circunstancias de edificación, construcción o de índole similar concurrentes en la unidad de ejecución hagan impracticable o de muy difícil realización la reparcelación material en todo o en al menos el 20 por 100 de la superficie total de aquélla.
+b) Cuando aun no concurriendo las circunstancias a que se refiere la letra anterior, así lo acepten los propietarios que representen el 50 por 100 de la superficie total de la unidad de ejecución.
+2. La reparcelación económica se limitará a establecer las indemnizaciones sustitutorias con las rectificaciones correspondientes en la configuración y linderos de las fincas iniciales y las adjudicaciones que procedan en favor de sus beneficiarios, incluida la Administración urbanística, así como, en el supuesto previsto en la letra a) del número anterior, a redistribuir los terrenos en que no concurran las circunstancias justificativas de su carácter económico.
+
+## Sección 4
+
+Sección 4.ª Obtención y ejecución de las redes públicas
+
+### Artículo 90
+
+Artículo 90. Condiciones generales respecto a la obtención de suelo público.
+Los terrenos que el planeamiento urbanístico destine y reserve a elementos integrantes de las redes públicas de infraestructuras, equipamientos y servicios pasarán a titularidad pública por alguno de los siguientes procedimientos:
+a) Mediante cesión libre, gratuita y, en su caso, urbanizada, sólo cuando formen parte de un ámbito de actuación, de un sector o unidad de ejecución y según lo dispuesto en el artículo siguiente.
+b) Mediante ocupación directa.
+c) Mediante permuta forzosa, expropiación o cualquier otra forma de adquisición de la propiedad por la Administración actuante.
+
+### Artículo 91
+
+Artículo 91. Obtención de los terrenos destinados para las redes públicas en actuaciones integradas.
+1. El suelo que el Plan General, en cumplimiento de lo dispuesto en el número 6 del artículo 36 de la presente Ley, haya reservado para redes públicas locales en cada ámbito o sector, y/o unidades de ejecución en que se puedan dividir, deberá ser cedido gratuitamente al Municipio, libre de cargas y urbanizado.
+2. Además de las cesiones de suelo para redes locales, todo ámbito o sector, y/o unidades de ejecución en que se puedan dividir, debe contribuir a las externalidades del sistema integrado de redes generales de infraestructuras, equipamientos y servicios públicos, y en el suelo urbanizable, además,de redes supramunicipales, debiendo ceder con tal objetivo la correspondiente superficie de suelo.
+3. Los suelos integrantes de las redes supramunicipales cedidos a la Comunidad de Madrid tendrán la condición de bienes patrimoniales salvo que una Ley les otorgue expresamente el carácter de bienes de dominio público.
+4. Para el sistema de redes públicas generales, deberán cederse al Municipio, gratuitamente y libres de cargas, terrenos en la cuantía establecida en el número 5 del artículo 36.
+Para cumplir tal cesión, en suelo urbanizable, se respetarán, en su caso, las siguientes reglas:
+a) Si la cuantía de redes públicas generales exige más suelos que los adscritos al sector o unidades de ejecución en que se divida, la cesión se materializará preferentemente en terrenos reservados por el Plan General con ese destino en otro sector excedente. De resultar inviable o excesivamente compleja la obtención de la superficie necesaria de terrenos en tales condiciones, se podrá sustituir la parte no satisfecha de la cesión mediante la entrega al Municipio de su valor económico.
+b) Si en el interior del sector o unidad de ejecución el Plan General localiza suelos con destino a redes públicas generales cuya cesión resulta obligatoria, con superficie superior a la que determina el deber de cesión y no se produce la compensación establecida en el apartado a) anterior, los promotores podrán requerir del Municipio la contribución a los costes de urbanización en la cuantía equivalente al valor del exceso de la superficie dotacional a ceder.
+5. Cuando las cesiones a que se refiere los tres números anteriores se hubieran sustituido, total o parcialmente, por el pago de su equivalente económico, las Administraciones destinarán tales ingresos a la adquisición de los suelos correspondientes destinados por el planeamiento a redes públicas supramunicipales y generales. La adquisición efectiva de los mismos deberá realizarse antes de tres años del cumplimiento de la obligación de cesión, debiéndose notificar a los cedentes la localización exacta de los suelos obtenidos.
+6. Los terrenos destinados por el planeamiento urbanístico a edificaciones o instalaciones para las redes públicas tendrán carácter dotacional, por lo que no serán tenidos en cuenta a efectos del cálculo de los aprovechamientos lucrativos.
+Se modifica el apartado 3.bis, se suprime el apartado 3 y se renumera el 3 bis como 3 por el art. 12.6 y 8 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+ Se añade el apartado 3 bis por el art. 14.2 de la Ley 10/2009, de 23 de diciembre. Ref. BOE-A-2010-4183.
+ Se modifica el apartado 3 por el art. 10.5 de la Ley 7/2007, de 21 de diciembre. Ref. BOE-A-2008-4062.
+ Se modifica los apartados 1, 2 y 5 por el art. 15.9 y 9 bis de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 92
+
+Artículo 92. Ocupación directa para la obtención de terrenos destinados para las redes públicas.
+1. Se entiende por ocupación directa la obtención de terrenos destinados por el planeamiento a redes públicas de infraestructuras, equipamientos y servicios públicos, mediante el reconocimiento a su titular del derecho a integrarse en un ámbito de actuación, sector o unidad de ejecución en el que el aprovechamiento urbanístico total permitido por el planeamiento exceda del aprovechamiento que corresponda a sus propietarios.
+2. La ocupación directa requiere que esté aprobada la ordenación pormenorizada, tanto de los terrenos a ocupar, con determinación del aprovechamiento que corresponda a su propietario, como del sector o unidad de ejecución en la que haya de integrarse.
+3. El procedimiento de ocupación directa se ajustará a las siguientes reglas:
+a) Será preceptiva la publicación de la relación de los terrenos y propietarios afectados, con indicación de los aprovechamientos urbanísticos correspondientes a cada uno de éstos y sector o unidad de ejecución donde habrán de hacerse efectivos sus derechos.
+b) La relación señalada en el apartado anterior deberá ser notificada a los propietarios afectados, comunicando la ocupación prevista.
+c) En el momento de la ocupación se levantará acta en la que se hará constar:
+1.º Lugar y fecha de otorgamiento.
+2.º Administración actuante.
+3.º Identificación de los titulares de los terrenos ocupados y situación registral de éstos.
+4.º Superficie ocupada.
+5.º Aprovechamientos urbanísticos que correspondan.
+6.º Sector o unidad de ejecución donde habrán de hacerse efectivos los aprovechamientos.
+d) Los propietarios afectados tendrán derecho a la expedición de certificación administrativa, acreditativa de todos los extremos del acta, que producirá los efectos propios de la reparcelación.
+e) Cuando los propietarios fueran desconocidos, no comparecientes, incapacitados sin representación o cuando se trate de propiedades litigiosas, las actuaciones se llevarán a cabo con el Ministerio Fiscal.
+f) La Administración actuante remitirá al Registro de la Propiedad certificación de acta levantada a los efectos de la práctica de las inscripciones procedentes.
+
+### Artículo 93
+
+Artículo 93. Permuta forzosa de los terrenos destinados para las redes públicas.
+1. Los terrenos destinados a redes públicas de infraestructuras, equipamientos y servicios públicos podrán obtenerse mediante permuta forzosa con terrenos pertenecientes a un patrimonio público de suelo que se encuentre incluido en el ámbito de actuación o área de reparto y que sea de características adecuadas para servir de soporte al aprovechamiento urbanístico que corresponda subjetivamente a su propietario, salvo que por éste se acepte voluntariamente la entrega de terrenos que no cumplan este requisito.
+2. La permuta forzosa de terrenos requiere que previamente se haya determinado:
+a) El aprovechamiento urbanístico que corresponda al propietario afectado.
+b) Los terrenos pertenecientes al patrimonio público de suelo que van a ser permutados.
+c) De no poder ser materializada la totalidad del aprovechamiento, la indemnización a satisfacer en metálico por la parte de aprovechamiento no materializable en ellos.
+3. La permuta forzosa de terrenos se llevará a cabo por el procedimiento previsto en el artículo anterior, debiendo incluirse en el acta los terrenos del patrimonio público de suelo objeto de la permuta y, en su caso, la indemnización complementaria y el momento de su abono.
+
+### Artículo 94
+
+Artículo 94. Expropiación de los terrenos destinados para las redes públicas.
+1. Cuando proceda, la expropiación del suelo destinado a redes públicas de infraestructuras, equipamientos y servicios públicos deberá tener lugar dentro de los cinco años siguientes a la aprobación del planeamiento urbanístico que legitime la actividad de ejecución.
+2. Transcurrido el plazo previsto en el número anterior sin que la expropiación haya tenido lugar, el propietario afectado o sus causahabientes podrán interesar de la Administración competente la incoación del procedimiento expropiatorio. Si un año después de dicha solicitud la incoación no se hubiera producido, se entenderá iniciado el procedimiento por ministerio de la Ley, pudiendo el propietario o sus causahabientes dirigirse directamente al Jurado Territorial de Expropiación a los efectos de la determinación definitiva del justiprecio.
+
+### Artículo 95
+
+Artículo 95. Ejecución de las redes públicas.
+1. Será obligación de los propietarios y/o promotores de cada ámbito de actuación, sector o unidad de ejecución costear y, en su caso, ejecutar la urbanización de todos los suelos destinados por el planeamiento a redes públicas de infraestructuras, equipamientos y servicios y que sean objeto de cesión obligatoria. A tales efectos, el deber de urbanizar comprenderá todas las obras señaladas en el artículo 97 de la presente Ley.
+2. No obstante lo dispuesto en el número anterior, la Administración competente, cuando así convenga para la funcionalidad de la red de que se trate, podrá ejecutar directamente las obras de urbanización sobre los correspondientes suelos de cesión. La ejecución directa por la Administración no eximirá, en todo caso, a los propietarios y/o promotores de la obligación de costear las obras.
+3. Las obras correspondientes a la urbanización de suelos destinados a redes públicas que no se obtengan en el contexto de actuaciones integradas se realizarán por la Administración en cada caso competente, conforme a las determinaciones sustantivas, temporales y de gestión del planeamiento urbanístico.
+4. La ejecución de las obras de edificación así como aquellas otras que excedan de los límites de la urbanización en los suelos destinados a redes públicas serán siempre a cargo de la Administración competente, independientemente de la forma en que se hayan obtenido los terrenos.
+
+## Sección 5
+
+Sección 5.ª Cesión de la participación de la comunidad en las plusvalías
+
+### Artículo 96
+
+Artículo 96. Cesión de la participación de la comunidad en las plusvalías del planeamiento.
+1. En los ámbitos de actuación, sectores o unidades de ejecución, como parte de la actividad de ejecución, habrá de cederse al Municipio libre y gratuitamente, terrenos urbanizados en los que se materialice la participación de la comunidad en las plusvalías generadas por el planeamiento urbanístico.
+2. Tales terrenos tendrán las dimensiones y condiciones de ordenación adecuadas para albergar el 10 por 100 del producto del coeficiente de edificabilidad o del aprovechamiento unitario del área de reparto por la superficie del sector o unidad de ejecución correspondiente, según proceda, y se cederán en los términos que resulten de la gestión del sistema de ejecución.
+3. Cuando no sea posible, previa aceptación de la Administración municipal, podrá sustituirse la cesión en terrenos edificables por su equivalente económico. En todo caso, el suelo cedido o su equivalente económico quedarán incorporados al patrimonio municipal de suelo.
+
+## Sección 6
+
+Sección 6.ª Obras y cargas de urbanización
+
+### Artículo 97
+
+Artículo 97. Obras y cargas de urbanización.
+1. La ejecución del planeamiento urbanístico en un ámbito de actuación, sector o unidad de ejecución o de una actuación edificatoria que implique obras accesorias de urbanización impone legalmente a la propiedad del suelo, con carácter real, el deber de sufragar a su cargo los costes de las obras de urbanización.
+2. Formarán parte de las obras de urbanización los siguientes conceptos:
+a) Obras de vialidad, incluyéndose en ellas las de explanación, afirmado y pavimentación de calzadas, construcción y encintado de aceras y canalizaciones que deban construirse en el subsuelo de las vías públicas para todo tipo de servicios.
+b) Obras de saneamiento, que comprenden las relativas a colectores generales y parciales, acometidas, sumideros y a tarjeas para aguas pluviales y estaciones depuradoras, en la proporción que afecte a la unidad de ejecución.
+c) Obras para el suministro de agua, en las que se incluyen las de captación cuando fueran necesarias, de distribución domiciliaria de agua potable, de riego y de hidrantes contra incendios.
+d) Obras de suministro de energía eléctrica, comprensivas de la conducción y la distribución de ésta, de alumbrado público y demás servicios requeridos por el planeamiento urbanístico.
+e) Obras de jardinería y arbolado, así como de amueblamiento necesario para el uso y disfrute de parques, jardines, plazas y vías públicas.
+f) Las indemnizaciones que procedan en favor de propietarios o titulares de derechos, incluidos los de arrendamiento, referidos a edificios y construcciones que deban ser demolidos con motivo de la ejecución del planeamiento, así como de plantaciones, obras e instalaciones que deban desaparecer por resultar incompatibles con éste.
+g) En su caso, las obras de infraestructura y servicios exteriores a la unidad de actuación que sean precisas.
+h) El coste de la redacción técnica y los anuncios preceptivos en la tramitación administrativa del planeamiento de desarrollo preciso para la ordenación pormenorizada y del proyecto o proyectos de urbanización.
+i) Los gastos de reparcelación o compensación y de gestión del sistema de ejecución.
+j) Los gastos de control de calidad de la urbanización.
+k) Cualesquiera otros expresamente asumidos.
+3. Los propietarios y las restantes personas que asuman la realización de la urbanización tienen derecho a resarcirse, con cargo a las entidades concesionarias o prestadoras de los correspondientes servicios, de los gastos correspondientes a las obras precisas para el primer establecimiento y el mantenimiento de los servicios de abastecimiento de agua potable, suministro de energía eléctrica y, en su caso, de telecomunicaciones, en la parte que, conforme a la reglamentación o las condiciones de prestación de éstos no deba ser asumida por los usuarios.
+4. Las obras de urbanización correspondientes a cada actuación se definirán detalladamente y se valorarán económicamente en el correspondiente proyecto de urbanización. En el caso de que se realicen en el marco de actuaciones integradas, el coste total de las mismas se distribuirá en el proceso de equidistribución del correspondiente ámbito de actuación, sector o unidad de ejecución mediante el proyecto de reparcelación.
+
+### Artículo 97 bis
+
+Artículo 97 bis. Redes públicas comunes a varios ámbitos de actuación o sectores.
+1. Cuando el desarrollo de varias actuaciones integradas requiera la ejecución de una o varias redes públicas que, formando parte de las obras de urbanización, presten servicio a más de una actuación integrada, el planeamiento urbanístico las definirá como redes comunes y establecerá los criterios de imputación del coste de ejecución que corresponda a cada ámbito de actuación o sector de conformidad con el principio de equidistribución.
+2. Los propietarios de los ámbitos de actuación y sectores que cuenten con redes públicas comunes podrán constituir una entidad urbanística colaboradora para su gestión y ejecución coordinada cuyos estatutos contendrán, al menos, las siguientes circunstancias:
+a) Los criterios de redacción de los proyectos de obras de redes comunes para su integración en los proyectos de urbanización de los ámbitos de actuación o sectores afectados.
+b) Las previsiones para la ejecución de las redes comunes en coordinación con las obras de urbanización propias de cada ámbito de actuación o sector afectado.
+c) La concreción de los criterios de imputación de los costes de ejecución de las redes comunes a los distintos ámbitos de actuación o sectores de acuerdo con lo previsto en el planeamiento urbanístico.
+d) Los criterios de corrección de los posibles desajustes entre ámbitos de actuación o sectores afectados por razón del emplazamiento u orden de ejecución de las redes públicas comunes.
+e) Las previsiones relativas al pago de los gastos de urbanización relacionados con las redes públicas comunes, incluyendo su posible anticipo y la exigencia de la vía de apremio en caso de impago.
+3. Cuando las redes públicas comunes afecten a actuaciones que tengan fijado el sistema de compensación, la entidad urbanística colaboradora quedará integrada por las respectivas Juntas de Compensación o, en los ámbitos de actuación o sectores en los que no estuvieran constituidas, por el representante de los propietarios que reúnan al menos el 50 por 100 de la superficie de cada uno de ellos.
+4. En lo no previsto en este artículo, la entidad urbanística colaboradora se regirá por lo dispuesto en sus estatutos y en las normas reguladoras de las entidades propias de los ámbitos de actuación o sectores afectados en cuanto resulten de aplicación.
+Se añade por el art. 5.16 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+## CAPÍTULO IV
+
+Gestión mediante unidades de ejecución
+
+## Sección 1
+
+Sección 1.ª Unidades de ejecución
+
+### Artículo 98
+
+Artículo 98. Disposiciones básicas.
+1. Las unidades de ejecución comprenden los suelos acotados en el interior de los ámbitos de actuación o sectores que se delimitan para llevar a cabo la actividad de ejecución del planeamiento bajo la modalidad de actuación integrada.
+2. Se exceptúan de la regla del número anterior exclusivamente las siguientes actuaciones:
+a) La ejecución de Planes Especiales de redes de infraestructuras, equipamientos y servicios públicos de la Comunidad de Madrid.
+b) Las de ejecución de obras públicas ordinarias, previstas en el artículo 130 de la presente ley.
+c) Las actuaciones edificatorias en el suelo urbano consolidado, incluso cuando impliquen la realización de obras accesorias de urbanización para dotar a las parcelas de la condición de solar, siempre que el planeamiento urbanístico prevea su ejecución mediante dichas actuaciones.
+d) La ejecución de los ámbitos de actuación y de los sectores cuando exista una única unidad de ejecución.
+e) Las actuaciones de dotación en suelo urbano consolidado, lleven o no aparejada la equidistribución de cargas y beneficios.
+Se modifica por el art. 2.25 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+
+### Artículo 99
+
+Artículo 99. Requisitos.
+1. La delimitación de unidades de ejecución comprende las siguientes determinaciones:
+a) El señalamiento preciso del perímetro correspondiente, de forma que se defina inequívocamente el suelo que queda sometido a la actividad de ejecución bajo la modalidad de actuación integrada.
+b) La elección del sistema de ejecución mediante el cual ha de llevarse a cabo la actividad de ejecución del planeamiento.
+2. Todo suelo delimitado como unidad de ejecución cumplirá los siguientes requisitos:
+a) Formará un espacio cerrado continuo o discontinuo.
+b) Todos los terrenos pertenecerán al mismo ámbito de actuación o al mismo sector.
+c) En caso de existir más de una unidad de ejecución en un mismo ámbito de actuación o sector, la diferencia entre los aprovechamientos unitarios derivados de la ordenación entre cada una de ellas no podrá ser superior al 15 por 100.
+d) Asegurará su idoneidad técnica y viabilidad económica, así como su capacidad para garantizar el realojo de los ocupantes legítimos de inmuebles que tengan derecho legalmente al mismo.
+3. Las unidades de ejecución podrán ser desarrolladas por fases o unidades funcionales independientes, siempre que sea posible justificar técnicamente que son capaces de prestar el uso al que van destinadas y permitan la prestación de los servicios públicos de forma autónoma e independiente. Si la ejecución por fases o unidades funcionales de una unidad de ejecución, no estuviera prevista en el planeamiento o en el Proyecto de Urbanización, el Ayuntamiento deberá mostrar su conformidad con esta forma de desarrollo mediante la firma entre el Ayuntamiento y los propietarios de convenio urbanístico de gestión. Los plazos que se establezcan para el desarrollo por fases o unidades funcionales, no podrán superar el plazo máximo que tenga la unidad de ejecución para su gestión y ejecución completa.
+Se añade el apartado 3 por el art. 1 de la Ley 2/2018, de 4 de mayo. Ref. BOE-A-2018-11068
+ Se modifica la letra b) del apartado 1 por el art. 15.10 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 100
+
+Artículo 100. Delimitación.
+1. La delimitación de las unidades de ejecución es el acto administrativo a partir del cual se considera el inicio de la actividad de ejecución en la modalidad de actuación integrada.
+2. Cuando no se contenga directamente en el planeamiento urbanístico, la delimitación de las unidades de ejecución y su modificación, incluso de la establecida directamente por el planeamiento, se acordará por los municipios, de oficio o a instancia de parte interesada, previos los trámites de aprobación inicial, notificación personal a los propietarios y titulares de derechos afectados e información pública por veinte días. El plazo máximo para resolver los procedimientos iniciados a instancia de parte será de cuatro meses, transcurridos el cual podrá entenderse desestimada la solicitud.
+3. El acuerdo de aprobación definitiva de la delimitación de las unidades de ejecución y de su modificación deberá publicarse, para su eficacia, en el «Boletín Oficial de la Comunidad de Madrid».
+
+## Sección 2
+
+Sección 2.ª Sistemas de ejecución
+
+### Artículo 101
+
+Artículo 101. Sistemas de ejecución.
+1. Para cada ámbito de actuación, sector o unidad de ejecución, el planeamiento urbanístico deberá optar expresamente, para el desarrollo de la actividad de ejecución, entre los sistemas de ejecución privada y pública, especificando el sistema elegido. Si el planeamiento no hubiera expresado el sistema de ejecución elegido, se llevará a cabo por la Administración al resolver sobre la delimitación de la correspondiente unidad de ejecución.
+2. La ejecución privada del planeamiento en actuaciones integradas se llevará a cabo por el sistema de Compensación.
+3. La ejecución pública del planeamiento en actuaciones integradas, salvo que deba tener por objeto sólo obras públicas ordinarias, se llevará acabo por alguno de los sistemas siguientes:
+a) Cooperación.
+b) Expropiación.
+c) Ejecución forzosa.
+4. Los propietarios de suelo, podrán participar en todo caso, en la gestión de los diferentes sistemas, mediante la constitución de entidades, cuya naturaleza y funciones se determinarán reglamentariamente.
+Se modifica el apartado 3 por el art. 15.11 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 102
+
+Artículo 102. Elección del sistema.
+a) La elección del sistema de actuación se efectuará por la Administración actuante entre los diferentes previstos en la presente Ley, en coherencia con su política urbanística.
+b) La Administración actuante para determinar el sistema que deba aplicarse para el desarrollo y la ejecución de una actuación urbanística, tendrá en cuenta la adecuada ponderación de todas las circunstancias concurrentes en el caso y, en particular, los objetivos a alcanzar con la actuación, las necesidades colectivas que ésta deba cubrir o satisfacer, los medios económicos disponibles y la capacidad de gestión de la Administración.
+
+### Artículo 103
+
+Artículo 103. Sustitución del sistema.
+La sustitución del sistema de compensación conforme al que deba desarrollarse o esté desarrollándose la ejecución del planeamiento por un sistema de ejecución pública acordada de oficio podrá tener lugar:
+a) Por desistimiento de la iniciativa beneficiaria de la ejecución. El desistimiento únicamente podrá formularse válidamente dentro de los dos meses siguientes a la notificación de la resolución municipal correspondiente.
+b) Por el transcurso del doble de los plazos establecidos en el artículo siguiente sin que los propietarios de suelo hayan adoptado la iniciativa para acometer la ejecución del ámbito de actuación, sector o unidad de ejecución correspondiente. En este supuesto, la decisión de la Administración de proceder al cambio de sistema de ejecución deberá ser notificada a todos los propietarios y publicada en el Boletín Oficial de la Comunidad de Madrid.
+c) Por incumplimiento de los deberes, obligaciones y compromisos inherentes al sistema de compensación que impida o dificulte apreciablemente la conclusión de la ejecución con perjuicio grave para el interés público o para los intereses legítimos de terceros. El incumplimiento deberá ser declarado en procedimiento dirigido a tal fin, en el que deberá darse audiencia a los interesados y celebrarse información pública por plazo mínimo de veinte días. El procedimiento podrá terminarse mediante convenio, en el que podrá preverse, en las condiciones que al efecto se precisen, la continuación en el proceso urbanizador y edificatorio de las personas habilitadas para la ejecución y de los propietarios de suelo intervinientes en el sistema sustituido que así lo deseen.
+d) Por comisión, con motivo del desarrollo de la actividad de ejecución, de una infracción urbanística muy grave o de dos o más infracciones urbanísticas graves, declarada mediante resolución sancionadora firme.
+2. La sustitución del sistema de compensación comportará en todos los supuestos previstos en el número anterior la pérdida en favor del Municipio de las garantías que hubieran sido constituidas.
+Se modifica por el art. 17.2 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+
+## Sección 3
+
+Sección 3.ª Sistema de compensación
+
+## Subsección 1
+
+Subsección 1.ª Disposiciones generales
+
+### Artículo 104
+
+Artículo 104. Iniciativa para la aplicación y definición del sistema de compensación.
+La iniciativa para la aplicación efectiva y la definición del sistema de compensación podrá ejercerse, una vez establecido dicho sistema por el planeamiento urbanístico o con ocasión de la delimitación de la unidad o unidades de ejecución correspondientes, por:
+a) En el suelo urbano no consolidado y en el suelo urbanizable sectorizado durante el año siguiente a la publicación del acuerdo de aprobación definitiva del Plan General, por propietarios de terrenos incluidos en el ámbito de actuación, sector o la unidad de ejecución que representen al menos el 50 por 100 de la superficie total del ámbito de actuación, sector o de la unidad de ejecución.
+b) En el suelo urbanizable no sectorizado durante los dos años siguientes a la publicación del acuerdo de aprobación definitiva del Plan General por los propietarios de terrenos que representen al menos el 50 por 100 de la superficie total del sector que se pretenda delimitar.
+Se deroga la letra c) por el art. 17.1 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+ Se modifica la letra c) por el art. 15.12 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 105
+
+Artículo 105. Afectación real de los terrenos al cumplimiento de los deberes y obligaciones del sistema de compensación.
+El establecimiento y la definición del sistema de compensación determinarán la afectación real de la totalidad de los terrenos incluidos en el ámbito de actuación, sector o la unidad o unidades de ejecución al cumplimiento de los deberes legales y las obligaciones inherentes al mismo, con inscripción en el Registro de la Propiedad mediante nota marginal.
+
+## Subsección 2
+
+Subsección 2.ª Ejecución directa por los propietarios
+
+### Artículo 106
+
+Artículo 106. Formalización de la iniciativa.
+1. La iniciativa de los propietarios de suelo, deberá formalizarse mediante la presentación en el Municipio de los siguientes documentos:
+a) Acreditación de la representación por los propietarios que adopten la iniciativa de al menos el 50 por 100 de la superficie del ámbito de actuación, sector o unidad de ejecución, acompañada de la relación concreta e individualizada de los bienes y derechos comprendidos en el ámbito, sector o unidad de ejecución, que deban quedar vinculados al sistema de ejecución para llevar a cabo ésta, con expresión de sus titulares e indicación de su residencia y domicilio de acuerdo con los datos del Registro de la Propiedad y, en su caso, del Catastro.
+b) Plan de Sectorización y/o Plan Parcial del sector a que se refiera, cuando éstos sean necesarios, debiendo delimitar la unidad o unidades de ejecución en que se divide.
+c) Proyecto de urbanización del ámbito, sector o unidad de ejecución.
+d) Propuesta de estatutos y bases de actuación de la Junta o Juntas de Compensación.
+e) Acreditación de haberse insertado anuncio de la iniciativa en el «Boletín Oficial de la Comunidad de Madrid» y en, al menos, uno de los diarios de mayor difusión en ella.
+2. Cuando la iniciativa se formule por propietario único o haya conformidad de todos los propietarios de terrenos incluidos en el ámbito de actuación, sector o unidad de ejecución, la propuesta de estatutos y bases de actuación de la Junta de Compensación podrá ser sustituida por propuesta de convenio urbanístico con el contenido previsto en el artículo 246 de la presente Ley.
+Se modifica la letra a) del apartado 1 por el art. 15.13 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 107
+
+Artículo 107. Procedimiento para la aceptación de la iniciativa y aplicación del sistema.
+1. Presentada una iniciativa en el Municipio, el Alcalde, dentro del mes siguiente, someterá al Pleno la adopción de uno de los dos acuerdos siguientes:
+a) Desestimación de la iniciativa por cualquiera causa que la justifique, incluidas las referidas tanto al ejercicio de la potestad de planeamiento, cuando la iniciativa se formule simultáneamente con solicitud de aprobación del planeamiento preciso para legitimar la ejecución, como a la determinación por el planeamiento en vigor de un sistema de ejecución pública o, de no contener éste previsión expresa al respecto, la procedencia de la elección de uno de los sistemas de ejecución pública.
+b) Estimación de la iniciativa.
+2. Inmediatamente después de la adopción del citado acuerdo plenario por el que se estime la iniciativa, el órgano competente procederá a:
+a) La aprobación inicial del proyecto del Plan de Sectorización y/o del Plan Parcial que se hubiera presentado conjuntamente con la iniciativa.
+En este caso se observará en la ulterior tramitación el procedimiento prescrito para la aprobación de los Planes de Sectorización y Planes Parciales.
+b) La aprobación inicial de la delimitación de la o las unidades de ejecución, si procede, y del proyecto o proyectos de urbanización, con apertura, por plazo mínimo de veinte días, del trámite de información pública y audiencia de los propietarios de todos los terrenos afectados, que deberán ser citados individualmente. Esta citación no procederá en el caso de que la iniciativa haya sido formulada por el propietario único de los terrenos o por acuerdo de todos los propietarios.
+3. Con ocasión de la aprobación definitiva del Plan de Sectorización y/o Plan Parcial presentado conjuntamente con la iniciativa o, en otro caso, una vez transcurrido el plazo del trámite de información pública y audiencia y a la vista del resultado del mismo, el órgano municipal competente deberá adoptar acuerdo sobre la aprobación definitiva de:
+a) En su caso, la delimitación de las unidades de ejecución.
+b) La aplicación del sistema de compensación.
+c) Los estatutos y las bases de actuación de la Junta de Compensación o, en su caso, del convenio urbanístico, con las rectificaciones que fueran procedentes por razones de legalidad o a resultas de las alegaciones presentadas.
+d) El o los proyectos de urbanización presentados.
+Si en el proyecto o proyectos de urbanización presentados se apreciaran deficiencias o se considerara procedente, la emisión de informe o informes de organismos que, por razón de sus competencias, se estimen determinantes, podrá adoptarse, respecto de aquél o aquéllos, acuerdo de aplazamiento de la aprobación definitiva hasta la subsanación de las deficiencias observadas o la emisión de los informes necesarios.
+4. El plazo máximo para resolver desde la aprobación definitiva del planeamiento será de tres meses y, los efectos del transcurso de éste sin adopción de resolución expresa serán los establecidos en la presente Ley para la aprobación de los Planes Parciales.
+
+### Artículo 108
+
+Artículo 108. Desarrollo del sistema de compensación.
+1. La aprobación definitiva de la aplicación del sistema de compensación determinará:
+a) La asunción por los propietarios de la actividad de ejecución en los términos y condiciones en que haya quedado definido el sistema para su desarrollo bajo la dirección, supervisión, intervención y control de la Administración municipal.
+b) La obligación de la constitución de garantía de la correcta ejecución a favor del Municipio por importe mínimo del 10 por 100 del importe total previsto de las obras de urbanización con carácter previo al comienzo de éstas.
+En los casos en que la documentación del respectivo Plan Parcial sobre organización y gestión de la ejecución incluya un plan de etapas fijando plazos sucesivos para la ejecución de la urbanización, el importe de la garantía de correcta ejecución a constituir a favor del Municipio se prorrateará en proporción al de las obras de urbanización programadas para cada etapa y la obligación de constituir cada una de las garantías a favor del Municipio sólo será exigible con carácter previo al comienzo de las obras de la etapa respectiva. Podrá acogerse a este sistema el planeamiento de desarrollo ya aprobado definitivamente en el que se haya optado, o posteriormente se opte, por una ejecución de las obras de urbanización por etapas y conste acuerdo municipal favorable en este sentido.
+2. La gestión de la actividad de ejecución podrá llevarse a cabo:
+a) En Junta de Compensación, cuya constitución será preceptiva cuando los propietarios cuya iniciativa haya dado lugar a la aplicación del sistema no representen la totalidad de la superficie de suelo del sector o unidad de ejecución.
+La Junta de Compensación tendrá la consideración de ente corporativo de Derecho público, con personalidad jurídica propia y plena capacidad de obrar desde su inscripción administrativa y la de la constitución de sus órganos directivos.
+b) Mediante sociedad mercantil constituida al efecto y en cuyo capital participen los propietarios de todos los terrenos afectados por el sistema de ejecución.
+c) Directamente por el propietario único de los terrenos del ámbito de actuación, sector o unidad de ejecución.
+3. En el caso de gestión en Junta de Compensación:
+a) La Junta ejerce la actividad de ejecución del planeamiento por atribución legal y asume frente al Municipio la directa responsabilidad de la realización de las obras de urbanización y, en su caso, de edificación.
+b) Los propietarios que no hubieran participado en la iniciativa deberán incorporarse a la Junta, si no lo hubieran hecho ya antes, dentro del mes siguiente a la notificación individualizada de la aprobación definitiva de los estatutos y las bases de actuación de aquélla. Transcurrido este plazo serán expropiados a favor de la Junta todos los propietarios que no se hubieran incorporado a ella.
+Podrán incorporarse también a ella las empresas promotoras que deban participar en la ejecución.
+c) El incumplimiento por los miembros de la Junta de sus deberes legales y demás obligaciones derivadas del sistema habilitará al Alcalde para disponer la expropiación de sus terrenos y derechos en favor de dicha entidad, que tendrá la condición de beneficiaria.
+d) La Junta actuará como fiduciaria con pleno poder dispositivo sobre las fincas iniciales, pudiendo ocuparlas a los efectos de la realización de las obras de urbanización:
+1.º De los propietarios miembros, sin más limitaciones que las establecidas en los estatutos, desde el momento que se fije al efecto en las bases de actuación.
+2.º De los propietarios no adheridos al sistema, desde el pago o consignación del justiprecio, salvo que fuera urgente.
+e) La Junta podrá recaudar de sus miembros, por delegación del Municipio, las cuotas de urbanización por la vía de apremio, pudiendo formularse contra las liquidaciones recurso de alzada ante el órgano competente del Ayuntamiento.
+f) Del órgano máximo de gobierno de la Junta formará parte en todo caso un representante del Municipio.
+g) Contra todos los acuerdos y decisiones de la Junta podrá deducirse, en todo caso, recurso de alzada ante el órgano competente del Ayuntamiento.
+4. En caso de gestión mediante sociedad mercantil, todos los propietarios deberán aportar a la misma los terrenos, construcciones y edificaciones de que sean titulares en el ámbito de actuación, el sector o la unidad o unidades de ejecución.
+Se modifica la letra b) del apartado 1 por el art. 14.3 de la Ley 10/2009, de 23 de diciembre. Ref. BOE-A-2010-4183.
+
+## Subsección 3
+
+Subsección 3.ª Ejecución por adjudicatario en concurso
+
+### Artículos 109 a 113
+
+Artículos 109 a 113.
+(Derogados).
+Se derogan los arts. 109 a 113 por el art. 17.1 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+
+### Artículo 109
+
+Artículo 109. Formalización de la iniciativa y de alternativas.
+1. La iniciativa de propietarios o personas que no tengan tal condición a que se refiere la letra c) del artículo 104 de la presente Ley deberá formalizarse mediante la presentación en el Ayuntamiento de los siguientes documentos:
+a) Si procede de propietarios de suelo, los exigidos en el artículo 106 de la presente Ley.
+b) Si la iniciativa parte de persona o personas que no tengan la condición de propietario o que aún teniendo esta condición no alcancen a representar el 50 por 100 de la superficie del ámbito de actuación, sector o de la unidad o unidades de ejecución, además de los documentos exigidos en el artículo 106, excepto en su punto c), los siguientes:
+1.º Oferta, que deberá incluir las siguientes alternativas dirigidas a los propietarios de terrenos incluidos en el ámbito, sector o las unidades de ejecución:
+1.1 Oferta de compra de los terrenos por precio determinado, fijado en función de los criterios de valoración establecidos en la legislación general aplicable.
+1.2 Oferta de incorporación de los propietarios al proceso urbanizador, mediante aportación de suelo exclusivamente o asumiendo también los gastos de la ejecución en proporción a su aportación, con especificación de los derechos que les corresponden según la situación registral de las fincas que aporten, su superficie, la edificabilidad y el aprovechamiento derivado del planeamiento.
+2.º Cuaderno de compromisos asumidos voluntariamente, protocolizado notarialmente, en el que deberán figurar, en todo caso, alguno de los siguientes:
+2.1 Efectuar aportaciones al patrimonio público de suelo del Municipio o de la Comunidad de Madrid.
+2.2 Destinar solares resultantes a fines de utilidad pública o interés social.
+2.3 Respetar precios máximos en las ventas a terceros de solares o edificios terminados, así como en los arrendamientos de viviendas o locales.
+2. Las iniciativas formuladas por propietarios podrán incluir personas que no tengan tal condición, indicando la intervención y los derechos que les corresponden. Las iniciativas formuladas por no propietarios podrán incluir propietarios, con indicación de los derechos que les corresponden. Estas últimas no tendrán en ningún caso la condición de iniciativas formuladas por propietarios.
+Se modifica el párrafo primero de la letra b) del apartado 1 por el art. 15.14 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 110
+
+Artículo 110. Alternativas a la iniciativa.
+1. Las alternativas que se presenten a las iniciativas a que se refiere el artículo anterior, deberán reunir los requisitos documentales propios de éstas que procedan en función de sus proponentes, a excepción del anuncio y del proyecto de Plan Parcial y, en su caso, también del proyecto o proyectos de urbanización cuando la alternativa se apoye en los ya presentados.
+2. En el caso de resultar beneficiaria de la ejecución y de la aplicación del sistema una alternativa distinta a la que hubiera formulado el proyecto de Plan de Sectorización y/o Plan Parcial y el proyecto o proyectos de urbanización, o cuando la aprobación definitiva haya recaído en Plan o proyectos distintos del que hubiera presentado el beneficiario, éste deberá abonar a la iniciativa o alternativa que hubiera aportado el Plan o el proyecto o proyectos todos los gastos efectuados para su redacción y elaboración. La acreditación del pago de estos gastos será condición necesaria para la eficacia de la resolución municipal que atribuya la ejecución y aplique y defina el sistema.
+
+### Artículo 111
+
+Artículo 111. Procedimiento para la adjudicación y aplicación del sistema.
+1. Presentada una iniciativa acompañada de la documentación completa, se procederá en la forma prevista en los números 1 y 2 del artículo 107 de la presente Ley.
+2. Durante el período de información pública podrán ser presentadas alternativas a la iniciativa inicialmente formulada.
+3. Cualquier interesado en presentar una alternativa, podrá solicitar, durante los diez primeros días de información pública, la prórroga del plazo para la presentación de la documentación, acompañando a la petición prestación de garantía en la cuantía que se determine reglamentariamente. En este supuesto, el período de información pública se ampliará en veinte días.
+La no presentación en plazo de la alternativa anunciada determinará la pérdida de la garantía en favor del Municipio.
+4. De no presentarse alternativas, el Municipio resolverá conforme a lo dispuesto en el número 3 del artículo 107 de la presente Ley, aprobando, además y en su caso, la oferta y los compromisos que procedan.
+5. De presentarse alternativas, en la misma resolución el Municipio elegirá, además, entre la iniciativa y sus alternativas que considere más adecuadas al interés general urbanístico, observando las siguientes reglas:
+a) En igualdad de condiciones, se atribuirá la ejecución a quien hubiera formulado la iniciativa.
+b) Procederá la atribución preferente de la ejecución a la iniciativa o alternativa a que se hubieran adherido un número de propietarios que represente, al menos, el 50 por 100 de la totalidad de la superficie del ámbito de actuación, sector o la unidad o unidades de ejecución.
+6. La resolución deberá adoptarse en acto público celebrado a tal fin y al que serán convocados el promotor de la iniciativa y cuantos hubieran presentado alternativas.
+7. La resolución adoptada se comunicará, además de al promotor de la iniciativa y a cuantos hubieran presentado alternativas, a todos los propietarios de los terrenos incluidos en el ámbito, el sector o la unidad o unidades de ejecución, publicándose en el «Boletín Oficial de la Comunidad de Madrid».
+8. La adjudicación se formalizará mediante convenio urbanístico suscrito entre el Municipio y el adjudicatario.
+
+### Artículo 112
+
+Artículo 112. Atribución de la ejecución conjuntamente a dos o más promotores de iniciativas o alternativas.
+En el procedimiento regulado en el artículo anterior, el Pleno podrá atribuir la ejecución del sistema y la definición del mismo, conjuntamente a más de un promotor, siempre que exista previo acuerdo entre ellos y se trate de las soluciones más ventajosas de entre las presentadas.
+
+### Artículo 113
+
+Artículo 113. Desarrollo del sistema en caso de adjudicatario no propietario.
+1. Cuando la ejecución se atribuya a quien haya formulado iniciativa o alternativa sin tener la condición de propietario de suelo, el desarrollo del sistema se ajustará a las siguientes reglas:
+a) El adjudicatario asume la ejecución urbanística, en calidad de promotor, conforme al convenio urbanístico y a la oferta efectuada a los propietarios del suelo.
+b) Al Municipio le corresponde la dirección, supervisión y control de la ejecución.
+c) La gestión de la actividad podrá llevarse a cabo:
+1.º Directamente por la persona física o jurídica a la que se haya atribuido la ejecución.
+2.º A través de entidad urbanística constituida al efecto, a la que podrán incorporarse los propietarios de suelo que lo deseen.
+d) La atribución y definición del sistema determina la iniciación del procedimiento expropiatorio en beneficio del adjudicatario, respecto de los terrenos de aquellos propietarios que no acepten la oferta de compra, ni se incorporen al sistema.
+2. El adjudicatario promotor estará habilitado para incorporar a la gestión, en cualquier momento y en las condiciones que libremente pacten entre sí, a cualquier propietario de suelo, previa solicitud a la Administración actuante de liberación del terreno de que se trate de la expropiación.
+3. Cuando algunos propietarios de terrenos incluidos en el ámbito de actuación, el sector o la unidad o unidades de ejecución rechacen expresa o tácitamente las ofertas de compra y de incorporación al proceso urbanizador, el adjudicatario, a fin de poder ocupar los terrenos, podrá solicitar del Ayuntamiento la urgente ocupación de los mismos.
+4. Cuando los propietarios se incorporen al sistema, la Administración actuante a instancia del adjudicatario levantará acta, en la que se especificará:
+a) Lugar y fecha de otorgamiento.
+b) Administración actuante.
+c) Delimitación del suelo de que se trata.
+d) Propietarios que se incorporen al sistema, terrenos y bienes incluidos en el ámbito de actuación, el sector o la unidad o unidades de ejecución que aportan, describiendo la situación registral, superficie y aprovechamiento urbanístico que corresponde a todos y cada uno de ellos y las parcelas o solares edificables resultantes en las que se hará efectivo dicho aprovechamiento.
+El acta levantada se unirá al Proyecto de Reparcelación con el acuerdo de los propietarios protocolizado notarialmente.
+
+## Subsección 4
+
+Subsección 4.ª Procedimiento abreviado
+
+### Artículo 114
+
+Artículo 114. Procedimiento abreviado.
+Las iniciativas que cuenten con el respaldo de propietarios que representen, al menos, el 70 por 100 de la superficie total, podrán incluir el proyecto de reparcelación para su tramitación conjunta con la iniciativa correspondiente. La resolución municipal que apruebe definitivamente la iniciativa, incluirá la aprobación del proyecto de reparcelación.
+Se modifica por el art. 17.3 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+
+## Sección 4
+
+Sección 4.ª Sistema de cooperación
+
+### Artículo 115
+
+Artículo 115. Características del sistema de cooperación.
+1. En el sistema de ejecución por cooperación los propietarios aportan la totalidad de los terrenos de cesión obligatoria y gratuita, soportando la ocupación de cualesquiera otros terrenos necesarios para la ejecución de las obras de urbanización, y la Administración ejecuta las obras de urbanización por cuenta y cargo de los mismos.
+2. El sistema de cooperación comporta, de ser necesaria, la reparcelación forzosa para la equitativa distribución entre los propietarios de los beneficios y las cargas, incluidos los costes de urbanización y de gestión del sistema. No será necesaria la reparcelación en los supuestos de propietario único de la totalidad de los terrenos.
+3. Cuando exista un solo propietario o todos los propietarios presten su conformidad, las bases del sistema podrán establecerse mediante convenio urbanístico.
+4. Los propietarios podrán participar, en todo caso, en la gestión del sistema, con el alcance que se determine reglamentariamente, mediante la constitución de una entidad urbanística.
+
+### Artículo 116
+
+Artículo 116. Gestión del sistema de cooperación.
+1. La Administración actuante desarrollará la actividad de ejecución directamente, actuando sin órgano diferenciado, a través de organismo público o mediante sociedad mercantil de capital íntegramente público o mixto.
+2. La atribución legal de la gestión del sistema a sociedad mercantil podrá hacerse a entidad de capital íntegramente público, aunque éste pertenezca a otra Administración pública, o la de capital mixto que se cree exclusivamente con tal finalidad. En este último supuesto los propietarios de terrenos incluidos en el ámbito de actuación, el sector o la unidad o unidades de ejecución podrán participar en su capital, incluso si su participación se limita a la aportación de los terrenos y las construcciones y edificaciones de que sean titulares.
+
+## Sección 5
+
+Sección 5.ª Sistema de expropiación
+
+### Artículo 117
+
+Artículo 117. Características del sistema de expropiación.
+1. En el sistema de expropiación la Administración actuante aplica la expropiación a la totalidad de los bienes y derechos incluidos en el ámbito de actuación, sector o la unidad o unidades de ejecución y realiza las obras de urbanización y, en su caso, de edificación.
+2. La delimitación de unidades de ejecución a realizar por el sistema de expropiación deberá ir acompañada de una relación de propietarios y una descripción de bienes y derechos, redactadas con arreglo a lo dispuesto en la legislación de expropiación forzosa y conforme a los datos que resulten de los registros públicos.
+3. Los bienes de dominio público se identificarán, relacionarán y describirán de forma separada e independiente.
+
+### Artículo 118
+
+Artículo 118. Gestión del sistema de expropiación.
+1. La resolución que determine el sistema de expropiación deberá fijar la forma de gestión de éste.
+2. La Administración actuante, para desarrollar la actividad de ejecución, podrá optar entre:
+a) La gestión directa e indiferenciada.
+b) La gestión a través de una entidad de Derecho público de ella dependiente o a ella adscrita.
+c) La encomienda, previa suscripción de convenio de colaboración, a otra Administración pública territorial o a una entidad de Derecho público dependiente o adscrita a ella.
+d) La atribución a concesionario.
+
+### Artículo 119
+
+Artículo 119. Gestión del sistema de expropiación por concesionario.
+1. La concesión de la gestión del sistema de expropiación se otorgará mediante concurso, convocado sobre la base de pliego de condiciones que determine, con precisión y con arreglo al planeamiento urbanístico que legitime la actividad de ejecución, las características técnicas, jurídicas y económicas de la actuación a ejecutar, así como los compromisos y las obligaciones, sustantivas y temporales, a asumir por el adjudicatario en su condición de urbanizador. El concurso se tramitará y resolverá conforme a la legislación reguladora de la Administración actuante, con las especialidades establecidas en esta Sección.
+2. En el concurso previsto en el número anterior podrán participar, agrupados en entidad urbanística de urbanización, constituida o en fase de constitución, los propietarios afectados por la actuación que representen, como mínimo, el 50 por 100 de la total superficie de ésta, teniendo derecho preferente a la adjudicación del concurso siempre que su oferta iguale la más ventajosa de entre las restantes ofertas presentadas.
+3. Las entidades urbanísticas a que se refiere el número anterior, tendrán la condición de entidades urbanísticas colaboradoras. En ellas podrán participar, además de los propietarios, terceras personas que contribuyan a la financiación de la urbanización o asuman la realización de las obras en calidad de contratistas.
+4. El concurso podrá adjudicarse, previo acuerdo entre los correspondientes ofertantes y aceptación de la Administración actuante, conjuntamente a dos o más de ellos, incluidos los propietarios a que se refiere el número anterior, siempre que se trate de las ofertas más ventajosas de entre las presentadas.
+5. La concesión se formalizará en convenio urbanístico.
+6. El concesionario, que tendrá la condición de promotor, podrá incorporar a la gestión urbanística, en cualquier momento y en las condiciones que libremente pacten entre sí, a cualquiera de los propietarios de suelo, previa solicitud a la Administración actuante y resolución favorable de ésta, de liberación del bien o de los bienes correspondientes de la expropiación. Los pactos entre promotor y propietario de suelo no alterarán las condiciones de la concesión.
+
+### Artículo 120
+
+Artículo 120. Ejecución de la urbanización en el sistema de expropiación.
+1. La Administración actuante o la entidad que tenga asumida la gestión del sistema por encomienda de ésta, así como, en su caso, el concesionario promotor, deberán ejecutar la urbanización en los plazos previstos en el planeamiento legitimador de aquélla.
+2. Inmediatamente después de finalizada la expropiación y sin perjuicio del deber de urbanización, deberá ponerse a disposición del Municipio y de la Comunidad de Madrid, libres de cargas, gravámenes y ocupantes, los terrenos de cesión obligatoria y gratuita, conforme al planeamiento urbanístico en ejecución.
+3. La edificación de las parcelas resultantes conforme al planeamiento urbanístico en ejecución podrá efectuarse antes de la ultimación del conjunto de las obras de urbanización, siempre y cuando se asegure, como mínimo, la realización simultánea de las que sean necesarias para que cada parcela adquiera la condición de solar.
+
+### Artículo 121
+
+Artículo 121. Reglas sobre el justiprecio y pago en especie.
+1. El justiprecio de los bienes y derechos se determinará mediante aplicación de los criterios establecidos por la legislación de expropiación forzosa.
+2. El pago del justiprecio podrá producirse, de acuerdo con el expropiado, mediante adjudicación de otras fincas, parcelas o solares, no necesariamente localizadas en la unidad de ejecución, pertenecientes al beneficiario de la expropiación.
+3. El desacuerdo en la valoración de la finca, parcela o solar ofrecida en pago del justiprecio no impedirá la adjudicación de un bien por otro, si bien el expropiado podrá acudir al Jurado Territorial de Expropiación para que fije con carácter definitivo el valor de la adjudicada en pago. La diferencia en más que suponga el valor que establezca dicho Jurado se pagará siempre en dinero.
+4. El justiprecio podrá fijarse por mutuo acuerdo entre la Administración actuante y el expropiado. El mutuo acuerdo será posible en cualquier momento anterior a la fijación definitiva en vía administrativa del justiprecio y deberá respetar los criterios de valoración a que se refiere el número 1 de este artículo.
+
+### Artículo 122
+
+Artículo 122. Liberación de la expropiación.
+1. La Administración podrá acordar, en cualquier momento y a solicitud del interesado o, en su caso, del concesionario promotor, liberar de la expropiación determinados bienes o derechos, mediante la imposición de las condiciones urbanísticas que procedan para asegurar la ejecución del planeamiento.
+2. La solicitud de liberación deberá contener:
+a) La exposición razonada de los motivos en que se fundamente y, en particular, la justificación de la compatibilidad entre el mantenimiento del bien o bienes inmuebles o de los derechos sobre ellos de que se trate, de un lado, y la ordenación urbanística aplicable y su ejecución, de otro.
+b) La especificación de los deberes legales vinculados al proceso urbanizador y a los que estén afectados los bienes y derechos que estén aún pendientes de cumplimiento, así como las condiciones resolutorias de la liberación en caso de incumplimiento de los términos de ésta y las garantías a prestar para asegurar el cumplimiento de los mismos.
+3. La resolución estimatoria de la solicitud de liberación, cuya eficacia requerirá la aceptación expresa de las condiciones en ella impuestas y su inscripción en el Registro de la Propiedad, deberá precisar, para su validez, los bienes y derechos afectados por la liberación; los términos y condiciones de la vinculación de dichos bienes y derechos al proceso urbanizador y edificatorio y las garantías a prestar por el beneficiario para asegurar el cumplimiento de tales términos y demás condiciones impuestas.
+4. El incumplimiento de las obligaciones derivadas de los términos y las condiciones establecidos en la resolución liberatoria de la expropiación supondrá, a elección de la Administración o entidad pública actuante y en función de las circunstancias concurrentes, la aplicación del régimen de sustitución o la expropiación por incumplimiento de la función social de la propiedad, con pérdida en favor de la Administración de las garantías en todo caso.
+
+### Artículo 123
+
+Artículo 123. Procedimiento para el desarrollo del sistema de expropiación.
+Para la expropiación podrá aplicarse tanto el procedimiento individualizado como el de tasación conjunta, conforme a la legislación de expropiación forzosa.
+
+### Artículo 124
+
+Artículo 124. Disposición anticipada de parcelas.
+La Administración o la entidad pública actuante y el concesionario promotor, previa autorización de una u otra, podrán ceder, permutar o enajenar las parcelas resultantes en cualquier momento a partir de la conclusión del procedimiento expropiatorio, siempre que quede suficientemente garantizada la total ejecución por el adquirente, en los plazos y las condiciones establecidos por el planeamiento urbanístico, de las obras de urbanización y las de edificación aún pendientes, incluso en la forma de realización de las primeras de forma simultánea a las segundas.
+
+## Sección 6
+
+Sección 6.ª Sistema de ejecución forzosa
+
+### Artículo 125
+
+Artículo 125. Características del sistema de ejecución forzosa.
+1. En el sistema de ejecución forzosa la Administración actuante culmina subsidiariamente la actividad de ejecución aún pendiente, en sustitución, por cuenta y cargo de la entidad o persona directamente responsables de dicha ejecución hasta el momento de la aplicación de dicho sistema.
+2. La aplicación del sistema de ejecución forzosa requerirá la declaración del incumplimiento de cualquiera de los deberes legales y las obligaciones inherentes del sistema de compensación sustituido, incluso los referidos a plazos, previo procedimiento en el que deberá oirse a la entidad o persona responsable y, en todo caso, a los propietarios.
+3. La declaración a que se refiere el número anterior, con fijación del sistema de ejecución forzosa, supondrá la afectación legal de todos los terrenos, construcciones y edificaciones, así como de los derechos, al cumplimiento de dicho sistema, siendo inscribible en el Registro de la Propiedad, a cuyo efecto deberá comunicarse a éste para que se haga constar mediante nota marginal.
+
+### Artículo 126
+
+Artículo 126. Gestión del sistema de ejecución forzosa.
+1. El sistema de ejecución forzosa se gestionará siempre de forma directa por la Administración mediante encomienda bien a sociedad mercantil de capital público propia o perteneciente a cualquiera de las otras Administraciones públicas de la Comunidad de Madrid o de la que se constituya, en otro caso, con esta exclusiva finalidad. En este último caso la sociedad podrá ser de capital mixto, pudiendo participar en él los propietarios de terrenos incluidos en el ámbito de actuación, sector o la unidad o unidades de ejecución que habiendo cumplido sus deberes soliciten su incorporación a la gestión.
+2. La sociedad que asuma la encomienda de la gestión, que tendrá la consideración de entidad gestora, contratará con empresarios privados la realización de las obras de urbanización y edificación precisas.
+
+### Artículo 127
+
+Artículo 127. Contenido y efectos de la resolución por la que se determina el sistema de ejecución forzosa.
+1. La resolución que determine la aplicación del sistema de ejecución forzosa por incumplimiento de los deberes inherentes al de compensación deberáser motivada y establecer con toda precisión:
+a) Los incumplimientos apreciados.
+b) El contenido y el alcance de los deberes y las restantes obligaciones pendientes de cumplimiento.
+c) Los instrumentos de ejecución del planeamiento y los proyectos cuya formulación sea aún necesaria para ultimar la ejecución de la actuación.
+d) Las obras de urbanización y, en su caso, de edificación pendientes de ejecución, el coste previsto de ésta y de la gestión del sistema y el plazo en que se estime puedan ser llevado a cabo.
+e) El suelo edificable necesario para sufragar, de un lado, los costes del sistema y, de otro lado, los de las obras de urbanización.
+2. La resolución a que se refiere el número anterior podrá adoptarse mediante:
+a) Convenio o acuerdo con los propietarios y personas responsables de la ejecución que, no obstante la sustitución del sistema de compensación, deseen continuar incorporados al proceso de ejecución.
+b) Convenio o acuerdo suscrito con todos los propietarios afectados y las demás personas incorporadas o responsables de la gestión del sistema de ejecución sustituido.
+3. La determinación del sistema de ejecución forzosa habilitará a la Administración actuante, sin más trámites ni requisitos ulteriores, para:
+a) Proceder inmediatamente a la ocupación de los terrenos y demás bienes que, por su calificación urbanística, deban ser objeto de cesión obligatoria y gratuita.
+b) Localizar los terrenos precisos para el cumplimiento de la cesión correspondiente a la participación de la Administración en el aprovechamiento urbanístico y proceder a la ocupación de los mismos.
+c) Formular y, en su caso, ejecutar los instrumentos de ordenación complementarios que sean precisos, así como el o los proyectos de urbanización y, en su caso, edificación pertinentes.
+d) Formular y, si procede, ejecutar el o los proyectos de reparcelación forzosa, en su caso complementarios o de modificación de los que se hubieran ya formulado, necesarios para la distribución equitativa de beneficios y cargas, incluyendo el suelo que se reserve para sufragar los costes del sistema y, entre ellos, los de gestión de éste que no podrán superar el 10 por 100 del total de los de la cuenta final de liquidación del sistema.
+
+### Artículo 128
+
+Artículo 128. Ocupación y disposición de bienes y ejecución de las obras de urbanización.
+1. Desde la aprobación del proyecto de reparcelación:
+a) El Alcalde, a propuesta de la entidad gestora, podrá acordar, en favor de ésta, la ocupación inmediata de todos o parte de los bienes y el ejercicio de la facultad de disposición de éstos en calidad de titular fiduciario de ellos.
+b) Será posible la inscripción en el Registro de la Propiedad, en favor del Municipio, del suelo de cesión gratuita, conforme a la determinación que de éste se haga en el proyecto de reparcelación.
+c) La entidad gestora podrá, hasta la finalización de la ejecución, enajenar suelo edificable reservado para sufragar los costes cuantificados en el proyecto de reparcelación.
+2. La entidad gestora podrá, al contratar la ejecución de las obras con empresas urbanizadoras, convenir el pago del precio mediante:
+a) El importe de la enajenación de suelo edificable.
+b) La adjudicación a la empresa promotora de determinada edificabilidad o concretos solares resultantes de la urbanización. Esta modalidad de pago requerirá la aprobación del Ayuntamiento Pleno.
+
+### Artículo 129
+
+Artículo 129. Liquidación de la actuación en el sistema de ejecución forzosa.
+1. Concluidas las obras de urbanización y recibida ésta definitivamente por el Alcalde, la entidad gestora elaborará y presentará la cuenta de liquidación de la actuación. Recibida la cuenta de liquidación, el Municipio deberá poner a disposición de los propietarios que no hayan resultado adjudicatarios de solares, ni hayan sido ya indemnizados de cualquier otra forma, la edificabilidad aún restante, habida cuenta los gastos efectivamente habidos en la gestión y ejecución, en la proporción que les corresponda según sus respectivas fincas originarias o iniciales.
+2. Los propietarios a que se refiere el número anterior podrán formular reclamación ante el Alcalde, basada en la lesión del valor económico de sus derechos, dentro del plazo de un mes, que deberá ser resuelta en el mismo plazo de un mes previo informe de la entidad gestora. En caso de estimación de la reclamación, la diferencia que se reconozca será satisfecha en metálico por la entidad gestora con cargo a la cuenta de liquidación.
+3. A los efectos de lo dispuesto en el número anterior y, en general, de la cobertura de las diferencias entre costes previstos y reales, la entidad gestora podrá enajenar el suelo de que disponga fiduciariamente. De restar aún suelo en su disposición, deberá proceder a su enajenación y posterior distribución proporcional del importe de la misma entre los propietarios con derecho a aquélla.
+
+## CAPÍTULO V
+
+Otras formas de ejecución
+
+## Sección 1
+
+Sección 1.ª Obras públicas ordinarias
+
+### Artículo 130
+
+Artículo 130. Actuaciones urbanísticas no integradas en unidades de ejecución.
+1. En los municipios de menos de 5.000 habitantes se podrá llevar a cabo la ejecución del suelo urbano no consolidado por el propio ayuntamiento mediante obras públicas ordinarias.
+2. El suelo correspondiente a dotaciones con destino público se obtendrá en el supuesto previsto en el número anterior por:
+a) Cesión, en virtud, en su caso, de reparcelación.
+b) Cesión en virtud de convenio urbanístico.
+3. Cuando las obras públicas sean de urbanización, el Municipio impondrá a los propietarios de terrenos afectados el pago de las cuotas que les correspondan, determinándose éstas mediante el procedimiento previsto en la legislación de régimen local para la imposición de contribuciones especiales.
+
+## Sección 2
+
+Sección 2.ª Áreas de rehabilitación concertada
+
+### Artículo 131
+
+Artículo 131. Concepto.
+1. El planeamiento urbanístico podrá delimitar, en suelo urbano, áreas de rehabilitación concertada, para la ejecución por varias Administraciones públicas de Programas de Rehabilitación Concertada de organización conjunta de acciones de reforma, renovación o revitalización social y económica que complementen la gestión urbanística con actuaciones públicas de vivienda y cualesquiera otras sectoriales en:
+a) Conjuntos o zonas de interés histórico con graves deficiencias urbanas y ambientales, significativo deterioro o decadencia funcional de sus infraestructuras, equipamientos o servicios de cualquier clase o de la edificación.
+b) Ámbitos urbanos que presenten disfunciones o carencias de especial gravedad.
+2. Cuando el planeamiento urbanístico en vigor no contenga las previsiones necesarias, los Programas de Rehabilitación Concertada exigirán la formulación y aprobación de un Plan Especial por el Municipio correspondiente. En todo caso requerirán un Estudio de Rehabilitación Integrada, aprobado en la forma que reglamentariamente se determine, que complemente y especifique la información, el análisis y las soluciones del planeamiento urbanístico en todo lo referente a la programación temporal de las actuaciones públicas y el fomento y la colaboración de la iniciativa privada.
+
+### Artículo 132
+
+Artículo 132. Gestión.
+Los Programas de Rehabilitación Concertada se formalizarán y regularán en la forma establecida por la legislación sobre Rehabilitación de Espacios Urbanos.
+
+### Artículo 133
+
+Artículo 133. Efectos de la delimitación.
+La delimitación de áreas de rehabilitación concertada producirá los siguientes efectos:
+a) La constitución del Municipio o municipios interesados en la obligación legal de adoptar todas las medidas precisas, incluidas las patrimoniales y presupuestarias, para la organización consorcial con la Administración de la Comunidad de Madrid y, en su caso, la Administración General del Estado, de la gestión del área de que se trate, cuando así se prevea expresamente en el planeamiento urbanístico correspondiente.
+b) La obligación de la Administración de la Comunidad de Madrid y el o los municipios, en todo caso, de cooperar entre sí y de coordinar el ejercicio de sus competencias al servicio de la consecución de los objetivos fijados para el área de que se trate.
+c) La habilitación para el establecimiento y la recaudación de tasas o precios públicos por la prestación de servicios y la utilización tanto de los bienes que hayan sido aportados al consorcio o estén adscritos o sean administrados por él, como de las infraestructuras y los equipamientos y los servicios por el mismo construidos.
+d) El sometimiento de todas las transmisiones de la propiedad en el área correspondiente y en favor de la organización consorcial a los derechos de tanteo y retracto regulados en la presente Ley por el plazo máximo de seis años.
+e) La declaración de la urgencia en la ocupación a efectos de la expropiación forzosa.
+
+### Artículo 134
+
+Artículo 134. Formas de actuación.
+La actividad de ejecución que sea en cada caso precisa en las áreas de rehabilitación concertada se desarrollará, según proceda, mediante:
+a) La delimitación de una o varias unidades de ejecución y con aplicación en ellas de los sistemas de ejecución previstos en la presente Ley.
+b) La realización de obras públicas ordinarias, incluso concertadas con la iniciativa privada a través de la suscripción de los oportunos convenios urbanísticos.
+
+## CAPÍTULO VI
+
+Conservación de la urbanización
+
+### Artículo 135
+
+Artículo 135. Recepción de las obras de urbanización.
+1. La recepción de las obras de urbanización corresponde al Ayuntamiento, de oficio o a instancia de la persona responsable de la ejecución, conservación y entrega de dichas obras.
+2. De la recepción de las obras se levantará acta, firmada por el funcionario técnico facultativo designado por el Alcalde, el facultativo encargado de la dirección de las obras y la persona o entidad, pública o privada, responsable de la ejecución y el Alcalde o el Concejal en que delegue al efecto. La documentación del programa de control de calidad establecido para la obra se adjuntará al acta y en la misma se hará constar su cumplimiento.
+3. Si en el momento de la recepción las obras se encontraran en buen estado y hubieran sido ejecutadas con arreglo a las prescripciones previstas, el funcionario técnico designado por el Alcalde las dará por recibidas, haciéndolo constar en acta levantada al efecto, comenzando desde la fecha de éste el plazo de garantía que no podrá ser inferior a un año.
+4. Cuando las obras no se hallen en estado de ser recibidas, se hará constar así en el acta, señalando los defectos observados y detallando las instrucciones precisas para remediarlos, para lo cual se dará un plazo.
+5. La entrega de las obras de urbanización deberá realizarse por:
+a) La persona o entidad, pública o privada, responsable de la ejecución según el sistema aplicado para la misma, incluida la Administración actuante, si es distinta de la municipal, cuando se trate de obras resultantes de una unidad de ejecución.
+b) La persona, entidad o Administración que materialmente las haya ejecutado, en otro caso.
+6. Levantada el acta de recepción total o parcial, se remitirá al Registro de la Propiedad certificación administrativa de ella a los efectos de la práctica de las inscripciones procedentes conforme a la legislación hipotecaria.
+7. Las obras de urbanización podrán ser objeto de recepción parcial cuando sean susceptibles de ser ejecutadas por fases o unidades funcionales independientes capaces de prestar el uso al que vaya destinada la fase o unidad funcional y de que puedan ser entregadas al uso o servicio público de forma autónoma e independiente del resto de fases o unidades funcionales. La recepción parcial de las obras de urbanización posibilitará, en todo caso, la primera utilización y ocupación de las edificaciones cuya ejecución se hubiera autorizado, mediante licencia o declaración responsable, dentro de la correspondiente fase o unidad funcional.
+De igual forma, la Administración actuante podrá de conformidad con lo establecido en esta ley, reducir las cargas de urbanización a las que estuviesen sujetas una o varias parcelas resultantes que se localicen en la fase de urbanización que haya sido recepcionada parcialmente por la Administración actuante.
+8. En el caso de que la Administración no resolviera sobre la recepción de las obras de urbanización en el plazo previsto en el planeamiento u ordenanza municipal o, en su defecto, en el de tres meses, bastará el ofrecimiento formal de cesión de las mismas por la persona responsable de la ejecución, a los efectos de entender recepcionadas las obras.
+Se modifican los apartados 6 y 7 por el art. 2.26 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifica el apartado 7 por el art. 2 de la Ley 2/2018, de 4 de mayo. Ref. BOE-A-2018-11068
+
+### Artículo 136
+
+Artículo 136. Deber de conservación de las obras de urbanización.
+1. La conservación de la urbanización es competencia del Ayuntamiento.
+2. El planeamiento urbanístico y, en defecto de éste, las condiciones en las que se defina el sistema de ejecución elegido para su ejecución podrán prever la obligación de los propietarios de los solares resultantes de dicha ejecución de constituirse en entidad urbanística de conservación, en cuyo caso la conservación de la urbanización corresponderá a ésta.
+3. La atribución de la conservación a los propietarios agrupados en entidad urbanística de conservación en los términos del número anterior comportará para el Ayuntamiento la obligación legal de subvencionar dicha entidad.
+
+### Artículo 137
+
+Artículo 137. Entidades urbanísticas de conservación.
+1. Las entidades urbanísticas de conservación son entidades de Derecho público, de adscripción obligatoria y personalidad y capacidad jurídicas propias para el cumplimiento de sus fines.
+2. Se rigen por sus estatutos en el marco de la presente Ley y sus normas reglamentarias y adquieren personalidad jurídica desde su inscripción en el registro administrativo correspondiente de la Consejería competente en materia de ordenación urbanística.
+3. Las cuotas de conservación que corresponda satisfacer a los miembros de la entidad urbanística de conservación serán exigibles por la vía de apremio.
+4. La participación de los propietarios en los gastos de conservación se determinará:
+a) Con arreglo a la que les haya correspondido en el sistema de ejecución de la unidad de ejecución correspondiente.
+b) Conforme a la que les esté asignada en la comunidad de propietarios, si se ha constituido una en régimen de propiedad horizontal.
+c) En su defecto, a tenor de lo que dispongan los estatutos de la entidad urbanística de conservación.
+5. Contra los acuerdos de la entidad urbanística de conservación cabrá formular recurso de alzada ante el órgano competente del Ayuntamiento.
+
+## CAPÍTULO VII
+
+Expropiación forzosa
+
+### Artículo 138
+
+Artículo 138. Supuestos expropiatorios.
+1. Sin perjuicio de su juego como consecuencia de la aplicación del sistema de expropiación para la ejecución del planeamiento urbanístico y en el seno de los restantes sistemas de ejecución en los supuestos previstos en la presente Ley, la expropiación forzosa por razón de urbanismo procederá, además de en los supuestos previstos por la legislación general pertinente en los siguientes, cuya concurrencia determinará por sí misma la utilidad pública de aquélla:
+a) El destino de los terrenos, por su calificación urbanística, al dominio público de uso o servicio públicos, siempre que deban ser adquiridos forzosamente por la Administración actuante, bien por no deber ser objeto del deber legal de cesión obligatoria y gratuita, bien por existir, en todo caso, necesidad urgente de anticipar la obtención de los terrenos.
+A los efectos de la expropiación se considerarán incluidos en los terrenos necesarios los colindantes que fueran imprescindibles para realizar las obras o establecer los servicios públicos previstos en el planeamiento urbanístico o que resulten especialmente beneficiados por tales obras o servicios.
+b) La constitución o dotación, conforme a esta Ley, de los patrimonios públicos de suelo.
+c) La declaración, definitiva en vía administrativa, del incumplimiento de los deberes legales urbanísticos del propietario, cuando la declaración esté motivada por:
+1.º La realización de actos de parcelación o reparcelación, uso del suelo o edificación constitutivos legalmente de infracción urbanística.
+2.º La inobservancia de los plazos fijados para la formulación, tramitación o aprobación de cualquiera de los instrumentos previstos en la presente Ley para la ejecución del planeamiento urbanístico.
+3.º El incumplimiento sustantivo o temporal de los deberes y las obligaciones legales o asumidos vinculados a la ejecución del planeamiento urbanístico.
+4.º El incumplimiento de los deberes de conservación, mantenimiento y, en su caso, rehabilitación de los inmuebles legalmente exigibles.
+d) La inadecuación de los inmuebles a las condiciones mínimas legalmente establecidas para su dedicación al uso en ellos establecido.
+e) La declaración o catalogación administrativas formales, conforme a la legislación urbanística o sectorial aplicable, del valor cultural, arquitectónico, urbanístico, histórico artístico o medioambiental de terrenos o edificios que los haga merecedores de su preservación o especial protección.
+f) La obtención de terrenos destinados en el planeamiento a la construcción de viviendas sujetas a algún régimen de protección pública, así como a usos declarados de interés social.
+2. La delimitación del ámbito de actuación, sector o unidad de ejecución en los supuestos previstos en las letras a) y b) y la aprobación del catálogo o de la medida de preservación o protección en los contemplados en la letra e) del número anterior, así como de la relación y descripción concretas e individualizadas, con indicación de los titulares de los bienes y derechos objeto de expropiación en todos los restantes incluidos en dicho número, determinan la declaración de la necesidad de ocupación y el inicio de los correspondientes expedientes expropiatorios.
+
+### Artículo 139
+
+Artículo 139. Urgencia en la ocupación: Requisitos.
+Cuando se siga el procedimiento de tasación individualizada, la declaración de urgencia en la ocupación prevista en la legislación general de expropiación forzosa deberá acompañarse de memoria justificativa de las razones particulares que motiven la urgencia.
+
+### Artículo 140
+
+Artículo 140. Fijación definitiva en vía administrativa del justiprecio.
+En caso de discrepancia de los propietarios y restantes titulares de derechos con la hoja de aprecio formulada por la Administración expropiante, la fijación definitiva del justiprecio corresponderá al Jurado de Expropiación competente.
+
+### Artículo 141
+
+Artículo 141. Mutuo acuerdo: Bonificaciones.
+1. Durante la tramitación del procedimiento expropiatorio y antes del acto por el que se fije definitivamente en vía administrativa el justiprecio, la Administración actuante y los titulares de los bienes y los derechos objeto de aquel procedimiento podrán determinar dicho justo precio por mutuo acuerdo, de conformidad con la legislación reguladora, con carácter general, de la expropiación forzosa.
+2. La aceptación por los expropiados, en el plazo concedido al efecto, del precio ofrecido por la Administración en el expediente de justiprecio, les dará derecho a percibir dicho precio incrementado en un 10 por 100.
+
+### Artículo 142
+
+Artículo 142. Pago del justiprecio en especie.
+El pago del justiprecio de los bienes y derechos expropiados podrá efectuarse, previo acuerdo con los afectados, mediante adjudicación de parcelas resultantes de la propia actuación o de cualesquiera otras de las que sea titular la Administración actuante o, en su caso, con determinada edificabilidad en unas u otras, estableciendo en cada caso las obligaciones referentes al abono de costes de urbanización correspondientes. En estos supuestos no será de aplicación lo dispuesto en el número 2 del artículo anterior.
+
+## TÍTULO IV
+
+Intervención en el uso del suelo, en la edificación y en el mercado inmobiliario
+
+## CAPÍTULO I
+
+Parcelación
+
+### Artículo 143
+
+Artículo 143. Actos de parcelación.
+1. Tendrán la consideración de actos de parcelación con independencia de su finalidad concreta y de la clase de suelo, cualesquiera que supongan la modificación de la forma, superficie o lindes de una o varias fincas.
+2. Cualquier acto de parcelación precisará licencia urbanística previa. No podrá autorizarse ni inscribirse escritura pública alguna en la que se documente un acto de parcelación con independencia de su naturaleza, o del que resulte o derive ésta, sin la aportación de la preceptiva licencia urbanística, que los Notarios deberán testimoniar íntegramente en aquélla.
+
+### Artículo 144
+
+Artículo 144. Actos de parcelación rústica.
+1. Tienen la consideración legal de actos de parcelación rústica, todos aquellos que se produzcan en suelo no urbanizable de protección o suelo urbanizable no sectorizado en que no se haya aprobado definitivamente el Plan de Sectorización.
+2. Las fincas resultantes de los actos de parcelación rústica habrán de cumplir las dimensiones y características mínimas fijadas en la legislación agraria, forestal o de similar naturaleza.
+3. En suelo no urbanizable de protección y en suelo urbanizable no sectorizado quedan prohibidas las parcelaciones urbanísticas.
+4. La licencia urbanística para actos de parcelación rústica requerirá informe previo y vinculante en caso de ser desfavorable, de la Consejería competente en materia de agricultura.
+
+### Artículo 145
+
+Artículo 145. Actos de parcelación urbanística.
+1. Tiene la consideración legal de actos de parcelación urbanística, cualquier división o parcelación de terreno que se lleve a cabo en suelo urbano y urbanizable, salvo en el urbanizable no sectorizado en el que no se haya aprobado Plan de Sectorización.
+2. Es nula toda parcelación urbanística que sea contraria a la ordenación urbanística o infrinja lo dispuesto en el presente capítulo.
+3. No se podrán efectuar actos de parcelación urbanística en el suelo urbano no consolidado, ni en el suelo urbanizable sectorizado, mientras uno y otro no cuenten con la correspondiente ordenación pormenorizada.
+Se modifica el apartado 2 por el art. 15.15 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 146
+
+Artículo 146. Indivisibilidad de fincas, parcelas y solares.
+Serán indivisibles los terrenos siguientes:
+a) Los que tengan unas dimensiones inferiores o iguales a las determinadas como mínimas en el planeamiento urbanístico, salvo que se adquieran simultáneamente con la finalidad de agruparlos y formar una nueva finca con las dimensiones mínimas exigibles.
+b) Los de dimensiones inferiores al doble de las requeridas como mínimas, salvo que el exceso sobre éstas se agrupe en el mismo acto a terrenos colindantes para formar una finca independiente que tenga las dimensiones mínimas exigibles.
+c) Los que tengan asignada una edificabilidad en función de la superficie, cuando se materialice toda la correspondiente a ésta.
+d) Los vinculados o afectados legalmente a las construcciones o edificaciones autorizadas sobre ellos.
+
+## CAPÍTULO II
+
+Intervención de la Comunidad de Madrid en actos de uso del suelo, construcción y edificación
+
+## Sección 1
+
+Sección 1.ª Calificaciones urbanísticas
+
+### Artículo 147
+
+Artículo 147. Objeto.
+La calificación urbanística completa el régimen urbanístico definido por el planeamiento general y, en su caso, los planes de desarrollo, complementando la ordenación por éstos establecida, para una o varias parcelas o unidades mínimas, y autorizando, en su caso, un proyecto de edificación o uso del suelo conforme a lo establecido en la presente Ley, cuando estos actos pretendan llevarse a cabo en el suelo no urbanizable de protección y en el suelo urbanizable no sectorizado.
+Se modifica por el art. 15.16 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 148
+
+Artículo 148. Órgano competente y procedimiento.
+1. La calificación urbanística corresponde:
+a) Al Pleno del Ayuntamiento cuando se trate de las calificaciones previstas en el número 1 del artículo 29 de la presente Ley.
+b) Al Alcalde en el resto de supuestos.
+2. El procedimiento para la calificación urbanística se ajustará a las siguientes reglas:
+a) Solo podrá iniciarse a instancia de interesado acompañada de documentación acreditativa, como mínimo, de la identidad del solicitante, la titularidad de derecho bastante sobre la o las unidades mínimas y completas correspondientes, la justificación de la viabilidad, incluso por razón de su impacto territorial y ambiental, y la determinación de las características del aprovechamiento pretendido y de las técnicas de las obras a realizar.
+b) Presentada la solicitud, la instrucción y resolución del procedimiento corresponderá al Ayuntamiento, el cual, en el plazo de un mes, emitirá informe técnico sobre la viabilidad urbanística de la actuación pretendida.
+En caso de que dicho informe resulte de carácter desfavorable, no procederá la continuación del procedimiento, adoptándose resolución desestimatoria de la solicitud.
+c) Informado favorablemente el expediente, se solicitarán los informes preceptivos o convenientes de todos los Organismos y Administraciones con competencia afectada por el objeto del procedimiento.
+d) La resolución definitiva deberá producirse y notificarse dentro del plazo máximo de tres meses, a contar desde la entrada de la solicitud o, en su caso, desde la subsanación o mejora de la documentación, caso de haberse practicado requerimiento al efecto dentro de los quince días siguientes a dicha entrada. El transcurso del plazo máximo sin notificación de resolución autorizará para entender desestimada la solicitud.
+3. Si las obras y los usos o actividades de que se trate requieren declaración de impacto ambiental o, en su caso, informe o calificación ambientales, no podrá resolverse sobre la calificación urbanística hasta que no se haya producido el correspondiente pronunciamiento ambiental, quedando suspendido entre tanto el plazo para resolver.
+4. La calificación urbanística legitima las obras de construcción o edificación y los usos o las actividades correspondientes, sin perjuicio de la necesidad de título habilitante de naturaleza urbanística en los términos de la presente Ley y de cualesquiera otras autorizaciones administrativas que, conforme a la legislación sectorial aplicable, sean igualmente preceptivas.
+5. Las calificaciones urbanísticas caducan, cesando su efecto legitimador de las obras y usos, por cualquiera de las causas siguientes:
+a) El transcurso de un año desde su otorgamiento sin que se hubiera solicitado el título habilitante de naturaleza urbanística que corresponda y las restantes autorizaciones administrativas que fueran preceptivas.
+b) El transcurso del plazo de vigencia que se hubiera fijado en la propia calificación urbanística.
+6. La caducidad por transcurso del plazo de vigencia de la calificación urbanística se entenderá sin perjuicio de la posibilidad de la prórroga del mismo.
+Se modifica por el art. 5.17 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+## Sección 2
+
+Sección 2.ª Proyectos de actuación especial
+
+### Artículo 149
+
+Artículo 149. Objeto.
+1. Los proyectos de actuación especial deberán definir con toda precisión el o los usos correspondientes y las obras e instalaciones precisas para su establecimiento y desarrollo en una o varias unidades mínimas completas, cuando estos actos pretendan llevarse a cabo en suelo urbanizable no sectorizado.
+2. La aprobación del proyecto de actuación especial requerirá:
+a) El estudio de las previsibles repercusiones socioeconómicas, territoriales y ambientales, directas e indirectas, y la declaración de su carácter asumible de acuerdo con la organización del espacio rural establecida por el planeamiento general, con determinación, en su caso, de las condiciones que deban imponerse a tal efecto. Cuando, por su objeto, el proyecto esté sujeto a evaluación del impacto ambiental, el estudio incluirá esta evaluación y la correspondiente declaración de impacto ambiental.
+b) La apreciación positiva del interés general de su objeto, que solo podrá serlo cuando se estime precisa la localización del uso o usos en suelo urbanizable no sectorizado y compatible dicho uso con los objetivos de la política o políticas públicas sectoriales correspondientes.
+c) La satisfactoria solución, con cargo al promotor, del funcionamiento de las instalaciones, construcciones y edificaciones mediante su adecuada conexión a las redes supramunicipales y generales de infraestructuras, dotaciones y servicios públicos de la ordenación estructural del planeamiento general, de modo tal que, en cualquier caso, quede garantizada el mantenimiento de la capacidad, funcionalidad y calidad de servicio de los preexistentes.
+d) La asunción del levantamiento de las cargas y del cumplimiento de los restantes compromisos previstos por la legislación o la ordenación urbanísticas o, en su caso, asumidos voluntariamente y, en todo caso, de los de restauración de los terrenos al término de la vigencia del uso o los usos y conforme al plan definido a tal fin, así como del pago del canon pertinente, cuya fijación y percepción corresponde al Municipio.
+El canon tendrá una cuantía mínima del 5 por 100 y una máxima del 10 por 100 del presupuesto total de ejecución de las obras, construcciones, edificaciones e instalaciones a realizar, y podrá satisfacerse mediante cesión de terrenos de valor equivalente con destino al patrimonio municipal de suelo.
+e) Cuando proceda, la fijación justificada del plazo de vigencia del uso o los usos atribuidos.
+f) La prestación de garantía ante la Comunidad de Madrid por importe del 10 por 100 del coste total de ejecución de las obras a realizar para cubrir, en su caso, las responsabilidades derivadas de incumplimientos e infracciones, incluso del plan de restauración de los terrenos. En atención a las características específicas del proyecto, el Gobierno de la Comunidad de Madrid podrá elevar el importe mínimo de la garantía a prestar hasta el 20 por 100 del coste total de las obras previstas.
+
+### Artículo 150
+
+Artículo 150. Procedimiento, aprobación y eficacia.
+1. Los proyectos de actuación especial se aprobarán previa instrucción de procedimiento que se iniciará ante la consejería competente en materia de ordenación del territorio y urbanismo a instancia de cualquier Administración o persona pública o privada, acompañando la documentación necesaria conforme a lo dispuesto en el número 1 y las letras a) y b) del número 2 del artículo anterior, y deberá responder a las siguientes reglas:
+1.º Solicitada la aprobación del proyecto, los servicios técnicos de la Dirección General competente para la tramitación de los proyectos emitirán informe previo, que será vinculante sobre la viabilidad urbanística de la actuación pretendida. En caso de que el proyecto no resulte viable por contravenir las determinaciones de ordenación pormenorizada o estar la actuación prohibida por el planeamiento territorial o urbanístico, no procederá la continuación del procedimiento, adoptándose por la Comisión de Urbanismo acuerdo de inadmisión de la solicitud. Dicho acuerdo podrá ser objeto del recurso que corresponda.
+Informado favorablemente se someterá a información pública por plazo de un mes y, simultáneamente, se otorgará audiencia al municipio o municipios interesados, así como a los propietarios de terrenos afectados y de los inmediatamente colindantes con ellos, que podrán presentar, durante el plazo del trámite, alternativas en competencia, y se requerirá informe de las consejerías y ministerios de la Administración General del Estado que proceda en función del objeto del proyecto y, en todo caso, en materia medioambiental, salvo que se haya incluido ya la declaración de impacto ambiental.
+2.º Evacuados los anteriores trámites, el titular de la consejería competente en materia de ordenación del territorio y urbanismo resolverá sobre el interés general del proyecto, previamente seleccionado de entre los que se hubieran presentado en competencia, desde el punto de vista urbanístico. Transcurridos cuatro meses desde la presentación de la solicitud sin notificación de resolución alguna, aquélla podrá entenderse desestimada.
+3.º Declarado el proyecto de interés general, la Comisión de Urbanismo de Madrid resolverá sobre la aprobación del proyecto, previa celebración, cuando el procedimiento tenga por objeto proyectos promovidos por personas privadas cuya implantación y desarrollo no requieran concesión administrativa alguna, de concurso para la consideración de posibles alternativas.
+4.º La resolución de la Comisión de Urbanismo, incorporará la declaración de impacto ambiental cuando proceda e implicará, caso de ser positiva, la atribución a los terrenos del aprovechamiento urbanístico que resulte del proyecto efectivamente aprobado, debiendo incluir pronunciamiento expreso sobre las cargas a levantar por el promotor y los compromisos asumidos voluntariamente por éste, así como el carácter temporal o no de la atribución del aprovechamiento urbanístico.
+La resolución deberá producirse en el plazo máximo de seis meses desde la declaración del interés general. El transcurso de este plazo sin notificación de resolución alguna autorizará para entender desestimada la correspondiente solicitud.
+5.º La resolución estimatoria se comunicará al Registro de la Propiedad para la práctica de la anotación o inscripción que proceda.
+2. La aprobación del proyecto de actuaciones especiales legitimará la implantación del uso o usos a que se refiera, con las instalaciones, construcciones y edificaciones correspondientes, sin perjuicio de la necesidad de la licencia urbanística procedente y de cualesquiera otras autorizaciones administrativas preceptivas conforme a la legislación sectorial que sea de aplicación.
+3. Los proyectos de actuación especial caducarán, cesando la legitimación del o de los usos correspondientes, por cualquiera de las siguientes causas:
+a) El mero transcurso de un año desde su aprobación sin haberse solicitado licencia urbanística, así como, en su caso, todas y cada de las autorizaciones administrativas sectoriales preceptivas.
+b) El hecho del no comienzo o la no terminación de las obras que requiera la ejecución dentro, respectivamente, dentro del plazo de uno y tres años siguientes al otorgamiento de la licencia urbanística y, en su caso, la última de las restantes autorizaciones administrativas preceptivas para el comienzo y la ejecución de las obras.
+c) El transcurso del plazo de vigencia que, en su caso, se hubiera señalado en la aprobación del proyecto.
+Se modifica el apartado 1 por el art. 2.27 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifica el párrafo primero del apartado 1 por el art. 15.17 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+## CAPÍTULO III
+
+Intervención municipal en actos de uso del suelo y edificación
+Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Redactado conforme a la corrección de errores publicada en el BOCM núm. 47, de 24 de febrero de 2023. Ref. BOCM-m-2023-90050
+ Se modifica por el art. único.1 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+## Sección 1
+
+Sección 1.ª Requisitos de la construcción y edificación y uso del suelo
+
+### Artículo 151
+
+Artículo 151. Títulos habilitantes de naturaleza urbanística.
+1. Los actos de construcción y edificación, los de implantación, desarrollo o modificación de actividades o cualquier otro acto de uso del suelo requerirán, para su lícito ejercicio, de licencia, orden de ejecución o declaración responsable urbanística, en los términos establecidos en esta Ley, sin perjuicio de las demás intervenciones públicas exigibles por la legislación que les afecte.
+2. La licencia y la declaración responsable urbanística tienen por finalidad el sometimiento de los actos señalados en el apartado anterior al control previo o posterior municipal, y a tales efectos se entiende por:
+a) Licencia urbanística, el acto administrativo reglado por el que el ayuntamiento resuelve autorizar al interesado a realizar una actuación de construcción y edificación, de implantación, desarrollo o modificación de actividad o cualquier otro acto de uso del suelo, expresando el objeto de esta, las condiciones y los plazos de ejercicio conforme a lo establecido en la normativa aplicable.
+b) Declaración responsable urbanística, el documento en el que el interesado manifiesta bajo su responsabilidad, de forma clara y precisa que la actuación urbanística que pretende realizar cumple con los requisitos exigidos en la normativa urbanística y sectorial aplicable a dicha actuación, que dispone de la documentación acreditativa del cumplimiento de los anteriores requisitos y que la pondrá a disposición del ayuntamiento cuando le sea requerida, comprometiéndose a mantener dicho cumplimiento durante el tiempo que dure la realización del acto objeto de la declaración.
+Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. único.3 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+### Artículo 152
+
+Artículo 152. Actos sometidos a licencia urbanística.
+Únicamente estarán sujetos a licencia urbanística municipal los siguientes actos de uso del suelo, construcción y edificación:
+a) Los movimientos de tierra, excavaciones, explanaciones y terraplenado en cualquier clase de suelo cuando no formen parte de un proyecto de urbanización, edificación o construcción autorizado.
+b) Los actos de edificación y uso del suelo, subsuelo y vuelo que, con arreglo a la normativa general de ordenación de la edificación, precisen de proyecto, salvo los recogidos en el artículo 155.e) de esta Ley.
+c) Cualquier actuación que tenga el carácter de intervención total en edificaciones catalogadas o que dispongan de algún tipo de protección de carácter ambiental o histórico-artístico, regulada a través de norma legal o documento urbanístico y aquellas otras de carácter parcial que afecten a los elementos o partes objeto de protección.
+d) Los actos de parcelación, segregación y división de terrenos, en cualquier clase de suelo, salvo cuando formen parte de un proyecto de reparcelación debidamente aprobado.
+e) Las talas y el trasplante de árboles, de masas arbóreas o de vegetación arbustiva.
+f) La ubicación de casas prefabricadas e instalaciones similares, ya sean provisionales o permanentes, en cualquier clase de suelo.
+g) Las obras y los usos provisionales que se regulan en esta Ley.
+Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Redactado conforme a la corrección de errores publicada en el BOCM núm. 47, de 24 de febrero de 2023. Ref. BOCM-m-2023-90050
+ Se modifica por el art. único.4 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+## Sección 2
+
+Sección 2.ª Intervención municipal en actos de construcción y edificación y uso del suelo
+
+### Artículo 153
+
+Artículo 153. Régimen y alcance de las licencias urbanísticas.
+1. Las licencias urbanísticas se otorgarán de acuerdo con las previsiones de la legislación y el planeamiento urbanístico vigentes en el momento de resolverlas, siempre que su resolución se produzca dentro del plazo legalmente establecido. Si se resolvieran fuera de plazo, se otorgarían de acuerdo con la normativa vigente en el momento en que se tuvieron que resolver.
+2. Se otorgarán dejando a salvo el derecho de propiedad y sin perjuicio de terceros, salvo que afecten al dominio público o suelos patrimoniales de la Administración pública. La concesión de la licencia urbanística se entenderá sin perjuicio de las autorizaciones o concesiones que sean pertinentes por parte del ente titular del dominio público, que serán, en todo caso, emitidas con carácter previo a la licencia urbanística.
+3. Su obtención, legitima al interesado para la realización de la actuación urbanística desde la fecha en que se dicte el correspondiente acto administrativo, sin perjuicio de la notificación y de los efectos que se derivan de la misma con arreglo a la legislación del procedimiento administrativo común.
+4. Cuando junto con el proyecto de obras de edificación se presenten proyectos parciales, programas de fases constructivas o documentos técnicos relativos a elementos autónomos de las obras o instalaciones específicas, podrá otorgarse, si ello fuera factible técnicamente, licencia para el primero a reserva de la integración sucesiva en la misma por las aprobaciones separadas de los segundos.
+5. Cuando las obras presenten suficiente complejidad, pero sea clara su viabilidad urbanística en conjunto, podrá también convenirse en el seno del procedimiento y para la preparación de la resolución sobre la licencia, un programa de autorización por partes autónomas de las obras, todas cuyas autorizaciones se entenderán otorgadas bajo la condición legal resolutoria de la licencia definitiva. Las autorizaciones parciales legitimarán la ejecución de las obras a que se refieran, si así lo especifican.
+Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. único.5 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+### Artículo 154
+
+Artículo 154. Procedimiento de las licencias urbanísticas.
+1. El procedimiento de otorgamiento de las licencias urbanísticas se regulará en las ordenanzas municipales.
+2. Las licencias urbanísticas se otorgarán conforme a las siguientes reglas:
+a) Las solicitudes de licencia se presentarán acompañadas del proyecto técnico redactado por profesional competente, de conformidad con la normativa de ordenación de la edificación. El proyecto deberá ir visado por el colegio profesional correspondiente en los casos pertinentes, conforme a lo establecido en la normativa estatal aplicable.
+b) El otorgamiento de la licencia urbanística irá precedido de los correspondientes informes técnico y jurídico, relativos a la conformidad de la solicitud con la legalidad urbanística. Igualmente deberá contar con informe preceptivo que acredite la firmeza en vía administrativa del proyecto de reparcelación en los términos establecidos en el art 86.2. Además de aquellos informes y autorizaciones que, de conformidad con otras normas aplicables, sean legalmente preceptivos.
+c) Cuando además de licencia urbanística la actuación propuesta se encuentre sujeta a control ambiental, será objeto de resolución única, sin perjuicio de la tramitación de piezas separadas para cada intervención administrativa. La resolución que ponga fin al control ambiental tendrá prioridad, por lo que, si procediera denegarla, se notificará al interesado sin necesidad de resolver sobre la licencia urbanística; en cambio, si la resolución ambiental fuera favorable, se pasará a resolver sobre la actuación urbanística, notificándose en forma unitaria.
+3. Para el inicio de las obras una vez obtenida la licencia conforme a un proyecto básico, será suficiente con la presentación por el interesado de la declaración responsable en la que se manifieste que el proyecto de ejecución desarrolla al básico y no introduce modificaciones sustanciales que supongan la realización de un proyecto diferente al inicialmente autorizado.
+4. Las solicitudes de licencia urbanística deben ser resueltas y notificadas a los interesados dentro del plazo máximo de tres meses. Dicho plazo empieza a computar desde la fecha en que la solicitud tenga entrada en el registro municipal y se interrumpe en los casos previstos en la legislación ambiental y de procedimiento administrativo común. En especial, cuando para el otorgamiento de la licencia sea necesario solicitar informe preceptivo de otra Administración, o de otro órgano de la misma Administración, la suspensión no podrá exceder de tres meses y se realizará en los términos establecidos en la ley reguladora del procedimiento administrativo. Si transcurridos éstos no se hubiera evacuado el informe, proseguirá el procedimiento.
+5. El Ayuntamiento solo podrá formular un único requerimiento de subsanación de deficiencias, y en su caso, mejora, que deberá notificarse al interesado dentro del mes siguiente a la presentación.
+6. La resolución que ponga fin al procedimiento de solicitud de las licencias urbanísticas habrá de ser motivada. Toda resolución por la cual se deniegue la concesión de la licencia urbanística solicitada deberá contener explícitamente la referencia a las normas o el planeamiento vigente con los que la solicitud esté en contradicción.
+7. En los supuestos de sujeción a licencia urbanística regulados en esta Ley, transcurrido el plazo de resolución sin haberse notificado esta, se entenderá desestimada la solicitud por silencio administrativo.
+Se modifica la letra b) del apartado 2 y el apartado 4 por el art. 2.28 y 29 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. único.6 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+### Artículo 155
+
+Artículo 155. Actos sometidos a declaración responsable urbanística.
+Con carácter general estarán sujetos a declaración responsable urbanística todos aquellos actos de transformación, construcción, edificación o uso del suelo, no recogidos expresamente en los artículos 152 y 160 de la presente Ley, y en particular, los siguientes:
+a) Las obras de edificación de nueva planta de escasa entidad constructiva y sencillez técnica que no tengan, de forma eventual o permanente, carácter residencial ni público y se desarrollen en una sola planta.
+b) Las obras de ampliación, modificación, reforma o rehabilitación sobre los edificios existentes que no produzcan una variación esencial de la composición general exterior, la volumetría, la envolvente global o el conjunto del sistema estructural, y que no requieran la redacción de un proyecto de obras de conformidad con lo dispuesto por la legislación estatal de ordenación de la edificación.
+c) La primera ocupación y funcionamiento de las edificaciones de nueva planta y de las casas prefabricadas, así como de los edificios e instalaciones en general.
+d) Los actos de agrupación de terrenos en cualquier clase de suelo, salvo cuando formen parte de un proyecto de reparcelación debidamente aprobado.
+e) Cualquiera de las actuaciones reguladas en el marco de la Ley 2/2012, de 12 de junio, de dinamización de la actividad comercial en la Comunidad de Madrid.
+f) Los cerramientos de parcelas, obras y solares.
+g) Las demoliciones de construcciones y edificaciones existentes, siempre que no dispongan de algún tipo de protección de carácter ambiental o histórico-artístico, ya sea total o de elementos o partes objeto de protección, regulada a través de norma legal o documento urbanístico.
+h) La colocación de vallas, rótulos y otros elementos de publicidad exterior visibles desde la vía pública.
+i) Los cambios del uso de los edificios e instalaciones, en tanto no tengan por objeto cambiar el uso característico del edificio.
+j) Los actos de uso del vuelo sobre construcciones o instalaciones.
+k) La instalación y ubicación de casetas prefabricadas auxiliares o de menor entidad.
+l) La reparación de instalaciones y conducciones en el subsuelo de terrenos que sean suelo urbano.
+m) Los trabajos previos a la construcción tales como catas, sondeos o prospecciones.
+n) La instalación de sistemas de aprovechamiento de energías renovables para autoconsumo, salvo que afecte al patrimonio histórico artístico, al dominio público o a un área con protección medioambiental.
+ñ) La instalación de puntos de recarga de vehículos eléctricos, salvo que afecte al patrimonio histórico artístico, al dominio público o a un área con protección medioambiental.
+Se añaden las letras n) y ñ) por el art. 2.30 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. único.7 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+### Artículo 156
+
+Artículo 156. Contenido de las declaraciones responsables urbanísticas.
+1. Los ayuntamientos regularan mediante ordenanza el contenido de las declaraciones responsables urbanísticas. De igual forma, deberán aprobar modelos normalizados de declaración responsable urbanística que deberán estar a disposición de los interesados.
+2. No obstante, y en su defecto, el documento de declaración responsable urbanística deberá contener:
+a) Los datos previstos en la legislación en materia procedimental para las solicitudes de inicio de procedimientos a instancia del interesado.
+b) La identificación de la actuación urbanística a realizar, sus características y su ubicación.
+c) Manifestación expresa y bajo su responsabilidad, del cumplimiento de los requisitos exigidos por la normativa aplicable. En particular deberá manifestarse que la actuación pretendida no se realiza sobre bienes que dispongan de algún tipo de protección de carácter ambiental o histórico-artístico, ya sea total o de elementos o partes objeto de protección, regulada a través de norma legal o documento urbanístico.
+De igual forma, deberá manifestarse por el interesado que está en posesión de la documentación que acredite el cumplimiento de dicha normativa, y que la pondrá a disposición del ayuntamiento en el caso de ser requerida. Voluntariamente podrán aportarse copias de tales documentos.
+d) El compromiso expreso de mantener el cumplimiento de dichos requisitos durante el período de tiempo inherente a la realización de la actuación objeto de la declaración.
+e) Copia de las autorizaciones emitidas por otras Administraciones que, en su caso, fueran exigibles.
+f) Documentación técnica suscrita por técnico competente y visada por el colegio profesional competente, cuando así venga exigido por la legislación aplicable.
+g) En su caso, un informe emitido por técnico competente que verifique la capacidad portante de la edificación sobre la que se colocará la instalación de sistemas de aprovechamiento de energía renovables para autoconsumo, así como el cumplimiento de la normativa en materia de seguridad contra incendios.
+h) En su caso, un informe emitido por técnico competente que acredite la suficiencia de la potencia instalada para soportar los puntos de recarga proyectados en el supuesto de instalación de puntos de recarga de vehículos eléctricos.
+3. Las ordenanzas municipales no podrán exigir a los solicitantes la presentación de datos y documentos no exigidos por esta Ley u otra normativa aplicable, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.
+Se añaden las letras g) y h) al apartado 2 por el art. 2.31 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. único.8 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+### Artículo 157
+
+Artículo 157. Régimen y efectos de las declaraciones responsables urbanísticas.
+1. El régimen y efectos de la declaración responsable urbanística es el establecido en el artículo 69 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, sin perjuicio de las especialidades contenidas en esta Ley.
+La declaración responsable habilita al interesado para el ejercicio de la actuación pretendida desde el día de su presentación en el registro del ayuntamiento correspondiente, sin perjuicio de las funciones municipales de comprobación, control e inspección recogidas en la presente Ley.
+2. En el caso de las declaraciones responsables urbanísticas de primera ocupación y funcionamiento de las edificaciones de nueva planta y de las casas prefabricadas, así como de los edificios e instalaciones en general, el incumplimiento de los requisitos necesarios para el uso previsto dará lugar al régimen previsto en el artículo 11.5 del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Suelo y Rehabilitación Urbana.
+3. El interesado podrá, si así lo estimase conveniente, comprobar previamente a la presentación de la declaración responsable pretendida, la viabilidad urbanística de la actuación, a través de la formulación de una consulta urbanística.
+4. En ningún caso podrá entenderse legitimada la ejecución de actuaciones amparadas en una declaración responsable cuando sean contrarias o disconformes con la legalidad urbanística aplicable.
+5. Las modificaciones de los actos legitimados por declaración responsable urbanística requerirán la presentación en el ayuntamiento de una declaración complementaria.
+6. Las actuaciones sujetas a declaración responsable urbanística que se realicen sin su presentación se considerarán como actuaciones sin título habilitante a todos los efectos, aplicándoseles el régimen de protección de la legalidad y sancionador previsto en el Título V de esta Ley.
+7. La inexactitud, falsedad u omisión de carácter esencial de cualquier dato, manifestación o documento que se acompañe o incorpore en la declaración responsable, determinará la imposibilidad de continuar con el ejercicio de la actuación legitimada, sin perjuicio del resto de responsabilidades conforme a la legislación del procedimiento administrativo común. La resolución administrativa que declare el cese en el ejercicio del derecho podrá determinar la obligación de restituir la situación jurídica al momento previo del inicio de los actos de transformación, construcción, edificación y uso del suelo, el subsuelo y el vuelo.
+Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. único.9 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+### Artículo 158
+
+Artículo 158. Plazos y caducidad de las licencias y las declaraciones responsables urbanísticas.
+1. Todos los actos amparados en una licencia urbanística se otorgarán por un plazo determinado tanto para iniciar como para terminar las obras, salvo los referidos a usos, que tendrán vigencia indefinida sin perjuicio de la obligación legal de adaptación de adaptación de los establecidos a las normas que en cada momento los regulen. De no contener la licencia indicación expresa sobre estos, se entenderá otorgada por un plazo de un año para iniciar las obras y tres años para su terminación.
+2. Los actos amparados en una declaración responsable urbanística deberán ejecutarse dentro de los plazos de inicio de seis meses y de finalización de un año desde su presentación.
+3. Los ayuntamientos podrán conceder prórrogas de los plazos de los títulos habilitantes por una sola vez y por un nuevo plazo no superior al inicialmente previsto, previa solicitud expresa formulada por el interesado antes de la conclusión de los plazos contemplados para el comienzo y para la finalización de las obras.
+4. Tanto las licencias como las declaraciones responsables urbanísticas se someterán al régimen de caducidad. En este supuesto, el órgano competente municipal declarará, de oficio o a instancia de cualquier persona, la caducidad de los títulos habilitantes, previa audiencia del interesado, una vez transcurridos e incumplidos cualesquiera de los plazos previstos en este artículo para cada uno de los distintitos títulos habilitantes. La declaración de caducidad extinguirá el título habilitante, no pudiéndose iniciar ni proseguir las actuaciones urbanísticas si no se solicita y obtiene un nuevo título habilitante ajustado a la ordenación urbanística que esté en vigor.
+Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. único.10 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+### Artículo 159
+
+Artículo 159. Procedimiento de control posterior de las declaraciones responsables urbanísticas.
+1. Las declaraciones responsables serán objeto necesariamente de control posterior por el ayuntamiento o sus entidades colaboradoras a las que se refiere las Disposiciones Adicionales primera y segunda de esta Ley.
+2. De conformidad con lo anterior, los ayuntamientos regularan mediante ordenanza el procedimiento de comprobación posterior de los elementos y circunstancias puestas de manifiesto por el interesado a través de la declaración responsable.
+No obstante, y en defecto de procedimiento establecido al efecto, el procedimiento de control posterior de las declaraciones responsables se regirá por los apartados siguientes.
+3. En el control posterior, se comprobará, en primer lugar, la veracidad de los datos y de los documentos aportados, así como el cumplimiento de los requisitos formales exigidos.
+De apreciarse deficiencias, se procederá a requerir su subsanación durante un plazo de diez días, con indicación expresa de que, si no lo hiciera, la declaración responsable devendrá ineficaz y se prohibirá el ejercicio de las actuaciones objeto de esta. La no subsanación de deficiencias determinará la imposibilidad de llevar a cabo las actuaciones declaradas, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiere lugar.
+4. Seguidamente, se comprobará la conformidad con la normativa aplicable. En el caso de apreciarse incumplimientos o deficiencias se procederá a requerir su subsanación. Si los incumplimientos o deficiencias apreciadas no resultan susceptibles de subsanación, se acordará, previa audiencia al interesado, la paralización de las actuaciones declaradas, y el cese de los efectos de la declaración responsable. Esta resolución obligará al interesado a restituir el orden jurídico infringido, y podrá determinar la imposibilidad de presentar una nueva declaración responsable con el mismo objeto, durante un período máximo de un año. Todo ello, sin perjuicio de las responsabilidades indicadas en el apartado anterior.
+El inicio de este procedimiento de control material conllevará la suspensión cautelar de la actuación de forma inmediata si existe cualquier afección que implique un riesgo grave para las personas, los bienes o el medio ambiente.
+5. La comprobación de la conformidad de la actuación con la normativa aplicable en los términos antes indicados resultará en la emisión por el ayuntamiento del correspondiente acto de conformidad cuando ello fuera necesario a los efectos previstos en la legislación que resulte de aplicación. En particular, a los efectos previstos en el artículo 28.1 del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Suelo y Rehabilitación Urbana.
+6. Sin perjuicio de lo establecido en el presente artículo, asimismo, se podrá ejercer, en cualquier momento, sobre las actuaciones declaradas, las facultades inspectoras previstas en esta Ley.
+Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. único.11 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+### Artículo 160
+
+Artículo 160. Actos no sujetos a título habilitante urbanístico.
+No requerirán título habilitante urbanístico los siguientes actos de transformación, construcción, edificación o uso del suelo, subsuelo o el vuelo:
+a) Las obras públicas y demás construcciones e instalaciones eximidas expresamente por la legislación sectorial.
+b) Las obras de urbanización amparadas en proyectos debidamente aprobados.
+c) Las parcelaciones, agrupaciones, segregaciones, modificaciones o cualesquiera otros actos de división de fincas o predios, que hayan sido incluidas en proyectos de reparcelación aprobados.
+d) Los actos amparados por órdenes de ejecución municipales, sin perjuicio de la necesidad de presentación de proyecto técnico, en su caso.
+e) Las actuaciones urbanísticas promovidas por los municipios en su propio término municipal. En estos supuestos, el acuerdo municipal que los autorice o apruebe producirá los mismos efectos que la licencia urbanística a los efectos de la presente Ley, sin perjuicio de lo dispuesto en la legislación de régimen local.
+f) Todas aquellas obras o actuaciones urbanísticas de menor entidad consistentes en sustitución de acabados interiores de una sola vivienda o local, solados, alicatados, yesos y pinturas, reparaciones puntuales de cubiertas, cornisas, salientes o vuelos, reposición o renovación de instalaciones eléctricas o de aires acondicionados, limpieza de solares u otras obras o actuaciones de análogas características, sin perjuicio de contar con las autorizaciones necesarias para la retirada de residuos o la ocupación de la vía pública, de conformidad con la legislación de régimen local.
+g) Las actuaciones contempladas en el artículo 29 bis, sin perjuicio del informe municipal señalado en dicho artículo.
+Se añade la letra g) por el art. 2.32 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Téngase en cuenta la disposición transitoria 1 para la aplicación de la modificación.
+ Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. único.12 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+### Artículo 161
+
+Artículo 161. Revocación de títulos habilitantes disconformes sobrevenidamente con el planeamiento urbanístico.
+1. Cuando al momento de la entrada en vigor de un nuevo plan o de una modificación o revisión del existente, un título habilitante resulte sobrevenidamente disconforme con las nuevas determinaciones, el municipio actuará de conformidad con las siguientes reglas:
+a) De estar ya iniciada la edificación, podrá revocar el título habilitante, o permitir la terminación de las obras, quedando el edificio en situación de fuera de ordenación.
+b) De no haberse iniciado la edificación, procederá a la revocación del título habilitante.
+2. En cualquiera de los casos, se requerirá audiencia del interesado y de acordarse la revocación, se establecerá en la misma resolución la indemnización que, en su caso, corresponda según lo establecido en la legislación estatal.
+Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. único.13 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+## Sección 3
+
+Sección 3.ª Ejecución sustitutoria en la construcción y edificación por incumplimiento de la función social de la propiedad
+Se suprime por el art. 12.9 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+
+### Artículo 162
+
+Artículo 162. Obligaciones de las empresas suministradoras de servicios.
+1. Las empresas suministradoras de energía eléctrica, agua, gas y telefonía exigirán para la contratación provisional de los respectivos servicios la acreditación del título habilitante urbanístico de conformidad con lo establecido en la presente Ley.
+2. El plazo máximo de duración del contrato provisional será el establecido en la licencia urbanística para los supuestos sujetos a licencia recogidos en esta Ley. Para los supuestos sujetos a declaraciones responsables urbanísticas el plazo máximo será de un año de conformidad con el plazo máximo de finalización de las actuaciones sometidas a declaración responsable urbanística.
+3. Las empresas citadas en el apartado primero de este artículo y las de telecomunicaciones exigirán para la contratación definitiva de los suministros o servicios respectivos en edificios o construcciones de nueva planta u objeto de obras de ampliación, reforma, modificación o rehabilitación el documento que acredite la presentación de la correspondiente declaración responsable de la primera ocupación ante el Ayuntamiento correspondiente.
+Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. único.14 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+ Se suprime por el art. 12.9 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+
+### Artículo 163
+
+Artículo 163. Actos no sujetos a título habilitantes de naturaleza urbanística promovidos por otras Administraciones Públicas.
+1. Los actos recogidos en los artículos anteriores, promovidos por la Comunidad de Madrid o por entidades de derecho público de ellas dependientes, así como por mancomunidades, realizados en ejecución de políticas públicas, y sean urgentes o de interés general, se sujetarán al procedimiento previsto en este artículo.
+2. La Administración o la entidad de la cual dependa el proyecto de obra o instalación pública deberá comunicar al ayuntamiento la documentación acreditativa de la aprobación de dicho proyecto, así como toda la documentación técnica, indicando la fecha de comienzo de la actuación, que nunca será inferior a un mes. En los supuestos de urgencia o excepcionalidad, dicho plazo podrá reducirse a quince días hábiles.
+3. El ayuntamiento dispondrá del plazo dispuesto en el apartado anterior, para analizar la actuación pretendida en relación con el planeamiento vigente. Transcurrido dicho plazo sin que se evacue el informe se entenderá otorgada la conformidad.
+4. En caso de disconformidad expresa, la Administración o entidad de la que dependa el proyecto adaptará, si es posible, su contenido a la ordenación urbanística aplicable, comunicando las rectificaciones hechas al ayuntamiento. De no ser posible la adaptación, motivando la urgencia o el interés general de su ejecución, la Administración o la entidad de la que dependa el proyecto lo comunicará al ayuntamiento y a la Consejería competente en materia de ordenación urbanística, la cual lo elevará al Gobierno de la Comunidad de Madrid.
+5. El Gobierno de la Comunidad de Madrid, sobre la base de los motivos de urgencia o interés general que exige la realización del proyecto, resolverá sobre su ejecución precisando, en su caso, la incoación del procedimiento de modificación del planeamiento urbanístico, sin perjuicio de acordar, si así lo considera, la iniciación de las obras. La elaboración del proyecto de modificación de planeamiento deberá ser asumida por la Administración o entidad de la cual dependa el proyecto de obra o instalación pública.
+6. Por último, la recepción de las obras, formalizadas en un acta de recepción, por la Administración o entidad titular del proyecto sustituirá, a todos los efectos, al título habilitante de naturaleza urbanística que requiera la puesta en marcha del uso o actividad a que vayan destinadas las obras, edificaciones o construcciones llevadas a cabo.
+7. La Administración General del Estado podrá aplicar, para la realización de las obras y los servicios de su competencia, el procedimiento previsto en este artículo.
+Se modifica por el art. 5.17 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. único.15 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+ Se suprime por el art. 12.9 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+
+## CAPÍTULO IV
+
+Régimen de la colaboración público-privada
+Se añade por el art. 5.18 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 164
+
+Artículo 164. Colaboración de entidades privadas en el ejercicio de funciones administrativas en el ámbito urbanístico.
+1. Los ayuntamientos podrán ejercer en colaboración con las entidades privadas colaboradoras urbanísticas, las funciones en materia urbanística a las que se refiere el artículo 166 de la presente ley.
+2. El régimen jurídico y el funcionamiento de las entidades privadas colaboradoras en el ámbito urbanístico será el establecido en este capítulo. No obstante, en el marco de lo dispuesto en el mismo, los ayuntamientos podrán desarrollar el régimen jurídico aplicable a las entidades colaboradoras en su término municipal, determinando las funciones que pueden ejercer de las previstas en el artículo 166 de la presente ley, el alcance de su intervención, el procedimiento a seguir en el ejercicio de su actividad, las obligaciones adicionales a que están sujetas respetando lo establecido en el artículo 167 sexies de esta ley, así como completar el régimen sancionador en cuanto a éstas.
+Igualmente, los ayuntamientos podrán establecer el importe mínimo y máximo de los precios a percibir por las entidades colaboradoras en su respectivo término municipal, siempre que se proceda a la reducción o cancelación de la tasa municipal correspondiente a los servicios urbanísticos en los que intervengan.
+3. En todo caso, los ayuntamientos pueden excluir la intervención de estas entidades en su término municipal mediante un acuerdo adoptado por el Pleno de la Corporación, que deberá ser comunicado al órgano al que se atribuye la gestión del Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid, adscrito a la consejería competente en materia de ordenación del territorio y urbanismo.
+Se modifica por el art. 2.33 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica por el art. 5.20 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se suprime por el art. 12.9 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+
+### Artículo 165
+
+Artículo 165. Concepto de entidades privadas colaboradoras urbanísticas.
+1. Se consideran entidades privadas colaboradoras urbanísticas a aquellas personas jurídicas que, actuando bajo su responsabilidad y cumpliendo con los requisitos previstos en el artículo 167 ter de la presente ley, estén debidamente acreditadas por la Entidad Nacional de Acreditación (ENAC) mediante el sistema previsto en la norma UNE-EN ISO/IEC 17020, o norma que la sustituya, e inscritas en el Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid.
+2. Las entidades privadas colaboradoras urbanísticas tendrán carácter técnico, personalidad jurídica propia y dispondrán de los medios materiales, personales y financieros necesarios para el desempeño adecuado de las funciones recogidas en el siguiente artículo.
+Se modifica por el art. 2.34 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica por el art. 5.21 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se suprime por el art. 12.9 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+
+### Artículo 166
+
+Artículo 166. Funciones de las entidades privadas colaboradoras urbanísticas.
+1. Las entidades privadas colaboradoras urbanísticas podrán colaborar con los ayuntamientos en el ejercicio de las siguientes funciones, con independencia del uso urbanístico:
+a) De comprobación, intervención o control en el procedimiento de tramitación de licencias y declaraciones responsables urbanísticas, a instancia del ciudadano, mediante la emisión de actas de comprobación y certificados de conformidad de licencias y declaraciones responsables urbanísticas.
+b) De verificación e inspección de actos de uso del suelo o subsuelo y edificación, a instancia del respectivo ayuntamiento o, en su caso, de la Comunidad de Madrid o de las entidades de derecho público de ella dependientes, mediante la emisión de informes.
+2. En aquellos casos en los que los ayuntamientos hayan desarrollado el régimen jurídico previsto en este capítulo, el ejercicio de las funciones establecidas en el apartado anterior por las entidades privadas colaboradoras urbanísticas, se ajustará a los dispuesto en sus ordenanzas municipales.
+Se modifica por el art. 2.35 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica por el art. 5.22 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se suprime por el art. 12.9 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+
+### Artículo 167
+
+Artículo 167. Régimen jurídico de las entidades privadas colaboradoras urbanísticas.
+1. Las entidades privadas colaboradoras actuarán con imparcialidad, confidencialidad e independencia, ejerciendo su actividad en régimen de libre competencia y respetando las disposiciones en materia de incompatibilidades. Serán responsables de los daños y perjuicios causados con ocasión del ejercicio de sus funciones.
+2. Las entidades privadas colaboradoras urbanísticas actuarán a instancia del interesado o del ayuntamiento, no siendo su intervención preceptiva. De igual forma, la Comunidad de Madrid y las entidades de derecho público de ella dependientes, podrán instar la actuación de dichas entidades.
+3. Las entidades privadas colaboradoras en el ámbito urbanístico en ningún caso tendrán carácter de autoridad, ni su actuación podrá impedir la función de verificación, inspección y control propia de los servicios técnicos municipales.
+4. Los interesados podrán voluntariamente hacer uso de los servicios prestados por las entidades privadas colaboradoras, sin que de ello pueda derivarse tratamiento diferenciado alguno por parte del ayuntamiento.
+5. En su actuación, las entidades colaboradoras podrán emitir actas de comprobación, certificados e informes. Los ayuntamientos los incorporarán al expediente administrativo, asumiendo su contenido o manifestando, en su caso, su oposición debidamente motivada.
+6. En todo caso, los informes emitidos por los servicios municipales prevalecerán sobre la documentación emitida por las entidades colaboradoras en el ejercicio de sus funciones.
+7. Los certificados de conformidad surtirán efectos equiparables a los emitidos por los servicios técnicos municipales. En los casos de certificados de no conformidad, será precisa la ratificación o rectificación por los servicios técnicos municipales.
+Se modifica por el art. 2.36 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica por el art. 5.23 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se suprime por el art. 12.9 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+
+### Artículo 167 bis
+
+Artículo 167 bis. Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid.
+1. El Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid es un registro administrativo, de carácter público, que dependerá de la consejería competente en materia de ordenación del territorio y urbanismo.
+2. El régimen jurídico del Registro de entidades privadas colaboradoras urbanísticas se regulará mediante orden de la consejería competente en materia de ordenación del territorio y urbanismo.
+3. En el Registro se anotarán, como mínimo, los siguientes extremos:
+a) Datos identificativos de la entidad privada colaboradora urbanística.
+b) Acreditación de la Entidad Nacional de Acreditación, ENAC, en su calidad de Organismo Nacional de Acreditación.
+c) Alcance de las funciones para las que está acreditada la entidad, conforme a la acreditación.
+d) Modificación, suspensión, retirada o extinción de la acreditación.
+e) Suspensión de los efectos de la inscripción, por las causas previstas en el artículo 167 septies de la presente ley.
+f) Cancelación de la inscripción, por las causas previstas en el artículo 167 octies de la presente ley.
+Se modifica por el art. 2.37 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se añade por el art. 5.24 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 167 ter
+
+Artículo 167 ter. Acreditación de las entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid.
+Para poder ser inscritas en el Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid, las entidades privadas colaboradoras urbanísticas deberán contar con una acreditación concedida por la Entidad Nacional de Acreditación, ENAC, en su calidad de Organismo Nacional de Acreditación. Dicha acreditación deberá estar concedida en cumplimiento de la norma UNE-EN ISO/IEC 17020 (entidades de tipo A), o norma que la sustituya, siendo necesario que cumplan los siguientes requisitos:
+a) Estar válidamente constituidas con arreglo a la normativa que resulte de aplicación.
+b) Tener suscrito un seguro de responsabilidad civil por cuantía mínima de 1.000.000 de euros, que debe incluir la actividad de la entidad y de sus profesionales cuando desarrollan su actividad como entidad de colaboración. Dicha cuantía, además de no ser limitativa de la responsabilidad, podrá ser actualizada mediante orden de la consejería competente en materia de ordenación del territorio y urbanismo.
+c) Tener adscrito en todo momento al ejercicio de las funciones desarrolladas por la entidad en la Comunidad de Madrid, a profesionales con las siguientes características:
+1. Al menos un arquitecto o ingeniero con experiencia profesional acreditada por un período mínimo de diez años en las siguientes funciones:
+1.º Redactar, dirigir e interpretar proyectos de obras de edificación.
+2.º Redactar, interpretar y aplicar instrumentos de planeamiento.
+3.º Redactar, interpretar y aplicar instrumentos de gestión urbanística.
+2. Al menos un abogado, legalmente habilitado para ello, con experiencia profesional acreditada por un período mínimo de diez años en asesoramiento jurídico en materia de planeamiento, gestión y disciplina urbanística o aspectos jurídico-técnicos en materia de construcción, edificación, y urbanización.
+d) Disponer de un procedimiento gratuito de reclamaciones que garantice a los interesados la adecuada defensa de sus derechos e intereses legítimos.
+e) Disponer de un sistema de atención al cliente que garantice la atención en todo el ámbito territorial de la Comunidad de Madrid.
+Se modifica por el art. 2.38 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se añade por el art. 5.25 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Redactado el apartado 2 conforme a la corrección de errores publicada en el BOCM núm. 47, de 24 de febrero de 2023. Ref. BOCM-m-2023-90050
+
+### Artículo 167 quater 
+
+Artículo 167 quater. Procedimiento para la inscripción en el Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid.
+1. Para actuar como entidad privada colaboradora urbanística en el ámbito de la Comunidad de Madrid, la entidad deberá inscribirse en el Registro previsto en el artículo 167 bis.
+2. La solicitud de inscripción se dirigirá a la consejería competente en materia ordenación del territorio y urbanismo, que será la encargada de adoptar la resolución de inscripción dentro del mes siguiente a la presentación de la correspondiente solicitud. Transcurrido aquel plazo sin que se haya notificado la resolución de inscripción, se entenderá desestimada la solicitud.
+3. Para obtener la inscripción en el Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid, los interesados deberán aportar junto con la solicitud los siguientes documentos:
+a) Estatutos o normas por la que se rija la entidad, inscritos en el registro público correspondiente.
+b) Certificado de acreditación emitido por la Entidad Nacional de Acreditación, por el que se acredita el cumplimiento de los requisitos establecidos en la norma UNE-EN 38 ISO/IEC 17020, o norma que la sustituya. El certificado deberá acompañarse de la documentación técnica exigida para su validez.
+c) Declaración de la entidad en la que manifieste el cumplimiento de todos los requisitos previstos en el artículo 167 ter, que dispone de la documentación que así lo acredita y el compromiso de mantener su cumplimiento durante la vigencia de la inscripción.
+4. El órgano de la consejería competente en materia de ordenación del territorio y urbanismo que tenga atribuida la gestión del Registro podrá, en cualquier momento, solicitar a la entidad la documentación precisa para comprobar el cumplimiento de los requisitos exigidos para la inscripción.
+Se modifica por el art. 2.39 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se añade por el art. 5.26 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 167 quinquies
+
+Artículo 167 quinquies. Efectos de la inscripción en el Registro de entidades privadas colaboradoras urbanísticas e intervención de las entidades.
+1. Las entidades inscritas en el Registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid, podrán desarrollar su actividad en todo el territorio de la Comunidad de Madrid, salvo en el supuesto previsto en el artículo 164.3 de esta ley.
+2. Las entidades colaboradoras, una vez inscritas, podrán ejercer sus funciones en los términos previstos en el artículo 166 de esta ley. En aquellos municipios que cuenten con un régimen propio de entidades colaboradoras deberán igualmente ajustarse al mismo.
+3. A las entidades inscritas en el registro de entidades privadas colaboradoras urbanísticas de la Comunidad de Madrid, les será de aplicación el régimen sancionador previsto en este capítulo.
+Se modifica por el art. 2.40 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se añade por el art. 5.27 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 167 sexies
+
+Artículo 167 sexies. Obligaciones e incompatibilidades de las entidades privadas colaboradoras urbanísticas.
+1. Las entidades privadas colaboradoras urbanísticas están sujetas al cumplimiento de las siguientes obligaciones:
+a) Cumplir y mantener vigentes los requisitos que sirvieron de base para su inscripción, debiendo comunicar cualquier modificación de estos al órgano que la concedió.
+b) Cumplir adecuadamente las funciones de comprobación, verificación, inspección o control conforme a su certificado de acreditación.
+c) Garantizar la confidencialidad de la información que obtengan en el ejercicio de sus funciones y cumplir la normativa de aplicación en materia de protección de datos de carácter personal.
+d) No subcontratar actuaciones vinculadas al ejercicio de sus funciones de comprobación, verificación, inspección y control en los términos previstos en la acreditación.
+e) Entregar copia de las actas de comprobación, certificados e informes, así como cualquier otra información que les sea requerida por las Administraciones en el ejercicio de sus funciones.
+f) Disponer de procedimientos específicos para el tratamiento de las reclamaciones que presenten sus clientes por sus actividades, así como contar con un archivo de todas las actuaciones relacionadas con ellas.
+g) Tarifar sus actuaciones, fijando anualmente los precios a percibir por el ejercicio de sus funciones. Dichos precios deberán ser comunicados, con una antelación mínima de dos meses al año natural en los que vayan a estar en vigor, al órgano al que se atribuye la gestión del Registro, que dará publicidad a los mismos.
+h) Conservar durante un período de siete años los expedientes tramitados, las actas de comprobación, certificados e informes emitidos.
+i) Permitir el acceso a sus instalaciones y oficinas a la entidad de acreditación y al personal competente de la Comunidad de Madrid o, en su caso, de los ayuntamientos donde ejerzan sus funciones.
+j) Dar una correcta información a los ciudadanos en general y, en particular, a sus clientes, sobre sus funciones de comprobación, verificación y control, así como de la prestación de sus servicios como entidad privada colaboradora. En concreto, las entidades colaboradoras informarán a los interesados de forma individualizada, sobre las siguientes cuestiones:
+1.º Medio de intervención administrativa al que se encuentra sujeta la actuación pretendida, tramitación que en su caso corresponde y plazos legales.
+2.º Documentación que debe aportar con carácter general, así como la documentación específica determinante para justificar pretensiones basadas en situaciones precedentes o aquella documentación que deba disponer para el ejercicio de la actividad o para realizar la actuación urbanística pretendida.
+3.º Existencia, en su caso, de exigencias técnicas determinantes que hagan inviable su actuación y el marco normativo aplicable.
+4.º Precios, tasas e impuestos que se puedan devengar por las operaciones sujetas a licencia o declaración responsable, así como la forma, el momento y la cuantía del pago.
+5.º Procedimiento para la presentación de quejas y reclamaciones.
+6.º Acceso electrónico, en su caso, a la información sobre el estado de la tramitación de la solicitud.
+7.º Cualquier otra que sea impuesta por la normativa sectorial que les sea de aplicación o que regulen los ayuntamientos para su respectivo término municipal.
+2. Las entidades privadas colaboradoras urbanísticas y el personal a su servicio, deberán respetar las disposiciones aplicables en materia de incompatibilidades.
+En todo caso, están sujetas a las siguientes causas de incompatibilidad en el ejercicio de sus funciones, sin perjuicio de las que puedan establecer los Ayuntamientos en sus respectivas ordenanzas:
+a) No podrán ser proyectistas, fabricantes, proveedoras, instaladoras, suministradoras, compradoras, propietarias, usuarias, mantenedoras, consultoras o directoras de ningún tipo de actuación urbanística sobre la que ejerza alguna de las funciones previstas en el artículo 166.
+b) No compartirán infraestructura, instalaciones, estructura organizativa, personal, medios, equipos, publicidad o sistemas informáticos con ninguna empresa que realice alguna actividad de las señaladas en el apartado anterior.
+c) No podrán ejercer funciones de comprobación, verificación, inspección y control relativas a actuaciones urbanísticas, cuando sus titulares, socios o su personal directivo tengan relación de parentesco hasta segundo grado tanto en línea recta como colateral o sean cónyuges o estén vinculados por análoga relación de convivencia afectiva con personas que sean titulares de aquellas.
+d) No podrán inspeccionar actuaciones en las que previamente hubieran emitido un certificado a solicitud de un interesado.
+Se modifica por el art. 2.41 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se añade por el art. 5.28 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 167 septies
+
+Artículo 167 septies. Suspensión de la autorización de las entidades privadas colaboradoras urbanísticas.
+1. La suspensión de la eficacia de la inscripción en el Registro se producirá en el supuesto de suspensión de la acreditación concedida por la Entidad Nacional de Acreditación.
+Asimismo, se podrá suspender provisionalmente la eficacia de la inscripción cuando, con carácter previo o durante la tramitación de un procedimiento sancionador por infracción muy grave de las previstas en el artículo 167 nonies de esta ley, se aprecie que la actuación de la entidad puede resultar lesiva para el interés general.
+2. La suspensión deberá adoptarse, mediante resolución motivada, por el órgano que acordó su inscripción, e impide a la entidad colaboradora el ejercicio de las funciones a las que se refiere el artículo 166 de esta ley durante el tiempo de su duración, que no podrá ser superior a doce meses.
+3. No obstante lo dispuesto en el apartado anterior, la eficacia de la inscripción quedará automáticamente suspendida en el caso de que se produzca la suspensión de la acreditación concedida por la Entidad Nacional de Acreditación.
+En este supuesto, la suspensión de la acreditación, así como el restablecimiento de sus efectos, deberá ponerse en conocimiento del órgano al que se atribuye la gestión del Registro, al efecto de que realice las correspondientes anotaciones en el mismo.
+4. La suspensión de la eficacia de la inscripción, no podrá suponer para el interesado un incremento de los costes derivados de la continuación de la tramitación de su solicitud de licencia o declaración responsable.
+5. La suspensión de los efectos de la inscripción, por cualquiera de las causas previstas en este artículo, no dará derecho a indemnización alguna, y será objeto de anotación en el Registro de entidades privadas colaboradoras urbanísticas.
+Se modifica por el art. 2.42 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica el apartado 3 por el art. 4.1 de la Ley 16/2023, de 27 de diciembre. Ref. BOE-A-2024-10766
+ Se añade por el art. 5.29 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 167 octies
+
+Artículo 167 octies. Cancelación de la inscripción en el Registro de entidades privadas colaboradoras urbanísticas.
+1. La cancelación de la inscripción en el Registro se producirá cuando concurra alguna de las siguientes causas:
+a) En el supuesto de retirada o extinción de la acreditación concedida por la Entidad Nacional de Acreditación.
+b) Haber sido sancionada por infracción muy grave de las previstas en el artículo 167 nonies de esta ley, con la imposición de medida accesoria de cancelación de la inscripción.
+c) Por incumplimiento sobrevenido de cualquiera de los requisitos exigidos para la inscripción.
+d) Renuncia de la entidad privada colaboradora.
+2. La cancelación deberá adoptarse por resolución motivada del órgano que acordó la inscripción. Dicha resolución deberá adoptarse en el plazo de tres meses a contar desde:
+a) La comunicación de la firmeza de la sanción.
+b) Desde el inicio del procedimiento de cancelación cuando la causa sea el incumplimiento sobrevenido de los requisitos de inscripción.
+c) En el supuesto de renuncia, desde la comunicación de la misma por parte de la entidad. En este caso, la efectividad de la renuncia quedará condicionada a la finalización completa de los expedientes cuya tramitación haya iniciado la entidad colaboradora, salvo que justifique debidamente la imposibilidad de continuar con dicha tramitación.
+3. En el supuesto previsto en la letra a) del apartado 1 de este artículo, la inscripción quedará automáticamente cancelada en el caso de que se produzca la retirada o la extinción de la acreditación concedida por la Entidad Nacional de Acreditación. En este supuesto, la retirada o extinción de la acreditación deberá ponerse en conocimiento del órgano al que se atribuye la gestión del Registro, al efecto de que realice las correspondientes anotaciones en el mismo.
+4. La cancelación de la inscripción en el Registro, no podrá suponer para el interesado un incremento de los costes derivados de la continuación de la tramitación de su solicitud de licencia o declaración responsable.
+5. La cancelación de la inscripción, por cualquiera de las causas previstas en este artículo, no dará derecho a indemnización alguna, y será objeto de anotación en el Registro de entidades privadas colaboradoras urbanísticas.
+Se modifica por el art. 2.43 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica el apartado 3 por el art. 4.2 de la Ley 16/2023, de 27 de diciembre. Ref. BOE-A-2024-10766
+ Se añade por el art. 5.30 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 167 nonies
+
+Artículo 167 nonies. Infracciones de las entidades privadas colaboradoras urbanísticas.
+1. Las entidades privadas colaboradoras urbanísticas reguladas en esta ley quedan sujetas al régimen de infracciones dispuesto en el presente artículo.
+2. Son infracciones muy graves de las entidades privadas colaboradoras, las que reciban esta calificación por los ayuntamientos en sus respectivas ordenanzas y, en todo caso, las siguientes:
+a) La realización de actividades y funciones sin estar previamente acreditadas e inscritas en el Registro de entidades privadas colaboradoras urbanísticas.
+b) La realización de actividades y funciones que no están habilitadas a ejercer conforme a la presente ley.
+c) Obstaculizar las actuaciones de supervisión del órgano administrativo competente.
+d) Realizar su actividad y funciones mediante personal técnico no habilitado o no cualificado, en relación con los requisitos recogidos en el artículo 167 ter de esta ley.
+e) La expedición dolosa de actas de comprobación, certificados e informes que no se ajusten a la realidad de los hechos.
+f) No comunicar al ayuntamiento las infracciones urbanísticas que pudieran detectar durante el desarrollo de sus labores de comprobación, verificación, inspección y control.
+g) Las tipificadas como graves que produzcan perjuicios irreparables o comporten un peligro inminente para la seguridad de las personas, los bienes o el medio ambiente.
+3. Son infracciones graves de las entidades privadas colaboradoras, las que reciban esta calificación por los ayuntamientos en sus respectivas ordenanzas y, en todo caso, las siguientes:
+a) La expedición negligente de actas de comprobación, certificados e informes que contengan datos falsos o inexactos.
+b) El ejercicio de funciones de comprobación, verificación, inspección y control de forma incompleta o con resultados erróneos o injustificados.
+c) La falta de actualización del importe de la póliza de seguro exigido en el artículo 167 ter de esta ley.
+d) Vulnerar los principios de confidencialidad, imparcialidad e independencia en el ejercicio de sus funciones o el régimen de incompatibilidades que les resulte aplicable.
+4. Son infracciones leves de las entidades privadas colaboradoras, las que reciban esta calificación por los ayuntamientos en sus respectivas ordenanzas y, en todo caso, las acciones u omisiones que contraríen lo establecido en este capítulo y que no puedan calificarse como grave o muy grave.
+5. Las infracciones que, en su caso, tipifiquen los ayuntamientos en sus respectivas ordenanzas municipales, se clasificarán como muy graves, graves y leves, atendiendo individual o conjuntamente a los siguientes criterios:
+a) La gravedad del perjuicio que supongan para la seguridad de personas, bienes o el medio ambiente.
+b) La reducción en la calidad de los servicios de las entidades colaboradoras, así como la desprotección, desatención y/o desinformación que puedan ocasionar en las personas usuarias de sus servicios.
+c) El perjuicio que, en el ejercicio de su actividad colaboradora, puedan ocasionar al ayuntamiento, con motivo de la incorrección técnica y/o jurídico-procedimental de su actuación.
+d) La eventual afectación de su imparcialidad, confidencialidad e independencia.
+Se modifica por el art. 2.44 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica el apartado 1 por el art. 4.3 de la Ley 16/2023, de 27 de diciembre. Ref. BOE-A-2024-10766
+ Se añade por el art. 5.31 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 167 decies
+
+Artículo 167 decies. Sanciones de las entidades privadas colaboradoras urbanísticas.
+1. La comisión de las infracciones establecidas en el artículo anterior conllevará la imposición de las siguientes sanciones:
+a) Las infracciones leves serán sancionadas con multas de 3.000 euros hasta 30.000 euros.
+b) Las infracciones graves serán sancionadas con multas de 30.001 euros hasta 100.000 euros.
+c) Las infracciones muy graves serán sancionadas con multas de 100.001 euros hasta 500.000 euros.
+Estas infracciones podrán además conllevar como medida accesoria, en atención a la entidad del daño causado, la cancelación de la inscripción en el Registro, con la imposibilidad de que la entidad pueda volver a solicitarla en un período máximo de dos años. En todo caso, la cancelación será impuesta en el supuesto de comisión de dos o más infracciones muy graves declaradas por resolución firme en vía administrativa.
+2. En el supuesto de tipificación de infracciones por los ayuntamientos en sus respectivas ordenanzas municipales, las sanciones a aplicar se ajustarán a lo dispuesto en el apartado 1 de este artículo, en función de la calificación de la infracción.
+3. La sanción será proporcionada a la gravedad de los hechos constitutivos de infracción. A tal efecto, se tendrá en cuenta de forma conjunta o separada, los siguientes criterios:
+a) El grado de culpabilidad o la existencia de intencionalidad.
+b) La continuidad o persistencia en la conducta infractora.
+c) La naturaleza de los perjuicios causados.
+d) La reincidencia, por comisión en el término de un año de más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme en vía administrativa.
+4. En ningún caso la infracción cometida puede suponer un beneficio económico para el infractor. A tal efecto, la Administración, además de imponer la sanción que corresponda, decomisará el beneficio en su caso obtenido como consecuencia de la infracción cometida o exigirá el pago de una cantidad por valor equivalente.
+5. Igualmente, las sanciones impuestas al amparo de este artículo se reducirán en un 50 por 100 de su cuantía si son abonadas en el plazo de período voluntario y, en este mismo plazo, el infractor, reconociendo su responsabilidad, muestra por escrito su conformidad con las mismas y renuncia expresamente al ejercicio de toda acción de impugnación en vía administrativa en el referido plazo. La posterior acción de impugnación implicará la pérdida de la referida reducción.
+Se modifica por el art. 2.45 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se añade por el art. 5.32 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 167 undecies 
+
+Artículo 167 undecies. Procedimiento sancionador y prescripción de infracciones y sanciones.
+1. Los ayuntamientos son competentes para incoar e instruir los procedimientos sancionadores por infracciones cometidas por las entidades privadas colaboradoras urbanísticas en su respectivo término municipal.
+Se dará traslado al órgano de la consejería competente en materia de ordenación del territorio y urbanismo que tenga atribuida la gestión del Registro, de la iniciación de los procedimientos sancionadores, así como de su resolución y posterior firmeza en vía administrativa.
+2. Cuando la consejería competente en materia de ordenación del territorio y urbanismo tuviera conocimiento de cualquier acción u omisión por parte de una entidad colaboradora urbanística, que pudiera ser constitutivo de una infracción de las previstas en el artículo 167 nonies de la presente ley, lo pondrá en conocimiento del respectivo ayuntamiento para que adopte las medidas legales que correspondan, con la incoación, en su caso, del oportuno procedimiento sancionador.
+3. Corresponde al alcalde la resolución de los procedimientos sancionadores incoados e instruidos en su respectivo término municipal, sin perjuicio de su ulterior delegación o desconcentración.
+4. La imposición de sanciones con arreglo a la presente ley, se realizará mediante la instrucción del correspondiente procedimiento sancionador sujeto a lo dispuesto en la Ley 39/2015, de 1 de octubre, y la Ley 40/2015, de 1 de octubre, así como, en su caso, a lo establecido en las respectivas ordenanzas municipales. Supletoriamente será de aplicación lo dispuesto en el Decreto 245/2000, de 16 de noviembre, por el que se aprueba el Reglamento para el Ejercicio de la Potestad Sancionadora por la Comunidad de Madrid.
+5. El plazo de prescripción de las infracciones y sanciones establecidas en este capítulo será de tres años para las muy graves, dos años para las graves y seis meses para las leves.
+Se modifica por el art. 2.46 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica el apartado 5 por el art. 4.4 de la Ley 16/2023, de 27 de diciembre. Ref. BOE-A-2024-10766
+ Se añade por el art. 5.33 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 167 duodecies 
+
+Artículo 167 duodecies. Prescripción de las infracciones y sanciones.
+(Derogado)
+Se deroga por el art. 2.47 y la disposición derogatoria única de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se añade por el art. 5.34 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+## CAPÍTULO IV
+
+Conservación y rehabilitación de terrenos, construcciones y edificios
+
+## CAPÍTULO V
+
+Conservación y rehabilitación de terrenos, construcciones y edificios
+Se renumera por el art. 5.19 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Anteriormente numerado como IV
+
+## Sección 1
+
+Sección 1.ª Conservación y rehabilitación
+
+### Artículo 168
+
+Artículo 168. Deber de conservación y rehabilitación.
+1. Los propietarios de terrenos, construcciones y edificios tienen el deber de mantenerlos en condiciones de seguridad, salubridad, ornato público y decoro, realizando los trabajos y obras precisas para conservarlos o rehabilitarlos, a fin, de mantener en todo momento las condiciones requeridas para la habitabilidad o el uso efectivo.
+2. El deber de los propietarios de construcciones y edificios alcanza hasta el importe de los trabajos y obras que no rebase el límite del contenido normal de aquél, representado por la mitad del valor de un edificio o construcción de nueva planta, con similares características e igual superficie útil o, en su caso, de idénticas dimensiones que la preexistente, realizada con las condiciones necesarias para que su ocupación sea autorizable o, en su caso, quede en condiciones de ser legalmente destinada al uso que le sea propio.
+3. Cuando el Ayuntamiento ordene o imponga al propietario la ejecución de obras de conservación o rehabilitación que excedan del referido límite, éste podrá requerir de aquélla que sufrague el exceso.
+4. Los Ayuntamientos facilitarán la ejecución de las obras de rehabilitación. Las modificaciones de la normativa urbanística que tengan por objeto la realización de obras de rehabilitación, adecuación o mejora funcional de los edificios podrán tramitarse conforme al procedimiento previsto en el artículo 57.f) de la presente ley.
+5. En todo caso, el Ayuntamiento podrá establecer:
+a) Ayudas públicas, en las condiciones que estime oportunas, mediante convenio, en el que podrá disponerse la explotación conjunta del inmueble.
+b) Bonificaciones sobre las tasas por expedición de licencias.
+Se renumera el apartado 4 como 5 y se añade un apartado 4 por el art. 12.7 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+
+### Artículo 169
+
+Artículo 169. Inspección periódica de edificios y construcciones.
+1. Los propietarios de construcciones y edificios de antigüedad superior a treinta años deberán encomendar a un técnico facultativo competente o, en su caso, a entidades de inspección técnica homologadas y registradas por la Consejería competente en materia de ordenación urbanística, cada diez años, la realización de una inspección dirigida a determinar el estado de conservación y las obras de conservación o, en su caso, rehabilitación que fueran precisas. Estos plazos podrán revisarse por Decreto del Gobierno de la Comunidad de Madrid.
+2. Los informes de las entidades de inspección técnica a que se refiere el número anterior deberán estar autorizados por técnico legalmente habilitado para ello.
+3. Los informes técnicos que se emitan a resultas de las inspecciones deberán consignar el resultado de la inspección, con descripción de:
+a) Los desperfectos y las deficiencias apreciados, sus posibles causas y las medidas recomendadas, en su caso priorizadas, para asegurar la estabilidad, la seguridad, la estanqueidad y la consolidación estructurales, así como para mantener o recuperar las condiciones de habitabilidad o de uso efectivo según el destino propio de la construcción o edificación.
+b) El grado de ejecución y efectividad de las medidas adoptadas y de los trabajos y obras realizados para cumplimentar las recomendaciones contenidas en el o, en su caso, los informes técnicos de las inspecciones anteriores.
+4. La eficacia, a efectos administrativos, de los informes técnicos requerirá la presentación de copia de los mismos en el Ayuntamiento dentro del mes siguiente al vencimiento del periodo decenal correspondiente
+5. Los Ayuntamientos podrán requerir de los propietarios la exhibición de los informes técnicos resultantes de las inspecciones periódicas y, caso de comprobar que éstas no se han realizado, ordenar su práctica o realizarlas en sustitución y a costa de los obligados.
+6. Los informes técnicos a que se refiere este artículo podrán servir de base para el dictado de órdenes de ejecución de obras.
+Se modifica el apartado 4 por el art. 15.17 bis de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 170
+
+Artículo 170. Órdenes de ejecución de obras de conservación o rehabilitación.
+1. Los Ayuntamientos deberán dictar órdenes de ejecución de obras de reparación o conservación y rehabilitación de edificios y construcciones deterioradas o en condiciones deficientes para su uso efectivo legítimo. En los supuestos de edificios o construcciones catalogados o declarados de interés histórico artístico, el órgano de la Comunidad de Madrid competente en materia de patrimonio histórico artístico también deberá dictar órdenes de ejecución de obras de reparación, conservación o rehabilitación de estas edificaciones o construcciones.
+Los Ayuntamientos estarán habilitados, además, para dictar órdenes de ejecución de obras de mejora en toda clase de edificios para su adaptación al ambiente. Los trabajos y las obras ordenados deberán referirse a elementos ornamentales y secundarios del inmueble de que se trate, pretender la restitución de su aspecto originario o coadyuvar a su mejor conservación.
+Si la orden de ejecución afecta a bienes regulados en la legislación de patrimonio histórico artístico, deberán ser autorizadas las obras por la Consejería competente en esta materia.
+2. El incumplimiento injustificado de las órdenes de ejecución habilitará a la Administración actuante para adoptar cualquiera de estas medidas:
+a) Ejecución subsidiaria a costa del obligado y hasta el límite del deber normal de conservación.
+b) Imposición de las sanciones previstas en la presente Ley.
+c) Expropiación forzosa.
+Se modifica el apartado 2 por el art. 12.10 de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+
+## Sección 2
+
+Sección 2.ª Ruina legal y ruina física
+
+### Artículo 171
+
+Artículo 171. Situación legal de ruina.
+1. Procederá la declaración de la situación legal de ruina urbanística de una construcción o edificación en los siguientes supuestos:
+a) Cuando el coste de las reparaciones necesarias para devolver a la construcción o edificación la estabilidad, seguridad, estanqueidad y consolidación estructurales o para restaurar en ella las condiciones mínimas para hacer posible su uso efectivo legítimo, supere la mitad del valor de un edificio o construcción de nueva planta con similares características e igual superficie útil que la existente, excluido el valor del suelo.
+b) Cuando, acreditando el propietario el cumplimiento puntual y adecuado de las recomendaciones de al menos los informes técnicos correspondientes a las dos últimas inspecciones periódicas, el coste de los trabajos y obras realizados como consecuencia de esas dos inspecciones, sumado al de las que deban ejecutarse a los efectos señalados en la letra anterior, supere el límite del deber normal de conservación, con comprobación de una tendencia constante y progresiva en el tiempo al incremento de las inversiones precisas para la conservación del edificio o la construcción.
+2. Corresponderá al Alcalde la declaración de la situación legal de ruina, previo procedimiento en el que, en todo caso, deberá darse audiencia al propietario o propietarios interesados y los demás titulares de derechos afectados.
+3. La declaración de la situación legal de ruina urbanística:
+a) Deberá incluir las medidas necesarias para evitar daños a personas y bienes y pronunciarse sobre el incumplimiento o no del deber de conservación de la construcción o el edificio.
+b) En ningún caso cabrá la apreciación de dicho incumplimiento, cuando la ruina sea causada por fuerza mayor, hecho fortuito o culpa de tercero, así como cuando el propietario o propietarios hayan sido diligentes en el mantenimiento y uso del inmueble.
+c) Constituirá al propietario o propietarios en la obligación:
+1.º De proceder, a su elección, a la completa rehabilitación o a la demolición, cuando se trate de una construcción o un edificio no catalogado, ni protegido, ni sujeto a procedimiento alguno dirigido a la catalogación o al establecimiento de un régimen de protección integral.
+2.º De adoptar las medidas urgentes y realizar los trabajos y las obras necesarios para mantener y, en su caso, recuperar la estabilidad y la seguridad, en los restantes supuestos. En este caso, el Ayuntamiento podrá convenir con el propietario los términos de la rehabilitación definitiva. De no alcanzarse acuerdo, el Ayuntamiento podrá optar entre ordenar las obras de rehabilitación necesarias, con otorgamiento simultáneo de ayuda económica adecuada, o proceder a la sustitución del propietario incumplidor aplicando el régimen establecido en el artículo 162 y siguientes de la presente Ley, sin necesidad de que la finca afectada esté incluida en área delimitada a tal fin.
+
+### Artículo 172
+
+Artículo 172. Ruina física inminente.
+1. Cuando una construcción o un edificio amenace ruina inminente, con peligro para la seguridad pública o la integridad del patrimonio arquitectónico catalogado o declarado de interés histórico o artístico, el Alcalde estará habilitado para disponer todas las medidas que sean precisas, incluido el apuntalamiento de la construcción o el edificio y su desalojo. Dichas medidas podrán extenderse, excepcionalmente, a la demolición que sea estrictamente indispensable para proteger adecuadamente valores superiores y, desde luego, la integridad física de las personas.
+2. La adopción de las medidas previstas en este artículo no presupondrá, ni implicará la declaración de la situación legal de ruina urbanística.
+3. Todos los gastos en que incurra el Ayuntamiento por razón de las medidas adoptadas serán repercutibles en el propietario o propietarios, en vía administrativa y hasta el límite del deber normal de conservación.
+
+## CAPÍTULO V
+
+Instrumento de incidencia en el mercado inmobiliario
+
+## CAPÍTULO VI
+
+Instrumento de incidencia en el mercado inmobiliario
+Se renumera por el art. 5.19 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Anteriormente numerado como V
+
+## Sección 1
+
+Sección 1.ª Patrimonios públicos de suelo
+
+### Artículo 173
+
+Artículo 173. Constitución y naturaleza.
+1. La Comunidad de Madrid y los municipios deberán constituir, mantener y gestionar sus respectivos patrimonios públicos de suelo con la finalidad de crear reservas de suelo para actuaciones públicas y facilitar el cumplimiento de los fines de la ordenación urbanística.
+2. Los patrimonios públicos de suelo, integrados por bienes patrimoniales o de dominio privado, tendrá carácter de patrimonio separado del restante patrimonio de la Administración titular, quedando vinculado a sus fines específicos. En defecto de lo previsto en esta Ley, resultará de aplicación a los mismos, lo establecido en la legislación patrimonial de la Administración titular del mismo.
+Se modifica el apartado 2 por el art. 5.35 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 174
+
+Artículo 174. Bienes integrantes de los patrimonios públicos de suelo.
+1. Integran el patrimonio público de suelo:
+a) Los bienes patrimoniales de la Administración correspondiente, a los que el planeamiento urbanístico, o por acto expreso de la Administración, le asigne tal destino.
+b) Los terrenos, construcciones y edificaciones no afectos a un uso o servicio público adquiridos al ejecutar el planeamiento, incluidos los adquiridos mediante convenios urbanísticos.
+c) Los terrenos, construcciones y edificaciones adquiridos en virtud de las cesiones correspondientes a la participación de los municipios en el aprovechamiento urbanístico de los sectores o unidades de ejecución.
+d) Los derechos correspondientes sobre los terrenos a obtener por cesión en la equidistribución reparcelatoria de beneficios y cargas con destino a dotaciones para redes locales y supramunicipales en cualquier clase de suelo, en virtud del valor económico de la diferencia entre las edificabilidades objetivas y las normales establecidas por el planeamiento urbanístico.
+e) Los terrenos, construcciones y edificaciones adquiridos por la Administración titular, en virtud de cualquier título y, en especial, mediante expropiación, con el fin de su incorporación al correspondiente patrimonio de suelo.
+f) Los terrenos, las construcciones y las edificaciones que los municipios y la Comunidad de Madrid se cedan entre sí con carácter gratuito, para su incorporación al patrimonio de suelo de la Administración cesionaria y su aplicación, en su caso, a una finalidad específica.
+g) Las cesiones que se obtengan en especie o en metálico para infraestructuras, equipamientos y servicios públicos, distintas de las derivadas del cumplimiento de deberes u obligaciones, legales o voluntarios, asumidas en convenios o concursos públicos celebrados en aplicación de la ordenación urbanística.
+h) Los terrenos que reciban los Ayuntamientos como consecuencia del pago del canon que prevé esta Ley respecto de los proyectos de actuación especial.
+i) Los demás bienes inmuebles que legalmente deban incorporarse al patrimonio público de suelo.
+j) Los demás ingresos que legalmente deban incorporarse al patrimonio público de suelo.
+2. Son fondos adscritos al patrimonio público de suelo:
+a) Los ingresos obtenidos en la gestión y disposición del patrimonio público de suelo.
+b) Los créditos que tengan como garantía hipotecaria los bienes incluidos en el patrimonio público de suelo.
+c) Los beneficios de sociedades públicas o mixtas, cuando la aportación de capital público consista en bienes integrantes del patrimonio público de suelo.
+d) Las transferencias presupuestarias que tengan como finalidad específica la adquisición de bienes para el patrimonio público de suelo.
+e) Los ingresos que perciban los Ayuntamientos como consecuencia del pago del canon que prevé esta Ley respecto de los proyectos de actuación especial.
+
+### Artículo 175
+
+Artículo 175. Reserva de terrenos.
+1. Los instrumentos de la ordenación del territorio y los Planes Generales y Sectoriales podrán establecer, en cualquier clase de suelo, reservas de terrenos, construidos o no, de posible adquisición para la constitución o ampliación de los patrimonios públicos de suelo.
+2. El establecimiento o la delimitación de las reservas de terrenos con la finalidad expresada en el número 1 comporta:
+a) La declaración de la utilidad pública y la necesidad de la ocupación a efectos de expropiación forzosa por un tiempo máximo de dos años, prorrogable una sola vez por otros dos años mediante declaración expresa fundada en causa justificada.
+b) La sujeción de todas las transmisiones que se efectúen en las reservas a los derechos de tanteo y retracto previstos en la presente Ley en favor de la Administración correspondiente.
+3. Las reservas de terrenos a que se refiere el número 1 podrán ser comunes para los patrimonios públicos de suelo de la Comunidad de Madrid y de los municipios, siempre que exista un convenio de cooperación entre aquélla y éstos sobre la gestión de la o las correspondientes reservas y los programas o las actuaciones conjuntas a los que deban aplicarse los terrenos, las construcciones y las edificaciones adquiridos.
+4. La Comunidad de Madrid deberá destinar anualmente a la adquisición de patrimonio regional de suelo una cantidad no inferior al 0,5 por 100 del capítulo de ingresos. Se tendrán en cuenta para alcanzar dicho porcentaje las adquisiciones que a tal efecto realicen los organismos autónomos y empresas dependientes de la Comunidad de Madrid y los consorcios urbanísticos en los que ésta participe.
+
+### Artículo 176
+
+Artículo 176. Destino de los bienes integrantes de los patrimonios públicos de suelo.
+Los bienes integrantes de los patrimonios públicos de suelo, una vez incorporados al proceso urbanizador o edificatorio, se destinarán, de conformidad con las técnicas y los procedimientos establecidos en la presente Ley, a cualquiera de los siguientes fines:
+a) Construcción, rehabilitación o mejora de viviendas sujetas a algún régimen de protección pública o de integración social, en el marco de las políticas o programas establecidos por las Administraciones públicas.
+b) Conservación o mejora del medio ambiente, o la protección del patrimonio histórico-artístico.
+c) Actuaciones públicas para la obtención de terrenos y ejecución, en su caso, de las redes de infraestructuras, equipamientos y servicios públicos.
+d) Actuaciones de interés social para, entre otros fines:
+1.º Atender las necesidades que requieran operaciones de regeneración urbana, ya sean estas ejecutadas en régimen de actuaciones integradas o de forma aislada.
+2.º Crear y facilitar suelo para el ejercicio de nuevas actividades empresariales o ampliación de las existentes, que en ambos casos generen empleo y sean compatibles con el desarrollo sostenible.
+e) Conservación y ampliación de los patrimonios públicos de suelo.
+f) A la propia gestión urbanística, con cualquiera de las siguientes finalidades:
+1.º Incidir en el mercado inmobiliario, preparando y enajenando suelo edificable.
+2.º Pagar en especie, mediante permuta, suelo destinado a redes públicas.
+3.º Compensar, cuando proceda, a quienes resulten con defecto de aprovechamiento, como consecuencia de operaciones de equidistribución, o de la imposición de limitaciones singulares.
+Se modifica la letra d) por el art. 5.36 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 177
+
+Artículo 177. Gestión de los patrimonios públicos de suelo.
+1. Las Administraciones públicas titulares de patrimonios públicos de suelo llevarán un Registro de Explotación de éstos.
+2. En el Registro de Explotación deberá hacerse constar en todo caso:
+a) Los bienes integrantes del correspondiente patrimonio público de suelo.
+b) Los depósitos e ingresos en metálico.
+c) Las enajenaciones, permutas y adquisiciones de bienes.
+d) El destino final de los bienes.
+3. A la liquidación de las cuentas de los presupuestos anuales se deberá acompañar un informe de gestión de la explotación del patrimonio público de suelo, que será objeto de control en los mismos términos que aquélla.
+
+### Artículo 178
+
+Artículo 178. Disposición de los bienes de los patrimonios públicos de suelo.
+1. Los bienes de los patrimonios públicos de suelo, así como los restantes bienes de la Comunidad de Madrid y de los municipios clasificados como suelo urbano y urbanizable pueden ser:
+a) Enajenados mediante subasta o concurso en virtud de los procedimientos previstos en la legislación reguladora de los contratos de las Administraciones públicas. Será preceptivo concurso con pluralidad de criterios cuando se destinen a viviendas protegidas. Los pliegos contendrán al menos los plazos para la realización de la edificación, y urbanización en su caso.
+El precio a satisfacer por el adjudicatario no podrá ser el único criterio determinante de la adjudicación, ni este podrá ser inferior al valor que corresponda al bien conforme a la legislación general aplicable.
+b) Cedidos, por precio fijado en convenio interadministrativo suscrito al efecto, a cualquier Administración pública o entidades de ella dependientes o a ella adscritas para el fomento de viviendas sujeta a cualquier régimen de protección pública o la realización de programas de conservación o mejora medioambiental.
+c) Adjudicados, por el precio fijado al efecto, o, en su caso, cedidos gratuitamente, en uno y otro caso por concurso, a entidades cooperativas o de carácter benéfico o social sin ánimo de lucro para la construcción de viviendas sujetas a cualquier régimen de protección pública o la realización de fines de interés social.
+d) Cedidos gratuitamente, mediante convenio suscrito a tal fin, a cualquier Administración Pública o entidad de ella dependiente o adscrita, para la ejecución de dotaciones públicas o promoción de viviendas sujetas a algún régimen de protección pública o de integración social.
+e) Permutados por terrenos destinados a infraestructuras, equipamientos y servicios públicos.
+2. Cuando los procedimientos a que se refiere la letra a) del número anterior, o los concursos previstos en la letra c) queden desiertos, la Administración actuante podrá enajenar directamente los bienes, dentro del año siguiente, con sujeción a los pliegos o bases de unos y otros.
+3. Igualmente procederá la enajenación directa de los bienes integrantes de los patrimonios públicos de suelo en los siguientes supuestos:
+a) Cuando el inmueble resulte necesario para dar cumplimiento a una función de servicio público o a la realización de un fin de interés general por persona distinta de las previstas en los apartados precedentes.
+b) Cuando se trate de solares que, por su forma o pequeña extensión, resulten inedificables y la venta se realice a un propietario colindante.
+c) Cuando la titularidad del bien o derecho corresponda a dos o más propietarios y la venta se efectúe a favor de uno o más copropietarios.
+d) Cuando la venta se efectúe a favor del titular de un derecho de adquisición preferente reconocido por disposición legal.
+e) Cuando, por razones excepcionales debidamente justificadas, se considere conveniente efectuar la venta a favor del ocupante del inmueble.
+4. En defecto de lo previsto en esta Ley, resultará de aplicación a los actos y al procedimiento de disposición de los bienes integrantes de los patrimonios públicos de suelo, lo establecido en la legislación patrimonial de la Administración titular del mismo.
+Se modifica el apartado 1.a) por el art. 2.47 bis de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica por el art. 5.37 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica la letra b) del apartado 1 por el art. 15.18 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+## Sección 2
+
+Sección 2.ª Derecho de superficie
+
+### Artículo 179
+
+Artículo 179. Derecho de superficie.
+1. La Administración de la Comunidad de Madrid y los municipios podrán constituir el derecho de superficie en bienes de su propiedad o integrantes del patrimonio público de suelo correspondiente, con destino a cualquiera de los usos permitidos por la ordenación urbanística o fines de los patrimonios públicos de suelo, cuyo derecho corresponderá al superficiario.
+2. En cuanto a su régimen jurídico y constitución, se estará a lo dispuesto en la legislación estatal, salvo en lo que respecta a su duración, cuyo plazo máximo no podrá exceder de 75 años de conformidad con lo establecido en el artículo 180 de la esta Ley.
+Se modifica por el art. 5.38 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 180
+
+Artículo 180. Plazo.
+El plazo del derecho de superficie concedido por las Administraciones, no podrá exceder de setenta y cinco años.
+
+### Artículo 181
+
+Artículo 181. Beneficios.
+La concesión del derecho de superficie por la Administración y demás personas públicas y su constitución por los particulares gozará de los beneficios derivados de la legislación de viviendas de protección pública, siempre que se cumplan los requisitos en ella establecidos.
+
+## Sección 3
+
+Sección 3.ª Derechos de tanteo y retracto
+
+### Artículo 182
+
+Artículo 182. Bienes sujetos a derechos de tanteo y retracto y Administraciones titulares de éstos.
+1. Estarán sujetos al derecho de tanteo y, en su caso, retracto:
+a) En favor de la Comunidad de Madrid y de los municipios, las transmisiones onerosas de bienes inmuebles, sean terrenos, construcciones o edificaciones, así como la constitución y transmisión igualmente onerosas de derechos reales sobre los mismos, que se realicen:
+1.º En las reservas de terrenos para el patrimonio público de suelo delimitadas por los instrumentos de ordenación del territorio y el planeamiento urbanístico.
+2.º En ámbitos o terrenos sujetos por el planeamiento urbanístico a actuaciones de rehabilitación del patrimonio arquitectónico con finalidad residencial.
+3.º En Espacios Naturales Protegidos.
+4.º En las zonas de suelo no urbanizable de protección o urbanizable no sectorizado que se delimiten a tal fin por los instrumentos de la ordenación del territorio y el planeamiento urbanístico o, en su defecto, por acuerdo municipal o resolución de la Consejería competente en materia de ordenación urbanística, previa información pública por plazo de veinte días.
+5.º En los demás casos previstos por la legislación sectorial.
+b) En favor de la Comunidad de Madrid, las transmisiones onerosas de bienes inmuebles, sean terrenos, construcciones o edificaciones, así como la constitución y transmisión igualmente onerosas, de derechos reales sobre los mismos, que se realicen en los terrenos y edificaciones que, por su calificación urbanística, deban destinarse a la construcción de viviendas sujetas a algún régimen de protección pública.
+A estos efectos la delimitación de los suelos sometidos a derecho de tanteo y retracto se llevará a cabo por los instrumentos de la ordenación del territorio, por el planeamiento urbanístico, o por Resolución de la Consejería competente por razón de la materia, previa información pública por plazo de veinte días.
+2. Los derechos de tanteo y retracto a que se refiere la letra a) del número anterior podrán ser ejercidos indistintamente por cualquiera de dichas Administraciones, ordenándose tal ejercicio por la regla de la prioridad temporal.
+3. El plazo máximo de sujeción de las transmisiones al ejercicio de los derechos de tanteo y retracto será de ocho años, a contar desde la aprobación de la correspondiente delimitación. En los espacios naturales protegidos tendrán, no obstante, vigencia indefinida, en tanto subsista la declaración de aquéllos.
+4. Su ejercicio se rige por esta Ley y sus normas de desarrollo y, en todo lo no previsto en ellas, por la legislación general de pertinente aplicación.
+
+### Artículo 183
+
+Artículo 183. Registro administrativo de bienes sujetos a los derechos de tanteo y retracto.
+1. En la Consejería competente en materia de ordenación urbanística y en los municipios de más de 15.000 habitantes, así como todos aquellos que lo acuerden, funcionará un registro, organizado por reservas o zonas, de los actos jurídicos de que sean objeto los bienes sujetos a los derechos de tanteo y retracto.
+2. El registro establecido en la Consejería competente en materia de ordenación urbanística actuará como registro municipal respecto de aquellos municipios que no tengan constituido registro propio.
+A los efectos de lo dispuesto en el párrafo anterior, los municipios que deban o decidan crear su propio Registro, así como las Consejerías que delimiten suelos sometidos a estos derechos, deberán comunicar a la Consejería competente en materia de ordenación urbanística, los actos de delimitación de los bienes, la creación de los Registros, cuando proceda, así como los datos, que se actualizarán cada seis meses.
+3. El registro administrativo de actos sujetos a los derechos de tanteo y retracto por razón urbanística deberá, de oficio y para la debida efectividad de estos derechos, comunicar su contenido y sus actualizaciones periódicas al Colegio Notarial de Madrid y a los Registros de la Propiedad y, en su caso, Mercantil existentes en la Comunidad de Madrid.
+
+### Artículo 184
+
+Artículo 184. Notificación al registro administrativo de bienes sujetos a los derechos de tanteo y retracto.
+1. Los propietarios de terrenos, construcciones y edificaciones sujetos a los derechos de tanteo y retracto, que pretendan realizar actos jurídicos sujetos a estos derechos, deberán notificar su propósito de llevarlos a cabo al registro administrativo de la Administración titular de los mismos, en debida forma. Igualmente, deberá notificarse la realización de dichos actos una vez producidos.
+La notificación a los Ayuntamientos que carezcan de registro propio se practicará en el de la Consejería competente en materia de ordenación urbanística, la cual lo comunicará al Ayuntamiento correspondiente, en el plazo máximo de quince días hábiles desde su entrada en el registro.
+2. La transmisión onerosa de más del 50 por 100 de las acciones o participaciones sociales de sociedades mercantiles cuyo activo esté constituido en más del 60 por 100 por terrenos, construcciones o edificaciones sujetos a los derechos de tanteo o retracto tiene la consideración de transmisión onerosa a los efectos de lo dispuesto en esta Sección.
+3. Los derechos de tanteo y retracto podrán ejercitarse respectivamente en el plazo de tres meses desde la notificación a que se refiere el número 1. El derecho de retracto podrá ejercitarse siempre que no se hubiese efectuado la notificación a efectos del ejercicio del derecho de tanteo, se omitiera en ella alguno de los requisitos exigidos por la legislación aplicable o resultase inferior el precio efectivo de la transmisión o menos onerosas las restantes condiciones de ésta.
+En el supuesto de no practicarse las notificaciones a que se refiere el presente artículo, el derecho de retracto podrá ejercitarse en el plazo de tres meses desde que la correspondiente Administración tuviera conocimiento fehaciente de la realización del acto jurídico sujeto.
+Se modifica el apartado 1 y se añade el apartado 3 por la disposición adicional 3 de la Ley 9/2003, de 26 de marzo. Ref. BOE-A-2003-10729.
+
+### Artículo 185
+
+Artículo 185. Caducidad de los efectos del ejercicio de los derechos de tanteo y retracto.
+1. Los efectos derivados del ejercicio de los derechos de tanteo y retracto caducarán, recuperando el propietario la plena disposición sobre el bien correspondiente, por el mero transcurso del plazo de tres meses, a contar desde la adopción de la correspondiente resolución de adquisición, sin que la Administración haya hecho efectivo el precio en la forma convenida.
+2. Cuando el precio deba abonarse en distintos plazos, el incumplimiento por la Administración de cualquiera de ellos dará derecho al acreedor a instar la resolución de la transmisión realizada en favor de aquélla.
+3. El precio podrá pagarse en metálico o mediante la entrega de terrenos de valor equivalente, si las partes así lo convienen.
+En el caso de pago mediante entrega de terrenos no regirá el plazo de tres meses establecido en el número 1, sino el que fijen de mutuo acuerdo las partes.
+
+### Artículo 186
+
+Artículo 186. Tanteo y retracto ejercidos sobre transmisión consistente en permuta.
+Cuando la transmisión que haya motivado el ejercicio por la Administración del derecho de tanteo o el de retracto consista en una permuta de terrenos con o sin construcciones o edificaciones por una edificación o construcción nueva o parte de ella, a construir en dichos terrenos, aquélla quedará igualmente obligada a la entrega de la edificación o construcción nueva, en la cantidad y las condiciones acordadas por las partes.
+
+### Artículo 187
+
+Artículo 187. Destino de los bienes adquiridos.
+1. La Administración pública que haya adquirido como consecuencia del ejercicio del derecho de tanteo o el de retracto estará obligada a incorporar el bien al correspondiente patrimonio público de suelo o, en todo caso, dar al mismo un destino conforme a la causa que motivó la sujeción a dichos derechos.
+2. El cumplimiento de la obligación durante, al menos, los ocho años siguientes al ejercicio de los derechos de tanteo o retracto, impedirá al transmitente a instar la resolución de la transmisión realizada a favor de la Administración.
+
+## Sección 4
+
+Sección 4.ª Información y publicidad de precios del suelo
+
+### Artículo 188
+
+Artículo 188. Obligación de comunicación de precios de construcción, venta y arrendamiento.
+Los profesionales y las empresas, individuales y societarias, que se dediquen habitualmente en el territorio de la Comunidad de Madrid a la promoción, construcción, administración o venta, arrendamiento o comercialización, incluso a título de intermediación o en cualquier otra forma, de suelo, urbanizado o no, y de construcciones o edificaciones, cualquiera que sea su uso, estarán obligados a formular trimestralmente al registro administrativo de la Consejería competente en materia de ordenación urbanística previsto en el artículo 183 una declaración, por zonas y tipos de usos, de los precios medios de las operaciones de compraventa o arrendamiento efectuadas en el trimestre correspondiente y de los de venta o arrendamiento que mantengan en oferta.
+
+### Artículo 189
+
+Artículo 189. Observatorio de precios inmobiliarios.
+1. En el registro administrativo de la Consejería competente en materia de ordenación urbanística contemplado en el artículo 183 de la presente Ley funcionará un observatorio de precios de suelo, que sistematizará y mantendrá actualizados los datos que obtenga por información propia y, en todo caso, los que resulten tanto de los justiprecios acordados por el Jurado Territorial de expropiación forzosa como de las notificaciones por razón del juego de los derechos de tanteo y retracto en favor de las Administraciones públicas regulados en la sección precedente y de las comunicaciones practicadas en cumplimiento de lo dispuesto en el artículo anterior.
+2. Los datos incorporados al observatorio de precios de suelo excluirán todas las referencias que permitan la identificación de informaciones subjetivas o que se refieran a circunstancias específicas de las operaciones de las que resulten. Serán en todo caso públicos, debiéndose utilizar los medios técnicos, incluso informáticos y telemáticos, que permitan una mayor difusión y un más fácil acceso por todos los ciudadanos.
+
+## TÍTULO V
+
+Disciplina urbanística
+
+## CAPÍTULO I
+
+Inspección urbanística
+
+### Artículo 190
+
+Artículo 190. Funciones de inspección.
+1. La inspección urbanística es una potestad de ejercicio inexcusable, dirigida a comprobar que los actos privados o públicos de ocupación, construcción, edificación y uso del suelo, así como cualesquiera otras actividades que supongan utilización de éste, se ajustan a la legalidad aplicable y, en particular, a lo dispuesto en la presente Ley y, en su virtud, al planeamiento urbanístico.
+2. Las tareas de vigilancia y comprobación preventivas y, sobre la base de los datos obtenidos, de información, asesoramiento y corrección cooperativa son, en la inspección urbanística, preferentes respecto de las referidas a la sanción de conductas.
+3. En especial, la inspección:
+a) Vela por el cumplimiento de la ordenación urbanística y, en general, de las normas protectoras del medio ambiente, informando sobre el contenido de aquélla y éstas a las personas que deban cumplirlas y asesorándoles para el más correcto desarrollo de sus actos y actividades.
+b) Vigila, investiga y controla la actuación de todos los implicados en la actividad de ejecución regulada en la presente Ley, tanto en la realización material de obras, como en el desarrollo de actividades o usos.
+c) Denuncia cuantas anomalías observe en la ejecución o aplicación de los instrumentos para la ordenación urbanística.
+d) Informa a las Administraciones y autoridades competentes sobre la adopción de las medidas cautelares y definitivas que juzgue convenientes para el cumplimiento de la ordenación urbanística y, en general, de las normas de protección ambiental.
+e) Colabora con las Administraciones competentes y auxilia al Ministerio Fiscal y los Tribunales de Justicia en materia de ordenación urbanística y de protección ambiental.
+f) Desempeña cuantas otras funciones asesoras, inspectoras y de control le sean encomendadas.
+4. En el ejercicio de sus funciones, los inspectores gozarán de plena autonomía y tendrán, a todos los efectos, la condición de agentes de la autoridad, estando facultados para requerir y examinar toda clase de documentos relativos al planeamiento y su ejecución, comprobar la adecuación de los actos de transformación, construcción, edificación y uso del suelo a la normativa de ordenación urbanística aplicable y obtener la información necesaria para el cumplimiento de su cometido. Las Administraciones, así como los particulares, estarán obligados a prestarles la colaboración que precisen.
+5. Los inspectores ejercerán siempre sus funciones provistos de un documento oficial que acredite su condición.
+
+### Artículo 191
+
+Artículo 191. Servicios de inspección.
+1. La Comunidad de Madrid y los municipios tienen plena competencia, en materia de inspección urbanística, debiendo cooperar y, en su caso, coordinarse para el desarrollo de las tareas de inspección.
+2. Los servicios de inspección urbanística de la Comunidad de Madrid están adscritos a la Consejería competente en materia de ordenación urbanística.
+3. Todos los Ayuntamientos deberán contar con al menos una unidad administrativa dedicada exclusivamente al ejercicio de funciones inspectoras. Cuando no tengan capacidad para contar con una propia deberán asegurar el desarrollo de la función inspectora mediante cualesquiera de las fórmulas de cooperación con la Consejería competente en materia de ordenación urbanística previstas en la presente Ley.
+
+### Artículo 192
+
+Artículo 192. Visitas y actas de inspección.
+1. Concedida licencia urbanística, las obras que se realicen a su amparo o iniciadas éstas, deberán ser visitadas a efectos de su inspección al menos dos veces: Una con motivo del inicio o acta de replanteo de las obras y otra con ocasión de la terminación de éstas. Cuando de las actuaciones de inspección se desprendan indicios de la comisión de una posible infracción urbanística o, incluso, de un posible ilícito penal, deberá efectuarse propuesta de adopción de cuantas medidas se consideren pertinentes, con remisión, en su caso, de copia del acta levantada al Ministerio Fiscal y, como mínimo, la incoación del procedimiento sancionador.
+2. De cada visita de inspección se levantará acta, en la que deberá dejarse constancia suficiente de los datos identificativos de todas las personas intervinientes y de la calidad en la que respectivamente lo hagan y de los hechos, circunstancias, datos y resultados de la actuación que se practique. El acta tendrá la consideración de documento público administrativo.
+El acta deberá ser firmada por el inspector o los inspectores actuantes y por la persona que esté, en el momento de realizarse la inspección, a cargo de la obra o actividad objeto de ésta. Si dicha persona se negara a suscribirla, se hará constar tal circunstancia. En todo caso, se le hará entrega de copia del acta y, caso de no encontrarse presente o de negarse a recibirla, se remitirá por medio que permita dejar constancia de su recepción, al promotor, al constructor y al director o directores de la obra o actividad o, de ser éstos desconocidos, al propietario del bien inmueble en el que tenga lugar la obra o actividad objeto de inspección.
+3. En su caso, el inspector o inspectores actuantes deberán advertir a las personas mencionadas en el párrafo segundo del número anterior y, en su defecto, a cualquiera otra presente que esté relacionada con la obra o actividad objeto de inspección que el desarrollo de una u otra sin la cobertura de los pertinentes títulos administrativos pudiera constituir presuntamente una infracción urbanística o, en su caso, un ilícito penal, dejando constancia de dicha advertencia en el acta.
+4. Las actas de la inspección gozan de presunción de veracidad, que sólo cede cuando en el procedimiento que se instruya como consecuencia de las mismas se pruebe su inexactitud o falta de certeza, o se aporten pruebas de mayor convencimiento que la contradigan.
+5. Asimismo, la inspección urbanística llevará a cabo todas aquellas visitas que fueran precisas para velar e informar sobre la correcta aplicación de las normas y el planeamiento urbanístico.
+
+## CAPÍTULO II
+
+Protección de la legalidad urbanística
+
+## Sección 1
+
+Sección 1.ª Medidas de protección sobre obras, construcciones y usos sin licencia, declaración responsable u orden de ejecución
+Se modifica el título por el art. 2.48 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+## Subsección 1
+
+Subsección 1.ª Medidas sobre obras, construcciones y usos en ejecución
+Se modifica el título por el art. 15.18 bis de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 193
+
+Artículo 193. Medida cautelar de suspensión de actos de edificación o uso del suelo realizados sin licencia, declaración responsable u orden de ejecución.
+1. Cuando un acto de construcción, edificación o uso del suelo sujetos a intervención municipal se realizase sin licencia, declaración responsable u orden de ejecución conforme a esta ley o sin ajustarse a sus condiciones, el Alcalde dispondrá la suspensión inmediata del acto, practicando simultáneamente comunicación de esta medida a la consejería competente en materia de ordenación del territorio y urbanismo y al interesado.
+2. La consejería competente en materia de ordenación del territorio y urbanismo, desde que tenga conocimiento de la realización de obras o usos del suelo sin licencia, declaración responsable u orden de ejecución, se dirigirá al Alcalde requiriendo la adopción de la medida prevista en el número anterior. Si transcurridos diez días desde la recepción de este requerimiento el Alcalde no comunicara haber adoptado la medida de suspensión, ésta se acordará directamente por el titular de la consejería competente en materia de ordenación del territorio y urbanismo, sin perjuicio de la competencia municipal para la legalización conforme al artículo siguiente.
+3. Cuando por razón de las circunstancias así proceda y, en todo caso, de no cumplirse voluntariamente la orden de suspensión, el Alcalde o, en su caso, el titular de la consejería competente en materia de ordenación del territorio y urbanismo deberá disponer, como medidas provisionales complementarias, el precinto de las obras o del local y la retirada de la maquinaria y los materiales que estuvieran empleándose en las obras a que se refiere el número anterior para su depósito en el lugar que todos los Ayuntamientos deberán habilitar al efecto. Los gastos que origine la retirada y el depósito deberán ser satisfechos solidariamente por el promotor, constructor y propietario.
+4. El incumplimiento de la orden de suspensión podrá dar lugar, mientras persista, a la imposición de multas coercitivas por períodos de diez días y cuantía, en cada ocasión, de 150 euros o del 5 por 100 del valor de las obras, si éste fuese superior. Del incumplimiento se dará cuenta en todo caso al Ministerio Fiscal a los efectos de la exigencia de la responsabilidad penal que proceda.
+Se modifica por el art. 2.49 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica el apartado 3 por el art. 15.18 bis.1) de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 194
+
+Artículo 194. Legalización de actos de edificación o uso del suelo en curso de ejecución.
+1. En el plazo de dos meses, contados desde la notificación de la suspensión regulada en los números 1 y 2 del artículo anterior, el interesado deberá solicitar la legalización o, en su caso, ajustar las obras o los usos a la licencia, declaración responsable u orden de ejecución.
+2. Si transcurrido el plazo de dos meses el interesado no hubiere presentado la solicitud de legalización o, en su caso, no hubiese ajustado las obras a las condiciones señaladas en la licencia, declaración responsable u orden de ejecución, la Junta de Gobierno Local o, en los municipios en que ésta no exista, el Ayuntamiento Pleno acordará la demolición de las obras a costa del interesado y procederá a impedir definitivamente los usos a los que diera lugar. De igual manera procederá si la legalización fuera denegada por ser la autorización de las obras o los usos contraria a las prescripciones del planeamiento urbanístico o de las ordenanzas aplicables. El acuerdo municipal deberá ser notificado a la consejería competente en materia de ordenación del territorio y urbanismo.
+3. Cuando el acto en curso de ejecución sin licencia, declaración responsable u orden de ejecución o contraviniendo las condiciones del existente consistiera en la demolición de una construcción o edificio, la Junta de Gobierno Local o, en los municipios en que ésta no exista, el Ayuntamiento Pleno ordenará, si así procede, la reconstrucción de lo indebidamente demolido. El acuerdo municipal deberá ser notificado a la consejería competente en materia de ordenación del territorio y urbanismo.
+4. Si se trata de un edificio o una construcción de valor histórico-artístico o incluido en Catálogos de Planes de Ordenación Urbanística, se ordenará el cese definitivo del acto, con adopción de las medidas de seguridad procedentes a costa del interesado. La reconstrucción, en su caso, deberá someterse a las normas establecidas para conservación y restauración que le sean de aplicación.
+5. En todo caso, los costes de la reconstrucción quedarán sujetos al régimen señalado en el número 2 anterior para el supuesto de demolición.
+6. De no procederse a la ejecución de los acuerdos municipales a que se refieren los números 2 y 3 dentro de los dos meses siguientes a su adopción, el titular de la consejería competente en materia de ordenación del territorio y urbanismo, previo requerimiento al Alcalde para que se proceda a la ejecución en plazo determinado, podrá proceder a disponer la demolición a costa del interesado y en los términos de este artículo.
+7. El plazo máximo de notificación de la resolución del procedimiento regulado en este artículo será de un año.
+Se modifica por el art. 2.50 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica el apartado 1 por el art. 15.18 bis.2) de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+## Subsección 2
+
+Subsección 2.ª Medidas sobre obras, construcciones y usos terminados
+
+### Artículo 195
+
+Artículo 195. Actos de edificación o uso del suelo ya finalizados, sin licencia, declaración responsable u orden de ejecución o sin ajustarse a las condiciones señaladas en ellas.
+1. Siempre que desde la total terminación de las obras realizadas sin licencia, declaración responsable u orden de ejecución o sin ajustarse a las condiciones señaladas en ellas, no hubieren transcurrido más de quince años en el suelo no urbanizable de protección, o más de seis años en el resto de los casos, el Alcalde requerirá al promotor y al propietario de las obras o a sus causahabientes para que soliciten en el plazo de dos meses la legalización o ajusten las obras a las condiciones de la licencia declaración responsable u orden de ejecución, practicando simultáneamente comunicación de esta medida a la consejería competente en materia de ordenación del territorio y urbanismo y al interesado.
+2. La consejería competente en materia de ordenación del territorio y urbanismo, desde que tenga conocimiento de obras realizadas sin licencia, declaración responsable u orden de ejecución podrá dirigirse al Alcalde a los efectos de la adopción de la medida prevista en el número anterior. Si transcurridos diez días desde la recepción de este requerimiento el Alcalde no comunicara haber adoptado la medida pertinente, ésta se acordará directamente por el titular de la consejería competente en materia de ordenación del territorio y urbanismo, sin perjuicio de la competencia municipal para la legalización.
+3. Si el interesado no solicitara la legalización en el plazo de dos meses, o si ésta fuese denegada por ser la autorización de las obras contraria a las prescripciones del Plan de Ordenación Urbanística o de las Ordenanzas aplicables, se procederá conforme a lo dispuesto en los números 1 y 2, así como, en su caso, en el número 6 del artículo anterior.
+4. El plazo máximo de notificación de la resolución del procedimiento regulado en este artículo será de un año.
+Se modifica por el art. 2.51 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Artículo 196
+
+Artículo 196. Finalización de las obras.
+A los efectos de la presente Ley se presume que unas obras realizadas sin título habilitante están totalmente terminadas a partir del momento en que estén dispuestas para servir al fin o el uso previstos, sin necesidad de ninguna actuación material posterior.
+
+## Sección 2
+
+Sección 2.ª Medidas de protección sobre obras, construcciones y usos con licencia, declaración responsable u orden de ejecución
+Se modifica el título por el art. 2.52 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+## Subsección 1
+
+Subsección 1.ª Suspensión de las licencias, declaraciones responsables u órdenes de ejecución.
+Se modifica el título por el art. 2.53 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Artículo 197
+
+Artículo 197. Suspensión de las licencias, declaraciones responsables u órdenes de ejecución.
+1. El Alcalde dispondrá la suspensión de la eficacia de una licencia, declaración responsable u orden de ejecución y, consiguientemente, la paralización o el cese inmediato de los actos de edificación o usos del suelo iniciados o desarrollados a su amparo, cuando el contenido de aquellos títulos habilitantes, constituya manifiestamente una infracción urbanística grave o muy grave.
+La consejería competente en materia de ordenación del territorio y urbanismo, desde que tenga conocimiento del supuesto previsto en el párrafo anterior, podrá requerir al Alcalde para la adopción de la medida de suspensión en los términos establecidos en la legislación de régimen local.
+2. El Alcalde procederá a dar traslado directo de la resolución de suspensión en el plazo de diez días al órgano competente del orden jurisdiccional contencioso administrativo, en los términos y a los efectos previstos en la legislación reguladora de la jurisdicción contencioso administrativa.
+3. Las actuaciones a que se refiere este artículo se entenderán sin perjuicio de las de carácter sancionador.
+4. Las medidas a que se refieren los números 1 y 2 de este artículo, podrán acordarse mientras las obras o usos del suelo estén realizándose, cualquiera que sea la fecha de otorgamiento de la licencia o de la orden de ejecución o de la presentación de la declaración responsable.
+Se modifica por el art. 2.54 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Artículo 198
+
+Artículo 198. Restablecimiento de la legalidad urbanística.
+1. Si el Tribunal de la Jurisdicción Contencioso Administrativa, al dictar sentencia anulase la licencia u orden de ejecución, el órgano municipal que suspendió sus efectos ordenará la incoación de expediente sancionador al objeto de imponer, si procediera, las multas correspondientes a los responsables y adoptar las demás medidas previstas en la presente Ley.
+2. Hasta tanto el Tribunal no dicte sentencia, continuará, en su caso, la paralización de las obras que serán demolidas cuando la autoridad competente lo acuerde, si la sentencia anulase la licencia u orden de ejecución.
+3. Tratándose de licencia u orden de ejecución que autorizase una demolición indebida, anulado el acto administrativo en vía jurisdiccional, la autoridad que suspendió sus efectos ordenará que se proceda a la reconstrucción de lo demolido.
+
+## Subsección 2
+
+Subsección 2.ª Revisión de licencias u órdenes de ejecución
+
+### Artículo 199
+
+Artículo 199. Revisión de licencias u órdenes de ejecución.
+1. Si las obras estuvieran terminadas, las licencias u órdenes de ejecución cuyo contenido constituya o legitime alguna de las infracciones graves o muy graves definidas en la presente Ley deberán ser revisadas por el órgano municipal correspondiente en los términos y condiciones y por los procedimientos previstos al efecto en la legislación reguladora del régimen jurídico de las Administraciones públicas y del procedimiento administrativo común.
+2. Los procedimientos de revisión a que se refiere el número anterior serán independientes a todos los efectos de los de carácter sancionador.
+
+## Sección 3
+
+Sección 3.ª Medidas sobre obras, construcciones y usos en viales, zonas verdes, espacios libres y dominio público
+Se modifica el título por el art. 2.55 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Artículo 200
+
+Artículo 200. Actos de edificación y uso del suelo en viales, zonas verdes, espacios libres y dominio público.
+1. Los actos de construcción, edificación o uso del suelo que se realicen sin licencia, declaración responsable u orden de ejecución, en terrenos calificados por el planeamiento urbanístico como viales, zonas verdes, espacios libres y dominio público delimitado con arreglo a su legislación sectorial, quedarán sujetos al régimen jurídico establecido en este capítulo sin que sea de aplicación limitación de plazo alguna para el ejercicio de las potestades de protección de la legalidad urbanística.
+2. Son nulas de pleno derecho, a los efectos de lo dispuesto en el número 1 del artículo 199 las licencias que legitimen y las órdenes de ejecución que impongan actos o usos que constituyan, de acuerdo con la presente ley, infracciones urbanísticas muy graves y, en todo caso, las que afecten a viales, zonas verdes, espacios libres y dominio público, delimitado con arreglo a su legislación sectorial.
+Se modifica por el art. 2.56 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+## CAPÍTULO III
+
+Infracciones urbanísticas y su sanción
+
+## Sección 1
+
+Sección 1.ª Régimen general
+
+### Artículo 201
+
+Artículo 201. Concepto de infracción.
+Son infracciones urbanísticas las acciones y omisiones que vulneren o contravengan esta Ley, los Planes y las Ordenanzas, y estén sujetas a sanción y tipificadas en la presente Ley.
+
+### Artículo 202
+
+Artículo 202. Consecuencias legales de las infracciones.
+1. Toda acción u omisión tipificada como infracción urbanística en la presente Ley podrá dar lugar a la adopción de las medidas siguientes:
+a) La restauración del orden jurídico infringido y de la realidad física alterada o transformada como consecuencia de la actuación ilegal, a través de las medidas reguladas en la presente Ley.
+b) La iniciación de los procedimientos de suspensión y revocación o anulación de los actos administrativos en los que presuntamente pudiera ampararse la actuación ilegal.
+c) Las que procedan para la exigencia de la responsabilidad sancionadora, así como, en su caso, penal.
+d) La exigencia de resarcimiento de daños e indemnización de los perjuicios a cargo de quienes sean declarados responsables.
+2. En ningún caso podrá la Administración dejar de adoptar las medidas tendentes a reponer los bienes afectados al estado anterior a la producción de la situación ilegal.
+
+### Artículo 203
+
+Artículo 203. Restablecimiento de la legalidad y sanción de las infracciones.
+Las medidas de restablecimiento de la legalidad urbanística son independientes de las sanciones cuya imposición proceda por razón de la comisión de infracciones tipificadas en la presente Ley.
+
+### Artículo 204
+
+Artículo 204. Clases de infracciones y tipos legales.
+1. Las infracciones urbanísticas se clasifican en muy graves, graves y leves.
+2. Son infracciones muy graves:
+a) La tipificadas como graves, cuando afecten a terrenos clasificados como suelo no urbanizable de protección o calificados como elementos de las redes supramunicipales o municipales de infraestructuras, equipamientos y servicios públicos y a los que tengan la consideración de dominio público por estar comprendidos en zonas de protección o servidumbre, por declaración urbanística o sectorial.
+b) El incumplimiento total o parcial de las obligaciones impuestas por medidas provisionales o cautelares adoptadas con motivo del ejercicio de la potestad de protección de la legalidad y de restablecimiento del orden jurídico perturbado.
+c) La destrucción o el deterioro de bienes catalogados por la ordenación urbanística o declarados de interés cultural conforme a la legislación sobre el patrimonio histórico, cultural y artístico, así como las parcelaciones en suelo no urbanizable de protección.
+3. Son infracciones graves:
+a) La realización de actos y actividades de transformación del suelo mediante la realización de obras, construcciones, edificaciones o instalaciones sin la cobertura formal de las aprobaciones, calificaciones, autorizaciones, licencias, declaraciones responsables u órdenes de ejecución preceptivas o contraviniendo las condiciones de las otorgadas, salvo que se trate de obras menores, no precisadas legalmente de proyecto técnico alguno y con escasa repercusión en el ambiente urbano, rural o natural. De darse esta última salvedad, la infracción tendrá carácter de leve. Tendrán en todo caso la condición de infracciones graves los actos consistentes en movimientos de tierras y extracciones de minerales.
+b) La implantación y el desarrollo de usos incompatibles con la ordenación urbanística aplicable.
+c) Los incumplimientos, con ocasión de la ejecución del planeamiento urbanístico, de deberes y obligaciones impuestos por esta Ley y, en virtud de la misma, por los instrumentos de planeamiento, gestión y ejecución o asumidos voluntariamente mediante convenio, salvo que se subsanen voluntariamente tras el primer requerimiento formulado al efecto por la Administración, en cuyo caso tendrán la consideración de leves.
+d) La negativa u obstrucción de la labor inspectora.
+4. Son infracciones leves las acciones u omisiones no comprendidas en los números anteriores.
+Se modifica el apartado 3.a) por el art. 5.38 bis de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica el apartado 3.a) por el art. único.16 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+### Artículo 205
+
+Artículo 205. Personas responsables.
+1. Serán responsables de las infracciones a todos los efectos:
+a) En las obras, instalaciones, construcciones, edificaciones, actividades o usos del suelo ejecutados o desarrollados sin concurrencia de los presupuestos legales para su legitimidad o contraviniendo sus condiciones:
+1.º Los técnicos facultativos autores de los proyectos o documentos técnicos, si las obras proyectadas fueran incompatibles con el planeamiento urbanístico.
+2.º Los promotores y constructores de las obras o instalaciones y los titulares, directores o explotadores de los establecimientos, las actividades o los usos, así como los técnicos directores de las obras y de su ejecución y los directores de las instalaciones.
+b) En las obras, instalaciones, construcciones, edificaciones, actividades o usos del suelo ejecutados o desarrollados al amparo de actos administrativos ilegales:
+1.º Las personas enumeradas en los dos apartados de la letra anterior.
+2.º El titular del órgano administrativo unipersonal que haya otorgado las aprobaciones, autorizaciones o licencias sin los preceptivos informes o en contra de los emitidos en sentido desfavorable por razón de la infracción, los miembros de los órganos colegiados que hayan votado a favor de dichas aprobaciones, autorizaciones o licencias en idénticas condiciones y el Secretario del Ayuntamiento que no haya advertido de la omisión de alguno de los preceptivos informes técnico y jurídico, así como el o los funcionarios facultativos que hayan informado favorablemente con conocimiento de la vulneración del orden jurídico.
+2. A los efectos de la responsabilidad por la comisión de infracciones, se considerará también como promotor al propietario del suelo en el cual se cometa o se ha cometido la infracción cuando haya tenido conocimiento de las obras, instalaciones, construcciones, edificaciones, actividades o usos infractores. Salvo prueba en contrario, se presumirá ese conocimiento cuando por cualquier acto haya cedido el uso del suelo, para los expresados fines, al responsable directo o material de la infracción.
+3. Las personas jurídicas serán responsables de las infracciones cometidas por sus órganos o agentes y asumirán el coste de las medidas de restablecimiento del orden jurídico perturbado y de las indemnizaciones por daños y perjuicios a terceros a que haya lugar.
+Se modifica la letra a).1 del apartado 1 por el art. 15.18 bis.3) de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 206
+
+Artículo 206. Circunstancias modificativas de la responsabilidad.
+1. Son circunstancias que agravan la responsabilidad de los culpables de una infracción urbanística sin perjuicio de pasar el tanto de culpa a los Tribunales:
+a) Prevalerse, para cometer la infracción, de la titularidad de un oficio o cargo público.
+b) Emplear la violencia o cualquier otro tipo de coacción sobre la autoridad o funcionario público encargado de cumplimiento de la legalidad urbanística o mediando soborno.
+c) Cometer la infracción alterando los supuestos de hecho que presuntamente legitimasen la actuación o mediante falsificación de los documentos en que se acreditasen el fundamento legal de la actuación.
+d) Aprovechar o explotar en beneficio propio una grave necesidad pública o del particular o particulares que resultaren perjudicados.
+e) Ofrecer resistencia a las órdenes emanadas de la Administración relativas a la protección de la legalidad o su cumplimiento defectuoso.
+f) Iniciar las obras sin orden escrita del titulado técnico director y las modificaciones en la ejecución del proyecto sin instrucciones expresas de dicho técnico, quedando exento de responsabilidad el empresario constructor en todos aquellos casos en que justifique suficientemente haberse atenido a las instrucciones recibidas de la dirección facultativa de obras.
+g) Cometer la infracción habiendo sido sancionado con anterioridad, mediante sanción firme, por la comisión de cualesquiera infracciones previstas en la presente Ley.
+h) Persistir en la infracción tras la inspección y pertinente advertencia del agente de la autoridad de acuerdo con lo establecido en el número 3 del artículo 192 de la presente Ley.
+2. Son circunstancias cuya concurrencia atenúa la responsabilidad sancionadora:
+a) La ausencia de intención de causar un daño tan grave a los intereses públicos o privados afectados.
+b) La reparación voluntaria y espontánea del daño causado antes del inicio de cualquier actuación administrativa sancionadora.
+c) La paralización de las obras o el cese en la actividad o uso, de modo voluntario, tras la inspección y la pertinente advertencia del agente de la autoridad de acuerdo con lo establecido en el número 3 del artículo 192 de la presente Ley.
+3. Son circunstancias que, según cada caso, pueden agravar o atenuar la responsabilidad:
+a) El mayor o menor conocimiento técnico de los pormenores de la actuación, de acuerdo con la profesión o actividad habitual del culpable.
+b) El mayor o menor beneficio obtenido de la infracción o, en su caso, el haberla realizado sin consideración ninguna al posible beneficio económico que de la misma se derivase.
+
+### Artículo 207
+
+Artículo 207. Cuantía de las sanciones.
+Las infracciones serán sancionadas con las siguientes multas:
+a) Infracciones leves: multa de 600 a 30.000 euros.
+b) Infracciones graves: multa de 30.001 a 600.000 euros.
+c) Infracciones muy graves: multa de 600.001 a 3.000.000 de euros.
+
+### Artículo 208
+
+Artículo 208. Graduación de las sanciones.
+1. Cuando en el hecho concurra alguna circunstancia agravante, la multa se impondrá siempre en su grado máximo. Si concurriere alguna circunstancia atenuante, la multa se impondrá en su grado mínimo. Las mismas reglas se observarán según los casos cuando concurra alguna o algunas de las circunstancias mixtas.
+2. En las parcelaciones ilegales el importe de la multa podrá ampliarse a una cuantía igual a todo el beneficio obtenido más los daños y perjuicios ocasionados. La cuantía de la multa no será nunca inferior a la diferencia entre el valor inicial y el de venta de la parcela correspondiente.
+
+### Artículo 209
+
+Artículo 209. Carácter independiente de las sanciones.
+Las multas que se impongan a los distintos responsables por una misma infracción tendrán entre sí carácter independiente.
+
+### Artículo 210
+
+Artículo 210. Infracciones conexas.
+1. En el caso de que en aplicación de los preceptos de la presente Ley se instruyera expediente sancionador por dos o más infracciones tipificadas entre las que exista conexión de causa a efecto, se impondrá una sola sanción y será la correspondiente a las actuaciones que supongan el resultado final perseguido en su cuantía máxima.
+2. En los demás casos, a los responsables de dos o más infracciones urbanísticas se les impondrán las multas correspondientes a cada una de las diversas infracciones cometidas.
+
+### Artículo 211
+
+Artículo 211. Concurso de infracciones y de leyes.
+1. Las infracciones previstas en el régimen específico se sancionarán con carácter preferente respecto a las previstas en el régimen general.
+2. Cuando un mismo hecho pueda ser calificado como infracción por ésta y otras leyes sectoriales, se aplicará el precepto que prevea una sanción más grave, incluyendo en la cuantificación de las infracciones urbanísticas lo previsto en el artículo siguiente.
+
+### Artículo 212
+
+Artículo 212. Exclusión de beneficio económico.
+1. En ningún caso la infracción urbanística puede suponer un beneficio económico para el infractor. Cuando la suma de la multa impuesta y del coste de las actuaciones de reposición de los bienes y situaciones a su primitivo estado arrojase una cifra inferior a dicho beneficio, se incrementará la cuantía de la multa hasta alcanzar el montante del mismo.
+2. En los casos en que la restauración del orden urbanístico infringido no exigiere actuación material alguna ni existan terceros perjudicados, la multa que se imponga al infractor no podrá ser inferior al beneficio obtenido con la actividad ilegal.
+
+## Sección 2
+
+Sección 2.ª Régimen específico
+
+## Subsección 1
+
+Subsección 1.ª En materia de parcelación
+
+### Artículo 213
+
+Artículo 213. Parcelación en suelo no urbanizable de protección.
+1. Serán sancionados con multa del 20 al 25 por 100 del valor de los terrenos afectados, calculado conforme a la legislación vigente en cada caso, quienes realicen parcelaciones sobre suelo no urbanizable de protección.
+2. La sanción establecida en el número anterior se podrá incrementar hasta el 30 por 100 del valor del suelo si la división realizada lesiona el valor específico que, en su caso, proteja el ordenamiento urbanístico.
+
+### Artículo 214
+
+Artículo 214. Parcelación en suelo urbanizable.
+Se sancionará con multa del 10 al 15 por 100 del valor en venta de los terrenos afectados a quienes realicen parcelaciones urbanísticas en suelo clasificado como urbanizable que no sean consecuencia de la ejecución del correspondiente planeamiento general o de desarrollo, ni se verifiquen en el contexto del pertinente sistema de ejecución.
+
+### Artículo 215
+
+Artículo 215. Parcelación en suelo urbano.
+Se sancionará con multa del 10 al 15 por 100 del valor en venta de los terrenos afectados a quienes realicen parcelaciones urbanísticas de suelo urbano que contradigan las determinaciones de la ordenación urbanística.
+
+### Artículo 216
+
+Artículo 216. Restantes parcelaciones.
+1. Serán sancionados con multa del 10 al 15 por 100 del valor de los terrenos afectados las operaciones de parcelación o división de terrenos que den lugar a lotes inferiores a la parcela establecida como mínima. En la misma sanción incurrirán quienes dividieren o segregaren parcelas que tengan la condición de indivisibles.
+2. Se sancionarán con multa del 5 por 100 del valor en venta de los terrenos las operaciones de parcelación que, sin contradecir el planeamiento en vigor, se realicen sin título habilitante.
+Se modifica el apartado 2 por el art. 2.57 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+## Subsección 2
+
+Subsección 2.ª En materia de uso del suelo y edificación
+
+### Artículo 217
+
+Artículo 217. Obras de urbanización o edificación en contra del uso del suelo.
+1. Quienes realicen obras de urbanización, construcción, edificación o instalación en contra del uso que corresponda al suelo en el que se ejecuten, serán sancionados con multa del 15 al 25 por 100 del valor de la obra proyectada, calculado por los correspondientes servicios técnicos de la Administración que instruya el expediente.
+2. La sanción se impondrá en su grado máximo cuando la actuación se refiere a suelo destinado a viales, parques y jardines públicos, zonas deportivas, de recreo y expansión o equipamiento comunitario.
+
+### Artículo 218
+
+Artículo 218. Actividades que impiden o perturban el uso público.
+1. Quienes realicen, en terrenos destinados por el planeamiento a uso público de interés general o común, actos, actividades o instalaciones que impidan o perturben gravemente dicho uso, serán sancionados:
+a) Con multa del 15 al 25 por 100 del valor del suelo afectado, cuando el hecho que impida el uso o produzca la perturbación origine una situación permanente.
+b) Con multa del 5 al 10 por 100 de dicho valor, cuando se realicen con carácter meramente ocasional, o las instalaciones o actividades puedan ser objeto de legalización por el órgano administrativo competente.
+2. Cuando la infracción se realice sobre bienes no susceptibles de valoración por estar excluidos de modo permanente y total del tráfico jurídico, la multa podrá oscilar entre 600 y 30.000 euros, graduándose en función de la mayor o menor trascendencia que la perturbación ocasione al uso público.
+
+### Artículo 219
+
+Artículo 219. Alteración o defraudación objetiva del uso.
+Serán sancionados con multa del 10 al 15 por 100 del valor del edificio, planta, local o dependencia, calculado conforme a la legislación vigente en cada caso, quienes:
+a) Alteren el uso a que estuvieran destinados por el planeamiento urbanístico.
+b) Defrauden por cualquier procedimiento, incluido el precio de venta, el régimen de protección a que estuvieran sujetos los destinados a vivienda.
+
+### Artículo 220
+
+Artículo 220. Exceso sobre la edificabilidad.
+Se sancionará con multa del 15 al 25 por 100 de su valor el exceso de edificación sobre la edificabilidad permitida por el planeamiento.
+
+### Artículo 221
+
+Artículo 221. Obras en edificios fuera de ordenación.
+Se sancionará con multa del 10 al 15 por 100 del valor de lo realizado, la ejecución de obras de consolidación, aumento de volumen, modernización o incremento de su valor de expropiación en edificios calificados como fuera de ordenación, exceptuado las que sean parcialmente compatibles, de conformidad con el artículo 64.b) de la presente Ley.
+Se modifica por el art. 15.18 bis.4) de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 222
+
+Artículo 222. Edificación en parcela inferior a la mínima edificable.
+Los que construyeran o edificaren en parcelas cuya superficie sea inferior a la establecida como mínima edificable, serán sancionados con multa del 15 al 25 por 100 del valor de la obra proyectada, graduando la multa en función de la mayor o menor desproporción que exista entre la superficie de la parcela edificada y la superficie de la parcela mínima según el Plan de Ordenación Urbanística.
+
+### Artículo 223
+
+Artículo 223. Incumplimiento de las reglas de distancia.
+El incumplimiento de las reglas de distancia de las edificaciones entre sí y en relación con las vías públicas, espacios libres y linderos, se sancionarán con multa del 15 al 25 por 100 del importe de la obra que se sitúa fuera de los límites a los que deba ajustarse.
+
+### Artículo 224
+
+Artículo 224. Obras en edificios catalogados.
+1. Quienes derriben o desmonten total o parcialmente edificaciones, construcciones o instalaciones que sean objeto de una protección especial por su carácter monumental, histórico, artístico, arqueológico, cultural, típico o tradicional, incluidos en Catálogos serán sancionados con multa equivalente al doble del valor de lo destruido.
+2. Se sancionará con multa del 75 al 100 por 100 del valor de la obra proyectada la realización de construcciones en lugares inmediatos o que formen parte de un grupo de edificios de carácter histórico-artístico, arqueológico, típico o tradicional, que, infringiendo las correspondientes normas o régimen jurídico de protección, quebranten la armonía del grupo, o cuando produzcan el mismo efecto en relación con algún edificio de gran importancia o calidad de los caracteres indicados. La graduación de la multa se realizará en atención al carácter grave o leve de la discordancia producida.
+
+### Artículo 225
+
+Artículo 225. Infracción de normas higiénico-sanitarias y estéticas.
+Serán sancionados con multa del 15 al 25 por 100 del valor de las obras complementarias que fuere necesario realizar para subsanar las deficiencias correspondientes, quienes infringieren las normas sobre condiciones higiénico-sanitarias y estéticas. En la misma sanción incurrirán quienes vulneren otras determinaciones de las Ordenanzas municipales o del proyecto de urbanización cuando causen un perjuicio o pongan en situación de riesgo la normalidad del uso de la edificación, construcción, instalación o servicio o la salud de los usuarios.
+
+### Artículo 226
+
+Artículo 226. Tala y derribo de árboles.
+1. Se sancionará con multa de 600 a 30.000 euros las talas y los abatimientos de árboles que constituyan masa arbórea, espacio boscoso, arboleda, parque y aquellos ejemplares aislados que por sus características específicas posean un interés botánico o ambiental especial y se realicen sin título habilitante.
+2. La cuantía de la multa se establecerá en cada caso, en función del grado de irreversibilidad del deterioro causado del valor intrínseco de la especie, del número de elementos dañados y de la antigüedad de los mismos.
+Se modifica el apartado 1 por el art. 2.58 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Artículo 227
+
+Artículo 227. Carteles y otros soportes de publicidad.
+Se sancionará con multa de 600 a 30.000 euros la colocación de carteles de publicidad sin título habilitante, que se graduará en función de la localización, tamaño e incidencia en el medio físico y en el entorno.
+Se modifica por el art. 2.59 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Artículo 228
+
+Artículo 228. Instalación de casas prefabricadas o similares.
+Se sancionará con multa del 10 al 15 por 100 de su valor, la instalación o ubicación de casas prefabricadas e instalaciones similares, provisionales o permanentes, sin título habilitante.
+Se modifica por el art. 2.60 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+## Subsección 3
+
+Subsección 3.ª En materia de incumplimiento de planeamiento
+
+### Artículo 229
+
+Artículo 229. Obras y usos realizados sin la cobertura de los actos administrativos que deban legitimarlos.
+1. Se sancionará con multa equivalente al importe de las obras de urbanización e implantación de servicios, a quienes las realicen sin la cobertura del o de los actos administrativos precisos para su legitimación en suelo no urbanizable de protección y en suelo urbanizable no sectorizado, siempre que en este último caso el suelo no cuente con ordenación pormenorizada o las obras sean disconformes con la que exista. La sanción que se imponga nunca podrá ser inferior a 3.000 euros.
+2. Cuando las obras a que se refiere el número anterior se realicen en suelo urbano o urbanizable sectorizado con ordenación pormenorizada, se sancionarán con multa por importe del 20 al 25 por 100 del valor de las efectivamente ejecutadas, salvo que fueran susceptibles de legalización, en cuyo caso la multa será del 5 por 100 de dicho valor.
+
+### Artículo 230
+
+Artículo 230. Incumplimiento de las obligaciones de conservación de obras de urbanización.
+1. Se sancionará con multa de 6.000 a 300.000 euros el incumplimiento de las obligaciones asumidas de conservar y mantener las obras de urbanización y sus instalaciones.
+2. La cuantía de la multa será proporcional al grado de deterioro o abandono de los elementos de la urbanización producido por el incumplimiento.
+
+## Sección 3
+
+Sección 3.ª Competencia y procedimiento
+
+### Artículo 231
+
+Artículo 231. Competencia para incoar e instruir procedimientos sancionadores.
+1. Los municipios y la Comunidad de Madrid son competentes, para incoar e instruir los procedimientos para la sanción de infracciones urbanísticas.
+2. La incoación acordada por una de las dos Administraciones a que se refiere el número anterior deberá ser notificada a la otra. Si resultare que ambas han incoado procedimiento, la Comunidad de Madrid se abstendrá de continuar, archivando las actuaciones.
+
+### Artículo 232
+
+Artículo 232. Competencia para resolver procedimientos sancionadores.
+1. Serán competentes para resolver los procedimientos sancionadores:
+a) El Alcalde, para la imposición de sanciones que no superen las siguientes cuantías:
+1.º En los municipios hasta 5.000 habitantes de derecho, hasta 150.000 euros.
+2.º En los municipios comprendidos entre 5.001 y 50.000 habitantes de derecho, hasta 600.000 euros.
+3.º En los municipios comprendidos entre 50.001 y 500.000 habitantes de derecho, hasta 1.200.000 euros.
+4.º En los de más de 500.000 habitantes de derecho, hasta 1.500.000 euros.
+b) El titular de la consejería competente en materia de ordenación del territorio y urbanismo, para la imposición de sanciones que no superen la cantidad de 1.800.000 euros.
+c) El Gobierno de la Comunidad de Madrid, en los restantes casos.
+Se modifica por el art. 2.61 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Artículo 233
+
+Artículo 233. Procedimiento.
+La potestad sancionadora se ejercerá observando el procedimiento establecido al efecto por la legislación general del procedimiento administrativo común y la legislación de la Comunidad de Madrid.
+
+### Artículo 234
+
+Artículo 234. Destino de las multas.
+1. El importe de las multas impuestas como consecuencia de las infracciones se recaudará en la forma legalmente prevista por la Administración que hubiera instruido el procedimiento.
+2. Los ingresos en concepto de sanciones se destinarán al patrimonio público de suelo de la Administración que las hubiera impuesto para la realización de actuaciones de restauración del suelo en el Municipio en el que se hubieran cometido las infracciones, una vez descontado el coste de la actividad administrativa sancionadora que reglamentariamente se establezca.
+3. El importe de las multas impuestas por procedimientos incoados por la Administración municipal, corresponderá a los Ayuntamientos aunque la sanción se imponga por razón de la cuantía por la Administración de la Comunidad de Madrid.
+
+### Artículo 235
+
+Artículo 235. Anulación del acto o actos administrativos habilitantes.
+1. Cuando los actos y las actividades constitutivas de infracción según esta ley se realizarán al amparo de una licencia, declaración responsable u orden de ejecución y de acuerdo con sus determinaciones, no se podrá imponer sanción en tanto no se proceda a la anulación o se declare ineficaz el título habilitante que las autorice.
+2. Si la anulación o declaración de ineficacia del título habilitante fuese consecuencia de la anulación del instrumento de planeamiento urbanístico del que trae causa, no habrá lugar a imposición de sanciones a quienes actúen al amparo de dichos títulos a menos que fuesen los promotores del Plan de Ordenación Urbanística declarado nulo y dicha nulidad sea consecuencia de actuaciones de los mismos.
+Se modifica por el art. 2.62 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+## Sección 4
+
+Sección 4.ª Prescripción
+
+### Artículo 236
+
+Artículo 236. Plazo de prescripción de infracciones y sanciones.
+1. La prescripción de las infracciones urbanísticas se producirá por el transcurso de seis años. De este régimen se exceptúan, las que afecten a suelo no urbanizable de protección que prescribirán a los 15 años y las que afecten a viales, zonas verdes, espacios libres y dominio público delimitado con arreglo a su legislación sectorial, que no tienen plazo de prescripción.
+2. La prescripción de las sanciones por la comisión de infracciones urbanísticas se sujetará a idénticos plazos que los señalados en el apartado anterior.
+Se modifica por el art. 2.63 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica el apartado 1 por el art. 5.38 ter de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 237
+
+Artículo 237. Inicio del cómputo de la prescripción de infracciones y sanciones.
+1. El plazo de prescripción de las infracciones comenzará a correr desde el día en que la infracción se haya cometido o, en su caso, desde aquel en que hubiera podido incoarse el procedimiento sancionador. A este último efecto, se entenderá posible la incoación del procedimiento sancionador desde el momento de la aparición de signos externos que permitan conocer los hechos constitutivos de la infracción.
+Cuando la infracción se haya cometido con ocasión de la ejecución de obras o el desarrollo de usos, el plazo de la prescripción de aquélla nunca comenzará a correr antes de la total terminación de las primeras o el cese definitivo en los segundos.
+En las infracciones derivadas de una actividad continuada, la fecha inicial del cómputo será la de la finalización de la actividad o la del último acto con el que la infracción se consuma.
+2. El plazo de prescripción de las sanciones comenzará a correr desde el día siguiente a aquel en que adquiera firmeza, la resolución por la que se imponga la sanción.
+
+## TÍTULO VI
+
+Organización y cooperación interadministrativa
+
+## CAPÍTULO I
+
+Órganos de la Comunidad de Madrid
+
+## Sección 1
+
+Sección 1.ª Comisión de urbanismo de madrid
+
+### Artículo 238
+
+Artículo 238. Comisión de Urbanismo de Madrid.
+1. La Comisión de Urbanismo de Madrid es el órgano colegiado máximo de deliberación, consulta y decisión de la Comunidad de Madrid en la materia objeto de la presente Ley. Forma parte de la estructura orgánica de la Consejería competente en materia de ordenación urbanística a la que corresponde facilitar la infraestructura y los medios necesarios para su funcionamiento, y adopta sus acuerdos sobre la base de las propuestas formuladas por la Dirección General competente.
+2. Son funciones de la Comisión de Urbanismo de Madrid:
+a) El ejercicio de la potestad de planeamiento urbanístico en los términos de la presente Ley.
+b) La emisión de los informes previstos en la presente Ley y cuantos otros le sean solicitados por o a través del Consejero competente en materia de ordenación urbanística sobre cuestiones objeto de regulación en la misma.
+c) El otorgamiento de las calificaciones urbanísticas que procedan de conformidad con la presente Ley y los proyectos de actuación especial.
+d) La formulación de propuestas y sugerencias en materia de ordenación urbanística al Consejero competente en la misma.
+e) El seguimiento y la evaluación de la política urbanística.
+f) Cuantas otras se le atribuyan en la presente Ley o por norma legal o reglamentaria.
+
+### Artículo 239
+
+Artículo 239. Composición y funcionamiento.
+1. Integran la Comisión de Urbanismo de Madrid:
+a) El Presidente, que lo será el Consejero competente en materia de ordenación urbanística.
+b) El Vicepresidente, que lo será el Viceconsejero competente en materia de ordenación urbanística.
+c) Los Vocales que se determinen al establecer su organización y funcionamiento, entre los que deberán figurar, en todo caso, un representante por cada una de las Consejerías de la Comunidad con nivel orgánico de Viceconsejero o Director General; diez miembros electos en representación de los municipios, designados por el Gobierno a propuesta de la Federación de Municipios de Madrid; y cuatro miembros de libre designación nombrados por el Gobierno a propuesta del Consejero competente en materia de ordenación urbanística de entre personas con acreditada competencia en los asuntos propios de la Comisión.
+d) El Secretario de la Comisión será el Secretario General Técnico de la Consejería competente en materia de ordenación urbanística, y actuará con voz y sin voto.
+2. El Presidente de la Comisión tendrá competencia para adoptar cuantos actos sean procedentes para asegurar la efectividad y ejecución de los acuerdos adoptados por la Comisión.
+3. La preparación de los asuntos que deban ser sometidos a la Comisión, incluida la elaboración de las propuestas de acuerdos, corresponderá a la Ponencia Técnica, integrada por todos los Directores Generales de la Consejería competente en materia de ordenación urbanística, presidida por el que sea responsable del planeamiento urbanístico y asistida, en calidad de Secretario, por el Secretario General Técnico de la misma Consejería.
+4. La Ponencia Técnica podrá:
+a) Adoptar cuantos actos de trámite sean pertinentes para garantizar la corrección y regularidad de la documentación de los asuntos sometidos a la consideración de la Comisión.
+b) En relación con los procedimientos de aprobación definitiva de Planes de Ordenación Urbanística, formular, por razones de estricta legalidad y una sola vez, requerimientos de subsanación de deficiencias de orden jurídico o técnico, que suspenderán el plazo máximo legal para la adopción de la resolución definitiva por la Comisión.
+5. Sin perjuicio de lo dispuesto en el número anterior, la Comisión podrá acordar la constitución, en su seno y para asuntos concretos, de Ponencias Especiales.
+6. Reglamentariamente se determinarán la composición, la organización y el funcionamiento de la Comisión.
+
+## Sección 2
+
+Sección 2.ª Jurado territorial de expropiación
+
+### Artículo 240
+
+Artículo 240. Jurado Territorial de Expropiación.
+1. El Jurado Territorial de Expropiación es el órgano de la Administración de la Comunidad de Madrid especializado en materia de expropiación forzosa. Está adscrito a la Consejería competente en materia de ordenación urbanística, que le facilita toda la infraestructura administrativa para su adecuado funcionamiento, y actúa en el cumplimiento de sus funciones con plena autonomía funcional.
+2. El Jurado Territorial de Expropiación actuará con competencia resolutoria definitiva, poniendo sus actos fin a la vía administrativa, para la fijación del justiprecio en todas las expropiaciones, sean o no por razón de la ordenación urbanística, cuando la Administración expropiante sea la de la Comunidad de Madrid o uno de los municipios de la misma.
+3. El Jurado Territorial de Expropiación dispondrá de un plazo máximo de cuatro meses para notificar los acuerdos que adopte, a contar desde el día siguiente al de la entrada del expediente completo en el registro.
+4. El Jurado Territorial de Expropiación Forzosa de la Comunidad de Madrid se compone de los siguientes miembros, designados por el Gobierno de Madrid:
+a) Presidente: un jurista de reconocido prestigio, con más de diez años de experiencia profesional en el sector público o privado o en el ejercicio libre de la profesión.
+La designación del Presidente se hará para un mandato de seis años, renovable por una sola vez, no pudiendo ser cesado sino por causas objetivas y tasadas fijadas reglamentariamente.
+b) Vocales:
+1.º Un Letrado de la Comunidad de Madrid.
+2.º Un Técnico Facultativo Superior al servicio de la Comunidad de Madrid, propuesto por la Consejería competente en función de su especialidad en relación con la naturaleza del bien expropiado.
+3.º Cuando se trate de expropiaciones municipales, un representante técnico del Ayuntamiento interesado, designado con el mismo criterio de especialización. En este caso, el Técnico Facultativo previsto en el apartado anterior participará en el Jurado con voz y sin voto, salvo en el caso de que por el Ente Local no asistiera un técnico cualificado, previa solicitud justificada por parte de dicho Ente Local.
+4.º Un Técnico facultativo elegido por la Federación de municipios de Madrid con el mismo criterio de especialización.
+5.º Un Notario propuesto por el Decano del Colegio Notarial correspondiente.
+6.º Dos profesionales libres colegiados de acuerdo con el criterio de especialidad, propuestos por el correspondiente Colegio Oficial.
+c) Secretario: actuará como Secretario del Jurado un funcionario de la Comunidad de Madrid y perteneciente al cuerpo de técnicos superiores, rama jurídica.
+5. Además de los miembros del Jurado, podrán actuar de ponentes a los efectos de la preparación de las propuestas de acuerdo o dictamen e interviniendo en las deliberaciones con voz, pero sin voto, cualesquiera funcionarios técnicos facultativos al servicio de la Comunidad de Madrid o de los municipios.
+6. El Jurado Territorial de Expropiación podrá funcionar en pleno o secciones.
+7. Reglamentariamente se determinará la organización y el funcionamiento del Jurado Territorial de Expropiación.
+Se modifica el apartado 4 por el art. 18 de Ley 2/2004, de 31 de mayo. Ref. BOE-A-2004-12575.
+
+### Artículo 241
+
+Artículo 241. Motivación y notificación de los acuerdos del Jurado.
+1. Los acuerdos del Jurado Territorial de Expropiación serán siempre motivados, debiendo contener, en su caso, expresa justificación de los criterios empleados para la valoración a efectos de justiprecio o indemnización, con relación a lo dispuesto en la legislación general y, en su caso, en la presente Ley.
+2. Los acuerdos del Jurado deberán ser inmediatamente notificados tanto a la Administración expropiante, como a los interesados en los correspondientes procedimientos administrativos.
+
+## CAPÍTULO II
+
+Fórmulas y técnicas de cooperación
+
+## Sección 1
+
+Sección 1.ª Cooperación interadministrativa
+
+### Artículo 242
+
+Artículo 242. Cooperación interadministrativa.
+1. Para asegurar, de acuerdo con su respectiva capacidad de gestión, el pleno y eficaz ejercicio por todos los municipios de la Comunidad de Madrid de las competencias que esta Ley les asigna, aquéllos entre sí y con la Administración de la Comunidad y ésta en ejercicio de las competencias que otorga la legislación de régimen local podrán hacer uso de todos los instrumentos funcionales de cooperación voluntaria y de asistencia técnica, económica y jurídica, respectivamente, previstos por dicha legislación y la general de régimen jurídico de las Administraciones públicas.
+2. A los mismos efectos y además de lo dispuesto en el número anterior, los municipios podrán:
+1.º Delegar en la Comunidad de Madrid el ejercicio de competencias y efectuar encomiendas de gestión.
+2.º Delegarse entre sí el ejercicio de competencias y efectuarse encomiendas de gestión.
+3.º Constituir las entidades asociativas previstas por la legislación de régimen local.
+4.º Constituir entre sí y con la Administración de la Comunidad de Madrid consorcios, transfiriendo a éstos competencias.
+3. La Administración de la Comunidad de Madrid podrá constituir con los municipios consorcios para el ejercicio de determinadas competencias de éstos.
+
+## Sección 2
+
+Sección 2.ª Convenios urbanísticos
+
+### Artículo 243
+
+Artículo 243. Concepto, alcance y naturaleza.
+1. La Comunidad de Madrid y los municipios, así como sus organizaciones adscritas y dependientes y las demás organizaciones por ellos creadas conforme a esta Ley, podrán suscribir, conjunta o separadamente, y siempre en el ámbito de sus respectivas esferas de competencias, convenios urbanísticos entre sí y con personas públicas o privadas, tengan éstas o no la condición de propietarios de los terrenos, construcciones o edificaciones correspondientes, para su colaboración y más eficaz desarrollo de la actividad urbanística.
+2. La negociación, la celebración y el cumplimiento de los convenios urbanísticos a que se refiere el número anterior se regirán por los principios de transparencia y publicidad.
+3. Serán nulas de pleno derecho las estipulaciones de los convenios que contravengan, infrinjan o defrauden objetivamente, en cualquier forma, normas imperativas legales o reglamentarias, incluidas las del planeamiento urbanístico, en especial las reguladoras del régimen urbanístico del suelo y de los deberes de los propietarios de éste.
+4. Los convenios regulados en esta Sección tendrán a todos los efectos carácter jurídico administrativo.
+
+### Artículo 244
+
+Artículo 244. Objeto.
+Los convenios urbanísticos se diferenciarán por su contenido y finalidad en:
+a) Convenios urbanísticos de planeamiento: aquellos que incluyan o puedan tener como consecuencia o resultado posibles modificaciones del planeamiento urbanístico, bien directamente, bien por ser éstas precisas en todo caso para la viabilidad de lo estipulado.
+b) Convenios urbanísticos para la ejecución del planeamiento: aquellos que no afectando en absoluto a la ordenación urbanística, se limiten a la determinación de los términos y las condiciones de la gestión y la ejecución del planeamiento y demás instrumentos existentes en el momento de su celebración. Del cumplimiento de estos convenios en ningún caso podrá derivarse o resultar modificación, alteración, excepción o dispensa del planeamiento.
+
+### Artículo 245
+
+Artículo 245. Nulidad de los convenios urbanísticos de planeamiento.
+Son nulos de pleno derecho los convenios urbanísticos de planeamiento, así como cualquier convenio o acuerdo, cualquiera que sea su denominación, que tenga por objeto definir los criterios de ordenación del futuro planeamiento urbanístico, o lo condicione de alguna forma mediante estipulaciones que establezcan la obligación de hacer efectivos antes de la aprobación definitiva, los deberes legales de cesión y, en su caso, los convenidos entre las partes que establezcan obligaciones o prestaciones adicionales más gravosas que las que procedan legalmente en perjuicio de los propietarios afectados.
+Se modifica por el art. 18 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+ Se añade la letra d) al apartado 4 por el art. 21 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+
+### Artículo 246
+
+Artículo 246. Convenios urbanísticos para la ejecución del planeamiento.
+1. La Comunidad de Madrid y los municipios, así como las entidades públicas adscritas o dependientes de una y otros y los consorcios creados por tales Administraciones, podrán suscribir, en el ámbito de sus respectivas competencias y conjunta o separadamente, convenios con personas públicas y privadas, tengan éstas o no la condición de propietarios de los terrenos afectados, para determinar las condiciones y los términos de la gestión y ejecución del planeamiento urbanístico en vigor en el momento de la celebración del convenio.
+2. Cuando las personas firmantes con las Administraciones públicas, sus entidades dependientes o adscritas o los consorcios por ellas creados asuman la total iniciativa y responsabilidad de la gestión urbanística en la ejecución del planeamiento, los convenios podrán definir en todos sus detalles el régimen de dicha ejecución, apartándose incluso de los sistemas de ejecución previstos en la presente Ley.
+3. Los convenios urbanísticos deberán determinar:
+a) Las bases de actuación urbanística a desarrollar, incluyendo la programación temporal de la urbanización y, en su caso, de la edificación.
+b) Los estatutos y el acuerdo de creación de la sociedad mercantil a que se refiere el Título III de la presente Ley, cuando proceda.
+c) Las garantías ofrecidas para asegurar la correcta ejecución de la actuación, que no podrán ser inferiores al 10 por 100 del valor del coste de ejecución material previsto para las obras de urbanización.
+d) La cuantificación de todos los deberes legales de cesión y determinación de la forma en que éstos serán cumplidos.
+e) Procedimiento de liquidación final de la actuación.
+f) Forma de conservación de la urbanización, una vez ejecutada.
+g) Previsiones y compromisos sobre la edificación.
+h) Compromisos voluntariamente asumidos.
+4. Los convenios en los que se acuerden los términos del cumplimiento de deberes legales de cesión por su sustitución por el pago de cantidad en metálico, deberán incluir, como anexo, la valoración pertinente, practicada por los servicios administrativos que tengan atribuida tal función, con carácter general ante la correspondiente Administración.
+
+### Artículo 247
+
+Artículo 247. Celebración y perfeccionamiento.
+1. Una vez negociados y suscritos, los convenios se someterán al trámite de información pública, mediante anuncio publicado en el «Boletín Oficial de la Comunidad de Madrid» y en, al menos, uno de los periódicos de mayor difusión en ésta, por un período mínimo de veinte días.
+2. Cuando la negociación de un convenio coincida con la tramitación del procedimiento de aprobación del instrumento de planeamiento con el que guarde directa relación, deberá incluirse el texto íntegro del convenio en la documentación sometida a información pública propia de dicho procedimiento, sustituyendo ésta a la prevista en el número anterior.
+3. Tras la información pública, el órgano que hubiera negociado el convenio deberá, a la vista de las alegaciones, elaborar una propuesta de texto definitivo del convenio, de la que se dará vista a la persona o las personas que hubieran negociado y suscrito el texto inicial para su aceptación, reparos o, en su caso, renuncia.
+4. El texto definitivo de los convenios deberá ratificarse:
+a) Por el Gobierno de la Comunidad de Madrid, previo informe en todo caso de la Comisión de Urbanismo de Madrid, cuando hayan sido suscritos inicialmente por cualquiera de los órganos de la Comunidad.
+b) Por el Ayuntamiento Pleno cuando se hayan suscrito inicialmente en nombre o representación del Municipio.
+c) Por el máximo órgano colegiado de la organización pública de que se trate.
+5. El convenio deberá firmarse dentro de los quince días siguientes a la notificación de la aprobación del texto definitivo por la persona o personas interesadas, privadas o públicas. Transcurrido dicho plazo sin que tal firma haya tenido lugar, se entenderá que renuncian a aquél. En el supuesto de convenios urbanísticos de planeamiento, la firma del texto definitivo se llevará a cabo, en el mismo plazo, tras la aprobación definitiva del planeamiento y remitiéndose el texto de éste a los términos de la aprobación definitiva recaída.
+6. Los convenios se perfeccionan y obligan desde su firma, en su caso, tras la aprobación de su texto definitivo en la forma dispuesta en el número anterior.
+
+### Artículo 248
+
+Artículo 248. Publicidad.
+1. En la Consejería competente en materia de ordenación urbanística, y en todos los Ayuntamientos, existirá un registro y un archivo administrativos de convenios urbanísticos, en los que se anotarán éstos y se custodiará un ejemplar completo de su texto definitivo y, en su caso, de la documentación anexa al mismo.
+2. El ejemplar custodiado en los archivos a que se refiere el número anterior dará fe, a todos los efectos legales, del contenido de los convenios.
+3. Cualquier ciudadano tiene derecho a consultar los registros y los archivos a que se refiere este artículo, así como a obtener, abonando el precio del servicio, certificaciones y copias de las anotaciones y de los documentos en ellos practicadas y custodiados.
+
+### Disposición adicional única
+
+Disposición adicional única. Homologación de entidades de inspección técnica.
+1. La homologación y el registro de las entidades de inspección técnica a que se refiere esta Ley corresponderá a la Consejería competente en materia de ordenación urbanística.
+2. Podrán ser homologadas como entidades de inspección técnica:
+a) Los profesionales titulados, inscritos como ejercientes en el correspondiente Colegio Profesional, individualmente o asociados en las formas que autoricen las normas profesionales de este último, para actuar en el ámbito de competencias profesionales que les confiera legalmente el título que ostenten.
+b) Toda clase de personas jurídicas legalmente constituidas que no dependan, ni estén vinculadas a entidades o empresas de la construcción o de la promoción inmobiliaria y entre cuyos fines o en cuyo objeto no figuren la promoción inmobiliaria, la construcción, la administración de inmuebles o la intermediación en el sector inmobiliario.
+3. La homologación requerirá acreditar:
+a) Cuando se trate de profesionales:
+1.º Una colegiación como ejerciente por más de cinco años consecutivos como mínimo.
+2.º No estar suspendido o tener prohibido el ejercicio profesional en virtud de resolución administrativa firme o Sentencia ejecutiva.
+3.º Contar con una experiencia profesional efectiva plasmada en trabajos relativos a proyectos o dirección de obras o de informe o dictamen técnicos sobre construcciones, edificaciones o instalaciones.
+4.º Tener suscrita póliza de cobertura de los riesgos por responsabilidad profesional en los términos que se precisen reglamentariamente.
+b) Cuando se trate de entidades:
+1.º Contar con al menos dos profesionales titulados legalmente habilitados para proyectar y dirigir por cada uno de los tipos legales de obras, construcciones y edificaciones respecto de las cuales pretenda ejercer su actividad, los cuales deberán reunir las condiciones establecidas en la letra a) anterior.
+2.º Tener suscrita y en vigor póliza de cobertura de los riesgos por responsabilidad profesional en los términos que se determinen reglamentariamente.
+4. La homologación sólo podrá denegarse por razones de legalidad, debiendo resolverse sobre ella dentro del mes siguiente a la presentación de la correspondiente solicitud, que deberá determinar con toda precisión la actividad de inspección técnica para la que se interesa la homologación. Transcurrido aquel plazo sin notificación de resolución expresa podrá entenderse desestimada la solicitud.
+La homologación comportará la inscripción en el registro de entidades de inspección técnica que deberá llevar la Consejería competente en materia de ordenación urbanística.
+5. La pérdida sobrevenida de cualesquiera de los requisitos exigidos en esta Disposición así como el incumplimiento grave o reiterado de las obligaciones previstas en el artículo 169 determinará la pérdida de la homologación, previa tramitación del oportuno expediente contradictorio, que podrá ser acordado de oficio por la Administración o a instancia de parte, practicándose la oportuna anotación en el Registro.
+Se modifica la letra b) del apartado 2 por el art. 15.19 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Homologación de entidades de inspección técnica.
+1. La homologación y el registro de las entidades de inspección técnica a que se refiere esta Ley corresponderá a la Consejería competente en materia de ordenación urbanística.
+2. Podrán ser homologadas como entidades de inspección técnica:
+a) Los profesionales titulados, inscritos como ejercientes en el correspondiente Colegio Profesional, individualmente o asociados en las formas que autoricen las normas profesionales de este último, para actuar en el ámbito de competencias profesionales que les confiera legalmente el título que ostenten.
+b) Toda clase de personas jurídicas legalmente constituidas que no dependan, ni estén vinculadas a entidades o empresas de la construcción o de la promoción inmobiliaria y entre cuyos fines o en cuyo objeto no figuren la promoción inmobiliaria, la construcción, la administración de inmuebles o la intermediación en el sector inmobiliario.
+3. La homologación requerirá acreditar:
+a) Cuando se trate de profesionales:
+1.º Una colegiación como ejerciente por más de cinco años consecutivos como mínimo.
+2.º No estar suspendido o tener prohibido el ejercicio profesional en virtud de resolución administrativa firme o Sentencia ejecutiva.
+3.º Contar con una experiencia profesional efectiva plasmada en trabajos relativos a proyectos o dirección de obras o de informe o dictamen técnicos sobre construcciones, edificaciones o instalaciones.
+4.º Tener suscrita póliza de cobertura de los riesgos por responsabilidad profesional en los términos que se precisen reglamentariamente.
+b) Cuando se trate de entidades:
+1.º Contar con al menos dos profesionales titulados legalmente habilitados para proyectar y dirigir por cada uno de los tipos legales de obras, construcciones y edificaciones respecto de las cuales pretenda ejercer su actividad, los cuales deberán reunir las condiciones establecidas en la letra a) anterior.
+2.º Tener suscrita y en vigor póliza de cobertura de los riesgos por responsabilidad profesional en los términos que se determinen reglamentariamente.
+4. La homologación sólo podrá denegarse por razones de legalidad, debiendo resolverse sobre ella dentro del mes siguiente a la presentación de la correspondiente solicitud, que deberá determinar con toda precisión la actividad de inspección técnica para la que se interesa la homologación. Transcurrido aquel plazo sin notificación de resolución expresa podrá entenderse desestimada la solicitud.
+La homologación comportará la inscripción en el registro de entidades de inspección técnica que deberá llevar la Consejería competente en materia de ordenación urbanística.
+5. La pérdida sobrevenida de cualesquiera de los requisitos exigidos en esta Disposición así como el incumplimiento grave o reiterado de las obligaciones previstas en el artículo 169 determinará la pérdida de la homologación, previa tramitación del oportuno expediente contradictorio, que podrá ser acordado de oficio por la Administración o a instancia de parte, practicándose la oportuna anotación en el Registro.
+Se numera como disposición adicional primera por la disposición final 2 de la Ley 2/2012, de 12 de junio. Ref. BOE-A-2012-12814.
+ Su anterior denominación era disposición adicional única.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Actuaciones urbanísticas que amparen actividades de comercio minorista y de determinados servicios.
+1. El régimen jurídico de las actuaciones urbanísticas que amparen actividades de comercio minorista y de determinados servicios será el previsto en la Ley 2/2012, de 12 de junio, de Dinamización de la Actividad Comercial en la Comunidad de Madrid, sin perjuicio de la aplicación del resto de legislación sectorial aplicable en función de la naturaleza de las actuaciones a realizar y de los inmuebles en los que las mismas se ejecuten.
+2. El régimen jurídico de las actuaciones urbanísticas que amparen actividades de comercio minorista y de determinados servicios será el previsto en la Ley 2/2012, de 12 de junio, de Dinamización de la Actividad Comercial en la Comunidad de Madrid, sin perjuicio de la aplicación de lo previsto en la disposición adicional segunda de la Ley 8/2009, de 21 de diciembre, de Medidas Liberalizadoras y de Apoyo a la Empresa Madrileña, en relación a la colaboración de entidades privadas en el ejercicio de las funciones administrativas de verificación, inspección y control en el ámbito urbanístico.
+Se añade por la disposición final 1 de la Ley 2/2012, de 12 de junio. Ref. BOE-A-2012-12814.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Referencias a los medios de intervención.
+Las referencias contenidas en esta Ley a licencias deberán entenderse referidas a todos los efectos, al título habilitante de naturaleza urbanística que corresponda de conformidad con la regulación contenida en el Capítulo III del Título IV de esta Ley.
+Se modifica por el art. 5.38 quater de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se añade por el art. único.17 de la Ley 1/2020, de 8 de octubre. Ref. BOE-A-2021-3494
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Excepción en el planeamiento urbanístico.
+Lo dispuesto en los artículos 45 de la Ley 2/2016, de 29 de marzo, de Identidad y Expresión de Género e Igualdad Social y no Discriminación de la Comunidad de Madrid, y 21 de la Ley 3/2016, de 22 de julio, de Protección Integral contra la LGTBifobia y la Discriminación por Razón de Orientación e Identidad Sexual en la Comunidad de Madrid, no resulta de aplicación a la tramitación y aprobación de cualesquiera instrumentos de planeamiento territorial o e planeamiento urbanístico.
+Se añade por el art. 5.38 quater de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Imposibilidad de modificar determinaciones estructurantes en suelo urbano mediante plan especial en planeamientos no adaptados.
+No podrán formularse planes especiales de modificación del suelo urbano que modifiquen la ordenación estructurante si el ámbito territorial en el que se incardinan no se encuentra ordenado previamente mediante un instrumento de planeamiento urbanístico aprobado en base a la Ley 9/2001, de 17 de julio, en los términos establecidos por la disposición transitoria tercera. Se exceptúa de lo dispuesto en el apartado anterior los supuestos en que, no encontrándose adaptado el planeamiento a la ley, el ámbito del plan especial en suelo urbano coincida con una eventual área homogénea, en cuyo caso podrán modificarse las determinaciones de ordenación estructurante previa delimitación en el propio plan especial del área homogénea conforme a los requisitos establecidos en esta ley.
+Se modifica por el art. 2.64 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se añade por el art. 5.39 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Municipios que ya cuenten con ordenanza reguladora de las entidades privadas colaboradoras.
+(Derogada)
+Se deroga por el art. 2.65 y la disposición derogatoria única de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se añade por el art. 5.40 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Instalaciones de la red de transporte de energía y redes de comunicaciones electrónicas incluidas en la planificación regulada en la normativa estatal.
+Será de aplicación a las instalaciones de la red de transporte de energía incluidas en la planificación energética regulada en la normativa estatal cuya autorización sea competencia de la Comunidad Autónoma de Madrid el mismo régimen establecido para las que lo sean de la Administración General del Estado en las disposiciones adicionales segunda, tercera y duodécima de la Ley 13/2003, de 23 de mayo, reguladora del contrato de concesión de obras públicas.
+De igual forma, se aplicará el régimen establecido en su normativa estatal, a la instalación de infraestructuras de redes de comunicaciones electrónicas.
+Se añade por el art. 2.66 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Régimen urbanístico del suelo.
+La clasificación del suelo y el régimen urbanístico de la propiedad de éste regulados en la presente Ley serán de aplicación, desde su entrada en vigor, a los planes y normas vigentes en dicho momento, teniendo en cuenta las siguientes reglas:
+a) A los terrenos clasificados como suelo urbano que se encuentren en la situación de urbanización prevista por el artículo 14.2.a), se les aplicará el régimen establecido en la presente Ley para el suelo urbano consolidado. A los restantes terrenos clasificados como suelo urbano y, en todo caso, a los incluidos en unidades de ejecución, se les aplicará el régimen establecido en la presente Ley para el suelo urbano no consolidado.
+b) Al suelo urbanizable programado y al suelo apto para urbanizar se les aplicará el régimen establecido en la presente Ley para el suelo urbanizable sectorizado.
+c) Al suelo urbanizable no programado y al suelo no urbanizable común se les aplicará el régimen establecido en la presente Ley para el suelo urbanizable no sectorizado.
+A estos efectos, en tanto no se adapte el planeamiento general, el aprovechamiento unitario aplicable al nuevo sector será la media ponderada de los aprovechamientos tipo de las áreas de reparto en suelo urbanizable existentes o, en su defecto, el aprovechamiento medio del suelo urbanizable o apto para urbanizar del Municipio. En caso de no existir suelo clasificado como urbanizable o apto para urbanizar, no podrán promoverse Planes de Sectorización hasta que el planeamiento general se adapte a esta Ley.
+No se podrán promover ni aprobar, en todo caso, Planes de Sectorización en terrenos que, al momento de entrada en vigor de la presente Ley, tengan la clasificación de suelo no urbanizable común cuando dichos terrenos, de conformidad con la legislación sectorial aplicable, deban estar clasificados como suelo no urbanizable de protección.
+d) Al suelo no urbanizable especialmente protegido se le aplicará el régimen establecido en la presente Ley para el suelo no urbanizable de protección.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Determinaciones estructurantes y determinaciones pormenorizadas.
+La regulación establecida en la presente Ley sobre determinaciones estructurantes y determinaciones pormenorizadas será de aplicación desde la entrada en vigor de la misma a los planes y normas vigentes en dicho momento. En tanto no se produzca la primera formulación o revisión del plan general, o la adaptación en los términos de la disposición transitoria tercera apartado 5, y salvo que se exprese como determinación vinculante en el planeamiento vigente, que deberá entenderse como estructurante, el número de viviendas se entenderá como orientativo y, por tanto, como determinación pormenorizada.
+Se modifica por el art. 5.41 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Conservación de instrumentos urbanísticos.
+1. Todos los Planes de Ordenación Urbanística y los proyectos técnicos para su ejecución material aprobados definitivamente al momento de entrada en vigor de la presente Ley mantendrán su vigencia, sin perjuicio de lo establecido en las disposiciones transitorias de la presente Ley.
+2. Los proyectos de Planes Generales de Ordenación Urbana o de Normas Subsidiarias del Planeamiento Municipal así como sus modificaciones o revisiones, que en el momento de entrada en vigor de la presente Ley, habiendo cumplido los trámites exigidos por la legislación aplicable, estuvieran ya aprobados provisionalmente y estuvieran pendientes únicamente de su aprobación definitiva, podrán ser objeto de ésta conforme a la legislación a tenor de la cual fueron elaborados, siéndoles de aplicación, una vez aprobados, la regla del número anterior.
+3. Los instrumentos de planeamiento de desarrollo que a la entrada en vigor de la presente Ley estuvieran en trámite y contaran con la aprobación inicial, mantendrán su tramitación y se resolverán conforme a la legislación a tenor de la cual fueron elaborados.
+4. Los proyectos de Planes de Ordenación Urbanística, o de modificación o revisión de los mismos, cuyo procedimiento de aprobación, estando en tramitación, no hubieran alcanzado al tiempo de entrada en vigor de la presente Ley el estado a que se refieren los números anteriores, solo podrán aprobarse definitivamente una vez adaptados en los términos del número siguiente.
+5. No obstante lo dispuesto en los dos primeros números, los Planes Generales de Ordenación Urbana y las Normas Subsidiarias del Planeamiento Municipal en ellos previstos deberán adaptarse a esta Ley en el plazo de dos años a contar desde su entrada en vigor. La adaptación podrá limitarse a la clasificación y, en su caso, calificación del suelo, determinación de los coeficientes de edificabilidad, aprovechamientos urbanísticos unitarios, usos globales y delimitación de áreas homogéneas, ámbitos de actuación o sectores para el desarrollo urbanístico, así como fijación de los requisitos y condiciones de dicho desarrollo. Transcurridos los dos años, el Gobierno de la Comunidad de Madrid, previo requerimiento al Ayuntamiento concediendo un nuevo e improrrogable plazo de dos meses para que adopte acuerdo de formulación del Plan General, podrá sustituir al Ayuntamiento para elaborar, tramitar y aprobar la adaptación, por cuenta de este último.
+6. El procedimiento de adaptación de los instrumentos de planeamiento general conforme a las condiciones del apartado anterior, no requerirán de elaborar la fase de Avance establecida en el artículo 56.
+7. En modificaciones de los Planes Generales de Ordenación Urbana y las Normas Subsidiarias del Planeamiento Municipal no adaptados, en tanto no se produzca su primera formulación o revisión, cada modificación de los mismos, podrá delimitar una o varias áreas homogéneas para su ordenación y adaptación a esta ley, sin necesidad de delimitar todas las áreas homogéneas del suelo urbano.
+En estas modificaciones, en el caso de que se proponga, la delimitación de un área homogénea coincidente con un ámbito de actuación de suelo urbano no consolidado, tal y como habilita el apartado 4b) del artículo 39, los criterios de delimitación del área homogénea del apartado 1 del artículo 37 podrán ser completados en función de las estrategias propuestas siempre que se justifique la homogeneidad del área en sí misma y respecto al conjunto del núcleo urbano y el territorio municipal, así como su suficiencia en cantidad y calidad para materializar las cesiones de redes locales previstas en el apartado 6 del artículo 36, que no podrán ser sustituidas por su equivalente económico.
+Se añade el apartado 7 por el art. 2.67 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se añade el apartado 6 por el art. 5.42 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifican los apartados 4 y 5 por el art. 15.20 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Planeamiento en ejecución.
+1. Las disposiciones de la presente Ley sobre las cesiones a efectuar en cada clase de suelo serán aplicables de conformidad con las siguientes reglas:
+a) En suelo urbanizable programado serán exigibles las cesiones previstas por esta Ley cuando al momento de su entrada en vigor no se hubiera aprobado inicialmente y sometido a información pública el correspondiente Plan Parcial. En este caso, el Plan Parcial establecerá las cesiones que fija esta Ley, cualesquiera que sean las previsiones del Plan General al respecto y sin necesidad de modificar éste.
+b) En suelo urbanizable no programado serán exigibles las cesiones previstas por esta Ley cuando al momento de su entrada en vigor no se hubiera aprobado inicialmente y sometido a información pública el correspondiente Programa de Actuación Urbanística. En este caso, el Plan de Sectorización establecerá las cesiones que fija esta Ley, sin que en ningún caso puedan minorarse las establecidas por el Plan General.
+c) En suelo urbano no serán exigibles las cesiones previstas para redes generales en la presente Ley, en tanto no se adapte en su totalidad el planeamiento general a la misma, mediante revisión o primera formulación.
+2. Las disposiciones de la presente Ley sobre los sistemas de ejecución del planeamiento serán aplicables desde su entrada en vigor, salvo en los ámbitos que tengan fijados el sistema de compensación y ya hubiesen sido aprobados inicialmente los Estatutos y Bases de actuación de la correspondiente Junta, en los que será de aplicación el régimen anterior de esta Ley.
+Se modifican las letras b) y c) del apartado 1 y el apartado 2 por el art. 15.21, 21 bis y 22 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Procedimientos en tramitación.
+1. Los procedimientos de protección de la legalidad urbanística y sancionadores que, al momento de entrada en vigor de la presente Ley, estuvieran ya iniciados, se tramitarán y resolverán con arreglo a la normativa en vigor en el momento de dicha iniciación.
+2. Los procedimientos de concesión de autorizaciones urbanísticas, incluyendo los de calificación e informes autonómicos en suelo no urbanizable, que estuvieran ya iniciados al momento de entrada en vigor de la presente Ley, se tramitarán y resolverán con arreglo a la normativa en vigor en el momento de dicha iniciación.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Cálculo de la edificabilidad o del aprovechamiento urbanístico.
+Los terrenos efectivamente afectos al tiempo de entrada en vigor de la presente Ley a dotaciones o infraestructuras, equipamientos y servicios públicos que hubieran sido adquiridos, sea o no en ejecución de Planes de Ordenación Urbanística, mediante expropiación forzosa o por cualquier otro título oneroso, podrán computarse a efectos del cálculo, conforme a esta Ley, de los coeficientes de edificabilidad de los ámbitos de actuación o del aprovechamiento urbanístico unitario de los sectores en los que queden comprendidos. En tal supuesto, los terrenos o solares resultantes en los que deba localizarse el 90 por 100 del aprovechamiento imputable a dichos terrenos o solares, se adjudicarán a la Administración titular de las dotaciones o infraestructuras, equipamientos y servicios públicos.
+En todo caso, los planes de desarrollo que incorporen estos terrenos requerirán, para su aprobación definitiva, el informe previo y favorable de la Comunidad de Madrid sobre la idoneidad de las redes generales y supramunicipales exteriores de infraestructuras de comunicaciones para la viabilidad de aquéllos.
+Se añade el párrafo final por el art. único de la Ley 2/2005, de 12 de abril. Ref. BOE-A-2005-10384.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Dotaciones o redes de infraestructuras, equipamientos y servicios públicos.
+Mientras no se produzca la primera formulación conforme a esta Ley o, en su caso, la revisión o la adaptación de los Planes Generales y Normas Subsidiarias, las reservas de suelo para infraestructuras, equipamientos y servicios a que se refiere el artículo 36 de la presente Ley podrán determinarse por el procedimiento prescrito por esta Ley para la delimitación de unidades de ejecución.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Cuantía de las multas coercitivas y sanciones en pesetas.
+En tanto se mantenga la unidad monetaria en pesetas, las infracciones tipificadas por esta Ley, se sancionarán con las siguientes multas:
+a) La prevista en el artículo 193.4, la multa coercitiva nunca podrá ser inferior a 24.958 pesetas.
+b) Las previstas en el artículo 207 como infracciones leves con multa de 99.831 a 4.991.580 pesetas, las previstas como graves, con multa de 4.991.746 a 99.831.600 pesetas y las previstas como muy graves, con multa de 99.831.766 a 499.158.000 de pesetas.
+c) La prevista en el artículo 218.2 para las infracciones que se realicen sobre bienes no susceptibles de valoración, se sancionará con multa que podrá oscilar entre 99.831 y 4.991.580 pesetas, graduándose en función de la mayor o menor trascendencia que la perturbación ocasione al uso público.
+d) La prevista en los artículos 226.1 y 227, se sancionará con multa de 99.831 a 4.991.580 de pesetas.
+e) La prevista en el artículo 229.1, la sanción nunca podrá ser inferior a 499.198 pesetas.
+f) La prevista en el artículo 230.1, se sancionará con multa de 998.316 a 49.915.800 de pesetas.
+Se modifica el título por el art. 15.22 bis de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Competencia para resolver procedimientos sancionadores en pesetas.
+Serán competentes para resolver los procedimientos sancionadores, mientras se mantenga la unidad monetaria en pesetas:
+a) El Alcalde para la imposición de sanciones que no superen las siguientes cuantías:
+1.º En los municipios de hasta 5.000 habitantes de derecho, hasta 24.957.900 de pesetas.
+2.º En los municipios comprendidos entre 5.001 y 50.000 habitantes de derecho, hasta 99.831.600 de pesetas.
+3.º En los municipios comprendidos entre 50.001 y 500.000 habitantes de derecho, hasta 199.663.200 de pesetas.
+4.º En los de más de 500.000 habitantes de derecho, hasta 249.579.000 de pesetas.
+b) El Consejero competente en materia de ordenación urbanística, para la imposición de sanciones que no superen la cantidad de 299.494.800 de pesetas.
+c) El Gobierno de la Comunidad de Madrid, en los restantes casos.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+1. Quedan derogadas de forma expresa y por sustitución las siguientes disposiciones de la Asamblea de Madrid y del Gobierno de la Comunidad de Madrid:
+a) La Ley 4/1984, de 10 de febrero, sobre medidas de disciplina urbanística.
+b) La Ley 9/1995, de 28 de marzo, de medidas de política territorial, suelo y urbanismo, salvo los Títulos II, III y IV, que continuarán en vigor en su integridad.
+c) La Ley 20/1997, de 15 de julio, de medidas urgentes en materia de suelo y urbanismo.
+d) La Ley 3/1998, de 17 de marzo, por la que se modifica la disposición adicional cuarta de la Ley 20/1997, de 15 de julio, de medidas urgentes en materia de suelo y urbanismo.
+e) La disposición adicional segunda de la Ley 8/2009 de 21 de diciembre, Medidas Liberalizadoras y de Apoyo a la Empresa Madrileña.
+f) La Orden 639/2014, de 10 abril, de la Consejería de Medio Ambiente y Ordenación del Territorio, por la que se regulan las entidades privadas colaboradoras en el ejercicio de las funciones administrativas de verificación y control en el ámbito urbanístico.
+g) El artículo 17 de la Ley 18/2000, de 27 de diciembre, de Medidas Fiscales y Administrativas.
+h) El artículo 14 de la Ley 9/2015, de 28 de diciembre, de Medidas Fiscales y Administrativas.
+i) Todas las normas reglamentarias dictadas por el Gobierno en desarrollo, para la ejecución o al amparo de cualquiera de las disposiciones legales anteriores, en cuanto se opongan o contradigan los preceptos de la presente Ley.
+Se modifica por el art. 5.43 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición final primera
+
+Disposición final primera. Actualización de los órganos previstos en la presente Ley.
+Sin perjuicio de la inmediata entrada en vigor de lo previsto en la presente Ley sobre la Comisión de Urbanismo de Madrid y el Jurado Territorial de Expropiación, el Gobierno de la Comunidad de Madrid, mediante Decreto aprobado a propuesta del Consejero competente en materia de ordenación urbanística, aprobará, dentro de los seis meses siguientes a la entrada en vigor de la presente Ley, las normas de organización y funcionamiento de dichos órganos, mediante actualización, en su caso, de las que estén en vigor.
+
+### Disposición final segunda
+
+Disposición final segunda. Actualización de las sanciones consistentes en multas.
+Se habilita al Gobierno de la Comunidad de Madrid para la actualización anual, mediante Decreto adoptado a propuesta del Consejero competente en materia de ordenación urbanística, de las multas previstas en la presente Ley para la sanción de las infracciones urbanísticas.
+
+### Disposición final tercera
+
+Disposición final tercera. Desarrollo y ejecución reglamentarios.
+Se habilita al Consejo de Gobierno de la Comunidad de Madrid para que, mediante decreto aprobado a propuesta del titular de la Consejería competente en materia de urbanismo, dicte cuantas normas reglamentarias sean precisas para el desarrollo, la ejecución o la efectividad de cuantas materias se regulan en la presente Ley.
+Se modifica por el art. 5.44 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+Esta Ley entrará en vigor al mes de su íntegra publicación en el «Boletín Oficial de la Comunidad de Madrid».
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar.
+Madrid, a 17 de julio de 2001.
+ALBERTO RUIZ-GALLARDÓN,
+Presidente

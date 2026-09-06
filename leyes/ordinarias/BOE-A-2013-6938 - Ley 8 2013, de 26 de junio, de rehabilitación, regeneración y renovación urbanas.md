@@ -1,0 +1,569 @@
+# Ley 8/2013, de 26 de junio, de rehabilitación, regeneración y renovación urbanas.
+
+- Identificador BOE: `BOE-A-2013-6938`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2013-6938
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+PREÁMBULO
+I
+Los problemas económicos y sociales existentes en torno al mercado del suelo y la vivienda en España son de muy diversa índole y, en buena medida, anteriores a la crisis económico-financiera. La mayoría tienen, de hecho, un carácter estructural y no solo coyuntural, si bien algunos de ellos se han visto agravados por el cambio de ciclo económico, al tiempo que han contribuido también a agudizar la crisis.
+La tradición urbanística española, como ya reconoció el legislador estatal en la Ley 8/2007, de 28 de mayo, de Suelo, se ha volcado fundamentalmente en la producción de nueva ciudad, descompensando el necesario equilibrio entre dichas actuaciones y aquellas otras que, orientadas hacia los tejidos urbanos existentes, permiten intervenir de manera inteligente en las ciudades, tratando de generar bienestar económico y social y garantizando la calidad de vida a sus habitantes. Estas otras intervenciones son mucho más complejas, tanto desde el punto de vista social como económico; complejidad que se agrava en el momento presente a consecuencia de un contexto desfavorable para la financiación pública, debido a los procesos de estabilización presupuestaria, y también para la financiación privada, por las restricciones en el acceso a los créditos, derivadas de la crisis del sector financiero y del empobrecimiento de muchas familias a consecuencia de los altos niveles de desempleo.
+Sin embargo, el camino de la recuperación económica, mediante la reconversión del sector inmobiliario y de la construcción y también la garantía de un modelo sostenible e integrador, tanto ambiental, como social y económico, requieren volcar todos los esfuerzos en aquellas actuaciones, es decir, las de rehabilitación y de regeneración y renovación urbanas, que constituyen el objeto esencial de esta Ley. Tal y como se deduce del Sistema de Información Urbana y el Estudio de Sectores Residenciales en España 2011, ambos elaborados por el Ministerio de Fomento, España posee actualmente, si no se reactiva la demanda, suelo capaz de acoger nuevos crecimientos urbanísticos para los próximos cuarenta y cinco años. Esta situación se agrava cuando se observa que gran parte de estos suelos se encuentran situados en entornos donde no es previsible ningún incremento de demanda en los próximos años. A ello se une el dato significativo de vivienda nueva vacía, 723.043 viviendas. Tanto a corto, como a medio plazo, será muy difícil que los sectores inmobiliario y de la construcción puedan contribuir al crecimiento de la economía española y a la generación de empleo si continúan basándose, principalmente y con carácter general, en la transformación urbanística de suelos vírgenes y en la construcción de vivienda nueva.
+Pero aún en el caso de que así fuera, la legislación vigente ya da cumplida respuesta a estos procesos, mientras que no existe un desarrollo en igual medida que permita sustentar las operaciones de rehabilitación y las de regeneración y renovación urbanas, en las que, además, todavía persisten obstáculos legales que impiden su puesta en práctica o, incluso, su propia viabilidad técnica y económica. Es preciso, por tanto, generar un marco normativo idóneo para dichas operaciones, que no sólo llene las lagunas legales actualmente existentes, sino que remueva los obstáculos que las imposibilitan en la práctica y que propicie la generación de ingresos propios para hacer frente a las mismas.
+La rehabilitación y la regeneración y renovación urbanas tienen, además, otro relevante papel que jugar en la recuperación económica, coadyuvando a la reconversión de otros sectores, entre ellos, fundamentalmente el turístico. La actividad turística es clave para la economía de nuestro país y supone más de un 10,2 % del PIB, aportando un 11,39 % del empleo. Numerosos destinos turísticos «maduros» se enfrentan a un problema sistémico en el que tiene mucho que ver el deterioro físico de sus dotaciones y respecto de los cuales, la aplicación de estrategias de rehabilitación, regeneración y renovación urbanas podría generar impactos positivos que, a su vez, servirían de palanca imprescindible para el desarrollo económico de España.
+II
+No parece admitir dudas el dato de que el parque edificado español necesita intervenciones de rehabilitación y de regeneración y renovación urbanas que permitan hacer efectivo para todos, el derecho constitucional a una vivienda digna y adecuada, así como la exigencia del deber de sus propietarios de mantener los inmuebles en adecuadas condiciones de conservación. Aproximadamente el 55 % (13.759.266) de dicho parque edificado, que asciende a 25.208.622 viviendas, es anterior al año 1980 y casi el 21 % (5.226.133) cuentan con más de 50 años. El único instrumento que actualmente permite determinar el grado de conservación de los inmuebles, la Inspección Técnica de Edificios, no sólo es insuficiente para garantizar dicho objetivo, y así se pone de manifiesto desde los más diversos sectores relacionados con la edificación, sino que ni siquiera está establecido en todas las Comunidades Autónomas, ni se exige en todos los municipios españoles.
+A ello hay que unir la gran distancia que separa nuestro parque edificado de las exigencias europeas relativas a la eficiencia energética de los edificios y, a través de ellos, de las ciudades. Casi el 58 % de nuestros edificios se construyó con anterioridad a la primera normativa que introdujo en España unos criterios mínimos de eficiencia energética: la norma básica de la edificación NBE-CT-79, sobre condiciones térmicas en los edificios. La Unión Europea ha establecido una serie de objetivos en el Paquete 20-20-20 «Energía y Cambio Climático», que establece, para los 27 países miembros, dos objetivos obligatorios: la reducción del 20 % de las emisiones de gases de efecto invernadero y la elevación de la contribución de las energías renovables al 20 % del consumo, junto a un objetivo indicativo, de mejorar la eficiencia energética en un 20 %. Estos objetivos europeos se traducen en objetivos nacionales y esta Ley contribuye, sin duda, al cumplimiento de los mismos, a través de las medidas de rehabilitación que permitirán reducir los consumos de energía, que promoverán energías limpias y que, por efecto de las medidas anteriores, reducirán las emisiones de gases de efecto invernadero del sector. En relación con este último objetivo, España debe reducir en el año 2020, un 10 % de las emisiones de los sectores difusos, con respecto al año 2005. Dentro de estos sectores, definidos como aquellos no incluidos en el comercio de derechos de emisión, se encuentra el residencial, el cual, conjuntamente con el sector comercial e institucional representa un 22 % de las emisiones difusas, siendo asimismo responsable de emisiones indirectas, por consumo eléctrico. Las emisiones de los sectores difusos representan el 2/3 de las totales, por lo que el objetivo de avanzar en una «economía baja en carbono», mediante actuaciones en las viviendas de baja calidad, que en España se sitúan entre las construidas en las décadas de los 50, 60 y 70, y mejorando la eficiencia del conjunto del parque residencial, es clave.
+Precisamente, la reciente Directiva 2012/27/UE, relativa a la eficiencia energética, tras reconocer que los edificios representan el 40 % del consumo de energía final de la Unión Europea, obliga no sólo a renovar anualmente un porcentaje significativo de los edificios de las Administraciones centrales para mejorar su rendimiento energético, sino a que los Estados miembros establezcan, también, una estrategia a largo plazo, hasta el año 2020 –para minorar el nivel de emisiones de CO2– y hasta el año 2050 –con el compromiso de reducir el nivel de emisiones un 80-95 % en relación a los niveles de 1990–, destinada a movilizar inversiones en la renovación de edificios residenciales y comerciales, para mejorar el rendimiento energético del conjunto del parque inmobiliario. A través de esta estrategia de renovaciones exhaustivas y rentables que reduzcan el consumo de energía de los edificios, en porcentajes significativos con respecto a los niveles anteriores a la renovación, se crearán además oportunidades de crecimiento y de empleo en el sector de la construcción.
+Y aún con todo, el porcentaje que representa la rehabilitación en España en relación con el total de la construcción es, asimismo, uno de los más bajos de la zona euro, situándose trece puntos por debajo de la media europea, que alcanza un entorno del 41,7 % del sector de la construcción, y ello aún con el desplome de dicho sector en España, a consecuencia de la crisis.
+Esta actividad, globalmente entendida, no sólo es susceptible de atender los objetivos de eficiencia energética y de recuperación económica ya expresados, sino también de contribuir activamente a la sostenibilidad ambiental, a la cohesión social y a la mejora de la calidad de vida de todos los ciudadanos, tanto en las viviendas y en los edificios, como en los espacios urbanos. No en vano, muchas de las más importantes operaciones de regeneración y renovación urbanas tienen, además, un carácter integrado, es decir, articulan medidas sociales, ambientales y económicas, que se suman a las estrictamente físicas para lograr, mediante una estrategia unitaria, la consecución de aquellos objetivos.
+En suma, la actividad de rehabilitación en su conjunto debe buscar áreas que permitan aplicar políticas integrales que contemplen intervenciones no solo en el ámbito físico-espacial, sino también en los ámbitos social, económico, ambiental y de integración de la ciudad. El tamaño de estas operaciones permitirá la puesta en servicio de redes de instalaciones energéticas a escala de barrio, con menor consumo de recursos, y que permitirían que los barrios tiendan a la autosuficiencia energética en el medio plazo.
+III
+Sin perjuicio de las competencias de las Comunidades Autónomas en materia de vivienda y urbanismo, el Estado no puede mantenerse al margen de la realidad del sector inmobiliario español, y con él, de nuestra economía, ni tampoco de los retos sociales y ambientales planteados, no sólo porque parte de las respuestas corresponden a su ámbito competencial, sino también porque muchas de las exigencias que se demandan en relación con un medio urbano sostenible, proceden en la actualidad de la Unión Europea o de compromisos internacionales asumidos por España. Entre ellos, la Directiva 2002/91/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 2002, refundida posteriormente en la Directiva 2010/31/UE del Parlamento Europeo y del Consejo, de 19 de mayo de 2010, relativa a la eficiencia energética de los edificios y la Directiva 2012/27/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, relativa a la eficiencia energética, a las que pueden añadirse la Estrategia Temática para el Medio Ambiente Urbano, el Marco Europeo de Referencia para la Ciudad Sostenible, o la Declaración de Toledo –aprobada por los Ministros responsables del desarrollo urbano de los 27 Estados miembros de la Unión Europea el 22 de junio de 2010–, de acuerdo con la cual «la batalla principal de la sostenibilidad urbana se ha de jugar precisamente en la consecución de la máxima ecoeficiencia posible en los tejidos urbanos de la ciudad ya consolidada», y en la que se destaca la importancia de la regeneración urbana integrada y su potencial estratégico para un desarrollo urbano más inteligente, sostenible y socialmente inclusivo en Europa.
+La regulación que contiene esta norma se enmarca en un contexto de crisis económica, cuya salida depende en gran medida –dado el peso del sector inmobiliario en dicha crisis–, de la recuperación y reactivación –de cara sobre todo al empleo– del sector de la construcción. Dicha salida, en un contexto de improcedencia de políticas de expansión, tales como la generación de nueva ciudad y nuevas viviendas, sólo es posible actuando sobre el patrimonio inmobiliario y la edificación existente.
+También se enmarca en la necesidad de operar, paralelamente, sobre el patrimonio inmobiliario existente a los efectos de contribuir al ahorro energético, con el relanzamiento de la industria de materiales, así como de la relativa a las restantes instalaciones y dotaciones de la edificación y de las tecnologías de energías renovables, para hacer frente, no sólo a los retos energéticos de la economía española –dependencia del exterior en energías primarias e incremento de costes y riesgos que tal dependencia supone–, sino también a los compromisos adquiridos en el contexto de la Unión Europea y su paquete de objetivos en materia energética y de lucha contra el cambio climático para el año 2020. Estos compromisos incluyen la intervención sobre el parque de viviendas existentes en cuanto sector en el que es posible un ahorro energético considerable y en el que hay que incidir también desde el punto de vista de la lucha contra el cambio climático, inducido por los gases de efecto invernadero.
+Esta norma constituye legislación básica dictada al amparo de la competencia estatal para establecer las bases y la coordinación de la planificación general de la actividad económica, reconocida en el artículo 149.1.13.ª de la Constitución, y fija, en consecuencia, un «común denominador» de «carácter nuclear» que deja suficiente margen a las Comunidades Autónomas para el ejercicio de las competencias que les son propias. Adicionalmente, y en los términos fijados en la disposición final decimonovena, la presente Ley se dicta al amparo de los títulos competenciales reconocidos en el artículo 149.1.1.ª, 8.ª, 14.ª, 16.ª, 18.ª, 23.ª, 25.ª y 30.ª de la Constitución, que atribuye al Estado la competencia sobre regulación de las condiciones básicas que garantizan la igualdad en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, legislación civil, hacienda general y deuda del Estado, bases y coordinación general de la sanidad, bases del régimen jurídico de las Administraciones Públicas, procedimiento administrativo común, legislación sobre expropiación forzosa y el sistema de responsabilidad de las Administraciones Públicas, legislación básica sobre protección del medio ambiente, bases del régimen energético y regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
+Dentro de este marco, los objetivos perseguidos por esta Ley son los siguientes:
+En primer lugar, potenciar la rehabilitación edificatoria y la regeneración y renovación urbanas, eliminando trabas actualmente existentes y creando mecanismos específicos que la hagan viable y posible.
+En segundo lugar, ofrecer un marco normativo idóneo para permitir la reconversión y reactivación del sector de la construcción, encontrando nuevos ámbitos de actuación, en concreto, en la rehabilitación edificatoria y en la regeneración y renovación urbanas.
+En tercer lugar, fomentar la calidad, la sostenibilidad y la competitividad, tanto en la edificación, como en el suelo, acercando nuestro marco normativo al marco europeo, sobre todo en relación con los objetivos de eficiencia, ahorro energético y lucha contra la pobreza energética.
+Para ello, además de los contenidos propios de la nueva Ley, cuya función estriba básicamente en llenar los vacíos legales existentes, resulta necesario afrontar la modificación de las siguientes normas actualmente en vigor, tanto para eliminar aquellos obstáculos que impiden hoy alcanzar los objetivos propuestos, como para adaptar los existentes a los nuevos: el texto refundido de la Ley de Suelo, aprobado por el Real Decreto Legislativo 2/2008, de 20 de junio, la Ley 2/2011, de 4 de marzo, de Economía Sostenible, el Real Decreto-ley 8/2011, de 1 de julio, de medidas de apoyo a los deudores hipotecarios, de control del gasto público y cancelación de deudas con empresas y autónomos contraídas por las entidades locales, de fomento de la actividad empresarial e impulso de la rehabilitación y de simplificación administrativa, la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación, el Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación y la Ley 49/1960, de 21 de julio, sobre Propiedad Horizontal. En algunos casos puntuales, la modificación incluye la derogación de determinados preceptos.
+Los tres objetivos señalados en los párrafos anteriores se alinean con la Directiva 2010/31/UE, en la medida en que la presente Ley persigue promover la eficiencia energética y atender a los desafíos provocados por el cambio climático. Para ello, se reconoce la oportunidad que ofrece la transformación del modelo productivo hacia parámetros de sostenibilidad ambiental, social y económica, con la creación de empleos vinculados con el medio ambiente, los llamados empleos verdes, en concreto, aquellos vinculados con las energías renovables y las políticas de rehabilitación y ahorro energético.
+IV
+La Ley se compone de un Título Preliminar, dos Títulos, cuatro disposiciones adicionales, dos disposiciones transitorias, una disposición derogatoria y veinte disposiciones finales.
+El Título Preliminar de la Ley describe su objeto, que consiste en regular las condiciones básicas que garanticen un desarrollo sostenible y competitivo del medio urbano, así como el impulso y el fomento de las actuaciones que conduzcan a la rehabilitación de los edificios y a la regeneración y renovación de los tejidos urbanos existentes, cuando sean necesarias para asegurar a los ciudadanos calidad de vida y la efectividad de su derecho a disfrutar de una vivienda digna y adecuada.El Título Preliminar, asimismo, se refiere a las políticas que los poderes públicos, dentro del ámbito de sus competencias, deberán formular y desarrollar, en el marco de los principios de sostenibilidad económica, social y medioambiental, cohesión territorial, eficiencia energética y complejidad funcional. Para todo ello, dispone el legislador estatal de fundamento competencial constitucional, al amparo de lo dispuesto en el artículo 149.1.1.ª, 8.ª, 13.ª, 16.ª, 18.ª, 23.ª y 25.ª de la Constitución.
+V
+El Título I contiene la regulación básica del Informe de Evaluación de los Edificios, que parte de la establecida por el Real Decreto-ley 8/2011, de 1 de julio, de medidas de apoyo a los deudores hipotecarios, de control del gasto público y cancelación de deudas con empresas y autónomos contraídas por las entidades locales, de fomento de la actividad empresarial e impulso de la rehabilitación y de simplificación administrativa, pero supera algunas de sus insuficiencias. Entre ellas, la que lo identificaba plenamente con la Inspección Técnica de Edificios regulada por las Comunidades Autónomas y por algunos Ayuntamientos y, precisamente, a sus únicos efectos. El legislador estatal, al regular este Informe de Evaluación, trata de asegurar la calidad y sostenibilidad del parque edificado, así como obtener información que le permita orientar el ejercicio de sus propias políticas. Para ello, se dota de un instrumento que otorga la necesaria uniformidad a los contenidos que se entienden necesarios para asegurar el cumplimiento de dichos objetivos, todo ello sin prejuzgar las concretas medidas de intervención administrativa que deban poner en marcha las Administraciones competentes, para ir adaptando –de manera gradual en el tiempo–, el parque edificado español, a unos criterios mínimos de calidad y sostenibilidad. Su exigencia también se limita a aquellos edificios que tienen verdadera transcendencia en relación con los mencionados objetivos, así como con una determinada política económica y de vivienda a escala estatal, que son los de tipología colectiva y siempre que su uso sea el residencial o asimilado.
+Se busca también facilitar a las Administraciones competentes un instrumento que les permita disponer de la información precisa para evaluar el cumplimiento de las condiciones básicas legalmente exigibles, tanto en materia de conservación, como de accesibilidad. Así, las primeras se regulan en el texto refundido de la Ley de Suelo, aprobado por el Real Decreto Legislativo 2/2008, de 20 de junio, y las segundas se derivan de la Ley 26/2011, de 1 de agosto, de adaptación normativa a la Convención Internacional sobre los Derechos de las Personas con Discapacidad, que exige la realización de los ajustes razonables en materia de accesibilidad universal (con sus obras correspondientes), estableciendo incluso un plazo, que finaliza en el año 2015, momento a partir del cual pueden ser legalmente exigidos, tanto para los edificios, como para los espacios públicos urbanizados existentes y, por tanto, también controlados por la Administración Pública competente.
+Por último, el informe contiene un apartado de carácter orientativo sobre un aspecto clave para mejorar la calidad de vida de los ciudadanos, la eficiencia energética y el cumplimiento de los compromisos de España con Europa en el horizonte 2020: la Certificación de la Eficiencia Energética de los Edificios, exigida por la Directiva 2002/91/CE del Parlamento Europeo y del Consejo, de 16 de diciembre, relativa a la eficiencia energética, y por la Directiva 2010/31/UE del Parlamento Europeo y del Consejo, de 19 de mayo de 2010, que la refunde y completa. La certificación contendrá, no sólo una calificación del edificio a tales efectos (mediante letras, de la A a la G), sino también unas recomendaciones sobre las mejoras energéticas que podrían realizarse, analizadas en términos de coste/beneficio y clasificadas en función de su viabilidad técnica, económica y funcional y de su repercusión energética. Dado que la Directiva exige que esta certificación se adjunte cuando una vivienda se ponga en venta o en alquiler, en aras de una mayor transparencia del mercado, una mayor información para los propietarios y un menor coste en su emisión, se busca la doble racionalidad y sinergia que supone incluirla en el informe de evaluación del edificio.
+VI
+El Título II contiene la regulación de las actuaciones sobre el medio urbano, que van desde las de rehabilitación edificatoria, hasta las que supongan una regeneración y renovación urbanas, identificando los sujetos legitimados para participar en ellas y ofreciendo nuevos instrumentos que, sin duda, contribuirán a facilitar la gestión y la cooperación interadministrativa tan necesaria en estos casos. La Ley amplía las facultades reconocidas a las comunidades de vecinos, agrupaciones de propietarios y cooperativas de viviendas, para actuar en el mercado inmobiliario con plena capacidad jurídica para todas las operaciones, incluidas las crediticias, relacionadas con el cumplimiento del deber legal de conservación, e introduce los instrumentos de gestión y los mecanismos de cooperación interadministrativa que tienen por objeto fortalecer el marco en el que las citadas actuaciones se desenvuelven. A ello se une la búsqueda de mecanismos que pretenden conseguir que la financiación para la rehabilitación sea más accesible y se encuentre más al alcance de los interesados. Se establecen además, otros mecanismos específicos para facilitar la financiación de estas actuaciones, entre los que destacan los convenios entre las Administraciones Públicas actuantes, los propietarios y demás sujetos que vayan a intervenir en la ejecución, que pueden incluir, desde la explotación conjunta del inmueble o partes del mismo, a los siguientes tipos de contratos o colaboración:
+– cesión, con facultad de arrendamiento u otorgamiento del derecho de explotación a terceros, a cambio del pago aplazado de la parte del coste que corresponda a los propietarios de las fincas.
+– permuta o cesión de terrenos o de parte de la edificación sujeta a rehabilitación por determinada edificación futura.
+– arrendamiento o cesión de uso de local, vivienda o cualquier otro elemento de un edificio por plazo determinado a cambio del pago por el arrendatario o cesionario de todos o de alguno de los siguientes conceptos: impuestos, tasas, cuotas a la comunidad o agrupación de comunidades de propietarios o de la cooperativa, gastos de conservación, etc.
+– constituir consorcios o sociedades mercantiles de capital mixto, con participación privada minoritaria.
+Además, con independencia de que se permita poner en marcha cualquier posible fórmula de coordinación, se asegura la colaboración y la cooperación económica de la Administración General del Estado, en cualquiera de las formas previstas legalmente, siempre que se otorgue prioridad en las ayudas estatales a las actuaciones que tengan por objeto la conservación, la rehabilitación edificatoria y la regeneración y renovación urbanas tal y como se conciban en los correspondientes Planes estatales.
+VII
+Las disposiciones adicionales albergan cuatro normas de contenido diverso. La primera recoge el sistema informativo general e integrado que dispusiera la Ley 2/2011, de 4 de marzo, de Economía Sostenible, para garantizar que la Administración General del Estado, en colaboración con las Comunidades Autónomas y las Administraciones Locales, promoverá la actualización permanente y la explotación de la información necesaria para el desarrollo de las políticas públicas a favor de un medio urbano sostenible y competitivo. La segunda aclara que sigue vigente todo lo previsto en el texto refundido de la Ley del Catastro Inmobiliario, aprobado por el Real Decreto Legislativo 1/2004, de 5 de marzo, en particular lo que se refiere a la utilización de la referencia catastral, la incorporación de la certificación catastral descriptiva y gráfica y las obligaciones de comunicación, colaboración y suministro de información previstas por la normativa catastral. Las disposiciones adicionales tercera y cuarta regulan, respectivamente, las infracciones en materia de certificación de la eficiencia energética de los edificios y las sanciones, así como su graduación.
+VIII
+El régimen transitorio contiene dos disposiciones. La primera de ellas tiene como objeto establecer el calendario para que los propietarios de las edificaciones a que hace referencia el artículo 4 se doten del Informe de Evaluación regulado por esta Ley, estableciendo un esquema gradual razonable que, en la línea ya establecida por el Real Decreto-ley 8/2011, de 1 de julio, de medidas de apoyo a los deudores hipotecarios, de control del gasto público y cancelación de deudas con empresas y autónomos contraídas por las entidades locales, de fomento de la actividad empresarial e impulso de la rehabilitación y de simplificación administrativa tiene en cuenta su antigüedad (más de 50 años), sin perjuicio de establecer las especialidades que requieren aquellos edificios que ya hayan pasado la inspección técnica, de conformidad con su propia regulación, en los que se busca evitar duplicidades indeseables, y aquéllos otros cuyos titulares pretendan acogerse a posibles ayudas públicas estatales a la rehabilitación. Se establece, además, un plazo más amplio que el que finaliza en el año 2015, a tenor de lo dispuesto hoy en el citado Real Decreto-ley 8/2011, plazo inasequible para los más de 3 millones de viviendas afectadas. Con ello se pretende ir adaptando gradualmente, aunque de forma decidida, nuestro parque edificado a condiciones mínimas de conservación, accesibilidad y calidad que ya son demandables en virtud de la legislación vigente, sin perjuicio de lo que establezcan, además, las Comunidades Autónomas y los propios Ayuntamientos.
+La segunda establece, con carácter excepcional, y durante un período que no excederá de cuatro años, una norma transitoria que trata de adecuar la mencionada reserva mínima obligatoria a la realidad del mercado, así como a la de sus potenciales beneficiarios. La regla contenida en el artículo 10.1 b) de la vigente Ley de Suelo tenía sentido en una coyuntura de expansión de nuestros mercados inmobiliarios, prolongada e intensa en el tiempo, a la vez que en un contexto marcado por las ayudas públicas a la adquisición de esta clase de viviendas. La realidad, sin embargo, es hoy bien distinta. La actual situación de las familias que reúnen las condiciones para poder acceder a estas viviendas, unida a la fuerte caída acumulada de los precios de la vivienda libre durante los últimos años y la inexistencia de adecuación a dicha situación, en los módulos de la vivienda protegida, han provocado dos efectos que aconsejan el establecimiento de esta regla excepcional y temporal: de un lado el acercamiento sustancial de los precios de ambas, lo que resta toda competitividad a la vivienda protegida, caracterizada por un régimen jurídico mucho más restrictivo que el de la vivienda libre, y de otro la difícil situación económica de las familias, tanto en términos de renta para poder adquirir una vivienda, como en términos del acceso al crédito de las entidades financieras. Todo ello provoca que hoy, en el stock de vivienda sin vender ya construida, se encuentren viviendas con protección pública, derivadas del cumplimiento de la mencionada reserva mínima estatal y que dicha reserva, por tanto, no sólo no esté coadyuvando al cumplimiento de los fines previstos, sino que esté rigidizando injustificadamente las operaciones que, sobre todo en el suelo urbano, pero también en gran medida en el suelo urbanizable, tienen posibilidades de realizarse, incluso en los momentos difíciles que atraviesa el sector inmobiliario.
+Por último, la disposición derogatoria contiene, además de la cláusula general, la derogación explícita de todos aquellos artículos de las diversas Leyes ya mencionadas, que quedan subsumidos en esta Ley, con una nueva redacción, sistemática y coherente.
+IX
+Las disposiciones finales regulan otros aspectos de la Ley de indudable relevancia. Entre ellos, las modificaciones que se introducen sobre otras leyes y un real decreto, hoy vigentes, con el objetivo de coadyuvar a la consecución de los objetivos perseguidos, como ocurre específicamente, con la Ley de Suelo, aprobada por el Real Decreto Legislativo 2/2008, de 20 de junio, la Ley 49/1960, de 21 de julio, de Propiedad Horizontal, la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación y el Real Decreto 314/2006, de 17 de marzo, del Código Técnico de la Edificación. Además, catorce disposiciones finales contienen otras tantas modificaciones legales puntuales, consideradas necesarias desde diversos aspectos.
+La disposición final primera contiene modificaciones sobre la Ley 49/1960, de 21 de julio, de Propiedad Horizontal, con el objeto de evitar que los actuales regímenes de mayorías establecidos impidan la realización de las actuaciones previstas en la nueva Ley. No se puede hacer depender algunos de sus más importantes efectos de que las comunidades de propietarios adopten dicha decisión por unanimidad o por mayorías muy cualificadas, máxime cuando van a incluir obras que, aunque afecten al título constitutivo o a los estatutos, en realidad competen a la Administración actuante autorizar o, en algunos casos, exigir.
+La disposición final segunda modifica el apartado 1 de la disposición adicional séptima de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, con el objeto de aportar una mejora técnica en su redacción.
+La disposición final tercera modifica la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación, para vincular la aplicación del Código Técnico de la Edificación, de manera específica, a las intervenciones que se realicen en los edificios existentes a que se refieren las letras b) y c) del artículo 2.2 de dicha Ley. Todo ello con independencia de que el Código Técnico de la Edificación será de aplicación, además, a todas las intervenciones en los edificios existentes, a cuyos efectos, su cumplimiento podrá justificarse en el proyecto o en una memoria suscrita por técnico competente, junto a la solicitud de la licencia o de autorización administrativa que sea preceptiva para la realización de las obras, superando así la falta de control actual sobre dicho cumplimiento, en la mayor parte de las obras de rehabilitación.
+La disposición final cuarta modifica algunos preceptos de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, con el objeto de introducir mejoras técnicas en su redacción.
+La disposición final quinta modifica la Ley 21/2003, de 7 de julio, de Seguridad Aérea, con el objeto de habilitar expresamente al Gobierno para que establezca reglamentariamente el contenido mínimo del Plan de asistencia en los casos de accidente aéreo, ya que dicho contenido, con base en las orientaciones de la Organización Internacional de Aviación Civil (OACI), implica la asunción, por parte de las compañías aéreas, de obligaciones de diversa naturaleza.
+La disposición final sexta modifica la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, de un lado, con la finalidad de habilitar a SEGIPSA para que actúe como medio propio de todos los poderes adjudicadores vinculados a la Administración General del Estado y como instrumento especializado en la gestión patrimonial de la Administración General del Estado y las entidades que, teniendo la condición de poder adjudicador pertenezcan al Sector Público Estatal. De otro, para facilitar el acceso de los interesados a los procedimientos de enajenación, flexibilizando las condiciones existentes.
+Las disposiciones finales séptima, octava y novena modifican, respectivamente, la Ley 38/2003, de 17 de noviembre, General de Subvenciones; la Ley 47/2003, de 26 de noviembre, General Presupuestaria y la Ley 58/2003, de 17 de diciembre, General Tributaria. En todas ellas, se trata de establecer un marco de colaboración entre la Intervención General de la Administración del Estado y la Agencia Tributaria, en orden a un eficaz intercambio de información entre ambas, medida que complementa las ya adoptadas para la lucha contra la morosidad, por medio del Real Decreto-ley 4/2013, de 22 de febrero, de medidas de apoyo al emprendedor y de estímulo y del crecimiento y de la creación de empleo, que ahora se tramita como Proyecto de Ley.
+La disposición final décima modifica el texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo, con el fin de profundizar en el cumplimiento del principio de transparencia contenido en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+La disposición final undécima modifica el Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación, con el objeto de resolver los problemas que plantea en relación con la rehabilitación, y que vienen siendo reclamados por los principales agentes del sector. Entre dichas modificaciones, destacan las que tratan de eliminar las definiciones relacionadas con obras de rehabilitación que actualmente inducen a error, la inclusión de los criterios de flexibilidad y no empeoramiento en la aplicación del Código Técnico a las intervenciones en edificios existentes y, por último, la obligación de declarar el nivel de prestaciones alcanzado y las condiciones de uso y mantenimiento derivadas de la intervención. En los dos últimos casos, se trata de aportar un elemento de transparencia en el mercado y de puesta en valor de la rehabilitación. Todo ello con independencia de que se vayan realizando posteriores modificaciones de este Código, con carácter eminentemente técnico, con la finalidad de ir adaptándolo a la intervención sobre edificios existentes, que revestirían ya la forma de Orden Ministerial.
+La disposición final duodécima incluye una importante modificación del texto refundido de la Ley de Suelo, aprobado por el Real Decreto Legislativo 2/2008, de 20 de junio. En primer lugar, se completa la regulación del deber legal de conservación, para sistematizar los tres niveles que ya, de conformidad con la legislación vigente, lo configuran: un primer nivel básico o estricto, en el que el deber de conservación conlleva, con carácter general, el destino a usos compatibles con la ordenación territorial y urbanística y la necesidad de garantizar la seguridad, salubridad, accesibilidad y ornato legalmente exigibles. Además, con carácter particular, el deber legal de conservación también contiene la necesidad de satisfacer los requisitos básicos de la edificación, establecidos en el artículo 3.1 de la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación, con lo que se dota de mayor coherencia a la tradicional referencia de este deber a la seguridad y a la salubridad, sin que el cumplimiento de estos requisitos signifique, con carácter general, la aplicación retroactiva del Código Técnico de la Edificación, aprobado por el Real Decreto 314/2006, de 17 de marzo, a la edificación construida con anterioridad a la entrada en vigor del mismo.
+Un segundo nivel, en el que el deber de conservación incluye los trabajos y obras necesarios para adaptar y actualizar progresivamente las edificaciones, en particular las instalaciones, a las normas legales que les vayan siendo explícitamente exigibles en cada momento. No se trata de aplicar con carácter retroactivo la normativa, sino de incluir en este deber las obligaciones que para la edificación existente explícitamente vaya introduciendo la normativa del sector con el objetivo de mantener sus condiciones de uso, de acuerdo con la evolución de las necesidades sociales.
+Y un tercer nivel, en el que se define con mayor precisión y se perfila más específicamente, el carácter de las obras adicionales incluidas dentro del propio deber de conservación, por motivos de interés general, desarrollando lo que la Ley de Suelo definió como «mejora». Se distinguen así dos supuestos: los tradicionales motivos turísticos o culturales, que ya forman parte de la legislación urbanística autonómica, y la mejora para la calidad y sostenibilidad del medio urbano, que introdujo la Ley 2/2011, de 4 de marzo, de Economía Sostenible, y que puede consistir en la adecuación parcial, o completa, a todas o a alguna de las exigencias básicas establecidas en el ya citado Código Técnico de la Edificación. En ambos casos, la imposición del deber requerirá que la Administración, de manera motivada, determine el nivel de calidad que deba ser alcanzado por el edificio, para cada una de las exigencias básicas a que se refiera la imposición del mismo y su límite se mantiene en los mismos términos que ya contiene la legislación en vigor.
+La modificación expuesta no impone, por tanto, nuevas obras de conservación de inmuebles, ya que el deber de conservación ha tenido y sigue teniendo los mismos contenidos que ahora observa el artículo 9 del texto refundido de la Ley de Suelo. También son ya obligatorias, siempre que encajen en el concepto de ajustes razonables, las obras que deben garantizar la accesibilidad universal, teniendo como límite máximo su cumplimiento el año 2015.
+Otro objetivo que persigue la reforma del texto refundido de la Ley de Suelo es el de eliminar las cargas urbanísticas injustificadas que existen en relación con los suelos ya urbanizados y que impiden llevar a la práctica las actuaciones reguladas por esta Ley. Dichas cargas están establecidas con una práctica identidad entre los suelos en situación de urbanizados y los suelos en situación rural, con destino a una operación de transformación urbanística. En este sentido, se completa la escueta regulación contenida respecto del suelo en situación de urbanizado, por el artículo 12.2, con el objeto de permitir su utilización instrumental al servicio del estatuto jurídico básico de la propiedad del suelo y del régimen de valoraciones e indemnizaciones. Se pretende también limitar, a aquellos efectos, la posible consideración como suelos en situación de urbanizados de determinados suelos que, incluso al amparo del planeamiento urbanístico, y sobre la base de su clasificación como suelos urbanos en su categoría de no consolidados, en absoluto la tienen, tanto de conformidad con la definición estatal, como con la propia regulación autonómica. Esta modificación se complementa con la derogación del artículo 2 del Reglamento de valoraciones, aprobado por el Real Decreto 1492/2011, de 24 de octubre, que ya se considera incompatible con la modificación legal.
+Por lo que respecta a las actuaciones de transformación urbanística, se introducen modificaciones tendentes a adecuar sus actuales parámetros a la realidad del medio urbano y de las actuaciones que se producen, tanto sobre el patrimonio edificado, como sobre los propios tejidos urbanos. Para ello, a las señaladas actuaciones, dentro de las cuales se incluyen las actuaciones de dotación, se añaden las denominadas «actuaciones edificatorias», que engloban, tanto las de nueva edificación y de sustitución de la edificación existente, como las de rehabilitación edificatoria, entendiendo por tales la realización de las obras y trabajos de mantenimiento o intervención en los edificios existentes, sus instalaciones y espacios comunes, en los términos dispuestos por la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación, cuando no concurran los elementos que configuran la esencia de las actuaciones de transformación urbanística. Entre ellos, la urbanización, la reforma o renovación de ésta y los reajustes entre nuevas dotaciones y los incrementos de edificabilidad o densidad y los cambios de uso. También se adapta a este nuevo régimen, el de los deberes urbanísticos establecidos por el artículo 16 del vigente texto refundido de la Ley de Suelo, a la vez que se incorpora en la documentación de los instrumentos de planificación que comprendan la ordenación de dichas intervenciones, una memoria de sostenibilidad económica cuyo objeto será asegurar, con carácter previo a la ejecución de las mismas, que se produce un adecuado equilibrio entre los beneficios y las cargas.
+Con la misma idea de flexibilizar, se incluye una modificación en la regla básica estatal que, desde el año 2007, ha tratado de garantizar una oferta mínima de suelo para vivienda asequible, exigiendo un 30 % de la edificabilidad residencial prevista, en todos los suelos que fuesen objeto de actuaciones de urbanización. Esta regla, que se aplicaba por igual a los suelos urbanos y a los suelos urbanizables, se flexibiliza de manera específica cuando la actuación se realiza sobre suelo en situación de urbanizado, con la idea de asegurar en la mayor medida posible la ya complicada viabilidad de las operaciones de renovación urbana que impliquen una reurbanización del ámbito de actuación.
+Por último, se incluyen también normas excepcionales para aquellos supuestos en los que la actuación se proyecta sobre zonas muy degradadas de las ciudades, o con un porcentaje de infravivienda muy elevado, en los que, tanto la inexistencia de suelos disponibles en su entorno inmediato para dotar de coherencia a los deberes de entrega de suelo, como el cumplimiento de determinadas cargas, podrían frustrar su finalidad prioritaria, que es superar tales situaciones. En tales casos, la regla excepcional se justifica por la necesidad de priorizar entre los diversos intereses públicos en presencia.
+La disposición final decimotercera modifica el texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre para incorporar una nueva disposición adicional trigésima cuarta que explicita que, en los contratos ejecutados aportando de forma sucesiva bienes y servicios de precio unitario, las demandas de la Administración que sobrepasen el presupuesto máximo que fue objeto de licitación para adjudicar el contrato, tendrán el tratamiento de modificaciones previstas en la documentación que rige la licitación de dicho contrato.
+Las disposiciones finales decimocuarta y decimoquinta modifican, respectivamente, el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos y la Ley 9/2012, de 14 de noviembre, de reestructuración y resolución de entidades de crédito. En ambos casos se trata de incluir meras mejoras técnicas.
+La disposición final decimosexta modifica la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013 para introducir elementos adicionales de transparencia que, además, resultan acordes con la práctica habitual existente en la actualidad.
+La disposición final decimoséptima modifica la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social, nuevamente con el objetivo de aportar una mejora técnica.
+La disposición final decimoctava remite a un posterior desarrollo reglamentario, mediante Orden de los Ministerios de Industria, Energía y Turismo, y de Fomento, la determinación de las cualificaciones que se requerirán para suscribir los Informes de Evaluación de Edificios que regula esta Ley, así como los medios de acreditación Cualificaciones requeridas para suscribir los Informes de Evaluación de Edificios.
+Las dos últimas disposiciones finales, es decir, la decimonovena y vigésima contienen los habituales contenidos dedicados a fundamentar los títulos competenciales del Estado en las materias reguladas y la entrada en vigor de la propia Ley.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Artículo 3
+
+Artículo 3. Fines comunes de las políticas públicas para un medio urbano más sostenible, eficiente y competitivo.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+## TÍTULO I
+
+El Informe de Evaluación de los Edificios
+
+### Artículo 4
+
+Artículo 4. El Informe de Evaluación de los Edificios.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+ Téngase en cuenta que se declaran inconstitucionales y nulos los apartados 2 a 6, por Sentencia del TC 143/2017, de 14 de diciembre. Ref. BOE-A-2018-605.
+
+### Artículo 5
+
+Artículo 5. Coordinación administrativa.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Artículo 6
+
+Artículo 6. Capacitación para el Informe de Evaluación de los Edificios.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+ Téngase en cuenta que se declara inconstitucional y nulo, por Sentencia del TC 143/2017, de 14 de diciembre. Ref. BOE-A-2018-605.
+
+## TÍTULO II
+
+Las actuaciones sobre el medio urbano
+
+## CAPÍTULO I
+
+Actuaciones y sujetos obligados
+
+### Artículo 7
+
+Artículo 7. Objeto de las actuaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Artículo 8
+
+Artículo 8. Sujetos obligados.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+## CAPÍTULO II
+
+Ordenación y gestión
+
+### Artículo 9
+
+Artículo 9. La iniciativa en la ordenación de las actuaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+ Téngase en cuenta que se declara inconstitucional y nulo el apartado 2, por Sentencia del TC 143/2017, de 14 de diciembre. Ref. BOE-A-2018-605.
+
+### Artículo 10
+
+Artículo 10. Reglas básicas para la ordenación y ejecución de las actuaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+ Téngase en cuenta que se declaran inconstitucionales y nulos el segundo párrafo del apartado 1, el apartado 2 y el inciso destacado del apartado 5, por Sentencia del TC 143/2017, de 14 de diciembre. Ref. BOE-A-2018-605.
+
+### Artículo 11
+
+Artículo 11. Memoria de viabilidad económica.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+ Téngase en cuenta que se declaran inconstitucionales y nulas las letras a) a e), por Sentencia del TC 143/2017, de 14 de diciembre. Ref. BOE-A-2018-605.
+
+### Artículo 12
+
+Artículo 12. Efectos de la delimitación de los ámbitos de gestión y ejecución de las actuaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+ Téngase en cuenta que se declaran inconstitucionales y nulos el inciso destacado de la letra a) y la letra c) del apartado 1, por Sentencia del TC 143/2017, de 14 de diciembre. Ref. BOE-A-2018-605.
+
+### Artículo 13
+
+Artículo 13. Las formas de ejecución.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+ Téngase en cuenta que se declaran inconstitucionales y nulos el apartado 1 y los incisos destacados del apartado 2.a) y 3, por Sentencia del TC 143/2017, de 14 de diciembre. Ref. BOE-A-2018-605.
+
+### Artículo 14
+
+Artículo 14. Los derechos de realojamiento y de retorno.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+## CAPÍTULO III
+
+Fórmulas de cooperación y coordinación para participar en la ejecución
+
+### Artículo 15
+
+Artículo 15. Facultades de los sujetos legitimados.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+ Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado 1, por Sentencia del TC 143/2017, de 14 de diciembre. Ref. BOE-A-2018-605.
+
+### Artículo 16
+
+Artículo 16. Asociaciones administrativas.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Artículo 17
+
+Artículo 17. Convenios para la financiación de las actuaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Artículo 18
+
+Artículo 18. Cooperación interadministrativa.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Artículo 19
+
+Artículo 19. Organización de la cooperación.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Información al servicio de las políticas públicas para un medio urbano sostenible.
+(Derogada)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Catastro inmobiliario.
+(Derogada)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Infracciones en materia de certificación de la eficiencia energética de los edificios.
+(Derogada)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Sanciones en materia de certificación energética de edificios y graduación.
+(Derogada)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Calendario para la realización del Informe de Evaluación de los Edificios.
+(Derogada)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+ Téngase en cuenta que se declara inconstitucional y nula, por Sentencia del TC 143/2017, de 14 de diciembre. Ref. BOE-A-2018-605.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Regla temporal de aplicación excepcional de la reserva mínima de suelo para vivienda protegida.
+(Derogada)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a la presente Ley y, en particular, las siguientes:
+1.ª Los artículos 8, 11 y 12 de la Ley 49/1960, de 21 de julio, sobre Propiedad Horizontal.
+2.ª El apartado 5 del artículo 2 del Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación.
+3.ª El artículo 13, la disposición adicional undécima y las disposiciones transitorias segunda y quinta del texto refundido de la Ley de Suelo, aprobado por Real Decreto Legislativo 2/2008, de 20 de junio.
+4.ª El artículo 2 del Real Decreto 1492/2011, de 24 de octubre, por el que se aprueba el Reglamento de valoraciones de la Ley del Suelo.
+5.ª Los artículos 107, 108, 109, 110 y 111 de la Ley 2/2011, de 4 de marzo, de Economía Sostenible.
+6.ª Los artículos 17, 18, 19, 20, 21, 22, 23, 24 y 25, la disposición adicional tercera, las disposiciones transitorias primera y segunda y la disposición final segunda del Real Decreto-ley 8/2011, de 1 de julio, de medidas de apoyo a los deudores hipotecarios, de control del gasto público y cancelación de deudas con empresas y autónomos contraídas por las entidades locales, de fomento de la actividad empresarial e impulso de la rehabilitación y de simplificación administrativa.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 49/1960, de 21 de julio, sobre Propiedad Horizontal.
+Se modifican los artículos 2, 3, 9, 10 y 17 y la disposición adicional de la Ley 49/1960, de 21 de julio, sobre Propiedad Horizontal.
+Uno. Se adicionan las letras d) y e) al artículo 2, que quedan redactadas de la siguiente manera:
+«d) A las subcomunidades, entendiendo por tales las que resultan cuando, de acuerdo con lo dispuesto en el título constitutivo, varios propietarios disponen, en régimen de comunidad, para su uso y disfrute exclusivo, de determinados elementos o servicios comunes dotados de unidad e independencia funcional o económica.
+e) A las entidades urbanísticas de conservación en los casos en que así lo dispongan sus estatutos.»
+Dos. El artículo 3 queda redactado de la siguiente manera:
+«En el régimen de propiedad establecido en el artículo 396 del Código Civil corresponde a cada piso o local:
+a) El derecho singular y exclusivo de propiedad sobre un espacio suficientemente delimitado y susceptible de aprovechamiento independiente, con los elementos arquitectónicos e instalaciones de todas clases, aparentes o no, que estén comprendidos dentro de sus límites y sirvan exclusivamente al propietario, así como el de los anejos que expresamente hayan sido señalados en el título, aunque se hallen situados fuera del espacio delimitado.
+b) La copropiedad, con los demás dueños de pisos o locales, de los restantes elementos, pertenencias y servicios comunes.
+A cada piso o local se atribuirá una cuota de participación con relación al total del valor del inmueble y referida a centésimas del mismo. Dicha cuota servirá de módulo para determinar la participación en las cargas y beneficios por razón de la comunidad. Las mejoras o menoscabos de cada piso o local no alterarán la cuota atribuida, que sólo podrá variarse de acuerdo con lo establecido en los artículos 10 y 17 de esta Ley.
+Cada propietario puede libremente disponer de su derecho, sin poder separar los elementos que lo integran y sin que la transmisión del disfrute afecte a las obligaciones derivadas de este régimen de propiedad.»
+Tres. Las letras c), e) y f) del apartado 1 del artículo 9 y el apartado 2 del mismo artículo, quedan redactados de la siguiente manera:
+«c) Consentir en su vivienda o local las reparaciones que exija el servicio del inmueble y permitir en él las servidumbres imprescindibles requeridas para la realización de obras, actuaciones o la creación de servicios comunes llevadas a cabo o acordadas conforme a lo establecido en la presente Ley, teniendo derecho a que la comunidad le resarza de los daños y perjuicios ocasionados.
+[...]
+e) Contribuir, con arreglo a la cuota de participación fijada en el título o a lo especialmente establecido, a los gastos generales para el adecuado sostenimiento del inmueble, sus servicios, cargas y responsabilidades que no sean susceptibles de individualización.
+Los créditos a favor de la comunidad derivados de la obligación de contribuir al sostenimiento de los gastos generales correspondientes a las cuotas imputables a la parte vencida de la anualidad en curso y los tres años anteriores tienen la condición de preferentes a efectos del artículo 1.923 del Código Civil y preceden, para su satisfacción, a los citados en los números 3.º, 4.º y 5.º de dicho precepto, sin perjuicio de la preferencia establecida a favor de los créditos salariales en el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo.
+El adquirente de una vivienda o local en régimen de propiedad horizontal, incluso con título inscrito en el Registro de la Propiedad, responde con el propio inmueble adquirido de las cantidades adeudadas a la comunidad de propietarios para el sostenimiento de los gastos generales por los anteriores titulares hasta el límite de los que resulten imputables a la parte vencida de la anualidad en la cual tenga lugar la adquisición y a los tres años naturales anteriores. El piso o local estará legalmente afecto al cumplimiento de esta obligación.
+En el instrumento público mediante el que se transmita, por cualquier título, la vivienda o local el transmitente, deberá declarar hallarse al corriente en el pago de los gastos generales de la comunidad de propietarios o expresar los que adeude. El transmitente deberá aportar en este momento certificación sobre el estado de deudas con la comunidad coincidente con su declaración, sin la cual no podrá autorizarse el otorgamiento del documento público, salvo que fuese expresamente exonerado de esta obligación por el adquirente. La certificación será emitida en el plazo máximo de siete días naturales desde su solicitud por quien ejerza las funciones de secretario, con el visto bueno del presidente, quienes responderán, en caso de culpa o negligencia, de la exactitud de los datos consignados en la misma y de los perjuicios causados por el retraso en su emisión.
+f) Contribuir, con arreglo a su respectiva cuota de participación, a la dotación del fondo de reserva que existirá en la comunidad de propietarios para atender las obras de conservación y reparación de la finca y, en su caso, para las obras de rehabilitación.
+El fondo de reserva, cuya titularidad corresponde a todos los efectos a la comunidad, estará dotado con una cantidad que en ningún caso podrá ser inferior al 5 por ciento de su último presupuesto ordinario.
+Con cargo al fondo de reserva la comunidad podrá suscribir un contrato de seguro que cubra los daños causados en la finca o bien concluir un contrato de mantenimiento permanente del inmueble y sus instalaciones generales.
+2. Para la aplicación de las reglas del apartado anterior se reputarán generales los gastos que no sean imputables a uno o varios pisos o locales, sin que la no utilización de un servicio exima del cumplimiento de las obligaciones correspondientes, sin perjuicio de lo establecido en el artículo 17.4.»
+Cuatro. El artículo 10 queda redactado de la siguiente manera:
+«1. Tendrán carácter obligatorio y no requerirán de acuerdo previo de la Junta de propietarios, impliquen o no modificación del título constitutivo o de los estatutos, y vengan impuestas por las Administraciones Públicas o solicitadas a instancia de los propietarios, las siguientes actuaciones:
+a) Los trabajos y las obras que resulten necesarias para el adecuado mantenimiento y cumplimiento del deber de conservación del inmueble y de sus servicios e instalaciones comunes, incluyendo en todo caso, las necesarias para satisfacer los requisitos básicos de seguridad, habitabilidad y accesibilidad universal, así como las condiciones de ornato y cualesquiera otras derivadas de la imposición, por parte de la Administración, del deber legal de conservación.
+b) Las obras y actuaciones que resulten necesarias para garantizar los ajustes razonables en materia de accesibilidad universal y, en todo caso, las requeridas a instancia de los propietarios en cuya vivienda o local vivan, trabajen o presten servicios voluntarios, personas con discapacidad, o mayores de setenta años, con el objeto de asegurarles un uso adecuado a sus necesidades de los elementos comunes, así como la instalación de rampas, ascensores u otros dispositivos mecánicos y electrónicos que favorezcan la orientación o su comunicación con el exterior, siempre que el importe repercutido anualmente de las mismas, una vez descontadas las subvenciones o ayudas públicas, no exceda de doce mensualidades ordinarias de gastos comunes. No eliminará el carácter obligatorio de estas obras el hecho de que el resto de su coste, más allá de las citadas mensualidades, sea asumido por quienes las hayan requerido.
+c) La ocupación de elementos comunes del edificio o del complejo inmobiliario privado durante el tiempo que duren las obras a las que se refieren las letras anteriores.
+d) La construcción de nuevas plantas y cualquier otra alteración de la estructura o fábrica del edificio o de las cosas comunes, así como la constitución de un complejo inmobiliario, tal y como prevé el artículo 17.4 del texto refundido de la Ley de Suelo, aprobado por el Real Decreto Legislativo 2/2008, de 20 de junio, que resulten preceptivos a consecuencia de la inclusión del inmueble en un ámbito de actuación de rehabilitación o de regeneración y renovación urbana.
+e) Los actos de división material de pisos o locales y sus anejos para formar otros más reducidos e independientes, el aumento de su superficie por agregación de otros colindantes del mismo edificio, o su disminución por segregación de alguna parte, realizados por voluntad y a instancia de sus propietarios, cuando tales actuaciones sean posibles a consecuencia de la inclusión del inmueble en un ámbito de actuación de rehabilitación o de regeneración y renovación urbanas.
+2. Teniendo en cuenta el carácter de necesarias u obligatorias de las actuaciones referidas en las letras a) a d) del apartado anterior, procederá lo siguiente:
+a) Serán costeadas por los propietarios de la correspondiente comunidad o agrupación de comunidades, limitándose el acuerdo de la Junta a la distribución de la derrama pertinente y a la determinación de los términos de su abono.
+b) Los propietarios que se opongan o demoren injustificadamente la ejecución de las órdenes dictadas por la autoridad competente responderán individualmente de las sanciones que puedan imponerse en vía administrativa.
+c) Los pisos o locales quedarán afectos al pago de los gastos derivados de la realización de dichas obras o actuaciones en los mismos términos y condiciones que los establecidos en el artículo 9 para los gastos generales.
+3. Requerirán autorización administrativa, en todo caso:
+a) La constitución y modificación del complejo inmobiliario a que se refiere el artículo 17.6 del texto refundido de la Ley de Suelo, aprobado por el Real Decreto Legislativo 2/2008, de 20 de junio, en sus mismos términos.
+b) Cuando así se haya solicitado, previa aprobación por las tres quintas partes del total de los propietarios que, a su vez, representen las tres quintas partes de las cuotas de participación, la división material de los pisos o locales y sus anejos, para formar otros más reducidos e independientes; el aumento de su superficie por agregación de otros colindantes del mismo edificio o su disminución por segregación de alguna parte; la construcción de nuevas plantas y cualquier otra alteración de la estructura o fábrica del edificio, incluyendo el cerramiento de las terrazas y la modificación de la envolvente para mejorar la eficiencia energética, o de las cosas comunes, cuando concurran los requisitos a que alude el artículo 17.6 del texto refundido de la Ley de Suelo, aprobado por el Real Decreto Legislativo 2/2008, de 20 de junio.
+En estos supuestos deberá constar el consentimiento de los titulares afectados y corresponderá a la Junta de Propietarios, de común acuerdo con aquéllos, y por mayoría de tres quintas partes del total de los propietarios, la determinación de la indemnización por daños y perjuicios que corresponda. La fijación de las nuevas cuotas de participación, así como la determinación de la naturaleza de las obras que se vayan a realizar, en caso de discrepancia sobre las mismas, requerirá la adopción del oportuno acuerdo de la Junta de Propietarios, por idéntica mayoría. A este respecto también podrán los interesados solicitar arbitraje o dictamen técnico en los términos establecidos en la Ley.»
+Cinco. El artículo 17 queda redactado de la siguiente manera:
+«Los acuerdos de la Junta de propietarios se sujetarán a las siguientes reglas:
+1. La instalación de las infraestructuras comunes para el acceso a los servicios de telecomunicación regulados en el Real Decreto-ley 1/1998, de 27 de febrero, sobre infraestructuras comunes en los edificios para el acceso a los servicios de telecomunicación, o la adaptación de los existentes, así como la instalación de sistemas comunes o privativos, de aprovechamiento de energías renovables, o bien de las infraestructuras necesarias para acceder a nuevos suministros energéticos colectivos, podrá ser acordada, a petición de cualquier propietario, por un tercio de los integrantes de la comunidad que representen, a su vez, un tercio de las cuotas de participación.
+La comunidad no podrá repercutir el coste de la instalación o adaptación de dichas infraestructuras comunes, ni los derivados de su conservación y mantenimiento posterior, sobre aquellos propietarios que no hubieren votado expresamente en la Junta a favor del acuerdo. No obstante, si con posterioridad solicitasen el acceso a los servicios de telecomunicaciones o a los suministros energéticos, y ello requiera aprovechar las nuevas infraestructuras o las adaptaciones realizadas en las preexistentes, podrá autorizárseles siempre que abonen el importe que les hubiera correspondido, debidamente actualizado, aplicando el correspondiente interés legal.
+No obstante lo dispuesto en el párrafo anterior respecto a los gastos de conservación y mantenimiento, la nueva infraestructura instalada tendrá la consideración, a los efectos establecidos en esta Ley, de elemento común.
+2. Sin perjuicio de lo establecido en el artículo 10.1 b), la realización de obras o el establecimiento de nuevos servicios comunes que tengan por finalidad la supresión de barreras arquitectónicas que dificulten el acceso o movilidad de personas con discapacidad y, en todo caso, el establecimiento de los servicios de ascensor, incluso cuando impliquen la modificación del título constitutivo, o de los estatutos, requerirá el voto favorable de la mayoría de los propietarios, que, a su vez, representen la mayoría de las cuotas de participación.
+Cuando se adopten válidamente acuerdos para la realización de obras de accesibilidad, la comunidad quedará obligada al pago de los gastos, aun cuando su importe repercutido anualmente exceda de doce mensualidades ordinarias de gastos comunes.
+3. El establecimiento o supresión de los servicios de portería, conserjería, vigilancia u otros servicios comunes de interés general, supongan o no modificación del título constitutivo o de los estatutos, requerirán el voto favorable de las tres quintas partes del total de los propietarios que, a su vez, representen las tres quintas partes de las cuotas de participación.
+Idéntico régimen se aplicará al arrendamiento de elementos comunes que no tengan asignado un uso específico en el inmueble y el establecimiento o supresión de equipos o sistemas, no recogidos en el apartado 1, que tengan por finalidad mejorar la eficiencia energética o hídrica del inmueble. En éste último caso, los acuerdos válidamente adoptados con arreglo a esta norma obligan a todos los propietarios. No obstante, si los equipos o sistemas tienen un aprovechamiento privativo, para la adopción del acuerdo bastará el voto favorable de un tercio de los integrantes de la comunidad que representen, a su vez, un tercio de las cuotas de participación, aplicándose, en este caso, el sistema de repercusión de costes establecido en dicho apartado.
+4. Ningún propietario podrá exigir nuevas instalaciones, servicios o mejoras no requeridos para la adecuada conservación, habitabilidad, seguridad y accesibilidad del inmueble, según su naturaleza y características.
+No obstante, cuando por el voto favorable de las tres quintas partes del total de los propietarios que, a su vez, representen las tres quintas partes de las cuotas de participación, se adopten válidamente acuerdos, para realizar innovaciones, nuevas instalaciones, servicios o mejoras no requeridos para la adecuada conservación, habitabilidad, seguridad y accesibilidad del inmueble, no exigibles y cuya cuota de instalación exceda del importe de tres mensualidades ordinarias de gastos comunes, el disidente no resultará obligado, ni se modificará su cuota, incluso en el caso de que no pueda privársele de la mejora o ventaja. Si el disidente desea, en cualquier tiempo, participar de las ventajas de la innovación, habrá de abonar su cuota en los gastos de realización y mantenimiento, debidamente actualizados mediante la aplicación del correspondiente interés legal.
+No podrán realizarse innovaciones que hagan inservible alguna parte del edificio para el uso y disfrute de un propietario, si no consta su consentimiento expreso.
+5. La instalación de un punto de recarga de vehículos eléctricos para uso privado en el aparcamiento del edificio, siempre que éste se ubique en una plaza individual de garaje, sólo requerirá la comunicación previa a la comunidad. El coste de dicha instalación y el consumo de electricidad correspondiente serán asumidos íntegramente por el o los interesados directos en la misma.
+6. Los acuerdos no regulados expresamente en este artículo, que impliquen la aprobación o modificación de las reglas contenidas en el título constitutivo de la propiedad horizontal o en los estatutos de la comunidad, requerirán para su validez la unanimidad del total de los propietarios que, a su vez, representen el total de las cuotas de participación.
+7. Para la validez de los demás acuerdos bastará el voto de la mayoría del total de los propietarios que, a su vez, representen la mayoría de las cuotas de participación. En segunda convocatoria serán válidos los acuerdos adoptados por la mayoría de los asistentes, siempre que ésta represente, a su vez, más de la mitad del valor de las cuotas de los presentes.
+Cuando la mayoría no se pudiere lograr por los procedimientos establecidos en los apartados anteriores, el Juez, a instancia de parte deducida en el mes siguiente a la fecha de la segunda Junta, y oyendo en comparecencia los contradictores previamente citados, resolverá en equidad lo que proceda dentro de veinte días, contados desde la petición, haciendo pronunciamiento sobre el pago de costas.
+8. Salvo en los supuestos expresamente previstos en los que no se pueda repercutir el coste de los servicios a aquellos propietarios que no hubieren votado expresamente en la Junta a favor del acuerdo, o en los casos en los que la modificación o reforma se haga para aprovechamiento privativo, se computarán como votos favorables los de aquellos propietarios ausentes de la Junta, debidamente citados, quienes una vez informados del acuerdo adoptado por los presentes, conforme al procedimiento establecido en el artículo 9, no manifiesten su discrepancia mediante comunicación a quien ejerza las funciones de secretario de la comunidad en el plazo de 30 días naturales, por cualquier medio que permita tener constancia de la recepción.
+9. Los acuerdos válidamente adoptados con arreglo a lo dispuesto en este artículo obligan a todos los propietarios.
+10. En caso de discrepancia sobre la naturaleza de las obras a realizar resolverá lo procedente la Junta de propietarios. También podrán los interesados solicitar arbitraje o dictamen técnico en los términos establecidos en la Ley.
+11. Las derramas para el pago de mejoras realizadas o por realizar en el inmueble serán a cargo de quien sea propietario en el momento de la exigibilidad de las cantidades afectas al pago de dichas mejoras.»
+Seis El apartado 2 de la disposición adicional queda redactado en los siguientes términos:
+«2. La dotación del fondo de reserva no podrá ser inferior, en ningún momento del ejercicio presupuestario, al mínimo legal establecido.
+Las cantidades detraídas del fondo durante el ejercicio presupuestario para atender los gastos de las obras o actuaciones incluidas en el artículo 10 se computarán como parte integrante del mismo a efectos del cálculo de su cuantía mínima.
+Al inicio del siguiente ejercicio presupuestario se efectuarán las aportaciones necesarias para cubrir las cantidades detraídas del fondo de reserva conforme a lo señalado en el párrafo anterior.»
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria.
+Se modifica el apartado 1 de la disposición adicional séptima de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, que queda redactado en los siguientes términos:
+«1. Continuarán subsistentes las autorizaciones y concesiones de expendedurías de régimen especial, otorgadas al amparo de la normativa anterior o aduanera, así como las otorgadas a establecimientos autorizados para la venta de labores de tabaco libre de impuestos existentes al tiempo de la entrada en vigor de esta Ley aunque pierdan con posterioridad este carácter. Asimismo, podrán concederse nuevas autorizaciones para la venta de labores de tabaco, en el régimen fiscal que corresponda, a establecimientos que pudieran ser de este tipo, preexistentes o no, que no contasen con las oportunas autorizaciones a la entrada en vigor de esta Ley. El Gobierno, a propuesta del Ministro de Hacienda y Administraciones Públicas, desarrollará dicho régimen y, en su caso, introducirá las modificaciones del mismo que resulten necesarias.»
+
+### Disposición final tercera
+
+Disposición final tercera. Modificación de la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación.
+Se modifican los artículos 2 y 3 de la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación.
+Uno. El apartado 2 del artículo 2, queda redactado de la siguiente manera:
+«2. Tendrán la consideración de edificación a los efectos de lo dispuesto en esta Ley, y requerirán un proyecto según lo establecido en el artículo 4, las siguientes obras:
+a) Obras de edificación de nueva construcción, excepto aquellas construcciones de escasa entidad constructiva y sencillez técnica que no tengan, de forma eventual o permanente, carácter residencial ni público y se desarrollen en una sola planta.
+b) Todas las intervenciones sobre los edificios existentes, siempre y cuando alteren su configuración arquitectónica, entendiendo por tales las que tengan carácter de intervención total o las parciales que produzcan una variación esencial de la composición general exterior, la volumetría, o el conjunto del sistema estructural, o tengan por objeto cambiar los usos característicos del edificio.
+c) Obras que tengan el carácter de intervención total en edificaciones catalogadas o que dispongan de algún tipo de protección de carácter ambiental o histórico-artístico, regulada a través de norma legal o documento urbanístico y aquellas otras de carácter parcial que afecten a los elementos o partes objeto de protección.»
+Dos. El párrafo primero del apartado 1 del artículo 3 queda redactado de la siguiente manera:
+«Artículo 3. Requisitos básicos de la edificación.
+1. Con el fin de garantizar la seguridad de las personas, el bienestar de la sociedad y la protección del medio ambiente, se establecen los siguientes requisitos básicos de la edificación, que deberán satisfacerse, de la forma que reglamentariamente se establezca, en el proyecto, la construcción, el mantenimiento, la conservación y el uso de los edificios y sus instalaciones, así como en las intervenciones que se realicen en los edificios existentes:»
+Tres. El párrafo primero del apartado 2 del artículo 3 queda redactado de la siguiente manera:
+«2. El Código Técnico de la Edificación es el marco normativo que establece las exigencias básicas de calidad de los edificios de nueva construcción y de sus instalaciones, así como de las intervenciones que se realicen en los edificios existentes, de acuerdo con lo previsto en las letras b) y c) del artículo 2.2, de tal forma que permita el cumplimiento de los anteriores requisitos básicos.»
+
+### Disposición final cuarta
+
+Disposición final cuarta. Modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+Se modifican los artículos 552 y 695 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+Uno. El párrafo segundo del apartado 1 del artículo 552 queda redactado como sigue:
+«Cuando el tribunal apreciare que alguna de las cláusulas incluidas en un título ejecutivo de los citados en el artículo 557.1 pueda ser calificada como abusiva, dará audiencia por quince días a las partes. Oídas éstas, acordará lo procedente en el plazo de cinco días hábiles conforme a lo previsto en el artículo 561.1.3.ª»
+Dos. El apartado 2 del artículo 695 queda redactado como sigue:
+«2. Formulada la oposición a la que se refiere el apartado anterior, el Secretario judicial suspenderá la ejecución y convocará a las partes a una comparecencia ante el Tribunal que hubiera dictado la orden general de ejecución, debiendo mediar quince días desde la citación, comparecencia en la que el Tribunal oirá a las partes, admitirá los documentos que se presenten y acordará en forma de auto lo que estime procedente dentro del segundo día.»
+
+### Disposición final quinta
+
+Disposición final quinta. Modificación de la Ley 21/2003, de 7 de julio, de Seguridad Aérea.
+Se modifican los artículos 37 y 50 de la Ley 21/2003, de 7 de julio, de Seguridad Aérea, en los siguientes términos:
+Uno. El apartado 3 del artículo 37 queda redactado en los siguientes términos:
+«3. Las compañías aéreas con licencia española deberán disponer de un plan de asistencia a las víctimas y a sus familiares en caso de accidente aéreo de aviación civil en el plazo de seis meses desde la entrada en vigor del Reglamento (UE) n.º 996/2010 del Parlamento Europeo y del Consejo, de 20 de octubre de 2010, sobre investigación y prevención de accidentes e incidentes en la aviación civil y por el que se deroga la Directiva 94/56/CE, y ejecutarlo en caso de accidente. Reglamentariamente se establecerán las obligaciones mínimas de las compañías aéreas en la asistencia a las víctimas y a sus familiares, incluidas aquéllas que tengan contenido económico y, en atención a ellas, el contenido mínimo de este plan. En particular, este desarrollo atenderá a la política y orientaciones de los documentos de la Organización Internacional de Aviación Civil en esta materia.
+Este plan de asistencia será auditado por la Agencia Estatal de Seguridad Aérea, previo informe preceptivo del Ministerio del Interior.»
+Dos. La regla 7.ª del apartado 3 del artículo 50 queda redactada en los siguientes términos:
+«7.a El incumplimiento de la obligación de disponer de un plan de asistencia a las víctimas y familiares de accidente aéreo con el contenido mínimo establecido reglamentariamente, así como que la compañía aérea no lo ejecute o lo ejecute deficientemente en caso de producirse dicho accidente.»
+
+### Disposición final sexta
+
+Disposición final sexta. Modificación de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+Se modifican el artículo 137 y la disposición adicional décima de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, en los siguientes términos:
+Uno. El apartado 6 del artículo 137 queda redactado como sigue:
+«6. La participación en procedimientos de adjudicación de inmuebles requerirá la constitución de una garantía de un 5 por 100 del valor de tasación de los bienes. En casos especiales, atendidas las características del inmueble y la forma o circunstancias de la enajenación, el órgano competente para la tramitación del expediente podrá elevar el importe de la garantía hasta un 10 por 100 del valor de tasación.
+La garantía podrá constituirse en cualquier modalidad prevista en la legislación de contratos del sector público, depositándola en la Caja General de Depósitos o en sus sucursales de las Delegaciones de Economía y Hacienda. En caso de que así se prevea en los pliegos, la garantía también podrá constituirse mediante cheque conformado o cheque bancario, en la forma y lugar que se señalen por el órgano competente para tramitar el expediente.
+Cuando así se prevea en el pliego, la acreditación de la constitución de la garantía podrá hacerse mediante medios electrónicos, informáticos o telemáticos.
+La garantía constituida en efectivo o en cheque conformado o bancario por el adjudicatario se aplicará al pago del precio de venta.»
+Dos. La disposición adicional décima queda redactada como sigue:
+«Disposición adicional décima. Régimen jurídico de la Sociedad Estatal de Gestión Inmobiliaria de Patrimonio, Sociedad Anónima.
+1. La Sociedad Estatal de Gestión Inmobiliaria de Patrimonio, Sociedad Anónima (SEGIPSA), cuyo capital social deberá ser íntegramente de titularidad pública, tendrá la consideración de medio propio instrumental y servicio técnico de la Administración General del Estado y de los poderes adjudicadores dependientes de ella, para la realización de cualesquiera trabajos o servicios que le sean encomendados relativos a la gestión, administración, explotación, mantenimiento y conservación, vigilancia, investigación, inventario, regularización, mejora y optimización, valoración, tasación, adquisición y enajenación y realización de otros negocios jurídicos de naturaleza patrimonial sobre cualesquiera bienes y derechos integrantes o susceptibles de integración en el Patrimonio del Estado o en otros patrimonios públicos, así como para la construcción y reforma de inmuebles patrimoniales o de uso administrativo.
+2. En virtud de dicho carácter, SEGIPSA estará obligada a realizar los trabajos, servicios, estudios, proyectos, asistencias técnicas, obras y cuantas actuaciones le encomienden directamente la Administración General del Estado y los poderes adjudicadores dependientes de ella en la forma establecida en la presente disposición. La actuación de SEGIPSA no podrá suponer el ejercicio de potestades administrativas.
+3. La encomienda o encargo, que en su otorgamiento y ejecución se regirá exclusivamente por lo establecido en esta disposición, establecerá la forma, términos y condiciones de realización de los trabajos, que se efectuarán por SEGIPSA con libertad de pactos y sujeción al Derecho privado. Se podrá prever en dicha encomienda que SEGIPSA actúe en nombre y por cuenta de quien le efectúe el encargo que, en todo momento, podrá supervisar la correcta realización del objeto de la encomienda. Cuando tenga por objeto la enajenación de bienes, la encomienda determinará la forma de adjudicación del contrato, y podrá permitir la adjudicación directa en los casos previstos en esta Ley. En caso de que su otorgamiento corresponda a un órgano o entidad que no sea el Ministro de Hacienda y Administraciones Públicas, requerirá el previo informe favorable del Director General del Patrimonio del Estado.
+4. El importe a pagar por los trabajos, servicios, estudios, proyectos y demás actuaciones realizadas por medio de SEGIPSA se determinará aplicando a las unidades ejecutadas las tarifas que hayan sido aprobadas por resolución del Subsecretario de Hacienda y Administraciones Públicas, a propuesta de la Dirección General del Patrimonio del Estado. Dichas tarifas se calcularán de manera que representen los costes reales de realización. La compensación que proceda en los casos en los que no exista tarifa se establecerá, asimismo, por resolución del Subsecretario de Hacienda y Administraciones Públicas.
+5. Respecto de las materias señaladas en el apartado 1 de esta disposición adicional, SEGIPSA no podrá participar en los procedimientos para la adjudicación de contratos convocados por la Administración General del Estado y poderes adjudicadores dependientes de ella de las que sea medio propio. No obstante, cuando no concurra ningún licitador, podrá encargarse a SEGIPSA la actividad objeto de licitación pública.
+6. La ejecución mediante encomienda de las actividades a que se refiere el apartado 1 de esta disposición, se realizará por SEGIPSA bien mediante la utilización de sus medios personales y técnicos, o bien adjudicando cuantos contratos de obras, suministros y servicios sean necesarios para proporcionar eficazmente las prestaciones que le han sido encomendadas, recurriendo, en este caso, a la contratación externa, sin más limitaciones que las que deriven de la sujeción de estos contratos a lo previsto en esta disposición adicional y en los artículos 189 a 191 del Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público.
+Serán susceptibles de recurso especial en materia de contratación, previo a la interposición del contencioso-administrativo, los actos relacionados en el apartado 2 del artículo 40 del Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público, cuando se refieran a alguno de los tipos de contratos relacionados en el apartado 1 del mismo artículo.
+7. Lo establecido en los apartados anteriores será también de aplicación al Ministerio de Empleo y Seguridad Social respecto del Patrimonio Sindical Acumulado y a las Entidades Gestoras y Servicios Comunes de la Seguridad Social.
+8. El Ministro de Hacienda y Administraciones Públicas podrá acordar la delimitación de ámbitos de gestión integral referidos a bienes y derechos del Patrimonio del Estado para su ejecución a través de SEGIPSA, que podrá comprender la realización de cualesquiera actuaciones previstas en esta Ley. Estas actuaciones le serán encomendadas conforme al procedimiento previsto en los apartados anteriores.
+9. Igualmente SEGIPSA tendrá la consideración de medio propio instrumental y servicio técnico para la realización de los trabajos de formación y mantenimiento del Catastro Inmobiliario que corresponden a la Dirección General del Catastro en virtud del Real Decreto Legislativo 1/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley del Catastro Inmobiliario, cuya encomienda y realización se efectuarán de acuerdo con lo establecido en esta disposición.
+10. Para la realización de los trabajos que se le encomienden de acuerdo con la presente disposición, SEGIPSA podrá recabar de la Dirección General del Catastro, en los términos previstos en el artículo 64 de esta Ley, la información de que disponga en relación con los bienes o derechos objeto de las actuaciones que se le hayan encomendado, sin que sea necesario el consentimiento de los afectados.
+11. Las resoluciones por las que se aprueben las tarifas, a las que se refiere el apartado 4 anterior, serán objeto de publicación en el “Boletín Oficial del Estado”, cuando las tarifas aprobadas resulten aplicables a encomiendas que se puedan ser atribuidas por distintos órganos, organismos o entidades del sector público estatal, o cuando por su relevancia así lo estime necesario la autoridad que aprueba las tarifas.»
+
+### Disposición final séptima
+
+Disposición final séptima. Modificación de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+Se añade una nueva disposición adicional vigésima tercera a la Ley 38/2003, de 17 de noviembre, General de Subvenciones, con la siguiente redacción:
+«Disposición adicional vigésima tercera. Colaboración de la Intervención General de la Administración del Estado con la Agencia Estatal de Administración Tributaria para la lucha contra el fraude fiscal.
+Con la finalidad de colaborar con la Agencia Estatal de Administración Tributaria en la lucha contra el fraude fiscal se autoriza la cesión de datos de naturaleza tributaria o subvencional por parte de la Intervención General de la Administración del Estado. Los datos cedidos tienen carácter reservado y sólo podrán ser utilizados para la efectiva aplicación de los tributos o recursos cuya gestión tenga encomendada y para la imposición de las sanciones que procedan. La información deberá ser suministrada preferentemente mediante la utilización de medios informáticos o telemáticos y estará protegida por los mismos requerimientos de acceso y cesión que los exigidos en cada uno de los sistemas de origen.»
+
+### Disposición final octava
+
+Disposición final octava. Modificación de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+Se modifica el artículo 47 y se añade una disposición adicional vigésima a la Ley 47/2003, de 26 de noviembre, General Presupuestaria, con la siguiente redacción:
+Uno. Se añade un apartado 6 al artículo 47 con la siguiente redacción:
+«6. En el caso de la tramitación anticipada de los expedientes de contratación a que se refiere el artículo 110.2 del texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre, y en la tramitación anticipada de aquellos expedientes de gasto cuya normativa reguladora permita llegar a la formalización del compromiso de gasto, se deberán cumplir los límites y anualidades o importes autorizados a que se refieren los apartados 2 a 5 de este artículo.»
+Dos. Se añade una disposición adicional vigésima con la siguiente redacción:
+«Disposición adicional vigésima. Base de datos sobre operaciones comerciales.
+La Intervención General de la Administración del Estado formará y gestionará una base de datos con la información sobre operaciones comerciales efectuadas por las entidades del Sector Público facilitada por la Agencia Estatal de Administración Tributaria, a la que tendrán acceso los órganos de control interno de las Comunidades Autónomas y Corporaciones Locales de conformidad con su ámbito de competencias.»
+
+### Disposición final novena
+
+Disposición final novena. Modificación de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Se añade una nueva letra l) al apartado 1 del artículo 95 de la Ley 58/2003, de 17 de diciembre, General Tributaria, con la siguiente redacción:
+«l) La colaboración con la Intervención General de la Administración del Estado en el ejercicio de sus funciones de control de la gestión económico-financiera, el seguimiento del déficit público, el control de subvenciones y ayudas públicas y la lucha contra la morosidad en las operaciones comerciales de las entidades del Sector Público.»
+
+### Disposición final décima
+
+Disposición final décima. Modificación del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo.
+Se modifica el artículo 167 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo, que queda redactado en los siguientes términos:
+«Artículo 167. Estructura de los estados de ingresos y gastos.
+1. El Ministerio de Hacienda y Administraciones Públicas establecerá con carácter general la estructura de los presupuestos de las entidades locales teniendo en cuenta la naturaleza económica de los ingresos y de los gastos, las finalidades u objetivos que con estos últimos se propongan conseguir y de acuerdo con los criterios que se establecen en los siguientes apartados de este artículo.
+2. Las entidades locales podrán clasificar los gastos e ingresos atendiendo a su propia estructura de acuerdo con sus reglamentos o decretos de organización.
+3. Los estados de gastos de los presupuestos generales de las entidades locales aplicarán las clasificaciones por programas y económica de acuerdo con los siguientes criterios:
+a) La clasificación por programas que constará de los siguientes niveles: el primero relativo al área de gasto, el segundo a la política de gasto, el tercero a los grupos de programas, que se subdividirán en programas. Esta clasificación podrá ampliarse en más niveles, relativos a subprogramas respectivamente.
+En todo caso, y con las peculiaridades que puedan concurrir en el ámbito de las entidades locales, los niveles de área de gasto y de política de gasto se ajustarán a los establecidos para la Administración del Estado.
+b) La clasificación económica presentará con separación los gastos corrientes y los gastos de capital, de acuerdo con los siguientes criterios:
+En los créditos para gastos corrientes se incluirán los de funcionamiento de los servicios, los de intereses y las transferencias corrientes.
+En los créditos para gastos de capital, los de inversiones reales, las transferencias de capital y las variaciones de activos y pasivos financieros.
+c) la clasificación económica constará de tres niveles, el primero relativo al capítulo, el segundo al artículo y el tercero al concepto. Esta clasificación podrá ampliarse en uno o dos niveles, relativos al subconcepto y la partida respectivamente.
+En todo caso, los niveles de capítulo y artículo habrán de ser los mismos que los establecidos para la Administración del Estado.
+4. La aplicación presupuestaria cuya expresión cifrada constituye el crédito presupuestario vendrá definida, al menos, por la conjunción de las clasificaciones por programas y económica, a nivel de grupo de programa o programa y concepto o subconcepto respectivamente.
+En el caso de que la entidad local opte por utilizar la clasificación orgánica, ésta integrará asimismo la aplicación presupuestaria.
+El control contable de los gastos se realizará sobre la aplicación presupuestaria antes definida y el fiscal sobre el nivel de vinculación determinado conforme dispone el artículo 172 de esta Ley.
+5. El Ministerio de Hacienda y Administraciones Públicas establecerá la estructura de la información de los presupuestos, de su ejecución y liquidación, a la que deberán ajustarse todas las entidades locales a efectos del cumplimiento de sus obligaciones de remisión de dicha información.»
+
+### Disposición final undécima
+
+Disposición final undécima. Modificación del Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación.
+Primero. Se modifican los artículos 1 y 2 y el anejo III de la parte I del Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación, que quedan redactados como sigue:
+Uno. El apartado 4 del artículo 1 queda redactado de la siguiente manera:
+«4. Las exigencias básicas deben cumplirse, de la forma que reglamentariamente se establezca, en el proyecto, la construcción, el mantenimiento, la conservación y el uso de los edificios y sus instalaciones, así como en las intervenciones en los edificios existentes.»
+Dos. Los apartados 3 y 4 del artículo 2 quedan redactados de la siguiente manera:
+«3. Igualmente, el Código Técnico de la Edificación se aplicará también a intervenciones en los edificios existentes y su cumplimiento se justificará en el proyecto o en una memoria suscrita por técnico competente, junto a la solicitud de licencia o de autorización administrativa para las obras. En caso de que la exigencia de licencia o autorización previa sea sustituida por la de declaración responsable o comunicación previa, de conformidad con lo establecido en la normativa vigente, se deberá manifestar explícitamente que se está en posesión del correspondiente proyecto o memoria justificativa, según proceda.
+Cuando la aplicación del Código Técnico de la Edificación no sea urbanística, técnica o económicamente viable o, en su caso, sea incompatible con la naturaleza de la intervención o con el grado de protección del edificio, se podrán aplicar, bajo el criterio y responsabilidad del proyectista o, en su caso, del técnico que suscriba la memoria, aquellas soluciones que permitan el mayor grado posible de adecuación efectiva.
+La posible inviabilidad o incompatibilidad de aplicación o las limitaciones derivadas de razones técnicas, económicas o urbanísticas se justificarán en el proyecto o en la memoria, según corresponda, y bajo la responsabilidad y el criterio respectivo del proyectista o del técnico competente que suscriba la memoria. En la documentación final de la obra deberá quedar constancia del nivel de prestación alcanzado y de los condicionantes de uso y mantenimiento del edificio, si existen, que puedan ser necesarios como consecuencia del grado final de adecuación efectiva alcanzado y que deban ser tenidos en cuenta por los propietarios y usuarios.
+En las intervenciones en los edificios existentes no se podrán reducir las condiciones preexistentes relacionadas con las exigencias básicas, cuando dichas condiciones sean menos exigentes que las establecidas en los documentos básicos del Código Técnico de la Edificación, salvo que en éstos se establezca un criterio distinto. Las que sean más exigentes, únicamente podrán reducirse hasta los niveles de exigencia que establecen los documentos básicos.
+4. En las intervenciones en edificios existentes el proyectista deberá indicar en la documentación del proyecto si la intervención incluye o no actuaciones en la estructura preexistente; entendiéndose, en caso negativo, que las obras no implican el riesgo de daño citado en el artículo 17.1,a) de la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación.»
+Tres. El apartado 6 del artículo 2 queda redactado de la siguiente manera:
+«6. En todo cambio de uso característico de un edificio existente se deberán cumplir las exigencias básicas del CTE. Cuando un cambio de uso afecte únicamente a parte de un edificio o de un establecimiento, se cumplirán dichas exigencias en los términos en que se establece en los Documentos Básicos del CTE.»
+Cuatro. Se modifica la definición de «mantenimiento» y se añade la de «intervenciones en los edificios existentes» en el anejo III de la parte I, con la siguiente redacción:
+«Mantenimiento:
+Conjunto de trabajos y obras a efectuar periódicamente para prevenir el deterioro de un edificio o reparaciones puntuales que se realicen en el mismo, con el objeto mantenerlo en buen estado para que, con una fiabilidad adecuada, cumpla con los requisitos básicos de la edificación establecidos.»
+«Intervenciones en los edificios existentes:
+Se consideran intervenciones en los edificios existentes, las siguientes:
+a) Ampliación: Aquellas en las que se incrementa la superficie o el volumen construidos.
+b) Reforma: Cualquier trabajo u obra en un edificio existente distinto del que se lleve a cabo para el exclusivo mantenimiento del edificio.
+c) Cambio de uso.»
+Segundo. Los preceptos modificados en el apartado primero anterior podrán ser objeto de reforma vía reglamentaria, de conformidad con la normativa aplicable.
+
+### Disposición final duodécima
+
+Disposición final duodécima. Modificación del texto refundido de la Ley de Suelo, aprobado por el Real Decreto Legislativo 2/2008, de 20 de junio.
+(Derogada).
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+
+### Disposición final decimotercera
+
+Disposición final decimotercera. Modificación del texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre.
+Se añade una nueva disposición adicional trigésima cuarta, al texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre, con el siguiente tenor:
+«Disposición adicional trigésima cuarta. Contratos de suministros y servicios en función de las necesidades.
+En los contratos de suministros y de servicios que tramiten las Administraciones Públicas y demás entidades del sector público con presupuesto limitativo, en los cuales el empresario se obligue a entregar una pluralidad de bienes o a ejecutar el servicio de forma sucesiva y por precio unitario, sin que el número total de entregas o prestaciones incluidas en el objeto del contrato se defina con exactitud al tiempo de celebrar éste, por estar subordinadas las mismas a las necesidades de la Administración, deberá aprobarse un presupuesto máximo.
+En el caso de que, dentro de la vigencia del contrato, las necesidades reales fuesen superiores a las estimadas inicialmente, deberá tramitarse la correspondiente modificación. A tales efectos, habrá de preverse en la documentación que rija la licitación la posibilidad de que pueda modificarse el contrato como consecuencia de tal circunstancia, en los términos previstos en el artículo 106 de esta Ley. La citada modificación deberá tramitarse antes de que se agote el presupuesto máximo inicialmente aprobado, reservándose a tal fin el crédito necesario para cubrir el importe máximo de las nuevas necesidades.»
+
+### Disposición final decimocuarta
+
+Disposición final decimocuarta. Modificación del Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos.
+Se modifican los artículos 2 y 3 bis del Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, que quedan redactados como sigue:
+Uno. El artículo 2 queda redactado del siguiente modo:
+«Las medidas previstas en este Real Decreto-ley se aplicarán a los contratos de préstamo o crédito garantizados con hipoteca inmobiliaria cuyo deudor se encuentre situado en el umbral de exclusión y que estén vigentes a la fecha de su entrada en vigor, con excepción de las contenidas en los artículos 12 y 13, que serán de aplicación general.
+Las medidas previstas en este Real Decreto-ley se aplicarán igualmente a los fiadores y avalistas hipotecarios del deudor principal, respecto de su vivienda habitual y con las mismas condiciones que las establecidas para el deudor hipotecario.»
+Dos. El artículo 3 bis queda redactado del siguiente modo:
+«Artículo 3 bis Fiadores, avalistas e hipotecantes no deudores.
+Los fiadores, avalistas e hipotecantes no deudores que se encuentren en el umbral de exclusión podrán exigir que la entidad agote el patrimonio del deudor principal, sin perjuicio de la aplicación a éste, en su caso, de las medidas previstas en el Código de Buenas Prácticas, antes de reclamarles la deuda garantizada, aun cuando en el contrato hubieran renunciado expresamente al beneficio de excusión.»
+
+### Disposición final decimoquinta
+
+Disposición final decimoquinta. Modificación de la Ley 9/2012, de 14 de noviembre, de reestructuración y resolución de entidades de crédito.
+Se modifica la disposición final vigésima primera de la Ley 9/2012, de 14 de noviembre, de reestructuración y resolución de entidades de crédito, que queda redactada como sigue:
+«Disposición final vigésima primera. Finalización de la vigencia del Capítulo VII.
+Lo dispuesto en el Capítulo VII de esta Ley será aplicable hasta el 31 de diciembre de 2013.»
+
+### Disposición final decimosexta
+
+Disposición final decimosexta. Modificación de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013.
+Se adiciona un párrafo final al apartado tres de la disposición adicional décima tercera, de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013, con la siguiente redacción:
+«A los efectos de esta bonificación, del importe de la tarifa bonificable se deducirá el importe correspondiente a las prestaciones patrimoniales públicas a que se refieren las letras d), e) y f) del artículo 68.2, de la Ley 21/2003, de 7 de julio, de Seguridad Aérea, con independencia de que hayan sido repercutidas o no al pasajero. A tal efecto, dichas prestaciones patrimoniales aparecerán desglosadas en la documentación justificativa de los cupones de vuelo.»
+
+### Disposición final decimoséptima
+
+Disposición final decimoséptima. Modificación de la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social.
+Se modifican la rúbrica del Capítulo III, la disposición adicional primera y las disposiciones transitorias cuarta y quinta, con la siguiente redacción:
+Uno. Se modifica la rúbrica del Capítulo III, en los siguientes términos:
+«CAPÍTULO III
+Mejoras en el procedimiento de ejecución»
+Dos. Se da nueva redacción al párrafo primero de la disposición adicional primera en los siguientes términos:
+«Se encomienda al Gobierno que promueva con el sector financiero la constitución de un fondo social de viviendas propiedad de las entidades de crédito, destinadas a ofrecer cobertura a aquellas personas que hayan sido desalojadas de su vivienda habitual por el impago de un préstamo hipotecario cuando concurran las circunstancias previstas en el artículo 1 de esta Ley. Este fondo social de viviendas tendrá por objetivo facilitar el acceso a estas personas a contratos de arrendamiento con rentas asumibles en función de los ingresos que perciban.»
+Tres. Se da nueva redacción al apartado 5 de la disposición transitoria cuarta en los siguientes términos:
+«Lo dispuesto en el artículo 579.2 a) de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil será de aplicación a las adjudicaciones de vivienda habitual realizadas con anterioridad a la entrada en vigor de esta Ley, siempre que a esa fecha no se hubiere satisfecho completamente la deuda y que no hayan transcurrido los plazos del apartado 2 a) del citado artículo. En estos casos, los plazos anteriores que vencieran a lo largo de 2013 se prolongarán hasta el 1 de enero de 2014.
+La aplicación de lo previsto en este apartado no supondrá en ningún caso la obligación del ejecutante de devolver las cuantías ya percibidas del ejecutado.»
+Cuatro. Se da nueva redacción al párrafo primero de la disposición transitoria quinta en los siguientes términos:
+«Lo previsto en el artículo 3.Tres se aplicará a las ventas extrajudiciales de bienes hipotecados que se inicien con posterioridad a la entrada en vigor de esta Ley, cualquiera que fuese la fecha en que se hubiera otorgado la escritura de constitución de hipoteca.»
+
+### Disposición final decimoctava
+
+Disposición final decimoctava. Cualificaciones requeridas para suscribir los Informes de Evaluación de Edificios.
+(Derogada)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#ddunica.
+ Téngase en cuenta que se declara inconstitucional y nula, por Sentencia del TC 143/2017, de 14 de diciembre. Ref. BOE-A-2018-605.
+
+### Disposición final decimonovena
+
+Disposición final decimonovena. Carácter básico y títulos competenciales.
+1. La presente Ley tiene el carácter de legislación básica sobre bases y coordinación de la planificación general de la actividad económica, de conformidad con lo dispuesto en el artículo 149.1.13.ª de la Constitución.
+2. Adicionalmente, la presente Ley se dicta al amparo de los siguientes títulos competenciales:
+1.º Los artículos 1 a 4, 8 y 15, las disposiciones adicionales primera, tercera y cuarta, las disposiciones transitorias primera y segunda, las disposiciones finales sexta, séptima, décima y undécima y los apartados uno a diez y trece de la disposición final duodécima, al amparo de lo dispuesto en el artículo 149.1.1.ª, 16.ª, 18.ª, 23.ª y 25.ª de la Constitución, que atribuye al Estado la competencia sobre regulación de las condiciones básicas que garantizan la igualdad en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, bases y coordinación general de la sanidad, bases del régimen jurídico de las Administraciones Públicas, legislación básica sobre protección del medio ambiente y bases del régimen energético.
+2.º Los artículos 5, 11, 12 y 14, las disposiciones finales primera y tercera, y los apartados once y doce y catorce a diecisiete de la disposición final duodécima, al amparo de lo dispuesto en el artículo 149.1.8.ª y 18.ª de la Constitución, que atribuye al Estado la competencia sobre legislación civil, procedimiento administrativo común, legislación sobre expropiación forzosa y el sistema de responsabilidad de las Administraciones Públicas.
+3.º La disposición adicional segunda, al amparo de lo dispuesto en el artículo 149.1.14.ª de la Constitución, que atribuye al Estado la competencia sobre Hacienda general y deuda del Estado.
+4.º El artículo 6 y la disposición final decimoctava, al amparo de lo dispuesto en el artículo 149.1.30.ª de la Constitución, que atribuye al Estado la competencia sobre regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
+5.º La disposición final cuarta, al amparo de lo dispuesto en el artículo 149.1.6.ª de la Constitución, que atribuye al Estado la competencia en materia de legislación procesal.
+6.º La disposición final quinta, al amparo de lo dispuesto en el artículo 149.1.20.ª de la Constitución, que atribuye al Estado la competencia en materia de control del tránsito y transporte aéreo.
+7.º La disposición final decimotercera, al amparo de lo dispuesto en el artículo 149.1.18.ª de la Constitución, que atribuye al Estado la competencia en materia de legislación básica sobre contratos.
+8.º Las disposiciones finales decimocuarta y decimoquinta, al amparo de lo dispuesto en al artículo 149.1.11.ª de la Constitución, que atribuye al Estado la competencia en materia de bases de la ordenación de crédito, banca y seguros.
+3. Lo dispuesto en esta Ley se aplicará sin perjuicio de los regímenes civiles, forales o especiales, allí donde existen.
+Téngase en cuenta que esta disposición se deroga, en la medida en que se refiera a alguno de los preceptos derogados por el Real Decreto Legislativo 7/2015, de 30 de octubre Ref. BOE-A-2015-11723#ddunica., según establece su disposición derogatoria única.b)
+Se deroga, en la medida en que se refiera a alguno de los preceptos derogados por el Real Decreto Legislativo 7/2015, de 30 de octubre Ref. BOE-A-2015-11723#ddunica., según establece su disposición derogatoria única.b)
+
+### Disposición final vigésima
+
+Disposición final vigésima. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+Téngase en cuenta que esta disposición se deroga, en la medida en que se refiera a alguno de los preceptos derogados por el Real Decreto Legislativo 7/2015, de 30 de octubre Ref. BOE-A-2015-11723#ddunica., según establece su disposición derogatoria única.b)
+Se deroga, en la medida en que se refiera a alguno de los preceptos derogados por el Real Decreto Legislativo 7/2015, de 30 de octubre Ref. BOE-A-2015-11723#ddunica., según establece su disposición derogatoria única.b)
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 26 de junio de 2013.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+MARIANO RAJOY BREY
+
+### [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta el Acuerdo de la Comisión Bilateral de Cooperación Administración del Estado-Administración de la Comunidad Autónoma del País Vasco, publicado por Resolución de 31 de marzo de 2014, Ref. BOE-A-2014-3730. en relación con la interpretación de los arts. 4, 7, 8, 10, 11 y 12 de esta Ley.

@@ -1,0 +1,133 @@
+# Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen.
+
+- Identificador BOE: `BOE-A-1982-11196`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1982-11196
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+Conforme al artículo dieciocho, uno, de la Constitución, los derechos al honor, a la intimidad personal y familiar y a la propia imagen tienen el rango de fundamentales, y hasta tal punto aparecen realzados en el texto constitucional que el artículo veinte, cuatro, dispone que el respeto de tales derechos constituya un límite al ejercicio de las libertades de expresión que el propio precepto reconoce y protege con el mismo carácter de fundamentales.
+El desarrollo mediante la correspondiente Ley Orgánica, a tenor del artículo ochenta y uno, uno, de la Constitución, del principio general de garantía de tales derechos contenidos en el citado artículo dieciocho, uno, de la misma constituye la finalidad de la presente ley.
+Establece el artículo primero de la misma la protección civil de los derechos fundamentales al honor, a la intimidad personal y familiar y a la propia imagen frente a todos género de injerencia o intromisiones ilegítimas. Pero no puede ignorar que algunos de esos derechos gozan o previsiblemente gozarán de una protección penal. Así ocurre con el derecho al honor, amparado por las prescripciones contenidas en el libro II, título X, del vigente Código Penal, y con determinados aspectos del derecho a la intimidad personal y familiar que son objeto de una protección de esa naturaleza en el proyecto de nuevo Código Penal recientemente aprobado por el Consejo de Ministros.
+Por ello en los casos que exista la protección penal tendrá ésta preferente aplicación, por ser sin duda la de más fuerte efectividad, si bien la responsabilidad civil derivada del delito se deberá fijar de acuerdo con los criterios que esta ley establece.
+Los derechos garantizados por la ley han sido encuadrados por la doctrina jurídica más autorizada entre los derechos de la personalidad, calificación de la que obviamente se desprende el carácter de irrenunciable irrenunciabilidad referida con carácter genérico a la protección civil que la ley establece.
+En el artículo segundo se regula el ámbito de protección de los derechos a que se refiere. Además de la delimitación que pueda resultar de las leyes, se estima razonable admitir que en lo no previsto por ellas la esfera del honor, de la intimidad personal y familiar y del uso de la imagen esté determinada de manera decisiva por las ideas que prevalezcan en cada momento en la Sociedad y por el propio concepto que cada persona según sus actos propios mantenga al respecto y determine sus pautas de comportamiento. De esta forma la cuestión se resuelve en la ley en términos que permiten al juzgador la prudente determinación de la esfera de protección en función de datos variables según los tiempos y las personas.
+Los derechos protegidos en la ley no pueden considerarse absolutamente ilimitados. En primer lugar, los imperativos del interés público pueden hacer que por ley se autoricen expresamente determinadas entradas en el ámbito de la intimidad, que no podrán ser reputadas legítimas. De otro lado, tampoco tendrán este carácter las consentidas por el propio interesado, posibilidad ésta que no se opone a la irrenunciabilidad abstracta de dichos derechos pues ese consentimiento no implica la absoluta abdicación de los mismos sino tan sólo el parcial desprendimiento de alguna de las facultades que los integran. Ahora bien, la ley exige que el consentimiento sea expreso, y dada la índole particular de estos derechos permite que pueda ser revocado en cualquier momento, aunque con indemnización de los perjuicios que de la revocación se siguieren al destinatario del mismo. El otorgamiento del consentimiento cuando se trate de menores o incapacitados es objeto de las prescripciones contenidas en el artículo tercero.
+En los artículos cuarto al sexto de la ley se contempla el supuesto de fallecimiento del titular del derecho lesionado. Las consecuencias del mismo en orden a la protección de estos derechos se determinan según el momento en que la lesión se produjo. Aunque la muerte del sujeto de derecho extingue los derechos de la personalidad la memoria de aquél constituye una prolongación de esta última que debe también ser tutelada por el Derecho, por ello, se atribuye la protección en el caso de que la lesión se hubiera producido después del fallecimiento de una persona a quien ésta hubiera designado en su testamento, en defecto de ella a los parientes supervivientes, y en último término, al Ministerio Fiscal con una limitación temporal que se ha estimado prudente. En el caso de que la lesión tenga lugar antes del fallecimiento sin que el titular del derecho lesionado ejerciera las acciones reconocidas en la ley, sólo subsistirán éstas si no hubieran podido ser ejercitadas por aquél o por su representante legal, pues si se pudo ejercitarlas y no se hizo existe una fundada presunción de que los actos que objetivamente pudieran constituir lesiones no merecieron esa consideración a los ojos del perjudicado o su representante legal. En cambio, la acción ya entablada sí será transmisible porque en este caso existe una expectativa de derecho a la indemnización.
+La definición de las intromisiones o injerencias ilegítimas en el ámbito protegido se lleva a cabo en los artículos séptimo y octavo de la ley. El primero de ellos recoge en términos de razonable amplitud diversos supuestos de intromisión o injerencia que pueden darse en la vida real y coinciden con los previstos en las legislaciones protectoras existentes en otros países de desarrollo social y tecnológico igual o superior al nuestro. No obstante, existen casos en que tales injerencias o intromisiones no pueden considerarse ilegítimas en virtud de razones de interés público que imponen una limitación de los derechos individuales, como son los indicados en el artículo octavo de la ley.
+Por último, la ley fija, en su artículo noveno, de acuerdo con lo prevenido en el artículo cincuenta y tres, dos, de la Constitución, el cauce legal para la defensa frente a las injerencias o intromisiones ilegítimas, así como las pretensiones que podrá deducir el perjudicado. En lo que respecta a la indemnización de perjuicios, se presume que éstos existen en todo caso de injerencias o intromisiones acreditadas, y comprenderán no sólo la de los perjuicios materiales, sino también la de los morales, de especial relevancia en este tipo de actos ilícitos. En tanto no sea regulado el amparo judicial, se considera de aplicación al efecto la Ley de Protección Jurisdiccional de los derechos de la persona de veintiséis de diciembre de mil novecientos setenta y ocho, a cuyo ámbito de protección han quedado incorporados los derechos al honor, a la intimidad personal y familiar y a la propia imagen por la disposición transitoria segunda, dos, de la Ley Orgánica dos/mil novecientos setenta y nueve, de tres de octubre, del Tribunal Constitucional.
+
+## CAPITULO I
+
+Disposiciones generales
+
+### Artículo primero
+
+1. El derecho fundamental al honor, a la intimidad personal y familiar y a la propia imagen, garantizado en el artículo dieciocho de la Constitución, será protegido civilmente frente a todo género de intromisiones ilegítimas, de acuerdo con lo establecido en la presente Ley Orgánica.
+2. El carácter delictivo de la intromisión no impedirá el recurso al procedimiento de tutela judicial previsto en el artículo 9.º de esta Ley. En cualquier caso, serán aplicables los criterios de esta Ley para la determinación de la responsabilidad civil derivada de delito.
+3. El derecho al honor, a la intimidad personal y familiar y a la propia imagen es irrenunciable, inalienable e imprescriptible. La renuncia a la protección prevista en esta ley será nula, sin perjuicio de los supuestos de autorización o consentimiento a que se refiere el artículo segundo de esta ley.
+Se modifica el apartado 2 por la disposición final 4 de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444.
+
+### Artículo segundo
+
+Uno. La protección civil del honor, de la intimidad y de la propia imagen quedará delimitada por las leyes y por los usos sociales atendiendo al ámbito que, por sus propios actos, mantenga cada persona reservado para sí misma o su familia.
+Dos. No se apreciará la existencia de intromisión ilegítima en el ámbito protegido cuando estuviere expresamente autorizada por Ley o cuando el titular del derecho hubiere otorgado al efecto su consentimiento expresoo, por imperativo del artículo 71 de la Constitución, cuando se trate de opiniones manifestadas por Diputados o Senadores en el ejercicio de sus funciones. Iniciado un proceso civil en aplicación de la presente Ley, no podrá seguirse contra un Diputado o Senador sin la previa autorización del Congreso de los Diputados o del Senado.
+La previa autorización será tramitada por el procedimiento previsto para los suplicatorios.
+Declarada la inconstitucionalidad y nulidad del inciso destacado del apartado 2 por Sentencia del TC 9/1990 de 18 de enero. Ref. BOE-T-1990-3964.
+Tres. El consentimiento a que se refiere el párrafo anterior será revocable en cualquier momento, pero habrán de indemnizarse en su caso, los daños y perjuicios causados, incluyendo en ellos las expectativas justificadas.
+Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 2 por Sentencia del TC 9/1990 de 18 de enero. Ref. BOE-T-1990-3964.
+ Se modifica el apartado 2 por el art. único de la Ley Orgánica 3/1985, de 29 de mayo. Ref. BOE-A-1985-9861.
+
+### Artículo tercero
+
+Uno. El consentimiento de los menores e incapaces deberá prestarse por ellos mismos si sus condiciones de madurez lo permiten, de acuerdo con la legislación civil.
+Dos. En los restantes casos, el consentimiento habrá de otorgarse mediante escrito por su representante legal, quien estará obligado a poner en conocimiento previo del Ministerio Fiscal el consentimiento proyectado. Si en el plazo de ocho días el Ministerio Fiscal se opusiere, resolverá el Juez.
+
+### Artículo cuarto
+
+Uno. El ejercicio de las acciones de protección civil del honor, la intimidad o la imagen de una persona fallecida corresponde a quien ésta haya designado a tal efecto en su testamento. La designación puede recaer en una persona jurídica.
+Dos. No existiendo designación o habiendo fallecido la persona designada, estarán legitimados para recabar la protección el cónyuge, los descendientes, ascendientes y hermanos de la persona afectada que viviesen al tiempo de su fallecimiento.
+Tres. A falta de todos ellos, el ejercicio de las acciones de protección corresponderá al Ministerio Fiscal, que podrá actuar de oficio a instancia de persona interesada, siempre que no hubieren transcurrido más de ochenta años desde el fallecimiento del afectado. El mismo plazo se observará cuando el ejercicio de las acciones mencionadas corresponda a una persona jurídica designada en testamento.
+Cuatro. En los supuestos de intromisión ilegítima en los derechos de las víctimas de un delito a que se refiere el apartado ocho del artículo séptimo, estará legitimado para ejercer las acciones de protección el ofendido o perjudicado por el delito cometido, haya o no ejercido la acción penal o civil en el proceso penal precedente. También estará legitimado en todo caso el Ministerio Fiscal. En los supuestos de fallecimiento, se estará a lo dispuesto en los apartados anteriores.
+Se añade el apartado 4 por la disposición final 2.1 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953.
+
+### Artículo quinto
+
+Uno. Cuando sobrevivan varios parientes de los señalados en el artículo anterior, cualquiera de ellos podrá ejercer las acciones previstas para la protección de los derechos del fallecido.
+Dos. La misma regla se aplicará, salvo disposición en contrario del fallecido, cuando hayan sido varias las personas designadas en su testamento.
+
+### Artículo sexto
+
+Uno. Cuando el titular del derecho lesionado fallezca sin haber podido ejercitar por sí o por su representante legal las acciones previstas en esta ley, por las circunstancias en que la lesión se produjo, las referidas acciones podrán ejercitarse por las personas señaladas en el artículo cuarto.
+Dos. Las mismas personas podrán continuar la acción ya entablada por el titular del derecho lesionado cuando falleciere.
+
+## CAPITULO II
+
+De la protección civil del honor, de la intimidad y de la propia imagen
+
+### Artículo séptimo
+
+Tendrán la consideración de intromisiones ilegítimas en el ámbito de protección delimitado por el artículo segundo de esta Ley:
+1. El emplazamiento en cualquier lugar de aparatos de escucha, de filmación, de dispositivos ópticos o de cualquier otro medio apto para grabar o reproducir la vida íntima de las personas.
+2. La utilización de aparatos de escucha, dispositivos ópticos, o de cualquier otro medio para el conocimiento de la vida íntima de las personas o de manifestaciones o cartas privadas no destinadas a quien haga uso de tales medios, así como su grabación, registro o reproducción.
+3. La divulgación de hechos relativos a la vida privada de una persona o familia que afecten a su reputación y buen nombre, así como la revelación o publicación del contenido de cartas, memorias u otros escritos personales de carácter íntimo.
+4. La revelación de datos privados de una persona o familia conocidos a través de la actividad profesional u oficial de quien los revela.
+5. La captación, reproducción o publicación por fotografía, filme, o cualquier otro procedimiento, de la imagen de una persona en lugares o momentos de su vida privada o fuera de ellos, salvo los casos previstos en el artículo octavo, dos.
+6. La utilización del nombre, de la voz o de la imagen de una persona para fines publicitarios, comerciales o de naturaleza análoga.
+7. La imputación de hechos o la manifestación de juicios de valor a través de acciones o expresiones que de cualquier modo lesionen la dignidad de otra persona, menoscabando su fama o atentando contra su propia estimación.
+8. La utilización del delito por el condenado en sentencia penal firme para conseguir notoriedad pública u obtener provecho económico, o la divulgación de datos falsos sobre los hechos delictivos, cuando ello suponga el menoscabo de la dignidad de las víctimas.
+Se añade el apartado 8 por la disposición final 2.2 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953.
+ Se modifica el apartado 7 por la disposición final 4 de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444.
+
+### Artículo octavo
+
+Uno. No se reputará, con carácter general, intromisiones ilegítimas las actuaciones autorizadas o acordadas por la Autoridad competente de acuerdo con la ley, ni cuando predomine un interés histórico, científico o cultural relevante.
+Dos. En particular, el derecho a la propia imagen no impedirá:
+a) Su captación, reproducción o publicación por cualquier medio cuando se trate de personas que ejerzan un cargo público o una profesión de notoriedad o proyección pública y la imagen se capte durante un acto público o en lugares abiertos al público.
+b) La utilización de la caricatura de dichas personas, de acuerdo con el uso social.
+c) La información gráfica sobre un suceso o acaecimiento público cuando la imagen de una persona determinada aparezca como meramente accesoria.
+Las excepciones contempladas en los párrafos a) y b) no serán de aplicación respecto de las autoridades o personas que desempeñen funciones que por su naturaleza necesiten el anonimato de la persona que las ejerza.
+
+### Artículo noveno
+
+Uno. La tutela judicial frente a las intromisiones ilegítimas en los derechos a que se refiere la presente Ley podrá recabarse por las vías procesales ordinarias o por el procedimiento previsto en el artículo 53.2 de la Constitución. También podrá acudirse, cuando proceda, al recurso de amparo ante el Tribunal Constitucional.
+Dos. La tutela judicial comprenderá la adopción de todas las medidas necesarias para poner fin a la intromisión ilegítima de que se trate y, en particular, las necesarias para:
+a) El restablecimiento del perjudicado en el pleno disfrute de sus derechos, con la declaración de la intromisión sufrida, el cese inmediato de la misma y la reposición del estado anterior. En caso de intromisión en el derecho al honor, el restablecimiento del derecho violado incluirá, sin perjuicio del derecho de réplica por el procedimiento legalmente previsto, la publicación total o parcial de la sentencia condenatoria a costa del condenado con al menos la misma difusión pública que tuvo la intromisión sufrida.
+b) Prevenir intromisiones inminentes o ulteriores.
+c) La indemnización de los daños y perjuicios causados.
+d) La apropiación por el perjudicado del lucro obtenido con la intromisión ilegítima en sus derechos.
+Estas medidas se entenderán sin perjuicio de la tutela cautelar necesaria para asegurar su efectividad.
+Tres. La existencia de perjuicio se presumirá siempre que se acredite la intromisión ilegítima. La indemnización se extenderá al daño moral, que se valorará atendiendo a las circunstancias del caso y a la gravedad de la lesión efectivamente producida, para lo que se tendrá en cuenta, en su caso, la difusión o audiencia del medio a través del que se haya producido.
+Cuatro. El importe de la indemnización por el daño moral, en el caso de los tres primeros apartados del artículo cuarto, corresponderá a las personas a que se refiere su apartado dos y, en su defecto, a sus causahabientes, en la proporción en que la sentencia estime que han sido afectados. En los casos del artículo sexto, la indemnización se entenderá comprendida en la herencia del perjudicado.
+En el caso del apartado cuatro del artículo cuarto, la indemnización corresponderá a los ofendidos o perjudicados por el delito que hayan ejercitado la acción. De haberse ejercitado por el Ministerio Fiscal, éste podrá solicitar la indemnización para todos los perjudicados que hayan resultado debidamente identificados y no hayan renunciado expresamente a ella.
+Cinco. Las acciones de protección frente a las intromisiones ilegítimas caducarán transcurridos cuatro años desde que el legitimado pudo ejercitarlas.
+Se modifica por la disposición final 2.3 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953.
+
+## DISPOSICIÓN DEROGATORIA
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto en la presente Ley Orgánica.
+
+## DISPOSICIONES TRANSITORIAS
+
+### Primera
+
+Primera.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley Orgánica 5/1992, de 29 de octubre. Ref. BOE-A-1992-24189.
+
+### Segunda
+
+Segunda.
+En tanto no sean desarrolladas las previsiones del artículo cincuenta y tres, dos, de la Constitución sobre establecimiento de un procedimiento basado en los principios de preferencia y sumariedad, la tutela judicial de los derechos al honor, la intimidad personal y familiar y a la propia imagen se podrá recabar, con las peculiaridades que establece esta ley sobre legitimación de las partes, por cualquiera de los procedimientos establecidos en las Secciones II y III de la Ley sesenta y dos/mil novecientos setenta y ocho, de veintiséis de diciembre, de Protección Jurisdiccional de los derechos fundamentales de la persona. Agotado el procedimiento seguido, quedará expedito el recurso de amparo constitucional en los supuestos a que se refiere el capítulo I, del Título III de la Ley Orgánica dos/mil novecientos setenta y nueve, de tres de octubre, del Tribunal Constitucional.
+
+Por tanto,
+Mando a todos los españoles particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela, Madrid, a cinco de mayo de mil novecientos ochenta y dos.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+LEOPOLDO CALVO-SOTELO Y BUSTELO

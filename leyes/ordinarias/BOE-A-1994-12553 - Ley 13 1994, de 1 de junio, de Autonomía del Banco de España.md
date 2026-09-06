@@ -1,0 +1,510 @@
+# Ley 13/1994, de 1 de junio, de Autonomía del Banco de España.
+
+- Identificador BOE: `BOE-A-1994-12553`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1994-12553
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+El Tratado de la Unión Europea, que introduce profundas modificaciones en el de la Comunidad Europea para hacer de ella una Unión Económica y Monetaria, exige que, en el ámbito de la política monetaria, se otorgue al Banco de España la autonomía que el nuevo Tratado contempla para las instituciones monetarias llamadas a integrarse en el Sistema Europeo de Bancos Centrales. Aunque, a tenor de lo dispuesto en el artículo 108.2 del Tratado, el otorgamiento de dicha autonomía pudiera haberse postergado hasta la creación del Sistema Europeo de Bancos Centrales, ha parecido más congruente con el espíritu del propio Tratado, con el esfuerzo de convergencia de los Estados miembros necesario para su plena entrada en vigor, con las posiciones defendidas por España a lo largo de la Conferencia intergubernamental en la que aquél se fraguó y, en fin, con la actitud de España en la puesta en práctica de disposiciones provenientes de la Comunidad Europea, otorgar al Banco de España ese régimen de autonomía desde el comienzo de la segunda etapa de la Unión Económica y Monetaria.
+La autonomía de nuestro Banco central exige, en primer término, que el Tesoro Público no pueda incurrir en descubiertos en su cuenta en el Banco de España, ni siquiera de carácter transitorio, porque al hacerlo privaría a éste de la iniciativa en el proceso de creación monetaria. Como cautela adicional prevista en el Tratado de la Unión Europea, el Banco de España no podrá adquirir directamente del Tesoro valores emitidos por éste, sin perjuicio de que pueda efectuar operaciones en el Mercado de la Deuda Pública. La señalada autonomía exige, asimismo, que, en el ámbito de la política monetaria, el Banco no esté sometido a instrucciones del Gobierno o del Ministro de Economía y Hacienda, de forma que pueda orientar dicha política al fin primordial de mantener los precios estables. Requiere, finalmente, que el mandato del Gobernador sea relativamente largo y no renovable, quedando estrictamente tasadas las causas de su posible cese.
+Como consecuencia de lo anterior, y, en general, de lo dispuesto en el Protocolo por el que se aprueba el Estatuto del Sistema Europeo de Bancos Centrales y del Banco Central Europeo, la configuración del Banco de España que lleva a cabo la presente Ley se aleja definitivamente de la que consagrara en 1962 el Decreto-ley de nacionalización del Banco, que, configurándolo en todos los órdenes como un apéndice directo del Gobierno, mantuvo su tradicional función de financiar al Estado. El presente texto legal profundiza, por el contrario, en la tendencia que ya iniciara en 1980 la Ley 30/1980, de 21 de julio, de Órganos Rectores del Banco de España, cuando consagró para éste una significativa parcela de autonomía instrumental y limitó las causas de cese del Gobernador.
+Al definir la posición institucional del Banco de España en el seno de la Administración española y el alcance preciso de la citada autonomía, la nueva Ley conjuga equilibradamente las previsiones del Tratado de la Unión Europea con los preceptos de nuestra Constitución, articulando ese equilibrio a través de distintos preceptos. Así, el artículo 7, al definir los objetivos que deberán orientar la política monetaria, establece como finalidad primordial la estabilidad de los precios, ingrediente esencial, aunque ciertamente no único, de la «estabilidad económica» a la que se refiere el artículo 40 de la Constitución. Además, sin menoscabo de esa finalidad primordial, la política monetaria apoyará la política económica general del Gobierno. El artículo 24, teniendo presente que el artículo 97 del texto constitucional atribuye al Gobierno la dirección de la política interior y exterior, contempla que sea precisamente éste, en exclusiva, quien designe íntegramente a los miembros de los órganos rectores del Banco. El artículo 20 faculta al Ministro de Economía y Hacienda, así como al Secretario de Estado de Economía, para que asistan a las reuniones del Consejo del Banco cuando lo juzguen conveniente, pudiendo someter al mismo las mociones que entiendan precisas, de modo que, incluso en aquellas materias en las que el Banco pueda decidir con autonomía, tenga siempre el Gobierno un cauce idóneo para exponer su criterio. El artículo 10 establece para el Banco una obligación específica de información a las Cortes Generales y al Gobierno en materia de política monetaria, de forma que tales instituciones puedan controlar y debatir regularmente la política monetaria seguida. El Banco de España podrá informar a las Cortes Generales y al Gobierno sobre los eventuales obstáculos que dificulten a la política monetaria el logro de la estabilidad de precios, lo que facilitará el adecuado equilibrio del conjunto de la política económica. Finalmente, en materias distintas de la política monetaria, incluidas las relativas a la supervisión de las entidades de crédito, el Banco quedará sometido no sólo a lo dispuesto en las leyes, sino también a las disposiciones reglamentarias que dicte el Gobierno en desarrollo de aquéllas, siendo sus actos y resoluciones administrativas susceptibles de recurso ordinario ante el Ministro de Economía y Hacienda. En suma, la Ley configura al Banco de España como un ente de la Administración del Estado de naturaleza especial que, subordinado al Gobierno en términos generales, gozará empero de plena autonomía en el ámbito de la política monetaria, precisamente con la finalidad de preservar mejor el objetivo de la estabilidad de precios consagrado en la propia Ley.
+En el orden organizativo, la norma, aunque respeta la arquitectura institucional básica que para el Banco consagró la Ley 30/1980, de 21 de julio, de Órganos Rectores del Banco de España -obsérvese el paralelismo entre los Consejos General y Ejecutivo hasta ahora existentes y el Consejo de Gobierno y la Comisión Ejecutiva previstos en la nueva Ley-, introduce ciertas modificaciones, que aspiran, en general, a reforzar la autonomía de la institución. Así, se alarga a seis años, no renovables, el mandato de Gobernador y Subgobernador, haciéndose particularmente estrictas las posibles causas de cese.
+Esta Ley, aunque introduce modificaciones significativas en los ámbitos que se acaban de mencionar (esto es, la dirección de la política monetaria y el régimen de los órganos rectores del Banco), no altera, sin embargo, de forma apreciable el régimen de las demás funciones atribuidas por la legislación vigente al Banco de España. En particular, el desempeño por el Banco de funciones de supervisión de las entidades de crédito seguirá regulado por la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito, y demás normas aplicables. Téngase presente que, a tenor de lo dispuesto en el artículo 14.4 de los Estatutos del Sistema Europeo de Bancos Centrales y del Banco Central Europeo, los Bancos centrales nacionales podrán ejercer funciones distintas a las monetarias que no interfieran con éstas, quedando aquéllas sometidas a la legislación nacional y no considerándose parte de las funciones del Sistema Europeo de Bancos Centrales.
+En conclusión, la presente Ley transpone a nuestra legislación los preceptos del Tratado de la Unión Europea relativos a política monetaria, así como a las relaciones entre el Tesoro y el Banco emisor, contribuyendo con ello a sentar las bases para que nuestro país se integre con éxito en la futura Unión Económica y Monetaria.
+
+## Capítulo I
+
+Naturaleza y régimen jurídico
+
+### Artículo 1
+
+Artículo 1. Naturaleza y normativa específica.
+1. El Banco de España es una entidad de Derecho público con personalidad jurídica propia y plena capacidad pública y privada. En el desarrollo de su actividad y para el cumplimiento de sus fines actuará con autonomía respecto a la Administración General del Estado, desempeñando sus funciones con arreglo a lo previsto en esta Ley y en el resto del ordenamiento jurídico.
+2. El Banco de España quedará sometido al ordenamiento jurídico-privado, salvo que actúe en el ejercicio de las potestades administrativas conferidas por ésta u otras leyes. En el ejercicio de dichas potestades administrativas resultará de aplicación al Banco de España la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Tendrán en todo caso naturaleza administrativa los actos que dicte el Banco de España en ejercicio de las funciones a las que se refieren el artículo 7.6 y el artículo 15.4.
+El Banco de España no estará sometido a las previsiones contenidas en la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+3. El Banco de España es parte integrante del Sistema Europeo de Bancos Centrales (en adelante, SEBC) y estará sometido a las disposiciones del Tratado de la Comunidad Europea (en adelante, Tratado) y a los Estatutos del SEBC.
+En el ejercicio de las funciones que se deriven de su condición de parte integrante del SEBC, el Banco de España se ajustará a las orientaciones e instrucciones emanadas del Banco Central Europeo (en adelante, BCE) en virtud de dichas disposiciones.
+Se modifica por el art. 1.1 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+### Artículo 2
+
+Artículo 2. Régimen de impugnación.
+1. Los actos administrativos que dicte el Banco de España en el ejercicio de las funciones previstas en la sección 1.a y el artículo 15 del capítulo II de esta Ley, así como las sanciones que, en su caso, se impongan como consecuencia de la aplicación de estas normas, pondrán fin a la vía administrativa.
+2. Los actos administrativos que dicte el Banco de España en el ejercicio de otras funciones, así como las sanciones que imponga, serán susceptibles de recurso ordinario ante el Ministro de Economía y Hacienda.
+3. Sin perjuicio de la competencia del Tribunal de Justicia de la Comunidad Europea, la Sala de lo Contencioso-administrativo de la Audiencia Nacional conocerá en única instancia de los recursos contra actos no susceptibles de recurso administrativo dictados por el Banco de España y contra las resoluciones del Ministro de Economía y Hacienda que resuelvan recursos ordinarios contra actos dictados por el Banco de España.
+Se modifica por el art. 1.2 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+### Artículo 3
+
+Artículo 3. Disposiciones dictadas por el Banco de España.
+1. Sin perjuicio de lo establecido en el artículo 1.3 el Banco de España podrá dictar las normas precisas para el ejercicio de las funciones previstas en el artículo 7.3 desarrolladas en la sección 1.a y el artículo 15 del capítulo II de esta Ley, que se denominarán "Circulares monetarias''.
+Asimismo, para el adecuado ejercicio del resto de sus competencias, podrá dictar las disposiciones precisas para el desarrollo de aquellas normas que le habiliten expresamente al efecto. Tales disposiciones se denominarán "Circulares''.
+2. Unas y otras disposiciones serán publicadas en el "Boletín Oficial del Estado'' y entrarán en vigor conforme a lo previsto en el apartado primero del artículo 2 del Código Civil. Se elaborarán, previos los informes técnicos y jurídicos que preceptivamente deberán emitir los servicios competentes del Banco y aquellos otros informes y asesoramientos que éste estime conveniente solicitar. No les será de aplicación lo dispuesto en el artículo 24 de la Ley 50/1997, de 27 de noviembre, del Gobierno, si bien, en el caso de las "Circulares'', deberán ser oídos los sectores interesados.
+Las disposiciones dictadas por el Banco de España serán susceptibles de impugnación directa ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+Se modifica por el art. 1.3 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+### Artículo 4
+
+Artículo 4. Régimen económico.
+1. No serán de aplicación al Banco de España las leyes que regulen el régimen presupuestario, patrimonial y de contratación de los organismos públicos dependientes o vinculados a la Administración General del Estado, salvo cuando dispongan expresamente lo contrario.
+2. La propuesta de presupuesto de gastos de funcionamiento e inversiones del Banco de España, una vez aprobada por su Consejo de Gobierno, según el artículo 21.1.g), será remitida al Gobierno, que la trasladará a las Cortes Generales para su aprobación. El presupuesto del Banco de España tendrá carácter estimativo y no será objeto de consolidación con los restantes presupuestos del sector público estatal.
+Corresponderá al Gobierno, a propuesta del Ministro de Economía y Hacienda, aprobar el balance y cuentas del ejercicio del Banco, que serán remitidos a las Cortes Generales para su conocimiento. Sin perjuicio de lo dispuesto en el artículo 27 de los Estatutos del Sistema Europeo de Bancos Centrales, el Banco de España quedará sujeto a la fiscalización externa del Tribunal de Cuentas, de acuerdo con lo dispuesto en la Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de Cuentas. En el informe que acompañe al balance y cuentas del ejercicio se desglosarán, atendiendo a su naturaleza, las distintas operaciones o rúbricas del balance del Banco. En especial, se detallarán las aportaciones efectuadas por el Banco a Fondos de Garantía de Depósitos, así como los préstamos u otras operaciones en favor de cualesquiera otras entidades o personas que no se hubieran concertado en condiciones de mercado o que, de cualquier otra forma, entrañen lucro cesante o quebranto para el Banco, estimándose expresamente en tales casos el importe de los eventuales lucros cesantes o quebrantos.
+Se modifica por el art. 1.4 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+### Artículo 5
+
+Artículo 5. Régimen tributario.
+El Banco de España gozará del mismo régimen tributario que el Estado.
+
+### Artículo 6
+
+Artículo 6. Deber de secreto.
+1. Los miembros de sus órganos rectores y el personal del Banco de España deberán guardar secreto, incluso después de cesar en sus funciones, de cuantas informaciones de naturaleza confidencial tuvieran conocimiento en el ejercicio de sus cargos. La infracción de dicho deber se sancionará, en el caso del personal del Banco de España, de acuerdo con lo dispuesto en el Reglamento interno del Banco; y, en el caso de los miembros de sus órganos rectores, de acuerdo con lo previsto en el artículo 29.
+2. El deber de secreto se entiende sin perjuicio de las obligaciones de información sobre política monetaria impuestas al Banco de España por el artículo 10 de esta Ley, y de lo dispuesto en las disposiciones específicas que, en aplicación de las directivas de la Comunidad Europea en materia de entidades de crédito, regulan la obligación de secreto de las autoridades supervisoras.
+3. El acceso de las Cortes Generales a la información sometida al deber de secreto se realizará a través del Gobernador del Banco de España, de conformidad con lo previsto en los Reglamentos parlamentarios. A tal efecto, el Gobernador podrá solicitar motivadamente de los órganos competentes de la Cámara la celebración de sesión secreta o la aplicación del procedimiento establecido para el acceso a las materias clasificadas.
+
+### Artículo 6 bis
+
+Artículo 6 bis. Régimen del personal del Banco de España.
+El personal del Banco de España será seleccionado respetando los principios de igualdad, mérito, capacidad y publicidad y está vinculado al mismo por una relación de Derecho laboral. Sin perjuicio de su autonomía en materia de política de personal, el Banco de España deberá aplicar para su personal medidas en materia de los gastos de personal equivalentes a las establecidas con carácter general para el personal al servicio del sector público, principalmente en las leyes de presupuestos generales del Estado de cada año, no pudiendo acordar, en ningún caso, incrementos retributivos que globalmente supongan un incremento de la masa salarial superior a los límites fijados para dicho colectivo.
+El personal del Banco de España que pueda tener acceso a información de carácter confidencial estará obligado a notificar, conforme a lo establecido en la correspondiente disposición interna aprobada por la Comisión Ejecutiva, las operaciones que realice en los mercados de valores, bien fuera directamente o mediante persona interpuesta. Esta misma disposición determinará las limitaciones a las que quedará sujeto este personal respecto a la adquisición, venta o disponibilidad de tales valores, así como las obligaciones de información y limitaciones aplicables a las operaciones financieras que dicho personal realice por sí o mediante persona interpuesta, con entidades sujetas a la supervisión del Banco de España. La infracción a lo dispuesto en este párrafo será sancionable con arreglo a lo dispuesto en el reglamento interno del Banco de España.
+Los datos declarados al amparo de las anteriores obligaciones de información se conservarán por un período máximo de cinco años.
+Se modifica el párrafo primero por la disposición final 6 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+ Se añade por el art. 63 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+## Capítulo II
+
+Finalidades y funciones
+
+### Artículo 7
+
+Artículo 7. Principios generales.
+1. Corresponderá al Banco de España el ejercicio de las funciones previstas en esta Ley, así como el de las que puedan encomendarle otras leyes.
+2. Sin perjuicio del objetivo principal de mantener la estabilidad de precios y del cumplimiento de las funciones que ejerce en tanto miembro del SEBC en los términos del artículo 105.1 del Tratado, el Banco de España apoyará la política económica general del Gobierno.
+3. El Banco de España participará en el desarrollo de las siguientes funciones básicas atribuidas al SEBC:
+a) Definir y ejecutar la política monetaria de la Comunidad.
+b) Realizar operaciones de cambio de divisas que sean coherentes con las disposiciones del artículo 109 del Tratado.
+c) Poseer y gestionar las reservas oficiales de divisas de los Estados miembros. No obstante, el Gobierno podrá tener y gestionar fondos de maniobra en divisas, conforme a lo previsto en el artículo 105.3 del Tratado.
+d) Promover el buen funcionamiento del sistema de pagos.
+e) Emitir los billetes de curso legal.
+f) Las demás funciones que se deriven de su condición de parte integrante del SEBC.
+4. Sin perjuicio de lo dispuesto en el artículo 1.3, en el ejercicio de las funciones previstas en el número 3 del presente artículo, desarrolladas en las secciones 1.a, 2.a y 4.a del capítulo II, pero en estos últimos casos sólo cuando se pronuncie sobre cuestiones que resulten de las funciones del Sistema Europeo de Bancos Centrales, ni el Gobierno, ni ningún otro órgano nacional o comunitario podrán dar instrucciones al Banco de España, ni éste podrá recabarlas o aceptarlas.
+5. Respetando lo dispuesto en el número 2 del presente artículo, el Banco de España ejercerá, además, las siguientes funciones:
+a) Poseer y gestionar las reservas de divisas y metales preciosos no transferidas al Banco Central Europeo.
+b) Promover el buen funcionamiento y estabilidad del sistema financiero y, sin perjuicio de lo dispuesto en el número 3, d) anterior, de los sistemas de pagos nacionales.
+c) Poner en circulación la moneda metálica y desempeñar, por cuenta del Estado, las demás funciones que se le encomienden respecto a ella.
+d) Prestar los servicios de tesorería y agente financiero de la Deuda Pública, con arreglo a lo establecido en la sección 3.a
+e) Asesorar al Gobierno, así como realizar los informes y estudios que resulten procedentes.
+f) Elaborar y publicar las estadísticas relacionadas con sus funciones y asistir al BCE en la recopilación de la información estadística necesaria para el cumplimiento de las funciones del SEBC.
+g) Contestar consultas de los interesados sobre el ejercicio de sus competencias ejecutivas en materia de supervisión e inspección de entidades. La contestación a estas consultas tendrá efectos vinculantes, desde su emisión, para los órganos del Banco de España encargados de ejercer las competencias sobre las que versa la consulta, siempre que no se alteren las circunstancias, antecedentes y demás datos contenidos en la misma. La contestación a las consultas tendrá carácter informativo para los interesados no pudiéndose entablar recurso alguno contra dicha contestación.
+h) Ejercer las demás competencias que la legislación le atribuya.
+6. El Banco de España deberá supervisar, conforme a las disposiciones vigentes, la solvencia, actuación y cumplimiento de la normativa específica de las entidades de crédito y de cualesquiera otras entidades y mercados financieros cuya supervisión le haya sido atribuida, sin perjuicio de la función de supervisión prudencial llevada a cabo por las Comunidades Autónomas en el ámbito de sus competencias y de la cooperación de éstas con el Banco en el ejercicio de tales competencias autonómicas de supervisión.
+7. El Banco de España podrá realizar las actuaciones precisas para el ejercicio de sus funciones, así como las relativas a su propia administración y a su personal.
+8. El Banco de España podrá establecer relaciones con otros Bancos centrales, con autoridades de supervisión financiera e instituciones financieras de otros países, así como con organizaciones monetarias y financieras internacionales.
+Igualmente, podrá relacionarse con instituciones financieras de carácter público y con autoridades de supervisión financiera de ámbito autonómico.
+Se añade la letra g) al apartado 5 pasando la anterior g) a ser h) por la disposición final 1 del Real Decreto-ley 14/2013, de 29 de noviembre. Ref. BOE-A-2013-12529.
+ Se modifica por el art. 2.1 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+## Sección 1
+
+Sección 1.ª Política monetaria
+
+### Artículo 8
+
+Artículo 8. Apertura de cuentas a entidades.
+Con el fin de realizar sus operaciones, el Banco de España podrá abrir cuentas a entidades de crédito, a entidades públicas y a otros participantes en el mercado, así como aceptar activos en garantía.
+Se modifica por el art. 2.2 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+### Artículo 9
+
+Artículo 9. Instrumentación de la política monetaria.
+1. Con el fin de alcanzar los objetivos del SEBC y llevar a cabo sus funciones, el Banco de España podrá realizar todo tipo de operaciones financieras, de conformidad con los principios generales e instrumentos establecidos por el BCE, y, en particular, las siguientes:
+a) Operar en los mercados financieros comprando y vendiendo al contado y a plazo o con pacto de recompra; prestar o tomar prestado valores y otros instrumentos financieros denominados en cualquier moneda o unidad de cuenta, así como metales preciosos.
+b) Realizar operaciones de crédito con entidades de crédito y demás participantes en el mercado, basando las mismas en garantías adecuadas.
+2. Podrán mantenerse en el Banco de España los fondos inmovilizados derivados del establecimiento de reservas mínimas impuestas en virtud de disposiciones dictadas conforme a los Estatutos del SEBC.
+Se modifica por el art. 2.3 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+### Artículo 10
+
+Artículo 10. Información y control en materia de política monetaria.
+1. El Banco de España informará regularmente a las Cortes Generales y al Gobierno de los objetivos y ejecución de la política monetaria, sin perjuicio de lo dispuesto en el artículo 107 del Tratado y de las reglas sobre secreto profesional del BCE.
+A tal efecto, el Gobernador del Banco podrá ser convocado, de conformidad con los Reglamentos parlamentarios, a cualesquiera de las Comisiones del Congreso o del Senado o mixtas de ambas Cámaras, así como ser convocado para que asista con tal finalidad a las reuniones del Consejo de Ministros o a las de su Comisión Delegada para Asuntos Económicos.
+2. Asimismo, el Gobernador del Banco de España podrá ser convocado a las reuniones del Consejo de Política Fiscal y Financiera de las Comunidades Autónomas a que se refiere el artículo 3 de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, para que, con el fin de facilitar el ejercicio de las tareas de coordinación financiera atribuidas al citado Consejo, informe en relación con materias de la competencia del Banco.
+Se modifica por el art. 2.4 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+## Sección 2
+
+Sección 2.ª Operaciones exteriores
+Se modifica por el art. 2.5 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+### Artículo 11
+
+Artículo 11. Política de tipo de cambio.
+Sin perjuicio de la competencia de la Comunidad Europea, el Gobierno podrá consultar con el Banco de España en las materias relativas a la política de tipo de cambio.
+Se modifica por el art. 2.6 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+### Artículo 12
+
+Artículo 12. Realización de operaciones exteriores.
+Sin perjuicio de lo dispuesto en el artículo 1.3, el Banco de España podrá realizar las operaciones exteriores que estime convenientes y, en particular, las siguientes:
+a) Poseer, gestionar o adquirir y vender al contado o a plazo todo tipo de activos denominados en moneda extranjera o unidades de cuenta, así como metales preciosos.
+b) Efectuar cualquier tipo de transacciones bancarias con entidades nacionales o extranjeras o con organismos internacionales, incluidas las operaciones de concesión y obtención de préstamos.
+Se modifica por el art. 2.7 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+## Sección 3
+
+Sección 3.ª Servicios de tesorería y Deuda Pública
+
+### Artículo 13
+
+Artículo 13. Servicio de tesorería.
+1. En los términos que se convengan con el Tesoro y con las Comunidades Autónomas que así lo soliciten, el Banco de España podrá prestarles el servicio de tesorería, llevando y manteniendo las cuentas, en pesetas o en divisas, que sean necesarias, realizando por su cuenta ingresos y pagos y, en general, desarrollando cualquier otra actividad bancaria, tanto en el interior como en el exterior, con las excepciones mencionadas en el siguiente número de este artículo.
+2. Queda prohibida la autorización de descubiertos o la concesión de cualquier otro tipo de crédito por el Banco de España al Estado, Comunidades Autónomas, Corporaciones locales o cualquiera de los organismos o entidades a los que se refiere el artículo 104 del Tratado constitutivo de la Comunidad Europea, según redacción dada por el Tratado de la Unión Europea de 7 de febrero de 1992. Se exceptuarán de lo anterior:
+a) Las entidades de crédito públicas, que podrán recibir del Banco de España liquidez en las mismas condiciones que las restantes entidades de crédito, así como, en su caso, los Fondos de Garantía de Depósitos en entidades de crédito.
+b) La financiación por el Banco de España de obligaciones que incumban al Estado con respecto al Fondo Monetario Internacional, o que resulten de la aplicación del mecanismo de apoyo financiero a medio plazo de la Comunidad Europea.
+En todo caso, el importe de la cuota de España en el Fondo Monetario Internacional, así como los pasivos del Banco de España frente a ese organismo quedarán recogidos en el balance del Banco de España, en función de su naturaleza, como activos o pasivos de éste frente al Fondo Monetario Internacional. El ejercicio de los derechos políticos de España en el citado organismo corresponderá al Gobierno.
+3. En los términos que se convengan con el Tesoro y, en su caso, con las Comunidades Autónomas, el Banco de España remunerará los saldos líquidos que aquéllos mantengan en éste.
+
+### Artículo 14
+
+Artículo 14. Servicios relativos a la Deuda Pública.
+1. En los términos que se convengan con el Tesoro y con las Comunidades Autónomas que así lo soliciten, el Banco de España prestará el servicio financiero de la Deuda Pública, contribuyendo con sus medios técnicos a facilitar los procedimientos de emisión, amortización y, en general, gestión de aquélla. En todo caso, se respetará la prohibición contenida en el artículo 13.2.
+2. El Banco de España no podrá adquirir directamente del emisor ninguna modalidad de Deuda Pública. Sólo podrá adquirirla en los mercados en el ejercicio de las funciones que tiene encomendadas.
+3. El Banco de España podrá:
+a) Ser titular de cuentas y entidad gestora del Mercado de Deuda Pública.
+b) Abrir, en los términos pactados con el emisor, cuentas de valores donde los suscriptores de Deuda Pública puedan mantenerla directamente anotada.
+
+## Sección 4
+
+Sección 4.ª Medios y sistemas de pagos
+
+### Artículo 15
+
+Artículo 15. Emisión y puesta en circulación de billetes.
+1. Corresponderá al Banco de España, previa autorización del Banco Central Europeo, la facultad de emisión de billetes en euro que, sin perjuicio del régimen legal aplicable a la moneda metálica, serán los únicos de curso legal dentro del territorio español, de conformidad con lo establecido en la normativa comunitaria en vigor.
+2. Con el fin de promover la autenticidad y calidad de los billetes de euro en circulación, el Banco de España podrá establecer criterios y procedimientos de actuación en relación con su puesta en circulación, retirada, canje, custodia y recirculación, y velará por su cumplimiento.
+3. En relación con las entidades y agentes económicos a que se refiere el artículo 6, apartado 1, del Reglamento (CE) n.º 1338/2001 del Consejo de 28 de junio de 2001 por el que se definen las medidas necesarias para la protección del euro contra la falsificación, el Banco de España podrá:
+i) Recabar cuanta información y documentación sea necesaria para promover la buena conservación, calidad y autenticidad de los billetes en circulación;
+ii) llevar a cabo inspecciones in situ, incluso no anunciadas, en los locales de las entidades y agentes económicos, para controlar sus máquinas de tratamiento de billetes y, en particular, su capacidad para comprobar la autenticidad y aptitud de los billetes, y para rastrear hasta el titular de la cuenta presuntas falsificaciones de billetes en euros y billetes en euros no autenticados claramente;
+iii) verificar los procedimientos de manejo y control de las máquinas de tratamiento de billetes, el tratamiento de los billetes en euros comprobados, y la comprobación manual de autenticidad y aptitud en su caso;
+iv) llevarse muestras de los billetes en euros tratados a fin de comprobarlos en sus propios locales; y
+v) exigir a una entidad la adopción de medidas correctoras en caso de incumplimiento de las obligaciones que le resultan de aplicación.
+4. La reproducción de billetes de euro y la realización de publicidad utilizando en todo o en parte billetes que tengan o hayan tenido curso legal en España deberá ser autorizada en cada caso con carácter previo por el Banco de España, en los términos y con los requisitos reglamentariamente establecidos.
+No requerirán autorización las Administraciones públicas ni las entidades de Derecho público de ellas dependientes.
+El Banco de España podrá, con sujeción a las normas reguladoras del procedimiento sancionador aplicable a los sujetos que actúan en los mercados financieros, imponer multas de hasta un millón de euros a las personas físicas y jurídicas, y a los administradores de éstas, que realicen publicidad sin dicha autorización o con incumplimiento de las condiciones fijadas en la misma.
+Se modifica por la disposición adicional 5.1 de la Ley 8/2012, de 30 de octubre. Ref. BOE-A-2012-13487.
+ Se deroga el apartado 3 por la disposición derogatoria única.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+ Se modifica por el art. 2.8 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+### Artículo 16
+
+Artículo 16. Sistemas de pagos.
+1. A fin de promover el buen funcionamiento de los sistemas de pagos, y en el ejercicio de las funciones que le corresponden como integrante del Sistema Europeo de Bancos Centrales, el Banco de España podrá regular, mediante Circular, los sistemas de compensación y liquidación de pagos, pudiendo en particular desarrollar o completar los actos jurídicos dictados por el Banco Central Europeo e incorporar las recomendaciones de los organismos internacionales que constituyan principios aplicables a la seguridad y eficiencia de los sistemas e instrumentos de pago. También podrá gestionar, en su caso, los sistemas de compensación y liquidación de pagos correspondientes.
+2. Corresponderá al Banco de España la vigilancia del funcionamiento de los sistemas de compensación y pago. A tal efecto, el Banco de España podrá recabar, tanto de la entidad gestora de un sistema de pagos, como de los proveedores de servicios de pago, incluidas aquellas entidades que proporcionen servicios tecnológicos para los sistemas y servicios citados, cuanta información y documentación considere necesaria para valorar la eficiencia y seguridad de los sistemas e instrumentos de pago.
+3. El incumplimiento de las normas establecidas por el Banco de España a que se refiere el apartado 1, de la obligación de remisión de información a que se refiere el apartado 2, por las entidades a que se refiere el apartado 2, una vez transcurrido el plazo determinado por el Banco de España para remediar dicha situación, constituirá infracción a los efectos de lo previsto en el artículo 5, letra f), en los artículos 4, letra i), cuando la falta de remisión de información dificulte la valoración de los riesgos inherentes a los sistemas e instrumentos de pago, y 5, letra l), respectivamente, de la Ley 26/1988, de 28 de julio, de Disciplina e Intervención de las Entidades de Crédito.
+Las referencias de la citada Ley a las entidades de crédito se entenderán hechas a las entidades a que se refiere el apartado 2 de este artículo.
+4. Por razones de prudencia, el Banco de España podrá suspender la aplicación de las decisiones que adopte la entidad gestora de un sistema de pagos, y adoptar las medidas oportunas, cuando estime que dichas decisiones infringen la normativa vigente o perjudican el adecuado desarrollo de los procesos de compensación y liquidación.
+Se modifica, con efectos desde el 1 de enero de 2005, por la disposición adicional 40 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+## Capítulo III
+
+Órganos rectores
+
+### Artículo 17
+
+Artículo 17. Órganos rectores.
+Los órganos rectores del Banco de España serán:
+1. El Gobernador.
+2. El Subgobernador.
+3. El Consejo de Gobierno.
+4. La Comisión Ejecutiva.
+
+### Artículo 18
+
+Artículo 18. Competencias del Gobernador.
+Corresponderá al Gobernador del Banco de España:
+a) Dirigir el Banco y presidir el Consejo de Gobierno y la Comisión Ejecutiva.
+b) Ostentar la representación legal del Banco a todos los efectos y, en especial, ante los Tribunales de Justicia, así como autorizar los contratos y documentos y realizar las demás actividades que resulten precisas para el desempeño de las funciones encomendadas al Banco de España.
+c) Representar al Banco de España en las instituciones y organismos internacionales en los que esté prevista su participación.
+d) Ostentar la condición de miembro del Consejo de Gobierno y del Consejo General del Banco Central Europeo.
+Se modifica por el art. 3.1 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+### Artículo 19
+
+Artículo 19. Competencias del Subgobernador.
+El Subgobernador suplirá al Gobernador en los casos de vacante, ausencia o enfermedad, en cuanto al ejercicio de sus atribuciones de dirección superior y representación del Banco. Tendrá, además, las atribuciones que se fijen en el Reglamento interno del Banco de España, así como las que le delegue el Gobernador.
+
+### Artículo 20
+
+Artículo 20. Composición del Consejo de Gobierno.
+1. El Consejo de Gobierno estará formado por:
+a) El Gobernador.
+b) El Subgobernador.
+c) Seis Consejeros.
+d) El Director general del Tesoro y Política Financiera.
+e) El Vicepresidente de la Comisión Nacional del Mercado de Valores.
+2. Asistirán al Consejo los directores generales del Banco, con voz y sin voto.
+También asistirá un representante del personal del Banco, elegido en la forma que establezca el Reglamento interno del Banco, con voz y sin voto.
+3. El Director general del Tesoro y Política Financiera y el Vicepresidente de la Comisión Nacional del Mercado de Valores carecerán de voto cuando el Consejo se pronuncie sobre asuntos referentes a las materias que, reguladas en el capítulo II, están comprendidas en la sección 1.a, así como en las secciones 2.a y 4.a, pero en estos últimos casos sólo cuando se pronuncie sobre cuestiones que resulten de las funciones del Sistema Europeo de Bancos Centrales.
+4. El Ministro de Economía y Hacienda o el Secretario de Estado de Economía podrán asistir, con voz y sin voto, a las reuniones del Consejo cuando lo juzguen preciso a la vista de la especial trascendencia de las materias que vayan a considerarse. También podrán someter una moción a la deliberación del Consejo de Gobierno.
+5. El Consejo de Gobierno tendrá como Secretario, con voz y sin voto, al Secretario del Banco de España.
+Se modifica el apartado 3 por la disposición adicional 24.1.a) de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Esta modificación entra en vigor una vez que se constituya el Banco Central Europeo, según establece la disposición adicional 24.2.
+
+### Artículo 21
+
+Artículo 21. Competencias del Consejo de Gobierno.
+1. Corresponderá al Consejo de Gobierno:
+a) Aprobar las directrices generales de actuación del Banco para el cumplimiento de las funciones encomendadas al mismo.
+b) Debatir las cuestiones relativas a la política monetaria y supervisar la contribución del Banco a la instrumentación de la política monetaria del SEBC llevada a cabo por la Comisión Ejecutiva, todo ello con respecto a las orientaciones e instrucciones del BCE y a la independencia y obligación de secreto del Gobernador como miembro de los órganos de gobierno del BCE.
+c) Aprobar, a propuesta de la Comisión ejecutiva, el informe anual del Banco y, en su caso, los demás informes que deba el Banco de España elevar a las Cortes Generales, al Gobierno o al Ministro de Economía y Hacienda.
+d) Aprobar las "Circulares monetarias'' y las "Circulares''del Banco.
+e) Elevar al Gobierno las propuestas de separación a que se refiere la letra d) del número 4 del artículo 25.
+En la adopción de tales decisiones carecerá de voto el miembro del Consejo al que se refiera la propuesta de separación.
+f) Aprobar el Reglamento interno del Banco, a propuesta de la Comisión Ejecutiva.
+g) Aprobar la propuesta de presupuestos del Banco, así como formular sus cuentas anuales y la propuesta de distribución de beneficios.
+h) Aprobar las directrices de la política de personal y ratificar el nombramiento de los directores generales.
+i) Imponer las sanciones cuya adopción sea competencia del Banco de España.
+j) Aprobar las propuestas de sanción que el Banco de España deba elevar al Ministro de Economía y Hacienda.
+k) Resolver los recursos o reclamaciones interpuestos contra las resoluciones del Banco de España, cuando su conocimiento corresponda a éste.
+l) Adoptar cualesquiera otros acuerdos precisos para el desempeño de las funciones encomendadas al Banco de España por la presente Ley que no sean competencia exclusiva de la Comisión Ejecutiva, pudiendo delegar en el Gobernador, en el Subgobernador o en la Comisión Ejecutiva las atribuciones y cometidos que considere oportunos. Expresamente, establecerá los casos en que sea posible la subdelegación.
+2. La Presidencia del Consejo de Gobierno corresponderá por este orden:
+1.º Al Gobernador.
+2.º Al Subgobernador.
+3.º Al Consejero no nato de mayor edad.
+3. El Consejo de Gobierno se reunirá, al menos, diez veces al año y siempre que lo convoque el Gobernador.
+El Gobernador del Banco, como Presidente del Consejo, acordará la convocatoria y fijará el orden del día de las sesiones.
+Los miembros del Consejo de Gobierno podrán solicitar su convocatoria, que deberá producirse siempre que la solicitud hubiera sido formalizada, al menos, por dos Consejeros. La solicitud indicará expresamente el orden del día de la convocatoria especial.
+4. El Consejo de Gobierno quedará válidamente constituido con la presencia de, al menos, cinco de sus miembros, excluidos los natos, y de su Secretario. Los acuerdos se tomarán por mayoría de votos y en caso de empate decidirá el voto del Presidente.
+Se modifica por el art. 3.2 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+### Artículo 22
+
+Artículo 22. Composición de la Comisión Ejecutiva.
+1. La Comisión Ejecutiva estará formada por:
+a) El Gobernador, que actuará como Presidente.
+b) El Subgobernador.
+c) Dos Consejeros.
+2. Asistirán a sus sesiones, con voz y sin voto, los directores generales del Banco de España.
+3. Será Secretario, con voz y sin voto, el Secretario del Banco de España.
+
+### Artículo 23
+
+Artículo 23. Competencias de la Comisión Ejecutiva.
+1. Corresponderá a la Comisión Ejecutiva, con sujeción a las directrices del Consejo de Gobierno:
+a) Contribuir a la instrumentación de la política monetaria desarrollada por el SEBC de conformidad con lo dispuesto en el artículo 21.1.b).
+b) Resolver sobre las autorizaciones administrativas que deba conceder el Banco de España.
+c) Organizar el Banco y efectuar el nombramiento de directores generales y del personal, fijando sus retribuciones de acuerdo con lo que al respecto disponga el Reglamento interno del Banco y con las directrices generales aprobadas por el Consejo de Gobierno. Este órgano deberá ratificar, en todo caso, el nombramiento de los directores generales.
+d) Someter al Consejo de Gobierno las propuestas cuya resolución o aprobación competan a éste.
+e) Desempeñar los cometidos que le hubiera delegado expresamente el Consejo de Gobierno.
+f) Formular a las entidades de crédito las recomendaciones y requerimientos precisos, así como acordar respecto a ellas y a sus órganos de administración y dirección la incoación de expedientes sancionadores y las medidas de intervención, de sustitución de sus administraciones, o cualesquiera otras medidas cautelares previstas en el ordenamiento jurídico cuyo ejercicio se haya encomendado al Banco de España.
+De las medidas cautelares que adopte la Comisión Ejecutiva en el ejercicio de esta competencia dará cuenta, a la mayor brevedad, al Consejo de Gobierno.
+g) Administrar el Banco en la esfera del Derecho privado y disponer de sus bienes.
+h) Acordar las demás operaciones o transacciones que deba realizar el Banco para el desempeño de sus funciones, delegando en las comisiones o personas que considere pertinentes.
+2. La Comisión Ejecutiva se reunirá siempre que la convoque el Gobernador por iniciativa propia o a petición de dos de sus miembros.
+Los acuerdos se tomarán por mayoría de votos. En caso de empate, decidirá el voto del Presidente.
+Se modifica por el art. 3.3 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+### Artículo 24
+
+Artículo 24. Designación de los órganos rectores.
+1. El Gobernador del Banco de España será nombrado por el Rey, a propuesta del Presidente del Gobierno, entre quienes sean españoles y tengan reconocida competencia en asuntos monetarios o bancarios.
+Con carácter previo al nombramiento del Gobernador, el Ministro de Economía y Hacienda comparecerá en los términos previstos en el artículo 203 del Reglamento del Congreso de los Diputados ante la Comisión competente, para informar sobre el candidato propuesto.
+2. El Subgobernador será designado por el Gobierno, a propuesta del Gobernador, y deberá reunir sus mismas condiciones.
+3. Los seis Consejeros serán designados por el Gobierno, a propuesta del Ministro de Economía y Hacienda, oído el Gobernador del Banco de España. Deberán ser españoles, con reconocida competencia en el campo de la economía o el derecho.
+4. Los dos Consejeros miembros de la Comisión Ejecutiva se designarán por el Consejo de Gobierno, a propuesta del Gobernador, de entre sus miembros no natos.
+
+### Artículo 25
+
+Artículo 25. Renovación y cese de los órganos rectores.
+1. El mandato de Gobernador y Subgobernador tendrá una duración de seis años, sin posible renovación para el mismo cargo.
+2. Los Consejeros no natos tendrán un mandato de seis años, renovables por una sola vez.
+3. Los Consejeros designados para la Comisión Ejecutiva lo serán por el período que les reste de su mandato ordinario como Consejeros.
+4. El Gobernador, el Subgobernador y los Consejeros no natos cesarán por las causas siguientes:
+a) Expiración de su mandato.
+b) Renuncia, que surtirá efectos por la mera notificación al Gobierno o, en cuanto a la condición de miembro de la Comisión Ejecutiva, por la comunicación al Consejo de Gobierno.
+c) Separación acordada por el Gobierno, por incapacidad permanente para el ejercicio de su función, incumplimiento grave de sus obligaciones, incompatibilidad sobrevenida o procesamiento por delito doloso. Salvo en el caso de procesamiento por delito doloso, el acuerdo de separación deberá adoptarse a propuesta del Consejo de Gobierno del Banco, previa audiencia del interesado.
+5. En caso de cese de cualquiera de las personas relacionadas en este artículo antes de la extinción de su mandato, su sustituto tendrá el plazo de mandato ordinario que le corresponda según el cargo que ostentara.
+Se modifica por la disposición adicional 5.2 de la Ley 8/2012, de 30 de octubre. Ref. BOE-A-2012-13487.
+ Se modifican los apartados 2 y 5 por la disposición adicional 24.1.b) y c) de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Téngase en cuenta la disposición adicional 24.3 en cuanto a la aplicación del apartado 2.
+
+### Artículo 26
+
+Artículo 26. Incompatibilidades.
+1. El Gobernador y el Subgobernador estarán sujetos al régimen de incompatibilidades de los altos cargos. Además, serán incompatibles para el ejercicio de cualquier profesión o actividad pública o privada, salvo cuando sean inherentes a su condición o les vengan impuestas por su carácter de representantes del Banco.
+Al cesar en el cargo, y durante los dos años posteriores, no podrán ejercer actividad profesional alguna relacionada con las entidades de crédito o con los mercados de valores. Durante dicho período tendrán derecho a percibir una compensación económica mensual igual al 80 por 100 del total de retribuciones asignadas al cargo respectivo durante el período indicado. No habrá lugar a la percepción de dicha compensación en caso de desempeño, de forma remunerada, de cualquier puesto de trabajo, cargo o actividad en el sector público o privado, con excepción de la docencia, ni cuando el cese se haya producido en virtud de separación acordada por el Gobierno.
+2. Los Consejeros no podrán ejercer durante su mandato actividades profesionales relacionadas con entidades de crédito, cualquiera que sea su naturaleza, con los mercados de valores o con instituciones financieras privadas. El puesto de Consejero del Banco de España es compatible con el desarrollo de la función docente y de investigación.
+Se modifica el apartado 2 por el art. 3.4 de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047
+
+### Artículo 27
+
+Artículo 27. Régimen de retribuciones.
+La retribución y demás condiciones de empleo del Gobernador, del Subgobernador y de los Consejeros serán fijadas por el Ministro de Economía y Hacienda, a propuesta del Consejo de Gobierno del Banco.
+Las Cortes Generales serán informadas de dicho régimen retributivo y de empleo.
+
+### Artículo 28
+
+Artículo 28. Limitaciones aplicables a los miembros del Consejo de Gobierno.
+1. Los miembros del Consejo de Gobierno deberán abstenerse de adquirir o poseer bienes o derechos, y de realizar cualesquiera actividades, que puedan menoscabar su independencia e imparcialidad en el ejercicio de sus funciones, producirles conflictos de intereses, o permitirles la utilización de información privilegiada.
+En particular, deberán encomendar contractualmente a una entidad financiera registrada en la Comisión Nacional del Mercado de Valores la administración de cualesquiera valores o activos financieros negociables de que fueran titulares ellos o sus cónyuges no separados e hijos dependientes. La entidad efectuará la administración con sujeción exclusivamente a las directrices generales de rentabilidad y riesgo establecidas en el contrato, sin que pueda recabar ni recibir instrucciones de inversión de los interesados. Tampoco podrá revelarles la composición de sus inversiones, salvo que se trate de Instituciones de Inversión Colectiva o que, por causa justificada, medie autorización de la Comisión Nacional del Mercado de Valores. Sin perjuicio de la responsabilidad de los interesados, el incumplimiento por la entidad de tales obligaciones tendrá la consideración de infracción muy grave a efectos del régimen sancionador que como entidad financiera le sea aplicable.
+2. Dentro de los tres meses siguientes a su toma de posesión y cese, así como anualmente, los miembros del Consejo de Gobierno deberán efectuar una declaración relativa a sus actividades y a su patrimonio, y a los de su cónyuge no separado e hijos dependientes. La declaración se remitirá al Ministerio para las Administraciones Públicas, que podrá verificar los datos declarados y comprobará si los intereses revelados en ellos suponen menoscabo de lo dispuesto en el párrafo precedente.
+La declaración se inscribirá en el Registro de Intereses de Altos Cargos.
+
+### Artículo 29
+
+Artículo 29. Régimen sancionador.
+Sin perjuicio de lo dispuesto en las leyes penales y en el artículo 25.4, d), de esta Ley, la infracción por los miembros de los órganos rectores del Banco del deber de secreto establecido en el artículo 6, de las reglas sobre incompatibilidades establecidas en el artículo 26 y de las limitaciones establecidas en el artículo 28, serán sancionables con multas de hasta cincuenta millones de pesetas. La sanción se graduará atendiendo a la naturaleza y entidad de la infracción, a la gravedad del peligro o perjuicio causado, a la conducta espontánea del infractor para subsanarla, y a las eventuales ganancias obtenidas como consecuencia de la infracción.
+Corresponderá al Gobierno la imposición de la sanción previo expediente que, instruido por el Ministerio para las Administraciones Públicas, se sujetará a las reglas del procedimiento sancionador aplicable a los funcionarios. En todo caso, la incoación del expediente deberá efectuarse a propuesta o previo informe favorable del Consejo de Gobierno del Banco.
+
+### Artículo 30
+
+Artículo 30. Régimen aplicable al Secretario y Directores generales.
+Lo dispuesto en los artículos 6, 26.2, 28 y 29 será también aplicable al Secretario y Directores generales del Banco, y al representante del personal al que se refiere el artículo 20.2. Para todos ellos el régimen sancionador establecido para el personal del Banco en su Reglamento interno tendrá carácter supletorio.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. La letra g) del artículo 5 de la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito, queda redactada de la siguiente forma:
+«g) El incumplimiento de las normas vigentes en materia de coeficientes de caja y demás obligaciones derivadas de los procedimientos de control monetario.»
+2. Se añade un nuevo apartado n) al artículo 4 de la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito, que queda redactado de la siguiente forma:
+«n) Las infracciones previstas en el artículo 5.g) en materia de normas obligatorias relativas al coeficiente de caja y obligaciones derivadas de los procedimientos de control monetario, cuando durante los cinco años anteriores a su comisión hubiese sido impuesta a la entidad de crédito sanción firme por el mismo tipo de infracción.»
+3. La letra c) del artículo 18 de la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito, queda redactada como sigue:
+«c) La imposición de sanciones por infracciones muy graves corresponderá al Ministro de Economía y Hacienda, a propuesta del Banco de España, salvo la prevista en la letra n) del artículo 4, que se impondrá por el Banco de España, y la de revocación de la autorización, que se impondrá por el Consejo de Ministros.»
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Las menciones que la normativa vigente pueda contener al Consejo General y al Consejo Ejecutivo del Banco de España se entenderán efectuadas, respectivamente, al Consejo de Gobierno y a la Comisión Ejecutiva.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Se da la siguiente redacción al primer párrafo del artículo 4 de la Ley 10/1975, de 12 de marzo, sobre Regulación de la Moneda Metálica:
+«Dentro del límite anual que, en su caso, hubiera señalado el Banco de España, el Ministerio de Economía y Hacienda acordará la acuñación de moneda metálica y, en particular: ...»
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Se introducen las siguientes modificaciones en el texto refundido de la Ley General Presupuestaria, aprobado por el Real Decreto legislativo 1091/1988, de 23 de septiembre:
+La letra e) del artículo 8 quedará redactada como sigue:
+«e) Determinar las directrices de política económica y financiera del Estado.»
+La letra g) del artículo 9 quedará redactada como sigue:
+«g) Dirigir la ejecución de la política financiera aprobada por el Gobierno y dictar las disposiciones necesarias a tal fin.»
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Se da la siguiente redacción al artículo 1 de la Ley 24/1984, de 29 de junio, sobre Interés Legal del Dinero:
+«El interés legal del dinero se determinará en la Ley de Presupuestos Generales del Estado.»
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Régimen jurídico aplicable a las garantías constituidas a favor del Banco de España, del Banco Central Europeo o de otros Bancos Centrales Nacionales de la Unión Europea, en el ejercicio de sus funciones.
+1. A efectos de lo previsto en la presente disposición se entenderá por garantía cualquier prenda, operación simultánea, compraventa con pacto de recompra, afección, derecho de retención, depósito, cesión o cualquier otro negocio jurídico con finalidad de garantía, que recaiga sobre cualquier activo realizable o susceptible de apropiación, incluido el dinero en efectivo, y que tenga por finalidad asegurar los derechos y obligaciones derivados de cualquier operación presente o futura, concluida con el Banco de España, el Banco Central Europeo u otro banco central nacional de la Unión Europea.
+2. A estas garantías les será de aplicación el siguiente régimen jurídico:
+a) Su constitución no requerirá, para su plena validez, eficacia frente al garante o frente a terceros, ejecutabilidad, incluso a los efectos de los artículos 517 y 571 y siguientes de la Ley de enjuiciamiento civil, o admisibilidad como prueba, la intervención de notario ni el cumplimiento de ningún otro requisito formal distinto de, por un lado, la constancia por escrito o de forma jurídicamente equivalente del acuerdo de garantía o, en su caso, la manifestación unilateral del garante, y, por otro lado, de la aportación del activo objeto de la garantía y la constancia por escrito o de forma jurídicamente equivalente de dicha aportación.
+A los efectos de esta disposición adicional, el registro o anotación por medios electrónicos y en cualquier soporte duradero tendrá la consideración de forma jurídicamente equivalente a la constancia por escrito.
+La formalización de la correspondiente obligación principal tampoco requerirá para su plena validez, eficacia frente al garante o frente a terceros, ejecutabilidad, incluso a los efectos de los artículos 517 y 571 y siguientes de la Ley de enjuiciamiento civil, o admisibilidad como prueba, la intervención de notario ni el cumplimiento de ningún otro requisito formal.
+b) Para operaciones en las que el beneficiario último de la garantía sea el Banco de España, el Banco Central Europeo u otro banco central nacional de la Unión Europea, ya sea directamente o mediante la intermediación de un tercero, cuando los activos objeto de la garantía sean valores o instrumentos financieros representados mediante anotaciones en cuenta, su aportación y la constancia por escrito o de forma jurídicamente equivalente de dicha aportación podrá instrumentarse mediante alguno de los procedimientos siguientes:
+1.º Bien mediante transferencia contable, con desplazamiento de la propiedad, de los valores o instrumentos financieros a una cuenta del beneficiario o de un tercero actuando directa o indirectamente en nombre o por cuenta del beneficiario, siguiendo el artículo 9 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, perdiendo el garante la propiedad del valor o instrumento financiero a favor del beneficiario o tercero.
+2.º Bien mediante la anotación de la garantía en la cuenta correspondiente siguiendo el artículo 10 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, conservando el garante la propiedad del valor o instrumento financiero.
+3.º Bien mediante transferencia contable o anotación de los valores o instrumentos financieros, sin desplazamiento de la propiedad, en una cuenta a nombre del beneficiario o de un tercero actuando directa o indirectamente en nombre o por cuenta del beneficiario. Dicha cuenta tendrá como único objetivo recibir las anotaciones de las pignoraciones realizadas sobre valores e instrumentos representados mediante anotaciones en cuenta manteniendo el garante la propiedad de los mismos.
+En el supuesto de que el objeto de la garantía sea una cuenta de valores o instrumentos financieros, su aportación y la constancia por escrito o de forma jurídicamente equivalente de dicha aportación se instrumentará mediante la anotación de la garantía en la correspondiente cuenta, siendo de aplicación a dicha prenda mutatis mutandi lo previsto en el último párrafo del apartado e) siguiente.
+c) En el supuesto de que los activos objeto de la garantía sean valores representados mediante títulos físicos, su aportación y la constancia por escrito o de forma jurídicamente equivalente de dicha aportación podrá instrumentarse mediante su entrega al beneficiario de la garantía o a un tercero establecido por común acuerdo entre las partes.
+d) Para su ejecución bastará con la certificación expedida por el Banco de España, el Banco Central Europeo o el banco central nacional de la Unión Europea que corresponda, acreditativa de la cuantía de los importes vencidos, líquidos y exigibles que se ejecutan, junto con la orden de enajenación, apropiación o traspaso libre de pago de los activos constitutivos de la garantía, según corresponda de conformidad con lo previsto en este apartado. En esta certificación deberá hacerse constar que la liquidación se ha practicado de conformidad con el acuerdo, pacto y/o norma de que deriva la obligación de que se trate.
+A elección del beneficiario, y con sujeción a los términos del acuerdo de garantía, la ejecución podrá llevarse a cabo mediante cualquiera de los procedimientos reconocidos por el ordenamiento jurídico vigente.
+Cuando el objeto de la garantía esté constituido por activos negociados en un mercado organizado, su enajenación se hará a través del organismo rector correspondiente. Sin perjuicio de cualesquiera otros procedimientos de enajenación reconocidos por el ordenamiento jurídico vigente, en los demás casos la enajenación podrá llevarse a cabo también mediante subasta organizada por el Banco de España.
+Asimismo, en aquellos supuestos en los que la constitución de la garantía no se hubiera instrumentado ya mediante la transmisión de la propiedad de los correspondientes activos, la ejecución podrá también realizarse mediante la apropiación por el Banco de España, el Banco Central Europeo o el banco central nacional de la Unión Europea que corresponda de los activos sobre los que se constituyó la garantía y compensación de su valor o aplicación de su valor al cumplimiento de las obligaciones garantizadas, siempre y cuando: (i) así se hubiera pactado entre la entidad que aporta los activos de garantía y el Banco de España, el Banco Central Europeo o el banco central nacional de la Unión Europea que corresponda y (ii) se hubiera previsto entre las partes las modalidades de valoración de los activos de garantía.
+En todo caso, el sobrante que resulte una vez satisfecha la deuda correspondiente se reintegrará a la entidad que haya aportado los activos de garantía.
+e) Cuando el objeto de la garantía consista en prenda sobre depósitos dinerarios, el beneficiario o, en su caso, la entidad depositaria del efectivo deberá anotar en la correspondiente cuenta la constitución de la prenda sobre la cuenta o, en su caso, sobre el importe pignorado, una vez que tenga constancia del consentimiento del titular de dicha cuenta.
+Su constitución no requerirá, para su plena validez, eficacia frente al garante o frente a terceros, ejecutabilidad o admisibilidad como prueba, la intervención de notario ni el cumplimiento de ningún otro requisito formal distinto de la anotación a la que se refiere el párrafo anterior, que equivaldrá a la aportación del activo objeto de la garantía y la constancia por escrito o de forma jurídicamente equivalente de dicha aportación.
+Dicha prenda se ejecutará por compensación, quedando a disposición del titular de la cuenta los fondos sobrantes, si los hubiera, una vez satisfecha la deuda.
+A partir de la anotación prevista en el primer párrafo de este apartado, las cantidades ingresadas en la cuenta cuyo saldo permanece pignorado o, en su caso, únicamente el importe pignorado quedarán por el mero hecho de su ingreso afectos de manera irrevocable y sin limitación alguna al cumplimiento íntegro de las obligaciones garantizadas. Igualmente, y salvo que las partes hayan acordado lo contrario, a partir del momento de la anotación de la prenda, el titular de la cuenta no podrá retirar fondos depositados en la misma o, en su caso, el importe pignorado sin el consentimiento previo del beneficiario de la garantía.
+f) Los activos en que se materialicen las garantías podrán aplicarse a la liquidación de las obligaciones garantizadas incluso en caso de apertura de un procedimiento concursal o de liquidación administrativa. Dichas garantías podrán ejecutarse de forma separada, inmediatamente, de acuerdo con lo pactado entre las partes y con lo previsto en esta disposición adicional.
+Las garantías no se verán limitadas, restringidas o afectadas en cualquier forma por el concurso o la liquidación administrativa de la otra parte.
+En particular, la constitución, aceptación o ejecución de las garantías a las que se refiere esta disposición adicional, el saldo de las cuentas o registros en que se materialicen y la formalización de las obligaciones garantizadas no serán impugnables en el caso de acciones de reintegración vinculadas a un procedimiento concursal o de liquidación administrativa.
+g) La fecha de constitución de la garantía, así como el saldo y fecha que figuren en la certificación emitida por el Banco de España, el Banco Central Europeo o los demás bancos centrales nacionales de la Unión Europea a que se refiere el párrafo b), harán prueba frente a la propia entidad y a terceros.
+Las garantías constituidas de acuerdo con las normas de esta disposición adicional no serán susceptibles de embargo, traba, gravamen ni de ninguna otra restricción o retención de cualquier naturaleza tanto legal como convencional, desde el momento de su constitución.
+3. Las partes podrán pactar que, en el caso de variaciones en el valor de los activos objeto de la garantía o en la cuantía de las obligaciones garantizadas, habrán de aportarse nuevos activos, incluido el efectivo, o, en su caso, y cuando así se pacte, devolverse para restablecer el equilibrio entre el valor de las obligaciones garantizadas y el valor de las garantías constituidas para asegurarlas. En tal caso, dichos activos tendrán la consideración de parte integrante de la garantía inicial y serán tratados como si hubieran sido aportados de manera simultánea a la aportación del objeto inicial de la garantía financiera, siéndoles de aplicación todo lo dispuesto en la presente disposición.
+4. La constitución de garantías sobre préstamos o créditos no hipotecarios a favor del Banco de España, del Banco Central Europeo o de otros bancos centrales nacionales de la Unión Europea, para asegurar el cumplimiento de las obligaciones presentes o futuras contraídas frente a ellos por operaciones concluidas en el ejercicio de sus funciones se regirá, además de por lo dispuesto en el apartado 1, en los párrafos a), d), f) y g) del apartado 2 y en los apartados siguientes de la presente disposición, por las siguientes normas:
+a) Los préstamos y créditos serán susceptibles de pignoración o cesión cualesquiera que sean los requisitos formales o materiales que las partes hubiesen pactado al respecto de su cesión o gravamen. El suministro de información o documentación relativa a los préstamos o créditos o los derechos de crédito derivados de ellos, incluyendo la relacionada con los correspondientes deudores y, en su caso, garantes, al Banco de España, el Banco Central Europeo o los bancos centrales nacionales de la Unión Europea, así como, en su caso, a aquellos terceros a los que estos pudieran ceder sus derechos en caso de transmisión de los derechos de crédito o de ejecución de las garantías sobre ellos, no supondrá el incumplimiento de la normativa sobre secreto bancario o protección de datos personales.
+La pignoración o cesión se referirá únicamente, salvo pacto en contrario, a los derechos de crédito dimanantes del correspondiente contrato. En ningún caso el cesionario o beneficiario de la garantía asumirá la obligación de poner fondos a disposición de los acreditados. La pignoración o cesión realizadas de conformidad con lo dispuesto en este apartado en ningún caso supondrá incumplimiento de los préstamos o créditos correspondientes y no requerirá el consentimiento del deudor o garante de los créditos pignorados o cedidos.
+b) La aportación y la constancia por escrito o de forma jurídicamente equivalente de la aportación de los derechos de crédito podrá instrumentarse mediante la entrega al beneficiario de los modelos aprobados a tal efecto por éste o mediante la comunicación por escrito o de forma jurídicamente equivalente al beneficiario de los datos de los derechos de crédito en la forma establecida a tal efecto por éste, sin que sea necesario el cumplimiento de ningún otro requisito formal para la plena validez de la pignoración o cesión, o su eficacia frente al deudor y, en su caso, el garante, o frente a cualesquiera terceros, ni para su ejecutabilidad o admisibilidad como prueba.
+c) Los frutos de los préstamos o créditos cedidos o pignorados corresponderán, salvo pacto en contrario, a la entidad de crédito que aporta la garantía.
+d) En caso de incumplimiento de las obligaciones garantizadas, el beneficiario de la garantía adquirirá la plena titularidad de los correspondientes derechos de crédito. No obstante, y sin perjuicio de cualesquiera otros procedimientos de ejecución reconocidos en el ordenamiento jurídico vigente, podrá también ejecutarse la garantía mediante subasta organizada por el Banco de España.
+e) El deudor o, en su caso, garante de un derecho de crédito que haya sido cedido o pignorado a favor del Banco de España, el Banco Central Europeo o los bancos centrales nacionales de la Unión Europea no podrá oponer frente a éstos, ni frente a aquellos terceros a los que se pudiera transmitir posteriormente el correspondiente derecho de crédito, ninguna de las excepciones que le hubieran correspondido frente a la entidad de crédito cedente o pignorante, ni siquiera la compensación.
+5. En los contratos que concluya en el ejercicio de sus funciones, el Banco de España podrá pactar su resolución o extinción incluso en los casos de situaciones concursales o de liquidación administrativa. Asimismo, en tales supuestos de concurso o de liquidación administrativa, las operaciones garantizadas con arreglo a lo dispuesto en esta disposición adicional tendrán la consideración de créditos de derecho público a los efectos de la aplicación del artículo 91.4 de la Ley 22/2003, de 9 de julio, Concursal, en la parte que no pueda ser satisfecha con cargo a las garantías constituidas.
+6. En lo no previsto expresamente en la presente disposición adicional, será de aplicación supletoriamente el régimen que, respecto de las garantías financieras, establece el capítulo II del Real Decreto-ley 5/2005, de 11 de marzo, de reformas urgentes para el impulso a la productividad y para la mejora de la contratación pública.
+7. Reglamentariamente podrá desarrollarse lo establecido en la presente disposición.
+Se modifica por la disposición final 2 del Real Decreto-ley 2/2012, de 3 de febrero. Ref. BOE-A-2012-1674.
+ Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 39, de 15 de febrero de 2012. Ref. BOE-A-2012-2249.
+ Se modifica el apartado 2.b), con efectos desde el 1 de enero de 2010, por la disposición final 2 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
+ Se modifican los apartados 2.d) y 4.b) y se añaden los apartados 2.e) y 5 por la disposición adicional 4 del Real Decreto Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+ Se añade por el art. 7 de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+1. Ningún tribunal ni autoridad administrativa podrá dictar providencia de embargo ni despachar mandamiento de ejecución contra los bienes y derechos patrimoniales pertenecientes, poseídos o gestionados por el Banco de España, cuando se encuentren materialmente afectos al ejercicio de funciones públicas o al desenvolvimiento de potestades administrativas.
+Idéntico régimen será de aplicación a aquellos bienes y derechos patrimoniales pertenecientes, poseídos o gestionados por los Estados o los Bancos Centrales extranjeros en los que se materialice la inversión de sus reservas exteriores, así como a los que pertenezcan o sean poseídos o gestionados por el Banco Internacional de Pagos.
+2. Será válida la renuncia expresa a la prerrogativa contenida en el apartado anterior, ya se formule previa o posteriormente al inicio del procedimiento judicial o administrativo correspondiente.
+3. El régimen anterior se aplicará en defecto de Tratados o Acuerdos Internacionales suscritos por España que se refieran a los sujetos y las materias contenidas en la presente Disposición.
+Se añade por la disposición final 4 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Disposición adicional octava
+
+Disposición adicional octava. Entidades instrumentales
+1. El Banco de España, de acuerdo con la normativa del Banco Central Europeo, podrá encomendar la producción de billetes en euros que le corresponda a una sociedad mercantil de capital público en la que ostente una mayoría de control, cuyo objeto social exclusivo será la producción de billetes en euros en el ámbito del Sistema Europeo de Bancos Centrales.
+Con independencia de su sujeción al Derecho privado, resultará de aplicación a esta sociedad el régimen patrimonial, presupuestario y de contratación de personal y bienes y servicios del Banco de España. Su presupuesto se incluirá como anexo al presupuesto del Banco de España.
+2. Sin perjuicio de su sujeción a la Ley 50/2002, de 26 de diciembre de Fundaciones, le será de aplicación a la Fundación Centro de Estudios Monetarios y Financieros (CEMFI) el régimen patrimonial presupuestario y de contratación de personal y bienes y servicios del Banco de España. El presupuesto de esta fundación se incluirá como anexo a presupuesto del Banco de España.
+Se añade por la disposición final 2 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+El Consejo de Gobierno y la Comisión Ejecutiva deberán quedar constituidos con arreglo a esta Ley en un plazo de dos meses desde su entrada en vigor. En tal momento quedarán extinguidos los hasta entonces vigentes órganos rectores y los mandatos de los actuales Consejeros.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Hasta tanto no se aprueben los convenios mencionados en los artículos 13.1 y 14.1, el Banco de España, sin perjuicio de lo dispuesto en el artículo 13.2, seguirá prestando al Tesoro y, en su caso, a las Comunidades Autónomas los servicios de tesorería y los relativos a la Deuda Pública en los términos previstos por las disposiciones vigentes.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+En tanto no sean sustituidas, seguirán vigentes las disposiciones dictadas en desarrollo de la derogada Ley 26/1983, de 26 de diciembre, de Coeficiente de Caja de los Intermediarios Financieros.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+1. Quedan derogadas la Ley 30/1980, de 21 de junio, de Órganos Rectores del Banco de España; la Ley 26/1983, de 26 de diciembre, de Coeficientes de Caja de los Intermediarios Financieros; el párrafo primero de la disposición adicional octava de la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito, así como cualquier otra disposición que se oponga al contenido de la presente.
+2. A la entrada en vigor de la presente Ley quedarán sin efecto el Reglamento general del Banco de España de 23 de marzo de 1948 y sus Estatutos de 24 de julio de 1947, en cuanto pudiesen encontrarse vigentes.
+
+### Disposición final primera
+
+Disposición final primera.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+### Disposición final segunda
+
+Disposición final segunda.
+(Derogada)
+Se deroga por la disposición adicional 24.1.d) de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley.
+Madrid, 1 de junio de 1994.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

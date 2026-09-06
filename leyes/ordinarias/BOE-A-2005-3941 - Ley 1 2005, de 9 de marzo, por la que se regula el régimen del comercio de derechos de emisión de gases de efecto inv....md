@@ -1,0 +1,1327 @@
+# Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.
+
+- Identificador BOE: `BOE-A-2005-3941`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2005-3941
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que presenten vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+I
+La Directiva 2003/87/CE del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, por la que se establece un régimen para el comercio de derechos de emisión de gases de efecto invernadero en la Comunidad y por la que se modifica la Directiva 96/61/CE, constituye, dentro del Programa Europeo de Cambio Climático, la iniciativa más relevante de la Unión Europea (UE) para lograr que la Comunidad y sus Estados miembros puedan cumplir el compromiso de reducción de emisiones de gases de efecto invernadero, que asumieron al ratificar el Protocolo de Kioto en la Convención Marco de Naciones Unidas sobre el Cambio Climático, el 30 de mayo de 2002.
+El régimen que implanta la directiva se inspira en uno de los instrumentos de mercado previstos en el Protocolo de Kioto, el comercio de emisiones, que, junto a los basados en proyectos de inversión en tecnología limpia en países terceros (desarrollo limpio y aplicación conjunta), constituyen los llamados mecanismos de flexibilidad del Protocolo de Kioto.
+La Directiva 2003/87/CE señala entre sus principales objetivos los de:
+a) Ayudar a cumplir con las obligaciones derivadas de la Convención y el Protocolo de Kioto.
+b) Ser un mecanismo complementario del esfuerzo de reducción de emisiones de gases de efecto invernadero que debe realizarse mediante medidas y políticas internas.
+c) Disminuir los costes de reducción de las emisiones, pues el comercio permitirá que, en la UE, las emisiones se reduzcan allí donde menor coste económico conlleve dicha reducción.
+d) Garantizar el buen funcionamiento del mercado interior para evitar las distorsiones de la competencia que podría generar el establecimiento de regímenes nacionales distintos.
+e) Adquirir experiencia en el funcionamiento del comercio de emisiones antes del año 2008 en que empezará a funcionar el comercio de emisiones internacional previsto en el artículo 17 del Protocolo de Kioto.
+Esta Ley tiene por objeto transponer la citada directiva, y se justifica en la extraordinaria y urgente necesidad de atender los siguientes requerimientos:
+1.º En primer lugar, es necesario cumplir el calendario de aplicación previsto en la directiva que exige, entre otras cuestiones, que todas las instalaciones sometidas a su ámbito de aplicación cuenten con una autorización de emisión de gases de efecto invernadero el 1 de enero de 2005, y que el Registro nacional de derechos de emisión esté operativo el 1 de octubre de 2004.
+2.º En segundo lugar, las empresas necesitan conocer con tiempo suficiente las obligaciones a las que quedarán sujetas y las inversiones necesarias para hacerles frente. En consecuencia, dado que el sistema debe estar en vigor el 1 de enero de 2005 y que el plazo necesario para que la Administración competente resuelva sobre la solicitud de autorización es de tres meses, resulta imprescindible que los titulares de las instalaciones afectadas conozcan el régimen aplicable y presenten su solicitud de autorización y de asignación de derechos, a más tardar, el 30 de septiembre de 2004.
+3.º En tercer lugar, el mercado de derechos de emisión se configura como un mercado internacional, por lo que su implantación se debe acompasar a la del resto de los países de la UE, con el fin de garantizar que nuestros agentes económicos participen en aquél en condiciones de igualdad.
+4.º Y, en cuarto lugar, la inmediata aprobación del Plan Nacional de asignación de derechos de emisión resulta imprescindible para evitar que se produzcan situaciones que pudieran resultar contrarias al Derecho comunitario de la competencia, en particular, en el ámbito de las ayudas de Estado y que podrían conducir a la devolución por las empresas de los beneficios indebidamente percibidos, previos los oportunos procedimientos de investigación o, en su caso, de infracción.
+II
+El capítulo I contiene las disposiciones generales del régimen de comercio de derechos de emisión.
+El régimen de comercio de derechos de emisión se aplicará inicialmente a las emisiones de dióxido de carbono procedentes de instalaciones que desarrollan las actividades enumeradas en el anexo I y superen los umbrales de capacidad que en él se establecen.
+Las actividades enumeradas en el anexo I incluyen grandes focos de emisión en sectores tales como la generación de electricidad, el refino, la producción y transformación de metales férreos, cemento, cal, vidrio, cerámica, pasta de papel y papel y cartón. En el ámbito de las actividades energéticas, se delimita el ámbito de aplicación a las instalaciones con una potencia térmica nominal de más de 20 MW, incluidas las de cogeneración ligadas a cualquier tipo de actividad.
+De acuerdo con lo establecido en el artículo 27 de la Directiva 2003/87/CE, la disposición transitoria cuarta contempla la posibilidad de que los titulares de instalaciones sometidas al ámbito de aplicación de esta Ley puedan solicitar su exclusión, cuando acrediten el cumplimiento de todos los requisitos exigidos por la normativa comunitaria. La exclusión temporal deberá ser autorizada por la Comisión Europea.
+El capítulo I incluye también, en su artículo 3, la creación de la Comisión de coordinación de políticas de cambio climático, órgano de coordinación y colaboración entre la Administración General del Estado y las Comunidades Autónomas, clave en la aplicación de lo previsto en el régimen de comercio de derechos de emisión. Un órgano de estas características resulta imprescindible dada la complejidad técnica del régimen de autorizaciones y seguimiento de emisiones y la necesidad de colaborar para garantizar la coherencia en la aplicación en todo el territorio, tanto en los sectores de actividad incluidos en la directiva como en los sectores que no lo están. A ello se suma la necesaria colaboración en relación con el conjunto de obligaciones, internacionales y comunitarias, de información sobre políticas y medidas adoptadas para cumplir los compromisos en materia de cambio climático.
+III
+El capítulo II regula el régimen de autorizaciones de emisión de gases de efecto invernadero.
+Todas las instalaciones sometidas al ámbito de aplicación de esta Ley deberán contar con una autorización de emisión de gases de efecto invernadero a partir del 1 de enero de 2005, cuyo otorgamiento corresponde al órgano competente que designe la comunidad autónoma en la que se ubique.
+La autorización deberá indicar, junto a los datos de identificación más relevantes la metodología de seguimiento de emisiones, la obligación de remitir al órgano autonómico competente información verificada una vez al año y la obligación de entregar al registro, antes del 30 de abril de cada año, un número de derechos de emisión equivalente al dato de emisiones verificadas correspondientes al año anterior para su cancelación.
+Además se regulan los supuestos de extinción de la autorización.
+IV
+El capítulo III contiene el régimen aplicable a las autorizaciones de agrupación de instalaciones.
+Así, las instalaciones dedicadas a una misma actividad podrán, previa autorización del órgano competente, responder de la obligación de entregar derechos de manera conjunta, siempre que sus titulares otorguen poder suficiente a un administrador fiduciario único y que el impacto del funcionamiento en grupo en el mercado interior no genere distorsiones en la competencia.
+Precisamente, la salvaguarda de la competencia aconseja, dadas las particularidades del sector eléctrico y que un elevado número de instalaciones se concentra en pocas empresas, no autorizar la agrupación de instalaciones en dicho sector, durante el período 2005-2007. Ello favorecerá la transparencia del mercado y el mantenimiento de la competencia efectiva, además de contribuir a la efectividad de los incentivos a las tecnologías menos emisoras que derivan del comercio de derechos de emisión de gases de efecto invernadero.
+La autorización quedará supeditada al parecer de la Comisión Europea, que cuenta con un plazo de tres meses desde que recibe la solicitud para pronunciarse al respecto.
+El administrador fiduciario de la agrupación de instalaciones deberá entregar derechos en número equivalente a la suma de las emisiones verificadas de todas las instalaciones incluidas en la agrupación. En el supuesto de que no sea posible determinar la cifra correspondiente a la suma de las emisiones de todas las instalaciones, por falta de remisión de informe verificado o discrepancias en la estimación de alguna instalación, el citado administrador no podrá transmitir derechos de emisión correspondientes a la instalación cuyo informe no haya sido considerado conforme.
+V
+El capítulo IV define la naturaleza y contenido del Plan Nacional de asignación, así como su procedimiento de aprobación.
+El Plan Nacional de asignación es una pieza central en el sistema comunitario de comercio de derechos de emisión. Constituye el marco de referencia, vigente solamente para cada uno de los períodos de tres y cinco años establecidos en la directiva, en el que se determina el número total de derechos de emisión que se asignarán en cada período, así como el procedimiento aplicable para su asignación. Debe basarse en criterios objetivos y transparentes y tener asimismo en cuenta las alegaciones efectuadas a través de los pertinentes cauces de información pública.
+El número de derechos que se asigna debe ser coherente con los compromisos internacionales en materia de emisiones de gases de efecto invernadero asumidos por España, la contribución de las instalaciones sometidas al ámbito de aplicación de esta Ley al total de las emisiones nacionales, las previsiones de emisión, incluidas las posibilidades técnicas y económicas de reducción de emisiones en todos los sectores, así como las previsiones de apertura de nuevas instalaciones o ampliación de las existentes en los sectores incluidos en el ámbito de aplicación de esta Ley, durante el período de vigencia del plan.
+El plan establece la metodología de asignación individual que, en todo caso, deberá evitar la generación de diferencias injustificadas entre sectores de actividad o entre instalaciones, que supongan una posición de ventaja entre sectores o entre instalaciones incluidas en una misma actividad. Tendrá asimismo que ser coherente con las posibilidades técnicas y económicas de reducción de cada sector, y podrá tener en cuenta tanto las previsiones de evolución de la producción como las medidas de reducción adoptadas antes del establecimiento del mercado de derechos de emisión, respetando los artículos 87 y 88 del Tratado Constitutivo de la Comunidad Europea.
+El plan incluye también una reserva para nuevos entrantes y la metodología aplicable para la asignación de los derechos incluidos en dicha reserva.
+La reserva para nuevos entrantes está integrada por el conjunto de derechos que el plan reserva inicialmente a las instalaciones cuya entrada en funcionamiento o ampliación está prevista para el período de vigencia del plan, así como los derechos previamente asignados pero no expedidos correspondientes a instalaciones cuya autorización de emisión quede extinguida por alguna de las causas previstas en el artículo 7. En el supuesto de que al final del período exista un remanente, éste podrá ser enajenado con arreglo a lo dispuesto en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+La Ley regula asimismo la asignación individualizada de derechos de emisión que tendrá lugar, a solicitud del interesado, por resolución del Consejo de Ministros, a propuesta de los Ministros de Economía y Hacienda, de Industria, Turismo y Comercio y de Medio Ambiente, previa consulta al Comité de coordinación de las políticas de cambio climático y trámite de información pública.
+De manera excepcional, en los supuestos en que concurra fuerza mayor apreciada por la Comisión Europea, será posible asignar derechos no transmisibles a la instalación afectada, de acuerdo con lo establecido en la disposición transitoria sexta.
+VI
+El capítulo V contiene el régimen regulador de los derechos de emisión.
+El derecho de emisión es aquel derecho subjetivo, de carácter transmisible, que atribuye a su titular la facultad de emitir a la atmósfera, desde una instalación sometida al ámbito de aplicación de esta Ley, una tonelada de dióxido de carbono equivalente.
+El derecho de emisión es válido solamente para cada uno de los períodos de vigencia de un Plan Nacional de asignación. Pueden tener su origen en el Plan Nacional de asignación de cualquier Estado miembro de la Unión Europea o en un tercer país, previo reconocimiento en un instrumento internacional válidamente suscrito con arreglo a lo dispuesto en el artículo 25 de la Directiva 2003/87/CE, o bien previo reconocimiento de reducciones certificadas de emisiones o de unidades de reducción de emisiones procedentes de los mecanismos de desarrollo limpio o aplicación conjunta, respectivamente.
+Esta posibilidad requiere el cumplimiento de la normativa aplicable adoptada en el contexto de Naciones Unidas. Así, las disposiciones adicionales segunda y tercera dan un primer paso al crear la autoridad nacional designada y el procedimiento de informe de dicha autoridad a los proyectos de desarrollo limpio y aplicación conjunta, con arreglo a lo establecido en las Decisiones 16 y 17 de la 7.ª Conferencia de las Partes de la Convención Marco de Naciones Unidas sobre Cambio Climático. Es este un requisito imprescindible para que las empresas españolas puedan desarrollar proyectos en el exterior susceptibles de generar certificados que puedan incorporarse al régimen comunitario de comercio de derechos de emisión.
+El artículo 21, por su parte, determina quién puede participar en una transmisión de derechos, así como la imposibilidad de que estas operaciones tengan por objeto derechos no expedidos.
+VII
+El capítulo VI regula las obligaciones de información del titular de la instalación.
+Los titulares de las instalaciones estarán obligados a implantar y mantener el sistema de seguimiento de emisiones de gases de efecto invernadero con arreglo a lo establecido en la autorización de emisión. Deberán, además, remitir al órgano autonómico competente, antes del 28 de febrero, un informe sobre las emisiones de gases de efecto invernadero del año precedente elaborado y verificado de conformidad con lo dispuesto en los anexos III y IV y en la Decisión 2004/156/CE de la Comisión, de 29 de enero de 2004, por la que se establecen directrices para el seguimiento y la notificación de las emisiones de gases de efecto invernadero de conformidad con la Directiva 2003/87/CE del Parlamento Europeo y del Consejo.
+El órgano autonómico competente deberá dar su conformidad al informe verificado y, en este caso, proceder a inscribir en la correspondiente tabla del registro la cifra de emisiones verificadas que permite cuantificar la cantidad de derechos cuya cancelación debe solicitar el titular.
+VIII
+El capítulo VII contiene la regulación del Registro nacional de derechos de emisión.
+Se crea el Registro nacional de derechos de emisión, de acuerdo con lo establecido en la Directiva 2003/87/CE, la Decisión 280/2004/CE del Parlamento Europeo y del Consejo, de 11 de febrero de 2004, y el Reglamento de la Comisión relativo a un régimen normalizado y garantizado de registros nacionales compatible con el régimen del registro internacional, previsto en el Protocolo de Kioto a la Convención Marco de Naciones Unidas sobre Cambio Climático.
+Todas las operaciones de expedición, titularidad, transmisión, transferencia, entrega, retirada y cancelación de derechos de emisión deberán ser inscritas en el registro que constará de cuentas separadas de las que será titular cada persona a la que se expida o participe en operaciones de transmisión de derechos, incluida la Administración General del Estado, en cuya cuenta de haberes se inscribirán la totalidad de los derechos de emisión que figuren en cada Plan Nacional de asignación. Igualmente, deberán inscribirse las limitaciones a la transmisión de derechos, en los supuestos previstos en esta Ley.
+La Ley regula también el régimen de expedición y transferencia de derechos de emisión desde la cuenta de haberes del Estado a la cuenta de haberes de las instalaciones, tanto para el supuesto habitual de instalaciones existentes como para aquellas que empiecen a funcionar durante el período de vigencia del plan.
+Dicha transferencia corresponde hacerla al registro y tendrá lugar desde la cuenta de haberes de la Administración General del Estado a favor del titular de la instalación o, en los casos de agrupación de instalaciones, del administrador fiduciario. En este último supuesto, se transferirá a la cuenta de la agrupación de la que es titular el administrador el total de los derechos de emisión correspondientes a todas las instalaciones incluidas en la agrupación.
+La cancelación de derechos podrá producirse en cualquier momento a petición de su titular. El titular o el administrador fiduciario, en los supuestos de agrupaciones autorizadas, deberán entregar, antes del 30 de abril de cada año, un número de derechos de emisión equivalente al dato de emisiones verificadas inscritas en el registro. En todo caso, transcurridos cuatro meses desde la finalización del período de vigencia del Plan Nacional de asignación, los derechos de emisión válidos para ese período caducarán automáticamente.
+Por último, se regula la relación del Registro nacional con el administrador central designado por la Comisión Europea, que prevé la información al Registro nacional de irregularidades en operaciones de transmisión de derechos de emisión que detecte, con el fin de suspender cautelarmente su inscripción.
+IX
+El capítulo VIII regula el régimen sancionador.
+La Ley distingue entre infracciones muy graves, graves y leves, e identifica distintas conductas típicas relacionadas con el incumplimiento de la obligación de disponer de autorización de emisión, de la obligación de entrega de derechos de emisión en número equivalente a las emisiones verificadas y el incumplimiento de las obligaciones de información.
+Entre las sanciones previstas destaca la multa por tonelada de dióxido de carbono emitida que no haya quedado cubierta por un derecho de emisión en la solicitud de cancelación del titular.
+Además, se indica expresamente que la imposición de sanciones no exime de la obligación de entregar derechos por número equivalente al exceso que originó la sanción.
+X
+Por último, la disposición final primera incorpora la modificación de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, exigida por la Directiva 2003/87/CE. Este cambio tiene por finalidad eliminar la imposición de límites de emisión propia de la autorización ambiental integrada, en lo que se refiere a emisiones de CO2.
+Finalmente, los títulos competenciales recogidos en la disposición final segunda, los previstos en el artículo 149.1.23.ª y 13.ª de la Constitución Española, junto con el pleno respeto a las competencias de ejecución que ostentan las Comunidades Autónomas en materia de legislación de medio ambiente, requieren un cierto detenimiento por su especial y compleja imbricación en esta norma.
+En primer lugar, esta Ley es una norma sustancialmente medioambiental. Así, tanto su objetivo -contribuir a la reducción de las emisiones antropogénicas de efecto invernadero- como su origen -los compromisos asumidos con arreglo al Protocolo de Kioto y la propia directiva-, le otorgan ineludiblemente este carácter.
+En consecuencia, corresponde invocar el artículo 149.1.23.ª de la Constitución Española que reserva al Estado la competencia exclusiva para dictar la legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección.
+En virtud de todo lo anterior, se han regulado con carácter de legislación básica en materia de protección del medio ambiente las autorizaciones de emisión, las obligaciones de seguimiento de las emisiones, de remisión de información y la verificación, salvaguardando las competencias autonómicas de dictar normas de desarrollo que establezcan un nivel de protección superior y, evidentemente, sus competencias de ejecución o gestión en materia de medio ambiente.
+Pero, una vez sentadas las bases del carácter sustancialmente ambiental de estos aspectos, no puede obviarse que el mecanismo elegido para alcanzar el objetivo de la reducción de emisiones, como es la creación de un novedoso mercado de derechos de emisión, tiene decisivas consecuencias sobre sectores económicos tales como el industrial y el eléctrico y afecta a la toma de decisiones empresariales tales como la estrategia de inversiones, sus niveles de producción, etc.
+En consecuencia, en esta dimensión entra también en juego la competencia estatal para determinar las bases de la planificación general de la actividad económica prevista en el artículo 149.1.13.ª En este ámbito, conviene señalar que la jurisprudencia constitucional ha admitido que el citado título competencial puede amparar tanto normas estatales que fijen las líneas directrices y los criterios globales de ordenación de sectores económicos concretos, como previsiones de acciones o medidas singulares indispensables para alcanzar los fines propuestos en la ordenación.
+Asimismo, el artículo 149.1.13.ª, de acuerdo con la jurisprudencia constitucional, ampara actuaciones ejecutivas en relación con prácticas o actividades que puedan alterar la libre competencia y tengan trascendencia sobre el mercado supraautonómico, como es el caso de la agrupación de instalaciones.
+En este sentido, la puesta en marcha del mercado de emisiones exige, por un lado, establecer las bases que rigen su funcionamiento, y por otro, una serie de medidas singulares de ejecución que garanticen el establecimiento de criterios homogéneos para el reparto de derechos en todo el territorio nacional, de manera que:
+a) El número de derechos que se asigna sea coherente con los compromisos internacionales en materia de emisiones de gases de efecto invernadero asumidos por España.
+b) Las previsiones de emisión para todos los sectores incluidos y la valoración de la contribución de las instalaciones al total de las emisiones nacionales y de las posibilidades técnicas y económicas de reducción de emisiones de las instalaciones en todos los sectores se realicen de forma equitativa.
+c) Se eviten distorsiones en la competencia, así como diferencias injustificadas entre sectores de actividad y entre instalaciones.
+d) Se establezca una reserva de derechos de emisión en previsión de la apertura de nuevas instalaciones o ampliación de las existentes en cualquier parte del territorio español.
+Así, en virtud de las competencias reconocidas por el título competencial del artículo 149.1.13.ª de la Constitución, el Estado está habilitado para:
+1.º Establecer las bases del régimen jurídico de los derechos de emisión y su comercio.
+2.º La autorización de la agrupación de instalaciones.
+3.º Elaborar y aprobar el Plan Nacional de asignación de derechos de emisión como norma a través de la cual se lleva a cabo la planificación de la asignación de los derechos de emisión en todo el territorio nacional, así como la adopción de la metodología para proceder a su asignación individualizada. El plan, además de establecer el objetivo global de reducción de emisiones, pone en marcha por vez primera el mercado de derechos de emisión, cuya pieza esencial es el reparto de tales derechos entre los titulares de las instalaciones.
+4.º Tramitar y resolver los procedimientos de asignación de derechos de emisión, operación que no puede desvincularse del Plan Nacional, en la medida en que resulta necesario garantizar el ajuste de la suma global de los derechos asignados a cada instalación con la cantidad total de derechos que corresponde al Estado español, así como la aplicación homogénea de la fórmula de reparto de derechos contenida en el plan, mediante una idéntica interpretación de sus variables, con independencia de la ubicación territorial de la instalación.
+5.º Regular y gestionar el Registro nacional de derechos de emisión, que se constituye como un complemento necesario del mercado de derechos de emisión, en la medida en que, tal y como se establece en el Reglamento sobre régimen normalizado y garantizado de registros nacionales aprobado por la Unión Europea, en él deben constar tres cuentas cuya titularidad corresponde al Estado e inscribirse todas las operaciones relativas a la expedición, titularidad, transmisión, transferencia, entrega, retirada y cancelación de los derechos de emisión. A ello hay que añadir que el carácter netamente internacional del mercado de derechos de emisión requiere, a efectos de garantizar simultáneamente la fluidez y la seguridad en el tráfico, la existencia de un solo registro que se gestione de forma centralizada. En este sentido, el registro, además de constituirse como el enlace con la autoridad central designada por la Comisión Europea, está llamado a integrarse en una red comunitaria de registros, que debe garantizar la realización de operaciones en tiempo real con un alto grado de certeza.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+Esta Ley tiene por objeto la regulación del régimen de comercio de derechos de emisión de gases de efecto invernadero, para intensificar las reducciones de las emisiones de estos gases de una forma eficaz en relación con los costes y de manera económicamente eficiente.
+Esta Ley será de aplicación a las emisiones de los gases incluidos en el anexo I generadas por las actividades a las que se refiere dicho anexo.
+Se modifica el primer párrafo por el art. único.1 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica el primer párrafo por el art. único.1 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+A efectos de lo dispuesto en esta Ley, se entenderá por:
+a) Derecho de emisión: el derecho subjetivo a emitir una tonelada equivalente de dióxido de carbono, desde una instalación o una aeronave que realiza una actividad de aviación incluida en el ámbito de aplicación de esta Ley, durante un período determinado.
+b) Expedición: el acto mediante el cual el administrador correspondiente del Registro de la Unión Europea incorpora a la cuenta alojada en dicho registro las unidades o los derechos de emisión.
+c) Transferencia: la operación del Registro que refleja el movimiento de derechos de emisión entre distintas cuentas.
+d) Transmisión: el cambio de titularidad de uno o varios derechos de emisión producido por la inscripción en el registro del negocio jurídico del que deriva.
+e) Emisión: la liberación a la atmósfera de gases de efecto invernadero a partir de fuentes situadas en una instalación o la liberación, procedente de una aeronave que realiza una actividad enumerada en el anexo I, de los gases especificados para dicha actividad.
+f) Gases de efecto invernadero: los gases que figuran en el anexo II y otros componentes gaseosos de la atmósfera, tanto naturales como antropogénicos, que absorben y vuelven a emitir la radiación infrarroja;
+g) Autorización de emisión de gases de efecto invernadero: la autorización exigida a las instalaciones que desarrollen actividades enumeradas en el anexo I, que den lugar a las emisiones especificadas en éste.
+h) Entrega: contabilización de un derecho de emisión por el titular de una instalación o un operador de aeronaves a efectos de las emisiones verificadas de su instalación o aeronave.
+i) Instalación: toda unidad técnica fija donde se lleven a cabo una o varias actividades de las enumeradas en el anexo I, así como cualesquiera otras actividades directamente relacionadas con aquellas que guarden una relación de índole técnica con las actividades realizadas en dicho lugar y puedan tener repercusiones sobre las emisiones y la contaminación.
+j) Titular de la instalación: cualquier persona física o jurídica que opere o controle la instalación bien en condición de propietario, bien al amparo de cualquier otro título jurídico, siempre que éste le otorgue poderes suficientes sobre el funcionamiento técnico y económico de la instalación.
+k) Nuevo entrante: dado un periodo de asignación, se considera nuevo entrante respecto a este periodo de asignación a toda instalación en la que se lleve a cabo una o más de las actividades enumeradas en el anexo I, que haya obtenido una autorización de emisión de gases de efecto invernadero por primera vez dentro de un plazo que se inicia dieciocho meses antes del inicio del periodo de asignación en cuestión y que finaliza dieciocho meses antes del inicio del siguiente periodo de asignación.
+l) tonelada equivalente de dióxido de carbono: una tonelada métrica de dióxido de carbono (CO2) o una cantidad de cualquier otro gas de efecto invernadero contemplado en el anexo II con un potencial equivalente de calentamiento del planeta.
+m) Proyecto de aplicación conjunta: un proyecto de inversión que cumpla los requisitos establecidos en el artículo 6 del Protocolo de Kioto a la Convención Marco de Naciones Unidas sobre Cambio Climático.
+n) Proyecto de desarrollo limpio: un proyecto de inversión que cumpla los requisitos establecidos en el artículo 12 del Protocolo de Kioto a la Convención Marco de Naciones Unidas sobre Cambio Climático.
+ñ) Supresión: eliminación definitiva de un derecho de emisión por su titular sin contabilizarlo a efectos de las emisiones verificadas.
+o) Unidad de reducción de las emisiones: una unidad expedida de conformidad con el artículo 6 del Protocolo de Kioto a la Convención Marco de Naciones Unidas sobre Cambio Climático.
+p) Reducción certificada de las emisiones: una unidad expedida de conformidad con el artículo 12 del Protocolo de Kioto a la Convención Marco de Naciones Unidas sobre Cambio Climático.
+q) Operador aéreo: la persona física o jurídica que opera una aeronave en el momento en que realiza una actividad de aviación enumerada en el anexo I o bien el propietario de la aeronave, si se desconoce la identidad de dicha persona o no es identificado por el propietario de la aeronave. A estos efectos, para la determinación de operador aéreo se utilizará el indicativo de llamada empleado para el control del tráfico aéreo.
+r) Operador de transporte aéreo comercial: operador aéreo que presta al público, a cambio de una remuneración, servicios de transporte aéreo regulares o no regulares, para el transporte de pasajeros, correo o carga. Los operadores de transporte aéreo comerciales deben poseer un certificado de operador aéreo (AOC) de conformidad con el anexo 6, parte I, del Convenio de Chicago o certificado equivalente.
+s) Estado miembro responsable de la gestión: es el Estado miembro responsable de gestionar el régimen de comercio de derechos de emisión de la Unión Europea en lo que respecta a los operadores aéreos.
+Si el operador aéreo dispone de una licencia de explotación de la Unión Europea, el Estado miembro responsable de la gestión será el que haya concedido la licencia de explotación a dicho operador. En otro caso, el Estado miembro responsable de la gestión será aquel para el que se hayan calculado las emisiones de la aviación atribuidas más elevadas, procedentes de los vuelos operados por el operador aéreo durante el año de referencia y que conste atribuido a dicho Estado en la «Lista de operadores de aeronaves y Estados miembros responsables de la gestión que les corresponden» a la que se refiere el apartado 6 del anexo I.
+t) Emisiones de la aviación atribuidas: emisiones de todos los vuelos que figuran entre las actividades de aviación enumeradas en el anexo I con origen en un aeródromo situado en el territorio de un Estado miembro o un Estado del Espacio Económico Europeo y de aquellos vuelos que llegan a ese aeródromo procedentes de un tercer país.
+u) emisiones históricas del sector de la aviación: la media aritmética de las emisiones anuales en los años naturales 2004, 2005 y 2006 procedentes de las aeronaves que realizan una actividad de aviación enumerada en el anexo I.
+v) Plan de seguimiento de las emisiones: la documentación pormenorizada, completa y transparente de la metodología de seguimiento de las emisiones de una instalación u operador aéreo concreto, incluida la documentación de las actividades de adquisición y tratamiento de datos y el sistema de control de su veracidad.
+w) Combustión: toda oxidación de combustibles, cualquiera que sea el uso del calor o de la energía eléctrica o mecánica producidos por este proceso, y cualquier otra actividad directamente asociada, incluido el lavado de gases residuales.
+x) Generador de electricidad: una instalación que, a partir del 1 de enero de 2005, haya producido electricidad para venderla a terceros y en la que no se realiza ninguna actividad del anexo I, con excepción de la de combustión.
+y) Cancelación: eliminación definitiva de una unidad de reducción de emisiones o reducción certificada de emisiones por su titular sin contabilizarla a efectos de las emisiones verificadas.
+z) Retirada: contabilización de una unidad de reducción de emisiones o reducción certificada de emisiones por una Parte en el Protocolo de Kioto a efectos de las emisiones notificadas de dicha Parte.
+Se modifican las letras b), k), s) y v) y se añaden las letras h), ñ), y) y z) por el art. único.2 a 6 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Téngase en cuenta la disposición transitoria única de la citada Ley, en cuanto al periodo de comercio 2013-2020.
+ Se modifica por el art. único.2 y se deroga la letra h) a partir del 1 de enero de 2013 por la disposición derogatoria única de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta que la modificación de las letras f), k), w) y x) entra en vigor el 1 de enero de 2013, según establece la disposición final 2 de esta Ley.
+ Se modifica el párrafo d) por el art. 33.1 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Artículo 2 bis
+
+Artículo 2 bis. Relaciones de cooperación y colaboración.
+La Administración General del Estado y las comunidades autónomas cooperarán y colaborarán en materia de cambio climático y se suministrarán mutuamente la información que obre en su poder, en particular, en relación con las metodologías aplicables a los diferentes sectores, con mejoras tecnológicas y cualquier otra que sea relevante a efectos de la autorización de emisión de gases de efecto invernadero, la verificación de las emisiones, la asignación individualizada de derechos de emisión o en relación con el informe relativo a la aplicación de la Directiva 2003/87/CE, de 13 de octubre de 2003, previsto en su artículo 21, incluyendo las medidas equivalentes adoptadas para las pequeñas instalaciones excluidas del régimen de comercio de derechos de emisión de la Unión Europea que se hayan referido en dicho informe. La Administración General del Estado y las comunidades autónomas también cooperarán y colaborarán en los proyectos de desarrollo limpio y de aplicación conjunta del Protocolo de Kioto a la Convención Marco de Naciones Unidas sobre Cambio Climático.
+Se añade por el art. único.7 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Artículo 3
+
+Artículo 3. Comisión de Coordinación de Políticas de Cambio Climático.
+1. Se crea la Comisión de Coordinación de Políticas de Cambio Climático, como órgano de coordinación y colaboración entre la Administración General del Estado y las comunidades autónomas para la aplicación del régimen de comercio de derechos de emisión y el cumplimiento de las obligaciones de información internacionales y de la Unión Europea inherentes a este y, en general, para la coordinación y colaboración en los siguientes ámbitos:
+a) El seguimiento del cambio climático y adaptación a sus efectos.
+b) La prevención y reducción de las emisiones de gases de efecto invernadero.
+c) El fomento de la capacidad de absorción de carbono por las formaciones vegetales.
+d) Teniendo en cuenta los criterios que establezca el Consejo Nacional del Clima, el establecimiento de las líneas generales de actuación de la Autoridad Nacional Designada por España y de los criterios para la aprobación de los informes preceptivos sobre la participación voluntaria en los proyectos de desarrollo limpio y de aplicación conjunta del Protocolo de Kioto a la Convención Marco de las Naciones Unidas sobre el Cambio Climático.
+e) El impulso de programas y actuaciones que fomenten la reducción de emisiones en los sectores y actividades no incluidos en el ámbito de aplicación de esta ley.
+f) La elaboración y aprobación de directrices técnicas, recomendaciones y notas aclaratorias para la armonización de la aplicación del régimen de derechos de emisión.
+g) El desarrollo e implantación de un régimen nacional de proyectos domésticos.
+h) Informar los anteproyectos de ley y reales decretos que se tramiten en el ámbito del régimen de comercio de los derechos de emisión.
+2. La Comisión estará presidida por la persona titular de la Secretaría de Estado de Medio Ambiente. La persona titular de la Oficina Española de Cambio Climático designará a la persona que desempeñe las funciones de secretaría de la Comisión.
+La Comisión contará con los siguientes vocales:
+a) Por la Administración General del Estado: diecinueve vocales designados por los ministerios competentes en materia de medio ambiente, energía, economía, hacienda, industria, turismo, comercio, interior, movilidad, educación, ciencia, empleo, agricultura, pesca, alimentación, administraciones públicas, sanidad, consumo, Agenda 2030 y vivienda, y un vocal designado por Presidencia del Gobierno.
+b) Un vocal designado por cada comunidad autónoma.
+c) Un vocal designado por cada una de las ciudades de Ceuta y Melilla.
+d) Un vocal representante de las entidades locales, designado por la asociación de ámbito estatal con mayor implantación.
+3. La Comisión adoptará su propio reglamento de funcionamiento interno.
+Se modifica por el art. único.8 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añaden las letras f) y g) al apartado 1 por el art. único.3 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 3 bis
+
+Artículo 3 bis. Consejo Nacional del Clima y Mesas de Diálogo Social.
+1. El Consejo Nacional del Clima garantizará la participación de las organizaciones sindicales, empresariales y ambientales en el seguimiento de la aplicación del régimen de comercio de derechos de emisión en cuanto a sus efectos en la competitividad, la estabilidad del empleo, la cohesión social y la coherencia ambiental.
+2. En tal sentido, se impulsarán las Mesas de Diálogo Social necesarias para garantizar la participación de las organizaciones sindicales y asociaciones empresariales en el seguimiento del impacto de aplicación del régimen de comercio de derechos de emisión en España.
+Se modifica por el art. único.9 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añade por el art. único.4 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+## CAPÍTULO II
+
+Autorizaciones de emisión
+
+### Artículo 4
+
+Artículo 4. Instalaciones sometidas a autorización de emisión.
+1. Toda instalación en la que se desarrolle alguna de las actividades y que genere las emisiones especificadas en el anexo I deberá contar con autorización de emisión de gases de efecto invernadero expedida en favor de su titular, salvo si la instalación está excluida del régimen comunitario con arreglo a la disposición adicional cuarta.
+2. La autorización de emisión de gases de efecto invernadero será otorgada por el órgano autonómico competente y tendrá el contenido siguiente:
+a) Nombre y dirección del titular de la instalación.
+b) Identificación, domicilio de la instalación y domicilio a efectos de notificaciones.
+c) Una descripción básica de las actividades y emisiones de la instalación.
+d) Un plan de seguimiento de las emisiones que cumpla los requisitos con arreglo a la normativa de la Unión Europea aplicable y a la normativa de desarrollo que se adopte.
+e) Las obligaciones de suministro de información, de acuerdo con la normativa de la Unión Europea aplicable y, en su caso, con la normativa de desarrollo.
+e bis) Las obligaciones sobre el uso de sistemas automatizados y formatos de intercambio de datos para armonizar la comunicación sobre el plan de seguimiento, el informe anual sobre las emisiones y las actividades de verificación entre el titular, el verificador y las autoridades competentes.
+f) La obligación de entregar, en los cuatro meses siguientes al final de cada año natural, derechos de emisión en cantidad equivalente a las emisiones totales verificadas de la instalación durante el año anterior.
+g) Fecha prevista de entrada en funcionamiento.
+h) La obligación de abrir una cuenta de haberes de titular en el área española del Registro de la Unión Europea.
+3. La autorización de emisión de gases de efecto invernadero, si así lo solicita su titular, podrá cubrir una o más instalaciones, siempre que éstas se ubiquen en un mismo emplazamiento, guarden una relación de índole técnica y cuenten con un mismo titular.
+4. La autorización de emisión de gases de efecto invernadero se otorgará siempre que el órgano autonómico competente considere acreditado que el titular es capaz de garantizar el seguimiento y notificación de las emisiones con arreglo a lo dispuesto en los párrafos d), e) y e bis) del artículo 4.2. Transcurrido el plazo de tres meses sin haberse notificado resolución expresa, el interesado podrá entender desestimada su solicitud por silencio administrativo. No obstante, la instalación podrá seguir funcionando de manera provisional, siempre que haya establecido un sistema de seguimiento de emisiones conforme a lo dispuesto en esta Ley hasta tanto el órgano competente haya resuelto de forma expresa.
+5. Los titulares deberán mantener los planes de seguimiento de las emisiones actualizados de acuerdo con la normativa de la Unión Europea y deberán notificar sin demora injustificada al órgano autonómico competente cualquier propuesta de modificación del plan de seguimiento. El órgano autonómico competente podrá permitir que los titulares actualicen los planes de seguimiento de emisiones sin modificación de la autorización.
+Sin perjuicio de lo anterior, en caso de que dicha modificación no sea considerada significativa con arreglo a la normativa de la Unión Europea, el titular de la instalación podrá presentar la modificación del plan de seguimiento a más tardar el 31 de diciembre del mismo año en que tenga lugar.
+Cualquier modificación del plan de seguimiento de las emisiones considerada significativa con arreglo a lo establecido en la normativa de la Unión Europea se someterá a la aprobación del órgano autonómico competente. Cuando el órgano autonómico competente considere que una modificación notificada como significativa por el titular de la instalación no tenga tal consideración con arreglo a lo establecido en la normativa de la Unión Europea, informará de dicha circunstancia al titular de la instalación.
+Se modifican los apartados 2 y 5 por el art. único.10 y 11 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Téngase en cuenta que el apartado 5, en su versión anterior a la modificada por la citada ley, continuará siendo de aplicación hasta el 31 de diciembre de 2020, según establece su disposición transitoria única.
+ Se modifica por el art. único.5 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.1 de esta Ley.
+
+### Artículo 5
+
+Artículo 5. Solicitud de autorización de emisión.
+El titular de la instalación deberá dirigir la solicitud de autorización al órgano competente que designe la Comunidad Autónoma en cuyo territorio se ubique la instalación. La solicitud de autorización deberá contener documentación con la siguiente información:
+a) Identificación y acreditación de ser titular de la instalación a los efectos de lo previsto en esta Ley.
+b) Identificación y domicilio de la instalación.
+c) Descripción de la instalación para la que se solicita autorización, así como de sus actividades, incluyendo la tecnología utilizada.
+d) Las materias primas y auxiliares empleadas cuyo uso pueda producir emisiones de gases incluidos en el anexo I.
+e) Las fuentes de emisión de gases enumerados en el anexo I existentes en la instalación.
+f) Una propuesta de plan de seguimiento de emisiones que cumpla los requisitos exigidos por la normativa de la Unión Europea y nacional vigentes en cada momento.
+La solicitud se acompañará de un resumen explicativo de las indicaciones especificadas en el párrafo anterior.
+Se modifica la letra f) por el art. único.12 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica la letra f) por el art. único.6 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.1 de esta Ley.
+
+### Artículo 6
+
+Artículo 6. Cambios en la instalación.
+El titular deberá informar al órgano competente de cualquier proyecto de cambio en el carácter, el funcionamiento, el tamaño de la instalación, o de aquellos que supongan ampliación o reducción significativa de su capacidad, así como de todo cambio que afecte a la identidad o al domicilio del titular. En su caso, a la vista de la información remitida, el órgano autonómico competente modificará de oficio la autorización de emisión de gases de efecto invernadero en el plazo máximo de tres meses.
+Se modifica por el art. único.7 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 7
+
+Artículo 7. Extinción de la autorización.
+Las autorizaciones de emisión de gases de efecto invernadero quedarán extinguidas en los supuestos de:
+a) Cierre de la instalación.
+b) Falta de puesta en funcionamiento de la instalación transcurridos tres meses desde la fecha de inicio de actividad prevista en la autorización, salvo causa justificada declarada por el órgano competente para otorgar la autorización.
+c) En los supuestos de sanción, conforme a lo previsto en el artículo 30.1.a).3.º
+d) Suspensión de la actividad de la instalación durante un plazo superior a un año. Excepcionalmente, el órgano competente podrá demorar la extinción de la autorización hasta que transcurra un plazo máximo de dieciocho meses de suspensión de la actividad, de acuerdo con lo previsto en la normativa reglamentaria de desarrollo de esta ley y en el Derecho de la Unión Europea.
+Se modifica por el art. único.13 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica la letra d) por el art. 5.1 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+ Se añaden los dos últimos párrafos por el art. único.8 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 8
+
+Artículo 8. Comunicaciones al órgano competente en materia de registro.
+Las comunidades autónomas comunicarán a la Oficina Española de Cambio Climático, como órgano competente en materia de registro conforme al artículo 25.3, las resoluciones de otorgamiento, modificación y extinción de las autorizaciones en el plazo de diez días desde la fecha de la resolución.
+Se modifica por el art. único.14 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.9 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+## CAPÍTULO III
+
+Derechos de emisión
+Se modifica por el art. único.15 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Artículo 9
+
+Artículo 9. Naturaleza jurídica de los derechos de emisión.
+1. El derecho de emisión se configura como el derecho subjetivo a liberar a la atmósfera una tonelada equivalente de dióxido de carbono desde una aeronave o desde una instalación incluida en el ámbito de aplicación de esta ley.
+2. La titularidad originaria de la totalidad de los derechos de emisión que se otorguen de manera gratuita a instalaciones ubicadas en territorio español y a los operadores aéreos cuya gestión corresponda a España, y la titularidad de los derechos de emisión subastados, corresponden a la Administración General del Estado, que los asignará, enajenará o suprimirá de conformidad con lo establecido en esta ley.
+3. El derecho de emisión tendrá carácter transmisible.
+4. La expedición, titularidad, transferencia, transmisión, entrega y supresión de los derechos de emisión deberá ser objeto de inscripción en el área española del Registro de la Unión Europea.
+Se añade por el art. único.15 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se deroga por la disposición derogatoria única de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 10
+
+Artículo 10. Normativa financiera aplicable a los derechos de emisión.
+1. Los derechos de emisión y los derivados sobre los mismos tienen la consideración de instrumentos financieros conforme a la normativa nacional y de la Unión Europea que resulte de aplicación.
+2. La normativa establecida a nivel nacional y de la Unión Europea relativa a los mercados de instrumentos financieros y de control de dichos mercados será de aplicación a las personas físicas o jurídicas que operen con derechos de emisión o derivados sobre los mismos.
+Se añade por el art. único.15 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se deroga por la disposición derogatoria única de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 11
+
+Artículo 11. Transmisión de los derechos de emisión.
+1. Los derechos de emisión podrán ser objeto de transmisión:
+a) Entre personas físicas o jurídicas en la Unión Europea.
+b) Entre las anteriores y personas físicas o jurídicas en terceros Estados o entidades regionales o subfederales de dichos terceros Estados, previo reconocimiento mutuo de los derechos de las partes firmantes en virtud de instrumento internacional.
+2. La adquisición de derechos de emisión por una persona física o jurídica que no tenga la condición de titular de instalación u operador aéreo requerirá la previa apertura de la correspondiente cuenta en el área española del Registro de la Unión Europea.
+3. Los derechos de emisión solo podrán ser objeto de transmisión por parte de su titular una vez expedidos y transferidos a su cuenta conforme a lo establecido en el artículo 26.
+4. La transmisión tendrá lugar en el momento de su inscripción en el área española del Registro de la Unión Europea.
+5. La titularidad publicada por el Registro de la Unión Europea se presume legítima y no estará sujeto a reivindicación el tercero que adquiera de quien figure inscrito a título oneroso y sin mala fe ni culpa grave.
+Se añade por el art. único.15 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se deroga por la disposición derogatoria única de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 12
+
+Artículo 12. Validez de los derechos de emisión.
+Los derechos de emisión expedidos a partir del 1 de enero de 2013 tendrán validez indefinida. Los expedidos a partir del 1 de enero de 2021 indicarán en qué periodo de comercio se expidieron, y serán válidos para las emisiones desde el primer año de ese periodo en adelante.
+Se añade por el art. único.15 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se deroga por la disposición derogatoria única de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 13
+
+Artículo 13. Periodos de comercio.
+1. Los periodos de comercio tendrán la duración que determine la normativa de la Unión Europea y podrán comprender más de un periodo de asignación.
+2. El periodo de comercio 2021-2030 se divide, en el ámbito de las instalaciones fijas, en dos periodos de asignación, siendo estos los siguientes: 2021-2025 y 2026-2030.
+Se añade por el art. único.15 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se deroga por la disposición derogatoria única de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+## CAPÍTULO IV
+
+Asignación de derechos de emisión
+Se modifica la denominación por el art. único.10 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.2 de esta Ley.
+
+### Sección 1
+
+Sección 1.ª Subasta
+Se añade por el art. único.10 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.2 de esta Ley.
+
+### Artículo 14
+
+Artículo 14. Principios generales.
+1. La subasta es el método básico de asignación, de conformidad con la normativa de la Unión Europea. El porcentaje de derechos de emisión que se subasten será aquel que determine la Comisión Europea en aplicación de la normativa de la Unión Europea.
+2. Las subastas se desarrollarán con arreglo a la normativa de la Unión Europea y se regirán por los principios de libertad de concurrencia, publicidad, transparencia, no discriminación y eficiencia. En este sentido, el régimen de subastas se ajustará a los siguientes criterios:
+a) Se deberá velar por que los titulares y, en particular, cualquier pequeña o mediana empresa incluida en el ámbito de aplicación de esta ley, tengan un acceso pleno, justo y equitativo.
+b) Todos los participantes deberán tener acceso a la misma información al mismo tiempo y ningún participante deberá obstaculizar el desarrollo de las subastas.
+c) La organización y participación en las subastas deberán ser eficientes desde el punto de vista de los costes y evitar todo coste administrativo innecesario.
+d) La subasta garantizará que se conceda a los pequeños emisores el acceso a los derechos de emisión.
+3. Corresponde a la Secretaría de Estado de Medio Ambiente velar por que la aplicación y gestión de las subastas de derechos de emisión de gases de efecto invernadero se lleven a cabo de acuerdo con lo que establezca la normativa de la Unión Europea y, en su caso, con la normativa de desarrollo de esta ley.
+El titular de la Secretaría de Estado de Medio Ambiente desempeña la función de subastador, de acuerdo con la normativa de la Unión Europea en materia de subastas.
+4. En caso de cese de la capacidad de generación de electricidad como consecuencia de medidas nacionales adicionales, la Secretaría de Estado de Medio Ambiente podrá cancelar una cantidad máxima de los derechos de emisión a subastar hasta alcanzar el promedio de las emisiones verificadas de la instalación de que se trate en los cinco años anteriores al cese de capacidad. Dicho órgano informará a la Comisión Europea de la cancelación prevista de conformidad con la normativa de la Unión Europea en materia de subastas.
+Se modifica por el art. único.16 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.10 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.2 de esta Ley.
+
+### Artículo 15
+
+Artículo 15. Informes.
+En el plazo de un mes tras la celebración de cada subasta, la Secretaría de Estado de Medio Ambiente publicará un informe sobre el desarrollo de la misma, en particular detallando la aplicación de las normas de subasta, el acceso justo y libre por todos los operadores, la transparencia en su resolución, el cálculo de los precios y los aspectos técnicos y operativos de su celebración.
+Se modifica por el art. único.17 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.10 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.2 de esta Ley.
+
+### Sección 2
+
+Sección 2.ª Asignación gratuita transitoria
+Se añade por el art. único.10 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.2 de esta Ley.
+
+### Artículo 16
+
+Artículo 16. Instalaciones susceptibles de recibir asignación gratuita transitoria.
+1. Los sectores expuestos a un riesgo significativo de fuga de carbono serán los que haya determinado la Comisión Europea, de acuerdo con la normativa de la Unión.
+En 2021 y en cada uno de los años siguientes hasta 2030, las instalaciones de sectores o subsectores expuestos a un riesgo significativo de fuga de carbono recibirán derechos de forma gratuita. El grado de asignación gratuita alcanzará en este caso el cien por cien de la cantidad determinada de acuerdo con las normas de la Unión Europea de carácter transitorio para la armonización de la asignación gratuita de derechos de emisión.
+2. Para las instalaciones que no pertenezcan a sectores o subsectores expuestos a un riesgo significativo de fugas de carbono y sean susceptibles de recibir asignación gratuita, la cantidad de derechos de emisión correspondientes a 2021 asignados de forma gratuita será hasta 2026 el treinta por ciento de la cantidad determinada de acuerdo con las normas de la Unión Europea armonizadas. Después de 2026 y hasta 2030, y a menos que se decida de otro modo en la revisión que se realice en virtud del artículo 30 de la Directiva 2003/87/CE, de 13 de octubre de 2003, ese porcentaje se irá reduciendo cada año en la misma cantidad con la finalidad de llegar en 2030 a una situación en la que no se asigne ningún derecho de emisión de forma gratuita, a excepción de la calefacción urbana, que mantendrá hasta 2030 el porcentaje del treinta por ciento de la cantidad determinada de acuerdo con las normas de la Unión Europea armonizadas.
+3. Sin perjuicio de lo dispuesto en los párrafos primero y segundo de este apartado, a partir de 2021 no se asignarán derechos de emisión de forma gratuita a los generadores de electricidad, a las instalaciones de captura, a las conducciones para el transporte ni a los emplazamientos de almacenamiento de dióxido de carbono.
+No obstante, en el caso de la electricidad producida mediante la combustión de gases residuales cuya emisión en el proceso de producción industrial no pueda ser evitada, reglamentariamente, de conformidad con lo previsto por la normativa de la Unión Europea, y siempre que dicha normativa así lo autorice, se asignarán derechos de emisión de forma gratuita a los titulares de las instalaciones de combustión de los gases residuales o a los titulares de las instalaciones de origen de dichos gases.
+Se asignarán derechos de emisión de forma gratuita a la calefacción urbana y a la cogeneración de alta eficiencia, tal y como se define en la Directiva 2012/27/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, respecto de la producción de calor o refrigeración con objeto de satisfacer una demanda justificada desde el punto de vista económico. En cada anualidad, la asignación total a este tipo de instalaciones para la producción de calor se adaptará de acuerdo con las normas de la Unión Europea.
+4. De acuerdo con lo establecido en la normativa de la Unión Europea, no se asignará ningún derecho de forma gratuita a una instalación que haya cesado de funcionar, a menos que el titular de la instalación demuestre a la autoridad competente que dicha instalación reanudará la producción en un plazo especificado y razonable.
+Se modifica por el art. único.18 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Téngase en cuenta la disposición transitoria única de la citada Ley, en cuanto al periodo de comercio 2013-2020.
+ Se modifica por el art. único.10 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.2 de esta Ley.
+
+### Artículo 17
+
+Artículo 17. Reglas de asignación.
+La metodología de asignación gratuita transitoria se regirá por las normas de la Unión Europea de carácter transitorio para la armonización de la asignación gratuita de derechos de emisión, así como por la normativa de desarrollo de esta ley que pudiera establecerse.
+Se modifica por el art. único.19 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Téngase en cuenta la disposición transitoria única de la citada Ley, en cuanto al periodo de comercio 2013-2020.
+ Se modifica por el art. único.10 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.2 de esta Ley.
+
+### Artículo 18
+
+Artículo 18. Nuevos entrantes.
+1. Una cantidad de derechos de emisión será reservada como asignación gratuita para los nuevos entrantes en el periodo 2021-2030, de conformidad con lo establecido en la normativa de la Unión Europea. Esta reserva de nuevos entrantes es común y única para toda la Unión y se regirá por la normativa de esta.
+2. No se asignará ningún derecho de forma gratuita a ningún tipo de producción de electricidad por los nuevos entrantes.
+Se modifica por el art. único.20 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Téngase en cuenta la disposición transitoria única de la citada Ley, en cuanto al periodo de comercio 2013-2020.
+ Se modifica por el art. único.10 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.2 de esta Ley.
+
+### Artículo 19
+
+Artículo 19. Asignación gratuita individualizada de derechos de emisión.
+1. Los titulares de las instalaciones podrán solicitar a la Oficina Española de Cambio Climático la asignación gratuita de derechos de emisión para cada periodo de asignación.
+2. Reglamentariamente se establecerá el plazo de presentación de las solicitudes de asignación gratuita de derechos de emisión y, en su caso, su contenido, formato y la documentación que deba acompañarla, así como cualquier otro aspecto que se considere pertinente, de acuerdo con la normativa de la Unión Europea.
+3. La solicitud de asignación gratuita de derechos deberá venir acompañada de la documentación en la que conste:
+a) Acreditación de ser titular de la instalación y disponer de autorización de emisión de gases de efecto invernadero. En caso de que en el momento de la solicitud de asignación el titular hubiese solicitado la correspondiente autorización, pero esta no hubiese sido otorgada todavía, podrá solicitar asignación presentando únicamente la solicitud de autorización. No obstante, al menos dieciocho meses antes del inicio del periodo de asignación deberá haber obtenido la citada autorización y, en un plazo de un mes desde la obtención de la misma, haberla presentado ante la Oficina Española de Cambio Climático. De no ser así, pasará a ser considerado nuevo entrante conforme a la letra k) del artículo 2.
+b) Todos aquellos datos de la instalación que sean necesarios para calcular su asignación de acuerdo con las normas de la Unión Europea armonizadas sobre asignación gratuita transitoria y, en su caso, con la normativa de desarrollo de esta ley.
+c) Una declaración responsable de que la instalación cuenta con todos los permisos y licencias administrativos exigidos por la normativa aplicable estatal, autonómica y local para poner la instalación en funcionamiento.
+No será necesario aportar los datos de emisiones verificadas que ya consten inscritas en el Registro de la Unión.
+En el supuesto de instalaciones que no se encuentren aún en funcionamiento, se indicará la fecha probable de su puesta en marcha.
+4. La asignación gratuita de derechos de emisión, una vez realizado el trámite de información pública, se adoptará mediante acuerdo del Consejo de Ministros, previa consulta a la Comisión de Coordinación de Políticas de Cambio Climático y a propuesta de los Ministerios de Asuntos Económicos y Transformación Digital; de Industria, Comercio y Turismo; y para la Transición Ecológica y el Reto Demográfico. Asimismo, a fin de determinar la cantidad de derechos a asignar, se sustanciarán las comunicaciones que resulten oportunas con la Comisión Europea y que correspondan de acuerdo con la normativa de la Unión.
+5. El acuerdo determinará la cantidad de derechos asignada durante un periodo de asignación y los derechos asignados para cada año a cada instalación. Transcurrido el plazo de veintidós meses desde la solicitud de asignación sin haberse notificado resolución expresa, el interesado podrá entender desestimada su solicitud por silencio administrativo.
+6. Este acuerdo será comunicado, en el plazo de diez días desde su adopción, a las comunidades autónomas.
+7. Las resoluciones sobre la asignación individualizada de derechos de emisión serán accesibles al público, en los términos y con las limitaciones previstas en las normas reguladoras del derecho de acceso a la información en materia de medio ambiente.
+Se modifica por el art. único.21 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Téngase en cuenta la disposición transitoria única de la citada Ley, en cuanto al periodo de comercio 2013-2020.
+ Se modifica por el art. único.10 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.2 de esta Ley.
+
+## CAPÍTULO V
+
+Ajustes y devolución de la asignación gratuita de derechos de emisión
+Se modifica por el art. único.22 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Artículo 19 bis
+
+Artículo 19 bis. Períodos de comercio.
+1. Los derechos de emisión serán válidos para las emisiones producidas durante un período de tiempo determinado, denominado período de comercio. Transcurrido el plazo de cuatro meses contados desde la finalización de cada período de comercio, los derechos de emisión válidos para ese período caducarán automáticamente y se suprimirán de oficio por la autoridad competente en materia de registro. No obstante, la autoridad competente en materia de registro expedirá derechos de emisión a los titulares de cuenta para el período en curso en sustitución de cualesquiera derechos de emisión, válidos para el segundo y sucesivos períodos de comercio, de los que sean titulares y que hayan sido suprimidos por no haber sido entregados en aplicación del artículo 27 de conformidad con lo dispuesto en este párrafo.
+2. Los periodos de comercio tendrán una duración de ocho años a partir del 1 de enero de 2013, sucediéndose de forma continua en el tiempo.
+Se añade por el art. único.11 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 20
+
+Artículo 20. Ajustes en los niveles de derechos de emisión asignados de manera gratuita a las instalaciones.
+1. A partir de 2021, cuando el nivel de actividad de una instalación, de acuerdo con evaluaciones sobre la base de un promedio móvil de dos años, haya aumentado o disminuido más del quince por ciento en comparación con el nivel de actividad utilizado inicialmente para determinar la asignación gratuita en el periodo de asignación pertinente, se ajustará la cantidad de derechos de emisión asignada a dicha instalación, de acuerdo con lo que establezca la normativa de la Unión Europea.
+Para su ajuste, se tendrá en cuenta el informe de actividad verificado según lo dispuesto en el artículo 22.2 en los términos establecidos en la normativa de la Unión Europea y en la normativa de desarrollo de esta ley.
+2. Se precisarán reglamentariamente para el periodo 2021-2030 las circunstancias que determinen el cese de la actividad o el cierre de la instalación y los aspectos relativos a los ajustes en los niveles de derechos de emisión asignados gratuitamente a las instalaciones como consecuencia de cambios en los niveles de actividad o como consecuencia de otras circunstancias, de conformidad con la normativa de la Unión Europea.
+Se modifica por el art. único.22 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.12 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 21
+
+Artículo 21. Devolución de derechos de emisión.
+1. Los titulares de las instalaciones procederán a la devolución de los derechos de emisión que hayan sido transferidos en exceso o que deban ser objeto de devolución. El procedimiento para su devolución se desarrollará reglamentariamente y, en todo caso, garantizará la audiencia al titular de la instalación.
+2. Transcurridos seis meses desde la fecha en que se notifique la resolución por la que se acuerde la devolución de los derechos de emisión que hayan sido transferidos en exceso o que deban ser objeto de devolución sin que el titular de la instalación haya procedido a su devolución, la Administración podrá proceder a su ejecución forzosa conforme al procedimiento que el Gobierno establezca mediante real decreto.
+3. El derecho de la Administración para exigir a los titulares de las instalaciones la devolución de la asignación transferida en exceso o que deba ser objeto de devolución prescribirá a los cinco años desde la fecha en la que se haya realizado la transferencia de la asignación reclamada a la cuenta del titular en el Registro de la Unión.
+El derecho de la Administración para proceder a la ejecución de oficio prescribirá a los cinco años desde la fecha en que se haya notificado la resolución por la que se acuerde la devolución de los derechos transferidos en exceso o que deban ser objeto de devolución.
+Se modifica por el art. único.22 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica la letra b) del apartado 1 por el art. único.13 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Se añaden los apartados 4 y 5 por el art. 33.2 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+## CAPÍTULO VI
+
+Obligaciones de seguimiento y notificación de las emisiones y de los niveles de actividad para las instalaciones fijas y verificación de datos y acreditación de los verificadores
+Se modifica por el art. único.23 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+## Sección 1
+
+Sección 1.ª Obligaciones de seguimiento y notificación de las emisiones y de los niveles de actividad para las instalaciones fijas
+Se añade por el art. único.23 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Artículo 21 bis
+
+Artículo 21 bis. Seguimiento de las emisiones y de los niveles de actividad de las instalaciones fijas.
+1. A partir del 1 de enero de 2021 el seguimiento de las emisiones se realizará con base en el plan de seguimiento de emisiones incluido en la autorización de emisión de gases de efecto invernadero aprobado por el órgano autonómico competente, de conformidad con la normativa de la Unión Europea.
+2. Las instalaciones que hayan solicitado asignación gratuita de derechos de emisión realizarán el seguimiento de los niveles de actividad de las subinstalaciones en las que esté dividida cada instalación con base en el plan metodológico de seguimiento aprobado por la Oficina Española de Cambio Climático, de conformidad con la normativa de la Unión Europea y la normativa de desarrollo de esta ley.
+3. Reglamentariamente se determinarán los aspectos relacionados con el plan metodológico de seguimiento y sus modificaciones, de conformidad con la normativa de la Unión Europea de aplicación.
+Se añade por el art. único.23 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Artículo 22
+
+Artículo 22. Notificación de información.
+1. El titular de la instalación deberá remitir al órgano autonómico competente, antes del 28 de febrero de cada año, el informe verificado sobre las emisiones del año precedente, que se ajustará a lo exigido en la autorización, según lo dispuesto en el artículo 4.2.e) y en la parte A del anexo III.
+2. El titular de la instalación que tenga otorgada asignación gratuita de derechos de emisión deberá remitir a la Oficina Española de Cambio Climático, antes del 28 de febrero de cada año, un informe de nivel de actividad verificado de las subinstalaciones en las que esté dividida su instalación, en los términos establecidos en la normativa de la Unión Europea y en la normativa de desarrollo de esta ley.
+3. El contenido mínimo de los informes referidos en los apartados 1 y 2 se ajustará a lo establecido en la normativa de la Unión Europea y en la que se dicte en desarrollo de esta ley.
+Estos informes deberán ser verificados de conformidad con lo dispuesto en la parte A del anexo IV y la normativa de la Unión Europea sobre verificación y acreditación, y, en su caso, con arreglo a la normativa de desarrollo de esta ley. Dicha normativa será informada preceptivamente por la Comisión de Coordinación de Políticas de Cambio Climático.
+La normativa de desarrollo podrá prever requisitos para que los titulares de instalaciones notifiquen las emisiones asociadas a la fabricación de productos por industrias grandes consumidoras de energía que puedan estar sujetas a la competencia internacional y para que la información relativa a sus emisiones sea verificada de forma independiente. Esos requisitos pueden referirse a la notificación de los niveles de emisión por la generación de electricidad incluida en el régimen de la Unión Europea asociada a la fabricación de esos productos.
+La normativa de desarrollo en materia de seguimiento y notificación podrá incluir requisitos sobre el uso de sistemas automatizados y formatos de intercambio de datos para armonizar la comunicación para las instalaciones fijas.
+4. La información cubierta por el secreto profesional no podrá divulgarse a ninguna otra persona o autoridad excepto en virtud de las disposiciones legales, reglamentarias o administrativas aplicables.
+Se modifica por el art. único.23 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.14 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 23
+
+Artículo 23. Valoración del informe verificado sobre las emisiones del año precedente.
+1. Si el órgano autonómico competente da su conformidad al informe verificado sobre las emisiones del año precedente descrito en el artículo 22.1, procederá a inscribir antes del 31 de marzo del año en curso el dato sobre emisiones del año precedente en la tabla de emisiones verificadas que a tal efecto se habilite en el área española del Registro de la Unión Europea.
+2. Si el órgano autonómico competente discrepara del informe verificado, notificará al titular de la instalación la existencia de discrepancias, la propuesta de resolución de estas para poder considerar satisfactorio el informe y, en su caso, la estimación de emisiones. Examinadas las alegaciones del titular de la instalación, el órgano autonómico competente resolverá e inscribirá en la tabla de emisiones verificadas habilitada a tal efecto en el área española del Registro de la Unión Europea el dato sobre emisiones de la instalación.
+3. En los supuestos en los que el titular no remitiese el informe verificado en el plazo establecido en el artículo 22.1, el órgano autonómico competente procederá a la estimación de emisiones e inscribirá en la tabla de emisiones verificadas habilitada a tal efecto en el área española del Registro de la Unión Europea el dato sobre emisiones de la instalación. Se sustanciará el trámite de audiencia previa al titular de la instalación conforme a lo previsto en el artículo 82 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+4. La estimación del dato de emisiones en los supuestos de los apartados 2 y 3 de este artículo se realizará de acuerdo con la metodología exigible.
+5. La Comisión de Coordinación de Políticas de Cambio Climático podrá solicitar que las autoridades competentes para el ejercicio de las funciones previstas en este artículo informen en su seno del desarrollo de las mismas.
+Se modifica por el art. único.23 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.14 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+## Sección 2
+
+Sección 2.ª Verificación de datos y acreditación de los verificadores
+Se añade por el art. único.23 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Artículo 24
+
+Artículo 24. Verificación de datos.
+El informe anual sobre los datos de emisiones, el informe sobre los datos de referencia para solicitar asignación gratuita, el informe sobre los datos de nuevo entrante y el informe de nivel de actividad deberán ser verificados de conformidad con la normativa de la Unión Europea que desarrolla los artículos 14 y 15 de la Directiva 2003/87/CE, de 13 de octubre de 2003.
+Se modifica por el art. único.23 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.14 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 24 bis
+
+Artículo 24 bis. Acreditación de los verificadores.
+Los verificadores que desarrollen las actividades de verificación del artículo 24 deberán estar acreditados de conformidad con los requisitos establecidos en la normativa de la Unión Europea y, en particular, el Reglamento de Ejecución (UE) 2018/2067 de la Comisión de 19 de diciembre de 2018 relativo a la verificación de los datos y a la acreditación de los verificadores de conformidad con la Directiva 2003/87/CE del Parlamento Europeo y del Consejo.
+Se añade por el art. único.23 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+## CAPÍTULO VII
+
+Registro de la Unión Europea y obligaciones de entrega de derechos de emisión
+Se modifica por el art. único.24 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica la denominación por el art. único.15 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 25
+
+Artículo 25. Registro de la Unión Europea.
+1. El Registro de la Unión Europea es el instrumento a través del cual se asegura la publicidad y permanente actualización de la titularidad y control de los derechos de emisión y de otras unidades, como las unidades de reducción de emisiones o las reducciones certificadas de emisiones del Protocolo de Kioto, y se regula por la normativa de la Unión Europea y por lo establecido en esta ley.
+2. Los titulares de instalaciones fijas y los operadores aéreos tendrán la obligación de abrir una cuenta de haberes de titular en el área española del Registro de la Unión Europea.
+A estos efectos, las resoluciones de aprobación y extinción de los planes de seguimiento de las emisiones de los operadores aéreos se comunicarán a la Oficina Española de Cambio Climático, como órgano competente en materia de registro conforme al apartado siguiente, en el plazo de diez días desde su adopción.
+3. El Registro de la Unión Europea será accesible al público, en los términos previstos en la normativa de la Unión Europea. El órgano competente en relación con el área española del Registro de la Unión Europea será la Oficina Española de Cambio Climático del Ministerio para la Transición Ecológica y el Reto Demográfico. Esta Oficina ejercerá sus competencias en relación con la actividad de las cuentas de haberes de las instalaciones ubicadas en territorio español, de los operadores aéreos cuya gestión corresponda a España, y de las cuentas de personas físicas y jurídicas que hayan sido abiertas en el área española del Registro de la Unión Europea tras petición dirigida a la misma, sin perjuicio de la competencia que ostentan las comunidades autónomas en relación con la inscripción del dato de emisiones verificadas de las instalaciones fijas.
+4. El Registro de la Unión Europea tendrá por objeto la inscripción de todas las operaciones relativas a la expedición, titularidad, transmisión, transferencia, entrega, supresión, retirada, y cancelación de los derechos de emisión, de las unidades de reducción de emisiones y de las reducciones certificadas de emisiones, así como a la constitución de derechos reales u otra clase de gravámenes sobre los mismos, en la medida que así lo contemple la normativa por la que se establezca y regule el Registro de la Unión Europea. Asimismo, inscribirá la suspensión de la capacidad de transmitir las unidades citadas en los supuestos previstos en el artículo 26 bis, así como en el resto de supuestos que estén previstos por la normativa de la Unión Europea de desarrollo.
+5. Las normas de organización y funcionamiento del área española del Registro de la Unión Europea se desarrollarán por real decreto, de acuerdo con lo dispuesto en la normativa de la Unión Europea por la que se establece y regula el Registro de la Unión Europea.
+Se modifica por el art. único.24 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.15 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Se añade el apartado 6 por la disposición final 3 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+ Se modifica el apartado 1 por el art. 33.3 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Artículo 26
+
+Artículo 26. Expedición de derechos de emisión.
+1. Cada año, la Oficina Española de Cambio Climático comunicará a la Comisión Europea la cantidad de derechos de emisión que deben expedirse ese año, de conformidad con los artículos 14, 19, 38 y 41, tanto para instalaciones fijas como para el sector de la aviación.
+2. Antes del 28 de febrero de cada año la Oficina Española de Cambio Climático propondrá al administrador central del Registro de la Unión Europea la ejecución automática de la transferencia, desde la cuenta de asignación de la Unión Europea correspondiente a la cuenta de haberes de cada titular y operador aéreo, por la cantidad de derechos de emisión otorgados gratuitamente que le correspondan conforme a los acuerdos a los que se refieren los artículos 19.5, 38.5 y 41.
+3. No obstante, la transferencia a la que se refiere el apartado 2 no será propuesta a 28 de febrero de cada año cuando concurra alguna de las circunstancias establecidas en la normativa de la Unión Europea de aplicación y en la normativa de desarrollo de esta ley.
+4. Podrá no ser propuesta a 28 de febrero de cada año la transferencia a que se refiere el apartado 2 en el caso de que se haya ejecutado la transferencia de la asignación de años anteriores y, con posterioridad, se tenga conocimiento de que existe una disminución de la actividad que suponga una reducción de la asignación gratuita otorgada para dicho año y hasta el momento en que el titular de la cuenta de haberes de la instalación realice la devolución del exceso de derechos de emisión transferidos.
+5. Podrá no ser propuesta a 28 de febrero de cada año la transferencia a que se refiere el apartado 2 cuando el plan metodológico de seguimiento no cumpla con los requisitos establecidos reglamentariamente.
+6. La transferencia de derechos de emisión otorgados gratuitamente a los nuevos entrantes se producirá de conformidad con la normativa de la Unión Europea y, en su caso, con la normativa de desarrollo de esta ley, y en todo caso tras la comunicación de la comunidad autónoma a la Oficina Española de Cambio Climático de que la instalación se ha puesto en funcionamiento.
+Se modifica por el art. único.24 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.15 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 26 bis
+
+Artículo 26 bis. Suspensión de las operaciones de transmisión de derechos de emisión.
+1. En los supuestos previstos en los apartados 2 y 3 del artículo 23, el titular no podrá transmitir derechos de emisión en tanto no se produzca la inscripción del dato sobre emisiones por el órgano autonómico competente.
+2. En los supuestos previstos en los apartados 2 y 3 del artículo 36 ter, el operador aéreo no podrá transmitir derechos de emisión en tanto no se produzca la inscripción del dato sobre emisiones por el Ministerio para la Transición Ecológica y el Reto Demográfico.
+Se añade por el art. único.24 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Artículo 27
+
+Artículo 27. Supresión y entrega de derechos de emisión.
+1. La Oficina Española de Cambio Climático tomará las medidas necesarias para que los derechos de emisión se supriman en cualquier momento a petición de su titular.
+2. Antes del 30 de abril de cada año, los titulares de las instalaciones y los operadores aéreos deberán entregar un número de derechos de emisión equivalente al dato de emisiones verificadas inscrito de conformidad con lo dispuesto en los artículos 23 y 36 ter.
+La entrega determinará la transferencia de derechos desde la cuenta de haberes del titular de la instalación o del operador aéreo y quedará reflejada en las tablas de entrega de derechos y de estado de cumplimiento.
+3. No habrá obligación de entregar derechos de emisión relativos a emisiones cuya captura esté comprobada y que se hayan transportado para su almacenamiento permanente a una instalación con una autorización vigente de conformidad con la legislación en vigor sobre almacenamiento geológico de dióxido de carbono.
+4. Para cumplir con las obligaciones previstas en el apartado 2 los titulares de instalaciones fijas y los operadores aéreos incluidos en el régimen de comercio de derechos de emisión no podrán entregar derechos de emisión expedidos por un Estado miembro respecto del cual existan obligaciones que se extingan para los titulares de instalaciones fijas y los operadores aéreos, como consecuencia de la notificación de retirada de la Unión de dicho Estado miembro conforme a lo previsto en el artículo 50 del Tratado de la Unión Europea.
+Se modifica por el art. único.24 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.15 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 27 bis
+
+Artículo 27 bis. Utilización de RCE y URE.
+1. La utilización por parte de los titulares de instalaciones fijas y de los operadores aéreos de reducciones certificadas de emisiones o unidades de reducción de emisiones procedentes de los mecanismos de flexibilidad para cumplir con la obligación de entrega establecida en el apartado 2 del artículo 27 sólo será posible en la medida en que no se superen los límites cuantitativos establecidos a tal efecto. Los límites correspondientes a cada instalación y a cada operador aéreo se precisarán reglamentariamente, teniendo en cuenta las normas armonizadas sobre este asunto que adopte la Comisión europea.
+2. En todo caso, en la medida en que no hayan agotado las cuotas de utilización de reducciones certificadas de emisiones y unidades de reducción de emisiones autorizadas para el período 2008-2012 los titulares de instalaciones o los operadores aéreos podrán solicitar a la autoridad competente que les expida derechos de emisión válidos a partir de 2013 a cambio de reducciones certificadas de emisiones o unidades de reducción de emisiones procedentes de proyectos elegibles para su uso en el régimen comunitario de comercio de derechos de emisión durante el período 2008-2012. La normativa de desarrollo podrá establecer requisitos aplicables a estos créditos de reducción de emisiones de conformidad con lo exigido por la normativa comunitaria.
+3. En particular, en la medida en que no hayan agotado las cuotas de utilización de reducciones certificadas de emisiones y unidades de reducción de emisiones autorizadas para el período 2008-2012, la autoridad competente autorizará a los titulares de instalaciones o a los operadores aéreos, siempre y cuando sea conforme a la normativa europea, a intercambiar reducciones certificadas de emisiones y unidades de reducción de emisiones de proyectos registrados antes de 2013, expedidas en relación con reducción de emisiones a partir de 2013, por derechos de emisión válidos a partir de 2013.
+Se añade por el art. único.15 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 28
+
+Artículo 28. Relación del área española del Registro de la Unión Europea con el administrador central.
+Cuando el administrador central al que la Comisión Europea encomiende la función de gestión del Registro de la Unión Europea informe a la Oficina Española de Cambio Climático de irregularidades que haya detectado en relación con alguna operación de transferencia de derechos de emisión, se suspenderá cautelarmente la inscripción de la operación afectada, así como cualquier otra en la que estén implicados los derechos de emisión correspondientes, hasta que se hayan resuelto las irregularidades detectadas.
+Se modifica por el art. único.24 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.15 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+## CAPÍTULO VIII
+
+Régimen sancionador
+
+### Artículo 29
+
+Artículo 29. Tipificación de las infracciones para instalaciones fijas.
+1. A los efectos de esta ley, y teniendo en cuenta lo dispuesto en la legislación autonómica y en la normativa de la Unión Europea, sin perjuicio de las responsabilidades penales, civiles u otras administrativas a que hubiere lugar, las infracciones administrativas se clasifican en muy graves, graves y leves.
+2. Son infracciones administrativas muy graves las siguientes:
+1.º Ejercer la actividad sin la preceptiva autorización de emisión de gases de efecto invernadero.
+2.º Incumplir la obligación de informar sobre la modificación del carácter, el funcionamiento o el tamaño de la instalación, establecida en el artículo 6, siempre que suponga alteraciones significativas en los datos de emisiones o requiera cambios en la metodología aplicable para cumplir las obligaciones de seguimiento previstas en el artículo 4.2.d).
+3.º No presentar el informe anual verificado de las emisiones exigido en el artículo 22.1.
+4.º Ocultar o alterar intencionadamente la información exigida en el artículo 19.3 o incumplir la obligación de informar, al amparo del artículo 6, de cambios en la instalación que pudieran tener incidencia en la determinación del volumen de derechos asignados.
+5.º Incumplir la obligación de entregar derechos exigida en el artículo 27.2 o, en el caso de las instalaciones excluidas del régimen de comercio de derechos de emisión, incumplir la medida de mitigación equivalente a la prevista por la participación en el régimen de comercio de derechos de emisión definida reglamentariamente.
+6.º Impedir el acceso del verificador a los emplazamientos de la instalación en los supuestos en los que esté facultado por el anexo IV de esta ley y su normativa de desarrollo.
+7.º No aportar la información necesaria para el procedimiento de verificación.
+8.º No presentar el informe de nivel de actividad verificado exigido en el artículo 22.2.
+9.º No presentar la modificación del plan metodológico de seguimiento con arreglo a lo previsto en el desarrollo reglamentario de esta ley, cuando dicha modificación tenga incidencia en la determinación del volumen de derechos asignados.
+10.º Incumplir la obligación de devolver los derechos gratuitos transferidos en exceso una vez haya adquirido firmeza la resolución por la que se ordena la devolución.
+3. Son infracciones administrativas graves:
+1.º Ocultar o alterar intencionadamente la información exigida en los artículos 5 y 6.
+2.º Incumplir la obligación de informar sobre la modificación de la identidad o el domicilio del titular establecida en el artículo 6.
+3.º Incumplir las condiciones de seguimiento de las emisiones establecidas en la autorización cuando de dicho incumplimiento se deriven alteraciones en los datos de emisiones.
+4.º Incumplir las normas reguladoras de los informes anuales verificados sobre las emisiones, siempre que implique alteración de los datos de emisiones.
+5.º Incumplir las normas reguladoras del informe de nivel de actividad verificado, siempre que implique alteración de los datos de niveles de actividad.
+6.º No presentar la modificación del plan metodológico de seguimiento con arreglo a lo previsto en el desarrollo reglamentario de esta ley, cuando dicha modificación se considere importante con arreglo a la normativa de la Unión Europea y no tenga incidencia en la determinación del volumen de derechos asignados.
+4. Son infracciones administrativas leves:
+1.º Incumplir las condiciones de seguimiento de las emisiones establecidas en la autorización cuando de dicho incumplimiento no se deriven alteraciones en los datos de emisiones.
+2.º Incumplir las normas reguladoras de los informes anuales verificados sobre las emisiones, siempre que no implique alteración de los datos de emisiones.
+3.º Incumplir las normas reguladoras del informe de nivel de actividad verificado, siempre que no implique alteración de los datos de niveles de actividad.
+4.º No presentar la modificación del plan metodológico de seguimiento, con arreglo a lo previsto en el desarrollo reglamentario de esta ley, cuando dicha modificación no se considere significativa con arreglo a la normativa de la Unión Europea.
+5.º Incumplir cualesquiera otras obligaciones establecidas en esta ley cuando dicho incumplimiento no haya sido tipificado como infracción administrativa muy grave o grave en los apartados precedentes.
+Se modifica por el art. único.25 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica el apartado 2.4 por el art. 5.2 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+ Se modifica por el art. único.16 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 29 bis
+
+Artículo 29 bis. Tipificación de las infracciones para la aviación.
+1. A los efectos de esta ley, y teniendo en cuenta lo dispuesto en la normativa de la Unión Europea, sin perjuicio de las responsabilidades penales, civiles u otras administrativas a que hubiere lugar, las infracciones administrativas en materia de aviación se clasifican en graves, muy graves y leves.
+2. Son infracciones administrativas muy graves las siguientes:
+1.º No presentar el informe anual verificado exigido en el artículo 36 bis apartado 1.
+2.º Ocultar o alterar intencionadamente la información exigida en los artículos 38 y 40.
+3.º Incumplir la obligación de entregar derechos exigida en el artículo 27.2.
+4.º No aportar la información necesaria para el procedimiento de verificación.
+5.º Incumplir la obligación de presentar el plan de seguimiento de emisiones.
+3. Son infracciones administrativas graves:
+1.º Ocultar o alterar intencionadamente la información exigida en el artículo 36.
+2.º Incumplir las condiciones de seguimiento de las emisiones establecidas en el plan de seguimiento, cuando de dicho incumplimiento se deriven alteraciones en los datos de emisiones.
+3.º Incumplir las normas reguladoras de los informes anuales verificados, siempre que implique alteración de los datos de emisiones.
+4. Son infracciones administrativas leves:
+1.º Incumplir las condiciones de seguimiento, de las emisiones establecidas en el plan de seguimiento cuando de dicho incumplimiento no se deriven alteraciones en los datos de emisiones.
+2.º Incumplir las normas reguladoras de los informes anuales verificados, siempre que no implique alteración de los datos de emisiones.
+3.º Incumplir cualesquiera otras obligaciones establecidas en esta ley, cuando tal cosa no haya sido tipificada como infracción administrativa muy grave o grave en los apartados precedentes.
+Se modifica por el art. único.26 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añade por el art. único.17 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 30
+
+Artículo 30. Sanciones.
+1. Las infracciones tipificadas en los apartados 2, 3 y 4 del artículo 29 darán lugar a la imposición de todas o alguna de las siguientes sanciones para instalaciones fijas:
+a) En el caso de infracción muy grave:
+1.º Multa desde 15.001 hasta dos millones de euros.
+2.º Clausura temporal, total o parcial, de las instalaciones por un período máximo de dos años.
+3.º Extinción de la autorización o suspensión de ésta por un período mínimo de un año y máximo de dos.
+4.º En los supuestos previstos en el artículo 29.2.5.º, multa de 100 euros por cada tonelada emitida en exceso y la publicación, a través de los medios que la autoridad competente considere oportunos, de las sanciones impuestas una vez que éstas hayan adquirido firmeza, así como los nombres, apellidos o razón social de las personas físicas o jurídicas responsables y la índole de las infracciones.
+b) En el caso de infracción grave:
+1.º Multa desde 5.001 hasta 15.000 euros.
+2.º Suspensión de la autorización por un período máximo de un año.
+c) En caso de infracción leve: multa de hasta 5.000 euros.
+2. Las infracciones tipificadas en los apartados 2, 3 y 4 del artículo 29 bis darán lugar a la imposición de todas o alguna de las siguientes sanciones para los operadores aéreos:
+a) En el caso de infracción muy grave:
+1.º Multa desde 15.001 hasta dos millones de euros.
+2.º En los supuestos previstos en el artículo 29.2.3.º, multa de 100 euros por cada tonelada emitida en exceso y la publicación, a través de los medios que la autoridad competente considere oportunos, de las sanciones impuestas una vez que éstas hayan adquirido firmeza, así como los nombres, apellidos o razón social de las personas físicas o jurídicas responsables y la índole de las infracciones.
+b) En el caso de infracción grave: multa desde 5.001 hasta 15.000 euros.
+c) En caso de infracción leve: multa de hasta 5.000 euros.
+3. El pago de la multa referida en los apartados 1.a).4.º y 2.a).2.º no eximirá al titular de instalación u operador aéreo de entregar una cantidad de derechos de emisión equivalente a la de las emisiones en exceso, en el momento de entregar los derechos de emisión correspondientes al año natural siguiente al de comisión de la infracción.
+La sanción por exceso de emisiones en relación con derechos de emisión expedidos a partir del 1 de enero de 2013 aumentará de acuerdo con el Índice de Precios al Consumo Europeo.
+Se modifica por la disposición final 3.1 de la Ley 9/2018, de 5 de diciembre. Ref. BOE-A-2018-16674#df-3
+ Se modifica por el art. único.18 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.3 de esta Ley.
+
+### Artículo 31
+
+Artículo 31. Prohibición de explotación a operadores aéreos.
+1. En caso de que un operador aéreo cuya gestión corresponda a España no cumpla los requisitos de la presente Ley y que otras medidas coercitivas no hayan logrado garantizar su cumplimiento, la Administración General del Estado, previa consulta de la Comisión de coordinación de políticas de cambio climático, podrá solicitar a la Comisión europea que decida prohibir la explotación al operador aéreo afectado. A estos efectos, la Agencia Estatal de Seguridad Aérea podrá instar la adopción de esta medida.
+2. Los operadores aéreos afectados por una decisión de la Comisión europea que imponga una prohibición de explotación, no podrán operar en el territorio español.
+La Agencia Estatal de Seguridad Aérea velará por la aplicación de esta medida de conformidad con lo previsto en la Ley 21/2003, de 7 de julio, de Seguridad Aérea.
+3. Se informará a la Comisión europea, e igualmente a la Comisión de coordinación de políticas de cambio climático, de las medidas adoptadas por España para aplicar las decisiones de prohibición de explotación que se hayan adoptado.
+Se modifica por el art. único.19 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.3 de esta Ley.
+
+### Artículo 32
+
+Artículo 32. Graduación de las sanciones.
+1. En la imposición de las sanciones se deberá mantener la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada, con especial consideración de los siguientes criterios:
+a) La existencia de intencionalidad.
+b) La reincidencia por comisión de más de una infracción tipificada en esta Ley, cuando así haya sido declarado por resolución firme.
+c) El beneficio obtenido por la comisión de la infracción.
+d) La diferencia entre las emisiones reales y las notificadas.
+e) La diferencia entre el nivel de actividad real y el notificado en virtud del artículo 22.2.
+2. Los criterios establecidos se tendrán en cuenta para graduar la sanción que se imponga dentro del intervalo correspondiente a cada tipo de infracción.
+3. Las infracciones tipificadas en el artículo 29.3 no darán lugar a la sanción de suspensión de la autorización prevista en el artículo 30.b).2.º cuando se haya procedido a la subsanación de la infracción por propia iniciativa.
+4. En todo caso, la clausura temporal, total o parcial, de las instalaciones se acordará sin perjuicio del pago del salario o de las indemnizaciones a los trabajadores que procedan y de las medidas que puedan arbitrarse para su garantía.
+5. Cuando la cuantía de la multa resulte inferior al beneficio obtenido por la comisión de la infracción, la multa podrá ser aumentada hasta el doble de dicho beneficio.
+Se añade la letra e) en el apartado 1 por el art. único.27 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Artículo 33
+
+Artículo 33. Concurrencia de sanciones.
+Cuando, por unos mismos hechos y fundamentos jurídicos, el infractor pudiese ser sancionado con arreglo a esta Ley y a otra u otras leyes que fueran de aplicación, de las posibles sanciones se le impondrá la de mayor gravedad.
+
+### Artículo 34
+
+Artículo 34. Medidas de carácter provisional.
+Cuando se haya iniciado un procedimiento sancionador por infracción muy grave o grave, y si fuera necesario para asegurar la eficacia de la resolución, el órgano competente para sancionar podrá acordar alguna o algunas de las siguientes medidas provisionales para instalaciones fijas:
+a) Clausura temporal, parcial o total, de las instalaciones, únicamente cuando se trate de procedimientos incoados por infracciones muy graves, y teniendo en cuenta lo dispuesto en el artículo 32.4.
+b) Precintado de aparatos o equipos.
+c) Suspensión temporal de la autorización de emisión de gases de efecto invernadero.
+d) Suspensión del acceso a las cuentas del Registro de la Unión Europea.
+e) Suspensión de la transferencia de la asignación gratuita de derechos de emisión que tuviera reconocida.
+Las medidas provisionales previstas en los apartado d) y e) podrán acordarse también para operadores aéreos cuando se haya iniciado un procedimiento sancionador por infracción muy grave o grave.
+Se modifica por el art. único.28 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.20 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 35
+
+Artículo 35. Potestad sancionadora.
+1. En lo que respecta a las instalaciones fijas, corresponde a las comunidades autónomas el ejercicio de la potestad sancionadora, a excepción de las infracciones previstas en los artículos 29.2.4.º, 8.º, 9.º y 10.º; 29.3.5.º y 6.º y 29.4.3.º y 4.º, en las que el ejercicio de la potestad sancionadora recaerá en la Administración General del Estado.
+2. El titular de la Secretaría de Estado de Medio Ambiente ejercerá la potestad sancionadora sobre los operadores aéreos, previo informe de la Agencia Estatal de Seguridad Aérea.
+Se modifica por el art. único.29 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.21 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta la disposición transitoria única.3 de esta Ley.
+
+### Artículo 35 bis
+
+Artículo 35 bis. Especialidades del procedimiento administrativo sancionador en las materias competencia de la Administración General del Estado.
+1. En las materias atribuidas por esta ley a la Administración General del Estado, el órgano competente para la iniciación del procedimiento será la Oficina Española de Cambio Climático. Con anterioridad a la iniciación del procedimiento, se podrán realizar actuaciones previas, cuya competencia recaerá en la Oficina Española de Cambio Climático, la cual podrá recabar de órganos de distintas Administraciones la información pertinente.
+2. La instrucción del procedimiento recaerá en un funcionario de la Oficina Española de Cambio Climático designado a tal efecto en el acuerdo de iniciación del procedimiento. Asimismo, si la complejidad del procedimiento lo requiere, se podrá designar como secretario a un funcionario distinto, del mismo órgano.
+3. La resolución del procedimiento sancionador, en los supuestos previstos en el artículo 35 de competencia de la Administración General del Estado, recaerá en la persona titular de la Secretaría de Estado de Medio Ambiente, a excepción de la infracción tipificada en artículo 29.2.4.º, sobre la que resolverá el Consejo de Ministros, previo informe de la Abogacía del Estado.
+4. Se establece el plazo de un año, a contar desde la fecha del acuerdo de iniciación, para dictar la resolución del procedimiento y notificar al interesado la resolución que le ponga término.
+5. En lo no previsto por el presente artículo y en lo referente al régimen de recursos el procedimiento administrativo sancionador de aplicación de esta ley se regirá por las disposiciones previstas en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, así como en los principios de la potestad sancionadora recogidos en el capítulo III de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+Se modifica el apartado 3 por el art. único.30 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añade por la disposición final 3.2 de la Ley 9/2018, de 5 de diciembre. Ref. BOE-A-2018-16674#df-3
+
+### CAPÍTULO IX
+
+Aviación
+Se añade por el art. único.22 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 36
+
+Artículo 36. Planes de seguimiento.
+1. Los operadores aéreos deberán contar con un plan de seguimiento en el que se establezcan medidas para realizar el seguimiento y la notificación de sus datos de emisiones anuales y toneladas-kilómetro transportadas.
+2. Al menos cuatro meses antes del comienzo del primer periodo de notificación, los operadores aéreos deberán presentar ante el Ministerio de Transportes, Movilidad y Agenda Urbana planes de seguimiento.
+El periodo de seguimiento en relación con los datos de toneladas-kilómetro se limitará al año natural que finalice veinticuatro meses antes del comienzo de cada periodo de comercio.
+3. Corresponderá al Ministerio para la Transición Ecológica y el Reto Demográfico, previo informe del Ministerio de Transportes, Movilidad y Agenda Urbana, aprobar, conforme a los criterios establecidos en la normativa de la Unión Europea y en los desarrollos reglamentarios de esta ley que en su caso se adopten, los planes de seguimiento sobre los datos de emisiones y toneladas-kilómetro transportadas presentados por los operadores aéreos antes del comienzo del periodo de notificación. El informe del Ministerio de Transportes, Movilidad y Agenda Urbana deberá ser emitido en el plazo máximo de dos meses desde la presentación del plan. La Secretaría de Estado de Medio Ambiente informará a la Comisión de Coordinación de Políticas de Cambio Climático de los planes de seguimiento aprobados.
+4. El operador aéreo deberá revisar regularmente el plan de seguimiento aprobado y, en todo caso, antes del comienzo de cada periodo de comercio.
+Cualquier modificación del plan de seguimiento deberá presentarse ante el Ministerio de Transportes, Movilidad y Agenda Urbana para su informe y posterior aprobación por el Ministerio para la Transición Ecológica y el Reto Demográfico. Cuando el Ministerio para la Transición Ecológica y el Reto Demográfico considere que la modificación del plan presentado no sea significativa con arreglo a la normativa de la Unión Europea y no requiera aprobación informará de dicha circunstancia al operador aéreo. El operador aéreo mantendrá un registro de todas las modificaciones del plan de seguimiento con arreglo a la normativa de la Unión Europea.
+5. Los planes de seguimiento de emisiones quedarán extinguidos en los supuestos siguientes:
+a) Apertura de la fase de liquidación en concurso de acreedores si la disolución de la persona jurídica no se hubiese acordado previamente, o extinción de la personalidad jurídica.
+b) Pérdida definitiva de los certificados o licencias exigibles para operar.
+Se modifica por el art. único.31 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por la disposición final 3.3 de la Ley 9/2018, de 5 de diciembre. Ref. BOE-A-2018-16674#df-3
+ Se añade por el art. único.22 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 36 bis
+
+Artículo 36 bis. Notificación de emisiones de operadores aéreos.
+1. El operador aéreo deberá remitir al Ministerio de Transportes, Movilidad y Agenda Urbana, antes del 28 de febrero, el informe verificado sobre los datos de las emisiones producidas durante el año anterior, que se ajustará a lo exigido en el plan de seguimiento, según lo dispuesto en el artículo 36, y a la parte B del anexo III.
+El contenido mínimo del informe verificado sobre las emisiones vendrá determinado por la normativa de la Unión Europea sobre notificación y seguimiento de las emisiones y, en su caso, por la normativa de desarrollo de esta ley.
+El informe deberá ser verificado de conformidad con lo dispuesto en el anexo IV y la normativa de la Unión Europea sobre verificación y acreditación, y, en su caso, con la normativa de desarrollo de esta ley. Dicha normativa será informada preceptivamente por la Comisión de Coordinación de Políticas de Cambio Climático.
+La normativa de desarrollo en materia de notificación y seguimiento podrá incluir requisitos sobre el uso de sistemas automatizados y formatos de intercambio de datos para armonizar la comunicación sobre el plan de seguimiento, el informe anual sobre los datos de las emisiones y las actividades de verificación entre el titular, el verificador y las autoridades competentes.
+2. Los operadores aéreos a los que se refiere el anexo I que comiencen a desarrollar una actividad de aviación de las recogidas en el anexo I después del 1 de febrero de 2009, realizarán el informe relativo a las emisiones del primer año de actividad utilizando las disposiciones relativas a lagunas de datos previstas en la normativa de la Unión en materia de seguimiento y notificación de las emisiones.
+Las obligaciones previstas en este apartado serán aplicables a las emisiones que tengan lugar a partir de 1 de enero de 2010.
+3. Los operadores aéreos que, con arreglo a los criterios establecidos en la normativa de la Unión Europea aplicable y, en su caso, los desarrollos reglamentarios de esta ley, sean considerados pequeños emisores podrán emplear los procedimientos de seguimiento y notificación simplificados que se prevean en la citada normativa.
+Asimismo, se podrán aplicar procedimientos simplificados para los operadores aéreos siempre que dichos procedimientos no proporcionen menos exactitud de la que proporciona el instrumento para pequeños emisores en los casos previstos en la normativa de la Unión Europea.
+4. Cuando, de conformidad con la definición de la actividad de aviación recogida en el cuadro del anexo I, un operador aéreo deje de realizar actividades de aviación incluidas en el ámbito de aplicación de esta ley, deberá remitir una comunicación al Ministerio de Transportes, Movilidad y Agenda Urbana en la que se acredite esta circunstancia. En el plazo de un mes, el Ministerio de Transportes, Movilidad y Agenda Urbana responderá informando de que no tiene objeciones, o bien, si las tuviera, indicando cuáles son.
+Cuando un nuevo operador que aparezca atribuido a España en la “Lista de operadores de aeronaves y Estados miembros responsables de la gestión que les corresponden” a la que se refiere el apartado 6 del anexo I no realice actividades incluidas en el ámbito de aplicación de esta ley, procederá de conformidad con lo previsto en el apartado anterior.
+5. La información cubierta por el secreto profesional no podrá divulgarse a ninguna otra persona o autoridad excepto en lo previsto por disposiciones legales o reglamentarias.
+Se añade por el art. único.31 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Artículo 36 ter
+
+Artículo 36 ter. Valoración del informe verificado sobre las emisiones del año precedente de los operadores aéreos.
+1. Si el Ministerio de Transportes, Movilidad y Agenda Urbana emitiese informe favorable respecto al informe sobre los datos de las emisiones verificado presentado por un operador aéreo, lo notificará al Ministerio para la Transición Ecológica y el Reto Demográfico para que este proceda a inscribir, antes del 31 de marzo, el dato sobre emisiones del año precedente en la tabla de emisiones verificadas que a tal efecto se habilite en el área española del Registro de la Unión Europea.
+2. Si el Ministerio de Transportes, Movilidad y Agenda Urbana discrepara del informe verificado, notificará al operador aéreo la existencia de discrepancias, la propuesta de resolución de estas para poder considerar satisfactorio el informe y, en su caso, la estimación de emisiones. Examinadas las alegaciones del operador aéreo, el Ministerio de Transportes, Movilidad y Agenda Urbana resolverá y solicitará al Ministerio para la Transición Ecológica y el Reto Demográfico que inscriba, en la tabla de emisiones verificadas habilitada a tal efecto en el registro, el dato sobre emisiones del operador aéreo.
+3. En los supuestos en los que el operador aéreo no remitiese el informe verificado en el plazo establecido en el artículo 36 bis, el Ministerio para la Transición Ecológica y el Reto Demográfico, a solicitud del Ministerio de Transportes, Movilidad y Agenda Urbana, procederá a la estimación de emisiones e inscribirá en la tabla de emisiones verificadas habilitada a tal efecto en el área española del Registro de la Unión Europea el dato sobre emisiones del operador aéreo.
+4. La estimación del dato de emisiones en los supuestos de los apartados 2 y 3 se realizará de acuerdo con la metodología exigible.
+La estimación del dato de emisiones de las actividades de aviación se realizará aplicando las disposiciones relativas a lagunas de datos previstas en la normativa de la Unión Europea en materia de seguimiento y notificación de las emisiones sobre las actividades realizadas por el operador aéreo.
+5. La Comisión de Coordinación de Políticas de Cambio Climático podrá solicitar que las autoridades competentes para el ejercicio de las funciones previstas en este artículo informen en su seno del desarrollo de las mismas.
+Se añade por el art. único.31 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Artículo 37
+
+Artículo 37. Cantidad total de derechos para el sector de la aviación.
+Los derechos de emisión de cada periodo de comercio se asignarán a los operadores aeronaves de acuerdo con lo previsto en los artículos siguientes.
+La cantidad total de derechos de emisión que se expida para el sector de la aviación en la Unión Europea en su conjunto será la determinada por la Comisión Europea de acuerdo con la normativa de la Unión.
+Se modifica por el art. único.31 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añade por el art. único.22 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 38
+
+Artículo 38. Asignación de derechos de emisión a los operadores aéreos.
+1. Para cada uno de los periodos de comercio definidos en el artículo 13, cada operador aéreo podrá solicitar la asignación de derechos de emisión gratuitos, de acuerdo con lo establecido en la normativa de la Unión Europea.
+2. Dicha solicitud se presentará ante el Ministerio para la Transición Ecológica y el Reto Demográfico.
+El plazo de presentación de la solicitud para cada periodo de comercio, su contenido y la documentación que deba acompañarla serán determinados reglamentariamente.
+La solicitud consistirá en los datos de toneladas-kilómetro verificados en relación con las actividades de aviación enumeradas en el anexo I realizadas por ese operador aéreo en el año de seguimiento para la asignación de un periodo de comercio.
+A los efectos del párrafo anterior, el año de seguimiento para la asignación de un periodo de comercio será el año natural que finalice veinticuatro meses antes del comienzo del periodo de comercio.
+El Ministerio para la Transición Ecológica y el Reto Demográfico remitirá las solicitudes de asignación recibidas al Ministerio de Transportes, Movilidad y Agenda Urbana que podrá emitir informe sobre dichas solicitudes en un plazo de un mes a contar desde la recepción de la solicitud.
+3. El Ministerio para la Transición Ecológica y el Reto Demográfico remitirá a la Comisión Europea las solicitudes de asignación recibidas acompañadas del informe que, en su caso, hubiese emitido el Ministerio de Transportes, Movilidad y Agenda Urbana, de acuerdo con lo establecido en la normativa de la Unión Europea.
+4. La asignación a los operadores aéreos se basará en los parámetros que, de conformidad con la normativa de la Unión Europea, determine la Comisión Europea al menos quince meses antes del comienzo de cada periodo de comercio. Dichos parámetros son:
+a) La cantidad total de derechos de emisión que se asignarán para ese periodo de comercio.
+b) El número de derechos de emisión que deban subastarse en ese periodo de comercio.
+c) El número de derechos de emisión de la reserva especial para los operadores aéreos en ese periodo de comercio.
+d) El número de derechos de emisión que deban asignarse gratuitamente en ese periodo de comercio restando el número de derechos de emisión contemplados en las letras b) y c) de la cantidad total de derechos de emisión sobre los que se haya tomado la decisión a que se refiere la letra a), y
+e) El valor de referencia que se utilizará para asignar gratuitamente los derechos de emisión a los operadores aéreos que hayan presentado solicitud de asignación conforme al apartado 2.
+5. La asignación de derechos de emisión, una vez realizado el trámite de información pública, se adoptará mediante acuerdo del Consejo de Ministros, previa consulta a la Comisión de Coordinación de Políticas de Cambio Climático, y a propuesta de los Ministerios de Asuntos Económicos y Transformación Digital; de Transportes, Movilidad y Agenda Urbana; y para la Transición Ecológica y el Reto Demográfico. Dicho acuerdo deberá adoptarse y publicarse en el plazo de tres meses a partir de la fecha de adopción de la decisión de la Comisión Europea a la que se refiere el apartado 4.
+6. El acuerdo de Consejo de Ministros relativo a la asignación de derechos de emisión determinará:
+a) El total de derechos asignados para el periodo de comercio en cuestión a cada operador aéreo que haya solicitado asignación que se determinará multiplicando las toneladas-kilómetro verificadas que figuren en su solicitud por el valor de referencia indicado en la letra e) del apartado 4.
+b) Los derechos de emisión asignados a cada operador aéreo para cada año, que se determinarán dividiendo el total de los derechos de emisión asignados para el periodo de comercio en cuestión, calculado de conformidad con la letra a), entre el número de años del periodo en el que ese operador aéreo esté realizando una actividad de aviación enumerada en el anexo I.
+Aquellos solicitantes que no se incluyan en la lista de operadores con derechos de emisión asignados deberán entender desestimada su solicitud.
+7. El acuerdo de asignación será comunicado, en el plazo de diez días desde su adopción, a la Oficina Española de Cambio Climático.
+8. Las resoluciones sobre la asignación individualizada de derechos de emisión a los operadores aéreos serán accesibles al público, en los términos y con las limitaciones previstas en las normas reguladoras del derecho de acceso a la información en materia de medio ambiente.
+Se modifica por el art. único.31 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añade por el art. único.22 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 39
+
+Artículo 39. Reserva especial para determinados operadores aéreos.
+1. El tres por ciento de la cantidad de derechos de emisión que deban asignarse a los operadores aéreos a escala de la Unión Europea para los periodos de comercio establecidos en el artículo 13 se destinará a una reserva especial para los operadores aéreos:
+a) Que comiencen a desarrollar una actividad de aviación de las contempladas en el anexo I una vez transcurrido el año de seguimiento para la asignación de un periodo de comercio.
+b) Cuyos datos sobre toneladas-kilómetro aumenten por término medio más de un dieciocho por ciento anual entre el año de seguimiento para la asignación de un periodo de comercio y el segundo año natural de dicho periodo de comercio.
+2. Las actividades descritas en el apartado anterior no representarán en su totalidad o en parte una continuación de una actividad de aviación realizada previamente por otro operador aéreo.
+3. La gestión de la reserva especial se realizará de acuerdo con la normativa de la Unión Europea y, en su caso, en la normativa de desarrollo de esta ley.
+Se modifica por el art. único.31 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añade por el art. único.22 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 40
+
+Artículo 40. Solicitud de asignación a la reserva especial para determinados operadores aéreos.
+1. Podrán solicitar asignación gratuita de derechos de emisión de la reserva especial los operadores aéreos que cumplan los criterios establecidos en el artículo anterior. Las solicitudes de asignación se dirigirán en formato electrónico a la Oficina Española de Cambio Climático del Ministerio para la Transición Ecológica y el Reto Demográfico antes del 30 de junio del tercer año del periodo de comercio al que se refiera la solicitud en cuestión, y deberán:
+a) Facilitar datos sobre toneladas-kilómetro, verificados con arreglo a la parte B de los anexos III y IV, en relación con las actividades de aviación enumeradas en el anexo I realizadas por el operador aéreo en el transcurso del segundo año del periodo de comercio al que se refieran las solicitudes.
+b) Aportar pruebas de que se cumplen los criterios para la obtención de derechos de emisión con arreglo al artículo 39, y
+c) En el caso de los operadores aéreos a que se refiere la letra b) del artículo 39.1, declarar:
+1.º El incremento porcentual en toneladas-kilómetro realizado por el operador aéreo entre el año de seguimiento para la asignación en un periodo de comercio contemplado en el artículo 13 y el segundo año natural de dicho periodo,
+2.º El crecimiento absoluto en toneladas-kilómetro realizado por el operador aéreo entre el año de seguimiento para la asignación en un periodo de comercio contemplado en el artículo 13, y el segundo año natural de dicho periodo, y
+3.º El crecimiento absoluto en toneladas-kilómetro que exceda del porcentaje indicado en la letra b) del artículo 39.1, realizado por el operador aéreo entre el año de seguimiento para la asignación en un periodo de comercio contemplado en el artículo 13, y el segundo año natural de dicho periodo.
+El Ministerio para la Transición Ecológica y el Reto Demográfico remitirá las solicitudes de asignación recibidas al Ministerio de Transportes, Movilidad y Agenda Urbana que deberá emitir informe sobre el cumplimiento, por parte de los operadores, de los criterios para solicitar asignación de la reserva especial en un plazo de tres meses a contar desde la recepción de la solicitud.
+2. El Ministerio para la Transición Ecológica y el Reto Demográfico, antes del 31 de diciembre del tercer año del periodo de comercio en cuestión, remitirá a la Comisión Europea las solicitudes de asignación de la reserva especial recibidas junto con el informe relativo al cumplimiento de los criterios del artículo 39.
+Se modifica por el art. único.31 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añade por el art. único.22 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 41
+
+Artículo 41. Acuerdo de asignación de derechos desde la reserva especial.
+1. La resolución de la asignación de derechos de emisión de la reserva especial, una vez realizado el trámite de información pública, se adoptará por acuerdo del Consejo de Ministros, previa consulta a la Comisión de Coordinación de Políticas de Cambio Climático, y a propuesta de los Ministerios de Asuntos Económicos y Transformación Digital; de Transportes, Movilidad y Agenda Urbana; y para la Transición Ecológica y el Reto Demográfico.
+2. El acuerdo del Consejo de Ministros relativo a la asignación de derechos de emisión determinará:
+a) La asignación de derechos de emisión de la reserva especial a todo operador aéreo cuya solicitud haya sido presentada a la Comisión Europea con arreglo al artículo 40.2, que se calculará multiplicando el valor de referencia que establezca la Comisión Europea, antes del 30 de junio del cuarto año del periodo de comercio en cuestión, por:
+1.º En el caso de los operadores aéreos a los que sea aplicable la letra a) del artículo 39.1, las toneladas-kilómetro incluidas en las solicitudes presentadas a la Comisión Europea con arreglo al artículo 40,
+2.º En el caso de los operadores aéreos a los que sea aplicable a la letra b) del artículo 39.1, el crecimiento absoluto en toneladas-kilómetro que exceda el dieciocho por ciento y que se haya indicado en las solicitudes presentadas a la Comisión Europea con arreglo al artículo 40, y
+b) La asignación de derechos de emisión a cada operador aéreo para cada año, que se calculará dividiendo su asignación de derechos de emisión con arreglo a la letra a) entre el número de años naturales completos restantes del periodo comercio al que corresponda la asignación.
+3. En lo que respecta a los operadores que reciban asignación de la reserva especial, el acuerdo se adoptará y se publicará en un plazo máximo de tres meses tras la fecha de adopción del valor de referencia establecido en la letra a) del apartado anterior.
+4. Las asignaciones a un operador aéreo en virtud de la letra b) del artículo 39.1, no excederán de 1.000.000 de derechos de emisión.
+5. Los derechos de emisión de la reserva especial que no hayan sido asignados se subastarán conforme a lo dispuesto en el artículo 14.
+Se modifica por el art. único.31 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añade por el art. único.22 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Artículo 42
+
+Artículo 42. Acuerdo de asignación de derechos desde la reserva especial.
+1. La resolución de la asignación de derechos de emisión de la reserva especial se adoptará por acuerdo del Consejo de Ministros, realizado el trámite de información pública, previa consulta a la Comisión de Coordinación de Políticas de Cambio Climático, y a propuesta de los Ministerios de Economía y Hacienda, de Fomento y de Medio Ambiente y Medio Rural y Marino.
+2. El acuerdo del Consejo de Ministros relativo a la asignación de derechos de emisión determinará:
+a) La asignación de derechos de emisión de la reserva especial a todo operador aéreo cuya solicitud haya sido presentada a la Comisión con arreglo al apartado 2 del artículo 41 que se calculará multiplicando el valor de referencia que establezca la Comisión, antes del 30 de junio del cuarto año del periodo de comercio en cuestión, por:
+1.º en el caso de los operadores aéreos a los que sea aplicable la letra a) del artículo 40, las toneladas-kilómetro incluidas en las solicitudes presentadas a la Comisión con arreglo al artículo 41,
+2.º en el caso de los operadores aéreos a los que sea aplicable a la letra b) del artículo 40, el crecimiento absoluto en toneladas-kilómetro que exceda el 18% y que se haya indicado en las solicitudes presentadas a la Comisión con arreglo al artículo 41, y
+b) La asignación de derechos de emisión a cada operador aéreo para cada año, que se calculará dividiendo su asignación de derechos de emisión con arreglo a la letra a) entre el número de años naturales completos restantes del período comercio al que corresponda la asignación.
+3. En lo que respecta a los operadores que reciban asignación de la reserva especial, el acuerdo se adoptará y se publicará en un plazo máximo de 3 meses tras la fecha de adopción del valor de referencia establecido en el subapartado a) del apartado anterior.
+4. Las asignaciones a un operador aéreo en virtud de la letra b) del artículo 40, no excederán de 1.000.000 de derechos de emisión.
+5. Los derechos de emisión de la reserva especial que no hayan sido asignados se subastarán conforme a lo dispuesto en el artículo 39.
+Se añade por el art. único.22 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición adicional primera
+
+Disposición adicional primera. Incorporación de la autorización de emisión de gases de efecto invernadero a la autorización ambiental integrada.
+El contenido de la autorización de emisión de gases de efecto invernadero podrá incorporarse a la autorización ambiental integrada regulada en el texto refundido de la Ley de prevención y control integrados de la contaminación aprobado por Real Decreto Legislativo 1/2016, de 16 de diciembre, en las condiciones que determinen las comunidades autónomas.
+Se modifica por el art. único.32 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Autoridad nacional de los mecanismos basados en proyectos del Protocolo de Kioto.
+1. Se crea una comisión que ejercerá como Autoridad Nacional Designada para los mecanismos basados en proyectos del Protocolo de Kioto, con las siguientes funciones:
+a) Emitir los informes preceptivos sobre la participación voluntaria en los proyectos de desarrollo limpio y aplicación conjunta, de acuerdo con lo previsto en la normativa internacional y de la Unión Europea vigente.
+b) Actuar como punto focal de España en la relación con la autoridad nacional designada por otros países para la promoción y desarrollo de proyectos de desarrollo limpio y aplicación conjunta.
+c) Elevar a la Comisión Delegada del Gobierno para Asuntos Económicos y a la Comisión de Coordinación de Políticas de Cambio Climático un informe anual sobre las actuaciones llevadas a cabo durante el año anterior.
+2. La Autoridad Nacional Designada promoverá la suscripción de convenios con las comunidades autónomas al objeto de fomentar y facilitar el desarrollo de los mecanismos basados en proyectos del Protocolo de Kioto a la Convención Marco de las Naciones Unidas sobre el Cambio Climático.
+3. La comisión estará integrada por un vocal de Presidencia del Gobierno y dos vocales con rango de subdirector general designados por los titulares de los ministerios competentes en materia de asuntos exteriores, Unión Europea, cooperación, economía, industria, turismo, comercio, medio ambiente y energía, y por un representante de las comunidades autónomas competentes elegido en la forma que las mismas acuerden.
+La presidencia de la comisión corresponde a la persona titular de la Secretaría de Estado de Medio Ambiente.
+La secretaría de la comisión se encomendará a un funcionario de la Oficina Española de Cambio Climático que, de no tener la condición de vocal, asistirá a las reuniones con voz y sin voto.
+4. La comisión se regirá por lo dispuesto en el título preliminar, capítulo II, sección 3.ª de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+Se modifica por el art. único.33 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica la letra b) del apartado 1 por el art. único.23 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Proyectos de desarrollo limpio y de aplicación conjunta.
+1. Los promotores de proyectos de desarrollo limpio y de aplicación conjunta que, de acuerdo con lo previsto en la normativa internacional y de la Unión Europea deban contar con informe de la Autoridad Nacional Designada por España presentarán solicitud acompañada de una copia del proyecto y su descripción técnica.
+2. La Autoridad Nacional Designada deberá analizar el proyecto en un plazo máximo de dos meses, y emitir informe basándose en los criterios técnicos y ambientales establecidos en la normativa internacional y de la Unión Europea, en particular, en las Decisiones 16 y 17/CP.7 de la Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático.
+3. El uso de mecanismos basados en proyectos para el cumplimiento de las obligaciones cuantificadas asumidas por España dará carácter prioritario a los proyectos en materia de eficiencia energética y energías renovables.
+4. Para facilitar el desarrollo de los mecanismos basados en proyectos, las comunidades autónomas podrán crear centros que colaboren con la Autoridad Nacional en los siguientes ámbitos:
+a) Facilitar el conocimiento de las alternativas disponibles a los diferentes actores económicos locales para que valoren los costes y beneficios.
+b) Trabajar con los participantes potenciales en el mercado para aumentar su capacidad y para facilitar los conocimientos de las modalidades de los mecanismos basados en proyectos del Protocolo de Kioto.
+c) Editar material sobre los mecanismos basados en proyectos y servir de punto de contacto para los promotores de proyectos.
+d) Fomentar el intercambio de conocimientos entre diferentes regiones.
+e) Conocer y aplicar programas de la Unión Europea, de Naciones Unidas o de otros organismos multilaterales.
+f) Facilitar que los actores económicos definan y desarrollen innovación en metodología.
+g) Facilitar y coordinar los intereses de las empresas en los diferentes momentos de un mecanismo basado en proyectos.
+h) Fomentar la colaboración entre el sector público y el sector privado en esta materia.
+i) Efectuar una valoración previa en relación con los proyectos presentados por empresas ubicadas en el ámbito territorial de la comunidad autónoma, y proponerlos, en su caso, a la Autoridad Nacional Designada a efectos de lo previsto en el apartado 1.a) de la disposición adicional segunda.
+Se modifica por el art. único.34 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Exclusión de instalaciones de pequeño tamaño.
+1. El órgano autonómico competente podrá acordar, previo informe favorable del Ministerio para la Transición Ecológica y el Reto Demográfico, la exclusión, a partir del 1 de enero de 2021 y hasta el 31 de diciembre de 2025, de las instalaciones ubicadas en el territorio de su comunidad autónoma que tengan la consideración de pequeños emisores o sean hospitales, cuando los respectivos titulares de las instalaciones lo hayan solicitado y hayan acreditado el cumplimiento de los requisitos que se establecen en este apartado. A los efectos de lo dispuesto en esta disposición adicional serán pequeños emisores las instalaciones que hayan notificado a la autoridad competente emisiones inferiores a 25.000 toneladas equivalentes de dióxido de carbono, excluidas las emisiones de la biomasa, para cada uno de los tres años precedentes a la solicitud de asignación a que se refiere el artículo 19, y que, cuando realicen actividades de combustión, tengan una potencia térmica nominal inferior a 35 MW.
+Reglamentariamente se establecerá el plazo de presentación de las solicitudes de exclusión y cualquier otro aspecto que se considere pertinente, de acuerdo con la normativa de la Unión Europea.
+La solicitud de exclusión deberá presentarse al órgano competente que designe la comunidad autónoma. Vendrá acompañada de documentación justificativa que acredite el cumplimiento de las siguientes condiciones:
+a) Que se aplicarán medidas de mitigación que conduzcan a una contribución a la reducción de emisiones equivalente a la prevista por la participación en el régimen de comercio de derechos de emisión.
+El Gobierno determinará mediante real decreto qué medidas de mitigación se consideran equivalentes a los efectos del párrafo anterior.
+b) Que se implantará un sistema de seguimiento y notificación de información sobre emisiones equivalentes a las previstas en esta ley.
+A este respecto, el órgano autonómico competente podrá autorizar medidas simplificadas de seguimiento, notificación y verificación para las instalaciones cuyas emisiones medias anuales verificadas entre 2008 y 2012 sean inferiores a 5.000 toneladas anuales.
+Asimismo, podrá autorizar a las instalaciones no incluidas en el régimen de la Unión Europea durante el periodo de aplicación de la exclusión requisitos simplificados para el seguimiento, la notificación y la verificación a fin de determinar las emisiones en los tres años precedentes a la solicitud de asignación a que se refiere el artículo 19.
+2. El órgano competente, previo trámite de información pública no inferior a tres meses, remitirá el expediente completo al Ministerio para la Transición Ecológica y el Reto Demográfico, a más tardar dieciséis meses antes del comienzo del periodo de comercio de que se trate, para su tramitación a la Comisión Europea a efectos de lo dispuesto por el artículo 27 de la Directiva 2003/87/CE, de 13 de octubre de 2003.
+Si en un plazo de seis meses desde la notificación a la Comisión Europea, esta no formula objeciones la exclusión se considerará adoptada.
+3. Las instalaciones excluidas quedarán sometidas al régimen de infracciones y sanciones previsto en el capítulo VIII, en cuanto afecte al cumplimiento de las obligaciones de seguimiento y suministro de la información sobre emisiones.
+4. Lo establecido en esta disposición adicional no exime a los titulares de las instalaciones del cumplimiento de las obligaciones establecidas en esta ley hasta que se formalice la exclusión una vez obtenido la conformidad de la Comisión Europea.
+En este caso, se entenderá extinguida la autorización de emisión de gases de efecto invernadero con fecha correspondiente al primer día del periodo de asignación en que va a estar excluida. La instalación excluida no recibirá derechos de emisión mientras permanezca en esa situación.
+5. Si una instalación excluida, cuando no se trate de un hospital, emitiera 25.000 toneladas equivalentes de dióxido de carbono o más, sin contabilizar las emisiones de la biomasa, en el transcurso de un mismo año civil o, sea cual sea la tipología de la instalación ya no se aplicaran a dicha instalación medidas que permitan conseguir una contribución equivalente a la reducción de emisiones, la instalación se introducirá de nuevo en el régimen.
+Las instalaciones que se reintroduzcan en el régimen de comercio de derechos de emisión permanecerán en el mismo hasta la finalización del periodo de asignación en curso. De conformidad con las normas de la Unión Europea de carácter transitorio para la armonización de la asignación gratuita de derechos de emisión, la instalación podrá solicitar asignación. Todos los derechos que se le expidan se concederán a partir del año de la reintroducción. Los derechos expedidos a estas instalaciones se deducirán de la cantidad que vaya a ser subastada.
+6. El Gobierno podrá excluir del régimen de comercio de derechos de emisión las instalaciones que emitan menos de 2.500 toneladas equivalentes de dióxido de carbono, sin contabilizar las emisiones de la biomasa, para cada uno de los tres años precedentes a la solicitud de asignación a que se refiere el artículo 19, de acuerdo con lo que se establezca en desarrollo de la misma.
+7. En el año 2023, el Ministerio para la Transición Ecológica y el Reto Demográfico realizará un informe sobre la aplicación hasta la fecha del régimen de exclusión de las instalaciones de bajas emisiones. A la vista de los resultados de este informe, el Gobierno, reglamentariamente, podrá extender la aplicación del régimen de exclusión a partir de 2026.
+Se modifica por el art. único.35 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.24 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Reducción de gases de efecto invernadero procedentes de actividades no sujetas al régimen de comercio de derechos de emisión.
+1. Se articulará un mecanismo para la expedición de derechos de emisión o créditos en relación con proyectos ubicados en el territorio nacional para reducir emisiones de gases de efecto invernadero procedentes de actividades que no están sujetas al régimen de comercio de derechos de emisión. Reglamentariamente, y previa consulta de la Comisión de Coordinación de Políticas de Cambio Climático, se establecerán los términos concretos de este mecanismo, que se ajustará a la normativa de la Unión Europea sobre esta materia, y que se aplicará sin perjuicio de otras medidas estratégicas para reducir emisiones procedentes de dichas actividades contempladas en la normativa vigente.
+2. En ningún caso se permitirá la expedición de derechos de emisión o créditos que supongan un doble cómputo de reducciones de emisiones.
+3. Igualmente, podrán articularse otros sistemas de comercio de emisiones al margen del régimen de la Unión Europea con el fin de favorecer una reducción de gases de efecto invernadero en las actividades no sujetas al mismo.
+Se modifica por el art. único.36 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.25 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Compensación de costes indirectos.
+1. El Gobierno, a propuesta conjunta de los Ministerios de Industria, Comercio y Turismo; Asuntos Económicos y Transformación Digital; y para la Transición Ecológica y el Reto Demográfico, establecerá la creación de un mecanismo de compensación de los costes indirectos significativos imputables a las emisiones de gases de efecto invernadero repercutidas en los precios de la electricidad del que podrán beneficiarse las instalaciones pertenecientes a sectores y subsectores expuestos a un riesgo real de fugas de carbono.
+2. La cuantía de las compensaciones no será superior, para cada instalación, a los costes por las emisiones de CO2 que han trasladado los generadores de electricidad y mantendrá el incentivo para que se reduzca el consumo de electricidad en la instalación, garantizando la compensación por los consumos eficientes. La compensación de los costes quedará condicionada al cumplimiento de las normas de la Unión Europea sobre ayudas de Estado aplicables y, en concreto, no provocarán distorsiones indebidas de la competencia en el mercado interior.
+3. En su caso, y en la medida en que la normativa de la Unión Europea aplicable lo permita, en particular la referida a ayudas de Estado, serán susceptibles de beneficiarse de dicho mecanismo tanto instalaciones incluidas en el ámbito de aplicación de esta ley, como aquellas que, aun no estando, se puedan ver afectadas por los costes indirectos a los que se refiere el apartado 1.
+4. El Gobierno procurará no destinar a este mecanismo de compensación de los costes indirectos un importe anual superior al veinticinco por ciento de los ingresos anuales obtenidos por España procedentes de la subasta de derechos de emisión. A partir de 2021 y anualmente, en los casos en que se supere dicho porcentaje, el Ministerio de Industria, Comercio y Turismo y el Ministerio para la Transición Ecológica y el Reto Demográfico elaborarán conjuntamente y publicarán un informe que justifique los motivos por los que se superó dicho importe.
+El informe incluirá, al menos, la siguiente información:
+a) Información pertinente sobre los precios de la electricidad en el año de referencia para los grandes consumidores industriales que se beneficien de las ayudas, sin perjuicio de las exigencias relativas a la protección de la información confidencial.
+b) Información sobre si se han tenido debidamente en cuenta otras medidas para reducir de manera sostenible los costes indirectos del carbono a medio y largo plazo.
+5. En el primer trimestre de cada año, el Ministerio de Industria, Comercio y Turismo pondrá a disposición del público, en una forma fácilmente accesible, el importe total de las ayudas que en su caso se concedan conforme a la presente disposición, desglosado por sectores y subsectores beneficiarios.
+Esta información quedará recogida, además, en la Base de Datos Nacional de Subvenciones, de conformidad con los artículos 18 y 20 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+Se modifica por el art. único.37 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añade por el art. único.26 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Prácticas contrarias a la libre competencia, actividades relacionadas con el blanqueo de capitales o la financiación del terrorismo o abuso de mercado.
+1. La Secretaría de Estado de Medio Ambiente notificará a la Comisión Nacional de los Mercados y la Competencia, en su caso cuando proceda, cualesquiera hechos de los que tenga conocimiento en relación con la organización de las subastas que puedan constituir infracción a la legislación de defensa de la competencia. En particular, comunicará cualquier indicio de acuerdo, decisión o recomendación colectiva o práctica concertada o conscientemente paralela que tenga por objeto, produzca o pueda producir el efecto de impedir, restringir o falsear la competencia en el proceso de subasta.
+2. Asimismo, la Oficina Española de Cambio Climático, como autoridad competente en materia de la administración del área española del Registro de la Unión Europea, informará sin demora a las autoridades competentes en materia de investigación y lucha contra el fraude, blanqueo de capitales o financiación del terrorismo, corrupción u otros delitos graves, de cualquier actuación sospechosa en relación con estas materias y cooperará con las autoridades competentes nacionales o europeas en materia de supervisión de los mercados de derechos de emisión, cuando tenga motivos razonables para sospechar que se están realizando actos constitutivos de operaciones con información privilegiada en dicho mercado, y de acuerdo a los mecanismos de coordinación establecidos por la normativa de la Unión Europea.
+Se modifica por el art. único.38 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añade por el art. único.27 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Régimen transitorio para cumplimiento de las obligaciones de entrega hasta el 30 de abril de 2021.
+1. Para cumplir con la obligación de entrega referida en el artículo 27.2 en el periodo de comercio 2013-2020, los titulares de instalaciones deberán entregar un número de derechos de emisión distintos de los derechos de emisión asignados a la aviación, en cantidad equivalente al dato de emisiones verificadas de esa instalación durante el año anterior, a más tardar el 30 de abril de cada año.
+2. Para cumplir con la obligación de entrega referida en el artículo 27.2 en el periodo de comercio 2013-2020, los operadores aéreos deberán entregar un número de derechos de emisión, en cantidad equivalente al dato de emisiones verificadas de ese operador aéreo durante el año anterior, a más tardar el 30 de abril de cada año.
+Se modifica por el art. único.39 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se numera como apartado 1 y se añade el apartado 2 por el art. 33.4 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Uso de créditos internacionales para el periodo de comercio 2013-2020.
+Las unidades correspondientes a los créditos internacionales generados por las actividades de proyectos de aplicación conjunta (unidades de reducción de emisiones “URE”) o mecanismos de desarrollo limpio (reducciones certificadas de emisiones “RCE”) del Protocolo de Kioto, de conformidad con el artículo 11 ter de la Directiva 2003/87/CE, de 13 de octubre de 2003, serán elegibles para su uso e intercambio por derechos de emisión válidos, en la medida en que no superen los límites cuantitativos y cualitativos establecidos en la normativa de la Unión Europea, y hasta la fecha que esta determine.
+Se modifica por el art. único.40 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añade el apartado 3 por el art. 33.5 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Régimen transitorio para la aviación durante el periodo 2013-2023.
+1. Durante cada año natural comprendido entre el 1 de enero de 2013 hasta el 31 de diciembre de 2023, no serán aplicables las obligaciones del RCDE UE para los vuelos con destino u origen en aeródromos situados en países no pertenecientes al Espacio Económico Europeo, ni tampoco a vuelos entre un aeródromo situado en una región ultraperiférica en el sentido del artículo 349 del Tratado de Funcionamiento de la Unión Europea y un aeródromo situado en otra región del Espacio Económico Europeo. Todo ello sin perjuicio del cumplimiento de las obligaciones adicionales que pueda introducir la normativa de la Unión Europea o la nacional a efectos del instrumento de mercado global de la Organización de Aviación Civil Internacional.
+2. En relación con lo dispuesto en el artículo 36 bis.3, cuando un operador aéreo tenga unas emisiones anuales inferiores a 3.000 toneladas en el ámbito de aplicación descrito en el apartado 1 de esta disposición, sus emisiones notificadas se considerarán verificadas si han sido determinadas mediante el instrumento para pequeños emisores aprobado por normativa de la Unión Europea alimentado por Eurocontrol con datos de su instrumento de apoyo al RCDE UE.
+3. Entre el 1 de enero de 2013 y hasta el 31 de diciembre de 2023, los operadores aéreos recibirán cada año un número de derechos de emisión gratuitos que se reducirá en proporción a la reducción de las obligaciones del RCDE UE en el ámbito de aplicación descrito en el apartado 1 de este artículo.
+4. A partir del 1 de enero de 2021, el número de derechos de emisión asignado gratuitamente a los operadores aéreos estará supeditado a la aplicación del mismo factor de reducción lineal aplicable a la asignación de las instalaciones fijas.
+5. Antes del 1 de septiembre de 2018, se publicará el número de derechos de emisión del sector de la aviación asignados a cada operador de aeronaves en lo que respecta de las actividades del periodo que comienza el 1 de enero de 2017 y finaliza el 31 de diciembre de 2023.
+6. Entre el 1 de enero de 2013 y el 31 de diciembre de 2023 se subastará la cantidad de derechos de emisión para el sector de la aviación que determine la normativa de la Unión Europea.
+7. A efectos del cumplimiento de la obligación de entrega de derechos descrita en el artículo 27.2, los operadores aéreos deberán entregar un número de derechos de emisión equivalente al dato de emisiones verificadas incluidas en el ámbito de aplicación al que se refiere el primer apartado de este artículo.
+Se modifica por el art. único.41 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Exclusión temporal.
+1. Excepcionalmente, hasta el 31 de diciembre de 2007 el titular de una instalación podrá solicitar su exclusión temporal del ámbito de aplicación de esta Ley, salvo lo dispuesto en el apartado 4 de esta disposición transitoria. La solicitud de exclusión temporal deberá presentarse al órgano competente que designe la comunidad autónoma acompañada de documentación justificativa que acredite el cumplimiento de las siguientes condiciones:
+a) Que la instalación limitará sus emisiones de manera equivalente a cómo lo haría en caso de no ser excluida en virtud de las políticas y medidas nacionales vigentes.
+b) Que quedará sujeta a obligaciones de seguimiento y suministro de información sobre emisiones equivalentes a las previstas en esta Ley.
+c) Que no se producirán distorsiones del mercado interior como consecuencia de su exclusión.
+2. El órgano competente, previo trámite de información pública, remitirá el expediente completo al Ministerio de Medio Ambiente, para su tramitación a la Comisión Europea a efectos de lo dispuesto por el artículo 27 de la Directiva 2003/87/CE.
+3. Las instalaciones excluidas quedarán sometidas al régimen de infracciones y sanciones previsto en el capítulo VIII, en cuanto afecte al cumplimiento de las obligaciones de seguimiento y suministro de la información sobre emisiones.
+Asimismo, el incumplimiento del compromiso de limitación de emisiones a que se refiere el apartado 1.a) de esta disposición transitoria se entenderá equivalente a la infracción tipificada en el artículo 29.2.e).
+4. Lo establecido en esta disposición transitoria no exime a los titulares de las instalaciones del cumplimiento de las obligaciones establecidas en esta Ley, hasta que la Comisión Europea disponga la exclusión temporal.
+En este caso, se entenderá extinguida la autorización de emisión de gases de efecto invernadero, y en cuanto a los derechos de emisión asignados se aplicará lo dispuesto en los artículos 18.2 y 26.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Agrupaciones de instalaciones en el período 2005­-2007.
+1. Durante la vigencia del primer Plan Nacional de asignación, podrán solicitar autorización de agrupación los titulares de las instalaciones que desarrollen actividades incluidas en el anexo I, excepto las incluidas en el epígrafe 1.a).
+2. A los efectos del artículo 11.c), bastará acreditar haber solicitado la autorización de emisión de gases de efecto invernadero antes del 30 de septiembre de 2004.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Asignación de derechos adicionales por causa de fuerza mayor.
+Excepcionalmente, cuando concurra causa de fuerza mayor que lo justifique, los titulares de instalaciones podrán solicitar la asignación de derechos adicionales no transmisibles válidos hasta el 31 de diciembre de 2007. En el supuesto de que el Consejo de Ministros, a la vista de la documentación aportada, aprecie la concurrencia de fuerza mayor, dará traslado de la solicitud para su tramitación ante la Comisión Europea.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Cuantía de las multas durante el período 2005­-2007.
+Durante el período de tres años que se inicia el 1 de enero de 2005, la multa correspondiente a la infracción tipificada en el artículo 29.2.e) será de 40 euros por cada tonelada emitida en exceso.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Actividades incluidas a partir de 2013.
+1. La autorización de emisión de gases de efecto invernadero será exigible a partir del 1 de enero de 2013 a las instalaciones que desarrollan actividades incluidas en el ámbito de aplicación de esta Ley sólo a partir de 2013. Los titulares de dichas instalaciones deberán presentar la solicitud de autorización ante el órgano competente de la Comunidad Autónoma antes del 31 de diciembre de 2010. Dicha solicitud cumplirá los requisitos establecidos en el artículo 5, e incluirá una propuesta de plan de seguimiento que cumpla los requisitos exigidos por la normativa comunitaria y nacional vigentes en cada momento.
+Se añade por el art. único.28 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Periodo de comercio 2012 para el sector de la aviación.
+El primer periodo de comercio para el sector de la aviación será el comprendido entre el 1 de enero y el 31 de diciembre de 2012.
+Se añade por el art. único.29 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Cantidad total de derechos para el sector de la aviación en el periodo comprendido entre el 1 de enero y el 31 de diciembre de 2012.
+Para el periodo comprendido entre el 1 de enero y el 31 de diciembre de 2012, la cantidad total de derechos de emisión que se asignará a los operadores aéreos en la Comunidad corresponderá al 97% de las emisiones históricas del sector de la aviación.
+Se añade por el art. único.30 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima. Porcentaje de derechos asignados mediante subasta en el periodo comprendido entre el 1 de enero y el 31 de diciembre de 2012.
+Para el periodo comprendido entre el 1 de enero y el 31 de diciembre de 2012, se subastará el 15% de la cantidad de derechos de emisión para el sector de la aviación que corresponda asignar en ese periodo de conformidad con la disposición transitoria 10.
+Se añade por el art. único.31 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición transitoria decimosegunda
+
+Disposición transitoria decimosegunda. Asignación de derechos de emisión a los operadores aéreos en el periodo comprendido entre el 1 de enero y el 31 de diciembre de 2012.
+La solicitud de asignación que se presente de conformidad con el artículo 38 en relación con el periodo 2013-2020 se entenderá también hecha en relación con el periodo comprendido entre el 1 de enero y el 31 de diciembre de 2012.
+Se añade por el art. único.32 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición transitoria decimotercera
+
+Disposición transitoria decimotercera. Obligaciones de seguimiento y notificación previas al 1 de enero de 2012.
+Los operadores aéreos deberán realizar el seguimiento de sus emisiones y de sus datos de toneladas-kilómetro, de conformidad con lo establecido en la Ley 5/2009, de 29 de junio, por la que se modifican la Ley 24/1988, de 28 de julio, del mercado de valores, la Ley 26/1988, de 29 de julio, sobre disciplina e intervención de las entidades de crédito y el texto refundido de la Ley de ordenación y supervisión de los seguros privados, aprobado por Real Decreto Legislativo 6/2004, de 29 de octubre, para la reforma del régimen de participaciones significativas en empresas de servicios de inversión, en entidades de crédito y en entidades aseguradoras, la normativa comunitaria y, en su caso, el desarrollo reglamentario de esta Ley.
+Las obligaciones establecidas en el segundo párrafo del apartado 1 del artículo 22, serán de aplicación a partir del año 2011. Por consiguiente, el primer informe de emisiones verificado que deberá presentarse será el relativo a las emisiones del año 2010. Los datos de tonelada-kilómetro verificados a efectos de solicitud de asignación para los períodos 2012 y 2013-2020 deberán presentarse antes del 28 de febrero de 2011.
+Se añade por el art. único.33 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición transitoria decimocuarta
+
+Disposición transitoria decimocuarta. Límite de uso de reducciones certificadas de emisiones o unidades de reducción de emisiones en el periodo comprendido entre el 1 de enero y el 31 de diciembre de 2012.
+Durante el periodo comprendido entre el 1 de enero y el 31 de diciembre de 2012 los operadores aéreos podrán utilizar reducciones certificadas de emisiones o unidades de reducción de emisiones hasta el 15% de las emisiones verificadas correspondientes al año natural anterior.
+Se añade por el art. único.34 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición final primera
+
+Disposición final primera. Títulos competenciales.
+Esta ley se dicta al amparo de las competencias exclusivas del Estado previstas en el artículo 149.1.13.ª y 23.ª de la Constitución, en materia de bases y coordinación de la planificación general de la actividad económica y de legislación básica sobre protección del medio ambiente, a excepción de la disposición adicional segunda, sin perjuicio de las competencias de ejecución que ostentan las comunidades autónomas en materia de legislación de medio ambiente.
+No obstante lo anterior, aquellas materias relacionadas con la aviación se dictan también al amparo de la competencia exclusiva del Estado prevista en el artículo 149.1.20.ª de la Constitución en materia de control del espacio aéreo, tránsito y transporte aéreo.
+Se modifica por el art. único.43 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Disposición final segunda
+
+Disposición final segunda. Incorporación del Derecho de la Unión Europea.
+Esta ley incorpora al ordenamiento jurídico español la Directiva 2003/87/CE del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, por la que se establece un régimen para el comercio de derechos de emisión de gases de efecto invernadero en la Comunidad, modificada por las Directivas 2008/101/CE, del Parlamento Europeo y del Consejo, de 19 de noviembre de 2008, por la que se modifica la Directiva 2003/87/CE con el fin de incluir las actividades de aviación en el régimen comunitario de comercio de derechos de emisión de gases de efecto invernadero, la Directiva 2009/29/CE, del Parlamento Europeo y del Consejo, de 23 de abril de 2009, por la que se modifica la Directiva 2003/87/CE para perfeccionar y ampliar el régimen comunitario de comercio de derechos de emisión de gases de efecto invernadero, y parcialmente la Directiva (UE) 2018/410 del Parlamento Europeo y del Consejo, de 14 de marzo de 2018, por la que se modifica la Directiva 2003/87/CE para intensificar las reducciones de emisiones de forma eficaz en relación con los costes y facilitar las inversiones en tecnologías hipocarbónicas, así como la Decisión (UE) 2015/1814.
+Se modifica por el art. único.44 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+
+### Disposición final tercera
+
+Disposición final tercera. Desarrollo reglamentario.
+1. El Gobierno, en el ámbito de sus competencias, dictará las disposiciones necesarias para el desarrollo de esta ley.
+2. El Gobierno, mediante real decreto, podrá modificar el anexo I de esta ley para establecer la exclusión de determinados vuelos de las actividades de aviación en caso de que la Comisión Europea adopte modificaciones de las actividades de aviación enumeradas en el anexo I de la Directiva 2003/87/CE para excluir los vuelos procedentes de un tercer país que haya adoptado medidas para reducir el impacto en el cambio climático de los vuelos procedentes de dicho país que aterricen en la Unión Europea.
+Se modifica por el art. único.45 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añaden los apartados 2 y 3 y se numera el apartado 1 por el art. único.35 y 36 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición final tercera bis
+
+Disposición final tercera bis. Incorporación del derecho comunitario.
+(Suprimida)
+Se suprime por el art. único.46 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añade por el art. único.37 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+### Disposición final quinta
+
+Disposición final quinta. Sujetos afectados por las distintas disposiciones de la Ley.
+Los sujetos afectados por cada una de las disposiciones de la presente Ley se especifican, con fines aclaratorios, en el cuadro contenido en el anexo V.
+Se añade por el art. único.38 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 9 de marzo de 2005.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO
+
+## ANEXO I
+
+Categorías de actividades y gases incluidos en el ámbito de aplicación
+1. No están incluidas las instalaciones o partes de instalaciones cuya dedicación principal sea la investigación, desarrollo y experimentación de nuevos productos y procesos, ni las instalaciones que quemen exclusivamente biomasa.
+2. Los valores umbral que figuran más adelante se refieren en general a la capacidad de producción o al rendimiento. Si varias actividades encuadradas en la misma categoría se realizan en la misma instalación, se sumarán las capacidades de dichas actividades para determinar si la instalación está incluida en el ámbito de aplicación o no.
+3. Cuando se calcule la potencia térmica nominal total de una instalación para decidir sobre su inclusión en el ámbito de aplicación de esta Ley, se sumarán las potencias térmicas nominales de todas las unidades técnicas que formen parte de la misma en las que se utilicen combustibles dentro de la instalación. Estas unidades pueden incluir todo tipo de calderas, quemadores, turbinas, calentadores, hornos, incineradores, calcinadores, cocedores, estufas, secadoras, motores, pilas de combustible, unidades de combustión con transportadores de oxígeno (chemical looping), antorchas y unidades de postcombustión térmicas o catalíticas. A estos efectos, se considerarán todas las unidades técnicas que se ubiquen en el mismo emplazamiento y tengan la misma titularidad, con independencia de que se encuentren cubiertos por una o varias autorizaciones de emisión de gases de efecto invernadero. Las unidades con una potencia térmica nominal inferior a 3 MW y las que utilicen exclusivamente biomasa no se tendrán en cuenta a efectos de este cálculo. Las «unidades que utilizan exclusivamente biomasa» incluyen las que utilizan combustibles fósiles únicamente durante el arranque o la parada de la unidad.
+4. Si una unidad se destina a una actividad para la cual el umbral no se expresa en potencia térmica nominal total, el umbral de esta actividad será determinante a efectos de la decisión sobre la integración en el ámbito de aplicación de la Ley.
+5. Cuando se detecte que en una instalación se rebasa el umbral de capacidad para cualquiera de las actividades a que se refiere el presente Anexo, se incluirán en la autorización de emisiones de gases de efecto invernadero todas las unidades en las que se utilicen combustibles y que no sean unidades de incineración de residuos peligrosos o de residuos urbanos.
+6. Los operadores aéreos incluidos en el ámbito de aplicación de esta Ley serán aquellos que realicen las actividades de aviación descritas en el cuadro que figura más adelante y que sean titulares de una licencia de explotación válida, concedida por el Ministerio de Fomento de conformidad con lo dispuesto en el Reglamento (CE) n.º 1008/2008 del Parlamento Europeo y del Consejo, de 24 de septiembre de 2008, sobre normas comunes para la explotación de servicios aéreos en la Comunidad, así como aquellos, tanto nacionales como extranjeros, que no sean titulares de una licencia de explotación válida concedida por un Estado miembro de la Unión Europea, y cuyas emisiones de dióxido de carbono en el año de referencia sean mayoritariamente atribuibles a España, tomando en consideración la «Lista de operador de aeronaves y Estado miembros responsables de la gestión que les corresponden» realizada y publicada por la Comisión, según los criterios contemplados en la Directiva 2008/101/CE del Parlamento Europeo y del Consejo, de 19 de noviembre de 2008, por la que se modifica la Directiva 2003/87/CE con el fin de incluir las actividades de aviación en el régimen comunitario de comercio de derechos de emisión de gases de efecto invernadero.
+7. No obstante lo dispuesto en el apartado 6, cuando en el transcurso de los dos primeros años de un período de comercio, ninguna de las emisiones de la aviación atribuidas procedentes de los vuelos operados por un operador de aeronaves incluido en el ámbito de aplicación de esta Ley esté atribuida a España, el operador aéreo deberá ser transferido a otro Estado miembro responsable de la gestión en relación con el próximo período de comercio.
+El nuevo Estado miembro responsable de la gestión será el Estado miembro para el que se hayan calculado las emisiones de la aviación atribuidas más elevadas, procedentes de los vuelos operados por dicho operador aéreo durante los dos primeros años del período de comercio anterior.
+Actividades
+ Gases de efecto invernadero
+ 1. Combustión en instalaciones con una potencia térmica nominal superior a 20 MW, incluyendo: a) La producción de energía eléctrica de servicio público. b) La cogeneración que da servicio en sectores no enumerados en los apartados 2 a 28. c) La combustión en otras instalaciones con una potencia térmica nominal superior a 20 MW no incluidas en los apartados 2 a 28. Quedan excluidas las instalaciones de incineración de residuos peligrosos o de residuos urbanos.
+ Dióxido de carbono.
+ 2. Refinería de petróleo.
+ Dióxido de carbono.
+ 3. Producción de coque.
+ Dióxido de carbono.
+ 4. Calcinación o sinterización, incluida la peletización, de minerales metálicos, incluido el mineral sulfuroso.
+ Dióxido de carbono.
+ 5. Producción de arrabio o de acero (fusión primaria o secundaria), incluidas las correspondientes instalaciones de colada continua de una capacidad de más de 2,5 toneladas por hora.
+ Dióxido de carbono.
+ 6. Producción o transformación de metales férreos (como ferroaleaciones) cuando se explotan unidades de combustión con una potencia térmica nominal total superior a 20 MW. La transformación incluye, entre otros elementos, laminadores, recalentadores, hornos de recocido, forjas, fundición y unidades de recubrimiento y decapado.
+ Dióxido de carbono.
+ 7. Producción de aluminio primario.
+ Dióxido de carbono y perfluorocarburos.
+ 8. Producción de aluminio secundario cuando se explotan unidades de combustión con una potencia térmica nominal total superior a 20 MW.
+ Dióxido de carbono.
+ 9. Producción o transformación de metales no férreos, incluida la producción de aleaciones, el refinado, el moldeado en fundición, etc., cuando se explotan unidades de combustión con una potencia térmica nominal total (incluidos los combustibles utilizados como agentes reductores) superior a 20 MW.
+ Dióxido de carbono.
+ 10. Fabricación de cemento sin pulverizar («clinker») en hornos rotatorios con una capacidad de producción superior a 500 toneladas diarias o en hornos de otro tipo con una capacidad de producción superior a 50 toneladas por día.
+ Dióxido de carbono.
+ 11. Producción de cal o calcinación de dolomita o magnesita en hornos rotatorios o en hornos de otro tipo con una capacidad de producción superior a 50 toneladas diarias.
+ Dióxido de carbono.
+ 12. Fabricación de vidrio incluida la fibra de vidrio, con una capacidad de fusión superior a 20 toneladas por día.
+ Dióxido de carbono.
+ 13. Fabricación de productos cerámicos mediante horneado, en particular de tejas, ladrillos, ladrillos refractarios, azulejos, gres cerámico o porcelanas, con una capacidad de producción superior a 75 toneladas por día.
+ Dióxido de carbono.
+ 14. Fabricación de material aislante de lana mineral utilizando cristal, roca o escoria, con una capacidad de fusión superior a 20 toneladas por día.
+ Dióxido de carbono.
+ 15. Secado o calcinación de yeso o producción de placas de yeso laminado y otros productos de yeso, cuando se explotan unidades de combustión con una potencia térmica nominal superior a 20 MW.
+ Dióxido de carbono.
+ 16. Fabricación de pasta de papel a partir de madera o de otras materias fibrosas.
+ Dióxido de carbono.
+ 17. Papel o cartón con una capacidad de producción de más de 20 toneladas diarias.
+ Dióxido de carbono.
+ 18. Producción de negro de humo, incluida la carbonización de sustancias orgánicas como aceites, alquitranes y residuos de craqueo y destilación, cuanto se explotan unidades de combustión con una potencia térmica nominal total superior a 20 MW.
+ Dióxido de carbono.
+ 19. Producción de ácido nítrico.
+ Dióxido de carbono y óxido nitroso.
+ 20. Producción de ácido adípico.
+ Dióxido de carbono y óxido nitroso.
+ 21. Producción de ácido de glioxal y ácido glioxílico.
+ Dióxido de carbono y óxido nitroso.
+ 22. Producción de amoníaco.
+ Dióxido de carbono.
+ 23. Fabricación de productos químicos orgánicos en bruto mediante craqueo, reformado, oxidación parcial o total, o mediante procesos similares, con una capacidad de producción superior a 100 toneladas por día.
+ Dióxido de carbono.
+ 24. Producción de hidrógeno (H2) y gas de síntesis mediante reformado u oxidación parcial, con una capacidad de producción superior a 25 toneladas por día.
+ Dióxido de carbono.
+ 25. Producción de carbonato sódico (Na2CO3) y bicarbonato de sodio (NaHCO3).
+ Dióxido de carbono.
+ 26. Captura de gases de efecto invernadero de las instalaciones cubiertas por la presente Directiva con fines de transporte y almacenamiento geológico en un emplazamiento de almacenamiento autorizado de conformidad con la Directiva 2009/31/CE.
+ Dióxido de carbono.
+ 27. Transporte de gases de efecto invernadero a través de gasoductos con fines de almacenamiento geológico en un emplazamiento de almacenamiento autorizado de conformidad con la Directiva 2009/31/CE.
+ Dióxido de carbono.
+ 28. Almacenamiento geológico de gases de efecto invernadero en un emplazamiento de almacenamiento autorizado de conformidad con la Directiva 2009/31/CE.
+ Dióxido de carbono.
+ 29. Aviación: Vuelos con origen o destino en un aeródromo situado en el territorio de un Estado miembro al que se aplica el Tratado o un Estado del Espacio Económico Europeo. Esta actividad no incluirá: a) los vuelos efectuados exclusivamente para el transporte, en misión oficial, de un Monarca reinante y de sus familiares más próximos, de Jefes de Estado y de Gobierno y Ministros del Gobierno, de un país que no sea un Estado miembro; siempre que tal circunstancia esté corroborada por el correspondiente indicador de categoría en el plan de vuelo; b) los vuelos militares efectuados por aeronaves militares y los vuelos de las autoridades aduaneras y la policía; c) los vuelos relacionados con actividades de búsqueda y salvamento, los vuelos de lucha contra incendios, los vuelos humanitarios y los vuelos de servicios médicos de urgencia, autorizados por el organismo competente adecuado; d) cualesquiera vuelos efectuados de acuerdo con las normas de vuelo visual, definidas en el anexo 2 del Convenio de Chicago; e) los vuelos que terminan en el mismo aeródromo de donde ha partido la aeronave, sin que en el intervalo se haya realizado aterrizaje alguno; f) los vuelos de entrenamiento efectuados exclusivamente al efecto de obtención de licencias, o de evaluación de la tripulación de pilotaje, siempre que tal circunstancia esté corroborada por la correspondiente indicación en el plan de vuelo, a condición de que el vuelo no sirva para transporte de pasajeros o carga, ni para el posicionamiento o traslado de la aeronave; g) los vuelos efectuados exclusivamente para fines de investigación científica o de ensayo, comprobación o certificación de aeronaves o equipos, tanto de vuelo como terrestres; h) los vuelos efectuados exclusivamente por aeronaves con una masa máxima de despegue autorizada de menos de 5 700 kg.; i) los vuelos efectuados en el marco de las obligaciones de servicio público establecidas en virtud del Reglamento (CEE) n.º 2408/92 en rutas dentro de las regiones ultraperiféricas, tal y como se especifican en el apartado 2 del artículo 299 del Tratado o en rutas en que la capacidad ofrecida no supere los 30 000 asientos anuales; y j) los vuelos que, excepto por el presente punto, entrarían dentro de esta actividad, efectuados por un operador de transporte aéreo comercial que realice: – menos de 243 vuelos por período durante tres períodos cuatrimestrales sucesivos, o bien – vuelos con un total anual de emisiones inferior a 10 000 toneladas al año. Los vuelos efectuados exclusivamente para el transporte, en misión oficial, de un Monarca reinante y de su familia inmediata, de Jefes de Estado y de Gobierno y Ministros del Gobierno de un Estado miembro no podrán ser excluidos en virtud del presente punto.
+ k) A partir del 1 de enero de 2013 y hasta el 31 de diciembre de 2030, los vuelos que, excepto por el presente punto, entrarían dentro esta actividad, efectuados por un operador de aeronaves no comerciales que realice vuelos con un total anual de emisiones inferior a 1.000 toneladas al año.
+ Dióxido de carbono.
+Se modifican los epígrafes 6, 9 y 13 y se añade un apartado k) en el 29 de la tabla de actividades, por el art. único.47 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se modifica por el art. único.39 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+ Téngase en cuenta que los apartados 1 a 5 y las actividades 1 a 28 del cuadro entran en vigor el 1 de enero de 2013, según establece la disposición final 2 de esta Ley.
+ Se modifica el apartado 1.b) y se añade el párrafo c) por el art. 33.6 y 7 del Real Decreto-Ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+## ANEXO II
+
+Gases de efecto invernadero
+Dióxido de carbono (CO2).
+Metano (CH4).
+Óxido nitroso (N2O).
+Hidrofluorocarburos (HFC).
+Perfluorocarburos (PFC).
+Hexafluoruro de azufre (SF6).
+
+## ANEXO III
+
+Parte A
+Seguimiento y notificación de las emisiones de instalaciones fijas
+Principios del seguimiento y notificación de emisiones
+1. Seguimiento de las emisiones de dióxido de carbono.-Las emisiones se seguirán mediante cálculos o mediciones.
+2. Cálculo.-Los cálculos de las emisiones se llevarán a cabo utilizando la fórmula siguiente:
+Datos de la actividad × factor de emisión × factor de oxidación
+El seguimiento de los datos de la actividad (combustible utilizado, índice de producción, etc.), se hará sobre la base de los datos de suministro o mediante mediciones.
+Se usarán los factores de emisión aceptados. Los factores de emisión específicos de una actividad serán aceptables para todos los combustibles. Los factores por defecto serán aceptables para todos los combustibles, excepto los no comerciales (residuos combustibles tales como neumáticos y gases de procesos industriales). Se precisarán, además, factores por defecto específicos para filones de carbón y factores por defecto específicos de la UE o de los productores de un país para el gas natural. Los valores por defecto del Grupo intergubernamental de expertos sobre el cambio climático (IPCC) serán aceptables en el caso de los productos de refinería. El factor de emisión de la biomasa será cero.
+Si el factor de emisión no tiene en cuenta el hecho de que parte del carbono no está oxidado, se usará entonces un factor de oxidación adicional. Si se han calculado factores de emisión específicos de una actividad considerando ya la oxidación, no hará falta aplicar un factor de oxidación.
+Se utilizarán los factores de oxidación por defecto definidos de conformidad con la Directiva 96/61/CE, a menos que el titular pueda demostrar que son más exactos unos factores específicos de la actividad.
+Se hará un cálculo separado para cada actividad, cada instalación y cada combustible.
+3. Medición.-La medición de las emisiones se hará recurriendo a métodos normalizados o aceptados y se corroborará mediante un cálculo complementario de las emisiones.
+4. Seguimiento de las emisiones de otros gases de efecto invernadero.
+Se recurrirá a los métodos normalizados o aceptados desarrollados por la Comisión Europea, en colaboración con todos los interesados correspondientes, y adoptados de conformidad con la normativa de la Unión Europea sobre notificación y seguimiento de emisiones de gases de efecto invernadero en aplicación de la Directiva 2003/87/CE, de 13 de octubre de 2003.
+5. Notificación de las emisiones.-Todos los titulares incluirán la siguiente información en el informe sobre la instalación:
+A. Datos identificativos de la instalación, en particular:
+1.º Nombre de la instalación.
+2.º Su dirección, incluidos el código postal y el país.
+3.º Tipo y número de las actividades del anexo I llevadas a cabo en la instalación.
+4.º Dirección, teléfono, fax y correo electrónico de una persona de contacto.
+5.º Nombre del propietario de la instalación y de cualquier sociedad matriz.
+B. Para cada una de las actividades mencionadas en el anexo I que se lleve a cabo en el emplazamiento cuyas emisiones se calculen:
+1.º Datos de la actividad.
+2.º Factores de emisión.
+3.º Factores de oxidación.
+4.º Emisiones totales.
+5.º Incertidumbre.
+C. Para cada una de las actividades mencionadas en el anexo I que se lleve a cabo en el emplazamiento cuyas emisiones se midan:
+1.º Emisiones totales.
+2.º Información sobre la fiabilidad de los métodos de medición, y
+3.º Incertidumbre.
+D. Para las emisiones procedentes de la combustión de energía, el informe también incluirá el factor de oxidación, a menos que ya se haya tenido en cuenta la oxidación en la definición de un factor de emisión específico de la actividad.
+PARTE B
+Seguimiento y notificación de las emisiones de las actividades de aviación
+1. Seguimiento de las emisiones de dióxido de carbono.–Las emisiones se seguirán mediante cálculos. Las emisiones se calcularán utilizando la fórmula siguiente:
+Consumo de combustible × factor de emisión
+El consumo de combustible incluirá el combustible utilizado por el grupo auxiliar de energía. El consumo real de combustible para cada vuelo se utilizará siempre que sea posible y se calculará utilizando la fórmula siguiente:
+Cantidad de combustible que contienen los tanques de la aeronave una vez finalizado el abastecimiento de combustible – cantidad de combustible que contienen los tanques de la aeronave una vez finalizado el abastecimiento del combustible necesario para el vuelo siguiente + abastecimiento de combustible para dicho vuelo siguiente
+Si no se dispone de datos sobre el consumo real de combustible, se utilizará un método por niveles normalizado para calcular el consumo de combustible sobre la base de la mejor información disponible.
+Se utilizarán los factores de emisión por defecto que figuran en las Directrices 2006 del IPCC para los inventarios nacionales, o actualizaciones ulteriores de estas Directrices, a menos que los factores de emisión específicos de una actividad, identificados por laboratorios independientes acreditados mediante métodos analíticos reconocidos, sean más exactos. El factor de emisión de la biomasa será cero.
+Se harán cálculos separados para cada vuelo y cada combustible.
+2. Notificación de las emisiones.–Todos los operadores aéreos incluirán la siguiente información en el informe que deben presentar de conformidad con el apartado 1 del artículo 22:
+A. Los datos de identificación del operador aéreo, en particular:
+1.º Nombre del operador aéreo.
+2.º Estado miembro responsable de la gestión.
+3.º Dirección, incluidos el código postal y el país y, si es diferente, dirección de contacto en el Estado miembro responsable de la gestión.
+4.º Números de matrícula de las aeronaves y los tipos de aeronaves utilizados en el período cubierto por el informe para realizar las actividades de aviación enumeradas en el anexo I de las que es operador.
+5.º Número y organismo emisor del Certificado de Operador Aéreo y de la licencia de explotación conforme a los cuales se hayan realizado las actividades de aviación enumeradas en el anexo I de las que es operador.
+6.º Dirección, número de teléfono, fax y correo electrónico de una persona de contacto, y
+7.º Nombre del propietario de la aeronave.
+B. Para cada tipo de combustible cuyas emisiones se calculan:
+1.º Consumo de combustible.
+2.º Factor de emisión.
+3.º Total de emisiones agregadas de todos los vuelos efectuados durante el período al que se refiere el informe que correspondan a las actividades de aviación enumeradas en el anexo I de las que es operador.
+4.º Emisiones agregadas de:
+– todos los vuelos efectuados durante el período a que se refiere el informe que correspondan a las actividades de aviación enumeradas en el anexo I de las que es operador, y que, procedentes de un aeródromo situado en el territorio de un Estado miembro, tengan su destino en un aeródromo situado en el territorio de ese mismo Estado miembro;
+– todos los demás vuelos efectuados durante el período a que se refiere el informe que correspondan a las actividades de aviación enumeradas en el anexo I de las que es operador.
+5.º Emisiones agregadas de todos los vuelos efectuados durante el período al que se refiere el informe que correspondan a las actividades de aviación enumeradas en el anexo I de las que es operador y que:
+– tengan su origen en un Estado miembro, y
+– tengan su destino en un Estado miembro procedentes de un tercer país.
+6.º Incertidumbre.
+3. Seguimiento de los datos sobre toneladas-kilómetro a efectos de las solicitudes de asignación a los operadores aéreos.–A efectos de las solicitudes de asignación de derechos de emisión, de conformidad con los artículos 38 y 41 el volumen de actividades de aviación se calculará en toneladas-kilómetro aplicando la siguiente fórmula:
+Toneladas-kilómetro = distancia × carga útil
+siendo:
+“Distancia”: la distancia ortodrómica entre el aeródromo de origen y el aeródromo de destino, más un factor fijo adicional de 95 km, y
+“Carga útil”: la masa total de carga, correo y pasajeros transportados.
+A efectos de cálculo de la carga útil:
+– el número de pasajeros será el número de personas a bordo, excluyendo a los miembros de la tripulación.
+– los operadores aéreos podrán optar entre aplicar la masa real o estándar para pasajeros y equipaje facturado que figura en su documentación de masa y centrado para los vuelos pertinentes o bien un valor por defecto de 100 kg para cada pasajero y su equipaje facturado.
+4. Notificación de los datos sobre toneladas-kilómetro a efectos de las solicitudes de asignación a los operadores aéreos.–Todos los operadores aéreos incluirán la siguiente información en su solicitud de conformidad con los artículos 38 y 41:
+A. Los datos de identificación del operador aéreo, en particular:
+1.º Nombre del operador aéreo.
+2.º Estado miembro responsable de su gestión.
+3.º Dirección, incluidos el código postal y el país y, si es diferente, dirección de contacto en el Estado miembro responsable de la gestión.
+4.º Números de matrícula de las aeronaves y tipos de aeronaves utilizados durante el año a que se refiere la solicitud para realizar las actividades de aviación enumeradas en el Anexo I de las que es operador.
+5.º Número y organismo emisor del certificado de operador aéreo y de la licencia de explotación conforme a los cuales se hayan realizado las actividades de aviación enumeradas en el Anexo I de las que es operador.
+6.º Dirección, número de teléfono, fax y correo electrónico de una persona de contacto, y
+7.º Nombre del propietario de la aeronave.
+B. Datos sobre toneladas-kilómetro:
+1.º Número de vuelos por par de aeródromos.
+2.º Número de pasajeros-kilómetro por par de aeródromos.
+3.º Número de toneladas-kilómetro por par de aeródromos.
+4.º Método elegido para el cálculo de la masa para pasajeros y equipaje facturado.
+5.º Número total de toneladas-kilómetro para todos los vuelos efectuados durante el año al que se refiere el informe que correspondan a las actividades de aviación enumeradas en el anexo I de las que es el operador aéreo.
+Se modifica el apartado 4 de la parte A por el art. único.48 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se reordena como Parte A, se modifica el punto 4 y se añade la Parte B por el art. único.40 y 41 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+## ANEXO IV
+
+PARTE A
+Verificación de las emisiones de las instalaciones fijas
+Criterios de la verificación
+Principios generales
+1. Las emisiones de cada actividad enumerada en el anexo I estarán sujetas a verificación.
+2. El proceso de verificación incluirá el examen del informe elaborado de conformidad con el artículo 22 y del seguimiento del año anterior. Estudiará la fiabilidad, crédito y exactitud de los sistemas de seguimiento y de los datos e información notificados relativos a las emisiones, en especial:
+a) Los datos de la actividad notificados y las mediciones y cálculos relacionados.
+b) La elección y uso de factores de emisión.
+c) Los cálculos en que se haya basado la determinación de las emisiones globales.
+d) Si se ha recurrido a la medición, la conveniencia de esta opción y el uso de métodos de medición.
+3. Las emisiones notificadas sólo se validarán si se aportan datos e información fidedignos y dignos de crédito que permitan la determinación de las emisiones con un alto grado de certeza, para lo cual el titular tendrá que demostrar lo siguiente:
+a) Que los datos notificados no presentan contradicciones.
+b) Que la recogida de los datos se ha llevado a cabo de conformidad con las normas científicas aplicables.
+c) Que la documentación pertinente de la instalación es completa y coherente.
+4. El verificador disfrutará de libre acceso a todos los emplazamientos y toda la información en relación con el objeto de la verificación.
+5. El verificador tendrá en cuenta si la instalación está registrada en el sistema comunitario de gestión y auditoría medioambientales (EMAS).
+Metodología
+Análisis estratégico:
+6. La verificación se basará en un análisis estratégico de todas las actividades llevadas a cabo en la instalación, por lo que el verificador deberá tener una visión general de todas las actividades y de su importancia para las emisiones.
+Análisis de procesos:
+7. La verificación de la información presentada se llevará a cabo, cuando proceda, en el emplazamiento de la instalación. El verificador recurrirá a inspecciones in situ para determinar la fiabilidad de los datos y la información notificados.
+Análisis de riesgos:
+8. El verificador someterá todas las fuentes de emisiones de la instalación a una evaluación en relación con la fiabilidad de los datos de todas las fuentes que contribuyan a las emisiones globales de la instalación.
+9. Partiendo de este análisis, el verificador determinará explícitamente las fuentes que presenten un alto riesgo de errores y otros aspectos del procedimiento de seguimiento y notificación que pudieran contribuir a errores en la determinación de las emisiones globales, lo que implica en especial la elección de los factores de emisión y de los cálculos necesarios para determinar las emisiones de fuentes aisladas. Se atenderá sobre todo a las fuentes que presenten un alto riesgo de error y a los aspectos mencionados más arriba del procedimiento de seguimiento.
+10. El verificador tomará en consideración cualquier método de control efectivo de riesgos aplicado por el titular con objeto de reducir al máximo el grado de incertidumbre.
+Elaboración de informes:
+11. El verificador elaborará un informe sobre el proceso de validación en el que constará si es satisfactoria la notificación realizada de conformidad con el artículo 22. Dicho informe indicará todos los aspectos pertinentes para el trabajo efectuado. Podrá hacerse una declaración que indique que es satisfactoria la notificación realizada de conformidad con el artículo 22 si, en opinión del verificador, la declaración de las emisiones totales no presenta errores.
+Requisitos mínimos de competencia del verificador:
+12. El verificador será independiente del titular, llevará a cabo sus actividades de manera profesional, competente y objetiva y estará al tanto de:
+a) Las disposiciones de esta Ley, así como, en su caso, de las normas y directrices pertinentes adoptadas por la Comisión Europea y la normativa de desarrollo.
+b) Los requisitos legales, reglamentarios y administrativos aplicables a las actividades verificadas.
+c) La generación de toda la información relacionada con cada fuente de emisiones de la instalación, en especial la relativa a la recogida, medición, cálculo y notificación de los datos.
+PARTE B
+Verificación de las emisiones de las actividades de aviación
+13. Los principios generales y los métodos establecidos en el presente anexo se aplicarán a la verificación de los informes de las emisiones procedentes de los vuelos que correspondan a una actividad de aviación enumerada en el Anexo I.
+A estos efectos:
+a) en el apartado 3, la referencia al titular se entenderá como referencia al operador aéreo, y en la letra, c) la referencia a la instalación se entenderá como referencia a la aeronave utilizada para realizar las actividades de aviación a las que se refiere el informe;
+b) en el apartado 5, la referencia a la instalación se entenderá como referencia al operador aéreo;
+c) en el apartado 6, la referencia a las actividades llevadas a cabo en la instalación se entenderá como referencia a las actividades de aviación a las que se refiere el informe, realizadas por el operador aéreo;
+d) en el apartado 7, la referencia al emplazamiento de la instalación se entenderá como referencia a los emplazamientos utilizados por el operador aéreo para realizar las actividades de aviación a las que se refiere el informe;
+e) en los apartados 8 y 9, las referencias a las fuentes de emisiones de la instalación se entenderán como referencia a la aeronave de la que es responsable el operador, y
+f) en los apartados 10 y 12, las referencias al titular se entenderán como referencias al operador aéreo.
+Disposiciones adicionales relativas a la verificación de los informes de emisiones procedentes de la aviación:
+14. el verificador comprobará en particular que:
+a) se han tenido en cuenta todos los vuelos correspondientes a una actividad de aviación enumerada en el Anexo I; en esta tarea, el verificador se servirá de los datos sobre los horarios y de otros datos sobre tráfico del operador aéreo, en particular los datos solicitados a Eurocontrol por dicho operador;
+b) los datos agregados sobre consumo de combustible y los datos sobre el combustible comprado o suministrado de otro modo a las aeronaves que realizan la actividad de aviación son totalmente coherentes.
+Disposiciones adicionales relativas a la verificación de los datos sobre toneladas-kilómetro presentados a efectos las solicitudes de asignación a los operadores aéreos:
+15. los principios generales y los métodos aplicados para verificar los informes de emisiones de conformidad con el artículo 22, tal y como se establecen en el presente Anexo, también se aplicarán, en su caso, de la misma manera a la verificación de los datos sobre toneladas-kilómetro de aviación.
+16. el verificador comprobará en particular que, en la solicitud presentada por el operador de conformidad con los artículos 38 y 41 solamente se han tenido en cuenta los vuelos realmente efectuados y correspondientes a una actividad de aviación enumerada en el Anexo I de la que es responsable el operador aéreo. En esta tarea, el verificador se servirá de los datos sobre tráfico del operador aéreo, incluidos los datos solicitados a Eurocontrol por dicho operador. Además, el verificador comprobará que la carga útil notificada por el operador aéreo corresponde a la que figura en el registro que lleva dicho operador con fines de seguridad.
+Se reordena como Parte A y se añade la Parte B por el art. único.42 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706
+
+### ANEXO V
+
+Sujetos afectados por las disposiciones de la ley
+Sujetos afectados
+ Disposiciones
+ Instalaciones fijas.
+ Artículos 4 a 8, 13.2, 16 a 23 bis y 29.
+ Disposiciones adicionales primera, cuarta y sexta.
+ Anexo III parte A y anexo IV parte A.
+ Operadores aéreos.
+ Artículos 29 bis, 31 y 36 a 41.
+ Anexo III parte B y anexo IV parte B.
+ Disposición transitoria tercera.
+ Instalaciones fijas y operadores aéreos.
+ Artículos 1 a 3 bis, 9 a 12, 13.1, 14 y 15, 24 a 28, 30 y 32 a 35 bis.
+ Disposiciones adicionales segunda, tercera, quinta y séptima.
+ Disposiciones finales primera a quinta.
+ Disposiciones transitorias primera y segunda.
+ Anexo I, II y V.
+Se modifica por el art. único.49 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
+ Se añade por el art. único.43 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706

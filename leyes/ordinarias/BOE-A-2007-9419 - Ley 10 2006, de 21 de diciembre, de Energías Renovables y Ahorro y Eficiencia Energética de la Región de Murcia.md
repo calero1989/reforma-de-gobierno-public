@@ -1,0 +1,491 @@
+# Ley 10/2006, de 21 de diciembre, de Energías Renovables y Ahorro y Eficiencia Energética de la Región de Murcia.
+
+- Identificador BOE: `BOE-A-2007-9419`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-9419
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 10/2006, de 21 de diciembre, de Energías Renovables y Ahorro y Eficiencia Energética de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30.Dos, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+PREÁMBULO
+I
+La energía en todas sus formas ha acompañado a la humanidad desde el principio de los tiempos. A lo largo de los siglos ha proporcionado el calor necesario para desarrollar nuestra vida y nuestras costumbres, a la vez que se ha erigido en la fuerza motriz del desarrollo económico.
+En la actualidad los avances tecnológicos han propiciado que la utilización de la energía sea algo natural y común en nuestra sociedad y en nuestro modo de vida.
+La comodidad para usar las actuales fuentes de energía una vez transformadas para su uso, como la electricidad, el gas o los derivados del petróleo, nos ha conducido a un estándar de desarrollo basado principalmente en políticas de disponibilidad de energía de forma barata y abundante, pero quizás las facilidades que se nos ofrecen para usar la energía, nos han llevado a olvidar ciertos aspectos relacionados con su aprovechamiento: el agotamiento de los recursos naturales y su interacción con el medio ambiente.
+Pero inevitablemente seguiremos consumiendo energía, lo cual nos lleva a reflexionar sobre si las actuales pautas de consumo son compatibles con las cada vez más arraigadas tendencias de respeto a la naturaleza, que han calado con fuerza hasta los cimientos de nuestra sociedad.
+En este contexto, el reto que se nos presenta es doble: seguir abasteciéndonos de energía sin hipotecar el desarrollo económico y social, ni el medio ambiente de las generaciones futuras.
+II
+El empleo de las energías renovables, lejos de ser considerado como una propuesta para combatir el agotamiento de los recursos naturales y los problemas de carácter ambiental, hoy día constituye una línea prioritaria en la planificación de las políticas energéticas de los diferentes gobiernos. En España, el Plan de Energías Renovables 2005/2010 pretende elevar su utilización en los próximos cinco años hasta alcanzar el 12,1% del consumo global en nuestro país. En nuestra Comunidad Autónoma la Planificación Energética Regional 2003/2012 propone que las fuentes de energía renovable alcancen en este periodo una aportación del 13% de toda la energía primaria que se consuma en la Región.
+A su vez, el fomento de la eficiencia energética es una firme apuesta para combatir las emisiones a la atmósfera de los gases que producen el efecto invernadero y a su vez se constituye en una clara vía para el cumplimiento de los compromisos del Protocolo de Kyoto. Cumplimiento que el Gobierno de la Nación activó en el año 2003 mediante la aprobación de la denominada «Estrategia de Eficiencia Energética en España», más conocida como E4 y que tuvo su reflejo en la política regional a través de la Planificación Energética Regional 2003/2012, en la que se propone una disminución global del consumo de energía del 7% en el periodo de planificación, alcanzando la cifra del 11% de disminución del consumo anual de energía a partir del año 2012.
+III
+En el convencimiento de que el uso de las energías renovables es una vía inestimable para dar solución a las necesidades de abastecimiento energético y de combatir los problemas inherentes al cambio climático, se impulsar desde esta Ley el aprovechamiento de los recursos energéticos renovables presentes en nuestra Región.
+En primer lugar, la Ley establece el principio de la primacía de las energías renovables, mediante el cual las imbuye del carácter necesario para vencer las barreras que aún hoy en día encuentran para su expansión. Materializa esta decisión mediante el uso de directrices, planes y programas de impulso y a su vez dota a la Administración regional de los mecanismos necesarios para vencer las barreras de implantación y acceso a las redes de energía que aún subsisten en el sistema energético. Recoge la Ley la necesidad de ordenar la explotación de las energías renovables en aras del interés público, mediante la creación de la figura administrativa denominada «Autorización de Aprovechamiento», la cual no sólo pretende aunar los procedimientos administrativos, sino que también lleva a considerar, en la decisión a adoptar, el resultado de lo que se plasma como balance energético ambiental, balance en el cual no sólo deben considerarse los aspectos puramente sectoriales, sino también otros como el impacto económico social o la vertebración del territorio a la hora de decidir sobre la idoneidad de la instalación de un determinado aprovechamiento de energías renovables.
+De otra parte, el fuerte crecimiento de las necesidades energéticas en nuestra Región, ocasionadas por el aumento de las condiciones de bienestar de los ciudadanos, así como por la pujanza de nuestra actividad económica, constituye una razón adicional de peso a la hora de elaborar esta Ley, cuyos objetivos pasan por fomentar la reducción en nuestros consumos energéticos, avanzando en las pautas de los usos responsables de la energía en todas sus formas. Reducciones de consumo que han de venir de la mano de la modernización, el desarrollo y la innovación de los equipos consumidores de energía, a la vez que de establecer unas pautas naturales de utilización racional de la energía en todos los estamentos de nuestra sociedad, que deberán impulsarse desde la Administración en colaboración con los agentes del sector. En esta línea la Administración regional asume el compromiso de dotar a sus edificios de instalaciones necesarias para el aprovechamiento de las energías renovables, así como para alcanzar la máxima eficiencia en el consumo de energía, dándose un plazo de diez años para alcanzar este objetivo.
+Los postulados recogidos en esta Ley, en su aspecto puramente estratégico, propiciarán una reducción de nuestra dependencia de terceros en el abastecimiento energético, y un aumento de la diversificación de las fuentes de energía, actuales y futuras. Desde un punto de vista económico las familias tendrán la oportunidad de reducir sus consumos y por lo tanto su factura energética; a la vez que las empresas aumentarán su competitividad al ser más eficientes en el uso de la energía y, como colofón, nuestro entorno medioambiental se verá beneficiado fundamentalmente con una reducción de las emisiones de gases a la atmósfera.
+Merece especial mención en esta Ley la producción agua y su relación con la energía. Las tecnologías de producción de agua a partir de agua de mar o aguas salobres son intensivas en el consumo de energía, por lo que, proyectos destinados a la producción de agua, que incorporen para su consumo fuentes de energías renovables, deben de ser objeto de un apoyo específico, máxime si en ellos se aúnan tecnologías de ahorro y eficiencia energética que redunden en el precio de este bien tan escaso en nuestra Región.
+IV
+Aborda la presente Ley la necesidad de establecer una planificación energética regional en el seno de la planificación estatal que, en colaboración con los agentes del sector energético, tendrá por objetivo el establecimiento de un conjunto de medidas y acciones tendentes a alcanzar un modelo de funcionamiento del sistema energético regional que posibilite el acceso a todos los ciudadanos de la Región a las fuentes de energía en condiciones de igualdad, calidad y seguridad, en el marco del denominado desarrollo sostenible.
+V
+No olvida la Ley la necesidad de que las instalaciones y los equipos, que al amparo de ella se ejecuten, deban cumplir su funcionalidad a lo largo de toda su vida útil, más aún cuando un gran número de aquellas instalaciones y equipos serán beneficiarios de ayudas públicas; por ello, se establece la obligatoriedad de garantizar sus prestaciones mediante las adecuadas certificaciones de equipos y productos.
+Igualmente se establecen las condiciones de las empresas que han de conformar el tejido de una industria emergente, asociada al aprovechamiento de las fuentes de energía renovables y al uso racional de la energía. Al establecer condiciones de capacitación de estas empresas se consigue el doble objetivo de dotar de una mayor calidad a las instalaciones, a la vez que se cualifica a los integrantes de las mismas.
+Para verificar el cumplimiento de los parámetros y rendimientos de las instalaciones se introduce la figura de la empresa colaboradora de la Administración en materia de energías renovables y ahorro y eficiencia energética.
+Cobra especial importancia la posibilidad de impulsar la creación de la Entidad de Certificación Energética, organismo que vendrá a facilitar la gestión de las actuaciones relacionadas con el cumplimiento de la legislación de energías renovables y ahorro y eficiencia energética.
+VI
+La presente Ley confiere especial relevancia a la investigación, al desarrollo y la innovación, en el convencimiento de que de la mano de ellas se lograrán los nuevos desarrollos tecnológicos que permitirán a nuestra sociedad y a las generaciones futuras explotar nuevas fuentes y formas de aprovechamiento de la energía, que ayudarán a satisfacer nuestras necesidades presentes y futuras en un desarrollo compatible con el respeto al medio ambiente.
+La actual sociedad del conocimiento requiere el fortalecimiento permanente de los procesos y las fuentes capaces de crear y extender la innovación mediante mecanismos de transferencia eficaces e infraestructuras tecnológicas adecuadas. Con esta finalidad, se propone la creación de un Centro de Innovación en Energías Renovables y Eficiencia Energética.
+Estas iniciativas sólo se pueden abordar con un sector energético regional consolidado y agentes que dispongan de la capacidad y la voluntad de contribuir decisivamente al enriquecimiento de su entorno, por lo que las políticas públicas habrán de impulsar acciones de formación en todos los niveles educativos de manera que la promoción de estas tecnologías y la implantación de los nuevos hábitos se conviertan efectivamente en el gran pilar del desarrollo energético de una Región que aspira a integrarse de forma irrenunciable entre las más avanzadas en sectores de alto valor añadido.
+Por ello, la formación en materia de energías renovables y ahorro y eficiencia energética pasa a ser un elemento trascendental para el desarrollo económico y social de nuestra Región y, por tanto, un recurso estratégico de primer orden. Ha de constituir un potente y decisivo vector de generación de riqueza, de vertebración social y, al mismo tiempo, un factor indispensable para lograr la integración de los jóvenes como actores de la gran transformación tecnológica de este siglo tendente a alcanzar una situación ambiental más justa y equilibrada.
+VII
+El fortalecimiento del sistema energético regional requiere, igualmente, incrementar los mecanismos de coordinación con los agentes locales en este ámbito energético, de manera que se refuerce su necesaria colaboración para conseguir los objetivos de esta Ley en un entorno de eficacia y cooperación mutua.
+La propia expansión de la actividad industrial vinculada a la utilización de las energías renovables, la globalización cada vez mayor de su actividad energética, las mayores exigencias sociales en relación con la misma y la experiencia acumulada en estos años, una vez resueltos los problemas inherentes a las etapas de configuración y crecimiento inicial de la actividad, aconsejan acometer una ley regional que, sobre todo, dé un nuevo impulso a nuestro sector industrial y comercial vinculado al aprovechamiento de las energías renovables y el uso racional de la energía, fortaleciendo sus mecanismos de coordinación, redefiniendo los procedimientos de participación de la sociedad en el desarrollo sectorial y asegurando los sistemas que garanticen tanto la colaboración del sistema financiero, como la mejor utilización de los recursos públicos destinados a esta actividad.
+De otro lado, los rápidos cambios que se están produciendo tanto en las tecnologías aplicables, como en el orden normativo, deberán resultar asumibles y capaces de ser incorporados de forma creativa por los diferentes agentes del conjunto del sector energético regional, que deberán aportar competitividad y capacidad de liderazgo en dichos procesos.
+VIII
+Esta Ley se dicta al amparo del artículo 10.Uno.28 de la Ley Orgánica 4/1982, de 9 de junio, por la que se aprueba el Estatuto de Autonomía para la Región de Murcia, en cuya virtud corresponde a la Comunidad Autónoma la competencia exclusiva en materia de «Instalaciones de producción, distribución y transporte de energía, cuando el transporte no salga de su territorio y su aprovechamiento no afecte a otra Comunidad Autónoma. Todo ello sin perjuicio de lo establecido en los números 22 y 25 del apartado 1 del artículo 149 de la Constitución». Asimismo, los aspectos ambientales atienden a las atribuciones autonómicas en materia de «normas adicionales de protección», a las que remite el artículo 149.1.23 de la Constitución Española, con respeto a la competencia sobre «legislación básica en materia de protección del medio ambiente» correspondiente al Estado.
+IX
+En cuanto a su estructura formal, la Ley se articula en seis títulos, además del preliminar –algunos de ellos divididos en capítulos por razones sistemáticas–, tres disposiciones adicionales, dos transitorias y dos finales, con un total de treinta y cinco artículos.
+El título preliminar lleva por rúbrica «Disposiciones Generales», aludiendo al objeto, ámbito de aplicación y finalidad de la ley.
+El título primero inicia la regulación otorgada al primer gran objeto de la Ley «Las Energías Renovables», señalando el conjunto de políticas públicas e instrumentos dirigidos a su fomento, el establecimiento de un procedimiento único e integrante de todas las autorizaciones autonómicas necesarias, así como la imprescindible planificación energética regional para conseguir los fines auspiciados por las citadas políticas públicas.
+El título II aborda el «Ahorro y la Eficiencia Energética» en el mismo sentido que el anterior, estableciendo el conjunto de programas, estrategias y políticas públicas dirigidas a fomentar esta materia.
+El título III, dedicado a los «Requisitos exigibles a las instalaciones, empresas instaladoras y entidades de verificación e inspección», se crea la figura de las empresas instaladoras y mantenedoras e instaladores y mantenedores autorizados en materia de energías renovables y ahorro y eficiencia energética. Asimismo, en el apartado relativo a las instalaciones, se recogen las exigencias de calidad y normalización de instalaciones y componentes.
+Con la rúbrica de «Tecnología, Investigación e Innovación» se recogen, en el título IV, el conjunto de acciones a desarrollar por la Administración regional y los agentes sectoriales en la citada materia, previendo la futura creación de un Centro de Innovación en Energías Renovables y de Eficiencia Energética.
+No se podía olvidar esta ley de la «Coordinación, cooperación administrativa y colaboración social», que en el título V se configura como elemento indispensable en la consecución de los objetivos de aprovechamiento de las energías renovables y ahorro y eficiencia energética.
+Con la denominación «Infracciones y Sanciones», el título VI aborda el catálogo de infracciones y sanciones por incumplimiento de las prescripciones de la Ley, otorgando la condición de agente de la autoridad al personal de la Administración energética al que se atribuyan funciones de investigación e inspección en las materias objeto de la Ley.
+Finalmente, se incluyen tres disposiciones adicionales, dos transitorias y dos finales.
+En la primera de las adicionales se dirige un mandato a la Administración regional, de iniciar la elaboración de las Directrices y Planes Sectoriales de Impulso de las Energías Renovables en un plazo de seis meses.
+En la segunda se establece un plazo de doce meses para que el Gobierno Regional presente ante la Asamblea Regional un nuevo Plan Energético Regional. La tercera señala la obligación de la Administración regional de incorporar instalaciones de aprovechamiento de energías renovables y de las últimas tecnologías en materia de uso racional de la energía, otorgando, en la transitoria primera, un plazo de siete años para adecuar y modernizar los edificios públicos ya construidos. La disposición transitoria segunda señala el momento en el que comenzará a exigirse la autorización de aprovechamiento.
+Las disposiciones finales contienen una genérica habilitación de desarrollo normativo al Consejo de Gobierno, así como una «vacatio legis» de treinta días para su entrada en vigor, plazo que se estima suficiente para el general conocimiento de la norma.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Es objeto de esta ley establecer las bases de una política energética sostenible en la Región de Murcia, promoviendo el aprovechamiento de los recursos energéticos renovables, así como el ahorro de energía y la mejora de la eficiencia energética, desde la producción hasta el consumo, reduciendo la dependencia energética exterior y la afección al medio ambiente, potenciando una mayor solidaridad ambiental en el uso de la energía.
+Se modifica por el art. único.1 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. La presente ley será de aplicación a las instalaciones de aprovechamiento de energías renovables y a las actuaciones de ahorro y eficiencia energética que se implementen en el ámbito territorial de la Región de Murcia.
+Asimismo, será de aplicación a la planificación regional necesaria para el cumplimiento de los objetivos señalados en el artículo anterior.
+2. A los efectos de esta ley, se entenderán como energías renovables susceptibles de aprovechamiento en la Región de Murcia:
+a) La energía eólica.
+b) La energía solar.
+c) La energía aerotérmica.
+d) La energía geotérmica.
+e) La energía hidrotérmica y oceánica.
+f) La energía hidráulica.
+g) La biomasa.
+h) Los gases de vertedero.
+i) Los gases de plantas de depuración.
+j) El biogás.
+k) Y toda aquella energía renovable de origen no fósil no contemplada en los apartados anteriores.
+3. A los efectos de esta ley, se entiende por ahorro de energía la disminución de energía consumida tras la aplicación de alguna medida de mejora de la eficiencia energética, teniendo en cuenta al mismo tiempo la normalización de las condiciones externas que influyen en el consumo de energía.
+Se entiende por mejora de la eficiencia energética el conjunto de acciones, medidas, instrumentos o instalaciones dirigidas a aumentar la relación entre la producción de un rendimiento, servicio, bien o energía y el gasto de energía.
+Se modifica por el art. único.2 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+### Artículo 3
+
+Artículo 3. Fines.
+Son fines de la presente Ley:
+a) Potenciar el aprovechamiento de las fuentes de energías renovables, y de forma especial la energía solar, priorizando su implantación en todos los ámbitos del consumo energético regional.
+b) El diseño de un nuevo escenario energético que propicie pautas de conducta basadas en el uso responsable de la energía.
+c) Fomentar las acciones de I+D+i en el ámbito de las tecnologías de aprovechamiento de las energías renovables y del ahorro y la eficiencia energética.
+d) Impulsar la aplicación de las energías renovables y la eficiencia energética en los procesos relacionados con la obtención y utilización del agua.
+e) Armonización de la planificación energética y la ordenación del territorio, con la finalidad de optimizar el sistema energético regional.
+f) Incentiva, promover e impulsar la colaboración y la participación entre las administraciones públicas, los sectores productivos y la sociedad en general, para la consecución de los objetivos de esta Ley y la aplicación de sus instrumentos de desarrollo.
+g) Contribuir a compatibilizar el desarrollo económico y social con la protección del medio ambiente, propiciando el acceso de todos los ciudadanos a las fuentes de energía en condiciones de igualdad, calidad y seguridad.
+h) La adecuación de los edificios e instalaciones de la Administración pública a los requisitos mínimos de rendimiento energético y uso de energías renovables, en ejercicio de una labor ejemplarizante.
+Se añade la letra h) por el art. único.3 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+## TÍTULO I
+
+Energías renovables
+
+## CAPÍTULO I
+
+Primacía de las energías renovables
+
+### Artículo 4
+
+Artículo 4. Directrices y planes sectoriales de impulso de las energías renovables.
+1. El Consejo de Gobierno, a propuesta de la Consejería competente en materia de energía, aprobará las Directrices Sectoriales de Impulso de las Energías Renovables en las que se definirán los principios rectores que han de guiar la política regional en esta materia, la integración de éstos en la planificación y ejecución de la política económica, territorial, de desarrollo local, tecnológica e industrial y las posibles estrategias para alcanzar un grado de abastecimiento energético compatible con el respeto al medio ambiente.
+2. En desarrollo de las Directrices y en el marco de la planificación energética y territorial de la Región se elaborarán por la Consejería competente en materia de energía y se aprobarán por el Consejo de Gobierno planes de impulso de las energías renovables.
+Los planes tendrán por objeto aquellos sectores o territorios susceptibles de un tratamiento unitario y se incluirán, en su caso, en los planes de actuación sectorial o territorial que apruebe la Administración regional.
+Los planes de impulso de las energías renovables contendrán, entre otras, las siguientes determinaciones: objetivos a alcanzar y plazos, actuaciones a realizar por el sector público y la iniciativa privada, competencia para su ejecución y un análisis económico-financiero y balance ambiental, determinando el plazo de vigencia y actualización de los mismos.
+
+### Artículo 5
+
+Artículo 5. Programas de aprovechamiento de energías renovables.
+Los planes de impulso de las energías renovables se podrán desarrollar por la consejería competente en materia de energía, a través de:
+a) Programas de implantación de energías renovables, especialmente los relativos a la energía solar y biomasa, con la finalidad de reducir la emisión de contaminantes.
+b) Programas sectoriales de desarrollo tecnológico para la implementación de métodos y procesos productivos destinados a reducir las emisiones de contaminantes y minimizar la producción de residuos mediante la utilización de energías renovables.
+c) Incentivos económicos y fiscales a las inversiones que tengan por objeto la implantación de instalaciones de producción de energía de origen renovable para reducir la generación de residuos y emisiones contaminantes mediante la aplicación de fuentes de energía renovables.
+d) Programas específicos para la restauración de áreas degradadas mediante el uso y aplicación de fuentes de energías renovables.
+e) Programas de información y educación en materia de energías renovables.
+f) Programas de sustitución de energías convencionales por la utilización de energías renovables en edificios e instalaciones de uso o servicio público.
+g) Programas de implantación de instalaciones de aprovechamiento de energías renovables en el medio rural para suplir la carencia de suministros energéticos convencionales.
+h) Programas de implantación de instalaciones para producción de agua dulce por desalinización de agua de mar o de aguas salobres, con destino al consumo público, industrial, turístico o de regadíos que empleen energía solar u otra fuente de energía renovable como fuente energética principal.
+Se añade la letra h) por el art. único.4 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+### Artículo 6
+
+Artículo 6. Interés Regional y Declaración de Interés Público o Interés Social de instalaciones de recursos energéticos renovables.
+1. Cuando se plantee la implantación territorial de un proyecto de aprovechamiento de energías renovables, que por sus dimensiones, carácter innovador u otra circunstancia relevante, suponga un beneficio para la Región en su conjunto, ya sea en el ámbito de los servicios públicos, la economía, la conservación del medio ambiente, el patrimonio histórico o la mejora del bienestar comunitario, podrá ser declarado de interés regional, con la tramitación, efectos y plazos previstos para este tipo de actuaciones en la legislación territorial y urbanística.
+2. Se declaran de utilidad pública las instalaciones de energías renovables, a los efectos de expropiación forzosa de los bienes y derechos necesarios para su establecimiento y de la imposición y ejercicio de la servidumbre de paso, en los términos previstos en la normativa sectorial aplicable.
+
+### Artículo 7
+
+Artículo 7. Información parlamentaria.
+El Gobierno regional informará a la Asamblea Regional sobre la elaboración y el estado de ejecución de las Directrices, Planes y Programas de impulso de energías renovables.
+
+### Artículo 8
+
+Artículo 8. Cesión de uso para implantación de energías renovables por las administraciones públicas.
+Las Administraciones públicas favorecerán la utilización de los terrenos e instalaciones de su titularidad para el uso y aprovechamiento público o privado de las fuentes de energías renovables, a través de convenios de colaboración o de cualesquiera otros instrumentos previstos en el Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público.
+Se modifica por el art. único.5 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+## CAPÍTULO II
+
+Procedimiento de priorización
+
+### Artículo 9
+
+Artículo 9. Preferencia en el acceso a redes de transporte y distribución de la energía.
+1. Se establece la preferencia de las energías renovables en el acceso a las redes de transporte y distribución eléctrica, siendo obligatoria su conexión para aquellas redes eléctricas que radiquen en la Comunidad Autónoma, en los términos previstos en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, y normas de desarrollo estatales o autonómicas.
+2. En atención al valor estratégico que representa la disponibilidad de agua en la Región de Murcia, las instalaciones para producción de agua dulce por desalinización de agua de mar o de aguas salobres con destino al consumo público, industrial, turístico o de regadíos que empleen energía solar u otra fuente de energía renovable como fuente energética principal, se asimilarán, en cuanto a los criterios de conexión, a lo previsto para las energías renovables.
+Se modifica el apartado 1 por el art. único.6 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+### Artículo 10
+
+Artículo 10. Conflicto en el acceso a redes.
+1. Por orden de la Consejería competente en materia de energía se establecerá el procedimiento para resolver los supuestos de concurrencia de instalaciones energéticas renovables en el acceso a redes de transporte y distribución.
+2. En el procedimiento de resolución de conflictos de acceso que se establezca al efecto, deberá darse preferencia a aquellos proyectos que, de acuerdo con el principio de generación distribuida, produzcan la energía en los puntos de consumo, contribuyan a la vertebración territorial, supongan una mayor eficiencia energética o una mayor cantidad de energía producida.
+
+## CAPÍTULO III
+
+Autorización de aprovechamiento
+
+### Artículo 11
+
+Artículo 11. Concepto y competencias.
+1. A fin de simplificar los procedimientos administrativos y reducir las cargas burocráticas asociadas a la implantación de instalaciones de aprovechamiento de energías renovables en el ámbito competencial de la Comunidad Autónoma de la Región de Murcia, se establecerá un único procedimiento administrativo unificado que comprenderá todas las autorizaciones y requisitos exigibles por la legislación vigente en materias de industria y energía, que dará lugar a la «Autorización de Aprovechamiento».
+2. La autorización de aprovechamiento será otorgada mediante resolución emitida por la dirección general con las competencias asignadas en materia de energías renovables, uso y eficiencia energética.
+3. La consejería competente en materia de energía establecerá el procedimiento y plazos para el otorgamiento de la autorización de aprovechamiento de instalaciones de recursos energéticos renovables.
+Se modifica por el art. único.7 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+### Artículo 12
+
+Artículo 12. Declaración de impacto ambiental de instalaciones energéticas renovables.
+1. La evaluación de impacto ambiental y la correspondiente declaración de impacto de las instalaciones de energías renovables se llevará a cabo de acuerdo con lo previsto en la legislación ambiental aplicable.
+2. En la evaluación de impacto ambiental se valorarán los beneficios ambientales derivados de la generación de energía renovable en sustitución de otras fuentes de energía.
+Se modifica el apartado 1 por el art. 4 del la Ley 13/2007, de 27 de diciembre. Ref. BOE-A-2008-12589
+
+## CAPÍTULO IV
+
+Planificación Energética Regional
+
+### Artículo 13
+
+Artículo 13. Obligatoriedad de la planificación energética regional.
+Con carácter periódico, en el marco de la planificación europea y estatal, y en colaboración con los agentes del sector energético, el Gobierno regional elaborará la planificación energética regional.
+
+### Artículo 14
+
+Artículo 14. Objeto de la planificación energética regional.
+1. La planificación energética regional tendrá por objeto el establecimiento de un conjunto de medidas tendentes a establecer el modelo de funcionamiento que permita avanzar hacia un objetivo que haga compatible la calidad del servicio y la mejor asignación de los recursos disponibles, sentando así las bases de un crecimiento económico integral y estable en un marco de desarrollo sostenible.
+2. Asimismo, para garantizar el suministro y dotar al sistema de racionalidad y eficiencia, también contemplará aquellas infraestructuras que necesariamente deberán acometerse en materia de instalaciones de distribución de electricidad, gasoductos de la red de transporte secundario e instalaciones de almacenamiento de hidrocarburos.
+3. La planificación energética deberá especificar el porcentaje de aportación de las energías renovables en el abastecimiento de energía primaria de la Región, así como los niveles de ahorro y eficiencia energética a alcanzar.
+Los objetivos deberán fijarse teniendo en cuenta todos los factores que inciden en el abastecimiento y utilización de la energía, tanto los de tipo socio-económico, como los tecnológicos.
+4. La evaluación del cumplimiento de los objetivos propuestos en la planificación energética regional en materia de energías renovables y eficiencia energética se realizará con carácter periódico por la consejería competente en materia de energía, formalizándose en un informe anual que servirá de base para el desarrollo de las directrices, planes y programas contemplados en la presente ley.
+Se añade el apartado 4 por el art. único.8 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+### Artículo 15
+
+Artículo 15. Planificación eléctrica y gasística.
+1. La planificación eléctrica y gasística a realizar por el Gobierno regional en colaboración con las empresas del sector energético tendrá carácter indicativo.
+2. La implantación de estas redes e instalaciones habrá de ajustarse a la planificación indicada en el apartado anterior, en coherencia con las Directrices Sectoriales y Plan de Ordenación Territorial en la materia.
+
+## TÍTULO II
+
+Ahorro y eficiencia energética
+
+### Artículo 16
+
+Artículo 16. Programas y estrategia de ahorro y eficiencia energética.
+La Administración regional articulará los programas y estrategias de ahorro y uso racional de la energía que permitan disminuir el consumo energético de los usuarios y la intensidad energética en la producción de bienes, la dependencia energética exterior y la consecuente reducción de emisiones contaminantes.
+
+### Artículo 17
+
+Artículo 17. Políticas públicas de ahorro y eficiencia energética.
+1. La Administración regional desarrollará políticas de reducción de la demanda energética, enmarcadas en las estrategias nacionales y sectoriales de ahorro y eficiencia energética, en las cuales participarán las empresas suministradoras de energía y los sectores de mayor consumo energético.
+En relación con la mejora de la eficiencia energética de los edificios, se desarrollarán políticas y medidas destinadas a estimular la renovación y rehabilitación del parque de viviendas de baja eficiencia energética, de manera que se dé cumplimiento a los requisitos de rendimiento energético mínimos establecidos en las directivas europeas vigentes, así como planes de movilidad para un uso más eficiente del transporte tanto público como privado, con especial atención a los desplazamientos en el ámbito laboral y escolar en el marco de la conciliación de la vida familiar y laboral.
+2. La Consejería competente en materia de energía impulsará acciones de formación en todos los niveles educativos, tanto general como universitario, generando nuevos hábitos de consumo eficiente entre la población.
+3. Igualmente se promoverá la implantación de tecnologías de ahorro y eficiencia energética en todos los sectores consumidores de energía, especialmente en aquellas instalaciones para producción de agua dulce por desalinización de agua de mar o de aguas salobres, debido al carácter intensivo del gasto energético en la obtención del agua desalada.
+4. Asimismo se fomentarán las ayudas económicas y fiscales dirigidas a la consecución de los objetivos en materia de ahorro y eficiencia energética.
+Se modifica el apartado 1 por el art. único. 9 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+### Artículo 18
+
+Artículo 18. Auditorías energéticas para grandes consumidores de energía convencional.
+1. La consejería con competencias en materia de energía podrá exigir a grandes consumidores de energías convencionales la realización de auditorías energéticas realizadas de manera independiente por expertos cualificados y/o acreditados, de forma periódica, en el marco de lo establecido en la legislación vigente en materia de auditorías energéticas.
+2. Por orden de la consejería competente en materia de energía se definirá qué instalaciones serán consideradas como grandes consumidores de energías convencionales, los criterios a aplicar en la realización de auditorías y los contenidos mínimos de los informes de auditoría.
+3. En los informes señalados en el apartado anterior habrán de fijarse las acciones compensatorias que, con destino a la realización de actuaciones en materia de innovación tecnológica en el campo de las energías renovables y del ahorro y eficiencia energética, podrán cifrarse en una aportación económica directa de carácter porcentual o en la formalización del oportuno instrumento de colaboración con universidades u otras entidades públicas o privadas.
+Se modifica por el art. único. 10 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+## TÍTULO III
+
+Requisitos exigibles a las instalaciones, empresas instaladoras, auditores energéticos y empresas de servicios energéticos
+Se modifica por el art. único. 11 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+## CAPÍTULO I
+
+Instalaciones
+
+### Artículo 19
+
+Artículo 19. Calidad y garantía de equipos e instalaciones.
+1. Todas las instalaciones cuyo objeto sea el aprovechamiento mediante el uso de energías renovables y el ahorro y la eficiencia energética, así como los elementos técnicos y materiales que la constituyen deberán ajustarse a las correspondientes normas técnicas de seguridad y calidad industriales, de conformidad a lo previsto en la Ley 21/1992, de 16 de julio, de Industria, sin perjuicio de lo que en dicha materia pueda determinar la normativa autonómica de la Región de Murcia.
+2. Las reglamentaciones técnicas a que alude el párrafo anterior tendrán por objeto:
+a) Proteger las personas y la integridad y funcionalidad de los bienes que puedan resultar afectados por las instalaciones.
+b) Mantener, durante la vida útil de las instalaciones, un funcionamiento óptimo de las mismas, acorde con la finalidad para la que se implantaron.
+c) Obtener la mayor racionalidad y aprovechamientos técnico y económico y de las instalaciones.
+d) Establecer reglas de normalización para facilitar la inspección de las instalaciones.
+e) Incrementar la fiabilidad de las instalaciones.
+f) Conseguir los niveles adecuados de eficiencia y mejora de protección del medio ambiente.
+3. Los equipos que formen parte de una instalación cuyo objeto sea el ahorro y la eficiencia energética de procesos, cumplirán con los requisitos esenciales de seguridad que le sean de aplicación según lo establecido en la reglamentación vigente en materia de seguridad de productos industriales.
+
+### Artículo 20
+
+Artículo 20. Certificación de equipos y productos.
+1. La Comunidad Autónoma de la Región de Murcia con el objeto de garantizar la calidad de los equipos e instalaciones de energías renovables y de ahorro y eficiencia energética, así como para promover y potenciar la competitividad de la industria regional, fomentará en materia de calidad industrial:
+a) La participación en organismos de normalización.
+b) La coordinación y participación, en los foros de normalización, de todos los agentes intervinientes en el sector económico y tecnológico de las energías renovables, así como en la difusión y en la certificación de conformidad a normas.
+c) La existencia de entidades de acreditación, certificación, inspección y ensayo con demostrada capacidad técnica.
+d) La promoción de la implantación y mejora de los sistemas de gestión de la calidad en las empresas del sector.
+e) La adquisición por parte de las administraciones públicas de productos normalizados y certificados.
+2. Todas las instalaciones y componentes que las integran deberán cumplir requisitos mínimos de rendimiento y eficiencia energética para acceder a las ayudas que al efecto se convoquen.
+3. Con la finalidad de certificar productos, servicios, instalaciones y sistemas de gestión, en el sector de las energías renovables y el ahorro y la eficiencia energética se impulsará la creación de una Entidad de Certificación Energética en la Región de Murcia.
+
+### Artículo 20 bis
+
+Artículo 20 bis. Instalaciones para aprovechamiento y consumo directo de fuentes de energía renovables. Instalaciones de intercambio de energía.
+(Anulado).
+Se declara su inconstitucionalidad y nulidad, en la redacción dada por el art. único.12 de la Ley 11/2015, de 30 de marzo, por Sentencia del TC 205/2016, de 1 de diciembre. Ref. BOE-A-2017-264
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 10 de mayo de 2016. Ref. BOE-A-2016-4773
+ Se suspende la vigencia y aplicación de este artículo desde el 5 de enero de 2016, para las partes del proceso, y desde el 23 de enero de 2015 para los terceros por providencia de 19 de 2016 que admite a trámite el recurso de inconstitucionalidad núm. 36-2016. Ref. BOE-A-2016-634
+ Se añade por el art. único. 12 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+## CAPÍTULO II
+
+Empresas instaladoras, auditores energéticos y empresas de servicios energéticos
+Se modifica por el art. único. 13 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+### Artículo 21
+
+Artículo 21. Empresas instaladoras y mantenedoras.
+1. Las empresas instaladoras o mantenedoras que ejecuten, reparen o mantengan las instalaciones de aprovechamiento de energías renovables o de ahorro y eficiencia energética, deberán cumplir los requisitos establecidos en la reglamentación que les sea de aplicación, en función de la tipología de la instalación, así como estar inscritas en la correspondiente sección del Registro Integrado Industrial, según determina asimismo la Ley 21/1992, de 16 de julio, de Industria.
+2. Las empresas instaladoras o mantenedoras expresadas en el apartado anterior deberán contar con los medios técnicos y humanos mínimos necesarios para realizar sus actividades, según disponga la reglamentación de aplicación.
+Se modifica por el art. único. 14 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+### Artículo 22
+
+Artículo 22. Auditores energéticos y empresas de servicios energéticos.
+Para el ejercicio de las actividades profesionales de auditor energético y proveedor de servicios energéticos se deberán cumplir los requisitos establecidos en la normativa estatal básica y aquella que se dicte en desarrollo de la misma.
+Se modifica por el art. 7.1 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468
+ Se modifica por el art. 7.1 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+ Se modifica por el art. único. 15 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+## TÍTULO IV
+
+Tecnología, investigación e innovación
+
+### Artículo 23
+
+Artículo 23. Fomento de las acciones de I+D+i en el ámbito de las energías renovables.
+1. La Administración Regional impulsará iniciativas encaminadas a conocer, identificar y estudiar, en el ámbito de las energías renovables en la Región de Murcia, los siguientes aspectos:
+a) Potenciales proyectos de inversión y áreas tecnológicas deficitarias.
+b) Barreras que obstaculizan la viabilidad de los proyectos de inversión de desarrollo de las áreas tecnológicas.
+c) Medidas necesarias para impulsar los proyectos, así como agentes del mercado involucrados.
+2. Para fomentar la actividad de I+D+i de las empresas de la Región de Murcia en el ámbito de las energías renovables se establecen los siguientes cauces:
+a) Apoyo económico y financiero para el desarrollo de la actividad de investigación e innovación tecnológica en el seno de las empresas.
+b) Apoyo técnico mediante acuerdos de colaboración con los centros tecnológicos de la Región.
+c) Cooperación con las universidades de la Región en materia de investigación y desarrollo.
+d) Creación de canales de información y transferencia entre las empresas y agentes intervinientes.
+e) Fomento del desarrollo de nuevos productos.
+3. En atención a la especial relevancia de la energía solar en la Región de Murcia, se intensificarán las acciones anteriores, cuando éstas tengan por objeto el aprovechamiento de este recurso.
+
+### Artículo 24
+
+Artículo 24. Fomento de las acciones de I+D+i en el ámbito del ahorro y la eficiencia energética.
+Con el fin de contribuir a la reducción de los niveles de consumo de energía sin afectar a la capacidad productiva de las empresas y sin menoscabo del confort y de la calidad de vida de los ciudadanos, la Administración regional articulará las medidas necesarias para incrementar el nivel tecnológico de las instalaciones y la mejora de su eficiencia, entre las que se encuentran:
+a) Impulso de proyectos de inversión en instalaciones, equipos y productos.
+b) Apoyo económico y financiero para el desarrollo de la actividad de investigación tecnológica en el seno de las empresas.
+c) Incentivos a la optimización de procesos productivos.
+d) Desarrollos de instrumentos de colaboración con entidades de investigación en el ámbito universitario y empresarial.
+e) Fomento de sistemas de información y comunicación intersectorial.
+f) Favorecimiento de la innovación en la gestión y en los equipos consumidores de energía.
+
+### Artículo 25
+
+Artículo 25. Apoyo a la transferencia del conocimiento.
+1. Al objeto de promover la transferencia del conocimiento en el ámbito de las energías renovables y el ahorro y la eficiencia energética, se creará una Oficina de Transferencia Tecnológica en materia de energías renovables y ahorro y eficiencia energética, que desarrollará las siguientes acciones:
+a) Creación del Foro Tecnológico de las Energías Renovables y la Eficiencia Energética, que se constituirá como punto de encuentro entre los distintos agentes que intervienen en el sector.
+b) Creación de la Red de Gestión de Conocimiento de las Energías Renovables y la Eficiencia Energética, a la que todos los agentes interesados puedan acceder.
+c) Organización de encuentros nacionales e internacionales e intercambios de experiencias entre empresarios del sector.
+d) Organización de eventos de intercambio de información y conocimiento: ferias, congresos, coloquios, etcétera, sobre tecnología de energías renovables y ahorro y eficiencia energética.
+e) Fomento del uso de los centros tecnológicos por parte de los empresarios de la Región de Murcia.
+f) Fomento de la cooperación entre los empresarios a través de asociaciones para colaborar en materia de I+D+i.
+
+### Artículo 26
+
+Artículo 26. Infraestructuras tecnológicas.
+1. Con la finalidad de llevar a cabo actividades de I+D+i en el campo de las energías renovables y el ahorro y la eficiencia energética, se creará un Centro de Innovación en Energías Renovables y Eficiencia Energética, que actuará en colaboración con todos los agentes intervinientes en el sector.
+2. El Centro de Innovación en Energías Renovables y la Eficiencia Energética llevará a cabo las siguientes actividades:
+a) Ensayo de funcionamiento y prestaciones de equipos (prototipos y productos comercializados).
+b) Ensayos de determinación de rendimiento y eficiencia.
+c) Investigación de nuevas tecnologías de aprovechamiento energético.
+d) Investigación sobre nuevas formas de energía.
+
+## TÍTULO V
+
+Coordinación, cooperación administrativa y colaboración social
+
+### Artículo 27
+
+Artículo 27. Coordinación.
+1. La gestión del sistema energético regional exigirá la coordinación de los distintos medios y actuaciones previstos en la presente Ley.
+En este sentido, cualquier actuación y desarrollo reglamentario posterior en el ámbito de las energías renovables y del ahorro y la eficiencia energética realizada por la Administración regional tendrá en cuenta tanto lo establecido en la presente Ley así como su incardinación con cualquier otro plan o programa aprobado por otros organismos, de tal forma que, desde lo particular a lo general, se contribuya a la consecución de los objetivos marcados por la Unión Europea y por el Gobierno nacional a través de una gestión eficiente de la energía y la incorporación de fuentes energéticas respetuosas con el medio ambiente.
+2. Corresponde a la Administración energética competente el establecimiento de los criterios de coordinación en esta materia con las distintas administraciones públicas.
+
+### Artículo 28
+
+Artículo 28. Cooperación administrativa.
+1. La Consejería competente en materia de energía establecerá mecanismos permanentes de cooperación y colaboración con otros centros directivos de la Comunidad Autónoma, a los efectos del cumplimiento de la presente Ley.
+2. Igualmente, la Comunidad Autónoma establecerá mecanismos de cooperación con los organismos de la Administración General del Estado cuyas competencias incidan en la gestión energética de la Región de Murcia.
+3. Asimismo, se articularán las medidas de coordinación necesarias con otras administraciones públicas para la organización del servicio de ventanilla única de atención al ciudadano, en materia de energías renovables, ahorro y eficiencia energética.
+4. Con la finalidad de fomentar la necesaria cooperación interadministrativa, la Administración regional establecerá entidades o empresas públicas u otras fórmulas de colaboración con los ayuntamientos de la Región de Murcia para el desarrollo compartido de las competencias de gestión energética y de los respectivos planes.
+
+### Artículo 29
+
+Artículo 29. Colaboración social.
+La Consejería competente en materia de energía promoverá e impulsará la colaboración social en el uso responsable de la energía para la consecución de los objetivos de esta Ley. A tal fin, promoverá los planes y programas necesarios y celebrará los convenios administrativos de colaboración precisos con agentes del sector energético.
+
+## TÍTULO VI
+
+Infracciones y sanciones
+
+### Artículo 30
+
+Artículo 30. Control administrativo.
+1. Corresponde a la consejería competente en materia de energía la vigilancia e imposición de sanciones por incumplimiento de las condiciones establecidas en la autorización de aprovechamiento, así como la instrucción y resolución de los expedientes sancionadores que se incoen en materia de auditorías energéticas, acreditación de proveedores de servicios y auditores energéticos, promoción de la eficiencia del suministro de energía y contabilización de consumos energéticos.
+2. La Consejería competente en materia de energía podrá comprobar en cualquier momento, por sí misma o a través de entidades colaboradoras autorizadas, el cumplimiento de la normativa en materia de energías renovables, ahorro y eficiencia energética.
+3. El personal funcionario de la Consejería competente en materia de energía designado para la realización de las inspecciones y comprobaciones correspondientes a lo dispuesto en esta Ley y en el resto de la normativa aplicable en la materia, tendrá la consideración de agente de la autoridad en el ejercicio de sus funciones y actuará provisto de la documentación que acredite su condición. Se le prestará toda la colaboración necesaria a fin de facilitarle la realización de las correspondientes inspecciones y comprobaciones.
+Se modifica el apartado 1 por el art. único. 16 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+### Artículo 31
+
+Artículo 31. Infracciones.
+1. Constituyen infracciones administrativas las acciones u omisiones imputables a personas físicas o jurídicas, tipificadas en los apartados siguientes, sin perjuicio de las responsabilidades civiles, penales o de otro orden en que puedan incurrir.
+En cualquier caso, para la consideración de las infracciones en materia de auditorías energéticas, acreditación de proveedores de servicios y auditores energéticos, promoción de la eficiencia del suministro de energía y contabilización de consumos energéticos, se estará a lo dispuesto en el Real Decreto-ley 8/2014, de 4 de julio, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia.
+2. Las infracciones se clasifican, en función del daño causado a los intereses generales, en muy graves, graves o leves.
+3. Se consideran infracciones muy graves las siguientes:
+a) El incumplimiento de las determinaciones establecidas con carácter obligatorio en las directrices, planes o programas aprobados en desarrollo de la presente Ley, cuando de ello se derivaran daños o perjuicios graves para terceros o para el interés público.
+b) La denegación injustificada del acceso o conexión a las redes de transporte y distribución eléctrica de las instalaciones de energías renovables que cumplan los requisitos reglamentarios.
+c) La puesta en funcionamiento por parte de los titulares de instalaciones de recursos de energías renovables sin disponer de la correspondiente autorización de aprovechamiento.
+d) La ocultación o alteración dolosa de los datos necesarios para la elaboración de los estudios de sostenibilidad energético-ambiental para grandes consumidores de energía convencional.
+4. Se consideran infracciones graves las siguientes:
+a) El incumplimiento de las determinaciones establecidas con carácter obligatorio en las directrices, planes o programas aprobados en desarrollo de la presente Ley, cuando de ello no se hubieran derivado daños o perjuicios graves para terceros o para el interés público.
+b) La obstaculización o demora en el acceso o conexión a las redes de transporte y distribución eléctrica de las instalaciones de energías renovables que cumplan los requisitos reglamentarios.
+c) La realización de actuaciones por entidades colaboradoras de la Administración en materia de aprovechamiento de energías renovables, ahorro y eficiencia energética, así como de las empresas instaladoras o mantenedoras que ejecuten, reparen o mantengan las instalaciones correspondientes, incumpliendo lo dispuesto para dichas empresas y entidades en la presente Ley.
+d) La resistencia de los titulares de las instalaciones de aprovechamiento de energías renovables o de ahorro y eficiencia energética a permitir el acceso del personal inspector o a facilitar la información requerida por la Consejería competente en materia de energía, dificultando la realización de las correspondientes inspecciones y comprobaciones.
+e) La expedición de certificados e informes cuyo contenido no se ajuste a la realidad de los hechos.
+f) Las inspecciones, ensayos o pruebas efectuadas por las entidades colaboradoras de la Administración de forma incompleta o con resultados inexactos por la insuficiente constatación de los hechos o por deficiente aplicación de las normas técnicas.
+g) La inadecuada instalación, conservación y mantenimiento de las instalaciones de aprovechamiento de energías renovables o de ahorro y eficiencia energética, si de ello puede resultar una disminución de su eficiencia energética.
+h) La falta de colaboración con las administraciones públicas en el uso responsable de la energía, para la consecución de los objetivos de esta Ley.
+5. Se considerarán infracciones leves las acciones y omisiones que, incumpliendo lo previsto en esta Ley, no puedan ser calificadas de muy graves o graves.
+Se modifica el apartado 1 por el art. único. 17 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+### Artículo 32
+
+Artículo 32. Sanciones.
+1. Las infracciones tipificadas en el artículo anterior se sancionarán, en función de la infracción de que se trate, con las siguientes multas:
+a) Las infracciones muy graves con multa de hasta 300.000 euros.
+b) Las infracciones graves con multa de hasta 60.000 euros.
+c) Las infracciones leves con apercibimiento o con multa de hasta 30.000 euros. El apercibimiento sólo se podrá aplicar si la persona física o jurídica al que se le incoa el expediente sancionador no es reincidente.
+2. Para la graduación de la sanción habrá de tenerse en cuenta la existencia de intencionalidad o reiteración, la naturaleza de los perjuicios causados, el daño causado a la comunidad y la reincidencia, entendiendo por tal la comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
+3. En ningún caso la comisión de la infracción tipificada resultará más beneficiosa para el infractor que el cumplimiento de la norma infringida.
+4. La comisión de infracciones graves y muy graves, además de las multas, podrá dar lugar a la imposición de las sanciones accesorias de inhabilitación para ser beneficiario de subvenciones e incentivos fiscales, así como para contratar con la Administración pública regional.
+5. Los ingresos derivados de las sanciones por incumplimientos a la presente Ley serán destinados a investigación en materia de implantación de energías renovables y de ahorro y eficiencia energética.
+Se modifica el apartado 1.c) por el art. 7.1 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468
+ Se modifica el apartado 1.c) por el art. 7.2 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+
+### Artículo 33
+
+Artículo 33. Competencia.
+1. Compete al Consejo de Gobierno la imposición de sanciones por infracciones muy graves.
+2. Corresponde al consejero competente en materia de energía la imposición de sanciones por infracciones graves.
+3. Corresponde al Director General con competencias en materia de energía la imposición de sanciones por infracciones leves.
+
+### Artículo 34
+
+Artículo 34. Procedimiento.
+Los expedientes sancionadores se tramitarán conforme a lo prevenido en el título IX de la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como por el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del procedimiento para el ejercicio de la potestad sancionadora.
+
+### Artículo 35
+
+Artículo 35. Prescripción y caducidad en el procedimiento administrativo sancionador.
+1. Las infracciones muy graves prescriben a los tres años, a los dos años las graves y al año las leves.
+Las sanciones muy graves prescriben a los tres años, a los dos años las graves y a los seis meses las leves.
+2. El plazo de prescripción de la infracción comenzará a contarse desde la fecha en que se cometió la infracción.
+El plazo de prescripción de la sanción comenzará a computarse a partir del momento en que ésta agote la vía administrativa.
+3. Los procedimientos sancionadores incoados por incumplimientos de las prescripciones de esta Ley o por incumplimiento de las condiciones impuestas por la autorización de aprovechamiento caducarán al año desde su iniciación, sin perjuicio de su reiniciación en tanto no prescriba la infracción.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Elaboración de directrices y planes.
+En el plazo de seis meses desde la entrada en vigor de la presente Ley se iniciará la elaboración de las Directrices y Planes Sectoriales de Impulso de las Energías Renovables.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Plan Energético Regional.
+En el plazo de doce meses a contar desde la entrada en vigor de la presente Ley, el Gobierno Regional deberá presentar ante la Asamblea Regional un nuevo Plan Energético Regional acorde a las exigencias de la presente ley.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Fomento de las energías renovables, ahorro y eficiencia energética en las administraciones públicas y sus organismos dependientes.
+Las administraciones públicas de la Región de Murcia deberán incorporar las instalaciones de aprovechamiento de energías renovables e implantar las últimas tecnologías en materia del uso racional de la energía en sus propios edificios e instalaciones.
+Por la Consejería competente en materia de energía se determinarán los supuestos exentos de esta obligación cuando concurran circunstancias que imposibiliten su cumplimiento.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Adaptación de los edificios e instalaciones de uso público de la Región de Murcia.
+(Suprimida).
+Se suprime por el art. único. 18 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Comienzo de exigencia de la autorización de aprovechamiento.
+(Suprimida).
+Se suprime por el art. único. 18 de la Ley 11/2015, de 30 de marzo. Ref. BOE-A-2015-4788
+
+### Disposición final primera
+
+Disposición final primera. Habilitación normativa.
+Se faculta al Consejo de Gobierno de la Comunidad Autónoma de la Región de Murcia para dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor a los treinta días naturales de su publicación en el Boletín Oficial de la Región de Murcia.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Murcia, 21 de diciembre de 2006.–El Presidente, Ramón Luis Valcárcel Siso.

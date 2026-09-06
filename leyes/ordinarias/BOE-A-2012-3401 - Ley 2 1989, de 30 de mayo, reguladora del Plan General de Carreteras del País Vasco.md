@@ -1,0 +1,720 @@
+# Ley 2/1989, de 30 de mayo, reguladora del Plan General de Carreteras del País Vasco.
+
+- Identificador BOE: `BOE-A-2012-3401`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-3401
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el BOPV núm. 194, de 16 de octubre de 1989. Ref. BOE-A-2012-2679
+
+## Preámbulo
+
+Se hace saber a todos los ciudadanos de Euskadi que el Parlamento Vasco ha aprobado la siguiente Ley 2/1989, de 30 de mayo, reguladora del Plan General de Carreteras del País Vasco.
+PREÁMBULO
+Al amparo de lo dispuesto en la Constitución y en el artículo 10.34 de la Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco, se procedió al traspaso de servicios del Estado a la Comunidad Autónoma del País Vasco en materia de carreteras y caminos, mediante Real Decreto número 2.769/1980, de 30 de diciembre.
+Se iniciaba de este modo el tránsito hacia una etapa de actualización de los regímenes forales privativos sobre carreteras y caminos, cuyo único exponente preconstitucional en el seno autonómico era el alavés, conservado en los términos del Decreto núm. 3.140/75, de 7 de noviembre, de adaptación de la Ley de Carreteras de 19 de diciembre de 1974.
+La recuperación por Bizkaia y por Guipúzcoa de sus regímenes peculiares y la transferencia al Territorio alavés de algunos tramos de carreteras de titularidad foral, que venían siendo gestionados por el Estado, se ha culminado recientemente mediante los Decretos del Gobierno Vasco de traspaso de servicios sobre la materia a los órganos forales de los Territorios Históricos núms. 45/1985 y 55/1985, de 5 de marzo, 188/1986, de 9 de septiembre y 22/1987, de 24 de febrero.
+Establecida la distribución de facultades en el seno de la Comunidad, resulta oportuno contar con un marco normativo que defina y concrete el régimen jurídico del Plan General de Carreteras a que alude el artículo 7.a.8) de la Ley 27/1983, de 25 de diciembre, de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales de sus Territorios Históricos.
+El presente texto legal responde a un principio de máximo respeto a las competencias de otras administraciones; la consideración de la distribución de facultades refuerza la necesidad de configurar los sucesivos Planes Generales de carreteras del País Vasco como instrumentos esencialmente coordinadores y coordinables. Lo requiere así el carácter continuo y unitario de las redes viarias, la interrelación de las actuaciones en las mismas, la compatibilidad de la planificación viaria con otros ámbitos, entre los que se subrayan el del transporte, el de la regulación del tráfico, el de la ordenación territorial y medioambiental o el de la economía y, sobre todo, por coherencia con el espíritu de la Ley 27/1983, que demanda de las Administraciones forales la ejecución como mínimo de las previsiones, objetivos, prioridades y mejoras contenidos en el Plan General de Carreteras aprobado por las Instituciones Comunes, sin merma de la puesta en vigor por las Administraciones vascas de las normas técnicas y de señalización.
+Esta peculiaridad reclama una especial ponderación que permita garantizar la idoneidad de lo planificado y del ajuste de sus realizaciones, extremos que se pretenden alcanzar con la configuración del Plan General de Carreteras del País Vasco como un instrumento de coordinación, flexible en sus procedimientos de elaboración, de modificación y de revisión y en su contenido, así como con la articulación de unos criterios que faciliten el seguimiento eficaz de lo planificado.
+El medio adecuado para tal menester debe ser una norma con rango de ley, por su vocación de permanencia y por el significado del Plan General de Carreteras del País Vasco, novedoso desde una visión retrospectiva y peculiar en el actual estado de las autonomías.
+La Ley se articula en tres títulos, tres disposiciones adicionales, dos transitorias y tres finales.
+El título primero, de cuestiones generales, alude en tres capítulos separados al objeto de la Ley, a la distribución de competencias referentes al Plan de Carreteras, y a los criterios básicos de jerarquización y de nomenclatura de las carreteras de la Comunidad Autónoma del País Vasco.
+El título segundo se refiere al Plan General de Carreteras concepto, ámbito y vigencia; el contenido; los procedimientos del País Vasco, tratándose en cuatro capítulos distintos de su elaboración, de revisión y de modificación, y, su ejecución y seguimiento.
+El título tercero contempla la coordinación de las funciones requeridas para la ejecución del Plan; se estructura en dos capítulos, destinándose el primero de ellos a cuestiones generales y el segundo a la regulación de la Comisión del Plan General de Carreteras, instrumento básico de coordinación funcional de composición paritaria, que encuentra su antecedente en la Comisión para el seguimiento y aprobación previa del Plan General de Carreteras del País Vasco, creada por Orden de 19 de noviembre de 1984.
+Las disposiciones adicionales citan aspectos conexos con el Plan General de Carreteras del País Vasco; en las transitorias se mantiene provisionalmente en vigor el contenido de la Orden del Departamento de Política Territorial, Transportes y Turismo, de 19 de noviembre de 1984, por la que se crea la Comisión para el seguimiento y aprobación previa del Plan General de Carreteras del País Vasco, en todo aquello que no se oponga o resulte contradictorio con lo dispuesto en la presente Ley y, se regula el régimen provisional de interrelación del Plan con el planeamiento urbanístico municipal. Las disposiciones finales contemplan la competencia para el desarrollo del contenido de la Ley, la no aplicación de las disposiciones que se opongan a la misma y, la entrada en vigor de la Ley Reguladora del Plan General de Carreteras del País Vasco.
+Por último, en el anexo de la Ley se enumera el conjunto de carreteras integrantes de la Red Objeto del Plan, propuesta en el seno de la Comisión para el seguimiento y aprobación previa del Plan General de Carreteras del País Vasco.
+Es importante resaltar, para mejor comprensión de la Red Objeto del Plan, la enumeración en el mismo de las autopistas de peaje en régimen de concesión, y que son competencia transitoria del Estado, en tanto en cuanto perdure el régimen jurídico vigente y no operen las transferencias de conformidad con los mecanismos establecidos en el Estatuto de Autonomía; y todo ello con un doble motivo: en primer lugar, y teniendo en cuenta la extensión territorial de la CAPV, es evidente la influencia y la interdependencia de todas las carreteras ente sí, como vías de comunicación alternativas, jugando un papel fundamental las autopistas, por ello la planificación y la priorización de actuaciones debe hacerse desde y contando con la existencia de éstas, como corredores fundamentales; en segundo lugar, el régimen jurídico del Plan General de Carreteras, en esta Ley reguladora contempla para el mismo un horizonte temporal máximo de 18 años, horizonte posiblemente superior al plazo de vigencia de la concesión de las autopistas de peaje, por lo que, declinado éste y transferidas a la CA, obligaría a modificar la presente Ley, para poder simplemente incorporarlas al Plan, cuestión a todas luces paradójica, con el carácter fundamental de vías de comunicación y de presupuestos básicos de la planificación.
+Redactado conforme a la corrección de errores publicada en el BOPV núm. 194, de 16 de octubre de 1989. Ref. BOE-A-2012-2679
+
+## TÍTULO 1
+
+Cuestiones generales
+
+## CAPÍTULO 1
+
+Objeto de la Ley
+
+### Artículo 1
+
+Artículo 1.
+Es objeto de la presente Ley definir y regular el Plan General de Carreteras del País Vasco, así como coordinar el ejercicio de las atribuciones relacionadas con el mismo, dentro de las competencias de las Instituciones Comunes.
+
+## CAPÍTULO 2
+
+Competencias
+
+### Artículo 2
+
+Artículo 2.
+Los órganos competentes para la elaboración, aprobación, seguimiento, modificación y revisión del Plan General de Carreteras del País Vasco serán el Gobierno Vasco, el Departamento competente en materia de carreteras de la Administración autonómica y la Comisión del Plan General de Carreteras, con arreglo a lo dispuesto en la presente Ley.
+
+### Artículo 3
+
+Artículo 3. Corresponderá al Gobierno Vasco:
+a) Aprobar el Plan General de Carreteras del País Vasco.
+b) Aprobar la revisión y las modificaciones extraordinarias del Plan General de Carreteras.
+c) Aprobar la modificación del catálogo de la red objeto del Plan General de Carreteras, contenido como anexo de esta ley.
+Se modifica por el art. 1 de la Ley 5/2018, de 29 de noviembre. Ref. BOE-A-2019-3701
+
+### Artículo 4
+
+Artículo 4.
+Corresponderá al Departamento competente en materia de carreteras del Gobierno Vasco:
+a) Elaborar el Avance y el Proyecto del Plan General de Carreteras, en los términos previstos en la presente Ley.
+b) Aprobar las modificaciones ordinarias del Plan General de Carreteras.
+c) Informar las propuestas que los órganos forales de los Territorios Históricos expongan en los términos previstos en la presente Ley.
+d) Efectuar el seguimiento del Plan General de Carreteras y velar por la idoneidad de su ejecución, de conformidad con el ordenamiento jurídico.
+e) Cuantas otras facultades le sean atribuidas por el ordenamiento jurídico, en aquellas materias objeto de la presente Ley.
+
+## CAPÍTULO 3
+
+Jerarquización y nomenclatura de las carreteras
+
+### Artículo 5
+
+Artículo 5.
+1. A efectos de esta ley, las carreteras del País Vasco se jerarquizarán, en atención a su funcionalidad, en cinco redes: red de interés preferente, red básica, red complementaria, red comarcal y red local.
+a) La red de interés preferente comprenderá los itinerarios de carácter internacional, los de acceso a los pasos fronterizos, a los puertos y a los aeropuertos de interés general, los itinerarios que soporten tráficos interautonómicos importantes de largo recorrido, así como los que atiendan un volumen considerable de pesados o una carga apreciable de mercancías peligrosas tanto exteriores como interiores.
+b) Compondrán la red básica las carreteras que, sin pertenecer a la red de interés preferente, estructuren cada territorio histórico formando itinerarios completos y las que teniendo un tráfico importante conecten territorios históricos o con otras comunidades autónomas.
+c) La red complementaria conexionará los itinerarios de alta capacidad de las redes básicas y de interés preferente con las arterias urbanas, contribuirá a la creación de la metrópoli integrando suelos y aglomeraciones inconexas, y dará acceso a grandes generadores de movilidad.
+d) La red comarcal abarcará las carreteras que, sin un tráfico importante, comuniquen comarcas vecinas.
+e) La red local estará integrada por las carreteras que no pertenezcan a ninguna de las redes anteriores.
+2. Corresponderá a las Instituciones Comunes la jerarquización de la Red Objeto del Plan definida en el artículo 7.2 de esta Ley, atendiendo a los criterios recogidos en los párrafos anteriores.
+Se modifica el apartado 1 por el art. 2 de la Ley 5/2018, de 29 de noviembre. Ref. BOE-A-2019-3701
+
+### Artículo 6
+
+Artículo 6.
+1. La denominación de las carreteras del País Vasco se determinará, teniendo en cuenta la clasificación jerárquica de las mismas, de acuerdo con los siguientes principios generales:
+a) La denominación de las carreteras integradas en la red objeto del plan se ajustará a lo dispuesto en el anexo de esta ley.
+b) La nomenclatura de las interconexiones de alta capacidad de la red de interés preferente con carácter de autopista o autovía se encabezará con una ‘A’ (A-), acompañada de una ‘P’ (AP-) en caso de que esté afectada por peaje, con las excepciones contempladas en el siguiente apartado c), y seguida de uno, dos o tres dígitos.
+c) La nomenclatura de las carreteras en tramos urbanos o periurbanos se ajustará de acuerdo a su funcionalidad:
+c.1) en accesos o penetraciones la nomenclatura se encabezará con el código del territorio histórico o ciudad, seguido de un máximo de dos dígitos distintos de cero (0),
+c.2) en circunvalaciones, excluyendo las que forman parte de un itinerario, la nomenclatura se encabezará con el código del territorio histórico o ciudad, seguido de un máximo de dos dígitos, y el segundo de ellos será cero (0).
+d) La nomenclatura del resto de las carreteras de la red de interés preferente se encabezará con una “N”.
+e) La de las carreteras de las demás redes se iniciará con el indicativo de una o dos letras correspondientes al territorio histórico por el que transcurran, proseguido de tres dígitos para la red básica y complementaria y de cuatro para las redes comarcal y local; el primer dígito será un seis o un uno en la red básica, un siete en la red complementaria, un dos en la red comarcal, y un tres o un cuatro en la red local.
+2. No obstante lo anterior, la denominación de los itinerarios de recorrido supracomunitario se establecerá de modo coordinado con la Administración General del Estado y con los demás entes públicos afectados.
+La denominación de los itinerarios internacionales se ajustará, en su caso, a lo que resulte de los convenios o acuerdos internacionales que formen parte del ordenamiento interno.
+3. Las diputaciones forales determinarán de manera coordinada la nomenclatura de sus carreteras no incluidas en la red objeto del plan, de acuerdo con los principios generales establecidos en los apartados anteriores.
+La Comisión del Plan General de Carreteras podrá realizar recomendaciones no vinculantes al respecto.
+Se modifica por el art. 3 de la Ley 5/2018, de 29 de noviembre. Ref. BOE-A-2019-3701
+ Se levanta la suspensión de la vigencia y aplicación de los apartados 2, 3 y 4 por auto TC de 13 de febrero. Ref. BOE-A-1990-4644
+ Téngase en cuenta que se declara la desestimación del recurso de inconstitucionalidad nº 1814/1989 por Sentencia del TC 132/1998, de 18 de junio. Ref. BOE-T-1998-17037
+ Se suspende la vigencia y aplicación de los apartados 2, 3 y 4 desde el 8 de septiembre de 1989 para las partes en el proceso y desde el 27 de septiembre de 1989 para los terceros, por providencia del TC de 18 de septiembre de 1989 que admite a trámite el recurso de inconstitucionalidad nº 1814/1989. Ref. BOE-A-1989-22924
+ Redactado conforme a la corrección de errores publicada en el BOPV núm. 194, de 16 de octubre de 1989. Ref. BOPV-p-1989-90262
+
+## TÍTULO 2
+
+Del plan general de carreteras
+
+## CAPÍTULO 1
+
+Concepto, ámbito y vigencia
+
+### Artículo 7
+
+Artículo 7.
+1. El Plan General de Carreteras del País Vasco será el documento que, al objeto de asegurar la debida coordinación de las redes de carreteras de la Comunidad Autónoma, establezca las normas técnicas y de señalización que las Administraciones públicas vascas pondrán en vigor para sus redes, y determine las previsiones, objetivos, prioridades y mejoras a realizar como mínimo en la Red Objeto del Plan.
+2. La Red Objeto del Plan incluirá el conjunto de carreteras que enlacen los Territorios Históricos o con las carreteras de las Administraciones no comprendidas en la Comunidad Autónoma, atendiendo a la importancia de los tráficos.
+3. La relación de carreteras de la red objeto del plan será la contenida como anexo de esta ley, cuya modificación competerá al Gobierno Vasco mediante decreto, previa audiencia a las diputaciones forales e informe de la Comisión del Plan General de Carreteras del País Vasco.
+El informe deberá ser emitido en el plazo máximo de un mes desde el siguiente a su petición; transcurrido aquel, el informe se entenderá favorable.
+Se modifica el apartado 3 y se supriime el apartado 4 por los arts. 4 y 5 de la Ley 5/2018, de 29 de noviembre. Ref. BOE-A-2019-3701
+ Se modifica por el art. 1 de la Ley 2/1991, de 8 de noviembre. Ref. BOE-A-2012-2679
+
+### Artículo 8
+
+Artículo 8.
+1. El Plan General de Carreteras del País Vasco tendrá una duración máxima de 12 años, sin perjuicio de su revisión o modificación.
+El Gobierno Vasco, conforme al procedimiento señalado en el capítulo 3 del título I, podrá proceder a la revisión del Plan General de Carreteras, cuando sobrevinieren circunstancias que así lo aconsejen por la adopción de nuevos criterios de ordenación en las vías de comunicación, o bien, atendiendo a la evolución de los tráficos y de las actuaciones realizadas y, en todo caso, con antelación a la fecha de finalización de su periodo de vigencia.
+El documento resultante de la revisión constituirá el nuevo Plan General de Carreteras y supondrá la automática derogación del anterior.
+2. La vigencia de las normas técnicas y de señalización que el Plan General de Carreteras del País Vasco contenga, no quedará sometida a los plazos de duración y revisión establecidos en este apartado.
+3. El Plan General de Carreteras podrá ser objeto de modificaciones ordinarias y extraordinarias.
+Se conceptuarán modificaciones ordinarias las que afecten a las normas técnicas y de señalización, a la priorización de las actuaciones programadas y aquellas que el propio Plan prevea. Las demás se considerarán modificaciones extraordinarias.
+Se modifica el apartado 1 por el art. 6 de la Ley 5/2018, de 29 de noviembre. Ref. BOE-A-2019-3701
+
+## CAPÍTULO 2
+
+Contenido
+
+### Artículo 9
+
+Artículo 9.
+El Plan contendrá las previsiones, objetivos, prioridades y mejoras a realizar como mínimo en la Red Objeto del Plan y las normas técnicas y de señalización que se pondrán en vigor en las redes de carreteras de las administraciones vascas.
+
+### Artículo 10
+
+Artículo 10.
+1. Las previsiones, objetivos, prioridades y mejoras se articularán mediante programas.
+2. Cada programa consistirá en un conjunto ordenado de actuaciones homogéneas territorial y/o técnicamente.
+3. Las actuaciones de cada programa se presentarán conteniendo el presupuesto estimado, la prioridad, los objetivos y los plazos de ejecución de cada una de ellas.
+4. Las prioridades entre las actuaciones de un mismo programa atenderán tanto a criterios socio-económicos como a la coordinación de las actuaciones entre los diferentes itinerarios.
+5. El contenido de los programas se ajustará a los objetivos que, con carácter general, se incluyan en el Plan General de Carreteras del País Vasco y se acomodará a las necesidades de cada actuación.
+
+### Artículo 11
+
+Artículo 11.
+1. Las normas técnicas y de señalización contenidas en el Plan General de Carreteras del País Vasco comprenderán el conjunto de reglas de obligado cumplimiento que, al objeto de asegurar la debida coordinación, se pondrán en vigor en las carreteras de titularidad de las administraciones de la Comunidad Autónoma del País Vasco.
+2. Las normas técnicas y de señalización de las carreteras del País Vasco se podrán sistematizar en tres grupos: normas de proyecto, normas de construcción y normas de conservación.
+Las normas de proyecto regularán todos los elementos que deban ser contemplados en el diseño de una obra de carretera, desde la planificación a la recepción final de aquélla, incluyendo las modificaciones introducidas en los proyectos, así como la señalización.
+Las normas de construcción comprenderán el conjunto de instrucciones que regirán la ejecución de cualquier obra de carreteras del País Vasco.
+Las normas de conservación definirán las características, objetivos y criterios que han de cumplirse en la conservación y explotación de las carreteras de la Comunidad Autónoma Vasca.
+3. (Anulado).
+En todo caso se aplicarán, con el carácter que corresponda a tenor de lo dispuesto en el Estatuto de Autonomía y en el Real Decreto núm. 2769/80, de 30 de diciembre, de transferencias del Estado al País Vasco en materia de carreteras, las normas técnicas y de señalización dictadas por el Estado.
+4. Sin perjuicio de lo dispuesto en el apartado primero de este artículo, los órganos forales de los Territorios Históricos podrán desarrollar las normas técnicas y de señalización en aquellos aspectos que se consideren necesarios. El Departamento competente del Gobierno Vasco deberá informar por escrito sobre la conformidad de las propuestas con las contenidas en el Plan, antes de la aprobación de aquéllas.
+Se declara inconstitucional y nulo el apartado 3, párrafo primero, por Sentencia del TC 132/1998, de 18 de junio. Ref. BOE-T-1998-17037
+ Se levanta la suspensión de la vigencia y aplicación del apartado 3, párrafo primero, por auto TC de 13 de febrero. Ref. BOE-A-1990-4644
+ Se suspende la vigencia y aplicación del apartado 3, párrafo primero, desde el 8 de septiembre de 1989 para las partes en el proceso y desde el 27 de septiembre de 1989 para los terceros, por providencia del TC de 18 de septiembre de 1989 que admite a trámite el recurso de inconstitucionalidad nº 1814/1989. Ref. BOE-A-1989-22924
+
+## CAPÍTULO 3
+
+Procedimiento de elaboración, revisión y modificación
+
+### Artículo 12
+
+1. El Departamento del Gobierno Vasco competente en materia de carreteras redactará el Avance del Plan General de Carreteras, previo examen de las propuestas formuladas al efecto por la Comisión del Plan General de Carreteras y en coordinación con los demás órganos administrativos afectados, en especial los relacionados con la ordenación territorial y ambiental, el transporte, el tráfico y la economía.
+También será preceptiva la coordinación con las Diputaciones Forales, según lo dispuesto en el párrafo 3.º del artículo 7.a.8 de la Ley de Relaciones entre las Instituciones Comunes y los Órganos Forales de sus Territorios Históricos.
+2. Una vez redactado el Avance del Plan General de Carreteras será informado por la Comisión del Plan General de Carreteras en el plazo de un mes; transcurrido éste, el informe se entenderá favorable.
+3. Mediante Orden del Consejero del Departamento se someterá a información pública la documentación del Avance así redactado durante el periodo mínimo de dos meses a partir de la publicación de aquélla.
+La citada Orden determinará asimismo los lugares y la forma de consulta de la documentación.
+En el periodo mencionado, podrán presentarse por los interesados cuantas propuestas, alegaciones y sugerencias estimen pertinentes.
+4. En idéntico periodo se dará audiencia a los Municipios y a las demás Administraciones que pudieran resultar afectadas por el Plan, para que en el mismo plazo puedan presentar alegaciones.
+5. El Departamento redactor del Plan estudiará las propuestas, alegaciones y sugerencias incorporadas al expediente durante el periodo de información y efectuará las modificaciones que estime precisas en el plazo de un mes.
+6. Introducidas, en su caso, las modificaciones reseñadas, previo informe de la Comisión del Plan General de Carreteras, de la Comisión de Ordenación del Territorio y de la Autoridad del Transporte de Euskadi, se tramitará el avance hasta su aprobación.
+7. Corresponderá la aprobación del Plan General de Carreteras al Gobierno Vasco mediante Decreto, que se publicará en el Boletín Oficial del País Vasco.
+8. La elaboración, revisión y modificación del Plan General de Carreteras se someterá al procedimiento de evaluación ambiental que proceda, de acuerdo con lo dispuesto en la legislación vigente sobre la materia.
+Se modifica el apartado 6 y se añade el apartado 8 por los arts. 7 y 8 de la Ley 5/2018, de 29 de noviembre. Ref. BOE-A-2019-3701
+
+### Artículo 13
+
+Artículo 13.
+La revisión y las modificaciones extraordinarias del Plan General de Carreteras se realizarán a través del mismo procedimiento establecido para su aprobación.
+Se modifica por el art. 9 de la Ley 5/2018, de 29 de noviembre. Ref. BOE-A-2019-3701
+
+### Artículo 14
+
+Artículo 14.
+La aprobación de las modificaciones ordinarias corresponderá al Departamento del Gobierno Vasco competente por razón de la materia, mediante Orden de su Consejero, que se publicará en el Boletín Oficial del País Vasco.
+No obstante, la modificación de la priorización de las actuaciones programadas requerirá la previa coordinación con las Diputaciones Forales y el informe de la Comisión del Plan General de Carreteras.
+
+## CAPÍTULO 4
+
+Ejecución y seguimiento
+
+### Artículo 15
+
+Artículo 15.
+1. Los órganos forales de los Territorios Históricos realizarán como mínimo el conjunto de previsiones, de objetivos, de prioridades y de mejoras contenidos en los programas de actuaciones del Plan General de Carreteras del País Vasco, dentro de su ámbito territorial y conforme a sus competencias.
+2. Será obligatorio el cumplimiento dentro del plazo de vigencia del Plan de todas las actuaciones contenidas en cada uno de los programas en el orden previsto en los mismos. No obstante, carecen de naturaleza obligatoria los plazos y previsiones de costo de cada actuación contenida en los programas.
+3. Los órganos forales de los Territorios Históricos articularán las medidas presupuestarias y económicas que garanticen el efectivo cumplimiento del contenido obligatorio de los programas de actuaciones del Plan General de Carreteras, teniendo en cuenta lo dispuesto en la disposición adicional primera de la presente Ley y en el artículo 10.25 del Estatuto de Autonomía.
+Se modifica el apartado 3 por el art. 2 de la Ley 2/1991, de 8 de noviembre. Ref. BOE-A-2012-2679
+
+### Artículo 16
+
+Artículo 16.
+Las Administraciones de la Comunidad Autónoma del País Vasco pondrán en vigor las normas técnicas y de señalización del Plan General de Carreteras. Cada norma definirá el alcance de sus obligaciones.
+
+### Artículo 17
+
+Artículo 17.
+1. El Departamento competente del Gobierno Vasco y la Comisión del Plan General de Carreteras del País Vasco realizarán, en los términos previstos en los artículos siguientes, las actuaciones necesarias para el seguimiento de la ejecución del Plan, sin perjuicio de las competencias de los órganos forales de los Territorios Históricos.
+2. Corresponderá a los órganos forales, competentes para la ejecución de lo determinado en el Plan General de Carreteras, la remisión de la información y la colaboración en los demás modos que sean precisos para el seguimiento del Plan.
+
+### Artículo 18
+
+Artículo 18.
+1. Los órganos forales remitirán a la Comisión del Plan General de Carreteras, al menos en el mes de septiembre de cada año, información sobre:
+a) El conjunto de actuaciones viarias previstas, en proyecto o en ejecución dentro de cada Territorio; respecto de las obras programadas para la Red Objeto del Plan se indicará, como mínimo, los presupuestos, los plazos de ejecución y sus modificaciones.
+b) El grado de cumplimiento de las previsiones contenidas en los programas del Plan General de Carreteras.
+c) Las previsiones de redacción de proyectos y de ejecución de actuaciones en los plazos que señalen los órganos de seguimiento del Plan General de Carreteras.
+d) Las sugerencias que se consideren pertinentes respecto de las normas técnicas y de señalización en vigor.
+e) Cuantas otras cuestiones puedan servir, a juicio de los órganos forales y de los órganos de seguimiento del Plan, para el efectivo cumplimiento y seguimiento del mismo.
+2. La citada información será analizada por la Comisión del Plan General de Carreteras del País Vasco, que elaborará un calendario indicativo de actuaciones, para el cumplimiento coordinado de lo previsto en el artículo 15 de esta Ley, sin perjuicio de su posterior aprobación por los órganos forales competentes de los Territorios Históricos.
+3. Los órganos forales de los Territorios Históricos deberán remitir también a la Comisión del Plan General de Carreteras del País Vasco, informes y documentación justificativa de que cada proyecto de actuación viaria en la Red Objeto del Plan se ajusta a las normas técnicas y de señalización y al contenido vinculante de los programas del Plan General de Carreteras del País Vasco.
+La Comisión estudiará dicha información y podrá emitir informe sobre la adecuación de las actuaciones a los programas y a las normas técnicas y de señalización del Plan.
+
+### Artículo 19
+
+Artículo 19.
+Cuando los órganos forales de los Territorios Históricos pretendan la realización de actuaciones en la Red Objeto del Plan no conformes con el contenido preceptivo del Plan, con carácter previo a su ejecución, propondrán su inclusión en el Plan a través de los procedimientos previstos en la presente Ley. Corresponde a la Comisión del Plan General de Carreteras la formulación de las propuestas que se estimen necesarias.
+
+## TÍTULO 3
+
+Coordinación
+
+## CAPÍTULO 1
+
+Cuestiones generales
+
+### Artículo 20
+
+Artículo 20.
+1. Cuando en el Plan General de Carreteras del País Vasco se contemplen actuaciones que pudieren afectar a las planificadas por la Administración del Estado o por otras Comunidades, se procederá a la coordinación de dichas actuaciones bajo criterios de reciprocidady en el ámbito de las facultades y atribuciones respectivas.
+El Gobierno Vasco propondrá a la Administración del Estado las actuaciones que, en virtud del Plan General de Carreteras, estime de oportuna realización por dicha Administración en aquellas vías sometidas actualmente a su gestión, sin perjuicio de lo dispuesto en el artículo 21 de esta Ley.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado 1, por Sentencia del TC 132/1998, de 18 de junio. Ref. BOE-T-1998-17037
+2. El Gobierno Vasco y las Diputaciones Forales se consultarán previamente y se prestarán información mutua sobre los términos en que se opere la coordinación de las actuaciones en materia de carreteras con otras Administraciones que no formen parte de la Comunidad Autónoma del País Vasco.
+3. Los órganos forales deberán coordinarse entre sí para la ejecución de las actuaciones programadas en el Plan General de Carreteras del País Vasco que afecten a más de un Territorio Histórico. La Comisión del Plan General de Carreteras podrá articular propuestas al respecto, velando especialmente por la coordinación de los proyectos y de los plazos de ejecución de las actuaciones.
+Se declara inconstitucional y nulo el inciso destacado del apartado 1, por Sentencia del TC 132/1998, de 18 de junio. Ref. BOE-T-1998-17037
+ Se levanta la suspensión de la vigencia y aplicación del apartado 1, párrafo primero, en cuanto al inciso «bajo criterios de reciprocidad» en la medida en que se refiere a actuaciones planificadas por la Administración del Estado, por auto TC de 13 de febrero. Ref. BOE-A-1990-4644
+ Se suspende la vigencia y aplicación del apartado 1, párrafo primero, en cuanto al inciso «bajo criterios de reciprocidad» en la medida en que se refiere a actuaciones planificadas por la Administración del Estado, desde el 8 de septiembre de 1989 para las partes en el proceso y desde el 27 de septiembre de 1989 para los terceros, por providencia del TC de 18 de septiembre de 1989 que admite a trámite el recurso de inconstitucionalidad nº 1814/1989. Ref. BOE-A-1989-22924
+
+### Artículo 21
+
+Artículo 21.
+La cooperación económica, técnica y administrativa de la Administración autonómica del País Vasco con las administraciones estatal, autonómicas, forales y municipales en materia viaria se desarrollará con carácter voluntario, en los términos previstos en las leyes.
+
+## CAPÍTULO 2
+
+La comisión del plan general de carreteras del País Vasco
+
+### Artículo 22
+
+Artículo 22.
+1. Se constituye la Comisión del Plan General de Carreteras, que estará integrada por:
+a) Tres representantes del Gobierno Vasco, nombrados por el Consejo de Gobierno, a propuesta del Consejero del Departamento competente en materia de carreteras, uno de los cuales actuará como presidente.
+b) Un representante que vengan a designar cada una de las Diputaciones Forales de Álava, Guipúzcoa y Bizkaia, en base y de acuerdo con los principios establecidos en el artículo 2.º de la Ley 27/1983, de 25 de noviembre, de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos de sus Territorios Históricos.
+2. La Comisión, previo acuerdo adoptado en su seno, podrá llamar a sus sesiones a representantes de otras Administraciones interesadas, en atención a los asuntos a tratar. Se podrá convocar, en iguales condiciones, a los representantes de las Asociaciones Municipales más representativas de la Comunidad Autónoma del País Vasco.
+3. El Departamento competente en materia de carreteras del Gobierno Vasco asegurará a la Comisión del Plan General de Carreteras el apoyo técnico y administrativo necesario para el ejercicio de las funciones que tiene atribuidas, sin perjuicio de que pueda recabarse también de las demás Administraciones participantes.
+4. Serán funciones de la Comisión del Plan General de Carreteras del País Vasco:
+a) Proponer los criterios para la elaboración del Plan General de Carreteras, sin perjuicio de las facultades del Departamento competente del Gobierno Vasco.
+b) Proponer el contenido del Plan General de Carreteras.
+c) Informar del Avance del Plan General de Carreteras.
+d) Informar de la revisión y las modificaciones del Plan General de Carreteras del País Vasco, en el plazo de un mes.
+e) Proponer las medidas para coordinar la nomenclatura de los itinerarios comprendidos en las redes de carreteras del País Vasco, de acuerdo con los criterios fijados en el artículo 6 de esta Ley.
+f) Asesorar y emitir los informes que le sean solicitados, en asuntos de su competencia.
+g) Proponer a las Administraciones forales y autonómica las medidas precisas para el eficaz cumplimiento y seguimiento del Plan General de Carreteras del País Vasco.
+h) Las demás funciones que pudieran serle encomendadas por el ordenamiento jurídico.
+5. La Comisión del Plan General de Carreteras elaborará y aprobará un Reglamento de funcionamiento. En todo caso, para la validez de sus Acuerdos se necesitará de mayoría absoluta.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+De acuerdo con lo dispuesto en el artículo 28, apartados 1.º, letra b) y 8.º de la Ley 27/1983, de 25 de noviembre, el Consejo Vasco de Finanzas Públicas podrá estudiar propuestas para el desarrollo del Plan General de Carreteras y formular las mismas al Gobierno y a las Diputaciones Forales, en todo aquello que precise de una actuación coordinada.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. El Plan General de Carreteras del País Vasco se coordinará con el planeamiento territorial y urbanístico a que afecte en los términos que se establezcan en la Legislación Urbanística y de Ordenación del Territorio.
+2. El horizonte temporal del Plan General de Carreteras determinará únicamente una programación de las obras a realizar en la red objeto del Plan; en consecuencia, y por los mecanismos urbanísticos correspondientes, se podrán realizar todas las reservas de suelo que se consideren precisas a fin de facilitar el futuro desarrollo de las redes de carreteras del territorio comunitario.
+3. En todo caso, la aprobación del Plan General de Carreteras del País Vasco conllevará la adaptación de los instrumentos de planificación territorial y urbana de los municipios o áreas urbanísticas afectadas cuando sean incompatibles con la ejecución de los proyectos en desarrollo del Plan. La aprobación de los citados proyectos facultará, en todo caso, para la inmediata ejecución de las obras previstas en los mismos.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+La expropiación de bienes y derechos y la imposición, en su caso, de servidumbres necesarias para la ejecución de las actuaciones programadas en el Plan General de Carreteras del País Vasco se efectuará con arreglo a lo establecido en la legislación vigente.
+La aprobación de cada Plan General de Carreteras conllevará la declaración de urgente ocupación prevista en la legislación de expropiación forzosa en relación a los bienes y derechos a que dé lugar la realización de las actuaciones programadas en aquél.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En tanto no entre en vigor el Reglamento de la Comisión del Plan General de Carreteras, serán aplicables las disposiciones contenidas en la Orden del Departamento de Política Territorial, Transportes y Turismo de 19 de noviembre de 1984, en todo aquello que no se oponga o resulte contradictorio con lo dispuesto en la presente Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+A la entrada en vigor de la presente Ley la Comisión del Plan General de Carreteras podrá, mediante acuerdo adoptado al efecto, asumir los trabajos realizados para la elaboración del primer Plan General de Carreteras del País Vasco por la Comisión constituida por la Orden del Departamento de Política Territorial, Transportes y Turismo, de 19 de Noviembre de 1984, dando por cumplimentadas las funciones que se le atribuyen en las letras a) y b) del artículo 22.4 de la presente Ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+En tanto no se proceda al traspaso de funciones y de servicios, la mención a las autopistas A-1, A-8 y A-68 se entiende limitada a los efectos reseñados en el apartado primero del artículo 20 y en el artículo 21 de la Ley.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso inicial destacado, por Sentencia del TC 132/1998, de 18 de junio. Ref. BOE-T-1998-17037
+Se declara inconstitucional y nulo el inciso inicial destacado, por Sentencia del TC 132/1998, de 18 de junio. Ref. BOE-T-1998-17037
+ Se levanta la suspensión de la vigencia y aplicación en las referencias a las autopistas A-l, A-8 y A-68, por auto TC de 13 de febrero. Ref. BOE-A-1990-4644
+ Se suspende la vigencia y aplicación de esta disposición, en las referencias a las autopistas A-l, A-8 y A-68, desde el 8 de septiembre de 1989 para las partes en el proceso y desde el 27 de septiembre de 1989 para los terceros, por providencia del TC de 18 de septiembre de 1989 que admite a trámite el recurso de inconstitucionalidad nº 1814/1989. Ref. BOE-A-1989-22924
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno Vasco para dictar las disposiciones necesarias para el desarrollo y aplicación de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Dentro de las competencias de las Instituciones Comunes quedan sin efecto cuantas disposiciones se opongan al contenido de esta Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor el día de su publicación.
+
+### [firma]
+
+Por consiguiente, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades que la guarden y hagan guardarla.
+Vitoria-Gasteiz, 7 de junio de 1989.–El Lehendakari, José Antonio Ardanza Garro.
+
+## ANEXO
+
+Nomenclatura y catálogo de la red objeto del Plan General de Carreteras del País Vasco
+Código
+ Denominación
+ Comienzo
+ Final
+ L (km)
+ Observaciones
+ A. Corredor Norte-Sur y Conexión Navarra-Gipuzkoa
+ AP-1
+ Autopista Burgos-Cantábrico.
+ Intersección N-624.Glorieta de Foronda (Álava).
+ Eibar (Gipuzkoa).
+ 46,15
+ Solapa con AP-8 tramo Enlace Maltzaga con AP-8-L.P. con Francia (Behobia)
+ A-1
+ Autovía norte de Madrid-San Sebastián.
+ L.P. Burgos en Miranda de Ebro.
+ L.P. Burgos en Condado de Treviño sur.
+ 7,75
+ –
+ A-1
+ Autovía norte de Madrid-San Sebastián.
+ L.P. Burgos en Condado de Treviño norte.
+ L.P. C.F. Navarra en Egino.
+ 55,54
+ –
+ N-I
+ Autovía norte de Madrid-San Sebastián.
+ L.P. C.F. Navarra en Etzegarate.
+ Enlace con AP-1-AP-8 en Lasarte-Oria.
+ 49,02
+ –
+ GI-11
+ Conexión de la N-1 y la Gi-20 por Aritzeta.
+ N-1.
+ GI-20.
+ 2,52
+ –
+ GI-636
+ De Errenteria a Irun.
+ Enlace con GI-20 en Pasaia.
+ Frontera con Francia (Behobia).
+ 17,23
+ –
+ A-15
+ Autopista Navarra Gipuzkoa.
+ L.P. C.F.Navarra (Berastegi).
+ Enlace AP-8 y GI-41 en Astigarraga.
+ 27,19
+ Solapa con N-I entre enlaces de Andoain
+ GI-41
+ Acceso sur a Donostia-San Sebastián desde el Urumea.
+ Enlace AP-8 en Astigarraga.
+ Amara (Donostia-San Sebastián).
+ 2,99
+ –
+ GI-631
+ De Zumaia a Zumarraga.
+ Arroa(N-634).
+ Zumarraga (AP-636).
+ 35,32
+ –
+ N-121-A
+ De Pamplona a Irun.
+ L.P.C.F. Navarra (Endarlatsa).
+ Rtda. Behobia GI-636.
+ 6,56
+ –
+ VG-11
+ De A-1 a Vitoria-Gasteiz, dirección Francia.
+ A-1 en Ariñez.
+ Vitoria-Gasteiz en Glorieta bulevar de Mariturri.
+ 4,97
+ –
+ VG-21
+ De Vitoria-Gasteiz a A-1, dirección Francia.
+ Vitoria-Gasteiz en Elorriaga (P.K. 353,98).
+ A-1 (Venta del Patio).
+ 9,47
+ –
+ N-638
+ Acceso al aeropuerto de Hondarribia.
+ Enlace de Hondarribia en GI-636.
+ Rotonda inicio Variante de Hondarribia.
+ 2,35
+ –
+ B. Corredor de la Cornisa Cantábrica
+ AP-8
+ Autopista del Cantábrico.
+ Irun-Behobia.
+ El Gallo.
+ 105,90
+ AP-8
+ Autopista del Cantábrico.
+ Enlace de Larraskitu.
+ Enlace del Puerto (Bizkaia).
+ 15,48
+ Variante Sur Metropolitana (VSM). Tramo Enlace de Trapaga y Enlace del Puerto compartido con A-8
+ A-8
+ Autopista del Cantábrico.
+ El Gallo.
+ Enlace de Larraskitu.
+ 9,07
+ –
+ BI-10
+ Autopista de Circunvalación de Bilbao por el sur.
+ Enlace de Larraskitu.
+ Enlace de Trapaga.
+ 11,31
+ –
+ A-8
+ Autopista del Cantábrico.
+ Enlace de Trapaga.
+ L.P. Cantabria.
+ 9,63
+ Tramo Enlace de Trapaga y Enlace del Puerto compartido con AP-8.
+ GI-20
+ Variante de Donostia-San Sebastián.
+ Enlace con AP-8 en Errenteria.
+ Enlace con AP-8 en Aritzeta.
+ 15,57
+ –
+ GI-40
+ Ronda Intxaurrondo-Martutene-Hospitales.
+ Rotonda Garbera.
+ Conexión GI-20.
+ 3,82
+ –
+ N-634 (1)
+ De Donostia-San Sebastián a Santander y La Coruña.
+ Donostia-SS enlace GI-2132 Errekalde (San Sebastián).
+ Ibarsusi (Bilbao).
+ 108,69
+ –
+ N-634
+ De Donostia-San Sebastián a Santander y La Coruña.
+ Nocedal BI-628 (Ortuella).
+ L.P. Cantabria.
+ 9,67
+ –
+ BI-628
+ Eje del Ballonti.
+ Carmen.
+ Portugalete.
+ 4,67
+ –
+ BI-628
+ Eje del Ballonti.
+ Balparda.
+ Nocedal.
+ 1,62
+ –
+ BI-30
+ Circunvalación norte de Bilbao.
+ Enlace de Cruces.
+ Erletxes.
+ 20,15
+ –
+ N-633
+ Acceso al aeropuerto de Loiu por Aldekoe.
+ BI-30 (Enlace de Derio).
+ Aeropuerto.
+ 4,42
+ –
+ N-644
+ Autovía del puerto.
+ A-8.
+ Puerto de Bilbao.
+ 2,73
+ –
+ N-639
+ Acceso al puerto por Zierbena.
+ Puerto de Bilbao (Abra Exterior).
+ N-634.
+ 8,19
+ –
+ BI-637
+ De Kukularra a Sopelana.
+ Bi-30 (Enlace de Kukularra).
+ Sopelana.
+ 10,45
+ –
+ BI-633
+ De Durango a Ondarroa por Trabakua.
+ Matiena (N-634).
+ Ondarroa.
+ 27,67
+ –
+ BI-635
+ De Lemoa a Gernika.
+ Lemoa.
+ Gernika (Bi-2238).
+ 17,05
+ Tramo pk 21+000--23+960 cedido
+ BI-20 (1)
+ Circunvalación este de Bilbao.
+ BI-10 (Enlace de Larraskitu).
+ BI-30 (Enlace de Derio).
+ 8,26
+ Tramo en la zona de Bolueta, entre Miraflores Ibarsusi, cedido.
+ BI-631
+ De N-633 a Bermeo.
+ Conexión N-633 (Derio).
+ Bermeo (Bi-2235).
+ 25,93
+ –
+ BI-11
+ Acceso a Bilbao por el Norte (Asua-Enekuri).
+ Bilbao.
+ La Cadena.
+ 4,78
+ –
+ C. Corredor del Ebro
+ N-124
+ De Vitoria-Gasteiz a Logroño por Haro.
+ Intersección Puente Nuevo (A-I).
+ Briñas (L.P. Rioja).
+ 14,04
+ –
+ A-124
+ De Briñas a Logroño por Laguardia (tramo T.H. de Álava).
+ L.P. La Rioja (Briñas).
+ L.P. La Rioja.
+ 27,93
+ A excepción del tramo de La Rioja entre San Vicente de la Sonsierra y Samaniego
+ D. Conexión Bizkaia-Burgos
+ BI-636
+ Corredor del Kadagua.
+ BI-10 (Enlace de Kastresana).
+ L.P. Burgos.
+ 29,95
+ –
+ E. Conexión Bizkaia-Cantabria
+ BI-630
+ De Balmaseda a Carranza.
+ Balmaseda.
+ L.P. Cantabria.
+ 23,34
+ Se exceptúa el paso por el enclave de Trucíos (Cantabria)
+ F. Conexión Burgos-Santander
+ N-629
+ De Burgos a Santoña.
+ L.P. Cantabria.
+ L.P. Cantabria.
+ 3,87
+ Término municipal de Lanestosa. Gestión del Ministerio de Fomento
+ G. Conexión Álava-Navarra
+ A-132
+ De Vitoria-Gasteiz a Lumbier por Tafalla y Estella.
+ Glorieta conexión Salburua.
+ L.P. Navarra en Sta. Cruz de Campezo.
+ 38,49
+ –
+ H. Conexión Álava-Bizkaia
+ VG-31
+ Acceso Vitoria-Gasteiz a Bilbao por la autopista AP-68.
+ Puente s/ la Avd. Zadorra en Vitoria-Gasteiz.
+ Enlace de Yurre (A-1).
+ 0,90
+ –
+ N-622
+ De Vitoria-Gasteiz a Bilbao por la autopista AP-68.
+ Enlace de Yurre (A-1).
+ Altube (AP-68).
+ 18,45
+ –
+ VG-41
+ Acceso Vitoria- Gasteiz a Bilbao por Barazar.
+ Vitoria-Gasteiz en Gamarra Mayor.
+ Enlace de Luko (AP-1).
+ 5,54
+ –
+ N-240
+ De Tarragona a Bilbao por el puerto de Barazar.
+ Enlace de Luko (AP-1).
+ Galdakao (El Gallo N-634).
+ 45,89
+ –
+ BI-625
+ De Orduña a Bilbao.
+ Orduña.
+ L.P. Álava.
+ 2,96
+ –
+ BI-625
+ De Orduña a Bilbao.
+ L.P. Álava.
+ N-634.
+ 14,77
+ –
+ A-625
+ De Orduña a Bilbao.
+ L.P. Bizkaia en Orduña.
+ L.P. Bizkaia en Areta.
+ 19,79
+ –
+ A-623
+ De Vitoria-Gasteiz a Durango.
+ Legutio (N-240).
+ L.P. Bizkaia en Gomilaz.
+ 6,04
+ –
+ BI-623
+ De Vitoria-Gasteiz a Durango.
+ L.P. Álava en Gomilaz.
+ Durango (N-634).
+ 20,86
+ –
+ N-624
+ Acceso al aeropuerto de Foronda.
+ Intersección A-3606 (Glorieta de Foronda).
+ Aeropuerto de Foronda.
+ 1,88
+ –
+ I. Conexión Álava-Gipuzkoa
+ A-627
+ De Vitoria-Gasteiz a Eibar.
+ N-240.
+ L.P. Gipuzkoa.
+ 5,40
+ GI-627
+ De Vitoria-Gasteiz a Eibar.
+ L.P. Álava.
+ Eibar (Maltzaga).
+ 33,85
+ Solapa con la N-636 entre Bergara y Mondragón.
+ J. Conexión Álava-Cantabria
+ A-624
+ De Altube a Balmaseda (tramo del T.H. de Álava).
+ N-622.
+ L.P. Burgos en Antuñano.
+ 38,56
+ –
+ BI-624
+ De Altube a Balmaseda (tramo del T.H. de Bizkaia).
+ L.P. Burgos.
+ Balmaseda (BI-636).
+ 2,58
+ –
+ K. Conexión Gipuzkoa-Bizkaia
+ AP-636
+ De Beasain a Durango por Kanpanzar.
+ Beasain (N-I).
+ Bergara (GI-627).
+ 22,34
+ –
+ N-636
+ De Beasain a Durango por Kanpanzar.
+ Bergara (GI-627).
+ Durango (Gederiaga).
+ 25,10
+ Solapa con GI-627 de Bergara a Mondragón.
+ BI-638
+ De Deba a Ondarroa.
+ L.P. Gipuzkoa.
+ Ondarroa.
+ 0,90
+ –
+ GI-638
+ De Deba a Ondarroa.
+ Deba (N-634).
+ L.P. Bizkaia.
+ 7,90
+ –
+(1) El tramo Ibarsusi-Miraflores forma parte de la Circunvalación Este. El tramo Ibarsusi-Miraflores se incorporará al catálogo una vez ejecutada la actuación prevista en el III Plan General de Carreteras.
+Se modifica por el art. 10 de la Ley 5/2018, de 29 de noviembre, en la forma recogida en su anexo. Ref. BOE-A-2019-3701
+ Se declara inconstitucional y nula la inclusión de la autopista A-1, Burgos-Cantábrico (Maltzaga), en el tramo comprendido entre el límite de Álava y Armiñón y de la autopista A-68, con comienzo en el enlace A-8 (Solución Sur) y fin en el límite de La Rioja, por Sentencia del TC 168/2009, de 9 de julio. Ref. BOE-A-2009-13321
+ Se sustituye por el art. único de la Ley 5/2002, de 4 de octubre, en la forma recogida en su anexo I. Ref. BOE-A-2011-19054
+ Se sustituye por el art. 3 de la Ley 2/1991, de 8 de noviembre, en la forma recogida en su anexo. Ref. BOE-A-2012-2679
+ Se levanta la suspensión de la vigencia y aplicación en las referencias a las autopistas A-l, A-8 y A-68, asi como a la inclusión del «tramo Condado de Treviño», por auto TC de 13 de febrero. Ref. BOE-A-1990-4644
+ Téngase en cuenta que se declara inconstitucional y nulo en cuanto incluye el «tramo Condado de Treviño» en el Catálogo de la Red objeto del Plan, desestimándose el recurso de inconstitucionalidad nº 1814/1989, en todo lo demás, por STC 132/1998, de 18 de junio. Ref. BOE-T-1998-17037
+ Se suspende la vigencia y aplicación en las referencias a las autopistas A-l, A-8 y A-68, asi como a la inclusión del «tramo Condado de Treviño», desde el 8 de septiembre de 1989 para las partes en el proceso y desde el 27 de septiembre de 1989 para los terceros, por providencia del TC de 18 de septiembre de 1989 que admite a trámite el recurso de inconstitucionalidad nº 1814/1989. Ref. BOE-A-1989-22924

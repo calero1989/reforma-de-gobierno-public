@@ -1,0 +1,2302 @@
+# Ley 21/2003, de 7 de julio, de Seguridad Aérea.
+
+- Identificador BOE: `BOE-A-2003-13616`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-13616
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+El progreso de la aviación civil constituye sin duda un factor esencial en el desarrollo de las sociedades contemporáneas. Además de la importancia que la industria aeronáutica ha adquirido en las economías nacionales, el transporte aéreo ocupa un lugar central en la internacionalización de las relaciones económicas y sociales y en los intercambios económicos, científicos y culturales.
+En nuestro ordenamiento jurídico la regulación legal de las actividades aeronáuticas arranca de la Ley de Bases de 27 de diciembre de 1947, posteriormente desarrollada por la Ley 48/1960, de 21 de julio, sobre Navegación Aérea que desde entonces constituye la norma fundamental por la que se ha regido la aviación civil.
+Esta norma, completada con los desarrollos reglamentarios propios de cada momento, ha demostrado hasta ahora una notable vitalidad y una gran capacidad de adaptación para dar respuesta a los objetivos y necesidades de la aviación civil desde la fecha de su promulgación y ha permitido, entre otros extremos, el crecimiento del tráfico, la liberalización del transporte y la internacionalización del ámbito de actuación de los operadores aéreos.
+Los desafíos que la seguridad aérea plantea han conducido durante los últimos años, no obstante, a complementar nuestra legislación aeronáutica general con la aprobación de nuevas normas derivadas de las más recientes prescripciones y recomendaciones de la Organización de Aviación Civil Internacional y de las disposiciones de ejecución necesarias para la aplicación de las normas comunitarias y a adoptar como reglas de Derecho interno los códigos y decisiones más relevantes acordados por Eurocontrol y por las Autoridades Aeronáuticas Conjuntas, organismo asociado a la Conferencia Europea de Aviación Civil.
+La plena eficacia de tales normas requiere que la Autoridad aeronáutica nacional en el ámbito civil disponga de los instrumentos jurídicos y organizativos necesarios para asegurar su aplicación y la adecuación permanente de sus métodos de actuación a las disposiciones y recomendaciones internacionales, al servicio todo ello de la seguridad en el transporte y en la nave gación aérea y en los sistemas e instalaciones aeroportuarios.
+El reforzamiento de las potestades públicas de intervención sobre el tránsito y el transporte aéreos que esta ley lleva a cabo obedece igualmente a otro tipo de consideraciones. En primer lugar, la constatación de que el establecimiento de un mercado progresivamente abierto a la competencia entre diferentes compañías aéreas como el actual exige la adaptación de la Autoridad aeronáutica civil, que ha de asumir la función de órgano regulador y velar por la libre competencia entre ellas, el acceso de los operadores y de los usuarios a los servicios aeronáuticos y el orden y la seguridad generales del transporte aéreo.
+La creciente complejidad de las actividades relacionadas con la aviación civil que el desarrollo tecnológico conlleva, en segundo término, debe traducirse en la potenciación de las funciones de supervisión del órgano regulador sobre los procesos de fabricación, mantenimiento y explotación de las aeronaves y productos aeronáuticos y sobre la prestación de los servicios aeroportuarios y de navegación aérea, así como en el establecimiento de reglas que ordenen las actividades de las profesiones y organizaciones aeronáuticas y la adopción de medidas que garanticen la seguridad y el uso de los servicios de transporte aéreo por determinadas categorías de usuarios especialmente vulnerables como las personas con discapacidad o de edad avanzada.
+Esta Ley viene a dar respuesta a los problemas enunciados y coincide con la Resolución número 14.4, aprobada por el Pleno del Congreso de los Diputados con motivo del debate sobre el estado de la Nación celebrado los días 26 y 27 de junio de 2001, que instó al Gobierno a complementar la Ley 48/1960 con una norma legal que regule las potestades públicas de ordenación y supervisión de la aviación civil, determine sus fines y dote a la autoridad aeronáutica con los medios necesarios para asegurar la regularidad de los servicios aeronáuticos y el orden y la seguridad del transporte aéreo.
+II
+El título I de la Ley distribuye entre los órganos de la Administración General del Estado, de forma completa y sistemática, las competencias que en materia de aeropuertos de interés general, control del espacio aéreo, tránsito y transporte aéreo, servicio meteorológico y matriculación de aeronaves el artículo 149.1.20.ª de la Constitución encomienda con carácter exclusivo al Estado. Esta nueva asignación de funciones permite avanzar en la situación creada por la promulgación del Real Decreto Ley 12/1978, de 27 de abril, sobre fijación y delimitación de facultades entre los Ministerios de Defensa y de Transportes y Comunicaciones en materia de aviación, conforme al cual este último departamento asumió, sin una previa redefinición de sus funciones, el ejercicio de las competencias de la Subsecretaría de Aviación Civil, inicialmente dependiente del Ministerio del Aire, y, por delegación del Ministerio de Defensa, el control de la circulación aérea general.
+El Ministerio de Fomento queda configurado como la autoridad aeronáutica civil en el ámbito interno y sus funciones se orientan fundamentalmente a la ordenación, supervisión y control de los diferentes sectores de actividad que constituyen la aviación civil y al ejercicio de la potestad sancionadora en la materia. La atribución de responsabilidades sobre el control de la circulación aérea general en tiempo de paz que la Ley efectúa en favor del Ministerio de Fomento es directa y no por delegación, como estableció el hasta ahora vigente Real Decreto Ley 12/1978 sobre delimitación de facultades entre los Ministerios de Defensa y de Transportes en materia de aviación. Ello no obsta para que en situaciones de emergencia o concurriendo circunstancias extraordinarias el control de la circulación aérea general se integre en la defensa aérea del territorio nacional y, en consecuencia, haya de ser asumido por el Ministerio de Defensa.
+El dinamismo del sector aeronáutico y su constante evolución tecnológica exigen que la autoridad aeronáutica civil disponga de instrumentos reguladores que permitan dar respuesta ágil a los problemas que la seguridad aérea plantea. En esta dirección y, siguiendo una pauta generalizada en los demás países de nuestro entorno, se atribuye al Director General de Aviación Civil la potestad de dictar disposiciones reglamentarias de carácter secundario y de contenido técnico y especializado, denominadas «Circulares aeronáuticas», destinadas a completar, precisar y asegurar la más eficaz aplicación de las normas con la finalidad de preservar la seguridad de las operaciones de vuelo y el orden del tránsito y el transporte aéreos.
+Desde la perspectiva de su función ordenadora se regula igualmente la intervención de los Ministerios de Fomento y de Defensa en la planificación y establecimiento de los sistemas aeroportuarios, consistente en una autorización para los aeropuertos de competencia de la Administración General del Estado y un informe previo de carácter vinculante, en lo que se refiere a la preservación de las competencias estatales, cuando se trate de aeródromos, helipuertos, aeropuertos o planes de competencia de una comunidad autónoma.
+La organización administrativa se completa con la creación del Consejo Asesor de Aviación Civil como órgano superior de asesoramiento y consulta de la Administración General del Estado en materia de aviación civil, adscrito al Ministerio de Fomento.
+III
+El título II se consagra a la regulación de la investigación técnica de los accidentes e incidentes de aviación civil, hasta ahora establecida por el Real Decreto 389/1998, de 13 de marzo, sobre investigación de los accidentes e incidentes de aviación civil, que incorporó a nuestro ordenamiento la Directiva 94/56/CE, de 21 de noviembre, por la que se establecen los principios fundamentales que rigen la investigación de los accidentes e incidentes de aviación civil, de acuerdo con el anexo 13 del Convenio de Aviación Civil Internacional.
+La nueva regulación, que ahora se efectúa en sede legal, refuerza la independencia del órgano responsable de efectuar las investigaciones, la Comisión de Investigación de Accidentes e Incidentes de Aviación Civil, órgano colegiado técnicamente especializado y adscrito orgánicamente al Ministerio de Fomento. El reforzamiento de tal independencia se logra limitando severamente las facultades del Departamento de adscripción en el nombramiento y cese de los miembros de la Comisión y dotando a la función investigadora de un régimen jurídico específico, a fin de incrementar la eficacia de las investigaciones y preservar su auténtica finalidad que consiste en la determinación de las causas de los accidentes e incidentes de aviación civil y la mejora de la seguridad aérea, pero no el establecimiento de la culpa o responsabilidad de los mismos.
+De acuerdo con las normas y recomendaciones aprobadas por la Organización de Aviación Civil Internacional, se limita la cesión de datos procedentes de la investigación técnica a aquellos casos en que la información haya sido requerida por los juzgados y tribunales del orden penal, por las Comisiones Parlamentarias de Investigación o por otros organismos de investigación técnica de accidentes e incidentes o cuando la comunicación constituya una medida más adecuada para prevenir un accidente o incidente grave.
+IV
+Uno de los cometidos esenciales del órgano regulador consiste en verificar el cumplimiento de las normas reguladoras de la aviación civil y reaccionar frente a los eventuales incumplimientos, circunstancia que otorga particular relevancia a la inspección aeronáutica. Pues bien, el título III de la Ley se dedica íntegramente a regular el contenido y la forma de ejercicio de las funciones de control, inspección en sentido estricto y de verificación sobre las actividades aeronáuticas por el Ministerio de Fomento.
+El control de las actividades aeronáuticas tiene una doble dimensión: comprende por una parte, las tradicionales funciones de vigilancia y control del cumplimiento de las normas sobre aviación civil aplicables en los distintos ámbitos sujetos a las mismas y, por otra, abarca también actuaciones de supervisión técnica y realización de comprobaciones, pruebas y ensayos necesarios para la obtención y renovación de licencias, habilitaciones y autorizaciones inherentes al campo de la aviación civil y la certificación de las aeronaves y de los equipos y aparatos aeronáuticos. La inspección, de acuerdo con lo que esta ley establece, rebasa, por tanto, los tradicionales límites del control administrativo previo al ejercicio de las facultades sancionadoras e incluye igualmente funciones de colaboración técnica con los particulares, cuyo objeto consiste en visar el cumplimiento de los requisitos necesarios para la obtención y mantenimiento de los títulos que habilitan para la realización de actividades y operaciones aeronáuticas.
+En garantía del correcto ejercicio de la actividad inspectora, con el alcance antes señalado, la ley regula de forma acabada el régimen jurídico de dicha función, las atribuciones de quienes la realizan, la forma y los documentos en los que se plasma su realización, el procedimiento de subsanación de deficiencias y, en particular, las medidas extraordinarias que puede adoptar la autoridad aeronáutica cuando se hayan constatado irregularidades en aeronaves, equipos o instalaciones civiles que comprometan de forma cierta, grave e inmediata la seguridad aérea.
+Además, en la regulación de la inspección aeronáutica se ha buscado un modelo equilibrado de colaboración entre el sector público y el privado para la realización de las actuaciones de inspección en sentido propio, verificación y supervisión, admitiendo que personas físicas y jurídicas que dispongan de recursos, solvencia técnica, especialización en actividades aeronáuticas y de la independencia necesaria para garantizar la imparcialidad de su actividad puedan ser autorizadas para realizar tales actuaciones, aunque siempre bajo la dirección y supervisión de la autoridad aeronáutica civil.
+V
+El constante incremento que el tráfico aéreo ha experimentado en las últimas décadas genera necesidades crecientes de seguridad. El título IV de la ley recoge el catálogo de las obligaciones exigibles, por dicho motivo, a aquellos sujetos cuya actuación pueda afectar a la seguridad aérea, regulando las obligaciones generales exigibles a todos y, a continuación y sucesivamente, las obligaciones específicas del personal aeronáutico, de las entidades dedicadas a la fabricación y mantenimiento de productos aeronáuticos, de los operadores y compañías aéreas, de las empresas que realizan trabajos aéreos, de los proveedores de servicios de navegación aérea, de los agentes de servicios aeroportuarios, de los gestores de infraestructuras aeroportuarias, de los pasajeros y usuarios y de las entidades y personas que realicen actos de inspección.
+Mediante la expresa determinación de las obligaciones, la ley ha pretendido dar un enfoque generalizador y positivo, formulando los requerimientos de seguridad y las pautas de comportamiento exigibles a las personas y organizaciones que desarrollan actividades aeronáuticas, que constituyen el marco jurídico general de la seguridad aeronáutica, que habrá de pormenorizarse y concretarse más adelante en cada una de las múltiples y particulares disposiciones que ordenan y regulan los distintos sectores de actuación comprendidos dentro de la aviación civil.
+VI
+El título V de la ley establece un régimen sancionador en materia de aviación civil completo, tanto en lo material como en lo procedimental, que sustituye al contenido en los artículos 152 a 159 de la Ley 48/1960. Aunque algunas de las infracciones que se incluyen proceden de normas de rango legal posteriores a la ley sobre Navegación Aérea que la han actualizado.
+El desarrollo que el tráfico y el transporte aéreos han experimentado desde los años 60 hasta nuestros días requiere que el régimen sancionador de la aviación civil se adecue a la naturaleza y a las características de las actividades y servicios aeronáuticos que hoy se ejercen o prestan, de forma que responda fielmente a los problemas y conflictos que efectivamente se concitan y que abarque a la totalidad de los sujetos, individuales y colectivos, que en ellos participan.
+La ley tiene en cuenta igualmente las determinaciones de la Constitución de 1978 y la nueva legalidad administrativa emanada en la pasada década de conformidad con sus principios, así como las modificaciones derivadas de los acuerdos y normas internacionales en materia de aviación civil y, finalmente, la integración en nuestro sistema de fuentes del Derecho de los actos normativos comunitarios que han regulado muy importantes aspectos del transporte aéreo de los Estados miembros de la Unión Europea.
+Todas estas circunstancias hacen necesario el establecimiento de un nuevo régimen sancionador que permita corregir las infracciones administrativas, construido sobre la base del pleno respeto a los principios constitucionales básicos de legalidad y de seguridad jurídica, así como a los más específicos de tipicidad y proporcionalidad consagrados en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+En cumplimiento del citado principio de tipicidad, se definen de acuerdo con los criterios asentados por la doctrina del Tribunal Constitucional las conductas que constituyen infracciones administrativas contra la seguridad de la aviación civil, las relativas al transporte y los trabajos aéreos, al transporte de mercancías peligrosas o sujetas a normas especiales por vía aérea, a la disciplina del tráfico aéreo en materia de ruido, al funcionamiento y uso de los aeropuertos y a la coordinación de los aeropuertos y la utilización de las franjas horarias. El muy notable incremento experimentado por el tráfico aéreo en general y particularmente el transporte aéreo comercial debe ser tenido en cuenta desde el punto de vista sancionador con la doble finalidad de preservar tanto la seguridad de la aviación, de indiscutible interés público, como los derechos e intereses legítimos de los pasajeros y otros usuarios de los servicios aeronáuticos.
+La ley establece, por último, con la necesaria precisión, las sanciones y medidas consecuencia de las infracciones y los criterios a que los órganos sancio nadores deben sujetar sus resoluciones, tanto respecto a la aplicación de las sanciones como en lo relativo a su graduación con exquisito respeto a los principios antes reseñados, así como a los de seguridad jurídica y proporcionalidad.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y finalidad.
+Esta ley tiene por objeto determinar las competencias de los órganos de la Administración General del Estado en materia de aviación civil, regular la investigación técnica de los accidentes e incidentes aéreos civiles y establecer el régimen jurídico de la inspección aeronáutica, las obligaciones por razones de seguridad aérea y el régimen de infracciones y sanciones en materia de aviación civil.
+Sus disposiciones tienen por finalidad preservar la seguridad, el orden y la fluidez del tráfico y del transporte aéreos, de acuerdo con los principios y normas de Derecho internacional reguladores de la aviación civil.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. Se regirán por las normas contenidas en esta ley las aeronaves, productos, componentes y equipos aeronáuticos civiles, los sistemas de gestión del tránsito aéreo/navegación aérea civiles, los sistemas de U-Space y de información común y los sistemas aeroportuarios, sin perjuicio de las competencias que sobre estos sistemas aeroportuarios correspondan a las comunidades autónomas, los servicios y actividades relacionados con la aviación civil y el personal y organizaciones civiles que intervengan en su ejecución y explotación.
+La aplicación de esta ley a las aeronaves de Estado no militares, como las de aduanas, policía o, en general, las destinadas a servicios públicos no comerciales, a su personal y a las organizaciones responsables de su utilización, deberá respetar las particularidades relativas a la operación de dichas aeronaves.
+2. Las aeronaves militares, los sistemas aeroportuarios, de gestión del tránsito aéreo/navegación aérea y los servicios, actividades e instalaciones adscritos a la defensa nacional, así como su personal, están excluidos del ámbito de aplicación de esta ley y quedarán sujetas a su legislación específica. Sin perjuicio de anterior, lo dispuesto en el título II, capítulo I, será de aplicación en las instalaciones militares y sistemas de navegación aérea adscritos a la defensa nacional que presten servicios a la aviación civil.
+3. Esta ley, sin perjuicio del cumplimiento de lo dispuesto en la normativa europea existente al respecto, se aplicará en todo el territorio español, en sus aguas jurisdiccionales, en el espacio aéreo suprayacente y en el espacio aéreo sobre el que el Estado español ejerza jurisdicción de conformidad con los Tratados y Convenios internacionales en vigor.
+Se modifican los apartados 1 y 2 por el art. 2.1 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifica el apartado 2 por el art. único.1 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 3
+
+Artículo 3. Programa Nacional de Seguridad para la Aviación Civil.
+1. Por Acuerdo del Consejo de Ministros, adoptado a propuesta conjunta de los Ministros de Defensa, del Interior y de Fomento, se aprobará el Programa Nacional de Seguridad para la Aviación Civil, en el que se determinarán las medidas y los procedimientos necesarios para garantizar la aplicación efectiva de las normas de seguridad de la aviación civil en los aeropuertos, aeródromos e instalaciones de navegación aérea y la prevención de actos ilícitos contra las actividades aeronáuticas.
+El Gobierno designará, asimismo, los órganos competentes para su evaluación, seguimiento y ejecución.
+2. Las medidas previstas en el Programa Nacional de Seguridad para la Aviación Civil serán aplicables en todos los aeropuertos abiertos a las operaciones comerciales de transporte aéreo.
+3. El programa se revisará con la periodicidad que se derive de lo establecido en las normas internacionales y, en todo caso, siempre que resulte necesario adoptar nuevas medidas de seguridad o se produzcan circunstancias que así lo aconsejen.
+
+### Artículo 4
+
+Artículo 4. Competencias en materia de estructura y gestión del espacio aéreo y de la circulación aérea.
+1. Las competencias en materia de estructura y gestión del espacio aéreo y de circulación aérea corresponden a los Ministerios de Defensa y Fomento en los términos establecidos en este artículo.
+2. Corresponde a los Ministerios de Defensa y Fomento la definición y establecimiento de la política y estrategia para la estructuración y gestión del espacio aéreo, así como la adopción de las medidas específicas en este ámbito de acuerdo con lo establecido en la Unión Europea y teniendo en cuenta las necesidades de la defensa nacional.
+Salvo en las situaciones descritas en los apartados 3, letra c), y 4 estas competencias se ejercerán conjuntamente en los términos previstos reglamentariamente, cuando proceda, a través de la Comisión Interministerial prevista en el artículo 6.
+3. Corresponde al Ministerio de Defensa:
+a) La vigilancia, control y defensa del espacio aéreo de soberanía española, así como el control de la circulación aérea general en tiempos de conflicto armado, como responsable principal de la defensa aérea de España.
+b) La ordenación y control de la circulación aérea operativa.
+c) El control de la circulación aérea general y el establecimiento de las medidas que afecten a la estructuración, gestión y condiciones de uso del espacio cuando así lo determine el Presidente del Gobierno o el Ministro de Defensa por concurrir, respectivamente, circunstancias extraordinarias o situaciones de emergencia que así lo aconsejen.
+4. Corresponde al Ministerio de Fomento la ordenación y control de la circulación aérea general en tiempo de paz y, en situaciones de crisis que afecten al espacio aéreo, distintas de las previstas en el apartado 3, letra c), el establecimiento de las condiciones de uso del espacio aéreo para las aeronaves civiles.
+Se modfica por el art. 53.1 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifica por el art. 53.1 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Artículo 4 bis
+
+Artículo 4 bis. Competencias en materia de infraestructuras militares abiertas al tráfico civil y salvaguarda de los intereses de la defensa en otros ámbitos.
+1. En las bases aéreas o aeródromos militares abiertos al tráfico civil, corresponde al Comandante de la base la jefatura de todas las instalaciones, la responsabilidad del funcionamiento de todos los elementos imprescindibles para asegurar la continuidad operativa y adoptar las medidas que procedan para garantizar los intereses de la defensa nacional y de la aviación militar.
+La coordinación, explotación, conservación y administración de la zona abierta al tráfico civil corresponde a la persona designada al efecto conforme a lo previsto en las disposiciones reglamentarias de aplicación que ejercerá sus funciones exclusivamente en relación con el tráfico civil.
+2. En cada aeropuerto y aeródromo público civil o conjunto de ellos que correspondan a una misma demarcación, se establecerá una Comandancia Militar Aérea para representar los intereses de la defensa nacional y de la aviación militar, cuyo comandante ejercerá las competencias propias del Ministerio de Defensa.
+3. El Ministerio de Defensa y los órganos responsables de la gestión de la infraestructura destinada al tráfico civil formalizarán los acuerdos pertinentes para la compensación por los servicios prestados conforme a lo previsto en los apartados precedentes, a cuyo efecto se efectuaran las previsiones presupuestarias correspondientes.
+4. El mantenimiento de la seguridad y el orden público en los aeropuertos y aeródromos civiles de uso público y demás instalaciones de la aviación civil corresponderá al Ministerio del Interior.
+Se añade por el art. 53.2 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se añade por el art. 53.2 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Artículo 5
+
+Artículo 5. Competencias del Ministerio de Fomento.
+1. Además de las competencias previstas en el artículo 4, corresponde al Ministerio de Fomento:
+a) La ordenación, supervisión y garantía de la prestación de los servicios, sistemas e instalaciones civiles de navegación aérea, así como las funciones de supervisión de la normativa en materia de cielo único europeo en los términos que establece esta Ley y sus disposiciones de desarrollo.
+b) La calificación de los aeropuertos civiles de interés general y la aprobación de sus planes directores.
+c) La ordenación, supervisión y garantía de la prestación de los servicios aeroportuarios en los aeropuertos civiles de interés general, así como la ordenación y supervisión de la seguridad operacional en el resto de las infraestructuras aeroportuarias civiles.
+d) El mantenimiento del registro de matrícula de aeronaves civiles.
+e) La ordenación y supervisión del transporte aéreo.
+f) La ordenación y supervisión de las actividades y trabajos aéreos, así como de la aviación general y deportiva.
+g) La ordenación, verificación y control del cumplimiento de los requisitos y procedimientos establecidos para garantizar la seguridad aérea en relación con el diseño, fabricación, mantenimiento, uso y operación de las aeronaves civiles y, en general, de los productos, componentes y equipos aeronáuticos civiles.
+h) La ordenación, otorgamiento y supervisión de los títulos que habilitan a las personas y organizaciones civiles para la realización de actividades aeronáuticas civiles y el control del cumplimiento de los requisitos y obligaciones en cada caso exigibles.
+i) El reconocimiento y aceptación de los títulos, licencias, autorizaciones o certificados expedidos por autoridades de otros Estados y que sean requeridos para el ejercicio de profesiones aeronáuticas.
+j) La ordenación, dirección y ejecución de la inspección aeronáutica civil, en el ámbito de las competencias de la Administración General del Estado.
+k) El ejercicio de la potestad sancionadora en materia de aviación civil.
+2. La competencia prevista en el apartado 1 no abarcará a los servicios, sistemas e instalaciones de navegación aérea militar asociados a las bases aéreas, las bases aéreas abiertas al tráfico civil, la zona militar de los aeródromos utilizados conjuntamente por una base aérea y un aeropuerto y los aeródromos y helipuertos militares, cuya verificación y control serán ejercidos por el Ministerio de Defensa.
+No obstante lo dispuesto en el párrafo anterior, los Ministerios de Defensa y Fomento podrán acordar que la verificación y control del cumplimiento de los requisitos exigibles para la provisión de servicios a las aeronaves civiles y a la circulación aérea general por parte de las instalaciones, sistemas de navegación aérea e infraestructuras de carácter militar, así como a su personal, se realice por el Ministerio de Fomento. El ejercicio de estas funciones por el Ministerio de Fomento en ningún caso supondrá la atribución a éste de competencias administrativas o sancionadoras sobre las instalaciones, sistemas, infraestructuras y personal militar que, en su caso, corresponderá al Ministerio de Defensa.
+Se modifica por el art. 53.3 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifica por el art. 53.3 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Artículo 6
+
+Artículo 6. Coordinación entre los Ministerios de Defensa y de Fomento.
+1. La coordinación de las actuaciones que, en el ámbito de sus respectivas competencias, corresponden a los Ministerios de Defensa y de Fomento se realizará a través de una Comisión interministerial integrada por representantes de ambos Departamentos. Reglamentariamente se establecerá la composición, los órganos, las normas de funcionamiento y las funciones de esta Comisión que, en todo caso, incluirán:
+a) El informe de los proyectos de disposiciones de carácter general sobre personal e infraestructuras, civiles o militares, que afecten a las competencias de ambos Departamentos y circulación aérea.
+b) El informe de la política y estrategia en materia de estructuración, uso y gestión del espacio aéreo, incluyendo la relativa a la coordinación y cooperación con los Estados limítrofes en materia de uso flexible del espacio aéreo, sin perjuicio de las competencias de otros Departamentos ministeriales.
+c) Las funciones, incluidas las ejecutivas y de resolución, de gestión estratégica del espacio aéreo que se le atribuyan reglamentariamente, de entre las previstas en el artículo 4 del Reglamento (CE) n.º 2150/2005 de la Comisión, de 23 de diciembre de 2005, por el que se establecen normas comunes para la utilización flexible del espacio aéreo.
+2. Las resoluciones dictadas en el ejercicio de funciones decisorias por el órgano que integre a todos los miembros de la Comisión interministerial prevista en este artículo, ponen fin a la vía administrativa, siendo recurribles ante la Jurisdicción Contencioso Administrativa.
+Cuando reglamentariamente se atribuyeran funciones decisorias a otros órganos de funcionamiento de la citada Comisión, sus resoluciones serán recurribles ante el órgano citado en el párrafo anterior conforme al procedimiento previsto para el recurso de alzada.
+Se modifica por el art. 53.3 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifica por el art. 53.3 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Artículo 7
+
+Artículo 7. Competencias en materia de servicio meteorológico.
+1. Corresponde al Ministerio para la Transición Ecológica y el Reto Demográfico el ejercicio de las competencias del Estado en materia de servicio meteorológico y, en consecuencia, de las siguientes funciones:
+a) El ejercicio de la autoridad meteorológica aeronáutica en el territorio nacional.
+b) La prestación de los servicios meteorológicos de observación, vigilancia y predicción necesarios para contribuir a la seguridad, regularidad y eficiencia del tránsito aéreo.
+c) La provisión a los usuarios aeronáuticos de la información meteorológica necesaria para el desempeño de sus funciones.
+d) Las que corresponden a la autoridad nacional de supervisión de los proveedores de servicios de navegación aérea meteorológicos, incluidas las funciones de inspección y sanción previstas en esta ley.
+2. No obstante lo previsto en el apartado 1, letras a) y d), reglamentariamente podrán atribuirse las funciones regulatorias que correspondan a la autoridad meteorológica aeronáutica y la condición de autoridad nacional de supervisión de los referidos proveedores a otro departamento ministerial o a las entidades u organismos adscritos a otro ministerio.
+Se modifica por el art. 2.2 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 8
+
+Artículo 8. Circulares aeronáuticas.
+1. El Director General de Aviación Civil podrá aprobar, en el ámbito de la aviación civil, disposiciones de carácter secundario y de contenido técnico, que completen, precisen y aseguren la más eficaz aplicación de las normas dirigidas a preservar la seguridad y el orden del tránsito y del transporte aéreos civiles.
+2. Tales disposiciones que deberán tener en cuenta las prescripciones y recomendaciones adoptadas por la Organización de Aviación Civil Internacional y por los organismos internacionales de los que forme parte el Estado español, se denominarán «Circulares aeronáuticas» y serán obligatorias, dentro del ámbito de la aviación civil, para las personas físicas y jurídicas que ejecuten las actividades y presten los servicios vinculados a la formación del personal aeronáutico, al diseño, la producción, el mantenimiento y la explotación de las aeronaves y productos aeronáuticos, a la gestión de los sistemas aeroportuarios y de navegación aérea, a la prestación de los servicios necesarios para la navegación aérea y a la realización de las actividades de transporte y trabajos aéreos y aviación general y deportiva.
+3. La aprobación de las circulares aeronáuticas se llevará a cabo previa audiencia a los interesados e informes de la Secretaría General Técnica del Ministerio de Fomento y, cuando afecte a las competencias del Ministerio de Defensa, de la Secretaría General Técnica de este Departamento.
+4. La entrada en vigor de las circulares aeronáuticas requerirá su previa publicación en el «Boletín Oficial del Estado».
+
+### Artículo 9
+
+Artículo 9. Construcción y planificación de sistemas aeroportuarios.
+1. La construcción y modificación estructural o funcional de los aeródromos, helipuertos y aeropuertos civiles de competencia de la Administración General del Estado y de las instalaciones del sistema de navegación aérea, así como la puesta en funcionamiento y clausura de los mismos, requerirán autorización del Ministerio de Fomento, previo informe favorable del Ministerio de Defensa.
+2. La construcción, modificación y apertura al tráfico aéreo de los aeródromos y aeropuertos de competencia de las comunidades autónomas y la aprobación de planes o instrumentos de ordenación y delimitación de su respectiva zona de servicio deberán ser informadas conjuntamente, con carácter previo, por los Ministerios de Fomento y de Defensa, a efectos de determinar la incidencia de los mismos en la estructuración, ordenación y control del espacio aéreo, en el tránsito y el transporte aéreos y en su afección a los aeropuertos de interés general o a sus espacios circundantes sujetos a servidumbres aeronáuticas.
+El informe previsto en el párrafo anterior tendrá carácter vinculante en lo que se refiere a la preservación de las competencias estatales, y se emitirá, previa consulta al órgano colegiado previsto en el artículo 6, en el plazo de seis meses, transcurridos los cuales sin haberse evacuado, se entenderá que tiene carácter favorable.
+Para la construcción, modificación y apertura al tráfico aéreo de los helipuertos de competencia de las comunidades autónomas, se requerirá únicamente el certificado de compatibilidad del espacio aéreo de la instalación proyectada emitido por la Dirección General de Aviación Civil previo informe vinculante del órgano colegiado al que se refiere el artículo 6.
+
+### Artículo 10
+
+Artículo 10. Consejo Asesor de Aviación Civil.
+(Derogado)
+Se deroga por la disposición derogatoria única y anexo del Real Decreto 776/2011, de 3 de junio. Ref. BOE-A-2011-9736.
+
+## TÍTULO II
+
+Gestión en materia de seguridad operacional
+Se modifica la denominación por el art. único.2 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## CAPÍTULO I
+
+Programa Estatal de Seguridad Operacional para la Aviación Civil
+Se añade por el art. único.3 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 11
+
+Artículo 11. Programa Estatal de Seguridad Operacional para la Aviación Civil.
+1. Para mejorar con carácter preventivo los niveles de seguridad operacional se aprobará un Programa de Seguridad Operacional para la Aviación Civil, de conformidad con los requisitos adoptados en virtud del Convenio sobre Aviación Civil Internacional y de acuerdo con las directrices de la Unión Europea.
+El Programa Estatal de Seguridad Operacional del Estado establecerá la política y objetivos de seguridad aérea del Estado, mediante la gestión de los riesgos, el afianzamiento, la promoción de la seguridad y el establecimiento de los indicadores de seguridad para su evaluación.
+Especialmente, el Programa permitirá la recopilación, el intercambio y el análisis de la información sobre seguridad operacional y su gestión integrada.
+La información sobre seguridad operacional facilitada voluntariamente en la que no se aprecie dolo o negligencia grave no podrá utilizarse como medio de prueba válido para cualquier tipo de procedimiento administrativo, ni podrá revelarse al público, salvo lo dispuesto en el artículo 19, con el fin de asegurar la continua disponibilidad para poder tomar medidas preventivas adecuadas y oportunas.
+2. El Consejo de Ministros, a propuesta conjunta de los Ministros de Fomento y Defensa, en el ámbito de sus competencias, aprobará el Programa Estatal de Seguridad Operacional para la Aviación Civil y acordará su revisión en los términos que se determinen reglamentariamente y designará el órgano superior responsable de impulsarlo. Corresponde a la Agencia Estatal de Seguridad Aérea la iniciativa en la elaboración del Programa, para su elevación a los órganos competentes del Ministerio de Fomento.
+Para la aprobación del Programa Estatal de Seguridad Operacional se deberá tener en cuenta como principio básico la protección sobre la información de Seguridad Operacional con el fin de que esta no se utilice de forma inapropiada.
+Antes de su aprobación, el Ministro de Fomento comparecerá ante la Comisión competente del Congreso de los Diputados para informar de las líneas generales de la propuesta que se prevé elevar al Consejo de Ministros.
+Reglamentariamente se establecerán los órganos, organismos públicos, entes, entidades, y sujetos, públicos y privados, obligados por el Programa Estatal de Seguridad Operacional para la Aviación Civil, y el alcance de sus obligaciones, así como las funciones que corresponden al órgano superior responsable de impulsarlo.
+3. En todo caso, quedarán obligados por el Programa los organismos, órganos, entes y entidades, del sector público civil y militar, con competencias en materia de control o supervisión sobre la seguridad operacional de la aviación civil o que incidan en ella, debiendo concretarse reglamentariamente los mecanismos de coordinación entre ellos.
+Así mismo, se integra en el Programa la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil de acuerdo con el régimen jurídico establecido en su ley de creación, en especial en relación con el régimen de la información de la investigación, al que no resultará aplicable lo dispuesto en los artículos 18 y 19 de esta ley.
+4. Entre las obligaciones de los proveedores de servicios y productos aeronáuticos, públicos o privados, vinculados por el Programa de conformidad con lo previsto en el apartado 2, se incluirán, en todo caso, el suministro de la información que se les requiera y el establecimiento, de acuerdo con la normativa vigente, de sistemas de gestión de seguridad operacional en sus organizaciones. Si así lo prevé la normativa comunitaria, dichos sistemas podrán integrarse con otros sistemas de calidad, seguridad aeroportuaria, salud ocupacional y seguridad individual, y protección del medio ambiente.
+Dichos sistemas deberán identificar amenazas para la seguridad, aplicar las medidas preventivas para mantener un nivel aceptable de seguridad y mejorar dicho nivel, así como garantizar en todo momento la confidencialidad de la información que pueda llevar a identificar datos de carácter privado del personal implicado, en los términos previstos reglamentariamente conforme a la normativa OACI. En el marco de dichos sistemas, los proveedores de servicios y productos aeronáuticos acordarán con los organismos, órganos, entes y entidades del sector público a que se refiere el primer párrafo del apartado 3 objetivos de mejora del nivel de seguridad operacional cuyo cumplimiento se supervisará permanentemente y evaluará de manera periódica.
+Entre otros, quedan vinculados al Programa los proveedores de servicios de navegación aérea para la aviación civil, los gestores de aeródromos civiles de uso público, los operadores de transporte aéreo por avión o helicóptero, las escuelas de formación en vuelo, las organizaciones aprobadas de mantenimiento de aeronaves y los operadores de trabajos aéreos cuya vinculación al Programa se considere relevante para la seguridad operacional de la aviación civil.
+Los proveedores de servicios y productos aeronáuticos vinculados al Programa que, conforme a la legislación aplicable, no estén obligados a disponer de sistemas de gestión de la seguridad operacional deberán implantar mecanismos equivalentes que contribuyan a alcanzar los objetivos del Programa, en los términos que se establezcan en él y en el reglamento de desarrollo de este título.
+5. La Agencia Estatal de Seguridad Aérea es la entidad competente para coordinar la implantación y ejecución del Programa, así como para el seguimiento del cumplimiento de los objetivos de seguridad operacional fijados en él, sin que esto altere las competencias que la normativa vigente atribuye a las autoridades nacionales de supervisión y al resto de los organismos, órganos, entes y entidades a que se refiere el apartado 3, primer párrafo.
+Los organismos, órganos, entes y entidades del sector público a que se refiere el primer párrafo del apartado 3, incluida la Agencia Estatal de Seguridad Aérea, son responsables de la definición, ejecución y gestión del Programa en el ámbito de sus respectivas competencias.
+En el primer semestre de cada año la Agencia Estatal de Seguridad Aérea elevará al Secretario de Estado de Transportes una memoria anual sobre el grado de implantación y ejecución del Programa Estatal de Seguridad Operacional para la Aviación Civil y el nivel de cumplimiento en el ejercicio anterior de los objetivos fijados en él. El Ministerio de Fomento remitirá esta memoria anual a las Comisiones competentes del Congreso de los Diputados y del Senado.
+Se modifica el apartado 3 por la disposición final 1.1 de la Ley 2/2024, de 1 de agosto. Ref. BOE-A-2024-15937#df
+ Se modifica por el art. único.3 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 12
+
+Artículo 12. Protección de la información del Programa Estatal de Seguridad Operacional para la Aviación Civil.
+1. Los organismos, órganos, entes y entidades del sector público a que se refiere el artículo 11.3, primer párrafo, utilizarán la información facilitada por los proveedores de servicios y productos aeronáuticos en el marco del Programa a los exclusivos efectos de prevenir, evaluar los riesgos para la seguridad y mejorar los niveles de seguridad operacional. Así mismo, dichos obligados se abstendrán de adoptar cualquier tipo de medida desfavorable como consecuencia de dicha información o de incorporarla a procedimientos ya iniciados, salvo que conste de forma manifiesta que las actuaciones realizadas se han producido con dolo o negligencia grave.
+Lo dispuesto en el párrafo anterior no obsta para que se utilice el resultado de los análisis de la información facilitada en el marco del citado Programa para orientar la inspección aeronáutica hacia las áreas que requieran mayor prevención.
+2. Los empleados, civiles y militares, de los proveedores de servicios y productos aeronáuticos obligados por el Programa que informen sobre accidentes, sucesos, deficiencias de seguridad, o amenazas con afección, real o potencial, sobre la seguridad operacional, no podrán sufrir, por el hecho de informar, efectos adversos en su puesto de trabajo por parte del empleador, público o privado, salvo en los supuestos en que se acredite mala fe en su actuación.
+Se entenderán nulas y sin efecto legal alguno las decisiones del empleador tomadas en perjuicio o detrimento de los derechos laborales de los trabajadores que hayan actuado conforme a lo señalado en el párrafo anterior.
+3. Lo dispuesto en el apartado 1 será aplicable a las medidas preventivas adoptadas por los proveedores de servicios y productos aeronáuticos en el marco de sus sistemas de gestión de la seguridad operacional o mecanismos equivalentes habilitados conforme a lo previsto en el artículo anterior.
+Se modifica por el art. único.3 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## CAPÍTULO II
+
+Investigación técnica de accidentes e incidentes de la aviación civil
+Se deroga por la disposición derogatoria única.a).1º de la Ley 2/2024, de 1 de agosto. Ref. BOE-A-2024-15937#dd
+ Se añade por el art. único.4 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 13
+
+Artículo 13. La Comisión de Investigación de Accidentes e Incidentes de Aviación Civil.
+(Derogado)
+Se deroga por la disposición derogatoria única.a).1º de la Ley 2/2024, de 1 de agosto. Ref. BOE-A-2024-15937#dd
+
+### Artículo 14
+
+Artículo 14. Composición y funciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.a).1º de la Ley 2/2024, de 1 de agosto. Ref. BOE-A-2024-15937#dd
+ Se modifica por el art. único.5 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 15
+
+Artículo 15. Régimen jurídico de la investigación técnica de accidentes e incidentes de aviación civil y del funcionamiento de la Comisión de Investigación de Accidentes e Incidentes de Aviación Civil.
+(Derogado)
+Se deroga por la disposición derogatoria única.a).1º de la Ley 2/2024, de 1 de agosto. Ref. BOE-A-2024-15937#dd
+ Se modifica por el art. único.6 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 16
+
+Artículo 16. Publicidad de los informes y recomendaciones y su seguimiento.
+(Derogado)
+Se deroga por la disposición derogatoria única.a).1º de la Ley 2/2024, de 1 de agosto. Ref. BOE-A-2024-15937#dd
+ Se modifica por el art. único.7 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 17
+
+Artículo 17. Coste de la búsqueda, recuperación, conservación y destino de los restos.
+(Derogado)
+Se deroga por la disposición derogatoria única.a).1º de la Ley 2/2024, de 1 de agosto. Ref. BOE-A-2024-15937#dd
+ Se modifica por el art. único.8 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## CAPÍTULO III
+
+Protección de la Información
+Se añade por el art. único.9 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 18
+
+Artículo 18. Carácter reservado de la información.
+1. Los datos, registros, grabaciones, declaraciones, comunicaciones, indicadores e informes facilitados en el marco del Programa Estatal de Seguridad Operacional para la Aviación Civil por los profesionales aeronáuticos y proveedores de servicios y productos aeronáuticos a los organismos, órganos, entes y entidades del sector público a que se refiere el artículo 11.3, párrafo primero, tienen carácter reservado y sólo pueden ser utilizados para los fines previstos en él.
+En todo caso, la información a que se refieren los párrafos anteriores se recaba con la única finalidad de reforzar la seguridad operacional y prevenir futuros accidentes e incidentes, y no con la finalidad de determinar culpas o responsabilidades.
+2. Este deber de reserva vinculará:
+a) A todos los organismos, órganos, entes y entidades del sector público a que se refiere el artículo 11.3, párrafo primero, y a quienes presten servicios en ellos.
+b) (Derogada)
+c) A cuantas personas tengan acceso a dicha información en el ejercicio de funciones con motivo de la colaboración con el Programa Estatal de Seguridad Operacional de la Aviación Civil o de modo accidental.
+3. El incumplimiento del deber de reserva regulado en este artículo determinará las responsabilidades penales y las demás previstas por las leyes.
+4. Los obligados por el deber de reserva no podrán prestar declaración ni publicar, comunicar o exhibir datos o documentos reservados, ni siquiera después de haber cesado en el servicio, salvo permiso expresodel órgano competente de la Agencia Estatal de Seguridad Aérea, que sólo podrá otorgarse en los supuestos previstos en el artículo siguiente o en la normativa comunitaria que sea de aplicación. Si dicho permiso no fuera concedido, la persona afectada mantendrá la reserva y quedará exenta de la responsabilidad que pudiera derivarse de denegar información a las instancias indicadas en dicho precepto.
+5. Los sujetos del sector público y privado obligados por el Programa Estatal de Seguridad Operacional para la Aviación Civil establecerán protocolos que permitan preservar el carácter reservado de la información.
+Se deroga el párrafo segundo del apartado 1, la letra b) del apartado 2 y algunas expresiones por la disposición derogatoria única.a).2º de la Ley 2/2024, de 1 de agosto. Ref. BOE-A-2024-15937#dd
+ Se modifica el apartado 1 por el art. único.9 de la Ley 1/2011, de 4 de marzo Ref. BOE-A-2011-4166. en la redacción dada por la disposición final 3 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
+ Se modifica por el art. único.9 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 19
+
+Artículo 19. Cesión o comunicación de la información.
+1. La información a la que se refiere el artículo 18.1 sólo podrá ser comunicada o cedida a terceros en los casos siguientes:
+a) Cuando sea requerida por los órganos judiciales o el Ministerio Fiscal para la investigación y persecución de delitos.
+b) Cuando lo soliciten las Comisiones parlamentarias de investigación a que se refiere el artículo 76 de la Constitución. Los miembros de la Comisión de investigación que reciban la información vendrán obligados a mantener su reserva.
+El Director de la Agencia Estatal de Seguridad Aérea podrá solicitar motivadamente que las sesiones de dichas Comisiones parlamentarias se declaren secretas.
+c) Cuando la Agencia Estatal de Seguridad Aérea actúe en cumplimiento de deberes de colaboración establecidos en normas internacionales, comunitarias o nacionales, bajo la exigencia de recíproca confidencialidad.
+d) Cuando a juicio de los organismos, órganos, entes y entidades del sector público a que se refiere el artículo 11.3, párrafo primero, se considere que la comunicación de determinados datos entre sí o a la autoridad aeronáutica y a las personas y organizaciones aeronáuticas afectadas, sea necesaria para prevenir accidentes o incidentes.
+2. La información a que se refiere el artículo 18.1, segundo párrafo, sólo podrá ser comunicada o cedida a terceros en los supuestos previstos por la normativa comunitaria que resulte de la aplicación.
+La Comisión de Investigación de Accidentes e Incidentes de Aviación Civil y el resto de las autoridades o instituciones que pudieran estar implicadas en las actividades relacionadas con la investigación deberán suscribir los Acuerdos previos de conformidad con lo previsto en el artículo 12.3 del Reglamento (UE) n.º 996/2010 del Parlamento Europeo y del Consejo, de 20 de octubre de 2010, en los que se abordará, entre otros aspectos, el intercambio de la información y el uso adecuado de la información relativa a la seguridad.
+3. En el supuesto previsto en el apartado 1.a) los obligados a facilitar la información podrán solicitar a los órganos judiciales o al Ministerio Fiscal que mantengan el carácter reservado de esa información y que adopten las medidas pertinentes para garantizar la reserva durante la sustanciación del proceso.
+El órgano judicial podrá adoptar cuantas medidas procedan para proteger la información y, en particular, podrá prohibir su publicación o comunicación.
+Se deroga el párrafo segundo de la letra a) por la disposición derogatoria única.a).3º de la Ley 2/2024, de 1 de agosto. Ref. BOE-A-2024-15937#dd
+ Se modifica por el art. único.9 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## TÍTULO III
+
+De la inspección aeronáutica
+
+### Artículo 20
+
+Artículo 20. Concepto y alcance.
+1. La función de inspección aeronáutica comprende la vigilancia y control del cumplimiento de las normas que ordenan las distintas actividades propias de la aviación civil y la supervisión para verificar los requisitos exigidos para obtener, conservar y renovar los certificados, aprobaciones, autorizaciones, licencias, habilitaciones y, en general, los documentos oficiales que habilitan para el ejercicio de funciones, la realización de actividades y la prestación de servicios aeronáuticos.
+Los procedimientos y actuaciones realizadas en el ejercicio de las funciones de inspección aeronáutica de vigilancia y control del cumplimiento de las normas que ordenan las distintas actividades de la aviación civil, se regirán por lo previsto en este título y sus normas de aplicación y desarrollo. Las actuaciones realizadas en el ejercicio de las funciones de verificación de los requisitos exigidos para obtener y renovar los documentos oficiales que habilitan para el ejercicio de funciones, la realización de actividades y la prestación de servicios aeronáuticos en los procedimientos iniciados a instancia del interesado se regirán por la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+2. La inspección aeronáutica se extiende a todas las aeronaves, productos y equipos aeronáuticos, a los sistemas aeroportuarios y de navegación aérea, a los servicios y actividades relacionados con la aviación civil, tanto en operaciones de vuelo como de tierra, al personal aeronáutico y a los titulares o explotadores de dichos servicios y actividades.
+3. Las aeronaves matriculadas en otros Estados que tengan entrada o salida de territorio español y sus tripulaciones estarán sujetas a inspección, de acuerdo con la legislación española, con las normas de Derecho comunitario europeo y con los tratados y convenios internacionales.
+Se añade el segundo párrafo al apartado 1 por el art. 2.3 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 21
+
+Artículo 21. Adscripción y ejercicio.
+1. La ordenación, dirección y ejecución de la inspección en materia de aviación civil, en el ámbito de las competencias de la Administración General del Estado, corresponde al Ministerio de Transportes y Movilidad Sostenible.
+2. Las actuaciones propias de dicha inspección serán realizadas por la Agencia Estatal de Seguridad Aérea, directamente o a través de personas físicas o jurídicas, con capacidad y solvencia técnica acreditadas, que actuarán bajo la dirección y supervisión de dicho organismo público, en los términos que se determinan en esta ley y en sus normas de desarrollo.
+3. Las actuaciones de comprobación del cumplimiento de las normas técnicas de seguridad operacional de las infraestructuras aeroportuarias de competencia de las comunidades autónomas podrán ser realizadas por el órgano autonómico competente en la materia de acuerdo con los mecanismos de cooperación que se establezcan reglamentariamente.
+Se modifica por el art. 2.4 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 22
+
+Artículo 22. Contenido de la función de inspección.
+1. La función de inspección aeronáutica abarca los ámbitos que a continuación se indican:
+A) En relación con la seguridad operacional:
+1.º Personal aeronáutico.
+2.º Operación de aeronaves.
+3.º Aeronavegabilidad.
+4.º Medicina y formación aeronáuticas.
+B) En relación con el transporte aéreo:
+1.º Licencias y autorizaciones de explotación de compañías aéreas.
+2.º Servicios de transporte aéreo.
+3.º Trabajos aéreos, transporte privado, vuelos locales y otras actividades de tráfico aéreo.
+4.º Comprobación de la existencia y vigencia de los sistemas de cobertura de los riesgos derivados del transporte aéreo.
+5.º Obligaciones de servicio público y regímenes especiales de acceso al mercado de aviación civil.
+6.º Tarifas y bonificaciones en materia de transporte aéreo.
+7.º Verificación del funcionamiento de los servicios de tránsito y transporte aéreos.
+8.º Contrato de transporte aéreo.
+9.º Servicios de asistencia en tierra en los aeropuertos de interés general.
+10.º Utilización de las franjas horarias para el movimiento de las aeronaves en los aeropuertos.
+11.º Continuidad y seguridad en la prestación de los servicios de transporte aéreo y aeroportuarios.
+12.º Sostenibilidad del transporte aéreo.
+C) En relación con la navegación aérea:
+1.º Servicios de navegación aérea.
+2.º Instalaciones del sistema de navegación aérea.
+3.º Personal y organizaciones que intervengan en la prestación o explotación de los servicios de navegación aérea y en la construcción, utilización o mantenimiento de las instalaciones afectas al sistema de navegación aérea.
+D) En relación con los aeropuertos y otros aeródromos e instalaciones aeroportuarias:
+1.º Construcción, apertura y funcionamiento de aeropuertos de interés general y de sus instalaciones.
+2.º Seguridad aérea de los restantes aeropuertos y aeródromos.
+3.º Servidumbres aeronáuticas.
+2. Lo dispuesto en el apartado uno se entiende sin perjuicio de las facultades que corresponden a otras Administraciones públicas u órganos administrativos en el ejercicio de sus competencias.
+Se añade el punto 12 al apartado 1.B) por el art. 2.5 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 23
+
+Artículo 23. Transferencia de responsabilidades de inspección.
+El Ministerio de Fomento, de acuerdo con lo establecido en los tratados o convenios internacionales celebrados por el Estado español, podrá encomendar, total o parcialmente, a las autoridades aeronáuticas de otro Estado el ejercicio de las obligaciones y funciones de inspección y supervisión a que se refiere esta ley respecto de aeronaves matriculadas en España, cuando el operador de las mismas tenga en dicho Estado su oficina principal de explotación o su residencia permanente o cuando aquéllas operen de forma estable en el mismo.
+De igual modo, las autoridades aeronáuticas españolas podrán asumir total o parcialmente las obligaciones y funciones de esta naturaleza que a otro Estado incumban respecto de las aeronaves de su matrícula, si éstas son explotadas por un operador aéreo que tiene su oficina principal o su residencia permanente u operen de forma estable en España.
+Las autoridades españolas reconocerán los tratados o convenios de este género celebrados entre otros Estados y que afecten a aeronaves que operen en España, siempre que se hayan registrado ante el Consejo de la Organización de Aviación Civil Internacional y hechos públicos por éste o cuando su existencia y alcance hayan sido notificados directa y oficialmente por un Estado parte.
+
+### Artículo 24
+
+Artículo 24. Actuaciones inspectoras.
+1. El ejercicio de las funciones propias de la inspección aeronáutica se adecuará a los planes o, en su defecto, a las órdenes específicas de actuación que apruebe la Dirección General de Aviación Civil.
+Por Orden del Ministro de Fomento se determinarán la periodicidad, el contenido y la forma de aprobación y ejecución de los planes de actuaciones inspectoras.
+2. Si el propósito de la inspección no es obstáculo para ello, se informará con suficiente antelación a la persona o entidad que vaya a ser inspeccionada de la actuación que se va a practicar y de las personas autorizadas para su realización.
+3. El personal que realice las actuaciones de inspección deberá acreditar su identidad y condición mediante la exhibición de un documento oficial expedido por la Dirección General de Aviación Civil, en el que se determinarán las facultades de su titular, el alcance de sus funciones y los límites a los que se sujeta su ejercicio.
+
+### Artículo 25
+
+Artículo 25. Atribuciones de los inspectores.
+1. Las actuaciones de inspección aeronáutica se realizarán por los funcionarios que desempeñen los correspondientes puestos de trabajo en los órganos con competencias inspectoras de la Dirección General de Aviación Civil. No obstante, podrá encomendarse a otros funcionarios o empleados públicos destinados en dichos órganos la realización de tareas o actividades auxiliares o de apoyo administrativo de las anteriores.
+2. Los funcionarios de la Agencia Estatal de Seguridad Aérea facultados para la realización de funciones de inspección aeronáutica tendrán, en el desempeño de sus funciones inspectoras, las siguientes atribuciones:
+a) La consideración de autoridad pública, pudiendo, en caso de necesidad, recabar de otras autoridades competentes o de sus agentes el auxilio necesario para el normal cumplimiento de sus funciones.
+b) El libre acceso a las aeronaves, en tierra y en vuelo, aeropuertos, aeródromos, locales, terrenos y, en general, a todas las instalaciones aeronáuticas en que hubieran de realizar las actuaciones inspectoras o instalaciones y ubicaciones donde se lleven a cabo actividades aeronáuticas objeto de inspección. Cuando se trate del domicilio de la persona inspeccionada, deberán obtener el consentimiento del interesado o, en su defecto, autorización judicial.
+c) La potestad para requerir y examinar equipos, libros, registros, procedimientos y documentos de interés para el propósito de la inspección, obtener copias o extractos de los mismos y muestras de las sustancias y materiales utilizados por los inspeccionados.
+d) La potestad de obligar al personal aeronáutico a someterse a pruebas para la detección del consumo de alcohol y sustancias estupefacientes, psicotrópicas o de efectos análogos. Reglamentariamente se establecerán las condiciones y requisitos que se deben cumplir para la realización de tales pruebas.
+3. El personal que desempeñe, participe o haya desempeñado o participado en funciones relacionadas con la inspección aeronáutica está obligado a guardar el debido secreto respecto de los hechos, datos, informaciones, origen de posibles denuncias o antecedentes que conocieran en relación con el ejercicio de sus funciones. Los obligados por el deber de secreto no podrán divulgar, comunicar o difundir dicha información y sólo podrán prestar declaración cuando expresamente hayan sido autorizados para ello por la Agencia Estatal de Seguridad Aérea.
+4. Las personas físicas y jurídicas, públicas o privadas, que sean objeto de inspección o supervisión tienen el deber de colaborar y facilitar el buen fin de la misma, y de comparecer ante la Agencia Estatal de Seguridad Aérea cuando fueran requeridos para ello por el personal que desarrolle las labores de inspección.
+Se modifica la letra b) del apartado 2 por el art. 2.6 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifican los apartados 2, 3 y 4 por el art. único.10 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 26
+
+Artículo 26. Entidades y personal colaborador.
+1. En las actividades de aviación civil no reguladas por normas comunitarias sobre aviación civil, la Agencia Estatal de Seguridad Aérea podrá llevar a cabo a través de personas y entidades colaboradoras debidamente autorizadas, las actividades de verificación y control de los requisitos establecidos por la normativa que resulte de aplicación y la emisión de los certificados o autorizaciones que acrediten la conformidad con las normas aplicables, así como la supervisión continuada de la organización, persona o producto de que se trate.
+Las personas y entidades colaboradoras actuarán bajo la dirección y supervisión continuada de la Agencia Estatal de Seguridad Aérea.
+2. Las personas y entidades colaboradoras, para ser autorizadas, deberán cumplir las siguientes condiciones:
+a) Disponer de medios adecuados, capacidad y especialización técnica acreditadas.
+b) Tener implantado un sistema de calidad que deberá estar aprobado por la Agencia Estatal de Seguridad Aérea.
+c) Respetar en su actuación los principios de objetividad, imparcialidad y confidencialidad respecto a los datos o información que conozcan por razón de su actividad.
+d) Contratar los seguros o constituir los depósitos o fianzas que se establezcan para cubrir su responsabilidad por los riesgos derivados de su actuación.
+e) No intervenir, directamente ni como representantes autorizados o colaboradores, en el diseño, fabricación, comercialización o mantenimiento de productos, piezas, equipos, componentes o sistemas, en su explotación o utilización, o en la prestación de servicios relacionados con ellos.
+3. La Agencia Estatal de Seguridad Aérea decidirá mediante convocatoria pública los ámbitos que se abrirán a la colaboración de personas o entidades interesadas. En la convocatoria pública se concretarán los requisitos exigibles a las personas o entidades que concurran y se determinará el alcance de la autorización otorgada que será de carácter indefinido.
+La Agencia Estatal de Seguridad Aérea podrá revocar la autorización en caso de incumplimiento de las condiciones exigidas para su funcionamiento, así como cuando motivadamente acuerde realizar por sí misma las actividades encomendadas a las personas o entidades colaboradoras.
+4. En los supuestos en que la Agencia Estatal de Seguridad Aérea autorice a las personas o entidades colaboradoras para la emisión de los certificados o autorizaciones que acrediten la conformidad con las normas aplicables y la supervisión continuada de la organización, persona o producto de que se trate, se sustanciará ante ellas todo el procedimiento hasta la concesión de la certificación o autorización, su renovación o revocación.
+En el resto de los supuestos el resultado de la actividad de verificación o control se integrará en el procedimiento administrativo que se sustancie ante la Agencia Estatal de Seguridad Aérea para la emisión de la certificación o autorización, su renovación o revocación.
+5. Frente a los actos de las personas o entidades colaboradoras que se incardinen en los supuestos previstos en el artículo 107.1 de la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, los interesados podrán reclamar ante la persona o entidad colaboradora.
+La resolución de estas reclamaciones podrá ser impugnada ante el Director de la Agencia Estatal de Seguridad Aérea. A este recurso le será de aplicación lo dispuesto para el recurso de alzada en la Ley 30/1992, de 26 de noviembre.
+Se modifica por el art. único.11 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 27
+
+Artículo 27. Procedimientos internos de verificación.
+Por Orden del Ministro de Fomento se determinarán las condiciones y requisitos conforme a los cuales los explotadores de servicios de transporte aéreo y los titulares o prestadores de servicios aeroportuarios y de navegación aérea, que cuenten con medios humanos, materiales y técnicos adecuados, podrán desarrollar y aplicar por sí mismos procedimientos programados de verificación y control del cumplimiento de las reglas técnicas y de seguridad aplicables a la actividad que realicen.
+Los procedimientos y programas de verificación y control deberán ser previamente aprobados por la Dirección General de Aviación Civil.
+
+### Artículo 28
+
+Artículo 28. Documentación de las actuaciones de inspección.
+1. Las actuaciones en que se concrete el ejercicio de la función de la inspección aeronáutica que tengan efectos jurídicos frente a terceros o carácter preceptivo, se documentarán en diligencias, comunicaciones, requerimientos, informes y actas.
+2. Se consignará en un acta el resultado de las inspecciones realizadas para controlar el cumplimiento de la normativa aplicable.
+En el acta se harán constar necesariamente los siguientes extremos:
+a) El nombre y acreditación del inspector.
+b) El lugar, fecha y hora en que se llevó a cabo la actividad inspectora.
+c) La identidad de la persona responsable de la entidad, producto, servicio, actividad o instalación inspeccionada.
+d) Los elementos esenciales de la inspección practicada y, en su caso, las deficiencias, irregularidades o incumplimientos legales constatados.
+e) En su caso, la propuesta de posibles medidas a adoptar, de conformidad con las normas de aplicación, para subsanar tales deficiencias, irregularidades o incumplimientos.
+f) La conformidad o disconformidad con todo ello del sujeto inspeccionado.
+3. Las auditorías de organización y procedimientos que se realicen a las personas físicas y jurídicas que realicen actividades reguladas por la normativa de aviación civil darán lugar a los correspondientes informes y, en su caso, actas.
+4. Finalizada la actividad inspectora, los responsables de la actuación practicada remitirán las correspondientes actas e informes a la unidad correspondiente de la Agencia Estatal de Seguridad Aérea y formularán, cuando proceda, propuesta de incoación de expediente sancionador.
+5. Las actas e informes resultado de las inspecciones y controles técnicos a que se refiere este artículo, formalizados en documento público observando los requisitos legales pertinentes, tendrán valor probatorio, sin perjuicio de las pruebas que en defensa de sus derechos e intereses puedan aportar o hacer valer los interesados.
+Se modifica por el art. 2.7 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 29
+
+Artículo 29. Subsanación.
+1. Cuando en las actas e informes se hagan constar deficiencias, irregularidades o incumplimientos, sean o no constitutivos de infracción, la Dirección General de Aviación Civil emplazará a las personas y entidades responsables para que sean subsanados, indicándoles, en su caso, las medidas que deberán ser llevadas a efecto para ello y concediéndoles al efecto un plazo razonable.
+2. En tanto no se haya acreditado ante la Dirección General de Aviación Civil que las deficiencias, irregularidades o incumplimientos han sido subsanados, ésta no procederá, salvo que la normativa específica de aplicación al caso establezca otra cosa, al otorgamiento, revalidación, renovación o aceptación del correspondiente certificado, aprobación, autorización, licencia o habilitación.
+3. Las deficiencias, irregularidades o incumplimientos se entenderán subsanados, cuando se hayan adop tado las medidas que fueron requeridas o se hayan adoptado, previa autorización expresa de la Dirección General de Aviación Civil, medidas alternativas que garanticen un nivel de cumplimiento equivalente de la normativa aplicable.
+
+### Artículo 29 bis
+
+Artículo 29 bis. Prohibición de presentar nuevas declaraciones o comunicaciones habilitantes para la realización de actividades aeronáuticas civiles.
+1. En los procedimientos administrativos dirigidos a revocar las declaraciones o comunicaciones habilitantes para la realización de actividades aeronáuticas civiles, con exclusión de aquellos dirigidos al ejercicio de la potestad sancionadora, la Agencia Estatal de Seguridad Aérea podrá declarar la concurrencia de las circunstancias previstas en el apartado 4 del artículo 69 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+2. El acto administrativo que declare la concurrencia de alguna de las circunstancias a que se refiere el apartado anterior podrá determinar la imposibilidad de presentar, con el mismo objeto, una nueva declaración o comunicación habilitante para la realización de actividades aeronáuticas civiles durante un período de tiempo de hasta seis meses, determinado en atención de alguna de las siguientes circunstancias en relación con la actividad declarada o comunicada:
+a) La gravedad de los hechos constatados en el ejercicio de la potestad inspectora aeronáutica.
+b) La falta de subsanación por el afectado, cuando ello fuera posible, de los incumplimientos constatados en el ejercicio de la potestad inspectora aeronáutica.
+c) Haber presentado una nueva declaración o comunicación habilitante para la realización de actividades aeronáuticas civiles, sin haber subsanado las circunstancias que dieron lugar a la revocación de la anterior declaración o comunicación revocada.
+d) La potencial afectación a terceras personas que pudiera tener la continuación de la actividad aeronáutica por parte de la persona sobre la que se pretende establecer la medida.
+Se añade por el art. 2.8 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 30
+
+Artículo 30. Medidas extraordinarias.
+1. El Director General de Aviación Civil podrá acordar de oficio, como consecuencia de una denuncia o a propuesta motivada de los inspectores aeronáuticos, la inmovilización de una aeronave o la limitación o suspensión temporal de la eficacia de los certificados, aprobaciones, autorizaciones, licencias o habilitaciones previamente otorgados, cuando se hayan constatado irregularidades que afecten de forma cierta, grave e inmediata a la seguridad aérea.
+El acuerdo de inmovilización, de limitación y de suspensión se documentará por escrito. No obstante, cuando resulte preciso por causa de urgente necesidad, podrá adoptarse verbalmente, sin perjuicio de reflejar el acto y su motivación por escrito a la mayor brevedad posible y, en todo caso, en un plazo no superior a 72 horas, dando traslado del mismo a los interesados.
+2. Las medidas adoptadas deberán ser confirmadas o levantadas en el acuerdo de iniciación del procedimiento administrativo subsiguiente y, en todo caso, quedarán sin efecto tan pronto como desaparezcan las causas que dieron lugar a su imposición.
+3. Los gastos originados por tales medidas correrán a cargo de los titulares o explotadores de las aeronaves y de los servicios o actividades.
+
+### Artículo 31
+
+Artículo 31. Colaboración con la Unión Europea.
+Los órganos y unidades de la Dirección General de Aviación Civil y el personal que preste servicio en ellos prestarán la colaboración necesaria a las personas autorizadas por las instituciones de la Unión Europea o por la Agencia Europea de Seguridad Aérea para realizar inspecciones e investigaciones en territorio español.
+El Director General de Aviación Civil podrá requerir a las entidades y al personal colaborador a los que se refiere el artículo 26 para que, asimismo, presten con carácter obligatorio el auxilio que resulte necesario.
+
+## TÍTULO IV
+
+De las obligaciones por razones de seguridad
+
+### Artículo 32
+
+Artículo 32. Sujetos de las obligaciones por razones de seguridad.
+1. Están sujetos al cumplimiento de las obligaciones por razones de seguridad que en este título se establecen las siguientes personas y organizaciones:
+a) Personal aeronáutico.
+b) Escuelas de vuelo y centros de formación aeronáutica y aeroclubes.
+c) Entidades dedicadas al diseño, producción y mantenimiento de las aeronaves y productos aeronáuticos.
+d) Operadores aéreos.
+e) Compañías aéreas y empresas de trabajos aéreos.
+f) Proveedores de servicios de navegación aérea.
+g) Agentes y proveedores de servicios aeroportuarios.
+h) Gestores de los aeropuertos, aeródromos y demás instalaciones aeroportuarias.
+i) Pasajeros, otros usuarios de los servicios aeronáuticos.
+j) Entidades colaboradoras en materia de inspección aeronáutica.
+2. Asimismo están sujetas al cumplimiento de las obligaciones establecidas por razones de seguridad cualesquiera personas físicas o jurídicas cuyas acciones u omisiones, en los términos previstos en este título, puedan poner en riesgo la seguridad, regularidad o continuidad de las operaciones.
+Se modifica por el art. 53.4 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifica por el art. 53.4 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Artículo 33
+
+Artículo 33. Obligaciones generales.
+Todas las personas y organizaciones que se enumeran en el artículo anterior están sujetas a las siguientes obligaciones:
+1.ª Cumplir con la diligencia debida las normas, reglas, medidas y condiciones de seguridad requeridas en cada actividad u operación aeronáutica.
+2.ª Atender las órdenes, instrucciones y directrices adoptadas por las autoridades aeronáuticas en el ejercicio de sus funciones.
+3.ª Colaborar y facilitar el buen fin de las actuaciones de investigación e inspección aeronáuticas.
+4.ª Dar adecuado cumplimiento a los deberes legales de información a las autoridades aeronáuticas y a los órganos competentes en materia de aviación civil.
+5.ª Impartir a los pasajeros y demás usuarios de los servicios aeronáuticos las instrucciones y directrices sobre seguridad de las actividades y operaciones de aviación civil.
+6.ª Mantener adecuadamente los libros, cuadernos, manuales, certificados, registros y cualquier otra documentación legalmente exigida.
+7.ª Cumplir los deberes de comunicación a los órganos competentes en materia de aviación civil y, en particular, promover los procedimientos de inscripción y cancelación previstos en la normativa reguladora del Registro de Matrícula de Aeronaves.
+8.ª Realizar exclusivamente las actividades de aviación civil para las que se esté habilitado y, en su caso, designado y cumplir las condiciones establecidas en las normas que las regulen y las limitaciones y obligaciones que se determinen en el título que habilite para su desarrollo.
+9.ª Mantener las aeronaves, instalaciones, sistemas y equipos utilizados en las actividades de aviación civil, de acuerdo con lo establecido en la normativa de aplicación y abstenerse de realizar actos que obstaculicen o alteren su normal funcionamiento.
+10.ª Asegurar la continuidad en la prestación de los servicios que tengan la consideración de esenciales.
+11.ª Contratar y mantener en vigor los seguros aéreos legalmente obligatorios y constituir los depósitos, fianzas y otras garantías exigibles.
+12.ª Adoptar las debidas medidas para garantizar la seguridad de los pasajeros y demás usuarios de los servicios aeronáuticos, con especial atención a las personas con discapacidad, personas mayores y niños.
+13.ª Ejercer las funciones o desarrollar las actividades de las que sean responsables con respeto a los derechos de los usuarios, evitando cualquier forma de discriminación por razón de nacimiento, raza, género, religión, opinión o cualquier otra condición personal o social.
+14.ª Facilitar a los órganos y organismos públicos obligados por el Programa Estatal de Seguridad Operacional para la Aviación Civil la información relativa a su actividad que se les requiera en el marco de aquél y, en particular, la que permita determinar el grado de cumplimiento de los objetivos de seguridad operacional.
+15.ª Cumplir los compromisos adquiridos ante los organismos públicos obligados por el Programa Estatal de Seguridad Operacional para la Aviación Civil.
+16.ª Abstenerse de presentar, con el mismo objeto, una declaración o comunicación habilitante para la realización de actividades aeronáuticas civiles, por el tiempo en que este suspendido este derecho conforme a lo previsto en el artículo 29 bis.
+Se modifica la regla 8ª y se añade la 16ª por el art. 2.9 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se añaden los apartados 14 y 15 por el art. único.12 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 34
+
+Artículo 34. Obligaciones específicas del personal aeronáutico.
+Son obligaciones del personal aeronáutico las siguientes:
+1.ª Ejercer las funciones y realizar las actividades propias de cada clase de personal aeronáutico sólo cuando se esté en posesión de un título habilitante, válido y eficaz, para ello y cumplir las condiciones, limitaciones y obligaciones establecidas en el propio título y en la normativa que lo regule.
+2.ª Exhibir su título habilitante siempre que le sea requerido por las autoridades aeronáuticas y sus agentes, promover su renovación cuando vaya a expirar su vigencia y reintegrarlo al órgano administrativo responsable de su otorgamiento siempre que sea legalmente procedente.
+3.ª Atender en todo momento, con la diligencia y buena fe debidas, las responsabilidades derivadas del ejercicio de las funciones atribuidas o la realización de las actividades para las que esté habilitado, y, en su caso, designado.
+4.ª Abstenerse de ejercer dichas funciones y de realizar tales actividades en caso de disminución de la capacidad física o psíquica requerida. El personal de control al servicio de la Entidad Pública Empresarial «Aeropuertos Españoles y Navegación Aérea», que aprecie dicha circunstancia, deberá someterse de manera inmediata a reconocimiento por parte de los Servicios Médicos que facilite la Entidad, quienes verificarán la concurrencia de la misma, y determinarán si ello ha de dar lugar al apartamiento de su puesto de trabajo.
+A los efectos previstos en este apartado, el personal aeronáutico que participe en la operación con sistemas de aeronaves no tripuladas ("UAS") obligado a abstenerse de realizar sus tareas bajo los efectos del alcohol o sustancias psicoactivas, deberá someterse a las pruebas de alcoholemia y sustancias psicoactivas que les sean requeridas por las Fuerzas y Cuerpos de Seguridad en el ejercicio de las funciones atribuidas por la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, y sin perjuicio de las medidas que, en su caso, adopten los operadores o la Agencia Estatal de Seguridad Aérea.
+Se modifica la regla 3ª y se añade un párrafo a la 4ª por el art. 2.10 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifica el apartado 4 por la disposición adicional 2.2 del Real Decreto-ley 13/2010, de 3 de diciembre. Ref. BOE-A-2010-18651.
+
+### Artículo 35
+
+Artículo 35. Obligacionese específicas de las entidades de diseño, producción y mantenimiento de las aeronaves y productos aeronáuticos.
+Son obligaciones de las organizaciones dedicadas al diseño, producción y mantenimiento de las aeronaves, productos aeronáuticos y de piezas, equipos e instrumentos destinados a ser instalados en las aeronaves las siguientes:
+1.ª Disponer de los derechos, certificados, licencias o autorizaciones, válidos y eficaces, exigidos para la actividad que realicen.
+2.ª Cumplir las condiciones establecidas en las licencias o autorizaciones o en las normas reguladoras de su actividad.
+3.ª Asegurar la continuidad en la prestación de las actividades y servicios de los que son responsables con el nivel de seguridad exigido.
+
+### Artículo 36
+
+Artículo 36. Obligaciones específicas de los operadores aéreos.
+1. Quienes realicen operaciones de aviación general y deportiva, de transporte aéreo comercial y de trabajos aéreos están obligados en todo momento a:
+1.ª Abstenerse de operar aeronaves que no cumplan los requisitos de aeronavegabilidad legalmente exigidos y de realizar vuelos sin disponer de las autorizaciones preceptivas.
+2.ª Cumplir las directivas de aeronavegabilidad y las directivas operacionales de la autoridad aeronáutica o, en general, cualquier requisito exigido por dicha Autoridad en relación con la aeronavegabilidad y la operación de sus aeronaves.
+3.ª Seguir las reglas operacionales establecidas al realizar las operaciones de vuelo para las que estén habilitados.
+4.ª Efectuar las operaciones de despegue, aproximación y aterrizaje en los aeropuertos conforme a las normas en vigor y las reglas y condiciones determinadas por las autoridades competentes.
+5.ª Llevar a bordo la documentación requerida para la operación de la aeronave.
+6.ª Realizar el entrenamiento, verificaciones y cualificaciones del personal aeronáutico a su servicio y mantener los correspondientes registros por los períodos de tiempo establecidos.
+7.ª Programar los servicios de las tripulaciones de las aeronaves respetando las limitaciones de tiempos de actividad y tiempos de vuelo establecidas.
+8.ª Cumplir los deberes legalmente establecidos de formación de su personal en materia de seguridad operacional y de la aviación civil.
+2. Asimismo, los operadores a que se refiere el apartado anterior y, en general, las aeronaves de nacionalidad española que sobrevuelen el espacio aéreo de otro Estado signatario del Convenio Internacional de Aviación Civil están obligadas a respetar las reglas y reglamentos que rijan sobre vuelos y maniobras de aeronaves y a atender las instrucciones de interceptación dadas por las autoridades competentes de dicho Estado para poner fin a actos de violación de su espacio aéreo, de conformidad con lo previsto en el citado Convenio.
+La Agencia Estatal de Seguridad Aérea es competente para el control de lo previsto en este apartado cuando no se oponga a ello la normativa del Estado subyacente y dicho Estado no haya iniciado ningún procedimiento administrativo o judicial sobre los mismos hechos.
+Se modifica la regla 3ª del apartado 1 por el art. 2.11 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se numera la redacción existente como apartado 1 y se añade el apartado 2 por el art. único.13 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 37
+
+Artículo 37. Obligaciones específicas de las compañías aéreas y empresas de trabajos aéreos.
+1. Además de las que se establecen en el artículo anterior, son obligaciones de las compañías dedicadas al transporte aéreo comercial y de las empresas que realicen trabajos aéreos las siguientes:
+1.ª Disponer de los derechos, certificados, licencias o autorizaciones, válidos y eficaces, exigidos para la actividad que pretendan realizar.
+2.ª Cumplir las condiciones, excepciones y limitaciones impuestas en las licencias o autorizaciones o en las normas reguladoras de la prestación de servicios de transporte aéreo comercial y la realización de trabajos aéreos.
+3.ª Asegurar la continuidad en la prestación de estos servicios con el nivel de seguridad exigido.
+4.ª Cumplir los deberes legalmente establecidos de formación de su personal en materia de seguridad operacional y de la aviación civil.
+2. Las compañías dedicadas al transporte aéreo comercial están obligadas, además, a:
+1.ª Cumplir con las obligaciones establecidas para la protección de los derechos de los pasajeros en el Reglamento (CE) 261/2004, del Parlamento Europeo y del Consejo, de 11 de febrero de 2004, por el que se establecen normas comunes sobre compensación y asistencia a los pasajeros aéreos en caso de denegación de embarque y cancelación o gran retraso de los vuelos y en el Reglamento (CE) 1107/2006 del Parlamento Europeo y del Consejo, de 5 de julio de 2006, sobre los derechos de las personas con discapacidad o movilidad reducida en el transporte aéreo.
+2.ª Informar de las causas de la cancelación o el retraso del vuelo, así como de los derechos que asisten a los pasajeros afectados. Esta información, que deberá ser veraz y precisa, será ofrecida por las compañías de forma inmediata, sin necesidad de que les sea requerida por los pasajeros, tras tener conocimiento de las circunstancias que concurran.
+3. Las compañías aéreas con licencia española deberán disponer de un plan de asistencia a las víctimas y a sus familiares en caso de accidente aéreo de aviación civil en el plazo de seis meses desde la entrada en vigor del Reglamento (UE) n.º 996/2010 del Parlamento Europeo y del Consejo, de 20 de octubre de 2010, sobre investigación y prevención de accidentes e incidentes en la aviación civil y por el que se deroga la Directiva 94/56/CE, y ejecutarlo en caso de accidente. Reglamentariamente se establecerán las obligaciones mínimas de las compañías aéreas en la asistencia a las víctimas y a sus familiares, incluidas aquéllas que tengan contenido económico y, en atención a ellas, el contenido mínimo de este plan. En particular, este desarrollo atenderá a la política y orientaciones de los documentos de la Organización Internacional de Aviación Civil en esta materia.
+Este plan de asistencia será auditado por la Agencia Estatal de Seguridad Aérea, previo informe preceptivo del Ministerio del Interior.
+Se modifica el apartado 3 por la disposición final 5.1 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+ Se numera el texto existente como apartado 1 y se añaden los apartados 2 y 3 por el art. único.14 y 15 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 38
+
+Artículo 38. Obligaciones específicas de los proveedores civiles de servicios de gestión del tránsito aéreo/navegación aérea.
+Los que hayan sido habilitados y, en su caso, designados proveedores de servicios de gestión del tránsito aéreo/navegación aérea quedan sujetos a las siguientes obligaciones:
+1.ª Cumplir las condiciones y los requisitos exigidos para su habilitación y, en su caso, designación.
+2.ª Garantizar la continuidad de la prestación de los servicios con el nivel de seguridad exigido.
+3.ª Mantener adecuadamente los equipos e instalaciones del sistema de gestión del tránsito aéreo/navegación aérea, evitando su deterioro o la degradación de sus prestaciones.
+4.ª Cumplir los deberes legalmente establecidos de formación de su personal en materia de seguridad operacional y de la aviación civil.
+Se modifica por el art. 2.12 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 39
+
+Artículo 39. Obligaciones específicas de los agentes y proveedores de servicios aeroportuarios.
+Los agentes y proveedores de servicios aeroportuarios tienen las siguientes obligaciones:
+1.ª Disponer de un título jurídico válido y eficaz para prestar los servicios aeroportuarios en los aeropuertos de interés general.
+2.ª Cumplir y mantener las condiciones establecidas en el título al que se refiere el apartado anterior.
+3.ª Respetar las normas de seguridad, uso y funcionamiento del aeropuerto en el que presten servicios.
+4.ª Garantizar la prestación de los servicios con el nivel exigido de seguridad.
+5.ª Cumplir los deberes legalmente establecidos de formación de su personal en materia de seguridad operacional y de la aviación civil.
+
+### Artículo 40
+
+Artículo 40. Obligaciones de los gestores de aeropuertos, aeródromos y demás instalaciones aeroportuarias.
+Las personas físicas y jurídicas encargadas de la gestión de aeropuertos, aeródromos y demás instalaciones aeroportuarias están obligadas a:
+1.ª Asegurar la continuidad del uso en adecuadas condiciones de seguridad del aeropuerto, aeródromo o instalación aeroportuaria que gestionen.
+2.ª Cumplir las condiciones de seguridad exigidas en relación con el diseño, construcción, uso y funcionamiento del aeropuerto, aeródromo o instalación aeroportuaria que gestionen.
+3.ª Disponer de un plan de emergencia de protección civil en coordinación con los planes aprobados por los órganos competentes en dicha materia.
+4.ª Cumplir los deberes legalmente establecidos de formación de su personal en materia de seguridad operacional y de la aviación civil.
+
+### Artículo 41
+
+Artículo 41. Obligaciones específicas de los pasajeros y otros usuarios de los servicios aeronáuticos.
+Los pasajeros y cualesquiera otras personas físicas y jurídicas usuarias de servicios aeronáuticos están sujetos a las obligaciones siguientes:
+1.ª Cumplir las normas, reglas, medidas y condiciones de seguridad en vigor tanto a bordo de las aeronaves como en los aeropuertos, aeródromos y demás instalaciones aeroportuarias.
+2.ª Atender las órdenes, instrucciones y directrices de las autoridades aeroportuarias y del personal aeronáutico dirigidas a preservar el orden y la seguridad de las actividades u operaciones aeronáuticas.
+
+### Artículo 42
+
+Artículo 42. Obligaciones específicas de las entidades colaboradoras en materia de inspección aeronáutica.
+Las personas físicas y jurídicas autorizadas para realizar funciones de inspección aeronáutica de acuerdo con las directrices y bajo la supervisión de la Dirección General de Aviación Civil, tienen las siguientes obligaciones:
+1.ª Ejercer con objetividad e imparcialidad las facultades otorgadas en la autorización, mientras ésta sea válida y eficaz.
+2.ª Atenerse a las condiciones, limitaciones y obligaciones establecidas en las autorizaciones de las que sean titulares y en la normativa que las regule.
+3.ª Cumplir los planes aprobados y las directrices impartidas por la Dirección General de Aviación Civil.
+
+### Artículo 42 bis
+
+Artículo 42 bis. Obligaciones específicas en relación con los riesgos a la seguridad, regularidad o continuidad de las operaciones.
+Los sujetos a que se refiere el artículo 32 están obligados a:
+Abstenerse, en el interior o exterior del recinto aeroportuario, incluso fuera del ámbito de protección de las servidumbres aeronáuticas establecidas cualesquiera, de realizar cualesquiera actos o actividades o de usar elementos, objetos o luces, incluidos proyectores o emisores láser, que puedan inducir a confusión o error, interferir o poner en riesgo la seguridad o regularidad de las operaciones aeronáuticas.
+Se añade por el art. 53.5 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se añade por el art. 53.5 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+## TÍTULO V
+
+De las infracciones y sanciones
+
+## CAPÍTULO I
+
+De las infracciones
+
+### Artículo 43
+
+Artículo 43. Concepto y clases de infracciones.
+1. Constituyen infracciones administrativas en materia de aviación civil las acciones u omisiones que se tipifican como tales en esta ley.
+2. Las infracciones administrativas tipificadas en esta ley podrán ser leves, graves y muy graves, de conformidad con lo que se establece en los artículos siguientes. Sólo podrán ser sancionadas las personas físicas o jurídicas que resulten responsables de los hechos constitutivos de infracción aún a título de simple inobservancia.
+
+### Artículo 44
+
+Artículo 44. Infracciones contra la seguridad de la aviación civil.
+1. El incumplimiento de las obligaciones establecidas en el título IV de esta ley por los sujetos que en cada caso estén sometidos a ellas constituirá infracción leve, salvo que constituya una infracción de las tipificadas en los artículos siguientes en este capítulo, o se produzca alguna circunstancia especial de las previstas en los apartados siguientes en este artículo, que lo califique como infracción grave o muy grave.
+2. El incumplimiento de las obligaciones establecidas en el título IV de esta ley constituirá infracción grave cuando se dé alguna de las siguientes circunstancias calificativas:
+a) Se haya causado un incidente grave en la aviación tripulada.
+b) Se hayan producido lesiones graves a las personas, con arreglo a lo dispuesto en el Código Penal, o determinantes de baja para la actividad laboral por período superior a siete días o incapacidad laboral.
+c) Se hayan originado daños y perjuicios a bienes y derechos que, valorados de forma individual para cada uno de los sujetos afectados, alcancen una cuantía comprendida entre 5.000 y 15.000 euros.
+d) Se hayan ocasionado retrasos no justificados por tiempo superior a cuatro horas en la prestación de los servicios aeronáuticos.
+3. El incumplimiento de las obligaciones establecidas en el título IV de esta ley constituirá infracción muy grave cuando concurra alguna de las siguientes circunstancias calificativas:
+a) Se haya causado un accidente en la aviación tripulada.
+b) Se haya causado la muerte de una persona.
+c) Se hayan originado daños y perjuicios a bienes y derechos que valorados de forma individual para cada uno de los sujetos afectados alcancen una cuantía superior a 15.000 euros.
+d) Se haya causado la suspensión no justificada de la prestación de los servicios aeronáuticos.
+Se modifica la letra a) de los apartados 2 y 3 por el art. 2.13 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 45
+
+Artículo 45. Infracciones en relación con el transporte y los trabajos aéreos.
+1. Constituyen infracciones leves en relación con el transporte y los trabajos aéreos las acciones y omisiones siguientes:
+1.ª La utilización por las compañías aéreas o por las empresas de trabajos aéreos de aeronaves operadas por otras compañías o empresas o la cesión a éstas de aeronaves propias, sin previa comunicación, cuando sea preceptiva, a los órganos administrativos competentes.
+2.ª La falta de información a los pasajeros sobre la identidad de la compañía operadora o la información deficiente sobre las normas de embarque o los medios de compensación en caso de denegación del embarque.
+3.ª El incumplimiento del deber de traslado del equipaje facturado o de la obligación de expedir el talón o documento acreditativo de la facturación de dicho equipaje.
+4.ª La no inclusión en el contrato de transporte de las cláusulas relativas al régimen de responsabilidad del transportista en caso de accidente o el incumplimiento de la obligación de informar, de forma clara y precisa, a los pasajeros y a otras personas interesadas sobre dicho régimen.
+5.ª La privación a los interesados de la información legalmente debida sobre los servicios de transporte aéreo ofertados por las compañías aéreas en los sistemas informatizados de reserva.
+6.ª El trato manifiestamente desconsiderado por parte del personal de la empresa prestadora a los pasajeros de los servicios de transporte aéreo.
+7.ª La no adopción por las compañías aéreas de las medidas necesarias para que los precios y condiciones de sus tarifas y fletes sean conocidos de forma clara por los usuarios.
+2. Constituyen infracciones graves en materia de transporte y trabajos aéreos las acciones y omisiones siguientes:
+1.ª La utilización por compañías aéreas, o por empresas de trabajos aéreos, de aeronaves operadas por otras compañías o empresas o la cesión a éstas de aeronaves propias, sin autorización de los órganos administrativos competentes cuando sea preceptiva o contraviniendo las condiciones establecidas en la autorización.
+2.ª El incumplimiento por parte de las compañías aéreas de la obligación de facilitar a la autoridad aeronáutica en los términos legalmente establecidos la información sobre los cambios en la propiedad de las acciones y del personal directivo, así como la información exigida para evaluar su situación económica, financiera o contable o cualquier procedimiento que afecte a su solvencia económica.
+3.ª El incumplimiento por parte de las compañías aéreas del deber de someter a la autoridad aeronáutica la suspensión de sus operaciones y de informar, con la antelación debida, del retraso en el inicio de las mismas.
+4.ª La realización de servicios aéreos internacionales, de ámbito extracomunitario, contraviniendo las condiciones establecidas en la correspondiente autorización en relación con la ruta, el número de frecuencias, capacidad y categorías de tráfico, o bajo modalidades operativas, tales como código compartido y franquicias, sin haber obtenido la correspondiente autorización.
+5.ª La falta de información por parte de la compañía aérea, de sus agentes o abonados de los cambios de aeronave en ruta, del número de escalas previstas, de la identidad de la compañía aérea que efectúa el vuelo y de cualquier cambio de aeropuerto, salvo que sea imputable a terceros.
+6.ª El incumplimiento de la obligación de establecer normas de embarque de pasajeros o de hacer efectivos sin justificación los derechos e intereses de estos en caso de denegación de embarque.
+7.ª El incumplimiento por parte de las compañías aéreas de la prohibición de aplicar una determinada tarifa, de la obligación de retirar una tarifa básica o de la prohibición de introducir reducciones a las tarifas establecidas.
+8.ª No facilitar la información requerida por las autoridades aeronáuticas en relación con una determinada tarifa aérea o proporcionar dicha información de forma incompleta o incorrecta.
+9.ª La no presentación en tiempo y forma, para su registro, de las tarifas de los servicios aéreos internacionales, cuando sea obligado hacerlo o la aplicación de tarifas diferentes a las registradas.
+10.ª La no aplicación por las compañías aéreas o sus agentes de las bonificaciones establecidas respecto de una tarifa aérea cuando los solicitantes de las mismas cumplan los requisitos exigidos y la omisión del deber de comprobar la identidad de los beneficiarios de las bonificaciones aplicadas.
+3. Constituyen infracciones muy graves en materia de transporte y trabajos aéreos las acciones y omisiones siguientes:
+1.ª El incumplimiento de las condiciones establecidas para la prestación de servicios de transporte aéreo sujetos a obligaciones de servicio público.
+2.ª La realización de servicios aéreos internacionales, de ámbito extracomunitario, sin disponer de los derechos de tráfico necesarios.
+3.ª El incumplimiento de la prohibición de realizar tráfico de cabotaje por las compañías aéreas extranjeras no comunitarias.
+4.ª Introducirse o viajar clandestinamente en una aeronave, así como cooperar para que lo anterior pueda ser realizado.
+5.ª La denegación injustificada del libre acceso del público a los servicios de transporte aéreo.
+
+### Artículo 45 bis
+
+Artículo 45 bis. Infracciones en relación con la asistencia y compensación a los pasajeros.
+1. Constituye infracción grave el incumplimiento de las decisiones emitidas por la Agencia Estatal de Seguridad Aérea en relación con las reclamaciones de los pasajeros formuladas al amparo del Reglamento (CE) 261/2004, del Parlamento y del Consejo, de 11 de febrero de 2004, por el que se establecen normas comunes sobre compensación y asistencia a los pasajeros aéreos en caso de denegación de embarque y de cancelación o gran retraso de los vuelos.
+A los efectos de aplicar lo dispuesto en este apartado, se considera que se ha producido un incumplimiento cuando, pasados tres meses desde la fecha de la notificación de la decisión emitida por la Agencia Estatal de Seguridad Aérea, no se hubieran llevado a cabo las acciones necesarias para su cumplimiento.
+2. Constituye infracción leve el cumplimiento tardío o defectuoso de las decisiones emitidas por la Agencia Estatal de Seguridad Aérea en relación con las reclamaciones de los pasajeros formuladas al amparo del Reglamento (CE) 261/2004, del Parlamento y del Consejo, de 11 de febrero de 2004, por el que se establecen normas comunes sobre compensación y asistencia a los pasajeros aéreos en caso de denegación de embarque y de cancelación o gran retraso de los vuelos.
+A estos efectos se considera que el cumplimiento es tardío cuando el mismo se efectuase en el período comprendido entre uno y tres meses desde la fecha de notificación de la decisión emitida por la Agencia Estatal de Seguridad Aérea.
+Se modifica por el art. 2.14 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se añade por la disposición final 3.1 de la Ley 3/2020, de 18 de septiembre. Ref. BOE-A-2020-10923#df-3
+
+### Artículo 45 ter
+
+Artículo 45 ter. Infracciones en relación con la utilización de sistemas de aeronaves no tripuladas (‘‘UAS’’).
+1. Constituyen infracciones leves en materia de utilización de sistemas de aeronaves no tripuladas, en adelante ‘‘UAS’’, las acciones y omisiones siguientes:
+a) En materia de registro de operadores de UAS:
+1.ª No estar inscrito como operador de UAS en el correspondiente registro, cuando ello sea exigible de acuerdo con la normativa aplicable;
+2.ª Registrarse en un Estado miembro distinto del de residencia, en el caso de operadores de UAS que sean personas físicas, o de aquél en que tengan su centro de actividad principal, si se trata de personas jurídicas;
+3.ª Suministrar o mantener información inexacta o incompleta en el registro del operador de UAS; o
+4.ª Estar registrado en más de un Estado miembro a la vez.
+b) En materia de identificación de aeronaves no tripuladas:
+1.ª No haber incorporado el número de registro digital único en las aeronaves no tripuladas;
+2.ª No tener activo el accesorio o sistema de identificación directa a distancia, cuando sea exigible para la operación con la aeronave no tripulada; o
+3.ª No indicar el número de registro del operador de UAS, cuando el operador de UAS esté obligado a registrarse.
+c) En materia de operaciones de aeronaves no tripuladas:
+1.ª Operar UAS en la categoría abierta incumpliendo los requisitos o limitaciones operacionales aplicables;
+2.ª Operar UAS en la categoría específica incumpliendo los requisitos o limitaciones operacionales aplicables, o excediendo el alcance o las obligaciones, según proceda, de:
+i) La declaración operacional, incluida la no sujeción a los escenarios estándar de que se trate;
+ii) El certificado de operador de UAS ligeros (‘‘LUC’’);
+iii) La autorización operacional; o
+iv) La autorización de operaciones de UAS en el marco de clubes y asociaciones de aeromodelismo.
+3.ª Operar UAS en la categoría específica utilizando aeronaves no tripuladas que no aparezcan en la declaración operacional, en la autorización operacional o en el certificado de operador de UAS ligeros (‘‘LUC’’).
+4.ª Operar UAS en las categorías específica o certificada incumpliendo las limitaciones o requisitos operacionales aplicables a estas categorías o los requisitos o normas de la reglamentación del aire que les resulten aplicables.
+5.ª Operar UAS en la categoría específica, total o parcialmente en el espacio aéreo sujeto a soberanía española, cuando el operador de UAS esté registrado en otro Estado miembro, incumpliendo los requisitos específicos para la realización de operaciones transfronterizas o fuera del Estado de registro.
+6.ª Operar UAS en una zona geográfica de UAS, cualquiera que sea su naturaleza o denominación, incumpliendo las prohibiciones, limitaciones, condiciones o requisitos establecidos al efecto, incluida la falta de permiso expreso del titular o administrador de la construcción, edificio o infraestructura cuando este sea exigible y el incumplimiento del deber de coordinación o de las medidas acordadas a este efecto, cuando sea exigible conforme a la normativa de aplicación.
+d) En materia de formación de pilotos a distancia:
+1.ª Impartir formación sin haber presentado con anterioridad la comunicación previa, declaración responsable o sin haber obtenido previamente la autorización de conformidad con el medio de intervención exigido por la normativa aplicable;
+2.ª El incumplimiento por las entidades habilitadas para la formación de pilotos a distancia de los requisitos contenidos en la comunicación previa, declaración responsable o los establecidos en la autorización que les faculte para el ejercicio de la actividad, de conformidad con el medio de intervención exigido por la normativa aplicable.
+e) En materia de coordinación de operaciones UAS, el incumplimiento por el gestor de la infraestructura aeroportuaria o por el proveedor de servicios de tránsito aéreo del deber de coordinarse con el operador de UAS o no justificar su denegación.
+2. Constituyen infracciones administrativas graves las infracciones tipificadas como leves en este artículo cuando concurra alguna de las circunstancias establecidas en el artículo 44.2.
+3. Constituyen infracciones administrativas muy graves las infracciones tipificadas como leves en este artículo, cuando concurra alguna de las circunstancias establecidas en el artículo 44.3.
+Se añade por el art. 2.15 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 46
+
+Artículo 46. Infracciones relativas al transporte de mercancías peligrosas o sujetas a normas especiales por vía aérea.
+1. Constituyen infracciones administrativas leves relativas al transporte de mercancías peligrosas o sujetas a normas especiales por vía aérea las siguientes:
+1.ª El incumplimiento de las condiciones establecidas en la dispensa o aprobación especial para transportar las mercancías de forma distinta a la establecida en la reglamentación sobre mercancías peligrosas o en las normas especiales.
+2.ª La no inclusión en los documentos de acompañamiento de alguno de los datos que reglamentariamente deben figurar en ellos o la indicación inadecuada de los mismos.
+3.ª El incumplimiento de las condiciones de aislamiento y estiba de la carga reglamentariamente establecidas.
+4.ª El transporte de pasajeros en aeronaves que transporten mercancías peligrosas o sujetas a normas especiales fuera de los supuestos en que las normas reguladoras de esta clase de transportes lo permitan.
+5.ª El incumplimiento del deber de proporcionar a los trabajadores la formación reglamentariamente establecida.
+6.ª La aceptación para el transporte por vía aérea de mercancías peligrosas o sujetas a normas especiales sin disponer de la autorización administrativa que sea preceptiva.
+7.ª El error u omisión en la documentación, o la falta de documentación de la mercancía peligrosa, que no afecte a las condiciones de transporte de esta.
+8.ª La omisión del etiquetado, del marcado, o de cualquier otra señalización exigible por la reglamentación.
+9.ª El incumplimiento de las limitaciones de las cantidades a transportar.
+10.ª La utilización de envases o embalajes no homologados, gravemente deteriorados, que presenten fugas o que carezcan de alguno de los requisitos técnicos exigidos.
+11.ª El incumplimiento de las normas de embalaje en común en un mismo bulto.
+12.ª El incumplimiento de las normas sobre instrucciones de embalaje.
+13.ª El incumplimiento de la prohibición de fumar en la proximidad de las aeronaves que transporten mercancías peligrosas o sujetas a normas especiales, siempre que se hayan adoptado las medidas adecuadas para que sea posible conocer su existencia.
+14.ª No llevar en la aeronave las instrucciones escritas para casos de accidente o incidente grave.
+15.ª La no adopción de las medidas de seguridad y protección establecidas para los casos de accidente o incidente grave, excepto en caso de imposibilidad.
+16.ª La ocultación, no declaración o declaración falsa de una mercancía peligrosa para su transporte por vía aérea que no haya causado riesgo para la seguridad aérea.
+2. Constituye infracción administrativa grave:
+1.ª El incumplimiento importante de las condiciones esenciales establecidas en la dispensa o aprobación especial para transportar las mercancías de forma distinta a la establecida en la reglamentación sobre mercancías peligrosas o en las normas especiales.
+2.ª La no inclusión en los documentos de acompañamiento de alguno de los datos que reglamentariamente deben figurar en ellos o la indicación inadecuada de los mismos, cuando dicha omisión o irregularidad sea determinante de un riesgo para la seguridad o de error en cuanto a la naturaleza de la carga transportada.
+3.ª La indicación inadecuada en los documentos de transporte de la mercancía peligrosa o sujeta a norma especial transportada, cuando afecte a las condiciones de transporte.
+4.ª El incumplimiento de las condiciones o prohibiciones de segregación o separación de la carga reglamentariamente establecidas.
+5.ª El transporte de mercancías peligrosas o sujetas a normas especiales, en condiciones distintas a las fijadas por la reglamentación de este transporte, sin la correspondiente dispensa o aprobación especial.
+6.ª El transporte de mercancías prohibidas en las instrucciones técnicas para el transporte sin riesgos de mercancías peligrosas por vía aérea, sin las dispensas reglamentarias.
+7.ª El transporte de mercancías peligrosas en aeronaves que transporten pasajeros, cuando las normas reguladoras solo permitan el transporte de dicha mercancía peligrosa en aeronaves de carga.
+8.ª La ocultación, no declaración o declaración falsa de una mercancía peligrosa para su transporte por vía aérea que haya causado un suceso. A estos efectos, se entiende por suceso el definido en el artículo 2 número 7 del Reglamento (UE) n.º 376/2014 del Parlamento Europeo y del Consejo, de 3 de abril de 2014, relativo a la notificación, análisis y seguimiento de sucesos en la aviación civil, que modifica el Reglamento (UE) n.º 996/2010 del Parlamento Europeo y del Consejo, y por el que se derogan la Directiva 2003/42/CE del Parlamento Europeo y del Consejo y los Reglamentos (CE) n.º 1321/2007 y (CE) n.º 1330/2007 de la Comisión, y normas concordantes.
+9.ª Las infracciones tipificadas como leves en el apartado 1, cuando concurra alguna de las circunstancias establecidas en el artículo 44.2.
+3. Constituyen infracción administrativa muy grave, las infracciones tipificadas como leves o graves en los apartados precedentes, cuando concurra alguna de las circunstancias establecidas en el artículo 44.3.
+Se modifica por el art. 2.16 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 47
+
+Artículo 47. Infracciones relativas a la disciplina del tráfico aéreo en materia de ruido.
+1. Constituyen infracciones administrativas leves de los procedimientos de disciplina del tráfico aéreo en materia de ruido las siguientes:
+1.ª El incumplimiento de las restricciones a la utilización de reversa o de los métodos de abatimiento del ruido en función de las actuaciones del avión establecidos en los procedimientos de disciplina de tráfico aéreo en materia de ruido.
+2.ª La utilización de las unidades auxiliares de suministro de energía a las aeronaves (APU) incumpliendo lo dispuesto en dichos procedimientos.
+2. Constituyen infracciones administrativas graves las siguientes:
+1.ª El incumplimiento de las restricciones temporales para las operaciones de aterrizaje o despegue o de las restricciones para la operación de aeronaves por su categoría acústica o nivel de ruido establecidas.
+2.ª La ejecución de rutas de llegada o salida no autorizadas o la realización de cualquier maniobra, no justificada por razones de seguridad, meteorológicas o de fuerza mayor, superando la desviación máxima permitida respecto a la ruta de servicio de tránsito aéreo (ruta ATS) definida para dicha maniobra, en los procedimientos de disciplina del tráfico aéreo en materia de ruido.
+3.ª La superación de los niveles máximos de ruido definidos en las trayectorias y puntos establecidos en dichos procedimientos.
+4.ª El incumplimiento de las normas sobre limitación del uso de aviones de reacción subsónicos.
+3. Constituyen infracciones administrativas muy graves las siguientes:
+1.ª El incumplimiento de las restricciones de sobrevuelo o de altitud en las zonas de especial sensibilidad acústica definidas en los correspondientes procedimientos de disciplina de tráfico aéreo en materia de ruido.
+2.ª El incumplimiento de las normas sobre limitación del uso de aviones de reacción subsónicos durante los períodos de restricción temporal.
+
+### Artículo 47 bis
+
+Artículo 47 bis. Infracciones en materia de servidumbres aeronáuticas no acústicas y otras medidas de protección de la navegación aérea.
+1. Constituyen infracciones administrativas leves en materia de servidumbres aeronáuticas no acústicas y las medidas de protección de la navegación aérea frente a los obstáculos y las actividades que puedan suponer un peligro para la seguridad, las siguientes:
+a) La realización de construcciones, instalaciones o plantaciones ubicadas en los espacios y zonas afectados por las servidumbres aeronáuticas legalmente establecidas que no cuenten con el previo y preceptivo acuerdo favorable en materia de servidumbres aeronáuticas o que habiéndose otorgado se incumpla.
+b) La generación de cualquier obstáculo situado fuera de las servidumbres aeronáuticas legalmente establecidas de altura igual o superior a cien metros con respecto al nivel de terreno o agua circundante, cuando no cuente con el previo y preceptivo acuerdo favorable en materia de servidumbres aeronáuticas o, habiéndose otorgado, se incumpla.
+c) La realización de actividades no permitidas o que incumplan las limitaciones, condiciones u obligaciones establecidas por razón de las servidumbres aeronáuticas u otras medidas de protección de la navegación aérea, conforme a lo previsto en la Ley 48/1960, de 21 de julio, y sus disposiciones de desarrollo.
+2. Constituyen infracciones administrativas graves, las siguientes actuaciones cuando hubiesen requerido la aplicación de medidas de mitigación de riesgos a fin de no comprometer la seguridad o la regularidad de las operaciones de las aeronaves o, en su caso, el correcto funcionamiento de las instalaciones para la navegación aérea:
+a) La realización de construcciones, instalaciones o plantaciones en los espacios y zonas afectados por las servidumbres aeronáuticas legalmente establecidas cuando no cuenten con el previo y preceptivo acuerdo favorable en materia de servidumbres aeronáuticas o incumplan el mismo.
+b) La generación de cualquier obstáculo situado fuera de las servidumbres aeronáuticas legalmente establecidas que se eleve a una altura de cien metros o superior con respecto al nivel de terreno o agua circundante, no contando con el previo y preceptivo acuerdo favorable en materia de servidumbres aeronáuticas o incumpliendo el mismo.
+c) La realización de actividades no permitidas por razón de las servidumbres aeronáuticas u otras medidas de protección de la navegación aérea, conforme a lo previsto en la Ley 48/1960, de 21 de julio.
+3. Constituyen infracciones administrativas muy graves cuando, además de lo expuesto en los apartados 1 y 2, se hubiese ocasionado un suceso, entendiendo por tal el referido en el artículo 46.2, regla 8.ª; hubiese quedado afectada la regularidad de las operaciones de aeronaves o, en su caso, el correcto funcionamiento de las instalaciones para la navegación aérea.
+Se añade por el art. 2.17 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 47 ter
+
+Artículo 47 ter. Infracciones en relación con la sostenibilidad del transporte aéreo.
+1. En el marco de lo dispuesto en el Reglamento (UE) 2023/2405 del Parlamento Europeo y del Consejo, de 18 de octubre de 2023, relativo a la garantía de unas condiciones de competencia equitativas para un transporte aéreo sostenible (en lo sucesivo, "ReFuelEU Aviation"), y conforme a lo que resulte en aplicación de sus disposiciones, constituyen infracciones administrativas en materia de sostenibilidad del transporte aéreo las establecidas en este artículo.
+2. Son infracciones leves las acciones u omisiones siguientes:
+a) En relación con los operadores de aeronaves obligados conforme a lo previsto en el ReFuelEU Aviation, y de los que el Reino de España sea responsable de su supervisión y ejecución para el cumplimiento del citado reglamento:
+1.º El retraso injustificado en el cumplimiento de las obligaciones de información exigibles conforme a dicho reglamento o el retraso en proporcionar la información necesaria para demostrar que cumple con sus obligaciones cuando le sea requerida por los órganos competentes en materia de aviación civil, salvo que constituya una infracción grave.
+2.º El incumplimiento de la obligación de que la información haya sido verificada de conformidad con lo previsto en el Reglamento ReFuelEU Aviation.
+b) En relación con las entidades gestoras de aeropuertos obligados conforme a lo previsto en ReFuelEU Aviation:
+1.º El incumplimiento del plazo para la adopción de las medidas necesarias para subsanar la falta de acceso adecuado de los operadores de aeronaves a los combustibles de aviación sostenibles.
+2.º El retraso injustificado en facilitar la información necesaria para demostrar que cumple con sus obligaciones cuando le haya sido previamente requerida por los órganos competentes en materia de aviación civil.
+3. Son infracciones graves las acciones u omisiones siguientes:
+a) En relación con los operadores de aeronaves obligados conforme a lo previsto en el ReFuelEU Aviation y de los que el Reino de España sea responsable de su supervisión y ejecución para el cumplimiento del citado reglamento:
+1.º El incumplimiento injustificado de las obligaciones de repostaje de combustible de aviación exigibles, conforme a lo previsto en dicho reglamento y en su normativa de desarrollo, en aquellos aeropuertos en que este resulte aplicable.
+2.º El incumplimiento de la obligación de comunicación de la información exigible conforme a dicho reglamento, cuando le haya sido previamente requerida por los órganos competentes en materia de aviación civil.
+3.º El cumplimiento defectuoso de las obligaciones de suministrar información conforme a dicho reglamento, o de la obligación de proporcionar la información necesaria para demostrar el cumplimiento de sus obligaciones cuando le haya sido previamente requerida por los órganos competentes en materia de aviación civil.
+A estos efectos, se entenderá que el cumplimiento es defectuoso cuando la información facilitada sea insuficiente para alcanzar el fin para el que fue requerida.
+b) En relación con las entidades gestoras de aeropuertos obligados conforme a lo previsto en ReFuelEU Aviation:
+1.º La no adopción de las medidas necesarias y suficientes para subsanar la falta de acceso adecuado de los operadores de aeronaves a los combustibles de aviación sostenibles.
+2.º No facilitar la información necesaria para demostrar el cumplimiento de sus obligaciones cuando le haya sido previamente requerida por los órganos competentes en materia de aviación civil.
+Se añade por el art. 2.18 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 48
+
+Artículo 48. Infracciones en relación con el funcionamiento y uso de los aeropuertos.
+1. Constituye infracción administrativa leve en relación con el funcionamiento y uso de los aeropuertos de interés general la siguiente:
+Cualquier actuación u omisión imprudente al realizar actividades, operaciones y maniobras en la zona de servicio, que no haya causado daños o menoscabo relevantes, pero haya puesto en peligro obras, instalaciones, equipos, mercancías, contenedores y medios de transporte aéreos o terrestres situados en dicha zona o a las actividades aeroportuarias que en la misma se ejecuten.
+2. Constituyen infracciones administrativas graves en relación con el funcionamiento y uso de los aeropuertos de interés general las siguientes:
+1.ª Los actos u omisiones culposos que causen daños o menoscabo a las obras, instalaciones, equipos, mercancías, contenedores y medios de transporte situados en la zona de servicio o a las actividades aeroportuarias que se ejecuten en la misma.
+2.ª El incumplimiento de las normas de identificación personal de quienes desempeñen funciones en la zona de servicio.
+3.ª El incumplimiento de las reglas de contabilidad establecidas en relación con la gestión de las instalaciones y sistemas y la prestación de servicios aeroportuarios.
+3. Constituyen infracciones administrativas muy graves en relación con el funcionamiento y uso de los aeropuertos de interés general las siguientes:
+1.ª Los actos u omisiones dolosos que causen daños o menoscabo a las obras, instalaciones, equipos, mercancías, contenedores y medios de transporte situados en la zona de servicio o a las actividades aeroportuarias que se ejecuten en la misma.
+2.ª El acceso no autorizado a la zona de operaciones y a las zonas restringidas de los aeropuertos.
+Se deroga el apartado 4 por la disposición derogatoria única.e) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 48 bis
+
+Artículo 48 bis. Infracciones en relación con control del tránsito aéreo.
+1. Constituyen infracciones administrativas muy graves en relación con el control del tránsito aéreo las siguientes conductas realizadas por los controladores de tránsito aéreo:
+1.ª Simular enfermedad o disminución de la capacidad psicofísica o dificultar o negarse a realizar los controles médicos a los que hace referencia el apartado 4 del artículo 34.
+2.ª Dificultar, retrasar o negarse a realizar las labores de formación o instrucción que sean establecidas por el proveedor de servicios de tránsito aéreo en el ejercicio de su poder de organización y dirección.
+3.ª Dificultar, retrasar o negarse a recibir la formación o instrucción que haya sido establecida por el proveedor de servicios de tránsito aéreo en el ejercicio de su poder de organización y dirección.
+4.ª Dificultar, retrasar o negarse a realizar las pruebas o exámenes de aptitud física, psíquica o de competencia lingüística que establezca el proveedor de servicios de tránsito aéreo, en la forma y los plazos que éste estime pertinentes para garantizar la eficacia, continuidad y seguridad del servicio.
+5.ª Obstaculizar o impedir las pruebas de calidad o auditorías que realice tanto el proveedor de servicios de tránsito aéreo como la Autoridad Nacional de Supervisión.
+6.ª La falta de asistencia injustificada al puesto de trabajo, el abandono del mismo sin autorización del proveedor de servicios de tránsito aéreo, así como la no atención injustificada al servicio de imaginaria que tenga programado cuando fuera convocado por dicho proveedor.
+7.ª En los supuestos de cambio de proveedor de tránsito aéreo, dificultar, obstaculizar o negarse a prestar la debida colaboración y a suministrar la formación e instrucción así como la información necesaria para que dicho cambio se produzca con garantías de seguridad, eficacia y continuidad.
+2. Además de las sanciones y las medidas indemnizatorias que correspondan conforme a lo señalado en los artículos 55 y 57, las infracciones previstas en el apartado anterior llevarán aparejada en todo caso la sanción accesoria de pérdida definitiva de la licencia de control de tránsito aéreo de que sea titular el responsable de la infracción.
+3. Tanto los proveedores de servicio de navegación aérea como la Autoridad Aeronáutica tendrán pleno acceso a las grabaciones y comunicaciones relativas al control del tránsito aéreo en orden a poder controlar, supervisar, auditar e inspeccionar la prestación del servicio, así como para realizar el estudio o análisis de los posibles incidentes producidos.
+Los proveedores de tránsito aéreo y la Autoridad Aeronáutica establecerán los mecanismos necesarios para preservar la confidencialidad de las comunicaciones, no pudiendo difundir ninguno de los datos, grabaciones o comunicaciones que hayan obtenido en aplicación de lo establecido en este apartado, y cumpliendo con lo dispuesto en el Reglamento (UE) n.º 996/2010, del Parlamento Europeo y del Consejo, de 20 de octubre de 2010.
+Asimismo, la información sobre seguridad operacional facilitada voluntariamente en el marco del Programa Estatal de Seguridad Operacional para la Aviación Civil, tendrá la protección prevista en los artículos 11.1, párrafo final, y 12.
+Se añade por el art. único.16 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 48 ter
+
+Artículo 48 ter. Infracciones en relación con la gestión de afluencia de tránsito aéreo (ATFM).
+1. En el marco del Reglamento (UE) n.º 255/2010 de la Comisión, de 25 de marzo de 2010, por el que se establecen normas comunes sobre la gestión de afluencia del tránsito aéreo (en el resto del artículo, el Reglamento), constituyen infracciones administrativas en materia de gestión de afluencia del tránsito aéreo (en adelante ATFM) las establecidas en este artículo.
+2. Son infracciones leves las acciones u omisiones siguientes:
+a) En relación con los proveedores de servicios de tránsito aéreo:
+1.ª La falta de coordinación de las unidades de los servicios de tránsito aéreo (en adelante, ATS), mediante la unidad ATFM local, con la unidad central ATFM cuando deban aplicarse medidas ATFM.
+2.ª La omisión por parte de las oficinas de notificación ATS, del intercambio de información entre pilotos u operadores y la unidad local o central ATFM, cuando así proceda.
+3.ª La falta de coordinación, por parte de las unidades ATS con el gestor del aeropuerto de que se trate, de las medidas ATFM aplicadas a los aeropuertos.
+4.ª La falta de notificación por las unidades ATS a la unidad central ATFM, por medio de la unidad local ATFM, de todas las incidencias que puedan afectar a la capacidad de control de tránsito aéreo o a la demanda de tránsito aéreo.
+5.ª La falta de información con los niveles de calidad requeridos o su suministro en tiempo o forma indebidos, por parte de las unidades ATS a la unidad central ATFM, de los siguientes datos y sus actualizaciones posteriores:
+i. Disponibilidad del espacio aéreo en los sectores de control de tránsito aéreo (en adelante, ATC) y estructuras de las rutas definidas permanentes;
+ii. configuraciones y activaciones de sector de la unidad ATS;
+iii. tiempos de rodaje en el aeródromo;
+iv. capacidades del sector de control del tránsito aéreo y del aeropuerto, en lo que se refiere a los valores de capacidad ATC;
+v. disponibilidad de ruta en aplicación de la utilización flexible del espacio aéreo con arreglo al Reglamento (CE) n.º 2150/2005 de la Comisión, de 23 de diciembre de 2005, por el que se establecen normas comunes para la utilización flexible del espacio aéreo;
+vi. posiciones de vuelo actualizadas;
+vii. desviaciones de los planes de vuelo;
+viii. disponibilidad del espacio aéreo en aplicación de la utilización flexible del espacio aéreo con arreglo al Reglamento (CE) n.º 2150/2005;
+ix. tiempos reales de despegue de los vuelos.
+6.ª La comisión por parte del proveedor de servicios ATS de la torre del aeropuerto de salida de las siguientes acciones u omisiones:
+i. La no inclusión de una franja de salida ATFM como parte de la autorización de control de tránsito aéreo, cuando un vuelo esté sujeto a dicha franja.
+ii. La autorización de vuelos que no respeten las franjas de salida ATFM.
+iii. La autorización del despegue de vuelos que no respeten su hora fuera de calzos estimada, teniendo en cuenta la tolerancia temporal establecida.
+iv. La autorización del despegue de vuelos cuyo plan de vuelo haya sido rechazado o suspendido.
+v. La falta de información sobre el incumplimiento y sobre las medidas adoptadas para garantizar el respeto de las franjas de salida ATFM, cuando el respeto anual de las franjas de salida ATFM en un aeropuerto sea igual o inferior al 80%.
+vi. La falta de información sobre la autorización de despegue a una aeronave con plan de vuelo denegado o suspendido en el aeropuerto de salida y sobre las medidas adoptadas para evitar este tipo de situaciones.
+b) En relación con los operadores aéreos:
+1.ª La falta de plan de vuelo, para cada vuelo, cuando resulte exigible de conformidad con el Reglamento, o que dicho plan de vuelo no refleje correctamente el perfil de vuelo previsto.
+2.ª La falta de incorporación a la operación de vuelo de las medidas ATFM aplicables y sus cambios y la omisión del deber de comunicarlas al piloto.
+3.ª El incumplimiento de la hora fuera de calzos estimada, teniendo en cuenta la tolerancia temporal establecida en las disposiciones de la OACI aplicables conforme a lo previsto en el Anexo del Reglamento.
+4.ª La falta de actualización o de anulación de un plan de vuelo cuando así esté establecido reglamentariamente.
+5.ª La falta de presentación de un informe a la unidad central ATFM sobre cada incumplimiento de las medidas ATFM que incluya detalles de las circunstancias que hayan dado lugar a la ausencia de plan de vuelo o a planes de vuelo múltiples y las medidas adoptadas para corregir dicho incumplimiento.
+6.ª La falta de suministro, a los aeropuertos de salida y llegada, con antelación al vuelo, de la información necesaria para establecer una correlación entre el designador de vuelo indicado en el plan de vuelo y el notificado para la franja aeroportuaria correspondiente.
+7.ª La falta de suministro de la información y detalles de las exenciones concedidas en relación con las medidas ATFM, cuando le sea solicitado por la autoridad competente.
+8.ª El uso de las exenciones a las medidas ATFM no justificadas de acuerdo a la normativa aplicable.
+c) En relación con los gestores aeroportuarios, la falta de notificación a la unidad central ATFM, directamente o por medio de la unidad local ATFM y de las unidades ATS o ambas, de todas las incidencias que puedan afectar a la capacidad de control del tránsito aéreo o a la demanda de tránsito aéreo, y la omisión de información a la unidad local ATFM y a las unidades ATS en el caso de notificaciones directas a la unidad central ATFM.
+d) En relación con las entidades de gestión de la afluencia de tránsito aéreo:
+1.ª La no puesta a disposición de la función ATFM local durante las veinticuatro horas del día.
+2.ª La falta de la formación necesaria de su personal para el desempeño de sus funciones, así como no elaborar, facilitar y actualizar los manuales de operaciones que deberá aplicar dicho personal.
+e) En relación con los gestores aeroportuarios y los proveedores de servicios de tránsito aéreo, la falta de coordinación previa con los operadores afectados por las situaciones críticas para establecer la pertinencia y el contenido de los procedimientos de contingencia, incluidas las posibles modificaciones de las normas de prioridad.
+f) En relación con los proveedores de servicios de tránsito aéreo y las entidades de gestión de afluencia de tránsito aéreo, no establecer u obstaculizar el establecimiento de procedimientos coherentes para la cooperación en materia de gestión de afluencia de tránsito aéreo.
+g) En relación con los operadores aéreos, los gestores aeroportuarios, los proveedores de servicios de tránsito aéreo y las entidades de gestión de afluencia de tránsito aéreo, la no adopción de las medidas que garanticen que su personal está debidamente informado de las disposiciones del Reglamento y recibe formación adecuada y que es competente para el desempeño de sus cometidos.
+3. Las infracciones del apartado 1 constituirán infracciones graves cuando se produzca alguna de las circunstancias calificativas previstas en el apartado 2 del artículo 44.
+4. Son infracciones muy graves:
+a) El incumplimiento o cumplimiento defectuoso de los procedimientos ATFM de gestión de situaciones críticas declaradas.
+b) Las infracciones leves cuando concurra alguna de las circunstancias calificativas previstas en el apartado 3 del artículo 44.
+Se añade por el art. 53.6 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se añade por el art. 53.6 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Artículo 49
+
+Artículo 49. Infracciones en relación con la coordinación de los aeropuertos y la utilización de las franjas horarias.
+1. Constituyen infracciones administrativas leves en relación con la coordinación de los aeropuertos y el uso de las franjas horarias las siguientes:
+1.ª La no devolución de una o más series de franjas horarias asignadas que no se vayan a utilizar o su devolución en forma o plazo distintos a los legalmente previstos.
+2.ª Toda operación de vuelo en la que concurra cualquiera de las siguientes circunstancias:
+a) No haber obtenido previamente la franja horaria correspondiente en aeropuertos donde este requisito sea exigible.
+b) El uso reiterado en horas distintas de las autorizadas, de una o más franjas horarias previamente obtenidas conforme a la normativa en vigor.
+3.ª La transferencia o el intercambio de una o más series de franjas horarias no permitidos por la normativa vigente.
+4.ª El impedimento de acceso a la autoridad aeronáutica a la información necesaria para la supervisión del procedimiento de asignación de franjas horarias, el uso de éstas o el cumplimiento de las programaciones de vuelo.
+5.ª La actuación negligente del personal aeronáutico, tanto de vuelo como de tierra, que tenga como consecuencia el incumplimiento por una compañía aérea de una o más series de franjas horarias asignadas, así como de las programaciones de vuelo.
+6.ª El retraso en el pago de la prestación patrimonial pública de asignación de franjas horarias por los sujetos obligados, cuando no constituya infracción grave o muy grave.
+2. Son infracciones administrativas graves las siguientes:
+1.ª La no devolución de una o más series de franjas horarias asignadas que no se vayan a utilizar o su devolución en forma o plazo distintos a los legalmente previstos, cuando se haya causado perjuicio grave para el buen funcionamiento del aeropuerto o para otras compañías aéreas o cuando la infracción ya se hubiera cometido en las temporadas anteriores equivalentes o en las inmediatas.
+2.ª Toda operación de vuelo en la que concurra cualquiera de las siguientes circunstancias:
+a) No haber obtenido previamente la franja horaria correspondiente en aeropuertos donde este requisito sea exigible, cuando se haya producido riesgo para la seguridad o perjuicio grave para el buen funcionamiento del aeropuerto o para otras compañías aéreas o cuando la infracción se repita en vuelos que configuren una serie.
+b) El uso reiterado a horas distintas de las autorizadas, de una o más franjas horarias previamente obtenidas conforme a la normativa en vigor, cuando se haya producido riesgo para la seguridad o perjuicio grave para el buen funcionamiento del aeropuerto o para otras compañías aéreas o cuando la infracción se repita en vuelos que configuren una serie.
+3.ª La transferencia o el intercambio de una o más series de franjas horarias no permitidos por la normativa vigente, cuando se cause perjuicio grave para otras compañías aéreas o cuando la infracción ya se hubiera cometido tanto en la temporada anterior equivalente como en la inmediata o cuando en una misma temporada se realiza en más de un aeropuerto sito en territorio español.
+4.ª El retraso reiterado en el pago de la prestación patrimonial pública de asignación de franjas horarias por los sujetos obligados, cuando no constituya infracción muy grave.
+3. Son infracciones administrativas muy graves las siguientes:
+1.ª La no devolución de una o más series de franjas horarias asignadas que no se vayan a utilizar o su devolución en forma o plazo distintos a los legalmente previstos, cuando se haya causado perjuicio muy grave para el buen funcionamiento del aeropuerto o para otras compañías aéreas o cuando la operación ya se hubiera cometido dos o más veces bien en las temporadas anteriores equivalentes o en las inmediatas.
+2.ª Toda operación de vuelo en la que concurra cualquiera de las siguientes circunstancias:
+a) No haber obtenido previamente la franja horaria correspondiente en aeropuertos donde este requisito sea exigible, cuando se haya producido riesgo grave para la seguridad o perjuicio muy grave para el buen funcionamiento del aeropuerto o para otras compañías aéreas o cuando la infracción se repita en vuelos que configuren más de una serie o afecten a más de un aeropuerto congestionado sito en territorio español.
+b) El uso reiterado a horas distintas de las autorizadas, de una o más franjas horarias previamente obtenidas conforme a la normativa en vigor, cuando se haya producido riesgo grave para la seguridad o perjuicio muy grave para el buen funcionamiento del aeropuerto o para otras compañías aéreas o la infracción se repita en vuelos que configuren más de una serie o afecte a más de un aeropuerto congestionado sito en territorio español.
+3.ª La transferencia o el intercambio de una o más series de franjas horarias no permitidos por la normativa vigente, cuando se produzca perjuicio muy grave para otras compañías aéreas o cuando la infracción ya se hubiera cometido dos o más veces tanto en la temporada anterior equivalente como en la inmediata o cuando en varias temporadas se cometa en más de un aeropuerto sito en territorio español.
+4.ª El incumplimiento reiterado de las obligaciones de pago de la prestación patrimonial pública de asignación de franjas horarias por los sujetos obligados, cuando tales incumplimientos afecten a la suficiencia financiera del Coordinador y facilitador de franjas horarias.
+4. A los efectos de este artículo, una serie de franjas horarias está constituida por un mínimo de cinco franjas horarias solicitadas para un período de programación a la misma hora, regularmente, el mismo día de la semana, y asignada de esta forma o, si ello no fuera posible, a la misma hora aproximadamente.
+Se modifican los apartados 1, 2 y 3 por el art. 3.1 del Real Decreto-ley 1/2014, de 24 de enero. Ref. BOE-A-2014-747.
+
+### Artículo 50
+
+Artículo 50. Infracciones del deber de colaboración con la administración aeronáutica y de los deberes relativos a la protección y uso de la información.
+1. Constituyen infracciones administrativas leves del deber de colaboración con la administración aeronáutica y de los deberes relativos a la protección y uso de la información las siguientes:
+1.ª El retraso de las entidades colaboradoras en la remisión de las actas e informes de inspección a la Agencia Estatal de Seguridad Aérea.
+2.ª La negativa a expedir o proporcionar los documentos o registros acreditativos del entrenamiento, comprobaciones, verificaciones y cualificaciones de las actividades y del personal aeronáutico en los períodos de tiempo establecidos en las disposiciones de aplicación, o no hacerlo en el plazo establecido en ellas.
+3.ª El incumplimiento o el cumplimiento defectuoso de la obligación de notificar los sucesos de la aviación civil o la falta de colaboración con la administración en el cumplimiento de las obligaciones asociadas a la notificación de sucesos.
+2. Constituyen infracciones administrativas graves las siguientes:
+1.ª El incumplimiento del deber de comunicación de los incidentes graves de aviación civil a la autoridad encargada de las investigaciones técnicas de seguridad.
+2.ª La comunicación de hechos o actos inexactos o falsos a los órganos competentes en materia de aviación civil con ánimo de inducirles a producir erróneamente actos favorables para el comunicante o desfavorables para terceros.
+3.ª El incumplimiento de los deberes de reserva y confidencialidad, uso adecuado y protección de las fuentes de información, no tipificado como muy grave, establecidos en los artículos 18 y 26.2, letra c), de esta ley; en el Reglamento (UE) n.º 996/2010 del Parlamento Europeo y del Consejo, de 20 de octubre de 2010, y el Reglamento (UE) n.º 376/2014 del Parlamento Europeo y del Consejo, de 3 de abril de 2014, relativo a la notificación de sucesos en la aviación, que modifica el Reglamento (UE) n.º 996/2010 del Parlamento Europeo y del Consejo, y por el que se derogan la Directiva 2003/42/CE del Parlamento Europeo y del Consejo y los Reglamentos (CE) n.º 1321/2007 y (CE) n.º 1330/2007 de la Comisión, y disposiciones complementarias.
+4.ª El incumplimiento por los sujetos sometidos a esta ley de la obligación de informar justificadamente acerca de las medidas a adoptar o de las razones por las que no se adoptarán medidas, como consecuencia de las recomendaciones remitidas por la autoridad de investigación técnica de accidentes o el retraso en cumplir tales obligaciones, así como de la obligación de informar acerca de su estado de cumplimiento o posibles desviaciones.
+5.ª El incumplimiento por los proveedores de bienes y servicios aeronáuticos del deber de disponer de normas internas sobre el modo en que aplican dentro de su organización los principios de cultura justa, de conformidad con lo establecido en el Reglamento (UE) n.º 376/2014 del Parlamento Europeo y del Consejo, de 3 de abril de 2014, así como la insuficiencia manifiesta de dichas normas apreciada por el organismo competente en el procedimiento sobre su revisión o el incumplimiento de las normas internas aplicables o de la revisión acordada por el organismo competente.
+3. Constituyen infracciones administrativas muy graves las siguientes:
+1.ª El falseamiento de las actas e informes por parte de las entidades colaboradoras.
+2.ª El incumplimiento del deber de comunicación de los accidentes de aviación civil a la autoridad encargada de las investigaciones técnicas de seguridad.
+3.ª El hecho de impedir u obstaculizar las investigaciones de la autoridad encargada de las investigaciones técnicas de seguridad o el ejercicio de las funciones de inspección aeronáutica.
+4.ª La simulación, ocultación, alteración o destrucción de datos, registros, grabaciones, materiales, informaciones y documentos útiles para las investigaciones de la autoridad encargada de las investigaciones técnicas de seguridad o el ejercicio de las funciones de inspección aeronáutica.
+5.ª El quebrantamiento de las medidas adoptadas por la autoridad aeronáutica de conformidad con lo previsto en los artículos 30 y 63.
+6.ª El incumplimiento de la obligación de proporcionar la lista validada de todas las personas a bordo de la aeronave o la lista de mercancías peligrosas embarcadas en los plazos establecidos por la normativa europea aplicable, en caso de accidente aéreo.
+7.ª El incumplimiento de la obligación de disponer de un plan de asistencia a las víctimas y familiares de accidente aéreo con el contenido mínimo establecido reglamentariamente, así como que la compañía aérea no lo ejecute o lo ejecute deficientemente en caso de producirse dicho accidente.
+8.ª El incumplimiento por los proveedores de bienes y servicios aeronáuticos de la obligación de abstenerse de adoptar medidas desfavorables frente a sus empleados y al personal contratado en contravención de lo dispuesto en esta ley y en el Reglamento (UE) n.º 376/2014 del Parlamento Europeo y del Consejo, de 3 de abril de 2014.
+Se modifica por el art. 2.19 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifica la Regla 7.ª del apartado 3 por la disposición final 5.2 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+ Se modifican los apartados 2 y 3 por el art. único.17 a 19 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 51
+
+Artículo 51. Reincidencia.
+La reincidencia en la comisión de las infracciones tipificadas como graves en el apartado 2 del artículo 44, apreciada de conformidad con lo dispuesto en el artículo 131.3.c) de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, convierte a aquellas infracciones en muy graves.
+
+### Artículo 52
+
+Artículo 52. Responsables de las infracciones.
+1. La responsabilidad administrativa por las infracciones reguladas en esta ley corresponderá:
+a) En las infracciones contra la seguridad de la aviación civil, a las personas físicas o jurídicas sujetas al cumplimiento de la obligación infringida.
+b) En las infracciones en relación con el transporte y los trabajos aéreos, a las personas que las hayan cometido, a los titulares de la licencia de explotación, permiso o autorización o a los explotadores de las aeronaves.
+c) En las infracciones en relación con la asistencia y compensación a los pasajeros, a las compañías aéreas.
+d) En las infracciones relativas al transporte de mercancías peligrosas o sujetas a normas especiales por vía aérea, al explotador de la aeronave, al expedidor de la mercancía, al agente de servicios de asistencia en tierra y al agente de carga.
+e) En las infracciones relativas a la disciplina del tráfico aéreo en materia de ruido, a la compañía aérea, explotador u operador o al piloto al mando de la aeronave con la que se haya cometido la infracción.
+f) En las infracciones relativas a las obligaciones en materia de sostenibilidad del transporte aéreo, según corresponda, los operadores aéreos responsabilidad del Estado español, las entidades gestoras de aeropuertos y los demás sujetos, incluidos en el ámbito de aplicación de esta ley, obligados por el Reglamento (UE) 2023/2405 del Parlamento Europeo y del Consejo, de 18 de octubre de 2023, relativo a la garantía de unas condiciones de competencia equitativas para un transporte aéreo sostenible (ReFuelEU Aviation) y su normativa de desarrollo.
+g) En las infracciones en relación con el funcionamiento y uso de los aeropuertos, a las personas que cometan la infracción o a las autorizadas para la prestación de servicios y para la gestión de las infraestructuras aeroportuarias.
+h) En las infracciones en relación con la gestión de afluencia del tránsito aéreo (ATFM), a los proveedores civiles de servicios de tránsito aéreo (ATS), a los operadores de aeronaves, a los gestores aeroportuarios o a las entidades de gestión de la afluencia de tránsito aéreo.
+i) En las infracciones en relación con la coordinación de los aeropuertos y el uso de las franjas horarias, a las compañías aéreas, al personal aeronáutico o a las demás personas físicas o jurídicas con responsabilidades en la asignación y gestión de las franjas horarias.
+j) En las infracciones del deber de colaboración con las autoridades y órganos de la Administración General del Estado con competencias en materia de aviación civil, a la persona física o jurídica que cometa la infracción.
+k) En las infracciones en relación con la utilización de UAS, el operador, la entidad responsable de la formación, examen o evaluación de los pilotos a distancia, el gestor aeroportuario o el proveedor de servicios de tránsito aéreo, según corresponda.
+2. Cuando una misma infracción sea imputable a varias personas y no sea posible determinar el grado de participación de cada una de ellas, responderán solidariamente.
+3. No eximirá de responsabilidad el hecho de que las personas que hayan cometido las infracciones estén integradas en asociaciones temporales de empresas, agrupaciones de interés económico o comunidades de bienes sin personalidad.
+Se modifica el apartado 1 por el art. 2.20 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se añade la letra i) al apartado 1 por la disposición final 3.2 de la Ley 3/2020, de 18 de septiembre. Ref. BOE-A-2020-10923#df-3
+ Se reordena la letra g) como h) y se añade una nueva g) en el apartado 1 por el art. 53.7 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se reordena la letra g) como h) y se añade una nueva g) en el apartado 1 por el art. 53.7 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Artículo 53
+
+Artículo 53. Concurrencia de responsabilidades.
+1. La responsabilidad por las infracciones tipificadas en esta Ley es de naturaleza administrativa y no excluye las de otro orden a que hubiere lugar.
+2. Las sanciones que se impongan a distintos sujetos como consecuencia de una misma infracción tendrán entre sí carácter independiente.
+3. No podrán sancionarse los hechos que hayan sido sancionados penal o administrativamente, en los casos en que se aprecie identidad de sujeto, hecho y fundamento.
+4. Cuando la infracción pudiera ser constitutiva de delito o falta, se dará traslado de tanto de culpa al Ministerio Fiscal, suspendiéndose la tramitación del procedimiento sancionador hasta tanto se dicte resolución judicial firme.
+5. De no haberse apreciado la existencia de delito o falta, el órgano administrativo competente continuará el expediente sancionador. Los hechos declarados probados en la resolución judicial firme vincularán a dicho órgano.
+
+### Artículo 54
+
+Artículo 54. Extinción de la responsabilidad.
+La responsabilidad administrativa derivada de las infracciones reguladas en esta ley se extingue por el pago o cumplimiento de la sanción y de las medidas impuestas en aplicación de lo establecido en el artículo 57, por prescripción y, en el caso de personas físicas, por la muerte.
+
+## CAPÍTULO II
+
+De las sanciones y otras medidas
+
+### Artículo 55
+
+Artículo 55. Sanciones.
+1. Las infracciones establecidas en el capítulo I de este título serán sancionadas del modo siguiente:
+a) Las infracciones leves con apercibimiento o multa de 60 hasta 45.000 euros.
+b) Las infracciones graves con multa de 45.001 a 90.000 euros.
+c) Las infracciones muy graves con multa de 90.001 a 225.000 euros.
+2. Cuando las infracciones fueran cometidas por las entidades colaboradoras de inspección, las compañías que realicen transporte aéreo comercial, las organizaciones de diseño, fabricación o mantenimiento de aeronaves, los proveedores de servicios de navegación aérea, los agentes de servicios aeroportuarios, los gestores de aeropuertos, aeródromos o instalaciones aeroportuarias y, en general, las personas físicas o jurídicas que desarrollen actividades incluidas en el ámbito de aplicación de esta ley con carácter comercial o que las realicen a cambio de una contraprestación económica no salarial las sanciones aplicables serán las siguientes:
+a) Para las infracciones leves, apercibimiento o multa de 4.500 hasta 70.000 euros.
+b) Para las infracciones graves, multa de 70.001 a 250.000 euros.
+c) Para las infracciones muy graves, multa de 250.001 a 4.500.000 euros.
+3. Cuando exista y pueda conocerse el beneficio bruto obtenido como consecuencia de los actos u omisiones en que consistan las infracciones, las cantidades que resultasen de la aplicación de lo previsto, respectivamente, en los párrafos b) y c) del apartado anterior, podrán ser incrementadas en la diferencia positiva que se produjera, en su caso, mediante la aplicación de las siguientes reglas:
+a) Por la comisión de infracciones graves, el importe no inferior al tanto ni superior al doble del beneficio obtenido.
+b) Por la comisión de infracciones muy graves, el importe no inferior al tanto ni superior al triple del beneficio obtenido.
+4. No obstante lo dispuesto en los apartados anteriores, la determinación del importe de las sanciones económicas por la comisión de las infracciones tipifi cadas en los apartados 1.1.ª, 1.2.ª, 1.3.ª, 2.1.ª, 2.2.ª, 2.3.ª, 3.1.ª, 3.2.ª y 3.3.ª del artículo 49 se ajustará a los siguientes criterios especiales:
+a) Para las infracciones previstas en el epígrafe 1.ª de cada uno de los tres apartados del citado precepto, un mínimo de 6.000 y un máximo de 90.000 euros por cada serie de franjas no devueltas.
+b) Para las infracciones previstas en la regla a) del epígrafe 2.ª de cada uno de los tres apartados del citado precepto, un mínimo de 3.000 y un máximo de 12.000 euros por cada vuelo operado sin la previa obtención de la franja horaria correspondiente.
+c) Para las infracciones previstas en la regla b) del epígrafe 2.ª de cada uno de los tres apartados del citado precepto, un mínimo de 3.000 y un máximo de 30.000 euros por cada vuelo efectuado fuera de las franjas horarias autorizadas.
+d) Para las infracciones previstas en el epígrafe 3.ª de cada uno de los tres apartados del citado precepto, un mínimo de 18.000 y un máximo de 60.000 euros por cada serie de franjas horarias indebidamente intercambiadas.
+e) Cuando exista y pueda conocerse el beneficio bruto obtenido como consecuencia de estas infracciones, la cantidad resultante de la aplicación de los anteriores criterios podrá ser incrementada en la diferencia positiva que se produjera en su caso por aplicación de las reglas previstas al efecto en el apartado 3 de este artículo.
+5. No obstante lo dispuesto en los apartados anteriores, la infracción tipificada en el artículo 47 ter, apartado 3, letra a), ordinal 1.º, será sancionada con multa del doble del importe que resulte de multiplicar el precio medio anual del combustible de aviación por tonelada, por la cantidad total no repostada anualmente.
+6. Las multas tendrán naturaleza de crédito de Derecho público y su importe podrá ser exigido por la vía de apremio.
+Se modifica el apartado 5 y se añade el 6 por el art. 2.21 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifica el apartado 2 por el art. único.20 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 56
+
+Artículo 56. Sanciones accesorias.
+1. Además de las sanciones establecidas en el artículo anterior, en el supuesto de infracciones graves cometidas con ocasión del desempeño de funciones, la realización de actividades o la prestación de servicios aeronáuticos para los que se exija ser titular de una licencia, habilitación, aceptación, aprobación, autorización o certificado correspondiente y, en su caso, de derechos de tráfico, podrá imponerse su suspensión o limitación a la persona física o jurídica responsable de la infracción por plazo máximo de cinco años.
+Igualmente, en el supuesto de infracciones muy graves cometidas con ocasión del desempeño de funciones, la realización de actividades o la prestación de servicios aeronáuticos para los que se exija ser titular de una licencia, habilitación, aceptación, aprobación, autorización o certificado correspondiente, y, en su caso, de derechos de tráfico, podrá imponerse su revocación a la persona física o jurídica responsable de la infracción.
+2. La comisión de dos o más infracciones muy graves en el término de un año conllevará, en todo caso, la inhabilitación de la persona responsable de las mismas, durante un período de tres años, para ser titular de cualquier derecho o título administrativo que faculte para el desempeño de funciones, la realización de actividades o la prestación de servicios aeronáuticos, así como ejercer las facultades que confieran los que se posean. También inhabilitará para formar parte del Consejo de Administración u órgano equivalente de una persona jurídica que sea titular de tales derechos o títulos administrativos.
+El plazo de tres años se computará desde el día siguiente a aquel en que sea firme la segunda de las resoluciones administrativas que se haya tenido en cuenta.
+
+### Artículo 57
+
+Artículo 57. Otras medidas.
+1. Además de imponer las sanciones que en cada caso correspondan, la resolución del procedimiento sancionador podrá declarar la obligación de:
+a) Restituir las cosas o reponerlas a su estado anterior en el plazo que se fije.
+b) Indemnizar los daños irreparables por cuantía igual al valor de los bienes destruidos o el deterioro causado, así como los perjuicios ocasionados, en el plazo que se fije.
+2. Se exigirá la indemnización por daños y perjuicios cuando no fuera posible la restitución o reposición y en todo caso si se hubieran producido daños y perjuicios a los intereses públicos.
+Cuando los daños fueran de difícil evaluación, para fijar la indemnización se tendrán en cuenta el coste teórico de la restitución y reposición y el valor de los bienes dañados, debiendo aplicarse el que proporcione el mayor valor.
+3. Las indemnizaciones que se determinen tendrán naturaleza de crédito de Derecho público y su importe podrá ser exigido por la vía administrativa de apremio.
+
+### Artículo 58
+
+Artículo 58. Órgano competente para la imposición de las sanciones.
+En el ámbito de las competencias del Ministerio de Transportes y Movilidad Sostenible, corresponden a la persona titular de la Dirección de la Agencia Estatal de Seguridad Aérea la competencia para la imposición de las sanciones previstas en esta ley.
+Se modifica por el art. 2.22 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 59
+
+Artículo 59. Criterios para la graduación de las sanciones.
+En la imposición de las multas y sanciones accesorias por las infracciones administrativas tipificadas en esta ley, se deberá guardar la debida adecuación entre la gravedad del hecho y la sanción a aplicar, teniendo en cuenta los siguientes criterios para su graduación:
+a) La negligencia o intencionalidad del sujeto infractor.
+b) La gravedad del riesgo generado por la infracción cometida para la seguridad aérea, así como para las personas, para otras aeronaves y demás bienes o cosas, tanto en vuelo como en tierra.
+c) La gravedad de los perjuicios causados a los intereses públicos y de los perjuicios y molestias causados a los usuarios del transporte aéreo y a terceros.
+d) La comisión de la infracción durante la operación de vuelo.
+e) La reiteración en la comisión de infracciones tipificadas en esta ley dentro del término de un año, salvo que, de conformidad con lo dispuesto en el artículo 51, se aprecie como reincidencia.
+f) Cualquier otra circunstancia que pueda incidir en el mayor o menor grado de reprobabilidad de la infracción.
+
+## CAPÍTULO III
+
+De las normas comunes a infracciones y sanciones
+
+### Artículo 60
+
+Artículo 60. Prescripción de infracciones y sanciones.
+1. Las infracciones administrativas previstas en esta ley prescribirán en el plazo de tres años las muy graves, en el de dos años las graves y en el de un año las leves.
+2. Las sanciones impuestas por la comisión de infracciones muy graves prescribirán a los tres años, en tanto que las impuestas por graves o leves lo harán a los dos años y al año, respectivamente.
+3. Para el cómputo de los plazos de prescripción de infracciones y sanciones se estará a lo dispuesto en el artículo 132. 2 y 3 de la Ley 30/1992.
+En los supuestos de infracciones continuadas, el plazo de prescripción comenzará a contar desde el momento de la finalización de la actividad o del último acto con el que la infracción se consuma. En el caso de que los hechos o actividades constitutivos de infracción fueran desconocidos por carecer de signos externos, dicho plazo se computará desde que éstos se manifiesten.
+
+## CAPÍTULO IV
+
+Del procedimiento sancionador
+
+### Artículo 61
+
+Artículo 61. Aplicación de la legislación general.
+El procedimiento para la imposición de las sanciones previstas en esta ley, en el que las fases de instrucción y resolución estarán debidamente separadas, se ajustará a lo dispuesto en la Ley 30/1992 con las particularidades que se establecen en los demás artículos de este capítulo.
+
+### Artículo 62
+
+Artículo 62. Iniciación.
+Los procedimientos sancionadores por las infracciones administrativas tipificadas en esta ley se iniciarán siempre de oficio por acuerdo del titular de la Dirección de la Agencia Estatal de Seguridad Aérea, bien por propia iniciativa o como consecuencia de orden superior, petición razonada de otros órganos administrativos o denuncia.
+Se modifica por el art. 2.23 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 62 bis
+
+Artículo 62 bis. Especialidades de la iniciación de determinados procedimientos sancionadores.
+La Agencia Estatal de Seguridad Aérea, a los efectos de dictar el acuerdo de inicio de los procedimientos sancionadores que instruya por infracciones previstas en esta Ley, podrá tomar como hechos que motivan su incoación los que constituyan antecedentes de la decisión adoptada en el procedimiento previsto en la disposición adicional segunda de la Ley 7/2017, de 2 de noviembre, por la que se incorpora al ordenamiento jurídico español la Directiva 2013/11/UE, del Parlamento Europeo y del Consejo, de 21 de mayo de 2013, relativa a la resolución alternativa de litigios en materia de consumo. Igualmente, se incorporarán en ese momento todas las actuaciones realizadas para dictar dicha decisión, sin necesidad de ningún trámite adicional. El procedimiento sancionador que se inicie de este modo no se suspenderá por la impugnación de la decisión por la compañía aérea.
+Se añade por la disposición final 3.3 de la Ley 3/2020, de 18 de septiembre. Ref. BOE-A-2020-10923#df-3
+
+### Artículo 63
+
+Artículo 63. Medidas cautelares.
+1. En cualquier momento del procedimiento sancionador, el titular de la Dirección de la Agencia Estatal de Seguridad Aérea podrá adoptar, previa audiencia del interesado y mediante resolución motivada, cualquiera de las medidas enumeradas en el artículo 30 de esta ley y cualesquiera otras que, atendiendo a las circunstancias del caso, sean necesarias para asegurar la efectividad de la resolución que pudiera recaer en el procedimiento o el buen fin del mismo, así como para evitar el mantenimiento de los efectos de la infracción, si existiesen elementos de juicio suficientes para ello.
+A la notificación de estas medidas se acompañará, en su caso, emplazamiento para que se subsane la deficiencia o irregularidad constitutiva de la infracción de que se trate.
+2. Los gastos originados por las medidas previstas en este artículo correrán a cargo de las personas físicas y entidades responsables de los incumplimientos, deficiencias o irregularidades que las hubieran justificado.
+Se modifica el apartado 1 por el art. 2.23 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 64
+
+Artículo 64. Instrucción.
+1. La instrucción de los procedimientos sancionadores derivados de las infracciones administrativas tipificadas en esta ley corresponderá al órgano de la Agencia Estatal de Seguridad Aérea que tenga atribuida dicha competencia.
+2. No obstante, el titular de la Dirección de la Agencia Estatal de Seguridad Aérea podrá atribuir la instrucción de los procedimientos sancionadores a organismos públicos vinculados o dependientes de la Administración General del Estado, siempre que ello resulte más adecuado para la correcta determinación de los hechos y responsabilidades derivadas de los mismos.
+En este supuesto, el instructor y el secretario del procedimiento serán designados por el máximo órgano unipersonal del organismo entre el personal del mismo.
+Completada la instrucción, se remitirá la propuesta de resolución, junto con todos los documentos, testimonios, actuaciones, actos administrativos, notificaciones y demás diligencias que se hayan realizado en el procedimiento, a la Agencia Estatal de Seguridad Aérea, que se hará cargo del mismo y tramitará su continuación, sin perjuicio de que esta pueda disponer la práctica de nuevas diligencias por el instructor, con la consiguiente redacción de nueva propuesta de resolución por parte de este último.
+3. Tras la resolución del procedimiento, el archivo de las actuaciones realizadas corresponderá al titular de la Dirección de la Agencia Estatal de Seguridad Aérea.
+Se modifica por el art. 2.23 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 65
+
+Artículo 65. Plazo para resolver y notificar.
+El plazo para resolver y notificar en estos procedimientos será de dieciocho meses en los procedimientos por infracciones muy graves, doce meses en el caso de infracciones graves, y nueve meses cuando se incoen por infracciones leves. Transcurrido este plazo sin resolución expresa, la persona titular de la Dirección de la Agencia Estatal de Seguridad Aérea declarará la caducidad del procedimiento y ordenará el archivo de las actuaciones, con los efectos previstos en el artículo 95 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+Se modifica por el art. 2.24 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Artículo 66
+
+Artículo 66. Efectos de la resolución.
+1. La resolución será ejecutiva cuando ponga fin a la vía administrativa.
+2. En la resolución se adoptarán, en su caso, las disposiciones cautelares precisas para garantizar su eficacia en tanto no sea ejecutiva.
+
+### Artículo 67
+
+Artículo 67. Multas coercitivas.
+Sin perjuicio de las sanciones que pudieran imponerse de acuerdo con lo establecido en el capítulo II de este título, el incumplimiento de los requerimientos de las Autoridades aeronáuticas para salvaguardar la seguridad en materia de aviación civil, el funcionamiento del transporte aéreo y los legítimos intereses de sus usuarios, podrá dar lugar, una vez transcurrido el plazo fijado en dichos requerimientos, a la imposición de multas coercitivas, cuya cuantía no superará el 10 por ciento de la cuantía de la sanción correspondiente.
+
+## TÍTULO VI
+
+Ingresos de los gestores de aeropuertos
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## CAPÍTULO I
+
+Ingresos de los gestores de la red de «Aena Aeropuertos, S.A.»
+Con efectos de 1 de marzo de 2016, la cuantía de las prestaciones patrimoniales de carácter público de Aena S.A., establecidas en este capítulo, se disminuirán en un 1,9 por 100 respecto al nivel de las exigibles el 29 de febrero de 2016, según establece el art. 80.1 de la Ley 48/2015, de 29 de octubre Ref. BOE-A-2015-11644#a80.
+Véase el art. de 86.1 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616., sobre incremento en la cuantía de prestaciones patrimoniales.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 68
+
+Artículo 68. Ingresos de «Aena Aeropuertos, S.A.»
+1. Salvo lo dispuesto en el apartado siguiente, tiene la consideración de precio privado todo ingreso que perciba «Aena Aeropuertos, S.A.» en el ejercicio de su actividad.
+2. Tendrán la consideración de prestaciones patrimoniales de carácter público, las prestaciones que la citada sociedad deba percibir en los siguientes supuestos:
+a) Por la utilización de las pistas de los aeropuertos civiles y de utilización conjunta y de las bases aéreas abiertas al tráfico civil por las aeronaves y la prestación de los servicios precisos para dicha utilización, distintos de la asistencia en tierra a las aeronaves, pasajeros y mercancías.
+b) Por los servicios de tránsito aéreo de aeródromo que facilite el gestor aeroportuario, sin perjuicio de que tales servicios se presten a través de los proveedores de servicios de tránsito aéreo debidamente certificados que hubieren sido contratados por aquél y designados al efecto por el Ministerio de Fomento.
+c) Por los servicios de meteorología que facilite el gestor aeroportuario, sin perjuicio de que tales servicios se presten a través de los proveedores de servicios de meteorología debidamente certificados y, además, designados al efecto por el Ministerio de Medio Ambiente y Medio Rural y Marino.
+d) Por los servicios de inspección y control de pasajeros y equipajes en los recintos aeroportuarios así como los medios, instalaciones y equipamiento necesarios para la prestación de los servicios de control y vigilancia en las áreas de movimiento de aeronaves, zonas de libre acceso, zonas de acceso controlado y zonas restringidas de seguridad en todo el recinto aeroportuario ligados a las prestaciones patrimoniales de carácter público.
+e) Por la puesta a disposición a los pasajeros de las instalaciones aeroportuarias no accesibles a los visitantes en terminales, plataformas y pistas, necesaria para poder hacer efectivo su contrato de transporte aéreo.
+f) Por los servicios que permiten la movilidad general de los pasajeros y la asistencia necesaria a las personas con movilidad reducida (PMRs) para permitirles desplazarse desde un punto de llegada al aeropuerto hasta la aeronave, o desde ésta a un punto de salida, incluyendo el embarque y desembarque.
+g) Por la utilización de las zonas de estacionamiento de aeronaves habilitadas al efecto en los aeropuertos.
+h) Por la utilización de las instalaciones aeroportuarias para facilitar el servicio de embarque y desembarque de pasajeros a las compañías aéreas a través de pasarelas telescópicas o la simple utilización de una posición de plataforma que impida la utilización de la correspondiente pasarela a otros usuarios.
+i) Por la utilización del recinto aeroportuario para el transporte y suministro de combustibles y lubricantes, cualquiera que sea el modo de transporte o suministro.
+j) Por la utilización del recinto aeroportuario para la prestación de servicios de asistencia en tierra que no se encuentre gravado por otra contraprestación específica.
+3. (Suprimido)
+4. No deberán satisfacerse las prestaciones patrimoniales de carácter público a que se hace referencia en el apartado 2 por las operaciones realizadas por las aeronaves de Estado españolas, las aeronaves que presten servicio para las Comunidades Autónomas y otras Entidades locales, siempre y cuando realicen servicios públicos no comerciales, y las aeronaves de Estado extranjeras, en el caso de que los Estados a que pertenezcan concedan análoga exención a las aeronaves de Estado españolas.
+Se modifican las letras d) y e), se suprime la i) y se reordenan la j) y k) como i) y j) en el apartado 2 y se suprime el apartado 3 por el art. 53.9 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifican las letras d) y e), se suprime la i) y se reordenan la j) y k) como i) y j) en el apartado 2 y se suprime el apartado 3 por el art. 53.9 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 69
+
+Artículo 69. Gestión y cobro de los ingresos de «Aena Aeropuertos, S.A.» y sus sociedades filiales.
+1. La gestión y cobro de los precios privados referidos en el apartado 1 del artículo anterior se llevará a cabo por «Aena Aeropuertos, S.A.» con sometimiento al derecho privado.
+Corresponde a la jurisdicción ordinaria la resolución de cuantas controversias se susciten en relación con la gestión y cobro de estos precios.
+2. Corresponderá la gestión, liquidación y el cobro de todas las prestaciones patrimoniales de carácter público referidas en el apartado 2 del artículo anterior a «Aena Aeropuertos, S.A.» o a sus filiales, que podrán utilizar para la efectividad del cobro la vía de apremio, cuya gestión se realizará por los órganos de recaudación de la Agencia Estatal de Administración Tributaria.
+3. Frente a los actos de gestión, liquidación y cobro de las prestaciones patrimoniales de carácter público dictados por «Aena Aeropuertos, S.A.» o sus sociedades filiales los obligados al pago podrán interponer la reclamación económico-administrativa conforme al procedimiento establecido en el capítulo IV del título V de la Ley 58/2003, de 17 diciembre, General Tributaria, así como en el Reglamento general de desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de revisión en vía administrativa.
+No obstante, contra las resoluciones de los tribunales económico-administrativos que resuelvan las reclamaciones interpuestas contra los actos de «Aena Aeropuertos, S.A.» o de sus sociedades filiales no podrán interponerse ni el recurso ordinario de alzada, ni el recurso extraordinario de alzada para la unificación de criterio, extraordinario para la unificación de doctrina y extraordinario de revisión.
+4. La competencia para conocer de las reclamaciones económico administrativas se ajustará a las siguientes reglas:
+a) El Tribunal Económico-Administrativo Central conocerá:
+1.º En única instancia, de las reclamaciones económico-administrativas que se interpongan contra los actos dictados por los órganos de «Aena Aeropuertos, S.A.»
+2.º De la rectificación de errores en los que incurran sus propias resoluciones, de acuerdo con lo dispuesto en el artículo 220 de la Ley 58/2003, de 17 diciembre, General Tributaria.
+b) Los tribunales económico-administrativos regionales y locales conocerán:
+1.º En única instancia, de las reclamaciones que se interpongan contra los actos dictados por los órganos de las sociedades filiales gestoras de aeropuertos.
+2.º De la rectificación de errores en los que incurran sus propias resoluciones, de acuerdo con lo dispuesto en el artículo 220 de Ley 58/2003, de 17 diciembre, General Tributaria.
+c) Tratándose de actos dictados por las sociedades filiales de «Aena Aeropuertos, S.A.», la competencia de los tribunales económico-administrativos regionales y locales vendrá determinada por el domicilio fiscal de la sociedad filial contra la que interponga la reclamación.
+5. El rendimiento de las prestaciones patrimoniales de carácter público se destinará, exclusivamente, a la financiación de los aeropuertos dependientes de la sociedad «Aena Aeropuertos, S.A.» o de sus filiales.
+La sociedad podrá denegar la prestación del servicio si no se produce el pago anticipado de la prestación patrimonial pública o no se ofrece garantía suficiente por parte del usuario.
+La Intervención General del Estado velará por la correcta gestión y aplicación de estos ingresos.
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 70
+
+Artículo 70. Ingresos de las sociedades filiales gestoras de aeropuertos.
+1. Las sociedades filiales gestoras de aeropuertos gestionarán y percibirán todos los precios privados y las prestaciones patrimoniales de carácter público derivadas de los servicios y actividades desarrolladas en los aeropuertos atribuidos a su gestión.
+2. No obstante lo señalado en el apartado anterior, mediante convenio de colaboración suscrito entre «Aena Aeropuertos S.A.» y cada sociedad filial se determinará el porcentaje de ingresos que estas últimas deban abonar a «Aena Aeropuertos, S.A.» para el mantenimiento de la red. Estos convenios de colaboración se podrán modificar cuando se alteren las circunstancias que se tomaron en consideración en el momento de su suscripción.
+3. Con las salvedades previstas en este artículo, se aplicará a las sociedades filiales gestoras de aeropuertos el mismo régimen económico financiero de «Aena Aeropuertos, S.A.».
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 71
+
+Artículo 71. Ingresos de las concesionarias de servicios aeroportuarios.
+Los ingresos que perciban las concesionarias de servicios aeroportuarios en el ejercicio de su actividad aeroportuaria tendrán la naturaleza de precios privados. Su gestión y cobro se realizará con sometimiento al derecho privado.
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## CAPÍTULO II
+
+Prestaciones patrimoniales de carácter público
+Con efectos de 1 de marzo de 2016, la cuantía de las prestaciones patrimoniales de carácter público de Aena S.A., establecidas en este capítulo, se disminuirán en un 1,9 por 100 respecto al nivel de las exigibles el 29 de febrero de 2016, según establece el art. 80.1 de la Ley 48/2015, de 29 de octubre Ref. BOE-A-2015-11644#a80.
+Véase el art. de 86.1 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616., sobre incremento en la cuantía de prestaciones patrimoniales.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## Sección 1ª
+
+Sección 1.ª Aspectos generales
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 72
+
+Artículo 72. Definiciones.
+A los efectos de la aplicación de las presentes prestaciones de carácter público se entenderá por:
+1. Aeropuerto: Todo aeropuerto, aeropuerto de utilización conjunta, base aérea abierta al tráfico civil o helipuerto gestionado por «Aena Aeropuertos, S.A.»
+2. Pasajeros: Las personas que sean transportadas en cualquier aeronave en calidad de viajeros como consecuencia de un contrato de transporte o arrendamiento o a título privado, y aquellas personas que no sean miembros de la tripulación.
+Pasajero EEE: pasajero embarcado con destino a un aeropuerto del Espacio Económico Europeo.
+Pasajero Internacional: pasajero embarcado con destino a un aeropuerto fuera del Espacio Económico Europeo.
+3. Peso máximo al despegue: El peso máximo certificado de despegue de la aeronave, expresado en toneladas métricas, será el que figura en el certificado de aeronavegabilidad. Cuando no se conozca el peso, se utilizará el peso de la aeronave más pesada que se conozca del mismo tipo.
+4. Vuelos de entrenamiento: los vuelos realizados para el adiestramiento o calificación de pilotos con objeto de revalidar y conservar las licencias.
+5. Vuelos de escuela: Aquéllos cuya finalidad sea el aprendizaje y adiestramiento de pilotos, siempre que se realicen en aeronaves de escuela y aeroclub, autorizados por la Agencia Estatal de Seguridad Aérea y cuando el inicio y final de la operación se realicen en un mismo aeropuerto, siendo necesario que el alumno acredite su condición de alumno piloto en la presentación del Plan de Vuelo ante la Oficina de Notificación de los Servicios de Tránsito Aéreo.
+6. Ruido certificado: Nivel de ruido lateral, de aproximación y de despegue, que figure en el certificado de ruido de la aeronave, expresado en EPNdB.
+7. Ruido determinado: Nivel de ruido lateral, de aproximación y de despegue, expresado en EPNdB, fruto de la aplicación de las siguientes fórmulas:
+Ruido lateral:
+Peso
+ 0-35 Tm
+ 35-400 Tm
+ Más de 400 Tm
+ Nivel
+ 94
+ 80,87 + 8,51Log(mtow)
+ 103
+Ruido aproximación:
+0-35 Tm
+ 35-280 Tm
+ Más de 280 Tm
+ Nivel
+ 98
+ 86,03 + 7,75Log(mtow)
+ 105
+Ruido despegue:
+Peso
+ 0-48,1 Tm
+ 48,1-385 Tm
+ Más de 385 Tm
+ Nivel 1 ó 2 motores
+ 89
+ 66,65 + 13,29Log(motw)
+ 101
+ Peso
+ 0-28,6 Tm
+ 28,6-385 Tm
+ Más de 385 Tm
+ Nivel 3 motores
+ 89
+ 69,65 + 13,29Log(motw)
+ 104
+ Peso
+ 0-20,2 Tm
+ 20,2-385 Tm
+ Más de 385 Tm
+ Nivel 4 motores o más
+ 89
+ 71,65 + 13,29Log(motw)
+ 106
+8. Margen acumulado: Cifra expresada en EPNdB obtenida sumando las diferencias entre el nivel de ruido determinado y el nivel certificado de ruido en cada uno de los tres puntos de mediciones del ruido de referencia tal y como se definen en el volumen 1, segunda parte, capítulo 3, anexo 16 del Convenio sobre Aviación Civil Internacional.
+9. Aviones de reacción subsónicos civiles: Aviones cuyo peso máximo al despegue sea igual o superior a 34.000 Kg., o con una capacidad interior máxima certificada para el tipo de avión de que se trate superior a 19 plazas de pasajeros, excluidas las plazas reservadas para la tripulación.
+10. Desembarque: Acto de salir de una aeronave después del aterrizaje, exceptuados los tripulantes o pasajeros que continúen el viaje durante la siguiente etapa del mismo vuelo directo.
+11. Embarque: acto de subir a bordo de una aeronave con objeto de comenzar un vuelo, exceptuados aquellos tripulantes o pasajeros que hayan embarcado en una de las etapas anteriores del mismo vuelo directo.
+12. Vuelo directo: La operación de las aeronaves que el explotador identifica en su totalidad, designándola con el mismo símbolo desde el punto de origen hasta el punto de destino con independencia del número de escalas.
+13. Tiempo entre calzos: Tiempo de permanencia de una aeronave, contado desde su detención en el punto de estacionamiento hasta su puesta de nuevo en movimiento.
+14. Pasajero en conexión: Pasajero que desembarcando en un aeropuerto gestionado por Aena Aeropuertos S.A. en un vuelo, vuelve a embarcar con el mismo billete y en el mismo aeropuerto, en un plazo máximo de 12 horas, al objeto de realizar un nuevo trayecto con un número de vuelo diferente y destino distinto al de origen.
+15. Aeropuerto estacional: Aeropuerto en el que en las temporadas de verano e invierno, inmediatas anteriores y cerradas, la media mensual de tráfico de pasajeros durante una temporada con respecto a la media mensual de la otra temporada esté en la proporción 65 por ciento-35 por ciento o superior.
+16. Temporada: El periodo de tiempo correspondiente a los meses de abril a octubre, considerado como temporada de verano, y a los meses de noviembre a marzo, considerado como temporada de invierno.
+17. Vuelo carguero: Vuelo para el transporte exclusivo de mercancías en el que no se admite el transporte conjunto de éstas y de pasajeros.
+Se añaden los apartados 14 a 17 por la disposición final 10.1 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651#decima-2.
+ Se modifica el apartado 4 por la disposición final 21.1.1 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 73
+
+Artículo 73. Clasificación de los aeropuertos.
+A los efectos de aplicación de las cuantías de las prestaciones a que se refiere este Capítulo, los aeropuertos quedarán clasificados en las siguientes categorías:
+a) Grupo I: Aeropuerto de Madrid-Barajas y aeropuerto de Barcelona.
+b) Grupo II: Aeropuertos con un tráfico igual o superior a los 6.000.000 de pasajeros/año.
+c) Grupo III: Aeropuertos con un tráfico igual o superior a 2.000.000 e inferior a 6.000.000 de pasajeros/año.
+d) Grupo IV: Aeropuertos con un tráfico superior a 500.000 e inferior a 2.000.000 de pasajeros/año.
+e) Grupo V: Aeropuertos con un tráfico hasta los 500.000 pasajeros/año.
+La inclusión de un aeropuerto en uno u otro grupo, se realizará por años naturales, tomando en consideración el tráfico habido en cada aeropuerto en el año natural inmediato anterior, según las estadísticas de tráfico publicadas por la Dirección General de Aviación Civil.
+Téngase en cuenta que este artículo se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre Ref. BOE-A-2014-10517. pero conservará su eficacia hasta la fecha de aplicación de la orden del titular del Ministerio de Fomento prevista en el art. 32.3 de la citada Ley, según establece su disposición final 5.3 y su disposición transitoria 10.
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que conservará su eficacia hasta la fecha de aplicación de la orden del titular del Ministerio de Fomento prevista en el art. 32.3 de la citada Ley, según establece su disposición final 5.3 y su disposición transitoria 10.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Téngase en cuenta que conservará su eficacia hasta la fecha de aplicación de la orden del titular del Ministerio de Fomento prevista en el art. 32.3 del citado Real Decreto-ley, según establece su disposición final 5.3, redactada conforme a la corrección de errores publicada en BOE núm. 167, de 10 de julio de 2014. Ref. BOE-A-2014-7287. y la disposición transitoria 10.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## Sección 2ª
+
+Sección 2.ª Prestación pública por aterrizaje y servicios de tránsito de aeródromo
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 74
+
+Artículo 74. Obligados al pago.
+Estarán obligados al pago de la prestación por aterrizaje y por servicios de tránsito de aeródromo, las compañías aéreas y las restantes personas físicas, jurídicas o entidades que utilicen las pistas o perciban los servicios definidos en artículo 68.2, letras a) y b).
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 75
+
+Artículo 75. Importes.
+1. El importe a abonar por las prestaciones reguladas en esta sección, por cada aeronave, será el resultado de aplicar al peso máximo al despegue de la aeronave, expresado en toneladas métricas, tal como figura en el certificado de aeronavegabilidad o en el manual de vuelo de la misma, el importe de las cuantías unitarias que se definen en los apartados siguientes, así como el recargo establecido en el artículo 76.
+2. Las cuantías unitarias de cada una de las dos tarifas serán iguales cualquiera que sea el origen del vuelo, nacional, del espacio económico europeo o internacional.
+3. Las cuantías unitarias por aeropuerto serán las siguientes:
+Aeropuerto
+ Tarifa unitaria de aterrizaje
+ Tarifa unitaria servicios tránsito de aeródromo
+ Madrid-Barajas
+ 7,73 €
+ 3,24 €
+ Barcelona-El Prat
+ 6,81 €
+ 3,22 €
+ Alicante, Gran Canaria, Málaga-Costa del Sol, Palma de Mallorca y Tenerife Sur
+ 6,46 €
+ 3,16 €
+ Bilbao, Fuerteventura, Girona, Ibiza, Lanzarote, Menorca, Santiago, Sevilla, Tenerife Norte y Valencia
+ 5,42 €
+ 2,90 €
+ A Coruña, Almería, Asturias, FGL Granada-Jaén, Jerez, La Palma, Murcia-San Javier, Reus, Santander, Vigo y Zaragoza
+ 3,97 €
+ 2,27 €
+ Albacete, Algeciras, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, Hierro, Huesca-Pirineos, La Gomera, León, Logroño, Melilla, Pamplona, Sabadell, Salamanca, San Sebastián, Son Bonet, Torrejón, Valladolid, Vitoria y resto de aeropuertos gestionados por Aena Aeropuertos S.A.
+ 2,62 €
+ 1,93 €
+Cuando los servicios de tránsito de aeródromo se presten bajo la modalidad de servicio de información de vuelo de aeródromo (AFIS) las cuantías unitarias de la tarifa de servicio de tránsito de aeródromo se reducirán en un sesenta por ciento.
+4. El importe mínimo a pagar por operación en concepto de aterrizaje y de servicios de transito de aeródromo, será el siguiente:
+Aeropuerto
+ Importe mínimo por operación-aterrizaje
+ Importe mínimo por operación-servicios tránsito de aeródromo
+ Madrid-Barajas.
+ 154,62 €
+ 71,88 €
+ Barcelona-El Prat.
+ 136,19 €
+ 71,48 €
+ Alicante, Gran Canaria, Málaga-Costa del Sol, Palma de Mallorca y Tenerife Sur.
+ 96,92 €
+ 51,20 €
+ Bilbao, Fuerteventura, Girona, Ibiza, Lanzarote, Menorca, Santiago, Sevilla, Tenerife Norte y Valencia.
+ 14,66 €
+ 7,84 €
+ A Coruña, Almería, Asturias, FGL Granada-Jaén, Jerez, La Palma, Murcia-San Javier, Reus, Santander, Vigo y Zaragoza.
+ 10,82 €
+ 6,18 €
+ Albacete, Algeciras, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, Hierro, Huesca-Pirineos, La Gomera, León, Logroño, Melilla, Pamplona, Sabadell, Salamanca, San Sebastián, Son Bonet, Torrejón, Valladolid, Vitoria y resto de aeropuertos gestionados por Aena Aeropuertos S.A.
+ 5,86 €
+ 4,31 €
+El mínimo por operación en concepto de aterrizaje y servicios de tránsito aéreo de aeródromo no serán de aplicación a los vuelos de escuela y entrenamiento.
+Tampoco será de aplicación el mínimo por operación en concepto de aterrizaje y servicios de tránsito de aeródromo en los aeropuertos españoles de la red Aena SME, S.A., en el caso de las operaciones regulares comerciales de helicópteros con origen en los helipuertos de Ceuta y Algeciras.
+5. A los vuelos de escuela y entrenamiento se les aplicará las siguientes cuantías unitarias:
+Aeropuerto
+ Tarifa unitaria de aterrizaje
+ Tarifa unitaria de servicios de tránsito de aeródromo
+ Madrid-Barajas
+ 5,45 €
+ 3,59 €
+ Barcelona-El Prat
+ 5,25 €
+ 3,57 €
+ Alicante, Gran Canaria, Málaga-Costa del Sol, Palma de Mallorca y Tenerife Sur
+ 4,71 €
+ 3,51 €
+ Bilbao, Fuerteventura, Girona, Ibiza, Lanzarote, Menorca, Santiago, Sevilla, Tenerife Norte y Valencia
+ 4,71 €
+ 3,22 €
+ A Coruña, Almería, Asturias, FGL Granada- Jaén, Jerez, La Palma, Murcia-San Javier, Reus, Santander, Vigo y Zaragoza
+ 4,21 €
+ 2,53 €
+ Albacete, Algeciras, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, Hierro, Huesca- Pirineos, La Gomera, León, Logroño, Melilla, Pamplona, Sabadell, Salamanca, San Sebastián, Son Bonet, Torrejón, Valladolid, Vitoria y resto de aeropuertos gestionados por Aena Aeropuertos S.A.
+ 3,72 €
+ 2,14 €
+Para los vuelos de entrenamiento y escuela en maniobras u operaciones de simulación de aterrizaje y despegue sobre pista o campo de vuelo, y a los efectos de la tarifa de aterrizaje anterior, se aplicará la siguiente tabla de equivalencia entre el peso del avión y el número de aterrizajes a contabilizar en periodos de 90 minutos o fracción, independientemente del número de maniobras o pasadas que se realicen:
+Tramos de peso
+ Coeficiente multiplicador por periodos de 90 minutos o fracción
+ Porciones de peso en Kg.
+ Desde
+ Hasta
+ 1
+ 4.999
+ 2
+ 5.000
+ 40.000
+ 6
+ 40.001
+ 100.000
+ 5
+ 100.001
+ 250.000
+ 4
+ 250.001
+ 300.000
+ 3
+ 300.001
+ 
+ 2
+Las operaciones reguladas en el caso de vuelos de entrenamiento y de escuela estarán condicionadas en todo caso a la autorización preceptiva del aeropuerto en base a las posibilidades operativas, dando prioridad absoluta a la actividad aeroportuaria normal.
+6. En operaciones fuera del horario operativo del aeropuerto, en aquellos aeropuertos en que esté autorizado el servicio, se aplicarán las siguientes cuantías unitarias, cualquiera que sea el grupo en que quede englobada dicha instalación:
+Tarifa unitaria aterrizaje: 28,67 €/Tm.
+Tarifa unitaria servicios de tránsito de aeródromo: las cuantías recogidas en el apartado 4 del presente artículo, correspondientes al importe mínimo por operación en servicios tránsito de aeródromo.
+7. La cuantía unitaria de aterrizaje contemplada en los apartados 3, 4 y 6, en los aeropuertos de las Islas Canarias, Baleares, Ceuta y Melilla, se reducirá en un 15% en los supuestos de vuelos con el territorio peninsular y en un 70% cuando se trate de vuelos interinsulares.
+Esta reducción de cuantías no será de aplicación en el caso de vuelos privados.
+8. No obstante lo establecido en el apartado 6, a los vuelos cargueros que operen fuera del horario operativo de los aeropuertos del grupo V se les aplicarán las cuantías recogidas en los apartados 3 y 4 del presente artículo.
+9. No obstante lo establecido en el apartado 6 del presente artículo, en aquellos aeropuertos cuyo horario operativo incluya la apertura en la totalidad del periodo comprendido entre las cero y las seis hora local, a los vuelos que operen fuera del horario operativo se les aplicarán las cuantías recogidas en los apartados 3 y 4 del presente artículo.
+Se añade un párrafo al apartado 4 por la disposición final 2 del Real Decreto-ley 9/2019, de 29 de marzo. Ref. BOE-A-2019-4668#df-2
+ Se añade el apartado 9 por la disposición final 5 del Real Decreto-ley 17/2014, de 26 de diciembre. Ref. BOE-A-2014-13613.
+ Se modifican los apartados 4, 7 y se actualizan las cuantías por el art. 86 y disposición final 12.1 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Téngase en cuenta el incremento del 0,9% para los aeropuertos indicados en el apartado 2.
+ Se modifica el apartado 4 y se añade el apartado 8 por la disposición final 10.2 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651#decima-2.
+ Se modifican los apartados 3, 4, 5 y 6 por la disposición final 21.1.2 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 76
+
+Artículo 76. Recargo por ruido.
+En los aeropuertos de Alicante, Barcelona, Madrid-Barajas, Málaga, Palma de Mallorca, Gran Canaria, Tenerife Sur, Valencia, Bilbao, Ibiza, Sevilla y Tenerife Norte para los aviones de reacción subsónicos civiles, los importes de las cuantías unitarias que resulten de aplicación en función de lo previsto en los apartados 3 y 4 del artículo anterior se incrementarán en los siguientes porcentajes en función de la franja horaria en que se produzca el aterrizaje o el despegue y de la clasificación acústica de cada aeronave:
+Clasificación acústica
+ De 07:00 a 22:59 (hora local)
+ –
+ Porcentaje
+ De 23:00 a 06:59
+ (hora local)
+ –
+ Porcentaje
+ Categoría 1
+ 70
+ 140
+ Categoría 2
+ 20
+ 40
+ Categoría 3
+ 0
+ 0
+ Categoría 4
+ 0
+ 0
+La categoría acústica de cada aeronave se determinará conforme a los siguientes criterios:
+a) Categoría 1: aeronaves cuyo margen acumulado sea inferior a 5 EPNdB.
+b) Categoría 2: aeronaves cuyo margen acumulado esté comprendido entre 5 EPNdB y 10 EPNdB.
+c) Categoría 3: aeronaves cuyo margen acumulado sea superior a 10 EPNdB e inferior a 15 EPNdB.
+d) Categoría 4: aeronaves cuyo margen acumulado sea igual o superior a 15 EPNdB.
+A estos efectos las compañías aéreas presentarán, antes de la salida del vuelo, copia del certificado oficial de ruido ajustado a lo establecido en el Anexo 16 al Convenio sobre Aviación Civil Internacional, relativo a la protección del medio ambiente, o documento de similares características y validez expedido por el estado de matrícula de la aeronave.
+Para aquellas aeronaves cuyos operadores no faciliten certificado de ruido serán consideradas dentro de la misma categoría que una aeronave del mismo fabricante, modelo, tipo y número de motores para el que sí se disponga de certificado a efectos de la clasificación acústica, hasta la acreditación del certificado correspondiente.
+Se modifica por la disposición final 21.1.3 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## Sección 3ª
+
+Sección 3.ª Prestaciones públicas por salida de pasajeros, PMRs y seguridad
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 77
+
+Artículo 77. Obligados al pago.
+Estarán obligados al pago de estas prestaciones, tal como han quedado definidas en el artículo 68.2, letras d), e) y f), las compañías aéreas, Administraciones, organismos y particulares que transporten a los pasajeros que embarquen en un aeropuerto o helipuerto gestionado por «Aena Aeropuertos Españoles, S.A.», independientemente de las etapas posteriores intermedias que pueda realizar dicho vuelo y el destino del mismo.
+El importe de estas prestaciones podrá ser repercutido a los pasajeros en el correspondiente título de transporte.
+Estas prestaciones no serán de aplicación a los pasajeros transportados a título privado, en aeronaves cuyo peso máximo al despegue sea inferior a 5 Tm.
+Téngase en cuenta que el último apartado surte efectos desde el 1 de marzo de 2015, según establece la disposición final 6 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+Se añade el último apartado por la disposición final 6.1 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+ Téngase en cuenta que esta modificación surte efectos desde el 1 de marzo de 2015, según establece la disposición final 6 de la citada norma.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 78
+
+Artículo 78. Importes.
+1. Las cuantías serán las siguientes por cada pasajero:
+Aeropuerto
+ Cuantía Pasajero
+ Cuantía de Seguridad Aeroportuaria
+ Cuantía PMR
+ EEE
+ Internacional
+ Madrid-Barajas
+ 14,44 €
+ 20,44 €
+ 3,46 €
+ 0,61 €
+ Barcelona-El Prat
+ 13,44 €
+ 16,44 €
+ 3,46 €
+ 0,61 €
+ Alicante, Gran Canaria, Palma de Mallorca, Málaga-Costa del Sol y Tenerife Sur
+ 5,99 €
+ 9,03 €
+ 3,46 €
+ 0,61 €
+ Bilbao, Fuerteventura, Girona, Ibiza, Lanzarote, Menorca, Santiago, Sevilla, Tenerife Norte y Valencia
+ 5,11 €
+ 7,67 €
+ 3,46 €
+ 0,61 €
+ A Coruña, Almería, Asturias, FGL Granada-Jaén, Jerez, La Palma, Murcia-San Javier, Reus, Santander, Vigo y Zaragoza
+ 3,66 €
+ 5,49 €
+ 3,46 €
+ 0,61 €
+ Albacete, Algeciras, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, El Hierro, Huesca-Pirineos, La Gomera, León, Logroño, Melilla, Pamplona, Sabadell, Salamanca, San Sebastián, Son Bonet, Torrejón, Valladolid, Vitoria y resto de aeropuertos gestionados por Aena Aeropuertos S.A.
+ 2,40 €
+ 3,59 €
+ 3,46 €
+ 0,61 €
+La cuantía de seguridad aeroportuaria, cuando se trate de vuelos interinsulares, será de 1,73 euros por pasajero.
+Con efectos 1 de marzo de 2016 y vigencia indefinida, las cuantías unitarias de las prestaciones públicas por salida de pasajeros y por seguridad para los pasajeros en conexión se reducirán en un 40 por ciento.
+Téngase en cuenta que esta última actualización del párrafo final del apartado 1 establecido por el art. 80.2 de la Ley 48/2015, de 29 de octubre Ref. BOE-A-2015-11644#a80. surte efectos a partir del 1 de marzo de 2016.
+ Redacción anterior:
+ "Las cuantías unitarias de las prestaciones públicas por salida de pasajeros y por seguridad para los pasajeros en conexión se reducirán en un 35 por 100."
+2. (Suprimido).
+3. Las cuantías de pasajero, seguridad aeroportuaria y PMR previstas en los apartados 1 y 2, en los aeropuertos de las Islas Canarias, Illes Balears, Ceuta y Melilla, se reducirá en un 15% en los supuestos de vuelos con el territorio peninsular y un 70% cuando se trate de vuelos interinsulares.
+4. En los aeropuertos estacionales de Baleares, Canarias, Ceuta y Melilla, las cuantías unitarias de las prestaciones públicas por salida de pasajeros y seguridad se bonificarán en un 20 por ciento durante los meses de la temporada de menor tráfico.
+[5]. En los aeropuertos de las Islas Canarias, Illes Balears, Ceuta y Melilla, la reducción de cuantías del 15 por 100 en los supuestos de vuelos con el territorio peninsular y del 70 por 100 cuando se trate de vuelos interinsulares no será de aplicación en el caso de vuelos privados.
+Se modifica el párrafo final del apartado 1, con efectos de 1 de marzo de 2016, por el art. 80.2 de la Ley 48/2015, de 29 de octubre Ref. BOE-A-2015-11644#a80.
+ Se modifica el párrafo final del apartado 1 por la disposición final 6.2 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+ Téngase en cuenta que esta modificación surte efectos desde el 1 de marzo de 2015, según establece la disposición final 6 de la citada norma.
+ Se modifica la cuantía de la prestación pública PMR, el párrafo final del apartado 1 y se añade un apartado por el art. 86.1 y disposición final 12.2 y 3 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se suprime el apartado 2 por el artículo 2.1 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se añaden el párrafo final al apartado 1 y el apartado 4 por la disposición final 10.3 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651#decima-2.
+ Se modifican los apartados 1 y 2 por la disposición final 21.1.4 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 183, de 1 de agosto de 2012. Ref. BOE-A-2012-10341.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## Sección 4ª
+
+Sección 4.ª Prestación pública por carga
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 79
+
+Artículo 79. Obligados al pago.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 80
+
+Artículo 80. Importe.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se modifica por la disposición final 21.1.5 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 81
+
+Artículo 81. Descuentos y exenciones.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se modifica por la disposición final 12.5 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## Sección 5ª
+
+Sección 5.ª Prestación pública por servicios de estacionamiento
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 82
+
+Artículo 82. Obligados al pago.
+Vendrán obligados al pago de esta prestación las compañías aéreas, Administraciones, organismos y particulares cuyas aeronaves estacionen en las zonas habilitadas al efecto en los aeropuertos o helipuertos.
+Cuando una aeronave aterrice en un aeropuerto por cuenta de un explotador y, tras un determinado tiempo de estacionamiento debido tanto a razones operativas como judiciales, se flete por distinto operador del de llegada, la deuda acumulada pendiente por los estacionamientos no liquidados deberá ser satisfecha en todo caso antes de producirse la salida de la aeronave.
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 83
+
+Artículo 83. Importe.
+1. En los aeropuertos de Madrid-Barajas, Barcelona-El Prat, Alicante, Gran Canaria, Málaga-Costa del Sol, Palma de Mallorca, Tenerife Sur, Bilbao, Fuerteventura, Girona, Ibiza, Lanzarote, Menorca, Santiago, Sevilla, Tenerife Norte y Valencia, la cuantía de la contraprestación de estacionamiento, en función del peso y el tiempo de permanencia de la aeronave en posición de estacionamiento, será el resultado de aplicar la siguiente fórmula:
+E = e*Tm*Ft
+Donde:
+E: contraprestación total a pagar por el servicio e: coeficiente unitario.
+Tm: peso máximo al despegue de la aeronave, expresado en toneladas.
+Ft: tiempo de estancia de la aeronave en posición de estacionamiento expresado en periodos de 15 minutos o fracción.
+El importe de los coeficientes unitarios será el siguiente:
+Aeropuerto
+ Por periodos de 15 minutos o fracción
+ Madrid-Barajas
+ 0,117760 €
+ Barcelona-El Prat
+ 0,112333 €
+ Alicante, Gran Canaria, Málaga-Costa del Sol, Palma de Mallorca y Tenerife Sur
+ 0,111309 €
+ Bilbao, Fuerteventura, Girona, Ibiza, Lanzarote, Menorca, Santiago, Sevilla, Tenerife Norte y Valencia
+ 0,061850 €
+No obstante lo anterior, el importe máximo de la contraprestación de estacionamiento en los aeropuertos anteriormente citados no podrá ser superior a 1.488 € durante las primeras 24 horas de estancia.
+A partir del segundo día de estancia, el importe máximo de la contraprestación de estacionamiento en los aeropuertos anteriormente citados no podrá ser superior a 811 € por cada 24 horas de estacionamiento adicionales.
+2. En los aeropuertos de A Coruña, Albacete, Algeciras, Almería, Asturias, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, Hierro, Huesca-Pirineos, FGL Granada-Jaén, Jerez, La Gomera, La Palma, León, Logroño, Melilla, Murcia-San Javier, Pamplona, Reus, Sabadell, Salamanca, San Sebastián, Seve Ballesteros-Santander, Son Bonet, Valladolid, Vigo, Vitoria, Zaragoza, y resto de aeropuertos que en fecha posterior puedan ser gestionados por Aena, S.A., las cuantías de la prestación de estacionamiento aplicables por día o fracción de tiempo superior a dos horas, en función del peso máximo al despegue, serán las siguientes:
+Aeronaves con MTOW hasta 10 Tm
+ Aeronaves de más
+ de 10 Tm de MTOW
+ 0-1,5 Tm
+ 1,5-2,7 Tm
+ 2,7-10 Tm
+ Todos Aeropuertos
+ 14,72 €
+ 19,62 €
+ 21,58 €
+ 0,881236 €/tm
+ mínimo: 21,58 €
+ Son Bonet (Julio y Agosto)
+ 36,79 €
+ 49,05 €
+ 53,96 €
+ 2,203091 €/tm
+ mínimo: 53,96 €
+ € / día o fracción
+ €/ tm día o fracción
+Para las aeronaves cuyo peso máximo al despegue sea inferior a 5 Tm las cuantías anteriores de la prestación de estacionamiento serán aplicables por día o fracción de tiempo superior a tres horas.
+– Cuantías para abonos por mes natural:
+Para obligados al pago que tengan algún contrato firmado con el aeropuerto donde se produce el estacionamiento:
+Aeronaves con MTOW hasta 10 Tm
+ Aeronaves de más de 10 Tm de MTOW
+ 0-1,5 Tm
+ 1,5-2,7 Tm
+ 2,7-10 Tm
+ Abono mensual
+ 88,29 €
+ 147,15 €
+ 245,25 €
+ 0,881236 €/tm * MTOW * 30
+ € / mes
+ € / mes
+Para obligados al pago que no tengan contratos firmados con el aeropuerto donde se produce el estacionamiento:
+Aeronaves con MTOW hasta 10 Tm
+ Aeronaves de más de 10 Tm de MTOW
+ 0-1,5 Tm
+ 1,5-2,7 Tm
+ 2,7-10 Tm
+ Abono mensual
+ 132,44 €
+ 245,25 €
+ 392,4 €
+ 1,314540 €/tm * MTOW * 30
+ € / mes
+ € / mes
+El pago del importe de los abonos, que únicamente serán válidos para cada aeropuerto en cuestión, se deberá realizar por anticipado entre los días 1 y 5 de cada mes.
+Téngase en cuenta que esta última actualización del apartado 2 establecido por el art. 80.3 de la Ley 48/2015, de 29 de octubre Ref. BOE-A-2015-11644#a80. entra en vigor el 1 de enero de 2016.
+ Redacción anterior:
+ "2. En los aeropuertos de A Coruña, Albacete, Algeciras, Almería, Asturias, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, Hierro, Huesca-Pirineos, FGL Granada-Jaén, Jerez, La Gomera, La Palma, León, Logroño, Melilla, Murcia-San Javier, Pamplona, Reus, Sabadell, Salamanca, San Sebastián, Santander, Son Bonet, Valladolid, Vigo, Vitoria, Zaragoza, y resto de aeropuertos gestionados por Aena Aeropuertos S.A., las cuantías de la prestación de estacionamiento aplicables por día o fracción de tiempo superior a dos horas, en función del peso máximo al despegue, serán las siguientes:
+ 
+ – Cuantías generales:
+ Aeronaves con MTOW hasta 10 Tm
+ Aeronaves de más
+ de 10 Tm de MTOW
+ 0-1,5 Tm
+ 1,5-2,7 Tm
+ 2,7-10 Tm
+ Todos Aeropuertos
+ 15 €
+ 20 €
+ 22 €
+ 0,898304 €/tm
+ mínimo: 22 €
+ Son Bonet (julio y agosto)
+ 37,5 €
+ 50 €
+ 55 €
+ 2,24576 €/tm
+ mínimo: 55 €
+ €/día o fracción
+ €/tm día o fracción
+ – Cuantías para abonos por mes natural:
+ Para obligados al pago que tengan algún contrato firmado con el aeropuerto donde se produce el estacionamiento:
+ Aeronaves con MTOW hasta 10 Tm
+ Aeronaves de más
+ de 10 Tm de MTOW
+ 0-1,5 Tm
+ 1,5-2,7 Tm
+ 2,7-10 Tm
+ Abono mensual
+ 90 €
+ 150 €
+ 250 €
+ 0,898304 €/tm *
+ MTOW * 30
+ €/mes
+ €/mes
+ Para obligados al pago que no tengan contratos firmados con el aeropuerto donde se produce el estacionamiento:
+ Aeronaves con MTOW hasta 10 Tm
+ Aeronaves de más
+ de 10 Tm de MTOW
+ 0-1,5 Tm
+ 1,5-2,7 Tm
+ 2,7-10 Tm
+ Abono mensual
+ 135 €
+ 250 €
+ 400 €
+ 1,34 €/tm * MTOW * 30
+ €/mes
+ €/mes
+ El pago del importe de los abonos, que únicamente serán válidos para cada aeropuerto en cuestión, se deberá realizar por anticipado entre los días 1 y 5 de cada mes."
+3. Para aplicar los importes anteriores será requisito necesario que, durante el periodo de estacionamiento, la aeronave no esté ocupando posición de pasarela telescópica o de hangar.
+A los efectos de aplicación de esta contraprestación se considera tiempo de estacionamiento el tiempo entre calzos.
+Entre las cero y las seis, hora local, se interrumpirá el cómputo de tiempo a efectos de aplicación de la contraprestación.
+Se modifica el apartado 2, con efectos de 1 de enero de 2016, por el art. 80.3 de la Ley 48/2015, de 29 de octubre Ref. BOE-A-2015-11644#a80.
+ Se modifica el apartado 2 por la disposición final 12.4 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se modifica por la disposición final 21.1.6 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## Sección 6ª
+
+Sección 6.ª Prestación pública por suministro de combustibles y lubricantes
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 84
+
+Artículo 84. Obligados al pago.
+Estarán obligados al pago de esta prestación las entidades suministradoras de los productos a los que la misma se refiere.
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 85
+
+Artículo 85. Importe.
+El importe de la contraprestación se determinará aplicando al volumen de combustible o lubricante suministrado, las cuantías unitarias siguientes:
+Queroseno: 0,003938 €/ litro.
+Gasolina de Aviación: 0,006700 €/ litro.
+Lubricantes: 0,006700 €/ litro.
+Se modifica por la disposición final 21.1.7 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## Sección 7ª
+
+Sección 7.ª Prestación pública por uso de pasarelas
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 86
+
+Artículo 86. Obligados al pago.
+Está obligada al pago de la prestación por uso de pasarelas la compañía aérea explotadora de la aeronave para cuyo embarque o desembarque del pasaje, se facilite la utilización de la pasarela o que haga uso de la posición de plataforma que impida la utilización de la pasarela por terceros usuarios.
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 87
+
+Artículo 87. Importe.
+El importe de la presente contraprestación, en función del peso y el tiempo de permanencia de la aeronave en posición de pasarela, será el resultado de aplicar la siguiente fórmula:
+P = (p1 + p2*Tm)*Ft
+Donde:
+P: contraprestación total a pagar por el servicio.
+p1: cuantía unitaria por tiempo de estancia en pasarela.
+p2: cuantía por peso de la aeronave y tiempo de estancia en pasarela.
+Tm: peso máximo al despegue de la aeronave, expresado en toneladas, conforme se define en el artículo 2 de la presente Ley.
+Ft: tiempo de estancia de la aeronave en pasarela expresado en periodos de 15 minutos o fracción.
+Las cuantías unitarias de los elementos p1 y p2 son las siguientes:
+p1
+ p2
+ Madrid-Barajas
+ 30,6278 €
+ 0,00 €
+ Barcelona-El Prat
+ 27,7683 €
+ 0,00 €
+ Alicante, Gran Canaria, Málaga-Costa del Sol, Palma de Mallorca y Tenerife Sur
+ 24,4207 €
+ 0,00 €
+ Bilbao, Fuerteventura, Girona, Ibiza, Lanzarote, Menorca, Santiago, Sevilla, Tenerife Norte y Valencia
+ 23,4814 €
+ 0,00 €
+ A Coruña, Almería, Asturias, FGL Granada-Jaén, Jerez, La Palma, Murcia-San Javier, Reus, Santander, Vigo y Zaragoza
+ 23,4814 €
+ 0,00 €
+ Albacete, Algeciras, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, Hierro, Huesca-Pirineos, La Gomera, León, Logroño, Melilla, Pamplona, Sabadell, Salamanca, San Sebastián, Son Bonet, Torrejón, Valladolid, Vitoria y resto de aeropuertos gestionados por Aena Aeropuertos S.A.
+ 23,4814 €
+ 0,00 €
+Para aquellas aeronaves susceptibles de ser conectadas a más de una pasarela simultáneamente que estacionen en posiciones de pasarelas especialmente diseñadas para esta finalidad, la cuantía unitaria por cada pasarela adicional conectada se reducirá en un setenta y cinco por ciento.
+Entre las cero y las seis, hora local, cuando, encontrándose una aeronave ocupando una posición de pasarela, la compañía explotadora solicite una posición de estacionamiento en remoto y no hubiera en ese momento ninguna disponible, o si por razones operativas, no procediera el cambio a juicio de la autoridad aeronáutica, el aeropuerto desconectará de la aeronave el servicio de pasarelas e interrumpirá el cómputo de tiempo a efectos de aplicación de la tarifa. No obstante, la compañía quedará obligada a trasladar la aeronave a un puesto de estacionamiento en remoto, en el momento en que se le indique, por haber quedado libre o haber desaparecido las razones anteriores. En caso de no realizar esta operación y, por ello, no poder ser utilizada la pasarela por otros usuarios que la solicitaran, se le aplicará la cuantía que hubiera correspondido a esas utilizaciones no efectuadas.
+Se modifica el penúltimo párrafo por el art. 98 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-92
+ Se modifica por la disposición final 21.1.8 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## Sección 8ª
+
+Sección 8.ª Prestación pública por servicios de asistencia en tierra
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 88
+
+Artículo 88. Obligados al pago.
+Están obligados al pago de la prestación por servicios de asistencia en tierra las personas físicas o jurídicas autorizadas, de acuerdo con la normativa vigente, para realizar actividades de asistencia en tierra a aeronaves propias o de terceros.
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 89
+
+Artículo 89. Importe.
+1. La cuantía de la contraprestación regulada en esta sección será la siguiente, en función de los servicios de asistencia en tierra que lleve a cabo el obligado al pago:
+a) Asistencia a la aeronave:
+1.1. Servicios de rampa.
+1.1.1. Servicios de asistencia de equipajes, grupo de servicios número 3: 58,05 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
+1.1.2. Servicios de asistencia a las operaciones en pista, grupo de servicios número 5: 18,43 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
+1.2. Servicios de asistencia de limpieza y servicio de la aeronave, grupo de servicios número 6 excepto la asistencia de limpieza de la nieve, el hielo y la escarcha de la aeronave: 10,12 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
+1.3. Servicios de asistencia de limpieza de la nieve, el hielo y la escarcha de la aeronave, parte del grupo 6.b): 2,75 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
+1.4. Servicios de asistencia de mantenimiento en línea, grupo de servicios número 8: 2,75 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
+Cuando el peso máximo al despegue de las aeronaves no se encuentre comprendido entre 56 y 71 toneladas métricas, a las cuantías anteriores se le aplicarán los siguientes coeficientes en función del intervalo de peso en el que se encuentre incluida la aeronave:
+Intervalo de peso máximo al despegue (Tm)
+ Coeficiente
+ Aeronaves entre 0 y menos de 16 Tm
+ 13,16%
+ Aeronaves entre 16 y menos de 22 Tm o fracción
+ 17,51%
+ Aeronaves entre 22 y menos de 38 Tm o fracción
+ 28,04%
+ Aeronaves entre 38 y menos de 56 Tm o fracción
+ 77,88%
+ Aeronaves entre 56 y menos de 72 Tm o fracción
+ 100,00%
+ Aeronaves entre 72 y menos de 86 Tm o fracción
+ 120,33%
+ Aeronaves entre 86 y menos de 121 Tm o fracción
+ 135,30%
+ Aeronaves entre 121y menos de 164 Tm o fracción
+ 150,28%
+ Aeronaves entre 164 y menos de 191 Tm o fracción
+ 179,37%
+ Aeronaves entre 191 y menos de 231 Tm o fracción
+ 202,50%
+ Aeronaves entre 231 y menos de 300 Tm o fracción
+ 264,81%
+ Aeronaves de más de 300 Tm o fracción
+ 314,64%
+1.5 Servicios de asistencia de mayordomía ("catering"), grupo de servicios número 11: las cuantías en euros por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción serán las siguientes:
+Aeropuerto
+ EEE
+ Internacional
+ Madrid-Barajas
+ 29,88
+ 49,80
+ Barcelona-El Prat
+ 20,92
+ 34,86
+ Alicante, Gran Canaria, Tenerife Sur, Málaga-Costa del Sol y Palma de Mallorca
+ 19,42
+ 32,37
+ Bilbao, Fuerteventura, Girona, Ibiza, Lanzarote, Menorca, Santiago, Sevilla, Tenerife Norte y Valencia
+ 14,94
+ 24,90
+ Almería, Asturias, Coruña, Granada-Jaén, Jerez, La Palma, Murcia, Reus, Santander, Vigo y Zaragoza
+ 10,46
+ 17,43
+ Albacete, Algeciras, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, Hierro, Huesca, La Gomera, León, Logroño, Melilla, Sabadell, Salamanca, San Sebastián, Son Bonet, Pamplona, Torrejón, Vitoria y Valladolid
+ 5,98
+ 9,96
+b) Servicios de asistencia al pasajero, grupo de servicios número 2: 0,0404 € por cada pasajero de salida.
+Se añade el punto 1.5 a la letra a) por la disposición final 10.4 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651#decima-2.
+ Se modifica por la disposición final 21.1.9 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## Sección 9ª
+
+Sección 9.ª Prestación pública por servicios meteorológicos
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 90
+
+Artículo 90. Prestación patrimonial pública por servicios meteorológicos.
+1. Estarán obligados al pago de la prestación pública por servicios meteorológicos las compañías aéreas y las restantes personas físicas, jurídicas o entidades a los que se les facilite los servicios definidos en el artículo 68.2 c) en los vuelos que aterricen en un aeropuerto o helipuerto gestionado por Aena Aeropuertos S.A.
+2. El importe a abonar será el resultado de aplicar al peso máximo al despegue de la aeronave, expresado en toneladas, tal como figura en su certificado de aeronavegabilidad o en el manual de vuelo de la misma, una cuantía unitaria de 0,18 euros.
+Téngase en cuenta que esta última modificación del artículo efectuada por la disposición final 12.5 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616. surte efectos desde el 1 de marzo de 2014.
+Se modifica por la disposición final 12.5 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## CAPÍTULO III
+
+Actualización y modificación de las prestaciones patrimoniales de carácter público
+Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 91
+
+Artículo 91. Actualización y modificación.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 92
+
+Artículo 92. Propuesta de actualización de las cuantías.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que, de acuerdo con lo establecido en la disposición final 5.2 de la citada Ley, este artículo conservó su eficacia hasta el 1 de marzo de 2017, fecha de aplicación del primer Documento de Regulación Aeroportuaria (DORA). Ref. BOE-A-2017-2052
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Téngase en cuenta que conservará su eficacia hasta la fecha de aplicación del primer Documento de Regulación Aeroportuaria (DORA), según establece la disposición final 5.2 del citado Real Decreto-ley.
+ Se modifica la letra c) del apartado 2 por el art. 1 de la Ley 1/2014, de 28 de febrero. Ref. BOE-A-2014-2219.
+ Téngase en cuenta para su aplicación la disposición adicional 2 de la citada Ley.
+ Se modifica el apartado 2.c) por el art. 1 del Real Decreto-ley 11/2013, de 2 de agosto. Ref. BOE-A-2013-8556.
+ Se modifica por el art. 34 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## CAPÍTULO IV
+
+Procedimiento de transparencia, consulta y supervisión de determinadas tarifas aeroportuarias
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este capítulo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## Sección 1ª
+
+Sección 1.ª Disposiciones comunes
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que ya fue suprimida por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 93
+
+Artículo 93. Información a las autoridades administrativas.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 94
+
+Artículo 94. Tarifas aeroportuarias.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 95
+
+Artículo 95. Principio general de no discriminación.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 96
+
+Artículo 96. Autoridad de supervisión independiente.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## Sección 2ª
+
+Sección 2.ª Transparencia, consulta y supervisión en relación a las prestaciones patrimoniales públicas de «Aena Aeropuertos, S.A.» y sus sociedades filiales
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que ya fue suprimida por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 97
+
+Artículo 97. Ámbito del procedimiento de consulta y supervisión.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 98
+
+Artículo 98. Procedimiento de consulta.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que, de acuerdo con lo establecido en la disposición final 5.2 de la citada Ley, este artículo conservó su eficacia hasta el 1 de marzo de 2017, fecha de aplicación del primer Documento de Regulación Aeroportuaria (DORA). Ref. BOE-A-2017-2052
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Téngase en cuenta que conservará su eficacia hasta la fecha de aplicación del primer Documento de Regulación Aeroportuaria (DORA), según establece la disposición final 5.2 del citado Real Decreto-ley.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 99
+
+Artículo 99. Información suministrada.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 100
+
+Artículo 100. Acuerdos sobre nivel de servicio y servicios personalizados.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que, de acuerdo con lo establecido en la disposición final 5.2 de la citada Ley, este artículo conservó su eficacia hasta el 1 de marzo de 2017, fecha de aplicación del primer Documento de Regulación Aeroportuaria (DORA). Ref. BOE-A-2017-2052
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Téngase en cuenta que conservará su eficacia hasta la fecha de aplicación del primer Documento de Regulación Aeroportuaria (DORA), según establece la disposición final 5.2 del citado Real Decreto-ley.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 101
+
+Artículo 101. Supervisión de la propuesta de modificación o actualización.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## Sección 3ª
+
+Sección 3.ª Transparencia, consulta y supervisión en relación a las tarifas aeroportuarias de las sociedades concesionarias de servicios aeroportuarios
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que ya fue suprimida por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 102
+
+Artículo 102. Procedimiento de transparencia y consulta.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade el apartado 5 por la disposición final 4 del Real Decreto-ley 11/2011, de 26 de agosto. Ref. BOE-A-2011-14221.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 103
+
+Artículo 103. Supervisión de la modificación.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 104
+
+Artículo 104. Acuerdos sobre el nivel de servicio y servicios personalizados.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+## Sección 4ª
+
+Sección 4.ª Transparencia, consulta y supervisión en relación a las tarifas aeroportuarias de aeropuertos autonómicos y de titularidad privada
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que ya fue suprimida por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Artículo 105
+
+Artículo 105. Régimen de transparencia y supervisión.
+(Suprimido)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue suprimido por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Medios para la aplicación de la ley.
+1. Por el Gobierno y por los Ministerios y demás órganos administrativos competentes en cada caso se adoptarán las medidas precisas para adaptar las dotaciones presupuestarias, la estructura orgánica y la relación de puestos de trabajo de la Dirección General de Aviación Civil a las funciones que en esta ley se le encomiendan.
+2. Los militares de carrera de la Escala Superior de Oficiales del Cuerpo General del Ejército del Aire que se encuentren en la situación de reserva regulada en el artículo 144 de la Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas, podrán desempeñar los puestos de trabajo de inspección del personal aeronáutico en la Dirección General de Aviación Civil. La provisión de estos puestos se efectuará por el procedimiento que se establezca en la relación de puestos de trabajo de la citada Dirección General, y precisará en cada caso la previa conformidad del Ministerio de Defensa, siendo su régimen retributivo el previsto en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública y sus normas complementarias.
+Mediante norma reglamentaria se establecerán los requisitos específicos que deberá reunir dicho personal para desempeñar tales puestos de trabajo.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Modificación de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea.
+El artículo 58 de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea tendrá la siguiente redacción:
+«Artículo 58.
+Para el ejercicio de funciones, en vuelo o en tierra, en el ámbito de la aviación civil, que afecten al control del espacio aéreo, al tránsito y al transporte aéreo, será necesario estar en posesión de un título, licencia, autorización o certificado que faculte específicamente para ejercer esas funciones.
+Las condiciones para su obtención y las atribuciones, obligaciones y responsabilidades de sus titulares se determinarán de acuerdo con las normas del Derecho comunitario europeo, los tratados, convenios internacionales y normas de organismos internacionales de los que el Estado español sea parte y con lo dispuesto en esta ley y en sus normas de desarrollo.
+En todo caso, quienes ejerzan funciones o tengan responsabilidades vinculadas al control del espacio aéreo y a la seguridad del tránsito y del transporte aéreos, tanto en vuelo como en tierra, no podrán, sin causa justificada, abandonarlas o renunciar a su ejercicio en tanto no sean debidamente relevados o sustituidos.
+En el ámbito de la aviación militar, el Ministerio de Defensa determinará la titulación necesaria para el ejercicio de las funciones técnicas de la navegación aérea».
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Modificación de la Ley 50/1998, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
+El artículo 87 de la Ley 50/1998, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, tendrá la siguiente redacción:
+«Artículo 87. Procedimientos de disciplina de tráfico aéreo en materia de ruido.
+Uno. Mediante circular aeronáutica se fijarán los procedimientos de disciplina de tráfico aéreo en materia de ruido que las aeronaves civiles deberán seguir, en las fases de despegue y ascenso, en las de aproximación y aterrizaje y durante las fases previas y posteriores al vuelo en los aeropuertos.
+Lo previsto en tales procedimientos será exigible una vez publicada oficialmente la circular aeronáutica que los apruebe y, además, tras que hayan sido hechos públicos en las publicaciones de información aeronáutica previstas en las normas reguladoras de la circulación aérea.
+Dos. Asimismo, en el pilotaje de aeronaves civiles deberán respetarse los procedimientos a que se refiere el apartado anterior.
+Tres. Los procedimientos de disciplina de tráfico aéreo en materia de ruido aprobados específicamente para cada aeropuerto, deberán tener en cuenta los elementos con trascendencia acústica, las características físicas y de configuración del aeropuerto, el equipamiento de las ayudas a la navegación que soporten el guiado de los aviones y las características y limitaciones de los aviones afectados. Mediante dichos procedimientos podrán determinarse:
+a) Las restricciones temporales de utilización del aeropuerto.
+b) Las restricciones a la operación de aeronaves con base en la categoría acústica o niveles de ruido de las mismas.
+c) Las restricciones de uso de las distintas rutas establecidas de aproximación o salida, en función de las características y equipamiento de las aeronaves.
+d) Las restricciones de sobrevuelo o de altitud en zonas de especial sensibilidad acústica.
+e) Las restricciones a la utilización de reversa cuando no resulte justificado por razones de seguridad.
+f) Las restricciones por razón de horario o situación al uso de las unidades auxiliares de potencia.
+g) Las restricciones para la realización de pruebas de motores.
+h) Los niveles máximos de ruido establecidos en puntos de las trayectorias o cercanos al aeropuerto.
+i) Las desviaciones máximas permitidas respecto de las rutas en las que se presten servicios de tránsito aéreo definidas para cada maniobra, incluyendo las alturas a partir de las cuales se podrán permitir desviaciones mayores.
+j) Los métodos de abatimiento del ruido que requieran una combinación de medidas que afecten a las actuaciones del avión, como el uso de dispositivos hipersustentadores de borde de salida (flaps), potencias reducidas, pendientes de ascenso y otras, tendentes a disminuir el ruido, dentro de los límites que permitan los manuales de vuelo de las aeronaves afectadas.
+Cuatro. En todo caso deberán respetarse las limitaciones establecidas por las disposiciones vigentes sobre el uso de aviones de reacción subsónicos.»
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Colaboración técnica.
+El Ministerio de Fomento podrá encargar a organismos públicos y a sociedades mercantiles estatales que tengan la condición de medio propio instrumental y servicio técnico de la Administración General del Estado y de sus organismos y entidades de derecho público, la ejecución de actuaciones materiales propias de la inspección aeronáutica de carácter técnico o especializado distintas de las previstas en el apartado 2 del artículo 5.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Comisión Interministerial entre Defensa y Transportes (CIDETRA).
+La Comisión a la que se refiere el artículo 6 de esta ley será la Comisión Interministerial entre Defensa y Transportes (CIDETRA) creada por Orden de la Presidencia del Gobierno de 8 de noviembre de 1979, por la que se crea, con carácter permanente, la Comisión Interministerial prevista en el artículo 6.º del Real Decreto Ley 12/1978, de 27 de abril, sobre fijación y delimitación de facultades entre los Ministerios de Defensa y de Transportes y Comunicaciones en materia de aviación. En lo sucesivo, esta Comisión se denominará Comisión Interministerial entre Defensa y Fomento.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Las actuaciones específicas de inspección en materia de medicina aeronáutica que realice la Dirección General de Aviación Civil serán efectuadas por equipos de los que formará parte necesariamente personal sanitario, cualquiera que sea la naturaleza jurídica de la relación de empleo, dependiente de dicho órgano.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+El Gobierno, en el plazo de un año desde la entrada en vigor de esta ley, a propuesta del Ministerio de Fomento y oídas las organizaciones representativas de los sectores sociales afectados, regulará los requisitos de las aeronaves, productos, componentes, equipos aeronáuticos, sistemas aeroportuarios y de navegación, así como de los servicios, y actividades de la aviación civil, en orden a garantizar la seguridad y acceso de los pasajeros y usuarios que, por motivos de discapacidad o edad, presenten limitaciones de movilidad o comunicación.
+Dicha regulación se inspirará en los principios de no discriminación, compensación de desventajas, acceso universal y diseño para todos, incorporando las reglas y recomendaciones adoptadas por los organismos internacionales en dicha materia.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+La ordenación de los requisitos de formación y experiencia exigidos para el ejercicio profesional de actividades aeronáuticas se acomodará, en todo caso, a las reglas establecidas por las normas del Derecho comunitario europeo.
+En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno elaborará un proyecto de ley en el que se determinarán las equivalencias académicas de los títulos, licencias, diplomas o certificados que habilitan para el ejercicio de las funciones propias del personal aeronáutico.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Protocolo de colaboración en relación con la investigación técnica de accidentes e incidentes de la aviación civil.
+(Derogado)
+Se deroga por la disposición derogatoria única.a).4º de la Ley 2/2024, de 1 de agosto. Ref. BOE-A-2024-15937#dd
+ Se añade por el art. único.22 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Régimen y clasificación de instalaciones aeroportuarias.
+El régimen y clasificación de los aeropuertos, aeródromos militares y bases aéreas que figuran en el Real Decreto 1167/1995, de 7 de julio, sobre régimen de uso de los aeródromos utilizados conjuntamente por una base aérea y un aeropuerto y de las bases aéreas abiertas al tráfico civil, se mantiene vigente. Los derechos y obligaciones que figuran en el mismo, relativos al ente público Aeropuertos Españoles y Navegación Aérea (AENA), serán asumidos, en lo que le corresponda, por «Aena Aeropuertos S.A.»
+Se añade por el art. único.23 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Bases aéreas militares abiertas al tráfico civil y aeródromos de utilización conjunta civil y militar.
+En las bases aéreas militares abiertas al tráfico civil y en los aeródromos de utilización conjunta civil y militar donde la prestación de servicios de navegación aérea sea competencia del Ministerio de Defensa, se celebrará un convenio entre «Aena Aeropuertos S.A.» y el Ministerio de Defensa en el que se determinen los costes que la sociedad pública ha de compensar, en su caso, al Departamento Ministerial por los servicios que éste preste al tráfico civil, pudiendo acordarse los mecanismos compensatorios que se estimen pertinentes y, preferentemente, por vía de mantenimiento de los servicios e instalaciones militares de uso conjunto civil y militar.
+Se añade por el art. único.24 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Tasa de aproximación.
+De conformidad con lo previsto en la disposición adicional quinta de la Ley 9/2010, de 14 de abril, operada la integración de los costes por los servicios de control de tránsito de aeródromo en las prestaciones a percibir por «Aena Aeropuertos, S.A.» en los términos previstos en la presente Ley, el resto de los servicios relacionados con la llegada y salida de aeronaves a los aeropuertos incluidos en la Tasa de Aproximación regulada en el artículo 22 de la Ley 24/2001, de 27 de diciembre, y sus posteriores modificaciones, seguirán retribuyéndose a la entidad pública empresarial AENA a través de la citada tasa, a cuyo efecto las cuantías unitarias de la misma quedarán reducidas en un 90%.
+Se añade por el art. único.25 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Régimen jurídico del personal laboral de Aena.
+La negociación colectiva, la contratación y el régimen jurídico del personal laboral de la Entidad Pública Empresarial Aena que no tenga la condición de controlador de tránsito aéreo será el legalmente establecido para el personal de Aena Aeropuertos, S.A.
+Se añade por la disposición final 4.1 de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Procedimientos en materia de tarifas aeroportuarias.
+(Suprimida)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que esta disposición ya fue suprimida por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por la disposición final 4.2 de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta. Consulta sobre tarifas aeroportuarias.
+(Suprimida)
+Se suprime por el art. 53.10 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que esta disposición ya fue suprimida por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se suprime por el art. 53.10 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se añade por la disposición final 4.3 de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta. Tasa de seguridad aérea.
+1. Se crea la tasa de seguridad aérea que se regirá por esta ley y por las demás fuentes normativas que para las tasas se establecen en la Ley 8/1989, de 13 de abril de Tasas y Precios Públicos.
+2. Constituye el hecho imponible de la tasa de seguridad aérea la realización por parte de la Agencia Estatal de Seguridad Aérea de actividades y la prestación de servicios de supervisión e inspección en materia de seguridad aérea.
+También constituye el hecho imponible de dicha tasa la realización de las actividades de investigación técnica de los accidentes e incidentes de aviación civil que desarrolla la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.
+3. Estarán obligados al pago de la tasa, en su condición de sujetos pasivos contribuyentes, los pasajeros de salida que embarquen en los aeropuertos españoles, independientemente de las etapas posteriores intermedias que pueda realizar el vuelo y el destino del mismo. A estos efectos, tendrán la consideración de pasajeros aquellas personas que sean transportadas en calidad de viajeros como consecuencia de un contrato de transporte o de arrendamiento. Serán sujetos pasivos sustitutos, el particular, Administraciones, organismos o compañía aérea transportista, con quien el pasajero hubiera contratado el transporte o arrendamiento.
+4. La tasa no se aplicará al transporte de viajeros en aeronaves de Estado españolas o al servicio de las Comunidades Autónomas y otras Entidades Locales, siempre y cuando realicen servicios públicos no comerciales, o en aeronaves de Estado extranjeras, en el caso de que los Estados a que pertenezcan concedan análoga exención a las aeronaves de Estado españolas.
+5. La tasa no se exigirá al transporte de viajeros cuando éstos hubiesen adquirido el título de transporte en fecha anterior a la entrada en vigor de dicha tasa, con independencia de la fecha en que se realice dicho transporte.
+6. La tasa se devengará en el momento del embarque del pasajero y se liquidará por la compañía aérea, en tanto que sujeto pasivo sustituto, al gestor aeroportuario con antelación a la salida de la aeronave que transporte al pasajero, o, cuando así se acuerde por el gestor aeroportuario con la aprobación de la Agencia Estatal de Seguridad Aérea y de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil, dentro de los primeros diez días de cada mes con referencia a los devengos producidos en el mes anterior.
+7. El gestor aeroportuario liquidará en nombre de la Agencia Estatal de Seguridad Aérea y la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil la tasa de seguridad aérea a las compañías aéreas. Las cantidades percibidas por el gestor aeroportuario por esta tasa serán ingresadas por éste mensualmente, y siempre dentro de los quince primeros días naturales, mediante transferencia directa a la Agencia Estatal de Seguridad Aérea y a la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil, el gestor aeroportuario realizará una liquidación con las cantidades percibidas por esta tasa según el criterio de reparto establecido en el apartado 11 de esta disposición.
+La cantidad a transferir cada mes (M) será la suma de todos los importes de los derechos de la Agencia Estatal de Seguridad Aérea y a la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil relacionados con la tasa de seguridad aérea efectivamente cobrados por el gestor aeroportuario durante el mes anterior (M-1). Dicha cantidad incluirá tanto los importes facturados y percibidos por el gestor aeroportuario correspondientes a las tasas de seguridad aérea devengadas en el mes inmediato anterior (M-1), como los importes correspondientes a lo efectivamente cobrado en dicho mes por la facturación correspondiente a meses anteriores que no se hubiera satisfecho en el mes de devengo, incluyendo, en su caso, los posibles recargos ejecutivos gestionados por el gestor aeroportuario y efectivamente cobrados, que son la parte proporcional de los posibles intereses por demora en el pago.
+Junto a la liquidación mensual correspondiente, el gestor aeroportuario remitirá a la Agencia Estatal de Seguridad Aérea y a la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviario, marítimo y de aviación civil una certificación en la que se desglose la cantidad ingresada por el sujeto obligado al pago y por fecha de devengo de la tasa, así como el número de pasajeros embarcados en el mes inmediato anterior.
+8. La cuantía de esta tasa será de 0,63 euros por pasajero de salida.
+9. Se aplicará a la cuantía de esta tasa las reducciones previstas en el artículo 78.3 para la prestación patrimonial pública de seguridad aeroportuaria devengada en los aeropuertos de las Islas Canarias, Illes Balears, Ceuta y Melilla.
+10. La gestión y cobro de la tasa corresponde a la Agencia Estatal de Seguridad Aérea y a la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil, con la colaboración del gestor aeroportuario en los términos establecidos en el apartado 7.
+11. El importe de lo recaudado por esta tasa formará parte del presupuesto de ingresos de la Agencia Estatal de Seguridad Aérea y del de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil según el siguiente criterio de reparto:
+a) El 97,697 % corresponderá a la Agencia Estatal de Seguridad Aérea.
+b) El 2,303 % corresponderá a la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.
+10. La gestión y cobro de la tasa corresponde a la Agencia Estatal de Seguridad Aérea, con la colaboración del gestor aeroportuario en los términos establecidos en el apartado 7.
+11. El importe íntegro de lo recaudado por esta tasa formará parte del presupuesto de ingresos de la Agencia Estatal de Seguridad Aérea.
+Téngase en cuenta que esta actualización, establecida por la disposición final 1.2 de la Ley 2/2024, de 1 de agosto. Ref. BOE-A-2024-15937#df, entra en vigor al día siguiente de la efectiva constitución de la Autoridad de acuerdo con lo previsto en sus disposiciones finales 6 y 7.
+ Redacción anterior:
+ "1. Se crea la tasa de seguridad aérea que se regirá por esta ley y por las demás fuentes normativas que para las tasas se establecen en la Ley 8/1989, de 13 de abril de Tasas y Precios Públicos.
+ 2. Constituye el hecho imponible de la tasa de seguridad aérea la realización por parte de la Agencia Estatal de Seguridad Aérea de actividades y la prestación de servicios de supervisión e inspección en materia de seguridad aérea.
+ 3. Estarán obligados al pago de la tasa, en su condición de sujetos pasivos contribuyentes, los pasajeros de salida que embarquen en los aeropuertos españoles, independientemente de las etapas posteriores intermedias que pueda realizar el vuelo y el destino del mismo. A estos efectos, tendrán la consideración de pasajeros aquellas personas que sean transportadas en calidad de viajeros como consecuencia de un contrato de transporte o de arrendamiento. Serán sujetos pasivos sustitutos, el particular, Administraciones, organismos o compañía aérea transportista, con quien el pasajero hubiera contratado el transporte o arrendamiento.
+ 4. La tasa no se aplicará al transporte de viajeros en aeronaves de Estado españolas o al servicio de las Comunidades Autónomas y otras Entidades Locales, siempre y cuando realicen servicios públicos no comerciales, o en aeronaves de Estado extranjeras, en el caso de que los Estados a que pertenezcan concedan análoga exención a las aeronaves de Estado españolas.
+ 5. La tasa no se exigirá al transporte de viajeros cuando éstos hubiesen adquirido el título de transporte en fecha anterior a la entrada en vigor de dicha tasa, con independencia de la fecha en que se realice dicho transporte.
+ 6. La tasa se devengará en el momento del embarque del pasajero y se liquidará por el sujeto pasivo sustituto al gestor aeroportuario con antelación a la salida de la aeronave que transporte al pasajero, o, cuando así se acuerde por el gestor aeroportuario con la aprobación de la Agencia Estatal de Seguridad Aérea, dentro de los primeros diez días de cada mes con referencia a los devengos producidos en el mes anterior.
+ 7. Las cantidades percibidas por el gestor aeroportuario por esta tasa serán ingresadas por éste mensualmente, y siempre dentro de los quince primeros días naturales, mediante transferencia directa a la Agencia Estatal de Seguridad Aérea.
+ La cantidad a transferir cada mes (M) será la suma de todos los importes de los derechos de la Agencia Estatal de Seguridad Aérea efectivamente cobrados por el gestor aeroportuario durante el mes anterior (M-1). Dicha cantidad incluirá tanto los importes facturados y percibidos por el gestor aeroportuario correspondientes a las tasas devengadas en el mes inmediato anterior (M-1), como los importes correspondientes a lo efectivamente cobrado en dicho mes por la facturación correspondiente a meses anteriores que no se hubiera satisfecho en el mes de devengo, incluyendo, en su caso, la parte proporcional de los posibles intereses por demora en el pago.
+ Junto a la liquidación mensual correspondiente, el gestor aeroportuario remitirá a la Agencia Estatal de Seguridad Aérea una certificación en la que se desglose la cantidad ingresada por el sujeto obligado al pago y por fecha de devengo de la tasa, así como el número de pasajeros embarcados en el mes inmediato anterior.
+ 8. La cuantía de esta tasa será de 0,579885 euros por pasajero de salida.
+ 9. Se aplicará a la cuantía de esta tasa las reducciones previstas en el artículo 78.3 para la prestación patrimonial pública de seguridad aeroportuaria devengada en los aeropuertos de las Islas Canarias, Illes Balears, Ceuta y Melilla."
+Se modifica por la disposición final 1.2 de la Ley 2/2024, de 1 de agosto. Ref. BOE-A-2024-15937#df
+ Téngase en cuenta que esta modificación entra en vigor al día siguiente de la efectiva constitución de la Autoridad de acuerdo con lo previsto en las disposiciones finales 6 y 7 de la citada Ley.
+ Se modifica el apartado 9 por la disposición final 12.7 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se añade por el art. 2.2 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 249, de 17 de octubre de 2013. Ref. BOE-A-2013-10859.
+
+### Disposición adicional decimoséptima
+
+Disposición adicional decimoséptima. Prestación patrimonial pública de asignación de franjas horarias.
+1. La prestación patrimonial pública de asignación de franjas horarias retribuye al Coordinador y facilitador de franjas horarias designado por el Ministerio de Fomento (en adelante Coordinador) por los servicios prestados a los gestores aeroportuarios y a los operadores aéreos en la asignación de franjas horarias en los aeropuertos coordinados y en el asesoramiento o recomendación de horarios en los aeropuertos facilitados.
+2. Están obligados al pago de esta prestación los gestores de los aeropuertos españoles designados como coordinados o facilitados y los operadores aéreos que dispongan de franjas horarias asignadas u horarios facilitados en dichos aeropuertos en la programación final de cada mes natural.
+Están exentos del pago de esta prestación los operadores aéreos que para una temporada de programación, verano o invierno, en un aeropuerto coordinado o facilitado concreto, dispongan de un máximo de 10 franjas horarias o 10 horarios facilitados.
+3. El importe de la prestación, "P", es resultado de aplicar la siguiente fórmula:
+"P" = "q" × "m"
+Donde:
+"q", es la cuantía unitaria de 0,50 € por franja horaria asignada y 0,25 € por horario facilitado.
+y "m":
+a) Para cada gestor aeroportuario, el conjunto de franjas horarias asignadas u horarios facilitados en el correspondiente aeropuerto en la programación final de cada mes natural, conforme al registro del Coordinador.
+b) Para cada operador aéreo, el número total de franjas horarias asignadas u horarios facilitados de que dispongan en la programación final de cada mes natural, conforme al registro del Coordinador.
+4. El devengo de la prestación se producirá por meses vencidos. En el plazo de los 15 días siguientes al devengo de la prestación se procederá a su liquidación y pago.
+En los casos en los que el operador aéreo disponga de un máximo de 10 franjas horarias asignadas o 10 horarios facilitados en un mes natural y en un aeropuerto concreto, el devengo de la prestación se producirá por mes vencido, el primero en el que la cifra acumulada supere las 10 franjas horarias u horarios facilitados desde la última liquidación efectuada para la correspondiente temporada de programación.
+En cualquier caso, al término de cada temporada de programación, y dentro de los 15 días siguientes a su finalización, se procederá a la liquidación del importe de la prestación patrimonial pública que hubiera quedado pendiente.
+5. La gestión, liquidación y cobro de esta prestación corresponde al Coordinador que podrá utilizar para la efectividad del cobro la vía de apremio, cuya gestión se realizará por los órganos de recaudación de la Agencia Estatal de Administración Tributaria.
+Frente a los actos de gestión, liquidación y cobro de las prestaciones patrimoniales de carácter público dictados por el Coordinador procederá la interposición de reclamación económico-administrativa de acuerdo con el régimen jurídico establecido en el artículo 69, apartados 3 y 4, letra, a), de la Ley 21/2003, de 7 de julio, de Seguridad Aérea.
+La Agencia Estatal de Seguridad Aérea velará por la correcta gestión de estos ingresos.
+Sin perjuicio de lo anterior, el gestor aeroportuario, en su caso previa suscripción de los acuerdos que correspondan, colaborará en la gestión de la prestación patrimonial pública recaudando de los operadores aéreos los importes devengados.
+El gestor aeroportuario ingresará al Coordinador los importes recaudados de los operadores aéreos y el correspondiente a la prestación patrimonial pública a cuyo pago está obligado, en los cinco días laborables siguientes a la fecha límite de liquidación de la prestación prevista en el apartado 4.
+6. El gestor aeroportuario y el Coordinador suscribirán, en el plazo de seis meses desde el inicio efectivo de las funciones del Coordinador, los acuerdos necesarios para la gestión y el cobro de la prestación patrimonial pública en aquellos casos en los que la coordinación de franjas horarias se haya de efectuar fuera del horario de oficina del Coordinador.
+7. La prestación patrimonial pública será exigible desde el inicio efectivo de las funciones del Coordinador y, en los casos contemplados en el apartado 6, una vez transcurrido el plazo para la suscripción de los acuerdos previstos en dicho apartado.
+Se modifica el apartado 3 por el art. 2.25 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifica, con efectos de 1 de agosto de 2018, el apartado 3 por la disposición final 16 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-17
+ Se modifica el apartado 3, con efectos de 29 de octubre de 2017, por la disposición final 9 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+ Se añade por el art. 3.2 del Real Decreto-ley 1/2014, de 24 de enero. Ref. BOE-A-2014-747.
+
+### Disposición adicional decimoctava
+
+Disposición adicional decimoctava. Propuesta de actualización y modificación de la prestación patrimonial pública de asignación de franjas horarias.
+1. La propuesta de actualización o modificación de la prestación patrimonial pública de asignación de franjas horarias se elaborará por la Dirección General de Aviación Civil para su incorporación al correspondiente anteproyecto de ley, previa iniciativa del Coordinador e informe de la Agencia Estatal de Seguridad Aérea, según el procedimiento previsto en esta disposición.
+2. La iniciativa de la modificación o actualización corresponde al Coordinador que, con antelación mínima de cuatro meses respecto de la fecha de iniciación de la tramitación del anteproyecto de ley en que deba incorporarse la propuesta, la remitirá a la Agencia Estatal de Seguridad Aérea.
+La iniciativa del Coordinador deberá garantizar su suficiencia financiera y repercutirá los costes de la gestión, en función de los servicios efectivamente prestados, equitativamente entre gestores aeroportuarios y operadores aéreos, sin distinción alguna por su pertenencia o no al coordinador.
+La iniciativa deberá contener el presupuesto de ingresos y gastos previstos para el ejercicio siguiente con el desglose de los medios humanos, de explotación, así como cualquier otro coste directo o indirecto imputable, las estimaciones sobre programación de franjas horarias y horarios autorizados para dicho ejercicio y el importe de la actualización o modificación que se propone.
+3. La Agencia Estatal de Seguridad Aérea informará la propuesta del Coordinador en el ejercicio de las funciones de supervisión económica y remitirá dicho informe, junto con la propuesta del Coordinador, a la Dirección General de Aviación Civil en el plazo de tres meses desde la recepción de la propuesta.
+Se añade por el art. 3.2 del Real Decreto-ley 1/2014, de 24 de enero. Ref. BOE-A-2014-747.
+
+### Disposición adicional decimonovena
+
+Disposición adicional decimonovena. Silencio administrativo negativo.
+1. En las actividades de la aviación civil, ya sean con aeronaves tripuladas o no tripuladas, sujetas a la normativa nacional, por razones imperiosas de interés general relativas a la seguridad aérea, se entenderán incluidos en la excepción prevista en el artículo 24.1 de la Ley 39/2015, de 1 de octubre, los procedimientos sobre autorización de operaciones aéreas y uso del espacio aéreo; sobre operaciones especiales, así como sobre autorizaciones de aeronavegabilidad, inicial y continuada, incluyendo las emitidas al personal involucrado en este ámbito.
+Además, la excepción prevista en el párrafo anterior es aplicable por idénticas razones imperiosas de interés general a la aprobación de servidumbres aeronáuticas y a la certificación del personal de formación de los pilotos a distancia.
+2. Los procedimientos en los que las disposiciones europeas aplicables contemplen la exigencia de obtener o renovar una certificación, autorización, aprobación, licencia, habilitación o cualquier otro acto expreso para la realización de la actividad o el ejercicio del derecho, se entenderán incluidos en la excepción prevista en el artículo 24.1 de la Ley 39/2015, de 1 de octubre, relativa al Derecho de la Unión Europea.
+Se modifica por el art. 2.26 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Se modifica por la disposición final 3 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#df-3
+ Se añade por el art. 53.8 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que esta disposición ya fue añadida por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se añade por el art. 53.8 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Disposición adicional vigésima
+
+Disposición adicional vigésima. Tarifas para ayudas a la navegación aérea.
+Las tarifas por el uso de las instalaciones y servicios de la navegación aérea en ruta se rigen por el Acuerdo Multilateral relativo a las tarifas para ayudas a la navegación aérea, hecho en Bruselas el 12 de febrero de 1981, ratificado por Instrumento de 14 de abril de 1987, y por las disposiciones que se dicten conforme al mismo.
+Las modificaciones de las tarifas y sus condiciones de pago que, conforme a dicha normativa, se adopten en el seno de EUROCONTROL, serán directamente aplicables en el Reino de España. No obstante, a los exclusivos efectos de publicidad, dichas modificaciones y condiciones de pago se publicarán en el "Boletín Oficial del Estado", por resolución de la persona titular de la Dirección General de Aviación Civil.
+Se modifica por el art. 2.26 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+ Esta modificación será aplicable al establecimiento de las tarifas para ayudas a la navegación aérea aplicables en el ejercicio siguiente al de su entrada en vigor, según establece la disposición final 6 de la citada Ley.
+ Se añade por la disposición final 14 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-15
+
+### Disposición adicional vigésimoprimera
+
+Disposición adicional vigesimoprimera.
+El personal que opera los medios de transporte aéreo y que controla el tráfico y tránsito de los mismos podrá informar sobre acciones u omisiones que pudieran poner en riesgo la seguridad en el transporte según lo recogido en el Reglamento (UE) No 376/2014.
+Se añade por el art. 2.27 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Tasas aeroportuarias.
+1. Hasta que «Aena Aeropuertos, S.A.» ejerza de manera efectiva sus funciones y obligaciones continuarán en vigor las tasas aeroportuarias actualmente existentes que se seguirán cobrando por la entidad pública empresarial AENA.
+2. Una vez que la sociedad ejerza de manera efectiva sus funciones y obligaciones se estará a lo señalado en el título VI de esta Ley. No obstante, durante el ejercicio 2011 la contraprestación por salida de pasajeros en los aeropuertos de Tenerife Sur, Gran Canaria, Palma de Mallorca y Girona se mantendrá en las cuantías fijadas en la Ley de Presupuestos Generales del Estado para 2011. Asimismo, durante dicho ejercicio «Aena Aeropuertos, S.A.» se hará cargo de las subvenciones establecidas respecto a las tasas aeroportuarias de la citada Ley.
+3. En el año 2012 las cuantías de las prestaciones establecidas en la presente Ley se actualizarán en los términos previstos en la Ley de Presupuestos Generales del Estado para dicho ejercicio.
+Se añade por el art. único.26 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Autoridad Estatal de Supervisión.
+Hasta que se produzca la designación de la Autoridad Estatal de Supervisión prevista en el artículo 96 las funciones atribuidas a dicha autoridad serán ejercidas por la Dirección General de Aviación Civil que contará, para ello, con el soporte técnico de la Agencia Estatal de Seguridad Aérea y los medios necesarios para actuar como autoridad de supervisión independiente.
+En el plazo de un año desde la entrada en vigor de esta norma se llevará a cabo la designación de la Autoridad Estatal de Supervisión prevista en el artículo 96, previo desarrollo reglamentario de su organización y funcionamiento.
+Se añade por el art. único.27 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley y, en particular las siguientes:
+a) El artículo 8, el párrafo primero del artículo 32 y los artículos 152 a 159 del capítulo XIX de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea.
+b) Los artículos 3, 4, 5 y 6 del Real Decreto Ley 15/2001, de 2 de noviembre, por el que se adoptan medidas urgentes en materia de transporte aéreo.
+c) Los artículos 1, 2 y 13, el apartado 2 del 6 y el apartado 1 del artículo 3 del Real Decreto Ley 12/1978, de 27 de abril, sobre fijación y delimitación de facultades entre los Ministerios de Defensa y de Transportes y Comunicaciones en materia de aviación.
+d) Los artículos 88, 89, 90 y 91 de la Ley 50/1998, de 30 de diciembre, y el artículo 64 de la Ley 55/1999, de 29 de diciembre, de medidas fiscales, administrativas y del orden social.
+
+### Disposición final primera
+
+Disposición final primera. Títulos competenciales.
+Los preceptos contenidos en esta ley se dictan al amparo de las competencias atribuidas con carácter exclusivo al Estado en el artículo 149.1.4.ª y 20.ª de la Constitución.
+
+### Disposición final segunda
+
+Disposición final segunda. Actualización de la cuantía de las sanciones.
+Se autoriza al Gobierno para actualizar, mediante real decreto, el importe de las sanciones económicas previstas en esta ley.
+
+### Disposición final segunda bis
+
+Disposición final segunda bis. Revisión de la fórmula para la actualización de las cuantías de las prestaciones patrimoniales públicas.
+La Autoridad Estatal de Supervisión a que se refiere el artículo 96, en el plazo de cinco años desde la entrada en vigor de la Ley por la que se establece el Programa Estatal de Seguridad Operacional para la Aviación Civil y se modifica la Ley 21/2003, de 7 de julio, de Seguridad Aérea, elaborará una propuesta de revisión de los valores establecidos en la fórmula descrita en el artículo 92.
+En particular, para la propuesta de revisión de la Prima de Riesgo del Mercado, PRM, el regulador tendrá en cuenta el método de estimación estadística del exceso de rentabilidad observada en el mercado bursátil español respecto al activo libre de riesgo. Por su parte, para la propuesta de revisión de la Beta de los activos, βu, la Autoridad Estatal de Supervisión tendrá en cuenta el método de los comparadores, consistente en estimar el coeficiente beta medio de una muestra de empresas cotizadas que realizan actividades similares y que operan en un entorno regulatorio similar al de las actividades reguladas en el sector aeroportuario español.
+Se añade por el art. único.28 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.
+
+### Disposición final tercera
+
+Disposición final tercera. Habilitación normativa.
+El Gobierno dictará las disposiciones necesarias para el desarrollo de esta ley, determinará el régimen particular aplicable a la operación de las aeronaves de Estado no militares y estará facultado, asimismo, para adecuar las definiciones de accidente, incidente grave e incidente de aviación civil a las que se establezcan en las normas internacionales y comunitarias reguladoras de la investigación técnica de los sucesos aéreos.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+Esta Ley entrará en vigor a los 20 días de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto, Mando a todos los españoles ; particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 7 de julio de 2003.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que la sociedad mercantil estatal «Aena Aeropuertos, S.A.», creada en virtud de lo previsto en el artículo 7 del Real Decreto-ley 13/2010, de 3 de diciembre, pasa a denominarse Aena, S.A., según establece el art. 18 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.

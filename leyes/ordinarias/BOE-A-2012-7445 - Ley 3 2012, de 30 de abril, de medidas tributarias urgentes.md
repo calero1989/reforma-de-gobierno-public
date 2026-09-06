@@ -1,0 +1,398 @@
+# Ley 3/2012, de 30 de abril, de medidas tributarias urgentes.
+
+- Identificador BOE: `BOE-A-2012-7445`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-7445
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 48.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+Con el fin de paliar los efectos de la crisis económica sobre la hacienda pública de la comunidad autónoma de las Illes Balears, es necesario, paralelamente a los recortes en el gasto público, aumentar, en la medida que lo permita la capacidad normativa en materia tributaria de la comunidad autónoma de las Illes Balears, los ingresos por la vía indirecta de reactivar la actividad económica introduciendo diversas modificaciones en la normativa tributaria balear, básicamente mediante beneficios fiscales a las actividades empresariales favorecedoras de la inversión y del mantenimiento o el incremento del empleo.
+Bajo esta premisa, la ley se divide en dos capítulos: el capítulo I está dedicado a los tributos cedidos, y el capítulo II, a los tributos propios y, en concreto, al Canon de saneamiento de aguas.
+Con respecto al capítulo I, se pueden destacar, en la sección segunda, dedicada al Impuesto sobre la renta de las personas físicas, la equiparación del porcentaje de inversión en vivienda habitual al aplicable en el tramo estatal (artículo 2); la nueva regulación de la deducción autonómica para el fomento del autoempleo (artículo 3); y la introducción de una nueva deducción en concepto de inversión, dirigida a los denominados ángeles inversores, para adquirir acciones o participaciones sociales de nuevas entidades o de reciente creación (artículo 4). En la sección tercera (artículo 5), dedicada al Impuesto sobre el patrimonio, también se adopta una medida técnica de equiparar el mínimo exento al estatal, con carácter temporal para los ejercicios de 2011 y de 2012. En la sección cuarta, relativa al Impuesto sobre sucesiones y donaciones, se regula de nuevo la reducción relativa a las donaciones dinerarias de padres a hijos o a otros descendientes o parientes colaterales para constituir una empresa, cuando se creen nuevos puestos de trabajo (artículo 6), y se crea una nueva reducción por la creación de empresas y empleo en las adquisiciones de dinero por causa de muerte (artículo 7); asimismo, se modifican los coeficientes aplicables a la cuota íntegra con respecto a las personas que integran el grupo III en la parte de este grupo relativa a los colaterales por afinidad de segundo y tercer grado, de acuerdo con la jurisprudencia del Tribunal Supremo (artículo 8). En la sección quinta, relativa al Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados, se establece, por una parte y en la subsección primera, relativa a la modalidad de transmisiones patrimoniales onerosas, un nuevo tipo de gravamen reducido aplicable a las transmisiones de inmuebles a empresas de nueva creación (artículo 9), y una reducción del tipo aplicable a la transmisión de inmuebles incluidos en la transmisión de la totalidad del patrimonio empresarial a empresas individuales o negocios profesionales (artículo 10); y por otra, en la subsección segunda, relativa a la modalidad de actos jurídicos documentados, se establece un nuevo tipo reducido aplicable a las escrituras notariales que documenten la constitución de préstamos y créditos hipotecarios para financiar la adquisición de inmuebles en la creación de nuevas empresas (artículo 11), así como otro tipo reducido por la constitución de hipotecas unilaterales a favor de la Administración pública (artículo 12). Finalmente, en la sección sexta (artículos 13 a 20), sobre la tasa fiscal del juego, a la vez que se refunden y sistematizan medidas ya existentes dispersas en diversas leyes, se incluyen modificaciones relativas a los siguientes aspectos: a) reducción del tipo de gravamen con respecto al juego de bingo; b) deflactación al índice de precios al consumo de las tarifas aplicables al juego en casinos; c) no devengo de la tasa en el caso de sustitución de máquinas; d) imposibilidad de conceder aplazamientos o fraccionamientos sobre las liquidaciones trimestrales relativas a máquinas de juego; e) exigencia por trimestres de la tasa relativa a nuevas altas de máquinas de juego; f) nuevo sistema de cálculo del tipo de gravamen aplicable a las máquinas de tipo B de más de dos jugadores; g) cuotas específicas para las máquinas de tipo B especiales y exclusivas de salones de juego, y para las interconexiones; h) bonificaciones sobre la cuota, condicionadas a diversas circunstancias, como el mantenimiento del número de máquinas (en el caso de máquinas ubicadas en cualesquiera establecimientos que no sean casinos, salas de bingos o salones de juego), el aumento neto del número de máquinas (en cualquier establecimiento autorizado), o la antigüedad de las máquinas (con respecto a los salones de juego); e i) regulación de la base imponible de la tasa.
+Por lo que se refiere al capítulo II, dedicado íntegramente al Canon de saneamiento de aguas, se introducen diversas medidas para mejorar la capacidad recaudatoria y la gestión; a saber, la obligatoriedad del sustituto de ingresar el cien por cien del canon repercutido (artículo 21); una regulación más detallada, en la propia ley, de la incidencia de los saldos de dudoso cobro (artículo 22), y la supresión de los premios de recaudación (artículo 23).
+La parte final se completa con tres disposiciones adicionales, una disposición transitoria, una disposición derogatoria y cuatro disposiciones finales.
+
+## CAPÍTULO I
+
+Tributos cedidos
+
+## Sección 1
+
+Sección 1.ª Disposición general
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Las disposiciones contenidas en este capítulo tienen por objeto el ejercicio de las competencias normativas que atribuye a la comunidad autónoma de las Illes Balears la Ley 28/2010, de 16 de julio, de régimen de cesión de tributos del Estado a la comunidad autónoma de las Illes Balears y de fijación del alcance y las condiciones de la cesión, en los casos y las condiciones que prevé la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las comunidades autónomas de régimen común y ciudades con estatuto de autonomía y se modifican determinadas normas tributarias.
+
+## Sección 2
+
+Sección 2.ª Impuesto sobre la renta de las personas físicas
+
+### Artículo 2
+
+Artículo 2. Tramo autonómico de la deducción por inversión en vivienda habitual en el territorio de las Illes Balears.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 3
+
+Artículo 3. Deducción autonómica para el fomento del autoempleo.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica el apartado 3 por la disposición final 3.1 de la Ley 12/2012, de 26 de septiembre. Ref. BOE-A-2012-14022
+
+### Artículo 4
+
+Artículo 4. Deducción autonómica en concepto de inversión en la adquisición de acciones o de participaciones sociales de nuevas entidades o de reciente creación.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+ Se modifica el apartado 3 por la disposición final 3.2 de la Ley 12/2012, de 26 de septiembre. Ref. BOE-A-2012-14022
+
+## Sección 3
+
+Sección 3.ª Impuesto sobre el patrimonio
+
+### Artículo 5
+
+Artículo 5. Mínimo exento.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+ Se modifica por la disposición final 2.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## Sección 4
+
+Sección 4.ª Impuesto sobre sucesiones y donaciones
+
+### Artículo 6
+
+Artículo 6. Reducción en las donaciones dinerarias de padres a hijos o a otros descendientes o entre colaterales hasta el tercer grado por creación de nuevas empresas y de empleo.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+
+### Artículo 7
+
+Artículo 7. Reducción en las adquisiciones de dinero por causa de muerte por creación de nuevas empresas y empleo.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+
+### Artículo 8
+
+Artículo 8. Cuota íntegra corregida en el Impuesto sobre sucesiones y donaciones
+1. Se modifica el apartado 1 del artículo 14 de la Ley 22/2006, de 19 de diciembre, de reforma del Impuesto sobre sucesiones y donaciones, que queda redactado de la siguiente manera:
+«1. La cuota íntegra corregida se obtendrá aplicando a la cuota íntegra el coeficiente multiplicador que corresponda de los que se indican a continuación en función de la cuantía del patrimonio preexistente del sujeto pasivo y de su parentesco con el transmitente, de acuerdo con las cuantías y los grupos siguientes:
+Patrimonio preexistente (euros)
+ Grupos I y II
+ Grupo III
+ Colaterales de segundo y tercer grado por consanguinidad, ascendientes y descendientes por afinidad
+ Grupo III
+ Colaterales de segundo y tercer grado por afinidad
+ Grupo IV
+ De 0 a 400.000
+ 1,0000
+ 1,5882
+ 1,9500
+ 2,0000
+ De 400.000 a 2.000.000
+ 1,0500
+ 1,6676
+ 2,0000
+ 2,1000
+ De 2.000.000 a 4.000.000
+ 1,1000
+ 1,7471
+ 2,1000
+ 2,2000
+ Más de 4.000.000
+ 1,2000
+ 1,9059
+ 2,3000
+ 2,4000»
+2. Se modifica el apartado 1 del artículo 32 de la Ley 22/2006, que queda redactado de la siguiente manera:
+«1. La cuota íntegra corregida se obtendrá aplicando a la cuota íntegra el coeficiente multiplicador que corresponda de los que se indican a continuación en función de la cuantía del patrimonio preexistente del sujeto pasivo y de su parentesco con el transmitente, de acuerdo con las cuantías y los grupos siguientes:
+Patrimonio preexistente (euros)
+ Grupos I y II
+ Grupo III
+ Colaterales de segundo y tercer grado por consanguinidad, ascendientes y descendientes por afinidad
+ Grupo III
+ Colaterales de segundo y tercer grado por afinidad
+ Grupo IV
+ De 0 a 400.000
+ 1,0000
+ 1,5882
+ 1,9500
+ 2,0000
+ De 400.000 a 2.000.000
+ 1,0500
+ 1,6676
+ 2,0000
+ 2,1000
+ De 2.000.000 a 4.000.000
+ 1,1000
+ 1,7471
+ 2,1000
+ 2,2000
+ Más de 4.000.000
+ 1,2000
+ 1,9059
+ 2,3000
+ 2,4000»
+
+## Sección 5
+
+Sección 5.ª Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados
+
+## Subsección 1
+
+Subsección 1.ª Impuesto sobre transmisiones patrimoniales onerosas
+
+### Artículo 9
+
+Artículo 9. Tipo de gravamen reducido aplicable a la transmisión de inmuebles que tengan que constituir la sede del domicilio fiscal o un centro de trabajo de sociedades o empresas de nueva creación.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+
+### Artículo 10
+
+Artículo 10. Tipo de gravamen reducido aplicable a la transmisión de inmuebles incluidos en la transmisión de la totalidad del patrimonio empresarial en empresas individuales o negocios profesionales
+(Derogado)
+Se deroga por la disposición derogatoria única.b) de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## Subsección 2
+
+Subsección 2.ª Actos jurídicos documentados
+
+### Artículo 11
+
+Artículo 11. Tipo de gravamen reducido aplicable a las escrituras notariales que documenten la constitución de préstamos y créditos hipotecarios para financiar la adquisición de inmuebles que tengan que constituir el domicilio fiscal o un centro de trabajo de sociedades o empresas de nueva creación.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+
+### Artículo 12
+
+Artículo 12. Tipo de gravamen reducido aplicable a las escrituras notariales que documenten la constitución de hipotecas unilaterales a favor de la Administración en garantía de aplazamientos o fraccionamientos de deudas.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+
+## Sección 6
+
+Sección 6.ª Tasa fiscal sobre los juegos de suerte, envite o azar
+
+### Artículo 13
+
+Artículo 13. Devengo.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+ Se modifica el apartado 2 por la disposición final 2.1 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica el último párrafo del apartado 2 y se añade el 5 por la disposición final 2.2 y 3 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículos 13 a 20
+
+Artículos 13 a 20.
+(Derogados)
+Se derogan por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+
+### Artículo 14
+
+Artículo 14. Exención autonómica de los juegos de carácter social.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+
+### Artículo 15
+
+Artículo 15. Base imponible.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+
+### Artículo 16
+
+Artículo 16. Gestión y recaudación.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+ Se añade el último párrafo al apartado 1 por la disposición final 2.4 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 17
+
+Artículo 17. Tipo de tributación y cuotas fijas.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+ Se modifican los apartados 2.a) y 3 por la disposición final 2.2 y 3 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica por la disposición final 2.5 a 9 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 18
+
+Artículo 18. Bonificación sobre la cuota por aumento del número de máquinas.
+(Derogado)
+Se deroga por la disposición derogatoria única b) de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica el apartado 1 por la disposición final 2.10 y 11 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica el apartado 2 por la disposición final 3.3 de la Ley 12/2012, de 26 de septiembre. Ref. BOE-A-2012-14022
+
+### Artículo 19
+
+Artículo 19. Bonificación sobre la cuota por mantenimiento de máquinas antiguas.
+(Derogado)
+Se deroga por la disposición derogatoria única b) de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica el apartado 1.a) por la disposición final 3.4 de la Ley 12/2012, de 26 de septiembre. Ref. BOE-A-2012-14022
+
+### Artículo 20
+
+Artículo 20. Bonificación sobre la cuota por mantenimiento del número de máquinas de tipo B en determinados locales.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+ Se modifica el apartado 1 por la disposición final 2.12 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica el apartado 1 por la disposición final 3.5 de la Ley 12/2012, de 26 de septiembre. Ref. BOE-A-2012-14022
+
+## CAPÍTULO II
+
+Tributos propios. Canon de saneamiento de aguas
+
+### Artículo 21
+
+Artículo 21. Ingreso por el sustituto del contribuyente.
+Se modifica el artículo 11 de la Ley 9/1991, de 27 de noviembre, reguladora del Canon de saneamiento de aguas, que pasa a tener la siguiente redacción:
+«Artículo 11. Liquidación e ingresos.
+1. El sustituto del contribuyente debe ingresar las cuotas correspondientes al canon mediante el sistema de declaración-liquidación, formulada en los plazos y de la manera que se determinen por reglamento, el cual deberá prever, en todo caso, una declaración-liquidación resumen anual que deberá presentar el sustituto del contribuyente antes del 28 de febrero del año siguiente.
+En todo caso, las cuotas repercutidas por el sustituto del contribuyente se ingresarán por el cien por cien del importe facturado dentro de la declaración-liquidación correspondiente a cada período, según se trate del régimen general o especial de liquidación.
+2. En la declaración-liquidación resumen anual se podrán incluir los importes correspondientes a los saldos de dudoso cobro que, de acuerdo con lo establecido en el apartado 3 siguiente, hayan adquirido dicha condición en el ejercicio a que se refiera la declaración-liquidación resumen anual, así como los declarados en ejercicios anteriores y cobrados en este último ejercicio, en los casos y con los requisitos establecidos en la presente ley y en sus disposiciones de desarrollo.
+3. A los efectos de este tributo, se entienden por saldos de dudoso cobro los créditos derivados de las cuotas del canon de saneamiento de aguas no pagadas por los contribuyentes a los sustitutos cuando concurra alguna de las siguientes circunstancias:
+a) Que, con posterioridad al devengo de las cuotas repercutidas, el deudor sea declarado en situación de concurso.
+b) Que hayan transcurrido seis meses desde el devengo de las cuotas repercutidas sin que éstas se hayan podido cobrar total o parcialmente.
+c) Que los créditos correspondientes a las cuotas repercutidas se hayan reclamado judicialmente o sean objeto de un litigio judicial o procedimiento arbitral de cuya solución dependa su cobro.
+No obstante lo anterior, no se podrán incluir las cuotas del canon de saneamiento relativas a créditos que disfruten de garantía real o que estén garantizados con un contrato de seguro de crédito o de caución, ni las relativas a créditos debidos o garantizados por entidades públicas.
+Las cuotas correspondientes a los saldos de dudoso cobro declaradas y que se cobren posteriormente se incluirán en la declaración‑liquidación resumen anual correspondiente al ejercicio de cobro, siempre que la Agencia Tributaria de las Illes Balears no haya notificado al sustituto el acto por el que resuelva exigir directamente al contribuyente tales cuotas.»
+
+### Artículo 22
+
+Artículo 22. Saldos de dudoso cobro o impagados.
+Se añade un nuevo apartado, el apartado 3, en el artículo 13 de la Ley 9/1991, con la siguiente redacción:
+«3. En todo caso, el ejercicio por parte de los sustitutos del contribuyente del derecho a la inclusión de los saldos de dudoso cobro a que se refieren los apartados 2 y 3 del artículo 11 estará condicionado al cumplimiento de los siguientes requisitos:
+a) Que la condición del crédito como de dudoso cobro quede reflejada en los libros registros exigidos por la normativa reguladora del Impuesto sobre el valor añadido.
+b) Que la contabilidad del sustituto permita la identificación de los saldos de dudoso cobro anotados en las cuentas específicas para créditos por repercusión de cánones o tributos, con el desglose que sea necesario en cada caso.
+c) Que el sustituto haya expedido y remitido al contribuyente una nueva factura o documento sustitutivo en los que se rectifiquen o, en su caso, se anulen las cuotas repercutidas, cuando así lo exija la legislación reguladora del Impuesto sobre el valor añadido.
+d) Que el sustituto presente ante la Agencia Tributaria de las Illes Balears, junto con la declaración-liquidación resumen anual, una comunicación específica con el detalle de tales saldos, de forma que la Agencia Tributaria pueda exigir estas cuantías a los contribuyentes de acuerdo con la legislación tributaria. En esta comunicación se hará constar que los saldos no se refieren a cuotas del canon de saneamiento relativas a créditos que disfruten de garantía real o que estén garantizados con un contrato de seguro de crédito o de caución, ni relativas a créditos debidos o garantizados por entidades públicas, y ha de adjuntarse la siguiente documentación justificativa:
+1.º Una copia de las facturas o los documentos sustitutivos en que se rectifiquen las cuotas impagadas, en los casos en que la legislación reguladora del Impuesto sobre el valor añadido exija la rectificación de tales facturas o documentos sustitutivos, así como, en todo caso, una copia de las facturas o documentos sustitutivos iniciales.
+2.º Una copia de la documentación justificativa del requerimiento judicial o extrajudicial que se haya practicado al contribuyente para exigirle la cuota o las cuotas impagadas, en el supuesto a que se refiere el artículo 11.3.b). En el caso de requerimientos extrajudiciales, la documentación justificativa ha de hacer prueba del contenido del requerimiento y del hecho de la notificación efectuada o debidamente intentada.
+3.º En el caso de concurso, la copia del auto judicial de declaración de concurso del contribuyente o la certificación del Registro Mercantil, en su caso, acreditativa de aquél.
+4.º En el caso de créditos litigiosos, los documentos que acrediten que el acreedor ha instado el cobro del crédito mediante una reclamación judicial o un procedimiento arbitral.»
+
+### Artículo 23
+
+Artículo 23. Premios de recaudación.
+La disposición adicional quinta de la Ley 9/1991 queda modificada de la siguiente manera:
+«Disposición adicional quinta. Premios de recaudación.
+No podrán establecerse premios de recaudación a favor de los sustitutos del contribuyente en concepto de indemnización por gastos de gestión y recaudación.»
+
+### Disposición adicional primera
+
+Disposición adicional primera. Obligaciones formales de los notarios en relación con los tributos sobre el juego.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Obligaciones formales de los operadores que presten servicios de comunicaciones electrónicas.
+(Derogado)
+Se deroga por la disposición derogatoria única.i) del Decreto Legislativo 1/2014, de 6 de junio. Ref. BOE-A-2014-6925#dd
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Reparto de premios en el juego de bingo.
+1. A partir de la entrada en vigor de la presente ley, el reparto de premios en el juego del bingo será el siguiente:
+a) Si la sala de bingo no tiene autorización para la práctica del bingo acumulado y de la prima de bingo:
+– Premio de bingo: el 56% del valor facial de los cartones vendidos.
+– Premio de línea: el 8% del valor facial de los cartones vendidos.
+b) Si la sala de bingo tiene autorización para la práctica del bingo acumulado y de la prima de bingo:
+– Premio de bingo: 50% del valor facial de los cartones.
+– Premio de línea: 8% del valor facial de los cartones.
+– Premio de bingo acumulado: 3% del valor facial de los cartones.
+– Premio de prima de bingo: 3% del valor facial de los cartones.
+c) Si la sala de bingo tiene autorización para la práctica del bingo acumulado, pero no para la práctica de la prima de bingo:
+– Premio de bingo: 53% del valor facial de los cartones vendidos.
+– Premio de línea: 8% del valor facial de los cartones vendidos.
+– Premio de bingo acumulado: 3% del valor facial de los cartones vendidos.
+d) Si la sala de bingo tiene autorización para la práctica de la prima de bingo, pero no para la práctica del bingo acumulado:
+– Premio de bingo: 50% del valor facial de los cartones vendidos.
+– Premio de línea: 8% del valor facial de los cartones vendidos.
+– Premio de prima de bingo: 6% del valor facial de los cartones.
+2. No obstante, por decreto del Consejo de Gobierno se podrán modificar las normas sobre reparto de premios a que se refiere el apartado anterior.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Normas transitorias.
+1. Lo dispuesto en el artículo 2 se aplicará a los hechos imponibles del Impuesto sobre la renta de las personas físicas que se devenguen a partir del día siguiente al de la publicación en el BOIB del Decreto Ley 6/2011.
+2. Lo dispuesto en los artículos 3 y 4, el artículo 17.3 y los artículos 21 a 23 se aplicará a los hechos imponibles del Impuesto sobre la renta de las personas físicas, de la tasa fiscal sobre el juego en casinos y del Canon de saneamiento de aguas, respectivamente, que se hayan devengado a partir del 1 de enero de 2012.
+3. Lo dispuesto en el artículo 5 se aplicará a los hechos imponibles del impuesto sobre el patrimonio que se devenguen a partir del 31 de diciembre de 2012.
+4. A la entrada en vigor de la presente ley, y mientras no se aprueben, en su caso, los desarrollos reglamentarios que correspondan, serán aplicables las normas reglamentarias vigentes en todo aquello que no se opongan a ella o la contradigan y, en particular, las siguientes normas reglamentarias:
+a) El Decreto 132/1995, de 12 de diciembre, por el que se aprueba el Reglamento para el desarrollo de la Ley 9/1991, de 27 de noviembre, reguladora del Canon de saneamiento de aguas.
+b) El Decreto 79/2002, de 31 de mayo, por el que se regula una nueva modalidad de pago de la tasa fiscal para el juego del bingo.
+c) La Orden de la Consejería de Hacienda y Presupuestos de 23 de diciembre de 1999, por la que se modifica la Orden de la Consejería de Economía y Hacienda de 14 de diciembre de 1995, que desarrolla el Reglamento del Canon de saneamiento de aguas.
+d) La Orden de 28 de diciembre de 1999, por la que se aprueban los modelos 040, 042, 043, 044 y 045 de declaración-liquidación de la tasa fiscal sobre el juego, así como la guía de los cartones del bingo y el sobre anual para casinos, impuesto sobre el juego del bingo y otros juegos.
+e) La Orden del consejero de Economía, Hacienda e Innovación de 28 de abril de 2004, por la que se regula la gestión censal y el pago mediante recibo de la tasa fiscal sobre el juego en máquinas tipo B o recreativas con premio y en máquinas tipo C o de azar.
+f) La Orden del consejero de Economía, Hacienda e Innovación de 14 de mayo de 2004, por la que se regula el procedimiento para la presentación y el pago telemático de las declaraciones liquidaciones correspondientes a la tasa fiscal sobre el juego a casinos y al canon de saneamiento de aguas.
+g) La Orden del consejero de Economía, Hacienda e Innovación de 15 de marzo de 2005, por la que se aprueba el modelo 041 de declaración-liquidación de las apuestas hípicas y juegos de promoción del trote y se regula el procedimiento para su presentación y pago telemático.
+5. Podrán aplicar el tramo autonómico de la deducción por inversión en vivienda habitual a que se refiere el artículo 2 de esta ley, en la redacción de este precepto vigente el 31 de diciembre de 2012, los contribuyentes que verifiquen los mismos requisitos que establezca la legislación estatal para la aplicación, a partir del 1 de enero de 2013, de la deducción por inversión en vivienda habitual a que se refieren los artículos 68.1 y 78.1 de la Ley 35/2006, de 28 de noviembre, del impuesto sobre la renta de las personas físicas, en la redacción de estos preceptos vigente el 31 de diciembre de 2012.
+Se modifica el apartado 3 con efectos de 31 de diciembre de 2012 y se añade el 5 por la disposición final 2.13 y 14 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Normas que se derogan.
+1. Queda derogado el Decreto Ley 6/2011, de 2 de diciembre, y todas las normas de rango igual e inferior que se opongan a las disposiciones contenidas en esta ley.
+2. En todo caso, se derogan expresamente las siguientes normas:
+a) El artículo 4 de la Ley 12/1999, de 23 de diciembre, de medidas tributarias, administrativas y de función pública y económicas.
+b) El artículo 21 de la Ley 8/2004, de 23 de diciembre, de medidas tributarias, administrativas y de función pública.
+c) El artículo 30 de la Ley 22/2006, de 19 de diciembre, de reforma del Impuesto sobre sucesiones y donaciones.
+d) Los artículos 9, 15, 16, 17, 18 y 19 de la Ley 6/2007, de 27 de diciembre, de medidas tributarias y económico-administrativas.
+e) Los artículos 2, 10, 13 y 16 de la Ley 1/2009, de 25 de febrero, de medidas tributarias para impulsar la actividad económica en las Illes Balears.
+
+### Disposición final primera
+
+Disposición final primera. Modificaciones de la Ley 9/2001, de 23 de diciembre, de presupuestos generales de la comunidad autónoma de las Illes Balears para el año 2012.
+1. El artículo 4.2.a) queda modificado de la siguiente manera:
+«a) Los créditos correspondientes a fondos finalistas no pueden quedar vinculados a otras partidas que no tengan este carácter y la misma finalidad.»
+2. La disposición adicional cuarta de la Ley 9/2011 queda modificada de la siguiente manera:
+«Disposición adicional cuarta. Actualización específica de determinadas tasas portuarias.
+Las cuantías de las tasas portuarias incluidas en el capítulo XXV y en los capítulos XXVII a XXXVIII del título VI de la Ley 11/1998, de 14 de diciembre, sobre el régimen específico de las tasas de la comunidad autónoma de las Illes Balears, se incrementan un 15%, a excepción de las incluidas en el capítulo XXXIII y el último párrafo del artículo 294 del capítulo XXXVI, las cuales deben actualizarse de acuerdo con la regla general que contiene el artículo 21 de esta ley.»
+
+### Disposición final segunda
+
+Disposición final segunda. Modificaciones de la Ley 11/1998, de 14 de diciembre, sobre el régimen específico de las tasas de la comunidad autónoma de las Illes Balears.
+La Ley 11/1998, de 14 de diciembre, sobre el régimen específico de las tasas de la comunidad autónoma de las Illes Balears, queda modificada de la siguiente manera:
+1. El artículo 388 quindecies queda modificado de la siguiente manera:
+«Artículo 388 quindecies. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los siguientes servicios:
+– Inscripción en el registro oficial.
+– Expedición de carnets de aplicadores.’
+2. El epígrafe del artículo 388 septricies queda modificado de la siguiente manera:
+«Artículo 388 septricies. Cuantía.»
+3. El epígrafe del artículo 388 terquadragies queda modificado de la siguiente manera:
+«Artículo 388 terquadragies. Bonificaciones.»
+4. El artículo 443 queda modificado de la siguiente manera:
+«Artículo 443. Cuantía.
+1. La tasa se exige de conformidad con la siguiente tarifa: 0,033 euros por unidad gráfica o espacio tecleado.
+2. En las publicaciones de textos urgentes debe aplicarse un incremento del 50% de la tasa correspondiente. Se entienden por publicaciones urgentes las que se publiquen, a instancia de la persona solicitante, en las setenta y dos horas siguientes a la solicitud de publicación.»
+5. El apartado 2 del artículo 444 queda modificado de la siguiente manera:
+«2. Todos los anuncios oficiales que, por su carácter como tales, deban ubicarse en las secciones IV y V del Butlletí Oficial de les Illes Balears son de pago, a no ser que no estén sujetos a la tasa, estén exentos o el ordenamiento jurídico establezca su gratuidad. El pago debe hacerse con carácter previo al anuncio y debe justificarse junto con la solicitud de inserción, a no ser que esta ley o la normativa reguladora del funcionamiento del Butlletí Oficial de les Illes Balears establezca otra cosa.»
+
+### Disposición final tercera
+
+Disposición final tercera. Texto refundido y recopilación normativa.
+1. Se faculta al Gobierno de las Illes Balears para que, antes del 31 de diciembre de 2013, apruebe un texto refundido de las normas tributarias dictadas en materia de tributos cedidos, con la posibilidad de regularizar, aclarar y armonizar las disposiciones legales vigentes.
+Téngase en cuenta que se prorroga hasta el 1 de julio de 2014 la autorización otorgada al Gobierno por la disposición final 8 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+2. Asimismo, el Gobierno de las Illes Balears ha de publicar en la página web de la Agencia Tributaria de las Illes Balears los textos consolidados de todas las leyes tributarias autonómicas vigentes.
+Se prorroga hasta el 1 de julio de 2014 la autorización otorgada al Gobierno del apartado 1 por la disposición final 8 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica por la disposición final 2.15 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente ley entrará en vigor al día siguiente de su publicación en el Butlletí Oficial de les Illes Balears.
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que corresponda la hagan guardar.
+Palma, 30 de abril de 2012.–El Presidente, José Ramón Bauzá Díaz.–El Vicepresidente Económico, de Promoción Empresarial y de Empleo, José Ignacio Aguiló Fuster.

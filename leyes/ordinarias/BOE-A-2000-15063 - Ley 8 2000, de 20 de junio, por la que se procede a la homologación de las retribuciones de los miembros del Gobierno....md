@@ -1,0 +1,54 @@
+# Ley 8/2000, de 20 de junio, por la que se procede a la homologación de las retribuciones de los miembros del Gobierno y Altos Cargos de la Comunidad de Madrid con los de la Administración General del Estado, y de los Diputados de la Asamblea de Madrid con los Diputados por Madrid del Congreso.
+
+- Identificador BOE: `BOE-A-2000-15063`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2000-15063
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la presente Ley, que yo, en nombre del Rey, promulgo.
+PREÁMBULO
+El sistema retributivo de los miembros del Gobierno y de los Altos Cargos de la Administración de la Comunidad de Madrid carece de una regulación normativa sistemática y completa. La Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid, aborda únicamente la regulación del sistema retributivo del Presidente y Consejeros de la Comunidad de Madrid, por referencia a los Secretarios de Estado y Directores Generales tipo A respectivamente, referencia ésta última, que ha quedado desfasada al desaparecer esa categoría como tal. Asimismo, la Ley 14/1995, de 21 de diciembre, de Incompatibilidades de Altos Cargos incidió de forma directa en el sistema retributivo al impedir, de forma expresa y total, la percepción de cualquier cantidad por el desempeño de cargos en empresas o sociedades cuya designación corresponda a los Órganos de Gobierno y Administración de la Comunidad de Madrid o se deriven de las funciones propias de estos Cargos.
+Desde esta situación, y consolidada plenamente la Administración autonómica en el vigente marco competencial tras la modificación del Estatuto de Autonomía en 1998, se hace necesario homogeneizar el sistema retributivo de los miembros del Gobierno y Altos Cargos de la Administración por homologación con la Administración General del Estado, respetando, en todo caso, la equivalencia retributiva principal que estableciera ya en el año 1983 la Ley de Gobierno y Administración, en su artículo 5, al otorgar como derecho del Presidente de la Comunidad de Madrid la percepción «con cargo a los Presupuestos Generales de la Comunidad Autónoma, los sueldos y retribuciones que en los mismos se determinen y cuya cuantía no podrá ser superior a la asignada al Cargo de Secretario de Estado del Gobierno de la Nación en los Presupuestos Generales del Estado».
+De esta forma, partiendo del marco trazado en la Ley 1/1983 de Gobierno y Administración, la presente Ley aborda, de un modo unitario y por equivalencia a la Administración General del Estado, el régimen retributivo de los miembros del Gobierno y de los Altos Cargos de la Administración autonómica, considerando la dedicación exclusiva del cargo a su función que impone la Ley de Incompatibilidades de Altos Cargos de la Comunidad de Madrid, así como la cobertura de todas aquellas otras funciones accesorias al puesto directivo, que incrementan la responsabilidad y dedicación al mismo.
+Conforme a lo anteriormente expuesto y al objeto de alcanzar un sistema que garantice la transparencia, objetividad y seguridad jurídica, necesarias en el ámbito de lo público, partiendo de la ya citada homologación de las retribuciones del Presidente de la Comunidad de Madrid con las de Secretario de Estado, quedan referenciadas a éste, en función de una serie de porcentajes, las retribuciones totales que corresponderán al Vicepresidente, Consejeros, Viceconsejeros, Secretarios Generales Técnicos, Directores Generales y asimilados, así como a los Gerentes de los Organismos autónomos de la Administración de la Comunidad de Madrid.
+Por último, y de forma correlativa, se aborda también la modificación de las retribuciones de los Diputados de la Asamblea de Madrid con dedicación exclusiva. En este caso, por la Asamblea de Madrid se procederá a homologar la asignación retributiva básica de sus Diputados con dedicación exclusiva, con la retribución que corresponda por el mismo concepto a los Diputados por Madrid del Congreso de los Diputados (asignación constitucional e indemnización correspondiente a Diputado por Madrid), así como para establecer el resto de sus conceptos retributivos.
+
+### Artículo único
+
+Artículo único.
+1. Se autoriza al Gobierno de la Comunidad de Madrid a homologar las retribuciones de los Altos Cargos de ésta respecto de las que se devengan en el ámbito de la Administración General del Estado de acuerdo con las siguientes normas:
+a) La homologación se producirá partiendo de la equivalencia entre Presidente y Secretario de Estado, de modo que las retribuciones de aquél se homologarán a las de éste, conforme a lo previsto en el artículo 5 de la Ley del Gobierno y Administración.
+La homologación se producirá sumando los distintos conceptos retributivos que se devenguen de acuerdo con lo previsto en la Ley de Presupuestos Generales del Estado incluido el complemento de productividad.
+b) A partir de la homologación anterior, las retribuciones de los demás Altos Cargos se establecerán disminuyendo dicha cifra de acuerdo con los siguientes porcentajes:
+Vicepresidente de la Comunidad de Madrid, 4 por 100.
+Consejero, 8 por 100.
+Viceconsejero, 12 por 100.
+Secretario General Técnico, Director General o Alto Cargo con el mismo rango expresamente reconocido, y Gerentes de Organismos Autónomos, 16 por 100.
+c) La cantidad resultante englobará la retribución anual del Alto Cargo sin que pueda generarse otra retribución por cualquier otro concepto, sin perjuicio de lo dispuesto en el artículo 17.2 de la Ley de Presupuestos Generales de la Comunidad de Madrid para el año 2000.
+2. Por la Asamblea de Madrid se procederá a la homologación de la asignación retributiva básica de sus Diputados con dedicación exclusiva, a la cantidad que se devengue por ese mismo concepto por los Diputados por Madrid del Congreso, así como a establecer los demás conceptos retributivos.
+
+### Disposición adicional
+
+Disposición adicional.
+La presente Ley será igualmente de aplicación al puesto de Director-Gerente de la empresa pública con forma de entidad de derecho público Canal de Isabel II, cuyas retribuciones se homologarán a las de Director General.
+Se modifica por la disposición final 2 de la Ley 9/2024, de 26 de diciembre. Ref. BOE-A-2025-5524
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Queda derogado el inciso final del artículo 30.2 de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid, y cuantas disposiciones de igual o inferior rango en lo que contradiga o se oponga a lo dispuesto en la presente Ley.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el día 1 de julio de 2000.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar.
+ALBERTO RUIZ GALLARDÓN,
+Presidente

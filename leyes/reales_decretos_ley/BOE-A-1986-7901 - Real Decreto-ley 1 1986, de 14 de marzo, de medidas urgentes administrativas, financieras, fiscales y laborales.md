@@ -1,0 +1,255 @@
+# Real Decreto-ley 1/1986, de 14 de marzo, de medidas urgentes administrativas, financieras, fiscales y laborales.
+
+- Identificador BOE: `BOE-A-1986-7901`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-7901
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+A partir del 1 de enero de 1986, la economía española se ha visto sustancialmente afectada por nuestra adhesión a las Comunidades Europeas. Esta adhesión provocará, como efectos más destacados, la creciente liberalización de ampliación de mercados y la posibilidad de una mejor asignación de recursos a efectos de generar un incremento del crecimiento y bienestar. Las oportunidades que la adhesión a las Comunidades abre a nuestra economía deben ser aprovechadas. Por ello, las orientaciones de la política económica deben orientarse a facilitar una respuesta ágil mediante la creación del entorno institucional adecuado desde los primeros momentos de la incorporación.
+Con este objetivo, el presente Real Decreto-ley contiene medidas administrativas, fiscales, financieras y laborales tendentes a subvenir las necesidades actuales de nuestra Administración, economía y finanzas, en el continuado esfuerzo de modernización y plena integración en Europa. Necesidad que es, por sí misma y por los fines a que los medios de remediarla sirven, urgente e inmediata, a fin de aprovechar las oportunidades que existen.
+Las medidas administrativas que se contemplan en este Real Decreto-ley persiguen una doble finalidad. De un lado, simplificar los trámites administrativos de creación, instalación, traslado y ampliación de Empresas, medidas inspiradas en el principio de eficacia en la actuación de la Administración Pública, declarado en su día norma jurídica obligatoria por la Ley de Procedimiento Administrativo, a la que el artículo 103.1 de la Constitución ha venido a dar un respaldo constitucional expreso; paralelamente, remover aquellas trabas que, con independencia de sus efectos recaudatorios, se consideran obstáculos entorpecedores para una moderna gestión burocrática y para el establecimiento de un adecuado clima de relaciones con los ciudadanos.
+Dentro del primer grupo de medidas, el Real Decreto-ley hace una aplicación del silencio administrativo positivo, limitada en su ámbito funcional a aquellos procedimientos en los que la necesidad de una actuación administrativa eficaz y plena de garantías para los particulares es más intensa y viene significada, además, por el hecho de su obligado contraste con los procedimientos homólogos que se llevan a cabo en otros países europeos integrados con el nuestro en una misma área comunitaria.
+Estas normas se dictan como ensayo previo a la revisión del procedimiento administrativo general y tienen el carácter de legislación básica de procedimiento administrativo común, conforme al artículo 149.1.18 de la Constitución.
+Las medidas fiscales tienen por objeto mitigar, en el Impuesto sobre la Renta de las Personas Físicas, el gravamen de plusvalías debidas exclusivamente a la inflación, adecuando la presión fiscal que soportan estas rentas a la revalorización real de los activos que las generan, para lo que se establece un sistema de corrección de variaciones patrimoniales, mediante la fijación de coeficientes de actualización variables en función del año de adquisición de los elementos patrimoniales transmitidos, siguiendo la línea iniciada por anteriores leyes de Presupuestos.
+Continuando con la adaptación del sistema financiero a la experiencia contrastada en otros países junto a la regulación de los Planes y Fondos de Pensiones, cuyo proyecto de Ley se aprobará en un futuro próximo, se crean figuras de eficacia ya contrastada.
+Entre las figuras desarrolladas en otros sistemas financieros para fomentar la inversión productiva, con sus efectos positivos de relanzamiento e innovación, destacan las Sociedades y Fondos de Capital-Riesgo. Estas entidades reúnen características de entidad financiera y «holding», y sirven en su función de promoción y participación a la mejora de la estructura financiera de las Empresas comprometidas en los sectores productivos de mayor futuro, al canalizar el ahorro y la inversión hacia ellas. Así se logra una óptima asignación de recursos a los sectores industriales cuyo desarrollo, al reforzar los factores endógenos de crecimiento y equilibrio, debe situar a nuestra economía en condiciones de competitividad. Objetivos a cuya consecución responden las normas sobre inversiones y cotización en el segundo mercado, siendo promocionadas con los beneficios fiscales adecuados para fomentar su difusión y consolidación.
+Las medidas laborales se mueven en la misma línea de facilitar la creación de un entorno institucional adecuado a mejorar las expectativas de crecimiento económico traducidas en la creación de empleo, procediéndose, en primer lugar, a la modificación del Estatuto de los Trabajadores mediante una importante reducción del número máximo de horas extraordinarias de posible realización en el año, que pasan de 100 a 80, para incrementar así las expectativas de generación de empleo.
+En segundo lugar, y con el propósito de que este número máximo de horas extraordinarias de posible realización anual sea utilizado por las Empresas, con la aceptación voluntaria de los trabajadores, de una forma flexible que permita su realización en aquellos períodos de actividad que requieran una intensificación del trabajo de la plantilla, se procede a la eliminación de los límites diarios y mensuales que figuraban en el Estatuto de los Trabajado-res. De esta forma se establece un único tope de carácter anual, fórmula ésta que permite combinar la garantía del descanso de los trabajadores, que se refleja en la reducción del límite anual de horas extraordinarias y el mantenimiento del descanso entre jornadas de doce horas, con la necesaria flexibilidad en la utilización del tiempo de trabajo en el contexto empresarial. Este nuevo tratamiento del tiempo de trabajo se completa con la regulación de la posibilidad de, mediante acuerdo, compensar las horas extraordinarias realizadas con un tiempo de descanso adicionales, fórmula ésta de la que pueden derivarse positivos efectos, no sólo respecto a la reducción del tiempo de trabajo, sino del incremento de las expectativas de colocación.
+Por último, y de acuerdo con el espíritu que anima al conjunto de medidas administrativas adoptadas en esta norma, se elimina el trámite de visado por la autoridad laboral de los calendarios laborales y la necesidad de inscripción previa de los trabajadores en la Oficina de Empleo correspondiente cuando se lleven a cabo convocatorias públicas para celebrar pruebas objetivas de acceso a las mismas. En este caso, bastará que la Empresa comunique previamente la convocatoria al INEM, así como las contrataciones una vez efectuadas las pruebas.
+En su virtud, previa deliberación del Consejo de Ministros en su reunión del día 14 de marzo de 1986, en uso de la autorización concedida en el artículo 86 de la Constitución,
+DISPONGO:
+
+## CAPÍTULO I
+
+Simplificación de trámites administrativos relativos a Empresas y supresión de reintegros
+
+### Art 1
+
+Art. 1.º
+Las licencias y autorizaciones de instalación, traslado o ampliación de Empresas o Centros de trabajo se entenderán otorgadas por silencio administrativo positivo, sin necesidad de denuncia de mora, transcurrido el plazo de dos meses, a contar desde la fecha de presentación de la solicitud, salvo que previamente tuvieran establecido un plazo inferior, siempre que los interesados presenten sus peticiones debidamente documentadas y éstas se ajusten al Ordenamiento Jurídico. La resolución expresa de la Administración podrá especificar el alcance de la autorización concedida y los requisitos y condiciones de ésta, dentro de los límites fijados por el Ordenamiento Jurídico y la solicitud del interesado.
+Continuará siendo de aplicación el régimen general del silencio negativo, conforme al artículo 94 de la Ley de Procedimiento Administrativo, a las licencias y autorizaciones incluidas en el ámbito de aplicación del párrafo anterior, en las materias señaladas en el anexo de este Real Decreto-ley.
+
+### Art 2
+
+Art. 2.º
+Los particulares podrán solicitar de la Administración Pública, a efectos informativos, y ésta deberá entregar el oportuno acuse de recibo en el que conste la fecha de presentación de su petición de licencia o autorización, la normativa por la que se rija ésta y el régimen de aplicación del silencio administrativo.
+
+### Art 3
+
+Art. 3.º
+Queda suprimido el Impuesto sobre Actos Jurídicos Documentados que grava las instancias y documentos que los particulares presenten ante las Oficina Públicas, las certificaciones expedidas por autoridades o funcionarios a instancia de parte y las autorizaciones, licencias, concesiones y permisos expedidos por autoridades administrativas
+
+### Art 4
+
+Art. 4.º
+Salvo el escrito de iniciación del procedimiento administrativo, las comunicaciones entre los particulares y la Administración, y ésta y los mismos, podrán realizarse por vía telegráfica, télex o cualquier otra de la que quede constancia por escrito, siempre que ofrezcan las debidas garantías de autenticidad, en especial en las notificaciones, y se adapten, en su caso, a los requisitos que se exijan en los procedimientos administrativos especiales.
+
+### Art 5
+
+Art. 5.º
+Se consideran normas de procedimiento administrativo común, dictadas al amparo del artículo 149.1.18 de la Constitución y, en consecuencia, aplicables por todas las Administraciones Públicas, los artículos 1, 2 y 4 del capítulo 1 y la disposición transitoria primera del presente Real Decreto-ley.
+
+### Art 6
+
+Art. 6.º
+1. Queda suprimido el requisito de la previa autorización para proceder a la apertura de un centro de trabajo o para reanudar o proseguir los trabajos después de efectuar alteraciones, ampliaciones o transformaciones de importancia, previsto en el artículo 187.1 del Texto Refundido de la Ley General de la Seguridad Social, aprobado por Decreto 2065/1974, de 30 de mayo.
+En adelante, será suficiente la comunicación de la apertura del centro de trabajo o de la reanudación de los trabajos debidamente documentados y ajustados al Ordenamiento Jurídico, con carácter previo o dentro de los treinta días siguientes a la apertura, a la autoridad laboral competente, quien la pondrá en conocimiento de la Inspección de Trabajo y Seguridad Social a los efectos previstos en el Convenio 81 de la OIT de 11 de julio de 1947.
+2. El Ministro de Trabajo y Seguridad Social determinará los requisitos y datos que el Empresario debe declarar y cumplimentar al efectuar la comunicación de apertura prevista en el número anterior.
+3. En las obras de construcción incluidas en el ámbito de aplicación del Real Decreto 1627/1997, de 24 de octubre, por el que se establecen disposiciones mínimas de seguridad y salud en las obras de construcción, la comunicación de apertura del centro de trabajo deberá ser previa al comienzo de los trabajos y se efectuará únicamente por los empresarios que tengan la condición de contratistas con arreglo a la indicada Ley. El promotor deberá velar por el cumplimiento de la obligación impuesta al contratista.
+Se modifica el apartado 1 y se añade el 3 por el art. 7 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725.
+
+### Art 7
+
+Art. 7.º
+A efectos de lo dispuesto en el artículo 16.1 de la Ley 8/1980, de 10 de marzo, y del artículo 42.1 de la Ley 51/1980, de 8 de octubre, las Empresas podrán contratar directamente cuando lleven a cabo convocatorias públicas para celebrar pruebas objetivas de acceso a las mismas, siempre que transcurran más de tres días desde la convocatoria hasta la celebración de la prueba.
+En este caso y a efectos de lo regulado en el artículo 44.2 de la precitada Ley 51/1980, bastará que la Empresa comunique previamente la convocatoria al INEM, debiendo comunicar asimismo las contrataciones, una vez efectuadas la pruebas, a la Oficina de Empleo correspondiente.
+
+### Art 8
+
+Art. 8.º
+El número 4 del artículo 34 del Estatuto de los Trabajadores queda redactado de la siguiente forma:
+«Anualmente se elaborará por la Empresa el calendario laboral, debiendo exponerse un ejemplar del mismo en un lugar visible de cada centro de trabajo.»
+
+## CAPÍTULO II
+
+Horas extraordinarias
+
+### Art 9
+
+Art. 9.º
+El párrafo 3 del número 2 del artículo 34 del Estatuto de los Trabajadores queda redactado de la siguiente forma:
+«Con independencia de lo antes dicho, en los Convenios Colectivos podrán regularse jornadas anuales respetando el límite que para la jornada ordinaria de trabajo efectivo se establece en el siguiente párrafo de este artículo.»
+
+### Art 10
+
+Art. 10.
+Los números 1 y 2 del artículo 35 del Estatuto de los Trabajadores quedan redactados de la siguiente forma:
+«1. Tendrán la consideración de horas extraordinarias cada hora de trabajo que se realizase sobre la duración máxima de la jornada ordinaria de trabajo, fijada de acuerdo con el artículo anterior. Mediante Convenio Colectivo o, en su defecto, contrato individual, se optará entre abonar las horas extraordinarias con un incremento que en ningún caso será inferior al 75 por 100 sobre el salario que correspondería a cada hora ordinaria o compensarlas por tiempos equivalentes de descanso retribuido incrementados al menos en el porcentaje antes indicado.
+2. El número de horas extraordinarias no podrá ser superior a 80 al año, salvo lo previsto en el número 3 de este artículo. Para los trabajadores que, por la modalidad o duración de su contrato realizasen una jornada en cómputo anual inferior a la jornada general en la Empresa, el número máximo anual de horas extraordinarias se reducirá en la misma proporción que exista entre tales jornadas.
+El Gobierno podrá suprimir o reducir el número máximo de horas extraordinarias por tiempo determinado, con carácter general o para ciertas ramas de actividad o ámbitos territoriales, para incrementar las oportunidades de colocación de los trabajadores en paro forzoso.»
+
+## CAPITULO III
+
+Corrección monetaria de variaciones patrimoniales
+
+### Art 11
+
+Art. 11.
+En las transmisiones realizadas desde 1 de enero hasta 31 de diciembre de 1986 de bienes o elementos patrimoniales adquiridos con más de un año de antelación a la fecha de aquéllas, los posibles incrementos o disminuciones de patrimonio a que se refiere el articulo 20 de la Ley 44/1978, de 8 de septiembre, se calcularán aplicando al valor de adquisición de los bienes transmitidos, determinado conforme a las normas del Impuesto sobre la Renta de las Personas Fisicas, los coeficientes de actualización siguientes:
+Momento de la adquisición del bien o elemento patrimonial:
+Con anterioridad al 1 de enero de 1979,
+ 2,00
+ En el ejercicio 1979,
+ 1,765
+ En el ejercicio 1980,
+ 1,564
+ En el ejercicio 1981,
+ 1,399
+ En el ejercicio 1982,
+ 1,256
+ En el ejercicio 1983,
+ 1,149
+ En el ejercicio 1984,
+ 1,060
+ En el ejercicio 1985,
+ 1,00
+Periódicamente en las Leyes de Presupuestos, se adaptarán los coeficientes de actualización a las variaciones monetarias.
+
+## CAPÍTULO IV
+
+Sociedades y Fondos de Capital-Riesgo
+
+### Art 12
+
+Art. 12.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/1999, de 5 de enero. Ref. BOE-A-1999-214.
+ Se modifica por el art. 17 del Real Decreto-Ley 7/1996, de 7 de junio. Ref. BOE-A-1996-13002.
+ Se modifica por la disposición adicional 4.1 de la Ley 3/1994, de 14 de abril. Ref. BOE-A-1994-8489.
+ Se modifica el apartado 1 por el art. 8.1 de la Ley 28/1992, de 24 de noviembre. Ref. BOE-A-1992-26147.
+ Téngase en cuenta que ya fue modificado por el Real Decreto-Ley 5/1992, de 21 de julio.
+ Se modifica el apartado 1 por el art. 8.1 del Real Decreto-Ley 5/1992, de 21 de julio. Ref. BOE-A-1992-17364.
+
+### Art 13
+
+Art. 13.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/1999, de 5 de enero. Ref. BOE-A-1999-214.
+ Se modifica el art. 3 por la disposición adicional 3 de la Ley 33/1987, 23 de diciembre. Ref. BOE-A-1987-28404.
+
+### Art 14
+
+Art. 14.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/1999, de 5 de enero. Ref. BOE-A-1999-214.
+ Se modifica por el art. 18 del Real Decreto-Ley 7/1996, de 7 de junio. Ref. BOE-A-1996-13002.
+ Se modifica por la disposición adicional 4.2 de la Ley 3/1994, de 14 de abril. Ref. BOE-A-1994-8489.
+ Se modifica por el art. 8.2 de la Ley 28/1992, de 24 de noviembre. Ref. BOE-A-1992-26147.
+ Téngase en cuenta que ya fue modificado por el Real Decreto-Ley 5/1992, de 21 de julio.
+ Se modifica por el art. 8.2 del Real Decreto-Ley 5/1992, de 21 de julio. Ref. BOE-A-1992-17364.
+ Se modifica por la disposición adicional 3 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404.
+
+### Art 15
+
+Art. 15.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/1999, de 5 de enero. Ref. BOE-A-1999-214.
+
+### Art 16
+
+Art. 16.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/1999, de 5 de enero. Ref. BOE-A-1999-214.
+ Se deroga el apartado 2 por la disposición derogatoria única.1.15 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752.
+ Se modifica el apartado 2 por la disposición adicional 4.3 de la Ley 3/1994, de 14 de abril. Ref. BOE-A-1994-8489.
+ Se modifica el apartado 2.b) por el art. 8.3 de la Ley 28/1992, de 24 de noviembre. Ref. BOE-A-1992-26147.
+ Téngase en cuenta que ya fue modificado por el Real Decreto-Ley 5/1992, de 21 de julio.
+ Se modifica el apartado 2.b) por el art. 8.3 del Real Decreto-Ley 5/1992, de 21 de julio. Ref. BOE-A-1992-17364.
+
+### Art 17
+
+Art. 17.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/1999, de 5 de enero. Ref. BOE-A-1999-214.
+
+### Art 18
+
+Art. 18.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/1999, de 5 de enero. Ref. BOE-A-1999-214.
+ Se modifica por el art. 18 del Real Decreto-Ley 7/1996, de 7 de junio. Ref. BOE-A-1996-13002.
+
+### Art 19
+
+Art. 19.
+(Derogado)
+Se deroga por la disposición derogatoria única.4 de la Ley 3/1994, de 14 de abril. Ref. BOE-A-1994-8489.
+
+### Art 20
+
+Art. 20.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/1999, de 5 de enero. Ref. BOE-A-1999-214.
+ Se modifica por la disposición adicional 4.4 de la Ley 3/1994, de 14 de abril. Ref. BOE-A-1994-8489.
+ Se modifica por el art. 8.4 de la Ley 28/1992, de 24 de noviembre. Ref. BOE-A-1992-26147.
+ Téngase en cuenta que ya fue modificado por el Real Decreto-Ley 5/1992, de 21 de julio.
+ Se modifica por el art. 8.4 del Real Decreto-Ley 5/1992, de 21 de julio. Ref. BOE-A-1992-17364.
+
+## CAPÍTULO V
+
+Activos cotizados en el Segundo Mercado de las Bolsas Oficiales de Comercio
+
+### Art 21
+
+Art. 21.
+Los títulos y participaciones cotizados en el Segundo Mercado de las Bolsas Oficiales de Comercio, cuando éstos se constituyan, serán aptos, según su naturaleza, para dar derecho a los beneficios fiscales atribuidos a los valores con cotización en Bolsa y servirán como activos para el cumplimiento de las obligaciones de inversión obligatoria de los intermediarios financieros, en las condiciones establecidas en la normativa específica.
+
+### DISPOSICIÓN FINAL
+
+El presente Real Decreto-ley entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+## DISPOSICIONES TRANSITORIAS
+
+### Primera
+
+Primera.
+El régimen contemplado en el artículo 1.º será de aplicación, en su caso, en las Administraciones Públicas distintas de la Administración del Estado, a todas las instancias y solicitudes que se les presenten a partir del 1 de julio de 1986.
+
+### Segunda
+
+Segunda.
+El régimen contemplado en el artículo 2.º será de aplicación a todas las instancias y solicitudes que se presenten o reiteren a partir de la entrada en vigor del presente Real Decreto-ley.
+
+### DISPOSICIÓN ADICIONAL
+
+Se autoriza al Gobierno y a los Ministros, en sus respectivos ámbitos de competencias, para dictar las normas que sean necesarias para la aplicación y desarrollo de lo previsto en el presente Real Decreto-ley.
+
+### DISPOSICIÓN DEROGATORIA
+
+Quedan derogadas las disposiciones de igual o inferior rango que se opongan a lo prevenido en el presente Real Decreto-ley.
+
+Dado en Madrid a 14 de marzo de 1986.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ
+
+## ANEXO
+
+De conformidad con lo establecido en el artículo 1.o, continuará siendo de aplicación el régimen general del silencio administrativo negativo conforme al artículo 94 de la Ley de Procedimiento Administrativo, a las licencias y autorizaciones siguientes:
+1. Licencias y autorizaciones que para la instalación, traslado o ampliación de industrias y empresas se contienen en el Reglamento de Armas, aprobado por Real Decreto 2179/1981, de 24 de junio y disposiciones complementarias.
+2. Licencias y autorizaciones que para la instalación, traslado o ampliación de industrias y Empresas se continen en el Reglamento de Explosivos, aprobado por Real Decreto 2114/1978, de 2 de marzo, y disposiciones reglamentarias.
+3. Licencias y autorizaciones que para la instalación, traslado o ampliación de industrias y empresas se contienen en el Decreto de 22 de julio de 1967 y Real Decreto 2135/1980, de 26 de septiembre, sobre liberalizacion en la materia, en lo referente a industrias de interés militar.
+4. Las autorizaciones reguladas en el Real Decreto 689/1978, de 1 de febrero, por el que se aprueba el Reglamento de Zonas e Instalaciones de Interés para la Defensa Nacional que a su vez desarrolla la Ley 8/1975, de 12 de marzo, así como las autorizaciones reguladas en las disposiciones que el citado Real Decreto declara en vigor.
+5. Las autorizaciones que procedan en ejercicio de las funciones de control atribuidas a la Administracion Pública por la Ley 33/1984, de 2 de agosto, sobre Ordenación del Seguro Privado y las normas para su desarrollo y aplicación, en materia de acceso a las actividades sometidas a dicha Ley, así como la ampliación, expansión, transformación, escisión, agrupación e integración de las entidades y/o personas sujetas a ella.
+6. Las licencias y autorizaciones de instalación o traslado de Bancos, Cajas de Ahorro y Cooperativas de Crédito, nacionales o extranjeras. Así como las autorizaciones para el establecimiento en el extranjero de oficinas operativas y de representación de bancos y cajas de ahorros españolas.
+7. Las autorizaciones para la creación de Entidades de financiación y de «factoring», Cooperativas de Crédito, Sociedades de Garantía Recíproca y Sociedades de Crédito Hipotecario y para la inscripción de Sociedades Gestoras de Instituciones de Inversión Colectiva y Sociedades Gestoras de Patrimonios.
+8. La autorización de la sustitución de la Sociedad Gestora o el depositario de un Fondo de Inversión.
+9. Las licencias y autorizaciones respecto a Empresas productoras o gestoras de residuos tóxicos y peligros o de productos de cuyo uso pudieran derivarse residuos de este carácter.
+10. Las licencias y autorizaciones para la instalación, traslado o ampliación de industrias y Empresas en el sector de hidrocarburos, y las relativas a instalaciones eléctricas, nucleares, radiactivas o en las industrias y empresas sometidas a planes de reconversión industrial.
+11. Las licencias y autorizaciones que procedan para la constitución y autorización de funcionamiento de las Empresas de Seguridad.
+12. Las autorizaciones relacionadas con los juegos de suerte envite y azar y máquinas recreativas y con premio.
+13. Las autorizaciones de apertura, en relación con el cumplimiento de las medidas de seguridad previstas en el Real Decreto 1388/1984, de sucursales bancarias, Cajas de Ahorros, platerías, joyerías, Administraciones de Lotería, despachos de Apuestas Mutuas Deportivas Benéficas y estaciones de servicio.
+14. Las autorizaciones para la realización de transportes de viajeros, mercancías o mixtos por carretera, así como las de operaciones de transporte aéreo no regular.

@@ -1,0 +1,361 @@
+# Ley 38/1994, de 30 de diciembre, reguladora de las organizaciones interprofesionales agroalimentarias.
+
+- Identificador BOE: `BOE-A-1994-28964`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1994-28964
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley
+I
+La reforma de la Política Agrícola Común tiene como uno de sus objetivos fundamentales una mayor orientación de las producciones agrarias a las necesidades del mercado. Ello implica una flexibilización de los mecanismos de intervención que permitan una mayor adecuación de la oferta agraria a la demanda a través de la actuación del mercado.
+La nueva realidad de unos mercados agroalimentarios cada vez más abiertos hace necesario regular unos instrumentos de colaboración y coordinación entre los distintos intervinientes de la cadena agroalimentaria que doten a los mismos de una mayor eficacia y transparencia.
+Por otra aparte, el artículo 130.1 de la Constitución establece que los poderes públicos atenderán a la modernización y desarrollo de todos los sectores económicos y, en particular, de la agricultura, de la ganadería y de la pesca.
+II
+Las organizaciones interprofesionales agroalimentarias han experimentado un desarrollo importante en otros Estados miembros de la Unión Europea que se encuentran entre los más competitivos en su estructura productiva, configurándose como órganos de coordinación y colaboración de los distintos sectores del sistema agroalimentario.
+Especial relevancia adquieren las organizaciones interprofesionales agroalimentarias en la consecución de los objetivos propios de una política de calidad, debiendo constituir un instrumento eficaz en su desarrollo.
+III
+El carácter general de la presente Ley, que será de aplicación al conjunto de los sectores agroalimentarios, determina su aplicación a las organizaciones interprofesionales agroalimentarias de ámbito estatal o superior al de una Comunidad Autónoma, cumpliendo importantes funciones de ordenación general de la economía, lo que determina su encuadramiento en el artículo 149.1.13.ª de la Constitución.
+IV
+La constitución y funcionamiento de las organizaciones interprofesionales agroalimentarias deben hacerse, en cualquier caso, respetando estrictamente las normas reguladoras de la competencia, que dimanan del derecho comunitario, así como de nuestro ordenamiento jurídico, cuya referencia fundamental viene constituida por la Ley 16/1989, de 17 de julio, de Defensa de la Competencia.
+Las actuaciones a desarrollar deben enmarcarse dentro de los objetivos del artículo 39 del Tratado Constitutivo de la Comunidad Europea, razón por la cual se hace necesario que, por parte del Ministerio de Agricultura, Pesca y Alimentación, se proceda al reconocimiento de las organizaciones interprofesionales agroalimentarias. Por otra parte, la aprobación de determinados acuerdos adoptados en el seno de las organizaciones interprofesionales agroalimentarias que afecten al conjunto de todos los operadores de un sector concreto, se hará conjuntamente con otros departamentos ministeriales, cuando estén relacionados con sus competencias.
+
+### Artículo 1
+
+Artículo 1. Ámbito de la Ley.
+1. La presente Ley tiene por objeto regular el reconocimiento de las organizaciones interprofesionales agroalimentarias como entes de naturaleza jurídica privada y la de sus finalidades.
+Asimismo regula la aprobación de los acuerdos que se tomen en su ámbito, dentro del marco de las relaciones interprofesionales en el sistema agroalimentario, en los casos establecidos y a los efectos de lo dispuesto en la presente Ley.
+Se entiende por sistema agroalimentario, a efectos de lo establecido en esta Ley, el conjunto de los sectores agrícola, ganadero, forestal y pesquero, así como la comercialización y transformación de esos productos.
+2. (Suprimido)
+Se suprime el apartado 2 por la disposición adicional 1.1 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 2
+
+Artículo 2. Concepto de organizaciones interprofesionales agroalimentarias.
+Por organización interprofesional agroalimentaria se entenderá, a los efectos de la presente Ley, aquélla, de ámbito estatal o superior al de una Comunidad Autónoma, que esté constituida por organizaciones representativas cualquiera que sea la naturaleza jurídica empresarial de sus representados, de la producción, de la transformación y en su caso de la comercialización y distribución agroalimentaria.
+Se modifica por la disposición final 1.1 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+Téngase en cuenta que esta modificación entra en vigor el 3 de enero de 2014, conforme a la disposición final 5 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Redacción vigente:
+ "Artículo 2. Concepto de organizaciones interprofesionales agroalimentarias.
+ Por organización interprofesional agroalimentaria se entenderá, a los efectos de la presente Ley, aquélla, de ámbito estatal o superior al de una Comunidad Autónoma, que esté constituida por organizaciones representativas cualquiera que sea la naturaleza jurídica empresarial de sus representados, de la producción, de la transformación y en su caso de la comercialización agroalimentaria."
+
+### Artículo 3
+
+Artículo 3. Finalidades de las organizaciones interprofesionales agroalimentarias.
+Las organizaciones interprofesionales agroalimentarias se constituirán con todas o algunas de las siguientes finalidades:
+a) Velar por el adecuado funcionamiento de la cadena alimentaria y favorecer unas buenas prácticas en las relaciones entre sus socios en tanto que son partícipes de la cadena de valor.
+b) Llevar a cabo actuaciones que permitan mejorar el conocimiento, la eficiencia y la transparencia de los mercados, en especial mediante la puesta en común de información y estudios que resulten de interés para sus socios.
+c) Desarrollar métodos e instrumentos para mejorar la calidad de los productos en todas las fases de la producción, la transformación, la comercialización y la distribución.
+d) Promover programas de investigación y desarrollo que impulsen los procesos de innovación en su sector y que mejoren la incorporación de la tecnología, tanto a los procesos productivos como a la competitividad de los sectores implicados.
+e) Contribuir a mejorar la coordinación de los diferentes operadores implicados en los procesos de puesta en el mercado de nuevos productos, en particular, mediante la realización de trabajos de investigación y estudios de mercado.
+f) Realizar campañas para difundir y promocionar las producciones alimentarias, así como llevar a cabo actuaciones para facilitar una información adecuada a los consumidores sobre las mismas.
+g) Proporcionar información y llevar a cabo los estudios y acciones necesarias para racionalizar, mejorar y orientar la producción agroalimentaria a las necesidades del mercado y las demandas de los consumidores.
+h) Proteger y promover la agricultura ecológica, la producción integrada y cualquier otro método de producción respetuoso con el medio ambiente, así como las denominaciones de origen, las indicaciones geográficas protegidas y cualquier otra forma de protección de calidad diferenciada.
+i) Elaboración de contratos tipo agroalimentarios compatibles con la normativa de competencia nacional y comunitaria.
+j) Promover la adopción de medidas para regular la oferta, de acuerdo con lo previsto en la normativa de competencia nacional y comunitaria.
+k) La negociación colectiva de precios cuando existan contratos obligatorios en los términos previstos en la normativa comunitaria.
+l) Desarrollar métodos para controlar y racionalizar el uso de productos veterinarios y fitosanitarios y otros factores de producción, para garantizar la calidad de los productos y la protección del medio ambiente.
+m) Realizar actuaciones que tengan por objeto una mejor defensa del medio ambiente.
+n) Promover la eficiencia en los diferentes eslabones de la cadena alimentaria mediante acciones que tengan por objetivo mejorar la eficiencia energética, reducir el impacto ambiental, gestionar de forma responsable los residuos y subproductos o reducir las pérdidas de alimentos a lo largo de la cadena.
+ñ) Diseño y realización de acciones de formación de todos los integrantes de la cadena para garantizar la competitividad de las explotaciones agrarias, empresas y trabajadores, así como la incorporación a la cadena de jóvenes cualificados.
+o) La realización de estudios sobre los métodos de producción sostenible y la evolución del mercado, incluyendo índices de precios y costes objetivos, transparentes, verificables y no manipulables, que puedan ser usados de referencia en la fijación del precio libremente pactado en los contratos, siempre teniendo en cuenta lo establecido al respecto por la normativa sectorial comunitaria.
+p) Desarrollar e implementar la formación necesaria para la mejora de la cualificación profesional y empleabilidad de los profesionales de los sectores agroalimentarios.
+q) Cualquier otra que le atribuya la normativa comunitaria.
+Téngase en cuenta que esta modificación entra en vigor el 3 de enero de 2014, conforme a la disposición final 5 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Redacción vigente:
+ "Artículo 3. Finalidades de las organizaciones interprofesionales agroalimentarias.
+ Las organizaciones interprofesionales agroalimentarias se constituirán con todas o algunas de las siguientes finalidades:
+ a) Llevar a cabo actuaciones que permitan un mejor conocimiento, una mayor eficiencia y una mayor transparencia de los mercados.
+ b) Mejorar la calidad de los productos, y de todos los procesos que intervienen en la cadena agroalimentaria, efectuando el seguimiento desde la fase de producción hasta su llegada al consumidor final.
+ c) Promover programas de investigación y desarrollo que impulsen los procesos de innovación de los diferentes sectores.
+ d) Promocionar y difundir el conocimiento de las producciones agroalimentarias.
+ e) Promover actuaciones que faciliten una información adecuada a los intereses de los consumidores.
+ f) Realizar actuaciones que tengan por objeto una mejor defensa del medio ambiente.
+ g) Desarrollar acciones que permitan una permanente adaptación de los productos agroalimentarios a las demandas del mercado.
+ h) Elaboración de contratos tipo compatibles con la normativa comunitaria."
+Se modifica por la disposición final 1.2 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Se añade la letra h) por la disposición adicional 2.1 de la Ley 2/2000, de 7 de enero. Ref. BOE-A-2000-413
+
+### Artículo 4
+
+Artículo 4. Reconocimiento de organizaciones interprofesionales agroalimentarias.
+1. El Ministerio de Agricultura, Pesca y Alimentación otorgará el reconocimiento e inscribirá en el Registro, regulado en el artículo 14 de la presente Ley, a las organizaciones interprofesionales agroalimentarias que así lo soliciten, y cumplan las condiciones siguientes:
+a) Tengan personalidad jurídica propia y exclusiva para finalidades reconocidas a las organizaciones interprofesionales, así como carezcan de ánimo de lucro.
+b)Acrediten representar, en su ámbito territorial y en su sector, al menos el 51 por 100 de las producciones afectadas en todas y cada una de las ramas profesionales.
+c) Su ámbito de referencia abarque el conjunto de la producción nacional, y sin perjuicio de lo establecido en el artículo 5.
+d) Sus estatutos se ajusten a las determinaciones establecidas en el apartado 2 de este artículo.
+2. Los estatutos de las organizaciones interprofesionales agroalimentarias, para su reconocimiento por el Ministerio de Agricultura, Pesca y Alimentación, deberán cumplir las siguientes determinaciones:
+a) Regularán las modalidades de adhesión y retirada de los miembros que las conforman, garantizando la pertenencia a la misma de toda organización representativa de ámbito nacional que se comprometa al cumplimiento de los mismos, siempre que acredite representar, al menos, al 10 por 100 de la rama profesional a la que pertenece.
+Asimismo, tendrá garantizada su presencia toda organización de ámbito autonómico que acredite representar al menos el 50 por 100 de la rama profesional correspondiente a su ámbito territorial, siempre que el sector o producto de que se trate suponga al menos un 3 por 100 de la producción final agraria pesquera o agroalimentaria a nivel nacional, o el 8 por 100 de la producción final agraria a nivel de Comunidad Autónoma.
+Regularán igualmente, la duración del período de representatividad de las organizaciones miembro, los procedimientos para su renovación y una previsión sobre el estado de dicha representatividad, en caso de que por falta de acuerdo entre sus miembros se sobrepasase dicho período.
+b) Establecerán la obligatoriedad para todos sus miembros del cumplimiento de los acuerdos adoptados por la propia organización interprofesional agroalimentaria.
+c) Regularán la participación paritaria en la gestión de la organización interprofesional agroalimentaria del sector productor de una parte, y del sector transformador y comercializador de otra. En función de la representación de intereses así como del objeto social para el que han sido constituidas, las organizaciones de cooperativas agrarias podrán encuadrarse en el sector de la producción, de la transformación y de la comercialización, o en todos ellos simultáneamente.
+Téngase en cuenta que esta modificación entra en vigor el 3 de enero de 2014, conforme a la disposición final 5 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Redacción vigente:
+ "Artículo 4. Reconocimiento de organizaciones interprofesionales agroalimentarias.
+ 1. El Ministerio de Agricultura, Pesca y Alimentación otorgará el reconocimiento e inscribirá en el Registro, regulado en el artículo 14 de la presente Ley, a las organizaciones interprofesionales agroalimentarias que así lo soliciten, y cumplan las condiciones siguientes:
+ a) Tengan personalidad jurídica propia y exclusiva para finalidades reconocidas a las organizaciones interprofesionales, así como carezcan de ánimo de lucro.
+ b) Representen, en la forma en que se determine reglamentariamente para uno o varios sectores o productos, un grado de implantación significativa en la producción y, en su caso, en la transformación y comercialización.
+ En función de la representación de intereses así como del objeto social para el que han sido constituidas, las cooperativas agrarias y las organizaciones de productores reconocidas podrán encuadrarse en el sector de la producción, de la transformación y de la comercialización, o en todos ellos simultáneamente.
+ c) Su ámbito de referencia abarque el conjunto de la producción nacional, y sin perjuicio de lo establecido en el artículo 5.
+ d) Sus estatutos se ajusten a las determinaciones establecidas en el apartado 2 de este artículo.
+ 2. Los estatutos de las organizaciones interprofesionales agroalimentarias, para su reconocimiento por el Ministerio de Agricultura, Pesca y Alimentación, deberán cumplir las siguientes determinaciones:
+ a) Regularán las modalidades de adhesión y retirada de los miembros que las conforman, garantizando la pertenencia a la misma de toda organización representativa de ámbito nacional que se comprometa al cumplimiento de los mismos, siempre que acredite representar, al menos, al 5 por 100 de la rama profesional a la que pertenece.
+ Asimismo, tendrá garantizada su presencia toda organización de ámbito autonómico que acredite representar al menos el 50 por 100 de la rama profesional correspondiente de su ámbito territorial, siempre que el sector o producto de que se trate suponga al menos un 3 por 100 de la producción final agraria pesquera o agroalimentaria a nivel nacional, o el 8 por 100 de la producción final agraria a nivel de Comunidad Autónoma.
+ b) Establecerán la obligatoriedad para todos sus miembros del cumplimiento de los acuerdos adoptados por la propia organización interprofesional agroalimentaria.
+ c) Regularán la participación paritaria en la gestión de la organización interprofesional agroalimentaria del sector productor de una parte, y del sector transformador y comercializador de otra."
+Se modifican las letras b) del apartado 1 y a) y c) del apartado 2 por la disposición final 1.3 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Se modifica la letra b) del apartado 1 por la disposición adicional 1.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 5
+
+Artículo 5. Número de organizaciones interprofesionales agroalimentarias.
+1. Sólo se reconocerá una única organización interprofesional agroalimentaria por sector o producto, salvo lo dispuesto en los apartados siguientes del presente artículo.
+2. Los productos agrarios y alimentarios con derecho al uso de figuras de protección de la calidad diferenciada podrán ser considerados, a los efectos del presente artículo, como sectores o productos diferenciados del de carácter general considerado en el apartado anterior, o de otros de igual o similar naturaleza.
+3. Con carácter excepcional podrá reconocerse más de una organización interprofesional agroalimentaria por producto, cuando su destino final o la diferenciación por calidad den lugar a un mercado específico.
+Téngase en cuenta que esta modificación entra en vigor el 3 de enero de 2014, conforme a la disposición final 5 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Redacción vigente:
+ "Artículo 5. Número de organizaciones interprofesionales agroalimentarias.
+ 1. El Ministerio de Agricultura, Pesca y Alimentación sólo reconocerá una única organización interprofesional agroalimentaria por sector o producto, salvo lo dispuesto en los apartados siguientes del presente artículo.
+ 2. Los productos agrarios y alimentarios con derecho al uso de denominaciones de origen y específicas, denominaciones e indicaciones de calidad e indicaciones y denominaciones geográficas, serán considerados a los efectos de la presente Ley como sectores o productos diferenciados de otros de igual o similar naturaleza.
+ 3. Con carácter excepcional podrá reconocerse más de una organización interprofesional agroalimentaria por producto, cuando su destino final o la diferenciación por calidad den lugar a un mercado específico."
+Se modifican los apartados 1 y 2 por la disposición final 1.4 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Se modifica por la disposición adicional 1.3 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 6
+
+Artículo 6. Remisión de documentos de las organizaciones interprofesionales agroalimentarias.
+1. Sin perjuicio de lo establecido en leyes y disposiciones especiales que regulan los distintos tipos de sociedades, las organizaciones interprofesionales agroalimentarias deberán disponer, en la forma en que se determine reglamentariamente, de los libros de registro en los que constarán los miembros que las integran así como la acreditación del grado de representatividad de los mismos, debidamente actualizados, y los acuerdos adoptados que reflejarán los porcentajes obtenidos previamente en cada uno de los sectores que la integran.
+2. Las organizaciones interprofesionales agroalimentarias deberán remitir al Registro de Organizaciones Interprofesionales Agroalimentarias del Ministerio de Agricultura, Alimentación y Medio Ambiente, antes del 30 de abril de cada año, la Memoria anual de actividades del año anterior, el estado de representatividad al cierre del ejercicio, las cuentas anuales y la liquidación del último ejercicio debidamente auditado y el presupuesto anual de ingresos y gastos del ejercicio corriente.
+Téngase en cuenta que esta modificación entra en vigor el 3 de enero de 2014, conforme a la disposición final 5 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Redacción vigente:
+ "Artículo 6. Remisión de documentos de las organizaciones interprofesionales agroalimentarias.
+ 1. Sin perjuicio de lo establecido en leyes y disposiciones especiales que regulan los distintos tipos de sociedades, las organizaciones interprofesionales agroalimentarias deberán disponer, en la forma en que se determine reglamentariamente, de los libros de registro en los que constarán los miembros que las integran así como la acreditación del grado de representatividad de los mismos, debidamente actualizados, y los acuerdos adoptados que reflejarán los porcentajes obtenidos previamente en cada uno de los sectores que la integran.
+ 2. Las organizaciones interprofesionales agroalimentarias deberán remitir al Registro de Organizaciones Interprofesionales Agroalimentarias del Ministerio de Agricultura, Pesca y Alimentación, en el plazo de un mes a contar desde su respectiva aprobación, la Memoria anual de actividades, el estado de representatividad al cierre del ejercicio, las cuentas anuales, la liquidación del último ejercicio debidamente auditado y el presupuesto anual de ingresos y gastos."
+Se modifica el apartado 2 por la disposición final 1.5 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Se modifica por la disposición adicional 1.4 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 7
+
+Artículo 7. Acuerdos de las organizaciones interprofesionales agroalimentarias.
+Las organizaciones interprofesionales agroalimentarias se ajustarán, para la adopción de sus acuerdos y en su funcionamiento, a las normas y principios recogidos en la normativa de defensa de la competencia nacional y comunitaria.
+Cualquier tipo de acuerdo adoptado en el seno de una organización interprofesional agroalimentaria y que se refiera a alguna de las finalidades reguladas en el artículo 3 de la presente Ley, será remitido al Registro de Organizaciones Interprofesionales Agroalimentarias del Ministerio de Agricultura, Pesca y Alimentación, en el plazo de un mes desde su adopción, mediante certificaciones en las que se haga constar el contenido del acuerdo y el respaldo obtenido en el mismo, medida en tanto por ciento de productores y operadores y de producciones afectadas.
+Téngase en cuenta que esta modificación entra en vigor el 3 de enero de 2014, conforme a la disposición final 5 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Redacción vigente:
+ "Artículo 7. Acuerdos de las organizaciones interprofesionales agroalimentarias.
+ Las organizaciones interprofesionales agroalimentarias se ajustarán, para la adopción de sus acuerdos, a las normas y principios recogidos en la Ley 16/1989, de 17 de julio, de Defensa de la Competencia, y a las disposiciones reguladoras de esta materia en el Derecho comunitario.
+ Cualquier tipo de acuerdo adoptado en el seno de una organización interprofesional agroalimentaria y que se refiera a alguna de las finalidades reguladas en el artículo 3 de la presente Ley, será remitido al Registro de Organizaciones Interprofesionales Agroalimentarias del Ministerio de Agricultura, Pesca y Alimentación, en el plazo de un mes desde su adopción, mediante certificaciones en las que se haga constar el contenido del acuerdo y el respaldo obtenido en el mismo, medida en tanto por ciento de productores y operadores y de producciones afectadas."
+Se modifica el párrafo 1 por la disposición final 1.6 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Se modifica por la disposición adicional 1.5 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 8
+
+Artículo 8. Extensión de normas.
+1. Adoptado un acuerdo en la organización interprofesional agroalimentaria, se elevará al Ministerio de Agricultura, Alimentación y Medio Ambiente para la aprobación, en su caso, mediante orden ministerial de la propuesta de extensión de todas o algunas de sus normas al conjunto total de productores y operadores del sector o producto.
+Las propuestas de extensión de normas deberán referirse a actividades relacionadas con las definidas en el artículo 3 como finalidades de las organizaciones interprofesionales agroalimentarias, así como cualquier otra que le atribuya la normativa comunitaria.
+2. Solo podrá solicitarse la extensión de norma regulada en el apartado anterior en el seno de una organización interprofesional, en las condiciones que se establezcan por vía reglamentaria, cuando concurra que:
+a) El acuerdo es respaldado por al menos el 50% de cada una de las ramas profesionales implicadas y,
+b) la organización interprofesional agroalimentaria represente como mínimo al 75% de las producciones afectadas.
+3. Reglamentariamente se establecerán los mecanismos de control y seguimiento del cumplimiento de los acuerdos de extensión de normas.
+4. El contenido de este artículo se entiende, en todo caso, sin perjuicio de la aplicación de las disposiciones contenidas en la normativa vigente de defensa de la competencia y en la normativa comunitaria.
+5. En el caso de que dentro de un sector determinado existan varias organizaciones interprofesionales agroalimentarias reconocidas, éstas se verán vinculadas a los acuerdos de extensión de norma, aprobados y publicados, de otra organización interprofesional agroalimentaria reconocida para el mismo sector o producto de carácter general y estatal, en el que queden sectorialmente incluidas.
+6. La Orden reguladora correspondiente fijará la duración de los acuerdos, no superior a cinco años o campañas, para los que se solicita la extensión de normas con base en la normativa nacional y comunitaria.
+7. En el procedimiento de elaboración de la Orden de extensión, que se ajustará a lo previsto en el artículo 24 de la Ley 50/1997, de 27 de noviembre, del Gobierno, se acreditará la participación pública de los potenciales destinatarios, por periodo no inferior a quince días.
+Téngase en cuenta que esta modificación entra en vigor el 3 de enero de 2014, conforme a la disposición final 5 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Redacción vigente:
+ "Artículo 8. Extensión de normas.
+ 1. Adoptado un acuerdo en el interior de la organización interprofesional agroalimentaria, se elevará al Ministerio de Agricultura, Pesca y Alimentación, para su aprobación, en su caso, mediante orden ministerial, la propuesta de extensión de todas o algunas de sus normas al conjunto total de productores y operadores del sector o producto.
+ Cuando dicha propuesta esté relacionada con la competencia de otros departamentos ministeriales, la aprobación se hará mediante orden ministerial conjunta.
+ Las propuestas de extensión de normas deberán referirse a reglas relacionadas con:
+ a) La calidad de los productos, incluyendo en ella todos los aspectos relacionados con la sanidad de los mismos o de sus materias primas, así como su normalización, acondicionamiento y envasado, siempre y cuando no existan disposiciones reguladoras sobre la misma materia o en caso de existir, se coadyuve a su cumplimiento o se eleven las exigencias de las mismas.
+ b) La mejor protección del medio.
+ c) La mejor información y conocimiento sobre las producciones y los mercados.
+ d) Las acciones promocionales que redunden en beneficio del sector o producto correspondiente.
+ e) Las acciones tendentes a promover la investigación, el desarrollo y la innovación tecnológica en los diferentes sectores.
+ f) La elaboración de contratos tipo compatibles con la normativa nacional y comunitaria.
+ 2. Sólo podrá solicitarse la extensión de normas reguladas en el apartado anterior, en las condiciones que se establezcan por vía reglamentaria, cuando los acuerdos tomados cuenten, al menos, con el respaldo del 50 por ciento de los productores y operadores de las distintas ramas profesionales implicadas, que deben representar, a su vez, como mínimo dos terceras partes de las producciones afectadas.
+ La acreditación de representatividad se efectuará por las organizaciones miembros de la organización interprofesional correspondiente.
+ 3. Reglamentariamente se establecerán los mecanismos de control y seguimiento del cumplimiento de los acuerdos de extensión de normas.
+ 4. El contenido de este artículo se entiende, en todo caso, sin perjuicio de la aplicación de las disposiciones contenidas en el artículo 1 de la Ley 16/1989, de 17 de julio, de Defensa de la Competencia."
+Se modifica por la disposición final 1.7 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Se modifica por el art. 119.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el apartado 1 por el art. 117 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se añade el apartado 4 por la disposición adicional 1.6 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 9
+
+Artículo 9. Aportación económica en caso de extensión de normas.
+Cuando, en los términos establecidos en el artículo anterior, se extiendan normas al conjunto de los productores y operadores implicados, las Organizaciones Interprofesionales Agroalimentarias podrán proponer al Ministerio de Agricultura, Alimentación y Medio Ambiente, para su aprobación, en su caso, la aportación económica por parte de aquéllos que no estén integrados en las mismas, de acuerdo con los principios de proporcionalidad en la cuantía respecto a los costes de las acciones y de no discriminación con respecto a los miembros de las Organizaciones Interprofesionales Agroalimentarias.
+No se podrán repercutir gastos de funcionamiento de la Organización Interprofesional Agroalimentaria que no correspondan al coste de las acciones.
+Téngase en cuenta que esta modificación entra en vigor el 3 de enero de 2014, conforme a la disposición final 5 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Redacción vigente:
+ "Artículo 9. Aportación económica en caso de extensión de normas.
+ Cuando, en los términos establecidos en el artículo anterior, se extiendan normas al conjunto de los productores y operadores implicados, las organizaciones interprofesionales agroalimentarias podrán proponer al Ministerio de Agricultura, Pesca y Alimentación, para su aprobación, en su caso, la aportación económica por parte de aquéllos que no estén integrados en las mismas, de acuerdo con los principios de proporcionalidad en la cuantía respecto a los costes de las acciones y de no discriminación con respecto a los miembros de las organizaciones interprofesionales agroalimentarias. La orden ministerial correspondiente fijará la duración de los acuerdos para los que se solicita la extensión de normas con base en la normativa nacional y comunitaria.
+ No se podrán repercutir gastos de funcionamiento de la organización interprofesional agroalimentaria que no correspondan al coste de las acciones."
+Se modifica por la disposición final 1.8 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Se modifica por el art. 119.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 10
+
+Artículo 10. Trámite de audiencia.
+(Suprimido).
+Se suprime por la disposición final 1.9 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+
+### Artículo 11
+
+Artículo 11. Revocación del reconocimiento de organizaciones interprofesionales agroalimentarias.
+1. El Ministerio de Agricultura, Alimentación y Medio Ambiente revocará el reconocimiento a todas aquellas organizaciones interprofesionales agroalimentarias que dejen de cumplir alguna de las condiciones establecidas en el artículo 4 de esta Ley.
+2. Podrá revocarse el reconocimiento de aquellas organizaciones interprofesionales agroalimentarias que hayan permanecido inactivas, sin desarrollar ninguna de las finalidades establecidas en el artículo 3 de la presente ley, durante un período ininterrumpido de tres años.
+3. La revocación del reconocimiento se efectuará previa audiencia de las organizaciones interprofesionales agroalimentarias afectadas y se inscribirá en el Registro regulado en el artículo 14 de la presente Ley.
+Téngase en cuenta que esta modificación entra en vigor el 3 de enero de 2014, conforme a la disposición final 5 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Redacción vigente:
+ "Artículo 11. Revocación del reconocimiento de organizaciones interprofesionales agroalimentarias.
+ El Ministerio de Agricultura, Pesca y Alimentación revocará el reconocimiento a todas aquellas organizaciones interprofesionales agroalimentarias que dejen de cumplir alguna de las condiciones establecidas en el artículo 4 de esta Ley, previa audiencia de dichas organizaciones."
+Se modifica por la disposición final 1.10 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+
+### Artículo 12
+
+Artículo 12. Tipificación de infracciones.
+1. Las infracciones administrativas a lo dispuesto en la presente Ley se clasificarán en leves, graves y muy graves.
+2. Constituirán infracciones leves las siguientes:
+a) El retraso injustificado en el envío al Ministerio de Agricultura, Alimentación y Medio Ambiente de cualquiera de los documentos mencionados en los artículos 6 y 7 sobre documentación y acuerdos de las Organizaciones Interprofesionales Agroalimentarias de la presente Ley.
+b) El incumplimiento por los obligados al pago de la aportación económica obligatoria o de las cuotas en que se desglose, en los supuestos de extensión de norma aprobada por la autoridad competente, cuando su cuantía no supere 6.000 euros.
+3. Constituirán infracciones graves las siguientes:
+a) La comisión, en el término de un año, de más de dos infracciones leves, cuando así haya sido declarado por resolución firme.
+b) La no remisión al Ministerio de Agricultura, Alimentación y Medio Ambiente, por parte de las Organizaciones Interprofesionales Agroalimentarias de los acuerdos adoptados en su seno.
+c) La no remisión al Ministerio de Agricultura, Alimentación y Medio Ambiente de las cuentas anuales y la liquidación del último ejercicio debidamente auditado, por parte de las organizaciones interprofesionales agroalimentarias, cuando a lo largo del período anual éstas hayan percibido aportaciones económicas obligatorias de todo el sector en virtud de una orden de extensión de norma aprobada por la autoridad competente.
+d) El incumplimiento por los obligados al pago de la aportación económica obligatoria o de las cuotas en que se desglose, en los supuestos de extensión de norma aprobada por la autoridad competente, cuando su cuantía supere 6.000 euros y no exceda de 60.000 euros.
+4. Constituirán infracciones muy graves:
+a) La comisión, en el término de un año, de más de una infracción grave de la misma naturaleza, cuando así haya sido declarado por resolución firme.
+b) El desarrollo de actuaciones cuya finalidad sea contraria a las establecidas en el artículo 3 de esta Ley.
+c) El incumplimiento de alguno de los requisitos establecidos para el reconocimiento de las organizaciones interprofesionales agroalimentarias en el artículo 4 de esta Ley.
+d) La denegación de la adhesión como miembro de las organizaciones interprofesionales agroalimentarias de aquellas organizaciones sectoriales de ámbito nacional o autonómico que acrediten tener la representatividad mínima establecida en el artículo 4.2 a) de esta Ley.
+e) La aplicación del régimen de aportaciones económicas por extensión de normas de la presente Ley en términos distintos a los contenidos en la correspondiente Orden Ministerial.
+f) El incumplimiento por los obligados al pago de la aportación económica obligatoria o de las cuotas en que se desglose, en los supuestos de extensión de norma aprobada por la autoridad competente, cuando su cuantía exceda de 60.000 euros.
+5. En las infracciones relativas al incumplimiento del pago de la aportación económica obligatoria o de las cuotas en que se desglose, en los supuestos de extensión de norma aprobada por la autoridad competente, el impago deberá ser denunciado por la organización interprofesional ante la autoridad competente, acompañando la documentación que acredite haber requerido el pago a los deudores, así como la admisión a trámite de la correspondiente demanda judicial o, en su caso, de la solicitud de laudo arbitral.
+No obstante, cuando la aportación económica impagada o las cuotas en que se desglose se calculen sobre datos incluidos en declaraciones oficiales a la administración competente o constatados en sus actuaciones de control, no será necesario acreditar la presentación de la documentación mencionada en el párrafo anterior.
+Téngase en cuenta que esta modificación entra en vigor el 3 de enero de 2014, conforme a la disposición final 5 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Redacción vigente:
+ "Artículo 12. Tipificación de infracciones.
+ Las infracciones administrativas a lo dispuesto en la presente Ley se clasificarán en leves, graves y muy graves:
+ 1. Constituirán infracciones leves las siguientes:
+ a) El retraso injustificado en el envío al Ministerio de Agricultura, Pesca y Alimentación de cualquiera de los documentos mencionados en el artículo 6 de la presente Ley.
+ b) El incumplimiento en el pago de la aportación económica debida a las organizaciones interprofesionales agroalimentarias, por los productores y operadores implicados, en los supuestos de extensión de normas aprobadas por el Ministerio de Agricultura, Pesca y Alimentación, cuando la cuantía no exceda de 6.010,12 euros.
+ 2. Constituirán infracciones graves las siguientes:
+ a) La comisión, en el término de un año, de más de dos infracciones leves, cuando así haya sido declarado por resolución firme.
+ b) La no remisión al Ministerio de Agricultura, Pesca y Alimentación, por parte de las organizaciones interprofesionales agroalimentarias de los acuerdos adoptados en su seno, tal como se establece en el artículo 7 de la presente Ley.
+ c) El incumplimiento en el pago de la aportación económica debida a las organizaciones interprofesionales agroalimentarias, por los productores y operadores implicados, en los supuestos de extensión de normas aprobadas por el Ministerio de Agricultura, Pesca y Alimentación, cuando la cuantía supere el 6.010,12 euros y no exceda de 24.040,48 euros.
+ 3. Constituirán infracciones muy graves las siguientes:
+ a) La comisión, en el término de un año, de más de una infracción grave de la misma naturaleza, cuando así haya sido declarado por resolución firme.
+ b) Desarrollar actuaciones cuya finalidad sea distinta a las establecidas en el artículo 3 de esta Ley.
+ c) Aplicar el régimen de aportaciones económicas por extensión de normas establecido en el artículo 9 de la presente Ley en términos distintos a los contenidos en la correspondiente Orden ministerial de aprobación.
+ d) Tomar acuerdos que fragmenten o aíslen mercados o discriminen agentes económicos afectados.
+ e) Interferir el buen funcionamiento de las organizaciones comunes de mercado.
+ f) El incumplimiento en el pago de la aportación económica debida a las organizaciones interprofesionales agroalimentarias, por los productores y operadores implicados, en los supuestos de extensión de normas aprobadas por el Ministerio de Agricultura, Pesca y Alimentación, cuando la cuantía exceda de 24.040,48 euros."
+Se da nueva redacción por la disposición final 1.11 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Se convierten a euros las cuantías contempladas por el anexo de la Resolución de 6 de noviembre de 2001. Ref. BOE-A-2001-21531
+ Se modifica por la disposición adicional 2.2 de la Ley 2/2000, de 7 de enero. Ref. BOE-A-2000-413
+
+### Artículo 13
+
+Artículo 13. Sanciones.
+1. Las infracciones administrativas enumeradas en el artículo anterior se sancionarán:
+a) Las infracciones leves con apercibimiento o multa de hasta 3.000 euros.
+b) Las infracciones graves con multa comprendida entre 3.001 euros y 150.000 euros.
+Además podrá ordenarse la suspensión temporal del reconocimiento de la organización interprofesional agroalimentaria, a efectos de lo establecido en la presente Ley, por plazo no superior a un año.
+c) Las infracciones muy graves con multa comprendida entre 150.001 euros y 3.000.000 de euros.
+Además podrá ordenarse la suspensión temporal del reconocimiento de la organización interprofesional agroalimentaria, a efectos de lo establecido en la presente Ley, por un plazo comprendido entre un año y un día y tres años.
+Asimismo, se podrá ordenar la retirada definitiva del reconocimiento a la organización interprofesional agroalimentaria, a los efectos previstos en esta Ley.
+2. Los criterios para la graduación de la sanción a aplicar serán los que determina la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. La resolución del procedimiento sancionador será competencia de:
+a) El Director General de la Industria Alimentaria, cuando la cuantía total de la sanción propuesta por el instructor del expediente no supere los 100.000 euros.
+b) El Secretario General de Agricultura y Alimentación, cuando dicha cuantía exceda de 100.000 euros y no supere los 300.000 euros.
+c) El Ministro de Agricultura, Alimentación y Medio Ambiente, cuando dicha cuantía exceda de 300.000 euros y no supere 600.000 euros.
+d) El Consejo de Ministros, cuando dicha cuantía exceda de 600.000 euros o cuando se proponga como sanción la suspensión temporal o definitiva del reconocimiento de la organización interprofesional agroalimentaria.
+Téngase en cuenta que esta modificación entra en vigor el 3 de enero de 2014, conforme a la disposición final 5 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Redacción vigente:
+ "Artículo 13. Tipificación de sanciones.
+ 1. Las infracciones administrativa enumeradas en el artículo anterior, podrán dar lugar a la imposición de alguna o algunas de las siguientes sanciones:
+ a) Por infracciones leves: multa de hasta 12.020,24 euros.
+ b) Por infracciones graves:
+ – Multa desde 12.020,25 a 48.080,97 euros.
+ – Suspensión temporal de reconocimiento de la organización interprofesional agroalimentaria, a efectos de lo establecido en la presente Ley, por plazo no superior a un año.
+ c) Por infracciones muy graves:
+ – Multa desde 48.080,98 a 90.151,82 euros.
+ – Suspensión temporal de reconocimiento de la organización interprofesional agroalimentaria, a efectos de lo establecido en la presente Ley, por plazo superior a un año e inferior a tres años.
+ – Retirada definitiva del reconocimiento a la organización interprofesional agroalimentaria, a los efectos previstos en esta Ley.
+ 2. El procedimiento para la imposición de las sanciones reguladas en este artículo se ajustarán a lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de la Administraciones Públicas y del Procedimiento Administrativo Común, y al Reglamento del procedimiento para el ejercicio de la potestad sancionadora, aprobada por Real Decreto 1398/1993, de 4 de agosto."
+Se modifica por la disposición final 1.12 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Se convierten a euros las cuantías contempladas por el anexo de la Resolución de 6 de noviembre de 2001. Ref. BOE-A-2001-21531
+
+### Artículo 14
+
+Artículo 14. Registro de Organizaciones Interprofesionales Agroalimentarias.
+Se crea en el Ministerio de Agricultura, Pesca y Alimentación, el Registro de Organizaciones Interprofesionales Agroalimentarias.
+En la forma en que se determine reglamentariamente, el Ministerio de Agricultura, Pesca y Alimentación inscribirá en este Registro a las organizaciones interprofesionales agroalimentarias que haya reconocido y los acuerdos adoptados por las mismas que le hayan sido notificados.
+
+### Artículo 15
+
+Artículo 15. Consejo General de Organizaciones Interprofesionales Agroalimentarias.
+1. Se crea el Consejo General de Organizaciones Interprofesionales Agroalimentarias como órgano colegiado adscrito al Ministerio de Agricultura, Pesca y Alimentación.
+2. El Consejo General de Organizaciones Interprofesionales Agroalimentarias actuará en Pleno y en Comisión Permanente. El Pleno estará presidido por el Secretario General de Agricultura y Alimentación, y estará compuesto, en la forma en que se determine reglamentariamente, por representantes de los Ministerios de Agricultura, Alimentación y Medio Ambiente, de Economía y Competitividad y de Sanidad, Servicios Sociales e Igualdad, de las Comunidades Autónomas, de las organizaciones profesionales agrarias, organizaciones de cooperativas agrarias y pesqueras, organizaciones de productores pesqueros reconocidas, organizaciones de la industria y del comercio alimentario y de las organizaciones de consumidores.
+3. El Consejo General de Organizaciones Interprofesionales Agroalimentarias desempeñará las siguientes funciones:
+a) Emitir informes con carácter previo al reconocimiento o revocación de las organizaciones interprofesionales agroalimentarias por parte del Ministerio de Agricultura, Pesca y Alimentación.
+b) Emitir informes con carácter previo a la aprobación de Acuerdos de extensión de normas y de aportaciones económicas de los no integrados en las organizaciones interprofesionales agroalimentarias, a que se refieren los artículos 8 y 9 de esta Ley.
+c) Asesorar al Ministerio de Agricultura, Pesca y Alimentación en todas aquellas funciones que se atribuyen a dicho departamento en la presente Ley.
+4. El Ministerio de Agricultura, Pesca y Alimentación dará traslado al Consejo General de Organizaciones Interprofesionales Agroalimentarias de los documentos que las organizaciones interprofesionales agroalimentarias le hayan remitido en virtud de lo dispuesto en los artículos 6 y 7 de esta Ley,
+Téngase en cuenta que esta modificación entra en vigor el 3 de enero de 2014, conforme a la disposición final 5 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Redacción vigente:
+ "Artículo 15. Consejo General de Organizaciones Interprofesionales Agroalimentarias.
+ 1. Se crea el Consejo General de Organizaciones Interprofesionales Agroalimentarias como órgano colegiado adscrito al Ministerio de Agricultura, Pesca y Alimentación.
+ 2. El Consejo General de Organizaciones Interprofesionales Agroalimentarias actuará en Pleno y en Comisión Permanente. El Pleno estará presidido por el Ministro de Agricultura, Pesca y Alimentación, y estará compuesto, en la forma en que se determine reglamentariamente, por representantes de los Ministerios de Agricultura, Pesca y Alimentación, de Economía y Hacienda y de Sanidad y Consumo, de las Comunidades Autónomas, de las organizaciones profesionales agrarias, organizaciones de cooperativas agrarias y pesqueras, organizaciones de productores pesqueros reconocidas, organizaciones de la industria y del comercio agroalimentario y de las organizaciones de consumidores.
+ 3. El Consejo General de Organizaciones Interprofesionales Agroalimentarias desempeñará las siguientes funciones:
+ a) Emitir informes con carácter previo al reconocimiento o revocación de las organizaciones interprofesionales agroalimentarias por parte del Ministerio de Agricultura, Pesca y Alimentación.
+ b) Emitir informes con carácter previo a la aprobación de Acuerdos de extensión de normas y de aportaciones económicas de los no integrados en las organizaciones interprofesionales agroalimentarias, a que se refieren los artículos 8 y 9 de esta Ley.
+ c) Asesorar al Ministerio de Agricultura, Pesca y Alimentación en todas aquellas funciones que se atribuyen a dicho departamento en la presente Ley.
+ 4. El Ministerio de Agricultura, Pesca y Alimentación dará traslado al Consejo General de Organizaciones Interprofesionales Agroalimentarias de los documentos que las organizaciones interprofesionales agroalimentarias le hayan remitido en virtud de lo dispuesto en los artículos 6 y 7 de esta Ley."
+Se modifica el apartado 2 por la disposición final 1.13 de la Ley 12/2013, de 2 de agosto. Ref. BOE-A-2013-8554.
+ Se modifica el apartado 2 por la disposición adicional 1.7 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Disposición adicional primera
+
+Disposición adicional primera. Entidades colaboradoras.
+Las organizaciones interprofesionales agroalimentarias reconocidas conforme a lo establecido en la presente Ley podrán ser consideradas como entidades colaboradoras para la entrega y distribución de fondos públicos a los beneficiarios de ayudas y subvenciones públicas que tengan por objeto exclusivamente la consecución de las finalidades recogidas en el artículo 3 de la presente Ley, en los términos establecidos en el artículo 81 del texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto legislativo 1091/1988, de 23 de septiembre.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Las Comunidades Autónomas podrán regular el régimen de las organizaciones interprofesionales agroalimentarias correspondientes a su ámbito.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Infracciones a la libre competencia.
+La comisión por parte de las organizaciones interprofesionales agroalimentarias de infracciones a la libre competencia podrán dará lugar, una vez sancionada por el Tribunal de Defensa de la Competencia, a la suspensión temporal o retirada definitiva del reconocimiento otorgado por el Ministerio de Agricultura, Pesca y Alimentación cuando tales infracciones supongan un menoscabo o lesión de las finalidades previstas en el artículo 3 de la presente Ley.
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+(Suprimida)
+Se suprime por la disposición adicional 1.8 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Disposición final primera
+
+Disposición final primera. Autorización de desarrollo.
+Se autoriza al Gobierno para dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de lo dispuesto en la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 30 de diciembre de 1994
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

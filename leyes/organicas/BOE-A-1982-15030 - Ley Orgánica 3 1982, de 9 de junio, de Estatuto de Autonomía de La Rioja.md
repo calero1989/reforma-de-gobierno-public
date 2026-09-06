@@ -1,0 +1,910 @@
+# Ley Orgánica 3/1982, de 9 de junio, de Estatuto de Autonomía de La Rioja.
+
+- Identificador BOE: `BOE-A-1982-15030`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1982-15030
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley orgánica:
+
+## TITULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1.
+Uno. La Rioja, como expresión de su identidad histórica y en el ejercicio del derecho al autogobierno recogido en la Constitución Española, se constituye en Comunidad Autónoma dentro del Estado Español, de acuerdo con la Constitución y el presente Estatuto que es su norma institucional básica.
+Dos. La Comunidad Autónoma de La Rioja, a través de sus instituciones, asume el gobierno y la administración autónomos de la región. Sus poderes emanan del pueblo y son ejercidos de acuerdo con la Constitución y el presente Estatuto.
+Tres. El Estatuto de Autonomía aspira a hacer realidad los principios de libertad, igualdad y justicia para todos los riojanos, en el marco de igualdad y solidaridad con las demás nacionalidades y regiones de España.
+Se modifica por el art. 1.1 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 2
+
+Artículo 2.
+El territorio de La Rioja como Comunidad Autónoma es el de los municipios comprendidos dentro de los límites administrativos de la provincia de La Rioja.
+Se modifica por el art. 1.2 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 3
+
+Artículo 3.
+1. La bandera de La Rioja es la formada por cuatro franjas horizontales y de igual tamaño, de los colores rojo, blanco, verde y amarillo.
+2. La Comunidad Autónoma de La Rioja posee himno y escudo propios que sólo podrán modificarse por Ley del Parlamento de La Rioja aprobada por mayoría de dos tercios de sus miembros.
+Se modifica el apartado 2 por el art. 1.3 de la Ley 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 4
+
+Artículo 4.
+La capital de la Comunidad Autónoma de La Rioja es la ciudad de Logroño.
+Se modifica por el art. 1.4 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 5
+
+Artículo 5.
+Uno. La Comunidad Autónoma de La Rioja estructurará su organización territorial en municipios.
+Dos. Una Ley del Parlamento podrá reconocer la comarca como entidad local con personalidad jurídica y demarcación propia. La comarca no supondrá, necesariamente, la supresión de los municipios que la integran.
+Se modifica por el art. 1.5 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 6
+
+Artículo 6.
+Uno. A los efectos del presente Estatuto gozan de la condición política de riojanos los ciudadanos españoles que, según las Leyes del Estado, tengan vecindad administrativa en cualquiera de los municipios de la Comunidad Autónoma de La Rioja.
+Dos. Como riojanos, gozan de los derechos políticos definidos en este Estatuto los ciudadanos españoles residentes en el extranjero que hayan tenido su última vecindad administrativa en La Rioja y acrediten esta condición en el correspondiente Consulado de España. Gozarán también de estos derechos sus descendientes inscritos como españoles, si así lo solicitan, en la forma que determine la legislación del Estado.
+Tres. Las comunidades riojanas asentadas fuera de La Rioja podrán solicitar como tales, el reconocimiento de su entidad riojana, entendida como el derecho a colaborar y compartir la vida social y cultural de La Rioja. Una Ley de la Comunidad Autónoma de La Rioja regulará, sin perjuicio de las competencias del Estado, el alcance y contenido de dicho reconocimiento, que, en ningún caso, implicará la concesión de derechos políticos.
+Cuatro. La Comunidad Autónoma de La Rioja podrá solicitar del Estado que, para facilitar lo dispuesto anteriormente, celebre los oportunos Tratados o Convenios Internacionales con los Estados donde existan dichas Comunidades.
+Se modifica el apartado 1 y se añade el 3 y 4 por el art. 1.6 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 7
+
+Artículo 7.
+Uno. Los ciudadanos de La Rioja son titulares de los derechos y deberes fundamentales establecidos en la Constitución.
+Dos. Corresponde a los poderes públicos de la Comunidad Autónoma de La Rioja, en el ámbito de sus competencias, promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integran sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social, así como la defensa y protección de los valores culturales del pueblo riojano.
+Tres. Los poderes públicos de la Comunidad Autónoma impulsarán aquellas acciones que tiendan a mejorar las condiciones de vida y trabajo y a incrementar la ocupación y crecimiento económico.
+Se modifican los apartados 2 y 3, y se suprime el 4 por el art. 1.7 y 2 de la Ley 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+## TITULO I
+
+De las competencias de la Comunidad Autónoma
+
+## CAPITULO I
+
+De las competencias exclusivas
+
+### Artículo 8
+
+Artículo 8.
+Uno. Corresponde a la Comunidad Autónoma de La Rioja la competencia exclusiva en las siguientes materias:
+1. La organización, estructura, régimen y funcionamiento de sus instituciones de autogobierno.
+2. Procedimiento administrativo derivado de las especialidades de la organización propia de La Rioja.
+3. Alteración de términos municipales, su denominación y capitalidad, organización de mancomunidades, agrupación de municipios y creación de entidades infra y supramunicipales.
+4. Ordenación y planificación de la actividad económica, así como fomento del desarrollo económico de la Comunidad Autónoma, dentro de los objetivos marcados por la política económica nacional.
+5. Creación y gestión de un sector público propio de la Comunidad.
+6. Comercio interior sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio del Estado y de la legislación sobre defensa de la competencia. Establecimiento de bolsas de valores y establecimiento y regulación de centros de contratación de mercancías, conforme a la legislación mercantil.
+7. El régimen de ferias y mercados interiores.
+8. La artesanía.
+9. La promoción y ordenación del turismo en su ámbito territorial.
+10. Casinos, juegos y apuestas, con exclusión de las Apuestas Mutuas Deportivo-Benéficas.
+11. Industria, sin perjuicio de lo que determinen las normas del Estado por razones de seguridad, sanitarias o de interés militar y las normas relacionadas con las industrias que estén sujetas a la legislación de minas, hidrocarburos y energía nuclear. El ejercicio de la competencia se realizará de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, en los términos de lo dispuesto en los artículos 38, 131 y números 11 y 13 del apartado 1 del artículo 149 de la Constitución.
+12. Cooperativas y entidades asimilables, mutualidades no integradas en la Seguridad Social y pósitos, conforme a la legislación mercantil.
+13. Publicidad, sin perjuicio de las normas dictadas por el Estado para sectores y medios específicos, de acuerdo con los números 1, 6 y 8 del apartado 1 del artículo 149 de la Constitución.
+14. Las obras públicas de interés para La Rioja en su propio territorio, que no sean de interés general del Estado ni afecten a otra Comunidad Autónoma.
+15. Los ferrocarriles, carreteras y caminos, cuyo itinerario se desarrolle íntegramente dentro del territorio de La Rioja, y, en los mismos términos, el transporte desarrollado por estos medios, por vía fluvial, por cable y por tubería. Centros de contratación y terminales de carga de transporte en el ámbito de la Comunidad.
+16. La ordenación del territorio, urbanismo y vivienda.
+17. Proyectos, construcción y explotación de los aprovechamientos hidráulicos, hidroeléctricos, canales y regadíos de interés para La Rioja. Aguas minerales y termales; aguas subterráneas cuando discurran íntegramente por el ámbito territorial de la Comunidad Autónoma.
+Ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran íntegramente por el ámbito territorial de la Comunidad Autónoma.
+18. Instalaciones de producción, de distribución y de transporte de cualesquiera energías, incluidos los recursos y aprovechamientos hidroeléctricos, de gas natural y de gases licuados, cuando se circunscriban al territorio de la Comunidad y su aprovechamiento no afecte a otra Comunidad Autónoma, sin perjuicio de lo establecido en los números 22 y 25 del apartado 1 del artículo 149 de la Constitución.
+19. Agricultura, ganadería e industrias agroalimentarias de acuerdo con la ordenación general de la economía.
+20. Las denominaciones de origen y sus consejos reguladores, en colaboración con el Estado.
+21. Pesca fluvial y lacustre, acuicultura y caza.
+22. Tratamiento especial de las zonas de montaña.
+23. Cultura, con especial atención a las manifestaciones peculiares de La Rioja.
+La Comunidad Autónoma podrá celebrar convenios con otras Comunidades para la gestión y prestación de servicios de actos de carácter cultural, especialmente dirigidos a los emigrantes de origen riojano residentes en otras Comunidades.
+24. Investigación científica y técnica, en coordinación con la general del Estado, prestando especial atención a la lengua castellana por ser originaria de La Rioja y constituir parte esencial de su cultura.
+25. Los museos, archivos, bibliotecas, conservatorios de música y danza, centros de bellas artes y demás centros de depósito cultural de interés para La Rioja y colecciones de naturaleza análoga, que no sean de titularidad estatal.
+26. El patrimonio artístico, arqueológico, histórico, cultural, monumental, arquitectónico y científico de interés para La Rioja.
+27. La promoción del deporte y de la adecuada utilización del ocio.
+28. Aeropuertos y helipuertos que no tengan la calificación de interés general del Estado.
+Aeropuertos deportivos, instalaciones de navegación y deporte en aguas continentales.
+29. Espectáculos.
+30. Asistencia y servicios sociales.
+31. Desarrollo comunitario. Promoción e integración de los discapacitados, emigrantes, tercera edad y demás grupos sociales necesitados de especial protección, incluida la creación de centros de protección, reinserción y rehabilitación. Orientación y planificación familiar.
+32. Protección y tutela de menores.
+33. Estadística para fines no estatales.
+34. Fundaciones que desarrollen principalmente sus funciones en la Comunidad Autónoma.
+35. Servicio meteorológico de la Comunidad Autónoma.
+36. Vigilancia y protección de los edificios e instalaciones de la propia Comunidad y la coordinación de las policías locales de La Rioja, sin perjuicio de su dependencia de las autoridades municipales.
+Para el ejercicio de la competencia de vigilancia y protección de sus edificios e instalaciones, la Comunidad Autónoma podrá convenir con el Estado la adscripción de una Unidad del Cuerpo Nacional de Policía en los términos y para el ejercicio de las funciones previstas en la Ley Orgánica aludida en el número 29 del apartado 1 del artículo 149 de la Constitución.
+37. Cajas de Ahorro e instituciones de crédito cooperativo público y territorial, en el marco de la ordenación general de la economía y de acuerdo con las disposiciones que, en uso de sus facultades, dicte el Estado.
+38. Cualesquiera otras que le correspondan de acuerdo con la Constitución, el presente Estatuto o, en general, el ordenamiento jurídico.
+Dos. En el ejercicio de estas competencias corresponderá a la Comunidad Autónoma de La Rioja la potestad legislativa, la potestad reglamentaria y la función ejecutiva, que serán ejercidas respetando, en todo caso, lo dispuesto en la Constitución.
+Se modifica por el art. 1.8 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+ Se modifica por el art. único de la Ley Orgánica 3/1994, de 24 de marzo. Ref. BOE-A-1994-6942
+
+## CAPITULO II
+
+Del desarrollo legislativo y ejecución de competencias
+
+### Artículo 9
+
+Artículo 9.
+En el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca, corresponde a la Comunidad Autónoma de La Rioja el desarrollo legislativo y la ejecución en las siguientes materias:
+1. Protección del medio ambiente, normas adicionales de protección del medio ambiente y del paisaje. Espacios naturales protegidos. Protección de los ecosistemas.
+2. Régimen minero y energético.
+3. Defensa del consumidor y usuario, de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, las bases y coordinación general de la sanidad, en los términos de lo dispuesto en los artículos 38, 131 y en los números 11, 13 y 16 del apartado 1 del artículo 149 de la Constitución.
+4. La coordinación hospitalaria en general.
+5. Sanidad e higiene.
+6. Radiodifusión y televisión, de acuerdo con la Ley que regule el estatuto jurídico de la radio y la televisión.
+Igualmente le corresponde, en el marco de las normas básicas del Estado, el desarrollo legislativo y ejecución del régimen de prensa y, en general, de todos los medios de comunicación social.
+En los términos establecidos en los párrafos anteriores de este apartado, la Comunidad Autónoma podrá regular, crear y mantener su propia televisión, radio y prensa y, en general, todos los medios de comunicación social para el cumplimiento de sus fines.
+7. Sistema de consultas populares en el ámbito de La Rioja, de conformidad con lo que disponga la Ley a la que se refiere el apartado 3 del artículo 92 de la Constitución y demás Leyes del Estado, correspondiendo a éste la autorización de su convocatoria.
+8. Régimen local.
+9. Las restantes materias que con este carácter y mediante Ley del Estado, le sean transferidas.
+10. Cámaras agraria de comercio e industria o entidades equivalentes, Colegios Profesionales y ejercicio de las profesiones tituladas, así como cualquiera otra corporación de derecho público representativa de intereses económicos y profesionales.
+11. Montes, aprovechamientos y servicios forestales, vías pecuarias y pastos.
+12. Ordenación farmacéutica.
+Se modifica por el art. 1.9 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+ Se modifica por el art. único de la Ley Orgánica 3/1994, de 24 de marzo. Ref. BOE-A-1994-6942
+
+### CAPITULO III
+
+De la ejecución de la legislación del Estado
+
+### Artículo 10
+
+Artículo 10.
+Uno. Corresponde a la Comunidad Autónoma la competencia de desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo 27 de la Constitución y leyes orgánicas que conforme al apartado 1 del artículo 81 de la misma lo desarrollen y sin perjuicio de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 y de la alta inspección para su cumplimiento y garantía.
+Dos. Para garantizar una prestación homogénea y eficaz del servicio público de la educación que permita corregir las desigualdades o desequilibrios que puedan producirse, la Comunidad Autónoma facilitará a la Administración del Estado la información que ésta le solicite sobre el funcionamiento del sistema educativo en sus aspectos cualitativos y cuantitativos y colaborará con la Administración del Estado en las actuaciones de seguimiento y evaluación del sistema educativo nacional.
+Se modifica por el art. 3 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+ Su anterior numeración era art. 12.
+ Se modifica por el art. único de la Ley Orgánica 3/1994, de 24 de marzo. Ref. BOE-A-1994-6942
+
+## CAPÍTULO III
+
+CAPITULO III
+De la ejecución de la legislación del Estado
+
+### CAPITULO IV
+
+De la asunción de otras competencias
+
+### Artículo 11
+
+Artículo 11.
+Uno. Corresponde a la Comunidad Autónoma de La Rioja, en los términos que establezcan las leyes, y, en su caso, a las normas reglamentarias que para su desarrollo dicte el Estado, la función ejecutiva de las siguientes materias:
+1. Sector público estatal en el ámbito territorial de la Comunidad Autónoma, la que participará en los casos y actividades en que proceda.
+2. Planes establecidos por el Estado para:
+a) La reestructuración de sectores económicos.
+b) El estímulo y la ampliación de actividades productivas e implantación de nuevas empresas.
+c) Las actuaciones referidas a comarcas deprimidas o en crisis.
+3. Laboral. De conformidad con el número 7 del apartado 1 del artículo 149 de la Constitución, corresponde al Estado la competencia sobre legislación laboral y la alta inspección. Quedan reservadas al Estado todas las competencias en materia de migraciones interiores y exteriores, fondos de ámbito nacional y de empleo, sin perjuicio de lo que establezcan las normas del Estado sobre estas materias.
+4. Propiedad industrial.
+5. Propiedad intelectual.
+6. Crédito, banca y seguros, de acuerdo con las previsiones de las reglas 6, 11 y 13 del apartado 1 del artículo 149 de la Constitución.
+7. Ferias internacionales.
+8. Pesas y medidas. Contraste de metales.
+9. Aeropuertos con calificación de interés general cuya gestión directa no se reserve la Administración General del Estado.
+10. Transporte de mercancías y viajeros que tenga su origen y destino dentro del territorio de la Comunidad Autónoma, aunque éste discurra sobre las infraestructuras de titularidad estatal a que hace referencia el número 21 del apartado 1 del artículo 149 de la Constitución y sin perjuicio de la ejecución que se reserve el Estado.
+11. Gestión de museos, archivos y bibliotecas de titularidad estatal, que no se reserve el Estado. Los términos de la gestión serán fijados mediante convenios.
+12. Productos farmacéuticos.
+13. Asociaciones.
+14. Gestión de la asistencia sanitaria de la Seguridad Social, de acuerdo con lo previsto en el número 17 del apartado 1 del artículo 149 de la Constitución, reservándose el Estado la alta inspección conducente al cumplimiento de la función a que se refiere este precepto.
+15. Gestión de las prestaciones y servicios sociales del sistema de Seguridad Social: INSERSO. La determinación de las prestaciones del sistema, los requisitos para establecer la condición de beneficiario y la financiación se efectuará de acuerdo con las normas establecidas por el Estado en el ejercicio de sus competencias, de conformidad con lo dispuesto en el número 17 del apartado 1 del artículo 149 de la Constitución.
+Dos. En el caso de las materias señaladas en este artículo o con el mismo carácter en otros preceptos del presente Estatuto, corresponde a la Comunidad Autónoma de La Rioja la potestad de administración así como, en su caso, la de dictar reglamentos internos de organización de los servicios correspondientes.
+Se modifica por el art. 1.10 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+ Se modifica por el art. único de la Ley Orgánica 3/1994, de 24 de marzo. Ref. BOE-A-1994-6942
+
+## CAPÍTULO IV
+
+CAPITULO IV
+Del ejercicio de otras competencias
+Se modifica por el art. 4 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 12
+
+Artículo 12.
+La Comunidad Autónoma, previo acuerdo del Parlamento de La Rioja, adoptado por mayoría de dos tercios de sus miembros, podrá ampliar el ámbito de sus competencias en materias que no estén atribuidas en exclusiva al Estado, o que sólo estén atribuidas las bases o principios, según el artículo 149 de la Constitución. El acuerdo de asumir las nuevas competencias se someterá a las Cortes Generales para su aprobación mediante Ley Orgánica.
+Asimismo, podrá asumir competencias a través de los procedimientos establecidos en los números 1 y 2 del artículo 150 de la Constitución.
+Se modifica por el art. 1.11 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+ Se modifica por el art. único de la Ley Orgánica 3/1994, de 24 de marzo. Ref. BOE-A-1994-6942
+
+## CAPÍTULO V
+
+CAPITULO V
+De la atribución de las competencias que corresponde a la Diputación Provincial
+
+### Artículo 13
+
+Artículo 13.
+La Comunidad Autónoma de La Rioja asume desde su constitución todas las competencias, medios y recursos que, según las leyes, correspondan a la Diputación Provincial de La Rioja.
+Los órganos de representación y gobierno de la Diputación Provincial establecidos por la legislación de régimen local, quedan sustituidos en la provincia de La Rioja por los propios de la Comunidad Autónoma, en los términos de este Estatuto. La Diputación General de La Rioja determinara, según su naturaleza, la distribución de las competencias de la Diputación Provincial entre los distintos órganos de la Comunidad Autónoma de La Rioja, previstos en el artículo dieciséis de este Estatuto.
+Se modifica por el art. 3 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+ Su anterior numeración era art. 14.
+ Se modifica por el art. único de la Ley Orgánica 3/1994, de 24 de marzo. Ref. BOE-A-1994-6942
+
+## CAPÍTULO VI
+
+CAPITULO VI
+De los convenios con otras Comunidades Autónomas
+
+### CAPITULO V
+
+De la atribución de las competencias que corresponden a la Diputación Provincial
+
+### Artículo 14
+
+Artículo 14.
+Uno. La Comunidad Autónoma de La Rioja podrá celebrar convenios con otras Comunidades Autónomas o Territorios de Régimen Foral para la gestión y prestación de los servicios propios de su competencia, de acuerdo con lo establecido en el artículo 145.2 de la Constitución, y con el procedimiento que el Parlamento de La Rioja determine.
+Dos. Una vez aprobados los convenios, se comunicarán por el Parlamento a las Cortes Generales y entrarán en vigor, a tenor de lo que en los mismos se establezca, transcurridos treinta días desde la recepción de la comunicación en las Cortes Generales, si éstas no manifestasen reparo, en caso contrario el convenio deberá seguir el trámite previsto en el apartado tres de este artículo, como acuerdo de cooperación.
+Tres. La Comunidad Autónoma de La Rioja podrá establecer también otros acuerdos de cooperación con Comunidades Autónomas o Territorios de Régimen Foral, previa autorización de las Cortes Generales.
+Cuatro. Los convenios o acuerdos de cooperación que el Gobierno de La Rioja suscriba con otras Comunidades Autónomas, requerirán, previa a su formalización, la aprobación y autorización del Parlamento.
+Cinco. La Comunidad Autónoma de La Rioja podrá solicitar del Gobierno de la Nación la celebración de tratados o convenios internacionales en materias de interés para La Rioja.
+Seis. El Gobierno de La Rioja ejecutará los tratados y convenios en todo lo que afecte a las materias atribuidas a su competencia. Ningún tratado o convenio podrá afectar a las atribuciones y competencias de la Comunidad Autónoma de La Rioja, salvo en los casos previstos en el artículo 93 de la Constitución.
+Siete. La Comunidad Autónoma de La Rioja será informada de la elaboración de tratados y convenios internacionales en lo que afecten a materias de su específico interés.
+Se modifica por el art. 1.12 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+ Se interpreta que el apartado 3 procede del anterior art. 15.
+
+## TÍTULO II
+
+Organización Institucional
+Se modifica por el art. 4 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### CAPITULO VI
+
+De los convenios con otras Comunidades Autónomas
+
+### Artículo 15
+
+Artículo 15.
+Uno. Los órganos institucionales de la Comunidad Autónoma de La Rioja son el Parlamento, el Gobierno y su Presidente.
+Dos. Las Leyes de la Comunidad Autónoma ordenarán su funcionamiento de acuerdo con la Constitución y el presente Estatuto.
+Tres. El Tribunal Superior de Justicia de La Rioja es el órgano jurisdiccional que, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, culmina la organización judicial en el territorio riojano.
+Se modifica por el art. 1.13 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+## CAPÍTULO I
+
+CAPITULO I
+Del Parlamento de La Rioja
+Se modifica por el art. 4 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### TITULO II
+
+De los órganos de la Comunidad Autónoma de La Rioja
+
+### Artículo 16
+
+Artículo 16.
+Uno. El Parlamento representa al pueblo de La Rioja, ejerce la potestad legislativa, aprueba los presupuestos y las cuentas de La Rioja, impulsa y controla la acción política y de Gobierno y ejerce las restantes competencias que le confiere la Constitución, este Estatuto y demás normas del ordenamiento jurídico.
+Dos. El Parlamento es inviolable.
+Se modifica por el art. 1.14 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### CAPITULO PRIMERO
+
+CAPITULO I
+De la Diputación General
+
+### Artículo 17
+
+Artículo 17.
+Uno. El Parlamento será elegido por sufragio universal, libre, igual, directo y secreto. Una Ley electoral del Parlamento de La Rioja, que requerirá la mayoría de dos tercios de sus miembros para su aprobación, regulará el proceso de elecciones, así como las causas de inelegibilidad e incompatibilidad de los Diputados, su cese y sustitución, asegurando la proporcionalidad del sistema.
+Dos. Dicha Ley fijará también el número de Diputados que constituirán el Parlamento, con un mínimo de 32 y un máximo de 40.
+Tres. La circunscripción electoral será la Comunidad Autónoma de La Rioja.
+Cuatro. El Parlamento será elegido por un plazo de cuatro años, sin perjuicio de los casos de disolución anticipada. El mandato de los Diputados termina cuatro años después de su elección o el día de la disolución de la Cámara.
+Cinco. La convocatoria de elecciones se realizará por el Presidente de la Comunidad Autónoma, pudiendo coincidir con las elecciones locales.
+Seis. El Presidente de la Comunidad Autónoma, previa deliberación del Gobierno y bajo su exclusiva responsabilidad, podrá acordar la disolución del Parlamento con anticipación al término natural de la legislatura.
+La disolución se acordará por Decreto, en el que se convocarán a su vez elecciones, conteniéndose en el mismo cuantos requisitos exija la legislación electoral aplicable.
+El Presidente no podrá acordar la disolución del Parlamento durante el primer período de sesiones de la legislatura, cuando reste menos de un año para su terminación ni cuando se encuentre en tramitación una moción de censura. Tampoco podrá acordar la disolución antes de que transcurra el plazo de un año desde la última disolución por este procedimiento. En ningún supuesto podrá el Presidente disolver el Parlamento cuando se encuentre convocado un proceso electoral estatal.
+En todo caso, la nueva Cámara que resulte de la convocatoria electoral tendrá un mandato limitado por el término natural de la legislatura originaria.
+Siete. Los miembros del Parlamento gozarán, aun después de haber cesado en su mandato, de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones. Durante su mandato no podrán ser detenidos ni retenidos por los actos delictivos cometidos en el territorio de La Rioja, sino en caso de flagrante delito, correspondiendo decidir, en todo caso, sobre su inculpación, prisión, procesamiento y juicio, al Tribunal Superior de Justicia de La Rioja. Fuera de dicho territorio la responsabilidad penal será exigible, en los mismos términos, ante la Sala de lo Penal del Tribunal Supremo.
+Ocho. Los Diputados no estarán sujetos a mandato imperativo.
+Se modifica por el art. 1.15 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 18
+
+Artículo 18.
+Uno. El Parlamento elegirá de entre sus miembros a un Presidente y a la Mesa.
+Dos. El Reglamento del Parlamento, que deberá ser aprobado por mayoría absoluta de sus miembros, regulará su composición, régimen y funcionamiento.
+Tres. El Parlamento fijará su propio presupuesto y el estatuto de su personal.
+Cuatro. El Parlamento funcionará en Pleno y en Comisiones.
+Cinco. Se reunirá anualmente en dos períodos ordinarios de sesiones: el primero, de septiembre a diciembre, y el segundo, de febrero a junio.
+A petición del Gobierno, de la Diputación Permanente o de la quinta parte de los miembros del Parlamento, éste podrá reunirse en sesión extraordinaria, que se clausurará al agotar el orden del día determinado para el que fue convocado.
+Seis. En los períodos en que el Parlamento no esté reunido o cuando hubiere expirado su mandato, habrá una Diputación Permanente, cuyo procedimiento de elección, composición y funciones determinará el Reglamento.
+Siete. Para la deliberación y adopción de acuerdos, el Parlamento deberá reunirse reglamentariamente y con asistencia de la mitad más uno de sus miembros. Los acuerdos se adoptarán por mayoría de los presentes si el Estatuto, las Leyes o el Reglamento no exigen otro tipo de mayoría más cualificada.
+Ocho. El voto es personal e indelegable.
+Se modifica por el art. 1.16 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 19
+
+Artículo 19.
+Uno. El Parlamento, de conformidad con la Constitución, el presente Estatuto y el resto del ordenamiento jurídico, ejerce las siguientes funciones:
+a) La potestad legislativa de la Comunidad Autónoma en el ámbito de su competencia.
+b) El desarrollo de la legislación del Estado en aquellas materias que así le corresponda.
+c) Elegir, de entre sus miembros, al Presidente de la Comunidad Autónoma.
+d) Aprobar los presupuestos de la Comunidad Autónoma y la rendición anual de cuentas, sin perjuicio del control que corresponda al Tribunal de Cuentas, con arreglo al apartado d) del artículo 153 de la Constitución.
+e) Impulsar y controlar la acción del Gobierno.
+f) Aprobar los planes de fomento de interés general de la Comunidad Autónoma.
+g) Aprobar la ordenación comarcal y la alteración de los términos municipales existentes en La Rioja, sus denominaciones y capitalidad, de conformidad con lo previsto en el artículo veintisiete.
+h) Autorizar las transferencias de competencias de la Comunidad Autónoma en favor de Entes Locales incluidos en su territorio.
+i) Ejercer la iniciativa legislativa y de reforma de la Constitución, según lo dispuesto en los artículos 87 y 166 de la misma.
+j) Interponer recursos ante el Tribunal Constitucional y personarse ante el mismo en las actuaciones en que así proceda.
+k) Establecer y exigir tributos, autorizar, mediante Ley, el recurso al crédito o la prestación de aval a corporaciones públicas, personas físicas o jurídicas.
+l) Designar para cada legislatura del Parlamento de La Rioja a los Senadores representantes de la Comunidad Autónoma, según lo previsto en el apartado 5 del artículo 69 de la Constitución, por el procedimiento determinado por el propio Parlamento. Los Senadores serán designados en proporción al número de miembros de los grupos políticos con representación en el Parlamento. Su mandato en el Senado estará vinculado a su condición de Diputados en el Parlamento Riojano.
+ll) Autorizar y aprobar los convenios a que se refiere el artículo catorce del presente Estatuto, de acuerdo con los procedimientos que en el mismo se establecen y supervisar su ejecución, por el procedimiento que el propio Parlamento determine.
+m) Colaborar con las Cortes Generales y con el Gobierno de la Nación en orden a lo dispuesto en el artículo 131 de la Constitución y en cuantos supuestos haya de suministrar datos aquél para la elaboración de proyectos de planificación.
+n) Ejercer, en general, cuantas competencias le sean atribuidas por la Constitución, por el presente Estatuto y por las Leyes del Estado y de La Rioja.
+Dos. El Parlamento de La Rioja tiene su sede en la ciudad de Logroño, pudiendo celebrar reuniones en otros lugares de La Rioja en la forma y supuestos que determine su propio Reglamento.
+Tres. El Parlamento de La Rioja podrá delegar su potestad legislativa en el Gobierno, en los términos del presente Estatuto y con iguales requisitos a los establecidos en los artículos 82, 83 y 84 de la Constitución.
+Se modifica por el art. 1.17 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 20
+
+Artículo 20.
+La iniciativa legislativa, en el ámbito reconocido en el presente capítulo a la Comunidad Autónoma, corresponde a los Diputados, al Gobierno y al pueblo riojano en los términos que establezca una Ley del Parlamento de La Rioja.
+Se modifica por el art. 1.18 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 21
+
+Artículo 21.
+Uno. Las Leyes serán promulgadas en nombre del Rey por el Presidente de la Comunidad Autónoma, que ordenará su publicación en un plazo máximo de quince días desde su aprobación en el "Boletín Oficial de La Rioja", así como en el "Boletín Oficial del Estado".
+Dos. Las Leyes y Reglamentos a que se refiere el párrafo anterior entrarán en vigor a los veinte días siguientes a su publicación en el "Boletín Oficial de La Rioja", salvo que la propia norma establezca otro plazo.
+Se modifica por el art. 1.19 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### CAPITULO II
+
+Del Presidente de la Comunidad Autónoma de La Rioja
+
+### Artículo 22
+
+Artículo 22.
+Sin perjuicio de la institución del Defensor del Pueblo prevista en el artículo 54 de la Constitución y de la coordinación con la misma, la Comunidad Autónoma podrá crear mediante ley una institución similar a la del citado artículo, como comisionado del Parlamento de La Rioja, designado por éste, para la defensa de los derechos y libertades comprendidos en el Título I de la Constitución, a cuyo efecto podrá supervisar la actividad de la Administración Autonómica, dando cuenta al Parlamento.
+Se modifica por el art. 1.20 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+## CAPÍTULO II
+
+CAPITULO II
+Del Presidente de la Comunidad Autónoma de La Rioja
+
+### CAPITULO III
+
+Del Consejo de Gobierno
+
+### Artículo 23
+
+Artículo 23.
+Uno. El Presidente dirige y coordina la actuación del Gobierno, designa y separa a los Consejeros y ostenta la más alta representación de la Comunidad Autónoma de La Rioja y la ordinaria del Estado en este territorio.
+Dos. El Presidente de la Comunidad Autónoma será elegido por el Parlamento de entre sus miembros y nombrado por el Rey. El Presidente del Parlamento, previa consulta con las fuerzas políticas representadas en el mismo, propondrá un candidato a Presidente de la Comunidad Autónoma de La Rioja. El candidato presentará su programa al Parlamento. Para ser elegido, el candidato deberá, en primera votación, obtener mayoría absoluta; de no obtenerla se procederá a una nueva votación pasadas cuarenta y ocho horas, y la confianza se entenderá otorgada si obtuviera mayoría simple. Caso de no conseguirse dicha mayoría se tramitarán sucesivas propuestas en la forma prevista anteriormente. Si transcurrido el plazo de dos meses a partir de la primera votación de investidura ningún candidato hubiere obtenido la confianza del Parlamento, éste quedará automáticamente disuelto, procediéndose dentro de los sesenta días siguientes a la celebración de nuevas elecciones para el mismo. El mandato del nuevo Parlamento durará, en todo caso, hasta la fecha en que debiera concluir el del primero.
+Tres. El Presidente cesa por dimisión, fallecimiento, incapacidad, disolución del Parlamento, pérdida de la confianza otorgada o censura del Parlamento.
+Cuatro. Una Ley de la Comunidad Autónoma regulará el estatuto personal del Presidente, sus atribuciones y responsabilidad política.
+Se modifica por el art. 1.21 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+## CAPÍTULO III
+
+CAPITULO III
+Del Gobierno
+Se modifica por el art. 4 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 24
+
+Artículo 24.
+Uno. El Gobierno, como órgano colegiado, ejerce las funciones ejecutivas y la administración de la Comunidad Autónoma, correspondiéndole en particular:
+a) El ejercicio de la potestad reglamentaria no reservada por este Estatuto al Parlamento.
+b) Interponer recursos ante el Tribunal Constitucional y personarse en las actuaciones en que así proceda.
+c) Ejecutar en general, cuantas funciones se deriven del ordenamiento jurídico estatal y regional.
+Dos. El Gobierno se compone del Presidente de la Comunidad Autónoma, el Vicepresidente o Vicepresidentes, en su caso, y los Consejeros. Tanto los Vicepresidentes como los Consejeros, que no requerirán la condición de Diputados Regionales, serán nombrados y cesados por el Presidente, quien también determinará su número.
+Tres. Una Ley de la Comunidad Autónoma regulará el estatuto personal de los miembros del Gobierno y sus relaciones con los demás órganos de la Comunidad Autónoma, dentro de las normas del presente Estatuto y de la Constitución.
+Cuatro.
+1. El Presidente y los demás miembros del Gobierno durante su mandato y por los actos delictivos cometidos en el territorio de la Comunidad Autónoma, no podrán ser detenidos ni retenidos, sino en supuesto de flagrante delito, correspondiendo decidir, en todo caso, sobre su inculpación, prisión, procesamiento y juicio al Tribunal Superior de Justicia de La Rioja.
+2. Fuera del ámbito territorial de la Comunidad Autónoma, la responsabilidad penal será exigible en los mismos términos ante la Sala de lo Penal del Tribunal Supremo.
+Cinco. El Gobierno, por conducto de su Presidente, podrá plantear conflictos de jurisdicción a los jueces y tribunales conforme a las leyes reguladoras de aquéllas.
+Seis. El Presidente de la Comunidad Autónoma, previa deliberación del Gobierno reunido en consejo, puede plantear ante el Parlamento la cuestión de confianza sobre su programa o sobre su política general; la confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.
+Si el Parlamento negara la confianza, el Presidente de la Comunidad Autónoma presentará su dimisión ante el Parlamento, cuyo Presidente convocará, en el plazo máximo de quince días, la sesión plenaria para la elección del nuevo Presidente de la Comunidad Autónoma.
+Siete. El Parlamento puede exigir la responsabilidad política del Gobierno y de su Presidente mediante la adopción, por mayoría absoluta de sus miembros, de una moción de censura.
+La moción de censura deberá ser propuesta, al menos, por el 15 por 100 de los Diputados; habrá de incluir un candidato a la Presidencia de la Comunidad Autónoma; no podrá ser votada hasta que transcurran cinco días desde su presentación, pudiendo, en este plazo, presentarse mociones alternativas, y, si no fuere aprobada por el Parlamento, ninguno de los signatarios podrá presentar otra en el plazo de seis meses.
+Se modifica por el art. 1.22 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### TITULO III
+
+De la administración y régimen jurídico
+
+### Artículo 25
+
+Artículo 25.
+Uno. El Gobierno responde políticamente ante el Parlamento de forma solidaria, sin perjuicio de la responsabilidad directa de cada uno de sus miembros, por su propia gestión.
+Dos. El Gobierno cesará en los mismos casos que su Presidente. No obstante, aquél continuará en funciones hasta la toma de posesión del nuevo Gobierno.
+Se modifica por el art. 1.23 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+## TÍTULO III
+
+De la Administración y Régimen Jurídico
+
+## CAPÍTULO I
+
+CAPITULO I
+De la Administración Pública
+Se añade por el art. 4 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 26
+
+Artículo 26.
+Uno. Corresponde a la Comunidad Autónoma la creación y estructuración de su propia Administración pública dentro de los principios generales y normas básicas del Estado.
+Dos. Todos los órganos encargados de la prestación de servicios o de la gestión de competencias y atribuciones de la Comunidad Autónoma dependen de ésta y se integran en su Administración.
+Se modifica por el art. 1.24 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 27
+
+Artículo 27.
+En los términos previstos en los artículos quinto y octavo, tres, del presente Estatuto; se regulará por Ley de la Comunidad Autónoma de La Rioja:
+Uno. El reconocimiento y delimitación de las comarcas.
+Dos. La creación de agrupaciones de municipios con fines específicos.
+Tres. Podrán crearse áreas metropolitanas para la coordinación y gestión de los servicios públicos.
+Se modifica por el art. 1.25 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 28
+
+Artículo 28.
+Los Reglamentos y demás disposiciones y actos de eficacia general emanados del Gobierno y de la Administración de la Comunidad Autónoma serán, en todo caso, publicados en el "Boletín Oficial de La Rioja".
+Esta publicación será suficiente, a todos los efectos, para la validez de los actos y la entrada en vigor de las disposiciones y normas. En relación con la publicación en otros boletines oficiales, se estará a lo que disponga la correspondiente norma.
+Se modifica por el art. 1.26 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 29
+
+Artículo 29.
+La responsabilidad de la Administración de la Comunidad Autónoma de La Rioja y de sus autoridades y funcionarios se exigirá en los mismos términos y casos que establezca la legislación del Estado en la materia.
+Se modifica por el art. 1.27 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 30
+
+Artículo 30.
+Uno. Las Leyes de la Comunidad Autónoma solamente están sometidas al control de constitucionalidad que ejerce el Tribunal Constitucional.
+Dos. El Gobierno, previo dictamen del Consejo de Estado, controlará la actividad de los órganos de la Comunidad Autónoma relativa al ejercicio de funciones delegadas conforme al artículo ciento cincuenta y tres, b), de la Constitución.
+Tres. Las normas reglamentarias y los actos y acuerdos emanados de los órganos ejecutivos y administrativos de la Comunidad Autónoma serán recurribles ante la jurisdicción contencioso-administrativa.
+Cuatro. Respecto de la revisión de los actos en vía administrativa se estará a lo dispuesto en las correspondientes Leyes del Estado.
+Se modifica por el art. 3 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+ Su anterior numeración era art. 29.
+
+### Artículo 31
+
+Artículo 31.
+Uno. En el ejercicio de sus competencias, la Administración de la Comunidad Autónoma de La Rioja gozará de las potestades y prerrogativas propias de la Administración del Estado, entre las que se encuentran:
+a) Presunción de legitimidad y carácter ejecutivo de sus actos, así como las facultades de ejecución forzosa y revisión.
+b) Potestad expropiatoria y de investigación, deslinde y recuperación de oficio en materia de bienes.
+c) Potestad de sanción dentro de los límites que establezca la Ley y las disposiciones que la desarrollen.
+d) Facultad de utilizar el procedimiento de apremio.
+e) Inembargabilidad de sus bienes y derechos; prelaciones y preferencias y demás prerrogativas reconocidas a la Hacienda Pública en materia de créditos a su favor.
+Dos. Estos derechos y preferencias se entenderán sin perjuicio de los que correspondan a la Hacienda del Estado, según su propia legislación.
+Tres. La Administración de la Comunidad Autónoma de La Rioja estará exceptuada de la obligación de prestar toda clase de cauciones o garantías ante los Tribunales de cualquier jurisdicción u organismo administrativo.
+Cuatro. No se admitirán interdictos contra las actuaciones de la Administración de la Comunidad Autónoma de La Rioja en materia de su competencia y de acuerdo con el procedimiento legalmente establecido.
+Cinco. En el ejercicio de la competencia prevista en el número 1 del apartado uno del artículo octavo del presente Estatuto y, de acuerdo con la legislación del Estado, corresponde a la Comunidad Autónoma, entre otras materias, el establecimiento del régimen estatutario de sus funcionarios, el régimen jurídico administrativo derivado de las competencias asumidas, la regulación de los bienes de dominio público y patrimoniales cuya titularidad corresponde a la Comunidad Autónoma, así como de las servidumbres públicas en materia de su competencia, y la regulación de los contratos y concesiones administrativas en el ámbito de la Comunidad.
+Se modifica por el art. 1.28 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### TITULO IV
+
+De la financiación de la Comunidad
+
+### CAPITULO PRIMERO
+
+CAPITULO I
+De la Hacienda
+
+### Artículo 32
+
+Artículo 32.
+El control económico y presupuestario de la Comunidad Autónoma se ejercerá por el Tribunal de Cuentas conforme a lo dispuesto en los artículos 136 y 153.d) de la Constitución.
+Se modifica por el art. 1.29 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 33
+
+Artículo 33.
+Uno. La Administración de la Comunidad Autónoma y las Administraciones Locales ajustarán sus relaciones a los principios de información mutua, colaboración, coordinación y respeto a los ámbitos competenciales correspondientes determinados en el presente Estatuto y en la legislación básica del Estado.
+Dos. El Parlamento de La Rioja, en el marco de la legislación básica del Estado y mediante Ley, podrá regular aquellas materias relativas a la Administración Local que el presente Estatuto reconoce como de la competencia de la Comunidad Autónoma.
+Tres. La Comunidad Autónoma podrá transferir o delegar en las corporaciones locales, mediante Ley aprobada por mayoría absoluta, facultades correspondientes a materias de su competencia. Esta Ley preverá en cada caso la correspondiente transferencia de medios, así como la forma de dirección y control que se reserve la Comunidad.
+Se modifica por el art. 1.30 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+## CAPÍTULO II
+
+CAPITULO II
+De la Administración de Justicia
+Se añade por el art. 4 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 34
+
+Artículo 34.
+En relación con la Administración de Justicia, exceptuada la militar, corresponde a la Comunidad Autónoma de La Rioja:
+1. Ejercer todas las facultades que las Leyes Orgánicas del Poder Judicial reconozcan o atribuyan al Gobierno del Estado.
+2. Fijar las demarcaciones territoriales de los órganos jurisdiccionales, y la localización de su capitalidad, de acuerdo con la Ley Orgánica del Poder Judicial.
+Se modifica por el art. 1.31 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 35
+
+Artículo 35.
+Uno. El Tribunal Superior de Justicia de La Rioja, que tendrá su sede en Logroño, es el órgano jurisdiccional de la Comunidad Autónoma en el que se agotarán las sucesivas instancias procesales en los términos del artículo 152 de la Constitución y de acuerdo con la Ley Orgánica del Poder Judicial y con el presente Estatuto.
+Dos. El Presidente del Tribunal Superior de Justicia de La Rioja será nombrado por el Rey a propuesta del Consejo General del Poder Judicial.
+Tres. El Presidente de la Comunidad Autónoma ordenará la publicación del nombramiento en el "Boletín Oficial de La Rioja".
+Se modifica por el art. 1.32 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 36
+
+Artículo 36.
+Uno. La competencia de los órganos jurisdiccionales de la Comunidad Autónoma se extiende:
+a) En el orden civil, a todas las instancias y grados, a excepción de los recursos de casación y revisión regulados en la Ley de Enjuiciamiento Civil.
+b) En el orden penal y social, a todas las instancias y grados, a excepción de los recursos de casación y revisión.
+c) En el orden contencioso-administrativo a todas las instancias y grados cuando se trate de actos o reglamentos emanados del Gobierno y de la Administración de la Comunidad Autónoma en materias cuya legislación corresponde en exclusiva al Parlamento de La Rioja y, en primera instancia, cuando se trate de actos dictados por la Administración del Estado de La Rioja.
+d) A las cuestiones de competencia entre órganos judiciales en la Comunidad Autónoma.
+Dos. En las restantes materias se podrá interponer, ante el Tribunal Supremo, el recurso de casación, el de revisión o el que corresponda, según las Leyes del Estado.
+El Tribunal Supremo resolverá también los conflictos de competencia y jurisdicción entre los tribunales de la Comunidad Autónoma y los del resto del Estado.
+Se modifica por el art. 1.33 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 37
+
+Artículo 37.
+A instancia del Gobierno de la Comunidad Autónoma, el órgano estatal competente convocará los concursos y oposiciones para cubrir las plazas vacantes en la Comunidad Autónoma de Magistrados, Jueces, Secretarios Judiciales y restante personal al servicio de la Administración de Justicia de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial.
+Se modifica por el art. 1.34 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 38
+
+Artículo 38.
+Uno. Los Notarios y los Registradores de la Propiedad y Mercantiles serán nombrados por el Gobierno de la Comunidad Autónoma de conformidad con las Leyes del Estado.
+Dos. La Comunidad Autónoma de La Rioja participará en la fijación de las demarcaciones correspondientes a los Registros de la Propiedad y Mercantiles. También participará en la fijación de las demarcaciones notariales y del número de Notarios de acuerdo con lo previsto en las Leyes del Estado.
+Se modifica por el art. 1.35 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### CAPITULO II
+
+Presupuestos
+
+### Artículo 39
+
+Artículo 39.
+Corresponde al Gobierno de la Comunidad Autónoma:
+1. Ejercer en su territorio todas las facultades que las Leyes reguladoras del Poder Judicial reconozcan o atribuyan al Gobierno de la Nación.
+2. Proponer al Parlamento de La Rioja la delimitación de las demarcaciones territoriales de los órganos jurisdiccionales en la misma, de acuerdo con la Ley Orgánica del Poder Judicial y teniendo en cuenta los límites de los actuales partidos judiciales y las características geográficas, históricas y de población.
+Se modifica por el art. 1.36 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### CAPÍTULO III
+
+CAPITULO III
+Deuda pública, crédito y política financiera
+
+### Artículo 40
+
+Artículo 40.
+En todo caso, corresponde al Tribunal Superior de Justicia de La Rioja:
+1. Conocer de las responsabilidades que se indican en los artículos diecisiete, apartado siete, y veinticuatro, apartado cuatro, de este Estatuto.
+2. Entender de los recursos relacionados con los procesos electorales de la Comunidad Autónoma.
+3. Resolver, en su caso, los conflictos de atribuciones entre Corporaciones Locales.
+Se modifica por el art. 1.37 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 41
+
+Artículo 41.
+En la Comunidad Autónoma se propiciará la participación de los ciudadanos en la Administración de Justicia en las formas que la legislación estatal prevea.
+Se modifica por el art. 1.38 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### TITULO V
+
+De la reforma del Estatuto
+
+### Artículo 42
+
+Artículo 42.
+El Consejo Consultivo de La Rioja es el órgano consultivo superior de la Comunidad Autónoma de La Rioja. Su composición y funciones se regularán por Ley, la cual garantizará su imparcialidad e independencia.
+Se modifica por el art. 1.39 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+## TÍTULO IV
+
+De la financiación de la Comunidad
+
+## CAPÍTULO I
+
+CAPITULO I
+Economía y Hacienda
+Se modifica por el art. 4 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 43
+
+Artículo 43.
+La Comunidad Autónoma de La Rioja contará para el desempeño de sus competencias y funciones con hacienda, dominio público y patrimonio propio. Ejercerá la autonomía financiera de acuerdo con la Constitución, el presente Estatuto, la Ley Orgánica de Financiación de las Comunidades Autónomas.
+Se modifica por el art. 1.40 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 44
+
+Artículo 44.
+Uno. El patrimonio de la Comunidad Autónoma estará integrado por:
+a) Los bienes y derechos pertenecientes a la Diputación Provincial de La Rioja en el momento de constituirse la Comunidad Autónoma.
+b) Los bienes y derechos afectados a los servicios que se traspasen a la Comunidad Autónoma.
+c) Los bienes y derechos que adquiera por cualquier título jurídico.
+Dos. La Comunidad Autónoma tiene capacidad para adquirir, poseer, administrar y enajenar los bienes que integran su patrimonio.
+Tres. Una Ley del Parlamento de La Rioja regulará el régimen jurídico, así como la administración, defensa y conservación del Patrimonio de la Comunidad Autónoma.
+Se modifica por el art. 1.41 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 45
+
+Artículo 45.
+Los recursos de la Comunidad Autónoma estarán constituidos por:
+a) Los ingresos procedentes de su patrimonio, legados, donaciones y demás de Derecho privado.
+b) Los ingresos procedentes de la recaudación tributaria.
+Los rendimientos de las tasas, contribuciones especiales e impuestos propios de la Comunidad que el Parlamento de La Rioja pueda establecer, de acuerdo con el artículo 157 de la Constitución.
+c) Los rendimientos de los tributos cedidos total o parcialmente por el Estado y que se especifican en la disposición adicional primera, así como aquellos cuya cesión sea aprobada por las Cortes Generales.
+d) Los recargos que pudieran establecerse sobre los impuestos del Estado.
+e) Las participaciones en los ingresos del Estado.
+f) El producto de operaciones de crédito y emisión de deuda.
+g) El producto de multas y sanciones en el ámbito de su competencia.
+h) Asignaciones con cargo a los Presupuestos Generales del Estado.
+i) La participación en el Fondo de Compensación Interterritorial y en otros Fondos.
+j) Cuantos otros recursos se le atribuyan de acuerdo con las Leyes.
+Se añade por el art. 1.42 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 46
+
+Artículo 46.
+A los efectos de concretar los ingresos de la Comunidad Autónoma de La Rioja, y de forma especial, la participación territorializada de La Rioja en los tributos generales que se determinen y las condiciones para la aprobación de recargos sobre tributos del sistema fiscal general, en el marco de lo dispuesto en el artículo 157.3 de la Constitución y en la legislación que lo desarrolle, la Administración General del Estado y la Comunidad Autónoma de La Rioja suscribirán un acuerdo bilateral que se formalizará en Comisión Mixta, que podrá ser revisado periódicamente de forma conjunta, el cual deberá tener en cuenta el esfuerzo fiscal de La Rioja y que atenderá singularmente los criterios de corresponsabilidad fiscal y solidaridad interterritorial, así como la corrección de los desequilibrios producidos en La Rioja por los efectos derivados de su situación limítrofe con otros territorios.
+Se añade por el art. 1.43 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 47
+
+Artículo 47.
+Uno. Sin perjuicio de lo dispuesto en el artículo anterior, la participación anual de la Comunidad Autónoma de La Rioja en los ingresos del Estado a que se refiere el apartado e) del artículo cuarenta y cuatro del presente Estatuto, se negociará atendiendo a los criterios que fije la legislación de desarrollo del artículo 157 de la Constitución y cualesquiera otros que permitan garantizar, con suficiencia y solidaridad, el ejercicio de las competencias de la Comunidad Autónoma.
+Dos. El porcentaje de participación únicamente podrá ser objeto de revisión en los siguientes supuestos:
+a) Cuando se amplíen o reduzcan las competencias asumidas por la Comunidad Autónoma entre las que anteriormente correspondiesen al Estado.
+b) Cuando se produzca la cesión de nuevos tributos.
+c) Cuando se reforme sustancialmente el sistema tributario del Estado.
+d) Cuando, transcurridos cinco años desde su entrada en vigor, sea solicitada su revisión por el Estado o la Comunidad Autónoma.
+Se añade por el art. 1.44 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 48
+
+Artículo 48.
+Uno. La Comunidad Autónoma regulara por sus órganos competentes, según lo establecido en el presente Estatuto y normas que lo desarrollen, las siguientes materias:
+a) La elaboración, examen, aprobación y control de sus presupuestos.
+b) El establecimiento, modificación y supresión de sus propios impuestos, tasas y contribuciones especiales, así como de los elementos directamente determinantes de la deuda tributaria, inclusive exenciones y bonificaciones que les afecten.
+c) El establecimiento, modificación y supresión de los recargos sobre impuestos estatales.
+d) La emisión de deuda pública y las operaciones de crédito, de acuerdo con lo establecido en el artículo catorce de la Ley Orgánica de Financiación de las Comunidades Autónomas.
+e) El régimen jurídico de su patrimonio en el marco de la legislación básica del Estado.
+f) Los reglamentos generales de sus propios impuestos.
+g) Las normas reglamentarias precisas para gestionar los impuestos estatales cedidos de acuerdo con las especificaciones de dicha cesión.
+h) Las demás funciones y competencias que le atribuyan las Leyes.
+Dos. Deberán adoptar necesariamente la forma de ley las cuestiones referidas en los apartados b), c), d) y e) y aquellas otras que así lo requiera el ordenamiento jurídico.
+Se añade por el art. 3 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+ Su anterior numeración era art. 35.
+
+### Artículo 49
+
+Artículo 49.
+Uno. La gestión, liquidación, recaudación e inspección de los tributos propios corresponderá a la Comunidad Autónoma, la cual dispondrá de plenas atribuciones para la organización y ejecución de dichas tareas, sin perjuicio de la colaboración que pueda establecerse con la Administración Tributaria del Estado, especialmente cuando así lo exija la naturaleza del tributo.
+Dos. En caso de impuestos cedidos, la Comunidad Autónoma asumirá, por delegación del Estado, la gestión, liquidación, recaudación, inspección y, en su caso, revisión de los mismos, sin perjuicio de la colaboración que pueda establecerse entre ambas Administraciones, todo ello de acuerdo con la Ley que fije el alcance y condiciones de la cesión.
+Tres. La gestión, recaudación, liquidación, inspección y revisión, en su caso, de los demás impuestos del Estado recaudados en la Comunidad Autónoma de La Rioja, corresponderá a la Administración Tributaria del Estado, sin perjuicio de la delegación que aquella pueda recibir de ésta y de la colaboración que pueda establecerse, especialmente cuando así lo exija la naturaleza del tributo.
+Se añade por el art. 3 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+ Su anterior numeración era art. 36.
+
+### Artículo 50
+
+Artículo 50.
+La Comunidad Autónoma podrá crear su propio Tribunal Económico-Administrativo, mediante Ley que regulará su composición, régimen y funcionamiento.
+Se añade por el art. 1.45 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 51
+
+Artículo 51.
+Uno. El conocimiento de las distintas reclamaciones interpuestas contra los actos dictados por las respectivas Administraciones en materia tributaria, tanto si en ellas se suscitan cuestiones de hecho como de derecho, corresponderá:
+a) Cuando se trate de tributos propios de la Comunidad Autónoma de La Rioja, a su propio Tribunal Económico-Administrativo.
+b) Cuando se trate de tributos cedidos o de recargos establecidos sobre tributos del Estado, a los órganos económico-administrativos de éste.
+Dos. Las resoluciones de los órganos económico-administrativos, tanto del Estado como de la Comunidad Autónoma de La Rioja, podrán ser, en todo caso, objeto de recurso contencioso-administrativo en los términos establecidos en la normativa reguladora de esta jurisdicción.
+Se añade por el art. 1.46 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 52
+
+Artículo 52.
+La Comunidad Autónoma gozara del tratamiento fiscal que la Ley establezca para el Estado.
+Se añade por el art. 3 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+ Su anterior numeración era art. 38.
+
+### Artículo 53
+
+Artículo 53.
+Uno. Corresponde a la Comunidad Autónoma la tutela financiera respecto a los Entes Locales, conforme a lo dispuesto en el artículo noveno, apartado nueve, del presente Estatuto, respetando en todo caso, la autonomía reconocida a los mismos en los artículos 140 y 142 de la Constitución.
+Dos. La Comunidad Autónoma de La Rioja colaborará con los entes locales en la gestión, liquidación, recaudación e inspección de los tributos que tienen atribuidos, respetando su autonomía financiera y de conformidad con lo establecido en la legislación básica y en la del Parlamento de La Rioja.
+Tres. Los ingresos de los Entes Locales consistentes en participaciones en ingresos estatales y en subvenciones incondicionadas se percibirán a través de la Comunidad Autónoma, que los distribuirá de acuerdo con los criterios legales establecidos para dichas participaciones.
+Se añade por el art. 1.47 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 54
+
+Artículo 54.
+Uno. La Comunidad Autónoma de La Rioja, de acuerdo con lo que establezcan las Leyes del Estado, designará sus propios representantes en los organismos económicos, las instituciones financieras y de ahorro y las empresas públicas del Estado cuya competencia se extienda al territorio de La Rioja.
+Dos. La Comunidad Autónoma de La Rioja podrá constituir empresas públicas y mixtas como medio de ejecución de las funciones que sean de su competencia, según lo establecido en el presente Estatuto.
+Tres. La Comunidad Autónoma de La Rioja, como poder público, podrá hacer uso de las facultades previstas en el apartado 1 del artículo 130 de la Constitución. Asimismo, de acuerdo con la legislación del Estado en la materia, podrá hacer uso de las facultades previstas en el apartado dos del artículo 129 de la Constitución y, en especial, fomentará, mediante acciones adecuadas, las sociedades cooperativas.
+Cuatro. La Comunidad Autónoma de La Rioja queda facultada para constituir o participar en instituciones que fomenten la ocupación y el desarrollo económico y social, en el marco de sus competencias.
+Cinco. La Comunidad Autónoma de La Rioja, dentro de las normas generales del Estado, podrá adoptar medidas que posibiliten la captación y afirmación del ahorro regional.
+Se añade por el art. 1.48 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Artículo 55
+
+Artículo 55.
+Uno. Corresponde al Parlamento la potestad de establecer los impuestos, tasas, contribuciones especiales y exacciones no fiscales, así como la fijación de recargos.
+Dos. La potestad tributaria se ejercerá con arreglo a los principios constitucionales de igualdad, capacidad contributiva y progresividad.
+Se añade por el art. 1.49 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+## CAPITULO II
+
+Presupuestos
+
+### Artículo 56
+
+Artículo 56.
+Uno. Corresponde al Gobierno la elaboración y aplicación del presupuesto de la Comunidad Autónoma y al Parlamento su examen, enmienda, aprobación y control.
+Dos. El Gobierno presentará el proyecto de presupuesto al Parlamento antes del último trimestre del año.
+Tres. El Presupuesto tendrá carácter anual, incluirá la totalidad de los gastos e ingresos de los organismos y entidades integrantes de la Comunidad Autónoma, y en él se consignará el importe de los beneficios fiscales que afecten a tributos atribuidos a la Comunidad Autónoma.
+Cuatro. Si el presupuesto no se aprobara antes del primer día del ejercicio fiscal correspondiente, se considerará prorrogado el del ejercicio anterior hasta la aprobación del nuevo.
+Cinco. El presupuesto tendrá carácter de Ley y en él no se podrán crear nuevos tributos. Podrá, sin embargo, modificar los existentes cuando una Ley Tributaria sustantiva así lo prevea.
+Se añade por el art. 1.50 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+## CAPITULO III
+
+Deuda pública, crédito y política financiera
+
+### Artículo 57
+
+Artículo 57.
+Uno. La Comunidad Autónoma de La Rioja podrá realizar operaciones de crédito por plazo inferior a un año, con objeto de cubrir sus necesidades de tesorería.
+Dos. La Comunidad Autónoma de La Rioja podrá concertar operaciones de crédito por plazo superior a un año, operaciones de crédito exterior, crédito público o emisión de deuda en las condiciones establecidas por la Ley Orgánica de Financiación de las Comunidades Autónomas.
+Tres. La deuda pública de la Comunidad Autónoma de La Rioja y los títulos-valores de carácter equivalente estarán sujetos a lo dispuesto en la Ley Orgánica de Financiación de las Comunidades Autónomas y, en su defecto, a las mismas normas que regulen la deuda pública del Estado, gozando de iguales beneficios y condiciones que esta.
+Se añade por el art. 3 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+ Su anterior numeración era art. 40.
+
+## TÍTULO V
+
+De la reforma del Estatuto
+
+### Artículo 58
+
+Artículo 58.
+La reforma del Estatuto se ajustará al siguiente procedimiento:
+Uno. Su iniciativa corresponderá al Gobierno de La Rioja, al Parlamento a propuesta de un tercio de sus miembros, a dos tercios de municipios, cuya población represente al menos la mayoría del censo electoral, y a las Cortes Generales.
+Dos. La propuesta de reforma requerirá, en todo caso, la aprobación del Parlamento de La Rioja por mayoría de dos tercios de sus miembros y la aprobación de las Cortes Generales mediante Ley Orgánica.
+Tres. Si la propuesta de reforma no es aprobada por el Parlamento de La Rioja o por las Cortes Generales, no podrá ser sometida nuevamente a debate o votación del Parlamento hasta que haya transcurrido un año, a contar desde la fecha de la iniciativa.
+Se añade por el art. 1.51 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Disposición adicional primera
+
+Disposición adicional primera. De la cesión de rendimiento de tributos.
+Uno. Se cede a la Comunidad Autónoma de La Rioja el rendimiento de los siguientes tributos:
+a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial, en el porcentaje del 50 por ciento.
+b) Impuesto sobre el Patrimonio.
+c) Impuesto sobre Sucesiones y Donaciones.
+d) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+e) Los Tributos sobre el Juego.
+f) El Impuesto sobre el Valor Añadido, con carácter parcial, en el porcentaje del 50 por ciento.
+g) El Impuesto Especial sobre la Cerveza, con carácter parcial, en el porcentaje del 58 por ciento.
+h) El Impuesto Especial sobre el Vino y Bebidas Fermentadas, con carácter parcial, en el porcentaje del 58 por ciento.
+i) El Impuesto Especial sobre Productos Intermedios, con carácter parcial, en el porcentaje del 58 por ciento.
+j) El Impuesto Especial sobre el Alcohol y Bebidas Derivadas, con carácter parcial, en el porcentaje del 58 por ciento.
+k) El Impuesto Especial sobre Hidrocarburos, con carácter parcial, en el porcentaje del 58 por ciento.
+l) El Impuesto Especial sobre las Labores del Tabaco, con carácter parcial, en el porcentaje del 58 por ciento.
+m) El Impuesto Especial sobre la Electricidad.
+n) El Impuesto Especial sobre Determinados Medios de Transporte.
+ñ) El Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
+La eventual supresión o modificación por el Estado de alguno de los tributos antes señalados implicará la extinción o modificación de la cesión.
+Dos. El contenido de esta disposición se podrá modificar mediante acuerdo del Gobierno con la Comunidad Autónoma, que será tramitado como proyecto de ley ordinaria. A estos efectos, la modificación de la presente disposición no se entenderá como modificación del Estatuto.
+Tres. El alcance y condiciones de la cesión se establecerán por la Comisión Mixta, que, en todo caso, los referirá a rendimientos en La Rioja. El Gobierno tramitara el acuerdo como Ley en el plazo de seis meses, a partir de la constitución del primer Consejo de Gobierno de La Rioja.
+Se modifica el apartado 1 por el art. 1 de la Ley 21/2010, de 16 de julio. Ref. BOE-A-2010-11415
+ Esta modificación tiene efectos desde el 1 de enero de 2009, según establece la disposición final única.
+ Se modifica el apartado 1 por el art. 1 de la Ley 22/2002, de 1 de julio. Ref. BOE-A-2002-13001
+ Esta modificación tiene efectos desde el 1 de enero de 2002, según establece la disposición final única.
+ Se modifica el apartado 1 por el art. 1 de la Ley 35/1997, de 4 de agosto. Ref. BOE-A-1997-17585
+ Esta modificación tiene efectos desde el 1 de enero de 1997, según establece la disposición final única.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. De los enclaves territoriales.
+Podrán agregarse a la Comunidad Autónoma de La Rioja aquellos territorios que estuvieren enclavados en su totalidad dentro de la misma, mediante el cumplimiento de los requisitos que la Ley del Estado establezca.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+La celebración de elecciones atenderá a lo que dispongan las Cortes Generales, con el fin exclusivo de coordinar el calendario de las diversas consultas electorales.
+Se añade por el art. 1.52 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Uno. Sin perjuicio de lo establecido en el artículo noveno, apartado seis, del presente Estatuto, el Estado otorgará en régimen de concesión a la Comunidad Autónoma la utilización de un tercer canal de televisión, de titularidad pública, que debe crearse específicamente para su emisión en el territorio de La Rioja, en los términos que prevea la citada concesión.
+Hasta la puesta en funcionamiento efectivo de este nuevo canal de televisión o del previsto en el artículo noveno, apartado seis, de este Estatuto, Radiotelevisión Española (RTVE) mantendrá en La Rioja, dentro de su organización, un Centro Territorial a través del cual emitirá, en régimen transitorio, una programación específica para la Comunidad Autónoma, garantizando la cobertura de todo el territorio.
+Dos. El coste de la programación específica a que se refiere el apartado anterior, se entenderá como base para determinación de la subvención que deberá concederse a la Comunidad Autónoma durante los dos primeros años de funcionamiento del nuevo canal a que se refiere el párrafo primero.
+Se añade por el art. 1.54 de la Ley Orgánica 2/1999, de 7 de enero. Ref. BOE-A-1999-339
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. De las competencias de la Diputación Provincial.
+De acuerdo con lo establecido en el artículo catorce del presente Estatuto, y a partir de la fecha de su entrada en vigor, las competencias actuales de la Diputación Provincial de La Rioja o las que en el futuro puedan ser atribuidas a las Diputaciones Provinciales, serán asumidas por la Comunidad Autónoma de La Rioja, a través de sus órganos competentes, una vez constituidos estos. Ello implicara el traspaso de sus bienes, derechos y obligaciones, cuyas inscripciones se harán de oficio.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. De la Diputación Provisional.
+Uno. En tanto no se celebren las primeras elecciones a la Diputación General de La Rioja, se constituirá una Diputación Provisional compuesta por los Diputados al Congreso, los Senadores y los Diputados provinciales de la actual Provincia de La Rioja.
+Dos. Dentro de los treinta días siguientes a la entrada en vigor de este Estatuto se procederá a la constitución de la Diputación Provisional de La Rioja, con la composición prevista en el número anterior mediante convocatoria a sus miembros efectuada por el Presidente de la Diputación Provincial. En esta primera sesión constitutiva de la Diputación Provisional se procederá a la elección de la Mesa de la misma, constituida por el Presidente, dos Vicepresidentes y dos Secretarios. La elección se efectuará en los términos previstos en la disposición transitoria sexta, apartado segundo.
+Tres. La Diputación Provisional asumirá las siguientes competencias:
+a) Todas las que este Estatuto atribuye a la Diputación General de La Rioja, excepto el ejercicio de la potestad legislativa.
+b) Elaborar y aprobar las normas de su Reglamento interior y organizar sus servicios.
+c) Las que se deriven del traspaso de competencias de la Administración del Estado.
+Cuatro. En caso de disolución anticipada de las Cortes Generales, los Diputados y Senadores elegidos en la provincia de La Rioja se entenderán prorrogados como miembros de la Diputación Provisional hasta la proclamación de los nuevos Diputados y Senadores que resulten elegidos.
+En el caso de vacantes que afecten a los Diputados provinciales, la sustitución se efectuará de acuerdo con la legislación sobre elecciones locales.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Del Presidente provisional de la Comunidad Autónoma de La Rioja.
+El Presidente de la Diputación Provincial de La Rioja asumirá, las funciones de Presidente de la Comunidad Autónoma hasta la elección del mismo, que se realizará en la misma forma que se dispone en los apartados uno y dos de la disposición transitoria séptima, sin que sea de aplicación el apartado tres.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Del Consejo de Gobierno Provisional.
+Uno. El Presidente de la Comunidad Autónoma nombrará los miembros del Consejo de Gobierno. Su composición y atribuciones se acomodarán a las competencias que haya de ejercer la Comunidad Autónoma en este período transitorio. Su número no podrá exceder de diez miembros.
+Dos. Corresponden a este Consejo de Gobierno las siguientes competencias:
+a) Las que le atribuye el presente Estatuto, que se deriven del traspaso de competencias de la Administración del Estado.
+b) Las que actualmente correspondan a la Diputación Provincial.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. De las primeras elecciones.
+La primera elección para la Diputación General de La Rioja se verificará de acuerdo con las siguientes normas:
+Primera. Tendrá lugar entre el uno de febrero y el treinta y uno de mayo de mil novecientos ochenta y tres.
+Segunda. Esta Diputación General se compondrá de treinta y cinco Diputados, elegidos por sufragio universal, libre, igual, directo y secreto, siendo electores los mayores de edad incluidos en los censos electorales de los municipios de La Rioja y que se hallen en uso de sus derechos civiles y políticos.
+Tercera. La circunscripción electoral es la Comunidad Autónoma.
+Cuarta. Los candidatos se propondrán por los partidos políticos y por quienes tengan reconocido ese derecho, en listas cerradas que contengan, como mínimo, treinta y cinco nombres, pudiendo añadirse hasta otro número igual al de titulares en concepto de suplentes.
+Quinta. La atribución de puestos en la Diputación a las distintas listas se efectuará siguiendo el orden de colocación en que aparecen en razón a los votos obtenidos, por aplicación del sistema D'Hont no teniéndose en cuenta aquellas listas que no hubiesen obtenido, por lo menos, el cinco por ciento de los votos válidos emitidos en toda la Comunidad Autónoma.
+Sexta. Se aplicarán de forma supletoria el Real Decreto-ley veinte/mil novecientos setenta y siete, de dieciocho de marzo, sobre Elecciones Generales, o la Ley Electoral vigente en ese momento para las elecciones a Cortes Generales.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. De la constitución de la Diputación General.
+Uno. Transcurridos diez días naturales a partir de la proclamación de los resultados definitivos de la elección, se constituirá en el primer día hábil la Diputación General de La Rioja, presidida por una Mesa de edad, integrada por el electo presente de más edad, como Presidente, que será asistido por dos Vicepresidentes, los que sigan en más edad al anterior, y dos Secretarios, los dos miembros más jóvenes de la Junta.
+Dos. Constituida esta Mesa de edad, se procederá a elegir la Mesa provisional, compuesta por un Presidente, dos Vicepresidentes y dos Secretarios. La votación será separada en número de tres, una para Presidente, otra para Vicepresidentes y otra para Secretarios. Serán electos el más votado en el primer caso y los dos primeros en orden a los puestos de Vicepresidentes y Secretarios. Los electores, en cada votación, sólo podrán señalar un nombre.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. De la elección del Presidente del Consejo de Gobierno.
+Uno. En una segunda sesión, que se celebrará dentro de los quince días naturales siguientes a la elección de la Mesa Provisional, el Presidente de la Diputación, previa consulta a os representantes designados por los partidos o grupos con representación en la misma, propondrá de entre los miembros de la Diputación General un candidato a Presidente del Consejo de Gobierno, procediéndose al debate de su programa y votación para tal cargo.
+En primera votación deberá obtener la mayoría absoluta de los miembros de la Diputación; de no obtenerla, se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior y la confianza se entenderá otorgada si obtuviere la mayoría simple.
+Dos. Si efectuadas las citadas votaciones no se otorgase la confianza para la investidura, se tramitarán sucesivas propuestas, con el mismo u otro candidato, en la forma prevista en el párrafo anterior.
+Tres. Si transcurrido el plazo de dos meses desde la primera votación de investidura ningún candidato hubiera obtenido la confianza de la Diputación General, ésta quedará disuelta de pleno derecho, y, en tal caso, se procederá a la celebración de nuevas elecciones en el plazo de sesenta días.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. De las bases para el traspaso de servicios.
+El traspaso de los servicios correspondientes de las competencias que, según el presente Estatuto, se atribuyen a la Comunidad Autónoma de La Rioja, se hará conforme a las siguientes bases:
+Primera. En el término de tres meses desde que hayan quedado constituidos los órganos de gobierno de la Comunidad, se creara una Comisión Mixta de carácter paritario, integrada por representantes del Estado y de La Rioja. El Consejo de Gobierno designará los miembros representantes de La Rioja, quienes rendirán cuenta de su gestión a dicho Consejo.
+Segunda. Será función de esta Comisión Mixta el inventariar los bienes y derechos del Estado que sean objeto de traspaso a la Comunidad Autónoma, concretar en el tiempo los servicios y los funcionarios que deban traspasarse, así como la transferencia de los medios personales y patrimoniales afectos a los mismos.
+Tercera. Dicha Comisión Mixta establecerá sus normas de funcionamiento.
+Cuarta. Los acuerdos de la Comisión Mixta adoptarán la forma de propuestas al Gobierno de la Nación, que las aprobará mediante Real Decreto, en el que figurarán aquellos como anexos, publicándose en el «Boletín Oficial de La Rioja», adquiriendo vigencia a partir de la publicación en el primero de ellos.
+Quinta. Para preparar los traspasos y para verificarlos por bloques orgánicos de naturaleza homogénea la Comisión Mixta de transferencias estará asistida por Comisiones Sectoriales de ámbito nacional, agrupadas por materias, cuyo cometido fundamental será determinar con la representación de la Administración del Estado los traspasos de competencias y de medios personales, financieros y materiales que deba recibir la Comunidad Autónoma.
+Las Comisiones Sectoriales trasladarán sus propuestas de acuerdo a la Comisión Mixta, que las habrá de ratificar.
+Sexta. Será título suficiente para la inscripción en el Registro de la Propiedad del traspaso de bienes inmuebles y derechos del Estado a la Comunidad Autónoma de La Rioja la certificación de la Comisión Mixta de los acuerdos gubernamentales debidamente promulgados.
+Séptima. La Comisión Mixta subsistirá hasta tanto no se hayan transferido a La Rioja la totalidad de los servicios correspondientes a las competencias asumidas.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. De los funcionarios.
+Uno. Serán respetados todos los derechos adquiridos de cualquier orden o naturaleza que correspondan a los funcionarios y demás personal adscrito al Estado, Diputación Provincial de La Rioja o a los Organismos e Instituciones públicas y que, por razón de las transferencias de servicios a la Comunidad Autónoma, hayan de depender en el futuro de ésta. La Comunidad Autónoma quedará subrogada en la titularidad de los contratos sometidos al Derecho administrativo y laboral.
+Dos. Estos funcionarios y personal quedaran sujetos a la legislación general del Estado y a la particular de La Rioja en el ámbito de su competencia.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. De la financiación.
+Uno. Mientras no se dicten disposiciones que permitan la financiación total de los servicios transferidos correspondientes a las competencias propias de la Comunidad Autónoma de La Rioja, el Estado contribuirá a su sostenimiento partiendo de una cantidad igual al coste efectivo del servicio, actualizándola de acuerdo con las circunstancias, estando facultada la Comunidad Autónoma de La Rioja para no aceptar la transferencia de servicios que no cuenten con financiación suficiente.
+Dos. El alcance de tal financiación será determinado en cada momento por la Comisión Mixta de transferencias.
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima. Del Tribunal Económico-Administrativo.
+Entre tanto no se cree una jurisdicción económico-administrativa propia de la Comunidad Autónoma de La Rioja, las competencias de esta se ejercerán por los órganos del Estado.
+
+### Disposición transitoria duodécima
+
+Disposición transitoria duodécima. Del Impuesto de Lujo.
+Hasta que el Impuesto sobre el Valor Añadido entre en vigor se considerará como impuesto que puede ser cedido el de lujo que se recaude en destino.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+Palacio de la Zarzuela, Madrid, a nueve de junio de mil novecientos ochenta y dos.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+Leopoldo Calvo-Sotelo y Bustelo.

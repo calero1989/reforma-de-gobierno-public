@@ -1,0 +1,331 @@
+# Ley 8/1997, de 18 de diciembre, de Atribución de Competencias a los Consejos Insulares en Materia de Tutela, Acogimiento y Adopción de Menores.
+
+- Identificador BOE: `BOE-A-1998-1685`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-1685
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LAS ISLAS BALEARES
+Sea notorio a todos los ciudadanos que el Parlamento de las Islas Baleares ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 27.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+Mediante la Ley Orgánica 9/1992, de 23 de diciembre, de transferencia de competencias a las Comunidades Autónomas que accedieron a la autonomía por la vía del artículo 143 de la Constitución, se atribuyó a la Comunidad Autónoma de las Islas Baleares la competencia exclusiva en materia de instituciones públicas de protección y tutela de menores, que se materializó a través del Real Decreto 2170/1993, de 10 de diciembre, sobre traspaso de funciones y servicios de la Administración del Estado a la Comunidad Autónoma de las Islas Baleares en materia de protección de menores. Se cumplía de este modo la previsión estatutaria establecida en el apartado e) punto 1 del artículo 16, y después, con la modificación del Estatuto de Autonomía de las Islas Baleares, efectuada por la Ley orgánica 9/1994, de 24 de marzo, se aumentó el índice de materias de competencia exclusiva de la Comunidad Autónoma de las Islas Baleares, regulado en el artículo 10.33 del Estatuto de Autonomía de las Islas Baleares.
+Esto no obstante, el ejercicio de esta competencia exclusiva, a diferencia del punto 12 del mismo artículo 10 del Estatuto de Autonomía, queda delimitado al denominado bloque de la constitucionalidad con el sometimiento a la normativa estatal con carácter de Ley Orgánica que regula la materia y a las demás normas siguientes:
+1. Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
+2. Ley 21/1987, de 11 de noviembre, de Modificación del Código Civil en Materia de Adopción y otras formas de Protección de Menores.
+3. Ley Orgánica 4/1992, de 5 de junio, de Reforma de la Ley Reguladora de la Competencia y el Procedimiento de los Jueces de Menores.
+4. La Ley de las Islas Baleares 6/1995, de 21 de marzo, de Actuación de la Comunidad Autónoma de las Islas Baleares en Aplicación de las Medidas Judiciales sobre Menores Infractores.
+5. La Ley de las Islas Baleares 7/1995, de 21 de marzo, de Guarda y Protección de los Menores Desamparados.
+Incidiendo en las diferencias del 33 con el punto 12 del artículo 10 del Estatuto de Autonomía de las Islas Baleares, el control de legalidad de los actos administrativos dictados en el ejercicio de la competencia de menores se pueden recurrir ante la jurisdicción civil, lo que las separa claramente de otras materias en las que es preceptivo el agotamiento de la vía de recursos administrativos para abrir la vía de la jurisdicción contenciosa administrativa. No se trata, por tanto, de ningún tipo de asistencia social, sino del ejercicio de una protección de carácter jurídico, y con unas herramientas muy concretas: las instituciones jurídicas de la tutela, el acogimiento familiar, las guardas y la adopción, en los términos regulados en el Código Civil.
+El artículo 10.12 del Estatuto de Autonomía de las Islas Baleares se refiere a un sistema asistencial, destinado a toda la población en general, sin perjuicio de una actuación preventiva en determinados colectivos más desfavorecidos, y con la puesta o desarrollo de actuaciones no previstas de forma específica en la legislación básica del Estado.
+Pero, para una apropiada adecuación del ejercicio de estas competencias, debe tenerse en cuenta la singular configuración territorial e institucional de las islas Baleares, donde se complementan armónicamente el imperativo de una articulación interinsular y vertebradora, materializada en el Gobierno de la Comunidad Autónoma, con las parcelas de autogobierno de cada isla ejercidas por los consejos insulares.
+Las competencias en materia de tutela, acogimiento y adopción de menores no constan como aquellas propias de los entes locales, ni de aquellas exclusivamente enumeradas en el artículo 39 del Estatuto de Autonomía de las Islas Baleares que primigeniamente o diferidamente pueden asumir los consejos insulares. Esto no obstante, la cláusula denominada residual del mismo artículo 39 permite que, previa la tramitación de las formalidades y requisitos adecuados y a demanda de los consejos insulares, se puedan aprobar transferencias de otras materias que fueran de interés propio de las corporaciones insulares.
+Se trata, por tanto, de conjugar la previsión estatutaria del artículo 10.33 con la del artículo 39, y todo ello con criterios de máxima eficacia, rentabilidad social y sobre todo escrupuloso respeto a la legalidad vigente en cuanto a los derechos de los menores.
+Por todo ello, se aprueba la presente Ley en la cual se hace un planteamiento institucional armónico entre las acciones protectoras a desarrollar por los consejos insulares, más relacionadas con aspectos asistenciales y preventivos, y aquellas que en estrecha coordinación con las anteriores supongan una intervención jurídica presidida por los principios de seguridad jurídica, igualdad, imparcialidad y objetividad.
+Cabe recordar que las islas Baleares son una realidad geográfica e histórica plural, desigual y diversa, de difícil articulación en un sistema conjunto de instituciones político-administrativas. Para dar satisfacción a la voluntad de autogobierno de cada isla, articulada como un sistema de cooperación armónica de carácter interinsular, y en aplicación del artículo 39 del Estatuto de Autonomía y de la Ley de las Islas Baleares 5/1989, de 13 de abril, de Consejos Insulares, el Parlamento de las Islas Baleares ha aprobado las ocho leyes de atribución de competencias a los consejos insulares de Menorca y de Eivissa y Formentera, y siete al consejo insular de Mallorca, siguientes:
+1. La Ley 9/1990, de 20 de junio, de Atribución de Competencias a los Consejos Insulares en Materia de Urbanismo y Habitabilidad.
+2. La Ley 8/1993, de 1 de diciembre, de Atribución de Competencias a los Consejos Insulares en Materia de Régimen Local.
+3. La Ley 9/1993, de 1 de diciembre, de Atribución de Competencias a los Consejos Insulares en Materia de Información Turística.
+4. La Ley 12/1993, de 20 de diciembre, de Atribución de Competencias a los Consejos Insulares en Materia de Servicios Sociales y Asistencia Social.
+5. La Ley 13/1993, de 20 de diciembre, de Atribución de Competencias a los Consejos Insulares en Materia de Inspección Técnica de Vehículos.
+6. La Ley 6/1994, de 13 de diciembre, de Atribución de Competencias a los Consejos Insulares en Materia de Patrimonio Histórico, de Promoción Sociocultural, de Animación Sociocultural, de Depósito Legal de Libros y de Deportes.
+7. La Ley 8/1995, de 30 de marzo, de Atribución de Competencias a los Consejos Insulares en Materia de Actividades Clasificadas y Parques Acuáticos, Reguladora del Procedimiento y de las Infracciones y Sanciones.
+8. La Ley 3/1996, de 29 de noviembre, de Atribución de Competencias a los Consejos Insulares de Menorca y de Eivissa y Formentera en Materia de Ordenación Turística.
+La presente Ley, de Atribución de Competencias a los consejos insulares de Mallorca, de Menorca y de Eivissa y Formentera en Materia de Protección de Menores, esto es la transferencia de la función ejecutiva y la gestión correspondientes a la tutela, el acogimiento y la adopción de menores, constituye el noveno paso, hasta ahora, que ha de significar una más cercana y mejor prestación de los servicios públicos.
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+La presente Ley tiene por objeto atribuir a los consejos insulares de Mallorca, de Menorca y de Eivissa y Formentera, dentro de su ámbito territorial y con carácter de propias, las competencias asumidas por el Gobierno de la Comunidad Autónoma de las Islas Baleares en relación con las materias de protección de menores que se indican y regular su ejercicio.
+
+### Artículo 2
+
+Artículo 2. Régimen de atribución de las competencias.
+La atribución de las competencias se realiza en régimen de transferencia de acuerdo con lo que prevé el artículo 39 del Estatuto de Autonomía de las Islas Baleares, el artículo 12.3 de la Ley de las Islas Baleares 5/1989, de 13 de abril, de Consejos Insulares, y en los términos que se establecen en esta Ley.
+
+### Artículo 3
+
+Artículo 3. Competencias que se transfieren a los consejos insulares.
+1. Corresponde a los consejos insulares, como instituciones de gobierno de cada isla, de acuerdo con el artículo 70 del Estatuto de Autonomía y, sin perjuicio de otras competencias que el ordenamiento jurídico vigente les atribuya, la condición de entidad pública competente en materia de protección y, específicamente, las competencias siguientes:
+a) Llevar a cabo, en el ámbito territorial respectivo, todas las actuaciones materiales, técnicas y jurídicas en situación y declaración de riesgo previstas en el ordenamiento jurídico vigente que no correspondan o no se hayan atribuido a otras administraciones.
+b) Llevar a cabo las actuaciones de protección sobre el ejercicio adecuado de la patria potestad o de la tutela y la guarda de los niños, niñas y adolescentes, en concurrencia con otras administraciones.
+c) Atender de manera inmediata a los niños, niñas y adolescentes en situación de desamparo, y llevar a cabo las actuaciones protectoras jurídicas y materiales inmediatas que correspondan.
+d) Llevar a cabo, en el ámbito territorial respectivo, todas las actuaciones materiales, técnicas y jurídicas en situaciones de desamparo que prevé el ordenamiento jurídico vigente.
+e) Coordinar las diferentes administraciones locales en casos de situaciones de riesgo de los niños, niñas y adolescentes.
+f) Asumir la guarda de los niños, niñas y adolescentes de acuerdo con lo que establecen los preceptos de esta ley, el artículo 172 bis del Código Civil y el artículo 19 de la Ley Orgánica 1/1996, de 15 de enero, de protección jurídica del menor, de modificación parcial del Código Civil y de la Ley de enjuiciamiento civil.
+g) Asumir y ejercer la tutela de los niños, niñas y adolescentes desamparados de acuerdo con lo que establecen esta ley y el resto del ordenamiento jurídico, y llevar a cabo las actuaciones que se deriven.
+h) Llevar a cabo todas las actuaciones materiales, técnicas y jurídicas que, en materia de adopción de menores de edad, les encomiendan el título IV de esta ley y el resto del ordenamiento jurídico vigente.
+i) Defender las medidas adoptadas en el ejercicio de la protección de los niños, niñas y adolescentes (guarda, tutela, delegación con fines de adopción, acogimiento y propuesta de adopción, entre otros) ante el juzgado de primera instancia competente y ante el resto de instancias judiciales, mediante los servicios correspondientes y de acuerdo con la legislación procesal vigente.
+j) Llevar a cabo la acreditación, la habilitación, la inspección, la suspensión y la revocación de la habilitación de las entidades colaboradoras en materia de guarda de niños, niñas y adolescentes, en el ámbito del territorio respectivo.
+k) Regular los requisitos materiales, funcionales y de personal de los servicios y los centros que presten servicios a los niños, niñas y adolescentes sometidos a una medida de protección jurídica de la entidad pública correspondiente.
+l) Llevar a cabo la acreditación, la habilitación, la inspección y la supervisión de los servicios y los centros que presten servicios a los niños, niñas y adolescentes sometidos a una medida de protección jurídica de la entidad pública correspondiente.
+m) Ejercer las facultades, las funciones y las obligaciones que la legislación básica del Estado les atribuye con respecto a los organismos acreditados para la adopción internacional.
+n) Planificar las actuaciones y los servicios dirigidos a los niños, niñas y adolescentes en el ámbito de su competencia.
+o) Aprobar planes específicos de protección para niños o niñas de menos de seis años que recojan medidas concretas de fomento del acogimiento familiar.
+p) Conceder, gestionar y tramitar las prestaciones económicas incluidas en las competencias propias en materia de protección jurídica que les correspondan.
+q) Llevar a cabo el resto de actuaciones, funciones y obligaciones que les encomiendan esta ley y el resto del ordenamiento jurídico como entidades públicas competentes en materia de protección jurídica de los niños, niñas y adolescentes.
+2. En el ejercicio de sus propias competencias, los consejos insulares tienen la potestad reglamentaria, independientemente de que el Gobierno de las Illes Balears pueda establecer los principios generales sobre la materia que aseguren el equilibrio y la cohesión territorial entre todas las islas.
+3. En el ejercicio de las actuaciones protectoras, los consejos insulares se tienen que ajustar a la Ley Orgánica 1/1996, a los convenios internacionales en la materia suscritos por España y a la legislación sectorial autonómica o estatal que les sea aplicable.
+4. Los consejos insulares, en el ámbito territorial de su competencia, para la aplicación de esta ley y con respecto a la atención socioeducativa a personas menores de edad infractoras, tienen que colaborar con la administración autonómica en la aplicación de medidas judiciales cuando las personas menores de edad estén sujetas a una actuación de protección o cuando las circunstancias aconsejen la intervención de los servicios de protección.
+Se modifica por la disposicion final 6 de la Ley 9/2019, de 19 de febrero. Ref. BOE-A-2019-5578#df-6
+ Téngase en cuenta que las referencias hechas a la Ley 7/1995, de 21 de marzo. Ref. BOE-A-1995-111841 se entenderán sustituidas por la Ley 17/2006, de 13 de noviembre. Ref. BOE-A-2006-21821#dd, según establece su disposición derogatoria única.2
+
+### Artículo 4
+
+Artículo 4. Potestades genéricas que se reserva el Gobierno de la Comunidad Autónoma de las Islas Baleares.
+En cuanto a las materias objeto de atribución por la presente Ley, el Gobierno de la Comunidad Autónoma se reserva las potestades, los servicios, las funciones y las actuaciones genéricas siguientes:
+1. La coordinación de los consejos insulares en el ejercicio de la competencia transferida, con las facultades conexas, y aquellas en las que se concreta, dado el tenor del capítulo VI de la Ley de las Islas Baleares 5/1989, de 13 de abril, de Consejos Insulares. La fijación, el seguimiento y la evaluación de las directrices de obligado cumplimiento para la mencionada coordinación.
+2. La gestión de las estadísticas autonómicas.
+3. El estudio, la investigación, las publicaciones, los congresos, los planes de formación de los profesionales, los programas experimentales y los planes de promoción y protección de los menores y de sus derechos, de ámbito autonómico.
+4. La representación y las relaciones con otras Comunidades Autónomas, con la Administración General del Estado y con organismos internacionales, así como programas de cooperación con los anteriores. Las relaciones internacionales sobre adopción y acogimiento familiar, sin perjuicio de las competencias de la Administración General del Estado.
+
+### Artículo 5
+
+Artículo 5. Potestades específicas que se reserva el Gobierno de la Comunidad Autónoma de las Islas Baleares.
+El Gobierno de la Comunidad Autónoma de las Islas Baleares se reserva, en las materias objeto de la presente Ley, el ejercicio de las acciones legales pertinentes en defensa de los derechos de los menores en los términos previstos en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
+
+### Artículo 6
+
+Artículo 6. Normativa reguladora.
+1. En el ejercicio de las competencias atribuidas por esta Ley, los consejos insulares ajustarán su funcionamiento al régimen que en ella se establece, así como a la Ley de las Islas Baleares 5/1989, de 13 de abril, de Consejos Insulares, y a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y a la legislación emanada del Parlamento de las Islas Baleares que sea de aplicación, o subsidiariamente, a la legislación estatal.
+2. En el ejercicio de las actuaciones protectoras, los consejos insulares se ajustarán a lo que preceptúa la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, a los Convenios Internacionales en la materia suscritos por España, y a la legislación sectorial autonómica o estatal que les sea de aplicación.
+3. Los consejos insulares tendrán potestad reglamentaria organizativa para regular su propio funcionamiento.
+Se deroga el apartado 4 por la disposición derogatoria 2.f) de la Ley 8/2000, de 27 de octubre. Ref. BOE-A-2000-20977#dd
+
+### Artículo 7
+
+Artículo 7. Potestad reglamentaria normativa.
+Corresponde al Gobierno de la Comunidad Autónoma de las Islas Baleares el ejercicio de la potestad reglamentaria normativa sobre las competencias atribuidas a los consejos insulares por esta Ley, con sujeción a las limitaciones establecidas en los puntos 1 y 2 del artículo 46 del Estatuto de Autonomía de las Islas Baleares, y en especial, al desarrollo reglamentario de los procedimientos necesarios para la formalización de los expedientes administrativos de protección de menores.
+
+### Artículo 8
+
+Artículo 8. La Comisión Interinsular de Protección de Menores.
+1. Se crea la Comisión Interinsular de Protección de Menores, con el objeto de unificar los criterios de aplicación de la normativa vigente en este momento o en el futuro, como también de planificar y evaluar la estrategia en materia de protección de menores que debe aplicarse en el ámbito de la Comunidad Autónoma de las Islas Baleares, la cual tendrá facultades para la interpretación, la fijación de criterios de aplicación de la normativa y la formulación de propuestas para asegurar la protección social, económica y jurídica de los menores.
+2. La Comisión Interinsular de Protección de Menores estará integrada por los siguientes miembros:
+a) Por el presidente, que será el Consejero del Gobierno de la Comunidad Autónoma de las Islas Baleares competente en la materia o persona en quien delegue.
+b) Cuatro vocales: Tres que nombrarán los consejos insulares, uno por cada consejo, y uno, que actuará de secretario de la comisión, nombrado por el Consejero del Gobierno la Comunidad Autónoma competente en la materia.
+3. La comisión se reunirá, como mínimo, una vez al año y cuando lo soliciten, al menos, una de las instituciones representadas o lo determine el presidente. A las reuniones podrán asistir los vocales, acompañados de los Técnicos que consideren oportunos, que tendrán voz pero no voto.
+4. La Comisión Interinsular de Protección de Menores elaborará y aprobará su reglamento de funcionamiento.
+
+### Artículo 9
+
+Artículo 9. Funciones de coordinación e información mutua.
+1. Sin perjuicio de lo que dispone el artículo anterior y de la coordinación general a que hace referencia el capítulo VI de la Ley de las Islas Baleares 5/1989, de 13 de abril, de consejos insulares, el Gobierno de la Comunidad Autónoma y los consejos insulares podrán acordar los mecanismos adecuados de coordinación e información mutua en las materias objeto de esta atribución.
+2. El Gobierno de la Comunidad Autónoma y los consejos insulares cooperarán en el ámbito de la información sobre el funcionamiento general del sistema de protección a la infancia, la atención a menores y otras acciones relativas a menores y en los aspectos que supongan una mejora del sistema de protección a la infancia.
+3. Los consejos insulares pondrán en conocimiento del Gobierno de la Comunidad Autónoma todos los datos que sean necesarios para la formación, gestión y control de los registros que a continuación se mencionan, así como también cualquier otro dato conveniente a efectos estadísticos:
+a) Registro Autonómico de Centros de Acogida Residencial de Menores.
+b) Registro Autonómico de Protección de Menores.
+c) Registro Autonómico de Adopciones.
+
+### Artículo 10
+
+Artículo 10. De los registros.
+1. El Registro Autonómico de Protección de Menores será único para toda la Comunidad Autónoma de las Islas Baleares y tendrá carácter reservado, y su custodia y gestión será encomendada al Gobierno de la Comunidad Autónoma, a través de la Consejería competente en la materia. Este registro tendrá las siguientes secciones:
+Sección primera: De las guardas.
+Sección segunda: De las tutelas.
+Sección tercera: De los acogimientos.
+2. El Registro Autonómico de Adopciones tendrá carácter único para toda la Comunidad Autónoma de las Islas Baleares, será reservado, y su custodia y gestión será encomendada al Gobierno de la Comunidad Autónoma, a través de la Consejería competente en la materia. Este registro tendrá las siguientes secciones:
+Sección primera: De las solicitudes de adopción nacional e internacional.
+Sección segunda: De los certificados de idoneidad. Sección tercera: De las propuestas previas de adopción y de las tramitaciones de adopción internacional.
+3. La organización y funcionamiento de los registros referidos será objeto de desarrollo reglamentario, que se llevará a cabo de acuerdo con los siguientes principios:
+a) Intimidad, confidencialidad y obligación de reserva respecto de las inscripciones que estén en cualesquiera de las secciones de este registro.
+b) Acceso del Ministerio Fiscal en el cumplimiento de las funciones que legalmente tiene encomendadas.
+4. Los consejos insulares, en el ámbito territorial respectivo, crearán y gestionarán sus propios registros insulares de centros de acogida residencial de menores; de protección de menores y de adopciones, que tendrán la misma estructura, organización y funcionamiento señalados en los puntos anteriores de este artículo, respecto de las materias que son de su competencia.
+
+### Artículo 11
+
+Artículo 11. Coste efectivo.
+1. El coste efectivo anual de la atribución de las competencias a que se refiere esta Ley, asciende a 616.176.980 pesetas para el año 1998.
+El coste efectivo experimentará las variaciones en función de las remuneraciones concretas que afecten al personal respecto del capítulo I, y del índice de precios al consumo en cuanto al resto de capítulos y a los costes indirectos.
+2. La cuantificación del coste efectivo se ha realizado de conformidad con las siguientes valoraciones:
+Consejo Insular de Mallorca:
+Capítulo I: 67.670.275 pesetas.
+Capítulo II: 219.956.295 pesetas.
+Capítulo IV: 174.259.101 pesetas.
+Total coste efectivo: 461.885.671 pesetas.
+Consejo Insular de Menorca:
+Capítulo I: 22.637.608 pesetas.
+Capítulo II: 17.523.135 pesetas.
+Capítulo IV: 27.855.000 pesetas.
+Total coste efectivo: 68.015.743 pesetas.
+Consejo Insular de Eivissa y Formentera:
+Capítulo I: 30.134.338 pesetas.
+Capítulo II: 26.447.910 pesetas.
+Capítulo IV: 29.693.318 pesetas.
+Total coste efectivo: 86.275.566 pesetas.
+
+### Artículo 12
+
+Artículo 12. Medios personales.
+Se transfiere a los consejos insulares y bajo su capacidad organizativa el siguiente personal:
+1. Se traspasan al Consejo Insular de Mallorca las 15 plazas siguientes:
+Cuerpo/categoría: Técnico superior.
+Grupo/nivel: 1
+Localidad: Marratxí.
+Cuerpo/categoría: Técnico superior.
+Grupo/nivel: 1
+Localidad: Marratxí.
+Cuerpo/categoría: Técnico grado medio.
+Grupo/nivel: 2
+Localidad: Marratxí.
+Cuerpo/categoría: Educador.
+Grupo/nivel: 2
+Localidad: Marratxí.
+Cuerpo/categoría: Técnico grado medio.
+Grupo/nivel: 2
+Localidad: Marratxí.
+Cuerpo/categoría: Técnico grado medio.
+Grupo/nivel: 2
+Localidad: Marratxí.
+Cuerpo/categoría: Técnico grado medio.
+Grupo/nivel: 2
+Localidad: Marratxí.
+Cuerpo/categoría: Oficial primera administrativo.
+Grupo/nivel: 4
+Localidad: Marratxí.
+Cuerpo/categoría: Ordenanza.
+Grupo/nivel: 7
+Localidad: Marratxí.
+Cuerpo/categoría: Técnico superior.
+Grupo/nivel: 1
+Localidad: Marratxí.
+Cuerpo/categoría: Técnico superior.
+Grupo/nivel: 1
+Localidad: Marratxí.
+Cuerpo/categoría: Técnico grado medio.
+Grupo/nivel: 2
+Localidad: Marratxí.
+Cuerpo/categoría: Técnico grado medio.
+Grupo/nivel: 2
+Localidad: Marratxí.
+Cuerpo/categoría: Técnico grado medio.
+Grupo/nivel: 2
+Localidad: Marratxí.
+Cuerpo/categoría: Administrativo.
+Grupo/nivel: 4
+Localidad: Marratxí.
+2. Se traspasan al Consejo Insular de Menorca las 5 plazas siguientes:
+Cuerpo/categoría: Técnico superior.
+Grupo/nivel: 1
+Localidad: Maó.
+Cuerpo/categoría: Técnico superior.
+Grupo/nivel: 1
+Localidad: Maó.
+Cuerpo/categoría: Técnico grado medio.
+Grupo/nivel: 2 Localidad: Maó.
+Cuerpo/categoría: Oficial primera administrativo.
+Grupo/nivel: 4
+Localidad: Maó.
+Cuerpo/categoría: Técnico grado medio.
+Grupo/nivel: 2 Localidad: Maó.
+3. Se traspasan al Consejo Insular de Eivissa y Formentera las 8 plazas siguientes:
+Cuerpo/categoría: Técnico superior.
+Grupo/nivel: 1
+Localidad: Eivissa.
+Cuerpo/categoría: Técnico superior.
+Grupo/nivel: 1
+Localidad: Eivissa.
+Cuerpo/categoría: Técnico grado medio.
+Grupo/nivel: 2
+Localidad: Eivissa.
+Cuerpo/categoría: Técnico grado medio.
+Grupo/nivel: 2
+Localidad: Eivissa.
+Cuerpo/categoría: Administrativo.
+Grupo/nivel: 4
+Localidad: Eivissa.
+Cuerpo/categoría: Servicios diversos.
+Grupo/nivel: 7
+Localidad: Eivissa.
+Cuerpo/categoría: Servicios diversos.
+Grupo/nivel: 7
+Localidad: Eivissa.
+Cuerpo/categoría: Ordenanza.
+Grupo/nivel: 7
+Localidad: Eivissa.
+
+### Artículo 13
+
+Artículo 13. Medios materiales.
+1. Bienes inmuebles: La atribución de competencias que se lleva a cabo mediante esta Ley no da lugar a ningún tipo de traspaso de bienes inmuebles.
+2. Bienes muebles: El inventario de los bienes muebles que se ponen a disposición de los consejos insulares de Mallorca, de Menorca y de Eivissa y Formentera, se especificarán en el acta de entrega que será formalizada por los presidentes de los consejos insulares y la Consejera de la Función Pública e Interior.
+
+### Artículo 14
+
+Artículo 14. Control de la legalidad e impugnación de los actos y acuerdos de los consejos insulares.
+1. (Derogado).
+2. El Gobierno de la Comunidad Autónoma de las Islas Baleares, si procede, ejercitará las facultades de impugnación de los acuerdos de los consejos insulares ante la jurisdicción contenciosa-administrativa, cuando incurran en infracción del ordenamiento jurídico.
+Se deroga el apartado 1 por la disposición derogatoria 2.f) de la Ley 8/2000, de 27 de octubre. Ref. BOE-A-2000-20977#dd
+
+### Disposición adicional primera
+
+Disposición adicional primera. Subrogación.
+Los consejos insulares se subrogan, a partir de la efectiva atribución de competencias prevista en esta Ley, en los derechos y obligaciones de la Administración de la Comunidad Autónoma relativos a las competencias transferidas.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Derecho de opción de los funcionarios y del personal laboral.
+Los funcionarios y el personal laboral de la Comunidad Autónoma de las Islas Baleares, procedentes de la Administración General del Estado o de otro organismo o institución públicos, o que hayan ingresado directamente, que con motivo de la atribución de competencias a los consejos insulares resulten traspasados, mantendrán los derechos que les correspondan, incluido el de participar en los concursos de traslado que convoque la Comunidad Autónoma de las Islas Baleares, en igualdad de condiciones que el resto de los miembros de la misma categoría o cuerpo, para que así puedan ejercer en todo momento el derecho permanente de opción.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Comisión paritaria.
+Se creará, por acuerdo entre el Gobierno de la Comunidad Autónoma de las Islas Baleares y el consejo insular correspondiente, una comisión paritaria cuya misión será hacer efectivo el traspaso de la documentación y de los medios personales y materiales que esta ley determina, como también garantizar que los expedientes en trámite se resuelvan en los plazos establecidos por la legislación vigente.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Gratuidad del «Boletín Oficial de la Comunidad Autónoma de las Islas Baleares».
+Será gratuita la publicación en el «Boletín Oficial de la Comunidad Autónoma de las Islas Baleares» de los anuncios, de los acuerdos y de otros documentos exigidos por el ordenamiento jurídico, como consecuencia de la ejecución y la gestión por los consejos insulares de las competencias en materia de tutela, acogimiento y adopción de menores.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Subrogación del Consejo Insular de Eivissa y Formentera.
+El Consejo Insular de Eivissa y Formentera será el titular de la cesión de uso del solar y del edificio, propiedades del Ayuntamiento de Eivissa, existentes en la calle Fra Vicent Nicolau, número 7 de Eivissa, donde se encuentra situado el centro «Bisbe Hui» de acogimiento de menores.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Resolución de los recursos administrativos.
+Corresponderá al Gobierno de la Comunidad Autónoma de las Islas Baleares la competencia para resolver los recursos administrativos contra los actos y acuerdos dictados por sus órganos, antes de la efectividad de la atribución competencial que establece la presente Ley, aunque el recurso se interponga posteriormente.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Representación y defensa judicial.
+Corresponderá al Gobierno de la Comunidad Autónoma de las Islas Baleares la representación y defensa en juicio de los recursos y acciones jurisdiccionales contra los actos y acuerdos dictados por sus órganos, antes de la efectividad de la atribución competencial que establece la presente Ley, aunque el litigio se interponga posteriormente.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Convenios de colaboración.
+1. Con la finalidad de que los consejos insulares puedan ejecutar de manera eficaz las competencias que esta Ley les atribuye, y hasta que no dispongan de todos los medios técnicos y humanos adecuados para el ejercicio de las funciones atribuidas, podrán otorgarse convenios de Colaboración entre el Gobierno de la Comunidad Autónoma y los consejos insulares, a petición de éstos, y no supondrán ninguna carga económica para las administraciones insulares.
+2. Estos instrumentos de colaboración definirán las obligaciones a realizar por los servicios del Gobierno de la Comunidad Autónoma en la prestación de la asistencia técnica que proceda.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Aplazamiento de las adopciones internacionales.
+1. La efectividad de las resoluciones en materia de adopciones internacionales, con el carácter de autoridad central encargada de dar cumplimiento a las obligaciones del Convenio de La Haya de 29 de mayo de 1993, se aplaza hasta el día siguiente de que se publique en el diario oficial la designación de los consejos insulares de Mallorca, de Menorca y de Eivissa y Formentera como autoridades centrales en el ámbito de sus respectivos territorios.
+2. La tramitación de los expedientes de adopción internacional corresponderá a los consejos insulares, con independencia de que, transitoriamente, el Gobierno de la Comunidad Autónoma de las Islas Baleares dicte la resolución definitiva.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación del Gobierno.
+Se faculta al Gobierno de la Comunidad Autónoma para que dicte las disposiciones necesarias para el desarrollo y la ejecución de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Fecha de efectividad de la atribución.
+Para dar cumplimiento a lo que regula el artículo 22.h) de la Ley de las Islas Baleares 5/1989, de 13 de abril, de Consejos Insulares, se establece el día 1 de enero de 1998 como fecha para el inicio efectivo de las funciones ejecutivas y de gestión derivadas de la transferencia de competencias que dispone esta Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+Esta Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de la Comunidad Autónoma de las Islas Baleares».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que correspondan la hagan guardar.
+Palma, 18 de diciembre de 1997.
+PILAR FERRER VANRELL,
+ JAIME MATAS I PALOU,
+ Consejera de Función Pública e Interior
+ Presidente

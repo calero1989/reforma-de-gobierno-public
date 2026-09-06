@@ -1,0 +1,193 @@
+# Ley 4/1980, de 16 de diciembre de 1980, de creación del Instituto Catalán del Suelo.
+
+- Identificador BOE: `BOE-A-1981-12908`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1981-12908
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha sancionado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 33.2 del Estatuto de Autonomía, promulgo la siguiente Ley.
+El Real Decreto 1503/1980, de 20 de junio, ha traspasado a la Generalidad el patrimonio y las actuaciones urbanísticas gestionadas por el Instituto Nacional de Urbanización (INUR) en el ámbito territorial de Cataluña, así como las acciones en Sociedades Anónimas y las participaciones en Juntas de Compensación de las que este Instituto era titular. De aquí la conveniencia de crear, mediante una norma con rango legal, el Instituto Catalán del Suelo como Organismo autónomo adscrito al Departamento de Política Territorial y Obras Públicas.
+Con especial atención se proyectan en esta normativa las funciones, muy variadas y complejas, que el nuevo Instituto ha de llevar a término según la legislación urbanística aplicable. También dentro del abanico de formas de actuación que, según esta legislación, son posibles, se indican las más aptas para que el Instituto pueda desarrollar con economía, celeridad y eficacia los trabajos que le han sido confiados.
+Las actividades del Instituto se someten a un presupuesto de explotación y capital sujeto a un régimen peculiar, como se desprende del articulado.
+Los recursos del Instituto se componen, básicamente, del patrimonio recibido del INUR y de las asignaciones presupuestarias destinadas a las actuaciones objeto de traspaso.
+Una vez aprobada por el Parlamento la Ley que regulará la nueva división territorial de Cataluña, se reconsiderarán las funciones del mencionado Instituto por medio de un texto legislativo de igual importancia que tienda a evitar una excesiva centralización, dándole el contenido y las funciones que se crean convenientes.
+Disposiciones complementarias, sobre contratación y régimen jurídico, completan el marco legislativo, orgánico y funcional, dentro del cual se ha de desarrollar la actuación del Instituto Catalán del Suelo.
+
+### Artículo primero
+
+Artículo primero.
+1. El Instituto Catalán del Suelo es una entidad de derecho público de la Generalidad, sometida al régimen establecido en el artículo 1.b).1.o de la Ley 4/1985, de 29 de marzo, del Estatuto de la empresa pública catalana, y el artículo 4.2 del Decreto Legislativo 9/1994, de 13 de julio, por el que se aprueba el texto refundido de la Ley de finanzas públicas de Cataluña, que ajusta su actividad al derecho privado y al derecho público en los supuestos que se prevén en la presente Ley.
+2. El Instituto Catalán del Suelo queda adscrito al Departamento de Política Territorial y Obras Públicas, que ejerce el control de eficacia de su actividad.
+3. El Instituto Catalán del Suelo debe promover las actuaciones necesarias, tanto en el aspecto organizativo como en el funcional, a fin de permitir una utilización del suelo de acuerdo con el interés general y para impedir la especulación y favorecer la efectividad del derecho a disfrutar de una vivienda digna y adecuada.
+4. El Instituto Catalán del Suelo, como instrumento de política de suelo y de vivienda, es la administración urbanística actuante, mediante la cual la Generalidad ejerce sus competencias de ejecución del planeamiento, de acuerdo con la presente Ley y con la legislación urbanística vigente.
+5. El objetivo del Instituto Catalán del Suelo es la promoción de suelo urbanizado, el fomento de las actividades económicas y de la vivienda y la gestión de equipamientos públicos, todo ello con la finalidad de atender necesidades colectivas, remodelaciones urbanas, creación de espacios libres y zonas verdes, dotaciones y equipamientos.
+Se modifica el apartado 5 por el art. 74.1 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+ Se modifica el apartado 5 por el art. 39 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
+ Se modifica por el art. 27.1 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.
+
+### Artículo segundo
+
+Artículo segundo.
+El Instituto Catalán del Suelo gozará de personalidad jurídica propia, autonomía administrativa y económica y plena capacidad de obrar con los instrumentos de Derecho público y de Derecho privado propios de su naturaleza, para el cumplimiento de sus finalidades, de acuerdo con la presente Ley y con la legislación general sobre las entidades autónomas que le sea aplicable. En consecuencia, podrá adquirir, poseer, reivindicar, permutar, gravar o enajenar toda clase de bienes, concertar créditos, celebrar contratos, establecer y explotar obras y servicios, obligarse, interponer los recursos establecidos y ejercitar las acciones previstas en las leyes.
+
+### Artículo tercero
+
+Artículo tercero.
+1. Son funciones del Instituto Catalán del Suelo:
+a) Programar actuaciones de promoción de suelo urbanizable y remodelaciones urbanas.
+b) Promover tanto de manera directa como convenida viviendas públicas y la rehabilitación o la remodelación de éstas.
+c) Gestionar operaciones de remodelación o rehabilitación de viviendas.
+d) Programar y ejecutar actuaciones de rehabilitación de núcleos antiguos.
+e) Gestionar planes y programas de actuación cuya finalidad sea la remodelación o renovación urbana.
+f) Redactar los instrumentos urbanísticos que se tengan que desarrollar directamente por medio del Instituto Catalán del Suelo o bien con la colaboración de éste.
+g) Ejercer la gestión urbanística en ejecución de planes, propios o asumidos como tales, por cualquiera de los sistemas de actuación establecidos por la legislación urbanística. En el desarrollo de esta actividad debe asumir la calidad de Administración actuante si así lo establece el plan que se ejecuta, con los derechos y los deberes que la normativa urbanística le otorga.
+h) Redactar, tramitar y aprobar proyectos de reparcelación y de urbanización, en las actuaciones que asuma en calidad de Administración actuante.
+i) Estudiar y difundir nuevas técnicas de intervención en núcleos urbanos para facilitar su remodelación o rehabilitación.
+j) Formar especialistas en gestión urbanística.
+k) Adquirir suelo, incluso mediante expropiación forzosa, como beneficiario, de terrenos destinados a la creación de suelo urbanizado, la formación de reservas de suelo, la promoción de vivienda pública, la creación de dotaciones y equipamientos, zonas verdes y espacios libres o cualquier otra finalidad análoga de carácter urbanístico. La potestad expropiatoria corresponde al Departamento de Política Territorial y Obras Públicas.
+l) Redactar proyectos de edificación.
+m) Alienar, permutar y ceder terrenos y edificios de su propiedad.
+n) Constituir, transmitir, modificar y extinguir los derechos de hipoteca, superficie, censos, servidumbres y, en general, cualquier derecho real sobre los terrenos y las edificaciones que son propiedad del Instituto Catalán del Suelo.
+o) Proteger y defender su patrimonio.
+p) Arrendar bienes muebles e inmuebles.
+q) Ejercer la gestión de las fianzas de arrendamientos de fincas urbanas y del Registro de Fianzas de los contratos de alquiler, de acuerdo con las disposiciones vigentes.
+r) Adoptar medidas de soporte, tanto técnico como económico y financiero, para impulsar la finalización de procesos de urbanización.
+s) Asesorar, prestar servicios de consultoría, apoyar y redactar instrumentos de planeamiento y gestión urbanística y proyectos de edificación para otros sujetos públicos o privados, mediante la correspondiente contraprestación, y en cualquier ámbito territorial de actuación, respetando siempre la normativa sobre defensa de la competencia. Estos servicios con contraprestación no pueden llevarse a cabo respecto de aquellos instrumentos sobre los que el departamento al que se encuentra adscrito el Instituto Catalán del Suelo tenga competencias de aprobación.
+t) Cualquier otra que le sea encargada por la ley, el Gobierno o los entes locales, en los términos establecidos en la presente ley.
+2. El Instituto Catalán del Suelo desarrollará sus funciones dentro de su competencia, de acuerdo con el ordenamiento urbanístico y respetando el planeamiento vigente.
+Se modifica la letra t) del apartado 1 por el art. 150.1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se modifica la letra s) y se añade la letra t) al apartado 1 por el art. 74.2 y 3 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+ Se modifica el apartado 1 por el art. 21 del Decreto-ley 4/2010, de 3 de agosto. Ref. BOE-A-2010-15126.
+ Se añade la letra m.bis) por la disposición adicional 1.2 de la Ley 3/2009, de 10 de marzo. Ref. BOE-A-2009-5850.
+ Se modifica el apartado 1 por el art. 27.2 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.
+
+### Artículo cuarto
+
+Artículo cuarto.
+1. Para el ejercicio de sus funciones el Instituto Catalán del Suelo podrá:
+Primero. Desarrollar dichas funciones directamente mediante el órgano u órganos que sean competentes o que, en su caso, puedan crearse.
+Segundo. Realizar convenios con los Organismos competentes, especialmente con las Entidades Locales que deban coadyuvar, por razón de su competencia, al mejor éxito de su gestión.
+Tercero. Formar consorcios con otras Entidades públicas para el desarrollo de los fines propios de la gestión y ejecución de actividades urbanísticas.
+Cuarto. Promover la constitución y la dotación, previa solicitud de los Entes públicos directamente interesados y con el informe preceptivo de los organismos competentes de la Generalidad, de Gerencias de Urbanismo de ámbito territorial, de acuerdo con los criterios mencionados en el artículo 5.º, apartados 1 y 2, del Estatuto de Cataluña, para prestar asistencia técnica a los municipios comprendidos en el área, en el desarrollo de sus competencias urbanísticas.
+Quinto. Crear Sociedades Anónimas cuando así convenga a la promoción, gestión o ejecución de las actividades de su competencia, así como participar en cualesquiera otras Sociedades constituidas, con limitación de la responsabilidad, por Entes públicos o particulares, para el desarrollo de fines de naturaleza urbanística.
+Sexto. Integrarse en las Entidades urbanísticas colaboradoras, creadas para la gestión urbanística que le afecte.
+Séptimo. Suscribir documentos de carácter contractual con otros sujetos públicos o privados. La prestación de servicios debe remunerarse de acuerdo con las tarifas que, respetando las normas de competencia, apruebe el Consejo de Administración del Instituto Catalán de Suelo.
+2. La constitución de Gerencias y la creación de Consorcios o Sociedades Anónimas o la participación o integración del Instituto en las ya constituidas, tendrá que ser autorizada por el Consejo Ejecutivo de la Generalidad.
+Se añade el punto séptimo al apartado 1 por el art. 74.4 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+
+### Artículo quinto
+
+Artículo quinto.
+Corresponde al Consejo Ejecutivo de la Generalidad:
+Primero.–Aprobar:
+a) El plan de actuación a plazo medio y el plan anual de trabajos o gestión.
+b) El programa de preparación y enajenación del suelo.
+c) El presupuesto de explotación y capital.
+Segundo.–Autorizar las transmisiones de terrenos a título gratuito que proyecte el Instituto a favor de Entidades públicas y con destino a instalación de servicios públicos o a la creación de dotaciones y equipamientos y autorizar, igualmente, los actos a que hace referencia el apartado 2 del artículo anterior.
+Tercero.–Dictar las normas adecuadas para ejercer el control de carácter económico-financiero y de eficacia del Instituto en el marco de las disposiciones generales aplicables a la Generalidad.
+
+### Artículo sexto
+
+Artículo sexto.
+1. El Instituto Catalán del Suelo se rige por los siguientes órganos:
+a) El Consejo de Administración.
+b) El director o directora.
+2. El Instituto Catalán del Suelo debe contar con la estructura suficiente para atender las funciones que tiene encomendadas.
+3. Las relaciones entre el Instituto Catalán del Suelo y su personal se rigen por el derecho laboral. No obstante, puede disponer de los funcionarios necesarios para el desarrollo de las funciones que así lo requieran.
+4. La selección del personal, salvo el personal directivo, debe realizarse mediante publicidad y de acuerdo con los principios de méritos y capacidades y dentro de los límites presupuestarios.
+Se modifica por el art. 27.3 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.
+
+### Artículo séptimo
+
+Artículo séptimo.
+1. El Consejo de Administración tiene atribuidas las más amplias facultades en la actuación y gestión del Instituto Catalán del Suelo.
+2. El Consejo de Administración está integrado, en todo caso, por los representantes de la Generalidad que señale el Gobierno, y por el director o directora. Es su presidente o presidenta el consejero o consejera del Departamento de Política Territorial y Obras Públicas. El vicepresidente o vicepresidenta es nombrado por el titular de dicho Departamento.
+3. El secretario o secretaria del Consejo de Administración, con voz y sin voto, es designado por el Consejo de Administración, a propuesta del presidente o presidenta.
+4. Si se incluyen en el orden del día asuntos que afecten a uno o varios municipios, o comarca, el presidente o presidenta puede convocar al alcalde o alcaldes correspondientes o al presidente o presidenta del Consejo Comarcal, en su caso, quienes pueden asistir, acompañados de la persona que designen, a la deliberación del asunto para el que han sido invitados, y tomar parte en la misma con voz y sin voto.
+5. El Estatuto del régimen interior del Instituto Catalán del Suelo debe desarrollar por reglamento la composición y funcionamiento del Consejo de Administración y debe concretar sus funciones específicas, así como la estructura organizativa y el régimen de funcionamiento de la entidad. El estatuto puede crear otros órganos de gestión para el impulso de políticas concretas.
+Se modifica por el art. 27.4 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.
+
+### Artículo octavo
+
+Artículo octavo.
+(Suprimido)
+Se suprime por el art. 27.5 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.
+
+### Artículo noveno
+
+Artículo noveno.
+(Suprimido)
+Se suprime por el art. 27.5 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.
+
+### Artículo diez
+
+Artículo diez.
+La Dirección es el órgano ejecutivo que dirige el funcionamiento del Instituto, ostenta su representación y ejerce las funciones específicas que determine el estatuto de régimen interior del Instituto.
+Se modifica por el art. 27.6 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.
+
+### Artículo once
+
+Artículo once.
+1. La hacienda del Instituto estará integrada por los recursos siguientes:
+a) Los bienes y los derechos adquiridos por la Generalidad al serle traspasados los del Instituto Nacional de Urbanización, radicados en el ámbito territorial de Cataluña.
+b) Los bienes, valores, y derechos que adquiera en el ejercicio de sus funciones y los productos, rentas o incrementos de su propio patrimonio.
+c) La asignación que se fije en el Presupuesto del Estado o directamente en el de la Generalidad para el cumplimiento de los fines del Instituto.
+d) Las participaciones o ingresos que procedan de los con ciertos que celebre y, de los Consorcios, Gerencias, Sociedades y Entidades urbanísticas en que intervenga según lo que prevé el artículo cuarto.
+e) Los productos que obtenga de las enajenaciones que realice en el ejercicio de sus funciones, así como de las operaciones en que intervenga.
+f) Las subvenciones, aportaciones o donaciones que a su favor se concedan por entidades o particulares.
+g) Cualesquiera otros recursos no previstos en los apartados anteriores que puedan serle atribuidos por disposición legal o reglamentaria.
+2. El presupuesto del Instituto será anual y estará sujeto a las disposiciones legales sobre los presupuestos de los Organismos Autónomos.
+3. El Instituto Catalán, del Suelo gozará de las exenciones y beneficios fiscales de que goza la Administración de la Generalidad.
+
+### Artículo doce
+
+Artículo doce.
+1. La contratación del Instituto Catalán del Suelo se rige por la legislación sobre contratación del sector público. Los negocios y contratos excluidos de esta legislación se rigen por su legislación específica.
+2 a 6. (Derogados).
+Se derogan los apartados 2, 2.bis y 3 a 6 por el art. 116.3 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Se añade el apartado 2 bis y se modifican los apartados 3 y 4 por el art. 150.2 y 3 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se modifica por el art. 74.5 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+
+### Artículo trece
+
+Artículo trece.
+1. La actividad del Instituto Catalán del Suelo se somete, con carácter general, a las normas de derecho civil, mercantil o laboral que le son de aplicación. No obstante:
+a) El régimen de adopción de acuerdos y funcionamiento del Consejo de Administración está sujeto a la normativa general sobre órganos colegiados, de aplicación a la Generalidad de Cataluña.
+b) En su actuación como Administración actuante en la ejecución del planeamiento está sujeto a lo establecido en la normativa urbanística vigente en Cataluña.
+c) También están sujetos al derecho público las relaciones jurídicas externas que deriven de actos de limitación, intervención, control y sanción, los expropiatorios y, en general, actos que afecten la utilización del suelo o la vivienda de acuerdo con el interés general y para evitar la especulación y que impliquen actuación de soberanía o ejercicio de potestades administrativas, incluido el régimen de impugnación de actos, el silencio administrativo y el procedimiento de recaudación.
+2. El régimen de contabilidad del Instituto es el correspondiente al sector público y su control financiero debe ajustarse a lo establecido en el artículo 71 del Decreto Legislativo 9/1994, de 13 de julio, por el que se aprueba el texto refundido de la Ley de finanzas públicas de Cataluña. La contratación del Instituto debe regirse por lo establecido en la legislación vigente en materia de contratación administrativa y, en todo caso, deben garantizarse los principios de publicidad y libre concurrencia.
+3. Los actos del Instituto Catalán del Suelo sometidos al derecho administrativo son susceptibles de recurso de alzada ante el consejero o consejera de Política Territorial y Obras Públicas. Los recursos extraordinarios de revisión se interpondrán ante el mismo órgano que haya dictado el acto impugnado.
+4. La interposición de recurso contencioso-administrativo procede de acuerdo con lo establecido en la Ley reguladora de dicha jurisdicción.
+5. El ejercicio de acciones civiles y laborales se rige por las normas de aplicación general. Las reclamaciones previas a la vía civil deben interponerse ante el consejero o consejera de Política Territorial y las reclamaciones previas a la vía laboral ante el secretario o secretaria general del Departamento de Política Territorial y Obras Públicas.
+Se modifica por el art. 27.7 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470.
+ Se modifican los apartados 2 y 4 por el art. 26 del Decreto Legislativo 16/1994, de 26 de julio. Ref. DOGC-f-1994-90017.
+
+### Disposición final primera
+
+Disposición final primera.
+El Consejo Ejecutivo, a propuesta del Departamento de Política Territorial y Obras Públicas; dictará las disposiciones para el desarrollo y la ejecución de esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Cuando el Parlamento regule, según lo que prevé el artículo 5.º del Estatuto de Cataluña, la organización territorial, se revisará el régimen jurídico y organizativo del Instituto Catalán del Suelo, integrándose una adecuada representación territorial.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrara en vigor al día siguiente de su publicación en el «Diario Oficial» de la Generalidad.
+
+### Disposición transitoria
+
+Se transfieren al Instituto Catalán del Suelo los bienes, los derechos y las obligaciones traspasadas por el Estado a la Generalidad de Cataluña, en virtud de lo dispuesto en el Real Decreto 1503/1980, de 20 de junio.
+
+Por tanto, ordeno que todos los ciudadanos a los cuales sea de aplicación esta Ley cooperen a su cumplimiento y que los Tribunales y Autoridades a los que corresponda, la hagan cumplir.
+Barcelona, 16 de diciembre de 1980.
+JOSEP M. CULELL
+ JORDI PUJOL
+ Consejero de Política Territorial y Obras Públicas
+ Presidente de la Generalidad de Cataluña

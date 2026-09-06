@@ -1,0 +1,193 @@
+# Ley 18/1990, de 15 de noviembre de 1990 de creación del Centro de Estudios Jurídicos y Formación Especializada.
+
+- Identificador BOE: `BOE-A-1990-29700`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1990-29700
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey de acuerdo con lo que se establece el artículo 33.2 del Estatuto de Autonomía, promulgo la siguiente
+LEY 18/1990, DE 15 DE NOVIEMBRE, DE CREACIÓN DEL CENTRO DE ESTUDIOS JURÍDICOS Y FORMACIÓN ESPECIALIZADA
+El Centro de Estudios Jurídicos y Formación Especializada se crea como organismo autónomo administrativo, con la finalidad de llevar a cabo tareas de formación especializada del personal del Departamento de Justicia, y de investigación en materias de su competencia.
+El antecedente inmediato de este Centro es el Centro de Estudios y Formación del Departamento de Justicia, que fue creado por el Decreto 540/83, de 6 de diciembre, como órgano de este Departamento destinado a ofrecer los elementos necesarios, en cuanto a investigación, estudios y formación especializados, para servir de apoyo a las tareas de los diferentes servicios del Departamento de Justicia. Inicialmente se orientó al servicio de la Dirección General de Protección y Tutela de Menores, necesidad que fue recogida por la Ley 11/1985, de 13 de junio, de Protección de Menores. Con el traspaso de competencias en materia penitenciaria, las actividades del Centro se ampliaron para el personal penitenciario, dadas las obligaciones de formación inicial y permanente de dicho personal. Y todavía más, tras el Decreto 320/1985, de 17 de octubre, sobre atribución de competencias en diferentes departamentos de la Generalidad de Cataluña respecto a los cuerpos especiales, el Centro se convirtió en el instrumento necesario para posibilitar el ejercicio de las competencias atribuidas en este Decreto al Departamento de Justicia, en lo que se refiere a la selección y formación del personal penitenciario. Desde 1985 la formación de personal se amplió para el personal de la Dirección General de Relaciones con la Administración de Justicia y de la Dirección General de Derecho y de Entidades Jurídicas. También comenzó a prestar apoyo a la formación del personal de los órganos judiciales de Cataluña. El volumen y la diversidad de actuaciones, por tanto, se han incrementado progresivamente a medida que las competencias del Departamento aumentaban y se requería más personal especializado para desarrollar ciertas tareas propias de cada Dirección General.
+El Centro es también una Institución que colabora con otras Instituciones y Organismos nacionales e internacionales, como las Universidades, los Institutos de Criminología y la Conferencia Europea Permanente de la «Probation»; organiza planes de prácticas para estudiantes universitarios en dependencias del Departamento —másters de ejecución penal, congresos y jornadas—, y también otorga anualmente ayudas para la investigación en materias propias del Departamento. Paralelamente, el Centro realiza publicaciones periódicas sobre resultados obtenidos en las investigaciones y en los cursos que ha llevado a cabo.
+El Centro es y será, también, una Institución colaboradora de la Escuela de Administración Pública de Cataluña, en los términos establecidos en el artículo 65 de la Ley 17/1985, de 23 de julio, Reguladora de la Función Pública de la Administración de la Generalidad, y en el artículo 3.2 de la Ley 4/1987, de 24 de marzo, Reguladora de la Escuela de Administración Pública.
+De las razones expuestas hasta ahora se desprende la conveniencia de estructurar la organización de dicho servicio público de formación y de investigación, como un Organismo autónomo con personalidad jurídica y patrimonio propios, que facilite y favorezca el cumplimiento de las tareas que le están encomendadas.
+La creación de Organismos autónomos responde a la necesidad de cumplir el principio de descentralización administrativa del artículo 103.1 de la Constitución. Dicha facultad está implícitamente establecida para la Generalidad en el artículo 9.1 del Estatuto, cuando se reconoce su competencia exclusiva para la organización de sus Instituciones de autogobierno. Paralelamente, la presente Ley cumple todos los requisitos necesarios para crear un Organismo autónomo, establecidos en el artículo 6 de la Ley de Régimen de las Entidades Estatales Autónomas, de 26 de diciembre de 1958, y se ajusta al artículo 1 de la Ley 13/1989, de 14 de diciembre, de Organización, Procedimiento y Régimen Jurídico de la Administración de la Generalidad, a la que se somete su actividad.
+Todo ello hace necesario y posible crear el Centro de Estudios Jurídicos y Formación Especializada, y constituirlo como Organismo autónomo administrativo, adscrito al Departamento de Justicia, dada la relación existente entre las funciones que le sean encomendadas y las competencias y responsabilidades de dicho Departamento.
+
+### Artículo 1
+
+Artículo 1. Naturaleza jurídica.
+1. Se crea el Centro de Estudios Jurídicos y Formación Especializada, como Organismo autónomo de carácter administrativo adscrito al Departamento de Justicia.
+2. Para cumplir sus finalidades, el Centro tiene personalidad jurídica propia, autonomía administrativa y financiera y plena capacidad de obrar en el ejercicio de sus funciones, de acuerdo con la presente Ley y con la legislación que le sea aplicable.
+3. El Centro dispone de los recursos suficientes para el cumplimiento de sus finalidades. A dichos efectos, tiene presupuesto propio, sin perjuicio de lo establecido por la Ley 10/1982, de Finanzas Públicas de Cataluña.
+
+### Artículo 2
+
+Artículo 2. Sede y ámbito.
+1. La sede del Centro de Estudios Jurídicos y Formación Especializada está en la ciudad de Barcelona.
+2. El Centro puede organizar actividades y servicios en otras localidades de Cataluña.
+
+### Artículo 3
+
+Artículo 3. Funciones del Centro.
+Corresponden al Centro de Estudios Jurídicos y Formación Especializada las funciones siguientes:
+a) Prestar soporte al Departamento de Justicia en los procesos de selección del personal que pertenece a cuerpos especiales, en colaboración con la Escuela de Administración Pública de Cataluña por lo que respecta a las competencias que le son propias.
+b) Llevar a cabo la formación especializada, inicial y permanente del personal dependiente del Departamento de Justicia.
+c) Investigar, estudiar y divulgar las materias relativas al ámbito de las competencias del Departamento de Justicia ; prestar el soporte técnico que el Departamento de Justicia le requiera en estos ámbitos, y promover en ellos, mediante becas, ayudas, premios u otros mecanismos, la investigación y la difusión.
+d) Colaborar con el Consejo General del Poder Judicial, directamente o mediante la Escuela Judicial, en la formación continuada de las personas titulares de los órganos judiciales destinadas a Cataluña, y en los otros ámbitos de interés mutuo que se establezcan por convenio.
+e) Colaborar, mediante convenios, con el Ministerio de Justicia en la formación continuada de los miembros del ministerio fiscal destinados al Tribunal Superior de Justicia de Cataluña y en la formación de las personas titulares de las secretarías judiciales destinadas a Cataluña.
+f) Organizar programas que tiendan a fomentar y a facilitar el acceso de los juristas y de los licenciados en Derecho de Cataluña, por las correspondientes vías legalmente establecidas, a las carreras judicial y fiscal y a otras profesiones jurídicas.
+g) Organizar y supervisar, sin perjuicio de las competencias en esta materia ejercibles por otros órganos del Departamento de Justicia, en colaboración con las universidades y otros centros docentes, las prácticas universitarias y de formación profesional en las oficinas judiciales y en los centros y servicios del Departamento de Justicia correspondientes a los ámbitos de la Administración de Justicia y de la ejecución penal.
+h) Mantener relaciones de intercambio de conocimientos y de profesionales con otros centros docentes e investigadores, tanto nacionales como internacionales, en las materias propias de su competencia.
+i) Dirigir, elaborar y divulgar publicaciones monográficas o periódicas sobre materias que son objeto de las actividades del Centro.
+j) Reunir un fondo bibliográfico y documental público, especializado fundamentalmente en materias que son competencia del Departamento de Justicia.
+Se modifica la letra g) por el art. 66 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Se modifica por el art. 1 de la Ley 8/2000, de 19 de junio. Ref. BOE-A-2000-13969.
+
+### Artículo 4
+
+Artículo 4. Los órganos de gobierno.
+Los órganos de gobierno y de administración del Centro son el presidente, el Consejo Rector y el Director.
+
+### Artículo 5
+
+Artículo 5. La presidencia.
+1. La presidencia del Centro de Estudios Jurídicos y Formación Especializada corresponde a la persona titular del Departamento de Justicia de la Generalidad.
+2. Son funciones de la presidencia:
+a) Ejercer la alta representación del Centro.
+b) Convocar y presidir las sesiones del Consejo Rector, con voto de calidad.
+c) Ejercer cualquier otra atribución que no esté expresamente reservada a ningún otro órgano.
+d) Informar al Parlamento de Cataluña sobre las actividades del Centro, sin perjuicio del deber de informar del director que establece el artículo 9.2.
+Se modifica por el art. 2 de la Ley 8/2000, de 19 de junio. Ref. BOE-A-2000-13969.
+
+### Artículo 5 bis
+
+Artículo 5 bis. La vicepresidencia.
+El presidente o presidenta del Centro de Estudios Jurídicos y Formación Especializada puede nombrar a una persona, entre los miembros del Consejo Rector, para que ejerza la vicepresidencia del Centro. Esta persona debe sustituir al presidente o presidenta en casos de ausencia o enfermedad y en los otros que expresamente este le delegue.
+Se añade por el art. 5 de la Ley 11/2005, de 7 de julio. Ref. BOE-A-2005-14081.
+
+### Artículo 6
+
+Artículo 6. El Consejo Rector.
+1. El Consejo Rector del Centro está integrado por la persona que lo preside y por los vocales siguientes:
+a) Tres altos cargos del Departamento de Justicia, designados por la persona que ejerce la presidencia.
+b) La persona titular de la dirección de la Escuela de Administración Pública de Cataluña.
+c) La persona titular de la Dirección General de Universidades.
+d) La persona titular de la dirección del Gabinete Jurídico de la Generalidad.
+e) Un vocal designado por la persona titular del Departamento de Interior.
+f) Cuatro vocales en representación de las universidades catalanas, que deberán ser decanos o decanas de las facultades donde se cursen estudios relacionados con las materias a las cuales se refiere el artículo 3, elegidos por el Consejo Interuniversitario.
+g) La persona titular de la dirección del Centro.
+h) Dos vocales designados por la persona titular del Departamento de Justicia, entre personas expertas de prestigio en las materias que son competencia del Departamento de Justicia.
+i) La persona titular de la dirección del Observatorio de Derecho Privado de Cataluña.
+j) Dos vocales en representación del Consejo de los Ilustres Colegios de Abogados de Cataluña.
+2. El Consejo debe nombrar un Secretario entre el personal del Centro que asista a las reuniones con voz pero sin voto. El nombramiento debe recaer en una persona que tenga la condición de funcionario público de la Generalidad de Cataluña.
+Se modifica el apartado 1 por el art. 3 de la Ley 8/2000, de 19 de junio. Ref. BOE-A-2000-13969.
+
+### Artículo 7
+
+Artículo 7. Funciones del Consejo Rector.
+1. El Consejo Rector es el órgano de deliberación, consulta, seguimiento, participación y aprobación de las actividades del Centro.
+2. Corresponden al Consejo Rector las funciones siguientes:
+a) Establecer las líneas generales del plan de actividades anuales del Centro y su aprobación.
+b) Aprobar el anteproyecto de presupuesto.
+c) Aprobar las proposiciones de estructura orgánica y de plantilla del personal, que deben ser sometidas a la aprobación definitiva de la persona titular del Departamento de Justicia o del Gobierno, según corresponda.
+d) Aprobar la memoria anual del Centro.
+e) Aprobar los convenios con otras entidades.
+f) Proponer anualmente la determinación de los derechos de matrícula y, en su caso, de las tarifas.
+g) Supervisar el desarrollo de las actividades del Centro.
+h) Emitir y elevar a la persona titular del Departamento de Justicia el informe sobre el nombramiento de la persona titular de la dirección del Centro.
+i) Deliberar e informar sobre los asuntos que la persona que ejerce la presidencia le someta.
+j) Solicitar la asistencia de profesionales de reconocido prestigio en la materia correspondiente para prestar asesoramiento en un asunto determinado.
+Se modifica el apartado 2 por el art. 4 de la Ley 8/2000, de 19 de junio. Ref. BOE-A-2000-13969.
+
+### Artículo 8
+
+Artículo 8. Funcionamiento del Consejo Rector.
+1. El Consejo Rector se reúne en sesión ordinaria dos veces al año, convocado por la persona que ejerce la presidencia y, en sesión extraordinaria, siempre que lo decida la persona que ejerce la presidencia o a instancia de una tercera parte de sus miembros.
+2. El régimen de sesiones y de acuerdos del Consejo Rector se regula por las normas sobre órganos colegiados que se aplican a la Generalidad.
+Se modifica por el art. 5 de la Ley 8/2000, de 19 de junio. Ref. BOE-A-2000-13969.
+
+### Artículo 9
+
+Artículo 9. El Director y sus funciones.
+1. El Director del Centro es nombrado y cesado por el Consejo Ejecutivo a propuesta del Consejero de Justicia y oído previamente el consejo rector.
+2. Corresponde al Director del Centro:
+a) Ejecutar los acuerdos del Consejo Rector.
+b) Presentar al Consejo Rector la propuesta del programa de actividades del Centro.
+c) Presentar al Consejo Rector el anteproyecto de presupuesto del Centro y la memoria anual.
+d) Dirigir y controlar los planes de actuación del Centro.
+e) Organizar y gestionar el Centro así como también dirigir sus servicios y su personal.
+f) Ordenar los gastos y pagos.
+g) Expedir diplomas y certificados académicos.
+h) Firmar convenios con otras instituciones que, por su naturaleza, no deban ir firmados por el Presidente del Consejo Rector. De dicha firma se informará al Consejo Rector.
+i) Contratar al personal docente e investigador no permanente necesario para cumplir los fines del Centro.
+j) Mantener relaciones con organismos análogos tanto nacionales como internacionales.
+k) Dirigir las publicaciones del Centro.
+l) Actuar como órgano de contratación en el marco de la legislación sobre la contratación administrativa.
+m) Informar al Parlamento sobre el programa anual de actividades y sobre la memoria anual del Centro.
+n) Proponer los baremos de las remuneraciones de las actividades docentes.
+Se añaden las letras l), m) y n) por el art. 6 de la Ley 8/2000, de 19 de junio. Ref. BOE-A-2000-13969.
+
+### Artículo 10
+
+Artículo 10. Patrimonio y finanzas.
+El Patrimonio y la financiación del Centro están constituidos por:
+a) Los bienes y valores que le sean adscritos para el cumplimiento de sus fines y los productos y rentas de éstos.
+b) Las transferencias y subvenciones que se consignen en los presupuestos de la Generalidad de Cataluña, o en los de otras Administraciones Públicas.
+c) Los ingresos de derecho público o privado que le correspondan, y en particular las tasas y los precios públicos que pueda recaudar por la prestación de servicios o la realización de actividades de su competencia.
+d) Los ingresos generados por la venta de sus publicaciones.
+e) Las donaciones, subvenciones y otras aportaciones que otorguen a su favor las Entidades públicas o privadas.
+f) Las contraprestaciones derivadas de los convenios.
+g) Los otros bienes que le sean atribuidos.
+
+### Artículo 11
+
+Artículo 11. Personal del Centro.
+El personal del Centro estará integrado por funcionarios de la Administración de la Generalidad. No obstante el Centro podrá disponer también de personal laboral que se regirá por la legislación correspondiente.
+
+### Artículo 12
+
+Artículo 12. Régimen jurídico.
+1. Todos los actos administrativos dimanantes de los órganos de gobierno y de administración del Centro pueden ser objeto de recurso de alzada, excepto los actos de la persona que ejerce la presidencia, que agotan la vía administrativa, contra los cuales se puede interponer el recurso potestativo de reposición. El recurso extraordinario de revisión se debe interponer ante la persona titular del Departamento de Justicia en los supuestos regulados en la legislación de procedimiento administrativo.
+2. La interposición de recurso contencioso-administrativo es procedente de acuerdo con lo que establece la Ley sobre esta jurisdicción.
+3. El ejercicio de acciones civiles y laborales se rige por las normas que le sean aplicables. La reclamación previa a la vía civil se debe presentar ante el consejero competente y la reclamación previa a la vía laboral se debe presentar ante la persona que ocupa la Secretaría del Departamento correspondiente. La resolución de la reclamación previa corresponde a la persona titular del Departamento de Justicia.
+Se modifica por el art. 7 de la Ley 8/2000, de 19 de junio. Ref. BOE-A-2000-13969.
+ Se modifica por el art. 2 del Decreto Legislativo 12/1994, de 26 de julio. Ref. DOGC-f-1994-90018.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. La dotación inicial presupuestaria del Centro de Estudios Jurídicos y Formación Especializada para el ejercicio de 1990 procederá de los remanentes de la partida 12.01.228.01 existentes al entrar en vigor la presente Ley. Asimismo, ha de disponer de los créditos correspondientes a gastos de personal hasta la cuantía máxima necesaria para atender las retribuciones y las otras cargas sociales del personal en activo al Centro de Estudios y Formación a la entrada en vigor de la presente Ley.
+2. Se autoriza al Consejo Ejecutivo para que desglose dicha dotación inicial al efecto de la gestión presupuestaria del Centro de Estudios Jurídicos y Formación Especializada.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+El personal laboral con contrato indefinido que preste sus servicios en el Centro de Estudios y Formación en el momento de la entrada en vigor de la presente Ley, cuyas plazas, al amparo de lo establecido por la Ley 17/1985, de 23 de julio, de la Función Pública, sean clasificadas como puestos de trabajo de funcionarios, podrá acceder a dicha condición mediante la superación de pruebas selectivas y por el sistema de concurso-oposición libre, siempre que cumpla las condiciones de titulación necesarias, con el reconocimiento del tiempo de servicios prestados, al efecto de computarlo en la fase de concurso de méritos. En caso de no acceder a la condición de funcionario, tendrá derecho a permanecer en su puesto de trabajo con carácter de personal laboral indefinido.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo Ejecutivo de la Generalidad a dictar las disposiciones necesarias para desarrollar la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+El Consejo rector del Centro de Estudios Jurídicos y Formación Especializada se constituirá en el plazo de seis meses contados desde la entrada en vigor de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Diario Oficial de la Generalidad de Cataluña».
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen a su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 15 de noviembre de 1990.
+AGUSTI M. BASSOLS I PARES
+ Consejero de Justicia
+ JORDI PUYOL
+ Presidente de la Generalidad de Cataluña

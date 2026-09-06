@@ -1,0 +1,607 @@
+# Ley 10/2003, de 6 de noviembre, reguladora de los Colegios Profesionales de Andalucía.
+
+- Identificador BOE: `BOE-A-2003-23110`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-23110
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+A todos los que la presente vieren, sabed:
+Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley reguladora de los Colegios Profesionales de Andalucía.
+EXPOSICIÓN DE MOTIVOS
+1
+El artículo 36 de la Constitución Española dispone que «La Ley regulará las peculiaridades propias de los Colegios Profesionales y el ejercicio de las profesiones tituladas. La estructura interna y el funcionamiento de los Colegios deberán ser democráticos», reconociendo explícitamente a los colegios profesionales, lo que constituyó una auténtica novedad en nuestra historia constitucional.
+No obstante la constitucionalización de la institución, nuestra Norma Fundamental no define a los colegios profesionales, no establece sus notas caracterizadoras, dejando al legislador ordinario la configuración de las «peculiaridades propias de su régimen jurídico», notas que la tradición jurídico administrativa ha perfilado y señalado como la personificación pública –por lo que su creación y regulación, en los aspectos esenciales, se realiza mediante normas y no en virtud de pacto asociativo–, la obligatoriedad de pertenencia al colegio para el ejercicio de la profesión y la exclusividad territorial, en cuanto que no cabe la existencia de otras entidades que ejerzan las mismas funciones en idéntico territorio.
+Es a partir de la Sentencia 23/1984, de 20 de febrero, cuando se comienza a caracterizar por el Tribunal Constitucional la figura de los colegios profesionales, en la cual, partiendo del pluralismo, de la libertad asociativa y de la existencia de entes sociales, se alude a otros entes de base asociativa representativos de intereses profesionales cuyas funciones se dirigen en parte a la consecución del interés particular de sus miembros al propio tiempo que están investidos por el legislador de prerrogativas de poder público, quien les atribuye personalidad jurídico-pública para amparar el ejercicio de potestades de esa misma índole que le son asignadas y que justifican el sometimiento de los actos emanados de ellas al Orden Jurisdiccional contencioso-administrativo.
+El reconocimiento constitucional de los colegios profesionales y su verdadero sentido institucional está, pues, estrechamente vinculado a la tutela de intereses públicos implicados en el ejercicio de profesiones tituladas. El colegio profesional cumple con una importante función social, como es servir de garantía frente a la sociedad en el correcto ejercicio profesional, ya que en el mismo se ven comprometidos valores y derechos fundamentales de los ciudadanos, presentando de esta manera un perfil público-social, al orientarse a la consecución de fines de interés colectivo.
+2
+El artículo 13.24 del Estatuto de Autonomía para Andalucía atribuye a la Comunidad Autónoma competencia exclusiva en materia de «Colegios Profesionales y ejercicio de las profesiones tituladas, sin perjuicio de lo dispuesto en los artículos 36 y 139 de la Constitución», artículos que a su vez determinan la reserva de ley respecto a la regulación de las peculiaridades propias del régimen jurídico de los colegios profesionales, añadiendo el principio democrático a la estructura interna y el funcionamiento de los mismos, y la igualdad de derechos y obligaciones de todos los españoles en cualquier parte del territorio del Estado, respectivamente.
+Al no existir en el artículo 149.1 de la Constitución Española reserva estatal de competencias sobre colegios profesionales, la competencia de la Comunidad Autónoma ex artículo 13.24 del Estatuto de Autonomía puede considerarse como competencia exclusiva, permitiéndole regular a estas corporaciones en su territorio, sin más límites que el respeto a los principios contenidos en el artículo 36 de la Constitución, como dispone el propio precepto estatutario.
+Tal exclusividad, sin embargo, no puede ser entendida como sinónimo de competencia ilimitada, ya que no cabe hacer una lectura aislada de los preceptos estatutarios, sino interpretarlos con arreglo al bloque de la constitucionalidad, dentro del cual la Constitución conserva intacta su fuerza normativa como lex superior de todo el ordenamiento, como ha afirmado el Tribunal Constitucional en la Sentencia 20/1988, de 18 de febrero.
+Y en este sentido la jurisprudencia constitucional ha reconocido que existe un especial vínculo de conexión que permite al Estado regular los colegios profesionales, al menos en sus aspectos básicos, vínculo que radica, precisamente, en la naturaleza jurídica de dichas corporaciones, pues aunque no son propiamente Administraciones Públicas, sí ostentan una personalidad jurídicopública a la que se une el ejercicio de funciones públicas que le son encomendadas por la Ley o por la Administración, viniendo caracterizadas por la normativa vigente como corporaciones de derecho público y, en atención a tales circunstancias, se consideran incluidos en el artículo 149.1.18.a de la Constitución, dentro de «las bases del régimen jurídico de las Administraciones Públicas».
+El legislador estatal no ha llevado a cabo con carácter general una tarea de identificación de las normas básicas en materia de colegios profesionales, a pesar de que la mayor parte de los preceptos de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales, son preconstitucionales. Sólo la Ley 7/1997, de 14 de abril, de Medidas Liberalizadoras en Materia de Suelo y de Colegios Profesionales, que introduce importantes modificaciones en la Ley 2/1974, especifica, por primera vez, que determinados preceptos de esta Ley tienen carácter básico, y lo hace al amparo de las cláusulas 1.a y 18.a del artículo 149.1 de la Constitución. Por su parte, el Real Decreto-Ley 6/2000, de 23 de junio, de Medidas Urgentes de Intensificación de la Competencia en Mercados de Bienes y Servicios, que introdujo algunas modificaciones a la Ley 2/1974, invoca su carácter de legislación básica al amparo del artículo 149.1.13.a y 18.a de la Constitución.
+Del mismo modo, la insuficiencia de regulación se manifiesta también en lo previsto por la disposición transitoria primera de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, según la cual sus prescripciones resultan de aplicación en este ámbito, en tanto no se complete su legislación específica. Sin embargo, la aplicación del régimen general instaurado por la Ley 30/1992 no resulta suficiente, puesto que no contempla las peculiaridades propias de los colegios profesionales, ni atiende a su estructura orgánica y su funcionamiento, como claramente demanda el artículo 36 de la Constitución.
+La presente Ley pretende, respetando e incorporando los principios básicos de la legislación del Estado sobre los colegios profesionales, constituir y completar el marco normativo de estas corporaciones de Derecho público en la Comunidad Autónoma -que se inició con la Ley 6/1995, de 28 de diciembre, de Consejos Andaluces de Colegios Profesionales-, obedeciendo, por otra parte, a las demandas expresadas por los propios colegios profesionales con ámbito territorial de actuación en Andalucía, para su integración en el modelo político-administrativo derivado de la actual organización del Estado, a fin de dotarles de un instrumento normativo que atienda eficazmente los intereses de la sociedad, así como los específicos de los profesionales a los que representan.
+3
+Por razones sistemáticas, la Ley se estructura en seis títulos, con un total de 44 artículos.
+El título I, «Disposiciones generales», incorpora la obligación de la Comunidad Autónoma de garantizar, en el ámbito de sus competencias, el ejercicio de las profesiones tituladas, conforme señala el artículo 2.1 de la Ley 2/1972, de 13 de febrero, en la redacción dada por la Ley 7/1997, artículo declarado básico y que no vino sino a reconocer la asunción de competencias por las Comunidades Autónomas en materia de colegios profesionales.
+Este principio impone a la Comunidad Autónoma la obligación de vigilancia efectiva para asegurar que el ejercicio profesional se ajuste a lo establecido en las leyes, y en concreto a la Ley sobre la Defensa de la Competencia y a la Ley sobre Competencia Desleal.
+Se establece, por otra parte, la obligatoriedad de adscripción al colegio para el ejercicio de las profesiones colegiadas, no exigiéndose al personal funcionario, estatutario o laboral al servicio de las Administraciones Públicas de Andalucía para el ejercicio de sus funciones o para la realización de actividades propias de su profesión por cuenta de aquéllas; serán dichas Administraciones las que ejerzan la tutela de los intereses públicos que tienen delegada los colegios sobre los profesionales adscritos a los mismos en virtud del ejercicio libre de la profesión.
+Las relaciones con la Administración se abordan por la Ley en su título II. Los colegios profesionales pasan a ser entes colaboradores de la Administración de la Comunidad Autónoma de Andalucía para la consecución de objetivos considerados de interés público; ejercerán las funciones atribuidas por ley, además de aquellas que, a través de convenios, pueden serles encomendadas, contribuyendo al reforzamiento de las funciones públicas que, tradicionalmente, vienen desempeñando, y fomentando su participación en la gestión de auténticas funciones públicas.
+El título III es el más extenso de la Ley, por cuanto que en él se regula la creación de los colegios profesionales, recogiendo los criterios de la jurisprudencia constitucional que erige al interés público en fundamento y principio ineludible en el momento fundacional junto a la titulación académica oficial; sus posibles modificaciones territoriales; los fines, funciones y deberes, potenciando mecanismos para asegurar una eficaz atención a los ciudadanos como usuarios de los servicios profesionales; la elaboración y contenido de los estatutos, manifestación de su potestad normativa, en cuya fase final interviene la Administración para la verificación de su legalidad y garantía de su seguridad jurídica; los derechos y obligaciones de los colegiados, y, finalmente, su estructura y organización, dotándoles de amplia autonomía en su configuración y reforzando su funcionamiento democrático.
+En el título IV se configura el régimen jurídico -atendiendo a la naturaleza mixta de los colegios, que ejercen funciones públicas encomendadas por el legislador o delegadas por la Administración, al mismo tiempo que tienen una base privada, persiguiendo y custodiando intereses particulares de sus miembros-, sometiendo su actuación jurídico-pública al Derecho Administrativo.
+En lo que se refiere al régimen jurídico de actos y acuerdos, se ha optado por la construcción de un sistema de impugnación corporativa basada en los recursos administrativos -alzada y reposición-, con la particularidad de que en los colegios profesionales únicos o de ámbito territorial autonómico, así como en aquellos que no hayan constituido el consejo andaluz de colegios respectivo, ha de crearse una comisión de recursos que conocerá y resolverá las impugnaciones de los actos colegiales.
+El régimen sancionador es regulado en el título V de la Ley, diseñándose las líneas básicas del mismo que deberán tener su específico desarrollo en los estatutos aprobados por los colegios profesionales. De esta manera, de acuerdo con la jurisprudencia constitucional, se pretende dar cumplimiento al principio de reserva de ley en la materia.
+En el título VI la Ley crea el Registro de Colegios Profesionales de Andalucía, en el que, con efectos meramente declarativos, se deberán inscribir las corporaciones profesionales que desarrollen su actuación en Andalucía.
+Por último, las disposiciones adicionales, transitorias, derogatoria y finales, vienen a completar la Ley añadiendo aquellas normas que, por su contenido, deben ser objeto de regulación separada, así como los preceptos relativos a la progresiva adaptación de los colegios profesionales de la Comunidad Autónoma a la presente Ley, y a la necesaria habilitación al Consejo de Gobierno de la Junta de Andalucía para su desarrollo reglamentario.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Ámbito de aplicación.
+La presente Ley será de aplicación a los colegios profesionales que desarrollen su actividad exclusivamente en el ámbito territorial de la Comunidad Autónoma de Andalucía, sin perjuicio de lo dispuesto en las disposiciones adicionales de esta Ley.
+
+### Artículo 2
+
+Artículo 2. Régimen jurídico.
+1. Los colegios profesionales de Andalucía se rigen, en el marco de la legislación básica del Estado, por lo dispuesto en la presente Ley y sus normas de desarrollo, y por sus respectivas leyes de creación; todo ello sin perjuicio de las leyes reguladoras de las respectivas profesiones.
+2. Los colegios profesionales de Andalucía se regirán, además, por sus estatutos y normas de funcionamiento interior.
+
+### Artículo 3
+
+Artículo 3. Ejercicio de las profesiones colegiadas.
+1. De acuerdo con lo dispuesto en el artículo 2 de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales, la Comunidad Autónoma de Andalucía, en el ámbito de sus competencias, garantiza el ejercicio de las profesiones colegiadas, de conformidad con lo dispuesto en las leyes.
+2. El ejercicio de las profesiones colegiadas en Andalucía se realizará en régimen de libre competencia y estará sujeto, en cuanto a la oferta de servicios y fijación de su remuneración, a la legislación sobre Defensa de la Competencia y sobre Competencia Desleal. Los demás aspectos del ejercicio profesional se regirán por la legislación general y por la específica sobre la ordenación sustantiva propia de cada profesión, todo ello conforme dispone la Ley 2/1974, de 13 de febrero.
+3. Los acuerdos, decisiones y recomendaciones de los colegios observarán los límites de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia, de conformidad con lo establecido en el apartado 4 del artículo 2 de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales.
+4. En todo caso, de acuerdo con lo dispuesto en el apartado 5 del artículo 2 de la Ley 2/1974, de 13 de febrero, los requisitos que obliguen a ejercer de forma exclusiva una profesión o que limiten el ejercicio conjunto de dos o más profesiones serán sólo los que se establezcan por ley.
+Los estatutos de los colegios, o los códigos deontológicos que en su caso aprueben los colegios, podrán contemplar previsiones expresas dirigidas a exigir a las personas profesionales colegiadas que su conducta en materia de comunicaciones comerciales sea ajustada a lo dispuesto en la ley, con la finalidad de salvaguardar la independencia e integridad de la profesión, así como, en su caso, el secreto profesional.
+5. De acuerdo con lo dispuesto en el apartado 6 del artículo 2 de la Ley 2/1974, de 13 de febrero, el ejercicio profesional en forma societaria se regirá por lo previsto en las leyes y, específicamente, en la Ley 2/2007, de 15 de marzo, de Sociedades Profesionales. En ningún caso los colegios profesionales ni sus organizaciones colegiales podrán, por sí mismos o a través de sus estatutos o el resto de la normativa colegial, establecer restricciones al ejercicio profesional en forma societaria.
+Se modifican los apartados 3 y 4 y se añade el 5 por el art. 1.1 y 2 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+
+### Artículo 3 bis
+
+Artículo 3 bis. Colegiación.
+1. De conformidad con lo establecido por el apartado 1 del artículo 3 de la Ley 2/1974, de 13 de febrero, quien ostente la titulación requerida y reúna las condiciones señaladas estatutariamente tendrá derecho a ser admitido en el colegio profesional que corresponda.
+2. Será requisito indispensable para el ejercicio de las profesiones hallarse incorporado al colegio profesional correspondiente cuando así lo establezca una ley estatal, según lo dispuesto en el apartado 2 del artículo 3 de la Ley 2/1974, de 13 de febrero.
+La cuota de inscripción o colegiación no podrá superar en ningún caso los costes asociados a la tramitación de la inscripción. Los colegios dispondrán los medios necesarios para que las personas solicitantes puedan tramitar su colegiación por vía telemática, de acuerdo con lo previsto en el artículo 10 de la Ley 2/1974, de 13 de febrero.
+Los colegios profesionales verificarán el cumplimiento del deber de colegiación respecto de las profesiones en las que así se haya establecido por ley estatal y, en su caso, solicitarán de las administraciones públicas las medidas pertinentes en el ámbito de sus competencias.
+3. De acuerdo con lo dispuesto en el apartado 3 del artículo 3 de la Ley 2/1974, de 13 de febrero, cuando una profesión se organice por colegios territoriales bastará la incorporación a uno solo de ellos, que será el del domicilio profesional único o principal, para ejercer en todo el territorio español. A estos efectos, cuando en una profesión sólo existan colegios profesionales en algunas comunidades autónomas, las personas profesionales se regirán por la legislación del lugar donde tengan establecido su domicilio profesional único o principal, lo que bastará para ejercer en todo el territorio español.
+Los colegios no podrán exigir a las personas profesionales que ejerzan en un territorio diferente al de colegiación comunicación ni habilitación alguna ni el pago de contraprestaciones económicas distintas de aquellas que exijan habitualmente a sus personas colegiadas por la prestación de los servicios de los que sean beneficiarios y que no se encuentren cubiertos por la cuota colegial.
+En los supuestos de ejercicio profesional en territorio distinto al de colegiación, a los efectos de ejercer las competencias de ordenación y potestad disciplinaria que corresponden al colegio del territorio en el que se ejerza la actividad profesional, en beneficio de las personas consumidoras y usuarias, los colegios deberán utilizar los oportunos mecanismos de comunicación y los sistemas de cooperación administrativa entre autoridades competentes previstos en la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio. Las sanciones impuestas, en su caso, por el colegio del territorio en el que se ejerza la actividad profesional surtirán efecto en todo el territorio español.
+4. En el caso de desplazamiento temporal de una persona profesional de otro Estado miembro de la Unión Europea se estará a lo dispuesto en la normativa vigente, en aplicación del Derecho comunitario, relativa al reconocimiento de cualificaciones, de conformidad con lo que se dispone en el apartado 4 del artículo 3 de la Ley 2/1974, de 13 de febrero.
+Se añade por el art. 1.3 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+
+### Artículo 4
+
+Artículo 4. Profesionales al servicio de la Administración.
+El requisito de la colegiación establecido en el artículo 3.3 de esta Ley no será exigible al personal funcionario, estatutario o laboral, al servicio de las Administraciones Públicas de Andalucía, para el ejercicio de sus funciones o para la realización de actividades propias de su profesión por cuenta de aquéllas.
+Téngase en cuenta que se declara la insconstitucionalidad y nulidad del inciso destacado del párrafo primero por Sentencia del TC 63/2013, de 14 de marzo de 2013. Ref. BOE-A-2013-3799
+En todo caso, será necesaria la colegiación para el ejercicio privado de la profesión.
+Se declara la insconstitucionalidad y nulidad del inciso destacado del párrafo primero por Sentencia del TC 63/2013, de 14 de marzo de 2013. Ref. BOE-A-2013-3799
+ Se levanta la suspensión de la vigencia y aplicación del inciso impugnado del párrafo primero por Auto del TC de 11 de mayo de 2004. Ref. BOE-A-2004-9707
+ Se suspende la vigencia y aplicación del inciso destacado del párrafo primero desde el 20 de febrero de 2004 para las partes del proceso y desde el 6 de abril de 2004 para los terceros, por providencia del TC de 23 de marzo de 2004 que admite a trámite el recurso de inconstitucionalidad nº 1022/2004. Ref. BOE-A-2004-6135
+
+## TÍTULO II
+
+Relaciones con la administración
+
+### Artículo 5
+
+Artículo 5. Relaciones administrativas.
+1. Los colegios profesionales y la Administración de la Comunidad Autónoma de Andalucía actúan y se relacionan de acuerdo con los principios de asistencia y cooperación, establecidos en el artículo 4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. Los colegios profesionales se relacionarán, en todo lo relativo a su régimen jurídico y aspectos institucionales y corporativos, con la Consejería que tenga atribuida la competencia sobre régimen jurídico de los mismos. En cuanto al contenido propio de la profesión, se relacionarán con las Consejerías cuyas competencias, por razón de la materia, estén vinculadas con la profesión respectiva.
+
+### Artículo 6
+
+Artículo 6. Encomienda de gestión y convenios de colaboración con la Administración.
+1. La Administración de la Comunidad Autónoma podrá encomendar a los colegios profesionales, a través de convenio, la realización de actividades de carácter material o técnico de su propia competencia, en los términos del artículo 11 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Publico.
+2. La Administración de la Comunidad Autónoma podrá suscribir convenios de colaboración con los colegios profesionales para la realización de actividades de interés común, así como para la promoción de actuaciones orientadas a la defensa del interés público y, en especial, de los usuarios de los servicios profesionales de los colegiados.
+Se modifica el apartado 1 por el art. 9.1 del Decreto-ley 26/2021, de 14 de diciembre de 2021. Ref. BOJA-b-2021-90434#a9
+
+### Artículo 7
+
+Artículo 7. Delegación de competencias.
+1. La Administración de la Comunidad Autónoma podrá delegar en los colegios profesionales de Andalucía el ejercicio de funciones administrativas relacionadas con la profesión respectiva.
+La delegación, que requerirá la aceptación expresa del colegio o colegios afectados, previo informe del consejo andaluz de colegios respectivo, en su caso, se aprobará por acuerdo del Consejo de Gobierno de la Junta de Andalucía, que será publicado en el Boletín Oficial de la Junta de Andalucía.
+2. La delegación de funciones podrá ser revocada mediante acuerdo del Consejo de Gobierno, debiendo ser publicada en el Boletín Oficial de la Junta de Andalucía.
+
+## TÍTULO III
+
+Los colegios profesionales
+
+## CAPÍTULO I
+
+Naturaleza y régimen de funcionamiento
+
+### Artículo 8
+
+Artículo 8. Naturaleza y personalidad jurídica.
+1. Los colegios profesionales son corporaciones de derecho público, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.
+2. Los colegios profesionales adquirirán personalidad jurídica y plena capacidad de obrar desde que, creados en la forma prevista en esta Ley, se constituyan sus órganos de gobierno.
+
+### Artículo 9
+
+Artículo 9. Estructura y régimen de funcionamiento.
+La estructura interna y el funcionamiento de los colegios profesionales de Andalucía deberán ser democráticos, de acuerdo con lo dispuesto en el artículo 36 de la Constitución Española.
+
+## CAPÍTULO II
+
+Creación, fusión, segregación y disolución
+
+### Artículo 10
+
+Artículo 10. Creación.
+1. La creación de colegios profesionales se acordará por ley del Parlamento de Andalucía, a petición de las personas profesionales interesadas.
+2. Sin perjuicio de lo dispuesto en el artículo 111 del Estatuto de Autonomía para Andalucía, el proyecto de ley será aprobado por el Consejo de Gobierno de la Junta de Andalucía siempre que se aprecie la concurrencia de razones de interés público que justifiquen el carácter colegiado de una determinada profesión.
+3. Sólo se podrán crear nuevos colegios profesionales respecto de aquellas profesiones que tengan titulación universitaria oficial, así como de aquellas profesiones cuyo ejercicio esté condicionado a la posesión de una determinada habilitación otorgada por la Administración pública competente.
+4. Los requisitos y el procedimiento para la creación de un colegio profesional serán objeto de desarrollo reglamentario.
+Se modifica el apartado 3 por el art. 264.1 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
+ Se modifican los apartados 1, 2 y 3 por el art. 1.4 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+
+### Artículo 11
+
+Artículo 11. Ámbito territorial.
+1. Los colegios profesionales de nueva creación extenderán su ámbito de actuación a todo el territorio de la Comunidad Autónoma, sin perjuicio de su posterior segregación de acuerdo con los requisitos y procedimiento que se prevean en sus estatutos.
+2. No podrá crearse más de un colegio profesional de idéntica profesión dentro del mismo ámbito territorial.
+
+### Artículo 12
+
+Artículo 12. Denominación.
+1. La denominación de los colegios profesionales responderá a la titulación académica oficial requerida para la incorporación a los mismos o a la profesión que representen, no pudiendo coincidir ni ser similar a la de otros colegios profesionales existentes en el ámbito territorial de la Comunidad Autónoma, ni inducir a error en cuanto a los profesionales que los integran.
+2. El cambio de denominación de un colegio, que requerirá para su aprobación orden de la persona titular de la consejería con competencias en materia de régimen jurídico de los colegios profesionales, se realizará a solicitud de la corporación interesada de acuerdo con lo que dispongan sus estatutos, a la que se acompañará informe del consejo andaluz de colegios respectivo, si estuviera creado. En el procedimiento que se tramite para su aprobación se solicitará informe de los colegios afectados.
+Se modifica el apartado 2 por el art. 9.2 del Decreto-ley 26/2021, de 14 de diciembre de 2021. Ref. BOJA-b-2021-90434#a9
+
+### Artículo 13
+
+Artículo 13. Fusión.
+1. La fusión de dos o más colegios de la misma profesión será acordada por los colegios afectados de acuerdo con lo previsto en sus estatutos, debiendo aprobarse por decreto del Consejo de Gobierno de la Junta de Andalucía, previo informe del consejo andaluz de colegios respectivo, si estuviera creado.
+2. La fusión de dos o más colegios de distinta profesión se aprobará por ley del Parlamento de Andalucía, a propuesta de la mayoría de colegios afectados y previo informe favorable de los consejos andaluces de colegios respectivos, si estuvieran creados, que deberán promover, asimismo, su propia fusión.
+
+### Artículo 14
+
+Artículo 14. Segregación.
+1. La segregación de un colegio con objeto de constituir otro de profesión o titulación diferenciada a la del colegio de origen se aprobará por ley del Parlamento de Andalucía y exigirá idénticos requisitos que para la creación.
+2. La segregación de un colegio para constituir otro de ámbito territorial inferior será aprobada por decreto del Consejo de Gobierno de la Junta de Andalucía, requiriéndose el cumplimiento de los requisitos previstos en sus estatutos, acuerdo adoptado en tal sentido por el colegio profesional e informe del consejo andaluz de colegios respectivo, si estuviera creado.
+Se modifica el apartado 1 por el art. 264.2 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
+
+### Artículo 15
+
+Artículo 15. Disolución.
+La disolución de un colegio será aprobada por decreto del Consejo de Gobierno de la Junta de Andalucía, requi riéndose el cumplimiento de los requisitos previstos en sus estatutos, acuerdo adoptado en tal sentido por el colegio profesional e informe del consejo andaluz de colegios respectivo, si estuviera creado.
+
+### Artículo 16
+
+Artículo 16. Plazos de resolución y efectos.
+1. Realizados los estudios e informes sobre la necesidad y oportunidad de elaboración del correspondiente anteproyecto de ley, la Consejería competente en materia de régimen jurídico de colegios profesionales, en el plazo de ocho meses desde que se realizó la petición a la que se refiere el artículo 10.1 de esta Ley, deberá resolver sobre la oportunidad de la creación de un colegio profesional, la fusión de dos o más colegios de distinta profesión o la segregación de un colegio con objeto de constituir otro para cuyo ingreso se exija titulación diferente a la del colegio de origen; transcurrido dicho plazo sin notificación de la resolución, se entenderá desestimada la solicitud por silencio administrativo, sin perjuicio de la obligación de la Administración de dictar resolución expresa de acuerdo con lo dispuesto en el artículo 43 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. Los procedimientos relativos al cambio de denominación de un colegio, la fusión de dos o más colegios de la misma profesión, la segregación de un colegio para constituir otro de ámbito territorial inferior y la disolución serán resueltos y notificados por la Administración en el plazo de seis meses; transcurrido dicho plazo sin notificación de la resolución, podrá entenderse estimada la solicitud, sin perjuicio de lo dispuesto en el artículo 43 de la Ley 30/1992, de 26 de noviembre.
+
+## CAPÍTULO III
+
+Fines, funciones y deberes
+
+### Artículo 17
+
+Artículo 17. Fines.
+De acuerdo con lo establecido en el artículo 1.3 de la Ley 2/1974, de 13 de febrero, y sin perjuicio de la competencia de la Administración Pública por razón de la relación funcionarial, estatutaria o laboral, son fines esenciales de las corporaciones colegiales:
+a) La ordenación del ejercicio de la profesión, dentro del marco legal respectivo y en el ámbito de sus competencias.
+b) La representación institucional exclusiva de las profesiones cuando estén sujetas a colegiación obligatoria.
+c) La defensa de los intereses profesionales de las personas colegiadas.
+d) La protección de los intereses de las personas consumidoras y usuarias de los servicios de sus personas colegiadas, sin perjuicio de las competencias que correspondan, en defensa de aquélla, a la Administración competente en materia de consumo y a las organizaciones de consumidores y usuarios legitimadas y capacitadas por la legislación de defensa y protección de los consumidores y por la normativa del orden jurisdiccional civil.
+e) La defensa de los intereses generales de la profesión, así como la consecución de su adecuada satisfacción en relación con el ejercicio de la profesión respectiva.
+f) Velar por el adecuado nivel de calidad de las prestaciones profesionales de las personas colegiadas.
+g) Controlar que la actividad de sus personas colegiadas se someta a las normas deontológicas de la profesión.
+Se modifica por el art. 1.5 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+
+### Artículo 18
+
+Artículo 18. Funciones.
+1. Los colegios profesionales ejercerán, además de las funciones establecidas en esta Ley, las competencias administrativas que les atribuya la legislación básica del Estado y la legislación autonómica.
+2. Son funciones de los colegios profesionales:
+a) Aprobar y modificar sus estatutos y reglamentos de régimen interior.
+b) Ostentar, en su ámbito, la representación y defensa de la profesión ante la Administración, instituciones, tribunales, entidades y particulares, con legitimación para ser parte en cuantos litigios afecten a los intereses profesionales, todo ello conforme a la legislación vigente.
+c) Ordenar, en el ámbito de sus competencias, la actividad profesional, elaborando las normas deontológicas comunes a la profesión respectiva.
+d) Ejercer el derecho de petición conforme a la ley.
+e) Organizar actividades y servicios comunes de carácter profesional, cultural, asistencial, de previsión y análogos, de interés para las personas colegiadas.
+f) Elaborar y aprobar los presupuestos anuales de ingresos y gastos, así como sus cuentas y liquidaciones.
+g) Establecer y exigir las aportaciones económicas de las personas colegiadas.
+h) Encargarse del cobro de las percepciones, remuneraciones u honorarios profesionales, cuando la persona colegiada lo solicite libre y expresamente, en los casos en que el colegio tenga creados los servicios adecuados y en las condiciones que se determinen en los estatutos de cada colegio, todo ello de acuerdo con lo dispuesto en el artículo 5 de la Ley 2/1974, de 13 de febrero.
+i) Crear y mantener un registro actualizado de personas colegiadas en el que conste, al menos, testimonio auténtico del título académico oficial, la fecha de alta en el colegio, el domicilio profesional, la firma actualizada y cuantas circunstancias afecten a su habilitación para el ejercicio profesional, así como el aseguramiento al que se refiere el artículo 27.c) de esta ley. Los registros de personas colegiadas deberán instalarse en soporte digital y gestionarse con aplicaciones informáticas que permitan su integración en los sistemas de información utilizados por las administraciones públicas con el objeto de facilitar a éstas el ejercicio de las funciones públicas que tienen encomendadas.
+j) Crear y gestionar el Registro de Sociedades Profesionales, en el que deberán constar los siguientes extremos: denominación o razón social y domicilio de la sociedad; fecha y reseña de la escritura de constitución y notario autorizante; duración de la sociedad si se hubiera constituido por tiempo determinado; la actividad o actividades profesionales que constituyan el objeto social; identificación de los socios profesionales y no profesionales y, en relación con aquéllos, número de colegiado y colegio profesional de pertenencia; e identificación de las personas que se encarguen de la administración y representación, expresando la condición de socio profesional o no de cada una de ellas.
+k) Informar en los procedimientos administrativos o judiciales cuando sea requerido para ello o cuando se prevea su intervención con arreglo a la legislación vigente.
+l) Facilitar a los órganos jurisdiccionales, de conformidad con las leyes, la relación de las personas colegiadas que pueden ser requeridas para intervenir como peritos, o designarlos directamente; dicha relación comprenderá, asimismo, a las personas profesionales que intervendrán, previo requerimiento, en procedimientos de justicia gratuita.
+m) Proponer y, en su caso, adoptar las medidas necesarias para evitar el intrusismo profesional y la competencia desleal, ejercitando al respecto las acciones legales pertinentes.
+n) Visar los trabajos profesionales de las personas colegiadas en los términos establecidos en la normativa básica estatal.
+ñ) Intervenir como mediador y en procedimientos de arbitraje en los conflictos que por motivos profesionales se susciten entre las personas colegiadas, entre las personas colegiadas y los ciudadanos, y entre éstos, cuando lo decidan libremente; todo ello de acuerdo con la normativa estatal vigente en materia de arbitraje.
+o) Procurar el perfeccionamiento de la actividad profesional y la formación permanente de las personas colegiadas, colaborando con las administraciones públicas en la mejora de su formación.
+p) Ejercer la potestad disciplinaria sobre las personas colegiadas en el orden profesional y colegial en los términos previstos en esta ley, en la normativa aplicable y en sus propios estatutos.
+q) Adoptar las medidas necesarias para garantizar que sus personas colegiadas cumplan con el deber de aseguramiento al que se refiere el artículo 27.c) de esta ley.
+r) Participar en los órganos consultivos de las administraciones públicas, cuando sea preceptivo o éstas lo requieran.
+s) Informar los proyectos normativos de la Comunidad Autónoma sobre las condiciones generales del ejercicio profesional o que afecten directamente a los colegios profesionales.
+t) Ejercer cuantas competencias administrativas les sean atribuidas legalmente, así como colaborar con las administraciones públicas mediante la formalización de convenios, realización de estudios o emisión de informes.
+u) Cumplir y hacer cumplir a las personas colegiadas las leyes generales y especiales y los estatutos colegiales y reglamentos de régimen interior, así como los acuerdos adoptados por los órganos colegiales en materia de su competencia.
+v) Cuantas redunden en beneficio de la protección de los intereses de las personas consumidoras y usuarias de los servicios de sus personas colegiadas, que se determinarán expresamente en los estatutos. Asimismo, los beneficios para las personas consumidoras y usuarias que se deriven de las actuaciones colegiales tendrán su reflejo en la Memoria Anual a la que se refiere el artículo 11 de la Ley 2/1974, de 13 de febrero.
+w) Atender las solicitudes de información sobre sus personas colegiadas y sobre las sanciones firmes a ellas impuestas, así como las peticiones de inspección o investigación que les formule cualquier autoridad competente de un Estado miembro de la Unión Europea, en los términos previstos en la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, en particular en lo que se refiere a que las solicitudes de información y de realización de controles, inspecciones e investigaciones estén debidamente motivadas y que la información obtenida se emplee únicamente para la finalidad para la que se solicitó, todo ello de acuerdo con lo establecido en el artículo 5.u) de la Ley 2/1974, de 13 de febrero.
+x) De conformidad con la disposición adicional cuarta de la Ley 2/1974, de 13 de febrero, podrán elaborar criterios orientativos de honorarios a los exclusivos efectos de tasación de costas y de la jura de cuentas de los abogados. Dichos criterios serán igualmente válidos para el cálculo de honorarios y derechos que corresponden a los efectos de tasación de costas en asistencia jurídica gratuita.
+y) Cuantas se encaminen al cumplimiento de los fines asignados a los colegios profesionales.
+z) Aquellas que se les atribuyan por otras normas de rango legal o reglamentario, les sean delegadas por las administraciones públicas o se deriven de convenios de colaboración.
+3. Las funciones señaladas en el apartado 2 de este artículo se entienden sin perjuicio de las que la Ley 6/1995, de 29 de diciembre, de Consejos Andaluces de Colegios Profesionales, les asigna a los mismos.
+Se modifica las letras l), n) y x) del apartado 2 por el art. 9.3 a 5 del Decreto-ley 26/2021, de 14 de diciembre de 2021. Ref. BOJA-b-2021-90434#a9
+ Se modifica el apartado 2 por el art. 1.6 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+
+### Artículo 19
+
+Artículo 19. Deberes de información y colaboración.
+1. Los colegios profesionales deberán cumplir con las obligaciones que conlleva la realización de las funciones establecidas en el artículo 18 de esta Ley y con los siguientes deberes específicos:
+a) Elaborar una carta de servicios al ciudadano que, en su caso, será informada con carácter previo por el consejo andaluz de colegios de la profesión respectiva.
+b) Ofrecer información sobre el contenido de la profesión y las personas colegiadas, respetando lo establecido en la normativa sobre protección de datos de carácter personal. En general, deberán facilitar la información que sea requerida por las administraciones públicas para el ejercicio de las competencias propias.
+c) Colaborar con las Universidades de la Comunidad Autónoma en la elaboración de los planes de estudios, sin menoscabo del principio de autonomía universitaria, y ofrecerán la información necesaria para facilitar el acceso a la vida profesional a los nuevos colegiados.
+d) Garantizar la colaboración con la Administración de la Junta de Andalucía y sus organismos dependientes en el control de las situaciones de los colegiados que, por su condición de empleados públicos a su servicio, pudieran estar afectados por causa de incompatibilidad para el ejercicio de actividades profesionales, facilitando toda aquella información que les sea requerida.
+2. El procedimiento para el cumplimiento de los deberes establecidos en el apartado anterior será objeto de desarrollo reglamentario.
+Se modifica el apartado 1.b) por el art. 1.7 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+
+## CAPÍTULO IV
+
+Estatutos
+
+### Artículo 20
+
+Artículo 20. Elaboración y aprobación.
+Los colegios profesionales elaborarán y aprobarán sus estatutos de forma autónoma, sin más limitaciones que las impuestas por el ordenamiento jurídico.
+
+### Artículo 21
+
+Artículo 21. Contenido.
+Los estatutos regularán, necesariamente:
+a) La denominación, el domicilio y el ámbito territorial del colegio, así como, en su caso, la sede de sus delegaciones y el procedimiento de creación, funcionamiento y disolución de las mismas.
+b) Los fines y funciones específicos del colegio.
+c) Los requisitos para la colegiación, haciendo mención expresa de la titulación académica oficial exigida.
+d) Las causas de denegación, suspensión y pérdida de la condición de colegiado.
+e) La denominación, composición, mandato y sistema de elección de sus órganos de gobierno, así como los requisitos para formar parte de los mismos y el procedimiento que garantice el ejercicio del voto por correo.
+f) Las funciones, normas de funcionamiento y forma de adopción de acuerdos del órgano plenario y del órgano de dirección, determinando el procedimiento y las garantías necesarias para la admisión, en los casos en que así se establezca, del voto por delegación.
+g) El procedimiento para la remoción de los órganos de gobierno por medio de la moción de censura.
+h) Los derechos y deberes de los colegiados.
+i) El régimen disciplinario, que contendrá, en todo caso, la tipificación de infracciones, las sanciones y el procedimiento, conforme a lo establecido en la presente Ley.
+j) El procedimiento de reforma de los estatutos y el número mínimo de colegiados para instar la reforma.
+k) El procedimiento de segregación y el de fusión de colegios de la misma profesión.
+l) El procedimiento de disolución y régimen de liquidación.
+m) El régimen jurídico de actos y acuerdos.
+n) El procedimiento de aprobación de actas.
+ñ) El régimen económico.
+o) Las condiciones del cobro de honorarios, para el caso de que el colegiado lo solicite, así como los servicios colegiales para su gestión.
+p) Los mecanismos de participación de los colegiados en la organización y el funcionamiento del colegio.
+q) El régimen de honores y distinciones.
+r) Todo aquello que, aún no previsto en este artículo, así se establezca en la presente Ley.
+
+### Artículo 22
+
+Artículo 22. Calificación de legalidad y aprobación definitiva.
+1. Aprobados los estatutos por el colegio profesional y previo informe del consejo andaluz de colegios de la profesión respectiva, si estuviere creado, se remitirán a la Consejería con competencia en materia de régimen jurídico de colegios profesionales, para su aprobación definitiva mediante orden de su titular, previa calificación de su legalidad.
+2. Si los estatutos no se ajustaran a la legalidad vigente, o presentaran defectos formales, se ordenará su devolución a la corporación profesional para la correspondiente subsanación, de acuerdo con el procedimiento que se establezca reglamentariamente.
+3. Transcurridos seis meses desde que los estatutos tuvieran entrada en la Consejería a la que se refiere el apartado 1 de este artículo, para su calificación de legalidad, sin haberse notificado resolución expresa, podrán entenderse aprobados, sin perjuicio de la obligación de la Administración de dictar resolución expresa en este sentido, conforme dispone el artículo 43 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+4. Aprobados definitivamente los estatutos, se ordenará su inscripción en el Registro de Colegios Profesionales de Andalucía.
+
+### Artículo 23
+
+Artículo 23. Modificación.
+1. La modificación de estatutos, una vez aprobada por el colegio profesional conforme al procedimiento establecido en sus estatutos y previo informe del consejo andaluz de colegios respectivo, si estuviera creado, se someterá a calificación de legalidad, aprobación definitiva y posterior inscripción en el Registro de Colegios Profesionales de Andalucía y de Consejos Andaluces de Colegios Profesionales, de acuerdo con las normas establecidas en el artículo anterior.
+2. No obstante, en el caso de que la modificación se refiera únicamente a la variación del domicilio o sede de la corporación, tan sólo será precisa la comunicación de tal circunstancia a la consejería competente en materia de régimen jurídico de colegios profesionales para su inscripción en el Registro de Colegios Profesionales de Andalucía y de Consejos Andaluces de Colegios Profesionales.
+Se modifica por el art. 264.3 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
+
+### Artículo 24
+
+Artículo 24. Publicación.
+Aprobados definitivamente los estatutos o sus modificaciones, se publicarán en el Boletín Oficial de la Junta de Andalucía y se inscribirán en el Registro de Colegios Profesionales de Andalucía.
+Se modifica por el art. 9.6 del Decreto-ley 26/2021, de 14 de diciembre de 2021. Ref. BOJA-b-2021-90434#a9
+
+## CAPÍTULO V
+
+Derechos y deberes de los colegiados
+
+### Artículo 25
+
+Artículo 25. Incorporación al colegio.
+Tendrán derecho a ser admitidos en el correspondiente colegio profesional quienes posean la titulación académica oficial exigida para el ejercicio de la profesión y reúnan los requisitos establecidos en los estatutos y demás disposiciones que les sean de aplicación.
+
+### Artículo 26
+
+Artículo 26. Derechos.
+1. Los colegiados tendrán, respecto a su participación en la organización y funcionamiento de los colegios, los siguientes derechos:
+a) Sufragio activo y pasivo en la elección de los miembros de los órganos de gobierno.
+b) Promover actuaciones de los órganos de gobierno por medio de iniciativas.
+c) Promover la remoción de los titulares de los órganos de gobierno mediante el voto de censura.
+d) Crear agrupaciones representativas de intereses específicos en el seno de los colegios, con sometimiento, en todo caso, a los órganos de gobierno del colegio.
+e) Conocer los acuerdos adoptados por los órganos de gobierno del colegio.
+f) Realizar todos los trámites necesarios para la colegiación, su ejercicio y su baja en el colegio profesional a través de un único punto, por vía electrónica y a distancia, de conformidad con lo dispuesto por el artículo 10 de la Ley 2/1974, de 13 de febrero.
+2. El ejercicio de tales derechos se realizará de acuerdo con lo previsto estatutariamente.
+3. La pertenencia a un colegio profesional no afectará a los derechos constitucionales de asociación y sindicación.
+Se añade la letra f) al apartado 1 por el art. 1.8 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+
+### Artículo 27
+
+Artículo 27. Deberes.
+Son deberes de los colegiados:
+a) Observar las obligaciones de la profesión y todas aquellas derivadas del interés público que justifica la creación del colegio profesional respectivo.
+b) Cumplir los estatutos, las normas de funcionamiento y régimen interior del colegio, así como los acuerdos adoptados por los órganos de gobierno.
+c) Tener cubierto mediante un seguro los riesgos de responsabilidad civil en que puedan incurrir como consecuencia del ejercicio profesional.
+
+### Artículo 28
+
+Artículo 28. Deontología profesional.
+Las actividades profesionales deberán desarrollarse de conformidad a las normas deontológicas de la profesión.
+
+## CAPÍTULO VI
+
+Organización
+
+### Artículo 29
+
+Artículo 29. Estructura colegial.
+1. Todos los colegios profesionales estarán compuestos, necesariamente, por un presidente, un órgano plenario y un órgano de dirección, así como por los órganos, jerárquicamente dependientes de los anteriores, que se determinen en los estatutos.
+2. En los colegios profesionales únicos en la Comunidad Autónoma, así como en los colegios cuyo consejo andaluz no estuviera creado, existirá una comisión de recursos.
+
+### Artículo 30
+
+Artículo 30. Presidente.
+1. El presidente, decano o cargo equivalente, ostenta la representación legal e institucional del colegio, ejecuta los acuerdos del órgano plenario y del órgano de dirección, y ejerce cuantas facultades y funciones le sean conferidas por los estatutos.
+2. Quien desempeñe el cargo de presidente, decano o cargo equivalente, deberá encontrarse en el ejercicio de la profesión.
+
+### Artículo 31
+
+Artículo 31. Órgano plenario.
+1. El órgano plenario, con la denominación de asamblea, junta general o la que figure en los estatutos, es el órgano superior de cada colegio profesional. Tiene carácter deliberante y decisorio en los asuntos de mayor relevancia de la vida colegial.
+2. El órgano plenario está integrado por todos los colegiados de pleno derecho, ejercientes o no ejercientes.
+Cuando un colegio se organice territorialmente por delegaciones, podrán establecerse en los estatutos sistemas de representación territorial por compromisarios ante el órgano plenario que garantice, en todo caso, el funcionamiento democrático.
+3. Corresponde al órgano plenario:
+a) La aprobación y reforma de los estatutos.
+b) La elección de los miembros integrantes del órgano de dirección y de su presidente, así como la remoción de los mismos por medio de la moción de censura.
+c) La aprobación del presupuesto, de las cuentas del colegio y de la gestión del órgano de dirección.
+d) Conocer y decidir sobre asuntos que por su especial relevancia así se acuerde por la mayoría de los colegiados del órgano plenario, así como cualquier otra facultad que le atribuyan los estatutos.
+4. La convocatoria, constitución, funcionamiento y competencias de la asamblea o junta general se determinarán estatutariamente.
+5. El órgano plenario se reunirá, al menos, una vez al año en sesión ordinaria, a convocatoria del órgano de dirección, con objeto de la aprobación del presupuesto anual y de la liquidación del ejercicio anterior.
+
+### Artículo 32
+
+Artículo 32. Órgano de dirección.
+1. El órgano de dirección, con la denominación de junta de gobierno, junta directiva, o la que figure en los estatutos, dirige y administra el colegio profesional, ejecuta los acuerdos del órgano plenario y ejerce la potestad disciplinaria y las demás funciones que le atribuyan los estatutos.
+2. El órgano de dirección estará integrado por el número de personas que determinen los estatutos, elegidos de entre todos los colegiados por el órgano plenario mediante sufragio universal, libre, directo y secreto.
+El voto se ejercerá personalmente, por correo u otros medios telemáticos, de acuerdo con las normas que para garantizar su autenticidad se prevean en los estatutos.
+El órgano de dirección estará formado, al menos, por el presidente, el secretario, el tesorero y un número de vocales en función del número de colegiados adscritos al colegio.
+Las personas que desempeñen el cargo de presidente o decano deberán encontrarse en el ejercicio de la profesión de que se trate. Los demás cargos deberán reunir igual condición para su acceso, salvo que los estatutos reserven alguno o algunos de ellos a los no ejercientes.
+3. La renovación de los cargos del órgano de dirección se realizará, una vez cumplido el mandato, por su totalidad o por mitades, sin perjuicio de los nombramientos provisionales para la cobertura de vacantes, todo ello de acuerdo con el procedimiento previsto estatutariamente.
+4. Los estatutos habrán de asegurar la presencia suficiente y proporcionada de representantes de las delegaciones territoriales en las que se organice el colegio profesional.
+5. Corresponde al órgano de dirección:
+a) El impulso del procedimiento de aprobación y reforma de los estatutos.
+b) La propuesta al órgano plenario de los asuntos que le competan.
+c) La elaboración del presupuesto y las cuentas del colegio.
+d) La potestad disciplinaria sobre los colegiados.
+e) El asesoramiento y apoyo técnico al órgano plenario.
+f) Cualquier otra función que le atribuyan los estatutos.
+6. El órgano de dirección se reunirá, al menos, una vez al trimestre y, en todo caso, a convocatoria de su presidente o a petición del veinte por ciento de sus componentes.
+Se modifica el apartado 2 por el art. 9.7 del Decreto-ley 26/2021, de 14 de diciembre de 2021. Ref. BOJA-b-2021-90434#a9
+
+### Artículo 33
+
+Artículo 33. Comisión de recursos.
+1. En los colegios profesionales únicos en la Comunidad Autónoma, así como en los colegios cuyo consejo andaluz no estuviera creado, existirá una comisión de recursos, órgano colegiado competente para la resolución de los recursos que, de acuerdo con esta ley, se interpongan contra los actos de los órganos de los mismos.
+2. La comisión de recursos no estará sometida a instrucciones jerárquicas del órgano de dirección de los colegios, actuando conforme a los principios, garantías, plazos y procedimiento de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. La composición, competencias y régimen de funcionamiento de la comisión de recursos se determinarán en los estatutos del colegio.
+
+## TÍTULO IV
+
+Régimen jurídico de actos y acuerdos
+
+### Artículo 34
+
+Artículo 34. Régimen jurídico.
+1. Los actos y disposiciones de los colegios profesionales adoptados en el ejercicio de funciones públicas se sujetarán al Derecho Administrativo.
+2. Las cuestiones de índole civil, penal y laboral quedarán sometidas a la normativa que en cada caso les sea de aplicación.
+
+### Artículo 35
+
+Artículo 35. Recursos.
+1. Contra los actos y acuerdos de los órganos de los colegios o los actos de trámite, si éstos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos, podrá interponerse recurso de alzada ante el respectivo consejo andaluz de colegios, en la forma y plazos regulados por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. Los actos y acuerdos de los órganos de los colegios profesionales únicos en la Comunidad Autónoma, así como de los colegios cuyo consejo andaluz no estuviera creado, podrán ser impugnados, en el plazo de un mes, ante la comisión de recursos a que se refiere el artículo 33 de esta Ley, que resolverá y notificará la resolución que corresponda en el plazo máximo de tres meses.
+3. Las resoluciones de los recursos regulados en los apartados 1 y 2 de este artículo agotan la vía administrativa, pudiendo ser impugnadas ante la jurisdicción contencioso-administrativa, de acuerdo con lo que dispone la ley reguladora de esta jurisdicción.
+
+## TÍTULO V
+
+Régimen disciplinario
+
+### Artículo 36
+
+Artículo 36. Potestad disciplinaria.
+1. Los colegios profesionales tienen competencia para sancionar a los colegiados que incurran en infracción en el orden profesional y colegial.
+2. El ejercicio de la potestad disciplinaria se ajustará, en todo caso, a los principios que rigen la potestad sancionadora y el procedimiento sancionador de las Administraciones Públicas.
+3. Nadie podrá ser sancionado sin que se haya tramitado, conforme a lo dispuesto en los estatutos, el procedimiento correspondiente, de naturaleza contradictoria, en el que se garanticen, al menos, los principios de presunción de inocencia y audiencia del afectado. Las resoluciones que pongan fin a los procedimientos deberán ser motivadas y resolverán todas las cuestiones planteadas en el expediente.
+4. Contra las resoluciones sancionadoras adoptadas por los colegios profesionales podrá interponerse el correspondiente recurso de acuerdo con lo establecido en el artículo 35 de esta Ley.
+5. Los colegios profesionales procederán, por sí mismos, a la ejecución de sus propias resoluciones sancionadoras cuando éstas pongan fin a la vía administrativa.
+
+### Artículo 37
+
+Artículo 37. Regulación estatutaria.
+1. Los colegios profesionales establecerán en sus estatutos, al menos, las siguientes previsiones:
+a) La tipificación de las infracciones, clasificándolas en muy graves, graves y leves.
+b) Las sanciones correspondientes.
+c) Las normas reguladoras del procedimiento disciplinario, separando, en todo caso, la fase instructora y la sancionadora, encomendándolas a órganos distintos.
+d) Los plazos de caducidad del procedimiento.
+e) Los órganos competentes para iniciar, instruir y resolver el procedimiento. El nombramiento de instructor no podrá recaer sobre personas que formen parte del órgano de gobierno que haya iniciado el procedimiento.
+2. Los estatutos de los colegios profesionales indicarán los hechos concretos que pertenezcan a cada uno de los tipos de infracción establecidos en los artículos 38, 39 y 40 de esta Ley, de acuerdo con las características de cada profesión y en relación con sus colegiados.
+3. La suspensión en el ejercicio de la profesión sólo se podrá establecer por la comisión de infracción grave o muy grave, y la expulsión del colegio profesional por la comisión de infracción muy grave.
+
+### Artículo 38
+
+Artículo 38. Infracciones muy graves.
+En todo caso, se considerarán infracciones muy graves las siguientes:
+a) El incumplimiento de los deberes profesionales cuando resulte perjuicio grave para las personas que hayan solicitado o concertado la actuación profesional.
+b) La vulneración del secreto profesional.
+c) El ejercicio de una profesión en situación de inhabilitación profesional o estando incurso en causa de incompatibilidad o prohibición.
+d) La comisión de delitos dolosos, en cualquier grado de participación, como consecuencia del ejercicio profesional.
+e) La comisión de, al menos, dos infracciones graves en el plazo de dos años.
+
+### Artículo 39
+
+Artículo 39. Infracciones graves.
+Constituyen infracciones graves las siguientes:
+a) El incumplimiento de las obligaciones que, respecto a los colegiados, se establecen en la presente Ley y, en su caso, en los estatutos del colegio.
+b) El incumplimiento de los acuerdos adoptados por los órganos del colegio sobre las materias que se especifiquen estatutariamente.
+c) El encubrimiento de actos de intrusismo profesional o de actuaciones profesionales que vulneren las normas deontológicas de la profesión, que causen perjuicio a las personas que hayan solicitado o concertado los servicios profesionales o que incurran en competencia desleal.
+d) El incumplimiento de los deberes profesionales cuando causen perjuicio a quienes hayan solicitado o concertado la actuación profesional.
+e) La ofensa grave a la dignidad de otros profesionales, de las personas que formen parte de los órganos de gobierno del colegio, así como de las instituciones con quienes se relacione como consecuencia de su ejercicio profesional.
+f) Los actos ilícitos que impidan o alteren el normal funcionamiento de los consejos o colegios profesionales o de sus órganos.
+g) La comisión de, al menos, cinco infracciones leves en el plazo de dos años.
+
+### Artículo 40
+
+Artículo 40. Infracciones leves.
+Constituye infracción leve la vulneración de cualquier otro precepto que regule la actividad profesional, siempre que no constituya infracción grave o muy grave y así se disponga en los estatutos de los colegios profesionales.
+
+### Artículo 41
+
+Artículo 41. Prescripción de infracciones y sanciones.
+1. De acuerdo con lo dispuesto en el artículo 132 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses, contados desde el día en que la infracción se hubiera cometido.
+Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente estuviere paralizado durante más de seis meses por causa no imputable al presunto infractor.
+2. Las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves, a los dos años, y las impuestas por faltas leves, al año, contados desde el día siguiente a aquél en que adquiera firmeza la resolución por la que se impone la sanción.
+Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causa no imputable al infractor, todo ello de conformidad con lo establecido en el artículo 132 de la Ley 30/1992, de 26 de noviembre.
+
+## TÍTULO VI
+
+Registro de Colegios Profesionales de Andalucía y de Consejos Andaluces de Colegios Profesionales
+Se modifica por el art. 264.4 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
+
+### Artículo 42
+
+Artículo 42. Creación.
+1. Se crea, a efectos de publicidad, el Registro de Colegios Profesionales de Andalucía y de Consejos Andaluces de Colegios Profesionales, que dependerá de la consejería que tenga atribuidas las competencias sobre régimen jurídico de los colegios profesionales.
+2. Las inscripciones en el Registro de Colegios Profesionales de Andalucía y de Consejos Andaluces de Colegios Profesionales tendrán efectos declarativos.
+3. La organización, funcionamiento y régimen de publicidad de su contenido se regularán reglamentariamente.
+Se modifica por el art. 264.4 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
+
+### Artículo 43
+
+Artículo 43. Obligatoriedad de la inscripción.
+La inscripción en el Registro de Colegios Profesionales de Andalucía y de Consejos Andaluces de Colegios Profesionales, que sólo podrá ser denegada por razones de legalidad, es obligatoria para todos los colegios profesionales incluidos en el ámbito de aplicación de esta ley y para los consejos andaluces de colegios profesionales constituidos conforme a la Ley 6/1995, de 29 de diciembre.
+Se modifica por el art. 264.4 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
+
+### Artículo 44
+
+Artículo 44. Contenido.
+En el Registro de Colegios Profesionales de Andalucía y de Consejos Andaluces de Colegios Profesionales deberán constar:
+a) Los colegios profesionales cuyo ámbito territorial esté comprendido exclusivamente dentro del territorio de la Comunidad Autónoma de Andalucía.
+b) Los consejos andaluces de colegios profesionales constituidos conforme a la Ley 6/1995, de 29 de diciembre.
+c) Los estatutos de los colegios profesionales de Andalucía y de los consejos andaluces de colegios profesionales, así como sus modificaciones.
+d) El nombramiento y cese de los miembros de sus órganos de gobierno.
+e) El domicilio o sede de las corporaciones y, en su caso, de sus delegaciones.
+f) La normativa deontológica.
+g) Cualquier otra circunstancia que se determine reglamentariamente.
+Se modifica por el art. 264.4 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
+
+### Disposición adicional primera
+
+Disposición adicional primera. Colegios profesionales de ámbito nacional y de ámbito suprautonómico.
+Los colegios de ámbito nacional no estarán sujetos a las previsiones de esta Ley. No obstante, los órganos de gobierno de las demarcaciones o delegaciones de aquéllos en Andalucía tendrán la consideración de órganos representativos ante la Administración Pública de la Comunidad Autónoma.
+Idéntica consideración tendrán los órganos de gobierno de las demarcaciones o delegaciones en Andalucía de los colegios cuyo ámbito territorial de actuación exceda del territorio de la Comunidad Autónoma.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Registros de personas colegiadas de profesiones sanitarias.
+El registro de personas colegiadas al que se refiere el artículo 18.2.i) deberá incluir expresamente los datos relativos a los títulos de especialistas en ciencias de la salud, así como el resto de los datos a los que se refiere el artículo 5.2 de la Ley 44/2003, de 21 de noviembre, de Ordenación de las Profesiones Sanitarias y demás normativa reglamentaria vigente.
+Se modifica por el art. 1.9 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Régimen jurídico específico de los colegios profesionales de Andalucía cuyo ámbito territorial se extiende a Ceuta y Melilla.
+A los colegios profesionales de Andalucía que tengan adscrito, dentro de su ámbito territorial, a las Ciudades Autónomas de Ceuta y Melilla, les será de plena aplicación la presente Ley exclusivamente a sus actividades en el territorio de la Comunidad Autónoma de Andalucía y a los colegiados que tengan su domicilio profesional único o principal en la misma.
+Se renumera por el art. 1.9 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+ Su anterior numeración era disposición adicional 2.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Inscripción en el Registro de Colegios Profesionales de Andalucía de las demarcaciones o delegaciones de colegios de ámbito nacional y de los colegios de ámbito suprautonómico.
+Los colegios profesionales de ámbito nacional y los colegios de ámbito suprautonómico que dispongan de demarcaciones o delegaciones permanentes en Andalucía podrán solicitar su inscripción en el Registro de Colegios Profesionales de Andalucía.
+Se renumera por el art. 1.9 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+ Su anterior numeración era disposición adicional 3.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Régimen de los Colegios de Secretarios, Interventores y Tesoreros de Administración Local.
+Los Colegios de Secretarios, Interventores y Tesoreros de Administración Local se regirán por lo dispuesto en la presente Ley en cuanto no se oponga a lo establecido en sus normas específicas.
+En todo caso, deberán cumplir con la obligación de inscripción en el Registro de Colegios Profesionales de Andalucía, establecida en el artículo 43 de la presente Ley.
+Se renumera por el art. 1.9 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+ Su anterior numeración era disposición adicional 4.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Régimen de los Colegios de Notarios.
+Los Colegios de Notarios de Andalucía se regirán por sus normas específicas y, supletoriamente, por la presente Ley en cuanto no se oponga a las peculiaridades exigidas por la función pública que ejercen sus miembros.
+No obstante lo anterior, y con carácter de mera publicidad, los Colegios Notariales deberán cumplir con la obligación de inscripción en el Registro de Colegios Profesionales de Andalucía, establecida en el artículo 43 de la presente Ley, inscripción que tendrá en cuenta su peculiar naturaleza.
+Se renumera por el art. 1.9 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+ Su anterior numeración era disposición adicional 5.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Régimen de los Colegios de Procuradores de los Tribunales.
+Los Colegios de Procuradores de los Tribunales se regirán por la presente Ley en cuanto no se oponga a las peculiaridades propias de la profesión de sus miembros.
+Se renumera por el art. 1.9 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+ Su anterior numeración era disposición adicional 6.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Organización colegial de Andalucía.
+En el ámbito de la Comunidad Autónoma de Andalucía son corporaciones colegiales los consejos andaluces de colegios profesionales y los colegios profesionales.
+Se modifica por el art. 1.11 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374
+ Se modifica por la disposición final 2 de la Ley 9/2007, de 22 de octubre. Ref. BOE-A-2007-19819#dfsegunda
+
+### Disposición adicional novena
+
+Disposición adicional novena. Régimen jurídico supletorio.
+En todo lo no previsto en esta Ley, será de aplicación, en lo que proceda, la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y la Ley de la Administración de la Junta de Andalucía.
+Se añade por el art. 1.11 de la Ley 10/2011, de 5 de diciembre. Ref. BOE-A-2011-20374.
+ Su anterior numeración era disposición adicional 8.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Adaptación de estatutos.
+Los colegios profesionales actualmente existentes en Andalucía cumplirán las obligaciones registrales previstas en esta norma y, en su caso, adaptarán sus estatutos a la presente Ley en el plazo de un año desde la entrada en vigor del reglamento previsto en el artículo 42 de esta Ley.
+Los consejos andaluces de colegios profesionales adaptarán sus estatutos a lo dispuesto en la disposición final primera de esta Ley, en el plazo de un año a partir de su entrada en vigor.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Régimen transitorio de procedimientos.
+1. Los recursos interpuestos contra actos de los colegios con anterioridad a la entrada en vigor de esta Ley, y aquellos que se interpongan con carácter previo a la adaptación estatutaria a que se refiere su disposición transitoria primera, seguirán tramitándose con arreglo a la normativa vigente en el momento de la interposición.
+2. A los procedimientos disciplinarios iniciados antes de la entrada en vigor de la presente Ley no les será de aplicación la misma, rigiéndose por la normativa anterior.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas todas las normas de igual o inferior rango en lo que se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley de Consejos Andaluces de Colegios Profesionales.
+Se modifican los artículos 3 y 11.1 c) de la Ley 6/1995, de 29 de diciembre, de Consejos Andaluces de Colegios Profesionales, que quedarán redactados en los siguientes términos:
+1. Artículo 3.
+«Los Consejos Andaluces de Colegios Profesionales adquirirán personalidad jurídica y plena capacidad de obrar desde que, creados en la forma prevista en esta Ley, se constituyan sus órganos de gobierno.»
+2. Artículo 11.1.c)
+«c) Los colegios profesionales tendrán la representación que les corresponda en los consejos andaluces de colegios respectivos, debiéndose garantizar, en todo caso, el voto ponderado de los colegios en la adopción de acuerdos por el correspondiente consejo andaluz, conforme al número de colegiados de cada corporación, todo ello de acuerdo con las peculiaridades propias de la profesión.»
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo reglamentario.
+Se faculta al Consejo de Gobierno de la Junta de Andalucía para aprobar las normas de desarrollo reglamentario de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor a los veinte días de su publicación en el Boletín Oficial de la Junta de Andalucía.
+
+### [firma]
+
+Sevilla, 6 de noviembre de 2003.
+MANUEL CHAVES GONZÁLEZ,
+PRESIDENTE

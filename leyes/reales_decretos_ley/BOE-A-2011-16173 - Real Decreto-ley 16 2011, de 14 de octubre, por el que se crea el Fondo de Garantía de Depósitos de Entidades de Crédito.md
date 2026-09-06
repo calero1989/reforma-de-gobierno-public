@@ -1,0 +1,299 @@
+# Real Decreto-ley 16/2011, de 14 de octubre, por el que se crea el Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+- Identificador BOE: `BOE-A-2011-16173`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2011-16173
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+I
+A lo largo de los últimos treinta años los sistemas de garantía de depósitos se han asentado en el entorno europeo como uno de los elementos indispensables para garantizar la confianza de ahorradores y depositantes en el conjunto del sistema bancario. En España, la temprana creación en 1977 de los primeros Fondos de Garantía de Depósitos en Establecimientos Bancarios y en Cajas de Ahorros, a los que acompañaría posteriormente el de Cooperativas de Crédito, a través de un régimen de contribuciones previas o ex ante, constituyó al mismo tiempo un síntoma de la evolución de nuestro sistema financiero y un impulso a su modernización, en un contexto de cambios sociales, políticos y económicos cruciales en nuestra historia reciente.
+Las posteriores reformas de aquel primer sistema de garantía, efectuadas a lo largo de tres décadas, se comprenden hoy, con la debida perspectiva, como hitos singulares que han acompañado el progresivo desarrollo, en complejidad, capacidad y volumen, de nuestro sistema financiero. Un primer momento de revisión del sistema tuvo lugar a principios de los años ochenta, pocos años después de su creación, ya que si bien se percibió a los fondos como un valioso instrumento para afrontar los problemas del sistema bancario, se constató que la complejidad jurídica y económica de la crisis de un establecimiento bancario hacía conveniente ampliar las posibilidades de actuación de los fondos, de modo que su objeto no fuera simplemente el de garantizar los depósitos en caso de suspensión de pagos o quiebra de una entidad, sino que alternativamente pudieran contribuir a reforzar la solvencia y el funcionamiento de las entidades, evitando en última instancia un eventual, y posiblemente más costoso, pago de depósitos.
+Desde aquel momento, los fondos de garantía de depósitos españoles han mantenido como una segunda seña de identidad –junto a la contribución ex ante– su doble objetivo o función: por un lado, garantizar los depósitos en dinero (y más tarde también en valores) constituidos en las entidades de crédito; y, por otro, realizar aquellas actuaciones necesarias para reforzar la solvencia y el funcionamiento de las entidades en dificultades, en defensa de los intereses de los depositantes y del propio Fondo. En definitiva esa doble función se identifica con un objetivo inmediato y eventual, la garantía de los ahorros de los depositantes, y un objetivo mediato y permanente, el mantenimiento de la estabilidad del sistema financiero del país, a través de la confianza de los depositantes. En lo sucesivo, tras el papel desempeñado en beneficio de la estabilidad financiera en la crisis bancaria de finales de los setenta y principios de los ochenta, la doble función de los fondos los consolidará como un elemento indispensable de seguridad de nuestras instituciones financieras, junto a la regulación y a la supervisión financiera.
+Un segundo momento o más bien etapa de revisión de nuestro sistema de garantía de depósitos tuvo lugar a partir de mediados de los años noventa, directamente relacionado con nuestra participación en el proceso de construcción europea y, más concretamente, con la integración financiera considerada imprescindible para la consecución de un mercado interior. Así, el Real Decreto-ley 12/1995 y sus normas de desarrollo incorporaron al ordenamiento jurídico español la Directiva comunitaria 94/19/CE sobre sistemas de garantía de depósitos, cuyo principal hito fue la armonización de un nivel mínimo de cobertura de los depósitos –20.000 euros– en el conjunto de la Unión Europea. Mucho después, en 2009, ese nivel alcanzará la cifra actual de 100.000 euros como cobertura de depósitos mínima y máxima para los 27 Estados miembros de la Unión Europea. Puede decirse, por tanto, que en esta segunda etapa de revisión de nuestro sistema de garantía, aparece el elemento indispensable del contexto europeo: la integración financiera conduce inexorablemente a la paulatina integración de las redes de seguridad del sistema. En conclusión, en estos más de treinta años de historia del sistema español de garantía de depósitos, de sus tres rasgos característicos o señas de identidad, los dos primeros, su doble función de garantía de depósitos y reforzamiento de entidades y su constitución como fondo de dotación ex ante, se encuentran fuertemente consolidados, en tanto que el tercero de ellos, su inserción en una red de seguridad paneuropea, aparece como un destino necesario dentro de un proceso de armonización aún no finalizado.
+II
+Con estos antecedentes históricos, el presente real decreto-ley constituye un tercer hito en la revisión de la regulación del sistema español de garantía de depósitos. Como las anteriores, esta revisión no resulta ajena al contexto y la evolución de nuestro sistema financiero, sino que, todo lo contrario, tiene lugar en el momento de culminación de la más importante reestructuración financiera de nuestra historia democrática. Después de dos años de reformas estructurales, cuyas piedras angulares son el Real Decreto-ley 9/2009, de 26 de junio, sobre reestructuración bancaria y reforzamiento de los recursos propios de las entidades de crédito, el Real Decreto-ley 11/2010, de 9 de julio, de órganos de gobierno y otros aspectos del régimen jurídico de las Cajas de Ahorros y el Real Decreto-ley 2/2011, de 18 de febrero, para el reforzamiento del sistema financiero, nos encontramos ante un momento culminante en el que este real decreto-ley opera como elemento de cierre y garantía de coherencia interna del conjunto de las reformas.
+Una vez finalizada la recapitalización del sector bancario de acuerdo con lo estipulado en el Real Decreto-ley 2/2011, de 18 de febrero, para el reforzamiento del sistema financiero, y reestructurado el subsector de las cajas de ahorros, que en el último año han pasado de 45 a 15 entidades, aumentando el volumen medio de activos de las entidades de 28.504 millones de euros a 85.512 millones y equiparando su estructura de gobierno a la de los bancos cotizados a través, fundamentalmente, de su transformación jurídica en cajas de ejercicio indirecto, el Gobierno considera imprescindible completar las reformas adecuando la regulación del sistema español de garantía de depósitos a la nueva realidad del sector.
+Dos son los principales objetivos de este Real Decreto-ley que viene a culminar la recapitalización y reestructuración del sistema financiero manteniendo los rasgos esenciales del mismo:
+– La unificación de los hasta ahora tres fondos de garantía de depósitos en un único Fondo de Garantía de Depósitos de Entidades de Crédito, que mantiene las funciones y rasgos característicos de los tres fondos a los que sustituye.
+– La actualización y fortalecimiento de la segunda función del sistema: el reforzamiento de la solvencia y funcionamiento de las entidades, también conocida como función de resolución, a fin de garantizar la actuación flexible del nuevo Fondo unificado.
+Ambos objetivos contribuyen al principio esencial que tanto las instancias financieras internacionales como el Gobierno de la nación han situado en la base de la intervención pública ante la crisis financiera: que sea el propio sector financiero quien asuma los costes ocasionados por su saneamiento y recapitalización, con el fin de que el conjunto de reformas no suponga costes para el erario público, en definitiva, para el contribuyente.
+III
+El presente real decreto-ley se compone de tres títulos, divididos en trece artículos, una disposición derogatoria, cuatro disposiciones transitorias y tres disposiciones finales.
+El Título I engloba como disposiciones generales los elementos definitorios del nuevo fondo, elementos que replican en lo fundamental los previstos hasta la fecha para los tres fondos extintos: se trata fundamentalmente de la propia norma de creación y subrogación del Fondo en la posición jurídica de los fondos disueltos, de la naturaleza y régimen jurídico de derecho privado y de las normas sobre patrimonio y organización de gobierno, a través de la Comisión Gestora del Fondo integrada por representantes de las entidades y del Banco de España.
+Por su parte, los Títulos II y III se dedican respectivamente a desarrollar las dos funciones del Fondo: la garantía de depósitos y las actuaciones en refuerzo de la solvencia y el saneamiento de entidades. Se trata, por un lado, de aportar una mayor seguridad jurídica a una legislación sobre materia sensible que se encontraba dispersa hasta este momento en una pluralidad de normas; por otro lado, se trata de aumentar la capacidad y flexibilidad de actuación del Fondo en materia de reforzamiento de capital de entidades de tal manera que sea el propio sector quien se encuentre en condiciones de apoyar el fin del proceso desde la mayor eficiencia.
+Finalmente, las disposiciones finales prevén la derogación expresa de un prolijo conjunto de normas reguladoras de los fondos de garantía hasta la fecha, en aras a la consecución de un mayor grado de seguridad jurídica. Por su parte, las disposiciones transitorias se dirigen a garantizar un tránsito sencillo y ordenado del sistema anterior basado en tres fondos sectoriales al nuevo Fondo único, regulando transitoriamente la composición de la Comisión Gestora y el régimen de aportaciones hasta el establecimiento de un sistema basado en el perfil del riesgo de cada entidad en el conjunto de la Unión Europea. Se explicita, adicionalmente, la vigencia del Real Decreto 2606/1996 y restante normativa de desarrollo en lo que no sea contrario al presente real decreto-ley.
+La adopción de las medidas contempladas en este Real Decreto-ley resulta imprescindible para reforzar la confianza en nuestro sistema financiero y culminar su proceso de recapitalización y reestructuración. En efecto, la aplicación del Real Decreto-ley 2/2011, de 18 de febrero, para el reforzamiento del sistema financiero ha alcanzado su desarrollo prácticamente pleno, de modo que es justo en este momento cuando resulta oportuna e inaplazable la reordenación del sistema de garantía de depósitos, al objeto de activar todos los recursos financieros disponibles. Adicionalmente, la especial sensibilidad de la materia hace necesario evitar cualquier eventual incertidumbre derivada del proceso de modificación de la normativa tal y como ocurrió en anteriores ocasiones en que los sistemas de garantía de depósitos fue reformado, en los años 1980, 1982 y 1995, respectivamente. Es por todo ello que la adopción de tales medidas exige acudir al procedimiento del Real Decreto-ley, cumpliéndose los requisitos del artículo 86 de la Constitución Española en cuanto a su extraordinaria y urgente necesidad.
+En su virtud, haciendo uso de la autorización contenida en el artículo 86 de la Constitución española, a propuesta de la Vicepresidenta del Gobierno de Asuntos Económicos y Ministra de Economía y Hacienda y previa deliberación del Consejo de Ministros en su reunión del día 14 de octubre de 2011, dispongo:
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Este real decreto-ley tiene por objeto la creación del Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+### Artículo 2
+
+Artículo 2. Creación del Fondo de Garantía de Depósitos de Entidades de Crédito.
+1. Se crea el Fondo de Garantía de Depósitos de Entidades de Crédito, en adelante el Fondo, al objeto de garantizar los depósitos en entidades de crédito hasta el límite previsto en este Real Decreto-ley.
+2. Se declaran disueltos el Fondo de Garantía de Depósitos en Cajas de Ahorro, el Fondo de Garantía de Depósitos en Establecimientos Bancarios y el Fondo de Garantía de Depósitos en Cooperativas de Crédito, cuyos patrimonios se integrarán en el Fondo de Garantía de Depósitos de Entidades de Crédito conforme a lo previsto en el artículo 6, subrogándose este último en todos los derechos y obligaciones de aquellos.
+Se modifica el apartado 1 por la disposición final 8.1 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
+ Se modifica el apartado 1 por la disposición final 8.1 del Real Decreto-ley 24/2012, de 31 de agosto. Ref. BOE-A-2012-11247.
+
+### Artículo 3
+
+Artículo 3. Naturaleza y régimen jurídico.
+1. El Fondo tendrá personalidad jurídica propia, con plena capacidad para el desarrollo de sus fines, en régimen de derecho privado y sin sujeción a las normas reguladoras de los organismos públicos y las sociedades mercantiles estatales.
+2. El régimen fiscal del Fondo será el siguiente:
+a) Se hallará exento del Impuesto sobre Sociedades conforme a lo previsto en el artículo 9.1.c) del texto refundido de la Ley del Impuesto sobre Sociedades aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
+b) Se hallará exento de los impuestos indirectos que pudieran devengarse por razón de su constitución, de su funcionamiento y de los actos u operaciones que realice en el cumplimiento de sus fines, incluidos los que pudieran devengarse como consecuencia de la disolución de los tres fondos preexistentes, de la integración de su patrimonio en el del Fondo y de la subrogación de este en todos sus derechos y obligaciones conforme a lo previsto en el presente real decreto-ley. Igualmente, se mantendrán las exenciones vigentes a la entrada en vigor del presente real decreto-ley sobre las operaciones gravadas por tributos indirectos cuyo importe deba repercutirse al Fondo en virtud de las disposiciones de derecho interno o comunitario que los regulen.
+
+### Artículo 4
+
+Artículo 4. Función del Fondo de Garantía de Depósitos de Entidades de Crédito.
+La función del Fondo es la de garantía de los depósitos conforme a lo previsto en este Real Decreto-ley y en su normativa de desarrollo.
+Se modifica por la disposición final 8.2 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
+ Se modifica por la disposición final 8.2 del Real Decreto-ley 24/2012, de 31 de agosto. Ref. BOE-A-2012-11247.
+
+### Artículo 5
+
+Artículo 5. Entidades adheridas.
+1. Todas las entidades de crédito españolas pertenecerán con carácter obligatorio al Fondo de Garantía de Depósitos de Entidades de Crédito previsto en este Real Decreto-Ley.
+La obligación establecida en el párrafo anterior no será de aplicación al Instituto de Crédito Oficial.
+El Banco de España comunicará a la Autoridad Bancaria Europea, a la mayor brevedad posible, la adhesión de una entidad de crédito al Fondo.
+2. Las sucursales de entidades de crédito de Estados no miembros de la Unión Europea que operen en España se incorporarán al Fondo en los supuestos y forma que reglamentariamente se determinen. No obstante lo anterior, cuando estas entidades ofrezcan un nivel de protección a los depositantes igual o superior al establecido en este Real Decreto-Ley y en su normativa de desarrollo, se podrá disponer su no adhesión al Fondo.
+3. El incumplimiento de las obligaciones de una entidad de crédito frente al Fondo de Garantía de Depósitos de Entidades de Crédito será tipificado como infracción grave de conformidad con lo establecido en la Ley 10/2014, de 26 de junio, de ordenación supervisión y solvencia de entidades de crédito, salvo que dicho incumplimiento tenga un carácter ocasional o aislado o sea subsanado en un periodo de tiempo razonable.
+Estos incumplimientos serán comunicados por el Fondo de Garantía de Depósitos de Entidades de Crédito al Banco de España, quien, previa consulta al Fondo, impondrá las medidas necesarias para que la entidad retorne al cumplimiento de sus obligaciones.
+Las entidades de crédito podrán ser excluidas del Fondo una vez que hayan fracasado las medidas adoptadas conforme al párrafo anterior. Será competente para acordar la exclusión el titular del Ministerio de Economía y Competitividad, a propuesta del Banco de España y previo informe de la Comisión Gestora del Fondo.
+4. Las entidades de crédito que deseen trasladar su actividad a otro Estado miembro de la Unión Europea deberán comunicarlo al Fondo con al menos seis meses de antelación. Durante el periodo que transcurra hasta el traslado, la entidad contribuirá al compartimento de garantía de depósitos en los términos previstos en este Real Decreto-Ley y en su normativa de desarrollo.
+Las aportaciones al compartimento de garantía de depósitos del Fondo por entidades de crédito que transfieran su actividad a otros Estados miembros de la Unión Europea y queden, por tanto, sujetas a otro sistema de garantía de depósitos serán transferidas a dicho sistema en los términos que reglamentariamente se determinen.
+En ningún caso se reembolsarán aportaciones abonadas antes de los 12 meses previos al traslado ni las realizadas en virtud del artículo 6.2.b) debiendo la entidad en cuestión, antes de transferir su actividad, satisfacer los importes que existiesen pendientes de desembolsar por aportaciones aprobadas conforme a dicho artículo.
+Se modifica por la disposición final 10.1 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfdecima.
+
+### Artículo 6
+
+Artículo 6. Patrimonio.
+1. Para el cumplimiento de sus funciones el Fondo se nutrirá de los siguientes recursos:
+a) Las aportaciones anuales previstas en los apartados siguientes.
+b) Las derramas que realice el Fondo entre las entidades adheridas al mismo, distribuidas según la base de cálculo de las aportaciones y con los límites que reglamentariamente se determinen. Estas derramas se registrarán como patrimonio una vez sean acordadas.
+c) Los recursos captados en los mercados de valores, préstamos o cualesquiera otras operaciones de endeudamiento.
+En todo caso, cuando el patrimonio del Fondo resulte insuficiente para el desarrollo de sus funciones, el Fondo realizará las actuaciones necesarias para restaurar su suficiencia.
+Adicionalmente, el compartimento de garantía de depósitos podrá nutrirse de los compromisos de pago de las entidades frente al Fondo siempre que tales compromisos:
+a) Estén íntegramente respaldados por garantías de activos de bajo riesgo, libres de cargas y de libre disposición para el Fondo.
+b) No excedan del 30% de los recursos totales disponibles del compartimento.
+2. Los recursos obtenidos conforme al apartado anterior se asignará a uno de los siguientes compartimentos contablemente separados en los que se dividirá el Fondo:
+a) Compartimento de garantía de depósitos
+b) Compartimento de garantía de valores.
+Cada compartimento responderá exclusivamente de los costes, gastos y obligaciones que expresamente le atribuyan este Real Decreto-Ley y su normativa de desarrollo.
+En todo caso, el Fondo asignará a cada compartimento las obligaciones derivadas de la captación de los recursos obtenidos conforme a la letra c) del apartado anterior atendiendo a la utilización prevista de los recursos captados.
+Adicionalmente, la contribución de cada compartimento a los costes, gastos y obligaciones que no hayan sido atribuidos expresamente a ningún compartimento se calculará en función del importe de los depósitos o los valores que garantiza cada compartimento, en los términos que reglamentariamente se determinen.
+3. La Comisión Gestora determinará el importe de las aportaciones anuales de las entidades al compartimento de garantía de depósitos.
+Las aportaciones anuales se calcularán en función del importe de los depósitos garantizados de cada entidad y su perfil de riesgo.
+El Banco de España desarrollará los métodos necesarios para que las aportaciones sean proporcionales al perfil de riesgo de las entidades. A estos efectos, tendrá en cuenta, entre otros, los siguientes factores:
+a) La diferencia entre el nivel legal previsto para los principales indicadores derivados de la normativa de solvencia y el efectivamente mantenido por la entidad.
+b) La diferencia entre el volumen de fondos propios y pasivos computables para el requisito mínimo de fondos propios y pasivos admisibles, exigido a la entidad de conformidad con la Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades de crédito y empresas de servicios de inversión, y el efectivamente mantenido por la entidad.
+c) Las directrices que, en su caso, haya establecido al respecto la Autoridad Bancaria Europea en virtud del artículo 13.3 de la Directiva 2014/49/UE del Parlamento Europeo y del Consejo, de 16 de abril de 2014, relativa a los sistemas de garantía de depósitos.
+d) La fase del ciclo económico y el impacto de las aportaciones procíclicas.
+e) Las entidades de crédito que pertenezcan a un sistema institucional de protección de los previstos en el artículo 113.7 del Reglamento (UE) n.º 575/2013, de 26 de junio, del Parlamento Europeo y del Consejo, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012, que haya constituido un fondo ex ante que garantice que el sistema institucional de protección tiene fondos directamente a su disposición para medidas de apoyo a la liquidez y solvencia y que contribuyan a la prevención de la resolución, podrán realizar aportaciones de menor cuantía al Fondo de Garantía de Depósitos.
+Respecto a los sistemas institucionales de protección referidos en la disposición adicional quinta de la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de las entidades de crédito, las entidades centrales y las entidades de crédito integrantes de dichos sistemas, estarán sujetas globalmente a la ponderación por riesgo determinada a efectos del cálculo de las contribuciones al Fondo de Garantía de Depósitos, para la entidad central y las integrantes de forma consolidada.
+4. Los recursos financieros disponibles del compartimento de garantía de depósitos deberán alcanzar como mínimo el 0,8 por ciento del importe de los depósitos garantizados.
+No obstante, el Fondo podrá solicitar a la Comisión Europea la reducción de este nivel hasta el 0,5 por ciento atendiendo a factores como:
+a) La escasa probabilidad de que una parte significativa de los recursos del compartimento de garantía de depósitos se utilicen para medidas de protección de los depositantes distintas de procedimientos de resolución.
+b) La probabilidad de que las entidades de crédito se vean sujetas a procedimientos de resolución en caso de quiebra debido al alto grado de concentración del sector bancario y al gran volumen de los activos de las principales entidades.
+5. Las aportaciones anuales previstas en el apartado 1.a) al compartimento de garantía de valores no podrán superar el 0,3 por ciento del importe de los valores garantizados.
+6. Las aportaciones a un compartimento se suspenderán cuando el fondo patrimonial no comprometido en operaciones propias del objeto de dicho compartimento iguale o supere el 1 por ciento de los importes totales garantizados por el compartimento.
+Se añade la letra e) al apartado 3 por el art. 2 del Real Decreto-ley 11/2017, de 23 de junio. Ref. BOE-A-2017-7230#as.
+ Se modifica por la disposición final 10.2 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfdecima.
+ Se modifica el apartado 2.b) por la disposición final 4.1 del Real Decreto-ley 2/2012, de 3 de febrero. Ref. BOE-A-2012-1674.
+ Se modifica el apartado 2 y se añade el 3 por el art. único.1 y 2 del Real Decreto-ley 19/2011, de 2 de diciembre. Ref. BOE-A-2011-19035.
+
+### Artículo 7
+
+Artículo 7. Comisión Gestora.
+1. El Fondo será regido y administrado por una Comisión Gestora integrada por once miembros, un representante del Ministerio de Economía y Competitividad, uno del Ministerio de Hacienda y Administraciones Públicas, cuatro designados por el Banco de España y cinco por las asociaciones representativas de las entidades de crédito adheridas, en los términos previstos reglamentariamente.
+2. El representante del Ministerio de Economía y Competitividad será el Secretario General del Tesoro y Política Financiera, que ostentará la Vicepresidencia de la Comisión Gestora y sustituirá al Presidente en sus funciones en caso de vacante, ausencia o enfermedad.
+El representante del Ministerio de Hacienda y Administraciones Públicas será el Interventor General del Estado.
+Los representantes del Banco de España serán designados por su Comisión ejecutiva. Uno de ellos será el Subgobernador que ostentará la Presidencia de la Comisión.
+Los representantes de las entidades adheridas serán designados tres por las asociaciones representativas de bancos, uno por las de cajas de ahorros y uno por las de Cooperativas de Crédito, en los términos que se prevean reglamentariamente.
+Las personas designadas por las entidades adheridas serán personas de reconocida honorabilidad comercial y profesional y poseerán conocimientos y experiencia adecuados para el ejercicio de sus funciones. En la determinación de las citadas condiciones se atenderá a los criterios contemplados en el artículo 2 del Real Decreto 1245/1995, de 14 de julio, sobre Creación de Bancos, Actividad transfronteriza y otras cuestiones relativas al Régimen jurídico de las Entidades de crédito.
+Los titulares de los respectivos departamentos ministeriales nombrarán un representante suplente del Ministerio de Economía y Competitividad y uno del Ministerio de Hacienda y Administraciones Públicas. Asimismo, por el mismo procedimiento previsto anteriormente se nombrarán dos suplentes por el Banco de España y uno por cada uno de los designados por las entidades adheridas, que sustituirán a los titulares en caso de vacante, ausencia o enfermedad. En el caso de los representantes de las entidades, también deberán ser sustituidos por indicación del Presidente de la Comisión Gestora del Fondo, cuando la Comisión Gestora vaya a tratar cuestiones que afecten directamente a una entidad o grupo de entidades con los que esté vinculado como administrador, directivo, contrato laboral, civil o mercantil o cualquier otra relación que pudiese menoscabar la objetividad de sus decisiones, determinando su abstención.
+3. La duración del mandato de los miembros de la Comisión Gestora será de cuatro años renovables.
+4. Los representantes de las entidades de crédito adheridas al Fondo cesarán en su cargo por las causas siguientes:
+a) Expiración del término de su mandato.
+b) Renuncia.
+c) Separación acordada por la Comisión Gestora por incumplimiento grave de sus obligaciones, incapacidad permanente para el ejercicio de su función o falta sobrevenida de honorabilidad.
+5. Para la validez de las reuniones de la Comisión Gestora será necesaria la asistencia de la mitad de sus miembros. Sus acuerdos se adoptarán por mayoría de sus miembros.
+No obstante, se requerirá mayoría de dos tercios para acordar la realización de aquellas derramas que establezcan la obligación de efectuar pagos adicionales a las aportaciones anuales ordinarias o que adelanten el pago de estas últimas, así como para las medidas contempladas en el marco de los planes de resolución a los que se hace referencia en el artículo 11.
+6. La Comisión Gestora establecerá sus propias normas de funcionamiento para el debido ejercicio de sus funciones.
+7. La pertenencia a la Comisión Gestora no dará derecho a ningún tipo de compensación económica.
+Se modifica por la disposición final 9 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
+ Se modifica el apartado 5, párrafo segundo por la disposición final 4.2 del Real Decreto-ley 2/2012, de 3 de febrero. Ref. BOE-A-2012-1674.
+ Se modifica el apartado 5 por el art. único.3 del Real Decreto-ley 19/2011, de 2 de diciembre. Ref. BOE-A-2011-19035.
+
+## TÍTULO II
+
+Función de garantía de depósitos
+
+### Artículo 8
+
+Artículo 8. Garantía de depósitos.
+1. El Fondo, con cargo únicamente al compartimento de garantía de depósitos, satisfará a sus titulares el importe de los depósitos garantizados en los términos previstos reglamentariamente cuando se produzca alguno de los siguientes hechos:
+a) Que la entidad haya sido declarada o se tenga judicialmente por solicitada la declaración en concurso de acreedores.
+b) Que, habiéndose producido impago de depósitos, el Banco de España determine que la entidad se encuentra en la imposibilidad de restituirlos inmediatamente por razones directamente relacionadas con su situación financiera. El Banco de España tomará dicha determinación a la mayor brevedad posible y, en cualquier caso, deberá resolver dentro del plazo máximo que se determine reglamentariamente, tras haber comprobado que la entidad no ha logrado restituir los depósitos vencidos y exigibles.
+2. El Fondo, con cargo únicamente al compartimento de garantía de valores, satisfará a los titulares de valores u otros instrumentos financieros confiados a una entidad de crédito los importes garantizados cuando se produzca alguno de los siguientes hechos:
+a) Que la entidad de crédito haya sido declarada o se tenga judicialmente por solicitada la declaración de concurso de acreedores, y esas situaciones conlleven la suspensión de la restitución de los valores o instrumentos financieros; no obstante, no procederá el pago de esos importes si, dentro del plazo previsto reglamentariamente para iniciar su desembolso, se levantase el concurso mencionado.
+b) Que, habiéndose producido la no restitución de los valores o instrumentos financieros, el Banco de España determine que la entidad de crédito se encuentra en la imposibilidad de restituirlos en el futuro inmediato por razones directamente relacionadas con su situación financiera. El Banco de España tomará dicha determinación a la mayor brevedad posible y, en cualquier caso, deberá resolver sobre la procedencia de la indemnización dentro del plazo máximo que se determine reglamentariamente.
+3. Todos los pagos que realice el Fondo en virtud de los dos apartados anteriores se realizarán en euros, bien en efectivo o mediante otro medio de pago de general aceptación, valorándose para ellos los valores u otros instrumentos financieros en la forma que reglamentariamente se determine.
+Por el mero hecho del pago, el Fondo quedará subrogado en los derechos del acreedor o inversor correspondientes al importe pagado, siendo suficiente título el documento en que conste el pago.
+En el supuesto de que los valores u otros instrumentos financieros confiados a la entidad fuesen restituidos por ésta con posterioridad al pago, de un importe garantizado en función del apartado 2 de este artículo, el Fondo podrá resarcirse del importe satisfecho, total o parcialmente, si el valor de los que haya de restituir fuese mayor que la diferencia entre el de los que fueron confiados a la entidad y el importe pagado al inversor, estando facultado, a tal fin, a enajenarlo en la cuantía que resulte procedente, según el procedimiento y criterio de atribución y valoración que reglamentariamente se establezca.
+Se modifican los apartados 1 y 2 por la disposición final 10.3 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfdecima.
+ Se modifica la letra b) del apartado 1 por la disposición final 8.3 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
+ Se modifica la letra b) del apartado 1 por la disposición final 8.3 del Real Decreto-ley 24/2012, de 31 de agosto. Ref. BOE-A-2012-11247.
+
+### Artículo 9
+
+Artículo 9. Otras garantías.
+El Fondo indemnizará a los inversores que hayan confiado a una entidad de crédito adherida a ellos recursos dinerarios, valores u otros instrumentos financieros, para su depósito y administración o para la realización de algún servicio de inversión de los contemplados en la Ley 24/1988, de 28 de julio, del Mercado de Valores, en los supuestos previstos en el artículo anterior. Dicha cobertura tendrá el la forma, plazo y alcance que reglamentariamente se determinen.
+
+### Artículo 10
+
+Artículo 10. Importes garantizados.
+1. El importe garantizado de los depósitos tendrá como límite la cuantía de 100.000 euros o, en el caso de depósitos nominados en otra divisa, su equivalente aplicando los tipos de cambio correspondiente, conforme todo ello a los términos previstos reglamentariamente.
+Adicionalmente, quedarán garantizados los siguientes depósitos con independencia de su importe durante tres meses a contar a partir del momento en que el importe haya sido abonado o a partir del momento en que dichos depósitos hayan pasado a ser legalmente transferibles:
+a) Los procedentes de transacciones con bienes inmuebles de naturaleza residencial y carácter privado.
+b) Los que se deriven de pagos recibidos por el depositante con carácter puntual y estén ligados al matrimonio, el divorcio, la jubilación, el despido, la invalidez o el fallecimiento.
+c) Los que estén basados en el pago de prestaciones de seguros o en la indemnización por perjuicios que sean consecuencia de un delito o de un error judicial.
+2. El importe garantizado a los inversores que hayan confiado a la entidad de crédito valores o instrumentos financieros será independiente del previsto en el párrafo precedente y alcanzará como máximo la cuantía de 100.000 euros, en los términos previstos reglamentariamente.
+Se modifica el apartado 1 por la disposición final 10.4 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfdecima.
+
+### Artículo 11
+
+Artículo 11. Medidas de apoyo a la resolución de una entidad de crédito.
+1. Para el cumplimiento de la función prevista en el artículo 4 y en defensa de los depositantes cuyos fondos están garantizados y del propio Fondo, este podrá adoptar medidas de apoyo a la resolución de una entidad de crédito con cargo al compartimento de garantía de depósitos.
+A estos efectos, cuando una entidad de crédito se encuentre en un proceso de resolución conforme a lo dispuesto en la Ley 11/2015, de 18 de junio, el Fondo, dentro del marco del plan de resolución aprobado, participará en la financiación de la resolución de entidades de crédito con arreglo al artículo 53.7 de la citada ley.
+2. El Fondo podrá solicitar a la Comisión Rectora del FROB la información relativa al proceso de resolución necesaria para facilitar su participación conforme a lo previsto en este artículo. Con el traslado de esta información, el Fondo quedará sometido al régimen de deber de secreto previsto en el artículo 59 de la Ley 11/2015, de 18 de junio.
+3. El FROB determinará, previa consulta con el Fondo, el importe del que este sea responsable. En cualquier caso, el Fondo de Garantía de Depósitos de Entidades de Crédito no podrá asumir un coste financiero superior a la menor de las siguientes cuantías:
+a) La cuantía del desembolso que hubiese tenido que realizar de optar, en el momento de apertura del proceso de resolución, por realizar el pago de los importes garantizados en caso de liquidación de la entidad. En caso de que, de acuerdo con la valoración posterior prevista en el artículo 5.3 de la Ley 11/2015, de 18 de junio, se concluya que la contribución del Fondo a la resolución ha sido mayor que las pérdidas netas en las que hubiera incurrido en caso de liquidación con arreglo a la legislación concursal, el Fondo de Resolución Nacional pagará al Fondo de Garantía de Depósitos de Entidades de Crédito la diferencia entre ambas cuantías.
+b) El 50 por ciento del nivel objetivo fijado para el compartimento de garantía de depósitos en virtud del artículo 6.4.
+4. Cuando el Fondo realice pagos en el contexto de un procedimiento de resolución bancaria, tendrá derecho a reclamar a la entidad de crédito de que se trate un importe igual a sus desembolsos.
+5. Excepcionalmente, siempre y cuando no se haya iniciado un proceso de resolución, el Fondo podrá utilizar sus recursos para impedir la liquidación de una entidad de crédito cuando:
+a) el coste de esta intervención fuese inferior al pago de los importes garantizados en caso de materializarse la liquidación.
+b) se impongan a la entidad de crédito medidas específicas de retorno al cumplimiento de la normativa de solvencia, ordenación y disciplina.
+c) se condicione la intervención al compromiso de la entidad de garantizar el acceso a los depósitos garantizados.
+d) el fondo estime asumible el coste con cargo a las contribuciones ordinarias o extraordinarias de las entidades adheridas.
+Reglamentariamente, se podrán especificar las condiciones anteriores.
+Se modifica por la disposición final 10.5 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfdecima.
+ Se añade por la disposición final 8.5 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
+ Téngase en cuenta que este artículo ya había sido añadido por el Real Decreto-ley 24/2012, de 31 de agosto.
+ Se añade por la disposición final 8.5 del Real Decreto-ley 24/2012, de 31 de agosto. Ref. BOE-A-2012-11247.
+
+### Artículo 12
+
+Artículo 12. Pruebas de resistencia.
+1. El Banco de España someterá al Fondo, al menos cada 3 años, a pruebas de resistencia de su capacidad para hacer frente a sus obligaciones de pago en situaciones de tensión.
+Téngase en cuenta que lo previsto en el apartado 1 entra en vigor el 3 de julio de 2017, según establece la disposición final 17.2.b) de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfdecimoseptima.
+2. El Fondo deberá facilitar al Banco de España la información necesaria para realizar las pruebas de resistencia. El Banco de España únicamente podrá utilizar esta información para la realización de dichas pruebas y no la conservará más tiempo del necesario para tales fines.
+Se añade por la disposición final 10.6 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfdecima.
+ Téngase en cuenta que lo previsto en el apartado 1 entra en vigor el 3 de julio de 2017, según establece la disposición final 17.2.b) de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfdecimoseptima.
+
+## TÍTULO III
+
+Función de refuerzo de la solvencia y funcionamiento de las entidades de crédito
+
+### Artículo 11
+
+Artículo 11. Medidas preventivas y de saneamiento tendentes a facilitar la viabilidad de una entidad.
+1. Sin perjuicio de lo previsto en el artículo siguiente, cuando la situación de una entidad de crédito, según la información facilitada por el Banco de España, sea tal que haga previsible que el Fondo quede obligado al pago, conforme a las causas previstas reglamentariamente, el Fondo podrá adoptar medidas preventivas y de saneamiento tendentes a facilitar la viabilidad de la entidad para superar la situación de crisis, en el marco de un plan de actuación acordado por la entidad y aprobado por el Banco de España.
+2. Todo plan de actuación que contenga medidas que requieran aprobación de la Junta o Asamblea general de la entidad afectada, se considerará condicional y no se ejecutará hasta que recaigan los acuerdos que lo hagan posible.
+Entretanto, si lo requiriese la situación de la entidad, el Fondo podrá prestar ayudas provisionales, siempre que se encuentren debidamente garantizadas, a juicio de la Comisión Gestora.
+3. Al adoptar estas medidas, el Fondo tendrá en cuenta el coste financiero de las mismas a su cargo que se comparará con los desembolsos que hubiese tenido que realizar de optar, en el momento de la adopción del plan, por realizar en lugar de éste el pago de los importes garantizados.
+
+### Artículo 12
+
+Artículo 12. Medidas de apoyo a la reestructuración y el reforzamiento de los recursos propios de una entidad.
+Medidas de apoyo a la reestructuración y el reforzamiento de los recursos propios de una entidad.
+1. En caso de que se proceda a la reestructuración ordenada de una entidad de crédito realizada dentro del correspondiente plan aprobado por el Banco de España en los supuestos previstos en el artículo 7.1 del Real Decreto-ley 9/2009, de 26 de junio, sobre reestructuración bancaria y reforzamiento de los recursos propios de las entidades de crédito, la Comisión Gestora del Fondo de Garantía de Depósitos en Entidades de Crédito podrá ejecutar cualquiera de las actuaciones previstas en el artículo 13.1 en favor de las entidades financieras participantes en la reestructuración hasta el límite de las pérdidas ocasionadas por tal operación.
+Del mismo modo, en caso de que se adopten medidas de apoyo financiero para el reforzamiento de los recursos propios de una entidad de crédito en virtud del artículo 9 del Real Decreto-ley 9/2009, de 26 de junio, la Comisión Gestora del Fondo de Garantía de Depósitos en Entidades de Crédito podrá ejecutar cualquiera de las actuaciones previstas en el artículo 13.1 en favor de las entidades financieras participantes en la operación hasta el límite de las pérdidas ocasionadas por tal operación.
+2. La Comisión Gestora podrá acordar lo previsto en el apartado anterior teniendo en cuenta el beneficio del conjunto del sistema de entidades adheridas y siempre que la estimación del coste a su cargo resultase inferior a los desembolsos que hubiese tenido que realizar de optar, en el momento de la adopción del plan, por realizar en lugar de éste el pago de los importes garantizados.
+Se modifica por el art. único.4 del Real Decreto-ley 19/2011, de 2 de diciembre. Ref. BOE-A-2011-19035.
+
+### Artículo 13
+
+Artículo 13. Contenido de los planes de actuación.
+1. El plan de actuación para una entidad en crisis al que se hace referencia en el artículo 11 anterior que contemple ayudas del Fondo de Garantía de Depósitos de Entidades de Crédito, podrá comprender las siguientes actuaciones:
+a) Ayudas financieras, que podrán consistir en ayudas a fondo perdido, concesión de garantías, préstamos en condiciones favorables, financiaciones subordinadas, adquisición por el fondo de activos dañados o no rentables que figuren en el balance de la entidad y cualesquiera otros apoyos financieros.
+b) Reestructuración del capital de la entidad, que podrá conllevar, entre otras medidas, la adecuada aplicación de los recursos propios de la entidad para absorber sus pérdidas, atendiendo a la singularidad de cada caso; facilitar procesos de fusión o absorción con otras entidades de reconocida solvencia o el traspaso de su negocio a otra entidad de crédito; suscripción por el Fondo de ampliaciones de capital, conforme a lo dispuesto en los apartados siguientes, y la adopción por los órganos correspondientes de la entidad afectada de todos aquellos acuerdos que aseguren la adecuada aplicación de las ayudas prestadas por el Fondo.
+c) Medidas de gestión que mejoren la organización y los sistemas de procedimiento y control interno de la entidad.
+2. Las medidas previstas en este artículo deberán ir encaminadas a procurar la viabilidad de la entidad en un plazo razonable, a juicio del Fondo, bien reforzando el patrimonio y solvencia de la misma, bien facilitando su fusión o absorción por otra de reconocida solvencia o el traspaso de su negocio a otra entidad de crédito.
+
+### Disposición adicional primera
+
+Disposición adicional primera. División en compartimentos del patrimonio del Fondo de Garantía de Depósitos de Entidades de Crédito.
+Los derechos adquiridos y las obligaciones contraídas por el Fondo de Garantía de Depósitos de Entidades de Crédito antes de la fecha de entrada en vigor de la Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades de crédito y empresas de servicios de inversión, se atribuirán exclusivamente al compartimento de garantía de depósitos.
+Se añade por la disposición final 10.7 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfdecima.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Plazo para dotación del Fondo de Garantía de Depósitos en Entidades de crédito.
+1. El nivel de recursos financieros del Fondo de Garantía de Depósitos en Entidades de crédito exigido en el artículo 6.4, se deberá alcanzar no más tarde del 3 de julio de 2024.
+Sin perjuicio de lo previsto en el párrafo anterior, la obligación de las entidades de contribuir únicamente nacerá cuando el Fondo exija, especificando para cada entidad la cuantía correspondiente, las contribuciones ordinarias o extraordinarias, sin que puedan derivarse obligaciones generales de contribución previas a ese momento.
+2. En caso de que en el periodo comprendido desde la entrada en vigor de la Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades de crédito y empresas de servicios de inversión, y el 3 de julio de 2024 los recursos financieros disponibles alcanzasen el nivel previsto en el apartado anterior, pero posteriormente se redujesen por debajo de dos tercios de dicho nivel, las aportaciones anuales al compartimento de garantía de depósitos se fijarán en una cuantía tal que permitan recuperar el nivel objetivo en un plazo máximo de seis años.
+3. Asimismo, el plazo previsto en el apartado 1 podrá ser prorrogado hasta el 3 de julio de 2028 si entre la entrada en vigor de la Ley 11/2015, de 18 de junio, y el 3 de julio de 2024 los pagos realizados por el compartimento de garantía de depósitos superan el 0,8 por ciento de los depósitos garantizados a 3 de julio de 2024.
+Se añade por la disposición final 10.8 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfdecima.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas normas de igual o inferior rango se opongan a lo previsto en el presente real decreto-ley y en particular:
+El Real Decreto-ley 4/1980, de 28 de marzo, dotando de personalidad jurídica al Fondo de Garantía de Depósitos y otras medidas complementaria.
+Real Decreto-ley 18/1982, de 24 de septiembre, sobre fondos de garantía de depósitos en Cajas de Ahorro y Cooperativas de Crédito.
+El artículo 1 y los apartados 1, a excepción del párrafo cuarto, y 6 del artículo 2 del Real Decreto 2606/1996, de 20 de diciembre, sobre Fondos de Garantía de Depósitos de Entidades de Crédito.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Vigencia de determinadas normas.
+El Real Decreto 2606/1996, de 20 de diciembre, sobre Fondos de Garantía de Depósitos de Entidades de Crédito, permanecerá vigente en lo que no se oponga a lo previsto en el presente real decreto-ley hasta que el Gobierno apruebe la correspondiente norma de desarrollo del mismo.
+Asimismo, permanecen vigentes la Orden ECO/318/2002, de 14 de febrero, la Orden ECO/2801/2003, de 3 de octubre y la Orden EHA/3515/2009, de 29 de diciembre.
+Las referencias a los fondos disueltos previstas en la normativa vigente se entenderán realizadas al nuevo Fondo y las referencias a las respectivas comisiones gestoras se entenderán realizadas a la nueva Comisión Gestora del Fondo.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Régimen de aportaciones.
+El régimen de aportaciones al Fondo de Garantía de Depósitos de Entidades de Crédito será el establecido en este real decreto-ley y su normativa de desarrollo, hasta el momento en que conforme a la normativa correspondiente de la Unión Europea se desarrolle reglamentariamente un nuevo régimen de aportaciones basado, además de en el volumen de depósitos, en el perfil de riesgo de cada una las entidades adheridas.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Designación de los miembros de la Comisión Gestora.
+Los representantes de las entidades de crédito y el Banco de España en su Comisión Gestora serán designados conforme a lo previsto en el artículo 7, dentro de los dos meses siguientes a la entrada en vigor del presente Real Decreto-ley.
+En tanto no se proceda a la elección en el referido plazo de los nuevos miembros de la Comisión Gestora del Fondo de Garantía de Depósitos de Entidades de Crédito conforme a lo previsto en este real decreto-ley, los representantes de las entidades adheridas en la misma serán aquellos que formasen parte de las comisiones gestoras de los tres fondos extinguidos a la entrada en vigor del presente real decreto-ley, correspondiéndoles conjuntamente el 50% de los votos totales de la Comisión.
+Igualmente, los representantes del Banco de España serán los que formasen parte de las comisiones gestoras de los tres fondos extinguidos correspondiéndoles conjuntamente el 50% de los votos totales.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Procesos en curso.
+Lo previsto en el Título III del presente real decreto-ley resultará de aplicación a los procesos de reestructuración y reforzamiento de los recursos propios de las entidades de crédito que no se encuentren concluidos o que sean susceptibles de producir efectos jurídicos a la entrada en vigor del presente real decreto-ley.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación normativa.
+Se habilita al Gobierno para dictar cuantas disposiciones sean necesarias para el desarrollo, ejecución y cumplimiento de lo previsto en este real decreto-ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Títulos competenciales.
+El presente real decreto-ley se dicta al amparo de lo dispuesto en las reglas 6.ª, 11.ª y 13.ª del artículo 149.1 de la Constitución española, que atribuye al Estado la competencia sobre legislación mercantil, bases de la ordenación del crédito, banca y seguros y bases y coordinación de la planificación general de la actividad económica, respectivamente.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+El presente real decreto-ley entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 14 de octubre de 2011.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

@@ -1,0 +1,101 @@
+# Ley 3/1980, de 10 de enero, de regulación de cuotas de pantalla y distribución cinematográfica.
+
+- Identificador BOE: `BOE-A-1980-723`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1980-723
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I,
+REY DE ESPAÑA,
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+La cinematografía española, que atraviesa actualmente una situación crítica, es una industria de gran interés cultural necesitada de medidas de protección y de fomento. Afianzar la industria del cine y hacer propicias las circunstancias para la producción de películas de calidad son propósitos que guían la legislación de los países de nuestra misma área cultural y respecto de los cuales no faltan antecedentes en nuestro ordenamiento jurídico.
+Son numerosas las medidas y las técnicas que cabe adoptar para la protección del cine español. Algunas no requieren su aprobación por Ley y otras se irán regulando de manera inmediata. Pero resulta urgente poner remedio a la crisis existente. Con este fin, la presente Ley establece las cuotas de pantalla y de distribución cinematográfica, tanto por lo que se refiere a largometrajes como a cortometrajes, de manera que quede asegurada la normal exhibición de películas españolas en una proporción razonable que, sin duda, estimulará un importante incremento de las producciones en número y en calidad. Se delimita el alcance de las cuotas de exhibición y de distribución y se establece un sistema claro de sanciones para el caso de infracción.
+
+### Artículo primero
+
+Artículo primero.
+Uno. Se entenderá por película comunitaria aquella que posea el certificado de nacionalidad expedido por uno de los Estados miembros de la Comunidad Económica Europea.
+Dos. Las salas de exhibición cinematográficas estarán obligadas a programar, dentro de cada año natural, películas comunitarias en versión original o dobladas en forma tal que, al concluir cada año natural se haya observado la siguiente proporción entre los días de exhibición de aquéllas y los de películas de terceros países en versión doblada a cualquier lengua oficial española:
+a) Un día como mínimo de película comunitaria, por cada dos de exhibición de películas de terceros países en versión doblada a cualquier lengua oficial española. En cualquier caso se proyectará un mínimo de dos películas comunitarias por cada año natural para cumplir la regla anterior.
+b) Un día como mínimo de película comunitaria por cada día de película de terceros países en versión doblada cuando aquélla hubiera sido estrenada en España con dos años de anterioridad a la exhibición que se pretende computar. No obstante, el Instituto de la Cinematografía y de las Artes Audiovisuales podrá determinar en atención al especial interés cinematográfico de la película la aplicación de la proporción prevista en el apartado a).
+Tres. Los programas dobles en los que se proyecten dos películas comunitarias se computarán como un día a efectos de la cobertura de la cuota de pantalla. Aquellos en los que se proyecte una película comunitaria se computarán como medio día si se trata de locales que se dedican a la exhibición de programas dobles por un período continuado de seis meses. En los demás casos los programas dobles no serán computados.
+Cuatro. (Derogado)
+Cinco. Radiotelevisión Española estará igualmente obligada a programar, dentro de cada año natural, la exhibición de una película española de largometraje por cada diez películas extranjeras de igual metraje en versión doblada a cualquier lengua oficial, sin que puedan programarse películas que estén en contra de los fines que para RTVE prevé su Estatuto.
+Se modifican los apartados 1 al 3 y se deroga el apartado 4 por el art. único y la disposición derogatoria del Real Decreto Legislativo 1257/1986, de 13 de junio. Ref. BOE-A-1986-16988
+
+### Articulo segundo
+
+Articulo segundo.
+(Derogado)
+Se deroga por la disposición derogatoria del Real Decreto Legislativo 1257/1986, de 13 de junio. Ref. BOE-A-1986-16988
+
+### Articulo tercero
+
+Artículo tercero.
+Uno. Las Empresas distribuidoras legalmente constituidas podrán distribuir películas comunitarias libremente.
+Dos. (Anulado)
+Tres. Para distribuir una película de nacionalidad de terceros países en versión doblada será requisito imprescindible la previa obtención de la licencia correspondiente.
+Se declara la nulidad del apartado 2 por Sentencia del TS de 3 de noviembre de 1993 publicada por Orden de 28 de abril de 1994. Ref. BOE-A-1994-11307
+ Se modifica por el art. único del Real Decreto Legislativo 1257/1986, de 13 de junio. Ref. BOE-A-1986-16988
+
+### Artículo cuarto
+
+Artículo cuarto.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) de la Ley 55/2007, de 28 de diciembre. Ref. BOE-A-2007-22439
+
+### Articulo quinto
+
+Articulo quinto.
+Uno. Constituye infracción muy grave el incumplimiento de la cuota de pantalla en porcentaje superior al veinte por ciento referido al número de días de exhibición de películas españolas que corresponda proyectar en cada sala en aplicación de lo dispuesto en los artículos primero y segundo de esta Ley.
+Dos. Constituye infracción grave el incumplimiento de la cuota de pantalla en porcentaje superior al diez por ciento y que no exceda del veinte por ciento.
+Tres. Se considera como infracción leve el incumplimiento de la cuota de pantalla en porcentaje no superior al diez por ciento.
+
+### Artículo sexto
+
+Artículo sexto.
+Uno. Por razón de las infracciones a que se refiere al artículo anterior podrán imponerse las siguientes sanciones:
+a) En las infracciones muy graves: multa de hasta dos millones de pesetas.
+b) En las infracciones graves: multa de hasta un millón de pesetas.
+c) En las infracciones leves: multa de hasta doscientas noventa mil pesetas.
+La competencia para la imposición de estas sanciones corresponde al Ministerio de Cultura.
+Dos. Independientemente de la imposición de la sanción de multa que en cada caso proceda, la reiteración en el incumplimiento grave o muy grave de la cuota de pantalla producida en un período no superior a tres años, así como las infracciones de carácter muy grave cuando el incumplimiento de la cuota de pantalla exceda del cuarenta por ciento, podrán ser sancionadas por el Consejo de Ministros con cierre del local hasta seis meses.
+
+### Articulo séptimo
+
+Articulo séptimo.
+La falsedad por parte de una empresa distribuidora en los datos que acrediten la contratación de películas españolas y demás requisitos a que se refiere el artículo tercero podrá ser sancionada por el Consejo de Ministros con multa de hasta veinticinco millones de pesetas.
+
+### Articulo octavo
+
+Artículo octavo.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) de la Ley 55/2007, de 28 de diciembre. Ref. BOE-A-2007-22439
+ Se modifica por el art. único del Real Decreto Legislativo 1257/1986, de 13 de junio. Ref. BOE-A-1986-16988
+
+### DISPOSICIÓN ADICIONAL
+
+El Gobierno, a propuesta del Ministerio de Cultura, previa consulta a las asociaciones profesionales afectadas por la materia, podrá acordar anualmente, a partir del treinta y uno de diciembre de mil novecientos ochenta y uno, la modificación de la proporcionalidad fijada para las cuotas de pantalla y distribución en la medida que lo aconsejen las necesidades del mercado cinematográfico español. En cualquier caso, la eventual supresión, a partir de dicha fecha, de la cuota de distribución deberá hacerse por Ley.
+
+## DISPOSICIONES FINALES
+
+### Primera
+
+Primera.
+Se autoriza al Gobierno para, a propuesta del Ministro de Cultura, dictar las disposiciones de desarrollo de la presente Ley.
+
+### Segunda
+
+Segunda.
+La presente Ley entrará en vigor el mismo día de su pu­blicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio Real, de Madrid, a diez de enero de mil novecientos ochenta.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+ADOLFO SUÁREZ GONZÁLEZ

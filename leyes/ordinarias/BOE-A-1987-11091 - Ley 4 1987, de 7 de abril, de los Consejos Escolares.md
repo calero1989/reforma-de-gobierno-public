@@ -1,0 +1,341 @@
+# Ley 4/1987, de 7 de abril, de los Consejos Escolares.
+
+- Identificador BOE: `BOE-A-1987-11091`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-11091
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE CANARIAS
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+PREAMBULO
+La Ley Orgánica 8/1985, de 3 de julio, reguladora del derecho a la educación, desarrolla en los niveles de enseñanza no universitaria, los principios que, en materia de educación, contiene la Constitución Española. El artículo 27.5 de la Constitución Establece que los poderes públicos garantizan el derecho de todos a la educación mediante una programación general de la enseñanza, con la participación efectiva de todos los sectores afectados. El Título II de la Ley Orgánica 8/1985 desarrolla el mecanismo de la programación de la enseñanza que asegura la cobertura de las necesidades educativas, estableciendo los órganos de participación de los sectores afectados; el artículo 34 del referido título establece la obligatoriedad de la creación de un Consejo Escolar en cada Comunidad Autónoma, cuya composición y funciones serán reguladas por una Ley de la Asamblea de la Comunidad Autónoma correspondiente que, a efectos de la programación de la enseñanza, garantice la adecuada participación de los sectores afectados.
+Habida cuenta las competencias en materia de educación atribuidas a la Comunidad Autónoma de Canarias por la Ley Orgánica 10/1982, de 10 de agosto, de Estatuto de Autonomía de Canarias, y realizando el traspaso de funciones y servicios de la Administración del Estado a la Comunidad Autónoma de Canarias en materia de educación por Real Decreto 2091/1983, de 28 de julio, la presente Ley establece en su capítulo II el órgano consultivo que en canarias canalizará la participación de los sectores afectados en la programación general de la enseñanza no universitaria y asesorará al Gobierno de Canarias en aquellos proyectos de Ley o Reglamentos de carácter general que afecten a la política educativa no universitaria. Su composición reúne a una representación adecuadamente ponderada de los sectores directamente implicados en la enseñanza: Alumnos, Profesores, padres de alumnos, titulares de Centros docentes. Incluye, asimismo, la representación de los colectivos de renovación pedagógica, que han jugado y están jugando un papel fundamental en la mejora de la calidad de la enseñanza en Canarias y, desde la necesaria conexión que debe existir entre la educación y el mundo productivo, también forman parte del Consejo Escolar de Canarias los representantes de las organizaciones patronales sindicales.
+En el capítulo III se crean los Consejos Escolares Municipales y Comarcales, como instrumentos adecuados para fomentar la participación de la comunidad escolar en la programación de la enseñanza a todos los niveles y para lograr una mayor coordinación entre las diferentes administraciones públicas.
+La Ley pretende, en consonancia con lo expresado, garantizar la más amplia, efectiva y creativa aportación de toda la comunidad en el diseño, programación y ejecución responsable de la política educativa en Canarias.
+
+## CAPÍTULO I
+
+De los Consejos Escolares
+
+### Artículo 1
+
+Artículo 1.
+La participación de todos los sectores afectados en la programación general de la enseñanza no universitaria, en el ámbito de la Comunidad Autónoma de Canarias, se realizara de acuerdo con lo establecido en la presente ley y en las disposiciones que la desarrollen.
+
+### Artículo 2
+
+Artículo 2.
+Son objetivos de la programación general de la enseñanza no universitaria en el ámbito de la Comunidad Autónoma de Canarias:
+Uno.‒Conseguir el acceso de todos los habitantes de la Comunidad Autónoma de Canarias a los niveles educativos y culturales que le permitan su realización personal y social, y promover, para ello, cuantas acciones sean precisas en orden a compensar las deficiencias de oportunidades educativas.
+Dos.‒Impulsar el fomento de la conciencia de identidad canaria, mediante la investigación, difusión y conocimiento de los valores históricos, culturales y lingüísticos del pueblo canario.
+Tres.‒Mejorar la calidad de la enseñanza en todos sus aspectos.
+
+### Artículo 3
+
+Artículo 3.
+Los órganos de participación en la programación de la enseñanza no universitaria son:
+A) El Consejo Escolar de Canarias.
+B) Los Consejos Escolares Municipales.
+C) Los Consejos Escolares Comarcales.
+
+## CAPÍTULO II
+
+Del Consejo Escolar de Canarias
+
+### Artículo 4
+
+Artículo 4.
+El Consejo Escolar de Canarias es el órgano para la participación de los sectores afectados en la programación general de la enseñanza en el ámbito de la Comunidad Autónoma de Canarias, así como de asesoramiento respecto de los proyectos de Ley o Reglamentos que hayan de ser propuestos o dictados por el Gobierno de Canarias.
+
+### Artículo 5
+
+Artículo 5.
+El Consejo Escolar de Canarias está integrado por el Presidente, dos Vicepresidentes, el Secretario y los Vocales.
+Se modifica por el art. único.1 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 6
+
+Artículo 6.
+1. Serán vocales del Consejo Escolar de Canarias:
+a) Seis profesores o profesoras distribuidos entre la enseñanza pública y privada no universitaria, correspondiendo cinco profesores a la enseñanza pública y uno a la privada.
+Tanto los vocales de la enseñanza pública como los de la privada serán propuestos uno por cada una de las centrales sindicales con mayor representatividad, ordenadas de mayor a menor representación en el ámbito escolar, de acuerdo con la normativa vigente.
+b) Seis padres y madres de alumnos o alumnas, de enseñanza no universitaria, distribuidos entre la enseñanza pública o privada, correspondiendo cinco representantes a la enseñanza pública y uno a la privada.
+Su propuesta se hará por las confederaciones o federaciones de asociaciones de padres y madres de alumnos de acuerdo con el número de asociaciones afiliadas, en función de los datos proporcionados por el departamento competente en materia de educación.
+c) Seis alumnos o alumnas de enseñanza no universitaria, distribuidos entre la enseñanza pública y privada, correspondiendo cinco representantes a la enseñanza pública y uno a la privada.
+Dicha propuesta será realizada por confederaciones, federaciones de alumnos y alumnas en función del número de asociaciones afiliadas, de acuerdo con los datos proporcionados por el departamento competente en materia de educación.
+En caso de que en algún sector, bien de la enseñanza pública o bien de la privada, no hubiera propuestas suficientes, las plazas que correspondan podrán ser ocupadas por representantes del otro sector.
+d) Dos representantes del personal de administración y servicios de los centros docentes, nombrados a propuesta de las centrales y asociaciones sindicales que, de acuerdo con la legislación vigente, tengan el carácter de más representativos en el sector.
+e) Tres titulares de centros privados y concertados propuestos por las organizaciones empresariales de la enseñanza en proporción a su representatividad.
+f) Dos representantes de la Administración educativa designados por el Consejero competente en materia de Educación.
+g) Un representante de cada una de las universidades canarias nombrados a propuesta de las Juntas de Gobierno respectivas.
+h) Siete representantes de los municipios a propuesta de la federación o asociación de municipios más representativa.
+i) Dos profesores representantes de los movimientos de renovación pedagógica, asociaciones del profesorado, colegios profesionales con secciones de educación constituidas formalmente y sociedades de profesores de ámbito no universitario nombrados por el consejero competente en materia de educación a propuesta de los mismos, o en su defecto en razón al número de asociados y la actividad desarrollada.
+Para dicha propuesta del sector, el Consejo Escolar de Canarias convocará a un acto para que elijan por mayoría simple a sus representantes entre las propuestas presentadas por las distintas organizaciones.
+Este procedimiento se aplicará en los casos de renuncia o renovación.
+La convocatoria de los movimientos de renovación pedagógica, asociaciones del profesorado, colegios profesionales con secciones de educación y sociedades de profesores se hará con los datos oficiales que consten en el departamento competente en materia de educación, para tal fin dichas entidades deberán remitir con carácter previo al acto de elección solicitud con su intención de participar.
+j) Dos representantes propuestos por las distintas centrales sindicales en proporción a su representatividad.
+k) Dos representantes propuestos por las distintas organizaciones patronales en proporción a su representatividad.
+l) Un representante de cada Cabildo Insular.
+m) Un representante de la Consejería competente en materia de Asuntos Sociales a propuesta de su titular.
+n) Un representante propuesto por cada una de las Cámaras Oficiales de Comercio, Industria y Navegación.
+ñ) Tres personas de reconocido prestigio en el ámbito de la educación, designadas por el Consejero competente en materia de Educación.
+o) Una persona en representación del órgano competente en materia de igualdad propuesta por su titular.
+2. El ámbito territorial de referencia para las diversas organizaciones, entidades y asociaciones mencionadas en el apartado anterior como proponentes en función de su representatividad, será el de la Comunidad Autónoma de Canarias.
+3. Al nombramiento de los vocales titulares habrá de unirse el nombramiento de suplentes, designados con el mismo procedimiento indicado en el apartado 1 de este artículo, que actuarán en sustitución de los vocales titulares en los casos de vacante, ausencia o enfermedad.
+4. En el caso de cese por expiración de mandato, los vocales seguirán en funciones hasta que se proceda a la correspondiente renovación o declaración de la prórroga prevista en el artículo 12 apartado 5 del Decreto 36/2003, de 26 de marzo.
+Se modifica el apartado 1 y se añade el 4 por la disposición final 1 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+ Véase la disposición transitoria 5 de la citada ley.
+ Se modifica por el art. único.2 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 7
+
+Artículo 7.
+Previa citación a través del Presidente del Consejo las reuniones del Consejo Escolar de Canarias podrán asistir aquellas personas que por razones de tipo técnico puedan prestar asistencia e información.
+
+### Artículo 8
+
+Artículo 8.
+1. El Presidente del Consejo Escolar de Canarias será nombrado por el Presidente del Gobierno a propuesta del propio Consejo Escolar que lo designará, entre sus miembros, por mayoría de dos tercios.
+2. En caso de no lograrse la mayoría de dos tercios tras dos votaciones sucesivas, se procederá a la designación por mayoría de tres quintos de los miembros del Consejo. Si tras dos votaciones sucesivas, no se llegara a dicha mayoría, la propuesta de nombramiento de Presidente del Consejo correspondería al Consejero competente en materia de Educación, quien lo designará entre los vocales del Consejo.
+3. Tras ser nombrado, el Presidente del Consejo Escolar será reemplazado como vocal en el grupo de representación del que procediera.
+4. No podrá desempeñarse el cargo de Presidente del Consejo Escolar de Canarias más de dos mandatos sucesivos de cuatro años.
+5. El Presidente del Consejo Escolar cesará en su cargo por alguna de las causas siguientes:
+a) Terminación de su mandato.
+b) Renuncia.
+c) Haber sido inhabilitado para el ejercicio de cargos públicos por sentencia firme.
+d) Incapacidad por resolución judicial o fallecimiento.
+e) Revocación de su designación por acuerdo del Consejo Escolar de Canarias adoptado por mayoría de dos tercios.
+Se modifica por el art. único.3 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 9
+
+Artículo 9.
+Uno. El Presidente ejercerá la dirección y representación del Consejo Escolar de Canarias.
+Dos. El Presidente fija el orden del día, convoca y preside las sesiones y vigila la ejecución de los acuerdos.
+Tres. El Presidente dirime las votaciones en caso de empate.
+
+### Artículo 10
+
+Artículo 10.
+Los Vicepresidentes primero y segundo serán nombrados por el Consejero competente en materia de Educación, a propuesta del Consejo Escolar de Canarias.
+Se modifica por el art. único.4 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 11
+
+Artículo 11.
+Los Vicepresidentes sustituirán al Presidente, según su orden, en caso de vacante, ausencia o enfermedad, y además realizarán las funciones que éste les delegue.
+Se modifica por el art. único.5 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 12
+
+Artículo 12.
+El cargo de Secretario corresponderá a un funcionario de carrera, nombrado para tal función por el Consejero competente en materia de Educación, a propuesta del Presidente del Consejo Escolar de Canarias.
+Se modifica por el art. único.6 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 13
+
+Artículo 13.
+Corresponde al Secretario, con el visto bueno del Presidente, la supervisión y autorización de las actas de sesiones de los órganos colegiados del Consejo, así como las certificaciones que hayan de expedirse y la asistencia al Presidente en el desarrollo de las sesiones.
+
+### Artículo 14
+
+Artículo 14.
+Los Vocales del Consejo Escolar de Canarias serán nombrados por el Consejero competente en materia de Educación del Gobierno de Canarias.
+Se modifica por la disposición adicional 1 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 15
+
+Artículo 15.
+El mandato de los miembros del Consejo Escolar de Canarias será de cuatro años.
+
+### Artículo 16
+
+Artículo 16.
+El Consejo Escolar de Canarias se renovará por mitades cada dos años en cada uno de los grupos a que se refiere el artículo 6. El procedimiento de renovación será establecido en el Reglamento del Consejo Escolar de Canarias.
+
+### Artículo 17
+
+Artículo 17.
+1. Los miembros del Consejo Escolar de Canarias perderán su condición por alguna de las siguientes causas:
+a) Terminación de su mandato.
+b) Cuando dejen de reunir los requisitos que determinaron su designación.
+c) Cuando se trate de representantes de la Administración educativa por cese dispuesto por el Consejero competente en materia de Educación.
+d) Renuncia.
+e) Haber sido inhabilitado para el ejercicio de cargos públicos.
+f) Incapacitación o fallecimiento.
+g) Por acuerdo de la organización que efectuó la propuesta.
+h) Por inasistencias reiteradas e injustificadas a las reuniones de los órganos del Consejo con la frecuencia y condiciones que se determinarán reglamentariamente.
+2. En el caso en que algún miembro del Consejo pierda dicha condición con anterioridad a la conclusión de su mandato, será sustituido por el procedimiento establecido para su nombramiento. El nuevo miembro será nombrado por el tiempo que reste para la conclusión del mandato de quien produjo la vacante.
+Se modifica por el art. único.7 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 18
+
+Artículo 18.
+Sin perjuicio de lo dispuesto en los artículos 15 y 17, los representantes de las Organizaciones sindicales, de los Profesores y de las Organizaciones patronales cesarán cuando, en virtud de la celebración de elecciones sindicales o de haber sido renovados los representantes de las Organizaciones patronales, se haya alterado la representatividad de las organizaciones que efectuaron la propuesta. El periodo máximo para proceder a su renovación será de dos meses a contar desde el día del anuncio oficial del resultado de las elecciones sindicales o de la renovación de los representantes patronales.
+
+### Artículo 19
+
+Artículo 19.
+El Consejo Escolar de Canarias funcionará en Pleno, en Comisión Permanente y en Comisiones específicas.
+
+### Artículo 20
+
+Artículo 20.
+Uno. El Consejo Escolar de Canarias en Pleno será consultado con carácter preceptivo en los siguientes asuntos:
+a) La programación general anual de la enseñanza, elaborada por la Consejería competente en materia de Educación.
+b) Los anteproyectos de Ley relacionados con la enseñanza no universitaria.
+c) Planes de renovación educativa y de innovación educativa.
+d) Criterios generales para la financiación de los Centros públicos y de la concertación con los Centros privados, dentro del marco competencial del Gobierno de Canarias.
+e) Todas aquellas otras en que, por precepto expreso de una Ley, haya de consultarse al Consejo Escolar.
+f) Aquellas cuestiones que por su trascendencia le sean sometidas por el Consejero competente en materia de Educación del Gobierno de Canarias.
+Dos. Además de las funciones señaladas en el apartado anterior, el Consejo Escolar de Canarias podrá elevar a la Consejería competente en materia de Educación cuantos informes, propuestas e iniciativas considere conveniente.
+Se modifica por el art. único.8 y por la disposición adicional 1 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 21
+
+Artículo 21.
+El Presidente convocará el Pleno, con carácter preceptivo, al menos tres veces durante el curso escolar, cuando haya de informar los asuntos que le someta el Consejero competente en materia de Educación y cuando lo soliciten, al menos, un tercio de sus miembros.
+Se modifica por la disposición adicional 1 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 22
+
+Artículo 22.
+1. La Comisión Permanente estará constituida por el Presidente, los dos Vicepresidentes, el Secretario y un número de miembros no superior a un tercio de los que componen el Consejo, elegidos por el Pleno, asegurándose la representación proporcional de todos los sectores.
+2. No obstante lo anterior, los dos representantes de la Administración educativa a que se refiere el artículo 6.f) podrán integrarse en la Comisión Permanente contando con un voto único en la adopción de decisiones en dicho órgano.
+Se modifica por el art. único.9 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 23
+
+Artículo 23.
+Corresponden a la Comisión Permanente las siguientes funciones:
+a) Designar las ponencias que hayan de redactar los informes que serán sometidos a su deliberación, a la del Pleno o a la de las Comisiones específicas.
+b) Distribuir el trabajo entre las diferentes Comisiones específicas.
+c) Ser consultada, con carácter preceptivo, sobre las disposiciones generales encaminadas a adecuar la enseñanza a la realidad canaria, según los criterios establecidos por el Pleno.
+d) Informar sobre cualquier cuestión que considere procedente someter a su consideración el Consejero competente en materia de Educación.
+e) Cuantas otras funciones le sean asignadas reglamentariamente.
+Se modifica por el art. único.10 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 24
+
+Artículo 24.
+Las Comisiones específicas tendrán por cometido el estudio de los temas que le sean encomendados. Su número, composición y funcionamiento se determinarán reglamentariamente.
+
+### Artículo 25
+
+Artículo 25.
+1. Los informes del Consejo Escolar de Canarias se emitirán en el plazo máximo de un mes, salvo que por disposición legal expresa se estableciera plazo distinto.
+2. No obstante lo dispuesto en el apartado anterior, el Consejero competente en materia de Educación podrá solicitar que el informe se realice en trámite de urgencia, en cuyo caso el plazo de emisión del informe no podrá superar los quince días.
+3. La Administración de la Comunidad Autónoma de Canarias prestará, a través de la Consejería competente en materia de Educación, colaboración al Consejo Escolar de Canarias facilitando la información y documentación precisas para el cumplimiento de sus fines.
+Se modifica por el art. único.11 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 26
+
+Artículo 26.
+El Consejo Escolar de Canarias tiene su sede en la ciudad de La Laguna.
+Se modifica por el art. único.12 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+## CAPITULO III
+
+De los Consejos Escolares, Municipales y Comarcales
+
+### Artículo 27
+
+Artículo 27.
+En todos los municipios canarios se constituirá Un Consejo Escolar Municipal, como instrumento de participación de los sectores afectados en la gestión educativa y como órgano de asesoramiento de la Administración.
+
+### Artículo 28
+
+Artículo 28.
+La composición y funcionamiento del Consejo Escolar Municipal se regulará por el Ayuntamiento, garantizándose en todo caso que el número de profesores, padres de alumnos, alumnos y personal de administración y servicios no sea en su conjunto inferior a la mitad del total de los componentes de dicho Consejo.
+
+### Artículo 29
+
+Artículo 29.
+1. El Consejo Escolar Municipal será consultado preceptivamente en los siguientes asuntos:
+a) Disposiciones y actuaciones municipales que afecten a la educación.
+b) Propuestas municipales para la programación general de la enseñanza.
+c) Medidas para el control y la reducción del absentismo escolar.
+d) Cualquier otra cuestión que el Alcalde, como Presidente de la Corporación, o el Pleno le someta a consulta.
+2. El Consejo Escolar Municipal podrá, a iniciativa propia, elevar informes y propuestas a la Administración competente sobre:
+a) Participación de los servicios sociales municipales y policía local en el control del absentismo escolar.
+b) Colaboración y auxilio a las Comisiones de Convivencia de los centros de enseñanzas primaria y secundaria.
+c) Participación en las actividades extraescolares y complementarias y en la programación de tarde de los centros en coordinación con el Cabildo Insular respectivo y la Consejería competente en materia de Educación.
+d) Definición de planes de seguridad en el exterior de los centros de Primaria y Secundaria con la participación de la policía local y el voluntariado y la colaboración de las Fuerzas y Cuerpos de Seguridad del Estado.
+e) Cualquier otra actuación encuadrada en el ámbito de aplicación de la presente Ley que propicie la mejora de la calidad de la enseñanza.
+3. El Consejo Escolar Municipal coordinará sus iniciativas y propuestas con los Consejos Escolares de los centros radicados en el término municipal.
+Se modifica por el art. único.13 de la Ley 2/2001, de 12 de junio. Ref. BOE-A-2001-12957
+
+### Artículo 30
+
+Artículo 30.
+1. Podrán constituirse Consejos Escolares Comarcales como instrumentos de participación y coordinación entre varios municipios.
+2. Tales Consejos podrán constituirse bien a iniciativa de los municipios o de la Administración de la Comunidad Autónoma de Canarias, ajustándose a los criterios y normas reguladoras de la comercialización del servicio educativo.
+
+### Artículo 31
+
+Artículo 31.
+Los Consejos Escolares Comarcales tendrán la composición y funciones que reglamentariamente se establezcan, garantizándose en todo caso la representación de todos los municipios de la comarca, y que el número de los representantes de profesores, padres de alumnos, alumnos y personal de administración y servicios no sea inferior a un tercio del total de los componentes de este Consejo.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+El Consejo Escolar de Canarias deberá constituirse en el plazo de tres meses a partir de la entrada en vigor de la presente Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En el plazo de dos meses a partir de la fecha de publicación de la presente Ley en el «Boletín Oficial de Canarias», las Instituciones, Entidades y Organismos a que hace referencia el artículo 6 procederán a la designación de sus representantes al Consejo Escolar de Canarias y remisión de las correspondientes propuestas de nombramiento a la Consejería de Educación.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+La convocatoria para la sesión constitutiva del Consejo Escolar de Canarias será efectuada por el Consejero de Educación.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Los Consejos Escolares Municipales deberán constituirse en el plazo de un año, a partir de la entrada en vigor de la presente Ley.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+1. Hasta tanto no se constituya un Ente asociativo que agrupe a los municipios de Canarias, sus representantes en el Consejo Escolar de Canarias serán elegidos por sorteo de la siguiente forma:
+a) Dos por los municipios de más de 50.000 habitantes.
+b) Dos por los municipios comprendidos entre 15.000 y 50.000 habitantes.
+c) Dos por los municipios de menos de 15.000 habitantes.
+2. En la renovación regulada en la presente Ley se excluirán del correspondiente sorteo bianual las Corporaciones que hayan resultado electas hasta la rotación completa del resto de Corporaciones de cada uno de los niveles establecidos en el apartado anterior.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Hasta se celebren las elecciones sindicales en el sector de la enseñanza las organizaciones presentes en la Mesa Negociadora con la Consejería de Educación propondrán un representante de cada asociación en el Consejo Escolar de Canarias.
+
+### Disposición final primera
+
+Disposición final primera.
+En el plazo de dos meses, desde su constitución, el Consejo Escolar elaborará su propio Reglamento de funcionamiento que someterá a la Consejería de Educación a efectos de control de legalidad. En dicho Reglamento se articulará el funcionamiento del Consejo en todo lo no expresamente normado en esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+El Gobierno de Canarias dictará las normas precisas para dotar al Consejo Escolar de Canarias de los recursos necesarios para su normal funcionamiento.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Se autoriza al Consejo de Gobierno para que dicte cuantas disposiciones sean precisas para el desarrollo reglamentario de las previsiones contenidas en la presente Ley.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Canarias».
+
+### [firma]
+
+Por tanto ordeno a todos los ciudadanos, a los que sea de aplicación esta Ley, cooperen en su cumplimiento y que los Tribunales y autoridades a los que corresponda la cumplan y la hagan cumplir.
+Las Palmas de Gran Canaria, 7 de abril de 1987.
+JERONIMO SAAVEDRA ACEVEDO,
+Presidente del Gobierno

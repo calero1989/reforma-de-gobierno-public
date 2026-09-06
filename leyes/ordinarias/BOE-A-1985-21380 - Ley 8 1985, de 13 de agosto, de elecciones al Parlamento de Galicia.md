@@ -1,0 +1,656 @@
+# Ley 8/1985, de 13 de agosto, de elecciones al Parlamento de Galicia.
+
+- Identificador BOE: `BOE-A-1985-21380`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1985-21380
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+El artículo 11 del Estatuto de Autonomía para Galicia dibuja las líneas fundamentales de la constitución y composición del Parlamento de Galicia y establece también que una Ley de Galicia determinará los extremos que han de constituir las normas electorales de nuestra Comunidad. Es objeto de la presente Ley desarrollar esa previsión estatutaria que habilita al propio Parlamento de Galicia para dictar aquellas normas que estime más adecuadas a las necesidades y a la idiosincrasia de nuestra sociedad.
+De acuerdo con el citado artículo, el Parlamento de Galicia puede regular los plazos y el procedimiento para la elección de sus miembros, estalecer el número de los Diputados, así como también las causas de inelegibilidad e incompatibilidad que les afecten.
+De acuerdo con estas directrices, se considera que la normativa electoral no debe introducir excesivas modificaciones en el Reglamento general que ordena la mayoría de los procesos electorales con relevancia estatal. En este sentido, es preciso eliminar los factores que pudiesen suscitar inseguridades jurídicas, sobre todo en la práctica, en los soportes personales del sistema electoral. Por lo demás es preciso tener en cuenta que una mayor claridad y sencillez en los Reglamentos especiales va en beneficio de las fuerzas políticas que concurren a las elecciones y, lógicamente, de los propios electores, que precisan normas claras y fácilmente compresibles.
+Por todo lo cual, el Parlamento de Galicia aprobó, y yo, de conformidad con el artículo 24 de la Ley 1/1983, de 22 de febrero, reguladora de la Xunta y de su Presidente, promulgo, en nombre del Rey, la Ley de Elecciones al Parlamento de Galicia.
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1.
+1. La presente ley es de aplicación a las elecciones a diputados y diputadas del Parlamento de Galicia, en cumplimiento de lo dispuesto en el artículo 11 del Estatuto de autonomía para Galicia.
+2. La materia relativa a gastos y subvenciones electorales se regirá por lo dispuesto en la ley que regula la financiación de formaciones políticas y de fundaciones y entidades vinculadas a ellas.
+Se modifica por la disposición final 1 de la Ley 9/2015, de 7 de agosto. Ref. BOE-A-2015-10235#dfprimera.
+
+## TÍTULO PRIMERO
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Electores
+
+### Artículo 2
+
+Artículo 2.
+1. Son electores los que, ostentando la condición de gallego conforme al artículo 3.° del Estatuto de Autonomía, sean mayores de edad y gocen del derecho de sufragio activo.
+2. Para el ejercicio del derecho de sufragio es indispensable la inscripción en el censo electoral.
+
+## CAPÍTULO II
+
+El censo electoral
+
+### Artículo 3
+
+Artículo 3.
+En las elecciones al Parlamento de Galicia regirá el censo electoral único referido a las cuatro circunscripciones electorales de la Comunidad Autónoma.
+
+## CAPÍTULO III
+
+Elegibilidad
+
+### Artículo 4
+
+Artículo 4.
+1. Serán elegibles los ciudadanos que, teniendo la condición de electores, no estén incursos en alguna de las causas de inelegibilidad recogidas en la legislación electoral general.
+2. Son inelegibles también:
+a) El Consejero mayor y los Consejeros del Consejo de Cuentas de Galicia.
+b) El valedor del pueblo y su adjunto.
+c) Los Alcaldes, Presidentes de Diputación y Diputados provinciales.
+d) Los Secretarios generales técnicos y los Directores generales de las Consejerías, los Directores de los Gabinetes de la Presidencia y de las Consejerías, así como los altos cargos de libre designación de la Junta de Galicia nombrados por Decreto de la Junta.
+e) Los Presidentes y Directores generales o asimilados de los Organismos autónomos dependientes de la Comunidad Autónoma de Galicia, excepto que dicha presidencia sea ejercida por un miembro del Consejo del Gobierno.
+f) Los Delegados generales de la Junta, los Delegados provinciales o territoriales de las Consejerías y los Secretarios de sus delegaciones.
+g) El Director general de la Compañía de Radio y Televisión de Galicia, los Directores de las Sociedades y sus Delegados territoriales.
+h) El Delegado territorial de TVE en Galicia, así como los Directores de los Centros de radio y televisión que dependan de Entes públicos.
+i) Los miembros de la Policía Autónoma en activo.
+j) El Presidente, Vicepresidente, Ministros y Secretarios del Estado del Gobierno Central.
+k) Los Parlamentarios de las asambleas de otras Comunidades Autónomas.
+l) Los miembros de los Consejos de Gobierno de las demás Comunidades Autónomas, así como los cargos de libre designación de los citados Consejos.
+m) Los que ejerzan funciones o cargos conferidos y remunerados por un Estado extranjero.
+Se modifica el apartado 2.b) por el art. 2 de la Ley 10/2012, de 3 de agosto. Ref. BOE-A-2012-11417.
+ Esta modificación entra en vigor al día siguiente de la toma de posesión de su cargo de un valedor del pueblo titular, según establece la disposicíón final 2.
+ Se modifica por el art. único.1 de la Ley 15/1992, de 30 de diciembre. Ref. BOE-A-1993-5016.
+
+### Artículo 5
+
+Artículo 5.
+1. La calificación de las inelegibilidades establecidas en el artículo anterior se verificará de conformidad con el Régimen General Electoral.
+2. Quien formando parte de una candidatura accediese a un cargo o función declarada inelegible habrá de comunicar esta situación a la correspondiente Junta Electoral, quedando excluido de la candidatura.
+
+## CAPÍTULO IV
+
+Incompatibilidades
+
+### Artículo 6
+
+Artículo 6.
+1. Las causas de inelegibilidad lo son también de incompatibilidad.
+2. La condición de Diputado del Parlamento de Galicia es incompatible con la de Parlamentario Europeo, Diputado del Congreso y Senador, salvo los Senadores elegidos en representación de la Comunidad Autónoma.
+3. Asimismo son incompatibles:
+a) Los miembros del Consejo de Administración de la Compañía de Radio y Televisión de Galicia.
+b) Los Presidentes de Consejos de Administración, Consejeros, Administradores, Directores generales, Gerentes y cargos equivalentes de entes públicos y Empresas de participación pública mayoritarias, cualquiera que sea su forma, incluidas las Cajas de Ahorro de fundación pública.
+Los cargos a que se refiere el párrafo anterior no constituirán causa de incompatibilidad cuando se posean por representación sindical o por su condición de miembro del Gobierno autónomo o de Corporación Local.
+4. El mandato de los Diputados del Parlamento de Galicia es compatible con el desempeño de actividades privadas, salvo en los supuestos siguientes:
+a) Las actividades de gestión o dirección ante la Administración pública gallega, sus Entes u Organismos autónomos en asuntos que tengan que resolver éstos, que afecten directamente a la realización de algún servicio público o que estén encaminados a la obtención de subvenciones o avales públicos. Se exceptúan las actividades particulares que, en ejercicio de un derecho reconocido, realicen los directamente interesados, así como las subvenciones o avales cuya concesión derive de la aplicación reglada de lo dispuesto en una norma de carácter general.
+b) La actividad de contratista o fiador de obras, servicios o suministros públicos que se paguen con fondos de la Comunidad Autónoma o el desempeño de cargos que lleven anexas funciones de dirección o representación en Compañías o Empresas que se dediquen a dichas actividades.
+c) La celebración con posterioridad a la fecha de su elección como Diputado de conciertos de prestación de servicios de asesoramiento o de cualquier otra índole, con titularidad, individual o compartida, en favor de la Administración pública gallega.
+d) La participación superior al 10 por 100, adquirida en todo o en parte, con posterioridad a la fecha de su elección como Diputado, excepto que haya sido por herencia, en Empresas o Sociedades que tengan conciertos de obras, servicios o suministros con Entidades del sector público.
+5. Los Diputados que desempeñen, por sí o mediante sustitución, cualquier otro puesto, profesión o actividad, públicos o privados, por cuenta propia o ajena, retribuidos mediante sueldos, salario, arancel, honorarios o cualquier otra forma, sólo percibirán, con cargo a los presupuestos del Parlamento de Galicia, las indemnizaciones y dietas que sean correspondientes para el cumplimiento de su función.
+6. Se garantizará la reserva de puesto o plaza de destino, en las condiciones que determinen las normas específicas de aplicación, a los Diputados que, como consecuencia de su dedicación parlamentaria, estén en la situación de excedencia voluntaria o servicios especiales.
+7. Los Diputados deberán formular declaración de todas las actividades que puedan constituir causa de incompatibilidad con arreglo a lo establecido en la legislación vigente y de cualquier otra actividad que les proporcione o pueda proporcionar ingresos económicos, así como de sus bienes patrimoniales, tanto al adquirir como al perder su condición de Parlamentarios, así como cuando modifiquen sus circunstancias.
+Las declaraciones sobre actividades y bienes se formularán por separado con arreglo al modelo que apruebe la Mesa del Parlamento y se inscribirán en un Registro de Intereses, que estará bajo la dependencia directa del Presidente de la Cámara. El contenido del Registro de Intereses tendrá carácter público, a excepción de lo que se refiere a bienes patrimoniales.
+Se modifica el apartado 2 y se añaden un segundo párrafo al 3.b) y los apartados 4 a 7, por el art. único.2 de la Ley 15/1992, de 30 de diciembre. Ref. BOE-A-1993-5016.
+
+### Artículo 7
+
+Artículo 7.
+1. Ningún electo podrá adquirir la condición de Diputado si está incurso en alguna causa de incompatibilidad.
+2. El Diputado gallego que aceptase un cargo, función o situación constitutiva de incompatibilidad cesará en su situación de Diputado.
+
+## TÍTULO II
+
+Sistema electoral
+
+### Artículo 8
+
+Artículo 8.
+De acuerdo con el artículo 11.4 del Estatuto de Autonomía de Galicia, la circunscripción electoral será la provincia.
+
+### Artículo 9
+
+Artículo 9.
+1. El número de Diputados del Parlamento de Galicia se fija en 75.
+2. A cada una de las cuatro provincias de Galicia le corresponde un mínimo inicial de 10 Diputados.
+3. Los 35 Diputados restantes se distribuyen entre las provincias en proporción a su población, conforme al siguiente procedimiento:
+a) Se obtiene una cuota de reparto resultante de dividir por 35 la cifra total de la población de derecho de las provincias de Galicia.
+b) Se adjudica a cada una de las cuatro provincias tantos Diputados como resulten, en números enteros, de dividir la población de derecho provincial por la cuota de reparto.
+c) Los Diputados restantes se distribuyen asignando uno a cada una de las provincias, cuyo cociente obtenido, conforme al apartado anterior, tenga una fracción decimal mayor.
+4. El Decreto de convocatoria debe especificar el número de Diputados que se elegirá en cada circunscripción, de acuerdo con lo dispuesto en este artículo.
+
+### Artículo 10
+
+Artículo 10.
+La atribución de escaños en función de los resultados del escrutinio se realiza de acuerdo con las siguientes reglas:
+a) No se tienen en cuenta aquellas candidaturas que no han obtenido, al menos, el 5 por 100 de los votos válidos emitidos en la circunscripción.
+b) Se ordena de mayor a menor, en una columna, las cifras y los votos obtenidos por las restantes candidaturas.
+c) Se divide el número de votos obtenido por cada candidatura por 1, 2, 3, etc., hasta un número igual de escaños correspondientes a la circunscripción, formándose un cuadro semejante al que aparece en el ejemplo práctico que se recoge en la correspondiente disposición adicional. Los escaños se atribuyen a las candidaturas que obtengan los cocientes mayores en el cuadro, atendiendo a su orden decreciente.
+d) Cuando en la relación de cocientes coincidan dos correspondientes a distintas candidaturas, el escaño se atribuirá a la que haya obtenido mayor número total de votos. Si hubiese dos candidatos con igual número de votos, el primer empate se resolverá por sorteo y los sucesivos de manera alternativa.
+e) Los escaños correspondientes a cada candidatura se adjudican a los candidatos incluidos en ella, por el orden de colocación en que aparezcan.
+Se modifica por el art. único.3 de la Ley 15/1992, de 30 de diciembre. Ref. BOE-A-1993-5016.
+
+### Artículo 11
+
+Artículo 11.
+En caso de fallecicmiento, incapacidad o renuncia de un Diputado en cualquier momento de la legislatura, el escaño será atribuido al siguiente de la misma lista atendiendo a su orden de colocación.
+
+## TÍTULO III
+
+Convocatoria de elecciones
+
+### Artículo 12
+
+Artículo 12.
+1. La convocatoria de elecciones al Parlamento de Galicia se realizará mediante Decreto.
+2. El Decreto de convocatoria señalará la fecha de las elecciones, que se habrán de celebrar entre el quincuagésimo cuarto y el sexagésimo día posterior a la convocatoria, la duración de la campaña electoral, así como la fecha constitutiva del Parlamento, que tendrá lugar dentro del plazo de un mes, a contar desde el día de la celebración de las elecciones.
+3. Excepto en el supuesto de disolución anticipada, el Decreto de convocatoria se expedirá el vigésimo quinto día anterior a la expiración del mandato del Parlamento.
+4. El Decretode convocatoria se publicará el día siguiente de su expedición en el «Diario Oficial de Galicia» y entrará en vigor el mismo día de su publicación.
+Se modifica por el art. único.4 de la Ley 15/1992, de 30 de diciembre. Ref. BOE-A-1993-5016.
+
+## TÍTULO IV
+
+Juntas electorales
+
+### Artículo 13
+
+Artículo 13.
+1. La administración electoral corresponde a la Junta Electoral de Galicia, a las Juntas Provinciales y de Zona y a las mesas electorales.
+2. La Junta Electoral de la Comunidad Autónoma tendrá su sede en la del Tribunal Superior de Justicia.
+
+### Artículo 14
+
+Artículo 14.
+1. La Junta Electoral de Galicia es un órgano permanente y está compuesto por:
+a) Presidente: El Presidente del Tribunal Superior de Justicia de Galicia.
+b) Vicepresidente: El elegido por los Vocales, de entre los de origen judicial, en la sesión constitutiva que se celebrará a convocatoria del Secretario.
+c) Cuatro Vocales, Magistrados del Tribunal Superior de Justicia.
+d) Cuatro Vocales, Profesores en activo de las Facultades de Derecho, de Ciencias Políticas o de Sociología de las Universidades de Galicia.
+2. Las designaciones de los Vocales, en lo no previsto por el apartado anterior, se realizará en los noventa días siguientes a la sesión constitutiva del Parlamento, de acuerdo con las siguientes normas:
+a) Los Magistrados del Tribunal Superior de Justicia serán designados por sorteo efectuado ante el Presidente del Tribunal.
+b) Los Profesores de las Facultades de Derecho, de Ciencias Políticas o de Sociología serán designados a propuesta conjunta de los partidos, federaciones, coaliciones o agrupaciones de electores con representación en el Parlamento. Cuando la propuesta no tenga lugar en el plazo establecido en el párrafo primero de este apartado, la Mesa del Parlamento, oídas las fuerzas políticas presentes en la Cámara, procederá a su designación, en consideración a la representación existente en ella.
+Se modifican los apartados 1.d) y 2.b) por el art. único.5 de la Ley 15/1992, de 30 de diciembre. Ref. BOE-A-1993-5016.
+
+### Artículo 15
+
+Artículo 15.
+1. Los miembros de la Junta Electoral de Galicia serán nombrados por Decreto al comienzo de cada legislatura y continuarán su mandato hasta la toma de posesión de la nueva Junta Electoral.
+2. El Secretario de la Junta Electoral de Galicia es el Letrado Mayor del Parlamento. Participa con voz y sin voto en sus deliberaciones y custodia la documentación correspondiente a la Junta Electoral.
+
+### Artículo 16
+
+Artículo 16.
+El Parlamento pondrá a disposición de la Junta Electoral de Galicia los medios personales y materiales para el ejercicio de sus funciones.
+
+### Artículo 17
+
+Artículo 17.
+1. Los miembros de la Junta Electoral de Galicia son inamovibles y sólo podrán ser suspendidos por delitos o faltas electorales, mediante expediente incoado por la propia Junta en virtud de acuerdo de la mayoría absoluta de sus componentes, sin perjuicio del procedimiento judicial correspondiente.
+2. En el supuesto previsto en el número anterior, así como en el caso de renuncia justificada y aceptada por el Presidente, se procederá a la sustitución de los miembros de la Junta Electoral de la Comunidad Autónoma de acuerdo con las siguientes reglas:
+a) El Vicepresidente y los Vocales serán sustituidos por los mismos procedimientos previstos para su designación.
+b) El Letrado Mayor del Parlamento será sustituido por el Letrado más antiguo y, en caso de igualdad, por el de mayor edad.
+
+### Artículo 18
+
+Artículo 18.
+Además de las competencias establecidas en la legislación vigente, corresponde a la Junta Electoral de Galicia:
+a) Cursar instrucciones de obligado cumplimiento a las Juntas Provinciales en la materia electoral objeto de esta Ley.
+b) Resolver, con carácter vinculante, las consultas que le eleven a las Juntas provinciales en la misma materia.
+c) Revocar de oficio, en cualquier momento, o a instancia de parte interesada, dentro de los plazos previstos en el artículo 21 de la Ley Orgánica del Régimen Electoral General, las decisiones de las Juntas Provinciales, cuando se opongan a la interpretación de la normativa electoral realizada por la Junta Electoral de Galicia.
+d) Unificar los criterios interpretativos de las Juntas Provinciales en la aplicación de la normativa electoral.
+e) Aprobar, a propuesta de la Administración de la Junta, los modelos de actas de constitución de Mesas electorales, de escrutinio, de sesión, de escrutinio general y de proclamación de electos. Tales modelos habrán de permitir la expedición instantánea de copias de las actas mediante documentos autocopiativos y otros procedimientos análogos.
+f) Resolver las quejas, reclamaciones y recursos que se le dirijan con arreglo a la presente Ley o cualquier otra disposición que le atribuya esa competencia.
+g) Ejercer potestad disciplinaria sobre todas las personas que intervengan con carácter oficial en las operaciones electorales.
+h) Corregir las infracciones que se produzcan en el proceso electoral, siempre que no sean constitutivas de delito, e imponer multas hasta la cuantía de 250.000 pesetas.
+i) Expedir las credenciales a los Diputados de los supuestos de vacantes por fallecimiento, incapacidad y renuncia, una vez terminado el mandato de las Juntas Electorales Provinciales.
+j) Aplicar y garantizar el derecho de uso gratuito de espacios en los medios de comunicación de propiedad pública, en el supuesto previsto en los artículos 27, 28 y 29 de la presente Ley», y en general, garantizar el ejercicio de las libertades públicas durante el proceso electoral.
+Se modifica por el art. único.6 de la Ley 15/1992, de 30 de diciembre. Ref. BOE-A-1993-5016.
+
+## TÍTULO V
+
+Procedimiento electoral
+
+## CAPÍTULO PRIMERO
+
+Representantes de las candidaturas ante la administración electoral
+
+### Artículo 19
+
+Artículo 19.
+1. Los partidos, federaciones, coaliciones y agrupaciones que pretendan concurrir a las elecciones al Parlamento de Galicia designarán a las personas que deban representarlos ante la administración electoral, como representantes generales o de candidaturas.
+2. Los representantes generales actúan en nombre de los partidos, federaciones, coaliciones y agrupaciones concurrentes.
+3. Los representantes de las candidaturas lo son de los candidatos incluidos en ellas.
+A su domicilio, o al lugar que designen a esos efectos, se les remitirán las notificaciones, escritos y emplazamientos dirigidos por la administración electoral a los candidatos, de los que reciben, por la sola aceptación de la candidatura, un apoderamiento general para actuar en procedimientos judiciales en materia electoral.
+
+### Artículo 20
+
+Artículo 20.
+1. A los efectos previstos en el artículo anterior, los partidos, federaciones, coaliciones y agrupaciones que pretendan concurrir a las elecciones al Parlamento de Galicia designarán, por escrito, ante la Junta Electoral de Galicia un representante general, antes del noveno día posterior a la convocatoria de elecciones. El mencionado escrito habrá de expresar la aceptación de la persona designada.
+2. Cada uno de los representantes generales designará, antes del undécimo día posterior a la convocatoria, ante la Junta Electoral de Galicia, a los representantes de las candidaturas que su partido, federación, coalición o agrupación presente en cada una de las circunscripciones electorales.
+3. En el plazo de dos días la Junta Electoral de Galicia comunicará a las Juntas Electorales Provinciales los nombres de los representantes de las candidaturas correspondientes a su circunscripción.
+4. Los representantes de las candidaturas se presentarán personalmente ante las respectivas Junas Provinciales para aceptar su designación, antes del decimoquinto día posterior a la convocatoria de elecciones.
+
+## CAPÍTULO II
+
+Presentación y proclamación de candidatos
+
+### Artículo 21
+
+Artículo 21.
+1. Para las elecciones al Parlamento de Galicia, la Junta Electoral competente para todas las actuaciones previstas en relación a la presentación y proclamación de candidatos es la Junta Electoral Provincial.
+2. Cada candidatura se presentará mediante lista de candidatos.
+3. Para presentar candidaturas, las agrupaciones de electores necesitarán, al menos, la firma del 1 por 100 de los inscritos en el censo electoral de la circunscripción.
+4. Las candidaturas presentadas y las candidaturas proclamadas de las cuatro circunscripciones de Galicia se publicarán en el «Diario Oficial de Galicia».
+
+### Artículo 22
+
+Artículo 22.
+1. La presentación de candidatos habrá de realizarse mediante listas que deben incluir tantos candidatos como cargos a elegir y, además, un número de suplentes no superior a cinco.
+2. En cualquier caso, las listas habrán de contener el número exacto de escaños que deban ser cubiertos, sin que se pueda admitir ninguna lista que no cumpla tal requisito.
+3. Las Juntas Electorales Provinciales inscribirán la candidatura haciendo constar la fecha y hora de presentación de la misma. Expedirán documento acreditativo de este trámite si se les solicita.
+
+### Artículo 23
+
+Artículo 23.
+Las candidaturas electorales no podrán ser objeto de modificación una vez presentadas, salvo en el plazo establecido para la subsanación de irregularidades y sólo por fallecimiento o renuncia del titular, operándose automáticamente la subsanación por el orden de los suplentes, salvo que el representante dijese otra cosa.
+
+## CAPÍTULO III
+
+Campaña electoral
+
+### Artículo 24
+
+Artículo 24.
+Se entiende por campaña electoral, a efectos de esta Ley, el conjunto de actividades lícitas llevadas a cabo por los candidatos, partidos, federaciones, coaliciones o agrupaciones en orden a la captación de sufragios.
+
+### Artículo 25
+
+Artículo 25.
+1. La campaña electoral tendrá una duración no interior a quince días ni superior a veintiuno.
+2. Terminará, en todo caso, a las cero horas del día inmediatamente anterior al de la votación.
+3. Durante la campaña electoral los poderes públicos de la Comunidad Autónoma de Galicia podrán realizar una campaña institucional destinada a informar y fomentar la participación de los electores en la votación, sin influir en la orientación de voto. Queda prohibida la utilización por los partidos políticos, federaciones, coaliciones o agrupaciones que concurran a las elecciones de los elementos identificativos de la campaña institucional, de los que serán informados con anterioridad al inicio de la misma.
+4. La propaganda y los actos de campaña electoral se ajustarán a lo dispuesto en la Ley Orgánica del Régimen Electoral General.
+Se modifica por el art. único.7 de la Ley 15/1992, de 30 de diciembre. Ref. BOE-A-1993-5016.
+
+## CAPÍTULO IV
+
+Utilización de los medios de la Compañía de Radio y Televisión de Galicia
+
+### Artículo 26
+
+Artículo 26.
+No se podrán contratar espacios de publicidad electoral en los medios de comunicación de la Compañía de Radio y Televisión de Galicia.
+
+### Artículo 27
+
+Artículo 27.
+1. Durante la campaña electoral los partidos, federaciones, coaliciones o agrupaciones que concurran a las elecciones tienen derecho a espacios gratuitos de propaganda en las emisoras de televisión y radio de la Compañía de RTVG, con arreglo a lo establecido en este artículo y en los siguientes.
+2. La distribución de los mencionados espacios se hace en función del número total de votos obtenidos por cada partido, federación o coalición en las anteriores elecciones al Parlamento de Galicia.
+3. Si las elecciones al Parlamento de Galicia se celebran simultáneamente con las elecciones municipales, para la distribución de espacios en las emisoras de la Compañía de RTVG sólo se tienen en cuenta los resultados de las anteriores elecciones a dicho Parlamento.
+Se modifica por el art. único.8 de la Ley 15/1992, de 30 de diciembre. Ref. BOE-A-1993-5016.
+
+### Artículo 28
+
+Artículo 28.
+1. La Junta Electoral de Galicia es la autoridad competente para distribuir los espacios gratuitos de propaganda electoral que se emitan por los medios de comunicación de la Compañía de RTVG a propuesta de la Comisión a que se refiere el apartado siguiente de este artículo.
+2. La Comisión de Control Electoral de RTVG será designada por la Junta Electoral de la Comunidad Autónoma de Galicia y estará integrada por un representante de cada partido, federación, coalición y agrupación que concurran a las elecciones convocadas al Parlamento y cuenten con representación en el mismo. Dichos representantes votarán ponderadamente de acuerdo con la composición del Parlamento.
+
+### Artículo 29
+
+Artículo 29.
+1. La distribución del tiempo gratuito de propaganda electoral en cada medio de comunicación de la Compañía de RTVG y en los distintos ámbitos de programación que éstos tengan se efectuará con arreglo al siguiente baremo:
+A) En la TVG:
+a) Diez minutos para los partidos, federaciones y coaliciones que no han concurrido u obtenido representación en las anteriores elecciones al Parlamento de Galicia.
+b) Veinte minutos para aquellos que, obteniéndola, no han alcanzado el 5 por 100 del total de votos válidos emitidos en la Comunidad Autónoma.
+c) Treinta minutos para los partidos, federaciones y coaliciones que hayan obtenido representación en las anteriores elecciones al Parlamento de Galicia y han alcanzado entre el 5 y el 15 por 100 del total de votos a que se hace referencia en el apartado precedente.
+d) Cuarenta y cinco minutos para los partidos, federaciones y coaliciones que han obtenido representación en las anteriores elecciones al Parlamento de Galicia y han alcanzado, al menos, un 15 por 100 del total de votos a que se hace referencia en párrafo b).
+B) En la Radio Gallega:
+a) Treinta minutos para los partidos, federaciones y coaliciones que no han concurrido u obtenido representación en las anteriores elecciones al Parlamento de Galicia.
+b) Cuarenta minutos para aquellos que, obteniéndola, no han alcanzado el 5 por 100 del total de votos válidos emitidos en la Comunidad Autónoma.
+c) Sesenta minutos para los partidos, federaciones y coaliciones que han obtenido representación en las anteriores elecciones al Parlamento de Galicia y han alcanzado entre el 5 y el 15 por 100 del total de votos a que se hace referencia en el apartado precedente.
+d) Ochenta minutos para los partidos, federaciones y coaliciones que han obtenido representación en las anteriores elecciones al Parlamento de Galicia y han alcanzado, al menos, un 15 por 100 del total de votos a que se hace referencia en el apartado b).
+2. El derecho a los tiempos de emisión gratuita, enumerados en el apartado anterior, sólo corresponde a los partidos, federaciones y coaliciones que presenten candidatura, al menos, en tres circunscripciones electorales de la Comunidad Autónoma.
+3. Las agrupaciones de electores que se federen para realizar propaganda en los medios de la Compañía de Radio y Televisión de Galicia tendrán derecho a quince minutos en Televisión de Galicia y cuarenta minutos en la Radio Gallega de emisión, si cumplen el requisito de presentación de candidaturas exigido en el apartado 2 precedente de este mismo artículo.
+4. Para la determinación del momento y orden de emisión de los espacios gratuitos de propaganda electoral a que se refiere este artículo, la Junta Electoral de Galicia tendrá en cuenta las preferencias de los partidos, federaciones o coaliciones en función del número de votos que han obtenido en las anteriores elecciones al Parlamento de Galicia.
+Se modifica por el art. único.9 de la Ley 15/1992, de 30 de diciembre. Ref. BOE-A-1993-5016.
+
+## CAPÍTULO V
+
+Papeletas y sobres electorales
+
+### Artículo 30
+
+Artículo 30.
+1. Las Juntas Electorales Provinciales son los órganos competentes para aprobar el modelo oficial de las papeletas correspondientes a su circunscripción.
+2. La Xunta de Galicia asegurará la disponibilidad de las papeletas y de los sobres de votación de acuerdo con lo dispuesto en el artículo siguiente, sin perjuicio de su eventual confección por los grupos políticos que concurran a las elecciones.
+
+### Artículo 31
+
+Artículo 31.
+1. La confección de las papeletas y los sobres de votación se inician inmediatamente después de la proclamación de candidatos.
+2. Si contra la proclamación de candidatos se interponen recursos ante el órgano judical contencioso-administrativo competente en la provincia, la confección de las papeletas correspondientes se pospone, en la circunscripción electoral en donde se han interpuesto, hasta la resolución de estos recursos.
+3. La primeras papeletas confeccionadas se entregarán a la Delegación del Gobierno para su envío a los residentes ausentes que viven en el extranjero.
+4. Los Delegados generales de la Xunta aseguran la entrega de papeletas y sobres en número suficiente a las mesas electorales, por lo menos una hora antes del momento en que se deba iniciar la votación.
+
+### Artículo 32
+
+Artículo 32.
+1. Las papeletas electorales destinadas a la elección de Diputados al Parlamento de Galicia han de expresar las indicaciones siguientes:
+a) Denominación, sigla y símbolo del partido, federación, coalición o agrupación de electores que presente la candidatura.
+b) Los nombres y apellidos de los candidatos y de los suplentes, según su orden de colocación, así como, en su caso, la condición de independiente de los candidatos que concurran con tal carácter, o, en caso de coaliciones, la denominación del partido a que pertenezca cada uno si así se ha exigido para la presentación de la lista.
+
+## CAPÍTULO VI
+
+Interventores y Apoderados
+
+### Artículo 33
+
+Artículo 33.
+1. El representante de cada candidatura puede nombrar, hasta tres días antes de la elección, dos Interventores por cada mesa electoral, para que comprueben que la votación se desarrolla de acuerdo con las normas establecidas.
+2. Para ser designado Interventore es exigible la condición de lector de acuerdo con el artículo 2 de la presente Ley, debiendo pertenecer a la circunscripción electoral en la que se encuentre la mesa en la que vaya a desempeñar sus funciones.
+3. El nombramiento se hará mediante la expedición de credenciales talonarias, con la fecha y firma al pie del nombramiento.
+4. Las hojas talonarias por cada Interventor habrán de estar divididas en cuatro partes: Una, como matriz para conservarla el representante; la segunda la entregará el Interventor como credencial; la tercera y cuarta serán remitidas a la Junta de Zona para que ésta haga llegar una de ellas a la mesa electoral de que formen parte y otra a la mesa en la que tengan derecho a votar para su exclusión de la lista electoral.
+5. Las credenciales de nombramiento de interventores se enviarán a las Juntas de Zona hasta el mismo tercer día anterior al de la votación.
+6. Las Juntas de Zona harán la remisión a las mesas de manera que obren en su poder en el momento de constituirse las mismas el día de la votación.
+7. Para integrarse en la mesa el día de la votación, se comprobará que la credencial es conforme a la hoja talonaria que se encuentra en poder de la mesa. De no ser así o de no existir hoja talonaria podrá dársele posesión, consignando el incidente en el acta.
+En este caso, sin embargo, el Interventor no podrá votar en la mesa en la que esté acreditado.
+Si el Interventor concurre sin su credencial, una vez que la mesa ha recibido la hoja talonaria, previa comprobación de su identidad, se le permitirá integrarse en la mesa, teniendo, en este caso, derecho a votar en la misma.
+
+### Artículo 34
+
+Artículo 34.
+1. Los Interventores, como miembros de las mesas, colaborarán en el buen funcionamiento del proceso de votación y escrutinio, velando con el Presidente y los Vocales para que las actas electorales se realicen de acuerdo con la Ley.
+2. Los Interventores podrán:
+a) Solicitar certificaciones del acta de constitución de la mesa y del acta general de la sesión o de un extremo determinado de ellas. No se expedirá más de una certificación por candidatura.
+b) Reclamar sobre la identidad de un elector, lo que deberá realizar públicamente.
+c) Anotar, si lo desea, en una lista numerada de electores, el nombre y número de orden en que emiten sus votos.
+d) Pedir durante el escrutinio la papeleta leída por el Presidente, para su examen.
+e) Formular las protestas y reclamaciones que considere oportunas, teniendo derecho a hacerlas constar en el acta general de la sesión.
+
+### Artículo 35
+
+Artículo 35.
+1. El representante de cada candidatura puede otorgar poder a favor de cualquier ciudadano, mayor de edad, que se encuentre en pleno uso de sus derechos civiles y políticos con objeto de ostentar la representación de la candidatura en los actos y operaciones electorales.
+2. El apoderamiento se formaliza ante Notario o ante el Secretario de la Junta Electoral Provincial o de Zona, los cuales expiden la correspondiente credencial, conforme al modelo oficialmente establecido.
+
+### Artículo 36
+
+Artículo 36.
+Los Apoderados tienen las mismas facultades que los Interventores, si bien deberán votar en la sección y mesa que les corresponda de acuerdo con su inscripción en el censo.
+
+### Artículo 37
+
+Artículo 37.
+Los Apoderados deben mostrar sus credenciales y su documento nacional de identidad a los miembros de las mesas electorales y demás autoridades competentes.
+
+### CAPÍTULO VI BIS
+
+Del escrutinio
+Artículo 37 bis.
+1. Las juntas electorales provinciales realizarán el escrutinio general el octavo día siguiente al de la votación.
+2. El escrutinio habrá de realizarse en la forma prevista en la Ley orgánica del régimen electoral general y concluirá no más tarde del undécimo día posterior a las elecciones.
+Se añade por el art. único de la Ley 12/2004, de 7 de diciembre. Ref. BOE-A-1985-21380.
+
+## CAPÍTULO VII
+
+De los Diputados proclamados
+
+### Artículo 38
+
+Artículo 38.
+La Presidencia de la Junta Electoral de Galicia remitirá al Parlamento la lista de Parlamentarios proclamados en las circunscripciones electorales.
+
+## TÍTULO VI
+
+Gastos y subvenciones electorales
+(Derogado).
+Se deroga por la disposición derogatoria única.1 de la Ley 9/2015, de 7 de agosto. Ref. BOE-A-2015-10235.
+
+### Artículo 39
+
+Artículo 39.
+Toda candidatura debe tener un Administrador electoral responsable de sus ingresos, de sus gastos y de su contabilidad.
+
+### Artículos 39 a 47
+
+Artículos 39 a 47.
+(Derogados).
+Se derogan por la disposición derogatoria única.1 de la Ley 9/2015, de 7 de agosto. Ref. BOE-A-2015-10235#ddunica.
+
+### Artículo 40
+
+Artículo 40.
+1. Los partidos, federaciones, coaliciones y agrupaciones de electores que presenten candidatura en más de una circunscripción han de tener, además, un Administrador general responsable de todos los ingresos y gastos electorales, así como de la correspondiente contabilidad.
+2. Los Administradores electorales de las candidaturas actúan bajo la responsabilidad del Administrador general.
+
+### Artículo 41
+
+Artículo 41.
+1. Podrá ser designado Administrador electoral cualquier ciudadano mayor de edad y en pleno uso de sus derechos civiles y políticos.
+2. No podrá ser Administrador electoral ningún candidato.
+
+### Artículo 42
+
+Artículo 42.
+1. Los Administradores de las candidaturas son designados por escrito ante la Junta Electoral Provincial correspondiente por sus respectivos representantes en el acto de presentación de las candidaturas. El escrito habrá de expresar la aceptación de la persona designada. Las Juntas Electorales Provinciales comunicarán a la Junta Electoral de Galicia los designados en su circunscripción.
+2. Los representantes generales de los partidos, asociaciones, federaciones y agrupaciones electorales presentarán un escrito, antes del día 15 posterior a la convocatoria de elecciones, con el nombre del Administrador general. El escrito habrá de expresar la aceptación de la persona indicada.
+
+### Artículo 43
+
+Artículo 43.
+1. Los Administradores generales y los de las candidaturas comunicarán a la Junta Electoral de Galicia y a las Juntas Provinciales, respectivamente, las cuentas abiertas para la recaudación de fondos.
+2. La apertura de cuentas puede realizarse a partir de la fecha de nombramiento de los Administradores electorales, en cualquier Entidad bancaria o Caja de Ahorros. La comunicación a que hace referencia el apartado anterior ha de realizarse en las veinticuatro horas siguientes a la apertura de las cuentas.
+3. Si las candidaturas presentadas no fuesen proclamadas o renunciasen a concurrir a las elecciones al Parlamento de Galicia, las imposiciones realizadas por terceros en estas cuentas habrán de serles restituidas por los partidos, federaciones, coaliciones o agrupaciones que las promovieron.
+
+### Artículo 44
+
+Artículo 44.
+1. La Comunidad Autónoma subvencionará los gastos electorales de acuerdo con las siguientes reglas:
+a) Dos millones de pesetas para cada escaño obtenido en el Parlamento de Galicia.
+b) Setenta y cinco pesetas por cada uno de los votos conseguidos por cada candidatura, si uno, al menos, de los miembros de ella ha obtenido escaño de Diputado.
+2. Además de las subvenciones a que se refiere el apartado anterior, la Comunidad Autónoma subvencionará a los partidos, federaciones, coaliciones y agrupaciones de electores los gastos ocasionados por el envío directo y personal a los electores de sobres y papeletas electorales o de propaganda y publicidad electoral a razón de 20 pesetas por elector, siempre que la candidatura de referencia obtenga representación.
+3. El límite de los gastos electorales en las elecciones al Parlamento de Galicia será el que resulte de multiplicar por 60 pesetas el número de habitantes correspondiente a la población de derecho de la circunscripción en donde presente sus candidaturas cada partido, federación, coalición o agrupación de electores.
+No se incluirán dentro del límite de los gastos electorales las cantidades subvencionadas de acuerdo con lo dispuesto en el apartado anterior.
+4. Las cantidades mencionadas en los apartados anteriores se refieren a pesetas constantes. La Consejería de Economía y Hacienda fijará las cantidades actualizadas en los cinco días siguientes a la convocatoria de elecciones.
+5. Ningún partido, federación, coalición o agrupación podrá realizar gastos electorales que superen los límites establecidos en el apartado 3 de este artículo.
+Téngase en cuenta que las cantidades establecidas en este artículo se actualizan periódicamente por Orden publicada en el Boletín Oficial de Galicia.
+Se modifica por el art. único.10 de la Ley 15/1992, de 30 de diciembre. Ref. BOE-A-1993-5016.
+
+### Artículo 45
+
+Artículo 45.
+1. La Comunidad Autónoma de Galicia concederá anticipos de las subvenciones mencionadas a los partidos, coaliciones, federaciones y agrupaciones que hubiesen obtenido representantes en las últimas elecciones celebradas al Parlamento de Galicia, de hasta un 30 por 100 de la subvención percibida en aquéllas.
+2. Si concurriesen en más de una provincia, la solicitud se formulará por el Administrador general ante la Junta Electoral de Galicia. En los restantes supuestos, por el Administrador de la candidatura ante la Junta Electoral Provincial correspondiente, que la cursará a la electoral de Galicia.
+Los anticipos habrán de solicitarse entre los días vigésimo primero y vigésimo tercero posteriores a la convocatoria.
+3. A partir del vigésimo noveno día posterior a la convocatoria, la Administración de la Comunidad pondrá a disposición de las Administraciones Electorales los anticipos correspondientes.
+Los anticipos habrán de reintegrarse en la cuantía, en la que superen el importe definitivo de la subvención.
+
+### Artículo 46
+
+Artículo 46.
+1. En el plazo de cuatro meses posterior a las elecciones, los partidos, federaciones, coaliciones o agrupaciones que alcanzasen los requisitos exigidos para recibir subvenciones de la Comunidad Autónoma o que solicitasen adelantos con cargo a los mismos, presentarán, ante el Consejo de Cuentas, una contabilidad detallada y documentada de sus respectivos ingresos y gastos electorales.
+2. La Administración de la Comunidad Autónoma entregará el importe de las subvenciones a los Administradores electorales de las Entidades que deban percibirlas, a no ser que notificasen a la Junta Electoral de la Comunidad Autónoma que las subvenciones sean abonadas en todo o en parte a las Entidades bancarias que designen, para compensar los anticipos o créditos que les hubiesen otorgado. La Administración de la Comunidad Autónoma verificará el pago conforme a los términos de dicha notificación, que no podrá ser revocada sin consentimiento de la Entidad de crédito beneficiaria.
+
+### Artículo 47
+
+Artículo 47.
+1. El Consejo de Cuentas, en el plazo de un mes a partir del señalado en el apartado 1 del artículo 46, podrá recabar de los obligados las aclaraciones y documentos complementarios que estime necesarios.
+2. Dentro de los siete meses siguientes a las elecciones, el Consejo de Cuentas se pronunciará sobre la regularidad de las contabilidades electorales.
+3. En el supuesto de que apreciase irregularidades o violación de los límites establecidos en la materia de ingresos y gastos electorales, podrá proponer la no adjudicación o la reducción de la subvención a obtener de la Comunidad Autónoma para el partido, coalición, federación o agrupación implicada.
+Si advirtiese, además, indicios de conductas constitutivas de delito, lo comunicará al Ministerio Fiscal.
+4. El Consejo de Cuentas remitirá a la Junta y al Parlamento de Galicia el contenido de la fiscalización mediante informe razonado y detallado comprensivo de declaración del importe de los gastos regulares justificados por cada partido, federación, coalición o agrupación de electores.
+5. Dentro del mes siguiente a la remisión del informe a que se refiere el apartado anterior, la Xunta de Galicia presentará al Parlamento el proyecto de crédito extraordinario por el importe de las subvenciones a adjudicar, las cuales deberán hacerse efectivas dentro de los cien días posteriores a la aprobación por la Cámara.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se faculta a la Xunta de Galicia para dictar las disposiciones precisas para el cumplimiento y ejecución de esta Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+A los efectos previstos en el artículo 10, se ofrece el siguiente ejemplo práctico: 360.000 votos válidos emitidos en una circunscripción que elija 17 Diputados. Votación repartida entre cuatro candidaturas.
+1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ A
+ (1)
+ (3)
+ (5)
+ (7)
+ (10)
+ (12)
+ (14)
+ (16)
+ 160.000
+ 80.000
+ 53.333
+ 40.000
+ 32.000
+ 26.666
+ 22.857
+ 20.000
+ 17.777
+ 16.000
+ 14.545
+ 13.333
+ 12.307
+ 11.428
+ 10.666
+ 10.000
+ 9.411
+ B
+ (2)
+ (6)
+ (9)
+ (13)
+ 98.000
+ 49.000
+ 32.666
+ 24.500
+ 19.600
+ 16.333
+ 14.000
+ 12.250
+ 10.880
+ 9.800
+ 8.909
+ 8.166
+ 7.538
+ 7.000
+ 6.533
+ 6.125
+ 5.764
+ C
+ (4)
+ (11)
+ (15)
+ 62.000
+ 31.000
+ 20.666
+ 15.500
+ 12.400
+ 10333
+ 8.557
+ 7.750
+ 6.888
+ 6.200
+ 5.636
+ 5.166
+ 4.769
+ 4.428
+ 4.123
+ 3.875
+ 3.617
+ D
+ (8)
+ (17)
+ 40.000
+ 20.000
+ 13.333
+ 10.000
+ 8.000
+ 6.666
+ 5.714
+ 5.000
+ 1.111
+ 4.000
+ 3.636
+ 3.333
+ 3.076
+ 2.857
+ 2.666
+ 2.500
+ 2.352
+A
+ 8
+ B
+ 4
+ C
+ 3
+ D
+ 2
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En tanto no se constituya el Tribunal Superior de Justicia de Galicia, todas las referencias a la Audiencia Territorial de La Coruña.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+1. En el plazo de un mes a partir de la entrada en vigor de esta Ley se procederá al nombramiento de los Vocales de la Junta Electoral de la Comunidad Autónoma.
+2. Designados los Vocales de la Junta Electoral de Galicia, se procederá a la constitución de la misma en el plazo de cinco días.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+El régimen de incompatibilidades dispuesto en esta Ley entrará en vigor a partir de las próximas elecciones al Parlamento de Galicia.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+A los efectos previstos en el artículo 27, en las primeras elecciones que se celebren a partir de la entrada en vigor de la presente Ley, se entiende que los grupos parlamentarios existentes en el momento de la disolución de la Cámara asumen la representación proporcional de los electores que, en su día, votaron al partido o coalición por los que se presentaron los Diputados que constituyen los grupos.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+En las primeras elecciones a celebrar después de la entrada en vigor de la presente Ley, el número de Diputados del Parlamento de Galicia es de 71, de los que corresponderán 22 a la provincia de La Coruña, 15 a la de Lugo, 15 a la de Orense y 19 a la de Pontevedra.
+
+### Disposición final primera
+
+Disposición final primera.
+En todo lo no previsto en la presente Ley serán de aplicación las normas vigentes para las elecciones legislativas al Congreso de los Diputados de las Cortes Generales, con las modificaciones y adaptaciones derivadas del carácter y ámbito de la consulta electoral al Parlamento de Galicia y, en este sentido, se entiende que las competencias atribuidas al Estado y a sus órganos y autoridades se asignan a los correspondientes de la Comunidad Autónoma respecto de las materias que no son competencia exclusiva de aquél.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Esta Ley entrará en vigor al día siguiente de su publicación en el «Diario Oficial de Galicia».
+
+Santiago de Compostela, 13 de agosto de 1985.
+JOSÉ LUIS BARREIRO RIVAS
+ GERARDO FERNÁNDEZ ALBOR
+ Consejero de la Presidencia
+ Presidente

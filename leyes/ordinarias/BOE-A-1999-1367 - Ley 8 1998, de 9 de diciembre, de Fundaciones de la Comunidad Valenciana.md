@@ -1,0 +1,613 @@
+# Ley 8/1998, de 9 de diciembre, de Fundaciones de la Comunidad Valenciana.
+
+- Identificador BOE: `BOE-A-1999-1367`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-1367
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley:
+PREÁMBULO
+El Estatuto de Autonomía de la Comunidad Valenciana, en el apartado 23 del artículo 31, confiere competencia exclusiva a la Generalidad Valenciana en materia de fundaciones y asociaciones de carácter docente, cultural, artístico, benéfico-asistencial y similares que desarrollen principalmente sus funciones en la Comunidad.
+En virtud de ello, el Gobierno Valenciano dictó diversas disposiciones sobre esta materia, entre las que destacan, fundamentalmente, el Decreto 146/1983, de 21 de noviembre, de creación del Registro de Fundaciones y Asociaciones Docentes y Culturales Privadas y Entidades Análogas; el Decreto 15/1991, de 21 de enero, de creación del Registro de Fundaciones; el Decreto 215/1993, de 23 de noviembre, por el que se regula la obra benéfico-social de las cajas de ahorros con domicilio social en la Comunidad Valenciana; el Decreto 60/1995, de 18 de abril, de Creación del Registro y Protectorado de Fundaciones de la Comunidad Valenciana, que derogó los dos Decretos primeramente citados y modificó el Decreto 215/1993, de 23 de noviembre, que, a su vez, fue modificado por los Decretos 42/1996, de 5 de marzo, y 208/1996, de 26 de noviembre, y el Decreto 116/1995, de 6 de junio, de creación del Registro de Fundaciones Benéfico-Asistenciales y Laborales.
+La normativa citada denotaba una visión fragmentaria de la materia fundacional, por lo que en principio, y en lo no previsto en ella, sería de aplicación la Ley 30/1994, de 24 de noviembre, de Fundaciones y de Incentivos Fiscales a la Participación Privada en Actividades de Interés General, así como su normativa de desarrollo. Asimismo, la citada Ley estatal es, según su disposición final primera, de aplicación básica en determinados artículos, los cuales, por lo tanto, deberán ser respetados por la legislación autonómica.
+Desde esta perspectiva, y en atención al título competencial previsto en el apartado 23 del artículo 31 del Estatuto de Autonomía, ya citado, la Generalidad Valenciana tiene competencia para regular el derecho de fundación consagrado constitucionalmente en el artículo 34. Y, para ello, el instrumento idóneo ha de ser el de ley formal, la cual habrá de respetar su contenido esencial, de acuerdo con lo previsto en el artículo 53.1 de la Constitución.
+Por otro lado, el objetivo de la presente Ley es establecer el régimen jurídico de las fundaciones de la Comunidad Valenciana; facilitar su actividad, atendiendo a la realidad sociológica valenciana, y, asimismo, procurar que las fundaciones cumplan, respetando siempre su autonomía, los fines de interés general para cuya satisfacción fueron creadas.
+Asimismo, en esta Ley las fundaciones se sitúan y entienden no en la alternativa entre administración o sociedad, sino más bien como instrumento privado, surgido en la esfera de la libertad, para cumplir con protección de la administración fines a los que ésta por sí sola no puede atender y que encajan en el ámbito de la función social de la propiedad. Todo ello sin perjuicio de que las propias personas jurídico-públicas puedan constituir fundaciones, salvo que sus normas reguladoras establezcan lo contrario.
+En definitiva, la presente Ley crea un marco jurídico estable que, fomentando la solidaridad, coadyuve al inalienable derecho de libertad del fundador para satisfacer altruistamente fines de interés general cuyo cumplimiento demanda la sociedad civil.
+
+## TÍTULO I
+
+De las fundaciones
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. La presente Ley tiene por objeto la regulación de las fundaciones de competencia de la Generalitat, de acuerdo con lo dispuesto en el apartado 1, 23.ª, del artículo 49 del Estatut d’Autonomia de la Comunitat Valenciana.
+2. Se regirán por lo dispuesto en esta Ley:
+a) Las fundaciones que desarrollen principalmente sus funciones en el territorio de la Comunitat Valenciana.
+b) Las delegaciones de las fundaciones extranjeras que actúen principalmente en el territorio de la Comunitat Valenciana.
+c) Las fundaciones que se inscriban en el Registro de Fundaciones de la Comunitat Valenciana para desarrollar una de sus actividades principales en el extranjero.
+3. Para determinar la sumisión a la presente Ley se estará a lo que, sobre el ámbito territorial en que hayan de desarrollar principalmente sus actividades, determinen los Estatutos de la fundación.
+Se modifica por el art. 1.1 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 2
+
+Artículo 2. Régimen jurídico.
+Las fundaciones se rigen por la voluntad del fundador, por sus Estatutos y, en todo caso, por la Ley.
+Se modifica por el art. 1.2 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 3
+
+Artículo 3. Fines y beneficiarios.
+1. Las fundaciones deberán perseguir fines de interés general, como pueden ser, entre otros y además de los así declarados por la legislación estatal como condiciones básicas del derecho de fundación, los de estudio, promoción y defensa del patrimonio natural y cultural valenciano y de la lengua valenciana; el estudio y divulgación de la historia valenciana; los de apoyo a un modelo de desarrollo sostenible; la promoción del mundo rural; los de fomento de la economía o de la investigación; los de apoyo a la igualdad de oportunidades entre hombres y mujeres; la defensa de los principios estatutarios, y cualesquiera otros de naturaleza análoga.
+2. En cuanto a los beneficiarios de la finalidad fundacional, se estará a lo dispuesto en el apartado 2 del artículo 3 de la Ley 50/2002, de 26 de diciembre, de Fundaciones.
+3. Los beneficiarios serán seleccionados por las fundaciones democráticamente con criterios de imparcialidad, no discriminación y objetividad, de acuerdo con las bases, normas o reglas que se elaboren para su selección. Las fundaciones deberán dar, a tal efecto, la mayor publicidad e información a sus propios fines y actividades.
+4. Quedan prohibidas las fundaciones cuya finalidad principal sea la de destinar sus prestaciones al fundador o a los Patronos, sus cónyuges o personas ligadas con análoga relación de afectividad, o a sus parientes, por consanguinidad o afinidad, hasta el cuarto grado inclusive, así como a personas jurídicas singularizadas que no persigan fines de interés general.
+5. No se incluyen en el apartado anterior las fundaciones cuya finalidad exclusiva o principal sea la conservación y restauración de los bienes a los que se refiere la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, y la Ley 4/1998, de 11 de junio, de la Generalitat, del Patrimonio Cultural Valenciano.
+Se modifica por el art. 1.3 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 4
+
+Artículo 4. Personalidad jurídica.
+1. Las fundaciones reguladas en esta Ley adquirirán su personalidad jurídica desde la inscripción de la escritura pública de su constitución en el Registro de Fundaciones de la Comunidad Valenciana.
+2. La inscripción sólo podrá ser denegada con resolución motivada:
+a) Cuando la escritura de constitución no se ajuste a las prescripciones de la Ley.
+b) Cuando alguna disposición de los estatutos de la fundación o manifestación de la voluntad del fundador sea contraria a la presente Ley y afecte a la validez constitutiva de la fundación. Si no afectara a dicha validez, se tendrá por no puesta.
+3. El Protectorado podrá clasificar las fundaciones inscritas de acuerdo con la naturaleza de los fines de interés general que persigan.
+
+### Artículo 5
+
+Artículo 5. Domicilio.
+1. Deberán estar domiciliadas en la Comunidad Valenciana las fundaciones que desarrollen principalmente su actividad dentro de su territorio.
+2. Las fundaciones tendrán su domicilio social en el lugar donde se encuentre la sede de su órgano de gobierno, que deberá radicar en el ámbito territorial en donde vaya a desarrollar principalmente sus actividades.
+3. Las fundaciones que se inscriban en el Registro de Fundaciones de la Comunidad Valenciana para desarrollar una de sus actividades principales en el extranjero tendrán su domicilio social en la sede de su órgano de gobierno dentro del territorio de la Comunidad Valenciana.
+
+### Artículo 6
+
+Artículo 6. Fundaciones extranjeras.
+Las fundaciones extranjeras que ejerzan principalmente sus actividades en la Comunidad Valenciana deberán establecer una delegación en territorio valenciano e inscribirse en el Registro de Fundaciones. La inscripción podrá denegarse con resolución motivada cuando los fines no sean de interés general o cuando no estén válidamente constituidas con arreglo a su ley personal.
+
+## CAPÍTULO II
+
+Constitución de las fundaciones
+
+### Artículo 7
+
+Artículo 7. Capacidad para fundar.
+1. En cuanto a la capacidad para fundar de las personas físicas o jurídicas, se estará a lo dispuesto en el artículo 8 de la Ley 50/2002, de 26 de diciembre, de Fundaciones.
+2. Las personas jurídico-públicas tendrán capacidad para constituir fundaciones, salvo que sus normas reguladoras establezcan lo contrario y sin que su constitución pueda comportar el establecimiento de servicios públicos cuya prestación, en régimen de fundación, no se halle especialmente prevista.
+3. Las personas jurídicas habrán de designar a quien haya de actuar por ellas en el acto de constitución.
+Se modifica por el art. 1.4 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 8
+
+Artículo 8. Constitución mediante testamento.
+Si en la constitución de una fundación por acto mortis causa, el testador se hubiera limitado a establecer su voluntad de constituir una fundación y de disponer de los bienes y derechos de la dotación, la escritura pública en la que se contengan los demás requisitos exigidos por esta Ley se otorgará por el albacea testamentario y, en su defecto, por los herederos testamentarios, y en caso de que éstos no existieran, o incumplieran esta obligación, la escritura se otorgará por el Protectorado, previa autorización judicial.
+Se modifica por el art. 1.5 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 9
+
+Artículo 9. Escritura de constitución.
+La escritura de constitución de una fundación deberá contener, al menos, los siguientes extremos:
+a) El nombre, apellidos, edad y estado civil de los fundadores si son personas físicas, y la denominación o razón social si son personas jurídicas, y en ambos casos la nacionalidad, el domicilio y número de Identificación Fiscal.
+b) La voluntad de constituir una fundación.
+c) La dotación, su procedencia y valoración. Al notario autorizante deberá acreditársele la forma y realidad de la aportación en los términos expresados en el artículo 11 de esta Ley, uniéndose los documentos justificativos originales a la escritura.
+d) Los Estatutos de la fundación, cuyo contenido se ajustará a las prescripciones del artículo siguiente.
+e) La identificación de las personas que integran el Patronato, así como su aceptación si se efectúa en el momento fundacional.
+f) La certificación del Registro de Fundaciones de la Comunitat Valenciana acreditativa de no hallarse inscrita, o pendiente de inscripción, ninguna otra fundación con denominación idéntica o semejante a la de la que se pretende constituir.
+Se modifica por el art. 1.6 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 10
+
+Artículo 10. Estatutos.
+En los Estatutos de la fundación se hará constar, en cualquiera de las dos lenguas oficiales en el territorio de la Comunitat Valenciana:
+a) La denominación de la entidad, en la que deberán figurar las palabras Fundación de la Comunitat Valenciana o Fundació de la Comunitat Valenciana, que no podrá coincidir, o asemejarse de manera que pueda crear confusión, con ninguna otra previamente inscrita en el Registro de Fundaciones de la Comunitat Valenciana.
+No obstante, en la denominación de las fundaciones que han de ser autorizadas por el Consell, tras la palabra Fundación o Fundació, según la lengua elegida, podrá continuarse con la expresión Comunitat Valenciana, seguida de un guión y a continuación el resto de la denominación que la individualice; o bien, tras la citada palabra, según la lengua elegida, su individuidad, a la que seguirá el guión y la expresión Comunitat Valenciana.
+b) Los fines fundacionales, con especificación de las actividades encaminadas a su cumplimiento.
+c) El domicilio de la fundación.
+d) El ámbito territorial en que haya de desarrollar principalmente sus actividades.
+e) Las reglas básicas para la aplicación de los recursos al cumplimiento de los fines fundacionales y para la determinación de los beneficiarios.
+f) La composición del Patronato, las reglas para la designación y sustitución de sus miembros, las causas de su cese, sus atribuciones y la forma de deliberar y adoptar acuerdos.
+g) Las causas de su extinción y el destino de los bienes y derechos resultantes de su liquidación, en los términos previstos en el apartado 2 del artículo 26 de esta Ley.
+h) Cualesquiera otras disposiciones y condiciones lícitas que los fundadores tengan a bien establecer.
+Se modifica por el art. 1.7 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 11
+
+Artículo 11. Dotación de la fundación.
+1. La dotación se rige por lo dispuesto en el artículo 12 de la Ley 50/2002, de 26 de diciembre, de Fundaciones. Sin perjuicio de dicha regulación, tendrán, asimismo, la consideración legal de dotación los bienes y derechos de contenido patrimonial que durante la existencia de la fundación se aporten en tal concepto por el fundador o por terceras personas, o que se afecten por el Patronato, con carácter permanente, a los fines fundacionales.
+La promesa de aportaciones económicas por terceros sólo podrá hacerse con el carácter de dotación cuando estuvieran garantizadas por títulos de los que llevan aparejada ejecución. En ningún caso se podrá considerar como dotación el mero propósito de recaudar donativos, aunque sean cuotas o subvenciones periódicas o cualesquiera otros ingresos a título gratuito.
+2. La valoración de los bienes y derechos que integren la dotación, dinerarios o no, deberá consignarse en la moneda de curso legal en España.
+3. Las aportaciones dinerarias a la dotación se justificarán al notario autorizante de la escritura de constitución, o si la aportación con carácter dotacional fuera posterior, al Patronato, que lo pondrá en conocimiento del Registro de Fundaciones de la Comunitat Valenciana, y se justificará, en ambos casos, mediante certificación acreditativa de la entidad de crédito de hallarse depositadas en la misma a nombre de la fundación en constitución o constituida.
+4. Las aportaciones no dinerarias, cualquiera que sea su clase y naturaleza, deberán ser efectuadas por los aportantes en la escritura de constitución o de aportación a la dotación, donde figurarán debidamente reseñadas, y su valor se acreditará al notario autorizante de la forma siguiente:
+a) Tratándose de bienes muebles o inmuebles, mediante certificación por titulado competente bajo su responsabilidad, salvo lo dispuesto en los apartados b y c siguientes.
+b) Si fueran valores cotizados en mercado secundario oficial, mediante certificación de la bolsa donde cotizaran referida al quinto día anterior a la constitución de la fundación o de la escritura de aportación.
+c) Si se tratase de valores no cotizados en mercado secundario, o participaciones en sociedades mercantiles, mediante certificación, del órgano de administración de la entidad a que correspondan dichos bienes, acreditativa de su valor teórico contable con arreglo a su último balance.
+Dichos documentos se incorporarán originales a la escritura pública.
+5. La aportación de la dotación inicial, si es dineraria, podrá hacerse de forma sucesiva, en cuyo caso el desembolso habrá de ser como mínimo del 25 % de la misma; el resto se desembolsará en un plazo no superior a cinco años contados desde el otorgamiento de la escritura de la fundación, en las fechas que determine el Patronato. Para acreditar la realidad de las aportaciones, se estará a lo establecido en el apartado 3 de este artículo.
+6. La dotación podrá incrementarse tanto mediante nuevas aportaciones dinerarias o no dinerarias al patrimonio fundacional, como a través de la transformación de reservas o excedentes que ya figuraban en dicho patrimonio, bien de forma voluntaria o por obligación legal, de acuerdo con el artículo 20.5 de esta Ley.
+Las aportaciones dinerarias y las no dinerarias se justificarán según lo dispuesto en los apartados 3 y 4 de este artículo.
+Cuando el aumento de dotación se haga con cargo a reservas o excedentes, se justificará mediante certificación del Patronato, acreditativa del origen de los mismos, y aportación del último balance aprobado y depositado en el Registro de Fundaciones de la Comunitat Valenciana.
+Se modifica por el art. 1.8 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+ Se añade el apartado 6 por el art. 55 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213
+
+### Artículo 12
+
+Artículo 12. Promoción de fundaciones.
+1. Quienes pretendan promover la constitución de una fundación y recaudar su dotación mediante suscripciones, cuestaciones públicas u otros actos análogos, deberán presentar al Protectorado la escritura pública de promoción para su depósito en el Registro de Fundaciones de la Comunitat Valenciana, con carácter previo al inicio de las actividades de recaudación. Dicho documento, que podrá redactarse en cualquiera de las dos lenguas oficiales de la Comunitat Valenciana, deberá contener los siguientes extremos:
+a) Nombre, apellidos, edad y estado civil de quienes pretendan promover la fundación si son personas físicas, y la denominación o razón social si son personas jurídicas, y en ambos casos la nacionalidad, el domicilio y su identificación fiscal.
+b) Denominación de la fundación cuya constitución se promueve, en los términos establecidos en el artículo 10 de esta Ley, que deberá incluir las palabras Fundación de la Comunitat Valenciana en promoción o Fundació de la Comunitat Valenciana en promoció.
+c) Fines de interés general que perseguirá la fundación cuya constitución se promueve.
+d) Proyecto de Estatutos de la futura fundación.
+e) Programa de actividades en orden a la consecución de aportaciones suficientes para alcanzar la dotación.
+f) Indicación del plazo de duración de la promoción, que podrá ser prorrogado expresamente por una sola vez.
+g) Cuentas abiertas en entidades de crédito en que se ingresarán las aportaciones.
+h) Identificación de las entidades no lucrativas, públicas o privadas, que tengan afectados sus bienes a fines de interés general análogos a los de la fundación en promoción, que pudieran resultar destinatarias de los bienes y derechos obtenidos con la promoción.
+2. En el caso de que la fundación no llegue a constituirse, se reintegrará a los aportantes todas las contribuciones efectuadas, a no ser que éstos hubieran manifestado su voluntad expresa de que lo recaudado se destine a las entidades no lucrativas mencionadas en la letra h del apartado anterior.
+3. Quienes pretendan promover la constitución de una fundación no tendrán derecho alguno a reembolsarse de los gastos que puedan o deban atender con motivo de su actuación. Igualmente, serán responsables personal y solidariamente de la conservación e integridad de los bienes y derechos que recauden, así como de su aportación a la fundación que se constituya o, en su caso, de la devolución a los aportantes, o bien de su entrega a las entidades mencionadas en la letra h del apartado 1 de este artículo.
+4. Una vez finalizadas las actividades de la promoción o transcurrido el plazo previsto para la realización de las mismas y, en su caso, la prórroga, se deberá otorgar la escritura de constitución de la fundación y presentarla para su inscripción en el Registro de Fundaciones de la Comunitat Valenciana, o acreditarse al Protectorado el cumplimiento de lo dispuesto en el apartado 2 de este artículo.
+Se modifica por el art. 1.9 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+## CAPÍTULO III
+
+Gobierno de la fundación
+
+### Artículo 13
+
+Artículo 13. Patronos.
+1. El Patronato estará constituido por el número de Patronos que determinen los Estatutos, con un mínimo de tres. Podrán serlo tanto las personas físicas como las jurídicas, sean éstas públicas o privadas. Los acuerdos se adoptarán por mayoría de los Patronos en los términos establecidos en los Estatutos.
+En todo caso los actos de disposición o gravamen de bienes inmuebles, establecimientos mercantiles o industriales, bienes de interés cultural y aquellos cuyo importe sea superior al 20 % del activo de la fundación que resulte del último balance aprobado, modificación de los estatutos, fusión y extinción requerirán del voto favorable de la mitad más uno de los patronos.
+2. Los Patronos personas físicas deberán tener plena capacidad de obrar, no estar inhabilitados para el ejercicio de cargos públicos y ejercer personalmente sus funciones en el Patronato. No obstante, podrá actuar en su nombre y representación otro patrono por él designado. Esta actuación será siempre para casos concretos y deberá ajustarse a las instrucciones que el representado formule por escrito.
+Si el llamado a ejercer la función de Patrono lo fuera por razón del cargo que ocupare en entidades públicas o privadas, podrá actuar en su nombre la persona a quien corresponda su sustitución de acuerdo con las normas que las regulen, o la persona que designe en escritura pública si lo es con carácter permanente, o mediante un escrito especial para cada ocasión.
+3. Cuando la condición de Patrono sea atribuida a las personas jurídicas, estas deberán designar, a través de su órgano competente, la persona física que actúe en su representación, que deberá conferirse, en cualquier caso, por escrito. Si la persona física representante lo fuera por razón del cargo, será aplicable lo dispuesto en el párrafo segundo del apartado anterior.
+4. Los patronos entrarán a ejercer sus funciones después de haber aceptado expresamente el cargo en documento público, en documento privado con firma legitimada por notario, en documento privado con firma electrónica avanzada basada en certificado electrónico cualificado o firma electrónica cualificada o mediante comparecencia realizada al efecto en el Registro de Fundaciones de la Comunitat Valenciana.
+Asimismo, la aceptación se podrá llevar a cabo ante el patronato, acreditándose a través de certificación expedida por el secretario y con el visto bueno del presidente en documento privado con firma electrónica avanzada basada en certificado electrónico cualificado o firma electrónica cualificada. O con firma legitimada notarialmente.
+En todo caso, la aceptación se notificará formalmente al Protectorado y se inscribirá en el Registro de Fundaciones de la Comunitat Valenciana.
+5. Los Patronos ejercerán su cargo gratuitamente, sin que en ningún caso puedan percibir retribución por el desempeño de su función. No obstante, tendrán derecho a ser reembolsados de los gastos debidamente justificados que les ocasione el desempeño de su función.
+6. El Patronato elegirá, de entre sus miembros, un Presidente, si no está prevista de otro modo la designación del mismo en la escritura de constitución o en los Estatutos. Asimismo, el Patronato deberá nombrar un secretario, cargo que podrá recaer en una persona ajena a aquél, en cuyo caso tendrá voz pero no voto, y a quien corresponderá la certificación de los acuerdos del Patronato.
+7. En el caso de conflicto de intereses o derechos entre la fundación y alguno de los Patronos, los afectados no participarán en la decisión que deba adoptar el Patronato, a quien compete determinar, por la mayoría que establezcan los estatutos, si concurre o no dicho conflicto.
+8. El patronato deberá llevar el libro de actas en el que se reflejarán las reuniones que realice, debiendo expresar cada una de ellas los asistentes, circunstancias de cada convocatoria y los acuerdos adoptados, dejando constancia de los patronos que hubieran votado en contra de aquellos.
+Dichos libros podrán constar en soporte electrónico y sus firmas efectuarse con firma electrónica avanzada basada en certificado electrónico cualificado o firma electrónica cualificada. Su funcionamiento se desarrollará en el reglamento.
+Se modifican los apartados 4 y 8 por el art. 45.1 y 2 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifica por el art. 1.10 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 14
+
+Artículo 14. Otros cargos.
+En los estatutos se podrá encomendar la gestión ordinaria o administrativa de las actividades de la fundación a un gerente, y prever la existencia de otros cargos con funciones consultivas o meramente ejecutivas sin perjuicio de lo que se dispone en el artículo siguiente.
+
+### Artículo 15
+
+Artículo 15. Delegaciones y apoderamientos.
+1. Si los Estatutos no lo prohíben, el Patronato podrá delegar sus facultades en uno o más de sus miembros, que ejercerán las facultades consignadas en el acuerdo de delegación mancomunada o solidariamente, según los términos del acuerdo, o en una Comisión Ejecutiva. No serán delegables la aprobación de las cuentas y del plan de actuación, ni la decisión sobre los conflictos a que se refiere el artículo 13.7 de esta Ley, ni aquellos que requieran la autorización del Protectorado. Tampoco lo serán las facultades de modificación de los Estatutos, fusión y liquidación de la fundación. La delegación permanente de facultades deberá constar en escritura pública, que se inscribirá en el Registro de Fundaciones de la Comunitat Valenciana.
+2. Sin perjuicio de la delegación de facultades a que se refiere el apartado anterior, el Patronato podrá nombrar apoderados generales o especiales con las facultades que determine la escritura de poder, y en todo caso con las limitaciones a que se refiere el apartado anterior. Si los poderes son generales, deberán inscribirse en el Registro de Fundaciones de la Comunitat Valenciana.
+Se modifica por el art. 1.11 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 16
+
+Artículo 16. Obligaciones y responsabilidad de los Patronos.
+1. Los Patronos están obligados a:
+a) Cumplir y hacer cumplir fielmente los fines fundacionales de acuerdo con lo dispuesto en la Ley y los Estatutos de la fundación.
+b) Administrar los bienes y derechos que integran el patrimonio de la fundación manteniendo plenamente el rendimiento y utilidad de los mismos, conforme a los criterios económico-financieros de un buen gestor.
+c) Asistir a las reuniones del Patronato y velar por la legalidad de los acuerdos que se adopten.
+2. La responsabilidad de los Patronos se rige por lo dispuesto en el artículo 17 de la Ley 50/2002, de 26 de diciembre, de Fundaciones.
+Se modifica por el art. 1.12 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 17
+
+Artículo 17. Sustitución, cese y suspensión de los Patronos.
+1. La sustitución de los Patronos se producirá en la forma prevista en los Estatutos. Cuando ello no sea posible, se procederá a la modificación de éstos, de acuerdo con lo establecido en el artículo 23 de esta Ley.
+2. El cese y suspensión de los Patronos de una fundación se producirá en los supuestos previstos en el artículo 18 de la Ley 50/2002, de 26 de diciembre, de Fundaciones.
+3. La sustitución, cese y suspensión de Patronos se inscribirá en el Registro de Fundaciones de la Comunitat Valenciana.
+Se modifica por el art. 1.13 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 18
+
+Artículo 18. Medidas provisionales del Protectorado.
+1. Si el número de patronos queda reducido a menos del mínimo previsto en el número 1 del artículo 13 de esta Ley, y no puede proveerse la sustitución de las vacantes con arreglo a los estatutos de la fundación, el Protectorado estará facultado para designar la persona o personas que integren provisionalmente el patronato, hasta que se apruebe la modificación estatutaria y se cubran las vacantes. Cuando falten todos los patronos, el Protectorado ejercerá directamente las funciones del patronato, durante un plazo máximo de un año. Transcurrido dicho plazo sin que se provea el órgano de gobierno, la fundación se extinguirá.
+2. Si el Protectorado advierte una grave irregularidad en la gestión económica que ponga en peligro la subsistencia de la fundación o una desviación grave entre los fines fundacionales y la actividad realizada, requerirá del patronato, una vez oído éste, la adopción de las medidas que estime pertinentes para la corrección de aquélla.
+Si el requerimiento al que se refiere el párrafo anterior no es atendido en el plazo que al efecto se señale, el Protectorado podrá solicitar de la autoridad judicial que se autorice la intervención temporal de la fundación, lo que se acordará, en su caso, oído el patronato. Autorizada judicialmente la intervención de la fundación, el Protectorado asumirá todas las atribuciones legales y estatutarias del patronato durante el tiempo que determine el Juez. La intervención quedará alzada por el transcurso de aquél, salvo que se acceda a prorrogarla mediante una nueva resolución judicial.
+3. La resolución judicial que decrete la intervención temporal de la fundación se inscribirá en el Registro de Fundaciones.
+
+## CAPÍTULO IV
+
+Régimen económico de las fundaciones
+
+### Artículo 19
+
+Artículo 19. Patrimonio de la fundación. Titularidad de bienes y derechos.
+1. La fundación deberá figurar como titular de todos los bienes y derechos integrantes de su patrimonio, que deberán constar en su inventario anual. El Patronato promoverá, bajo su responsabilidad, la inscripción a nombre de la fundación de los bienes y derechos que integran el patrimonio de ésta, en los Registros públicos correspondientes, en la forma que determine la legislación reguladora de los mismos.
+2. Las fundaciones no podrán tener participación alguna en sociedades mercantiles en las que deban responder personalmente de las deudas sociales. Si la fundación recibiera, por cualquier título, participación en tales sociedades, deberá enajenarla salvo que, en el plazo máximo de un año, se produzca la transformación de tales sociedades en otras en las que quede limitada su responsabilidad.
+3. Cuando formen parte del patrimonio de la fundación participaciones en sociedades mercantiles en las que deban responder personalmente de las deudas sociales y dicha participación sea mayoritaria, el Patronato podrá optar por enajenarlas o por promover la transformación de las mismas a fin de que adopten una forma jurídica en la que quede limitada la responsabilidad de la fundación. En caso contrario, responderán solidariamente con la sociedad por las deudas sociales todos los Patronos que no hubieran puesto la diligencia suficiente para la adopción del acuerdo de enajenación o transformación.
+4. Si la fundación tuviera inicialmente, o llegara a tener, participación mayoritaria en sociedades mercantiles en las que no se responda personalmente de las deudas sociales, deberá comunicarlo expresamente al Protectorado en cuanto dicha circunstancia se produzca.
+5. La administración y disposición del patrimonio y de las rentas corresponderá al Patronato, de acuerdo con lo establecido en los Estatutos y con sujeción a lo dispuesto en la presente ley.
+Se modifica por el art. 1.14 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 20
+
+Artículo 20. Régimen financiero. Destino de rentas e ingresos.
+1. La fundación, para el desarrollo de sus actividades, se financiará fundamentalmente con los recursos que provengan de su patrimonio y, en su caso, con aquellos otros procedentes de las ayudas, subvenciones, donaciones, herencias y otros actos a título gratuito, realizados por personas físicas o jurídicas, sean éstas públicas o privadas.
+2. Las fundaciones podrán obtener ingresos mediante el cobro de precios a sus beneficiarios, que no podrán exceder, en su conjunto, del coste del servicio que les preste, el cual nunca será mayor del precio de mercado, debiéndose ponderar la capacidad económica individual de los beneficiarios para la determinación de sus cuantías.
+3. También podrán obtener rendimientos mediante el ejercicio por sí mismas de actividades mercantiles o industriales, siempre que coincidan con el objeto o finalidad específica de la fundación o sean complementarias o accesorias de las mismas, con sometimiento a las normas reguladoras de la defensa de la competencia, y siempre que ello no implique una limitación injustificada del ámbito de sus posibles beneficiarios.
+En el caso de que no coincidan tales actividades con el fin fundacional, éstas deberán realizarse a través de cualquier tipo de sociedad que tenga limitada la responsabilidad de sus socios. Se comunicarán al Protectorado las actividades comprendidas en este apartado.
+4. A la realización de los fines fundacionales deberá ser destinado, al menos, el 70 % de los ingresos netos y resultados ordinarios y extraordinarios que se obtengan por cualquier concepto, debiendo ser aplicados en el plazo comprendido entre el inicio del ejercicio en el que se hayan obtenido los respectivos resultados e ingresos y los cuatro siguientes al cierre de dicho ejercicio.
+En el cálculo de los ingresos no se incluirán las aportaciones o donaciones recibidas en concepto de dotación fundacional, en el momento de su constitución o en un momento posterior, ni los ingresos obtenidos en la transmisión onerosa de bienes inmuebles en los que la entidad desarrolle la actividad propia de su objeto o finalidad específica, siempre que el importe de la citada transmisión se reinvierta en bienes inmuebles en los que concurra dicha circunstancia o en otros bienes que se afecten, con carácter permanente, a los fines fundacionales.
+5. El excedente del ejercicio se aplicará, en primer lugar, a compensar pérdidas de ejercicios anteriores, y el resto se podrá aplicar o bien a incrementar la dotación, o bien a reservas, según el acuerdo del Patronato.
+6. Se entienden por gastos del órgano de gobierno aquellos directamente ocasionados por el funcionamiento del Patronato para la administración de los bienes y derechos que integran el patrimonio de la fundación, y los que los Patronos tienen derecho a resarcirse de acuerdo con el artículo 13.5 de esta Ley. Reglamentariamente se determinará la proporción máxima de dichos gastos.
+Se modifica por el art. 1.15 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+ Se modifica el apartado 4 por el art. 56 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213
+
+### Artículo 21
+
+Artículo 21.  Régimen contable y presupuestario. Auditorías.
+1. El ejercicio económico será anual y coincidirá con el año natural, salvo que los Estatutos determinen otra cosa respecto a las fechas de inicio y cierre.
+2. Las fundaciones deberán llevar una contabilidad ordenada y adecuada a su actividad, que permita un seguimiento cronológico de las operaciones realizadas. Para ello llevarán necesariamente un Libro Diario y un Libro de Inventarios y Cuentas Anuales.
+3. El Presidente, o la persona que conforme a los Estatutos de la fundación, o al acuerdo adoptado por su órgano de gobierno, corresponda, formulará las cuentas anuales, que deberán ser aprobadas, en el plazo máximo de seis meses desde el cierre del ejercicio, por el Patronato de la fundación.
+Las cuentas anuales, que comprenden el balance, la cuenta de resultados, la memoria de la gestión económica y la memoria de las actividades fundacionales, forman una unidad, deben ser redactadas con claridad y mostrar la imagen fiel del patrimonio, de la situación financiera y de los resultados de la fundación.
+La memoria de la gestión económica, además de completar, ampliar y comentar la información contenida en el balance y en la cuenta de resultados, detallará lo referente a lo previsto en los apartados 4 y 5 del artículo 20 de la presente Ley. Igualmente, se incorporará a la mencionada memoria un inventario de los elementos patrimoniales, cuyo contenido se desarrollará reglamentariamente. Para aquellas fundaciones que no puedan elaborar cuentas anuales abreviadas, la memoria de la gestión económica deberá incluir un cuadro de financiación.
+La memoria de las actividades fundacionales incluirá información sobre los cambios en sus órganos de gobierno, dirección y representación, así como el grado de cumplimiento del plan de actuación, indicando los recursos empleados, su procedencia y el número de beneficiarios en cada una de las distintas actuaciones realizadas, y los convenios que, en su caso, se hayan llevado a cabo con otras entidades para estos fines. Las actividades fundacionales figurarán detalladas con los requisitos que reglamentariamente se establezcan.
+4. Las fundaciones podrán formular sus cuentas anuales en los modelos abreviados cuando cumplan los requisitos establecidos al respecto en la normativa contable que resulte aplicable a estas entidades sin fines lucrativos.
+5. Reglamentariamente se desarrollará un modelo de llevanza simplificado de la contabilidad, que podrá ser aplicado por las fundaciones en las que, al cierre del ejercicio, se cumplan al menos dos de las siguientes circunstancias:
+a) Que el total de las partidas del activo no supere los 150.000 euros. A estos efectos, se entenderá por total activo el total que figura en el modelo de balance.
+b) Que el importe del volumen anual de ingresos por la actividad propia, más, en su caso, el de la cifra de negocios de su actividad mercantil, sea inferior a 150.000 euros.
+c) Que el número medio de trabajadores empleados durante el ejercicio no sea superior a 5.
+6. Existe obligación de someter a auditoría externa las cuentas anuales de todas las fundaciones en las que, a fecha de cierre del ejercicio, concurran al menos dos de las circunstancias siguientes:
+a) Que el total de las partidas del activo supere los 2.400.000 euros.
+b) Que el importe neto de su volumen anual de ingresos por la actividad propia más, en su caso, el de la cifra de negocios de su actividad mercantil sea superior a 2.400.000 euros.
+c) Que el número medio de trabajadores empleados durante el ejercicio sea superior a 50.
+d) Que los precios que recaude de sus beneficiarios supongan más del 50% de los ingresos totales del ejercicio.
+e) Cuando el precio del contrato o contratos a que se refiere el artículo 22.8 de esta Ley suponga más del 15 % de los gastos totales del ejercicio.
+f) Que el valor de los títulos representativos de la participación de la fundación en sociedades mercantiles sea superior al 50 % del valor total de su patrimonio.
+g) Que el valor de las enajenaciones o gravámenes de bienes y derechos de la fundación realizados durante un ejercicio económico supere el 50 % del valor total de su patrimonio.
+También se someterán a auditoría externa las cuentas de las fundaciones en las que concurran, a juicio del Patronato de la fundación o del Protectorado, circunstancias de especial gravedad en relación con su patrimonio.
+La auditoría se contratará y realizará de acuerdo con lo previsto en la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, disponiendo los auditores de un plazo mínimo de un mes, a partir del momento en que les fueran entregadas las cuentas anuales formuladas, para realizar el informe de auditoría. El régimen de nombramiento y revocación de los Auditores se establecerá reglamentariamente.
+Los informes de auditoría deberán hacer referencia a las circunstancias que han motivado su emisión.
+7. En relación con las circunstancias señaladas en los apartados 4, 5 y 6 anteriores, éstas se aplicarán teniendo en cuenta lo siguiente:
+a) Cuando una fundación, en la fecha de cierre del ejercicio, pase a cumplir dos de las citadas circunstancias, o bien deje de cumplirlas, tal situación únicamente producirá efectos en cuanto a lo señalado si se repite durante dos ejercicios consecutivos.
+b) En el primer ejercicio económico desde su constitución o fusión, las fundaciones cumplirán lo dispuesto en los apartados anteriormente mencionados si reúnen, al cierre de dicho ejercicio, al menos, dos de las tres circunstancias que se señalan en el apartado 5 de este artículo.
+8. Las cuentas anuales se aprobarán por el Patronato de la fundación y se presentarán al Protectorado dentro de los diez días hábiles siguientes a su aprobación, adjuntando un certificado acreditativo de dicha aprobación. En su caso, se acompañarán del informe de auditoría.
+El Protectorado, una vez examinadas y comprobada su adecuación a la normativa vigente, procederá a depositarlas en el Registro de Fundaciones de la Comunitat Valenciana. Cualquier persona podrá obtener información de los documentos depositados.
+9. El Patronato elaborará y remitirá al Protectorado, en los últimos tres meses de cada ejercicio, un plan de actuación, en el que queden reflejados los objetivos y las actividades que se prevea desarrollar durante el ejercicio siguiente.
+10. Cuando se realicen actividades económicas, la contabilidad de las fundaciones, en lo que se refiere a esas actividades, se ajustará a lo dispuesto en el Código de Comercio, debiendo formular cuentas anuales consolidadas cuando la fundación se encuentre en cualquiera de los supuestos allí previstos para la sociedad dominante.
+En cualquier caso, se deberá incorporar información detallada en un apartado específico de la memoria, indicando los distintos elementos patrimoniales afectos a la actividad mercantil.
+Se modifica por el art. 1.16 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+ Se modifica el apartado 2.d) por el art. 57 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213
+
+### Artículo 22
+
+Artículo 22. Enajenación y gravamen de los bienes de la fundación. Régimen de autorizaciones y comunicaciones.
+1. La enajenación, gravamen o cualesquiera otros actos de disposición o de administración de los bienes y derechos que integran el patrimonio de la fundación, constituyan o no dotación, serán a título oneroso, debiendo estar justificada, en todo caso, la necesidad o conveniencia de tales actos, así como la inversión prevista de la contraprestación, salvo que se trate de prestaciones propias del cumplimiento del fin fundacional. Ello sin perjuicio de que queden supeditados a su autorización o comunicación, en los supuestos y forma previstos en los apartados siguientes.
+2. La enajenación, gravamen o arrendamiento de los bienes y derechos que formen parte de la dotación, o estén directamente vinculados al cumplimiento de los fines fundacionales, requerirán la previa autorización del Protectorado, que se concederá si existe justa causa debidamente acreditada.
+Si el valor de dichos bienes y derechos supera el 20 % del activo de la fundación que resulte del último balance anual, la solicitud de autorización deberá ir acompañada de una valoración pericial que acredite la adecuación a precios de mercado de la contraprestación económica que vaya a ser recibida por la fundación, que será debidamente comprobada por el Protectorado. A tal efecto, si dicha valoración hubiera sido realizada por una sociedad de tasación inmobiliaria de las inscritas en el Registro Oficial del Banco de España, se presumirá adecuada a precios de mercado.
+La autorización a que se refiere este apartado no será necesaria en los siguientes supuestos:
+a) Valores que coticen en bolsa.
+b) Actos de disposición de bienes adquiridos por donación o en virtud de subvenciones conforme a los fines establecidos por el donante o por la correspondiente norma.
+3. Los actos de disposición sobre bienes y derechos de la fundación distintos de los que formen parte de la dotación o estén directamente vinculados al cumplimiento de los fines fundacionales, cuyo valor supere el 20 % del activo de la fundación que resulte del último balance anual, deberán ser comunicados por el Patronato al Protectorado en el plazo máximo de treinta días hábiles siguientes a su realización. Así mismo, también se dará cuenta inmediatamente al Protectorado de la enajenación, gravamen o arrendamiento de bienes inmuebles, establecimientos mercantiles o industriales, valores mobiliarios que representen participaciones significativas en aquéllos y objetos de extraordinario valor, siempre y cuando representen un valor superior al 10 % del activo de la fundación que resulte del último balance anual.
+4. El Protectorado deberá autorizar previamente, en cualquier caso, los actos de disposición del Patronato sobre bienes comprendidos en la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, o en la Ley 4/1998, de 11 de junio, de la Generalitat, del Patrimonio Cultural Valenciano.
+5. Se requerirá autorización previa del Protectorado, o, en su caso, comunicación, para comprometer en arbitrios de equidad o celebrar transacciones respecto de los bienes y derechos a que se refieren los apartados anteriores.
+En la solicitud de autorización o en la comunicación deberá justificarse la inexistencia de perjuicio económico para la fundación.
+6. La aceptación de legados con cargas o donaciones onerosas o remuneratorias y la repudiación de herencias, donaciones o legados sin cargas se rige por lo dispuesto en el artículo 22.2 de la Ley 50/2002, de 26 de diciembre, de Fundaciones, debiendo ser comunicadas por el Patronato al Protectorado en el plazo máximo de los diez días hábiles siguientes.
+7. Las enajenaciones, gravámenes, arrendamientos, compromisos y transacciones a que se refiere este artículo, así como en general todas las alteraciones superiores al 10 % del activo de la fundación, se harán constar anualmente en el Registro de Fundaciones de la Comunitat Valenciana al término del ejercicio económico.
+8. Los patronos y las personas físicas representantes de los patronos podrán contratar con la fundación, previa comunicación al Protectorado de Fundaciones. La comunicación deberá ir acompañada de certificación del acuerdo del patronato, indicando:
+– El objeto de la contratación y el precio, incluyendo los impuestos.
+– Que la contratación no supone una retribución encubierta por su cargo como patrono de la fundación.
+9. La fundación podrá iniciar la contratación en el momento de realizar la comunicación.
+10. El Protectorado podrá ejercer las acciones de responsabilidad que correspondan contra los Patronos, cuando los acuerdos del Patronato fueran lesivos para la fundación en los términos previstos en las Leyes.
+Se modifican los apartados 8 y 9 por el art. 45.3 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifica por el art. 1.17 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+## CAPÍTULO V
+
+Modificación, fusión, extinción y liquidación
+
+### Artículo 23
+
+Artículo 23. Modificación de los Estatutos.
+1. Para la modificación de los Estatutos se estará a lo dispuesto en los apartados 1, 2, 3 y 5 del artículo 29 de la Ley 50/2002, de 26 de diciembre, de Fundaciones.
+2. La modificación o nueva redacción de los Estatutos de la fundación deberá constar en escritura pública, que se inscribirá en el Registro de Fundaciones de la Comunitat Valenciana. Con carácter previo al otorgamiento de la escritura, el Patronato lo notificará al Protectorado, el cual podrá oponerse a la nueva redacción por razones de legalidad y mediante resolución motivada.
+Se modifica por el art. 1.18 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 24
+
+Artículo 24. Fusión.
+1. El Patronato de una fundación podrá acordar la fusión de la misma con otra u otras fundaciones. Para ello se requerirá:
+a) Que resulte conveniente para los intereses de la misma y que no lo haya prohibido el fundador.
+b) El acuerdo de las fundaciones interesadas, el cual deberá ser notificado al Protectorado, que podrá oponerse por razones de legalidad y mediante acuerdo motivado.
+2. La fusión podrá realizarse:
+a) Por la absorción por una fundación de otra u otras que se extinguen, lo que deberá constar en escritura pública.
+b) Mediante la creación de una nueva fundación a la que se transmitirán en bloque los patrimonios de las fusionadas que se extinguen, y que deberá instrumentarse en escritura pública.
+3. Las escrituras mencionadas en los apartados a y b del apartado anterior se inscribirán en el Registro de Fundaciones de la Comunitat Valenciana.
+Se modifica por el art. 1.19 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 24 bis
+
+Artículo 24 bis. Escisión.
+1. La escisión o creación de otra u otras fundaciones mediante la segregación de una parte o de varias partes de su patrimonio, que se transmite a otra u otras fundaciones, exige que no conste la voluntad contraria del fundador y que se justifique el mejor cumplimiento de los fines fundacionales de la escindida.
+2. La escisión con creación de una nueva fundación requerirá el acuerdo motivado del patronato, lo que se comunicará al Protectorado, y el cumplimiento de lo previsto en la presente ley para constituir una fundación.
+3. En cualquier caso de escisión, el Protectorado podrá oponerse por razones de legalidad y mediante un acuerdo motivado en el plazo máximo de tres meses, que comenzará a contar desde que se le haya notificado el acuerdo de escisión. Transcurrido dicho plazo, se entenderá autorizada la escisión. El Protectorado podrá comunicar en cualquier momento, dentro de dicho plazo y de forma expresa, su conformidad con el acuerdo de escisión.
+Se añade por el art. 45.4 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+
+### Artículo 25
+
+Artículo 25. Extinción.
+1. La extinción de las fundaciones se regirá por lo dispuesto en los artículos 31 y 32 de la Ley 50/2002, de 26 de diciembre, de Fundaciones.
+2. El acuerdo de extinción o, en su caso, la resolución judicial se inscribirán en el Registro de Fundaciones de la Comunitat Valenciana.
+Se modifica por el art. 1.20 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 26
+
+Artículo 26. Liquidación.
+1. La extinción de la fundación, salvo en los supuestos en que tiene lugar como consecuencia de una fusión, determinará la apertura del procedimiento de liquidación, que se realizará por el Patronato de la fundación bajo el control del Protectorado. El Patronato no tendrá más facultades que la de cobrar créditos, satisfacer las deudas y formalizar los actos pendientes de ejecución, sin que pueda contraer más obligaciones, salvo las que sean necesarias para la liquidación. Terminadas las operaciones, formará el oportuno balance de liquidación, que deberá ser aprobado por el Patronato y sometido a la ratificación por el Protectorado. Recaída la misma, se procederá a cumplir lo dispuesto en el apartado siguiente, para finalizar la liquidación. Concluida ésta, se hará constar en el Registro de Fundaciones de la Comunitat Valenciana su baja, a solicitud del Patronato, por un escrito dirigido al Registro al que se acompañará la certificación del acuerdo aprobatorio del balance de liquidación, la ratificación del mismo por el Protectorado y una copia de los documentos en que se hayan formalizado las operaciones a que se refiere el apartado siguiente. No obstante, la baja de la fundación en el Registro, si resultan operaciones pendientes de ejecución o formalización, deberán ser llevadas a cabo por el Protectorado.
+2. Los bienes y derechos resultantes de la liquidación se les dará el destino previsto por el fundador, salvo que se trate de bienes fungibles, dinero o signo que lo represente. En estos casos, como en el resto de supuestos, los bienes y derechos resultantes de la liquidación se destinarán a las fundaciones o a las entidades no lucrativas públicas o privadas que persigan fines de interés general y que tengan afectados sus bienes, incluso para el supuesto de su extinción, a la consecución de aquellos, y que hayan sido designados en el negocio fundacional o en los estatutos de la fundación extinguida. En su defecto, este destino podrá ser decidido, en favor de las mismas fundaciones y entidades mencionadas, por el patronato cuando tenga reconocida esta facultad por el fundador y, a falta de esa facultad, corresponderá al Protectorado cumplir ese cometido.
+3. Las fundaciones constituidas por personas jurídico-públicas podrán prever en sus Estatutos que los bienes y derechos resultantes de la liquidación reviertan a su fundador.
+Se modifica el apartado 2 por el art. 45.5 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifica por el art. 1.21 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 27
+
+Artículo 27. Plazos.
+El plazo para resolver y notificar sobre la concesión de autorizaciones del Protectorado previstas en este capítulo, así como sobre la oposición de aquél a los acuerdos del Patronato relativos a la modificación de Estatutos y fusión de las fundaciones, y sobre la ratificación del referente a la extinción de las mismas y al balance de liquidación, será de tres meses. Transcurrido dicho plazo sin que haya recaído acto expreso, se podrán entender desestimadas las solicitudes de autorización y como no ratificados los acuerdos de modificación estatutaria, fusión, extinción y el balance de liquidación. En cuanto a la suspensión de los plazos, se estará a lo dispuesto en el artículo 22.9 de esta Ley.
+Se modifica por el art. 1.22 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+## TÍTULO II
+
+El Protectorado y el Registro de Fundaciones
+
+## CAPÍTULO I
+
+El Protectorado de la Generalidad Valenciana
+
+### Artículo 28
+
+Artículo 28. Organización.
+El Protectorado es el órgano administrativo de la Generalitat que ejerce las funciones que le atribuye la legislación vigente respecto de las fundaciones inscritas en el Registro de Fundaciones de la Comunitat Valenciana, de acuerdo con lo que se establezca reglamentariamente.
+Se modifica por el art. 1.23 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 29
+
+Artículo 29. Funciones.
+Son funciones específicas del Protectorado:
+a) Llevar el Registro de Fundaciones de la Comunitat Valenciana de acuerdo con lo que se establece en el capítulo siguiente.
+b) Velar por el cumplimiento adecuado de las actividades que realicen los promotores, así como garantizar la efectiva afectación de los bienes y derechos recaudados a fines de interés general.
+c) Asesorar a los Patronos de las fundaciones en proceso de inscripción para alcanzar ésta y velar por la adecuación y suficiencia de la dotación; promover que las fundaciones ya constituidas en escritura pública procedan a su inscripción en el Registro de Fundaciones de la Comunitat Valenciana; y, en los términos previstos en el artículo 13.2 de la Ley 50/2002, de 26 de diciembre, de Fundaciones, designar nuevos Patronos de las fundaciones en período de constitución cuando los Patronos inicialmente designados no hubieran promovido su inscripción registral.
+d) Acordar y ejecutar las medidas provisionales legalmente establecidas en relación con el Patronato, y velar por el cumplimiento de las obligaciones que incumben a los Patronos.
+e) Velar por el efectivo cumplimiento de los fines fundacionales de acuerdo con la voluntad del fundador y teniendo en cuenta la consecución del interés general.
+f) Velar por la integridad, suficiencia y rentabilidad del patrimonio fundacional y verificar si los recursos económicos de la fundación han sido aplicados a los fines fundacionales.
+g) Garantizar la legalidad de las modificaciones de Estatutos, fusiones y extinciones de las fundaciones, instando, en su caso, las correspondientes acciones judiciales, y controlar el proceso de liquidación.
+h) Asesorar a las fundaciones ya inscritas sobre su régimen jurídico y económico, así como sobre las cuestiones que se refieran a las actividades desarrolladas por aquéllas en el cumplimiento de sus fines, prestándoles a tal efecto el apoyo necesario; dar publicidad a la existencia y actividades de las fundaciones.
+i) Cuantas otras funciones se establezcan en las leyes.
+Se modifica por el art. 1.24 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 30
+
+Artículo 30. Régimen jurídico de los actos del Protectorado.
+1. La tramitación de los expedientes que haya de resolver el Protectorado de la Generalitat se ajustará a las disposiciones del procedimiento administrativo común, con las especialidades que se indican en la presente ley.
+2. Los actos del Protectorado ponen fin a la vía administrativa y son impugnables en los términos previstos en el artículo 43 de la Ley 50/2002, de 26 de diciembre, de Fundaciones.
+Se modifica por el art. 1.25 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+## CAPÍTULO II
+
+El Registro de Fundaciones de la Comunidad Valenciana
+
+### Artículo 31
+
+Artículo 31. Registro de Fundaciones.
+1. Bajo la dependencia del Protectorado se crea el Registro de Fundaciones de la Comunidad Valenciana. La estructura y funcionamiento de Registro se determinarán reglamentariamente.
+2. Son funciones del Registro:
+a) La inscripción de las fundaciones de competencia de la Generalidad Valenciana, de las delegaciones de fundaciones sometidas a otros Protectorados y los demás actos que sean inscribibles con arreglo a esta Ley y sus normas reglamentarias.
+b) El depósito y archivo de los documentos a que se refiere la presente Ley y sus normas reglamentarias.
+c) La legalización de los libros que hayan de lleva las fundaciones reguladas en esta Ley.
+
+### Artículo 32
+
+Artículo 32. Principios registrales.
+1. El Registro es público. La publicidad de los actos inscritos se hará efectiva por certificación de los asientos expedida por el funcionario del Registro con competencia al efecto, mediante simple nota informativa, copia de los asientos o a través de su consulta. Sólo las certificaciones tendrán carácter de documento público.
+Los documentos originales depositados y los archivados podrán ser consultados previa identificación del solicitante y acreditación de su interés, sin que en ningún caso pueda extenderse la consulta a los datos que afecten a la intimidad de las personas.
+2. Los actos inscritos en el Registro se presumen válidos y el Protectorado los tomará en consideración para fundamentar sus decisiones. Respecto de los documentos depositados y de los archivados que no hayan causado inscripción tan sólo se presumirá su regularidad formal.
+3. Los actos sujetos a inscripción en el Registro y no inscritos no perjudicarán a terceros de buena fe. La buena fe del tercero se presume en tanto no se pruebe que conocía el acto sujeto a inscripción y no inscrito.
+4. Todas las actividades registrales se podrán hacer en cualquiera de los dos idiomas oficiales en el territorio de la Comunidad Valenciana.
+
+## TÍTULO III
+
+Fundaciones del sector público de la Generalitat
+Se añade por el art. 3 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 33
+
+Artículo 33. Concepto.
+Tendrán la consideración de fundaciones del sector público de la Generalitat aquellas fundaciones en las que concurra alguna de las siguientes circunstancias:
+a) Que se constituyan con una aportación mayoritaria, directa o indirecta, del Consell o de los entes del sector público valenciano.
+b) Que su patrimonio fundacional, con carácter de permanencia, esté formado en más de un 50 por 100 por bienes o derechos aportados o cedidos por las referidas entidades.
+Se añade por el art. 2.1 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 34
+
+Artículo 34. Constitución.
+1. La autorización para la constitución de fundaciones del sector público de la Generalitat habrá de efectuarse mediante Acuerdo del Consell.
+También requerirá igual autorización las cesiones o aportaciones de bienes y derechos a una fundación previamente constituida cuando, como consecuencia de aquéllas, concurra en ella la circunstancia a la que se refiere la letra b del artículo 33.
+2. Para la constitución o la adquisición del carácter de fundación del sector público de la Generalitat, las Consellerias y entidades del sector público valenciano que la promuevan habrán de asegurar, en los Estatutos la designación mayoritaria de los miembros del Patronato.
+3. En el expediente que se someta al Consell para la autorización a la que se refiere el apartado 1 de este artículo, deberá incorporarse el certificado sobre la denominación pretendida, emitido por el Registro de Fundaciones de la Comunitat Valenciana. Se incluirá, asimismo, sin perjuicio de cuantos otros resultaren preceptivos, un informe sobre la adecuación a la legalidad de los Estatutos que vayan a someterse a aprobación, emitido por el citado Registro de Fundaciones. También se acompañará la correspondiente documentación contable sobre la realidad de la aportación dineraria de la Generalitat a la dotación. En caso de efectuarse aportación no dineraria, habrá de añadirse la relación de los bienes y derechos previstos a los que alcance, valorados conforme a criterios generalmente aceptados, suscrita por el subsecretario de la Conselleria proponente; o, en el caso de entidades del sector público valenciano, por experto independiente y visada por quien ostente las máximas facultades de gestión ordinaria de las mismas. Y, en cualquier caso, una memoria económica, elaborada por la Conselleria o entidad proponente, en la que se justifique la suficiencia de la dotación inicialmente prevista para el comienzo de su actividad y, si se previesen, de los compromisos futuros para garantizar su continuidad.
+4. Las fundaciones cuyos estatutos hayan de ser autorizados por el Consell deberán incorporar a los mismos una estipulación en la que se recoja la obligación del Patronato de recabar la autorización previa de aquél acerca del contenido de las futuras modificaciones estatutarias que hayan de ser aprobadas por el Patronato.
+Se modifica por el art. 158 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
+ Se añade por el art. 2.2 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 35
+
+Artículo 35. Régimen jurídico.
+1. Las fundaciones a las que se refiere este título estarán sujetas a las siguientes limitaciones:
+a) No podrán ejercer potestades públicas.
+b) Únicamente podrán realizar actividades relacionadas con el ámbito competencial de las entidades del sector público valenciano fundadoras, coadyuvando a la consecución de los fines de las mismas, sin que ello suponga la asunción de competencias propias, salvo previsión legal expresa.
+2. El Protectorado de estas fundaciones se ejercerá por la Generalitat.
+3. En lo referente al control financiero, auditoría de cuentas y contabilidad o cualquier otro recogido en la Ley de Hacienda Pública de la Generalitat, estas fundaciones se regirán por los preceptos de la misma que les resulten expresamente aplicables.
+4. La selección del personal deberá realizarse con sujeción a los principios de igualdad, mérito, capacidad y publicidad de la correspondiente convocatoria.
+5. Asimismo, su contratación se ajustará a lo regulado para este tipo de fundaciones en la legislación en materia de contratos del sector público.
+6. Cuando la actividad exclusiva o principal de la fundación sea la disposición dineraria de fondos, sin contraprestación directa de los beneficiarios, para la ejecución de actuaciones o proyectos específicos, dicha actividad se ajustará a los principios de publicidad, concurrencia y objetividad, siempre que tales recursos provengan del sector público.
+7. Las fundaciones reguladas en este título se regirán, con carácter general, por lo dispuesto en la presente ley, por las restantes normas de Derecho público cuya aplicación les sea de necesaria y obligada observancia, y, en el resto, por el Derecho privado.
+Se añade por el art. 2.3 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Artículo 36
+
+Artículo 36. Fusión, integración, transformación y extinción.
+1. La fusión, integración, transformación y extinción de una fundación a las que se refiere el presente título, así como los actos o negocios que impliquen la pérdida del carácter de fundación del sector público de la Generalitat o la adquisición del mismo por una fundación preexistente, requerirán autorización previa por acuerdo del Consell.
+2. Las fundaciones del sector público se pueden fusionar con otras fundaciones y se pueden integrar en la Generalitat, en entidades autónomas o en entidades de derecho público del sector público autonómico que persigan fines de interés general análogos. La fusión, la integración y la transformación de las fundaciones del sector público no conllevan la apertura del procedimiento de liquidación.
+Hasta que no se complete el procedimiento de fusión e integración de las fundaciones, éstas tienen que continuar desarrollando las actividades propias de su objeto y finalidades.
+Con la integración, la Generalitat o la entidad autónoma o entidad de derecho público correspondiente se subroga en todos los derechos y las obligaciones y en todas las relaciones jurídicas de la fundación extinguida, sin perjuicio, en lo que respecta al régimen de personal, de las limitaciones derivadas de lo establecido en las disposiciones adicionales segunda a quinta de la Ley 1/2013, de 21 de mayo, de Medidas de Reestructuración y Racionalización del Sector Público Empresarial y Fundacional de la Generalitat y se producirá la baja de la fundación en el Registro de Fundaciones de la Comunitat Valenciana.
+Se añade por el art. 159 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
+
+### Artículo 37
+
+Artículo 37. Liquidación y cesión global de las fundaciones del sector público.
+1. Las fundaciones a las que se refiere este título podrán liquidarse mediante la realización de su patrimonio, si fuera necesario, y la adjudicación al destinatario de su remanente, si lo hubiere, o por cesión global de su activo y pasivo a la Generalitat, o a las entidades autónomas o entidades de derecho público del sector público autonómico que persigan fines de interés general análogos, que se designen por acuerdo del Patronato.
+2. Cuando no se acuerde la cesión global de activo y pasivo, la liquidación se practicará mediante el cobro de créditos y pago de deudas, incluida la realización del patrimonio de la fundación en caso de ser necesario, así como la entrega del remanente, que en su caso resulte de la liquidación, a los destinatarios previstos en el artículo 26 de esta ley. En la liquidación se deberá proceder a la satisfacción de los acreedores de la fundación o a la consignación del importe de sus créditos. Cuando existan créditos no vencidos se asegurará su pago.
+3. Una vez adoptado el acuerdo de extinción de una fundación o en el mismo acuerdo de extinción, el Patronato de una fundación del sector público podrá acordar la cesión global del activo y pasivo. En todo caso, dicho acuerdo requerirá autorización previa del Consell, así como la emisión de los informes que sean preceptivos de conformidad con la normativa vigente. La cesión global implica la transmisión en bloque por sucesión universal de todo el activo y pasivo de una fundación del sector público.
+Autorizada la cesión, el acuerdo del Patronato aprobando el proyecto de cesión global del activo y pasivo, una vez determinados éstos de forma precisa, se comunicará al Protectorado, quien podrá oponerse a la misma por razones de legalidad y mediante resolución motivada, en el plazo máximo de 3 meses a contar desde la comunicación al mismo del acuerdo aprobando el proyecto de cesión.
+El proyecto de cesión global de activo y pasivo contendrá:
+a) los datos identificativos de las entidades cedente y cesionaria,
+b) la fecha a partir de la cual la cesión tendrá efectos contables, de acuerdo con las correspondientes normas reguladoras de contabilidad,
+c) La información sobre los elementos y la valoración del activo y pasivo del patrimonio,
+d) Informe que explique y justifique la cesión.
+Con posterioridad, se dará traslado del proyecto de cesión global a la entidad cesionaria para su aprobación y aceptación por su máximo órgano colegiado de gobierno.
+Del acuerdo de la entidad cedente y de la aceptación de la entidad cesionaria deberá darse publicidad en el Diari Oficial de la Comunitat Valenciana y en un diario de gran circulación en la provincia del domicilio social de la fundación, haciendo constar los datos identificativos de las personas cedente y cesionaria. En el anuncio se hará constar el derecho de los acreedores a obtener el texto íntegro del acuerdo de cesión, así como el derecho de oposición que les asiste.
+La cesión no podrá realizarse antes de que transcurra un mes a contar desde la fecha de publicación del último anuncio del acuerdo. Durante este plazo, los acreedores del cesionario y del cedente, cuyos créditos hubiesen nacido antes de la última publicación a la que se refiere el párrafo anterior y no estuviesen vencidos, podrán oponerse a la cesión hasta que se les garanticen tales créditos. En caso de oposición, la cesión no puede surtir efecto si no se satisfacen totalmente los créditos o no se aportan garantías suficientes.
+La cesión global se hará constar en escritura pública otorgada por el cedente y el cesionario, que recogerá el acuerdo de cesión global adoptado por la entidad cedente y aceptado por la entidad cesionaria.
+La eficacia subrogatoria de la cesión se producirá con la inscripción de la citada escritura pública en el Registro de Fundaciones de la Comunitat Valenciana, para lo que deberá aportarse certificación de las entidades cedente y cesionaria acerca de la no oposición de los acreedores o, en caso de que exista oposición, la satisfacción total de los créditos o la aportación de garantías suficientes. La baja de la fundación en el Registro de Fundaciones de la Comunitat Valenciana requerirá la inscripción de la escritura pública del acuerdo del Patronato de extinción de la fundación, así como la inscripción de la escritura pública a la que se hace referencia en el párrafo anterior.
+4. En el marco del proceso de reestructuración y racionalización del sector público fundacional de la Generalitat, ésta proveerá a las fundaciones de su sector público en liquidación de los fondos y recursos económicos necesarios para que se pueda desarrollar de manera ordenada el proceso de liquidación patrimonial.
+Con la misma finalidad, las entidades autónomas y las entidades de derecho público designadas como beneficiarias del remanente de una fundación del sector público, mediante acuerdo de su máximo órgano colegiado de gobierno, o la Generalitat, mediante acuerdo de la Comisión Delegada de Hacienda y Presupuestos a propuesta de la Conselleria competente en la materia a la que se refiera el fin fundacional en cada supuesto, podrán subrogarse en la posición acreedora o deudora de la fundación del sector público en liquidación y asumir el cobro de créditos y/o las deudas de la fundación, recabando en este último supuesto el consentimiento expreso de los acreedores. Asimismo, podrán asegurar las contingencias y deudas que pudiesen originarse para la fundación en el proceso de liquidación.
+Se añade por el art. 159 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
+
+### Disposición adicional primera
+
+Disposición adicional primera. Fundaciones sometidas a otros Protectorados.
+Las fundaciones sometidas a otros Protectorados que persigan fines de interés general valenciano podrán atribuir en sus estatutos o en sus escrituras de constitución facultades al Protectorado de la Generalidad Valenciana, sin perjuicio de la normativa aplicable por razón de competencia territorial. Asimismo, la Generalidad Valenciana podrá fomentar las actividades de estas fundaciones.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Delegaciones de fundaciones.
+Podrán inscribirse en el Registro de Fundaciones de la Comunidad Valenciana las delegaciones establecidas en el territorio de la Comunidad Valenciana de fundaciones que no estén incluidas dentro del ámbito de aplicación de esta Ley, cuando vayan a desarrollar funciones o actividades en el mismo.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Régimen jurídico de las fundaciones surgidas por transformación de cajas de ahorros y de las fundaciones obra social.
+Las fundaciones surgidas por transformación de cajas de ahorros domiciliadas en la Comunitat Valenciana y las fundaciones obra social, o fundaciones de la obra social de las cajas de ahorros, cuyos ámbitos de actuación principal sean los de dicha comunidad autónoma, se regirán por lo dispuesto en la presente ley con las especialidades establecidas en el texto refundido de la Ley sobre Cajas de Ahorros, aprobado por el Decreto legislativo 1/1997, de 23 de julio, del Consell.
+Se modifica por la disposición final 1 de la Ley 4/2015, de 2 de abril. Ref. BOE-A-2015-4549
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Cargas duraderas.
+El Protectorado exigirá y controlará el cumplimiento de las cargas duraderas impuestas sobre bienes de la fundación para la realización de fines de interés general. Tales cargas deberán inscribirse en el Registro de Fundaciones y, en su caso, en el de la propiedad.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Obligaciones de fedatarios públicos.
+Los Notarios y Corredores de Comercio que, dentro de su respectiva competencia, autoricen o intervengan respectivamente documentos de los que, conforme a esta Ley, tengan que quedar constancia en el Registro de Fundaciones, deberán:
+a) Velar por que gocen, en su caso, de la correspondiente autorización del Protectorado.
+b) Informar a los promotores, fundadores y patronos de sus obligaciones.
+c) Controlar la regularidad de los documentos que autoricen o intervengan.
+d) Dar cuenta del otorgamiento de los documentos al Protectorado.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Rendiciones de cuentas.
+Las fundaciones deberán presentar los documentos a que se refieren los apartados 3, 6 y 9 del artículo 21 de esta Ley, con los requisitos exigidos por los mismos, a partir del ejercicio siguiente a aquel en que entre en vigor la presente Ley.
+Se modifica por el art. 4.1 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Pérdida del derecho a participar en convocatorias de subvenciones y percepción de ayudas públicas.
+Las fundaciones que incumplan la obligación de presentar los documentos a que se refieren los apartados 3, 6 y 9 del artículo 21, los presenten fuera de plazo, o no se adecuen a la normativa vigente, podrán ser excluidas de las futuras convocatorias de subvenciones o ayudas públicas de la Generalitat o, en su caso, podrán ser obligadas a devolverlas a la hacienda pública, de acuerdo con las bases reguladoras de las convocatorias.
+Se modifica por el art. 4.2 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+1. Cuando una Fundación no pueda cumplir sus fines de conformidad con sus Estatutos, por imposibilidad de nombrar patronos u otras razones, el Protectorado podrá adoptar las medidas necesarias para la fusión de estas Fundaciones con otras que se encuentren en la misma situación, así como también para la actualización de sus fines, si fuera necesario, y para dotarlas de un órgano de administración eficaz.
+2. La fusión podrá ser por unión de varias Fundaciones o por absorción.
+3. La actualización de los fines de las Fundaciones fusionadas debe producirse de forma tal que el objeto sea de análoga significación, con especial atención, en cuanto ello sea posible, a las personas maltratadas y a la tercera edad, asistencia a mujeres embarazadas, educación de discapacitados y protección de la infancia.
+Se añade por el art. 58 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213
+
+### Disposición adicional novena
+
+Disposición adicional novena. Fundaciones de carácter especial de cajas de ahorros.
+(Derogada).
+Se deroga por la disposición derogatoria única.c) de la Ley 4/2015, de 2 de abril. Ref. BOE-A-2015-4549
+ Se añade por el art. 68 de la Ley 9/2011, de 26 de diciembre. Ref. BOE-A-2012-1253
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Fundaciones preexistentes.
+1. Las fundaciones preexistentes de competencia del Protectorado de la Generalidad Valenciana estarán sujetas a los preceptos de la presente Ley, salvo aquellos cuya aplicación suponga, en virtud de lo dispuesto expresamente por el fundador, el cumplimiento de una condición resolutoria que implique la extinción de la fundación.
+2. En relación con estas fundaciones, el artículo 26.2 será de aplicación transcurridos dos años desde la entrada en vigor de esta Ley, quedando sin efecto desde esa fecha los preceptos estatutarios que lo contradigan.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Adaptación de estatutos.
+1. En el plazo de dos años a partir de la entrada en vigor de esta Ley, las fundaciones ya constituidas deberán adaptar los estatutos a lo dispuesto en la misma y presentarlos en el Registro de Fundaciones. Cuando, a juicio del patronato, tal adaptación no sea necesaria, por entender acordes los preceptos estatutarios a las normas imperativas de esta Ley, deberá comunicarlo al Protectorado, antes de los dos años de la entrada en vigor de la presente Ley para su comprobación.
+2. El incumplimiento de las obligaciones previstas en el número anterior tendrá los efectos consignados en la disposición adicional séptima de la presente Ley, y los que se prevean en la legislación fiscal aplicable; todo ello, sin perjuicio de que el Protectorado, bien de oficio o a instancia de quien tenga interés legítimo, pueda acordar la adaptación estatutaria que proceda.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Del Protectorado y Registro de Fundaciones de la Comunitat Valenciana.
+1. En tanto no se apruebe el Reglamento de Organización y Funcionamiento del Protectorado, éste seguirá siendo ejercido por la Conselleria que ostente la competencia en materia de fundaciones.
+2. A los efectos previstos en la presente Ley y mientras no entre en funcionamiento el Registro de Fundaciones de la Comunitat Valenciana previsto en el capítulo II del título II, subsistirá el Registro actualmente existente.
+Se modifica por el art. 5.1 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Fundaciones intervenidas por el Protectorado.
+Las fundaciones que, a la entrada en vigor de la presente Ley, tuvieran las atribuciones de su patronato asumidas temporalmente por el Protectorado en virtud de las facultades al efecto reconocidas por la normativa anterior a la Ley 30/1994, de 24 de noviembre, podrán ser extinguidas por el Protectorado mediante resolución motivada, distribuyéndose el remanente de acuerdo con el correspondiente proyecto de liquidación que se determine.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Identidad entre las fundaciones del sector público de la Generalitat y las fundaciones públicas de la Generalitat Valenciana.
+En tanto coexistan ambas denominaciones, las fundaciones que el artículo 5.3 del Texto refundido de la Ley de Hacienda Pública de la Generalitat, aprobado por el Decreto Legislativo de 26 de junio de 1991, denomina como «fundaciones públicas de la Generalitat Valenciana» son las mismas a las que se refiere el título III de la presente ley como «del sector público de la Generalitat.
+Se añade por el art. 5.2 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+1. Quedan derogadas expresamente las siguientes normas:
+a) El artículo 18 de la Ley 8/1995, de 29 de diciembre, de la Generalidad Valenciana, de Medidas Fiscales, Administrativas y de Organización de la Generalidad Valenciana, en lo que sea de aplicación a las fundaciones constituidas por la Administración de la Generalidad.
+b) El Decreto 60/1995, de 18 de abril, del Gobierno Valenciano, de creación del Registro y Protectorado de Fundaciones de la Comunidad Valenciana. No obstante, mantendrá su vigencia en lo que no se opongan a esta Ley en tanto no se apruebe por el Gobierno Valenciano la normativa reglamentaria de desarrollo prevista en los artículos 28 y 31 de la presente Ley.
+c) Los números 2, 5 y 6 del artículo 15 y el artículo 18.2 del Decreto 215/1993, de 23 de noviembre, del Gobierno Valenciano, por el que se regula la obra benéfico-social de las cajas de ahorros con domicilio social en la Comunidad Valenciana.
+2. Quedan asimismo derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto en esta Ley.
+
+### Disposición final primera
+
+Disposición final primera. Órgano consultivo.
+Se podrá crear un órgano consultivo en el que tengan participación el Protectorado de la Generalidad Valenciana y las fundaciones reguladas en la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación al Consell.
+Se habilita al Consell para que por decreto pueda actualizar o, en su caso, revisar las cuantías y porcentajes recogidos en el número 6 del artículo 21 de la presente Ley. No obstante, la revisión sólo podrá efectuarse cada tres años y no podrá superar, en más o en menos, el quince por ciento de las citadas cuantías y porcentajes.
+Se modifica por el art. 6 de la Ley 9/2008, de 3 de julio. Ref. BOE-A-2008-13639
+
+### Disposición final tercera
+
+Disposición final tercera. Desarrollo reglamentario.
+1. Se autoriza al Gobierno Valenciano a dictar las disposiciones necesarias para el desarrollo y ejecución de la presente Ley.
+2. En el plazo de un año desde la entrada en vigor de esta Ley, el Gobierno Valenciano deberá aprobar los reglamentos de desarrollo de la misma.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Diario Oficial de la Generalidad Valenciana».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 9 de diciembre de 1998.
+EDUARDO ZAPLANA HERNÁNDEZ-SORO,
+Presidente
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que se habilita al Consell para que por decreto publicado únicamente en el "Diario Oficial de la Generalidad Valenciana", puede revisar o actualizar las cuantías y porcentajes regulados en el art. 21.6 de esta Ley, según establece la disposición final segunda.

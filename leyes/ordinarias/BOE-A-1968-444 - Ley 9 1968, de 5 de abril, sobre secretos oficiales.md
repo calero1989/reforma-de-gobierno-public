@@ -1,0 +1,120 @@
+# Ley 9/1968, de 5 de abril, sobre secretos oficiales.
+
+- Identificador BOE: `BOE-A-1968-444`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1968-444
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Es principio general, aun cuando no esté expresamente declarado en nuestras Leyes Fundamentales, la publicidad de la actividad de los Órganos del Estado, porque las cosas públicas que a todos interesan pueden y deben ser conocidas de todos.
+Este principio de publicidad en mayor o menor extensión, se halla regulado en lo que concierne a los debates e interpelaciones en las Cortes Españolas y al despacho de los asuntos judiciales, pero, en cambio, sólo de una manera fraccionada tiene su regulación, en lo que atañe a la Administración del Estado, en dispersas disposiciones, entre las que, por su reciente promulgación, pueden citarse la Ley de Prensa (artículo séptimo) y Decreto setecientos cincuenta/mil novecientos sesenta y seis, de treinta y uno de marzo, en las que sólo se contempla la publicidad en el aspecto parcial de la información debida a las publicaciones periódicas y agencias de información. Una regulación suficiente existe en la esfera de la Administración Local.
+Mas si la publicidad ha de ser característica de la actuación de los Órganos del Estado, es innegable la necesidad de imponer limitaciones, cuando precisamente de esa publicidad puede derivarse perjuicio para la causa pública, la seguridad del mismo Estado o los intereses de la colectividad nacional.
+Destancan por su especial importancia aquellas cuestiones cuyo conocimiento por personas no autorizadas pueda dañar o ponga en riesgo la seguridad del Estado o los intereses fundamentales de la Nación y que constituyen los verdaderos «secretos oficiales», protegidos por sanciones penales que, tanto en el Código Penal Común como en el de Justicia Militar, alcanzan penas de la máxima severidad. Pero esta sanción penal, especialmente represiva, sólo de una manera indirecta, por medio de la intimidación, protege el descubrimiento o revelación de secretos. Las medidas de protección eficaces son las que la propia Administración ha de establecer para garantizar que los documentos o materiales en que físicamente se reflejan los secretos, no puedan ser conocidos más que por aquellas personas que, por razón de su cometido, estén autorizadas para ello.
+En este aspecto existe una laguna en nuestra legislación, que, al contrario de lo que ocurre en los Estados caracterizados por la mayor libertad de información, no prevé una regulación de las medidas protectoras de los secretos oficiales Para remediar esta situación, la Ley establece un conjunto de medidas positivas para evitar que trascienda el conocimiento de lo que debe permanecer secreto, señalando normas severas que impidan la generalización de calificaciones que tienen carácter excepcional.
+Con la denominación de «materias clasificadas» también utilizada en otros países, se comprenden los dos grados de secretos oficiales generalmente admitidos. La determinación de las Autoridades y funcionarios que pueden otorgar y levantar las calificaciones, los efectos de cada una de éstas y las líneas generales de las medidas protectoras que habrán de desarrollarse reglamentariamente y con carácter uniforme por todos los servicios afectados, constituyen el contenido fundamental de la Ley, que se completa con un sistema de protección, así como la referencia de las responsabilidades que procedan por infracciones en materia de secretos oficiales.
+Asimismo, desde el punto de vista de la seguridad jurídica y de la garantía de los ciudadanos, es importante resaltar que la Ley establece la necesidad de notificar a los medios de información la declaración de «materia clasificada» cuando se prevea que ésta puede llegar a conocimiento de ellos, así como la circunstancia de que conste el hecho de la clasificación para que recaiga sobre los particulares la obligación de colaboración que impone el artículo nueve, uno. Y, en fin, se consagra la expresa admisión de recurso contencioso-administrativo contra las resoluciones sancionadoras que pongan fin a la vía administrativa, sin olvidar por lo demás el importante juego del control político que en esta materia se reconoce a las Cortes Españolas y al Consejo Nacional del Movimiento.
+En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo en sancionar:
+
+### Artículo primero
+
+Artículo primero.
+Uno. Los Órganos del Estado estarán sometidos en su actividad al principio de publicidad, de acuerdo con las normas que rijan su actuación, salvo los casos en que por la naturaleza de la materia sea ésta declarada expresamente «clasificada», cuyo secreto o limitado conocimiento queda amparado por la presente Ley.
+Dos. Tendrán carácter secreto, sin necesidad de previa clasificación, las materias así declaradas por Ley.
+
+### Artículo segundo
+
+Artículo segundo.
+A los efectos de esta Ley podrán ser declaradas "materias clasificadas" los asuntos, actos, documentos, informaciones, datos y objetos cuyo conocimiento por personas no autorizadas pueda dañar o poner en riesgo la seguridad y defensa del Estado.
+Se modifica por el art. único.1 y 3 de la Ley 48/1978, de 7 de octubre. Ref. BOE-A-1978-25567.
+
+### Artículo tercero
+
+Artículo tercero.
+Las «materias clasificadas» serán calificadas en las categorías de secreto y reservado en atención al grado de protección que requieran.
+
+### Artículo cuarto
+
+Artículo cuarto.
+La calificación a que se refiere el artículo anterior corresponderá exclusivamente, en la esfera de su competencia, al Consejo de Ministros y a la Junta de Jefes de Estado Mayor.
+Se modifica por el art. único.1 y 3 de la Ley 48/1978, de 7 de octubre. Ref. BOE-A-1978-25567.
+
+### Artículo quinto
+
+Artículo quinto.
+La facultad de calificación a que se refiere el artículo anterior no podrá ser transferida ni delegada.
+Se modifica por el art. único. 1 y 3 de la Ley 48/1978, de 7 de octubre. Ref. BOE-A-1978-25567.
+
+### Artículo sexto
+
+Artículo sexto.
+El personal de la Administración del Estado o de las Fuerzas Armadas que tenga conocimiento de cualquier asunto que, a su juicio, reúna las condiciones del artículo segundo, deberá hacerlo llegar a alguno de los órganos comprendidos en el artículo cuarto en la forma que reglamentariamente se determine.
+Se modifica por el art. único.4 y 6 de la Ley 48/1978, de 7 de octubre. Ref. BOE-A-1978-25567.
+
+### Artículo séptimo
+
+Artículo séptimo.
+La cancelación de cualquiera de las calificaciones previstas en el artículo tercero de esta Ley será dispuesta por el órgano que hizo la respectiva declaración.
+Se modifica por el art. único. 4, 5 y 6 de la Ley 48/1978, de 7 de octubre. Ref. BOE-A-1978-25567.
+
+### Artículo octavo
+
+Artículo octavo.
+Las calificaciones de secreto o reservado, hechas con arreglo a los términos de la presente Ley y de las disposiciones que reglamentariamente se dicten para su aplicación, determinarán, entre otros, los siguientes efectos:
+A) Solamente podrán tener conocimiento de las "materias clasificadas" los órganos y las personas debidamente facultadas para ello y con las formalidades y limitaciones que en cada caso se determinen.
+B) La prohibición de acceso y las limitaciones de circulación a personas no autorizadas en locales, lugares o zonas en que radiquen las «materias clasificadas».
+C) El personal que sirva en la Administración del Estado y en las Fuerzas Armadas estará obligado a cumplir cuantas medidas se hallen previstas para proteger las «materias clasificadas».
+Se modifica el apartado A) por el art. único. 5 y 6 de la Ley 48/1978, de 7 de octubre. Ref. BOE-A-1978-25567.
+
+### Artículo noveno
+
+Artículo noveno.
+Uno. La persona a cuyo conocimiento o poder llegue cualquier «materia clasificada», conforme a esta Ley, siempre que le conste esta condición, está obligada a mantener el secreto y entregarla a la Autoridad civil o militar más cercana y, si ello no fuese posible, a poner en conocimiento de ésta su descubrimiento o hallazgo. Esta Autoridad lo comunicará sin dilación al Departamento ministerial que estime interesado o a la Presidencia del Gobierno, adoptando entretanto las medidas de protección que su buen juicio le aconseje.
+Dos. Cuando una «materia clasificada» permita prever que pueda llegar a conocimiento de los medios de información, se notificará a éstos la calificación de secreto o reservado.
+
+### Artículo diez
+
+Artículo diez.
+Uno. Las calificaciones a que se refiere el artículo cuarto, en cualquiera de sus grados, se conferirán mediante un acto formal y con los requisitos y materializaciones que reglamentariamente se determinen.
+Dos. La declaración de "materias clasificadas" no afectará al Congreso de los Diputados ni al Senado, que tendrán siempre acceso a cuanta información reclamen, en la forma que determinen los respectivos Reglamentos y, en su caso, en sesiones secretas.
+Tres. Las «materias clasificadas» llevarán consigo una anotación en la que conste esta circunstancia y la calificación que les corresponda conforme al artículo tercero.
+Cuatro. Las copias o duplicados de una «materia clasificada» tendrán el mismo tratamiento y garantía que el original y sólo se obtendrán previa autorización especial y bajo numeración.
+Se modifica por el art. único.1, 2 y 3 de la Ley 48/1978, de 7 de octubre.Ref. BOE-A-1978-25567.
+
+### Artículo once
+
+Artículo once.
+Uno. Las personas facultadas para tener acceso a una «materia clasificada» quedarán obligadas a cumplir con las medidas y prevenciones de protección que reglamentariamente se determinen, así como las particulares que para cada caso concreto puedan establecerse.
+Dos. Corresponde a los órganos señalados en el artículo cuarto conceder en sus respectivas dependencias las autorizaciones para el acceso a las "materias clasificadas", así como para su desplazamiento fuera de las mismas.
+Tres. A toda persona que tenga acceso a una «materia clasificada» se le hará saber la índole de la misma con las prevenciones oportunas.
+Se modifica el apartado 2 por el art. único. 4 y 6 de la Ley 48/1978, de 7 de octubre. Ref. BOE-A-1978-25567.
+
+### Artículo doce
+
+Artículo doce.
+Los órganos referidos en el artículo cuarto atenderán al mantenimiento y mejora de los sistemas de protección y velarán por el efectivo cumplimiento de cuanto se dispone en la presente Ley y en especial por la correcta aplicación de las calificaciones de secreto o reservado y porque se promuevan las acciones penales, las medidas disciplinarias y los expedientes administrativos para corregir las infracciones a esta Ley.
+Se modifica por el art. único. 4 y 6 de la Ley 48/1978, de 7 de octubre. Ref. BOE-A-1978-25567.
+
+### Artículo trece
+
+Artículo trece.
+Las actividades reservadas por declaración de Ley y las "materias clasificadas" no podrán ser comunicadas, difundidas ni publicadas, ni utilizado su contenido fuera de los límites establecidos por la Ley. El incumplimiento de esta limitación será sancionado, si procediere, conforme a las Leyes penales, y por vía disciplinaria, en su caso, considerándose en este último supuesto la infracción como falta muy grave.
+Se modifica por el art. único.3 de la Ley 48/1978, de 7 de octubre. Ref. BOE-A-1978-25567.
+
+### Artículo catorce
+
+Artículo catorce.
+La calificación de secreto o reservado no impedirá el exacto cumplimiento de los trámites de audiencia, alegaciones, notificaciones directas a los interesados, sin perjuicio de la eventual aplicación de las sanciones previstas en esta Ley en caso de violación del secreto por parte de los interesados.
+
+### Disposición final
+
+Disposición final.
+En Reglamento único, de aplicación general a toda la Administración del Estado y a las Fuerzas Armadas, se regularán los procedimientos y medidas necesarios para la aplicación de la presente Ley y protección de las «materias clasificadas».
+Se determinará igualmente con todo el detalle necesario y con especificación de las medidas técnicas precisas el régimen de custodia, traslado, registro, archivo, examen y destrucción de las materias clasificadas, así como la elaboración de copias o duplicados de tales materias.
+También se dispondrá lo necesario para que el personal de la Administración Civil del Estado y de las Fuerzas Armadas se halle debidamente instruido en cuestiones de seguridad y protección de secretos.
+
+Dada en el Palacio de El Pardo a cinco de abril de mil novecientos sesenta y ocho.
+FRANCISCO FRANCO
+El Presidente de las Cortes,
+ANTONIO ITURMENDI BAÑALES

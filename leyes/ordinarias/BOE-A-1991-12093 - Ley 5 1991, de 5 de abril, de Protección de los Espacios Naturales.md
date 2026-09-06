@@ -1,0 +1,440 @@
+# Ley 5/1991, de 5 de abril, de Protección de los Espacios Naturales.
+
+- Identificador BOE: `BOE-A-1991-12093`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-12093
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL PRINCIPADO DE ASTURIAS
+Sea notorio que la Junta General del Principado ha aprobado, y yo, en nombre de Su Majestad el Rey, y de acuerdo con lo dispuesto en el artículo 31.2 del Estatuto de Autonomía para Asturias, vengo en promulgar la siguiente
+LEY DE PROTECCIÓN DE LOS ESPACIOS NATURALES
+PREÁMBULO
+Asturias cuenta con un medio natural extraordinariamente rico. La conjugación en un espacio reducido de zonas de montaña con una costa variada en sus características, la existencia de una cubierta vegetal donde permanecen aún ejemplos notables del bosque autóctono, y la supervivencia de una fauna que ha encontrado en esos parajes naturales sus últimos refugios, son características que hacen de Asturias una región singular.
+Aunque la mayoría de la población se asienta en la zona central de la región, siendo ésta, en consecuencia, la que muestra unas características naturales más alteradas, el conjunto del territorio no escapa a las presiones y problemas ambientales propios de las Sociedades industrializadas.
+Es, pues, necesaria una eficaz actuación de los poderes públicos, encaminada a garantizar la existencia de un medio natural bien conservado en el conjunto del territorio asturiano.
+La propia Constitución Española recoge, en su artículo 45, esta exigencia encomendando a los poderes públicos que velen por la utilización racional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de vida y defender y restaurar el medio ambiente.
+La actuación seguida en esta materia por el legislador asturiano ha estado inspirada, desde el principio, por este mandato constitucional. Buenos ejemplos son la Ley 1/1987, de 30 de marzo, de Coordinación y Ordenación del Territorio; la Ley 2/1988, de 10 de junio, de Declaración del Parque Natural de Somiedo; la Ley 3/1988, de 10 de junio, de Sanciones de Pesca, o la Ley 4/1989, de 27 de marzo, de Caza.
+Sin embargo, la protección del medio natural en Asturias exige de un instrumento jurídico general que, a la vez, posibilite la conservación y gestión específica de los espacios naturales que lo necesiten particularmente, establezca un marco de protección referido al conjunto del territorio y permita el desarrollo de los criterios orientadores para la defensa global de la naturaleza y los recursos frente a diversas causas de degradación.
+La presente Ley pretende tal objetivo, para lo que busca sus principios inspiradores en las premisas básicas de la estrategia mundial de conservación, y se articula como desarrollo de la legislación básica estatal. En ejecución de las competencias que corresponden a la Comunidad Autónoma en virtud de lo previsto en el artículo 11, b), del Estatuto de Autonomía para Asturias, reproduciéndose en parte, por razones de coherencia y de mejor comprensión de la misma, normas de carácter básico contenidas en dicha legislación.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+Son finalidades de la presente Ley:
+a) Definir medidas para la conservación del medio natural asturiano y, en particular, de los espacios naturales.
+b) Establecer la tipología de los espacios naturales protegidos de Asturias, señalando las distintas finalidades particulares y los elementos diferenciadores de cada una de ellas.
+c) Establecer normas para ordenar adecuadamente la gestión de los recursos naturales de Asturias, orientándola hacia la protección, conservación, restauración y mejora de los mismos.
+
+### Artículo 2
+
+Artículo 2.
+Son principios inspiradores de la presente Ley los siguientes:
+a) El mantenimiento de los procesos ecológicos esenciales y de los sistemas vitales básicos.
+b) La preservación de la diversidad genética.
+c) La utilización ordenada de los recursos, garantizando el aprovechamiento sostenido de las especies y de los ecosistemas, su restauración y mejora.
+d) La preservación de la variedad, singularidad y belleza de los ecosistemas naturales y del paisaje.
+
+## TÍTULO II
+
+De la ordenación de los recursos naturales
+
+### Artículo 3
+
+Artículo 3.
+1. Como instrumento para la planificación de los recursos naturales se elaborará el plan de ordenación de los recursos naturales de Asturias.
+2. Para aquellas unidades naturales de ámbito supracomunitario, cuya conservación se realice en coordinación con las Comunidades Autónomas limítrofes, podrán elaborarse planes de ordenación de los recursos naturales particulares referidos a dichos espacios.
+
+### Artículo 4
+
+Artículo 4.
+Los planes a que se refiere el artículo anterior tendrán el siguiente contenido mínimo:
+a) Delimitación del ámbito territorial objeto de ordenación y descripción e interpretación de sus características físicas y biológicas.
+b) Determinación del estado de conservación de los recursos naturales, los ecosistemas y los paisajes que integran el ámbito territorial en cuestión, formulando un diagnóstico del mismo y una previsión de su evolución futura.
+c) Determinación de las limitaciones generales y específicas que de los usos y actividades hayan de establecerse en función de la conservación de los espacios y especies a proteger, con especificación de las distintas zonas, en su caso.
+d) Señalamiento y justificación de las zonas sobre las que proceda aplicar los regímenes especiales de los espacios naturales protegidos previstos en esta Ley.
+e) Proposición, en su caso, de inclusión de especies de flora y fauna en los correspondientes catálogos de especies amenazadas, y determinación de las directrices para la salvaguarda y gestión de la vida silvestre en el ámbito territorial en cuesión.
+f) Concreción de aquellas actividades, obras o instalaciones públicas o privadas a las que deba aplicarse cualesquiera de los regímenes de evaluación previstos en el Real Decreto Legislativo 1302/1986, de 28 de junio, de evaluación de impacto ambiental; en la Ley del Principado 1/1987, de 30 de marzo, de Coordinación y Ordenación del Territorio, o en el título III, capítulo primero, de la presente Ley.
+g) Formulación de los criterios orientadores de las políticas sectoriales y ordenadoras de las actividades económicas y sociales, públicas y privadas, para que sean compatibles con los objetivos de conservación de la naturaleza en el ámbito territorial de aplicación del plan.
+
+### Artículo 5
+
+Artículo 5.
+1. Los efectos de los planes de ordenación de los recursos naturales tendrán el alcance que establezcan sus propias normas de aprobación.
+2. Los planes de ordenación de los recursos naturales serán obligatorios y ejecutivos en las materias reguladas por la presente Ley, constituyendo sus disposiciones un límite para cualesquiera otros instrumentos de ordenación territorial o fisica, cuyas determinaciones no podrán alterar o modificar dichas disposiciones. Los instrumentos de ordenación territorial o fisica existentes que resulten contradictorios con los planes de ordenación de los recursos naturales se aplicarán, en todo caso, prevalenciendo sobre los instrumentos de ordenación territorial o fisica existentes.
+3. Asimismo, los citados planes tendrán carácter indicativo respecto de cualesquiera otras actuaciones, planes o programas sectoriales y sus determinaciones se aplicarán subsidiariamente, sin perjuicio de lo establecido en el apartado anterior.
+
+### Artículo 6
+
+Artículo 6.
+La iniciación del procedimiento para la elaboración del plan de ordenación de los recursos naturales de Asturias se hará por acuerdo del Consejo de Gobierno del Principado, a iniciativa propia o del Consejero de la Presidencia. Dicho acuerdo contendrá las indicaciones que se juzguen necesarias o convenientes para la orientación de los trabajos.
+Cuando se trate de los planes a que se refiere el artículo 3.2, el acuerdo de iniciación contendrá, además, las fórmulas acordadas con las Comunidades Autónomas limítrofes para la coordinación de actuaciones.
+
+### Artículo 7
+
+Artículo 7.
+1. La elaboración y aprobación inicial de los planes de ordenación de los recursos naturales corresponde a la Agencia de Medio Ambiente.
+2. Los planes, una vez aprobados inicialmente, serán sometidos a información pública durante un período de treinta días hábiles.
+3. Simultáneamente, y por idéntico plazo, serán sometidos a informe de los Ayuntamientos afectados y de las asociaciones que persigan el logro de los principios del artículo 2 de la presente Ley.
+4. Finalmente, la Agencia de Medio Ambiente, previo informe de la Comisión de Urbanismo y Ordenación del Territorio y del Comité Regional de Planificación y Coordinación de Inversiones Públicas, elaborará la correspondiente propuesta del plan, que, antes de su aprobación por el Consejo de Gobierno, será remitido a la Junta General para su examen y debate por la Comisión de Política Territorial de la Junta General del Principado, de acuerdo con lo previsto en el capítulo II del título X del Reglamento de la Cámara.
+
+### Artículo 8
+
+Artículo 8.
+1. Los planes de ordenación de los recursos naturales tendrán una vigencia indefinida, salvo que en su proio texto se indique otra cosa.
+2. Se procederá a la actualización del contenido de los planes cuando la modificación de los criterios y objetivos que hayan prevalecido en su redacción así lo exijan. Igualmente, se procederá a la actualización cuando la transformación de las condiciones económicas, sociales o naturales de los espacios protegidos así lo hagan necesario.
+El procedimiento de actualización será el mismo que el definido para la aprobación.
+
+## TÍTULO III
+
+De la protección de los espacios naturales
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 9
+
+Artículo 9.
+1. La utilización del suelo con fines agrícolas, forestales y ganaderos deberá orientarse al mantenimiento del potencial biológico y la capacidad productiva del mismo, con respecto a los ecosistemas del entorno.
+2. La acción de las administraciones públicas en materia forestal e hidrológica se orientará a lograr la protección, restauración, mejora y ordenado aprovechamiento de estos recursos, así como la conservación y restauración de los espacios naturales, prevaleciendo, en todo caso, el interés público sobre el privado.
+
+### Artículo 10
+
+Artículo 10.
+1. La protección preventiva de los espacios naturales se realizará mediante los instrumentos de evaluación de impacto ambiental establecidos por la normativa legal en vigor.
+2. En los espacios naturales protegidos la protección preventiva se realizará, adicionalmente, mediante la aprobación y aplicación de los instrumentos de gestión de estos espacios.
+Se modifica por la disposición final 1.1 de la Ley 4/2021, de 1 de diciembre de 2021. Ref. BOE-A-2021-21397#df
+
+### Artículo 11
+
+Artículo 11.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley 4/2021, de 1 de diciembre de 2021. Ref. BOE-A-2021-21397#dd
+
+### Artículo 12
+
+Artículo 12.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley 4/2021, de 1 de diciembre de 2021. Ref. BOE-A-2021-21397#dd
+
+## CAPÍTULO II
+
+De los espacios naturales protegidos
+
+### Artículo 13
+
+Artículo 13.
+Aquellos espacios del territorio regional que contengan elementos y sistemas naturales de especial interés o valores naturales sobresalientes podrán ser declarados protegidos de acuerdo con lo regulado en esta Ley.
+
+### Artículo 14
+
+Artículo 14.
+Los espacios que sean declarados protegidos, de acuerdo con las figuras de la presente Ley, constituirán una red regional de espacios naturales protegidos, cuya finalidad será satisfacer los siguientes objetivos:
+a) Ser representativa de los principales ecosistemas y formaciones naturales de la región.
+b) Proteger aquellas áreas y elementos naturales que ofrezcan un interés singular desde el punto de vista científico, cultural, educativo, estético, paisajístico y recreativo.
+c) Colaborar al mantenimiento y conservación de las especies raras, amenazadas o en peligro, de plantas y animales, o contener formaciones geomorfológicas relevantes.
+d) Preservar los procesos biológicos fundamentales, tales como ciclos de nutrientes y migraciones.
+e) Colaborar en programas internacionales de conservación de espacios naturales y de la vida silvestre.
+f) Favorecer el desarrollo socioeconómico de las áreas integradas en la red, de forma compatible con los objetivos de conservación.
+
+### Artículo 15
+
+Artículo 15.
+1. Para satisfacer los objetivos enumerados en el artículo antenor, en función de los bienes y valores a proteger, los espacios naturales protegidos se clasificarán en algunas de las siguientes categorías:
+a) Parque natural.
+b) Reserva natural.
+c) Monumentos naturales.
+d) Paisajes protegidos.
+2. Las reservas naturales se clasificarán, a su vez, en reservas naturales integrales y reservas naturales parciales.
+
+### Artículo 16
+
+Artículo 16.
+Los parques naturales son áreas naturales poco transformadas por la explotación u ocupación humana que, en razón a la belleza de sus paisajes, la representatividad de sus ecosistemas o la singularidad de su flora, de su fauna o de sus formaciones geomorfológicas, poseen unos valores ecológicos, estéticos, educativos y científicos cuya conservación merece una atención preferente.
+
+### Artículo 17
+
+Artículo 17.
+Las reservas naturales integrales son espacios naturales cuya creación tiene como finalidad la protección de ecosistemas, comunidades o elementos biológicos que, por su rareza, fragilidad, importancia o singularidad merecen una valoración especial, estando prohibida en ellas la explotación de recursos, salvo que, por razones de investigación, educativas o de conservación, se permita la misma previa autorización administrativa.
+
+### Artículo 18
+
+Artículo 18.
+Las reservas naturales parciales son espacios naturales cuya creación tiene como finalidad la protección de ecosistemas, comunidades o elementos biológicos que, por su rareza, fragilidad, importancia o singularidad, merecen una valoración especial, y donde se permite la explotación de recursos de forma compatible con la conservación de los valores que se pretenden proteger.
+
+### Artículo 19
+
+Artículo 19.
+Los monumentos naturales son espacios o elementos de la naturaleza constituidos básicamente por formaciones de notoria singularidad, rareza o belleza, que merecen ser objeto de una protección especial.
+Se consideran también monumentos naturales las formaciones geológicas, los yacimientos paleontológicos y demás elementos de la gea que reúnan un interés especial por la singularidad o importancia de sus valores científicos, culturales o paisajísticos.
+
+### Artículo 20
+
+Artículo 20.
+Los paisajes protegidos son aquellos lugares concretos del medio natural que, por sus valores estéticos y culturales, sean merecedores de una protección especial.
+
+### Artículo 21
+
+Artículo 21.
+La declaración de un espacio natural protegido no excluye la posibilidad de que, en determinadas áreas del mismo, se constituyan otros núcleos de protección siempre que éstos adopten alguna de las modalidades indicadas en la presente Ley.
+
+### Artículo 22
+
+Artículo 22.
+1. En los espacios naturales protegidos declarados por ley se podrán establecer zonas periféricas de protección destinadas a evitar impactos ecológicos o paisajísticos procedentes del exterior, en cuyo caso en la propia norma de declaración se establecerán las limitaciones necesarias.
+2. Las normas reguladoras de los espacios naturales declarados por ley contendrán previsiones de índole socioeconómica con el fin de contribuir a su mantenimiento y compensar a las poblaciones afectadas. Estas previsiones se referirán también, en su caso, a las zonas periféricas de protección.
+
+## CAPÍTULO III
+
+De la declaración de los espacios naturales protegidos
+
+### Artículo 23
+
+Artículo 23.
+Los parques naturales y las reservas naturales integrales serán declarados por ley, y el resto de los espacios a que se refiere el artículo 15 lo serán por decreto.
+
+### Artículo 24
+
+Artículo 24.
+1. El procedimiento para la declaración de los espacios naturales a que se refiere el artículo 15 se iniciará por resolución motivada del titular de la Consejería, de oficio o a instancia de parte.
+En este último caso, quienes insten la declaración deberán acompañar a la instancia la siguiente documentación:
+a) Memoria justificativa de la necesidad de la declaración.
+b) Delimitación exacta del territorio objeto de declaración.
+c) Descripción de las características naturales, sociales y económicas de la zona afectada.
+d) Propuesta de criterios y normas básicas de protección.
+2. Determinada la incoación, el procedimiento se ajustará a los siguientes trámites:
+a) Elaboración de la propuesta de declaración por los servicios de la Agencia de Medio Ambiente y su aprobación inicial por el Consejo Rector de la misma.
+b) Apertura de un período de información pública, por plazo de un mes, para que puedan formular alegaciones cuantas Entidades y particulares lo deseen.
+c) Sometimiento de la propuesta por igual período a informe de las Corporaciones Locales afectadas.
+d) Elaboración, por la Agencia de Medio Ambiente, a la vista de los informes, alegaciones y sugerencias recibidas, de la propuesta definitiva de declaración de espacio natural protegido, que será sometida a la aprobación del Consejo de Gobierno a propuesta del titular de la Consejería.
+La propuesta se hará en forma de anteproyecto de ley en los casos de declaración de parques naturales y reservas naturales integrales, y de proyectos de decreto en las restantes categorías de espacios naturales protegidos.
+
+## CAPÍTULO IV
+
+De la planificación y gestión de los espacios naturales protegidos
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 25
+
+Artículo 25.
+1. Corresponde a la Agencia de Medio Ambiente la administración y gestión de los espacios naturales protegidos, salvo lo dispuesto en el párrafo siguiente.
+2. La gestión de los paisajes protegidos y monumentos naturales declarados a instancia de parte corresponderá a quien la haya promovido, reservándose a la Administración del Principado, a través de la Agencia de Medio Ambiente, la función de velar para que se mantengan las condiciones que motivaron la declaración.
+
+## Sección 2
+
+Sección 2.ª Elaboración y aprobación de los instrumentos de planificación
+
+### Artículo 26
+
+Artículo 26.
+La regulación de los usos, los principios rectores de la gestión y las actuaciones a realizar en los parques naturales se establecerán en los planes rectores de uso y gestión, que tendrán una vigencia de diez años y contendrán las siguientes determinaciones:
+a) Las directrices generales de ordenación y uso del parque.
+b) La zonificación del parque natural, delimitando áreas de diferente utilización y destino.
+c) Las bases para la ordenación de las actividades agrícolas, ganaderas, industriales, forestales, cinegéticas, piscícolas y turísticas, potenciándose las actividades tradicionales y aquellas otras que favorezcan los valores que motivaron la declaración del parque.
+d) Las bases para garantizar el cumplimiento de las finalidades de investigación, interpretación de la naturaleza, educación ambiental y de uso y disfrute de los visitantes.
+e) Las previsiones económicas o de otro orden, necesarias para equipamientos, servicios, infraestructuras u otras actuaciones.
+f) Las normas de gestión y actuación necesarias para la conservación, protección y mejora de los valores naturales y el mantenimiento de los equilibrios ecológicos.
+g) Los criterios que servirán de base para decidir sobre su modificación o reunión.
+h) Cualesquiera otras que se consideren necesarias de acuerdo con las finalidades de conservación que motivaron la creación del parque.
+Se modifica el párrafo primero por la disposición final 1.2 de la Ley 4/2021, de 1 de diciembre de 2021. Ref. BOE-A-2021-21397#df
+
+### Artículo 27
+
+Artículo 27.
+Los planes rectores de uso y gestión de los parques naturales serán elaborados por la Agencia de Medio Ambiente y tramitados según el procedimiento siguiente:
+a) Aprobación inicial por la Comisión Rectora de cada parque.
+b) Información pública, por plazo de treinta días hábiles, para que puedan formular alegaciones cuantas Entidades y particulares lo deseen.
+A tal efecto, el plan estará expuesto en la Agencia de Medio Ambiente, en la Oficina de Información, Iniciativas y Reclamaciones de la Consejería de la Presidencia, y en los Ayuntamientos afectados.
+c) Valoración de las observaciones y sugerencias recibidas por la Comisión Rectora y envío de las mismas, junto con el plan, a informe de la correspondiente Junta del Parque.
+d) Formulación por la Comisión Rectora del Parque de la propuesta definitiva que se elevará, por conducto del titular de la Consejería de la Presidencia, al Consejo de Gobierno para su aprobación, en su caso, por decreto.
+
+### Artículo 28
+
+Artículo 28.
+Las previsiones de planificación y actuación de carácter anual, necesarias para el desarrollo de los objetivos contemplados en los planes rectores de uso y gestión, se recogerán en programas anuales de gestión de cada parque.
+A tal fin, las Comisiones Rectoras de los parques elaborarán los correspondientes proyectos en el segundo trimestre del año anterior, que serán sometidos a la aprobación del Consejo de Gobierno.
+
+### Artículo 29
+
+Artículo 29.
+En las reservas naturales se elaborarán también planes rectores de uso y gestión, de características y contenidos análogos a los anteriores, que serán tramitados de la siguiente forma:
+a) Serán aprobados inicialmente por la Agencia de Medio Ambiente, siendo sometidos, a continuación, a información pública por plazo de un mes.
+b) Simultáneamente, será remitido para su información, en el mismo plazo, a los Ayuntamientos afectados.
+Con los informes y alegaciones recibidos, la Agencia de Medio Ambiente elaborará una propuesta final, que se elevará a la aprobación definitiva, en su caso, por decreto del Consejo de Gobierno.
+
+### Artículo 30
+
+Artículo 30.
+En los países protegidos y monumentos naturales la ordenación y las normas protectoras y de gestión quedarán establecidas en la propia norma de declaración de dichos espacios.
+
+## Sección 3
+
+Sección 3.ª Órganos de Gestión
+
+### Artículo 31
+
+Artículo 31.
+Para el mejor cumplimiento de las finalidades de los parques naturales, y con dependencia de la Consejería de la Presidencia, se constituirán una Junta y una Comisión rectora por cada uno de ellos y se designará un conservador en cada caso.
+
+### Artículo 32
+
+Artículo 32.
+1. Las juntas, cuya composición específica y régimen de funcionamiento serán establecidos en la Ley de declaración de cada parque, tendrán las siguientes funciones:
+a) Informar preceptivamente los planes rectores de uso y gestión, proponiendo, en su caso, las medidas que considere oportunas para la conservación, mejora y conocimiento del parque natural y para el desarrollo económico y social de la zona.
+b) Velar por el cumplimiento de las finalidades del parque.
+c) Promover y fomentar actuaciones para el estudio, divulgación y disfrute de los valores del parque.
+d) Recibir la Memoria anual de actividades y resultados e informes, proponiendo cuantas medidas considere necesarias para corregir disfunciones o mejorar la gestión.
+e) Informar cualquier asunto que le someta a la Comisión rectora.
+f) Informar preceptivamente los programas anuales de gestión, proponiendo las medidas que considere necesarias para el mejor cumplimiento de las finalidades en los parques naturales.
+2. Las Juntas se integrarán por representantes de la Administración del Principado, de las Administraciones locales, de los titulares de los derechos afectados y de las Entidades, asociaciones y grupos que realicen actividades en favor de los valores que a los parques corresponde proteger. Igualmente podrán formar parte de las mismas representantes de la Administración del Estado y de la Universidad de Oviedo.
+
+### Artículo 33
+
+Artículo 33.
+1. A las Comisiones rectoras les corresponderá ejercer las siguientes funciones:
+a) Aprobar inicialmente los planes rectores de uso y gestión y las Memorias anuales de actividades y resultados, así como elaborar los programas anuales de gestión.
+b) Informar preceptivamente, de conformidad con lo que establezcan los planes rectores de uso y gestión, los planes, normas y actuaciones que afecten al ámbito del parque.
+c) Vigilar el cumplimiento de los planes rectores y de los programas anuales.
+d) Promover cerca de los organismos competentes las actuaciones necesarias para salvaguardar los valores del parque.
+2. Las normas de declaración de los parques regularán el régimen de funcionamiento y la composición de las Comisiones rectoras en cada caso, que estarán integradas por representantes de la Administración del Principado de Asturias, de los ayuntamientos afectados, de las parroquias rurales legalmente constituidas en el ámbito territorial del Parque, así como por el conservador y los representantes de los particulares que sean titulares de derechos afectados.
+El porcentaje de representación en las Comisiones Rectoras de los representantes de los titulares de derechos afectados será proporcional a la superficie de titularidad privada en el ámbito territorial del Parque respecto a los terrenos de titularidad pública, con un límite del 49 % del total de miembros. En todo caso, en la composición de las comisiones rectoras de los espacios naturales se procurará garantizar los principios de representación paritaria entre mujeres y hombres y de equilibrio entre los distintos representantes de los derechos afectados, así como criterios de transparencia democrática en la elección de los representantes de los particulares que sean titulares de derechos afectados que soliciten su pertenencia a la Comisión Rectora.
+Se modifica el apartado 2 por el art. único de la Ley 10/2017, de 24 de noviembre. Ref. BOE-A-2017-15287
+
+### Artículo 34
+
+Artículo 34.
+Los Conservadores ejercerán funciones de dirección y supervisión de las actuaciones que se desarrollen en los parques y, en particular, las siguientes:
+a) Coordinar y, en su caso, realizar las actividades necesarias para la ejecución de los planes rectores y los programas anuales.
+b) Hacer el seguimiento de las actividades desarrolladas en los parques por los órganos de la Comunidad Autónoma.
+c) Formular a la Comisión rectora las propuestas oportunas para la elaboración de los programas anuales de trabajo.
+d) Elaborar la Memoria anual de actividades y resultados.
+2. Los Conservadores serán nombrados por el Consejero competente en materia de espacios naturales protegidos, de entre funcionarios de carrera de la Administración del Principado de Asturias o de cualquier otra Administración Pública, previo informe de la Junta del Parque correspondiente.
+Se modifica el apartado 2 por el art. único de la Ley autonómica 9/2006, de 22 de diciembre. Ref. BOE-A-2007-5589.
+
+### Artículo 35
+
+Artículo 35.
+La gestión de las reservas naturales se encomendará a un Conservador. No obstante, cuando circunstancias de eficacia en la gestión así lo justifique podrá nombrarse un mismo Conservador para varias reservas.
+
+### Artículo 36
+
+Artículo 36.
+La gestión de los monumentos naturales y de los paisajes protegidos se efectuará directamente por los servicios centrales de la Agencia de Medio Ambiente, salvo lo dispuesto en el artículo 25.2.
+
+## CAPÍTULO V
+
+Actuaciones complementarias y medios económicos
+
+### Artículo 37
+
+Artículo 37.
+La declaración de un espacio como protegido lleva aparejada la de utilidad pública, a efectos expropiatorios, de los bienes y de derechos afectados, y la facultad de la Administración del Principado para el ejercicio de los derechos de tanteo y retracto en las transmisiones onerosas ínter vivos de terrenos situados en el interior del mismo.
+A los efectos del ejercicio de los derechos de tanteo y retracto, por el transmitente se notificarán fehacientemente al órgano actuante las condiciones esenciales de la transmisión pretendida y, en su caso, copia fehaciente de la escritura pública en la que haya sido instrumentada la citada transmisión. El derecho de tanteo podrá ejercerse en el plazo de tres meses y el de retracto en el de un año, ambos a contar desde la correspondiente notificación, que deberá efectuarse en todo caso, y será requisito necesario para inscribir la transmisión en el Registro de la Propiedad.
+
+### Artículo 38
+
+Artículo 38.
+Los terrenos incluidos dentro de los límites de un espacio natural protegido estarán sujetos a servidumbre forzosa de instalación de las señales que los identifiquen.
+La servidumbre de instalación de dichas señales lleva consigo la obligación de los predios sirvientes de dar paso y permitir la realización de los trabajos para su establecimiento, conservación y utilización.
+Para declarar e imponer las servidumbres será título bastante la previa instrucción y resolución del oportuno expediente en el que, con audiencia de los interesados, se justifique la conveniencia y necesidad técnica de su establecimiento.
+En todo caso, la imposición de la servidumbre de señalización dará lugar a la correspondiente indemnización, que se determinará, caso de no existir acuerdo mutuo, por las reglas de valoración contenidas en la Ley de Expropiación Forzosa.
+
+### Artículo 39
+
+Artículo 39.
+Se promoverá la declaración de monte de utilidad pública o monte protector de los terrenos incluidos dentro de los espacios naturales protegidos.
+
+### Artículo 40
+
+Artículo 40.
+Las normas que declaren los espacios naturales protegidos determinarán los instrumentos jurídicos, financieros y materiales que garanticen el cumplimiento de los fines perseguidos con su declaración.
+
+## TÍTULO IV
+
+De las infracciones y sanciones
+
+### Artículo 41
+
+Artículo 41.
+Será pública la acción para exigir ante los órganos administrativos la observancia de lo dispuesto en esta Ley, las normas que la desarrollen, los planes de ordenación de los recursos naturales, las normas de los espacios naturales protegidos, y los planes rectores de uso y gestión.
+
+### Artículo 42
+
+Artículo 42.
+1. Las acciones u omisiones que infrinjan lo prevenido en la presente Ley generarán responsabilidad de naturaleza administrativa, sin perjuicio de lo exigible en vía penal, civil o de otro orden en que puedan incurrir.
+2. Sin perjuicio de las sanciones penales o administrativas que en cada caso procedan, el infractor deberá reparar el daño causado. La reparación tendrá como objetivo lograr, en la medida de lo posible, la restauración del medio natural al ser y estado previos al hecho de producirse la agresión. Asimismo, la Administración del Principado podrá, subsidiariamente, proceder a la reparación a costa del obligado. En todo caso, el infractor deberá abonar los daños y perjuicios ocasionados en el plazo que, en cada caso, se fije en la resolución correspondiente.
+3. Cuando no sea posible determinar el grado de participación de las distintas personas que hubiesen intervenido en la realización de la infracción, la responsabilidad será solidaria, sin perjuicio del derecho a repetir frente a los demás participantes, por parte de aquél o aquellos que hubieran hecho frente a las responsabilidades.
+4. En ningún caso se producirá una doble sanción por los mismos hechos y en función de los mismos intereses públicos protegidos, si bien deberán exigirse las demás responsabilidades que se deduzcan de otros hechos o infracciones concurrentes.
+
+### Artículo 43
+
+Artículo 43.
+Se consideran infracciones administrativas a las disposiciones reguladoras de los espacios naturales protegidos:
+1. La utilización de productos químicos, sustancias biológicas, la realización de vertidos o el derrame de residuos que alteren las condiciones de habitabilidad de los espacios naturales protegidos con daño para los valores en ellos contenidos.
+2. La alteración de las condiciones de un espacio natural protegido o de los productos propios de él mediante ocupación, roturación, corta, arranque, quema u otras acciones.
+3. Las acampadas contraviniendo las normas o disposiciones de cada espacio natural protegido.
+4. La emisión de ruidos que perturben la tranquilidad en los espacios naturales protegidos.
+5. La instalación de carteles, publicidad y almacenamiento de chatarra en los espacios naturales protegidos y en su entorno, cuando se rompa la armonía del paisaje y se altere la perspectiva del campo visual.
+6. La ejecución, sin la debida autorización administrativa, de actividades, obras, trabajos, siembras o plantaciones en zonas sujetas legalmente a algún tipo de limitación en su destino o uso.
+7. Acceder o circular por las zonas con limitaciones al respecto.
+8. Cualquier otro incumplimiento de lo dispuesto en las normas reguladoras de los espacios naturales protegidos.
+
+### Artículo 44
+
+Artículo 44.
+1. Las citadas infracciones serán calificadas como leves, menos graves, graves y muy graves, atendiendo a su repercusión, su trascendencia por lo que respecta a la seguridad de las personas y los bienes y a las circunstancias del responsable, su grado de malicia, participación y beneficio obtenido, así como a la irreversibilidad del daño o deterioro producido en la calidad del recurso o bien protegido.
+2. En todo caso, atendiendo al valor natural y a la importancia del bien jurídico protegido:
+a) Se considerará infracción muy grave la conducta tipificada en el apartado 1 del artículo 43.
+b) Se considerarán infracciones graves la conducta tipificada en el apartado 6 del artículo 43, así como las tipificadas en los apartados 3 y 7 del citado artículo cuando se cometan en el desarrollo de una actividad organizada de carácter comercial, empresarial o deportivo.
+c) Se considerarán infracciones menos graves las conductas tipificadas en los apartados 2, 4 y 5 del artículo 43.
+d) Se considerarán infracciones leves las conductas tipificadas en los apartados 3 y 7 del artículo 43 y aquéllas que se establezcan reglamentariamente en función de su naturaleza o escaso relieve de los perjuicios causados.
+3. Las infracciones anteriormente tipificadas serán sancionadas con las siguientes multas:
+– Infracciones leves: Multas de 60 a 600 €.
+– Infracciones menos graves: Multa de 601 a 6.000 €.
+– Infracciones graves: Multa de 6.001 a 60.000 €.
+– Infracciones muy graves: Multa de 60.001 a 600.000 €.
+Se modifica por la disposición adicional 11 de la Ley autonómica 3/2012, de 28 de diciembre. Ref. BOE-A-2013-1924.
+
+### Artículo 45
+
+Artículo 45.
+En los supuestos y términos a que se refiere el artículo 107 de la Ley de Procedimiento Administrativo podrán imponerse multas coercitivas, reiteradas por lapsos de tiempo que sean suficientes para cumplir lo ordenado, como consecuencia de la ejecución de lo dispuesto en esta Ley y en las normas reguladoras de los espacios naturales protegidos, y cuya cuantía no excederá en cada caso de 500.000 pesetas.
+
+### Disposición final primera
+
+Disposición final primera.
+Se dictarán por el Consejo de Gobierno o, en su caso, se propondrán a la Junta general, en el plazo de tres meses desde la entrada en vigor de esta Ley, las normas oportunas para adaptar el régimen de los espacios naturales protegidos ya declarados a lo dispuesto en esta norma.
+
+### Disposición final segunda
+
+Disposición final segunda.
+En el plazo máximo de un año deberá procederse a la elaboración y, en su caso, aprobación, del Plan de Ordenación de los Recursos Naturales de Asturias.
+
+## ANEXO
+
+Unidades ambientales básicas en Asturias
+1. Litoral:
+1.1 Dunas.
+1.2 Estuarios.
+1.3 Acantilados y rasas.
+1.4 Zonas de particular interés de ámbito submareal en las aguas interiores.
+2. Valles y sierras prelitorales del occidente.
+3. Valles y cadenas litorales del centro y del oriente.
+4. Montañas del occidente.
+5. Núcleo central de la cordillera cantábrica.
+6. Picos de Europa.
+
+Por tanto, ordeno a todos los ciudadanos a quienes sea de aplicación esta Ley coadyuven a su cumplimiento, así como a todos los Tribunales y autoridades que la guarden y la hagan guardar.
+Oviedo, 5 de abril de 1991.
+PEDRO DE SILVA CIENFUEGOS-JOVELLANOS,
+Presidente.

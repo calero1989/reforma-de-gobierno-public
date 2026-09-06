@@ -1,0 +1,365 @@
+# Ley 8/2018, de 28 de junio, de actualización de los derechos históricos de Aragón.
+
+- Identificador BOE: `BOE-A-2018-11933`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2018-11933
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+En nombre del Rey y como Presidente de la Comunidad Autónoma de Aragón, promulgo la presente Ley, aprobada por las Cortes de Aragón, y ordeno se publique en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado», todo ello de conformidad con lo dispuesto en el artículo 45 del Estatuto de Autonomía de Aragón.
+PREÁMBULO
+Aragón es una nacionalidad con más de doce siglos de historia. El antiguo Condado, nacido en el siglo IX en torno a los ríos que le dieron nombre, se constituyó en Reino independiente en el año 1035 y, tras la incorporación de Sobrarbe y Ribagorza y la expansión por los somontanos, el valle del Ebro y las serranías ibéricas, ya tenía fijados sus límites territoriales, de forma definitiva, a principios del siglo XIV. El Reino de Aragón tuvo una estructura institucional propia y un sistema normativo completos. Tomando como término de comparación lo que en cada época se pudiera considerar referencia de desarrollo institucional y normativo, Aragón siempre estuvo en el máximo nivel y con el máximo rango protocolario.
+Sobre este amplio y variado territorio, sucesivas generaciones de aragoneses y aragonesas fueron construyendo una nación fundada en la defensa de sus libertades, dotada de instituciones singulares (Rey, el Príncipe de Gerona, Cortes, Justicia Mayor, Diputación del Reino, Maestre Racional, los Municipios y Comunidades) y depositaria de un rico patrimonio natural, cultural, jurídico y lingüístico. Un país que fue germen y cabeza de una confederación peculiar y precursora en Europa: la Corona de Aragón.
+Las Cortes creadas en el siglo XII eran consideradas por los aragoneses como las representantes del Reino, en la medida en que estaban compuestas por los cuatro brazos o estamentos del Reino (la alta nobleza o ricoshombres, la baja nobleza o caballeros e infanzones, la jerarquía eclesiástica y las universidades). Sus principales funciones eran la de resolver los agravios, acordar la política interior y exterior del Reino y decidir la legislación y los tributos. Asimismo, servían de medio para financiar las empresas reales, a cambio de la concesión de privilegios a los súbditos. Por otra parte, es necesario destacar que pese a la supresión de las instituciones aragonesas por los Decretos de Nueva Planta, en Aragón seguía presente la conciencia de Reino, lo que permite explicar que las Cortes de Aragón fueran las únicas de toda la Corona de Aragón que se reunieran más de un siglo después de la celebración de las anteriores, concretamente el 9 de junio de 1808, convocadas por el Capitán General de Aragón, José de Palafox, durante los Sitios de Zaragoza.
+Otra institución histórica aragonesa es la Diputación General del Reino, surgida a raíz de las Cortes celebradas en Monzón en 1362. Nace como representación permanente de las Cortes con una función meramente recaudatoria; pero con el paso del tiempo se encargará de administrar la Hacienda del Reino, que tenía su propia política fiscal, así como del ejercicio de funciones administrativas y políticas, siendo su misión más importante la de custodia y guarda de los Fueros y Libertades de Aragón. El Justicia de Aragón es el símbolo de la cultura jurídico-política aragonesa y su imagen reconocible en la doctrina y la práctica constitucional de otros países de Europa y América. Invocando el uso de una jurisdicción propia del Reino, ha podido someter a control judicial las actuaciones del Rey y sus Oficiales y cualesquiera otras instituciones de administración y gobierno; en un contexto de Antiguo Régimen dominado por la arbitrariedad, la actividad del Justicia de Aragón permitió articular un sistema con potestades más regladas y actuaciones sometidas a control y responsabilidad.
+La relación entre el Justicia y el Fuero de Aragón es tan directa que resulta imposible imaginar el desarrollo del sistema normativo aragonés en su ausencia. Durante el siglo XIV, el Justicia ha creado normas verbalizando en sus Observancias las reglas del Fuero de Aragón; más adelante, se ha convertido en intérprete de los Fueros aprobados por las Cortes, que era la otra vía de verbalización del Fuero que desde Pedro IV se quiere convertir en única. Incluso después de 1347, el Justicia ha desarrollado una actividad que transciende lo que hoy entendemos por interpretación de las normas de Cortes. La importancia de sus decisiones, extendida a la de los otros tribunales y el Consejo de Aragón, ha dado origen a colecciones de decisiones que son un género especialmente desarrollado en Aragón y característico de su sistema foral desde el siglo XVI. Esta jurisprudencia ha sido instrumento de actualización de las normas forales supliendo en el siglo XVII la crisis de las propias Cortes legislativas. El Justicia de Aragón ha sido pieza fundamental en el pensamiento constitucional español desde 1812, representando una manera de entender la acción del Rey y las instituciones con sometimiento a la supremacía del derecho (fuero), que proporciona un referente español para la construcción de nuestro Estado de Derecho. Desde el inicio de nuestro proceso estatutario derivado de las constituciones de 1931 y 1978, el Justicia de Aragón —símbolo de nuestra capacidad para crear, aplicar y garantizar un sistema normativo propio y completo, y expresión de nuestra condición de nacionalidad histórica— se ha situado en el núcleo de nuestro autogobierno constitucional y la Comunidad Autónoma desarrollada para ejercerlo.
+Junto al Tribunal de Justicia, Aragón ha tenido una Audiencia —Virreinal, de la Gobernación General, Audiencia Real o Real Audiencia— que ha culminado y cerrado en Aragón la organización judicial de régimen ordinario, incluso con posterioridad a los Decretos de Nueva Planta.
+Para la organización de la administración del Reino, existieron demarcaciones de tipo supramunicipal que distribuían el espacio de gobierno del Reino en unidades menores. Las más consolidadas tenían una finalidad fiscal o judicial; este tipo de demarcaciones que aproximaban la acción de gobierno están en el fundamento de las actuales comarcas.
+Por último, también existía en el Reino de Aragón la institución del Maestre Racional, al que le correspondía la administración del patrimonio real como interventor general de ingresos y gastos, en un intento de impulsar la racionalización de la estructura político-administrativa de la Corona. Asimismo le fueron asignadas funciones de previsión, dirección y control último de la administración financiera real, destacando, entre todas ellas, la de fiscalización de la gestión financiera. De estas funciones es heredera la actual Cámara de Cuentas de Aragón como institución particular de Aragón.
+Uno de los signos que diferencian y definen a Aragón es su Derecho Foral. Aragón siempre se ha dotado de las normas necesarias para la regulación de la vida política y social, de tal forma que el Derecho aragonés es tan antiguo como Aragón mismo. El Derecho Foral aragonés ha sido el elemento principal de la formación, permanencia y continuidad de la identidad aragonesa hasta nuestros días. La interpretación de los Fueros ha sido objeto de regulaciones y construcciones doctrinales muy diferentes. Desde la inicial apertura a la aplicación analógica de los textos —previendo el recurso a la «igualeza», en virtud de la cual los asuntos semejantes deben tener soluciones semejantes—hasta la lectura que finalmente se dio del Standum est Chartae como principio hermenéutico de la que se hizo derivar la aplicación literal de las normas. Muchos de estos criterios respondían a la situación concreta de las normas que no tuvieron su origen en el Rey y el control de las Cortes y Tribunales, que tenían la capacidad para modificarlas o la obligación de aplicarlas; son, por tanto, difícilmente extrapolables fuera de su contexto.
+La esencia del antiguo Reino de Aragón eran sus Fueros, que emanaban de una concepción pactista del poder: no era Fuero la voluntad del Rey, sino su acuerdo con los cuatro Brazos de las Cortes. El principio esencial del sistema constitucional histórico de Aragón es la supremacía del Derecho. De la mano de Jaime I y Vidal de Canellas se introdujo en Aragón, en la mitad del siglo XIII, una ordenación de la actuación de los jueces del rey y sistema de garantías judiciales de inspiración canónica que tiene pocos equivalentes en su tiempo —los jueces estaban obligados a expresar la motivación de las sentencias— y que está en la raíz del extraordinario desarrollo de nuestra doctrina jurídica. Dentro de los límites de una sociedad de Antiguo Régimen, en Aragón había una preocupación demostrable por prohibir o reducir la arbitrariedad. Y el pueblo aragonés siempre se caracterizó por defender celosamente sus Fueros y Libertades, hasta el punto de que el Justicia Mayor Juan de Lanuza el Mozo fue decapitado, tras la rebelión de 1591, por encabezar su defensa.
+A principios del siglo XVIII, los llamados Decretos de Nueva Planta abolieron, por derecho de conquista, el Derecho público y las instituciones propias del Reino de Aragón, que había sido Estado independiente durante setecientos años. Los aragoneses únicamente pudimos conservar el Derecho privado plasmado en el Cuerpo de Fueros, Observancias y Actos de Corte del Reino de Aragón, que, a través del Apéndice de 1925, la Compilación de 1967 y, una vez recuperado el autogobierno, diversas leyes autonómicas hoy refundidas en el Código del Derecho Foral de Aragón, ha subsistido hasta nuestros días. Durante casi tres siglos, la aplicación cotidiana del Derecho foral aragonés fue testimonio patente de nuestro pasado común, el elemento esencial que reflejaba nuestra identidad colectiva. Y, lo que es más importante, siempre se mantuvo viva la voluntad de los aragoneses de existir como pueblo, la conciencia de nuestro hecho nacional. Puede citarse un ejemplo muy expresivo: un siglo después de su abolición, en plena Guerra de la Independencia, Palafox convocó las antiguas Cortes de Aragón, que se reunieron el día 9 de junio de 1808 con asistencia de los cuatro Brazos tradicionales.
+Esta nacionalidad no pudo acceder a su pleno autogobierno en la Segunda República porque el inicio de la Guerra Civil interrumpió, bruscamente, la tramitación del Estatuto de Autonomía de Aragón que había sido ya redactado en Caspe en 1936. La primera de las bases aprobada para redactar el futuro Estatuto proclamaba acertadamente que «la personalidad de Aragón queda definida por el hecho histórico y por la actualidad de querer ser».
+Antes de promulgarse la Constitución de 1978, Aragón encabezó el movimiento autonomista y fue uno de los primeros territorios en acceder al régimen preautonómico. Así, el Real Decreto-Ley 8/1978, de 17 de marzo, que aprobó el régimen preautonómico para Aragón e instituyó la Diputación General como órgano de gobierno, proclamaba que el pueblo aragonés ha manifestado reiteradamente, en diferentes momentos del pasado y en el presente, su aspiración a contar con instituciones propias.
+En la fecha histórica del 23 de abril de 1978, más de cien mil aragoneses se manifestaron en Zaragoza para reivindicar la autonomía. Pero los pactos autonómicos de 1981 impusieron a Aragón el acceso a su autogobierno por la vía lenta del artículo 143 de la Constitución. Sin embargo, desde el primer momento, el Estatuto de Autonomía aprobado por Ley Orgánica 8/1982, de 10 de agosto, hizo reserva expresa de los derechos que corresponden al pueblo aragonés en virtud de su historia. Y el propio pueblo aragonés volvió a manifestarse masivamente, en 1992 y en los años sucesivos, para reclamar la autonomía plena para Aragón.
+Con la experiencia acumulada a lo largo de más de treinta años, es preciso dar un nuevo impulso al proceso de construcción de nuestro autogobierno, a fin de que Aragón, mediante la actualización de los derechos históricos de su pueblo, amparados y respetados por la Constitución, acceda al máximo nivel de autogobierno. El objetivo de una ley de actualización de los derechos históricos es tratar de afirmar y proteger la identidad aragonesa. Actualización significa decantar la esencia regulatoria de esa identidad constitucional histórica de Aragón, eliminando cualquier reminiscencia de un régimen señorial incompatible con nuestro actual sistema constitucional democrático. También es adaptación de esa raíz regulatoria a un nuevo entorno social, receptivo y abierto a otras culturas, religiones y etnias que vuelven a un territorio que en el pasado también fue receptor. Aragón, mediante la presente ley, proclama su condición de territorio foral por legitimidad histórica y porque lo dispone su Estatuto de Autonomía, según el cual, los derechos históricos de Aragón podrán ser actualizados de acuerdo con lo que establece la disposición adicional primera de la Constitución española. De este modo, Aragón queda situado en el lugar que, como nacionalidad histórica, le corresponde por su pasado foral dentro del Estado español y la Unión Europea, y recupera los instrumentos precisos para seguir haciendo realidad el progreso social, cultural y económico de los aragoneses y aragonesas.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Aragón, nacionalidad histórica.
+1 a 3 (Anulados).
+4. Aragón, en virtud de sus instituciones tradicionales, su historia, su Derecho, su cultura y de la convivencia histórica de las lenguas y modalidades lingüísticas propias de Aragón, ostenta en el Estado español y en la Unión Europea una identidad y un espacio jurídico, político y cultural propios, que deberán reivindicarse y reconocerse.
+Se declaran inconstitucionales y nulos los apartados 1, 2 y 3 por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 2
+
+Artículo 2. Titularidad y contenido de los derechos históricos.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 3
+
+Artículo 3. Principios y normas de actualización de los derechos históricos.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 4
+
+Artículo 4. Carácter originario e imprescriptibilidad.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 5
+
+Artículo 5. El pacto como base de la convivencia política.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 6
+
+Artículo 6. Derechos y libertades.
+1. Como sucesores de las instituciones del antiguo Reino de Aragón, los poderes públicos aragoneses promoverán y garantizarán el pleno ejercicio de los derechos y libertades proclamados en el Estatuto de Autonomía, la Constitución española, la legislación de la Unión Europea, la Declaración Universal de Derechos Humanos, el Convenio Europeo para la Protección de los Derechos Humanos, la Carta Europea de las Lenguas Regionales y Minoritarias, la Convención sobre la eliminación de todas las formas de discriminación contra la mujer y el resto de tratados y convenios internacionales que resulten de aplicación, así como aquellos otros derechos que, habiendo sido reconocidos en normas de menor rango jurídico, se encuentren en vigor en el momento de la entrada en vigor de la presente Ley.
+2. Las instituciones aragonesas respetarán y protegerán el contenido actual de los derechos y libertades referidos en el apartado anterior y se opondrán a su minoración o restricción por parte de otras instituciones en cuanto puedan afectar al pueblo aragonés.
+3. Las instituciones aragonesas garantizarán de forma efectiva el cumplimiento de los derechos sociales que no gozan de una protección legal eficaz, especialmente el derecho al trabajo de calidad, el derecho a una vivienda digna, el derecho a la vida, a la integridad física y psicológica, al asilo y el derecho a unos servicios sociales de calidad. A estos efectos, los citados derechos serán auténticos derechos subjetivos para todos los ciudadanos empadronados en Aragón cuya efectividad podrá ser reclamada de manera directa a la Administración aragonesa en las materias de su competencia. Del mismo modo, los presupuestos de la Comunidad Autónoma de Aragón no podrán en ningún caso reducir los créditos que se hubieran dispuesto para políticas sociales en el ejercicio anterior.
+Téngase en cuenta que se declaran inconstitucionales y nulos los incisos destacados de los apartados 1 y 3 por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+Se declaran inconstitucionales y nulos los incisos destacados de los apartados 1 y 3 por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 7
+
+Artículo 7. Condición política de aragonés y natural de Aragón.
+1. A los efectos de la presente ley, gozan de la condición política de aragoneses:
+a) Los ciudadanos españoles que tengan vecindad administrativa en cualquiera de los municipios de Aragón o cumplan los requisitos que la legislación aplicable pudiera establecer.
+b) Los ciudadanos españoles residentes en el extranjero que hayan tenido su última vecindad administrativa en Aragón y acrediten esta condición en el correspondiente Consulado de España o cumplan los requisitos establecidos en la legislación estatal, así como sus descendientes, si así lo solicitan, siempre que ostenten la nacionalidad española en la forma que determine la ley.
+c)(Anulado).
+2. La condición política de aragonés otorga el pleno ejercicio de los derechos políticos contemplados en el Estatuto de Autonomía de Aragón, en la presente Ley y en el resto del ordenamiento jurídico.
+Se declara inconstitucional y nulo el apartado 1.c) por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+ Se mantiene la suspensión de la vigencia y aplicación del apartado 1.c) por Auto del TCde 18 de junio de 2019. Ref. BOE-A-2019-9659
+ Se suspende la vigencia y aplicación del apartado 1.c) desde el 15 de febrero de 2019 para las partes en el proceso y desde el 6 de marzo de 2019 para los terceros, por providencia del TC de 26 de febrero de 2019 que admite a trámite el recurso de inconstitucionalidad 976/2019. Ref. BOE-A-2019-3181
+
+### Artículo 8
+
+Artículo 8. Participación en decisiones de interés general.
+Los poderes públicos aragoneses establecerán las vías adecuadas para facilitar y potenciar la participación en las decisiones de interés general de las siguientes personas:
+a) Los ciudadanos extranjeros residentes en Aragón, sin perjuicio del derecho de sufragio activo y pasivo en las elecciones municipales en los términos previstos en la legislación electoral.
+b) (Anulado).
+Se declara inconstitucional y nulo el apartado b) por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 9
+
+Artículo 9. Territorio.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+## CAPÍTULO II
+
+Símbolos de Aragón
+
+### Artículo 10
+
+Artículo 10. La bandera de Aragón.
+1 y 2 (Anulados).
+3. El tamaño de la bandera de Aragón no podrá ser inferior al de otras banderas distintas a la misma cuando se utilicen simultáneamente.
+Se declaran inconstitucionales y nulos los apartados 1 y 2 por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 11
+
+Artículo 11. El escudo de Aragón.
+1. (Anulado).
+2. El escudo de Aragón deberá figurar en:
+a) Los edificios de la Comunidad Autónoma.
+b) Los títulos oficiales expedidos por la Comunidad Autónoma.
+c) Los documentos, impresos, sellos y membretes de uso oficial en la Comunidad Autónoma.
+d) Los distintivos usados por las autoridades de la Comunidad Autónoma que tengan derecho a ello.
+e) Los lugares u objetos de uso oficial en los que, por su carácter especialmente representativo, así se determine.
+Se declara inconstitucional y nulo el apartado 1 por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 12
+
+Artículo 12. Día de Aragón.
+1. El Día de Aragón es el 23 de abril.
+2. A todos los efectos, la indicada fecha se considerará festiva en todo el territorio de Aragón.
+
+### Artículo 13
+
+Artículo 13. Capitalidad.
+1. La capital de Aragón es la ciudad de Zaragoza, que constituye la sede permanente de las instituciones autonómicas aragonesas, sin perjuicio de que las mismas puedan reunirse en otros lugares de Aragón, con arreglo a lo previsto en las leyes.
+2. En su condición de capital, Zaragoza dispondrá de un régimen especial establecido por una ley de las Cortes de Aragón.
+
+## CAPÍTULO III
+
+Instituciones de autogobierno
+
+### Artículo 14
+
+Artículo 14. Instituciones forales históricas.
+1 a 3 (Anulados).
+4. El régimen de precedencias de las autoridades e instituciones de la Comunidad Autónoma de Aragón en los actos oficiales tendrá en cuenta el carácter histórico de las instituciones reguladas en el presente Capítulo.
+Se declaran inconstitucionales y nulos los apartados 1, 2 y 3 por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 15
+
+Artículo 15. Las Cortes de Aragón.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 16
+
+Artículo 16. El Justicia de Aragón.
+1. El Justicia de Aragón tiene como misión la protección y defensa de los derechos y libertades individuales o colectivos de los aragoneses, incluido el derecho al autogobierno, la tutela del ordenamiento jurídico aragonés, velando por su defensa y aplicación, y la defensa del Estatuto.
+2. El Justicia actúa como mediador entre las instituciones aragonesas, así como en los conflictos que se susciten entre los ciudadanos y las Administraciones públicas aragonesas, en los términos legalmente previstos.
+3. (Anulado).
+Se declara inconstitucional y nulo el apartado 3 por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 17
+
+Artículo 17. La Presidencia de Aragón.
+1. El Presidente de Aragón ostenta la suprema representación de Aragón, preside la Diputación General, acuerda la disolución de las Cortes y la convocatoria de elecciones.
+2. El Presidente promulga y ordena publicar las leyes aragonesas en nombre del Rey.
+(Párrafo segundo anulado)
+3. El Presidente responde políticamente ante las Cortes de Aragón, a través de la cuestión de confianza y la moción de censura, entre otras, en los términos previstos en las leyes.
+Se declara inconstitucional y nulo el segundo párrafo del apartado 2 por Sentencia del TC 13/2020, de 28 de enero. Ref. BOE-A-2020-2940
+
+### Artículo 18
+
+Artículo 18. La Diputación General de Aragón.
+1. La Diputación General tiene su origen histórico en la Diputación del Reino; es órgano permanente de gobierno con capacidad ejecutiva y normativa sometida a las Cortes y al Estatuto.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado 1 por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+2. La Diputación General de Aragón, bajo la dirección de su Presidente o Presidenta, establece la política general y la acción exterior, dirige la Administración de la Comunidad Autónoma y vela por la defensa de la autonomía aragonesa. Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con las leyes.
+3. El control político de la Diputación General corresponde a las Cortes de Aragón; la supervisión de la actividad de su Administración, al Justicia de Aragón, y la fiscalización externa de su gestión económico-financiera, a la Cámara de Cuentas, todo ello sin perjuicio del control que corresponde a los Juzgados y Tribunales de Justicia en el ejercicio de la potestad jurisdiccional.
+4. La Diputación General es responsable políticamente ante las Cortes de Aragón de forma solidaria, sin perjuicio de la responsabilidad directa de sus miembros por su gestión.
+Se declara inconstitucional y nulo el inciso destacado del apartado 1 por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 19
+
+Artículo 19. La Cámara de Cuentas de Aragón.
+1. La Cámara de Cuentas de Aragón es el órgano al que corresponde, con plena independencia, la fiscalización externa de la gestión económico-financiera, contable y operativa del sector público de Aragón.
+2. El Presidente de la Cámara de Cuentas recibe la denominación foral de Maestre Racional.
+
+### Artículo 20
+
+Artículo 20. El Tribunal Superior de Justicia.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 21
+
+Artículo 21. Municipios y comarcas.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 22
+
+Artículo 22. Otras instituciones de autogobierno.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+## CAPÍTULO IV
+
+Patrimonio político e histórico de Aragón
+
+### Artículo 23
+
+Artículo 23. Concepto y régimen jurídico.
+1. El patrimonio político, jurídico e histórico aragonés está integrado por todos los bienes, materiales e inmateriales, relacionados con las instituciones, el Derecho y la historia de Aragón.
+2. La Diputación General de Aragón promoverá la protección, conservación, recuperación, enriquecimiento, investigación, difusión, promoción, fomento y actualización del patrimonio político, jurídico e histórico de Aragón, garantizando su transmisión a las generaciones futuras, su uso como bien social y su consideración como un factor de desarrollo sostenible para Aragón.
+3. Son de aplicación a los bienes que integran el patrimonio político, jurídico e histórico aragonés las previsiones de la legislación de patrimonio cultural aragonés, en cuanto resulten compatibles con su naturaleza jurídica.
+
+### Artículo 24
+
+Artículo 24. Patrimonio material.
+1. La Diputación General de Aragón procederá a la identificación y conservación de los bienes materiales de especial relevancia para la historia política y jurídica de Aragón. Estos bienes gozarán de especial protección y serán declarados Bien de Interés Cultural.
+2. En particular, serán declarados Bien de Interés Cultural los restos arquitectónicos y arqueológicos de todos los bienes inmuebles de especial relevancia en la historia política y jurídica de Aragón y, específicamente, los que fueron sede de las instituciones forales.
+
+### Artículo 25
+
+Artículo 25. Patrimonio expoliado y emigrado.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 26
+
+Artículo 26. Archivo de la Corona de Aragón.
+1 a 3 (Anulados).
+4. El Archivo de la Corona de Aragón se integra en el Sistema de Archivos de Aragón.
+Se declaran inconstitucionales y nulos los apartados 1, 2 y 3 por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 27
+
+Artículo 27. Archivo del Reino de Aragón.
+La Diputación General de Aragón unificará en un solo fondo todos los restos documentales que fueron conservados en el Archivo del Reino de Aragón.
+
+### Artículo 28
+
+Artículo 28. Patrimonio inmaterial.
+La cultura y tradición jurídica y política de Aragón, así como su historia, forman parte de su patrimonio inmaterial y gozan de la máxima protección que esta condición le proporciona.
+
+### Artículo 29
+
+Artículo 29. Patrimonio histórico.
+1. Aragón cuenta con una historia como comunidad humana diferenciada que se inicia hace doce siglos. Las autoridades aragonesas velarán para que los aragoneses conozcan su historia y fomentarán la investigación sobre la misma.
+2. Las instituciones aragonesas deberán apoyar y promover las diversas iniciativas relacionadas con la historia de Aragón, sin que la investigación al respecto pueda ser encomendada a ninguna entidad en exclusiva.
+3. Las autoridades aragonesas fomentarán la enseñanza de la historia de Aragón en todos los niveles educativos.
+4. Las instituciones aragonesas, y especialmente el Gobierno de Aragón, mantendrán una posición activa ante cualquier tipo de tergiversación o manipulación histórica, cultural o territorial, denunciando tales actuaciones, exigiendo la rectificación de manera inmediata y realizando cuantas acciones legales estén en su mano para tal fin.
+5. El Justicia de Aragón incluirá en su informe anual un apartado en el que consten las actuaciones públicas sucedidas provocadas por instituciones, entidades públicas o sus representantes en materia de tergiversación histórica y que afecten a nuestro decoro e identidad como pueblo; además, constarán las denuncias presentadas por particulares, asociaciones y entidades públicas relativas a la manipulación de la realidad histórica, cultural o territorial aragonesa, incluyendo las acciones que, en su caso, debiera haber realizado el Gobierno o hubiera realizado.
+
+### Artículo 30
+
+Artículo 30. Patrimonio lingüístico.
+La lengua aragonesa, en la que se pronunció el Derecho aragonés, se escribieron los Fueros y se expresaron las Cortes de Aragón, el Justicia de Aragón y las demás instituciones a lo largo de la historia, la única que solo es hablada en nuestro territorio, es un patrimonio de toda la humanidad que debe ser objeto de especial atención, dignificación, protección, difusión y uso por parte de todas las instituciones aragonesas.
+
+### Artículo 31
+
+Artículo 31. El agua, patrimonio común de Aragón.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+## CAPÍTULO V
+
+Aragón y su Derecho
+
+### Artículo 32
+
+Artículo 32. Principios de interpretación del Derecho aragonés.
+Con fundamento en los antecedentes históricos de Aragón y en el Estatuto, son principios de interpretación del Derecho aragonés los siguientes:
+a) (Anulada).
+b) Las instituciones de Aragón evitarán aplicaciones literales de la norma que supongan fraude de Estatuto.
+c) En la interpretación de las normas se tendrá en cuenta el sentido histórico de las palabras.
+Se declara inconstitucional y nulo la letra a) por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 33
+
+Artículo 33. El conocimiento del Derecho y servicio público.
+1. El acceso al conocimiento del Derecho propio por parte de los ciudadanos, los operadores jurídicos y los empleados públicos tendrá la consideración de servicio público.
+2. Los poderes públicos deberán facilitar el acceso gratuito de los ciudadanos a la información sobre el Derecho aragonés y a las sentencias de los órganos jurisdiccionales radicados en Aragón, especialmente en soportes digitales.
+3. (Anulado).
+4. El ejercicio por parte de la Comunidad Autónoma de Aragón de sus competencias en materia tributaria y fiscal tendrá por objeto garantizar y promover la aplicación del Derecho foral aragonés, sin que en ningún caso puedan adoptarse medidas que perjudiquen o desincentiven su aplicación. Del mismo modo, la Diputación General de Aragón velará para que las normas y actos del Estado en materia tributaria y fiscal no produzcan tampoco esos efectos negativos.
+5. (Anulado).
+Se declaran inconstitucionales y nulos losl apartados 3 y 5 por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Artículo 34
+
+Artículo 34. La Comisión Aragonesa de Derecho Civil.
+1. La Comisión Aragonesa de Derecho Civil es un órgano consultivo que tiene por objeto asesorar al Gobierno en materia de conservación, modificación y desarrollo del Derecho civil aragonés como parte esencial del Derecho Foral de Aragón.
+2. Son funciones de la Comisión Aragonesa de Derecho Civil:
+a) Informar los anteproyectos de ley de conservación, modificación y desarrollo del Derecho civil aragonés, así como los de Derecho Procesal Civil derivado de las peculiaridades de aquel.
+b) Elaborar los anteproyectos de ley sobre las citadas materias que el Gobierno de Aragón le encomiende.
+c) Conocer y evaluar el grado de aplicación del Derecho civil aragonés y las nuevas demandas que se produzcan en su desarrollo, informando, en su caso, sobre la conveniencia de su modificación o desarrollo.
+d) Proponer al Gobierno de Aragón la adopción de cuantas medidas estime convenientes para la conservación, modificación o desarrollo del Derecho civil aragonés.
+e) Emitir cuantos informes sean solicitados por los órganos competentes de la Diputación General de Aragón en materia de Derecho civil aragonés.
+f) En general, el asesoramiento, estudio y propuesta a la Diputación General en materia de Derecho civil aragonés y especialidades procesales derivadas de aquel derecho sustantivo.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Conocimiento y difusión.
+La Diputación General de Aragón promoverá el conocimiento y difusión de esta ley y el contenido de los derechos históricos entre todos los aragoneses, cualquiera que sea su lugar de residencia, así como su divulgación en el ámbito escolar, mediante la incorporación de contenidos de esta materia en el currículum y la divulgación de materiales didácticos en los centros educativos. Podrán también utilizarse otros recursos para contribuir a la difusión de estos contenidos sobre nuestro origen y nuestros derechos.
+Además, los medios de comunicación públicos se implicarán para promover el efectivo conocimiento de los aragoneses de sus derechos históricos.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Declaración de interés general a efectos expropiatorios.
+1. Los bienes y archivos que integran el patrimonio cultural e histórico del Reino de Aragón y que pertenecieron a la Diputación General, a las Cortes, al Justicia, al Consejo de Aragón, a la Audiencia y al Maestre Racional del Reino de Aragón se declaran de interés general para la Comunidad Autónoma de Aragón a los efectos expropiatorios, con el fin de afirmar y defender la identidad de Aragón y sus derechos históricos.
+[Párrafo segundo anulado]
+Téngase en cuenta que se declaran inconstitucionales y nulos el inciso destacado del apartado 1 y su párrafo segundo y la no inconstitucionalidad del resto de dicho apartado, en los términos del fj 7.j), por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404, y en el mismo sentido, en cuanto a la no inconstitucionalidad del apartado 1, se pronuncia la Sentencia del TC 13/2020, de 28 de enero. Ref. BOE-A-2020-2940.
+2. Será condición de la expropiación prevista en esta disposición la declaración oficial del bien y archivos como singulares para la identidad de Aragón por la Diputación General, que conllevará la necesidad de ocupación conforme a la ley de expropiación forzosa.
+Se declaran inconstitucionales y nulos el inciso destacado del apartado 1 y su párrafo segundo y la no inconstitucionalidad del resto de dicho apartado, en los términos del fj 7.j), por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+ Redactado conforme a la corrección de errores publicada en BOE núm. 39, de 14 de febrero de 2010. Ref. BOE-A-2020-2251
+ En el mismo sentido, en cuanto a la no inconstitucionalidad del apartado 1, se pronuncia la Sentencia del TC 13/2020, de 28 de enero. Ref. BOE-A-2020-2940.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Acuerdo bilateral económico-financiero con el Estado.
+(Anulada).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Vidal Mayor.
+La Diputación General de Aragón desarrollará todas las actuaciones necesarias para hacer realidad, a la mayor brevedad, el regreso definitivo a Aragón del Vidal Mayor, elemento esencial del patrimonio jurídico, artístico y lingüístico de Aragón.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Palacio de la Diputación del Reino.
+La Diputación General de Aragón desarrollará las actuaciones de estudio e intervención necesarias para recuperar y rehabilitar el inmueble que contiene los restos del Palacio de la Diputación del Reino de Aragón.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Archivo del Reino y General de Aragón.
+1. El Archivo del Reino de Aragón formará una unidad separada en el Archivo General de Aragón, que cambiará su denominación por la de Archivo del Reino y General de Aragón.
+2. La Diputación General de Aragón impulsará la creación de una sede física propia y específica para dicho Archivo.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa por incompatibilidad.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta ley.
+
+### Disposición final primera
+
+Disposición final primera. Derogación de los Decretos de abolición foral.
+Con el objetivo de hacer posible la superación histórica de las consecuencias negativas que, derivadas de los Decretos de abolición foral de 1707, todavía hoy padece Aragón como nacionalidad histórica, tanto en lo político o cultural como en lo relativo a la financiación, la Diputación General de Aragón se dirigirá al Gobierno del Estado español para que este derogue formalmente el Decreto de Nueva Planta de 29 de junio de 1707, que, dictado por el derecho de conquista, supuso la abolición de los fueros y libertades de que gozaba Aragón antes de Felipe V.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación a la Diputación General.
+Se habilita a la Diputación General de Aragón para dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de la presente ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Actualización de los derechos históricos por las instituciones de Aragón.
+(Anulada).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 158/2019, de 12 de diciembre. Ref. BOE-A-2020-404
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente ley entrará en vigor el día 29 de junio de 2018, fecha en la que se cumplen trescientos once años desde la aprobación del primer Decreto de Nueva Planta que abolió, por derecho de conquista, el Derecho público y las instituciones propias del Reino de Aragón.
+
+### [firma]
+
+Así lo dispongo a los efectos del artículo 9.1 de la Constitución y los correspondientes del Estatuto de Autonomía de Aragón.
+Zaragoza, 28 de junio de 2018.–El Presidente del Gobierno de Aragón, Javier Lambán Montañés.

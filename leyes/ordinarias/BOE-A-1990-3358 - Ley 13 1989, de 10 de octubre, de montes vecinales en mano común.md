@@ -1,0 +1,409 @@
+# Ley 13/1989, de 10 de octubre, de montes vecinales en mano común.
+
+- Identificador BOE: `BOE-A-1990-3358`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1990-3358
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Los montes vecinales en mano común son una de las pocas formas de propiedades de tierras en común que ha logrado sobrevivir a la organización municipal del siglo XIX y al fenómeno desamortizador.
+Por ello, llama la atención que de una forma de propiedad tan original y tan nuestra no hubiese sido objeto de reglamentación específica hasta hace veinte años.
+La Ley 52/1968, de 27 de julio, de montes vecinales en mano común, tuvo sin duda el mérito de haber reconocido la figura, pero la desnaturalizó con las limitaciones y restricciones que contiene, así como la ingerencia municipal. La Ley 55/1980, de 11 de noviembre, quiso ser, y de hecho fue, más liberalizadora, pero aún son muchos los obstáculos que limitan sus funciones.
+La presente Ley pretende dar respuesta a la necesidad de una regulación realista de los montes vecinales en mano común, propiedad peculiar y bien característica de Galicia, tantas veces puesta de manifiesto por los expertos, reivindicada por los campesinos y reclamada por la propia realidad económica.
+No ofrece duda la potestad legislativa de nuestra Comunidad por venirle claramente atribuida en el Estatuto de Autonomía (artículo 27.11) la competencia exclusiva en materia de «régimen jurídico de los montes vecinales en mano común».
+La legislación relativa a estos montes exige partir del reconocimiento de la naturaleza privada de estas tierras a favor de las Comunidades vecinales que habitualmente las venía disfrutando, liberándolas de vínculos que la desnaturalizan. En este reconocimiento no se pueden olvidar los preceptos constitucionales referentes a la función social de la propiedad para que tales bienes cumplan las necesidades de la Comunidad propietaria, así como con el interés general de la sociedad y, en consecuencia, llevar a cabo un mejor aprovechamiento de los recursos.
+Las causas de que importantes superficies de Galicia estén improductivas o con aprovechamientos por debajo de su potencial radican en buena medida en los obstáculos legales e institucionales que los vecinos han venido encontrando para el aprovechamiento de sus propios montes. Esta Ley facilita la dedicación de las tierras a los cultivos y aprovechamientos que más convengan a las circunstancias agrológicas de los suelos y a los intereses de los vecinos, permitiendo, asimismo, la división de los montes entre ellos, con carácter temporal, para su cultivo, aunque adoptando medidas de protección y cautela que impidan romper la unidad de los mismos.
+Se pretende, en definitiva, incorporar a la actividad económica una amplia superficie agraria bajo este régimen de propiedad y abrir caminos para la mejora de la dimensión económica de las explotaciones agrarias pertenecientes a las Comunidades con montes vecinales en mano común.
+Esta Ley da a la Comunidad de vecinos plena autonomía para la gestión y disfrute del monte, reduce las mayorías necesarias para la toma de decisiones, estableciendo garantías suficientes de publicidad y concurrencia, dicta las normas básicas de organización de las Comunidades de vecinos y simplifica el articulado –dejando para un posterior desarrollo reglamentario todas las materias no fundamentales–, consiguiendo con todo ello una necesaria sistematización.
+Para favorecer su mejor aprovechamiento por los vecinos, una vez superadas las limitaciones legislativas anteriores, se considera necesario incluir también su carácter preferente en las actuaciones y ayudas de la administración agraria gallega.
+Se contempla la fórmula de gestión cautelar por la Administración para aquellos casos en los que la Comunidad de vecinos se extinga o desaparezca, y también para el supuesto de que el monte no sea gestionado de acuerdo con sus recursos. La gestión cautelar queda en todo caso supeditada al aprovechamiento directo por la Comunidad, estableciendo un procedimiento que garantice este principio.
+De acuerdo con lo previsto en el artículo 13.2 del Estatuto de Autonomía de Galicia y 24 de la Ley reguladora de la Xunta y de su Presidente sanciono y promulgo en nombre del Rey la Ley de Montes Vecinales en mano común.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+Son montes vecinales en mano común y se regirán por esta Ley los que, con independencia de su origen, sus posibilidades productivas, su aprovechamiento actual y su vocación agraria, pertenezcan a agrupaciones vecinales en su calidad de grupos sociales y no como entidades administrativas, y se vengan aprovechando consuetudinariamente en régimen de comunidad sin asignación de cuotas por los miembros de aquéllas en su condición de vecinos.
+
+### Artículo 2
+
+Artículo 2.
+Los montes vecinales en mano común son bienes indivisibles, inalienables, imprescriptibles e inembargables, no estando sujetos a ninguna contribución de base territorial ni a la cuota empresarial de la Seguridad Social, de acuerdo con el artículo 2.1 de la Ley 55/1980.
+
+### Artículo 3
+
+Artículo 3.
+1. La propiedad de los montes vecinales en mano común, con independencia de su origen, es de naturaleza privada y colectiva, correspondiendo su titularidad dominical y aprovechamiento, sin asignación de cupos, al conjunto de los vecinos titulares de unidades económicas, con casa abierta y residencia habitual en las entidades de población a las que tradicionalmente hubiese estado adscrito su aprovechamiento, y que vengan ejerciendo, según los usos y costumbres de la Comunidad, alguna actividad relacionada con aquéllos.
+2. La Comunidad vecinal a que se refiere el apartado anterior se entenderá compuesta por los vecinos que la integren en cada momento.
+
+## TÍTULO I
+
+Régimen jurídico
+
+### Artículo 4
+
+Artículo 4.
+1. La Comunidad de vecinos propietaria de un monte vecinal en mano común tendrá plena capacidad jurídica para el cumplimiento de sus fines y la defensa de sus derechos, sobre el monte y sus aprovechamientos, así como sobre su administración y disposición, en los términos establecidos en la presente Ley.
+2. Si se extinguiese la Comunidad vecinal titular con independencia de su voluntad, habrá que estar, transitoriamente y hasta tanto no se reconstituya la Comunidad a lo dispuesto en el artículo 27 de la presente Ley.
+
+### Artículo 5
+
+Artículo 5. Cesiones y arrendamientos.
+1. Los montes vecinales en mano común, pese a su inalienabilidad, podrán ser objeto de cesión temporal, en todo o en parte, a título oneroso o gratuito, por obras, instalaciones, explotaciones de diversa índole, servicios u otros fines que redunden de modo principal en el beneficio directo de la comunidad de vecinos, de acuerdo con las mayorías previstas en el artículo 18.1. La cesión podrá ser por tiempo indefinido en favor de cualquiera de las administraciones públicas cuando sea destinada a equipamientos a favor de la propia comunidad y en tanto se mantenga el fin para el que se hizo la cesión.
+2. Los montes vecinales en mano común podrán ser objeto de arrendamiento total o parcial, el cual se regirá por lo dispuesto en el capítulo I del título VII de la Ley 2/2006, de 14 de junio, de derecho civil de Galicia, con las siguientes especialidades:
+a) El periodo contractual no podrá ser superior a once años, salvo en los arrendamientos realizados a través del Banco de Tierras de Galicia. En estos arrendamientos a través del Banco de Tierras de Galicia, el periodo máximo contractual será de treinta años o, en caso de especies forestales que se rijan por modelos silvícolas en que esté establecida la edad de corta, el tiempo correspondiente al primer turno de corta.
+b) Las mejoras e instalaciones que pudieran derivarse del arrendamiento quedarán de propiedad de la comunidad vecinal al finalizar el plazo pactado, sin compensación alguna para el arrendatario.
+Se modifica por el art. 19 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-19
+
+### Artículo 6
+
+Artículo 6.
+1. Los montes vecinales sólo podrán ser objeto de expropiación forzosa o imponérsele servidumbres por causa de utilidad pública o interés social prevalentes a los de los propios montes vecinales.
+2. El importe de las cantidades abonadas por la expropiación o servidumbre habrá de destinarse a la mejora del monte, al establecimiento de obras o servicios de interés general de la Comunidad de vecinos propietarios, o en su imposibilidad, repartirlo entre los comuneros, de acuerdo con lo que esté previsto en los Estatutos o con lo que decida la Comunidad según las mayorías previstas en el artículo 18.1.
+3. Si como consecuencia de la expropiación quedase todo el monte fuera de la titularidad dominical de la Comunidad, ésta subsistirá para el ejercicio de los derechos a que haya lugar y como titular del eventual derecho de reversión.
+
+### Artículo 7
+
+Artículo 7.
+1. La Comunidad de vecinos propietarios podrá establecer derechos de superficie con destino a instalaciones o edificaciones hasta el plazo máximo de treinta años, o a cultivos agrícolas de diez años, pasando a ella, sin indemnización alguna, al caducar el derecho, la propiedad de todo lo instalado, edificado o plantado. En caso de aprovechamientos forestales de arbolado, la Comunidad no podrá concertar plazos superiores a los correspondientes a un único turno de la especie plantada, ni para otra clase de aprovechamientos que el de la corta del arbolado plantado.
+2. La constitución de este derecho se formalizará en escritura pública, que habrá de inscribirse en el Registro de la Propiedad, será transmisible y susceptible de gravamen, y se regirá por el título constitutivo del derecho, por la presente Ley y, subsidiariamente, por las normas del Derecho Privado.
+3. Si el derecho de superficie afectase sólo a una parte del monte vecinal, habrá de practicarse la correspondiente delimitación a los efectos de inscripción de aquel derecho.
+
+### Artículo 8
+
+Artículo 8.
+No obstante lo dispuesto en el artículo 2, cuando razones de utilidad o interés social de las comunidades de vecinos así lo aconsejen, podrán éstas, dando cuenta al Jurado Provincial de Clasificación permutar terrenos integrantes de los montes vecinales en mano común, por otros terrenos limítrofes que sean de valor similar.
+
+## TÍTULO II
+
+De la clasificación y sus efectos
+
+### Artículo 9
+
+Artículo 9.
+La clasificación como monte vecinal de los terrenos a que se refiere el artículo 1.º se llevará a cabo por los Jurados Provinciales en la forma prevista en esta Ley y su Reglamento.
+
+### Artículo 10
+
+Artículo 10.
+En cada una de las provincias gallegas existirá un Jurado Provincial de Clasificación de Montes Vecinales, con la siguiente composición:
+Presidente: El Delegado de la Consejería de Agricultura.
+Vicepresidente: Un Magistrado de la Audiencia Provincial correspondiente.
+Vocales: Un Letrado de la Asesoría Jurídica de la Xunta de Galicia, un abogado designado por los Colegios Profesionales de la provincia, un Técnico de la Consejería de Agricultura, un representante de las Comunidades de montes de vecinos de la provincia y dos representantes de la Comunidad propietaria en cada caso implicada.
+Secretario: Un funcionario de la Delegación de la Consejería de Agricultura.
+Los representantes de la Consejería de Agricultura se nombrarán reglamentariamente en función del puesto de trabajo que desempeñen.
+Reglamentariamente se determinará todo lo relativo a la organización, régimen de incompatibilidades, excusas, asistencias, dietas, gastos, sanciones, nombramientos y sustituciones de los miembros del Jurado.
+Téngase en cuenta que se declara contrario al orden constitucional y nulo el inciso destacado por Sentencia del TC 127/1999, de 1 de julio. Ref. BOE-T-1999-16569.
+Se declara contrario al orden constitucional y nulo el inciso destacado por Sentencia del TC 127/1999, de 1 de julio. Ref. BOE-T-1999-16569.
+ Se suspende la vigencia y aplicación de este artículo desde el 15 de enero de 1990, por providencia del TC de 29 de enero de 1990 que admite a trámite el recurso de inconstitucionalidad nº 175/1990. Ref. BOE-A-1990-3346.
+
+### Artículo 11
+
+Artículo 11.
+1. Los expedientes de clasificación de montes vecinales se iniciarán de oficio por el Jurado o a instancia de cualquier vecino, de la Consejería de Agricultura, de las Comunidades parroquiales o vecinales afectadas o del Ayuntamiento donde esté comprendido el monte.
+2. Reglamentariamente, se determinará el procedimiento de clasificación, habiendo de ser oídos cuantos resulten interesados en el expediente y debiendo notificárseles en la fase inicial a las personas o entidades que tengan a su favor la inscripción en el Registro de la Propiedad de algún título relativo al monte.
+3. Cuando se inicie un expediente de clasificación, cuya tramitación no podrá exceder de un año a partir de su comienzo, se le dará publicidad oficial y mediante la fijación de edictos en los lugares públicos de costumbre y en los asentamientos de la Comunidad vecinal interesada.
+4. Una vez clasificado el monte se fijará la superficie y lindes del mismo, adjuntando a la resolución planimetría suficiente, con los datos descriptivos precisos, y se procederá a su señalización y deslinde, que llevará a cabo de forma gratuita la Consejería de Agricultura. Asimismo figurará el estado económico de aprovechamiento, usos, concesiones y consorcios.
+5. Al mismo tiempo el Jurado remitirá testimonio de la resolución al Registro de la Propiedad, a los efectos de que se proceda a la anotación preventiva de la clasificación del monte.
+
+### Artículo 12
+
+Artículo 12.
+Las resoluciones del Jurado provincial podrán ser objeto de recurso de reposición ante el propio Jurado, previo a su impugnación en vía contencioso-administrativa, de conformidad con la Ley reguladora de esta Jurisdicción.
+
+### Artículo 13
+
+Artículo 13.
+La resolución firme de clasificación de un terreno como monte vecinal en mano común habrá de contener los requisitos necesarios para su inmatriculación en el Registro de la Propiedad de conformidad con lo dispuesto en la Ley Hipotecaria y su Reglamento, y vendrá acompañada de planimetría suficiente que permita la identificación del monte. Dicha resolución, de acuerdo con el artículo 13 de la Ley 55/1980, una vez firme, producirá los siguientes efectos:
+a) Atribuir la propiedad a la Comunidad vecinal correspondiente, en tanto no exista sentencia firme en contra, dictada por la jurisdicción ordinaria.
+b) Servir de título inmatriculador suficiente para la inscripción del monte en el Registro de la Propiedad y para excluirlo del Catálogo de los de utilidad pública o del inventario de bienes municipales si figurase en ellos, así como para resolver sobre las inscripciones total o parcialmente contradictorias que resulten afectadas.
+Si la certificación para la inmatriculación del monte estuviese en contradicción con algún asiento no cancelado, se procederá en la forma prevista en la legislación hipotecaria.
+c) Estará exento de los Impuestos sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, siendo gratuitos la primera inscripción del monte y las cancelaciones que se produzcan por este motivo, de acuerdo con el artículo 13 de la Ley 55/1988.
+
+## TÍTULO III
+
+De la organización de las Comunidades
+
+### Artículo 14
+
+Artículo 14.
+1. La Asamblea General, de la que forman parte todos los comuneros, es el órgano supremo de expresión de la voluntad de la Comunidad vecinal.
+2. La Asamblea General ordinaria será convocada una vez al año y siempre dentro de los seis meses siguientes a la fecha de cierre del ejercicio económico. Con carácter extraordinario, podrá convocarse Asamblea General a iniciativa de la Junta Rectora o a petición de un mínimo del 20 por 100 de los comuneros.
+3. La Asamblea General quedará válidamente constituida en primera convocatoria cuando estén presentes o representados más de la mitad de los comuneros y en segunda convocatoria cuando estén al menos un 25 por 100 de los mismos. Entre la primera y la segunda convocatoria habrá de transcurrir un mínimo de dos horas.
+4. La convocatoria de Asamblea General se hará con un mínimo de diez días de antelación, mediante notificación escrita a todos los comuneros y con el orden del día de los asuntos a tratar, y estará expuesta durante el mismo plazo en los tablones de anuncios del Ayuntamiento, así como en los lugares de costumbre de la Entidad donde radique la Comunidad.
+5. Para asistir a la Asamblea General, un comunero podrá delegar su representación en otro comunero, sin que ninguno pueda asumir más de una delegación. En todo caso, la delegación habrá de ser expresa para cada Asamblea general.
+
+### Artículo 15
+
+Artículo 15.
+1. La Junta Rectora es el órgano de gobierno, gestión y representación de la Comunidad. Estará compuesta por un Presidente y el número de Vocales que señalen los Estatutos, sin que en ningún caso puedan ser menos de dos. La Junta Rectora será elegida por la Asamblea General por un período máximo de cuatro años.
+El Presidente de la Junta Rectora ostenta la representación legal de la Comunidad.
+2. Cuando el número de comuneros no permita la constitución de la Junta Rectora, con arreglo a lo establecido en el apartado 1, asumirá sus funciones la Asamblea General de la Comunidad de vecinos.
+3. Las Comunidades de vecinos, previo acuerdo de la Asamblea General, podrán mancomunarse para la mejor defensa de sus intereses y consecución de sus objetivos.
+
+### Artículo 16
+
+Artículo 16.
+1. La Comunidad de vecinos propietaria redactará y aprobará los Estatutos que, siendo la norma reguladora de su funcionamiento, habrán de recoger los usos y costumbres por los que se venía rigiendo la Comunidad y las previsiones de esta Ley y contendrán como mínimo los siguientes extremos:
+a) La atribución de la condición de comunero con arreglo a lo dispuesto en el artículo 3.º, 1 de esta Ley.
+b) La representación por casa y la delegación entre comuneros.
+c) Las condiciones de admisión de nuevos comuneros.
+d) La manera de ejercitar los derechos derivados de la condición de comuneros.
+e) Obligaciones de los comuneros en cuanto a custodia, defensa y conservación del monte.
+f) Los órganos a los que se encomienda el gobierno y administración, modo de nombrarlos, sustituirlos y funciones que les corresponden.
+g) Porcentaje de reserva en rendimientos económicos para inversiones en mejoras y protección del monte, de acuerdo con el artículo 23 de la presente Ley.
+h) Criterios a los que se han de adecuar los diversos aprovechamientos del monte.
+2. Los Estatutos y sus modificaciones empezarán a surtir efecto al día siguiente de su aprobación, y se remitirá una copia, a efectos de conocimiento, al Registro General de Montes Vecinales en Mano Común.
+
+### Artículo 17
+
+Artículo 17.
+Cualquier comunero podrá defender los intereses de la Comunidad de montes en mano común, teniendo que serle reintegrados los gastos que le ocasione tal defensa, siempre que prosperen sus pretensiones o sea aprobado por la Asamblea General.
+
+### Artículo 18
+
+Artículo 18.
+1. La aprobación, reforma o revocación de los Estatutos, así como los acuerdos referidos a actos de disposición, corresponden a la Asamblea General, requiriendo la convocatoria expresa y el voto favorable de la mayoría de los presentes que represente al menos el 50 por 100 del censo de comuneros en primera convocatoria y el 30 por 100 en segunda.
+2. Para la aprobación de la gestión y Balance del ejercicio económico, aprovechamientos y actos de administración en general será suficiente la mayoría simple, salvo que en los Estatutos se exija una mayoría.
+
+### Artículo 19
+
+Artículo 19.
+1. En cuanto no se constituyan los órganos de gobierno, o si por cualquier causa no existiesen, ejercerá las facultades que a éstos corresponda una Junta provisional compuesta, como mínimo, por un Presidente y dos Vocales, elegidos de entre los comuneros y por éstos, dando cuenta de su composición al Registro General de Montes Vecinales en Mano Común.
+2. La Junta provisional tendrá la representación de la Comunidad e impulsará la redacción y aprobación de los Estatutos o, en su caso, la elección de los órganos de gobierno. Confeccionará, si no existiese, la lista provisional de vecinos comuneros.
+3. Las Juntas provisionales tendrán un plazo máximo de un año para la redacción del proyecto de Estatutos de la Comunidad.
+4. La Junta provisional se encargará de la gestión y administración del monte vecinal, pudiendo autorizar, por razones de urgencia o interés general, actos de administración de cuantía económica no superior a 1.000.000 de pesetas en total.
+5. El mandato de la Junta provisional finalizará, en todo caso, con la aprobación de los Estatutos, no pudiendo ser superior a un año. Transcurrido éste y persistiendo las circunstancias señaladas en el apartado 1 del presente artículo, se procederá a una nueva elección.
+
+### Artículo 20
+
+Artículo 20. Inexistencia, extinción o desaparición de la comunidad de vecinos.
+1. En situaciones jurídicas de pendencia por inexistencia, extinción o desaparición de la comunidad de vecinos titular del monte y hasta que, en su caso, se reconstituya la comunidad, la defensa de sus intereses y la gestión cautelar del monte corresponderán a la consejería competente en materia de montes, que actuará como titular provisional del aprovechamiento del monte en beneficio de la comunidad y ofrecerá esa titularidad provisional al ayuntamiento donde se encuentre el monte.
+2. En caso de que el monte se encuentre situado en el territorio de más de un ayuntamiento, la consejería competente en materia de montes ofrecerá la gestión cautelar a aquel ayuntamiento en que se sitúe su mayor superficie, y si este ayuntamiento renunciase se la ofrecerá a los restantes en orden según mayor superficie de monte tengan en su ayuntamiento.
+3. Se considera que una comunidad de vecinos se encuentra en situación de pendencia por inexistencia, extinción o desaparición de la comunidad de vecinos cuando concurra algún incumplimiento de las exigencias de organización de las comunidades previstas en el título IV del Decreto 260/1992, de 4 de septiembre, por el que se aprueba el Reglamento de montes vecinales en mano común, o normativa que lo sustituya.
+Corresponde a la persona titular de la consejería competente en materia de montes la competencia para declarar la situación de pendencia por inexistencia, extinción o desaparición de la comunidad de vecinos, a propuesta de la persona titular de la dirección general que tenga las atribuciones en la misma materia, quien tendrá la competencia para la iniciación del procedimiento.
+4. La gestión cautelar se efectuará de acuerdo con el desarrollo reglamentario e implicará, en caso de que sea efectuada por el órgano forestal, la obligación de aprobación de un instrumento de ordenación, y, en caso de que sea efectuada por el ayuntamiento, la suscripción de un contrato de gestión pública con el órgano forestal o bien la elaboración de un instrumento de ordenación o gestión forestal.
+Se modifica por el art. 13.1 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+## TÍTULO IV
+
+De los aprovechamientos
+
+### Artículo 21
+
+Artículo 21.
+1. El aprovechamiento y disfrute de los montes vecinales en mano común corresponde en origen exclusivamente a la Comunidad titular y se hará según las normas recogidas en sus Estatutos, en esta Ley y en las disposiciones que la desarrollen.
+2. (Derogado)
+3. Los aprovechamientos de los montes vecinales en mano común podrán ser objeto de gravamen, pudiendo en este caso dirigirse la ejecución solamente contra los aprovechamientos o las rentas que se pudiesen derivar de su cesión hecha de conformidad con lo dispuesto en la presente Ley.
+Se deroga el apartado 2 por la disposición derogatoria única 1.b) de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 22
+
+Artículo 22.
+1. La Comunidad de vecinos propietaria podrá acordar para usos ganaderos o agrícolas que parte del monte se pueda aprovechar de forma individual mediante la distribución entre los vecinos comuneros de lotes, suertes o parcelas cedidos temporalmente a título oneroso o gratuito y por períodos no superiores a los once años.
+En la asignación de lotes se procurará que comuneros que trabajen conjuntamente bajo la fórmula de explotación comunitaria de la tierra tengan los lotes contiguos.
+2. Cuando la utilización de tal lote, suerte o parcela, por parte del particular, sea destinada a uso distinto o contradictorio del acordado por la Comunidad, dará lugar a la reversión inmediata de tal lote, suerte o parcela a la situación de aprovechamiento colectivo.
+3. Finalizado el período de cesión, la Comunidad de vecinos podrá optar por acometer el aprovechamiento en común o proceder a un nuevo reparto. En este caso, los lotes que se entreguen a los comuneros no pueden coincidir con los que se aprovecharon en el período anterior.
+4. La Comunidad de vecinos propietaria velará porque las parcelas cedidas estén adecuadamente cultivadas, y porque se pueda atender la demanda de lotes por parte de los que adquieran la condición de comuneros una vez hecha la distribución.
+5. En el caso de que el instrumento de ordenación o gestión forestal del monte prevea el aprovechamiento de pastos y la comunidad de vecinos propietaria hubiese acordado la distribución entre los vecinos de parte del monte vecinal para este fin, la asignación de lotes constituirá un derecho para aquellos comuneros que sean titulares de explotaciones agrícolas o ganaderas en el lugar y que precisen base territorial para garantizar la viabilidad de la propia explotación o la sostenibilidad del ganado. En estos casos, se garantizará el derecho de aprovechar los terrenos que precisen en proporción al tamaño de sus explotaciones y a la superficie prevista para la distribución por lotes, sin perjuicio de los nuevos repartos que tenga que efectuar la comunidad vecinal cuando, por circunstancias sobrevenidas, otros comuneros precisen igualmente de base territorial para sus explotaciones y siempre en las condiciones que adopte la comunidad de vecinos propietaria en cada caso para evitar desequilibrios o menoscabos en la viabilidad del monte vecinal.
+Se añade el apartado 5 por el art. 16.1 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+
+### Artículo 23
+
+Artículo 23.
+(Derogado)
+Se deroga por la disposición derogatoria única 1.b) de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+## TÍTULO V
+
+Protección y gestión cautelar
+
+### Artículo 24
+
+Artículo 24.
+La Comunidad titular de un monte vecinal en mano común tomará las medidas necesarias para la gestión, explotación, protección y defensa del mismo. Velará especialmente por la prevención y lucha contra los incendios forestales en coordinación con la Administración Pública.
+
+### Artículo 25
+
+Artículo 25. Competencias de la Comunidad Autónoma.
+La consejería competente en materia de montes dará a los montes vecinales en mano común, junto con otras figuras de gestión conjunta de la propiedad, carácter preferente en sus actuaciones de fomento y mejora del monte, en la prevención y defensa contra los incendios forestales y en la concesión de ayudas económicas para las mismas finalidades sujetas a planes de viabilidad económica y al cumplimiento de instrumentos de ordenación o gestión forestal. Dicha consejería, además de las funciones específicamente señaladas en esta ley, desarrollará las siguientes funciones:
+a) Promover el señalamiento de los lindes entre los montes vecinales.
+b) Procura de su conservación e integridad de los valores naturales del uso vecinal de este tipo de propiedad, vigilando el cumplimiento de la ejecución de los instrumentos de ordenación o gestión que se citan en los artículos 28 y 29 de esta ley.
+c) Impulso y promoción del aprovechamiento del monte.
+d) Asesoramiento técnico a las comunidades vecinales.
+e) Labores de guardería forestal.
+f) Cuidar del cumplimiento de lo dispuesto en esta ley y en la normativa que la desarrolle, aplicando las medidas correctoras y sancionadoras establecidas legalmente.
+g) Suscribir contratos temporales de gestión pública dirigidos a una gestión sostenible del monte.
+h) Defensa y gestión, en los casos en que proceda, en caso de grave abandono o extinción de la comunidad vecinal.
+i) Velar por el cumplimiento y ejecución del instrumento de ordenación o gestión forestal.
+j) Promover la constitución de las comunidades vecinales cuando estas no existan.
+Se modifica por el art. 16.2 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Se modifica por la disposición final 2 de la Ley 7/2012, de 28 de junio. Ref. BOE-A-2012-11414.
+
+### Artículo 26
+
+Artículo 26.
+En la Consejería de Agricultura se creará un Registro General de Montes Vecinales en Mano Común que, en todo caso, será público, con la finalidad de mantener una relación actualizada de los mismos y de su situación estatutaria, así como de los actos de disposición a que se refieren los artículos 5.º, 6.º, 7.º, 8.º y 22 de esta Ley.
+En cada Delegación Provincial existirá una sección con los datos registrados de los montes vecinales de su ámbito.
+Reglamentariamente se desarrollarán las características de este Registro.
+
+### Artículo 27
+
+Artículo 27. Gestión cautelar.
+1. En los casos de inexistencia, extinción o desaparición de la comunidad de vecinos, la dirección general competente en materia de montes comunicará la citada inexistencia, extinción o desaparición al ayuntamiento donde radique el monte, o, si el monte se encuentra situado en el territorio de más de un ayuntamiento, se la comunicará al ayuntamiento en que se sitúe la mayor superficie del monte. En esta comunicación la dirección general ofrecerá su gestión cautelar a dicho ayuntamiento y le concederá un plazo de 3 meses para aceptarla o renunciar a ella. Si el ayuntamiento renuncia a la gestión cautelar o no contesta dentro del plazo concedido, el monte será gestionado cautelarmente por la consejería competente en materia de montes hasta que se reconstituya la comunidad y se cumplan los requisitos para el reinicio de la actividad previstos en el punto 4 de este artículo.
+2. Asimismo, pasarán a ser gestionados por la consejería competente en materia de montes a través del órgano forestal:
+a) Aquellos montes respecto de los cuales la entidad gestora del Banco de Tierras de Galicia informe a la consejería de que no existe iniciativa del sector privado, sea agroganadera o forestal, para efectuar la gestión.
+b) Aquellos montes respecto de los cuales la entidad gestora del Banco de Tierras de Galicia emita un informe técnico en que justifique qué razones de índole técnica, agronómica o forestal limitan o impiden la aptitud de la finca para su arrendamiento en los destinos y actividades previstos en la Ley 11/2021, de 14 de mayo, de recuperación de la tierra agraria de Galicia, de acuerdo con lo previsto en su artículo 50.e).
+3. La consejería competente en materia de montes podrá ejercitar la gestión cautelar prevista en este artículo mediante sus propios órganos o mediante su encargo a entidades instrumentales del sector público autonómico.
+4. Para el ejercicio de la gestión cautelar la consejería competente en materia de montes, mientras no elabore y apruebe el proyecto de ordenación forestal, gestionará el monte de acuerdo con los modelos silvícolas o de gestión forestal que mejor se ajusten a las características del monte. Todos los gastos derivados de la gestión cautelar del monte se incorporarán a la contabilidad del monte.
+5. Para el reinicio de la actividad de la comunidad vecinal extinguida o desaparecida se deberán cumplir los siguientes requisitos:
+a) La presentación de la solicitud por parte de una junta provisional del monte vecinal.
+b) La acreditación de la existencia de una comunidad vecinal formada por comuneros de pleno derecho y elección de una junta provisional conforme a lo dispuesto en esta ley respecto de los órganos de las comunidades vecinales.
+c) El compromiso notarial de la junta provisional de asunción del estado contable del monte, que implicará el reconocimiento y, en su caso, devolución de la deuda existente, y la asunción del instrumento de ordenación o gestión forestal vigente.
+d) En caso de que, como consecuencia de la inexistencia, extinción o desaparición de la comunidad vecinal, el Banco de Tierras de Galicia haya cedido o arrendado con anterioridad el uso y aprovechamiento de los montes a otra persona o entidad beneficiaria, el reinicio de la actividad solicitada por la junta provisional no será posible hasta el final de la cesión o arrendamiento realizado por el Banco de Tierras de Galicia, salvo que exista acuerdo entre las partes.
+Una vez cumplidos los requisitos previstos en este punto 5, la devolución efectiva del monte vecinal a la comunidad quedará condicionada a la constitución de la junta rectora, de conformidad con lo previsto en la normativa de aplicación.
+Se modifica por el art. 13.2 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica por el art. 16.3 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Se modifica por la disposición final 1.1 de la Ley 7/2007, de 21 de mayo. Ref. BOE-A-2007-13826.
+
+### Artículo 28
+
+Artículo 28. Montes vecinales en estado de grave abandono o degradación.
+1. Se entenderá por monte vecinal en estado de grave abandono o degradación aquel que, de modo manifiesto, haya sufrido un grave deterioro ecológico, no sea explotado de acuerdo con sus recursos o sufra una extracción abusiva de ellos.
+2. Corresponde a la persona titular de la consejería competente en materia de montes la competencia para declarar por razones de utilidad pública e interés general el estado de grave abandono o degradación, a propuesta de la persona titular de la dirección general que tenga las atribuciones en la misma materia, quien tendrá asimismo la competencia para iniciar el procedimiento.
+En la elaboración de la propuesta de declaración del estado de grave abandono o degradación del monte se tendrá en cuenta el informe emitido por los servicios técnicos de la consejería respecto de la determinación del estado de grave abandono o degradación de los montes. En dicho informe se considerarán, entre otros aspectos, los siguientes:
+a) El grado de aprovechamiento de la extensión superficial.
+b) El grado de manifiesto desuso.
+c) El grado de acomodación a los aprovechamientos establecidos en instrumentos de ordenación o gestión forestal, en su caso, independientemente de que se refiera a aprovechamientos madereros, de pastos u otros.
+d) El carácter depredador producido sobre el monte.
+e) El peligro manifiesto de degradación de las tierras.
+f) El reiterado incumplimiento de los deberes y obligaciones establecidos en la normativa vigente.
+Una vez emitido el informe y con carácter previo a la elaboración de la propuesta, se dará audiencia a la comunidad vecinal a los efectos previstos en el artículo siguiente.
+3. Durante la tramitación del procedimiento podrán adoptarse medidas provisionales relativas a la limpieza, mantenimiento y gestión de biomasa y, en su caso, retirada de especies arbóreas, en los términos establecidos en la Ley 3/2007, de 9 de abril, de prevención y defensa contra los incendios forestales de Galicia, o norma que la sustituya, así como otras medidas provisionales o cautelares previstas en la normativa de aplicación.
+El coste de estas medidas se repercutirá a la comunidad vecinal o, en su caso, a la administración a la que corresponda la gestión cautelar del monte vecinal.
+4. En el caso de inexistencia, extinción o desaparición de la comunidad de vecinos, no se aplicará lo dispuesto en los puntos anteriores de este artículo, sino las previsiones contempladas en los artículos 20 y 27 de esta ley.
+Se modifica por el art. 13.3 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica por el art. 16.4 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+
+### Artículo 29
+
+Artículo 29. Declaración del monte en estado de grave abandono o degradación.
+El procedimiento para la declaración de un monte vecinal en estado de grave abandono o degradación, iniciado por la dirección general competente en materia de montes de conformidad con lo dispuesto en el artículo anterior, se desarrollará conforme a los siguientes trámites:
+a) Una vez emitido el informe a que se refiere el apartado 2 del artículo 28, la consejería, conjuntamente con el trámite de audiencia, requerirá a la comunidad de vecinos para que presente un instrumento de ordenación o gestión forestal en el que exprese el plazo para su ejecución o bien opte por alguna de las siguientes alternativas:
+1.º Presentación de la documentación acreditativa de haber suscrito un acto de disposición voluntario en favor de terceros de los previstos en el título I de esta ley o en el Decreto 260/1992, de 4 de septiembre, por el que se aprueba el Reglamento de montes vecinales en mano común.
+2.º Solicitud de la incorporación voluntaria del monte al Banco de Tierras de Galicia.
+b) Requerida la comunidad, y en el marco del trámite de audiencia, esta tendrá un plazo de tres meses, prorrogable por otros tres, para atender dicho requerimiento y presentar la documentación correspondiente a los efectos del apartado anterior.
+c) En caso de que la comunidad presente un instrumento de ordenación o gestión forestal y que este sea aprobado por la consejería, se incluirá esta circunstancia de oficio en el Registro de Montes Ordenados y se declarará la finalización del procedimiento, sin perjuicio de las facultades de control del cumplimiento de dicho instrumento.
+De verificarse el incumplimiento de dicho instrumento, se estará a lo dispuesto en el artículo 83 de la Ley 7/2012, de 28 de junio, de montes de Galicia, y, en caso de que subsistan las condiciones para la declaración de grave abandono o degradación, se dictará una resolución sin más trámite, declarando el monte en estado de grave abandono o degradación.
+d) En caso de que la comunidad no haya presentado el instrumento o de que no haya sido aprobado el presentado por no ajustarse a los objetivos previstos para conseguir la gestión y mejora integral del monte y que la comunidad tampoco haya optado por la alternativa de presentación de la documentación acreditativa de haber suscrito un acto de disposición voluntario en favor de terceros prevista en el apartado a).1.º de este artículo, la persona titular de la dirección general competente en materia de montes elevará a la persona titular de su consejería la propuesta para que el monte sea declarado en estado de grave abandono o degradación y se seguirá el procedimiento previsto en el artículo 30 de esta ley.
+e) En caso de que la comunidad haya optado por la alternativa de presentar la documentación acreditativa de haber suscrito un acto de disposición voluntario en favor de terceros prevista en el artículo 29.a)1.º, se declarará la finalización del procedimiento por esta circunstancia.
+f) En caso de que la comunidad haya optado por la alternativa de solicitar la incorporación voluntaria del monte al Banco de Tierras, la persona titular de la dirección general competente en materia de montes elevará a la persona titular de su consejería la propuesta para que el monte sea declarado en estado de grave abandono o degradación y se seguirá el procedimiento previsto en el artículo 30 de esta ley.
+Se modifica por el art. 13.4 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica por el art. 16.5 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+
+### Artículo 30
+
+Artículo 30. Incorporación al Banco de Tierras de Galicia.
+1. Cuando se declare un monte vecinal en estado de grave abandono o degradación, la dirección general competente en materia de montes acordará la remisión de dicha declaración al Banco de Tierras de Galicia, con el fin de que la entidad gestora de este pueda ceder su uso y aprovechamiento en los términos previstos por la Ley 11/2021, de 14 de mayo, de recuperación de la tierra agraria de Galicia, o norma que la sustituya.
+La declaración de monte vecinal en estado de grave abandono o degradación sustituirá la declaración como finca abandonada regulada en la Ley 11/2021, de 14 de mayo, de recuperación de la tierra agraria de Galicia, o norma que la sustituya.
+2. En la cesión del uso y aprovechamiento de los montes vecinales podrá darse prioridad de acceso a la condición de cesionario a las agrupaciones en las que participen personas comuneras del monte vecinal afectado o a otras comunidades de montes vecinales que tengan acreditada la adecuada gestión de sus montes y estén registradas en el Registro de Silvicultores Activos. Podrá complementarse dicha prioridad con los criterios de selección previstos para los polígonos agroforestales de interés público regulados en la Ley 11/2021, de 14 de mayo, de recuperación de la tierra agraria de Galicia. En cualquiera caso, la cesión del uso y aprovechamiento de los montes vecinales en estado de grave abandono o degradación requerirá la previa presentación por la persona solicitante ante la consejería competente en materia de montes de un instrumento de ordenación o gestión forestal para su aprobación. La cesión no podrá formalizarse sin que conste la aprobación de este instrumento.
+3. Formalizada la cesión del uso y aprovechamiento del monte, corresponderá a la comunidad de vecinos la percepción de la contraprestación económica que se prevea en el instrumento de cesión del uso, que será abonada por la persona beneficiaria de la cesión, descontados, en su caso, los gastos de gestión realizados por la entidad gestora del Banco de Tierras de Galicia. De no existir comunidad de vecinos, percibirá la contraprestación la Administración forestal, que la destinará al fondo de mejoras regulado en el artículo 124 de la Ley 7/2012, de 28 de junio, de montes de Galicia.
+4. La cesión del uso y aprovechamiento de los montes vecinales en estado de grave abandono o degradación no podrá superar el plazo de 50 años.
+5. La recuperación, por parte de una comunidad vecinal existente o que reinicie su actividad, de la gestión de un monte vecinal declarado en estado de grave abandono o degradación no podrá tener lugar hasta la finalización del período de cesión, arrendamiento o, en su caso, terminación del contrato temporal de gestión pública que afecte a dicho monte vecinal y se cumplan las condiciones exigidas en la normativa de aplicación, de acuerdo con lo previsto en la disposición final tercera de esta ley.
+Se modifica por el art. 13.5 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica por el art. 16.6 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Se modifica por la disposición final 1.2 de la Ley 7/2007, de 21 de mayo. Ref. BOE-A-2007-13826.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Las resoluciones de los Jurados provinciales tendrán eficacia durante el plazo de un año, a partir de su firmeza, para rectificar las inmatriculaciones contradictorias del Registro de la Propiedad, salvo que éstas se hubiesen practicado en virtud de sentencia dictada en juicio declarativo, de acuerdo con la Ley 55/1980, de 11 de noviembre.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Las comunidades propietarias de montes de vecinos consorciados o con convenios con la Administración, y con independencia de que en ellos sean parte los ayuntamientos o diputaciones provinciales, podrán optar por subrogarse en el consorcio o convenio preexistente, realizar un nuevo convenio o resolver el existente.
+Las deudas de los consorcios realizados por la Administración forestal del Estado serán condonadas por el importe a que ascendía la deuda en el momento de la clasificación del monte como vecinal en mano común.
+Si los consorcios con la Administración continúan en vigor, bien en su forma original o transformados en convenios al amparo de la disposición final tercera de la Ley 55/1980, de 11 de noviembre, y la totalidad o parte de la deuda existente en el momento de la clasificación fuese amortizada, el importe de esta se les devolverá a las comunidades en forma de inversiones que tiene que realizar la Administración en el propio monte.
+Cuando el consorcio o convenio hubiese sido resuelto y liquidado, las comunidades interesadas podrán solicitar la devolución del importe de las amortizaciones realizadas en el momento de la clasificación, que será compensado por la Administración en forma de inversiones materializadas en el propio monte.
+Estas inversiones se realizarán con acuerdo expreso de las comunidades propietarias, en un plazo máximo de cuatro años.
+Se modifica por el art. 16.7 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+(Anulada)
+Se declara contraria al orden constitucional y nula por Sentencia del TC 127/1999, de 1 de julio. Ref. BOE-T-1999-16569.
+ Se mantiene la suspensión de la vigencia y aplicación por auto del TC de 3 de julio de 1990. Ref. BOE-A-1990-16317.
+ Se suspende la vigencia y aplicación de esta disposición desde el 15 de enero de 1990, por providencia del TC de 29 de enero de 1990 que admite a trámite el recurso de inconstitucionalidad nº 175/1990. Ref. BOE-A-1990-3346.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Los derechos atribuidos en esta Ley a la parroquia se entenderán en el marco de lo dispuesto y previsto en los artículos 40.3 y 27.2 del Estatuto de Galicia.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+La Consejería de Agricultura confeccionará, en un plazo de tres años, un inventario general de los montes en mano común en el que consten individualizados los datos que permitan la perfecta identificación de los mismos, tales como situación geográfica, superficie, lindes, estado económico de aprovechamiento, usos, concesiones, convenios, consorcios y arrendamientos establecidos sobre los mismos.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Concluido el inventario a que hace referencia la disposición adicional quinta, la Consejería de Agricultura, partiendo de las demandas de las Comunidades propietarias, elaborará un plan de aprovechamiento de montes vecinales en mano común, que tendrá como objetivo el mejor uso de estas tierras atendiendo a su vocación productiva y a las necesidades de las Comunidades.
+Este plan, que será debatido en el Parlamento gallego, contará con las previsiones correspondientes de financiación y promoción de aprovechamientos.
+La Junta de Galicia impulsará y promoverá el aprovechamiento cooperativo, o comunitario, de aquellos montes que por sus circunstancias puedan ser susceptibles de aprovechamiento industrial.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Plazo para la realización de asambleas generales y prórroga del mandato de las juntas rectoras.
+1. Las asambleas generales de las comunidades de montes vecinales en mano común, en lo que respecta a las obligaciones previstas en la Ley 13/1989, de 10 de octubre, de montes vecinales en mano común, en cuanto a su funcionamiento y gobernanza, podrán, en función de la evolución de la situación de emergencia sanitaria causada por la COVID-19, aplazar la renovación de juntas rectoras, la actualización del censo de comuneros y del libro de contabilidad y la celebración anual de asambleas generales y, por tanto, la aprobación de actos de disposición y otras obligaciones normativamente previstas, como la comunicación anual de reinversiones.
+2. Respecto del mandato de las juntas rectoras de las comunidades de montes afectadas en lo relativo a su renovación por la emergencia sanitaria existente, y cuya vigencia se haya visto afectada por las medidas excepcionales adoptadas desde el 14 de marzo de 2020, se entenderá prorrogado hasta el 31 de diciembre de 2021, sin perjuicio de que puedan ser renovados o separados en cualquier momento anterior por el órgano competente.
+Las juntas rectoras podrán tomar las decisiones que resulten indispensables y necesarias para la buena gobernanza y gestión del monte vecinal en mano común. Una vez finalizado este período excepcional deberán informar extensamente a los comuneros de la totalidad de los acuerdos adoptados y de los motivos que justificaron su adopción, y, asimismo, deben ser expresamente refrendados en la primera asamblea general que tenga lugar, en cuanto la situación sanitaria lo permita.
+Las modificaciones previstas en esta disposición serán aplicables directamente a las comunidades de montes en mano común con independencia de lo que dispongan sus estatutos. No obstante, cuando se pretenda modificar los estatutos vigentes, estos deberán adaptarse íntegramente a lo dispuesto en esta ley.
+Se añade por el art. 17 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Al entrar en vigor esta Ley los Jurados provinciales de los montes vecinales en mano común se configurarán de acuerdo con lo dispuesto en esta Ley sin perjuicio de que aquellos expedientes en trámite sean resueltos de conformidad con la legislación existente en el momento de haberlos comenzado.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Los Estatutos aprobados y las Juntas de Comunidad constituidas de conformidad con la legislación anterior se adaptarán a lo dispuesto en la presente Ley en el plazo de un año desde la entrada en vigor de la presente Ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Las actuaciones para la declaración de un monte vecinal en estado de grave abandono o degradación no se podrán iniciar antes de que haya transcurrido un año desde la entrada en vigor de la presente Ley para los montes ya clasificados o desde la clasificación cuando ésta sea posterior a la misma.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+El Ministerio Fiscal defenderá las Comunidades de vecinos de montes en mano común, cuando éstas se vean afectadas en la propiedad de la que son titulares, al amparo de la Ley 55/1980, de 11 de noviembre.
+
+### Disposición final primera
+
+Disposición final primera.
+La Junta de Galicia aprobará el Reglamento de la presente Ley en el plazo de seis meses, computados desde el día de entrada en vigor de la misma.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley, juntamente con la costumbre, constituyen el derecho propio de Galicia en materia de montes vecinales en mano común, que de conformidad con lo dispuesto en el artículo 38.1 del Estatuto de Autonomía será de aplicación, en su ámbito territorial, con preferencia a cualquier otro.
+
+### Disposición final tercera
+
+Disposición final tercera. Habilitación para el desarrollo normativo.
+Se faculta a la persona titular de la consejería competente en materia de montes para concretar mediante orden los extremos determinantes del estado de grave abandono o degradación de los montes regulados en el artículo 28.2 de esta ley, así como para concretar las condiciones de recuperación reguladas en el artículo 30.5 de esta ley.
+Se añade por el art. 13.6 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+Santiago de Compostela, 10 de octubre de 1989.
+FERNANDO IGNACIO GONZÁLEZ LAXE,
+Presidente

@@ -1,0 +1,210 @@
+# Ley 25/2002, de 25 de noviembre, de Medidas de apoyo al regreso de los catalanes emigrados y sus descendientes, y de segunda modificación de la Ley 18/1996.
+
+- Identificador BOE: `BOE-A-2002-25141`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2002-25141
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de autonomía de Cataluña, promulgo la siguiente Ley 25/2002, de 25 de noviembre, de Medidas de apoyo al regreso de los catalanes emigrados y sus descendientes, y de segunda modificación de la Ley 18/1996.
+PREÁMBULO
+A lo largo de la segunda mitad del s. XIX y primera del XX la emigración catalana al exterior fue bastante importante. Es difícil determinar el número de ciudadanos de los Países Catalanes que emigraron a otros países, ya que las estadísticas oficiales no ofrecen datos anuales continuados del movimiento migratorio hasta 1882, ni tampoco se dispone de datos cruzados sobre las zonas de origen de los emigrantes y los países de destino. Por otro lado, hace falta añadir que hasta los años cincuenta sólo se contabilizaban datos sobre la emigración transoceánica.
+Las causas de este fenómeno son varias y, a grandes rasgos, pueden clasificarse en causas de tipo económico y de tipo social. En lo que concierne a las causas económicas, el inicio de la transición demográfica y el importante aumento de población que ésta produjo provocaron que un país basado en la actividad agraria como era Cataluña en aquel momento no pudiera asumir todo este crecimiento demográfico. Por otro lado, el gran éxodo de población rural que se dirigía a las ciudades no podía ser absorbido, ya que el proceso de industrialización se encontraba todavía en sus inicios.
+Es por ello que los emigrantes procedentes de los Países Catalanes eran, mayoritariamente, jornaleros y pequeños agricultores que buscaban en la emigración una mejora de su situación sociolaboral.
+En lo que concierne a las causas de tipo social, se concretan, básicamente, en la cadena migratoria generada por la acción de emigrantes establecidos en el extranjero, que hacían saber las buenas condiciones de vida que tenían desde que habían decidido emigrar, la acción de los agentes reclutadores enviados por países extranjeros con el fin de captar mano de obra y, finalmente, la evasión del servicio militar. En aquellos momentos, los países latinoamericanos que más inmigración catalana recibieron fueron Argentina y Cuba y, más adelante, Venezuela, Brasil y Uruguay. A partir de 1930 esta situación cambió, ya que se paralizó la emigración a estos países a causa del endurecimiento de la política de inmigración en los países latinoamericanos como consecuencia del crack de 1929 y del futuro desarrollo de la Segunda Guerra Mundial.
+Ya en el segundo tercio del s. XX hay que destacar la aparición de un nuevo tipo de emigrante provocado por la Guerra Civil y la posterior dictadura franquista: el refugiado político.
+En este sentido, sólo en 1939 el total de exiliados en todo el Estado español era de 140.000, de los cuales más de un tercio eran catalanes.
+El destino de estos refugiados fue principalmente Francia —aunque disminuyó a raíz de la Segunda Guerra Mundial— y, como ya había sido tradicional en la emigración catalana anterior, América Latina.
+Durante el período franquista la emigración se produce tanto del campo a la ciudad como al extranjero, sobre todo a países europeos, lo cual permite una importante fuente de entrada de divisas. Este proceso se detuvo en 1973 con la crisis del petróleo.
+Con el tiempo, buena parte de los emigrantes catalanes que en su momento tuvieron que abandonar Cataluña fueron regresando. Sin embargo, muchos de ellos decidieron establecerse definitivamente en el país que los había acogido y formaron familia y una nueva vida.
+En los últimos años, dadas las condiciones de pobreza endémica y desigualdad que existe en algunos países, especialmente de América Latina, buena parte de catalanes y sus descendientes se plantean regresar a Cataluña ante las condiciones desfavorables que viven en sus países.
+En este sentido, el Gobierno de Cataluña tiene una deuda histórica tanto con los catalanes que tuvieron que abandonar nuestro país por varios motivos como con sus descendientes. Por ello hace falta articular una serie de medidas con el fin de facilitar su regreso e integración sociolaboral en Cataluña. Lo que debe entenderse sin perjuicio de otras medidas y ayudas adoptadas por la Administración del Estado favorables, igualmente, al regreso e integración sociolaboral de estos ciudadanos.
+En la presente Ley se utiliza el término catalanes en el sentido establecido por el Estatuto de autonomía.
+
+## CAPÍTULO I
+
+Disposiciones directivas
+
+### Artículo 1
+
+Artículo 1. Principios y objeto.
+La presente Ley, basándose en los principios de igualdad, solidaridad, justicia social y subsidiariedad, regula las actuaciones de apoyo a los catalanes y sus descendientes que deciden regresar a Cataluña para ejercer su actividad profesional o laboral y establecer su residencia.
+
+### Artículo 2
+
+Artículo 2. Finalidad.
+1. La finalidad de la presente Ley es apoyar a los emigrantes catalanes y sus descendientes que quieran regresar a Cataluña y que se hallen en situación de necesidad o desprotección, para atender sus necesidades básicas y favorecer su integración social y laboral.
+2. La presente ley establece, para lograr su objetivo, una prestación económica consistente en una subvención de pago único y un conjunto de actuaciones de información y orientación en diversos ámbitos, como el de los servicios sociales, el laboral, el de la formación o el de la vivienda.
+Se modifica el apartado 2 por el art. 100 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547#a1-12.
+
+### Artículo 3
+
+Artículo 3. Condición de regresado o regresada.
+1. A efectos de lo establecido por la presente ley, tienen la condición de personas regresadas y, por lo tanto, el derecho a acogerse a las actuaciones que establece el Plan de ayuda al regreso las personas que se indican a continuación, siempre que cumplan las condiciones del artículo 6:
+a) Las personas con nacionalidad española que regresan de un estado extranjero y que, antes de emigrar, hayan tenido la última vecindad administrativa en Cataluña.
+b) Las personas nacidas en Cataluña que fueron evacuadas o que tuvieron que exiliarse por razones políticas y que mantienen su residencia en el extranjero.
+c) Los cónyuges o las personas que, de acuerdo con la legislación catalana, tengan la condición de pareja estable de las personas a las que se refieren los apartados a y b, y los descendientes de estas hasta el segundo grado de consanguinidad.
+2. Las solicitudes de una misma unidad familiar o núcleo de convivencia se tramitan en un único expediente administrativo.
+Se modifica por el art. 101 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547#a1-13.
+
+### Artículo 4
+
+Artículo 4. Adquisición y pérdida de la condición de regresado o regresada.
+1. La condición de regresado o regresada debe solicitarse durante los seis meses siguientes al regreso a Cataluña.
+2. A los efectos de lo establecido por la presente ley, se entiende que la condición de regresado o regresada se pierde al cabo de dos años de la fecha del regreso definitivo a Cataluña.
+Se modifica por el art. 102 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547#a1-14.
+
+### Artículo 5
+
+Artículo 5. Personas destinatarias.
+(Derogado).
+Se deroga por el art. 103 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547#a1-15.
+
+## CAPÍTULO II
+
+Requisitos y obligaciones de las personas destinatarias
+
+### Artículo 6
+
+Artículo 6. Requisitos.
+1. Las personas a las que se refiere el artículo 3 deben cumplir las siguientes condiciones:
+a) Tener más de dieciocho años.
+b) Haber residido en un estado extranjero, como mínimo, seis años continuados inmediatamente anteriores al regreso a Cataluña; o haber residido en un estado extranjero diez años no continuados, y de estos, los cuatro últimos inmediatamente anteriores al regreso a Cataluña.
+c) Estar empadronadas en cualquier municipio de Cataluña.
+2. Las personas que son beneficiarias de cualquier otra ayuda económica pública derivada de su condición de regresadas no tienen derecho a acogerse, por los mismos conceptos, a ninguna otra ayuda al regreso.
+Se modifica por el art. 104 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547#a1-16.
+
+### Artículo 7
+
+Artículo 7. Obligaciones de las personas destinatarias.
+Las personas destinatarias del Plan de ayuda al regreso están obligadas a comunicar a la entidad gestora que corresponda, en el plazo de un mes, los cambios de situación personal o patrimonial que, de acuerdo con la presente Ley, pueden modificar, suspender o extinguir algunas de las prestaciones.
+
+## CAPÍTULO III
+
+Actuaciones y prestaciones
+
+### Artículo 8
+
+Artículo 8. Actuaciones.
+Las ayudas para la integración de las personas regresadas que sufran una situación de desprotección por razones de tipo socioeconómico se recogen en el Plan de ayuda al regreso, que consiste en la información y orientación sobre algunas o todas las actuaciones siguientes:
+a) Los servicios y las prestaciones públicos que faciliten la integración a Cataluña.
+b) La prestación económica de pago único en los términos y condiciones establecidos por el artículo 9.
+c) La formación ocupacional.
+d) La inserción laboral, mediante el Servicio de Ocupación de Cataluña, y el acceso a planes de ocupación.
+e) El trabajo por cuenta propia y el autoempleo mediante cooperativas y sociedades laborales en Cataluña.
+f) Las acciones formativas establecidas por la Ley 10/2010, de 7 de mayo, de acogida de las personas inmigradas y de las regresadas a Cataluña.
+g) La vivienda social.
+h) La renta mínima de inserción.
+i) La obtención de la nacionalidad española.
+j) La homologación y convalidación tanto de títulos y estudios oficiales como del permiso de conducir.
+k) Las demás actuaciones que se consideren pertinentes.
+Se modifica por el art. 105 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547#a1-17.
+
+### Artículo 9
+
+Artículo 9. Prestación económica.
+1. Las personas que tienen la condición de regresadas, de acuerdo con lo establecido por los artículos 3 y 6, y que acrediten una situación de necesidad económica de acuerdo con lo establecido por el apartado 2, tienen derecho a una prestación económica consistente en una ayuda de carácter universal y de pago único.
+2. Al efecto de acreditar la situación de necesidad económica, se entiende que hay falta de recursos cuando los ingresos personales de los doce meses anteriores a la solicitud sean inferiores al indicador de renta de suficiencia vigente en Cataluña. Esta cuantía se incrementa en un 30% por cada miembro de la unidad familiar o de la unidad de convivencia que no tenga patrimonio ni ingresos.
+3. El importe de la prestación equivale al 12% del indicador de renta de suficiencia fijado anualmente por la Ley de presupuestos de la Generalidad.
+4. La prestación económica establecida por la presente ley no es transmisible y no puede ser embargada, ni retenida, ni dada en garantía de obligación alguna.
+Se modifica el apartado 1 por el art. 52 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+ Se modifica por el art. 106 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547#a1-18
+
+## CAPÍTULO IV
+
+Gestión y organización administrativa
+
+### Artículo 10
+
+Artículo 10. Agencia de Migraciones de Cataluña.
+1. La Dirección General de Prestaciones Sociales debe gestionar las actuaciones que establece esta ley y coordinar las que la Administración de la Generalidad debe llevar a cabo en aplicación de lo que determina el Plan de ayuda al retorno.
+2. Las funciones de la Agencia de Migraciones de Cataluña son:
+a) Verificar formalmente las solicitudes de otorgamiento y la documentación que las acompaña.
+b) Elaborar periódicamente un informe de evaluación sobre el funcionamiento del Plan de ayuda al regreso con el fin de valorar su desarrollo y los resultados de la aplicación.
+d) Coordinar las distintas oficinas de organismos públicos catalanes situadas en el extranjero a fin de dar a conocer la presente Ley al mayor número posible de catalanes emigrados y utilizar esta red para facilitar la realización de trámites desde el extranjero.
+e) Las demás establecidas por vía reglamentaria.
+3. La Agencia de Migraciones de Cataluña debe utilizar en su gestión las nuevas tecnologías de la comunicación a fin de facilitar la publicidad de las distintas actuaciones establecidas por la presente Ley y la realización de trámites administrativos mediante estas nuevas tecnologías.
+4. El Gobierno ha de compartir información sobre el desarrollo del Plan de ayuda al regreso con otras comunidades autónomas que dispongan del mismo y con el Gobierno del Estado en uso de sus competencias.
+Se modifica el apartado 1 por la disposicion final 1.3 del Decreto-ley 25/2020, de 16 de junio. Ref. BOE-A-2020-8754#df
+ Se modifica por la disposición adicional 4 de la Ley 10/2010, de 7 de mayo. Ref. BOE-A-2010-9107#dacuaa.
+
+### Artículo 11
+
+Artículo 11. Consejo Asesor del Plan de Ayuda al Regreso.
+1. Se crea el Consejo Asesor del Plan de Ayuda al Regreso, en el cual deben estar representados los distintos departamentos de la Generalidad implicados en la aplicación del Plan, así como las administraciones locales, las entidades de iniciativa social y las organizaciones sindicales y empresariales.
+2. Las funciones del Consejo Asesor del Plan de Ayuda al Regreso son:
+a) Valorar los resultados de la aplicación del Plan de ayuda al regreso y el desarrollo de otras actuaciones relacionadas.
+b) Emitir informes sobre las consultas que le formule el Gobierno.
+c) Las demás establecidas por reglamento.
+
+### Artículo 12
+
+Artículo 12. Aprobación del plan de ayuda al regreso.
+1. La Oficina de Gestión Unificada del Plan de Ayuda al Regreso, de acuerdo con las solicitudes recibidas, debe proponer a las direcciones generales implicadas en el desarrollo del Plan de ayuda al regreso una propuesta de resolución a fin de que resuelvan la aprobación, denegación, modificación o suspensión de las prestaciones establecidas por dicho Plan.
+2. Las personas solicitantes y las beneficiarias pueden interponer recurso contra la resolución ante el órgano competente que corresponda de acuerdo con el procedimiento administrativo.
+
+### Artículo 13
+
+Artículo 13. Confidencialidad de los datos.
+Todas las personas y todos los organismos que intervengan en cualquier actuación referente al Plan de ayuda al regreso están obligados a velar para que se mantenga la reserva sobre los datos confidenciales e identidad de las personas destinatarias, a fin de salvaguardar su derecho a la intimidad, de acuerdo con lo dispuesto por la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de datos de carácter personal.
+
+### Artículo 14
+
+Artículo 14. Coordinación con las oficinas de organismos públicos catalanes en el exterior y los casales catalanes.
+Las distintas oficinas de organismos públicos catalanes en el exterior y los casales catalanes reconocidos e inscritos en el Registro de Casales creado por el artículo 8 de la Ley 18/1996, deben coordinarse con la Oficina de Gestión Unificada del Plan de Ayuda al Regreso, deben cumplir las funciones de punto de información para dar a conocer la presente Ley y deben servir para realizar los primeros trámites desde el extranjero.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Modificación de la Ley 18/1996.
+Se modifica el artículo 4.a) de la Ley 18/1996, que queda redactado del siguiente modo:
+«a) Las personas residentes fuera del territorio de Cataluña, sus cónyuges y descendientes, a los que se refiere el artículo 6 del Estatuto de autonomía de Cataluña, así como las personas que son miembros de una unión estable de pareja con personas residentes fuera del territorio de Cataluña.»
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Renta mínima de inserción.
+(Derogada).
+Se deroga por el art. 107 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547#a1-19.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Acceso a las convocatorias de vivienda social.
+(Derogada).
+Se deroga por el art. 107 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547#a1-19.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Reserva de puestos de trabajo.
+El Gobierno ha de reservar un 5 por 100 de los puestos de trabajo enmarcados en las ayudas destinadas a la contratación de trabajadores desocupados para ejecutar obras y servicios de interés general y social, para la subvención de los costes salariales de los trabajadores que lo deseen y que cumplan los requisitos fijados por la presente Ley para acogerse al Plan de ayuda al regreso o bien que ya disfruten de la condición de regresado o regresada.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Contratación en origen.
+El Gobierno, mediante la red de intermediación y selección laboral en origen (XILA), en colaboración con los casales catalanes del exterior, ha de facilitar la contratación en origen de las personas que lo deseen y que cumplan los requisitos fijados por la presente Ley para acogerse al Plan de ayuda al regreso o bien que ya disfruten de la condición de regresadas.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Entidades representativas de las personas regresadas.
+Se faculta al Gobierno para canalizar, dentro del Plan de ayuda al regreso, las políticas que se consideren oportunas mediante las entidades representativas en Cataluña de las personas regresadas o de las asociaciones de inmigrantes de países en los que residen contingentes importantes de descendientes de catalanes.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo y aplicación.
+Se faculta al Gobierno para dictar, en el plazo de seis meses desde la entrada en vigor de la presente Ley, las normas necesarias para su desarrollo y aplicación.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor de las obligaciones.
+La entrada en vigor de la presente Ley no implica aumento de créditos ni generación de gastos con cargo en el presupuesto vigente. Las obligaciones derivadas de la presente Ley, si procede, entrarán en vigor a partir del próximo ejercicio presupuestario.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 25 de noviembre de 2002.
+JORDI PUJOL,
+Presidente
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta las referencias hechas a determinados órganos y cargos administrativos, según establece la disposición final 1 del Decreto-ley 25/2020, de 16 de junio. Ref. BOE-A-2020-8754#df

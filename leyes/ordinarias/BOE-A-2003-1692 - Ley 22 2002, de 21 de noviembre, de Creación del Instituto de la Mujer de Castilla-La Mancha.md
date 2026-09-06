@@ -1,0 +1,219 @@
+# Ley 22/2002, de 21 de noviembre, de Creación del Instituto de la Mujer de Castilla-La Mancha.
+
+- Identificador BOE: `BOE-A-2003-1692`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-1692
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Las Cortes de Castilla-La Mancha han aprobado y yo, en nombre del Rey, promulgo la siguiente Ley
+EXPOSICIÓN DE MOTIVOS
+La Constitución Española establece en su artículo 14 el principio de igualdad y no discriminación por razón de sexo.
+El Estatuto de Autonomía de Castilla-La Mancha en su artículo 4, apartado dos, establece que corresponde a los poderes públicos regionales promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integran sean reales y efectivas, remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social de la Región. Y en el apartado tres, determina que la Junta de Comunidades propiciará la efectiva igualdad del hombre y de la mujer, promoviendo la plena incorporación de ésta a la vida social, superando cualquier discriminación laboral, cultural, económica o política. A su vez el artículo 31, apartado 1, párrafo primero reconoce la competencia exclusiva de la Administración Autonómica para la organización, régimen y funcionamiento de sus Instituciones de Autogobierno.
+A pesar de todos los avances hacia la igualdad que han conseguido las mujeres de Castilla-La Mancha en los últimos años, quedan todavía factores y situaciones de discriminación que las Instituciones han de contribuir a superar.
+Con la finalidad de promocionar y fomentar las condiciones que posibiliten la igualdad entre mujer y hombre en todos los ámbitos de la vida, se crea el Instituto de la Mujer de Castilla-La Mancha, concebido como un Organismo Autónomo con personalidad jurídica propia, que persigue fundamentalmente:
+Erradicar la violencia familiar que sufren todavía muchas mujeres en Castilla-La Mancha, y que, en algunos casos, ha producido muertes a manos de los maridos o compañeros, cuidando del exacto cumplimiento de las medidas que recoge la Ley 5/2001, de 17 de mayo de 2001, de prevención de malos tratos y de protección a las mujeres maltratadas.
+Coordinar con las Consejerías las actuaciones transversales que hagan más efectivas las políticas del Gobierno en la consecución de los derechos de las mujeres y la igualdad de oportunidades de éstas en todos los ámbitos de la vida.
+Fomentar medidas específicas de empleo que faciliten el acceso de las mujeres al mercado laboral y reduzcan el nivel de desempleo que padecen las mujeres, que es el doble que el de los hombres.
+Favorecer la integración laboral de las mujeres en condiciones de igualdad con los hombres, eliminando la desigualdad salarial y acabar con la discriminación de los convenios colectivos que, con demasiada frecuencia, contienen cláusulas discriminatorias para las mujeres en la clasificación de las categorías laborales.
+Acabar con la cultura tradicional, eminentemente sexista, que impide a las mujeres ocupar espacios de decisión en el ámbito económico y laboral, y con la precariedad de las condiciones de trabajo que sigue afectando mayoritariamente a las mujeres.
+Adoptar medidas que favorezcan la conciliación de la vida familiar y laboral, que permitan a las mujeres su participación como ciudadanas con plenos derechos.
+Impulsar leyes que favorezcan la democracia paritaria. La democracia real, exige la paridad. Hasta hace muy poco tiempo, los hombres han sido los representantes de las mujeres en todos los órganos de decisión. Para que la representatividad sea fiel reflejo de la sociedad es necesario incrementar la participación de las mujeres en todos los cargos de representación.
+Erradicar la pobreza y la marginación que sufren las mujeres. Los estudios demuestran que la mayoría de las que viven solas con hijos e hijas a su cargo se hallan, mayoritariamente, en los niveles severos de la pobreza. La situación de necesidad que sufren las mujeres separadas o divorciadas que no reciben la pensión de su cónyuge establecida judicialmente, es otro de los factores de empobrecimiento.
+Propiciar el acceso de las mujeres a los estudios superiores tradicionalmente realizados por hombres. Aún cuando las mujeres son el 52 por 100 aproximado de la población universitaria, este tipo de estudios siguen siendo un espacio ajeno a las mujeres.
+Promocionar medidas sanitarias específicas para las mujeres.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Creación y naturaleza jurídica.
+1. Se crea el Instituto de la Mujer de Castilla-La Mancha como Organismo Autónomo adscrito a la Presidencia de la Junta de Comunidades de Castilla-La Mancha.
+2. El Instituto de la Mujer de Castilla-La Mancha estará dotado de personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines.
+3. El Instituto de la Mujer de Castilla-La Mancha prestará apoyo técnico en materia de igualdad de oportunidades entre hombres y mujeres a todos los departamentos de la Junta de Comunidades de Castilla-La Mancha.
+4. El Instituto de la Mujer de Castilla-La Mancha se regirá por la presente Ley, las normas que la desarrollen y la legislación general sobre entidades autónomas que sea de aplicación.
+Se modifica el apartado 1 por el art. 1.1 de la Ley 11/2019, de 20 de diciembre. Ref. BOE-A-2020-1997
+
+### Artículo 2
+
+Artículo 2. Fines.
+El Instituto de la Mujer de Castilla-La Mancha tendrá como fines esenciales:
+a) Conseguir la igualdad real y efectiva de la mujer y el hombre en todos los ámbitos de la vida.
+b) Prevenir la violencia contra las mujeres así como proteger y asistir a las víctimas y, en especial, velar por el cumplimiento de la Ley 5/2001, de 17 de mayo, de Prevención de Malos Tratos y Protección a las Mujeres Maltratadas.
+c) Establecer medidas concretas que favorezcan la participación y la presencia de la mujer en todos los ámbitos de la vida social, económica, cultural y política de Castilla-La Mancha.
+d) Eliminar cualquier forma de discriminación de la mujer en Castilla-La Mancha.
+e) Promocionar profesionalmente a la mujer castellano manchega.
+f) Actuaciones concretas para la mujer en el medio rural.
+g) Fomentar el asociacionismo entre las mujeres de la Región.
+
+### Artículo 3
+
+Artículo 3. Funciones.
+Para el cumplimiento de sus fines el Instituto de la Mujer de Castilla-La Mancha desarrollará las siguientes funciones:
+1. Promover el desarrollo de programas integrales del Gobierno de la Comunidad Autónoma, impulsando medidas y servicios que contribuyan a eliminar la discriminación de la mujer.
+2. Fomentar medidas de sensibilización contra la violencia hacia las mujeres y el cambio de valores a través de la educación, garantizando la seguridad, recuperación y protección de las víctimas.
+3. Impulsar medidas encaminadas a posibilitar el acceso de las mujeres al empleo, eliminar las discriminaciones por razón de sexo en el ámbito laboral, favorecer la formación continua tanto de desempleadas como de mujeres ocupadas y promover la iniciativa empresarial entre las mujeres.
+4. Recibir y canalizar en vía administrativa las denuncias formuladas de casos concretos de discriminación de hecho o de derecho por razón de sexo.
+5. Promover la ejecución de proyectos que incidan en una educación no sexista.
+6. Impulsar propuestas específicas de actuación en relación con la salud de las mujeres.
+7. Impulsar programas y actuaciones que contribuyan a incrementar la participación de las mujeres en la actividad económica, cultural, política y social.
+8. Realizar el seguimiento de la legislación y su aplicación, así como, en su caso, proponer a los órganos competentes reformas legislativas dirigidas a eliminar las trabas que impidan o dificulten la igualdad real y efectiva entre ambos sexos.
+9. Realizar, fomentar y divulgar cada tres años un informe sobre la situación de la mujer y su evolución en Castilla-La Mancha, orientados a la elaboración de las políticas de igualdad y a la sensibilización de la población hacia la problemática de la mujer.
+10. Establecer relaciones de colaboración con las instituciones de análoga naturaleza de otras Comunidades Autónomas, del Estado y de la Comunidad Internacional.
+11. Establecer relaciones y cauces de participación con Organizaciones y Asociaciones de Mujeres, Fundaciones y otros Entes y Organismos que por razón de sus fines contribuyan a la consecución de los objetivos del Instituto de la Mujer de Castilla-La Mancha.
+12. Favorecer el desarrollo de medidas dirigidas al fomento de un reparto más equilibrado de las responsabilidades, públicas y privadas, entre mujeres y hombres.
+13. Fomentar la prestación de servicios a favor de la mujer y en particular los dirigidos a aquéllas que tengan especial necesidad de ayuda.
+14. Emitir informes y dictámenes en el curso del procedimiento de elaboración de las disposiciones generales del Consejo de Gobierno que afecten a la mujer y dar conocimiento de ellos al Consejo Regional de la Mujer.
+15. Promover la coordinación y prestar asesoramiento y colaboración a los distintos departamentos del Gobierno de Castilla-La Mancha y a las Entidades Locales para lograr los fines propuestos.
+16. Velar por el cumplimiento de los convenios y acuerdos internacionales en todo lo que afecte a la promoción de la mujer y favorecer la participación de la mujer castellano-manchega en foros internacionales donde se traslade su problemática.
+17. Realizar campañas de sensibilización, promoción y difusión, para informar a los ciudadanos sobre los problemas de la mujer.
+18. Proponer a las Administraciones Públicas, en el ámbito de sus competencias, la adopción de programas de acción positiva para la mujer, así como la revisión y la coordinación de los que ya existieran, con el fin de superar la desigualdad.
+19. Suscribir con las asociaciones de los medios de comunicación un protocolo de actuación para el tratamiento de la igualdad de género en los medios de comunicación y de la imagen de la mujer en la publicidad.
+20. Cualquier otra función que relacionada con sus fines se le pudiese encomendar por el Consejo de Gobierno de Castilla-La Mancha.
+21. Impulsar las actuaciones ejecutivas de la Ley de Igualdad entre Mujeres y Hombres de Castilla-La Mancha, elaborar planes estratégicos de igualdad, coordinar las unidades de género y evaluar la eficacia de las medidas adoptadas por la citada Ley.
+22. Elaborar cada tres años el informe sobre la aplicación de la Ley de Igualdad entre mujeres y hombres de Castilla-La Mancha.
+23. Dirigir el Centro de Estudios e Investigación de Igualdad de Género.
+24. Prestar asistencia independiente a las víctimas de discriminación para tramitar sus reclamaciones por discriminación por razón de sexo.
+25. Realizar y publicar informes independientes, así como formular recomendaciones sobre cualquier cuestión relacionada con la discriminación por razón de sexo.
+26. Asesorar e informar a la autoridad laboral, de acuerdo con lo previsto en el artículo 90.6 del Estatuto de los Trabajadores.
+27. Cualquier otra que le otorguen las leyes que sobre la igualdad de género sean promulgadas por el Estado y la Comunidad Autónoma.
+Se añaden los apartados 21 a 27 por la disposición final 1.1 de la Ley 12/2010, de 18 de noviembre. Ref. BOE-A-2011-2708#df
+
+## CAPÍTULO II
+
+Órganos rectores
+
+### Artículo 4
+
+Artículo 4. Órganos rectores y periféricos del lnstituto de la Mujer de Castilla-La Mancha.
+1. Los órganos rectores del Instituto de la Mujer de Castilla-La Mancha son:
+a) El Consejo de Dirección.
+b) La Dirección.
+2. El Instituto contará con servicios en cada provincia, cuya estructura, denominación y funciones se determinará por Decreto del Consejo de Gobierno.
+Se modifica por el art. 5.1 de la Ley 3/2016, de 5 de mayo. Ref. BOE-A-2016-6725
+ Se modifica por el art. único.1 de la Ley 5/2008, de 12 de junio. Ref. BOE-A-2008-13687
+
+### Artículo 5
+
+Artículo 5. Consejo de Dirección.
+1. El Consejo de Dirección es el órgano superior de planificación y de programación del Instituto de la Mujer de Castilla-La Mancha.
+2. El Consejo de Dirección se compone de:
+a) Presidencia: la persona titular de la Presidencia de la Junta de Comunidades de Castilla-La Mancha.
+b) Vicepresidencias: la Vicepresidencia primera la ostentará la persona titular de la consejería con competencias en materia de igualdad entre mujeres y hombres. La Vicepresidencia segunda la ostentará la persona titular del Instituto de la Mujer de Castilla-La Mancha.
+c) Vocales:
+Una persona con rango, al menos, de Director/a General de cada una de las Consejerías que integran la Administración Regional, designada por las personas titulares de las mismas, así como las personas que ostenten la dirección del Instituto de la Juventud y del Instituto de Consumo de Castilla-La Mancha.
+Cuatro personas designadas a propuesta de la dirección del Instituto de la Mujer, entre personas de acreditada trayectoria a favor de la igualdad de los derechos entre ambos sexos.
+d) Secretaría: será desempeñada por personal del Instituto de la Mujer, designado por la dirección de éste, con voz pero sin voto.
+Se modifica el apartado 2.b) por el art. 1.2 de la Ley 11/2019, de 20 de diciembre. Ref. BOE-A-2020-1997
+ Se modifica el apartado 2 por la disposición final 1.2 de la Ley 12/2010, de 18 de noviembre. Ref. BOE-A-2011-2708#df
+
+### Artículo 6
+
+Artículo 6. Funciones del Consejo de Dirección.
+Son funciones del Consejo de Dirección:
+a) Aprobar el Reglamento de Régimen interior del Instituto.
+b) Aprobar el Plan anual de actividades, así como la memoria anual sobre gestión y funcionamiento del Instituto de la Mujer que será presentado en las Cortes Regionales.
+c) Conocer el Anteproyecto del presupuesto del Instituto y la propuesta de la relación de puestos de trabajo del mismo.
+d) Informar las propuestas sobre políticas de igualdad que afecten al conjunto de la acción gubernamental.
+e) Concertar la política de las distintas Consejerías y de las Corporaciones Locales en lo referente a las políticas de igualdad de oportunidades entre los hombres y las mujeres.
+
+### Artículo 7
+
+Artículo 7. Funcionamiento del Consejo de Dirección.
+1. Se reunirá con carácter ordinario tres veces al año.
+2. Podrá celebrar reuniones extraordinarias por iniciativa de la Presidencia del Consejo de Dirección o de dos tercios de sus miembros.
+3. La Presidencia convocará y presidirá las reuniones, función que podrá delegar en la Vicepresidencia primera.
+4. La válida constitución del Consejo de Dirección requerirá la presencia del Presidente/a y Secretario/a o de quienes les sustituyan y la mitad al menos de sus miembros en primera convocatoria y de un tercio en segunda convocatoria.
+5. Los acuerdos serán adoptados por mayoría de los asistentes y dirimirá en caso de empate el voto de calidad del Presidente/a.
+6. Podrá acordarse la constitución en su seno de comisiones de trabajo para temas específicos o de especial interés.
+Se modifica el apartado 3 por el art. 1.3 de la Ley 11/2019, de 20 de diciembre. Ref. BOE-A-2020-1997
+
+### Artículo 8
+
+Artículo 8. Dirección del Instituto de la Mujer.
+1. La persona titular de la Dirección será nombrada y cesada por Decreto del Consejo de Gobierno a propuesta de la Presidencia del Instituto.
+2. La Dirección del Instituto de la Mujer como órgano rector ejercerá las siguientes funciones:
+a) La representación y dirección del Instituto.
+b) Adoptar las medidas necesarias para el cumplimiento de los objetivos de Instituto.
+c) Aprobar los gastos, autorizar su compromiso y liquidación y reconocer las obligaciones, todo ello según el presupuesto aprobado, con los mismos límites que las leyes de Presupuestos Generales establezcan para los miembros del Consejo de Gobierno.
+d) Dar posesión y cese al personal del Instituto y elaborar la propuesta de la relación de puestos de trabajo y elevarla al Consejo de Dirección para su conocimiento.
+e) Recabar para el adecuado ejercicio de sus funciones, de los distintos órganos de la Administración Regional y demás poderes públicos, cuanta información considere necesaria en relación con la situación de la mujer y, especialmente, de las actuaciones que estos realicen en este campo.
+f) Firmar en nombre del Instituto los contratos y convenios de su competencia.
+g) Administrar, gestionar y recaudar los derechos económicos del organismo.
+h) Elaborar el Plan anual de actividades.
+i) Elaborar las propuestas de gastos y las estimaciones de ingresos del presupuesto del Instituto y elevarlas al Consejo de Dirección para su conocimiento y posterior remisión a la Consejería de Economía y Hacienda para su inclusión en el proyecto de ley de Presupuestos Generales de Castilla-La Mancha y aprobar la liquidación de sus presupuestos.
+j) Elaborar y programar el Plan de Igualdad de Oportunidades de las mujeres.
+k) Ejecutar los acuerdos del Consejo de Dirección.
+l) Presidir las Comisiones que se creen en el seno del Consejo de Dirección.
+m) Cuantas otras funciones se le encomienden por el Consejo de Dirección y cualesquiera otras que se le atribuya reglamentariamente.
+Se suprime el apartado 3 por el art. 5.2 de la Ley 3/2016, de 5 de mayo. Ref. BOE-A-2016-6725
+ Se añade el apartado 3 por el art. único.2 de la Ley 5/2008, de 12 de junio. Ref. BOE-A-2008-13687
+
+## CAPÍTULO III
+
+Órgano de consulta y participación
+
+### Artículo 9
+
+Artículo 9. Consejo Regional de la Mujer.
+1. El Consejo Regional de la Mujer es el órgano consultivo y de participación del Instituto de la Mujer.
+2. Su funcionamiento y régimen jurídico se regulará por Decreto.
+
+## CAPÍTULO IV
+
+Personal al servicio del Instituto
+
+### Artículo 10
+
+Artículo 10. Personal al servicio del Instituto.
+El personal al servicio del Instituto se seleccionará y regirá por las normas aplicables al personal de la Administración Regional según su régimen específico.
+
+## CAPÍTULO V
+
+Régimen económico-financiero del Instituto de la Mujer
+
+### Artículo 11
+
+Artículo 11. Recursos económicos.
+Para el cumplimiento de sus fines, el Instituto de la Mujer de Castilla-La Mancha, contará con los siguientes recursos:
+a) Los créditos que con destino al Instituto se consignen en los Presupuestos Generales de la Comunidad Autónoma.
+b) Aportaciones de Entidades tanto públicas como privadas que hayan establecido convenios con el Instituto.
+c) Subvenciones y donaciones de Entidades y organismos, públicos o privados y de los particulares.
+d) Tasas, precios públicos y rendimientos correspondientes a las actividades realizadas por el Instituto.
+e) Productos y rentas de su patrimonio.
+f) Todos los recursos no previstos en los apartados anteriores que puedan serles atribuidos por disposición legal o reglamentaria.
+
+### Artículo 12
+
+Artículo 12. Patrimonio.
+1. Los bienes y derechos que la Administración Autonómica adscriba al Instituto conservarán su calificación jurídica originaria y sólo podrán utilizarse para el cumplimiento de sus fines.
+2. El Instituto ejercerá los derechos y prerrogativas relativos al dominio público legalmente establecidos, a efectos de conservación, correcta administración y defensa de dichos bienes.
+La adscripción de los mismos será acordada de conformidad con lo establecido en la Ley 6/1985, de 13 de noviembre, de Patrimonio de la Comunidad Autónoma de Castilla-La Mancha.
+
+### Artículo 13
+
+Artículo 13. Régimen económico.
+El lnstituto de la Mujer de Castilla-La Mancha someterá su régimen presupuestario a lo establecido en la Ley de Presupuestos de la Comunidad Autónoma y en el texto refundido de la Ley de Hacienda de Castilla-La Mancha, aprobado por Decreto Legislativo 1/2002, de 19 de noviembre, o norma que le sustituya y, de conformidad con lo dispuesto en los artículos 106 y siguientes de este texto refundido, rendirá cuenta de sus operaciones a la Sindicatura de Cuentas.
+Se modifica por el art. único.3 de la Ley 5/2008, de 12 de junio. Ref. BOE-A-2008-13687
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+1. Se autoriza al Consejo de Gobierno para dictar, en el plazo de seis meses, las disposiciones necesarias para el desarrollo de la presente Ley.
+2. Asimismo, se faculta al Consejo de Gobierno para crear otros órganos de consulta y participación a propuesta del Instituto.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Diario Oficial de Castilla-La Mancha».
+
+Toledo, 26 de noviembre de 2002.–El Presidente, José Bono Martínez.

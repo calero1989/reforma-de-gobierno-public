@@ -1,0 +1,251 @@
+# Ley 5/1997, de 13 de octubre, de Ferias de la Región de Murcia.
+
+- Identificador BOE: `BOE-A-1998-3168`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-3168
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 5/1997, de 13 de octubre, de ferias de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30.Dos del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La Ley 2/1986, de 20 de enero, de Ferias de la Región de Murcia, actualmente vigente, contiene preceptos que entran en colisión con el Derecho Comunitario, básicamente en lo que se refiere a la vulneración del principio de libre participación en ferias y exposiciones de empresarios de países miembros de la Unión Europea; circunstancia que ha sido denunciada insistentemente por la Comisión.
+Gozando el Derecho Comunitario de prevalencia o supremacía sobre el Derecho interno español, en virtud del Tratado de Adhesión de España en 1985, en relación con el artículo 93 de la Constitución española, procede introducir en la citada Ley 2/1986 las modificaciones necesarias para llevar a efecto dicha adecuación.
+La presente Ley no va, por consiguiente, más allá de establecer cambios puntuales en el sentido expresado, huyendo de entrar en alteraciones más sustanciales, incompatibles con la celeridad que, por obvias razones, ha de imprimirse a este nuevo texto, respondiendo al compromiso del Gobierno regional.
+Ello no obstante, la presente Ley brinda asimismo la oportunidad de actualizar determinados aspectos de la Ley de Ferias murciana, como son las referencias que en la misma se contienen a textos legales, la propia denominación del Registro de Ferias Oficiales e Instituciones Feriales y la cuantía de las multas, para adecuarlas al incremento experimentado por el IPC. Asimismo, se introducen mínimas correcciones, básicamente de estilo.
+Finalmente, del nuevo texto desaparecen las disposiciones transitorias de la anterior Ley, dado su carácter coyuntural.
+
+## CAPÍTULO I
+
+Concepto y ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1.
+Se denominan ferias a las manifestaciones o certámenes de carácter público y periódico cuya finalidad esencial consista en la exposición, demostración, difusión y oferta de bienes y servicios para contribuir a su conocimiento y comercialización.
+
+### Artículo 2
+
+Artículo 2.
+Las ferias comerciales que se celebren en la Región de Murcia quedarán sometidas a lo dispuesto en esta Ley y normas que la desarrollen.
+
+### Artículo 3
+
+Artículo 3.
+1. Por razón de su régimen jurídico las ferias podrán ser oficiales y no oficiales. Son ferias comerciales oficiales aquellas que por su interés o trascendencia para la economía regional, así se califiquen por la Consejería competente en materia de comercio, que le prestará su apoyo, por afectar a sectores en expansión o suponer un impulso a la investigación, desarrollo e innovación de dichos sectores.
+2. En función de los bienes y servicios exhibidos en ellas las ferias podrán considerarse:
+a) Generales, cuando incluyan toda clase de bienes o servicios de las distintas actividades económicas.
+b) Sectoriales o monográficas, en aquellos supuestos en que se limiten a una rama, a sector económico o a cualquiera de los grupos de actividad económica incluidos en ellos.
+3. Las ferias comerciales oficiales deberán obtener tal calificación de la Consejería competente en materia de comercio, de oficio o solicitud de parte interesada. En la resolución que se dicte se hará constar expresamente su clasificación, de acuerdo con lo establecido en los apartados anteriores.
+Se modifican los apartados 1 y 3 por el art. 6.1 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+## CAPÍTULO II
+
+Organización y régimen de las ferias
+Se modifica por el art. 6.2 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 4
+
+Artículo 4.
+1. La solicitud de obtención de la calificación de ferias comerciales oficiales deberá formularse por las entidades organizadoras a las que se refiere el artículo 9 de esta ley ante la Dirección General competente en materia de ferias antes del 1 de octubre del año inmediatamente anterior al de su celebración.
+2. La solicitud para obtener la condición de Feria Comercial Oficial se acompañará de una declaración responsable que incluya sus datos identificativos, y los relativos a las actividades feriales para las que solicitan la obtención de la condición de Feria Comercial Oficial, en los términos y de acuerdo con el modelo establecidos reglamentariamente por la Consejería competente en la materia, en la que consten:
+a) Datos de la entidad promotora y documentación acreditativa de su personalidad.
+b) Denominación de la feria.
+c) Periodicidad y fechas de su celebración.
+d) Lugar en que se ubicará, acompañando planos del recinto previsto para su celebración.
+e) Gama de bienes y servicios a exponer.
+f) Presupuesto.
+g) Proyecto de Estatuto y Reglamento de Régimen Interior.
+h) Autorizaciones especiales que sean preceptivas.
+3. Para la celebración de ferias en que haya presencia de productos vegetales o de animales vivos, será preceptivo el informe de la Consejería competente en materia de agricultura, ganadería y pesca, a efectos sanitarios.
+Se modifican los apartados 1 y 2 por el art. 6.3 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 5
+
+Artículo 5.
+1. La Consejería competente en materia de comercio valorará la información aportada por la entidad organizadora en la declaración responsable. Los criterios a tener en cuenta para la valoración de las solicitudes y concesión de la calificación de Feria Oficial serán los siguientes:
+a) Interés que para la economía regional represente la celebración de la feria.
+b) La no interferencia en el funcionamiento o viabilidad de otras ferias o instituciones feriales de la Región de Murcia.
+c) Localización en el territorio regional.
+d) Número de empresas vinculadas al sector.
+e) Mercados exteriores en expansión.
+f) Investigación, desarrollo e innovación de nuevos productos y servicios.
+g) Disponibilidad de un recinto adecuado para la celebración de ferias.
+h) La no coincidencia de la feria comercial oficial con otra de la misma clasificación.
+i) Tradición y consolidación de la feria y el nivel de participación previsto, tanto de expositores, profesionales y público.
+j) Aquellos otros factores que permitan la evaluación objetiva de la solicitud presentada.
+2. La Consejería competente en materia de comercio deberá resolver, en el plazo máximo de tres meses, contados desde el día siguiente en que la solicitud tenga entrada en el registro de la Dirección General competente para su tramitación. De no resolverse expresamente dentro del citado plazo, se entenderá estimada la solicitud. Todo ello sin perjuicio de la obligación de resolver.
+3. La Consejería competente en materia de comercio dictará resolución por la que se otorgará o denegará la calificación de Feria Comercial Oficial, que será publicada en el supuesto de ser estimatoria en el "Boletín Oficial de Región de Murcia" para general conocimiento, y publicará así mismo el calendario anual de ferias comerciales oficiales, inscribiéndolas de oficio en el Registro de Ferias Oficiales e Instituciones Feriales de la Región de Murcia.
+4. En la resolución se harán constar los datos esenciales que hayan de ser objeto de inscripción, debiendo evitarse especialmente la duplicidad de certámenes comerciales oficiales. Los datos esenciales comprenderán los siguientes:
+a) Datos de la entidad promotora y documentación acreditativa de su personalidad.
+b) Denominación de la feria.
+c) Periodicidad y fechas de su celebración.
+d) Domicilio social y lugar o recinto previsto para su celebración.
+e) Gama de bienes y servicios a exponer.
+f) Fecha de aprobación de los Estatutos y del Reglamento de Régimen Interior.
+Se modifica por el art. 6.4 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 6
+
+Artículo 6.
+1. Las entidades organizadoras de las ferias comerciales oficiales deberán comunicar a la Dirección General competente en la materia cualquier modificación de los datos esenciales contenidos en la declaración responsable y que hayan sido objeto de la resolución e inscripción. Las modificaciones de datos esenciales que afecten al objeto, finalidad y entidad promotora, podrán dar lugar a la pérdida de la calificación de Feria Comercial Oficial, previa resolución de la citada Dirección General, contra la que podrá interponerse recurso ante la Consejería competente en la materia.
+2. Podrán concurrir a las ferias comerciales oficiales los empresarios y las entidades públicas o privadas que realicen una actividad relacionada con el certamen.
+3. La no admisión de un expositor a una feria comercial oficial deberá ser debidamente justificada por la entidad organizadora. En caso de discrepancia del solicitante resolverá la Consejería competente en materia de comercio.
+Se modifica por el art. 6.5 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 7
+
+Artículo 7.
+1. Las ferias comerciales oficiales podrán tener una duración máxima de quince días.
+2. Se deberán celebrar con una periodicidad mínima de un año, si bien, y con carácter excepcional, podrán celebrarse en periodos superiores.
+Se modifica el apartado 2 por el art. 6.6 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 8
+
+Artículo 8.
+1. Las entidades organizadoras de ferias oficiales constituirán un Comité organizador para cada manifestación ferial, cuyo funcionamiento será democrático y en el que estarán representadas la Administración regional, el Ayuntamiento del lugar de celebración y la Cámara Oficial de Comercio e Industria de su demarcación. Asimismo, podrán estar representadas cualesquiera otras entidades de implantación en el sector.
+2. La celebración de cada feria oficial llevará implícita la elaboración de un presupuesto económico para su desarrollo, así como una memoria posterior, en la que se haga constar el desarrollo de la misma y el grado de consecución de los fines propuestos.
+3. La Consejería competente en materia de comercio podrá suspender, previo expediente administrativo con audiencia del interesado, la celebración de cualquier certamen ferial que no se ajuste, en su realización, a lo previsto en la presente Ley.
+Se modifican los apartados 2 y 3 por el art. 6.7 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+ Se modifica el apartado 1 por el art. 13.1 de la Ley 11/1998, de 28 de diciembre. Ref. BOE-A-1999-9308.
+
+### Artículo 9
+
+Artículo 9.
+1 Las ferias comerciales oficiales podrán ser promovidas y organizadas por entidades públicas o privadas con personalidad jurídica reconocida, no lucrativas.
+2. Son instituciones feriales, a los efectos de esta Ley, las entidades con personalidad jurídica propia, sin ánimo de lucro, legalmente constituidas, y cuyo fin esencial sea la organización de ferias comerciales oficiales.
+
+### Artículo 10
+
+Artículo 10.
+1. Las instituciones feriales solo podrán ser promovidas por entidades, públicas o privadas, entre cuyos fines se incluya la promoción del comercio o de la actividad económica de que se trate.
+2. Para ser inscrita una institución ferial, sus promotores deberán acreditar ante la Administración regional los acuerdos tendentes a su constitución y acompañar los correspondientes Estatutos.
+3. Los Estatutos, además de las condiciones lícitas que establezcan, deberán regular los siguientes extremos:
+a) Denominación, que no podrá ser idéntica a otra ya reconocida.
+b) Fines que se proponen.
+c) Domicilio social.
+d) Órganos directivos y forma de administración.
+e) Régimen de funcionamiento.
+f) Patrimonio fundacional y recursos previstos.
+g) Aplicación que haya de darse al patrimonio en caso de disolución.
+4. La Consejería competente en materia de comercio resolverá, en el plazo de dos meses contados a partir de la fecha de solicitud y previos los informes que se consideren necesarios, sobre la inscripción de la institución ferial en el Registro de Ferias Oficiales e Instituciones Feriales de la Región de Murcia. De no resolverse expresamente dentro del citado plazo, se entenderá desestimada la solicitud.
+
+### Artículo 11
+
+Artículo 11.
+1. Las instituciones feriales llevarán la contabilidad y administración de su presupuesto económico y elaborarán una memoria anual de sus actividades.
+2. Las instituciones feriales y las entidades organizadoras de ferias oficiales deberán presentar, ante la Consejería competente en materia de comercio, en el primer semestre del año, la liquidación del presupuesto y la memoria de cada certamen celebrado el año anterior.
+3. Por la Consejería competente en materia de comercio se ejercerá la inspección y control de la gestión económica de las instituciones y certámenes feriales oficiales, sin perjuicio de las actuaciones que, en su caso, pueda realizar la Intervención General de la Comunidad Autónoma.
+
+## CAPÍTULO III
+
+Registro de Ferias Oficiales e Instituciones Feriales de la Región de Murcia
+
+### Artículo 12
+
+Artículo 12.
+1. Se crea el Registro de Ferias e Instituciones feriales de la Región de Murcia, que dependerá de la consejería competente en materia de comercio, en el que deberán inscribirse:
+a) Las ferias que hayan obtenido la calificación de Feria Comercial Oficial con arreglo a esta ley y las modificaciones posteriores de las mismas.
+b) Las instituciones feriales.
+2. Dicho Registro será público, y de sus asientos se dará información a quien acredite interés legítimo.
+Se modifica el apartado 1.a) por el art. 6.8 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 13
+
+Artículo 13.
+1. Los datos del Registro de Ferias Oficiales e Instituciones Feriales de la Región de Murcia solo podrán ser objeto de modificación mediante la incoación del oportuno expediente administrativo.
+2. La cancelación de asientos registrales y la baja de ferias oficiales e instituciones feriales se producirá por resolución motivada de la Consejería competente en materia de comercio.
+3. Serán causa de baja en el Registro:
+a) La petición razonada formulada por los titulares de las instituciones o entidades.
+b) La disolución de instituciones feriales o entidades organizadoras y las ferias que fueran afectadas por la misma.
+c) La resolución firme recaída en expediente administrativo o jurisdiccional, sobre el contenido de los asientos registrales o el incumplimiento reiterado de las obligaciones establecidas en el capítulo II.
+d) La no celebración de la feria durante más de cuatro años consecutivos, salvo razones debidamente justificadas, previo expediente incoado de oficio por la Consejería competente en materia de comercio.
+Se añade el apartado 3.d) por el art. 13.2 de la Ley 11/1998, de 28 de diciembre. Ref. BOE-A-1999-9308.
+
+### Artículo 14
+
+Artículo 14.
+Las ferias comerciales oficiales cuyos titulares sean instituciones feriales o entidades organizadoras, dadas de baja en el Registro oficial con carácter definitivo, podrán ser concedidas a otra institución o entidad que solicite la obtención de dicha calificación.
+Se modifica por el art. 6.9 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+## CAPÍTULO IV
+
+Promoción de ferias
+
+### Artículo 15
+
+Artículo 15.
+La Administración regional podrá promover la organización de ferias e intercambios comerciales a través de ellas, mediante la adopción de las siguientes medidas:
+a) Establecimiento de acuerdos de colaboración o acciones concertadas con entidades públicas y privadas para favorecer la celebración de ferias.
+b) Organización de aquellas manifestaciones feriales que la propia Administración regional estime convenientes para el desarrollo de una adecuada política comercial.
+
+### Artículo 16
+
+Artículo 16.
+La Consejería competente en materia de comercio, durante el primer trimestre del año, publicará en el «Boletín Oficial de la Región de Murcia» el calendario anual de ferias comerciales oficiales de la Región. Asimismo dará la debida difusión a la celebración de cada certamen oficial, a través de los medios que en cada caso decida.
+
+## CAPÍTULO V
+
+Infracciones y sanciones
+
+### Artículo 17
+
+Artículo 17.
+El incumplimiento de lo establecido en la presente Ley dará lugar a la incoación de expediente administrativo sancionador, que se tramitará conforme al Título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 18
+
+Artículo 18.
+Constituirán infracciones al régimen de ferias oficiales:
+1. Infracciones leves:
+a) La exclusión injustificada de un solicitante expositor.
+b) Aquellas infracciones u omisiones que impliquen incumplimiento de las obligaciones establecidas con carácter general en esta Ley y no estén calificadas en los apartados siguientes.
+2. Infracciones graves:
+a) La utilización no autorizada de denominaciones de ferias oficiales.
+b) La no presentación de presupuestos, de su liquidación y de la memoria, dentro de los plazos establecidos para ello.
+c) La inobservancia de las normas sobre funcionamiento de las instituciones feriales.
+d) El incumplimiento de las condiciones impuestas en la resolución de declaración de la calificación de Feria Comercial Oficial.
+e) La reincidencia en las infracciones leves.
+3. Infracciones muy graves:
+a) La celebración de ferias con atribución del carácter de oficial sin estar debidamente calificadas como tales con arreglo a esta Ley.
+b) La comisión de irregularidades graves y la obstrucción a la comprobación de datos sobre la contabilidad de ferias oficiales e instituciones feriales.
+c) La reincidencia en faltas graves.
+Se modifican los apartados 2.d) y 3.a) por el art. 6.10 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
+
+### Artículo 19
+
+Artículo 19.
+1. Apreciadas las infracciones que se señalan en el artículo anterior podrán imponerse las siguientes sanciones:
+a) Infracciones leves: Apercibimiento o multa de hasta 85.000 pesetas.
+b) Infracciones graves: Multa de más de 85.000 hasta 850.000 pesetas.
+c) Infracciones muy graves: Multa de más de 850.000 hasta 1.700.000 pesetas.
+2. Podrán calificarse las infracciones en el grado siguiente, cuando se ocasionara grave perjuicio a los participantes o clientes y al prestigio de las instituciones e intereses comerciales de la Región.
+3. Reglamentariamente será establecida la competencia de los órganos administrativos que deban imponer las sanciones.
+
+### Artículo 20
+
+Artículo 20.
+El régimen de los actos administrativos y de los recursos contra los mismos será el regulado en la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Queda derogada la Ley 2/1986, de 20 de enero, de Ferias de la Región de Murcia.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Consejo de Gobierno para el desarrollo reglamentario de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al día siguiente de su inserción en el «Boletín Oficial de la Región de Murcia».
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan y a los Tribunales y autoridades que correspondan que la hagan cumplir.
+Murcia, 13 de octubre de 1997.
+RAMÓN LUIS VALCÁRCEL SISO,
+Presidente

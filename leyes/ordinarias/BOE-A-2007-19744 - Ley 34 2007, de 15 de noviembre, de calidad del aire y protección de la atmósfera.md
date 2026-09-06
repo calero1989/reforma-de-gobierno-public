@@ -1,0 +1,3265 @@
+# Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera.
+
+- Identificador BOE: `BOE-A-2007-19744`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+PREÁMBULO
+I
+La atmósfera es un bien común indispensable para la vida respecto del cual todas las personas tienen el derecho de su uso y disfrute y la obligación de su conservación.
+Por su condición de recurso vital y por los daños que de su contaminación pueden derivarse para la salud humana, el medio ambiente y demás bienes de cualquier naturaleza, la calidad del aire y la protección de la atmósfera ha sido, desde hace décadas, una prioridad de la política ambiental. Así, a medida que los procesos de industrialización y de urbanización de grandes áreas territoriales fueron provocando impactos negativos en la calidad del aire, se hizo preciso, tanto en el plano nacional como regional e internacional, la articulación de un amplio repertorio de instrumentos legales tendentes a hacer compatibles el desarrollo económico y social y la preservación de este recurso natural.
+En este contexto se ubica el importante acervo jurídico y el conjunto de políticas y medidas que la Comunidad Europea ha venido desarrollando desde los años setenta en materia de calidad del aire, y los tratados regionales y multilaterales adoptados para alcanzar otros objetivos de la protección atmosférica tales como reducir la contaminación transfronteriza, proteger la capa de ozono o combatir el cambio climático. Por lo que a España se refiere, también cabe situar en este proceso la Ley 38/1972, de 22 de diciembre, de Protección del ambiente atmosférico que, junto a su extenso desarrollo reglamentario, ha servido hasta la fecha como norma básica para enmarcar la respuesta a los problemas de la contaminación del aire.
+El resultado de aplicar todas las medidas señaladas ha generado sin duda alguna importantes mejoras en la calidad del aire, particularmente en lo que se refiere a ciertos contaminantes tales como el dióxido de azufre. Ha permitido fijar objetivos de calidad y de limitación de emisiones, reducir la contaminación de fuentes fijas y móviles, mejorar la calidad ambiental de los combustibles y abordar problemas como la lluvia ácida o el ozono troposférico entre otros. Paralelamente, en las últimas décadas, también se han registrado avances en otros frentes de la protección atmosférica como la capa de ozono y se ha profundizado en la integración de estas consideraciones en otras políticas sectoriales como la energética o el transporte.
+No obstante, a pesar de los mencionados logros, la contaminación atmosférica continúa siendo motivo de seria preocupación en España y en el resto de Europa. Todas las evaluaciones efectuadas ponen de manifiesto que, a pesar de las medidas puestas en marcha en el pasado, aún existen niveles de contaminación con efectos adversos muy significativos para la salud humana y el medio ambiente particularmente en las aglomeraciones urbanas. Además, los más recientes estudios confirman que, de no adoptarse nuevas medidas, los problemas ambientales y de salud persistirán en el futuro. En concreto en el caso de España, las evaluaciones de la calidad del aire demuestran que nuestros principales problemas son similares a los de otros países europeos aunque, en algunos casos, agravados por nuestras especiales condiciones meteorológicas y geográficas.
+II
+En virtud de lo expuesto y en el marco de las iniciativas que están siendo puestas en marcha tanto por las Administraciones públicas españolas como por parte de la Comunidad Europea para alcanzar unos niveles de calidad del aire que no den lugar a riesgos o efectos negativos significativos en la salud humana o el medio ambiente, resultaba evidente que en España era indispensable actualizar y adecuar la capacidad de acción frente a la contaminación atmosférica.
+Si bien la Ley de 1972, gracias a su carácter innovador ha prestado un importante servicio a la protección del ambiente atmosférico a lo largo de más de treinta años, no es menos cierto que, debido a los intensos cambios habidos en el largo periodo de tiempo transcurrido desde su promulgación, hoy en día ha quedado desfasada en importantes aspectos y superada por los acontecimientos. Por ello una de las principales medidas a adoptar para fortalecer y modernizar la mencionada capacidad de acción era la de elaborar una nueva ley de calidad del aire y protección de la atmósfera que permitiese dotar a España de una norma básica acorde con las circunstancias y exigencias actuales.
+Este es, precisamente, el objeto de esta ley, a saber, definir una nueva norma básica conforme con las exigencias de nuestro actual ordenamiento jurídico y administrativo, que se inspire en los principios, enfoques y directrices que definen y orientan la vigente política ambiental y de protección de la atmósfera en el ámbito de la Unión Europea y que dé adecuada cabida a los planteamientos y requisitos técnicos que conforman el acervo comunitario en materia de atmósfera, y el derivado de los correspondientes convenios internacionales. Con estas premisas y aspirando a un cierto grado de permanencia la ley también pretende ser lo suficientemente flexible como para posibilitar los oportunos desarrollos reglamentarios que se precisen según se vayan registrando avances en la política de calidad del aire y de protección del ambiente atmosférico.
+En aras de lograr sus objetivos y en concreto para alcanzar y mantener un nivel de protección elevado de las personas y del medio ambiente frente a la contaminación atmosférica de manera compatible con un desarrollo sostenible, esta ley aborda la gestión de la calidad del aire y la protección de la atmósfera a la luz de los principios de cautela y acción preventiva, de corrección de la contaminación en la fuente misma y de quien contamina paga, y desde un planteamiento de corresponsabilidad, con un enfoque integral e integrador.
+Por lo que a la corresponsabilidad se refiere, esta ley otorga a este aspecto un papel trascendental en la lucha contra la contaminación y refleja su relevancia en tres planos básicos. Por un lado involucrando en la conservación del ambiente atmosférico no sólo a los poderes públicos sino a la sociedad en su conjunto. En este sentido la ley entiende que, si los ciudadanos tienen derecho a exigir a los poderes públicos que adopten las medidas necesarias para preservar la pureza del aire dentro de unos límites que no comprometan su salud y la protección del medio ambiente, en la misma medida se nos debe demandar a todos la obligación de preservar y respetar este recurso natural. En otro plano, esta corresponsabilidad también es reclamada por la ley en lo concerniente a la actuación de las distintas Administraciones públicas. Si consideramos que el aire y la contaminación no conocen de deslindes territoriales o administrativos y tenemos en cuenta la distribución competencial prevista en esta materia en nuestro ordenamiento, esta ley enfatiza la necesaria cooperación y colaboración interadministrativa para asegurar la eficacia y coherencia de sus actuaciones y evitar disfunciones o carencias, especialmente en los supuestos en que la contaminación atmosférica afecte a un ámbito territorial superior al de un municipio o una comunidad autónoma. De igual forma, en un tercer plano, esta ley busca promover que las Administraciones públicas incorporen las consideraciones relativas a la calidad del aire y la protección de la atmósfera en la planificación, definición, ejecución y desarrollo de las distintas políticas sectoriales y que se esfuercen en procurar un desarrollo sostenible, fomentando todas aquellas iniciativas que contribuyan a la conservación del ambiente atmosférico y evitando, en la medida de lo posible, actuaciones contrarias a dicho objetivo.
+En lo concerniente al enfoque integral e integrador que orienta esta ley, éste se materializa tanto en el objeto y ámbito de aplicación de la misma como en los instrumentos habilitados para luchar contra la contaminación atmosférica. De una parte su carácter integral se expresa en que esta ley no circunscribe su actuación a una vertiente concreta de la contaminación atmosférica, como lo es la calidad del aire ambiente, sino que abarca los distintos problemas de la misma tales como, la contaminación transfronteriza, el agotamiento de la capa de ozono o el cambio climático. Con ello pretende abordar la pluralidad de causas y efectos de la contaminación atmosférica con una visión global del problema respecto de las fuentes, ya sean puntuales o difusas, los contaminantes y sus impactos en la salud de las personas, el medio ambiente y demás bienes de cualquier naturaleza.
+Por su parte, el enfoque integrador de esta ley responde a la necesidad de dar respuesta al hecho de que el fenómeno de la contaminación atmosférica, por su naturaleza compleja, requiere, para su tratamiento del concurso de múltiples actuaciones para atender otros tantos aspectos del mismo. Por ello, esta ley busca su mayor efectividad tratando de aprovechar la sinergia resultante de la conjugación de diversos instrumentos propios de una política atmosférica moderna y coherente con los modelos vigentes en la Unión Europea y los convenios internacionales. Consecuentemente, en esta ley se articula una batería de instrumentos que van desde los más específicos para actuar sobre la calidad del aire o para la limitación de emisiones, pasando por los de carácter horizontal de evaluación, información, control e inspección hasta aquellos indispensables para fomentar la protección del ambiente atmosférico o para promover la investigación, el desarrollo y la innovación y la formación y sensibilización pública.
+III
+Para la definición de este nuevo marco jurídico la ley se estructura en siete capítulos. El capítulo I contiene las disposiciones generales y comienza definiendo, como objeto de la norma, la prevención, vigilancia y reducción de la contaminación atmosférica con el fin de evitar o aminorar los daños que de ella puedan derivarse para las personas, el medio ambiente y demás bienes de cualquier naturaleza. También delimita su ámbito de aplicación a los contaminantes relacionados en el anexo I de todas las fuentes, ya sean titularidad pública o privada, excluyendo únicamente aquellas formas de contaminación que se rigen por su normativa específica, así como las medidas de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas, que se regirán por la normativa específica de protección civil. Seguidamente se recogen las definiciones precisas para una mejor comprensión de la norma y los principios rectores que inspiran la ley. Junto a los principios que rigen la política ambiental de la Unión Europea se subraya además la necesaria corresponsabilidad tanto de las Administraciones públicas como de las entidades de derecho público o privado y de los particulares.
+Este primer capítulo incluye igualmente la distribución competencial entre las distintas administraciones públicas. A este respecto cabe destacar que la ley establece determinadas obligaciones para los municipios con población superior a 100.000 habitantes y las aglomeraciones, como la de disponer de instalaciones y redes de evaluación, informar a la población sobre los niveles de contaminación y calidad del aire o elaborar planes y programas para el cumplimiento de los objetivos de calidad del aire. Se establecen también las obligaciones de los titulares y la indispensable cooperación y colaboración interadministrativa, así como el derecho de información del público. Por lo que se refiere a las obligaciones de los titulares, la ley las circunscribe a titulares de instalaciones en las que se desarrollen actividades potencialmente contaminadoras de la atmósfera, es decir dentro del conjunto de todas las fuentes de contaminación posible sólo a aquellas cuyas características pueden requerir que sean sometidas a un control y seguimiento más estricto.
+El capítulo II aborda las disposiciones relativas a la evaluación y gestión de la calidad del aire conforme el modelo vigente en la normativa de la Comunidad Europea. En primer lugar habilita e insta al Gobierno para que, con la participación de las comunidades autónomas, fije objetivos de calidad del aire y pueda actualizar periódicamente la relación de contaminantes recogida en el anexo I. A continuación la ley dispone cuándo y cómo las comunidades autónomas y las entidades locales, de acuerdo con sus competencias, deben efectuar evaluaciones de la calidad del aire en relación con los contaminantes a los que se refieren los objetivos de calidad del aire y establece que las comunidades autónomas zonificarán su territorio según los niveles de contaminación identificados en las evaluaciones antedichas. A su vez, en este capítulo, se estipula que la Administración General del Estado deberá integrar las zonas para todo el territorio nacional y que la información utilizada para la zonificación deberá ser tenida en cuenta por las administraciones públicas en relación con el urbanismo la ordenación del territorio y la tramitación de procedimientos de autorización de actividades e instalaciones.
+El capítulo III contiene dos tipos de medidas que se enmarcan en el esquema convencional para la prevención y control de las emisiones. Por una parte se habilita al Gobierno, con la participación de las comunidades autónomas, para establecer valores límite de emisión para contaminantes y actividades concretas así como para fijar obligaciones específicas respecto de la fabricación, comercialización uso y gestión de productos que puedan generar contaminación atmosférica. Paralelamente se insta al uso de las mejores técnicas disponibles y al empleo de los combustibles menos contaminantes.
+En segundo lugar, la ley perfecciona un instrumento de prevención ya previsto en la normativa española y europea desde hace décadas, como lo es el sometimiento de ciertas actividades a un régimen de intervención administrativa. A diferencia de lo previsto en la Ley de Protección del ambiente atmosférico de 1972, en la que se establecía un catálogo que incluía exclusivamente aquellas actividades potencialmente contaminadoras de la atmósfera sujetas a un régimen de autorización administrativa o notificación, esta ley arbitra un esquema con una filosofía más operativa y flexible. Por una parte establece un catálogo de actividades potencialmente contaminadoras de la atmósfera en el que se recogen todas aquellas fuentes cuyas emisiones antropogénicas son estimadas para elaborar el inventario español de emisiones a la atmósfera. A continuación, partiendo de este catálogo, la ley específica cuales de las categorías de actividades del mismo deben someterse a un régimen de intervención administrativa de las comunidades autónomas en los términos que estas determinen. Con este nuevo planteamiento la ley responde a su enfoque integral al incluir en el catálogo todas las fuentes potenciales de contaminación. Además, al existir una correlación entre el catálogo y el inventario español de emisiones, este esquema permite revisar periódicamente la relación de categorías del catálogo sometidas al régimen de intervención administrativa y decidir si conviene o no mantener las existentes, excluir alguna o incorporar otras nuevas en función de la mayor o menor contribución de las mismas a la contaminación atmosférica.
+Una vez definidos tanto el catálogo como las categorías sujetas a un régimen de intervención en este capítulo también se regulan aspectos básicos del régimen, incluyendo los criterios que deben tomarse en consideración a fin de calificar la modificación de una instalación como sustancial y el procedimiento a seguir en el caso de autorizaciones de actividades que puedan tener repercusiones sobre la calidad del aire de otra comunidad autónoma o de otro Estado.
+En su capítulo IV la ley aborda las cuestiones relativas a la planificación en sus tres vertientes: los planes para mejorar la calidad del aire y cumplir objetivos y obligaciones; la participación pública en la elaboración de dichos planes y la integración de la protección de la atmósfera en la planificación de políticas sectoriales. En concreto esta ley encomienda al Gobierno, con la participación de las comunidades autónomas, la elaboración de aquellos planes de ámbito estatal derivados de compromisos internacionales y comunitarios. Asimismo, encomienda a las comunidades autónomas los planes y programas para el cumplimiento de los objetivos de calidad en sus ámbitos territoriales, señalando los tipos de planes mínimos que deben adoptar y sus requisitos básicos. Dentro de los requisitos procesales se incluye la garantía de la participación pública en la elaboración y revisión de estos planes. Paralelamente en este capítulo también se subraya la obligación que tienen las Administraciones públicas de integrar las consideraciones relativas a la protección atmosférica en la planificación de las distintas políticas sectoriales. Por último para facilitar la planificación a partir de un mejor conocimiento del estado de la contaminación y de sus efectos, y poder evaluar la eficacia de las medidas adoptadas, se insta al Ministerio de Medio Ambiente, en colaboración con las comunidades autónomas, a elaborar los indicadores que sean precisos.
+El capítulo V de la ley está dedicado a la promoción de instrumentos de fomento de la protección de la atmósfera en el entendimiento de que la lucha contra la contaminación requiere del concurso de múltiples acciones en muy diversos ámbitos. A tal efecto, esta ley identifica hasta cuatro ámbitos en los cuales la actuación pública puede rendir importantes frutos y propone medidas al respecto. Concretamente los cuatro ámbitos contemplados son: acuerdos voluntarios, sistemas de gestión y auditorías ambientales, investigación, desarrollo e innovación y formación y sensibilización pública.
+El capítulo VI se ocupa de los aspectos relativos al control, la inspección, vigilancia y seguimiento para garantizar el cumplimiento de esta ley. Por una parte atribuye a las comunidades autónomas y entidades locales conforme sus competencias, la responsabilidad de la adopción de las medidas de inspección necesarias y a los funcionarios que realicen la inspección el carácter de agentes de la autoridad. En segundo lugar, establece un sistema español de información, vigilancia y prevención de la contaminación atmosférica para que las Administraciones públicas dispongan de la información precisa para cumplir esta ley, asignando su coordinación al Ministerio de Medio Ambiente y regulando cómo se abastecerá el sistema, señalando particularmente la responsabilidad del Gobierno de elaborar los inventarios españoles de emisiones y la de establecer reglamentariamente un Sistema Español de Inventario acorde con las directrices y criterios comunitarios e internacionales vigentes. En tercer lugar incluye disposiciones relativas a las estaciones, redes y otros sistemas de evaluación de la calidad del aire que deben disponer las comunidades autónomas y a la información obtenida de las mismas.
+El capítulo VII está dedicado al régimen sancionador. Un régimen que pretende ser coherente con el enfoque integral e integrador de esta ley, con los principios que la inspiran, en particular los de quien contamina paga y de prevención de la contaminación en la fuente y con el hecho particular de que los efectos adversos de la contaminación atmosférica sobre el ambiente atmosférico ni son en gran parte de las ocasiones reparables, ni sus causas son fácilmente identificables y cuantificables. Consecuentemente, en el régimen sancionador de esta ley se concede especial relevancia a los aspectos relativos a la prevención tanto en la tipificación de las sanciones, como en la graduación de las mismas. De igual modo esta preocupación por la prevención también se refleja en la inclusión de un artículo relativo a las medidas de carácter provisional, en el que se da la posibilidad al órgano autonómico de adoptar este tipo de medidas para impedir la continuidad en la producción del riesgo o del daño, y de otra disposición que habilita la ejecución subsidiaria y a costa del sujeto responsable de las medidas preventivas y reparadoras que deba adoptar cuando se produzca una amenaza inminente de daño o se haya producido un daño.
+IV
+En la parte final de la ley se incluyen, en primer lugar, nueve disposiciones adicionales. La primera se refiere al régimen sancionador aplicable en el supuesto de comercio internacional e intracomunitario. La segunda excluye del régimen previsto en esta ley aquellas categorías de actividades incluidas en el ámbito de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación. La tercera contempla una restricción sobre los valores límite exigibles para conceder la autorización en el supuesto de actividades sujetas a la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero. En cuanto a las disposiciones adicionales cuarta y quinta se refieren a la contaminación lumínica y a la aplicación de las leyes reguladoras de la Defensa Nacional.
+En esta parte final también se recoge una disposición transitoria sobre el régimen aplicable a las instalaciones existentes, una disposición derogatoria única mediante la que se derogan expresamente la Ley 38/1972, de 22 de diciembre, de Protección del Ambiente Atmosférico, y el reglamento de actividades molestas, insalubres, nocivas y peligrosas, aprobado por Decreto 2414/1961, y diez disposiciones finales entre las que cabe destacar las siguientes: La disposición final primera que modifica la Ley 10/1998, de 21 de abril, de Residuos, previendo que el poseedor de los residuos de construcción y demolición estará obligado a separarlos por tipos de materiales, en los términos que se establezca reglamentariamente. En segundo lugar, la disposición final segunda, que modifica la Ley 14/2000, de 29 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, con el fin de desincentivar el uso de aeronaves ruidosas mediante la aplicación de penalizaciones sobre el importe a pagar por aterrizaje a aquellas aeronaves que superen los límites establecidos, sin pretender la recuperación de los costes asociados a los servicios de mitigación, control y vigilancia del ruido en los aeropuertos. La disposición final tercera modifica la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación.
+A través de la disposición final cuarta se regula la entrada en vigor de la disposición adicional séptima de la Ley 16/2007, de 4 de julio, de reforma y adaptación de la legislación mercantil en materia contable para su armonización internacional con base en la normativa de la Unión Europea.
+La disposición final sexta relativa al fundamento constitucional, en la que se señala que esta Ley se dicta al amparo de las competencias exclusivas del estado previstas en la Constitución en materia de legislación básica sobre protección del medio ambiente. Por último, la disposición final novena mediante la cual además de facultar al Gobierno para efectuar el desarrollo reglamentario de esta ley y actualizar sus anexos, se le insta a que, en el plazo de un año desde su entrada en vigor y previa consulta con las comunidades autónomas, actualice su anexo IV relativo al catálogo de actividades potencialmente contaminadoras de la atmósfera.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Esta ley tiene por objeto establecer las bases en materia de prevención, vigilancia y reducción de la contaminación atmosférica con el fin de evitar y cuando esto no sea posible, aminorar los daños que de ésta puedan derivarse para las personas, el medio ambiente y demás bienes de cualquier naturaleza.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. Están sujetas a las prescripciones de esta ley todas las fuentes de los contaminantes relacionados en el anexo I correspondientes a las actividades potencialmente contaminadoras de la atmósfera enumeradas en el anexo IV ya sean de titularidad pública o privada.
+2. Quedan excluidos del ámbito de aplicación de esta ley y se regirán por su normativa específica:
+a) Los ruidos y vibraciones.
+b) Las radiaciones ionizantes y no ionizantes.
+c) Los contaminantes biológicos.
+3. Quedan excluidas, asimismo, del ámbito de aplicación de esta Ley las medidas de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas y las actividades correspondientes de protección de personas y bienes, que se regirán por la normativa específica de protección civil.
+
+### Artículo 3
+
+Artículo 3. Definiciones.
+A efectos de lo dispuesto por esta ley se entenderá por:
+a) «Actividades potencialmente contaminadoras de la atmósfera»: Aquellas que por su propia naturaleza, ubicación o por los procesos tecnológicos utilizados constituyan una fuente de contaminación cuyas características pueden requerir que sean sometidas a un régimen de control y seguimiento más estricto.
+b) «Aglomeración»: Conurbación de población superior a 250.000 habitantes o bien, cuando la población sea igual o inferior a 250.000 habitantes, con la densidad de población por km2 que se determine por las comunidades autónomas.
+c) «Amenaza inminente de daño»: Una probabilidad suficiente de que se produzcan daños para la salud humana o el medio ambiente en un futuro próximo.
+d) «Autorización administrativa»: Es la resolución del órgano competente que determine la comunidad autónoma en la que se ubique la instalación por la que se permite, con el objeto de prevenir, vigilar y reducir la contaminación atmosférica, explotar la totalidad o parte de una instalación bajo determinadas condiciones, destinada a garantizar que la misma cumple el objeto y las disposiciones de esta ley. Tal autorización podrá ser válida para una o más instalaciones que tengan la misma ubicación y sean explotadas por el mismo titular.
+e) «Contaminación atmosférica»: La presencia en la atmósfera de materias, sustancias o formas de energía que impliquen molestia grave, riesgo o daño para la seguridad o la salud de las personas, el medio ambiente y demás bienes de cualquier naturaleza.
+f) «Contaminación lumínica»: El resplandor luminoso nocturno o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera, que altera las condiciones naturales de las horas nocturnas y dificultan las observaciones astronómicas de los objetos celestes, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes y a la luminiscencia de las capas altas de la atmósfera, del resplandor luminoso debido a las fuentes de luz instaladas en el alumbrado exterior.
+g) «Emisión»: Descarga a la atmósfera continua o discontinua de materias, sustancias o formas de energía procedentes, directa o indirectamente, de cualquier fuente susceptible de producir contaminación atmosférica.
+h) «Emisiones procedentes de fuentes naturales»: Emisiones de contaminantes no producidos directa o indirectamente por actividades humanas, incluyendo fenómenos naturales tales como erupciones volcánicas, actividades sísmicas, actividades geotérmicas, incendios no intencionados en la naturaleza, vientos fuertes, sales marinas o la resuspensión atmosférica o el transporte de partículas naturales de regiones áridas.
+i) «Evaluación»: El resultado de aplicar cualquier método que permita medir, calcular, predecir o estimar las emisiones, los niveles o los efectos de la contaminación atmosférica.
+j) «Instalación»: Cualquier unidad técnica fija, móvil o transportable donde se desarrolle una o más de las actividades enumeradas en el anexo IV de esta ley, así como cualesquiera otras actividades directamente vinculadas con aquellas que guarden relación de índole técnica con las actividades llevadas a cabo en dicho lugar y puedan tener repercusiones sobre las emisiones y la contaminación.
+k) «Instalación existente»: Cualquier instalación en funcionamiento y autorizada con anterioridad a la fecha de entrada en vigor de esta ley, o que haya solicitado las correspondientes autorizaciones exigibles por la normativa aplicable, siempre que se ponga en funcionamiento a más tardar 12 meses después de dicha fecha.
+l) «Mejores técnicas disponibles»: La fase más eficaz y avanzada de desarrollo de las actividades y de sus modalidades de explotación, que demuestran la capacidad práctica de determinadas técnicas para constituir, en principio, la base de los valores límite de emisión destinados a evitar o, cuando ello no sea posible, reducir en general las emisiones de contaminantes y el impacto en el conjunto del medio ambiente y de la salud de las personas. Para su determinación se deberán tomar en consideración los aspectos que se enumeran en el anejo 4 de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación. A estos efectos se entenderá por:
+«Técnicas»: La tecnología utilizada, junto con la forma en que la instalación esté diseñada, construida, mantenida, explotada o paralizada.
+«Disponibles»: Las técnicas desarrolladas a una escala que permita su aplicación en el contexto del correspondiente sector, en condiciones económicas y técnicamente viables, tomando en consideración los costes y los beneficios, tanto si las técnicas se utilizan o producen en España, como si no, siempre que el titular pueda tener acceso a ellas en condiciones razonables.
+«Mejores»: Las técnicas más eficaces para alcanzar un alto nivel general de protección del medio ambiente en su conjunto y de la salud de las personas.
+m) «Modificación sustancial»: Cualquier modificación realizada en una instalación que, de acuerdo con los criterios establecidos en el artículo 14, pueda tener repercusiones negativas significativas sobre la contaminación atmosférica.
+n) «Nivel de contaminación»: Cantidad de un contaminante en el aire o su depósito en superficies con referencia a un periodo de tiempo determinado.
+ñ) «Objetivo de calidad del aire»: La cuantía de cada contaminante en la atmósfera, aisladamente o asociado con otros, cuyo establecimiento conlleva obligaciones conforme las condiciones que se determinen para cada uno de ellos.
+o) «PM10»: Partículas que pasan a través del cabezal de muestreo definido en la norma EN 12341, con un rendimiento de separación del 50% para un diámetro aerodinámico de 10 µm.
+p) «PM2,5»: Partículas que pasan a través del cabezal de muestreo definido en la norma EN 14907, con un rendimiento de separación del 50% para un diámetro aerodinámico de 2,5 µm.
+q) «Titular»: Cualquier persona física o jurídica que explote o posea la instalación.
+r) «Umbral de alerta»: Nivel a partir del cual una exposición de breve duración supone un riesgo para la salud humana que afecta al conjunto de la población y que requiere la adopción de medidas inmediatas.
+s) «Umbral de información»: Nivel a partir del cual una exposición de breve duración supone un riesgo para la salud de los sectores especialmente vulnerables de la población y que requiere el suministro de información inmediata y apropiada.
+t) «Valor límite de emisión»: Cuantía de uno o más contaminantes en emisión que no debe sobrepasarse dentro de uno o varios períodos y condiciones determinados, con el fin de prevenir o reducir los efectos de la contaminación atmosférica.
+u) «Zona»: Parte del territorio delimitada por la Administración competente para la evaluación y gestión de la calidad del aire.
+
+### Artículo 4
+
+Artículo 4. Principios rectores.
+1. La aplicación de esta ley se basará en los principios de cautela y acción preventiva, de corrección de la contaminación en la fuente misma y de quien contamina paga.
+2. Dentro de sus respectivas competencias, los poderes públicos adoptarán cuantas medidas sean necesarias para alcanzar y mantener un nivel de protección elevado de las personas y del medio ambiente. Por su parte, los particulares se esforzarán en contribuir a evitar y reducir la contaminación atmosférica.
+3. En la aplicación y desarrollo de esta ley se promoverá la integración de las consideraciones relativas a la protección de la atmósfera en las distintas políticas sectoriales como una variable clave para conseguir un desarrollo sostenible.
+4. Con miras a lograr un desarrollo sostenible en materia de calidad del aire y protección de la atmósfera, se promocionarán y difundirán las modalidades más eficaces para el desarrollo, la aplicación y la difusión de tecnologías, conocimientos especializados, prácticas y procesos ecológicamente racionales en lo relativo a la protección de la atmósfera y se adoptarán las medidas necesarias para promover, facilitar y apoyar, según corresponda, el acceso a esos recursos.
+
+### Artículo 5
+
+Artículo 5. Competencias de las Administraciones públicas.
+1. Corresponden a la Administración General del Estado en las materias relacionadas con esta ley, las siguientes competencias:
+a) Actualizar, con la participación de las comunidades autónomas, la relación de contaminantes y el catálogo de actividades potencialmente contaminadoras de la atmósfera.
+b) Definir y establecer, con la participación de las comunidades autónomas, los objetivos de calidad del aire, los umbrales de alerta y de información y los valores límite de emisión, sin perjuicio de los valores límite de emisión que puedan establecer las comunidades autónomas en aplicación de la Ley 16/2002 de 1 de julio, de prevención y control integrados de la contaminación.
+c) Definir, con la participación de las comunidades autónomas, los requisitos mínimos a los que deben ajustarse las estaciones, redes, métodos y otros sistemas de evaluación de la calidad del aire.
+d) Definir con la participación de las comunidades autónomas las metodologías para estimar las fuentes naturales y los procedimientos para conocer su incidencia en los valores registrados de ciertos contaminantes.
+e) Elaborar, con la participación de las comunidades autónomas, y aprobar los planes y programas de ámbito estatal necesarios para cumplir la normativa comunitaria y los compromisos que se deriven de los acuerdos internacionales sobre contaminación atmosférica transfronteriza.
+f) Elaborar y actualizar periódicamente los inventarios españoles de emisiones. Realizar la evaluación, el seguimiento y la recopilación de la información técnica sobre la contaminación de fondo para el cumplimiento de las obligaciones derivadas de Convenios u otro tipo de compromisos internacionales sobre contaminación transfronteriza. La información obtenida se integrará en el sistema español de información, vigilancia y prevención de la contaminación atmosférica y será facilitada periódicamente a las comunidades autónomas.
+g) Coordinar el sistema español de información, vigilancia y prevención de la contaminación atmosférica.
+h) Coordinar, con el fin de lograr la coherencia de las actuaciones de las administraciones públicas afectadas, la adopción de las medidas necesarias para afrontar situaciones adversas relacionadas con la protección de la atmósfera o relativas a la calidad del aire, cuya dimensión exceda el territorio de una comunidad autónoma.
+2. Las comunidades autónomas, en el ejercicio de sus competencias, evaluarán la calidad del aire, podrán establecer objetivos de calidad del aire y valores límite de emisión más estrictos que los que establezca la Administración General del Estado de acuerdo con el artículo 5.1, adoptarán planes y programas para la mejora de la calidad del aire y el cumplimiento de los objetivos de calidad en su ámbito territorial, adoptarán las medidas de control e inspección necesarias para garantizar el cumplimiento de esta ley, y ejercerán la potestad sancionadora.
+En este sentido, establecerán, dentro del ámbito de su territorio, criterios comunes que definan los procedimientos de actuación de los organismos de control autorizados (OCAs) con los que cuenten, así como las relaciones de estos con las diferentes administraciones competentes de su comunidad autónoma.
+3. Corresponde a las entidades locales ejercer aquellas competencias en materia de calidad del aire y protección de la atmósfera que tengan atribuidas en el ámbito de su legislación específica, así como aquellas otras que les sean atribuidas en el marco de la legislación básica del Estado y de la legislación de las comunidades autónomas en esta materia.
+Las entidades locales, en el ámbito de sus competencias, deberán adaptar las ordenanzas existentes y el planeamiento urbanístico a las previsiones de esta ley y de sus normas de desarrollo.
+4. Cada una de las administraciones citadas en el presente artículo, en el ámbito de sus competencias, elaborará un sistema de control y garantía de calidad que asegure la exhaustividad, la coherencia, transparencia, comparabilidad y confianza en todo el proceso comprendido desde las mediciones o estimaciones de los contaminantes hasta la elaboración de los informes relativos a esos contaminantes, así como la implantación de las recomendaciones derivadas de la aplicación del sistema de control y garantía de calidad.
+
+### Artículo 6
+
+Artículo 6. Cooperación y colaboración interadministrativa.
+1. Para garantizar la aplicación de esta ley las Administraciones públicas ajustarán sus actuaciones a los principios de información mutua, cooperación y colaboración. En particular deberán prestarse la debida asistencia para asegurar la eficacia y coherencia de sus actuaciones, especialmente en los supuestos en que la contaminación atmosférica afecte a un ámbito territorial superior al de un municipio o comunidad autónoma.
+2. En el supuesto de que se sobrepasen los objetivos de calidad del aire fijados en un ámbito territorial superior al de una comunidad autónoma, las comunidades autónomas afectadas se prestarán asistencia mutua, en los términos previstos en los respectivos planes para reducir los niveles de contaminación. La Administración General del Estado colaborará a este fin con las comunidades autónomas afectadas o que, sin estarlo, hayan contribuido a generar dicha situación.
+3. En los supuestos en que la superación de los objetivos de calidad del aire afecten a zonas fronterizas con otro Estado, la comunidad autónoma informará de ello y de las medidas adoptadas al Ministerio de Medio Ambiente para su envío al Ministerio de Asuntos Exteriores y de Cooperación. Este departamento lo comunicará al Estado afectado para su información y en su caso para llevar a cabo la colaboración que se estime pertinente.
+
+### Artículo 7
+
+Artículo 7. Obligaciones de los titulares de instalaciones donde se desarrollen actividades potencialmente contaminadoras de la atmósfera.
+1. Sin perjuicio de aquellas otras obligaciones que puedan establecer las comunidades autónomas, los titulares de instalaciones donde se desarrollen actividades potencialmente contaminadoras de la atmósfera recogidas en el catálogo que figura en el anexo IV, deberán:
+a) Cumplir las obligaciones que se deriven de lo dispuesto en el artículo 13.
+b) Respetar los valores límite de emisión en los casos en los que reglamentariamente estén establecidos.
+c) Poner en conocimiento inmediato de la comunidad autónoma competente y adoptar, sin demora y sin necesidad de requerimiento alguno, las medidas preventivas necesarias cuando exista una amenaza inminente de daño significativo por contaminación atmosférica procedente de la instalación del titular.
+d) Adoptar sin demora y sin necesidad de requerimiento alguno y poner en conocimiento inmediato de la comunidad autónoma competente, las medidas de evitación de nuevos daños cuando se haya causado una contaminación atmosférica en la instalación del titular que haya producido un daño para la seguridad o la salud de las personas y para el medio ambiente.
+e) Cumplir los requisitos técnicos que le sean de aplicación conforme establezca la normativa y, en todo caso, salvaguardando la salud humana y el medio ambiente.
+f) Cumplir las medidas contenidas en los planes a los que se refiere el artículo 16.
+g) Realizar controles de sus emisiones y, cuando corresponda, de la calidad del aire, en la forma y periodicidad prevista en la normativa aplicable.
+h) Facilitar la información que les sea solicitada por las Administraciones públicas en el ámbito de sus competencias.
+i) Facilitar los actos de inspección y de comprobación que lleve a cabo la comunidad autónoma competente, en los términos y con las garantías que establezca la legislación vigente.
+2. Los titulares de instalaciones donde se desarrollen actividades potencialmente contaminadoras de la atmósfera recogidas en los grupos A y B del anexo IV de esta ley deberán cumplir además, con las siguientes obligaciones:
+a) Notificar al órgano competente que determine la comunidad autónoma la transmisión, cese o clausura de las actividades e instalaciones.
+b) En los casos en los que reglamentariamente se haya fijado la obligación de contar con estaciones de medida de los niveles de contaminación, integrar dichas estaciones en las redes de las comunidades autónomas a las que se refiere el artículo 27.
+c) Mantener un registro de los controles de emisiones y niveles de contaminación, y someterse a las inspecciones regulares relativas a los mismos, en los casos y términos en los que esté previsto en la normativa aplicable.
+
+### Artículo 8
+
+Artículo 8. Información al público.
+1. Las Administraciones públicas, en el ámbito de sus competencias, tomarán cuantas medidas sean necesarias para garantizar que el público en general y las entidades interesadas tales como las organizaciones ecologistas, empresariales, de consumidores y sanitarias, reciban información adecuada y oportuna acerca de la calidad del aire, de los indicadores ambientales elaborados por el Ministerio de Medio Ambiente, de acuerdo con lo previsto en el artículo 19.1 y de los planes y programas para la protección de la atmósfera y para minimizar los efectos negativos de la contaminación atmosférica. Esta información se suministrará de forma clara y comprensible a través de medios de difusión fácilmente accesibles, incluido Internet.
+Esta información incluirá obligatoriamente:
+- La situación de la calidad del aire en relación con los objetivos de calidad vigentes para cada contaminante.
+- Información periódica sobre la contaminación de fondo.
+- En caso de que para determinados contaminantes se establezcan descuentos debidos a emisiones de fuentes naturales para el cálculo respecto del incumplimiento de objetivos de calidad se informará adecuadamente de la metodología seguida y de la justificación para la aplicación de tales descuentos.
+- La información sobre la calidad del aire que España remite anualmente a la Comisión Europea en cumplimiento de las obligaciones previstas en la normativa comunitaria en materia de calidad del aire.
+2. Las Administraciones públicas también harán públicos por los medios señalados los estudios sobre calidad del aire y salud que se encarguen en el ámbito de sus competencias.
+3. Las comunidades autónomas informarán periódicamente a la población del nivel de contaminación y, de manera específica, cuando se sobrepasen los objetivos de calidad del aire. En los supuestos en que se sobrepasen los umbrales de información y alerta previstos reglamentariamente, la comunidad autónoma afectada informará también a los órganos competentes en cada caso en materia sanitaria, de medio ambiente y de protección civil conforme a los planes de acción y protocolos establecidos en el marco de protección civil.
+4. Los municipios con población superior a 100.000 habitantes y los que formen parte de una aglomeración, de acuerdo con la definición de esta ley, dispondrán de datos para informar a la población sobre los niveles de contaminación y la calidad del aire.
+
+## CAPÍTULO II
+
+Evaluación y gestión de la calidad del aire
+
+### Artículo 9
+
+Artículo 9. Contaminantes atmosféricos y objetivos de calidad del aire.
+1. El Gobierno, con la participación de las comunidades autónomas, con el fin de prevenir o reducir la contaminación atmosférica y sus efectos, revisará al menos cada cinco años la relación de contaminantes que figura en el anexo I y en su caso la actualizará tomando en consideración las directrices relacionadas en el anexo II y definirá y establecerá, conforme a los factores que figuran en el anexo III, los objetivos de calidad del aire así como las condiciones y plazos para alcanzarlos.
+2. Las Administraciones públicas, en el ámbito de sus competencias, adoptarán las medidas necesarias para mantener y, en su caso, mejorar la calidad del aire y cumplir los objetivos que se establezcan, de conformidad con lo establecido en esta ley.
+3. Cuando se sobrepasen los objetivos de calidad del aire o exista un riesgo de que esto ocurra, la comunidad autónoma competente adoptará las medidas adecuadas para evitar o mitigar la contaminación.
+4. Las administraciones públicas, en el ámbito de sus competencias, estarán obligadas a velar por que la calidad del aire se mantenga dentro de los límites legales establecidos. Los ciudadanos y las organizaciones sociales que velen por la salud y la preservación del medio ambiente podrán demandarlo con los instrumentos legales que prevé el ordenamiento jurídico español.
+
+### Artículo 10
+
+Artículo 10. Evaluación de la calidad del aire.
+1. Las comunidades autónomas y, en su caso, las entidades locales en los términos del artículo 5.3, evaluarán regularmente la calidad del aire en su correspondiente ámbito territorial, con arreglo a lo dispuesto en la normativa vigente que en cada caso sea de aplicación, a los criterios específicos que reglamentariamente se establezcan en relación a los distintos objetivos de calidad del aire, y a los métodos establecidos por la Unión Europea en esta materia.
+A los efectos de lo previsto en el artículo 8.3, las aglomeraciones deberán disponer, por sí mismas o en colaboración con las comunidades autónomas, de estaciones y redes de evaluación de la calidad del aire.
+2. Una vez establecidos los objetivos de calidad del aire a los que se refiere el artículo anterior, las comunidades autónomas y, en su caso, las entidades locales en los términos del artículo 5.3, deberán realizar una evaluación preliminar de los niveles de contaminación en relación con los contaminantes a los que se refieran los objetivos de calidad del aire, en aquellas partes de sus territorios donde no existan mediciones representativas de dichos niveles.
+
+### Artículo 11
+
+Artículo 11. Zonificación del territorio.
+1. De acuerdo con las evaluaciones a las que se refiere el artículo 10, las comunidades autónomas, con la participación de las entidades locales, zonificarán su territorio según los niveles de los contaminantes para los que se hayan establecido objetivos de calidad del aire y conforme a las mismas elaborarán listas diferenciadas de zonas y aglomeraciones.
+2. La Administración General del Estado, de acuerdo con la información que le sea suministrada por las comunidades autónomas en los términos regulados en el artículo 28, integrará las zonas del territorio del Estado.
+3. La información utilizada para la zonificación a que hace referencia este artículo deberá ser tenida en cuenta por las Administraciones públicas en la elaboración y aprobación de planes urbanísticos y de ordenación del territorio, así como en la tramitación de los procedimientos de autorización de actividades e instalaciones potencialmente contaminadoras de la atmósfera.
+
+## CAPÍTULO III
+
+Prevención y control de las emisiones
+
+### Artículo 12
+
+Artículo 12. Control de las emisiones.
+1. El Gobierno, con la participación de las comunidades autónomas, podrá establecer mediante real decreto valores límite de emisión para los contaminantes, en particular para los enumerados en el anexo I y para las actividades potencialmente contaminadoras de la atmósfera enumeradas en el anexo IV de esta ley.
+2. El Gobierno, con la participación de las comunidades autónomas, podrá establecer mediante real decreto obligaciones específicas para la fabricación, importación, adquisición intracomunitaria, transporte, distribución, puesta en el mercado o utilización y gestión durante su ciclo de vida de aquellos productos que puedan generar contaminación atmosférica.
+3. Las Administraciones públicas, en el ámbito de sus competencias, velarán para que se adopten las medidas necesarias y las prácticas adecuadas en las actividades e instalaciones, que permitan evitar o reducir la contaminación atmosférica aplicando, en la medida de lo posible, las mejores técnicas disponibles y empleando los combustibles menos contaminantes. Asimismo las entidades privadas y los particulares se esforzarán en el ejercicio de sus actividades cotidianas, en contribuir a la reducción de los contaminantes de la atmósfera.
+
+### Artículo 13
+
+Artículo 13. Actividades potencialmente contaminadoras de la atmósfera.
+1. A los efectos de esta ley se consideran como actividades potencialmente contaminadoras de la atmósfera las incluidas en el catálogo que figura en el anexo IV.
+El Gobierno con la participación de las comunidades autónomas revisará, al menos cada cinco años, el anexo IV y, en su caso, lo actualizará.
+2. Sin perjuicio de los demás medios de intervención administrativa en la actividad de los ciudadanos exigibles por otras disposiciones, quedan sometidas a procedimiento de autorización administrativa de las comunidades autónomas y en los términos que estas determinen, la construcción, montaje, explotación, traslado o modificación sustancial, de aquellas instalaciones en las que se desarrollen alguna de las actividades incluidas en el catálogo recogido en el anexo IV de esta ley y que figuran en dicho anexo como pertenecientes a los grupos A y B. Las actividades incluidas en el grupo A estarán sujetas a unos requisitos de control de emisiones más exigentes que aquéllas incluidas en el grupo B.
+Estas autorizaciones, se concederán por un tiempo determinado que en ningún caso será superior a ocho años, pasado el cual podrán ser renovadas por periodos sucesivos.
+El órgano competente para otorgar la autorización dictará la resolución que ponga fin al procedimiento en el plazo máximo de nueve meses. Transcurrido dicho plazo sin haberse notificado resolución expresa, podrá entenderse desestimada la solicitud presentada.
+3. La construcción, montaje, explotación, traslado, modificación sustancial, cese o clausura de aquellas instalaciones en las que se desarrollen alguna de las actividades incluidas en el catálogo recogido en el anexo IV y que figuran como pertenecientes al grupo C, deberá ser notificada al órgano competente de la comunidad autónoma en las condiciones que determine su normativa.
+4. La autorización a la que hace referencia el apartado 2 tendrá el contenido mínimo siguiente:
+a) Los valores límite de emisión de los contaminantes, en particular los enumerados en el anexo I, que puedan ser emitidos por la instalación y en su caso los parámetros o las medidas técnicas que los complementen o sustituyan.
+b) Las prescripciones para reducir la contaminación a larga distancia o transfronteriza en su caso.
+c) Los sistemas y procedimientos para el tratamiento y control, con especificación de la metodología de medición, su frecuencia y los procedimientos para evaluar las mediciones.
+d) Las medidas relativas a las condiciones de explotación en situaciones distintas de las normales que puedan afectar al medio ambiente, como la puesta en marcha, fugas, fallos de funcionamiento, paradas temporales o cierre definitivo.
+e) El plazo por el que se otorga la autorización.
+5. La comunidad autónoma competente no podrá autorizar la construcción, montaje, explotación, traslado o modificación sustancial de instalaciones en las que se desarrollen actividades recogidas en el catálogo incluido en el anexo IV de esta ley y que figuran en dicho anexo como pertenecientes a los grupos A y B, si queda demostrado que el incremento de la contaminación de la atmósfera previsto por la instalación de que se trate, en razón de las emisiones que su funcionamiento ocasione, da lugar a que se sobrepasen los objetivos de calidad del aire.
+6. Cuando corresponda al órgano ambiental de la Administración General del Estado la formulación de la declaración de impacto ambiental, de acuerdo con lo establecido en el Real Decreto legislativo 1302/1986, de 28 de junio, de evaluación de impacto ambiental, y su normativa de desarrollo, no podrá otorgarse la autorización a la que se refiere este artículo, sin que previamente se haya dictado dicha declaración.
+A estos efectos, el órgano ambiental estatal, tan pronto como haya formulado la declaración de impacto ambiental o tras la resolución, en su caso, por el Consejo de Ministros de discrepancias con el órgano sustantivo, remitirá una copia de la misma al órgano competente de la comunidad autónoma que deberá incorporar su condicionado al contenido de dicha autorización.
+Se añade el tercer párrafo al apartado 2 por la disposición final 2 de la Ley 33/2015, de 21 de septiembre. Ref. BOE-A-2015-10142#dfsegunda.
+ Se modifica el primer párrafo del apartado 2 por el art. 32.1 del Real Decreto-Ley 8/2011, de 1 de julio. Ref. BOE-A-2011-11641.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 167, de 13 de julio de 2011. Ref. BOE-A-2011-12067.
+
+### Artículo 14
+
+Artículo 14. Modificación sustancial de la instalación.
+1. A los efectos de lo previsto en el artículo 13, corresponderá a las comunidades autónomas concretar en qué términos la modificación de una instalación es calificada como sustancial.
+2. A fin de calificar la modificación de una instalación como sustancial las comunidades autónomas considerarán la incidencia de la modificación proyectada sobre la contaminación atmosférica, de acuerdo con los siguientes criterios:
+a) El tamaño y producción de la instalación.
+b) Su consumo de energía.
+c) La cuantía y tipología de contaminación producida.
+d) El nivel de contaminación existente en la zona respecto de los objetivos de calidad del aire establecidos.
+
+### Artículo 15
+
+Artículo 15. Contaminación intercomunitaria y transfronteriza.
+1. Cuando una instalación pueda tener repercusiones significativas sobre la calidad del aire de otra comunidad autónoma, de otro Estado miembro de la Unión Europea o de terceros Estados, el órgano competente de la comunidad autónoma donde vaya a ubicarse aquélla remitirá una copia de la solicitud de autorización y de toda la documentación que sea relevante a la comunidad autónoma afectada o al Ministerio de Asuntos Exteriores y Cooperación, para su remisión al Estado potencialmente afectado, para que puedan formular alegaciones antes de que recaiga resolución definitiva.
+La resolución que finalmente se adopte será comunicada a la comunidad autónoma afectada o, a través del Ministerio de Asuntos Exteriores y de Cooperación, al Estado afectado.
+2. El Ministerio de Asuntos Exteriores y de Cooperación mantendrá informado al Ministerio de Medio Ambiente sobre las actuaciones desarrolladas, y éste trasladará a la comunidad autónoma afectada la citada información.
+
+## CAPÍTULO IV
+
+Planificación
+
+### Artículo 16
+
+Artículo 16. Planes y programas para la protección de la atmósfera y para minimizar los efectos negativos de la contaminación atmosférica.
+1. El Gobierno, en el ámbito de sus competencias, a fin de cumplir la normativa comunitaria y los compromisos que se deriven de los acuerdos internacionales de los que España sea parte, aprobará los planes y programas de ámbito estatal que sean necesarios para prevenir y reducir la contaminación atmosférica y sus efectos transfronterizos, así como para minimizar sus impactos negativos. Estos planes y programas fijarán objetivos específicos, las medidas necesarias para la consecución de los mismos y el procedimiento para su revisión, y serán elaborados y actualizados con la participación de las comunidades autónomas. Podrán incluir además actuaciones para fomentar la investigación, el desarrollo y la innovación, así como el intercambio de información, la cooperación institucional y la cooperación internacional.
+2. Las comunidades autónomas, en los plazos reglamentariamente establecidos, adoptarán como mínimo los siguientes planes y programas para la mejora de la calidad del aire y el cumplimiento de los objetivos de calidad del aire en su ámbito territorial, así como para minimizar o evitar los impactos negativos de la contaminación atmosférica:
+a) De mejora de la calidad del aire para alcanzar los objetivos de calidad del aire en los plazos fijados, en las zonas en las que los niveles de uno o más contaminantes regulados superen dichos objetivos.
+En estos planes se identificarán las fuentes de emisión responsables de los objetivos de calidad, se fijarán objetivos cuantificados de reducción de niveles de contaminación para cumplir la legislación vigente, se indicarán las medidas o proyectos de mejora, calendario de aplicación, estimación de la mejora de la calidad del aire que se espera conseguir y del plazo previsto para alcanzar los objetivos de calidad.
+Los planes también preverán procedimientos para el seguimiento de su cumplimiento y para su revisión. La revisión de estos planes deberá producirse cuando la situación de la calidad del aire así lo aconseje o cuando exista constancia de que con las medidas aplicadas no se alcanzarán los objetivos de calidad en los plazos estipulados.
+En estos planes se integrarán planes de movilidad urbana, que, en su caso, podrán incorporar los planes de transporte de empresa que se acuerden mediante negociación colectiva, con vistas al fomento de modos de transporte menos contaminantes.
+b) De acción a corto plazo en los que se determinen medidas inmediatas y a corto plazo para las zonas y supuestos en que exista riesgo de superación de los objetivos de calidad del aire y los umbrales de alerta.
+En estos planes se identificará la Administración que en cada caso sea responsable para la ejecución de las medidas. Además, en estos planes se podrán prever medidas de control o suspensión de aquellas actividades que sean significativas en la situación de riesgo, incluido el tráfico.
+3. Para la elaboración de sus planes y programas, las comunidades autónomas deberán tener en cuenta los planes y programas a los que se refiere el apartado 1. Asimismo, aplicarán los principios de cooperación y colaboración respecto de las previsiones que se establezcan para los supuestos en que la contaminación atmosférica afecte a un ámbito territorial superior al de una comunidad autónoma, o su ámbito incluya actividades, infraestructuras o zonas de competencia de otras Administraciones públicas.
+4. Las entidades locales podrán elaborar, en el ámbito de sus competencias, sus propios planes y programas. Para la elaboración de estos planes y programas se deberá tener en cuenta los planes de protección de la atmósfera de las respectivas comunidades autónomas.
+Asimismo, las entidades locales, con el objeto de alcanzar los objetivos de esta ley, podrán adoptar medidas de restricción total o parcial del tráfico, incluyendo restricciones a los vehículos más contaminantes, a ciertas matrículas, a ciertas horas o a ciertas zonas, entre otras.
+Los municipios con población superior a 100.000 habitantes y las aglomeraciones, en los plazos reglamentariamente establecidos, adoptarán planes y programas para el cumplimiento y mejora de los objetivos de calidad del aire, en el marco de la legislación sobre seguridad vial y de la planificación autonómica.
+5. Para la revisión de los planes regulados en este artículo se tendrán en cuenta, entre otros aspectos, los indicadores ambientales a que hace referencia el artículo 19.
+6. Los planes y programas regulados en este artículo serán determinantes para los diferentes instrumentos de planeamiento urbanístico y de ordenación del territorio. Si tales instrumentos contradicen o no acogen el contenido de los planes y programas regulados en este artículo, esta decisión deberá motivarse y hacerse pública.
+Asimismo estos planes y programas podrán incluir prescripciones de obligado cumplimiento para los ciudadanos. Para ello, dichos planes y programas deberán ser objeto de publicación.
+7. Los citados planes y programas incorporarán las evidencias epidemiológicas y la perspectiva de protección de salud pública en las decisiones que afectan a la calidad del aire.
+
+### Artículo 17
+
+Artículo 17. Participación pública.
+Los planes a los que se refiere el artículo anterior deberán ser elaborados y modificados garantizando la participación pública, en los términos previstos en los artículos 16 y 17 de la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente.
+
+### Artículo 18
+
+Artículo 18. Integración de la protección de la atmósfera en políticas sectoriales.
+1. Las Administraciones públicas, en el ámbito de sus competencias, deberán integrar las consideraciones relativas a la protección de la atmósfera en la planificación, desarrollo y ejecución de las distintas políticas sectoriales.
+2. En los supuestos en que las actuaciones sectoriales puedan tener efectos significativos en la conservación de la atmósfera, y sin perjuicio de lo establecido por otras disposiciones, las Administraciones públicas, en el ámbito de sus competencias, velarán para que dichas actuaciones no sobrepasen los objetivos de calidad del aire establecidos y para que, en todo caso, sus posibles impactos sean debidamente minimizados en las fases de diseño y planificación de la actuación, debiendo figurar dicha valoración en la memoria correspondiente de la actuación de que se trate.
+
+### Artículo 19
+
+Artículo 19. Indicadores ambientales.
+1. Para facilitar un mejor conocimiento del estado de la contaminación atmosférica y sus efectos, y evaluar la eficacia de las medidas que se adopten para su prevención y reducción de conformidad con lo establecido en esta ley y en su normativa de desarrollo, el Ministerio de Medio Ambiente, en colaboración con los departamentos ministeriales afectados y las comunidades autónomas, elaborará los indicadores que sean precisos, y efectuará la revisión anual de los mismos.
+2. En la elaboración y revisión de los indicadores se tendrán en cuenta las directrices y criterios vigentes en el ámbito comunitario e internacional y la información obtenida del seguimiento de los planes de protección de la atmósfera a los que se refiere el artículo 16.
+
+## CAPÍTULO V
+
+Instrumentos de fomento de protección de la atmósfera
+
+### Artículo 20
+
+Artículo 20. Acuerdos voluntarios.
+Los acuerdos voluntarios que las comunidades autónomas suscriban con los agentes económicos y particulares tendrán fuerza ejecutiva cuando su objetivo sea la reducción de la carga contaminante emitida en las condiciones más estrictas a las previstas en la legislación que sea de aplicación y, en particular, indistintamente:
+a) El cumplimiento de unos valores límite de emisión más estrictos que los establecidos por la legislación.
+b) El cumplimiento de los valores límite de emisión en un plazo inferior al que, en su caso, establezca la normativa.
+Los acuerdos voluntarios se publicarán en los respectivos diarios oficiales y los resultados obtenidos serán objeto de publicidad y de seguimiento periódico por las comunidades autónomas.
+
+### Artículo 21
+
+Artículo 21. Sistemas de gestión y auditorías ambientales.
+La Administración General del Estado y las comunidades autónomas, en el ámbito de sus competencias, fomentarán la implantación voluntaria de sistemas de gestión y auditorías ambientales en todos los sectores de actividad públicos y privados que sean fuentes de emisión, al objeto de promover una producción y un mercado más sostenible y contribuir así a la reducción de la contaminación atmosférica.
+
+### Artículo 22
+
+Artículo 22. Investigación, desarrollo e innovación.
+La Administración General del Estado y las comunidades autónomas, en el ámbito de sus competencias, fomentarán e incentivarán, en su caso, la investigación, el desarrollo y la innovación para prevenir y reducir la contaminación atmosférica y sus efectos en las personas, el medio ambiente y demás bienes de cualquier naturaleza, prestando particular atención a promover:
+a) El conocimiento sobre los contaminantes, la contaminación atmosférica, sus causas y dinámica, así como la metodología de evaluación.
+b) El conocimiento sobre los efectos de la contaminación atmosférica en la salud, los sistemas naturales, sociales y económicos, su prevención y la adaptación a los mismos.
+c) El desarrollo de tecnologías y productos más respetuosos con el medio ambiente.
+d) El fomento del ahorro y la eficiencia energética y el uso racional de los recursos naturales.
+e) El diseño y aplicación de instrumentos jurídicos, económicos, sociales e institucionales que contribuyan a un desarrollo sostenible.
+f) La colaboración multidisciplinar en la investigación de los aspectos relativos a la interacción entre la calidad del aire y la salud de la población.
+
+### Artículo 23
+
+Artículo 23. Contratación pública.
+Las Administraciones públicas y demás entidades sujetas a la legislación sobre contratación pública promoverán, en el ámbito de sus competencias, la aplicación de medidas de prevención y reducción de la contaminación atmosférica de acuerdo con la normativa vigente sobre contratos del sector públicos.
+
+### Artículo 24
+
+Artículo 24. Formación y sensibilización pública.
+La Administración General del Estado y las comunidades autónomas, en el ámbito de sus competencias, fomentarán la formación y sensibilización del público al objeto de propiciar que los ciudadanos se esfuercen en contribuir, desde los diferentes ámbitos sociales, a la protección de la atmósfera. A tal fin prestarán especial interés a:
+a) El apoyo al movimiento asociativo y el fomento del voluntariado.
+b) La formación en los ámbitos educativos, profesionales y empresariales.
+c) La difusión de campañas de sensibilización pública y concienciación, tendentes al conocimiento de la calidad del aire, en general, y al impacto de la misma, de acuerdo con los hábitos y estilos de vida en particular.
+d) La orientación al consumidor sobre los productos energéticamente más eficientes y menos contaminantes.
+A tal efecto, la Administración General del Estado podrá colaborar mediante la suscripción de los oportunos convenios con las comunidades autónomas, en las actuaciones que se proyecten.
+
+### Artículo 25
+
+Artículo 25. Fiscalidad ambiental.
+Las Administraciones Públicas promoverán, en el ámbito de sus competencias, el uso de la fiscalidad ecológica y de otros instrumentos de política económica ambiental para contribuir a los objetivos de esta ley.
+
+## CAPÍTULO VI
+
+Control, inspección, vigilancia y seguimiento
+
+### Artículo 26
+
+Artículo 26. Control e inspección.
+1. Las comunidades autónomas y, en su caso, las entidades locales en los términos del artículo 5.3, serán las competentes para adoptar las medidas de inspección necesarias para garantizar el cumplimiento de esta ley.
+2. Los funcionarios que realicen las tareas de inspección a las que se refiere el punto anterior, tendrán el carácter de agentes de la autoridad a los efectos previstos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y, en el ejercicio de sus funciones, podrán acceder a cualquier lugar de la instalación o dependencia de titularidad pública o privada, con respeto, en todo caso, a la inviolabilidad del domicilio.
+
+### Artículo 27
+
+Artículo 27. Sistema español de información, vigilancia y prevención de la contaminación atmosférica.
+1. El Ministerio de Medio Ambiente coordinará el sistema español de información, vigilancia y prevención de la contaminación atmosférica que tendrá por finalidad permitir el intercambio recíproco de información entre las distintas Administraciones públicas para el cumplimiento de las obligaciones derivadas de esta ley y de la normativa comunitaria e internacional.
+2. Este sistema se abastecerá de la información generada por las Administraciones públicas y por los titulares, a través de aquellas, así como de cualquier otro dato relevante a efectos de esta ley. A fin de que el sistema sea lo más eficiente posible las Administraciones públicas se esforzarán en actuar de manera coordinada.
+3. La Administración General del Estado elaborará y actualizará periódicamente los inventarios españoles de emisiones y demás informes que el Estado deba cumplimentar con objeto de cumplir las obligaciones de información asumidas por éste en el marco de la normativa comunitaria e internacional, así como para disponer de una fuente esencial de información para el conocimiento del estado del medio ambiente, el diseño de políticas ambientales y la evaluación de su efectividad o el desarrollo de estudios e investigaciones ambientales sociales y económicas entre otras finalidades.
+4. Para la elaboración y actualización periódica de los inventarios españoles el Gobierno establecerá reglamentariamente un Sistema Español de Inventario acorde con las directrices y criterios comunitarios e internacionales vigentes, todo ello sin perjuicio de que las comunidades autónomas puedan elaborar sus propios inventarios autonómicos.
+5. De acuerdo con la normativa comunitaria e internacional, el Gobierno regulará el contenido y los plazos de la información que debe ser facilitada para la elaboración de los informes periódicos que deba cumplimentar el Estado en el ámbito de aplicación de esta ley, para el cumplimiento de las obligaciones de información asumidas en el marco de la Unión Europea y los convenios internacionales.
+6. El Ministerio de Sanidad y Consumo realizará el seguimiento del impacto de la contaminación del aire en la salud, mediante la realización de estudios epidemiológicos, e integrará en su sistema de alertas y vigilancia la información proporcionada por el Sistema español de información, vigilancia y prevención de la contaminación atmosférica que pueda suponer riesgo para la salud.
+
+### Artículo 28
+
+Artículo 28. Estaciones, redes y otros sistemas de evaluación de la calidad del aire.
+1. Las comunidades autónomas y, en su caso, las entidades locales en los términos de los artículos 5.3 y 10.1, deberán disponer de estaciones de medida u otros sistemas de evaluación de la calidad del aire que sean suficientes para permitir el cumplimiento de sus obligaciones, de conformidad con lo dispuesto en esta ley.
+2. Las comunidades autónomas remitirán, con la periodicidad que reglamentariamente se determine, al Ministerio de Medio Ambiente información validada y actualizada acerca de las estaciones, redes y otros sistemas de evaluación de la calidad del aire, públicos y privados, y sobre los datos obtenidos en ellos mismos, con el fin de garantizar el cumplimiento de las obligaciones comunitarias e internacionales.
+3. Los requisitos mínimos a los que deben ajustarse las estaciones, redes y otros sistemas de evaluación de la calidad del aire serán definidos mediante real decreto por el Gobierno, con la participación de las comunidades autónomas, y estarán referidos a los criterios de ubicación y número mínimo de estaciones, a los métodos para el muestreo y análisis de contaminantes y a criterios relacionados con el control y garantía de calidad de las evaluaciones.
+4. Para la instalación de las estaciones de medida de la calidad del aire de titularidad pública, se podrán imponer las servidumbres forzosas que se estimen necesarias en cada caso, previa la indemnización que corresponda legalmente.
+
+## CAPÍTULO VII
+
+Régimen sancionador
+
+### Artículo 29
+
+Artículo 29. Responsabilidad.
+Incurrirán en responsabilidad, a los efectos del presente capítulo, las personas físicas o jurídicas que realicen por acción u omisión hechos constitutivos de infracción conforme a esta ley.
+
+### Artículo 30
+
+Artículo 30. Tipificación de las infracciones.
+1. A los efectos de esta ley, y sin perjuicio de las infracciones que, en su caso, establezca la legislación sectorial y de las que puedan establecer las comunidades autónomas, las infracciones administrativas se clasifican en muy graves, graves y leves.
+2. Son infracciones muy graves:
+a) Incumplir el régimen de autorización y notificación previsto en el artículo 13 para las actividades potencialmente contaminadoras de la atmósfera, siempre que ello haya generado o haya impedido evitar una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+b) Incumplir las obligaciones específicas que, conforme lo dispuesto en el artículo 12.2, de esta ley, hayan sido establecidas para productos que puedan generar contaminación atmosférica, siempre que ello haya dado lugar o haya impedido evitar una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+c) Incumplir los valores límite de emisión, siempre que ello haya generado o haya impedido evitar una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+d) El incumplimiento de las condiciones establecidas en materia de contaminación atmosférica en la autorización o aprobación del proyecto sometido a evaluación de impacto ambiental o en los medios de intervención administrativa en la actividad de los ciudadanos establecidos para las actividades clasificadas, siempre que ello haya generado o haya impedido evitar una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+e) Incumplir los requisitos técnicos que le sean de aplicación a la actividad, instalación o producto cuando ello haya generado o haya impedido evitar, una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+f) El incumplimiento de las medidas contempladas en los planes de acción a corto plazo a los que se refiere el artículo 16.2.
+g) El incumplimiento de las medidas contempladas en los planes para la protección de la atmósfera y para minimizar los efectos negativos de la contaminación atmosférica, siempre que ello haya generado o haya impedido evitar, una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+h) Ocultar o alterar maliciosamente la información exigida en los procedimientos regulados en esta ley, cuando ello haya generado o haya impedido evitar, una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+i) Impedir, retrasar u obstruir la actividad de inspección o control, cuando ello haya generado o haya impedido evitar una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+j) Incumplir las obligaciones previstas en el artículo 7.1.b) y d) cuando haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+k) Incumplir las obligaciones derivadas de las medidas provisionales previstas en el artículo 35 de esta ley.
+3. Son infracciones graves:
+a) Incumplir el régimen de autorización y notificación previsto en el artículo 13 para las actividades potencialmente más contaminadoras de la atmósfera cuando no esté tipificado como infracción muy grave.
+b) Incumplir las obligaciones específicas que, conforme lo dispuesto en el artículo 12.2 de esta ley, hayan sido establecidas para productos que puedan generar contaminación atmosférica, cuando no esté tipificado como infracción muy grave.
+c) Incumplir los valores límite de emisión, cuando no esté tipificado como infracción muy grave.
+d) El incumplimiento de las condiciones establecidas en materia de contaminación atmosférica en la autorización o aprobación del proyecto sometido a evaluación de impacto ambiental o en los medios de intervención administrativa en la actividad de los ciudadanos establecidos para las actividades clasificadas cuando no esté tipificado como infracción muy grave.
+e) Incumplir los requisitos técnicos que le sean de aplicación a la actividad, instalación o producto cuando ello afecte significativamente a la contaminación atmosférica producida por dicha actividad, instalación o producto, cuando no esté tipificado como infracción muy grave.
+f) El incumplimiento de las medidas contempladas en los planes para la protección de la atmósfera y para minimizar los efectos negativos de la contaminación atmosférica, cuando no esté tipificado como infracción muy grave.
+g) Ocultar o alterar maliciosamente la información exigida en los procedimientos regulados en esta ley, cuando ello haya generado o haya impedido evitar una contaminación atmosférica sin que haya puesto en peligro grave la seguridad o salud de las personas ni haya producido un daño o deterioro grave para el medio ambiente.
+h) Impedir, retrasar u obstruir la actividad de inspección o control, cuando no esté tipificado como infracción muy grave.
+i) No cumplir las obligaciones relativas a las estaciones de medida de los niveles de contaminación y al registro de los controles de emisiones y niveles de contaminación a los que se refiere el artículo 7.2.b) y c).
+j) No realizar controles de las emisiones y de la calidad del aire en la forma y periodicidad establecidas legalmente.
+k) Incumplir las obligaciones en materia de información a las que se refiere el artículo 7.1.h), cuando de ello pueda afectar significativamente al cumplimiento, por parte de las Administraciones públicas, de sus obligaciones de información.
+l) Incumplir las obligaciones previstas en el artículo 7.1.b) y d) cuando no esté tipificado como infracción muy grave.
+4. Son infracciones leves:
+a) Incumplir los requisitos técnicos que le sean de aplicación a la actividad, instalación o producto cuando ello no esté tipificado como infracción grave.
+b) Ocultar o alterar maliciosamente la información exigida en los procedimientos regulados en esta ley, cuando ello no esté tipificado como infracción grave.
+c) Incumplir las obligaciones en materia de información a las que se refiere el artículo 7.1.h), cuando ello no esté tipificado como infracción grave.
+Se modifican los apartados 2.d) y 3.d) por el art. 32.2 y 3 del Real Decreto-Ley 8/2011, de 1 de julio. Ref. BOE-A-2011-11641.
+
+### Artículo 31
+
+Artículo 31. Sanciones.
+1. Las infracciones tipificadas en el artículo anterior podrán dar lugar a la imposición de alguna o varias de las siguientes sanciones:
+a) En el caso de infracción muy grave:
+1.º Multa desde 200.001 hasta 2.000.000 de euros.
+2.º Prohibición o clausura definitiva, total o parcial de las actividades e instalaciones.
+3.º Prohibición o clausura temporal, total o parcial de las actividades o instalaciones por un periodo no inferior a dos años ni superior a cinco.
+4.º El precintado de equipos, máquinas y productos, por un periodo no inferior a dos años.
+5.º Inhabilitación para el ejercicio de la actividad por un periodo no inferior a un año ni superior a cinco.
+6.º Extinción, o suspensión de las autorizaciones en las que se hayan establecido condiciones relativas a la contaminación atmosférica por un tiempo no inferior a dos años.
+7.º Publicación a través de los medios que se consideren oportunos, de las sanciones impuestas, una vez que estas hayan adquirido firmeza en vía administrativa o, en su caso jurisdiccional, así como los nombres, apellidos o denominación o razón social de las personas físicas o jurídicas responsables y la índole y naturaleza de las infracciones.
+b) En el caso de infracción grave:
+1.º Multa desde 20.001 hasta 200.000 euros.
+2.º Prohibición o clausura temporal, total o parcial, de las actividades o instalaciones por un periodo máximo de dos años.
+3.º Inhabilitación para el ejercicio de la actividad por un periodo máximo de un año.
+4.º El precintado temporal de equipos, máquinas y productos por un periodo máximo de dos años.
+5.º Suspensión de las autorizaciones en las que se hayan establecido condiciones relativas a la contaminación atmosférica por un periodo máximo de dos años.
+c) En el caso de infracción leve: multa de hasta 20.000 euros.
+2. En cualquier caso, la cuantía de la multa impuesta será, como mínimo, igual al doble del importe en que se haya beneficiado el infractor.
+
+### Artículo 32
+
+Artículo 32. Graduación de las sanciones.
+1. En la imposición de las sanciones se deberá guardar la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada, con consideración de los siguientes criterios para la graduación de la sanción:
+a) Existencia de intencionalidad o reiteración.
+b) La medida en la que el valor límite de emisión haya sido superado.
+c) Las molestias, riesgos o daños causados respecto de las personas, el medio ambiente y demás bienes de cualquier naturaleza.
+d) La grave dificultad, cuando no imposibilidad de reparar los daños ocasionados a la atmósfera.
+e) La reincidencia por comisión de más de una infracción tipificada en esta ley cuando así haya sido declarada por resolución firme.
+f) El beneficio obtenido por la comisión de la infracción.
+g) Las diferencias entre los datos facilitados y los reales.
+2. En todo caso, la prohibición, suspensión o clausura de actividades o instalaciones, se acordará sin perjuicio del pago del salario o de las indemnizaciones a los trabajadores que procedan y de las medidas que puedan arbitrarse para su garantía, de acuerdo con la normativa laboral que sea de aplicación.
+
+### Artículo 33
+
+Artículo 33. Responsabilidad penal.
+1. Cuando la infracción pudiera ser constitutiva de delito o falta, la Administración instructora lo pondrá en conocimiento del órgano jurisdiccional competente, suspendiéndose la tramitación del procedimiento sancionador mientras la autoridad judicial no hubiera dictado sentencia firme o resolución que ponga fin al proceso.
+2. La sanción penal excluirá la imposición de sanción administrativa en los casos en que se aprecie la identidad del sujeto, del hecho y del fundamento. De no haberse estimado la existencia de delito o falta, el órgano competente continuará la tramitación del expediente sancionador.
+
+### Artículo 34
+
+Artículo 34. Concurrencia de sanciones.
+Cuando por unos mismos hechos y fundamentos jurídicos, el infractor pudiese ser sancionado con arreglo a esta ley y a otra u otras leyes que fueran de aplicación, de las posibles sanciones se le impondrá la de mayor gravedad.
+
+### Artículo 35
+
+Artículo 35. Medidas de carácter provisional.
+1. En los supuestos de amenaza inminente de daño o para evitar nuevos daños, el órgano competente podrá acordar, aún antes de la iniciación del procedimiento sancionador, con los límites y condiciones de los artículos 72 y 136 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, mediante acuerdo motivado y previa audiencia del interesado, entre otras, alguna o algunas de las siguientes medidas provisionales:
+a) Medidas de corrección, seguridad o control que impidan la continuidad en la producción del riesgo o del daño.
+b) Precintado temporal de aparatos, equipos o productos.
+c) Clausura temporal, parcial o total de las instalaciones.
+d) Parada temporal de las instalaciones.
+e) Suspensión temporal de la autorización para el ejercicio de la actividad.
+2. La medida provisional que se adopte antes de la iniciación del procedimiento sancionador, deberá ser confirmada, modificada o levantada en el acuerdo de iniciación, que deberá efectuarse dentro de los quince días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda.
+
+### Artículo 36
+
+Artículo 36. Obligación de reponer, multas coercitivas y ejecución subsidiaria.
+1. Sin perjuicio de la sanción penal o administrativa que se imponga, el infractor estará obligado a adoptar todas las medidas posibles para la reposición o restauración de las cosas al estado anterior de la infracción cometida, así como a abonar la correspondiente indemnización por los daños y perjuicios causados en el caso de que éstos se hayan producido. La indemnización por los daños y perjuicios causados a las Administraciones públicas se determinará y recaudará en vía administrativa.
+2. En caso de incumplimiento de la sanción o de la obligación a que se refiere el apartado anterior, el órgano competente requerirá al infractor para su cumplimiento. Si el requerimiento fuera desatendido, el órgano competente podrá acordar la imposición de multas coercitivas por el importe que determine la normativa autonómica.
+3. La imposición de multas coercitivas exigirá que en el requerimiento se indique el plazo de que se dispone para el cumplimiento de la obligación y la cuantía de la multa que puede ser impuesta. En todo caso, el plazo deberá ser suficiente para cumplir la obligación. En el caso de que, una vez impuesta la multa coercitiva, se mantenga el incumplimiento que la ha motivado, podrá reiterarse las veces que sean necesarias hasta el cumplimiento de la obligación, sin que, en ningún caso, el plazo fijado en los nuevos requerimientos pueda ser inferior al fijado en el primero. Las multas coercitivas son independientes y compatibles con las que se puedan imponer en concepto de sanción.
+4. Cuando se produzca una amenaza inminente de daño o se haya producido un daño, en el caso de que el titular no adopte las medidas preventivas, correctivas, paliativas o reparadoras necesarias, o estas hayan sido insuficientes para que desaparezca la amenaza, para contener o eliminar el daño o evitar mayores daños y efectos adversos o cuando la gravedad y trascendencia de los eventuales daños o daños producidos así lo aconsejen, la administración pública competente podrá ejecutar subsidiariamente y a costa del sujeto responsable las medidas preventivas y reparadoras que deba adoptar.
+
+### Artículo 37
+
+Artículo 37. Potestad sancionadora.
+Corresponde a las comunidades autónomas y, en su caso, a las entidades locales en los términos del artículo 5.3, el ejercicio de la potestad sancionadora.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Régimen sancionador relativo a comercio internacional e intracomunitario.
+El incumplimiento de las disposiciones de esta ley relativas a comercio internacional e intracomunitario será sancionado con arreglo al régimen establecido en la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Actividades e instalaciones incluidas en el ámbito de aplicación de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación y de la legislación autonómica.
+Quedan exceptuadas de lo dispuesto en los artículos 13 y 14 aquellas instalaciones incluidas en el ámbito de aplicación de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, que estarán sometidas a la autorización ambiental integrada regulada en la misma, así como aquéllas que, por desarrollo legislativo de las comunidades autónomas, queden afectadas por procedimientos de intervención integrada de similar naturaleza.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Instalaciones incluidas en el ámbito de aplicación de la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.
+En el supuesto de instalaciones sujetas a la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero, la autorización a la que se refiere el artículo 13 no incluirá valores límite para las emisiones directas de aquellos gases especificados en el anexo I de la citada Ley 1/2005, a menos que sea necesario para garantizar que no se provoque ninguna contaminación local significativa.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Contaminación lumínica.
+Las Administraciones públicas, en el ámbito de sus competencias, promoverán la prevención y reducción de la contaminación lumínica, con la finalidad de conseguir los siguientes objetivos:
+a) Promover un uso eficiente del alumbrado exterior, sin menoscabo de la seguridad que debe proporcionar a los peatones, los vehículos y las propiedades.
+b) Preservar al máximo posible las condiciones naturales de las horas nocturnas en beneficio de la fauna, la flora y los ecosistemas en general.
+c) Prevenir, minimizar y corregir los efectos de la contaminación lumínica en el cielo nocturno, y, en particular en el entorno de los observatorios astronómicos que trabajan dentro del espectro visible.
+d) Reducir la intrusión lumínica en zonas distintas a las que se pretende iluminar, principalmente en entornos naturales e interior de edificios.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Aplicación de las leyes reguladoras de la Defensa Nacional.
+Lo establecido en esta Ley se entiende sin perjuicio de lo establecido en las leyes reguladoras de la Defensa Nacional.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Movilidad más sostenible.
+Las Administraciones públicas, en el ámbito de sus competencias, promoverán los sistemas de transporte público y privado menos contaminantes.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Ley de movilidad sostenible.
+(Derogada)
+Se deroga por la disposición derogatoria única.a) de la Ley 9/2025, de 3 de diciembre. Ref. BOE-A-2025-24545#dd
+
+### Disposición adicional octava
+
+Disposición adicional octava. Reestructuración del Impuesto sobre determinados medios de transporte.
+Primero. Modificación de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+Con efectos a partir del día 1 de enero de 2008 se introducen las siguientes modificaciones en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales:
+Uno. Se modifican los apartados 1 y 2 del artículo 65, que quedarán redactados de la siguiente manera:
+"1. Estarán sujetas al impuesto:
+a) La primera matriculación definitiva en España de vehículos, nuevos o usados, provistos de motor para su propulsión, excepto la de los que se citan a continuación:
+1.º Los vehículos comprendidos en las categorías N1, N2 y N3 establecidas en el texto vigente al día 30 de junio de 2007 del anexo II de la Directiva 70/156/CEE, del Consejo, de 6 de febrero de 1970, relativa a la aproximación de las legislaciones de los Estados miembros sobre la homologación de vehículos a motor y de sus remolques, siempre que, cuando se trate de los comprendidos en la categoría N1, se afecten significativamente al ejercicio de una actividad económica. La afectación a una actividad económica se presumirá significativa cuando, conforme a lo previsto en el artículo 95 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, el sujeto pasivo tuviera derecho a deducirse al menos el 50 por ciento de las cuotas del Impuesto sobre el Valor Añadido soportadas o satisfechas con ocasión de la adquisición o importación del vehículo, sin que a estos efectos sea relevante la aplicación de cualquier otra restricción en el derecho a la deducción derivada de las normas contenidas en dicha Ley.
+Cuando la matriculación se produzca en Canarias, se presumirá la afectación significativa a una actividad económica cuando no resulten aplicables a las cuotas soportadas del Impuesto General Indirecto Canario en la adquisición o importación del vehículo las exclusiones y restricciones del derecho a deducir previstas en el artículo 30 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, sin que a estos efectos sea relevante la aplicación de cualquier otra restricción en el derecho a la deducción derivada de las normas contenidas en dicha Ley.
+No obstante, estará sujeta al impuesto la primera matriculación definitiva en España de estos vehículos cuando se acondicionen para ser utilizados como vivienda.
+2.º Los vehículos comprendidos en las categorías M2 y M3 establecidas en el mismo texto al que se refiere el número 1.º anterior y los tranvías.
+3.º Los que, objetivamente considerados, sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica, siempre que sus modelos de serie o los vehículos individualmente hubieran sido debidamente homologados por la Administración tributaria. A estos efectos, se considerará que tienen exclusivamente alguna de estas aplicaciones los vehículos que dispongan únicamente de dos asientos (para el conductor y el ayudante), en ningún caso posean asientos adicionales ni anclajes que permitan su instalación y el espacio destinado a la carga no goce de visibilidad lateral y sea superior al 50 por ciento del volumen interior.
+4.º Los ciclomotores de dos o tres ruedas.
+5.º Las motocicletas y los vehículos de tres ruedas que no sean cuatriciclos siempre que, en ambos casos, su cilindrada no exceda de 250 centímetros cúbicos, si se trata de motores de combustión interna, o su potencia máxima neta no exceda de 16 kw, en el resto de motores.
+6.º Los vehículos para personas con movilidad reducida.
+7.º Los vehículos especiales, siempre que no se trate de los vehículos tipo «quad» definidos en el epígrafe 4.º del artículo 70.1.
+8.º Los vehículos mixtos adaptables cuya altura total desde la parte estructural del techo de la carrocería hasta el suelo sea superior a 1.800 milímetros, siempre que no sean vehículos todo terreno y siempre que se afecten significativamente al ejercicio de una actividad económica. La afectación a una actividad económica se presumirá significativa cuando, conforme a lo previsto en el artículo 95 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, el sujeto pasivo tuviera derecho a deducirse al menos el 50 por ciento de las cuotas del Impuesto sobre el Valor Añadido soportadas o satisfechas con ocasión de la adquisición o importación del vehículo, sin que a estos efectos sea relevante la aplicación de cualquier otra restricción en el derecho a la deducción derivada de las normas contenidas en dicha Ley.
+Cuando la matriculación se produzca en Canarias, se presumirá la afectación significativa a una actividad económica cuando no resulten aplicables a las cuotas soportadas del Impuesto General Indirecto Canario en la adquisición o importación del vehículo las exclusiones y restricciones del derecho a deducir previstas en el artículo 30 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, sin que a estos efectos sea relevante la aplicación de cualquier otra restricción en el derecho a la deducción derivada de las normas contenidas en dicha Ley.
+No obstante, estará sujeta al impuesto la primera matriculación definitiva en España de estos vehículos cuando se acondicionen para ser utilizados como vivienda.
+9.º Los destinados a ser utilizados por las Fuerzas Armadas, por los Cuerpos y Fuerzas de Seguridad del Estado, de las Comunidades Autónomas y de las Corporaciones Locales, así como por el Resguardo Aduanero, en funciones de defensa, vigilancia y seguridad.
+10.º Las ambulancias y los vehículos que, por sus características, no permitan otra finalidad o utilización que la relativa a la vigilancia y socorro en autopistas y carreteras.
+b) La primera matriculación de embarcaciones y buques de recreo o de deportes náuticos, nuevos o usados, que tengan más de ocho metros de eslora, en el registro de matrícula de buques, ordinario o especial o, en caso de no ser inscribibles en dicho registro, la primera matriculación en el registro de la correspondiente Federación deportiva. Estará sujeta en todo caso, cualquiera que sea su eslora, la primera matriculación de las motos náuticas definidas en el epígrafe 4.º del artículo 70.1.
+La eslora a considerar será la definida como tal en la versión vigente al día 30 de junio de 2007 del Real Decreto 544/2007, de 27 de abril, por el que se regula el abanderamiento y matriculación de las embarcaciones de recreo en la Lista séptima del Registro de matrícula de buques.
+Tienen la consideración de embarcaciones y buques de recreo o de deportes náuticos:
+1.º Las embarcaciones que se inscriban en las listas sexta o séptima del registro de matrícula de buques, ordinario o especial o, en su caso, en el registro de la correspondiente Federación deportiva.
+2.º Las embarcaciones distintas de las citadas en el párrafo l.º anterior que se destinen a la navegación privada de recreo, tal como se define en el apartado 13 del artículo 4 de esta Ley.
+c) La primera matriculación de aviones, avionetas y demás aeronaves, nuevas o usadas, provistas de motor mecánico, en el Registro de Aeronaves, excepto la de las que se citan a continuación:
+1.º Las aeronaves que, por sus características técnicas, sólo puedan destinarse a trabajos agrícolas o forestales o al traslado de enfermos y heridos.
+2.º Las aeronaves cuyo peso máximo al despegue no exceda de 1.550 kilogramos según certificado expedido por la Dirección General de Aviación Civil.
+d) Estará sujeta al impuesto la circulación o utilización en España de los medios de transporte a que se refieren los apartados anteriores, cuando no se haya solicitado su matriculación definitiva en España conforme a lo previsto en la disposición adicional primera, dentro del plazo de los 30 días siguientes al inicio de su utilización en España. Este plazo se extenderá a 60 días cuando se trate de medios de transporte que se utilicen en España como consecuencia del traslado de la residencia habitual de su titular al territorio español siempre que resulte de aplicación la exención contemplada en el apartado 1.I) del artículo 66.
+A estos efectos, se considerarán como fechas de inicio de su circulación o utilización en España las siguientes:
+1.º Si se trata de medios de transporte que han estado acogidos a los regímenes de importación temporal o de matrícula turística, la fecha de abandono o extinción de dichos regímenes.
+2.º En el resto de los casos, la fecha de la introducción del medio de transporte en España. Si dicha fecha no constase fehacientemente, se considerará como fecha de inicio de su utilización la que resulte ser posterior de las dos siguientes:
+1'. Fecha de adquisición del medio de transporte.
+2'. Fecha desde la cual se considera al interesado residente en España o titular de un establecimiento situado en España.
+2. a) La delimitación y determinación de los vehículos a que se refieren el apartado 1.a) anterior y el apartado 1 del articulo 70 se efectuará, en lo no previsto expresamente en dichos preceptos, con arreglo a las definiciones y categorías contenidas en la versión vigente al día 30 de junio de 2007 del Anexo II del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre.
+b) A efectos de esta Ley, se considerarán nuevos aquellos medios de transporte que tengan tal consideración de acuerdo con lo establecido en la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, aunque la primera matriculación se produzca en Canarias.
+c) La aplicación de los supuestos de no sujeción a que se refieren los números 9.º y 10.º del apartado 1.a) anterior, estará condicionada a su previo reconocimiento por la Administración Tributaria en la forma que se determine reglamentariamente.
+En los demás supuestos de no sujeción será necesario presentar una declaración ante la Administración tributaria en el lugar, forma, plazo e impresos que determine el Ministro de Economía y Hacienda. Se exceptúan de lo previsto en este párrafo los vehículos homologados por la Administración tributaria''.
+Dos. Se modifica el artículo 70, que quedará redactado de la siguiente manera:
+"Artículo 70. Tipos impositivos.
+1. Para la determinación de los tipos impositivos aplicables se establecen los siguientes epígrafes:
+Epígrafe 1.º
+a) Vehículos cuyas emisiones oficiales de CO2 no sean superiores a 120 g/km, con excepción de los vehículos tipo ``quad''.
+b) Vehículos provistos de un solo motor que no sea de combustión interna, con excepción de los vehículos tipo ``quad''.
+Epígrafe 2.º Vehículos cuyas emisiones oficiales de CO2 sean superiores a 120 g/km y sean inferiores a 160 g/km, con excepción de los vehículos tipo ``quad''.
+Epígrafe 3.º Vehículos cuyas emisiones oficiales de C02 no sean inferiores a 160 g/km y sean inferiores a 200 g/km, con excepción de los vehículos tipo ``quad''.
+Epígrafe 4.º
+a) Vehículos cuyas emisiones oficiales de CO2 sean iguales o superiores a 200 g/km, con excepción de los vehículos tipo ``quad''.
+b) Vehículos respecto de los que sea exigible la medición de sus emisiones de CO2, cuando estas no se acrediten.
+c) Vehículos comprendidos en las categorías N2 y N3 acondicionados como vivienda.
+d) Vehículos tipo ``quad''. Se entiende por vehículo tipo ``quad'' el vehículo de cuatro o más ruedas, con sistema de dirección mediante manillar en el que el conductor va sentado a horcajadas y que está dotado de un sistema de tracción adecuado a un uso fuera de carretera.
+e) Motos náuticas. Se entiende por 'moto náutica' la embarcación propulsada por un motor y proyectada para ser manejada por una o más personas sentadas, de pie o de rodillas, sobre los límites de un casco y no dentro de él.
+Epígrafe 5.º
+a) Vehículos no comprendidos en los epígrafes 1.º, 2.º, 3.º ó 4.º
+b) Embarcaciones y buques de recreo o de deportes náuticos, con excepción de las motos náuticas.
+c) Aviones, avionetas y demás aeronaves.
+2. Los tipos impositivos aplicables serán los siguientes:
+a) Los tipos que, conforme a lo previsto en el artículo 43 de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, hayan sido aprobados por la Comunidad Autónoma.
+b) Si la Comunidad Autónoma no hubiese aprobado los tipos a que se refiere el párrafo anterior, se aplicarán los siguientes:
+Península e Illes Balears
+ Canarias
+ Epígrafe 1.º
+ 0 por 100
+ 0 por 100
+ Epígrafe 2.º
+ 4,75 por 100
+ 3,75 por 100
+ Epígrafe 3.º
+ 9,75 por 100
+ 8,75 por 100
+ Epígrafe 4.º
+ 14,75 por 100
+ 13,75 por 100
+ Epígrafe 5.º
+ 12 por 100
+ 11 por 100
+c) En Ceuta y Melilla se aplicarán los siguientes tipos impositivos:
+Epígrafe 1.º
+ 0 por 100
+ Epígrafe 2.º
+ 0 por 100
+ Epígrafe 3.º
+ 0 por 100
+ Epígrafe 4.º
+ 0 por 100
+ Epígrafe 5.º
+ 0 por 100
+3. El tipo impositivo aplicable será el vigente en el momento del devengo.
+4. Cuando el medio de transporte cuya primera matriculación definitiva haya tenido lugar en Ceuta y Melilla sea objeto de importación definitiva en la península e Islas Baleares o en Canarias, se liquidará el impuesto a los tipos impositivos resultantes de multiplicar los tipos indicados en los párrafos a) o b) del apartado 2 anterior, según proceda, por los coeficientes siguientes:
+a) Si la importación definitiva tiene lugar dentro del primer año siguiente a la primera matriculación definitiva: 1,00.
+b) Si la importación definitiva tiene lugar dentro del segundo año siguiente a la primera matriculación definitiva: 0,67.
+c) Si la importación definitiva tiene lugar dentro del tercer o cuarto año siguientes a la primera matriculación definitiva: 0,42.
+En los casos previstos en este apartado la base imponible estará constituida por el valor en aduana del medio de transporte.
+5. Cuando el medio de transporte por el que se haya devengado el impuesto en Canarias sea objeto de introducción, con carácter definitivo, en la península e Islas Baleares, dentro del primer año siguiente a la primera matriculación definitiva, el titular deberá autoliquidar e ingresar las cuotas correspondientes a la diferencia entre el tipo impositivo aplicable en la Comunidad Autónoma de Canarias y el tipo que corresponda aplicar en la Comunidad Autónoma en que sea objeto de introducción con carácter definitivo, sobre una base imponible que estará constituida por el valor del medio de transporte en el momento de la introducción.
+Lo dispuesto en el párrafo anterior de este apartado no será aplicable cuando, en relación con el medio de transporte objeto de la introducción, ya se hubiera exigido el impuesto en Canarias con aplicación de un tipo impositivo no inferior al vigente en las Comunidades Autónomas peninsulares o en la de llles Balears para dicho medio de transporte en el momento de la introducción.
+6. Las liquidaciones y autoliquidaciones que procedan en virtud de los apartados 4 y 5 de este articulo no serán exigibles en los casos de traslado de la residencia del titular del medio de transporte al territorio en el que tienen lugar, según el caso, la importación definitiva o la introducción definitiva. La aplicación de lo dispuesto en este apartado está condicionada al cumplimiento de los siguientes requisitos:
+a) Los interesados deberán haber tenido su residencia habitual en Ceuta y Melilla o en Canarias, según el caso, al menos durante los doce meses consecutivos anteriores al traslado.
+b) Los medios de transporte deberán haber sido adquiridos en las condiciones normales de tributación existentes, según el caso, en Ceuta y Melilla o en Canarias, y no se deberán haber beneficiado de ninguna exención o devolución con ocasión de su salida de dichos territorios.
+c) Los medios de transporte deberán haber sido utilizados por el interesado en su antigua residencia durante un período mínimo de seis meses antes de haber abandonado dicha residencia.
+d) Los medios de transporte a que se refiere el presente apartado no deberán ser transmitidos durante el plazo de los doce meses posteriores a la importación o introducción. El incumplimiento de este requisito determinará la práctica de la correspondiente liquidación o autoliquidación con referencia al momento en que se produjera dicho incumplimiento.
+7. Las emisiones oficiales de CO2 se acreditarán, en su caso, por medio de un certificado expedido al efecto por el fabricante o importador del vehículo excepto en los casos en que dichas emisiones consten en la tarjeta de inspección técnica o en cualquier otro documento de carácter oficial expedido individualmente respecto del vehículo de que se trate."
+Tres. Queda derogado el artículo 70 bis, "deducción en la cuota", de acuerdo con lo previsto en el párrafo a) del apartado cuatro de la disposición derogatoria única de la Ley 14/2000, de 29 de diciembre, de medidas fiscales, administrativas y del orden social, según la redacción dada al mismo por la disposición derogatoria única del Real Decreto-ley 13/2006, de 29 de diciembre, por el que se establecen medidas urgentes en relación con el programa PREVER para la modernización del parque de vehículos automóviles, el incremento de la seguridad vial y la defensa y la protección del medio ambiente.
+Cuatro. Se modifica el artículo 71, que quedará redactado de la siguiente manera:
+"Artículo 71. Liquidación y pago del Impuesto.
+1. El impuesto deberá ser objeto de autoliquidación e ingreso por el sujeto pasivo en el lugar, forma, plazos e impresos que establezca el Ministro de Economía y Hacienda.
+2. La autoliquidación deberá ser visada por la Administración Tributaria, en la forma que establezca el Ministro de Economía y Hacienda, con carácter previo a la matriculación definitiva ante el órgano competente. Cuando la cuota resultante de la autoliquidación sea inferior a la que resultaría de aplicar los precios medios de venta aprobados por el Ministro de Economía y Hacienda, la Administración Tributaria, con carácter previo al otorgamiento del visado, podrá proceder a la comprobación del importe o valor consignado como base imponible de acuerdo con lo previsto en el artículo 57 de la Ley 58/2003, de 17 de diciembre, General Tributaria. Los precios medios a considerar serán los vigentes en el momento en que el interesado solicite el visado ante la Administración Tributaria. También podrá procederse a la comprobación previa del importe o valor declarado cuando no exista precio medio de venta aprobado por el Ministro de Economía y Hacienda para el medio de transporte al que se refiera la autoliquidación presentada.
+El plazo máximo para efectuar la comprobación será de sesenta días contados a partir de la puesta a disposición de la documentación del medio de transporte ante la Administración Tributaria. El transcurso del citado plazo sin que se haya realizado la comprobación determinará el otorgamiento provisional del visado sobre la base del importe o valor declarado por el obligado tributario. A efectos del cómputo del plazo resultará de aplicación lo dispuesto en el apartado 2 del artículo 104 de la Ley General Tributaria. El visado podrá otorgarse con carácter provisional, sin previa comprobación del importe o valor, en el momento de la presentación de la autoliquidación, lo que podrá efectuarse mediante la emisión de un código electrónico.
+El otorgamiento del visado con carácter provisional no impedirá la posterior comprobación administrativa de la autoliquidación en todos sus elementos.
+3. Para efectuar la matriculación definitiva del medio de transporte, deberá acreditarse el pago del impuesto o, en su caso, el reconocimiento de la no sujeción o de la exención''.
+Cinco. Quedan derogados los apartados 3 y 4 de la disposición transitoria séptima.
+Segundo.-Modificación de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía.
+Con efectos a partir del día 1 de enero de 2008 se modifica el artículo 43 de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, que quedará redactado como sigue:
+«Artículo 43. Alcance de las competencias normativas en el Impuesto Especial sobre Determinados Medios de Transporte.
+En el Impuesto Especial sobre Determinados Medios de Transporte las Comunidades Autónomas podrán incrementar los tipos de gravamen aplicables a los epígrafes del apartado 1 del artículo 70 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, en un 15 por 100 como máximo.»
+Se modifica el apartado primero, con efectos desde el 1 de enero de 2008 por la disposición adicional 62 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295
+
+### Disposición adicional novena
+
+Disposición adicional novena. Información relativa a las emisiones de los vehículos.
+El Gobierno, en desarrollo de las medidas urgentes a adoptar contra el cambio climático, incluirá la obligatoriedad de la Etiqueta informativa de eficiencia energética referida al consumo de combustible y emisiones de CO2, prevista en el Anexo I.2 del Real Decreto 837/2002, de 2 de agosto, por el que se regula la información relativa al consumo de combustible y a las emisiones de C02 de los turismos nuevos que se pongan a la venta o se ofrezcan en arrendamiento financiero en territorio español.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Régimen aplicable a las instalaciones existentes.
+La legislación de las comunidades autónomas establecerá los términos y plazos de adaptación a lo establecido en esta ley de las instalaciones existentes, definidas en el artículo 3.h), así como de aquéllas que hayan solicitado la autorización antes de su entrada en vigor.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+1. Queda derogado el Reglamento de actividades molestas, insalubres, nocivas y peligrosas, aprobado por Decreto 2414/1961, de 30 de noviembre.
+No obstante, el citado Reglamento mantendrá su vigencia en aquellas comunidades y ciudades autónomas que no tengan normativa aprobada en la materia, en tanto no se dicte dicha normativa.
+Sin perjuicio de lo anterior, la regulación contenida en los artículos 4, 11, 15 y 20 sobre emplazamientos y distancias que en el Reglamento de actividades molestas, insalubres, nocivas y peligrosas se establece, no será de aplicación a las instalaciones de tratamiento de aguas, instalaciones de depuración de aguas residuales, instalaciones desalobradoras y desalinizadoras, siempre que tal cuestión hubiera sido objeto de análisis y corrección, en su caso, mediante las medidas procedentes con arreglo a las mejores técnicas disponibles o que se ajusten a lo que al respecto determine la evaluación ambiental o, en su caso, la autorización ambiental integrada correspondiente o título administrativo equivalente.
+2. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta ley y en particular, la Ley 38/1972, de 22 de diciembre, de Protección del Ambiente Atmosférico y los anexos II y III del Decreto 833/1975, de 6 de febrero, por el que se desarrolla la Ley 38/1972, de 22 de diciembre, de Protección del Ambiente Atmosférico.
+Se añade el párrafo final al apartado 1 por la disposición final 1 de la Ley 11/2014, de 3 de julio. Ref. BOE-A-2014-7009.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 10/1998, de 21 de abril, de Residuos.
+Se añade un nuevo párrafo al apartado 1 del artículo 11 de la Ley 10/1998, de 21 de abril, de Residuos, con la siguiente redacción:
+«En el supuesto de residuos de construcción y demolición, el poseedor de dichos residuos estará obligado a separarlos por tipos de materiales, en los términos y condiciones que reglamentariamente se determinen.»
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación de la Ley 14/2000, de 29 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+Uno. Se añaden cuatro nuevas definiciones al apartado 6 del artículo 11 de la Ley 14/2000, de 29 de diciembre, con la siguiente redacción:
+«Ruido certificado: nivel de ruido lateral, de aproximación y de despegue, que figure en el certificado de ruido de la aeronave, expresado en EPNdB (ruido efectivo percibido en decibelios).
+Ruido determinado: nivel de ruido lateral, de aproximación y de despegue, expresado en EPNdB, fruto de la aplicación de las siguientes fórmulas:
+Ruido Lateral:
+Peso
+ 0-35 Tm
+ 35-400 Tm
+ Más de 400 Tm
+ Nivel
+ 94
+ 80,87 + 8,51Log(mtow)
+ 103
+Ruido Aproximación:
+Peso
+ 0-35 Tm
+ 35-280 Tm
+ Más de 280 Tm
+ Nivel
+ 98
+ 86,03 + 7,75Log(mtow)
+ 105
+Ruido Despegue:
+Peso
+ 0-48,1 Tm
+ 48,1-385 Tm
+ Más de 385 Tm
+ Nivel 1 o 2 motores
+ 89
+ 66,65 + 13,29Log(motw)
+ 101
+ Peso
+ 0-28,6 Tm
+ 28,6-385 Tm
+ Más de 385 Tm
+ Nivel 3 motores
+ 89
+ 69,65 + 13,29Log(motw)
+ 104
+ Peso
+ 0-20,2 Tm
+ 20,2-385 Tm
+ Más de 385 Tm
+ Nivel 4 motores o más
+ 89
+ 71,65 + 13,29Log(motw)
+ 106
+Margen acumulado: Cifra expresada en EPNdB obtenida sumando las diferencias entre el nivel de ruido determinado y el nivel certificado de ruido en cada uno de los tres puntos de mediciones del ruido de referencia tal y como se definen en el volumen 1, segunda parte, capítulo 3, anexo 16 del Convenio sobre Aviación Civil Internacional.
+Aviones de reacción subsónicos civiles: Aviones con un peso máximo al despegue de 34.000 kg o más, o con una capacidad interior máxima certificada para el tipo de avión de que se trate superior a 19 plazas de pasajeros, excluidas las plazas reservadas para la tripulación.»
+Dos. Se añade un nuevo párrafo D al apartado 8 del artículo 11 de la Ley 14/2000, de 29 de diciembre, con la siguiente redacción:
+«D) En los aeropuertos de Madrid Barajas y Barcelona, y para los aviones de reacción subsónicos civiles, los importes resultantes de la aplicación de las cuantías referidas en los párrafos A y B del presente apartado se incrementarán en los siguientes porcentajes en función de la franja horaria en que se produzca o el aterrizaje o el despegue y de la clasificación acústica de cada aeronave:
+Clasificación acústica
+ De 07:00 a 22:59 (hora local)–Porcentaje
+ De 23:00 a 06:59 (hora local)–Porcentaje
+ Categoría 1
+ 70
+ 140
+ Categoría 2
+ 20
+ 40
+ Categoría 3
+ 0
+ 0
+ Categoría 4
+ 0
+ 0
+La categoría acústica de cada aeronave se determinará conforme a los siguientes criterios:
+Categoría 1: Aeronaves cuyo margen acumulado sea inferior a 5 EPNdB.
+Categoría 2: Aeronaves cuyo margen acumulado esté comprendido entre 5 EPNdB y 10 EPNdB.
+Categoría 3: Aeronaves cuyo margen acumulado esté comprendido entre 10 EPNdB y 15 EPNdB.
+Categoría 4: Aeronaves cuyo margen acumulado sea superior a 15 EPNdB.
+A estos efectos las compañías aéreas presentarán, antes de la salida del vuelo, a la Entidad Empresarial Aeropuertos Españoles y Navegación Aérea copia del certificado oficial de ruido ajustado a lo establecido en el Anexo 16 al Convenio sobre Aviación Civil Internacional, relativo a la protección del medio ambiente, o documento de similares características y validez expedido por el estado de matrícula de la aeronave.
+Aquellas aeronaves que no faciliten certificado de ruido serán consideradas dentro de la misma categoría que una aeronave del mismo fabricante, modelo, tipo y número de motores para el que sí se disponga de certificado a efectos de la clasificación acústica, hasta la acreditación del certificado correspondiente.
+Los porcentajes aplicables en función de la clasificación acústica de cada aeronave, se bonificarán en el ejercicio 2007 en un 65% de su importe y en 2008 en un 35% de su importe. Se aplicarán en su integridad a partir del 1 de enero del año 2009.»
+Tres. Se modifica el apartado 10.2 del artículo 11 de la Ley 14/2000 de 29 de diciembre, con la siguiente redacción:
+«2. A los efectos de lo previsto en el apartado anterior, se considerarán elementos y criterios de cuantificación de la presente tasa el peso máximo al despegue de la aeronave oficialmente reconocido, la categoría del aeropuerto, la temporada en la cual se realiza el hecho imponible de la tasa, el tipo, clase y naturaleza del vuelo, el número de operaciones efectuadas por periodo de tiempo y aeropuerto, la franja horaria y la clasificación acústica de la aeronave.»
+
+### Disposición final tercera
+
+Disposición final tercera. Modificación de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación.
+El apartado 2 del artículo 22 de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, queda redactado del siguiente modo:
+«2. En el caso de instalaciones sujetas a la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero, la autorización no incluirá valores límite para las emisiones directas de aquellos gases especificados en el anexo I de dicha ley, a menos que sea necesario para garantizar que no se provoque ninguna contaminación local significativa.
+Lo previsto en el párrafo anterior no se aplicará a las instalaciones excluidas temporalmente del régimen de comercio de derechos de emisión de gases de efecto invernadero, de conformidad con lo previsto en la disposición transitoria cuarta de la citada ley.»
+Dos. Se suprime el apartado 3 del artículo 25.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Modificación de la Ley 16/2007, de 4 de julio, de reforma y adaptación de la legislación mercantil en materia contable para su armonización internacional con base en la normativa de la Unión Europea.
+(Derogada)
+Se deroga por la disposición derogatoria única.11 del Real Decreto Legislativo 1/2011, de 1 de julio. Ref. BOE-A-2011-11345.
+
+### Disposición final quinta
+
+Disposición final quinta. Referencias a la normativa derogada.
+Las referencias del ordenamiento jurídico vigente a la Ley 38/1972, de 22 de diciembre, de Protección del Ambiente Atmosférico y a los anexos II y III del Decreto 833/1975, de 6 de febrero, por el que se desarrolla aquella, se entenderán realizadas a esta ley y a sus anexos I y IV.
+
+### Disposición final sexta
+
+Disposición final sexta. Título competencial.
+Esta ley se dicta al amparo de las competencias exclusivas del Estado previstas en el artículo 149.1.23.ª de la Constitución en materia de legislación básica sobre protección del medio ambiente.
+
+### Disposición final séptima
+
+Disposición final séptima. Plazo para la aprobación del texto refundido de evaluación de impacto ambiental.
+El Gobierno elaborará y aprobará en el plazo de un año a partir de la entrada en vigor de esta ley un texto refundido en el que se regularicen, aclaren y armonicen las disposiciones legales vigentes en materia de evaluación de impacto ambiental.
+
+### Disposición final octava
+
+Disposición final octava. Desarrollo reglamentario de la legislación estatal en las Ciudades de Ceuta y Melilla.
+Las disposiciones sobre actividades clasificadas y régimen de disciplina ambiental contenidas en la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, en esta ley y en cualquier otra norma, se considerarán legislación general del Estado, a los efectos previstos en el artículo 21.2 de la Leyes Orgánicas 1/1995 y 2/1995, de 13 de marzo, por las que se aprueban, respectivamente, los Estatutos de Autonomía de las Ciudades de Ceuta y Melilla.
+
+### Disposición final novena
+
+Disposición final novena. Habilitación para el desarrollo reglamentario.
+1. Se habilita al Gobierno para que en el ámbito de sus competencias y previa consulta con las Comunidades Autónomas, apruebe cuantas disposiciones sean necesarias para la aplicación, ejecución y desarrollo de lo establecido en esta ley, así como a actualizar sus anexos.
+2. El Gobierno, en el plazo de un año desde la entrada en vigor de esta ley, previa consulta con las comunidades autónomas, actualizará el anexo IV.
+3. El Gobierno, mediante real decreto, podrá actualizar la cuantía de las multas establecidas en el artículo 31.
+
+### Disposición final décima
+
+Disposición final décima. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 15 de noviembre de 2007.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO
+
+## ANEXO I
+
+Relación de contaminantes atmosféricos
+1. Óxidos de azufre y otros compuestos de azufre.
+2. Óxidos de nitrógeno y otros compuestos de nitrógeno.
+3. Óxidos de carbono.
+4. Ozono.
+5. Compuestos orgánicos volátiles.
+6. Hidrocarburos aromáticos policíclicos y compuestos orgánicos persistentes.
+7. Metales y sus compuestos.
+8. Material particulado (incluidos PM10 y PM2,5).
+9. Amianto (partículas en suspensión, fibras).
+10. Halógenos y sus compuestos.
+11. Cianuros.
+12. Policlorodibenzodioxinas y policlorodibenzofuranos.
+13. Sustancias y preparados respecto de los cuales se haya demostrado o existan indicios razonables de que poseen propiedades cancerígenas, mutágenas, xenoestrógenas o puedan afectar a la reproducción a través de aire.
+14. Sustancias que agotan la capa de ozono.
+
+## ANEXO II
+
+Directrices para la selección de los contaminantes atmosféricos
+1. Posibilidad, gravedad y frecuencia de los efectos; respecto a la salud humana y al medio ambiente en su conjunto, deben ser objeto de especial atención los efectos irreversibles.
+2. Presencia generalizada y concentración elevada del contaminante en la atmósfera.
+3. Transformaciones medioambientales o alteraciones metabólicas que puedan dar lugar a la producción de sustancias químicas de mayor toxicidad.
+4. Persistencia en el medio ambiente, en particular si el contaminante no es biodegradable y puede acumularse en los seres humanos, en el medio ambiente o en las cadenas alimentarias.
+5. Impacto del contaminante:
+- importancia de la población expuesta, de los recursos vivos o de los ecosistemas,
+- organismos receptores particularmente vulnerables en la zona afectada.
+6. Se utilizarán preferentemente métodos de evaluación del riesgo.
+7. Deberán tenerse en cuenta para la selección de los contaminantes los criterios pertinentes de peligrosidad establecidos en virtud de la normativa de la Unión Europea.
+
+## ANEXO III
+
+Factores a tener en cuenta para el establecimiento de los objetivos de calidad del aire y los umbrales de alerta
+1. Grado de exposición de las poblaciones humanas y, en particular, de los subgrupos sensibles.
+2. Condiciones climáticas.
+3. Sensibilidad de la fauna, de la flora y de sus hábitat.
+4. Patrimonio histórico expuesto a los contaminantes.
+5. Viabilidad económica y técnica.
+6. Transporte a larga distancia de los contaminantes, con inclusión de los contaminantes secundarios, entre ellos el ozono.
+7. Mecanismos específicos de formación de cada contaminante.
+
+## ANEXO IV
+
+Catálogo de actividades potencialmente contaminadoras de la atmósfera. CAPCA-2010
+P.t.n.: potencia térmica nominal
+Wt : vatios térmicos
+c.p. : capacidad de producción
+a.e.a.: actividades especificadas en el epígrafe anterior
+c.c.d.: capacidad de consumo de disolvente
+«-» : sin grupo asignado
+ACTIVIDAD
+ GRUPO
+ CÓDIGO
+ COMBUSTIÓN EN EL SECTOR DE PRODUCCIÓN Y TRANSFORMACIÓN DE ENERGÍA
+ 
+ 01
+ GENERACIÓN DE ELECTRICIDAD PARA SU DISTRIBUCIÓN POR LA RED PÚBLICA
+ 
+ 01 01
+ Calderas de P.t.n. >= 300 MWt
+ A
+ 01 01 01 00
+ a.e.a., de P.t.n. < 300 MWt y >= 50 MWt
+ A
+ 01 01 02 00
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 01 01 03 01
+ Calderas de P.t.n. <= 20 MWt y >= 5 MWt(1)
+ B
+ 01 01 03 02
+ a.e.a., de P.t.n. < 5 MWt y >= 1 MWt
+ C
+ 01 01 03 03
+ a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1)
+ C
+ 01 01 03 04
+ a.e.a., de P.t.n. < 250 KWt
+ –
+ 01 01 03 05
+ Turbinas de gas de P.t.n. >= 50 MWt
+ A
+ 01 01 04 01
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 01 01 04 02
+ Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt
+ B
+ 01 01 04 03
+ a.e.a., de P.t.n. < 5 MWt y >= 1 MWt
+ C
+ 01 01 04 04
+ a.e.a., de P.t.n. < 1 MWt y >= 250 KWt
+ C
+ 01 01 04 05
+ a.e.a., de P.t.n. < 250 kWt
+ –
+ 01 01 04 06
+ Motores de combustión interna de P.t.n. > 20 MWt
+ A
+ 01 01 05 01
+ a.e.a., de P.t.n. <= 20 MWt y > 5 MWt
+ B
+ 01 01 05 02
+ a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt
+ C
+ 01 01 05 03
+ a.e.a., de P.t.n. < 1 MWt
+ –
+ 01 01 05 04
+ GENERACIÓN DE CALOR PARA DISTRITOS URBANOS
+ 
+ 01 02
+ Calderas de P.t.n. >= 300 MWt
+ A
+ 01 02 01 00
+ a.e.a., de P.t.n. < 300 MWt y >= 50 MWt
+ A
+ 01 02 02 00
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 01 02 03 01
+ Calderas de P.t.n. <=20 MWt y >= 5 MWt(1)
+ B
+ 01 02 03 02
+ a.e.a., de P.t.n. < 5 MWt y >= 1 MWt
+ C
+ 01 02 03 03
+ a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1)
+ C
+ 01 02 03 04
+ a.e.a., de P.t.n. < 250 KWt
+ –
+ 01 02 03 05
+ Turbinas de gas de P.t.n. >= 50 MWt
+ A
+ 01 02 04 01
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 01 02 04 02
+ Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt
+ B
+ 01 02 04 03
+ a.e.a., de P.t.n. < 5 MWt y >= 1 KWt
+ C
+ 01 02 04 04
+ a.e.a., de P.t.n. < 1 MWt y >= 250 KWt
+ C
+ 01 02 04 05
+ a.e.a., de P.t.n. < 250 KWt
+ –
+ 01 02 04 06
+ Motores de combustión interna de P.t.n. > 20 MWt
+ A
+ 01 02 05 01
+ a.e.a., de P.t.n. <= 20 MWt y > 5 MWt
+ B
+ 01 02 05 02
+ a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt
+ C
+ 01 02 05 03
+ a.e.a., de P.t.n. < 1 MWt
+ –
+ 01 02 05 04
+ REFINO DE PETRÓLEO
+ 
+ 01 03
+ Calderas de P.t.n. >= 300 MWt
+ A
+ 01 03 01 00
+ a.e.a., de P.t.n. < 300 MWt y >= 50 MWt
+ A
+ 01 03 02 00
+ Calderas de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 01 03 03 01
+ Calderas de P.t.n. <= 20 MWt y >= 5 MWt(1)
+ B
+ 01 03 03 02
+ a.e.a., de P.t.n. < 5 MWt y >= 1 MWt
+ C
+ 01 03 03 03
+ a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1)
+ C
+ 01 03 03 04
+ a.e.a., de P.t.n. < 250 kWt
+ –
+ 01 03 03 05
+ Turbinas de gas de P.t.n. >= 50 MWt
+ A
+ 01 03 04 01
+ Turbinas de gas de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 01 03 04 02
+ a.e.a., de P.t.n. <= 20 MWt y >= 5 MWt
+ B
+ 01 03 04 03
+ a.e.a., de P.t.n. < 5 MWt y >= 1 MWt
+ C
+ 01 03 04 04
+ a.e.a., de P.t.n. < 1 MWt y >= 250 KWt
+ C
+ 01 03 04 05
+ a.e.a., de P.t.n. < 250 kWt
+ –
+ 01 03 04 06
+ Motores de combustión interna de P.t.n. > 20 MWt
+ A
+ 01 03 05 01
+ a.e.a., de P.t.n. <= 20 MWt y > 5 MWt
+ B
+ 01 03 05 02
+ a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt
+ C
+ 01 03 05 03
+ a.e.a., de P.t.n. < 1 MWt
+ –
+ 01 03 05 04
+ Hornos de proceso sin contacto en refinerías de P.t.n. >= 50 MWt
+ A
+ 01 03 06 01
+ Hornos de proceso sin contacto en refinerías de P.t.n. < 50 MWt
+ B
+ 01 03 06 02
+ TRANSFORMACIÓN DE COMBUSTIBLES SÓLIDOS
+ 
+ 01 04
+ Calderas de P.t.n. >= 300 MWt
+ A
+ 01 04 01 00
+ a.e.a., de P.t.n. < 300 MWt y >= 50 MWt
+ A
+ 01 04 02 00
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 01 04 03 01
+ Calderas de P.t.n. <= 20 MWt y >= 5 MWt(1)
+ B
+ 01 04 03 02
+ a.e.a., de P.t.n. < 5 MWt y >= 1 MWt
+ C
+ 01 04 03 03
+ a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1)
+ C
+ 01 04 03 04
+ a.e.a., de P.t.n. < 250 KWt
+ –
+ 01 04 03 05
+ Turbinas de gas de P.t.n. >= 50 MWt
+ A
+ 01 04 04 01
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 01 04 04 02
+ Turbinas de gas de P.t.n. < =20 MWt y >= 5 MWt
+ B
+ 01 04 04 03
+ a.e.a., de P.t.n. < 5 MWt y >= 1 MWt
+ C
+ 01 04 04 04
+ a.e.a., de P.t.n. < 1 MWt y >= 250 KWt
+ C
+ 01 04 04 05
+ a.e.a., de P.t.n. < 250 kWt
+ –
+ 01 04 04 06
+ Motores de combustión interna de P.t.n. > 20 MWt
+ A
+ 01 04 05 01
+ a.e.a., de P.t.n. <= 20 MWt y > 5 MWt
+ B
+ 01 04 05 02
+ a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt
+ C
+ 01 04 05 03
+ a.e.a., de P.t.n. < 1 MWt
+ –
+ 01 04 05 04
+ Hornos de coque
+ A
+ 01 04 06 00
+ Destilación o licuefacción de carbones o maderas
+ A
+ 01 04 07 01
+ Gasificación del carbón o biomasa primaria
+ B
+ 01 04 07 02
+ MINERÍA DEL CARBÓN; EXTRACCIÓN DE PETRÓLEO/GAS
+ 
+ 01 05
+ Calderas de P.t.n. >= 300 MWt
+ A
+ 01 05 01 00
+ a.e.a., de P.t.n. < 300 MWt y >= 50 MWt
+ A
+ 01 05 02 00
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 01 05 03 01
+ Calderas de P.t.n. <= 20 MWt y >= 5 MWt(1)
+ B
+ 01 05 03 02
+ a.e.a., de P.t.n. < 5 MWt y >= 1 MWt
+ C
+ 01 05 03 03
+ a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1)
+ C
+ 01 05 03 04
+ a.e.a., de P.t.n.. < 250 kWt
+ –
+ 01 05 03 05
+ Turbinas de gas de P.t.n. >= 50 MWt
+ A
+ 01 05 04 01
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 01 05 04 02
+ Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt
+ B
+ 01 05 04 03
+ a.e.a., de P.t.n. < 5 MWt y >= 1 KWt
+ C
+ 01 05 04 04
+ a.e.a., de P.t.n. < 1 MWt y >= 250 KWt
+ C
+ 01 05 04 05
+ a.e.a., de P.t.n. < 250 kWt
+ –
+ 01 05 04 06
+ Motores de combustión interna de P.t.n. > 20 MWt
+ A
+ 01 05 05 01
+ a.e.a., de P.t.n. <= 20 MWt y > 5 MWt
+ B
+ 01 05 05 02
+ a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt
+ C
+ 01 05 05 03
+ a.e.a., de P.t.n. < 1 MWt
+ –
+ 01 05 05 04
+ Turbinas de P.t.n. >= 50 MWt o motores de combustión interna de P.t.n. >= 20 MWt utilizados para accionar compresores
+ A
+ 01 05 06 01
+ Turbinas de P.t.n. < 50 MWt y > 5 MWt, o motores de combustión interna de P.t.n. < 20 MWt y > 5 MWt utilizados para accionar compresores
+ B
+ 01 05 06 02
+ Turbinas de P.t.n. <= 5 MWt y >= 1 MWt, o motores de combustión interna de P.t.n. <= 5 MWt y >= 1 MWt utilizados para accionar compresores
+ C
+ 01 05 06 03
+ Turbinas de P.t.n. < 1MWt y >= 250 kWt
+ C
+ 01 05 06 04
+ Turbinas de P.t.n. < 250KWt, o motores de combustión interna de P.t.n. < 1 MWt utilizados para accionar compresores
+ –
+ 01 05 06 05
+ COMBUSTIÓN EN SECTORES NO INDUSTRIALES
+ 
+ 02
+ COMERCIAL E INSTITUCIONAL
+ 
+ 02 01
+ Calderas de P.t.n. >= 300 MWt
+ A
+ 02 01 01 00
+ a.e.a., de P.t.n. < 300 MWt y >= 50 MWt
+ A
+ 02 01 02 00
+ a.e.a., de P.t.n. < 50 MWt y >20 MWt
+ B
+ 02 01 03 01
+ Calderas de P.t.n. <= 20 MWt y >= 1 MWt
+ C
+ 02 01 03 02
+ Calderas de P.t.n. < 1MWt
+ _
+ 02 01 03 03
+ Turbinas de gas de P.t.n. >= 50 MWt
+ A
+ 02 01 04 01
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 02 01 04 02
+ Turbinas de gas de P.t.n. <= 20 MWt y >= 1 MWt
+ C
+ 02 01 04 03
+ Turbinas de gas de P.t.n. < 1 MWt
+ –
+ 02 01 04 04
+ Motores de combustión interna de P.t.n. > 20 MWt
+ A
+ 02 01 05 01
+ a.e.a., de P.t.n. < =20 MWt y > 5 MWt
+ B
+ 02 01 05 02
+ a.e.a., de P.t.n <= 5 MWt y >= 1 MWt
+ C
+ 02 01 05 03
+ a.e.a., de P.t.n < 1 MWt
+ –
+ 02 01 05 04
+ Otros equipos de combustión no especificados anteriormente de P.t.n. >= 1 MWt
+ C
+ 02 01 06 01
+ Otros equipos de combustión no especificados anteriormente de P.t.n. < 1 MW
+ –
+ 02 01 06 02
+ RESIDENCIAL
+ 
+ 02 02
+ Calderas de P.t.n. >= 50 MWt
+ A
+ 02 02 01 00
+ a.e.a., de P.t.n. < 50 MWt y >20 MWt
+ B
+ 02 02 02 01
+ Calderas de P.t.n. <= 20 MWt y >= 1 MWt
+ C
+ 02 02 02 02
+ Calderas de P.t.n. < 1 MWt
+ _
+ 02 02 02 03
+ Turbinas de gas de P.t.n. >= 50 MWt
+ A
+ 02 02 03 01
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 02 02 03 02
+ Turbinas de gas de P.t.n. <= 20 MWt y >= 1 MWt
+ C
+ 02 02 03 03
+ Turbinas de gas de P.t.n. < 1 MWt
+ –
+ 02 02 03 04
+ Motores de combustión interna de P.t.n. > 20 MWt
+ A
+ 02 02 04 01
+ a.e.a., de P.t.n. < =20 MWt y > 5 MWt
+ B
+ 02 02 04 02
+ a.e.a., de P.t.n <= 5 MWt y >= 1 MWt
+ C
+ 02 02 04 03
+ a.e.a., de P.t.n < 1 MWt
+ –
+ 02 02 04 04
+ Otros equipos combustión no especificados anteriormente de P.t.n. >= 1 MWt
+ C
+ 02 02 05 01
+ Otros equipos de combustión no especificados anteriormente de P.t.n. < 1 MWt
+ –
+ 02 02 05 02
+ SECTOR AGRARIO (AGRICULTURA, GANADERÍA, SILVICULTURA Y ACUICULTURA)
+ 
+ 02 03
+ Calderas de P.t.n. >= 50 MWt
+ A
+ 02 03 01 00
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 02 03 02 01
+ Calderas de P.t.n. <= 20 MWt y >=5 MWt (1)
+ B
+ 02 03 02 02
+ a.e.a., de P.t.n. < 5 MWt y >=1 MWt
+ C
+ 02 03 02 03
+ a.e.a., de P.t.n. < 1 MWt y >= 500 kWt (1)
+ C
+ 02 03 02 04
+ a.e.a., de P.t.n. < 500 kWt
+ _
+ 02 03 02 05
+ Turbinas de gas de P.t.n. >= 50 MWt
+ A
+ 02 03 03 01
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 02 03 03 02
+ Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt
+ B
+ 02 03 03 03
+ a.e.a., de P.t.n. < 5 MWt y >=1 MWt
+ C
+ 02 03 03 04
+ a.e.a., de P.t.n. < 1 MWt y >= 500 KWt
+ C
+ 02 03 03 05
+ a.e.a., de P.t.n. < 500 kWt
+ _
+ 02 03 03 06
+ Motores de combustión interna de P.t.n. > 20 MWt
+ A
+ 02 03 04 01
+ a.e.a., de P.t.n. < =20 MWt y > 5 MWt
+ B
+ 02 03 04 02
+ a.e.a., de P.t.n <= 5 MWt y >= 1 MWt
+ C
+ 02 03 04 03
+ a.e.a., de P.t.n < 1 MWt
+ -
+ 02 03 04 04
+ Otros equipos de combustión no especificados anteriormente de P.t.n. >= 500 kWt
+ C
+ 02 03 05 01
+ a.e.a., de P.t.n. < 500 kWt
+ –
+ 02 03 05 02
+ PROCESOS INDUSTRIALES CON COMBUSTIÓN
+ 
+ 03
+ CALDERAS, TURBINAS DE GAS, MOTORES Y OTROS
+ 
+ 03 01
+ Calderas de P.t.n. >= 300 MWt
+ A
+ 03 01 01 00
+ a.e.a., de P.t.n. < 300 MWt y >= 50 MWt
+ A
+ 03 01 02 00
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 03 01 03 01
+ Calderas de P.t.n. <= 20 MWt y >= 5 MWt (1)
+ B
+ 03 01 03 02
+ a.e.a., de P.t.n. < 5 MWt y >=1 MWt
+ C
+ 03 01 03 03
+ a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1)
+ C
+ 03 01 03 04
+ a.e.a., de P.t.n. < 250 kWt
+ –
+ 03 01 03 05
+ Turbinas de gas de P.t.n. >= 50 MWt
+ A
+ 03 01 04 01
+ a.e.a., de P.t.n. < 50 MWt y > 20 MWt
+ B
+ 03 01 04 02
+ Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt
+ B
+ 03 01 04 03
+ a.e.a., de P.t.n. < 5 MWt y >=1 MWt
+ C
+ 03 01 04 04
+ a.e.a., de P.t.n. < 1 MWt y >= 250 kWt
+ C
+ 03 01 04 05
+ a.e.a., de P.t.n. < 250 kWt
+ –
+ 03 01 04 06
+ Motores de combustión interna de P.t.n. > 20 MWt
+ A
+ 03 01 05 01
+ a.e.a., de P.t.n. < =20 MWt y > 5 MWt
+ B
+ 03 01 05 02
+ a.e.a., de P.t.n <= 5 MWt y >= 1 MWt
+ C
+ 03 01 05 03
+ a.e.a., de P.t.n < 1 MWt
+ –
+ 03 01 05 04
+ Otros equipos de combustión no especificados anteriormente de P.t.n. >= 50 MWt
+ A
+ 03 01 06 01
+ Otros equipos de combustión no especificados anteriormente de P.t.n. < 50 MWt y >= 5 MWt(1)
+ B
+ 03 01 06 02
+ a.e.a., de P.t.n. < 5 MWt y >= 1 MWt
+ C
+ 03 01 06 03
+ a.e.a., de P.t.n. < 1 MWt y >= 250 kWt (1)
+ C
+ 03 01 06 04
+ a.e.a., de P.t.n. < 250 kWt
+ –
+ 03 01 06 05
+ HORNOS DE PROCESOS SIN CONTACTO
+ 
+ 03 02
+ Estufas de Horno Alto
+ A
+ 03 02 03 00
+ Hornos de yeso (c.p. > 50 t/día)
+ A
+ 03 02 04 01
+ a.e.a., de (c.p. <= 50 t/día)
+ B
+ 03 02 04 02
+ Hornos sin contacto en la producción de aluminio
+ A
+ 03 02 05 01
+ Hornos sin contacto en galvanización en siderurgia integral
+ A
+ 03 02 05 03
+ Equipos de combustión sin contacto directo en la industria alimentaria en cocciones, esterilización, u operaciones similares de P.t.n => 2,3 MWt
+ B
+ 03 02 05 06
+ a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt (1)
+ C(2)
+ 03 02 05 07
+ Otros hornos sin contacto no especificados en otros epígrafes con P.t.n. > 2,3 MWt
+ B
+ 03 02 05 09
+ a.e.a., de P.t.n. <= 2,3 MWt y >70 kWt
+ C(2)
+ 03 02 05 10
+ PROCESOS CON CONTACTO
+ 
+ 03 03
+ Plantas de sinterización o peletización
+ A
+ 03 03 01 00
+ Hornos de recalentamiento de acero para laminación en caliente con c.p. > 20 t/hora
+ B
+ 03 03 02 01
+ a.e.a., de c.p. <= 20 t/hora
+ C
+ 03 03 02 02
+ Hornos de recalentamiento de hierro para laminación en caliente con c.p. > 20 t/hora
+ B
+ 03 03 02 03
+ a.e.a., de c.p. <= 20 t/hora
+ C
+ 03 03 02 04
+ Tratamientos térmicos o termoquímicos del acero, como recocido, temple, revenido, cementación, austenización, recristalización o similares no especificados en los epígrafes 03 03 02 01 y 03 03 02 02, con P.t.n. >= 2,3 MWt
+ B
+ 03 03 26 01
+ a.e.a., con P.t.n. < 2,3 MWt
+ C
+ 03 03 26 02
+ Tratamientos térmicos o termoquímicos del hierro, como recocido, temple, revenido, cementación, austenización, recristalización o similares no especificados en los epígrafes 03 03 02 01 y 03 03 02 02, con P.t.n. >= 2,3 MWt
+ B
+ 03 03 26 03
+ a.e.a., con P.t.n. < 2,3 MWt
+ C
+ 03 03 26 04
+ Fundición de acero con capacidad de fusión > 2,5 t/hora
+ A
+ 03 03 03 01
+ a.e.a., con <= 2,5 t/hora
+ B
+ 03 03 03 02
+ Fundición de metales ferrosos con capacidad de fusión > 20 t/día
+ A
+ 03 03 03 04
+ a.e.a., con <= 20 t/día
+ B
+ 03 03 03 05
+ Tratamiento (regeneración térmica) de arenas de fundición u otros materiales similares procedentes de la instalaciones de fundición
+ B
+ 03 03 03 07
+ Forja con martillos cuando la potencia térmica utilizada sea > 20 MWt
+ A
+ 03 03 26 05
+ Forja con martillos cuando la potencia térmica utilizada sea <= 20 MWt
+ B
+ 03 03 26 06
+ Producción de plomo primario
+ A
+ 03 03 04 00
+ Producción de zinc primario
+ A
+ 03 03 05 00
+ Producción de cobre primario
+ A
+ 03 03 06 00
+ Producción primaria de otros metales no especificados en otros epígrafes, tales como el cromo, cadmio, antimonio, manganeso, estaño, mercurio u otros
+ A
+ 03 03 26 08
+ Producción de plomo secundario con capacidad de fusión > 4 t/día
+ A
+ 03 03 07 01
+ a.e.a., con capacidad de fusión <= 4 t/día
+ B
+ 03 03 07 02
+ Refundición de plomo (a partir de lingotes o similares)
+ B
+ 03 03 07 03
+ Producción de zinc secundario con capacidad de fusión > 20 t/día
+ A
+ 03 03 08 01
+ a.e.a., con capacidad de fusión <= 20 t/día
+ B
+ 03 03 08 02
+ Refundición de zinc (a partir de lingotes o similares)
+ B
+ 03 03 08 03
+ Producción de cobre secundario con capacidad de fusión > 20 t/día
+ A
+ 03 03 09 01
+ a.e.a., con capacidad de fusión <= 20 t/día
+ B
+ 03 03 09 02
+ Refundición de cobre (a partir de lingotes o similares)
+ B
+ 03 03 09 03
+ Producción de aluminio secundario con capacidad de fusión > 20 t/día
+ A
+ 03 03 10 01
+ a.e.a., con capacidad de fusión <= 20 t/día
+ B
+ 03 03 10 02
+ Refundición de aluminio o zamak (a partir de lingotes o similares)
+ B
+ 03 03 10 03
+ Producción secundaria de otros metales no especificados en otros epígrafes, tales como el cromo, cadmio, antimonio, manganeso, estaño, mercurio u otros (capacidad de fusión > 4 t/día)
+ A
+ 03 03 26 10
+ a.e.a., (capacidad de fusión <= 4 t/día)
+ B
+ 03 03 26 11
+ Refundición de otros metales no especificados en otros epígrafes , tales como el cromo, cadmio, antimonio, manganeso, estaño, mercurio u otros (a partir de lingotes o similares)
+ B
+ 03 03 26 14
+ Producción de alúmina
+ A
+ 03 03 22 00
+ Producción de magnesio (tratamiento de dolomita)
+ A
+ 03 03 23 00
+ Producción de níquel (proceso térmico)
+ A
+ 03 03 24 00
+ Horno de clínker para la fabricación de cemento
+ A
+ 03 03 11 00
+ Horno de cal (para producción de cal o producción o uso en cualquier sector como hierro, acero, pasta de papel o demás ) con c.p. > 50 t/día
+ A
+ 03 03 12 01
+ a.e.a. con c.p. <= 50 t/día
+ B
+ 03 03 12 02
+ Producción de mezclas bituminosas o conglomerados asfálticos
+ B
+ 03 03 13 00
+ Producción de vidrio plano (equipos con capacidad de fusión > 20 t/día)
+ A
+ 03 03 14 01
+ a.e.a., (equipos con capacidad de fusión <= 20 t/día)
+ B
+ 03 03 14 02
+ Producción de vidrio hueco (equipos con capacidad de fusión > 20 t/día)
+ A
+ 03 03 15 01
+ a.e.a., (equipos con capacidad de fusión <= 20 t/día)
+ B
+ 03 03 15 02
+ Producción de lana de vidrio (equipos con capacidad de fusión > 20 t/día)
+ A
+ 03 03 16 01
+ a.e.a., (equipos con capacidad de fusión <= 20 t/día)
+ B
+ 03 03 16 02
+ Producción de otros vidrios no especificados en otros epígrafes con equipos con capacidad de fusión > 20 t/día
+ A
+ 03 03 17 01
+ a.e.a., ( equipos con capacidad de fusión <= 20 t/día)
+ B
+ 03 03 17 02
+ Fabricación de fritas
+ A
+ 03 03 17 03
+ Producción de lana de roca, fibras u otros materiales minerales no especificados en otros epígrafes (equipos con capacidad de fusión => 20 t/día)
+ A
+ 03 03 18 01
+ a.e.a., (equipos con capacidad de fusión < 20 t/día)
+ B
+ 03 03 18 02
+ Producción de ladrillos, tejas u otros materiales de construcción asimilables no especificados en otros epígrafes con c.p. => 75 t/día
+ A
+ 03 03 19 01
+ a.e.a., con c.p. < 75 t/día y => 25 t/día o => 10 t/día en el caso de utilizar hornos que empleen combustibles sólidos o líquidos
+ B
+ 03 03 19 02
+ Producción de ladrillos, tejas u otros materiales de construcción asimilables no especificados en otros epígrafes con independencia del tipo de combustible empleado
+ C
+ 03 03 19 03
+ Producción de materiales de cerámica fina, azulejos, baldosas, porcelana, loza, cerámica sanitaria o similares
+ B
+ 03 03 20 02
+ Producción de cerámica artística o alfarería en hornos que emplean combustibles sólidos o líquidos, con c.p. => 100 t/año
+ B
+ 03 03 20 06
+ a.e.a., en hornos que emplean combustibles gaseosos, con c.p. => 100 t/año
+ C
+ 03 03 20 07
+ Producción de cerámica artística o alfarería en hornos con independencia del tipo de combustible empleado con c.p. < 100 t/año
+ –
+ 03 03 20 08
+ Procesos de secado en la industria papelera
+ C
+ 03 03 21 00
+ Producción de pigmentos o colores cerámicos
+ A
+ 03 03 25 01
+ Producción de esmaltes
+ B
+ 03 03 25 02
+ Hornos de contacto directo para calcinación en la fabricación de magnesita
+ A
+ 03 03 26 20
+ Atomizadores (industria cerámica o similares) de P.t.n >= 1 MWt
+ A
+ 03 03 26 22
+ a.e.a., de P.t.n. < 1 MWt
+ B
+ 03 03 26 23
+ Equipos de combustión de contacto directo en la industria alimentaria en secaderos o instalaciones de ahumado, esterilización, u operaciones similares de P.t.n => 20 MWt
+ B
+ 03 03 26 31
+ a.e.a., de P.t.n. => 2,3 MWt y < 20 MWt
+ C(2)
+ 03 03 26 32
+ a.e.a., de P.t.n. < 2,3 MWt
+ -(2)
+ 03 03 26 33
+ Equipos de secado, granulado o similares o de aplicación de calor por contacto directo con gases de combustión, no especificados en otros epígrafes, de potencia térmica nominal => 20 MWt
+ A
+ 03 03 26 34
+ a.e.a., de P.t.n. => 2,3 MWt y < 20 MWt
+ B(2)
+ 03 03 26 35
+ a.e.a., de P.t.n. => 70 kWt y < 2,3 MWt
+ C(2)
+ 03 03 26 36
+ a.e.a., de P.t.n. < 70 kWt
+ -(2)
+ 03 03 26 37
+ PROCESOS INDUSTRIALES SIN COMBUSTIÓN
+ 
+ 04
+ REFINO DE PETRÓLEO
+ 
+ 04 01
+ Procesamiento de productos petrolíferos: emisiones por focos canalizados (continuos o discontinuos) derivadas de eyectores, lavadores, strippers u otros equipos similares no contemplados bajo el resto de epígrafes 04 01
+ B
+ 04 01 01 00
+ Cracking catalítico fluido-horno de CO
+ A
+ 04 01 02 00
+ Plantas de recuperación de azufre
+ A
+ 04 01 03 00
+ Almacenamiento de productos petrolíferos en refinerías
+ B
+ 04 01 04 01
+ Manipulación de productos petrolíferos en refinerías. Emisiones fugitivas derivadas de dispositivos tales como válvulas, bombas, instrumentación, bridas, sellos o elementos similares
+ B
+ 04 01 04 02
+ Manipulación de materiales pulverulentos en refinerías como pueden ser el coque de petróleo o el azufre
+ B
+ 04 01 05 00
+ INDUSTRIA DEL HIERRO Y EL ACERO Y EN LAS COQUERÍAS
+ 
+ 04 02
+ Apertura (carga/descarga) o extinción de los hornos de coque
+ A
+ 04 02 01 00
+ Carga de Hornos Altos
+ A
+ 04 02 02 00
+ Coladas de arrabio
+ A
+ 04 02 03 00
+ Tratamiento de escorias siderúrgicas
+ A
+ 04 02 10 01
+ Tratamiento de gas de coque o de alto horno
+ A
+ 04 02 10 02
+ Producción de semicoque sólido
+ A
+ 04 02 04 00
+ Hornos de solera de las acerías
+ A
+ 04 02 05 00
+ Hornos de oxígeno básico de las acerías (convertidores)
+ A
+ 04 02 06 00
+ Unidades de afino (ajuste de propiedades del acero) en acerías
+ B
+ 04 02 10 03
+ Hornos eléctricos de las acerías (c.p. > 2,5 t/hora)
+ A
+ 04 02 07 01
+ a.e.a., (c.p. <= 2,5 t/hora)
+ B
+ 04 02 07 02
+ Hornos eléctricos (incluidos los hornos de inducción) en fundiciones férreas (capacidad de fusión >= 5 t/dia)
+ B
+ 04 02 07 03
+ a.e.a.,(capacidad de fusión < 5 t/dia)
+ C
+ 04 02 07 04
+ Tratamientos químicos o electrolíticos del acero que supongan el empleo o intervención de sustancias auxiliares (no especificados en los epígrafes 06 02) como pueden ser el decapado químico, pasivado, electropulido, fosfatado o procedimientos similares
+ B
+ 04 02 10 05
+ Galvanización (procesos en contínuo)
+ B
+ 04 03 07 08
+ Galvanización (procesos no continuos: lotes, cestas, etc)
+ B
+ 04 03 07 11
+ Electrorrecubrimiento (procesos en contínuo)
+ B
+ 04 03 08 08
+ Electrorrecubrimiento (procesos no continuos: lotes, cestas, etc)
+ B
+ 04 03 08 11
+ Tratamientos físicos o mecánicos del hierro o el acero (superficiales o no) caracterizados por la acción mecánica sobre el metal tales como el descascarillado, granallado, chorreado con abrasivos, esmerilado, pulido, decapado físico o mecánico, laminación en frío, extrusión, trefilado, machería, así como otras operaciones similares en talleres industriales para calderería, el oxicorte o la soldadura de piezas de hierro o acero.
+ C
+ 04 02 08 03
+ Plantas de sinterización o peletización (actividades no contempladas en 03 03 01 00, descarbonatación)
+ –
+ 04 02 09 00
+ Almacenamiento u operaciones de manipulación, mezclado, separación, clasificación, transporte o reducción de tamaño de materiales sólidos pulverulentos en la industria del hierro, del acero, coquerías, instalaciones industriales, puertos o centros logísticos, con capacidad de manipulación de estos materiales >= 500 t/día
+ B(2)
+ 04 02 10 50
+ a.e.a., con capacidad de manipulación de estos materiales >= 100 t/ día y < 500 t/día
+ C(2)
+ 04 02 10 51
+ a.e.a., con capacidad de manipulación de estos materiales < 100 t/día
+ -(2)
+ 04 02 10 52
+ INDUSTRIA DE METALES NO FÉRREOS
+ 
+ 04 03
+ Otros procesos diferentes a 03 02 05 01, 03 03 10 01 y 03 03 10 02 en la producción de aluminio como la electrólisis
+ A
+ 04 03 01 00
+ Otros procesos diferentes al 03 03 04 00 en la producción de plomo primario
+ B
+ 04 03 10 01
+ Otros procesos diferentes al 03 03 05 00 en la producción de zinc primario
+ B
+ 04 03 10 02
+ Otros procesos diferentes al 03 03 06 00 en la producción de cobre primario
+ B
+ 04 03 10 03
+ Otros procesos diferentes al 03 03 07 00 en la producción de plomo secundario, incluida refundición a partir de lingotes o similares
+ B
+ 04 03 10 04
+ Otros procesos diferentes al 03 03 08 00 en la producción de zinc secundario, incluida refundición a partir de lingotes o similares
+ B
+ 04 03 10 05
+ Otros procesos diferentes al 03 03 09 00 en la producción de cobre secundario, incluida refundición a partir de lingotes o similares (capacidad de fusión >= 5 t/dia)
+ B
+ 04 03 10 06
+ a.e.a., (capacidad de fusión < 5 t/dia)
+ C
+ 04 03 10 07
+ Otros procesos diferentes al 03 03 26 10, 03 03 26 11 y 03 03 26 14 en la producción de metales no férreos, incluida refundición a partir de lingotes o similares (capacidad de fusión >= 5 t/dia)
+ B
+ 04 03 10 08
+ a.e.a., (capacidad de fusión < 5 t/dia)
+ C
+ 04 03 10 09
+ Inyectoras de fundición de aluminio o zamak
+ C
+ 04 03 10 10
+ Ferroaleaciones con horno de capacidad > 20 t/día
+ A
+ 04 03 02 01
+ a.e.a., de capacidad <= 20 t/día
+ B
+ 04 03 02 02
+ Producción de silicio. Grado metalúrgico
+ A
+ 04 03 03 01
+ Producción de silicio. Grado Solar-Polisilicio a partir de silicio metalúrgico
+ C
+ 04 03 03 02
+ Producción de magnesio (excepto 03 03 23 00)
+ A
+ 04 03 04 00
+ Producción de níquel (excepto proceso térmico en 03 03 24 00)
+ B
+ 04 03 05 00
+ Producción de aleaciones no férreas con horno de capacidad > 20 t/ dia (4 t/dia en el caso de aleaciones con plomo o cadmio)
+ A
+ 04 03 06 01
+ Producción de aleaciones no férreas con capacidad <= 20 t/dia (4 t/dia en el caso de aleaciones con plomo o cadmio)
+ B
+ 04 03 06 02
+ Galvanización (procesos en contínuo)
+ B
+ 04 03 07 02
+ Galvanización (procesos no continuos: lotes, cestas, etc)
+ B
+ 04 03 07 05
+ Electrorrecubrimiento (procesos en contínuo)
+ B
+ 04 03 08 02
+ Electrorrecubrimiento (procesos no continuos: lotes, cestas, etc)
+ B
+ 04 03 08 05
+ Tratamientos químicos o electrolíticos de metales no férreos que supongan el empleo o intervención de sustancias auxiliares (no especificados en los epígrafes 04 03 07, 04 03 08 y 06 02) como pueden ser el decapado químico, pasivado, fosfatado o procedimientos similares
+ B
+ 04 03 09 01
+ Tratamientos físicos o mecánicos de metales no férreos en frío (superficiales o no) caracterizados por la acción mecánica sobre el metal tales como el granallado, chorreado con abrasivos, pulido, laminación en frío, extrusión, trefilado, así como otras operaciones similares en talleres industriales para calderería, el oxicorte o la soldadura de piezas de metales no férreos
+ C
+ 04 03 09 02
+ Tratamientos físicos o mecánicos en caliente de metales no férreos tales como la forja, la estampación o la extrusión en caliente
+ B
+ 04 03 09 03
+ Almacenamiento u operaciones de manipulación, mezclado, separación, clasificación, transporte o reducción de tamaño de materiales sólidos pulverulentos en la industria de metales no férreos, en instalaciones industriales, puertos o centros logísticos, con capacidad de manipulación de estos materiales >= 500 t/día
+ B(2)
+ 04 03 09 50
+ a.e.a., con capacidad de manipulación de estos materiales >= 100 t/ día y < 500 t/día
+ C(2)
+ 04 03 09 51
+ a.e.a., con capacidad de manipulación de estos materiales < 100 t/día
+ -(2)
+ 04 03 09 52
+ INDUSTRIA QUÍMICA INORGÁNICA
+ 
+ 04 04
+ Producción de ácido sulfúrico u óxidos de azufre
+ A
+ 04 04 01 00
+ Producción de ácido nítrico
+ A
+ 04 04 02 00
+ Producción de amoniaco. Reformador primario
+ B
+ 04 04 03 01
+ Producción de amoniaco. Venteo de CO2
+ C
+ 04 04 03 02
+ Producción de sulfato amónico
+ A
+ 04 04 04 00
+ Producción de nitrato amónico
+ A
+ 04 04 05 00
+ Producción de fosfato amónico
+ A
+ 04 04 06 00
+ Producción de fertilizantes NPK
+ A
+ 04 04 07 00
+ Producción de urea
+ A
+ 04 04 08 00
+ Producción de negro de humo
+ A
+ 04 04 09 00
+ Producción de dióxido de titanio
+ A
+ 04 04 10 00
+ Producción de grafito o electrodos de grafito
+ A
+ 04 04 11 00
+ Producción de carburo cálcico
+ C
+ 04 04 12 00
+ Producción de cloro-HCl. Producción de sosa o potasa
+ A
+ 04 04 13 00
+ Producción de fertilizantes fosfatados. Ácido fosfórico o superfosfatos.
+ A
+ 04 04 14 01
+ Emisiones de contaminantes a través de las torres de refrigeración del proceso de fabricación de ácido fosfórico
+ C
+ 04 04 14 02
+ Producción de flúor, otros halógenos no especificados en otros epígrafes o derivados
+ A
+ 04 04 16 01
+ Producción de sales de metales como el cloruro férrico o el sulfato de aluminio
+ B
+ 04 04 16 02
+ Producción de hidratos/hidróxidos u óxidos de metales
+ B
+ 04 04 16 03
+ Producción de N2O
+ C
+ 04 04 16 04
+ Producción, formulación, mezcla, reformulación, envasado o procesos similares de productos químicos inorgánicos líquidos o gaseosos no especificados anteriormente con capacidad >= 10.000 t/año
+ A
+ 04 04 16 05
+ a.e.a., no especificados anteriormente con capacidad >= 1.000 t/año y < 10.000 t/año
+ B(2)
+ 04 04 16 06
+ a.e.a., no especificados anteriormente con capacidad >= 100 t/año y < 1.000 t/año
+ C(2)
+ 04 04 16 07
+ a.e.a., no especificados anteriormente con capacidad < 100 t/año
+ -(2)
+ 04 04 16 08
+ Almacenamiento de productos químicos inorgánicos líquidos o gaseosos con capacidad >= 100 m3
+ C(2)
+ 04 04 15 01
+ a.e.a., con capacidad < 100 m3
+ –
+ 04 04 15 02
+ Almacenamiento u operaciones de manipulación, mezclado, separación, clasificación, transporte o reducción de tamaño de productos químicos inorgánicos sólidos a granel en instalaciones industriales, puertos o centros logísticos, con capacidad de manipulación de estos materiales >= 500 t/día
+ B(2)
+ 04 04 16 50
+ a.e.a., con capacidad de manipulación de estos materiales >= 100 t/ día y < 500 t/día
+ C(2)
+ 04 04 16 51
+ a.e.a., con capacidad de manipulación de estos materiales < 100 t/día
+ -(2)
+ 04 04 16 52
+ INDUSTRIA QUÍMICA ORGÁNICA
+ 
+ 04 05
+ Producción de etileno
+ A
+ 04 05 01 00
+ Producción de propileno
+ A
+ 04 05 02 00
+ Producción de 1,2 dicloroetano (excepto 04 05 05 00)
+ A
+ 04 05 03 00
+ Producción de cloruro de vinilo (excepto 04 05 05 00)
+ A
+ 04 05 04 00
+ Producción de 1,2 dicloroetano+Cloruro de vinilo (proceso equilibrado)
+ A
+ 04 05 05 00
+ Producción de polietileno de baja densidad
+ B
+ 04 05 06 00
+ Producción de polietileno de alta densidad
+ B
+ 04 05 07 00
+ Producción de cloruro de polivinilo (PVC) o copolímeros
+ B
+ 04 05 08 00
+ Producción de polipropileno
+ B
+ 04 05 09 00
+ Producción de estireno
+ A
+ 04 05 10 00
+ Producción de poliestireno
+ B
+ 04 05 11 00
+ Producción de estireno-butadieno
+ A
+ 04 05 12 00
+ Producción de látex de estireno-butadieno
+ B
+ 04 05 13 00
+ Producción de caucho de estireno-butadieno (SBR-PB)
+ B
+ 04 05 14 00
+ Producción de resinas de acrilonitrilo-butadieno-estireno (ABS o SAN)
+ B
+ 04 05 15 00
+ Producción de resinas de urea o melamina
+ B
+ 04 05 27 01
+ Producción de viscosa u otras fibras sintéticas o de base celulósica
+ A
+ 04 05 27 02
+ Producción de nylon, caprolactama u otros productos intermedios en la fabricación textil
+ B
+ 04 05 27 03
+ Producción de óxido de etileno
+ A
+ 04 05 16 00
+ Producción de formaldehido
+ B
+ 04 05 17 00
+ Producción de etilbenceno
+ A
+ 04 05 18 00
+ Producción de anhídrido/ácido ftálico
+ A
+ 04 05 19 00
+ Producción de polietilen tereftalato (PET)
+ A
+ 04 05 27 04
+ Producción de acrilonitrilo
+ A
+ 04 05 20 00
+ Producción de ácido adípico (incluyendo almacenamiento o manipulación de productos)
+ C
+ 04 05 21 00
+ Producción de ácido/anhídrido maléico, fumárico o acético
+ B
+ 04 05 27 05
+ Producción de ácido glioxílico
+ B
+ 04 05 23 00
+ Producción de pesticidas, fitosanitarios o biocidas (materias activas)
+ A
+ 04 05 25 01
+ Producción de pesticidas, fitosanitarios o biocidas (formulaciones)
+ B
+ 04 05 25 02
+ Producción o generación no intencionada de compuestos orgánicos persistentes no considerados dentro del 04 05 25 en la fabricación o producción de otros compuestos químicos
+ A
+ 04 05 26 00
+ Producción, formulación, mezcla, reformulación, envasado o procesos similares de productos químicos orgánicos líquidos o gaseosos no especificados anteriormente con capacidad >= 10.000 t/año
+ A
+ 04 05 22 05
+ a.e.a., no especificados anteriormente con capacidad >= 1.000 t/año y < 10.000 t/año
+ B(2)
+ 04 05 22 06
+ a.e.a., no especificados anteriormente con capacidad >= 100 t/año y < 1.000 t/año
+ C(2)
+ 04 05 22 07
+ a.e.a., no especificados anteriormente con capacidad < 100 t/año
+ -(2)
+ 04 05 22 08
+ Almacenamiento de productos químicos orgánicos líquidos o gaseosos con capacidad >= 100 m3
+ C(2)
+ 04 05 22 03
+ a.e.a., con capacidad < 100 m3
+ –
+ 04 05 22 04
+ Emisiones fugitivas derivadas de la manipulación de productos o materias primas en industrias de química orgánica en dispositivos tales como válvulas, bombas, instrumentación, bridas, sellos o elementos similares
+ C
+ 04 05 27 12
+ Almacenamiento u operaciones de manipulación, mezclado, separación, clasificación, transporte o reducción de tamaño de productos químicos orgánicos sólidos a granel en instalaciones industriales, puertos o centros logísticos, con capacidad de manipulación de estos materiales >= 500 t/día
+ B(2)
+ 04 05 27 50
+ a.e.a., con capacidad de manipulación de estos materiales >= 100 t/ día y < 500 t/día
+ C(2)
+ 04 05 27 51
+ a.e.a., con capacidad de manipulación de estos materiales < 100 t/día
+ -(2)
+ 04 05 27 52
+ MINERIA NO ENERGÉTICA Y PROCESOS EN INDUSTRIAS VARIAS
+ 
+ 04 06
+ INDUSTRIA DEL PAPEL, CARTÓN Y PASTA DE PAPEL
+ Producción de cartón (c.p. > 20 t/día)
+ A
+ 04 06 01 01
+ a.e.a., (c.p. <= 20 t/día)
+ B
+ 04 06 01 02
+ Producción de pasta de papel Kraft (c.p. > 20 t/día), (excluida fabricación de cal)
+ A
+ 04 06 02 01
+ a.e.a., (c.p. <= 20 t/día), (excluida fabricación de cal)
+ B
+ 04 06 02 02
+ Producción de pasta de papel o celulosa. Proceso bisulfito (c.p. > 20 t/día), (excluida fabricación de cal)
+ A
+ 04 06 03 01
+ a.e.a., (c.p. <= 20 t/día), (excluida fabricación de cal)
+ B
+ 04 06 03 02
+ Producción de pasta de papel. Proceso semi-químico sulfito neutro (c.p. > 20 t/día), (excluida fabricación de cal)
+ A
+ 04 06 04 01
+ a.e.a., (c.p. <= 20 t/día), (excluida fabricación de cal)
+ B
+ 04 06 04 02
+ INDUSTRIA DE LA TRANSFORMACIÓN DE LA MADERA
+ Producción de tablero aglomerado
+ B
+ 04 06 17 01
+ Aserrado o despiece de madera o corcho
+ C
+ 04 06 17 02
+ INDUSTRIA ALIMENTARIA
+ Hornos de pan, masas diversas o galletas con c.p. >= 10.000 t/año
+ B
+ 04 06 05 01
+ Hornos de pan, masas diversas o galletas con c.p. < 10.000 t/año
+ –
+ 04 06 05 03
+ Fabricación de piensos o harinas de origen animal
+ A
+ 04 06 05 04
+ Fabricación de piensos o harinas de origen vegetal
+ B
+ 04 06 05 08
+ Azucareras
+ B
+ 04 06 05 11
+ Producción de leche en polvo
+ B
+ 04 06 05 14
+ Tostación o torrefacción del café o similares
+ C(2)
+ 04 06 05 16
+ Obtención de aceites, grasas o derivados de origen vegetal
+ C(2)
+ 04 06 05 18
+ Obtención de aceites, grasas o derivados de origen animal
+ B
+ 04 06 05 20
+ Mataderos con capacidad >= 1.000 t/año. Procesado de productos de origen animal con capacidad >= 4.000 t/año
+ B
+ 04 06 17 03
+ Mataderos con capacidad < 1.000 t/año. Procesado de productos de origen animal con capacidad < 4.000 t/año
+ –
+ 04 06 17 04
+ Producción, molienda, mezcla o manipulación de productos alimentarios pulverulentos a granel no especificados en otros epígrafes para consumo humano o animal con c.p. >= 3.000 t/año
+ B(2)
+ 04 06 17 05
+ a.e.a., con c.p. < 3.000 t/año y >= 400 t/año
+ C(2)
+ 04 06 17 06
+ a.e.a., con c.p. < 400 t/año
+ -(2)
+ 04 06 17 07
+ INDUSTRIA DE BEBIDAS ALCOHÓLICAS
+ Producción de vino (c.p. > 50.000 l/año)
+ C
+ 04 06 06 01
+ a.e.a., (c.p. <= 50.000 l/año)
+ –
+ 04 06 06 02
+ Producción de cervezas o maltas (c.p. de cervezas o maltas > 300 t/día (como valor medio trimestral)
+ B
+ 04 06 07 01
+ a.e.a., (c.p. de cervezas o maltas <= 300 t/día y >10 t/día (como valor medio trimestral)
+ C
+ 04 06 07 02
+ a.e.a., (c.p. de cervezas o maltas <10 t/día (como valor medio trimestral)
+ –
+ 04 06 07 03
+ Producción de licores (c.p. de alcohol absoluto > 500 l/día)
+ B
+ 04 06 08 01
+ a.e.a., (c.p. de alcohol absoluto > =100 l/día y <= 500 l/día)
+ C
+ 04 06 08 02
+ a.e.a., (c.p. de alcohol absoluto < 100 l/día)
+ –
+ 04 06 08 03
+ PRODUCCIÓN DE BIOCOMBUSTIBLES
+ Producción de bioetanol u otros productos de fermentaciones de origen orgánico
+ B
+ 04 06 17 08
+ Producción de biodiesel
+ B
+ 04 06 17 09
+ INDUSTRIA Y USO DE MATERIAS MINERALES
+ Producción de elementos para la impermeabilización de tejados con materiales asfálticos
+ C
+ 04 06 10 00
+ Pavimentación de carreteras con aglomerados asfálticos
+ –
+ 04 06 11 00
+ Cemento (descarbonatación)
+ –
+ 04 06 12 01
+ Cemento. Emisiones procedentes del enfriador de clínker
+ A
+ 04 06 12 02
+ Molienda en instalaciones de producción de cemento o clínker (moliendas de crudo, moliendas de carbón o moliendas de clínker) con c.p. > 200 t/día
+ A
+ 04 06 12 03
+ a.e.a., con c.p. <= 200 t/día
+ B
+ 04 06 12 04
+ Fabricación de prefabricados de cemento, fibrocemento, suelo-cemento o similares
+ C(2)
+ 04 06 12 05
+ Plantas de hormigón
+ B
+ 04 06 12 06
+ Vidrio (descarbonatación)
+ –
+ 04 06 13 00
+ Cal (descarbonatación) (incluyendo las industrias del hierro, el acero o pasta de papel – carbonatos no biogénicos-)
+ –
+ 04 06 14 00
+ Ladrillos o tejas (descarbonatación)
+ –
+ 04 06 17 10
+ Sector cerámico (descarbonatación)
+ –
+ 04 06 17 11
+ OTRA INDUSTRIA DIVERSA
+ Producción de baterías o acumuladores
+ B
+ 04 06 15 00
+ Fabricación de paneles fotovoltaicos de capa fina
+ C
+ 04 06 17 12
+ Soldadura por ola u otros tipos de soldadura industrial no especificados en otros epígrafes
+ –
+ 04 06 17 13
+ Producción de plásticos por extrusión, laminación u operaciones similares (diferentes al 06 03 15)
+ C
+ 04 06 17 14
+ Producción de explosivos
+ B
+ 04 06 17 15
+ Uso de piedra caliza o dolomita (descarbonatación)
+ C
+ 04 06 18 00
+ Producción o uso de carbonato/bicarbonato sódico (diferentes al 03 03 12)
+ C
+ 04 06 19 00
+ Almacenamiento u operaciones de manipulación, mezclado, separación, clasificación, transporte o reducción de tamaño de materiales pulverulentos en la industria de transformación de la madera, pasta de papel, alimentación, bebidas, industria mineral o resto de actividades diversas no especificadas en otros epígrafes en instalaciones industriales, puertos o centros logísticos, con capacidad de manipulación de estos materiales >= 1.000 t/día
+ B(2)
+ 04 06 17 50
+ a.e.a., con capacidad de manipulación de estos materiales >= 200 t/ día y < 1.000 t/día
+ C(2)
+ 04 06 17 51
+ a.e.a., con capacidad de manipulación de estos materiales < 200 t/día
+ -(2)
+ 04 06 17 52
+ Aplicaciones de pinturas o recubrimientos no basados en disolventes en la industria con c.p. >= 100 m2/hora
+ B
+ 04 06 17 16
+ a.e.a., con c.p. >= 20 m2/hora y < de 100 m2/hora
+ C
+ 04 06 17 17
+ a.e.a., con c.p. < 20 m2/hora
+ –
+ 04 06 17 18
+ MINERIA NO ENERGÉTICA Y LOGÍSTICA DE SUS PRODUCTOS
+ Actividades primarias de minería no energética que conlleven la extracción o tratamiento de productos minerales cuando la capacidad es > 200.000 t/año o para cualquier capacidad cuando la instalación se encuentre a menos de 500 m de un núcleo de población
+ B
+ 04 06 16 01
+ a.e.a., cuando la capacidad es <= 200.000 t/año siempre que la instalación no se encuentre a menos de 500 m de un núcleo de población
+ C
+ 04 06 16 02
+ Actividades logísticas o de distribución de productos mineros como el almacenamiento, la manipulación o el transporte de estos productos mineros pulverulentos no energéticos incluidas las desarrolladas en puertos o centros logísticos de materias primas o productos, con capacidad de manipulación de estos materiales >= 1.000 t/día
+ B(2)
+ 04 06 16 50
+ a.e.a., con capacidad de manipulación de estos materiales >= 200 t/ día y < 1.000 t/día
+ C(2)
+ 04 06 16 51
+ a.e.a., con capacidad de manipulación de estos materiales < 200 t/día
+ -(2)
+ 04 06 16 52
+ HALOCARBUROS Y HEXAFLUORURO DE AZUFRE
+ 
+ 04 08
+ Producción de subproductos de hidrocarburos halogenados
+ A
+ 04 08 01 00
+ En aquellas actividades en las que se generen como subproductos gases fluorados se tomarán todas las medidas necesarias para limitar las emisiones de estos gases.
+ A partir del 11 de junio de 2015 se prohíben las emisiones de HFC-23 como subproducto que deberá ser recuperado o destruido conforme a las mejores tecnologías disponibles con independencia del destino donde se comercialicen los gases fluorados producidos.
+ Producción de hidrocarburos halogenados y emisiones fugitivas de su producción
+ A
+ 04 08 02 00
+ De manera general, queda prohibido el venteo y emisión directa a la atmósfera de todo fluido de GWP mayor que 150 o PAO mayor de 0,001 no permitiéndose diluciones para rebajar dicho valor. Se deberá disponer de sistemas de control de fugas automáticos y se realizarán controles periódicos de fugas complementarios debiéndose reparar a la mayor brevedad toda fuga detectada.
+ Manipulación, almacenamiento o utilización en procesos no especificados en otros epígrafes de hidrocarburos halogenados
+ A
+ 04 08 03 00
+ Los productores de compuestos fluorados tomarán todas las medidas necesarias para limitar las emisiones de gases fluorados de efecto invernadero generados como subproducto.
+ Se deberá disponer de sistemas de control de fugas automáticos y se realizarán controles periódicos de fugas complementarios en los sistemas de trasiego y almacenamiento de gases fluorados, debiéndose reparar a la mayor brevedad toda fuga detectada.
+ En los procesos de llenado y trasvase de contenedores de dichos gases, se emplearán sistemas que minimicen las emisiones debiéndose recuperar los fluidos remanentes en todo contenedor que vaya a ser retirado o no vaya a ser llenado con el mismo tipo de fluido de manera que no quede más del 0,5% en peso del contenido máximo del recipiente para el fluido en cuestión.
+ Producción de subproductos de hexafluoruro de azufre
+ A
+ 04 08 04 00
+ Los subproductos como SF4, SF2, S2F2, S2F10, formados en el proceso de producción de SF6, así como el propio SF6 contenidos en fluidos residuales que vayan a ser emitidos a la atmósfera, deberán ser recuperados o destruidos de la corriente de fluido residual antes de su emisión.
+ Producción de hexafluoruro de azufre y emisiones fugitivas de su producción
+ A
+ 04 08 05 00
+ Serán de aplicación los requisitos establecidos para el 04 08 02 00
+ Manipulación, almacenamiento o utilización en procesos no especificados en otros epígrafes de hexafluoruro de azufre
+ A
+ 04 08 06 00
+ Serán de aplicación los requisitos establecidos para el 04 08 03 00
+ EXTRACCIÓN Y DISTRIBUCIÓN DE COMBUSTIBLES FÓSILES Y ENERGÍA GEOTÉRMICA
+ 
+ 05
+ EXTRACCIÓN Y PRIMER TRATAMIENTO DE COMBUSTIBLES FÓSILES SÓLIDOS
+ 
+ 05 01
+ Minería a cielo abierto
+ B
+ 05 01 01 00
+ Minería subterránea
+ B
+ 05 01 02 00
+ Almacenamiento u operaciones de manipulación, mezclado, separación, clasificación, transporte o reducción de tamaño de materiales sólidos pulverulentos en parques de carbón o coque, en instalaciones industriales, puertos o centros logísticos
+ B
+ 05 01 03 00
+ EXTRACCIÓN, PRIMER TRATAMIENTO Y CARGA DE COMBUSTIBLES FÓSILES LÍQUIDOS
+ 
+ 05 02
+ Instalaciones en tierra
+ B
+ 05 02 01 00
+ Instalaciones marinas
+ B
+ 05 02 02 00
+ EXTRACCIÓN, PRIMER TRATAMIENTO Y CARGA DE COMBUSTIBLES FÓSILES GASEOSOS
+ 
+ 05 03
+ Desulfuración en instalaciones en tierra (acondicionamiento de gas)
+ A
+ 05 03 01 00
+ Actividades en instalaciones en tierra (distintas de la desulfuración)
+ B
+ 05 03 02 00
+ Actividades en instalaciones marinas
+ B
+ 05 03 03 00
+ DISTRIBUCIÓN DE COMBUSTIBLES LÍQUIDOS (EXCEPTO DISTRIBUCIÓN DE GASOLINA)
+ 
+ 05 04
+ Terminales marítimas (manipulación o almacenamiento)
+ B
+ 05 04 01 00
+ Otras manipulaciones o almacenamientos (incluido transporte por tubería). Depósitos logísticos
+ B
+ 05 04 02 01
+ Estación de suministro de la refinería
+ B
+ 05 04 02 02
+ Estaciones de servicio (incluido repostaje de vehículos y suministro a la estación)
+ –
+ 05 04 02 03
+ DISTRIBUCIÓN DE GASOLINA
+ 
+ 05 05
+ Estación de suministro de la refinería
+ B
+ 05 05 01 00
+ Transporte o almacenamiento en depósitos logísticos
+ B
+ 05 05 02 01
+ Terminales marítimas (manipulación o almacenamiento)
+ B
+ 05 05 02 02
+ Estaciones de servicio (incluido repostaje de vehículos y suministro a la estación)
+ –
+ 05 05 03 00
+ REDES DE DISTRIBUCIÓN DE GAS
+ 
+ 05 06
+ Instalaciones asociadas al almacenamiento o conducción de gas (incluidas instalaciones de regasificación, compresión o licuefacción)
+ C
+ 05 06 01 01
+ Gasoductos (red de transporte primario o secundario)
+ C
+ 05 06 01 02
+ Redes de distribución
+ C
+ 05 06 03 00
+ EXTRACCIÓN DE ENERGÍA GEOTÉRMICA
+ –
+ 05 07
+ USO DE DISOLVENTES Y OTROS PRODUCTOS
+ 
+ 06
+ APLICACIÓN DE PINTURAS Y RECUBRIMIENTOS
+ 
+ 06 01
+ Recubrimiento de vehículos, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 01 01 01
+ a.e.a., con c.c.d. <= 200 t/año o de 150 kg/hora y > 0,5 t/año
+ C
+ 06 01 01 03
+ a.e.a., con c.c.d. <= 0,5 t/año
+ –
+ 06 01 01 04
+ Renovación del acabado de vehículos con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 01 02 01
+ a.e.a., con c.c.d. <= 200 t/año o de 150 kg/hora y > 0,5 t/año
+ –
+ 06 01 02 03
+ a.e.a., con c.c.d. <= 0,5 t/año
+ –
+ 06 01 02 04
+ Construcción y edificios (excepto 060107)
+ –
+ 06 01 03 00
+ Uso doméstico (excepto 060107)
+ –
+ 06 01 04 00
+ Recubrimiento de cables, bobinas o alambres en bobinas con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 01 05 01
+ a.e.a., con c.c.d. <= 200 t/año o de 150 kg/hora y > 25 t/año en el caso del recubrimiento de cables o bobinas o > 5 t/año en el caso del recubrimiento de alambres en bobinas
+ C
+ 06 01 05 03
+ Recubrimiento de cables o bobinas, con c.c.d. <= 25 t/año o recubrimiento de alambres en bobinas, con c.c.d. <= 5 t/año
+ –
+ 06 01 05 04
+ Recubrimientos en la construcción o reparación de elementos de gran tamaño (tales como barcos, aviones, ferrocarriles u otros) con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 01 06 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 5 t/año
+ C
+ 06 01 06 03
+ a.e.a., con c.c.d. <= 5 t/año
+ –
+ 06 01 06 04
+ Recubrimiento de madera, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 01 07 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 15 t/año
+ C
+ 06 01 07 03
+ a.e.a., con c.c.d. <= 15 t/año
+ –
+ 06 01 07 04
+ Aplicaciones de pinturas o recubrimientos en la industria no incluidas en epígrafes anteriores con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 01 08 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 5 t/año
+ C
+ 06 01 08 03
+ a.e.a., con c.c.d. <= 5 t/año
+ –
+ 06 01 08 04
+ Otras aplicaciones no industriales de pinturas o recubrimientos
+ –
+ 06 01 09 00
+ LIMPIEZA EN SECO, DESENGRASADO Y ELECTRÓNICA
+ 
+ 06 02
+ Limpieza de superficies metálicas (incluido el desengrasado), con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 02 01 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 2 (3) t/año
+ C
+ 06 02 01 03
+ a.e.a., con c.c.d. <= 2 (3) t/año
+ –
+ 06 02 01 04
+ Limpieza en seco
+ C
+ 06 02 02 00
+ Limpieza de superficies en las instalaciones de producción de componentes electrónicos con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 02 03 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 2 (3) toneladas al año
+ C
+ 06 02 03 03
+ a.e.a., con c.c.d. <= 2 (3) toneladas al año
+ –
+ 06 02 03 04
+ Otra limpieza de superficies en la industria, con consumo de > 200 t/año o de 150 kg/hora
+ A
+ 06 02 04 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 2 (3) t/año
+ C
+ 06 02 04 03
+ a.e.a., con c.c.d. <= 2 (3) t/año
+ –
+ 06 02 04 04
+ PROCESAMIENTO Y FABRICACIÓN DE PRODUCTOS
+ 
+ 06 03
+ Tratamiento industrial de poliéster. Producción de elementos de poliéster reforzado con fibra de vidrio
+ B
+ 06 03 01 00
+ Tratamiento industrial de cloruro de polivinilo
+ C
+ 06 03 02 00
+ Tratamiento industrial de poliuretano
+ C
+ 06 03 03 00
+ Tratamiento industrial de espuma de poliestireno
+ C
+ 06 03 04 00
+ Tratamiento o conversión de caucho, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 03 05 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 15 t/año
+ C
+ 06 03 05 03
+ a.e.a., con c.c.d. <= 15 t/año
+ –
+ 06 03 05 04
+ Producción de productos farmacéuticos, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 03 06 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 50 t/año
+ C
+ 06 03 06 03
+ a.e.a., con c.c.d. <= 50 t/año
+ –
+ 06 03 06 04
+ Producción de recubrimientos o barnices, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 03 07 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 100 t/año
+ C
+ 06 03 07 03
+ a.e.a., con c.c.d. <= 100 t/año
+ –
+ 06 03 07 04
+ Producción de tintas, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 03 08 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 100 t/año
+ C
+ 06 03 08 03
+ a.e.a., con c.c.d. <= 100 t/año
+ –
+ 06 03 08 04
+ Producción de colas, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 03 09 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 100 t/año
+ C
+ 06 03 09 03
+ a.e.a., con c.c.d. <= 100 t/año
+ –
+ 06 03 09 04
+ Soplado de asfalto
+ A
+ 06 03 10 00
+ Producción de adhesivos, cintas magnéticas, películas o fotografías, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 03 11 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 100 t/año
+ C
+ 06 03 11 03
+ a.e.a., con c.c.d. <= 100 t/año
+ –
+ 06 03 11 04
+ Procesos de acabado textil, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 03 12 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 5 t/año
+ C
+ 06 03 12 03
+ a.e.a., con c.c.d. <= 5 t/año
+ –
+ 06 03 12 04
+ Curtimiento o recubrimiento de cuero, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 03 13 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 10 t/año
+ C
+ 06 03 13 03
+ a.e.a., con c.c.d. <= 10 t/año
+ –
+ 06 03 13 04
+ Producción de calzado, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 03 14 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 5 t/año
+ C
+ 06 03 14 03
+ a.e.a., con c.c.d. <= 5 t/año
+ –
+ 06 03 14 04
+ Laminación de madera o plástico, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 03 15 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 5 t/año
+ C
+ 06 03 15 03
+ a.e.a., con c.c.d. <= 5 t/año
+ –
+ 06 03 15 04
+ OTRAS ACTIVIDADES EN LAS QUE SE USEN DISOLVENTES
+ 
+ 06 04
+ Revestimiento de lana de vidrio
+ –
+ 06 04 01 00
+ Revestimiento de lana de roca
+ –
+ 06 04 02 00
+ Imprentas: offset, rotograbado de publicaciones, otras unidades de rotograbado, flexografía, impresión serigráfica rotativa, laminado o barnizado con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 04 03 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 15 t/año en los casos de la impresión en offset, rotografía no de publicaciones, flexografía, impresión serigráfica rotativa, laminado o barnizado, > 25 t/año para el rotograbado de publicaciones y > 30 t/año para la impresión serigráfica rotativa sobre textil o en cartón/cartulina
+ C
+ 06 04 03 03
+ a.e.a., con c.c.d. <= 15 t/año en los casos de la impresión en offset, rotografía no de publicaciones flexografía, impresión serigráfica rotativa, laminado o barnizado, <= 25 t/año para el rotograbado de publicaciones y <= 30 t/año para la impresión serigráfica rotativa sobre textil o en cartón/cartulina
+ –
+ 06 04 03 04
+ Extracción de grasas animales o aceites vegetales (comestibles o no comestibles) o actividades de refinado de aceite vegetal, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 04 04 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 10 t/año
+ C
+ 06 04 04 03
+ a.e.a., con c.c.d. <= 10 t/año
+ –
+ 06 04 04 04
+ Aplicación de colas o adhesivos (recubrimiento con adhesivos), con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 04 05 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 5 t/año
+ C
+ 06 04 05 03
+ a.e.a., con c.c.d. <= 5 t/año
+ –
+ 06 04 05 04
+ Conservación de la madera, impregnación de fibras de madera, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 04 06 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 25 t/año
+ C
+ 06 04 06 03
+ a.e.a., con c.c.d. <= 25 t/año
+ –
+ 06 04 06 04
+ Tratamiento de subsellado o conservación de vehículos, con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 04 07 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 0,5 t/año
+ C
+ 06 04 07 03
+ a.e.a., con c.c.d. <= 0,5 t/año
+ –
+ 06 04 07 04
+ Uso doméstico de disolventes (salvo pintura)
+ –
+ 06 04 08 00
+ Desparafinado de vehículos
+ –
+ 06 04 09 00
+ Uso doméstico de productos farmacéuticos
+ –
+ 06 04 11 00
+ Otras actividades no contempladas en epígrafes anteriores con c.c.d. > 200 t/año o de 150 kg/hora
+ A
+ 06 04 12 01
+ a.e.a., con c.c.d. <= 200 t/año o a 150 kg/hora y > 5 t/año
+ C
+ 06 04 12 03
+ a.e.a., con c.c.d. <= 5 t/año
+ –
+ 06 04 12 04
+ USO DE CO2, N2O, HFC, PFC, SF6, NH3 Y OTROS HALOCARBUROS O GASES FLUORADOS, INCLUIDAS LAS SUSTANCIAS QUE AGOTAN LA CAPA DE OZONO
+ 
+ 06 05
+ Anestesia
+ –
+ 06 05 01 00
+ Equipos de refrigeración o aire acondicionado que utilizan hidrocarburos halogenados
+ –
+ 06 05 02 00
+ Equipos de refrigeración o aire acondicionado que utilizan productos distintos de los halocarburos
+ –
+ 06 05 03 00
+ Espumado de plásticos (excepto 06 03 04 00)
+ –
+ 06 05 04 00
+ Equipos de protección contra incendios
+ –
+ 06 05 05 00
+ Aerosoles
+ –
+ 06 05 06 00
+ Equipos eléctricos (excepto 06 02 03)
+ –
+ 06 05 07 00
+ Fumigación
+ –
+ 06 05 08 01
+ Otras actividades
+ –
+ 06 05 08 10
+ MEDIOS DE TRANSPORTE POR CARRETERA
+ 
+ 07
+ TURISMOS
+ –
+ 07 01
+ Turismos con motores de encendido por compresión (anteriores a norma Euro V)
+ –
+ 07 01 00 01
+ Turismos con motores de encendido por compresión (norma Euro V y posteriores)
+ –
+ 07 01 00 02
+ Turismos con motores de encendido por chispa (anteriores a norma Euro II)
+ –
+ 07 01 00 03
+ Turismos con motores de encendido por chispa (norma Euro II y posteriores)
+ –
+ 07 01 00 04
+ Turismos eléctricos
+ –
+ 07 01 00 06
+ VEHÍCULOS LIGEROS < 3,5 t
+ –
+ 07 02
+ VEHÍCULOS PESADOS > 3,5 t Y AUTOBUSES
+ –
+ 07 03
+ MOTOCICLETAS Y CICLOMOTORES < 50 cm3
+ –
+ 07 04
+ MOTOS > 50 cm3
+ –
+ 07 05
+ EVAPORACIÓN DE GASOLINA DE LOS VEHÍCULOS
+ –
+ 07 06
+ DESGASTE DE NEUMÁTICOS Y FRENOS
+ –
+ 07 07
+ ABRASIÓN DE CARRETERAS
+ –
+ 07 08
+ RESUSPENSIÓN DE MATERIAL PULVERULENTO
+ 
+ 07 09
+ Resuspensión de material pulverulento en carreteras pavimentadas
+ –
+ 07 09 01 00
+ Resuspensión de material pulverulento en carreteras no pavimentadas
+ –
+ 07 09 02 00
+ OTROS MEDIOS DE TRANSPORTE Y MAQUINARIA MÓVIL
+ 
+ 08
+ MILITAR
+ –
+ 08 01
+ FERROCARRILES
+ –
+ 08 02
+ EMBARCACIONES Y TRÁFICO EN AGUAS INTERIORES (CONTINENTALES)
+ 
+ 08 03
+ Barcos veleros con motores auxiliares
+ –
+ 08 03 01 00
+ Motoras
+ –
+ 08 03 02 00
+ Barcos de pasajeros
+ –
+ 08 03 03 00
+ Barcos de mercancías
+ –
+ 08 03 04 00
+ EMBARCACIONES Y TRÁFICO MARÍTIMOS
+ 
+ 08 04
+ Tráfico marítimo nacional
+ –
+ 08 04 02 00
+ Flota pesquera nacional
+ –
+ 08 04 03 00
+ Tráfico marítimo internacional (incluido bunkers internacionales)
+ –
+ 08 04 04 00
+ TRÁFICO AÉREO
+ 
+ 08 05
+ Tráfico nacional en aeropuertos (ciclos A-D; altura < 1.000 m)
+ –
+ 08 05 01 00
+ Tráfico internacional en aeropuertos (ciclos A-D; altura < 1.000 m)
+ –
+ 08 05 02 00
+ Tráfico nacional de crucero (altura > 1.000 m)
+ –
+ 08 05 03 00
+ Tráfico internacional de crucero (altura > 1.000 m)
+ –
+ 08 05 04 00
+ AGRICULTURA
+ 
+ 08 06
+ Motores
+ –
+ 08 06 01 00
+ Desgaste de frenos o neumáticos
+ –
+ 08 06 02 00
+ Resuspensión de material pulverulento en carreteras pavimentadas
+ –
+ 08 06 03 00
+ Resuspensión de material pulverulento en carreteras no pavimentadas
+ –
+ 08 06 04 00
+ SILVICULTURA
+ 
+ 08 07
+ Motores
+ –
+ 08 07 01 00
+ Desgaste de frenos o neumáticos
+ –
+ 08 07 02 00
+ Resuspensión de material pulverulento en carreteras pavimentadas
+ –
+ 08 07 03 00
+ Resuspensión de material pulverulento en carreteras no pavimentadas
+ –
+ 08 07 04 00
+ INDUSTRIA
+ 
+ 08 08
+ Motores
+ –
+ 08 08 01 00
+ Desgaste de frenos o neumáticos
+ –
+ 08 08 02 00
+ Resuspensión de material pulverulento en carreteras pavimentadas
+ –
+ 08 08 03 00
+ Resuspensión de material pulverulento en carreteras no pavimentadas
+ –
+ 08 08 04 00
+ ACTIVIDADES DOMÉSTICAS Y JARDINERÍA
+ 
+ 08 09
+ Motores
+ –
+ 08 09 01 00
+ Desgaste de frenos o neumáticos
+ –
+ 08 09 02 00
+ Resuspensión de material pulverulento en carreteras pavimentadas
+ –
+ 08 09 03 00
+ Resuspensión de material pulverulento en carreteras no pavimentadas
+ –
+ 08 09 04 00
+ TRATAMIENTO Y ELIMINACIÓN DE RESIDUOS
+ 
+ 09
+ INCINERACIÓN DE RESIDUOS
+ 
+ 09 02
+ Incineración de residuos urbanos (domésticos o comerciales) para generación de electricidad para su distribución por la red pública
+ A
+ 09 02 01 01
+ a.e.a. con valorización energética no incluidos en el apartado anterior
+ A
+ 09 02 01 02
+ a.e.a. sin valorización energética (incluidas antorchas)
+ A
+ 09 02 01 03
+ Incineración de residuos industriales no peligrosos para generación de electricidad para su distribución por la red pública
+ A
+ 09 02 02 01
+ a.e.a. con valorización energética no incluidos en el apartado anterior
+ A
+ 09 02 02 02
+ a.e.a. sin valorización energética (excepto antorchas)
+ A
+ 09 02 02 03
+ Incineración de residuos peligrosos para generación de electricidad para su distribución por la red pública
+ A
+ 09 02 02 04
+ a.e.a. con valorización energética no incluidos en el apartado anterior
+ A
+ 09 02 02 05
+ a.e.a. sin valorización energética (excepto antorchas)
+ A
+ 09 02 02 06
+ Se obtendrán eficiencias del 99,99% en la eliminación de residuos que contengan fluidos de GWP mayor que 150 o PAO mayor de 0,001, entendiéndose incluidas las tecnologías de tratamiento térmico de dichos gases, no permitiéndose diluciones para rebajar dicho valor.
+ En los casos de destrucción de fuentes originalmente diluidas o fuentes de gases fluorados contenidas en la matriz de un sólido (por ejemplo, espumas), la eficiencia de la destrucción será superior al 95%.
+ En cualquier caso, estas instalaciones independientemente de su capacidad deberán cumplir los requisitos del texto refundido de la Ley de prevención y control integrados de la contaminación y la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados, y del Real Decreto 815/2013 de 18 de octubre, por el que se aprueba el Reglamento de emisiones industriales y de desarrollo del texto refundido de la Ley de prevención y control integrados de la contaminación.
+ Antorchas en refinerías de petróleo
+ A
+ 09 02 03 00
+ Antorchas en otras instalaciones industriales no especificadas en otros epígrafes 09 02
+ B
+ 09 02 04 00
+ Antorchas en las plantas de extracción de petróleo o gas
+ A
+ 09 02 06 01
+ Antorchas en las estaciones de almacenamiento de gas natural
+ A
+ 09 02 06 02
+ Antorchas en las plantas de regasificación de gas natural
+ A
+ 09 02 06 03
+ Incineración de residuos sanitarios con valorización energética
+ A
+ 09 02 07 01
+ Incineración de residuos sanitarios sin valorización energética
+ A
+ 09 02 07 02
+ Incineración de aceites usados con valorización energética
+ A
+ 09 02 08 01
+ Incineración de aceites usados sin valorización energética
+ A
+ 09 02 08 02
+ Incineración de lodos provenientes del tratamiento de aguas residuales
+ A
+ 09 02 05 00
+ VERTEDEROS
+ 
+ 09 04
+ Vertederos de residuos inertes
+ C
+ 09 04 01 01
+ Vertederos de residuos industriales peligrosos o no peligrosos, de residuos biodegradables así como vertederos no incluidos en el epígrafe anterior
+ B
+ 09 04 01 02
+ Antorchas o combustión sin valorización energética de biogas
+ B
+ 09 04 01 03
+ Combustión de biogas para generación de electricidad para su distribución por la red pública
+ B
+ 09 04 01 04
+ Combustión con valorización energética de biogas no incluidos en el apartado anterior
+ B
+ 09 04 01 05
+ Otros. Emisiones de tratamientos de lixiviados en vertederos
+ C
+ 09 04 03 00
+ QUEMA EN ESPACIO ABIERTO DE RESIDUOS AGROFORESTALES
+ –
+ 09 07 00 00
+ CREMACIÓN
+ 
+ 09 09
+ Incineración de cadáveres humanos o restos de exhumación
+ B
+ 09 09 01 00
+ Incineración de animales muertos o deshechos cárnicos incluidos subproductos de origen animal no destinados al consumo humano. Plantas de capacidad >= 50 kg/ hora
+ B(2)
+ 09 09 02 01
+ a.e.a. Plantas de capacidad < 50 kg/hora
+ C(2)
+ 09 09 02 02
+ OTROS TRATAMIENTOS DE RESIDUOS
+ 
+ 09 10
+ Tratamiento de aguas/efluentes residuales en la industria . Plantas con capacidad de tratamiento => 10.000 m3 al día. Tratamientos de evaporación forzada con independencia de su capacidad
+ B
+ 09 10 01 01
+ a.e.a., Plantas con capacidad de tratamiento < 10.000 m3 al día
+ C
+ 09 10 01 02
+ Tratamiento de aguas/efluentes residuales en los sectores residencial o comercial. Plantas con capacidad de tratamiento => 100.000 habitantes equivalentes
+ B
+ 09 10 02 01
+ a.e.a., Plantas con capacidad de tratamiento < 100.000 habitantes equivalentes
+ C
+ 09 10 02 02
+ Tratamiento de lodos (excepto incineración)
+ B
+ 09 10 03 00
+ Plantas de producción de compost
+ B
+ 09 10 05 01
+ Secado de purines
+ B
+ 09 10 05 02
+ Producción de biogás o plantas de biometanización
+ B
+ 09 10 06 00
+ Producción de combustibles líquidos a partir de residuos plásticos
+ A
+ 09 10 08 00
+ Valorización no energética de residuos peligrosos con capacidad > 10 t/día
+ A
+ 09 10 09 01
+ Valorización no energética de residuos peligrosos con capacidad <= 10 t/día o de residuos no peligrosos con capacidad > 50 t /día
+ B
+ 09 10 09 02
+ Las plantas de tratamiento de residuos de gases fluorados o equipos que los contengan indicadas en este epígrafe tratarán exclusivamente los residuos para los que están autorizadas, dichos residuos corresponderán a los códigos LER correspondientes 16.02.13* (Equipos desechados que contienen componentes peligrosos, distintos de los especificados en los códigos 16 02 09 a 16 02 12) y 16.05.04* (Gases en recipientes a presión (incluidos los halones) que contienen sustancias peligrosas).
+ Queda prohibido el tratamiento de residuos de aparatos eléctricos y electrónicos, de envases a presión o productos similares que contengan gases fluorados, CFCs, HCFCs y HFCs, sin su previa recuperación, de manera que se consiga una recuperación del 99% de los gases fluorados del circuito de refrigeración y que el contenido de gases fluorados en el aceite del comprensor sea inferior al 0,2% en peso.
+ El tratamiento de residuos de aparatos eléctricos y electrónicos o de residuos similares que contengan que contengan clorofluorocarbonos (CFC), hidroclorofluorocarbonos (HCFC), hidrofluorocarbonos (HFC) o hidrocarburos (HC), se deberá realizar de acuerdo con las prescripciones técnicas derivadas del anexo XIII del Real Decreto 110/2015, de 20 de febrero, sobre residuos de aparatos eléctricos y electrónicos.
+ En el caso que gases fluorados estén presentes en las espumas aislantes de aparatos eléctricos y electrónicos quedará igualmente prohibido su tratamiento sin la previa recuperación de estos gases de manera que el contenido de gases fluorados en la espuma sea inferior al 0,2% en peso.
+ Queda prohibido el tratamiento de residuos de equipos eléctricos que contengan gas SF6 sin la previa recuperación del mismo, de manera que la presión parcial de gas SF6 en el momento de la apertura de cada compartimento que lo contenga no sea superior a 2 kPa.
+ Todos los fluidos recuperados se gestionarán de acuerdo a la normativa de residuos aplicable, así como los compartimentos de los aparatos eléctricos que han contenido SF6 serán previamente descontaminados antes de tratamiento final, a fin de garantizar la neutralización de los productos de descomposición del SF6.
+ Valorización no energética de residuos no peligrosos con capacidad <= 50 t/día
+ C
+ 09 10 09 03
+ Valorización energética de residuos no considerada como incineración
+ A
+ 09 10 09 04
+ Tratamientos térmicos de animales muertos o deshechos cárnicos incluidos subproductos animales no aptos para el consumo humano o de sus corrientes residuales incluso con obtención de harinas o grasas
+ A
+ 09 10 09 05
+ Almacenamiento u operaciones de manipulación tales como mezclado, separación, clasificación, transporte o reducción de tamaño de residuos no metálicos o de residuos metálicos pulverulentos, con capacidad de manipulación de estos materiales >= 500 t/día, o >= 10 t/día en el caso de residuos peligrosos
+ B
+ 09 10 09 50
+ a.e.a., con capacidad de manipulación de estos materiales >= 100 t/ día y < 500 t/día; o >= 1 t/ día y < 10 t/día de residuos peligrosos en el caso de residuos peligrosos
+ C(2)
+ 09 10 09 51
+ a.e.a., con capacidad de manipulación de estos materiales < 100 t/día
+ -(2)
+ 09 10 09 52
+ Fragmentadoras o trituradoras de chatarra o demás residuos metálicos
+ B
+ 09 10 09 06
+ Otros tratamientos de residuos no especificados en anteriores epígrafes
+ B
+ 09 10 09 07
+ AGRICULTURA Y GANADERÍA
+ 
+ 10
+ CULTIVOS CON FERTILIZANTES (EXCEPTO ESTIÉRCOL ANIMAL)
+ 
+ 10 01
+ Cultivos permanentes
+ –
+ 10 01 01 00
+ Cultivos de labradío
+ –
+ 10 01 02 00
+ Arrozales
+ –
+ 10 01 03 00
+ Horticultura
+ –
+ 10 01 04 00
+ Pastizales
+ –
+ 10 01 05 00
+ Barbecho
+ –
+ 10 01 06 00
+ CULTIVOS SIN FERTILIZANTES
+ 
+ 10 02
+ Cultivos permanentes
+ –
+ 10 02 01 00
+ Cultivos de labradío
+ –
+ 10 02 02 00
+ Arrozales
+ –
+ 10 02 03 00
+ Horticultura
+ –
+ 10 02 04 00
+ Pastizales
+ –
+ 10 02 05 00
+ Barbecho
+ –
+ 10 02 06 00
+ QUEMA EN CAMPO ABIERTO DE RASTROJOS, PAJA U OTROS SUBPRODUCTOS AGRARIOS
+ 
+ 10 03
+ Cereales
+ –
+ 10 03 01 00
+ Leguminosas
+ –
+ 10 03 02 00
+ Tubérculos y rizomas
+ –
+ 10 03 03 00
+ Caña de azúcar
+ –
+ 10 03 04 00
+ Otros
+ –
+ 10 03 05 00
+ GANADERÍA(4) (FERMENTACIÓN ENTÉRICA)
+ 
+ 10 04
+ Vacuno de leche. Instalaciones con capacidad => 500 cabezas
+ B
+ 10 04 01 01
+ a.e.a., con capacidad => 50 cabezas y < 500
+ C(5)
+ 10 04 01 02
+ a.e.a., con capacidad < 50 cabezas
+ –
+ 10 04 01 03
+ Otro ganado vacuno. Instalaciones con capacidad => 600 cabezas
+ B
+ 10 04 02 01
+ a.e.a., con capacidad => 60 cabezas y < 600
+ C(5)
+ 10 04 02 02
+ a.e.a., con capacidad < 60 cabezas
+ –
+ 10 04 02 03
+ Ovino. Instalaciones con capacidad => 3.300 ovejas
+ B
+ 10 04 03 01
+ a.e.a., con capacidad => 330 ovejas y < 3.300
+ C(5)
+ 10 04 03 02
+ a.e.a., con capacidad < 330 ovejas
+ –
+ 10 04 03 03
+ Porcino. Instalaciones con capacidad => 2.500 cerdos
+ B
+ 10 04 04 01
+ a.e.a., con capacidad => 200 cerdos y < 2.500 cerdos
+ C(5)
+ 10 04 04 02
+ a.e.a., capacidad < 200 cerdos
+ –
+ 10 04 04 03
+ Caballar. Instalaciones con capacidad => 500 caballos
+ B
+ 10 04 05 01
+ a.e.a., con capacidad => 50 caballos y < 500
+ C(5)
+ 10 04 05 02
+ a.e.a., con capacidad < 50 caballos
+ –
+ 10 04 05 03
+ Otro ganado equino - (mular, asnal). Instalaciones con capacidad => 550 equinos.
+ B
+ 10 04 06 01
+ a.e.a., Instalaciones con capacidad => 55 equinos y < 550
+ C(5)
+ 10 04 06 02
+ a.e.a., Instalaciones con capacidad < 55 equinos
+ –
+ 10 04 06 03
+ Caprino. Instalaciones con capacidad => 3.300 cabras
+ B
+ 10 04 07 01
+ a.e.a., con capacidad => 330 cabras y < 3.300
+ C(5)
+ 10 04 07 02
+ a.e.a., con capacidad < 330 cabras
+ –
+ 10 04 07 03
+ Cerdas. Instalaciones con capacidad => 750 plazas de cerdas
+ B
+ 10 04 12 01
+ a.e.a., con capacidad => 75 plazas de cerdas y < 750
+ C(5)
+ 10 04 12 02
+ a.e.a., con capacidad < 75 plazas de cerdas
+ –
+ 10 04 12 03
+ GANADERÍA (GESTIÓN(4) DE ESTIÉRCOL)
+ 
+ 10 05
+ Vacuno de leche. Instalaciones con capacidad => 500 cabezas
+ B
+ 10 05 01 01
+ a.e.a., con capacidad => 50 cabezas y < 500
+ C(5)
+ 10 05 01 02
+ a.e.a., con capacidad < 50 cabezas
+ –
+ 10 05 01 03
+ Otro ganado vacuno. Instalaciones con capacidad => 600 cabezas
+ B
+ 10 05 02 01
+ a.e.a., con capacidad => 60 cabezas y < 600
+ C(5)
+ 10 05 02 02
+ a.e.a., con capacidad < 60 cabezas
+ –
+ 10 05 02 03
+ Porcino. Instalaciones con capacidad => 2.500 cerdos
+ B
+ 10 05 03 01
+ a.e.a., con capacidad => 200 cerdos y < 2.500 cerdos
+ C(5)
+ 10 05 03 02
+ a.e.a., capacidad < 200 cerdos
+ –
+ 10 05 03 03
+ Cerdas. Instalaciones con capacidad => 750 plazas de cerdas
+ B
+ 10 05 04 01
+ a.e.a., con capacidad => 75 plazas de cerdas y < 750
+ C(5)
+ 10 05 04 02
+ a.e.a., con capacidad < 75 plazas de cerdas
+ –
+ 10 05 04 03
+ Ovino. Instalaciones con capacidad => 3.300 ovejas
+ B
+ 10 05 05 01
+ a.e.a., con capacidad => 330 ovejas y < 3.300
+ C(5)
+ 10 05 05 02
+ a.e.a., con capacidad < 330 ovejas
+ –
+ 10 05 05 03
+ Caballar. Instalaciones con capacidad => 500 caballos
+ B
+ 10 05 06 01
+ a.e.a., con capacidad => 50 caballos y < 500
+ C(5)
+ 10 05 06 02
+ a.e.a., con capacidad < 50 caballos
+ –
+ 10 05 06 03
+ Gallinas ponedoras. Instalaciones con capacidad => 40.000 gallinas
+ B
+ 10 05 07 01
+ a.e.a., con capacidad => 4.000 gallinas y < 40.000
+ C(5)
+ 10 05 07 02
+ a.e.a., con capacidad < 4.000 gallinas
+ –
+ 10 05 07 03
+ Pollos de engorde. Instalaciones con capacidad => 85.000 pollos
+ B
+ 10 05 08 01
+ a.e.a., con capacidad => 8.500 pollos y < 85.000
+ C(5)
+ 10 05 08 02
+ a.e.a., con capacidad < 8.500 pollos
+ –
+ 10 05 08 03
+ Otras aves de corral (patos, gansos o demás). Instalaciones con capacidad => 40.000 aves
+ B
+ 10 05 09 01
+ a.e.a., con capacidad => 4.000 aves y < 40.000
+ C(5)
+ 10 05 09 02
+ a.e.a., con capacidad < 4.000 aves
+ –
+ 10 05 09 03
+ Animales de pelo (conejos). Instalaciones con capacidad => 50.000 plazas de animales
+ B
+ 10 05 10 01
+ a.e.a., con capacidad => 5.000 plazas de animales y < 50.000
+ C(5)
+ 10 05 10 02
+ a.e.a., con capacidad < 5.000 plazas de animales
+ –
+ 10 05 10 03
+ Caprino. Instalaciones con capacidad => 3.300 cabras
+ B
+ 10 05 11 01
+ a.e.a., con capacidad => 330 cabras y < 3.300
+ C(5)
+ 10 05 11 02
+ a.e.a., con capacidad < 330 cabras
+ –
+ 10 05 11 03
+ Otro ganado equino - (mular, asnal). Instalaciones con capacidad => 550 equinos
+ B
+ 10 05 12 01
+ a.e.a., con capacidad => 55 equinos y < 550
+ C(5)
+ 10 05 12 02
+ a.e.a., con capacidad < 55 equinos
+ –
+ 10 05 12 03
+ USO DE PESTICIDAS Y PIEDRA CALIZA
+ 
+ 10 06
+ Agricultura
+ –
+ 10 06 01 00
+ Silvicultura
+ –
+ 10 06 02 00
+ Horticultura
+ –
+ 10 06 03 00
+ Lagos
+ –
+ 10 06 04 00
+ GESTIÓN DE ESTIÉRCOL (no incluidos en epígrafes 10 05)
+ 
+ 10 09
+ Lagunaje anaeróbico
+ B
+ 10 09 01 00
+ Sistemas líquidos (purines)
+ B
+ 10 09 02 00
+ Almacenamiento sólido o apilamiento en seco (cantidades anuales equivalentes a las generadas por alguna de las actividades en epígrafes 10 05 clasificadas como grupo B)
+ B
+ 10 09 03 00
+ Otras operaciones
+ –
+ 10 09 04 00
+(1) Los equipos que formen parte íntegramente de instalaciones incluidas en el ámbito de aplicación del Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios pertenecerán al grupo B cuando su P.t.n. < 50 MWt y >20 MWt, al grupo C cuando su P.t.n. < =20 MWt y >= 1 MWt y no estarán asignados a ningún grupo cuando su P.t.n. < 1 MWt.
+(2) Las actividades pertenecientes al grupo B pasarán a considerarse como grupo A, las pertenecientes a grupo C pasarán a considerarse grupo B y las actividades sin grupo pasarán a considerarse grupo C a criterio del órgano competente de la comunidad autónoma, en el caso en que se utilicen sustancias peligrosas o la actividad se desarrolle a menos de 500 m de alguno de los siguientes espacios:
+- núcleos de población,
+- espacios naturales protegidos de acuerdo al artículo 27 de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, incluidas sus zonas periféricas de protección,
+- espacios pertenecientes a la Red Natura 2000,
+- áreas protegidas por instrumentos internacionales
+(3) Se considerará un umbral de 1 tonelada al año en aquellos casos en los que se empleen mezclas que, debido a su contenido en compuestos orgánicos volátiles clasificados como carcinógenos, mutágenos o tóxicos para la reproducción, tengan asignados las siguientes frases de riesgo o indicaciones de peligro, de acuerdo con lo establecido en el Reglamento (CE) nº 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas:
+- R40, R45, R46, R49, R60 o R61 (hasta 1 de diciembre de 2010)
+- H341, H351, H340, H350, H350i, H360D o H360F o las frases de riesgo R40, R45, R46, R49, R60, R61 o R68 (del 1 de diciembre de 2010 al 1 de julio de 2015)
+- H341, H351, H340, H350, H350i, H360D o H360F (A partir del 1 de julio de 2015)
+(4) Los umbrales especificados se refieren a instalaciones de ganadería intensiva y a la parte intensiva de las instalaciones con ganadería mixta (intensiva + extensiva).
+(5) A criterio del órgano competente de la comunidad autónoma, en el caso en que la actividad se desarrolle a menos de 500 m de un núcleo de población las actividades pertenecientes al grupo C pasarán a considerarse como grupo B
+Se modifica por la disposición final 1 del Real Decreto 1042/2017, de 22 de diciembre. Ref. BOE-A-2017-15368#df
+ Redactado conforme a la corrección de errores publicada en BOE núm. 65, de 15 de marzo de 2018. Ref. BOE-A-2018-3587
+ Se modifica por el anexo del Real Decreto 100/2011, de 28 de enero, en la redacción dada por la disposición final 2 del Real Decreto 115/2017, de 17 de febrero. Ref. BOE-A-2017-1679
+ Se modifica por el art. 3 y anexo del Real Decreto 100/2011, de 28 de enero. Ref. BOE-A-2011-1643.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 83, de 7 de abril de 2011. Ref. BOE-A-2011-6238.

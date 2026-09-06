@@ -1,0 +1,117 @@
+# Ley 14/1985, de 28 de junio, por la que se regula el Consejo Nacional de la Juventud de Cataluña.
+
+- Identificador BOE: `BOE-A-1985-16448`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1985-16448
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 33.2 del Estatuto de Autonomía, promulgo la siguiente
+LEY POR LA QUE SE REGULA EL CONSEJO NACIONAL DE LA JUVENTUD DE CATALUÑA
+Dado que corresponde a los poderes públicos promover las condiciones para la participación libre y eficaz de la juventud en el desarrollo político, social, económico y cultural, parece conveniente disponer de una entidad de derecho público de base asociativa que, estimulando la participación de la juventud de Cataluña, permita acercar las inquietudes de los jóvenes a las instituciones de gobierno de Cataluña.
+A tal objeto, la Generalidad provisional de Cataluña creó, por medio del Decreto de 2 de abril de 1979, el Consejo Nacional de la Juventud de Cataluña como organismo coordinador, dotado de personalidad jurídica propia.
+Habiendo sido atribuida a la Generalidad por el Estatuto de Autonomía, la competencia exclusiva en materia de juventud, teniendo en cuenta la experiencia de funcionamiento, suficientemente dilatada, del Consejo Nacional de la Juventud de Cataluña, parece aconsejable perfeccionar la relación jurídica del mismo por medio de una ley del Parlamento, a fin de adecuar mejor la naturaleza y funcionamiento, heredados de la etapa provisional, al marco institucional de la Generalidad.
+
+### Artículo 1
+
+Artículo 1.
+El Consejo Nacional de la Juventud de Cataluña (CNJC) es una entidad de derecho público con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, que se regirá de acuerdo con las disposiciones de la presente Ley, las normas que la desarrollan y aquellas otras que le sean de aplicación.
+
+### Artículo 2
+
+Artículo 2.
+Son funciones del CNJC:
+a) Promover actividades dirigidas a asegurar la participación de las personas jóvenes en las decisiones y medidas que las afectan.
+b) Elaborar y promover, por iniciativa propia o a petición de otros, informes o estudios sobre materias relacionadas con la juventud y sus problemas.
+c) Fomentar en las personas jóvenes el asociacionismo juvenil, a fin de que emprendan en grupo la solución de las cuestiones que las afectan.
+d) Hacer de interlocutor entre la Generalidad y las organizaciones juveniles en todo lo que afecta a las personas jóvenes.
+e) Participar en los órganos consultivos de la Administración cuando ésta lo requiera.
+f) Establecer relaciones con otras organizaciones juveniles en todos sus ámbitos de actuación.
+g) Promover la cooperación juvenil internacional para fomentar las actividades que tiendan a conseguir la paz y para cualquier otra materia relacionada con la juventud y su problemática.
+h) Promover la creación de consejos de juventud de ámbito territorial.
+i) Representar al movimiento asociativo juvenil catalán en las instituciones internacionales de juventud.
+j) Cualquier otra que sea acordada con la Administración en el marco de las funciones establecidas por el presente artículo.
+Se modifica la letra i) y se añade la j) por el art. 1 de la Ley 1/2010, de 4 de febrero. Ref. BOE-A-2010-2886
+ Se modifica por el art. único de la Ley 24/1998 de 30 de diciembre. Ref. BOE-A-1999-2520
+
+### Artículo 3
+
+Artículo 3.
+El CNJC se relaciona con la Administración de la Generalidad de Cataluña mediante la Secretaría General de Juventud, a la que puede pedir la información que necesite para funcionar adecuadamente.
+Se modifica por el art. único de la Ley 24/1998 de 30 de diciembre. Ref. BOE-A-1999-2520
+
+### Artículo 4
+
+Artículo 4.
+1. El CNJC está compuesto por entidades miembros de pleno derecho y entidades miembros adheridas.
+2. Pueden ser miembros de pleno derecho:
+a) Las entidades juveniles con base asociativa, de participación social y de funcionamiento democrático.
+b) Las federaciones o los organismos coordinadores compuestos por un mínimo de tres movimientos juveniles, ninguno de los cuales, individualmente, sea miembro del CNJC. Los movimientos que la federación o el organismo coordinador aglutina están obligados a cumplir los mismos requisitos que se exigen a los que se incorporan al CNJC individualmente.
+c) Las secciones juveniles de entidades profesionales, académicas, sindicales, políticas y deportivas con órganos de decisión propios que figuren como tales secciones en los estatutos de las respectivas entidades.
+d) Los consejos locales de juventud que representen a un mínimo de 5.000 habitantes o sean capitales de comarca, que estén integrados por un mínimo de dos tipos de entidades y se fijen como objetivos la interlocución, la coordinación y el fomento de la participación en el correspondiente municipio.
+e) Los consejos territoriales de juventud de un ámbito de actuación en el que no existan consejos locales de juventud afiliados al CNJC.
+3. Pueden ser entidades miembros adheridas:
+a) Las entidades prestadoras de servicios a la juventud.
+b) Las entidades que no cumplan los requisitos mínimos exigidos para ser miembros de pleno derecho o que decidan su participación en calidad de entidades miembros adheridas.
+4. Todas las organizaciones y entidades comprendidas en los apartados 2 y 3 pueden formar parte del CNJC, de acuerdo con lo establecido en sus estatutos, siempre y cuando lo soliciten por escrito y siempre y cuando sus estatutos, estructura y actividades no contradigan los principios de la presente Ley y los estatutos del CNJC.
+5. Para poder ser entidad miembro del CNJC es necesario acreditar un período mínimo de dos años desde la constitución de la entidad y que la solicitud sea avalada por siete entidades miembros.
+Se modifican los apartados 2 y 3 por el art. 2 de la Ley 1/2010, de 4 de febrero. Ref. BOE-A-2010-2886
+ Se modifica por el art. único de la Ley 24/1998 de 30 de diciembre. Ref. BOE-A-1999-2520
+
+### Artículo 5
+
+Artículo 5.
+El CNJC se mantendrá económicamente con los recursos siguientes:
+a) Las aportaciones de las entidades que lo integren.
+b) Las dotaciones que pueda destinarse la Generalidad.
+c) Las subvenciones que pueda recibir de otras entidades públicas.
+d) Los donativos de personas o entidades privadas.
+e) Las rentas que produzcan los bienes y valores que constituyan su patrimonio.
+f) Los rendimientos que legal o reglamentariamente generen las actividades propias del consejo:
+g) Cualquier otro recurso que pueda serle atribuido, por ley o reglamento.
+
+### Artículo 6
+
+Artículo 6.
+1. Los órganos del CNJC son:
+a) La Asamblea general.
+b) El Presidente o Presidenta.
+c) El Secretariado.
+2. La Asamblea General está compuesta por dos personas delegadas de cada una de las entidades miembros y debe reunirse, como mínimo, una vez al año.
+3. La Asamblea general, de acuerdo con lo establecido en los estatutos del CNJC, debe elegir por un período de dos años el Secretariado, cuyo número de miembros debe establecerse estatutariamente. De entre este Secretariado, la Asamblea general debe elegir también el Presidente o Presidenta del CNJC, que lo es también del Secretariado. Cuando el Presidente o Presidenta y las personas miembros del Secretariado no son delegadas de una entidad, también forman parte de la Asamblea general, con voz pero sin voto.
+4. Las entidades miembros adheridas pueden asistir a la Asamblea general con voz y sin voto y, por lo tanto, sus personas delegadas no tienen derecho a ser escogidas unipersonalmente, ni en comisión, ni en ningún órgano de representación del CNJC.
+Se modifica por el art. único de la Ley 24/1998 de 30 de diciembre. Ref. BOE-A-1999-2520
+
+### Artículo 7
+
+Artículo 7.
+Contra los actos emanados de los órganos del Consejo, sujetos al derecho administrativo, una vez agotada la vía administrativa queda abierta la vía contenciosa-administrativa, de acuerdo con la Ley que regula esta jurisdicción.
+Se modifica por el art. 1 del Decreto Legislativo 2/1994, de 13 de julio. Ref. DOGC-f-1994-90004
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En tanto no se aprueben los Estatutos, el CNJC se regirá por las normas de funcionamiento interno aprobadas por la Orden de 19 de noviembre de 1979 del Consejero de Enseñanza y Cultura.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En el plazo de seis meses a contar desde la publicación de la presente Ley, el Secretariado del CNJC elevará al Gobierno de la Generalidad, a través de la Dirección General de la Juventud, la propuesta de Estatutos adecuada a las prescripciones de la presente Ley para que sea aprobada.
+
+### Disposición final primera
+
+Disposición final primera.
+El Gobierno de la Generalidad dictará las disposiciones necesarias para ejecutar y desarrollar la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Queda derogado el Decreto de 2 de abril de 1979, de creación del Consejo Nacional de la Juventud de Cataluña.
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen a su cumplimiento y que los Tribunales y Autoridades a los que correspondan la hagan cumplir.
+Palacio de la Generalidad, 28 de junio de 1985.–Jordi Pujol.

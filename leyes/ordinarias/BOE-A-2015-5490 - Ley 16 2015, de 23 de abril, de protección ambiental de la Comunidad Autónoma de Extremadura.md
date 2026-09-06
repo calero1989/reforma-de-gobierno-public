@@ -1,0 +1,2471 @@
+# Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad Autónoma de Extremadura.
+
+- Identificador BOE: `BOE-A-2015-5490`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2015-5490
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE EXTREMADURA
+Sea notorio a todos los ciudadanos que la Asamblea de Extremadura ha aprobado y yo, en nombre del Rey, de conformidad con lo establecido en el artículo 40.1 del Estatuto de Autonomía, vengo a promulgar la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+I
+El artículo 45 de la Constitución Española establece que todos tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo, atribuyéndose a los poderes públicos la función de velar por la utilización racional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva.
+El Estatuto de Autonomía de Extremadura, tras su reforma por Ley Orgánica 1/2011, 28 de enero, establece en su artículo 7, que entre los principios a que han de ajustar su actuación los poderes públicos extremeños se encuentra el perseguir un modelo de desarrollo sostenible, cuidando de la preservación y mejora de la calidad medioambiental de la región.
+El artículo 149.1.23.ª de la Constitución Española atribuye competencia exclusiva al Estado para dictar la legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección. Por su parte, el artículo 9.33 del Estatuto de Autonomía de Extremadura atribuye a la Comunidad Autónoma de Extremadura competencia exclusiva para establecer políticas y dictar normas adicionales y complementarias de las del Estado en materia de protección medioambiental y lucha contra el cambio climático, estableciendo el artículo 10.2 de nuestra norma institucional básica que la Comunidad Autónoma de Extremadura ostenta competencias de desarrollo normativo y ejecución en materia de medioambiente, regulación y protección de la flora, la fauna y la biodiversidad, así como en la prevención y corrección de la generación de residuos y vertidos y de la contaminación acústica, atmosférica, lumínica, del suelo y del subsuelo.
+A nivel comunitario, el Séptimo Programa Ambiental de la Unión Europea (2013-2020), «Vivir bien, respetando los límites de nuestro planeta», establece nueve objetivos prioritarios relativos a proteger, conservar y mejorar el capital natural de la Unión; convertir a la Unión Europea en una economía que sea eficiente en el uso de los recursos, ecológica y competitiva; proteger a los ciudadanos de la Unión de las presiones y riesgos medioambientales para la salud y el bienestar; maximizar los beneficios de la legislación medioambiental de la Unión Europea; mejorar la base de información de la política de medio ambiente; asegurar inversiones para la política en materia de clima y medio ambiente y fijar correctamente los precios; intensificar la integración medioambiental y la coherencia entre políticas; aumentar la sostenibilidad de las ciudades de la Unión, y reforzar la eficacia de la Unión Europea a la hora de afrontar los desafíos ambientales a nivel regional y mundial. La estrategia de crecimiento de la Unión Europea para la próxima década (denominada Europa 2020) integra entre sus principios fundamentales el uso eficiente de los recursos naturales, reconociendo que la política medioambiental puede contribuir a transformar Europa en una economía basada en el conocimiento y eficiente en el uso de los recursos. La presente ley trata de contribuir al logro de dichos objetivos, inspirándose en los principios que sirven de base a dicha Estrategia.
+Desde un punto de vista estrictamente jurídico, la modificación legislativa que mediante la presente norma se articula resulta de todo punto necesaria teniendo en cuenta la evolución legislativa de la legislación estatal sobre las materias troncales que la misma regula, autorizaciones ambientales y evaluación de impacto ambiental, para, por un lado, dotar al ordenamiento jurídico autonómico de la coherencia normativa necesaria con respecto a lo dispuesto por la normativa estatal básica, y por otro, proporcionar el máximo grado de seguridad jurídica a los promotores de planes, programas, proyectos y actividades sujetos al ámbito de aplicación de la nueva norma.
+Dicha evolución legislativa viene constituida fundamentalmente por la modificación de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, operada por Ley 5/2013, de 11 de junio, y por la regulación en un único texto legal, Ley 21/2013, de 9 de diciembre, de evaluación ambiental, tanto de la evaluación de impacto ambiental de planes y programas como de la evaluación de impacto ambiental de proyectos, cuyo régimen jurídico venía constituido hasta la fecha, respectivamente, por lo dispuesto en la Ley 9/2006, de 28 de abril, sobre evaluación de los efectos de determinados planes y programas en el medio ambiente, y en el Real Decreto Legislativo 1/2008, de 11 de enero, por el que se aprueba el texto refundido de la Ley de Evaluación de Impacto Ambiental de proyectos.
+La Ley de Protección Ambiental de la Comunidad Autónoma de Extremadura se inspira en dos principios básicos: la reducción de cargas administrativas para los promotores, dotando de celeridad a la tramitación de los procedimientos administrativos que la misma regula, y la reducción de los plazos de tramitación de los procedimientos administrativos, y ello con el objetivo de armonizar medio ambiente y economía, teniendo en cuenta que las consideraciones medioambientales y económicas se complementan como dos caras de la misma moneda. La evolución hacia una economía más ecológica reduce los costes medioambientales, al permitir un uso más eficiente de los recursos, teniendo en cuenta que las nuevas tecnologías respetuosas con el medio ambiente generan empleo, dan un impulso a la economía y consolidan la competitividad de la industria a nivel estatal y autonómico.
+II
+El Titulo Preliminar establece las disposiciones de carácter general, como el objeto o el ámbito de aplicación de la Ley. De igual modo, se incluyen una serie de definiciones de determinados conceptos que posteriormente aparecen a lo largo del texto, lo que redunda en un mayor grado de precisión y de seguridad jurídica a la hora de la aplicación concreta de la norma.
+Entre estas medidas de carácter general figuran también los principios que inspiran la norma y la finalidad perseguida por la misma.
+III
+El Título I, regulador de la prevención ambiental, se estructura en siete capítulos. El capítulo primero regula, entre otras materias, los instrumentos de intervención administrativa ambiental existentes en la Comunidad Autónoma de Extremadura: las autorizaciones ambientales, que comprenden la autorización ambiental integrada y la autorización ambiental unificada; la comunicación ambiental; la evaluación ambiental estratégica de planes y programas, y la evaluación de impacto ambiental de proyectos, distinguiéndose la ordinaria, la simplificada y la abreviada.
+El capítulo segundo establece el régimen jurídico aplicable a la autorización ambiental integrada, partiendo de lo dispuesto en la legislación estatal básica, en el presente caso, en la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, y en su normativa reglamentaria de desarrollo, Real Decreto 815/2013, de 18 de octubre, por el que se aprueba el Reglamento de emisiones industriales y de desarrollo de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación.
+El capítulo tercero regula la autorización ambiental unificada, como instrumento de intervención administrativa ambiental, propio de la Comunidad Autónoma de Extremadura, estableciéndose su objeto, las instalaciones o actividades sujetas a la misma, el procedimiento para su otorgamiento así como su contenido.
+El capítulo cuarto establece las normas comunes que resultan de aplicables a las autorizaciones ambientales, entre ellas, la posibilidad de inadmisión de la solicitud presentada por el promotor en los casos previstos legalmente, el contenido y el procedimiento para comunicar el inicio de la actividad industrial por parte de los promotores, así como la interrelación existente entre las autorizaciones ambientales y otros tipos de autorizaciones sectoriales o licencias.
+El capítulo quinto establece el régimen jurídico aplicable a la comunicación ambiental de carácter autonómico, a la cual se hallan sujetas las actividades incluidas en el anexo II bis de la ley, correspondiendo a la Consejería competente en materia de medio ambiente la comprobación, vigilancia, inspección y sanción de las actividades sometidas a la misma.
+El capítulo sexto regula la comunicación ambiental de carácter municipal. A la misma se hallarán sometidas las actividades incluidas en el anexo II de la ley, correspondiendo a los Ayuntamientos la comprobación, vigilancia, inspección y sanción de las actividades sometidas a la misma.
+El capítulo séptimo establece el régimen jurídico aplicable a la evaluación ambiental, tanto de planes y programas, como de proyectos, tomando como punto de partida lo dispuesto en la Ley 21/2013, de 9 de diciembre, de evaluación ambiental.
+La sección primera establece el procedimiento aplicable a la evaluación ambiental estratégica, distinguiéndose entre la evaluación ambiental estratégica ordinaria, cuya regulación se establece en la subsección primera, que finaliza mediante la declaración ambiental estratégica, y la evaluación ambiental estratégica simplificada, regulada en la subsección segunda, a la que pone fin el informe ambiental estratégico.
+Dentro de esta sección se incluye una subsección tercera, que fija el procedimiento a seguir para someter a evaluación ambiental estratégica los instrumentos de ordenación territorial y urbanística, como son la Directrices de Ordenación Territorial, los Planes Territoriales, los Planes Generales Municipales, los Planes Parciales de Ordenación, así como los Planes Especiales de Ordenación.
+La sección segunda fija el procedimiento aplicable a la evaluación de impacto ambiental de proyectos, con una subsección primera que regula la evaluación de impacto ambiental ordinaria, y que finaliza con la formulación de la declaración de impacto ambiental, respecto de los proyectos establecidos en el anexo IV de la ley; con una subsección segunda que regula la evaluación de impacto ambiental simplificada, y que culmina con la formulación del informe de impacto ambiental, respecto de los proyectos que figuran en el anexo V de la norma.
+En esta sección aparece regulada la evaluación de impacto ambiental abreviada, como procedimiento evaluatorio propio de nuestra Comunidad Autónoma, que finaliza con el informe de impacto ambiental abreviado, al que se hayan sujetos los proyectos incluidos en el anexo VI de la ley.
+Cierra este capítulo una sección tercera que establece una serie de disposiciones comunes aplicables a los procedimientos de evaluación de impacto ambiental, tanto ordinaria, como simplificada y abreviada, de cuyo contenido destaca la regulación de la vigencia de la declaración o del informe de impacto ambiental, la caducidad de los mismos, o su relación con la evaluación ambiental estratégica.
+IV
+El Título II regula la protección de la atmósfera, estructurándose en cuatro capítulos. El capítulo primero establece las disposiciones aplicables en materia de calidad del aire en la Comunidad Autónoma de Extremadura, adaptando sus previsiones a lo dispuesto en la Ley 34/2007, de 15 de noviembre, de Calidad del Aire y Protección de la Atmósfera.
+El capítulo segundo regula la contaminación acústica, fijando el ámbito de aplicación de la norma respecto de los emisores acústicos, la distribución de competencias en esta materia entre las Administraciones Públicas implicadas, así como el establecimiento de las medidas necesarias para preservar las áreas protegidas de nuestra Comunidad Autónoma de esta tipología de contaminación.
+El capítulo tercero establece el régimen jurídico aplicable en materia de contaminación lumínica, estableciéndose una serie de criterios generales dirigidos a promover un uso eficiente del alumbrado y minimizar y corregir los efectos negativos de la contaminación lumínica sobre el medio ambiente y las personas.
+El capítulo cuarto, dedicado a la protección radiológica, establece las competencias de la Comunidad Autónoma de Extremadura en esta materia y crea la Red de Vigilancia Radiológica Ambiental de Extremadura.
+V
+El Título III regula la protección de suelos, estructurándose en dos capítulos. El capítulo primero fija las medidas específicas para la protección del suelo. El capítulo segundo regula las actividades potencialmente contaminantes del suelo y otras actividades que alteran gravemente sus características, de conformidad con lo dispuesto en el Real Decreto 9/2005, de 14 de enero, por el que se establece la relación de actividades potencialmente contaminantes del suelo y los criterios y estándares para la declaración de suelos contaminados.
+VI
+El Título IV establece el marco general aplicable para la protección del paisaje, fijando los deberes de las Administraciones Públicas con competencias en materia de medio ambiente para lograr una adecuada protección de aquel, con la adopción de medidas específicas encaminadas a lograr dicho objetivo.
+VII
+El Título V establece los instrumentos para el ejercicio de la responsabilidad compartida entre las Administraciones Públicas y los operadores a través del establecimiento de convenios de colaboración y acuerdos voluntarios para la mejora ambiental, fomentándose la implantación de sistemas comunitarios de gestión y auditorías medioambientales, así como la promoción por parte de aquellas del etiquetado ecológico establecido en el Reglamento (CE) 66/2010, de 25 de noviembre de 2010, por el que se regula el sistema comunitario de concesión de la etiqueta ecológica en la Unión Europea.
+VIII
+El Título VI regula la disciplina ambiental, estructurándose en tres capítulos. El capítulo primero está dedicado a regular el régimen de inspección y control de los proyectos o actividades sujetos a los instrumentos de intervención administrativa ambiental que prevé la ley, asignándose las competencias sobre dicha materia a las distintas Administraciones Públicas, con determinación del personal que puede llevar a cabo las labores de inspección, así como la obligación de los órganos competentes de elaborar un plan de inspección ambiental a efectos de ejercer dicha función de control.
+El capítulo segundo establece el régimen sancionador aplicable en materia de autorizaciones y comunicación ambiental, evaluación de impacto ambiental de proyectos y de protección a la atmósfera.
+El capítulo tercero establece una serie de disposiciones comunes en materia de disciplina ambiental. Entre ellas se encuentran la atribución competencial para el ejercicio de la potestad sancionadora, la posibilidad de que el órgano competente adopte medidas de carácter provisional para asegurar la protección del bien jurídico que se tutela, la obligación de reponer para el sujeto responsable de la infracción o las formas de ejecución forzosa de la resolución que ponga fin al procedimiento administrativo sancionador.
+IX
+La parte final de la norma se integra por trece disposiciones adicionales, ocho disposiciones transitorias, una disposición derogatoria y dos disposiciones finales. Las disposiciones adicionales versan sobre: inaplicación del Reglamento de Actividades Molestas, Insalubres, Nocivas y Peligrosas; vertidos a las redes municipales de saneamiento; vigencia de las declaraciones o informes de impacto ambiental referidos a industrias extractivas; procedimiento abreviado de evaluación de impacto ambiental de líneas eléctricas; inclusión de la variable ambiental en materia de contratos del sector público; informe sobre el estado del medio ambiente; coordinación ambiental; comisión técnica de valoración de daños medioambientales; habilitación profesional para la redacción de proyectos; confidencialidad; régimen supletorio, tramitación electrónica e Inexigibilidad de garantía financiera por responsabilidad medioambiental.
+La disposición final primera establece una habilitación en favor del Consejo de Gobierno, mientras que la disposición final segunda fija la entrada vigor de la norma.
+La disposición derogatoria establece la derogación de las normas autonómicas de rango legal o reglamentario que en la misma se citan.
+Por último, la ley se acompaña de diez anexos: el primero establece las actividades sometidas a autorización ambiental integrada; el segundo enumera las actividades sometidas a autorización ambiental unificada; el segundo bis establece las actividades sometidas a comunicación ambiental autonómica; el cuarto establece los proyectos sometidos a evaluación ambiental ordinaria; el quinto enumera los proyectos sometidos a la evaluación ambiental simplificada; el sexto establece los proyectos que deberán someterse a evaluación de impacto ambiental abreviada, el séptimo establece el contenido del estudio de impacto ambiental y los criterios técnicos de aplicación; el octavo fija los criterios para determinar si un plan o programa debe someterse a evaluación ambiental estratégica ordinaria; el noveno establece el contenido del estudio ambiental estratégico y el décimo fija los criterios para determinar si un proyecto sometido a evaluación de impacto ambiental simplificada debe someterse a evaluación de impacto ambiental ordinaria.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto establecer un marco normativo adecuado para el desarrollo de la política medioambiental de la Comunidad Autónoma de Extremadura y su integración en el resto de políticas autonómicas, implementando mecanismos de intervención ambiental que contribuyan a obtener un alto nivel de protección del medio ambiente y de la salud de las personas.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+La presente ley será de aplicación a cualquier plan, programa, proyecto, obra, instalación y actividad, de titularidad pública o privada, que se desarrolle en el ámbito territorial de la Comunidad Autónoma de Extremadura y que puedan generar impactos en el medio ambiente y/o poner en riesgo la salud de las personas.
+
+### Artículo 3
+
+Artículo 3. Definiciones.
+A los efectos de la presente ley se entenderá por:
+1. Actividad: explotación de una industria, establecimiento, instalación o, en general, cualquier actuación, susceptible de afectar al medio ambiente y/o a la salud de las personas.
+2. Actividades molestas: actividades que constituyan o puedan constituir una incomodidad por los ruidos o vibraciones que produzcan o por los humos, gases, olores, nieblas, polvos en suspensión o sustancias que eliminen.
+3. Actividades insalubres: actividades que den lugar a desprendimiento o evacuación de productos que puedan resultar directa o indirectamente perjudiciales para la salud humana.
+4. Actividades peligrosas: actividades susceptibles de originar riesgos graves por explosiones, combustiones, radiaciones u otros de análoga importancia para las personas o los bienes.
+5. Administraciones Públicas afectadas: aquellas Administraciones Públicas que tienen competencias específicas en materia de población, salud humana, biodiversidad, geodiversidad, fauna, flora, suelo, agua, aire, ruido, factores climáticos, paisaje, bienes materiales, patrimonio cultural, ordenación del territorio y urbanismo.
+6. Autorización Ambiental Integrada: la resolución escrita del órgano ambiental de la Administración de la Comunidad Autónoma de Extremadura por la que se permite, a los solos efectos de la protección del medio ambiente y de la salud de las personas, explotar la totalidad o parte de una instalación, bajo determinadas condiciones destinadas a garantizar que la misma cumple el objeto y las disposiciones de la Ley 16/2002, de 1 de julio, de prevención y control de la contaminación. Tal autorización podrá ser válida para una o más instalaciones o partes de instalaciones que tengan la misma ubicación.
+7. Autorizaciones sustantivas: las autorizaciones de industrias o instalaciones industriales que estén legal o reglamentariamente sometidas a autorización administrativa previa.
+8. Autorización Ambiental Unificada: la resolución escrita del órgano ambiental de la Administración de la Comunidad Autónoma de Extremadura por la que se permite, a los solos efectos de la protección del medio ambiente y de la salud de las personas, explotar la totalidad o parte de una instalación, bajo determinadas condiciones destinadas a garantizar que la misma cumple el objeto y las disposiciones de esta ley.
+9. Comunicación Ambiental: documento mediante el cual el titular de una instalación en la que pretenda desarrollarse una actividad, pone en conocimiento de las Administraciones Públicas competentes sus datos identificativos y demás requisitos exigibles para el inicio de la misma.
+10. Compatibilidad Ambiental: aquella que se produce cuando del desarrollo de la actividad o de la ejecución del proyecto no se deriven riesgos potenciales para la protección del medio ambiente y la salud de las personas, teniendo en cuenta la interacción de todos los factores presentes en el entorno mediato e inmediato del espacio físico donde pretenda desarrollarse la actividad o ejecutarse el proyecto.
+11. Contaminación acústica: presencia en el ambiente de ruidos o vibraciones, cualquiera que sea el emisor acústico que los origine, que impliquen molestia, riesgo o daño para las personas, para el desarrollo de sus actividades o para los bienes de cualquier naturaleza, o que causen efectos significativos sobre el medio ambiente.
+12. Contaminación lumínica: el resplandor luminoso nocturno o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera, que altera las condiciones naturales de las horas nocturnas y dificultan las observaciones astronómicas de los objetos celestes, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes y a la luminiscencia de las capas altas de la atmósfera, del resplandor luminoso debido a las fuentes de luz instaladas en el alumbrado exterior.
+13. Declaración Ambiental Estratégica: informe preceptivo y determinante del órgano ambiental con el que concluye la evaluación ambiental estratégica ordinaria que evalúa la integración de los aspectos ambientales en la propuesta final del plan o programa.
+14. Declaración de Impacto Ambiental: informe preceptivo y determinante del órgano ambiental con el que concluye la evaluación de impacto ambiental ordinaria, que evalúa la integración de los aspectos ambientales en el proyecto y determina las condiciones que deben establecerse para la adecuada protección del medio ambiente y de los recursos naturales durante la ejecución y la explotación y, en su caso, el desmantelamiento o demolición del proyecto.
+15. Documento ambiental: documento elaborado por el promotor que contiene la información necesaria para determinar la necesidad o no de someter un proyecto a evaluación de impacto ambiental ordinaria.
+16. Documento ambiental abreviado: documento elaborado por el promotor que contiene la información necesaria para evaluar los posibles efectos significativos sobre el medio ambiente y/o la salud de las personas de aquellos proyectos sometidos a evaluación de impacto ambiental abreviada.
+17. Efecto sinérgico: aquel que se produce cuando el efecto conjunto de la presencia simultánea de varias actividades supone una incidencia ambiental mayor que el efecto suma de las incidencias individuales contempladas aisladamente. Asimismo, se incluye aquel efecto cuyo modo de acción induce en el tiempo la aparición de otros nuevos.
+18. Emisión: la evacuación a la atmósfera, al agua o al suelo de sustancias o de cualquier tipo de energía, directa o indirectamente, de cualquier fuente de contaminación, sea puntual o difusa.
+19. Estudio ambiental estratégico: estudio elaborado por el promotor que, siendo parte integrante del plan o programa, identifica, describe y evalúa los posibles efectos significativos sobre el medio ambiente que puedan derivarse de la aplicación del plan o programa, así como unas alternativas razonables, técnica y ambientalmente viables, que tengan en cuenta los objetivos y el ámbito territorial de aplicación del plan o programa, con el fin de prevenir o minimizar los efectos adversos sobre el medio ambiente de la aplicación del plan o programa.
+20. Estudio de impacto ambiental: documento elaborado por el promotor que contiene la información necesaria para evaluar los posibles efectos significativos del proyecto sobre el medio ambiente y permite adoptar las decisiones adecuadas para prevenir y minimizar dichos efectos.
+21. Evaluación ambiental: procedimiento administrativo instrumental respecto del de aprobación o de adopción de planes y programas así como respecto del de autorización de proyectos o, en su caso, respecto de la actividad administrativa de control de los proyectos sometidos a declaración responsable o comunicación previa, a través del cual se analizan los posibles efectos significativos sobre el medio ambiente de los planes, programas y proyectos. La evaluación ambiental incluye tanto la «evaluación ambiental estratégica» como la «evaluación de impacto ambiental»:
+1. «Evaluación ambiental estratégica» que procede respecto de los planes y programas, y que concluye:
+a) Mediante la «Declaración Ambiental Estratégica», respecto de los sometidos al procedimiento de evaluación estratégica ordinaria, conforme a lo dispuesto en la subsección 1.ª de la sección 1.ª del capítulo VII del título I.
+b) Mediante el «Informe Ambiental Estratégico», respecto de los sometidos al procedimiento de evaluación estratégica simplificada, conforme a lo dispuesto en la subsección 2.ª de la sección 1.ª del capítulo VII del título I.
+2. «Evaluación de Impacto Ambiental» que procede respecto de los proyectos y que concluye:
+a) Mediante la «Declaración de Impacto Ambiental», respecto de los sometidos al procedimiento de evaluación de impacto ambiental ordinaria, conforme a lo dispuesto en la subsección 1.ª de la sección 2.ª del capítulo VII del título I.
+b) Mediante el «Informe de Impacto Ambiental», respecto de los sometidos al procedimiento de evaluación de impacto ambiental simplificada, conforme a lo dispuesto en la subsección 2.ª de la sección 2.ª del capítulo VII del título I.
+22. Evaluación de impacto ambiental abreviada: procedimiento administrativo instrumental respecto del de autorización de proyectos sometidos a evaluación de impacto ambiental abreviada.
+23. Informe Ambiental Estratégico: informe preceptivo y determinante del órgano ambiental con el que concluye la evaluación ambiental estratégica simplificada.
+24. Informe de Impacto Ambiental: informe preceptivo y determinante del órgano ambiental con el que concluye la evaluación de impacto ambiental simplificada.
+25. Informe de impacto ambiental abreviado: informe preceptivo y determinante del órgano ambiental con el que concluye la evaluación de impacto ambiental abreviada.
+26. Instalación: cualquier unidad técnica fija en donde se desarrolle una o más actividades, así como cualquiera otras actividades directamente relacionadas con aquéllas que guarden relación de índole técnica con las actividades llevadas a cabo en dicho lugar y puedan tener repercusiones sobre el medio ambiente y la salud de las personas.
+27. Instalación existente: cualquier instalación en funcionamiento y autorizada con anterioridad a la fecha de entrada en vigor de la presente ley.
+28. Órgano ambiental: aquel órgano al que corresponda, en cada Administración Pública, el ejercicio de las competencias en las materias reguladas en esta ley.
+29. Órgano promotor de un plan o programa: aquel órgano de una Administración Pública estatal, autonómica o local, que inicia el procedimiento para la elaboración y adopción de un plan o programa y, en consecuencia, debe integrar los aspectos ambientales en su contenido a través de un proceso de evaluación ambiental.
+30. Órgano sustantivo: aquel órgano de la Administración Pública que ostenta las competencias para adoptar o aprobar un plan o programa, para autorizar un proyecto, o para controlar la actividad de los proyectos sujetos a declaración responsable o comunicación previa.
+Cuando el proyecto consista en diferentes actuaciones cuya competencia la ostenten distintos órganos de la Administración Pública estatal, autonómica o local, se considerará órgano sustantivo aquel que ostente las competencias sobre la actividad a cuya finalidad se orienta el proyecto, con prioridad sobre los órganos que ostentan competencias sobre actividades instrumentales o complementarias respecto a aquélla.
+31. Paisaje: cualquier parte del territorio tal como la percibe la población, cuyo carácter sea el resultado de la acción y la interacción de factores naturales y/o humanos.
+32. Personas interesadas:
+a) Todos aquellos en quienes concurran cualquiera de las circunstancias previstas en el artículo 31 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+b) Cualesquiera personas jurídicas sin ánimo de lucro que, de conformidad con la Ley 27/2006, de 18 de julio, de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente, cumplan los siguientes requisitos:
+1.º Que tenga entre los fines acreditados en sus estatutos la protección del medio ambiente en general o la de alguno de sus elementos en particular.
+2.º Que lleven, al menos, dos años legalmente constituidas y venga ejerciendo, de modo activo las actividades necesarias para alcanzar los fines previstos en sus estatutos.
+3.º Que según sus estatutos, desarrollen su actividad en un ámbito territorial que resulte afectado por el proyecto o actividad sujeto a evaluación o autorización ambiental.
+33. Planes y programas: el conjunto de estrategias, directrices y propuestas destinadas a satisfacer necesidades sociales, no ejecutables directamente, sino a través de su desarrollo por medio de uno o varios proyectos.
+34. Promotor: cualquier persona física o jurídica, pública o privada, que pretende realizar un proyecto de los comprendidos en el ámbito de aplicación de esta ley, con independencia de la Administración Pública que sea la competente para su autorización.
+35. Público: cualquier persona, física o jurídica, así como sus asociaciones, organizaciones o grupos, constituidos con arreglo a la normativa que les sea de aplicación, que no reúnan los requisitos para ser considerados como personas interesadas.
+36. Suelos alterados: aquellos cuyas características han sido alteradas negativamente por la presencia de componentes químicos de carácter peligroso de origen humano, en concentración tal que no comporte un riesgo inaceptable para la salud humana o el medio ambiente, y concurran en ellos alguna de las circunstancias previstas en el anexo IV del Real Decreto 9/2005, de 14 de enero.
+37. Titular de una instalación o actividad: cualquier persona, física o jurídica, que explote, total o parcialmente, o posea la instalación o actividad.
+
+### Artículo 4
+
+Artículo 4. Principios.
+Los principios en que se inspira la presente ley y que condicionarán de modo necesario todo el desarrollo normativo autonómico en materia de medio ambiente son los siguientes:
+a) Principio de quien contamina paga, conforme al cual los costes derivados de la reparación de los daños ambientales y la devolución del medio a su estado original serán sufragados por los responsables de los mismos.
+b) Principio de adaptación al progreso técnico, que tiene por objeto la mejora en la gestión, control y seguimiento de las actividades a través de la implementación de las mejores técnicas disponibles, con menor emisión de contaminantes y menos lesivas para el medio ambiente.
+c) Principio de cautela, en virtud del cual la falta de certidumbre acerca de los datos técnicos y/o científicos no ha de evitar la adopción de medidas de protección del medio ambiente.
+d) Principio de prevención, por el que se adoptarán las medidas que se consideren necesarias como respuesta a un posible suceso, a un acto o a una omisión que pueda implicar una amenaza inminente de daño medioambiental, con objeto de impedir su producción o reducir al máximo posible sus efectos.
+e) Principio de coordinación y cooperación, en virtud del cual las Administraciones Públicas deberán, en el ejercicio de sus funciones y en sus relaciones recíprocas, coordinarse, cooperar y prestarse la debida asistencia para lograr una mayor eficacia en la protección del medio ambiente.
+f) Principio de enfoque integrado, que implica el análisis integral de la incidencia en el medio ambiente y en la salud de las personas de las actividades industriales.
+g) Principio de información, transparencia y participación, por el que las actuaciones en materia de medio ambiente se basarán en el libre acceso del público a la información en materia de medio ambiente, sirviendo como base para una efectiva participación de los sectores sociales implicados.
+h) Principio de integración, por el que las exigencias que se deriven de la protección del medio ambiente deberán tenerse en cuenta en la definición y ejecución de todas las políticas de la Comunidad Autónoma de Extremadura.
+i) Principio de sostenibilidad, basado en el uso racional y sostenible de los recursos naturales, asegurando que se satisfagan las necesidades del presente sin comprometer las capacidades de las futuras generaciones para satisfacer las suyas.
+
+### Artículo 5
+
+Artículo 5. Finalidades.
+Son fines de la presente ley:
+a) Alcanzar un elevado nivel de protección del medio ambiente en su conjunto y, consecuentemente, de la salud de las personas, mediante la utilización de los instrumentos necesarios que permitan prevenir, minimizar, corregir y controlar los impactos que originen los planes, programas, proyectos, obras y actividades de titularidad pública o privada sometidos a la presente ley.
+b) Establecer un sistema de prevención e intervención ambiental que integre las distintas autorizaciones relacionadas con la contaminación y las emisiones de determinados tipos de actividades industriales, públicas o privadas, con el fin de evitar y, cuando ello no sea posible, reducir y controlar en origen la contaminación y las emisiones al suelo, agua y aire que puedan producir.
+c) Simplificar y racionalizar los procedimientos administrativos en las materias reguladas por la presente ley.
+
+## TÍTULO I
+
+Prevención ambiental
+
+## CAPÍTULO I
+
+Ámbito y finalidad
+
+### Artículo 6
+
+Artículo 6. Objeto.
+El objeto del presente título es regular los instrumentos de intervención administrativa ambiental aplicables a los planes, programas, proyectos y actividades, públicos o privados, susceptibles de afectar al medio ambiente y/o a la salud de las personas que se lleven a cabo en la Comunidad Autónoma de Extremadura.
+
+### Artículo 7
+
+Artículo 7. Instrumentos de intervención ambiental.
+En el ámbito de la Comunidad Autónoma de Extremadura se establecen los siguientes instrumentos de intervención administrativa ambiental:
+a) Las autorizaciones ambientales, que comprenden las siguientes categorías:
+1.ª La autorización ambiental integrada para las instalaciones y actividades a las que se refiere el artículo 11.
+2.ª La autorización ambiental unificada para las instalaciones y actividades a las que se refiere el artículo 14.
+b) La comunicación ambiental autonómica para las instalaciones y actividades a las que se refiere el artículo 27.
+c) La comunicación ambiental municipal para las instalaciones y actividades a las que se refiere el artículo 33.
+d) La evaluación ambiental estratégica, que procede respecto de los planes y programas a los que se refieren los artículos 38 y 49.
+e) La evaluación de impacto ambiental, que procede respecto de los proyectos a los que se refieren los artículos 62, 73 y 78.
+
+### Artículo 8
+
+Artículo 8. Efectos transfronterizos.
+En el supuesto de que la Consejería competente en materia de medio ambiente estime que una instalación, actividad, un plan, un programa o un proyecto, sometido a cualquiera de los instrumentos de intervención ambiental establecidos en esta ley, pudiera tener efectos ambientales negativos y significativos sobre el medio ambiente de otra Comunidad Autónoma o de otro Estado miembro de la Unión Europea, se estará a lo dispuesto en la legislación estatal y en la normativa comunitaria que resulte de aplicación.
+
+### Artículo 9
+
+Artículo 9. Obligaciones de los titulares de proyectos e instalaciones sometidas a evaluación, autorización o comunicación ambiental.
+1. Los titulares de instalaciones o actividades sometidos a la presente ley, deberán asumir los costes de las medidas preventivas, correctoras, compensatorias y de vigilancia ambiental impuestas en los correspondientes instrumentos de intervención administrativa ambiental.
+2. Los titulares de instalaciones o actividades sometidos a cualesquiera de los instrumentos de intervención administrativa ambiental previstos en esta ley, conforme a lo establecido en este título deberán:
+a) Disponer de la autorización ambiental correspondiente y cumplir las condiciones establecidas en la misma.
+b) Comunicar al órgano competente para otorgar la autorización ambiental o ante el que deba presentarse la comunicación ambiental, cualquier modificación que se proponga realizar en la instalación.
+c) Comunicar al órgano competente para otorgar la autorización ambiental o ante el que deba presentarse la comunicación ambiental, la transmisión de su titularidad.
+d) Comunicar al órgano competente para otorgar la correspondiente autorización ambiental el inicio, la finalización y la interrupción voluntaria, por más de tres meses, de la actividad.
+e) Informar inmediatamente al órgano que otorgó la autorización ambiental o ante el que se presentó la comunicación ambiental, de cualquier incidente o accidente que pueda afectar al medio ambiente, sin perjuicio de lo dispuesto en la Ley 26/ 2007, de 23 de octubre, de Responsabilidad Medioambiental.
+f) Disponer de la declaración o del informe de impacto ambiental y cumplir las condiciones establecidas en los mismos.
+g) Comunicar al órgano que formuló la declaración o el informe de impacto ambiental, cualquier modificación que se proponga realizar del proyecto inicialmente evaluado.
+h) Cumplir las obligaciones de control y suministro de información previstas en la presente ley, en su posterior desarrollo reglamentario, y en el correspondiente instrumento de intervención administrativa ambiental.
+i) Prestar la asistencia y colaboración necesarias a quienes realicen las actuaciones de vigilancia, inspección y control.
+j) Cumplir cualesquiera otras obligaciones establecidas en esta ley y demás disposiciones que resulten de aplicación.
+
+### Artículo 10
+
+Artículo 10. Fraccionamiento y ampliación de proyectos o actividades e incorporación de nuevas instalaciones.
+1. El fraccionamiento de proyectos o actividades de naturaleza análoga a realizar en el mismo espacio físico, por uno o varios promotores, no impedirá su sometimiento a los instrumentos de intervención administrativa ambiental previstos en esta ley.
+A la hora de determinar los umbrales que puedan establecerse, se acumularán las magnitudes o dimensiones de cada una de las fracciones de los proyectos o actividades. En función del umbral resultante, dichos proyectos o actividades quedarán sometidos a los instrumentos de intervención administrativa ambiental que correspondan.
+Así mismo, para cualquier ampliación de proyectos, instalaciones o actividades, las dimensiones y los límites establecidos se entenderán referidos a los que resulten al final de la ampliación.
+2. Cuando una nueva instalación pretenda ubicarse en el área de influencia de instalaciones existentes, se tendrá en cuenta la compatibilidad ambiental en el procedimiento de evaluación o autorización. En caso de incompatibilidad ambiental entre la futura instalación y las instalaciones existentes, el órgano ambiental dictará resolución motivada poniendo fin al procedimiento.
+
+## CAPÍTULO II
+
+Autorización ambiental integrada
+
+### Artículo 11
+
+Artículo 11. Alcance y ámbito de aplicación.
+1. La autorización ambiental integrada tiene por objeto integrar en un sólo acto de intervención administrativa las autorizaciones, informes sectoriales preceptivos y prescripciones necesarias para la implantación y puesta en marcha de las actividades e instalaciones en materia de:
+a) Contaminación atmosférica, incluidas las determinaciones referentes a compuestos orgánicos volátiles.
+b) Vertidos a las aguas continentales.
+c) Vertidos al sistema integral de saneamiento.
+d) Producción y gestión de residuos.
+e) Suelos contaminados.
+f) Contaminación acústica.
+g) Contaminación lumínica.
+h) Contaminación radiológica.
+2. La autorización ambiental integrada incluirá las actuaciones relativas a la evaluación de impacto ambiental del proyecto.
+3. Se somete a autorización ambiental integrada la explotación de las instalaciones en las que se desarrolle alguna de las actividades incluidas en el anexo I de esta ley, con excepción de las instalaciones o partes de las mismas utilizadas para la investigación, desarrollo y experimentación de nuevos productos y procesos. Esta autorización precederá, en todo caso, a la construcción, montaje o traslado de las instalaciones, y se adaptará a las modificaciones que se produzcan en las instalaciones.
+4. El otorgamiento de la autorización ambiental integrada, así como su modificación y revisión precederá, en su caso, a las demás autorizaciones sectoriales o licencias que sean obligatorias, entre otras, a las autorizaciones sustantivas de las industrias y a las licencias urbanísticas.
+5. La autorización ambiental integrada se otorgará sin perjuicio de las autorizaciones o concesiones que deban exigirse para la ocupación o utilización del dominio público, de conformidad con lo establecido en la Ley de Aguas, Texto Refundido aprobado mediante Real Decreto legislativo 1/ 2001, de 20 de julio y en la Ley 22/1988, de 28 de julio, de Costas, y demás normativa que resulte de aplicación.
+Se exceptúan de lo establecido en este apartado, las autorizaciones de vertidos a las aguas continentales y al dominio público marítimo-terrestre, desde tierra al mar, que se incluyen en la autorización ambiental integrada, de acuerdo con esta ley.
+
+### Artículo 12
+
+Artículo 12. Contenido de la autorización ambiental integrada.
+El contenido de la autorización ambiental integrada será el establecido en el artículo 22 de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, y en el artículo 10 del Real Decreto 815/2013, 18 de octubre, por el que se aprueba el Reglamento de emisiones industriales y de desarrollo de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación.
+
+### Artículo 13
+
+Artículo 13. Procedimiento para el otorgamiento de la autorización ambiental integrada.
+1. La solicitud de autorización ambiental integrada se presentará ante la Consejería competente en materia de medio ambiente.
+2. La documentación que debe acompañar a dicha solicitud, será la siguiente:
+a) La documentación prevista en el artículo 12 del texto refundido de la Ley de Prevención y Control Integrados de la Contaminación, aprobado por Real Decreto Legislativo 1/2016, de 16 de diciembre.
+b) El estudio de impacto ambiental o el documento ambiental, cuando estos sean exigibles y la competencia para realizar la evaluación de impacto ambiental corresponda a la Comunidad Autónoma de Extremadura.
+3. Previamente a la presentación de la solicitud de autorización ambiental integrada, el solicitante deberá aportar el presupuesto de ejecución del material del proyecto objeto de autorización a fin de practicar por parte del órgano ambiental la liquidación de la tasa exigida legalmente, cuyo justificante de pago deberá aportarse junto con la solicitud. La no aportación de la documentación justificativa del pago de la tasa implicará que no se inicie la tramitación del procedimiento hasta que se haya efectuado y acreditado dicho pago, sin perjuicio de que el solicitante pueda acogerse a las exenciones y bonificaciones previstas legalmente.
+4. Presentada la solicitud junto con el resto de documentación preceptiva, se procederá a la apertura del trámite de información pública y al otorgamiento del trámite de audiencia a los interesados por plazo común de treinta días, con solicitud simultánea de los informes sectoriales correspondientes.
+La información pública se efectuará mediante anuncio en el “Diario Oficial de Extremadura” y en la sede electrónica del órgano ambiental.
+El período de información pública será común para aquellos procedimientos cuyas actuaciones se integren en el de la autorización ambiental integrada, así como, en su caso, para los procedimientos de autorizaciones sustantivas.
+Se exceptuarán del trámite de información pública aquellos datos de la solicitud que, de acuerdo con las disposiciones vigentes, gocen de confidencialidad.
+El trámite de audiencia a los interesados se llevará a cabo en la forma siguiente:
+a) Al Ayuntamiento en cuyo territorio se ubique la instalación se remitirá una copia del expediente completo a fin de que, en el plazo de treinta días desde la recepción del expediente, elabore el informe establecido en el artículo 18 del texto refundido de la Ley de Prevención y Control Integrados de la Contaminación, aprobado por Real Decreto Legislativo 1/2016, de 16 de diciembre, el cual, en su caso, deberá incluir un pronunciamiento expreso sobre la admisibilidad de los vertidos previstos a su red de saneamiento y las condiciones de dicho vertido y de su control.
+b) Al organismo de cuenca se remitirá una copia del expediente completo (en los supuestos en los que la actividad sometida a autorización ambiental integrada precise, de acuerdo con la legislación de aguas, autorización de vertido al dominio público hidráulico de cuencas gestionadas por la Administración General del Estado), a fin de que emita informe que determine las características del vertido y las medidas correctoras a adoptar para preservar el buen estado ecológico de las aguas, que deberá evacuar en el plazo de seis meses. De igual forma se procederá en el supuesto de vertidos indirectos a aguas superficiales con especial incidencia para la calidad del medio receptor.
+c) Al resto de órganos que deban informar sobre materias de su competencia se remitirá una copia del expediente completo a fin de que informen en el plazo de treinta días.
+d) A los interesados en el procedimiento, entendiendo como tales aquellos en quienes concurra cualquiera de las circunstancias previstas en el artículo 4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+e) En el plazo de cinco días desde la presentación de la solicitud de autorización ambiental integrada, el órgano ambiental otorgará trámite de audiencia al órgano autonómico con competencias en las materias reguladas por el Real Decreto 840/2015, de 21 de septiembre, por el que se aprueban medidas de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas, a fin de que éste emita, si procede, un informe en el plazo de veinte días.
+Los informes emitidos por los organismos competentes en el trámite de audiencia tendrán carácter vinculante a efectos de la resolución del procedimiento.
+5. Una vez concluido el trámite de audiencia, el órgano competente para otorgar la autorización ambiental integrada llevará a cabo la evaluación de impacto ambiental del proyecto en su conjunto.
+6. Realizada la evaluación de impacto ambiental del proyecto en su conjunto, el órgano ambiental redactará una propuesta de resolución de conformidad con lo dispuesto en el artículo 22 de del texto refundido de la Ley de Prevención y Control Integrados de la Contaminación, aprobado por Real Decreto Legislativo 1/2016, de 16 de diciembre.
+La propuesta de resolución incorporará las condiciones impuestas por los informes vinculantes emitidos y resolverá sobre el resto de informes y sobre las alegaciones planteadas por los interesados tanto en el trámite de audiencia como en el de información pública. Si se hubiesen realizado alegaciones en el trámite de audiencia al contenido de los informes emitidos por los órganos consultados, se dará traslado de las mismas, junto con la propuesta de resolución, a los órganos competentes para emitir informes con el fin de que en el plazo máximo de quince días manifiesten lo que estimen conveniente, que igualmente tendrán carácter vinculante en los aspectos referidos a materias de su competencia.
+7. El plazo máximo para dictar la resolución que ponga fin al procedimiento será de nueve meses desde la presentación de la solicitud. Transcurrido dicho plazo sin haberse dictado y notificado resolución expresa, podrá entenderse desestimada la solicitud presentada a los efectos de la interposición del correspondiente recurso en vía administrativa. Igualmente podrá interponerse recurso contra la desestimación expresa de la autorización ambiental integrada y contra los informes vinculantes que impidan la continuación del procedimiento, de conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+8. El órgano ambiental notificará la resolución de otorgamiento de la autorización ambiental integrada al promotor, a los interesados, al Ayuntamiento donde se ubique la instalación, a los distintos órganos que hubiesen emitido informes vinculantes y, en su caso, al órgano competente para otorgar la autorización sustantiva.
+9. El órgano ambiental tramitará conjuntamente la autorización ambiental integrada y la evaluación de impacto ambiental de proyectos cuando la competencia para su realización le corresponda a la Comunidad Autónoma de Extremadura.
+10. El órgano ambiental dará publicidad a la resolución administrativa que ponga fin al procedimiento de autorización ambiental integrada en el Diario Oficial de Extremadura, pudiendo la Consejería competente en materia de medio ambiente utilizar, además, otros sistemas de difusión o publicidad.
+Se modifica por el art. 7.1 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+## CAPÍTULO III
+
+Autorización ambiental unificada
+
+### Artículo 14
+
+Artículo 14. Alcance y ámbito de aplicación.
+1. La autorización ambiental unificada tiene por objeto integrar en un sólo acto de intervención administrativa las autorizaciones, informes sectoriales preceptivos y prescripciones necesarias para la implantación y puesta en marcha de las actividades e instalaciones en materia de:
+a) La evaluación de impacto ambiental del proyecto.
+b) Contaminación atmosférica, incluidas las determinaciones referente a compuestos orgánicos volátiles.
+c) Vertidos al sistema integral de saneamiento.
+d) Producción y gestión de residuos.
+e) Suelos contaminados.
+f) Contaminación acústica.
+g) Contaminación lumínica.
+h) Contaminación radiológica.
+2. Se somete a autorización ambiental unificada el montaje, explotación, traslado o modificación sustancial, de las instalaciones de titularidad pública o privada en las que se desarrolle alguna de las actividades que se incluyen en el anexo II de la presente ley.
+3. El otorgamiento de la autorización ambiental unificada, así como su modificación y revisión precederá, en su caso, a las demás autorizaciones sectoriales o licencias que sean obligatorias, entre otras, a las autorizaciones sustantivas de las industrias y a las licencias urbanísticas.
+4. La autorización ambiental unificada se otorgará sin perjuicio de las autorizaciones o concesiones que deban exigirse para los vertidos a las aguas continentales y para la ocupación o uso del dominio público, de conformidad con lo establecido en la normativa sectorial que resulte de aplicación.
+
+### Artículo 15
+
+Artículo 15. Órgano competente.
+Corresponde a la Consejería competente en materia de medio ambiente la instrucción, tramitación y resolución del procedimiento de autorización ambiental unificada.
+
+### Artículo 16
+
+Artículo 16. Procedimiento.
+1. La solicitud de la autorización ambiental unificada se presentará ante la consejería competente en materia de medioambiente y se acompañará, al menos, de la siguiente documentación:
+a) Proyecto básico, redactado por un técnico competente, que desarrolle la información relativa a los aspectos ambientales objeto de la autorización ambiental unificada, cuyo contenido se determinará reglamentariamente.
+b) Estudio de impacto ambiental, documento ambiental o documento ambiental abreviado, cuando el proyecto esté sometido al procedimiento de evaluación de impacto ambiental y la competencia para su realización no corresponda a la Administración General del Estado.
+c) Resumen no técnico de todas las indicaciones especificadas en los puntos anteriores.
+d) La determinación de los datos que, a juicio del solicitante, gocen de confidencialidad de acuerdo con las disposiciones vigentes, con indicación expresa de la norma con rango de ley que ampara dicha confidencialidad.
+e) Cualquier otra documentación e información que se determine en la normativa aplicable o en el desarrollo reglamentario de esta ley.
+2. Junto con la solicitud de autorización ambiental unificada, el solicitante deberá aportar el presupuesto de ejecución del material del proyecto objeto de autorización para que por parte del órgano ambiental se practique la liquidación de la tasa exigida legalmente.
+3. Presentada la solicitud junto con el resto de documentación preceptiva, a los efectos de promover la participación real y efectiva de las personas interesadas, se procederá a la apertura del trámite de información pública por un plazo de veinte días.
+La información pública se efectuará mediante anuncio en el “Diario Oficial de Extremadura” y en la página web del órgano ambiental.
+El período de información pública será común para aquellos procedimientos cuyas actuaciones se integren en el de la autorización ambiental unificada, así como, en su caso, para los procedimientos de autorizaciones sustantivas.
+Se exceptuarán del trámite de información pública aquellos datos de la solicitud que, de acuerdo con las disposiciones vigentes, gocen de confidencialidad.
+4. De manera simultánea a la apertura del trámite de información pública, el órgano competente para otorgar la autorización ambiental unificada remitirá copia del expediente al ayuntamiento en cuyo territorio se ubique la instalación.
+En el plazo de veinte días desde la recepción del expediente, el ayuntamiento emitirá un informe sobre la adecuación de la instalación analizada a todos aquellos aspectos que sean de su competencia. Este informe se pronunciará sobre competencias estrictamente municipales, debiendo contener un pronunciamiento sobre la gestión de los residuos generados por la actividad, sobre la compatibilidad del proyecto con el planeamiento urbanístico, sobre el cumplimiento del régimen de distancias fijado en el anexo IV del Decreto 81/2011, de 20 de mayo, por el que se aprueba el Reglamento de autorizaciones y comunicación ambiental de la Comunidad Autónoma de Extremadura, sobre la adecuación a las ordenanzas municipales existentes de carácter ambiental y las condiciones impuestas por éstas para el desarrollo de la actividad, así como sobre la existencia de otras actividades o instalaciones colindantes o cercanas que pudieran provocar efectos acumulativos o sinérgicos.
+El informe del ayuntamiento en cuyo territorio se ubique la instalación tendrá carácter vinculante, a efectos de la resolución del procedimiento, cuando se pronuncie negativamente sobre cualquiera de las materias propias del contenido de aquel.
+5. Igualmente, de manera simultánea a la apertura del trámite de información pública, el órgano competente para otorgar la autorización ambiental unificada remitirá copia del expediente a aquellos organismos que se consideren deban pronunciarse sobre las materias de sus competencias, concediéndoseles también un plazo de veinte días para emitir informe al respecto.
+Los informes emitidos por los organismos consultados tendrán, asimismo, carácter vinculante, a efectos de la resolución del procedimiento, cuando se pronuncien negativamente.
+6. De no emitirse los precitados informes en el plazo de veinte días señalado, se proseguirán las actuaciones, recogiendo expresamente la resolución dicha circunstancia. No obstante, los informes emitidos fuera de plazo, pero recibidos antes de dictar resolución, deberán ser tenidos en cuenta por el órgano competente de la comunidad autónoma.
+7. Finalizado el periodo de información pública y recibidos los informes indicados en los apartados anteriores o, en su defecto, transcurrido el plazo para la emisión de los mismos, el jefe de servicio competente en materia de autorizaciones ambientales, tras realizar una evaluación ambiental del proyecto en su conjunto y considerando los informes y las alegaciones u observaciones recabadas, así como los posibles efectos sinérgicos de la puesta en marcha y funcionamiento de la instalación con otras que pudieran existir en su entorno, elaborará una propuesta de resolución que será notificada al promotor y al ayuntamiento en cuyo territorio se ubique la instalación para que, en un plazo máximo de diez días, manifiesten lo que tengan por conveniente respecto a su contenido.
+8. El órgano ambiental dictará la resolución que ponga fin al procedimiento en el plazo máximo de tres meses desde la presentación de la solicitud. Transcurrido dicho plazo sin haberse dictado y notificado resolución expresa, podrá entenderse desestimada la solicitud presentada.
+9. El órgano ambiental notificará la resolución de otorgamiento de la autorización ambiental unificada a los interesados, al Ayuntamiento donde se ubique la instalación, a los distintos órganos que hubiesen emitido informes y, en su caso, al órgano competente para otorgar la autorización sustantiva.
+10. El órgano ambiental dará publicidad a la resolución administrativa de otorgamiento, denegación o modificación de la autorización ambiental unificada en el “Diario Oficial de Extremadura”, sin perjuicio de utilizar otros sistemas añadidos de difusión o publicidad.
+11. El órgano ambiental tramitará conjuntamente la autorización ambiental unificada y la evaluación de impacto ambiental de proyectos cuando la competencia para su realización corresponda a la Comunidad Autónoma de Extremadura. Para ello, se harán de forma simultánea, cuando procedan, según la legislación de aplicación, las informaciones públicas y las consultas pertinentes.
+Se modifica por la disposición final 3.1 del Decreto-ley 3/2021, de 3 de marzo. Ref. BOE-A-2021-13834#df-3
+ Téngase en cuenta que esta modificación será de aplicación a los procedimientos de prevención ambiental que se inicien a partir de la entrada en vigor del citado Decreto-ley 3/2021, según establece en su disposición final 3.2.
+ Se modifica por el art. 7.2 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 17
+
+Artículo 17. Contenido y vigencia de la autorización ambiental unificada.
+1. La autorización ambiental unificada deberá incluir un condicionado que permita evitar o, cuando ello no sea posible, reducir y controlar la afección al medio ambiente y a la salud de las personas en relación con los aspectos objeto de la autorización.
+2. El contenido de la autorización ambiental unificada se establecerá reglamentariamente.
+3. La autorización ambiental unificada incluirá la Declaración de Impacto Ambiental o las prescripciones del informe de impacto ambiental en los casos en que éstos sean exigibles, no pudiendo otorgarse la autorización ambiental unificada sin que se haya emitido declaración o informe de impacto ambiental favorable.
+4. De forma general, la autorización ambiental unificada se otorgará por periodo indefinido, sin perjuicio de la necesidad de obtener o renovar, en su caso, las diversas autorizaciones sectoriales que sean pertinentes para el ejercicio de la actividad en los periodos establecidos en esta ley y en la normativa reguladora vigente.
+
+## CAPÍTULO IV
+
+Normas comunes a las autorizaciones ambientales
+
+### Artículo 18
+
+Artículo 18. Inadmisión de solicitudes.
+1. En el plazo de veinte días desde la presentación de la solicitud de autorización ambiental, junto con la documentación que resulte legalmente exigible, el órgano ambiental podrá resolver su inadmisión por alguna de las siguientes causas:
+a) Que la documentación técnica aportada por el solicitante no reúna las condiciones técnicas suficientes.
+b) Que se hubiesen desestimado, en cuanto al fondo, otras solicitudes referidas a proyectos sustancialmente iguales al presentado.
+2. Previamente al dictado y notificación de la resolución por la que se declare la inadmisión de la solicitud formulada, el órgano ambiental otorgará trámite de audiencia al solicitante por plazo de diez días, para que manifieste lo que tenga por conveniente en defensa de sus derechos e intereses.
+3. Contra la resolución de inadmisión, que será motivada en todo caso, podrán interponerse por los interesados los recursos legalmente procedentes en vía administrativa, y jurisdiccional, en su caso.
+
+### Artículo 19
+
+Artículo 19. Comunicación de inicio de la actividad.
+1. Otorgada la autorización ambiental, los titulares de las instalaciones nuevas o que hayan llevado a cabo una modificación de las mismas, para iniciar la actividad productiva habrán de realizar la preceptiva comunicación al órgano ambiental, en la forma descrita en el apartado siguiente.
+2. A estos efectos, el titular de la autorización ambiental deberá presentar ante el órgano ambiental la comunicación de inicio de la actividad, indicando la fecha de la misma, a la que deberá acompañar:
+a) Un certificado suscrito por técnico competente, según el tipo de actividad objeto de autorización, que acredite que las instalaciones se ajustan al proyecto aprobado y que se ha cumplido el condicionado fijado en la autorización ambiental en la ejecución de las obras e instalaciones.
+b) Informes de medición de emisiones al medio ambiente o de calidad del medio ambiente potencialmente afectado u otros ensayos recogidos en la autorización ambiental. Estos informes deberán ser realizados por organismos de control autorizados o por técnico competente, para actuar, en ambos casos, en el ámbito de la calidad ambiental que corresponda para cada caso.
+c) Declaración donde manifieste su compromiso expreso de remitir al órgano ambiental, una vez iniciada la actividad, la documentación que acredite una adecuada gestión de los residuos generados por la misma.
+d) Copia de la licencia urbanística que hubiera legitimado los actos y operaciones necesarios para la ejecución de las obras, así como la posterior implantación y desarrollo de la actividad.
+e) Para las instalaciones sujetas a autorización ambiental unificada, autorización de vertido emitida por el órgano competente, cuando esta fuere legalmente exigible.
+3. Las mediciones a que se refiere la letra b) del apartado anterior, deberán ser representativas del funcionamiento de la instalación y se realizarán durante las pruebas llevadas a cabo, inmediatamente antes del inicio de la actividad, para el ajuste de los equipos e instalaciones. La previsión temporal de estas pruebas, de las mediciones a realizar y del inicio de la actividad deberá ser comunicada al órgano ambiental antes de su comienzo. La duración del período de funcionamiento en pruebas deberá ser la adecuada a las características de la actividad, y en ningún caso superior a seis meses.
+En aquellas actividades que por sus características no precisen de ese periodo de pruebas para la realización de las mediciones que se requieran a fin de llevar a cabo la comunicación de inicio, no será necesaria la notificación a que se refiere el párrafo anterior.
+4. Previa visita de comprobación a las instalaciones objeto de autorización, los servicios técnicos del órgano ambiental emitirán un informe en el que se haga constar si las instalaciones se ajustan al proyecto aprobado y al condicionado de la autorización ambiental, comprobando el cumplimiento de las condiciones fijadas en la autorización ambiental. En el supuesto de instalaciones sometidas a una modificación sustancial, el citado informe deberá referirse a la totalidad de las instalaciones.
+Si el órgano ambiental estima, tras la realización de la visita, que concurren deficiencias subsanables, lo hará constar así en el informe y concederá un trámite de quince días al titular de la instalación para que proceda a subsanar las mismas.
+5. La comprobación y el informe deberán realizarse en el plazo de un mes desde la comunicación de inicio de la actividad por parte del titular de las instalaciones. Si en dicho plazo el órgano ambiental no hubiera otorgado expresamente su conformidad con el inicio de la actividad, se entenderá otorgada.
+6. La comprobación a que se refiere este artículo podrá realizarse a través de entidades colaboradoras de la Administración, con arreglo a lo que se determine reglamentariamente.
+
+### Artículo 20
+
+Artículo 20. Modificación de la instalación.
+1. Los titulares de las instalaciones que cuenten con autorización ambiental integrada o unificada deberán comunicar al órgano ambiental cualquier modificación que se propongan realizar en la instalación.
+2. La modificación de una instalación sometida a autorización ambiental integrada o unificada podrá ser sustancial o no sustancial.
+3. El titular de una instalación que pretenda llevar a cabo una modificación no sustancial de la misma deberá comunicarlo al órgano ambiental indicando razonadamente porqué considera que se trata de una modificación no sustancial. A esta comunicación se acompañarán los documentos justificativos de las razones expuestas.
+El titular podrá llevar a cabo la modificación siempre que el órgano competente para otorgar la autorización ambiental no manifieste lo contrario en el plazo de un mes, a contar desde la correcta presentación de los documentos justificativos, tanto en forma como en contenido.
+En los casos de modificación de la autorización ambiental, como consecuencia de la modificación no sustancial de la instalación, se procederá a publicar dicha modificación en la sede electrónica del órgano ambiental. Además, en el caso de la autorización ambiental integrada, la modificación no sustancial será publicada en el Diario oficial de Extremadura.
+4. En caso de que el titular proyecte realizar una modificación de carácter sustancial, esta no podrá llevarse a cabo en tanto no sea otorgada una nueva autorización ambiental; y para el caso particular de la autorización ambiental integrada, la modificación sustancial se tramitará por el procedimiento simplificado que establece el artículo 15 del Real Decreto 815/2013, de 18 de octubre, por el que se aprueba el Reglamento de emisiones industriales y de desarrollo de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación.
+5. Tras la resolución de una modificación sustancial, la parte o partes afectadas por la misma podrán iniciar su puesta en funcionamiento en los términos previstos en el artículo 19.
+6. Para la justificación de la modificación sustancial se tendrá en cuenta la mayor incidencia de la modificación proyectada sobre la seguridad, la salud de las personas y el medio ambiente, en los siguientes aspectos:
+a) El tamaño y producción de la instalación.
+b) Los recursos naturales utilizados por la misma.
+c) Su consumo de agua y energía.
+d) El volumen, peso y tipología de los residuos generados.
+e) La calidad y capacidad regenerativa de los recursos naturales de las áreas geográficas que puedan verse afectadas.
+f) El grado de contaminación producido.
+g) El riesgo de accidente.
+h) La incorporación o aumento en el uso de sustancias peligrosas.
+i) La incorporación a las emisiones al medio ambiente de un nuevo contaminante en cantidad significativa.
+j) Un incremento de las emisiones al medio ambiente que conlleve un riesgo de superación de los criterios de calidad ambiental en relación a uno o más contaminantes.
+7. Cualquier ampliación o modificación de las características o del funcionamiento de la instalación se considerará sustancial si la modificación o ampliación alcanza, por sí sola, los umbrales de capacidad establecidos, cuando estos existan, en los anexos I y II respectivamente, o si ha de ser sometida al procedimiento de evaluación de impacto ambiental de acuerdo con la normativa sobre esta materia.
+8. A la hora de evaluar la sustancialidad de una modificación, a la incidencia de ésta se sumarán las incidencias de las anteriores modificaciones no sustanciales que hubiera podido haber desde el otorgamiento, revisión, actualización o modificación sustancial de la autorización ambiental.
+9. En caso de una modificación que esté relacionada con la autorización de vertido a cuencas gestionadas por la Administración General del Estado incluida en la autorización ambiental integrada, el órgano ambiental remitirá al organismo de cuenca copia de la comunicación referida en el apartado uno en el plazo de cinco días desde su recepción, y le requerirá que se pronuncie sobre la necesidad de tramitar una nueva autorización de vertido. El organismo de cuenca contará con un plazo de diez días desde la entrada de la documentación en su registro, para responder. Transcurrido este plazo sin haberse recibido respuesta, se proseguirán las actuaciones.
+Cuando se trate de una autorización de vertido a una red de saneamiento municipal, se procederá de forma análoga, remitiendo la documentación al Ayuntamiento en cuyo término municipal se halle la red de saneamiento receptora del vertido industrial.
+10. Si la instalación cuya modificación se pretende se ubica en alguna de las Áreas Protegidas de la Comunidad Autónoma de Extremadura, el órgano ambiental remitirá al órgano competente en materia de áreas protegidas, en el plazo de 5 días desde su recepción, una copia de la comunicación a la que se refiere el apartado primero de este artículo, para que se pronuncie sobre aquella en el plazo de 10 días. Transcurrido dicho plazo sin pronunciamiento alguno, se proseguirán las actuaciones.
+11. El órgano ambiental a tenor de lo indicado en la solicitud del promotor, una vez analizada la modificación conforme a lo establecido en este artículo y, en su caso, a la vista del informe del organismo de cuenca, se pronunciará en el plazo de un mes sobre el carácter sustancial o no de la modificación.
+12. Cuando la modificación presentada sea considerada no sustancial por el órgano ambiental, la resolución incluirá los términos precisos para adecuar el condicionado de la autorización a aquélla.
+13. El órgano ambiental notificará la modificación no sustancial al titular de la autorización ambiental, a los órganos consultados en el procedimiento autorizatorio, y dará publicidad a la resolución administrativa en su sede electrónica.
+14. Si estando en tramitación un procedimiento de autorización ambiental integrada o unificada, por parte del promotor del proyecto se presentara una modificación de este, en caso de que dicha modificación tuviere el carácter de sustancial, se retrotraerá la tramitación del procedimiento a su fase inicial. En el caso de que la modificación planteada no revista carácter sustancial, el órgano que tramite el procedimiento evaluará la conveniencia de retrotraer el mismo a su fase inicial atendiendo a las características de la modificación propuesta.
+15. Cuando la modificación de una instalación implique un aumento o disminución de su capacidad de producción de tal forma que dicho aumento o disminución conlleve la necesidad de que la misma deba poseer una autorización ambiental distinta de la inicialmente otorgada, el promotor deberá iniciar la tramitación del procedimiento legalmente previsto para la obtención de la autorización ambiental que en cada caso resulte preceptiva.
+Si dicho aumento o disminución tiene como consecuencia que la instalación deba poseer autorización ambiental unificada para ejercer la actividad industrial, se considerarán realizados aquellos trámites a los que ya se hubiere dado debido cumplimiento en el procedimiento de autorización ambiental ya resuelto, y se tendrá por aportada al nuevo procedimiento la documentación que ya obre en poder del órgano ambiental.
+
+### Artículo 21
+
+Artículo 21. Modificación de oficio de la autorización ambiental.
+1. La autorización ambiental integrada o unificada podrá ser revisada de oficio cuando:
+a) La contaminación producida por la instalación haga conveniente la revisión de los valores límite de emisión impuestos o la adopción de otros nuevos.
+b) Resulte posible reducir significativamente las emisiones sin imponer costes excesivos a consecuencia de importantes cambios en las mejores técnicas disponibles.
+c) La seguridad de funcionamiento del proceso o actividad haga necesario emplear otras técnicas.
+d) El organismo de cuenca, conforme a lo establecido en la legislación de aguas, estime que existen circunstancias que justifiquen la revisión de la autorización ambiental integrada en lo relativo a vertidos al dominio público hidráulico de cuencas gestionadas por la Administración General del Estado. En este supuesto, el organismo de cuenca requerirá, mediante informe vinculante, al órgano competente para otorgar la autorización ambiental integrada, a fin de que inicie el procedimiento de revisión en un plazo máximo de veinte días.
+e) Así lo exija la legislación sectorial que resulte de aplicación a la instalación o sea necesario cumplir normas nuevas o revisadas de calidad ambiental en virtud del artículo 22.3 de la Ley 16/2002, de 1 de julio.
+f) Por causas distintas de las previstas en las letras anteriores, se considere necesaria dicha modificación por contribuir a la mejora de la función de prevención y control que corresponde al órgano ambiental, o a una reducción en los costes a asumir por los promotores en orden a dar cumplimiento al condicionado de la autorización ambiental sin menoscabo de la debida protección para el medio ambiente y la salud de las personas.
+g) En el supuesto previsto en el artículo 13. 3.a) del Real Decreto 815/2013, de 18 de octubre, por el que se aprueba el Reglamento de emisiones industriales y de desarrollo de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación.
+2. La modificación a que se refiere el apartado anterior no dará derecho a indemnización.
+3. El órgano competente para otorgar la autorización ambiental solicitará previamente a los órganos que deban pronunciarse sobre las diferentes materias ambientales de su competencia que, en el plazo de diez días, indiquen qué documentación estiman necesaria revisar.
+4. Recibidos los pronunciamientos anteriores, el órgano competente requerirá al titular de la autorización para que, en el plazo de quince días, aporte dicha documentación.
+5. El órgano ambiental solicitará informe al Ayuntamiento en cuyo término municipal se desarrolle la actividad y al organismo de cuenca, cuando haya modificaciones en las condiciones de vertido al dominio público hidráulico, para que en el plazo de quince días manifiesten lo que consideren conveniente en el ámbito de sus competencias. Posteriormente, y previo trámite de audiencia a los interesados por plazo de diez días, el órgano ambiental elaborará una propuesta de resolución.
+6. El plazo máximo de resolución de la modificación de oficio de la autorización ambiental integrada o unificada será de tres meses desde la notificación al titular de la instalación del inicio del procedimiento.
+7. Las modificaciones de oficio de las autorizaciones ambientales se notificarán y harán públicas conforme a lo establecido para el resto de modificaciones incluidas en el artículo anterior.
+
+### Artículo 22
+
+Artículo 22. Transmisión de la titularidad de la autorización ambiental.
+1. Los titulares de instalaciones que cuenten con autorización ambiental integrada o unificada deberán comunicar al órgano ambiental la transmisión de la titularidad de la instalación. Para ello, los sujetos que intervengan en la transmisión deberán solicitar al órgano ambiental la modificación de la autorización en cuanto al titular de la instalación en el plazo máximo de un mes desde que la transmisión se haya producido.
+2. La comunicación irá acompañada de copia del acuerdo suscrito entre las partes, en el que deberá identificarse la persona o personas que pretendan subrogarse, total o parcialmente, en la actividad, expresando todas y cada una de las condiciones en que se verificará la subrogación, asumiendo el condicionado impuesto en la autorización; y conteniendo el compromiso de la persona o personas que pretendan hacerse cargo de la actividad de prestar garantías suficientes, en el caso de que fueran exigibles, como mínimo, equivalentes a las ya constituidas.
+3. Si se produce la transmisión y no se efectúa la correspondiente solicitud, el anterior y el nuevo titular quedarán sujetos de forma solidaria ante el órgano ambiental, respecto de todas aquellas obligaciones derivadas de la correspondiente autorización ambiental.
+Una vez producida la transmisión, el nuevo titular se subrogará en los derechos y obligaciones del anterior titular.
+
+### Artículo 23
+
+Artículo 23. Caducidad de la autorización ambiental.
+1. El órgano ambiental, previa audiencia del titular, declarará la caducidad de la autorización ambiental integrada o unificada cuando:
+a) La actividad no se halle implantada y en funcionamiento en el plazo de cinco años a partir de la fecha de otorgamiento de la correspondiente autorización, salvo que en ésta se fije un plazo superior.
+b) El ejercicio de la actividad principal o el funcionamiento de la instalación se paralice por plazo superior a dos años.
+2. El titular de la actividad o instalación, no obstante, podrá solicitar justificadamente del órgano ambiental una prórroga, a los efectos de suspender los plazos de caducidad previstos en este artículo.
+3. La resolución por la que se declare la caducidad de la autorización ambiental deberá ser comunicada por el órgano ambiental al Ayuntamiento en cuyo término municipal se ubique la instalación, a los órganos que hubiesen emitido informes vinculantes en el procedimiento y al órgano sustantivo.
+
+### Artículo 24
+
+Artículo 24. Control y seguimiento de la actividad.
+1. Los titulares de las instalaciones que cuenten con autorización ambiental integrada o unificada deberán cumplir las obligaciones de control y suministro de información previstas en la correspondiente autorización ambiental.
+2. En todo caso, deberán informar inmediatamente al órgano ambiental de cualquier incidente o accidente que pueda afectar al medio ambiente.
+
+### Artículo 25
+
+Artículo 25. Carácter e interrelación con otras autorizaciones y/o licencias.
+1. Las autorizaciones ambientales son preceptivas y previas a las demás autorizaciones sectoriales o licencias que sean exigibles para la implantación, puesta en marcha y explotación de las instalaciones sujetas a las mismas.
+2. Serán nulas de pleno derecho las licencias o autorizaciones otorgadas contraviniendo lo dispuesto en el apartado anterior.
+3. El procedimiento para el otorgamiento de las autorizaciones ambientales sustituirá a los medios de intervención administrativa en la actividad de los ciudadanos que puedan establecer las Administraciones competentes para el ejercicio de actividades molestas, insalubres y peligrosas.
+A estos efectos, las autorizaciones ambientales serán, en su caso, vinculantes para la autoridad local cuando impliquen la denegación del ejercicio de las actividades o la imposición de medidas correctoras, así como en lo referente a todos los aspectos medioambientales propios del contenido de aquellas.
+
+### Artículo 25 bis
+
+Artículo 25 bis. Funcionario responsable de la tramitación del expediente.
+1. La solicitud de autorización ambiental se presentará, en cualquiera de sus clases, ante el órgano designado por la comunidad autónoma, siempre y cuando se ubique la instalación dentro del territorio de Extremadura.
+2. Recibida la documentación, se procederá a designarle un número específico de expediente, que será único para toda la tramitación del proceso.
+3. A continuación, el Jefe del Servicio competente en la materia designará el funcionario responsable de su tramitación, que tendrá las siguientes obligaciones: tramitar todas y cada una de las diligencias necesarias hasta la finalización de una propuesta de resolución, debiendo encargarse de solicitar los informes que, en cada caso, sean necesarios.
+4. La ausencia de presentación de un informe sectorial necesario en el plazo establecido habilita para que, al día siguiente del vencimiento, el funcionario responsable requiera al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe para que en el plazo de diez días, contados a partir de la recepción del requerimiento, ordene al órgano competente la entrega del correspondiente informe.
+5. La designación del funcionario responsable será realizada por el Jefe del Servicio competente en la materia entre los funcionarios a su cargo. El proceso de designación se realizará por orden de antigüedad en el puesto y de manera rotatoria, comenzando, por tanto, por el más antiguo y continuando por el siguiente en antigüedad, con diligencia expresa que deberá firmar el funcionario designado.
+Se añade por el art. 7.3 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+## CAPÍTULO V
+
+Comunicación ambiental autonómica
+
+### Artículo 26
+
+Artículo 26. Objeto.
+La comunicación ambiental autonómica tiene por objeto prevenir y controlar, en el marco de las competencias atribuidas a la Comunidad Autónoma de Extremadura, los efectos sobre la salud humana y el medio ambiente de las instalaciones y actividades sujetas a la misma.
+
+### Artículo 27
+
+Artículo 27. Ámbito de aplicación.
+1. Se somete a comunicación ambiental autonómica el ejercicio de las actividades incluidas en el anexo II bis de la presente ley.
+2. No obstante lo dispuesto en el apartado anterior, en ningún caso estarán sometidas a comunicación ambiental autonómica las actividades sujetas a autorización ambiental integrada, a autorización ambiental unificada o a comunicación ambiental municipal.
+
+### Artículo 28
+
+Artículo 28. Competencia.
+Corresponde a la Consejería competente en materia de medio ambiente la comprobación, vigilancia, inspección y sanción de las actividades sometidas a comunicación ambiental autonómica.
+
+### Artículo 29
+
+Artículo 29. Procedimiento.
+1. A través de la comunicación ambiental autonómica, los titulares de las instalaciones en las que pretendan desarrollarse las actividades recogidas en el anexo II bis de esta ley, ponen en conocimiento de la Consejería competente en materia medio ambiente sus datos identificativos así como la actividad cuyo ejercicio se pretende.
+2. La comunicación ambiental autonómica, debidamente suscrita por el interesado, debe ir acompañada de la siguiente documentación:
+a) Proyecto o memoria en los que se describan la actividad y sus principales impactos ambientales, especialmente los relativos a las emisiones al aire, al agua, al suelo, la gestión de residuos, y la contaminación acústica y lumínica.
+b) Certificación emitida por el técnico director de la ejecución del proyecto, debidamente identificado mediante nombre y apellidos, titulación y documento nacional de identidad, en la que se especifique la adecuación de la instalación a la actividad que vaya a desarrollarse, y el cumplimiento de los requisitos establecidos por la normativa sectorial de aplicación.
+c) Copia de las autorizaciones, notificaciones o informes de carácter ambiental de las que se deba disponer para poder ejercer la actividad en cada caso, en especial: declaración de impacto ambiental o informe de impacto ambiental; notificación de producción de residuos peligrosos; autorización o notificación de emisiones contaminantes a la atmósfera, incluyendo la notificación de emisión de compuestos orgánicos volátiles; autorización de vertido a la red de saneamiento municipal o a dominio público hidráulico, según corresponda, así como del instrumento de control al que se encuentren sujetas las obras e instalaciones necesarias para el ejercicio de la actividad por exigencia de la legislación urbanística.
+3. La comunicación ambiental autonómica permitirá el inicio de la actividad desde el día de su presentación, sin perjuicio de que a dichos fines la instalación deba poseer las autorizaciones sectoriales o licencias que resulten legalmente exigibles.
+4. En los diez días siguientes a la presentación de la comunicación ambiental autonómica, el personal del órgano ambiental que tenga atribuidas funciones de inspección, llevará a cabo las actuaciones que se consideren necesarias para verificar las condiciones en que se ejerce la actividad objeto de comunicación en las instalaciones titularidad del comunicante.
+5. La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento que se acompañe o incorpore a una comunicación ambiental autonómica, determinará la imposibilidad de continuar con el ejercicio de la actividad desde el momento en que la Consejería competente en materia medio ambiente tenga constancia de tales hechos, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiera lugar.
+6. La Consejería competente en materia de medio ambiente publicará en su sede electrónica un modelo de comunicación ambiental autonómica a los efectos previstos en el presente artículo.
+
+### Artículo 30
+
+Artículo 30. Modificación de la actividad.
+El traslado y la modificación sustancial de una actividad sometida a comunicación ambiental autonómica estará igualmente sometido a dicha comunicación, salvo que uno u otra implique un cambio en el régimen de intervención administrativa ambiental aplicable a la actividad, en cuyo caso se estará a lo dispuesto en la presente ley para dicho régimen.
+
+### Artículo 31
+
+Artículo 31. Transmisión de la titularidad de la comunicación ambiental.
+1. Los titulares de instalaciones en las que se desarrollen actividades que cuenten con comunicación ambiental autonómica deberán poner en conocimiento de la Consejería competente en materia de medio ambiente la transmisión de la titularidad de la instalación. Para ello, los sujetos que intervengan en la transmisión deberán solicitar a dicha Consejería la modificación de la comunicación ambiental autonómica en cuanto al titular de la instalación en el plazo máximo de un mes desde que la transmisión se haya producido.
+2. A los efectos previstos en el párrafo anterior, deberá aportarse copia del acuerdo suscrito entre las partes, en el que deberá identificarse la persona o personas que pretendan subrogarse, total o parcialmente, en la actividad, expresando todas y cada una de las condiciones en que se verificará la subrogación.
+3. Si se produce la transmisión y no se efectúa la correspondiente solicitud, el anterior y el nuevo titular quedarán sujetos de forma solidaria ante la Consejería competente en materia de medio ambiente, respecto de todas aquellas obligaciones derivadas de la correspondiente comunicación ambiental autonómica.
+4. Una vez producida la transmisión, el nuevo titular se subrogará en todos los derechos y obligaciones del anterior titular.
+
+## CAPÍTULO VI
+
+Comunicación ambiental municipal
+
+### Artículo 32
+
+Artículo 32. Objeto.
+La comunicación ambiental municipal tiene por objeto prevenir y controlar, en el marco de las competencias municipales, los efectos sobre la salud humana y el medio ambiente de las instalaciones y actividades sujetas a la misma.
+
+### Artículo 33
+
+Artículo 33. Ámbito de aplicación.
+1. Se somete a comunicación ambiental municipal el ejercicio de las actividades incluidas en el anexo III de la presente ley.
+2. No obstante lo dispuesto en el apartado anterior, en ningún caso estarán sometidas a comunicación ambiental municipal las actividades sujetas a autorización ambiental integrada, a autorización ambiental unificada o a comunicación ambiental autonómica.
+
+### Artículo 34
+
+Artículo 34. Competencia.
+1. Corresponde al Ayuntamiento la comprobación, vigilancia, inspección y sanción de las actividades sometidas a comunicación ambiental municipal.
+2. Para ejercer las funciones a que se refiere el apartado anterior, los Ayuntamientos podrán recabar el auxilio o asistencia de otras Administraciones o entidades de derecho público en los términos establecidos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+
+### Articulo 35
+
+Articulo 35. Procedimiento.
+1. La comunicación ambiental municipal deberá presentarse una vez finalizadas las obras e instalaciones necesarias para el ejercicio de la actividad. A estos efectos, dichas obras e instalaciones deberán estar amparadas, en su caso, por los instrumentos de control previstos en la legislación urbanística, y ello sin perjuicio del resto de autorizaciones sectoriales que fueren legalmente exigibles para el desarrollo de la actividad.
+2. En todo caso, en la comunicación ambiental municipal el interesado manifestará bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa ambiental para el ejercicio de la actividad que se dispone a iniciar, que posee la documentación que así lo acredita y que se compromete a mantener su cumplimiento durante todo el periodo de tiempo que dure el ejercicio de la actividad.
+3. La comunicación ambiental municipal, debidamente suscrita por el interesado, debe ir acompañada de la siguiente documentación:
+a) Proyecto o memoria en los que se describan la actividad y sus principales impactos ambientales, especialmente los relativos a las emisiones al aire, al agua, al suelo, la gestión de residuos, y la contaminación acústica y lumínica.
+b) Certificación emitida por el técnico director de la ejecución del proyecto, debidamente identificado mediante nombre y apellidos, titulación y documento nacional de identidad, en la que se especifique la adecuación de la instalación a la actividad que vaya a desarrollarse, y el cumplimiento de los requisitos establecidos por la normativa sectorial de aplicación.
+c) Copia de las autorizaciones, notificaciones o informes de carácter ambiental de las que se deba disponer para poder ejercer la actividad en cada caso, en especial: declaración de impacto ambiental o informe de impacto ambiental; notificación de producción de residuos peligrosos; autorización o notificación de emisiones contaminantes a la atmósfera, incluyendo la notificación de emisión de compuestos orgánicos volátiles; autorización de vertido a la red de saneamiento municipal o a dominio público hidráulico, según corresponda.
+4. Una vez efectuada la comunicación, el ejercicio de la actividad se iniciará bajo la exclusiva responsabilidad de sus titulares y del personal técnico que hayan aportado y suscrito, respectivamente, las certificaciones, mediciones, análisis y comprobaciones a los que se refiere el apartado anterior, sin perjuicio de que, para el inicio de la actividad, los titulares de la misma deban estar en posesión del resto de autorizaciones sectoriales o licencias exigidos por la normativa sectorial de aplicación.
+
+### Artículo 36
+
+Artículo 36. Modificación de la actividad.
+El traslado y la modificación sustancial de una actividad sometida a comunicación ambiental municipal estará igualmente sometido a dicha comunicación, salvo que uno u otra implique un cambio en el régimen de intervención administrativa ambiental aplicable a la actividad, en cuyo caso se estará a lo dispuesto en la presente ley para dicho régimen.
+
+### Artículo 37
+
+Artículo 37. Transmisión de la titularidad de la comunicación ambiental.
+1. Los titulares de instalaciones en las que se desarrollen actividades que cuenten con comunicación ambiental municipal deberán poner en conocimiento del Ayuntamiento la transmisión de la titularidad de la instalación. Para ello, los sujetos que intervengan en la transmisión deberán solicitar al Ayuntamiento la modificación de la comunicación ambiental municipal en cuanto al titular de la instalación en el plazo máximo de un mes desde que la transmisión se haya producido.
+2. A los efectos previstos en el párrafo anterior, deberá aportarse copia del acuerdo suscrito entre las partes, en el que deberá identificarse la persona o personas que pretendan subrogarse, total o parcialmente, en la actividad, expresando todas y cada una de las condiciones en que se verificará la subrogación.
+3. Si se produce la transmisión y no se efectúa la correspondiente solicitud, el anterior y el nuevo titular quedarán sujetos de forma solidaria ante el Ayuntamiento y el órgano ambiental, respecto de todas aquellas obligaciones derivadas de la correspondiente comunicación ambiental.
+4. Una vez producida la transmisión, el nuevo titular se subrogará en todos los derechos y obligaciones del anterior titular.
+
+## CAPÍTULO VII
+
+Evaluación ambiental
+
+## Sección 1
+
+Sección 1.ª Evaluación Ambiental Estratégica
+
+## Subsección 1
+
+Subsección 1.ª Procedimiento de evaluación ambiental estratégica ordinaria para la formulación de la declaración ambiental estratégica
+
+### Artículo 38
+
+Artículo 38. Ámbito de aplicación de la evaluación ambiental estratégica.
+Serán objeto de una evaluación ambiental estratégica ordinaria los planes y programas, así como sus modificaciones, que se adopten o aprueben por una Administración Pública y cuya elaboración y aprobación venga exigida por una disposición legal o reglamentaria o por acuerdo del Consejo de Gobierno, cuando:
+a) Establezcan el marco para la futura autorización de proyectos legalmente sometidos a evaluación de impacto ambiental y se refieran a la agricultura, ganadería, silvicultura, acuicultura, pesca, energía, minería, industria, transporte, gestión de residuos, gestión de recursos hídricos, ocupación del dominio público marítimo terrestre, utilización del medio marino, telecomunicaciones, turismo, ordenación del territorio urbano y rural, o del uso del suelo; o bien,
+b) Requieran una evaluación por afectar a espacios Red Natura 2000 en los términos previstos en la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad.
+c) Los comprendidos en el artículo 49 cuando así lo decida caso por caso el órgano ambiental en el informe ambiental estratégico de acuerdo con los criterios del anexo VIII de esta ley.
+d) Los planes y programas incluidos en el artículo 49, cuando así lo determine el órgano ambiental, a solicitud del promotor.
+
+### Artículo 39
+
+Artículo 39. Trámites y plazos de la evaluación ambiental estratégica ordinaria.
+1. La evaluación ambiental estratégica ordinaria constará de los siguientes trámites:
+a) Solicitud de inicio.
+b) Consultas previas y determinación del alcance del estudio ambiental estratégico.
+c) Elaboración del estudio ambiental estratégico.
+d) Información pública y consultas a las Administraciones públicas afectadas y personas interesadas.
+e) Análisis técnico del expediente.
+f) Declaración ambiental estratégica.
+2. El órgano ambiental dispondrá de un plazo máximo de dos meses, contados desde la recepción de la solicitud de inicio de la evaluación ambiental estratégica ordinaria, acompañada del borrador del plan o programa y de un documento inicial estratégico, para realizar las consultas previstas en el artículo 41.1 y elaborar un documento de alcance del estudio ambiental estratégico regulado en el artículo 41.2.
+3. El plazo máximo para la elaboración del estudio ambiental estratégico, y para la realización de la información pública y de las consultas previstas en los artículos 42, 43 y 44.1 será de nueve meses desde la notificación al promotor del documento de alcance.
+4. Para el análisis técnico del expediente y la formulación de la declaración ambiental estratégica, el órgano ambiental dispondrá de un plazo de cuatro meses, desde la recepción del expediente completo, de acuerdo con los artículos 44 y 45.
+Se modifica por el art. 10.1 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+### Artículo 40
+
+Artículo 40. Solicitud de inicio de la evaluación ambiental estratégica ordinaria.
+1. Dentro del procedimiento sustantivo de adopción o aprobación del plan o programa el promotor presentará ante el órgano sustantivo, junto con la documentación exigida por la legislación sectorial, una solicitud de inicio de la evaluación ambiental estratégica ordinaria, acompañada del borrador del plan o programa y de un documento inicial estratégico que contendrá, al menos, la siguiente información:
+a) Los objetivos de la planificación.
+b) El alcance y contenido del plan o programa propuesto y de sus alternativas razonables, técnica y ambientalmente viables.
+c) Diagnóstico previo de la zona, teniendo en cuenta los aspectos relevantes de la situación del medio actual.
+d) El desarrollo previsible del plan o programa.
+e) Los potenciales impactos ambientales tomando en consideración el cambio climático.
+f) Las incidencias previsibles sobre los planes sectoriales y territoriales concurrentes.
+2. Si el órgano sustantivo comprobara que la solicitud de inicio no incluye los documentos señalados en el apartado anterior requerirá al promotor para que, en un plazo de diez días hábiles, acompañe los documentos preceptivos, con los efectos previstos en el artículo 68 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+Asimismo, el órgano sustantivo comprobará que la documentación presentada de conformidad con la legislación sectorial cumple los requisitos en ella exigidos.
+3. Una vez realizadas las comprobaciones anteriores, el órgano sustantivo remitirá al órgano ambiental la solicitud de inicio y los documentos que la deben acompañar.
+4. En el plazo de veinte días hábiles desde la recepción de la solicitud de inicio de la evaluación ambiental estratégica ordinaria, el órgano ambiental podrá resolver su inadmisión por algunas de las siguientes razones:
+a) Si estimara de modo inequívoco que el plan o programa es manifiestamente inviable por razones ambientales.
+b) Si estimara que el documento inicial estratégico no reúne condiciones de calidad suficientes.
+c) Si ya hubiese inadmitido o ya hubiese dictado una declaración ambiental estratégica desfavorable en un plan o programa sustancialmente análogo al presentado.
+Con carácter previo a la adopción de la resolución por la que se acuerde la inadmisión, el órgano ambiental dará audiencia al promotor, informando de ello al órgano sustantivo, por un plazo de diez días hábiles que suspende el previsto para declarar la inadmisión.
+La resolución de inadmisión justificará las razones por las que se aprecia, y frente a la misma podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial, en su caso.
+Se modifica por el art. 10.2 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.4 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 41
+
+Artículo 41. Consultas a las Administraciones públicas afectadas y a las personas interesadas, y elaboración del documento de alcance del estudio ambiental estratégico.
+1. El órgano ambiental someterá el borrador del plan o programa y el documento inicial estratégico a consultas de las Administraciones públicas afectadas y de las personas interesadas, que se pronunciarán en el plazo de treinta días hábiles desde su recepción.
+Transcurrido este plazo sin que se haya recibido el pronunciamiento, el procedimiento continuará si el órgano ambiental cuenta con elementos de juicio suficientes para elaborar el documento de alcance del estudio ambiental estratégico. En este caso, no se tendrán en cuenta los pronunciamientos antes referidos que se reciban posteriormente.
+Si el órgano ambiental no tuviera los elementos de juicio suficientes, bien porque no se hubiesen recibido los informes de las Administraciones públicas competentes que resulten relevantes, o bien porque, habiéndose recibido, éstos resultasen insuficientes para decidir, requerirá personalmente al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe, para que, en el plazo de diez días hábiles, contados a partir de la recepción del requerimiento, ordene al órgano competente la entrega del correspondiente informe en el plazo de diez días hábiles, sin perjuicio de las responsabilidades en que pudiera incurrir el responsable de la demora. El requerimiento efectuado se comunicará al órgano sustantivo y al promotor, y suspende el plazo previsto en el artículo 39.2.
+En todo caso, el promotor podrá reclamar a la Administración competente la emisión del informe, a través del procedimiento previsto en el artículo 29.1 de la Ley 29/1998, de 13 julio de la Jurisdicción Contencioso-Administrativa.
+2. Recibidas las contestaciones a las consultas, el órgano ambiental elaborará y remitirá al promotor y al órgano sustantivo, el documento de alcance del estudio ambiental estratégico, junto con las contestaciones recibidas a las consultas realizadas.
+3. El documento de alcance del estudio ambiental estratégico se pondrá a disposición del público a través de la sede electrónica del órgano ambiental y del órgano sustantivo.
+Se modifica por el art. 10.3 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.5 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 42
+
+Artículo 42. Estudio ambiental estratégico.
+1. Teniendo en cuenta el documento de alcance, el promotor elaborará el estudio ambiental estratégico, en el que se identificarán, describirán y evaluarán los posibles efectos significativos en el medio ambiente de la aplicación del plan o programa, así como unas alternativas razonables técnica y ambientalmente viables, que tengan en cuenta los objetivos y el ámbito de aplicación geográfico del plan o programa. A estos efectos se entenderá por alternativa cero la no realización de dicho plan o programa.
+2. El estudio ambiental estratégico recogerá, sin perjuicio de lo que establezca el documento de alcance, la información contenida en el anexo IX de esta ley, así como:
+a) Una descripción de los aspectos ambientales relevantes del ámbito del plan o programa, su probable evolución en caso de no aplicarse el instrumento, su evolución teniendo en cuenta el cambio climático esperado en el plazo de vigencia del plan o programa, las características ambientales de las zonas que puedan verse afectadas de manera significativa, y cualquier problema ambiental existente que sea relevante para la aplicación del plan, incluyendo en concreto los relacionados con cualquier zona de particular importancia ambiental designada de conformidad con la legislación aplicable sobre espacios naturales y especies protegidas.
+b) Un resumen de las razones de la selección de las alternativas previstas y una descripción de la manera en que se realizó la evaluación, incluidas las dificultades, como deficiencias técnicas o falta de conocimientos y experiencia, que pudieran haberse encontrado a la hora de recabar la información requerida. La selección de las alternativas en caso de propuestas tecnológicas, incluirá un resumen de la situación actual desde un punto de vista técnico y ambiental de cada una y justificará los motivos de la elección respecto a las mejores técnicas disponibles en cada caso.
+c) Una descripción de las medidas previstas para el seguimiento de los efectos en el medio ambiente derivados de la aplicación o ejecución de los planes o programas.
+d) Un resumen no técnico de la información facilitada en virtud de los párrafos precedentes.
+e) Un informe sobre la viabilidad económica de las alternativas y de las medidas dirigidas a prevenir, reducir o paliar los efectos negativos del plan o programa.
+f) Un informe que contemple las observaciones y sugerencias realizadas por las distintas Administraciones Públicas afectadas y, en su caso, el público interesado consultados indicando cómo se han tenido en consideración a la hora de elaborar el informe.
+3. El estudio ambiental estratégico se considerará parte integrante del plan o programa y contendrá, además de la información anterior, aquella que se considere razonablemente necesaria para asegurar su calidad. A estos efectos, se tendrán en cuenta los siguientes extremos:
+a) Los conocimientos y métodos de evaluación existentes.
+b) El contenido y nivel de detalle del plan o programa.
+c) La fase del proceso de decisión en que se encuentra.
+d) La medida en que la evaluación de determinados aspectos necesita ser complementada en otras fases de dicho proceso, para evitar su repetición.
+4. Para la elaboración del estudio ambiental estratégico se podrá utilizar la información pertinente disponible que se haya obtenido en la elaboración de los planes y programas promovidos por la misma o por otras Administraciones Públicas, así como los que se deriven de la aplicación de la normativa vigente.
+5. El estudio ambiental estratégico será parte integrante de la documentación del plan o programa o de la modificación y debe ser accesible e inteligible para el público y las Administraciones Públicas.
+
+### Artículo 43
+
+Artículo 43. Versión inicial del plan o programa, información pública y consulta a las Administraciones Públicas afectadas y a las personas interesadas.
+1. El promotor elaborará la versión inicial del plan o programa teniendo en cuenta el estudio ambiental estratégico, y presentará ambos documentos ante el órgano sustantivo.
+2. El órgano sustantivo someterá dicha versión inicial del plan o programa, acompañado del estudio ambiental estratégico, a información pública previo anuncio en el “Diario Oficial de Extremadura” y, en su caso, en su sede electrónica. La información pública será, como mínimo, de cuarenta y cinco días hábiles.
+La información pública podrá realizarla el promotor en lugar del órgano sustantivo cuando, de acuerdo con la legislación sectorial, corresponda al promotor la tramitación administrativa del plan o programa.
+3. La documentación sometida a información pública incluirá, asimismo, un resumen no técnico del estudio ambiental estratégico.
+4. El órgano sustantivo adoptará las medidas necesarias para garantizar que la documentación que debe someterse a información pública tenga la máxima difusión entre el público, utilizando los medios electrónicos y otros medios de comunicación.
+5. Simultáneamente al trámite de información pública, el órgano sustantivo someterá la versión inicial del plan o programa, acompañado del estudio ambiental estratégico, a consulta de las Administraciones Públicas afectadas y de las personas interesadas que hubieran sido previamente consultadas de conformidad con el artículo 41.
+Estas consultas podrá realizarlas el promotor en lugar del órgano sustantivo cuando, de acuerdo con la legislación sectorial, corresponda al promotor la tramitación administrativa del plan o programa.
+La consulta a las Administraciones Públicas afectadas y a las personas interesadas se realizará por medios electrónicos o cualesquiera otros, siempre que se acredite la realización de la consulta.
+6. Las Administraciones públicas afectadas, y las personas interesadas dispondrán de un plazo mínimo de treinta días hábiles desde que se les somete la versión inicial del plan o programa, acompañado del estudio ambiental estratégico para emitir los informes y alegaciones que estimen pertinentes.
+Se modifica por el art. 10.4 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica el apartado 4 por el art. 7.6 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 44
+
+Artículo 44. Análisis técnico del expediente.
+1. Tomando en consideración las alegaciones formuladas en los trámites de información pública y de consultas, incluyendo, en su caso, las consultas transfronterizas, el promotor modificará, de ser preciso, el estudio ambiental estratégico, y elaborará la propuesta final del plan o programa.
+No se tendrán en cuenta los informes o alegaciones recibidos fuera de los plazos establecidos en el artículo anterior.
+2. El órgano sustantivo remitirá al órgano ambiental el expediente de evaluación ambiental estratégica completo, integrado por:
+a) La propuesta final de plan o programa.
+b) El estudio ambiental estratégico.
+c) El resultado de la información pública y de las consultas, incluyendo en su caso las consultas transfronterizas así como su consideración.
+d) Un documento resumen en el que el promotor describa la integración en la propuesta final del plan o programa de los aspectos ambientales, del estudio ambiental estratégico y de su adecuación al documento de alcance, del resultado de las consultas realizadas y cómo éstas se han tomado en consideración.
+3. El órgano ambiental realizará un análisis técnico del expediente, y un análisis de los impactos significativos de la aplicación del plan o programa en el medio ambiente, que tomará en consideración el cambio climático.
+4. Si durante el análisis técnico del expediente de evaluación ambiental estratégica el órgano ambiental estimara que la información pública o las consultas no se han realizado conforme a lo establecido en esta ley, requerirá al órgano sustantivo para que subsane el expediente de evaluación ambiental estratégica en el plazo máximo de tres meses. En estos casos se suspenderá el cómputo del plazo para la formulación de la declaración ambiental estratégica.
+Si transcurridos tres meses el órgano sustantivo no hubiera remitido el expediente subsanado, o si una vez presentado fuera insuficiente, el órgano ambiental dará por finalizada la evaluación ambiental estratégica ordinaria, notificando al promotor y al órgano sustantivo la resolución de terminación. Contra esta resolución podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial en su caso.
+5. Si durante el análisis técnico del expediente de evaluación ambiental estratégica el órgano ambiental concluyera que es necesaria información adicional para formular la declaración ambiental estratégica solicitará al promotor la información que sea imprescindible, informando de ello al órgano sustantivo, que complete el expediente. Esta solicitud suspende el plazo para la formulación de la declaración ambiental estratégica.
+Si transcurridos tres meses el promotor no hubiera remitido la documentación adicional solicitada, o si una vez presentada ésta fuera insuficiente, el órgano ambiental dará por finalizada la evaluación ambiental estratégica ordinaria, notificando al promotor y al órgano sustantivo la resolución de terminación. Contra esta resolución podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial, en su caso.
+6. El órgano ambiental continuará con el procedimiento siempre que disponga de los elementos de juicio suficientes para realizar la evaluación ambiental estratégica.
+Si en el expediente de evaluación ambiental estratégica no constara alguno de los informes de las Administraciones públicas afectadas, consultadas conforme a lo previsto en el artículo 43, y el órgano ambiental no dispusiera de elementos de juicio suficientes para realizar la evaluación ambiental estratégica, requerirá personalmente al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe para que, en el plazo de diez días hábiles, contados a partir de la recepción del requerimiento, ordene al órgano competente la entrega del correspondiente informe en el plazo de diez días hábiles, sin perjuicio de las responsabilidades en que pudiera incurrir el responsable de la demora. El requerimiento efectuado se comunicará al órgano sustantivo y al promotor, y suspende el plazo para la formulación de la declaración de impacto ambiental.
+Si transcurrido el plazo de diez días hábiles el órgano ambiental no hubiese recibido el informe, comunicará al órgano sustantivo y al promotor la imposibilidad de continuar el procedimiento.
+En todo caso, el promotor podrá reclamar a la Administración competente la emisión del informe a través del procedimiento previsto en el artículo 29 de la Ley 29/1998, de 13 de julio, de Jurisdicción Contencioso-Administrativa.
+Se modifica por el art. 10.5 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.7 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 45
+
+Artículo 45. Declaración ambiental estratégica.
+1. El órgano ambiental, una vez finalizado el análisis técnico del expediente formulará la declaración ambiental estratégica, en el plazo de cuatro meses contados desde la recepción del expediente completo.
+2. La declaración ambiental estratégica tendrá la naturaleza de informe preceptivo, determinante y contendrá una exposición de los hechos que resuma los principales hitos del procedimiento incluyendo los resultados de la información pública, de las consultas, en su caso, los de las consultas transfronterizas, así como de las determinaciones, medidas o condiciones finales que deban incorporarse en el plan o programa que finalmente se apruebe o adopte.
+3. La declaración ambiental estratégica se publicará en el Diario Oficial de Extremadura en el plazo de los diez días hábiles siguientes a partir de su formulación, sin perjuicio de su publicación en la sede electrónica del órgano ambiental.
+4. Contra la declaración ambiental estratégica no procederá recurso alguno sin perjuicio de los que, en su caso, procedan en vía judicial frente a la disposición de carácter general que hubiese aprobado el plan o programa, o bien de los que procedan en vía administrativa o judicial frente al acto, en su caso, de adopción o aprobación del plan o programa.
+Se modifica por el art. 10.6 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+### Artículo 46
+
+Artículo 46. Publicidad de la adopción o aprobación del plan o programa.
+1. El promotor incorporará el contenido de la declaración ambiental estratégica en el plan o programa, y de acuerdo con lo previsto en la legislación sectorial, lo someterá a la adopción o aprobación del órgano sustantivo.
+2. En el plazo de diez días hábiles desde la adopción o aprobación del plan o programa, el órgano sustantivo remitirá para su publicación en el “Diario Oficial de Extremadura” la siguiente documentación:
+a) La resolución por la que se adopta o aprueba el plan o programa, y una referencia a la dirección electrónica en la que el órgano sustantivo pondrá a disposición del público el contenido íntegro de dicho plan o programa.
+b) Un extracto que incluya los siguientes aspectos:
+1.º De qué manera se han integrado en el plan o programa los aspectos ambientales.
+2.º Cómo se ha tomado en consideración en el plan o programa el estudio ambiental estratégico, los resultados de la información pública y de las consultas, incluyendo en su caso las consultas transfronterizas y la declaración ambiental estratégica, así como, cuando proceda, las discrepancias que hayan podido surgir en el proceso.
+3.º Las razones de la elección de la alternativa seleccionada, en relación con las alternativas consideradas.
+c) Las medidas adoptadas para el seguimiento de los efectos en el medio ambiente de la aplicación del plan o programa.
+Se modifica el apartado 2 por el art. 10.7 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+### Artículo 47
+
+Artículo 47. Vigencia de la declaración ambiental estratégica.
+1. La declaración ambiental estratégica perderá su vigencia y cesará en la producción de los efectos que le son propios si, una vez publicada en el Diario Oficial de Extremadura, no se hubiera procedido a la adopción o aprobación del plan o programa en el plazo máximo de dos años desde su publicación. En tales casos, el promotor deberá iniciar nuevamente el trámite de evaluación ambiental estratégica del plan o programa, salvo que se acuerde la prórroga de la vigencia de la declaración ambiental estratégica en los términos previstos en los siguientes apartados.
+2. El promotor podrá solicitar la prórroga de la vigencia de la declaración ambiental estratégica antes de que transcurra el plazo previsto en el apartado anterior. La solicitud formulada por el promotor suspenderá el plazo de dos años del apartado anterior.
+3. A la vista de tal solicitud, el órgano ambiental podrá acordar la prórroga de la vigencia de la declaración ambiental estratégica en caso de que no se hayan producido cambios sustanciales en los elementos esenciales que sirvieron de base para realizar la evaluación ambiental estratégica, ampliando su vigencia por dos años adicionales. Transcurrido este plazo sin que se hubiera procedido a la aprobación del plan o programa, el promotor deberá iniciar nuevamente el procedimiento de evaluación ambiental estratégica.
+4. El órgano ambiental resolverá sobre la solicitud de prórroga en un plazo de seis meses contados desde la fecha de presentación de dicha solicitud. Previamente, el órgano ambiental solicitará informe a las Administraciones públicas afectadas por razón de la materia en relación con los elementos esenciales que sirvieron de base para realizar la evaluación ambiental estratégica. Estas Administraciones deberán pronunciarse en el plazo de dos meses, que podrá ampliarse, por razones debidamente justificadas, por un mes más.
+5. Transcurrido el plazo de seis meses sin que el órgano ambiental haya notificado la prórroga de la vigencia de la declaración ambiental estratégica se entenderá estimada la solicitud de prórroga.
+
+### Artículo 48
+
+Artículo 48. Modificación de la declaración ambiental estratégica.
+1. La declaración ambiental estratégica de un plan o programa aprobado podrá modificarse cuando concurran circunstancias que determinen la incorrección de la declaración ambiental estratégica, incluidas las que surjan durante el procedimiento de evaluación de impacto ambiental, tanto por hechos o circunstancias de acaecimiento posterior a esta última como por hechos o circunstancias anteriores que, en su momento, no fueron o no pudieron ser objeto de la adecuada valoración.
+2. El procedimiento de modificación de la declaración ambiental estratégica podrá iniciarse de oficio o a solicitud del promotor.
+El órgano ambiental iniciará dicho procedimiento de oficio, bien por propia iniciativa o a petición razonada del órgano sustantivo, o por denuncia, mediante acuerdo.
+En el caso de que se haya recibido petición razonada o denuncia, el órgano ambiental deberá pronunciarse sobre la procedencia de acordar el inicio del procedimiento en el plazo de veinte días hábiles desde la recepción de la petición o de la denuncia.
+3. En el plazo de veinte días hábiles desde la recepción de la solicitud del promotor de inicio de la modificación de la declaración ambiental estratégica, el órgano ambiental podrá resolver motivadamente su inadmisión. Frente a esta resolución podrán, en su caso, interponerse los recursos legalmente procedentes en vía administrativa o judicial, en su caso.
+4. El órgano ambiental consultará, por el plazo mínimo de treinta días hábiles, al promotor, al órgano sustantivo y a las Administraciones Públicas afectadas y personas interesadas previamente consultadas de acuerdo con el artículo 43, al objeto de que emitan los informes y formulen cuantas alegaciones estimen oportunas y aporten cuantos documentos estimen precisos. La consulta se realizará por medios electrónicos o cualesquiera otros, siempre que se acredite la realización de la consulta.
+Transcurrido el plazo sin que se hayan recibido los informes y alegaciones de las Administraciones públicas afectadas, y de las personas interesadas, el procedimiento de modificación continuará si el órgano ambiental cuenta con elementos de juicio suficientes para ello. En este caso, no se tendrán en cuenta los informes y alegaciones que se reciban posteriormente.
+Si el órgano ambiental no tuviera los elementos de juicio suficientes para continuar con el procedimiento de modificación, bien porque no se hubiesen recibido los informes de las Administraciones públicas afectadas, o bien porque habiéndose recibido estos resultasen insuficientes para decidir, requerirá personalmente al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe, para que en el plazo de diez días hábiles contados a partir del requerimiento, ordene al órgano competente la remisión de los informes en el plazo de diez días hábiles, sin perjuicio de la responsabilidad en que incurra el responsable de la demora. El requerimiento efectuado se comunicará al órgano sustantivo y al promotor y suspende el plazo previsto para que el órgano ambiental se pronuncie sobre la modificación de la declaración ambiental estratégica.
+En todo caso, el promotor podrá reclamar a la Administración competente la formulación de los informes, a través del procedimiento previsto en el artículo 29.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+5. El órgano ambiental, en un plazo de dos meses contados desde el inicio del procedimiento, resolverá sobre la modificación de la declaración ambiental estratégica que en su día se formuló.
+6. La decisión del órgano ambiental sobre la modificación tendrá carácter determinante y no recurrible sin perjuicio de los recursos en vía administrativa o judicial que, en su caso, procedan frente a los actos o disposiciones que, posterior y consecuentemente, puedan dictarse. Tal decisión se notificará al promotor y al órgano sustantivo y deberá ser remitida para su publicación en el plazo de quince días hábiles al “Diario Oficial de Extremadura”, sin perjuicio de su publicación en la sede electrónica del órgano ambiental.
+Se modifica por el art. 10.8 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+## Subsección 2
+
+Subsección 2.ª Procedimiento de evaluación ambiental estratégica simplificada para la emisión del informe ambiental estratégico
+
+### Artículo 49
+
+Artículo 49. Ámbito de aplicación de la evaluación ambiental estratégica simplificada.
+Serán objeto de una evaluación ambiental estratégica simplificada:
+a) Las modificaciones menores de los planes y programas mencionados en el artículo 38.
+b) Los planes y programas mencionados en el artículo 38 que establezcan el uso, a nivel municipal, de zonas de reducida extensión.
+c) Los planes y programas que, estableciendo un marco para la autorización en el futuro de proyectos, no cumplan los demás requisitos establecidos en el artículo 38.
+d) Las modificaciones de planes y programas, inicialmente no sometidos a evaluación ambiental estratégica, que establezcan el marco para la futura autorización de proyectos legalmente sometidos a evaluación de impacto ambiental en las materias que se recogen en el artículo 38, letras a) y b).
+e) Las modificaciones menores de las Directrices de Ordenación Territorial y de los Planes Territoriales.
+f) Las modificaciones menores y revisiones de los siguientes instrumentos de ordenación urbanística:
+1.º Planes Generales Municipales y Normas Subsidiarias de Planeamiento que alteren la clasificación de suelo rústico.
+Cuando se prevea que una modificación incluida en este apartado no vaya a suponer alteración alguna de los valores ambientales ni riesgos para la salud pública y los bienes materiales, el órgano ambiental podrá pronunciarse expresamente sobre la no necesidad de sometimiento de la misma a evaluación ambiental estratégica simplificada.
+2.º Planes Generales Municipales y Normas Subsidiarias de Planeamiento que alteren las condiciones de calificación del suelo no urbanizable, cuando afecten a las condiciones para ubicar o desarrollar actuaciones sometidas a evaluación de impacto ambiental ordinaria de proyectos, o supongan la admisión de nuevos usos o de más intensidades de usos, en suelo rústico de protección ambiental, natural, paisajística, cultural y arqueológica.
+3.º Planes Generales Municipales o Planes Parciales que afecten a suelo urbano, cuando supongan la ampliación o modificación de las condiciones para el establecimiento de proyectos y actividades sometidos a evaluación de impacto ambiental ordinaria.
+4.º Planes Especiales de Ordenación que modifiquen las determinaciones del planeamiento general y tengan por objeto la definición o la protección del paisaje o el medio natural.
+g) Planes Parciales y Planes Especiales que desarrollen o mejoren el planeamiento urbanístico general que no hubiera sido sometido a evaluación ambiental estratégica.
+h) Los instrumentos de planeamiento territorial o urbanístico que establezcan el uso, a nivel municipal, de zonas de reducida extensión.
+
+### Artículo 50
+
+Artículo 50. Solicitud de inicio de la evaluación ambiental estratégica simplificada.
+1. Dentro del procedimiento sustantivo de adopción o aprobación del plan o programa, el promotor presentará ante el órgano sustantivo, junto con la documentación exigida por la legislación sectorial, una solicitud de inicio de la evaluación ambiental estratégica simplificada, acompañada del borrador del plan o programa y de un documento ambiental estratégico que contendrá, al menos, la siguiente información:
+a) Los objetivos de la planificación.
+b) El alcance y contenido del plan propuesto y de sus alternativas razonables, técnica y ambientalmente viables.
+c) El desarrollo previsible del plan o programa.
+d) Una caracterización de la situación del medio ambiente antes del desarrollo del plan o programa en el ámbito territorial afectado.
+e) Los efectos ambientales previsibles y, si procede, su cuantificación.
+f) Los efectos previsibles sobre los planes sectoriales y territoriales concurrentes.
+g) La motivación de la aplicación del procedimiento de evaluación ambiental estratégica simplificada.
+h) Un resumen de los motivos de la selección de las alternativas contempladas.
+i) Las medidas previstas para prevenir, reducir y, en la medida de lo posible, corregir cualquier efecto negativo relevante en el medio ambiente de la aplicación del plan o programa, tomando en consideración el cambio climático.
+j) Una descripción de las medidas previstas para el seguimiento ambiental del plan.
+2. Si el órgano sustantivo comprobara que la solicitud de inicio no incluye los documentos señalados en el apartado anterior, requerirá al promotor para que, en un plazo de diez días hábiles, los aporte, con los efectos previstos en el artículo 68 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+Asimismo, el órgano sustantivo comprobará que la documentación presentada de conformidad con la legislación sectorial cumple los requisitos en ella exigidos.
+3. Una vez realizadas las comprobaciones anteriores, el órgano sustantivo remitirá al órgano ambiental la solicitud de inicio y los documentos que la deben acompañar.
+4. En el plazo de veinte días hábiles desde la recepción de la solicitud de inicio de la evaluación ambiental estratégica simplificada, el órgano ambiental podrá resolver su inadmisión por algunas de las siguientes razones:
+a) Si estimara de modo inequívoco que el plan o programa es manifiestamente inviable por razones ambientales.
+b) Si estimara que el documento ambiental estratégico no reúne condiciones de calidad suficientes.
+Con carácter previo a la adopción de la resolución por la que se acuerde la inadmisión, el órgano ambiental dará audiencia al promotor, informando de ello al órgano sustantivo, por un plazo de diez días hábiles que suspende el previsto para declarar la inadmisión.
+La resolución de inadmisión justificará las razones por las que se aprecia, y frente a la misma podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial en su caso.
+Se modifica por el art. 10.9 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 51
+
+Artículo 51. Consultas a las Administraciones Públicas afectadas y a las personas interesadas.
+1. El órgano ambiental consultará a las Administraciones Públicas afectadas y a las personas interesadas, poniendo a su disposición el documento ambiental estratégico y el borrador del plan o programa.
+2. Las Administraciones públicas afectadas y las personas interesadas consultadas deberán pronunciarse en el plazo máximo de veinte días hábiles desde la recepción de la solicitud de informe. Transcurrido este plazo sin que se haya recibido el pronunciamiento, el procedimiento continuará si el órgano ambiental cuenta con elementos de juicio suficientes para formular el informe ambiental estratégico. En este caso, no se tendrán en cuenta los pronunciamientos antes referidos que se reciban posteriormente.
+Si el órgano ambiental no tuviera los elementos de juicio suficientes, bien porque no se hubiesen recibido los informes de las Administraciones públicas afectadas que resulten relevantes, o bien porque habiéndose recibido éstos resultasen insuficientes para decidir, requerirá personalmente al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe, para que en el plazo de diez días hábiles, contados a partir de la recepción del requerimiento, ordene al órgano competente la entrega del correspondiente informe en el plazo de diez días hábiles, sin perjuicio de las responsabilidades en que pudiera incurrir el responsable de la demora. El requerimiento efectuado se comunicará al órgano sustantivo y al promotor y suspende el plazo.
+En todo caso, el promotor podrá reclamar a la Administración competente la emisión del informe, a través del procedimiento previsto en el artículo 29.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+Se modifica el apartado 2 por el art. 10.10 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+### Artículo 52
+
+Artículo 52. Informe ambiental estratégico.
+1. El órgano ambiental formulará el informe ambiental estratégico en el plazo de tres meses contados desde la recepción de la solicitud de inicio y de los documentos que la deben acompañar.
+2. El órgano ambiental, teniendo en cuenta el resultado de las consultas realizadas y de conformidad con los criterios establecidos en el Anexo VIII, resolverá mediante la emisión del informe ambiental estratégico, que podrá determinar que:
+a) El plan o programa debe someterse a una evaluación ambiental estratégica ordinaria porque puedan tener efectos significativos sobre el medio ambiente. En este caso el órgano ambiental elaborará el documento de alcance del estudio ambiental estratégico, teniendo en cuenta el resultado de las consultas realizadas de acuerdo con lo establecido en el artículo 51, y no será preciso realizar las consultas reguladas en el artículo 41.
+Esta decisión se notificará al promotor junto con el documento de alcance y el resultado de las consultas realizadas para que elabore el estudio ambiental estratégico y continúe con la tramitación prevista en los artículos 43 y siguientes.
+b) El plan o programa no tiene efectos significativos sobre el medio ambiente, en los términos establecidos en el informe ambiental estratégico.
+3. El informe ambiental estratégico se publicará en el “Diario Oficial de Extremadura”, en el plazo de los diez días hábiles siguientes a partir de su formulación, sin perjuicio de su publicación en la sede electrónica del órgano ambiental.
+4. En el supuesto previsto en el apartado 2 letra b) el informe ambiental estratégico perderá su vigencia y cesará en la producción de los efectos que le son propios si, una vez publicado en el “Diario Oficial de Extremadura”, no se hubiera procedido a la aprobación del plan o programa en el plazo máximo de cuatro años desde su publicación.
+En tales casos, el promotor deberá iniciar nuevamente el procedimiento de evaluación ambiental estratégica simplificada del plan o programa.
+5. El informe ambiental estratégico no será objeto de recurso alguno sin perjuicio de los que, en su caso, procedan en vía judicial frente a la disposición de carácter general que hubiese aprobado el plan o programa, o bien, sin perjuicio de los que procedan en vía administrativa frente al acto, en su caso, de aprobación del plan o programa.
+Se modifica por el art. 10.11 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.9 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 53
+
+Artículo 53. Publicidad de la adopción o aprobación del plan o programa.
+En el plazo de diez días hábiles desde la aprobación del plan o programa, el órgano sustantivo remitirá para su publicación en el “Diario Oficial de Extremadura” la siguiente documentación:
+a) La resolución por la que se adopta o aprueba el plan o programa aprobado, y una referencia a la dirección electrónica en la que el órgano sustantivo pondrá a disposición del público el contenido íntegro de dicho plan o programa.
+b) Una referencia al Diario Oficial de Extremadura en el que se ha publicado el informe ambiental estratégico.
+Se modifica por el art. 10.12 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.10 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 54
+
+Artículo 54. Determinación de la necesidad de evaluación ambiental por afección a Red Natura 2000.
+1. Para determinar si un plan o programa, inicialmente no sometido a evaluación ambiental estratégica ordinaria de conformidad con lo dispuesto en el artículo 38 b) de esta ley, debe someterse a evaluación ambiental estratégica conforme a la normativa reguladora de la Red Ecológica Europea Natura 2000, el órgano promotor del plan o programa, a través del órgano sustantivo, remitirá al órgano ambiental un borrador del plan o programa y un documento inicial estratégico con el contenido fijado en el artículo 40.1 de esta ley.
+2. El órgano ambiental, una vez recibida la documentación indicada en el apartado anterior, consultará al órgano con competencias en materia de conservación de la naturaleza y áreas protegidas, para que se pronuncie sobre la necesidad de que el plan o programa deba someterse a evaluación ambiental estratégica.
+3. En función de los efectos que se prevean y de su trascendencia sobre los valores naturales de la Zona de la Red Natura 2000, el órgano con competencias en materia de conservación de la naturaleza y áreas protegidas emitirá en todo caso un informe de afección que contendrá alguno de los siguientes pronunciamientos:
+a) Si entendiera que el plan o programa no es susceptible de afectar de forma apreciable al lugar, o estimara que las repercusiones no serán apreciables mediante la adopción de un condicionado especial, informará al órgano sustantivo para la consideración e inclusión de dicho condicionado en la resolución por la que se adopte o apruebe el plan o programa.
+b) Si considerara que el plan o programa puede tener efectos negativos importantes y significativos, determinará que el mismo debe someterse a evaluación ambiental estratégica ordinaria, considerándose el informe de afección como parte integrante del procedimiento de evaluación ambiental estratégica, el cual se sustanciará por los trámites previstos en los artículos 40 a 46 de esta ley. En estos casos, no será necesario que el órgano promotor del plan o programa remita nuevamente al órgano ambiental el borrador del plan o programa y el documento inicial estratégico.
+El plazo para emitir el informe de afección a que se refiere este apartado será de 40 días naturales. En caso de no emitirse el informe de afección en dicho plazo, deberá llevarse a cabo la evaluación ambiental estratégica ordinaria del plan o programa.
+Se modifica por el art. 10.13 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+## Subsección 3
+
+Subsección 3.ª Procedimiento de evaluación ambiental estratégica de los instrumentos de ordenación territorial o urbanística
+
+### Artículo 55
+
+Artículo 55. Evaluación ambiental estratégica de instrumentos de ordenación territorial o urbanística.
+En la evaluación ambiental estratégica de los instrumentos de ordenación territorial o urbanística a los que se refiere la presente ley, se aplicará, con carácter general, el procedimiento establecido en las secciones anteriores, con las especialidades previstas en los artículos siguientes, y ello sin perjuicio de lo dispuesto en la legislación sectorial que resulte de aplicación.
+
+### Artículo 56
+
+Artículo 56. Directrices de Ordenación Territorial.
+1. El órgano promotor en la evaluación ambiental de las Directrices de Ordenación Territorial es la Consejería con competencia en materia de ordenación territorial.
+2. Una vez acordada la formulación de las Directrices de Ordenación Territorial por parte de la Junta de Extremadura, el órgano sustantivo remitirá el documento de avance que incluirá el documento inicial estratégico al órgano ambiental.
+3. El Anteproyecto técnico de Directrices aprobado, que incluirá el estudio ambiental estratégico, se someterá a información pública y consultas conforme al procedimiento establecido para la evaluación ambiental, por un plazo no inferior a dos meses.
+4. La declaración ambiental estratégica tendrá la naturaleza de informe preceptivo, determinante y contendrá una exposición de los hechos que resuma los principales hitos del procedimiento incluyendo los resultados de la información pública, de las consultas, en su caso, los de las consultas transfronterizas, así como de las determinaciones, medidas o condiciones finales que deban incorporarse en el plan o programa que finalmente se apruebe o adopte.
+
+### Artículo 57
+
+Artículo 57. Planes Territoriales.
+1. El órgano promotor en la evaluación ambiental de un Plan Territorial es la Consejería con competencia en materia de ordenación territorial.
+2. Una vez acordada la formulación del Plan Territorial por parte de la Junta de Extremadura, el órgano sustantivo remitirá el Avance del Plan Territorial, que incluirá el documento inicial estratégico, al órgano ambiental para que elabore el documento de alcance del estudio ambiental estratégico.
+3. El plan territorial aprobado inicialmente, que incluirá el estudio ambiental estratégico, se someterá a información pública y consultas conforme al procedimiento de coordinación intersectorial, por un plazo no inferior a dos meses.
+4. La declaración ambiental estratégica, que habrá de formularse en un plazo no superior a cuatro meses desde la solicitud realizada por la Comisión de Coordinación Intersectorial, tendrá la naturaleza de informe preceptivo, determinante, y contendrá una exposición de los hechos que resuma los principales hitos del procedimiento, incluyendo los resultados de la información pública, de las consultas, en su caso, los de las consultas transfronterizas, así como de las determinaciones, medidas o condiciones finales que deban incorporarse en el plan o programa que finalmente se apruebe o adopte.
+Téngase en cuenta que la actualización de los apartados 3 y 4 establecida por el art. 9.1 de la Ley 2/2018, de 14 de febrero. Ref. BOE-A-2018-3001#a9 entra en vigor el 18 de mayo de 2018, según determina su disposición final 1.
+ Redacción anterior:
+ "3. El Plan Territorial aprobado inicialmente, que incluirá el estudio ambiental estratégico, se someterá a información pública y consultas conforme al procedimiento establecido para la evaluación ambiental por un plazo no inferior a dos meses.
+ 4. La declaración ambiental estratégica tendrá la naturaleza de informe preceptivo, determinante y contendrá una exposición de los hechos que resuma los principales hitos del procedimiento incluyendo los resultados de la información pública, de las consultas, en su caso, los de las consultas transfronterizas, así como de las determinaciones, medidas o condiciones finales que deban incorporarse en el plan o programa que finalmente se apruebe o adopte."
+Se modifican los apartados 3 y 4 por el art. 9.1 de la Ley 2/2018, de 14 de febrero. Ref. BOE-A-2018-3001#a9
+ Esta modificación entra en vigor el 16 de mayo de 2018, según establece la disposición final 1 de la citada ley.
+
+### Artículo 58
+
+Artículo 58. Planes Generales Municipales.
+1. El procedimiento de evaluación ambiental estratégica de los Planes Generales Municipales constará de los siguientes trámites, cuando el Plan General Estructural y Plan General Detallado se tramiten y aprueben de manera conjunta:
+1.1 Tras la aprobación por el órgano municipal competente del avance del Plan General Estructural, el promotor presentará ante el órgano sustantivo, junto con la documentación exigida por la legislación sectorial, una solicitud de inicio de la evaluación ambiental estratégica ordinaria, acompañada del borrador del Plan General Estructural y del Plan General Detallado y de un documento inicial estratégico que contendrá, al menos, la siguiente información:
+a) Los objetivos de la planificación.
+b) El alcance y contenido de los planes propuestos y de sus alternativas razonables, técnica y ambientalmente viables.
+c) El desarrollo previsible de los planes.
+d) Los potenciales impactos ambientales tomando en consideración el cambio climático.
+e) Las incidencias previsibles sobre los planes sectoriales y territoriales concurrentes.
+1.2 Si el órgano sustantivo comprobara que la solicitud de inicio no incluye los documentos señalados en el apartado anterior requerirá al promotor para que, en un plazo de diez días hábiles, acompañe los documentos preceptivos, con los efectos previstos en el artículo 68.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Asimismo, el órgano sustantivo comprobará que la documentación presentada de conformidad con la legislación sectorial cumple los requisitos en ella exigidos.
+Una vez realizadas las comprobaciones anteriores, el órgano sustantivo remitirá al órgano ambiental la solicitud de inicio y los documentos que la deben acompañar.
+1.3 El órgano ambiental someterá el borrador del Plan General Estructural y del Plan General Detallado, junto con el documento inicial estratégico a consultas de las Administraciones públicas afectadas y de las personas interesadas, que se pronunciarán en el plazo de cuarenta y cinco días hábiles desde su recepción.
+1.4 Recibidas las contestaciones a las consultas, el órgano ambiental elaborará y remitirá al promotor y al órgano sustantivo el documento de alcance del estudio ambiental estratégico, junto con las contestaciones recibidas a las consultas realizadas, para que elabore el estudio ambiental estratégico, el cual deberá incluir un mapa de riesgos naturales del ámbito objeto de ordenación.
+El documento de alcance del estudio ambiental estratégico se pondrá a disposición del público a través de la sede electrónica del órgano ambiental y del órgano sustantivo.
+1.5 Teniendo en cuenta el documento de alcance, el promotor elaborará el estudio ambiental estratégico, en el que se identificarán, describirán y evaluarán los posibles efectos significativos en el medio ambiente de la aplicación del Plan General Estructural y del Plan General Detallado, así como unas alternativas razonables técnica y ambientalmente viables, que tengan en cuenta los objetivos y el ámbito de aplicación geográfico de aquellos.
+1.6 El promotor elaborará la versión inicial del Plan General Estructural y del Plan General Detallado teniendo en cuenta el estudio ambiental estratégico, y presentará ambos documentos ante el órgano sustantivo, el cual, tras la aprobación inicial del Plan General Estructural y del Plan General Detallado, someterá dicha versión inicial, acompañada del estudio ambiental estratégico, y previo anuncio en el “Diario Oficial de Extremadura”, a información pública por plazo de cuarenta y cinco días hábiles.
+1.7 Simultáneamente al trámite de información pública, el órgano sustantivo someterá la versión inicial del Plan General Estructural y del Plan General Detallado, acompañado del estudio ambiental estratégico, a consulta de las Administraciones Públicas afectadas y de las personas interesadas que hubieran sido previamente consultadas de conformidad con el apartado 1.3, las cuales dispondrán de un plazo de cuarenta y cinco días hábiles para emitir los informes y alegaciones que estimen pertinentes.
+1.8 Salvo que en el acuerdo de aprobación inicial del Plan General Estructural y del Plan General Detallado se haya renunciado expresamente al trámite de coordinación intersectorial previsto en la Ley 2/2018, de 14 de febrero, de coordinación intersectorial y de simplificación de los procedimientos urbanísticos y de ordenación del territorio de Extremadura, a través de la Comisión de Coordinación Intersectorial, en la fase de consultas deberán recabarse, al menos, los siguientes informes:
+a) El de la Administración hidrológica, sobre la existencia de recursos hídricos necesarios para satisfacer las nuevas demandas y sobre la protección del dominio público hidráulico.
+b) Los de las Administraciones competentes en materia de carreteras y demás infraestructuras afectadas, acerca de dicha afección y del impacto de la actuación sobre la capacidad de servicio de tales infraestructuras.
+Estos informes serán determinantes para el contenido de la declaración ambiental estratégica, que sólo podrá disentir de ellos de forma expresamente motivada.
+1.9 Tomando en consideración las alegaciones formuladas en los trámites de información pública y de consultas, incluyendo, en su caso, las consultas transfronterizas, el promotor modificará, de ser preciso, el estudio ambiental estratégico y elaborará la propuesta final de Plan General Estructural y de Plan General Detallado.
+1.10 El órgano sustantivo remitirá al órgano ambiental el expediente de evaluación ambiental estratégica completo, integrado por:
+a) La propuesta final de Plan General Estructural y de Plan General Detallado.
+b) El estudio ambiental estratégico.
+c) El resultado de la información pública y de las consultas, incluyendo en su caso las consultas transfronterizas así como su consideración.
+d) Un documento resumen en el que el promotor describa la integración en la propuesta final de Plan General Estructural y de Plan General Detallado de los aspectos ambientales, del estudio ambiental estratégico y de su adecuación al documento de alcance, del resultado de las consultas realizadas y cómo éstas se han tomado en consideración.
+1.11 El órgano ambiental realizará un análisis técnico del expediente, y un análisis de los impactos significativos de la aplicación del Plan General Estructural y del Plan General Detallado, que tomará en consideración el cambio climático.
+1.12 La declaración ambiental estratégica, que habrá de formularse, en su caso, en un plazo no superior a cuatro meses desde la solicitud realizada por la Comisión de Coordinación Intersectorial, tendrá la naturaleza de informe preceptivo, determinante y contendrá una exposición de los hechos que resuma los principales hitos del procedimiento incluyendo los resultados de la información pública, de las consultas, en su caso, los de las consultas transfronterizas, así como de las determinaciones, medidas o condiciones finales que deban incorporarse en el Plan General Estructural y en el Plan General Detallado que finalmente se aprueben o adopten.
+1.13 La declaración ambiental estratégica se publicará en el “Diario Oficial de Extremadura”, en el plazo de los diez días hábiles siguientes a partir de su formulación, sin perjuicio de su publicación en la sede electrónica del órgano ambiental.
+1.14 El promotor incorporará el contenido de la declaración ambiental estratégica en el Plan General Estructural y en el Plan General Detallado y, de acuerdo con lo previsto en la legislación sectorial, lo someterá a la adopción o aprobación del órgano sustantivo.
+1.15 En el plazo de quince días hábiles desde la adopción o aprobación del plan o programa, el órgano sustantivo remitirá para su publicación en el Diario Oficial de Extremadura la documentación a que se refiere el artículo 46.2 de esta ley.
+2. El procedimiento de evaluación ambiental estratégica de los Planes Generales Municipales constará de los siguientes trámites, cuando el Plan General Estructural y Plan General Detallado se tramiten y aprueben de manera independiente:
+2.1 El Plan General Estructural se someterá a evaluación ambiental estratégica ordinaria conforme al procedimiento regulado y previsto en el apartado 1 anterior.
+2.2 Cuando en virtud del informe a que se refiere el artículo 49.4 o) de la Ley 11/2018, de 21 de diciembre, de ordenación territorial y urbanística sostenible de Extremadura, el órgano ambiental determine que no existe una afectación negativa a las medidas ambientales recogidas en la declaración ambiental estratégica del Plan General Estructural, dicho informe producirá los efectos de pronunciamiento expreso del órgano ambiental en cuanto a la no necesidad de someter a evaluación ambiental estratégica el Plan General Detallado.
+En caso de que el órgano ambiental determine que existe una afectación negativa a las medidas ambientales recogidas en la declaración ambiental estratégica del Plan General Estructural, deberá determinarse por dicho órgano, en su caso, el sometimiento del Plan al procedimiento de evaluación ambiental estratégica que legalmente proceda.»
+Se modifica por el art. 10.14 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.11 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+ Se modifican los apartados 5 y 7 por el art. 9.2 de la Ley 2/2018, de 14 de febrero. Ref. BOE-A-2018-3001#a9
+ Esta modificación entra en vigor el 16 de mayo de 2018, según establece la disposición final 1 de la citada ley.
+
+### Artículo 59
+
+Artículo 59. Planes Parciales de Ordenación.
+1. El órgano promotor en la evaluación ambiental de los Planes Parciales de Ordenación es el Ayuntamiento. En el caso de planes que formen parte de un programa de ejecución el promotor podrá ser un particular.
+2. El documento ambiental estratégico deberá remitirse al órgano ambiental antes de la aprobación inicial del Plan por parte del órgano sustantivo, para que elabore el informe ambiental estratégico, que podrá determinar:
+a) Que el Plan Parcial debe someterse a evaluación ambiental estratégica ordinaria por tener efectos significativos sobre el medio ambiente, en cuyo caso el órgano ambiental elaborará el documento de alcance del estudio ambiental estratégico. El estudio ambiental estratégico deberá incluir un mapa de riesgos del ámbito objeto de ordenación.
+En este caso, la información pública y las consultas se realizarán conforme a lo establecido en el artículo anterior para los Planes Generales Municipales.
+b) Que el Plan Parcial no tiene efectos ambientales significativos sobre el medio ambiente, en los términos establecidos en el informe ambiental estratégico, continuando la tramitación del Plan conforme a lo dispuesto en la legislación urbanística que resulte de aplicación, teniendo en cuenta lo indicado en el informe ambiental estratégico.
+3. La declaración ambiental estratégica tendrá la naturaleza de informe preceptivo, determinante y contendrá una exposición de los hechos que resuma los principales hitos del procedimiento incluyendo los resultados de la información pública, de las consultas, en su caso, los de las consultas transfronterizas, así como de las determinaciones, medidas o condiciones finales que deban incorporarse en el plan o programa que finalmente se apruebe o adopte.
+
+### Artículo 60
+
+Artículo 60. Planes Especiales de Ordenación.
+1. El órgano promotor en la evaluación ambiental de los Planes Especiales de Ordenación es el Ayuntamiento. En el caso de planes que formen parte de un programa de ejecución el promotor podrá ser un particular.
+2. El documento ambiental estratégico deberá remitirse al órgano ambiental antes de la aprobación inicial del Plan por parte del órgano sustantivo, para que elabore el informe ambiental estratégico, que podrá determinar:
+a) Que el Plan Especial debe someterse a evaluación ambiental estratégica ordinaria por tener efectos significativos sobre el medio ambiente, en cuyo caso el órgano ambiental elaborará el documento de alcance del estudio ambiental estratégico. El estudio ambiental estratégico deberá incluir un mapa de riesgos del ámbito objeto de ordenación.
+En este caso, la información pública y las consultas se realizarán conforme a lo establecido para los Planes Generales Municipales.
+b) Que el Plan Especial no tiene efectos ambientales significativos sobre el medio ambiente, en los términos establecidos en el informe ambiental estratégico, continuando la tramitación del Plan conforme a lo dispuesto en la legislación urbanística que resulte de la aplicación, teniendo en cuenta lo indicado en el informe ambiental estratégico.
+3. En el caso de Planes Especiales de Ordenación de ámbito supramunicipal que afecten a la ordenación estructural del Plan General Municipal o su objeto sea de competencia autonómica, la declaración ambiental estratégica deberá tenerse en cuenta por la Consejería competente en materia de ordenación territorial y urbanística de forma previa a la aprobación definitiva del Plan.
+4. La declaración ambiental estratégica tendrá la naturaleza de informe preceptivo, determinante y contendrá una exposición de los hechos que resuma los principales hitos del procedimiento incluyendo los resultados de la información pública, de las consultas, en su caso, los de las consultas transfronterizas, así como de las determinaciones, medidas o condiciones finales que deban incorporarse en el plan o programa que finalmente se apruebe o adopte.
+
+### Artículo 61
+
+Artículo 61. Determinación de la necesidad de someter un instrumento de ordenación territorial o urbanística a evaluación ambiental.
+La determinación de la necesidad de someter un instrumento de planeamiento a evaluación ambiental estratégica se realizará conforme a lo establecido en los artículos 50 a 53 de la presente ley.
+
+## Sección 2
+
+Sección 2.ª Evaluación de impacto ambiental de proyectos
+
+## Subsección 1
+
+Subsección 1.ª Evaluación de impacto ambiental ordinaria para la formulación de la declaración de impacto ambiental
+
+### Artículo 62
+
+Artículo 62. Ámbito de aplicación.
+Deberán someterse a evaluación de impacto ambiental ordinaria los proyectos, públicos o privados, consistentes en la realización de las obras, instalaciones o cualquier otra actividad que se pretendan llevar a cabo en el ámbito territorial de la Comunidad Autónoma de Extremadura en los siguientes casos:
+a) Los comprendidos en el anexo IV, así como los proyectos que presentándose fraccionados alcancen los umbrales del anexo IV mediante la acumulación de las magnitudes o dimensiones de cada uno de los proyectos considerados.
+b) Los sometidos a evaluación ambiental simplificada cuando así lo decida el órgano ambiental en cada caso.
+c) La modificación en las características de un proyecto cuando dicha modificación por sí sola o en combinación con otras, cumpla con los umbrales establecidos en el anexo IV.
+d) Los proyectos que se encuentran sometidos a evaluación ambiental simplificada cuando así lo solicite el promotor.
+
+### Artículo 63
+
+Artículo 63. Trámites y plazos de la evaluación de impacto ambiental ordinaria.
+1. La evaluación de impacto ambiental ordinaria constará de los siguientes trámites:
+a) Elaboración del estudio de impacto ambiental por el promotor.
+b) Sometimiento del proyecto y del estudio de impacto ambiental a información pública y consultas a las Administraciones Públicas afectadas y personas interesadas, por el órgano sustantivo.
+c) Análisis técnico del expediente por el órgano ambiental.
+d) Formulación de la declaración de impacto ambiental por el órgano ambiental.
+e) Integración del contenido de la declaración de impacto ambiental en la autorización del proyecto por el órgano sustantivo.
+2. Con carácter potestativo, el promotor podrá solicitar, de conformidad con el artículo 64, que el órgano ambiental elabore el documento de alcance del estudio de impacto ambiental. El plazo máximo para su elaboración es de dos meses.
+3. Con carácter obligatorio, el órgano sustantivo, dentro del procedimiento sustantivo de autorización del proyecto, realizará los trámites de información pública y de consultas a las Administraciones Públicas afectadas y a las personas interesadas.
+Los trámites de información pública y de consultas tendrán una vigencia de un año desde su finalización. Transcurrido este plazo sin que el órgano sustantivo haya dado traslado del expediente al órgano ambiental para la evaluación de impacto ambiental ordinaria, el órgano sustantivo declarará la caducidad de los citados trámites.
+4. El análisis técnico del expediente de impacto ambiental y la formulación de la declaración de impacto ambiental se realizarán en el plazo de cuatro meses, contados desde la recepción completa del expediente de impacto ambiental.
+Se modifica por el art. 10.15 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+### Artículo 64
+
+Artículo 64. Actuaciones previas: consultas a las Administraciones públicas afectadas y a las personas interesadas y elaboración del documento de alcance del estudio de impacto ambiental.
+1. Con anterioridad al inicio del procedimiento de evaluación de impacto ambiental ordinaria, el promotor podrá solicitar al órgano ambiental que elabore un documento de alcance del estudio de impacto ambiental. El plazo máximo para la elaboración del documento de alcance es de dos meses contados desde la recepción de la solicitud del documento de alcance.
+2. Para ello, el promotor presentará ante el órgano sustantivo una solicitud de determinación del alcance del estudio de impacto ambiental acompañada del documento inicial del proyecto, que contendrá, como mínimo, la siguiente información:
+a) La definición y las características específicas del proyecto, incluida su ubicación, viabilidad técnica y su probable impacto sobre el medio ambiente, así como un análisis preliminar de los efectos previsibles sobre los factores ambientales derivados de la vulnerabilidad del proyecto ante riesgos de accidentes graves o de catástrofes.
+b) Las principales alternativas que se consideran y un análisis de los potenciales impactos de cada una de ellas.
+c) Un diagnóstico territorial y del medio ambiente afectado por el proyecto.
+El órgano sustantivo, una vez comprobada formalmente la adecuación de la documentación presentada, la remitirá, en el plazo de diez días hábiles, al órgano ambiental para que elabore el documento de alcance del estudio de impacto ambiental.
+Si la documentación inicial presentada por el promotor junto con la solicitud careciera de la información exigible o fuera insuficiente para poder efectuar las consultas a las Administraciones Públicas afectadas, se requerirá al promotor para que, en el plazo improrrogable de diez días hábiles, subsane la falta de información o acompañe la documentación necesaria, con indicación de que si así no lo hiciera, se le tendrá por desistido de su solicitud.
+3. Para la elaboración del documento de alcance del estudio de impacto ambiental, el órgano ambiental consultará a las Administraciones públicas afectadas y a las personas interesadas.
+4. Las Administraciones públicas afectadas y las personas interesadas consultadas deberán pronunciarse en el plazo máximo de veinte días hábiles desde la recepción de la documentación.
+Transcurrido este plazo sin que se hayan recibido estos pronunciamientos, el procedimiento continuará si el órgano ambiental cuenta con elementos de juicio suficientes para elaborar el documento de alcance del estudio de impacto ambiental. En este caso, no se tendrán en cuenta los pronunciamientos antes referidos que se reciban posteriormente.
+Si el órgano ambiental no tuviera los elementos de juicio suficientes, bien porque no se hubiesen recibido los informes de las Administraciones públicas afectadas que resulten relevantes, o bien porque habiéndose recibido estos resultasen insuficientes para decidir, requerirá personalmente al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe, para que en el plazo de diez días hábiles, contados a partir de la recepción del requerimiento, ordene al órgano competente la entrega del correspondiente informe en dicho plazo, sin perjuicio de las responsabilidades en que pudiera incurrir el responsable de la demora.
+El requerimiento efectuado se comunicará al órgano sustantivo y al promotor, y suspende el plazo previsto para la elaboración del documento de alcance.
+Si transcurrido el plazo de diez días hábiles otorgado al efecto, el órgano ambiental no ha recibido los informes de las Administraciones públicas afectadas que resulten relevantes para la determinación del alcance del estudio de impacto ambiental, el órgano ambiental elaborará el documento de alcance haciendo constar la ausencia de los informes solicitados para conocimiento del promotor y del órgano sustantivo.
+En todo caso, el promotor podrá reclamar a la Administración competente la emisión del informe, a través del procedimiento previsto en el artículo 29.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+5. Recibidas las contestaciones a las consultas, el órgano ambiental elaborará y remitirá al promotor y al órgano sustantivo el documento de alcance del estudio de impacto ambiental, junto con las contestaciones recibidas a las consultas realizadas dentro del plazo establecido en el apartado 2 del artículo 63.
+El documento de alcance del estudio de impacto ambiental será válido durante el plazo de dos años a partir del día siguiente al de su notificación al promotor. Perderá su validez una vez que transcurra dicho plazo sin que se haya presentado ante el órgano sustantivo el estudio de impacto ambiental para iniciar el procedimiento de evaluación de impacto ambiental ordinaria.
+6. Cuando el proyecto debe someterse a una evaluación de impacto ambiental ordinaria en virtud de lo dispuesto en el artículo 76.2.a) el órgano ambiental tendrá en cuenta el resultado de las consultas realizadas conforme al artículo 75 y no será preciso realizar nuevas consultas para la elaboración del documento de alcance del estudio de impacto ambiental.
+Se modifica por el art. 10.16 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.12 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 65
+
+Artículo 65. Estudio de impacto ambiental.
+1. El promotor presentará el estudio de impacto ambiental ante el órgano sustantivo junto la documentación correspondiente a la autorización sustantiva.
+No obstante, el promotor presentará el estudio de impacto ambiental ante el órgano ambiental, para aquellos proyectos en los que no exista órgano sustantivo, o siéndolo la Administración local, la actividad esté sometida a autorización ambiental integrada o unificada.
+2. El promotor elaborará el estudio de impacto ambiental que contendrá, al menos, la siguiente información en los términos desarrollados en el Anexo VII:
+a) Descripción general del proyecto que incluya información sobre su ubicación, diseño, dimensiones y otras características pertinentes del proyecto; y previsiones en el tiempo sobre la utilización del suelo y de otros recursos naturales. Estimación de los tipos y cantidades de residuos generados y emisiones de materia o energía resultantes.
+b) Descripción de las diversas alternativas razonables estudiadas que tengan relación con el proyecto y sus características específicas, incluida la alternativa cero, o de no realización del proyecto, y una justificación de las principales razones de la solución adoptada, teniendo en cuenta los efectos del proyecto sobre el medio ambiente.
+c) Identificación, descripción, análisis y, si procede, cuantificación de los posibles efectos significativos directos o indirectos, secundarios, acumulativos y sinérgicos del proyecto sobre los siguientes factores: la población, la salud humana, la flora, la fauna, la biodiversidad, la geodiversidad, el suelo, el subsuelo, el aire, el agua, el medio marino, el clima, el cambio climático, el paisaje, los bienes materiales, el patrimonio cultural, y la interacción entre todos los factores mencionados, durante las fases de ejecución, explotación y en su caso durante la demolición o abandono del proyecto.
+Se incluirá un apartado específico para la evaluación de las repercusiones del proyecto sobre espacios Red Natura 2000 teniendo en cuenta los objetivos de conservación de cada lugar, que incluya los referidos impactos, las correspondientes medidas preventivas, correctoras y compensatorias Red Natura 2000 y su seguimiento.
+Cuando se compruebe la existencia de un perjuicio a la integridad de la Red Natura 2000, el promotor justificará documentalmente la inexistencia de alternativas, y la concurrencia de las razones imperiosas de interés público de primer orden mencionadas en el artículo 46, apartados 5, 6 y 7, de la Ley 42/2007, de 13 de diciembre, de Patrimonio Natural y de la Biodiversidad.
+Cuando el proyecto pueda causar a largo plazo una modificación hidromorfológica en una masa de agua superficial o una alteración del nivel en una masa de agua subterránea que puedan impedir que alcance el buen estado o potencial, o que pueda suponer un deterioro de su estado o potencial, se incluirá un apartado específico para la evaluación de sus repercusiones a largo plazo sobre los elementos de calidad que definen el estado o potencial de las masas de agua afectadas.
+d) Se incluirá un apartado específico que incluya la identificación, descripción, análisis y si procede, cuantificación de los efectos esperados sobre los factores enumerados en la letra c), derivados de la vulnerabilidad del proyecto ante riesgos de accidentes graves o de catástrofes, sobre el riesgo de que se produzcan dichos accidentes o catástrofes, y sobre los probables efectos adversos significativos sobre el medio ambiente, en caso de ocurrencia de los mismos, o bien informe justificativo sobre la no aplicación de este apartado al proyecto.
+Para realizar los estudios mencionados en este apartado, el promotor incluirá la información relevante obtenida a través de las evaluaciones de riesgo realizadas de conformidad con las normas que sean de aplicación al proyecto.
+e) Medidas que permitan prevenir, corregir y, en su caso, compensar los posibles efectos adversos significativos sobre el medio ambiente y el paisaje.
+f) Programa de vigilancia ambiental.
+g) Resumen no técnico del estudio de impacto ambiental y conclusiones en términos fácilmente comprensibles.
+3. Cuando el órgano ambiental haya elaborado el documento de alcance de conformidad con lo dispuesto en el artículo 64, el promotor elaborará el estudio de impacto ambiental ajustándose a la información requerida en dicho documento.
+4. Con el fin de evitar la duplicidad de evaluaciones, el promotor al elaborar el estudio de impacto ambiental, tendrá en cuenta los resultados disponibles de otras evaluaciones pertinentes en virtud de la legislación comunitaria o nacional.
+A estos efectos, la Administración pondrá a disposición del promotor que así lo solicite los informes y cualquier otra documentación que obre en su poder cuando resulte de utilidad para la realización del estudio de impacto ambiental.
+5. En el estudio de impacto ambiental deberán venir identificados sus autores mediante nombre, apellidos, titulación, documento nacional de identidad o cualquier otra documentación acreditativa de la identidad del autor o autores del proyecto. Además deberá constar la fecha de conclusión del mismo y las firmas de los autores.
+6. El estudio de impacto ambiental perderá su validez si en el plazo de un año desde la fecha de su conclusión no se hubiera presentado ante el órgano sustantivo para la realización de la información pública y de las consultas.
+Se modifica por el art. 10.17 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifican los apartados 4 y 5 por el art. 7.13 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 66
+
+Artículo 66. Información pública del proyecto y del estudio de impacto ambiental.
+1. El promotor presentará el proyecto y el estudio de impacto ambiental ante el órgano sustantivo, que los someterá a información pública durante un plazo no inferior a treinta días hábiles, previo anuncio en el “Diario Oficial de Extremadura” y en su sede electrónica.
+Esta información pública se llevará a cabo en una fase del procedimiento sustantivo de autorización del proyecto en la que estén abiertas todas las opciones relativas a la determinación del contenido, la extensión y la definición del proyecto.
+En el caso de proyectos que deban ser autorizados por la Administración General del Estado y que además requieran una autorización ambiental integrada según lo dispuesto en el texto refundido de la Ley de prevención y control integrados de la contaminación, aprobado por el Real Decreto Legislativo 1/2016, de 16 de diciembre, el órgano sustantivo realizará la información pública a la que se refiere este artículo.
+Cuando se trate de proyectos sometidos a declaración responsable o comunicación previa, incumbirá al órgano ambiental la realización de la información pública.
+2. El anuncio del inicio de la información pública incluirá un resumen del procedimiento de autorización del proyecto, que contendrá, como mínimo, la siguiente información:
+a) Indicación de que el proyecto está sujeto a evaluación de impacto ambiental ordinaria, así como de que, en su caso, puede resultar de aplicación lo previsto en la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, en materia de consultas transfronterizas.
+b) Identificación del órgano competente para autorizar el proyecto o, en el caso de proyectos sometidos a declaración responsable o comunicación previa, identificación del órgano ante el que deba presentarse la mencionada declaración o comunicación previa; identificación de aquellos órganos de los que pueda obtenerse información pertinente y de aquellos a los que puedan presentarse alegaciones, así como del plazo disponible para su presentación.
+3. El órgano sustantivo, o en caso el órgano ambiental, adoptará las medidas necesarias para garantizar que la documentación que debe someterse a información pública tenga la máxima difusión entre el público, utilizando los medios electrónicos y otros medios de comunicación.
+Se modifica por el art. 10.18 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.14 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 67
+
+Artículo 67. Consulta a las Administraciones Públicas afectadas y a las personas interesadas.
+1. Simultáneamente al trámite de información pública, el órgano sustantivo consultará a las Administraciones Públicas afectadas y a las personas interesadas sobre los posibles efectos significativos del proyecto, que incluirán el análisis de los probables efectos adversos significativos sobre el medio ambiente derivados de la vulnerabilidad del proyecto ante riesgos de accidentes graves o de catástrofes que incidan en el proyecto.
+Cuando se trate de proyectos sometidos a declaración responsable o comunicación previa, corresponderá al órgano ambiental realizar la consulta a las Administraciones Públicas afectadas y a las personas interesadas.
+2. El órgano que realice las consultas deberá solicitar con carácter preceptivo los siguientes informes, que deberán estar debidamente motivados:
+a) Informe del órgano con competencias en materia de medio ambiente de la Comunidad Autónoma de Extremadura.
+b) Informe sobre el patrimonio cultural, cuando proceda.
+c) Informe de los órganos con competencias en materia de planificación hidrológica y de dominio público hidráulico, y en materia de calidad de las aguas, cuando proceda.
+d) Informe preliminar del órgano con competencias en materia de impacto radiológico, cuando proceda.
+e) Informe de los órganos con competencias en materia de prevención y gestión de riesgos derivados de accidentes graves o catástrofes, en su caso.
+f) Informe sobre la compatibilidad del proyecto con la planificación hidrológica, cuando proceda.
+g) Informe del Ministerio de Defensa en el caso de que el proyecto incida sobre zonas declaradas de interés para la Defensa Nacional y terrenos, edificaciones e instalaciones, incluidas sus zonas de protección, afectos a la Defensa Nacional. El informe tendrá carácter vinculante en lo que afecte a la Defensa Nacional.
+h) Informe de los órganos con competencias en materia de salud pública, cuando proceda.
+i) Informe del órgano con competencias en materia de ordenación del territorio y urbanismo.
+3. Las consultas se realizarán mediante una notificación que contendrá, como mínimo, la siguiente información:
+a) El estudio de impacto ambiental, o el lugar o lugares en los que puede ser consultado.
+b) El órgano al que se deben remitir los informes y alegaciones.
+c) Toda la documentación relevante sobre el proyecto a efectos de la evaluación ambiental que obre en poder del órgano sustantivo.
+La consulta a las Administraciones Públicas afectadas y a las personas interesadas se realizará por medios electrónicos y mediante anuncios o cualesquiera otros medios, siempre que se acredite la realización de la consulta.
+4. Las Administraciones Públicas afectadas y las personas interesadas dispondrán de un plazo máximo de treinta días hábiles desde la recepción de la notificación para emitir los informes y formular las alegaciones que estimen pertinentes.
+5. El órgano sustantivo pondrá a disposición de las Administraciones Públicas afectadas y de las personas interesadas aquella otra información distinta de la prevista en el apartado 3 que sólo pueda obtenerse una vez expirado el período de información pública a que se refiere el artículo 66 y que resulte relevante a los efectos de la decisión sobre la ejecución del proyecto.
+Se modifica por el art. 10.19 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica el apartado 1 por el art. 7.15 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 68
+
+Artículo 68. Modificación del proyecto o del estudio de impacto ambiental y nuevo trámite de información pública y de consultas.
+1. En el plazo máximo de treinta días hábiles desde la finalización de los trámites de información pública y de consultas a las Administraciones Públicas afectadas y a las personas interesadas, el órgano sustantivo remitirá al promotor los informes y alegaciones recibidas para su consideración en la redacción, en su caso, de la nueva versión del proyecto y en el estudio de impacto ambiental.
+2. Si, como consecuencia del trámite de información pública y de consultas a las Administraciones Públicas afectadas y a las personas interesadas, el promotor incorporare en el proyecto o en el estudio de impacto ambiental modificaciones que supongan efectos ambientales significativos distintos de los previstos originalmente, se realizará un nuevo trámite de información pública y consultas en los términos previstos en los artículos 66 y 67, que en todo caso, será previo a la formulación de la declaración de impacto ambiental.
+3. No se tendrán en cuenta los informes o alegaciones recibidos fuera de los plazos establecidos en los artículos 66 y 67.
+Se modifica por el art. 10.20 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.16 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 69
+
+Artículo 69. Evaluación de impacto ambiental ordinaria.
+1. Dentro del procedimiento sustantivo de autorización del proyecto, el promotor presentará ante el órgano sustantivo, junto con la documentación exigida por la legislación sectorial, una solicitud de evaluación de impacto ambiental ordinaria, acompañada de la siguiente documentación, que constituirá el contenido mínimo del expediente de evaluación de impacto ambiental:
+a) El documento técnico del proyecto.
+b) El estudio de impacto ambiental.
+c) Las alegaciones e informes recibidos en los trámites de información pública y de consultas a las Administraciones Públicas afectadas y a las personas interesadas en virtud del artículo 67, y en su caso, de los artículos 64 y 68.2.
+d) Documentación acreditativa de haberse procedido por parte del solicitante al pago de la tasa exigida legalmente.
+2. Si el órgano sustantivo comprobara que la solicitud de evaluación de impacto ambiental ordinaria no incluye los documentos señalados en los apartados anteriores, requerirá al promotor para que, en un plazo de diez días hábiles, acompañe los documentos preceptivos, con los efectos previstos en el artículo 68 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Con relación al estudio de impacto ambiental, documento básico para la realización de la evaluación de impacto ambiental, se constatará que en el mismo se han incluido los apartados específicos contemplados en el artículo 65.2.
+Asimismo, el órgano que realizó la información pública comprobará que la documentación presentada cumple los requisitos exigidos por la legislación sectorial.
+3. Una vez realizadas las comprobaciones anteriores, el órgano sustantivo remitirá al órgano ambiental la solicitud de evaluación de impacto ambiental ordinaria y los documentos que la deben acompañar.
+4. En el plazo de veinte días hábiles desde la recepción de la solicitud de inicio de la evaluación de impacto ambiental ordinaria el órgano ambiental podrá resolver su inadmisión por alguna de las siguientes razones:
+a) Si estimara de modo inequívoco que el proyecto es manifiestamente inviable por razones ambientales.
+b) Si estimara que el estudio de impacto ambiental no reúne condiciones de calidad suficientes.
+c) Si ya hubiese inadmitido o ya hubiese dictado una declaración de impacto ambiental desfavorable en un proyecto sustantivamente análogo al presentado.
+Con carácter previo a la adopción de la resolución por la que se acuerde la inadmisión, el órgano ambiental dará audiencia al promotor, informando de ello al órgano sustantivo, por un plazo de diez días hábiles que suspende el previsto para declarar la inadmisión.
+La resolución de inadmisión justificará las razones por las que se aprecia, y frente a la misma podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial en su caso.
+Se modifica por el art. 10.21 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.17 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 70
+
+Artículo 70. Análisis técnico del expediente.
+1. El órgano ambiental realizará un análisis formal del expediente de evaluación de impacto ambiental y comprobará que está completo.
+Si de este análisis resulta que no constan en el expediente los informes previstos en el artículo 67.2, o que la información pública o las consultas a las Administraciones Públicas afectadas y a las personas interesadas no se han realizado conforme a lo establecido en esta ley, o que el estudio de impacto ambiental elaborado por el promotor resulta incompleto por omisión de alguno de los apartados específicos contemplados en el artículo 65.2, el órgano ambiental requerirá al órgano sustantivo para que subsane el expediente en el plazo de tres meses, quedando suspendido el plazo para la formulación de la declaración de impacto ambiental.
+Si transcurridos tres meses, el órgano sustantivo no hubiera remitido la información solicitada, o si una vez presentado el expediente siguiera estando incompleto, el órgano ambiental dará por finalizada la evaluación de impacto ambiental ordinaria, notificando al promotor y al órgano sustantivo la resolución de terminación. Contra esta resolución podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial en su caso.
+2. Una vez completado formalmente el expediente, el órgano ambiental efectuará el análisis técnico del expediente.
+Si durante este análisis comprobase que alguno de los informes preceptivos a los que se refiere el artículo 67.2 o los apartados específicos contemplados en el artículo 65.2, no resulta suficiente para disponer de los elementos de juicio necesarios para poder realizar la evaluación de impacto ambiental, el órgano ambiental se dirigirá al órgano sustantivo para que se completen los informes.
+Si transcurridos dos meses el órgano sustantivo no hubiera remitido los informes solicitados o, si una vez presentados, su contenido sigue resultando insuficiente, el órgano ambiental requerirá personalmente al titular del órgano jerárquicamente superior de aquél que tendría que emitir el informe para que, en el plazo de diez días hábiles, contados a partir de la recepción del requerimiento, ordene al órgano competente la entrega del informe solicitado en el plazo de diez días hábiles, sin perjuicio de las responsabilidades en que pudiera incurrir el responsable de la demora. El requerimiento efectuado se comunicará al órgano sustantivo y al promotor, y suspenderá el plazo para la formulación de la declaración de impacto ambiental.
+Si transcurrido el plazo de diez días hábiles el órgano ambiental no hubiese recibido el informe, el órgano ambiental comunicará al órgano sustantivo y al promotor la imposibilidad de continuar el procedimiento, dando por finalizada la evaluación de impacto ambiental ordinaria, notificando al promotor y al órgano sustantivo la resolución de terminación. Contra esta resolución podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial, en su caso.
+En todo caso, el promotor podrá reclamar a la Administración competente la emisión del informe a través del procedimiento previsto en el artículo 29 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+3. Asimismo, si durante el análisis técnico del expediente el órgano ambiental apreciara:
+a) que es necesaria información adicional relativa al estudio de impacto ambiental o, en su caso, que el contenido del estudio de impacto ambiental no es acorde con la información requerida en el documento de alcance; o bien
+b) que el promotor no ha tenido debidamente en cuenta las alegaciones recibidas durante los trámites de información pública y consultas, requerirá al promotor, informando de ello al órgano sustantivo, para que complete la información que resulte imprescindible para la formulación de la declaración de impacto ambiental.
+Si transcurridos tres meses, el promotor no hubiera remitido la información requerida o, una vez presentada, esta siguiera siendo insuficiente, el órgano ambiental dará por finalizada la evaluación de impacto ambiental ordinaria, notificando al promotor y al órgano sustantivo la resolución de terminación. Contra esta resolución podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial, en su caso. El plazo de tres meses previsto en este párrafo se podrá ampliar en casos excepcionales, debidamente motivados, a instancias del órgano sustantivo, y por un tiempo que no exceda de la mitad de dicho plazo.
+4. Durante el análisis técnico del expediente el órgano ambiental podrá recabar, en cualquier momento, ya sea directamente o a través del órgano sustantivo, el informe de organismos científicos o académicos que resulten necesarios para disponer de los elementos de juicio suficientes para poder realizar la evaluación de impacto ambiental. Estos organismos deberán pronunciarse en el plazo de treinta días hábiles desde la recepción de la solicitud. El órgano ambiental trasladará copia de los informes recibidos al órgano sustantivo.
+Si transcurrido el plazo de treinta días hábiles el órgano ambiental no ha recibido los informes solicitados dará por finalizada la evaluación de impacto ambiental ordinaria, notificando al promotor y al órgano sustantivo la resolución de terminación. Contra esta resolución podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial, en su caso.
+5. Si el órgano ambiental considera necesario que las Administraciones Públicas afectadas y las personas interesadas se pronuncien sobre la nueva información recibida en virtud de los apartados 3 y 4, requerirá al órgano sustantivo para que realice una nueva consulta a las Administraciones Públicas afectadas y a las personas interesadas, que deberán pronunciarse en el plazo máximo de treinta días hábiles desde la recepción de la documentación, quedando suspendido el plazo para la formulación de la declaración de impacto ambiental.
+Transcurrido el plazo de treinta días hábiles, el procedimiento continuará si el órgano ambiental cuenta con elementos de juicio suficientes para formular la declaración de impacto ambiental. En caso contrario, el órgano ambiental comunicará al órgano sustantivo y al promotor la imposibilidad de continuar el procedimiento, dando por finalizada la evaluación de impacto ambiental ordinaria, notificando al promotor y al órgano sustantivo la resolución de terminación. Contra esta resolución podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial, en su caso.
+El plazo de treinta días previsto en el párrafo anterior se podrá ampliar en casos excepcionales, debidamente motivados, a instancias del órgano sustantivo, y por un tiempo que no exceda de la mitad de dicho plazo.
+Se modifica por el art. 10.22 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se deroga el apartado 2 por la disposición derogatoria única 2.b) de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#dd
+
+### Artículo 71
+
+Artículo 71. Declaración de impacto ambiental.
+1. El órgano ambiental, una vez finalizado el análisis técnico del expediente de evaluación de impacto ambiental, formulará la declaración de impacto ambiental.
+2. La declaración de impacto ambiental tendrá la naturaleza de informe preceptivo y determinante, que concluirá sobre los efectos significativos del proyecto en el medio ambiente y, en su caso, establecerá las condiciones en las que puede desarrollarse para la adecuada protección de los factores enumerados en el artículo 65.2 c) durante la ejecución y la explotación y, en su caso, el cese, el desmantelamiento o demolición del proyecto, así como, en su caso, las medidas preventivas, correctoras y compensatorias.
+La declaración de impacto ambiental incluirá, al menos, el siguiente contenido:
+a) La identificación del promotor del proyecto y del órgano sustantivo, y la descripción del proyecto.
+b) El resumen del resultado del trámite de información pública y de las consultas a las Administraciones Públicas afectadas y a las personas interesadas, y cómo se han tenido en consideración.
+c) El resumen del análisis técnico realizado por el órgano ambiental.
+d) Si proceden, las condiciones que deban establecerse y las medidas que permitan prevenir, corregir y, en su caso, compensar los efectos adversos sobre el medio ambiente.
+e) En su caso, la conclusión de la evaluación de las repercusiones sobre la Red Natura 2000. Cuando se compruebe la existencia de un perjuicio a la integridad de la Red Natura 2000, se incluirá una referencia a la justificación documental efectuada por el promotor de acuerdo con el artículo 65.2.c), segundo párrafo y, cuando procedan, las medidas compensatorias Red Natura 2000 que deban establecerse en caso de concurrir las circunstancias previstas en el artículo 46 de la Ley 42/2007, de 13 de diciembre, de Patrimonio Natural y de la Biodiversidad.
+f) El programa de vigilancia ambiental.
+g) Si procede, la creación de una comisión de seguimiento.
+h) En caso de operaciones periódicas, la motivación de la decisión y el plazo a que se refiere la disposición adicional décima de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental.
+i) En el caso de proyectos que vayan a causar a largo plazo una modificación hidromorfológica en una masa de agua superficial o una alteración del nivel en una masa de agua subterránea, se determinará si de la evaluación practicada se ha deducido que ello impedirá que alcance el buen estado o potencial, o que ello supondrá un deterioro de su estado o potencial de la masa de agua afectada. En caso afirmativo, la declaración incluirá, además:
+1.º Relación de todas las medidas factibles, que se hayan deducido de la evaluación, para paliar los efectos adversos del proyecto sobre el estado o potencial de las masas de agua afectadas.
+2.º Referencia a la conformidad de la unidad competente en planificación hidrológica del organismo de cuenca con la evaluación practicada y medidas mitigadoras señaladas.
+3. En el caso de proyectos a ejecutar en suelo rústico, la declaración de impacto ambiental producirá en sus propios términos los efectos de la calificación rústica cuando esta resulte preceptiva, de conformidad con lo previsto en la normativa urbanística, acreditando la idoneidad urbanística de los bienes inmuebles sobre los que pretende implantarse la instalación o actividad. A estos efectos, la Dirección General con competencias en materia de medioambiente recabará de la Dirección General con competencias en materia de urbanismo y ordenación del territorio o, en su caso, del municipio en cuyo territorio pretenda ubicarse la instalación o actividad, un informe urbanístico referido a la no prohibición de usos y a los condicionantes urbanísticos que la instalación deba cumplir en la concreta ubicación de que se trate. El informe deberá emitirse en el plazo de quince días hábiles, entendiéndose favorable de no ser emitido en dicho plazo. El contenido de dicho informe se incorporará al condicionado de la declaración de impacto ambiental.
+4. La declaración de impacto ambiental se publicará en el “Diario Oficial de Extremadura” en el plazo de los diez días hábiles siguientes a partir de su formulación, sin perjuicio de su publicación en la sede electrónica del órgano ambiental.
+5. La declaración de impacto ambiental no será objeto de recurso sin perjuicio de los que, en su caso procedan en vía administrativa y judicial frente al acto por el que se autoriza el proyecto.
+Se modifica por el art. 10.23 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.18 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 72
+
+Artículo 72. Publicidad de la autorización del proyecto.
+1. El órgano sustantivo deberá tener debidamente en cuenta, en el procedimiento de autorización del proyecto, que deberá resolverse en un plazo razonable, la evaluación de impacto ambiental efectuada, incluidos los resultados de las consultas.
+2. La autorización del proyecto incluirá, como mínimo, la siguiente información contenida en la declaración de impacto ambiental:
+a) La conclusión sobre los efectos significativos del proyecto en el medio ambiente, teniendo en cuenta la declaración de impacto ambiental.
+b) Las condiciones ambientales establecidas, así como una descripción de las características del proyecto y las medidas previstas para prevenir, corregir y, si fuera posible, compensar los efectos adversos significativos en el medio ambiente, así como, en su caso, medidas de seguimiento y el órgano encargado del mismo.
+3. La decisión de denegar una autorización indicará las principales razones de la denegación.
+4. El órgano sustantivo, en el plazo más breve posible y en todo caso antes de los quince días hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al “Diario Oficial de Extremadura”, para su publicación, un extracto del contenido de dicha decisión que contendrá, al menos, la siguiente información:
+a) El contenido de la decisión y las condiciones que eventualmente la acompañen.
+b) Los principales motivos y consideraciones en los que se basa la decisión, incluida la información recabada de conformidad con los artículos 66 y 67 y, si procede, 64 y 68.2, y cómo esa información se ha incorporado o considerado, en particular, las observaciones recibidas del Estado miembro afectado a las que se refiere el artículo 49 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental.
+Asimismo, publicará en su sede electrónica una referencia al Diario Oficial de Extremadura en el que se publicó la declaración de impacto ambiental y el extracto sobre la decisión de autorizar o denegar el proyecto.
+5. La información a que se refiere el apartado anterior será enviada a los Estados miembros que hayan sido consultados según el capítulo III del título II de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, relativo a las consultas transfronterizas.
+Se modifica por el art. 10.24 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+## Subsección 2
+
+Subsección 2.ª Evaluación de impacto ambiental simplificada
+
+### Artículo 73
+
+Artículo 73. Ámbito de aplicación.
+Deberán someterse a evaluación de impacto ambiental simplificada los proyectos, públicos o privados, consistentes en la realización de las obras, instalaciones o cualquier otra actividad que se pretendan llevar a cabo en el ámbito territorial de la Comunidad Autónoma de Extremadura en los siguientes casos:
+a) Proyectos comprendidos en el anexo V.
+b) Los proyectos no incluidos ni en el anexo IV ni el anexo V que puedan afectar de forma apreciable, directa o indirectamente, a Espacios Protegidos Red Natura 2000.
+c) Cualquier modificación de las características de un proyecto, distintas de las recogidas en el anexo IV, de un proyecto que figura en el anexo IV o en el anexo V ya autorizado, ejecutado o en proceso de ejecución, que pueda tener efectos adversos significativos sobre el medio ambiente. Se entenderá que esta modificación puede tener efectos adversos significativos sobre el medio ambiente cuando suponga:
+1.º Un incremento significativo de las emisiones a la atmósfera.
+2.º Un incremento significativo de los vertidos a cauces públicos.
+3.º Incremento significativo de la generación de residuos.
+4.º Un incremento significativo en la utilización de recursos naturales.
+5.º Una afección a Espacios Protegidos Red Natura 2000, Áreas Protegidas de Extremadura, o a especies protegidas, sin tener relación directa con la gestión o conservación de dichas áreas o especies o sin ser necesarios para la misma.
+6.º Una afección significativa a la biodiversidad.
+7.º Una afección significativa al patrimonio cultural.
+d) Los proyectos que, presentándose fraccionados, alcancen los umbrales del anexo V mediante la acumulación de las magnitudes o dimensiones de cada uno de los proyectos considerados.
+e) Los proyectos del anexo IV que sirven exclusiva o principalmente para desarrollar o ensayar nuevos métodos o productos, siempre que la duración del proyecto no sea superior a dos años.
+
+### Artículo 74
+
+Artículo 74. Solicitud de inicio de la evaluación de impacto ambiental simplificada.
+1. Dentro del procedimiento sustantivo de autorización del proyecto, el promotor presentará ante el órgano sustantivo, junto con la documentación exigida por la legislación sectorial, una solicitud de inicio de la evaluación de impacto ambiental simplificada, acompañada del documento ambiental con el siguiente contenido:
+a) La motivación de la aplicación del procedimiento de evaluación de impacto ambiental simplificada.
+b) La definición, características y ubicación del proyecto, en particular:
+1.º Una descripción de las características físicas del proyecto en sus tres fases: construcción, funcionamiento y cese;
+2.º Una descripción de la ubicación del proyecto, en particular por lo que respecta al carácter sensible medioambientalmente de las áreas geográficas que puedan verse afectadas.
+c) Una exposición de las principales alternativas estudiadas, incluida la alternativa cero, y una justificación de las principales razones de la solución adoptada, teniendo en cuenta los efectos ambientales.
+d) Una descripción de los aspectos medioambientales que puedan verse afectados de manera significativa por el proyecto.
+e) Una descripción y evaluación de todos los posibles efectos significativos del proyecto en el medio ambiente, que sean consecuencia de:
+1.º Las emisiones y los desechos previstos y la generación de residuos;
+2.º El uso de los recursos naturales, en particular el suelo, la tierra, el agua y la biodiversidad.
+Se describirán y analizarán, en particular, los posibles efectos directos o indirectos, acumulativos y sinérgicos del proyecto sobre la población, la salud humana, la flora, la fauna, la biodiversidad, el suelo, el aire, el agua, el medio marino, el clima, el cambio climático, el paisaje, los bienes materiales, incluido el patrimonio cultural, y la interacción entre todos los factores mencionados, durante las fases de ejecución, explotación y, en su caso, durante la demolición o abandono del proyecto.
+Cuando el proyecto pueda afectar directa o indirectamente a los espacios Red Natura 2000, se incluirá un apartado específico para la evaluación de sus repercusiones en el lugar, teniendo en cuenta los objetivos de conservación del espacio.
+En los supuestos previstos en el artículo 73.b), se describirán y analizarán, exclusivamente, las repercusiones en el lugar, teniendo en cuenta los objetivos de conservación del espacio Red Natura 2000.
+Cuando el proyecto pueda causar a largo plazo una modificación hidromorfológica en una masa de agua superficial o una alteración del nivel en una masa de agua subterránea que puedan impedir que alcance el buen estado o potencial, o que puedan suponer un deterioro de su estado o potencial, se incluirá un apartado específico para la evaluación de sus repercusiones a largo plazo sobre los elementos de calidad que definen el estado o potencial de las masas de agua afectadas.
+f) Se incluirá un apartado específico que incluya la identificación, descripción, análisis y si procede, cuantificación de los efectos esperados sobre los factores enumerados en la letra e), derivados de la vulnerabilidad del proyecto ante riesgos de accidentes graves o de catástrofes, sobre el riesgo de que se produzcan dichos accidentes o catástrofes, y sobre los probables efectos adversos significativos sobre el medio ambiente, en caso de ocurrencia de los mismos, o bien informe justificativo sobre la no aplicación de este apartado al proyecto.
+El promotor podrá utilizar la información relevante obtenida a través de las evaluaciones de riesgo realizadas de conformidad con otras normas, como la normativa relativa al control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas, así como la normativa que regula la seguridad nuclear de las instalaciones nucleares.
+g) Las medidas que permitan prevenir, reducir y compensar y, en la medida de lo posible, corregir, cualquier efecto negativo relevante en el medio ambiente de la ejecución del proyecto.
+h) La forma de realizar el seguimiento que garantice el cumplimiento de las indicaciones y medidas protectoras y correctoras contenidas en el documento ambiental.
+Los criterios del Anexo X se tendrán en cuenta, si procede, al compilar la información con arreglo a este apartado.
+El promotor tendrá en cuenta, en su caso, los resultados disponibles de otras evaluaciones pertinentes de los efectos en el medio ambiente que se realicen de acuerdo con otras normas. El promotor podrá proporcionar asimismo una descripción de cualquier característica del proyecto y medidas previstas para prevenir lo que de otro modo podrían haber sido efectos adversos significativos para el medio ambiente.
+i) Documentación acreditativa de haberse procedido por parte del solicitante al pago de la tasa exigida legalmente.
+2. Si el órgano sustantivo comprobara que la solicitud de inicio no incluye los documentos señalados en el apartado anterior requerirá al promotor para que, en un plazo de diez días hábiles, acompañe los documentos preceptivos, con los efectos previstos en el artículo 68 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Con relación al documento ambiental elaborado por el promotor, documento básico para la realización de la evaluación de impacto ambiental simplificada, se constatará que el mismo se ajusta al contenido previsto en el apartado anterior.
+Asimismo, el órgano sustantivo comprobará que el proyecto y la documentación presentada de conformidad con la legislación sectorial cumplen los requisitos en ella exigidos.
+3. Una vez realizadas las comprobaciones anteriores, el órgano sustantivo remitirá al órgano ambiental la solicitud de inicio y los documentos que la deben acompañar.
+4. En el plazo de veinte días hábiles desde la recepción de la solicitud de inicio de la evaluación de impacto ambiental simplificada, el órgano ambiental podrá resolver su inadmisión por algunas de las siguientes razones:
+a) Si estimara de modo inequívoco que el proyecto es manifiestamente inviable por razones ambientales.
+b) Si estimara que el documento ambiental no reúne condiciones de calidad suficientes.
+Con carácter previo a la adopción de la resolución por la que se acuerde la inadmisión, el órgano ambiental dará audiencia al promotor, informando de ello al órgano sustantivo, por un plazo de diez días hábiles que suspende el previsto para declarar la inadmisión.
+La resolución de inadmisión justificará las razones por las que se aprecia, y frente a la misma podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial, en su caso.
+Se modifica por el art. 10.25 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.19 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 75
+
+Artículo 75. Consultas a las Administraciones Públicas afectadas y las personas interesadas.
+1. El órgano ambiental consultará a las Administraciones públicas afectadas y a las personas interesadas, poniendo a su disposición el documento ambiental del proyecto al que se refiere el artículo anterior.
+2. Las Administraciones públicas afectadas y las personas interesadas consultadas deberán pronunciarse en el plazo máximo de veinte días hábiles desde la recepción de la solicitud de informe.
+Transcurrido este plazo sin que se haya recibido el pronunciamiento, el procedimiento continuará si el órgano ambiental cuenta con elementos de juicio suficientes para formular el informe de impacto ambiental. En este caso, no se tendrán en cuenta los pronunciamientos antes referidos que se reciban posteriormente.
+3. Si el órgano ambiental no tuviera los elementos de juicio suficientes bien porque no se hubiesen recibido los informes de las Administraciones públicas afectadas que resulten relevantes, o bien porque, habiéndose recibido, estos resultasen insuficientes para decidir, requerirá personalmente al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe, para que en el plazo de diez días hábiles, contados a partir de la recepción del requerimiento, ordene al órgano competente la entrega del correspondiente informe en el plazo de diez días hábiles, sin perjuicio de las responsabilidades en que pudiera incurrir el responsable de la demora.
+En todo caso, el promotor podrá reclamar a la Administración competente la emisión del informe, a través del procedimiento previsto en el artículo 29.1 de la Ley 29/1998, de 13 julio, de la Jurisdicción Contencioso-Administrativa.
+Se modifica por el art. 10.26 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+### Artículo 76
+
+Artículo 76. Informe de impacto ambiental.
+1. El órgano ambiental formulará el informe de impacto ambiental en el plazo de tres meses contados desde la recepción de la solicitud de inicio y de los documentos que la deben acompañar.
+2. El órgano ambiental, teniendo en cuenta la información facilitada por el promotor, el resultado de las consultas realizadas y, en su caso, los resultados de verificaciones preliminares o evaluaciones de los efectos medioambientales realizadas de acuerdo con otra legislación, resolverá mediante la emisión del informe de impacto ambiental, que podrá determinar de forma motivada de acuerdo con los criterios del Anexo X que:
+a) El proyecto debe someterse a una evaluación de impacto ambiental ordinaria porque podría tener efectos significativos sobre el medio ambiente. En este caso, el promotor elaborará el estudio de impacto ambiental conforme al artículo 65.
+Para ello, el promotor podrá solicitar al órgano ambiental el documento de alcance del estudio de impacto ambiental en los términos del artículo 64.
+b) El proyecto no tiene efectos adversos significativos sobre el medio ambiente, en los términos establecidos en el informe de impacto ambiental, que indicará al menos, las características del proyecto y las medidas previstas para prevenir lo que, de otro modo, podrían haber sido efectos adversos significativos para el medio ambiente.
+c) No es posible dictar una resolución fundada sobre los posibles efectos adversos del proyecto sobre el medio ambiente, al no disponer el órgano ambiental de elementos de juicio suficientes, procediéndose a la terminación del procedimiento con archivo de actuaciones.
+3. El informe de impacto ambiental se publicará en el “Diario Oficial de Extremadura” en el plazo de los diez días hábiles siguientes a partir de su formulación, sin perjuicio de su publicación en la sede electrónica del órgano ambiental.
+4. En el supuesto previsto en el apartado 2.b) el informe de impacto ambiental perderá su vigencia y cesará en la producción de los efectos que le son propios si, una vez publicado en el “Diario Oficial de Extremadura”, no se hubiera procedido a la autorización del proyecto en el plazo máximo de cuatro años desde su publicación, salvo que se acuerde la prórroga de la vigencia del informe de impacto ambiental en los términos previstos en el artículo 87.
+5. El informe de impacto ambiental no será objeto de recurso alguno sin perjuicio de los que, en su caso, procedan en vía administrativa o judicial frente al acto, en su caso, de autorización del proyecto.
+Se modifica por el art. 10.27 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+### Artículo 77
+
+Artículo 77. Autorización del proyecto y publicidad.
+1. El órgano sustantivo deberá tener debidamente en cuenta, en el procedimiento de autorización del proyecto, la evaluación de impacto ambiental efectuada, incluidos los resultados de las consultas.
+2. La decisión del órgano sustantivo de conceder la autorización incluirá, como mínimo, la siguiente información:
+a) La conclusión del informe de impacto ambiental sobre los efectos significativos del proyecto en el medio ambiente.
+b) Las condiciones ambientales establecidas en el informe de impacto ambiental, así como una descripción de las características del proyecto y las medidas previstas para prevenir, corregir y compensar y, si fuera posible, contrarrestar efectos adversos significativos en el medio ambiente, así como, en su caso, medidas de seguimiento y el órgano encargado del mismo.
+3. La decisión del órgano sustantivo de denegar una autorización indicará las principales razones de la denegación.
+4. En el supuesto previsto en artículo 76.2.b), en el plazo más breve posible y, en todo caso, en los diez días hábiles desde que se adopte la decisión de autorizar o denegar el proyecto por parte del órgano sustantivo, se publicará en el “Diario Oficial de Extremadura” un extracto del contenido de la decisión adoptada por éste.
+Asimismo, el órgano sustantivo publicará en su sede electrónica el contenido de la decisión y las condiciones que eventualmente la acompañen, los principales motivos y consideraciones en los que se basa la decisión, incluida la información recabada de conformidad con el artículo 75, y cómo esa información se ha incorporado o considerado, y una referencia al “Diario Oficial de Extremadura” en el que se publicó el informe de impacto ambiental.
+Se modifica por el art. 10.28 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+## Subsección 3
+
+Subsección 3.ª Evaluación de impacto ambiental abreviada
+
+### Artículo 78
+
+Artículo 78. Ámbito de aplicación.
+Deberán someterse a evaluación de impacto ambiental abreviada los proyectos, públicos o privados, consistentes en la realización de las obras, instalaciones o cualquier otra actividad comprendida en el anexo VI, que se pretendan llevar a cabo en el ámbito territorial de la Comunidad Autónoma de Extremadura.
+
+### Artículo 79
+
+Artículo 79. Procedimiento de evaluación de impacto ambiental abreviada.
+1. El procedimiento de evaluación de impacto ambiental abreviada se inicia con la recepción por parte del órgano ambiental del expediente completo de evaluación de impacto ambiental.
+2. La evaluación de impacto ambiental abreviada se llevará a cabo de acuerdo con lo dispuesto en la presente ley y comprenderá en todo caso, las siguientes actuaciones:
+a) Solicitud de sometimiento del proyecto a evaluación de impacto ambiental abreviada por el órgano sustantivo.
+b) Análisis de la documentación presentada.
+c) Petición de informes por parte del órgano ambiental.
+d) Informe de impacto ambiental emitido por el órgano ambiental.
+
+### Artículo 80
+
+Artículo 80. Solicitud de sometimiento a evaluación de impacto ambiental abreviada.
+1. El promotor presentará ante el órgano sustantivo la solicitud de sometimiento del proyecto a evaluación de impacto ambiental abreviada, acompañada de un documento ambiental abreviado del proyecto con, al menos, el siguiente contenido:
+a) La definición, características y ubicación del proyecto.
+b) Las principales alternativas estudiadas.
+c) Un análisis de impactos potenciales en el medio ambiente.
+d) Las medidas preventivas, correctoras y, en su caso, compensatorias para la adecuada protección del medio ambiente.
+e) La forma de realizar el seguimiento que garantice el cumplimiento de las indicaciones y medidas protectoras, correctoras y, en su caso, compensatorias contenidas en el documento ambiental abreviado.
+f) Presupuesto de ejecución material de la actividad.
+g) Documentación cartográfica que refleje de forma apreciable los aspectos relevantes del proyecto en relación con los elementos ambientales que sirven de soporte a la evaluación ambiental del mismo.
+h) Documentación acreditativa de haberse procedido por parte del solicitante al pago de la tasa exigida legalmente.
+i) Documentación acreditativa de haber solicitado autorización del proyecto ante el órgano sustantivo.
+2. La no aportación de la documentación acreditativa del pago de la tasa junto con la solicitud de autorización evaluación de impacto ambiental abreviada implicará que no se inicie la tramitación de procedimiento hasta que se haya efectuado y acreditado el pago correspondiente.
+Se modifica por el art. 10.29 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica por el art. 7.20 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 81
+
+Artículo 81. Análisis de la documentación presentada.
+El órgano ambiental realizará un análisis del expediente y, en caso necesario, requerirá al promotor para que, en un plazo de quince días, aporte documentación e información complementaria, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución que deberá ser dictada en los términos previstos en el artículo 42 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Este requerimiento interrumpe el plazo para la formulación del informe de impacto ambiental, de conformidad con lo dispuesto en el artículo 42.5 a) de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 82
+
+Artículo 82. Petición de informes.
+1. El órgano ambiental solicitará a las Administraciones Públicas afectadas los informes que sean preceptivos para la formulación del informe de impacto ambiental abreviado, las cuales dispondrán de un plazo de diez días hábiles para emitirlos, salvo que una disposición legal establezca un plazo distinto. Dicha petición se realizará en el plazo máximo de 15 días desde el inicio de la tramitación del procedimiento.
+De no emitirse el informe en el plazo señalado, se proseguirán las actuaciones.
+2. Cuando el proyecto se ubique en espacios incluidos en Red Natura 2000, se solicitará al órgano competente en materia de áreas protegidas el informe de afección regulado y previsto en la Ley 8/1998, de 26 de junio, de conservación de la naturaleza y de espacios naturales de Extremadura. El plazo para emitir el informe de afección será el previsto en su normativa reguladora.
+Si el informe de afección concluyera que la acción pretendida no es susceptible de afectar de forma apreciable al lugar, o estimara que las repercusiones no serán apreciables mediante la adopción de un condicionado especial, éste quedará recogido en el informe de impacto ambiental abreviado.
+Si el informe de afección determinara que el proyecto puede afectar de forma apreciable a espacios incluidos en la Red Natura 2000, deberá iniciarse el procedimiento de evaluación de impacto ambiental simplificada, lo que será comunicado al promotor y al órgano sustantivo.
+3. Cuando el proyecto se ubique en terrenos situados en alguna de las Áreas delimitadas en los Planes para la protección de especies catalogadas, se solicitará al órgano competente en dicha materia un informe de la repercusión de aquel sobre las mismas, que formará parte del procedimiento de evaluación de impacto ambiental. Dicho informe deberá ser emitido en un plazo de diez días hábiles. De no emitirse el informe en el plazo señalado, se proseguirán las actuaciones.
+Se modifica por el art. 10.30 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+### Artículo 83
+
+Artículo 83. Informe de impacto ambiental abreviado.
+1. El órgano ambiental formulará el informe de impacto ambiental abreviado en el plazo máximo de dos meses. No obstante, en el caso de proyectos a ubicar en Red Natura 2000 el plazo máximo para la formulación del informe de impacto ambiental será de tres meses. Transcurridos dichos plazos, éste deberá entenderse emitido en sentido desfavorable.
+2. El informe de impacto ambiental abreviado determinará a los solos efectos ambientales, la viabilidad o no de ejecutar el proyecto y, en caso afirmativo, fijará las condiciones en que deba realizarse en orden a la adecuada protección del medio ambiente y de los recursos naturales, así como las medidas protectoras, correctoras y compensatorias y el programa de vigilancia ambiental.
+3. Formulado el informe de impacto ambiental, el órgano ambiental lo remitirá al órgano sustantivo para que sea incluido en el contenido de la resolución administrativa por la que se autorice o apruebe el proyecto, y al promotor del proyecto en caso de que el proyecto esté sujeto a declaración responsable o comunicación.
+Si se trata de proyectos no sujetos a la obtención de autorización o licencia administrativa previa ni a declaración responsable o comunicación, el informe de impacto ambiental abreviado tendrá la consideración de autorización del proyecto.
+4. En el caso de proyectos en los que la competencia sustantiva para la autorización o aprobación, o en su caso, control de la actividad a través de la declaración responsable o comunicación, corresponda a la Administración General del Estado se actuará conforme a la legislación básica estatal.
+
+## Sección 3
+
+Sección 3.ª Disposiciones comunes
+
+### Artículo 84
+
+Artículo 84. Vigencia de la declaración de impacto ambiental.
+1. La declaración de impacto ambiental del proyecto o actividad perderá su vigencia y cesará en la producción de los efectos que le son propios si, una vez publicada en el “Diario Oficial de Extremadura”, no se hubiera comenzado la ejecución del proyecto o actividad en el plazo de cuatro años. En tales casos, el promotor deberá iniciar nuevamente el trámite de evaluación de impacto ambiental del proyecto, salvo que se acuerde la prórroga de la vigencia de la declaración de impacto ambiental en los términos previstos en los siguientes apartados.
+El plazo de cuatro años a que se refiere el párrafo anterior será de cinco años para actividades sujetas a autorización ambiental integrada o unificada.
+En defecto de regulación específica, se entenderá por inicio de la ejecución del proyecto cuando, una vez obtenidas todas las autorizaciones que sean exigibles, hayan comenzado materialmente las obras o el montaje de las instalaciones necesarias para la ejecución del proyecto o actividad y así conste a la Administración.
+A los efectos previstos en este apartado, el promotor de cualquier proyecto o actividad sometido a evaluación de impacto ambiental deberá comunicar al órgano ambiental la fecha de comienzo de la ejecución de dicho proyecto o actividad.
+En el caso de que un procedimiento judicial afecte, directa o indirectamente, a la ejecución de un proyecto que cuente con Declaración de Impacto Ambiental, el transcurso del plazo de vigencia de la misma quedará en suspenso desde su inicio y hasta el momento en que el procedimiento cuente con sentencia judicial firme.
+2. El promotor podrá solicitar la prórroga de la vigencia de la declaración de impacto ambiental antes de que transcurra el plazo previsto en el apartado anterior. La solicitud formulada por el promotor suspenderá el plazo de vigencia de cuatro años.
+3. Presentada la solicitud, el órgano ambiental podrá acordar la prórroga de la vigencia de la declaración de impacto ambiental en caso de que no se hayan producido cambios sustanciales en los elementos esenciales que sirvieron para realizar la evaluación de impacto ambiental, ampliando su vigencia por dos años adicionales. Transcurrido este plazo sin que se haya comenzado la ejecución del proyecto o actividad el promotor deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental del proyecto.
+4. El órgano ambiental resolverá sobre la solicitud de prórroga en un plazo de tres meses contados desde la fecha de presentación de dicha solicitud. El órgano ambiental solicitará informe a las Administraciones públicas afectadas por razón de la materia en relación con los elementos esenciales que sirvieron para realizar la evaluación de impacto ambiental. Estas Administraciones deberán pronunciarse en el plazo de treinta días hábiles, que podrá ampliarse por quince días hábiles más, por razones debidamente justificadas, periodo durante el cual el plazo de resolución de la solicitud permanecerá suspendido.
+5. Transcurrido el plazo sin que el órgano ambiental haya resuelto sobre la prórroga de la vigencia de la declaración de impacto ambiental se entenderá desestimada la solicitud de prórroga.
+Se modifica por el art. 10.31 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+### Artículo 85
+
+Artículo 85. Modificación de las condiciones de la declaración de impacto ambiental.
+1. Las condiciones de la declaración de impacto ambiental podrán modificarse cuando concurra alguna de las siguientes circunstancias:
+a) La entrada en vigor de nueva normativa que incida sustancialmente en el cumplimiento de las condiciones establecidas en la declaración de impacto ambiental.
+b) Cuando la declaración de impacto ambiental establezca condiciones cuyo cumplimiento se haga imposible o innecesario porque la utilización de las nuevas y mejores técnicas disponibles en el momento de formular la solicitud de modificación permiten una mejor y más adecuada protección del medio ambiente, respecto del proyecto o actuación inicialmente sometido a evaluación de impacto ambiental.
+c) Cuando durante el seguimiento del cumplimiento de la declaración de impacto ambiental se detecte que las medidas preventivas, correctoras o compensatorias son insuficientes, innecesarias o ineficaces.
+2. El procedimiento de modificación de las condiciones de la declaración de impacto ambiental podrá iniciarse de oficio o a solicitud del promotor.
+El órgano ambiental iniciará dicho procedimiento de oficio, bien por propia iniciativa o a petición razonada del órgano sustantivo, o por denuncia, mediante acuerdo.
+3. En el caso de que se haya recibido petición razonada o denuncia, el órgano ambiental solicitará informe al promotor con copia al órgano sustantivo sobre la petición. El órgano sustantivo elaborará un informe con las observaciones que considere oportunas sobre el informe del promotor.
+El órgano ambiental deberá pronunciarse sobre la procedencia de acordar el inicio del procedimiento en el plazo de veinte días hábiles desde la recepción del informe del órgano sustantivo.
+En el caso de que el órgano ambiental acuerde el inicio del procedimiento de modificación de condiciones, éste solicitará al promotor, o en su caso a la persona que haya presentado la denuncia, a través del órgano sustantivo, la presentación de la documentación para realizar la consulta a las Administraciones Públicas afectadas y a las personas interesadas previamente consultadas. Si el promotor no la aportase en el plazo de treinta días hábiles, el órgano ambiental proseguirá con las actuaciones.
+4. En el caso de que se inicie el procedimiento a petición del promotor, en el plazo de veinte días hábiles desde la recepción de la solicitud del promotor de inicio de la modificación de condiciones de la declaración de impacto ambiental, el órgano ambiental podrá resolver motivadamente su inadmisión comunicando esta resolución al órgano sustantivo. Frente a esta resolución, podrán interponerse los recursos legalmente procedentes en vía administrativa o judicial, en su caso.
+5. Para poder resolver sobre la solicitud de modificación de la declaración de impacto ambiental, el órgano ambiental consultará a las administraciones públicas afectadas y personas interesadas previamente consultadas. Las Administraciones públicas afectadas y las personas interesadas deberán pronunciarse en el plazo máximo de treinta días hábiles.
+Transcurrido el plazo sin que se hayan recibido informes o alegaciones, el procedimiento de modificación continuará si el órgano ambiental cuenta con elementos de juicio suficientes para ello. En este caso, no se tendrán en cuenta los informes o alegaciones que se reciban posteriormente.
+Si el órgano ambiental no tuviera los elementos de juicio suficientes para continuar con el procedimiento de modificación, bien porque no se hubiesen recibido los informes de las Administraciones públicas afectadas que resulten relevantes, o bien porque, habiéndose recibido, estos resultasen insuficientes para decidir, requerirá personalmente al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe, para que en el plazo de diez días hábiles contados a partir de la recepción del requerimiento, ordene al órgano competente la entrega del correspondiente informe en el plazo de diez días hábiles, sin perjuicio de las responsabilidades en que pudiera incurrir el responsable de la demora. El requerimiento efectuado se comunicará al órgano sustantivo y al promotor, y suspende el plazo para la formulación de la declaración de impacto ambiental.
+En todo caso, el promotor podrá reclamar a la Administración competente la emisión del informe, a través del procedimiento previsto en el artículo 29.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+6. El plazo máximo de emisión y notificación de la resolución de la modificación de la declaración de impacto ambiental será de treinta días hábiles, contados desde la recepción de los informes solicitados a las Administraciones afectadas por razón de la materia. Esta resolución deberá publicarse en el “Diario Oficial de Extremadura”.
+7. A los efectos previstos en este artículo, el promotor de cualquier proyecto o actividad sometido a evaluación de impacto ambiental deberá comunicar al órgano ambiental la fecha de comienzo de la ejecución de la modificación de la condición establecida en relación con dicho proyecto o actividad.
+Se modifica por el art. 10.32 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica el apartado 4 por el art. 7.21 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 86
+
+Artículo 86. Modificación de proyectos sometidos a evaluación ambiental ordinaria.
+1. Los promotores que pretendan introducir modificaciones de proyectos incluidos en el anexo IV, deberán presentar ante el órgano ambiental un documento ambiental con el contenido recogido en el artículo 74.1 de la presente ley.
+2. El órgano ambiental se pronunciará sobre el carácter de la modificación a la que se refiere apartado anterior. Para ello solicitará informe a las Administraciones Públicas afectadas por razón de la materia en relación con los elementos esenciales que sean objeto de la modificación solicitada y tenidos en cuenta en la evaluación de impacto ambiental. Estas Administraciones deberán pronunciarse en el plazo máximo de treinta días.
+Transcurrido dicho plazo sin que se hayan recibido los informes de las Administraciones Públicas consultadas, el procedimiento de modificación continuará si el órgano ambiental cuenta con elementos de juicio suficientes para ello. En este caso, no se tendrán en cuenta los informes que se reciban posteriormente.
+Si el órgano ambiental no tuviera los elementos de juicio suficientes para continuar con el procedimiento de modificación, bien porque no se hubiesen recibido los informes de las Administraciones Públicas afectadas que resulten relevantes, o bien porque habiéndose recibido estos resultasen insuficientes para decidir, requerirá personalmente al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe, para que en el plazo de diez días contados a partir de la recepción del requerimiento, ordene al órgano competente la entrega del correspondiente informe en el plazo de diez días, sin perjuicio de las responsabilidades en que pudiera incurrir el responsable de la demora. El requerimiento efectuado se comunicará al órgano sustantivo y al promotor, y suspende el plazo para la resolución del procedimiento.
+En todo caso, el promotor podrá reclamar a la Administración competente la emisión del informe, a través del procedimiento previsto en el artículo 29.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+3. El plazo máximo para el dictado y notificación de la resolución de modificación del proyecto será de treinta días, contados desde la recepción de los informes solicitados a las Administraciones Públicas afectadas por razón de la materia. Esta resolución deberá publicarse en el “Diario Oficial de Extremadura”.
+4. En caso de que la modificación del proyecto pueda tener efectos adversos significativos sobre el medio ambiente de conformidad con lo dispuesto en el artículo 73 c) de esta ley, se determinará la necesidad de someter la modificación del proyecto a evaluación de impacto ambiental simplificada.
+5. Si se determinara que la modificación del proyecto no va a tener efectos adversos significativos sobre el medio ambiente, el órgano ambiental, caso de ser necesario, actualizará el condicionado de la declaración de impacto ambiental emitida en su día para el proyecto, incorporando las nuevas medidas correctoras, protectoras o compensatorias que se consideren procedente u oportunas.
+Se modifica por el art. 10.33 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica el apartado 1 por el art. 7.22 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 87
+
+Artículo 87. Vigencia del informe de impacto ambiental.
+1. El informe de impacto ambiental del proyecto o actividad perderá su vigencia y cesará en la producción de los efectos que le son propios si no se hubiera autorizado el proyecto en el plazo de cuatro años a contar desde su publicación el “Diario Oficial de Extremadura”, para aquellos proyectos sometidos a evaluación de impacto ambiental simplificada, o a contar desde la fecha de la notificación de dicho informe para proyectos sometidos a evaluación de impacto ambiental abreviada. En tales casos, el promotor deberá iniciar nuevamente el trámite de evaluación de impacto ambiental del proyecto.
+El plazo de cuatro años a que se refiere el párrafo anterior será de cinco años para actividades sujetas a autorización ambiental integrada o unificada.
+2. No obstante, el promotor podrá solicitar la prórroga de la vigencia del informe de impacto ambiental, siempre y cuando no haya transcurrido el plazo de cuatro años a que se refiere el apartado anterior, no pudiendo ser objeto de prórroga los plazos ya vencidos.
+Esta solicitud suspenderá el plazo de vigencia de cuatro años.
+El órgano ambiental podrá resolver que el informe de impacto ambiental sigue vigente al no haberse producido cambios sustanciales en los elementos esenciales que han servido de base para realizar la evaluación de impacto ambiental del proyecto. La resolución sobre la vigencia del informe de impacto ambiental incluirá un nuevo plazo que en ningún caso será superior a dos años desde la primera fecha de caducidad. Transcurrido este nuevo plazo sin que se haya comenzado la ejecución del proyecto o actividad el promotor deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada o abreviada.
+El órgano ambiental resolverá la solicitud de la prórroga de la vigencia del informe de impacto ambiental en un plazo de tres meses contados desde la fecha de presentación de dicha solicitud. A estos efectos, el órgano ambiental solicitará informe a las Administraciones Públicas afectadas por razón de la materia en relación con los elementos esenciales que sirvieron de base para realizar la evaluación de impacto ambiental. Estas Administraciones deberán pronunciarse en el plazo máximo de treinta días hábiles, que podrá ampliarse, por razones debidamente justificadas, por quince días hábiles más, periodo durante el cual el plazo de resolución de la solicitud permanecerá suspendido.
+3. Transcurrido dicho plazo sin que el órgano ambiental haya dictado resolución sobre la prórroga de la vigencia del informe de impacto ambiental, se entenderá desestimada la solicitud de prórroga.
+4. El promotor deberá comunicar al órgano ambiental, con suficiente antelación y, en todo caso, con la antelación mínima que se establezca en el informe de impacto ambiental, la fecha de comienzo de las obras o del montaje de las instalaciones.
+Se modifica por el art. 10.34 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+### Artículo 88
+
+Artículo 88. Modificación de las condiciones del informe de impacto ambiental.
+1. Las condiciones del informe de impacto ambiental podrán modificarse cuando concurra alguna de las siguientes circunstancias:
+a) La entrada en vigor de nueva normativa que incida sustancialmente en el cumplimiento de las condiciones establecidas en el informe de impacto ambiental.
+b) Cuando durante el seguimiento del cumplimiento del informe de impacto ambiental se detecte que las medidas preventivas, correctoras o compensatorias son insuficientes, innecesarias o ineficaces.
+2. El procedimiento de modificación de las condiciones del informe de impacto ambiental podrá iniciarse de oficio o a solicitud del promotor.
+El órgano ambiental acordará la iniciación de dicho procedimiento, bien por propia iniciativa, a petición razonada del órgano sustantivo o por denuncia. En estos dos últimos casos, el órgano ambiental deberá pronunciarse, en el plazo de veinte días hábiles desde la recepción de la petición o de la denuncia, sobre la procedencia de acordar el inicio del procedimiento de modificación.
+3. En los procedimientos iniciados a solicitud del promotor, éste deberá presentar la solicitud y la documentación justificativa de la modificación del informe de impacto ambiental ante el órgano sustantivo para su análisis, comprobación y posterior remisión al órgano ambiental en el plazo máximo de treinta días desde la recepción de la solicitud.
+4. El órgano ambiental podrá resolver motivadamente su inadmisión en el plazo de veinte días hábiles desde la recepción de la solicitud del promotor de inicio de la modificación del informe de impacto ambiental. Frente a esta resolución podrán, en su caso, interponerse los recursos legalmente procedentes en vía administrativa o judicial, en su caso.
+5. Para poder resolver sobre la solicitud de modificación del informe de impacto ambiental, el órgano ambiental podrá solicitar informe a las Administraciones Públicas afectadas por razón de la materia en relación con los elementos esenciales que sean objeto de la modificación solicitada y tenidos en cuenta en la evaluación de impacto ambiental. Estas Administraciones deberán pronunciarse en el plazo máximo de treinta días.
+Transcurrido el plazo sin que se hayan recibido los informes de las Administraciones Públicas consultadas, el procedimiento de modificación continuará si el órgano ambiental cuenta con elementos de juicio suficientes para ello. En este caso, no se tendrán en cuenta los informes que se reciban posteriormente.
+Si el órgano ambiental no tuviera los elementos de juicio suficientes para continuar con el procedimiento de modificación, bien porque no se hubiesen recibido los informes de las Administraciones Públicas afectadas que resulten relevantes, o bien porque habiéndose recibido estos resultasen insuficientes para decidir, requerirá personalmente al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe, para que en el plazo de diez días contados a partir de la recepción del requerimiento, ordene al órgano competente la entrega del correspondiente informe en el plazo de diez días, sin perjuicio de las responsabilidades en que pudiera incurrir el responsable de la demora. El requerimiento efectuado se comunicará al órgano sustantivo y al promotor, y suspende el plazo para la formulación del informe de impacto ambiental.
+En todo caso, el promotor podrá reclamar a la Administración competente la emisión del informe, a través del procedimiento previsto en el artículo 29.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+6. El plazo máximo para el dictado y notificación de la resolución de la modificación de la del informe de impacto ambiental será de treinta días, contados desde la recepción de los informes solicitados a las Administraciones afectadas por razón de la materia.
+7. A los efectos previstos en este artículo, el promotor de cualquier proyecto o actividad sometido a evaluación de impacto ambiental deberá comunicar al órgano ambiental la fecha de comienzo de la ejecución de la modificación de la condición establecida en relación con dicho proyecto o actividad.
+
+### Artículo 89
+
+Artículo 89. Modificación de proyectos sometidos a evaluación de impacto ambiental simplificada y a evaluación de impacto ambiental abreviada.
+1. Los promotores que pretendan llevar a cabo modificaciones de proyectos comprendidos en el Anexo V o en el Anexo VI, deberán presentar ante el órgano sustantivo, para su remisión al órgano ambiental en un plazo de 10 días hábiles, la documentación que se indica a continuación y aquella que sea necesaria para determinar si la citada modificación puede tener efectos adversos significativos sobre el medio ambiente:
+a) Análisis comparativo del proyecto evaluado y del proyecto modificado.
+b) Efectos ambientales negativos previsibles derivados de la modificación del proyecto, con especial referencia a vertidos de aguas residuales, emisiones a la atmósfera, generación de residuos, uso de recursos naturales y afección a áreas y especies protegidas.
+c) Medidas preventivas y correctoras destinadas a minimizar los efectos ambientales negativos de la modificación si los hubiera.
+d) Forma de realizar el seguimiento que garantice el cumplimiento de las indicaciones y medidas protectoras, correctoras y complementarias de la modificación si las hubiera.
+No obstante, el promotor presentará la documentación de la modificación ante el órgano ambiental para aquellos proyectos en los que no exista órgano sustantivo o, siéndolo la Administración local, la actividad esté sometida a autorización ambiental integrada o unificada.
+2. El órgano ambiental se pronunciará sobre el carácter de la modificación a la que se refiere al párrafo anterior. Para ello podrá solicitar informes a las Administraciones Públicas afectadas por razón de la materia, en relación con los elementos esenciales que sean objeto de la modificación solicitada, y que fueron tenidos en cuenta en la evaluación de impacto ambiental. Estas Administraciones deberán pronunciarse en el plazo máximo de treinta días.
+Transcurrido dicho plazo sin que se hayan recibido los informes de las Administraciones Públicas consultadas, el procedimiento de modificación continuará si el órgano ambiental cuenta con elementos de juicio suficientes para ello.
+Si el órgano ambiental no tuviera los elementos de juicio suficientes para continuar con el procedimiento de modificación, bien porque no se hubiesen recibido los informes de las Administraciones Públicas afectadas que resulten relevantes, o bien porque habiéndose recibido estos resultasen insuficientes para decidir, requerirá personalmente al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe, para que en el plazo de diez días contados a partir de la recepción del requerimiento, ordene al órgano competente la entrega del correspondiente informe en el plazo de diez días, sin perjuicio de las responsabilidades en que pudiera incurrir el responsable de la demora. El requerimiento efectuado se comunicará al órgano sustantivo y al promotor, y suspende el plazo para la formulación del informe de impacto ambiental.
+En todo caso, el promotor podrá reclamar a la Administración competente la emisión del informe, a través del procedimiento previsto en el artículo 29.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+3. El plazo máximo para el dictado y notificación de la resolución de la modificación del informe de impacto ambiental será de treinta días, contados desde la recepción de los informes solicitados a las Administraciones afectadas por razón de la materia.
+En caso de no emitirse pronunciamiento en el plazo anteriormente indicado, se entenderá que la modificación del proyecto puede tener efectos adversos significativos sobre el medio ambiente.
+No obstante, el órgano ambiental podrá pronunciarse expresamente sobre la posibilidad de afección significativa sobre el medio ambiente con posterioridad al plazo señalado.
+4. En caso de que la modificación del proyecto pueda tener efectos adversos significativos sobre el medio ambiente se determinará la necesidad de someter el proyecto a evaluación de impacto ambiental simplificada.
+5. Si se determinara que la modificación del proyecto no tuviera efectos adversos sobre el medio ambiente, el órgano ambiental, en su caso, actualizará el condicionado del informe de impacto ambiental emitido en su día para el proyecto, incorporando las nuevas medidas correctoras, protectoras o compensatorias que se consideren procedente u oportunas.
+Se modifica el apartado 1 por el art. 10.35 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+ Se modifica el apartado 1 por el art. 7.23 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-7
+
+### Artículo 90
+
+Artículo 90. Excepciones.
+1. No se someterán a evaluación de impacto ambiental simplificada o abreviada, aquellos proyectos incluidos en los anexos V y VI que se excepcionen por el Consejo de Gobierno de la Junta de Extremadura, mediante acuerdo motivado, por razones de emergencia y excepcional interés público, haciendo constar en el mismo las razones que justifican dicha excepción, así como las previsiones ambientales que en cada caso se estimen necesarias, en orden a minimizar el impacto ambiental de su ejecución. El acuerdo de exclusión y los motivos que lo justifican se publicarán en el Diario Oficial de Extremadura.
+En tales casos, se examinará la conveniencia de someter el proyecto excluido a otra forma de evaluación.
+Igualmente quedarán excluidos los proyectos relacionados con los objetivos de la Defensa Nacional cuando tal aplicación pudiera tener repercusiones negativas sobre tales objetivos.
+2. Adicionalmente, se pondrá a disposición de las personas interesadas la siguiente información:
+a) La decisión de exclusión y los motivos que la justifican.
+b) La información relativa al examen sobre las formas alternativas de evaluación del proyecto excluido.
+
+### Artículo 91
+
+Artículo 91. Efectos de la declaración y de los informes de impacto ambiental y resolución de discrepancias.
+1. Los proyectos comprendidos en los anexos IV, V y VI no podrán autorizarse o ejecutarse sin que previamente se haya formulada la declaración o el informe de impacto ambiental, según proceda.
+Serán nulas de pleno derecho las licencias o autorizaciones otorgadas contraviniendo lo dispuesto en el párrafo anterior.
+2. Los procedimientos de evaluación de impacto ambiental regulados en esta ley serán de aplicación a los proyectos que, estando incluidos en su ámbito de aplicación, no requieran una autorización sino una declaración responsable o comunicación previa previstas en el artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. La declaración responsable o la comunicación previa no podrá presentarse hasta haber llevado a cabo dicha evaluación y, en todo caso, deberá disponerse de la documentación que así lo acredite, así como de la publicación en el diario o boletín oficial correspondiente de la pertinente resolución.
+Carecerá de validez y eficacia a todos los efectos la declaración responsable o la comunicación previa referida a un proyecto que no se ajuste a lo determinado en la declaración de impacto ambiental o en el informe de impacto ambiental.
+Las obligaciones de publicación de la autorización del proyecto se entenderán cumplidas con la publicación de la declaración de impacto ambiental o del informe de impacto ambiental.
+En estos casos, contra la declaración de impacto ambiental o el informe de impacto ambiental se podrán interponer los recursos que, en su caso, procedan en vía administrativa o judicial.
+3. En el supuesto de discrepancia entre el órgano sustantivo y el órgano ambiental, sobre la conveniencia a efectos ambientales de ejecutar un proyecto o sobre el contenido del condicionado de la declaración de impacto ambiental, resolverá el Consejo de Gobierno de la Junta de Extremadura.
+
+### Artículo 92
+
+Artículo 92. Relación con la evaluación ambiental estratégica de planes y programas.
+1. La evaluación ambiental estratégica de un plan o programa no excluye la evaluación de impacto ambiental de los proyectos que de ellos se deriven.
+2. El órgano ambiental podrá acordar motivadamente, en aras del principio de eficacia, la incorporación de trámites y de actos administrativos del procedimiento de evaluación ambiental estratégico en otros procedimientos de evaluación ambiental, siempre y cuando no haya transcurrido el plazo establecido en el plan o programa o, en su defecto, el de cuatro años desde la publicación de la declaración ambiental estratégica y no se hayan producido alteraciones de las circunstancias tenidas en cuenta en la evaluación ambiental estratégica.
+
+## TÍTULO II
+
+Contaminación atmosférica, acústica, lumínica y radiológica
+
+## CAPÍTULO I
+
+Calidad del aire
+
+### Artículo 93
+
+Artículo 93. Mantenimiento y mejora de la calidad atmosférica.
+1. La Administración de la Comunidad Autónoma de Extremadura, en el ámbito de sus competencias, adoptará cuantas medidas sean necesarias para la mejora de la calidad atmosférica y para el mantenimiento de la misma dentro de los niveles legalmente establecidos. Por su parte, los particulares se esforzarán en contribuir a evitar y reducir la contaminación atmosférica.
+2. A tal fin, la protección de la calidad del aire se garantizará, como mínimo, mediante el respeto de los valores límite de emisión de contaminantes a la atmósfera y el cumplimiento de los objetivos de calidad del aire y de los planes y programas de mejora de la misma.
+3. Con objeto de lograr un desarrollo sostenible en materia de calidad del aire y protección de la atmósfera, se promocionarán y difundirán las modalidades más eficaces para el desarrollo, la aplicación y la difusión de tecnologías, conocimientos especializados, prácticas y procesos ecológicamente racionales en lo relativo a la protección de la atmósfera y se adoptarán las medidas necesarias para promover, facilitar y apoyar, según corresponda, el acceso a esos recursos.
+
+### Artículo 94
+
+Artículo 94. Ámbito de aplicación.
+1. Las prescripciones contenidas en este capítulo serán de aplicación a todas las fuentes de los contaminantes relacionados en el anexo I de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera y normativa que la modifique o sustituya en el futuro, correspondientes a las actividades potencialmente contaminantes de la atmósfera incluidas en el anexo IV de dicha Ley.
+2. Quedan excluidas del ámbito de aplicación de este capítulo, y se regirán por su normativa específica:
+a) Las radiaciones ionizantes y no ionizantes.
+b) Los contaminantes biológicos.
+c) La calidad del aire en el interior de los lugares de trabajo.
+d) Las medidas de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas y las actividades correspondientes de protección de las personas y bienes, que se regirán por la normativa específica de protección civil.
+e) Los ruidos y vibraciones, a los que resulte de aplicación lo establecido en el capítulo II de este título.
+
+### Artículo 95
+
+Artículo 95. Distribución de competencias.
+1. Corresponden a la Administración de la Comunidad Autónoma de Extremadura, a través de la Consejería competente en materia de medio ambiente, las siguientes competencias:
+a) Realizar inventarios de emisiones y llevar a cabo la evaluación de la calidad del aire y posterior zonificación del territorio.
+b) Adoptar planes y programas para la mejora de la calidad del aire y garantizar el cumplimiento de los objetivos de calidad.
+c) Adoptar, cuando se sobrepasen los objetivos de calidad del aire o exista un riesgo de que esto ocurra, las medidas adecuadas para evitar o mitigar la contaminación. Las medidas podrán prever, según los casos, mecanismos de control y, cuando sea preciso, la modificación o paralización de las actividades que sean significativas en la situación de riesgo.
+d) Vigilar y controlar la calidad del aire a través de la Red prevista en el artículo 96.
+e) La autorización de emisiones de contaminantes a la atmósfera para las instalaciones y actividades sometidas a evaluación de impacto ambiental o autorización ambiental, así como para aquellas otras actividades potencialmente contaminadoras de la atmósfera que requieran dicha autorización, conforme se regula en el presente título.
+f) Vigilar, inspeccionar y ejercer la potestad sancionadora en relación con las emisiones de las actividades sometidas a la autorización a que se refiere el apartado anterior.
+g) Establecer valores límites de emisión más estrictos de los que establezca la Administración General del Estado.
+h) Establecer criterios comunes que definan los procedimientos de actuación de los organismos de control autorizados, así como las relaciones de estos con las diferentes Administraciones de la Comunidad Autónoma de Extremadura.
+2. Corresponde a los Municipios las siguientes competencias:
+a) Solicitar a la Consejería competente en materia de medio ambiente la elaboración de planes de mejora de la calidad del aire que afecten a su término municipal y proponer las medidas que consideren oportunas para su inclusión en los mismos. Igualmente podrán, en el ámbito de sus competencias, elaborar sus propios planes y programas para la mejora de la calidad del aire, que deberán tener en cuenta los planes de protección de la atmósfera de la Comunidad Autónoma de Extremadura.
+b) Ejecutar las medidas incluidas en los planes y programas de mejora de la calidad del aire en el ámbito de sus competencias y en particular las referentes al tráfico urbano.
+c) Aprobar las ordenanzas correspondientes en la materia, así como la adaptación de las ordenanzas ya existentes y el planeamiento urbanístico a lo establecido en el presente capítulo.
+d) En los Municipios de más de 25.000 habitantes, la vigilancia de la calidad del aire, sin perjuicio de lo dispuesto en el apartado uno de este artículo.
+
+### Artículo 96
+
+Artículo 96. Red de vigilancia y control de la contaminación atmosférica de Extremadura.
+1. La red de vigilancia y control de la contaminación atmosférica de Extremadura estará compuesta por todas las estaciones de medición, fijas y móviles de titularidad pública y privada instaladas, siempre que se adecúen a los criterios establecidos reglamentariamente.
+2. Sólo serán válidos, a los efectos del cumplimiento de las prescripciones establecidas en la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, los datos de las estaciones que pertenezcan a la red.
+3. Para el establecimiento de las estaciones de medición de la calidad del aire ambiente, en los casos que particularmente se determinen y siempre que resulte necesario, podrán imponerse servidumbres forzosas, previa indemnización si fuere legalmente exigible.
+4. Reglamentariamente se definirán los criterios que deben seguirse en cuanto al funcionamiento, número y localización de las estaciones de medición.
+
+### Artículo 97
+
+Artículo 97. Actividades potencialmente contaminantes de la atmósfera.
+1. Se considerarán actividades potencialmente contaminantes de la atmósfera las determinadas en el anexo IV de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera.
+2. En todo caso, se considerarán actividades potencialmente contaminantes de la atmósfera, aquellas cuyos focos emitan alguno de los contaminantes incluidos en el anexo I de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, o cuya emisión de partículas esté por encima de los niveles establecidos reglamentariamente.
+3. Las actividades potencialmente contaminantes de la atmósfera que estén incluidas en alguno de los grupos A, B o C del anexo IV de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, serán objeto de registro y control por parte del órgano ambiental competente.
+
+### Artículo 98
+
+Artículo 98. Obligaciones de los titulares de las instalaciones donde se desarrollan actividades potencialmente contaminantes de la atmósfera.
+1. Sin perjuicio de aquellas obligaciones establecidas en la legislación básica estatal, los titulares de instalaciones donde se desarrollen actividades potencialmente contaminantes de la atmósfera están obligados, con carácter general, a:
+a) Cumplir con las condiciones y obligaciones establecidas en la autorización administrativa de emisión de contaminantes a la atmósfera, cuando ésta proceda.
+b) Realizar controles de sus emisiones y, cuando corresponda, de la calidad del aire, en la forma y periodicidad prevista en la normativa aplicable.
+c) Respetar los valores límite de emisión en los casos en que reglamentariamente estén establecidos.
+d) Cumplir con los requisitos técnicos que sean de aplicación a la instalación conforme a la normativa y, en todo caso, salvaguardando la salud humana y el medio ambiente.
+e) Cumplir las medidas contenidas en los planes a que se refiere el artículo 101.
+f) Facilitar la información que les sea solicitada por las Administraciones Públicas en el ámbito de sus competencias.
+g) Cualesquiera otras obligaciones que se establezcan legal o reglamentariamente.
+2. Los titulares de instalaciones donde se desarrollen actividades potencialmente contaminantes de la atmósfera, recogidas en los grupos A y B del anexo IV de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera deberán cumplir, además, con las siguientes obligaciones:
+a) Notificar a la Consejería competente en materia de medio ambiente la transmisión, cese o clausura de las actividades o instalaciones.
+b) Contar con estaciones de medida de los niveles de contaminación e integrar dichas estaciones en la red de vigilancia y control de la contaminación atmosférica de Extremadura, en los casos en que reglamentariamente se haya fijado, o cuando así lo establezca la correspondiente autorización de emisiones contaminantes a la atmósfera.
+c) Mantener un registro de los controles de emisiones y niveles de contaminación y someterse a las inspecciones regulares relativas a los mismos, en los casos y términos que establezca la normativa que resulte de aplicación y contemple, en su caso, la autorización de emisión de contaminantes a la atmósfera.
+3. La construcción, montaje, explotación, traslado, modificación sustancial, cese o clausura de las instalaciones en las que se desarrollen alguna de las actividades incluidas en el catálogo recogido en el grupo C del anexo IV de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera deberá ser notificada a la Consejería con competencias en materia de medio ambiente. Dicha notificación se realizará conforme a lo que se establezca reglamentariamente.
+
+### Artículo 99
+
+Artículo 99. Autorización de emisiones a la atmósfera.
+1. La Consejería competente en materia de medio ambiente, someterá al procedimiento de autorización de emisiones la construcción, montaje, explotación, traslado o modificación sustancial de aquellas instalaciones en las que se desarrollen alguna de las actividades incluidas en el catálogo recogido en el anexo IV de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera y que figuren en dicho anexo como pertenecientes a los grupos A y B.
+El procedimiento para la autorización de emisiones será el regulado por Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera con las especialidades reguladas en el presente artículo y en el posterior desarrollo reglamentario. Las actividades incluidas en el grupo A estarán sujetas a unos requisitos de control de emisiones más exigentes que aquéllas incluidas en el grupo B.
+2. La autorización de emisiones se concederá por un tiempo determinado, que en ningún caso será superior a ocho años, pasado el cual podrá ser renovada por períodos sucesivos.
+3. La Consejería competente en materia de medio ambiente no podrá otorgar la autorización de emisiones para la construcción, montaje, explotación, traslado o modificación sustancial de instalaciones en las que se desarrollen las actividades citadas en el apartado uno, si queda demostrado que el incremento de la contaminación de la atmósfera previsto para la instalación de que se trate, en razón de las emisiones que su funcionamiento ocasione, da lugar a que se sobrepasen los objetivos de calidad del aire.
+4. En el caso de que la instalación esté sometida a evaluación de impacto ambiental de proyectos, no podrá otorgarse la autorización de emisiones sin que previamente se haya emitido la declaración o el informe de impacto ambiental correspondiente, debiendo incorporarse su condicionado al contenido de dicha autorización. En el caso de que la evaluación de impacto ambiental del proyecto corresponda a la Administración General del Estado, se estará a lo dispuesto en la legislación básica estatal.
+5. Cuando las instalaciones a que se refiere el apartado uno de este artículo, se encuentren sometidas al procedimiento de autorización ambiental integrada o unificada previsto en la presente ley, la autorización de emisiones de contaminantes a la atmósfera se integrará en la autorización ambiental correspondiente.
+6. La Consejería competente en materia de medio ambiente deberá dictar y notificar la resolución expresa que ponga fin al procedimiento para la obtención, en su caso, de la autorización de emisiones a la atmósfera en el plazo máximo de tres meses, salvo que sea de aplicación lo dispuesto en el número anterior. Transcurrido dicho plazo sin haberse dictado y notificado resolución expresa, el interesado podrá entender desestimada su solicitud.
+7. La Consejería competente en materia de medio ambiente podrá modificar, mediante acuerdo motivado y previo trámite de audiencia a los interesados, el condicionado de la autorización de emisiones a la atmósfera cuando concurran circunstancias sobrevenidas que así lo requieran, por razones de interés público o porque se produzcan cambios normativos. Esta modificación no dará derecho a indemnización.
+
+### Artículo 100
+
+Artículo 100. Contenido de la autorización de emisiones.
+1. La autorización de emisiones tendrá el contenido mínimo siguiente:
+a) Los valores límite de emisión de los contaminantes, en particular los enumerados en el anexo I de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, que pueden ser emitidos por la instalación y, en su caso, los parámetros o las medidas técnicas que los complementen o sustituyan.
+b) Las prescripciones para reducir la contaminación a larga distancia o transfronteriza, en su caso.
+c) Los sistemas y procedimientos para el tratamiento y control de las emisiones, con especificación de la metodología de medición, su frecuencia y los procedimientos para evaluar las mediciones.
+d) Las medidas relativas a las condiciones de explotación en situaciones distintas de las normales que puedan afectar al medio ambiente, como la puesta en marcha, fugas, fallos de funcionamiento, paradas temporales y cierre definitivo.
+e) El plazo por el que se otorga la autorización.
+2. Para la determinación de los valores límite de emisión en la autorización de emisiones de una instalación industrial se deberá tener en cuenta:
+a) Las mejores técnicas disponibles, sin prescribir el uso de una técnica o tecnología específica.
+b) Las características técnicas de la instalación industrial, su implantación geográfica y las condiciones locales del medio ambiente.
+c) La naturaleza de las emisiones y su potencial traslado de un medio a otro.
+d) Los planes y programas nacionales, autonómicos o locales aprobados para la protección de la atmósfera y para minimizar los efectos negativos de la contaminación atmosférica.
+e) La incidencia de las emisiones en la salud humana potencialmente afectada y en las condiciones generales de la sanidad animal.
+f) Los valores límite de emisión fijados, en su caso, por la normativa en vigor en la fecha de la autorización.
+
+### Artículo 101
+
+Artículo 101. Planes y programas de mejora de la calidad del aire.
+1. La Consejería competente en materia de medio ambiente elaborará y aprobará, como mínimo, los siguientes planes y programas para la mejora de la calidad del aire y el cumplimiento de los objetivos de calidad del aire en el ámbito territorial de Extremadura, así como para minimiza o evitar los impactos negativos de la contaminación atmosférica:
+a) De mejora de la calidad del aire para alcanzar los objetivos de calidad del aire en los plazos fijados, en las zonas en las que los niveles de uno o más contaminantes regulados superen dichos objetivos.
+En estos planes se identificarán las fuentes de emisión responsables del incumplimiento de dichos objetivos, se fijarán objetivos cuantificados de reducción de niveles de contaminación para dar cumplimiento a la legislación vigente, se indicarán las medidas o proyectos de mejora, calendario de aplicación, estimación de la mejora de la calidad del aire que se espera conseguir y del plazo previsto para alcanzar los objetivos de calidad.
+Los planes también preverán procedimientos para su seguimiento y revisión. La revisión de estos planes deberá producirse cuando la situación de la calidad del aire así lo aconseje o cuando exista constancia de que con las medidas aplicadas no se alcanzarán los objetivos de calidad en los plazos estipulados.
+En estos planes se integrarán planes de movilidad urbana que, en su caso, podrán incorporar los planes de transporte de empresa que se acuerden mediante negociación colectiva, con vista al fomento de modos de transporte menos contaminantes.
+b) De acción a corto plazo en los que se determinen medidas inmediatas para las zonas y supuestos en que exista riesgo de superación de los objetivos de calidad del aire y los umbrales de alerta.
+En estos planes deberá fijarse la Administración Pública responsable de la ejecución de las medidas previamente adoptadas, pudiendo establecerse a través de los mismos medidas de control o suspensión de aquellas actividades que sean significativas en la situación de riesgo, incluido el tráfico.
+2. Las entidades locales podrán elaborar, en el ámbito de sus competencias, sus propios planes y programas. En la elaboración de dichos planes y programas deberán tenerse en cuenta los planes de protección de la atmósfera que hubiera aprobado la Comunidad Autónoma de Extremadura y, en todo caso, con carácter previo a su aprobación, deberá recabarse informe de la Consejería competente en materia de medio ambiente.
+3. Asimismo, las entidades locales, con el fin de alcanzar los objetivos que se establezcan en la legislación sobre calidad del aire y protección de la atmósfera, podrán adoptar medidas de restricción total o parcial del tráfico, incluyendo restricciones a los vehículos más contaminantes, a ciertas matrículas, a ciertas horas o a ciertas zonas, entre otras.
+4. En todo caso, los Municipios con población superior a 25.000 habitantes y las aglomeraciones, en los plazos reglamentariamente establecidos, adoptarán planes y programas para el cumplimiento y mejora de los objetivos de calidad del aire, en el marco de la legislación sobre seguridad vial y de la planificación autonómica.
+
+## CAPÍTULO II
+
+Contaminación acústica
+
+### Artículo 102
+
+Artículo 102. Ámbito de aplicación.
+1. Sin perjuicio de lo dispuesto en la legislación básica estatal sobre la materia y en otras normas autonómicas que resulten de aplicación, están sujetos a las prescripciones de esta ley, todos los emisores acústicos, ya sean de titularidad pública o privada, así como las edificaciones en su calidad de receptores acústicos.
+2. No obstante lo dispuesto en el apartado anterior, quedan excluidos del ámbito de aplicación de esta ley los siguientes emisores acústicos:
+a) Las actividades domésticas o los comportamientos de los vecinos, cuando la contaminación acústica producida por aquéllos se mantenga dentro de límites tolerables de conformidad con las ordenanzas municipales y los usos locales.
+b) Las actividades militares, que se regirán por su legislación específica.
+c) La actividad laboral, respecto de la contaminación acústica producida por ésta en el correspondiente lugar de trabajo, que se regirá por lo dispuesto en la legislación laboral.
+
+### Artículo 103
+
+Artículo 103. Competencias.
+1. Corresponderá a la Consejería competente en materia de medio ambiente la comprobación, vigilancia, inspección y control de la contaminación acústica en relación con las actuaciones, públicas o privadas, sometidas a evaluación de impacto ambiental, autorización ambiental y comunicación ambiental autonómica.
+2. Corresponderá a los Municipios la comprobación, vigilancia, inspección y control de la contaminación acústica en relación con las actuaciones, públicas o privadas, sujetas a comunicación ambiental municipal, así como de aquellas no incluidas en el apartado anterior.
+3. Será de aplicación en materia de contaminación acústica el régimen sancionador establecido en el capítulo IV de la Ley 37/2003, de 17 de noviembre, del ruido.
+
+### Artículo 104
+
+Artículo 104. Calidad acústica en áreas protegidas.
+En las áreas protegidas a que se refiere la Ley 8/1998, de 26 de junio, de conservación de la naturaleza y de espacios naturales de Extremadura, que requieran una especial protección acústica, la Consejería competente en materia de medio ambiente podrá proponer al Consejo de Gobierno el establecimiento de normas relativas a los límites admisibles de ruidos y vibraciones, los objetivos de calidad acústica, así como la elaboración de mapas de ruido y planes de acción aplicables, todo ello, sin perjuicio de las competencias de la Administración General del Estado en cuanto a las infraestructuras viarias, ferroviarias y aeroportuarias y obras de interés público de competencia estatal recogidas en la Ley 37/2003, de 17 de noviembre, del ruido.
+
+## CAPÍTULO III
+
+Contaminación lumínica
+
+### Artículo 105
+
+Artículo 105. Objeto.
+El presente capítulo tiene por objeto regular las instalaciones y aparatos de iluminación para prevenir y, en su caso, corregir la contaminación lumínica en el territorio de la Comunidad Autónoma de Extremadura, así como promover la eficiencia y ahorro energético de los sistemas de iluminación, y todo ello sin menoscabo de la seguridad que debe proporcionar el alumbrado a los peatones, vehículos y propiedades.
+
+### Artículo 106
+
+Artículo 106. Ámbito de aplicación.
+1. Esta ley será de aplicación a todos los promotores o titulares de instalaciones, aparatos o fuentes de iluminación ubicados en el territorio de la Comunidad Autónoma de Extremadura.
+2. La ley afecta y se refiere de modo general a las instalaciones y luminarias exteriores.
+3. Quedan, en todo caso, excluidos del ámbito de aplicación de la presente ley:
+a) Las instalaciones de alumbrado o señalización dispuestas para la ordenación y la seguridad del tráfico en todas sus modalidades.
+b) Los sistemas de alumbrado o señalización de los vehículos a motor.
+c) Las instalaciones luminosas de carácter militar.
+d) Las instalaciones luminosas relacionadas con las actividades y recintos de las Fuerzas y Cuerpos de Seguridad del Estado, los servicios de extinción de incendios, protección civil y urgencias médico-sanitarias.
+e) Las instalaciones luminosas exigidas y reguladas por las normas de protección de la seguridad ciudadana.
+f) Las instalaciones legalmente autorizadas generadoras de emisiones lumínicas como consecuencia de la combustión de productos y que no tengan la iluminación como finalidad principal.
+4. El régimen regulador de los alumbrados se determinará reglamentariamente.
+
+### Artículo 107
+
+Artículo 107. Criterios generales de competencia municipal.
+En el marco de lo previsto en la presente ley, los Planes Generales Municipales prestarán especial atención a los focos emisores del alumbrado público, previendo a estos efectos entre sus determinaciones:
+a) La localización adecuada de los focos emisores de luz para la minoración de la contaminación lumínica.
+b) La utilización de luminarias que cumplan los objetivos de esta ley, el nivel lumínico de referencia que corresponda y las demás especificaciones técnicas que se determinen reglamentariamente.
+
+### Artículo 108
+
+Artículo 108. Obligaciones de las Administraciones Públicas.
+Las Administraciones Públicas, en el ámbito de sus competencias, velarán por el cumplimiento de lo dispuesto en la presente ley y en su normativa desarrollo.
+
+### Artículo 109
+
+Artículo 109. Régimen de intervención.
+Las características del alumbrado exterior, ajustadas a las disposiciones de la presente ley y sus normas de desarrollo, se harán constar en los proyectos técnicos anexos a las solicitudes de los instrumentos de intervención administrativa ambiental previstos en esta ley.
+
+## CAPÍTULO IV
+
+Protección radiológica
+
+### Artículo 110
+
+Artículo 110. Concepto.
+La protección radiológica es el conjunto de medidas para la utilización segura de las radiaciones ionizantes y garantizar la protección del medio ambiente y la salud, frente a los riesgos que se deriven de la exposición a las radiaciones ionizantes.
+
+### Artículo 111
+
+Artículo 111. Ámbito de aplicación.
+Sin perjuicio de lo dispuesto en la legislación básica estatal sobre la materia están sujetos a las prescripciones de esta ley, las actividades económicas potencialmente susceptibles de emitir al medio ambiente radiaciones ionizantes.
+
+### Artículo 112
+
+Artículo 112. Competencias.
+Corresponde a la Administración de la Comunidad Autónoma de Extremadura, a través de la Consejería competente en materia de medio ambiente:
+a) Vigilar y controlar la calidad radiológica del medio ambiente a través de la Red de Vigilancia Radiológica Ambiental prevista en al artículo siguiente, dentro de las competencias propias de la Comunidad Autónoma de Extremadura.
+b) Adoptar las medidas de protección más idóneas para mitigar y optimizar los tiempos de respuesta de la administración competente en materia ambiental, ante riesgos de contaminación, cuando existan indicios objetivos o se sobrepasen los niveles de calidad radiológica ambiental.
+c) Solicitar a los titulares de de las instalaciones radioactivas de segunda y tercera categoría la realización de estudios dosimétricos, a los efectos de determinar si, como consecuencia de su funcionamiento, se produce un incremento significativo de la exposición a radiaciones ionizantes al medio ambiente, a trabajadores y público en general garantizándose que dichos estudios se realizan amparados por las correspondientes acreditaciones para asegurar la calidad.
+
+### Articulo 113
+
+Articulo 113. Red de Vigilancia Radiológica Ambiental de Extremadura.
+1. La Red de Vigilancia Radiológica Ambiental de Extremadura, estará compuesta por las estaciones de mediciones de parámetros radiológicos y meteorológicos asociados, fijas y móviles, de titularidad pública, de la Comunidad Autónoma de Extremadura.
+2. Para el establecimiento de las estaciones de medición de calidad radiológica del medio ambiente, en los casos que particularmente se determinen y siempre que el órgano ambiental lo estime necesario, podrán imponerse servidumbres forzosas, previa indemnización si fuere legalmente exigible.
+
+## TÍTULO III
+
+Protección de suelos
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 114
+
+Artículo 114. Medidas específicas para la protección del suelo.
+1. La protección del suelo constituye un deber básico de sus poseedores y propietarios y conlleva la obligación de conocer y controlar la calidad del suelo, así como de adoptar medidas preventivas, de defensa y recuperación del mismo.
+2. Las medidas específicas para la protección de los suelos que puedan resultar contaminados por la actividad humana, se determinarán reglamentariamente. No obstante, y en todo caso, las Administraciones Públicas competentes deberán integrar la protección del suelo en los instrumentos de intervención administrativa ambiental previstos en esta Ley.
+
+## CAPÍTULO II
+
+Contaminación de suelos
+
+### Artículo 115
+
+Artículo 115. Actividades potencialmente contaminantes del suelo y otras actividades que alteran gravemente sus características.
+1. Serán actividades potencialmente contaminantes del suelo las establecidas de conformidad con lo dispuesto en la legislación básica estatal.
+2. No obstante, también podrán considerarse como actividades potencialmente contaminantes del suelo, otras actividades humanas que alteren negativamente las características del suelo por la presencia de componentes químicos peligrosos, que no se encuentren incluidas en el apartado anterior.
+3. Los titulares de estas actividades deberán cumplir con las obligaciones que les imponga la legislación aplicable. En todo caso, deberán remitir a la Consejería con competencias en materia de medio ambiente, con la periodicidad que se determine reglamentariamente y mediante un procedimiento simplificado voluntario, informes de situación de suelos en los que figuren los datos relativos a los criterios que sirvan de base para la declaración de suelos contaminados, de acuerdo con lo que determine la legislación vigente.
+
+### Artículo 116
+
+Artículo 116. Suelos contaminados.
+1. La Consejería competente en materia de medio ambiente procederá a la declaración y delimitación de los suelos contaminados que existan en el ámbito territorial de la Comunidad Autónoma de Extremadura, de acuerdo con los criterios y estándares que estén aprobados en cada momento. El procedimiento para dicha declaración y delimitación se establecerá reglamentariamente.
+2. Se crea el inventario de calidad del suelo de Extremadura, cuya elaboración corresponderá a la Consejería competente en materia de medio ambiente, que contendrá, como mínimo, los suelos declarados como contaminados, los suelos que hayan soportado o soporten actividades potencialmente contaminantes del suelo así como los suelos alterados tal y como se definen en el artículo 3.36 de la presente ley. Su contenido y estructura se determinará reglamentariamente.
+3. La declaración de un suelo como contaminado obligará a realizar las actuaciones necesarias para proceder a su limpieza en la forma, plazos y condiciones que se determinen en la propia resolución que declare el suelo como contaminado.
+4. Previa comprobación de la correcta ejecución de las operaciones de limpieza y recuperación del suelo declarado contaminado, la Consejería competente en materia de medio ambiente declarará que el mismo ha dejado de estar contaminado.
+
+### Artículo 117
+
+Artículo 117. Obligación de reparar los daños.
+1. Estarán obligados a realizar las operaciones de limpieza y recuperación de un suelo declarado como contaminado, previo requerimiento de la Comunidad Autónoma, los causantes de la contaminación, que cuando sean varios responderán de estas obligaciones de forma solidaria y, subsidiariamente, los poseedores de los suelos declarados como contaminados y los propietarios no poseedores, por este orden.
+2. En la resolución por la que se declare un suelo como contaminado, podrá establecerse la obligación de realizar operaciones de control y seguimiento, a las que deberán dar cumplimiento los sujetos a que se refiere el punto anterior, en la forma y orden que en el mismo se establece.
+3. Igualmente, y mediante resolución, podrá establecerse la obligación de realizar operaciones de control y seguimiento, a las que deberán dar cumplimiento los poseedores y los propietarios no poseedores, por este orden, respecto de aquellos suelos inscritos como alterados en el inventario de calidad del suelo de Extremadura.
+4. En el supuesto de que no se llevaran a cabo las operaciones de limpieza y recuperación de suelos declarados como contaminados, podrá procederse a la ejecución subsidiaria de dichas operaciones por cuenta del responsable y a su costa.
+
+### Artículo 118
+
+Artículo 118. Recuperación voluntaria de suelos.
+1. La descontaminación del suelo para cualquier uso previsto de este podrá llevarse a cabo, sin la previa declaración del suelo como contaminado, mediante un proyecto de recuperación voluntaria aprobado por la Consejería competente en materia de medio ambiente. Tras la ejecución del proyecto se acreditará que la descontaminación se ha llevado a cabo en los términos previstos en el proyecto.
+2. La Consejería competente en materia de medio ambiente llevará un registro administrativo de las descontaminaciones que se produzcan por vía voluntaria.
+
+## TÍTULO IV
+
+Protección del paisaje
+
+### Artículo 119
+
+Artículo 119. Criterios generales en materia de protección paisajística.
+Las Administraciones Públicas con competencias en materia de medio ambiente deberán:
+a) Definir y aplicar políticas destinadas a la protección, gestión y ordenación del paisaje.
+b) Establecer procedimientos para la participación de los ciudadanos, de las autoridades locales y regionales y de otras partes interesadas en la formulación y aplicación de las políticas en materia de paisaje.
+c) Proponer la integración del paisaje en la ordenación territorial y urbanística, así como en cualquier política sectorial que pueda tener incidencia directa o indirectamente sobre el mismo.
+
+### Artículo 120
+
+Artículo 120. Medidas específicas.
+Las Administraciones Públicas con competencias en materia de medio ambiente deberán adoptar las siguientes medidas:
+a) Identificar y calificar los paisajes propios de la Comunidad Autónoma de Extremadura, teniendo en cuenta los valores particulares que se les atribuyan de acuerdo con los criterios establecidos legal o reglamentariamente.
+b) Definir los objetivos de calidad paisajística de aquellos paisajes a los que se refiere la letra anterior.
+c) Establecer mecanismos de intervención destinados a la protección, ordenación y gestión del paisaje, atendiendo a las determinaciones que sobre los mismos contengan los distintos instrumentos de planificación y ordenación del territorio.
+d) Integrar la protección del paisaje en los instrumentos de intervención administrativa ambiental previstos en esta ley.
+e) Fomentar la sensibilización de la sociedad civil, las organizaciones privadas y las autoridades públicas respecto del valor de los paisajes y su función.
+
+## TÍTULO V
+
+Instrumentos voluntarios para la mejora ambiental
+
+### Artículo 121
+
+Artículo 121. Convenios de colaboración y acuerdos voluntarios en materia de medio ambiente.
+1. La Consejería competente en materia de medio ambiente fomentará la celebración de convenios de colaboración y la suscripción de acuerdos voluntarios en materia de medio ambiente para lograr la participación de todas las instancias de la sociedad y de los sectores industriales, bajo el principio de responsabilidad compartida, fomentando así una actitud de respeto con el medio ambiente.
+2. Los convenios de colaboración suscritos y los acuerdos voluntarios alcanzados con arreglo a esta ley por la Consejería competente en materia de medio ambiente serán de obligado cumplimiento para las partes conveniantes y objeto de seguimiento en cuanto a la consecución de los objetivos perseguidos.
+Dichos convenios y acuerdos serán objeto de difusión por parte de la Consejería competente en materia de medio ambiente, la cual mantendrá actualizada y disponible al público la información que obre en su poder sobre los mismos, en las condiciones establecidas en la normativa estatal y autonómica que resulte de aplicación.
+
+### Artículo 122
+
+Artículo 122. Sistema comunitario de gestión y auditorías medioambientales.
+La Administración de la Comunidad Autónoma de Extremadura fomentará la participación voluntaria de las organizaciones que se propongan mejorar su comportamiento medioambiental global en el sistema comunitario de gestión y auditorías medioambientales o ecoauditorías.
+
+### Artículo 123
+
+Artículo 123. Etiqueta ecológica comunitaria.
+1. Las Administraciones Públicas de la Comunidad Autónoma de Extremadura promoverán el uso del etiquetado ecológico establecido en el Reglamento (CE) 66/2010, de 25 de noviembre de 2010, por el que se regula el sistema comunitario de concesión de la etiqueta ecológica en la Unión Europea, con el fin de promover productos con un impacto medioambiental reducido durante todo su ciclo de vida y proporcionar a los consumidores información exacta, no engañosa y con base científica sobre su impacto medioambiental.
+2. Será organismo competente para la concesión de la etiqueta ecológica comunitaria a los productos o servicios originarios de la Comunidad Autónoma de Extremadura, la Consejería competente en materia de medio ambiente de la Administración autonómica.
+A estos efectos, se considerarán originarios de la Comunidad Autónoma de Extremadura:
+a) Las mercancías que se produzcan, fabriquen o comercialicen por primera vez en el territorio de la Comunidad Autónoma de Extremadura.
+b) Los servicios que se lleven a cabo, presten o ejecuten en el territorio de la Comunidad Autónoma de Extremadura.
+3. En esta materia, son funciones de la Consejería competente en materia de medio ambiente:
+a) Promover, en el ámbito de sus competencias, el sistema comunitario de etiquetado ecológico.
+b) Resolver los procedimientos de solicitud de la etiqueta ecológica comunitaria.
+c) Controlar, vigilar y supervisar la correcta aplicación del sistema comunitario europeo de etiquetado ecológico en la Comunidad Autónoma de Extremadura.
+d) Comunicar al órgano competente de la Administración General del Estado los productos o servicios a los que se haya otorgado etiqueta ecológica comunitaria.
+e) Incluir en el contrato tipo sobre las condiciones de utilización de la etiqueta ecológica comunitaria disposiciones suplementarias, siempre que las mismas sean compatibles con la normativa comunitaria.
+f) Someter al estudio de los grupos de trabajo nacionales sobre etiquetado ecológico comunitario las categorías de productos para los que estimen debería proponerse a la Comisión de la Unión Europea la concesión de la etiqueta ecológica, así como los criterios ecológicos aplicables a cada una de ellas y los plazos de validez para cada categoría, ello sin perjuicio de las restantes consultas que a tenor de la normativa reguladora pueda realizar.
+g) Cualquier otra función derivada de lo dispuesto en la normativa comunitaria, estatal o autonómica sobre el sistema de etiqueta ecológica comunitaria.
+4. La Consejería competente en materia de medio ambiente establecerá reglamentariamente el procedimiento administrativo para la tramitación de las solicitudes de concesión de uso de la etiqueta ecológica de la Unión Europea para los productos o servicios originarios de la Comunidad Autónoma de Extremadura.
+
+## TÍTULO VI
+
+Disciplina ambiental
+
+## CAPÍTULO I
+
+Inspección y control
+
+### Artículo 124
+
+Artículo 124. Objeto.
+1. Serán objeto de vigilancia, inspección y control ambiental, todas las instalaciones, actuaciones y actividades desarrolladas en la Comunidad Autónoma de Extremadura sometidas a cualquiera de los instrumentos de intervención administrativa ambiental previstos en esta ley, a excepción de los planes y programas sometidos a evaluación ambiental estratégica.
+2. La finalidad de la inspección ambiental será:
+a) Comprobar que las actividades o actuaciones se desarrollan en la forma y condiciones fijados en los instrumentos de intervención administrativa ambiental previstos en esta ley.
+b) Analizar, determinar y asegurar la eficacia de las medidas de prevención y corrección de la contaminación establecidas en los instrumentos de intervención administrativa ambiental a los que se encuentre sometida la instalación, actuación o actividad.
+
+### Artículo 125
+
+Artículo 125. Competencias.
+1. Sin perjuicio de lo dispuesto en la legislación básica estatal que resulte de aplicación, las funciones de vigilancia, inspección y control de las instalaciones, actividades o actuaciones sujetas al ámbito de aplicación de la presente ley, corresponderán al órgano que determine la Administración competente para la autorización de aquellas.
+2. No obstante lo dispuesto en el punto anterior, la Consejería competente en materia de medio ambiente promoverá el establecimiento de mecanismos de cooperación y colaboración con las Administraciones competentes para autorizar las instalaciones, actividades o actuaciones, en aras a lograr una actuación conjunta y coordinada.
+
+### Artículo 126
+
+Artículo 126. Inspecciones ambientales.
+1. El personal del órgano ambiental que desempeñe las funciones de inspección, será considerado Agente de la Autoridad en el ejercicio de esta función, con los efectos previstos en el artículo 137.3 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. El personal a que se refiere el número anterior, deberá ostentar la condición de personal funcionario. Para el desempeño de estas funciones, el órgano ambiental deberá expedir una acreditación identificativa, con el objeto de que el personal inspector pueda desarrollar las funciones que le son propias, previa identificación en debida forma.
+3. No obstante lo dispuesto en los apartados anteriores, no será necesaria la expedición de dicha acreditación respecto de aquel personal funcionario que ya ostente la condición de Agente de la Autoridad por atribución legal expresa.
+4. Para el ejercicio de la función de inspección, el personal inspector podrá contar con el auxilio de asesores técnicos, de personal adscrito a entidades de derecho público o privado, que ejercerán una labor meramente consultiva en razón de sus conocimientos técnicos, que en ningún caso tendrán la condición de agentes de la autoridad y que deberán cumplir los siguientes requisitos:
+a) Estarán debidamente autorizados.
+b) No tendrán intereses directos en los resultados de la inspección.
+c) Actuarán siempre bajo la autoridad y supervisión del órgano ambiental.
+d) Contarán con la adecuada capacidad y cualificación técnica para el auxilio que presten.
+Los asesores técnicos estarán debidamente identificados por los órganos competentes y, además, deberán guardar secreto respecto de los datos e informaciones que conocieran en el ejercicio de estas funciones.
+5. El personal que realice las tareas de inspección, en el ejercicio de sus funciones, tendrá las siguientes potestades y facultades:
+a) Acceder, previa identificación, a cualquier lugar de las instalaciones o dependencias de titularidad pública o privada, en las que se desarrollen actividades sujetas al ámbito de aplicación de la presente ley, con respeto, en todo caso, a la inviolabilidad del domicilio, y realizar las comprobaciones y mediciones que considere necesarias. Se incluyen en este apartado aquellas actividades que para su desarrollo no requieran una instalación asociada, en cuyo caso, el acceso, previa identificación, lo será al espacio físico en que aquellas se lleven a cabo.
+b) Requerir información a los titulares, responsables o encargados de las actividades, actuaciones e instalaciones que sean objeto de inspección y proceder a los exámenes y controles necesarios para el cumplimiento de su misión.
+c) Poner en conocimiento del órgano ambiental los hechos que pudieran ser constitutivos de infracciones administrativas tipificadas en la presente ley, proponiendo, en los casos que proceda, el inicio del correspondiente procedimiento administrativo sancionador.
+d) Desarrollar cualquier otra función que, en relación con la protección del medio ambiente y de la legalidad ambiental, les sea atribuida legal o reglamentariamente.
+6. El titular de la instalación o actividad que sea objeto de inspección está obligado a:
+a) Permitir el acceso, aun sin previo aviso y debidamente identificados, a los inspectores ambientales y a los asesores técnicos.
+b) Prestar la colaboración necesaria facilitando cuanta información y documentación le sea requerida al efecto.
+c) Prestar asistencia para la realización de toma de muestras o la práctica de cualquier medio de prueba.
+7. De toda visita de inspección, se levantará un acta que, en su caso, describirá los hechos que puedan ser constitutivos de infracción administrativa, y en la que se harán constar las alegaciones que formule el titular o el responsable de la actividad, actuación o instalación.
+Tras cada visita a una instalación o actividad, el órgano ambiental elaborará un informe describiendo los aspectos tanto positivos como negativos que se hayan detectado, y en particular, el cumplimiento del condicionado recogido en el instrumento de intervención administrativa ambiental al que se encuentre sujeto aquella, así como de la normativa que resulte de aplicación a dicha instalación o actividad, y, en su caso, proponiendo las posibles acciones de mejora precisas.
+
+### Artículo 127
+
+Artículo 127. Planificación.
+1. Los órganos competentes para realizar las tareas de inspección ambiental, garantizarán que todas las instalaciones o actividades sujetas al ámbito de aplicación de esta ley, estén cubiertas por un plan de inspección ambiental que considere la totalidad del ámbito territorial en que éstas operen y garantizará que este plan sea objeto de periódica revisión y, cuando proceda, actualización. La periodicidad de la revisión y actualización de dichos planes será establecida por cada uno de los órganos competentes.
+2. Sin perjuicio de lo dispuesto en el número anterior, en el caso de instalaciones o actividades sujetas a evaluación de impacto ambiental, las funciones de vigilancia e inspección se desarrollarán durante la fase de ejecución del proyecto o actividad, con el objeto de asegurar el debido cumplimiento del condicionado fijado en la declaración o informe de impacto ambiental referido a dicha fase.
+3. Los planes de inspección deberán ponerse a disposición del público, entre otros, por medios electrónicos, sin más limitaciones que las establecidas en la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente.
+
+## CAPÍTULO II
+
+Régimen sancionador
+
+### Artículo 128
+
+Artículo 128. Infracciones.
+1. Sin perjuicio de lo dispuesto en la normativa básica y de las infracciones que pudieran establecerse en la normativa sectorial, constituyen infracciones administrativas las acciones y omisiones previstas como tales infracciones por la presente ley.
+2. Únicamente por la comisión de las infracciones administrativas previstas en la presente ley podrán imponerse las sanciones establecidas en la misma.
+3. A los efectos de la presente ley, las infracciones administrativas se clasifican en leves, graves y muy graves.
+
+### Artículo 129
+
+Artículo 129. Responsabilidad.
+1. Sólo podrán ser sancionadas por hechos constitutivos de infracciones administrativas previstas en la presente ley, las personas físicas y jurídicas que resulten responsables de los mismos aun a título de simple inobservancia.
+2. Las personas físicas o jurídicas serán sancionadas por las infracciones cometidas por ellas o por sus órganos o agentes, y asumirán el coste de las medidas de protección y restauración de la legalidad, así como de las indemnizaciones que procedieran por daños y perjuicios a terceros. En ningún caso las obligaciones de reparación e indemnización a que se refiere este apartado tendrán carácter sancionador.
+3. Cuando el cumplimiento de las obligaciones previstas en esta ley corresponda a varias personas conjuntamente, responderán de forma solidaria de las infracciones que, en su caso, se cometan y de las sanciones que se impongan, siempre que haya concurrencia de culpa, en todos y cada uno de los sujetos solidarios.
+
+### Artículo 130
+
+Artículo 130. Concurrencia de sanciones.
+1. Cuando por unos mismos hechos y fundamentos jurídicos, el infractor pudiera ser sancionado con arreglo a esta ley y a otra u otras leyes que fueran de aplicación, de las posibles sanciones se le impondrá la de mayor gravedad.
+2. No podrán sancionarse los hechos que hayan sido sancionados penal o administrativamente, en los casos en que se aprecie identidad de sujeto, hecho y fundamento.
+3. Cuando el supuesto hecho infractor pudiera ser constitutivo de delito o falta, se dará traslado del tanto de culpa al Ministerio Fiscal, suspendiéndose desde ese mismo momento la tramitación del procedimiento administrativo sancionador mientras la autoridad judicial no hubiera dictado resolución firme que ponga fin al procedimiento o tenga lugar el sobreseimiento o el archivo de las actuaciones o se produzca la devolución del expediente por el Ministerio Fiscal. De no haberse apreciado la existencia de delito o falta, el órgano administrativo competente continuará con la tramitación del procedimiento. Los hechos declarados probados en la resolución judicial firme vincularán al órgano administrativo.
+
+## Sección 1
+
+Sección 1.ª Infracciones y sanciones en materia de autorizaciones y comunicación ambiental
+
+### Artículo 131
+
+Artículo 131. Infracciones.
+1. Son infracciones muy graves:
+a) Ejercer la actividad o llevar a cabo una modificación sustancial de la misma sin la preceptiva autorización ambiental integrada, siempre que se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en peligro grave la seguridad o salud de las personas.
+b) Incumplir las condiciones establecidas en la autorización ambiental integrada, siempre que se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en peligro grave la seguridad o salud de las personas.
+c) Incumplir las obligaciones derivadas de lo dispuesto en el artículo 140 para las actividades sometidas a autorización ambiental integrada.
+d) Ejercer la actividad incumpliendo la obligación de notificación y registro para aquellas actividades que estén sometidas a dicho régimen de conformidad con lo dispuesto en la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, siempre que se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en peligro grave la seguridad o salud de las personas.
+2. Son infracciones graves:
+a) Ejercer la actividad o llevar a cabo una modificación sustancial de la misma sin la preceptiva autorización ambiental integrada, sin que se haya producido un daño o deterioro grave para el medio ambiente o sin que se haya puesto en peligro grave la seguridad o salud de las personas.
+b) Ejercer la actividad o llevar a cabo una modificación sustancial de la misma sin la preceptiva autorización ambiental unificada o comunicación ambiental cuando se haya producido un daño o deterioro grave para el medio ambiente o cuando se haya puesto en peligro grave la seguridad o salud de las personas.
+c) Incumplir las condiciones establecidas en la autorización ambiental integrada, sin que se haya producido un daño o deterioro grave para el medio ambiente, o sin que se haya puesto en peligro grave la seguridad o salud de las personas, así como no tomar las medidas necesarias para volver a asegurar el cumplimiento en el plazo más breve posible y así evitar otros posibles accidentes o incidentes.
+d) Incumplir las condiciones establecidas en la autorización ambiental unificada o recogidas en la comunicación ambiental cuando se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en peligro grave la seguridad o salud de las personas.
+e) Incumplir las obligaciones derivadas de las medidas provisionales previstas en el artículo 139 para las actividades sometidas a autorización ambiental integrada.
+f) Ocultar o alterar maliciosamente la información exigida en los procedimientos de autorización ambiental integrada cuando no se haya producido un daño o deterioro grave para el medio ambiente o sin que se haya puesto en peligro grave la seguridad o salud de las personas.
+g) Transmitir la titularidad de la autorización ambiental integrada, sin comunicarlo al órgano ambiental en el plazo establecido en la presente ley.
+h) No comunicar al órgano ambiental las modificaciones realizadas en las instalaciones sometidas a autorización ambiental integrada, siempre que no revistan el carácter de sustanciales.
+i) Ocultar o alterar maliciosamente la información exigida en el procedimiento de autorización ambiental unificada o comunicación ambiental, cuando se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en peligro grave la seguridad o salud de las personas.
+j) No informar inmediatamente al órgano ambiental de cualquier incumplimiento de las condiciones de la autorización ambiental integrada, así como de los incidentes o accidentes que afecten de forma significativa al medio ambiente.
+k) Impedir, retrasar u obstruir la actividad de inspección o control de instalaciones sometidas a autorización ambiental integrada.
+l) Ejercer la actividad incumpliendo la obligación de notificación y registro para aquellas actividades que estén sometidas a dicho régimen de conformidad con lo dispuesto en la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, siempre que se haya producido un daño o deterioro para el medio ambiente o se haya puesto en peligro la seguridad o salud de las personas, que en ninguno de los dos casos tenga la consideración de grave.
+ll) Proceder al cierre definitivo de una instalación incumpliendo las condiciones establecidas en la autorización ambiental integrada relativas a la contaminación del suelo y las aguas subterráneas.
+3. Son infracciones leves el incumplimiento de cualesquiera de las obligaciones establecidas en la presente ley y demás normativa que resulte de aplicación relacionados con las autorizaciones ambientales y la comunicación ambiental, cuando no estén tipificadas como muy graves o graves y particularmente:
+a) Ejercer la actividad o llevar a cabo una modificación sustancial de la misma sin la preceptiva autorización ambiental unificada o comunicación ambiental sin que se haya producido un daño o deterioro grave para el medio ambiente o sin que se haya puesto en peligro grave la seguridad o salud de las personas.
+b) La puesta en marcha y funcionamiento de la instalación sin haber obtenido la preceptiva conformidad de la Administración competente.
+c) Incumplir las condiciones establecidas en la autorización ambiental unificada o recogidas en la comunicación ambiental sin que se haya producido un daño o deterioro grave para el medio ambiente o sin que se haya puesto en peligro grave la seguridad o salud de las personas.
+d) Ocultar o alterar maliciosamente la información exigida en los procedimientos de autorización ambiental unificada o comunicación ambiental cuando no se haya puesto en peligro grave la seguridad o salud de las personas o se haya producido un daño o deterioro grave para el medio ambiente.
+e) Transmitir la titularidad de la actividad o instalación para la cual se concedió autorización ambiental unificada o se realizó la comunicación ambiental sin comunicarlo al órgano competente en el plazo establecido en la presente ley.
+f) No comunicar al órgano competente las modificaciones realizadas en las actividades sometidas a autorización ambiental unificada o comunicación ambiental, siempre que no revistan el carácter de sustanciales.
+g) Incurrir en demora injustificada en la aportación de documentos solicitados por al órgano ambiental.
+h) Impedir, retrasar u obstruir la actividad de inspección o control de instalaciones sometidas a autorización ambiental unificada o comunicación ambiental.
+i) El incumplimiento de las prescripciones establecidas en esta ley o en las normas aprobadas conforme a la misma, cuando no esté tipificado como infracción grave o muy grave.
+j) El inicio de la ejecución de las obras necesarias para la puesta en marcha de la instalación, sin haber obtenido previamente la preceptiva autorización ambiental.
+k) Ejercer la actividad incumpliendo la obligación de notificación y registro para aquellas actividades que estén sometidas a dicho régimen, de conformidad con lo dispuesto en la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, sin que se haya producido ningún tipo de daño o deterioro para el medio ambiente ni se haya puesto en peligro la seguridad o salud de las personas.
+
+### Artículo 132
+
+Artículo 132. Sanciones.
+1. Las infracciones tipificadas en el artículo anterior podrán dar lugar a la imposición de todas o algunas de las siguientes sanciones:
+a) En el caso de infracciones muy graves:
+1.º Multa desde 200.001 hasta 2.000.000 de euros.
+2.º Clausura definitiva, total o parcial, de las instalaciones.
+3.º Clausura temporal, total o parcial, de las instalaciones por un período no inferior a dos años ni superior a cinco.
+4.º Inhabilitación para el ejercicio de la actividad por un período no inferior a un año ni superior a dos.
+5.º Revocación de la autorización o suspensión de la misma por un tiempo no inferior a un año ni superior a cinco.
+6.º Publicación, a través de los medios que se considere oportunos, de las sanciones impuestas, una vez que éstas hayan adquirido firmeza en vía administrativa o, en su caso, jurisdiccional, así como los nombres, apellidos o denominación o razón social de las personas físicas o jurídicas responsables y la índole y naturaleza de las infracciones.
+b) En el caso de infracciones graves:
+1.º Multa desde 20.001 hasta 200.000 euros.
+2.º Clausura temporal, total o parcial, de las instalaciones por un período máximo de dos años.
+3.º Inhabilitación para el ejercicio de la actividad por un período máximo de un año.
+4.º Revocación de la autorización o suspensión de la misma por un período máximo de un año.
+5º. Imposición al titular de la obligación de adoptar las medidas complementarias que el órgano competente estime necesarias para volver a asegurar el cumplimiento de las condiciones de la autorización ambiental integrada y para evitar otros posibles incidentes o accidentes.
+c) En el caso de infracción leve:
+1.º Multa de hasta 20.000 euros.
+2.º Clausura temporal, total o parcial de las instalaciones por un periodo máximo de seis meses.
+2. Cuando la cuantía de la multa resulte inferior al beneficio obtenido por la comisión de la infracción, la sanción será aumentada, como mínimo, hasta el doble del importe en que se haya beneficiado el infractor.
+
+## Sección 2
+
+Sección 2.ª Infracciones y sanciones en materia de evaluación de impacto ambiental de proyectos
+
+### Artículo 133
+
+Artículo 133. Infracciones.
+1. Es infracción muy grave el inicio de la ejecución de un proyecto o la modificación sustancial del mismo, incluidos los sujetos a declaración responsable o comunicación previa, sometido a evaluación de impacto ambiental ordinaria sin haber obtenido previamente la correspondiente declaración de impacto ambiental.
+2. Son infracciones graves:
+a) El inicio de la ejecución de un proyecto o la modificación sustancial del mismo, incluidos los sujetos a declaración responsable o comunicación previa, sometido a evaluación de impacto ambiental simplificada sin haber obtenido previamente el informe de impacto ambiental.
+b) La ocultación de datos, su falseamiento o manipulación maliciosa en el procedimiento de evaluación de impacto ambiental ordinaria o simplificada.
+c) El incumplimiento de las condiciones ambientales, de las medidas correctoras o compensatorias establecidas en la declaración de impacto ambiental e incluidas en la resolución que aprueba o autoriza finalmente el proyecto.
+d) El incumplimiento de las condiciones ambientales establecidas en el informe ambiental simplificado, e incluidas en la resolución que aprueba o autoriza finalmente el proyecto o, en su caso, en la declaración responsable o comunicación previa del proyecto.
+e) El incumplimiento del requerimiento acordado por la Administración para la suspensión de la ejecución del proyecto, cuando el mismo este sujeto a evaluación de impacto ambiental ordinaria o simplificada.
+3. Son infracciones leves el incumplimiento de cualesquiera de las obligaciones establecidas en la presente ley y demás normativa que resulte de aplicación, relacionadas con la evaluación de impacto ambiental de proyectos, cuando no estén tipificadas como muy graves o graves y particularmente:
+a) El inicio de la ejecución o la modificación sustancial de un proyecto sin haber obtenido previamente el informe de impacto ambiental abreviado.
+b) La ocultación de datos, su falseamiento o manipulación maliciosa en el procedimiento de evaluación de impacto ambiental abreviada.
+c) El incumplimiento de las condiciones ambientales en que debe realizarse el proyecto de acuerdo con el informe de impacto ambiental abreviado, así como de las correspondientes medidas correctoras o compensatorias.
+d) El incumplimiento del requerimiento acordado por la Administración para la suspensión de la ejecución del proyecto, cuando el mismo este sujeto a evaluación de impacto ambiental abreviada.
+e) Impedir, retrasar u obstruir la actividad de inspección o control de los proyectos sometidos a evaluación de impacto ambiental ordinaria, simplificada o abreviada.
+
+### Artículo 134
+
+Artículo 134. Sanciones.
+Las infracciones tipificadas en el artículo anterior podrán dar lugar a la imposición de las siguientes sanciones:
+a) En el caso de infracción muy grave:
+Multa desde 240.401 hasta 2.404.000 euros.
+b) En el caso de infracción grave:
+Multa desde 24.001 hasta 240.400 euros.
+c) En el caso de infracción leve:
+Multa de hasta 24.000 euros.
+
+## Sección 3
+
+Sección 3.ª Infracciones y sanciones en materia de protección a la atmósfera y contaminación acústica
+
+### Artículo 135
+
+Artículo 135. Infracciones.
+1. Son infracciones muy graves:
+a) Incumplir el régimen de autorización y notificación previsto en el artículo 99 de la presente ley, para las actividades potencialmente contaminantes de la atmósfera, siempre que ello haya generado o haya impedido evitar una contaminación atmosférica que haya puesto en peligro grave la seguridad o la salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+b) Incumplir las obligaciones específicas que, conforme lo dispuesto en el artículo 12.2 de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, hayan sido establecidas para productos que puedan generar contaminación atmosférica, siempre que ello haya dado lugar o haya impedido evitar una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+c) Incumplir los valores límites de emisión, siempre que ello haya generado o haya impedido evitar una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+d) El incumplimiento de las condiciones establecidas en materia de contaminación atmosférica en la autorización ambiental correspondiente, en la autorización de emisiones de contaminantes a la atmósfera a que se refiere el artículo 99 de la presente ley, en la autorización o aprobación del proyecto sometido a evaluación de impacto ambiental, siempre que ello haya generado o haya impedido evitar una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+e) Incumplir los requisitos técnicos que le sean de aplicación a la actividad, instalación o producto cuando ello haya generado o haya impedido evitar, una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+f) El incumplimiento de las medidas contempladas en los planes de acción a corto plazo a los que se refiere el artículo 101 de la presente ley.
+g) El incumplimiento de las medidas contempladas en los planes de mejora de calidad del aire y cualesquiera otros planes o programas que se aprueben para la protección de la atmósfera y para minimizar los efectos negativos de la contaminación atmosférica, siempre que ello haya generado o haya impedido evitar una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+h) Ocultar o alterar maliciosamente la información exigida en los procedimientos de notificación y de autorización de emisiones de contaminantes a la atmósfera regulados en el artículo 99 de la presente ley, cuando ello haya generado o haya impedido evitar una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+i) Impedir, retrasar u obstruir la actividad de inspección o control, cuando ello haya generado o haya impedido evitar una contaminación atmosférica que haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+j) Incumplir las obligaciones previstas en los artículos 7.1.b) y d) de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera cuando haya puesto en peligro grave la seguridad o salud de las personas o haya producido un daño o deterioro grave para el medio ambiente.
+k) Incumplir los valores límite de emisión admisibles en materia de ruidos y vibraciones, así como los planes de acción que se establezcan en las áreas protegidas que requieran una especial protección acústica, tal y como se establece en el artículo 104 de la presente ley, cuando de su incumplimiento se deriven daños o deterioros graves para el medio ambiente.
+l) Incumplir las obligaciones derivadas de las medidas provisionales reguladas en el artículo 139 de la presente ley.
+2. Son infracciones graves:
+a) Incumplir el régimen de autorización y notificación previsto en el artículo 99 de la presente ley, para las actividades potencialmente contaminantes de la atmósfera cuando no esté tipificado como infracción muy grave.
+b) Incumplir las obligaciones específicas que, conforme lo dispuesto en el artículo 12.2 de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, hayan sido establecidas para productos que puedan generar contaminación atmosférica, cuando no esté tipificado como infracción muy grave.
+c) Incumplir los valores límite de emisión, cuando no esté tipificado como infracción muy grave.
+d) El incumplimiento de las condiciones establecidas en materia de contaminación atmosférica en la autorización ambiental correspondiente, en la autorización de emisiones de contaminantes a la atmósfera a que se refiere el artículo 99 de la presente ley, en la autorización o aprobación del proyecto sometido a evaluación de impacto ambiental, cuando no esté tipificado como infracción muy grave.
+e) Incumplir los requisitos técnicos que le sean de aplicación a la actividad, instalación o producto cuando ello afecte significativamente a la contaminación atmosférica producida por dicha actividad, instalación o producto, cuando no esté tipificado como infracción muy grave.
+f) El incumplimiento de las medidas contempladas en los planes de mejora de calidad del aire y cualesquiera otros planes o programas que se aprueben para la protección de la atmósfera y para minimizar los efectos negativos de la contaminación atmosférica, cuando no esté tipificado como infracción muy grave.
+g) Ocultar o alterar maliciosamente la información exigida en los procedimientos de notificación y de autorización de emisiones de contaminantes a la atmósfera regulados en el artículo 99 de la presente ley, cuando ello haya generado o haya impedido evitar una contaminación atmosférica sin que haya puesto en peligro grave la seguridad o salud de las personas ni haya producido un daño o deterioro grave para el medio ambiente.
+h) Impedir, retrasar u obstruir la actividad de inspección o control, cuando no esté tipificado como infracción muy grave.
+i) No cumplir las obligaciones relativas a las estaciones de medida de los niveles de contaminación y al registro de los controles de emisiones y niveles de contaminación a los que se refiere el artículo 98.1 b) y c) de la presente ley.
+j) No realizar controles de las emisiones y de la calidad del aire en la forma y periodicidad establecidas legalmente.
+k) Incumplir las obligaciones previstas en los artículos 7.1 b) y d) de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, cuando no esté tipificado como infracción muy grave.
+l) Incumplir los valores límite de emisión admisibles en materia de ruidos y vibraciones, así como los planes de acción que se establezcan en las áreas protegidas que requieran una especial protección acústica, tal y como se establece en el artículo 104 de la presente ley, cuando de su incumplimiento no se deriven daños o deterioros graves para el medio ambiente.
+m) Incumplir las obligaciones en materia de información a las que se refiere el artículo 98.1 f) de la presente ley, cuando ello pueda afectar significativamente al cumplimiento por parte de las Administraciones Públicas de sus obligaciones de información.
+3. Son infracciones leves:
+a) Incumplir los requisitos técnicos que le sean de aplicación a la actividad, instalación o producto cuando ello no esté tipificado como infracción grave o muy grave.
+b) Ocultar o alterar maliciosamente la información exigida en los procedimientos de notificación y de autorización de emisiones de contaminantes a la atmósfera, regulados en el artículo 99, cuando ello no esté tipificado como infracción grave.
+c) Incumplir las obligaciones en materia de información a las que se refiere el artículo 98.1 f) de la presente ley, cuando ello no esté tipificado como infracción grave o muy grave.
+
+### Artículo 136
+
+Artículo 136. Sanciones.
+Las infracciones tipificadas en el artículo anterior podrán dar lugar a la imposición de alguna o varias de las siguientes sanciones:
+a) En el caso de infracción muy grave:
+1.º Multa desde 200.001 hasta 2.000.000 euros.
+2.º Prohibición o clausura definitiva, total o parcial de las actividades e instalaciones.
+3.º Prohibición o clausura temporal, total o parcial de las actividades o instalaciones por un periodo no inferior a dos años ni superior a cinco.
+4.º El precintado de equipos, máquinas y productos por un período no inferior a dos años.
+5.º Inhabilitación para el ejercicio de la actividad por un período no inferior a un año ni superior a cinco.
+6.º Extinción, o suspensión de las autorizaciones en las que se hayan establecido condiciones relativas a la contaminación atmosférica por un tiempo no inferior a dos años.
+7.º Publicación a través de los medios que se consideren oportunos, de las sanciones impuestas, una vez que éstas hayan adquirido firmeza en vía administrativa o, en su caso jurisdiccional, así como los nombres, apellidos o denominación o razón social de las personas físicas o jurídicas responsables de la índole y naturaleza de las infracciones.
+b) En el caso de infracción grave:
+1.º Multa desde 20.001 hasta 200.000 euros.
+2.º Prohibición o clausura temporal, total o parcial, de las actividades o instalaciones por un período máximo de dos años.
+3.º Inhabilitación para el ejercicio de la actividad por período máximo de un año.
+4.º Precintado temporal de equipos, máquinas y productos por un período máximo de dos años.
+5.º Suspensión de las autorizaciones en las que se hayan establecido condiciones relativas a la contaminación atmosférica por un período máximo de dos años.
+c) En el caso de infracción leve: multa de hasta 20.000 euros.
+
+## CAPÍTULO III
+
+Disposiciones comunes
+
+### Artículo 137
+
+Artículo 137. Potestad sancionadora.
+1. En los procedimientos administrativos sancionadores cuya instrucción, tramitación y resolución corresponda a la Administración de la Comunidad Autónoma de Extremadura:
+a) Será órgano competente para su incoación, la Dirección General con competencias sobre la materia a la que afecte la infracción.
+b) Serán órganos competentes para su resolución:
+1.º Cuando la sanción consista en la imposición de una multa pecuniaria, ya sea de forma individual o en combinación con otras sanciones previstas en esta ley:
+1.º 1. El titular de la Dirección General competente por razón de la materia, para infracciones que lleven aparejadas multas pecuniarias de hasta 300.000 euros.
+1.º 2. El titular de la Consejería competente en materia de medio ambiente de la Junta de Extremadura, para infracciones que lleven aparejadas multas pecuniarias desde 300.001 hasta 600.500 euros.
+1.º 3. El Consejo de Gobierno de la Junta de Extremadura, cuando la multa pecuniaria exceda de 600.500 euros.
+2.º Cuando la sanción implique la prohibición o inhabilitación para el ejercicio de la actividad, la revocación, extinción o suspensión de la autorización, la clausura de las instalaciones, el precintado de equipos, máquinas y productos, la imposición al responsable de una obligación de hacer así como la publicación de la propia sanción impuesta junto con los nombres, apellidos o denominación o razón social de las personas físicas o jurídicas responsables y la índole y naturaleza de las infracciones, ya sea de forma individual o en combinación con otras sanciones previstas en esta ley:
+2.º 1. El titular de la Dirección General competente por razón de la materia, para infracciones que lleven aparejadas sanciones consistentes en:
+a) Clausura definitiva, total o parcial, de las instalaciones.
+b) Clausura temporal, total o parcial, de las instalaciones por un período máximo de dos años.
+c) Prohibición o inhabilitación para el ejercicio de la actividad por un período máximo de dos años.
+d) Revocación, extinción o suspensión de la autorización por período máximo de dos años.
+e) El precintado temporal de equipos, máquinas y productos por un período máximo de dos años.
+f) Imposición al titular de la obligación de adoptar medidas complementarias para volver a asegurar el cumplimiento de las condiciones de la autorización ambiental integrada y para evitar otros posibles incidentes o accidentes.
+g) Publicación, a través de los medios que se considere oportunos, de las sanciones impuestas, una vez que éstas hayan adquirido firmeza en vía administrativa o, en su caso, jurisdiccional, así como los nombres, apellidos o denominación o razón social de las personas físicas o jurídicas responsables y la índole y naturaleza de las infracciones.
+2.º 2. El titular de la Consejería competente en materia de medio ambiente de la Junta de Extremadura:
+a) Clausura temporal, total o parcial, de las instalaciones por un período superior a dos años.
+b) Prohibición o inhabilitación para el ejercicio de la actividad por un período superior a dos años.
+c) Revocación, extinción o suspensión de la autorización por un período superior a dos años.
+d) El precintado temporal de equipos, máquinas y productos por un período superior a dos años.
+2. Cuando en las materias reguladas por la presente ley, el ejercicio de la potestad sancionadora sea competencia de los Municipios, por disponerlo así la legislación estatal que resulte de aplicación, la incoación, instrucción y resolución de los procedimientos administrativos sancionadores corresponderá a los órganos que determine la legislación de régimen local. No obstante, en los casos de competencias concurrentes, la Administración de la Comunidad Autónoma de Extremadura podrá sustituir a los Municipios en el ejercicio de dicha potestad, de conformidad con lo dispuesto en el artículo 60 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local y en los términos de esta ley.
+
+### Artículo 138
+
+Artículo 138. Procedimiento sancionador.
+1. En aquellas materias en que, de acuerdo con esta ley, el ejercicio de la potestad sancionadora corresponda a la Administración de la Comunidad Autónoma de Extremadura, la misma se ejercerá mediante la aplicación del procedimiento establecido en el Decreto 9/1994, de 8 de febrero, por el que se aprueba el Reglamento sobre procedimientos sancionadores seguidos por la Comunidad Autónoma de Extremadura.
+2. En aquellas materias en que, de acuerdo con esta ley, el ejercicio de la potestad sancionadora corresponda a los Ayuntamientos, la misma se ejercerá mediante la aplicación del procedimiento establecido en la legislación de régimen local.
+3. El plazo máximo de resolución y notificación de los procedimientos sancionadores tramitados por la Administración Autonómica será de doce meses.
+
+### Artículo 139
+
+Artículo 139. Medidas provisionales.
+1. Una vez iniciado el procedimiento administrativo sancionador, el órgano competente para resolver podrá acordar motivadamente, de oficio o a instancia de parte, las medidas provisionales que aseguren la eficacia de la resolución final que pudiera recaer. Podrá adoptarse alguna o algunas de las siguientes medidas:
+a) La imposición de medidas de corrección, seguridad o control que impidan la continuidad en la producción del riesgo o daño.
+b) La suspensión temporal de la autorización para el ejercicio de la actividad o del proyecto en ejecución.
+c) La clausura temporal, total o parcial, de locales y/o instalaciones.
+d) El precintado de obras, instalaciones, elementos de transporte, aparatos, productos o cualquier otro equipo, maquinaria y utillaje, así como su retirada o decomiso.
+e) Parada de las instalaciones.
+2. Las medidas señaladas en el apartado anterior podrán ser acordadas antes de la iniciación del procedimiento administrativo sancionador, en las condiciones establecidas en el artículo 72. 2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 140
+
+Artículo 140. Obligación de reponer, restaurar e indemnizar.
+1. Sin perjuicio de la sanción administrativa que se imponga, el infractor estará obligado, cuando así resulte exigible legalmente, a la reposición o restauración de las cosas al estado anterior a la infracción cometida, así como, en su caso, a abonar la correspondiente indemnización por los daños y perjuicios causados. La indemnización por los daños y perjuicios causados a las Administraciones Públicas se determinará y recaudará en vía administrativa.
+2. Cuando el infractor no cumpliera la obligación de reposición o restauración establecida en el apartado anterior, el órgano competente podrá acordar la imposición de multas coercitivas, con la periodicidad adecuada, cuya cuantía no superará un tercio de la sanción pecuniaria prevista para el tipo de infracción cometida.
+3. La multa coercitiva es independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas.
+
+### Artículo 141
+
+Artículo 141. Medidas accesorias.
+1. Atendiendo a la especial gravedad del daño producido, al beneficio obtenido por el infractor o a la reiteración de conductas ilícitas en que aquel haya incurrido, la comisión de las infracciones previstas en la presente ley, además de la imposición de las sanciones previstas legalmente, podrá dar lugar a la imposición de alguna o algunas de las siguientes medidas accesorias:
+a) Por infracciones administrativas muy graves:
+– Imposibilidad de obtención durante tres años de préstamos, subvenciones o ayudas públicas.
+b) Por infracciones administrativas graves:
+– Imposibilidad de obtención durante un año de préstamos, subvenciones o ayudas públicas.
+2. La adopción de las medidas accesorias a que hace referencia el apartado anterior, deberá motivarse expresamente por el órgano resolutorio, en el acto administrativo que ponga fin al procedimiento administrativo sancionador.
+
+### Artículo 142
+
+Artículo 142. Graduación de las sanciones.
+En la imposición de las sanciones se deberá guardar la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada, considerándose especialmente los siguientes criterios para la graduación de la sanción a aplicar:
+a) La importancia de los daños causados al medio ambiente.
+b) Las molestias o daños causados a la salud de las personas o el peligro creado para la seguridad de las mismas.
+c) El coste y la grave dificultad, cuando no imposibilidad, de reparar los daños ocasionados al medio ambiente.
+d) La magnitud del riesgo objetivo producido sobre la calidad del recurso o sobre los bienes tutelados, el riesgo de accidente o deterioro irreversible o catastrófico.
+e) La existencia de intencionalidad o reiteración.
+f) La ejecución del hecho aprovechando las circunstancias de lugar, tiempo o auxilio de personas que faciliten la impunidad.
+g) Las diferencias entre los datos facilitados y los reales.
+h) La falta o no de controles exigibles en la actuación realizada o de las precauciones precisas en el ejercicio de la actividad.
+i) La adopción, con antelación a la finalización del procedimiento administrativo sancionador y previa comunicación y aprobación por el órgano ambiental, de medidas correctoras que minimicen o resuelvan los efectos perjudiciales que sobre el medio ambiente deriven de la comisión de la infracción.
+j) El beneficio obtenido por la comisión de la infracción y el grado de participación o culpa.
+k) La reincidencia, por comisión en el término de un año de más de una infracción de las tipificadas en la presente ley, cuando así haya sido declarado por resolución firme.
+l) La medida en que se hayan superado los valores límite y cantidades establecidos en los instrumentos de intervención administrativa ambiental previstos en la presente ley.
+m) La ejecución del hecho afectando a un área protegida de la Comunidad Autónoma de Extremadura.
+
+### Artículo 143
+
+Artículo 143. Resolución.
+1. La resolución que ponga fin al procedimiento administrativo sancionador habrá de ser motivada y resolverá todas las cuestiones planteadas en el expediente.
+2. En la resolución no se podrán aceptar hechos distintos de los determinados en el curso del procedimiento, con independencia de su diferente valoración jurídica.
+3. La resolución será ejecutiva cuando ponga fin a la vía administrativa.
+4. En la resolución se adoptarán, en su caso, las disposiciones cautelares precisas para garantizar su eficacia en tanto no sea ejecutiva.
+
+### Artículo 144
+
+Artículo 144. Formas de ejecución forzosa.
+1. Las Administraciones Públicas, a través de sus órganos competentes en cada caso, podrán proceder, previo apercibimiento, a la ejecución forzosa de las resoluciones que hayan puesto fin al procedimiento administrativo sancionador, una vez que dicha resolución sea ejecutiva, salvo en los supuestos en que se suspenda la ejecución de acuerdo con la ley, o cuando la Constitución o la ley exijan la intervención de los Tribunales.
+2. La ejecución forzosa por las Administraciones Públicas se efectuará, respetando siempre el principio de proporcionalidad, por los siguientes medios:
+a) Multas coercitivas.
+b) Ejecución subsidiaria.
+c) Apremio sobre el patrimonio.
+
+### Artículo 145
+
+Artículo 145. Multas coercitivas.
+1. El órgano competente podrá acordar la imposición de multas coercitivas, reiteradas por lapsos de tiempo que sean suficientes para cumplir lo ordenado, en los siguientes supuestos:
+a) Cuando el sujeto responsable de la infracción no proceda a dar cumplimiento a las medidas provisionales adoptadas de acuerdo con lo dispuesto en el artículo 139 de la presente ley.
+b) Cuando el sancionado no de cumplimiento a la sanción impuesta.
+2. La cuantía de la multa coercitiva no superará el veinticinco por ciento de la cuantía máxima aplicable como sanción pecuniaria a la infracción cometida o de la cuantía ya fijada como sanción pecuniaria en la resolución sancionadora, y ello sin perjuicio de la obligación de reponer a que se refiere el artículo 140 de la presente ley.
+3. La multa coercitiva es independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas.
+
+### Artículo 146
+
+Artículo 146. Ejecución subsidiaria.
+1. Mediante la ejecución subsidiaria las Administraciones Públicas realizarán el acto, por sí o a través de las personas que determinen, a costa del obligado.
+2. El importe de los gastos, daños y perjuicios se exigirá conforme a lo dispuesto en el artículo siguiente.
+Dicho importe podrá liquidarse de forma provisional y realizarse antes de la ejecución, a reserva de la liquidación definitiva.
+
+### Artículo 147
+
+Artículo 147. Apremio sobre el patrimonio.
+Los importes de las sanciones pecuniarias, los gastos de la ejecución subsidiaria, así como la indemnización por los daños y perjuicios causados a las Administraciones Públicas, podrán ser exigidos por vía de apremio, conforme al procedimiento recaudatorio en vía ejecutiva previsto en la normativa que resulte de aplicación.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Inaplicación del Reglamento de Actividades Molestas, Insalubres, Nocivas y Peligrosas.
+La presente ley tiene la consideración de normativa propia en materia de actividades molestas, insalubres, nocivas y peligrosas, a los efectos de lo dispuesto en la disposición derogatoria única de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera y, por tanto, el Reglamento de Actividades Molestas, Insalubres, Nocivas y Peligrosas, aprobado por Decreto 2414/1961, de 30 de noviembre, no será de aplicación en la Comunidad Autónoma de Extremadura.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Vertidos a las redes municipales de saneamiento.
+El procedimiento previsto en la presente ley, en lo relativo a la admisibilidad de los vertidos por parte del Ayuntamiento, no modifica las competencias que correspondan a los Ayuntamientos en materia de ordenanzas municipales de vertidos. En particular, no se alteran las competencias relativas al régimen económico financiero, la vigilancia e inspección ni la potestad sancionadora.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Vigencia de las declaraciones o informes de impacto ambiental referidos a industrias extractivas.
+1. Las industrias extractivas sujetas al ámbito de aplicación de esta ley, que, a su entrada en vigor, se encuentren en explotación y posean, cuando hubiere sido legalmente exigible, autorización ambiental unificada, junto con la preceptiva licencia urbanística, o, en su caso, cuenten únicamente con esta última y con declaración o informe de impacto ambiental favorable para el ejercicio de la actividad, que no hayan agotado el recurso minero en el plazo fijado en la autorización o concesión otorgada conforme a lo dispuesto en la Ley 22/1973, de 21 de julio, de Minas, deberán solicitar ante el órgano sustantivo la prórroga del plazo fijado para la ejecución de los trabajos.
+El órgano sustantivo, una vez recibida la solicitud de prórroga, junto con la documentación que, en su caso, resulte preceptiva, dará traslado de dicho petición al órgano ambiental en un plazo de quince días, para que el mismo se pronuncie sobre aquella a efectos de prorrogar la vigencia de la declaración o informe de impacto ambiental.
+2. El nuevo plazo de ejecución en ningún caso podrá ser superior al inicialmente fijado por la declaración o informe de impacto ambiental, en el caso de los recursos mineros de las Secciones A) y B). En el caso de recursos mineros de las Secciones C) o D), el nuevo plazo de ejecución de los trabajos, y por tanto, de vigencia de la declaración o informe de impacto ambiental, será el establecido en la Ley 22/1973, de 21 de julio, de Minas y su normativa reglamentaria de desarrollo.
+3. En ningún caso, la solicitud de modificación del plazo de ejecución de los trabajos podrá presentarse una vez expirado el plazo inicialmente fijado en la autorización o concesión, no pudiendo ser objeto de prórroga los plazos ya vencidos.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Procedimiento abreviado de evaluación de impacto ambiental de líneas eléctricas.
+1. En la evaluación de impacto ambiental de los proyectos de líneas eléctricas incluidos en el anexo VI de la presente ley, será de aplicación el procedimiento establecido en la normativa sobre adecuación de las líneas eléctricas para la protección del medio ambiente.
+2. Los proyectos de líneas eléctricas no incluidos en los anexos de esta ley, deberán cumplir las condiciones técnicas fijadas en la normativa a que se refiere el párrafo anterior, en los casos en que ésta así lo establezca.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Inclusión de la variable ambiental en materia de contratos del sector público.
+La adhesión de los licitadores al sistema comunitario de gestión y auditorías medioambientales o ecoauditorías podrá ser valorada como criterio de solvencia técnica por los órganos de contratación de la Administración de la Comunidad Autónoma de Extremadura, de las Entidades que integran la Administración Local, así como por los órganos de contratación de los entes, organismos y entidades que de ellos dependan, a la hora de seleccionar al contratista y adjudicar los contratos sujetos al ámbito de aplicación del Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Informe sobre el estado del medio ambiente.
+1. Para dar cumplimiento a lo dispuesto en la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente, la Consejería competente en materia de medio ambiente de la Junta de Extremadura elaborará y publicará cada año un informe de coyuntura y cada cuatro años un informe completo, sobre el estado del medio ambiente que recoja los principales indicadores ambientales referidos, respectivamente, al año anterior y a los últimos cuatro años.
+2. Para la elaboración de los citados informes, se recabará toda la información que obre en poder de los distintos órganos de la Administración de la Comunidad Autónoma de Extremadura, de las Entidades que integran la Administración Local, de los Organismos Públicos, sociedades mercantiles y Entidades de Derecho Público vinculados o dependientes de cualquiera de ellas, así como de cualesquiera personas jurídicas o entidades sujetas a derecho privado que tengan entre sus fines estatutarios u objeto social la protección del medio ambiente o la prestación de servicios relacionados con el mismo. El suministro de la citada información constituye una obligación inexcusable, debiéndose facilitar todos los datos solicitados en el primer semestre del año posterior al que se refiera aquella.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Coordinador ambiental.
+1. En el caso de proyectos sometidos a evaluación de impacto ambiental ordinaria, deberá procederse por parte del promotor a la designación de un coordinador ambiental, que ejercerá las funciones a las que se refiere el apartado siguiente durante la fase de ejecución del proyecto y funcionamiento de la instalación.
+2. Son funciones del coordinador ambiental:
+a) Coordinar la aplicación de las medidas preventivas, correctoras o compensatorias previstas en la declaración de impacto ambiental en las diferentes fases de ejecución del proyecto.
+b) Ejercer las funciones de control y vigilancia ambiental con el objetivo de que las medidas preventivas, correctoras o compensatorias previstas en la declaración de impacto ambiental se lleven a cabo de forma adecuada en las diferentes fases de ejecución del proyecto.
+c) Prestar colaboración y auxilio en las tareas de inspección y control que se lleven a cabo por el personal técnico designado a estos efectos tanto por el órgano sustantivo como por el órgano ambiental.
+d) Poner en conocimiento del promotor del proyecto el grado de efectividad alcanzado por la aplicación efectiva de las medidas preventivas, correctoras o compensatorias previstas en la declaración de impacto ambiental del proyecto.
+Emitir informe motivado cuando de oficio o a solicitud del promotor se inicie el procedimiento de modificación de las condiciones de la declaración de impacto ambiental en los casos previstos en las letras b) y c) del apartado 1 del artículo 85.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Comisión técnica de valoración de daños medioambientales.
+1. Se crea la Comisión técnica de valoración de daños medioambientales como órgano de cooperación técnica y colaboración entre las distintas unidades administrativas de la Dirección General con competencias en materia de medio ambiente, para el intercambio de información y el asesoramiento en materia de valoración de daños medioambientales.
+2. La Comisión técnica de valoración de daños medioambientales queda adscrita a la Consejería competente en materia de medio ambiente, a través de la Dirección General con competencias en dicha materia.
+3. Las funciones, composición y régimen de funcionamiento de la Comisión técnica de valoración de daños medioambientales se determinará reglamentariamente.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Habilitación profesional para la redacción de proyectos.
+Los estudios y proyectos técnicos que deban aportarse para la obtención, en su caso, de cualquiera de los instrumentos de intervención administrativa ambiental previstos en la presente ley, deberán ser realizados por personas que posean cualificación profesional y técnica suficiente de conformidad con lo dispuesto en las normas reguladoras de atribuciones profesionales para las diferentes titulaciones.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Confidencialidad.
+De acuerdo con las disposiciones sobre propiedad industrial y con la práctica jurídica en materia de secreto industrial y comercial, el órgano ambiental deberá respetar la confidencialidad de las informaciones aportadas por el titular del proyecto que tengan dicho carácter, teniendo en cuenta, en todo caso, la protección del interés público.
+
+### Disposición adicional decimoprimera
+
+Disposición adicional decimoprimera. Régimen supletorio.
+En todo lo no previsto en la presente ley será de aplicación, cuando proceda, la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Disposición adicional decimosegunda
+
+Disposición adicional decimosegunda. Tramitación electrónica.
+1. De acuerdo con lo dispuesto en el título III de la Ley 11/2007, de 22 de junio, de acceso de los ciudadanos a los Servicios Públicos por medios electrónicos, el órgano ambiental de la Comunidad Autónoma de Extremadura promoverá la implementación de la tramitación telemática de los procedimientos administrativos regulados en la presente ley.
+Así mismo, la Comunidad Autónoma de Extremadura regulará los procedimientos administrativos propios y adaptará los procedimientos generales para dar celeridad y transparencia a la tramitación administrativa, para extender las relaciones interadministrativas y con los ciudadanos por medios telemáticos y para la simplificación de trámites.
+2. A estos efectos, será de aplicación lo dispuesto en el Decreto 225/2014, de 14 de octubre, de régimen jurídico de administración electrónica de la Comunidad Autónoma de Extremadura y en el Decreto 75/2010, de 18 de marzo, por el que se crea la Sede Electrónica Corporativa, se regulan determinados aspectos relativos a la identificación y autenticación electrónica y se establecen medidas para la copia electrónica de documentos en la Administración de la Comunidad Autónoma de Extremadura.
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Inexigibilidad de garantía financiera por responsabilidad medioambiental.
+La Administración de la Comunidad Autónoma de Extremadura y los organismos autónomos, entes y entidades de derecho público dependiente de ella, no estarán obligados a la constitución de la garantía financiera exigida a los operadores de las actividades incluidas en el anexo III de la Ley 26/2007, de 23 de octubre, de Responsabilidad Medioambiental.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Instalaciones existentes.
+Las instalaciones existentes, tal y como se definen en el artículo 3.28, que a la entrada en vigor de la presente ley se encuentren incluidas en su anexo II, podrán seguir ejerciendo la actividad que les es propia sin necesidad de poseer, a estos efectos, autorización ambiental unificada, salvo que se pretenda llevar a cabo una modificación sustancial de la instalación de conformidad con lo previsto en el artículo 20 o cuando tengan que renovar cualquiera de las autorizaciones ambientales sectoriales autonómicas a las que se refiere el artículo 14.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Procedimientos de autorización de actividades sometidas a autorización ambiental unificada.
+1. Los procedimientos de autorización de aquellas instalaciones en las que se desarrolle alguna o algunas de las actividades incluidas en el anexo II de esta ley, ya iniciados antes de su entrada en vigor, se regirán por la normativa vigente en el momento en que se iniciaron. En estos casos, la puesta en funcionamiento de las instalaciones deberá producirse antes de que expire el plazo de vigencia de la autorización ambiental unificada.
+2. No obstante lo dispuesto en el apartado anterior, los interesados podrán acogerse de forma voluntaria a la nueva normativa y solicitar la tramitación de la correspondiente autorización ambiental unificada con arreglo a lo dispuesto en la presente ley y su normativa reglamentaria de desarrollo.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Actividades sobre las que opere un cambio de instrumento de intervención administrativa ambiental.
+Las instalaciones que a la entrada en vigor de la presente ley se encuentren en posesión de la preceptiva autorización ambiental unificada para ejercer la actividad, y tras dicha entrada en vigor pasen a estar sujetas a comunicación ambiental, podrán continuar ejerciendo la actividad que le es propia, siempre y cuando sus titulares presenten la preceptiva comunicación ambiental conforme a lo dispuesto en esta ley, en el plazo de seis meses desde dicha entrada en vigor.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Evaluación de impacto ambiental de proyectos a ubicar en suelo no urbanizable.
+Los procedimientos de evaluación de impacto ambiental de proyectos a ejecutar en suelo no urbanizable, sujetos antes de la entrada en vigor de esta ley a las previsiones del artículo 10 de la Ley 12/2010, de 11 de noviembre, de Impulso al Nacimiento y Consolidación de Empresas en la Comunidad Autónoma de Extremadura, se regirán, a partir de dicha entrada en vigor, a los efectos de la obtención de la preceptiva calificación urbanística, por lo dispuesto en la Ley 15/2001, de 18 de diciembre, del Suelo y Ordenación Territorial de Extremadura.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Procedimientos de evaluación de impacto ambiental abreviada.
+1. Los procedimientos de evaluación de impacto ambiental abreviada que se encuentren en tramitación a la entrada en vigor de esta ley, continuarán rigiéndose por la normativa vigente en el momento en que se iniciaron.
+2. No obstante lo dispuesto en el apartado anterior, cuando dichos procedimientos se refieran a proyectos o actividades no incluidos en el anexo VI de la presente ley, el Órgano competente dictará resolución de archivo del procedimiento por desaparición sobrevenida de su objeto, debiendo notificarse la misma a los interesados.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Evaluación Ambiental de Planes y Programas.
+1. Los procedimientos de evaluación ambiental de planes y programas iniciados antes de la entrada en vigor de la presente ley, se regirán por la normativa vigente en el momento en que se iniciaron siempre que entre la documentación integrante del plan o programa obre el informe de sostenibilidad ambiental y la versión preliminar del plan o programa haya sido sometida a información pública.
+2. Los procedimientos de evaluación ambiental de planes y programas iniciados antes de la entrada en vigor de la presente ley, se regirán por lo dispuesto en la misma siempre que entre la documentación integrante del plan o programa obre el informe de sostenibilidad ambiental pero la versión preliminar del plan o programa no haya sido sometida a información pública ni hayan transcurrido más de tres años desde la fecha de recepción del documento de referencia por parte del promotor, considerándose en estos casos el informe de sostenibilidad ambiental como estudio ambiental estratégico.
+3. Los procedimientos de evaluación ambiental de planes y programas iniciados antes de la entrada en vigor de la presente ley, se regirán por lo dispuesto en la misma si durante su tramitación el órgano ambiental hubiera elaborado el documento de referencia y no hubieren transcurrido más de tres años desde la fecha de recepción de este último por parte del promotor, considerándose en estos casos el documento de referencia como documento de alcance.
+4. Los procedimientos de evaluación ambiental de planes y programas iniciados antes de la entrada en vigor de la presente ley, se regirán por lo dispuesto en la misma si durante su tramitación el órgano ambiental hubiera elaborado el documento de referencia, hubieran transcurrido más de tres años desde la fecha de recepción de este último por parte del promotor y la versión preliminar del plan o programa, que incluye el informe de sostenibilidad ambiental, no hubiera sido sometida por el órgano promotor a la fase de consultas de conformidad con lo dispuesto en el artículo 12 del Decreto 54/2011, de 29 de abril, por el que se aprueba el Reglamento de Evaluación Ambiental de la Comunidad Autónoma de Extremadura.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Modificación sustancial del alumbrado exterior posterior a la entrada en vigor de esta Ley.
+Si con posterioridad a la entrada en vigor de esta ley se lleva a cabo una modificación sustancial de un alumbrado exterior que afecte a su intensidad, orientación o espectro, dicho alumbrado se ha de ajustar, en todo caso, a las prescripciones de la presente ley y de la normativa que la desarrolle.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Colaboración de la Junta de Extremadura con los Ayuntamientos.
+La Junta de Extremadura colaborará con los Ayuntamientos para garantizar la adaptación de los alumbrados públicos municipales a las prescripciones de la presente ley.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente ley, y en particular:
+a) La Ley 5/2010, de 23 de junio, de prevención y calidad ambiental de la Comunidad Autónoma de Extremadura.
+b) El artículo 10 de la Ley 12/2010, de 11 de noviembre, de Impulso al Nacimiento y Consolidación de Empresas en la Comunidad Autónoma de Extremadura.
+c) El apartado 3 del artículo 34 del Decreto 54/2011, de 29 de abril, por la que se aprueba el Reglamento de Evaluación Ambiental de la Comunidad Autónoma de Extremadura.
+d) El Decreto 133/1996, de 3 de septiembre, por el que se crea el Registro de Pequeños Productores de Residuos Tóxicos y Peligrosos y se dictan normas para minimizar la generación de residuos procedentes de automoción y aceites usados.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación al Consejo de Gobierno.
+Se habilita al Consejo de Gobierno para:
+1. Adoptar las disposiciones que fueran precisas para el desarrollo y ejecución de lo establecido en la presente ley.
+2. Modificar, a propuesta de la Consejería competente en materia de medio ambiente, los anexos de la presente ley, dentro del marco de la legislación estatal básica.
+3. Adoptar, a propuesta de la Consejería competente en materia de medio ambiente, cuantas disposiciones sean precisas para fijar las distancias mínimas a los núcleos de población y al suelo urbano o urbanizable, de las instalaciones o actividades sujetas al ámbito de aplicación de la presente ley, dentro del marco de la legislación básica.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente ley entrará en vigor a los dos meses de su publicación en el Diario Oficial de Extremadura.
+
+Por tanto, ordeno a todos los ciudadanos, que sea de aplicación esta ley, que cooperen a su cumplimiento y a los Tribunales y Autoridades que corresponda la hagan cumplir.
+Mérida, 23 de abril de 2015.
+El Presidente de la Junta de Extremadura,
+José Antonio Monago Terraza.
+
+## ANEXO I
+
+Actividades sometidas a autorización ambiental integrada
+Se somete a autorización ambiental integrada, las instalaciones de titularidad pública o privada en las que se desarrolle alguna de las actividades industriales incluidas en la legislación estatal básica sobre prevención y control integrados de la contaminación.
+Se modifica por el art. 10.36 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+## ANEXO II
+
+Actividades sometidas a autorización ambiental unificada
+Grupo 1. Ganadería.
+1.1 Instalaciones ganaderas, no incluidas en el Anexo I, destinadas a la cría intensiva de aves, que dispongan de un número de emplazamientos o animales superior a los siguientes:
+a) 7.000 emplazamientos para gallinas ponedoras.
+b) 9.500 emplazamientos para pollos de engorde.
+c) 7.000 emplazamientos para pavos de engorde.
+d) Número equivalente a las anteriores para otras especies y orientaciones productivas de aves.
+1.2 Instalaciones ganaderas, no incluidas en el Anexo I, destinadas a la cría de ganado porcino, que dispongan de más de 350 emplazamientos o animales autorizados para cerdos de cría y/o 50 emplazamientos o animales para cerdas reproductoras, o número equivalente para otras orientaciones productivas.
+1.3 Instalaciones ganaderas destinadas a la cría intensiva de rumiantes, incluyéndose entre ellas los centros de tipificación, que dispongan de un número de emplazamientos superior a los siguientes:
+a) 50 emplazamientos para vacuno de leche.
+b) 100 emplazamientos para vacuno de engorde.
+c) 330 emplazamientos para ovino y caprino.
+d) Número equivalente a las anteriores para otras especies y orientaciones productivas.
+1.4 Instalaciones ganaderas destinadas a la cría intensiva de otras especies, que dispongan de un número de emplazamientos o animales autorizados superior a los siguientes:
+a) 3.500 emplazamientos para explotaciones cunícolas.
+b) 50 emplazamientos para ganado equino.
+c) Número equivalente a las anteriores para otras especies y orientaciones productivas.
+1.5 Instalaciones para la cría de invertebrados que utilicen SANDACH en su producción.
+Grupo 2. Industria extractiva.
+2.1 Instalaciones de tratamiento de mineral, incluidos los establecimientos de beneficio asociados a explotaciones mineras, con una capacidad de tratamiento de productos minerales superior a 200.000 toneladas/año o para cualquier capacidad cuando la instalación se encuentre a menos de 500 metros de un núcleo de población.
+2.2 Instalaciones de tratamiento asociadas a la extracción de carbón, petróleo o gas.
+Grupo 3. Industria alimentaria.
+3.1 Instalaciones para mataderos con una capacidad de producción de canales igual o inferior a 50 toneladas por día.
+3.2 Instalaciones para tratamiento y transformación, diferente al mero envasado, de las siguientes materias primas, tratadas o no previamente, destinadas a la fabricación de productos alimenticios o piensos a partir de:
+a) Materia prima animal (que no sea la leche) de una capacidad de producción de productos acabados igual o inferior a 75 toneladas/día y superior a 10 tonelada al día.
+b) Material prima vegetal, sea fresca, congelada, conservada, precocinada, deshidratada o completamente elaborada, de una capacidad de producción de productos acabados igual o inferior a 300 toneladas por día o 600 toneladas por día en caso de que la instalación funcione durante un periodo no superior a 90 días consecutivos en un año cualquiera, y superior a 20 toneladas por día.
+Respecto de los subepígrafes a) y b), el envase no se incluirá en el peso final del producto.
+c) Leche, con una cantidad de leche recibida igual o inferior a 200 toneladas por día (valor medio anual) y superior a 10 toneladas por día.
+Grupo 4. Industria Energética.
+4.1 Instalaciones para la fabricación de combustibles sólidos, líquidos o gaseosos, no incluidas en el anexo I.
+4.2 Instalaciones de producción de energía eléctrica en régimen ordinario o en régimen especial, en las que se produzca la combustión de combustibles fósiles, residuos o biomasa con una potencia térmica de combustión inferior a 50 MW y superior a 5 MW.
+4.3 Instalaciones de cogeneración, calderas, hornos, generadores de vapor o cualquier otro equipamiento o instalación de combustión existente en una industria, sea ésta o no su actividad principal; con una potencia térmica de combustión inferior a 50 MW y superior a 5 MW.
+4.4 Instalaciones de cogeneración, calderas, hornos, generadores de vapor o cualquier otro equipamiento o instalación de combustión existente en una industria, sea esta o no su actividad principal; con una potencia térmica de combustión inferior o igual a 5 MW y superior o igual a 1 MW, que necesiten autorización de emisiones, según la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera (Grupos A y B del CAPCA), que no estén incluidas en el anexo I.
+Grupo 5. Industria siderúrgica y del mineral, producción y elaboración de metales.
+5.1 Instalaciones de fabricación de cemento y/o de clínker, cal u óxido de magnesio no incluidas en el anexo I.
+5.2 Instalaciones para la fabricación de vidrio y/o la fibra de vidrio, no incluidas en el anexo I.
+5.3 Instalaciones para la fundición de materiales minerales, incluida la fabricación de fibras minerales, no incluidas en el anexo I.
+5.4 Instalaciones para la fabricación de productos cerámicos mediante horneado, en particular tejas, ladrillos, refractarios, azulejos o productos cerámicos ornamentales o de uso doméstico, con una capacidad de producción igual o inferior a 75 toneladas por día, y que no tengan una capacidad de horneado de más de 4 metros cúbicos y de más de 300 kilogramos por metro cúbico de densidad de carga por horno, siempre que la capacidad de producción supere 1 tonelada por día.
+5.5 Instalaciones de tratamiento térmico de sustancias minerales para la obtención de productos como yeso, perlita expandida o similares.
+5.6 Instalaciones dedicadas al aprovechamiento de áridos, distinto de la mera extracción.
+5.7 Instalaciones para la fabricación de hormigón, morteros, productos asfálticos y otros materiales similares o derivados.
+5.8 Instalaciones para la producción de fundición o de aceros brutos (fusión primaria o secundaria), incluida las correspondientes instalaciones de fundición continua, no incluidas en el anexo I.
+5.9 Instalaciones para la transformación de metales en las que se realice alguna de las siguientes actividades, siempre que no estén incluidas en el anexo I:
+a) Conformado en caliente: laminado, forjado, extruido, doblado, embutido, etc.
+b) Aplicación de capas de protección de metal fundido.
+5.10 Fundiciones de metales ferrosos no incluidas en el Anexo I.
+5.11 Instalaciones para la fusión de metales no ferrosos, inclusive la aleación, así como los productos de recuperación (refinado, moldeado en fundición), no incluidas en el Anexo I.
+5.12 Instalaciones para el tratamiento de superficie de metales y materiales plásticos por procedimiento electrolítico o químico, no incluidas en el Anexo I.
+Grupo 6. Industria química y petroquímica.
+6.1 Instalaciones, no incluidas en el anexo I, dedicadas al tratamiento de productos intermedios y producción de productos químicos, a escala industrial y mediante transformación química o física, en particular:
+a) Pesticidas y otros productos agroquímicos distintos de los fertilizantes.
+b) Fertilizantes.
+c) Peróxidos.
+d) Pinturas, barnices y revestimientos similares.
+e) Productos a base de elastómeros, como neumáticos. Asimismo, se incluye el tratamiento de estos productos ya fabricados.
+f) Lejías y productos de limpieza.
+g) Cosméticos y farmacéuticos.
+h) Otros productos intermedios o productos químicos, no indicados expresamente entre las subcategorías de este apartado 6.1 de este anexo.
+Respecto a los apartados d) y g), se excluyen las instalaciones de producción de pinturas y cosméticos con una capacidad de producción inferior a 100 kg al día y con una potencia eléctrica total instalada inferior a 30 kW.
+6.2 Instalaciones para la fabricación de productos pirotécnicos.
+6.3 Instalaciones para la recuperación o destrucción de sustancias explosivas.
+6.4 Tratamiento y obtención de materiales poliméricos.
+6.5 Instalaciones industriales destinadas al almacenamiento para venta o distribución de productos químicos o petroquímicos de más de 300 metros cúbicos.
+Grupo 7. Industria papelera, de la madera, del corcho, textil y del cuero.
+7.1 Instalaciones industriales destinadas a la fabricación de papel y cartón no incluidas en el Anexo I.
+7.2 Instalaciones de producción y tratamiento de celulosa no incluidas en el Anexo I.
+7.3 Instalaciones para la fabricación de productos de papel, cartón o celulosa, con una capacidad de producción superior a 10 toneladas diarias.
+7.4 Instalaciones para la fabricación de productos básicos de la madera (como tableros de virutas orientadas, tableros aglomerados y tableros de cartón comprimido), con una con una capacidad de producción inferior o igual a 600 m3 diarios y superior a 10 m3 diarios.
+7.5 Instalación para la fabricación de productos de madera o derivados con una capacidad de producción superior a 10 toneladas diarias.
+7.6 Instalaciones para el tratamiento del corcho bruto que lleven a cabo algún tipo de tratamiento químico del mismo con una capacidad de producción superior a 1 tonelada diaria.
+7.7 Instalaciones para la fabricación de productos de corcho con una capacidad de producción superior a 10 toneladas diarias.
+7.8 Instalaciones para la fabricación, tratamiento previo o tinte de fibras y de productos textiles, no incluidas en el anexo I.
+7.9 Instalaciones de la industria textil para la preparación e hilado de fibras textiles y/o el acabado de textiles, con una capacidad de producción superior a 10 toneladas diarias.
+7.10 Instalaciones para el curtido de cueros no incluidas en el Anexo I.
+7.11 Instalaciones para la fabricación de productos de cuero y/o calzado, con una capacidad de producción superior a 10 toneladas diarias.
+Grupo 8. Proyectos de ingeniería hidráulica y de gestión del agua.
+8.1 Instalaciones de tratamiento de aguas residuales urbanas con capacidad superior a 100.000 habitantes-equivalentes.
+8.2 Instalaciones de tratamiento de aguas residuales industriales procedentes de actividades externas, con capacidad superior a 10.000 m3 al día y no incluidas en el anexo I.
+Grupo 9. Proyectos de tratamiento y gestión de residuos.
+9.1 Instalaciones para la valorización o eliminación, en lugares distintos de los vertederos, de residuos de todo tipo, no incluidas en el anexo I.
+9.2 Vertederos de todo tipo de residuos no incluidos en el anexo I.
+9.3 Instalaciones para incineración y coincineración de subproductos animales no destinados a consumo humano (SANDACH) con capacidad máxima superior o igual a 50 kilogramos de subproductos animales por hora o por lote, no incluidas en el anexo I.
+9.4 Instalaciones para la eliminación, distinta a la incineración y coincineración, o el aprovechamiento de SANDACH, no incluidas en el Anexo I.
+9.5 Instalaciones para plantas intermedias o almacenes de SANDACH, distintos del acopio temporal de este material en las instalaciones de producción.
+9.6 Instalaciones de gestión de residuos no peligrosos y de residuos peligrosos no incluidas en el Anexo I, mediante almacenamiento de estos, con carácter previo a su valorización o eliminación, excepto los puntos limpios.
+9.7 Instalaciones de gestión de residuos inertes mediante almacenamiento de los mismos, con carácter previo a su valorización o eliminación.
+Grupo 10. Otras actividades.
+10.1 Instalaciones no incluidas en el anexo I y que emplean compuestos orgánicos volátiles en el desarrollo de su actividad con una capacidad de consumo de compuestos orgánicos volátiles superior a 5 toneladas al año.
+10.2 Crematorios.
+No estarán sometidas a autorización ambiental unificada las actividades e instalaciones de carácter temporal ligadas a la ejecución de una obra que dé servicio exclusivo a la misma, y en la medida en que su montaje y desmontaje tenga lugar durante la ejecución de la obra o al final de la misma; como puede ser el caso de algunas actividades incluidas en los puntos: 4.2, 5.8 y 5.9.
+Se modifica por el art. 32.1 del Decreto-ley 5/2025, de 18 de septiembre. Ref. BOE-A-2026-618
+ Se modifica por el art. 10.37 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+## ANEXO II BIS
+
+Actividades sometidas a comunicación ambiental autonómica
+Grupo 1. Industria alimentaria.
+Instalaciones para tratamiento y transformación, diferente al mero envasado, de las siguientes materias primas, tratadas o no previamente, destinadas a la fabricación de productos alimenticios o piensos a partir de:
+a) Materia prima animal (que no sea la leche) de una capacidad de producción de productos acabados igual o inferior a 10 toneladas/día y superior a 1 tonelada al día.
+b) Material prima vegetal, sea fresca, congelada, conservada, precocinada, deshidratada o completamente elaborada, de una capacidad de producción de productos acabados igual o inferior a 20 toneladas por día y superior a 4 toneladas por día.
+Respecto de los subepígrafes a) y b), el envase no se incluirá en el peso final del producto.
+c) Leche, con una cantidad de leche recibida igual o inferior a 10 toneladas por día (valor medio anual) y superior a 1 tonelada por día.
+Grupo 2. Granjas cinegéticas y acuicultura.
+2.1 Granjas cinegéticas dedicadas a la cría intensiva, que dispongan de un número de emplazamientos superior a los siguientes:
+a) 330 emplazamientos para corzos y muflones.
+b) 120 emplazamientos para ciervos y gamos.
+c) 33.000 emplazamientos para perdices.
+d) Número equivalente a las anteriores para otras especies y orientaciones productivas.
+2.2 Instalaciones de acuicultura intensiva, con una capacidad de producción superior a 20 toneladas al año de peces y crustáceos.
+Grupo 3. Gestión de residuos.
+Puntos limpios para la recogida separada de residuos.
+Grupo 4. Otras actividades.
+4.1 Instalaciones industriales destinadas a la fabricación de:
+a) Productos informáticos, electrónicos y ópticos.
+b) Material y equipo eléctrico.
+4.2 Instalaciones industriales destinadas a la fabricación de:
+a) Instalaciones de producción de cosméticos con una capacidad de producción inferior a 100 kg al día y una potencia eléctrica total instalada inferior a 10 kW.
+b) Instalaciones de producción de pinturas con una capacidad de producción inferior a 100 kg al día y una potencia eléctrica total instalada inferior a 10 kW.
+4.3 Instalaciones para la fabricación de productos básicos de la madera (como tableros de virutas orientadas, tableros aglomerados y tableros de cartón comprimido) con una con una capacidad de producción inferior o igual a 10 m3 diarios.
+4.4 Instalaciones industriales y talleres siempre que se cumpla una o varias de las siguientes condiciones:
+a) La potencia eléctrica total instalada sea superior a 100 kW.
+b) La superficie construida total sea superior a 10.000 metros cuadrados.
+c) La potencia térmica nominal de producción de frío sea superior a 1 MW.
+4.5 Las actividades e instalaciones incluidas en el anexo II que no precisen de autorización ambiental unificada dado su carácter temporal al estar ligadas a la ejecución de una obra a la que dan servicio de forma exclusiva, y en la medida en que su montaje y desmontaje tenga lugar durante la ejecución de la obra o al final de la misma.
+4.6 Instalaciones industriales destinadas al almacenamiento de:
+a) Combustibles líquidos con una capacidad de almacenamiento superior a 300 metros cúbicos.
+b) Gas natural sobre el terreno en tanques, con una capacidad de almacenamiento unitaria mayor de 200 toneladas.
+c) Gases combustibles, distintos del gas natural, en almacenamientos tanto aéreos como enterrados, con una capacidad de almacenamiento mayor de 100 metros cúbicos.
+4.7 Captura de flujos de CO2 no incluidas en el anexo I con fines de almacenamiento geológico con arreglo a la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono.
+4.8 Instalaciones para el tratamiento del corcho bruto que no lleven a cabo algún tipo de tratamiento químico del mismo.
+4.9 Industria del mineral.
+a) Instalaciones de tratamiento de mineral con una capacidad de tratamiento de productos minerales inferior o igual a 200.000 toneladas/ año y superior o igual a 100 toneladas/año.
+Grupo 5. Industria energética.
+5.1 Instalaciones de cogeneración, calderas, hornos, generadores de vapor o cualquier otro equipamiento o instalación de combustión existente en una industria, sea esta o no su actividad principal; con una potencia térmica de combustión inferior o igual a 5 MW y superior o igual a 1 MW, que no necesiten autorización de emisiones, según la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, que no estén incluidas en los anexos I y II.
+Se modifica por el art. 32.2 del Decreto-ley 5/2025, de 18 de septiembre. Ref. BOE-A-2026-618
+ Se modifica por el art. 10.38 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+## ANEXO III
+
+Actividades sometidas a comunicación ambiental municipal
+Grupo 1. Ganadería, granjas cinegéticas, acuicultura y núcleos zoológicos.
+1.1 Instalaciones destinadas a la cría intensiva de ganado, incluyendo las granjas cinegéticas, no incluidas en los anexos I, II y II bis.
+1.2 Instalaciones ganaderas destinadas a la cría de ganado porcino, incluyendo jabalíes, que dispongan de un número de emplazamientos o animales menor o igual a 350 cerdos de cría y/o menor o igual a 50 emplazamientos para cerdas reproductoras, o número equivalente para otras orientaciones productivas.
+1.3 Instalaciones de acuicultura intensiva no incluidas en el anexo II bis.
+1.4 Instalaciones para la cría de invertebrados que no utilicen SANDACH en su producción.
+1.5 Núcleos zoológicos:
+a) Núcleos zoológicos propiamente dichos: Los que albergan colecciones zoológicas de animales indígenas y/o exóticas con fines científicos, culturales, recreativos, de reproducción, recuperación, adaptación y/o conservación de los mismos. Colecciones zoológicas privadas y otras agrupaciones zoológicas, parques o jardines zoológicos, los zoosafaris y las reservas zoológicas.
+b) Centros para fomento y cuidado de animales de compañía: Comprende los centros que tienen por objeto la producción, explotación, tratamiento, alojamiento temporal y/o permanente de animales de compañía, y/o la venta de pequeños animales para unir en domesticidad al hogar, incluyendo los criaderos, las residencias, los centros para el tratamiento higiénico, las escuelas de adiestramiento, las pajarerías y otros centros para el fomento y cuidado de animales de compañía.
+c) Establecimientos para la práctica de equitación: comprenden los establecimientos que albergan équidos con fines recreativos, deportivos o turísticos, incluyendo los picaderos, las cuadras deportivas, hipódromos, escuelas de equitación, cuadras de alquiler y otros establecimientos para la práctica ecuestre.
+d) Agrupaciones varias: aquellas otras entidades afines no comprendidas entre las citadas en el resto de las categorías relativas a núcleos zoológicos, incluyendo las perreras deportivas, realas o jaurías, canódromos, los suministradores de animales a laboratorios y otras agrupaciones similares.
+Grupo 2. Industria alimentaria.
+2.1 Instalaciones para tratamiento y transformación, diferente del mero envasado, de las siguientes materias primas, tratadas o no previamente, destinadas a la fabricación de productos alimenticios o piensos a partir de:
+a) Materia prima animal (que no sea la leche) de una capacidad de producción de productos acabados igual o inferior a 1 tonelada por día.
+b) Materia prima vegetal, sea fresca, congelada, conservada, precocinada, deshidratada o completamente elaborada, con una capacidad de producción de productos acabados igual o inferior a 4 toneladas por día.
+Respecto de los subepígrafes a) y b), el envase no se incluirá en el peso final del producto.
+c) Leche, con una cantidad de leche recibida igual o inferior a 1 toneladas por día (valor medio anual).
+2.2 Plantas de embotellamiento o envasado de agua o productos alimenticios o piensos e instalaciones relacionadas.
+Grupo 3. Industria energética.
+3.1 Instalaciones de cogeneración, calderas, hornos, generadores de vapor o cualquier otro equipamiento o instalación de combustión existente en una industria, sea esta o no su actividad principal; siempre y cuando la potencia térmica nominal de combustión sea inferior a 1 MW.
+3.2 Instalaciones industriales destinadas al almacenamiento para venta y distribución de:
+a) Combustibles líquidos, con una capacidad de almacenamiento igual o inferior a 300 metros cúbicos.
+b) Gas natural sobre el terreno en tanques con una capacidad de almacenamiento unitaria igual o inferior a 200 toneladas.
+c) Gases combustibles, distintos del gas natural, en almacenamientos tanto aéreos como enterrados con una capacidad de almacenamiento igual o inferior a 100 metros cúbicos.
+Grupo 4. Otras actividades.
+4.1 Instalaciones que emplean compuestos orgánicos volátiles en el desarrollo de su actividad con una capacidad de consumo de compuestos orgánicos volátiles que no sea superior a 5 toneladas al año.
+4.2 Instalaciones permanentes destinadas al almacenamiento y venta al por mayor de materias primas y productos.
+4.3 Estaciones de servicio dedicadas a la venta de combustibles como la gasolina, el gasoil, los biocombustibles, etc.
+4.4 Estaciones e instalaciones de Inspección Técnica de Vehículos.
+4.5 Instalaciones destinadas al tratamiento de agua potable.
+4.6 Instalaciones de tratamiento de aguas residuales no incluidas en el anexo I y II.
+4.7 Instalaciones para la incineración y coincineración de SANDACH con capacidad máxima inferior a 50 kilogramos de subproductos animales por hora o por lote (plantas de baja capacidad).
+4.8 Talleres dedicados a las siguientes actividades económicas, siempre que no estén incluidos en epígrafes anteriores:
+a) Carpintería metálica, cerrajería, calderería o mecanizado.
+b) Actividades relacionadas con la construcción.
+c) Orfebrería.
+d) Cerámica.
+e) Elaboración de productos a base de madera, corcho, papel o cartón, tales como carpinterías o ebanisterías.
+f) Confección de géneros de punto, pieles y textiles.
+g) Reparación de calzado.
+h) Reparación, pintado, lavado y engrase de vehículos a motor y de maquinaria en general.
+i) Reparación de aparatos eléctricos y/o electrónicos.
+j) Trabajo de roca ornamental y materiales minerales con capacidad de tratamiento inferior a 100 toneladas año, no incluido en otros anexos.
+k) Imprentas y artes gráficas y/o talleres de edición de prensa, excepto las instalaciones que sobrepasen los límites establecidos en el punto 4.1.
+4.9 Establecimientos dedicados a las siguientes actividades económicas:
+a) Lavaderos de vehículos.
+b) Establecimientos hoteleros, apartamentos turísticos, camping y otras instalaciones para alojamiento de carácter turístico.
+c) Restaurantes, cafeterías, pubs, y bares.
+d) Discotecas, salas de fiesta y bares musicales.
+e) Salones recreativos y salas de bingo.
+f) Supermercados y centros comerciales.
+g) Asadores de pollos, hamburgueserías, freidurías, churrerías y otros establecimientos de elaboración de comidas para llevar.
+h) Lavanderías, tintorerías e instalaciones similares, excepto las que sobrepasen los límites establecidos en el apartado 4.1.
+i) Laboratorios de análisis.
+j) Clínicas y establecimientos sanitarios.
+k) Tanatorios y velatorios sin horno crematorio.
+l) Clínicas veterinarias.
+Se modifica por el art. 32.3 del Decreto-ley 5/2025, de 18 de septiembre. Ref. BOE-A-2026-618
+
+## ANEXO IV
+
+Proyectos sometidos a evaluación ambiental ordinaria
+Deberán someterse a evaluación de impacto ambiental ordinaria los proyectos, públicos o privados, consistentes en la realización de las obras, instalaciones o cualquier otra actividad que se pretendan llevar a cabo en el ámbito territorial de la Comunidad Autónoma de Extremadura, cuando así lo establezca la legislación estatal básica en materia de evaluación de impacto ambiental, siempre que la competencia para su autorización o aprobación, o en su caso, para su control a través de la declaración responsable o comunicación previa, no corresponda a la Administración General del Estado.
+Se modifica por el art. 10.39 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+## ANEXO V
+
+Proyectos sometidos a evaluación ambiental simplificada
+Deberán someterse a evaluación de impacto ambiental simplificada los proyectos, públicos o privados, consistentes en la realización de las obras, instalaciones o cualquier otra actividad que se pretendan llevar a cabo en el ámbito territorial de la Comunidad Autónoma de Extremadura, cuando así lo establezca la legislación estatal básica en materia de evaluación de impacto ambiental, siempre que la competencia para su autorización o aprobación, o en su caso, para su control a través de la declaración responsable o comunicación previa, no corresponda a la Administración General del Estado.
+Se modifica por el art. 10.40 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+## ANEXO VI
+
+Proyectos sometidos a evaluación de impacto ambiental abreviada
+Grupo 1. Silvicultura, agricultura, ganadería.
+1. Reforestaciones y/o repoblaciones y/o cambios de especies forestales diferentes del género Quercus, en una superficie de más de 25 hectáreas, y destoconados de más de 50 hectáreas, no incluidos en los Anexos IV y V.
+2. Desbroces en áreas de más de 100 hectáreas con pendientes medias iguales o superiores al 25 % y de más de 100 hectáreas si afectan a hábitats naturales incluidos en la Directiva 92/43/CEEE del Consejo, de 21 de mayo de 1992, relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres.
+3. Nuevos cortafuegos cuando se realicen en zonas con pendientes superiores al 25 % y su longitud exceda los 500 metros lineales.
+4. Instalaciones ganaderas destinadas a la cría de ganado porcino, incluidos los jabalíes, que superen 25 plazas para cerdos de cebo y/o 5 plazas para cerdas reproductoras, no incluidos en los Anexos IV y V y que no precisen de Autorización Ambiental Unificada o Integrada.
+Grupo 2. Proyectos de caminos y carreteras.
+a) Nuevas pistas forestales o caminos rurales y modificaciones en el trazado de las existentes cuando su longitud exceda los 500 metros lineales.
+b) Modificaciones en el trazado de carreteras existentes cuando la modificación afecte a una longitud superior a los 250 metros lineales, proyectos no incluidos en los anexos IV y V.
+Grupo 3. Otros proyectos.
+1. Proyectos de restauración, acondicionamiento o relleno en una superficie mayor de 10.000 m2 y/o con un volumen mayor de 20.000 m3 no incluidos en los anexos IV y V.
+Nota: el fraccionamiento de proyectos de igual naturaleza y realizados en el mismo espacio físico no impedirá la aplicación de los umbrales establecidos en los anexos IV, V y VI de la presente ley, a cuyos efectos se acumularán las magnitudes o dimensiones de cada uno de los proyectos considerados.
+Se modifica por el art. 32.4 del Decreto-ley 5/2025, de 18 de septiembre. Ref. BOE-A-2026-618
+ Se modifica por el art. 10.41 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+## ANEXO VII
+
+Estudio de impacto ambiental y criterios técnicos
+Respecto a la información que deberá incluir el estudio de impacto ambiental, los conceptos técnicos y las especificaciones relativas a las obras, instalaciones o actividades comprendidas en los anexos IV y V, será de aplicación la regulación establecida en la legislación estatal básica en materia de evaluación de impacto ambiental.
+Se modifica por el art. 10.42 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-2
+
+## ANEXO VIII
+
+Criterios mencionados en el artículo 52 para determinar si un plan o programa debe someterse a evaluación ambiental estratégica ordinaria
+Los criterios mencionados en el artículo 52 para determinar si un plan o programa debe someterse a evaluación ambiental estratégica ordinaria serán los que para este fin se establecen en la legislación estatal básica en materia de evaluación ambiental.
+Se modifica por el art. 32.5 del Decreto-ley 5/2025, de 18 de septiembre. Ref. BOE-A-2026-618
+
+## ANEXO IX
+
+Contenido del estudio ambiental estratégico
+La información que deberá incluir el estudio ambiental estratégico previsto en el artículo 42 será la determinada en la Ley 21/2013, de 9 de diciembre de evaluación ambiental, legislación estatal básica en materia de evaluación ambiental.
+Se modifica por el art. 32.6 del Decreto-ley 5/2025, de 18 de septiembre. Ref. BOE-A-2026-618
+
+## ANEXO X
+
+Criterios mencionados en el artículo 76.5 para determinar si un proyecto del anexo V debe someterse a evaluación de impacto ambiental ordinaria
+Los criterios mencionados en el artículo 76.5 para determinar si un proyecto debe someterse a evaluación de impacto ambiental ordinaria serán los que para este fin se establecen en la legislación estatal básica en materia de evaluación ambiental.
+Se modifica por el art. 32.7 del Decreto-ley 5/2025, de 18 de septiembre. Ref. BOE-A-2026-618
+
+## [INFORMACIÓN RELACIONADA]
+
+INFORMACIÓN RELACIONADA
+ Téngase en cuenta que tanto los anexos como las distancias mínimas a los núcleos de población y al suelo urbano o urbanizable, de las instalaciones o actividades sujetas al ámbito de aplicación de la presente ley, se podrán actualizar por norma del Consejo de Gobierno publicada únicamente en el "Boletín Oficial de Extremadura", según se establece en la disposición final 1.2 y 3.

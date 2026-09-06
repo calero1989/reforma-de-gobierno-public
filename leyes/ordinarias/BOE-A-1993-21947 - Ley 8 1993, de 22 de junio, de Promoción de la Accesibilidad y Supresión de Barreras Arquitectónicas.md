@@ -1,0 +1,651 @@
+# Ley 8/1993, de 22 de junio, de Promoción de la Accesibilidad y Supresión de Barreras Arquitectónicas.
+
+- Identificador BOE: `BOE-A-1993-21947`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1993-21947
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el BOE núm. 226 de 21 de septiembre de 1993. Ref. BOE-A-1993-23232.
+
+## Preámbulo
+
+Aprobada por la Asamblea de Madrid la Ley 8/1993, de 22 de junio, publicada en el «Boletín Oficial de la Comunidad de Madrid» número 152, del 29, se inserta a continuación el texto correspondiente.
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo.
+Preámbulo
+La sociedad, en general, y los poderes públicos, en particular, tienen el deber de facilitar la accesibilidad al medio de todos los ciudadanos; deber que se extiende, por tanto, de la misma forma a aquellos ciudadanos con o sin discapacidad que se encuentren en situación de limitación funcional en relación con el medio, poniéndose especial énfasis respecto de aquellos cuya dificultad de movilidad y comunicación sea más grave.
+Sobre este colectivo ha recaído, de forma genérica, la atención del Estado a través del artículo 49 de la Constitución española.
+En el ámbito de la Comunidad de Madrid, en este sentido, se ha elaborado la Ley 11/1984, de 6 de junio, de Servicios Sociales, para favorecer la integración de todas las personas a través de mecanismos legislativos. La presente Ley viene a desarrollar uno de los mecanismos necesarios para conseguir dicha finalidad y pretende modificar la realidad social a la que se dirige, aunando principios de actuación con parámetros técnicos básicos, sin perjuicio de la modificación reglamentaria de estos últimos cuando las circunstancias así lo aconsejen.
+Es, por todo ello, por lo que se hace imprescindible, en desarrollo de los principios constitucionales de política social, la regulación de los accesos a estos lugares, mediante una Ley de promoción de la accesibilidad y supresión de barreras arquitectónicas.
+Se modifican los párrafos primero y segundo por el art. 6.1 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2025-3304
+
+## TÍTULO I
+
+Objeto y ámbito de aplicación de la Ley
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+El objeto de la presente Ley es garantizar la accesibilidad y el uso de los bienes y servicios a todas aquellas personas que por una u otra razón, de forma permanente o transitoria, se encuentren en una situación de limitación o movilidad reducida, así como promover la existencia y utilización de ayudas de carácter técnico adecuadas para mejorar la calidad de vida de dichas personas.
+Para todo ello se establecerán las normas y criterios básicos para la supresión de barreras arquitectónicas y obstáculos, evitando la aparición de nuevas barreras, así como eliminando las existentes conforme a la planificación establecida en la presente Ley, en el diseño y ejecución de las vías y espacios libres públicos y del mobiliario urbano, en la construcción o reestructuración de edificios y en los medios de transporte y de la comunicación sensorial, tanto de propiedad privada como pública.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+La presente Ley será de aplicación, en el ámbito de la Comunidad de Madrid, en todas aquellas actuaciones referentes a planeamiento, gestión o ejecución en materia de urbanismo, edificación, transporte y comunicación sensorial tanto de nueva construcción como de rehabilitación o reforma, que se realicen por Entidades públicas o privadas, así como por personas físicas.
+
+### Artículo 3
+
+Artículo 3. Definiciones.
+A los efectos de la presente Ley se establecen las siguientes definiciones:
+a) Se entiende por accesibilidad aquella característica del urbanismo, de las edificaciones, del transporte y de los sistemas y medios de comunicación sensorial, que permite su uso a cualquier personas con independencia de su condición física, psíquica o sensorial.
+b) Se entiende por barrera cualquier impedimento, traba u obstáculo que limite o impida el acceso, la libertad de movimiento, la estancia y la circulación con seguridad de las personas.
+A estos efectos se clasifican las barreras arquitectónicas en:
+1. BAU: Barreras Arquitectónicas Urbanísticas. Son las existentes en las vías públicas, así como en los espacios libres de uso público.
+2. BAE: Barreras Arquitectónicas en la Edificación. Son las existentes en el interior de los edificios, tanto públicos como privados.
+3. BAT: Barreras Arquitectónicas en los Transportes. Son las existentes en los medios de transportes.
+4. BACS: Barreras en las Comunicaciones Sensoriales. Se entiende como BACS todo aquel impedimento que imposibilite o dificulte la expresión o recepción de mensajes a través de los medios o sistemas de comunicación sean o no de masas.
+c) Se considera a las personas en situación de limitación cuando temporal o permanentemente tienen limitada su capacidad de relacionarse con el medio o de utilizarlo.
+Las limitaciones más frecuentes son las provenientes de:
+1. Dificultades de maniobra: Aquellas que limitan la capacidad de acceder a los espacios y de moverse en ellos.
+2. Dificultades para salvar desniveles: Las que se presentan cuando se ha de cambiar de nivel o superar un obstáculo aislado dentro de un itinerario.
+3. Dificultades de alcance: Aquellas derivadas de una limitación de llegar a los objetos.
+4. Dificultades de control: Son las que se presentan como consecuencia de la pérdida de capacidad para realizar movimientos precisos con los miembros afectados por deficiencias.
+5. Dificultades de percepción: Son las que se presentan como consecuencia de deficiencias visuales y auditivas.
+d) Se entiende por personas con movilidad reducida aquellas que, temporal o permanentemente, tienen limitada su capacidad de desplazarse.
+e) Se entiende por ayuda técnica cualquier elemento que, actuando como intermediario entre la persona en situación de limitación o con movilidad reducida y el entorno facilite la autonomía personal o haga posible el acceso y uso del mismo.
+
+## TÍTULO II
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Disposiciones sobre Barreras Arquitectónicas Urbanísticas (BAU)
+
+## Sección primera
+
+Sección primera. Disposiciones sobre el diseño de los elementos de la urbanización
+
+### Artículo 4
+
+Artículo 4. Accesibilidad en los espacios de uso público.
+1. La planificación y la urbanización de las vías públicas, de los parques y de los demás espacios de uso público se efectuarán de forma que resulten accesibles para todas las personas y, especialmente, para las que estén en situación de limitación o con movilidad reducida.
+2. Las vías públicas, los parques y los demás espacios de uso público existentes, así como las respectivas instalaciones de servicios y mobiliarios urbanos, serán adaptados gradualmente, de acuerdo con un orden de prioridades que tendrá en cuenta la mayor eficacia y concurrencia de personas, a las reglas y condiciones previstas reglamentariamente. Los Entes locales deberán elaborar planes especiales de actuación para adaptar las vías públicas, los parques y los demás espacios de uso público a las normas de accesibilidad. Con esta finalidad los proyectos de presupuestos de los Entes públicos deberán contener, en cada ejercicio económico, las consignaciones necesarias para la finalización de dichas adaptaciones.
+3. Las Barreras Arquitectónicas Urbanísticas (BAU), pueden originarse en:
+a) Los elementos de la urbanización.
+b) El mobiliario urbano.
+4. Se considera elemento de la urbanización cualquier componente de las obras de urbanización, entendiendo por tales obras las referentes a pavimentación, saneamiento, alcantarillado, distribución de energía eléctrica, alumbrado público, abastecimiento y distribución de agua, jardinería y todas aquellas otras que materializan las indicaciones del Planeamiento Urbanístico.
+5. Se entiende por mobiliario urbano el conjunto de objetos existentes en las vías y espacios públicos, superpuestos o adosados a los elementos de la urbanización o de la edificación, de forma que su modificación o traslado no genere alteraciones sustanciales de aquellas, tales como semáforos, postes de señalización y similares, cabinas telefónicas, fuentes públicas, papeleras, veladores, toldos, marquesinas, kioscos y cualesquiera otros de naturaleza análoga.
+
+### Artículo 5
+
+Artículo 5. Itinerarios peatonales.
+1. El trazado y diseño de los itinerarios públicos o privados de uso comunitario, destinados al tráfico de peatones o al tráfico mixto de peatones y vehículos, se realizará de forma que resulten accesibles a cualquier persona, debiendo tenerse en cuenta, para ello, entre otros parámetros, la anchura mínima de paso libre de cualquier obstáculo, los grados de inclinación de los desniveles y las características de los bordillos.
+2. Las especificaciones técnicas concretas del diseño y trazado serán las siguientes:
+a) Los itinerarios peatonales se diseñarán de forma que todos los edificios de uso público o privado comunitario tengan acceso a través de un itinerario peatonal.
+b) Posee el grado de itinerario peatonal adaptado, el volumen de desarrollo continuo formado por la longitud del itinerario y un área perpendicular al suelo de 1,20 metros de ancho y 2,10 metros de altura, en el que no existe ningún obstáculo que reduzca o altere su tamaño, desde el acceso a la edificación o desde un itinerario peatonal, hasta su encuentro con otro itinerario peatonal, con pendiente longitudinal no mayor del 12 por 100 y transversal inferior al 3 por 100, sin resaltes ni rehundidos mayores de 0,5 centímetros, ni peldaños aislados o escaleras y con visibilidad suficiente del encuentro con los otros modos de desplazamiento. Su encuentro y cruce con itinerarios de otros modos de transporte (al mismo o distinto nivel), se adecuará en cuanto a sus componentes (pavimento, vados, rampas), a lo señalado en los artículos siguientes.
+Posee el grado de itinerario peatonal practicable, el itinerario en el que el área es de 0,90 metros de ancho y 2,10 metros de altura, con las restantes características iguales que el grado de adaptado.
+c) Siempre que sea posible, su trazado se realizará de forma que sea contiguo o próximo a los accesos peatonales a los edificios y, preferentemente, que uno de sus planos laterales coincida con las alineaciones de fachada o cerramientos.
+d) Los itinerarios peatonales en áreas urbanizadas deberán diseñarse y construirse con la gradación denominada adaptado, salvo:
+- Los itinerarios peatonales en áreas consolidadas resfringidas, que tendrán, como mínimo, la graduación denominada practicable.
+- Los itinerarios peatonales en áreas histórico-artísticas, que podrán utilizar soluciones diferentes a las normalizadas siempre que resulten practicables a cualquier persona.
+e) Las áreas consolidadas restringidas, a los efectos de la exigencia de gradación, serán definidas justificadamente en las figuras de planea miento urbanístico o en un Plan Especial de accesibilidad.
+Las áreas histórico-artísticas, a los mismos efectos, serán las constituidas por los elementos inventariados o declarados Bienes de Interés Cultural, las incluidas en catálogos de protección por las figuras de planeamiento urbanístico, las definidas como tales en un Plan Especial de accesibilidad, y los elementos y conjuntos de Interés Arquitectónico que se incluyan con este carácter en las legislaciones sectoriales.
+Se modifica el apartado 2 por el art. 1 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 6
+
+Artículo 6. Pavimentos.
+El pavimento de los itinerarios peatonales será duro y estable, sin piezas sueltas, salvo en los ámbitos señalados en el artículo 11, que podrá poseer una compactación mayor del 90 por 100 Proctor Modificado.
+No presentará cejas, resaltes, bordes o huecos que haga posible el tropiezo de personas, ni será deslizante en seco o mojado. Se utilizará la diferenciación de textura y color, para informar del encuentro con otros modos de transporte.
+Se modifica por el art. 2 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 7
+
+Artículo 7. Vados.
+1. El diseño y trazado de los vados tendrá en cuenta la inclinación de las pendientes, el enlace de las mismas, la anchura y el pavimento empleado. A efectos de la presente Ley se considerarán dos tipos de vados: Los destinados a la entrada y salida de vehículos a través de itinerarios peatonales y los destinados, específicamente, a la supresión de barreras arquitectónicas en los itinerarios peatonales.
+2. Las especificaciones técnicas concretas de diseño y trazado serán:
+a) Todos los vados de un itinerario peatonal son vados destinados a la supresión de barreras y se diseñarán de forma que los dos niveles a comunicar se enlacen por planos inclinados cuyas pendientes longitudinal y transversal sea como máximo 8 por 100 y 2 por 100 respectivamente. Su anchura será como mínimo de 1,80 metros y el pavimento se diferenciará en textura y color del resto del pavimento del itinerario. Sus condiciones de señalización, localización e iluminación serán las adecuadas.
+b) Los destinados a entrada y salida de vehículos que formen parte de un itinerario peatonal, se solucionarán de forma que no afecte a éste en su pendiente transversal, siendo la pendiente longitudinal máxima del 8 por 100. Sus condiciones de señalización, localización e iluminación serán las adecuadas.
+Se modifica el apartado 2 por el art. 3 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 8
+
+Artículo 8. Paso de peatones.
+1. En los pasos de peatones se tendrá en cuenta, entre otros, los parámetros que se refieren al desnivel, longitud del recorrido, isletas y tipo de paso de que se trate.
+2. Las especificaciones técnicas concretas de diseño y trazado serán:
+a) Los pasos de peatones son parte, a todos los efectos, de los itinerarios peatonales que enlazan.
+b) Su ancho mínimo será el de los vados que lo limitan.
+c) Sus características de recorrido, señalización, iluminación, posición, tiempos de recorrido y encuentro con otros elementos serán adecuados.
+Se modifica el apartado 2 por el art. 4 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 9
+
+Artículo 9. Escaleras.
+1. El diseño y trazado de escaleras deberá tener en cuenta, entre otros, los parámetros que se relacionan para permitir su uso sin dificultades al mayor número posible de personas: Directriz, recorrido, dimensiones de huella, tabica y anchura libre, mesetas, pavimento y pasamanos.
+Cualquier tramo de escaleras de un itinerario peatonal deberá ser complementado con una rampa.
+2. Las especificaciones concretas de diseño y trazado serán:
+a) En el diseño de itinérarios peatonales, sólo se situarán escaleras cuando complementen la existencia de una rampa.
+b) Su ancho libre mínimo será de 1,20 metros.
+c) Las escaleras de largos recorridos, deberán dividirse en tramos de directriz recta o ligeramente corva.
+d) Cuando existan diferentes tramos de escalera como complemento de un itinerario peatonal, se separarán entre sí por mesetas horizontales de 1,20 por 1,20 metros como mínimo.
+e) Se dotarán de pasamanos, barandillas, antepechos, protecciones, iluminación, señalización y dimensiones y características de peldaños adecuadas.
+Se modifica el apartado 2 por el art. 5 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 10
+
+Artículo 10. Rampas.
+1. El diseño y trazado de las rampas como elementos que dentro de un itinerario peatonal permiten salvar desniveles bruscos o pendientes superiores a las del propio itinerario tendrán en cuenta la directriz, las pendientes longitudinal y transversal, la anchura libre mínima y el pavimento.
+2. Las especificaciones técnicas concretas del diseño y trazado serán:
+a) A los efectos de esta Ley, se denomina rampa a la parte del itinerario peatonal con pendiente longitudinal comprendida entre 8 y 12 por 100.
+b) Su ancho mínimo será de 1,20 metros en itinerarios de grado adaptado y de 0,90 en el grado practicable.
+c) Los tramos de las rampas podrán tener pendiente hasta el 12 por 100, en tramos no mayores de 3 metros, hasta el 10 por 100, en tramos no mayores de 6 metros y hasta el 8 por 100, en tramos no mayores de 10 metros. En todos los casos su pendiente transversal no será mayor del 2 por 100 y su directriz recta o ligeramente curva.
+d) Cuando existan diferentes tramos de rampa en un itinerario, se separarán entre sí por mesetas horizontales de 1,20 por 1,20 metros como mínimo en el grado adaptado y, de 0,90 por 1,20 en el grado practicable.
+e) Se dotarán de pasamanos, barandillas, antepechos, protecciones, guías de ruedas, iluminación y señalización adecuada.
+Se modifica el apartado 2 por el art. 6 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 11
+
+Artículo 11. Parques, jardines, plazas y espacios libres públicos.
+1. Los itinerarios peatonales en parques, jardines, plazas y espacios libres públicos en general se ajustarán a los criterios señalados en artículos precedentes para itinerarios peatonales.
+2. Los aseos públicos que se dispongan en dichos espacios deberán ser accesibles y dispondrán, al menos, de un inodoro y un lavabo de las características reseñadas en el artículo 22 de la presente Ley.
+
+### Artículo 12
+
+Artículo 12. Aparcamientos.
+1. En todas las zonas de estacionamiento de vehículos ligeros, sean en superficie o subterráneas, en vías o espacios públicos, se reservarán permanentemente y tan cerca como sea posible de los accesos peatonales plazas debidamente señalizadas para vehículos que transporten personas en situación de movilidad reducida. Los accesos peatonales a dichas plazas cumplirán las especificaciones requeridas para ser accesibles, así como contarán con ascensor adaptado o practicable, según los casos, en todos los aparcamientos subterráneos.
+El número de plazas reservadas será, al menos, de una por cada 50 o fracción.
+2. Las especificaciones técnicas de diseño y trazado serán las siguientes:
+a) Se compondrán de un área de plaza y un área de acercamiento.
+Area de plaza es el espacio que requiere el vehículo al detenerse y tendrá las dimensiones mínimas establecidas por las Normas Municipales y no menor de 4,50 metros de largo por 2,20 de ancho.
+Area de acercamiento es el espacio contiguo al área de plaza que sirve para realizar, con comodidad, las maniobras de entrada y salida del vehículo destinado a transportar personas en situación de movilidad reducida permanente.
+Una misma área de acercamiento podrá ser compartida por dos áreas de plaza de estacionamiento.
+Deberá reunir las siguientes condiciones:
+- Ser contigua a uno de los lados mayores del área de plaza.
+- Poseer unas dimensiones mínimas de 1,20 de ancho en toda la longitud del área de plaza y como mínimo 4,50 metros de largo.
+- Encontrarse libre de obstáculos y fuera de cualquier zona de circulación o maniobra de vehículos.
+- Estar comunicada con, o formar parte de (salvo en el caso de vía de evacuación de edificaciones), un itinerario de peatones adaptado. En el primer caso, reunir las características de tal itinerario.
+- Situarse al mismo nivel del área de plaza o a un nivel más alto, siempre que la diferencia de altura sea inferior a 14 centímetros.
+b) Estarán señalizadas en la forma siguiente:
+El área de plaza tendrá delimitado su perímetro en el suelo, destacándose su condición por tener su superficie color azul, por incorporar el símbolo de accesibilidad o por ambas distinciones.
+El área de acercamiento se dotará de una señal vertical, en lugar visible que no represente obstáculo, compuesta por el símbolo de accesibilidad y la inscripción "reservado a personas con movilidad reducida".
+3. Los Ayuntamientos estarán obligados a reservar plazas de aparcamiento para personas en situación de movilidad reducida junto a su Centro de trabajo y domicilio.
+Se modifica el apartado 2 por el art. 7 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+## Sección segunda
+
+Sección segunda. Disposiciones sobre el diseño y ubicación del mobiliario urbano
+
+### Artículo 13
+
+Artículo 13. Señales verticales.
+1. Las señales de tráfico, semáforos, postes de iluminación o cualesquiera otros elementos verticales de señalización que deban colocarse en un itinerario o espacio de acceso peatonal se dispondrán y diseñarán de forma que no entorpezcan la circulación y puedan ser usados con la máxima comodidad.
+2. Las especificaciones técnicas de colocación y diseño serán las siguientes:
+a) No invadirán el volumen del itinerario peatonal, por lo que los elementos que representen vuelo tendrán su borde inferior a una altura superior a 2,10 metros.
+b) Su diseño y emplazamiento, se realizará teniendo en cuenta las características concretas de los desplazamientos de las personas y las de su uso, facilitando en ambos la calidad de información, seguridad y comodidad.
+c) Las características de localización, contraste, dimensión y posición, serán adecuadas.
+Se modifica el apartado 2 por el art. 8 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 14
+
+Artículo 14. Elementos urbanos varios.
+1. Los elementos urbanos de uso público, tales como cabinas u hornacinas telefónicas, fuentes, papeleras, bancos y otros análogos, se diseñarán y ubicarán de forma que puedan ser usados por todos los ciudadanos y que no se constituyan en obstáculos para el tránsito peatonal.
+Asimismo, la construcción de elementos salientes sobre las alineaciones de fachadas que interfieran un espacio o itinerario peatonal, tales como vitrinas, marquesinas, toldos y otros análogos, se realizará evitando se constituyan en obstáculos.
+2. Las especificaciones técnicas concretas que deben cumplir serán:
+a) No invadirán el volumen del itinerario peatonal.
+b) No estará permitida la construcción de salientes sobre las alineaciones de fachadas, a alturas inferiores a 2,10 metros.
+c) Su diseño y el emplazamiento tendrá en cuenta las características concretas de los desplazamientos de las personas y las de uso de los elementos, para proporcionarles seguridad y comodidad.
+d) Las características de localización, contraste, dimensión y posición, serán adecuadas.
+Se modifica el apartado 2 por el art. 9 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 15
+
+Artículo 15. Protección y señalización de las obras en la vía pública.
+1. Los andamiajes, zanjas o cualquier otro tipo de obras en la vía pública deberán señalizarse y protegerse de manera que garanticen la seguridad física de los viandantes.
+2. Las especificaciones técnicas concretas de señalización serán:
+a) Cuando afecten a un itinerario peatonal, deberán crear otro adecuadamente protegido y señalizado de día y noche, que reúna las características del grado de adaptado o practicable que corresponda al original mientras dure tal afectación.
+b) La protección se realizará mediante cierres estables y continuos, disponiéndose los mismos de manera que ocupen todo el perímetro de las alteraciones de la situación habitual de forma temporal o permanente y separadas de ellas, al menos, 0,50 metros.
+c) Las características de iluminación, señalización, cierre y visibilidad, serán adecuadas.
+Se modifica el apartado 2 por el art. 10 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+## CAPÍTULO II
+
+Disposiciones sobre barreras arquitectónicas en edificios
+
+### Artículo 16
+
+Artículo 16. Definiciones de espacios.
+A los efectos de la supresión de barreras arquitectónicas en la edificación se considerarán tres tipos de espacios, instalaciones o servicios en función de su accesibilidad para personas en situación de limitación o con movilidad reducida:
+a) Adaptados.–Se considera un espacio, una instalación o un servicio adaptado, cuando se ajusta a los requisitos funcionales y dimensionales que garantizan su utilización, de forma autónoma y con comodidad, por parte de las personas en situación de limitación o con movilidad reducida.
+b) Practicable.–Se considera un espacio, una instalación o un servicio practicable cuando, sin ajustarse a todos los requisitos anteriormente citados, no impida su utilización de forma autónoma a las personas en situación de limitación o con movilidad reducida.
+c) Convertibles.–Se considera un espacio, una instalación o un servicio convertible cuando, mediante modificaciones que no afecten a su configuración esencial, pueda transformarse, como mínimo, en practicable.
+
+## Sección primera
+
+Sección primera. Accesibilidad en los edificios de uso público
+
+### Artículo 17
+
+Artículo 17. Accesibilidad en los edificios de uso público.
+1. La construcción, ampliación y reforma de los edificios públicos o privados destinados a un uso público se efectuará de forma que resulten adaptados.
+2. Los edificios de uso público deberán permitir el acceso y uso de los mismos a las personas en situación de limitación o movilidad reducida.
+3. Los edificios comprendidos en este apartado, así como cualesquiera otros de análoga naturaleza, tienen la obligación de observar las prescripciones de esta Ley, conforme a los mínimos que reglamentariamente se determinen:
+Edificios públicos y de servicios de las Administraciones Públicas.
+Centros sanitarios y asistenciales.
+Estaciones ferroviarias, de metro y de autobuses.
+Puertos, aeropuertos y helipuertos.
+Centros de enseñanza.
+Garajes y aparcamientos.
+Museos y salas de exposiciones.
+Teatros, salas de cine y espectáculos.
+Instalaciones deportivas.
+Establecimientos comerciales a partir de 500 metros cuadrados de superficie.
+Centros religiosos.
+Instalaciones hoteleras, a partir del número de plazas que reglamentariamente se determine.
+Centro de trabajo.
+
+### Artículo 18
+
+Artículo 18. Aparcamientos en edificios.
+1. En los garajes o aparcamientos de uso público, situados en superficie o al interior de edificios, que estén al servicio de edificaciones de uso público, se reservarán plazas de estacionamiento para vehículos que transporten a personas con movilidad reducida.
+2. Su posición, número de plazas de reserva y especificaciones técnicas concretas, se establecerán reglamentariamente.
+3. En los edificios destinados a uso Administrativo (Centro de la Administración y Oficinas de compañías de suministro y de servicios públicos) o Sanitario y Asistencial (Hospitales y clínicas, centros sanitarios y de atención primaria) que no dispongan de aparcamiento o garaje de uso público, se reservará lo más cerca posible del acceso y en la vía pública, al menos una plaza de estacionamiento que reúna las condiciones indicadas en el artículo 12.2 de la presente Ley.
+Se modifica por el art. 11 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 19
+
+Artículo 19. Accesos al interior de la edificación.
+Uno, al menos, de los accesos al interior de la edificación deberá estar desprovisto de barreras arquitectónicas y obstáculos que impidan o dificulten la accesibilidad.
+En el caso de un conjunto de edificios e instalaciones, uno, al menos, de los itinerarios peatonales que los unan entre sí y con la vía pública deberá cumplir las condiciones establecidas para dichos itinerarios y deberá estar debidamente señalizado.
+
+### Artículo 20
+
+Artículo 20. Comunicación horizontal.
+1. Al menos uno de los itinerarios que comuniquen horizontalmente todas las dependencias y servicios del edificio, entre sí y con el exterior, deberá ser accesible.
+2. Las especificaciones técnicas de diseño y trazado serán:
+a) Posee el grado de itinerario horizontal adaptado, el volumen de desarrollo continuo formado por la longitud del itinerario y un área perpendicular al suelo de 1,20 metros de ancho y 2,10 metros de altura, en el que no existe ningún obstáculo que reduzca o altere su tamaño, desde el acceso a la edificación o desde un itinerario peatonal, hasta su encuentro con las dependencias y servicios que une, con pendiente longitudinal no mayor del 12 por 100 de acuerdo con el artículo 10.c), sin resaltes ni rehundidos, ni peldaños aislados o escaleras y con visibilidad suficiente del encuentro con otros itinerarios. Su encuentro con otros itinerarios deberá permitir inscribir un círculo de 1,50 metros de diámetro. Sólo se permite su estrechamiento en los huecos de paso situados en su recorrido, siempre que éstos sean mayores de 8,80 metros libres de obstáculos y dispongan de espacio no obstruido por el movimiento de las puertas, antes y después del mismo de 1,20 metros de fondo.
+b) Las características del pavimento, iluminación, señalización y elementos que se sitúan en su recorrido serán las adecuadas.
+Se modifica el apartado 2 por el art. 12 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 21
+
+Artículo 21. Comunicación vertical.
+1. Al menos uno de los itinerarios que unan las dependencias y servicios en sentido vertical deberá ser accesible, teniendo en cuenta para ello y como mínimo el diseño y trazado de escaleras, ascensores, tapices rodantes y espacios de acceso.
+2. Las especificaciones técnicas concretas serán las siguientes:
+a) Posee el grado de itinerario vertical adaptado, aquel que permite el acceso y evacuación con fiabilidad, tal como aquel que dispone de rampas y ascensores.
+b) Se pondrán ascensores cuando la solución permita garantizar su disponibilidad y exista un plan de evacuación que detalle las condiciones de acceso de personas en función de la exigencia de evacuación, y siempre que al menos uno de los ascensores tenga un fondo mínimo de cabina, en el sentido del acceso, de 1,20 metros, con un ancho mínimo de cabina de 0,90 metros y una superficie mínima de 1,20 metros cuadrados. Las puertas en recinto y cabina serán automáticas, tendrán un mínimo de 0,80 metros y los botones de mando en los espacios de acceso e interior de cabina se colocarán a una altura inferior a 1,20 metros y contarán con sistemas de información alternativos a la numerología arábiga, además de ésta. Los botones de alarma deberán ser identificados visual y táctil mente. En las paredes de las cabinas se contará con pasamanos a una altura de 0,90 metros.
+c) En la reforma de edificios de uso público, el itinerario vertical adaptado podrá disponer de elementos mecánicos o soluciones técnicas distintas a los anteriores para facilitar su acceso y evacuación, de acuerdo con las exigencias que reglamentariamente se establezcan.
+d) Las características de los elementos complementarios como escaleras o tapices rodantes, así como las exigencias de iluminación, señalización y funcionamiento serán las adecuadas.
+Se modifica el apartado 2 por el art. 13 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 22
+
+Artículo 22. Aseos.
+1. Al menos uno de los aseos que se dispongan en los edificios de uso público deberá ser accesible, disponiéndose sus elementos de manera que puedan ser usados por cualquier persona.
+2. Las especificaciones técnicas concretas serán:
+a) La posición en el edificio reducirá el desplazamiento de las personas de acuerdo con la intensidad de uso previsto.
+b) Sus condiciones dimensionales, facilidades funcionales y características de los elementos y dotaciones, serán los adecuados.
+c) La proporción de aseos adaptados dependerá del aforo de personas.
+Se modifica el apartado 2 por el art. 14 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 23
+
+Artículo 23. Servicios e instalaciones.
+1. En todos aquellos elementos de la construcción de los servicios e instalaciones de general utilización se tendrán en cuenta los parámetros fijados en los artículos precedentes para asegurar el acceso y uso de los mismos, así como parámetros específicos de diseño en el mobiliario.
+2. Las especificaciones técnicas referidas a algunos de los servicios más frecuentes serán las siguientes:
+a) El mobiliario de atención al público dispondrá de una zona con el plano de trabajo a una altura máxima de 1,10 metros y con un tramo que carezca de obstáculos en su parte inferior y tenga, al menos, 0,80 metros de longitud por 0,80 metros de altura.
+b) La posición dentro del edificio de los servicios e instalaciones de uso público se realizará teniendo en cuenta las características concretas de los desplazamientos de las personas y las de su uso, facilitando en ambos la calidad de información, seguridad y comodidad.
+c) Las características dimensionales y de facilidad funcional serán adecuadas.
+Se modifica el apartado 2 por el art. 15 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 24
+
+Artículo 24. Espacios reservados.
+1. Los locales de espectáculos, aulas y otros análogos dispondrán de espacios reservados a personas que utilicen sillas de ruedas. Se destinarán zonas específicas para personas con deficiencias auditivas o visuales donde las dificultades disminuyan.
+2. La proporción de espacios reservados y de zonas específicas dependerá del aforo, disponiéndose tanto como reserva permanente como en la forma de espacios convertibles.
+3. Los espacios reservados estarán debidamente señalizados.
+Se modifica el apartado 2 por el art. 16 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+### Artículo 25
+
+Artículo 25. Control de las condiciones de accesibilidad.
+Si las obras realizadas no se ajustasen al proyecto autorizado y se comprobara que no se han cumplido las condiciones de accesibilidad, se instruirá el procedimiento establecido por la legislación urbanística vigente.
+
+## Sección segunda
+
+Sección segunda. Accesibilidad en los edificios de uso privado
+
+### Artículo 26
+
+Artículo 26. Accesibilidad en los edificios de uso privado.
+1. Los edificios de uso privado de nueva construcción en los que sea obligatoria la instalación de ascensor deberán cumplir los siguientes requisitos mínimos de accesibilidad:
+a) Dispondrán de un itinerario practicable que una las entidades o viviendas con el exterior y con las dependencias de uso comunitario que están a su servicio.
+b) Dispondrán de un itinerario practicable que una la edificación con la vía pública, con edificaciones o servicios anexos de uso comunitario y con edificios vecinos.
+c) La cabina del ascensor, así como sus puertas de entrada, serán practicables para personas con movilidad reducida o cualquier otra limitación.
+2. Cuando estos edificios de nueva construcción tengan una altura superior a planta baja y piso, a excepción de las viviendas unifamiliares, y no estén obligados a la instalación de ascensor, se dispondrán las especificaciones técnicas y de diseño que faciliten la posible instalación de un ascensor practicable. El resto de los elementos comunes de estos edificios deberán reunir los requisitos de practicabilidad.
+
+## Sección tercera
+
+Sección tercera. Reserva de viviendas para personas en situación de movilidad reducida
+
+### Artículo 27
+
+Artículo 27. Viviendas para personas con movilidad reducida permanente.
+1. Con el fin de garantizar el acceso a la vivienda de las personas con movilidad reducida permanente, en los programas anuales de promoción pública se reservará un porcentaje no inferior al 3 por 100 del volumen total para satisfacer la demanda de vivienda de estos colectivos, de la forma que reglamentariamente se establezca.
+2. En las promociones de viviendas de Protección Oficial, los promotores, ya sean sociales o privados, deberán reservar, en los proyectos que presenten para su aprobación, la proporción mínima que se establezca reglamentariamente y, en todo caso, respetando el mínimo establecido en el apartado anterior para personas con movilidad reducida permanente.
+3. Los edificios en que existan viviendas para personas en situación de movilidad reducida permanente deberán tener adaptados los elementos comunes de acceso a dichas viviendas, las dependencias de uso comunitario del servicio de las mismas, un itinerario peatonal, al menos, que una la edificación con la vía pública, con servicios o edificaciones anejas o con edificios vecinos y los itinerarios interiores de dichas viviendas.
+4. Un porcentaje, que se establecerá reglamentariamente en función de la demanda existente de la reserva de viviendas contempladas en el apartado 1 de este artículo, será convertible para personas con discapacidad grave o total con unos servicios que permitan la adaptación de la vivienda a este uso especial.
+5. Todos aquellos proyectos privados que programen, al menos en un 3 por 100 del total, viviendas adaptadas a las necesidades de las personas con movilidad reducida permanente tendrán preferencia en la obtención de subvenciones, ayudas económicas, créditos o avales concedidos por el Consejo de Gobierno de la Comunidad de Madrid.
+Se modifica el apartado 4 por el art. 6.2 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2025-3304
+
+### Artículo 28
+
+Artículo 28. Garantía de la realización de las adaptaciones interiores de las viviendas reservadas.
+Los promotores privados de viviendas de protección oficial podrán sustituir las adaptaciones interiores de las viviendas reservadas para personas con movilidad reducida, al solicitarse la calificación definitiva, por depósito de un aval suficiente, en los términos y condiciones que se establezcan reglamentariamente, de una entidad financiera legalmente reconocida que garantice la realización de las obras necesarias para las adaptaciones correspondientes. Estas viviendas serán adjudicadas prioritariamente a personas en situación de movilidad reducida y a Entidades públicas o privadas con personalidad jurídica propia y sin finalidad de lucro en el plazo que prevé la legislación vigente, para dedicarlos a minirresidencias, pisos compartidos o cualquier tipo de vivienda destinado a personas con limitaciones, en los términos establecidos en el Decreto 23/1987, de 26 de marzo.
+
+### Artículo 29
+
+Artículo 29. Accesibilidad de los elementos comunes.
+Los propietarios o usuarios de viviendas pueden llevar a cabo las obras de adaptación necesarias para que sus interiores o elementos y los servicios comunes de los edificios de vivienda puedan ser utilizados por personas con movilidad reducida que habiten o deseen habitar en ellos.
+
+## CAPÍTULO III
+
+Disposiciones sobre barreras en los transportes públicos
+
+## Sección primera
+
+Sección primera. Accesibilidad en los transportes públicos
+
+### Artículo 30
+
+Artículo 30. Accesibilidad en los transportes públicos.
+1. Los transportes públicos de viajeros y, especialmente, los de titularidad de la Comunidad de Madrid, o en los que participe de manera consorciada, observarán lo dispuesto en la presente Ley, en los términos contemplados en los apartados siguientes.
+2. En cualquier caso, el material de nueva adquisición deberá estar adaptado a las medidas técnicas que se establezcan.
+3. Las Administraciones Públicas competentes en el ámbito del transporte público elaborarán y mantendrán anualmente actualizado un plan de supresión de barreras y de utilización y adaptación progresiva de los transportes públicos colectivos, especificando tipo y número de vehículos afectados por la presente Ley, dotaciones técnicas mínimas y régimen de utilización.
+4. En las poblaciones en que reglamentariamente se determine existirá un vehículo especial o taxi acondicionado, que cubra las necesidades de desplazamiento de personas con movilidad reducida.
+
+### Artículo 31
+
+Artículo 31. Proyectos de nueva construcción, reestructuración o adaptación.
+1. Los proyectos de nueva construcción, reestructuración o adaptación de las estaciones de metro, ferrocarril y autobuses, deberán ajustarse a lo dispuesto en la presente Ley en todas aquellas cuestiones referidas a construcción, itinerarios, servicios y mobiliario que sean comunes con otros edificios o servicios públicos, debiendo contemplar adaptaciones específicas en lo no señalado con anterioridad, como señalización, sistemas de información y andenes, entre otros.
+2. Las especificaciones técnicas concretas serán, al menos, las siguientes:
+a) Las zonas del borde de los andenes de las estaciones se señalizarán con una franja de pavimento antideslizante de textura y color distinta, al objeto de que se pueda detectar a tiempo el cambio de nivel existente entre el andén y las vías.
+b) En los espacios de recorrido interno en que hayan de sortearse torniquetes u otros mecanismos se dispondrá de un paso alternativo que cumpla los requisitos señalados en el artículo 20.
+c) En acceso, andenes e interior de coches se suprimirá el efecto cortina, evitando además reflejos y deslumbramientos mediante una adecuada iluminación.
+d) En las estaciones de ferrocarril de ciudades de más de 50.000 habitantes se dispondrá de personal al efecto para facilitar la entrada y salida del tren de las personas en situación de movilidad reducida.
+e) Contarán con equipos de megafonía, además de con sistemas de información visual, mediante los que pueda informarse a los viajeros de las llegadas, salidas, así como de cualesquiera otras incidencias o noticias.
+
+### Artículo 32
+
+Artículo 32. Proyectos de adquisición de material móvil.
+1. Los proyectos de adquisición de material móvil deberán tener en cuenta aquellos modelos que por altura de la plataforma del vehículo, sistemas de acceso y descenso de información, de iluminación, de seguridad, etc., sean los más apropiados para su uso por cualquier persona.
+En los autobuses urbanos e interurbanos, metro y ferrocarriles deberán reservarse a personas en situación de movilidad reducida, al menos, dos plazas por coche.
+2. Las especificaciones técnicas que, al menos, deberán ser tenidas en cuenta son las siguientes:
+a) Los asientos reservados serán abatibles, irán provistos de cinturón de seguridad, se situarán próximos a las puertas de entrada y estarán adecuadamente señalizados. Se dispondrá, al menos, de un timbre de aviso de parada en lugar fácilmente accesible.
+b) En caso de vehículos subterráneos, cada uno de ellos contará con un equipo de megafonía, además de la información visual, que permita a los viajeros conocer, con suficiente antelación, la llegada a la parada o estación.
+c) El piso de todos y cada uno de los vehículos de transporte será antideslizante.
+d) En autobuses urbanos e interurbanos, y con el fin de evitar que las personas en situación de movilidad reducida atraviesen todo el vehículo, estas podrán desembarcar por la puerta de entrada si se encuentra más próxima a la taquilla de control.
+e) Las puertas de los vehículos contarán con mecanismos automáticos de seguridad para caso de aprisionamiento en cierre.
+f) Contarán con espacios reservados, señalizados y dotados de anclajes y cinturones de seguridad, para viajeros usuarios de silla de ruedas.
+g) El cambio de velocidades deberá reunir los mecanismos técnicos necesarios para la eliminación de las variaciones bruscas de aceleración que pueda comportar su manejo.
+
+## Sección segunda
+
+Sección segunda. Accesibilidad en los transportes privados
+
+### Artículo 33
+
+Artículo 33. Accesibilidad en los transportes privados.
+1. Al objeto de que las personas en situación de movilidad reducida y que lo necesiten puedan estacionar su vehículo sin verse obligados a efectuar largos desplazamientos, los Ayuntamientos deberán aprobar normativas que faciliten esas actuaciones.
+2. Las especificaciones concretas que contemplarán, como mínimo, dichas normativas municipales serán las siguientes:
+a) Permitir a dichas personas aparcar sus vehículos más tiempo que el autorizado en los lugares de tiempo limitado.
+b) Reservar, en los lugares en donde se compruebe que es necesario, plazas de aparcamiento,cumpliéndose los requisitos reseñados en el artículo 12.
+c) Permitir a los vehículos ocupados por dichas personas estacionar en cualquier lugar de la vía pública durante el tiempo imprescindible y siempre que no se entorpezca la circulación de vehículos o peatones.
+d) Proveer a las personas que puedan beneficiarse de las facilidades descritas, de una tarjeta de estacionamiento para personas con discapacidad adaptada a las Recomendaciones de las Comunidades Europeas, junto con las normas de utilización y su ámbito de aplicación. La tarjeta se podrá utilizar en todo el territorio de la Comunidad de Madrid y sus beneficios alcanzarán a los ciudadanos de los países de la Unión Europea que reúnan los requisitos que reglamentariamente se establezcan.
+Se modifica la letra d) del apartado 2 por el art. 6.3 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2025-3304
+ Se modifica el apartado 2 por el art. 17 del Decreto 138/1998, de 23 de julio, publicado en el BOCM núm. 179, de 30 de julio de 1998.
+
+## CAPÍTULO IV
+
+Disposiciones sobre barreras en la comunicación sensorial
+
+### Artículo 34
+
+Artículo 34. Accesibilidad en los sistemas de comunicación sensorial y señalización.
+1. El Consejo de Gobierno de la Comunidad de Madrid promoverá la supresión de las barreras sensoriales en la comunicación y el establecimiento de los mecanismos y alternativas técnicas que hagan accesibles los sistemas de comunicación y señalización a toda la población, garantizando de esta forma el derecho a la información, la comunicación, la cultura, la enseñanza, el ocio y el trabajo.
+2. El Consejo de Gobierno de la Comunidad de Madrid impulsará la formación de profesionales intérpretes de la lengua de signos española y guías para personas sordociegas a fin de facilitar cualquier tipo de comunicación directa a las personas en situación de limitación que lo precisen, instando a las distintas Administraciones públicas a dotarse de este personal especializado.
+3. Los medios audiovisuales de las Administraciones Públicas elaborarán un plan de medidas técnicas que de forma gradual permita, mediante el uso de lenguaje mímico o subtitular, garantizar el derecho a la información.
+Se modifica el apartado 2 por el art. 6.4 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2025-3304
+
+## CAPÍTULO V
+
+Disposiciones sobre ayudas técnicas
+
+### Artículo 35
+
+Artículo 35. Ayudas técnicas.
+1. El Consejo de Gobierno de la Comunidad de Madrid promoverá la superación de barreras urbanísticas, arquitectónicas, del transporte y de la comunicación mediante las ayudas técnicas.
+2. El Consejo de Gobierno de la Comunidad de Madrid fomentará el uso de las ayudas técnicas y potenciará su investigación por ser elementos que aportan soluciones a situaciones no resueltas mediante otras fórmulas, tales como acceso a edificios de valor histórico o en reformas muy costosas, no previstas con antelación o no reglamentadas.
+3. Las Administraciones Públicas pondrán a disposición del público las ayudas técnicas necesarias en sus servicios e instalaciones y facilitarán la financiación para la adquisición y uso de las mismas cuando se precisen.
+
+## TÍTULO III
+
+Medidas de fomento
+
+### Artículo 36
+
+Artículo 36. Fondo para la supresión de barreras arquitectónicas.
+1. Se crea el Fondo para la Supresión de Barreras, que estará dotado de los recursos a que se refieren los apartados siguientes.
+2. El Consejo de Gobierno, a propuesta de las Consejerías competentes por razón de la materia, destinará partidas presupuestarias finalistas en cada ejercicio para financiar la eliminación de barreras arquitectónicas, urbanísticas y de la comunicación sensorial, así como para la dotación de ayudas técnicas.
+3. Anualmente se destinará un porcentaje de esta partida presupuestaria para subvencionar los programas específicos de los Entes locales para la supresión de barreras en el espacio urbano, los edificios de uso público y el transporte de su término municipal.
+Estos programas específicos de actuación contendrán, como mínimo, un inventario de los espacios, edificios, locales y medios de transporte que deban ser objeto de adaptación, el orden de prioridades en que se ejecutarán y los plazos de ejecución del proyecto.
+Tendrán prioridad para la citada financiación los Entes locales que, mediante convenio, se comprometan a asignar una partida presupuestaria similar o igual en porcentaje a la de la Comunidad de Madrid, para la eliminación de barreras.
+4. Sin perjuicio de lo previsto en el punto anterior, los Ayuntamientos de la Comunidad de Madrid deberán establecer en sus presupuestos anuales las partidas presupuestarias precisas para el cumplimiento de las obligaciones contempladas en la presente Ley, con arreglo a su respectivo ámbito de competencia.
+Dichas partidas serán tenidas en cuenta por el Fondo a que se refiere el apartado 1 de este artículo, a los meros efectos de información, coordinación y utilización globalmente racional de los recursos públicos aplicables al cumplimiento de la presente Ley.
+Para ello los Ayuntamientos comunicarán a la Comunidad de Madrid, tras la aprobación de sus presupuestos, la cuantía y finalidad de los Programas aprobados a tal fin.
+5. Asimismo, se destinará una parte de la partida presupuestaria de la Comunidad de Madrid al concierto o subvención de Entidades privadas y a particulares para la supresión de barreras y ayudas técnicas, siempre que no suponga ánimo de lucro por parte de los mismos.
+El régimen jurídico de dichos conciertos, subvenciones y ayudas se establecerá reglamentariamente.
+6. Asimismo, integrarán dicho Fondo las multas y sanciones económicas que se recauden como consecuencia de la aplicación del régimen sancionador regulado en el título V, tanto de la Comunidad Autónoma como de sus Ayuntamientos, así como los avales contemplados en el artículo 28 que se ejecuten y cualquier otro ingreso, cualquiera que sea su naturaleza y que legalmente proceda.
+Asimismo, se integrarán en el referido Fondo las donaciones, herencias y legados que, por voluntad expresamente manifestada, deban dedicarse a los fines contemplados en la presente Ley.
+7. El régimen jurídico, funcionamiento y gestión del referido Fondo se determinará reglamentariamente, mediante Decreto del Consejo de Gobierno.
+
+## TÍTULO IV
+
+Medidas de control
+
+### Artículo 37
+
+Artículo 37. Licencias y autorizaciones municipales.
+El cumplimiento de los preceptos de la presente Ley será exigible para la aprobación de los instrumentos de planeamiento y de su ejecución, así como para la concesión de las preceptivas licencias y autorizaciones municipales.
+
+### Artículo 38
+
+Artículo 38. Visado de los proyectos técnicos.
+Los colegios profesionales que tengan atribuida competencia en el visado de los proyectos técnicos necesarios para la obtención de las licencias denegarán los visados si los proyectos comportaran alguna infracción sobre supresión de barreras de las contenidas en esta Ley.
+
+### Artículo 39
+
+Artículo 39. Contratos administrativos.
+Los pliegos de condiciones de los contratos administrativos contendrán cláusulas de adecuación a lo dispuesto en la presente Ley.
+
+### Artículo 40
+
+Artículo 40. Control de las condiciones de accesibilidad.
+1. Si las obras realizadas no se ajustasen al proyecto autorizado y se comprobara que no se han cumplido las condiciones de accesibilidad, se instruirá el procedimiento establecido por la legislación urbanística vigente.
+2. Los Ayuntamientos y demás órganos competentes para la aprobación de los instrumentos de planeamiento y ejecución y proyectos de todo tipo que contengan supuestos a los que resulte de aplicación lo regulado por la presente Ley comprobarán la adecuación de sus determinaciones a la presente normativa.
+3. En la documentación correspondiente se indicará de manera clara y detallada su cumplimiento, con descripción de las medidas adoptadas.
+El símbolo internacional de accesibilidad, indicador de la no existencia de barreras arquitectónicas, será de obligada instalación en los edificios de uso público y transportes públicos en que aquellas no existan.
+
+## TÍTULO V
+
+Régimen sancionador
+
+### Artículo 41
+
+Artículo 41. Infracciones.
+1. Las acciones u omisiones que contravengan las normas sobre supresión de barreras arquitectónicas constituyen infracción y serán sancionadas con arreglo a lo dispuesto en la presente Ley.
+2. Las infracciones en atención a la libertad de acceso, ya sea al medio urbano, de edificación, de transporte o de comunicación, de las personas protegidas por la presente Ley, y a su incidencia tendrán la consideración de muy graves, graves y leves.
+3. Tienen carácter de muy grave las infracciones que impidan el libre acceso y uso de cualquier medio o espacio infringiendo lo establecido en la presente Ley, y, en especial, las siguientes:
+a) El incumplimiento de las normas sobre supresión de barreras arquitectónicas urbanísticas, en las obras de urbanización y su mobiliario de nueva construcción, ampliación y reforma de espacios destinados al uso público.
+b) El incumplimiento en el ámbito de la supresión de barreras arquitectónicas en la edificación, construcción, ampliación o reforma de edificios de propiedad pública o privada destinados a servicios públicos o a un uso que implique la concurrencia de público.
+c) El incumplimiento de la reserva de viviendas establecida en el artículo 27 de la presente Ley.
+4. Tienen carácter de grave las infracciones normativas que obstaculicen, limiten o dificulten de forma muy importante el libre acceso a cualquier medio, y, en especial, las siguientes:
+a) El incumplimiento de las condiciones de accesibilidad en los edificios de nueva construcción o rehabilitados totalmente que deban ser destinados a la vivienda.
+b) El incumplimiento de las condiciones de adaptación en los transportes públicos de viajeros de nueva adquisición por las Empresas del sector.
+c) El incumplimiento de las condiciones de adaptación en los sistemas de comunicación y señalización.
+5. Tienen carácter de leve las acciones u omisiones que contravengan las normas sobre supresión de barreras arquitectónicas, pero no impidan la utilización del espacio, el equipamiento, la vivienda o el medio de transporte y los sistemas de comunicación por personas en situación de limitación o con movilidad reducida y ocasionen perjuicio moderado en el libre acceso al medio.
+
+### Artículo 42
+
+Artículo 42. Sanciones.
+1. Las sanciones que podrán imponerse en función de la calificación de la infracción serán las siguientes:
+a) Por faltas muy graves, multa de 10.000.001 a 50.000.000 de pesetas.
+b) Por faltas graves, multa de 1.000.001 a 10.000.000 de pesetas.
+c) Por faltas leves, multa de 50.001 a 1.000.000 de pesetas.
+2. Para graduar el importe de las multas se tendrá en cuenta la gravedad de la infracción, el coste económico derivado de las actuaciones de accesibilidad necesarias, el perjuicio directa o indirectamente causado, la reiteración del responsable y el grado de culpa de cada uno de los infractores.
+3. En las obras y demás actuaciones que se ejecutaran con inobservancia de las cláusulas de la licencia, en el tema de que se trata, serán sancionados con multa, en las cuantías determinadas en la presente Ley, el empresario de las obras, el técnico director de las mismas y, subsidiariamente, el promotor.
+4. En las obras amparadas en una licencia municipal cuyo contenido sea manifiestamente constitutivo de una infracción muy grave o grave serán igualmente sancionados con la multa mencionada en el apartado anterior, el facultativo que hubiera informado favorablemente el proyecto y los miembros de la Corporación que hubieran votado a favor del otorgamiento de la licencia sin el informe técnico previo, cuando este o el informe previo del Secretario fuesen desfavorables por razón de aquella infracción.
+5. Las multas que se impongan a los diferentes sujetos como consecuencia de una misma infracción tendrán entre sí carácter independiente.
+6. El importe de estas multas se ingresará en el Fondo que se crea en el artículo 36 de la presente Ley, habilitándose al Consejo de Gobierno para que mediante Decreto proceda periódicamente a la actualización de las respectivas cantidades de las multas.
+
+### Artículo 43
+
+Artículo 43. Procedimiento sancionador.
+1. Las infracciones de las normas reguladoras de la supresión de barreras arquitectónicas cometidas por particulares serán sancionadas de acuerdo con lo dispuesto en los artículos 127 al 138 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. Si un Ente local fuera advertido, por la Administración de la Comunidad de Madrid, de un hecho constitutivo de cualquiera de las infracciones determinadas en la presente Ley, y este no iniciara el procedimiento sancionador en el plazo de un mes, la multa que se imponga como consecuencia del expediente sancionador incoado por la Comunidad de Madrid será recibida por esta.
+Las personas protegidas por la presente Ley o las Asociaciones en las que se integren tendrán siempre la consideración de interesadas en estos procedimientos en los términos previstos en el artículo 31 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Contra el acuerdo de archivo de las actuaciones o resolución desestimatoria, expresa o tácita, de la denuncia o puesta en conocimiento de la Administración de posibles infracciones sobre barreras, las Asociaciones antes referidas quedarán legitimadas para interponer los recursos o, en su caso, las acciones judiciales que consideren procedentes.
+
+### Artículo 44
+
+Artículo 44. Órganos competentes.
+Las autoridades competentes para imponer sanciones y los límites máximos de las mismas son los siguientes:
+a) Los Alcaldes: En los municipios que no excedan de 10.000 habitantes, hasta un máximo de 100.000 pesetas.
+En los municipios que no excedan de 50.000 habitantes, hasta un máximo de 500.000 pesetas.
+En los municipios de hasta 100.000 habitantes, multas de hasta 1.000.000 de pesetas.
+En los municipios que no excedan de 500.000 habitantes, multas de hasta un máximo de 5.000.000 de pesetas.
+En los municipios de más de 500.000 habitantes, multas de hasta un máximo de 10.000.000 de pesetas.
+b) La Dirección General del Departamento correspondiente por razón de la materia, hasta 25.000.000 de pesetas, con independencia del número de habitantes del municipio.
+c) El Consejero competente por razón de la materia, hasta 50.000.000 de pesetas, con independencia del número de habitantes del municipio.
+
+### Artículo 45
+
+Artículo 45. Prescripción.
+Las infracciones muy graves prescribirán a los diez años.
+Las infracciones graves prescribirán a los cuatro años.
+Las infracciones leves prescribirán al año.
+El plazo de prescripción empezará a computarse desde que la Administración competente hubiera tenido conocimiento de la misma.
+
+## TÍTULO VI
+
+Consejo para la Promoción de la Accesibilidad y la Supresión de Barreras
+
+### Artículo 46
+
+Artículo 46. Consejo para la Promoción de la Accesibilidad y la Supresión de Barreras.
+1. Se crea el Consejo para la Promoción de la Accesibilidad y la Supresión de Barreras (en lo sucesivo, el Consejo), como órgano de participación externa y consulta, adscrito a la Consejería competente para la coordinación de actuaciones en este ámbito.
+2. El Gobierno de la Comunidad de Madrid nombrará mediante Acuerdo a los miembros del Consejo, que serán designados de la siguiente forma:
+a) La mitad de los miembros serán designados por el Gobierno de la Comunidad de Madrid e incluirá representantes de las Consejerías más directamente afectadas por la promoción de la accesibilidad y la supresión de barreras, junto con los expertos que se considere oportuno.
+b) La otra mitad de los miembros serán designados por las instituciones, organizaciones y asociaciones representadas, con arreglo a la siguiente distribución:
+Un representante de cada Grupo parlamentario, designado por el Pleno de la Asamblea.
+Un representante de la Federación Madrileña de Municipios.
+Un representante del Ayuntamiento de Madrid.
+Un representante de las entidades que agrupen a los personas con discapacidad física, otro de las que agrupen a las personas con discapacidad psíquica y otro de las que agrupen a los personas con discapacidad sensorial.
+Dos representantes elegidos por las organizaciones que, conforme a lo dispuesto por el artículo 7 de la Ley Orgánica de Libertad Sindical, tengan la consideración de centrales sindicales intersectoriales más representativas en el ámbito de la Comunidad de Madrid; y dos representantes de las organizaciones intersectoriales de empresarios más representativas de la Comunidad de Madrid.
+Un representante de la Federación Regional de Asociaciones de Vecinos.
+Un representante del Consejo Regional de Mayores, designado por el mismo de entre sus vocales que representen a las asociaciones, federaciones, entidades y centros sin fin de lucro de personas mayores.
+3. El Presidente del Consejo será el titular de la Consejería a la que esté adscrito.
+4. El Secretario del órgano será una persona al servicio de la Consejería de adscripción, nombrada por el Presidente del Consejo.
+5. El Consejo tiene funciones, con carácter general, de asesoramiento, información, propuestas de criterios de actuación y fomento de lo dispuesto en la presente Ley, así como de aquellas otras que reglamentariamente se le atribuyan.
+A tal fin, gozará concretamente de las siguientes funciones:
+a) Recibir información de las distintas Consejerías, así como de la Federación Madrileña de Municipios, con el fin de actuar como coordinador en la materia de los distintos programas a la hora de proponer actuaciones concretas relacionadas con el tema.
+b) Ser informado, por la Consejería de Hacienda, sobre los créditos presupuestarios del Proyecto de Presupuestos Generales de la Comunidad de Madrid destinados al cumplimiento de las previsiones contenidas en la presente Ley.
+c) Ser informado de los criterios de organización y funcionamiento del Fondo a que se refiere el artículo 36 de esta Ley.
+d) Emitir informe sobre los proyectos de disposiciones reglamentarias de desarrollo de la presente Ley, así como de aquellas disposiciones que se dicten al amparo de la habilitación contemplada en la disposición adicional primera.
+e) Recibir información anual sobre las realizaciones y grado de cumplimiento de las previsiones contenidas en la presente Ley, para la evaluación de los resultados de todas las actuaciones, tanto de la Comunidad como de los Ayuntamientos.
+Téngase en cuenta que el Consejo de Gobierno podrá modificar la composición del Consejo para la Promoción de la Accesibilidad y la Supresión de Barreras mediante Decreto publicado únicamente en el BOCM, según se establece en la disposición final 3.
+Se modifica el apartado 5.b) y c) por el art. 22 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+ Se modifica por el art. 19 de la Ley 24/1999, de 27 de diciembre. Ref. BOE-A-2000-3766.
+ Redactado conforme a la corrección de errores publicada en el BOCAM núm. 31, de 7 de febrero de 2000.
+ Se modifica el apartado 2 por el art. 1 de la Ley 10/1996, de 29 de noviembre. Ref. BOE-A-1997-6475.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Consejo de Gobierno, en el plazo de un año, deberá aprobar el Código de Accesibilidad, que refundirá toda la normativa existente en la Comunidad de Madrid en relación con la accesibilidad en materia de urbanismo y edificación, transporte, comunicación sensorial y ayudas técnicas, y que se mantendrá periódicamente actualizada.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El Consejo de Gobierno de la Comunidad de Madrid determinará anualmente un porcentaje de las partidas presupuestarias de inversión directa para la eliminación de barreras arquitectónicas existentes en los edificios de uso público de su titularidad o sobre aquellos en que, por cualquier título, disponga de su uso.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Los planes de adaptación y supresión de barreras arquitectónicas dispuestos en la presente Ley serán elaborados por las correspondientes Administraciones públicas en el plazo de un año, a contar desde la entrada en vigor de la presente Ley, y su planificación formulará previsiones a un plazo máximo de doce años para la total virtualidad de los objetivos de la presente Ley.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+El Consejo de Gobierno de la Comunidad de Madrid promoverá campañas informativas y educativas dirigidas a la población en general, y a la población infantil y juvenil en particular, con el fin de sensibilizarla en el problema de la accesibilidad y de la integración social de personas con limitación, en cumplimiento del mandato constitucional de los artículos 9.2 y 49.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Todas aquellas Leyes sectoriales que afecten en esta materia contendrán previsiones para la eliminación de barreras arquitectónicas.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+El Consejo de Gobierno establecerá en el plazo de dos años, desde la entrada en vigor de la presente Ley, un plan de control sobre la ejecución de actuaciones en materia de supresión de barreras.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+Lo dispuesto en esta Ley no será de aplicación en los edificios o inmuebles declarados bienes de interés cultural o edificios de valor histórico-artístico, cuando las modificaciones necesarias comporten un incumplimiento de la normativa específica reguladora de estos bienes histórico-artísticos.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+El Consejo de Gobierno de la Comunidad de Madrid, en el plazo de un año, desarrollará las normas sobre subvenciones, conciertos y ayudas destinadas a la consecución de la accesibilidad.
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+(Derogada)
+Se deroga por la disposición derogatoria de la Ley 23/1998 de 21 de diciembre. Ref. BOE-A-1999-11714.
+
+### Disposición adicional décima
+
+Disposición adicional décima.
+1. Los planes generales de ordenación urbana, las normas subsidiarias y demás instrumentos de planeamiento y ejecución que los desarrollan, así como los proyectos de urbanización y de obras ordinarias, garantizarán la accesibilidad, y no serán aprobados si no se observan las determinaciones y los criterios varios establecidos en la presente Ley y en los Reglamentos correspondientes.
+2. Las Ordenanzas de edificación vigentes se adaptarán a las previsiones de esta Ley y demás disposiciones que la desarrollan. Los Ayuntamientos llevarán a cabo las adaptaciones de sus Ordenanzas, en cuanto quede dispuesto en la presente Ley, en el plazo de un año, sin perjuicio de la eficacia de la misma desde su entrada en vigor.
+
+### Disposición final primera
+
+Disposición final primera.
+1. Se faculta al Consejo de Gobierno a que por Decreto, previo informe del Consejo previsto en el artículo 46 de esta Ley, pueda modificar cualquiera de las especificaciones técnicas a que se refiere el apartado siguiente, cuando razones objetivas y la propia realidad y finalidad social así lo aconsejen.
+2. El alcance de la facultad a que se refiere el apartado anterior se extiende a los siguientes preceptos: Artículos 5.2, 6, 7.2, 8.2, 9.2, 10.2, 12.2, 13.2, 14.2, 15.2, 18, 20.2, 21.2, 22.2, 23.2, 24.2, 31.2, 32.2 y 33.2.
+
+### Disposición final segunda
+
+Disposición final segunda.
+El Consejo de Gobierno de la Comunidad de Madrid, en el plazo máximo de un año a partir de la entrada en vigor de la presente Ley, elaborará el Reglamento necesario para su desarrollo, que contendrá las condiciones técnicas de accesibilidad y eliminación de barreras de todos aquellos usos urbanísticos, actividades, transportes y edificaciones.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Se faculta al Consejo de Gobierno para que, mediante Decreto, modifique la composición del Consejo para la Promoción de la Accesibilidad y la Supresión de Barreras, prevista en el artículo 46.2, apartado A).
+Se añade por el art. 2 de la Ley 10/1996, de 29 de noviembre. Ref. BOE-A-1997-6475.
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y autoridades que corresponda la guarden y la hagan guardar.
+Madrid, 22 de junio de 1993.
+JOAQUÍN LEGUINA,
+Presidente
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que el Consejo de Gobierno puede modificar las especificaciones técnicas contenidas en los artículos 5.2, 6, 7.2, 8.2, 9.2, 10.2, 12.2, 13.2, 14.2, 15.2, 18, 20.2, 21.2, 22.2, 23.2, 24.2, 31.2, 32.2 y 33.2, por Decreto publicado únicamente en el "Boletín Oficial de la Comunidad de Madrid", según se establece en la disposición final primera de la presente norma.

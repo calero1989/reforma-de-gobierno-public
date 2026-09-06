@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0f1419">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Simulador">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Simulador de Reforma Legislativa</title>
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/icon-192.png" type="image/png" sizes="192x192">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <div class="cabecera">
+      <div>
+        <h1>Simulador de Reforma Legislativa</h1>
+        <p class="subtitulo-header">Consulta leyes y simula el impacto de una reforma.</p>
+      </div>
+      <div class="acciones-cabecera">
+        <button type="button" id="btn-instalar" title="Instalar como aplicación">Instalar app</button>
+        <a class="boton secondary solo-pc" id="btn-descargar" href="/descargar/Simulador-de-Reforma-Legislativa.zip">ZIP</a>
+        <button type="button" class="secondary" id="btn-compartir">Compartir</button>
+      </div>
+    </div>
+  </header>
+
+  <nav class="nav-secciones" aria-label="Secciones">
+    <button type="button" class="nav-dir" id="btn-seccion-arriba" title="Apartado anterior" aria-label="Apartado anterior">▲</button>
+    <button type="button" class="nav-btn active" data-panel="explorar">Explorar</button>
+    <button type="button" class="nav-btn" data-panel="articulo">Artículo</button>
+    <button type="button" class="nav-btn" data-panel="impacto">Impacto</button>
+    <button type="button" class="nav-btn" data-panel="comunidad">Comunidad</button>
+    <button type="button" class="nav-dir" id="btn-seccion-abajo" title="Apartado siguiente" aria-label="Apartado siguiente">▼</button>
+  </nav>
+
+  <div class="nav-flotante" aria-label="Subir o bajar de apartado">
+    <button type="button" class="nav-flotante-btn" id="btn-flotante-arriba" title="Apartado anterior" aria-label="Apartado anterior">▲</button>
+    <span class="nav-flotante-label" id="nav-flotante-label">Explorar</span>
+    <button type="button" class="nav-flotante-btn" id="btn-flotante-abajo" title="Apartado siguiente" aria-label="Apartado siguiente">▼</button>
+  </div>
+
+  <main class="layout">
+
+    <!-- PANEL EXPLORAR: categorías + búsqueda + leyes + artículos (todo junto en móvil) -->
+    <aside class="panel visible" id="panel-explorar" data-panel="explorar">
+
+      <!-- Navegación atrás/adelante + migas -->
+      <div class="nav-hist">
+        <button type="button" id="btn-atras" class="nav-hist-btn" disabled title="Atrás">◀</button>
+        <button type="button" id="btn-adelante" class="nav-hist-btn" disabled title="Adelante">▶</button>
+        <nav class="breadcrumb" id="breadcrumb">
+          <span class="bc-item bc-home active" data-nivel="inicio">Inicio</span>
+        </nav>
+      </div>
+
+      <!-- Vista: Inicio (categorías) -->
+      <div id="vista-inicio">
+        <div class="search-row">
+          <input id="buscar" type="search" placeholder="Buscar ley, artículo o materia…" autocomplete="off" enterkeyhint="search">
+          <button type="button" id="btn-avanzada" class="btn-filtro" title="Búsqueda avanzada">⚙</button>
+        </div>
+        <div id="panel-avanzada" class="panel-avanzada" hidden>
+          <div class="filtros-grid">
+            <label>Rango normativo
+              <select id="filtro-rango">
+                <option value="">Todos</option>
+                <option value="Constitución">Constitución</option>
+                <option value="Ley Orgánica">Ley Orgánica</option>
+                <option value="Ley">Ley</option>
+                <option value="Ley Foral">Ley Foral</option>
+                <option value="Real Decreto Legislativo">Real Decreto Legislativo</option>
+                <option value="Real Decreto-ley">Real Decreto-ley</option>
+              </select>
+            </label>
+            <label>Título contiene
+              <input id="filtro-titulo" type="text" placeholder="Ej: educación, vivienda…" autocomplete="off">
+            </label>
+            <label>Nº artículo
+              <input id="filtro-articulo" type="text" placeholder="Ej: 14, 27…" autocomplete="off">
+            </label>
+            <label>Materia / palabras clave
+              <input id="filtro-materia" type="text" placeholder="Ej: igualdad, empleo…" autocomplete="off">
+            </label>
+          </div>
+          <div class="filtros-acciones">
+            <button type="button" id="btn-buscar-avanzada">Buscar</button>
+            <button type="button" class="secondary" id="btn-limpiar-filtros">Limpiar</button>
+          </div>
+        </div>
+        <h4 class="seccion-titulo">Por rango normativo</h4>
+        <div id="categorias-grid" class="categorias-grid"></div>
+        <h4 class="seccion-titulo">Colecciones temáticas</h4>
+        <div id="colecciones-grid" class="categorias-grid"></div>
+        <div id="lista-leyes"></div>
+      </div>
+
+      <!-- Vista: Lista de leyes de una categoría -->
+      <div id="vista-categoria" hidden>
+        <div id="info-categoria" class="info-categoria" hidden></div>
+        <div class="search-row">
+          <input id="buscar-cat" type="search" placeholder="Filtrar en esta categoría…" autocomplete="off" enterkeyhint="search">
+        </div>
+        <div id="categoria-contador" class="meta"></div>
+        <div id="lista-leyes-cat"></div>
+      </div>
+
+      <!-- Vista: Artículos de una ley -->
+      <div id="vista-articulos" hidden>
+        <h3 id="titulo-ley-sel" class="titulo-ley-sel"></h3>
+        <div class="search-row">
+          <input id="buscar-art" type="search" placeholder="Buscar artículo…" autocomplete="off" enterkeyhint="search">
+        </div>
+        <div id="lista-articulos-ley"></div>
+        <section id="seccion-comentarios-ley" class="comentarios-seccion" hidden>
+          <h3 class="comentarios-titulo">Opiniones sobre esta ley</h3>
+          <p class="meta comentarios-desc">Comenta qué te parece esta norma. Otros usuarios pueden usar tus ideas para simular reformas.</p>
+          <div id="lista-comentarios-ley" class="lista-comentarios"></div>
+          <form id="form-comentario-ley" class="form-comentario">
+            <textarea id="input-comentario-ley" rows="3" maxlength="2000" placeholder="¿Qué opinas de esta ley en general?"></textarea>
+            <div class="form-comentario-acciones">
+              <button type="submit">Publicar comentario</button>
+              <span id="msg-comentario-ley" class="meta"></span>
+            </div>
+          </form>
+        </section>
+      </div>
+    </aside>
+
+    <!-- PANEL ARTÍCULO -->
+    <section class="panel" id="panel-articulo" data-panel="articulo">
+      <div class="tabs">
+        <div class="tab active" data-tab="actual">Texto vigente</div>
+        <div class="tab" data-tab="reforma">Simular reforma</div>
+      </div>
+
+      <div id="vista-actual">
+        <h2 id="titulo-articulo">Selecciona un artículo</h2>
+        <p id="meta-articulo" class="meta"></p>
+        <p class="meta" id="enlace-opiniones-wrap" hidden>
+          <a href="#seccion-comentarios-art" id="enlace-opiniones">Ver opiniones ↓</a>
+        </p>
+        <button type="button" id="btn-guardar-art" class="btn-guardar btn-sm" hidden>💾 Guardar artículo</button>
+        <pre id="texto-articulo"></pre>
+      </div>
+
+      <div id="vista-reforma" hidden>
+        <h2>Propuesta de reforma</h2>
+        <p class="meta">Edita el texto y pulsa «Simular impacto».</p>
+        <textarea id="texto-reforma" placeholder="Escribe aquí la redacción propuesta…"></textarea>
+        <div class="acciones">
+          <button id="btn-simular">Simular impacto</button>
+          <button class="secondary" id="btn-restaurar" type="button">Restaurar texto</button>
+        </div>
+      </div>
+
+      <section id="seccion-comentarios-art" class="comentarios-seccion" hidden>
+        <h3 class="comentarios-titulo">Opiniones sobre este artículo</h3>
+        <p class="meta comentarios-desc">Comparte qué te parece este artículo. No hace falta simular una reforma: solo opina y ayuda a otros a encontrar ideas.</p>
+        <div id="lista-comentarios-art" class="lista-comentarios"></div>
+        <form id="form-comentario-art" class="form-comentario">
+          <textarea id="input-comentario-art" rows="3" maxlength="2000" placeholder="¿Qué opinas de este artículo?"></textarea>
+          <div class="form-comentario-acciones">
+            <button type="submit">Publicar comentario</button>
+            <span id="msg-comentario-art" class="meta"></span>
+          </div>
+        </form>
+      </section>
+    </section>
+
+    <!-- PANEL IMPACTO -->
+    <aside class="panel" id="panel-impacto" data-panel="impacto">
+      <h2>Tu perfil</h2>
+      <div class="perfil-grid">
+        <label>Situación
+          <select id="perfil-situacion">
+            <option value="empleado">Empleado/a</option>
+            <option value="autonomo">Autónomo/a</option>
+            <option value="desempleado">Desempleado/a</option>
+            <option value="jubilado">Jubilado/a</option>
+            <option value="estudiante">Estudiante</option>
+            <option value="empresario">Empresario/a</option>
+          </select>
+        </label>
+        <label>Ingresos anuales (€)
+          <input id="perfil-ingresos" type="number" min="0" step="500" value="27002" inputmode="numeric">
+        </label>
+        <label>Tamaño del hogar
+          <input id="perfil-hogar" type="number" min="1" max="12" value="2" inputmode="numeric">
+        </label>
+      </div>
+
+      <h2>Impacto estimado</h2>
+      <div id="impacto-contenido" class="empty">El impacto aparecerá al seleccionar un artículo.</div>
+      <div id="impacto-reforma" hidden></div>
+      <button type="button" id="btn-guardar-sim" class="btn-guardar" hidden>💾 Guardar simulación</button>
+
+      <div class="aviso">
+        Simulación orientativa calibrada con INE y PGE 2025-P. No sustituye informes oficiales.
+      </div>
+    </aside>
+
+    <!-- PANEL COMUNIDAD -->
+    <section class="panel panel-comunidad" id="panel-comunidad" data-panel="comunidad">
+      <div class="comunidad-header">
+        <h2>Comunidad</h2>
+        <button type="button" id="btn-mi-perfil" class="btn-perfil" hidden>👤 Mi perfil</button>
+      </div>
+
+      <!-- Vista perfil -->
+      <div id="vista-perfil" hidden>
+        <button type="button" id="btn-cerrar-perfil" class="secondary" style="margin-bottom:.5rem">◀ Volver</button>
+        <div id="perfil-info"></div>
+        <h3>Simulaciones guardadas</h3>
+        <div id="perfil-simulaciones" class="empty">No hay simulaciones guardadas.</div>
+        <h3>Artículos guardados</h3>
+        <div id="perfil-articulos" class="empty">No hay artículos guardados.</div>
+        <h3>Mis hilos</h3>
+        <div id="perfil-hilos" class="empty">No hay hilos.</div>
+        <h3>Mis valoraciones</h3>
+        <div id="perfil-valoraciones" class="empty">No hay valoraciones.</div>
+
+        <div class="perfil-ajustes">
+          <h3>Ajustes de cuenta</h3>
+          <form id="form-ajustes" class="perfil-grid">
+            <label>Nombre visible
+              <input id="aj-nombre" name="nombre" type="text" maxlength="80">
+            </label>
+            <label>Correo electrónico
+              <input id="aj-email" name="email" type="email" required maxlength="120">
+            </label>
+            <label>Usuario (visible)
+              <input id="aj-username" name="username" type="text" maxlength="40">
+            </label>
+            <label>Contraseña actual (para cambiar usuario/contraseña)
+              <input id="aj-pass-actual" name="password_actual" type="password" maxlength="120">
+            </label>
+            <label>Nueva contraseña (mín. 8 caracteres)
+              <input id="aj-pass-nueva" name="password_nuevo" type="password" minlength="8" maxlength="120" autocomplete="new-password">
+            </label>
+            <button type="submit">Guardar cambios</button>
+            <p class="meta" id="msg-ajustes"></p>
+          </form>
+        </div>
+      </div>
+
+      <div id="vista-comunidad-principal">
+      <div class="stats" id="stats-comunidad">
+        <div class="stat"><strong id="stat-usuarios">—</strong><span>Registrados</span></div>
+        <div class="stat"><strong id="stat-visitas">—</strong><span>Usos</span></div>
+        <div class="stat"><strong id="stat-media">—</strong><span>Valoración</span></div>
+      </div>
+
+      <!-- Estado de sesión -->
+      <div id="sesion-info" class="sesion-info" hidden>
+        <span>Conectado como <strong id="sesion-nombre"></strong></span>
+        <button type="button" id="btn-cerrar-sesion" class="secondary btn-sm">Cerrar sesión</button>
+      </div>
+
+      <!-- Tabs login/registro -->
+      <div id="auth-box">
+        <div class="auth-tabs">
+          <button type="button" class="auth-tab active" data-auth="login">Iniciar sesión</button>
+          <button type="button" class="auth-tab" data-auth="registro">Registrarse</button>
+          <button type="button" class="auth-tab" data-auth="recuperar">Olvidé mi contraseña</button>
+          <button type="button" class="auth-tab" data-auth="cambiar-pass">Cambiar contraseña</button>
+        </div>
+
+        <div id="auth-login" class="auth-panel">
+          <form id="form-login" class="perfil-grid">
+            <label>Usuario
+              <input id="login-user" name="username" required minlength="3" maxlength="40" autocomplete="username" placeholder="tu_usuario">
+            </label>
+            <label>Contraseña
+              <input id="login-pass" name="password" type="password" required maxlength="128" autocomplete="current-password">
+            </label>
+            <div class="captcha-row" data-captcha-for="login">
+              <label>Captcha <span class="captcha-pregunta"></span>
+                <input class="captcha-respuesta" type="text" inputmode="numeric" required autocomplete="off" placeholder="Resultado">
+              </label>
+              <button type="button" class="secondary btn-sm captcha-reload" title="Otro captcha">↻</button>
+            </div>
+            <button type="submit">Entrar</button>
+            <p class="meta" id="msg-login"></p>
+          </form>
+        </div>
+
+        <div id="auth-registro" class="auth-panel" hidden>
+          <form id="form-registro" class="perfil-grid">
+            <label>Nombre visible
+              <input id="reg-nombre" name="nombre" required minlength="2" maxlength="80" autocomplete="name" placeholder="Tu nombre público">
+            </label>
+            <label>Usuario
+              <input id="reg-username" name="username" required minlength="3" maxlength="40" autocomplete="username" placeholder="nombre_de_usuario">
+            </label>
+            <label>Correo electrónico
+              <input id="reg-email" name="email" type="email" required maxlength="120" autocomplete="email" placeholder="tu@correo.com">
+            </label>
+            <label>Contraseña (mín. 8)
+              <input id="reg-password" name="password" type="password" required minlength="8" maxlength="128" autocomplete="new-password">
+            </label>
+            <div class="captcha-row" data-captcha-for="registro">
+              <label>Captcha <span class="captcha-pregunta"></span>
+                <input class="captcha-respuesta" type="text" inputmode="numeric" required autocomplete="off" placeholder="Resultado">
+              </label>
+              <button type="button" class="secondary btn-sm captcha-reload" title="Otro captcha">↻</button>
+            </div>
+            <button type="submit">Registrarme</button>
+            <p class="meta" id="msg-registro"></p>
+          </form>
+        </div>
+
+        <div id="auth-recuperar" class="auth-panel" hidden>
+          <p class="meta" style="margin-top:0">Te enviaremos un enlace a tu correo para elegir una contraseña nueva.</p>
+          <form id="form-recuperar" class="perfil-grid">
+            <label>Correo electrónico
+              <input id="rec-email" name="email" type="email" required maxlength="120" autocomplete="email">
+            </label>
+            <div class="captcha-row" data-captcha-for="recuperar">
+              <label>Captcha <span class="captcha-pregunta"></span>
+                <input class="captcha-respuesta" type="text" inputmode="numeric" required autocomplete="off" placeholder="Resultado">
+              </label>
+              <button type="button" class="secondary btn-sm captcha-reload" title="Otro captcha">↻</button>
+            </div>
+            <button type="submit">Enviar enlace</button>
+            <p class="meta" id="msg-recuperar"></p>
+          </form>
+          <form id="form-restablecer" class="perfil-grid" hidden>
+            <input type="hidden" id="reset-token" value="">
+            <label>Nueva contraseña (mín. 8)
+              <input id="reset-pass" type="password" required minlength="8" maxlength="128" autocomplete="new-password">
+            </label>
+            <label>Repetir contraseña
+              <input id="reset-pass-2" type="password" required minlength="8" maxlength="128" autocomplete="new-password">
+            </label>
+            <div class="captcha-row" data-captcha-for="restablecer">
+              <label>Captcha <span class="captcha-pregunta"></span>
+                <input class="captcha-respuesta" type="text" inputmode="numeric" required autocomplete="off" placeholder="Resultado">
+              </label>
+              <button type="button" class="secondary btn-sm captcha-reload" title="Otro captcha">↻</button>
+            </div>
+            <button type="submit">Guardar contraseña</button>
+            <p class="meta" id="msg-restablecer"></p>
+          </form>
+        </div>
+
+        <div id="auth-cambiar-pass" class="auth-panel" hidden>
+          <p class="meta" style="margin-top:0">Usa tu contraseña actual y elige una nueva de al menos 8 caracteres.</p>
+          <form id="form-cambiar-pass" class="perfil-grid">
+            <label>Usuario
+              <input id="cp-user" name="username" required minlength="3" maxlength="40" autocomplete="username">
+            </label>
+            <label>Contraseña actual
+              <input id="cp-pass-actual" name="password_actual" type="password" required maxlength="128" autocomplete="current-password">
+            </label>
+            <label>Nueva contraseña (mín. 8 caracteres)
+              <input id="cp-pass-nueva" name="password_nuevo" type="password" required minlength="8" maxlength="128" autocomplete="new-password">
+            </label>
+            <label>Repetir nueva contraseña
+              <input id="cp-pass-repetir" type="password" required minlength="8" maxlength="128" autocomplete="new-password">
+            </label>
+            <div class="captcha-row" data-captcha-for="cambiar-pass">
+              <label>Captcha <span class="captcha-pregunta"></span>
+                <input class="captcha-respuesta" type="text" inputmode="numeric" required autocomplete="off" placeholder="Resultado">
+              </label>
+              <button type="button" class="secondary btn-sm captcha-reload" title="Otro captcha">↻</button>
+            </div>
+            <button type="submit">Actualizar contraseña</button>
+            <p class="meta" id="msg-cambiar-pass"></p>
+          </form>
+        </div>
+      </div>
+
+      <div class="comunidad-grid">
+        <div>
+          <h3>Valorar y sugerir</h3>
+          <form id="form-valoracion" class="perfil-grid">
+            <label>Puntuación
+              <select id="val-puntos">
+                <option value="5">5 — Excelente</option>
+                <option value="4">4 — Bien</option>
+                <option value="3" selected>3 — Regular</option>
+                <option value="2">2 — Mejorable</option>
+                <option value="1">1 — Mal</option>
+              </select>
+            </label>
+            <label>Sugerencia
+              <textarea id="val-texto" maxlength="800" placeholder="¿Qué mejorarías?"></textarea>
+            </label>
+            <button type="submit">Enviar valoración</button>
+            <p class="meta" id="msg-valoracion"></p>
+          </form>
+        </div>
+      </div>
+
+      <h3>Sugerencias de la comunidad</h3>
+      <div id="lista-sugerencias" class="empty">Aún no hay sugerencias.</div>
+
+      <!-- FORO -->
+      <div class="foro-separador"></div>
+      <h2>Foro ciudadano</h2>
+      <p class="meta">Debate, comparte simulaciones, opina y valora las aportaciones de otros usuarios.</p>
+
+      <div class="foro-tabs" id="foro-tabs" role="tablist" aria-label="Filtrar hilos del foro">
+        <button type="button" class="foro-tab active" data-cat="" role="tab" aria-selected="true">Todos</button>
+        <button type="button" class="foro-tab" data-cat="Debate" role="tab" aria-selected="false">Debate</button>
+        <button type="button" class="foro-tab" data-cat="Simulación" role="tab" aria-selected="false">Simulación</button>
+        <button type="button" class="foro-tab" data-cat="Opinión" role="tab" aria-selected="false">Opinión</button>
+        <button type="button" class="foro-tab" data-cat="Propuesta" role="tab" aria-selected="false">Propuesta</button>
+      </div>
+      <p class="foro-filtro-label" id="foro-filtro-label">Mostrando: <strong>Todos</strong></p>
+
+      <button type="button" id="btn-nuevo-hilo" class="btn-nuevo-hilo">+ Nuevo hilo</button>
+
+      <!-- Formulario nuevo hilo -->
+      <div id="form-hilo-box" class="form-hilo-box" hidden>
+        <form id="form-hilo">
+          <label>Categoría
+            <select id="hilo-cat">
+              <option value="Debate">Debate</option>
+              <option value="Simulación">Simulación</option>
+              <option value="Opinión">Opinión</option>
+              <option value="Propuesta">Propuesta</option>
+              <option value="General">General</option>
+            </select>
+          </label>
+          <label>Título
+            <input id="hilo-titulo" type="text" required minlength="3" maxlength="200" placeholder="Título del hilo…">
+          </label>
+          <label>Mensaje
+            <textarea id="hilo-cuerpo" required minlength="5" maxlength="4000" rows="4" placeholder="Escribe tu mensaje…"></textarea>
+          </label>
+          <div class="acciones">
+            <button type="submit">Publicar</button>
+            <button type="button" class="secondary" id="btn-cancelar-hilo">Cancelar</button>
+          </div>
+          <p class="meta" id="msg-hilo"></p>
+        </form>
+      </div>
+
+      <!-- Lista de hilos -->
+      <div id="foro-hilos" class="foro-hilos"></div>
+
+      <!-- Vista de un hilo abierto -->
+      <div id="foro-hilo-abierto" class="foro-hilo-abierto" hidden>
+        <button type="button" id="btn-volver-foro" class="secondary" style="margin-bottom:.5rem">◀ Volver al foro</button>
+        <div id="foro-hilo-detalle"></div>
+        <div id="foro-respuestas-lista"></div>
+        <form id="form-respuesta" class="form-respuesta">
+          <textarea id="resp-cuerpo" required minlength="2" maxlength="4000" rows="3" placeholder="Escribe tu respuesta…"></textarea>
+          <button type="submit">Responder</button>
+          <p class="meta" id="msg-respuesta"></p>
+        </form>
+      </div>
+      </div><!-- /vista-comunidad-principal -->
+    </section>
+  </main>
+
+  <div id="modal-compartir" class="modal" hidden>
+    <div class="modal-caja">
+      <h2>Enviar a otro dispositivo</h2>
+      <p class="meta">Copia o escanea el enlace. En iPhone, para instalar usa el botón Compartir de Safari (abajo).</p>
+      <p class="meta aviso-enlace" id="aviso-enlace-compartir" hidden>El enlace público caduca al reiniciar el servidor. Si no abre, pide el enlace nuevo o usa la misma Wi‑Fi con la IP local.</p>
+      <div id="lista-enlaces"></div>
+      <img id="qr-compartir" alt="Código QR para abrir la app" hidden>
+      <div class="acciones">
+        <button type="button" id="btn-copiar">Copiar enlace</button>
+        <button type="button" class="secondary" id="btn-cerrar-compartir">Cerrar</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="modal-instalar" class="modal" hidden>
+    <div class="modal-caja">
+      <h2>Instalar en este dispositivo</h2>
+      <p class="meta" id="texto-instalar"></p>
+      <div class="icono-safari-share" id="icono-safari-share" hidden>
+        <svg viewBox="0 0 64 64" width="56" height="56" aria-hidden="true">
+          <rect x="18" y="28" width="28" height="28" rx="6" fill="none" stroke="#93c5fd" stroke-width="4"/>
+          <path d="M32 8v32" stroke="#93c5fd" stroke-width="4" fill="none" stroke-linecap="round"/>
+          <path d="M22 18l10-10 10 10" stroke="#93c5fd" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span>Este botón está abajo del todo, en Safari</span>
+      </div>
+      <ol class="pasos-instalar" id="pasos-instalar"></ol>
+      <div class="acciones">
+        <button type="button" id="btn-instalar-ahora" hidden>Añadir a pantalla de inicio</button>
+        <button type="button" class="secondary" id="btn-cerrar-instalar">Cerrar</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal registro inicial -->
+  <div id="modal-auth" class="modal" hidden>
+    <div class="modal-caja">
+      <h2>Acceso requerido</h2>
+      <p class="meta">
+        Para usar la app necesitas <strong>iniciar sesión</strong> o <strong>registrarte</strong>.
+        Si te registras sin <strong>correo</strong> aparecerás como <strong>Anónimo</strong> en el foro/valoraciones.
+      </p>
+      <div class="acciones">
+        <button type="button" id="btn-auth-login">Iniciar sesión</button>
+        <button type="button" class="secondary" id="btn-auth-registrarme">Registrarse</button>
+      </div>
+      <p class="meta" style="margin-top:.6rem;">
+        Si no te registras ahora: puedes hacerlo más tarde en <strong>Comunidad → Registrarse</strong>.
+      </p>
+    </div>
+  </div>
+
+  <div id="aviso-ios" class="aviso-ios" hidden>
+    En iPhone: pulsa el icono Compartir de Safari (abajo, flecha hacia arriba) → <strong>Añadir a pantalla de inicio</strong>.
+  </div>
+
+  <!-- Banner de actualización -->
+  <div id="banner-update" class="banner-update" hidden>
+    <div class="banner-update-contenido">
+      <span>🔄 Hay una nueva versión disponible</span>
+      <div class="banner-update-btns">
+        <button type="button" id="btn-update-si">Actualizar</button>
+        <button type="button" id="btn-update-no" class="secondary">Después</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

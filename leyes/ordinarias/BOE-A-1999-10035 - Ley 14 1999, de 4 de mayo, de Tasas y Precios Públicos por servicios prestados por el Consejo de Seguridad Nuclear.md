@@ -1,0 +1,526 @@
+# Ley 14/1999, de 4 de mayo, de Tasas y Precios Públicos por servicios prestados por el Consejo de Seguridad Nuclear.
+
+- Identificador BOE: `BOE-A-1999-10035`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-10035
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de erratas publicada en BOE núm. 131, de 2 de junio de 1999. Ref. BOE-A-1999-12329
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+Mediante la Ley 15/1980, de 22 de abril, se crea el Consejo de Seguridad Nuclear como ente de Derecho público, independiente de la Administración Central del Estado, con personalidad jurídica y patrimonio propio e independiente de los del Estado, y como único Organismo competente en materia de seguridad nuclear y protección radiológica.
+La principal fuente de financiación del Consejo de Seguridad Nuclear es la recaudación que se obtiene por la tasa que se gira como contraprestación de los servicios que viene prestando el Organismo en el cumplimiento de sus funciones de garante de la seguridad nuclear y la protección radiológica (artículo 9 de la Ley 15/1980).
+El régimen jurídico de la tasa viene fundamentalmente regulado en el artículo 10 de la Ley 15/1980, precepto que se desarrolla mediante el Real Decreto 3229/1982, de 12 de noviembre, que pretende derogarse con esta Ley, puesto que no añade nada a la regulación legal.
+La experiencia obtenida en la gestión de la tasa ha hecho, por una parte, que se hayan venido decantando una serie de problemas de adaptación de la norma a la realidad, sin perjuicio de las puntuales revisiones que se han venido realizando en los tipos y cuantías aplicables a los diversos hechos imponibles, y que no han demostrado adecuación en grado suficiente a las necesidades que venía exigiendo la realidad.
+La aparición tanto de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, así como la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, hacen necesario la introducción de nuevos criterios, tanto para la cuantificación del importe de cada tasa, redimensionándolas de acuerdo con los costes reales, como en relación a la necesaria modificación de la base imponible de la tasa por inspección y control del funcionamiento de las centrales nucleares.
+Asimismo, la publicación del Reglamento de Protección Sanitaria contra las Radiaciones Ionizantes introduce una serie de obligaciones para el Consejo de Seguridad Nuclear en el ámbito de la protección radiológica, que obliga a establecer los correspondientes nuevos hechos imponibles.
+Por otra parte, el Consejo de Seguridad Nuclear ha venido realizando una serie de funciones que, en ocasiones, no estaban previstas de forma específica en la Ley de creación del Organismo, ni por consiguiente estaban configuradas en forma de hechos imponibles. Por ello, se pretende con esta propuesta efectuar un nuevo catálogo de funciones que describa con mayor exactitud el actual quehacer del Consejo de Seguridad Nuclear y, al mismo tiempo, regular tributariamente la prestación de todos los servicios que se realizan.
+En concreto se actualizan algunas tasas, se amplía el abanico de hechos imponibles existentes para ajustarse mejor a la realidad, y se mejora la redacción de algunos supuestos de acuerdo con la experiencia obtenida, teniendo en todo caso presente los criterios de equivalencia y capacidad económica del sujeto pasivo, establecidos en la Ley de Tasas y Precios Públicos.
+Se establece una pormenorizada descripción a efectos tributarios, de las operaciones de desmantelamiento para la clausura de instalaciones nucleares, cuya previsión era deficiente en la anterior regulación; se contempla la realización de estudios e informes relacionados con la gestión de residuos radiactivos de alta actividad, en relación con las futuras instalaciones de almacenamiento definitivo; y se incorporan, como precio público, una serie de servicios que el Consejo de Seguridad Nuclear viene realizando a instancia de los particulares, y a cuya prestación no viene obligado específicamente por su estatuto jurídico.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. La presente Ley tiene por objeto la regulación de las tasas y precios públicos por prestación de servicios y realización de actividades del Consejo de Seguridad Nuclear.
+2. Las tasas y precios públicos exigibles por el Consejo de Seguridad Nuclear serán de aplicación en todo el territorio español.
+
+### Artículo 2
+
+Artículo 2. Fuentes normativas.
+Las tasas y precios públicos por prestación de servicios y realización de actividades del Consejo de Seguridad Nuclear se regirán por lo establecido en la presente Ley y, en su defecto, por la Ley de Tasas y Precios Públicos, la Ley General Tributaria y demás disposiciones complementarias.
+
+### Artículo 3
+
+Artículo 3. Sujetos pasivos.
+1. Serán sujetos pasivos de las tasas las personas físicas o jurídicas, así como las entidades a que se refiere el artículo 33 de la Ley General Tributaria, titulares de las instalaciones o actividades sobre las que se lleven a efecto los servicios de inspección o control descritos en el Título II de esta Ley o que soliciten cualesquiera de las autorizaciones, permisos, licencias o exenciones previstas en el mismo Título.
+2. En su caso, la regulación específica de cada tasa y precio público determinará el carácter de sujetos pasivos de otras personas o entidades.
+
+### Artículo 4
+
+Artículo 4. Gestión y liquidación de la tasa.
+1. En los supuestos de liquidación administrativa de las tasas, el Consejo de Seguridad Nuclear practicará la liquidación en modelo oficial, en su caso mediante recibo, procediendo a su notificación al sujeto pasivo.
+El Consejo de Seguridad Nuclear podrá requerir de los sujetos pasivos las informaciones y documentación que precise para la práctica de las oportunas liquidaciones. En caso de no ser atendidos los requerimientos el sujeto pasivo incurrirá en infracción tributaria simple, conforme a los artículos 77 y siguientes de la Ley General Tributaria, procediendo el Consejo de Seguridad Nuclear a la apertura de expediente sancionador, cuya tramitación y resolución se ajustará a las normas tributarias en vigor.
+2. En los supuestos en que esté establecida la autoliquidación por el sujeto pasivo, las declaraciones-liquidaciones se presentarán ante el referido Consejo, quien podrá rectificar los errores de hecho, practicando, en su caso, la liquidación rectificatoria que proceda.
+
+### Artículo 5
+
+Artículo 5. Plazos y medios de pago de las tasas y precios públicos.
+1. El ingreso de las liquidaciones efectuadas por el Consejo de Seguridad Nuclear deberá realizarse en los plazos señalados en el número dos del artículo 20 del Reglamento General de Recaudación.
+2. El ingreso se efectuará directamente en la cuenta restringida del Consejo de Seguridad Nuclear habilitada al efecto, a través de cualquiera de las oficinas de la entidad bancaria donde se halle abierta aquélla.
+3. Los modelos de ingresos mediante recibo, liquidación y autoliquidación se presentarán en la entidad bancaria para ser diligenciados, reservándose el interesado un ejemplar como carta de pago.
+
+### Artículo 6
+
+Artículo 6. Inspección de las tasas.
+La inspección de las tasas se encomienda a los órganos competentes de la Administración del Estado.
+
+### Artículo 7
+
+Artículo 7. Reclamaciones económico-administrativas.
+Los actos de gestión de las tasas y de los precios públicos serán recurribles en la vía económico-administrativa y, en su caso, en la contencioso-administrativa.
+
+### Artículo 8
+
+Artículo 8. Afectación.
+El rendimiento íntegro de las tasas y de los precios públicos quedará afectado, con carácter específico, a la cobertura de los gastos producidos por la prestación de los servicios y realización de actividades del Consejo de Seguridad Nuclear.
+
+## TÍTULO II
+
+Tasas
+
+### Artículo 9
+
+Artículo 9. Tasa por estudios, informes e inspecciones para las autorizaciones necesarias para la entrada en funcionamiento de instalaciones nucleares.
+1. Hecho imponible.–Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los estudios, informes o inspecciones que, con arreglo a la normativa vigente, condicionen la concesión de autorizaciones necesarias para la entrada en funcionamiento de las instalaciones nucleares.
+2. Base imponible.–Estará constituida por el importe total y efectivo de la inversión a efectuar según presupuesto, salvo los costes derivados de los intereses financieros.
+3. Devengo.–La tasa se devengará en el momento de presentar cualquiera de las solicitudes contempladas en este artículo.
+4. Tipo impositivo.–Las operaciones mencionadas en el párrafo anterior, quedarán gravadas al tipo impositivo del 0,20 por 100 de la base imponible.
+5. Liquidaciones.–Las liquidaciones se efectuarán por el sujeto pasivo.
+Los solicitantes de las autorizaciones efectuarán liquidaciones provisionales a cuenta, de acuerdo con los siguientes porcentajes de la base imponible:
+20 por 100 al solicitar la autorización previa o de emplazamiento.
+40 por 100 al solicitar la autorización de construcción.
+40 por 100 al solicitar la autorización de explotación.
+La liquidación definitiva, atendiendo al importe total y efectivo de la inversión realizada, se efectuará por el solicitante inmediatamente después de la concesión de la autorización de explotación.
+En el caso de que la autorización solicitada no fuera concedida, las liquidaciones provisionales adquirirán el carácter de definitivas.
+6. Exenciones y bonificaciones.–Cuando se trate de centrales nucleares, si se instalan dos o más unidades en el mismo emplazamiento y con idéntico proyecto a la primera, para la segunda y restantes la tasa se reducirá a un quinto de la cuantía citada en el caso de la solicitud de autorización previa o de emplazamiento y a un tercio en lo que corresponde abonar en la autorización de construcción y en la de explotación.
+Para otras instalaciones nucleares, en el caso de ampliaciones sucesivas o modificaciones del proyecto original se tributará el 50 por 100 de la cuota correspondiente.
+
+### Artículo 10
+
+Artículo 10. Tasa por inspección y control de funcionamiento de las instalaciones nucleares.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa los servicios de inspección y control que sea necesario realizar a juicio del Consejo de Seguridad Nuclear en orden a garantizar al máximo la explotación y funcionamiento adecuados, así como la seguridad de las instalaciones nucleares.
+El importe de esta tasa incluye los servicios prestados por el Consejo de Seguridad Nuclear de evaluación e inspección y control relacionados con las autorizaciones de modificación durante la operación de dichas instalaciones.
+2. Clasificación de las instalaciones nucleares a efectos de la base imponible.
+A) Centrales nucleares.
+A.1 Cuota.-En función de la potencia autorizada de las centrales nucleares y en consideración al agrupamiento de tareas en la prestación que supone la existencia de dos unidades en un mismo emplazamiento, se establecen las siguientes cuotas:
+A.1.1 Centrales nucleares de potencia bruta inferior a 250 megavatios eléctricos: 779.405,02 euros cada año.
+A.1.2 Centrales nucleares de potencia bruta entre 250 y 500 megavatios eléctricos: 1.929.220,34 euros cada año.
+A.1.3 Centrales nucleares de potencia bruta superior a 500 megavatios eléctricos con un único reactor: 4.344.604,22 euros cada año.
+A.1.4 Centrales nucleares de potencia bruta superior a 500 megavatios eléctricos con dos o más reactores en un mismo emplazamiento: 3.549.765,44 euros por reactor cada año.
+A.2 Devengo y liquidación.-Esta tasa se devengará mensualmente por dozavas partes y deberá autoliquidarse por el sujeto pasivo durante el mes siguiente a cada mes vencido.
+B) Fábricas de producción o de tratamiento de sustancias nucleares.
+Esta tasa de inspección y control cubrirá, en su caso, tanto el funcionamiento de la instalación, como la propia fabricación o tratamiento de las sustancias.
+B.1 Cuota.- Para las fábricas de producción o tratamiento de sustancias nucleares se fija una cuota anual de 1.157,53 euros por tonelada autorizada.
+B.2 Devengo y liquidación.-Esta tasa se devengará mensualmente por dozavas partes y deberá autoliquidarse por el sujeto pasivo durante el mes siguiente a cada mes vencido.
+C) Instalaciones de almacenamiento de residuos radiactivos que no están incluidas en la autorización de otra instalación nuclear.
+C.1 Cuota.-Dependiendo de la actividad de los residuos almacenados y, en consecuencia, del mayor o menor coste de la prestación del servicio de control y seguimiento, se establecen las siguientes cuotas:
+Para almacenamiento de residuos de medio o bajo nivel de actividad: 19,29 euros por metro cúbico de capacidad de almacenamiento autorizada.
+Para almacenamientos de residuos de alta actividad: 192,92 euros por cada tonelada de metal pesado cuyo almacenamiento se autoriza.
+C.2 Devengo y liquidación.-Esta tasa se devengará anualmente y se liquidará mensualmente por dozavas partes y deberá autoliquidarse por el sujeto pasivo durante el mes siguiente a cada mes vencido.
+D) Resto de instalaciones nucleares.
+Se entenderán incluidas en este apartado aquellas instalaciones nucleares que no tengan fines lucrativos y las destinadas a investigación.
+D.1 Cuota.- Estos servicios quedarán gravados con una cuota anual fija de 15.433,77 euros.
+D.2 Devengo y liquidación.-Esta tasa se devengará el 31 de diciembre de cada año y será autoliquidada por el sujeto pasivo durante el primer cuatrimestre siguiente a la citada fecha.
+3. En el primer y último año de las respectivas entrada y fin de la vida operativa de una instalación nuclear, la cuota se ponderará de acuerdo con el número de meses transcurridos entre el de la fecha de concesión de la autorización de explotación o de declaración de fin de la vida útil, contando ésta, y el final del año.
+4. Cuando en una instalación nuclear existan una o más instalaciones radiactivas diferenciadas, se aplicará a cada una de ellas la tasa correspondiente a la inspección y control de instalaciones radiactivas.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73.
+ Se convierten a euros las cuantías contempladas por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 11
+
+Artículo 11. Tasa por estudios, informes o inspecciones necesarias para obtener las autorizaciones para el desmantelamiento de las instalaciones nucleares.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los estudios, informes o inspecciones exigibles, para obtener las autorizaciones necesarias para el desmantelamiento de las instalaciones nucleares.
+2. Base imponible.-La base imponible estará constituida por el costo total de las operaciones de desmantelamiento para las que se pide autorización, salvo los costes derivados de los intereses financieros.
+En el caso de que el desmantelamiento se efectuase en distintas fases, aprobadas individualmente y separadas en el tiempo, los estudios, informes e inspecciones realizados para evaluar las actividades que se llevarán a cabo en cada fase serán gravados en función del importe del presupuesto para dichas operaciones.
+3. Tipo impositivo.-Estos servicios quedarán gravados al tipo impositivo del 2 por 100 de la base imponible.
+4. Devengo y liquidación.-El devengo se producirá en el momento de presentar la solicitud de autorización de desmantelamiento y será autoliquidada por el sujeto pasivo.
+La liquidación definitiva, atendiendo al importe total y efectivo de la inversión realizada, se efectuará por el solicitante en los tres meses siguientes a la finalización de las operaciones de desmantelamiento autorizadas.
+En el caso de que la autorización solicitada no fuera concedida, las liquidaciones provisionales adquirirán el carácter de definitivas.
+Cuando la tasa resultante sea superior a los 601.012,10 euros, su liquidación podrá fraccionarse en dozavas partes que se liquidarán mensualmente.
+Se convierte a euros la cuantía contemplada en el apartado 4 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 12
+
+Artícu­lo 12. Tasa por inspección y control de desmantelamiento de las instalaciones nucleares.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los servicios de inspección y control que sean necesarios durante las operaciones de desmantelamiento de las instalaciones nucleares.
+A los efectos del cobro de la tasa se entenderá que la instalación ha entrado en período de desmantelamiento a partir del momento en que se declare por el Ministerio de Industria y Energía el fin de su vida operativa.
+2. Base imponible y tipo impositivo.-De acuerdo con el mayor o menor coste en la prestación de los servicios de inspección, control y seguimiento, éstos quedarán gravados con una cuota fija anual calculada de acuerdo con los criterios siguientes:
+a) Mientras exista combustible nuclear fresco o irradiado en la instalación: el 80 por 100 de la tasa establecida en esta Ley por los servicios de inspección y control de funcionamiento.
+b) Una vez retirado el combustible nuclear: el 15 por 100 de la tasa establecida en esta Ley por los servicios de inspección y control de funcionamiento. Esta cuota se reducirá al 1,5 por 100 durante los períodos de inactividad que se establezcan en las autorizaciones, caso de que el desmantelamiento se realice en distintas fases.
+c) Las instalaciones nucleares de investigación quedarán gravadas con una cuota fija anual de 15.433,77 euros.
+3. Devengo y liquidación.-Esta tasa se devengará el 31 de diciembre y deberá autoliquidarse por el sujeto pasivo durante el primer cuatrimestre siguiente a la citada fecha.
+Cuando la tasa resultante sea superior a los 601.012,10 euros, su liquidación podrá fraccionarse en dozavas partes que se liquidarán mensualmente.
+La tasa del primer y último año será, en cada caso, proporcional al número de meses en los que el Consejo de Seguridad Nuclear haya prestado los correspondientes servicios.
+Se modifica el apartado 2.c) por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierten a euros las cuantías contempladas en los apartados 2.c) y 3 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+ Redactado el apartado 3 conforme a la corrección de erratas publicada en BOE núm. 131, de 2 de junio de 1999. Ref. BOE-A-1999-12329
+
+### Artículo 13
+
+Artículo 13. Tasa por la realización de estudios e informes necesarios para el seguimiento de las actividades relacionadas con la gestión a largo plazo de los residuos radiactivos de alta actividad.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los estudios, informes y desarrollo de metodologías específicas que sean necesarios para la evaluación de los planes, proyectos, estudios y diseños conceptuales en relación con las actividades desarrolladas en cumplimiento de los planes generales de residuos radiactivos vigentes en cada momento, tanto en lo que se refiere al almacenamiento transitorio como al definitivo de dichos residuos.
+2. Base imponible.-La base imponible de esta tasa será el importe de las inversiones realizadas para el desarrollo de los respectivos planes y proyectos de almacenamiento temporal o definitivo, por las entidades autorizadas por el Ministerio de Industria y Energía para la gestión a largo plazo de los residuos radiactivos de alta actividad.
+3. Tipo impositivo.-Estos servicios quedarán gravados con el tipo impositivo del 3 por 100 de la base imponible.
+4. Devengo y liquidación.-Esta tasa se devengará el 31 de diciembre de cada año y deberá autoliquidarse a cuenta mensualmente por dozavas partes, por el sujeto pasivo, sobre la base de la inversión efectuada el año precedente.
+Durante el primer cuatrimestre de cada año se efectuará, por el sujeto pasivo, la liquidación definitiva del año precedente sobre la base de la inversión efectivamente realizada.
+
+### Artículo 14
+
+Artículo 14. Tasa por los estudios, informes o inspecciones necesarios para la concesión de autorizaciones de explotación y para el desmantelamiento y clausura de las minas de uranio.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los estudios, informes e inspecciones que condicionan la concesión de autorizaciones de explotación y de desmantelamiento y clausura de las minas de uranio.
+2. Estos servicios quedarán gravados con una cuota fija de 7.716,88 euros cada año.
+3. Devengo y liquidación.-Esta tasa se devengará en el momento de presentar cualquiera de las solicitudes contempladas en este artículo y será liquidada por el Consejo de Seguridad Nuclear.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierte a euros las cuantía contemplada en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 15
+
+Artículo 15. Tasa por estudios, informes o inspecciones necesarios para la concesión de autorizaciones para el funcionamiento de las instalaciones radiactivas.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización de los estudios, informes o inspecciones que condicionen la concesión de autorizaciones para el funcionamiento de las instalaciones radiactivas o su modificación.
+2. Clasificación de las instalaciones radiactivas a efectos de la base imponible.
+A) Instalaciones radiactivas del ciclo del combustible nuclear:
+A.1 Base imponible.-Estará constituida por el importe total y efectivo de la inversión a realizar según presupuesto salvo los costes derivados de los intereses financieros.
+A.2 Tipo impositivo.-Estos servicios quedarán gravados al tipo impositivo del 1 por 100 de la base imponible.
+A.3 Devengo.-Esta tasa se devengará en el momento de presentar cualquiera de las solicitudes contempladas en este artículo.
+A.4 Liquidaciones.-Las liquidaciones se efectuarán por el sujeto pasivo. Los solicitantes de las autorizaciones efectuarán liquidaciones provisionales a cuenta, de acuerdo con los siguientes porcentajes de la base imponible:
+20 por 100 al solicitar la autorización previa o de emplazamiento.
+40 por 100 al solicitar la autorización de construcción.
+40 por 100 al solicitar la autorización de explotación.
+La liquidación definitiva, atendiendo al importe total y efectivo de la inversión realizada, se efectuará por el solicitante inmediatamente después de la concesión de la autorización de explotación.
+En el caso de que la autorización solicitada no fuera concedida, las liquidaciones provisionales adquirirán el carácter de definitivas.
+B) Instalaciones radiactivas con fines científicos, médicos, agrícolas, comerciales o industriales.
+B.1 Base imponible.-Estará constituida por el valor total y efectivo de la instalación radiactiva o de su modificación, considerándose incluido en dicho valor todos aquellos componentes que por su naturaleza estén afectos al funcionamiento de la misma.
+Caso de transmisiones onerosas deberá declararse el valor de la enajenación. En el caso de transmisiones lucrativas o de arrendamiento de la instalación el valor a declarar será el de mercado.
+B.2 Tipo impositivo.-Estos servicios quedarán gravados al tipo impositivo que resulte mayor entre los dos siguientes:
+El 2 por ciento de la base imponible.
+Los siguientes valores:
+Primera categoría: 46.301,29 euros.
+Segunda categoría: 2.315,07 euros.
+Tercera categoría: 1.543,38 euros.
+B.3 Devengo y liquidación.-Esta tasa se devengará en el momento de presentar la solicitud, junto con la cual, el sujeto pasivo, declarará los valores que constituyen la base imponible para su liquidación por el Consejo de Seguridad Nuclear.
+3. Exenciones y bonificaciones.
+3.1 En el caso de ampliaciones sucesivas o de modificaciones del proyecto original se tributará el 50 por 100 de la cuota correspondiente.
+3.2 Aquellas modificaciones que no alteren el contenido del condicionado de seguridad de la autorización, sino que se refieran a aspectos meramente formales y que no requieran un nuevo estudio de seguridad estarán gravadas con una cuota única de 192,92 euros, en retribución de los servicios de verificación, que se devengarán en el momento de presentar la solicitud.
+Se modifican los apartados 2 y 3.2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierten a euros las cuantías contempladas en los apartados 2 y 3.2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 16
+
+Artícu­lo 16. Tasa por inspección y control de funcionamiento de las instalaciones radiactivas.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa los servicios de inspección y control que sea necesario realizar en orden a garantizar al máximo la explotación y funcionamiento adecuados, así como la seguridad de las instalaciones radiactivas.
+Por servicios de inspección y control se entenderán los realizados alternativamente, bien por la visita girada a la instalación o bien mediante la realización de actividades de seguimiento, análisis y evaluación en relación con la documentación presentada por el sujeto pasivo.
+2. Clasificación de las instalaciones radiactivas a efectos de la base imponible.
+A) Instalaciones radiactivas del ciclo del combustible nuclear:
+A.1 Cuota.-Estos servicios quedarán gravados con una cuota de 131,19 euros por tonelada de producción autorizada.
+A.2 Devengo y liquidación.-Esta tasa se devengará anualmente y se liquidará por el Consejo de Seguridad Nuclear, mediante recibo, debiendo ser ingresada durante el primer cuatrimestre del año natural siguiente a la fecha de vencimiento del plazo.
+B) Instalaciones radiactivas con fines científicos, médicos, agrícolas, comerciales o industriales.
+B.1 Cuota.-Estos servicios quedarán gravados con la cuota siguiente:
+Primera categoría: 5.787,66 euros.
+Segunda categoría: 2.315,07 euros
+Tercera categoría, excepto radiodiagnóstico: 1.543,38 euros.
+Instalaciones de radiodiagnóstico: 270,09 euros.
+B.2 Devengo y liquidación.-Esta tasa, excepto para las instalaciones de radiodiagnóstico, se devengará el 31 de diciembre de cada año y se liquidará por el Consejo de Seguridad Nuclear, que girará el correspondiente recibo, debiendo ser ingresado dentro de los cuatro primeros meses del año natural siguiente a la fecha del devengo.
+La tasa por los servicios de inspección y control de instalaciones de radiodiagnóstico se devengará en el momento de iniciarse la correspondiente actuación y será liquidada por el Consejo de Seguridad Nuclear. En ningún caso estas instalaciones serán objeto de más de una tasa de inspección y control al año cuando sean motivadas por denuncias reiteradas y las actas de inspección resultaren de conformidad en materia de seguridad nuclear y protección radiológica.
+3. Exenciones y bonificaciones.-En el primer año de funcionamiento de una instalación, cuando la explotación haya comenzado con posterioridad al día 30 de junio, ese año se abonará solamente el 50 por 100 de la cuota.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierten a euros las cuantías contempladas en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 17
+
+Artícu­lo 17. Tasa por estudios, informes o inspecciones previas a la concesión de autorizaciones preceptivas de desmantelamiento o clausura de instalaciones radiactivas.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los estudios, informes o inspecciones previos a la concesión de autorizaciones preceptivas para el desmantelamiento o la clausura de las instalaciones radiactivas.
+2. Clasificación de las instalaciones radiactivas a efectos de la base imponible.
+A) Instalaciones radiactivas del ciclo del combustible nuclear:
+A.1 Cuota.-Estos servicios quedarán gravados con una cuota de 61,74 euros por tonelada de uranio producida durante toda su fase operativa.
+A.2 Devengo y liquidación.-Esta tasa se devengará al presentar la correspondiente solicitud y será liquidada por el Consejo de Seguridad Nuclear.
+B) Instalaciones radiactivas con fines científicos, médicos, agrícolas, comerciales o industriales.
+B.1 Cuota.-Estos servicios quedarán gravados con la cuota siguiente:
+Primera categoría: 23.150,65 euros.
+Segunda categoría: 771,69 euros.
+Tercera categoría: 578,77 euros.
+B.2 Devengo y liquidación.-Estas tasas se devengarán al presentar la correspondiente solicitud y serán liquidadas por el Consejo de Seguridad Nuclear.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierten a euros las cuantías contempladas en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 18
+
+Artículo 18. Tasa por inspección y control del desmantelamiento de instalaciones radiactivas del ciclo del combustible.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los servicios de inspección y control que sea necesario realizar durante las operaciones de desmantelamiento de las instalaciones radiactivas del ciclo del combustible y del período de vigilancia radiológica posterior a estas operaciones.
+2. Cuota.-Estos servicios quedarán gravados con una cuota anual fija de 77.168,82 euros durante las operaciones de desmantelamiento.
+3. Devengo y liquidación.-Esta tasa se devengará el 31 de diciembre y se liquidará por el Consejo de Seguridad Nuclear.
+4. Exenciones y bonificaciones.-Esta cuota se reducirá a 15.433,77 euros anuales durante el período de vigilancia radiológica.
+La tasa del primer y último año será, en cada caso, proporcional al número de meses en los que el Consejo de Seguridad Nuclear haya prestado los correspondientes servicios.
+Se modifican los apartados 2 y 4 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierten a euros las cuantías contempladas en los apartados 2 y 4 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 19
+
+Artículo 19. Tasa por pruebas, estudios, informes y evaluaciones que haya de practicar el Consejo para la concesión y renovación de licencias, títulos y acreditaciones para el personal de las instalaciones nucleares o radiactivas.
+Las actividades señaladas en este punto quedarán gravadas con las cuotas fijas siguientes:
+Concesión de licencias de supervisor u operador de instalaciones nucleares: 7.716,88 euros.
+Concesión de licencias de supervisor u operador de instalaciones radiactivas de primera categoría: 771,69 euros.
+Concesión de licencias de supervisor de instalaciones radiactivas de segunda y tercera categoría: 270,09 euros.
+Concesión de licencias de operador de instalaciones radiactivas de segunda y tercera categoría: 192,92 euros.
+Concesión de acreditaciones para operar o dirigir instalaciones de radiodiagnóstico: 38,59 euros.
+Renovación de licencias de supervisor u operador de instalaciones nucleares: 771,69 euros.
+Renovación de licencias de supervisor u operador de instalaciones radiactivas de primera categoría: 385,85 euros.
+Renovación de licencias de supervisor u operador de instalaciones radiactivas de segunda y tercera categoría: 115,75 euros.
+Renovación de acreditaciones para operar o dirigir instalaciones de radiodiagnóstico: 38,59 euros.
+Concesión de diploma de Jefe de Servicio de Protección Radiológica de instalaciones nucleares: 3.858,44 euros. Concesión de diploma de Jefe de Servicio de Protección Radiológica de instalaciones radiactivas de primera categoría: 1.929,21 euros.
+Concesión de diploma de Jefe de Servicio de Protección Radiológica de instalaciones radiactivas de segunda y tercera categoría: 771,69 euros.
+Concesión de diploma de Jefe de Servicio de Protección Radiológica de instalaciones de radiodiagnóstico: 385,85 euros.
+Se modifica por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Redactado conforme a la corrección de errores publicada en BOE núm. 76, de 30 de marzo de 2006. Ref. BOE-A-2006-5693
+ Se convierten a euros las cuantías contempladas en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+ Redactado conforme a la corrección de erratas publicada en BOE núm. 131, de 2 de junio de 1999. Ref. BOE-A-1999-12329
+
+### Artículo 20
+
+Artícu­lo 20. Tasa por estudios y evaluaciones necesarios para la homologación de programas académicos y cursos de formación y perfeccionamiento para el personal de las instalaciones radiactivas.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los estudios y evaluaciones necesarios para la homologación de programas académicos y cursos de formación y perfeccionamiento conducentes a la obtención de licencias de operación de instalaciones radiactivas o para la acreditación del personal de las instalaciones de radiodiagnóstico o sus modificaciones.
+2. Cuota.-Estos servicios quedarán gravados con una cuota fija de 2.315,07 euros. Las modificaciones de los cursos homologados serán gravados con una cuota de 771,69 euros.
+3. Devengo y liquidación.-El devengo e ingreso de la tasa se producirá en el momento de la presentación de la solicitud de homologación o modificación y será liquidada por el Consejo de Seguridad Nuclear.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierten a euros las cuantías contempladas en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 21
+
+Artícu­lo 21. Tasa por inspección y control de la impartición de los cursos homologados y de las pruebas de suficiencia en ellos previstas.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los servicios de inspección y control que sea necesario realizar en la impartición de los cursos homologados y en las pruebas de suficiencia en ellos previstas.
+2. Cuota.-Estos servicios quedarán gravados con una cuota fija de 578,77 euros.
+3. Devengo y liquidación.-Esta tasa se devengará a la presentación, en el Consejo de Seguridad Nuclear de las actas de examen, para su validación y se liquidará por dicho Organismo.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierte a euros la cuantía contemplada en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 22
+
+Artícu­lo 22. Tasa por informes, estudios o inspecciones que condicionen las autorizaciones para el transporte de sustancias nucleares o materias radiactivas.
+1. Hecho imponible.-Constituyen el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los informes, estudios o inspecciones que condicionen las autorizaciones para el transporte de sustancias nucleares o materias radiactivas o su modificación o prórroga.
+2. Cuota.-Dichos informes o estudios quedarán gravados con la cuota fija de 3.858,44 euros por cada autorización.
+3. Devengo y liquidación.-El devengo e ingreso de la tasa se producirá en el momento de solicitar la autorización de transporte, modificación o prórroga y será liquidada por el Consejo de Seguridad Nuclear.
+4. Exenciones y bonificaciones.-Los informes o estudios que sean necesarios para modificar o prorrogar autorizaciones vigentes quedarán gravados con el 50 por 100 de la cuota correspondiente.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierte a euros la cuantía contemplada en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 23
+
+Artícu­lo 23. Tasa por inspección y control de los transportes de sustancias nucleares o materias radiactivas.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los servicios de inspección y control que sea necesario realizar en los transportes de sustancias nucleares o materias radiactivas.
+2. Cuota.-Estos servicios quedarán gravados por cada actuación con la cuota fija siguiente:
+Transportes de combustible nuclear, materiales fisionables y residuos procedentes de centrales nucleares: 1.543,38 euros.
+Transportes de fuentes radiactivas: 578,77 euros.
+Quedan exentos del pago de esta tasa los transportes de residuos radiactivos originados en instalaciones radiactivas de segunda y tercera categoría.
+3. Devengo y liquidación.-Esta tasa se devengará en el momento de iniciarse la correspondiente actuación y será liquidada por el Consejo de Seguridad Nuclear.
+4. Exenciones y bonificaciones.-En ningún caso, un mismo transporte podrá ser objeto de más de una tasa por servicios de inspección y control, sin perjuicio de que pueda ser inspeccionado cuantas veces sea necesario por razones de seguridad.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierten a euros las cuantías contempladas en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 24
+
+Artícu­lo 24. Tasa por estudios, informes o inspecciones para la concesión de autorizaciones de fabricación o exención de equipos que incorporen fuentes radiactivas o sean generadores de radiaciones ionizantes y para la aprobación o convalidación de bultos destinados al transporte o almacenamiento de sustancias radiactivas.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los estudios, informes o inspecciones que legalmente sean exigibles para la concesión de autorizaciones de fabricación o exención de equipos que incorporen fuentes radiactivas o sean generadores de radiaciones ionizantes y para la aprobación o convalidación de bultos destinados al transporte o almacenamiento de sustancias radiactivas o su modificación o prórroga.
+2. Cuota.-Estos servicios quedarán gravados con una cuota fija de 5.787,66 euros para la exención, y de 3.858,44 euros para el resto de las autorizaciones descritas en este artículo.
+3. Devengo y liquidación.-Esta tasa se devengará en el momento de la solicitud y será liquidada por el Consejo de Seguridad Nuclear.
+4. Exenciones y bonificaciones.-Los informes o estudios que sean necesarios para modificar o prorrogar autorizaciones vigentes quedarán gravados con el 50 por 100 de la cuota correspondiente.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierten a euros las cuantías contempladas en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 25
+
+Artícu­lo 25. Tasa por estudios, informes o inspecciones para la concesión de autorizaciones de desclasificación de materiales de bajo contenido de sustancias radiactivas.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los estudios, informes o inspecciones, que legalmente sean exigibles, para la concesión de autorizaciones de desclasificación de materiales de bajo contenido de sustancias radiactivas.
+2. Cuota.-Estos servicios quedarán gravados con una cuota fija de 192,92 euros por metro cúbico de material cuya desclasificación se solicita.
+3. Devengo y liquidación.-Esta tasa se devengará en el momento de la solicitud y será liquidada por el Consejo de Seguridad Nuclear.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierte a euros las cuantía contemplada en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 26
+
+Artícu­lo 26. Tasa por inspección y control para garantizar la fabricación adecuada de los equipos que incorporen fuentes radiactivas o sean productores de radiaciones ionizantes o en relación con los equipos exentos.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los servicios de inspección y control necesarios para garantizar la fabricación adecuada de los equipos que incorporen fuentes radiactivas o sean productores de radiaciones ionizantes o en relación con los equipos exentos.
+2. Cuota.-Estos servicios quedarán gravados con una cuota fija, por cada actuación, de 578,77 euros.
+3. Devengo y liquidación.-Esta tasa se devengará en el momento de efectuarse la correspondiente actuación y será liquidada por el Consejo de Seguridad Nuclear.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierte a euros la cuantía contemplada en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 27
+
+Artícu­lo 27. Tasa por estudios, informes o inspecciones para la concesión de la autorización de las empresas que actúen en el ámbito de la protección radiológica.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización, por el Consejo de Seguridad Nuclear, de los estudios, informes o inspecciones que sean necesarios para la concesión de la autorización de las empresas de venta y asistencia técnica de los equipos de radiodiagnóstico y otros equipos destinados a instalaciones radiactivas; los Servicios o Unidades Técnicas de Protección Radiológica; las entidades, instituciones o servicios que efectúan la dosimetría individual; los Servicios Médicos Especializados para la vigilancia médica de los trabajadores profesionalmente expuestos y los centros de asistencia para la atención médica a los irradiados o contaminados y las modificaciones de estas autorizaciones.
+2. Cuota.-Estos servicios quedarán gravados con la cuota fija siguiente:
+Servicios de Protección Radiológica y Unidades Técnicas de Protección Radiológica: 2.315,07 euros.
+Empresas o entidades de venta o asistencia técnica: 1.543,38 euros.
+Servicios de Dosimetría Personal o Servicios Médicos Especializados: 1.543,38 euros.
+Centros de Asistencia para la atención médica a los irradiados o contaminados: 1.543,38 euros.
+3. Devengo y liquidación.-Esta tasa se devengará en el momento de solicitar la autorización y será liquidada por el Consejo de Seguridad Nuclear.
+4. Exenciones y bonificaciones.-Las modificaciones de las autorizaciones para estas entidades se gravarán con una cuota fija del 50 por 100 de la tasa correspondiente a la primera autorización.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierten a euros las cuantías contempladas en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+ Redactado el apartado 3 conforme a la corrección de erratas publicada en BOE núm. 131, de 2 de junio de 1999. Ref. BOE-A-1999-12329
+
+### Artículo 28
+
+Artícu­lo 28. Tasa por inspección y control para garantizar el funcionamiento adecuado de las empresas que actúen en el ámbito de la protección radiológica.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa los servicios de inspección y control para garantizar el funcionamiento adecuado de las empresas de venta y asistencia técnica de los equipos de radiodiagnóstico y otros equipos destinados a instalaciones radiactivas; los Servicios o Unidades Técnicas de Protección Radiológica; las entidades, instituciones o servicios que efectúan la dosimetría individual; los Servicios Médicos Especializados para la vigilancia médica de los trabajadores profesionalmente expuestos y los centros de asistencia para la atención médica a los irradiados o contaminados.
+2. Cuota.-Estos servicios quedarán gravados con las cuotas y cuantías siguientes:
+Empresas de Venta y Asistencia Técnica: 1.157,53 euros.
+Servicios o Unidades Técnicas de Protección Radiológica: 1.929,21 euros.
+Entidades, instituciones o servicios que efectúan la dosimetría individual: 1.929,21 euros.
+Servicios Médicos Especializados y centros de asistencia para la atención médica: 1.157,53 euros.
+3. Devengo y liquidación.-La tasa se devengará en el momento de efectuarse la correspondiente actuación y será liquidada por el Consejo de Seguridad Nuclear.
+En ningún caso estas instalaciones serán objeto de más de una tasa de inspección y control al año cuando las actas de inspección resultaren de conformidad.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierten a euros las cuantías contempladas en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+ Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 131, de 2 de junio de 1999. Ref. BOE-A-1999-12329
+
+### Artículo 29
+
+Artícu­lo 29. Tasa por inspección y control para verificar el cumplimiento de las obligaciones, en materia de seguridad nuclear y protección radiológica, de las empresas externas a los titulares de las instalaciones nucleares o radiactivas con trabajadores profesionalmente expuestos.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa los servicios de inspección y control realizados por el Consejo de Seguridad Nuclear con objeto de verificar la autenticidad de los datos que obran en el Registro de Empresas Externas, así como el grado de cumplimiento de las obligaciones establecidas en el Real Decreto que las regula.
+2. Cuota.-Estos servicios quedarán gravados con una cuota fija de 270,09 euros.
+3. Devengo y liquidación.-Esta tasa se devengará en el momento de iniciarse la correspondiente actuación y será liquidada por el Consejo de Seguridad Nuclear. En ningún caso estas empresas serán objeto de más de una tasa anual, cuando las actas de inspección resulten de conformidad en materia de seguridad nuclear o protección radiológica.
+Se modifica el apartado 2 por el art. 73 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525#a73
+ Se convierte a euros la cuantía contemplada en el apartado 2 por el apartado 8 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036
+
+### Artículo 30
+
+Artículo 30. Tasa por inspección, control y elaboración de informes realizados en situaciones excepcionales o de emergencia que se presenten, fuera del ámbito de instalaciones nucleares y radiactivas, como consecuencia de sucesos que puedan afectar a la seguridad nuclear o a la protección radiológica.
+1. Hecho imponible.-Constituye el hecho imponible de esta tasa la realización por el Consejo de Seguridad Nuclear de los servicios de inspección, control y elaboración de informes en situaciones excepcionales o de emergencia que se presenten, fuera del ámbito de instalaciones nucleares y radiactivas, como consecuencia de sucesos que puedan afectar a la seguridad nuclear o a la protección radiológica, en relación con cualquiera de los siguientes objetos:
+a) Análisis de la situación de hecho producida y propuesta de adopción de las medidas preventivas y correctoras urgentes que sean necesarias.
+b) Cualquier otra actuación técnica y facultativa de vigilancia, dirección, inspección, investigación, estudio, informe, asesoramiento, comprobación, reconocimiento o prospección derivada de dichas situaciones excepcionales o de emergencia.
+2. Cuota.-Estos servicios quedarán gravados con una tasa integrada por el coste real, debidamente acreditado por el Organismo, de los recursos propios y ajenos precisos para la prestación de los mismos.
+Tratándose de recursos propios, se incluirán en la cuota los costes directos derivados de las horas de trabajo prestadas por personal del Organismo, incluyendo, asimismo, los gastos de desplazamiento, estancia y manutención, y los costes indirectos que resulten de la imputación certificada del porcentaje de los gastos generales. Los recursos ajenos aportados por terceros se computarán por el importe total facturado al Consejo de Seguridad Nuclear.
+3. Devengo y liquidación.-Esta tasa se devengará el 31 de diciembre del año en que se hayan ultimado, a juicio del Consejo de Seguridad Nuclear, las correspondientes actuaciones o servicios que dan lugar a la exigibilidad de la tasa, y será liquidada por el Consejo de Seguridad Nuclear. En el supuesto de que dichas actuaciones o servicios se extiendan a más de un ejercicio presupuestario, el Consejo de Seguridad Nuclear realizará el 31 de diciembre de cada año liquidaciones provisionales cautelares a cuenta de la definitiva por los costes devengados a esta fecha.
+4. Sujeto pasivo.-Serán sujetos pasivos de esta tasa las personas físicas o jurídicas titulares de las instalaciones, industrias, empresas o actividades donde tenga lugar el suceso que motive la prestación de servicios por el Consejo de Seguridad Nuclear.
+
+## TÍTULO III
+
+Precios públicos
+
+### Artículo 31
+
+Artículo 31. Precios públicos por la realización de informes, pruebas o estudios a instancia de parte.
+1. Objeto.
+a) Constituye el objeto del precio la realización por el Consejo de Seguridad Nuclear, a instancia de parte, de informes, pruebas o estudios sobre nuevos diseños, metodologías, modelos de simulación o protocolos de verificación relacionados con la seguridad nuclear o protección radiológica, así como para su renovación o modificación.
+b) La realización por el Consejo de Seguridad Nuclear, a instancia de entidades públicas u organizaciones representativas de intereses generales, de informes, pruebas o estudios relativos a la protección radiológica del público y del medio ambiente.
+Las actividades reseñadas en los apartados a) y b) precedentes se gravarán con un precio público cuando no formen parte de uno de los procedimientos administrativos sometidos a tasa en virtud de la presente Ley.
+2. Importe.-La cuantía del precio será fijada en cada caso directamente por el Consejo de Seguridad Nuclear, y se corresponderá con el coste de los recursos, propios o ajenos, necesarios para la prestación del servicio.
+El precio resultante será debidamente detallado y comunicado al solicitante, quien, en el plazo de dos meses, podrá ratificar su solicitud mediante la aceptación del precio fijado, cuyo pago será exigible a partir de ese momento.
+Cuando en el proceso de evaluación se detecten variaciones que afecten al precio público aceptado se pondrán en conocimiento del solicitante quien podrá, en el plazo de un mes, aceptar o rechazar la variación.
+En el caso de que el interesado aceptase la variación, el Consejo de Seguridad Nuclear liquidará el importe de la variación que corresponda.
+Si el solicitante no aceptase la modificación del precio público, el Consejo de Seguridad Nuclear, previa justificación del coste de los recursos utilizados hasta esa fecha, procederá a efectuar la liquidación definitiva.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Queda modificado el artículo 2 de la Ley 15/1980, de 22 de abril, de Creación del Consejo de Seguridad Nuclear, que quedará redactado en los términos siguientes:
+«Artículo 2.
+Las funciones del Consejo de Seguridad Nuclear serán las siguientes:
+a) Proponer al Gobierno las reglamentaciones necesarias en materia de seguridad nuclear y protección radiológica, así como las revisiones que considere convenientes. Dentro de esta reglamentación se establecerán los criterios objetivos para la selección de emplazamientos de las instalaciones nucleares y de las radiactivas de primera categoría, previo informe de las Comunidades Autónomas, en la forma y plazo que reglamentariamente se determinen.
+Asimismo, podrá elaborar y aprobar las instrucciones, circulares y guías de carácter técnico relativas a las instalaciones nucleares y radiactivas y las actividades relacionadas con la seguridad nuclear y la protección radiológica.
+b) Emitir informes al Ministerio de Industria y Energía, previos a las resoluciones que éste adopte en materia de concesión de autorizaciones para las instalaciones nucleares y radiactivas, los transportes de sustancias nucleares o materiales radiactivos, la fabricación y homologación de equipos que incorporen fuentes radiactivas o sean generadores de radiaciones ionizantes, la explotación, restauración o cierre de las minas de uranio, y, en general, de todas las actividades relacionadas con la manipulación, procesado, almacenamiento y transporte de sustancias nucleares y radiactivas.
+Emitir informes previos a las resoluciones del Ministerio de Industria y Energía en relación con la autorización de empresas de venta y asistencia técnica de los equipos e instalaciones de rayos X para diagnóstico médico y de otros equipos destinados a instalaciones radiactivas y llevar a cabo su inspección y control.
+Emitir los informes previos a las resoluciones que en casos y circunstancias excepcionales dicte el Ministerio de Industria y Energía, a iniciativa propia o a instancia del Consejo de Seguridad Nuclear, en relación con la retirada y gestión segura de materiales radiactivos.
+Dichos informes serán preceptivos en todo caso y, además vinculantes cuando tengan carácter negativo o denegatorio de una concesión y, asimismo, en cuanto a las condiciones que establezcan, caso de ser positivos.
+Los procedimientos en los que deban emitirse los informes a los que se refiere este apartado podrán ser suspendidos por el órgano competente para su resolución, excepcionalmente, con carácter indefinido hasta la emisión de los mismos o durante el período de tiempo que se considere adecuado para que éstos sean emitidos, justificando motivadamente la suspensión.
+c) Realizar toda clase de inspecciones en las instalaciones nucleares o radiactivas durante las distintas fases de proyecto, construcción y puesta en marcha, en los transportes, fabricación y homologación de equipos que incorporen fuentes radiactivas o sean generadores de radiaciones ionizantes, y la aprobación o convalidación de bultos destinados al transporte de sustancias radiactivas con objeto de garantizar el cumplimiento de la legislación vigente y de los condicionamientos impuestos en las correspondientes autorizaciones, con facultad para la paralización de las obras o actividades en caso de aparición de anomalías que afecten a la seguridad y hasta tanto éstas sean corregidas, pudiendo proponer la anulación de la autorización si las anomalías no fueran susceptibles de ser corregidas.
+d) Llevar a cabo la inspección y control de las instalaciones nucleares y radiactivas durante su funcionamiento, y hasta su clausura, al objeto de asegurar el cumplimiento de todas las normas y condicionamientos establecidos, tanto de tipo general como los particulares establecidos para la instalación, con el fin de que el funcionamiento de dichas instalaciones no suponga riesgos indebidos, ni para las personas ni para el medio ambiente.
+El Consejo de Seguridad Nuclear tiene autoridad para suspender el funcionamiento de las instalaciones o las actividades que se realicen, por razones de seguridad.
+e) Proponer la apertura de los expedientes sancionadores que considere pertinentes en el ámbito de sus competencias, de acuerdo con la legislación vigente.
+Asimismo, el Consejo de Seguridad Nuclear, iniciado un procedimiento sancionador en materia de seguridad nuclear o protección radiológica emitirá, con carácter preceptivo, informe en el plazo de dos meses, para la adecuada calificación de los hechos objeto de procedimiento. Este informe se emitirá cuando dicha iniciación lo fuera a instancia de otro organismo, o en el supuesto de que habiéndose incoado como consecuencia de petición razonada del propio Consejo de Seguridad Nuclear, consten en dicho procedimiento otros datos además de los comunicados por dicho ente.
+f) Colaborar con las autoridades competentes en la elaboración de los criterios a los que han de ajustarse los planes de emergencia exterior y protección física de las instalaciones nucleares y radiactivas y de los transportes, y una vez redactados los planes participar en su aprobación.
+Coordinar, para todos los aspectos relacionados con la seguridad nuclear y la protección radiológica, las medidas de apoyo y respuesta a las situaciones de emergencia, integrando y coordinando a los diversos organismos y empresas públicas o privadas cuyo concurso sea necesario para el cumplimiento de las funciones atribuidas a este Organismo.
+Asimismo, realizar cualesquiera otras actividades en materia de emergencias que le sean asignadas en la reglamentación aplicable.
+g) Controlar las medidas de protección radiológica de los trabajadores profesionalmente expuestos, del público y del medio ambiente. Vigilar y controlar las dosis de radiación recibidas por el personal de operación y las descargas de materiales radiactivos al exterior de las instalaciones nucleares y radiactivas y su incidencia, particular o acumulativa, en las zonas de influencia de estas instalaciones.
+Evaluar el impacto radiológico ambiental de las instalaciones nucleares y radiactivas y de las actividades que impliquen el uso de radiaciones ionizantes, de acuerdo con lo establecido en la legislación aplicable.
+Controlar y vigilar la calidad radiológica del medio ambiente de todo el territorio nacional, en cumplimiento de las obligaciones internacionales del Estado español en la materia, y sin perjuicio de la competencia que las distintas Administraciones públicas tengan atribuidas.
+De igual modo, colaborar con las autoridades competentes en materia de vigilancia radiológica ambiental fuera de las zonas de influencia de las instalaciones nucleares o radiactivas.
+h) Conceder y, en su caso, revocar las autorizaciones correspondientes a las entidades o empresas que presten servicios en el ámbito de la protección radiológica, así como efectuar la inspección y control, en materia de seguridad nuclear y protección radiológica, de las citadas entidades, empresas, servicios y centros autorizados.
+Colaborar con las autoridades competentes en relación con la vigilancia sanitaria de los trabajadores profesionalmente expuestos y en la atención médica de personas potencialmente afectadas por las radiaciones ionizantes.
+Crear y mantener el Registro de Empresas Externas a los titulares de las instalaciones nucleares o radiactivas con trabajadores clasificados como profesionalmente expuestos y efectuar el control o las inspecciones que estime necesarios sobre dichas empresas.
+De igual modo podrá, a solicitud de parte, emitir declaraciones de apreciación favorable sobre nuevos diseños, metodologías, modelos de simulación o protocolos de verificación relacionados con la seguridad nuclear y la protección radiológica.
+i) Informar al Ministerio de Industria y Energía en relación con las concentraciones o niveles de actividad, para su consideración como residuos radiactivos, de aquellos materiales que contengan o incorporen sustancias radiactivas y para las que no esté previsto ningún uso.
+j) Conceder y renovar, mediante la realización de las pruebas que el propio Consejo establezca, las licencias de operador y supervisor para instalaciones nucleares o radiactivas, los diplomas de jefe de servicio de protección radiológica, y las acreditaciones para dirigir u operar las instalaciones de rayos X con fines de diagnóstico médico.
+Asimismo, homologar programas y cursos de formación y perfeccionamiento específicos en materia de seguridad nuclear y protección radiológica que capaciten para dirigir el funcionamiento u operar las instalaciones radiactivas y los equipos de las instalaciones de rayos X con fines de diagnóstico médico, y los que capaciten para ejercer las funciones de Jefe de Servicio de Protección Radiológica.
+k) Realizar los estudios, evaluaciones e inspecciones de los planes, programas y proyectos necesarios para todas las fases de la gestión de los residuos radiactivos.
+l) Asesorar, cuando sea requerido para ello, a los Tribunales y a los órganos de las Administraciones públicas en materia de seguridad nuclear y protección radiológica.
+ll) Mantener relaciones oficiales con organismos similares extranjeros y participar en organismos internacionales con competencia en temas de seguridad nuclear o protección radiológica.
+Asimismo, podrá colaborar con Organismos u Organizaciones internacionales en programas de asistencia en materia de seguridad nuclear y protección radiológica, participando en su ejecución bien directamente o a través de la contratación a este fin, de terceras personas o entidades, siempre de conformidad a las condiciones determinadas por dichas Organizaciones.
+m) Informar a la opinión pública, sobre materias de su competencia con la extensión y periodicidad que el Consejo determine, sin perjuicio de la publicidad de sus actuaciones administrativas en los términos legalmente establecidos.
+n) Conocer del Gobierno y asesorar al mismo respecto de los compromisos con otros países u Organismos internacionales en materia de seguridad nuclear y protección radiológica, los cuales serán tenidos en cuenta en el ejercicio de las funciones que son conferidas al Consejo por esta Ley.
+ñ) Establecer y efectuar el seguimiento de planes de investigación en materia de seguridad nuclear y protección radiológica.
+o) Recoger información precisa y asesorar en su caso, respecto a las afecciones que pudieran originarse en las personas por radiaciones ionizantes derivadas del funcionamiento de instalaciones nucleares o radiactivas.
+p) Inspeccionar, evaluar, controlar, informar y proponer a la autoridad competente la adopción de cuantas medidas de prevención y corrección sean precisas ante situaciones excepcionales o de emergencia que se presenten y que puedan afectar a la seguridad nuclear y a la protección radiológica, cuando tengan su origen en instalaciones, equipos, empresas o actividades no sujetas al régimen de autorizaciones de la legislación nuclear.
+q) Cualquier otra que, en el ámbito de la seguridad nuclear y la protección radiológica, le sea legalmente atribuida.»
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La gestión de los residuos radiactivos generados en los supuestos excepcionales previstos en el artículo 2 de la Ley 15/1980, de 22 de abril, de Creación del Consejo de Seguridad Nuclear, por la entidad autorizada para ello, podrá ser efectuada con cargo a los rendimientos financieros integrados en el fondo a que se refiere la disposición adicional sexta de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, cuando el coste de esta gestión no pueda repercutirse de conformidad con la normativa vigente y así lo determine el Ministerio de Industria y Energía.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Se añade un último párrafo al artículo 7.1 de la Ley 15/1980, de 22 de abril, de Creación del Consejo de Seguridad Nuclear, en los siguientes términos:
+«Cuando el cese de Presidente y Consejeros tenga lugar por finalizar el período para el que fueron designados, los mismos continuarán en el ejercicio de sus funciones hasta que hayan tomado posesión quienes hubieran de sucederles.»
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Se modifica el artículo 11 de la Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad Nuclear, que quedará redactado en los términos siguientes:
+«El Consejo de Seguridad Nuclear elevará, anualmente, al Congreso de los Diputados y al Senado, un informe sobre el desarrollo de sus actividades.»
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Se modifica el artículo 94.2 de la Ley 25/1964, de 29 de abril, reguladora de la Energía Nuclear, según redacción dada por la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, añadiendo un segundo párrafo redactado en los términos siguientes:
+«No obstante, cuando las circunstancias del caso así lo aconsejen y siempre que no se deriven daños y perjuicios directos a las personas o al medio ambiente, el Consejo de Seguridad Nuclear podrá apercibir al titular de la actividad y proponer las medidas correctoras que correspondan. En caso de que este requerimiento no fuese atendido, por el Consejo de Seguridad Nuclear se podrán imponer multas coercitivas por un importe que no superará el 20 por 100 de la multa fijada para la infracción correspondiente y proponer, en su caso, la iniciación del expediente sancionador. En todo caso, de estas actuaciones se dará cuenta al órgano competente para incoar los expedientes sancionadores.»
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.e) de la Ley 17/2001, de 7 de diciembre. Ref. BOE-A-2001-23093
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.e) de la Ley 17/2001, de 7 de diciembre. Ref. BOE-A-2001-23093
+
+### Disposición adicional octava
+
+Disposición adicional octava. Tasa por utilización de espacios en museos y otras instituciones culturales del Ministerio de Educación y Cultura.
+Se añade a la Ley 25/1998, de 13 de julio, de modificación del Régimen Legal de las Tasas Estatales y Locales y de Reordenación de las Prestaciones de Carácter Público, el siguiente artículo:
+«Artículo 55 bis. Gestión, recaudación y afectación.
+1. La gestión y recaudación de la tasa corresponderá a cada una de las Direcciones Generales u Organismos autónomos de quien dependa la institución cultural.
+2. El importe de la recaudación de esta tasa en lo que afecta a los organismos autónomos del Ministerio de Educación y Cultura, formará parte del presupuesto de ingresos del correspondiente organismo gestor.»
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Adquirirán carácter de definitivas las liquidaciones de las instalaciones nucleares que, a la entrada en vigor de esta Ley, no se les haya practicado la liquidación definitiva por los servicios de estudios, informes e inspecciones para las autorizaciones para la entrada en funcionamiento.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.e) de la Ley 17/2001, de 7 de diciembre. Ref. BOE-A-2001-23093
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en la presente Ley y, en concreto, el artículo 10 de la Ley 15/1980, de Creación del Consejo de Seguridad Nuclear, y el Real Decreto 3229/1982, de 12 de noviembre, por el que se regula la tasa de servicios prestados por el Consejo de Seguridad Nuclear.
+
+### Disposición final única
+
+Disposición final única.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», sin perjuicio de lo establecido en las disposiciones transitorias.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 4 de mayo de 1999.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

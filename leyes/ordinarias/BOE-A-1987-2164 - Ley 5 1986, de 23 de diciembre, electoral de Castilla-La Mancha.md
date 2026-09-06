@@ -1,0 +1,651 @@
+# Ley 5/1986, de 23 de diciembre, electoral de Castilla-La Mancha.
+
+- Identificador BOE: `BOE-A-1987-2164`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-2164
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA
+Hago saber a todos los ciudadanos de la Región que las Cortes de Castilla-La Mancha han aprobado la Ley 5/1986, de 23 de diciembre, electoral de Castilla-La Mancha.
+Por consiguiente, al amparo del artículo 12, número 2 del Estatuto de Autonomía, aprobado por Ley Orgánica 9/1982, de 10 de agosto, en nombre del Rey promulgo y ordeno la publicación en el «Diario Oficial de la Comunidad Autónoma» y su remisión al «Boletín Oficial del Estado» de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+El Estatuto de Autonomía de Castilla-La Mancha establece en su artículo 10 que una Ley de las Cortes Regionales señalará los plazos y regulará el procedimiento para la elección de sus miembros, la atribución de escaños y las causas de inelegibilidad, fijando un mínimo de 40 Diputados y un máximo de 50, elegidos por sufragio universal, igual, libre, directo y secreto.
+El cumplimiento de los preceptos estatutarios y su adecuación a la realidad social y política de Castilla-La Mancha, así como la integración de los principios de la normativa electoral regional en el marco de la Ley Orgánica del Régimen Electoral General, constituyen el objetivo formal de esta Ley.
+La presente Ley Electoral Regional establece las bases para hacer real un principio democrático irrenunciable, cual es que el poder político sea un fiel reflejo de la voluntad popular libremente expresada.
+La estructura de la Ley es similar a la seguida por la Ley Orgánica del Régimen Electoral General, a la que con frecuencia se remite, a fin de evitar confusión e innecesaria reiteración.
+En el aspecto orgánico, la Ley crea la Junta Electoral de Castilla-La Mancha, que quedá configurada como órgano superior de ordenación y control del proceso electoral autonómico, otorgándole el carácter de órgano permanente con una composición de amplia representación judicial como garantía de su imparcial actuación.
+Asimismo se establecen en la presente Ley las causas de inelegibilidad e incompatibilidad, con la finalidad de garantizar la neutralidad de las instituciones en el proceso electoral y se incrementa el número actual de Diputados para conseguir una doble finalidad. De una parte, asegurar la mayor representación de los ciudadanos de las diversas provincias de la Región, de otra, garantizar la presencia en la Cámara de todas las opciones políticas que cuenten con un mínimo de respaldo electoral.
+Al establecer que el número de Diputados sea impar se elimina la posibilidad del empate, lo cual permite obviar un posible problema en la gobernabilidad de la Región.
+Configurada la provincia como distrito electoral, el reparto de escaños se realiza asignando cinco Diputados a cada provincia, garantizándose de este modo una adecuada representación territorial. Los restantes escaños se asignan atendiendo a un criterio de distribución proporcional a la población de cada distrito electoral.
+Finalmente, se regulan de forma pormenorizada, los gastos y subvenciones electorales optando la Ley por fijar cuantías medias en relación con las previstas para las elecciones generales y de acuerdo con criterios de austeridad.
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley, en cumplimiento de lo dispuesto en el artículo 10 del Estatuto de Autonomía tiene por objeto regular las elecciones a Diputados de las Cortes de Castilla-La Mancha.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Derecho de sufragio activo
+
+### Artículo 2
+
+Artículo 2.
+1. Son electores los ciudadanos y ciudadanas de Castilla-La Mancha mayores de edad que gocen del derecho de sufragio activo.
+2. Para el ejercicio del derecho de sufragio es indispensable la inscripción en el Censo Electoral único vigente.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+## CAPÍTULO II
+
+Derecho de sufragio pasivo
+
+### Artículo 3
+
+Artículo 3.
+1. Son elegibles los electores que no se encuentren incursos en alguna de las causas de inelegibilidad recogidas en las disposiciones comunes de la Ley Orgánica del Régimen Electoral General.
+2. Serán, asimismo, inelegibles:
+a) Los miembros de la Sindicatura de Cuentas de Castilla-La Mancha.
+b) El Presidente del Consejo Consultivo de Castilla-La Mancha y los Consejeros de dicho órgano.
+c) El Presidente del Consejo Económico y Social de Castilla-La Mancha.
+d) Los Directores generales, Secretarios generales Técnicos y Secretarios generales de las Consejerías.
+e) Los Directores o Jefes de Gabinete de los miembros del Consejo de Gobierno.
+f) Los Delegados provinciales de la Junta de Comunidades y los de las Consejerías, en el ámbito territorial de su jurisdicción.
+g) El Director general de la Radio y Televisión de Castilla-La Mancha y los Directores de sus sociedades.
+h) El Presidente, los Vocales y el Secretario de la Junta Electoral de Castilla-La Mancha.
+i) Los Parlamentarios de las Asambleas Legislativas de otras Comunidades Autónomas.
+j) Los miembros de los Consejos de Gobierno de las demás Comunidades Autónomas y los cargos de libre designación de los citados Consejos.
+k) Los que ejerzan funciones o cargos concedidos y remunerados por un Estado extranjero.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+### Artículo 4
+
+Artículo 4.
+La calificación de inelegible procederá respecto de quienes incurran en algunas de las causas mencionadas en el artículo anterior el mismo día de la presentación de su candidatura, o en cualquier momento posterior hasta la celebración de las elecciones.
+
+### Artículo 5
+
+Artículo 5.
+Podrán ser proclamados candidatos, pese a no figurar en las listas del censo electoral, quienes con la solicitud acrediten de modo fehaciente que reúnen todas las condiciones exigidas para ello en la Ley Orgánica del Régimen Electoral General.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+## CAPÍTULO III
+
+Incompatibilidades
+
+### Artículo 6
+
+Artículo 6.
+1. Todas las causas de inelegibilidad de los Diputados a las Cortes de Castilla-La Mancha lo son también de incompatibilidad.
+2. Además de los comprendidos en el artículo 155.2 de la Ley Orgánica del Régimen Electoral General, son incompatibles:
+a) Los Senadores, salvo los elegidos en representación de la Comunidad Autónoma.
+b) Los Parlamentarios europeos.
+c) Los miembros del Consejo de Administración de la Radio y Televisión de Castilla-La Mancha.
+d) Los Presidentes del Consejo de Administración, los Consejeros, Administradores, Directores generales, Gerentes y cargos asimilados de entes públicos y empresas de participación pública mayoritaria cualquiera que sea su forma, incluidas las Cajas de Ahorro de fundación pública, salvo que concurriera en ellos la cualidad de miembro del Consejo de Gobierno de Castilla-La Mancha.
+3. Los Diputados con régimen de dedicación exclusiva a la actividad parlamentaria estarán sometidos a las incompatibilidades establecidas para los miembros del Consejo de Gobierno de la Junta de Comunidades. No obstante podrán ser miembros de las Corporaciones Locales.
+4. En todo caso es incompatible la condición de Diputado con las actividades siguientes:
+a) Las actividades de gestión, defensa, dirección o asesoramiento ante cualesquiera organismos o empresas del sector público estatal, autonómico o local, respecto de asuntos que hayan de resolverse por ellos, que afecten directamente a la realización de algún servicio público o que estén encaminados a la obtención de subvenciones o avales públicos. Se exceptúan las actividades particulares que, en ejercicio de un derecho reconocido, realicen los particulares interesados, así como las subvenciones o avales cuya concesión se derive de la aplicación automática de lo dispuesto en una Ley o Reglamento de carácter general.
+b) La actividad de contratista o fiador de obras, servicios, suministros y, en general, cualesquiera contratos que se paguen con fondos de organismos o empresas del sector público estatal, autonómico o local o el desempeño de puestos o cargos que lleven anejas funciones de dirección, representación, asesoramiento o prestación de servicios en compañías o empresas que se dediquen a dichas actividades.
+c) La prestación de servicios de asesoramiento o de cualquier otra índole, con titularidad individual o compartida, a favor de organismos o empresas del sector público estatal autonómico o local.
+d) La participación superior al 10 por 100 adquirida en todo o en parte con posterioridad a la fecha de su elección como Diputado de las Cortes de Castilla-La Mancha, salvo que fuere por herencia, en empresas o sociedades que tengan contratos de obras, servicios, suministros o, en general, cualesquiera otros que se paguen con fondos de organismos o empresas del sector público estatal, autonómico o local.
+e) Las funciones de Presidente del Consejo de Administración, Consejero, Administrador, Director general, Gerente o cargos equivalentes de cualesquiera sociedades o entidades que tengan un objeto fundamentalmente financiero y hagan apelación pública al ahorro y al crédito.
+f) Cualesquiera otras actividades que por su naturaleza sean incompatibles con la dedicación y las obligaciones parlamentarias contenidas en el Reglamento de las Cortes de Castilla-La Mancha.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+### Artículo 7
+
+Artículo 7.
+1. Ningún electo podrá adquirir la condición de Diputado si está incurso en alguna causa de incompatibilidad.
+2. El Diputado que incurra en causa de incompatibilidad deberá optar, en el plazo de ocho días, entre el escaño y el cargo incompatible.
+Si no ejercitara la opción en el plazo señalado, se entenderá que renuncia a su escaño.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+## TÍTULO II
+
+Administración Electoral
+
+### Artículo 8
+
+Artículo 8.
+Integran la Administración Electoral la Junta Electoral Central, la Junta Electoral de Castilla-La Mancha, las Provinciales y de Zona, así como las Mesas Electorales.
+
+### Artículo 9
+
+Artículo 9.
+1. La Junta Electoral de Castilla-La Mancha es un órgano permanente y está compuesto por:
+a) Cuatro Vocales Magistrados del Tribunal Superior de Justicia de Castilla-La Mancha, designados por insaculación celebrada ante su Sala de Gobierno.
+b) Tres Vocales Catedráticos o Profesores titulares de Derecho, Ciencias Políticas o Sociología en activo o Juristas de reconocido prestigio, designados a propuesta conjunta de los partidos, federaciones, coaliciones o agrupaciones de electores con representación en las Cortes de Castilla-La Mancha.
+2. Las designaciones a que se refiere el número anterior deben realizarse dentro de los noventa días siguientes a la sesión constitutiva de las Cortes de Castilla-La Mancha.
+Cuando la propuesta de las personas a que se refiere el apartado b) del número anterior no tenga lugar en dicho plazo, la Mesa de las Cortes, oídos los grupos políticos presentes en la Cámara, procederá a su designación en consideración a la representación existente en la misma.
+3. Los miembros de la Junta Electoral de Castilla-La Mancha serán nombrados por Decreto y continuarán en su mandato hasta la toma de posesión de la nueva Junta, al inicio de la siguiente legislatura.
+4. Los Vocales eligen, de entre los de origen judicial, al Presidente y Vicepresidente, en la sesión constitutiva que se celebrará a convocatoria del Secretario.
+5. El Secretario de la Junta Electoral de Castilla-La Mancha es el Letrado Mayor de sus Cortes.
+Participa en las deliberaciones con voz y sin voto y custodia la documentación correspondiente a la Junta Electoral.
+6. La Junta Electoral de Castilla-La Mancha tiene su sede en las Cortes Regionales.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+### Artículo 10
+
+Artículo 10.
+1. Las Cortes Regionales pondrán a disposición de la Junta Electoral de Castilla-La Mancha los medios personales y materiales necesarios para el ejercicio de sus funciones.
+2. La misma obligación compete al Consejo de Gobierno y a los Ayuntamientos en relación con las Juntas Electorales Provinciales y de Zona, respectivamente.
+
+### Artículo 11
+
+Artículo 11.
+La Junta Electoral de Castilla-La Mancha podrá requerir la presencia en sus reuniones, con voz y sin voto, de un representante de la oficina del Censo Electoral designado por su Director.
+
+### Artículo 12
+
+Artículo 12.
+1. Los miembros de la Junta Electoral de Castilla-La Mancha son inamovibles.
+2. Sólo podrán ser suspendidos por delitos o faltas electorales, previo expediente abierto por la Junta Electoral Central mediante el acuerdo de la mayoría absoluta de sus componentes, sin perjuicio del procedimiento judicial correspondiente.
+3. En el supuesto previsto en el número anterior, así como en caso de muerte, incapacidad, renuncia justificada y aceptada por el Presidente respectivo, se procederá a la sustitución de los miembros de la Junta Electoral de Castilla-La Mancha conforme a las siguientes reglas:
+a) Los Vocales, Presidente y Vicepresidente serán sustituidos por los mismos procedimientos previstos para su designación.
+b) El Letrado Mayor de las Cortes de Castilla-La Mancha será sustituido por el Letrado más antiguo y en caso de igualdad por el de más edad.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+### Artículo 13
+
+Artículo 13.
+Además de las competencias previstas en la legislación vigente, corresponde a la Junta Electoral de Castilla-La Mancha:
+a) Cursar instrucciones de obligado cumplimiento a las Juntas Electorales Provinciales, en materia de elecciones a Cortes de Castilla-La Mancha.
+b) Resolver, con carácter vinculante, las consultas que le formulen las Juntas Electorales Provinciales, en materia de elecciones a Cortes de Castilla-La Mancha.
+c) Revocar de oficio en cualquier tiempo, o a instancia de parte interesada, en los plazos previstos en el artículo 21 de la Ley Orgánica del Régimen Electoral General, las decisiones de las Juntas Electorales Provinciales, cuando se opongan a la interpretación de la normativa electoral realizada por la Junta Electoral de Castilla-La Mancha.
+d) Unificar los criterios interpretativos de las Juntas Electorales Provinciales en la aplicación de la normativa electoral de Castilla-La Mancha.
+e) Resolver las quejas, reclamaciones y recursos que se dirijan de acuerdo con la presente Ley o con cualquier otra disposición que le atribuya la competencia.
+f) Ejercer potestad disciplinaria sobre cuantas personas intervengan con carácter oficial en las operaciones electorales.
+g) Corregir las infracciones que se produzcan en el proceso electoral a Cortes de Castilla-La Mancha, siempre que no sean constitutivas de delito e imponer multas hasta la cantidad de 150.000 pesetas.
+h) Expedir las credenciales a los Diputados, en caso de vacante por fallecimiento, incapacidad o renuncia, una vez finalizado el mandato de las Juntas Electorales Provinciales.
+i) Velar por el cumplimiento de las normas relativas a las cuentas y a los gastos electorales por parte de las candidaturas durante el período comprendido entre la convocatoria y el centésimo día posterior al de la celebración de las elecciones. A tal fin podrá recabar información de las entidades financieras y de los Administradores electorales sobre cuantos extremos estime precisos para el cumplimiento de su función fiscalizadora y comunicará al Ministerio Fiscal los indicios de conductas constitutivas de delitos electoralesyalaSindicatura de Cuentas el resultado de su actividad fiscalizadora.
+j) Cuantas otras le puedan resultar atribuidas por delegación de la Junta Electoral Central.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+ Se modifica por el art. 1 de la Ley 1/1991, de 15 de marzo. Ref. BOE-A-1991-8592.
+
+### Artículo 14
+
+Artículo 14.
+1. Las dietas y gratificaciones correspondientes a los miembros de las Juntas Electorales y personal a su servicio se fijan por el Consejo de Gobierno para las elecciones a las Cortes Regionales.
+2. La percepción de dichas retribuciones es en todo caso compatible con la de sus haberes.
+3. El control financiero de dichas percepciones se realizará con arreglo a la legislación vigente.
+
+## TÍTULO III
+
+Sistema electoral
+
+### Artículo 15
+
+Artículo 15.
+La circunscripción electoral es la provincia.
+
+### Artículo 16
+
+Artículo 16.
+1. Las Cortes de Castilla-La Mancha están formadas por 33 Diputados.
+2. A cada provincia le corresponde un mínimo inicial de 3 Diputados.
+3. Los 18 Diputados restantes se distribuyen entre las provincias en proporción a su población, conforme al siguiente procedimiento:
+a) Se obtienen una cuota de reparto resultante de dividir por 18 la cifra total de la población de derecho de las cinco provincias de Castilla-La Mancha.
+b) Se adjudican a cada provincia tantos Diputados como resulte, en números enteros, de dividir la población de derecho provincial por la cuota de reparto.
+c) Los Diputados restantes se distribuyen asignando uno a cada una de las provincias cuyo cociente, obtenido conforme al apartado anterior tenga una fracción decimal mayor.
+4. El Decreto de convocatoria debe especificar el número de Diputados a elegir en cada circunscripción, de acuerdo con lo dispuesto en este artículo.
+Se modifica por el art. único de la Ley 4/2014, de 21 de julio. Ref. BOE-A-2014-10667.
+ Se modifica por el art. único de la Ley 4/2012, de 17 de mayo. Ref. BOE-A-2012-10759.
+ Se modifica por el art. único de la Ley 12/2007, de 8 de noviembre. Ref. BOE-A-2008-6806.
+ Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+### Artículo 17
+
+Artículo 17.
+La atribución de los escaños en función de los resultados del escrutinio se realizará conforme a las siguientes reglas:
+a) No se tienen en cuenta aquellas candidaturas que no hubieran obtenido, al menos, el 3 por 100 de los votos válidos emitidos en la circunscripción.
+b) Se ordenan de mayor a menor, en una columna, las cifras de votos obtenidos por las restantes candidaturas.
+c) Se divide el número de votos obtenidos por cada candidatura por 1, 2, 3, etc., hasta un número igual al de escaños correspondientes a la circunscripción, formándose un cuadro similar al que aparece en el ejemplo práctico que se refleja en el artículo 163 de la Ley Orgánica sobre el Régimen Electoral General. Los escaños se atribuyen a las candidaturas que obtengan los cocientes mayores en el cuadro, atendiendo a un orden decreciente.
+d) Cuando en la relación de cocientes coincidan distintas candidaturas el escaño se atribuirá a la que mayor número total de votos hubiese obtenido. Si hubiera dos candidaturas con igual número total de votos, el primer empate se resolverá por sorteo y los sucesivos de forma alternativa.
+e) Los escaños correspondientes a cada candidatura se adjudican a los candidatos incluidos en ella, por el orden de colocación en que aparezcan.
+
+### Artículo 18
+
+Artículo 18.
+En caso de fallecimiento, incapacidad o renuncia de un Diputado, el escaño será atribuido al candidato o, en su caso, al suplente de la misma lista a quien corresponda, atendiendo a su orden de colocación.
+
+## TÍTULO IV
+
+Convocatoria de las elecciones
+
+### Artículo 19
+
+Artículo 19.
+1. Las elecciones se convocan mediante Decreto del Presidente de la Junta de Comunidades de Castilla-La Mancha.
+El Decreto de convocatoria señalará la fecha de las elecciones, que habrán de celebrarse el día quincuagésimo cuarto posterior a la convocatoria.
+La convocatoria de elecciones por finalización de la legislatura originaria se realizará el quincuagésimo cuarto día anterior al cuarto domingo de mayo.
+2. El Decreto de convocatoria fijará la fecha de la sesión constitutiva de las Cortes, que tendrá lugar dentro de los veinticinco días siguientes al de la celebración de las elecciones.
+3. Los Decretos de convocatoria de elecciones a Cortes de Castilla-La Mancha se publicarán en el "Diario Oficial de Castilla-La Mancha" el día siguiente al de su expedición, y entran en vigor el mismo día de su publicación.
+4. El texto del Decreto de convocatoria se difundirá en los medios de comunicación social de la Región.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+## TÍTULO V
+
+Procedimiento Electoral
+
+## CAPÍTULO I
+
+Representantes de las candidaturas ante la Administración Electoral
+
+### Artículo 20
+
+Artículo 20.
+1. Los partidos, federaciones, coaliciones y agrupaciones que pretendan concurrir a las elecciones designarán a las personas que deban representarlos ante la Administración Electoral, como representantes generales o de candidaturas.
+2. Los representantes generales actúan en nombre de los partidos, federaciones y coaliciones concurrentes a las elecciones.
+3. Los representantes de las candidaturas lo son de los candidatos incluidos en ellas. A su domicilio o al que señalen a estos efectos, se remiten las notificaciones, escritos y emplazamientos dirigidos por la Administración Electoral a los candidatos y reciben de éstos, por la sola aceptación de la candidatura, un apoderamiento general para actuar en procedimientos judiciales en materia electoral.
+
+### Artículo 21
+
+Artículo 21.
+1. A los efectos previstos en el artículo anterior, los partidos, federaciones y coaliciones que pretendan concurrir a las elecciones designarán un representante general y un suplente mediante escrito presentado a la Junta Electoral de Castila-La Mancha, antes del noveno día posterior al de la convocatoria de las elecciones. El mencionado escrito habrá de expresar la aceptación de las personas elegidas. El suplente sólo podrá actuar en los casos de renuncia, muerte o incapacidad del titular.
+2. El representante general designará mediante escrito presentado ante la Junta Electoral de Castilla-La Mancha y antes del undécimo día posterior al de la convocatoria, los representantes de las candidaturas que su partido, federación o coalición presenten en cada una de las circunscripciones electorales y sus respectivos suplentes.
+3. En el plazo de dos días, la Junta Electoral de Castilla-La Mancha comunicará a las Juntas Electorales Provinciales la designación a que se refiere el número anterior.
+4. Los representantes de las candidaturas y sus suplentes se personarán ante las respectivas Juntas Electorales Provinciales para aceptar su designación, antes del decimoquinto día posterior al de la convocatoria de elecciones.
+5. Los promotores de las agrupaciones de electores designarán a los representantes de sus candidaturas y sus suplentes en el momento de presentación de las mismas ante las Juntas Provinciales. Dicha designación debe ser aceptada en ese acto.
+
+## CAPÍTULO II
+
+Presentación y proclamación de candidatos
+
+### Artículo 22
+
+Artículo 22.
+1. En cada circunscripción la Junta Electoral Provincial es la competente para todas las actuaciones previstas en relación con la presentación y proclamación de las candidaturas.
+2. Para presentar candidaturas, las agrupaciones de electores necesitarán, al menos, la firma del 1 por 100 de los inscritos en el censo electoral de la circunscripción. Cada elector sólo puede apoyar a una agrupación.
+3. Las candidaturas presentadas y las proclamadas se publicarán en el «Diario Oficial de Castilla-La Mancha».
+
+### Artículo 23
+
+Artículo 23.
+1. La presentación de candidaturas habrá de realizarse entre el decimoquinto y el vigésimo días posteriores a la convocatoria, mediante listas que deben incluir tantos candidatos como escaños a elegir por cada circunscripción, y además tres candidatos suplentes, con expresión del orden de colocación de todos ellos.
+1 bis. Para garantizar el principio de igualdad en la representación política, las candidaturas que presenten los partidos políticos, federaciones, coaliciones o agrupaciones de electores, alternarán hombres y mujeres, ocupando los de un sexo los puestos pares y los del otro los impares. La Junta Electoral sólo aceptará aquellas candidaturas que cumplan este precepto tanto para los candidatos como para los suplentes.
+2. El escrito de presentación de cada candidatura debe expresar claramente la denominación, siglas y símbolos del partido, federación, coalición o agrupación que la promueve, así como el nombre y apellidos de los candidatos incluidos en ella.
+3. Junto al nombre de los candidatos puede hacerse constar su condición de independiente o, en caso de coaliciones electorales, la denominación del partido al que cada uno pertenezca.
+4. No pueden presentarse candidaturas que en la denominación, siglas o símbolos que figurarán en la papeleta de voto reproduzcan los símbolos, la bandera o el escudo de la Junta de Comunidades de Castilla-La Mancha,
+5. Las Juntas Electorales Provinciales inscribirán las candidaturas presentadas, haciendo constar la fecha y hora de su presentación y expedirán recibo de la misma. El Secretario otorgará un número correlativo por orden de presentación a cada candidatura y este orden se guardará en todas las publicaciones.
+6. Toda la documentación se presentará por triplicado. Un primer ejemplar quedará en la Junta Electoral Provincial, un segundo se remitirá a la Junta Electoral de Castilla-La Mancha, y el tercero se devolverá al representante de la candidatura, haciendo constar la fecha y hora de presentación.
+7. Al escrito de presentación debe acompañarse declaración de aceptación de la candidatura así como los documentos acreditativos de las condiciones de elegibilidad de los candidatos.
+Se declara el desistimiento del recurso de inconstitucionalidad 5537/2002, por auto de 26 de septiembre de 2006. Ref. BOE-A-2006-17572.
+ Se mantiene la suspensión de la vigencia y aplicación del apartado 1bis por auto del TC de 26 de febrero de 2003. Ref. BOE-A-2003-5572.
+ Se suspende la vigencia y aplicación del apartado 1bis, desde el 27 de septiembre de 2002 para las partes del proceso y desde el 31 de octubre de 2002 para los terceros, por providencia del TC de 15 de octubre de 2002 que admite a trámite el recurso de inconstitucionalidad 5537/2002. Ref. BOE-A-2002-21070.
+ Se añade apartado 1 bis por el art. 1 de la Ley 11/2002, de 27 de junio. Ref. BOE-A-2002-14087.
+
+### Artículo 24
+
+Artículo 24.
+1. Las candidaturas presentadas deben ser publicadas, el vigésimo segundo día posterior al de la convocatoria, en el «Diario Oficial de Castilla-La Mancha». Además, las de cada circunscripción electoral serán expuestas en los locales de las respectivas Juntas Provinciales.
+2. Dos días después, las Juntas Electorales Provinciales comunicarán a los representantes de las candidaturas las irregularidades apreciadas en ellas, de oficio o denunciadas por otros representantes. El plazo para subsanación es de cuarenta y ocho horas.
+3. Las Juntas Electorales Provinciales realizan la proclamación de candidatos el vigésimo séptimo día posterior al de la convocatoria.
+4. Las candidaturas proclamadas deben ser publicadas al vigésimo octavo día posterior al de la convocatoria en el «Diario Oficial de Castilla-La Mancha», y además, las de cada circunscripción deben ser expuestas en los locales de la respectiva Junta Electoral Provincial.
+
+### Artículo 24 bis
+
+Artículo 24 bis.
+Los candidatos, una vez proclamados por las Juntas Electorales Provinciales, deberán presentar a la Mesa de las Cortes, antes del día trigésimo primero posterior a la convocatoria de elecciones, una declaración de bienes, rentas y actividades, según el modelo oficial, elaborado por la Mesa de las Cortes, que se publicará en un anexo del Decreto de convocatoria de cada proceso electoral.
+La declaración a que se refiere el apartado anterior expresará los siguientes extremos:
+A) Declaración de actividades. Comprenderá las actividades de naturaleza laboral, económica o profesional desempeñadas en los cinco años anteriores por el candidato. En todo caso serán objeto de declaración las circunstancias siguientes:
+Cargos públicos desempeñados aunque no tengan retribución.
+Actividades de representación o asesoramiento en cualquier empresa o sociedad pública o privada.
+Participación en la gestión, dirección o asesoramiento de instituciones o entidades, incluso de aquéllas que no persigan fin de lucro.
+Cualquier otra actividad, no ocasional, no relacionada anteriormente, por la que se haya percibido remuneración, dieta o algún tipo de compensación.
+B) Declaración de bienes. La declaración comprenderá los siguientes extremos:
+Relación de bienes inmuebles de naturaleza rústica y urbana, con indicación de su superficie, ubicación, título y fecha de adquisición.
+El valor de los saldos medios de los depósitos bancarios, acciones, fondos de inversión, pólizas de seguro u otros de análoga naturaleza.
+Los vehículos y cualquier otra clase de bienes propiedad del declarante mencionados en la actual Ley del Impuesto sobre el Patrimonio.
+C) Declaración rentas. Especificará los rendimientos anuales, referidos a los cinco últimos ejercicios, percibidos por cualquier concepto con indicación de su procedencia, tanto los que deriven del trabajo personal, de los bienes muebles e inmuebles, valores mobiliarios, actividades empresariales, profesionales, artísticas, becas, subvenciones, indemnizaciones, así como de cualquier otra índole o precedencia.
+La Mesa de las Cortes ordenará su publicación antes del día trigésimo quinto posterior a la convocatoria de elecciones en el "Diario Oficial de Castilla-La Mancha".
+A las citadas declaraciones se acompañará copia de las declaraciones del Impuesto sobre la Renta de las Personas Físicas y, en su caso, del Impuesto sobre el Patrimonio presentadas ante la Hacienda Pública.
+Las declaraciones originales y, en su caso, las copias de las declaraciones de los Impuestos sobre la Renta de las Personas Físicas y Patrimonio serán examinadas por la Mesa y custodiadas y archivadas por el Letrado Mayor de la Cámara. La Mesa podrá exigir a los candidatos las aclaraciones que estime necesarias en relación con algún aspecto de las mismas que no estuviese suficientemente claro.
+Podrá, asimismo, realizar las comprobaciones documentales necesarias.
+Se reconoce el derecho a que se publiquen gratuitamente en el "Diario Oficial de Castilla-La Mancha" las declaraciones de actividades, rentas y bienes de:
+Los cónyuges de los candidatos o quienes estuviesen vinculados a ellos por análoga relación de convivencia afectiva.
+Los hijos de los candidatos siempre que formen parte de la unidad familiar.
+A las personas enunciadas en el apartado anterior se remitirán los modelos oficiales de declaración por si, voluntariamente, desean ejercer su derecho a la publicidad.
+Los candidatos que por haber sido Diputados Regionales en la legislatura inmediatamente anterior a la convocatoria de elecciones, ya han efectuado las declaraciones a que obliga el Reglamento de las Cortes, no están obligados a formular nueva declaración de rentas y actividades, excepto las referidas al último año inmediatamente anterior a la convocatoria.
+Se añade por el art. 2 de la Ley 11/2002, de 27 de junio. Ref. BOE-A-1987-2164.
+
+### Artículo 25
+
+Artículo 25.
+1. Las candidaturas no pueden ser objeto de modificación una vez presentadas, salvo en el plazo habilitado para la subsanación de irregularidades previsto en el artículo anterior, y sólo por fallecimiento o renuncia del titular o como consecuencia del propio trámite de subsanación.
+2. Las bajas que se produzcan después de la proclamación se entenderán cubiertas por los candidatos sucesivos, y, en su caso, por los suplentes.
+
+## CAPÍTULO III
+
+Campaña electoral
+
+### Artículo 26
+
+Artículo 26.
+Se entiende por campaña electoral, a efectos de esta Ley, el conjunto de actividades lícitas llevadas a cabo por los candidatos, partidos, federaciones, coaliciones o agrupaciones en orden a la captación de sufragios.
+
+### Artículo 27
+
+Artículo 27.
+1. El Decreto de convocatoria fijará la fecha de la iniciación de la campaña electoral, cuya duración será de quince días.
+2. La campaña electoral termina a las cero horas del día inmediatamente anterior al de la votación.
+3. Durante la campaña electoral, el Consejo de Gobierno podrá realizar una campaña institucional destinada a informar y fomentar la participación de los electores en la votación, sin influir en la orientación del voto. A estos efectos queda prohibida la utilización por los partidos políticos, coaliciones o agrupaciones que concurran en las elecciones de los eslóganes, símbolos o carteles utilizados para la campaña institucional.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+## CAPÍTULO IV
+
+Utilización de los medios de comunicación de titularidad pública para la campaña electoral
+
+### Artículo 28
+
+Artículo 28.
+Durante la campaña electoral, los partidos, federaciones, coaliciones y agrupaciones que concurren a las elecciones tienen derecho a espacios gratuitos de propaganda en los medios de comunicación de titularidad pública.
+
+### Artículo 29
+
+Artículo 29.
+1. En los términos previstos en el artículo 65.6 de la Ley Orgánica sobre el Régimen Electoral General, la Junta Electoral de Castilla-La Mancha es la competente para distribuir los espacios gratuitos de propaganda electoral, a propuesta de la Comisión a que se refiere el número siguiente.
+2. La Comisión de Control será designada por la Junta Electoral de Castilla-La Mancha y estará integrada por un representante de cada partido, federación, coalición o agrupación que concurra a las elecciones y tenga representación en las Cortes Regionales. Dichos representantes votarán ponderadamente de acuerdo con la composición de las Cortes.
+3. La Junta Electoral de Castilla-La Mancha elige también al Presidente de la Comisión de Control de entre los representantes nombrados conforme al apartado anterior.
+
+### Artículo 30
+
+Artículo 30.
+1. La distribución de tiempo gratuito de propaganda electoral en cada medio de comunicación de titularidad pública y en los distintos ámbitos de programación dependientes de los mismos se efectuará de acuerdo con los siguientes criterios:
+a) Treinta minutos para los partidos políticos, federaciones, coaliciones y agrupaciones de electores que hubieran alcanzado un porcentaje de voto superior al 20 por 100 del Censo Electoral de la Comunidad Autónoma en las anteriores elecciones autonómicas o dispongan, en el momento de la convocatoria electoral, de una representación parlamentaria en las Cortes de Castilla-La Mancha superior al 15 por 100 de los Diputados.
+b) Veinte minutos para los partidos políticos, federaciones, coaliciones o agrupaciones de electores que hubieran alcanzado un porcentaje de voto entre el 10 y el 20 por 100 del Censo Electoral de la Comunidad Autónoma en las anteriores elecciones autonómicas o dispongan, en el momento de la convocatoria electoral, de una representación parlamentaria inferior al 15 por 100 de los Diputados de las Cortes de Castilla-La Mancha.
+c) Diez minutos al resto de los partidos, federaciones, coaliciones o agrupaciones de electores que se presenten a las elecciones.
+2. El derecho a los tiempos de emisión gratuita referenciados en el apartado anterior sólo corresponde a aquellos partidos, federaciones y coaliciones que presenten candidaturas en las cinco provincias de la Comunidad Autónoma.
+3. El momento y el orden de su intervención serán determinados por la Junta Electoral de Castilla-La Mancha, teniendo en cuenta las preferencias de aquéllos en función del número de votos y/o Diputados que obtuvieron en las anteriores elecciones.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+## CAPÍTULO V
+
+Papeletas y sobres electorales
+
+### Artículo 31
+
+Artículo 31.
+1. Las Juntas Electorales Provinciales son los órganos competentes para aprobar el modelo oficial de las papeletas y sobres electorales correspondientes a su circunscripción, de acuerdo con los criterios de la presente Ley y las normas que la desarrollen.
+En caso de coincidencia de más de un proceso electoral, las papeletas y sobres destinados a las elecciones autonómicas, tendrán unas características externas que los diferencien de los demás.
+2. El Consejo de Gobierno asegura la disponibilidad de las papeletas y los sobres de votación conforme a lo dispuesto en el artículo siguiente, sin perjuicio de su eventual concepción por los grupos políticos que concurran a las elecciones.
+3. Igualmente el Consejo de Gobierno asegura la disponibilidad de urnas y cabinas electorales para los comicios regionales en el supuesto de no poderse utilizar las que se emplean en las elecciones a Diputados, Senadores y miembros de las Corporaciones Locales.
+4. Cada Mesa Electoral debe contar con una urna y una cabina de votación.
+Asimismo debe disponer de un número suficiente de sobres y de papeletas de cada candidatura, que estarán situados en la cabina y cerca de ella.
+Las urnas, cabinas, papeletas y sobres de votación deben ajustarse al modelo oficialmente establecido. Si faltase la urna, la cabina, las papeletas o los sobres de votación en el local electoral a la hora señalada para la constitución de la Mesa o en cualquier momento posterior el Presidente de la Mesa lo comunicará a la Junta Electoral de Zona que proveerá su suministro.
+Se modifica el apartado 3 y se añade apartado 4 por el art. 1 de la Ley 1/1991, de 15 de marzo. Ref. BOE-A-1991-8592.
+
+### Artículo 32
+
+Artículo 32.
+1. La confección de las papeletas se inicia inmediatamente después de la proclamación de candidatos.
+2. Si se hubiesen interpuesto recursos contra la proclamación de candidatos, la confección de las papeletas correspondientes se pospone en la circunscripción electoral donde hayan sido interpuestos hasta la resolución de dichos recursos.
+3. Las primeras papeletas confeccionadas se entregarán a la Delegación del Gobierno en Castilla-La Mancha para su envío a los residentes ausentes que viven en el extranjero.
+4. La Administración Regional asegurará la entrega de las papeletas y sobres en número suficiente a las Mesas Electorales al menos una hora antes del momento en que deba iniciarse la votación.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+### Artículo 33
+
+Artículo 33.
+Las papeletas electorales destinadas a la elección de los Diputados de las Cortes de Castilla-La Mancha deben expresar las indicaciones siguientes:
+a) La denominación, siglas y símbolos del partido, federación, coalición o agrupación de electores que presente la candidatura.
+b) Los nombres y apellidos de los candidatos y de los suplentes, según su orden de colocación, así como, en su caso, la condición de independiente de los candidatos que concurran con tal carácter o, en caso de coaliciones, la denominación del partido a que pertenezca cada uno, si así se ha hecho constar en la presentación de la candidatura.
+
+## CAPÍTULO VI
+
+Voto por correo
+
+### Artículo 34
+
+Artículo 34.
+Los electores que prevean que en la fecha de la votación no se hallarán en la localidad donde les corresponda ejercer su derecho de voto, o que no puedan personarse, podrán emitir su voto por correo de acuerdo con lo dispuesto en la Ley Orgánica sobre el Régimen Electoral General.
+
+## CAPÍTULO VII
+
+Apoderados e intervenciones
+
+### Artículo 35
+
+Artículo 35.
+1. El representante de cada candidatura puede otorgar poder a favor de cualquier ciudadano, mayor de edad y que se halle en pleno goce de sus derechos civiles y políticos, al objeto de que ostente la representación de la candidatura en los actos y operaciones electorales.
+2. El apoderamiento se formaliza ante Notario o ante el Secretario de la Junta Electoral Provincial quienes expiden la correspondiente credencial conforme al modelo que oficialmente se establezca.
+3. Los apoderados deben exhibir sus credenciales y su documento nacional de identidad a los miembros de las Mesas Electorales y demás autoridades competentes.
+
+### Artículo 36
+
+Artículo 36.
+Los apoderados tienen derecho a acceder libremente a los locales electorales, a examinar el desarrollo de las operaciones de voto y de escrutinio y a formular reclamaciones y protestas, así como a recibir las certificaciones previstas en la legislación electoral, cuando no hayan sido expedidas a otro apoderado o interventor de su misma candidatura.
+
+### Artículo 37
+
+Artículo 37.
+1. El representante de cada candidatura puede nombrar, hasta tres días antes de la elección, dos interventores por cada Mesa Electoral, para que comprueben que la votación se desarrolla de acuerdo con las normas establecidas.
+2. Para ser designado interventor es necesario estar inscrito corno elector en la circunscripción correspondiente.
+3. El nombramiento de los interventores se hará mediante la expedición de credenciales talonarias, con fecha y firma al pie del nombramiento.
+4. Las hojas talonarias por cada interventor habrán de estar divididas en cuatro partes: Una, como matriz, para conservarla al representante; la segunda, se entregará al interventor como credencial; la tercera y cuarta, serán remitidas a la Junta Electoral de la Zona para que ésta haga llegar una de éstas a la Mesa Electoral de que forme parte y otra a la Mesa en cuya lista electoral figure inscrito para su exclusión de la misma.
+5. El envío a las Juntas Electorales de Zona se hará hasta el mismo día tercero anterior al de la votación y aquellas harán remisión a las Mesas de modo que obren en su poder en el momento de constituirse las mismas el día de la votación.
+6. Para integrarse en la Mesa el día de la votación se comprobará que la credencial es conforme a la hoja talonaria que se encuentra en poder de la Mesa. De no ser así o de no existir hoja talonaria podrá dársele posesión consignando el incidente en el acta. En este caso, sin embargo, el Interventor no podrá votar en la Mesa en que esté acreditado.
+Si el Interventor concurre sin su credencial, una vez que la Mesa ha recibido la hoja talonaria, previa comprobación de su identidad, se le permitirá integrarse en la Mesa, teniendo, en este caso, derecho a votar en la misma.
+
+### Artículo 38
+
+Artículo 38.
+1. Los interventores colaborarán en el mejor desarrollo del proceso de votación y escrutinio, velando con el Presidente y los Vocales para que los actos electorales se realicen de acuerdo con la Ley.
+2. Un Interventor de cada candidatura puede participar en las deliberaciones de la Mesa, con voz pero sin voto, y ejercer ante ella los demás derechos previstos en la legislación electoral.
+3. A los efectos de lo previsto en el párrafo anterior, los interventores de una misma candidatura acreditada ante la Mesa pueden sustituirse libremente entre sí.
+4. Además los Interventores podrán:
+a) Solicitar certificaciones del acta de constitución de la Mesa, certificación del escrutinio, del acta general de la sesión o de un extremo determinado de ellas. No se expedirá más que una certificación por candidatura.
+b) Reclamar sobre la identidad de un elector, lo que deberán realizar públicamente.
+c) Anotar, si lo desean, en una lista numerada de electores, el nombre y número de orden en que emiten sus votos.
+d) Pedir durante el escrutinio la papeleta leída por el Presidente para su examen.
+e) Formular las protestas y reclamaciones que consideren oportunas, teniendo derecho a hacerlas constar en el acta general de la sesión.
+
+## CAPÍTULO VIII
+
+Escrutinio
+
+### Artículo 39
+
+Artículo 39.
+Las Juntas Electorales Provinciales son las competentes para la realización de todas las operaciones de escrutinio general en el ámbito de su circunscripción.
+
+### Artículo 40
+
+Artículo 40.
+El escrutinio general es un acto único y tiene carácter público.
+
+### Artículo 41
+
+Artículo 41.
+El escrutinio general se regirá por lo dispuesto en la Ley Orgánica del Régimen Electoral General.
+Se modifica por el art. único de la Ley 8/2022, de 4 de noviembre. Ref. BOE-A-2022-21461
+ Se modifica por el art. 1 de la Ley 1/1991, de 15 de marzo. Ref. BOE-A-1991-8592.
+
+### Artículo 42
+
+Artículo 42.
+1. El escrutinio general a realizar por las Juntas Electorales Provinciales se regirá por lo dispuesto en la Ley Orgánica del Régimen Electoral General, siendo competente la Junta Electoral de Castilla-La Mancha para la resolución de los recursos que se formulan frente a resoluciones de las Juntas Electorales Provinciales.
+2. Finalizado el escrutinio, la Junta Electoral Provincial extenderá, por triplicado, el acta de proclamación de electos, archivando un ejemplar. Remitirá el segundo a las Cortes Regionales y el tercero a la Junta Electoral de Castilla-La Mancha que, en el plazo de quince días, procederá a la publicación en el «Diario Oficial de Castilla-La Mancha» de los resultados generales y por circunscripciones, sin perjuicio de los recursos presentados.
+Se modifica por el art. 1 de la Ley 1/1991, de 15 de marzo. Ref. BOE-A-1991-8592.
+
+### Artículo 43
+
+Artículo 43.
+Por la Junta Electoral Provincial se entregarán copias certificadas del acta de escrutinio general a los representantes de las candidaturas que lo soliciten. Asimismo se expedirán a los electos credenciales de su proclamación. La Junta podrá acordar que dichas certificaciones y credenciales sean remitidas inmediatamente a los interesados a través del representante de la candidatura.
+
+### Artículo 44
+
+Artículo 44.
+1. El escrutinio en las Mesas Electorales se regirá por lo dispuesto en el artículo 95 y siguientes de la Ley Orgánica del Régimen Electoral General.
+2. La Administración autonómica podrá difundir la información provisional sobre los resultados de la elección, con carácter previo al escrutinio general.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+## TÍTULO VI
+
+Gastos y subvenciones electorales
+
+## CAPÍTULO I
+
+Los Administradores y las cuentas electorales
+
+### Artículo 45
+
+Artículo 45.
+1. Los partidos, federaciones, coaliciones o agrupaciones de electores que presenten candidaturas en más de una provincia, deberán tener un Administrador Electoral general.
+2. El Administrador Electoral general responde de todos los ingresos y gastos electorales realizados por partidos, federación, coalición o agrupación de electores y por sus candidaturas, así como de la correspondiente contabilidad.
+3. La contabilidad se ajustará en todo caso a los principios generales contenidos en el vigente Plan General de Contabilidad.
+Se añade el apartado 3 por el art. 1 de la Ley 1/1991, de 15 de marzo. Ref. BOE-A-1991-8592.
+
+### Artículo 46
+
+Artículo 46.
+1. Además habrá un Administrador Electoral provincial, que será responsable de los ingresos y gastos de la contabilidad correspondiente de la candidatura en la circunscripción provincial.
+2. Los Administradores Electorales provinciales actúan bajo la responsabilidad del Administrador Electoral general.
+
+### Artículo 47
+
+Artículo 47.
+1. Puede ser designado Administrador Electoral cualquier ciudadano mayor de edad, en pleno uso de sus deberes civiles y políticos.
+2. Los representantes generales y los de las candidaturas pueden acumular la condición de Administrador Electoral general.
+3. Los candidatos no pueden ser Administradores Electorales.
+
+### Artículo 48
+
+Artículo 48.
+1. El Administrador Electoral general será designado por los representantes generales de los partidos, federaciones, coaliciones o agrupaciones de electores mediante escrito presentado ante la Junta Electoral de Castilla-La Mancha, antes del undécimo día posterior al de la convocatoria de las elecciones. El escrito deberá contener el nombre y apellidos de la persona designada y su aceptación expresa.
+2. La designación de los Administradores Electorales provinciales se hará mediante escrito firmado por sus representantes y presentado ante la Junta Electoral Provincial correspondiente en el acto mismo de presentación de las candidaturas. El escrito habrá de contener la aceptación de las personas designadas. Las Juntas Electorales Provinciales comunicarán a la Junta Electoral de Castilla-La Mancha los designados en su circunscripción.
+
+### Artículo 49
+
+Artículo 49.
+1. Los Administradores Electorales generales y provinciales, designados en tiempo y forma, comunicarán a la Junta Electoral de Castilla-La Mancha y a las provinciales, respectivamente, las cuentas abiertas para la recaudación de fondos.
+2. La apertura de cuenta puede realizarse a partir de la fecha de nombramiento de los Administradores Electorales, en cualquier Entidad bancaria o Caja de Ahorro. La comunicación a que hace referencia el apartado anterior ha de realizarse en las veinticuatro horas siguientes a la apertura de cuentas.
+3. Si las candidaturas presentadas no fueran proclamadas o renunciasen a concurrir a las elecciones, las imposiciones realizadas por terceros en estas cuentas les deberán ser restituidas por los partidos, federaciones, coaliciones o agrupaciones que las promovieron.
+
+## CAPÍTULO II
+
+La financiación electoral
+
+### Artículo 50
+
+Artículo 50.
+1. Los gastos que originen las actividades electorales serán subvencionados por la Junta de Comunidades de Castilla-La Mancha con las siguientes cuantías:
+a) Por escaño obtenido, quince mil doscientos veintiocho euros constantes.
+b) Por voto conseguido en la circunscripción cada candidatura que haya obtenido al menos un escaño, setenta y tres céntimos de euro constantes.
+2. Además de las subvenciones a que se refiere el apartado anterior, la Comunidad Autónoma subvencionará a los partidos, federaciones, coaliciones o agrupaciones de electores los gastos electorales originados por el envío directo y personal a los electores de sobres y papeletas o de propaganda y publicidad electoral, de acuerdo con las siguientes reglas:
+a) Se abonarán treinta y tres céntimos de euro constantes por elector en cada una de las circunscripciones en las que hayan presentado candidatura, siempre que ésta haya obtenido, al menos, un escaño.
+b) La cantidad subvencionada por el envío y confección de la documentación remitida no estará incluida en el límite previsto en el artículo 52.1 de la presente Ley, siempre que se haya justificado la realización efectiva de la actividad a que se refiere este apartado.
+3. Las subvenciones electorales recibidas por cada partido, federación, coalición o agrupación de electores no podrán sobrepasar, en ningún caso, la cifra de gastos electorales declarados justificados por la Sindicatura de Cuentas en el ejercicio de su función fiscalizadora.
+En el supuesto de que los ingresos electorales habidos para la campaña electoral superaran los gastos electorales, la diferencia se detraerá de las aportaciones que correspondiera hacer con su financiación pública.
+Se modifican los apartados 1 y 2 por el art. 10.1 de la Ley 1/2024, de 15 de marzo. Ref. BOE-A-2024-10149
+ Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+ Se modifica por la disposición adicional 7 de la Ley 5/1994, de 16 de diciembre. Ref. BOE-A-1995-3400.
+ Se modifica por la disposición adicional 6.1 de la Ley 5/1990, de 26 de diciembre. Ref. BOE-A-1991-3666.
+
+### Artículo 51
+
+Artículo 51.
+1. La Junta de Comunidades concederá anticipos de las subvenciones mencionadas tanto a los partidos como a las federaciones, coaliciones o agrupaciones de electores representadas en la Cámara. El anticipo a percibir por el conjunto de los grupos políticos con representación en las Cortes de Castilla-La Mancha no podrá exceder del 30 por 100 de la subvención percibida en las anteriores elecciones autonómicas. La distribución se hará con carácter proporcional en función de los Diputados de cada grupo.
+2. Si concurriesen en más de una provincia, la solicitud se formulará por el Administrador general ante la Junta Electoral de Castilla-La Mancha.
+En los restantes supuestos, por el Administrador de la candidatura ante la Junta Electoral Provincial correspondiente, que la cursará a la Electoral de Castilla-La Mancha.
+Los anticipos podrán solicitarse entre los días vigésimo primero y vigésimo tercero posteriores al de la convocatoria.
+3. A partir del vigésimo noveno día posterior al de la convocatoria, la Administración de la Junta de Comunidades pondrá a disposición de los Administradores electorales los anticipos correspondientes.
+4. Los anticipos se devolverán, después de las elecciones, en la cuantía en la que superen el importe de la subvención que finalmente haya correspondido a cada partido, federación, coalición o agrupación de electores.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+## CAPÍTULO III
+
+Los gastos electorales
+
+### Artículo 52
+
+Artículo 52.
+1. Por cada grupo político que concurra a las elecciones se establece el límite de los gastos electorales en la cuantía que resulte de multiplicar cuarenta y siete céntimos de euro constantes por el número de habitantes correspondientes a la población de derecho de las circunscripciones donde presenten sus candidaturas.
+2. En los cinco días siguientes a la convocatoria de las elecciones, la Administración autonómica fijará, mediante Decreto, las cantidades que resulten de aplicar lo previsto en el párrafo anterior.
+Se modifica el apartado 1 por el art. 10.2 de la Ley 1/2024, de 15 de marzo. Ref. BOE-A-2024-10149
+ Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+ Se modifica por la disposición adicional 7 de la Ley 5/1994, de 16 de diciembre. Ref. BOE-A-1995-3400.
+ Se modifica por la disposición adicional 6.1 de la Ley 5/1990, de 26 de diciembre. Ref. BOE-A-1991-3666.
+
+### Artículo 52 bis
+
+Artículo 52 bis.
+(Derogado)
+Se deroga por el art. 2 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+ Se añade por la disposición adicional 6.2 de la Ley 5/1990, de 26 de diciembre. Ref. BOE-A-1991-3666.
+
+## CAPÍTULO IV
+
+Control de la contabilidad y adjudicación de las subvenciones
+
+### Artículo 53
+
+Artículo 53.
+1. Entre los cien y ciento veinticinco días posteriores a las elecciones, los partidos, federaciones, coaliciones o agrupaciones de electores que hubieran alcanzado los requisitos exigidos para recibir subvenciones de la Comunidad Autónoma o que hubieran solicitado adelantos con cargo a las mismas presentarán, ante la Sindicatura de Cuentas, una contabilidad detallada y documentada de sus respectivos ingresos y gastos electorales. Asimismo las entidades financieras que hubieran concedido créditos a los grupos políticos obligados a presentar declaración a la Sindicatura de Cuentas remitirán a dicha Sindicatura relación detallada de dichos créditos, en el mismo plazo. Idéntica obligación tendrán las empresas que hubieran facturado a los grupos políticos más de quinientas mil pesetas, en conceptos incluidos entre los gastos electorales.
+2. La presentación de la contabilidad a la que se refiere el apartado anterior se realizará por los Administradores generales de aquellos partidos, federaciones, coaliciones o agrupaciones que hubieran concurrido a las elecciones en varias provincias, y por los Administradores de las candidaturas en los restantes casos.
+3. Los Administradores generales podrán solicitar en el plazo de los treinta días siguientes a la presentación ante la Sindicatura de Cuentas de su contabilidad, y en concepto de liquidación provisional a cuenta, hasta el 90 por 100 del importe de las subvenciones a las que resulten acreedores sus respectivos partidos, federaciones, coaliciones o agrupaciones de electores, por aplicación de los criterios de la presente Ley a los resultados de las elecciones autonómicas publicados en el "Diario Oficial de Castilla-La Mancha". De la cuantía resultante se detraerán las cantidades entregadas en concepto de anticipo.
+Para percibir estos adelantos, los solicitantes deberán presentar ante la Administración Regional un aval bancario que garantice una cuantía equivalente al 50 por 100 del total de la subvención a que, presumiblemente, tendrá derecho cada partido, federación, coalición o agrupación de electores. Asimismo, deberán presentar documento justificativo de la entrega de la contabilidad ante la Sindicatura de Cuentas.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+ Se añade nuevo apartado por el art. 1 de la Ley 1/1991, de 15 de marzo. Ref. BOE-A-1991-8592.
+
+### Artículo 54
+
+Artículo 54.
+El control de la contabilidad electoral se efectuará según lo dispuesto en el artículo 134 de la Ley Orgánica sobre Régimen Electoral General, remitiéndose el resultado de la fiscalización a que se refiere el número 3 del citado artículo 134 al Consejo de Gobierno y a la Comisión de Asuntos Generales y Gobernación de las Cortes de Castilla-La Mancha.
+
+### Artículo 55
+
+Artículo 55.
+1. Dentro del mes siguiente a la remisión del informe de la Sindicatura de Cuentas, el Consejo de Gobierno presentará a las Cortes Regionales un proyecto de crédito extraordinario por el importe de las subvenciones a adjudicar, las cuales deben ser hechas efectivas dentro de los cien días posteriores a la aprobación por las Cortes de Castilla-La Mancha del mencionado crédito.
+2. El Consejo de Gobierno entregará el importe de las subvenciones a los Administradores electorales de los partidos, federaciones, coaliciones o agrupaciones que deban percibirlas, a no ser que hubieran notificado a la Junta Electoral de Castilla-La Mancha que las subvenciones sean abonadas, en todo o en parte, a las entidades bancarias que designen para compensar los créditos o anticipos que les hubiesen otorgado. La Administración Autonómica verificará el pago conforme a los términos de dicha notificación, que no podrá ser revocada sin el consentimiento de la entidad de crédito beneficiaria.
+Se modifica por el art. 1 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+(Derogada)
+Se deroga por el art. 2 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Derogada)
+Se deroga por el art. 2 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+(Derogada)
+Se deroga por el art. 2 de la Ley 8/1998, de 19 de noviembre. Ref. BOE-A-1999-995.
+
+### Disposición final primera
+
+Disposición final primera.
+En lo no previsto en esta Ley será de aplicación lo dispuesto en la Ley Orgánica 5/ 1985, de 19 de junio, del Régimen Electoral General, con las actuaciones que sean precisas, derivadas del carácter y ámbito de las elecciones a las Cortes de Castilla-La Mancha.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se faculta al Consejo de Gobierno para dictar cuantas disposiciones sean precisas para el cumplimiento y ejecución de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Diario Oficial de Castilla-La Mancha».
+
+Por tanto ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Dado en Toledo, a 23 de diciembre de 1986.
+JOSÉ BONO MARTINEZ,
+Presidente de la Junta de Comunidades de Castilla-La Mancha
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que la Administración autonómica fijará mediante Decreto, publicado únicamente en el DOCM, las cantidades citadas en el art. 52 de la presente ley.

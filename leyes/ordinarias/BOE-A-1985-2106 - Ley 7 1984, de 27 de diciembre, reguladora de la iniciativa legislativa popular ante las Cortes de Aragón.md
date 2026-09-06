@@ -1,0 +1,160 @@
+# Ley 7/1984, de 27 de diciembre, reguladora de la iniciativa legislativa popular ante las Cortes de Aragón.
+
+- Identificador BOE: `BOE-A-1985-2106`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1985-2106
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA DIPUTACIÓN GENERAL DEL ARAGÓN
+hago saber que las Cortes de Aragón han aprobado, y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+En la línea de las modernas democracias constitucionales, nuestra Constitución de 1978 recogió en su artículo 87.3 el instituto de la iniciativa legislativa popular, posteriormente desarrollado por la Ley Orgánica 3/1984, de 26 de marzo. El Estatuto de Autonomía de Aragón, en la misma dirección, había admitido explícitamente en su artículo 15.3 tal modalidad de apertura del procedimiento legislativo, remitiendo su regulación a una futura ley de Cortes de Aragón. La presente norma viene precisamente a cumplir el mandato estatutario.
+Los problemas contemporáneos de la democracia representativa vienen exigiendo, por un lado, la recuperación por las asambleas parlamentarias del lugar central que como órganos representativos de la voluntad popular les corresponde y, por otro, la ampliación progresiva de la participación en la vida pública de los ciudadanos y los diversos grupos sociales. Desarrollándose hoy la vida política básicamente en el seno de lo que se ha dado en llamar «Estado de partidos», en el que éstos cumplen el mandato constitucional de ser quienes «expresan el pluralismo político, concurren a la formación y manifestación popular y son instrumento fundamental para la participación política» (Constitución Española, art. 6), no debe haber, sin embargo, mayor obstáculo para que se ofrezcan cauces de participación de todos los ciudadanos en la vida política, económica, cultural y social, que intenten recoger y articular iniciativas de ciudadanos o grupos cuyas alternativas se produzcan de forma complementaria a las segregadas por los partidos políticos representativos del cuerpo electoral. No otro sentido tiene el admitir y regular la iniciativa legislativa popular, incluso en el ámbito, como es el caso de esta Ley, de una Comunidad Autónoma.
+La presente norma, que capacita a todos los ciudadanos que gocen de la condición política de aragoneses y se encuentren inscritos en el Censo Electoral para ejercitar la iniciativa legislativa popular, pretende desarrollar armónicamente el mandato estatutario, es decir, manteniendo el oportuno equilibrio entre el respeto a los legítimos representantes de la voluntad popular surgidos de unas elecciones y la adopción de un cauce que garantice el ejercicio efectivo de la iniciativa. De ahí la existencia de unos límites materiales a ésta, que vienen impuestos por la propia legislación o por las peculiares características de las cuestiones.
+En cualquier caso, la Ley ha tenido en cuenta la particular situación poblacional de Aragón y ha fijado en quince mil el número mínimo de ciudadanos que deben suscribir la iniciativa, guardándose de esta forma una proporción entre el cuerpo electoral y las firmas exigidas similar a la que se contempla en la Ley Orgánica reguladora de esta materia en el ámbito estatal.
+Lo que constituye propiamente el procedimiento para llevar a término la iniciativa se desarrolla en la Ley a través de tres fases bien diferenciadas, pero debidamente entrelazadas.
+La primera, que gira en torno a la admisibilidad de la Proposición de Ley por parte de la Mesa de las Cortes, tiene por objeto procurar que el esfuerzo de la Comisión Promotora no resulte de antemano baldío y, en consecuencia, que el texto inicie su andadura de una manera adecuada, tanto desde el punto de vista técnico como legal.
+La segunda fase pretende cumplir el objetivo primordial de garantizar al máximo la regularidad del procedimiento de recogida de firmas. A tal efecto, se constituye una Junta que, en el ámbito de la Comunidad Autónoma aragonesa, controla y garantiza el cumplimiento, en los plazos previstos, del número mínimo de firmas válidas exigido por la Ley. Todo ello sin perjuicio, como se dispone transitoriamente, de que en el futuro una posible Junta Electoral de la Comunidad Autónoma, creada por la Ley Electoral,asuma todas las funciones ahora atribuidas a esta Junta de control del procedimiento.
+Por fin, la tercera fase comprende la tramitación parlamentaria de la Proposición de Ley, una vez ha sido acreditada la recogida de firmas suficientes que la avalen. En este tramo del proceso, por lo demás, sigue el «iter legis» reglamentado para este tipo de proposiciones, debe destacarse una peculiaridad: la facultad que se concede a un miembro de la propia Comisión Promotora para que defienda la Proposición de Ley en el trámite de la toma en consideración por parte del Pleno de las Cortes; queda con ello garantizada una adecuada defensa de la iniciativa ante el órgano que debe luego tramitarla.
+Se establece, por último, la posibilidad de una compensación económica a los promotores en el caso de que la iniciativa alcanzara el trámite parlamentario, con objeto de que su ejercicio no resulte particularmente oneroso para quienes, en definitiva, no hacen sino participar a través de este cauce en la vida pública de la Comunidad Autónoma de Aragón.
+
+### Artículo 1
+
+Artículo 1.
+Los ciudadanos mayores de edad que ostenten la condición política de aragoneses, y estén inscritos en el Censo Electoral, pueden ejercer ante las Cortes de Aragón la iniciativa legislativa prevista en el apartado tercero del artículo 15 del Estatuto de Autonomía de Aragón, según lo dispuesto por esta Ley.
+
+### Artículo 2
+
+Artículo 2.
+Quedan excluidas de la iniciativa legislativa popular las materias siguientes:
+1. Las relativas a la organización institucional de la Comunidad Autónoma contenidas en el Título II del Estatuto de Autonomía de Aragón.
+2. Las de naturaleza presupuestaria y tributaria, y en concreto las contenidas en el artículo 110 del Estatuto de Autonomía de Aragón.
+3. Las que supongan una reforma del Estatuto de Autonomía de Aragón.
+4. Todas aquellas sobre las que la Comunidad Autónoma no tenga atribuida competencia legislativa.
+Se modifica por el art. único.1 de la Ley 7/2014, de 25 de septiembre. Ref. BOE-A-2014-10827.
+
+### Artículo 3
+
+Artículo 3.
+La iniciativa legislativa popular se ejerce mediante la presentación de proposiciones de ley suscritas por las firmas de, al menos, doce mil ciudadanos que ostenten la condición política de aragoneses y estén inscritos en el censo electoral.
+Se modifica por el art. único.2 de la Ley 7/2014, de 25 de septiembre. Ref. BOE-A-2014-10827.
+
+### Artículo 4
+
+Artículo 4.
+1. El procedimiento se iniciará mediante la presentación ante la Mesa de las Cortes de Aragón, a través de su registro, de un escrito, firmado por los promotores de la iniciativa, que contendrá:
+a) El texto articulado de la proposición de ley, precedido de una exposición de motivos.
+b) La relación de los miembros que componen la comisión promotora de la iniciativa popular, expresando los datos personales de todos ellos y, en su caso, el miembro de aquella designado a efectos de notificaciones.
+2. Si la iniciativa se presentara fuera de los períodos de sesión parlamentaria, los plazos empezarán a computarse en el período siguiente a la presentación de la documentación.
+3. Los servicios jurídicos de las Cortes de Aragón prestarán asesoramiento a los miembros de la comisión promotora para facilitarles el cumplimiento de los requisitos formales previstos en el presente artículo.
+Se modifica por el art. único.3 y 4 de la Ley 7/2014, de 25 de septiembre. Ref. BOE-A-2014-10827.
+
+### Artículo 5
+
+Artículo 5.
+1. La documentación presentada será examinada por la Mesa de las Cortes de Aragón, la cual se pronunciará en un plazo de quince días hábiles, de forma motivada, sobre su admisibilidad parlamentaria.
+2. Serán causas de inadmisión de la Proposición de Ley:
+a) Que tenga por objeto algunas de las materias excluidas en el artículo 2 de esta Ley.
+b) Que falte alguno de los requisitos exigidos en el artículo 4 de esta Ley. No obstante, tratándose de un defecto subsanable, la Mesa de las Cortes lo comunicará a la Comisión Promotora para que proceda, en su caso y en el plazo de un mes, a la subsanación.
+c) Que incurra en contradicción con la legislación básica del Estado, que aquellas materias a las que deba obligadamente supeditarse la legislación de la Comunidad Autónoma.
+d) Que el texto incida sobre materias diversas y carentes de homogeneidad entre sí.
+e) (Suprimido).
+f) Que reproduzca otra iniciativa popular de idéntico contenido presentada en el transcurso del mismo período de sesiones.
+3. La resolución adoptada por la Mesa de las Cortes será notificada, a todos los efectos, a la Comisión Promotora de la iniciativa popular y publicada en el Boletín Oficial de las Cortes de Aragón.
+3 bis. Si las Cortes de Aragón están tramitando algún proyecto o proposición de ley sobre las mismas materias de que trata la proposición de la iniciativa legislativa popular, la Mesa debe comunicarlo a la comisión promotora para que decida, en el plazo de quince días hábiles, si mantiene la propuesta o la retira. En el supuesto de que la comisión promotora opte por mantener la propuesta, la Mesa podrá acordar que las iniciativas legislativas se acumulen y se tramiten conjuntamente, y debe comunicarlo a la comisión promotora.
+4. Los acuerdos de inadmisibilidad dictados por la Mesa serán susceptibles de queja ante el Justicia de Aragón, que resolverá mediante resolución que no tendrá carácter vinculante, todo ello sin perjuicio de los recursos jurisdiccionales que proceden en solicitud de amparo ante el Tribunal Constitucional.
+Si se formulare queja ante el Justicia y posteriormente se interpusiera recurso de amparo, aquél dejará inmediatamente de conocer, no pudiendo tramitarse la queja si previamente se hubiere recurrido de amparo.
+5. Si la sentencia que resuelva el recurso de amparo declara que la proposición no incurre en ninguna de las causas de inadmisión previstas en el presente artículo, el procedimiento parlamentario seguirá su curso. Si la sentencia declara que la causa de inadmisión afecta únicamente a determinados preceptos de la proposición, la Mesa de las Cortes lo comunicará a los promotores, a fin de que estos, en el plazo de treinta días hábiles a partir de la comunicación, manifiesten por escrito si desean retirar la iniciativa o mantenerla parcialmente, una vez efectuadas las modificaciones correspondientes. Transcurrido dicho plazo sin que la comisión promotora se haya manifestado, se entenderá decaída la iniciativa.
+Se modifica por el art. único.5 a 9 de la Ley 7/2014, de 25 de septiembre. Ref. BOE-A-2014-10827.
+
+### Artículo 6
+
+Artículo 6.
+1. Con objeto de garantizar la regularidad del procedimiento de recogida de firmas por la Comisión Promotora, se constituirá una Junta de control del mismo, que tendrá la siguiente composición:
+a) Presidente: el Presidente del Tribunal Superior de Justicia de Aragón. En caso de vacante, enfermedad o ausencia del mismo, la presidencia recaerá en el Magistrado, Vocal de la Junta, de mayor antigüedad en la carrera y, en caso de igualdad en el de mayor edad.
+b) Vocales: Dos Magistrados del Tribunal Superior de Justicia de Aragón designados por sorteo efectuado ante el Presidente o persona que lo sustituya; el Decano de la Facultad de Derecho de la Universidad de Zaragoza; los Decanos de los Colegios de Abogados y del Colegio Notarial radicados en la Comunidad Autónoma de Aragón.
+c) Secretario: El Letrado Mayor de las Cortes de Aragón, que actuará con voz pero sin voto.
+2. El funcionamiento interno y régimen de acuerdos de la Junta se regirá por lo previsto en la Ley de Procedimiento Administrativo para los órganos colegiados.
+3. La Junta tendrá su sede en las Cortes de Aragón, pudiendo recabar la asistencia de los servicios administrativos de éstas.
+
+### Artículo 7
+
+Artículo 7.
+1. Admitida la proposición, la Mesa de las Cortes comunicará a la Junta Electoral de Aragón la resolución, a fin de que garantice la regularidad del procedimiento de recogida de firmas por la comisión promotora.
+2. Este procedimiento finalizará con la entrega a la Junta de las firmas recogidas en el plazo de nueve meses, a contar desde la comunicación a que se refiere el apartado anterior. Este plazo podrá prorrogarse por tres meses a petición de la comisión promotora cuando concurran circunstancias que lo justifiquen, que apreciará la Mesa de las Cortes motivadamente. Agotado el plazo sin que se hubiera efectuado la entrega de las firmas recogidas, caducará la iniciativa.
+3. Las firmas se podrán recoger también como firma electrónica, conforme a lo que establezca la legislación correspondiente.
+Se modifica por el art. único. 10 a 12 de la Ley 7/2014, de 25 de septiembre. Ref. BOE-A-2014-10827.
+
+### Artículo 8
+
+Artículo 8.
+1. La comisión promotora, una vez recibida la notificación de admisión de la proposición, presentará ante la Junta Electoral, en papel de oficio, los pliegos necesarios para la recogida de firmas, reproduciendo en ellos íntegramente el texto de la proposición. En caso de que esta, por su extensión, superase las tres caras de cada pliego, se reproducirá en pliegos aparte que irán unido al destinado a recoger las firmas de manera que no puedan ser separados.
+2. Los pliegos presentados a la Junta serán sellados y numerados por esta, siendo devueltos a la comisión promotora dentro de las setenta y dos horas siguientes a su presentación. Igualmente conocerá y confirmará el procedimiento y el portal web de recogida de firma electrónica, validada según la legislación vigente.
+Se modifica por el art. único.13 y 14 de la Ley 7/2014, de 25 de septiembre. Ref. BOE-A-2014-10827.
+
+### Artículo 9
+
+Artículo 9.
+1. Las firmas recogidas habrán de figurar necesariamente en los pliegos a que hace referencia el artículo anterior.
+2. Junto a la firma de cada elector se harán constar su nombre y apellidos, número del documento nacional de identidad o el número de identificación de extranjero que figura en la tarjeta de residencia, y municipio aragonés en cuyas listas electorales se halle inscrito.
+3. Las firmas deberán ser autenticadas por un Notario, un Cónsul, un Secretario Judicial o el Secretario Municipal que corresponda al municipio en cuyo Censo Electoral esté inscrito el firmante. Deberá indicarse la fecha en que se realiza la autenticación, pudiendo ser ésta colectiva, pliego por pliego, en cuyo caso deberá consignarse el número de firmas contenidas en cada pliego.
+4. Sin perjuicio de lo establecido en el apartado anterior, las firmas podrán también ser autenticadas por fedatarios especiales designados por la Comisión Promotora.
+5. Podrán adquirir la condición de fedatarios especiales quienes, ostentando la condición política de aragoneses, encontrándose en plena posesión de sus derechos civiles y políticos y careciendo de antecedentes penales, juren o prometan ante la Junta Electoral de Aragón dar fe de la autenticidad de las firmas de los signatarios de la proposición bajo las penas que en caso de falsedad procedan.
+Se modifican los apartados 2 y 5 por el art. único.15 y 16 de la Ley 7/2014, de 25 de septiembre. Ref. BOE-A-2014-10827.
+
+### Artículo 10
+
+Artículo 10.
+1. Los pliegos que contengan las firmas recogidas serán enviados a la Junta Electoral de Aragón, quien los remitirá a la oficina del censo electoral para que acredite la inscripción de los firmantes en el censo electoral como mayores de edad y lleve a cabo la comprobación y el recuento inicial de dichas firmas. La oficina del censo electoral, en el plazo de quince días, remitirá a la Junta Electoral de Aragón certificación de todo ello. La comisión promotora podrá recabar en cualquier momento de la Junta Electoral de Aragón la información que estime pertinente respecto del número de firmas recogidas.
+2. La Junta Electoral, una vez le hayan sido entregados los pliegos y las certificaciones correspondientes, los comprobarán y harán el recuento de firmas en un acto público, al que deberán ser citadas las personas representantes de la comisión promotora. La Junta Electoral declarará nulas las firmas que no cumplan los requisitos establecidos en esta ley, las cuales no se computarán.
+3. La Junta Electoral, si el número de firmas válidas es igual o superior a 12.000, deberá comunicarlo, en el plazo de quince días hábiles a contar desde la fecha del acto público de recuento de firmas, a la Mesa del Parlamento y a la comisión promotora, y deberá enviarles certificación acreditativa del número total de firmas declaradas válidas. La Junta Electoral procederá a destruir los pliegos de firmas que obren en su poder, con excepción de aquellos que contengan firmas a las que se hubiera negado validez.
+Se modifica por el art. único.17 de la Ley 7/2014, de 25 de septiembre. Ref. BOE-A-2014-10827.
+
+### Artículo 11
+
+Artículo 11.
+Recibida por la Mesa de las Cortes la certificación acreditativa de haberse obtenido el número de firmas exigido, ordenará la publicación de la proposición en el Boletín Oficial de las Cortes de Aragón y su remisión a la Diputación General de Aragón, a los efectos de cuanto disponen los párrafos 2, 3, y 4 del artículo 139 del Reglamento de las Cortes de Aragón.
+Se modifica por el art. único.18 de la Ley 7/2014, de 25 de septiembre. Ref. BOE-A-2014-10827.
+
+### Artículo 12
+
+Artículo 12.
+1. La Mesa de las Cortes deberá incluir la proposición en el orden del día del Pleno en el plazo máximo de 3 meses para su toma en consideración. Para la defensa de la proposición de ley en el trámite de toma en consideración ante el Pleno de las Cortes, la comisión promotora podrá designar a uno de sus miembros.
+1 bis. Una vez tomada en consideración la proposición de ley por el Pleno, la Comisión de las Cortes de Aragón competente para su tramitación parlamentaria oirá a los miembros de la comisión promotora, antes de abrir el período de presentación de enmiendas, en los términos previstos por el Reglamento para las comparecencias de colectivos sociales, personas físicas o representantes de personas jurídicas.
+2. En todo lo demás, la tramitación de estas proposiciones de Ley se ajustará a lo dispuesto para las mismas en el Reglamento de las Cortes de Aragón, salvo la inadmisibilidad de enmiendas a la totalidad de devolución.
+3. La Comisión Promotora podrá solicitar que se retire la Proposición de Ley durante su tramitación, si entendiera que alguna enmienda aprobada e introducida en la Proposición desvirtúa el objetivo de la iniciativa.
+Se modifica el apartado 1 y se añade el apartado 1.bis por el art. único.19 y 20 de la Ley 7/2014, de 25 de septiembre. Ref. BOE-A-2014-10827.
+
+### Artículo 13
+
+Artículo 13.
+La iniciativa legislativa popular que estuviera en tramitación en el momento de disolverse las Cortes, no decaerá por este hecho, si bien, una vez constituidas las nuevas Cortes se retrotraerá al momento de su publicación en el Boletín Oficial de las Cortes de Aragón, debiendo ser incluida en el primer Pleno que se celebre para su toma en consideración, aunque ésta ya se hubiere producido en la Legislatura anterior.
+
+### Artículo 14
+
+Artículo 14.
+Cuando una proposición haya sido admitida a trámite y reúna las 12.000 firmas necesarias, la Mesa de las Cortes deberá abonar a la comisión promotora, con cargo a los presupuestos de las Cortes, los gastos, debidamente justificados, realizados en la difusión de la proposición y la recogida de firmas, siempre que estos no excedan de 20.000 euros. Esta cantidad será revisada periódicamente en los presupuestos generales de la Comunidad Autónoma.
+Se modifica por el art. único.21 de la Ley 7/2014, de 25 de septiembre. Ref. BOE-A-2014-10827.
+
+### Disposición transitoria primera
+
+Disposiciones transitorias.
+(Suprimidas).
+Se suprimen por el art. único.22 de la Ley 7/2014, de 25 de septiembre. Ref. BOE-A-2014-10827.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En el caso de que la Ley Electoral prevista en el artículo 18.8 del Estatuto de Autonomía de Aragón dispusiera la constitución de una Junta Electoral de la Comunidad Autónoma, esta sustituirá plenamente en sus funciones a la Junta de control del procedimiento de recogida de firmas, regulada en esta Ley.
+
+### Disposición final
+
+Disposición final.
+Se autoriza a la Diputación General de Aragón para dictar las disposiciones pertinentes para el desarrollo y cumplimiento de la presente ley.
+
+Por tanto, ordeno que todos los ciudadanos, Tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Zaragoza, 27 de diciembre de 1984.
+SANTIAGO MARRACO SOLANA,
+Presidente de la Diputación General de Aragón.

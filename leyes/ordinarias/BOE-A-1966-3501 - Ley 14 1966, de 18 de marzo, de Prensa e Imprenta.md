@@ -1,0 +1,599 @@
+# Ley 14/1966, de 18 de marzo, de Prensa e Imprenta.
+
+- Identificador BOE: `BOE-A-1966-3501`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1966-3501
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Los cuerpos legales donde en la actualidad se encuentra contenido, en nuestra Patria, el ordenamiento jurídico de la Prensa y la Imprenta están constituidos fundamentalmente por la Ley de veintiséis de junio de mil ochocientos ochenta y tres y la de veintidós de abril de mil novecientos treinta y ocho. La mención de estas fechas pone de relieve la necesidad de adecuar aquellas normas jurídicas a las actuales aspiraciones de la comunidad española y a la situación de los tiempos presentes. Justifican tal necesidad el profundo y sustancial cambio que ha experimentado, en todos sus aspectos, la vida nacional, como consecuencia de un cuarto de siglo de paz fecunda; las grandes transformaciones de todo tipo que se han ido produciendo en el ámbito internacional; las numerosas innovaciones de carácter técnico surgidas en la difusión impresa del pensamiento; la importancia, cada vez mayor, de los medios informativos poseen en relación con la formación de la opinión pública, y, finalmente, la conveniencia indudable de proporcionar a dicha opinión cauces idóneos a través de los cuales sea posible canalizar debidamente las aspiraciones de todos los grupos sociales, alrededor de los cuales gira la convivencia nacional.
+Al emprender decididamente esta tarea, el Gobierno ha cumplido escrupulosamente su papel de fiel intérprete del sentir y del pensar del país, con el rigor y el estudio que deben ineludiblemente preceder a la redacción de todo texto legislativo que quiera nacer con una pretensión no sólo de viabilidad, sino también de fijeza y de permanencia. Por ello, la estructura básica y los muros maestros del sistema jurídico que con la presente Ley se trata de instaurar no han sido configurados sino después de ponderar, en la forma más equilibrada posible, los diversos factores y las diversas fuerzas e intereses que en la realidad social regulada entran en juego. De esta manera bien se puede decir que el principio inspirador de esta Ley lo constituye la idea de lograr el máximo desarrollo y el máximo despliegue posible de la libertad de la persona para la expresión de su pensamiento, consagrada en el artículo doce del Fuero de los Españoles, conjugando adecuadamente el ejercicio de aquella libertad con las exigencias inexcusables del bien común, de la paz social y de un recto orden de convivencia para todos los españoles. En tal sentido, libertad de expresión, libertad de Empresa y libre designación de Director son postulados fundamentales de esta Ley, que coordina el reconocimiento de las facultades que tales principios confieren con una clara fijación de la responsabilidad que el uso de las mismas lleva consigo, exigible, como cauce jurídico adecuado, ante los Tribunales de Justicia.
+Al poner en vigor la presente Ley no se ha hecho otra cosa –y es justo proclamarlo así– que cumplir los postulados y las directrices del Movimiento Nacional tan como han plasmado no sólo en el ya citado Fuero de diecisiete de julio de mil novecientos cuarenta y cinco, sino también en la Ley Fundamental de diecisiete de mayo de mil novecientos cincuenta y ocho y, además, tratar de dar un nuevo paso en la labor constante y cotidiana de acometer la edificación del orden que reclama la progresiva y perdurable convivencia de los españoles dentro de un marco de sentido universal y cristiano, tradicional en la historia patria.
+En su virtud y de conformidad con la propuesta elaborada por las Cortes Españolas,
+DISPONGO:
+
+## CAPÍTULO I
+
+De la libertad de prensa e imprenta
+
+### Artículo primero
+
+Artículo primero. Libertad de expresión por medio de impresos.
+Uno. El derecho a la libertad de expresión de las ideas reconocido a los españoles en el artículo doce de su Fuero se ejercitará cuando aquéllas se difundan a través de impresos, conforme a lo dispuesto en dicho Fuero y en la presente Ley.
+Dos. Asimismo se ajustará a lo establecido en esta Ley el ejercicio del derecho a la difusión de cualesquiera informaciones por medio de impresos.
+
+### Artículo segundo
+
+Artículo segundo. Extensión del derecho.
+(Derogado)
+Se deroga por el art. 2.1 del Real Decreto-Ley 24/1977, de 1 de abril. Ref. BOE-A-1977-9008.
+
+### Artículo tercero
+
+Artículo tercero. De la censura.
+La Administración no podrá aplicar la censura previa ni exigir la consulta obligatoria, salvo en los estados de excepción y de guerra expresamente previstos en las leyes.
+
+### Artículo cuarto
+
+Artículo cuarto. Consulta voluntaria.
+Uno. La Administración podrá ser consultada sobre el contenido de toda clase de impresos por cualquier persona que pudiera resultar responsable de su difusión. La respuesta aprobatoria o el silencio de la Administración eximirán de responsabilidad ante la misma por la difusión del impreso sometido a consulta.
+Dos. Reglamentariamente se determinarán los plazos que deban transcurrir para aplicar el silencio administrativo, así como los requisitos que hayan de cumplirse para presentar el impreso a consulta.
+
+### Artículo quinto
+
+Artículo quinto. Garantía de libertad.
+La Administración garantizará el ejercicio de las libertades y derechos que se regulan en esta Ley, persiguiendo, a través de los Órganos competentes e incluso por vía judicial, cualquier actividad contraria a aquéllos y, en especial, las que a través de monopolios u otros medios intenten deformar la opinión pública o impidan la libre información, difusión o distribución.
+
+### Artículo sexto
+
+Artículo sexto. Información de interés general.
+Uno. Las publicaciones periódicas deberán insertar y las agencias informativas distribuir, con indicación de su procedencia, las notas, comunicaciones y noticias de interés general que la Administración y las Entidades públicas consideren necesario divulgar y sean enviadas a través de la Dirección General de Prensa, que las cursará cuando las estime procedentes para su inserción con la extensión adecuada.
+Dos. Tales informaciones serán remitidas sin discriminación entre publicaciones análogas, sujetándose a las normas que reglamentariamente se determinen.
+
+### Artículo séptimo
+
+Artículo séptimo. Derecho a obtener información oficial.
+Uno. El Gobierno, la Administración y las Entidades públicas deberán facilitar información sobre sus actos a todas las publicaciones periódicas y agencias informativas en la forma que legal o reglamentariamente se determine.
+Dos. La actividad de los expresados órganos y de la Administración de Justicia será reservada cuando por precepto de la Ley o por su propia naturaleza sus actuaciones, disposiciones o acuerdos no sean públicos o cuando los documentos o actos en que se formalicen sean declarados reservados.
+
+### Artículo octavo
+
+Artículo octavo. Competencia administrativa.
+Corresponde al Ministerio de Información y Turismo el ejercicio de todas las funciones administrativas contenidas en esta Ley.
+
+## CAPÍTULO II
+
+De los impresos o publicaciones
+
+### Artículo noveno
+
+Artículo noveno. Impreso.
+Se entenderá por impreso, a efectos de esta Ley, toda reproducción gráfica destinada, o que pueda destinarse, a ser difundida.
+
+### Artículo diez
+
+Artículo diez. Clases de impresos.
+Uno. Los impresos se clasificarán en publicaciones unitarias y publicaciones periódicas. Las primeras comprenderán los libros, folletos, hojas sueltas, carteles y otros impresos análogos, y las segundas, los diarios, semanarios y aquellas otras que, en general, aparecen en cualesquiera períodos de tiempo determinado.
+Dos. Reglamentariamente se determinarán los requisitos formales que deban reunir los impresos para alcanzar tales denominaciones, teniendo en cuenta que las publicaciones unitarias se caracterizan por ser obras editadas en su totalidad de una sola vez en uno o varios volúmenes, fascículos o entregas, y con un contenido normalmente homogéneo, mientras que las publicaciones periódicas son impresas en serie continua, bajo un mismo título, para períodos de tiempo determinados, con un contenido informativo o de opinión, normalmente heterogéneo, y con propósito de duración indefinida.
+
+### Artículo once
+
+Artículo once. Pie de imprenta.
+Uno. Sin perjuicio de las normas especiales, en todo impreso se hará constar el lugar y el año de su impresión, así como el nombre y el domicilio del impresor. Se exceptúan aquellos impresos que se utilicen en la vida de relación social.
+Dos. En las publicaciones periódicas se hará constar, además, el día y el mes, el nombre y apellidos del Director, el domicilio y razón social de la empresa periodística y la dirección de sus oficinas, redacción y talleres.
+Tres. En las publicaciones unitarias, si hubiera editor o autor, se hará constar, además de lo exigido para todo impreso en el primer párrafo de este artículo, el nombre y domicilio del primero y el nombre o seudónimo del segundo.
+
+### Artículo doce
+
+Artículo doce. Depósito.
+Uno. A los efectos de lo prevenido en el artículo sesenta y cuatro de la presente Ley, antes de proceder a la difusión de cualquier impreso sujeto a pie de imprenta, deberán depositarse seis ejemplares del mismo con la antelación que reglamentariamente se determine, que nunca podrá exceder de un día por cada cincuenta páginas o fracción.
+Dos. En el caso de diarios o semanarios se depositarán diez ejemplares de la publicación o bien el mismo número de reproducciones de su contenido, media hora antes, como mínimo, de su difusión, firmados por el Director o por la persona en quien éste delegue. En las demás publicaciones periódicas el número de ejemplares será el mismo y el plazo de seis horas.
+Tres. El depósito se realizará en las dependencias del Ministerio de Información y Turismo que reglamentariamente se determinen.
+
+### Artículo trece
+
+Artículo trece. Impresos clandestinos.
+Se reputarán clandestino todo impreso en el que no figuren o sean inexactas las menciones exigidas en el artículo 11, o que haya sido difundido incumpliendo lo dispuesto en el artículo doce.
+
+### Artículo catorce
+
+Artículo catorce. De la difusión.
+Se presume que existe difusión de un impreso cuando no se encuentre, ya sea en poder del autor, del editor o del impresor, la totalidad de los ejemplares, salvo los de depósito a que se refiere el artículo doce.
+
+### Artículo quince
+
+Artículo quince. Publicaciones infantiles.
+Un Estatuto especial regulará la impresión, edición y difusión de publicaciones que, por su carácter, objeto o presentación, aparezcan como principalmente destinadas a los niños y adolescentes.
+
+## CAPÍTULO III
+
+De las empresas periodísticas
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo dieciséis
+
+Artículo dieciséis. Libertad de empresa.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículos dieciséis a veinticinco
+
+Artículos dieciséis a veinticinco.
+(Derogados)
+Se derogan por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo diecisiete
+
+Artículo diecisiete. Capital español.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo dieciocho
+
+Artículo dieciocho. De los administradores.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo diecinueve
+
+Artículo diecinueve. Objeto social específico.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo veinte
+
+Artículo veinte. Sociedades anónimas.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo veintiuno
+
+Artículo veintiuno. Publicaciones de contenido especial.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo veintidós
+
+Artículo veintidós. Responsabilidad en caso de varias publicaciones.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo veintitrés
+
+Artículo veintitrés. Transmisión de títulos de publicaciones.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo veinticuatro
+
+Artículo veinticuatro. Derecho público.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo veinticinco
+
+Artículo veinticinco. Vigilancia de los medios financieros.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+## CAPÍTULO IV
+
+Del registro de Empresas periodísticas
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo veintiséis
+
+Artículo veintiséis. Inscripción.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículos veintiséis a treinta y dos
+
+Artículos veintiséis a treinta y dos.
+(Derogados)
+Se derogan por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo veintisiete
+
+Artículo veintisiete. Solicitud de inscripción.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo veintiocho
+
+Artículo veintiocho. Inscripciones sucesivas.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo veintinueve
+
+Artículo veintinueve. Causas denegatorias y de cancelación de las inscripciones.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo treinta
+
+Artículo treinta. Recurso en caso de denegación o cancelación.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo treinta y uno
+
+Artículo treinta y uno. Nuevas publicaciones.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo treinta y dos
+
+Artículo treinta y dos. Beneficios.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+## CAPÍTULO V
+
+De la profesión periodística y de los Directores de publicaciones periódicas
+
+### Artículo treinta y tres
+
+Artículo treinta y tres. Profesión periodística y título profesional.
+Un Estatuto de la profesión periodística, aprobado por Decreto, regulará los requisitos para el ejercicio de tal actividad, determinando los principios generales a que debe subordinarse y, entre ellos, el de profesionalidad, previa inscripción en el Registro Oficial, con fijación de los derechos y deberes del periodista y especialmente del Director de todo medio informativo; el de colegiación, integrada en la Organización Sindical, que participará en la formulación, redacción y aplicación del mencionado Estatuto, y el de atribución a un Jurado de ética profesional de la vigilancia de sus principios morales.
+
+### Artículo treinta y cuatro
+
+Artículo treinta y cuatro. Director.
+Al frente de toda publicación periódica o Agencia informativa, en cuanto medio de información, habrá un Director, al que corresponderá la orientación y la determinación del contenido de las mismas, así como la representación ante las Autoridades y Tribunales en las materias de su competencia.
+
+### Artículo treinta y cinco
+
+Artículo treinta y cinco. Requisitos.
+Uno. Para desempeñar el cargo de Director serán requisitos imprescindibles: tener la nacionalidad española, hallarse en el pleno ejercicio de los derechos civiles y políticos, residir en el lugar donde el periódico se publica o donde la agencia tiene su sede y poseer el título de Periodista inscrito en el Registro Oficial.
+Dos. El Estatuto a que se refiere el artículo treinta y tres establecerá las posibles excepciones que resulten de la naturaleza oficial o especializada de la publicación.
+
+### Artículo treinta y seis
+
+Artículo treinta y seis. Prohibiciones.
+Uno. No podrán ser Directores:
+Primero.–Los condenados por delito doloso, no rehabilitados, salvo que se hubiese apreciado como muy cualificada la circunstancia de preterintencionalidad en los delitos contra las personas.
+Segundo.–Los condenados judicialmente por tres o más infracciones en materia de Prensa.
+Tercero.–Los que hayan sido sancionados tres o más veces por el Jurado de Ética Profesional en grado superior al de amonestación pública.
+Cuarto.–Los sancionados administrativamente tres o más veces por infracción grave, según la presente Ley, en el plazo de un año.
+Dos. No se entenderán comprendidos en el apartado primero de la anterior enumeración los condenados por delitos definidos en la Ley de 24 de diciembre de 1962, con excepción de los previstos en sus artículos séptimo, octavo y décimo.
+
+### Artículo treinta y siete
+
+Artículo treinta y siete. Derechos.
+El Director tiene el derecho de veto sobre el contenido de todos los originales del periódico, tanto de redacción como de administración y publicidad, sin perjuicio de lo dispuesto en el artículo sexto sobre inserción necesaria.
+
+### Artículo treinta y ocho
+
+Artículo treinta y ocho. Origen de la información y de la publicidad.
+Uno. En toda información o noticia contenida en un impreso periódico deberá hacerse constar su fuente de origen. Si ésta no constase, se entenderá que el Director declara haberla obtenido a través de fuentes propias.
+Dos. La publicidad que exprese opiniones sobre asuntos de interés público deberá contener el nombre y la dirección del anunciante.
+
+### Artículo treinta y nueve
+
+Artículo treinta y nueve. Responsabilidad.
+Uno. El Director es responsable de cuantas infracciones se cometan a través del medio informativo a su cargo, con independencia de las responsabilidades de orden penal o civil que puedan recaer sobre otras personas de acuerdo con la legislación vigente.
+Dos. Sin perjuicio de su responsabilidad personal, se entenderá tácitamente concedido en favor del Director, por el simple hecho de su designación, un poder típico para representar y obligar al empresario en todo lo relativo al ejercicio de las funciones a su cargo y, especialmente, en cuanto a las responsabilidades que se deriven de la publicación periódica de que se trate. Cualquier estipulación en contrario de lo dispuesto anteriormente será nula.
+
+### Artículo cuarenta
+
+Artículo cuarenta. Designación.
+Uno. El Director será designado libremente por la Empresa periodística entre las personas que reúnan los requisitos exigidos en esta Ley.
+Dos. Sus relaciones se formalizarán en un contrato civil de prestación de servicios, cuyas condiciones mínimas, fijadas por el Estatuto a que se refiere el artículo 33, se aplicarán a todas las empresas periodísticas.
+
+### Artículo cuarenta y uno
+
+Artículo cuarenta y uno. Subdirectores.
+Uno. En los casos de ausencia, enfermedad, suspensión o cese del Director será sustituido interinamente en las funciones directivas por el Subdirector o, a falta de éste, por la persona que se determine, designados en la misma forma que el Director, en quienes recaerán, durante el período de suplencia, las atribuciones y responsabilidades señaladas en la presente Ley para los Directores.
+Dos. La designación del Subdirector o sustituto interino queda sujeta a los mismos requisitos de inscripción que rigen para el Director.
+
+### Artículo cuarenta y dos
+
+Artículo cuarenta y dos. Incompatibilidad.
+El cargo de Director o Subdirector es incompatible con el ejercicio de cualquier cargo público o actividad privada que pueda coartar la libertad o independencia en el desempeño de sus funciones en los términos que determine el Estatuto a que se refiere el artículo treinta y tres.
+
+## CAPÍTULO VI
+
+De las agencias informativas
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo cuarenta y tres
+
+Artículo cuarenta y tres. Agencias informativas.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículos cuarenta y tres a cuarenta y nueve
+
+Artículos cuarenta y tres a cuarenta y nueve.
+(Derogados)
+Se derogan por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo cuarenta y cuatro
+
+Artículo cuarenta y cuatro. Libertad de creación de agencias.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo cuarenta y cinco
+
+Artículo cuarenta y cinco. Inscripción.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo cuarenta y seis
+
+Artículo cuarenta y seis. Prohibición de publicidad.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo cuarenta y siete
+
+Artículo cuarenta y siete. Identificación de agencias.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo cuarenta y ocho
+
+Artículo cuarenta y ocho. Responsabilidad.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo cuarenta y nueve
+
+Artículo cuarenta y nueve. De la información extranjera.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+## CAPÍTULO VII
+
+De las empresas editoriales
+
+### Artículo cincuenta
+
+Artículo cincuenta. Libertad de empresa editorial.
+Uno. Toda persona, natural o jurídica, de nacionalidad española y con residencia en España, que se encuentre en pleno ejercicio de sus derechos civiles y políticos, podrá constituir o participar en Empresas que tengan por objeto principal la realización, por cuenta propia, de las publicaciones unitarias referidas en el artículo 10 de esta Ley. Dichas Empresas se denominarán «Empresas editoriales».
+Dos. Podrán participar en ellas hasta un cincuenta por ciento de su patrimonio social o capital, los españoles no residentes en España, en quienes concurran los restantes requisitos anteriormente señalados y las personas naturales pertenecientes a los países de las áreas idiomáticas española y portuguesa.
+Tres. Si la publicación unitaria fuera editada por cuenta de su autor y sin pie editorial, dicho autor asumirá la responsabilidad y deberes de la Empresa editorial, siendo subsidiariamente responsable el impresor.
+
+### Artículo cincuenta y uno
+
+Artículo cincuenta y uno. Inscripción.
+Uno. Las Empresas editoriales habrán de inscribirse antes de dar comienzo al ejercicio de sus actividades en un Registro público que se llevará en el Ministerio de Información y Turismo y se denominará «Registro de Empresas Editoriales».
+Dos. Contra el acuerdo que deniegue la inscripción o la cancele, en su caso, podrán interponerse los mismos recursos que establece el artículo treinta.
+
+### Artículo cincuenta y dos
+
+Artículo cincuenta y dos. Solicitud de inscripción.
+Uno. La inscripción se practicará previa instrucción de un expediente, en el que se hará constar, para que figure en el Registro:
+Primero.–Nombre y razón social, nacionalidad y domicilio de la persona natural o jurídica titular de la Empresa.
+Segundo.–Reglamento de la Empresa o Estatuto de la Sociedad.
+Tercero.–Nombre del fundador o fundadores y de las personas a las que se encomiende la gestión y administración.
+Cuarto.–Descripción del patrimonio de la Empresa y, en su caso, capital social suscrito y desembolsado.
+Quinto.–Líneas generales del plan editorial y financiero y medios para su realización.
+Dos. Cuando la forma jurídica adoptada sea la de una Sociedad, se presentará, además, copia autorizada de la escritura pública de constitución y de los acuerdos sociales relativos a nombramientos de administradores y gestores, así como certificación de los asientos correspondientes del Registro Mercantil.
+
+### Artículo cincuenta y tres
+
+Artículo cincuenta y tres. Derecho a la inscripción.
+La inscripción se practicará cuando se hayan aportado al expediente los datos exigidos en el artículo anterior. La Administración podrá solicitar cuantos datos complementarios sean necesarios para la debida identificación de las Empresas editoriales, e igualmente requerir a las mismas para que le comuniquen las modificaciones que se hayan producido con posterioridad a la inscripción. En todo caso las Empresas editoriales comunicarán al Registro, semestralmente, las modificaciones habidas en relación con los hechos que fueran objeto de inscripción.
+
+### Artículo cincuenta y cuatro
+
+Artículo cincuenta y cuatro. Beneficios.
+Una vez inscrita en el Registro la Empresa editorial, participará de los beneficios de carácter tributario, económico, postal, de distribución, comunicación y cuantos otros análogos se otorguen.
+
+## CAPÍTULO VIII
+
+De las Empresas importadoras de publicaciones, de las agencias extranjeras y de los corresponsales informativos extranjeros
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo cincuenta y cinco
+
+Artículo cincuenta y cinco. Impresos extranjeros.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículos cincuenta y cinco a cincuenta y siete
+
+Artículos cincuenta y cinco a cincuenta y siete.
+(Derogados)
+Se derogan por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo cincuenta y seis
+
+Artículo cincuenta y seis. Agencias informativas extranjeras.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+### Artículo cincuenta y siete
+
+Artículo cincuenta y siete. Corresponsales informativos del extranjero.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 29/1984, de 2 de agosto. Ref. BOE-A-1984-17386.
+
+## CAPÍTULO IX
+
+De los derechos de réplica y rectificación
+
+### Artículo cincuenta y ocho
+
+Artículo cincuenta y ocho. Derecho de réplica.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley Orgánica 2/1984, de 26 de marzo. Ref. BOE-A-1984-7248.
+
+### Artículos cincuenta y ocho a sesenta y dos
+
+Artículos cincuenta y ocho a sesenta y dos.
+(Derogados)
+Se derogan por la disposición derogatoria de la Ley Orgánica 2/1984, de 26 de marzo. Ref. BOE-A-1984-7248.
+
+### Artículo cincuenta y nueve
+
+Artículo cincuenta y nueve. Deber de inserción.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley Orgánica 2/1984, de 26 de marzo. Ref. BOE-A-1984-7248.
+
+### Artículo sesenta
+
+Artículo sesenta. Forma de inserción.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley Orgánica 2/1984, de 26 de marzo. Ref. BOE-A-1984-7248.
+
+### Artículo sesenta y uno
+
+Artículo sesenta y uno. Inserción obligatoria.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley Orgánica 2/1984, de 26 de marzo. Ref. BOE-A-1984-7248.
+
+### Artículo sesenta y dos
+
+Artículo sesenta y dos. Derecho de rectificación.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley Orgánica 2/1984, de 26 de marzo. Ref. BOE-A-1984-7248.
+
+## CAPÍTULO X
+
+De la responsabilidad y de las sanciones
+
+### Artículo sesenta y tres
+
+Artículo sesenta y tres. Clases de responsabilidad.
+La infracción de las normas que regulan el régimen jurídico de Prensa e Imprenta dará origen a la responsabilidad penal, civil o administrativa que proceda.
+
+### Artículo sesenta y cuatro
+
+Artículo sesenta y cuatro. De la responsabilidad penal y de las medidas previas y gubernativas.
+Uno. La responsabilidad criminal será exigida ante los Tribunales de Justicia, de conformidad con lo establecido en la legislación penal y por los trámites que establecen las leyes de procedimiento.
+Dos. A) Cuando la Administración tuviere conocimiento de un hecho que pudiera ser constitutivo de delito cometido por medio de impresos gráficos o sonoros dará cuenta al Ministerio Fiscal o lo comunicará al Juez competente, el cual acordará inmediatamente sobre el secuestro de dichos impresos con arreglo al artículo ochocientos dieciséis de la Ley de Enjuiciamiento Criminal.
+B) (Derogado)
+C) (Derogado)
+D) (Derogado)
+E) (Derogado)
+Se derogan los apartados B) a E) por la disposición derogatoria de la Ley 62/1978, de 26 de diciembre. Ref. BOE-A-1979-88.
+ Se modifica el apartado 2 por el art. 3 del Real Decreto-Ley 24/1977, de 1 de abril. Ref. BOE-A-1977-9008.
+
+### Artículo sesenta y cinco
+
+Artículo sesenta y cinco. De la responsabilidad civil en materia de Prensa e Imprenta y de la patrimonial del Estado.
+Uno. La responsabilidad civil derivada de delito, cuando no pueda hacerse efectiva en los autores que menciona el artículo 15 del Código Penal, recaerá con carácter subsidiario en la Empresa periodística, editora, impresora e importadora o distribuidora de impresos extranjeros.
+Dos. La responsabilidad civil por actos u omisiones ilícitos, no punibles, será exigible a los autores, directores, editores, impresores e importadores o distribuidores de impresos extranjeros, con carácter solidario.
+Tres. La insolvencia de las personas jurídicas dará lugar a una responsabilidad civil subsidiaria de sus administradores, salvo que éstos hayan manifestado previamente su oposición formal al acto.
+Cuatro. La responsabilidad patrimonial del Estado y la de las Autoridades y funcionarios en relación con los actos que regula la Ley de Prensa e Imprenta se regirá por lo dispuesto en el título IV de la Ley de Régimen Jurídico de la Administración del Estado.
+
+### Artículo sesenta y seis
+
+Artículo sesenta y seis. De la responsabilidad administrativa.
+La infracción de los preceptos legales y reglamentarios en materia de Prensa e Imprenta será sancionable en vía administrativa, independientemente de que sea o no constitutiva de delito.
+
+### Artículo sesenta y siete
+
+Artículo sesenta y siete. Infracciones muy graves.
+Son infracciones administrativas muy graves:
+a) Las actividades que sean graves y manifiestamente contrarias a las libertades y derechos declarados en esta Ley y a las limitaciones establecidas en su artículo segundo.
+b) La difusión, circulación o reproducción en España de impresos editados en el extranjero cuando no se hubieran cumplido los requisitos necesarios.
+c) La publicación de disposiciones, acuerdos o documentos oficiales que tengan el carácter de reservados conforme a lo dispuesto en el artículo séptimo.
+
+### Artículo sesenta y ocho
+
+Artículo sesenta y ocho. Infracciones graves y leves.
+Uno. Constituyen infracciones graves:
+a) El incumplimiento de las obligaciones de inserción o difusión contenidas en los artículos sexto y sesenta y dos de esta Ley, siempre que exista requerimiento expreso al efecto.
+b) Cualquier otra infracción de las disposiciones legales o reglamentarias cuando haya intención manifiesta de deformar la opinión pública, se produzca con reiteración o cause una perturbación grave y actual.
+Dos. Se considera como infracción leve, cualquier infracción de las disposiciones legales o reglamentarias que no esté comprendida como infracción muy grave en el artículo sesenta y siete o como grave en el párrafo anterior de este artículo.
+
+### Artículo sesenta y nueve
+
+Artículo sesenta y nueve. Sanciones.
+Uno. Por razón de las infracciones a que se refieren los artículos anteriores, podrán imponerse las siguientes sanciones:
+Téngase en cuenta que quedan suprimidas las facultades de suspensión atribuidas a la Administración por este artículo, según establece el art. 2.2 del Real Decreto-Ley 24/1977, de 1 de abril. Ref. BOE-A-1977-9008.
+a) Cuando la responsabilidad afecte al autor o Director:
+Primero.–En las infracciones leves: suspensión en el ejercicio de las actividades profesionales hasta quince días o multa de mil a veinticinco mil pesetas.
+Segundo.–En las graves: suspensión en el ejercicio de las actividades profesionales de quince díasa un mes o multa de veinticinco mil a cincuenta mil pesetas.
+Tercero.–En las muy graves: suspensión en el ejercicio de las actividades profesionales de un mes a seis meses o multa de cincuenta mil a doscientas cincuenta mil pesetas.
+b) A los empresarios o Empresas:
+Primero.–En las infracciones leves: multa de mil a cincuenta mil pesetas.
+Segundo.–En las graves: multa de cincuenta mil a cien mil pesetas.
+Tercero.–En las muy graves: suspensión de las publicaciones periódicas hasta dos meses en los diarios; hasta cuatro meses en los semanarios o publicaciones quincenales y hasta seis meses en las de menor frecuencia. Suspensión de las actividades de las Empresas editoriales definidas en el artículo cincuenta hasta tres meses o multa de cien mil a quinientas mil pesetas.
+Dos. La sanción de multa podrá ser impuesta conjuntamente con cualquier otra.
+Tres. Las resoluciones sobre sanciones serán anotadas en los Registros correspondientes.
+Se suprimen las facultades de suspensión atribuidas a la Administración en el apartado 1 por el art. 2.2 del Real Decreto-Ley 24/1977, de 1 de abril. Ref. BOE-A-1977-9008.
+ Véase en cuanto a los efectos de las anotaciones registrales el art. 1 del Real Decreto 2716/1976, de 18 de octubre. Ref. BOE-A-1976-24052.
+
+### Artículo setenta
+
+Artículo setenta. Competencia.
+La competencia para corregir las infracciones expresadas corresponde:
+Uno. Al Director general de Prensa o al de Información, en su caso, las de carácter leve.
+Dos. Al Ministro de Información y Turismo, las de carácter grave.
+Tres. Al Consejo de Ministros, las de carácter muy grave.
+
+### Artículo setenta y uno
+
+Artículo setenta y uno. Recursos.
+Uno. Contra los acuerdos que impongan las sanciones podrá recurrirse, en vía administrativa, ante:
+a) El Ministro de Información y Turismo de los adoptados por la Dirección General de Prensa o de Información, en su caso.
+b) El Consejo de Ministros, de los adoptados por el Ministro de Información y Turismo.
+c) El mismo Consejo, en súplica, por los que éste hubiera acordado.
+Dos. Contra los acuerdos que pongan fin a la vía administrativa podrá recurrirse ante la jurisdicción contencioso-administrativa.
+
+### Artículo setenta y dos
+
+Artículo setenta y dos. Publicación de sentencias.
+Sin perjuicio de lo dispuesto en el artículo cuatrocientos sesenta y cinco del Código Penal, las sentencias o resoluciones administrativas que impongan sanciones deberán insertarse en la misma publicación a que se refieran, en uno de los tres números inmediatamente posteriores a su notificación.
+
+### Disposición final primera
+
+Disposición final primera.
+El régimen de las Empresas, Agencias de información y publicaciones constituidas o que puedan constituirse en el futuro por el Estado o Entidades públicas, el Movimiento Nacional y la Organización Sindical, quedará sujeto a lo establecido en las disposiciones creadoras de aquéllas, sin perjuicio de dar cumplimiento a los requisitos formales exigidos en la presente Ley y en las disposiciones reglamentarias dictadas en aplicación de la misma.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Para resolver las cuestiones que pueda suscitar la aplicación de la presente Ley a las publicaciones de la Iglesia Católica, dependientes de su Jerarquía, el Gobierno y la Comisión Episcopal de Medios de Comunicación Social adoptarán los acuerdos procedentes.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Queda facultado el Gobierno para dictar cuantas normas reglamentarias sean convenientes para el mejor desarrollo y aplicación de esta Ley.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+Estarán exentos de toda clase de impuestos los actos que deban realizarse para acomodar la estructura de las Empresas existentes a los preceptos de esta Ley.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En el plazo de un año a partir de la entrada en vigor de esta Ley, todas las Empresas periodísticas, Empresas editoriales, Agencias de Información y publicaciones a que la misma afecta, se acomodarán a lo que en ella se dispone, procediendo a inscribirse en los respectivos Registros.
+
+###  Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Con independencia de lo establecido en la disposición anterior, quedarán subsistentes las proporciones de capital extranjero que, debidamente autorizadas, existieren en las Empresas periodísticas y Editoriales con anterioridad al primero de enero de mil novecientos sesenta. La transmisión de los títulos o acciones en que las referidas proporciones consistan sólo podrán realizarse a favor de personas en las que concurran, respectivamente, los requisitos exigidos en el artículo dieciséis y en el párrafo primero del artículo cincuenta de esta Ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Continuarán subsistentes en su forma actual las Empresas periodísticas que hayan hecho uso del derecho reconocido en la disposición transitoria decimosegunda de la vigente Ley de Sociedades Anónimas, sin perjuicio del cumplimiento de los requisitos de inscripción en el Registro que resulten de lo dispuesto en esta Ley.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+En el plazo señalado en la disposición primera, las Sociedades Anónimas existentes con anterioridad a la publicación de esta Ley, que tengan como objeto social el determinado en el artículo diecinueve, podrán constituir la Junta de Fundadores, acomodándose a lo dispuesto en el artículo veinte, previo acuerdo unánime de sus accionistas, adoptado en Junta general.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+En el plazo de un año, a partir de la entrada en vigor de esta Ley, deberá ser promulgado por Decreto el texto refundido del Estatuto de la Profesión Periodística.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas las Leyes de Imprenta de veintiséis de junio de mil ochocientos ochenta y tres, la de Prensa de veintidós de abril de mil novecientos treinta y ocho, el apartado b) del artículo cuarenta de la Ley reguladora de la Jurisdicción Contencioso-Administrativa de veintisiete de diciembre de mil novecientos cincuenta y seis, en lo que se refiere al ejercicio de la función de policía sobre la Prensa, el Decreto de veintitrés de septiembre de mil novecientos cuarenta y uno sobre autorización para la publicación de obras, el Decreto de trece de marzo de mil novecientos cincuenta y tres y la Orden de veinticinco de mayo del mismo año sobre derecho de rectificación en prensa periódica, el Decreto de once de julio de mil novecientos cincuenta y siete por el que se regula el requisito de pie de imprenta en las publicaciones, la Orden de veintinueve de abril de mil novecientos treinta y ocho referente a los trámites previos a la publicación de libros, la Orden de veinticuatro de febrero de mil novecientos cuarenta y dos sobre publicación de revistas, la Orden de veintitrés de marzo de mil novecientos cuarenta y seis sobre censura previa, las Órdenes de veintiocho de enero de mil novecientos cincuenta y dos y trece de agosto de mil novecientos sesenta y dos sobre nombramiento y sustitución de directores, la Orden de treinta y uno de octubre de mil novecientos cincuenta y siete sobre publicación de información general, la Orden de veintiuno de julio de mil novecientos cincuenta y nueve por la que se establece el número de orden del Registro de Publicaciones para los libros editados en España o importados del exterior, la Orden de cuatro de octubre de mil novecientos cincuenta y ocho sobre Registro de Empresas periodísticas y la Orden de siete de febrero de mil novecientos sesenta y tres sobre acreditación de informadores extranjeros, así como cuantas disposiciones se opongan a lo dispuesto en la presente Ley.
+
+Dada en el Palacio de El Pardo a dieciocho de marzo de mil novecientos sesenta y seis.
+FRANCISCO FRANCO

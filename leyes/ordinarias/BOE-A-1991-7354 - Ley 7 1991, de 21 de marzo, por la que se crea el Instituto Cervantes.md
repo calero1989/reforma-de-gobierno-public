@@ -1,0 +1,202 @@
+# Ley 7/1991, de 21 de marzo, por la que se crea el Instituto Cervantes.
+
+- Identificador BOE: `BOE-A-1991-7354`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-7354
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+La presencia exterior permanente y activa es objetivo estratégico de los países más avanzados. La difusión del conocimiento de la lengua y la expansión e influencia de la cultura son instrumentos que permiten dar coherencia y sentido a la acción exterior del Estado, en especial de aquellos Estados de larga historia, lengua universal y vieja cultura. Cultura y lengua recogen los trazos más profundos de la propia identidad, reflejan una sensibilidad particular y rezuman una cierta concepción de la realidad, unitaria y plural a la vez.
+Los esfuerzos dedicados a su difusión y a la elevación de la calidad de ésta ayudan a perfilar y proyectar la imagen del país en el mundo, favorecen los intercambios, incluso los económicos y comerciales, y contribuyen a la construcción de un mundo basado en relaciones de comprensión y de conocimiento mutuos.
+España posee entre sus lenguas una de las más extendidas del mundo y atesora un acervo cultural de primerísima magnitud que hoy día es compartido por una gran comunidad cultural y lingüística, la comunidad hispana. Son varios los factores que hoy explican la creciente solicitud del estudio del Español y del conocimiento de nuestra común y diversa cultura. Así la vitalidad y pujanza de la comunidad hispanohablante, en la que España ocupa un lugar singular, o la gradual recuperación de un papel significativo en el concierto internacional.
+La respuesta a tan favorable situación exige acciones más decididas que las llevadas a cabo hasta ahora. Una de ellas es la puesta en marcha de un organismo especializado, capaz de dar en cantidad y calidad un impulso distinto y mayor al conocimiento del Español. La presente Ley crea con este propósito el Instituto Cervantes. A semejanza de prestigiosas Instituciones de países de nuestro entorno, el Instituto Cervantes asumirá como objetivo primordial la difusión del Español, incardinándola en el marco general de la acción exterior del Estado. En orden a su más eficaz actuación realizará por sí o coordinará las competencias hasta ahora ejercidas en este campo por otros órganos de la Administración y de manera singular por los Ministerios de Asuntos Exteriores, Educación y Ciencia y Cultura.
+Su configuración como Entidad de Derecho Público le permitirá disponer de la necesaria autonomía y la sujeción de sus actividades al ordenamiento jurídico privado facilitará la adopción de formas y técnicas de gestión eficientes y flexibles e indispensables en un organismo que ha de actuar en países muy diversos y en situaciones cambiantes y heterogéneas. Su conexión con la Administración del Estado mediante su adscripción al Ministerio de Asuntos Exteriores garantizará ante terceros países la acreditación de las enseñanzas que imparta y asegurará su dotación material, la capacitación de su profesorado y la adecuación de sus métodos pedagógicos. Por otra parte, la integración en el Instituto de los Centros que, dependientes hoy de otros órganos de la Administración Pública se dedican en la actualidad a los mismos fines en el exterior, favorecerá la unidad de acción y la mejor gestión de los recursos.
+El Instituto Cervantes atenderá de forma especial a los hispanistas, los filólogos o los profesores de lengua española por ser mediadores principales en el conocimiento y difusión de la lengua y de la cultura. Aspira, además, a extender el interés por la cultura y por la lengua a todos los ciudadanos de los países en que radiquen sus Centros, tratando de irradiar su acción sobre el conjunto de la sociedad. Por este camino, contribuirá a transmitir y definir una imagen de España que combine la percepción de un rico patrimonio histórico con los rasgos de la moderna sociedad española.
+Cualquier momento es oportuno para emprender tareas de esta índole. En el presente la oportunidad es aún más clara porque la situación internacional se distiende y la cooperación entre naciones adquiere, y adquirirá aún más, un renovado empuje. Y ningún momento podría alcanzar mayor fuerza simbólica que el de las vísperas de 1992, año del V Centenario de la publicación de la Gramática de Nebrija y de la transformación del castellano en lengua universal.
+
+## TÍTULO PRIMERO
+
+Naturaleza y funciones
+
+### Artículo 1
+
+Artículo 1.
+Bajo el Alto Patrocino de SS. MM. los Reyes de España, se crea el Instituto Cervantes para la promoción y difusión del Español, como entidad de derecho público de las previstas en el artículo 6.º, 5), de la Ley General Presupuestaria.
+
+### Artículo 2
+
+Artículo 2.
+El Instituto Cervantes es una entidad pública sin ánimo de lucro, con personalidad jurídica propia y capacidad de obrar para el cumplimiento de sus fines, que ajustará sus actividades al ordenamiento jurídico privado.
+El Instituto estará adscrito al Ministerio de Asuntos Exteriores. Se regirá por la presente Ley y las disposiciones que la desarrollen, por la Ley General Presupuestaria y por las demás disposiciones del ordenamiento jurídico que le resulten aplicables.
+
+### Artículo 3
+
+Artículo 3.
+1. Son fines del Instituto Cervantes:
+a) Promover universalmente la enseñanza, el estudio y el uso del español y fomentar cuantas medidas y acciones contribuyan a la difusión y la mejora de la calidad de estas actividades.
+b) Contribuir a la difusión de la cultura en el exterior en coordinación con los demás órganos competentes de la Administración del Estado.
+2. En sus actividades, el Instituto Cervantes atenderá fundamentalmente al patrimonio lingüístico y cultural que es común a los países y pueblos de la comunidad hispanohablante.
+
+### Artículo 4
+
+Artículo 4.
+Para el cumplimiento de sus fines el Instituto Cervantes, por iniciativa propia o en colaboración con terceros, podrá:
+1. Crear centros, promover y organizar cursos para la enseñanza del Español.
+2. Organizar las pruebas de verificación del conocimiento del Español, para la obtención de los diplomas oficiales expedidos por el Ministerio de Educación y Ciencia, en los términos que éste regule.
+3. Fomentar y realizar acciones encaminadas a la difusión del Español, en particular a través de los medios de comunicación social y medios audiovisuales, a la formación del profesorado y a la edición de materiales de apoyo a la enseñanza de la lengua.
+4. Fomentar la investigación del Español y su enseñanza y actuar como órgano de cooperación y asistencia para los hispanistas y centros extranjeros de investigación.
+5. Llevar a cabo actividades culturales, en todas sus manifestaciones, de acuerdo con los fines del Instituto.
+6. Establecer convenios y, en su caso, protocolos de colaboración con Universidades y otras instituciones, públicas o privadas, nacionales o extranjeras, que se dediquen a idénticos o similares fines.
+7. Realizar cualesquiera otras actividades conducentes al cumplimiento de sus fines.
+
+### Artículo 5
+
+Artículo 5.
+El Instituto Cervantes actuará en el marco general de la acción exterior del Estado y coordinará sus actividades con cuantas realicen las Administraciones públicas o cualesquiera otras instituciones orientadas a los fines del Instituto.
+
+## TÍTULO II
+
+Órganos rectores
+
+### Artículo 6
+
+Artículo 6.
+Los órganos rectores del Instituto Cervantes son: El Patronato, el Consejo de Administración y el Director.
+
+### Artículo 7
+
+Artículo 7.
+1. La Presidencia de honor del Patronato corresponde a Su Majestad el Rey.
+2. La Presidencia ejecutiva del Patronato corresponde al Presidente del Gobierno y estará integrado, además, por:
+a) Los Ministros de Asuntos Exteriores, de Educación y Ciencia y de Cultura.
+b) El Presidente y los Vicepresidentes del Consejo de Administración.
+c) El Director del Instituto.
+d) Veinticinco Vocales en representación de las letras y la cultura de la comunidad hispanohablante, en especial de la Real Academia Española, del Instituto de España y de las otras Reales Academias, de la Comisión Permanente de Academias de la Lengua Española, de las Universidades y de otras instituciones sociales.
+Reglamentariamente se determinará qué Vocales hayan de ostentar la condición de natos en razón de su cargo. El resto será nombrado por el Gobierno por un período de seis años, renovándose por mitades cada tres años.
+e) El Secretario General del Instituto, quien lo será también del Patronato, con voz pero sin voto.
+3. Corresponde al Patronato conocer los planes generales de actividades del Instituto y la memoria anual del mismo, previamente a su aprobación, y proponer las prioridades de actuación, así como cuantas iniciativas puedan contribuir al mejor funcionamiento del instituto y al cumplimiento de sus fines.
+
+### Artículo 8
+
+Artículo 8.
+1. El Consejo de Administración estará compuesto por:
+a) El Presidente, cargo que recaerá en el Secretario de Estado para la Cooperación Internacional y para Iberoamérica, del Ministerio de Asuntos Exteriores. Tendrá voto de calidad.
+b) Dos Vicepresidentes, cargos que recaerán en el Subsecretario del Ministerio de Educación y Ciencia y el Subsecretario del Ministerio de Cultura.
+c) Dos Consejeros, nombrados por el Gobierno en representación y a propuesta del Patronato.
+d) Cuatro Consejeros, nombrados por el Gobierno en representación y a propuesta, respectivamente, de los Ministros de Asuntos Exteriores, de Educación y Ciencia, de Cultura y de Economía y Hacienda.
+e) El Director del Instituto.
+f) El Secretario General del Instituto, quien lo será también del Consejo, con voz pero sin voto.
+2. Corresponde al Consejo de Administración:
+a) Aprobar los planes generales de actividades del Instituto y los programas de ayudas y subvenciones, así como los criterios básicos para su otorgamiento.
+b) Aprobar el anteproyecto de Presupuesto anual del Instituto.
+c) Aprobar la memoria anual.
+d) Fijar los criterios básicos para la firma de convenios y protocolos.
+e) Proponer al Ministerio de Asuntos Exteriores, para su aprobación por el Gobierno, la creación de fundaciones o entidades sin fines de lucro, al amparo de la legislación de otros Estados, cuando ello sea necesario para el mejor cumplimiento de sus fines.
+f) Informar la propuesta de nombramiento del Director del Instituto y del Secretario General.
+g) En general, velar por el correcto funcionamiento del Instituto en relación con los fines que tiene encomendados.
+
+### Artículo 9
+
+Artículo 9.
+1. El Director será nombrado por el Consejo de Ministros, por iniciativa del Ministro de Educación y Ciencia, a propuesta conjunta de los Ministros de Asuntos Exteriores, de Educación y Ciencia y de Cultura.
+2. Corresponde al Director:
+a) La dirección del Instituto y de su personal.
+b) La propuesta y ejecución de los planes generales de actuación del Instituto y de los acuerdos del Consejo de Administración.
+c) La representación de la entidad y la dirección de sus relaciones externas de carácter técnico, tanto en el ámbito nacional, como en el internacional.
+d) La elaboración de la Memoria anual de actividades del Organismo y la elevación al Consejo de Administración de la propuesta de anteproyecto de Presupuesto del Instituto.
+e) La formalización de convenios y protocolos.
+f) La contratación en nombre de la entidad, así como la disposición de gastos y ordenación de pagos, de acuerdo con lo previsto en la legislación vigente.
+g) La concesión de ayudas y subvenciones que corresponda otorgar al Instituto.
+3. El Secretario General del Instituto será nombrado por el Ministro de Asuntos Exteriores a propuesta del Director, oído el Consejo de Administración. Le corresponderá realizar las funciones previstas en esta Ley y cuantas le asigne el Director del Instituto.
+
+## TÍTULO III
+
+Del régimen económico y de personal
+
+### Artículo 10
+
+Artículo 10.
+1. Los bienes y medios económicos del Instituto Cervantes estarán integrados por:
+1) Los bienes y valores que constituyan su patrimonio y los productos y rentas del mismo.
+2) Las consignaciones y transferencias que anualmente se le asignen en los Presupuestos Generales del Estado.
+3) Los ingresos que, conforme a lo previsto en la legislación vigente, pudiera corresponderle percibir y los que se produzcan como consecuencia de sus actividades.
+4) Las subvenciones, aportaciones voluntarias, donaciones, herencias y legados que se otorguen a su favor por personas públicas o privadas.
+5) Cualquier otro recurso que pueda serle atribuido en otras disposiciones legales o reglamentarias.
+2. Los posibles excedentes que obtenga el Instituto Cervantes se destinarán a sus propias actividades.
+
+### Artículo 11
+
+Artículo 11.
+1. El Instituto Cervantes elaborará anualmente un anteproyecto de presupuesto con la estructura que señale el Ministerio de Hacienda y Administraciones Públicas, y lo remitirá a éste, a través del Ministerio de Asuntos Exteriores y Cooperación, para su elevación al acuerdo del Gobierno y posterior remisión a las Cortes Generales, formando parte de los Presupuestos Generales del Estado y consolidándose con los de las Administraciones Centrales.
+Este presupuesto tendrá carácter limitativo por su importe global y carácter estimativo para la distribución de los créditos en categorías económicas, con excepción de los correspondientes a gastos de personal, que en todo caso tienen carácter limitativo y vinculante por su cuantía total, y de las subvenciones nominativas y las atenciones protocolarias y representativas, que tendrán carácter limitativo y vinculante cualquiera que sea el nivel de la clasificación económica al que se establezcan.
+2. Las variaciones que, sin alterar la cuantía global del presupuesto, supongan incremento de los gastos de personal serán autorizadas por el Ministro de Hacienda y Administraciones Públicas. Las restantes variaciones que no alteren la cuantía global serán autorizadas por el Director del Instituto.
+Las variaciones que alteren la cuantía global serán autorizadas por el Director del Instituto si no afectan a gastos de personal, no superan el 5 por 100 del total del presupuesto y se financian con mayores ingresos obtenidos durante el ejercicio. Corresponderá al Consejo de Ministros autorizar las variaciones de la cuantía global cuando superen el 5 por 100 del total del presupuesto. El resto de las variaciones que alteren la cuantía global serán autorizadas por el Ministro de Hacienda y Administraciones Públicas.
+Las variaciones a que se refiere el párrafo anterior se computarán acumulativamente.
+3. El Consejo de Administración del Instituto Cervantes está autorizado para, a propuesta del Secretario General del Instituto:
+a) Aprobar, de acuerdo con las condiciones legales que sean aplicables, la plantilla y el régimen retributivo de su personal.
+Aplicar con carácter indemnizatorio, a los directores de centros en el exterior, los complementos de desplazamiento y de Índice de Poder Adquisitivo autorizados por el Ministerio de Hacienda y Administraciones Públicas para el personal desplazado del Instituto Cervantes.
+b) Fijar los precios de las actividades del Instituto.
+4. La contabilidad del Instituto se ajustará a las normas que se determinen reglamentariamente.
+5. Sin perjuicio de las competencias atribuidas al Tribunal de Cuentas por su Ley Orgánica, la gestión económico financiera del Instituto Cervantes estará sometida a control interno por la Intervención General de la Administración del Estado y se realizará bajo la modalidad de auditoría pública en las condiciones y en los términos que establece la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+Se modifica por la disposición final 3 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+
+### Artículo 12
+
+Artículo 12.
+1. El personal del Instituto Cervantes se regirá por las normas de Derecho laboral y, en su caso, por las vigentes en los países en que se efectúe su contratación.
+2. Podrá reconocerse la situación de servicios especiales a los funcionarios que pasen a prestar servicio en el Instituto Cervantes.
+3. El personal docente del Instituto Cervantes deberá estar en posesión de la titulación y formación didáctica adecuada para la enseñanza de la lengua española para extranjeros.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Todas las transmisiones, actos y operaciones necesarias para la constitución del Instituto Cervantes estarán exentas de cualquier tributo.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. El Patronato deberá quedar constituido en el plazo de tres meses a partir de la entrada en vigor del Reglamento del Instituto.
+2. En el plazo de tres meses, a partir de la entrada en vigor de esta Ley, deban nombrarse los órganos de Dirección previstos en los artículos 8.º y 9.º y constituirse el Consejo de Administración, al que se incorporarán los vocales que habrá de proponer el Patronato en su primera reunión.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+1. En el plazo de seis meses, desde la fecha de la entrada en vigor de la presente Ley, el Gobierno trasladará al Consejo de Administración la relación de todos los centros en el exterior, dependientes de Ministerios y otros organismos estatales, orientados a los fines del Instituto.
+2. Previo acuerdo del Consejo de Ministros y oído el Consejo de Administración, los Ministerios y organismos estatales a que se refiere el apartado anterior procederán a la adscripción, incluso patrimonial, al Instituto Cervantes de los centros que contenga la relación elaborada por el Gobierno.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Se autoriza al Ministerio de Economía y Hacienda, previo informe del Ministerio correspondiente, para transferir al Instituto Cervantes, a medida que éste asuma la responsabilidad de las actividades de su competencia previamente desarrolladas por la Administración Central y centros dependientes de la misma, los créditos, tanto de operaciones corrientes como de capital, asignados a tales actividades o centros, en los presupuestos de gastos vigentes en cada momento.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Al objeto de dotar al Instituto Cervantes de los medios necesarios para el desarrollo de las funciones encomendadas, y con independencia de lo establecido en la Disposición Adicional Cuarta, se conceden los siguientes créditos extraordinarios:
+En la Sección 12, Ministerio de Asuntos Exteriores, Servicio 03, Transferencias entre Subsectores, concepto 440. Al Instituto Cervantes, por importe de 311.008 miles de pesetas.
+En la Sección 12, Ministerio de Asuntos Exteriores, Servicio 03, Transferencias entre Subsectores, concepto 740. Al Instituto Cervantes, por importe de 1.923.200 miles de pesetas.
+Los anteriores créditos extraordinarios se financiarán con recursos del Banco de España o con Deuda Pública, de acuerdo con lo dispuesto en el artículo 101 del Texto Refundido de la Ley General Presupuestaria, aprobado por Real Decreto Legislativo 1091/1988, de 23 de septiembre.
+
+### Disposición final primera
+
+Disposición final primera.
+El Gobierno aprobará el Reglamento del Instituto en el que se recogerán las normas básicas de organización y funcionamiento del mismo.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrara en vigor al día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 21 de marzo de 1991.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

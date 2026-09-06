@@ -1,0 +1,2840 @@
+# Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
+
+- Identificador BOE: `BOE-A-1984-17387`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1984-17387
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye las correcciones de errores publicadas en BOE núms. 229, de 24 de septiembre de 1984 Ref. BOE-A-1984-21926 y 244, de 11 de octubre de 1984. Ref. BOE-A-1984-23077
+
+## Preámbulo
+
+JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+El programa gubernamental tiene como uno de los objetivos de actuación prioritaria la reforma de la Administración Pública. Dentro de ella, la reforma de la legislación de la Función Pública constituye uno de sus aspectos básicos.
+El Gobierno cree que el horizonte de todo cambio en la legislación funcionarial ha de venir establecido por las bases del Régimen Estatutario de los Funcionarios Públicos, que, en desarrollo del artículo 149.1.18 de la Constitución, es preciso dictar. Tales bases, referidas al conjunto de los funcionarios de todas las Administraciones Públicas, constituirán el nuevo marco de la Función Pública derivado de nuestra Constitución. El Gobierno se propone sin tardanza abordar su elaboración y envío a las Cámaras.
+No obstante, la construcción del Estado de las Autonomías, por una parte, y la propia obsolescencia de muchas de las normas por las que se rige nuestra Función Pública, dictadas hace cerca de veinte años, obligan a abordar, siquiera sea parcialmente, la reforma del régimen funcionarial y, en consecuencia, dar carácter de bases a algunos de los preceptos que se contienen en la presente Ley. Tienen estos preceptos, necesariamente, carácter provisional, hasta que se desarrolle en su integridad el mandato constitucional.
+El objetivo principal de esta Ley es, pues, suprimir los obstáculos que una legislación vieja, anterior a la Constitución, opone al desarrollo del Estado Autonómico.
+Así se aborda en esta Ley una reforma en profundidad de las competencias en materia de personal, estableciendo claramente que el Gobierno será el que, de manera efectiva, decidirá la política de personal y muy particularmente, en un aspecto específicamente novedoso, cual es el de la negociación de las condiciones de empleo de los funcionarios públicos.
+Congruente con este propósito debe interpretarse la dependencia orgánica del personal al servicio de la Administración del Estado de un solo departamento ministerial que se establece, en esta Ley por primera vez en la historia de la Administración Pública española.
+Igualmente, el ámbito de aplicación de esta Ley hace especial referencia a los denominados funcionarios civiles al servicio de la Administración Militar, que quedan integrados en los respectivos Cuerpos de la Administración Civil del Estado.
+La regulación del Consejo Superior de la Función Pública, como órgano de participación y encuentro entre todas las Administraciones Públicas y la representación auténtica del personal, configura otro aspecto significativo de esta Ley; abordándose también, con la regulación de la Comisión de Coordinación de la Función Pública, el problema complejo, pero solucionable, de la coordinación de las políticas de personal de la Administración Central y de las Comunidades Autónomas.
+Se afronta, de otra parte, de una manera realista, el problema de la carrera administrativa, autorizando al Gobierno para reformar profundamente nuestra Función Pública, sus Cuerpos y Escalas, permitiendo su supresión, unificación o modificación y ordenando la realización de los estudios precisos para la clasificación de los puestos de trabajo, base sobre la que ha de articularse la auténtica carrera administrativa.
+La Ley modifica, por ello, el actual sistema de retribuciones, estableciendo con claridad una primacía importante para aquellas que van ligadas al desempeño del puesto de trabajo.
+La racionalización de la estructura de Cuerpos y Escalas de la Administración Pública constituye un medio necesario para el cumplimiento del objetivo de acercar la Administración a los ciudadanos. La unificación de Cuerpos y Escalas, además de posibilitar el mejor despliegue de las posibilidades de trabajo de los funcionarios, mejorará la eficacia de la Administración al servicio del interés general de la sociedad. Por ello, sin perjuicio de lo que en este aspecto se dispone en el artículo 27, las disposiciones adicionales de esta Ley introducen importantes cambios, tanto en lo que se refiere a la Administración del Estado, como a la Administración Institucional y a la de la Seguridad Social. Igualmente se produce una profunda modificación en la estructura de los Cuerpos docentes no universitarios, creándose los Cuerpos de Profesores de Enseñanza Secundaria y de Maestros.
+Finalmente, y en consecuencia con este esfuerzo legal para adaptar nuestra Función Pública a las normas vigentes en los países de nuestro entorno, se dispone la jubilación forzosa de todos los funcionarios públicos a los sesenta y cinco años de edad, estableciéndose un calendario progresivo para su definitiva aplicación.
+Redactados los párrafos quinto y sexto conforme a la corrección de errores publicada en el BOE núm. 229, de 24 de septiembre de 1984. Ref. BOE-A-1984-21926
+
+### Artículo uno
+
+Artículo uno. Ámbito de aplicación.
+1. Las medidas de esta Ley son de aplicación:
+a) Al personal de la Administración Civil del Estado y sus Organismos autónomos.
+b) Al personal civil al servicio de la Administración Militar y sus Organismos autónomos.
+c) Al personal funcionario de la Administración de la Seguridad Social.
+2. En aplicación de esta Ley podrán dictarse normas específicas para adecuarla a las peculiaridades del personal docente e investigador, sanitario, de los servicios postales y de telecomunicación y del personal destinado en el extranjero.
+3. Se consideran bases del régimen estatutario de los funcionarios públicos, dictadas al amparo del artículo 149.1.18.ª de la Constitución, y en consecuencia aplicables al personal de todas las Administraciones Públicas, los siguientes preceptos: artículos: 3.2.e) y f); 6; 7; 8; 11; 12; 13.2, 3 y 4; 14.4 y 5; 16; 17; 18.1 a 5; 19.1 y 3; 20.1.a), b), párrafo primero, c), e), g) en sus párrafos primero a cuarto, e i), 2 y 3; 21; 22.1, a excepción de los dos últimos párrafos; 23; 24; 25; 26; 29, a excepción del último párrafo de sus apartados 5, 6 y 7; 30.5; 31; 32; 33; disposiciones adicionales tercera, 2 y 3, cuarta, duodécima y decimoquinta; disposiciones transitoria segunda, octava y novena.
+4. Siempre que en esta Ley se hace referencia al personal al servicio de la Administración del Estado debe entenderse hecha al personal especificado en el apartado 1 de este artículo.
+5. La presente Ley tiene carácter supletorio para todo el personal al servicio del Estado y de las Administraciones Públicas no incluido en su ámbito de aplicación.
+Se modifica el apartado 3 por la disposición adicional 9.1 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+ Redactado conforme a la corrección de errores publicada en BOE núm. 87, de 12 de abril de 2005. Ref. BOE-A-2005-5835
+ Se modifica el apartado 3 por el art. 14 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+ Se modifica el apartado 3 por el art. 1 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
+
+### Artículo dos
+
+Artículo dos. Dependencia orgánica.
+Todo el personal al servicio de la Administración del Estado a que se refiere el artículo anterior, sus Cuerpos, Escalas, Categorías y Clases, tendrá dependencia orgánica del Ministerio de la Presidencia, sin perjuicio de la que funcionalmente tenga con cada Departamento.
+
+## CAPÍTULO I
+
+Órganos superiores de la Función Pública
+
+### Artículo tres
+
+Artículo tres. El Gobierno.
+1. El Gobierno dirige la política de personal y ejerce la función ejecutiva y la potestad reglamentaria en materia de función pública de la Administración del Estado.
+2. Corresponde en particular al Gobierno:
+a) Establecer las directrices conforme a las cuales ejercerán sus competencias en materia de personal los distintos órganos de la Administración del Estado.
+b) Determinar las instrucciones a que deberán atenerse los representantes de la Administración del Estado cuando proceda la negociación con la representación sindical de los funcionarios públicos de sus condiciones de empleo, así como dar validez y eficacia a los Acuerdos alcanzados mediante su aprobación expresa y formal, estableciendo las condiciones de empleo para los casos en que no se produzca acuerdo en la negociación.
+c) Establecer las instrucciones a que deberá atenerse la representación de la Administración del Estado en la negociación colectiva con el personal sujeto al derecho laboral.
+d) Fijar anualmente las normas y directrices para la aplicación del régimen retributivo de los funcionarios públicos y personal al servicio de la Administración del Estado.
+e) Aprobar, previa deliberación del Consejo Superior de la Función Pública, los criterios para coordinar la programación de las necesidades de personal a medio y largo plazo de las Administraciones Públicas.
+f) Aprobar, previa deliberación del Consejo Superior de la Función Pública, los criterios de coordinación de los planes de oferta de empleo de las Administraciones Públicas.
+g) Aprobar la oferta de empleo de la Administración del Estado.
+h) Aprobar la estructura en grados del personal de la Administración del Estado, los intervalos de niveles de puestos de trabajo asignados a cada Cuerpo o Escala y los criterios generales de promoción profesional de los funcionarios públicos.
+i) El ejercicio de las otras competencias que le estén legalmente atribuidas.
+Téngase en cuenta que los apartados 2.e) y f), han sido derogados por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se derogan los apartados 2.e) y f) por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este apartado ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga el apartado 2.e) y f), con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Artículo cuatro
+
+Artículo cuatro. El Ministro de la Presidencia.
+1. Sin perjuicio de las restantes funciones que le atribuyen las Leyes, compete al Ministro de la Presidencia el desarrollo general, la coordinación y el control de la ejecución de la política del Gobierno en materia de personal al servicio de la Administración del Estado.
+2. Corresponde en particular al Ministro de la Presidencia:
+a) Proponer al Gobierno el proyecto de Ley de Bases del Régimen Estatutario de los Funcionarios Públicos y los demás proyectos de normas de general aplicación a la Función Pública. Cuando se trate de proyectos normativos referentes a funcionarios sujetos a un régimen singular o especial, la propuesta será a iniciativa del Ministerio competente.
+b) Impulsar, coordinar y, en su caso, establecer y ejecutar los planes, medidas y actividades tendentes a mejorar el rendimiento en el servicio, la formación y la promoción del personal al servicio de la Administración del Estado.
+c) Cuidar del cumplimiento por los órganos de la Administración del Estado de las normas de general aplicación en materia de personal y velar por la observancia en las demás Administraciones Públicas de las Leyes o disposiciones estatales que les sean directamente aplicables.
+d) Ejercer las demás competencias que en materia de personal le atribuye la legislación vigente.
+
+### Artículo cinco
+
+Artículo cinco. El Ministro de Economía y Hacienda.
+Corresponde al Ministro de Economía y Hacienda proponer al Gobierno, en el marco de la política general económica y presupuestaria, las directrices a que deberán ajustarse los gastos de personal de la Administración del Estado, así como autorizar cualquier medida relativa al personal que pueda suponer modificaciones en el gasto.
+
+### Artículo seis
+
+Artículo seis. El Consejo Superior de la Función Pública.
+1. El Consejo Superior de la Función Pública es el órgano superior colegiado de coordinación y consulta de la política de Función Pública, así como de participación del personal al servicio de las Administraciones Públicas.
+2. En particular, corresponde al Consejo Superior de la Función Pública:
+a) Informar en el plazo de dos meses los anteproyectos de Ley referentes al personal al servicio de las Administraciones Públicas cuando le sean consultados por el Gobierno o los Consejos de Gobierno de las Comunidades Autónomas.
+b) Informar en el plazo de dos meses sobre aquellas disposiciones o decisiones relevantes en materia de personal, que le sean consultadas por el Gobierno, los Consejos de Gobierno de las Comunidades Autónomas o las Corporaciones Locales a través de sus representantes.
+c) A propuesta de sus componentes, tomar conocimiento, debatir y, en su caso, recomendar a las Administraciones competentes la adopción de medidas dirigidas a mejorar la organización, las condiciones de trabajo, el rendimiento y la consideración social del personal de las Administraciones Públicas.
+d) Debatir y proponer, a iniciativa de sus componentes, las medidas necesarias para la coordinación de las políticas de personal de las distintas Administraciones Públicas, y, en especial, en lo referente a Registros de Personal, sistemas de acceso, relación de puestos de trabajo, retribuciones, homologación de funcionarios y oferta de empleo.
+3. El contenido de las deliberaciones y propuestas del Consejo Superior de la Función Pública, reflejados en las correspondientes actas, se elevará a la consideración del Gobierno y de los órganos de Gobierno de las demás Administraciones Públicas, sin que en ningún caso tengan carácter vinculante.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Artículo siete
+
+Artículo siete. Composición del Consejo Superior de la Función Pública.
+1. Integran el Consejo Superior de la Función Pública:
+a) Por parte de la Administración del Estado:
+– El Ministro de la Presidencia, que será el Presidente del Consejo.
+– El Secretario de Estado para la Administración Pública, que será el Vicepresidente.
+– El Secretario de Estado de Hacienda.
+– Los Subsecretarios de todos los Ministerios.
+– El Secretario general del Consejo Superior de la Función Pública, que será nombrado por Real Decreto con categoría de Director general.
+b) Por parte de las Comunidades Autónomas un representante de cada una de ellas, recayendo dicha representación en el miembro del Consejo de Gobierno que tenga a su cargo la dirección superior del personal.
+c) Por parte de las Corporaciones Locales diecisiete representantes de las mismas, designados por las Federaciones de Entidades Locales existentes, en proporción a su representatividad respectiva.
+d) Por parte del personal diecisiete representantes designados por las Organizaciones Sindicales, en proporción a su representatividad respectiva.
+2. El Consejo elaborará sus normas de organización y funcionamiento.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Artículo ocho
+
+Artículo ocho. La Comisión de Coordinación de la Función Pública.
+1. La Comisión de Coordinación de la Función Pública es el órgano encargado de coordinar la política de personal de la Administración del Estado y de las Comunidades Autónomas, para formar el plan de oferta de empleo público y proponer las medidas que sean precisas para ejecutar lo establecido en las bases del régimen estatutario de los funcionarios.
+2. Integran la Comisión:
+a) Por parte de la Administración del Estado:
+– El Secretario de Estado para la Administración Pública, que presidirá la Comisión.
+– El Secretario de Estado de Hacienda, que será su Vicepresidente.
+– El Director general de la Función Pública.
+– El Director general de Gastos de Personal.
+– El Presidente del Instituto Nacional de Administración Pública.
+– El Interventor general de la Administración del Estado.
+– El Inspector general de Servicios de la Administración Pública.
+– El Director general de Presupuestos.
+– Ocho representantes de la Administración del Estado, designados por el Gobierno a propuesta del Ministro de la Presidencia.
+– El Secretario general.
+b) Por parte de las Comunidades Autónomas, los titulares de los órganos directivos encargados de la Administración de personal.
+3. Podrán constituirse grupos de trabajo de la Comisión presididos por el Secretario general del Consejo, para la elaboración de las propuestas que deban ser elevadas a la consideración de la misma.
+4. Bajo la dependencia inmediata del Secretario general existirá un Gabinete Técnico, al que podrán adscribirse funcionarios pertenecientes a la Administración del Estado y de las Comunidades Autónomas.
+5. La Comisión elaborará sus normas de organización y funcionamiento.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Artículo nueve
+
+Artículo nueve. La Comisión Superior de Personal.
+La Comisión Superior de Personal se configura como un Organo colegiado de coordinación, documentación y asesoramiento para la elaboración de la política de personal al servicio de la Administración del Estado. Ejercerá las competencias y funciones que le atribuye la legislación vigente. El Gobierno, por Real Decreto, regulará su composición y funciones.
+
+### Artículo diez
+
+Artículo diez. Los Delegados del Gobierno y los Gobernadores civiles.
+Corresponde a los Delegados del Gobierno en relación al personal que haya sido destinado a los servicios periféricos de ámbito regional, y a los Gobernadores civiles en relación con el personal destinado a los servicios periféricos provinciales, el ejercicio de las competencias que la legislación vigente atribuye a los Subsecretarios y a los Directores generales en relación al personal de los servicios periféricos de la Administración del Estado, sus Organismos Autónomos y de la Seguridad Social, sin perjuicio de la superior dirección que corresponde a los Departamentos ministeriales.
+
+## CAPÍTULO II
+
+Ordenación de la Función Pública de las Comunidades Autónomas y regulación de la situación de los funcionarios transferidos
+
+### Artículo once
+
+Artículo once. Ordenación de la Función Pública de las Comunidades Autónomas.
+Las Comunidades Autónomas procederán a ordenar, mediante Ley de sus respectivas Asambleas Legislativas, su Función Pública propia. A estos efectos, y previa deliberación del Consejo Superior de la Función Pública, agruparán a sus funcionarios propios en los Cuerpos, Escalas, Clases y Categorías que proceda, respetando en todo caso los grupos establecidos en el artículo 25 de esta Ley.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Artículo doce
+
+Artículo doce. Regulación de la situación de los funcionarios transferidos.
+1. Los funcionarios transferidos a las Comunidades Autónomas se integran plenamente en la organización de la Función Pública de las mismas.
+Las Comunidades Autónomas al proceder a esta integración de los funcionarios transferidos como funcionarios propios, respetarán el grupo del Cuerpo o Escala de procedencia, así como los derechos económicos inherentes al grado personal que tuviesen reconocido.
+Se garantiza la igualdad entre todos los funcionarios propios de las Comunidades Autónomas, con independencia de su Administración de procedencia.
+2. Los funcionarios transferidos son funcionarios en situación administrativa de servicio activo en la Función Pública de la Comunidad Autónoma en la que se integran.
+En sus Cuerpos o Escalas de origen, permanecen en una situación administrativa especial de servicios en Comunidades Autónomas, que les permite mantener respecto de ellos todos sus derechos como si se hallaran en servicio activo, de acuerdo con lo establecido en los respectivos Estatutos de Autonomía.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+## CAPÍTULO III
+
+Registros de personal, programación y oferta de empleo público
+
+### Artículo trece
+
+Artículo trece. Los Registros administrativos de personal.
+1. En la Dirección General de la Función Pública existirá un Registro Central en el que se inscribirá a todo el personal al servicio de la Administración del Estado, y en el que se anotarán preceptivamente todos los actos que afecten a la vida administrativa del mismo.
+El Gobierno, a propuesta del Ministro de la Presidencia, aprobará las normas reguladoras del Registro Central y el programa para su implantación progresiva.
+2. Las Comunidades Autónomas y las Entidades Locales constituirán también Registros de Personal. Cuando las Entidades Locales no cuenten con suficiente capacidad financiera o técnica, las Comunidades Autónomas, por si mismas, o por delegación en las Diputaciones Provinciales, los Cabildos o los Consejos Insulares, cooperarán a la constitución de dichos Registros.
+3. Todos los Registros de Personal de todas las Administraciones Públicas estarán coordinados. El Gobierno, a propuesta del Ministro de la Presidencia, y previa deliberación del Consejo Superior de la Función Pública, regulará los contenidos mínimos homogeneizadores de los Registros de Personal y los requisitos y procedimiento para su utilización recíproca.
+4. En ningún caso podrán incluirse en nómina nuevas remuneraciones, sin que previamente se haya comunicado al Registro de Personal correspondiente la resolución o acto por el que hubieran sido reconocidas.
+5. En la documentación individual del personal de las diferentes Administraciones Públicas no figurará ningún dato relativo a su raza, religión u opinión.
+El personal tendrá libre acceso a su expediente individual.
+Téngase en cuenta que los apartados 2 a 4 han sido derogados por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se derogan los apartados 2 a 4 por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que estos apartados ya fueron derogados en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se derogan los apartados 2 a 4, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 229, de 24 de septiembre de 1984. Ref. BOE-A-1984-21926
+
+### Artículo catorce
+
+Artículo catorce. Dotaciones presupuestarias de personal.
+1. Las dotaciones presupuestarias de personal se distribuirán entre los programas de gasto de los distintos Centros gestores, de forma que se garantice el necesario equilibrio entre los medios materiales y humanos asignados a cada uno de ellos.
+A estos afectos serán previamente informadas por Comisiones de análisis de los programas alternativos de gasto, constituidas por representantes del Ministerio de Economía y Hacienda, del Ministerio de la Presidencia y de los demás Departamentos ministeriales.
+2. Los programas de gasto de los Presupuestos Generales del Estado deberán incluir el coste de todos los puestos de trabajo asignados a cada uno de ellos y por cada uno de los Centros gestores.
+3. Las plantillas de los diferentes Cuerpos y Escalas de la Administración del Estado, así como las del personal laboral, serán las que resulten de los créditos establecidos en la Ley de Presupuestos.
+4. Las Comunidades Autónomas determinarán en sus respectivas Leyes de Presupuestos las plantillas de todo su personal.
+5. Las plantillas y puestos de trabajo de todo el personal de la Administración Local se fijarán anualmente a través de su Presupuesto.
+Téngase en cuenta que los apartados 4 y 5 han sido derogados por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se derogan los apartados 4 y 5 por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que estos apartados ya fueron derogados en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se derogan los apartados 4 y 5, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Artículo quince
+
+Artículo quince. Relaciones de puestos de trabajo de la Administración del Estado.
+1. Las relaciones de puestos de trabajo de la Administración del Estado son el instrumento técnico a través del cual se realiza la ordenación del personal, de acuerdo con las necesidades de los servicios y se precisan los requisitos para el desempeño de cada puesto en los términos siguientes:
+a) Las relaciones comprenderán, conjunta o separadamente, los puestos de trabajo del personal funcionario de cada Centro gestor, el número y las características de los que puedan ser ocupados por personal eventual así como los de aquellos otros que puedan desempeñarse por personal laboral.
+b) Las relaciones de puestos de trabajo indicarán, en todo caso, la denominación, tipo y sistema de provisión de los mismos; los requisitos exigidos para su desempeño; el nivel de complemento de destino y, en su caso, el complemento específico que corresponda a los mismos, cuando hayan de ser desempeñados por personal funcionario, o la categoría profesional y régimen jurídico aplicable cuando sean desempeñados por personal laboral.
+c) Con carácter general, los puestos de trabajo de la Administración del Estado y de sus Organismos Autónomos así como los de las Entidades Gestoras y Servicios Comunes de la Seguridad Social, serán desempeñados por funcionarios públicos.
+Se exceptúan de la regla anterior y podrán desempeñarse por personal laboral:
+– Los puestos de naturaleza no permanente y aquéllos cuyas actividades se dirijan a satisfacer necesidades de carácter periódico y discontinuo;
+– los puestos cuyas actividades sean propias de oficios, así como los de vigilancia, custodia, porteo y otros análogos;
+– los puestos de carácter instrumental correspondientes a las áreas de mantenimiento y conservación de edificios, equipos e instalaciones, artes gráficas, encuestas, protección civil y comunicación social, así como los puestos de las áreas de expresión artística y los vinculados directamente a su desarrollo, servicios sociales y protección de menores;
+– los puestos correspondientes a áreas de actividades que requieran conocimientos técnicos especializados cuando no existan Cuerpos o Escalas de funcionarios cuyos miembros tengan la preparación específica necesaria para su desempeño, y
+– los puestos de trabajo en el extranjero con funciones administrativas de trámite y colaboración y auxiliares que comporten manejo de máquinas, archivo y similares.
+– Los puestos con funciones auxiliares de carácter instrumental y apoyo administrativo.
+Asimismo, los Organismos Públicos de Investigación podrán contratar personal laboral en los términos previstos en el artículo 17 de la Ley13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica.
+d) La creación, modificación, refundición y supresión de puestos de trabajo se realizará a través de las relaciones de puestos de trabajo.
+e) Corresponde a los Ministerios para las Administraciones Públicas y de Economía y Hacienda la aprobación conjunta de las relaciones de puestos de trabajo, excepto la asignación inicial de los complementos de destino y específico, que corresponde al Gobierno.
+f) La provisión de puestos de trabajo a desempeñar por el personal funcionario, así como la formalización de nuevos contratos de personal laboral fijo, requerirán que los correspondientes puestos figuren detallados en las respectivas relaciones.
+Este requisito no será preciso cuando se trate de realizar tareas de carácter no permanente mediante contratos de trabajo de duración determinada y con cargo a créditos correspondientes a personal laboral eventual o al capítulo de inversiones.
+2. Los puestos de trabajo serán de adscripción indistinta para todos los funcionarios incluidos en el ámbito de aplicación de esta Ley. Unicamente podrán adscribirse con carácter exclusivo puestos de trabajo a funcionarios de un determinado Cuerpo o Escala cuando tal adscripción se derive necesariamente de la naturaleza y de la función a desempeñar en ellos y en tal sentido lo determine el Gobierno a propuesta del Ministro de la Presidencia.
+3. Las relaciones de puestos de trabajo serán públicas.
+Se modifica el apartado 1.b) por el art. 50.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se añade un nuevo guión al apartado 1.c) por el art. 59 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+ Se modifica el apartado 1 por el art. 1 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
+ Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 1 por Sentencia del TC 99/1987, de 11 de junio. Ref. BOE-T-1987-14852
+
+### Artículo dieciséis
+
+Artículo dieciséis.
+Las comunidades autónomas y la Administración local formarán también la relación de los puestos de trabajo existentes en su organización, que deberá incluir, en todo caso, la denominación, tipo y sistema de provisión de los puestos, las retribuciones complementarias que les correspondan y los requisitos exigidos para su desempeño. Estas relaciones de puestos serán públicas.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se modifica por el art. 50.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo diecisiete
+
+Artículo diecisiete. Movilidad de funcionarios de las distintas Administraciones Públicas.
+1. Con el fin de lograr una mejor utilización de los recursos humanos, los puestos de trabajo de la Administración del Estado y de las Comunidades Autónomas podrán ser cubiertas por funcionarios que pertenezcan a cualquiera de estas Administraciones Públicas, de acuerdo con lo que establezcan las relaciones de puestos de trabajo.
+2. Asimismo, los funcionarios de la Administración local, cuando así esté previsto en las relaciones de puestos de trabajo, podrán desempeñar puestos de trabajo en otras Corporaciones locales, en las Administraciones de las Comunidades Autónomas y en la Administración General del Estado en puestos relacionados con las funciones que les competen en materia de Entidades locales.
+3. En el marco de los Acuerdos que las Administraciones Públicas suscriban con la finalidad de facilitar la movilidad entre los funcionarios de las mismas, tendrán especial consideración los casos de movilidad geográfica de las funcionarias víctimas de violencia de género.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se añade el apartado 3 por la disposición adicional 9.2 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+ Redactado conforme a la corrección de errores publicada en BOE núm. 87, de 12 de abril de 2005. Ref. BOE-A-2005-5835
+ Se modifica el apartado 2 por el art. 39.2 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
+
+### Artículo dieciocho
+
+Artículo dieciocho. La oferta de empleo público.
+1. Las Administraciones Públicas podrán elaborar Planes de Empleo, referidos tanto a personal funcionario como laboral, que contendrán de forma conjunta las actuaciones a desarrollar para la óptima utilización de los recursos humanos en el ámbito a que afecten, dentro de los límites presupuestarios y de acuerdo con las directrices de política de personal.
+Las actuaciones previstas para el personal laboral en los Planes de Empleo se desarrollarán conforme a la normativa específica del ordenamiento jurídico laboral.
+2. Los Planes de Empleo podrán contener las siguientes previsiones y medidas:
+a) Previsiones sobre modificación de estructuras organizativas y de puestos de trabajo.
+b) Suspensión de incorporaciones de personal externo al ámbito afectado, tanto las derivadas de oferta de empleo como de procesos de movilidad.
+c) Reasignación de efectivos de personal.
+d) Establecimiento de cursos de formación y capacitación.
+e) Autorización de concursos de provisión de puestos limitados al personal de los ámbitos que se determinen.
+f) Medidas específicas de promoción interna.
+g) Prestación de servicios a tiempo parcial.
+h) Necesidades adicionales de recursos humanos que habrán de integrarse, en su caso, en la Oferta de Empleo Público.
+i) Otras medidas que procedan en relación con los objetivos del Plan de Empleo.
+Las Memorias justificativas de los Planes de Empleo contendrán las referencias temporales que procedan, respecto de las previsiones y medidas establecidas en los mismos.
+3. El personal afectado por un Plan de Empleo podrá ser reasignado en otras Administraciones Públicas en los términos que establezcan los convenios que, a tal efecto, puedan suscribirse entre ellas.
+4. Las necesidades de recursos humanos con asignación presupuestaria que no puedan ser cubiertas con los efectivos de personal existentes serán objeto de Oferta de Empleo Público.
+Las vacantes correspondientes a las plazas incluidas en las convocatorias para ingreso de nuevo personal no precisarán de la realización de concurso previo entre quienes ya tuvieren la condición de funcionarios.
+5. Los Tribunales o las Comisiones de Selección no podrán declarar que han superado los procesos selectivos un número superior de aspirantes al de plazas convocadas. Cualquier propuesta que contravenga lo anteriormente establecido será nula de pleno derecho.
+6. En el ámbito de la Administración General del Estado los Planes de Empleo podrán afectar a uno o varios Ministerios, Organismos o áreas administrativas concretas y serán aprobados por el Ministerio para las Administraciones Públicas, previo informe favorable del Ministerio de Economía y Hacienda.
+La iniciativa para su elaboración corresponderá al Ministerio u Organismo afectado o, conjuntamente, a los Ministerios para las Administraciones Públicas y de Economía y Hacienda.
+La Oferta de Empleo Público será aprobada por el Gobierno a propuesta del Ministerio para las Administraciones Públicas.
+Anualmente, y de acuerdo con las prioridades de la política económica y las necesidades de la planificación de los recursos humanos, las Leyes de Presupuestos señalarán los criterios aplicables a la Oferta de Empleo en el Sector Público Estatal incluido en el capítulo II del título III de las Leyes de Presupuestos Generales del Estado y en el artículo 6.5 de la Ley General Presupuestaria.
+Téngase en cuenta que los apartados 1 a 5 han sido derogados por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrán vigentes en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se derogan los apartados 1 a 5 por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrán vigentes en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que estos apartados ya fueron derogados en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se derogan los apartados 1 a 5, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se añaden los párrafos segundo y cuarto a los apartados 4 y 6 por el art. 103.1 y .2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Se modifica por el art. 15 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+ Se suspende la vigencia durante el año 1993 en la forma indicada por la disposición transitoria 8.1 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826
+ Se suspende la vigencia, a partir del 23 de julio de 1992 y durante el ejercicio de 1992, en la forma indicada por el art. 4 de la Ley 28/1992, de 24 de noviembre. Ref. BOE-A-1992-26147
+
+## CAPÍTULO IV
+
+Normas para objetivar la selección del personal, la provisión de puestos de trabajo y la promoción profesional de los funcionarios
+
+### Artículo diecinueve
+
+Artículo diecinueve. Selección del personal.
+1. Las Administraciones Públicas seleccionan su personal, ya sea funcionario, ya laboral, de acuerdo con su oferta de empleo público, mediante convocatoria pública y a través del sistema de concurso, oposición o concurso-oposición libre en los que se garanticen en todo caso los principios constitucionales de igualdad, mérito y capacidad, así como el de publicidad.
+Los procedimientos de selección cuidarán especialmente la conexión entre el tipo de pruebas a superar y la adecuación a los puestos de trabajo que se hayan de desempeñar incluyendo a tal efecto las pruebas prácticas que sean precisas.
+En las convocatorias para acceso a la función pública, las Administraciones Públicas en el respectivo ámbito de sus competencias deberán prever la selección de funcionarios debidamente capacitados para cubrir los puestos de trabajo en las Comunidades Autónomas que gocen de dos lenguas oficiales.
+2. El Gobierno regulará la composición y funcionamiento de los órganos de selección, garantizando la especialización de los integrantes de los órganos selectivos y la agilidad del proceso selectivo sin perjuicio de su objetividad. En ningún caso, y salvo las peculiaridades del personal docente e investigador, los órganos de selección podrán estar formados mayoritariamente por funcionarios pertenecientes al mismo Cuerpo que se ha de seleccionar.
+3. Corresponde al Instituto Nacional de Administración Pública la coordinación, control y, en su caso, la realización de los cursos de selección, formación y perfeccionamiento de los funcionarios de la Administración del Estado, así como las funciones de colaboración y cooperación con los centros que tengan atribuidas dichas competencias en las restantes Administraciones Públicas.
+Téngase en cuenta que los apartados 1 y 3 han sido derogados por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se derogan los apartados 1 y 3 por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que estos apartados ya fueron derogados en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se derogan los apartados 1 y 3, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Artículo veinte
+
+Artículo veinte. Provisión de puestos de trabajo.
+1. Los puestos de trabajo adscritos a funcionarios se proveerán de acuerdo con los siguientes procedimientos:
+a) Concurso: Constituye el sistema normal de provisión y en él se tendrán únicamente en cuenta los méritos exigidos en la correspondiente convocatoria, entre los que figurarán los adecuados a las características de cada puesto de trabajo, así como la posesión de un determinado grado personal, la valoración del trabajo desarrollado, los cursos de formación y perfeccionamiento superados y la antigüedad.
+b) Libre designación: Podrán cubrirse por este sistema aquellos puestos que se determinen en las relaciones de puestos de trabajo, en atención a la naturaleza de sus funciones.
+En la Administración del Estado, sus Organismos Autónomos, así como en las Entidades Gestoras y Servicios Comunes de la Seguridad Social, sólo podrán cubrirse por este sistema los puestos de Subdirector general, Delegados y Directores regionales o provinciales, Secretarías de altos cargos, así como aquellos otros de carácter directivo o de especial responsabilidad para los que así se determine en las relaciones de puestos de trabajo.
+c) Las convocatorias para proveer puestos de trabajo por concurso o por libre designación, así como sus correspondientes resoluciones, deberán hacerse públicas en los «Boletines» o «Diarios Oficiales» respectivos, por la autoridad competente para efectuar los nombramientos.
+En las convocatorias de concurso deberán incluirse, en todo caso, los siguientes datos y circunstancias:
+– Denominación, nivel y localización del puesto.
+– Requisitos indispensables para desempeñarlo.
+– Baremo para puntuar los méritos.
+– Puntuación mínima para la adjudicación de las vacantes convocadas.
+Las convocatorias para la provisión de puestos por libre designación incluirán los datos siguientes:
+– Denominación, nivel y localización del puesto.
+– Requisitos indispensables para desempeñarlo.
+Anunciada la convocatoria se concederá un plazo de quince días hábiles para la presentación de solicitudes.
+Los nombramientos de libre designación requerirán el informe previo del titular del Centro, Organismo o Unidad a que figure adscrito el puesto convocado.
+Excepcionalmente, las Administraciones Públicas podrán autorizar la convocatoria de concursos de provisión de puestos de trabajo dirigidos a los funcionarios destinados en las áreas, sectores o departamentos que se determinen.
+Las Administraciones públicas podrán trasladar a sus funcionarios, por necesidades de servicio, a unidades, departamentos u organismos públicos distintos a los de su destino, respetando sus retribuciones, condiciones esenciales de trabajo y provincia e isla de destino y modificando, en su caso, la adscripción de los puestos de trabajo de los que sean titulares. Cuando el nuevo destino implique cambio del término municipal de residencia, los funcionarios tendrán derecho a las indemnizaciones establecidas reglamentariamente para los traslados forzosos en territorio nacional.
+d) (Suprimida)
+e)Los funcionarios adscritos a un puesto de trabajo por el procedimiento de libre designación podrán ser removidos del mismo con carácter discrecional.
+Los funcionarios que accedan a un puesto de trabajo por el procedimiento de concurso, podrán ser removidos por causas sobrevenidas, derivadas de una alteración en el contenido del puesto de trabajo, realizada a través de las relaciones de puestos de trabajo, que modifique los supuestos que sirvieron de base a la convocatoria, o de una falta de capacidad para su desempeño manifestada por rendimiento insuficiente, que no comporte inhibición y que impida realizar con eficacia las funciones atribuidas al puesto. La remoción se efectuará previo expediente contradictorio mediante resolución motivada del órgano que realizó el nombramiento, oída la Junta de Personal correspondiente.
+A los funcionarios afectados por lo previsto en este apartado les será de aplicación lo dispuesto en el párrafo primero del artículo 21.2, b) de la presente Ley.
+f) Los funcionarios deberán permanecer en cada puesto de trabajo un mínimo de dos años para poder participar en los concursos de provisión de puestos de trabajo, salvo en el ámbito de una Secretaría de Estado, de un Departamento ministerial en defecto de aquélla, o en el supuesto previsto en el párrafo segundo del apartado e) del número 1 de este artículo, así como por supresión del puesto de trabajo.
+g) Los funcionarios cuyo puesto sea objeto de supresión, como consecuencia de un Plan de Empleo, podrán ser destinados a otro puesto de trabajo por el procedimiento de reasignación de efectivos.
+La reasignación de efectivos como consecuencia de un Plan de Empleo se efectuará aplicando criterios objetivos relacionados con las aptitudes, formación, experiencia y antigüedad que se concretarán en el mismo.
+La adscripción al puesto adjudicado por reasignación tendrá carácter definitivo.
+El funcionario que, como consecuencia de la reasignación de efectivos en el marco de un Plan de Empleo, vea modificado su lugar de residencia tendrá derecho a las indemnizaciones que por tal concepto establezca la Administración Pública a la que pertenezca. Los mismos derechos se reconocerán a los funcionarios en excedencia forzosa a quienes se asigne destino en el marco de dicho plan.
+En el ámbito de la Administración General del Estado la indemnización consistirá en el abono de los gastos de viaje, incluidos los de su familia, una indemnización de tres dietas por el titular y cada miembro de su familia que efectivamente se traslade y el pago de los gastos de transporte de mobiliario y enseres, así como una indemnización de tres mensualidades de la totalidad de sus retribuciones, excepto el complemento de productividad, cuando se produzca cambio de provincia o isla. Ello sin perjuicio de otras ayudas que en el propio Plan de Empleo puedan establecerse.
+En este ámbito, la reasignación de efectivos se producirá en tres fases:
+1ª. La reasignación de efectivos la efectuará el Ministerio donde estuviera destinado el funcionario, en el ámbito del mismo y de los Organismos adscritos, en el plazo máximo de seis meses contados a partir de la supresión del puesto. Tendrá carácter obligatorio para puestos en el mismo municipio y voluntario para puestos que radiquen en distinto municipio, que serán en ambos casos de similares características, funciones y retribuciones. Durante esta fase se percibirán las retribuciones del puesto de trabajo que se desempeñaba.
+2ª. Si en la fase de reasignación ministerial los funcionarios no obtienen puesto en el Ministerio donde estuvieran destinados, podrán ser reasignados por el Ministerio para las Administraciones Públicas, en el plazo máximo de tres meses, a puestos de otros Ministerios y sus Organismos adscritos, en las condiciones anteriores, percibiendo durante esta segunda fase las retribuciones del puesto de trabajo que desempeñaban.
+Durante las dos fases citadas podrán encomendarse a los funcionarios afectados tareas adecuadas a su Cuerpo o Escala de pertenencia.
+3ª. Los funcionarios que, tras las anteriores fases de reasignación de efectivos, no hayan obtenido puesto, se adscribirán al Ministerio para las Administraciones Públicas, a través de relaciones específicas de puestos en reasignación, en la situación de expectativa de destino definida en el artículo 29.5 de esta Ley y podrán ser reasignados por éste, a puestos de similares características de otros Ministerios y sus Organismos adscritos, con carácter obligatorio cuando estén situados en la misma provincia y con carácter voluntario cuando radiquen en distinta provincia.
+La reasignación de efectivos como consecuencia de un Plan de Empleo en las demás Administraciones Públicas, se efectuará garantizando los criterios anteriormente expuestos sobre plazos, retribuciones, movilidad y situaciones administrativas.
+h) La Administración General del Estado podrá adscribir a los funcionarios a puestos de trabajo en distinta unidad o localidad, previa solicitud basada en motivos de salud o rehabilitación del funcionario, su cónyuge o los hijos a su cargo, con previo informe del servicio médico oficial legalmente establecido y condicionado a que existan puestos vacantes con asignación presupuestaria cuyo nivel de complemento de destino y específico no sea superior al del puesto de origen, y se reúnan los requisitos para su desempeño. Dicha adscripción tendrá carácter definitivo cuando el funcionario ocupara con tal carácter su puesto de origen.
+i)La funcionaria víctima de violencia sobre la mujer que se vea obligada a abandonar el puesto de trabajo en la localidad donde venía prestando sus servicios, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrá derecho preferente a ocupar otro puesto de trabajo propio de su Cuerpo o Escala y de análogas características que se encuentre vacante y sea de necesaria provisión. En tales supuestos la Administración Pública competente en cada caso estará obligada a comunicarle las vacantes de necesaria provisión ubicadas en la misma localidad o en las localidades que la interesada expresamente solicite.
+2. El Gobierno, y en el ámbito de sus competencias los Consejos de Gobierno de las Comunidades Autónomas y el Pleno de las Corporaciones Locales, determinarán el número de puestos con sus características y retribuciones, reservados a personal eventual, siempre dentro de los créditos presupuestarios consignados al efecto.
+El personal eventual sólo ejercerá funciones expresamente calificadas de confianza o asesoramiento especial y su nombramiento y cese, que serán libres, corresponden exclusivamente a los Ministros y a los Secretarios de Estado, y, en su caso, a los Consejeros de Gobierno de las Comunidades Autónomas y a los Presidentes de las Corporaciones Locales. El personal eventual cesará automáticamente cuando cese la autoridad a la que preste su función de confianza o asesoramiento.
+3. En ningún caso el desempeño de un puesto de trabajo reservado a personal eventual constituirá mérito para el acceso a la función pública o la promoción interna.
+Téngase en cuenta que, del apartado 1 las letras a), párrafo primero de la b), c), e), párrafos 1º a 4º de la g) e i) y los apartados 2 y 3, quedan derogados por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se derogan del apartado 1 las letras a), párrafo primero de la b), c), e), párrafos 1º a 4º de la g) e i) y los apartados 2 y 3, por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que estos apartados ya fueron derogados en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se derogan del apartado 1 las letras a), párrafo primero de la b), c), e), párrafos 1º a 4º de la g) e i) y los apartados 2 y 3, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se añade el apartado 1.i) por la disposición adicional 9.3 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+ Se añade el apartado 1.h) por el art. 50.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se añade el último párrafo al apartado 1.c) y se suprime el apartado 1.d) por el art. 36 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se añade el último párrafo al apartado 1.c) y se modifica el apartado 1.d) por el art. 103.3 y .4 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Se añade el apartado 1.g) por el art. 16 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+ Se modifica el apartado 1.a) y b) y se añaden las letras c) a f) al apartado 1 por el art. 1 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
+
+### Artículo veintiuno
+
+Artículo veintiuno. Promoción profesional.
+1. El grado personal.
+a) Los puestos de trabajo se clasifican en 30 niveles.
+b) El Gobierno y los Órganos de Gobierno de las Comunidades Autónomas determinarán los intervalos que correspondan a cada Cuerpo o Escala.
+c) Todo funcionario posee un grado personal que corresponderá a alguno de los niveles en que se clasifiquen los puestos de trabajo.
+d) El grado personal se adquiere por el desempeño de uno o más puestos de nivel correspondiente durante dos años continuados o tres con interrupción. Si durante el tiempo en que el funcionario desempeña un puesto se modificase el nivel del mismo, el tiempo de desempeño se computará con el nivel más alto en que dicho puesto hubiera estado clasificado.
+No obstante lo dispuesto en el párrafo anterior, los funcionarios que obtengan un puesto de trabajo superior en más de dos niveles al correspondiente a su grado personal, consolidarán cada dos años de servicios continuados el grado superior en dos niveles al que poseyesen, sin que en ningún caso puedan superar el correspondiente al del puesto desempeñado.
+e) La adquisición y los cambios de grado se inscribirán en el Registro de Personal previo reconocimiento por el Subsecretario del Departamento respectivo y Órganos análogos de las demás Administraciones Públicas.
+f) El grado personal podrá adquirirse también mediante la superación de cursos específicos u otros requisitos objetivos que se determinen por el Gobierno, o en el ámbito de sus competencias, por el Consejo de Gobierno de las Comunidades Autónomas, y el Pleno de las Corporaciones Locales.
+El procedimiento de acceso a Ios Cursos y la fijación de los otros requisitos objetivos se fundará exclusivamente en criterios de mérito y capacidad y la selección deberá realizarse mediante concurso.
+2. La garantía del nivel del puesto de trabajo.
+a) Los funcionarios tendrán derecho, cualquiera que sea el puesto de trabajo que desempeñen, al percibo al menos del complemento de destino de los puestos, del nivel correspondiente a su grado personal.
+b) Los funcionarios que cesen en un puesto de trabajo, sin obtener otro por los sistemas previstos en el artículo anterior, quedarán a disposición del Subsecretario, Director del Organismo, Delegado del Gobierno o Gobernador civil u órganos análogos de las demás Administraciones, que les atribuirán el desempeño provisional de un puesto correspondiente a su Cuerpo o Escala.
+Sin perjuicio de lo dispuesto en el párrafo anterior, quienes cesen por alteración del contenido o supresión de sus puestos en las relaciones de puestos de trabajo, continuarán percibiendo, en tanto se les atribuye otro puesto, y durante un plazo máximo de tres meses, las retribuciones complementarias correspondientes al puesto suprimido o cuyo contenido haya sido alterado.
+c) El tiempo de permanencia en la situación de servicios especiales será computado, a efectos de consolidación del grado personal, como prestado en el último puesto desempeñado en la situación de servicio activo o en el que posteriormente se hubiera obtenido por concurso.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo, hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo, hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se modifican los apartados 1.d), f) y 2 por el art. 1 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
+ Se declara la inconstitucionalidad y nulidad del apartado 2.d) por Sentencia del TC 99/1987, de 11 de junio. Ref. BOE-T-1987-14852
+
+### Artículo veintidós
+
+Artículo veintidós. Fomento de la promoción interna.
+1. Las Administraciones públicas facilitarán la promoción interna consistente en el ascenso desde cuerpos o escalas de un grupo de titulación a otros del inmediato superior. Los funcionarios deberán para ello poseer la titulación exigida para el ingreso en los últimos, haber prestado servicios efectivos, durante al menos dos años, como funcionario de carrera en cuerpos o escalas del grupo de titulación inmediatamente inferior al del cuerpo o escala al que pretendan acceder, así como reunir los requisitos y superar las pruebas que para cada caso establezca el Ministerio de Administraciones Públicas o el órgano competente de las demás Administraciones públicas.
+Dichas pruebas, en las que deberán respetarse los principios de igualdad, mérito y capacidad, podrán llevarse a cabo en convocatorias independientes de las de ingreso cuando, por conveniencia de la planificación general de los recursos humanos, así lo autorice el Gobierno o el órgano competente de las demás Administraciones Públicas.
+Los funcionarios que accedan a otros Cuerpos y Escalas por el sistema de promoción interna tendrán, en todo caso, preferencia para cubrir los puestos de trabajo vacantes ofertados sobre los aspirantes que no procedan de este turno.
+Asimismo, conservarán el grado personal que hubieran consolidado en el Cuerpo o Escala de procedencia, siempre que se encuentre incluido en el intervalo de niveles correspondientes al nuevo Cuerpo o Escala y el tiempo de servicios prestados en aquéllos será de aplicación, en su caso, para la consolidación de grado personal en éste.
+Lo dispuesto en el presente artículo será también de aplicación a los funcionarios que accedan por integración a otros Cuerpos o Escalas del mismo Grupo o de Grupo superior de acuerdo con lo previsto en esta Ley.
+A propuesta del Ministerio u Organismo en el que estén destinados, los aspirantes aprobados en el turno de promoción interna podrán solicitar que se les adjudique destino, dentro del mismo, en el puesto que vinieran desempeñando o en otros puestos vacantes dotados presupuestariamente existentes en el municipio, siempre que sean de necesaria cobertura y se cumplan los requisitos establecidos en la Relación de Puestos de Trabajo. En este caso, quedarán excluidos del sistema de adjudicación de destinos por el orden de puntuación obtenido en el proceso selectivo.
+Lo dispuesto en el párrafo anterior no será de aplicación a los funcionarios de los Cuerpos de Seguridad del Estado.
+2. A propuesta del Ministro de Administraciones Públicas, el Gobierno podrá determinar los cuerpos y escalas de la Administración del Estado a los que podrán acceder los funcionarios pertenecientes a otros de su mismo grupo siempre que desempeñen funciones sustancialmente coincidentes o análogas en su contenido profesional y en su nivel técnico, se deriven ventajas para la gestión de los servicios, se encuentren en posesión de la titulación requerida, hayan prestado servicios efectivos durante al menos dos años como funcionarios de carrera en cuerpos o escalas del mismo grupo de titulación al del cuerpo o escala al que pretendan acceder y superen las correspondientes pruebas.
+A estos efectos, en las convocatorias para el ingreso en los referidos Cuerpos y Escalas deberá establecerse la exención de las pruebas encaminadas a acreditar conocimientos ya exigidos para el ingreso en el Cuerpo o Escala de origen.
+3. A propuesta del Ministro de Administraciones Públicas, el Gobierno podrá determinar los cuerpos y escalas de funcionarios a los que podrá acceder el personal laboral de los grupos y categorías profesionales equivalentes al grupo de titulación correspondiente al cuerpo o escala al que se pretende acceder, siempre que desempeñen funciones sustancialmente coincidentes o análogas en su contenido profesional y en su nivel técnico, se deriven ventajas para la gestión de los servicios, se encuentren en posesión de la titulación requerida, hayan prestado servicios efectivos durante al menos dos años como personal laboral fijo en categorías del grupo profesional a que pertenezcan o en categorías de otro grupo profesional para cuyo acceso se exija el mismo nivel de titulación y superen las correspondientes pruebas.
+Téngase en cuenta que el apartado 1, a excepción de los dos últimos párrafos, ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero mantendrá su vigencia en tanto no se oponga a lo establecido en el mismo, hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga el apartado 1, a excepción de los dos últimos párrafos, por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque mantendrá su vigencia en tanto no se oponga a lo establecido en el mismo, hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este apartado ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga el apartado 1 a excepción de los dos últimos párrafos, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se modifica el apartado 3 y el párrafo primero de los apartados 1 y 2 por el art. 50.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se añade el apartado 3 por el art. 50.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se añade un párrafo segundo al apartado 1 por el art. 60 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+ Se añaden dos nuevos párrafos al apartado 1 por el art. 17 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+ Se modifica por el art. 1 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
+ Se declara la inconstitucionalidad y nulidad de los apartados 2 y 3 por Sentencia del TC 99/1987, de 11 de junio. Ref. BOE-T-1987-14852
+
+## CAPÍTULO V
+
+Bases del régimen de retribuciones
+
+### Artículo veintitrés
+
+Artículo veintitrés. Conceptos retributivos.
+1. Las retribuciones de los funcionarios son básicas y complementarias.
+2. Son retribuciones básicas:
+a) El sueldo, que corresponde al índice de proporcionalidad asignado a cada uno de los grupos en que se organizan los Cuerpos y Escalas, Clases o Categorías.
+b) Los trienios, consistentes en una cantidad igual para cada grupo, por cada tres años de servicio en el Cuerpo o Escala, Clase o Categoría.
+En el caso de que un funcionario preste sus servicios sucesivamente en diferentes Cuerpos, Escalas, Clases o Categorías de distinto grupo de clasificación, tendrá derecho a seguir percibiendo los trienios devengados en los grupos anteriores.
+Cuando un funcionario cambie de adscripción a grupo antes de completar un trienio, la fracción de tiempo transcurrido se considerará como tiempo de servicios prestados en el nuevo grupo.
+c) Las pagas extraordinarias, que serán de dos al año por un importe mínimo cada una de ellas de una mensualidad del sueldo y trienios, se devengarán los meses de junio y diciembre.
+3. Son retribuciones complementarias:
+a) El complemento de destino correspondiente al nivel del puesto que se desempeñe.
+b) El complemento específico destinado a retribuir las condiciones particulares de algunos puestos de trabajo en atención a su especial dificultad técnica, dedicación, responsabilidad, incompatibilidad, peligrosidad o penosidad. En ningún caso podrá asignarse más de un complemento específico a cada puesto de trabajo.
+c) El complemento de productividad destinado a retribuir el especial rendimiento, la actividad extraordinaria y el interés o iniciativa con que el funcionario desempeñe su trabajo.
+Su cuantía global no podrá exceder de un porcentaje sobre los costes totales de personal de cada programa y de cada órgano que se determinará en la Ley de Presupuestos. El responsable de la gestión de cada programa de gasto, dentro de las correspondientes dotaciones presupuestarias determinará, de acuerdo con la normativa establecida en la Ley de Presupuestos, la cuantía individual que corresponda, en su caso, a cada funcionario.
+En todo caso, las cantidades que perciba cada funcionario por este concepto serán de conocimiento público de los demás funcionarios del Departamento u Organismo interesado así como de los representantes sindicales.
+d) Las gratificaciones por servicios extraordinarios, fuera de la jornada normal, que en ningún caso podrán ser fijas en su cuantía y periódicas en su devengo.
+4. Los funcionarios percibirán las indemnizaciones correspondientes por razón del servicio.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo, hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se añaden dos párrafos al apartado 2.b) por la disposición adicional 7 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087
+
+### Artículo veinticuatro
+
+Artículo veinticuatro. Determinación de la cuantía de los conceptos retributivos.
+1. Las cuantías de las retribuciones básicas de los párrafos a) y b) del apartado 2 del artículo 23 de esta Ley, serán iguales en todas las Administraciones públicas, para cada uno de los grupos en que se clasifican los cuerpos, escalas, categorías o clases de funcionarios. Asimismo las cuantías de las pagas extraordinarias serán iguales, en todas las Administraciones públicas, para cada uno de los grupos de clasificación según el nivel del complemento de destino que se perciba.
+El sueldo de los funcionarios del grupo A no podrá exceder en más de tres veces al sueldo de los funcionarios del grupo E.
+2. La cuantía de las retribuciones básicas, de los complementos de destino asignados a cada puesto de trabajo y de los complementos específicos y de productividad, en su caso, deberá reflejarse para cada ejercicio presupuestario en la correspondiente Ley de Presupuestos Generales del Estado y figurar en los Presupuestos de las demás Administraciones Públicas.
+Téngase en cuenta que se suspende y deja sin efecto la aplicación de este artículo, en lo que resulte estrictamente necesario para la aplicación de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644., según establece su disposición adicional 12.3.
+ Téngase en cuenta que este artículo se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece la disposición final 4 de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+Véase la disposición adicional 12.3 de la Ley 48/2015, de 29 de octubre, Ref. BOE-A-2015-11644, sobre la suspensión de este artículo en lo que resulte estrictamente necesario para a aplicación de esta disposición.
+ Véase la disposición adicional 12.3 de la Ley 36/2014, de 26 de diciembre, Ref. BOE-A-2014-13612, sobre la suspensión de este artículo en lo que resulte estrictamente necesario para a aplicación de esta disposición.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se modifica el apartado 1 por el art. 50.3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Redactado el párrafo 2 conforme a la corrección de errores publicada en BOE núm. 81, de 4 de abril de 2003.Ref. BOE-A-2003-6800
+
+## CAPÍTULO VI
+
+Racionalización de la estructura de los Cuerpos y Escalas y otras clasificaciones del personal al servicio de las Administraciones Públicas
+
+### Artículo veinticinco
+
+Artículo veinticinco. Grupos de clasificación.
+Los Cuerpos, Escalas, Clases y Categorías de funcionarios al servicio de las Administraciones Públicas se agruparán, de acuerdo con la titulación exigida para su ingreso, en los siguientes grupos:
+Grupo A. Título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente.
+Grupo B. Título de Ingeniero Técnico, Diplomado Universitario, Arquitecto Técnico, Formación Profesional de tercer grado o equivalente.
+Grupo C. Título de Bachiller, Formación Profesional de segundo grado o equivalente.
+Grupo D. Título de Graduado Escolar, Formación Profesional de primer grado o equivalente.
+Grupo E. Certificado de escolaridad.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Artículo veintiséis
+
+Artículo veintiséis. Ordenación de la adscripción y funciones de los Cuerpos y Escalas de las Administraciones Públicas.
+Los Cuerpos y Escalas de funcionarios no podrán tener asignadas facultades, funciones o atribuciones propias de los órganos administrativos. Unicamente las relaciones de puestos de trabajo podrán determinar los Cuerpos o Escalas de funcionarios que puedan desempeñar los puestos a los que corresponda el ejercicio de las citadas funciones.
+La adscripción concreta de los Cuerpos y Escalas a un Departamento u Organismo corresponde al Gobierno, previo informe del Departamento al que figuren adscritos actualmente, y a propuesta del Ministro de la Presidencia. Esta competencia decisoria será ejercida en su ámbito por los Consejos de Gobierno de las Comunidades Autónomas y Plenos de las Corporaciones Locales.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Artículo veintisiete
+
+Artículo veintisiete. Racionalización de la estructura de Cuerpos y Escalas de la Administración del Estado.
+Se autoriza al Gobierno para que, a propuesta del Ministro de la Presidencia, proceda a:
+1. Convocar pruebas unitarias de selección para el ingreso en los distintos Cuerpos o Escalas.
+2. Unificar, previo dictamen del Consejo de Estado, aquellos Cuerpos y Escalas de igual grupo, cuando para el acceso a los mismos se hayan exigido los mismos requisitos de capacidad profesional, e igual titulación académica, las pruebas de selección sean conjuntas o de contenido sensiblemente equivalente, interviniendo en su evaluación Tribunales o Comisiones de composición similar, y le hayan sido asignadas funciones sustancialmente coincidentes en su contenido profesional y en su nivel técnico.
+Se deroga el apartado 2 , se modifica y se renumera el apartado 3 como 2 por la disposición derogatoria y el art. 1 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
+ Se declara la inconstitucionalidad y nulidad de los apartados 3 y 4 por Sentencia del TC 99/1987, de 11 de junio. Ref. BOE-T-1987-14852
+
+### Artículo veintiocho
+
+Artículo veintiocho. Racionalización de las plantillas de personal laboral.
+El Gobierno procederá también a racionalizar las plantillas de personal laboral, a través de los instrumentos establecidos en el artículo anterior, o de los que resulten precisos, de acuerdo con su naturaleza jurídica, y, coherentemente, con el proceso de racionalización de los Cuerpos y Escalas de funcionarios.
+
+## CAPÍTULO VII
+
+Modificación en las situaciones, régimen disciplinario y de Seguridad Social de los funcionarios
+
+### Artículo veintinueve
+
+Artículo veintinueve. Situaciones de los funcionarios.
+1. Quedan suprimidas las situaciones administrativas de excedencia especial y de supernumerario, creándose la de servicios especiales, la excedencia para el cuidado de hijos, la expectiva de destino, la excedencia voluntaria incentivada y la modalidad de excedencia forzosa aplicable a los funcionarios declarados en expectativa de destino.
+2. Servicios especiales.
+Los funcionarios públicos pasarán a la situación de servicios especiales:
+a) Cuando sean autorizados para realizar una misión por período determinado superior a seis meses en Organismos internacionales, Gobiernos o Entidades públicas extranjeras o en programas de cooperación internacional.
+b) Cuando adquieran la condición de funcionarios al servicio de Organizaciones internacionales o de carácter supranacional.
+c) Cuando sean nombrados miembros del Gobierno o de los órganos de Gobierno de las Comunidades Autónomas o altos cargos de los mismos que no deban ser provistos necesariamente por funcionarios públicos.
+d) Cuando sean elegidos por las Cortes Generales para formar parte de los Órganos Constitucionales u otros cuya elección corresponda a las Cámaras.
+e) Cuando sean adscritos a los servicios del Tribunal Constitucional o del Defensor del Pueblo o destinados al Tribunal de Cuentas en los términos previstos en el artículo 93.3 de la Ley 7/1988, de 5 de abril.
+f) Cuando accedan a la condición de Diputado o Senador de las Cortes Generales.
+g) Cuando accedan a la condición de miembros de las Asambleas Legislativas de las Comunidades Autónomas, si perciben retribuciones periódicas por el desempeño de la función.
+Cuando no perciban dichas retribuciones podrán optar entre permanecer en la situación de servicio activo o pasar a la de servicios especiales, sin perjuicio de la normativa que dicten las Comunidades Autónomas sobre incompatibilidades de los miembros de las Asambleas Legislativas.
+h) Cuando se desempeñen cargos electivos retribuidos y de dedicación exclusiva en las entidades locales, cuando se desempeñen responsabilidades de órganos superiores y directivos municipales, y cuando se desempeñen responsabilidades de miembros de los órganos locales para el conocimiento y la resolución de las reclamaciones económico-administrativas, excepto los funcionarios de administración local con habilitación de carácter nacional, cuando desempeñen puestos reservados a ellos, que se regirán por su normativa específica, quedando en la situación de servicio activo.
+I) Cuando presten servicio en los Gabinetes de la Presidencia del Gobierno, de los Ministros y de los Secretarios de Estado y no opten por permanecer en la situación de servicio activo en su Administración de origen.
+j) Cuando sean nombrados para cualquier cargo de carácter político del que se derive incompatibilidad para ejercer la función pública.
+k) Cuando cumplan el servicio militar o prestación sustitutoria equivalente.
+l) (Anulada)
+m)Cuando sean nombrados Subsecretarios, Secretarios generales técnicos o Directores generales.
+n) Cuando sean nombrados Subdelegados del Gobierno en las Provincias o Directores Insulares de la Administración General del Estado y no opten por permanecer en la situación de servicio activo en su Administración de origen.
+ñ) Cuando sean nombrados para desempeñar puestos en las Áreas Funcionales de la Alta Inspección de Educación funcionarios de los cuerpos docentes o escalas en que se ordena la función pública docente.
+A los funcionarios en situación de servicios especiales se les computará el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos pasivos y tendrán derecho a la reserva de plaza y destino que ocupasen. En todos los casos recibirán las retribuciones del puesto o cargo efectivo que desempeñen y no las que les correspondan como funcionarios, sin perjuicio del derecho a la percepción de los trienios que pudieran tener reconocidos como funcionarios.
+Los Diputados, Senadores y los miembros de las Asambleas Legislativas de las Comunidades Autónomas que pierdan dicha condición por disolución de las correspondientes Cámaras o terminación del mandato de las mismas podrán permanecer en la situación de servicios especiales hasta su nueva constitución.
+Lo dispuesto en este apartado 2 relativo al cómputo del tiempo de permanencia en situación de servicios especiales, a efectos de ascensos, trienios y derechos pasivos, no será de aplicación a los funcionarios públicos que habiendo ingresado al servicio de las Instituciones Comunitarias Europeas, o al de Entidades y Organismos asimilados, ejerciten el derecho de transferencias establecido en el artículo 11.2 del Anexo VIII del Estatuto de los funcionarios de las Comunidades Europeas, aprobado por el Reglamento 259/1968 del Consejo, de 29 de febrero, modificado por el Reglamento 571/1992 del Consejo, de 2 de marzo, sin perjuicio de los efectos económicos que puedan derivar de los ascensos y trienios consolidados hasta el momento del ejercicio de este derecho.
+3. Excedencia voluntaria.
+a) Procederá declarar en situación de excedencia voluntaria a los funcionarios públicos cuando se encuentren en situación de servicio activo en otro Cuerpo o Escala de cualquiera de las Administraciones Públicas, o pasen a prestar servicios en Organismos o Entidades del sector público y no les corresponda quedar en otra situación.
+b) (Suprimida)
+c) Podrá concederse igualmente la excedencia voluntaria a los funcionarios cuando lo soliciten por interés particular.
+Para solicitar el pase a la situación prevista en esta letra c) será preciso haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante los cinco años inmediatamente anteriores y en ella no se podrá permanecer menos de dos años continuados.
+Procederá asimismo declarar en excedencia voluntaria a los funcionarios públicos cuando, finalizada la causa que determinó el pase a una situación distinta a la de servicio activo, incumplan la obligación de solicitar el reingreso en el plazo establecido reglamentariamente.
+Los funcionarios públicos que presten servicios en organismos o entidades que queden excluidos de la consideración de sector público a los efectos de la declaración de excedencia voluntaria prevista en la letra a) del presente apartado, serán declarados en la situación de excedencia voluntaria regulada en esta letra c), sin que les sea de aplicación los plazos de permanencia en la misma.
+d) Podrá concederse la excedencia voluntaria por agrupación familiar, con una duración mínima de dos años y máxima de quince, a los funcionarios cuyo cónyuge resida en otro municipio por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo como funcionario de carrera o como laboral en cualquier Administración Pública, Organismos autónomos, Entidad gestora de la Seguridad Social, así como en órganos constitucionales o del Poder Judicial.
+Los funcionarios excedentes no devengarán retribuciones, ni les será computable el tiempo permanecido en tal situación a efectos de ascensos, trienios y derechos pasivos.
+No obstante lo dispuesto en el párrafo anterior, se computará a efectos de trienios, el período de prestación de servicios en organismos o entidades del sector público, con la excepción de los prestados en sociedades mercantiles en cuyo capital sea mayoritaria la participación directa o indirecta de las Administraciones públicas.
+4. Los funcionarios tendrán derecho a un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción o acogimiento permanente o preadoptivo, a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa.
+También tendrán derecho a un periodo de excedencia de duración no superior a tres años, los funcionarios para atender al cuidado de un familiar que se encuentre a su cargo, hasta el segundo grado inclusive de consanguinidad o afinidad, que por razones de edad, accidente, enfermedad o discapacidad no pueda valerse por sí mismo y no desempeñe actividad retribuida.
+El período de excedencia será único por cada sujeto causante. Cuando un nuevo sujeto causante diera origen a una nueva excedencia, el inicio del período de la misma pondrá fin al que se viniera disfrutando.
+Esta excedencia constituye un derecho individual de los funcionarios. En caso de que dos funcionarios generasen el derecho a disfrutarlo por el mismo sujeto causante, la Administración podrá limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios.
+El periodo de permanencia en esta situación será computable a efectos de trienios, consolidación de grado personal y derechos pasivos.
+5. Expectativa de destino.
+Los funcionarios en expectativa de destino percibirán las retribuciones básicas, el complemento de destino del grado personal que le corresponda y el 50 por 100 del complemento específico del puesto que desempeñaban al pasar a esta situación.
+Dichos funcionarios vendrán obligados a:
+1º. Aceptar los destinos en puestos de características similares a los que desempeñaban que se les ofrezcan en la provincia donde estaban destinados.
+2º. Participar en los concursos para puestos adecuados a su Cuerpo, Escala o Categoría, situados en la provincia donde estaban destinados.
+3º. Participar en los cursos de capacitación a que se les convoque.
+El período máximo de duración de la situación de expectativa de destino será de un año, transcurrido el cual se pasará a la situación de excedencia forzosa.
+A los restantes efectos esta situación se equipara a la de servicio activo.
+En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas efectuar la declaración y cese en esta situación administrativa y la gestión del personal afectado por la misma.
+6. Excedencia forzosa aplicable a funcionarios en expectativa de destino.
+Los funcionarios declarados en expectativa de destino pasarán a la situación de excedencia forzosa, con las peculiaridades establecidas en este apartado, por las causas siguientes:
+a) El transcurso del período máximo fijado para la misma.
+b) El incumplimiento de las obligaciones determinadas en el párrafo segundo del apartado 5 del presente artículo.
+Quienes se encuentren en esta modalidad de excedencia forzosa tendrán derecho a percibir las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo.
+Dichos funcionarios vendrán obligados a participar en los concursos convocados a puestos adecuados a su Cuerpo, Escala o categoría que les sean notificados, así como a aceptar los destinos que se les señalen en puestos de características similares y a participar en los cursos de capacitación que se les ofrezcan.
+No podrán desempeñar puestos de trabajo en el sector público bajo ningún tipo de relación funcionarial o contractual, sea ésta de naturaleza laboral o administrativa. Si obtienen puesto de trabajo en dicho sector, pasarán a la situación de excedencia voluntaria regulada en el apartado 3.a) de este artículo.
+Pasarán a la situación de excedencia voluntaria por interés particular cuando incumplan las obligaciones a que se refiere este apartado.
+En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas acordar la declaración de esta modalidad de excedencia forzosa y el pase a la excedencia voluntaria de estos excedentes forzosos, así como la gestión del personal afectado.
+7. Excedencia voluntaria incentivada.
+Los funcionarios afectados por un proceso de reasignación de efectivos que se encuentren en alguna de las dos primeras fases a que hace referencia el artículo 20.1.g) de esta Ley podrán ser declarados, a su solicitud, en situación de excedencia voluntaria incentivada.
+Quienes se encuentren en las situaciones de expectativa de destino o de excedencia forzosa como consecuencia de la aplicación de un Plan de Empleo tendrán derecho a pasar, a su solicitud, a dicha situación.
+La excedencia voluntaria incentivada tendrá una duración de cinco años e impedirá desempeñar puestos de trabajo en el sector público bajo ningún tipo de relación funcionarial o contractual, sea ésta de naturaleza laboral o administrativa. Concluido el plazo señalado, se pasará automáticamente, si no se solicita el reingreso, a la situación de excedencia voluntaria por interés particular.
+Quienes pasen a la situación de excedencia voluntaria incentivada tendrán derecho a una mensualidad de las retribuciones de carácter periódico, excluidas las pagas extraordinarias y el complemento de productividad, devengadas en el último puesto de trabajo desempeñado, por cada año completo de servicios efectivos y con un máximo de doce mensualidades.
+En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas acordar el pase a la situación de excedencia voluntaria incentivada.
+8. Excedencia por razón de violencia de género sobre la mujer funcionaria.
+Las funcionarias públicas víctimas de violencia de género, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a solicitar la situación de excedencia sin necesidad de haber prestado un tiempo mínimo de servicios previos y sin que resulte de aplicación ningún plazo de permanencia en la misma. Durante los seis primeros meses tendrán derecho a la reserva del puesto de trabajo que desempeñaran, siendo computable dicho período a efectos de ascensos, trienios y derechos pasivos.
+Igualmente, durante los dos primeros meses de esta excedencia la funcionaria tendrá derecho a percibir las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo.
+Esto no obstante, cuando de las actuaciones de tutela judicial resultase que la efectividad del derecho de protección de la víctima lo exigiere, se podrá prorrogar por períodos de tres meses, con un máximo de dieciocho, el período en el que, de acuerdo con el párrafo anterior, se tendrá derecho a la reserva del puesto de trabajo, con idénticos efectos a los señalados en dicho párrafo.
+Téngase en cuenta que este artículo ha sido derogado, a excepción del último párrafo de los apartados 5, 6 y 7, por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga, a excepción del último párrafo de los apartados 5, 6 y 7, por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga excepto el último párrafo de los apartados 5, 6 y 7, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se modifican los apartados 4 y 8 por la disposición adicional 19.1 a .5 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+ Se añade el apartado 2.ñ) por la disposición final 2 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
+ Se añade el apartado 8 por la disposición adicional 9.4 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+ Se añade el párrafo último del apartado 3 por el art. 50.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el apartado 2.h) por el art. 2 de la Ley 57/2003, de 16 de diciembre. Ref. BOE-A-2003-23103
+ Se modifica el párrafo segundo del apartado 4 por la disposición adicional 2 de la Ley 51/2003, de 2 de diciembre. Ref. BOE-A-2003-22066
+ Se añade un último párrafo al apartado 4 por la disposición adicional 1.4 de la Ley 40/2003, de 18 de noviembre. Ref. BOE-A-2003-21052
+ Se modifica el apartado 2.n) por el art. 50 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+ Se modifica el apartado 4 por el art. 19 de la Ley 39/1999, de 5 de noviembre. Ref. BOE-A-1999-21568
+ Se añade un último párrafo al apartado 2 y el último inciso a la letra n por el art. 40.1 y .2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Se añade el apartado 2.m) y .n) por la disposición adicional 3 de la Ley 6/1997, de 14 de abril. Ref. BOE-A-1997-7878
+ Se modifica el apartado 3.c) por el art. 104 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Se modifica el apartado 4 por el art. 2 de la Ley 4/1995, de 23 de marzo. Ref. BOE-A-1995-7242
+ Se modifican los apartados 1, 3.c), 2.e) y se añaden los apartados 3.d), 5, 6 y 7 por los arts. 18 a 24 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+ Se modifica el apartado 1, se añade el 4 y se suprime el 3.b) por el art. 2.1, 2 y la disposición final 3 de la Ley 3/1989, de 3 de marzo. Ref. BOE-A-1989-5272
+ Se declara la inconstitucionalidad y nulidad del apartado 2.l) por Sentencia del TC 99/1987, de 11 de junio. Ref. BOE-T-1987-14852
+
+### Artículo veintinueve bis
+
+Artículo veintinueve bis. Reingreso al servicio activo
+1. El reingreso al servicio activo de los funcionarios que no tengan reserva de plaza y destino se efectuará mediante su participación en las convocatorias de concursos o de libre designación para la provisión de puestos de trabajo.
+2. Asimismo, el reingreso podrá efectuarse por adscripción a un puesto con carácter provisional, condicionado a las necesidades del servicio y siempre que se reúnan los requisitos para el desempeño del puesto.
+3. El puesto asignado con carácter provisional se convocará para su provisión definitiva en el plazo máximo de un año, y el funcionario reingresado con destino provisional tendrá obligación de participar en la convocatoria. Si no obtuviese destino definitivo se le aplicará lo dispuesto en el artículo 21.2.b) de esta Ley.
+Se modifica el apartado 2 por el art. 25 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+ Se añade por el art. 34.1 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347
+
+### Artículo treinta
+
+Artículo treinta. Permisos.
+1. Se concederán permisos por las siguientes causas justificadas:
+a) Por el nacimiento, acogimiento, o adopción de un hijo, cuatro semanas a disfrutar por el padre a partir de la fecha del nacimiento, de la decisión administrativa o judicial de acogimiento o de la resolución judicial por la que se constituya la adopción.
+Téngase en cuenta que esta última actualización del apartado 1.a) entra en vigor el 1 de enero de 2017, conforme a la disposición final 11 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
+ Redacción anterior:
+ 1. Se concederán permisos por las siguientes causas justificadas:
+ a) Por el nacimiento, acogimiento, o adopción de un hijo, quince días a disfrutar por el padre a partir de la fecha del nacimiento, de la decisión administrativa o judicial de acogimiento o de la resolución judicial por la que se constituya la adopción.
+a bis) Por el fallecimiento, accidente o enfermedad graves de un familiar dentro del primer grado de consanguinidad o afinidad, tres días hábiles cuando el suceso se produzca en la misma localidad, y cinco días hábiles cuando sea en distinta localidad.
+Cuando se trate del fallecimiento, accidente o enfermedad graves de un familiar dentro del segundo grado de consanguinidad o afinidad, el permiso será de dos días hábiles cuando el suceso se produzca en la misma localidad y cuatro días hábiles cuando sea en distinta localidad.
+b) Por traslado de domicilio sin cambio de residencia, un día.
+c) Para realizar funciones sindicales, de formación sindical o de representación del personal, en los términos que se determinen reglamentariamente.
+d) Para concurrir a exámenes finales y demás pruebas definitivas de aptitud y evaluación en Centros oficiales, durante los días de su celebración.
+e) Las funcionarias embarazadas tendrán derecho a ausentarse del trabajo para la realización de exámenes prenatales y técnicas de preparación al parto, por el tiempo necesario para su práctica y previa justificación de la necesidad de su realización dentro de la jornada de trabajo.
+f) La funcionaria, por lactancia de un hijo menor de doce meses, tendrá derecho a una hora diaria de ausencia del trabajo, que podrá dividir en dos fracciones. Este derecho podrá sustituirse por una reducción de la jornada normal en media hora al inicio y al final de la jornada, o en una hora al inicio o al final de la jornada, con la misma finalidad. Este derecho podrá ser ejercido indistintamente por uno u otro de los progenitores, en el caso de que ambos trabajen.
+Igualmente, la funcionaria podrá solicitar la sustitución del tiempo de lactancia por un permiso retribuido que acumule en jornadas completas el tiempo correspondiente.
+Este permiso se incrementará proporcionalmente en los casos de parto múltiple.
+f.bis) En los casos de nacimientos de hijos prematuros o que por cualquier causa deban permanecer hospitalizados a continuación del parto, la funcionaria o el funcionario tendrán derecho a ausentarse del trabajo durante un máximo de dos horas percibiendo las retribuciones íntegras. Asimismo, tendrán derecho a reducir su jornada de trabajo hasta un máximo de dos horas, con la disminución proporcional de sus retribuciones.
+Reglamentariamente se determinará la disminución de jornada de trabajo y la reducción proporcional de retribuciones.
+g) El funcionario que, por razones de guarda legal, tenga a su cuidado directo algún menor de doce años, persona mayor que requiera especial dedicación o a una persona con discapacidad, que no desempeñe actividad retribuida, tendrá derecho a la disminución de su jornada de trabajo.
+Tendrá el mismo derecho el funcionario que precise encargarse del cuidado directo de un familiar, hasta el segundo grado de consanguinidad o afinidad, que por razones de edad, accidente o enfermedad no pueda valerse por sí mismo y que no desempeñe actividad retribuida.
+Reglamentariamente se determinará la disminución de jornada de trabajo y la reducción de las retribuciones que correspondan a dicha reducción de jornada.
+g bis) El funcionario que precise atender al cuidado de un familiar en primer grado, tendrá derecho a solicitar una reducción de hasta el cincuenta por ciento de la jornada laboral, con carácter retribuido, por razones de enfermedad muy grave y por el plazo máximo de un mes. Si hubiera más de un titular de este derecho por el mismo hecho causante, el tiempo de disfrute de esta reducción se podrá prorratear entre los mismos, respetando, en todo caso, el plazo máximo de un mes.
+2. Podrán concederse permisos por el tiempo indispensable para el cumplimiento de un deber inexcusable de carácter público o personal y por deberes derivados de la conciliación de la vida familiar y laboral.
+3. En el supuesto de parto, la duración del permiso será de dieciséis semanas ininterrumpidas ampliables en el caso de parto múltiple en dos semanas más por cada hijo a partir del segundo. El permiso se distribuirá a opción de la funcionaria siempre que seis semanas sean inmediatamente posteriores al parto. En caso de fallecimiento de la madre, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste del permiso.
+No obstante lo anterior, y sin perjuicio de las seis semanas inmediatas posteriores al parto de descanso obligatorio para la madre, en el caso de que ambos progenitores trabajen, la madre, al iniciarse el período de descanso por maternidad, podrá optar por que el otro progenitor disfrute de una parte determinada e ininterrumpida del período de descanso posterior al parto, bien de forma simultánea o sucesiva con el de la madre. El otro progenitor podrá seguir disfrutando del permiso de maternidad inicialmente cedido, aunque en el momento previsto para la reincorporación de la madre al trabajo ésta se encuentre en situación de incapacidad temporal.
+En los casos de parto prematuro y en aquéllos en que, por cualquier otra causa, el neonato deba permanecer hospitalizado a continuación del parto, el período de suspensión se ampliará en tantos días como el neonato se encuentre hospitalizado, con un máximo de trece semanas adicionales.
+En los supuestos de adopción o de acogimiento, tanto preadoptivo como permanente o simple, de conformidad con el Código Civil o las leyes civiles de las Comunidades Autónomas que lo regulen, siempre que el acogimiento simple sea de duración no inferior a un año, y con independencia de la edad que tenga el menor, el permiso tendrá una duración de dieciséis semanas ininterrumpidas, ampliables en el supuesto de adopción o acogimiento múltiple en dos semanas más por cada hijo a partir del segundo, contadas a la elección del funcionario, bien a partir de la decisión administrativa o judicial de acogimiento bien a partir de la resolución judicial por la que se constituya la adopción, sin que en ningún caso un mismo menor pueda dar derecho a varios períodos de disfrute de este permiso. En el caso de que ambos progenitores trabajen, el permiso se distribuirá a opción de los interesados, que podrán disfrutarlo de forma simultánea o sucesiva, siempre con períodos ininterrumpidos.
+En el supuesto de discapacidad del hijo o del menor adoptado o acogido, el permiso a que se refiere este apartado tendrá una duración adicional de dos semanas. En caso de que ambos progenitores trabajen, este período adicional se distribuirá a opción de los interesados, que podrán disfrutarlo de forma simultánea o sucesiva y siempre de forma ininterrumpida.
+En los casos de disfrute simultáneo de períodos de descanso, la suma de los mismos no podrá exceder de las dieciséis semanas previstas en los apartados anteriores o de las que correspondan en caso de parto, adopción o acogimiento múltiple y de discapacidad del hijo o menor adoptado o acogido.
+Los permisos a que se refiere el presente apartado podrán disfrutarse en régimen de jornada completa o a tiempo parcial, a solicitud de los funcionarios y si lo permiten las necesidades del servicio, en los términos que reglamentariamente se determinen.
+En los supuestos de adopción internacional, cuando sea necesario el desplazamiento previo de los progenitores al país de origen del adoptado, el funcionario tendrá derecho a disfrutar de un permiso de hasta dos meses de duración percibiendo durante este periodo exclusivamente las retribuciones básicas.
+Con independencia del permiso previsto en el párrafo anterior, y para el supuesto contemplado en el mismo, el permiso por adopción y acogimiento, tanto preadoptivo como permanente o simple, de conformidad con el Código Civil o las leyes civiles de las Comunidades Autónomas que lo regulen, siempre que el acogimiento simple sea de duración no inferior a un año, podrá iniciarse hasta cuatro semanas antes de la resolución por la que se constituye la adopción.
+Durante el disfrute de los permisos regulados en este apartado se podrá participar en los cursos de formación que convoque la Administración.
+En los casos previstos en este apartado, el tiempo transcurrido en la situación de permiso por parto o maternidad se computará como de servicio efectivo a todos los efectos, garantizándose la plenitud de derechos económicos de la funcionaria y, en su caso, del otro progenitor funcionario, durante todo el período de duración del permiso, y, en su caso, durante los períodos posteriores al disfrute de éste, si de acuerdo con la normativa aplicable, el derecho a percibir algún concepto retributivo se determina en función del período de disfrute del permiso.
+Los funcionarios que hayan hecho uso del permiso por parto o maternidad, tendrán derecho, una vez finalizado el período de permiso a reintegrarse a su puesto de trabajo en términos y condiciones que no le resulten menos favorables al disfrute del permiso, así como a beneficiarse de cualquier mejora en las condiciones de trabajo a las que hubiera podido tener derecho durante su ausencia.
+4. Los funcionarios a quienes falten menos de cinco años para cumplir la edad de jubilación forzosa, establecida en el artículo 33 de esta Ley, podrán obtener, a su solicitud, la reducción de su jornada de trabajo hasta un medio, con la reducción de retribuciones que se determine reglamentariamente, siempre que las necesidades del servicio lo permitan.
+Dicha reducción de jornada podrá ser solicitada y obtenida, de manera temporal, por aquellos funcionarios que la precisen en procesos de recuperación por razón de enfermedad, siempre que las necesidades del servicio lo permitan.
+5. En los casos en los que las funcionarias víctimas de violencia de género tuvieran que ausentarse por ello de su puesto de trabajo, estas faltas de asistencia, totales o parciales, tendrán la consideración de justificadas por el tiempo y en las condiciones en que así lo determinen los servicios sociales de atención o salud, según proceda.
+Las funcionarias víctimas de violencia sobre la mujer, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a la reducción de la jornada con disminución proporcional de la retribución, o a la reordenación del tiempo de trabajo, a través de la adaptación del horario, de la aplicación del horario flexible o de otras formas de ordenación del tiempo de trabajo que sean aplicables, en los términos que para estos supuestos establezca la Administración Pública competente en cada caso.
+Téngase en cuenta que los apartados 3 y 5 se mantendrán en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+Se modifica el apartado 1.a), con efectos de 1 de enero de 2017, por el art. 2 de la Ley 9/2009, de 6 de octubre. Ref. BOE-A-2009-15958
+ Se derogan los apartados 3 y 5, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se modifican los apartados 1, 2 y 3 por la disposición adicional 19.6 a .13 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+ Se modifica el apartado 1.a) y se añade el párrafo segundo al apartado 1.f) por la disposición final 1.1 y .2 de la Ley 21/2006, de 20 de junio. Ref. BOE-A-2006-11049
+ Se añade el apartado 5 por la disposición adicional 9.5 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+ Se modifica el apartado 1.g) por el art. 50.5 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifican los apartados 1 y 3 por el art. 58.1 a .4 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se añade el apartado 1.e.bis y el párrafo tercero al apartado 3, reordenándose los párrafos existentes por la disposición adicional 8.2.a) y b) de la Ley 12/2001, de 9 de julio. Ref. BOE-A-2001-13265
+ Téngase en cuenta para su aplicación la disposición adicional 8.3.
+ Se modifica el apartado 3 por el art. 20 de la Ley 39/1999, de 5 de noviembre. Ref. BOE-A-1999-21568
+ Se modifica el apartado 1.f) por el art. 50.1 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Se modifica el párrafo tercero del apartado 3 por el art. 89.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Se añade el apartado 4 por el art. 26 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+ Se modifica el párrafo último del apartado 3 por el art. 2 de la Ley 8/1992, de 30 de abril. Ref. BOE-A-1992-9361
+ Se añade el apartado 3 por el art. 2.3 de la Ley 3/1989, de 3 de marzo. Ref. BOE-A-1989-5272
+
+### Artículo treinta y uno
+
+Artículo treinta y uno. Régimen disciplinario.
+1. Se considerarán como faltas muy graves:
+a) El incumplimiento del deber de fidelidad a la Constitución en el ejercicio de la función pública.
+b) Toda actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual, sexo, lengua, opinión, lugar de nacimiento o vecindad, o cualquier otra condición o circunstancia personal o social, así como el acoso por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual y el acoso sexual.
+c) El abandono del servicio.
+d) La adopción de acuerdos manifiestamente ilegales que causen perjuicio grave a la Administración o a los ciudadanos.
+e) La publicación o utilización indebida de secretos oficiales, así declarados por Ley o clasificados como tales.
+f) La notoria falta de rendimiento que comporte inhibición en el cumplimiento de las tareas encomendadas.
+g) La violación de la neutralidad o independencia políticas, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito.
+h) El incumplimiento de las normas sobre incompatibilidades.
+i) La obstaculización al ejercicio de las libertades públicas y derechos sindicales.
+j) La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga.
+k) La participación en huelgas, a los que la tengan expresamente prohibida por la Ley.
+l) El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga.
+m) Los actos limitativos de la libre expresión de pensamiento, ideas y opiniones.
+n) Haber sido sancionado por la comisión de tres faltas graves en un período de un año.
+ñ) El quebrantamiento por parte del personal que preste servicios en los Registros de Actividades y Bienes y Derechos Patrimoniales del deber permanente de mantener en secreto los datos e informaciones que conozca por razón de su trabajo, establecido en la Ley de Incompatibilidades de los miembros del Gobierno de la Nación y de los Altos Cargos de la Administración General del Estado.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se modifica el apartado 1.b) por el art. 50.6 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se añade el apartado 1.ñ) por la disposición adicional 4 de la Ley 12/1995, de 11 de mayo. Ref. BOE-A-1995-11340
+ Se deroga el apartado 2 por el art. 36 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903
+
+### Artículo treinta y dos
+
+Artículo treinta y dos. Seguridad Social.
+1 a 5. (Derogados)
+6. La determinación de la condición de beneficiario de asistencia sanitaria en los Regímenes Especiales de la Seguridad Social de los funcionarios públicos se adecuará a lo dispuesto para el Régimen General.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. y que el apartado 6 está derogado en lo que se refiere a MUFACE e ISFAS, según se establece en las disposiciones derogatorias de los Reales Decretos Legislativos 4/2000, de 23 de junio. Ref. BOE-A-2000-12140 y 1/2000, de 9 de junio. Ref. BOE-A-2000-11121
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se deroga el apartado 6 en lo que se refiere a la Mutualidad General de Funcionarios Civiles del Estado, por la disposición derogatoria única.b).2 del Real Decreto Legislativo 4/2000, de 23 de junio. Ref. BOE-A-2000-12140
+ Se deroga el apartado 6 en lo que se refiere a este Régimen Especial de Seguridad Social de las Fuerzas Armadas, por la disposición derogatoria única.1.B) del Real Decreto Legislativo 1/2000, de 9 de junio. Ref. BOE-A-2000-11121
+ Se derogan los apartados 1 a 5 por la disposición derogatoria 1.2.a) del Real Decreto Legislativo 670/1987, de 30 de abril. Ref. BOE-A-1987-12636
+ Se declara la inconstitucionalidad del inciso destacado del apartado 1 por Sentencia del TC 5/1992, de 16 de enero. Ref. BOE-T-1992-3225
+
+### Artículo treinta y tres
+
+Artículo treinta y tres. Jubilación forzosa.
+La jubilación forzosa de los funcionarios públicos se declarará de oficio al cumplir los sesenta y cinco años de edad.
+No obstante lo dispuesto en el párrafo anterior, tal declaración no se producirá hasta el momento en que los funcionarios cesen en la situación de servicio activo, en aquellos supuestos en que voluntariamente prolonguen su permanencia en la misma hasta, como máximo, los setenta años de edad. Las Administraciones Públicas dictarán las normas de procedimiento necesarias para el ejercicio de este derecho.
+De lo dispuesto en el párrafo anterior quedan exceptuados los funcionarios de aquellos cuerpos y escalas que tengan normas específicas de jubilación.
+Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se modifica por el art. 107 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo treinta y cuatro
+
+Artículo treinta y cuatro.
+1. Los funcionarios afectados por un proceso de reasignación de efectivos que se encuentren en las situaciones de expectativa de destino o de excedencia forzosa, como consecuencia de un Plan de Empleo, podrán solicitar la jubilación voluntaria anticipada, en las condiciones establecidas en el Régimen de Seguridad Social en que estén encuadrados, siempre que tengan cumplidos sesenta años de edad, acrediten, al menos, treinta años de servicios y reúnan los requisitos exigidos en dicho régimen.
+2. Los funcionarios que se acojan a esta jubilación tendrán derecho a percibir, por una sola vez, una indemnización cuya cuantía será fijada por el Gobierno según su edad y retribuciones íntegras correspondientes a la última mensualidad completa devengada, con exclusión, en su caso, del complemento específico y de la productividad, referida a doce mensualidades.
+3. Corresponde al Ministerio para las Administraciones Públicas acordar la jubilación voluntaria incentivada.
+Se añade por el art. 27 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+
+### Disposición adicional primera
+
+1. Se declaran a extinguir todas las plazas no escalafonadas de funcionarios. El Gobierno, mediante Real Decreto, procederá a su reordenación, agrupación y clasificación integrándolas, en su caso, en los Cuerpos y Escalas que tengan asignados igual titulación académica y funciones y retribuciones similares.
+2. El personal al servicio de la Administración del Estado que perciba el total de sus retribuciones con cargo a los créditos de personal vario sin clasificar de los Presupuestos Generales del Estado deberá ser clasificado por el Gobierno, mediante Real Decreto, determinando, en su caso, su integración, de acuerdo con la naturaleza de sus funciones y titulación académica exigida, en Cuerpos o Escalas de funcionarios o plantillas de personal laboral.
+
+### Disposición adicional segunda
+
+Se crea, con el carácter de Cuerpo general e interministerial, el Cuerpo de Gestión de la Administración Civil del Estado. Su plantilla presupuestaria estará inicialmente constituida por 3.000 plazas.
+Se financiará sin aumento del gasto público, con cargo a las amortizaciones de plazas no escalafonadas y de vacantes de Cuerpos o Escalas con funciones de naturaleza predominantemente burocráticas.
+Para el ingreso al Cuerpo se exigirá estar en posesión del título de Diplomado universitario o equivalente.
+Sin perjuicio de lo establecido en la presente Ley, podrán integrarse en el Cuerpo de Gestión quienes, a la entrada en vigor de la misma, sean funcionarios de carrera del Cuerpo General Administrativo o de aquellos otros Cuerpos o Escalas que reglamentariamente se determinen, y se encuentren en posesión de la titulación exigida y superen las pruebas selectivas correspondientes. Se cubrirán por este sistema como mínimo el 50 por 100 de las plazas de nueva creación.
+
+### Disposición adicional tercera
+
+1. (Derogado)
+2. (Derogado)
+3. Los funcionarios transferidos a las Comunidades Autónomas continuarán con el sistema de Seguridad Social o de previsión que tuvieran originariamente, asumiendo las Comunidades Autónomas todas las obligaciones del Estado o de la Corporación Local correspondiente en relación con los mismos.
+Téngase en cuenta que los apartados 2 y 3 han sido derogados por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. y el apartado 3 en la parte que se refiere a la Mutualidad General de Funcionarios Civiles del Estado, por la disposición derogatoria única.a).3 y b).2 del Real Decreto Legislativo 4/2000, de 23 de junio. Ref. BOE-A-2000-12140
+Se derogan los apartados 2 y 3 por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que estos apartados ya fueron derogados en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se derogan los apartados 2 y 3, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se deroga el apartado 1 en su totalidad y el apartado 3 en la parte que se refiere a la Mutualidad General de Funcionarios Civiles del Estado, por la disposición derogatoria única.a).3 y b).2 del Real Decreto Legislativo 4/2000, de 23 de junio. Ref. BOE-A-2000-12140
+ Se deroga el apartado 2 por la disposición derogatoria única.h) del Real Decreto Legislativo 1/1994, de 20 de junio. Ref. BOE-A-1994-14960
+
+### Disposición adicional cuarta
+
+1. A partir de la fecha de entrada en vigor de la presente Ley no podrán celebrarse por las Administraciones Públicas contratos de colaboración temporal en régimen de derecho administrativo.
+2. Los contratos a celebrar excepcionalmente por las Administraciones Públicas con personal para la realización de trabajos específicos y concretos no habituales se someterán a la legislación de contratos del Estado, sin perjuicio, en su caso, de la aplicación de la normativa civil o mercantil.
+Téngase en cuenta que esta disposición ha sido derogada por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que esta disposición ya fue derogada en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Disposición adicional quinta
+
+El Gobierno determinará mediante Real Decreto el cómputo recíproco de cotizaciones entre el Régimen de Seguridad Social de los funcionarios públicos y los distintos Regímenes del Sistema de la Seguridad Social.
+
+### Disposición adicional sexta
+
+1. Con arreglo a lo dispuesto en la Ley 10/1983, de 16 de agosto, de organización de la Administración Central del Estado, las funciones de inspección que corresponden a la Presidencia del Gobierno sobre todos los servicios de la Administración del Estado, Entes, Organismos y Empresas de ellos dependientes, serán ejercidas por el Ministerio de la Presidencia.
+2. El Gobierno, en el plazo de seis meses, determinará mediante Real Decreto, la superior función de inspección de servicios a que se refiere el apartado anterior, y regulará las competencias en la materia de los Delegados del Gobierno en las Comunidades Autónomas.
+Asimismo, el Gobierno mediante Real Decreto, determinará y regulará las funciones de la inspección general de servicios de la Administración Pública, adscrita a la Secretaría de Estado para la Administración Pública como órgano especializado de inspección, dirección y coordinación de las inspecciones de servicios mencionadas en el apartado 1 de esta disposición adicional.
+Igualmente, el Gobierno establecerá el régimen jurídico de tales inspecciones.
+
+### Disposición adicional séptima
+
+Sin perjuicio de lo dispuesto en el artículo 33, el Gobierno regulará la figura del Profesor universitario emérito.
+
+### Disposición adicional octava
+
+1. Los Cuerpos y Escalas declarados a extinguir que actualmente tengan asignados los índices de proporcionalidad 10, 8, 6, 4 y 3, pasarán a integrarse respectivamente, a partir de la vigencia de esta Ley, en los grupos A, B, C, D y E establecidos en el artículo 25.
+2. Para el ingreso en los Cuerpos y Escalas de nueva creación se exigirá la titulación académica necesaria para el ingreso en los Cuerpos y Escalas que se integran en ellos. En el caso de que se integren Cuerpos o Escalas con distinto nivel de titulación a efectos de nuevos ingresos, el exigido será el correspondiente al cuerpo o escala de los integrados para el que se requiera mayor nivel de titulación.
+
+### Disposición adicional novena
+
+Uno.–Se crean en la Administración del Estado los siguientes Cuerpos de funcionarios:
+1. Cuerpo Superior de Administradores Civiles del Estado, en el que se integran los funcionarios pertenecientes a los Cuerpos Técnico de Información y Turismo y Técnico de la Administración Civil del Estado.
+2. Cuerpo Superior de Inspectores de Finanzas del Estado, en el que se integran los funcionarios pertenecientes a los Cuerpos Técnicos de Inspección de Seguros y Ahorro; Inspectores de Aduanas e Impuestos Especiales; Intervención y Contabilidad de la Administración Civil del Estado e Inspectores Financieros y Tributarios.
+3. Cuerpo Superior de Técnicos Comerciales y Economistas del Estado, en el que se integran los funcionarios pertenecientes a los Cuerpos Especial Facultativo de Técnicos Comerciales del Estado y de Economistas del Estado.
+4. El Cuerpo Superior de Letrados del Estado pasa a denominarse Cuerpo de Abogados del Estado, manteniéndose en él la integración de los funcionarios pertenecientes a los extinguidos Cuerpos de Abogados del Estado, Técnico de Letrados del Ministerio de Justicia y Letrados de la Dirección General de los Registros y del Notariado.
+5. Cuerpo de Médicos de la Sanidad Nacional, en el que se integran los funcionarios pertenecientes a los Cuerpos de Médicos de la Sanidad Nacional y de Médicos de la Beneficencia General (Grupo de Médicos de Número).
+6. Cuerpo de Médicos Asistenciales de la Sanidad Nacional, en el que se integran los funcionarios pertenecientes a los Cuerpos de Médicos Especialistas; Médicos Puericultores y Maternólogos; Médicos de la Lucha Antivenérea Nacional, y de la Inspección Médico-Escolar.
+7. Cuerpo Superior de Inspectores de Trabajo y Seguridad Social, en el que se integran los funcionarios pertenecientes a la Escala Técnica del Cuerpo Nacional de Inspección de Trabajo, y con independencia de lo que se establece en la disposición adicional decimosexta de la presente Ley, el personal funcionario del Cuerpo de Controladores de la Seguridad Social que se encuentre en posesión de la titulación académica superior correspondiente en el momento de la entrada en vigor de esta Ley.
+8. Cuerpo General Administrativo de la Administración del Estado, en que se integran los funcionarios pertenecientes a los Cuerpos General Administrativo de la Administración Civil del Estado; Administrativo de Seguridad y General Administrativo de la Administración Militar.
+9. Cuerpo de Delineantes, en el que se integran los funcionarios pertenecientes a los Cuerpos de Delineantes del Catastro y Delineantes Cartográficos.
+10. Cuerpo General Auxiliar de la Administración del Estado, en el que se integran los funcionarios pertenecientes a los Cuerpos General Auxiliar de la Administración Civil del Estado; Auxiliar de Seguridad y General Auxiliar de la Administración Militar.
+11. Cuerpo General Subalterno de la Administración del Estado, en el que se integran los funcionarios pertenecientes a los Cuerpos General Subalterno de la Administración Civil del Estado y General Subalterno de la Administración Militar.
+12. Cuerpo de Mecánicos Conductores del Ministerio de Defensa, en el que se integran los funcionarios pertenecientes al Cuerpo de Mecánicos Conductores del Ejército y el Cuerpo de Mecánicos Conductores de la Armada.
+Dos.–Sin perjuicio de lo previsto en el apartado tercero del artículo 27 de la presente Ley, se procede a la integración de Escalas de funcionarios de Organismos Autónomos de la Administración del Estado, en la forma que a continuación se específica:
+A) DE CARACTER INTERDEPARTAMENTAL
+a) Escala Técnica de Gestión de Organismos Autónomos.
+Se integran en la misma los funcionarios pertenecientes a las siguientes Escalas:
+– Técnica del Instituto de Cooperación Iberoamericana del Ministerio de Asuntos Exteriores.
+– Técnica Administrativa del Instituto de Cooperación Iberoamericana del Ministerio de Asuntos Exteriores.
+– Técnica del Instituto Hispano-Arabe de Cultura del Ministerio de Asuntos Exteriores.
+– Jefe de Servicios del Impuesto de la Obra de Protección de Menores del Ministerio de Justicia.
+– Subjefe del Impuesto de la Obra de Protección de Menores del Ministerio de Justicia.
+– Oficial Mayor de la Obra de Protección de Menores del Ministerio de Justicia.
+– Inspectores del Impuesto de la Obra de Protección de Menores del Ministerio de Justicia.
+– Liquidadores del Impuesto de la Obra de Protección de Menores del Ministerio de Justicia.
+– Técnicos Superiores del Consorcio de Compensación de Seguros del Ministerio de Economía y Hacienda.
+– Técnicos de Gestión del Iresco del Ministerio de Economía y Hacienda.
+– Técnicos del PMM del Ministerio de Economía y Hacienda.
+– Asesores del Patronato de Apuestas Mutuas Deportivo-Benéficas del Ministerio de Economía y Hacienda.
+– Técnico de Gestión de la Confederación Hidrográfica del Guadiana del Ministerio de Obras Públicas y Urbanismo.
+– Técnico de Gestión de la Confederación Hidrográfica del Pirineo Oriental del Ministerio de Obras Públicas y Urbanismo.
+– Técnico de Gestión de la Confederación Hidrográfica del Tajo del Ministerio de Obras Públicas y Urbanismo.
+– Técnico Administrativo de la Confederación Hidrográfica del Tajo del Ministerio de Obras Públicas y Urbanismo.
+– Oficial Letrado de la Confederación Hidrográfica del Ebro del Ministerio de Obras Públicas y Urbanismo.
+– Oficial Letrado de la Confederación Hidrográfica del Sur de España del Ministerio de Obras Públicas y Urbanismo.
+– Técnica Administrativa de Coplaco del Ministerio de Obras Públicas y Urbanismo.
+– Técnico del Instituto para la Promoción Pública de la Vivienda del Ministerio de Obras Públicas y Urbanismo.
+– Técnico Administrativo del INCE del Ministerio de Obras Públicas y Urbanismo.
+– Técnica de Gestión de la Junta del Puerto de Pasajes del Ministerio de Obras Públicas y Urbanismo.
+– Secretario General de la Mancomunidad de Canales del Taibilla del Ministerio de Obras Públicas y Urbanismo.
+– Oficial Letrado del Canal Imperial de Aragón del Ministerio de Obras Públicas y Urbanismo.
+– Secretario del Canal Imperial de Aragón del Ministerio de Obras Públicas y Urbanismo.
+– Jefes del Departamento del Patronato de Casas del Ministerio de Obras Públicas y Urbanismo.
+– Técnicos de Gestión del Consejo Superior de Investigaciones Científicas del Ministerio de Educación y Ciencia.
+– Técnicos del Instituto Nacional de Educación Especial del Ministerio de Educación y Ciencia.
+– Técnica de la Junta de Construcciones e Instalaciones y Equipo Escolar del Ministerio de Educación y Ciencia.
+– Técnica Superior del Patronato de Casas de Funcionarios del Ministerio de Educación y Ciencia.
+– Titulados Superiores del Servicio de Publicaciones del Ministerio de Educación y Ciencia.
+– Colaboradores Técnicos del Extinguido INCIE del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad de Alcalá de Henares del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad de Alicante del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad Balear del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad de Barcelona del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad de Cádiz del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad de Extremadura del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad de la Laguna del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad de León del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad Politécnica de Las Palmas del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad de Murcia del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad Autónoma de Madrid del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad de Oviedo del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad de Salamanca del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad de Valencia del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad Politécnica de Valencia del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad de Zaragoza del Ministerio de Educación y Ciencia.
+– Técnicos de Gestión de la Universidad Autónoma de Barcelona del Ministerio de Educación y Ciencia.
+– Técnicos de Administración de Enseñanzas Integradas del Ministerio de Educación y Ciencias.
+– Técnica de Administración del Instituto Nacional de Empleo del Ministerio de Trabajo y Seguridad Social.
+– Técnicos Especializados del Servicio de Publicaciones del Ministerio de Trabajo y de Seguridad Social.
+– Técnica del Instituto Español de Emigración del Ministerio de Trabajo y Seguridad Social.
+– Técnicos de Gestión de la Organización de Trabajos Portuarios del Ministerio de Trabajo y Seguridad Social.
+– Técnica del Inas del Ministerio de Trabajo y Seguridad Social.
+– Titulados Superiores del Servicio de Publicaciones del Ministerio de Industria y Energía.
+– Técnica del IMPI del Ministerio de Industria y Energía.
+– Técnicos Administrativos del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos Administrativos del FORPPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos de Gestión del Instituto Español de Oceanografía del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos de Gestión del Instituto de Estudios Agrarios, Pesqueros y Alimentarios del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos de Gestión del Instituto Nacional de Semillas y Plantas de Vivero del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos de Gestión del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnica de Seguros Agrarios del ENESA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos Administrativos del SENPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos del Servicio de Pósitos del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnica del Indo del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnica del FROM del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos del Servicio de Extensión Agraria del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnica Superior de la CAT del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos de Gestión del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnica del Boletín Oficial del Estado del Ministerio de la Presidencia.
+– Técnicos del INAP del Ministerio de la Presidencia.
+– Técnicos del Instituto Nacional de Publicidad del Ministerio de la Presidencia.
+– Técnico Facultativo de Grado Superior del Servicio de Publicaciones del Ministerio de Transportes, Turismo y Comunicaciones.
+– Técnica Superior de la Editora Nacional del Ministerio de Cultura.
+– Técnica de Teatros Nacionales y Festivales de España del Ministerio de Cultura.
+– Técnico de Administración General del Instituto de Estudios de la Administración Local del Ministerio de Administración Territorial.
+– Técnicos de Gestión de la AISNA del Ministerio de Sanidad y Consumo.
+– Técnico del Servicio de Publicaciones del Ministerio de Sanidad y Consumo.
+– Técnicos de Gestión del Fondo de Atenciones de la Marina, del Ministerio de Defensa.
+– Titulados Superiores Administrativos (primer subgrupo) del Instituto Nacional de Técnica Aerospacial «Esteban Terradas», del Ministerio de Defensa.
+b) Escala Administrativa de Organismo autónomos.
+Se integran en la misma los funcionarios pertenecientes a las siguientes Escalas:
+– Administrativos del Instituto de Cooperación Iberoamericana del Ministerio de Asuntos Exteriores.
+– Administrativa del Instituto Hispano-Arabe de Cultura del Ministerio de Asuntos Exteriores.
+– Administrativos de la Obra de Protección de Menores del Ministerio de Justicia.
+– Oficiales Administrativos del Patronato de Protección de la Mujer del Ministerio de Justicia.
+– Administrativa de la Junta Central de Acuartelamiento del Ministerio de Defensa.
+– Administrativos del Fondo de Atenciones de la Marina del Ministerio de Defensa.
+– Administrativos del Canal de Experiencias Hidrodinámicas de El Pardo del Ministerio de Defensa.
+– Administrativos del Patronato de Casas Militares del Ministerio de Defensa.
+– Administrativos del Patronato de Casas de la Armada del Ministerio de Defensa.
+– Administrativos de la Caja Autónoma, Formación y Experiencia Comercial del Ministerio de Economía y Hacienda.
+– Administrativa del Consorcio de Compensación de Seguros del Ministerio de Economía y Hacienda.
+– Administrativos del IRESCO del Ministerio de Economía y Hacienda.
+– Administrativa del PMM del Ministerio de Economía y Hacienda.
+– Oficiales Administrativos del Patronato de Apuestas MDB del Ministerio de Economía y Hacienda.
+– Ejecutivos de la Jefatura Central de Tráfico del Ministerio del Interior.
+– Administrativos Contables del Servicio de Publicaciones del Ministerio de Obras Públicas y Urbanismo.
+– Jefe y Subjefe de Sección del Canal Imperial de Aragón del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Administrativos de Primera y Segunda de la Confederación Hidrográfica del Guadalquivir del Ministerio de Obras Públicas y Urbanismo.
+– Oficial Administrativo de primera de la Confederación Hidrográfica del Guadalquivir del Ministerio de Obras Públicas y Urbanismo.
+– Administrativo de la Confederación Hidrográfica del Tajo del Ministerio de Obras Públicas y Urbanismo.
+– Administrativos de la Confederación Hidrográfica del Guadiana del Ministerio de Obras Públicas y Urbanismo.
+– Administrativos de la Confederación Hidrográfica del Pirineo Oriental del Ministerio de Obras Públicas y Urbanismo.
+– Administrativo de la Confederación Hidrográfica del Sur de España del Ministerio de Obras Públicas y Urbanismo.
+– Jefe de Negociado de primera y segunda y Oficiales Mayor de primera y segunda de la Comisión Administrativa de Grupos de Puertos del Ministerio de Obras Públicas y Urbanismo.
+– Administrativos de COPLACO del Ministerio de Obras Públicas y Urbanismo.
+– Administrativa del Instituto para la Promoción Pública de la Vivienda del Ministerio de Obras Públicas y Urbanismo.
+– Administrativos (Grupos primero, segundo y tercero) del CEDEX del Ministerio de Obras Públicas y Urbanismo.
+– Administrativa del INCE del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor de primera y segunda de la Junta del Puerto de Algeciras-La Línea del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor de primera y segunda de la Junta del Puerto de Alicante del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor de primera y segunda de la Junta del Puerto de Almería del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Avilés del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficial Mayor primera y segunda de la Junta del Puerto de Cádiz del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Cartagena del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Castellón del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Ceuta del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto del Ferrol del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Gijón del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de la Coruña del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de la Luz y Las Palmas del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta Administrativa Obras Públicas de Las Palmas del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Málaga del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Melilla del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Palma de Mallorca del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficial Mayor primera y segunda de la Junta del Puerto de Pasajes del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto y Ría de Pontevedra del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta Administrativa O. P. de Santa Cruz de Tenerife del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Santa Cruz de Tenerife del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Santander del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Sevilla del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociados primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Tarragona del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Vigo del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda de la Junta del Puerto de Villagarcía de Arosa del Ministerio de Obras Públicas y Urbanismo.
+– Jefes de Sección, Subjefes de Sección de la Mancomunidad de Canales del Taibilla del Ministerio de Obras Públicas y Urbanismo.
+– Jefes Negociado primera y segunda y Oficiales Mayor primera y segunda del Parque de Maquinaria del Ministerio de Obras Públicas y Urbanismo.
+– Subjefe de Departamento de Segunda del Patronato de Casas del Ministerio de Obras Públicas y Urbanismo.
+– Administrativos del Consejo Superior de Investigaciones Científicas del Ministerio de Educación y Ciencia.
+– Administrativa del Inape del Ministerio de Educación y Ciencia.
+– Administrativos del Extinguido Instituto Nacional de Ciencias de la Educación del Ministerio de Educación y Ciencia.
+– Administrativos del Instituto Nacional de Educación Especial del Ministerio de Educación y Ciencia.
+– Administrativos generales de Enseñanzas Integradas del Ministerio de Educación y Ciencia.
+– Administrativos del Instituto de Orientación Educativa y Profesional (integrados Patronato de Formación Profesional) del Ministerio de Educación y Ciencia.
+– Oficial Administrativo de la Junta de Construcciones e Instalaciones y Equipo Escolar del Ministerio de Educación y Ciencia.
+– Administrativos del Patronato de Casas de Funcionarios del Ministerio de Educación y Ciencia.
+– Administrativa del Patronato de Formación Profesional del Ministerio de Educación y Ciencia.
+– Administrativa del Servicio de Publicaciones del Ministerio de Educación y Ciencia.
+– Administrativa de la Universidad de Alcalá de Henares del Ministerio de Educación y Ciencia.
+– Administrativa de la Universidad de Alicante del Ministerio de Educación y Ciencia.
+– Administrativa de la Universidad Balear del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Barcelona del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad Autónoma de Barcelona del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad Politécnica de Barcelona del Ministerio de Educación y Ciencia.
+– Administrativa de la Universidad de Cádiz del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Córdoba del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Extremadura del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Granada del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de La Laguna del Ministerio de Educación y Ciencia.
+– Administrativa de la Universidad Politécnica de Las Palmas del Ministerio de Educación y Ciencia.
+– Administrativa de la Universidad de León del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad Autónoma de Madrid del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad Politécnica de Madrid del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad Complutense de Madrid del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Málaga del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Murcia del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad Nacional de Educación a Distancia del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Oviedo del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad del País Vasco del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Salamanca del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Santander del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Santiago de Compostela del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Sevilla del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Valencia del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad Politécnica de Valencia del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Valladolid del Ministerio de Educación y Ciencia.
+– Administrativos de la Universidad de Zaragoza del Ministerio de Educación y Ciencia.
+– Administrativa del Instituto Español de Emigración del Ministerio de Trabajo y Seguridad Social.
+– Administrativa de Instituto Nacional de Empleo del Ministerio de Trabajo y Seguridad Social.
+– Administrativa de la Junta Económica General de Escuelas Sociales del Ministerio de Trabajo y Seguridad Social.
+– Administrativa de la Organización de Trabajos Portuarios del Ministerio de Trabajo y Seguridad Social.
+– Oficiales del Servicio de Publicaciones del Ministerio de Trabajo y Seguridad Social.
+– Ejecutivos del Instituto de Seguridad e Higiene en el Trabajo del Ministerio de Trabajo y Seguridad Social.
+– Administrativos del Instituto Nacional de Asistencia Social del Ministerio de Trabajo y Seguridad Social.
+– Administrativa del Instituto de Diversificación del Ahorro y Energía del Ministerio de Industria y Energía.
+– Administrativa del Instituto Geológico y Minero de España del Ministerio de Industria y Energía.
+– Administrativa del Instituto de la Pequeña y Mediana Empresa Industrial del Ministerio de Industria y Energía.
+– Administrativos de la Junta de Energía Nuclear del Ministerio de Industria y Energía.
+– Administrativa del Registro de la Propiedad Industrial del Ministerio de Industria y Energía.
+– Administrativa del Instituto Nacional de Industria del Ministerio de Industria y Energía.
+– Administrativos de la Agencia de Desarrollo Ganadero del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos de la Entidad Nacional de Seguros Agrarios del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos del Instituto de estudios Agrarios, Pesqueros y Alimentarios del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos del Instituto de Denominaciones de Origen del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativo del FORPPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativo del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos del Instituto Nacional de Semillas y Plantas de Vivero del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos Grupo A del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos de Grupo D del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos del Patronato de Promoción y Formación Profesional Marítimo-Pesquera del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos del Servicio de Extensión Agraria del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos del SENPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos de la Comisaría de Abastecimientos y Transportes (integrados en el SENPA) del Ministerio de Agricultura, Pesca y Alimentación.
+– Oficiales principales del Servicio Nacional de Cultivo y Fermentación del Tabaco del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos del Servicio de Pósitos del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativa del FROM del Ministerio de Agricultura, Pesca y Alimentación.
+– Administrativos del Boletín Oficial del Estado del Ministerio de la Presidencia.
+– Técnicos Contables del Boletín Oficial del Estado del Ministerio de la Presidencia.
+– Administrativos del Instituto Nacional de Administración Pública del Ministerio de la Presidencia.
+– Administrativos del Instituto Nacional de Publicidad del Ministerio de la Presidencia.
+– Administrativo de la Administración Turística Española del Ministerio de Transportes, Turismo y Comunicaciones.
+– Administrativa del Instituto de Estudios de Transportes y Comunicaciones del Ministerio de Transportes, Turismo y Comunicaciones.
+– Administrativa del Servicio de Publicaciones del Ministerio de Transportes, Turismo y Comunicaciones.
+– Administrativa de la Editora Nacional del Ministerio de Cultura.
+– Administrativos del Patronato de La Alhambra y del Generalife del Ministerio de Cultura.
+– Administrativa de Teatros Nacionales y Festivales de España del Ministerio de Cultura.
+– Administrativa del Instituto de Estudios de Administración Local del Ministerio de Administración Territorial.
+– Administrativos de la Administración Institucional de la Sanidad Nacional del Ministerio de Sanidad y Consumo.
+– Administrativa del Servicio de Publicaciones del Ministerio de Sanidad y Consumo.
+– Administrativa del Instituto Nacional de Técnica Aerospacial «Esteban Terradas» del Ministerio de Defensa.
+c) Escala Auxiliar de Organismos Autónomos.
+Se integran en la misma los funcionarios pertenecientes a las siguientes Escalas:
+– Auxiliares del Instituto de Cooperación Iberoamericana del Ministerio de Asuntos Exteriores.
+– Auxiliar del Instituto Hispano-Arabe de Cultura del Ministerio de Asuntos Exteriores.
+– Auxiliares del Patronato Protección de la Mujer del Ministerio de Justicia.
+– Auxiliares de la Obra de Protección de Menores del Ministerio de Justicia.
+– Auxiliar de la Junta Central de Acuartelamiento del Ministerio de Defensa.
+– Auxiliar del Fondo de Atenciones de la Marina del Ministerio de Defensa.
+– Auxiliar del Canal de Experiencias Hidrodinámicas de El Pardo del Ministerio de Defensa.
+– Auxiliar del Patronato de Casas Militares del Ministerio de Defensa.
+– Auxiliar del Patronato de Casas de la Armada del Ministerio de Defensa.
+– Auxiliar del Patronato de Apuestas Mutuas Deportivo-Benéficas del Ministerio de Economía y Hacienda.
+– Auxiliares del Servicio de Publicaciones del Ministerio de Economía y Hacienda.
+– Auxiliares del PMM del Ministerio de Economía y Hacienda.
+– Auxiliar del Consorcio de Compensación de Seguros del Ministerio de Economía y Hacienda.
+– Auxiliares del IRESCO del Ministerio de Economía y Hacienda.
+– Auxiliares de la Jefatura Central de Tráfico del Ministerio del Interior.
+– Auxiliares del Patronato Vivienda Guardia Civil del Ministerio del Interior.
+– Oficiales de primera y segunda y Auxiliares del Canal Imperial de Aragón del Ministerio de Obras Públicas y Urbanismo.
+– Oficial de primera y segunda de Administración y Auxiliar Administrativo de la Mancomunidad Canales Taibilla del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliares Administrativos de la Confederación Hidrográfica del Ebro del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliares Administrativos de la Confederación Hidrográfica del Sur de España del Ministerio de Obras Públicas y Urbanismo.
+– Oficiales Administrativos de la Confederación Hidrográfica del Guadalquivir del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliares de la Confederación Hidrográfica del Guadalquivir del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliar Administrativo de la Confederación Hidrográfica del Tajo del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliares de la Confederación Hidrográfica del Guadiana del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliares Administrativos de la Confederación Hidrográfica del Pirineo Oriental del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliar Administrativo de la Junta del Puerto de Sevilla del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliares Administrativos de la Confederación Hidrográfica del Norte de España del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliares y Perforistas del Parque Maquinaria Obras Públicas del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliares Administrativos de COPLACO del Ministerio de Obras Públicas y Urbanismo.
+– Oficiales Administrativos primera y segunda del Patronato de Casas del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliares Administrativos del Patronato de Casas del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliares del Servicio de Publicaciones del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliares del IPPV del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliar Administrativa del INCE del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliares (grupos primero y segundo) del CEDEX del Ministerio de Obras Públicas y Urbanismo.
+– Auxiliares de la Junta de Construcciones e Instalaciones y Equipo Escolar del Ministerio de Educación y Ciencia.
+– Auxiliares del Servicio de Publicaciones del Ministerio de Educación y Ciencia.
+– Auxiliares del Patronato de Casas del Ministerio de Educación y Ciencia.
+– Auxiliares Administrativos del Patronato de Promoción y Formación Profesional del Ministerio de Educación y Ciencia.
+– Auxiliares del Patronato de Promoción y Formación Profesional del Ministerio de Educación y Ciencia.
+– Auxiliares Administrativos del Instituto Orientación Educativa y Profesional del Ministerio de Educación y Ciencia.
+– Auxiliares Administrativos de Enseñanzas Integradas del Ministerio de Educación y Ciencia.
+– Auxiliar del Instituto Nacional de Asistencia y Promoción al Estudiante del Ministerio de Educación y Ciencia.
+– Auxiliares del extinguido Instituto Nacional de Ciencias de la Educación del Ministerio de Educación y Ciencia.
+– Auxiliares del Instituto Nacional de Educación Especial del Ministerio de Educación y Ciencia.
+– Auxiliar Administrativo del Consejo Superior de Investigaciones Científicas del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Barcelona del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Granada del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de La Laguna del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad Complutense de Madrid del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad Autónoma de Madrid del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad Politécnica de Madrid del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Murcia del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Oviedo del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Salamanca del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Santiago de Compostela del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Sevilla del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Valencia del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad Politécnica de Valencia del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Valladolid del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Zaragoza del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad Autónoma de Barcelona del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad del País Vasco del Ministerio de Educación y Ciencia.
+– Auxiliares de la Universidad Politécnica de Cataluña del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Córdoba del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Málaga del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Santander del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad Nacional de Educación a Distancia del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Extremadura del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad Balear del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de León del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Alcalá de Henares del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Alicante del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad de Cádiz del Ministerio de Educación y Ciencia.
+– Auxiliar de la Universidad Politécnica de Las Palmas del Ministerio de Educación y Ciencia.
+– Auxiliar del Instituto Nacional de Asistencia Social del Ministerio de Trabajo y Seguridad Social.
+– Auxiliar del Servicio de Publicaciones del Ministerio de Trabajo y Seguridad Social.
+– Auxiliares de la Junta Económica General de Escuelas Sociales del Ministerio de Trabajo y Seguridad Social.
+– Auxiliar del Instituto Español de Emigración del Ministerio de Trabajo y Seguridad Social.
+– Auxiliar del Instituto Nacional de Empleo del Ministerio de Trabajo y Seguridad Social.
+– Auxiliares del Instituto de Seguridad e Higiene en el Trabajo del Ministerio de Trabajo y Seguridad Social.
+– Auxiliar Administrativa de la Junta de Energía Nuclear del Ministerio de Industria y Energía.
+– Auxiliares del Registro de la Propiedad Industrial del Ministerio de Industria y Energía.
+– Auxiliares del Instituto Geológico y Minero de España del Ministerio de Industria y Energía.
+– Auxiliar del Centro de Estudios de la Energía del Ministerio de Industria y Energía.
+– Auxiliares del Instituto de la Pequeña y Mediana Empresa Industrial del Ministerio de Industria y Energía.
+– Auxiliar del Instituto Nacional de Industria del Ministerio de Industria y Energía.
+– Auxiliares del Servicio Nacional de Productos Agrarios del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares del Servicio Nacional del Cultivo y Fermentación del Tabaco del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliar del Servicio de Pósitos del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares Administrativos del Servicio de Defensa contra Plagas e Inspección Fitopatológica del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares Administrativos del Servicio de Extensión Agraria del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares Administrativos del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares Administrativos del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares del Instituto Nacional de Semillas y Plantas de Vivero del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares Administrativos del Instituto Nacional de Investigaciones Agrarias del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares Administrativos primera y segunda del Instituto Nacional de Investigaciones Agrarias del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares Taquimecanógrafos del FORPPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares de la Agencia de Desarrollo Ganadero del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares Administrativos del Instituto Nacional de Denominaciones de Origen del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares Administrativos del Instituto de Estudio Agrarios, Pesqueros y Alimentarios del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares Administrativos grupo A del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares Administrativos grupo D del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares del Patronato de Formación Profesional Marítimo-Pesquera del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares Oficinas del Instituto Español de Oceanografía del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliar del ENESA del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliar de la Comisaría de Abastecimientos y Transportes del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliar del FROM del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares del Boletín Oficial del Estado del Ministerio de la Presidencia.
+– Auxiliares del Instituto Nacional para la Administración Pública del Ministerio de la Presidencia.
+– Auxiliares del Instituto Nacional de Publicidad del Ministerio de la Presidencia.
+– Auxiliares del Instituto de Estudios de Transportes y Comunicaciones del Ministerio de Transportes, Turismo y Comunicaciones.
+– Auxiliar de la Administración Turística Española del Ministerio de Transportes, Turismo y Comunicaciones.
+– Auxiliar del Servicio de Publicaciones del Ministerio de Transportes, Turismo y Comunicaciones.
+– Oficiales de los Servicios Centrales y Provinciales de la Junta de Detasas del Ministerio de Transportes, Turismo y Comunicaciones.
+– Auxiliares de los Servicios Centrales y Provinciales de la Junta de Detasas del Ministerio de Transporte, Turismo y Comunicaciones.
+– Auxiliar de la Editora Nacional del Ministerio de Cultura.
+– Auxiliar del Patronato Nacional de Museos del Ministerio de Cultura.
+– Auxiliares del Patronato Alhambra-Generalife del Ministerio de Cultura.
+– Auxiliares de la Orquesta y Coros Nacionales de España del Ministerio de Cultura.
+– Auxiliares de Teatros Nacionales y Festivales de España del Ministerio de Cultura.
+– Auxiliar del Instituto de Estudios de la Administración Local del Ministerio de Administración Territorial.
+– Auxiliares de la Administración Institucional de la Sanidad Nacional del Ministerio de Sanidad y Consumo.
+– Auxiliares del Servicio de Publicaciones del Ministerio de Sanidad y Consumo.
+– Auxiliar del Instituto Nacional de Técnica Aerospacial «Esteban Terradas» del Ministerio de Defensa.
+d) Escala Subalterna de Organismos Autónomos.
+Se integran en la misma los funcionarios pertenecientes a las siguientes Escalas:
+– Subalternos del Instituto de Cooperación Iberoamericana del Ministerio de Asuntos Exteriores.
+– Subalternos del Instituto Hispano-Arabe de Cultura del Ministerio de Asuntos Exteriores.
+– Ordenanzas del Patronato de Protección a la Mujer del Ministerio de Justicia.
+– Conserjes Mecánicos del Patronato de Protección a la Mujer del Ministerio de Justicia.
+– Subalternos de la Obra de Protección de Menores del Ministerio de Justicia.
+– Vigilantes de la Obra de Protección de Menores del Ministerio de Justicia.
+– Subalterno del Fondo de Atenciones de la Marina del Ministerio de Defensa.
+– Subalterno del Canal de Experiencias Hidrodinámicas de El Pardo del Ministerio de Defensa.
+– Subalterno del Patronato de Casas de Militares del Ministerio de Defensa.
+– Subalterno del Patronato de Casas de la Armada del Ministerio de Defensa.
+– Subalternos del Patronato de Apuestas Mutuas Deportivo-Benéficas del Ministerio de Economía y Hacienda.
+– Subalternos del Consorcio Compensación de Seguros del Ministerio de Economía y Hacienda.
+– Subalternos del IRESCO del Ministerio de Economía y Hacienda.
+– Subalternos de la Jefatura Central de Tráfico del Ministerio del Interior.
+– Subalternos Canal Imperial de Aragón del MOPU.
+– Subalternos Junta Administrativa Obras Públicas de Las Palmas del MOPU.
+– Subalternos Junta Administrativa Obras Públicas de Santa Cruz de Tenerife del MOPU.
+– Subalterno Mancomunidad Canales del Taibilla del MOPU.
+– Subalternos Confederación Hidrográfica del Ebro del MOPU.
+– Subalternos Confederación Hidrográfica del Sur de España del MOPU.
+– Subalternos Confederación Hidrográfica del Tajo del MOPU.
+– Subalternos de la COPLACO del MOPU.
+– Subalternos del Patronato de Casas del MOPU.
+– Subalternos del Servicio de Publicaciones del MOPU.
+– Subalternos del IPPV del MOPU.
+– Subalternos del INCE del MOPU.
+– Subalternos (grupos primero y segundo) del CEDEX del MOPU.
+– Subalternos del Servicio de Publicaciones del Ministerio de Educación y Ciencia.
+– Subalternos del Patronato de Casas del Ministerio de Educación y Ciencia.
+– Subalternos del Patronato de Promoción de Formación Profesional del Ministerio de Educación y Ciencia.
+– Subalternos del Instituto de Orientación Educativa y Profesional (integrados en el Patronato de Promoción de Formación Profesional) del Ministerio de Educación y Ciencia.
+– Subalterna del INAPE del Ministerio de Educación y Ciencia.
+– Subalternos del extinguido INCIE del Ministerio de Educación y Ciencia.
+– Subalternos del INEE del Ministerio de Educación y Ciencia.
+– Subalternos del Consejo Superior de Investigaciones Científicas del Ministerio de Educación y Ciencia.
+– Subalternos de la Junta de Construcciones, Instalaciones y Equipo Escolar del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Barcelona del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Granada del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de La Laguna del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad Complutense de Madrid del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Murcia del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Oviedo del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Salamanca del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Santiago de Compostela del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Sevilla del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad del País Vasco del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Valencia del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Valladolid del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Zaragoza del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad Autónoma de Madrid del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad Autónoma de Barcelona del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad Politécnica de Cataluña del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad Politécnica de Valencia del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad Politécnica de Madrid del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Córdoba del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Málaga del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Santander del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad Nacional de Educación a Distancia del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Extremadura del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad Balear del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Alcalá de Henares del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de León del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Alicante del Ministerio de Educación y Ciencia.
+– Subalternos de la Universidad de Cádiz del Ministerio de Educación y Ciencia.
+– Subalterna de la Universidad Politécnica de Las Palmas del Ministerio de Educación y Ciencia.
+– Subalternos del Instituto Nacional de Enseñanzas Integradas del Ministerio de Educación y Ciencia.
+– Subalternos de la Organización de Trabajos Portuarios del Ministerio de Trabajo y Seguridad Social.
+– Subalterna (Ordenanzas) del Instituto Nacional de Asistencia Social del Ministerio de Trabajo y Seguridad Social.
+– Mozos del Instituto Nacional de Seguridad e Higiene en el Trabajo del Ministerio de Trabajo y Seguridad Social.
+– Subalternos del Servicio de Publicaciones del Ministerio de Trabajo y Seguridad Social.
+– Subalternos de la Junta Económica General de Escuelas Sociales del Ministerio de Trabajo y Seguridad Social.
+– Subalterna del Instituto Español de Emigración del Ministerio de Trabajo y Seguridad Social.
+– Subalternos del Instituto Nacional de Empleo del Ministerio de Trabajo y Seguridad Social.
+– Subalternos del Instituto de Seguridad e Higiene en el Trabajo del Ministerio de Trabajo y Seguridad Social.
+– Subalternos de la Junta de Energía Nuclear del Ministerio de Industria y Energía.
+– Subalternos del Registro de la Propiedad Industrial del Ministerio de Industria y Energía.
+– Subalterna del Instituto Geológico y Minero de España del Ministerio de Industria y Energía.
+– Subalterna del Centro de Estudios de la Energía del Ministerio de Industria y Energía.
+– Subalterna del Instituto Nacional de Industria del Ministerio de Industria y Energía.
+– Subalternos del SENPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Subalterno del Servicio Nacional de Cultivo y Fermentación del Tabaco del Ministerio de Agricultura, Pesca y Alimentación.
+– Subalternos del Servicio de Pósitos del Ministerio de Agricultura, Pesca y Alimentación.
+– Subalternos del Servicio de Extensión Agraria del Ministerio de Agricultura, Pesca y Alimentación.
+– Ordenanzas del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Ordenanzas del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Subalternos del Instituto de Semillas y Plantas de Vivero del Ministerio de Agricultura, Pesca y Alimentación.
+– Conserjes y Ordenanzas del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Ordenanzas del FORPPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Subalternos del INDO del Ministerio de Agricultura, Pesca y Alimentación.
+– Subalternos del Instituto de Estudios Agrarios, Pesqueros y Alimentarios del Ministerio de Agricultura, Pesca y Alimentación.
+– Subalternos grupo A del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Subalternos grupo D del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Subalternos del Patronato de Promoción y Formación Profesional Marítimo-Pesqueros del Ministerio de Agricultura, Pesca y Alimentación.
+– Subalternos de ENESA del Ministerio de Agricultura, Pesca y Alimentación.
+– Subalternos y Ordenanzas de tercera de la Comisaría de Abastecimientos y Transportes (integrados en el SENPA) del Ministerio de Agricultura, Pesca y Alimentación.
+– Subalterna del FROM del Ministerio de Agricultura, Pesca y Alimentación.
+– Subalternos del Instituto Nacional de Publicidad del Ministerio de la Presidencia.
+– Subalternos del Instituto de Estudios de Transportes y Comunicaciones del Ministerio de Transportes, Turismo y Comunicaciones.
+– Subalterna del Servicio de Publicaciones del Ministerio de Transportes, Turismo y Comunicaciones.
+– Subalterna de los Servicios Centrales y Provinciales de las Juntas de Detasas del Ministerio de Transportes, Turismo y Comunicaciones.
+– Ordenanzas de la Editora Nacional del Ministerio de Cultura.
+– Ordenanzas de Teatros Nacionales y Festivales de España del Ministerio de Cultura.
+– Ujieres del Instituto Nacional de Administración Local del Ministerio de Administración Territorial.
+– Subalternos del AISNA del Ministerio de Sanidad y Consumo.
+– Subalternos del Servicio de Publicaciones del Ministerio de Sanidad y Consumo.
+– Subalterna del Instituto Nacional de Técnica Aerospacial «Esteban Terradas» del Ministerio de Defensa.
+B) DE CARACTER DEPARTAMENTAL
+1. Médicos OO. AA. Ministerio de Justicia. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Médicos del Patronato de Protección a la Mujer del Ministerio de Justicia.
+– Médicos Obra Protección de Menores del Ministerio de Justicia.
+2. ATS de OO. AA. Ministerio de Justicia. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Enfermera del Patronato de Protección a la Mujer del Ministerio de Justicia.
+– Matronas del Patronato de Protección a la Mujer del Ministerio de Justicia.
+– ATS Obra Protección de Menores del Ministerio de Justicia.
+3. Asistentes Sociales OO. AA. Ministerio de Justicia. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Asistentes Sociales del Patronato de Protección a la Mujer del Ministerio de Justicia.
+– Asistentes Sociales de la Obra de Protección de Menores del Ministerio de Justicia.
+4. Técnicos Facultativos Superiores OO. AA. Ministerio de Defensa. Se Integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Técnicos Facultativos Superiores de la Junta Administrativa del Fondo de Atenciones de la Marina del Ministerio de Defensa.
+– Ingenieros Canal Experiencias Hidrodinámicas de El Pardo del Ministerio de Defensa.
+– Arquitecto del Patronato de Casas de la Armada del Ministerio de Defensa.
+5. Técnicos Grado Medio OO. AA. Ministerio de Defensa. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Ingenieros Técnicos Junta Administrativa Fondo Atenciones de la Marina del Ministerio de Defensa.
+– Ingenieros Técnicos Canal Experiencias Hidrodinámicas de El Pardo del Ministerio de Defensa.
+– Aparejador del Patronato de Casas de la Armada del Ministerio de Defensa.
+6. Técnicos Contables OO. AA. Ministerio de Defensa. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Técnicos Contables del Patronato de Casas Militares del Ministerio de Defensa.
+– Técnicos Contables del Patronato de Casas de la Armada del Ministerio de Defensa.
+7. Delineantes OO. AA. Ministerio de Defensa. Se integran en las mismas los funcionarios pertenecientes a las Escalas de:
+– Delineantes Junta Central Acuartelamiento del Ministerio de Defensa.
+– Delineantes del Fondo de Atenciones de la Marina del Ministerio de Defensa.
+– Delineantes Canal Experiencias Hidrodinámicas de El Pardo del Ministerio de Defensa.
+– Delineantes del Patronato de Casas Militares del Ministerio de Defensa.
+– Delineante Calcador del Patronato de Casas de la Armada del Ministerio de Defensa.
+8. Aparejadores OO. AA. Ministerio de Economía y Hacienda. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Aparejador Parque Móvil Ministerial del Ministerio de Economía y Hacienda.
+– Aparejador del Patronato de Casas del PMM del Ministerio de Economía y Hacienda.
+9. Técnicos Facultativos Superiores OO. AA. del MOPU. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Ingenieros Superiores Mancomunidad Canales del Taibilla del MOPU.
+– Ingenieros Superiores Confederación Hidrográfica del Duero del MOPU.
+– Ingenieros Superiores Confederación Hidrográfica del Tajo del MOPU.
+– Ingenieros Superiores Confederación Hidrográfica del Ebro del MOPU.
+– Ingenieros Superiores Confederación Hidrográfica del Sur de España del MOPU.
+– Ingenieros Superiores Confederación Hidrográfica del Guadalquivir del MOPU.
+– Ingenieros Superiores Confederación Hidrográfica del Guadiana del MOPU.
+– Ingenieros Superiores Confederación Hidrográfica del Júcar del MOPU.
+– Ingenieros Superiores Confederación Pirineo Oriental del MOPU.
+– Ingenieros Superiores Confederación Hidrográfica del Segura del MOPU.
+– Ingenieros Superiores Confederación Hidrográfica Norte de España del MOPU.
+– Ingenieros Superiores Junta Puerto de La Luz y Las Palmas del MOPU.
+– Ingenieros Superiores Junta Puerto de Sevilla del MOPU.
+– Ingenieros de Caminos, Canales y Puertos del CEDEX del MOPU.
+– Técnicos Facultativos Grado Superior grupo primero del CEDEX del MOPU.
+– Arquitecto del INCE del MOPU.
+– Facultativa del INCE del MOPU.
+– Técnicos Facultativos Grado Superior (grupo 2, 3 y 4) del CEDEX del MOPU.
+– Ingenieros de Caminos Junta del Puerto de Pasajes del MOPU.
+– Facultativa Superior IPPV del MOPU.
+– Facultativo COPLACO del MOPU.
+– Químicos o Farmacéuticos Confederación Hidrográfica del Duero del MOPU.
+– Químicos o Farmacéuticos Confederación Hidrográfica del Ebro del MOPU.
+– Químicos o Farmacéuticos Confederación Hidrográfica del Sur de España del MOPU.
+– Químicos o Farmacéuticos Confederación Hidrográfica del Guadalquivir del MOPU.
+– Licenciados en Ciencias de la Confederación Hidrográfica del Guadiana del MOPU.
+– Químicos o Farmacéuticos Confederación Hidrográfica del Tajo del MOPU.
+– Químicos o Farmacéuticos Confederación Hidrográfica del Norte de España del MOPU.
+10. Secretarios Contadores Juntas Administrativas MOPU. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Secretario Contador Junta Administrativa OP de Las Palmas del MOPU.
+– Secretario Contador Junta Administrativa OP de Santa Cruz de Tenerife del MOPU.
+11. Auxiliares Facultativos Juntas Administrativas del Ministerio de Obras Públicas y Urbanismo. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Auxiliares Facultativos Junta Administrativa Obras Públicas Las Palmas del MOPU.
+– Auxiliares Facultativos Junta Administrativa Obras Públicas Santa Cruz de Tenerife del MOPU.
+12. Titulados Escuelas Técnicas Grado Medio OO. AA. MOPU. Se integran en la misma los funcionarios pertenecientes a las escalas de:
+– Titulados Escuelas Técnicas Grado Medio de la Confederación Hidrográfica del Duero del MOPU.
+– Titulados Escuelas Técnicas Grado Medio de la Confederación Hidrográfica del Ebro del MOPU.
+– Titulados Escuelas Técnicas Grado Medio de la Confederación Hidrográfica del Sur de España del MOPU.
+– Titulados Escuelas Técnicas Grado Medio de la Confederación Hidrográfica del Guadalquivir del MOPU.
+– Titulados Escuelas Técnicas Grado Medio de la Confederación Hidrográfica del Guadiana del MOPU.
+– Titulados Escuelas Técnicas Grado Medio de la Junta del Puerto de La Luz y Las Palmas del MOPU.
+– Titulados Escuelas Técnicas Grado Medio de la Confederación Hidrográfica del Júcar del MOPU.
+– Titulados Escuelas Técnicas Grado Medio de la Confederación Hidrográfica del Pirineo Oriental del MOPU.
+– Titulados Escuelas Técnicas Grado Medio de la Confederación Hidrográfica del Segura del MOPU.
+– Titulados Escuelas Técnicas Grado Medio de la Confederación Hidrográfica del Tajo del MOPU.
+– Titulados Escuelas Técnicas Grado Medio de la Confederación Hidrográfica del Norte de España del MOPU.
+– Titulados Escuelas Técnicas Grado Medio IPPV del MOPU.
+– Ingenieros Técnicos de OP del CEDEX del MOPU.
+– Técnicos Facultativos de Grado Medio del CEDEX del MOPU.
+– Auxiliar Facultativo del INCE del MOPU.
+– Titulado Escuelas Técnicas de Grado Medio Junta Puerto de Sevilla y Ría del Guadalquivir del MOPU.
+– Ayudantes OP Mancomunidad Canales de Taibilla del MOPU.
+– Ayudante Facultativo de COPLACO del MOPU.
+– Técnico Superior de segunda de la Mancomunidad de los Canales de Taibilla del MOPU.
+– Titulados de Escuelas Técnicas de Grado Medio de la Comisión Administrativa de Grupos de Puertos del MOPU.
+13. Depositarios Pagadores Juntas Administrativas de Obras Públicas del MOPU. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Depositario Pagador Junta Administrativa Obras Públicas Las Palmas del MOPU.
+– Depositario Pagador Junta Administrativa Obras Públicas Santa Cruz de Tenerife del MOPU.
+14. Depositarios Pagadores Juntas de Puertos del MOPU. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Depositario Pagador Junta Puerto Algeciras-La Línea del MOPU.
+– Depositario Pagador Junta Puerto Alicante del MOPU.
+– Depositario Pagador Junta Puerto Almería del MOPU.
+– Depositario Pagador Junta Puerto Gijón del MOPU.
+– Depositario Pagador Junta Puerto Avilés del MOPU.
+– Depositario Pagador Junta Puerto Cádiz del MOPU.
+– Depositario Pagador Junta Puerto Cartagena del MOPU.
+– Depositario Pagador Junta Puerto Castellón del MOPU.
+– Depositario Pagador Junta Puerto Ceuta del MOPU.
+– Depositario Pagador Junta Puerto La Coruña del MOPU.
+– Depositario Pagador Junta Puerto Ferrol del MOPU.
+– Depositario Pagador Junta Puerto La Luz-Palmas del MOPU.
+– Depositario Pagador Junta Puerto Málaga del MOPU.
+– Depositario Pagador Junta Puerto Melilla del MOPU.
+– Depositario Pagador Junta Puerto Palma de Mallorca del MOPU.
+– Depositario Pagador Junta Puerto Pasajes del MOPU.
+– Depositario Pagador Junta del Puerto de Santa Cruz de Tenerife del MOPU.
+– Depositario Pagador Junta Puerto Santander del MOPU.
+– Depositario Pagador Junta Puerto Sevilla del MOPU.
+– Depositario Pagador Junta Puerto Tarragona del MOPU.
+– Depositario Pagador Junta Puerto Vigo del MOPU.
+– Depositario Pagador Junta Puerto Pontevedra del MOPU.
+– Depositario Pagador Junta Puerto Villagarcía de Arosa del MOPU.
+– Depositario Pagador Comisión Administrativa Grupos Puertos del MOPU.
+15. Comisarios de las Juntas de Puertos de los OO. AA. del MOPU. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Comisario Junta Puerto de Algeciras del MOPU.
+– Comisario Junta Puerto de Alicante del MOPU.
+– Comisario Junta Puerto de Almería del MOPU.
+– Comisario Junta Puerto de Gijón del MOPU.
+– Comisario Junta Puerto de Avilés del MOPU.
+– Comisario Junta Puerto de Cádiz del MOPU.
+– Comisario Junta Puerto de Cartagena del MOPU.
+– Comisario Junta Puerto de Castellón del MOPU.
+– Comisario Junta Puerto de Ceuta del MOPU.
+– Comisario Junta Puerto de La Coruña del MOPU.
+– Comisario Junta Puerto de Ferrol del MOPU.
+– Comisario Junta Puerto La Luz-Palmas del MOPU.
+– Comisario Junta Puerto de Málaga del MOPU.
+– Comisario Junta Puerto de Melilla del MOPU.
+– Comisario Junta Puerto de Palma de Mallorca del MOPU.
+– Comisario Junta Puerto de Pasajes del MOPU.
+– Comisario Junta Puerto de Santa Cruz de Tenerife del MOPU.
+– Comisario Junta Puerto de Santander del MOPU.
+– Comisario Junta Puerto de Sevilla del MOPOU.
+– Comisario Junta Puerto de Tarragona del MOPU.
+– Comisario Junta Puerto y Ría de Vigo del MOPU.
+– Comisario Comisión Administrativa Grupo Puertos del MOPU.
+16. Contramaestres Titulados de las Juntas de Puertos de los OO. AA. del MOPU. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Contramaestres Titulados Junta Puerto Gijón del MOPU.
+– Contramaestres Titulados Junta Puerto Pasajes del MOPU.
+– Contramaestres Titulados Junta Puerto Santa Cruz de Tenerife del MOPU.
+– Contramaestres Titulados Junta Puerto Sevilla del MOPU.
+– Contramaestres Titulados Junta Puerto Tarragona del MOPU.
+17. Capitanes de Marina Mercante de las Juntas de Puertos de los OO. AA. del MOPU. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Capitán Marina Mercante Junta Puerto Avilés del MOPU.
+– Capitán Marina Mercante Junta Puerto Melilla del MOPU.
+– Capitán Marina Mercante Junta Puerto Pasajes del MOPU.
+– Capitán Marina Mercante Junta Puerto Santander del MOPU.
+– Capitán Marina Mercante Junta Puerto Sevilla del MOPU.
+– Capitán Marina Mercante Comisión Administrativa Grupos Puertos del MOPU.
+18. Maquinistas Navales de Puertos del Ministerio de Obras Públicas y Urbanismo. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Maquinista Naval de la Junta del Puerto de Avilés del Ministerio de Obras Públicas y Urbanismo.
+– Maquinista Naval de la Junta del Puerto de Cádiz del Ministerio de Obras Públicas y Urbanismo.
+– Maquinista Naval de la Junta del Puerto de Pasajes del Ministerio de Obras Públicas y Urbanismo.
+– Maquinista Naval de la Junta del Puerto de Santander del Ministerio de Obras Públicas y Urbanismo.
+– Maquinista Naval de la Junta del Puerto de Sevilla del Ministerio de Obras Públicas y Urbanismo.
+– Maquinista Naval de la Comisión Administrativa de Grupos de Puertos del Ministerio de Obras Públicas y Urbanismo.
+– Maquinista Naval de la Junta del Puerto de Melilla del Ministerio de Obras Públicas y Urbanismo.
+19. Técnicos de Proyectos y Obras de las Confederaciones Hidrográficas de Obras Públicas del Ministerio de Obras Públicas y Urbanismo. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Técnico Auxiliar de Proyectos y Obras de la Confederación Hidrográfica del Tajo del Ministerio de Obras Públicas y Urbanismo.
+– Técnico Auxiliar de Proyectos y Obras de la Confederación Hidrográfica del Norte de España del MOPU.
+– Técnico Auxiliar de Proyectos y Obras de la Confederación Hidrográfica del Sur de España del MOPU.
+20. Delineantes de los Organismos Autónomos del Ministerio de Obras Públicas y Urbanismo. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Auxiliares de Delineación de la Junta Administrativa de Santa Cruz de Tenerife del Ministerio de Obras Públicas y Urbanismo.
+– Delineante Calcador de la Junta del Puerto de Algeciras-La Línea del Ministerio de Obras Públicas y Urbanismo.
+– Delineantes Proyectistas de la Junta del Puerto de Almería del MOPU.
+– Delineante Calcador Junta del Puerto de Avilés del Ministerio de Obras Públicas y Urbanismo.
+– Delineante Calcador de la Junta del Puerto de Cartagena del MOPU.
+– Delineantes Proyectistas de la Junta del Puerto de Ceuta del MOPU.
+– Delineantes de la Junta del Puerto de La Luz y Las Palmas del MOPU.
+– Delineante Calcador de la Junta del Puerto de Melilla del Ministerio de Obras Públicas y Urbanismo.
+– Delineantes Proyectistas de la Junta del Puerto de Santa Cruz de Tenerife del MOPU.
+– Delineante Calcador de la Junta del Puerto de Santander del MOPU.
+– Delineantes de la Junta del Puerto de Sevilla del MOPU.
+– Delineante Calcador de la Junta del Puerto y Ría de Vigo del MOPU.
+– Delineantes Proyectistas de la Comisión Administrativa de Grupos de Puertos del MOPU.
+– Delineantes del Instituto de Promoción Pública de la Vivienda del MOPU.
+– Delineantes del CEDEX del MOPU.
+– Delineantes (grupos primero y segundo) del CEDEX del Ministerio de Obras Públicas y Urbanismo.
+– Delineantes Proyectistas de la Mancomunidad de Canales del Taibilla del MOPU.
+– Delineantes de COPLACO del MOPU.
+– Delineantes del Servicio de Publicaciones del MOPU.
+– Delineantes de la Confederación Hidrográfica del Ebro del Ministerio de Obras Públicas y Urbanismo.
+– Delineantes de la Confederación Hidrográfica del Sur de España del MOPU.
+– Delineantes primera de la Confederación Hidrográfica del Guadalquivir del MOPU.
+– Delineante Superior de la Confederación Hidrográfica del Guadalquivir del MOPU.
+– Delineantes de la Confederación Hidrográfica del Guadiana del MOPU.
+– Delineantes de la Confederación Hidrográfica del Pirineo Oriental del MOPU.
+– Delineantes de la Confederación Hidrográfica del Tajo del Ministerio de Obras Públicas y Urbanismo.
+– Delineantes de la Confederación Hidrográfica del Norte de España del MOPU.
+21. Contramaestres de Puertos de los Organismos Autónomos del Ministerio de Obras Públicas y Urbanismo. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Contramaestre de la Junta del Puerto de Alicante del Ministerio de Obras Públicas y Urbanismo.
+– Contramaestre de la Junta del Puerto de Almería del Ministerio de Obras Públicas y Urbanismo.
+– Contramaestre de la Junta del Puerto de Gijón del Ministerio de Obras Públicas y Urbanismo.
+– Contramaestre de la Junta del Puerto de Avilés del Ministerio de Obras Públicas y Urbanismo.
+– Contramaestre de la Junta del Puerto de Cartagena del Ministerio de Obras Públicas y Urbanismo.
+– Contramaestre de la Junta del Puerto de Ceuta del Ministerio de Obras Públicas y Urbanismo.
+– Contramaestre de Taller de la Junta del Puerto de La Coruña del MOPU.
+– Contramaestre de la Junta del Puerto de La Luz y Las Palmas del MOPU.
+– Contramaestre de la Junta del Puerto de Málaga del MOPU.
+– Contramaestre de Servicio de la Junta del Puerto de Melilla del MOPU.
+– Contramaestre de la Junta del Puerto de Palma de Mallorca del MOPU.
+– Contramaestre de la Junta del Puerto de Pasajes del MOPU.
+– Contramaestre de la Junta del Puerto de Santander del MOPU.
+– Contramaestre de la Junta del Puerto y Ría de Vigo del MOPU.
+– Contramaestre de la Junta del Puerto de Villagarcía de Arosa del MOPU.
+– Contramaestre de la Comisión Administrativa de Grupos de Puertos del MOPU.
+22. Patrones de Cabotaje de los Organismos Autónomos del Ministerio de Obras Públicas y Urbanismo. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Patrón de Cabotaje de la Junta del Puerto de Gijón del MOPU.
+– Patrón de Cabotaje de la Junta del Puerto de Avilés del MOPU.
+– Patrón de Cabotaje de la Junta del Puerto de Castellón del MOPU.
+– Patrón de Cabotaje de la Junta del Puerto de La Coruña del MOPU.
+– Patrón de Cabotaje de la Junta del Puerto de Málaga del MOPU.
+– Patrón de Cabotaje de la Junta del Puerto de Melilla del MOPU.
+– Patrón de Cabotaje de la Junta del Puerto de Palma de Mallorca del MOPU.
+– Patrón de Cabotaje de la Junta del Puerto de Pasajes del MOPU.
+– Patrón de Cabotaje de la Junta del Puerto de Santander del MOPU.
+– Patrón de Cabotaje de la Junta del Puerto y Ría de Vigo del MOPU.
+– Patrón de Cabotaje de la Comisión Administrativa de Grupos de Puertos del MOPU.
+23. Practicantes de los Organismos Autónomos del Ministerio de Obras Públicas y Urbanismo. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Practicantes de la Junta del Puerto de Alicante del MOPU.
+– Practicantes Titulados de la Junta del Puerto de Almería del MOPU.
+– Practicantes Titulados de la Junta del Puerto de Gijón del MOPU.
+– Practicantes de la Junta del Puerto del Ferrol del MOPU.
+– Practicantes Titulados de la Junta del Puerto de Melilla del MOPU.
+– Practicantes Titulados de la Junta del Puerto de Pasajes del MOPU.
+– Practicantes Titulados de la Junta del Puerto de Santander del MOPU.
+– Practicantes Titulados de la Junta del Puerto de Sevilla del MOPU.
+24. Fogoneros de los Organismos Autónomos del Ministerio de Obras Públicas y Urbanismo. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Fogoneros Habilitados de la Junta del Puerto de Avilés del MOPU.
+– Fogoneros Habilitados de la Junta del Puerto de La Coruña del MOPU.
+– Fogoneros Habilitados de la Junta del Puerto de Palma de Mallorca del MOPU.
+– Fogoneros Habilitados de la Junta del Puerto de Pasajes del MOPU.
+– Fogoneros Habilitados de la Junta del Puerto de Santander del MOPU.
+– Fogoneros Habilitados de la Junta del Puerto y Ría de Vigo del MOPU.
+– Fogoneros Habilitados de la Comisión Administrativa de Grupos de Puertos del MOPU.
+25. Técnicos Facultativos Superiores de los Organismos Autónomos del Ministerio de Educación y Ciencia. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Facultativa de la Junta de Construcciones, Instalaciones y Equipo Escolar del Ministerio de Educación y Ciencia.
+– Titulado Superior Especializado de la Universidad de Barcelona del Ministerio de Educación y Ciencia.
+– Escala de Arquitectos de la Junta de Construcciones, Instalaciones y Equipo Escolar del Ministerio de Educación y Ciencia.
+26. Titulados de Escuelas Técnicas de Grado Medio de los Organismos Autónomos del Ministerio de Educación y Ciencia. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Titulado Grado Medio de Servicio de Publicaciones, Ministerio de Educación y Ciencia.
+– Titulados Escuelas Técnicas de Grado Medio del Patronato de Casas de Funcionarios del Ministerio de Educación y Ciencia.
+– Titulados Escuelas Técnicas de Grado Medio de la Junta de Construcciones, Instalaciones y Equipo Escolar del Ministerio de Educación y Ciencia.
+– Titulados Escuelas Técnicas de Grado Medio de la Universidad Complutense de Madrid del Ministerio de Educación y Ciencia.
+– Titulado Técnico Especializado de la Universidad de Barcelona del Ministerio de Educación y Ciencia.
+27. Auxiliares de Archivos, Bibliotecas y Museos de los Organismos Autónomos del Ministerio de Educación y Ciencia. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Barcelona del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Granada del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de La Laguna del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad Complutense de Madrid del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Murcia del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Oviedo del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Salamanca del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Santiago de Compostela del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Sevilla del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Valencia del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Valladolid del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Zaragoza del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad Autónoma de Madrid del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad Autónoma de Barcelona del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad Autónoma del País Vasco del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad Politécnica de Cataluña del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad Politécnica de Valencia del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad Politécnica de Madrid del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Córdoba del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Málaga del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Santander del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad Nacional de Educación a Distancia del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Extremadura del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad Balear del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Alcalá de Henares del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de León del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Alicante del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad de Cádiz del Ministerio de Educación y Ciencia.
+– Auxiliares de Archivos, Bibliotecas y Museos de la Universidad Politécnica de Las Palmas del Ministerio de Educación y Ciencia.
+28. Delineantes de los Organismos Autónomos del Ministerio de Educación y Ciencia. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Delineantes de la Junta de Construcciones, Instalaciones y Equipo Escolar del Ministerio de Educación y Ciencia.
+– Delineantes de la Universidad Complutense de Madrid del Ministerio de Educación y Ciencia.
+29. Conductores de los Organismos Autónomos del Ministerio de Trabajo y Seguridad Social. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Conductores Mecánicos y Servicio Auxiliar del Instituto Nacional de Empleo del Ministerio de Trabajo y Seguridad Social.
+– Conductores del Instituto Nacional de Asistencia Social del Ministerio de Trabajo y Seguridad Social.
+30. Telefonistas de los Organismos Autónomos del Ministerio de Trabajo y Seguridad Social. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Telefonista del Instituto Nacional de Asistencia Social del Ministerio de Trabajo y Seguridad Social.
+– Telefonista del Instituto Nacional de Seguridad e Higiene en el Trabajo del Ministerio de Trabajo y Seguridad Social.
+31. Titulados Superiores de los Organismos Autónomos del Ministerio de Industria y Energía. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Titulado Superior de la Junta de Energía Nuclear del Ministerio de Industria y Energía.
+– Facultativa Superior del INI del Ministerio de Industria y Energía.
+– Técnicos Superiores del Instituto para la Diversificación del Ahorro y la Energía del Ministerio de Industria y Energía.
+– Asesores Técnicos del Registro de la Propiedad Industrial del Ministerio de Industria y Energía.
+– Letrados del Registro de la Propiedad Industrial del Ministerio de Industria y Energía.
+– Escala de Titulados Superiores del Instituto Geológico y Minero de España del Ministerio de Industria y Energía.
+32. Titulados de Escuelas Técnicas de Grado Medio de los Organismos Autónomos del Ministerio de Industria y Energía. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Titulados Medios de la Junta de Energía Nuclear del Ministerio de Industria y Energía.
+– Titulado de Escuela Técnica de Grado Medio del Registro de la Propiedad Industrial del Ministerio de Industria y Energía.
+– Titulados Técnicos de Grado Medio del Instituto Geológico y Minero de España del Ministerio de Industria y Energía.
+– Titulados Técnicos del Grado Medio del Centro de Estudios de la Energía del Ministerio de Industria y Energía.
+– Técnica de Grado Medio del INI del Ministerio de Industria y Energía.
+33. Delineantes de Organismos Autónomos del Ministerio de Industria y Energía. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Delineantes de la Junta de Energía Nuclear del Ministerio de Industria y Energía.
+– Delineantes del Instituto Geológico y Minero de España del Ministerio de Industria y Energía.
+34. Técnicos Facultativos Superiores de los Organismos Autónomos del Ministerio de Agricultura, Pesca y Alimentación. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Ingenieros Superiores del Instituto Nacional de Investigaciones Agrarias del Ministerio de Agricultura, Pesca y Alimentación.
+– Ingenieros Superiores del Instituto de Estudios Agrarios del Ministerio de Agricultura, Pesca y Alimentación.
+– Ingenieros Superiores del Instituto Nacional de Semillas y Plantas de Vivero del Ministerio de Agricultura, Pesca y Alimentación.
+– Ingenieros Superiores del Servicio de Defensa contra Plagas e Inspección Fitopatológica del Ministerio de Agricultura, Pesca y Alimentación.
+– Ingenieros Superiores del Servicio de Extensión Agraria del Ministerio de Agricultura, Pesca y Alimentación.
+– Ingenieros Superiores de la Agencia de Desarrollo Ganadero del Ministerio de Agricultura, Pesca y Alimentación.
+– Ingenieros Superiores del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnica Agraria Superior de la Entidad Nacional de Seguros Agrarios del Ministerio de Agricultura, Pesca y Alimentación.
+– Ingenieros Superiores (Ingenieros Agrónomos, de Minas y de Caminos) del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Ingenieros Agrónomos del Servicio Nacional del Cultivo y Fermentación del Tabaco del Ministerio de Agricultura, Pesca y Alimentación.
+– Arquitectos del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Arquitectos del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Arquitectos del Servicio de Extensión Agraria del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulado Superior del INDO del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnico con título facultativo del INDO del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulado facultativo del Instituto de Estudios Agrarios, Pesqueros y Alimentarios del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnico Entomólogo del Servicio de Defensa Contra Plagas e Inspección Fitopatológica del Ministerio de Agricultura, Pesca y Alimentación.
+– Licenciado en Ciencias Químicas del Servicio de Defensa contra Plagas e Inspección Fitopatológica del Ministerio de Agricultura, Pesca y Alimentación.
+– Licenciado Facultativo de la Agencia de Desarrollo Ganadero del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulados Superiores del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Ingeniero Industrial del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Veterinario del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnico Superior del SENPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Médico del SENPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Investigador del Servicio Nacional de Cultivo y Fermentación del Tabaco del Ministerio de Agricultura, Pesca y Alimentación.
+– Veterinario del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnico de nivel Superior del Servicio Agrícola del FORPPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnico de nivel Superior del Servicio Ganadero del FORPPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnico de nivel Superior del Servicio de Comercio del FORPPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnica Agraria Superior de la Entidad Estatal de Seguros Agrarios del Ministerio de Agricultura, Pesca y Alimentación.
+– Economistas del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Economistas del FORPPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Químicos del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Químicos del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Geólogos del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Biólogos y Geólogos del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulados Superiores del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulados Superiores Especialistas del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos Facultativos del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnico Superior del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulados de nivel Superior del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Letrados del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Sociólogos del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Oceanógrafos del Instituto Español de Oceanografía del Ministerio de Agricultura, Pesca y Alimentación.
+– Profesores titulares del Patronato de Formación Profesional Náutico Pesquera del Ministerio de Agricultura, Pesca y Alimentación.
+– Especialistas del Servicio de Cultivo y Fermentación del Tabaco del Ministerio de Agricultura, Pesca y Alimentación.
+– Veterinarios del ICONA, del Ministerio de Agricultura, Pesca y Alimentación.
+– Inspectores del FORPPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Letrados adjuntos del FORPPA del Ministerio de Agricultura, Pesca y Alimentación.
+35. Titulados de Escuelas Técnicas de Grado Medio de los Organismos Autónomos del Ministerio de Agricultura, Pesca y Alimentación. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Ingeniero Técnico y Asimilado del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulado de Escuela de Topografía del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Ingeniero Técnico Agrícola del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Ingeniero Técnico Forestal del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Ingeniero Técnico de Minas del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Ingeniero Técnico Topógrafo del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Arquitecto Técnico del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos Grado Medio del SENPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulados de Escuelas Técnicas de Grado Medio del Servicio Nacional de Cultivo y Fermentación del Tabaco del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulados de Escuelas Técnicas de Grado Medio del Servicio de Defensa Contra Plagas e Inspección Fitopatológica del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulados de Escuelas Técnicas de Grado Medio del Instituto Nacional de Semillas y Plantas de Vivero del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulados de Escuelas Técnicas de Grado Medio del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulado de Escuelas Técnica de Grado Medio de la Agencia de Desarrollo Ganadero del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos de Grado Medio del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnico de Nivel Medio del FORPPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulado de Escuela Técnica de Grado Medio del INDO del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulado de Escuela Técnica de Grado Medio del Instituto de Estudios Agrarios, Pesqueros y Alimentarios del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulado de Escuela Técnica de Grado Medio del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos de Grado Medio del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulados de Escuela Técnica de Grado Medio de ENESA del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulado de Escuela Técnica de Grado Medio de Servicio de Extensión Agraria del Ministerio de Agricultura, Pesca y Alimentación.
+– Titulado de Escuela Técnica de Grado Medio de la CAT (integrada en SENPA) del Ministerio de Agricultura, Pesca y Alimentación.
+– Diplomado Contable del SENPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Diplomado Contable de ENESA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnico Contable del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnico Contable del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliar de Laboratorio del Servicio de Cultivo y Fermentación del Tabaco del Ministerio de Agricultura, Pesca y Alimentación.
+– Oficiales Mayores del Servicio de Cultivo y Fermentación del Tabaco del Ministerio de Agricultura, Pesca y Alimentación.
+– Gestión de Grado Medio del FROM del Ministerio de Agricultura, Pesca y Alimentación.
+– Inspectores Provinciales del CAT (SENPA) del Ministerio de Agricultura, Pesca y Alimentación.
+– Técnicos de Grado Medio de la CAT (SENPA) del Ministerio de Agricultura, Pesca y Alimentación.
+36. Delineantes de los Organismos Autónomos del Ministerio de Agricultura, Pesca y Alimentación. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Delineantes de la Agencia de Desarrollo Ganadero del Ministerio de Agricultura, Pesca y Alimentación.
+– Delineantes del SENPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Delineantes del ICONA del Ministerio de Agricultura, Pes a y Alimentación.
+– Delineantes del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Delineantes del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Delineantes del Instituto de Estudios Agrarios, Pesqueros y Alimentarios del Ministerio de Agricultura, Pesca y Alimentación.
+– Delineantes del Servicio de Extensión Agraria del Ministerio de Agricultura, Pesca y Alimentación.
+– Dibujante Entomólogo del Servicio de Defensa Contra Plagas e Inspección Fitopatológica del Ministerio de Agricultura, Pesca y Alimentación.
+37. Auxiliares de Laboratorio de los Organismos Autónomos del Ministerio de Agricultura, Pesca y Alimentación. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Auxiliar de Laboratorio del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliar de Laboratorio del Instituto de Semillas y Plantas de Vivero del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliares del Laboratorio del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliar de Laboratorio sin título del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliar de Laboratorio del INDO del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliar de Laboratorio del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Auxiliar Entomólogo del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Preparador Entomólogo del Servicio de Defensa Contra Plagas e Inspección Fitopatológica del Ministerio de Agricultura, Pesca y Alimentación.
+38. Telefonistas de los Organismos Autónomos del Ministerio de Agricultura, Pesca y Alimentación. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Telefonistas del Servicio Nacional de Cultivo y Fermentación del Tabaco del Ministerio de Agricultura, Pesca y Alimentación.
+– Telefonistas del Instituto Nacional de Semillas y Plantas de Vivero del Ministerio de Agricultura, Pesca y Alimentación.
+– Telefonistas del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Telefonistas B-1 y B-2 del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Telefonista del FORPPA del Ministerio de Agricultura, Pesca y Alimentación.
+– Telefonista del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+39. Conductores de los Organismos Autónomos del Ministerio de Agricultura, Pesca y Alimentación. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Conductores del Servicio de Extensión Agraria del Ministerio de Agricultura, Pesca y Alimentación.
+– Conductores del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Conductores del IRYDA del Ministerio de Agricultura, Pesca y Alimentación.
+– Conductores, Grupo D, del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+40. Capataces de los Organismos Autónomos del Ministerio de Agricultura, Pesca y Alimentación. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Capataces del Servicio de Defensa contra Plagas e Inspección Fitopatológica del Ministerio de Agricultura, Pesca y Alimentación.
+– Capataces del ICONA del Ministerio de Agricultura, Pesca y Alimentación.
+– Capataces del Instituto de Semillas y Plantas de Vivero del Ministerio de Agricultura, Pesca y Alimentación.
+– Capataces del IRA del Ministerio de Agricultura, Pesca y Alimentación.
+– Capataces del Servicio de Extensión Agraria del Ministerio de Agricultura, Pesca y Alimentación.
+– Capataces del INDO del Ministerio de Agricultura, Pesca y Alimentación.
+41. Mozos de Laboratorio de los Organismos Autónomos del Ministerio de Agricultura, Pesca y Alimentación. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Mozos de Laboratorio del INIA del Ministerio de Agricultura, Pesca y Alimentación.
+– Mozos de Laboratorio del Servicio Nacional de Cultivo y Fermentación del Tabaco del Ministerio de Agricultura, Pesca y Alimentación.
+– Mozos de Laboratorio del Instituto Español de Oceanografía del Ministerio de Agricultura, Pesca y Alimentación.
+42. Técnicos Facultativos Superiores de los Organismos Autónomos del Ministerio de Transportes, Turismo y Comunicaciones. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Ingenieros de Caminos del Instituto de Estudios de Transportes y Comunicaciones del Ministerio de Transportes, Turismo y Comunicaciones.
+– Ingenieros de Escuela Técnica Superior del Instituto de Estudios de Transportes y Comunicaciones del Ministerio de Transportes, Turismo y Comunicaciones.
+43. Titulados de Escuelas Técnicas de Grado Medio de los Organismos Autónomos del Ministerio de Transportes, Turismo y Comunicaciones. Se integran en la misma los funcionarios pertenecientes a las Escalas de:
+– Técnico de Grado Medio del Instituto de Estudios de Transportes y Comunicaciones del Ministerio de Transportes, Turismo y Comunicaciones.
+– Técnico Facultativo de Grado Medio del Servicio de Publicaciones del Ministerio de Transportes, Turismo y Comunicaciones.
+Tres. Se crea el Cuerpo de Controladores Laborales como Cuerpo de Gestión en materia de Inspección de Trabajo y Seguridad Social. Su plantilla presupuestaria se fija en 2.500 plazas.
+Para el ingreso en el Cuerpo se exigirá estar en posesión del título de Diplomado Universitario o equivalente.
+No obstante lo establecido en la presente Ley y siempre que estén en posesión de la titulación exigida, podrán integrarse en el Cuerpo de Controladores Laborales los funcionarios de las Escalas de Gestión de Empleo, Media de Formación Ocupacional y Administrativa del Instituto Nacional de Empleo, habilitados por dicho Organismo como Controladores de Empleo en 31 de mayo 1984, así como los Controladores de la Seguridad Social no integrados en el Cuerpo Superior de Inspectores de Trabajo y Seguridad Social, salvo que optasen por su integración en los Cuerpos de la Seguridad Social que reglamentariamente se establezca.
+Igualmente podrán integrarse en el referido Cuerpo los funcionarios de carrera de aquellos Cuerpos o Escalas que reglamentariamente se determinen, que se encuentren en posesión de la titulación exigida y superen las pruebas selectivas correspondientes.
+Cuatro. Se declaran a extinguir los siguientes Cuerpos de funcionarios de la Administración del Estado adscrito al Ministerio de Cultura:
+1. Asesores de Gabinete Técnico.
+2. Inspectores generales.
+3. Inspectores de Prensa.
+4. Traductores del Gabinete de Prensa.
+5. Ayudantes de Cinematografía.
+Cinco. Se declaran a extinguir los siguientes cuerpos y escalas de funcionarios de la Administración del Estado:
+Grupo
+ Código
+ Cuerpo/Escala
+ A
+ 0106
+ C. Prof. Num. Inst. Polite. Nal. Mart. Pesq.
+ A
+ 0300
+ C. Arquitectos.
+ A
+ 0600
+ C. Sup. Inspectores Finanzas del Estado.
+ A
+ 0602
+ C. Ingenieros de Minas Hacienda Pública.
+ A
+ 1002
+ C. Ingenieros de Vivienda.
+ A
+ 1003
+ C. Ing. Industriales Ministerio Fomento.
+ A
+ 1005
+ C. Secretarios Contadores de Puertos.
+ A
+ 1104
+ C. Ing. Sup. Radiodifusión y Televisión.
+ A
+ 1401
+ C. Prof. Numer. Escuelas Ofic. Náutica.
+ A
+ 1407
+ C. Técnicos Superiores.
+ A
+ 1409
+ C. Ingenieros de Telecomunicación.
+ A
+ 1701
+ Subgrupo Técnico Grupo Admón. Gral.
+ A
+ 5004
+ Secret. Categ. Espec. Cámaras Agrar. IRA.
+ A
+ 5100
+ Direc. Inst. Estudios Admón. Local AP.
+ A
+ 5335
+ Comis. Puertos OO.AA. MOPU Apl. Sentencia.
+ A
+ 5401
+ Tec. Facul. Sup. OO.AA. del MEC.
+ A
+ 5410
+ Arquitectos Universidad Complutense.
+ A
+ 5500
+ E. Redactor Económico Caja Auton. Inform. y Expansión Comercial.
+ A
+ 5504
+ E. Médico del PMM.
+ A
+ 5513
+ E. Ofic. Marit. Serv. Vigil. Aduanera.
+ A
+ 5514
+ E. Maquin. Nav. Serv. Vigil. Aduanera.
+ A
+ 5553
+ E. Técnica Serv. Vigil. Aduanera.
+ A
+ 5800
+ Médicos OO.AA. Ministerio de Justicia.
+ A
+ 5802
+ Secret. Trib. Obra Protecc. Menores.
+ A
+ 5803
+ E. Especialistas de Tribunales Obra Protección Menores.
+ A
+ 5901
+ E. Secretarios Contadores Juntas Administr. Obras Públicas.
+ A
+ 5903
+ E. Técnicos Estadística Confed. Hidrográfica Duero
+ A
+ 5918
+ E. Capitanes Marina Mercante de Puertos.
+ A
+ 5919
+ E. Maquinistas Navales de Puertos.
+ A
+ 6100
+ Facultativos y Especilistas de AISNA.
+ A
+ 6101
+ Arquitectos de AISNA.
+ A
+ 6459
+ Inspectores Médicos C. Especial I.S.M.
+ A
+ 6460
+ Titulados Superiores del I.C.O.
+ A
+ 6461
+ Oficiales Técnicos del I.C.O.
+ A
+ 6462
+ E. de Analistas del I.C.O.
+ B
+ 0008
+ C. Carrera de Interpretación de Lenguas.
+ B
+ 0115
+ C. Inspec. Cal. Serv. Defensa Contra Fraudes.
+ B
+ 0116
+ C. Maestros T. Inst. Politec. Nal. Marit. P.
+ B
+ 0311
+ C. Aparejadores.
+ B
+ 0540
+ C. Directores Escol. Enseñanza Primaria.
+ B
+ 0709
+ C. Ing. Técnicos Industriales del Estado.
+ B
+ 0710
+ C. Ingenieros Técnicos Minas del Estado.
+ B
+ 0806
+ C. Superior de Policía.
+ B
+ 0912
+ C. Profesores de EGB Instituciones Penitenciarias.
+ B
+ 1012
+ C. Aparejadores y Ayudantes de Vivienda.
+ B
+ 1119
+ C. Ing. Técnicos Radiodifusión y Telev.
+ B
+ 1220
+ C. Enfermeras Puericultoras Auxiliares.
+ B
+ 1221
+ C. Instructores de Sanidad.
+ B
+ 1223
+ C. Practicantes Titulares.
+ B
+ 1224
+ C. Matronas Titulares.
+ B
+ 1420
+ C. Técnicos Medios.
+ B
+ 1421
+ C. Ingenieros Técnicos Telecomunicación.
+ B
+ 1426
+ C. Intérpretes-Informadores.
+ B
+ 1508
+ C. Practicantes de la Beneficiencia General.
+ B
+ 1517
+ C. Asistentes Sociales.
+ B
+ 1611
+ E. Programadores del CPO. Informática de L.
+ B
+ 1702
+ Subgrupo Gestión Grupo Admón Gral.
+ B
+ 5017
+ E. Agentes de Extensión Agraria Serv. Ext. Agraria.
+ B
+ 5018
+ Secret. Primera Cat. Cámaras Agr. IRA.
+ B
+ 5026
+ Inspectores Provinciales del SENPA.
+ B
+ 5107
+ Bibl. Inst. Estudios Admón. Local.
+ B
+ 5309
+ Técnico Grado Medio OO.AA. M. Defensa.
+ B
+ 5540
+ Funcionarios A.T.S. del PMM.
+ B
+ 5707
+ A.T.S. Jefatura Central de Tráfico.
+ B
+ 5813
+ A.T.S. OO.AA. Ministerio de Justicia.
+ B
+ 5819
+ Asistentes Sociales OO.AA. Justicia.
+ B
+ 5912
+ E. Auxiliares Facultativos Juntas Administ. Obras Públicas.
+ B
+ 5915
+ E. Depositarios Pagadores de Juntas P.
+ B
+ 5916
+ E. Comisarios de Puertos.
+ B
+ 5917
+ E. Contramaestres Titulados de Puertos.
+ B
+ 5920
+ E. Pract. OO.AA. Ministerio de Fomento.
+ B
+ 5921
+ Jefe Grupo Canal Imperial Aragón.
+ B
+ 5922
+ E. Topógrafos J. del Puerto de Cartagena.
+ B
+ 5923
+ A.T.S. J. Puerto de Cartagena.
+ B
+ 5924
+ J. Labor. Mancomunidad Canales Taibilla.
+ B
+ 5925
+ J. Contab. Mancomunidad Canales Taibilla.
+ B
+ 5926
+ E. Subjefe Departamento 1 Patronato Casas MOPU.
+ B
+ 5927
+ E. Jefe Sección Parque Maquinaria.
+ B
+ 6107
+ Aparejadores E. Ing. Técnicos de AISNA.
+ B
+ 6108
+ A.T.S. de AISNA.
+ B
+ 6117
+ Asistentes Sociales de AISNA.
+ B
+ 6312
+ Inspect. Operaciones Org. Trab. Port.
+ B
+ 6313
+ Facultativo Aux. –Aparejador– del INAS.
+ B
+ 6314
+ E. Técnicos del Servicio de Publicaciones.
+ B
+ 6324
+ Asistentes Soc. Inst. Español Emigración.
+ B
+ 6464
+ Programadores Aplicaciones I.C.O.
+ C
+ 0414
+ C. Traductores del Ejército del Aire.
+ C
+ 0415
+ C. Delineantes del Ejército del Aire.
+ C
+ 0918
+ C. Capellanes Instituc. Penitenciarias.
+ C
+ 1136
+ C. Delineantes.
+ C
+ 1427
+ C. Administrativos Calculad. Meteorolog. Est.
+ C
+ 1428
+ C. Intérpretes-Informadores (Grupo C).
+ C
+ 1430
+ C. Especial Tec. Telecomunic. Aeronáutica.
+ C
+ 1432
+ C. Técnicos Especialistas Aeronáuticos.
+ C
+ 1516
+ C. Capellanes de la Beneficencia General.
+ C
+ 1703
+ Subgrupo Admtivo. Grupo Admón. Gral.
+ C
+ 5010
+ E. Especialista Técnico de OO.AA.
+ C
+ 5027
+ Delineantes de OO.AA. MAPA.
+ C
+ 5029
+ Jefe Silo, Centro Selección y Almacén.
+ C
+ 5030
+ E. Técnico Electricista del SENPA.
+ C
+ 5032
+ E. Traductor-Bibliotecario Serv. Nal. Cultivo y Ferment. Tabaco.
+ C
+ 5033
+ Patr. Embarc. Inst. Español Oceonografía.
+ C
+ 5037
+ Ag. Econ. Doméstica, Serv. Ext. Agraria.
+ C
+ 5038
+ Monit. Ext. Agraria Serv. Ext. Agraria.
+ C
+ 5039
+ Secret. 2 Cat. Cámaras Agrarias IRA.
+ C
+ 5041
+ E. Auxiliar de Campo del ICONA.
+ C
+ 5043
+ E. Operador de Restitución del IRYDA.
+ C
+ 5044
+ Auxiliar Técnico del IRYDA.
+ C
+ 5045
+ Ins. Campos y Cos. Inst. Sem. Pl. Viv.
+ C
+ 5046
+ E. Periodista Inst. Estudios Agr., Pesq. y Aliment.
+ C
+ 5047
+ Tec. Comis. Gral. Abastec. y Tr. SENPA.
+ C
+ 5213
+ Tec. Admtivo. Editora Nacional.
+ C
+ 5214
+ E. Delineantes Patronato Alhambra y Generalife.
+ C
+ 5317
+ Delin. OO.AA. del Ministerio de Defensa.
+ C
+ 5319
+ Espec. Aviac. I.N.T. Aeroes. E. Terradas.
+ C
+ 5320
+ Delineantes Proyectistas INTA.
+ C
+ 5322
+ Pers. Taller I. Nal. Tec. Aer. E. Terradas.
+ C
+ 5432
+ Delineantes Organismos Autónomos MEC.
+ C
+ 5436
+ E. Colaborad. Especial Univ. Barcelona.
+ C
+ 5527
+ E. Inspect. Servicio Vigil. Aduanera.
+ C
+ 5529
+ Subinspectores del Servicio de Vigilancia.
+ C
+ 5616
+ E. Delineantes OO.AA. M. Ciencia y Tecn.
+ C
+ 5820
+ E. Delegados Profesionales Técnicos.
+ C
+ 5821
+ Directores Instituc. Obras Protec. Men.
+ C
+ 5822
+ Educadores Instituc. Obra Protec. Men.
+ C
+ 5933
+ Pat. Cab. y Fogon. Hab. (M. Naval) N. Sent.
+ C
+ 5934
+ E. Tec. Proy. y Obras Confederación Hidrog.
+ C
+ 5935
+ E. Delineantes OO.AA. Ministerio M. A.
+ C
+ 5936
+ E. Contramaestres de Puertos.
+ C
+ 5940
+ E. Ayudante Ingeniero Mancom. Canales Taibilla.
+ C
+ 5941
+ E. Topógrafo 1 Mancom. Canales Taibilla.
+ C
+ 5943
+ Ayud. Obras Confed. Hidrogr. Guadalquivir.
+ C
+ 5944
+ Encarg. Gral. Confed. Hidrogr. Guadalquivir.
+ C
+ 5946
+ Traduct. Taqu. –Grupos 1, 2 y 3– CEDEX.
+ C
+ 5947
+ Programadores del CEDEX.
+ C
+ 5948
+ E. Traductores Técnicos del INCE.
+ C
+ 6017
+ E. Analistas Laboratorio de Organismos.
+ C
+ 6114
+ Maestros de AISNA.
+ C
+ 6115
+ E. Delineantes de AISNA.
+ C
+ 6116
+ Terapeutas Ocupacionales de AISNA.
+ C
+ 6323
+ Delin. y Medios Audiovisuales INEM.
+ C
+ 6466
+ Escala de Oficiales Admtvos. del I.C.O.
+ D
+ 0423
+ C. Damas Aux. Sanidad Militar Ejer. Tierra.
+ D
+ 1704
+ Subgrupo Auxiliar Grupo Admón. Gral.
+ D
+ 5053
+ Maquinista del SENPA.
+ D
+ 5058
+ Secret. 3 Categoría Cámaras Agr. IRA.
+ D
+ 5059
+ Guardas del ICONA.
+ D
+ 5060
+ Proyectistas SIN Tit. y Maestro INIA.
+ D
+ 5061
+ Preparador Primera y Segunda del INIA.
+ D
+ 5329
+ Aux. Lab. Canal Exper. Hidrodin. Pardo.
+ D
+ 5330
+ Calc. Inst. Nal. Tec. Aeroes. Es. Terradas.
+ D
+ 5333
+ Fotogr. J. Admva. Fondo Atención Marina.
+ D
+ 5442
+ Especial. Ser. Generales Enseñ. Integr.
+ D
+ 5444
+ Aux. Tec. Serv. Publicaciones del MEC.
+ D
+ 5539
+ E. Agentes Invest. Serv. Vig. Aduanera.
+ D
+ 5550
+ E. Oper. Radiot. Serv. Vigil. Aduanera.
+ D
+ 5627
+ Auxiliar Técnico del CIEMAT.
+ D
+ 5628
+ Calcador del CIEMAT.
+ D
+ 5713
+ E. Conduc. y Transmisiones J.C. Tráfico.
+ D
+ 5949
+ E. Delineantes Segunda OO.AA. Min. M.A.
+ D
+ 5950
+ E. Patrones de Cabotaje.
+ D
+ 5951
+ E. Fogoneros.
+ D
+ 5968
+ Encargado Obras Mancom. Can. Taibilla.
+ D
+ 5969
+ Topog. Segundo Mancomunidad C.Taibilla.
+ D
+ 5971
+ E. Auxiliar Topógrafo Conf. Hidrograf. Ebro.
+ D
+ 5972
+ Aux. Cartográfico Confed. Hidrogr. Ebro.
+ D
+ 5974
+ Calcador Confed. Hidrogr. Guadalquivir.
+ D
+ 5975
+ Fotógrafo Servicio de Publicaciones.
+ D
+ 5976
+ Aux. Labor. Servicio de Publicaciones.
+ D
+ 5977
+ Ayudantes Laboratorio del INCE.
+ D
+ 6124
+ Profesores Educación Física de AISNA.
+ D
+ 6125
+ Aux. Investig. Laboratorio de AISNA.
+ D
+ 6467
+ Escala de Auxiliares del I.C.O.
+ E
+ 0332
+ C. Subalterno del Museo del Prado.
+ E
+ 1158
+ C. General Subalterno de Admón. del Estado.
+ E
+ 1236
+ C. Personal Técnico Auxiliar de Sanidad.
+ E
+ 1628
+ C. Subalterno Admón. Seg. Social. E. Gral.
+ E
+ 1629
+ C. Subalt. Admón. S. Social. E. Oficios Varios.
+ E
+ 1705
+ E. Subalternos de la MUNPAL.
+ E
+ 3055
+ E. Subalt. Admón. General Admón. Local.
+ E
+ 5058
+ Secret. 3 Categoría Cámaras Agr. IRA.
+ E
+ 5067
+ Telefonistas de OO.AA. del MAPA.
+ E
+ 5068
+ Conduct. de OO.AA. del MAPA.
+ E
+ 5069
+ Capataces de OO.AA. del MAPA.
+ E
+ 5070
+ Mozos de Laboratorio de OO.AA. MAPA.
+ E
+ 5071
+ E. Especialistas del SENPA.
+ E
+ 5220
+ Taquilleras de los Teatros Nacionales.
+ E
+ 5222
+ Mecánico de la Editora Nacional.
+ E
+ 5339
+ Ofic. Canal Exp. Hidrodin. Pardo.
+ E
+ 5450
+ Ayud. Serv. Generales Enseñ. Integradas.
+ E
+ 5549
+ E. Conduct. Serv. Vigil. Aduanera.
+ E
+ 5552
+ E. Telefonistas y Almaceneros del PME.
+ E
+ 5997
+ Laborantes del INCE.
+ E
+ 6039
+ Subalterna de Organismos Autónomos.
+ E
+ 6338
+ Conductores OO.AA. Trab. y S.S.
+ E
+ 6339
+ Telef. OO.AA. Trabajo y S. Social.
+ E
+ 6340
+ Serv. Espec. Inst. Nal. Segur. e Hig. Trabajo.
+ E
+ 6341
+ Azafatas Inst. Nal. Segur. Hig. Trabajo.
+ E
+ 6468
+ Escala de Subalternos del I.C.O.»
+Se añade el apartado 5 por el art. 50.7 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el apartado 1.4 por el art. 1 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
+ Se declara la inconstitucionalidad y nulidad del apartado 1.4 en lo que se refiere al Cuerpo de Letrados del Consejo de Estado. Ref. BOE-T-1987-14852
+ Redactada conforme a las correcciones de errores publicadas en BOE núm. 229, de 24 de septiembre de 1984 Ref. BOE-A-1984-21926 y 244, de 11 de octubre de 1984. Ref. BOE-A-1984-23077
+
+### Disposición adicional décima
+
+La integración del personal funcionario de las Universidades en las Escalas de carácter interdepartamental, Técnica de Gestión, Administrativa, Auxiliar y Subalterna de los Organismos Autónomos respetará, en todo caso, lo establecido en el artículo 49 de la Ley Orgánica 11/1983, de 25 agosto, de Reforma Universitaria.
+
+### Disposición adicional decimoprimera
+
+Las distintas Administraciones Públicas fomentarán la creación y desarrollo de servicios destinados al cuidado de los niños con el fin de facilitar el mejor desempeño de la función pública.
+
+### Disposición adicional decimosegunda
+
+Los funcionarios que ejerciten el derecho de huelga no devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación sin que la deducción de haberes que se efectúe tenga, en ningún caso, carácter de sanción disciplinaria ni afecte al régimen respectivo de sus prestaciones sociales.
+Téngase en cuenta que esta disposición ha sido derogada por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que esta disposición ya fue derogada en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Disposición adicional decimotercera
+
+Los funcionarios que en virtud de lo dispuesto en las disposiciones adicionales de esta Ley se integren en otros Cuerpos o Escalas conservarán el régimen de Seguridad Social que tuvieran a la entrada en vigor de la misma.
+
+### Disposición adicional decimocuarta
+
+La presente Ley se aplicará a la Comunidad Foral de Navarra, en los términos establecidos en el artículo 149, 1, 18, y disposición adicional primera de la Constitución y en la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+
+### Disposición adicional decimoquinta
+
+1. No serán de aplicación a los funcionarios de los Cuerpos o Escalas en que se ordena la función pública docente el apartado 1, a) del artículo 20, en lo que se refiere a la exigencia del grado personal; el artículo 21 excepto el apartado 2, b); y el párrafo tercero del apartado 1 del artículo 22 de ésta Ley en lo que se refiere a la conservación del grado personal.
+Tampoco serán de aplicación a los citados funcionarios los apartados 1, 2, 3 y 6 del artículo 18; el apartado 1.g) del artículo 20; los dos últimos párrafos del apartado 1 del artículo 22; el apartado 1 en lo referente a la situación de expectativa de destino, y los apartados 5, 6 y 7 del artículo 29, y el artículo 34. En las materias objeto de estos artículos serán de aplicación las normas específicas dictadas al amparo del apartado 2 del artículo 1 de esta Ley y de lo dispuesto en los restantes apartados de esta disposición adicional. Para la elaboración de estas normas específicas se tendrán en cuenta los criterios establecidos con carácter general en la presente Ley.
+2. El acceso a la función pública docente, excluido el personal regulado en la Ley de Reforma Universitaria y en la Ley de Fomento y Coordinación General de la Investigación Científica y Técnica, la promoción profesional, la promoción interna y la reordenación de sus Cuerpos y Escalas se regulará por disposicición con rango de Ley, acorde con la estructura y necesidades del sistema educativo. Hasta la entrada en vigor de la misma, cada uno de dichos Cuerpos y Escalas tendrá asignado un nivel de complemento de destino, y les serán de aplicación las normas contenidas en esta disposición adicional, las que se dicten en aplicación de lo dispuesto en el apartado 2 del artículo 1 de esta Ley, y demás disposiciones vigentes en las respectivas materias.
+Se integran:
+– En el Cuerpo de Catedráticos de Bachillerato, los funcionarios de la Escala de Profesores Numerarios y Psicólogos de Enseñanzas Integradas que estén en posesión del título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente, salvo lo dispuesto en el apartado 8 de esta disposición.
+– En el Cuerpo de Profesores Agregados de Bachillerato, los funcionarios de la Escala Técnico-Docente de la Institución «San Isidoro» que estén en posesión del título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente.
+– En el Cuerpo de Profesores Numerarios de Escuelas de Maestría Industrial, los funcionarios de la Escala de Materias Técnico-Profesionales y Educadores de Enseñanzas Integradas, salvo lo dispuesto en el apartado 8 de esta disposición, así como los funcionarios del Cuerpo de Profesores Especiales de Escuelas de Maestría Industrial, y de la Escala docente «A» de la AISS.
+– En el Cuerpo de Maestros de Taller de Escuelas de Maestría Industrial, los funcionarios de las Escalas de Profesores de Prácticas y Actividades de Enseñanzas Integradas y docente «B» de la AISS.
+Téngase en cuenta que queda derogado el contenido de los cuatro guiones del párrafo 2.º del apartado 2, en cuanto se oponga a la Ley Orgánica 1/1990, de 3 de octubre, Ref. BOE-A-1990-24172, según establece su disposición final 4.1
+Quienes no se integren en los Cuerpos citados permanecerán en sus Escalas de origen, que se declaran a extinguir, sin perjuicio del derecho a ser integrados en su día en otros Cuerpos o Escalas docentes, siempre que reúnan las condiciones exigidas para ello. Hasta tanto conservarán sus actuales derechos, reconociéndoseles a efectos económicos los mismos que los a funcionarios que, procedentes de estas Escalas, se integran en los Cuerpos citados.
+A efectos de participación en concursos de méritos, los funcionarios que se integran en los Cuerpos citados se ordenarán según la fecha de su nombramiento como funcionario de carrera.
+3. Los puestos de trabajo docentes serán desempeñados por funcionarios de los Cuerpos y Escalas docentes, de acuerdo con lo que determinen las relaciones de puestos de trabajo. No obstante, podrán desempeñarse por personal laboral:
+– Los puestos que en razón de su naturaleza no se correspondan con las titulaciones académicas existentes.
+– Los puestos creados para la realización de programas educativos temporales.
+– Los puestos en el extranjero en tanto no sean cubiertos por funcionarios españoles de los Cuerpos y Escalas docentes o por funcionarios extranjeros en el marco de Convenios o Acuerdos con otros Estados.
+4. El personal docente podrá ocupar puestos de trabajo en la Administración educativa de acuerdo con lo que determinen las respectivas relaciones de puestos de trabajo, sin consolidar grado personal.
+5. Los funcionarios docentes podrán optar por obtener su jubilación a la terminación del curso académico en el que cumplieran los sesenta y cinco años.
+No obstante lo indicado en el párrafo anterior, los funcionarios de los Cuerpos docentes universitarios se jubilarán forzosamente cuando cumplan los setenta años. En atención a las peculiaridades de la función docente, dichos funcionarios podrán optar por jubilarse a la finalización del curso académico en el que hubieren cumplido los setenta años.
+Los funcionarios a que se refiere el párrafo anterior también podrán jubilarse una vez que hayan cumplido los sesenta y cinco años, siempre que así lo hubieren solicitado en la forma y plazos que se establezcan reglamentariamente. En estos supuestos, la efectividad de la jubilación estará referida, en cada caso, a la finalización del curso académico correspondiente.
+Lo indicado en los dos párrafos anteriores se entiende sin perjuicio de los demás supuestos de jubilación voluntaria legalmente previstos.
+6. Los funcionarios docentes estarán obligados a participar en los sucesivos concursos ordinarios de traslados hasta la obtención de su primer destino definitivo. Estos concursos no establecerán puntuación mínima para la obtención de un destino. Voluntariamente podrán participar en las convocatorias de puestos docentes de carácter singular siempre que reúnan los requisitos exigidos en cada convocatoria.
+Los funcionarios docentes que obtengan un puesto por medio de concurso deberán permanecer en el mismo un mínimo de dos años para poder participar en sucesivos concursos de provisión de puestos de trabajo.
+7. (Derogado)
+8. Sin perjuicio de lo dispuesto en el apartado segundo de esta disposición, se integran en el Cuerpo de Profesores Titulares de Escuelas Universitarias, los funcionarios de las Escalas de Profesores Numerarios y Psicólogos y de Profesores de Materias Técnico-Profesionales y Educadores de Enseñanzas Integradas, siempre que sean titulares de materias específicas de dichas Escuelas Universitarias y posean la titulación exigida para impartir la docencia de estas enseñanzas universitarias.
+9. Los funcionarios pertenecientes al Cuerpo de Profesores Numerarios de las Escuelas Oficiales de Náutica, que se hallen en posesión del título de Doctor, quedarán integrados a todos los efectos en el Cuerpo de Profesores titulares de Universidad.
+Quedarán, asimismo, integrados en dicho Cuerpo, quienes no dispongan del mencionado título de Doctor y lo obtengan en el plazo de cinco años, contados a partir de la publicación de la presente Ley.
+Se declara a extinguir el Cuerpo de Profesores Numerarios de las Escuelas Oficiales de Náutica, conservando este personal todos los derechos inherentes al Cuerpo a que pertenece.
+Se autoriza al Ministerio de Economía y Hacienda para realizar las transferencias de crédito que sean necesarias para cubrir las obligaciones derivadas de la integración del personal docente antes mencionado.
+Las Escuelas Superiores de la Marina Civil podrán contratar durante el curso 1988/89, Profesores asociados, de acuerdo con lo previsto en el artículo 33.3 de la Ley 11/1983, de Reforma Universitaria.
+En el plazo de seis meses, el Gobierno, a propuesta de los Ministros de Educación y Ciencia y de Transportes, Turismo y Comunicaciones, llevará a cabo la integración de las Enseñanzas Superiores de la Marina Civil en la Universidad, de conformidad con lo previsto en el artículo 9 de la Ley 11/1983, de Reforma Universitaria.
+10. En el marco de las competencias en materia educativa atribuidas por sus respectivos Estatutos de Autonomía, las Comunidades Autónomas ordenarán su función pública docente, de conformidad con lo que se establezca en las normas básicas que regulen los aspectos señalados en el punto 2 de esta disposición adicional.
+Téngase en cuenta que esta disposición ha sido derogada por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que esta disposición ya fue derogada en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se deroga el apartado 7 por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+ Se añade el párrafo segundo y tercero al apartado 5 por el art. único de la Ley 27/1994, de 29 de septiembre. Ref. BOE-A-1994-21316
+ Se añade el párrafo segundo al apartado 1 por el art. 28 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+ Se deroga el contenido de los cuatro guiones del párrafo 2.º del apartado 2, en cuanto se oponga a la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172 según establece su disposición final 4.1
+ Se añaden dos párrafos al apartado 7 por el art. 39.6 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+ Se modifica por el art. 1 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
+
+### Disposición adicional decimosexta
+
+Uno. A los efectos de esta Ley se entiende por personal funcionario de la Administración de la Seguridad Social el comprendido en los siguientes Estatutos de Personal:
+– Estatuto de Personal del extinguido Instituto Nacional de Previsión, aprobado por Orden ministerial de 28 de abril de 1978.
+– Estatuto de Personal del extinguido Mutualismo Laboral, aprobado por Orden ministerial de 30 de marzo de 1977.
+– Estatuto de Personal del extinguido Servicio de Asistencia a Pensionistas, aprobado por Orden ministerial de 5 de abril de 1974.
+– Estatuto de Personal del extinguido Servicio de Reaseguro de Accidentes de Trabajo, aprobado por Orden ministerial de 14 de octubre de 1971.
+– Estatuto de Personal del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos, aprobado por Orden ministerial de 5 de abril de 1974.
+– Estatuto de Personal del suprimido Instituto de Estudios de Sanidad y Seguridad Social, aprobado por Orden ministerial de 16 de octubre de 1978.
+– Estatuto de Personal del Instituto Social de la Marina, aprobado por Orden ministerial de 22 de abril de 1971.
+– Estatuto de Personal del Cuerpo de Intervención y Contabilidad de la Seguridad Social, aprobado por Orden ministerial de 31 de enero de 1979.
+– Estatuto de Personal de Delegaciones Locales, Casas del Mar, Centros Docentes y otros Centros Asistenciales del Instituto Social de la Marina, aprobado por Orden ministerial de 30 de diciembre de 1978.
+Dos. Asimismo tendrán la consideración de funcionarios de la Administración de la Seguridad Social el personal de las Escalas de Médicos Inspectores, Farmacéuticos Inspectores y Ayudantes Técnico-Sanitarios Visitadores del Cuerpo Sanitario del extinguido Instituto Nacional de Previsión e Inspectores Médicos del Cuerpo Especial del Instituto Social de la Marina, sin perjuicio de la normativa específica que con respecto al mismo pueda dictarse.
+Tres. Los funcionarios de la Seguridad Social se integrarán en la forma que a continuación se establece en los siguientes Cuerpos y Escalas:
+Tres. 1. Cuerpos del Grupo A.
+Tres. 1.1 Cuerpo Superior de Técnicos de la Administración de la Seguridad Social. Se integran en él los funcionarios que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+– Escala de Titulados Superiores del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
+– Cuerpo Técnico, Escala General, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Técnico, Escala General, del Instituto Social de la Marina
+– Cuerpo Técnico, Escala Técnico-Administrativa, del extinguido Mutualismo Laboral.
+– Cuerpo de Titulados Superiores, Escala de Administración, del extinguido Servicio de Asistencia a Pensionistas de la Seguridad Social.
+– Cuerpo de Letradas del extinguido Servicio de Reaseguro de Accidentes de Trabajo, salvo que proceda la integración en el Cuerpo de Letrados de la Administración de la Seguridad Social.
+– Asesor Técnico del extinguido Servido de Reaseguro de Accidentes de Trabajo.
+– Cuerpo de Titulados Superiores, Escalas de Administración y de Asistencia, Formación y Empleo del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Escala Técnica-Administrativa del Cuerpo Técnico de la Administración de la Seguridad Social, referida a la Orden ministerial de 4 de julio de 1981.
+– Escalas de Servicios Asistenciales y Servicios Especiales del Cuerpo de Titulados Superiores del extinguido Servicio de Asistencia a Pensionistas.
+– Escalas de Servicios Especiales del Cuerpo de Titulados Superiores del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+Tres. 1.2 Cuerpo Superior de Letrados de la Administración de la Seguridad Social. Se integran en él los funcionarios que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciados en Derecho, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+– Cuerpo de Letrados del extinguido Instituto Nacional de Previsión.
+– Cuerpo Especial, Escala de Letrados, del Instituto Social de la Marina.
+– Cuerpo de Letrados del extinguido Mutualismo Laboral.
+– Cuerpo de Letrados del extinguido Servicio de Reaseguro de Accidentes de Trabajo, siempre que a la entrada en vigor de la presente Ley estén desempeñando puestos de trabajo de Letrados, así clasificados en la estructura orgánica.
+– Escala única del Cuerpo de Letrados referida en la Orden ministerial de 4 de julio de 1981.
+– Cuerpo de Letrados a extinguir de la Obra Sindical «18 de Julio», integrada en el extinguido Instituto Nacional de Previsión.
+Tres. 1.3 Cuerpo Superior de Actuarios, Estadísticos y Economistas de la Seguridad Social.
+Tres. 1.3.1 Escala de Actuarios. Se integran en ella los funcionarios de la Administración de la Seguridad Social que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Actuario de Seguros o de Licenciado en Ciencias Económicas y Empresariales, especialidad Actuarial o rama Actuarial y de la Empresa Financiera, pertenezcan a alguna de las Escalas siguientes:
+– Escala de Asesores Actuariales, Asesores Estadísticos y Asesores Económicos, del Cuerpo de Asesores Matemáticos, del extinguido Instituto Nacional de Previsión.
+– Escala de Asesores Actuariales, del Cuerpo de Asesores, del extinguido Mutualismo Laboral.
+– Escala de Asesores Actuariales, del Cuerpo de Asesores, referida en la Orden ministerial de 4 de julio de 1981.
+Tres. 1.3.2 Escala de Estadísticos y Economistas. Se integran en ella los funcionarios de la Administración de la Seguridad Social que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciado en Ciencias Exactas o Licenciado en Ciencias Económicas y Empresariales, salvo la especialidad Actuarial o rama Actuarial y de la Empresa Financiera, pertenezcan al Cuerpo de Asesores Matemáticos, Escalas de Asesores Actuariales, Asesores Estadísticos y Asesores Económicos, del extinguido Instituto Nacional de Previsión.
+Tres. 1.4 Cuerpo Superior de Interventores y Auditores de la Administración de la Seguridad Social. Se integran en él los funcionarios de la Administración de la Seguridad Social que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan al actual Cuerpo de Intervención y Contabilidad de la Seguridad Social.
+Tres. 1.5 Cuerpo Superior de Sistemas y Tecnologías de la Administración de la Seguridad Social. Se intregran en él los funcionarios de la Administración de la Seguridad Social que, ostentando a la fecha de entrada en vigor de la presente Ley, titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan a alguna de las Escalas siguientes:
+– Escala de Analistas y Programadores del Cuerpo de Informática del extinguido Instituto Nacional de Previsión.
+– Escala de Analistas y Programadores del Cuerpo de Informática del extinguido Mutualismo Laboral.
+– Escala de Programadores del Cuerpo de Informática referida en la Orden ministerial de 4 de julio de 1981.
+Tres. 2. Cuerpos del grupo B.
+Tres. 2.1 Cuerpo de Gestión de la Administración de la Seguridad Social. Se integran en él los funcionarios que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Diplomado Universitario, Ingeniero Técnico, Arquitecto Técnico o Formación Profesional de Tercer Grado, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+– Cuerpo de Titulados Medios, Escala de Administración, del extinguido Servicio de Asistencia a Pensionistas.
+– Cuerpo de Titulados Medias, Escala de Administración, del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Cuerpo de Titulados Medios, Escalas de Servicios Asistenciales y Servicios Especiales, del extinguido Servicio de Asistencia a Pensionistas.
+– Cuerpo de Titulados Medios, Escalas de Asistencia, Formación y Empleo y Servicios Especiales, del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+Tres. 2.2 Escala de Asistentes Sociales de la Administración de la Seguridad Social. Se integran en ella los funcionarios que, ostentando en la fecha de entrada en vigor de la presente Ley, título específico de Escuela Oficial de Asistentes Sociales pertenezcan a alguno de los Cuerpos o Escalas siguientes;
+– Escala de Asistentes Sociales del Cuerpo Especial del Instituto Social de la Marina.
+– Cuerpo de Asistentes Sociales del extinguido Mutualismo Laboral.
+– Escala de Asistentes Sociales del Cuerpo de Servicios Especiales del extinguido Instituto Nacional de Previsión.
+– Escalas de Servicios Asistenciales y Servicios Especiales del Cuerpo de Titulados Medios del extinguido Servicio de Asistencia a Pensionistas.
+– Escalas de Asistencia, Formación y Empleo y Servicios Especiales del Cuerpo de Titulados Medios del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+Tres. 2.3 Escala de Programadores de Informática de la Seguridad Social. Se integran en los funcionarios que ostenten en la fecha de entrada en vigor de la presente Ley titulación de Diplomado Universitario, Ingeniero Técnico, Arquitecto Técnico o Formación Profesional de Tercer Grado.
+Tres. 3. Cuerpos y Escalas del Grupo C.
+Tres 3.1 Cuerpo Administrativo de la Administración de la Seguridad Social. Se integran en él los funcionarios que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Bachiller Unificado Polivalente, Bachiller Superior, Formación Profesional de Segundo Grado o equivalente, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+– Escala de Administrativos del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
+– Cuerpo Administrativo, Escala única, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Administrativo, Escala única, del Instituto Social de la Marina.
+– Cuerpo Administrativo, Escala única, del extinguido Mutualismo Laboral.
+– Cuerpo de Ejecutivos, Escala de Administración, del extinguido Servicio de Asistencia a Pensionistas.
+– Cuerpo Administrativo, Escala de Oficiales Administrativos, del extinguido Servicio de Reaseguro de Accidentes de Trabajo.
+– Cuerpo de Ejecutivos, Escala de Administración, del extinguido Servicio de Ejecutivos, y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Escala única del Cuerpo Administrativo referida en la Orden ministerial de 4 de julio de 1981.
+– Escalas de Servicios Asistenciales y Servicios Especiales del Cuerpo de Ejecutivos del extinguido Servicio de Asistencia a Pensionistas.
+– Escala de Servicios Especiales del Cuerpo de Ejecutivos del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+Tres. 3.2 Escala de Operadores de Ordenador de Informática de la Administración de la Seguridad Social. Se integran en ella los funcionarios que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Bachiller Unificado Polivalente, Bachiller Superior, Formación Profesional de Segundo Grado o equivalente, pertenezcan a alguno de los Cuerpos, Escalas o Clases siguientes:
+– Cuerpo de Informática, Escala de Operadores de Ordenador, del extinguido Instituto Nacional de Previsión.
+– Cuerpo de Informática, Clase de Operadores de Ordenador de la Escala de Operadores, del extinguido Mutualismo Laboral.
+– Cuerpo de Informática, Clase de Operadores de Ordenador de la Escala de Operadores, referida en la Orden ministerial de 4 de julio de 1981.
+Tres. 4. Cuerpos y Escalas del Grupo D.
+Tres. 4.1 Cuerpo Auxiliar de la Administración de la Seguridad Social. Se integran en él los funcionarios que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Graduado Escolar, Bachiller Elemental, Formación Profesional de Primer Grado o equivalente, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+– Escala de Auxiliares del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
+– Cuerpo Auxiliar, Escala única, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Auxiliar, Escala única, del Instituto Social de la Marina.
+– Cuerpo Auxiliar, Escala única, del extinguido Mutualismo Laboral.
+– Cuerpo de Auxiliares, Escala de Administración, del extinguido Servicio de Asistencia a Pensionistas de la Seguridad Social.
+– Cuerpo Administrativo, Escala de Auxiliares Administrativos, del extinguido Servicio de Reaseguro de Accidentes de Trabajo.
+– Cuerpo de Auxiliares, Escala de Administración, del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Escala única del Cuerpo Auxiliar referida en la Orden ministerial de 4 de julio de 1981.
+– Escalas de Servicios Asistenciales y Servicios Especiales del Cuerpo Auxiliar, del extinguido Servicio de Asistencia a Pensionistas.
+– Escala de Servicios Especiales del Cuerpo Auxiliar, del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Escala de Operadores, Clase de Operadores de Equipo de Preparación de Datos, del Cuerpo de Informática del extinguido Mutualismo Laboral.
+Tres. 5. Cuerpos y Escalas del Grupo E.
+Tres. 5.1 Cuerpo Subalterno de la Administración de la Seguridad Social.
+Tres. 5.1.1 Escala General. Se integran en ella los funcionarios que, ostentando en la fecha de entrada en vigor de la presente Ley, Certificado de Escolaridad, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+– Escala de Subalternos del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
+– Cuerpo Subalterno, Escala General, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Subalterno, Escala de Oficios Especiales, Clase de Vigilantes Jurados, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Subalterno, Escala única, del Instituto Social de la Marina,
+– Cuerpo Subalterno, Escala única, del extinguido Mutualismo Laboral.
+– Cuerpo Subalterno, Escala de Ordenanzas, del extinguido Servicio de Asistencia a Pensionistas.
+– Cuerpo de Subalternos, Escala de Subalternos, del extinguido Servicio de Reaseguro de Accidentes de Trabajo.
+– Cuerpo de Subalternos, Escala de Ordenanzas, del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Escala única del Cuerpo Subalterno referida en la Orden ministerial de 4 de julio de 1981.
+Tres. 5.1.2 Escala de Oficios Varios. Se integran en ellas los funcionarios de la Administración de la Seguridad Social que, ostentando Certificado de Escolaridad en la fecha de entrada en vigor de la presente Ley, pertenezcan a alguno de los Cuerpos, Escalas o Clases siguientes:
+– Cuerpo Subalterno, Escala de Oficios Especiales, del extinguido Instituto Nacional de Previsión a excepción de la Clase de Vigilantes Jurados.
+– Cuerpo de Servicios Especiales, Escala de Oficios, del extinguido Mutualismo Laboral.
+Asimismo, se integran los funcionarios del Cuerpo Subalterno del Instituto Social de la Marina que, de conformidad con lo establecido en el artículo 12 del Estatuto de dicho Organismo, realizaran las funciones de conductor a 31 de diciembre de 1979,
+Cuatro. Los funcionarios que, por no reunir los requisitos de titulación exigidos a la fecha de entrada en vigor de la presente Ley, no pueden integrarse en los Cuerpos o Escalas de la Administración de la Seguridad Social relacionados, se integran en las Escalas a extinguir que a continuación se relacionan:
+Cuatro. 1. Cuerpos y Escalas a extinguir del Grupo A:
+Cuatro. 1.1 Escala Técnica a extinguir de la Administración de la Seguridad Social en la que se integran los funcionarios que pertenezcan a algunos de los Cuerpos o Escalas siguientes:
+– Escala de Titulados Superiores del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
+– Cuerpo Técnico, Escala General, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Técnico, Escala General, del Instituto Social de la Marina.
+– Cuerpo Técnico, Escala Técnico-Administrativa, del extinguido Mutualismo Laboral.
+– Cuerpo de Titulados Superiores, Escalas de Administración, Servicios Asistenciales y Servicios Especiales, del extinguido Servicio de Asistencia a Pensionistas.
+– Asesor Técnico del extinguido Servicio de Reaseguro de Accidentes de Trabajo.
+– Cuerpo de Titulados Superiores, Escalas de Administración, Asistencia, Formación y Empleo y Servicios Especiales, del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Cuerpo Técnico, Escala General a extinguir, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Técnico, Escala de Intervención y Contabilidad a extinguir, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Técnico, Escala de Interventores de Empresa a extinguir, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Técnico a extinguir, Escala General, de la Obra Sindical «18 de Julio», integrada en el extinguido Instituto Nacional de Previsión.
+– Cuerpo Técnico a extinguir, Escala de Intervención y Contabilidad de la Obra Sindical «18 de Julio», integrada en el extinguido Instituto Nacional de Previsión,
+– Cuerpo Técnico a extinguir, de las Entidades Colaboradoras del Seguro Obligatorio de Enfermedad, integrado en el extinguido Instituto Nacional de Previsión.
+– Bibliotecarios a extinguir, del extinguido Instituto Nacional de Previsión.
+– Interventor Delegado a extinguir del Seguro Obligatorio de Enfermedad del extinguido Instituto Nacional de Previsión.
+– Inspector General del Seguro Escolar, a extinguir, del extinguido Instituto Nacional de Previsión.
+– Subinspectores del Seguro Escolar, a extinguir, del extinguido Instituto Nacional de Previsión.
+– Subinspectores de Servicios, a extinguir, del extinguido Instituto Nacional de Previsión.
+– Jefes de Sección Técnico-Administrativos del extinguido Instituto Nacional de Previsión.
+– Delegados de Gestión del extinguido Instituto Nacional de Previsión.
+– Cuerpo de Cajeros del extinguido Instituto Nacional de Previsión.
+– Cuerpo Técnico a extinguir de la Industria Textil Algodonera, integrado en el extinguido Instituto Nacional de Previsión.
+– Cuerpo Técnico a extinguir del Instituto de Medicina y Seguridad en el Trabajo, integrado en el extinguido Instituto Nacional de Previsión.
+– Administrador Central de Instituciones Sanitarias a extinguir, del extinguido Instituto Nacional de Previsión.
+– Grupo Directivo, a extinguir, del Instituto Social de la Marina.
+– Cuerpo Técnico, escala de Contabilidad a extinguir, del Instituto Social de la Marina.
+– Cuerpo Técnico-Administrativo, a extinguir, del Instituto Social de la Marina.
+– Cuerpo Técnico, Escala Técnico-Contable, a extinguir, del extinguido Mutualismo Laboral.
+– Asesor Técnico a extinguir del extinguido Mutualismo Laboral.
+– Cuerpo Especial, a extinguir, del extinguido Mutualismo Laboral.
+– Delegado Adjunto o Subdirector de Entidad, Categorías A o B, del extinguido Mutualismo Laboral.
+– Secretario de Entidad de categoría C, del extinguido Mutualismo Laboral.
+– Delegado o Director de categoría D, del extinguido Mutualismo laboral.
+– Secretario de Entidad de categoría D, del extinguido Mutualismo laboral.
+– Secretario de Entidad de categoría E, del extinguido Mutualismo Laboral.
+– Cuerpo Técnico a extinguir de las Entidades Colaboradoras del Seguro Obligatorio de Enfermedad, integradas en el extinguido Mutualismo Laboral.
+– Cuerpo de Contadores Técnicos a extinguir, del extinguido Servicio de Reaseguro de Accidentes de Trabajo.
+– Cuerpo de Titulados Superiores a extinguir, de la Asociación Nacional de Inválidos Civiles, integrada en el extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Cuerpo de Servicios Especiales, Escala de Traductores, del extinguido Instituto Nacional de Previsión.
+Cuatro. 1.2 Escala de Intervención y Contabilidad a extinguir de la Administración de la Seguridad Social en la que se Integran los funcionarios que pertenezcan al Cuerpo de Intervención y Contabilidad de la Seguridad Social.
+Cuatro. 1.3 Escala de Analistas de Informática a extinguir de la Administración de la Seguridad Social en la que se integran los funcionarios que pertenezcan a alguno de los Cuerpos y Escalas siguientes:
+– Cuerpo de Informática, Escala de Analistas y Programadores, del extinguido Instituto Nacional de Previsión.
+– Cuerpo de Informática, Escala de Analistas y Programadores, del extinguido Mutualismo Laboral.
+– Cuerpo de Informática, Escala de Programadores, referida en la Orden ministerial de 4 de julio de 1981.
+Cuatro. 1.4 Escala de Controladores a extinguir de la Administración de la Seguridad Social, en la que se integran los funcionarios que no hubieran ejercido la opción de integrarse en el Cuerpo de Controladores Laborales conforme a lo previsto en el número tres de la disposición adicional novena de la Ley 30/1984 y pertenezcan al Cuerpo de Controladores de la Seguridad Social.
+Cuatro. 2. Cuerpos y Escalas a extinguir del Grupo B:
+Cuatro. 2.1 Escala de Titulados Medios, a extinguir, de la Administración de la Seguridad Social en la que se integran los funcionarios que pertenezcan a algunos de los Cuerpos y Escalas siguientes:
+– Cuerpo de Titulados Medios, Escalas de Administración, Servicios Asistenciales y Servicios Especiales del extinguido Servicio de Asistencia a Pensionistas.
+– Cuerpo de Titulados Medios, Escalas de Administración, Asistencia, Formación y Empleo y Servicios Especiales del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Enfermeras Centrales de Servicios Sanitarios, a extinguir, del extinguido Instituto Nacional de Previsión.
+– Enfermeras Agregadas de Servicios Sanitarios, a extinguir, del extinguido Instituto Nacional de Previsión.
+– Cuerpos de Titulados Medios, a extinguir, de la Asociación Nacional de Inválidos Civiles, integrada en el extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Grupo de Facultativos, Título Medio a extinguir, del Instituto Social de la Marina.
+– Jefes Superiores de la Obra Sindical «18 de Julio».
+– Jefes de Primera de la Obra Sindical «18 de Julio».
+– Jefes de Segunda de la Obra Sindical «18 de Julio».
+Cuatro. 2.2 Escala de Asistentes Sociales, a extinguir, de la Administración de la Seguridad Social en la que se integran los funcionarios que pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+– Cuerpo Especial, Escala de Asistentes Sociales, del Instituto Social de la Marina.
+– Cuerpo de Asistentes Sociales del Extinguido Mutualismo Laboral.
+– Cuerpo de Servicios Especiales, Escala de Asistentes Sociales, del extinguido Instituto Nacional de Previsión.
+Asimismo se integran en dicha Escala los funcionarios de la Administración de la Seguridad Social que pertenezcan al Cuerpo de Servicios Especiales, Escala de Asistentes Sociales, de la Obra Sindical «18 de Julio», integrada en el Instituto Nacional de Previsión.
+Cuatro. 3. Cuerpos y Escalas a extinguir del Grupo C:
+Cuatro. 3.1 Escala Administrativa, a extinguir, de la Administración de la Seguridad Social en la que se integran los funcionarios que pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+– Escala de Administrativos del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
+– Cuerpo Administrativo, Escala única, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Administrativo, Escala única, del Instituto Social de la Marina.
+– Cuerpo Administrativo, Escala única, del extinguido Mutualismo Laboral.
+– Cuerpo de Ejecutivos, Escalas de Administración, Servicios Asistenciales y Servicios Especiales, del extinguido Servicio de Asistencia a Pensionistas.
+– Cuerpo Administrativo, Escala de Oficiales Administrativos, del extinguido Servicio de Reaseguro de Accidentes de Trabajo.
+– Cuerpo de Ejecutivos, Escalas de Administración y Servicios Especiales del extinguido Servido de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Escala única del Cuerpo Administrativo, referida en la Orden ministerial de 4 de julio de 1981.
+– Cuerpo Administrativo, a extinguir, de la Industria Textil Algodonera, integrada en el extinguido Instituto Nacional de Previsión.
+– Cuerpo Administrativo, a extinguir, del Instituto Nacional de Medicina y Seguridad en el Trabajo, integrado en el extinguido Instituto Nacional de Previsión.
+– Cuerpo Administrativo, a extinguir, de la Obra Sindical «18 de Julio», Integrada en el extinguido Instituto Nacional de Previsión.
+– Cuerpo Administrativo, a extinguir, de las Entidades Colaboradoras del Seguro Obligatorio de Enfermedad, integradas en el extinguido Instituto Nacional de Previsión.
+– Cuerpo Administrativo, a extinguir, de Entidades Colaboradoras del Seguro Obligatorio de Enfermedad, integradas en el extinguido Mutualismo Laboral.
+– Cuerpo de Ejecutivos, a extinguir, de la Asociación Nacional de Inválidos Civiles, integrada en el extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Oficiales de Primera de la Obra Sindical «18 de Julio».
+– Oficiales de Segunda de la Obra Sindical «18 de Julio».
+Cuatro. 3.2 Escala de Operadores de Ordenador de Informática, a extinguir, de la Administración de la Seguridad Social en la que se integran los funcionarios que pertenezcan a alguno de los Cuerpos, Escalas o Clases siguientes:
+– Cuerpo de Informática, Escala de Operadores de Ordenador, del extinguido Instituto Nacional de Previsión.
+– Cuerpo de Informática, Clase de Operadores de Ordenador, de la Escala de Operadores, del extinguido Mutualismo Laboral.
+– Cuerpo de Informática, Clase de Operadores de Ordenador, de la Escala de Operadores, referida en la Orden ministerial de 4 de julio de 1981.
+Cuatro. 3.3 Escala de Delineantes, a extinguir, de la Administración de la Seguridad Social en la que se integran los funcionarios del Cuerpo de Servicios Especiales, Escala de Delineantes, del extinguido Instituto Nacional de Previsión.
+Cuatro. 4. Cuerpos y Escalas a extinguir del Grupo D:
+Cuatro. 4.1 Escala Auxiliar, a extinguir, de la Administración de la Seguridad Social en la que se integran los funcionarios que pertenezcan a alguno de los Cuerpos, Escalas o Clases siguientes:
+– Escala de Auxiliares del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
+– Cuerpo Auxiliar, Escala única, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Auxiliar, Escala única, del extinguido Mutualismo Laboral.
+– Cuerpo Auxiliar, Escala única, del extinguido Instituto Social de la Marina.
+– Cuerpo de Auxiliares, Escalas de Administración y Servicios Asistenciales y Servicios Especiales del extinguido Servicio de Asistencia a Pensionistas.
+– Cuerpo Administrativo, Escala de Auxiliares Administrativos, del extinguido Servicio de Reaseguro de Accidentes de Trabajo.
+– Cuerpo de Auxiliares, Escalas de Administración y Servicios Especiales, del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Escala única del Cuerpo Auxiliar referida en la Orden ministerial de 4 de julio de 1981.
+– Cuerpo de Informática, Escala de Operadores, Clase de Operadores de Equipo de Preparación de Datos, del extinguido Mutualismo Laboral.
+– Cuerpo Auxiliar, a extinguir, de la Industria Textil Algodonera, integrado en el extinguido Instituto Nacional de Previsión.
+– Cuerpo Auxiliar, a extinguir, de la Obra Sindical «18 de Julio», integrada en el extinguido Instituto Nacional de Previsión.
+– Cuerpo Auxiliar, a extinguir, del Instituto Nacional de Medicina y Seguridad en el Trabajo, integrado en el extinguido Instituto Nacional de Previsión.
+– Clase, a extinguir, de Operadores de Equipo de Preparación de Datos del extinguido Instituto Nacional de Previsión.
+– Cuerpo de Auxiliares, a extinguir, de la Asociación Nacional de Inválidos Civiles, integrada en el extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Grupo de Personal de Oficinas incluido en el ámbito de aplicación del Estatuto de Personal de Delegaciones Locales, Casas del Mar, Centros Docentes y otros Centros Asistenciales del Instituto Social de la Marina, aprobado por Orden de 30 de diciembre de 1978.
+Cuatro. 4.2 Escala de Telefonistas, a extinguir, de la Administración de la Seguridad Social en la que se integran los funcionarios de la Administración de la Seguridad Social que pertenezcan a alguno de los Cuerpos, Escalas o Plazas siguientes:
+– Escala de Telefonistas del extinguido Servicio de Asistencia a Pensionistas.
+– Escala de Telefonistas del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Escala de Telefonistas del extinguido Instituto Nacional de Previsión.
+– Escala de Telefonistas del extinguido Mutualismo Laboral.
+– Escala de Servicios Especiales (Telefonistas) del extinguido Servicio de Reaseguro de Accidentes de Trabajo.
+– Telefonistas a extinguir del Instituto Nacional de Medicina y Seguridad en el Trabajo, integrado en el extinguido Instituto Nacional de Previsión.
+– Cuerpo de Servicios Especiales, a extinguir, Escala de Telefonistas, de la Obra Sindical «18 de Julio», integrada en el extinguido Instituto Nacional de Previsión.
+Cuatro. 5. Cuerpos y Escalas a extinguir del Grupo E:
+Cuatro. 5.1 Escala de Subalternos, a extinguir, de la Administración de la Seguridad Social en la que se integran los funcionarios que pertenezcan a alguno de los Cuerpos y Escalas siguientes:
+– Escala de Subalternos del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
+– Cuerpo Subalterno, Escala General, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Subalterno, Escala de Oficios Especiales, Clase de Vigilantes Jurados, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Subalterno, Escala única, del Instituto Social de la Marina.
+– Cuerpo Subalterno, Escala única, del extinguido Mutualismo Laboral.
+– Cuerpo Subalterno, Escala de Ordenanzas, del extinguido Servicio de Asistencia a Pensionistas.
+– Cuerpo Subalterno, Escala de Subalternos, del extinguido Servicio de Reaseguro de Accidentes de Trabajo.
+– Cuerpo Subalterno, Escala de Ordenanzas, del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Serenos, a extinguir, del extinguido Instituto Nacional de Previsión.
+– Cuerpo Subalterno, a extinguir, del Instituto Nacional de Medicina y Seguridad en el Trabajo integrado en el extinguido Instituto Nacional de Previsión.
+– Cuerpo Subalterno, a extinguir, Escala General de la Obra Sindical «18 de Julio», integrada en el extinguido Instituto Nacional de Previsión.
+– Cuerpo Subalterno, a extinguir, de las Entidades Colaboradoras del Seguro Obligatorio de Enfermedad integradas en el extinguido Instituto Nacional de Previsión.
+– Cuerpo Subalterno, a extinguir, de las Entidades Colaboradoras del Seguro Obligatorio de Enfermedad, integradas en el extinguido Mutualismo laboral.
+– Cuerpo Subalterno, a extinguir, de la Asociación Nacional de Inválidos Civiles, integrada en el extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
+– Grupo de Personal Subalterno incluido en el ámbito de aplicación del Estatuto de Personal de Delegaciones Locales, Casas del Mar, Centros Docentes y otros Centros Asistenciales del Instituto Social de la Marina, aprobado por Orden de 30 de diciembre de 1978.
+Cuatro. 5.2 Escala de Oficios Varios, a extinguir, de la Administración de la Seguridad Social, en la que se integran los funcionarios que pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+– Cuerpo Subalterno, Escala de Oficios Especiales, del extinguido Instituto Nacional de Previsión, a excepción de la «Clase de Vigilantes Jurados».
+– Cuerpo de Servicios Especiales, Escala de Oficios, del extinguido Mutualismo laboral.
+– Los funcionarios del Cuerpo Subalterno del Instituto Social de la Marina que, de conformidad con lo establecido en el artículo 12 del Estatuto, realizaran las funciones de Conductores en 31 de diciembre de 1979.
+– Mecánicos-Conductores, a extinguir, del Instituto Nacional de Medicina y Seguridad en el Trabajo, integrado en el extinguido Instituto Nacional de Previsión.
+– Cuerpo Subalterno, a extinguir, Escala de Mecánicos-Conductores de la Obra Sindical «18 de Julio», integrada en el extinguido Instituto Nacional de Previsión.
+– Limpiadoras, a extinguir, del extinguido Instituto Nacional de Previsión.
+– Limpiadoras, a extinguir, de la Obra Sindical «18 de Julio», integrada en el extinguido Instituto Nacional de Previsión.
+– Limpiadoras, a extinguir, del Servicio de Reaseguro de Accidentes de Trabajo.
+– Grupo de Personal de Oficios Varios, incluido en el ámbito de aplicación del Estatuto de Personal de Delegaciones Locales, Casas del Mar, Centros Docentes y otros Centros Asistenciales del Instituto Social de la Marina, aprobado por Orden de 30 de diciembre de 1978.
+Cinco. Las plazas de personal docente y titulado no docente incluidos en el ámbito de aplicación del Estatuto de Personal de Delegaciones Locales, Casas del Mar, Centros Decentes y Centros Asistenciales del Instituto Social de la Marina, aprobado por Orden de 30 de diciembre de 1978, se declaran a extinguir. Dichas plazas se clasifican en los siguientes grupos, previstos en el artículo 25 de la presente Ley:
+Grupo A: Plazas de Profesores que venían impartiendo enseñanzas de Bachillerato y Formación Profesional a la entrada en vigor de la presente Ley y plazas de Titulados Superiores no Docentes.
+Grupo B: Plazas de Profesores no incluidos en el grupo A y plazas de Maestros de Taller, Monitores y Titulados Medios no docentes.
+Las plazas de funcionarios del Instituto Social de la Marina que, en base al artículo 12.2 de Estatuto de Personal de dicha Entidad. constituían la plantilla de personal de Informática de la misma, en la fecha de entrada en vigor de la presente Ley, se declaran a extinguir. Dichas plazas se clasifican en los siguientes grupos:
+Grupo A: Plazas que en la fecha indicada en el párrafo anterior constituían la plantilla de Analistas y Programadores.
+Grupo C: Plazas que en la misma fecha constituían la plantilla de Operadores de Ordenador.
+Seis. Los funcionarios ingresados en Cuerpos o Escalas de la Administración de la Seguridad Social, en virtud de las convocatorias realizadas al amparo de las Ofertas de Empleo Público, posteriores a la entrada en vigor de la presente Ley, se integrarán en los Cuerpos o Escalas correspondientes de los mencionados en la presente disposición.
+Siete. Se autoriza al Gobierno para asimilar y homologar el régimen del personal funcionario de la Administración de la Seguridad Social al de la Administración del Estado y sus Organismos Autónomos.
+Ocho. Deberán ser informadas por la Comisión Superior de Personal las disposiciones que se dicten en materia de personal funcionario de la Administración de la Seguridad Social.
+Nueve. Se incluyen en los grupos de clasificación del artículo 25 los funcionarios pertenecientes a las siguientes Escalas del INEM:
+En el grupo A, los funcionarios pertenecientes a la Escala Técnica Superior, que se declara a extinguir.
+En el grupo B, los funcionarios pertenecientes a las Escalas Medias de Formación Ocupacional y de Gestión de Empleo.
+En el grupo C, los funcionarios pertenecientes a la Escala de Delineación y Medios Audiovisuales.
+Se modifica el apartado 3.1.4 por la disposición adicional 21 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053., en la redacción dada por la disposición final 4 de la Ley 34/2014, de 26 de diciembre. Ref. BOE-A-2014-13517.
+ Se modifica el apartado 3.1.1 a 5 por la disposición adicional 21 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
+ Se modifica por la disposición adicional 21 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404
+ Redactado conforme a la corrección de errores publicada en BOE núm. 66, de 17 de marzo de 1988. Ref. BOE-A-1988-6934
+ Redactado el apartado 2.7.1 conforme a la corrección de errores publicada en BOE núm. 229, de 24 de septiembre de 1984. Ref. BOE-A-1984-21926
+
+### Disposición adicional decimoséptima
+
+Quedan sin efecto las disposiciones que permiten la adscripción de funcionarios a Entes públicos contenidas en sus leyes especificas.
+Los funcionarios que presten servicios en los citados Entes a la entrada en vigor de la presente Ley, deberán optar por integrarse en sus plantillas laborales, quedando como funcionarios en la situación administrativa de excedencia voluntaria a que refiere el articulo 29.3, a), o reintegrarse al Departamento al que figura adscrito su Cuerpo o Escala, al amparo de lo dispuesto en el artículo 21.2, b), de la presente Ley.
+El Consejo de Administración del Patrimonio Nacional y el Consejo de Seguridad Nuclear quedan excluidos de lo previsto en la presente disposición, en atención a su especial naturaleza. Las Universidades se regirán por su normativa específica.
+Se añade por el art. 2 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
+
+### Disposición adicional decimoctava
+
+A propuesta del Ministro para las Administraciones Públicas, el Gobierno establecerá los requisitos y condiciones para el acceso de los funcionarios de nacionalidad española de los Organismos Internacionales a los Cuerpos o Escalas de la Administración del Estado, siempre que se encuentren en posesión de la titulación académica requerida y superen las correspondientes pruebas.
+A estos efectos, en las convocatorias para el ingreso en los referidos Cuerpos o Escalas deberá establecerse la exención de las pruebas encaminadas a acreditar conocimientos ya exigidos para el desempeño de sus puestos de origen en el Organismo Internacional.
+Se añade por el art. 2 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
+
+### Disposición adicional decimonovena
+
+En las ofertas de empleo público se reservará un cupo no inferior al cinco por ciento de las vacantes para ser cubiertas entre personas con discapacidad cuyo grado de minusvalía sea igual o superior al 33 por ciento, de modo que, progresivamente se alcance el dos por ciento de los efectivos totales de la Administración del Estado, siempre que superen las pruebas selectivas y que, en su momento, acrediten el indicado grado de minusvalía y la compatibilidad con el desempeño de las tareas y funciones correspondientes, según se determine reglamentariamente.
+Se modifica por el art. único de la Ley 53/2003, de 10 de diciembre. Ref. BOE-A-2003-22717
+ Se añade por el art. 2 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
+
+### Disposición adicional vigésima
+
+(Derogada)
+Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 6/2001, de 21 de diciembre. Ref. BOE-A-2001-24515
+ Se añade por el art. 2 de la Ley 23/1988, de 28 de julio. Ref. BOE-A-1988-18763
+
+### Disposición adicional vigésimaprimera
+
+Las Comunidades Autónomas y las Corporaciones Locales, de acuerdo con su capacidad de autoorganización, podrán adoptar, además de Planes de Empleo, otros sistemas de racionalización de los recursos humanos, mediante programas adaptados a sus especificidades, que podrán incluir todas o alguna de las medidas mencionadas en los apartados 2 y 3 del artículo 18 de la presente Ley, así como incentivos a la excedencia voluntaria y a la jubilación anticipada.
+Se añade por la disposición adicional 6 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+
+### Disposición adicional vigésimasegunda
+
+El acceso a cuerpos o escalas del grupo C podrá llevarse a cabo a través de la promoción interna desde cuerpos o escalas del grupo D del área de actividad o funcional correspondiente, cuando éstas existan, y se efectuará por el sistema de concurso-oposición, con valoración en la fase de concurso de los méritos relacionados con la carrera y los puestos desempeñados, el nivel de formación y la antigüedad.
+A estos efectos se requerirá la titulación establecida en el artículo 25 de esta Ley o una antigüedad de diez años en un cuerpo o escala del grupo D, o de cinco años y la superación de un curso específico de formación al que se accederá por criterios objetivos.
+La presente disposición tiene el carácter de base del régimen estatutario de los funcionarios públicos, dictada al amparo del artículo 149.1.18ª de la Constitución.
+Se añade por el art. 61 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+
+### Disposición adicional vigésimatercera
+
+Se autoriza al Gobierno para modificar la denominación de los cuerpos o escalas que contengan el nombre de algún Ministerio, Organismo o título académico, cuando se haya producido la de éstos, a propuesta del Departamento a que estuvieren adscritos y siempre que ello no implique creación, modificación, refundición o supresión de los mismos.
+Se añade por el art. 62 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+
+### Disposición adicional vigésimacuarta
+
+El personal de la policía local, de los servicios de extinción de incendios y de los agentes rurales de las Comunidades Autónomas y de las Corporaciones Locales queda exceptuado de la posibilidad de permanencia voluntaria en la situación de servicio activo prevista en el artículo 33 de la presente Ley.
+La presente disposición adicional se considera base del régimen estatutario de los funcionarios públicos, dictada al amparo del artículo 149.1.18.ª de la Constitución y en consecuencia aplicable al personal de todas las Administraciones Públicas.
+Se añade por el art. 50.2 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Disposición adicional vigésimaquinta
+
+Con carácter excepcional, y de acuerdo con las condiciones y requisitos que se establezcan al efecto, en las convocatorias de promoción interna al cuerpo general auxiliar de la Administración del Estado, podrá autorizarse la participación en las mismas de personal laboral con la categoría profesional de ordenanza del grupo profesional 7 de los previstos en el Convenio único para el personal laboral de la Administración del Estado o desde la categoría y grupo profesional equivalentes previstos en los restantes convenios colectivos de personal laboral al servicio de la Administración General del Estado.
+Se añade por el art. 50.4 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Redactado conforme a la corrección de errores publicada en BOE núm. 81, de 4 de abril de 2003.Ref. BOE-A-2003-6800
+
+### Disposición adicional vigésimasexta
+
+Reconocimiento de servicios prestados en las Administraciones Públicas de cualesquiera Estados miembros de la Unión Europea.
+1. Se computará a efectos de trienios, el período de prestación de servicios en las Administraciones Públicas de los Estados miembros de la Unión Europea, previos al ingreso o reingreso en los correspondientes Cuerpos y Escalas, Clases o Categorías de cualesquiera Administraciones Públicas, excepto aquellos servicios que tuvieran el carácter de prestaciones obligatorias.
+El cómputo establecido en el párrafo anterior, será asimismo de aplicación a los servicios prestados en la Administración Pública de aquellos Estados a los que, en virtud de Tratados Internacionales celebrados por la Unión Europea y ratificados por España, sea de aplicación la libre circulación de trabajadores en los términos en que ésta se halla definida en el Tratado Constitutivo de la Comunidad Europea.
+2. Los servicios que se reconozcan al amparo de lo dispuesto en el apartado anterior no serán computables a efectos de derechos pasivos, que se regirán por las previsiones contenidas en los Reglamentos Comunitarios en materia de Seguridad Social.
+3. La presente disposición tendrá la consideración de bases del régimen estatutario de los funcionarios públicos en los términos del artículo 149.1.18 de la Constitución.
+Se añade, con efectos desde el 1 de enero de 2005, por la disposición adicional 50.1 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+ Téngase en cuenta para su aplicación la disposición adicional 50.2
+
+### Disposición transitoria primera
+
+En tanto se regulan por el Gobierno los órganos de gobierno y participación de la MUFACE, se mantendrán con su actual composición y atribuciones el Consejo Rector, que asumirá las funciones de la Asamblea General, la Junta de Gobierno y la Gerencia.
+
+### Disposición transitoria segunda
+
+1. Los funcionarios afectados por el régimen de situaciones administrativas previsto en la presente Ley, deberán solicitar en el plazo de seis meses su regularización.
+Los plazos previstos en el artículo 29.3 comenzarán a computarse a partir de la entrada en vigor de la presente Ley.
+2. Los funcionarios que se encuentren en la situación administrativa de supernumerario a la entrada en vigor de esta Ley, pasarán a las situaciones de servicio activo, o de servicios especiales y, en su caso, a la de servicio en Comunidades Autónomas, según se determine reglamentariamente.
+Cuando deban pasar a la situación de servicio activo y no existan vacantes en el Cuerpo o Escala de procedencia, podrán optar por pasar a la de excedencia voluntaria o permanecer en la de supernumerario hasta que se produzca vacante.
+Téngase en cuenta que esta disposición ha sido derogada por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que esta disposición ya fue derogada en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Disposición transitoria tercera
+
+Los Cuerpos, Escalas, Categorías, Clases o situaciones pertenecientes o integradas en las Entidades a que hace referencia el número 1 de la disposición adicional decimosexta, declarados a extinguir con anterioridad a la entrada en vigor de la presente Ley, permanecerán en dicha situación de «a extinguir» a su entrada en vigor.
+
+### Disposición transitoria cuarta
+
+1. El personal de la Seguridad Social regulado en el Estatuto Jurídico del Personal Médico de la Seguridad Social, en el Estatuto del Personal Auxiliar Sanitario Titulado y Auxiliar de Clínica de la Seguridad Social, en el Estatuto del Personal no Sanitario al servicio de las Instituciones Sanitarias de la Seguridad Social, así como el de los Cuerpos y Escalas Sanitarios y de Asesores Médicos a que se refiere la disposición adicional decimosexta se regirán de acuerdo con lo dispuesto en el artículo 1.º, 2, de esta Ley, por la legislación que al respecto se dicte.
+2. El personal a que se refiere está disposición transitoria, podrá ocupar los puestos de trabajo del ámbito sanitario de acuerdo con lo que determinen las respectivas relaciones de puestos de trabajo.
+
+### Disposición transitoria quinta
+
+A efectos de lo dispuesto en esta Ley, se considerará equivalente al título de Diplomado universitario el haber superado tres cursos completos de licenciatura.
+
+### Disposición transitoria sexta
+
+1. En el plazo de seis meses, a partir de la fecha de entrada en vigor de la presente Ley, el Gobierno procederá a realizar la clasificación de las funciones desempeñadas hasta ese momento por el personal contratado administrativamente por la Administración del Estado.
+La clasificación determinará los puestos a desempeñar, según los casos, por funcionarios públicos, por personal laboral y por personal en régimen laboral temporal.
+De la citada clasificación podrá deducirse la ampliación o disminución, en su caso, de las plantillas de funcionarios públicos o de personal laboral.
+2. Todo el personal que haya prestado servicio como contratado administrativo de colaboración temporal o como funcionario de empleo interino podrá participar en las pruebas de acceso para cubrir las plazas de nueva creación.
+En todo caso, estas convocatorias de acceso, deberán respetar los criterios de mérito y capacidad, mediante las pruebas selectivas que reglamentariamente se determinen, en las que se valorarán los servicios efectivos prestados por este personal.
+3. Las Comunidades Autónomas aplicarán las anteriores normas al personal contratado administrativo de colaboración temporal dependiente de las mismas para acceso a las respectivas funciones públicas autónomas.
+4. Los Consejos de Gobierno de las Comunidades Autónomas podrán convocar pruebas específicas para el personal que, al amparo de lo establecido en disposiciones de carácter general promulgadas por las correspondientes Comunidades Autónomas tuviesen, con anterioridad al 15 de marzo de 1984, condición de contratados administrativos, en expectativa de acceso a su respectiva Función Pública. Se considerarán incluidos en el presente precepto los contratados mediante convocatorias públicas con anterioridad al 15 de marzo de 1984.
+5. Excepcionalmente, y hasta el curso académico 1986-1987, inclusive, las Universidades podrán celebrar contratos de colaboración temporal en régimen de derecho administrativo para el personal docente en las categorías contractuales a que se refiere la disposición transitoria 10.ª, 2, de la Ley 11/1983, de 25 de agosto, de Reforma Universitaria.
+
+### Disposición transitoria séptima
+
+1. La asignación de los grados personales previstos en la presente Ley a los funcionarios que presten servicios en el momento de su entrada en vigor, no supondrá el cese automático en el puesto de trabajo que venían desempeñando y comenzarán a adquirir su grado personal, cumpliendo los requisitos establecidos en esta Ley, a partir del 1 de enero de 1985.
+2. El funcionario que se considere perjudicado en la asignación de su grado personal, podrá solicitar la revisión de dicha asignación conforme a criterios objetivos basados en el tiempo de servicios efectivos prestados en su Cuerpo o Escala y en el nivel de los puestos desempeñados. Las propuestas de resolución de asignación de grado, deberán ser informadas en todo caso por la Comisión Superior de Personal.
+
+### Disposición transitoria octava
+
+1. Durante el período de transferencias de medios personales a las Comunidades Autónomas, queda prohibida la concesión de comisión de servicios al personal destinado en los servicios periféricos a los servicios centrales afectados por dichas transferencias.
+A efectos de transferencias de funcionarios, el personal que actualmente se encuentre en comisión de servicios se considerará destinado en su puesto de origen.
+2. Hasta que se concluyan las transferencias de medios personales a las Comunidades Autónomas, no se podrán convocar vacantes en los servicios centrales para ser cubiertas por personal con destino en los servicios periféricos o de nuevo ingreso, salvo cuando las vacantes correspondan a servicios centrales no afectados por las transferencias y no puedan ser cubiertas por funcionarios con destino en la misma localidad, previo informe de la Comisión Superior de Personal.
+3. Durante el período de transferencias de medios personales a las Comunidades Autónomas, en los concursos convocados por éstas, tendrán preferencia entre los funcionarios procedentes de la Administración del Estado que participen en aquéllos, los que estén destinados en los servicios centrales.
+A los funcionarios de la Administración del Estado que, a través de estos procedimientos, pasen a las Comunidades Autónomas se les aplicarán las mismas normas que a los funcionarios transferidos, y los que de ellos procedan de los servicios centrales gozarán de las ayudas económicas que el Gobierno establezca para compensar los gastos de traslado y de nueva instalación, sin más excepción que los que provean puestos de la Comunidad Autónoma de Madrid.
+4. Previa petición de las Comunidades Autónomas, la Administración del Estado podrá conceder a su personal de los servicios centrales comisiones de servicio de hasta dos años de duración con el fin de cooperar, o prestar asistencia técnica, a la Administración de las Comunidades Autónomas.
+5. Se autoriza a los organismos competentes de la Administración del Estado a convocar pruebas restringidas de selección para sus respectivos Cuerpos y Escalas. Podrán concurrir a las mismas los funcionarios y el personal contratado asimilado destinados en los servicios centrales. Las plazas convocadas y las vacantes consiguientemente producidas en los servicios centrales se transferirán a las Comunidades Autónomas.
+6. Hasta que el Gobierno, de acuerdo con las previsiones legales, dé por concluido el período de transferencias de medios personales a las Comunidades Autónomas, se establece un régimen singular de excedencia voluntaria aplicable a los funcionarios destinados en los servicios centrales. Esta excedencia, que se concederá por un plazo mínimo de cinco años, comportará el reconocimiento preferente de reingreso y una indemnización equivalente a ocho mensualidades completas.
+Durante el mismo período de tiempo, podrá el Gobierno, a petición del interesado y previo informe de la Comisión Superior de Personal, conceder la jubilación anticipada al funcionario perteneciente a un Cuerpo o Escala afectado, por el proceso de transferencias y acogido al régimen de derechos pasivos, destinados en los servicios centrales o periféricos de Madrid, que tenga más de sesenta años de edad y al menos tres trienios cumplidos, o treinta y cinco años de servicios efectivos.
+Dicha jubilación dará derecho a la percepción del 150 por 100 de las retribuciones básicas hasta un máximo del 80 por 100 de sus retribuciones en activo y por el período de tiempo que reste hasta el cumplimiento de la edad de jubilación forzosa.
+7. Los efectivos de personal que, procedentes de los servicios centrales, deban ser transferidos a las Comunidades Autónomas, y que no puedan ser obtenidos por éstas a través de los procedimientos previstos en la presente disposición transitoria, se procurarán mediante el sistema de traslado forzoso.
+El personal afectado por dichos traslados que no desee trasladarse, podrá optar por pasar a la situación administrativa de excedencia forzosa sin derecho a retribución alguna.
+Téngase en cuenta que esta disposición ha sido derogada por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que esta disposición ya fue derogada en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Disposición transitoria novena
+
+1. En aplicación de lo dispuesto en el artículo 33, los funcionarios se jubilarán de la siguiente forma:
+a) En 1 de enero de 1985 los que tengan cumplidos sesenta y ocho años.
+b) Desde primero de enero de 1985 al 30 de junio de 1985 los que vayan cumpliendo sesenta y ocho años.
+c) El 30 de junio de 1985 los que tengan cumplidos sesenta y siete años.
+d) Desde el primero de julio de 1985 al 31 de diciembre de 1985 los que vayan cumpliendo sesenta y siete años.
+e) En 31 de diciembre de 1985 los que tengan cumplidos sesenta y seis años.
+f) Durante 1986 los que vayan cumpliendo sesenta y seis años.
+g) En 31 de diciembre de 1986 los que tengan cumplidos sesenta y cinco años.
+h) A partir de primero de enero de 1987 será de plena aplicación la jubilación al cumplir los sesenta y cinco años.
+2. En aplicación de lo previsto en el artículo 33, el personal docente se jubilará de la siguiente forma:
+a) En 30 de septiembre de 1985 los que tengan cumplidos sesenta y ocho y sesenta y nueve años.
+b) En 30 de septiembre de 1986 los que tengan cumplidos sesenta y seis y sesenta y siete años.
+c) En 30 de septiembre de 1987 los que tengan cumplidos los sesenta y cinco años.
+d) A partir de primero de octubre de 1987 será de plena aplicación la jubilación a los sesenta y cinco años.
+Téngase en cuenta que esta disposición ha sido derogada por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que esta disposición ya fue derogada en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Disposición transitoria décima
+
+Disposición transitoria decima
+Los funcionarios que como consecuencia de la aplicación del régimen retributivo establecido en la presente Ley experimenten una disminución en el total de sus retribuciones anuales, con exclusión del actual concepto retributivo de dedicación exclusiva y de aquellos otros que dependan exclusivamente de las características de los puestos de trabajo o del nivel de rendimiento o de productividad de los funcionarios, tendrán derecho a un complemento personal y transitorio por la diferencia, que será absorbido por cualquier futura mejora retributiva según los criterios que establezcan las sucesivas leyes de presupuestos.
+
+### Disposición transitoria decimoprimera
+
+En tanto que se aprueban las relaciones de puestos de trabajo a que se refiere el artículo 15 de esta Ley, se proveerán mediante concursos los puestos así calificados en el momento de su entrada en vigor.
+
+### Disposición transitoria decimosegunda
+
+Se aplaza la entrada en vigor de los artículos 21, 22 y 23 hasta 1 de enero de 1985.
+
+### Disposición transitoria decimotercera
+
+En tanto no se constituya el Consejo Superior de la Función Pública, las funciones del mismo serán desempeñadas por la Comisión de Coordinación de la Función Pública en lo que afecte a la política de personal de las Comunidades Autónomas.
+
+### Disposición transitoria decimocuarta
+
+Hasta la entrada en vigor de la Ley Orgánica a que se refiere el artículo 104.2 de la Constitución, los funcionarios de las Fuerzas y Cuerpos de Seguridad seguirán rigiéndose por las normas que les son aplicables, sin perjuicio de la aplicación supletoria de la presente Ley.
+
+### Disposición transitoria decimoquinta
+
+1. La adscripción de un puesto de trabajo en las correspondientes relaciones a personal funcionario no implicará el cese del laboral que lo viniera desempeñando, que podrá permanecer en el mismo sin menos-cabo de sus expectativas de promoción profesional.
+2. El personal laboral fijo que a la entrada en vigor de la Ley 23/1988, de 28 de julio, se hallare prestando servicios en puestos de trabajo reservados a funcionarios en la Administración del Estado y sus Organismos autónomos, así como en las Entidades Gestoras y Servicios Comunes de la Seguridad Social, o el que hubiese adquirido esta condición en virtud de pruebas selectivas convocadas antes de dicha fecha, siendo destinado con ocasión de su ingreso a puestos reservados a funcionarios en el mencionado ámbito, podrá participar en las pruebas de acceso a Cuerpos y Escalas a los que figuren adscritos los correspondientes puestos, siempre que posea la titulación necesaria y reúna los restantes requisitos exigidos, debiendo valorarse a estos efectos como mérito los servicios efectivos prestados en su condición de laboral, y las pruebas selectivas superadas para acceder a la misma.
+Lo previsto en el párrafo anterior será también de aplicación al personal laboral en los casos de suspensión con reserva de puesto, de acuerdo con lo establecido en el artículo 48, en relación con el artículo 45.1 de la Ley 8/1980, de 10 de marzo, del Estatuto de los Trabajadores.
+Se modifica el párrafo primero del apartado 2 por el art. 121 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Se añade por el art. 2 de la Ley 23/1988, de 28 de julio.Ref. BOE-A-1988-18763
+
+### Disposición final primera
+
+El Gobierno, por Real Decreto, establecerá el régimen de indemnización a percibir por el personal contratado administrativo que, una vez realizada la clasificación de puestos de trabajo, que se regula en la Disposición transitoria sexta de esta Ley, no tenga plaza en las correspondientes plantillas.
+
+### Disposición final segunda
+
+La primera oferta de empleo público que se realice como consecuencia de lo dispuesto en el artículo 18 de la presente Ley, será efectuada en 1985.
+
+### Disposición derogatoria
+
+1. Quedan derogados los siguientes preceptos de las disposiciones que se citan:
+A) Totalmente:
+Artículo: 5.º,1; 6.º, 14, 15, 16, 18, 19, 20, 21, 25, 26, 31, 38, c); 39,1 y 3; 43, 45, 46, 52, 53, 54, 55, 56, 57, 70, 88, 91,1 d) y e); del 95 al 101, ambos inclusive, y 103 del texto articulado de la Ley de Funcionarios Civiles del Estado de 7 de febrero de 1964.
+Ley de Retribuciones 31/1965 de 4 de mayo.
+Artículos 4.º, 6.º, y 8.º, Disposiciones adicionales 1.ª, 2.ª y 5.ª del Real Decreto-Ley 22/1977, de 30 de marzo.
+Artículos 16.2 y 40 de la Ley de Derechos Pasivos de los Funcionarios de la Administración Civil del Estado, de 21 de abril de 1966.
+Artículos 6.º, 7.º y 8.º de la Ley de Seguridad Social de los Funcionarios Civiles del Estado, de 27 de julio de 1975.
+Artículo 135.2 de la Ley de Procedimiento Administrativo, de 17 de julio de 1958.
+Disposicion adicional segunda de la Ley 70/1978, de 26 de diciembre.
+Ley 8/1973, de 17 de marzo, por la que se regula el ingreso en el Cuerpo de Ingenieros de Minas al servicio del Ministerio de Industrial y Energía.
+B) Parcialmente, en cuanto se oponen a lo previsto en la presente Ley:
+Artículos 12, 17, 24.2 y 3; 29, 40 b) y c); 42, 44, 51, 58, 59, 60.1; 66, 102 y 105 de la Ley de Funcionarios Civiles del Estado, de 7 de febrero de 1964.
+Artículos 10, 13.8 y 17 de la Ley de Régimen Jurídico de la Administración del Estado, de 26 de julio de 1957, y el artículo 15.2 en cuanto se refiere a las competencias atribuidas por esta Ley a los Delegados del Gobierno y a los Gobernadores Civiles.
+Artículos 27.1, 36.1 E. a); 37.1, 38 y 46.2 de Ley de Derechos Pasivos de los Funcionarios de la Administración del Estado, de 21 de abril de 1968.
+Artículo 45.2 del Decreto 2065/1974, de 30 de mayo, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, en relación al personal a que se refiere la disposicion adicional decimosexta 1.
+2. Asimismo, se derogan todas aquellas disposiciones de igual o inferior rango que se opongan a lo previsto en la presente Ley.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley.
+Palma de Mallorca a 2 de agosto de 1984.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

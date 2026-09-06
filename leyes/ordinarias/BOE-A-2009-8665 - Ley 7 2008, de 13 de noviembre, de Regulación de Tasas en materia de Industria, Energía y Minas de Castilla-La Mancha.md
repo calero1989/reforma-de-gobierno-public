@@ -1,0 +1,272 @@
+# Ley 7/2008, de 13 de noviembre, de Regulación de Tasas en materia de Industria, Energía y Minas de Castilla-La Mancha.
+
+- Identificador BOE: `BOE-A-2009-8665`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2009-8665
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Las Cortes de Castilla-La Mancha han aprobado y yo, en nombre del Rey, promulgo la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+El marco normativo en materia de industria, energía y minas viene determinado por la concurrencia de títulos competenciales estatales y autonómicos, reservando la Constitución Española al Estado competencias sobre las bases del régimen minero y energético, artículo 149.1.25.ª, o la autorización de instalaciones eléctricas cuando su aprovechamiento afecte a otra Comunidad Autónoma o el transporte de energía salga de su ámbito territorial, artículo 149.1.22.ª, y atribuyendo el Estatuto de Autonomía de Castilla-La Mancha, aprobado por Ley Orgánica 9/1982, de 10 de agosto, a la Junta de Comunidades, dentro de ese marco legislativo básico, la competencia exclusiva en materia de industria e instalaciones de producción, distribución y transporte de energía cuando el transporte no salga de su territorio y su aprovechamiento no afecte a otra Comunidad Autónoma, artículo 31.1.27.ª, y la competencia de desarrollo legislativo y ejecución en materia de régimen minero y energético en su artículo 32.8; asimismo, el artículo 49 del Estatuto de Autonomía establece que por Ley de las Cortes de Castilla-La Mancha se regulará el establecimiento, la modificación y supresión de los propios impuestos, tasas y contribuciones especiales y de las exenciones o bonificaciones que les afecten.
+El impulso liberalizador que ha inspirado la ordenación del sector industrial y energético desde finales de la década de los años ochenta, así como el notable esfuerzo en la agilización y racionalización de trámites administrativos en el marco de la modernización de la Administración Regional, hacen ineludible adecuar las tasas existentes en la materia a la realidad de unos servicios administrativos en constante cambio, adaptando las previsiones contenidas al respecto de la Ley 3/1990, de 18 de mayo, de Tasas y Precios Públicos a la realidad actual y superando regulaciones de tasas que en algunos casos, como en el sector minero, provienen de mediados del siglo pasado, concretamente del Decreto de 31 de marzo de 1960, por el que se convalida la tasa denominada indemnizaciones a personal facultativo de cuerpos de minas para servicios derivados de la minería en general, en un contexto normativo e histórico caracterizado por una indefinición en la delimitación de la figura de la tasa y la del precio público.
+La presente Ley, que consta de dos capítulos, con 10 artículos, dos Disposiciones adicionales, una derogatoria y tres finales, por un lado elimina algunas tarifas hasta ahora vigentes, dado que corresponden a trabajos administrativos obsoletos por el transcurso del tiempo, como la correspondiente a las inspecciones técnicas de vehículos o a la de reconocimientos periódicos, limita por razones de justicia tributaria la carga tributaria máxima en relación a las tarifas determinadas por razón del presupuesto de instalación y crea otras tarifas en atención al volumen de trabajo generado y a los nuevos servicios administrativos impuestos por la normativa de ordenación sectorial, y por otro, simplifica la definición de los hechos imponibles y unifica tarifas tributarias, al objeto de mejorar la seguridad jurídica de los ciudadanos y hacer menos compleja la gestión y exacción del tributo, permitiendo que ésta pueda realizarse a través de medios telemáticos.
+
+## CAPÍTULO I
+
+Tasa en materia de industria y energía
+
+### Artículo 1
+
+Artículo 1. Hecho imponible.
+1. Constituye el hecho imponible de la tasa en materia de industria y energía la prestación, por los órganos competentes de la Administración de la Junta de Comunidades de Castilla-La Mancha, de los servicios y actuaciones administrativas relativas a la ordenación de las actividades industriales, energéticas y metrológicas que se mencionan a continuación:
+a) La autorización, tramitación administrativa asociada a la puesta en funcionamiento e inscripción en los correspondientes registros, de instalaciones industriales, energéticas y metrológicas y de sus ampliaciones, mejoras y modificaciones.
+Por tramitación administrativa se considerará:
+1. Tramitación administrativa asociada a la puesta en servicio de instalaciones o equipos.
+2. Tramitación administrativa asociada a las modificaciones o ampliaciones de instalaciones o equipos, que requieran la aportación de documentación técnica, proyecto, memoria técnica o documentación más sencilla, para su implementación.
+3. Tramitación administrativa asociada a la aplicación de soluciones técnicas de seguridad equivalente o situaciones de excepcionalidad de instalaciones o equipos.
+La tramitación administrativa asociada a cambios de titularidad y otras modificaciones de datos asociados a instalaciones o equipos está exenta del pago del importe de la tarifa, salvo que se especifique lo contrario.
+b) Las inspecciones técnicas oportunas.
+c) Las actuaciones de verificación, contrastación y homologación.
+d) La expedición de certificados y documentos que acrediten la aptitud para el ejercicio de actividades reglamentarias.
+e) Las actuaciones necesarias para la declaración de expropiación forzosa de bienes y la imposición de servidumbre de paso, en relación con las actividades energéticas.
+f) La inscripción de instalaciones de producción de energía eléctrica en régimen especial en el registro correspondiente.
+g) Las actuaciones de los organismos de control.
+2. La tasa se exigirá en la forma contenida en las correspondientes tarifas contempladas en el artículo 3 de la presente Ley.
+Se modifica la letra a) del apartado 1 por el art. 13.1 de la Ley 3/2016, de 5 de mayo. Ref. BOE-A-2016-6725
+
+### Artículo 2
+
+Artículo 2. Sujetos pasivos.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas y entidades del artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, usuarias o destinatarias de los servicios, actuaciones y autorizaciones constitutivas del hecho imponible.
+
+### Artículo 3
+
+Artículo 3. Cuotas y tarifas.
+La tasa se exigirá de acuerdo con las siguientes cuotas y tarifas:
+Tarifa 1. Instrumentos de medida.
+1.1 Autorización de modelo de equipos de medida para su uso e instalación en la red: 45,00 euros.
+1.2 Comprobación de contadores y limitadores de electricidad, transformadores de medida y contadores de agua y de gas: 7,79 euros por unidad verificada.
+Tarifa 2. (Suprimida)
+Tarifa 3. Servicios eléctricos.
+3.1 Por tramitación administrativa, inscripción registral y control administrativo de instalaciones de baja tensión.
+3.1.1 Instalaciones de baja tensión sin proyecto: 36,33 euros. Quedarán exentas las instalaciones de enlace y acometidas de hasta 150 metros individuales y para edificios de viviendas.
+3.1.2 Instalaciones de baja tensión con proyecto, se aplicará una cuota de:
+a) En los supuestos de inversión total menor o igual a 10.000 euros: 36,33 euros.
+b) Por cada 10.000 euros o fracción adicional del presupuesto, se sumarán 6,12 euros, con un límite máximo a abonar de 3.000 euros.
+3.2 Autorización administrativa previa de instalaciones de producción, transporte y distribución de energía eléctrica en alta tensión, según presupuesto total:
+a. Hasta 10.000 euros del presupuesto: 65,50 euros.
+b. Por cada 5.000 euros o fracción adicional del presupuesto, se sumarán 11,10 euros con un límite máximo a abonar de 4.000 euros
+3.3 Autorización administrativa de construcción de instalaciones de producción, transporte y distribución de energía eléctrica en alta tensión, según presupuesto total:
+a. Hasta 10.000 euros del presupuesto: 65,50 euros.
+b. Por cada 5.000 euros o fracción adicional del presupuesto, se sumarán 11,10 euros con un límite máximo a abonar de 4.000 euros.
+3.4 Declaración de utilidad pública de instalaciones de producción, transporte y distribución de energía eléctrica en alta tensión:
+a. Hasta 10.000 euros del presupuesto: 98,27 euros.
+b. Por cada 5.000 euros o fracción del presupuesto adicional, se sumarán 16,66 euros con un límite máximo a abonar de 7.000 euros.
+3.5 Tramitación de expedientes de expropiación forzosa u ocupación temporal. Por cada expediente: 3.500,00 euros.
+3.6 Inscripción definitiva en el registro de instalaciones de producción de energía eléctrica en régimen especial. Cuota: 166,58 euros.
+3.7 Cambios de titularidad y otras modificaciones de datos de instalaciones de producción de energía eléctrica, Sección de Producción en Régimen Especial, inscritas definitivamente. Cuota: 60,00 euros.
+3.8 Por tramitación administrativa, inscripción registral y control administrativo de instalaciones y Líneas de media y alta tensión no sometidas a autorización administrativa, se aplicará una cuota de:
+a) En los supuestos de inversión total menor o igual a 10.000 euros: 36,33 euros.
+b) Por cada 10.000 euros o fracción adicionales de inversión, se sumarán 6,12 euros, con un límite máximo a abonar de 3.000 euros.
+3.9 Por tramitación administrativa de solicitudes de regularización de instalaciones eléctricas en alta tensión en base al Real Decreto 337/2014, de 9 de mayo, inscripción registral y control administrativo:
+a) Centros de seccionamiento o transformación: 50 euros.
+b) Líneas eléctricas de tensión inferior o igual a 45 kV:
+1.º) Hasta 1 km de longitud a regularizar, considerando la de cada uno de los circuitos: 50,00 euros.
+2.º) Por cada km de longitud adicional: 25 euros.
+c) Líneas eléctricas de tensión superior a 45 kV e inferior o igual a 132 kV:
+1.º) Hasta 1 km de longitud a regularizar, considerando la de cada uno de los circuitos: 100,00 euros.
+2.º) Por cada km de longitud adicional: 50 euros.
+d) Líneas eléctricas de tensión superior a 132 kV:
+1.º) Hasta 1 km de longitud a regularizar, considerando la de cada uno de los circuitos: 150,00 euros.
+2.º) Por cada km de longitud adicional: 75 euros.
+e) Subestaciones de maniobra o transformación: 300,00 euros.
+Tarifa 4. Equipos a presión.
+4.1 Tramitación administrativa, inscripción registral, control administrativo y autorización de puesta en marcha de equipos a presión: 65,68 euros.
+4.2 Obtención de placas de instalación e inspecciones periódicas: 2,03 euros/unidad.
+Tarifa 5. Aparatos elevadores.
+5.1 Tramitación administrativa, inscripción registral y control administrativo de grúas: 166,98 euros.
+5.2 Tramitación administrativa, inscripción registral y control administrativo del resto de aparatos elevadores:
+a. En edificios destinados a viviendas de hasta 5 plantas: 47,74 euros.
+b. En edificios destinados a viviendas de más de 5 plantas: 95,74 euros.
+c. Instalados en edificios de pública concurrencia y otros: 95,74 euros.
+5.3 Obtención de pegatinas de instalación e inspección de ascensores: 0,18 euros/unidad.
+Tarifa 6. Instalaciones de calefacción, climatización y agua caliente sanitaria. Tramitación administrativa, inscripción y control administrativo de instalaciones.
+6.1 Instalaciones sin proyecto: 11,69 euros.
+6.2 Instalaciones con proyecto, se aplicará una cuota de:
+a. En los supuestos de inversión total menor o igual a 10.000 euros: 40,07 euros.
+b. Por cada 10.000 euros o fracción adicionales de inversión, se sumarán 6 euros, con un límite máximo a abonar de 3.000 euros.
+Tarifa 7. Instalaciones de transporte y distribución de gas canalizado.
+7.1 Autorización de instalaciones de transporte y distribución de gas canalizado, según presupuesto total:
+a. Hasta 10.000 euros del presupuesto: 59,00 euros.
+b. Por cada 5.000 euros o fracción adicional del presupuesto, se sumarán 10 euros con un límite máximo a abonar de 3.000 euros.
+7.2 Aprobación de proyectos de construcción de instalaciones de transporte y distribución de gas canalizado, según presupuesto total:
+a. Hasta 10.000 euros del presupuesto: 59,00 euros.
+b. Por cada 5.000 euros o fracción adicional del presupuesto, se sumarán 10 euros con un límite máximo a abonar de 3.000 euros.
+7.3 Declaración de utilidad pública de instalaciones de transporte y distribución de gas canalizado:
+a. Hasta 10.000 euros del presupuesto: 88,50 euros.
+b. Por cada 5.000 euros o fracción adicional del presupuesto, se sumarán 15 euros con un límite máximo a abonar de 6.000 euros.
+7.4 Tramitación de expedientes de expropiación forzosa u ocupación temporal. Por cada expediente: 3.500,00 euros.
+Tarifa 8. Instalaciones de almacenamiento y de utilización de combustibles gaseosos. Tramitación administrativa, inscripción y control administrativo de instalaciones.
+8.1 Instalaciones sin proyecto: 35,62 euros.
+8.2 Instalaciones con proyecto, se aplicará una cuota de:
+a. En los supuestos de inversión total menor o igual a 10.000 euros: 47,87 euros.
+b. Por cada 10.000 euros o fracción adicionales de inversión, se sumarán 6 euros, con un límite máximo a abonar de 3.000 euros.
+Tarifa 9. Instalaciones petrolíferas. Tramitación administrativa, inscripción registral y control administrativo.
+9.1 Instalaciones sin proyecto: 35,62 euros.
+9.2 Instalaciones con proyecto, se aplicará una cuota de:
+a. En los supuestos de inversión total menor o igual a 10.000 euros 47,87 euros.
+b. Por cada 10.000 euros o fracción adicionales de inversión, se sumarán 6 euros, con un límite máximo a abonar de 3.000 euros.
+Tarifa 10. Instalaciones contra incendios en establecimientos industriales: Tramitación y control administrativo.
+10.1 Instalaciones sin proyecto: 35,62 euros.
+10.2 Instalaciones con proyecto, se aplicará una cuota de:
+a. En los supuestos de inversión total menor o igual a 10.000 euros: 47,87 euros.
+b. Por cada 10.000 euros o fracción adicionales de inversión, se sumarán 6 euros, con un límite máximo a abonar de 3.000 euros.
+Tarifa 11. Almacenamiento productos químicos: Tramitación y control administrativo.
+11.1 Instalaciones sin proyecto: 35,62 euros.
+11.2 Instalaciones con proyecto, se aplicará una cuota de:
+a. En los supuestos de inversión total menor o igual a 10.000 euros: 47,87 euros.
+b. Por cada 10.000 euros o fracción adicionales de inversión, se sumarán 6 euros, con un límite máximo a abonar de 3.000 euros.
+Tarifa 12. Instalaciones frigoríficas. Tramitación administrativa, inscripción registral y control administrativo o, en su caso, autorización.
+12.1 Instalaciones sin proyecto: 35,62 euros.
+12.2 Instalaciones con proyecto:
+a. En los supuestos de inversión total menor o igual a 10.000 euros: 47,87 euros.
+b. Por cada 10.000 euros o fracción adicionales de inversión, se sumarán 6 euros, con un límite máximo a abonar de 3.000 euros.
+Tarifa 13. Tramitación administrativa e inscripción registral de equipos e instalaciones de rayos X de diagnóstico médico. Cuota: 35,62 euros.
+Tarifa 14. Vehículos y dispositivos de control y limitación.
+14.1 Catalogación de vehículo histórico: 32,64 euros.
+14.2 Emisión de certificado de conformidad (ATP) a vehículos trasladados de otro país parte contratante del ATP: 45,90 euros.
+14.3 Expedición de certificado de conformidad (ADR) para vehículos trasladados de otro país parte contratante del ADR: 45,90 euros.
+14.4 Autorización, renovación y ampliación de marca de centros técnicos de tacógrafos digitales o analógicos: 45,90 euros.
+14.5 Autorización y ampliación de marca de entidades para instalación y comprobación de funcionamiento de dispositivos de limitación de velocidad: 45,90 euros.
+Tarifa 15. Tramitación y control administrativo de entidades de inspección y control reglamentario y de entidades colaboradoras.
+15.1 Inscripción registral y control administrativo de organismos de control en materia de seguridad industrial, incluido aparatos de bronceado: 59 euros.
+15.2 Autorización, inscripción registral y control administrativo de organismos en materia de metrología (organismos notificados, organismos de control metrológico y organismos autorizados de verificación metrológica): 106,87 euros.
+Tarifa 16. Expedición de documentos y certificados.
+16.1 Expedición de documentos que acrediten aptitud o capacidad para el ejercicio de actividades reglamentarias y sus registros correspondientes, incluyendo certificados personales de manipulación de gases fluorados: 11,69 euros.
+16.2 Renovación de documentos que acrediten aptitud o capacidad para el ejercicio de actividades reglamentarias y sus registros correspondientes. Cada uno: 11,69 euros.
+16.3 Derechos de examen para obtención de títulos profesionales: 11,69 euros.
+16.4 Expedición de certificados de empresa, incluyendo los certificados de empresas manipulación de gases fluorados: 59,00 euros.
+16.5 Expedición de certificados a instancia de parte en materia de industria y seguridad industrial: 11,69 euros.
+Tarifa 17. Tramitación administrativa de la declaración de inicio de una actividad.
+17.1 Tramitación de la declaración responsable de entidades de formación: 59 euros.
+17.2 Tramitación de la declaración responsable de empresas o entidades de servicios relativas a la actividad industrial: 59 euros.
+Tarifa 18. Actuaciones y servicios en materia de certificaciones de eficiencia energética de viviendas y edificios de la Comunidad Autónoma de Castilla-La Mancha.
+Por inscripción de certificado de eficiencia energética de los edificios, o de su actualización o renovación, en el registro autonómico: 16 euros.
+Se modifican los apartados 2 a 4 de la tarifa 3 por el art. 15 de la Ley 11/2019, de 20 de diciembre. Ref. BOE-A-2020-1997
+ Se suprime la tarifa 2 y se modifican las 3 y 14, por el art. 13.2 a 4 de la Ley 3/2016, de 5 de mayo. Ref. BOE-A-2016-6725
+ Se modifica por la disposición final 3 de la Ley 8/2013, de 21 de noviembre. Ref. BOE-A-2014-1368#dftercera
+ Se modifica por la disposición final 3 de la Ley 9/2012, de 29 de noviembre. Ref. BOE-A-2013-2558#df-3
+ Se modifica, con efectos de 1 de mayo de 2012, por el art. 1.1 de la Ley 2/2012, de 19 de abril. Ref. BOE-A-2012-10757
+
+### Artículo 4
+
+Artículo 4. Coste de la publicidad de los procedimientos.
+Las cuotas tributarias señaladas en el artículo anterior en ningún caso incluyen el coste derivado de la publicidad de los procedimientos, por lo que la inserción de los correspondientes anuncios, tanto en boletines oficiales como en otros medios de comunicación, será de cuenta de los interesados.
+
+### Artículo 5
+
+Artículo 5. Devengo.
+La tasa se devengará en el momento de solicitarse la prestación del servicio que constituya el hecho imponible.
+
+## CAPÍTULO II
+
+Tasa en materia de minería
+
+### Artículo 6
+
+Artículo 6. Hecho imponible.
+1. Constituye el hecho imponible de la tasa en materia de minería la prestación, por los órganos competentes de la Administración de la Junta de Comunidades de Castilla-La Mancha, de los servicios y actuaciones administrativas relativas a la ordenación de las actividades mineras que se mencionan a continuación:
+a) La expedición de autorizaciones de explotación y aprovechamiento de recursos minerales, sus cambios de titularidad y otras incidencias relacionadas con las mismas.
+b) El otorgamiento de permisos de exploración, permisos de investigación y concesiones mineras de explotación, sus cambios de titularidad y otras incidencias relacionadas con las mismas.
+c) Las actuaciones necesarias para la declaración de expropiación forzosa de bienes en relación con las actividades mineras.
+d) La tramitación, autorización y puesta en funcionamiento e inscripción en los correspondientes Registros de instalaciones mineras y de sus ampliaciones y modificaciones.
+e) La confrontación y autorización de proyectos de exploración, investigación, planes de labores mineras y voladuras con explosivos, afloramientos de caudales de agua y toma de muestras.
+f) La expedición de certificados y documentos que acrediten la aptitud para el ejercicio de actividades reglamentarias.
+g) Expedición de certificados relativos a registros mineros de cualquier sección o a cuestiones de la normativa de seguridad minera y de prevención de riesgos laborales.
+h) Expedición de copias de planos de demarcación y de hojas 1:50.000.
+2. La tasa se exigirá en la forma contenida en las correspondientes tarifas contempladas en el artículo 8 de la presente Ley.
+
+### Artículo 7
+
+Artículo 7. Sujetos pasivos.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas y entidades del artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, usuarias o destinatarias de los servicios, actuaciones y autorizaciones constitutivas del hecho imponible.
+
+### Artículo 8
+
+Artículo 8. Cuotas y tarifas.
+La tasa se exigirá de acuerdo con las siguientes cuotas y tarifas:
+Tarifa 1. Autorización de aprovechamiento de recursos minerales de las secciones A y B de la legislación de minas, excepto aguas minerales: Por cada expediente de autorización: 779,26 euros.
+Tarifa 2. Autorización del aprovechamiento de recursos minerales de la sección B de la legislación de minas: aguas minerales:
+2.1 Declaración de mineral de unas aguas: 779,26 euros.
+2.2 Concesión de aprovechamiento de aguas minerales y delimitación del perímetro de protección: 1.959,28 euros por la primera cuadrícula minera o superficie equivalente, sumándose 38,95 euros por cada cuadricula adicional o superficie equivalente.
+Tarifa 3. Otorgamiento de derechos sobre recursos minerales de las secciones C y D de legislación de minas:
+3.1 Permisos de exploración: 1.217,27 euros por las primeras trescientas cuadrículas mineras, sumándose 12,24 euros por cada cuadrícula adicional o superficie equivalente.
+3.2 Permisos de investigación: 1.959,65 euros por la primera cuadrícula minera, sumándose 18,92 euros por cada cuadricula adicional o superficie equivalente.
+3.3 Concesión derivada de permiso: 1.569,65 euros por la primera cuadrícula minera sumándose 18,92 euros por cada cuadrícula adicional o superficie equivalente.
+3.4 Concesión directa: 1.569,65 euros por la primera cuadrícula minera, sumándose 18,92 euros por cada cuadrícula adicional o superficie equivalente.
+3.5 Concesión de demasías: 1.569,65 euros por las primeras treinta hectáreas, sumándose 18,92 euros por cada treinta hectáreas adicionales.
+Tarifa 4. Tramitación y autorización de proyectos con presupuesto: planes de labores anuales; planes de restauración; lavaderos; balsas de lodos, aprobación de proyectos de prórrogas de permisos de investigación y de concesiones de explotación; aprobación de proyectos de alumbramiento de aguas e instalaciones de elevación; establecimientos de beneficio y plantas de tratamiento; proyectos de suspensión temporal, abandono definitivo y reapertura de labores; la tramitación de proyectos con utilización de explosivos.
+Se aplica una cuota de:
+a) Presupuesto total hasta 6.000 euros: 130,25 euros.
+b) Presupuesto total de 6.001 a 15.000 euros: 182,57 euros.
+c) Presupuesto total de 15.001 a 60.000 euros: 234,89 euros.
+d) Presupuesto total de 60.001 a 120.000 euros: 287,21 euros.
+e) Presupuesto total mayor de 120.000 euros: 287,21 euros y 5,01 euros más por cada 6.000 euros o fracción que superen los 120.000 euros.
+Tarifa 5. Tramitación de expedientes de expropiación forzosa u ocupación temporal.
+Por cada expediente: 3.896,3 euros.
+Tarifa 6. Tramitaciones y/o servicios sin presupuesto.
+6.1 Cambios de dominio, arriendo o subarriendo.
+Por cada registro minero: 52,32 euros.
+6.2 Concentración de trabajos.
+Por cada derecho minero: 52,32 euros.
+6.3 Reclasificación de recursos minerales: 130,25 euros.
+6.4 Actas de puesta en marcha de instalaciones mineras: 130,25 euros.
+6.5 Certificados a instancia de parte sobre registros mineros: 25,61 euros.
+Tarifa 7. Expedición de certificados de aptitud; operadores de maquinaria móvil minera y/o su renovación. Por cada uno: 52,36 euros.
+Tarifa 8. Copias de planos de demarcación y de hojas 1:50.000. Por cada copia: 130,25 euros.
+Se modifica, con efectos de 1 de mayo de 2012, por el art. 1.2 de la Ley 2/2012, de 19 de abril. Ref. BOE-A-2012-10757
+
+### Artículo 9
+
+Artículo 9. Coste de la publicidad de los procedimientos y de las demarcaciones de derechos.
+Las cuotas tributarias señaladas en el artículo anterior en ningún caso incluyen el coste derivado de la publicidad de los expedientes ni el correspondiente a la demarcación del derecho, por lo que la inserción de los correspondientes anuncios, tanto en boletines oficiales como en otros medios de comunicación, así como los trabajos de demarcación, será de cuenta de los interesados.
+
+### Artículo 10
+
+Artículo 10. Devengo.
+La tasa se devengará en el momento de solicitarse la prestación del servicio que constituya el hecho imponible.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Inaplicación del Decreto 661/1960, de 31 de marzo y del Real Decreto-Ley 26/1977, de 24 de marzo, de revisión de tasas y tributos parafiscales de tarifas.
+A partir de la fecha de entrada en vigor de la presente Ley, no serán de aplicación en el ámbito territorial de la Comunidad Autónoma de Castilla-La Mancha, en cuanto atañen a las materias comprendidas en la misma, el Decreto 661/1960, de 31 de marzo, por la que se convalida la tasa denominada indemnizaciones a personal facultativo de cuerpos de minas para servicios derivados de la minería en general, y el Real Decreto-Ley 26/1977, de 24 de marzo, de revisión de tasas y tributos parafiscales.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Gestión.
+Los órganos competentes en materia de industria, energía y minas de la Administración de la Junta de Comunidades de Castilla-La Mancha asumirán la gestión, liquidación y recaudación de las tasas objeto de la presente Ley. Se autoriza la autoliquidación de todas las tasas contempladas en ésta, que deberá realizarse en impresos normalizados que facilitarán las Delegaciones Provinciales de la Consejería competente en materia de industria, energía y minas o a través de medios telemáticos, en la forma que se establezca por ésta.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a la presente Ley y expresamente los artículos 117, 118, 119, 120 y 121 de la Ley 9/1985, de 18 de diciembre, de tasas de la Comunidad Autónoma de Castilla-La Mancha, vigentes según lo dispuesto en la Disposición Transitoria primera de la Ley 3/1990, de 18 de mayo, de tasas y exacciones parafiscales de Castilla-La Mancha.
+
+### Disposición final primera
+
+Disposición final primera. Actualización de tarifas.
+Las tarifas de cada tasa podrán ser actualizadas a través de las Leyes de Presupuestos de la Junta de Comunidades de Castilla-La Mancha.
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo.
+Se autoriza al Consejo de Gobierno para dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor al mes de su publicación en el Diario Oficial de Castilla-La Mancha.
+
+Toledo, 13 de noviembre de 2008.–El Presidente, José María Barreda Fontes.

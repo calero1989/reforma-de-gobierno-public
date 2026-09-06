@@ -1,0 +1,1514 @@
+# Ley 6/2011, de 1 de abril, de Movilidad de la Comunitat Valenciana.
+
+- Identificador BOE: `BOE-A-2011-7330`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2011-7330
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley.
+PREÁMBULO
+Movilidad, progreso y libertad se han venido entrelazando en los últimos dos siglos de la historia de las sociedades avanzadas trasformando radicalmente el escenario de aislamiento y subdesarrollo en el que transcurría la vida de la inmensa mayor parte de las personas, mediante la multiplicación de las posibilidades para desplazarse y por lo tanto de las opciones de trabajo, formación y acceso a los servicios, a la vez que las empresas generaban cada vez más riqueza y empleo. Barcos a vapor, ferrocarriles, tranvías, metropolitanos, el automóvil y la aviación comercial han ido trasformando los límites geográficos de la vida de las personas desde la estrechez de los muros de las aldeas hasta niveles de interrelación social y cultural que han ido superando una tras otra todas las fronteras. Al tiempo, y parafraseando a Larra, pegadas a las ruedas de los nuevos modos de transporte se difundía el polvo de las ideas y de la libertad, hasta extremos que ningún pensador ilustrado hubiera podido vaticinar.
+Al comenzar el siglo XXI sabemos, sin embargo, que la espiral virtuosa de movilidad y desarrollo tiene límites y condicionantes muy claros. Traffic in Towns, la célebre obra de Buchanan, ya avanzó en 1963 que el coste que la calidad de vida de nuestras ciudades estaba pagando al automóvil era inasumible. Tenemos por lo tanto el reto de que cada vez más ciudadanos y ciudadanas puedan moverse fácilmente para satisfacer sus aspiraciones en relación con el empleo, la formación y los servicios, pero que ello sea compatible con tener un entorno urbano de alta calidad, en el que podamos disfrutar de un espacio urbano al servicio de las personas, con un aire limpio y con una factura energética, en especial en lo referente a los combustibles fósiles, que no nos aboque a niveles de dependencia no asumibles.
+Recuperar la ciudad, hacer el transporte accesible para todos, disminuir las emisiones dañinas para la salud y tener niveles de seguridad cada vez más altos, son pues objetivos comunes que tienen que guiar el desarrollo de la movilidad en los próximos años, de manera que la Comunitat Valenciana pueda homologarse en esta materia con las regiones más avanzadas del continente que han sabido encontrar vías adecuadas para unir desarrollo y calidad de vida. En pocas palabras, se trata de avanzar hacia un patrón más equilibrado de movilidad en el que los desplazamientos a pie y en bicicleta y el transporte público tengan un papel cada vez más relevante tanto en el corazón de los espacios metropolitanos como en los ámbitos cada vez más amplios a los que se extiende la movilidad cotidiana.
+La atención preferente sobre esta cuestión está especialmente en razón tanto de la actual magnitud de las cifras de movilidad, como de la progresión que va a alcanzar en los próximos años. De acuerdo con estudios solventes, en las próximas dos décadas los desplazamientos diarios en áreas como las de la Comunitat Valenciana pueden duplicarse. Nos encontramos, pues, no tan sólo ante la necesidad de solventar un problema presente, sino con la oportunidad de desarrollar un abanico de acciones preventivas en la materia, tendentes a que en las próximas décadas nuestro territorio alcance también en cuestiones de movilidad el alto nivel de excelencia al que en materia de calidad de vida y de capacidad de progreso aspira la ciudadanía.
+Gracias a la Unión Europea disponemos de una amplia batería de análisis, criterios, objetivos y normas que nos permiten avanzar hacia tal objetivo al unísono con el resto de los países miembros, dando soluciones semejantes a problemas que son comunes a toda la ciudadanía europea. Nos encontramos así ante un novedoso escenario integrado en su esencia por una serie de interesantes disposiciones: las Directivas comunitarias 91/440 y 51/2004 que establecen un nuevo modelo de prestación de servicios ferroviarios separando infraestructura y servicios, la Directiva 2004/49 que sienta las bases para avanzar en la seguridad ferroviaria, el Reglamento CE 1371/2007 sobre derechos de los usuarios del ferrocarril y, especialmente el Reglamento CE 1370/2007 de 23 de octubre de 2007 sobre los servicios públicos de transporte, que define un nuevo escenario de tanto calado en la materia que sin duda por sí sólo acomoda el resto del marco legal vigente, afianzando así los principios en los que se basa, entre los que cabe destacar muy especialmente la consideración de los servicios de transporte como un servicio público coherente con las potestades genéricas de las administraciones de ordenación y gestión, y abierto a la selección del mejor operador, ya sea público o privado, que la eficiencia y el interés general aconsejen en cada caso.
+Aplicando los criterios antes señalados, el título I de la ley encomienda a las administraciones públicas un papel central de cara a impulsar patrones equilibrados de movilidad y, en particular, el uso del transporte público y la potenciación de los desplazamientos en bicicleta y, sobre todo, a pie. Las ciudades de la Comunitat Valenciana tienen porcentajes de desplazamientos peatonales difícilmente superables. Un modelo de movilidad mediterránea asociado al disfrute de la ciudad y del entorno que supone, en relación con otros ámbitos, una disminución real de los niveles de emisiones y consumos energéticos. El mantenimiento de este modelo es un objetivo esencial de esta ley, que por ello no se limita tan sólo a hacer una serie de recomendaciones al respecto, sino que se introduce en la esencia del modelo, al propugnar abiertamente un desarrollo de modelos urbanos en los que la integración de usos, las densidades intermedias, la contigüidad de los desarrollos y la calidad del entorno propicien este tipo de desplazamientos.
+Otros modelos urbanos, con la residencia y los servicios, los comercios y las actividades dispersos en el territorio, implican la imposibilidad de tejer redes de transporte público verdaderamente efectivas, y obligan al uso del vehículo privado incluso para las cuestiones más cotidianas. Los planes de movilidad previstos en el capítulo III del título I, insertados en el proceso de ordenación urbana, asegurarán que los tejidos urbanos se desarrollen en el futuro de manera racional, teniendo en cuenta el balance energético y ambiental del conjunto de los desplazamientos. La figura de los planes de movilidad se extiende igualmente a otros supuestos en los que se trata de crear mecanismos de solución de situaciones preexistentes, tanto en lo referente a núcleos urbanos consolidados, como a centros generadores de desplazamientos.
+Respecto al uso de la bicicleta, la ley incorpora una serie de determinaciones destinadas a potenciar su uso, entre las que cabe destacar la previsión de estacionamientos en origen y destino, así como la consideración singular de sus infraestructuras específicas de cara a eliminar los obstáculos legales y administrativos que puedan impedir su desarrollo.
+Todo el contenido de la ley, y en particular el del título I, se basa, como no podría ser de otra forma, en el más estricto respeto a las competencias fijadas por la Constitución, el Estatut d’Autonomia de la Comunitat Valenciana y la legislación aplicable en materia de régimen local. Se consagran las competencias de la Generalitat en la movilidad intracomunitaria, a la vez que se respeta la función que deben desarrollar los ayuntamientos tanto en relación con los servicios de transporte urbano como en la potenciación de los desplazamientos no motorizados. Dicho respeto al marco competencial no obsta para que, desde el punto de vista del ciudadano, éste deba percibir una oferta integrada de transporte, más allá de tales competencias y de los límites administrativos. Los principios generales de eficiencia y coordinación de las administraciones que presiden nuestro ordenamiento jurídico se aplican en este caso tanto en la adopción de un amplio abanico de mecanismos de concertación, como mediante el apoyo en la Agencia Valenciana de Movilidad, ente público de la Generalitat, cuya conformación le permite tener un papel destacado en materia de coordinación del transporte público y fomento de la movilidad equilibrada, así como en la gestión del taxi en los espacios metropolitanos.
+Respecto al transporte de viajeros, el título II de la ley enlaza la rica tradición de nuestro ordenamiento jurídico en la materia con lo dispuesto en el citado Reglamento 1370/2007. De esta forma, figuras de nuestro derecho de transporte de eficiencia ampliamente contrastada, como son el proyecto y el contrato de servicio público de transporte (nueva terminología de los contratos de servicio público de transporte por carretera), se acomodan a las nuevas circunstancias, extendiéndolas a cualquier servicio público de transporte y, en relación con lo dispuesto en el Reglamento 1370/2007, potenciando los aspectos relativos a la identificación y compensación en relación con las obligaciones de servicio público.
+Generalmente olvidado en los planteamientos integrales del transporte, el capítulo III del título II de la ley presta una atención muy especial al sector del taxi, que seguirá siendo esencial para asegurar la movilidad en zonas y horarios en los que la demanda no es elevada. Concebido inicialmente como un servicio municipal, hoy en día la operación del servicio de taxi no se comprende si se ciñe a un solo término, ya sea metropolitano o rural. Conviene por lo tanto regular tal servicio como autonómico, con independencia de las excepciones que se plantean de cara a articular una adecuada transición desde la situación actual. Por otra parte, la ley consagra el interés público del taxi y en relación con ello regula la intervención administrativa en el sector, fundamentalmente en el establecimiento del correspondiente contingente en cada uno de los ámbitos considerados, así como en el régimen tarifario.
+La promulgación de la Ley 39/2003, de 17 de noviembre, del sector ferroviario, ceñida exclusivamente a los ferrocarriles de interés general del Estado, implica que las diversas comunidades autónomas deban desarrollar marcos normativos propios que regulen las infraestructuras ferroviarias. En el caso de la Comunitat Valenciana, tras analizar la posibilidad de una ley específica para dicha infraestructura, en el título III se ha optado por una solución más avanzada cual es la de una norma extendida a cualquier tipo de infraestructuras de transporte, incluyendo igualmente las plataformas reservadas para el transporte público cuando no formen parte de una carretera, las infraestructuras logísticas y otras similares. En todo caso, parece sumamente conveniente mantener en materia de infraestructuras el mayor nivel posible de homogeneidad legislativa, de manera que los procesos de planificación y ejecución de infraestructuras tienen en esta ley una regulación semejante a la de la Ley 39/2003 antes señalada. Igualmente sucede con las medidas tendentes a asegurar la compatibilidad con el entorno (homólogas a las de policía de ferrocarriles de la legislación estatal).
+Cabe así mismo apuntar que existe ya en el ordenamiento jurídico autonómico una ley que garantiza el libre acceso a los medios de transporte y a la plena posibilidad de movilidad y comunicación accesible en el uso de estos servicios para toda la ciudadanía de la Comunitat Valenciana, que es la Ley 9/2009, de 20 de noviembre, de la Generalitat, de Accesibilidad Universal al Sistema de Transportes de la Comunitat Valenciana.
+Por último señalar que en el procedimiento de elaboración de la presente ley han sido consultados los principales agentes que representan a los sectores afectados por la aplicación de la norma. Igualmente, han informado las diferentes consellerías con competencias sobre la materia objeto de la regulación proyectada, cuyas sugerencias han sido incorporadas en su mayor parte y conforme con el Consell Jurídic Consultiu de la Comunitat Valenciana.
+Con los objetivos expresados y en el ejercicio de las competencias que en materia de transporte terrestre reconoce a la Generalitat el artículo 49.1.15.ª del Estatut d’Autonomia de la Comunitat Valenciana, en relación con el artículo 148.1.5.ª de la Constitución Española, se redacta esta ley, con el fin de configurar un marco normativo regulador del transporte terrestre en la Comunitat Valenciana.
+Se modifica el párrafo doce por el art. 37 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+## TÍTULO I
+
+Principios generales
+
+## CAPÍTULO I
+
+Objetivos, criterios y competencias
+
+### Artículo 1
+
+Artículo 1. Objeto de la ley.
+La presente ley tiene por objeto regular las diversas competencias que en materia de movilidad corresponden a la Generalitat de acuerdo con el Estatut d’Autonomia de la Comunitat Valenciana, y, en particular:
+1. Establecer los criterios generales destinados a promover la movilidad en el marco del mayor respeto posible por la seguridad, los recursos energéticos y la calidad del entorno urbano y del medio ambiente.
+2. Regular los instrumentos de planificación necesarios en orden a alcanzar los objetivos antes señalados.
+3. Regular el servicio público de transporte terrestre de viajeros y el servicio de taxi.
+4. Regular las infraestructuras de transporte, así como las logísticas.
+
+### Artículo 2
+
+Artículo 2. Principios generales.
+1. Las administraciones públicas facilitarán la movilidad de las personas como elemento esencial de su calidad de vida y de sus posibilidades de progreso en relación con el desarrollo de sus oportunidades de acceso al trabajo, a la formación, a los servicios y al ocio.
+2. Las administraciones públicas orientarán el crecimiento de la movilidad de manera que se satisfagan simultáneamente los siguientes objetivos:
+a) La mejora constante de los niveles de seguridad, promoviendo el uso de los modos más seguros y, dentro de cada modo, la disminución de los índices de accidentalidad.
+b) La mejora de la accesibilidad de toda la ciudadanía en orden a garantizar la igualdad en el acceso al empleo, formación, servicios, relaciones sociales, ocio, cultura y a las demás oportunidades que ofrecen las sociedades avanzadas.
+c) La salud y la calidad del entorno y del medio ambiente, con la consiguiente disminución de los niveles de ruido y emisiones atmosféricas, especialmente las que puedan afectar de manera directa a la salud y el bienestar de las personas.
+d) La disminución de los consumos energéticos específicos, potenciando la utilización de los modos de transporte en tal sentido más eficientes, y promoviendo la progresiva utilización de fuentes renovables.
+e) La participación de la sociedad en la toma de decisiones que afecten a la movilidad de las personas y de las mercancías.
+f) La promoción del transporte público para todas las personas y de la intermodalidad.
+3. Las administraciones públicas competentes promoverán todas aquellas acciones de formación y difusión que permitan a ciudadanos y ciudadanas elegir el modo de transporte para cada desplazamiento que consideren idóneo en relación tanto con su eficiencia y calidad, como por sus afecciones energéticas y ambientales.
+
+### Artículo 3
+
+Artículo 3. Competencias administrativas.
+1. Corresponde a la Generalitat:
+a) La potestad normativa en relación con la movilidad de las personas, de los servicios de transporte público y de sus infraestructuras dentro de la Comunitat Valenciana.
+b) La planificación, ejecución y mantenimiento de las infraestructuras de transporte interurbano, salvo aquellas que sean de interés general del Estado.
+c) La provisión de los servicios de transporte público interurbano de viajeros dentro de la Comunitat Valenciana.
+d) La potestad inspectora y sancionadora en relación con sus competencias.
+2. Del mismo modo, de acuerdo con lo dispuesto en la presente ley y en la legislación aplicable en materia de régimen local, a la administración local le corresponde:
+a) La promoción de patrones equilibrados de movilidad urbana, en especial en relación con los desplazamientos a pie y en otros modos no motorizados.
+b) La planificación, ejecución y mantenimiento de las infraestructuras de transporte urbano, de acuerdo con lo previsto al respecto en la presente norma y en la legislación urbanística y de régimen local.
+c) (Derogado)
+3. Las competencias antes señaladas serán ejercidas bajo el principio general de la colaboración administrativa, de manera que la acción conjunta de las diversas administraciones tenga como fruto ofrecer al ciudadano un sistema integrado de transportes, tanto en lo referente a la planificación de las infraestructuras y los servicios, como en los aspectos relacionados con la intermodalidad, la información, la tarificación y la coordinación de itinerarios y horarios.
+Se deroga el apartado 2.c) por la disposición derogatoria única del Decreto-ley 5/2026, de 29 de mayo. Ref. DOGV-r-2026-90144
+ Se modifica el apartado 2.c) por la disposición final 1 del Decreto-ley 4/2019, de 29 de marzo. Ref. DOGV-r-2019-90405#df
+
+### Artículo 4
+
+Artículo 4. Agencia Valenciana de Movilidad.
+(Derogado).
+Se deroga por la disposición derogatoria única 1.a) de la Ley 13/2017, de 8 de noviembre. Ref. BOE-A-2017-15370#dd
+ Se modifica el apartado 1 por la disposición final 1.1 de la Ley 1/2012, de 10 de mayo. Ref. BOE-A-2012-6932#dfprimera
+
+## CAPÍTULO II
+
+Fomento de los desplazamientos no motorizados
+
+### Artículo 5
+
+Artículo 5. Desplazamientos a pie y en bicicleta.
+1. El desplazamiento a pie y, en su caso, en bicicleta constituye el elemento esencial del patrón de movilidad de los pueblos y ciudades del sur de Europa, en general, y de la Comunitat Valenciana, en particular. Dados su elevado nivel de eficiencia y respeto a los valores ambientales y energéticos, y su contribución a la convivencia y a la salud, se conforma como un pilar esencial del nivel de calidad de vida en relación con otros territorios.
+2. Las administraciones públicas de la Comunitat Valenciana promoverán los desplazamientos a pie y en bicicleta tanto en el ejercicio de sus competencias en materia de movilidad, como en relación con las que ostentan en materia de planificación urbanística, ubicación de servicios públicos, urbanización y construcción de infraestructuras. Les corresponden igualmente todas aquellas acciones formativas, comunicativas y divulgativas encaminadas a que se pueda optar por los desplazamientos no motorizados en aquellos casos en los que sea posible.
+3. Las administraciones públicas, teniendo en cuenta el modelo de movilidad mediterránea, deberán tomar las medidas necesarias de calmado del tráfico para que las limitaciones de velocidad en zonas urbanas se cumplan en todo momento y procurar extender al máximo de calles las zonas con un límite de velocidad más apropiado con el uso residencial.
+
+### Artículo 6
+
+Artículo 6. Fomento de los desplazamientos peatonales.
+1. En orden a que los desplazamientos no motorizados sigan constituyendo el elemento esencial de la movilidad cotidiana, las administraciones públicas propiciarán modelos de crecimiento urbano contiguos a núcleos existentes, con densidades y tipologías edificatorias adecuadas, y con dotaciones suficientes de servicios públicos y privados para atender las necesidades cotidianas. Los desarrollos no contiguos a los núcleos urbanos consolidados, los desarrollos de muy baja densidad o las ubicaciones de viviendas y otros usos en suelo no urbanizable se limitarán a los casos en los que resulte justificado por motivos de interés público, en virtud de criterios técnicos o de ordenación territorial, de acuerdo con su normativa específica y siempre que mediante las acciones complementarias que correspondan no impliquen la dependencia del uso del vehículo privado para todo tipo de desplazamientos.
+2. El planeamiento urbanístico y, en su desarrollo, los proyectos de urbanización o de otro tipo destinados a acondicionar el espacio urbano, tenderán a reforzar el papel de las calles, plazas, avenidas y demás elementos semejantes como espacios clave de la vida urbana, promoviendo el calmado del tráfico y compaginando la atención preferente para peatones y, en su caso, ciclistas, con una adecuada compatibilización con el resto de modos de transporte.
+3. Los planes de ordenación e instrumentos de planificación de competencia municipal, deberán diseñar itinerarios que permitan la realización de trayectos a pie en condiciones de seguridad y comodidad para conformar una red que recorra la ciudad y conecte los centros escolares y culturales, las zonas comerciales y de ocio, los jardines, los centros históricos y los servicios públicos de especial concurrencia e importancia.
+
+### Artículo 7
+
+Artículo 7. Actuaciones específicas en relación con el uso de la bicicleta.
+1. Corresponde a los ayuntamientos desarrollar el conjunto de acciones tendentes a facilitar el desplazamiento seguro en bicicleta dentro de sus respectivos términos municipales, bien con itinerarios específicos en aquellos casos que concentren las mayores demandas, bien mediante una adecuada compatibilización con otros usos del viario urbano.
+2. Corresponde a las administraciones competentes en carreteras e infraestructuras de transporte adoptar, de manera coordinada entre ellas y con los municipios, las medidas necesarias para que los desplazamientos a pie o en bicicleta entre los distintos núcleos puedan realizarse en condiciones adecuadas de funcionalidad y seguridad. En las áreas metropolitanas y en aquellas zonas en donde los núcleos estén particularmente cercanos se desarrollará una red específica para tales flujos peatonales y ciclistas. Las condiciones de seguridad tenderán a evitar el riesgo y a aplicar medidas colectivas de prevención que eviten disminuir la libertad y la comodidad de la circulación ciclista. Estas medidas afectarán principalmente al comportamiento de los vehículos de motor y al diseño viario, sin imponer al ciclista o a su vehículo, más limitaciones que las que imponga la ley de tráfico.
+3. Las administraciones competentes en las infraestructuras lineales asegurarán la permeabilidad trasversal dotándolas de pasos en número suficiente y de calidad adecuada para favorecer la circulación de peatones y ciclistas, estableciéndose al respecto las líneas de colaboración que procedan con las restantes administraciones concernidas.
+4. Se promoverá la creación de sistemas públicos de alquiler de bicicletas. Reglamentariamente se determinarán las normas de las tarjetas o títulos que permitan su uso, favoreciendo la intermodalidad tanto entre ellos como con los títulos de transporte, de cara a potenciar la intermodalidad y el acceso y dispersión de los flujos canalizados por el transporte público mediante la bicicleta.
+
+### Artículo 8
+
+Artículo 8. Estacionamiento de bicicletas
+1. Los edificios de tipología residencial de vivienda colectiva de nueva construcción, deberán prever emplazamientos específicos, seguros, protegidos y accesibles para el estacionamiento de bicicletas. Se dispondrá como mínimo una plaza de aparcamiento por vivienda en edificios en suelo en situación básica urbanizado a la entrada en vigor de la presente Ley y dos plazas por vivienda cuando se trate de edificios en suelo no urbanizado a la entrada en vigor de la presente Ley.
+2. Podrán eximirse de la aplicación de las prescripciones de este artículo y de su desarrollo reglamentario los edificios de tipología residencial cuando concurra alguna de las siguientes circunstancias:
+a) se sitúen en municipios con población igual o inferior a 1.000 habitantes y no formen una conurbación con otros municipios cuya población total sea superior a 5.000 habitantes.
+b) dispongan de una sola vivienda por parcela.
+c) se ubiquen en parcelas que cumplan alguna de las siguientes condiciones:
+– tener un frente de fachada inferior a 8 m,
+– no poder inscribirse una circunferencia de 8 m de diámetro,
+– tener una superficie menor que 200 m2.
+3. La ubicación de las plazas de aparcamiento para bicicletas en los edificios de tipología residencial de vivienda colectiva permitirá el acceso cómodo y fácil desde la red viaria. Para ello se situarán próximas a los principales accesos del inmueble, al nivel de la vía pública o planta baja del edificio, y comunicados con dichos accesos mediante itinerarios accesibles.
+4. La superficie destinada al estacionamiento de bicicletas en edificios de tipología residencial no computará a efectos de edificabilidad. En este sentido, la administración competente para autorizar u otorgar la licencia de nueva construcción podrá aprobar, si lo estima pertinente, un estudio de detalle para hacer efectivas estas determinaciones en suelo urbanizado. El promotor del edificio en suelo urbanizado podrá elevar consulta a la administración competente para autorizar u otorgar licencia de nueva construcción sobre la necesidad de redactar un estudio de detalle para hacer efectivas las determinaciones de este artículo. En la solicitud se justificará la falta de espacio suficiente para ubicar una plaza de aparcamiento por vivienda a nivel de vía pública o planta baja del edificio. Dicha administración responderá a la consulta en un plazo de 20 días. En este caso, el sentido del silencio administrativo será negativo.
+5. En el caso de edificios de tipología residencial de vivienda colectiva en suelo en situación básica urbanizado a la entrada en vigor de esta ley, si no es posible la ubicación de las plazas de aparcamiento al nivel de la vía pública o planta baja técnicamente o por resultar grave interferencia con otros usos de los elementos comunes del edificio y no se considera pertinente recurrir a estudio de detalle para hacerlo factible, dichas plazas se podrán situar en otras plantas a las que se pueda acceder mediante rampas peatonales accesibles o en último caso ascensor con cabina de dimensiones suficientes para bicicletas, como mínimo de 1,10 m de anchura por 1,40 m de profundidad. También se podrá admitir la ubicación de las plazas de aparcamiento en otra parcela o edificio siempre que estén situadas a una distancia inferior a 50 m de la entrada del edificio y cumplan el resto de condiciones.
+6. Las características de los espacios de circulación y de las plazas de aparcamiento serán las adecuadas para permitir el acceso de las personas transportando la bicicleta a pie y facilitar su aparcamiento y amarre efectivo, de acuerdo con lo que reglamentariamente se especifique. En el diseño concreto de estos espacios, también se podrá tener en consideración su funcionamiento como lugares de estacionamiento de VMP (vehículos de movilidad personal, como patinetes y otros).
+7. Los suelos para edificios industriales, terciarios y de equipamientos de nueva construcción que no estén urbanizados a la entrada en vigor de la presente Ley destinarán el 10 % de la superficie reservada de aparcamiento público y privado establecida en la ley de ordenación del territorio, urbanismo y paisaje a estacionamiento seguro de bicicletas. Dichas plazas se situarán próximas a los principales accesos de los inmuebles, al nivel de la vía pública o planta baja de los edificios.
+8. Los equipamientos existentes, como centros escolares y universitarios, centros hospitalarios, deportivos, culturales, comerciales y de ocio y otros puntos generadores de demandas importantes de movilidad adoptarán las medidas necesarias para impulsar el uso de la bicicleta, tanto mediante el desarrollo de accesos y estacionamientos adecuados, como mediante acciones internas formativas y difusoras que resulten convenientes.
+9. Los edificios existentes destinados a servicios públicos se dotarán de suficientes estacionamientos para bicicletas, salvo que resulte imposible dada la configuración o ubicación del edificio donde se sitúen, de acuerdo con lo que reglamentariamente se establezca. Las correspondientes ordenanzas municipales a falta de plan de movilidad o de previsión en el Planeamiento Urbanístico de Desarrollo, podrán extender esta obligación a otros servicios y a los centros de trabajo.
+10. En los estacionamientos de vehículos a motor de nueva construcción en suelo en situación básica urbanizado a la entrada en vigor de la presente Ley que no estén vinculados a edificios de tipología residencial de vivienda colectiva, se dispondrá de un espacio reservado a bicicletas de, al menos, un 10% de la superficie total de las plazas. Si se trata de estacionamientos sometidos a tarifa, las plazas se ubicarán lo más inmediatas posible a los puntos de control, y la tarifa aplicable será proporcional a la del resto de vehículos.
+11. Los ayuntamientos podrán establecer las medidas que correspondan de acuerdo con la normativa vigente para que la obligación señalada en el punto anterior se extienda a los estacionamientos ya existentes, y en todo caso con motivo de cambio o renovación de la titularidad concesional.
+12. Las estaciones de trenes y autobuses existentes a la entrada en vigor de esta ley contemplarán emplazamientos seguros específicos para bicicletas en número suficiente a su demanda potencial en un plazo de 2 años.
+Se modifica el apartado 5 por el art. 306 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 78 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 8 bis
+
+Artículo 8 bis. Bicicletas y vehículos de movilidad personal (VMP) a bordo del transporte público
+Las bicicletas plegadas y los patinetes eléctricos plegados, así como el resto de VMP de tipo A establecidos en la instrucción 16N-124 de la DGT, podrán viajar en los transportes públicos urbanos y en los transportes públicos interurbanos de piso bajo competencia de la Generalitat. El operador podrá limitar el acceso de estos vehículos por motivos de seguridad o muy alta ocupación. Estas limitaciones deberán figurar en su reglamentación interna, en sus redes sociales y en la página web, así como en los vehículos y las estaciones, a la vista de los usuarios, en el plazo de un año desde la entrada en vigor de la Ley 9/2019 de Medidas Fiscales, de Gestión Administrativa y Financiera, y de Organización de la Generalitat para 2020.
+Se añade por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+
+## CAPÍTULO III
+
+Planes de movilidad
+
+### Artículo 9
+
+Artículo 9. Concepto y tipos.
+1. Los planes de movilidad son los instrumentos que concretan, en un ámbito o implantación determinada, los objetivos planteados en esta ley y, en particular, el paulatino progreso hacia patrones más equilibrados de movilidad, con participación creciente de los modos no motorizados y del transporte público que deberá ser accesible. Tales planes definen igualmente las acciones y estrategias a emprender en orden a alcanzar tales objetivos, sirviendo, por lo tanto, de marco de referencia a la planificación concreta en materia de servicios públicos de transporte, de infraestructuras y del resto de acciones en relación con el acondicionamiento del espacio urbano.
+2. Los planes de movilidad serán de los siguientes tipos:
+a) Planes municipales de movilidad.
+b) Planes supramunicipales de movilidad, de ámbito comarcal, metropolitano u otros.
+c) Planes de movilidad de elementos singulares por su capacidad de generación o atracción de desplazamientos.
+Se modifica por el art. 38 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Artículo 10
+
+Artículo 10. Planes municipales de movilidad.
+1. Los planes municipales de movilidad incluirán un análisis de los parámetros esenciales que definan la movilidad en el momento en el que se formulen con respeto al principio de accesibilidad universal, los objetivos en relación con su evolución a medio y largo plazo y aquellas determinaciones necesarias para alcanzar dichos objetivos. Con anterioridad a la aprobación de los planes por parte del ayuntamiento, habrá de solicitarse informe previo del órgano competente en materia de movilidad de la Generalitat.
+2. La definición de parámetros y objetivos señalados en el punto anterior se acompañará de los indicadores que se estimen pertinentes en relación con el volumen total de desplazamientos y su reparto modal, y los niveles asociados de consumos energéticos, ocupación del espacio público, ruido y emisiones atmosféricas, particularizando las de efecto invernadero. La evolución de estos últimos parámetros tenderá a su reducción progresiva de acuerdo con los ritmos y límites que reglamentariamente se establezcan en relación con el desarrollo de las políticas energéticas y ambientales.
+3. Las determinaciones de los planes de movilidad se extenderán al diseño y dimensionamiento de las redes viarias y de transporte público, a las infraestructuras específicas para peatones y ciclistas, a las condiciones de seguridad y eficacia para la circulación peatonal y ciclista, al sistema de estacionamiento y a los aspectos de la ordenación urbana relevantes a la hora de determinar aspectos cuantitativos y cualitativos de la demanda de transporte, tales como las densidades urbanísticas, la integración de usos, la localización de servicios y otros usos atractores de transporte, y otros semejantes.
+4. Los municipios de más de 20.000 habitantes o aquellos que tengan una capacidad residencial equivalente formularán un plan municipal de movilidad en el plazo de cuatro años a partir de la entrada en vigor de esta ley.
+5. Procederá igualmente en dichos municipios la redacción de un plan municipal de movilidad o la revisión del existente con motivo de la formulación o revisión del Plan General, o cuando se introduzcan en él modificaciones relevantes en relación con la demanda de desplazamientos en los términos que reglamentariamente se establezcan. Dicha obligación se extenderá igualmente a los municipios de población inferior a los 20.000 habitantes en aquellos casos en que el instrumento urbanístico correspondiente prevea alcanzar dicha capacidad residencial o crecimientos superiores al 50 % de las unidades residenciales, o del suelo para actividades productivas, siempre y cuando se supere un umbral mínimo de incremento de 350 unidades residenciales o 75.000 m² de suelo para actividades productivas.
+6. En el supuesto previsto en el punto anterior, los planes de movilidad se formularán conjuntamente con el instrumento urbanístico al que acompañen, correspondiendo su aprobación definitiva al órgano competente en relación con dicho instrumento, previo informe favorable de la Conselleria competente en materia de transportes.
+7. Los planes municipales de movilidad serán sometidos a información pública en los términos que reglamentariamente se establezcan, de conformidad, en cualquier caso, con lo establecido en la normativa reguladora de participación ciudadana, en particular la Ley 4/2023, de 13 de abril, de la Generalitat, de participación ciudadana y fomento del asociacionismo, y su normativa de desarrollo. Tras su aprobación serán públicos y la Administración que los promueva asegurará su publicidad mediante procedimientos telemáticos. Igualmente establecerá un sistema de seguimiento de sus indicadores, procediendo a la revisión del plan en caso de que se adviertan desviaciones significativas sobre tales previsiones, cuando proceda reformular los objetivos iniciales o con motivo de cualquier otra circunstancia que altere significativamente el patrón de movilidad.
+7 bis. Además de la revisión de los planes municipales de movilidad, que seguirá el mismo procedimiento de tramitación que la redacción de un nuevo plan, los ayuntamientos podrán modificarlos cuando las circunstancias de movilidad acaecidas requieran la adaptación de estos. Por modificación de un plan de movilidad habrá que entender toda introducción de cambios en el mismo que no afecte directamente a infraestructuras de la red transeuropea de transporte (Ten-T), ni a infraestructuras pesadas de la red de movilidad municipal (ferrocarril, metro, tranvía y red primaria de comunicaciones de su planeamiento urbanístico), ni a cualesquiera actuaciones cuya ejecución sea objeto de proyectos sometidos a evaluación de impacto ambiental. Las modificaciones de los planes municipales de movilidad no necesitarán informe previo del órgano competente en movilidad de la Generalitat, se someterán a información pública sin perjuicio de que pueda excluirse motivadamente la consulta previa y necesitarán consulta al órgano ambiental autonómico para determinar si deben ser sometidos al procedimiento de evaluación ambiental estratégica. Una vez aprobadas, los municipios garantizarán su publicidad a través de su publicación en sus sedes electrónicas, portales o páginas web, sin perjuicio de las medidas de colaboración interadministrativa que puedan acordar.
+8. Los ayuntamientos tendrán la obligación de redactar planes de movilidad en aquellos ámbitos concretos de su término municipal con una problemática de movilidad específica tales como centros históricos, zonas de concentración terciaria, estadios deportivos, zonas comerciales, de turismo y de ocio nocturno, zonas con elevados flujos de compradores o visitantes, zonas acústicamente saturadas y otras zonas con usos determinados como transporte, carga y descarga de mercancías.
+9. Las acciones municipales en relación tanto con la movilidad como con los restantes elementos que la condicionen se ceñirán a la estrategia marcada en los correspondientes planes. Anualmente el ayuntamiento elaborará y hará público un informe sobre el grado de avance de las actuaciones en él previstas y sobre la programación para el siguiente ejercicio.
+Se modifican los apartados 7 y el 7 bis por el art. 109.1 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifica el apartado 7 y se añade el 7 bis por el art. 91.1 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+ Se modifica el apartado 5 por el art. 301 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica el apartado 1 por el art. 38 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Artículo 11
+
+Artículo 11. Planes supramunicipales de movilidad.
+1. Las determinaciones de los planes supramunicipales de movilidad se formularán de manera análoga a los planes de carácter municipal, si bien centrando sus determinaciones en relación con los desplazamientos interurbanos y aquellos flujos principales de la demanda susceptibles de ser atendidos por los servicios interurbanos de transporte.
+2. Con carácter general, los planes supramunicipales serán formulados y aprobados por el órgano competente en materia de movilidad de la Generalitat de manera concertada con los municipios incluidos en su ámbito, y a la vista tanto de los planes de movilidad de estos municipios como de la planificación estatal y autonómica en materia de transportes. La modificación de un plan de movilidad supramunicipal se realizará siguiendo el mismo procedimiento previsto en esta ley para la modificación puntual de los planes municipales de movilidad con las particularidades derivadas de que la administración competente para aprobarlos es autonómica y no local.
+3. También podrán formularse planes supramunicipales de movilidad por una agrupación de municipios que sea coherente desde el punto de vista del transporte. En todo caso, tanto la determinación del ámbito como la aprobación definitiva de los planes supramunicipales correrán a cargo de la Conselleria competente en materia de movilidad, que se adaptará a dichos planes en su planificación de infraestructuras y servicios de transporte, así como para la programación de sus actuaciones.
+Se modifica el apartado 2 por el art. 109.2 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifica el apartado 2 por el art. 91.2 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+ Se modifica por el art. 38 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Artículo 12
+
+Artículo 12. Planes de movilidad de nuevas áreas generadoras de alta movilidad.
+1. La implantación de aquellos usos, servicios o unidades residenciales particularmente relevantes en relación con su capacidad de generación o atracción de demanda de desplazamientos será precedida de la formulación de un plan de movilidad, cuyo alcance dependerá del instrumento urbanístico necesario para su desarrollo y de la colindancia o no con núcleos urbanos existentes.
+2. Deberán entenderse como nuevas áreas no colindantes, aquellas en las que la conexión viaria principal con el núcleo urbano de referencia tenga longitudes, en suelos no urbanizables, de más de medio kilómetro.
+3. Será obligatoria la formulación de un plan de movilidad específico en los siguientes casos:
+3.1 Actuaciones en áreas no colindantes con los núcleos urbanos existentes en sus municipios:
+Categoría a) Servicios públicos de carácter supramunicipal, entendidos como aquellos cuyo ámbito se extienda fuera del núcleo en donde se emplacen.
+Categoría b) Áreas de servicios.
+b.1) Terciarias.
+b.2) Deportivas o de espectáculos con gran afluencia de espectadores.
+b.3) Comerciales.
+b.4) Deportivas o áreas de disfrute de la naturaleza.
+b.5) Hoteleras, hosteleras o de ocio.
+Será necesario redactar un plan de movilidad específico de centro singular en los casos que de forma unitaria o conjunta, con cualquier otro uso de los contemplados en la categoría b superen las siguientes superficies:
+Categorías b1, b2 y b5: 10.000 m2 de parcela.
+Categoría b3: 2.500 m2 de superficie comercial.
+Categoría b4: 40.000 m2 de parcela para actividades deportivas y 75.000 m2 de parcela para áreas de disfrute de la naturaleza.
+Categoría c) Áreas residenciales de más de 250 viviendas y campamentos de turismo de más de 625 plazas.
+Categoría d) Áreas o instalaciones destinadas a la actividad productiva en donde se prevean más de 750 puestos de trabajo.
+3.2 Actuaciones en los núcleos urbanos existentes o colindantes con alguno de su mismo municipio:
+Categoría a) Servicios públicos de carácter supramunicipal, entendidos como aquellos cuyo ámbito se extienda fuera del núcleo en donde se emplacen y con un número de trabajadores superior a 800.
+Categoría b) Áreas de servicios:
+b.1) Terciarias.
+b.2) Deportivas o de espectáculos con gran afluencia de espectadores.
+b.3) Comerciales.
+b.4) Deportivas.
+Será necesario redactar un plan de movilidad específico de centro singular en los casos que de forma unitaria o conjunta, con cualquier otro uso de los contemplados en esta la categoría b superen los siguientes valores:
+Categoría b1: 1.500 trabajadores.
+Categoría b2: 10.000 m2 de superficie de parcela.
+Categoría b3: 5.000 m2 de superficie comercial en los municipios de menos de 50.000 habitantes y 10.000 m2 en los de más de 50.000 habitantes.
+Categoría b4: 50.000 m2 de parcela.
+Categoría c) Áreas o instalaciones destinadas a la actividad productiva en donde se prevean más de 1.500 puestos de trabajo.
+4. Los planes de movilidad referentes a las implantaciones señaladas en el punto anterior evaluarán la demanda asociada a la nueva implantación, incluyendo la perspectiva de accesibilidad universal, e indicarán las soluciones en orden a atenderlas debidamente bajo los principios de la existencia, de una conexión peatonal-ciclista con los núcleos urbanos próximos y una participación adecuada del transporte público en relación con el conjunto de modos motorizados.
+5. Al objeto de asegurar la accesibilidad a las áreas de las categorías a y b de los puntos 3.1 y 3.2 del presente artículo, éstas se emplazarán preferentemente junto a paradas o estaciones de los elementos básicos del sistema de transporte público de la Comunitat Valenciana o del municipio correspondiente, entendiendo como tales los que simultáneamente cumplan los tres siguientes requisitos:
+a) Frecuencia adecuada de al menos un servicio adaptado cada quince minutos.
+b) Capacidad suficiente para atender al menos el 50% de la demanda de transporte asociada al nuevo emplazamiento.
+c) Un sistema de conexiones que garantice un tiempo de acceso razonable desde el conjunto del ámbito de servicio de la implantación considerada.
+6. El plan de movilidad propondrá las soluciones adecuadas para la conexión al sistema de transporte público que deberá ser accesible sea mediante la modificación o prolongación de servicios ya existentes o mediante un análisis técnico de accesibilidad al entorno, bien mediante la creación de servicios alimentadores, estacionamientos disuasorios y otras medidas similares. Las propuestas del plan incluirán las necesidades infraestructurales inherentes a tales actuaciones y una evaluación tanto de sus costes como de las compensaciones de prestación de servicio público inherentes en el caso de que éstas fueran necesarias, que en ambos casos podrán ser exigibles al promotor de la nueva implantación.
+7. El plan de movilidad incluirá, en los casos de ámbitos con distancias internas entre sus elementos de más de 1.000 metros o pendientes superiores al 5% en una parte significativa de su viario, aquellas soluciones específicas para los desplazamientos internos, para poder asegurar la habitabilidad de tales ámbitos a las personas que no dispongan de vehículo privado.
+8. Corresponde a la conselleria competente en materia de transporte la aprobación de los planes de movilidad previstos en este artículo, aprobación que será previa al otorgamiento de la licencia o aprobación del proyecto o instrumento de ordenación que posibilite el desarrollo de la implantación. El procedimiento se resolverá en el plazo máximo de dos meses, previo informe del ayuntamiento correspondiente. En los casos en que concurra alguna de las circunstancias previstas en el punto 6, tal aprobación quedará supeditada a la consolidación de los costes y compensaciones que se señalen ante la conselleria competente en materia de movilidad o la entidad de derecho público que asuma sus funciones. Para ello, se podrán utilizar los procedimientos de depósito, garantía, aval, cesión de inmueble con valor de renta equivalente u otro que se estime adecuado. En caso de incumplimiento por parte del promotor del plan o de la resolución que lo apruebe, la conselleria o la entidad mencionada aplicarán tales cantidades al mantenimiento del servicio público o a la ejecución de las obras previstas en dicho plan.
+La modificación puntual de un plan de movilidad de nueva área generadora de alta movilidad se realizará siguiendo el mismo procedimiento previsto en esta ley para la modificación puntual de los planes municipales de movilidad con las particularidades derivadas de que la administración competente para aprobarlos es autonómica y no local.
+9. Los planes generales y demás instrumentos de ordenación priorizarán la implantación en los suelos urbanizables inmediatos a estaciones o puntos de parada del sistema básico de transporte, de aquellos usos que impliquen mayores niveles de demanda de transporte y preferentemente de servicios públicos de ámbito supralocal, y en segundo lugar de grandes equipamientos comerciales y de ocio.
+Se modifica el apartado 8 por el art. 109.3 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifica el apartado 8 por el art. 91.3 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+ Se modifican los apartados 3, 4 y 6 por el art. 302 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 38 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Artículo 13
+
+Artículo 13. Planes de movilidad de implantaciones singulares preexistentes.
+1. Mediante resolución motivada, la autoridad competente en materia de transporte podrá instar, a los titulares de los centros señalados en las categorías a y b de los puntos 3.1 y 3.2 del artículo anterior que se hayan implantado antes de la entrada en vigor de la presente ley y que generen niveles especialmente relevantes de movilidad, que formulen un plan de movilidad.
+2. El Plan de Movilidad señalará aquellas medidas necesarias para favorecer los desplazamientos no motorizados y en transporte público, diferenciando aquellas que deban abordar los titulares de las actividades, de las susceptibles de ser incorporadas a los programas de actuación de las Administraciones concernidas.
+3. Corresponde la aprobación del plan de movilidad en el supuesto previsto en este artículo a la autoridad que inste su formulación, tras el correspondiente periodo de concertación tanto con los titulares de las actividades como con el o los municipios en que se ubiquen.
+4. Transcurridos dos años sin que se hubiera formulado el plan de movilidad, corresponderá a la administración competente en materia de transporte su formulación, aprobación y ejecución, imputando los costes de tales acciones a los titulares de las actividades de acuerdo con los procedimientos previstos en la legislación aplicable.
+Se modifica el apartado 1 por el art. 38 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Artículo 14
+
+Artículo 14. Planes de movilidad de instalaciones productivas.
+1. Las instalaciones productivas o de servicios podrán formular planes de movilidad en relación con los desplazamientos cotidianos de su personal, bien de forma individualizada bien conjuntamente en el seno de asociaciones extendidas a ámbitos o sectores homogéneos. Dichos planes se formularán de manera concertada con las asociaciones de usuarios, y una vez aprobados se remitirán a la autoridad de transporte correspondiente a los meros efectos de su conocimiento.
+2. Las acciones previstas en los planes de movilidad de instalaciones productivas podrán incluir recomendaciones sobre actuaciones a incluir en la programación de actuaciones de las administraciones concernidas en función de sus correspondientes competencias.
+
+### Artículo 15
+
+Artículo 15. Planes de movilidad de centros de formación.
+1. Los centros de formación secundaria o universitaria de más de 500 estudiantes dispondrán de un plan de movilidad en relación tanto con los desplazamientos de dichos estudiantes, como del personal docente y no docente. La existencia de dicho plan será facultativa en los centros que no alcancen la cifra antes señalada, y para su elaboración se seguirán las especificaciones contempladas en los artículos anteriores en relación con los planes de instalaciones productivas.
+2. Los mencionados planes de movilidad promoverán especialmente el acceso a pie, en bicicleta y en transporte público. Contemplarán en tal sentido tanto las infraestructuras necesarias en relación con estacionamiento de bicicletas, accesos peatonales-ciclistas, conexiones y paradas para el transporte público etc., como las acciones formativas y divulgativas destinadas a promover el uso de los modos no motorizados y del transporte público, tanto en sus desplazamientos de acceso al centro como en general.
+
+## CAPÍTULO IV
+
+Derechos y deberes de la ciudadanía en relación con la movilidad y el transporte público
+
+### Artículo 16
+
+Artículo 16. Derechos y obligaciones.
+1. En relación con la movilidad, las personas que residan en la Comunitat Valenciana tienen derecho a:
+a) Optar por el modo que entiendan más adecuado a sus necesidades de entre aquellos que estén a su disposición.
+b) Disponer del servicio básico de transporte público con independencia de su punto de residencia.
+c) Disponer de alternativas seguras, cómodas y de calidad para sus desplazamientos no motorizados.
+d) La prestación de los servicios de transporte con niveles adecuados de calidad y seguridad.
+e) Disponer de la información necesaria para elegir el modo más adecuado y planificar el desplazamiento adecuadamente.
+f) Presentar de forma gratuita ante la autoridad de transporte y los operadores las denuncias, reclamaciones y sugerencias que estimen oportunas en relación con el servicio de transporte público.
+g) Participar en la toma de decisiones en relación con la movilidad de acuerdo con los procedimientos previstos en esta ley y en el resto de normativa aplicable.
+2. Quienes utilicen los servicios de transporte deberán seguir las pautas de comportamiento y de uso establecidas en esta ley y en la normativa que la desarrolle, y en todo caso se observará una actitud respetuosa hacia el resto de las personas usuarias y del personal de las empresas operadoras, con la seguridad y con la calidad ambiental de los diversos modos, y con el entorno.
+3. Los derechos y obligaciones de la presente ley se extienden a la totalidad de las personas con independencia de su edad o de sus limitaciones personales, en relación con el estricto cumplimiento de lo dispuesto en la Ley 9/2009, de 20 de noviembre, de la Generalitat, de Accesibilidad Universal al Sistema de Transportes de la Comunitat Valenciana.
+
+### Artículo 17
+
+Artículo 17. Participación ciudadana.
+1. Asiste a los ciudadanos y ciudadanas el derecho a conocer y participar en la planificación y regulación en materia de movilidad y transporte, de acuerdo con los instrumentos previstos en la normativa vigente.
+2. Las administraciones asegurarán la mayor divulgación y conocimiento posible de los documentos aprobados provisional o definitivamente, mediante la utilización de todos los procedimientos que estén en su mano y especialmente mediante su difusión a través de Internet.
+3. En los casos en los que se estime necesario, la administración formulará una encuesta pública previa a la adopción de sus decisiones en materia de planificación y regulación. A tal efecto abrirá un trámite público de inscripción previa, tras el cual someterá sus propuestas a debate bien de manera directa bien mediante medios telemáticos. Los resultados de tal procedimiento serán tenidos en cuenta por la administración y su aceptación o denegación, que será en todo caso motivada, se integrará en el expediente correspondiente.
+4. La autoridad de transporte competente podrá conformar, tras el correspondiente trámite de inscripción previa, paneles de usuarios y usuarias de servicios o zonas determinadas. Las personas inscritas en los paneles serán consultadas con motivo de los cambios relevantes en los servicios, recibirán información directa de las alteraciones que se estimen relevantes, y al menos una vez al año serán convocadas en asamblea.
+
+### Artículo 18
+
+Artículo 18. Obligaciones de los operadores de transporte.
+1. En todo transporte público de viajeros los daños que sufran éstos deberán estar cubiertos por un seguro, en los términos que establezca la legislación específica sobre la materia, en la medida en que dichos daños no estén cubiertos por el seguro de responsabilidad civil de suscripción obligatoria previsto en la Ley de Responsabilidad y Seguro en la Circulación de Vehículos a Motor.
+2. Los operadores informarán debidamente sobre sus servicios. Informarán igualmente de las alteraciones de éstos en el plazo más breve posible, así como de las medidas tomadas para asegurar servicios alternativos siempre que ello fuera posible.
+3. El personal de las empresas operadoras de transporte proporcionará a los usuarios y usuarias toda la información que demanden sobre los servicios y sus alteraciones, y en todo caso aplicarán en el trato normas de comportamiento semejantes a las obligatorias para el personal funcionario. En todo caso, el personal que en razón de su puesto de trabajo tenga relación con las personas usuarias deberá estar debidamente identificado.
+4. Los operadores facilitarán a las personas usuarias de sus servicios la presentación y tramitación de quejas y reclamaciones, a través de los medios telemáticos que reglamentariamente se determinen.
+5. Los vehículos e instalaciones deberán ser mantenidos en las mejores condiciones posibles de limpieza y confort climático y sonoro, y en todo caso dando estricto cumplimiento a lo previsto en el contrato de operación de servicio público y en la normativa aplicable.
+6. Los operadores de transporte interurbanos facilitarán la intermodalidad con la bicicleta permitiendo su traslado en los vehículos, hasta un límite igual al 20% de plazas sentadas, así como las posibilidades de alquiler y estacionamiento en las estaciones y apeaderos. Tal obligación se incorporará a todos los contratos de servicio público de transporte a suscribir desde la entrada en vigor de esta ley, así como a los previamente vigentes en un plazo de cinco años. En los casos en los que tal posibilidad sea técnicamente inviable se arbitrarán las soluciones alternativas correspondientes de acuerdo a lo que reglamentariamente se establezca.
+
+### Artículo 19
+
+Artículo 19. Obligaciones de los usuarios y usuarias del transporte público.
+1. Quienes utilicen el transporte público deberán disponer, durante su estancia en los vehículos y resto de instalaciones del sistema que se determine, del correspondiente título de transporte válido. La estancia en tales lugares sin la posesión del título debidamente cancelado/validado, al iniciar el viaje y/o al inicio del trasbordo, podrá implicar la aplicación de un título diferente, con un importe establecido en las tarifas aplicables en la fecha de los hechos, y en relación con el perjuicio público que pudiera suponer dicho comportamiento, evaluándose los daños y perjuicios ocasionados con independencia de otros gastos y acciones sancionadoras, administrativas, civiles o de otra índole que procediesen.
+2. Los usuarios y las usuarias deberán atender las indicaciones del personal del operador de transporte en orden a garantizar unas condiciones adecuadas de prestación de los servicios.
+
+### Artículo 20
+
+Artículo 20. Foro de la Movilidad de la Comunitat Valenciana.
+1. Se crea el Foro de la Movilidad de la Comunitat Valenciana, como órgano de participación ciudadana en materia de movilidad, con el objeto de analizar la evolución de la movilidad y en particular el grado de avance en relación con los objetivos planteados en esta Ley, así como informar los diversos instrumentos en ella previstos y promover las acciones adicionales que se estimen convenientes en relación con dichos objetivos.
+2. El Foro de la Movilidad de la Comunitat Valenciana integrará a Administraciones, organizaciones empresariales, organizaciones sindicales, personas expertas en la materia y asociaciones de consumidores y usuarios, así como otros actores sociales y económicos relevantes en relación con la movilidad, tales como empresas operadoras de servicios, asociaciones de comerciantes, asociaciones de personas con movilidad reducida, etc.
+3. Su constitución, formación y funcionamiento serán regulados por el correspondiente reglamento. En todo lo no previsto explícitamente, se estará a la regulación contenida en la Ley de Participación Ciudadana de la Comunitat Valenciana y en su normativa de desarrollo.
+4. Se reunirá al menos una vez al semestre, siendo sometido a su consideración un informe sobre la evolución de la movilidad en el conjunto de la Comunitat Valenciana, así como todos aquellos asuntos que se estimen convenientes.
+5. Podrán crearse foros de movilidad en relación con ámbitos integrados específicos, bien de ámbito municipal o metropolitano.
+
+## TÍTULO II
+
+Transporte de viajeros
+
+## CAPÍTULO I
+
+El servicio público de transporte
+
+## Sección primera
+
+Sección primera. Tipos y planificación de los servicios de transporte
+
+### Artículo 21
+
+Artículo 21. Transporte de viajeros.
+1. A los efectos de esta ley, transporte de viajeros es el realizado por cuenta de terceros contra la correspondiente contraprestación económica.
+2. Los transportes de viajeros se clasifican en:
+a) Servicio público de transporte, entendido como tal el ofertado a la ciudadanía, de acuerdo con un calendario y horario previamente establecidos.
+b) Transportes públicos regulares de uso especial.
+c) Transporte discrecional de viajeros.
+d) Servicio de taxi prestado en turismos.
+e) Transporte a la demanda.
+3. Los servicios de transporte señalados en los apartados a, b, d y e del punto anterior se prestarán de acuerdo con lo establecido en la presente ley. Los servicios discrecionales de transporte se acomodarán a lo establecido en la legislación estatal en la materia.
+4. La prestación de servicios de transporte podrá efectuarse mediante sistemas ferroviarios, viarios o con una combinación de ellos, según resulte más conveniente.
+5. No tendrán la consideración de transporte de viajeros, a los efectos de esta ley, los que se desarrollen en recintos cerrados o los que se realicen exclusivamente con el carácter de atracción turística.
+Se modifican los apartados 2 y 3 por el art. 217 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica el apartado 2 por el art. 96 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-8
+
+### Artículo 22
+
+Artículo 22. El servicio público de transporte. Fines y competencias.
+1. Mediante la prestación de los servicios públicos de transporte, las administraciones públicas competentes conforman una oferta integrada de movilidad en orden a asegurar a ciudadanos y ciudadanas sus opciones de acceso a los servicios y equipamientos, al trabajo, a la formación y a los restantes destinos que sean demandados.
+2. La Generalitat es la autoridad de transporte competente para la provisión de los servicios públicos de transporte en la Comunitat Valenciana.
+3. Los ayuntamientos son las autoridades de transporte competentes en la provisión de servicios públicos de transporte dentro de sus términos municipales, de acuerdo con lo establecido en la legislación de régimen local, lo previsto en esta ley, la normativa que la desarrolle y los instrumentos de coordinación que, de acuerdo con dicha normativa, se establezcan para asegurar la integración del sistema de transportes.
+4. Las distintas administraciones podrán suscribir convenios de cooperación interadministrativa para la prestación conjunta de los servicios públicos de transporte de su competencia, pudiendo delegar sus competencias entre sí, en caso de que resultara conveniente. Los convenios que suscriba la Generalitat podrán conllevar la integración de la prestación de los tráficos urbanos en el marco de un contrato de prestación de servicio público de transporte interurbano, y deberán establecer las condiciones para su realización y el régimen de financiación.
+5. Corresponde a cada una de las autoridades de transporte competentes la ordenación, planificación, gestión y prestación de los servicios públicos de transporte bien mediante operador interno, en la acepción del Reglamento CE 1370/2007, o mediante el operador seleccionado de acuerdo con la normativa aplicable.
+6. La prestación de los servicios públicos de transporte que correspondan a la Generalitat en virtud de delegación o encomienda por parte de la administración general del Estado, o previo convenio con otras comunidades autónomas, se acomodará a lo previsto en esta ley en lo que no se oponga a la legislación del Estado, sin perjuicio de las restantes legislaciones que resulten de aplicación.
+Se modifica el apartado 4 por el art. 303 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifican los apartados 2 y 4 por el art. 218 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica el apartado 2 por la disposición final 1.2 de la Ley 1/2012, de 10 de mayo. Ref. BOE-A-2012-6932#dfprimera
+
+### Artículo 23
+
+Artículo 23. Plan de Transporte Público de la Comunitat Valenciana.
+1. El Plan de Transporte Público de la Comunitat Valenciana se define como el instrumento de ordenación general del sistema de transporte en dicho ámbito. El plan se establecerá de manera coordinada con la planificación estatal y municipal, teniendo en cuenta las estrategias y planes de movilidad vigentes y las restantes planificaciones territoriales y sectoriales.
+2. Corresponde al plan:
+a) Determinar los nodos esenciales del sistema de transporte que corresponderán a los centros metropolitanos, cabeceras comarcales y núcleos de especial relevancia.
+b) Definir las conexiones esenciales entre ellos y las redes que en cada ámbito metropolitano o comarcal aseguran un nivel adecuado de cobertura por parte del transporte público.
+c) Indicar para cada una de las conexiones esenciales el modo de transporte aconsejable, y en relación con ello las necesidades en materia de infraestructuras de transporte.
+d) Establecer una distribución orientativa de los servicios en orden a elaborar los proyectos de servicio público de transporte en cada zona o itinerario básico.
+e) Fijar los criterios básicos en relación con los servicios de transporte destinados a colectivos específicos y con los servicios de taxi.
+3. El Plan será formulado y aprobado por la conselleria competente en la materia. En tanto no se produzca su aprobación podrán formularse proyectos de servicio público de transporte de acuerdo con los principios generales de esta ley y los criterios señalados en los puntos anteriores.
+4. Podrán formularse planes zonales con contenido semejante a los señalados en los puntos anteriores en aquellos ámbitos en los que se considere conveniente.
+5. Las propuestas del Plan de Transporte Público de la Comunitat Valenciana, así como las de los planes zonales, deberán tener en cuenta las determinaciones establecidas por la Estrategia Territorial de la Comunitat Valenciana.
+6. Se promoverá la participación ciudadana en la elaboración del Plan a través de los instrumentos contenidos en la Ley 11/2008, de 3 de julio, de la Generalitat, de Participación Ciudadana de la Comunitat Valenciana.
+
+## Sección segunda
+
+Sección segunda. Proyecto de servicio público de transportes
+
+### Artículo 24
+
+Artículo 24. Definición y contenido esencial.
+1. Mediante el proyecto de servicio público de transporte se definen los aspectos básicos de prestación de un determinado servicio, permitiendo su ulterior encomienda o licitación, así como la coordinación con otros servicios y el desarrollo del trámite de información pública.
+2. El proyecto de servicio público de transporte podrá extenderse a un ámbito o itinerario determinado, a la creación o extensión de líneas dentro de redes existentes, o a cualquier otro elemento sustancial que suplemente servicios que ya se venían prestando con anterioridad.
+3. Corresponde a la administración competente en cada caso la formulación del proyecto de servicio público de transporte de acuerdo con los criterios generales de esta ley, y en su caso con los instrumentos de planificación de transporte vigentes en el ámbito considerado.
+4. Los operadores podrán presentar a la administración actuante propuestas de proyectos de servicio público de transportes, que podrán ser admitidos o no por aquella en relación con su interés público. En caso de que se optase por su formulación y ulterior licitación, el proponente inicial tendrá derecho al reembolso de los honorarios profesionales correspondientes a la propuesta inicial en caso de que no resultara adjudicatario, dentro de los límites que reglamentariamente se establezcan siempre que el adjudicatario final no pertenezca o esté relacionado con el mismo grupo empresarial del proponente.
+
+### Artículo 25
+
+Artículo 25. Contenido específico.
+El proyecto de servicio público de transporte incluirá:
+1. El ámbito de prestación, que podrá ser definido en relación con determinados itinerarios, relaciones entre núcleos o zonas homogéneas.
+2. Los servicios que por formar parte de las obligaciones de servicio público tengan la condición de básicos.
+3. Los servicios adicionales que deben ser prestados por el operador sin compensación alguna.
+4. Los límites y condiciones de los servicios suplementarios que puedan ser prestados por decisión del operador.
+5. Las condiciones de exclusividad con la que se presten los servicios.
+6. Las determinaciones referentes a los títulos de transporte, propios o integrados, y a su correspondiente marco tarifario, de acuerdo en todo caso con lo indicado en el siguiente artículo.
+7. Las estipulaciones en relación con terminales, horarios, información y otros aspectos que resulten necesarios para la coordinación con otros servicios de transporte.
+8. La información necesaria en relación con las infraestructuras que deban utilizarse y en su caso, los peajes, cánones o alquileres que deban ser abonados por el operador.
+9. El régimen de coordinación con otros servicios de transporte.
+10. La compensación máxima de servicio público que corresponda al operador, así como el procedimiento objetivo y transparente sobre cuya base debe calcularse tal compensación en caso de que proceda. La compensación no podrá exceder la incidencia financiera neta derivada de la ejecución de las obligaciones de servicio público en los costes e ingresos del operador, teniendo en cuenta los ingresos correspondientes conservados por el operador de servicio público, y la existencia de un beneficio empresarial razonable.
+11. El estudio económico financiero que acredite la viabilidad del servicio de acuerdo con la demanda e ingresos tarifarios previstos, las compensaciones por prestación de servicio público, y los demás ingresos que proceda considerar.
+12. Las condiciones de calidad en la prestación de los servicios, indicando tanto los requisitos mínimos como los niveles idóneos y, en su caso, las variaciones en más o en menos del régimen de compensaciones señalado en el punto anterior en relación con el grado de cumplimiento de dicho objetivo.
+13. Las características de los vehículos o unidades ferroviarias o tranviarias adscritas al servicio, indicándose igualmente si éstos deben ser propiedad del operador o si son proporcionados por la administración. Se indicará igualmente si deben estar adscritos en exclusiva a la prestación de los servicios, las condiciones de mantenimiento, y si procede o no su adquisición por la administración actuante al final del plazo del contrato.
+14. Los medios técnicos y los demás requisitos de carácter laboral y organizativo que se consideren imprescindibles para la prestación del servicio.
+15. Las instalaciones y servicios adicionales que debe prestar el operador, tanto en materia de información al usuario y otros que resulten de interés, así como en su caso la obligación del uso de estaciones o terminales de viajeros.
+16. El plazo total de prestación de los servicios, así como en su caso los plazos parciales correspondientes a fases sucesivas de ampliación o modificación de los mismos.
+El proyecto identificará los elementos básicos de prestación del servicio, diferenciándolos de aquellos que pueden ser ampliados o mejorados en el transcurso del plazo contractual.
+El proyecto incluirá igualmente aquellas determinaciones adicionales que reglamentariamente se determinen, así como aquellas otras que resulten pertinentes para el cumplimiento de sus fines.
+17. Los aspectos de carácter ambiental de los medios de transporte y su impacto.
+
+### Artículo 26
+
+Artículo 26. Tramitación.
+1. El proyecto de servicio público de transporte será aprobado inicialmente por la administración competente y sometido a información pública e informe de las restantes administraciones afectadas. Se dará igualmente traslado a otros operadores afectados, bien por la coincidencia de servicios o zonas afectadas, o por las necesidades de coordinación establecidas, así como en su caso a los concesionarios de obra pública que pudieran estar afectados por los nuevos servicios.
+2. Concluido el periodo de información pública e informe institucional, se procederá a la aprobación del proyecto y a su licitación o encomienda, según proceda.
+3. Una vez producida la aprobación precedente, el documento resultante de servicio público de transportes será publicado mediante procedimientos telemáticos y trasladado a todas las restantes administraciones afectadas. En el caso de que el procedimiento de licitación admita variaciones sobre aspectos no sustanciales, la publicación se diferirá a la adjudicación del contrato y a la aprobación definitiva del proyecto, incluyendo las variaciones derivadas de dicha adjudicación.
+
+### Artículo 27
+
+Artículo 27. Plazo.
+1. La duración de los contratos de servicio público será limitada y no podrá superar diez años para los servicios de autobús o autocar, y quince años para los servicios de transporte de viajeros por ferrocarril u otros modos ferroviarios.
+La duración de los contratos de servicio público relativos a diversos modos de transporte se limitará a quince años si los transportes por ferrocarril u otros modos ferroviarios representan más del 50% del valor de los servicios en cuestión.
+2. En caso necesario, y habida cuenta de las condiciones de amortización de los activos, la duración del contrato de servicio público podrá prolongarse durante, como máximo, la mitad del período original, si el operador de servicio público aporta elementos del activo que sean a la vez significativos en relación con la totalidad de los activos necesarios para prestar los servicios de transporte de viajeros objeto del contrato de servicio público, y que estén relacionados predominantemente con éstos.
+
+### Artículo 28
+
+Artículo 28. Publicidad.
+1. Cada autoridad competente hará público una vez al año, en la forma que se determine reglamentariamente, un informe global sobre los contratos de servicio público de transporte adjudicados, indicando para cada uno de ellos sus características esenciales.
+2. Las administraciones competentes harán pública, mediante anuncio en el Diario Oficial de la Unión Europea, su intención de adjudicar directamente contratos de servicio público de transporte, salvo que dichos contratos supongan menos de 50.000 km anuales de servicios de transporte. El anuncio incluirá los datos de la Administración concedente y las características básicas del servicio.
+
+## Sección tercera
+
+Sección tercera. Contratación de los servicios públicos de transporte
+
+### Artículo 29
+
+Artículo 29. El contrato de servicio público de transporte.
+1. La prestación del servicio de transporte será llevada a cabo por un operador vinculado a la administración por el correspondiente contrato de servicio público de transporte. La prestación del servicio de transporte será llevada a cabo por un operador interno, de los definidos en el Reglamento CE 1370/2007, o por un operador vinculado a la administración por el correspondiente contrato de servicio público de transporte.
+2. El contrato de servicio público de transporte establecerá las obligaciones de servicio público, aquellos otros servicios que pueden ser prestados por el operador, y el régimen inherente de compensaciones y de derechos de exclusividad que en su caso correspondiese.
+3. El contrato podrá establecer un marco de tarifas máximas, que tendrán la consideración de obligación de servicio público cuando resulten inferiores a las derivadas de los costes del servicio y que por lo tanto darán lugar a las compensaciones previstas en los puntos anteriores.
+
+### Artículo 30
+
+Artículo 30. Formas de prestación.
+1. Una vez aprobado el proyecto de servicio público de transporte, y de acuerdo con lo previsto en el Reglamento 1370/2007 del Parlamento Europeo y del Consejo sobre los servicios públicos de transporte por ferrocarril y por carretera, la autoridad de transporte optará por:
+a) Adjudicar el contrato de manera directa a empresa o entidad pública de ella dependiente.
+b) Licitar la operación del servicio de acuerdo con lo previsto en esta ley y la legislación básica de contratación del sector público.
+2. Con carácter excepcional, la administración actuante podrá prestar los servicios con medios propios, sin que ello sea óbice para el cumplimiento de los requisitos generales establecidos en la normativa aplicable en materia de transportes discrecionales.
+
+### Artículo 31
+
+Artículo 31. Formas de adjudicación y modalidades de contratación.
+1. La contratación de los servicios públicos de transporte señalada en el apartado b del punto 1 del artículo anterior se realizará con carácter general mediante la modalidad de concesión, de acuerdo con lo dispuesto en la normativa básica estatal en materia de transportes y en el artículo 5 del Reglamento 1370/2007, del Parlamento Europeo y del Consejo, sobre los servicios públicos de transporte de viajeros por ferrocarril y carretera, por lo cual el operador gestionará el servicio a su riesgo y ventura. No obstante, la autoridad de transporte podrá emplear las restantes modalidades de contratación de servicios públicos previstas en la legislación de contratación del sector público cuando así lo aconseje el interés general. En este caso resultará de aplicación lo dispuesto en normativa básica estatal en materia de contratación pública y en el artículo 5 del Reglamento 1370/2007.
+2. Los procedimientos de adjudicación directa de contratos de concesión de servicios públicos, siempre que proceda de conformidad con lo previsto en el apartado 1, serán precedidos de la elaboración de un proyecto simplificado, que tendrá la consideración de pliego de prescripciones técnicas, y estará exento del trámite de información pública.
+3. La selección del adjudicatario se realizará de acuerdo con la valoración de los diversos criterios establecidos en el pliego de cláusulas administrativas particulares, entre los cuales necesariamente figurará el valor de las compensaciones económicas correspondientes a las obligaciones de servicio público.
+4. Las empresas operadoras de transporte deberán estar en posesión de los títulos habilitantes para la prestación de servicio de transporte discrecional por carretera, de transporte ferroviario, o ambos según proceda.
+Se modifica por el art. 110 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+ Se modifican los apartados 3 y 4 por el art. 219 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica el apartado 4 por el art. 139 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+### Artículo 32
+
+Artículo 32. Ejecución del contrato de servicio público de transporte.
+1. El contrato de prestación de servicio público de transporte se ejecutará de acuerdo con el proyecto aprobado, las cláusulas administrativas generales y particulares y lo indicado en el documento de condiciones concretas de prestación del servicio a que hace referencia este artículo.
+2. La autoridad de transportes nombrará a un técnico competente director del servicio. Corresponderá al director del servicio velar por su prestación de acuerdo con lo previsto en la legislación aplicable y en el contrato. Le corresponderá igualmente formalizar la documentación necesaria que acredite la prestación de las obligaciones de servicio público previa al abono de las compensaciones previstas.
+3. Tras la suscripción del contrato de prestación de servicio público de transporte, el operador elaborará en el plazo de dos meses un documento en el que fije las condiciones concretas de prestación del servicio, tales como los horarios de las diversas expediciones o las frecuencias de cada intervalo horario, el marco tarifario, los vehículos concretos adscritos a la prestación de los servicios, los puntos de parada, las medidas adoptadas para garantizar la accesibilidad a los vehículos y en las paradas y otros similares. El citado documento será aprobado por el director del servicio, salvo que sus extremos no sean concordantes con el contrato y con el interés público, en cuyo caso requerirá al operador para que se subsanen las deficiencias observadas en el plazo adicional de un mes.
+4. La aprobación del documento de condiciones concretas de prestación del servicio de transporte será condición previa para el inicio de los servicios.
+5. El documento podrá ser modificado cada vez que resulte conveniente para adaptar la prestación de tales servicios a la demanda y al interés público, y siempre que tales variaciones no alteren las condiciones de contrato.
+6. La información dada a las personas usuarias siempre será concordante con el documento de condiciones concretas de prestación del servicio. Su contenido será trasladado a los ayuntamientos afectados tanto con ocasión de su aprobación, como de las ulteriores modificaciones.
+7. El incremento de expediciones o la implantación de nuevas paradas que no impliquen tráficos adicionales en los términos que se definan reglamentariamente se tramitará de acuerdo con lo previsto en este artículo, siempre que no supongan una modificación del contrato.
+8. Los aspectos de la operación no regulados en el contrato o el documento de condiciones concretas de prestación del servicio podrán ser establecidos por el operador de manera que el servicio de transporte pueda prestarse en las mejores condiciones posibles.
+Se modifica el apartado 3 por el art. 304 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 33
+
+Artículo 33. Utilización de medios de terceros y subcontratación.
+1. El operador de transporte podrá utilizar medios materiales propios o de terceros, dentro de los límites que al respecto establezca el correspondiente contrato y siempre que se cumplan las especificaciones de calidad previstas en él.
+2. La subcontratación de determinados servicios a terceros se acomodará a lo previsto en esta ley, en el reglamento que la desarrolle y en la normativa de contratación del sector público. En todo caso, los prestadores deberán estar en posesión de los títulos habilitantes necesarios.
+3. La empresa operadora podrá subcontratar igualmente la prestación de determinados servicios a taxis dotados de la autorización correspondiente cuando el interés público así lo aconseje, y previa la modificación correspondiente del documento de condiciones concretas de prestación del servicio. En tal caso el régimen aplicable a los viajeros será el del contrato de servicio de transporte público en lo referente a títulos, tarifas y demás características, correspondiendo al titular de la autorización de taxi la retribución que acuerde con el operador.
+
+### Artículo 34
+
+Artículo 34. Modificación de los contratos de concesión de servicio público de transportes.
+1. Los contratos de concesión de servicio público de transportes podrán modificarse de acuerdo con lo previsto en esta ley y en la normativa estatal básica en materia de transporte o, en su caso, de contratación pública, que le sea de aplicación según el modo de transporte de que se trate; todo ello sin perjuicio de lo previsto en el Reglamento 1370/2007.
+2. Será condición previa necesaria para la modificación del contrato aprobar la modificación del proyecto de servicio público de transportes cuando afecte a la definición de los servicios.
+3. Con observancia a lo previsto en la normativa básica estatal en materia de contratación pública, los contratos de concesión de servicio público de transportes podrán modificarse para introducir nuevos servicios a la demanda o prestarse los ya existentes, total o parcialmente, como transporte a la demanda según lo dispuesto en el apartado 1 del artículo 41 bis, aplicando el régimen tarifario del contrato, cuando por circunstancias acreditadas derivadas de su bajo índice de utilización no estuviera garantizada su adecuada realización y siempre teniendo en consideración las necesidades de las personas usuarias y el impacto económico-financiero derivado del cambio de sistema en el equilibrio contractual. Esta modificación tendrá carácter de obligatoria para el contratista.
+Se modifica por el art. 111 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+ Se añade el apartado 9 por el art. 220 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 35
+
+Artículo 35. Extinción de los contratos de servicio público de transportes.
+1. Los contratos de servicio público de transportes se extinguirán por cumplimiento o por resolución.
+2. Las causas de resolución son las siguientes:
+a) Incumplimiento de las condiciones esenciales del contrato.
+b) La muerte o incapacidad sobrevenida del empresario individual o la extinción de la personalidad jurídica de la empresa gestora del servicio, salvo que se produzca la transmisión de las mismas en los términos que se determinan en la legislación de contratos del sector público. No se considerará que se ha producido la extinción de la empresa cuando cambie simplemente su forma jurídica, pero se mantenga aquélla en sus aspectos económico y laboral.
+c) La declaración de concurso o la declaración de insolvencia en cualquier otro procedimiento, o circunstancias que impidan el normal cumplimiento del contrato.
+d) El mutuo acuerdo entre la administración y el operador.
+e) La demora en el cumplimiento de los plazos por parte del contratista.
+f) La demora superior a seis meses por parte de la administración en la entrega al contratista de la contraprestación o de los medios auxiliares a que se obligó según el contrato.
+g) La supresión o rescate del servicio por razones de interés público.
+h) La imposibilidad de la explotación del servicio como consecuencia de acuerdos adoptados por la administración con posterioridad al contrato.
+i) Renuncia del operador en los casos legal o reglamentariamente previstos.
+j) Pérdida de los títulos habilitantes necesarios para la prestación del servicio.
+k) Unificación de varias concesiones de acuerdo con lo previsto en el artículo precedente.
+l) Las establecidas expresamente en el contrato.
+3. A la finalización del contrato de servicio público de transporte, éste podrá ser prorrogado excepcionalmente por el tiempo necesario para que se produzca la adjudicación al siguiente operador, tiempo que en ningún caso podrá superar dos años.
+Se modifca el apartado 3 por el art. 151 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663
+
+### Artículo 36
+
+Artículo 36. Rescate y renuncia.
+1. La administración, por razón de interés público, podrá dar por concluido el contrato de servicio público de transporte antes de la finalización del plazo contractual. Salvo en los casos en que tal hecho se produzca como sanción dentro de un procedimiento de caducidad del contrato, el operador tendrá derecho a la indemnización que proceda de acuerdo con lo previsto en el propio contrato y en la normativa reguladora de la responsabilidad patrimonial de la administración.
+2. El operador podrá renunciar a la prestación del servicio comunicándolo con una antelación mínima de un año, salvo que el contrato establezca plazo diferente.
+3. En el supuesto previsto en el extremo anterior, así como en los demás supuestos de extinción del contrato, la administración adoptará las medidas necesarias para la prestación del servicio en tanto en cuanto no se produzca una nueva adjudicación. Procederá igualmente la intervención de la Administración en los términos señalados en el punto anterior cuando se produzca un abandono parcial del servicio.
+
+## Sección cuarta
+
+Sección cuarta. Títulos de transporte
+
+### Artículo 37
+
+Artículo 37. Títulos de transporte.
+1. Las personas que utilicen los servicios deben ir provistas del correspondiente título, que podrá ser propio del operador o integrado.
+2. Se entiende como títulos de transporte integrados los emitidos por una autoridad de transporte bien de manera directa bien mediante terceros, y que permiten el acceso a diversos servicios de transporte prestados por uno o varios operadores.
+3. La expedición de los títulos de transporte integrados podrá ser llevada a cabo de manera directa por la autoridad de transporte, por operadores de transporte o por otras empresas contratadas a tal efecto por la autoridad de transporte.
+
+### Artículo 38
+
+Artículo 38. Soporte de los títulos de transporte.
+1. Los títulos de transporte podrán tener soporte físico, magnético o telemático en los términos que reglamentariamente se establezcan, siempre que queden garantizados adecuadamente los derechos de las personas usuarias y empresas operadoras.
+2. Los soportes de los títulos de transporte de las diversas autoridades y operadores que presten servicio en la Comunitat Valenciana, así como los correspondientes equipos fijos o embarcados, se adecuarán a las normas de interoperatividad que se establezcan por la Conselleria competente en materia de transporte o, en un ámbito metropolitano, por la autoridad de transporte competente en dicho ámbito.
+Se modifica el apartado 2 por el art. 221 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 39
+
+Artículo 39. Tarifas.
+1. Los títulos propios del operador estarán sometidos a las tarifas máximas establecidas por la administración, salvo en aquellos supuestos en los que de acuerdo con esta ley y el reglamento que la desarrolle puedan ser establecidas excepcionalmente por el propio operador.
+2. La retribución del operador en relación con los viajeros provistos de títulos de integración será la establecida en el contrato de servicio público de transporte. Las autoridades de transporte podrán establecer nuevos títulos de integración previa comunicación al operador de las condiciones de expedición y uso, así como de las especificaciones técnicas del título para su incorporación a sus sistemas de billetaje. En tal caso, en los contratos de concesión de servicio, las autoridades de transporte fijarán la contraprestación al operador de manera que no se alteren las condiciones económicas iniciales de prestación del contrato, a través de un acuerdo de cooperación o convenio de colaboración, al que se le dará la preceptiva publicidad, con respeto a lo previsto en la normativa básica estatal en materia de contratación pública. Para otras modalidades de contratación, se estará a lo que se disponga la normativa de contratación que les sea aplicable.
+3. La autoridad de transporte revisará las tarifas según lo dispuesto en la legislación vigente. A efectos de dicha revisión, no tendrán la consideración de tarifa los mínimos de percepción que, en su caso, estuviesen aprobados.
+4. Las tarifas de los títulos propios o integrados podrán establecerse con carácter zonal, en relación con la distancia, o mediante otro procedimiento que se estime adecuado. Serán públicas y no discriminatorias. Las autoridades de transporte y los operadores, previo informe favorable de las primeras, podrán suscribir acuerdos de cooperación o convenios de colaboración, según proceda, con otros órganos administrativos o con diferentes administraciones con la finalidad de que determinados colectivos con condiciones sociales específicas tengan reducciones en las tarifas percibidas. Tales acuerdos fijarán las compensaciones que permitan mantener las condiciones económicas iniciales del contrato de servicio público de transporte.
+Se modifica el apartado 2 por el art. 112 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+ Se modifican los apartados 2 y 4 por el art. 222 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifican los apartados 3 y 4 por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+
+## CAPÍTULO II
+
+Otros transportes de viajeros
+
+### Artículo 40
+
+Artículo 40. Transportes públicos regulares de uso especial.
+1. Tendrán la consideración de transportes públicos regulares de uso especial, a los que hace referencia el apartado 2.b del artículo 21, aquellos que suponiendo una oferta permanente de transporte se ciñan a atender las necesidades concretas de un colectivo determinado, homogéneo y específico de las personas usuarias, caracterizado porque su origen o destino sea un determinado servicio, centro de formación, ocio o trabajo, edificio o conjunto de edificios. En particular, tendrán tal consideración el transporte escolar, universitario, laboral, de personas usuarias de servicios sociales o de una determinada instalación de ocio, y similares.
+2. Los servicios de transporte público regular de viajeros de uso especial únicamente podrán prestarse cuando se cuente con la correspondiente autorización especial que habilite para ello otorgada por la Administración competente.
+3. El otorgamiento de dicha autorización se llevará a cabo de conformidad con lo que reglamentariamente se establezca y estará supeditado a que la empresa transportista haya convenido previamente con los usuarios o sus representantes la realización del transporte a través del oportuno contrato.
+4. Cuando el transporte sea contratado por alguno de los entes, organismos, y entidades que forman parte del sector público, el contrato deberá atenerse, en todo cuanto no se encuentre previsto en esta Ley y en las normas dictadas para su desarrollo, a las reglas contenidas en la legislación sobre contratos del sector público.
+5. La autorización solo podrá ser otorgada a una persona, física o jurídica, que previamente sea titular de autorización para el transporte público de viajeros de ámbito suficiente, obtenida en los mismos términos establecidos en la legislación del Estado en la materia.
+6. Las autorizaciones para la realización de transportes regulares de uso especial se otorgarán por el plazo a que se refiera el contrato con los usuarios, sin perjuicio de que la Administración pueda exigir su visado con una determinada periodicidad a fin de constatar el mantenimiento de las condiciones que justificaron su otorgamiento.
+7. Los transportes a los que se refiere este artículo podrán realizarse, cuando resulten insuficientes los vehículos propios, utilizando los de otros transportistas que cuenten con la autorización de transporte público de viajeros referida en el apartado 5, de conformidad con lo que reglamentariamente se establezca.
+8. En los servicios de transporte regular de uso especial, contratados por la Administración, se podrá autorizar a que dicho transporte de uso especial pueda también ser utilizado por otras personas usuarias, cuando razones de interés público así lo aconsejen.
+Se modifica el apartado 8 por el art. 168 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Se modifica por el art. 96 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-8
+
+### Artículo 41
+
+Artículo 41. Transporte discrecional y arrendamiento.
+1. Tendrán la consideración de transporte discrecional de viajeros, en los términos señalados en el apartado 2.c del artículo 21, los que no supongan una oferta permanente de transporte y estén destinados a un colectivo específico de usuarios.
+2. El transporte discrecional de viajeros se prestará de acuerdo con la normativa estatal aplicable.
+3. El arrendamiento de vehículos de todo tipo se regirá por la normativa estatal aplicable, salvo en los casos en los que se preste un servicio de transporte por no ser conducidos por los usuarios, en cuyo caso se aplicará lo previsto en el artículo siguiente.
+
+### Artículo 41 bis
+
+Artículo 41 bis. Transporte a la demanda.
+1. Se considera transporte a la demanda, el servicio de transporte autorizado o contratado por la autoridad de transporte competente en su correspondiente ámbito territorial, cuando la determinación del itinerario y/o del horario dependa de las solicitudes previas de las personas usuarias, que contratarán el servicio mediante el pago individual por plaza.
+2. La conselleria competente en materia de transportes establecerá tarifas especiales para servicios de transporte a la demanda.
+3. El transporte a la demanda se prestará conforme a las condiciones establecidas en la autorización administrativa y se circunscribirán al ámbito espacial o a las relaciones de tráfico que en la misma se establezcan, determinados por la relación de municipios o núcleos de población diferenciados entre los que se podrá realizar el transporte, favoreciendo la coordinación e intermodalidad con otros modos de transporte público colectivo e incluyendo, en su caso, las prevenciones relativas a la coincidencia de tráficos con los servicios público de transporte regular de viajeros de uso general según las condiciones concretas de prestación vigentes en cada momento, aprobadas según lo dispuesto en el artículo 32 de esta ley. A estos efectos, con carácter previo a la resolución de la autorización, se dará audiencia a los concesionarios que operen en la zona, si los hubiere.
+La autorización administrativa para la prestación de transporte a la demanda podrá otorgarse con carácter general o solo para días y horas en los que no se produzca coincidencia con los servicios de transporte público regular de viajeros de uso general. En la autorización administrativa también se podrá fijar el número de expediciones para cada uno de los itinerarios.
+La autorización administrativa se otorgará por un plazo máximo de cinco años.
+4. Cuando el transporte a la demanda sea contratado por una autoridad de transporte en su correspondiente ámbito territorial, el contrato público, deberá atenerse a lo dispuesto en esta ley, en las normas dictadas para su desarrollo y las reglas que rijan para su modalidad de contrato.
+5. La prestación de servicios de transporte a la demanda se realizará por una persona, física o jurídica, que cuente con título habilitante para la prestación de transporte discrecional de viajeros en las condiciones que en cada caso se determinen y conforme a la normativa que les sea de aplicación.
+6. Para la organización y establecimiento de una oferta de transporte a la demanda se deberá implantar un sistema de gestión que garantice el transporte a las personas usuarias cuya reserva se haya gestionado previamente y, en todo caso, se adoptarán las medidas exigidas en la legislación en materia de protección de datos de carácter personal en el tratamiento de los recabados en el ejercicio de la actividad.
+Las personas usuarias del transporte a la demanda deberán facilitar sus datos personales para la gestión de las reservas e identificarse para acceder a los servicios.
+7. En todo caso, la organización y establecimiento de una oferta de transporte a la demanda conllevará la obligación de proporcionar toda la información actualizada sobre la oferta de transporte a la demanda que resulte de interés para las potenciales personas usuarias a la Conselleria competente en materia de transporte y al Punto de acceso nacional de transporte multimodal y, en particular, la requerida en el apartado 1 relativo a datos estáticos del anexo del Reglamento Delegado (UE) 2017/1926 de la Comisión de 31 de mayo de 2017 que complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que se refiere al suministro de servicios de información sobre desplazamientos multimodales en toda la Unión, y cualquier otra normativa que se establezca en este sentido para este tipo de datos.
+Se añade por el art. 223 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 42
+
+Artículo 42. Transporte público de viajeros con vehículos turismo de características especiales.
+1. El transporte de viajeros en vehículos de turismo con unas condiciones especiales en razón de su nivel de representatividad u otras características excepcionales, claramente diferenciados del resto por su precio, prestaciones mecánicas características físicas, etc., con origen o destino en la Comunitat Valenciana, se adecuará a lo señalado en la legislación estatal en la materia, a lo establecido en esta ley y a lo dispuesto en la correspondiente autorización administrativa.
+2. Mediante un estudio específico de demanda, se establecerá la dimensión global de la flota necesaria para la prestación de los servicios.
+
+## CAPÍTULO III
+
+Servicio de taxi
+
+### Artículos 43 a 59
+
+Artículos 43 a 59.
+(Derogados).
+Se derogan por la disposición derogatoria única 1.a) de la Ley 13/2017, de 8 de noviembre. Ref. BOE-A-2017-15370#dd
+
+## Sección primera
+
+Sección primera. Concepto, ámbito de aplicación y competencias. Definiciones
+
+### Artículo 43
+
+Artículo 43. Objeto, ámbito de aplicación, régimen jurídico y principios.
+1. El objeto del presente capítulo es regular la prestación del servicio de taxi, entendiéndose por tal, a los efectos de esta ley, el transporte público discrecional de viajeros en vehículos con una capacidad igual o inferior a las nueve plazas incluida la del conductor, realizado por cuenta ajena, mediante el pago de un precio, en el territorio de la Comunitat Valenciana.
+2. La prestación del servicio de taxi se regirá por la presente ley y las normas de la Generalitat que le afecten.
+3. La prestación del servicio de taxi se somete a los siguientes principios:
+a) Intervención administrativa para garantizar un nivel de calidad adecuado en la prestación de este servicio de transporte público.
+b) Competencia limitada en el sector y establecimiento de tarifas obligatorias dirigidos a asegurar el equilibrio económico de la actividad y la suficiencia del servicio, que se prestarán mediante titulares que operan a su riesgo y ventura habilitados al efecto por la administración.
+c) Respeto a los derechos de los usuarios.
+4. Las necesidades de servicio público podrán establecerse en términos de disponibilidad temporal o espacial del servicio, de atención de colectivos determinados, o del logro de niveles medios de calidad. La evolución inadecuada de los parámetros que al respecto se fijen dará lugar a las acciones administrativas correspondientes de la administración competente y, en su caso, a la redefinición del contingente total en el ámbito considerado, o al establecimiento de nuevas autorizaciones centradas en la prestación de los servicios inadecuadamente atendidos. Estas nuevas autorizaciones se otorgarán por tiempo indefinido.
+5. Los vehículos dotados de autorización expedida de acuerdo con lo previsto en esta ley podrán efectuar servicios con origen dentro de la Comunitat Valenciana y destino en puntos situados fuera de ella, de acuerdo con la normativa estatal y de la Unión Europea que resulte de aplicación. En tales casos, será de aplicación el contenido de esta ley en todos aquellos aspectos que no contravengan las legislaciones estatales o regionales que pudieran resultar de aplicación en razón del territorio atravesado.
+
+### Artículo 44
+
+Artículo 44. Competencias y áreas funcionales.
+1. Con carácter general, corresponde a la Generalitat el ejercicio de las competencias administrativas en relación con el servicio de taxi, y en particular el establecimiento de su normativa, la determinación en cada ámbito y circunstancia del número máximo de autorizaciones, su otorgamiento, anulación y visado, la definición del marco tarifario, la acreditación, mediante el procedimiento establecido, de la aptitud de los conductores, y el ejercicio de las labores inspectora y sancionadora.
+2. La prestación del servicio de taxi se ordenará mediante la delimitación de áreas funcionales caracterizadas por la posibilidad de iniciar servicios en cualquiera de sus puntos, y por la existencia de un marco tarifario homogéneo para todas las autorizaciones en ellas residenciadas. Dichas áreas funcionales podrán circunscribirse a un solo municipio, o tener el carácter de áreas de prestación conjunta cuando abarquen a más de un municipio. La delimitación de las áreas de prestación conjunta se efectuará de acuerdo con criterios de interés público a fin de atender debidamente las necesidades de servicio público, y en todo caso previo informe de los ayuntamientos, las asociaciones representativas del sector y asociaciones de consumidores y usuarios, en los términos todo ello que reglamentariamente se establezca.
+3. Por razón de interés público y previo informe de los ayuntamientos afectados, de las asociaciones representativas y asociaciones de consumidores y usuarios, la Generalitat podrá fijar las condiciones específicas en las que las autorizaciones residenciadas en una determinada área funcional puedan tomar servicio en otras áreas funcionales.
+4. Las competencias en materia de servicio de taxi de la Generalitat serán ejercidas mediante la Agencia Valenciana de Movilidad. No obstante, en los municipios de más de 20.000 habitantes no integrados en áreas de prestación conjunta tales competencias seguirán siendo ejercidas por el correspondiente ayuntamiento, correspondiéndole en tal sentido las funciones señaladas en el punto 1.
+5. La Generalitat y los ayuntamientos podrán acordar la encomienda de las competencias que corresponden a la primera a un ayuntamiento o una agrupación de ellos.
+6. En aquellos casos en los que de acuerdo con lo previsto en los puntos anteriores ejerza la competencia en materia de taxi el correspondiente ayuntamiento, podrán elaborarse y aprobarse las correspondientes ordenanzas municipales reguladoras de la prestación del servicio, con sujeción a lo dispuesto en la ley y en sus normas de desarrollo.
+
+### Artículo 45
+
+Artículo 45. Condiciones generales de prestación del servicio.
+1. Con carácter general, la prestación del servicio se efectuará mediante vehículos de turismo con un máximo de cinco plazas incluido el conductor. Excepcionalmente los vehículos podrán ser de hasta nueve plazas, cuando se trate de vehículos adaptados y en aquellos otros supuestos en que el interés público así lo justifique. Reglamentariamente podrán establecerse condiciones objetivas para las autorizaciones de vehículos de más de nueve plazas.
+2. La prestación de servicio se efectuará a petición del usuario, bien de manera directa, bien mediante un centro de atención al usuario.
+
+## Sección segunda
+
+Sección segunda. Títulos habilitantes para la prestación del servicio de taxi
+
+### Artículo 46
+
+Artículo 46. Autorizaciones de taxi.
+1. La prestación del servicio de taxi estará sometida a la previa obtención de la correspondiente autorización otorgada por el órgano competente.
+2. Las autorizaciones se otorgarán exclusivamente a las personas físicas que reúnan los requisitos exigidos por la presente ley. Las autorizaciones se otorgarán mediante concurso y de conformidad con los procedimientos establecidos, al que podrán concurrir las personas que acrediten el cumplimiento de los requisitos mínimos establecidos en esta ley y demás accesorios que se fijen reglamentariamente, así como en la convocatoria correspondiente. En los concursos se valorará especialmente la experiencia laboral previa en el sector.
+3. Cada autorización estará referida a un vehículo concreto identificado por su matrícula, sin perjuicio de otros datos que sean exigibles.
+4. Con carácter general cada persona será titular de una única autorización. Reglamentariamente se determinarán las condiciones de acumulación de más de una autorización en un solo titular, exclusivamente en las áreas de prestación conjunta que tengan más de 1000 licencias, y que no podrán exceder del 15% del total de autorizaciones en dicha área.
+5. El incremento o disminución del número de autorizaciones en un mismo ámbito funcional debe ser justificado por la administración competente, en un estudio previo que reúna los requisitos que se determinen reglamentariamente, previo informe de los ayuntamientos afectados, de las asociaciones profesionales y de usuarios.
+
+### Artículo 47
+
+Artículo 47. Creación de nuevas autorizaciones.
+1. En los supuestos en los que sea un ayuntamiento a quien competa la emisión de las correspondientes autorizaciones, el trámite se adecuará a lo señalado en el artículo 46.2, sin perjuicio de la normativa de régimen local que resulte de aplicación.
+2. La ampliación del número de autorizaciones será precedida del estudio señalado en el punto 5 del artículo anterior, informado favorablemente por la Agencia Valenciana de Movilidad, estudio que analizará, en todo caso, la posibilidad de mejora del servicio mediante la creación de un área de prestación conjunta.
+3. En el caso de que el informe señalado en el punto anterior sea desfavorable, el ayuntamiento podrá proseguir el trámite y otorgar la autorización correspondiente, si bien ésta se entenderá circunscrita al ámbito municipal, no habilitando para la realización de transporte interurbano.
+
+### Artículo 48
+
+Artículo 48. Requisitos para la obtención de la autorización.
+Para la obtención y el otorgamiento de las autorizaciones para la prestación del servicio de taxi, será necesario acreditar ante el órgano competente el cumplimiento de los siguientes requisitos:
+1. Tener la nacionalidad española o de un estado miembro de la Unión Europea, o de otro Estado con el que, en virtud de lo dispuesto en los acuerdos, tratados o convenios internacionales suscritos por España, no sea exigible el requisito de nacionalidad, o contar con las autorizaciones o permisos de trabajo que, con arreglo a lo dispuesto en la legislación sobre derechos y libertades de los extranjeros en España, resulten suficientes para amparar la realización de la actividad.
+2. Capacitación para el ejercicio de la actividad, entendiéndose la misma como la certificación de los conocimientos necesarios para el ejercicio de la actividad, otorgada por el órgano administrativo que corresponda.
+Reglamentariamente se determinarán los conocimientos mínimos exigibles, el modo de adquirir dichos conocimientos y el sistema de comprobación por la administración competente de la posesión de los conocimientos exigidos.
+3. Honorabilidad: se entenderá que poseen el requisito de honorabilidad las personas en las que no concurra ninguna de las circunstancias siguientes:
+a) Haber sido condenada por sentencia firme siempre que la misma suponga penas privativas de libertad superiores a un año relacionadas con el ejercicio de la profesión. En este caso, los titulares podrán realizar la efectiva prestación del servicio de taxi mediante conductores asalariados.
+b) Haber sido sancionadas de forma reiterada por resolución firme por infracciones muy graves en materia de transporte en los términos que reglamentariamente se determinen.
+c) Incumplimiento muy grave y reiterado de las normas fiscales, laborales, de Seguridad Social, seguridad vial o medio ambiente.
+4. Del mismo modo, se exigirá la correspondiente solvencia económica, acreditando tener cubierta la responsabilidad civil por los daños que puedan ocasionarse en el transcurso del servicio, en los términos establecidos por la normativa vigente.
+5. Acreditar la titularidad del vehículo en régimen de propiedad, alquiler, arrendamiento financiero, renting u otro régimen admitido por la normativa vigente.
+6. Cumplir las obligaciones laborales y sociales exigidas en la normativa correspondiente.
+7. Cumplir las obligaciones de carácter fiscal establecidas en la normativa vigente.
+8. Cualesquiera otros que normativamente puedan ser exigidos; en especial, referidos a la mejora de la seguridad en la prestación del servicio.
+
+### Artículo 49
+
+Artículo 49. Prestación efectiva del servicio de taxi.
+1. Los titulares de autorizaciones podrán prestar el servicio de taxi personalmente, a través de familiar colaborador dado de alta en el régimen correspondiente de la seguridad social o a través de conductores con contrato laboral vigente. La formalización de estos contratos deberá ser comunicada a la administración, acompañada de una copia del mismo, en la que se indique el horario de trabajo del conductor asalariado contratado.
+2. Los titulares que presten el servicio personalmente, y los que lo hagan en virtud de relación laboral, deberán cumplir los siguientes requisitos:
+a) Tener título de capacitación profesional obtenido de acuerdo con el procedimiento reglamentariamente establecido.
+b) Estar inscritos como conductores en situación de alta en el régimen que corresponda de la Seguridad Social.
+c) Carecer de antecedentes penales.
+d) Cuantos otros requisitos sean establecidos por los órganos competentes, en la forma que reglamentariamente se determine.
+3. Aquellos titulares que posean más de una autorización tendrán que tener el número de conductores asalariados que reglamentariamente se determine.
+4. La administración competente mantendrá un registro de los titulares de capacitación profesional, así como de sus altas y bajas.
+
+### Artículo 50
+
+Artículo 50. Suspensión.
+1. Los titulares de las autorizaciones de taxi pueden solicitar la suspensión de su vigencia por un período máximo de cinco años, prorrogable por otros cinco, en el caso de que, temporalmente, deban dejar de prestar la actividad por alguna causa justificada. Esta suspensión ha de serles autorizada o denegada por los órganos que han concedido las autorizaciones mediante una resolución motivada, en el plazo de dos meses. Reglamentariamente se determinarán las causas que puedan motivar la suspensión temporal.
+2. También podrán ser suspendidas las autorizaciones de oficio por la administración de conformidad con lo dispuesto en el régimen sancionador de la presente ley.
+3. En caso de que el interés público así lo justifique, la administración podrá otorgar las autorizaciones adicionales para la prestación del servicio de taxi con un plazo de vigencia y en número igual a las que hayan sido suspendidas.
+
+### Artículo 51
+
+Artículo 51. Transmisión.
+1. Las autorizaciones son transmisibles y se otorgarán por tiempo indefinido, si bien su validez quedará condicionada al cumplimiento de las condiciones y requisitos establecidos para la obtención del título habilitante, y a la constatación periódica de dichas circunstancias y otras que puedan exigirse, mediante el correspondiente visado, en los términos establecidos en la presente ley y en la normativa que la desarrolle.
+Las autorizaciones de nueva creación podrán ser transmitidas una vez se cumpla el plazo de seis años desde su otorgamiento, previa autorización del órgano administrativo competente, siempre que el adquirente reúna los requisitos exigidos para ser titular de las mismas.
+Excepcionalmente se admite la transmisión aunque no haya transcurrido dicho plazo en los supuestos de fallecimiento o incapacidad del titular, a favor del cónyuge o pareja de hecho debidamente inscrita en el registro correspondiente, o los herederos legítimos.
+Cuando en los supuestos señalados en el párrafo anterior, el cónyuge, pareja de hecho o herederos legítimos no puedan explotar la autorización por no reunir los requisitos exigidos, la autorización será transmisible a favor de terceros.
+2. Tanto en el caso de nuevas autorizaciones como en aquellas que ya hayan sido transmitidas, se resolverán favorablemente las transmisiones que tengan su origen en el fallecimiento o incapacidad de su titular, y lo sean a favor de su cónyuge o herederos legítimos, aún cuando los mismos no dispongan de la capacitación profesional exigida, aunque condicionadas a la efectiva adquisición de dicha capacitación, que deberá verificarse en los siguientes plazos, prestando entre tanto el servicio mediante conductores asalariados a tiempo completo:
+a) Durante los dos años siguientes a la fecha de fallecimiento o incapacidad del titular transmisor en el caso de los herederos legítimos. En tanto los herederos legítimos alcancen la edad suficiente para adquirir dicha capacitación, se nombrará un representante que ostente la capacitación necesaria.
+b) Durante los dos años siguientes a la fecha de fallecimiento, o incapacidad del titular transmisor en el caso del cónyuge o pareja de hecho, excepto en el caso de que la edad de los mismos sea superior a 60 años, en cuyo caso no se exigirá que los mismos adquieran la capacitación prevista en la presente ley.
+3. La transmisibilidad de las autorizaciones de taxi quedará, en todo caso, condicionada al pago de los tributos y sanciones pecuniarias impuestas por resolución firme en vía administrativa que recaigan sobre el titular por el ejercicio de la actividad.
+La transmisión no puede autorizarse si supone la vulneración de las disposiciones del artículo 48 de la presente ley.
+
+### Artículo 52
+
+Artículo 52. Extinción.
+1. Las autorizaciones para la prestación del servicio de taxi se extinguen por la concurrencia de alguna de las siguientes causas:
+a) La renuncia de su titular, mediante un escrito dirigido al órgano que concedió la autorización.
+b) La resolución por incumplimiento del titular de los requisitos de la autorización por no prestar servicio habitualmente en los términos que reglamentariamente se determine, o por desarrollar su gestión o explotación por cualquier forma no prevista por la presente ley y su desarrollo reglamentario, una vez finalizado el correspondiente expediente administrativo por resolución firme.
+c) La revocación, por razones de interés público, con derecho a la correspondiente indemnización económica, que ha de calcularse de conformidad con los parámetros objetivos que determinan su valor real.
+d) La caducidad de la autorización por no haber obtenido el visado una vez transcurrido el plazo máximo y sus prórrogas, fijados legal y reglamentariamente.
+e) La extinción por sanción.
+f) Por el arriendo, cesión o traspaso de la explotación de las autorizaciones y de los vehículos afectos a las mismas.
+2. En los casos de revocación de los títulos habilitantes por razones de interés público, el órgano competente podrá ofertar, con carácter previo a la instrucción del oportuno expediente de extinción, la posibilidad de que los titulares interesados renuncien a su autorización en las condiciones que se determinen en el reglamento que desarrolle la presente ley.
+
+### Artículo 53
+
+Artículo 53. Visado.
+El visado de las autorizaciones es la actuación mediante la cual la administración constata de forma periódica, y sin perjuicio de las facultades de inspección reguladas en la presente ley, el mantenimiento de las condiciones que originariamente justificaron su otorgamiento.
+En la normativa de desarrollo de la presente ley se regularán el procedimiento y plazo para obtener el visado de las autorizaciones, así como de las prórrogas que en su caso se establezcan para el cumplimiento de dicha obligación.
+
+## Sección tercera
+
+Sección tercera. Vehículos y régimen económico
+
+### Artículo 54
+
+Artículo 54. Vehículos y características.
+1. Los vehículos de turismo destinados a la prestación del servicio de taxi deberán cumplir los requisitos que determinen las normas de desarrollo de este artículo en cuanto a las condiciones genéricas de seguridad, capacidad, confort, antigüedad máxima, prestaciones, medioambientales e imagen corporativa.
+La antigüedad máxima de los vehículos no podrá exceder de diez años. Excepcionalmente se podrán reconocer como aptos para la prestación del servicio de taxi, vehículos que excedan de la antigüedad señalada y que además hayan superado favorablemente y con periodicidad semestral las inspecciones técnicas de vehículos. En el caso de que el vehículo supere los doce años, se requerirá además de un informe anual favorable expreso del Consejo del Taxi.
+2. Las administraciones competentes en la materia deben garantizar el acceso de todos los usuarios y usuarias a los servicios de taxi, y con esta finalidad han de promover y asegurar la incorporación de vehículos adaptados al uso de personas con movilidad reducida, de acuerdo con la normativa vigente en la materia.
+3. Los vehículos adaptados darán servicio preferente a las personas con movilidad reducida, pero no tendrán ese uso exclusivo.
+4. En caso de que sea necesario sustituir el vehículo con el que se realiza la prestación del servicio de taxi, el nuevo vehículo deberá tener una antigüedad menor a la del vehículo que sustituye y, además, cumplir los requisitos o las características exigidas para el otorgamiento de la autorización originaria. En el caso de la adscripción a una nueva licencia, la antigüedad no podrá ser superior a 2 años, contados desde su primera matriculación.
+5. La administración competente podrá establecer una normativa especifica para vehículos en relación con la seguridad ciudadana, pudiendo condicionar la actividad en determinados horarios a que los servicios se presten con vehículos que reúnan dichos requisitos.
+6. Reglamentariamente se determinarán la forma y condiciones para la colocación de publicidad en los vehículos de taxi, salvaguardando siempre la imagen corporativa.
+7. Los equipos de cobro telemático o mediante tarjetas magnéticas o sin contacto deberán obedecer a la normativa técnica que al respecto apruebe la Generalitat. Por razones de seguridad, la administración competente podrá prohibir en determinadas zonas u horarios el cobro por sistemas distintos a los antes señalados.
+8. La prestación del servicio se efectuará como regla general mediante vehículos a plena disposición del titular. No obstante, en el caso de vehículos especialmente preparados en relación con la seguridad ciudadana o el transporte de personas con problemas de movilidad, o para servicios a la demanda, podrán fijarse reglamentariamente otras fórmulas al objeto de compartir tales unidades, siempre que ello no suponga un incremento del número total de unidades que prestan servicio simultáneamente en un área funcional. Asimismo, en el caso de accidente o avería grave, con un tiempo de reparación superior a cinco días, el titular del vehículo podrá continuar prestando el servicio, durante un plazo máximo de tres meses, con un vehículo de características a determinar reglamentariamente, que ofrezca niveles de calidad y servicio equivalentes.
+Se modifican los apartados 1, párrafo segundo y 4 por los arts. 140 y 141 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+### Artículo 55
+
+Artículo 55. Régimen económico. Tarifas.
+1. Las tarifas deben garantizar la cobertura del coste real del servicio en condiciones normales de productividad y organización, y permitir una adecuada amortización y un razonable beneficio industrial, pudiendo ser revisadas periódicamente, o de manera excepcional, cuando se produzca una variación en los costes que altere significativamente el equilibrio económico. Su aprobación y revisión corresponde al órgano competente, previa audiencia de las asociaciones representativas del sector, y de las asociaciones de consumidores y usuarios.
+2. Dentro de una determinada área funcional, las tarifas son de aplicación obligatoria para los titulares de las autorizaciones, su personal conductor y quienes utilicen los servicios. Reglamentariamente se fijarán los supuestos excepcionales en que sea admisible el concierto de precio por el servicio realizado.
+3. Los servicios con destino fuera del área funcional en el que esté residenciada la autorización están sometidos a tarifas máximas establecidas por el órgano competente de la Generalitat, de acuerdo con los principios señalados en el punto 1.
+4. Las tarifas aplicables serán visibles para el usuario desde el interior del vehículo. Los vehículos que presten servicios de taxi deberán estar equipados con dispositivos que permitan al usuario conocer en cada momento el importe del servicio recibido.
+
+## Sección cuarta
+
+Sección cuarta. Centros de atención al público
+
+### Artículo 56
+
+Artículo 56. Centros de atención al público.
+1. Los centros de atención al público son entidades destinadas a satisfacer las demandas efectuadas mediante atención personal, atención telefónica o cualquier otro procedimiento telemático, mediante la asignación de un determinado vehículo para la prestación del servicio solicitado.
+2. La actividad de los centros de atención al público está sometida a autorización previa por el órgano competente en materia del servicio de taxi en la correspondiente área funcional. Dicha autorización y su mantenimiento estarán condicionados a la garantía de libre asociación de los titulares de autorizaciones.
+3. La Generalitat promoverá las actuaciones que considere necesarias para facilitar la contratación de los servicios al público a través de cualesquiera sistemas tecnológicos y aquellos que se consideren adecuados para atender a personas con discapacidades y limitaciones sensoriales. Igualmente promoverá las formas de colaboración que resulten convenientes entre los diversos centros de atención, especialmente en aquellos aspectos que impliquen la mayor difusión de los servicios ofertados para su concertación fuera de la Comunitat Valenciana, o en coordinación con otros operadores de transporte.
+
+## Sección quinta
+
+Sección quinta. Derechos y obligaciones de usuarios y usuarias
+
+### Artículo 57
+
+Artículo 57. Derechos y obligaciones de usuarios y usuarias.
+1. Quienes utilicen los servicios de taxi tienen, con carácter enunciativo, los siguientes derechos:
+a) Conocer el número de autorización, la identidad del conductor y las tarifas aplicables a los servicios, documentos que han de colocarse en un lugar del vehículo visible para el usuario.
+b) Transportar equipajes, de acuerdo con las condiciones establecidas por las normas de desarrollo de la presente ley.
+c) Obtener un recibo o factura en que consten el precio, origen y destino del servicio y los datos de la correspondiente autorización, y que acredite que se ha satisfecho la tarifa del servicio.
+d) Recibir el servicio con vehículos que tengan las condiciones adecuadas, en el interior y en el exterior, en cuanto a higiene, estado de conservación, accesibilidad y confort, en los términos establecidos en la presente ley y en su normativa de desarrollo.
+e) Escoger el recorrido que consideren más adecuado para la prestación del servicio, y subir y bajar al vehículo en lugares donde queden suficientemente garantizadas la seguridad de las personas, la correcta circulación y la integridad del vehículo.
+f) Formular las reclamaciones que estimen convenientes en relación con la prestación del servicio, en la forma que determinen las normas de desarrollo de la presente ley.
+2. Son obligaciones de las personas usuarias del servicio de taxi:
+a) Pagar el precio de los servicios según el régimen de tarifas establecido.
+b) Tener un correcto comportamiento durante el servicio.
+c) No manipular, destruir ni deteriorar ningún elemento del vehículo durante el servicio.
+d) Respetar las instrucciones del conductor siempre que las mismas vayan dirigidas a una mejor prestación del servicio.
+
+## Sección sexta
+
+Sección sexta. Consejo del Taxi de la Comunitat Valenciana
+
+### Artículo 58
+
+Artículo 58. Consejo del Taxi de la Comunitat Valenciana.
+1. Se crea el Consejo del Taxi de la Comunitat Valenciana, integrado por representantes de las administraciones con competencias en las materias reguladas en esta ley, así como de las asociaciones representativas del sector, representantes de los titulares de licencias, de los usuarios y de asociaciones sindicales, que superen los niveles de representatividad que se establezcan reglamentariamente.
+2. El Consejo del Taxi será presidido por el conseller competente en materia de transportes. La determinación y designación de sus miembros se concretará en la normativa de desarrollo de la presente ley.
+3. El Consejo del Taxi tendrá las funciones consultivas que se determinen reglamentariamente y debatirá cualquier asunto en relación con el contenido de esta ley que sea planteado por sus miembros. Se reunirá al menos anualmente.
+
+## Sección séptima
+
+Sección séptima. Inspección
+
+### Artículo 59
+
+Artículo 59. Inspección.
+1. La inspección de los servicios regulados en este título será ejercida por los órganos competentes, según lo dispuesto en el artículo 44 de la presente ley. Los inspectores tendrán la consideración de autoridad pública a todos los efectos, y gozarán de plena independencia en su actuación.
+2. El personal adscrito a la inspección estará provisto de documento acreditativo de su condición, que le podrá ser requerido cuando ejercite sus funciones, teniendo la obligación de exhibirlo.
+3. Las personas que lleven a cabo las actividades de servicio de taxi deben facilitar al personal de la inspección, en el ejercicio de sus funciones, el acceso a sus vehículos e instalaciones, y permitirán el examen de la documentación exigida con arreglo a esta ley y las disposiciones que la desarrollen o la legislación general en materia de transportes. Quienes se encuentren en los vehículos o instalaciones citados colaborarán, en todo caso, con el personal de la inspección en el ejercicio de sus funciones.
+4. El personal de la inspección podrá requerir la presentación de los documentos a que se refiere el párrafo anterior en las propias dependencias de la administración, únicamente en la medida en que esta exigencia resulte necesaria para verificar el cumplimiento de las obligaciones contenidas en la legislación de transportes.
+5. Las actuaciones del personal de la inspección se reflejarán en actas que recojan los antecedentes o circunstancias de los hechos que motiven la actuación inspectora, las disposiciones que, en su caso, se consideren infringidas, y la conformidad o disconformidad motivada de los interesados. Los hechos recogidos en dichas actas tienen valor probatorio y disfrutan de la presunción de veracidad, sin perjuicio de las pruebas que puedan aportar las personas interesadas en defensa de sus derechos e intereses.
+6. En caso de necesidad, para un eficaz cumplimiento de su función, los miembros de la inspección podrán solicitar el apoyo necesario de las unidades o destacamentos de las Fuerzas y Cuerpos de Seguridad del Estado y Policías Locales. Corresponde a las Policías Locales, de conformidad con la legislación local y de Fuerzas y Cuerpos de Seguridad, colaborar en la vigilancia del cumplimiento de la normativa vigente formulando las oportunas denuncias.
+
+## TÍTULO III
+
+Infraestructuras de transporte
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 60
+
+Artículo 60. Objeto.
+1. El presente capítulo tiene por finalidad regular el régimen de planificación, construcción, mantenimiento y administración de las infraestructuras de transporte de la Comunitat Valenciana, entendiendo por tales:
+a) Las infraestructuras ferroviarias que no estén declaradas expresamente como de interés general del Estado, así como las actuaciones que la Generalitat realice en las de interés general del Estado, de acuerdo con las delegaciones, encomiendas o convenios que al respecto se establezcan.
+b) Las infraestructuras tranviarias, entendidas como aquellas en las que puedan producirse cruces a nivel en los que la preferencia absoluta no corresponda siempre a las unidades que circulen por la mencionada infraestructura.
+c) Las infraestructuras destinadas para el uso exclusivo o preferente de vehículos de transporte público, salvo que constituyan un elemento funcional no diferenciado del resto de vías de comunicación, en cuyo caso serán reguladas por la normativa urbanística o de carreteras, según proceda.
+d) Las infraestructuras interurbanas diseñadas para el uso preferente de peatones y ciclistas, salvo que, por estar integradas en una carretera u otro tipo de vía, proceda la aplicación de la normativa urbanística o de carretera.
+e) Las infraestructuras logísticas.
+2. Compete a la conselleria competente en materia de transportes el ejercicio de las potestades previstas en esta ley en relación con las infraestructuras señaladas en el punto anterior que por sus características o los servicios de transporte que atiendan sean de interés general para la Comunitat Valenciana.
+3. Los ayuntamientos podrán desarrollar dentro de sus términos municipales las infraestructuras de transporte que consideren necesarias en relación con sus servicios de transporte urbano o las necesidades locales de desplazamientos no motorizados o en relación con las actividades logísticas. Dichas actuaciones se ajustarán a lo previsto en esta ley y en la normativa que la desarrolle.
+
+### Artículo 61
+
+Artículo 61. Infraestructuras de transporte.
+1. A los efectos de esta ley, se entenderá como infraestructura de transporte la totalidad de los elementos que la conforman, tanto en sentido estricto como los elementos adicionales requeridos para su plena operatividad, como paradas, estaciones, estacionamientos anejos, apartaderos, ramales, áreas de descanso, líneas de acometida, subestaciones, transformadores y demás instalaciones análogas o similares.
+2. Las actuaciones que se acometan para la supresión de pasos a nivel o cruces, o para la permeabilización transversal de las infraestructuras, se ejecutarán igualmente de acuerdo con lo previsto en esta ley, sin perjuicio de los preceptos que fueran de aplicación en relación con el tipo de vía en la que se inscriban.
+
+## CAPÍTULO II
+
+Planificación de infraestructuras
+
+## Sección primera
+
+Sección primera. Estudios y proyectos
+
+### Artículo 62
+
+Artículo 62. Estudios de planeamiento de infraestructuras de transporte o logísticas.
+1. El estudio de planeamiento de infraestructura de transporte o de infraestructura logística se define como el instrumento mediante el cual la administración competente en la materia define las características básicas de las redes, líneas, tramos o elementos funcionales necesarios para la creación o ampliación de los servicios de transporte, para la mejora de la funcionalidad, comodidad, integración en el entorno o seguridad de las infraestructuras ya existentes, o para atender cualquier otro objetivo en relación con la mejora de la movilidad de las personas y con la logística.
+2. El contenido y precisión del estudio de planeamiento será el necesario para la concertación institucional de las soluciones planteadas, en relación con las administraciones locales y las demás competentes en materia de transportes, así como aquellas que administren aspectos especialmente relevantes de cara a la adopción de la solución idónea de la problemática planteada.
+3. El estudio de planeamiento contendrá, en todo caso:
+a) Referencia al servicio público de transportes a establecer, modificar o ampliar o, en su caso, a la problemática en materia de funcionalidad, comodidad, integración en el entorno o seguridad a satisfacer.
+b) Antecedentes y condicionantes básicos de la actuación.
+c) Definición de la solución propuesta con el nivel suficiente para permitir su evaluación y en su caso concertación por otros organismos.
+d) En caso de que se proponga más de una solución, análisis comparativo entre ellas y, en todo caso, con el supuesto de no ejecución de la actuación.
+e) En caso de que proceda, diferenciación de aquellos elementos de la actuación que correspondan a la administración proponente, de aquellos otros que pudieran corresponder a otras administraciones en virtud del convenio o acuerdo que ulteriormente se sustanciara.
+
+### Artículo 63
+
+Artículo 63. Tramitación, aprobación y efectos de los estudios de planeamiento.
+1. Una vez aprobado inicialmente el estudio de planeamiento por la dirección general competente en materia de transporte, será sometido al trámite de informe institucional mediante remisión a las diferentes administraciones y entidades públicas directamente concernidas por la actuación, de cara a su informe en el plazo que se señale. Paralelamente, y en los casos en que resulte pertinente, se abrirá un periodo de concertación interinstitucional mediante la celebración de los contactos y reuniones que procedan. Concluido dicho periodo, se resolverá sobre la aprobación del estudio con las incorporaciones que en su caso procedan, dando cuenta de ello a los órganos y entidades que hayan participado en el trámite.
+2. En aquellos casos en los que dado el carácter de la actuación sea necesaria la incoación de un procedimiento de evaluación ambiental, la autorización prevista en la normativa autonómica en materia de paisaje u otro similar, el estudio de planeamiento será remitido a los órganos competentes en dicha materia como parte integrante de la documentación requerida para el inicio de dichos trámites. En todo caso, la mera aprobación del estudio de planeamiento no faculta para la ejecución de la obra en tanto en cuanto no se produzca la citada declaración y las demás autorizaciones que resulten preceptivas de acuerdo con la legislación sectorial aplicable.
+3. Tanto en el periodo de concertación señalado en el punto 1, como tras la aprobación definitiva del estudio de planeamiento, las administraciones concernidas evitarán la formulación o desarrollo de planeamiento, o la planificación o ejecución de actuaciones que dificulten o imposibiliten las previsiones del estudio de planeamiento. Transcurrido un año desde que éste fuera sometido a información institucional sin que se haya producido la aprobación definitiva, o transcurridos tres años desde dicha aprobación sin que se ejecute la actuación propuesta, las administraciones concernidas podrán solicitar del conseller competente en materia de transporte la anulación parcial de aquellas determinaciones del estudio de planeamiento que sean incompatibles con la formalización, ejecución o desarrollo de planificaciones o actuaciones propias de sus respectivos ámbitos competenciales.
+4. La facultad de formulación de estudios de planeamiento se entenderá extendida igualmente a aquellas líneas, tramos o elementos de infraestructura ferroviaria susceptibles de ser aprobados y ejecutados por la administración general del Estado antes de que dichos elementos sean incluidos expresamente en la red ferroviaria de interés general del Estado. En tales casos, el estudio de planeamiento se centrará especialmente en lo referente a la coordinación con el resto del sistema de transportes de la Comunitat Valenciana y con los demás elementos condicionantes de la actuación a los que se extiendan las competencias de la Generalitat.
+5. No resultará necesaria la realización del estudio de planeamiento en aquellos supuestos en los que se estime innecesario por tratarse de actuaciones de escasa entidad o que pueden ser concertadas en el marco del estudio informativo.
+6. Los estudios de planeamiento de infraestructuras de transporte podrán incorporarse o tramitarse conjuntamente con los proyectos de servicio de transporte público siempre que ello resulte conveniente.
+
+### Artículo 64
+
+Artículo 64. Estudios informativos.
+1. El establecimiento o la modificación de las infraestructuras de transporte requerirá la previa aprobación, por la Conselleria competente en la materia, del correspondiente estudio informativo.
+2. El estudio informativo es el instrumento de planificación del sistema de transportes que sirve de base al proceso de información pública y al resto de informes, declaraciones o autorizaciones que en relación con la actuación proceda emitir por el conjunto de órganos competentes en las materias que les afectan.
+3. El estudio informativo contendrá los siguientes documentos:
+a) Memoria, que hará referencia a:
+1.º Antecedentes existentes y las necesidades a satisfacer, en especial los estudios de planeamiento previamente formalizados, así como en su caso del proyecto de servicio público de transporte.
+2.º La información necesaria en relación con el planeamiento urbanístico o en relación con otras infraestructuras que resulte pertinente, así como la delimitación de aquellos espacios afectados objeto de cualquier tipo de protección en virtud de las legislaciones ambientales, de espacios naturales, paisajísticas, sobre el patrimonio o cualquier otra relevante.
+3.º Infraestructuras y servicios afectados, tanto en referencia a las existentes como a las planificadas, teniendo en cuenta tanto sus correspondientes configuraciones como las consideraciones para conseguir una adecuada integración.
+4.º Definición básica de la solución o soluciones adoptadas.
+5.º Evaluación diferencial de la situación origen y de las soluciones adoptadas, sea ésta una o varias, en términos de eficiencia, costes de implantación y operación, consumos energéticos, emisiones y otros factores que se consideren convenientes.
+b) Planos, con la precisión necesaria para identificar las soluciones y sus condicionantes.
+c) Estimación económica de la actuación.
+4. El estudio informativo se acompañará, en caso de que ello proceda, del estudio de impacto ambiental y constituirá el documento básico a los efectos de la evaluación ambiental prevista en la legislación correspondiente.
+5. En los casos en los que se prevea que la construcción de la infraestructura se realice mediante el procedimiento de concesión de obra pública, el estudio informativo incluirá el correspondiente estudio de viabilidad con el contenido que determine la normativa reguladora de dicho procedimiento.
+
+### Artículo 65
+
+Artículo 65. Tramitación de los estudios informativos.
+1. Una vez aprobado inicialmente, el estudio informativo será remitido a las entidades locales, a la conselleria competente en materia de ordenación territorial y paisaje y restantes administraciones afectadas, con objeto de que, durante el plazo de treinta días, examinen la propuesta más adecuada para el interés general y para los intereses que representan. Transcurrido dicho plazo sin que dichas administraciones públicas informen al respecto, se entenderá que están conformes con la solución propuesta.
+2. Con carácter simultáneo al trámite de informe a que se refiere el apartado anterior, el estudio informativo se someterá a un trámite de información pública durante un período de treinta días. Las observaciones realizadas en este trámite deberán versar sobre la concepción global del trazado.
+3. En aquellos supuestos en los que de acuerdo con la legislación ambiental sea necesaria la incoación de un procedimiento de evaluación ambiental, la conselleria competente en transportes remitirá a la competente en medio ambiente el expediente completo de la actuación, incluyendo un informe en relación con los escritos y alegaciones recibidos en los trámites de informe institucional e información pública.
+4. Tras los trámites anteriores, y a la vista de la evaluación de impacto ambiental, la conselleria formulará un documento en el se recojan las características esenciales de la actuación objeto del estudio informativo con las incorporaciones que procedan de tales trámites.
+5. La aprobación definitiva de dicho documento y consiguientemente de la actuación en él detallada corresponde al conseller competente en materia de transportes, que podrá proceder igualmente en dicho acto administrativo a encomendar su ejecución y administración al ente administrador de la infraestructura o al órgano que corresponda en relación con el carácter de la actuación.
+6. La resolución señalada en el punto anterior será publicada en el Diari Oficial de la Comunitat Valenciana y notificada a las administraciones afectadas.
+7. Serán aplicables a las actuaciones recogidas en los estudios informativos debidamente aprobados las previsiones que en lo referente a la compatibilización con el resto de usos del suelo se contienen en el presente título. Por otra parte, deberán ser recogidas en el planeamiento urbanístico vigente de cada municipio con motivo de la siguiente revisión que se aborde.
+8. No será obligatoria la formulación de estudio informativo previa a la redacción y aprobación del correspondiente proyecto constructivo en aquellas actuaciones en los que no proceda la formulación de la declaración de impacto ambiental, ni en aquellas de menor entidad que no impliquen aspectos referentes al interés general.
+9. Quedan eximidas de la necesidad de formulación de estudio informativo, así como de la evaluación o estimación de impacto ambiental, las actuaciones relacionadas con la seguridad ferroviaria y en particular las tendentes a la supresión de pasos a nivel.
+10. No será necesaria la formulación de estudio informativo en aquellas actuaciones recogidas en el planeamiento urbanístico debidamente aprobado.
+
+### Artículo 66
+
+Artículo 66. Proyecto básico y constructivo.
+1. Los proyectos básicos y de construcción de las infraestructuras de transporte se formularán de acuerdo con lo previsto en su caso en el correspondiente estudio informativo, y, su contenido obedecerá tanto a lo previsto en esta ley como a lo establecido en la normativa básica de contratación de las administraciones públicas a fin de poder formar parte del correspondiente expediente de licitación y ejecución de las obras.
+2. Los proyectos básicos y constructivos podrán introducir variaciones no sustanciales en relación con el estudio informativo previamente aprobado, como consecuencia de la concreción de sus determinaciones con el nivel de precisión propio de un proyecto. En tales casos, el órgano administrativo encargado de la redacción del proyecto instará al competente en la formulación del estudio informativo para la convalidación de tales variaciones y, en su caso, para la correspondiente modificación de la resolución aprobatoria.
+3. La aprobación del correspondiente proyecto básico o del de construcción de las actuaciones reguladas por esta ley que requieran la utilización de nuevos terrenos, supondrá la declaración de utilidad pública o interés social, la necesidad de ocupación y la declaración de urgencia de la misma, a los efectos de la expropiación forzosa de aquellos en los que deba construirse la línea, el tramo o el elemento de la infraestructura ferroviaria, o que sean necesarios para modificar las preexistentes, según lo previsto en la legislación expropiatoria.
+4. Cuando corresponda al administrador de la infraestructura la construcción de las infraestructuras ferroviarias, la potestad expropiatoria será ejercida por la administración de la Generalitat y el beneficiario de la expropiación será el propio administrador, que abonará el justiprecio de las expropiaciones.
+5. Las ejecución y conservación de las infraestructuras de transporte de titularidad pública, por constituir infraestructuras de interés comunitario, no estarán sometidas a la obtención de licencia municipal, siempre que se refieran a obras cuyo trayecto o interés público completo supere el ámbito municipal.
+La iniciación de las obras y la puesta en marcha de dichas infraestructuras deberán ser comunicadas previamente a los ayuntamientos afectados, si se acometen por otras administraciones o entidades.
+Se modifica por el art. 96 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-8
+
+## Sección segunda
+
+Sección segunda. Áreas de reserva
+
+### Artículos 67 a 70
+
+Artículos 67 a 70.
+(Sin contenido).
+Se dejan sin contenido por el art. 39 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Artículo 67
+
+Artículo 67. Delimitación.
+1. La administración competente en materia de infraestructuras podrá delimitar, mediante el procedimiento establecido en esta ley, las áreas de reserva necesarias para:
+a) El establecimiento de futuras infraestructuras o la ampliación de las existentes.
+b) El establecimiento de corredores infraestructurales en los que las infraestructuras de transporte sean acompañadas de otras infraestructuras lineales energéticas, de telecomunicaciones o relacionadas con el ciclo hidráulico, a fin de conseguir una adecuada ordenación conjunta del territorio.
+c) El fomento de la intermodalidad mediante la implantación de intercambiadores, estacionamientos, áreas de almacenaje u otros elementos semejantes.
+d) La ampliación de las zonas de protección señaladas en el presente título, así como el acondicionamiento ambiental o paisajístico de tales espacios u otros colindantes, al objeto de permitir el mejor nivel de integración posible entre dichas infraestructuras y su entorno.
+e) La planificación futura de ámbitos destinados a las estaciones y terminales de transporte, así como a las actividades productivas, a los servicios o a los usos residenciales cuya ubicación inmediata a tales terminales convenga por el interés público, en relación con la minoración global de los desplazamientos de personas o mercancías, la máxima extensión de la cobertura de servicio del transporte público y del ferroviario de mercancías, o la recuperación de las plusvalías públicas generadas por el esfuerzo inversor, dando cumplimiento a lo previsto en el artículo 47 de la Constitución Española.
+2. Las reservas de suelo indicadas podrán establecerse en relación con infraestructuras que entren dentro del ámbito competencial autonómico o estatal, incluyendo tanto las dedicadas al transporte público como a los servicios ferroviarios en general.
+3. La delimitación de las áreas de reserva tendrá en cuenta las limitaciones o condiciones que para el establecimiento o el funcionamiento de las infraestructuras de transporte puedan derivarse en su caso de los regímenes de protección y ordenación de los espacios naturales protegidos, así como de los planes de ordenación de los recursos naturales.
+
+### Artículo 68
+
+Artículo 68. Tramitación de las reservas de suelo.
+1. Las reservas de suelo se establecerán por un plazo máximo de diez años. Caducarán por el trascurso de dicho plazo sin que se haya procedido a la adquisición por la administración correspondiente de los correspondientes terrenos, o por la ejecución o desistimiento de la infraestructura que la motiva.
+2. Previamente a la declaración del área de reserva, la administración competente en materia de transportes formulará la correspondiente delimitación de área de reserva. Las determinaciones de dicho documento se limitarán a justificar de manera genérica el interés público en relación con la delimitación propuesta.
+3. El documento de delimitación de área de reserva será sometido a información pública e informe institucional. Al limitarse sus efectos futuros a la titularidad de los suelos afectados y no implicar ejecución de obra alguna o cambio de usos del suelo, su tramitación no requerirá los trámites previstos en la legislación ambiental o paisajística, con independencia de que dichos trámites deban desarrollarse posteriormente por la administración competente una vez que el grado de definición de tales actuaciones o usos permitan las evaluaciones previstas en los marcos normativos citados.
+4. Corresponde al conseller competente en materia de transporte la aprobación definitiva de la delimitación de área de reserva. Las citadas declaraciones serán publicadas y remitidas a las administraciones afectadas.
+
+### Artículo 69
+
+Artículo 69. Efectos de la delimitación de área de reserva.
+1. En los ámbitos incluidos en la delimitación de área de reserva requerirá informe previo vinculante de la administración competente en materia de transporte la formulación de instrumentos de planeamiento urbanístico y proyectos de cualquier tipo, la ejecución de obras públicas o privadas y los cambios de usos que impliquen la implantación de cualquier tipo de elemento edificatorio o de urbanización, o la alteración o eliminación de elementos naturales o antrópicos en caso de que pudieran perjudicar la correcta incardinación de la infraestructura en su entorno.
+2. La aprobación de la delimitación de área de reserva conlleva el interés público de la expropiación y la necesidad de ocupación. La administración actuante podrá adquirir los suelos para su ocupación en régimen de dominio público adscrito a la correspondiente infraestructura, o para su incorporación como bien patrimonial de la entidad pública administradora de la infraestructura, que en ambos casos podrá, a tales efectos, tener el carácter de beneficiaria.
+3. Las diversas infraestructuras o usos que se implanten en las áreas de reserva podrán ser objeto de cesión del derecho de uso, arrendamiento, enajenación tras la conclusión de las actuaciones que justificaron su expropiación, o de la aplicación de cánones a terceros concesionarios. Los ingresos que en tal sentido perciba el administrador de infraestructuras constituirán un fondo específico necesariamente vinculado a la adquisición de nuevo suelo y la inversión en infraestructuras, de acuerdo con un programa plurianual incorporado a sus presupuestos y publicitado mediante el procedimiento telemático correspondiente.
+
+### Artículo 70
+
+Artículo 70. Actuaciones en las áreas de reserva.
+1. En las áreas de reserva podrán ejecutarse actuaciones en materia de infraestructuras y de acondicionamiento del entorno de acuerdo con el procedimiento previsto en esta ley, y previo el cumplimiento de los trámites de información pública e informe institucional, así como los requeridos por la normativa en materia de medio ambiente y paisaje.
+2. En los casos en los que se prevea el desarrollo de infraestructuras logísticas susceptibles de parcelación, o de otros usos productivos o residenciales, la ordenación del sector será objeto del correspondiente instrumento de ordenación formulado por el órgano competente en materia de transportes, de acuerdo con la normativa urbanística vigente.
+
+## Sección tercera
+
+Sección tercera. Servicios prestados en otras infraestructuras viarias
+
+### Artículo 71
+
+Artículo 71. Adecuación del viario para su uso por el transporte público.
+1. Las administraciones competentes en la gestión de redes viarias utilizadas por servicios de transporte público planificarán, proyectarán, construirán y mantendrán dichas redes de manera que los citados servicios puedan ser prestados en las mejores condiciones posibles de funcionalidad, comodidad y seguridad.
+2. En las autovías y resto de carreteras dotadas con control de accesos, la ubicación de éstos y la configuración de los enlaces facilitarán el servicio a las poblaciones próximas.
+3. Los firmes empleados asegurarán el mayor nivel posible de comodidad y seguridad de las personas usuarias del transporte público.
+4. La ordenación semafórica de las vías utilizadas por el transporte público se gestionará bajo el principio de preferencia absoluta para el transporte público, salvo en aquellas situaciones excepcionales en que ello no sea posible. Con tal finalidad, además de las técnicas usuales de ordenación semafórica, se podrá recurrir a la implantación de carriles o fases específicas en los cruces, a ciclos específicos de preferencia previa detección del vehículo de transporte público, o a cualquier otra tecnología que resulte conveniente.
+5. Salvo en las situaciones excepcionales que reglamentariamente se determinen, existirá un carril expresamente reservado para el transporte público siempre que la frecuencia de los servicios públicos de transporte que lo utilicen sea superior a una expedición cada cinco minutos, carril que se ubicará preferentemente de manera independiente de las zonas usadas para la parada de vehículos privados.
+6. En todo caso, los servicios públicos de transporte interurbanos en sus recorridos urbanos también podrán utilizar las plataformas, calzadas o carriles reservados que estén destinados al transporte público colectivo urbano, si los hubiere, previo informe del ayuntamiento correspondiente y, en su caso, del titular de la vía si fuera otra administración, de acuerdo con lo previsto en el artículo 73 de esta ley.
+Se añade el apartado 6 por el art. 305 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 40 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Artículo 72
+
+Artículo 72. Paradas de transporte público.
+1. Como regla general, y salvo acuerdo distinto entre partes, corresponde a la administración titular de la vía el acondicionamiento de las paradas, incluyendo sus accesos y conexiones con la red peatonal existente, así como las medidas de seguridad necesarias para el cruce de los viales en los que se ubiquen dichas paradas.
+Corresponde, por otra parte, a la administración titular del servicio de transporte la implantación y mantenimiento de marquesinas, postes, señales y los elementos de información al usuario.
+En todo caso, los servicios de transporte público interurbanos podrán utilizar las paradas del transporte público colectivo urbano en las condiciones que establezca la Generalitat o autoridad competente en materia de transporte en el ámbito interurbano, previo informe del ayuntamiento correspondiente y, en su caso, del titular de la vía si fuera otra administración, de acuerdo con lo previsto en el artículo 73 de esta ley.
+2. Las paradas se ejecutarán con lo que se prevé en la normativa aplicable en materia de accesibilidad universal al transporte público y en materia de accesibilidad al medio urbano. Contarán en todo caso con los elementos de protección climática, información y comodidad en la espera que faciliten el uso del transporte público a todas las personas, incluidas las que tengan movilidad reducida.
+3. Para la ubicación de las paradas, se atenderá a los siguientes criterios:
+a) Número de personas usuarias afectadas y centros de atracción de demanda que afecte (centros sanitarios, educativos, de trabajo y otros centros de actividad).
+b) Incidencia en la prestación del servicio.
+c) Repercusión sobre la circulación urbana y la seguridad vial.
+d) Accesibilidad a otros modos de transporte, incluidos los urbanos.
+4. Cuando las paradas se ubiquen en plataformas o carriles reservados al transporte público de frecuencia elevada de paso, su diseño permitirá el adelantamiento entre diversas unidades para permitir un elevado nivel de velocidad comercial y regularidad.
+5. En las poblaciones que dispongan de estación de viajeros establecida siguiendo lo dispuesto en los artículos 80 y 81 de la presente Ley, será preceptiva su utilización por las líneas de transporte interurbano. No obstante, la conselleria competente en materia de transporte podrá autorizar, alternativa o adicionalmente, otros lugares de parada diferentes en función de las características del servicio y las necesidades de movilidad de la ciudadanía.
+6. En los servicios de transporte de viajeros en vehículos de turismo, el establecimiento y conservación de las paradas y todos sus elementos asociados corresponderá a las entidades locales dentro de su término municipal, previa autorización del titular de la vía si fuera otra administración, salvo las que estén en los recintos de puertos, aeropuertos y estaciones ferroviarias y de autobuses que serán competencia del titular o del explotador de dicha infraestructura.
+Se modifican los apartados 1 y 6 por el art. 307 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 96 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-8
+
+### Artículo 73
+
+Artículo 73. Coordinación administrativa.
+1. La administración competente en transportes someterá a informe de la competente en materia viaria aquellos instrumentos en virtud de los cuales se establezcan las paradas de los servicios de transporte.
+2. Las administraciones competentes en las redes viarias someterán a informe de las competentes en transporte cualquier tipo de actuación que desarrollen en dichas vías y que pudiera afectar al servicio de transporte público.
+En los dos casos citados en los puntos anteriores, las administraciones podrán, mediante escrito motivado, oponerse fehacientemente al establecimiento de paradas o a modificaciones lesivas en la red viaria, debiendo ser tales discrepancias resueltas por el conseller competente en materia de transportes.
+
+## CAPÍTULO III
+
+Compatibilidad de las infraestructuras de transporte con el entorno
+
+### Artículo 74
+
+Artículo 74. Zonas de compatibilización de usos en torno a las infraestructuras de transporte.
+1. En orden a asegurar una adecuada funcionalidad y compatibilidad de las infraestructuras y su entorno, se definen las zonas de dominio público y de protección, así como la línea de la edificación colindante con dichas infraestructuras.
+2. Los usos del suelo y las actividades que se desarrollen en dichas zonas, ya sea de iniciativa pública o privada, deberán respetar lo previsto en esta ley, estando sujetos, en todo caso, al trámite de autorización previa otorgada por el administrador de la infraestructura.
+3. El planeamiento urbanístico recogerá las zonas anteriormente señaladas, así como la concreción a las limitaciones de usos que en ellas procedan por aplicación de esta ley, y las restantes determinaciones necesarias para asegurar la adecuada compatibilidad de las infraestructuras con su entorno.
+
+### Artículo 75
+
+Artículo 75. Zona de dominio público.
+1. Comprenden la zona de dominio público los terrenos ocupados por las infraestructuras de transporte y una franja de terreno a cada lado de la plataforma, medida en horizontal y perpendicularmente al eje de la misma, desde la arista exterior de la explanación. La anchura de esta franja será:
+a) De ocho metros en las infraestructuras a que se refieren los apartados a, b y c del artículo 60.1 de esta ley, salvo que en el caso de las infraestructuras a que se refiere el apartado 60.1.c constituyan un elemento funcional no diferenciado del resto de vías de comunicación, en cuyo caso serán reguladas por la normativa urbanística o de carreteras, según proceda.
+b) De tres metros en las infraestructuras interurbanas diseñadas para el uso de peatones y ciclistas, salvo que por estar integradas en una carretera u otro tipo de vía proceda la aplicación de la normativa urbanística o de carreteras, así como en los elementos adicionales a que se refiere el artículo 61 de esta ley.
+No será de aplicación la previsión de esta franja de dominio público en las infraestructuras logísticas a que se refiere el artículo 60.1.e de la ley, en las que el dominio público será el que se delimite para cada una de ellas en el instrumento de planeamiento correspondiente.
+2. La arista exterior de la explanación es la intersección del talud del desmonte, del terraplén o, en su caso, de los muros de sostenimiento colindantes, con el terreno natural.
+3. En los casos especiales de puentes, viaductos, estructuras y obras similares, se podrán fijar como aristas exteriores de la explanación las líneas de proyección vertical del borde de las obras sobre el terreno, siendo, en todo caso, de dominio público el terreno comprendido entre las referidas líneas.
+4. En los túneles, la determinación de la zona de dominio público se extenderá a la superficie de los terrenos necesarios para asegurar la conservación y el mantenimiento de la obra, de acuerdo con las características geotécnicas del terreno, su altura sobre aquellos y la disposición de sus elementos, tomando en cuenta circunstancias tales como su ventilación y sus accesos.
+
+### Artículo 76
+
+Artículo 76. Zona de protección.
+1. La zona de protección de las infraestructuras de transporte ferroviario consiste en una franja de terreno a cada lado de la misma delimitada interiormente por la zona de dominio público definida en el artículo anterior y, exteriormente, por dos líneas paralelas situadas a setenta metros de las aristas exteriores de la explanación.
+2. Podrá definirse una zona de protección en torno al resto de infraestructuras reguladas por esta ley en aquellos tramos en que resulte conveniente en orden a asegurar una adecuada integración con los usos del entorno, con la anchura que resulte en cada caso conveniente sin superar la señalada en el punto anterior. Tal definición figurará en el estudio informativo previo a la ejecución de las nuevas infraestructuras, o en el que específicamente se redacte con tal finalidad en los restantes casos.
+
+### Artículo 77
+
+Artículo 77. Limitaciones de uso.
+1. La ejecución en las zonas de dominio público y de protección de las infraestructuras de transporte de cualquier tipo de obras o instalaciones fijas o provisionales, de cambios en el destino de las mismas o el tipo de actividad que se puede realizar en ellas, así como plantar o talar árboles, requerirá la previa autorización del administrador de infraestructuras, sin perjuicio de las competencias que al respecto ostenten otras administraciones públicas.
+La aprobación del planeamiento urbanístico, así como de los proyectos de urbanización y de los demás proyectos que faculten a las distintas administraciones públicas a ejecutar obras en las zonas de dominio público y protección, deberá contar igualmente con la correspondiente autorización previamente a su aprobación definitiva en el primer caso, o a su ejecución en los restantes supuestos.
+2. En la zona de dominio público sólo podrán realizarse obras o instalaciones cuando razones de interés general así lo requieran. Excepcionalmente y por causas debidamente justificadas, podrá autorizarse el cruce de la zona de dominio público, tanto aéreo como subterráneo, por obras e instalaciones de interés privado.
+En los supuestos de ocupación de la zona de dominio público, el que la realizare estará obligado a la limpieza y recogida del material situado en los terrenos ocupados hasta el límite de la citada zona de dominio público, previo requerimiento de la administración pública o del administrador de la infraestructura. Si no se atendiere el requerimiento dentro del plazo conferido, actuará de forma subsidiaria la citada Administración pública o el administrador de infraestructuras ferroviarias titular de la línea, mediante la realización de las necesarias labores de limpieza y recogida del material, quedando el ocupante de los terrenos obligado a resarcirle de los gastos en los que se hubiere incurrido por dicha actuación.
+3. En la zona de protección no podrán realizarse obras ni se permitirán más usos que aquellos que sean compatibles con la seguridad del transporte en la línea o instalación considerada, y con la adecuada compatibilización de tales usos con los efectos ambientales de la infraestructura. Tampoco podrán realizarse obras ni alterarse el uso cuando ello dificulte actuaciones futuras de ampliación o mejora de funcionalidad de la infraestructura programadas en los diez años siguientes a la mencionada autorización.
+4. El administrador de la infraestructura podrá utilizar o autorizar la utilización de la zona de protección por razones de interés general. Serán indemnizables la ocupación de las zonas de dominio público y protección, y los daños y perjuicios que se causen por su utilización, con arreglo a lo establecido en la legislación de expropiación forzosa.
+5. Podrán realizarse cultivos agrícolas en la zona de protección, sin necesidad de autorización previa, siempre que se garantice la correcta evacuación de las aguas de riego y no se causen perjuicios a la explanación, quedando prohibida la quema de rastrojos.
+6. Reglamentariamente podrá determinarse una distancia inferior a la establecida en los artículos precedentes para delimitar la zona de dominio público y la de protección, en función de las características técnicas de la línea de que se trate, y de las características del suelo por el que discurra dicha línea.
+7. En suelo clasificado como urbano consolidado por el correspondiente planeamiento urbanístico, las distancias establecidas en los artículos anteriores para la protección de la infraestructura ferroviaria serán de cinco metros para la zona de dominio público y de ocho metros para la de protección, contados en todos los casos desde las aristas exteriores de la explanación. Dichas distancias podrán ser reducidas por la conselleria competente en materia de transportes, siempre que se acredite la necesidad de la reducción y no se ocasione perjuicio a la regularidad, conservación o al libre tránsito de la infraestructura de transporte, sin que, en ningún caso, la correspondiente a la zona de dominio público pueda ser inferior a dos metros.
+8. Las actuaciones que, de acuerdo con la autorización señalada en el punto 1 del presente artículo, deban realizarse en orden a lograr un nivel adecuado de seguridad, a la integración paisajística, o a la atenuación de los niveles de ruido y emisiones que afecten a los usos colindantes, deberán ser costeadas por el solicitante de la autorización.
+
+### Artículo 78
+
+Artículo 78. Limitaciones específicas a la edificación.
+1. Queda prohibido cualquier tipo de obras de construcción, reconstrucción o ampliación de edificaciones de cualquier tipo a una distancia inferior a cincuenta metros del borde exterior de la plataforma de las infraestructuras ferroviarias. No obstante, podrán ejecutarse las que resultaren imprescindibles para la conservación y mantenimiento de las edificaciones existentes en el momento de la entrada en vigor de esta ley.
+Reglamentariamente se establecerán los supuestos en los que resulte aplicable una distancia inferior a la prevista en el párrafo anterior para el límite de edificación en virtud de las características de la línea y de su entorno. En tales casos, la concreción de las mencionadas distancias se realizará mediante resolución aprobada por el conseller competente en la materia.
+2. En las edificaciones existentes fuera de la zona señalada en el punto 1, pero dentro de la zona de protección, podrán realizarse, igualmente obras de reparación y mejora, siempre que no supongan aumento de volumen de la construcción y sin que el incremento de valor que aquéllas comporten pueda ser tenido en cuenta a los efectos expropiatorios.
+3. En todo caso, el planeamiento urbanístico adoptará las determinaciones necesarias para que las edificaciones en los entornos de las líneas de transporte no se vean afectadas por niveles de ruido, emisiones atmosféricas u otras circunstancias que puedan afectar tanto a los usos residenciales como a los restantes que a tales efectos se consideren especialmente sensibles.
+4. En relación con el resto de infraestructuras previstas en esta ley, podrán establecerse las limitaciones a la edificación previstas en los puntos anteriores. El estudio informativo en el que se defina la nueva infraestructura, o el que en su caso específicamente se elabore con tal finalidad, indicará los tramos objeto de limitación y la distancia límite, que no podrá superar la indicada en el punto 1 de este artículo.
+
+### Artículo 79
+
+Artículo 79. Integración de las infraestructuras de transporte en su entorno.
+1. Las administraciones coordinarán sus actuaciones en relación tanto con el desarrollo de las actuaciones que les competan, como en lo referente a las tareas de mantenimiento y al control de las actividades de los particulares, de manera que se produzca el mayor nivel de integración entre la infraestructura de transporte y su entorno, asegurando la integración de la primera en el medio rural o urbano en que se inscriba, tanto desde el punto de vista paisajístico, como en lo referente a la atenuación de los diferentes efectos ambientales sobre el entorno. Asegurarán, por otra parte, aquellas medidas dirigidas a lograr una adecuada permeabilidad trasversal de las infraestructuras lineales, tratando de canalizar los puntos de cruce bien mediante obras de paso a distinto nivel trasversal, bien mediante cruces dotados de todas las medidas de seguridad.
+2. Las medidas antes señaladas se extenderán a la totalidad de los ámbitos necesarios para asegurar la citada compatibilización y, en todo caso, a las zonas de dominio público y protección. En aquellos casos en los que se considere conveniente la actuación del administrador de la infraestructura en la zona de dominio público, ya sea para asegurar el objetivo señalado, ya sea en relación con la funcionalidad de la línea o sus futuras ampliaciones, podrá procederse a su expropiación de acuerdo con lo previsto en la legislación aplicable.
+3. Cuando se produzcan acciones urbanizadoras o de variación de usos del suelo, corresponderá a los promotores de tales actuaciones desarrollar las medidas necesarias para asegurar la citada compatibilidad.
+4. Cuando se trate de abordar la integración de la infraestructura de transporte en un entorno ya consolidado, las actuaciones necesarias se establecerán y programarán conjuntamente por la conselleria competente en la materia y el correspondiente ayuntamiento, quedando recogidas en el estudio de planeamiento que al respecto se formalice. La ejecución de tales actuaciones se cofinanciará bajo el principio de la participación paritaria de ambas partes.
+5. Salvo que por acuerdo entre las partes se señale lo contrario, corresponde al administrador de la infraestructura el correcto mantenimiento del debido ornato público de la plataforma ferroviaria y del resto de los terrenos de su titularidad. Corresponden a la administración municipal tales funciones en los terrenos de su titularidad, y en aquellos de propiedad privada situados en las zonas de dominio público y protección, mediante la aplicación de la legislación aplicable.
+
+## CAPÍTULO IV
+
+Estaciones y terminales de viajeros
+
+### Artículo 80
+
+Artículo 80. Planificación.
+1. Los apeaderos, estaciones y terminales se diseñarán y explotarán bajo el principio general de permitir el acceso a los servicios de transporte en condiciones de calidad y seguridad, favorecer la intermodalidad mediante un adecuado acceso desde otros modos de transporte, el vehículo privado, a pie y en bicicleta, y facilitar en general a quienes los utilicen la espera, la información de los servicios y la adquisición de los títulos de transporte. Mediante su adecuado entronque con los tejidos urbanos a los que sirve y mediante el desarrollo de las funciones urbanas en su interior que procedan, constituirán en cada caso un hito de referencia básico en relación con los núcleos a los que sirvan.
+Para tener la consideración de estación de viajeros deberá contribuir al desarrollo adecuado de la actividad de transporte de viajeros.
+2. Serán criterios básicos de diseño de los elementos antes señalados facilitar el acceso y los intercambios entre modos, tener capacidad suficiente para los flujos esperables, y tratar de minimizar los costes energéticos. En su diseño se incluirán aquellos servicios esenciales para dar un adecuado servicio al público, así como aquellos otros servicios o equipamientos que convenga emplazar en relación con la accesibilidad de la instalación y la posibilidad de atender desde ella al mayor número de personas posible.
+3. El planeamiento urbanístico de los municipios establecerá, de manera concertada con la conselleria competente en materia de transportes, las ubicaciones idóneas para las terminales de los servicios de transporte por carretera. Las terminales centrales de cada municipio se ubicarán preferentemente en los correspondientes centros urbanos, en localizaciones que permitan un rápido acceso a los servicios allí establecidos, la intermodalidad con el resto de servicios de transporte, la atención al mayor número posible de personas, y un acceso adecuado para los propios vehículos de transporte.
+4. La planificación y ejecución de los apeaderos, estaciones y terminales se ajustará al proceso genérico señalado en esta ley para el conjunto de las infraestructuras de transporte.
+5. La dimensión de los diversos elementos funcionales, edificatorios y de urbanización que los conformen se adecuará a las necesidades funcionales a satisfacer, sin perjuicio de las determinaciones que en tal sentido establezca el planeamiento urbanístico municipal.
+Se modifica por el art. 96 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-8
+
+### Artículo 81
+
+Artículo 81. Construcción y explotación de terminales de transporte.
+1.La construcción y explotación de nuevas estaciones y terminales se abordará de manera concertada entre la administración local y la conselleria competente en materia de transporte. Como regla general, corresponderá a la primera la cesión del suelo necesario, y a la segunda su construcción y explotación, salvo que tengan un interés meramente local.
+2. No obstante lo establecido en el punto anterior, la conselleria competente en materia de transporte y los ayuntamientos podrán acordar mediante el correspondiente convenio otras fórmulas de colaboración. Podrán igualmente convenir con la administración del Estado fórmulas específicas para la construcción y explotación conjunta de terminales e intercambiadores de titularidad estatal, que podrán ser gestionados de acuerdo con lo previsto en esta ley en todos aquellos aspectos que no contravengan lo que al respecto indique la legislación estatal aplicable.
+3. La construcción de estaciones y terminales se acomodará a lo previsto en esta ley, pudiendo ser ejecutadas de manera directa por la administración competente o mediante procedimiento de concesión de obra pública u otros similares previstos en la normativa de contratación del sector público.
+4. La explotación de las estaciones o terminales podrá ser asumida por un operador de transporte, por el administrador de la infraestructura o mediante un operador vinculado por un contrato de prestación de servicio público independiente o tramitado de manera conjunta con el de concesión de obra pública señalado en el punto anterior. En todo caso, tal explotación deberá ir precedida de la correspondiente aprobación del proyecto de servicio público redactado de acuerdo con esta normativa. Cuando tales proyectos estén promovidos por un ayuntamiento, su aprobación requerirá el informe favorable de la Conselleria competente en transportes.
+5. Los servicios de transporte que utilicen una determinada estación o terminal podrán contribuir a sus costes de construcción y explotación en razón de lo que establezca al respecto el proyecto público señalado en el punto anterior. Dichas cantidades podrán ser repercutidas en las tarifas de tales servicios o ser objeto de compensación en los términos previstos en la presente normativa; los cánones o tarifas que repercutan sobre concesiones competencia de la Generalitat requerirán un informe preceptivo y vinculante de la Conselleria competente en materia de transporte.
+Se modifica el apartado 5 por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+
+### Artículo 82
+
+Artículo 82. Terminales de los operadores de transporte.
+1. La administración competente en materia de transporte podrá establecer que los servicios de atención a los viajeros en los puntos de origen y destino se presten en terminales propias del operador del servicio público de transportes, siempre que queden aseguradas condiciones análogas de calidad, accesibilidad y una adecuada intermodalidad respecto al resto de servicios de transporte.
+2. Cuando se dé el supuesto previsto en el apartado anterior, la autorización antes señalada podrá extenderse a los acuerdos que se establezcan para que los servicios de terceros operadores sean atendidos en las terminales citadas.
+
+## CAPÍTULO V
+
+Infraestructuras logísticas
+
+### Artículo 83
+
+Artículo 83. Infraestructuras logísticas.
+A los efectos de esta ley, tienen el carácter de infraestructuras logísticas:
+1. Las terminales ferroviarias de mercancías que no formen parte de la red de interés general del Estado, incluyendo tanto los elementos puramente ferroviarios como las superficies, equipamientos, instalaciones y edificaciones que sean necesarios para el desarrollo de sus fines.
+2. Los ramales y el resto de instalaciones ferroviarias que conecten la red de interés general del Estado con emplazamientos logísticos, industriales y otros centros generadores de carga, salvo con los de los puertos y aeropuertos de interés general del Estado, que dada su titularidad estatal se regirán por lo previsto en la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario.
+3. Las áreas logísticas de iniciativa pública, entendidas como los ámbitos dotados de los accesos y servicios adecuados conforme a lo previsto en esta ley y en la normativa que la desarrolle, y que estén destinados al desarrollo de actividades de logística, almacenamiento y distribución, así como otras que convenga ubicar en dichas zonas por su elevado nivel de generación o atracción de flujos de mercancías.
+4. Las instalaciones públicas de estacionamiento de vehículos pesados, incluyendo tanto los propios estacionamientos como las actividades complementarias al servicio de tales vehículos, así como las áreas de servicio y descanso ejecutadas con dicha finalidad, siempre que por sus condiciones particulares no entren dentro del ámbito competencial de la administración titular de la vía.
+5. Los accesos a las terminales ferroviarias y zonas logísticas, salvo que por sus condiciones particulares deban ser construidos y mantenidos de acuerdo con la legislación en materia de carreteras o urbanística.
+
+### Artículo 84
+
+Artículo 84. Planificación, ordenación y ejecución de infraestructuras logísticas.
+1. La planificación, proyección, ejecución y gestión de las infraestructuras logísticas se adecuará a lo previsto en la presente ley y a la normativa que la desarrolle.
+2. Igualmente será de aplicación lo dispuesto en esta ley y en su normativa de desarrollo al procedimiento de delimitación de áreas de reserva y la consiguiente facultad expropiatoria, así como al establecimiento de la ordenación pormenorizada en tales áreas en los casos en los que se prevean usos privados.
+3. En cualquier caso, las actuaciones derivadas de los apartados anteriores deberán contemplar las determinaciones establecidas por la Estrategia Territorial de la Comunitat Valenciana.
+
+### Artículo 85
+
+Artículo 85. Instalaciones ferroviarias privadas de mercancías.
+1. Las líneas o instalaciones ferroviarias para el transporte de mercancías que se localicen íntegramente en la Comunitat Valenciana podrán ser de titularidad privada o pública, rigiéndose, en este último caso, por lo previsto en esta ley para el resto de infraestructuras de transporte.
+2. Para el establecimiento o la explotación de una infraestructura ferroviaria de titularidad privada será necesario obtener previamente la correspondiente autorización administrativa que habilite para ello. Con anterioridad al otorgamiento de la autorización por la conselleria competente en materia de transportes, el solicitante deberá presentar un proyecto de establecimiento o de explotación de la infraestructura, que incluirá, como mínimo, una memoria explicativa de los fines que se persiguen mediante el establecimiento o la explotación de la infraestructura, con sus planos generales y parciales, así como los presupuestos correspondientes, las actividades que vayan a prestarse sobre aquella, la descripción de las obras y las circunstancias técnicas de realización de las mismas, que habrán de ajustarse a la normativa técnica que resulte de aplicación. El proyecto de establecimiento o explotación de la línea será sometido al informe de la conselleria competente en materia de transportes con anterioridad a su autorización. Dicho informe deberá ser emitido en el plazo de un mes contado desde que sea solicitado, entendiendo que es favorable si no se remitiese en el referido plazo.
+3. Sobre la referida infraestructura ferroviaria de titularidad privada se podrán llevar a cabo actividades de transporte ferroviario, exclusivamente, por cuenta propia, como complemento de otras actividades industriales, logísticas o de operador de transporte realizadas por su titular.
+4. Cuando el establecimiento de una línea ferroviaria de titularidad privada sea, con arreglo a la legislación expropiatoria, de utilidad pública o interés social, la conselleria competente en materia de transporte podrá habilitar a su titular para ocupar los terrenos de dominio público que resulten necesarios y, en su caso, para adquirir los de propiedad privada a través de un procedimiento de expropiación forzosa en el que aquel tendrá la condición de beneficiario. En tales casos, el expediente expropiatorio irá precedido del correspondiente estudio informativo tramitado de acuerdo con lo previsto en la presente ley.
+
+### Artículo 86
+
+Artículo 86. Logística urbana.
+1. En los ámbitos urbanos en los que coincidan capacidades escasas de la red viaria con elevados niveles de distribución de mercancías, los ayuntamientos podrán elaborar planes de logística urbana con la finalidad de incrementar la eficiencia de la distribución de mercancías, minorar sus costes energéticos y ambientales, y racionalizar el uso del espacio urbano.
+2. Los planes citados se elaborarán y tramitarán de acuerdo con lo estipulado en relación con los planes de movilidad.
+
+## CAPÍTULO VI
+
+Administración de las infraestructuras de transporte
+
+### Artículo 87
+
+Artículo 87. Administrador de infraestructuras de transporte.
+1. Corresponde a la conselleria competente en materia de transporte, la administración de las infraestructuras de transporte de la Generalitat, en los términos recogidos en esta ley. No obstante, en los casos en que así proceda por interés público, dichas funciones, o parte de ellas, podrán ser asumidas por Ferrocarrils de la Generalitat Valenciana (FGV) o cualquier otra entidad designada al efecto por orden o resolución de la dicha conselleria, donde se establecerán las condiciones y procedimientos para la toma de decisiones, seguimiento, inspección y control por parte de la consellería en el desarrollo de dichas funciones.
+2. Las competencias del administrador de infraestructuras incluirán la gestión, ejecución, financiación, conservación y mantenimiento de las obras y su explotación, pudiendo fijar y percibir cánones, arrendamientos y cualquier otro tipo de ingreso derivado de la puesta a disposición de las mismas para la prestación de servicios, así como de los procedentes de actividades colaterales que pudieran desarrollarse en las mismas. Incluirá igualmente asumir la condición de beneficiario de la expropiación forzosa cuando así proceda.
+3. Mediante orden de la conselleria competente en materia de transportes se aprobará el catálogo de infraestructuras de transporte de competencia autonómica y su correspondiente adscripción a los efectos de administración en los términos señalados en los puntos anteriores. Corresponderá igualmente a la mencionada conselleria adscribir las nuevas infraestructuras a los efectos de su construcción y ulterior administración.
+4. Las funciones de administración se extenderán a los siguientes aspectos:
+a) Las líneas, tramos o elementos de la red, tanto en relación con la plataforma como con la superestructura, electrificación y señalización.
+b) Las terminales de transporte.
+c) El mantenimiento parcial o total de la infraestructura.
+d) La explotación de aquellos elementos propios y anejos a las infraestructuras susceptibles de tener rendimientos lucrativos.
+e) La promoción y el desarrollo de actividades relativas a los usos del suelo, en relación con las infraestructuras de transporte.
+f) El ejercicio de las potestades en relación con el régimen de compatibilidad de las infraestructuras con otros usos, incluyendo el correspondiente procedimiento sancionador.
+g) La participación, junto con otras administraciones o entes públicos estatales o locales, en la construcción y financiación de infraestructuras y en las labores de explotación y promoción de usos lucrativos anejos señalados en los puntos anteriores.
+h) La elaboración, tramitación y elevación al órgano competente para su aprobación de los mapas estratégicos de ruido, los planes de acción contra el ruido, los planes de mejora de calidad acústica y cuantos instrumentos, planes y proyectos resulten necesarios para la mejora de la calidad acústica, así como la ejecución, conservación y mantenimiento de las actuaciones en ellos previstos y las derivadas de la normativa aplicable en materia de vibraciones, garantizando la dotación de recursos humanos para su implementación al organismo competente.
+5. La administración de la infraestructura incluirá en su caso la gestión del sistema de control, de circulación y de seguridad, salvo cuando tales funciones sean desarrolladas por la empresa pública Ferrocarrils de la Generalitat Valenciana.
+6. La administración de las infraestructuras ferroviarias es un servicio de interés general y esencial para la Comunitat Valenciana que se prestará en la forma prevista en esta ley.
+7. Las funciones del administrador de infraestructuras de transporte podrán ser desarrolladas de manera directa o indirecta mediante las modalidades de contratación previstas en la legislación de contratos del sector público, y conforme a lo dispuesto en su estatuto particular.
+Se modifica el apartado 1 por el art. 113 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+ Se modifica el apartado 4.h) por el art. 224 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica el apartado 4 por el art. 89 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291
+
+### Artículo 88
+
+Artículo 88. Construcción y ejecución de infraestructuras.
+1. La construcción de las infraestructuras de transporte se realizará de acuerdo con los estudios informativos aprobados por la Conselleria competente en materia de transportes y previo el informe favorable de dicha administración.
+2. Cuando el administrador de infraestructuras de transporte para la ejecución de obras recurra a la celebración de un contrato de concesión de obra pública, podrá prever en los pliegos que rijan la concesión que la empresa concesionaria sea retribuida mediante el precio que abonen operadores o usuarios por la puesta a su disposición de las infraestructuras, mediante los rendimientos procedentes de la explotación de zonas comerciales vinculadas, o de actividades complementarias como establecimientos de hostelería, aparcamientos de vehículos, establecimientos de ocio o recreo, y, en su caso, mediante las aportaciones que pueda realizar el propio administrador de infraestructuras.
+3. Para la ejecución de sus actuaciones, el administrador de infraestructuras podrá utilizar cualquier recurso que proceda de acuerdo con la normativa aplicable, y en particular:
+a) Las aportaciones de la Generalitat, así como las provenientes del Estado mediante los convenios de financiación de infraestructura de transporte metropolitano o cualquier otro marco de apoyo estatal al transporte metropolitano.
+b) Los que obtenga por la gestión y explotación de su patrimonio o de aquel cuya gestión se le encomiende, y por la prestación de servicios a terceros.
+c) Las tasas cuyo importe deba percibir por afectación, con arreglo a esta ley.
+d) Los fondos de la Unión Europea que le puedan ser asignados.
+e) Los cánones que perciba por la utilización de las infraestructuras de transporte.
+f) Las aportaciones de la Generalitat a título de préstamo.
+g) Los recursos financieros procedentes de operaciones de endeudamiento.
+h) Los que obtenga por la formalización de convenios con otras entidades públicas o privadas.
+
+### Artículo 89
+
+Artículo 89. Patrimonio.
+1. El administrador de infraestructuras de transporte podrá ejercer, respecto de los bienes de dominio público de su titularidad o de aquellos que le hayan sido adscritos, las facultades de administración, defensa, conservación y mejora, policía, investigación, deslinde y recuperación posesoria que otorga a la conselleria competente en materia de patrimonio la legislación de patrimonio de la Generalitat
+2. Son titularidad del administrador de infraestructuras de transporte:
+a) Los bienes y derechos que se le asignen por ley o decreto del Consell, los que adquiera por cualquier título y los que construya con sus propios recursos.
+b) Los bienes y derechos que, en la fecha de entrada en vigor de esta ley, sean ya de su titularidad o estén adscritos al mismo, y aquellos cuya gestión y construcción le haya sido asignada conforme a lo dispuesto en su Estatuto particular.
+3. Los bienes de dominio público de titularidad del administrador de infraestructuras de transporte que resulten innecesarios para la prestación de los servicios públicos a que estuvieren afectados, podrán ser desafectados por aquel, de conformidad con lo establecido en la Ley 14/2003, de 10 de abril, de Patrimonio de la Generalitat.
+
+### Artículo 90
+
+Artículo 90. Declaración sobre la red.
+1. La declaración sobre la red expondrá las características de las infraestructuras de transporte puestas a disposición de los operadores, e informará sobre la capacidad de cada tramo de la red y sobre las condiciones de acceso a la misma. Asimismo detallará las normas generales, plazos, procedimientos y criterios que rijan en relación con los cánones y principios de tarificación que se deben aplicar a los diferentes servicios que presten las empresas operadoras.
+2. La declaración sobre la red será revisada anualmente, o con ocasión de la incorporación de nuevos elementos, mediante procedimiento análogo al de su formulación.
+3. La aprobación de la declaración sobre la red señalada en los puntos anteriores implicará de manera automática la obligación de abono por parte de los diversos operadores de los cánones en ella fijados, con independencia de que ello pueda conllevar en su caso la correspondiente modificación del contrato de servicio público.
+
+### Artículo 91
+
+Artículo 91. Derecho de uso de capacidad en infraestructuras de transporte.
+1. Los operadores de servicios públicos de transporte tendrán el derecho de uso de capacidad de infraestructura de acuerdo con el contrato de servicio público de transportes en virtud del cual desarrollen tal operación, de la declaración de la red y del acuerdo que al respecto establezcan en desarrollo de los dos instrumentos anteriores con el administrador de infraestructuras.
+2. El acuerdo citado fijará las condiciones técnicas y económicas específicas de uso de la capacidad y, en su caso, del resto de instalaciones que el administrador de infraestructura pone al servicio del operador. Su contenido será suscrito, además de por el administrador y el operador, por la conselleria competente en materia de transportes, previo informe en que verifique su adaptación a los contratos de servicio público vigentes.
+3. El desarrollo de cada acuerdo será supervisado por una comisión de seguimiento integrada por representantes de las tres entidades que lo suscriben. Las discrepancias que no queden resueltas por dicha comisión serán elevadas al conseller competente en materia de transportes para que adopte las medidas oportunas, que podrán incluir, en su caso, la rescisión del contrato de servicio público de transportes.
+4. Tanto en el caso de la rescisión citada en el caso anterior, como en aquellos en los que se produzca por parte del operador el abandono del servicio o el cese de las aportaciones económicas previstas, la conselleria competente en materia de transportes adoptará las medidas oportunas en orden al mantenimiento de dichos servicios y del equilibrio económico del administrador de infraestructuras, adjudicando de manera inmediata la operación del servicio de acuerdo con lo previsto en la legislación de contratos del sector público, y resarciendo al administrador, en su caso, por la merma de ingresos derivada de las nuevas condiciones contractuales.
+
+### Artículo 92
+
+Artículo 92. Adjudicación del derecho de capacidad para otros servicios y actividades.
+La prestación de servicios de trenes históricos, turísticos y otros que no tengan como objetivo el transporte público, así como el uso de las restantes infraestructuras gestionadas por el administrador de infraestructuras para usos lucrativos no amparados por contratos de servicio de transporte público, deberán ser autorizados por el administrador de infraestructuras, previa la suscripción del correspondiente acuerdo de derecho de uso de capacidad y el establecimiento de las condiciones técnicas y económicas que procedan.
+
+## TÍTULO IV
+
+Inspección, infracciones y sanciones
+
+## CAPÍTULO I
+
+Inspección de transportes
+
+### Artículo 93
+
+Artículo 93. Competencias.
+1. Corresponde a la Conselleria competente en materia de transporte, o en su caso a los ayuntamientos, la inspección en materia de servicios públicos de transporte que sean de su competencia, así como del resto de actividades de transporte reguladas en el título II de la presente Ley.
+2. Corresponde al administrador de la infraestructura de transporte la potestad de policía en relación con la regulación de la compatibilidad de las infraestructuras con el entorno regulada en el capítulo III del título III, así como las que le correspondan en relación con las infraestructuras que administre de acuerdo con lo mencionado en el citado título.
+3. Corresponde a los ayuntamientos la potestad inspectora en relación con la formalización y desarrollo de los planes de movilidad de ámbito municipal establecidos en el capítulo III del título I de esta ley.
+4. Corresponde a la conselleria competente en materia de transporte la potestad inspectora en el resto de supuestos previstos en esta ley, así como en los supuestos contemplados en el apartado 3 del presente artículo en caso de que no se haya producido la actuación municipal y una vez que haya trascurrido el plazo de notificación que reglamentariamente se establezca. Compete igualmente dicha potestad en aquellos supuestos de especial relevancia para el sistema de transportes de la Comunitat Valenciana, previa la incoación del correspondiente procedimiento por parte del conseller competente en materia de transportes, así como la coordinación de los planes de inspección de los restantes órganos, en relación en todo caso con los correspondientes de ámbito estatal.
+5. Las potestades de inspección en relación con las obligaciones de quienes utilicen sus servicios podrán ser delegadas en los operadores de transporte. En todo caso, el personal habilitado de los diversos operadores de transporte tendrá la condición de agente de la autoridad en aquellos supuestos en los que proceda actuar de manera inmediata en relación con el comportamiento de las personas usuarias al estar en peligro su propia seguridad, la de terceros o la del conjunto del servicio de transporte.
+6. Corresponde la facultad sancionadora a la administración o entidad a la que le corresponda la potestad inspectora. Normativamente se establecerán las condiciones objetivas del personal encargado de la instrucción de los expedientes.
+Se modifica el apartado 1 por el art. 225 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 94
+
+Artículo 94. Facultades de la inspección de transportes.
+1. Las empresas que realicen la prestación de los servicios de transporte o de actividades a las que se refiere esta ley, tienen la obligación de facilitar el acceso a sus instalaciones al personal de los servicios de inspección en el ejercicio de sus funciones. También deberán permitir a dicho personal llevar a cabo el control de los elementos afectos a la prestación de los referidos servicios.
+2. El personal de los servicios de inspección podrá recabar de las personas físicas y jurídicas a que se refiere el apartado anterior cuantas informaciones estimen necesarias sobre las materias objeto de esta ley.
+3. El personal al respecto habilitado por el administrador de infraestructuras vigilará el cumplimiento de las obligaciones que tiendan a evitar toda clase de daño, deterioro de los elementos que componen las infraestructuras, riesgo o peligro para las personas, y el respeto de las limitaciones impuestas en relación con los terrenos inmediatos a dichas infraestructuras, pudiendo en tal sentido dictar las ordenes de ejecución inmediata cuando la entidad del riesgo potencial existente así lo requiriese.
+4. El personal de los servicios de inspección, los funcionarios y el personal expresamente facultado por la administración para realizar la función de policía de transportes de viajeros e infraestructuras de transportes, tendrán en sus actos de servicio, o con motivo de los mismos, la consideración de agentes de la autoridad, a los efectos de la exigencia, en su caso, de la responsabilidad correspondiente a quienes ofrezcan resistencia o cometan atentado o desacato contra ellos, de obra o de palabra.
+5. El personal de los servicios de inspección, en el ejercicio de las funciones a que se refiere este artículo, podrá solicitar, a través de la autoridad gubernativa correspondiente, el apoyo necesario de los cuerpos y fuerzas de seguridad.
+6. En el ejercicio de su función, el personal de los servicios de inspección está autorizado para:
+a) Realizar materialmente las actuaciones inspectoras precisas en cualquier lugar en que se desarrollen actividades afectadas por la presente ley. No obstante, cuando se requiera el acceso al domicilio de personas físicas y jurídicas, será necesaria la previa obtención del oportuno mandamiento judicial.
+b) Llevar a cabo las pruebas, investigaciones o exámenes que resulten necesarios para cerciorarse de la observancia de las disposiciones legales vigentes en materia de transporte.
+7. Si los órganos responsables de la inspección, a la vista de las graves circunstancias existentes que comprometan la seguridad de los transportes, decidieren la paralización de servicios o actividades de transporte, lo comunicarán inmediatamente al director general que ostente la competencia en transportes, o en su caso al alcalde del municipio competente en el servicio, a los efectos de que ordenen la instrucción del correspondiente procedimiento.
+
+## CAPÍTULO II
+
+Infracciones
+
+### Artículo 95
+
+Artículo 95. Alcance subjetivo de la responsabilidad administrativa en las materias reguladas en la ley.
+1.La responsabilidad administrativa derivada de las infracciones tipificadas en este título se exigirá a las personas físicas o jurídicas que realicen las actividades de transporte de viajeros u otras que afecten a los supuestos contemplados en esta ley y, en su caso, a los usuarios y las usuarias de los servicios de transporte o a quienes con su conducta perturbaren su normal prestación o la integridad de los bienes afectos a ella.
+2. En materia de transporte de viajeros se aplicarán las reglas de responsabilidad administrativa establecidas en la Ley 16/1987, de 30 de julio, de ordenación de los transportes terrestres.
+3. (se deja sin contenido)
+4. (se deja sin contenido)
+5. Si un mismo comportamiento infractor fuera susceptible de ser calificado con arreglo a dos o más tipos infractores, se impondrá la sanción que corresponda al más grave de ellos.
+6. Las infracciones en relación con el cumplimiento de la obligación de los prestadores de servicios de transporte de estar en posesión de los títulos habilitantes contemplados en la legislación estatal se sancionarán de acuerdo con lo previsto en el capítulo I del título V de la Ley 16/1987, de 30 de julio, de ordenación de los transportes terrestres, y en su reglamento de desarrollo.
+Se modifica por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+ Se modifica el apartado 6 por el art. 109 de la Ley 9/2011, de 26 de diciembre. Ref. BOE-A-2012-1253
+
+### Artículo 95 bis
+
+Artículo 95 bis. Responsabilidad administrativa.
+(Derogado).
+Se deroga por la disposición derogatoria única 1.a) de la Ley 13/2017, de 8 de noviembre. Ref. BOE-A-2017-15370#dd
+ Se añade por el art. 142 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+### Artículo 96
+
+Articulo 96. Clasificación de las infracciones en materia de compatibilidad de las infraestructuras de transporte con el entorno
+Las infracciones en materia de compatibilidad de las infraestructuras de transporte con el entorno se clasifican en muy graves y graves.
+Se modifica por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+ Se modifica por la disposición final 1 de la Ley 13/2017, de 8 de noviembre. Ref. BOE-A-2017-15370#dd
+
+### Artículo 97
+
+Artículo 97. Infracciones en materia de transporte de viajeros.
+El incumplimiento de lo establecido en esta Ley en materia de transporte de viajeros se considerará infracción muy grave, grave o leve, de acuerdo con lo establecido en la Ley 16/1987, de 30 de julio, de ordenación de los transportes terrestres y en su reglamento de desarrollo.
+Las referencias hechas a los transportes reiterados para colectivos específicos se entenderán hechas a los transportes regulares de viajeros de uso especial.
+Al transporte a la demanda le será de aplicación el régimen sancionador establecido para el transporte regular de viajeros de uso general.
+Se modifica por el art. 226 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+ Se suprimen los apartados 8 a 14 por el art. 110 de la Ley 9/2011, de 26 de diciembre. Ref. BOE-A-2012-1253
+
+### Artículo 98
+
+Artículo 98. Infracciones graves en relación con los servicios de transporte de viajeros.
+(Sin contenido).
+Se deja sin contenido por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+ Se suprimen los apartados 10 a 14, 17 y 20 por el art. 111 de la Ley 9/2011, de 26 de diciembre. Ref. BOE-A-2012-1253
+
+### Artículo 99
+
+Artículo 99. Infracciones leves en relación con los servicios de transporte de viajeros.
+(Sin contenido).
+Se deja sin contenido por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+ Se suprimen las letras j), k) y l) del apartado 2 por el art. 112 de la Ley 9/2011, de 26 de diciembre. Ref. BOE-A-2012-1253
+
+### Artículo 99 bis
+
+Artículo 99 bis. Infracciones al transporte público discrecional de viajeros en vehículos de turismo.
+(Derogado).
+Se deroga por la disposición derogatoria única 1.a) de la Ley 13/2017, de 8 de noviembre. Ref. BOE-A-2017-15370#dd
+ Se añade por el art. 143 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+### Artículo 100
+
+Artículo 100. Infracciones a la regulación del servicio de taxi.
+(Derogado).
+Se deroga por la disposición derogatoria única 1.a) de la Ley 13/2017, de 8 de noviembre. Ref. BOE-A-2017-15370#dd
+
+### Artículo 101
+
+Artículo 101. Infracciones en relación con la compatibilidad de las infraestructuras de transporte con el entorno.
+1. Constituyen infracciones muy graves en materia de compatibilidad de las infraestructuras con el entorno:
+a) La realización de obras o actividades no permitidas en la zona de dominio público o en las zonas de protección de las infraestructuras de transporte, sin contar con la preceptiva autorización, cuando afecten a la seguridad del tráfico.
+b) El deterioro o la destrucción de cualquier obra o instalación, la sustracción de cualquier elemento de la infraestructura de transporte que afecte al funcionamiento de la misma o esté directamente relacionado con la seguridad del tráfico, o la modificación intencionada de sus características.
+c) El lanzamiento o depósito de objetos en cualquier punto de las infraestructuras y sus aledaños e instalaciones anejas o al paso de vehículos y, en general, cualquier acto que pueda representar un peligro grave para la seguridad del transporte, sus usuarios, los medios o las instalaciones de todo tipo.
+d) La comisión, en el plazo de un año, de dos o más infracciones graves sancionadas mediante resolución administrativa firme.
+2. Constituyen infracciones graves en materia de compatibilidad de las infraestructuras de transporte con el entorno:
+a) La realización de obras o actividades no permitidas en las zonas de dominio público, protección o reserva sin contar con la preceptiva autorización, cuando tales comportamientos no constituyan infracción muy grave.
+b) La destrucción, el deterioro o la alteración de cualquier obra, instalación o elemento de las infraestructuras de transporte directamente relacionado con la ordenación, la orientación y la seguridad de la circulación o la modificación intencionada de sus características o situación, cuando tales comportamientos no constituyan infracción muy grave.
+
+### Artículo 102
+
+Artículo 102. Otras infracciones.
+1. Será considerada infracción grave la carencia de plan de movilidad en los supuestos en los que resulte necesario, así como en particular el inicio de las actividades o usos residenciales en los ámbitos sujetos a dicha obligación, así como el otorgamiento de las autorizaciones administrativas habilitantes para el desarrollo de tales usos.
+2. Se considerará igualmente infracción grave la vulneración de los elementos esenciales de los referidos planes de movilidad, entendiendo como esenciales los que sean identificados como tales en los mencionados documentos.
+3. Se considerará infracción grave la inexistencia de reserva para el estacionamiento de bicicletas en viviendas, salvo en los supuestos de autopromoción en los que se considerará infracción leve.
+4. Se considerarán infracciones leves la vulneración de aspectos no esenciales de los planes de movilidad.
+5. La comisión, en el plazo de un año, de dos o más infracciones leves sancionadas mediante resolución administrativa firme será considerada infracción grave.
+6. Las actuaciones de empresas o particulares que dañen o alteren la funcionalidad del resto de infraestructuras previstas en esta ley se clasificarán de igual manera que las que tengan por objeto las infraestructuras de transporte.
+
+## CAPÍTULO III
+
+Sanciones
+
+### Artículo 103
+
+Artículo 103. Sanciones en relación con las infracciones tipificadas en los artículos 101 y 102.
+1.Las sanciones por las infracciones tipificadas en los artículos 101 y 102 se graduarán de acuerdo con los siguientes factores:
+a) La repercusión social de la infracción y el peligro para la vida y salud de las personas, la seguridad de las cosas y el medio ambiente.
+b) La importancia del daño o deterioro causado, en su caso.
+c) La intencionalidad en la comisión de la infracción.
+d) El grado de participación del sancionado y el beneficio por él obtenido.
+e) La reincidencia en la comisión, en el período de los doce meses anterior al hecho infractor, de otra infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme en vía administrativa.
+f) La circunstancia de haber procedido el infractor, por propia iniciativa, a remediar los efectos perniciosos de la infracción.
+2. La graduación de las sanciones se realizará conforme a las reglas y dentro de los límites siguientes:
+a) Se sancionarán con apercibimiento o multa de hasta 1.000 euros las infracciones clasificadas como leves. En el caso de no apreciación de reincidencia, el importe de las sanciones se situará entre 0 y 400 euros. Con 1.000 euros serán sancionadas las infracciones en las que se aprecie reincidencia por la comisión de dos o más faltas en el periodo de un año.
+b) Se sancionarán con multas comprendidas entre los 1.001 a 2.000 euros las infracciones clasificadas como graves.
+c) Se sancionarán con multa de 2.001 a 6.000 euros las infracciones clasificadas como muy graves.
+d) (Se deja sin contenido)
+3. (Se deja sin contenido)
+4. (Se deja sin contenido)
+5. (Se deja sin contenido)
+6. La imposición de las sanciones que en su caso correspondan será independiente de la posible obligación de indemnizar los daños y perjuicios causados.
+7. (Se deja sin contenido)
+8. Con carácter general, cuando, como consecuencia de la infracción, se obtenga un beneficio cuantificable, la multa podrá incrementar-se hasta el triple del beneficio obtenido.
+Se modifica por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+ Se deroga el apartado 4 por la disposición derogatoria única 1.a) de la Ley 13/2017, de 8 de noviembre. Ref. BOE-A-2017-15370#dd
+ Se modifica el apartado 1 por el art. 144 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+### Artículo 103 bis
+
+Artículo 103 bis. Sanciones en materia de transporte de viajeros.
+En materia de transporte de viajeros, el incumplimiento de lo previsto en esta ley será sancionado conforme a lo que se dispone en la Ley 16/1987, de 30 de julio, de ordenación de los transportes terrestres, y en su reglamento de desarrollo.
+Se modifica por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+ Se deroga por la disposición derogatoria única 1.a) de la Ley 13/2017, de 8 de noviembre. Ref. BOE-A-2017-15370#dd
+ Se añade por el art. 145 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+### Artículo 104
+
+Artículo 104. Inhabilitación del infractor por reincidencia y requerimiento para la subsanación de deficiencias.
+(Sin contenido).
+Se deja sin contenido por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+
+### Artículo 105
+
+Artículo 105. Otros efectos de las sanciones.
+1.(Se deja sin contenido)
+2. La firmeza de las sanciones en vía administrativa en relación con los supuestos de edificación o la realización de otras actividades que modifiquen el estado inicial de las propiedades en las zonas de dominio público, protección y reserva, conllevará la necesidad de la demolición de lo indebidamente ejecutado y la restauración del entorno en su estado inicial. En el caso de que no se produzca tal demolición y restauración, podrá ser ejecutada por el administrador de infraestructuras a costa de los sancionados.
+3. En los casos en los que la seguridad del transporte así lo requiera, la administración podrá ejecutar de oficio y de manera inmediata las demoliciones señaladas en el punto anterior antes de la resolución del expediente sancionador, con independencia de las indemnizaciones que procedieran en caso de que resuelto dicho expediente no se concluyera tal necesidad de demolición.
+4. En los casos en los que como consecuencia de la conclusión del proceso sancionador procediera la extinción de la autorización o contrato en virtud del cual se presta el servicio de transportes, la administración podrá optar por requerir al prestador para que ponga a su disposición los medios materiales necesarios para la continuidad del servicio cuando ello resulte imprescindible, durante el plazo que permita la adopción de otras soluciones alternativas por parte de la administración.
+En este supuesto el sancionado tendrá derecho a la indemnización que proceda por el uso de tales medios materiales, de acuerdo con la legislación aplicable.
+Se modifica por el art. 94 de Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+
+### Artículo 106
+
+Artículo 106. Multas coercitivas.
+Con independencia de las sanciones que correspondan, la autoridad competente podrá imponer multas coercitivas cuando prosiga la conducta infractora y no se atienda el requerimiento de cese de la misma, reiterándolos cada lapso de tiempo que sea suficiente para cumplir lo ordenado. Las multas coercitivas no excederán, cada una de ellas, del diez por ciento de la sanción fijada para la infracción cometida.
+
+### Artículo 107
+
+Artículo 107. Competencia para la imposición de sanciones.
+1. Cuando la competencia en el procedimiento la ostente la conselleria competente en materia de transportes, corresponderá la imposición de las sanciones a la persona titular de la dirección general competente en materia de transportes.
+2. Cuando la competencia en el procedimiento corresponda a otros entes de la Generalitat, corresponderá la imposición de las sanciones al órgano que se determine en su regulación propia, salvo en el caso de las sanciones muy graves que serán impuestas por la dirección del ente competente.
+3. Cuando la competencia en el procedimiento la ostente el ayuntamiento, corresponderá la imposición de las sanciones al alcalde.
+4. En el caso de operadores de transporte que no tengan el carácter de entidad pública, una vez instruido el expediente se dará traslado a la administración competente a fin de que sea resuelto de acuerdo con las competencias señaladas en los puntos anteriores.
+Se modifica el apartado 1 por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+
+### Artículo 108
+
+Artículo 108. Procedimiento sancionador y medidas provisionales en relación con las infracciones tipificadas en los artículos 101 y 102.
+1.Sin perjuicio de lo dispuesto en la Ley de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, y en su normativa de desarrollo, el procedimiento sancionador se iniciará siempre de oficio por la administración o entidad competente, bien por propia iniciativa o como consecuencia de orden superior, petición razonada de otros órganos o denuncia.
+La denuncia deberá expresar la identidad de la persona o personas que la presenten, el relato de los hechos que pudieran constituir infracción y la fecha de su comisión y, cuando sea posible, la identificación de los presuntos infractores.
+2. Con anterioridad a la iniciación del procedimiento sancionador, se podrán realizar actuaciones previas con objeto de determinar si concurren circunstancias que justifiquen tal iniciación. En especial, estas actuaciones se orientarán a fijar, con la mayor precisión posible, los hechos susceptibles de motivar la incoación del procedimiento, la persona o personas que pudieran resultar responsables y las circunstancias relevantes que concurran en unos y otros.
+3. Una vez acordada la iniciación del procedimiento sancionador, el expediente se notificará al presunto o presuntos infractores, que dispondrán de un plazo de quince días, desde la fecha de la notificación, para aportar cuantas alegaciones, documentos o informaciones estimen convenientes y, en su caso, proponer prueba concretando los medios de que pretendan valerse. Recibidas las alegaciones o transcurrido el plazo para ello, la persona encargada de instruir el asunto podrá acordar la apertura de un período de prueba.
+4. La propuesta de resolución se notificará a los interesados, concediéndoseles un plazo de quince días, desde la notificación, para formular alegaciones y presentar los documentos e informaciones que estimen pertinentes, ante la persona encargada de instruir el procedimiento sancionador, quien, a la vista de las alegaciones y documentos presentados, emitirá informe y remitirá lo actuado al órgano competente para la imposición de la sanción que corresponda.
+5. Antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de las actuaciones complementarias indispensables para resolver el procedimiento, que, en todo caso, deberán tener lugar en un plazo no superior a quince días. El plazo para resolver el procedimiento quedará suspendido hasta la terminación de las mismas.
+6. En el plazo de un mes desde la recepción de la propuesta de resolución y de los documentos, alegaciones e informaciones obrantes en el procedimiento, el órgano competente para resolver dictará resolución motivada, que deberá ser notificada a los interesados.
+Si transcurrido un año desde la iniciación del procedimiento sancionador no se hubiere notificado a los interesados la resolución que le ponga fin, se producirá su caducidad. En tal caso, el órgano competente para resolver emitirá, a solicitud del interesado, certificación en la que conste que ha caducado el procedimiento y que se ha procedido al archivo de las actuaciones.
+Las resoluciones que pongan fin a la vía administrativa serán inmediatamente ejecutivas.
+7. En todos aquellos supuestos en que el interesado decida voluntariamente hacer efectiva la sanción antes de que transcurran los quince días siguientes a la notificación del expediente sancionador, la cuantía pecuniaria de la sanción inicialmente propuesta se reducirá en un 25 por 100.
+El pago de la sanción pecuniaria con anterioridad a que se dicte la resolución sancionadora equivaldrá a la terminación del procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización de los daños y perjuicios causados por la comisión de la infracción. La reducción deberá estar determinada en la notificación de iniciación del procedimiento y su efectividad estará condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa.
+Se modifica por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+
+### Artículo 108 bis
+
+Artículo 108 bis. Procedimiento sancionador en materia de transporte de viajeros
+El procedimiento para la imposición de las sanciones en materia de viajeros se ajustará a lo dispuesto en la Ley 16/1987, de 30 de julio, de ordenación de los transportes terrestres y en su reglamento de desarrollo. En lo no previsto en dichas normas se estará a lo establecido en la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, y en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+Se añade por el art. 94 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8761, de 13 de marzo de 2020. Ref. BOE-A-2020-5289
+
+### Artículo 109
+
+Artículo 109. Medidas urgentes y provisionales.
+1. Antes de la iniciación del procedimiento sancionador, el órgano competente podrá, de oficio o a instancia de parte, adoptar las medidas que correspondan, en los casos de urgencia y para la protección provisional de los intereses implicados. Éstas deberán ser confirmadas, modificadas o dejadas sin efecto mediante el acuerdo de iniciación del referido procedimiento, que deberá efectuarse dentro de los treinta días siguientes a su adopción, y que podrá ser objeto del recurso que proceda.
+2. Asimismo, iniciado el procedimiento sancionador, el órgano competente para imponer la sanción correspondiente podrá adoptar, de oficio o a instancia de parte, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer y el buen fin del procedimiento, evitar el mantenimiento de los efectos de la infracción, y garantizar las exigencias de los intereses generales.
+3. En todo caso, las medidas provisionales quedarán sin efecto si no se inicia el procedimiento en el plazo señalado o cuando el acuerdo de iniciación no contenga un pronunciamiento expreso acerca de las mismas.
+4. Las medidas de carácter provisional, que deberán ser proporcionales en cuanto a su intensidad y condiciones a los objetivos que se pretenden garantizar, podrán consistir en la suspensión temporal de actividades y la prestación de fianzas, en la clausura temporal de las infraestructuras afectadas, en la retirada de material rodante o en la suspensión temporal de servicios por razones de sanidad, higiene o seguridad.
+En ningún caso se podrán adoptar medidas provisionales que puedan causar perjuicio de difícil o imposible reparación a los interesados o que impliquen violación de derechos amparados por esta ley.
+5. Las medidas provisionales podrán ser dejadas sin efecto o modificadas durante la tramitación del procedimiento sancionador, de oficio o a instancia de parte, en virtud de circunstancias sobrevenidas o que no pudieron ser tenidas en cuenta en el momento de su adopción.
+En todo caso, se extinguirán con la eficacia de la resolución que ponga fin al procedimiento sancionador.
+
+### Artículo 110
+
+Artículo 110. Coordinación administrativa y acción subsidiaria de la Generalitat.
+1. Las administraciones y entidades competentes en la aplicación del régimen sancionador en la Comunitat Valenciana mantendrán un registro común de las sanciones firmes en vía administrativa a los solos efectos del desarrollo de sus propias competencias, y en su caso para la aplicación de los agravantes por reiteración previstos en la presente ley y los demás extremos que resulten convenientes para la instrucción de los expedientes.
+Se deroga el apartado 2 por la disposición derogatoria única 1.a) de la Ley 13/2017, de 8 de noviembre. Ref. BOE-A-2017-15370#dd
+
+### Artículo 111
+
+Artículo 111. Prescripción.
+1. Las infracciones reguladas en esta ley prescribirán: las muy graves a los tres años, las graves a los dos años, y las leves al año.
+El plazo de prescripción de las infracciones comenzará a computarse desde el día en que la infracción se hubiera cometido. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento sancionador. El plazo de prescripción volverá a correr si el expediente sancionador estuviera paralizado durante más de tres meses por causa no imputable al presunto responsable.
+2. Las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años, y las impuestas por faltas leves al año.
+El plazo de prescripción de las sanciones comenzará a computarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a correr el plazo si aquel está paralizado durante más de un mes por causa no imputable al infractor.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Cambio de denominación de la Agencia Valenciana de Movilidad Metropolitana.
+(Derogada).
+Se deroga por la disposición derogatoria única 1.a) de la Ley 13/2017, de 8 de noviembre. Ref. BOE-A-2017-15370#dd
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Adscripción de infraestructuras al Ente Gestor de la Red de Transporte y de Puertos de la Generalitat.
+(Deroga).
+Se deroga por la disposición derogatoria única de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Constitución del Foro de Movilidad de la Comunitat Valenciana.
+En el plazo de seis meses a partir de la entrada en vigor de la presente ley se constituirá el Foro de Movilidad de la Comunitat Valenciana.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Regulación de los centros de atención al público en los servicios de taxi.
+(Derogada).
+Se deroga por la disposición derogatoria única 1.a) de la Ley 13/2017, de 8 de noviembre. Ref. BOE-A-2017-15370#dd
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Aplicación de la ley al sistema viario de la Comunitat Valenciana.
+Lo dispuesto en las secciones primera y segunda del capítulo II del título III de la presente ley será de aplicación a la Red Básica y Local del sistema viario de la Comunitat Valenciana incluido en el ámbito de la Ley 6/1991, de 27 de marzo, de la Generalitat, de Carreteras de la Comunitat Valenciana, en la medida que no se oponga a lo establecido en la misma.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Planes de movilidad en actuaciones iniciadas.
+1. No será obligatoria la formulación de planes de movilidad junto con los planes generales cuando éstos ya hayan iniciado el trámite de información pública, con independencia de la necesidad de su incorporación ulterior en los supuestos previstos en esta ley.
+2. No será obligatoria la formulación de planes de movilidad en las implantaciones relevantes de usos residenciales que cuenten con plan parcial sometido a información pública o en una fase ulterior de tramitación, ni en aquellas actividades que en la fecha de entrada en vigor ya hayan solicitado la correspondiente licencia.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Concesiones vigentes de servicios públicos regulares.
+1. Los servicios públicos regulares por carretera prestados mediante concesión administrativa vigente a la entrada en vigor de esta ley seguirán manteniendo su vigencia hasta el final del plazo de dicha concesión.
+2. En el plazo máximo de un año desde la entrada en vigor de la presente ley, la administración competente nombrará el director de la concesión y en el mismo plazo se formulará el documento de condiciones concretas de prestación del servicio de transportes recogiendo las características de la prestación que en dicho momento corresponda de acuerdo con las autorizaciones dadas en tal sentido por la administración concedente.
+3. En aquellos casos en los que la prestación de los servicios de transporte deba efectuarse con compensación económica de la administración, el contrato de concesión de servicio público regular de viajeros se trasformará en un contrato de servicio público de transportes de los previstos en esta ley, sin que ello altere ni los derechos y obligaciones previamente existentes, ni el plazo concesional, ni ninguno de los otros elementos sustanciales de la concesión primitiva.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Autorizaciones de taxi.
+(Derogada).
+Se deroga por la disposición derogatoria única 1.a) de la Ley 13/2017, de 8 de noviembre. Ref. BOE-A-2017-15370#dd
+ Se deroga el apartado 4 por la disposición derogatoria única de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Expedientes iniciados en materia de infraestructuras y autorizaciones.
+1. Los expedientes en materia de infraestructuras, zonas de reserva y, en su caso, su correspondiente ordenación, cuya tramitación se encuentre iniciada a la fecha de entrada en vigor de esta ley, culminarán su tramitación de acuerdo con lo previsto en la misma.
+2. Las autorizaciones concedidas en las zonas de dominio público y protección no caducadas antes de la entrada en vigor de esta ley se entenderán plenamente vigentes.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+En la totalidad de las infraestructuras de titularidad autonómica reguladas por la Ley 6/2011, de 1 de abril, de la Generalitat, de Movilidad de la Comunidad Valenciana, y la Ley 6/1991, de 27 de marzo, de Carreteras de la Comunidad Valenciana, y con objeto de la realización de los trabajos necesarios de conservación, vigilancia, explotación, seguridad, y los derivados de situaciones de emergencia, se permitirá la circulación de vehículos que presten dichos servicios públicos y para los fines propios de los mismos, como ambulancias, bomberos y policía, así como los de circulación de los vehículos afectos al servicio y mantenimiento de estas infraestructuras, que circularan debidamente identificados.
+Se añade por el art. 148 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Régimen transitorio del procedimiento a que se refiere el artículo 78 de esta ley.
+En tanto no se disponga del desarrollo reglamentario indicado en el artículo 78, en relación a las distancias límite a la edificación a las infraestructuras ferroviarias en algunos supuestos, se seguirá el siguiente procedimiento para casos particulares para poder proceder a su autorización.
+1. Informe favorable de FGV, en el que se considere justificable la aplicación de una distancia inferior a cincuenta metros para el límite de edificación en virtud de las características de la línea y de su entorno y en el que se reflejen las distancias concretas para el supuesto en particular.
+2. Resolución del conseller competente en materia de transportes del supuesto en particular, en la que se incluyan las distancias concretas para dicho supuesto indicadas por FGV en su informe.
+Se añade por el art. 102 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Régimen transitorio del capítulo III del título II de esta ley.
+(Derogada).
+Se deroga por la disposición derogatoria única 1.a) de la Ley 13/2017, de 8 de noviembre. Ref. BOE-A-2017-15370#dd
+ Se añade por el art. 103 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de inferior o igual rango se opongan a lo dispuesto en la presente disposición. Supletoriamente, y hasta la entrada en vigor del reglamento de desarrollo de esta ley, se aplicarán las restantes disposiciones aplicables en materia de movilidad, en tanto no se opongan a la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación normativa.
+Se faculta al Consell para dictar las disposiciones reglamentarias y las normas técnicas para el desarrollo y aplicación de la presente ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente ley entrará en vigor a los veinte días de su publicación en el «Diari Oficial de la Comunitat Valenciana».
+
+### Disposición final tercera
+
+Disposición final tercera. Supletoriedad de la legislación estatal para los servicios públicos de transporte de viajeros por carretera y las estaciones y terminales de viajeros.
+En lo no previsto en la presente ley o en las normas dictadas para su desarrollo será de aplicación supletoria a los servicios públicos de transporte de viajeros por carretera y las estaciones y terminales de viajeros, el régimen establecido en la legislación estatal en la materia.
+Se añade por el art. 96 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-8
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 1 de abril de 2011.–El President de la Generalitat, Francisco Camps Ortiz.

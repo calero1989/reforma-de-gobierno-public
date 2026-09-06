@@ -1,0 +1,1180 @@
+# Ley 1/2022, de 13 de abril, de Transparencia y Buen Gobierno de la Comunitat Valenciana.
+
+- Identificador BOE: `BOE-A-2022-8187`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2022-8187
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos y todas las ciudadanas que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del rey, promulgo la siguiente Ley:
+PREÁMBULO
+I
+Los cambios que ha vivido la sociedad como consecuencia de la revolución digital y tecnológica, junto con las demandas de una ciudadanía más activa en relación con el funcionamiento de la administración y los servicios públicos, han generado una concienciación creciente sobre la importancia del espacio público y han transformado la manera de pensar y concebir la democracia. Ahora, los ciudadanos y ciudadanas se relacionan entre ellos y con las administraciones públicas compartiendo datos, opiniones y perspectivas en tiempo real y colaborando unos con otros de una manera que era impensable solo hace unos pocos años.
+La administración pública ya no ostenta la exclusividad del tratamiento de los asuntos públicos. Hay ahora otros agentes que piden tomar parte en el diseño de las políticas públicas y en su gestión y evaluación, que quieren aportar sus puntos de vista y sus conocimientos a las actuaciones de los poderes públicos que puedan afectarles, que reclaman que se tengan en cuenta sus necesidades y preferencias. Unas demandas que ya no giran solo alrededor del resultado de los servicios públicos sino que inciden también en la manera como se ejerce el poder y como los gobiernos se relacionan con la ciudadanía, en lo que se considera como el ejercicio del buen gobierno. Esto lleva a las instituciones públicas a adaptar su funcionamiento para dar cabida a estas demandas, en un cambio de cultura hacia una mayor permeabilidad respecto a los ciudadanos y ciudadanas y un reforzamiento de la ética pública. Por eso, fortalecer la calidad democrática e institucional se ha convertido en un reto para los gobiernos de todo el mundo, que incorporan los nuevos paradigmas vinculados a la gobernanza democrática y nuevos valores para generar confianza y mejorar la percepción de la ciudadanía sobre la cosa pública, a la vez que se refuerza el sentido de comunidad cívica.
+La concepción de un gobierno abierto que conversa de manera permanente con la ciudadanía, promoviendo y facilitando su colaboración, fue formulada, a comienzos del nuevo milenio, por la Organización para la Cooperación y el Desarrollo Económico (OCDE), y organizaciones internacionales como esta o como la Alianza para el Gobierno Abierto han tenido un papel relevante en su impulso y desarrollo. En este sentido, hay que destacar la Recomendación del Consejo de la OCDE sobre gobierno abierto de 2017, que define el gobierno abierto como una cultura de gobernanza que promueve los principios de transparencia, integridad, rendición de cuentas y participación de las partes interesadas en apoyo de la democracia y el crecimiento inclusivo.
+Ya no se trata solo de gestionar mejor los servicios públicos, sino también de coproducir políticas y generar valor público a través de la colaboración dinámica y permanente con otros actores, así como de reducir la distancia entre las instituciones y la ciudadanía. El caudal de información e inteligencia que las instituciones públicas pueden recibir de otros agentes impulsa cambios de primer orden en la manera de gobernar y abre oportunidades a una mejor gestión de los asuntos públicos en el marco de la sociedad de la información. En este sentido, este cambio de cultura ha de ir paralelo al desarrollo de una administración más moderna y eficiente en la organización, en el funcionamiento y en los procesos. Una administración que esté orientada a la ciudadanía y favorezca la innovación y que, mediante la planificación estratégica y la evaluación, garantice la mejora continua de los servicios públicos y de las políticas a la vez que rinde cuentas ante la ciudadanía de manera permanente. De esta manera, la cultura de la planificación y la evaluación da sentido a la concepción de la transparencia como verdadera herramienta de rendición de cuentas, y, junto con la mejora de la ética pública, constituyen bases de un buen gobierno encaminado a fortalecer los vínculos de complicidad y confianza.
+La Generalitat inició este cambio en la concepción de lo que han ser el gobierno y la administración de la Generalitat con la reforma del Estatuto de autonomía del año 2006. Con la actual redacción del artículo 9 se dio un paso importante al reconocer el derecho de la ciudadanía a disfrutar de unos servicios públicos de calidad e incorporar el mandato a las Corts Valencianes de regular el derecho a una buena administración y el acceso a los documentos de las instituciones y las administraciones públicas.
+Este cambio ha impulsado la elaboración de un cuerpo normativo específico para dar cobertura jurídica a los pilares en los que se sustenta el buen gobierno, y que se ha traducido en una serie de normas que regulan la transparencia de la actividad pública, los principios del buen gobierno, la integridad y los conflictos de intereses de los cargos públicos o la transparencia en la actividad de los grupos de interés. Todas estas normas han ido definiendo un modelo más avanzado, íntegro y transparente de administración pública. Aun así, con esta ley se pretende articular, en una visión más completa e integradora, los aspectos fundamentales que definen una buena administración. Una visión que contemple conjuntamente la obligación de las administraciones públicas de ser transparentes y abrir sus datos, el derecho de la ciudadanía a acceder a la información pública, la infraestructura ética que tiene que sustentar el buen gobierno o la institucionalización de la rendición de cuentas de la acción de gobierno mediante el impulso de la cultura de la planificación y la evaluación del funcionamiento de la administración. Dentro de esta concepción, se establece un marco general y de referencia para promover la integridad en el funcionamiento de las instituciones públicas valencianas, con la regulación de unas herramientas de control del poder y de ética pública que tienen que servir para prevenir malas prácticas y para preservar la reputación social de las instituciones públicas.
+Se trata de un cambio de cultura en la manera en la que las instituciones se relacionan con la ciudadanía, y que se fundamenta en una mayor proximidad y un reforzamiento de los valores públicos. Este reto no solo interpela a las organizaciones públicas. Para que la transparencia sea una verdadera herramienta de control democrático y de empoderamiento ciudadano, y para que se puedan aprovechar las potencialidades que ofrece la información pública, hace falta que la cultura de la transparencia esté también presente en la sociedad. Es por eso por lo que las instituciones públicas no tienen que limitarse a publicar la información que prevén las normas, sino que han de interiorizar este cambio de cultura y llevar a cabo medidas activas para promoverla en la resta de actores sociales y para estimular en la ciudadanía el conocimiento y el ejercicio de sus derechos.
+II
+Los cimientos en que se sustenta esta ley se sitúan en el núcleo de nuestro sistema democrático. La Constitución española hace ya referencia en el artículo 105.b al acceso de la ciudadanía a los archivos y los registros administrativos, y sobre esta previsión se desarrolla el derecho de acceso a la información pública reconocido posteriormente con un alcance general por las leyes. Ahora bien, la transparencia, gracias a las normas jurídicas aprobadas en los últimos años y a los instrumentos institucionales, se va configurando cualitativamente no solo como un instrumento de avance democrático sino también como un derecho fundamental en su vertiente del derecho de acceso a la información pública. En este sentido, el desarrollo conceptual y doctrinal del acceso a la información pública en el ámbito internacional y su creciente importancia en las sociedades democráticas lo vinculan al derecho a recibir información veraz que reconoce el artículo 20 de la Constitución e, incluso, al derecho a participar en los asuntos públicos del artículo 23. En el marco y el contenido del Estatuto de autonomía de la Comunitat Valenciana encontramos, también, las posibilidades de profundización democrática abiertas por el desarrollo de nuevas herramientas tecnológicas en el marco de una cultura del conocimiento al servicio de la mejora de la actuación de las administraciones públicas y del ejercicio de los derechos y de la participación de la ciudadanía.
+Así mismo, los acuerdos internacionales suscritos por España reconocen también estos derechos. Particularmente, la libertad de recibir o de comunicar informaciones o ideas está reconocida en el artículo 10 del Convenio europeo de derechos humanos, y los artículos 21.1 de la Declaración universal de los derechos humanos y 25.a del Pacto internacional de derechos civiles y políticos amparan el derecho de participación ciudadana, al que se vincula la noción de la transparencia y el gobierno abierto. De manera más concreta, un importante avance fue el Convenio del Consejo de Europa sobre acceso a los documentos públicos de 2009, firmado por España y en proceso de ratificación, al tratarse del primer instrumento jurídico internacional vinculante que implica el reconocimiento y garantía del derecho general de acceso a los documentos públicos.
+Por otra parte, el artículo 1 del Tratado de la Unión Europea apuesta, dentro del proceso de creación de una unión cada vez más estrecha entre los pueblos de Europa, por que las decisiones se tomen de la manera más abierta y próxima a la ciudadanía que sea posible. Esta apertura, que garantiza una mayor participación ciudadana y una mayor eficacia y responsabilidad de la administración pública, contribuye a fortalecer los principios de la democracia y el respeto a los derechos fundamentales enunciados en la Carta de los derechos fundamentales de la Unión Europea y reconocidos en el artículo 6 del Tratado de la Unión Europea.
+Así mismo, el artículo 15 del Tratado de Funcionamiento de la Unión Europea consagra el derecho de todos los ciudadanos y ciudadanas de la Unión, y también de toda persona física o jurídica que resida o tenga su domicilio social en un estado miembro, a acceder a los documentos del Parlamento Europeo, del Consejo y de la Comisión, con determinadas condiciones. En este sentido, el Reglamento (CE) número 1049/2001, del Parlamento Europeo y del Consejo, de 30 de mayo de 2001, relativo al acceso del público a los documentos del Parlamento Europeo, del Consejo y de la Comisión, ha establecido un marco jurídico común para el acceso a los documentos de las tres instituciones, y ha fijado también la extensión, los límites y las modalidades del ejercicio de este derecho de acceso.
+Junto con esto, se han adoptado directivas de alcance sectorial en las materias de medio ambiente y de reutilización de la información pública, las cuales se trasladaron al ordenamiento jurídico español mediante la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente, y la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
+En relación con este último aspecto, hay que destacar la actualización normativa efectuada por la Directiva (UE) 2019/1024 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a los datos abiertos y la reutilización de la información del sector público. Este nuevo instrumento incide en la conveniencia de la apertura de datos del sector público dado que la explotación y el tratamiento inteligente de los datos públicos para la creación de nuevos productos y servicios en beneficio de la ciudadanía aportan valor añadido y contribuyen al desarrollo económico y social, apostando para ello por el principio de datos abiertos desde el diseño y por defecto. En la misma línea va la Estrategia europea de datos, con la que se pretende establecer un marco para la gobernanza/gobernanza de datos y sacar el máximo potencial a estos para favorecer la innovación y el crecimiento económico.
+Dentro del ordenamiento jurídico español no se establece un régimen general para el acceso en la información hasta la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, que tiene carácter básico y que sí que supone un salto cualitativo al prever mecanismos e instrumentos para garantizar este derecho. Junto con esta ley, también suponen un hito importante la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, y la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público. Estas leyes, además de reforzar las obligaciones de participación ciudadana y la evaluación de la producción normativa, adecuan el funcionamiento de las administraciones públicas a la administración electrónica, la interoperabilidad y la transparencia, en un cambio de paradigma que supone un reto para todas las administraciones públicas.
+Dentro del marco jurídico autonómico, en base al derecho reconocido estatutariamente a una buena administración y acceder a los documentos públicos, la Ley 2/2015, de 2 de abril, de transparencia, buen gobierno y participación ciudadana (de ahora en adelante, Ley 2/2015, de 2 de abril), ha servido para que la Comunitat Valenciana se dote de instrumentos técnicos, jurídicos y administrativos para satisfacer el derecho de la ciudadanía a la información pública, de forma que se ha adaptado la normativa básica y se ha establecido un marco más avanzado en las materias de transparencia y buen gobierno.
+A la Ley 2/2015, de 2 de abril, han seguido otras leyes que inciden en la transparencia y el buen gobierno, como son la Ley 5/2016, de 6 de mayo, de cuentas abiertas para la Generalitat Valenciana; la Ley 8/2016, de 28 de octubre, de incompatibilidades y conflictos de intereses de personas con cargos públicos no electos, o la Ley 25/2018, de 10 de diciembre, reguladora de la actividad de los grupos de interés de la Comunitat Valenciana. Otras normas también han incidido en la construcción de un sistema de integridad en las instituciones valencianas con mecanismos de prevención y control, como son la Ley 11/2016, de 28 de noviembre, de la Generalitat, de la Agencia de Prevención y Lucha contra el Fraude y la Corrupción de la Comunitat Valenciana, o la Ley 22/2018, de 6 de noviembre, de la Generalitat, de inspección general de servicios y del sistema de alertas para la prevención de malas prácticas en la administración de la Generalitat y su sector público instrumental. Así mismo, desde la aprobación de la Ley 2/2015, de 2 de abril, se han aprobado también varios decretos en las materias de transparencia, buen gobierno y mejora de la calidad de los servicios públicos que desarrollan este cuerpo legislativo e inciden en garantizar el derecho a una buena administración en el ámbito de la Generalitat.
+Esta ley modifica y desarrolla un gran número de las prescripciones reguladas en la Ley 2/2015, de 2 de abril, que ahora deroga en lo relativo a la transparencia y el buen gobierno, e introduce una nueva regulación de otras materias que no estaban contempladas. Desde que se aprobó la Ley 2/2015, de 2 de abril, se ha desarrollado reglamentariamente, se ha aplicado a varios ámbitos y sujetos previstos y se ha podido comprobar que la evolución conceptual y jurídica de las materias que regula ha consolidado los derechos y las obligaciones que reconoce, pero también ha desvirtuado, en algunos aspectos, su efectividad. Para conseguir una mayor seguridad jurídica, continuarán en vigor, en todo lo que no se oponga a la nueva ley, los decretos de desarrollo de la Ley 2/2015, de 2 de abril, sin perjuicio de que el Consell realice, si procede, las modificaciones normativas que sean necesarias para adaptar el contenido de estos decretos a lo que establece esta ley. Esta nueva ley se tiene que considerar como una evolución natural en la tendencia que la Generalitat ha seguido en su política pública de mejorar las herramientas que hacen posible avanzar en un gobierno abierto que pretende dialogar permanentemente con la ciudadanía, promoviendo y facilitando su colaboración.
+III
+La Generalitat adopta esta ley en virtud de las competencias y la potestad de autoorganización que le reconoce el artículo 49.1.1 del Estatuto de autonomía de la Comunitat Valenciana.
+IV
+Esta ley se estructura en un título preliminar y cinco cardinales, y se complementa con varias disposiciones.
+El título preliminar incluye los aspectos transversales de la ley, como son el objeto, los principios generales y el ámbito subjetivo de aplicación, además de recoger los sujetos obligados de naturaleza privada y la obligación de suministro de información. Así mismo, se incluye también la definición de las personas que se consideran altos cargos a los efectos de lo que establece esta ley. Hay que señalar que, dado que esta ley regula una amplia gama de materias y afecta sujetos diferentes, a lo largo de la ley se particulariza en cada caso qué aplicación tiene para cada uno de los sujetos afectados, en función de sus características y obligaciones.
+El título I regula la transparencia de la actividad pública, y establece el marco jurídico para garantizar el derecho de acceso en la información pública de la ciudadanía y el cumplimiento del principio de transparencia en la actuación y el funcionamiento de las administraciones públicas valencianas. En este sentido, se concibe la transparencia desde una doble perspectiva. Por una parte, la publicidad activa, que implica la obligación de la administración de difundir, a través de portales web, constantemente y de manera veraz, toda la información pública de relevancia sin necesidad de que nadie lo solicite. Por otra parte, el derecho de acceso a la información pública, que supone el derecho de la ciudadanía a acceder a la información pública que solicite sin más limitaciones que las que establecen las leyes, que se han de interpretar siempre de manera restrictiva. Además, incide en la necesidad de la apertura efectiva de los datos que produce la administración en su actividad para favorecer la generación de valor para la sociedad a través de la reutilización de estos datos. Este título se estructura en seis capítulos: disposiciones generales, publicidad activa, derecho de acceso a la información pública, régimen de impugnaciones, datos abiertos y reutilización de la información pública, y planificación y organización administrativa de la Generalitat en materia de transparencia.
+En el capítulo I se regulan las disposiciones generales que tienen que guiar la actuación de todos los sujetos obligados por esta ley y que son transversales a todo el contenido del título, como son los principios de la transparencia de la actividad pública, la adaptación de los sistemas de gestión documental o los criterios para garantizar la protección de datos personales por defecto.
+En el capítulo II se regulan las obligaciones de publicidad activa y la información que tienen que publicar los sujetos obligados. Este capítulo incluye dos secciones. La primera se refiere a las normas generales aplicables a la publicidad activa, e incluye el alcance de las obligaciones, los criterios generales de publicación, la regulación del portal de transparencia donde se publicará la información y el control del cumplimiento de las obligaciones de publicidad activa, que llevará a cabo el Consejo Valenciano de Transparencia. La sección segunda incluye la información que, como mínimo, tiene que ser objeto de publicidad activa, clasificada en trece bloques: información institucional, organizativa y de planificación; información sobre altos cargos y asimilados; información de relevancia jurídica; información presupuestaria, financiera y contable; información sobre endeudamiento; información sobre patrimonio; información sobre contratación pública; información relativa a convenios de colaboración, encargos de gestión, encargos de ejecución a medios propios y acción concertada; información sobre publicidad y promoción institucional; información sobre subvenciones; información relativa a ordenación del territorio, urbanismo y medio ambiente; información sobre estudios, estadísticas y cartografía, e información solicitada por la ciudadanía.
+En cuanto al ámbito subjetivo, se ha organizado de forma que las obligaciones de publicidad activa se estructuran en el articulado según los sujetos obligados, por niveles de menos a más obligaciones, teniendo en cuenta, además, que las entidades adaptarán estas obligaciones a sus particularidades organizativas. Se trata, en todo caso, de obligaciones mínimas y generales, sin perjuicio de disposiciones específicas que prevean un régimen más amplio en materia de publicidad y de fomentar la publicación de cualquier otra información pública que se considere de interés. Hay que apuntar, así mismo, que las obligaciones de publicidad activa aplicables a los gobiernos locales serán las que establece la normativa básica, sin perjuicio de que estos las puedan ampliar mediante las normas y ordenanzas que aprueben en virtud de su autonomía local. Los municipios podrán cumplir sus obligaciones directamente o, si no pueden por razones de capacidad o eficacia, lo podrán hacer de manera asociada o en colaboración con otras administraciones. En cualquier caso, dentro de las medidas generales de aplicación de la ley se establece de manera expresa la asistencia técnica de las diputaciones y la colaboración entre estas, la administración de la Generalitat y la Federación Valenciana de Municipios y Provincias para facilitar que los municipios cumplan sus obligaciones de transparencia, con un programa específico de apoyo a las entidades locales.
+El capítulo III se dedica a la regulación del derecho de acceso a la información pública, a partir del marco establecido en la legislación básica, e incluye también dos secciones. En la primera sección se establecen las normas generales, con el reconocimiento del derecho de acceso a la información pública y la delimitación respecto de otros derechos o procedimientos, los límites al derecho de acceso y el acceso parcial a la información. La sección segunda se refiere al procedimiento para el ejercicio de este derecho, y en él se regula la solicitud, que preferentemente será electrónica, así como las causas de inadmisión, las normas de tramitación, la resolución y la competencia para resolver. Dentro de esta sección también se precisa que en este procedimiento especial se habrán de omitir las exigencias y requisitos que puedan obstruir o impedir el derecho de acceso, especialmente en relación con la identificación y la firma, y se ha procurado garantizar que los posibles límites o restricciones se interpreten siempre de la manera más favorable al acceso a la información, de acuerdo con el principio de transparencia máxima. Así mismo, se han reforzado las obligaciones de asistencia y colaboración de la administración ante la ciudadanía para favorecer el ejercicio del derecho de acceso.
+El capítulo IV incluye el régimen jurídico de las reclamaciones contra las resoluciones de las solicitudes de acceso a la información que, con carácter potestativo, se pueden interponer ante el Consejo Valenciano de Transparencia, como autoridad de garantía en la materia. Como novedad importante, además del procedimiento ordinario de reclamación, se introduce la posibilidad de articular la impugnación de las resoluciones de solicitudes de acceso a la información mediante un procedimiento de mediación, que finalizará con un acuerdo en el marco del Consejo Valenciano de Transparencia. Ya sea por una reclamación o después de un procedimiento de mediación, las resoluciones del Consejo Valenciano de Transparencia tienen fuerza ejecutiva. La regulación de un nuevo procedimiento de mediación responde a lo que dispone la disposición adicional segunda de la Ley 24/2018, de 5 de diciembre, de la Generalitat, de mediación de la Comunitat Valenciana, que establece que la Generalitat impulsará la incorporación de procesos de mediación en los procedimientos administrativos como forma de terminación convencional.
+El capítulo V hace referencia a la posibilidad de reutilización de la información pública a partir de lo que se conoce como open data o datos abiertos; es decir, la publicación de conjuntos de datos en formato estándar y abierto de forma que la ciudadanía, las empresas y las instituciones académicas puedan reutilizarlos para la creación de nuevos productos o servicios. En el contexto de la transformación digital, los datos de las administraciones públicas, puestas al servicio de la ciudadanía, son una fuente de valor que ofrece múltiples oportunidades para la innovación social, la actividad económica y la generación de yacimientos de ocupación y, en definitiva, pueden generar beneficios para la sociedad, el medio ambiente y la economía.
+Por eso, y siguiendo los principios de la Directiva (UE) 2019/1024, en este capítulo se prevé que las entidades sujetas a la ley promuevan las acciones necesarias para la apertura y reutilización de los datos públicos, y que lo hagan siguiendo el principio de apertura de datos desde el diseño y por defecto, aspecto que hay que tener en cuenta en el diseño de los sistemas de gestión documental. En este sentido, se establece que la información que publique o facilite la administración tiene que ser reutilizable, se promueve la creación de catálogos de información pública reutilizable y se regula el portal de datos abiertos como punto de acceso al catálogo de información reutilizable de la administración de la Generalitat y su sector público. Además, se prevén medidas de colaboración para la interoperabilidad y la federación de datos, la elaboración de una estrategia valenciana de datos abiertos que incluya la planificación en esta materia y la creación de un consejo asesor de reutilización. Dentro de este capítulo también se prevé, respecto a la información producto de la investigación científica y técnica, la adopción de políticas de acceso abierto en la investigación financiada mayoritariamente con fondos públicos de acuerdo con los principios FAIR, así como la creación en el ámbito de la administración de la Generalitat y de su sector público de un repositorio institucional para promover y difundir el conocimiento abierto.
+Finalmente, el capítulo VI regula la planificación y la organización administrativa en materia de transparencia de la administración de la Generalitat y su sector público instrumental, donde se establecen estructuras e instrumentos necesarios para la ejecución de la ley y para el desarrollo transversal de las políticas públicas de transparencia en el ámbito de la administración autonómica.
+El título II se dedica al Consejo Valenciano de Transparencia, que se define como la autoridad de garantía en materia de transparencia en la Comunitat Valenciana y que sustituye al Consejo de Transparencia, Acceso a la Información Pública y Buen Gobierno. Con esta ley se ve reforzada su independencia al asegurar su capacidad para disponer de los recursos y medios personales, técnicos y materiales necesarios, y se le otorga la competencia para elaborar su reglamento de organización y funcionamiento, para aprobar directrices e instrucciones sobre su oficina técnica y para efectuar la propuesta de su presupuesto. También se modifica el número de personas que lo integran, que pasa de los cinco anteriores a solo tres, y se cambia también el régimen de dedicación que se les exige, que ahora pasa a ser exclusiva. Con esto se pretende garantizar la continuidad y el buen funcionamiento del Consejo Valenciano de Transparencia en el ejercicio de sus diversas funciones.
+Por lo tanto, dota al Consejo Valenciano de Transparencia de una nueva configuración, más acorde con lo que reclama la naturaleza propia de un órgano de garantía, con una estructura sencilla y con un perfil que permite una mayor operatividad. Todo ello en la línea que caracteriza, cada vez más, a otros órganos de este tipo en nuestro entorno, y que pretende su consolidación como auténtica autoridad independiente de garantía de la transparencia en la Comunitat Valenciana.
+El título III se dedica al buen gobierno y la integridad pública. En este título se establecen, en primer lugar, los principios de actuación que tienen que seguir las personas que ocupan altos cargos y cargos directivos de las entidades sujetas a la ley, y se hace un énfasis especial en la asunción y el ejercicio del principio de rendición de cuentas por el Consell y por las corporaciones locales, así como por sus miembros.
+Además, se promueve la construcción de marcos de integridad a través de la elaboración de códigos éticos y de conducta para las entidades incluidas en el ámbito subjetivo, con un contenido mínimo que establece la ley, y la inclusión de sus principios y normas en los pliegos de cláusulas contractuales y en las bases de convocatoria de subvenciones o de ayudas, además del fomento de los planes de prevención de riesgos para la integridad. Por su parte, en la administración de la Generalitat se prevé que el Consell impulse el diseño e implantación de un sistema de integridad institucional como marco para la gestión de la integridad y la mejora de la cultura ética de la organización, con una serie de herramientas y elementos mínimos y teniendo en cuenta la identificación de los riesgos más relevantes para la integridad pública y los canales de alerta y denuncia.
+En el diseño e implementación de estos instrumentos y marcos de integridad deberá tener un papel relevante de asesoramiento y colaboración la Agencia de Prevención y Lucha contra la Corrupción de la Comunitat Valenciana.
+El título IV regula la planificación y evaluación en el ámbito de la administración autonómica, e incluye tres capítulos relativos a la rendición de cuentas de la acción de gobierno, la calidad normativa y la planificación y evaluación de las políticas públicas y los servicios. El primero se dedica a la rendición de cuentas de la acción de gobierno mediante el Plan de gobierno que ha de elaborar y aprobar el Consell durante los primeros seis meses de su mandato. Esta herramienta de planificación estratégica, que permitirá proyectar la acción del gobierno en el tiempo y concretar en objetivos identificables el compromiso con la ciudadanía, se habrá de evaluar semestralmente y se publicarán en el portal de transparencia los documentos de su seguimiento. En el segundo capítulo se regulan los elementos fundamentales para garantizar los principios de buena regulación y la mejora normativa en el ámbito de la administración de la Generalitat, de forma que se asegure la planificación y la evaluación para propiciar una mayor eficacia de las normas. Finalmente, el tercer capítulo hace referencia a la incorporación de la cultura de la planificación y la evaluación dentro del funcionamiento ordinario de la administración, con la regulación de la evaluación de los planes y programas. De esta manera, se establecen instrumentos que, sin sustituir los procesos de decisión política, ayudarán a reconocer las consecuencias de las acciones del poder político, a facilitar la deliberación y la participación ciudadana y, en definitiva, a mejorar las políticas públicas y el funcionamiento de la administración.
+El título V incluye el régimen sancionador, necesario para asegurar el cumplimiento de las obligaciones que establece la ley y garantizar el derecho de la ciudadanía a acceder a la información pública. Este régimen sancionador, de cierta complejidad teniendo en cuenta la diversidad y la heterogeneidad de sujetos a los que se aplica, se enmarca fundamentalmente en el ámbito de la transparencia en sus diversas modalidades. Dentro del régimen sancionador, en esta ley se concretan algunos aspectos que quedaban relativamente indeterminados y se define de manera clara la competencia sancionadora en cada caso. Junto con esto, se establece la competencia para la aplicación en el ámbito autonómico del régimen sancionador previsto para los altos cargos por la legislación básica en materia de buen gobierno. También se regulan aspectos relativos al procedimiento, en el que se refuerza el papel del Consejo Valenciano de Transparencia.
+Finalmente, la ley incluye una serie de disposiciones que complementan el texto sustantivo y que recogen aspectos complementarios, transitorios y derogaciones.
+Así, se incluyen ocho disposiciones adicionales, que son necesarias para la aplicación correcta y eficaz de la ley en los ámbitos de las entidades obligadas, para la puesta en marcha de los instrumentos que la ley establece y para regular la evaluación del cumplimiento de las obligaciones de transparencia por parte de la autoridad de garantía. Así mismo, se garantiza que la aplicación de los regímenes específicos de acceso a la información pública deberá tener como mínimo los mecanismos de garantía que establece esta ley.
+También se incluyen tres disposiciones transitorias que establecen el régimen transitorio en cuanto al personal y a los medios del Consejo de Transparencia, Acceso a la Información Pública y Buen Gobierno, teniendo en cuenta el cambio de naturaleza y de régimen jurídico que introduce esta ley. Además, se regula el régimen transitorio relativo a la legislación aplicable en materia de publicidad activa y a la aplicación de las disposiciones relativas al Plan de gobierno.
+Una disposición derogatoria recoge la derogación parcial de la Ley 2/2015, y la cláusula general de derogación de las disposiciones de rango igual o inferior que se opongan al contenido de esta ley.
+A continuación, mediante tres disposiciones finales, se modifica el título de la Ley 2/2015, de 2 de abril, para adecuarlo a su contenido de acuerdo con la disposición derogatoria, se concreta el desarrollo reglamentario correspondiente y se mantiene la vigencia de los decretos dictados en desarrollo de la Ley 2/2015, de 2 de abril, en todo lo que no se oponga a la presente ley. Finalmente, se establece el régimen de entrada en vigor de la ley.
+Dada la complejidad de esta ley, las diferentes partes que esta determina y las obligaciones que implican cada una de estas, se concretan tres momentos diferentes de entrada en vigor. El conjunto de la ley entrará en vigor, de acuerdo con la regla general, al cabo de veinte días desde su publicación en el Diari Oficial de la Generalitat Valenciana. La entrada en vigor del capítulo II del título I, que incluye las obligaciones de publicidad activa, se difiere al cabo de doce meses desde la publicación oficial, periodo que resulta necesario para la adaptación técnica y administrativa que requiere su cumplimiento. Respecto a la nueva función de mediación otorgada al Consejo Valenciano de Transparencia que regula el artículo 39 de esta ley, entrará en vigor a partir del momento de constitución de este órgano. También se condiciona la entrada en vigor del artículo 49, que dispone la composición y estatuto personal del Consejo Valenciano de Transparencia, al nombramiento de las personas que lo integran.
+Se modifica por el art. 232 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Esta ley tiene por objeto:
+1. Regular y garantizar la transparencia de la actividad pública en su doble vertiente de publicidad activa y de derecho de acceso a la información pública, promover la reutilización de la información y regular el Consejo Valenciano de Transparencia.
+2. Establecer los principios básicos de integridad y buen gobierno que deben cumplir las administraciones públicas valencianas mediante la adopción de códigos éticos y de conducta y el desarrollo de marcos de integridad pública.
+3. Impulsar y garantizar la rendición de cuentas en la acción de gobierno y la actividad administrativa a través de la planificación y la evaluación de la normativa y de las políticas públicas en el ámbito de la administración autonómica.
+4. Regular el régimen de garantías y de responsabilidades por el incumplimiento de los deberes y obligaciones que establece esta ley.
+
+### Artículo 2
+
+Artículo 2. Principios generales.
+Sin perjuicio del resto de obligaciones legales, la interpretación y la aplicación de esta ley se articulan en torno a los siguientes principios generales:
+1. Transparencia máxima: que garantiza una actividad pública que facilite el acceso a los contenidos informativos que genera o custodia la administración pública y la excepcionalidad de las restricciones, que deben estar motivadas en las razones estrictamente tasadas en la ley, tras considerar los diferentes intereses que puedan concurrir.
+2. Transparencia desde el diseño: garantiza que los requisitos de transparencia, apertura, reutilización y protección de datos se tienen en cuenta desde el momento en que se planifican, diseñan o rediseñan sistemas, procesos o procedimientos administrativos, con el objetivo de alinear el ciclo de vida de los documentos y otros recursos informativos con la transparencia.
+3. Publicidad: principio en virtud del cual la administración debe proporcionar y difundir de forma constante, veraz y objetiva la información relativa a su actuación y funcionamiento.
+4. Comprensibilidad y claridad: se facilitará el acceso de la ciudadanía a la información pública de la manera más sencilla que sea posible, dada la naturaleza de la información, procurando que sea fácilmente comprensible. Se utilizará un lenguaje claro y se incluirá la descripción y el contexto que sean necesarios para facilitar la comprensión e interpretación de la información.
+5. Veracidad: la información difundida debe ser cierta, exacta y objetiva, y debe mantenerse actualizada. Además, se garantizará que se debe verificar su autenticidad, fiabilidad, integridad y disponibilidad.
+6. Reutilización de la información: la información se debe publicar y difundir en formatos abiertos que posibiliten y favorezcan su reutilización, para facilitar que la ciudadanía pueda aprovechar para sus actividades los datos y los documentos publicados y crear valor añadido.
+7. Accesibilidad tecnológica universal: la información, los instrumentos y las herramientas que se usen en su difusión deben ser comprensibles, utilizables y localizables por todas las personas en condiciones de seguridad.
+8. No discriminación: la administración pública debe establecer los medios necesarios para poner a disposición de la ciudadanía la información pública a través del medio de acceso que esta elija.
+9. Orientación a la ciudadanía y continuidad en el tiempo: la actividad pública se articula en torno a la ciudadanía, como eje y referencia de su estrategia, y debe enmarcarse en una perspectiva de continuidad y sostenimiento en el tiempo.
+10. Gobierno abierto: las administraciones públicas deben promover un marco de relación y diálogo permanentes y bidireccionales con la ciudadanía que garantice la transparencia y la rendición de cuentas de la actividad pública y facilite la participación y colaboración de la ciudadanía en las políticas públicas y la gestión.
+11. Modernización y neutralidad tecnológica: se debe promover el uso de las tecnologías para diseñar procesos más eficientes y próximos a la ciudadanía, y este se debe articular mediante la adopción de estándares tecnológicos abiertos y neutrales.
+12. Responsabilidad y rendición de cuentas: los gobiernos, las administraciones públicas y sus servidores deben asumir la responsabilidad de sus actuaciones y decisiones, y deben promover la cultura de la evaluación y el ejercicio de la rendición de cuentas en la actividad pública.
+13. Integridad: las personas al servicio de la administración, ocupen o no un cargo público, deben generar confianza y velar por la calidad democrática de las instituciones públicas y su reputación ante la ciudadanía. El ejercicio de sus funciones se debe caracterizar por la imparcialidad, la objetividad, la honestidad, el respeto al marco jurídico y la observancia de un comportamiento ético ausente de arbitrariedad, orientado al cumplimiento y la satisfacción de los intereses generales.
+14. Buen gobierno: los principios, obligaciones y reglas para la mejora de la calidad en los servicios y el funcionamiento de la administración y los principios éticos y de actuación de acuerdo con los cuales deben actuar las autoridades y el personal al servicio de la administración para que esta funcione con transparencia, eficacia, eficiencia, calidad y equidad, garantizando la rendición de cuentas y la buena administración.
+15. Planificación y evaluación de políticas y servicios: la administración pública debe instaurar procesos e instrumentos que permitan la planificación y la evaluación ordenada y constante de las políticas y los servicios que garanticen la mejora continua.
+16. Buena regulación: en el ejercicio de su función normativa, la administración pública debe actuar de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
+17. Protección de datos: se debe garantizar el derecho a la protección de datos de carácter personal en el ámbito que regula esta ley, prestando especial atención a aquellos tratamientos que puedan afectar a categorías especiales de datos, menores de edad, víctimas de violencia de género, personas en situación de exclusión social o de vulnerabilidad y supuestos equiparables, y también a aquellos que impliquen riesgos para la seguridad personal.
+
+### Artículo 3
+
+Artículo 3. Ámbito subjetivo de aplicación.
+1. Las disposiciones de esta ley se aplican a:
+a) La administración de la Generalitat.
+b) El sector público instrumental de la Generalitat, en los términos definidos en el artículo 2.3 de la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones.
+c) Las Corts Valencianes, el Síndic de Greuges, la Sindicatura de Comptes, el Consell Valencià de Cultura, la Acadèmia Valenciana de la Llengua, el Comitè Econòmic i Social, el Consell Jurídic Consultiu y cualquier otra institución estatutaria análoga que se pueda crear en el futuro, en relación con su actividad administrativa y presupuestaria, y también la Agencia de Prevención y Lucha contra el Fraude y la Corrupción y cualesquiera otras entidades de derecho público con personalidad jurídica propia, vinculadas o adscritas a estas.
+d) Las entidades integrantes de la administración local de la Comunitat Valenciana y las entidades de su sector público vinculadas o dependientes.
+e) Las universidades públicas valencianas y las entidades de su sector público vinculadas o dependientes.
+f) Las corporaciones de derecho público y federaciones deportivas, en cuanto a sus actividades sujetas a derecho administrativo.
+g) Las asociaciones constituidas por las administraciones públicas, organismos y entidades mencionados en este artículo.
+h) Cualquier otra entidad de derecho público con personalidad jurídica vinculada a las administraciones públicas o dependiente de estas.
+2. A efectos de lo establecido en esta ley, se consideran administraciones públicas: la administración de la Generalitat y sus organismos públicos vinculados o dependientes, las entidades integrantes de la administración local de la Comunitat Valenciana, las universidades públicas valencianas, y los consorcios constituidos íntegramente por administraciones públicas territoriales.
+
+### Artículo 4
+
+Artículo 4. Otros sujetos obligados.
+1. Tendrán que cumplir las obligaciones de publicidad activa que establece el capítulo II del título I de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno (de ahora en adelante, Ley 19/2013, de 9 de diciembre), en los mismos términos que los sujetos recogidos en el artículo 3 de la mencionada ley y respetando su naturaleza privada y las finalidades que tienen reconocidas, los siguientes sujetos:
+a) Los partidos políticos, organizaciones sindicales y asociaciones empresariales que desarrollen su actividad en la Comunitat Valenciana.
+b) Las entidades privadas que perciben durante el periodo de un año natural ayudas o subvenciones de las entidades recogidas en el artículo 3 de la presente ley en una cuantía superior a 50.000 euros, o cuando las ayudas o subvenciones percibidas representen al menos el 40 % del total de sus ingresos anuales, siempre que alcancen como mínimo la cantidad de 5.000 euros.
+2. El cumplimiento de estas obligaciones se realizará a través del portal web de la entidad, o bien utilizando los medios electrónicos de la organización, asociación o agrupación a la que pueda pertenecer. En el caso de las entidades recogidas en el apartado 1.b, también podrán cumplir sus obligaciones a través del portal web que ponga a su disposición la Generalitat.
+3. Las entidades recogidas en el apartado 1.b tendrán que publicar la información a partir del año siguiente a aquel en el que se hayan superado los umbrales establecidos, y tendrá que mantenerse publicada durante cuatro años naturales.
+4. La obligación que establece este artículo se incluirá en las bases reguladoras de concesión de subvenciones, en las resoluciones de concesión o en los convenios que instrumenten la concesión de subvenciones.
+
+### Artículo 5
+
+Artículo 5. Obligación de suministrar información.
+1. Las personas físicas o jurídicas que presten servicios públicos, que ejerzan funciones delegadas de control u otro tipo de funciones administrativas o lleven a cabo actividades cualificadas como servicios de interés económico general están obligadas a suministrar a los sujetos del artículo 3 a los que se encuentren vinculadas, previo requerimiento, toda la información necesaria para el cumplimiento por aquellos de las obligaciones previstas en esta ley.
+Esta obligación se extiende a todas las partes adjudicatarias de contratos del sector público y a las personas beneficiarias de las subvenciones, en los términos que se prevé en el respectivo contrato y las bases reguladoras de las subvenciones y la resolución de concesión de estas, sin perjuicio de las obligaciones de publicidad activa previstas en el artículo 4 de esta ley.
+2. Los pliegos de cláusulas administrativas particulares, o documento contractual equivalente, y las bases reguladoras de las convocatorias, los convenios y las resoluciones de concesión de ayudas y subvenciones deben recoger de forma expresa esta obligación, así como los medios para su cumplimiento y los mecanismos de control y seguimiento. Sin perjuicio de ello, la no inclusión de esta obligación en estos instrumentos no exime de su cumplimiento.
+3. Las administraciones públicas pueden acordar, previa advertencia y audiencia al interesado, la imposición de multas coercitivas una vez transcurrido el plazo conferido en el requerimiento sin que el mismo hubiera sido atendido. La multa, de 100 a 1.000 euros, será reiterada por periodos de quince días hasta su cumplimiento. El total de la multa no puede exceder del 5 % del importe del contrato, subvención o instrumento administrativo que habilite para el ejercicio de las funciones públicas o la prestación de los servicios y, si en este instrumento no figurara una cuantía concreta, la multa no excederá de 3.000 euros. Para la determinación del importe se debe atender a la gravedad del incumplimiento y al principio de proporcionalidad, entre otros. La competencia para imponer la multa coercitiva corresponde al órgano que ha realizado el requerimiento de suministro de información.
+
+### Artículo 6
+
+Artículo 6. Consideración de alto cargo.
+A efectos de lo establecido en esta ley, se consideran altos cargos:
+1. En el ámbito de la administración de la Generalitat y su sector público instrumental:
+a) Las personas integrantes del Consell.
+b) Las personas titulares de las secretarías autonómicas, las subsecretarías, las direcciones generales y los órganos o centros directivos cuyo nombramiento sea competencia del Consell.
+c) Las personas que ocupen cargos directivos como la presidencia, la dirección general, la gerencia, el cargo de consejero delegado o consejera delegada y otros cargos directivos asimilables que ejerzan funciones ejecutivas de máximo nivel con sujeción directa al órgano de gobierno en las entidades del sector público instrumental de la Generalitat a que se refiere el artículo 3.1.b de esta ley.
+d) Cualquier persona que haya suscrito un contrato laboral especial de alta dirección.
+e) Las personas que tengan la consideración de alto cargo de acuerdo con las leyes.
+2. En el ámbito de la administración local, las personas integrantes de las corporaciones locales, las titulares de los órganos superiores y directivos y el personal directivo de su sector público vinculado o dependiente, de acuerdo con lo dispuesto en la normativa reguladora de las entidades de régimen local.
+3. En el resto de entidades y de organismos incluidos en el artículo 3, las personas que tienen la titularidad o forman parte de órganos de gobierno y quienes ejerzan cargos directivos, como por ejemplo la presidencia, las direcciones generales, las gerencias, los consejeros delegados y las consejeras delegadas, y funciones ejecutivas asimilables en las entidades de su sector público vinculadas o dependientes.
+
+## TÍTULO I
+
+Transparencia de la actividad pública
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 7
+
+Artículo 7. Transparencia de la actividad pública.
+1. Las organizaciones comprendidas en el artículo 3 deben actuar con transparencia, y la deben promover mediante la publicidad y difusión de la información sobre su actividad pública, especialmente a través de internet, en los términos que establecen esta ley y la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+2. El principio de transparencia debe aplicarse de forma preferente. Cualquier excepción o limitación se debe derivar de una norma con rango de ley.
+3. Los sujetos incluidos en el artículo 3 promoverán la cultura de la transparencia entre la ciudadanía y entre los diferentes sectores sociales, a fin de favorecer el ejercicio del derecho de acceso a la información, impulsar la rendición de cuentas y la creación de valor añadido por medio de la reutilización de la información y promover la asunción del principio de transparencia por parte de las entidades privadas, tanto en la sociedad civil como en las estrategias de responsabilidad social corporativa de las empresas.
+Para fomentar la cultura de la transparencia, se llevarán a cabo campañas informativas, cursos y acciones de formación y medidas para la sensibilización y divulgación entre la ciudadanía, y se fomentará entre la población infantil y juvenil mediante proyectos de educación en gobierno abierto, formación a profesorado, recursos didácticos o educación no formal.
+4. Se entiende por información pública el conjunto de documentos o contenidos, cualquier que sea su formato o apoyo, que estén en poder de cualquiera de los sujetos incluidos en el artículo 3 y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones, independientemente del momento en que hayan sido elaborados o adquiridos.
+5. La publicidad y la puesta a disposición de la información pública se debe ajustar a los límites establecidos en la legislación estatal básica y en la propia de la Generalitat en materia de transparencia, sin perjuicio de lo que se pueda derivar de la normativa de protección de datos de carácter personal, y de la normativa específica que le sea aplicable.
+
+### Artículo 8
+
+Artículo 8. Gestión documental y archivos.
+1. A fin de garantizar la difusión y la transparencia de una información pública objetiva, veraz, comprensible y actualizada, las administraciones públicas comprendidas en el ámbito de aplicación de esta ley deben adoptar políticas de gestión integral de los documentos, tanto en apoyo analógico como electrónico, y deben diseñar e implementar los sistemas y las medidas técnicas y organizativas necesarias para garantizar la autenticidad, la perdurabilidad, la interoperabilidad, la seguridad, la integridad, la conservación, la accesibilidad y la recuperación de la información, así como la integración de conjuntos de datos públicos para su reutilización. Así mismo, deben adaptar sus sistemas de gestión de la información para que la información y documentación que generen o reciban en el ejercicio de sus competencias se conserve y difunda de acuerdo con las premisas de transparencia y reutilización. Estas entidades deben publicar las características y criterios de su política de gestión documental.
+2. Los archivos públicos que forman parte del Sistema Archivístico Valenciano están sujetos a los principios establecidos en esta ley para asegurar el acceso a sus fondos y la transparencia en su funcionamiento, en las condiciones establecidas en esta y en la normativa reguladora de los archivos de la Comunitat Valenciana, todo ello sin perjuicio de lo que establezca la legislación sobre secretos oficiales y la normativa que regula el acceso a archivos o bienes de valor histórico o cultural.
+3. Las tablas de valoración documental que apruebe la Junta Calificadora de Documentos Administrativos, deben establecer el régimen de conservación y acceso en las series documentales sujetas a publicidad activa y solicitadas a través del derecho de acceso.
+Se modifica el apartado 1 por el art. 74 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 9
+
+Artículo 9. Protección de datos personales.
+1. Atendiendo a su naturaleza y finalidad, en la elaboración de información pública y antes de facilitarla o publicarla se deben tener en cuenta los aspectos siguientes:
+a) Se deben cumplir los principios de protección de datos, especialmente los referidos a proporcionalidad del tratamiento de datos personales y la limitación del plazo de conservación.
+b) Se deben adoptar medidas técnicas y organizativas apropiadas a fin de garantizar y poder demostrar que el tratamiento es conforme con la normativa de protección de datos en relación al cumplimiento de esta ley.
+c) Se debe cumplir con los principios de protección de datos desde el diseño y por defecto.
+d) Cuando se publiquen datos o información en que se hayan disociado los datos que identifiquen personas, se deben realizar análisis para comprobar que no es posible revertir el proceso de disociación o que requeriría esfuerzos desproporcionados teniendo en cuenta el estado de la técnica.
+e) En cumplimiento del régimen jurídico en materia de protección de datos, y sin perjuicio de la realización de análisis de riesgos, se tendrá que realizar una evaluación de impacto en relación a la protección de datos personales en los supuestos en los que el tratamiento comporte un alto riesgo para los derechos y libertades de las personas físicas, especialmente cuando la información esté referida a categorías especiales de datos, menores de edad, víctimas de violencia de género, personas en situación de exclusión social o de vulnerabilidad y supuestos equiparables, y también a aquellos que impliquen riesgos para la seguridad personal.
+f) Se deben aplicar los criterios contenidos en la normativa de protección de datos personales sobre la forma en que se deben identificar las personas interesadas en las notificaciones de anuncios y publicaciones de actos administrativos.
+2. En el portal de transparencia se debe proporcionar información sobre protección de datos en un apartado visible, que debe contener, al menos, la política de protección de datos del portal, los datos de contacto del delegado o delegada de protección de datos de la Generalitat y los procedimientos para el ejercicio de los derechos regulados por la normativa sobre protección de datos, especialmente, el derecho a la supresión de datos o derecho al olvido.
+3. Aquellas personas o entidades que recopilen datos e información publicada en el portal de transparencia, o facilitada en virtud de solicitudes del derecho de acceso a la información pública, son responsables del uso o tratamiento que realicen y responderán de las infracciones de la normativa sobre protección de datos que puedan cometer.
+4. Cuando se publique información en la cual se identifique a personas en virtud de lo establecido en esta ley, no se debe incluir en ningún caso el nombre y apellidos de manera conjunta con el número completo del documento nacional de identidad, número de identidad de extranjero, pasaporte o documento equivalente.
+5. Cuando se solicite información pública que contenga datos de carácter personal, el régimen aplicable es el previsto en la normativa en materia de transparencia y acceso a la información pública, sin perjuicio del régimen previsto en la normativa general de protección de datos.
+En el supuesto de que el órgano o entidad al cual se haya solicitado la información lo estime conveniente por tener dudas razonables sobre la procedencia de facilitar la información por la posible afectación del derecho de protección de datos, puede solicitar un informe al respecto al delegado o delegada de protección de datos, siempre que la entidad disponga de esta figura en virtud de la normativa aplicable.
+6. Lo dispuesto en este artículo es aplicable a los tratamientos y las publicaciones que se realicen en cumplimiento de esta ley.
+Se modifican los apartados 1.e) y 5 por el art. 232 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+## CAPÍTULO II
+
+Publicidad activa
+
+## Sección primera
+
+Sección primera. Normas generales
+
+### Artículo 10
+
+Artículo 10. Obligaciones de publicidad activa de los sujetos obligados.
+1. Los sujetos incluidos en el artículo 3 de esta ley deben publicar, de manera proactiva y en las condiciones que prevé esta ley, los datos e información que sea relevante para garantizar la transparencia de su actividad, con el fin de permitir a la ciudadanía la participación y el control de los asuntos públicos.
+En todo caso, deben publicar, como mínimo, la información recogida en la sección segunda de este capítulo, a excepción de las entidades que se incluyen en el ámbito de la administración local, que se regirán por lo que establece el apartado 2 de este artículo.
+2. Las obligaciones de publicidad activa aplicables a las entidades que forman la administración local de la Comunitat Valenciana son las previstas en los artículos 6, 7 y 8 de la Ley 19/2013, de 9 de diciembre, en la normativa reguladora de los gobiernos locales y en las normas y ordenanzas que ellas mismas aprueben haciendo uso de su autonomía.
+Sin perjuicio de lo dispuesto en el apartado primero de la disposición adicional segunda, los municipios pueden cumplir estas obligaciones de manera asociada o por medio de fórmulas de cooperación con otras administraciones, si por razones de capacidad o eficacia no las pueden cumplir directamente.
+3. Las obligaciones de publicidad activa aplicables a los sujetos obligados de naturaleza privada recogidos en el artículo 4 se tienen que limitar a lo previsto en dicho artículo.
+4. Son aplicables a la publicidad activa los límites al derecho de acceso a la información pública referidos en el artículo 27 y, especialmente, lo que se deriva de la protección de datos de carácter personal. En este sentido, junto con los criterios y obligaciones de protección de datos que prevé el artículo 9 se tiene que atender lo establecido en el apartado 7 del artículo 11.
+5. Las obligaciones de transparencia contenidas en este capítulo tienen carácter de mínimas y generales y se entienden sin perjuicio de la aplicación de otras disposiciones específicas que prevean un régimen más amplio en materia de publicidad. Los sujetos obligados deben fomentar la publicidad de cualquier otra información pública que se considere de interés para la ciudadanía.
+6. Los sujetos incluidos en el artículo 3 deben adaptar las obligaciones de publicidad activa contenidas en este capítulo a sus particularidades organizativas.
+
+### Artículo 11
+
+Artículo 11. Criterios generales de publicación.
+1. La información objeto de publicidad activa será veraz, objetiva y actualizada, y además, se publicará de forma clara, estructurada, comprensible, con formatos reutilizables y fácilmente localizable. A tal efecto, se hará uso de buscadores que faciliten la localización de la información. Esta se acompañará de las descripciones adicionales necesarias para su interpretación (texto, mesas, gráficos o diagramas interactivos) y se elaborarán representaciones gráficas o versiones específicas más sencillas de la información que, por su naturaleza o contenido, resulte más compleja. Además, se prestará especial atención en cuanto a la utilización de lenguaje no sexista ni discriminatorio.
+2. Toda la información se difundirá por medios o en formatos adecuados para que resulten accesibles y comprensibles para garantizar el acceso en condiciones de igualdad y la no discriminación tecnológica, de acuerdo con el principio de accesibilidad y diseño universal. En este sentido, se tendrá en cuenta de manera especial los colectivos de personas con diversidad funcional, en situación de mayor desigualdad o alejados tradicionalmente de las instituciones públicas, y se elaborarán versiones en lectura fácil que faciliten el acceso a la infancia y a la adolescencia. Respecto a la accesibilidad de los sitios web y aplicaciones para dispositivos móviles se atenderá a la normativa básica en la materia.
+3. Se tiene que indicar el órgano que ha generado la información publicada y la fecha de su última actualización. Así mismo, hay que habilitar la posibilidad de acceder a series históricas de información que, habiendo sido objeto de publicidad activa, haya sido sustituida por cambios o actualizaciones. Reglamentariamente hay que establecer la periodicidad de actualización y el tiempo mínimo que hay que mantener publicada la información objeto de publicidad activa.
+4. La información sometida a las obligaciones de publicidad activa se tiene que obtener, cuando sea posible, de los sistemas de información existentes en cada materia, a fin de evitar duplicidades innecesarias en la obtención de la información y favorecer su actualización constante e inmediata. A tal efecto, los centros directivos responsables deben planificar la creación o la adaptación de los sistemas de información para cumplir con las obligaciones de esta ley, y es necesario que apliquen, desde el diseño y por defecto, los principios contenidos en el Reglamento general de protección de datos.
+5. De acuerdo con los principios de transparencia y protección de datos desde el diseño, los sistemas de gestión documental deben disponer de los medios técnicos necesarios que permitan la identificación y el etiquetado de aquellos contenidos informativos sujetos a la aplicación de determinadas limitaciones desde su creación, para que de manera predeterminada queden ocultos o se anonimicen convenientemente y se impida la divulgación involuntaria de estos datos, sin obstaculizar la apertura y la reutilización social del resto de contenidos.
+6. Se tiene que facilitar la indexación de los contenidos informativos objeto de publicidad activa por parte de los buscadores de internet para facilitar su recuperación y localización por la ciudadanía, así como su preservación digital. Así mismo, se tienen que facilitar, en un lugar fácilmente accesible del Portal de Transparencia, procedimientos para que las personas afectadas puedan ejercer sus derechos en materia de protección de datos, especialmente el derecho a la supresión o el derecho al olvido.
+7. Cuando la información objeto de publicidad activa contenga datos personales de categorías especiales o datos relativos a personas menores de edad o en situaciones de especial vulnerabilidad, la publicidad solo se llevará a cabo una vez se hayan anonimizado estos datos de forma que no se pueda identificar a las personas afectadas, sin perjuicio de todo lo previsto en el artículo 9.
+8. En aquellos casos en los cuales esta ley indique la necesidad de identificación de las personas afectadas por la publicidad activa, esta identificación se tiene que realizar de la forma siguiente:
+a) Si se trata de personas físicas, se las debe identificar mediante nombre y apellidos.
+b) Si se trata de personas jurídicas, se las debe identificar con la denominación social.
+9. Los datos que se publican se presentarán, siempre que sea posible, desagregados por sexo cuando se trate de datos estadísticos, encuestas o aquellos que sean relevantes para la visualización del impacto diferenciado de las políticas públicas y los servicios en hombres y en mujeres.
+
+### Artículo 12
+
+Artículo 12. Portal de Transparencia.
+1. En el ámbito de la administración de la Generalitat y de sus organismos autónomos, la publicación de la información detallada en este capítulo se realizará a través del portal de transparencia de la Generalitat. Este portal estará adscrito orgánica y funcionalmente al centro directivo competente en materia de transparencia, y sus requerimientos técnicos y organizativos se desarrollarán reglamentariamente.
+2. Los entes del sector público instrumental de la Generalitat no incluidos en el apartado 1 deben articular mecanismos de colaboración o sindicación de contenidos para cumplir con las previsiones de esta ley.
+3. El resto de entidades comprendidas en el artículo 3 deben garantizar la publicación de la información detallada en este capítulo por medio de sus sedes electrónicas, portales o páginas web, sin perjuicio de las medidas de colaboración interadministrativa que puedan acordar. La administración de la Generalitat tiene que promover la interoperabilidad y el acceso desde el Portal de Transparencia de la Generalitat.
+
+### Artículo 13
+
+Artículo 13. Control.
+1. El cumplimiento de las obligaciones de publicidad activa que regula esta ley por parte de los sujetos recogidos en los artículos 3 y 4 tiene que ser objeto de control por el Consejo Valenciano de Transparencia.
+2. En el ejercicio de esta facultad de control, el Consejo Valenciano de Transparencia puede efectuar, por iniciativa propia o como consecuencia de denuncia, requerimientos para la enmienda de los incumplimientos que puedan producirse de las obligaciones de publicidad activa que establece esta ley.
+En el supuesto de que se constate un incumplimiento, la resolución tiene que incluir una advertencia y tiene que determinar las medidas que se tengan que adoptar para enmendar el incumplimiento y el plazo para llevarlas a cabo, que tiene que ser adecuado a la naturaleza de las medidas y que en ningún caso puede ser inferior a veinte días. La entidad afectada tiene que comunicar las actuaciones realizadas para cumplir el requerimiento.
+3. La desatención de los requerimientos del Consejo Valenciano de Transparencia para el cumplimiento de las obligaciones de publicidad activa puede dar lugar a la exigencia de responsabilidad, de acuerdo con el que prevé el título V de esta ley. El Consejo Valenciano de Transparencia puede instar la incoación del procedimiento sancionador de acuerdo con lo que prevé el apartado 3 del artículo 74 de esta ley.
+
+## Sección segunda
+
+Sección segunda. Información sujeta a publicidad
+
+### Artículo 14
+
+Artículo 14. Información institucional, organizativa y de planificación.
+1. Información institucional y organizativa:
+a) Los sujetos obligados incluidos en el artículo 3 deben publicar:
+1.º La estructura organizativa. A estos efectos, hay que incluir un organigrama actualizado que identifique las personas responsables de los diferentes órganos, las funciones que desarrolla, la sede, la dirección institucional, los distintos medios de contacto y el horario de atención al público.
+2.º Los códigos éticos, de conducta o de buen gobierno aprobados, así como los estándares de buenas prácticas y responsabilidad social que se aplican.
+b) Además, las administraciones públicas del artículo 3.2 deben publicar:
+1.º La relación actualizada de sus entidades del sector público vinculadas o dependientes, con indicación de su organigrama y del régimen jurídico, económico, patrimonial, de recursos humanos y de contratación.
+2.º La relación de los órganos colegiados, con su composición, las normas por las que se regulan, su régimen de organización y funcionamiento y las actas de sus acuerdos.
+c) Además, en el ámbito de la administración de la Generalitat y de su sector público instrumental, hay que publicar:
+1.º Una relación de las competencias y traspasos de funciones y servicios asumidos por la Generalitat.
+2.º Los acuerdos adoptados por el Consell sin perjuicio del carácter secreto de las deliberaciones y votos y, con carácter previo, el orden del día previsto de las sesiones.
+Los acuerdos tienen que poder consultarse como mínimo por título, tipo de acuerdo, área o temática, departamento proponente, legislatura y fecha de aprobación; en las condiciones y con los límites que se establezcan reglamentariamente y de acuerdo con los criterios de coordinación que establezca la Comisión de Secretarías Autonómicas y Subsecretarías para preservar el respecto a los límites aplicables a la publicidad activa.
+3.º Los acuerdos adoptados por los órganos colegiados superiores de gobierno y administración de las entidades del sector público instrumental, a excepción de los órganos de las entidades cuya actividad sea la prestación de servicios financieros en régimen de mercado. Esta información tiene que publicarse previa disociación de los datos de carácter personal y respetando los límites aplicables a la publicidad activa.
+2. Información referente al personal.
+a) Los sujetos obligados incluidos en el artículo 3 deben publicar:
+1.º La plantilla orgánica de plazas, la relación de puestos de trabajo o instrumento análogo de planificación de los recursos humanos y la retribución económica anual, así como información estadística sobre las variaciones ocurridas anualmente en la plantilla.
+2.º Información estadística del personal, que incluirá al menos la edad, el género, así como el porcentaje de las personas con diversidad funcional.
+3.º Los acuerdos o los pactos reguladores de las condiciones de trabajo y convenios colectivos vigentes.
+4.º La relación del personal eventual existente, con indicación exprés de su identificación, las labores de confianza o asesoramiento especial que tiene encomendadas y el órgano para el cual las realiza y su perfil y trayectoria profesional, así como sus retribuciones íntegras anuales e indemnizaciones por razón del servicio.
+5.º Las ofertas de empleo público y la información relativa a todos los procesos de selección y provisión de lugares mediante concurso de méritos, que tiene que incluir las listas que se generen en los procesos mencionados, a fin de permitir a cada aspirante conocer el lugar que ocupa en cada momento.
+6.º Las convocatorias de selección temporal, las bolsas de trabajo temporal y las listas de personas que las integran, a fin de que permitan a cada aspirante conocer el lugar que ocupa en cada momento.
+7.º Las resoluciones de autorización o reconocimiento de compatibilidad que afecten a su personal. Necesariamente, hay que publicar la identificación de la persona, el lugar que ocupa y la actividad autorizada.
+8.º Información estadística desagregada sobre el número –y la distribución por organizaciones y órganos o entidades– de representantes sindicales y unitarios del personal empleado público, detallando el crédito horario anual del que disponen, así como el número de personas que disfrutan de la dispensa total de asistencia al trabajo y la causa, clasificado por cada organización sindical.
+b) (Suprimido)
+3. Información sobre servicios públicos, procedimientos y planificación.
+a) Los sujetos obligados incluidos en el artículo 3 deben publicar:
+1.º La cartera de servicios.
+2.º Las cartas de servicios y el grado de cumplimiento de sus compromisos.
+3.º El procedimiento para la presentación de quejas, sugerencias y, si procede, agradecimientos o felicitaciones, y los informes de evaluación que se realicen.
+4.º Los informes sobre la calidad de los servicios públicos, así como la información disponible que permita su valoración.
+5.º La relación actualizada de los procedimientos administrativos, con indicación de su objeto, los trámites, los plazos, el sentido del silencio administrativo, los recursos que puedan interponerse con relación a las resoluciones que finalizan y los formularios asociados, así como los que están disponibles en formato electrónico y las vías y sedes de los registros en los que puedan presentarse escritos y comunicaciones.
+6.º Los planes y programas anuales y plurianuales en los cuales se fijan los objetivos concretos, las actividades, los medios necesarios para ejecutarlos, el tiempo previsto para su consecución, los órganos responsables de su ejecución y los indicadores que permitan su seguimiento y evaluación. También hay que publicar su grado de cumplimiento y los resultados, que tienen que ser objeto de evaluación y publicación periódica.
+b) Además, en el ámbito de la administración de la Generalitat y de su sector público instrumental, se publicará:
+1.º Información sobre las listas de espera de acceso a los servicios públicos esenciales. En el ámbito de los servicios sociales, especialmente las relativas al tiempo medio de espera para acceder a un servicio de atención residencial.
+2.º Las convocatorias y la adjudicación de plazas en centros educativos públicos y concertados, sin que en ningún caso se puedan identificar a personas menores de edad.
+3.º Las convocatorias y la adjudicación de viviendas sujetas a algún régimen de protección pública y el resultado de estas, sin que en ningún caso se puedan identificar a personas que se encuentren en situaciones de especial vulnerabilidad.
+4.º Información sobre las prestaciones, el impacto, la planificación y la evaluación del Sistema Público Valenciano de Servicios Sociales.
+5.º Los estudios e informes de evaluación de las políticas públicas y de calidad de los servicios públicos, con especial atención a aquellos que tengan más impacto en la ciudadanía.
+6.º Los planes e informes anuales de la Inspección General de Servicios de la Generalitat.
+7.º El plan estratégico o de gobierno que determine su programa de actuación durante la correspondiente legislatura, y el grado de cumplimiento de compromisos.
+8.º El seguimiento del grado de cumplimiento de las resoluciones aprobadas por las Corts Valencianes que afecten al Consell.
+4. En situaciones de emergencia o grave riesgo colectivo, en el ámbito de la administración de la Generalitat y su sector público instrumental hay que publicar el protocolo de actuación y hay que difundir sin demora la información de la que disponga en caso de amenazas inminentes para la salud humana o el medio ambiente, teniendo en cuenta lo que prevé la normativa que regula la gestión de la información en estas situaciones.
+Se modifican los apartados 1, 2 y 3 por el art. 75 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 15
+
+Artículo 15. Información sobre altos cargos y asimilados.
+Los sujetos recogidos en el artículo 3 tienen que publicar, respecto a sus altos cargos, la información que se detalla a continuación:
+1. La información relativa a las funciones atribuidas por razón de su cargo o función, así como su perfil y trayectoria profesional, incluida la reproducción gráfica acreditativa de los principales méritos de su currículo, sin perjuicio de la posibilidad de acreditación por cualquier otro medio que permita tener constancia de su veracidad.
+2. Los obsequios recibidos por razón del cargo, con indicación de su descripción, la persona o la entidad que los realizó, la fecha y el destino que se les ha dado. Así mismo, es necesario que se publiquen los obsequios realizados por razón del cargo, que deben incluir al menos su descripción, la persona que los realizó y la que los recibió, así como la fecha.
+3. Las declaraciones de actividades, bienes, derechos y obligaciones patrimoniales presentadas al nombramiento y al cese, así como sus modificaciones, según lo dispuesto en la normativa reguladora del régimen de incompatibilidades y conflictos de intereses de los altos cargos.
+4. Las resoluciones que determinen la compatibilidad o incompatibilidad se aplicarán, según lo dispuesto en la normativa reguladora del régimen de incompatibilidades y conflictos de intereses de los altos cargos, siempre que hubiera transcurrido el plazo de subsanación de dos meses previsto en los artículos 14.2 y 3 de la Ley 8/2016, de 28 de octubre, de incompatibilidades y conflictos de intereses de personas con cargos públicos no electos.
+5. Los viajes y desplazamientos fuera de la Comunitat Valenciana realizados en el ejercicio de su función, indicando el objeto, el destino, el medio de transporte, la fecha, el número de acompañantes y el coste total detallado, incluyendo dietas y el resto de gastos asociados al viaje del alto cargo.
+6. Las agendas institucionales y de trabajo, que deben contener, al menos, la fecha, la descripción y la ubicación del acto o reunión, teniendo que publicarse con la suficiente antelación. En el supuesto de que no pueda hacerse pública la agenda con carácter previo, la publicidad se tiene que hacer a posteriori, salvo que existan causas justificadas que lo impidan.
+Se excluyen las reuniones de mera coordinación y organización, las de despacho ordinario de los asuntos, las reuniones necesarias para la mera ejecución de contratos o convenios cuando sean con el adjudicatario del contrato o las otras partes del convenio y los actos debidos de carácter administrativo.
+7. Las retribuciones brutas percibidas anualmente, identificando desglosados los conceptos retributivos que perciba, como por ejemplo trienios o indemnización por residencia. Esta información tiene que ir referida al ejercicio corriente y tiene que ser actualizada ante cualquier modificación.
+8. Las indemnizaciones percibidas, si procede, al dejar de ejercer su cargo o por resolución del contrato.
+Se modifica el apartado 1 por el art. 76 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifican los apartados 4 y 6, con efectos desde el 27 de agosto de 2024, por los arts. 8 y 9 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+
+### Artículo 16
+
+Artículo 16. Información de relevancia jurídica.
+1. Las administraciones públicas del artículo 3.2 deben publicar:
+a) La normativa vigente en su ámbito de aplicación, incluyendo la versión consolidada de la norma.
+b) Las directrices, instrucciones, acuerdos, circulares y respuestas a consultas planteadas que tengan incidencia sobre la interpretación y la aplicación de las normas.
+c) Los informes de evaluación de la normativa vigente.
+d) El plan anual normativo.
+e) La relación actualizada de los proyectos normativos que estén en proceso de elaboración, con indicación del objeto, los trámites exigibles y el estado de estos, así como los procedimientos de participación ciudadana previstos.
+f) El resultado de las consultas y audiencias públicas planteadas durante la elaboración de normas, incluyendo la valoración de las alegaciones formuladas.
+g) Los textos de los anteproyectos de ley, proyectos de decretos legislativos y proyectos de reglamento que se encuentren en fase de tramitación, cuando se soliciten los informes y dictámenes preceptivos a los órganos consultivos correspondientes. En el caso en que no sea preceptivo informe o dictamen la publicación se realizará en el momento de su aprobación.
+h) Las memorias, informes y dictámenes que conforman el expediente de elaboración de las normas que han sido aprobadas, una vez finalizada la tramitación del proyecto normativo.
+i) Los documentos que se sometan a consulta pública o en un periodo de información pública durante su tramitación, así como las alegaciones que se realicen durante este trámite y el informe de valoración de las alegaciones formuladas.
+j) Las resoluciones administrativas y judiciales que puedan tener relevancia pública y las resoluciones judiciales definitivas que afecten a los sujetos del artículo 3, por razón del ejercicio de las funciones y las responsabilidades que tengan atribuidas.
+k) El inventario de actividades de tratamiento en aplicación del artículo 31 de la Ley orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales.
+l) La relación de sistemas de inteligencia artificial de alto riesgo de acuerdo con el reglamento de inteligencia artificial que desarrollen o implanten. Asimismo, se incluirá la relación de sistemas automatizados y sistemas de inteligencia artificial de uso general cuyo empleo impacte de manera significativa en los procedimientos administrativos o la prestación de los servicios públicos. Sin perjuicio de su desarrollo reglamentario, y de acuerdo con los principios de transparencia y explicabilidad, la información a facilitar incluirá la descripción, en un lenguaje claro y sencillo, del diseño, funcionamiento y lógica del sistema, su finalidad, su incidencia en las decisiones públicas, el nivel de riesgo que implica, la importancia y consecuencias previstas para la ciudadanía, el punto de contacto al que poder dirigirse, y en su caso, el órgano u órganos competentes a efectos de impugnación. Asimismo, se informará de los criterios generales de impacto y riesgo adoptados para delimitar los sistemas a los que se debe dar publicidad.
+En los supuestos de las letras g) y h), el momento de publicación debe entenderse determinado sin perjuicio del cumplimiento de las obligaciones establecidas por los artículos 14 a 16 de la Ley 4/2023, de 13 de abril, de Participación Ciudadana y Fomento del Asociacionismo de la Comunitat Valenciana.
+2. Además, la Administración de la Generalitat y su sector público instrumental tienen que publicar la información siguiente, adaptada a sus particularidades organizativas:
+a) Aquellos informes jurídicos facultativos de la Abogacía General de la Generalitat que den respuesta a consultas planteadas, en la medida que suponen una interpretación del derecho, es decir, que tengan incidencia sobre la interpretación y la aplicación de las normas. Cada informe jurídico formulado por la Abogacía deberá indicar si tiene o no incidencia sobre la interpretación y aplicación de las normas y por tanto si debe o no ser objeto de publicidad activa.
+b) El informe de participación de los grupos de interés en los procesos de elaboración de normas, cuando exista, a fin de determinar su huella normativa, de acuerdo con lo dispuesto en la normativa que regula la actividad de los grupos de interés.
+Se modifican las letras g) y h) y se añade un párrafo al final del apartado 1 por el art. 77 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifican la letra l) del apartado 1 y la letra a) del apartado 2 por el art. 63.1 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-5
+ Se modifica el apartado 1.h), con efectos desde el 27 de agosto de 2024, por el art. 15 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+ Se modifican la letra l) del apartado 1 y la letra a) del apartado 2 por el art. 63.1 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 17
+
+Artículo 17. Información de carácter presupuestario, financiero y contable.
+1. Los sujetos mencionados en el artículo 3 deben publicar la información siguiente adaptada a sus particularidades organizativas:
+a) Los presupuestos, con descripción de las principales partidas presupuestarias.
+b) Las cuentas anuales que deben rendirse y los informes de auditoría de cuentas y de fiscalización que emiten sobre ellos los órganos de control.
+c) Información sobre el cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera.
+d) Los créditos extraordinarios, suplementos de crédito y otras modificaciones presupuestarias.
+e) Información sobre el estado y el grado de ejecución de los presupuestos al mismo nivel de detalle que estos, a efectos de posibilitar la evaluación de su adecuación.
+f) Los gastos de personal y su porcentaje sobre el gasto total. Dentro de estos hay que especificar las relativas a altos cargos y asimilados, al personal directivo, al personal eventual, y las correspondientes a liberados sindicales, expresando en todos los casos su porcentaje sobre el gasto de personal y sobre el gasto total.
+g) El plazo medio de pago a personas o entidades beneficiarias de ayudas y subvenciones y a proveedores.
+h) Información sobre los fondos de caja fija. Hay que publicar los gastos de caja fija desagregados por centros directivos, con indicación en cada registro del concepto económico: descripción del tipo del gasto, el tercero perceptor, y la fecha y el importe de la factura o dieta, sin perjuicio del cumplimiento de la normativa aplicable en materia de protección de datos de carácter personal en cuanto a los datos de personas físicas. Esta información se tiene que actualizar, como mínimo, mensualmente.
+2. Además, la administración de la Generalitat tiene que publicar la información siguiente:
+a) Los programas anuales de actuación, inversiones y financiación de las empresas que formen parte del sector público instrumental.
+b) El Proyecto de ley de presupuestos de la Generalitat y la documentación complementaria que el Consell tiene que remitir a las Corts Valencianes junto con el proyecto, de acuerdo con la normativa que regule la elaboración de los presupuestos de la Generalitat.
+c) La Ley de presupuestos de la Generalitat.
+d) El límite de gasto no financiero aprobado para el ejercicio.
+e) La información básica sobre la financiación de la Comunitat Valenciana, con indicación de los diferentes instrumentos de financiación, incluyendo, si procede, los mecanismos de apoyo en la liquidez.
+f) Un resumen anual de los ingresos de la Generalitat efectivamente liquidados por clasificación económica, junto con una serie histórica que permita estudiar su evolución.
+g) La proporción que representa el déficit/superávit público sobre el producto interior bruto (PIB) de la Comunitat Valenciana.
+h) Información tributaria en función de cada tributo.
+i) Los ingresos fiscales por habitante.
+j) Información sobre los beneficios fiscales otorgados o reconocidos por la Generalitat.
+k) Los gastos en las distintas políticas públicas y su porcentaje sobre el gasto total.
+l) El gasto por habitante en la Comunitat Valenciana.
+m) La inversión realizada por habitante en la Comunitat Valenciana.
+n) El plan anual de disposición de fondos.
+o) Las cantidades asignadas anualmente a las entidades locales.
+3. En cumplimiento de lo dispuesto en el artículo 3 de la Ley 5/2016, de 6 de mayo, de cuentas abiertas para la Generalitat Valenciana, hay que publicar la información sobre las cuentas bancarias de las entidades obligadas por dicha ley, en los términos que esta establece.
+Se modifica la letra h) del apartado 1 por el art. 78 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 18
+
+Artículo 18. Información sobre endeudamiento.
+Las administraciones públicas y su sector público instrumental deben publicar la información siguiente:
+1. La deuda pública de la administración, con indicación de su evolución y el endeudamiento relativo por habitante, respecto al PIB y respecto al presupuesto de ingresos.
+2. El grado de cumplimiento de los objetivos de déficit y los planes para su cumplimiento.
+3. El índice de solvencia a corto y largo plazo.
+4. Las operaciones de préstamo, crédito y emisiones de deuda pública en todas sus modalidades realizadas.
+5. Los avales y garantías prestadas en cualquier clase de crédito.
+6. Las operaciones de arrendamiento financiero.
+
+### Artículo 19
+
+Artículo 19. Información patrimonial.
+1. Los sujetos obligados del artículo 3 deben publicar la siguiente información:
+a) El inventario de bienes y derechos, que al menos tiene que incluir información relativa a bienes inmuebles y a bienes muebles de valor histórico artístico o de alto valor económico, a los derechos reales sobre estos, y a los derechos de arrendamiento y cualesquiera otros de carácter personal en virtud de los cuales se atribuya el uso o el disfrute de inmuebles ajenos, así como las subastas que convoquen. Se deben exceptuar los bienes sobre los cuales las entidades tengan algún derecho real constituido en favor suyo en garantía de la financiación concedida en el ejercicio de actividad crediticia.
+Esta información es necesario que comprenda, respecto a los bienes inmuebles, como mínimo, la identificación de titular de los derechos, la localización del bien y su superficie y referencia catastral, y la afectación en el caso de los bienes de dominio público.
+b) El gasto efectuado en concepto de arrendamiento de bienes inmuebles.
+2. Además, la administración de la Generalitat tiene que publicar la información siguiente:
+a) La relación de los bienes inmuebles que estén ocupados por las dependencias de sus órganos o servicios; la relación de los inmuebles cuyo uso o explotación esté cedido, adjudicado, arrendado, autorizado o concedido a terceros, con indicación de la finalidad o destino de este, y la relación de bienes inmuebles en los cuales tenga la condición de parte arrendataria, con indicación del destino o uso al que están siendo dedicados.
+b) El número de vehículos oficiales de los cuales se tenga la titularidad y de los arrendados, con indicación de la clasificación, la adscripción, el destino y el año de compra o arrendamiento.
+
+### Artículo 20
+
+Artículo 20. Información sobre contratación pública.
+1. Sin perjuicio de lo dispuesto en la normativa reguladora de los contratos del sector público, los sujetos comprendidos en el artículo 3 publicarán la información relativa a los contratos que se cita a continuación:
+a) Objeto, tipo de contrato y órgano de contratación.
+b) Fecha de formalización, si procede.
+c) Fecha de inicio de ejecución.
+d) Duración del contrato.
+e) Procedimiento de adjudicación utilizado para su formalización.
+f) Presupuesto base de licitación e importe de adjudicación.
+g) Instrumentos a través de los cuales se ha publicitado, si procede.
+h) Número de licitadores participantes en el procedimiento y denominación de las empresas licitadoras.
+i) Identidad del adjudicatario y su solvencia económica y financiera, y técnica o profesional, o, en su caso, clasificación, respetando en todo caso el deber de confidencialidad previsto en la legislación de contratos del sector público y los principios de protección de datos. Así mismo, se publicará información sobre su titularidad real, entendida según la definición que establece la normativa en materia de prevención del blanqueo de capitales, en las condiciones que permita la normativa que regula el registro de titularidades reales.
+j) Las prórrogas de los contratos, los supuestos de resolución del contrato o declaración de nulidad, los casos de posibles revisiones de precios y cesión de contratos y las modificaciones, dejaciones y renuncias por parte del adjudicatario. En los casos de revisión de precios hay que indicar la desviación del coste final de la prestación contratada en relación con el importe adjudicado.
+k) En su caso, información relativa a la subcontratación, indicando como mínimo las obligaciones que se recogen en la normativa estatal básica en materia de transparencia y contratación pública.
+l) Las penalidades impuestas por incumplimiento de los contratistas.
+m) Si procede, los acuerdos y criterios interpretativos de los órganos consultivos en materia de contratación, con relación en el contrato objeto de publicidad.
+n) La información sobre preguntas frecuentes y aclaraciones relativas al contenido de los contratos.
+o) Criterios de adjudicación previstos en los pliegos de cláusulas administrativas particulares o documento descriptivo, tanto los criterios cuantificables por medio de la mera aplicación de fórmulas como los criterios la cuantificación de los cuales dependa de un juicio de valor.
+p) Informe de valoración de las ofertas, así como las actas de la mesa de contratación relativas al procedimiento de adjudicación.
+q) Si procede, las decisiones de dejación y las decisiones de no adjudicación o celebración de los contratos, por parte del órgano de contratación.
+r) Información relativa a los contratos menores. La publicación de esta información se realizará, al menos, trimestralmente, e incluirá como mínimo el objeto, la duración, el presupuesto base de licitación y el importe de adjudicación, el número e identidad de los licitadores participantes, la identidad del adjudicatario y el porcentaje que representan respecto de la totalidad de los contratos adjudicados, incluidas las diferentes ofertas que se realizaron.
+s) Información estadística sobre el número y el porcentaje, en volumen presupuestario, de contratos adjudicados por cada uno de los procedimientos previstos en la legislación de contratos del sector público, de forma que puedan conocerse los porcentajes que se contraten en cada modalidad contractual y los recibos por cada una de las empresas que contrata con el sector público anualmente.
+t) Información relativa a la inclusión de cláusulas de responsabilidad social.
+2. Con la información contenida en el apartado 1 hay que crear una base de datos de consulta pública y la información obtenida en la investigación se debe poder descargar en formato reutilizable.
+3. La exigencia de transparencia contenida en este artículo quedará expresamente incluida en los pliegos de cláusulas administrativas particulares.
+4. La exigencia de transparencia contenida en este artículo tiene que quedar expresamente incluida en los pliegos de cláusulas administrativas particulares.
+Se modifican los apartados 1 y 3 por el art. 79 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 21
+
+Artículo 21. Información relativa a convenios de colaboración, encomiendas de gestión, encargos de ejecución a medios propios y acción concertada.
+1. Los sujetos comprendidos en el artículo 3 tienen que publicar información sobre todos los convenios de colaboración y los contratos-programa subscritos, contengan o no obligaciones económicas para las partes, concretamente:
+a) Los convenios subscritos y su texto íntegro, así como el informe de necesidad correspondiente en el que se justifique la utilización de esta figura. Cuando no sea posible publicarlos íntegramente por razones de confidencialidad, hay que indicar como mínimo su objeto, las partes firmantes, la duración, las obligaciones –económicas o de cualquier índole–, y sus modificaciones y adendas si hubiera. Además, se debe publicar una memoria sucinta sobre las actividades realizadas en el marco del convenio, así como su ejecución presupuestaria.
+b) El texto íntegro de los contratos-programa subscritos entre los entes y los departamentos de la administración a los cuales estén adscritos, así como los informes periódicos de evaluación de cumplimiento de objetivos.
+2. Las administraciones públicas y su sector público instrumental deben publicar el texto íntegro de las encomiendas de gestión y encargos a medios propios.
+En los encargos a medios propios anualmente se indicará el porcentaje de la actividad realizada por el medio propio a favor de los entes de control. Así mismo, se tienen que indicar los motivos que justifiquen que no se prestan los servicios con los medios personales con los que cuenta el órgano o entidad que encarga y, si procede, las razones que acrediten que no se haya licitado la contratación del servicio de conformidad con lo previsto en la legislación de contratos del sector público.
+3. En los convenios, encomiendas de gestión y encargos a medios propios se indicará aquellas cláusulas que contengan información de carácter confidencial y las razones que lo justifiquen, de acuerdo con lo dispuesto en la normativa sectorial que les sea aplicable, estando sometidas a publicidad activa aquellas partes no confidenciales, así como sus modificaciones y adendas, si las hubiera.
+4. La Administración de la Generalitat tiene que publicar información sobre la acción concertada con entidades de iniciativa social para la prestación de servicios sociales. En concreto, deberán publicarse la convocatoria de los acuerdos de acción concertada y resolución de concesión, los conciertos sociales con cada entidad, así como las prórrogas, ampliaciones y minoraciones, revisiones y modificaciones.
+Se modifican el título, los apartados 2, 3 y 4 por el art. 63.2 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-5
+ Se modifican el título, los apartados 2 y 3 y se añade el 4 por el art. 63.2 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 22
+
+Artículo 22. Información sobre publicidad y promoción institucional.
+Los sujetos comprendidos en el artículo 3 deben publicar información relativa a todas las campañas de publicidad y de promoción institucional y su coste, especificando el órgano que inicie el expediente, los medios de comunicación empleados, el importe destinado a cada medio, los criterios utilizados para realizar su distribución entre estos, el coste de los diferentes conceptos y la modalidad y el periodo de ejecución. Esta información se tiene que actualizar al menos una vez en el año.
+
+### Artículo 23
+
+Artículo 23. Información sobre subvenciones.
+1. Las entidades incluidas en el artículo 3 tienen que publicar información relativa a las subvenciones y ayudas públicas. En ella se deben respetar los límites establecidos por la normativa reguladora de protección de datos de carácter personal y por el resto de normativa vigente. La información que hay que publicar sobre las subvenciones y ayudas públicas debe incluir, como mínimo:
+a) El plan estratégico de subvenciones, que tiene que concretar los objetivos y los efectos de utilidad pública o social que se pretenden conseguir con la aplicación de cada subvención, el plazo necesario para su consecución, los costes totales previsibles y las fuentes de financiación.
+b) El texto íntegro de las convocatorias de ayudas y subvenciones.
+c) Su importe y su objeto o finalidad.
+d) Las personas o las entidades beneficiarias.
+e) Información por concedente, siguiendo la distribución orgánica por secciones y entes del sector público instrumental a ellos adscritos. Cuando sea posible hay que descender a escala de programa presupuestario.
+f) El procedimiento de gestión y justificación de la subvención, en cuanto al plazo de ejecución, pagos anticipados o por anticipado, importe justificado, cuantías pagadas, resoluciones de reintegro y sanciones impuestas.
+g) Las subvenciones concedidas sin promover la concurrencia.
+h) Información estadística sobre el importe global y el porcentaje en volumen presupuestario de las subvenciones concedidas de forma directa y de las concedidas previa convocatoria pública.
+i) El gasto total efectuado en concepto de ayudas o subvenciones para familias y personas especialmente vulnerables, como por ejemplo las relativas a la atención a la dependencia, acción social y cooperación, personas mayores, menores y personas con diversidad funcional.
+2. Las ayudas concedidas con cargo a fondo de la Unión Europea se tienen que regular por la normativa de publicidad específica de cada fondo. Sin perjuicio del cumplimiento de las obligaciones de publicidad activa que establecen la normativa estatal básica y esta ley.
+Se modifica el apartado 2 por el art. 80 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 24
+
+Artículo 24. Información relativa a ordenación del territorio, urbanismo y medio ambiente.
+La administración de la Generalitat tiene que difundir, garantizando a la ciudadanía su consulta, la información siguiente:
+a) Información relativa a los instrumentos de ordenación del territorio y los planes urbanísticos. Sin perjuicio de lo dispuesto en la normativa sectorial, esta información tiene que incluir, como mínimo, lo siguiente:
+1.º La estructura general de cada municipio.
+2.º La clasificación y calificación del suelo.
+3.º El texto completo y la planimetría de los instrumentos de ordenación del territorio.
+4.º Las modificaciones y revisiones aprobadas.
+5.º Las infraestructuras planeadas para cada localidad.
+6.º Los convenios urbanísticos que se subscriban, con indicación de los terrenos afectados, las personas titulares, el objeto del convenio y las contraprestaciones que se establezcan.
+b) La información medioambiental que tiene que hacerse pública de acuerdo con la normativa vigente. Se tiene que incluir información sobre calidad de las aguas y del aire, sobre emisiones de gases invernadero y el grado de cumplimiento de los compromisos públicos adquiridos sobre su reducción y sobre la recuperación de las zonas que hayan sufrido incendios forestales o cualquier otro tipo de catástrofe medioambiental, así como las resoluciones de derecho de acceso a la información medioambiental, para lo cual hay que poder usar adicionalmente el Portal de Transparencia de la Generalitat.
+
+### Artículo 25
+
+Artículo 25. Información sobre estudios, estadísticas y cartografía.
+1. Los sujetos obligados del artículo 3 publicarán la siguiente información:
+a) La información actualizada sobre encuestas y estudios sociológicos y de opinión, tanto los barómetros de opinión como los estudios y encuestas de carácter sectorial que se realicen.
+La información se publicará en el plazo máximo de dos meses desde la recepción de los resultados definitivos. Incluirá los modelos utilizados, las fichas técnicas y metodológicas, los resultados completos y los microdatos. Además se indicará la empresa o entidad adjudicataria, la modalidad de adjudicación del contrato y el coste de elaboración.
+b) Los informes, estudios o dictámenes que se hayan contratado o encargado a terceros, sin perjuicio de la aplicación de los límites al derecho de acceso a la información pública, en su caso.
+2. Además, las administraciones públicas del artículo 3.2 deben publicar la siguiente información:
+a) La información económica y estadística que esté en su poder y cuya difusión sea relevante. Esta información se tiene que publicar de manera periódica, en formato reutilizable y facilitando las fuentes, las notas metodológicas y los modelos utilizados.
+b) La información geográfica y cartográfica (datos geolocalizados, bases cartográficas, imágenes de satélite, vuelos fotogramétricos, macrodatos geográficos, etc.) que esté en su poder y cuya difusión sea relevante, facilitando las fuentes, las notas metodológicas, los metadatos y los modelos empleados a través de la Infraestructura Valenciana de Datos Espaciales y el resto de servicios cartográficos del Institut Cartogràfic Valencià.
+
+### Artículo 26
+
+Artículo 26. Información solicitada por la ciudadanía.
+En el ámbito de la administración de la Generalitat y su sector público instrumental, se tiene que publicar:
+1. Las resoluciones de derecho de acceso a la información pública.
+2. Información estadística sobre el derecho de acceso a la información pública, con indicación del número de solicitudes recibidas y el sentido de la resolución.
+3. La información solicitada con mayor frecuencia al amparo de derecho de acceso a la información pública.
+4. Los datos estadísticos sobre la información más solicitada en los canales de atención a la ciudadanía e información estadística sobre estos.
+5. Los datos estadísticos sobre la información más consultada en el Portal de Transparencia de la Generalitat.
+6. Cualquier otra información pública que se considere de interés para la ciudadanía.
+
+## CAPÍTULO III
+
+Derecho de acceso a la información pública
+
+## Sección primera
+
+Sección primera. Normas generales
+
+### Artículo 27
+
+Artículo 27. Derecho de acceso a la información pública.
+1. Cualquier ciudadano o ciudadana, a título individual o en representación de cualquier organización constituida legalmente, tiene derecho de acceso a la información pública, mediante solicitud previa y sin más limitaciones que las establecidas en la ley. Para el ejercicio de este derecho no será necesario motivar la solicitud ni invocar la ley.
+2. El derecho de acceso a la información pública se entenderá sin perjuicio de otros derechos o procedimientos. Así, no tendrán esta consideración otro tipo de comunicaciones con la administración como el derecho de petición, las consultas de información general por los canales de atención a la ciudadanía, las quejas y sugerencias, los derechos regulados en la normativa sobre protección de datos. En estos casos, se derivará la solicitud al procedimiento o canal específico correspondiente, lo que se comunicará a la persona solicitante.
+3. Para las materias en que haya un régimen específico de acceso a la información, se aplicará lo previsto en disposición adicional primera de esta ley.
+
+### Artículo 28
+
+Artículo 28. Límites al derecho de acceso a la información pública.
+1. El régimen sobre los límites de acceso a la información pública es el establecido en el artículo 14 de la Ley 19/2013, de 9 de diciembre.
+2. La aplicación de los límites al derecho de acceso a la información pública será proporcional a su objeto y finalidad según las circunstancias de cada caso concreto y se interpretará siempre de manera restrictiva en beneficio del derecho de acceso.
+Cuando la información solicitada contenga datos de carácter personal, se atenderá a lo establecido en el artículo 9.
+3. Los límites del derecho de acceso son temporales si así lo establece la ley que los regula y se mantienen únicamente mientras perduren los motivos que justifiquen su aplicación.
+La persona solicitante podrá iniciar un nuevo procedimiento de acceso a la información pública siempre que desaparezca la causa que justificó la aplicación de la excepción del derecho de acceso y la denegación de información consiguiente.
+4. En todo caso, tendrán que motivarse, con indicación explícita del límite que se aplica, las resoluciones que deniegan o limitan el derecho de acceso.
+
+### Artículo 29
+
+Artículo 29. Acceso parcial.
+Si la información solicitada está afectada parcialmente por alguna de las limitaciones a las que se refiere el artículo anterior, se facilitará, siempre que sea posible, el acceso parcial, omitiendo la parte afectada por la limitación, salvo que de ello resulte una información distorsionada, equívoca o sin sentido. En este caso, se indicará al solicitante qué parte de la información ha sido omitida.
+
+## Sección segunda
+
+Sección segunda. Procedimiento para el ejercicio del derecho de acceso a la información pública
+
+### Artículo 30
+
+Artículo 30. Procedimiento para el acceso a la información pública.
+1. El procedimiento para el ejercicio del derecho de acceso a la información pública tiene carácter de especial. Se rige por lo dispuesto en esta ley y, supletoriamente, por la normativa que regula el procedimiento administrativo común de las administraciones públicas.
+2. Con el fin de garantizar y facilitar el ejercicio del derecho de acceso a la información pública, deberán omitirse todas aquellas exigencias y requisitos que puedan obstruirlo o impedirlo, sobre todo en cuanto a la identificación y firma de las personas interesadas en el procedimiento.
+
+### Artículo 31
+
+Artículo 31. Solicitud de acceso a la información pública.
+1. El procedimiento para el ejercicio del derecho de acceso se inicia con la presentación de la solicitud correspondiente, que se debe formular preferentemente por vía electrónica a través del portal de transparencia o la sede electrónica correspondiente, sin perjuicio de que pueda presentarse por cualquier medio que permita tener constancia del contenido que incluye el apartado 3 de este artículo.
+2. La solicitud se dirigirá al departamento del Consell o entidad correspondiente que posea la información solicitada. Cuando se trate de información que se encuentre en poder de personas físicas o jurídicas que prestan servicios públicos o ejerzan potestades administrativas, la solicitud se dirigirá a la administración, organismo o entidad que prevé el artículo 3.1 a las cuales se encuentran vinculadas.
+3. La solicitud debe incluir el siguiente contenido:
+a) La identidad de la persona solicitante. En el supuesto de que la tramitación sea por vía telemática, la identificación se realizará sin que sea necesaria la acreditación mediante certificación electrónica, siempre que se garantice suficientemente la identidad de la persona solicitante y sin que ello excluya los sistemas de firma electrónica admitidos en la sede de la Generalitat.
+b) La información a la cual se solicita el acceso. En todo caso, se debe incluir una descripción adecuada de la información solicitada, sin que sea obligatorio exponer los motivos por los que se solicita la información. Sin embargo, en caso de hacerlo, la motivación será tenida en cuenta para ponderar el acceso y dictar la resolución correspondiente.
+c) La dirección de contacto, preferentemente electrónica, a efectos de comunicaciones.
+d) La modalidad o vía elegida por la persona solicitante para la puesta a disposición de la información y también su formato.
+e) El órgano administrativo o entidad al que se dirige.
+4. Sin perjuicio de los datos contenidos en la solicitud, se podrá pedir a quien la presente determinada información adicional para fines exclusivamente estadísticos.
+Se modifica el apartado 1 por el art. 232 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 32
+
+Artículo 32. Causas de inadmisión.
+El régimen sobre las causas de inadmisión de las solicitudes de acceso a la información pública se define en el artículo 18 de la Ley 19/2013, de 9 de diciembre. Reglamentariamente se establecerán los criterios para delimitar cada uno de los supuestos de inadmisión.
+
+### Artículo 33
+
+Artículo 33. Tramitación.
+1. Si la solicitud se refiere a información que no está en poder de la administración o entidad a la cual se dirige, esta lo enviará en el plazo de diez días hábiles a la competente, si sabe quién es, e informará de esta circunstancia a la persona solicitante.
+2. Cuando la información estuviera en poder del órgano al cual se ha dirigido la solicitud, pero no haya sido elaborada íntegramente por este, o cuando además de estar en su poder estuviera también en poder de otro u otros órganos administrativos, el órgano que ha recibido la solicitud informará de esta circunstancia a la persona solicitante y dará traslado a aquellos órganos para que decidan sobre el acceso en la parte que los corresponda. En todo caso, habrá una única resolución que decidirá conjuntamente sobre el derecho de acceso.
+3. Si la solicitud se refiere a información que no estuviera en poder de la administración pero que sí debería estarlo, se informará a la persona solicitante de la causa de su inexistencia o, en su caso, de las acciones realizadas para localizarla, sin perjuicio de las responsabilidades que se deriven.
+4. Si la solicitud se refiere a información que no está en poder de la administración por no ser información pública, se acordará el archivo de las actuaciones mediante una resolución motivada, que será notificada a la persona interesada.
+5. Si la solicitud estuviera formulada de manera imprecisa o confusa, de forma genérica o si no cumpliera los requisitos establecidos en el apartado 3 del artículo 31, se requerirá a la persona solicitante para que, en el plazo de diez días hábiles, concrete la solicitud o enmiende las deficiencias, con indicación de que se suspende el plazo para resolver. Transcurrido este plazo sin atender el requerimiento, se considerará que desiste de la solicitud.
+6. Si las solicitudes se refieren a información que afectara los derechos o intereses de terceras personas, debidamente identificadas, el órgano competente lo pondrá en conocimiento de las personas afectadas para que, en su caso, en el plazo de quince días hábiles presenten las alegaciones que estimen pertinentes. La persona solicitante será informada de esta circunstancia y también de la suspensión del plazo para resolver. No se deberá conceder la audiencia cuando, después de la disociación de los datos de carácter personal, sea posible poner a disposición la información sin vulnerar los derechos fundamentales de terceras personas.
+7. De acuerdo con el principio de simplificación administrativa, las notificaciones dirigidas a la persona solicitante de la información podrán acumularse en un solo acto cuando lo permita el cumplimiento de los plazos.
+Se modifica el apartado 7 por el art. 63.3 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-5
+ Se añade el apartado 7 por el art. 63.3 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 34
+
+Artículo 34. Resolución.
+1. Las solicitudes de acceso a la información pública se resolverán y notificarán a la persona solicitante, y a las terceras personas afectadas, con la mayor brevedad posible y, en todo caso, en el plazo máximo de un mes a contar desde que la solicitud haya tenido entrada en el registro de la administración u organismo competente.
+2. En el supuesto de que el volumen o la complejidad de la información solicitada lo requiera, el plazo para resolver se podrá prorrogar por un mes más, mediante una resolución motivada que será notificada a la persona solicitante y a las terceras personas afectadas, si hubiera.
+3. Después de transcurrido el plazo máximo para resolver sin que se haya dictado y notificado ninguna resolución, la solicitud se considerará desestimada a los efectos de recurso o reclamación.
+4. Serán motivadas las resoluciones que denieguen el acceso, las que concedan el acceso parcial o a través de una modalidad diferente a la solicitada y las que permitan el acceso cuando haya habido oposición de un tercero.
+En la ponderación se tendrá que tener en cuenta de manera especial si la persona solicitante tiene importancia singular en el control social de la acción pública, si la información que solicita puede tener relevancia e interés público o cuál será el tratamiento de la información que tenga previsto y su conexión con intereses que no sean únicamente particulares.
+En el supuesto de que la negativa a facilitar la información esté fundada en la existencia de derechos de propiedad intelectual o industrial de terceras personas, se habrá de incluir en la resolución que se dicte la referencia a la persona física o jurídica titular de los derechos cuando esta sea conocida o, alternativamente, la referencia a la persona cedente de la cual se haya obtenido la información solicitada.
+5. Reglamentariamente se podrá regular un procedimiento simplificado para facilitar el acceso a la información cuando la solicitud sea estimatoria, no afecte terceras personas ni sea de aplicación ningún límite al acceso.
+6. Las resoluciones dictadas ponen fin a la vía administrativa y contra ellas se puede recurrir directamente ante la jurisdicción contencioso-administrativa. Sin embargo, con carácter potestativo y previo a su impugnación en la vía contenciosa administrativa, podrá presentarse una reclamación ante el Consejo Valenciano de Transparencia en los términos establecidos en el artículo 38.
+Se modifica el apartado 1 por el art. 81 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 35
+
+Artículo 35. Órganos competentes para la resolución del procedimiento de solicitud de acceso a la información pública.
+1. En el ámbito de la Administración de la Generalitat son competentes para la resolución del procedimiento las personas titulares de los órganos superiores y directivos responsables funcionales de la información solicitada o aquellos en los que deleguen.
+2. En las organizaciones comprendidas en el artículo 3.1.b son competentes los órganos que determinen los estatutos o normas de funcionamiento; en su defecto, sería competente el órgano máximo con funciones ejecutivas.
+3. El resto de instituciones y organizaciones establecidas en el artículo 3.1 establecerán esta competencia en sus normas de funcionamiento; en su defecto, recaerá sobre sus máximos órganos de gobierno.
+Se modifica el apartado 1 por el art. 63.4 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-5
+ Se modifica el apartado 1 por el art. 63.4 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 36
+
+Artículo 36. Formalización del acceso a la información.
+El régimen sobre la formalización del acceso a la información es el previsto en el artículo 22 de la Ley 19/2013, de 9 de diciembre, sin perjuicio de lo establecido en la normativa de desarrollo de esta ley.
+Será gratuita la puesta a disposición de la información por medios electrónicos o por comparecencia en la sede del órgano administrativo que la custodie. Sin embargo, la expedición de copias o la transformación de la información a un formato diferente del original podrá dar lugar a la exigencia de exacciones, de acuerdo con la normativa vigente en materia de tasas de la Generalitat.
+
+### Artículo 37
+
+Artículo 37. Asistencia y colaboración.
+1. Los sujetos incluidos en el ámbito de aplicación de esta ley deberán incluir entre sus procedimientos telemáticos los relativos a las solicitudes de información pública. Así mismo, para facilitar que ejerzan el derecho de acceso las personas que lo deseen, pondrán a disposición de la ciudadanía, mediante las guías de procedimientos y servicios o instrumentos análogos, la orientación necesaria para localizar la información que soliciten y los mecanismos, trámites, plazos u órganos competentes, y también las tasas o precios públicos aplicables, en su caso.
+2. El personal al servicio de estas entidades estará obligado a ayudar e informar a las personas que lo requieran sobre la forma y el lugar en el que pueden presentar las solicitudes de acceso a la información, independientemente del medio utilizado para ello.
+3. En el cumplimiento de los deberes establecidos en este artículo habrá que ajustarse especialmente a las necesidades singulares de colectivos como la infancia y adolescencia, las personas con diversidad funcional o personas con circunstancias personales que les dificulten el acceso a la información disponible en las administraciones públicas o a los medios electrónicos.
+
+## CAPÍTULO IV
+
+Régimen de impugnaciones
+
+### Artículo 38
+
+Artículo 38. Procedimiento ordinario de reclamaciones.
+1. Ante las resoluciones, expresas o presuntas, de las solicitudes de acceso a la información, las personas interesadas podrán presentar ante el Consejo Valenciano de Transparencia, con carácter potestativo y antes de su impugnación ante la jurisdicción contencioso-administrativa, una reclamación en un procedimiento ordinario con resolución o, en su caso, solicitar el inicio de un procedimiento de mediación en las reclamaciones de derecho de acceso a la información pública.
+2. Esta reclamación se regirá por lo establecido en la Ley 19/2013, de 9 de diciembre, y esta misma ley. La reclamación se presentará en el plazo de un mes a contar desde el día siguiente de la notificación del acto objeto de la reclamación o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo.
+El plazo máximo para resolver y notificar la resolución será de tres meses desde la recepción de la reclamación. Transcurrido dicho plazo, la persona solicitante podrá considerar desestimada su reclamación a efectos de recurso.
+3. Esta reclamación tendrá carácter sustitutivo de los recursos administrativos, de acuerdo con lo establecido en el artículo 112.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas.
+4. Contra las resoluciones dictadas por las instituciones y órganos que describe el artículo 3.1.c de esta ley, de acuerdo con el apartado primero de la disposición adicional cuarta de la Ley 19/2013, de 9 diciembre, solo procederá la interposición del recurso contencioso-administrativo, sin perjuicio del sistema de garantías propio que se establezca en el seno de cada institución de acuerdo con lo previsto en el apartado quinto de la disposición adicional cuarta de esta ley.
+5. Las resoluciones de las reclamaciones adoptadas por el Consejo Valenciano de Transparencia se publicarán en el portal del Consejo Valenciano de Transparencia, una vez notificadas a las personas interesadas y disociados los datos de carácter personal. En todo caso, se indicará el sentido de las resoluciones, así como las cumplidas por la administración, las incumplidas y las impugnadas ante la jurisdicción contencioso-administrativa. Las resoluciones se ordenarán temática y cronológicamente a fin de que sean fáciles de localizar y se indicarán de forma particular aquellas que establezcan criterios generales para la interpretación de la ley o para la resolución de futuras reclamaciones.
+6. La resolución será ejecutiva. En el supuesto de que sea estimatoria, se comunicará a la entidad encargada de su cumplimiento efectivo y se indicará, como mínimo, el alcance del acceso a la información, el plazo para cumplirla y las condiciones en que se haya de hacer efectiva.
+La entidad afectada habrá de comunicar las actuaciones llevadas a cabo para el cumplimiento de la resolución y, si no cumpliera la resolución en el plazo establecido, la persona interesada podrá comunicarlo al Consejo Valenciano de Transparencia para que este requiera su cumplimiento.
+En el supuesto de que el Consejo Valenciano de Transparencia apreciara el incumplimiento de la resolución, podrá imponer multas coercitivas en los plazos y cuantías establecidos en el artículo 5.3 al personal o las autoridades responsables de cumplir la resolución en la entidad correspondiente. En todo caso, se tendrán en cuenta la gravedad del incumplimiento, el principio de proporcionalidad, la intencionalidad y los medios materiales y personales disponibles, sin perjuicio de otros criterios de graduación que puedan determinarse en el reglamento de organización y funcionamiento del Consejo Valenciano de Transparencia.
+7. Contra las resoluciones del Consejo Valenciano de Transparencia solo se podrá interponer recurso contencioso-administrativo. En caso de que la resolución afecte a la administración de la Generalitat o a su sector público instrumental, estos pueden interponer recurso contencioso-administrativo en virtud de esta ley y de la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa.
+8. La desatención de los requerimientos que efectúe el Consejo Valenciano de Transparencia para el cumplimiento de las resoluciones en materia de acceso a la información podrá dar lugar a la exigencia de responsabilidad, de acuerdo con lo establecido en el artículo 68 de esta ley. El Consejo Valenciano de Transparencia podrá instar la incoación del procedimiento sancionador de acuerdo con lo previsto en el apartado 3 del artículo 74 de esta ley.
+
+### Artículo 39
+
+Artículo 39. Procedimiento de mediación.
+1. Cualquiera de las partes podrá solicitar al Consejo Valenciano de Transparencia el inicio del procedimiento de mediación cuando se presente una reclamación de derecho de acceso a la información pública o en el plazo de cinco días desde el momento en el que se haya tenido conocimiento de la interposición de la reclamación. El Consejo Valenciano de Transparencia, una vez recibida la solicitud de procedimiento de mediación, deberá comunicarlo a todas las partes intervinientes para que se pronuncien sobre la solicitud. La administración no podrá oponerse a aplicar el procedimiento de mediación si alguna de las partes interesadas la acepta.
+2. Mientras dure el procedimiento de mediación quedará suspendida la tramitación de la reclamación en el procedimiento ordinario. El procedimiento de mediación deberá sustanciarse en el plazo máximo de un mes a contar desde su aceptación. Si no se alcanzara un acuerdo de mediación, continuaría la tramitación de la reclamación por el procedimiento ordinario a partir del punto en que se hubiera suspendido.
+3. La persona mediadora será designada por el Consejo Valenciano de Transparencia de entre el personal de su oficina técnica de apoyo y deberá contar con formación y conocimientos específicos en materia de mediación administrativa. La mediación se podrá desarrollar presencialmente o a través de medios telemáticos.
+4. El acuerdo fruto de la mediación deberá ser aprobado por la persona reclamante, la administración afectada y, en su caso, las terceras personas que hayan comparecido en el procedimiento. El acuerdo adoptado, que deberá ratificar el Consejo Valenciano de Transparencia, pondrá fin al procedimiento y en ningún caso no podrá ser contrario al ordenamiento jurídico.
+En los casos en que las partes intervinientes lo decidan, podrán adoptarse acuerdos de mediación parciales y limitar expresamente su alcance a una parte del objeto de la reclamación. En este caso, el resto de la reclamación continuará la tramitación por el procedimiento ordinario de resolución por parte del Consejo Valenciano de Transparencia.
+5. El acuerdo de mediación deberá ejecutarse en los términos y con los plazos establecidos. Para su contenido y ejecución será de aplicación lo establecido para las resoluciones del Consejo Valenciano de Transparencia en los apartados 6 y 8 del artículo 38.
+6. El procedimiento específico de mediación por el derecho de acceso a la información pública ante el Consejo Valenciano de Transparencia se regirá por lo dispuesto en esta ley, su normativa de desarrollo y las directrices y acuerdos que establezca el Consejo Valenciano de Transparencia. En lo que no se oponga tendrá carácter supletorio la Ley 24/2018, de 5 de diciembre, de la Generalitat, de mediación de la Comunitat Valenciana, siempre que sea compatible con la naturaleza de la materia.
+
+## CAPÍTULO V
+
+Datos abiertos y reutilización de la información
+
+### Artículo 40
+
+Artículo 40. Apertura de datos.
+1. Con el objetivo de mejorar la transparencia, promover la interoperabilidad entre las administraciones y generar valor en la sociedad, los sujetos incluidos en el artículo 3 de la ley deberán promover las acciones necesarias para la apertura efectiva de los datos públicos que obran en su poder y favorecer su reutilización, teniendo en cuenta las restricciones de privacidad, seguridad o propiedad que puedan existir.
+Se entiende por apertura de datos poner a la disposición datos en formato digital, accesible vía web, estandarizado y abierto, siguiendo una estructura clara y explícita que permita su comprensión y reutilización, tanto por la ciudadanía como por agentes computacionales, de forma que generen valor y riqueza a través de productos derivados de estos datos realizados por terceros.
+2. Para cumplir el principio de apertura de datos desde el diseño y por defecto, el diseño de los sistemas de gestión documental debe garantizar que la información generada por la actividad de las administraciones públicas pueda disponerse como conjuntos de datos, en un formato digital de estándar abierto que permita la interoperabilidad.
+A tal efecto, en los desarrollos informáticos que lleven a cabo la administración de la Generalitat y su sector público instrumental, ya sea con medios propios o ajenos, se debe prever obligatoriamente que la extracción de la información que se recopile, grabe o recoja pueda hacerse en formatos reutilizables, de acuerdo con las condiciones que especifique el órgano competente en materia de transparencia. Este aspecto se debe tener en cuenta en la definición de los requisitos técnicos y funcionales de los desarrollos informáticos por parte de los órganos competentes.
+3. La publicación de estos conjuntos de datos se realizará de forma clara y ordenada e irá acompañada de la información necesaria para conocer su contenido y facilitar su reutilización. Así mismo, si contiene datos personales, la puesta a disposición y reutilización se deberá ajustar a las normas, principios y condiciones establecidas en la normativa europea y en la normativa básica estatal.
+4. Los conjuntos de datos se publicarán junto con los metadatos y estarán, siempre que sea posible, en un formato legible por máquina. Tanto los ficheros como los metadatos deberán cumplir normas formales abiertas. Para facilitar la interoperabilidad, en el ámbito de la administración de la Generalitat y del sector público instrumental se procurará que los nuevos conjuntos de datos que se generen incorporen los metadatos estándares con los que se esté catalogando.
+5. En este proceso de apertura de datos, hay que priorizar aquellos datos considerados de alto valor por su potencial para generar beneficios socioeconómicos o medioambientales importantes y servicios innovadores, beneficiar a un gran número de personas usuarias y pymes, contribuir a generar ingresos y por la posibilidad de ser combinados con otros conjuntos de datos. La definición concreta de los datos considerados de alto valor será la que establezca la normativa estatal y europea de aplicación.
+6. El diseño de las bases de datos tendrá en cuenta que los registros susceptibles de territorialización se georreferenciarán, se incluirán en la Infraestructura Valenciana de Datos Espaciales e identificarán cuándo se ha producido la última modificación y quién la ha efectuado. La Infraestructura Valenciana de Datos Espaciales deberá permitir la interoperabilidad con el portal de datos abiertos de la Generalitat.
+7. Los nuevos conjuntos de datos que se generen por la formalización y el desarrollo de contratos, convenios, acuerdos, conciertos, subvenciones u otras figuras jurídicas en las que se plasme la relación de la administración de la Generalitat y otras entidades se deben disponer, siempre que sea posible, como conjunto de datos abiertos. Para lo cual, en los instrumentos jurídicos que regulen esta relación se deben incluir cláusulas de datos abiertos que garanticen la liberación efectiva de los conjuntos de datos en las condiciones y los criterios de calidad de datos que establece esta ley o que especifique el órgano competente en materia de transparencia.
+Se modifica el apartado 3 por el art. 82 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica el apartado 5 por el art. 63.5 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-5
+ Se modifica el apartado 5 por el art. 63.5 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 41
+
+Artículo 41. Reutilización de la información pública.
+1. Las entidades comprendidas en el artículo 3 deberán difundir la información pública en los términos establecidos en esta ley y la normativa básica de aplicación, a fin de facilitar y promover su reutilización. Con este objetivo, se propiciará que la ciudadanía, las instituciones académicas, las empresas y el resto de agentes puedan disponer y proceder libremente al tratamiento de los datos para la creación de valor mediante productos y servicios nuevos, siempre que se respeten los límites establecidos en el ordenamiento jurídico y que este uso no constituya una actividad administrativa.
+La puesta a disposición de la información pública para su reutilización se realizará por medios electrónicos y solo se someterá a los límites establecidos en la normativa sobre reutilización de la información pública.
+2. La reutilización perseguirá los objetivos fundamentales siguientes:
+a) Publicar todos los datos de libre disposición que obren en poder de las entidades incluidas en el artículo 3.
+b) Permitir a la ciudadanía un mejor conocimiento de la actividad del sector público.
+c) Favorecer la creación de productos y servicios de información basados en los datos de libre disposición que obren en poder de los entes públicos.
+d) Facilitar el uso de los datos para que los ciudadanos, ciudadanas, instituciones académicas, empresas y el resto de agentes ofrezcan productos y servicios de información de valor añadido.
+e) Favorecer la competencia en el mercado y limitar su falseamiento.
+3. La información se suministrará mediante licencias que permitan su uso libre y gratuito y que disfruten de amplia aceptación nacional e internacional o que hayan sido consensuadas con otras administraciones públicas.
+4. Toda la información objeto de publicidad activa o facilitada en virtud del derecho de acceso a la información pública se podrá reutilizar de forma gratuita y sin sujeción a licencias previas ni a condiciones específicas, salvo que por motivos fundados se haga constar expresamente lo contrario.
+5. En el ámbito de la administración de la Generalitat y su sector público instrumental, se regularán reglamentariamente las condiciones específicas a las que se podrá someter la reutilización de la información pública. Se garantizará que no se altere el contenido de la información ni se desnaturalice su sentido, citando la fuente y fecha de la última actualización y, en todos los casos, quedará prohibido el uso de procesos que puedan permitir la identificación de personas.
+6. El portal, página web o sede electrónica especificará el tipo de reutilización aplicable a la información que contenga y las condiciones de su reutilización, así como su vigencia en el tiempo y los periodos de actualización de la información.
+
+### Artículo 42
+
+Artículo 42. Catálogos y estrategia de datos abiertos.
+1. Las entidades incluidas en el artículo 3 promoverán la publicación en formato reutilizable de los datos de interés general que obren en su poder y la creación, en los portales de transparencia, de un catálogo que permita acceder, desde un único punto, a los distintos recursos de información pública reutilizable disponibles en formatos abiertos y también a sus condiciones de acceso, utilización y actualización.
+2. El portal de datos abiertos, accesible desde el Portal de Transparencia de la Generalitat, se configura como el punto común de acceso al catálogo de información reutilizable de la administración de la Generalitat y de su sector público instrumental, donde se incluirá información concreta y actualizada sobre las características de cada conjunto de datos. Reglamentariamente se establecerán los procedimientos y mecanismos de coordinación que garanticen que el catálogo y sus contenidos estén continuamente actualizados.
+El portal tiene como objetivos prioritarios la difusión y promoción del catálogo de información reutilizable y de las iniciativas de reutilización de la información. Así mismo, el portal de datos abiertos deberá incorporar un espacio para que se puedan realizar propuestas y sugerencias en relación con los datos e información que obren en el portal y con los formatos, programas o lenguajes informáticos utilizados, sin perjuicio de otros mecanismos que se puedan promover para la colaboración y consulta con la ciudadanía y los agentes reutilizadores.
+3. Sin perjuicio de los catálogos que pueda crear cada entidad, se establecerán las medidas de colaboración necesarias para la sindicación de contenidos y la federación de catálogos entre las entidades del artículo 3 y, en especial, en el portal de datos abiertos de la Generalitat. Así mismo, se fomentará la federación de datos y la interoperabilidad también con iniciativas parecidas de otras instituciones públicas.
+4. El Consell aprobará una estrategia valenciana de datos abiertos que establezca la planificación estratégica para la apertura, gobernanza y reutilización de los datos públicos, con las relaciones de colaboración que sean necesarias con el resto de administraciones e instituciones públicas valencianas. Esta estrategia establecerá las prioridades, mecanismos e instrumentos para la apertura de datos, así como una evaluación de su implantación y las medidas para fomentar la reutilización por la ciudadanía y el sector económico. Para impulsar y coordinar la elaboración e implantación de esta la estrategia en el ámbito de la Generalitat existirá una unidad para la apertura de datos dependiente del centro directivo en materia de transparencia.
+Se suprime el apartado 5 por el art. 63.6 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-5
+ Téngase en cuenta que el apartado 2 ya había sido suprimido por el Decreto-ley 7/2024, de 9 de julio.
+ Se suprime el apartado 5 por el art. 63.6 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 43
+
+Artículo 43. Información producto de la investigación científica y técnica.
+1. En el marco de lo previsto en la normativa sobre ciencia, tecnología e innovación, las organizaciones comprendidas en el artículo 3 que lleven a cabo o financien actividades de investigación adoptarán políticas de acceso abierto para fomentar el acceso en formato abierto y reutilizable de forma gratuita a los datos y resultados obtenidos en proyectos de investigación financiados mayoritariamente con fondos públicos, en aplicación del principio de apertura por defecto y de compatibilidad con los principios FAIR.
+2. En el ámbito de la administración de la Generalitat y de su sector público instrumental, con el objetivo de promover y difundir el conocimiento abierto, se creará un repositorio institucional para facilitar, con protocolos y estándares normalizados, la preservación, disponibilidad y acceso a los documentos y datos de acceso abierto que hayan generado o financiado sus órganos y entidades. En la creación y mantenimiento de este repositorio se contará con la colaboración de la Red de Bibliotecas Especializadas de la Generalitat Valenciana.
+
+## CAPÍTULO VI
+
+Planificación y organización administrativa de la Generalitat en materia de transparencia
+
+### Artículo 44
+
+Artículo 44. Comisión Interdepartamental de Gobierno Abierto.
+1. Para la coordinación general en materia de gobierno abierto en el ámbito de la Administración de la Generalitat y su sector público instrumental se crea la Comisión Interdepartamental de Gobierno Abierto. Tiene, entre sus funciones, la colaboración con la conselleria competente en materia de gobierno abierto en la planificación directiva y operativa, el seguimiento periódico y la evaluación de las acciones en la materia. Así mismo, podrá aprobar instrucciones y fijar criterios en la materia.
+2. La Comisión Interdepartamental de Gobierno Abierto será asistida en el ejercicio de sus funciones por una comisión técnica designada a tal efecto, que presidirá el centro directivo competente en materia de gobierno abierto.
+3. La composición y funciones de las comisiones anteriores se regularán reglamentariamente y deberán incluir como miembro el delegado o delegada de Protección de Datos de la Generalitat o la persona en quien delegue.
+Se modifican el título y los apartados 1 y 2 por el art. 63.7 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-5
+ Se modifican el título y los apartados 1 y 2 por el art. 63.7 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 45
+
+Artículo 45. Unidades de transparencia y participación.
+1. En cada departamento del Consell se creará, dependiente de la subsecretaria, una unidad administrativa específica con funciones en materia de transparencia, acceso a la información pública, datos abiertos y participación ciudadana, que contará con los recursos humanos y materiales necesarios para el correcto cumplimiento de sus funciones. Esta unidad se encargará de coordinar las actuaciones en estas materias en el ámbito de cada departamento y de colaborar en el seguimiento de su cumplimiento con el centro directivo competente en materia de gobierno abierto, con el fin de asegurar la implementación de las políticas de gobierno abierto de forma homogénea en todos los ámbitos de la actuación administrativa. Asimismo, deberá impulsar y fomentar actuaciones de difusión y conocimiento, así como velar por el cumplimiento de las obligaciones de gobierno abierto en el ámbito de su competencia. Reglamentariamente se regulará la posibilidad de que estas unidades puedan asumir funciones en materia de protección de datos y en la coordinación de la gestión de los sistemas de información.
+2. (Suprimido)
+3. (Suprimido)
+4. El resto de los órganos y unidades del departamento habrán de prestar la máxima colaboración a la unidad de transparencia y participación en el cumplimiento de sus funciones. Cada órgano será responsable de ejecutar aquellos procesos participativos de acuerdo con sus competencias, facilitar la información pública que obre en su poder que sea objeto de publicidad activa, de tramitar y resolver las solicitudes de información pública que sean de su competencia y de llevar a cabo las medidas necesarias para hacer pública la información que generen en la actividad administrativa como datos abiertos, en las condiciones y con las características que establece esta ley y con la coordinación del órgano competente en materia de transparencia y de los previstos en este artículo.
+Se suprime el apartado 3 por el art. 83 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifican el título y los apartados 1 y 4 y se suprime el 2 por el art. 63.8 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-5
+ Téngase en cuenta que el apartado 2 ya había sido suprimido por el Decreto-ley 7/2024, de 9 de julio.
+ Se modifican el título y los apartados 1 y 4 y se suprime el 2 por el art. 63.8 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 46
+
+Artículo 46. Planificación estratégica y seguimiento en materia de transparencia.
+1. En el ámbito de la administración de la Generalitat y su sector público instrumental, el Consell, a propuesta de la conselleria competente en materia de transparencia, aprobará un plan estratégico para la programación, la implantación y el seguimiento de las actuaciones en materia de transparencia para la aplicación y el desarrollo de esta ley y para la mejora continua en esta materia.
+2. Este plan habrá de incluir, como mínimo, la relación de acciones que se hayan de desarrollar durante el plan, las actuaciones necesarias para llevarlas a cabo, el presupuesto, los indicadores que permitan conocer el grado de cumplimiento de la acción y el órgano directivo responsable de la ejecución.
+3. Anualmente la comisión interdepartamental de transparencia evaluará el grado de cumplimiento del plan, cuya acta será publicada en el portal de transparencia.
+4. Durante la elaboración y la evaluación del plan estratégico de transparencia se seguirán los cauces previstos de participación para la planificación estratégica en la ley de participación.
+5. Para la elaboración del plan se consultará a las unidades de transparencia representadas en la comisión interdepartamental.
+Se modifica, con efectos desde el 27 de agosto de 2024, por el art. 10 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+
+## TÍTULO II
+
+Consejo Valenciano de Transparencia
+
+### Artículo 47
+
+Artículo 47. Naturaleza y actuación.
+1. El Consejo Valenciano de Transparencia es la autoridad de garantía en materia de transparencia en la Comunitat Valenciana. Tiene como finalidad garantizar el derecho de acceso a la información pública y velar por el cumplimiento de las obligaciones de publicidad activa.
+2. El Consejo Valenciano de Transparencia actuará con autonomía orgánica y plena independencia funcional y, en el ejercicio de sus funciones, no estará sometido a instrucciones jerárquicas de ningún tipo.
+3. El Consejo Valenciano de Transparencia se regirá por lo dispuesto en la normativa sobre transparencia y acceso a la información pública, por la regulación de los órganos colegiados, del procedimiento administrativo común y por su reglamento de organización y funcionamiento, sin perjuicio de las directrices y acuerdos que pueda aprobar en virtud de su potestad de autoorganización.
+4. El Consejo Valenciano de Transparencia actuará con objetividad, independencia, imparcialidad, profesionalidad y sometimiento en el ordenamiento jurídico en el ejercicio de sus competencias.
+5. La conselleria competente en materia de transparencia pondrá a disposición del Consejo Valenciano de Transparencia todos los recursos y medios personales, técnicos y materiales que sean necesarios y suficientes para el ejercicio de sus funciones, siempre con respecto a su independencia y de acuerdo con su presupuesto. Así mismo, ofrecerá la información y apoyo necesario para garantizar el cumplimiento de la normativa presupuestaria, de personal, patrimonial, de contratación y análogas por parte del Consejo Valenciano de Transparencia.
+Con este fin, el Consejo Valenciano de Transparencia contará con una oficina técnica que le preste asistencia y apoyo técnico y administrativo, que esté plenamente sometida a las instrucciones y organización que establezca el Consejo Valenciano de Transparencia y que tenga rango mínimo de servicio. El personal que forme parte de esta oficina estará adscrito, a los efectos de la aplicación de la normativa vigente sobre función pública, a la conselleria competente en materia de transparencia.
+6. El Consejo Valenciano de Transparencia tendrá un portal web propio en que se publicará la información derivada de las obligaciones de publicidad activa establecidas en el título I que corresponda al Consejo Valenciano de Transparencia, a las personas que forman parte de este y a su oficina técnica.
+Además, en este portal se publicarán sus resoluciones, informes, criterios interpretativos, acuerdos y memoria anual de actividad, una vez disociada la información que pueda estar afectada por los límites establecidos en esta ley. También se publicará la información sobre las resoluciones cumplidas, incumplidas e impugnadas ante la jurisdicción contencioso-administrativa por parte de los sujetos obligados, además de cualquier otra información que pueda resultar de interés para la ciudadanía.
+
+### Artículo 48
+
+Artículo 48. Funciones del Consejo Valenciano de Transparencia.
+El Consejo Valenciano de Transparencia tiene las siguientes funciones:
+1. Resolver las reclamaciones contra las resoluciones en materia de acceso a la información pública, con carácter previo a su impugnación en la jurisdicción contencioso-administrativa.
+2. Desempeñar la función de mediación cuando se impugnen por este procedimiento las resoluciones en materia de acceso a la información pública, en los términos que disponga esta ley y su desarrollo reglamentario.
+3. Hacer el seguimiento de la ejecución de las resoluciones que resuelvan reclamaciones en materia de acceso a la información y de los acuerdos de mediación.
+4. Velar por el cumplimiento de las obligaciones de publicidad activa contenidas en esta ley por parte de los sujetos obligados de los artículos 3 y 4.
+5. Requerir de oficio, a iniciativa propia o como consecuencia de denuncia, la enmienda de incumplimientos de las obligaciones de publicidad activa que recoge esta ley por parte de los sujetos obligados de los artículos 3 y 4 y hacer el seguimiento de su cumplimiento.
+6. Instar la incoación de expedientes disciplinarios o sancionadores de acuerdo con las previsiones del título V.
+7. Resolver las consultas que, en materia de transparencia, le planteen las administraciones públicas y otras entidades sujetas a esta ley.
+8. Adoptar criterios de interpretación uniforme de las obligaciones en materia de transparencia recogidas en esta ley y aprobar directrices, recomendaciones o guías para la aplicación o interpretación para su mejor cumplimiento.
+9. Evaluar el grado de aplicación y de cumplimiento de las obligaciones contenidas en esta ley en materia de transparencia.
+10. Colaborar, en materia de transparencia, con órganos de naturaleza análoga, tanto estatales como autonómicos.
+11. Aprobar y remitir, en el primer trimestre de cada año, a las Corts Valencianes y al Consell una memoria específica sobre su actividad durante el año anterior. Esta memoria comprenderá, como mínimo, las reclamaciones y consultas tramitadas, los criterios doctrinales establecidos, las recomendaciones y requerimientos que el Consejo Valenciano de Transparencia haya estimado oportuno transmitir, de forma que se identifique el nivel de cumplimiento por parte de las entidades obligadas.
+12. Informar preceptivamente sobre los proyectos normativos de la Generalitat en materia de transparencia.
+13. Promover actividades de formación y sensibilización en las materias que le son propias.
+14. Elaborar su reglamento de organización y funcionamiento, que se elevará al Consell para que lo apruebe, y aprobar las directrices, instrucciones y normas internas que sean necesarias para garantizar su buen funcionamiento y el de su oficina técnica.
+15. Elaborar anualmente una propuesta de presupuesto que incluya los recursos necesarios para el cumplimiento de sus funciones y formularla a la conselleria competente en materia de transparencia para que se incluya en el anteproyecto de presupuestos de la Generalitat.
+16. Aquellas otras que le atribuyan otras disposiciones de rango legal o reglamentario, o bien que sean menester para el cumplimiento eficaz de sus fines.
+
+### Artículo 49
+
+Artículo 49. Composición y estatuto personal.
+1. El Consejo Valenciano de Transparencia estará integrado por tres personas. En la composición final deberá respetarse una composición equilibrada entre mujeres y hombres.
+2. Las candidaturas serán propuestas por los grupos parlamentarios, de acuerdo con el procedimiento establecido por Les Corts Valencianes, de entre personas expertas en el ámbito de las funciones del Consejo Valenciano de Transparencia, de competencia y prestigio reconocidos en los ámbitos del derecho público o de la administración pública y que cuenten con más de diez años de experiencia profesional.
+Después de la comparecencia de las personas candidatas en la comisión parlamentaria correspondiente, serán elegidas por el Pleno de Les Corts Valencianes por mayoría de tres quintas partes y, posteriormente, nombradas por decreto del presidente de la Generalitat.
+En el caso de que, tras sucesivas votaciones, y en el plazo de dos meses desde la primera votación, no se hubiera alcanzado el consenso necesario, tras la correspondiente comparecencia de los nuevos candidatos, podrá ser aprobada por la mayoría absoluta del Pleno de Les Corts.
+3. Las personas que integran el Consejo Valenciano de Transparencia se nombrarán por un periodo de cinco años. Podrán ser reelegidas por un único periodo más y continuarán en el ejercicio de sus funciones hasta la toma de posesión de quienes hayan de sucederlas.
+En el supuesto de vacante sobrevenida, se nombrará a otra persona de acuerdo con el procedimiento establecido en el apartado 2, cuyo mandato acabará en la fecha en que habría de haberlo hecho el de la persona sustituida.
+4. Las personas que componen el Consejo Valenciano de Transparencia deben designar, de entre ellas, a la persona que deba ocupar la presidencia del Consejo Valenciano de Transparencia; la cual será nombrada por decreto del Presidente de la Generalitat. La persona designada solo puede ejercer la presidencia durante un mandato, que debe coincidir con el periodo de cinco años para el cual fue nombrada, sin perjuicio de su posible reelección como integrante del Consejo Valenciano de Transparencia prevista en el apartado tercero de este artículo.
+5. Las personas integrantes del Consejo Valenciano de Transparencia ejercerán su cargo con dedicación exclusiva y tendrán la consideración de altos cargos con rango de director general o directora general.
+Estarán sometidas al régimen de incompatibilidades y conflictos de intereses previsto para los altos cargos de la Generalitat y deberán cumplir las obligaciones de transparencia y buen gobierno que se derivan de ello de acuerdo con esta ley; especialmente, las relacionadas con las obligaciones de publicidad activa del artículo 15 y las que establece el título III.
+6. Las personas integrantes del Consejo Valenciano de Transparencia solo se pueden remover por alguna de las siguientes causas:
+a) Por defunción.
+b) Por renuncia.
+c) Por extinción del mandato.
+d) Por incapacidad o inhabilitación declaradas por sentencia judicial firme.
+e) Por incompatibilidad declarada por el Pleno de las Corts Valencianes, a propuesta del Consell, una vez la Oficina de Control de Conflicto de Intereses de la Generalitat haya instruido el expediente sancionador correspondiente, con audiencia previa a la persona interesada.
+f) Por incumplimiento grave de sus funciones declarado por mayoría de tres quintas partes del Pleno de las Corts Valencianes, previo informe favorable del Consejo Valenciano de Transparencia y previa audiencia concedida a la persona interesada en la comisión parlamentaria correspondiente.
+Se modifica el apartado 2, con efectos desde el 27 de agosto de 2024, por el art. 11 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+
+### Artículo 50
+
+Artículo 50. Estructura y funcionamiento.
+1. Sin perjuicio de lo establecido en el reglamento de organización y funcionamiento, el Consejo Valenciano de Transparencia se estructura en los siguientes órganos:
+a) Pleno.
+b) Presidencia.
+c) Secretaría.
+2. El Consejo Valenciano de Transparencia elaborará su reglamento de organización y funcionamiento, que deberá elevarse al Consell para su aprobación. Sus modificaciones pueden efectuarse a iniciativa del Consejo Valenciano de Transparencia.
+3. El reglamento de organización y funcionamiento determinará la estructura y organización del Consejo Valenciano de Transparencia y de su oficina técnica, así como las normas necesarias para su buen funcionamiento.
+4. Dentro del marco de las normas que establezca el reglamento de organización y funcionamiento, el Consejo Valenciano de Transparencia podrá aprobar instrucciones, directrices, acuerdos y normas internas para organizar su actividad y la de su oficina técnica para el mejor cumplimiento de sus funciones, teniendo en cuenta su potestad de autoorganización.
+5. La Secretaría del Consejo Valenciano de Transparencia será desempeñada por un funcionario o funcionaria de carrera y su provisión se realizará por el sistema de libre designación, una vez oída la persona que ostente la Presidencia del Consejo Valenciano de Transparencia.
+La persona que ejerza la secretaría, a quien corresponde la dirección administrativa de la oficina técnica, asistirá con voz pero sin voto a las reuniones del Consejo Valenciano de Transparencia, sin perjuicio del resto de funciones que le atribuya el reglamento de organización y funcionamiento.
+
+### Artículo 51
+
+Artículo 51. Asistencia jurídica.
+1. La asistencia jurídica del Consejo Valenciano de Transparencia, consistente en el asesoramiento jurídico y en la representación y defensa en juicio, corresponde a la Abogacía General de la Generalitat.
+2. Cuando haya conflicto de intereses por haber interpuesto recurso contencioso-administrativo contra una resolución del Consejo Valenciano de Transparencia un órgano de la administración de la Generalitat o de su sector público instrumental, el Consejo Valenciano de Transparencia podrá celebrar contratos o convenios para la asistencia jurídica externa.
+3. A tal efecto será nombrada una abogada general del Consell, del cuerpo de la Abogacía de la Generalitat, que dependerá funcionalmente de la oficina técnica de apoyo al Consell.
+Se añade el apartado 3, con efectos desde el 27 de agosto de 2024, por el art. 12 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+
+### Artículo 52
+
+Artículo 52. Colaboración e información.
+1. La Administración de la Generalitat prestará la colaboración necesaria al Consejo Valenciano de Transparencia para el desarrollo eficaz de sus funciones y para la dotación de personal y de medios. Con este propósito, se pueden establecer los mecanismos de colaboración que sean oportunos para garantizar la eficiencia en la gestión de los servicios comunes.
+2. Para el cumplimiento de sus fines, el Consejo Valenciano de Transparencia puede pedir los datos y los informes que estime necesarios a las administraciones públicas y a los sujetos a los que se aplica esta ley, los cuales facilitarán la información que se les solicite.
+En particular, en aquellos casos en los que el Consejo Valenciano de Transparencia deba resolver reclamaciones o consultas o adoptar criterios de interpretación en asuntos donde entren en conflicto el principio de transparencia y el derecho fundamental a la protección de datos, podrá recabar el asesoramiento del delegado o delegada de protección de datos de la Administración pública o entidad correspondiente, quien informará, con carácter no vinculante, de los aspectos consultados.
+Se modifica por el art. 84 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 53
+
+Artículo 53. Presupuesto.
+1. El Consejo Valenciano de Transparencia contará con un programa presupuestario propio dentro del presupuesto de la Generalitat, que incluirá la dotación suficiente para llevar a cabo sus funciones con independencia.
+2. El Consejo Valenciano de Transparencia aprobará anualmente una propuesta de presupuesto, que incluirá los recursos necesarios para desarrollar su actividad de acuerdo con las funciones atribuidas por esta ley. La propuesta se remitirá a la conselleria competente en materia de transparencia para que la remita directamente a la conselleria competente en materia de presupuestos, a los efectos de que se incorpore su contenido al anteproyecto de presupuestos de la Generalitat, todo de acuerdo con el calendario fijado por las normas de elaboración de los presupuestos de la Generalitat.
+3. El Consejo Valenciano de Transparencia podrá adoptar instrucciones en el ámbito de su organización interna con los indicadores a seguir para definir la propuesta de presupuesto.
+
+## TÍTULO III
+
+Buen gobierno e integridad pública
+
+### Artículo 54
+
+Artículo 54. Principios de actuación.
+1. Las personas que ejerzan altos cargos comprendidas en el artículo 6 de esta ley se deben regir, en el ejercicio de sus funciones, por lo dispuesto en la Constitución, el Estatuto de autonomía de la Comunidad Valenciana y el título II de la Ley 19/2013, de 9 de diciembre, y el resto del ordenamiento jurídico, y deben promover el respeto hacia los derechos fundamentales y las libertades públicas.
+Así mismo, deben adecuar su actividad a los principios de actuación y conducta siguientes:
+a) Deben actuar con integridad, ejemplaridad y transparencia en la gestión de los asuntos públicos, lo cual comporta la rendición de cuentas de las políticas públicas y de la gestión realizada, tanto interna como externa y ante la ciudadanía, y deben fomentar la proximidad y la accesibilidad de la administración a la ciudadanía.
+b) Deben garantizar una gestión financiera justa y equitativa, dedicada a la mejora del bienestar de la ciudadanía, de acuerdo con los principios de buena administración y, en especial, los de legalidad, eficacia, eficiencia y sostenibilidad en la gestión de los recursos públicos.
+c) Están obligadas al ejercicio fiel de la función, del cargo o del puesto de trabajo que les corresponde, y a la gestión de los intereses públicos que tengan encomendados, con imparcialidad y neutralidad respecto de los intereses privados afectados.
+d) En la elaboración de las políticas públicas y de las normas, debe prevalecer el principio de participación, que refuerce la interacción con organismos autonómicos y locales y la sociedad civil.
+e) Deben actuar con igualdad en el trato y sin arbitrariedad ni discriminaciones de ningún tipo en el ejercicio de las funciones que se les ha asignado.
+f) Debe prevalecer el principio de buena fe en el cumplimiento de sus obligaciones, se debe fomentar la calidad en la prestación de los servicios públicos y la aplicación del principio de buena administración.
+g) Son responsables de sus actuaciones y de las actuaciones de los organismos que dirigen, con plenas garantías de ausencia de arbitrariedad en la adopción de las decisiones que adoptan.
+h) Deben ejercer las funciones y los poderes que la normativa les confiere con la finalidad exclusiva para la cual les fueron atribuidos en esta, y deben evitar cualquier acción que ponga en riesgo el interés público o el patrimonio de las administraciones públicas.
+i) Deben comunicar a los órganos competentes, especialmente a los órganos e instituciones de control y fiscalización, cualquier actuación irregular de que tengan conocimiento. Para lo cual pueden hacer uso de los canales y las vías de denuncia o alerta que hay para comunicar posibles situaciones de irregularidades, malas prácticas, fraude o corrupción.
+j) Deben observar estrictamente el régimen de incompatibilidades establecido en el ordenamiento jurídico y evitar situaciones de conflicto de intereses tanto durante el ejercicio del cargo como tras el cese, y se deben abstener de intervenir en los asuntos en que concurra alguna causa que pueda afectar la imparcialidad.
+k) Deben ejercer el cargo en beneficio exclusivo de los intereses públicos, y deben actuar con imparcialidad e independencia en la toma de decisiones a fin de evitar que su actuación pueda estar condicionada por conflictos de intereses.
+l) Deben guardar la reserva debida respecto de los hechos o de las informaciones conocidas con motivo del ejercicio de sus competencias; deben usar la información exclusivamente en beneficio del interés público, y no pueden obtener ninguna ventaja, propia ni ajena, de la información manejada.
+m) Deben cumplir la política de regalos que establezca el código ético o código de buen gobierno de la institución a la cual pertenezcan, no deben aceptar regalos que sobrepasen los usos y las costumbres de cortesía, ni tampoco aceptar favores o servicios en condiciones ventajosas que puedan condicionar el ejercicio de sus funciones.
+n) No pueden usar tarjetas de crédito o de débito con cargo a cuentas de la Generalitat o del sector público de esta.
+o) Deben actuar con sobriedad y austeridad y gestionar, proteger y conservar los recursos y los bienes públicos adecuadamente para que se destinen de manera prudente, eficiente y productiva a los fines para los cuales fueron reservados y no se puedan usar a actividades u objetivos que no sean los permitidos por la normativa.
+p) Deben garantizar que los reconocimientos honoríficos o conmemorativos recaigan en personas de un compromiso público relevante que nunca hayan sido condenadas penalmente mediante una sentencia firme.
+q) Deben adoptar la rendición de cuentas como un principio básico de actuación, deben publicar sus compromisos y deben diseñar y evaluar de forma objetiva periódicamente sus políticas públicas.
+2. El Consell y las corporaciones locales, además de sus altos cargos, deben asumir el compromiso de ejercer la acción de gobierno de manera transparente y de rendir cuentas de su gestión a la ciudadanía. A estos efectos, el Consell y las corporaciones locales deben impulsar instrumentos para que el órgano de gobierno en conjunto, y cada uno de los integrantes en su ámbito, puedan:
+a) Compartir con la ciudadanía las decisiones políticas y los avances y las dificultades de la gestión pública.
+b) Dar cuenta de la administración de los recursos públicos y de su coherencia con la planificación de la acción de gobierno.
+c) Desarrollar mecanismos para la mejora continua de las políticas y actuaciones y su adaptación a las demandas ciudadanas.
+d) Facilitar el control y la evaluación de toda la acción de gobierno por parte de la ciudadanía y fortalecer su capacidad para estimular y orientar esa acción.
+
+### Artículo 55
+
+Artículo 55. Códigos éticos y de conducta.
+1. Con el objetivo de fomentar la integridad, la ética pública y el buen gobierno, las entidades incluidas en el artículo 3 elaborarán un código ético o de conducta que concrete y desarrolle los principios de actuación incluidos en este título e incluya el siguiente contenido:
+a) Los valores, normas de conducta y principios rectores de la entidad y de los cargos y personal vinculado a ella, así como la política de regalos de la entidad.
+b) Los mecanismos para la efectividad de estos valores, normas de conducta y principios rectores, y los que se establezcan para el seguimiento, control e interpretación del código.
+c) Vías y mecanismos de difusión, formación y sensibilización sobre el código.
+d) Revisión, rendición de cuentas y actualización del código.
+2. A efectos de lo previsto en el apartado anterior, los sujetos que lo estimen oportuno podrán adherirse al código de buen gobierno que apruebe el Consell, adaptando su contenido a las características de la entidad de la que se trate, previa la aprobación del órgano de gobierno de la entidad. Así mismo, podrán elaborarse modelos de código ético y de conducta para los diferentes tipos de entidad.
+3. Los sujetos comprendidos en el ámbito de aplicación de la presente ley harán extensiva la aplicación de los principios y normas de conducta del código a contratistas, personas y entidades beneficiarias de ayudas y subvenciones y el resto de entidades y personas con las que se relacione la entidad pública de que se trate. A tal efecto, se incluirá en los pliegos de cláusulas contractuales y en las bases de convocatoria de subvenciones o de ayudas.
+4. De manera complementaria a la adopción del código ético o de conducta, en el ámbito de las entidades incluidas en el artículo 3 se fomentará la elaboración y aprobación de planes de prevención de riesgos para la integridad a partir del autodiagnóstico e identificación de los riesgos de mayor relevancia en la organización.
+5. Para el diseño y adopción de los marcos de integridad derivados de los códigos éticos y de conducta a los que se refiere el apartado 1, así como para la implantación de planes de prevención, las entidades incluidas en el artículo 3 podrán contar con el asesoramiento y colaboración de la Agencia de Prevención y Lucha contra el Fraude y la Corrupción de la Comunitat Valenciana, sin perjuicio de las medidas de asistencia y colaboración que prevé el apartado 1 de la disposición adicional segunda.
+
+### Artículo 56
+
+Artículo 56. Sistema de integridad institucional.
+1. En el ámbito de la administración de la Generalitat, el Consell impulsará el diseño e implantación de un sistema de integridad institucional como marco para la gestión de la integridad y la mejora de la cultura ética de la organización. Este sistema incluirá, al menos, los siguientes elementos y herramientas:
+a) Los códigos éticos o de conducta que definan los valores, principios y normas de conducta en los marcos de infraestructura ética, desarrollando su contenido mínimo previsto en este título y el artículo anterior, incluida la definición de la política de regalos.
+b) Mecanismos de difusión, información, formación, sensibilización y desarrollo de los marcos de integridad y de la cultura ética para la asunción de los códigos y la mejora continua de la ética pública. En particular, se habrá de prever materiales y cursos de formación en integridad y ética pública dirigida tanto a los altos cargos y asimilados como al personal empleado público.
+c) Vías para la formulación y resolución de consultas y dilemas en la aplicación de los códigos y para el seguimiento y respuesta a comunicaciones, alertas o quejas en relación con su cumplimiento.
+d) Instrumentos de garantía del cumplimiento y la efectividad del sistema de integridad institucional, con la creación de una comisión de ética institucional que incluya la participación de personas expertas externas a la administración.
+e) Mecanismos de seguimiento, evaluación, rendición de cuentas y mejora continua del sistema de integridad.
+2. En el diseño del sistema de integridad institucional se tendrá en cuenta la identificación de los riesgos para la integridad pública de mayor relevancia y los planes para la prevención. En su definición se atenderá a los órganos e instrumentos previstos en la Ley 22/2018, de 6 de noviembre, de Inspección General de Servicios y del sistema de alertas para la prevención de malas prácticas en la administración de la Generalitat y su sector público instrumental.
+Así mismo, para el caso de posibles casos susceptibles de fraude y corrupción o de irregularidades y malas prácticas, se contará con los canales de alerta y denuncia previstos en la ley reguladora de la Agencia de Prevención y Lucha contra la Corrupción de la Comunitat Valenciana y en la que se regula el sistema de alertas para la prevención de malas prácticas en la administración de la Generalitat y su sector público instrumental.
+3. Para el diseño e implementación del sistema de integridad institucional, se contará con el asesoramiento y colaboración de la Agencia de Prevención y Lucha contra la Corrupción de la Comunitat Valenciana.
+
+## TÍTULO IV
+
+Planificación y evaluación
+
+## CAPÍTULO I
+
+Rendición de cuentas de la acción de gobierno
+
+### Artículo 57
+
+Artículo 57. Plan de gobierno.
+1. De conformidad con el programa de gobierno expuesto ante Les Corts Valencianes por la persona que ocupe la presidencia de la Generalitat en el Pleno de investidura, el Consell debe elaborar y aprobar, durante el primer año de su mandato, el plan político de gobierno de la legislatura.
+2. El plan de gobierno, que tiene naturaleza política, debe definir los objetivos políticos y las líneas de actuación del Consell más destacadas. Se emitirá informe sobre el grado de cumplimiento de este al tiempo en que deba celebrarse el debate a que hace referencia el apartado 4.
+3. El plan de gobierno podrá indicar qué medidas o actuaciones significativas determinadas, por los impactos o consecuencias posibles o por la relevancia del problema al que se enfrentan, se someten a un proceso de evaluación previa de impacto, con indicación de la estimación temporal de esta evaluación.
+4. Transcurridos tres años desde la toma de posesión del presidente de la Generalitat Valenciana, este deberá solicitar a Les Corts Valencianes la celebración de un debate en el que estas se pronuncien sobre el cumplimiento del plan de gobierno.
+5. El plan de gobierno se debe remitir a Les Corts Valencianes para su conocimiento y se debe publicar en el “Diari Oficial de la Generalitat Valenciana” y en el Portal de Transparencia de la Generalitat.
+Se modifica, con efectos desde el 27 de agosto de 2024, por el art. 13 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+
+### Artículo 58
+
+Artículo 58. Seguimiento del plan de gobierno.
+(Suprimido)
+Se suprime, con efectos desde el 27 de agosto de 2024, por el art. 14 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+
+## CAPÍTULO II
+
+Calidad normativa
+
+### Artículo 59
+
+Artículo 59. Principios de buena regulación normativa.
+1. El Consell debe ejercer la iniciativa legislativa y la potestad reglamentaria de forma que las normas cumplan los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia propios de la buena regulación, y que el proceso de su elaboración sea transparente y participativo.
+2. La iniciativa normativa debe disponer de un marco normativo estable, claro y fácil de conocer y comprender por la ciudadanía.
+3. Las iniciativas normativas deben considerar en primer lugar y dar preferencia a aquellas medidas que sean menos restrictivas para los derechos de las personas.
+4. La adecuación a estos principios de los anteproyectos de ley y de los proyectos de reglamento debe estar suficientemente justificada en la exposición de motivos o el preámbulo correspondientes.
+
+### Artículo 60
+
+Artículo 60. Simplificación normativa.
+1. El Consell considerará, al ejercer la iniciativa legislativa y la potestad reglamentaria, que las nuevas normas contribuyan a la simplificación del ordenamiento jurídico vigente.
+2. Con el fin de facilitar el conocimiento de las normas jurídicas y su uso, la Generalitat elaborará textos consolidados de aquellas normas que hayan sido modificadas. Los textos consolidados tendrán valor informativo y deben indicar su naturaleza y las normas que consolidan.
+
+### Artículo 61
+
+Artículo 61. Evaluación del impacto normativo y de resultados de las normas.
+(Suprimido)
+Se suprime por el art. 63.9 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-5
+ Téngase en cuenta que este artículo ya había sido suprimido por el Decreto-ley 7/224, de 9 de julio.
+ Se suprime por el art. 63.9 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 62
+
+Artículo 62. Planificación normativa.
+1. Anualmente, el Consell aprobará el plan normativo de la administración de la Generalitat, que contendrá las iniciativas legislativas y reglamentarias que vaya a aprobar a lo largo del año.
+2. Así mismo, este plan también contendrá una valoración del cumplimiento del plan normativo anterior y las evaluaciones de resultados de las normas que se hayan efectuado durante el año vencido. La evaluación de los resultados de las normas habrá de indicar, si es el caso, si se han alcanzado los objetivos propuestos y si estaba justificado el coste y las cargas impuestas por la norma correspondiente.
+3. Una vez sea aprobado, el plan normativo se publicará en el Portal de Transparencia de la Generalitat.
+
+## CAPÍTULO III
+
+Planificación y evaluación de las políticas y los servicios
+
+### Artículo 63
+
+Artículo 63. Fomento de la cultura de la planificación y la evaluación.
+Las administraciones públicas adoptarán medidas que fomenten e integren en sus organizaciones una cultura de planificación y de evaluación de los servicios, de la gestión y de las políticas públicas, para contribuir así a la integridad institucional. Para ello, se llevarán a cabo acciones para la divulgación, la sensibilización y la formación del personal, a fin de incentivar la generación de redes de conocimientos de equipos de colaboración para el desarrollo de herramientas técnicas que faciliten su implementación.
+Dentro de los elementos que habrá de tener en cuenta cada administración para el fomento de la cultura de la planificación y la evaluación, está la realización de una diagnosis de situación, el establecimiento de las metas generales, la fijación de los objetivos estratégicos y operativos, la evaluación del cumplimiento mediante indicadores y la implantación de procesos de mejora continua.
+
+### Artículo 64
+
+Artículo 64. Evaluación de los planes y programas.
+1. Los planes y programas de la administración de la Generalitat y su sector público instrumental, anuales y plurianuales, que guían su actuación y en los que se fijan objetivos concretos, serán objeto de evaluación de su grado de cumplimiento y sus resultados.
+A tal efecto, las consellerias y los entes que conforman el sector público instrumental de la Generalitat implantarán sistemas de medida de su actividad, estableciendo indicadores a fin de obtener la información necesaria para conocer el grado de cumplimiento y el nivel de calidad en la prestación de los servicios públicos.
+Con este fin, se impulsará el desarrollo de herramientas digitales de cuadros de mando basados en datos e indicadores y su uso por parte de los órganos gestores, para mejorar los procesos de toma de decisiones y el diseño de políticas públicas y favorecer la evaluación y la rendición de cuentas a partir de la gestión de los datos.
+2. Los resultados de la evaluación del cumplimiento de los planes y programas se consignarán en un informe específico que se publicará en el portal de transparencia de la Generalitat.
+Indicará hasta qué punto se han conseguido o se están consiguiendo los objetivos establecidos o esperados y, cuando sea posible, su coste en términos de tiempo y recursos humanos y materiales.
+3. Las evaluaciones de los planes y programas las realizará el personal de las consellerias y de los entes respectivos, y la responsabilidad de su impulso o desarrollo corresponderá a las subsecretarías de las consellerias, o a las gerencias o a los órganos equivalentes en el ámbito del sector público instrumental, de acuerdo con sus competencias de órgano inspector de todos los servicios de su departamento y de impulso de las reformas dirigidas a la mejora de los servicios.
+
+## TÍTULO V
+
+Régimen sancionador
+
+### Artículo 65
+
+Artículo 65. Régimen jurídico.
+1. Sin perjuicio del régimen sancionador establecido en el título II de la Ley 19/2013, de 9 de diciembre, y de otras responsabilidades que puedan producirse, el incumplimiento de las obligaciones de esta ley se sancionará de acuerdo con lo que determina este título.
+2. La potestad sancionadora respecto de las infracciones tipificadas en esta ley se ejercerá en conformidad con lo dispuesto en este título y en la normativa en materia de régimen jurídico del sector público.
+Las sanciones disciplinarias se regirán por los procedimientos establecidos para el personal funcionario, estatutario o laboral que se pueda aplicar en cada caso.
+
+### Artículo 66
+
+Artículo 66. Regímenes específicos.
+1. Al incumplimiento de las obligaciones relativas a la gestión y aplicación de los recursos públicos se aplicará la normativa reguladora de la responsabilidad contable y, si procede, la legislación específica reguladora de esta materia, sin perjuicio de las responsabilidades de cualquier tipo que puedan derivarse de las actuaciones practicadas en el ámbito de esta responsabilidad.
+2. El régimen sancionador por el incumplimiento de las normas sobre incompatibilidades o declaraciones que deben realizar los altos cargos y asimilados de la administración de la Generalitat y su sector público instrumental es el que establece la normativa aplicable en materia de incompatibilidades y conflictos de intereses de los altos cargos.
+
+### Artículo 67
+
+Artículo 67. Responsabilidad.
+1. Son responsables de las infracciones las personas físicas o jurídicas, cualquiera que sea su naturaleza, que realicen acciones o que incurran en las omisiones tipificadas en la presente ley con dolo, culpa o negligencia.
+2. En particular, son responsables:
+a) Las personas que ocupen altos cargos y asimilados y el personal al servicio de las organizaciones previstas en el artículo 3.
+b) Los organismos y las entidades obligadas a cumplir la legislación básica a los que hacen referencia el artículo 4 y el apartado 1 del artículo 5.
+
+### Artículo 68
+
+Artículo 68. Infracciones imputables a altos cargos y asimilados o de carácter disciplinario.
+Son infracciones imputables a las personas que ocupan altos cargos y asimilados y al personal al servicio de las entidades previstas en el artículo 3 las siguientes:
+1. Infracciones muy graves:
+a) El incumplimiento de las obligaciones de publicidad activa previstas cuando se haya desatendido el requerimiento expreso del Consejo Valenciano de Transparencia.
+b) El incumplimiento de las resoluciones definitivas y firmes dictadas por el Consejo Valenciano de Transparencia que resuelvan reclamaciones en materia de acceso y de los acuerdos de mediación, una vez requerido el cumplimiento por el Consejo Valenciano de Transparencia.
+c) Ocultar deliberadamente la existencia de información pública para impedir el conocimiento y acceso.
+2. Infracciones graves:
+a) La falta de colaboración con el Consejo Valenciano de Transparencia cuando este haya solicitado datos o información para la tramitación de expedientes en materia de derecho de acceso o publicidad activa o para la evaluación de las obligaciones de transparencia.
+b) Denegar sin motivación las solicitudes de acceso a la información pública.
+c) Facilitar el acceso a la información en virtud de una solicitud de acceso incumpliendo de forma relevante las exigencias derivadas del principio de veracidad.
+3. Infracciones leves:
+a) El incumplimiento de las obligaciones de publicidad activa previstas en esta ley.
+b) El incumplimiento injustificado de la obligación de resolver en plazo la solicitud de acceso a la información pública.
+c) La demora injustificada en el envío de información que les solicite el Consejo Valenciano de Transparencia para la tramitación de expedientes en materia de derecho de acceso o publicidad activa o para la evaluación de las obligaciones de transparencia.
+
+### Artículo 69
+
+Artículo 69. Infracciones de otras entidades sujetas a obligaciones de publicidad activa.
+Son infracciones imputables a las entidades de naturaleza privada a que se refiere el artículo 4:
+1. Infracción muy grave: el incumplimiento de las obligaciones de publicidad activa que les sean de aplicación cuando se haya desatendido el requerimiento expreso del Consejo Valenciano de Transparencia.
+2. Infracción grave: el incumplimiento reiterado de las obligaciones de publicidad activa que les sean de aplicación, o publicar la información incumpliendo de forma relevante las exigencias derivadas del principio de veracidad.
+3. Infracción leve: el incumplimiento de las obligaciones de publicidad activa que se apliquen cuando no constituya infracción grave o muy grave.
+
+### Artículo 70
+
+Artículo 70. Infracciones de las personas obligadas al suministro de información.
+Son infracciones imputables a las personas físicas y jurídicas a las que se refiere el apartado 1 del artículo 5 las siguientes:
+1. Infracciones muy graves:
+a) El incumplimiento de la obligación de suministro de información que haya sido reclamada como consecuencia de un requerimiento del Consejo Valenciano de Transparencia o para dar cumplimiento a una resolución suya en materia de acceso a la información.
+b) La reincidencia en la comisión de faltas graves. Se entenderá por reincidencia la comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
+2. Infracciones graves:
+a) La falta de contestación al requerimiento de información.
+b) Suministrar la información incumpliendo de forma relevante las exigencias derivadas del principio de veracidad.
+c) La reincidencia en la comisión de faltas leves. Se entenderá por reincidencia la comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
+3. Infracciones leves:
+a) El retraso injustificado en el suministro de la información.
+b) El suministro parcial o en condiciones diferentes de las reclamadas sin causa justificada o fuera de los supuestos previstos en la ley.
+
+### Artículo 71
+
+Artículo 71. Sanciones aplicables a altos cargos y asimilados y al personal al servicio de las administraciones públicas.
+1. A las infracciones tipificadas en el artículo 68 que sean imputables a altos cargos y asimilados se les podrá aplicar una o más de las sanciones siguientes:
+a) En el caso de infracciones muy graves:
+1.º Declaración del incumplimiento y publicación en el «Diari Oficial de la Generalitat Valenciana», en todo caso.
+2.º Multa de entre 6.001 y 12.000 euros.
+3.º Cese en el cargo.
+4.º No poder ocupar ningún puesto de alto cargo o asimilado por un periodo de hasta cinco años.
+b) En el caso de infracciones graves:
+1.º Declaración del incumplimiento y publicación en el «Diari Oficial de la Generalitat Valenciana».
+2.º Multa de entre 601 y 6.000 euros.
+3.º Suspensión del ejercicio del cargo durante un periodo de entre tres y seis meses.
+c) En el caso de infracciones leves:
+1.º Amonestación.
+2.º Multa de hasta 600 euros.
+2. Al personal al servicio de las entidades previstas en el artículo 3, por la comisión de las infracciones tipificadas en el artículo 66 se les aplicará el régimen disciplinario que en cada caso resulte aplicable según la normativa.
+
+### Artículo 72
+
+Artículo 72. Sanciones a otras entidades.
+1. A las personas responsables de las infracciones previstas en los artículos 69 y 70 se les aplicarán las sanciones siguientes:
+a) Las infracciones muy graves se sancionarán con una multa comprendida entre 30.001 y 100.000 euros.
+b) Las infracciones graves se sancionarán con una multa comprendida entre 5.001 y 30.000 euros.
+c) Las infracciones leves se sancionarán con amonestación o multa comprendida entre 200 y 5.000 euros.
+2. Las infracciones graves y muy graves podrán comportar el reintegro total o parcial de la subvención concedida o, si procede, la resolución del contrato, concierto o vínculo establecido. Las infracciones muy graves pueden comportar, además, la prohibición de obtener subvenciones durante un periodo máximo de tres años. Para la imposición y graduación de estas sanciones accesorias habrá que ajustarse a la gravedad de los hechos y su repercusión, de acuerdo con el principio de proporcionalidad.
+
+### Artículo 73
+
+Artículo 73. Proporcionalidad y publicidad de las sanciones.
+1. Para la graduación de cada sanción habrá que ajustarse a los criterios establecidos por la normativa que regula los principios de la potestad sancionadora. Especialmente se tendrán en cuenta el grado de culpabilidad e intencionalidad, la reiteración o reincidencia, el daño o perjuicio para el interés público y la repercusión de la conducta en la ciudadanía.
+2. Las sanciones que se impongan por la comisión de infracciones muy graves y graves previstas en esta ley se harán públicas en el Portal de Transparencia, sin perjuicio de los supuestos en que tengan que ser objeto de publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+### Artículo 74
+
+Artículo 74. Procedimiento.
+1. Para la imposición de las sanciones establecidas en el presente título se aplicarán los principios y las reglas generales sobre el ejercicio de la potestad sancionadora. En el caso de infracciones imputables al personal al servicio de los sujetos obligados, se aplicará el régimen disciplinario funcionarial, estatutario o laboral que en cada caso proceda.
+2. El procedimiento se iniciará siempre de oficio por acuerdo del órgano competente, sea por iniciativa propia o como consecuencia de orden superior, a petición razonada otros órganos o por denuncia. Previamente a la incoación, este órgano podrá solicitar informe al Consejo Valenciano de Transparencia, como autoridad encargada de velar por el cumplimiento de las obligaciones de transparencia de esta ley.
+3. El Consejo Valenciano de Transparencia, cuando constate incumplimientos susceptibles de ser calificados en alguna de las infracciones previstas en este título, instará la incoación del procedimiento. En este caso, el órgano competente estará obligado a incoar el procedimiento y a comunicar al Consejo Valenciano de Transparencia las actuaciones realizadas y el resultado del procedimiento.
+4. Todas las resoluciones que pongan fin a los procedimientos sancionadores que se instruyan habrán de contar con un informe previo y preceptivo del Consejo Valenciano de Transparencia. La petición y emisión de este informe supondrá la suspensión del transcurso del plazo para resolver el procedimiento.
+5. El plazo máximo para resolver el procedimiento será de seis meses desde su iniciación. Si transcurrido este plazo no se hubiera dictado resolución, se producirá la caducidad de acuerdo con lo previsto en la normativa reguladora del procedimiento administrativo común de las administraciones públicas.
+
+### Artículo 75
+
+Artículo 75. Competencias sancionadoras en materia de transparencia.
+1. La competencia para la imposición de sanciones disciplinarias atribuibles al personal al servicio de los sujetos obligados incluidos en el artículo 3 corresponde al órgano que determine la normativa aplicable en la administración u organización en la que preste servicios la persona infractora.
+2. La competencia sancionadora para la imposición de las sanciones por infracciones atribuibles a altos cargos y asimilados de los sujetos obligados incluidos en el artículo 3 queda atribuida de la manera siguiente:
+a) Los órganos competentes para ordenar la incoación de los expedientes sancionadores son:
+1.º El Consell, a propuesta de la conselleria competente en materia de transparencia, en el caso de altos cargos que tengan la condición de miembro del Consell u ocupen el cargo de la secretaría autonómica.
+2.º La persona titular de la conselleria competente en materia de transparencia, en el caso de otros altos cargos y asimilados de la administración de la Generalitat o de su sector público instrumental diferentes de los anteriores.
+3.º En el caso de las universidades públicas, el órgano que determine su normativa aplicable y, si recae en el sujeto presuntamente responsable de la infracción, el máximo órgano colegiado de gobierno.
+4.º En el caso de altos cargos y asimilados al servicio de la administración local, el órgano que determine su normativa aplicable y, si recae en el sujeto presuntamente responsable de la infracción, el máximo órgano colegiado de gobierno, el pleno.
+b) La instrucción de los procedimientos corresponde a los siguientes órganos:
+1.º El centro directivo que tenga atribuida la inspección general de servicios, en el supuesto de que la persona infractora sea un alto cargo de la administración de la Generalitat o de su sector público instrumental.
+2.º En el caso de las universidades públicas, el órgano que se determine en su normativa.
+3.º El órgano que corresponda de acuerdo con la normativa de régimen local, en el caso de infracciones cometidas en el ámbito de la administración local.
+c) La competencia para la imposición de las sanciones corresponde:
+1.º Al Consell, en el caso de altos cargos que tengan la condición de miembro del Consejo u ocupen el cargo de la secretaría autonómica.
+2.º A la persona titular de la conselleria competente en materia de transparencia, en el caso de otros altos cargos y asimilados de la administración de la Generalitat o de su sector público instrumental diferentes de los anteriores.
+3.º En el caso de las universidades públicas, al órgano que determine su normativa aplicable y, si recae en el sujeto presuntamente responsable de la infracción, al máximo órgano colegiado de gobierno.
+4.º En el caso de altos cargos y asimilados al servicio de la administración local, al órgano que determine su normativa aplicable y, si recae en el sujeto presuntamente responsable de la infracción, al máximo órgano colegiado de gobierno, el pleno.
+d) Cuando el alto cargo o asimilado presuntamente infractor esté adscrito a la conselleria competente en materia de transparencia, la incoación, la instrucción y la resolución del procedimiento sancionador las realizarán los órganos correspondientes de la conselleria que se determine reglamentariamente en función de la estructura orgánica del Consell.
+e) En el caso de las corporaciones de derecho público, las federaciones deportivas, las asociaciones constituidas por las administraciones públicas y el resto de entidades del artículo 3 no recogidas en las letras a, b y c de este apartado, la incoación, la instrucción y la resolución del procedimiento sancionador las realizarán los órganos que determinen sus estatutos o normativa aplicable.
+3. En el supuesto de infracciones de las tipificadas en el artículo 69, la potestad sancionadora la debe ejercer la persona titular de la conselleria competente en materia de transparencia.
+4. Para las infracciones previstas en el artículo 70, la competencia corresponde al órgano que determine la normativa aplicable en la administración o entidad a la cual se encuentre vinculada la persona infractora, o por la entidad titular del servicio público.
+Se modifica la letra b) del apartado 2 por el art. 232 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 76
+
+Artículo 76. Competencias sancionadoras en materia de buen gobierno.
+1. En el ámbito de la administración de la Generalitat y de su sector público instrumental, las competencias sancionadoras previstas en materia de buen gobierno en el título II de la Ley 19/2013, de 9 de diciembre, quedan atribuidas a:
+a) El órgano competente para ordenar la incoación de los expedientes sancionadores:
+1.º Cuando el alto cargo sea miembro del Consell o titular de una secretaría autonómica, el Consell, a propuesta de la persona titular de la conselleria que tenga atribuida la competencia en materia de transparencia.
+2.º Cuando sean personas diferentes de las anteriores, la persona titular de la conselleria que tenga atribuida la competencia en materia de transparencia.
+b) La instrucción de los procedimientos corresponderá al centro directivo que tenga atribuida la inspección general de servicios.
+c) La competencia para la imposición de sanciones corresponde:
+1.º Al Consell, cuando el alto cargo tenga la condición de miembro de este o sea titular de una secretaría autonómica, a propuesta de la persona titular de la conselleria que tenga atribuida la competencia en materia de transparencia.
+2.º A la persona titular de la conselleria competente que tenga atribuida la competencia en materia de transparencia, cuando sea una persona distinta de las anteriores.
+2. En el resto de sujetos obligados comprendidos en el ámbito de aplicación de esta ley, las competencias sancionadoras corresponden a los órganos a los que se atribuye esta competencia de acuerdo con la normativa que se les aplique.
+Se modifica por el art. 232 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Disposición adicional primera
+
+Disposición adicional primera. Aplicación a los regímenes especiales del derecho de acceso a la información pública.
+Aquellas materias que tengan previsto un régimen jurídico específico de acceso a la información se regirán por su normativa específica y, supletoriamente, por esta ley y por la Ley 19/2013, de 9 de diciembre. En estos supuestos, solo se podrán aplicar límites o restricciones no previstas por esta ley cuando estén determinadas por una norma con rango de ley.
+En todos los casos, el Consejo Valenciano de Transparencia será competente para velar por el cumplimiento del derecho de acceso a la información pública y conocer las reclamaciones contra los actos y las resoluciones que se dicten de concesión o denegación total o parcial de acceso a la información pública, con la excepción de las previstas en el apartado 4 del artículo 38. Este sistema de garantía será compatible con la aplicación de los mecanismos de garantías que regule la normativa específica, en su caso.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Medidas generales de aplicación de la ley.
+1. Las diputaciones provinciales, en el marco de sus competencias, prestarán la asistencia técnica necesaria para el cumplimiento de las obligaciones de transparencia y buen gobierno por parte de aquellos municipios que así lo precisen por su dimensión poblacional o porque cuentan con insuficiente capacidad económica y de gestión. Sin perjuicio de ello, la administración de la Generalitat podrá adoptar medidas de colaboración con el resto de administraciones públicas para facilitar el cumplimiento de las obligaciones establecidas en esta ley por parte de las entidades de la administración local.
+En este sentido, la administración de la Generalitat, en colaboración con las diputaciones provinciales y con la Federación Valenciana de Municipios y Provincias, establecerá un programa de apoyo a las entidades locales, especialmente a las que dispongan de menos recursos y capacidad técnica y operativa, para aplicar sus obligaciones de transparencia y buen gobierno. Este programa incluirá apoyo tecnológico, técnico y jurídico, así como asistencia, formación y asesoramiento.
+2. La administración de la Generalitat adoptará medidas de apoyo para facilitar el cumplimiento de las obligaciones de esta ley por las entidades privadas para las que la ley establece obligaciones de transparencia vinculadas a la percepción de fondos públicos, especialmente para las pymes para ser las que fundamentan la estructura económica valenciana y las que disponen de menos recursos. En este sentido, se elaborarán guías o protocolos, y en las convocatorias de subvenciones o los convenios suscritos se preverán medidas específicas que faciliten el acceso a los medios necesarios para el cumplimiento de estas obligaciones.
+3. La administración de la Generalitat podrá establecer medidas complementarias e instrumentos de colaboración con el resto de instituciones y entidades sujetas a las obligaciones de transparencia de esta ley, y especialmente con las corporaciones de derecho público y las federaciones deportivas, dirigidas a facilitar el cumplimiento de estas obligaciones y promover la interoperabilidad y el acceso a la información sujeta a publicidad.
+4. Al efecto de lo dispuesto en el apartado 4 del artículo 11, para cumplir las obligaciones de transparencia que establece esta ley se crearán o adaptarán las aplicaciones informáticas necesarias en atención a los principios de austeridad en los gastos y de sostenibilidad financiera, todo a fin de evitar duplicidades innecesarias.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Adaptaciones organizativas y de funcionamiento.
+1. Los sujetos incluidos en el ámbito de aplicación de esta ley promoverán y realizarán las adaptaciones organizativas, procedimentales y de régimen interno que sean necesarias para ajustar su actividad a lo establecido en esta ley, de acuerdo con lo previsto en el apartado 5 del artículo 10.
+2. En la administración de la Generalitat y su sector público instrumental se llevarán a cabo las adaptaciones que sean pertinentes en las normas organizativas de los departamentos para adaptarlas a lo previsto en el capítulo VI del título I y los artículos 42 y 47 de esta ley.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Corts Valencianes e instituciones estatutarias.
+De acuerdo con el régimen institucional y la independencia de las Corts Valencianes y de las instituciones recogidas por el artículo 20.3 del Estatuto de autonomía, estas instituciones promoverán las modificaciones necesarias de sus reglamentos o normas de gobierno para adaptar su régimen y funcionamiento a los principios y las obligaciones contenidas en esta ley y aplicarla en su ámbito de acuerdo con su naturaleza institucional. Especialmente, y entre otros, en cuanto a los siguientes aspectos:
+1. Facilitar el acceso de las ciudadanas y los ciudadanos a la documentación y la información parlamentarias y de las instituciones incluidas en el artículo 20.3 del Estatuto de autonomía.
+2. Facilitar la información relativa a los diputados y diputadas y a las personas que ocupen cargos o comisionados, incluyendo sus currículums o perfiles profesionales, la agenda, las retribuciones íntegras, los obsequios percibidos y, si procede, las declaraciones de actividades y bienes, y garantizar la publicación de la información relativa al personal eventual.
+3. Desarrollar y definir en su propio ámbito los principios de ética pública y buen gobierno y adoptar los códigos correspondientes para diputados y diputadas y para los miembros de cada institución.
+4. Establecer y regular su propio portal de transparencia, sea de manera exclusiva, mancomunada o en colaboración.
+5. Establecer el correspondiente sistema de garantías propio para asegurar el cumplimiento de las obligaciones previstas en la ley, que incluirá un procedimiento de reclamación frente a resoluciones en materia de derecho de acceso ante una comisión colegiada constituida en el seno de cada institución. La información sobre esta vía de reclamación se incluirá en las resoluciones que se dicten en esta materia y estará accesible en sus portales web.
+6. Establecer el procedimiento interno y especificar los órganos competentes para resolver las solicitudes de acceso a la información.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Plan de formación de la Generalitat.
+1. El plan anual de formación para el personal empleado público de la administración de la Generalitat, elaborado por la Escuela Valenciana de Administración Pública (EVAP), incluirá un ámbito formativo específico en materia de transparencia y buen gobierno, que ofrezca acciones formativas en las materias de transparencia, apertura y reutilización de datos, buen gobierno e integridad y ética pública.
+2. Independientemente de ello, también se debe habilitar, con carácter obligatorio, al menos una acción formativa en la categoría de autoformación sobre este ámbito formativo específico.
+3. La Generalitat podrá colaborar con otras administraciones públicas o entidades del sector público con este fin.
+4. La conselleria competente en materia de transparencia debe impulsar la formación y la sensibilización en la materia mediante convenios de colaboración con universidades y otras instituciones públicas y centros de investigación.
+5. Anualmente se deberá elaborar una memoria de actividades y objetivos conseguidos. Esta información se deberá publicar en el Portal de Transparencia de la Generalitat.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Evaluación del cumplimiento de las obligaciones de transparencia.
+1. El Consejo Valenciano de Transparencia adoptará sistemas de indicadores objetivos para la evaluación del cumplimiento por los sujetos obligados de las obligaciones de transparencia que establece esta ley, especialmente para las obligaciones de publicidad activa.
+2. Las entidades incluidas en el ámbito de aplicación de esta ley tienen el deber de colaborar con el Consejo Valenciano de Transparencia para la evaluación del cumplimiento de las obligaciones de transparencia, para lo cual deben seguir las directrices o indicaciones que se establezcan.
+3. Para la elaboración del sistema de indicadores para la evaluación se podrán establecer mecanismos de colaboración con las administraciones públicas, las universidades públicas valencianas y las autoridades de transparencia del Estado y del resto de las comunidades autónomas.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Habilitación de créditos.
+1. La conselleria competente en materia de hacienda habilitará los créditos y realizará, si procede, las modificaciones presupuestarias necesarias para la puesta en funcionamiento del Consejo Valenciano de Transparencia, en relación con los puestos a los cuales hacen referencia los artículos 47 y 49.
+2. A efectos de la constitución de las unidades administrativas específicas a que se refiere el artículo 45, cada uno de los departamentos del Consell así como cada una de las entidades y sujetos que conforman el sector público instrumental de la Generalitat financiarán, con cargo a su presupuesto, la dotación de medios personales y materiales. En este mismo sentido, la conselleria competente en materia de transparencia dotará, con cargo a su presupuesto, los medios personales y materiales necesarios para asumir las nuevas funciones establecidas en la presente ley. A estos efectos, se tendrán en cuenta estas funciones en la elaboración del proyecto de presupuestos de la Generalitat.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Remisiones normativas.
+Las referencias normativas efectuadas en otras normas a las disposiciones de la Ley 2/2015, de 2 de abril, de la Generalitat, de transparencia, buen gobierno y participación ciudadana de la Comunitat Valenciana, que se derogan, a excepción de las que se refieran a las disposiciones de su título V, se entenderán realizadas a los preceptos correspondientes de esta ley.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Mandato de los miembros del Consejo de Transparencia, Acceso a la Información Pública y Buen Gobierno.
+El Consejo Valenciano de Transparencia regulado en esta ley sustituye al Consejo de Transparencia, Acceso a la Información Pública y Buen Gobierno. Las personas que en el momento de la entrada en vigor de esta ley forman parte del Consejo de Transparencia, Acceso a la Información Pública y Buen Gobierno continuarán en su actual régimen jurídico hasta la conclusión de su periodo de mandato y el nombramiento de los nuevos miembros del Consejo Valenciano de Transparencia.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Régimen transitorio en materia de publicidad activa.
+Se mantendrá vigente el capítulo I del título I de la Ley 2/2015, de 2 de abril, de la Generalitat, de transparencia, buen gobierno y participación ciudadana de la Comunitat Valenciana, hasta que no se produzca la entrada en vigor del capítulo II del título I de la presente ley, de acuerdo con lo previsto en la disposición final segunda de esta ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Aplicación de las disposiciones relativas al plan de gobierno.
+Las actuaciones previstas en el capítulo I del título IV, relativas al plan de gobierno, serán exigibles a partir de la toma de posesión de un nuevo Consell al inicio de la siguiente legislatura.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Con la entrada en vigor de esta ley quedan derogados, de la Ley 2/2015, de 2 de abril, de la Generalitat, de transparencia, buen gobierno y participación ciudadana de la Comunitat Valenciana, los artículos de 2 a 6, ambos incluidos; los títulos I, II, III y IV en su totalidad, y las disposiciones adicionales. También se derogan los apartados 1 y 2 del artículo 1, cuyo contenido pasa a ser párrafo único.
+Así mismo, quedan derogadas todas las disposiciones del mismo rango o de un rango inferior que se opongan a lo establecido en esta ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación del título de la Ley 2/2015, de 2 de abril, de la Generalitat, de transparencia, buen gobierno y participación ciudadana de la Comunitat Valenciana.
+Se modifica el título de la Ley 2/2015, de 2 de abril, de la Generalitat, de transparencia, buen gobierno y participación ciudadana de la Comunitat Valenciana, que pasa a denominarse Ley de participación ciudadana de la Comunitat Valenciana.
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo y marco legal.
+1. Se faculta al Consell para que desarrolle reglamentariamente las disposiciones contenidas en esta ley.
+2. Permanecerán en vigor, en todo lo que no se oponga a esta ley y hasta que no se deroguen expresamente, el Decreto 105/2017, de 28 de julio, del Consell, de desarrollo de la Ley 2/2015, de 2 de abril, de la Generalitat, en materia de transparencia y de regulación del Consejo de Transparencia, Acceso a la Información Pública y Buen Gobierno, y el Decreto 56/2016, del Consell, de 6 de mayo, por el cual se aprueba el Código de buen gobierno de la Generalitat. El Consell tendrá que realizar, si procede, las modificaciones normativas necesarias para adaptar el contenido de estos decretos a lo que establece esta ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La entrada en vigor de esta ley se producirá de acuerdo con las siguientes reglas:
+1. El capítulo II del título I, relativo a la publicidad activa, entrará en vigor al cabo de doce meses de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+2. Los artículos 39 y 49 entrarán en vigor en el momento en que finalice el periodo de mandato de las personas integrantes del Consejo de Transparencia, Acceso a la Información Pública y Buen Gobierno y se nombren los miembros del Consejo Valenciano de Transparencia.
+3. El resto del articulado entrará en vigor al cabo de veinte días de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos y todas las ciudadanas, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+València, 13 de abril de 2022.–El President de la Generalitat, Ximo Puig i Ferrer.

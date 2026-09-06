@@ -1,0 +1,1462 @@
+# Ley Orgánica 4/1987, de 15 de julio, de la Competencia y Organización de la Jurisdicción Militar.
+
+- Identificador BOE: `BOE-A-1987-16791`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-16791
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presenten vieren y entendieren.
+Sabed: que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+PREÁMBULO
+La jurisdicción militar tiene su origen en la misma génesis de los Ejércitos permanentes y ha sido siempre una jurisdicción especializada, carácter que se deriva de la naturaleza del Derecho que aplica y del ámbito institucional en que se ejerce.
+La Constitución establece los principios reguladores de la actividad jurisdiccional y en ella se sienta la unicidad del Poder Judicial del Estado, manteniéndose la especialidad de la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio, con sometimiento, en todo caso, a los principios constitucionales, conforme al artículo 117.5 del texto fundamental.
+La presente Ley Orgánica innova profundamente los criterios y formas originarios que partiendo del siglo XIX han regido hasta hoy. Se pretende con ello un texto que respondiendo a las corrientes doctrinales del derecho comparado, a las exigencias de la sociedad actual y a los valores tradicionales de la Institución militar, asegure largo tiempo una eficaz administración de justicia castrense.
+Se atribuye, exclusiva y excluyentemente, la función jurisdiccional a los órganos judiciales militares, quedando fuera de ella los órganos de mando a los que tradicionalmente se les había concedido el ejercicio de jurisdicción.
+Se reconoce, no obstante, legitimación especial en el recurso de casación a los Mandos Militares Superiores, al objeto de que estos puedan velar, en el seno de la jurisdicción, por la disciplina y otros intereses esenciales de los Ejércitos.
+La máxima garantía de una recta administración de justicia se centra en la independencia de los órganos judiciales y, en el seno de la jurisdicción castrense, la presente Ley se orienta en esa línea consagrando la inamovilidad, la responsabilidad y la sumisión exclusiva al imperio de la ley de quienes desempeñan esta función, haciéndose un verdadero esfuerzo por lograr la definición positiva de esa independencia para los órganos judiciales militares.
+Junto al afán por la independencia, se ha de destacar lo realizado para establecer un sistema de constitución de los órganos judiciales que garantice su predeterminación.
+La tecnificación jurídica de los órganos es otra de las finalidades de la Ley, que respeta, no obstante, la tradicional composición mixta de los Tribunales castrenses de técnicos en derecho y profesionales de las Armas y que tiene también su respaldo constitucional en la Institución del Jurado.
+Así se consigue una acertada administración de justicia al proceder, parte de los juzgadores, del ambiente en que se ha producido el hecho que será objeto de su decisión.
+La competencia de la jurisdicción militar se circunscribe en tiempo de paz al ámbito estrictamente castrense, conociendo de las conductas tipificadas como delito en el Código Penal Militar y extendiendo su competencia a cualquier clase de delito en el supuesto de tropas desplazadas fuera del territorio nacional. Para en situación de conflicto armado, la Ley Orgánica prevé una modificación de ese ámbito, si bien la decisión compete a las Cortes Generales y, en caso de que estuviere autorizado, al Gobierno. Se confiere también a los Tribunales Militares la tutela jurisdiccional de la potestad disciplinaria militar, sustantivamente regulada en la Ley Orgánica 12/1985, de 27 de noviembre. Sin que ello signifique terciar en la vieja polémica sobre la naturaleza, penal o administrativa, de lo disciplinario, se estima que el ámbito estrictamente castrense, constitucionalmente erigido en fundamento de la jurisdicción militar pero normativamente indeterminado, comprende también la potestad disciplinaria, ejercida en los distintos escalones de la organización esencialmente jerárquica de las Fuerzas Armadas, como tiene reconocido el Tribunal Constitucional.
+Partiendo de los principios enumerados y siguiendo, en el máximo paralelismo posible, los criterios de la Ley Orgánica del Poder Judicial, a la que se hace una efectiva aproximación, se plantea la organización de los Tribunales Militares en la doble realidad de tiempo de paz y en situación de conflicto armado.
+En el primero, con normal funcionamiento de todas las instituciones, las exigencias formales se acentúan, aminorándolas en el segundo, no por una disminución de garantías que pueden ser más exigibles cuando es posible llegar a la imposición de penas más graves, sino para cubrir una flexibilidad imprescindible para la adaptación de los órganos judiciales militares a las necesidades de unas Fuerzas Armadas en operaciones.
+La creación de una Sala de lo Militar en el Tribunal Supremo, sujeta en su régimen y en el estatuto de sus miembros a las mismas normas que las demás Salas, supone la unidad en el vértice, de las dos jurisdicciones que integran el Poder Judicial.
+La composición de dicha Sala por Magistrados procedentes de la jurisdicción ordinaria y de la militar, es una garantía de ponderación en una actuación jurisdiccional del más elevado rango, normalmente llamada a actuar en valoraciones de casación y revisión, aun cuando se respete, como es lógico, una reserva de fuero personal para quienes ostenten determinados altos empleos a cargos militares, cuyas conductas serian enjuiciadas por esta Sala.
+A partir del Tribunal Militar Central, ya aparece el escabinado al que antes se había hecho referencia, y este Tribunal soporta, junto con los Tribunales Militares Territoriales, el peso de la actividad jurisdiccional, que se distribuye en función del empleo de los encausados, a fin de respetar la jerarquía militar, sin cuya garantía quebraría la disciplina como sostén imprescindible de la eficacia operativa de la Fuerza. La composición de uno y otros se determina en razón de tales empleos, tanto para los Vocales Togados como para los Vocales Militares. La instrucción se atribuye a los Juzgados Togados Militares, ya sean centrales o territoriales, en función del órgano que debe conocer del procedimiento, previéndose la posibilidad de que Jueces Togados acompañen a Fuerzas españolas, que, en cumplimiento de una misión en tiempo de paz, deban salir del suelo nacional.
+Es preciso destacar, en la organización que se establece, que las funciones judiciales tienden a profesionalizarse definitivamente, y se atribuyen, salvo las propias de los Vocales Militares, a miembros de los Cuerpos Jurídicos de los Ejércitos.
+Novedad importante es la nueva estructuración dada a la Fiscalía Jurídico Militar, que se hace depender del Fiscal General del Estado, y se integra en el Ministerio Fiscal. Con la dependencia indicada se organizan los diferentes niveles de su posible actuación, Sala de lo Militar del Tribunal Supremo.
+Tribunal Militar Central y Tribunales Militares Territoriales fijándose las funciones que por delegación «ope legis» tienen atribuidas el Fiscal Togado y los Fiscales de los diferentes Tribunales Militares.
+Por otro lado, en virtud de las previsiones de esta Ley y en la forma que se determine en la Ley procesal, el procedimiento se abre a los intereses de los inculpados y perjudicados. Se garantiza la defensa letrada en los términos previstos en la Constitución, salvándose las especialidades que pueden deducirse de situaciones excepcionales fuera del suelo nacional y en buques navegando, y se permite la actuación del acusador particular y del actor civil, excepto en los casos en que el autor del hecho y el perjudicado fueran militares y mediare entre ellos una relación de subordinación, siguiendo en este aspecto la doctrina del Tribunal Constitucional.
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+## TÍTULO PRELIMINAR
+
+De la jurisdicción militar y del ejercicio de la potestad jurisdiccional militar
+
+### Artículo 1
+
+La jurisdicción militar, integrante del Poder Judicial del Estado, administra justicia en nombre del Rey, con arreglo a los principios de la Constitución y a las leyes.
+
+### Artículo 2
+
+El ejercicio de la potestad jurisdiccional militar, juzgando y haciendo ejecutar lo juzgado, en los asuntos de su competencia, corresponde exclusivamente a los órganos judiciales militares establecidos por esta Ley.
+
+### Artículo 3
+
+Todo órgano judicial militar, en el ámbito de su competencia, será Juez ordinario predeterminado por la Ley.
+
+### Artículo 4
+
+La jurisdicción militar se extiende a materia penal, tutela jurisdiccional en vía disciplinaria y demás materias que, en garantía de algún derecho y dentro del ámbito estrictamente castrense, vengan determinadas por las leyes así como las que establezca la declaración de estado de sitio.
+
+### Artículo 5
+
+La Constitución, las leyes, los tratados, convenios y acuerdos internacionales en los que sea parte España, vinculan a los órganos de la jurisdicción militar.
+Cuando un órgano de la jurisdicción militar considere que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la constitución, planteara la cuestión ante el Tribunal Constitucional con arreglo a lo que establece su ley orgánica.
+Procederá el planteamiento de la cuestión de inconstitucionalidad cuando por vía interpretativa no sea posible la acomodación de la norma al ordenamiento constitucional.
+Las normas jurídicas inferiores en rango a la Ley, que vulneren ésta o no respeten el principio de jerarquía normativa, no serán aplicadas por los órganos judiciales militares.
+Los órganos judiciales militares rechazarán fundadamente las peticiones, incidentes y excepciones que entrañen fraude de ley o procesal o que se formulen con manifiesto abuso de derecho.
+
+### Artículo 6
+
+Todos están obligados a respetar la independencia de los órganos que ejercen la jurisdicción militar.
+Los órganos de la propia jurisdicción, no podrán corregir la aplicación o interpretación del ordenamiento jurídico hecha por órganos judiciales inferiores, sino en virtud de la resolución de los recursos que las leyes establezcan, ni dictarles instrucciones a este respecto.
+
+### Artículo 7
+
+Para la efectividad de las funciones señaladas en los artículos anteriores, los órganos judiciales militares podrán, en la forma que dispongan las Leyes, incoar procesos, adoptar en estos las medidas precisas para el aseguramiento de las personas y de sus bienes, exigir la comparecencia de testigos y de peritos y la aportación de documentos, piezas de convicción y demás instrumentos de prueba.
+Los órganos judiciales militares podrán requerir la colaboración necesaria en el curso del proceso y en la ejecución de lo resuelto de todas las personas y Entidades públicas y privadas, con las excepciones que establezcan la Constitución y las leyes.
+Los gastos y remuneraciones que se produzcan como consecuencia de las actuaciones comprendidas en los dos párrafos anteriores serán abonados conforme a la ley.
+Todos acatarán y cumplirán las sentencias y demás resoluciones de los órganos judiciales militares, sin perjuicio del derecho de gracia cuyo ejercicio, de acuerdo con la Constitución y las leyes corresponde al Rey.
+
+### Artículo 8
+
+En el ejercicio de sus funciones, los miembros de los órganos judiciales militares serán independientes, inamovibles, responsables y sometidos únicamente al imperio de la Ley.
+Su nombramiento, designación y cese se hará en la forma prevista en esta Ley y no podrán ser separados, suspendidos, trasladados ni retirados, sino en los casos y con las garantías establecidas en las leyes.
+Responderán penal y civilmente en los casos y en la forma determinados en las leyes y disciplinariamente por las faltas e infracciones que cometan, en el ejercicio de sus funciones, con arreglo a lo prevenido en esta Ley.
+
+### Artículo 9
+
+Las personas a que se refiere el artículo anterior, que se consideren perturbadas en su independencia, lo pondrán en conocimiento del Consejo General del Poder Judicial a través de la Sala de Gobierno del Tribunal Militar Central, dando cuenta de los hechos al Juez o Tribunal competente para seguir el procedimiento adecuado, sin perjuicio de practicar por sí mismos las diligencias estrictamente indispensables para asegurar la acción de la justicia y restaurar el orden jurídico.
+A los miembros de Sala de lo Militar del Tribunal Supremo les será de aplicación lo dispuesto a estos fines en la Ley Orgánica del Poder Judicial.
+El Ministerio Fiscal y en particular la Fiscalía Jurídico Militar, por sí o a petición de aquéllos, promoverá las acciones pertinentes o instará, según los casos, lo que proceda en defensa de la independencia de los órganos judiciales militares.
+
+### Artículo 10
+
+La justicia militar se administrará gratuitamente.
+
+### Artículo 11
+
+La intervención de los militares en la administración de la justicia militar o en los procesos militares, en cualquier concepto, se considerará acto de servicio preferente en las Fuerzas Armadas.
+
+## TÍTULO I
+
+De los límites de la jurisdicción militar, de los conflictos de jurisdicción y de las cuestiones de competencia
+
+## CAPÍTULO I
+
+De la competencia de la jurisdicción militar
+
+### Artículo 12
+
+En tiempo de paz, la jurisdicción militar será competente en materia penal para conocer de los siguientes delitos y faltas:
+1. Los comprendidos en el Código Penal Militar. Salvo lo dispuesto en el artículo 14, en todos los demás casos la Jurisdicción Militar conocerá de los delitos comprendidos en el Código Penal Militar, incluso en aquellos supuestos en que siendo susceptibles de ser calificados con arreglo al Código Penal común, les corresponda pena más grave con arreglo a este último, en cuyo caso se aplicará éste.
+1. bis. Los previstos en los Capítulos I al VIII del Título XX del Libro Segundo del Código Penal, cometidos en relación con los delitos y procedimientos militares o respecto a los órganos judiciales militares y establecimientos penitenciarios militares.
+Téngase en cuenta que el apartado 1 bis añadido por la disposición final 1.2 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+2. Los cometidos durante la vigencia del estado de sitio que se determinen en su declaración, conforme a la Ley Orgánica que lo regula.
+3. Aquellos que señalen los tratados, acuerdos o convenios internacionales en que España sea parte, en los casos de presencia permanente o temporal fuera del territorio nacional de Fuerzas o Unidades españolas de cualquier ejército.
+4. En los casos del número anterior y cuando no existan tratados, acuerdos o convenios aplicables, todos los tipificados en la legislación española siempre que el inculpado sea español y se cometan en acto de servicio o en los lugares o sitios que ocupan Fuerzas o Unidades militares españolas. En este supuesto, si el inculpado regresare a territorio nacional y no hubiera recaído sentencia, los órganos de la jurisdicción militar se inhibirán en favor de la ordinaria, salvo en los supuestos contemplados en los números 1 y 2 de este artículo.
+Se añade el apartado 1 bis, con efectos de 15 de enero de 2016, por la disposición final 1.2 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se modifica el apartado 1 por la disposición adicional 6 de la Ley Orgánica 2/1989, de 13 de abril. Ref. BOE-A-1989-8712
+
+### Artículo 13
+
+En situación de conflicto armado y en el ámbito que determine el Gobierno, además de lo dispuesto en el artículo anterior, la jurisdicción militar se extenderá a los siguientes delitos y faltas:
+1. Los que se determinen en tratados con potencia u organización aliadas.
+2. Los comprendidos en la legislación penal común, cuyo conocimiento se le atribuya por las leyes, por las Cortes Generales, o por el Gobierno, cuando estuviere autorizado para ello.
+3. Todos los tipificados en la legislación española, si se cometen fuera del suelo nacional, y el inculpado es militar español o persona que siga a las Fuerzas o Unidades españolas.
+4. Todos los cometidos por prisioneros de guerra.
+Téngase en cuenta que el párrafo final queda sin contenido por la disposición final 1.3 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. a partir del 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "A los efectos de esta Ley la locución «tiempo de guerra» se entenderá en los términos definidos en el artículo 14 del Código Penal Militar."
+Se modifica la expresión "tiempo de guerra" por "en situación de conflicto armado" y se deja sin contenido el párrafo final, con efectos de 15 de enero de 2016, por la disposición final 1.1 y 3 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Artículo 14
+
+La jurisdicción a que esté atribuido el conocimiento del delito que tenga señalada legalmente pena más grave, conocerá de los delitos conexos.
+Si sobreseyese el procedimiento en relación con el delito de pena más grave, dejará de conocer de los conexos de los que no sea competente.
+
+### Artículo 15
+
+Se considerarán delitos conexos:
+1. Los cometidos simultáneamente o con unidad de acción por dos o más personas reunidas.
+2. Los cometidos por dos o más personas en distintos lugares o tiempo si hubiere precedido concierto para ello.
+3. Los cometidos como medio para perpetrar o facilitar la ejecución de otros, procurar su impunidad o la aplicación de penas menos graves.
+
+### Artículo 16
+
+La jurisdicción que conozca de un procedimiento conocerá asimismo de todas sus incidencias.
+
+### Artículo 17
+
+Corresponde a la jurisdicción militar la tutela de los derechos de quienes recurran contra sanciones impuestas en aplicación de la Ley Orgánica de Régimen Disciplinario de las Fuerzas Armadas, de los derechos que concedan las normas de su desarrollo y la tutela jurisdiccional de quienes recurran contra sanciones impuestas en vía disciplinaria judicial militar.
+
+### Artículo 18
+
+También será competente la jurisdicción militar para imponer sanciones en vía disciplinaria judicial a todos cuantos intervengan en los procedimientos judiciales militares y a los que infrinjan la policía de estrados.
+
+## CAPÍTULO II
+
+De los conflictos de jurisdicción
+
+### Artículo 19
+
+Todos los órganos judiciales militares podrán promover y sostener conflictos de jurisdicción con las Administraciones públicas y con los Juzgados y Tribunales de la jurisdicción ordinaria.
+El procedimiento para su tramitación será el establecido en la Ley de Conflictos Jurisdiccionales.
+
+## CAPÍTULO III
+
+De las cuestiones de competencia entre los órganos judiciales militares
+
+### Artículo 20
+
+Ningún órgano judicial militar podrá promover cuestión de competencia a otro de nivel superior. Se exceptúan, no obstante, los Juzgados Togados Militares respecto a los Tribunales Militares Territoriales a cuyo territorio no pertenezcan. A estos efectos la Sala de Justicia del Tribunal Militar Central se entenderá de nivel superior a los Tribunales Militares Territoriales.
+El órgano judicial militar de nivel superior, previa audiencia de las partes y de la Fiscalía jurídico-militar por plazo común de diez días, fijará sin ulterior recurso, su propia competencia. Acordado lo procedente, recabará las actuaciones del órgano judicial militar inferior o le remitirá las que se hallare conociendo.
+
+### Artículo 21
+
+Fuera de los supuestos del artículo anterior, las cuestiones de competencia que se susciten entre órganos judiciales militares se regularán en la Ley Procesal Militar.
+
+## TÍTULO II
+
+De la composición y atribuciones de la Sala de lo Militar del Tribunal Supremo, de los Tribunales y de los Juzgados Militares
+
+## CAPÍTULO I
+
+De la Sala de lo Militar del Tribunal Supremo
+
+### Artículo 22
+
+Se crea, en el Tribunal Supremo, la Sala Quinta de lo Militar.
+
+### Artículo 23
+
+La Sala de lo Militar del Tribunal Supremo conocerá:
+1. De los recursos de casación y revisión que establezca la Ley, contra las resoluciones del Tribunal Militar Central y de los Tribunales Militares Territoriales.
+2. De la instrucción y enjuiciamiento en única instancia de los procedimientos por delitos y faltas no disciplinarias, que sean de la competencia de la Jurisdicción Militar, contra los Capitanes Generales, Generales de Ejército, Almirantes Generales y Generales del Aire, Tenientes Generales y Almirantes cualquiera que sea su situación militar, miembros del Tribunal Militar Central, Fiscal Togado, Fiscales de la Sala de lo Militar del Tribunal Supremo y Fiscal del Tribunal Militar Central.
+Téngase en cuenta que esta última actualización del apartado 2 establecida por la disposición final 1.4 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "2. De la instrucción y enjuiciamiento en única instancia de los procedimientos por delitos y faltas no disciplinarias, que sean competencia de la Jurisdicción Militar, contra los Generales de Ejército, Almirantes Generales y Generales del Aire, Tenientes Generales y Almirantes cualquiera que sea su situación militar, miembros del Tribunal Militar Central, Fiscal Togado, Fiscales de la Sala de lo Militar del Tribunal Supremo y Fiscal del Tribunal Militar Central."
+3. De los incidentes de recusación contra uno o dos Magistrados de la Sala o contra más de dos miembros de la Sala de Justicia del Tribunal Militar Central.
+4. De los recursos contra las resoluciones dictadas por el Magistrado Instructor a que hace referencia el artículo 30, en los casos en que determine la Ley procesal.
+5. De los recursos jurisdiccionales en materia disciplinaria militar que procedan contra las sanciones impuestas o reformadas por el Ministro de Defensa, o impuestas, confirmadas o reformadas por la Sala de Gobierno del Tribunal Militar Central.
+Téngase en cuenta que esta última actualización del apartado 5 establecida por la disposición final 1.5 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "5. De los recursos jurisdiccionales en materia disciplinaria militar que procedan contra las sanciones impuestas o reformadas por el Ministro de Defensa o la Sala de Gobierno del Tribunal Militar Central."
+6. De los recursos jurisdiccionales contra las sanciones disciplinarias judiciales impuestas a quienes ejerzan funciones judiciales, fiscales o Secretarías Relatorías, y no pertenezcan a la propia Sala.
+7. De los recursos de apelación en materia de conflictos jurisdiccionales que admita su ley reguladora contra las resoluciones en primera instancia del Tribunal Militar Central.
+8. De las pretensiones de declaración de error de los órganos de la jurisdicción militar a los efectos de responsabilidad patrimonial del Estado, sin perjuicio de lo dispuesto en el artículo 61.5.º de la Ley Orgánica del Poder Judicial.
+Se modifican los apartados 2 y 5, con efectos de 15 de enero de 2016, por la disposición final 1.4 y 5 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se modifica el apartado 5 por la disposición final 1.1 de la Ley Orgánica 8/2014, de 4 de diciembre. Ref. BOE-A-2014-12652.
+ Se modifica el apartado 2 por el art. 1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 24
+
+La Sala de lo Militar del Tribunal Supremo estará integrada por su Presidente y siete Magistrados. Cuatro de los ocho miembros de la Sala procederán de la Carrera Judicial y los otros cuatro del Cuerpo Jurídico Militar.
+Se modifica por la disposición adicional 1.1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 25
+
+El Presidente será nombrado conforme a lo dispuesto en la Ley Orgánica del Poder Judicial para la designación de los Presidentes de Sala del Tribunal Supremo.
+
+### Artículo 26
+
+Los Magistrados procedentes de la Carrera Judicial serán nombrados de igual forma que los demás Magistrados del Tribunal Supremo.
+
+### Artículo 27
+
+Los Magistrados procedentes del Cuerpo Jurídico Militar serán nombrados por Real Decreto, refrendado por el Ministro de Justicia y a propuesta del Consejo General del Poder Judicial, entre Generales Consejeros Togados y Generales Auditores con aptitud para el ascenso, en situación de servicio activo.
+A efectos de la motivación de la propuesta de nombramiento, el Consejo General del Poder Judicial solicitará con carácter previo a los aspirantes una exposición de sus méritos, así como al Ministerio de Defensa la documentación que en su caso considere necesaria.
+Téngase en cuenta que esta última actualización de los párrafos primero y segundo establecida por la disposición final 1.6 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "Los Magistrados procedentes del Cuerpo Jurídico Militar serán nombrados por Real Decreto, refrendado por el Ministro de Justicia, y a propuesta del Consejo General del Poder Judicial.
+ Para cada vacante que se produzca, el Ministro de Defensa presentará al Consejo General del Poder Judicial una terna de Generales Consejeros Togados y Generales Auditores con aptitud para el ascenso."
+El nombramiento como Magistrados del Tribunal Supremo de los procedentes del Cuerpo Jurídico Militar determinará su ascenso al máximo empleo de su Cuerpo, si ya no lo tuvieren.
+Se modifican los párrafos primero y segundo, con efectos de 15 de enero de 2016, por la disposición final 1.6 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se modifica por la disposición adicional 1.1 y 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 28
+
+La toma de posesión de los miembros de la Sala procedentes del Cuerpo Jurídico Militar les conferirá de forma permanente la condición y Estatuto personal de Magistrados del Tribunal Supremo a todos los efectos, pasando a la situación de retirado o equivalente y sin poder volver a situación de actividad en las Fuerzas Armadas.
+Se modifica por la disposición adicional 1.1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Articulo 29
+
+Cuando la Sala de lo Militar no se constituya con la totalidad de sus miembros, habrá paridad de Magistrados de una y otra procedencia, excluido el Presidente.
+
+### Artículo 30
+
+Para la instrucción de los procedimientos cuyo conocimiento corresponda en única instancia a la Sala de lo Militar del Tribunal Supremo, se designará por ésta, por turno y entre sus miembros, un Magistrado Instructor, que no podrá formar Sala en el asunto que haya tramitado.
+
+### Artículo 31
+
+La Sala establecida en el artículo 61 de la Ley Orgánica del Poder Judicial conocerá, además de las cuestiones que se le atribuyen en dicho precepto, del recurso de revisión contra las sentencias de la Sala de lo Militar en las materias recogidas en los apartados 5 y 6 del artículo 23 de esta Ley.
+
+## CAPÍTULO II
+
+Del Tribunal Militar Central
+
+### Artículo 32
+
+Con competencia sobre todo el territorio nacional y sede en Madrid, el Tribunal Militar Central es el órgano judicial militar que conocerá de los procedimientos sometidos a la jurisdicción militar que se le atribuyen en el presente capítulo.
+
+### Artículo 33
+
+El Tribunal Militar Central actuará en Sala de Justicia y Sala de Gobierno.
+
+### Artículo 34
+
+La Sala de Justicia del Tribunal Militar Central conocerá:
+1. De los procedimientos que siendo de la competencia de la Jurisdicción Militar y no estando atribuidos a la Sala de lo Militar del Tribunal Supremo, se instruyan por delito cometido en cualquier lugar del territorio nacional, o fuera de éste, cuando los inculpados, o el más caracterizado, siendo varios en un mismo procedimiento, ostenten alguna de las siguientes cualidades o circunstancias:
+a) Militares con empleo igual o superior a Comandante o Capitán de Corbeta y sus asimilados cualquiera que sea su situación militar siempre que no hubieran sido condenados a pérdida de empleo o sancionados con separación del servicio.
+b) Poseedores de la Cruz Laureada de San Fernando con carácter individual
+c) Autoridades y funcionarios civiles, de todo orden, que no teniendo fuero personal reservado al Tribunal Supremo gozasen de aforamiento personal especial en la jurisdicción ordinaria.
+d) Auditor Presidente y Vocales de los Tribunales Territoriales, Jueces Togados Militares, Fiscales y Secretarios Relatores, todos ellos en el ejercicio de las funciones que esta Ley les confiere.
+e) Otras personas respecto de las que así lo establezcan normas con rango de Ley.
+2. De los incidentes de recusación de uno o dos miembros del Tribunal Militar Central, Jueces Togados Centrales y contra todos o la mayor parte de los miembros de los Tribunales Militares Territoriales.
+3. De los recursos que procedan contra las resoluciones dictadas por los Jueces Togados Centrales.
+4. De las apelaciones contra las sentencias dictadas por los Jueces Togados Centrales en procedimientos por falta común.
+5. De los recursos de apelación en materia de conflictos jurisdiccionales que admita su ley reguladora contra las resoluciones en primera instancia de los Tribunales Militares Territoriales.
+6. De las cuestiones de competencia suscitadas entre Tribunales Militares Territoriales, entre Juzgados Togados Militares pertenecientes a distinto territorio o entre aquéllos y éstos.
+7. De los recursos jurisdiccionales en materia disciplinaria militar que procedan contra las sanciones impuestas o reformadas por el Jefe del Estado Mayor de la Defensa, Jefes de Estado Mayor de cada Ejército, Subsecretario de Defensa, Director General de la Guardia Civil y Oficiales Generales.
+
+### Artículo 35
+
+La Sala de Gobierno del Tribunal Militar Central tendrá las atribuciones de gobierno del propio Tribunal y de los órganos judiciales militares inferiores, la potestad disciplinaria judicial militar y ejercerá la inspección de los Tribunales Militares Territoriales y de los Juzgados Togados, así como las demás funciones que esta Ley o la procesal militar le encomienden, todo ello sin perjuicio de las facultades que esta Ley atribuye al Consejo General del Poder Judicial.
+Asimismo se le atribuye la potestad para imponer sanciones disciplinarias militares por faltas muy graves a los miembros del Cuerpo Jurídico Militar que ejerzan funciones judiciales, conforme a la Ley Orgánica de Régimen Disciplinario de las Fuerzas Armadas.
+Téngase en cuenta que el párrafo segundo añadido por la disposición final 1.2 de la Ley Orgánica 8/2014, de 4 de diciembre. Ref. BOE-A-2014-12652. entra en vigor el 5 de marzo de 2015.
+Se añade el párrafo segundo por la disposición final 1.2 de la Ley Orgánica 8/2014, de 4 de diciembre. Ref. BOE-A-2014-12652.
+
+### Artículo 36
+
+El Tribunal Militar Central se compondrá de.
+1. Un Auditor Presidente, que será General Consejero Togado.
+2. Cuatro Vocales Togados, Generales Auditores.
+3. Los Vocales Militares, Generales de Brigada o Contralmirantes, que se designen en la forma que se establece en el artículo 39, y que deberán pertenecer al Cuerpo General de las Armas en el Ejército de Tierra, al Cuerpo General o al de Infantería de Marina, en la Armada y al Cuerpo General en el Ejército del Aire, ello sin perjuicio de lo dispuesto en el artículo 39.4.
+Se modifica por la disposición adicional 1.2 y 3 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 37
+
+El Auditor Presidente del Tribunal Militar Central será nombrado por Real Decreto, a propuesta del Consejo General del Poder Judicial, entre Generales Consejeros Togados y Generales Auditores en situación de servicio activo. La presentación a Real Decreto se hará por los Ministros de Justicia y Defensa, que refrendarán el nombramiento.
+Los Vocales Togados del Tribunal Militar Central serán nombrados por Real Decreto, a propuesta del Consejo General del Poder Judicial, oída la Sala de Gobierno del Tribunal Militar Central, entre Generales Auditores o, en su defecto, Oficiales Generales del Cuerpo Jurídico Militar en reserva, cuyo nombramiento no determinará cambio en su situación administrativa. En ningún caso habrá menos de dos Vocales Togados en situación de actividad. La presentación a Real Decreto se hará por los Ministros de Justicia y Defensa, que refrendarán el nombramiento.
+A efectos de la motivación de la propuesta de nombramiento, el Consejo General del Poder Judicial solicitará con carácter previo a los aspirantes una exposición de sus méritos, así como al Ministerio de Defensa la documentación que en su caso considere necesaria.
+Téngase en cuenta que esta última actualización de los párrafos primero, segundo y tercero establecida por la disposición final 1.7 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "El Auditor Presidente del Tribunal Militar Central será nombrado por Real Decreto refrendado por el Ministro de Defensa.
+ Los Vocales Togados del Tribunal Militar Central serán nombrados por Real Decreto refrendado por el Ministro de Defensa, a propuesta en terna de la Sala de Gobierno del Tribunal Militar Central entre Generales Auditores y Coroneles Auditores, éstos con aptitud para el ascenso.
+ El nombramiento de un Coronel Auditor para Vocal Togado determinará su ascenso."
+Se modifica, con efectos de 15 de enero de 2016, por la disposición final 1.7 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Artículo 38
+
+En los casos en que no pueda actuar el Auditor Presidente por causa legal, le sustituirá el Vocal Togado de mayor antigüedad de entre los que se encuentren en servicio activo.
+Téngase en cuenta que esta última actualización del párrafo primero establecida por la disposición final 1.8 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "En los casos en que no pueda actuar el Auditor Presidente por causa legal, le sustituirá el Vocal Togado de mayor antigüedad."
+Cuando fuera necesario sustituir a algún Vocal Togado se hará por turno de mayor a menor antigüedad entre los Auditores Presidentes de los Tribunales Militares Territoriales.
+Se modifica el párrafo primero, con efectos de 15 de enero de 2016, por la disposición final 1.8 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Artículo 39
+
+La designación de los Vocales Militares se efectuará con arreglo a las normas siguientes:
+1. Al principio de cada año judicial, se confeccionará una lista por ejército de Generales de Brigada y Contralmirantes, en situación de servicio activo, destinados en los órganos centrales de la Defensa y en los Cuarteles Generales de los Ejércitos. Las listas, que serán remitidas por cada Cuartel General al Tribunal Militar Central, no se modificarán durante el año judicial, sin perjuicio de comunicar por la misma vía las bajas por ascenso, cambio de situación o destino o cualquier otra causa legal.
+2. Con antelación suficiente a la fecha de la vista para juicio oral, a presencia del Auditor Presidente, dando fe el Secretario Relator y con citación de las partes que hayan de intervenir en las actuaciones a celebrar, se insacularán los nombres de la lista del ejército correspondiente y se extraerán dos nombres. El primero de los extraídos formará parte del tribunal, como Vocal Militar titular, y el segundo será suplente. Si en el momento de llevarse a cabo la insaculación alguno de los sorteados fuera incompatible, no estuviera ya destinado en los órganos citados, hubiera ascendido, variado de situación militar o no pudiera asistir por causa justificada, se procederá a extraer otro nombre de la misma lista.
+En el supuesto de que la vista de un procedimiento se prolongue por más de una audiencia, formará parte del tribunal, en todas ellas, el vocal extraído para la primera.
+3. La insaculación se efectuará entre los integrantes de la lista del ejército a que pertenezca el inculpado, y, siendo varios y de ejércitos distintos, de la lista del Ejército al que pertenezca el más caracterizado. Si ninguno de los inculpados fuera militar o, siéndolo, no perteneciera a un ejército determinado, el vocal titular y el suplente se extraerán de la lista del ejército que corresponda según el turno que al efecto se establezca, de manera que las designaciones recaigan cada vez en un Vocal Militar de cada ejército. De concurrir la circunstancia prevista en el último inciso del apartado anterior, se procederá a nueva extracción en la misma lista.
+4. Si el inculpado o inculpados perteneciesen todos ellos a la Guardia Civil, el Vocal Militar será General de Brigada de la Guardia Civil, que se sorteará en el tiempo y forma que señalen los números anteriores de entre todos los Generales de ese empleo en situación de plena actividad.
+Se modifica por el art. 1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 40
+
+La ponencia corresponderá al Auditor Presidente o a un Vocal Togado, según el turno que se establezca.
+
+### Artículo 41
+
+La Sala de Justicia del Tribunal Militar Central se constituirá por su Auditor Presidente o quien le sustituya, un Vocal Togado y un Vocal Militar, cuando se trate de celebrar juicio oral y dictar sentencia en los supuestos de los apartados 1, 4 y 7 del artículo 34.
+Para conocer del resto de los asuntos de su competencia, la Sala se constituirá por tres miembros, que serán designados, según el turno establecido por el Tribunal al principio del año judicial, entre el Auditor Presidente y los Vocales Togados, con base en criterios objetivos.
+Se modifica por el art. 1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 42
+
+La Sala de Gobierno del Tribunal Militar Central estará integrada por el Auditor Presidente y la totalidad de sus Vocales Togados en servicio activo, sin que quepa la sustitución de estos últimos.
+Téngase en cuenta que esta última actualización establecida por la disposición final 1.9 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "Artículo 42
+ La Sala de Gobierno del Tribunal Militar Central estará integrada por el Auditor Presidente y la totalidad de sus Vocales Togados, sin que quepa la sustitución de estos últimos."
+Se modifica, con efectos de 15 de enero de 2016, por la disposición final 1.9 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Artículo 43
+
+El Auditor Presidente, por resolución motivada, podrá disponer la celebración de las vistas en cualquier lugar del territorio nacional.
+
+## CAPÍTULO III
+
+De los Tribunales Militares Territoriales
+
+### Artículo 44
+
+Por ley se determinará la división territorial jurisdiccional militar de España.
+En la misma ley se determinará la sede de los Tribunales Militares Territoriales, una de las cuales tendrá que fijarse en Madrid.
+
+### Artículo 45
+
+El Tribunal Militar Territorial conocerá:
+1. De los procedimientos por delito de la competencia de la jurisdicción militar cometidos en su territorio y no reservados a la Sala de lo Militar del Tribunal Supremo ni al Tribunal Militar Central.
+2. De los incidentes de recusación de uno o dos miembros del propio Tribunal y Jueces Togados Militares de su territorio.
+3. De los recursos que procedan contra las resoluciones dictadas por los Jueces Togados Militares de su territorio.
+4. De los recursos de apelación contra las sentencias de los Jueces Togados de su territorio, en procedimientos por falta común de la competencia de la jurisdicción militar.
+5. De las cuestiones de competencia entre los Jueces Togados de su territorio.
+6. De los recursos jurisdiccionales que procedan, en materia disciplinaria militar, por sanciones impuestas por los mandos militares y que no sean de la competencia de la Sala de lo Militar del Tribunal Supremo ni del Tribunal Militar Central.
+
+### Artículo 46
+
+El Tribunal Militar Territorial se compondrá de:
+1. Un Auditor Presidente, Coronel Auditor.
+2. Cuatro Vocales Togados, dos con empleo de Teniente Coronel Auditor y dos con el de Comandante Auditor.
+3. Los Vocales Militares, Comandantes o Capitanes de Corbeta, que se designen en la forma que determina el artículo 49 y que deberán reunir las siguientes condiciones:
+a) Estar en situación de plena actividad.
+b) Pertenecer al Cuerpo General de las Armas en el Ejército de Tierra ; al Cuerpo General y al de Infantería Marina, en la Armada; Cuerpo General en el Ejército del Aire. Ello sin perjuicio de lo dispuesto en el artículo 49.4.
+Cuando un Tribunal Militar Territorial tenga más de una Sección, el Auditor Presidente del Tribunal lo será también de la Sección Primera.
+Se modifica por el art. 1 y la disposición adicional 1.3 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 47
+
+El Auditor Presidente y los Vocales Togados serán nombrados por Real Decreto, a propuesta del Consejo General del Poder Judicial, previo informe motivado de la Sala de Gobierno del Tribunal Militar Central acerca de los méritos profesionales, académicos y científico-jurídicos de los aspirantes que acrediten su formación y capacidad en las materias propias de la jurisdicción militar, así como sobre cuantas incidencias hayan podido afectarles durante su vida profesional y que pudieran tener importancia para valorar su aptitud en el desempeño de la función judicial.
+Una vez remitido dicho informe motivado al Consejo General del Poder Judicial, se seguirán posteriormente ante este último, para decidir las propuestas de nombramiento, conforme a su libre y discrecional ponderación, las normas reglamentarias de procedimiento que al efecto se establezcan por el mismo, observándose en su defecto, en lo que sean de aplicación, las que regulan la provisión de plazas de nombramiento discrecional en los órganos judiciales.
+La presentación a Real Decreto se hará por los Ministros de Justicia y Defensa, que refrendarán el nombramiento.
+Téngase en cuenta que esta última actualización establecida por la disposición final 1.10 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "Artículo 47
+ El Auditor Presidente y los Vocales Togados serán nombrados por el Ministro de Defensa, a propuesta de la Sala de Gobierno del Tribunal Militar Central, en los términos que se determinen reglamentariamente."
+Se modifica, con efectos de 15 de enero de 2016, por la disposición final 1.10 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Artículo 48
+
+En los casos en que no pueda actuar el Auditor Presidente, por causa legal, le sustituirá el de mayor empleo o antigüedad de los Vocales Togados. Estos serán sustituidos, por las mismas causas, por Vocales Togados de otro Tribunal Militar Territorial, designados por la Sala de Gobierno del Tribunal Militar Central.
+
+### Artículo 49
+
+La designación de los Vocales Militares se efectuará con arreglo a las siguientes normas:
+1. Al principio de cada año judicial se confeccionará una lista por cada Ejército de Comandantes o Capitanes de Corbeta con destino en el territorio de cada Tribunal Militar Territorial, que reúnan las condiciones que se señalan en el apartado 3 del artículo 46. Las listas no podrán variarse durante el año judicial.
+2. Con antelación suficiente a la fecha de la vista para juicio oral, a presencia del Auditor Presidente, dando fe el Secretario Relator y con citación de las partes que hayan de intervenir en las actuaciones a celebrar, se insacularán los nombres de la lista del Ejército correspondiente y se extraerán dos nombres. El primero de los extraídos formará parte del tribunal, como Vocal Militar titular, y el segundo será suplente. Si en el momento de llevarse a cabo la insaculación alguno de los sorteados fuera incompatible, no estuviera ya destinado en los órganos citados, hubiera ascendido, variado de situación militar o no pudiera asistir por causa justificada, se procederá a extraer otro nombre de la misma lista.
+En el supuesto de que la vista de un procedimiento se prolongue por más de una audiencia, formará parte del tribunal, en todas ellas, el vocal extraído para la primera.
+3. La insaculación se efectuará entre los integrantes de la lista del ejército a que pertenezca el inculpado, y, siendo varios y de ejércitos distintos, de la lista del ejército a que pertenezca el más caracterizado. Si ninguno de los inculpados fuera militar o, siéndolo, no perteneciera a un ejército determinado, el vocal titular y el suplente se extraerán de la lista del ejército que corresponda según el turno que al efecto se establezca, de manera que las designaciones recaigan cada vez en un vocal militar de cada ejército. De concurrir la circunstancia prevista en el último inciso del apartado anterior, se procederá a nueva extracción en la misma lista.
+4. Si el inculpado o inculpados perteneciesen todos ellos a la Guardia Civil, el Vocal Militar pertenecerá a esta Institución, a cuyo efecto se sorteará en el tiempo y forma que se determina en los apartados anteriores, entre los Comandantes de la Guardia Civil en situación de servicio activo que se hallen destinados en el territorio del Tribunal Militar.
+Se modifica por el art. 1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 50
+
+La ponencia corresponderá al Auditor Presidente o a un Vocal Togado, según el turno que se establezca.
+
+### Artículo 51
+
+El Tribunal Militar Territorial o cada una de sus secciones, en su caso, se constituirá por su Auditor Presidente o quien le sustituya, un Vocal Togado y un Vocal Militar, cuando se trate de celebrar juicio oral y dictar sentencia en los supuestos de los apartados 1, 4 y 6 del artículo 45.
+Para conocer del resto de los asuntos de su competencia, la sala se constituirá por tres miembros, que serán designados, según el turno establecido por el Tribunal al principio del año judicial, entre el Auditor Presidente y los Vocales Togados, con base en criterios objetivos.
+Se modifica por el art. 1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 52
+
+El Auditor Presidente, por resolución motivada, podrá disponer la celebración de las vistas en distinto lugar de la sede del Tribunal, dentro del territorio.
+
+## CAPÍTULO IV
+
+De los Juzgados Togados Militares
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 53
+
+Corresponde a los Juzgados Togados Militares la instrucción de todos los procedimientos judiciales cuyo conocimiento sea competencia de la jurisdicción militar, con las excepciones establecidas en esta Ley.
+
+### Artículo 54
+
+Los Juzgados Togados Militares serán desempeñados por miembros del Cuerpo Jurídico Militar, del empleo que para cada uno se señala por esta Ley.
+Su nombramiento se efectuará mediante orden por el Consejo General del Poder Judicial, previo informe motivado de la Sala de Gobierno del Tribunal Militar Central, en los términos y por el procedimiento expresados en el artículo 47.
+Téngase en cuenta que esta última actualización del párrafo segundo establecida por la disposición final 1.11 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "Su nombramiento se efectuará por el Ministro de Defensa, a propuesta de la Sala de Gobierno del Tribunal Militar Central, en los términos que se determinen reglamentariamente."
+Se modifica el párrafo segundo, con efectos de 15 de enero de 2016, por la disposición final 1.11 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se modifica por la disposición adicional 1.1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 55
+
+En los casos en que no pueda actuar el Juez Todo Militar competente será sustituido por el que designe la Sala de Gobierno del Tribunal Central. Cuando hubiere más de uno con la misma demarcación, la designación recaerá en otro de ellos; cuando no los hubiera, sobre el más próximo a la sede del Juez Togado Militar que deba ser sustituido.
+
+## Sección 2
+
+Sección 2.ª De los Juzgados Togados Militares Centrales
+
+### Artículo 56
+
+En la sede del Tribunal Militar Central existirán dos o más Juzgados Togados Militares Centrales con competencia en todo el territorio nacional.
+El Juez Togado de mayor antigüedad en el empleo ejercerá las funciones de Decano.
+
+### Artículo 57
+
+Son funciones de los Juzgados Togados Militares Centrales:
+1. La instrucción de los procedimientos penales militares cuyo conocimiento corresponda al Tribunal Militar Central.
+2. La instrucción y fallo de los procedimientos por falta común que se atribuyan a la jurisdicción militar seguidos contra las personas con fuero ante el Tribunal Militar Central.
+3. La práctica de las diligencias que otro órgano jurisdiccional le encomiende.
+
+### Artículo 58
+
+Los Juzgados Togados Militares Centrales serán desempeñados por Coroneles Auditores.
+
+## Sección 3
+
+Sección 3.ª De los Juzgados Togados Militares Territoriales
+
+### Artículo 59
+
+La planta y demarcación de los Juzgados Togados Militares Territoriales se establecerá por ley.
+
+### Artículo 60
+
+En la sede de cada Tribunal Militar Territorial existirá al menos un Juzgado Togado Militar. Cada uno tendrá competencia sobre todo el territorio correspondiente a la jurisdicción de aquél, salvo lo dispuesto en el párrafo siguiente.
+En aquellos territorios en que la importancia numérica de las fuerzas militares o el volumen de procedimientos lo requieran, podrán establecerse, además, otros Juzgados con sede en distinta plaza o localidad y con la demarcación que se delimite por ley, distribuyéndose, en tal caso, el territorio afectado entre éstos y los aludidos en el párrafo anterior.
+Cuando en la misma sede existan dos o más Jueces Togados, el titular más caracterizado por su empleo o antigüedad en él ejercerá las funciones de Decano.
+
+### Artículo 61
+
+Son funciones de los Juzgados Togados Militares Territoriales:
+1. La instrucción de los procedimientos penales militares por hechos ocurridos en la demarcación de su competencia y cuyo conocimiento corresponda al respectivo Tribunal Militar Territorial.
+2. La instrucción y fallo de los procedimientos por falta común que se atribuyan a la jurisdicción militar seguidos contra las personas con fuero ante el Tribunal Militar Territorial a cuyo territorio pertenezcan.
+3. El conocimiento de la solicitud de hábeas corpus con arreglo a lo dispuesto en el artículo 2.° de su Ley Orgánica reguladora.
+4. La vigilancia judicial penitenciaria en relación con los establecimientos penitenciarios militares y sus internos.
+5. La práctica de las diligencias que otro órgano jurisdiccional les encomiende.
+6. Las actuaciones a prevención y prórrogas de jurisdicción que determine la legislación procesal militar.
+7. Las funciones que se les encomienden por otras leyes.
+
+### Artículo 62
+
+Los Juzgados Togados Militares Territoriales serán desempeñados indistintamente por Comandantes Auditores o Capitanes Auditores.
+Se modifica por el art. 1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+## CAPÍTULO V
+
+De los órganos judiciales militares que acompañan a Fuerzas españolas fuera del suelo nacional
+
+### Artículo 63
+
+Para el desempeño de la función jurisdiccional militar en los casos 3 y 4 del artículo 12, las Fuerzas españolas, cuando salgan de suelo nacional en cumplimiento de una misión que se prevea duradera, serán acompañadas por los órganos judiciales militares que se estimen necesarios, en atención al número de tropas y a la previsible duración de la estancia fuera de España.
+Téngase en cuenta que queda suprimido el párrafo segundo por la disposición final 1.12 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. a partir del 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "A este fin, el Ministro de Defensa o la Autoridad en quien delegue, interesará de la Sala de Gobierno del Tribunal Militar Central la propuesta del Juzgado o Juzgados Togados Militares que deban asistir a las unidades desplazadas. La resolución corresponderá al Ministro de Defensa."
+Se suprime el párrafo segundo, con efectos de 15 de enero de 2016, por la disposición final 1.12 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se modifica el párrafo segundo por el art. 1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 64
+
+El conocimiento de los procedimientos instruidos por los delitos cometidos en los desplazamientos y estancias previstos en el artículo anterior corresponderá al Tribunal Militar Central o al Tribunal Militar Territorial con sede en Madrid, según sus respectivas atribuciones.
+La Sala de Justicia del Tribunal Militar Central o el Tribunal Militar Territorial con sede en Madrid, respectivamente, propondrán al Ministro de Defensa si el acto de la vista debe celebrarse en su sede, con traslado a ella del inculpado o inculpados, testigos u otros medios de prueba y remisión del procedimiento, o en el lugar de la instrucción, en atención a las circunstancias del hecho y a las conveniencias de ejemplaridad.
+
+## CAPÍTULO VI
+
+Disposiciones comunes a los capítulos anteriores
+
+### Artículo 65
+
+Los miembros del Cuerpo Jurídico Militar, para ser nombrados Magistrados de la Sala de lo Militar del Tribunal Supremo, Auditores Presidentes o Vocales Togados de los Tribunales Militares y Jueces Togados Militares, deberán encontrarse en situación militar de servicio activo, con las excepciones previstas en esta ley.
+Téngase en cuenta que esta última actualización establecida por la disposición final 1.13 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "Artículo 65
+ Los miembros del Cuerpo Jurídico Militar, para ser nombrados Magistrados de la Sala de lo Militar del Tribunal Supremo, Auditores Presidentes o Vocales Togados de los Tribunales Militares y Jueces Togados Militares, deberán encontrarse en situación militar de plena actividad, cualquiera que sea la denominación que reciba legal o reglamentariamente."
+Se modifica, con efectos de 15 de enero de 2016, por la disposición final 1.13 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se modifica por la disposición adicional 1.1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 66
+
+Los Auditores Presidentes y Vocales Togados de los Tribunales Militares, así como los Jueces Togados Militares, sólo cesarán en sus destinos o cargos por las siguientes causas:
+1. Por concesión de otro destino a petición propia, siempre que hayan servido el que ocupan durante el tiempo que se determine reglamentariamente.
+2. Por ascenso, si conforme a esta Ley, no corresponde al nuevo empleo el destino judicial que ocupan.
+3. Por llegar a la edad señalada para cesar en la situación de servicio activo o cesar en la misma al pasar a otra situación por disposición legal o solicitud voluntaria y concedida. Los Vocales Togados del Tribunal Militar Central nombrados en situación de reserva cesarán cuando cumplan la edad de retiro.
+Téngase en cuenta que esta última actualización del apartado 3 establecida por la disposición final 1.14 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "3. Por llegar a la edad señalada para cesar en la situación de plena actividad, pase a la situación de herido o enfermo o cualquier otra situación solicitada voluntariamente y concedida."
+4. Por baja en las Fuerzas Armadas, solicitada voluntariamente y concedida, siempre que no se pase a otra situación militar.
+5. Por inutilidad, disminución de su capacidad física o psíquica o falta de aptitud profesional, con arreglo a lo que se disponga para el resto de los miembros de las Fuerzas Armadas. En estos casos deberá ser oída la Sala de Gobierno del Tribunal Militar Central, quien examinará el expediente.
+6. Por imposición de pena por delito doloso, imposición de pena principal o accesoria de pérdida de empleo, inhabilitación absoluta o especial, suspensión de empleo por más de seis meses o suspensión de cargo público y derecho de sufragio pasivo por más de seis meses. Los Tribunales que dicten estas sentencias remitirán testimonio de ellas al Consejo General del Poder Judicial, una vez hubiesen ganado firmeza.
+7. Por imposición de las sanciones de pérdida de destino, suspensión de más de seis meses o separación del servicio impuestas en vía disciplinaria judicial.
+8. Por imposición de las sanciones de pérdida de destino, suspensión de empleo por más de seis meses o separación del servicio con arreglo a la Ley Orgánica de Régimen Disciplinario de las Fuerzas Armadas, siempre que se hayan cumplido los requisitos que señalan los artículos 122 y 123 de esta Ley.
+9. Por aplicación de lo dispuesto en el último párrafo del artículo 120.
+Se modifica el apartado 3, con efectos de 15 de enero de 2016, por la disposición final 1.14 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Artículo 67
+
+Los Auditores Presidentes y Vocales Togados de los Tribunales Militares, así como los Jueces Togados, sólo serán suspendidos provisionalmente en sus destinos o cargos por las siguientes causas:
+1. Cuando se hubiere declarado haber lugar a proceder contra ellos por delitos cometidos en el ejercicio de sus funciones.
+2. Cuando por cualquier delito doloso se hubiere dictado contra ellos auto de prisión, de libertad bajo fianza o de procesamiento.
+3. Cuando se decretase la suspensión en expediente disciplinario judicial o de incapacidad fuera de los casos del artículo 66.7.
+4. Cuando se decretase la suspensión de funcionen con arreglo a la Ley Orgánica de Régimen Disciplinario de las Fuerzas Armadas, mientras se instruye el expediente, con el informe favorable de la Sala de Gobierno del Tribunal Militar Central o cuando se imponga la suspensión de empleo con carácter definitivo hasta seis meses.
+5. Por sentencia firme condenatoria en que se imponga pena de privación de libertad por delito culposo por el tiempo de la condena.
+
+### Artículo 68
+
+Los componentes de los Tribunales Militares y Jueces Togados Militares, en el ejercicio de sus funciones, tendrán carácter de Autoridad y el tratamiento que por su empleo les corresponda, nunca inferior a señoría. Los Auditores Presidentes de los Tribunales Militares Territoriales, el de señoría ilustrísima.
+Los órganos judiciales militares colegiados tendrán tratamiento impersonal.
+
+### Artículo 69
+
+El Auditor Presidente del Tribunal Militar Central vigilará el funcionamiento de su propio Tribunal y de los Juzgados Togados Militares Centrales.
+Las mismas facultades tendrá el Auditor Presidente del Tribunal Militar Territorial sobre su Tribunal y los Juzgados Togados Militares de su territorio.
+Los Jueces Togados Militares vigilarán el funcionamiento de sus propios Juzgados.
+
+### Artículo 70
+
+El ámbito geográfico donde ejercen sus funciones los Tribunales Militares se denominará territorio. El mismo ámbito de los Juzgados Togados Militares se denominará demarcación.
+Cada Tribunal Militar Territorial se designará por un número ordinal. Los Juzgados Togados Militares Territoriales, con un número cardinal de dos cifras, cuya primera corresponderá a la del Tribunal Militar Territorial a que pertenezca. Los Juzgados Togados Centrales por número cardinal de una cifra.
+
+### Artículo 71
+
+A salvo de lo dispuesto en el artículo 63, la instrucción y el conocimiento de los delitos competencia de la jurisdicción militar cometidos en el extranjero corresponderán a los Juzgados Togados Centrales Militares y al Tribunal Militar Central, así como a los Juzgados Togados Militares Territoriales y Tribunal Militar Territorial, con sede en Madrid, según sus respectivas atribuciones.
+Téngase en cuenta que esta última actualización establecida por la disposición final 1.15 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "Artículo 71
+ El conocimiento de los delitos competencia de la Jurisdicción Militar cometidos en el extranjero, siempre que no se trate de alguno de los supuestos previstos en los artículos 63 y 64, corresponderá a los Juzgados Togados Militares y Tribunales Militares, con sede en Madrid, según sus respectivas atribuciones."
+Se modifica, con efectos de 15 de enero de 2016, por la disposición final 1.15 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se modifica por la disposición adicional 7 de la Ley Orgánica 2/1989, de 13 de abril. Ref. BOE-A-1989-8712
+
+## TÍTULO III
+
+De los Secretarios y del Personal auxiliar
+
+## CAPÍTULO I
+
+Disposición general
+
+### Artículo 72
+
+Todos los órganos judiciales militares desempeñarán sus funciones asistidos por el Secretario correspondiente.
+Los Secretarios de los órganos judiciales militares ejercen, en su ámbito, la fe pública judicial.
+
+## CAPÍTULO II
+
+De la Secretaría de la Sala de lo Militar del Tribunal Supremo
+
+### Artículo 73
+
+La Secretaría de la Sala de lo Militar del Tribunal Supremo se regirá por las mismas normas que las demás Secretarías de Sala del Alto Tribunal. Estará desempeñada por funcionarios del Cuerpo de Secretarios Judiciales de la categoría que corresponda, nombrados con arreglo a las disposiciones propias de dicho Cuerpo.
+
+## CAPÍTULO III
+
+De los Secretarios Relatores
+
+### Artículo 74
+
+En el Tribunal Militar Central y en cada uno de los Tribunales Militares Territoriales y de los Juzgados Togados Militares existirá, al menos, un Secretario Relator.
+
+### Artículo 75
+
+La función del Secretario Relator, en los diferentes órganos judiciales militares, corresponde a los Oficiales Auditores en posesión de los siguientes empleos:
+En el Tribunal Militar Central, Coronel Auditor o Teniente Coronel Auditor, indistintamente.
+En los Tribunales Militares Territoriales, Comandante Auditor o Capitán Auditor, indistintamente.
+En los Juzgados Togados Militares Centrales, Comandante Auditor o Capitán Auditor, indistintamente.
+En los Juzgados Togados Militares Territoriales, Capitán Auditor o Teniente Auditor, indistintamente.
+El Secretario Relator deberá tener inferior empleo o menor antigüedad en él que el Juez Togado Militar del mismo órgano judicial militar.
+El nombramiento y cese se hará por Orden ministerial, a propuesta de la Sala de Gobierno del Tribunal Militar Central, en los términos que se determinen reglamentariamente.
+A los Secretarios Relatores les será de aplicación lo dispuesto en el artículo 65.
+
+### Artículo 76
+
+Además de ejercer la fe pública judicial y de asistir a los Tribunales Militares y Juzgados Togados Militares, corresponde a los Secretarios Relatores:
+1. Ordenar e impulsar los procedimientos judiciales, de conformidad con lo establecido en las leyes procesales.
+2. Dar cuenta al Auditor Presidente o al Juez Togado Militar de la presentación o recepción de los escritos y documentos referentes a cada procedimiento, en el tiempo que señalen las leyes, así como del transcurso de los plazos procesales y de los autos que hubieran tomado estado para dictar resolución.
+3. Conservar y custodiar los procedimientos y documentos que estuvieren a su cargo, y los bienes y objetos afectos a los procedimientos judiciales.
+4. Depositar, en las instituciones que legalmente corresponda, las cantidades y valores, consignaciones y fianzas que reciban en el desempeño de sus funciones.
+5. Llevar al corriente los libros y archivos que prevengan las leyes y disposiciones reglamentarias.
+6. Ostentar la jefatura directa del personal de la Secretaría Relatoría de que son titulares, sin perjuicio de la superior dirección de los Auditores Presidentes y Jueces Togados.
+7. Cumplimentar la estadística judicial militar en la forma que se determine reglamentariamente.
+
+### Artículo 77
+
+Cuando fuere necesario, a propuesta de la Sala de Gobierno del Tribunal Militar Central, podrán crearse en las Secretarias Relatorías, por Orden ministerial, diferentes secciones, al frente de cada una de las cuales se encontrará un miembro del Cuerpo Jurídico Militar de los empleos señalados en el artículo 75.
+Se modifica por la disposición adicional 1.1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 78
+
+En los casos del artículo anterior, y cuando en un mismo órgano judicial militar, sin haberse efectuado atribuciones de diferentes secciones, existiera más de un Secretario Relator, la Jefatura de la Secretaría y las funciones de Secretario de la Sala de Gobierno, en su caso, corresponderán al de mayor empleo o antigüedad en él.
+
+### Artículo 79
+
+Los Secretarios Relatores serán sustituidos con sujeción a las siguientes reglas:
+Primera. Cuando en el mismo Tribunal Militar o Juzgado Togado Militar existan más de uno, se turnarán la sustitución cuando sea necesario.
+Segunda. Cuando no exista más que el Secretario Relator titular, la sustitución se efectuará mediante auxilio judicial de la Secretaría Relataría de la misma entidad y geográficamente más próxima.
+Tercera. Cuando esta sustitución no fuera posible, el Tribunal Militar o el Juez Togado Militar que la precisaran lo pondrán en conocimiento del órgano judicial militar superior para que adopte las medidas urgentes que pongan fin a la situación en tanto se adoptan las prevenciones definitivas que procedan. Entre las medidas urgentes a adoptar, podrá designarse por la Sala de Gobierno del Tribunal Militar Central para que con carácter eventual desempeñe la función a un Oficial Auditor del empleo correspondiente, destinado en una unidad, centro u organismo de carácter no judicial de la plaza o sede del tribunal o juzgado, o próximo a ella, comunicándolo al jefe del destino del designado.
+Se modifica la regla 3 por el art. 1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 80
+
+En el caso previsto en el artículo 63, se procederá de idéntica manera, respecto de los Secretarios Relatores.
+
+## CAPÍTULO IV
+
+Del personal auxiliar
+
+### Artículo 81
+
+En todos los órganos judiciales militares existirá el personal auxiliar de plantilla necesario que, bajo la dirección del Secretario correspondiente, realizará el trabajo que se le encomiende en relación con el despacho y tramitación de los procedimientos que en los mismos se sigan.
+
+### Artículo 82
+
+En la Sala de lo Militar del Tribunal Supremo este personal pertenecerá a los mismos Cuerpos que quienes presten sus servicios en las restantes Salas del citado alto Tribunal, siendo su régimen, funciones y dependencias los mismos que los de dichas Salas.
+
+### Artículo 83
+
+En los Tribunales Militares y Juzgados Togados Militares, el Secretario Relator distribuirá el trabajo de la Secretaría y dará las instrucciones necesarias al personal auxiliar para la buena marcha del servicio, siendo responsable de su normal desenvolvimiento, sin perjuicio de las responsabilidades directas en que pudiera incurrir el personal a sus órdenes.
+
+### Artículo 84
+
+Por Orden ministerial se determinará la forma de proveer a los Tribunales Militares y a los Juzgados Togados Militares del personal auxiliar necesario, así como las especialidades o aptitudes exigibles para el desempeño de las funciones que a dicho personal corresponden.
+
+### Artículo 85
+
+La Policía Militar actuará en auxilio de los órganos y Fiscales de la jurisdicción militar cuando sea requerida para ello.
+
+## CAPÍTULO V
+
+De la Policía Judicial
+
+### Artículo 86
+
+En los términos previstos en la ley, la Policía Judicial ejercerá sus funciones de averiguación de los delitos y descubrimiento y aseguramiento del delincuente respecto de los órganos judiciales militares y los Fiscales jurídico militares.
+
+## TÍTULO IV
+
+De la Fiscalía Jurídico Militar
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 87
+
+La Fiscalía Jurídico Militar, dependiente del Fiscal General del Estado, con la organización que se establece en este título, forma parte del Ministerio Fiscal.
+
+### Artículo 88
+
+En el ámbito de la jurisdicción militar, la misión de promover la acción de la justicia corresponde a la Fiscalía Jurídico Militar, que actuará en defensa de la legalidad y de los derechos e intereses tutelados por la ley, de oficio o a petición de los interesados, sin perjuicio de lo dispuesto en el título sexto, y velará por la independencia de los órganos judiciales militares.
+
+### Artículo 89
+
+Para el cumplimiento de las misiones establecidas en el artículo anterior, la Fiscalía Jurídico Militar ejercerá las funciones y desarrollará las actividades que se atribuyen al Ministerio Fiscal en su Estatuto orgánico, con sujeción, en todo caso, a los principios de legalidad e imparcialidad y observancia de los de unidad de actuación y dependencia jerárquica.
+
+### Artículo 90
+
+Los miembros de la Fiscalía Jurídico Militar pertenecerán al Cuerpo Jurídico Militar, debiendo encontrarse en situación de plena actividad. En el desempeño de sus funciones tendrán carácter de autoridad, y el tratamiento que por su empleo militar les corresponda, nunca inferior a señoría; los Fiscales Jefes de las Fiscalías Territoriales tendrán el de señoría ilustrísima.
+Se modifica por la disposición adicional 1.1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 91
+
+El Ministro de Defensa podrá interesar del Fiscal General del Estado que promueva ante la Sala de lo Militar del Tribunal Supremo las actuaciones pertinentes en orden a la defensa del interés público en el ámbito castrense, lo que se realizará según lo dispuesto en el Estatuto Orgánico del Ministerio Fiscal, por conducto del Ministro de Justicia.
+
+### Artículo 92
+
+El Ministro de Defensa podrá impartir órdenes e instrucciones al Fiscal Togado referentes a las actuaciones que deben adoptarse para la mejor aplicación de las leyes ante los Tribunales y Juzgados Militares, así como en defensa del interés público en el ámbito militar.
+Asimismo, cuando no haya impedimento legítimo para ello, podrá recabar información del Fiscal Togado sobre los asuntos en que éste intervenga.
+Las autoridades del Ministerio de Defensa que se designen por real decreto podrán solicitar de los distintos órganos de la Fiscalía Jurídico Militar las actuaciones que puedan proceder en defensa del interés público en el ámbito militar.
+Se añade un párrafo tercero por el art. 3.1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+## CAPÍTULO II
+
+De los órganos de la Fiscalía Jurídico Militar
+
+## Sección 1
+
+Sección 1.ª Disposición general
+
+### Artículo 93
+
+Son órganos de la Fiscalía Jurídico Militar:
+1. La Fiscalía Togada.
+2. La Fiscalía del Tribunal Militar Central.
+3. Las Fiscalías de los Tribunales Militares Territoriales.
+
+## Sección 2
+
+Sección 2.ª De la Fiscalía Togada
+
+### Artículo 94
+
+El Fiscal Togado es el Fiscal Jefe de la Sala de lo Militar del Tribunal Supremo y ejerce ante ella las mismas facultades que los Fiscales Jefes de las restantes Salas de dicho Alto Tribunal en las suyas.
+
+### Artículo 95
+
+Por delegación del Fiscal General del Estado, corresponde también al Fiscal Togado:
+1. Impartir a los miembros de la Fiscalía Jurídico Militar órdenes concretas e instrucciones sobre la aplicación e interpretación de las leyes, con carácter general o referentes a un hecho determinado, bien a propia iniciativa, o siguiendo las instrucciones o indicaciones que al efecto le haga el Fiscal General del Estado.
+2. Defender la competencia de la jurisdicción militar en los conflictos jurisdiccionales.
+3. Informar al Ministro de Defensa sobre los nombramientos del Fiscal del Tribunal Militar Central y Fiscales Jefes de los Tribunales Militares Territoriales, entre miembros del Cuerpo Jurídico Militar que reúnan las condiciones reglamentarias.
+4. Ejercer la inspección de las Fiscalías Jurídico Militares.
+5. Ejercer la potestad disciplinaria conforme a lo dispuesto en esta Ley.
+6. Redactar al principio de cada año judicial, un informe general en el que expondrá cuanto considere pertinente en relación con la jurisdicción militar durante el año anterior e indicará las cuestiones que se hayan suscitado y las reformas que puedan introducirse. Este informe se elevará al Fiscal General del Estado y, posteriormente, al Ministro de Defensa.
+7. Formar anualmente la estadística general de los procedimientos seguidos en la jurisdicción militar para lo que mantendrá relación con las Secretarías de los órganos judiciales militares.
+Estas facultades podrán ser avocadas en cualquier momento por el Fiscal General del Estado.
+Se modifica por la disposición adicional 1.1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 96
+
+El Fiscal Togado será General Consejero Togado y su nombramiento y cese se efectuarán por Real Decreto refrendado por el Ministro de Defensa, previo informe del Fiscal General del Estado.
+Se modifica por la disposición adicional 1.2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 97
+
+El Fiscal Togado estará asistido, al menos, por un General Auditor y un Fiscal del Tribunal Supremo a los que encomendará las funciones que estime pertinentes.
+El General Auditor será nombrado y cesado por Real Decreto refrendado por el Ministro de Defensa, previo informe del Fiscal General del Estado. El Fiscal del Tribunal Supremo seguirá el mismo régimen que los demás Fiscales de Sala del Alto Tribunal, para su nombramiento, cese y Estatuto personal.
+
+## Sección 3
+
+Sección 3.ª De los demás órganos de la Fiscalía Jurídico Militar
+
+### Artículo 98
+
+El Fiscal del Tribunal Militar Central, por sí o por sus subordinados, ejercerá las funciones de la Fiscalía Jurídico Militar ante dicho Tribunal y ante los Juzgados Togados Militares Centrales.
+El Fiscal del Tribunal Militar Central será un General Auditor y su nombramiento y cese se harán por Real Decreto refrendado por el Ministro de Defensa.
+
+### Artículo 99
+
+Los Fiscales de los Tribunales Militares Territoriales, por sí o por sus subordinados, ejercerán las funciones de la Fiscalía Jurídico Militar ante los Tribunales Militares Territoriales para los que hubieren sido nombrados y ante los Juzgados Togados Militares de su territorio.
+Los Fiscales de los Tribunales Militares Territoriales serán Coroneles Auditores o Tenientes Coroneles Auditores, nombrados y cesados por Orden ministerial.
+
+### Artículo 100
+
+En los supuestos del artículo 63 y si fuere preciso intervenir en el procedimiento en su fase de instrucción, el Fiscal del Tribunal Militar Central o el Fiscal del Tribunal Militar Territorial con sede en Madrid, según sus respectivas atribuciones, designará a uno de sus subordinados, previa autorización del Ministro de Defensa.
+
+## Sección 4
+
+Sección 4.ª Disposición común a las secciones anteriores
+
+### Artículo 101
+
+Los órganos de la Fiscalía Jurídico Militar serán dotados con los miembros del Cuerpo Jurídico Militar precisos para el cumplimiento de su misión y ejercicio de sus funciones, cuyo nombramiento y cese se hará por Orden ministerial.
+Igualmente se dotará a cada órgano de la Fiscalía Jurídico Militar del personal administrativo y auxiliar que fuere necesario.
+Se modifica por la disposición adicional 1.1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+## TÍTULO V
+
+De la defensa, de la acusación particular y de la acción civil
+
+## CAPÍTULO I
+
+De la defensa
+
+### Artículo 102
+
+Todos tienen derecho a la defensa ante la jurisdicción militar.
+
+### Artículo 103
+
+En el ejercicio de este derecho podrán, en cualquier momento, designar defensor entre los Abogados que reúnan las condiciones exigidas por las leyes o solicitar que les sea designado en turno de oficio por el Colegio correspondiente. De no haberlo hecho con anterioridad, en el trámite que señalen las Leyes procesales, se requerirá a los inculpados para que designen Abogado o soliciten designación en turno de oficio, haciéndose constar en el procedimiento. Transcurrido el plazo que determine la Ley Procesal Militar sin efectuar nombramiento, se interesará del Colegio de Abogados que corresponda, la designación de Letrado del turno de oficio a fin de que defienda al inculpado.
+
+### Artículo 104
+
+El inculpado licenciado en Derecho podrá defenderse por sí mismo.
+
+### Artículo 105
+
+Cuando un inculpado ante la jurisdicción militar haya designado defensor o solicitado su nombramiento en turno de oficio, por dos veces en un mismo procedimiento, sumados ambos supuestos, y cesara el último de aquéllos, se interesará la designación de letrado de turno de oficio del Colegio de Abogados correspondiente, siempre que se apreciare abuso de derecho, haciendo constar la circunstancia que lo motiva. El letrado así designado no podrá ser rechazado por el inculpado, ni desistir de su función de defensa.
+
+### Artículo 106
+
+1. Todos los defensores, en su actuación ante la jurisdicción militar, serán libres e independientes, se sujetarán al principio de buena fe, gozarán de los derechos inherentes a la dignidad de su función y serán amparados por aquélla en su libertad de expresión y defensa.
+2. Los defensores deberán guardar secreto de todos los hechos o noticias de que conozcan por razón de cualesquiera de las modalidades de su actuación, no pudiendo ser obligados a declarar sobre los mismos.
+3. Responderán penal, civil y disciplinariamente de las infracciones en que pudieran incurrir en el ejercicio de sus funciones.
+
+### Artículo 107
+
+En unidades fuera del suelo nacional y en buques navegando, cuando fuere preciso instruir diligencias o procedimiento judicial, se informará al interesado que, para su defensa y hasta llegar a suelo español, puede designar a cualquier Oficial de la fuerza o buque.
+De no hacer designación alguna, se le nombrará de oficio, a cuyo fin se establecerá un turno de los Oficiales destinados en la unidad o buque de que se trate.
+La Ley Procesal Militar determinará las exenciones y excusas para actuar como defensor militar.
+
+## CAPÍTULO II
+
+De la acusación particular y de la acción civil
+
+### Artículo 108
+
+Si la comisión de un delito o falta de la competencia de la jurisdicción militar lesionare bienes o derechos de particulares, los perjudicados podrán mostrarse parte en el procedimiento, a cuyo fin se les hará ofrecimiento de acciones, dejando constancia en autos.
+Se declara la inconstitucionalidad y nulidad del párrafo segundo por Sentencia del TC 179/2004, de 21 de octubre. Ref. BOE-T-2004-19640
+
+### Artículo 109
+
+El que ejerza acciones penales o civiles ante la jurisdicción militar, podrá actuar por sí o representado por Procurador habilitado para ello en el lugar en que se sigan las actuaciones. En todo caso deberá estar dirigido por Abogado.
+
+### Artículo 110
+
+Los Abogados y Procuradores están sujetos en el ejercicio de su profesión a responsabilidad civil, penal y disciplinaria, según proceda.
+
+## TÍTULO VI
+
+De la legitimación especial que en el recurso de casación corresponde a los Mandos Militares Superiores
+Se deja sin contenido por el art. 3.2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 111
+
+(Sin contenido)
+Se deja sin contenido por el art. 3.2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 112
+
+(Sin contenido)
+Se deja sin contenido por el art. 3.2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 113
+
+(Sin contenido)
+Se deja sin contenido por el art. 3.2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 114
+
+(Sin contenido)
+Se deja sin contenido por el art. 3.2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+## TÍTULO VII
+
+De la prevención de los procedimientos
+
+### Artículo 115
+
+Los Jefes de Unidad independiente, Fuerzas destacadas, aisladas o con atribuciones militares sobre un territorio, tan pronto como tengan conocimiento de la comisión de un delito de la competencia de la jurisdicción militar, perpetrado por quien les esté subordinado o cometido en el lugar o demarcación de sus atribuciones, deberán comunicarlo por el medio más rápido posible al Juez Togado Militar competente y nombrar a un Oficial a sus órdenes, asistido de Secretario, para que incoe el correspondiente atestado. Ello sin perjuicio de las facultades disciplinarias que puedan ejercer.
+Téngase en cuenta que esta última actualización establecida por la disposición final 1.16 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "Artículo 115
+ Los Oficiales Generales y Oficiales que se señalan en los números 2 al 5 del artículo 27 de la Ley Orgánica de Régimen Disciplinario de las Fuerzas Armadas, y los Jefes de Unidad independiente, Fuerzas destacadas, aisladas o con atribuciones militares sobre un territorio, tan pronto como tengan conocimiento de la comisión de un delito de la competencia de la jurisdicción militar, perpetrado por quien les esté subordinado o cometido en el lugar o demarcación de sus atribuciones, deberán comunicarlo por el medio más rápido posible el Juez Togado Militar competente y nombrar a un Oficial a sus órdenes, asistido de Secretario, para que incoe el correspondiente atestado. Ello sin perjuicio de la facultades disciplinarias que puedan ejercer."
+Se modifica, con efectos de 15 de enero de 2016, por la disposición final 1.16 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se modifica por la disposición adicional 1.4 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 116
+
+El atestado se limitará a las primeras diligencias de averiguación del delito y del culpable, detención de éste, si procede, aseguramiento del mismo, levantamiento de cadáveres con asistencia de facultativo, si es posible, solicitud de autopsia si procede, asistencia a la víctimas y recogida de todos los efectos, instrumentos o pruebas del delito. Tan pronto como comience a actuar el Juez Togado Militar, cesarán las diligencias de prevención, entregándose el atestado a dicho Juez
+
+## TÍTULO VIII
+
+Del Estatuto de las personas con funciones en la Administración de la Justicia Militar
+
+### Artículo 117
+
+Quienes ejerzan funciones judiciales o fiscales, en el ámbito de la jurisdicción militar, sólo podrán ser detenidos por orden de Juez competente o en caso de flagrante delito. En este último supuesto se tomarán las medidas de aseguramiento indispensables y se entregará inmediatamente el detenido al Juez de Instrucción, o al Juez Togado Militar, si se trata de delito de la competencia de la jurisdicción militar, que resulten competentes.
+De toda detención a que se refiere el párrafo anterior se dará cuenta, por el medio más rápido, al Auditor Presidente del Tribunal a que pertenezca o de quien dependa el detenido y si se trata de Fiscal, a su superior jerárquico.
+
+### Artículo 118
+
+Las Autoridades civiles y Mandos Militares se abstendrán de intimar a quienes ejerzan cargos judiciales o fiscales en la jurisdicción militar.
+Cuando dichas Autoridades o Mandos precisen datos o declaraciones que puedan facilitar quienes ejerzan cargos judiciales o fiscales en la jurisdicción militar, se refieran o no a su cargo o función, lo solicitarán por escrito.
+Si no pueden facilitarse, se comunicará así a la Autoridad o Mando peticionario, expresando los motivos.
+
+### Artículo 119
+
+Los miembros del Cuerpo Jurídico Militar que ejerzan funciones judiciales, fiscales o Secretarías Relatorías, estarán sujetos, respectivamente, al régimen de incompatibilidades que se aplique a los Jueces y Magistrados, Fiscales y Secretarios Judiciales de la jurisdicción ordinaria.
+No podrán ser nombrados instructores ni secretarios de expedientes disciplinarios, salvo lo dispuesto en los artículos 122 y 140 de esta Ley, ni de expedientes administrativos, salvo si se trata de expedientes en materia de personal militar seguidos en relación con quienes ejerzan un cargo judicial, fiscal o secretario relator, ni desempeñarán funciones distintas de las atribuidas expresamente por ley en garantía de algún derecho.
+Téngase en cuenta que esta última actualización del párrafo segundo establecida por la disposición final 1.17 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "No podrán ser nombrados instructores ni secretarios de expedientes disciplinarios, salvo lo dispuesto en los artículos 122 y 140 de esta Ley, ni de expedientes administrativos salvo en el caso del artículo 107 de la Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas, cuando estos expedientes se sigan contra quienes ejerzan un cargo judicial, fiscal o secretario relator ni desempeñarán funciones distintas de las atribuidas expresamente por ley en garantía de algún derecho."
+Se modifica el párrafo segundo, con efectos de 15 de enero de 2016, por la disposición final 1.17 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se modifica por el art. 1 y la disposición adicional 1.1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 120
+
+Los militares no podrán ejercer funciones judiciales, fiscales o Secretarías Relatorías donde actúe habitualmente como Abogado ante la jurisdicción militar, su cónyuge o pariente dentro del segundo grado de consanguinidad o afinidad.
+No podrán estar destinados en el mismo órgano judicial militar parientes dentro del segundo grado de consanguinidad o afinidad, ni si se da el mismo parentesco con fiscales que actúen en dicho órgano.
+No podrá destinarse a un Juzgado Togado Militar a quien tenga el citado parentesco con alguno de los miembros del Tribunal Militar a cuyo ámbito pertenezca el Juzgado Togado Militar o con Fiscales del territorio del Tribunal.
+La Sala de Gobierno del Tribunal Militar Central será competente para resolver los casos que se presenten, dando cuenta al Consejo General del Poder Judicial para que se proceda al cese en el destino.
+Téngase en cuenta que esta última actualización del párrafo cuarto establecida por la disposición final 1.18 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "La Sala de Gobierno del Tribunal Militar Central será competente para resolver los casos que se presenten, dando cuenta al Ministro de Defensa para que se proceda al cese en el destino."
+Se modifica el párrafo cuarto, con efectos de 15 de enero de 2016, por la disposición final 1.18 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se modifica por el art. 1 y la disposición adicional 1.1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 121
+
+Las incompatibilidades; exenciones, excusas y recusaciones para asunto determinado, serán reguladas en la Ley Procesal Militar.
+
+### Artículo 122
+
+Las faltas comprendidas en la Ley Orgánica de Régimen Disciplinario de las Fuerzas Armadas que, como militares y cuando no actúen en el ejercicio de sus funciones, cometan los miembros de los Tribunales Militares, Jueces Togados Militares, Fiscales y Secretarios Relatores, serán sancionadas con arreglo a la citada ley.
+En los procedimientos por faltas graves y muy graves, el nombramiento de instructor recaerá en un oficial del Cuerpo Jurídico Militar que ejerza funciones judiciales o fiscales, según corresponda.
+Téngase en cuenta que esta última actualización del párrafo segundo establecida por la disposición final 1.3 de la Ley Orgánica 8/2014, de 4 de diciembre. Ref. BOE-A-2014-12652. entra en vigor el 5 de marzo de 2015.
+ Redacción anterior:
+ "En los procedimientos por falta grave y en los expedientes gubernativos, el nombramiento de instructor recaerá en un Oficial u Oficial General del Cuerpo Jurídico Militar que ejerza funciones judiciales o fiscales, según corresponda."
+Se modifica el párrafo segundo por la disposición final 1.3 de la Ley Orgánica 8/2014, de 4 de diciembre. Ref. BOE-A-2014-12652.
+ Se modifica por el art. 1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se modifica por la disposición adicional 3.1 de la Ley Orgánica 8/1998, de 2 de diciembre. Ref. BOE-A-1998-27864
+
+### Artículo 123
+
+La imposición de las sanciones disciplinarias por falta muy grave reguladas en la Ley Orgánica 8/2014, de 4 de diciembre, de Régimen Disciplinario de las Fuerzas Armadas, a los militares que ejerzan funciones judiciales corresponde en exclusiva a la Sala de Gobierno del Tribunal Militar Central. Esta misma Sala deberá ser oída cuando se trate de militares que ejerzan Secretarías Relatorías. Cuando ejerzan funciones fiscales, deberá oírse en el expediente al Fiscal Togado.
+Téngase en cuenta que esta última actualización establecida por la disposición final 1.19 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. entra en vigor el 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "Artículo 123
+ Para la imposición de sanciones disciplinarias por falta muy grave, reguladas en la Ley Orgánica de Régimen Disciplinario de las Fuerzas Armadas, a los miembros del Cuerpo Jurídico Militar que ejerzan funciones judiciales será competente la Sala de Gobierno del Tribunal Militar Central.
+ Cuando ejerzan funciones fiscales deberá oírse en el procedimiento al Fiscal Togado."
+Se modifica, con efectos de 15 de enero de 2016, por la disposición final 1.19 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se modifica por la disposición final 1.4 de la Ley 4/2014, de 4 de diciembre. Ref. BOE-A-2014-12652.
+ Se modifica por la disposición adicional 3.2 de la Ley Orgánica 8/1998, de 2 de diciembre. Ref. BOE-A-1998-27864
+
+### Artículo 124
+
+Cuando se trate de sancionar al personal auxiliar de órganos judiciales o fiscales se aplicará el régimen sancionador militar general o el común, según se trate de militares o no militares.
+
+## TÍTULO IX
+
+De la inspección, de la responsabilidad disciplinaria judicial y de la potestad correctora
+
+## CAPÍTULO I
+
+De la inspección de Juzgados y Tribunales
+
+### Artículo 125
+
+Corresponde al Consejo General del Poder Judicial la inspección de todos los órganos de la jurisdicción militar. Para realizar la inspección de los Tribunales Militares Territoriales y de los Juzgados Togados, cuando el Consejo no lo haga por sí, éste designará a uno de los miembros de la Sala de Gobierno del Tribunal Militar Central, quien informará por escrito del resultado de las actuaciones.
+
+### Artículo 126
+
+Sin perjuicio de lo establecido en el artículo anterior, la Sala de Gobierno del Tribunal Militar Central podrá ejercer, por propia iniciativa, la inspección de los Tribunales Militares Territoriales y de los Juzgados Togados. Para ello designará a uno de sus miembros o delegará en el Auditor Presidente de un Tribunal Militar Territorial, o en un Juez Togado Central, quienes con el resultado informarán por escrito a la Sala. De dicho informe se dará traslado al Consejo General del Poder Judicial.
+
+### Artículo 127
+
+(Sin contenido)
+Téngase en cuenta que este artículo queda sin contenido por la disposición final 1.20 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera. a partir del 15 de enero de 2016, según determina su disposición final 8.
+ Redacción anterior:
+ "Artículo 127
+ El Ministro de Defensa, cuando lo considere necesario, podrá instar de la Sala de Gobierno del Tribunal Militar Central la inspección de cualquier Juzgado Togado o Tribunal Militar Territonal. En este caso, la Sala comunicará al Ministro y al Consejo General del Poder Judicial el resultado de la inspección. Todo ello sin perjuicio de las facultades que corresponden a la Fiscalía Jurídico-Militar."
+Se deja sin contenido, con efectos de 15 de enero de 2016, por la disposición final 1.20 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+## CAPÍTULO II
+
+De la responsabilidad disciplinaria judicial
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 128
+
+Quienes ejerzan cargos judiciales, fiscales o secretarías relatorías estarán sujetos a responsabilidad disciplinaria judicial en los casos y con las garantías establecidas en esta ley.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 129
+
+La responsabilidad disciplinaria sólo podrá exigirse por la autoridad competente, mediante el procedimiento establecido en este capítulo.
+La incoación de un procedimiento penal no será obstáculo para la iniciación de un expediente disciplinario por los mismos hechos, pero no se dictará resolución en éste hasta tanto no haya recaído sentencia o auto de sobreseimiento firmes en la causa penal. En todo caso, la declaración de hechos probados contenida en la resolución que pone término al procedimiento penal vinculará a la resolución que se dicte en el expediente disciplinario, sin perjuicio de la distinta calificación jurídica que puedan merecer en una y otra vía.
+Sólo podrá recaer sanción penal y disciplinaria sobre los mismos hechos cuando no hubiere identidad de fundamento jurídico y de bien jurídico protegido.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se deja sin contenido por la disposición adicional 1.17 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+### Artículo 130
+
+Las faltas disciplinarias judiciales cometidas por quienes ejercen cargos judiciales, fiscales o secretarías relatorías podrán ser muy graves, graves y leves.
+Las faltas muy graves prescribirán a los dos años, las graves al año y las leves a los seis meses.
+Estos plazos comenzarán a contarse desde el día en que la infracción se hubiera cometido. No obstante, en el supuesto previsto en el apartado 4 del artículo 131 el plazo de prescripción se iniciará a partir de la firmeza de la sentencia que declare la responsabilidad civil del interesado.
+La prescripción se interrumpirá desde la fecha de notificación al presunto responsable del acuerdo de iniciación del expediente disciplinario o, en su caso, de las diligencias informativas relacionadas con la investigación de la conducta de aquél, volviendo a correr el plazo de prescripción si el procedimiento permanece paralizado durante seis meses por causa no imputable al expedientado.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se deja sin contenido por la disposición adicional 1.17 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+### Artículo 131
+
+Se consideran faltas muy graves:
+1. El incumplimiento consciente del deber de fidelidad a la Constitución establecido en el artículo 5 de esta ley, cuando así se aprecie en sentencia firme.
+2. Los enfrentamientos graves y reiterados, por causas imputables a las personas a que se refiere el artículo 128 de esta ley, con las autoridades y con los mandos militares de la circunscripción en que desempeñen su cargo.
+3. La intromisión, mediante órdenes o presiones de cualquier tipo, en la aplicación o interpretación de las leyes que corresponda a cualquier otro órgano judicial.
+4. Las acciones y omisiones que hayan dado lugar en sentencia firme a una declaración de responsabilidad civil contraída en el ejercicio de la función con dolo o culpa grave.
+5. El ejercicio de cualquiera de las actividades incompatibles a que se refiere el primer párrafo del artículo 119, primer párrafo, de esta ley.
+6. Provocar el propio nombramiento para cargos judiciales, fiscales o de secretaría relatoría cuando concurra alguna de las situaciones de incompatibilidad o prohibición previstas en el artículo 120 de esta ley, o mantenerse en el desempeño de su cargo sin poner en conocimiento del órgano competente las circunstancias necesarias para proceder al cese en el destino.
+7. La inobservancia del deber de abstención a sabiendas de que concurre alguna de las causas legalmente previstas.
+8. La desatención o el retraso injustificado y reiterado en la iniciación, tramitación o resolución de procesos y causas o en el ejercicio de cualquiera de las competencias judiciales, fiscales y de las secretarías relatorías.
+9. Faltar a la verdad en la solicitud de obtención de permisos, autorizaciones, declaraciones de compatibilidad, dietas y ayudas económicas.
+10. La revelación de hechos o datos conocidos en el ejercicio de su cargo o con ocasión de éste, cuando se cause algún perjuicio a la tramitación de un procedimiento o a cualquier persona.
+11. El abuso de la condición de juez, fiscal o secretario relator para obtener un trato favorable e injustificado de autoridades, funcionarios o profesionales.
+12. La comisión de una falta grave habiendo sido anteriormente sancionado por otras dos faltas graves, que hayan adquirido firmeza, sin que hubieran sido canceladas o procedido la cancelación de las correspondientes anotaciones, conforme a lo establecido en el artículo 137 de esta ley.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se deja sin contenido por la disposición adicional 1.17 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+### Artículo 132
+
+Se consideran faltas graves:
+1. La falta de respeto a los superiores en el orden jerárquico judicial o fiscal, en su presencia o en escrito que se les dirija o con publicidad.
+2. Interesarse, mediante cualquier clase de recomendación, en el ejercicio de la actividad jurisdiccional de otro órgano judicial o fiscal.
+3. Dirigir a los poderes, autoridades o funcionarios públicos o corporaciones oficiales felicitaciones o censuras por sus actos, invocando funciones judiciales o fiscales.
+4. Corregir la aplicación e interpretación del ordenamiento jurídico hecha por los inferiores en el orden jurisdiccional, salvo cuando actúen en el ejercicio de la jurisdicción.
+5. El exceso o abuso de autoridad o falta grave de consideración respecto de los subordinados, jueces o miembros del tribunal ante los que se actúe, miembros de la Fiscalía Jurídico Militar, abogados, procuradores y de quienes acudiesen o actuasen ante los órganos judiciales o fiscales militares en cualquier concepto, si no fuesen constitutivos de delito.
+6. Dejar de promover la exigencia de la responsabilidad disciplinaria que proceda a sus subordinados cuando conociesen o debiesen conocer el incumplimiento grave por aquéllos de los deberes que les corresponden.
+7. Revelar hechos o datos conocidos en el ejercicio de su función o con ocasión de éste, cuando no constituya la falta muy grave del apartado 10 del artículo 131.
+8. La ausencia injustificada, de 24 horas a tres días, de la sede del órgano judicial o fiscal en que se halle destinado.
+9. El incumplimiento injustificado y reiterado del horario de audiencia pública y la inasistencia injustificada a los actos procesales con audiencia pública que estuviesen señalados, cuando no constituya falta muy grave.
+10. El retraso injustificado en la iniciación o en la tramitación de los procesos o causas de que conozca, si no constituye falta muy grave.
+11. El incumplimiento o desatención reiterada a los requerimientos que en el ejercicio de sus legítimas competencias realizasen el Consejo General del Poder Judicial, la Sala de Gobierno del Tribunal Militar Central y los Auditores Presidentes de los Tribunales Militares Central y Territoriales y, en el caso de quienes desempeñasen cargos fiscales, del Fiscal General del Estado, del Fiscal Togado o Fiscales Jefes de los Tribunales Militares y sus respectivos representantes, o la obstaculización, en su caso y en todos los supuestos, de sus funciones inspectoras.
+12. El ejercicio de cualquier actividad de las consideradas compatibilizables a que se refiere el artículo 119 de esta ley sin obtener, cuando esté prevista, la pertinente autorización o habiéndola obtenido con falta de veracidad en los presupuestos alegados.
+13. La abstención injustificada, cuando así sea declarada por el órgano competente de acuerdo con lo dispuesto en la Ley Orgánica Procesal Militar.
+14. El incumplimiento, por los fiscales de las órdenes concretas e instrucciones sobre aplicación e interpretación de las leyes, con carácter general o referentes a un hecho determinado, que les hayan sido dadas por sus superiores.
+15. La comisión de una falta leve habiendo sido anteriormente sancionado por resolución firme por otras dos faltas leves, sin que hubieran sido canceladas o procedido la cancelación de las correspondientes anotaciones, conforme a lo establecido en el artículo 137.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se deja sin contenido por la disposición adicional 1.17 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+### Artículo 133
+
+Se consideran faltas leves:
+1. La falta de respeto a los superiores en el orden jerárquico judicial o fiscal cuando no concurran las circunstancias que calificarían la conducta de falta grave.
+2. La desatención o leve desconsideración con iguales o subordinados en el orden jerárquico judicial o fiscal, con Jueces o miembros del tribunal ante el que se actúe, miembros de la Fiscalía Jurídico Militar, secretarios relatores, abogados, procuradores y con quienes acudiesen o actuasen ante los órganos judiciales o fiscales militares en cualquier concepto.
+3. El incumplimiento injustificado o inmotivado de los plazos legalmente establecidos para dictar resolución o despachar trámite en cualquier clase de asunto que conozca o en que intervenga.
+4. La ausencia injustificada, por menos de veinticuatro horas, de la sede del órgano judicial o fiscal en que se halle destinado.
+5. La desatención a los requerimientos que en el ejercicio de sus legítimas competencias realizasen el Consejo General del Poder Judicial, la Sala de Gobierno del Tribunal Militar Central y los Auditores Presidentes de los Tribunales Militares Central y Territoriales y, en el caso de quienes desempeñen cargos fiscales, del Fiscal General del Estado, Fiscal Togado o Fiscales Jefes de Tribunales Militares o sus representantes.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se deja sin contenido por la disposición adicional 1.17 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+### Artículo 134
+
+Las sanciones que se pueden imponer a quienes ejerzan cargos judiciales, fiscales o secretarías relatorías, por las faltas cometidas en el ejercicio de sus cargos, son:
+a) Advertencia.
+b) Pérdida de uno a veinte días de haberes.
+c) Pérdida de destino, que tendrá como efecto el cese en el cargo que desempeñe el sancionado, quien no podrá durante dos años ser destinado a cargos judiciales, fiscales o de secretaría relatoría.
+d) Suspensión hasta tres años.
+e) Separación del servicio.
+Las faltas leves se sancionarán con advertencia o pérdida de uno a cinco días de haberes; las graves con pérdida de seis a 20 días de haberes, y las muy graves con pérdida de destino, suspensión o separación del servicio.
+Las sanciones impuestas por faltas muy graves prescribirán a los dos años; las impuestas por faltas graves al año, y por faltas leves a los seis meses.
+Los plazos de prescripción comenzarán a computarse desde el día siguiente a aquel en que adquiera firmeza la resolución en que se impongan.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se deja sin contenido por la disposición adicional 1.17 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+### Artículo 135
+
+La sanción de pérdida de haberes y las impuestas por faltas muy graves serán comunicadas, a los efectos de su ejecución, al Ministerio de Defensa.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 136
+
+Las sanciones disciplinarias serán anotadas en el expediente personal del interesado, con expresión de la falta cometida.
+El órgano que las impusiera cuidará de que se cumpla lo dispuesto en el párrafo anterior.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se deja sin contenido por la disposición adicional 1.17 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+### Artículo 137
+
+La anotación de la sanción de advertencia quedará cancelada por el transcurso del plazo de seis meses desde que adquirió firmeza, si durante ese tiempo no hubiere dado lugar el sancionado a otro procedimiento disciplinario que termine con la imposición de sanción.
+La anotación de las restantes sanciones, con excepción de la de separación, podrá cancelarse, a instancia del interesado y oído el Fiscal Togado, cuando hayan transcurrido al menos uno, dos o cuatro años desde la imposición firme de la sanción, según que se trate de falta leve, grave o muy grave, y durante este tiempo no hubiere dado lugar el sancionado a nuevo procedimiento disciplinario que termine con la imposición de sanción.
+Los mismos efectos producirá el transcurso de los plazos establecidos en el párrafo anterior y seis meses más.
+La cancelación de las anotaciones producirá el efecto de anular la inscripción sin que pueda certificarse de ella, salvo cuando lo soliciten las autoridades competentes a los exclusivos efectos de las clasificaciones reglamentarias, de concesión de recompensas y del otorgamiento de aquellos destinos cuyo desempeño se considere incompatible con la naturaleza de las conductas que hubiesen determinado las sanciones de que se trata.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se deja sin contenido por la disposición adicional 1.17 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+## Sección 2
+
+Sección 2.ª De la competencia y procedimiento sancionadores en relación con quienes ejerzan funciones judiciales
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 138
+
+Serán competentes para la imposición de sanciones a quienes ejerzan cargos judiciales militares:
+a) La Sala de Gobierno del Tribunal Militar Central, para las sanciones de advertencia y de pérdida de haberes, en toda su extensión.
+b) La Comisión Disciplinaria del Consejo General del Poder Judicial, para las sanciones de pérdida de destino y suspensión.
+c) El Pleno del Consejo General del Poder Judicial, para la sanción de separación del servicio.
+No obstante, los órganos referidos anteriormente pueden imponer sanciones de menor gravedad que las que tienen ordinariamente atribuidas si, al examinar un expediente que inicialmente está atribuido a su competencia, resulta que los hechos objeto del mismo merecen un inferior reproche disciplinario.
+En la imposición de las sanciones deberá observarse la debida adecuación o proporcionalidad entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se deja sin contenido por la disposición adicional 1.17 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+### Artículo 139
+
+La sanción de advertencia se impondrá sin más trámite que la audiencia del interesado, previa una sumaria información. Contra la resolución por la que se imponga esta sanción podrá interponerse el recurso jurisdiccional previsto en el artículo 142, por las mismas personas y en idénticas condiciones a las establecidas en dicho artículo.
+Las restantes sanciones deberán ser impuestas mediante la tramitación del procedimiento establecido en los artículos siguientes.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se deja sin contenido por la disposición adicional 1.17 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+### Artículo 140
+
+El procedimiento disciplinario se iniciará de oficio, por acuerdo adoptado por los órganos que tengan facultad de sancionar conforme al artículo 138, bien por propia iniciativa, como consecuencia de orden o petición razonada de distinto órgano, o de denuncia. También se iniciará a instancia del Fiscal Togado.
+Toda denuncia sobre el funcionamiento de la jurisdicción militar será objeto, en el plazo de un mes, de informe del Jefe del Servicio de Inspección del Consejo General del Poder Judicial, quien podrá proponer el archivo de plano, la formación de diligencias informativas o la incoación directa de procedimiento disciplinario.
+La resolución motivada que dicte la Sala de Gobierno del Tribunal Militar Central o la Comisión Disciplinaria del Consejo General del Poder Judicial, en este caso previo informe de la sala anterior, sobre la iniciación del expediente se notificará al denunciante, que únicamente podrá impugnarla en la vía jurisdiccional contencioso disciplinaria.
+Si se incoase expediente disciplinario se notificarán al denunciante las resoluciones que recaigan y podrá formular alegaciones, pero no recurrir la decisión del expediente en vía administrativa, contra la que únicamente podrá acudir a la vía jurisdiccional citada.
+En la resolución por la que se acuerda la incoación del procedimiento se designará como instructor a un miembro del Cuerpo Jurídico Militar que ejerza funciones judiciales, de superior empleo o de mayor antigüedad que el expedientado, salvo que el instructor designado sea un Oficial General de dicho cuerpo, que será válido para cualquier expedientado. Asimismo, se designará un Secretario, del mismo cuerpo y en las mismas funciones, que asistirá al instructor.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se deja sin contenido por la disposición adicional 1.17 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+### Artículo 141
+
+Cuando aparezcan indicios racionales de la comisión de una falta muy grave, la Comisión Disciplinaria del Consejo General del Poder Judicial, por propia iniciativa, oído el Instructor del expediente o a propuesta de éste, previa audiencia del expedientado, del Fiscal Jurídico Militar y de la Sala de Gobierno del Tribunal Militar Central, podrá acordar cautelarmente la suspensión provisional del expedientado, por un período máximo de seis meses.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se deja sin contenido por la disposición adicional 1.17 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+### Artículo 142
+
+El instructor practicará cuantas actuaciones sean necesarias para la determinación y comprobación de los hechos y de las responsabilidades susceptibles de sanción, con intervención del Fiscal Jurídico Militar y del expedientado, que podrá contar en todo momento con el asesoramiento del abogado que designe.
+Practicadas aquellas actuaciones, el instructor formulará el correspondiente pliego de cargos, si a ello hubiese lugar, en el que se harán constar los hechos que le sirven de fundamento, con expresión de la falta presuntamente cometida y las sanciones que pudieran serle de aplicación.
+El pliego de cargos se notificará al interesado para que, en el plazo de ocho días, pueda contestarlo y proponer la prueba que estime conveniente a su defensa, cuya pertinencia será apreciada por el Instructor mediante acuerdo motivado y notificado al expedientado.
+Contestado el pliego de cargos o transcurrido el plazo para ello, y practicadas, en su caso, las pruebas propuestas por el interesado y admitidas por el instructor, formulará éste, previa audiencia del Fiscal Jurídico Militar, propuesta motivada y fundada de resolución, en la que fijarán con precisión los hechos, realizará su valoración jurídica de los mismos e indicará la sanción que a su juicio considere procedente.
+Dicha propuesta de resolución se notificará al expedientado, dándole vista del procedimiento para que, en el plazo de ocho días, formule las alegaciones que estime convenientes a su derecho.
+Formuladas las alegaciones, o transcurrido el plazo para ello, se remitirá el expediente, con carácter inmediato, al órgano que hubiese ordenado su incoación para la resolución que proceda. De carecer este órgano de competencia necesaria para la imposición de la sanción que considere procedente, elevará el procedimiento, con su propuesta, al que resulte competente.
+Cuando se trate de faltas muy graves, deberá solicitarse informe de la Sala de Gobierno del Tribunal Militar Central una vez evacuado o finalizado el trámite de alegaciones a la propuesta de resolución.
+Podrán los órganos competentes devolver el expediente a su instructor para que comprenda otros hechos en el pliego de cargos, complete la instrucción o someta al expedientado una propuesta de resolución que incluya una calificación jurídica de mayor gravedad.
+La duración del procedimiento no podrá exceder de seis meses. No obstante, cuando por razones excepcionales se prolongase por mayor plazo, el instructor deberá dar cuenta, cada 10 días, del estado de tramitación y de las circunstancias que impiden su conclusión al órgano que hubiese dado la orden de proceder.
+La resolución que ponga término al expediente disciplinario será motivada y en ella no se podrán contemplar otros hechos distintos de los que sirvieron de base a la propuesta de resolución, sin perjuicio de su distinta valoración jurídica siempre que no sea de mayor gravedad.
+La resolución recaída en el procedimiento deberá ser notificada al expedientado y al Fiscal Jurídico Militar, quienes podrán interponer contra ella recurso contencioso disciplinario militar, en el plazo de dos meses, ante la Sala Quinta de lo Militar del Tribunal Supremo.
+Asimismo, la resolución dictada en el procedimiento se notificará al denunciante, si lo hubiera, quien podrá recurrir, en su caso, ante la Sala prevista en el párrafo anterior.
+La resolución sancionadora será ejecutiva aun cuando se hubiese interpuesto el recurso jurisdiccional previsto en los párrafos anteriores, salvo que aquella Sala acuerde su suspensión.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se deja sin contenido por la disposición adicional 1.17 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+## Sección 3
+
+Sección 3.ª De la competencia y procedimiento sancionadores en relación con los miembros de la Fiscalía Jurídico-Militar
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 143
+
+Serán competentes para la imposición de sanciones:
+1.º Para imponer la de advertencia, el Fiscal Jefe respectivo y, en todo caso, el Fiscal Togado.
+2.º Para imponer la de pérdida de haberes, en toda su extensión, y la de pérdida de destino, el Fiscal General del Estado y, por su delegación, el Fiscal Togado.
+3.º Para imponer las de suspensión y separación del servicio, el Ministro de Defensa, a propuesta del Fiscal General del Estado.
+Se modifica por el art. 2 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+ Se modifica por la disposición adicional 1.16 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+### Artículo 144
+
+La sanción de advertencia podrá imponerse, previa audiencia del interesado. Para la imposición de las restantes, será preceptiva la instrucción de expediente contradictorio, con audiencia del interesado.
+La incoación del expediente contradictorio será competencia de la Autoridad sancionadora que determina el artículo 143.
+En el expediente contradictorio se tendrá en cuenta lo dispuesto en el artículo 142, en cuanto le sea aplicable.
+
+### Artículo 145
+
+Las resoluciones del Fiscal Jefe serán recurribles en alzada ante el Fiscal Togado. Las de éste, cuando no actúe por delegación, dictadas en instancia, ante el Fiscal General del Estado.
+Las resoluciones del Fiscal General del Estado o las del Fiscal Togado, cuanto actúe por delegación de aquél, dictadas en instancia, serán recurribles en alzada ante el Ministro de Defensa.
+Las resoluciones en vía de recurso del Fiscal Togado y del Fiscal General del Estado, y las del Ministro de Defensa, serán recurribles ante la Sala de lo Militar del Tribunal Supremo.
+
+## Sección 4
+
+Sección 4.ª De la competencia y procedimiento sancionador en relación con los miembros de las Secretarías Relatorías
+
+### Artículo 146
+
+Serán competentes para la imposición de sanciones a quienes desempeñen Secretarías Relatorías:
+1. El Auditor Presidente del Tribunal o Juez Togado del que dependan, para las faltas leves.
+2. La Sala de Gobierno del Tribunal Militar Central, para las faltas graves.
+3. El Ministro de Defensa, para las faltas muy graves.
+
+### Artículo 147
+
+La sanción de advertencia podrá imponerse previa audiencia del interesado. Para la imposición de las restantes, será preceptivo la instrucción de un expediente contradictorio, con audiencia del interesado e intervención de la Fiscalía Jurídico-Militar. En este expediente se tendrá en cuenta lo dispuesto en el artículo 142, en cuanto le sea aplicable.
+La incoación del expediente contradictorio será competencia de las autoridades sancionadoras.
+
+### Artículo 148
+
+Las resoluciones de los Auditores Presidentes de los Tribunales Militares o de los Jueces Togados Militares, serán recurribles en alzada ante la Sala de Gobierno del Tribunal Militar Central.
+Las resoluciones de la Sala de Gobierno del Tribunal Militar Central dictadas en instancia, será recurribles en alzada ante el Ministro de Defensa.
+Las resoluciones en vía de recurso del Tribunal Militar Central y las del Ministro de Defensa, serán recurribles en vía contencioso disciplinaria militar ante la Sala de lo Militar del Tribunal Supremo.
+
+## CAPÍTULO III
+
+De la responsabilidad disciplinaria de los defensores, acusadores particulares, actores civiles y Procuradores
+
+### Artículo 149
+
+Incurrirán en responsabilidad disciplinaria los defensores, acusadores particulares, actores civiles y Procuradores que intervengan en los procedimientos judiciales militares por la comisión de los siguientes hechos, siempre que no constituyan delito:
+1. Cuando incumplieren las obligaciones que les impone esta Ley y la Procesal Militar.
+2. Cuando en su actuación forense faltaren oralmente, por escrito o por obra, al respeto debido a los Juzgados y Tribunales Militares, Fiscales, otros defensores, Secretarios Relatores o cualquier persona que intervenga o se relacione con el procedimiento judicial.
+3. Cuando, llamados al orden, en las alegaciones orales desobedecieren reiteradamente al que presida.
+4. Cuando no comparecieren ante el órgano judicial militar sin causa justificada, una vez citados en forma.
+5. Cuando traten maliciosamente de retrasar el procedimiento.
+
+### Artículo 150
+
+Las correcciones que pueden imponerse a las personas a que se refiere el artículo anterior son:
+1. Apercibimiento.
+2. Multa; cuya máxima cuantía será la prevista en el Código Penal como pena correspondiente a las faltas.
+La imposición de la corrección señalada en el número 2 se hará atendiendo a la gravedad, antecedentes y circunstancias de los hechos cometidos, previa audiencia del interesado.
+
+### Artículo 151
+
+Las correcciones se impondrán por el Juez Togado militar o Tribunal militar ante el que se sigan las actuaciones.
+Podrán imponerse en los propios autos o en procedimiento aparte. En todo caso, por el Secretario Relator se hará constar el hecho que motive la actuación correctora, las alegaciones del implicado y el acuerdo que se adopte por el Juez Togado militar o por el Tribunal Militar.
+
+### Artículo 152
+
+Contra el acuerdo del Juez Togado militar o Tribunal Militar Territorial, imponiendo la sanción, podrá interponerse, en plazo de tres días, recurso de audiencia en justicia ante los respectivos órganos judiciales, que lo resolverán en el siguiente día. Contra este acuerdo o contra el de imposición de sanción, en el caso de que no se hubiese utilizado el recurso de audiencia en justicia, cabrá recurso de alzada, en el plazo de cinco días, ante la Sala de Gobierno del Tribunal Militar Central.
+Contra el acuerdo de imposición de la corrección de la Sala de Justicia del Tribunal Militar Central sólo cabrá recurso de súplica ante la misma.
+
+### Artículo 153
+
+Cuando fuere procedente alguna de las correcciones especiales previstas en la Ley procesal militar para estos casos determinados, se aplicará, en cuanto al modo de imponerla y recursos utilizables, lo que se establece en los dos artículos anteriores.
+
+### Artículo 154
+
+Una vez firme la sanción, se comunicará, a los efectos oportunos, al Colegio profesional a que, en su caso, pertenezca el sancionado.
+
+## CAPÍTULO IV
+
+De la potestad correctora sobre los que intervienen en los procedimientos o asisten a los actos judiciales
+
+### Artículo 155
+
+A los testigos, peritos, traductores o intérpretes y demás personas que intervengan en el procedimiento sin pertenecer al órgano judicial militar ni ser parte y a los que asistan a las vistas o diligencias judiciales se les podrá sancionar por hechos que, sin constituir delito, supongan infracción de deberes procesales, perturben el orden, desobedezcan indicaciones o falten a la consideración debida al órgano judicial o a cuantos intervienen en el proceso.
+Las sanciones que pueden imponerse son las siguientes:
+Advertencia.
+Expulsión de la sede del órgano judicial o del lugar donde se celebra la vista o diligencia judicial.
+Multa, cuya cuantía máxima será la prevista en el Código Penal para las faltas.
+Para la imposición de las dos últimas sanciones se precisará la advertencia previa, al menos una vez, si los hechos no revistieran especial trascendencia.
+
+### Artículo 156
+
+Tienen facultad correctora para imponer las sanciones que se mencionan en el artículo anterior, dentro de sus respectivas atribuciones, los Jueces Togados militares y los Auditores Presidentes de los Tribunales Militares.
+Sólo contra la sanción de multa cabrá recurso de alzada, del que conocerá la Sala de Gobierno del Tribunal Militar Central.
+
+## TÍTULO X
+
+De la jurisdicción militar en situación de conflicto armado
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 157
+
+En situación de conflicto armado, los órganos de la jurisdicción militar desempeñarán sus funciones con observancia de las disposiciones que anteceden de la presente Ley y de las especialidades que, deducidas de la situación bélica, se recogen en los artículos siguientes.
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Artículo 158
+
+El Gobierno podrá disponer que, en atención al alejamiento de la zona de combate, tranquilidad pública en amplias zonas geográficas, normal funcionamiento de las instituciones u otras circunstancias, no sean de aplicación las especialidades propias de la situación de conflicto armado que se recogen en este Título, en la actuación de la jurisdicción militar, en los lugares, regiones geográficas o territorios que señale.
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Artículo 159
+
+Todos los que integren órganos o ejerzan cargo o destino en la jurisdicción militar en situación de conflicto armado podrán encontrarse en cualquier situación militar.
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Artículo 160
+
+Las necesidades de personal que surjan para atender un potencial aumento de Tribunales Militares, o Juzgados Togados Militares y demás órganos al servicio de la jurisdicción militar, en situación de conflicto armado, podrán ser cubiertas por destino forzoso a estos órganos de los miembros del Cuerpo Jurídico Militar en funciones distintas a la judicial o por miembros de dichos Cuerpos en situaciones ajenas a la de actividad.
+En su defecto, podrá habilitarse para ello a Licenciados en Derecho, a quienes se conferirá asimilación a Oficial.
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se modifica por la disposición adicional 1.1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 161
+
+En situación de conflicto armado, el nombramiento y cese de cuantos ejercen cargo o destino en la jurisdicción militar será de libre decisión del Gobierno, Ministro de Defensa o Autoridades en quienes deleguen, salvo en la Sala de lo Militar del Tribunal Supremo, que seguirá rigiéndose por lo dispuesto en el capítulo primero del título II de esta Ley.
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+## CAPÍTULO II
+
+De los órganos que ejercen la jurisdicción militar en situación de conflicto armado
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Artículo 162
+
+En situación de conflicto armado, la Sala de Justicia del Tribunal Militar Central y cada una de las Secciones de los Tribunales Militares Territoriales, bien actúen en su sede, o por acuerdo del Gobierno, a propuesta del Ministro de Defensa, se desplacen a la zona de operaciones, se constituirán por el Auditor Presidente o quien le sustituya, un Vocal Togado y un Vocal militar, para el ejercicio de todas las competencias que se señalan en los artículos 34 y 45, respectivamente.
+El Vocal Militar tendrá carácter permanente y será designado por el Ministro de Defensa.
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se suprime el párrafo segundo y se modifica el párrafo tercero por el art. 3.1 y 2 de la Ley Orgánica 11/1995, de 27 de noviembre. Ref. BOE-A-1995-25714
+
+### Artículo 163
+
+El Ministro de Defensa podrá acordar el traslado a la zona de operaciones del número de Juzgados Togados Militares que estime pertinente, cuya designación corresponderá, en trámite urgente, a la Sala de Gobierno del Tribunal Militar Central.
+
+### Artículo 164
+
+Efectuados los traslados previstos en los artículos anteriores, la Sala de Gobierno del Tribunal Militar Central acordará las prórrogas de jurisdicción necesarias para asegurar en el suelo nacional la pronta y eficaz actuación de la jurisdicción militar.
+
+## CAPÍTULO III
+
+De la prevención de procedimientos en situación de conflicto armado
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Artículo 165
+
+En situación de conflicto armado, los Oficiales Generales u Oficiales con mando de Unidad Centro, Base, Buque, Aeronave, Fuerzas destacadas, aisladas o con atribuciones militares sobre un territorio, podrán ordenar la incoación de procedimiento judicial, por delitos o faltas de la competencia de la jurisdicción militar que se cometan en territorios, lugares, Unidades o Fuerzas de su mando.
+A tal efecto podrán nombrar Juez militar y Secretario entre aquellos de sus subordinados que reúnan condiciones de idoneidad que a juicio de los citados mandos militares hagan aconsejable su designación. El Juez militar deberá tener categoría de Oficial.
+La instrucción deberá ser completada, en su caso, y conclusa por el Juez Togado Militar que resulte competente,
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+## CAPÍTULO IV
+
+De la Fiscalía Jurídico Militar, de la defensa, la acusación particular y la acción civil en situación de conflicto armado
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Artículo 166
+
+En situación de conflicto armado, el Ministro de Defensa podrá acordar el desplazamiento del personal del Cuerpo Jurídico Militar en funciones de fiscalía para que las desempeñen ante los órganos jurisdiccionales en la zona de operaciones. Cuando fuere necesario, podrá adscribirse a estas funciones a personal de dichos Cuerpos en el desempeño de otras actividades, y en cualquier situación militar, o habilitarse a licenciados en Derecho.
+De estos acuerdos se dará comunicación al Fiscal General del Estado, por conducto del Fiscal Togado.
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+ Se modifica por la disposición adicional 1.1 de la Ley Orgánica 9/2003, de 15 de julio. Ref. BOE-A-2003-14186
+
+### Artículo 167
+
+En situación de conflicto armado, en las actuaciones de los órganos jurisdiccionales militares en territorio español cuando no funcionen normalmente los Colegios de Abogados, o fuera del territorio nacional, los inculpados podrán nombrar defensor a un militar con categoría de Oficial. De no designarlo en el plazo que determine la Ley Procesal Militar se les nombrará de oficio en la forma que en ésta se señale.
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Artículo 168
+
+En situación de conflicto armado, en el ámbito de aplicación de este título, no se admitirán la acusación particular, ni la intervención del actor civil, sin perjuicio de la posibilidad de ejercitar la acción civil ante la jurisdicción ordinaria.
+Se sustituye la expresión "tiempo de guerra" por "en situación de conflicto armado", con efectos de 15 de enero de 2016, según establece la disposición final 1.1 de la Ley Orgánica 14/2015, de 14 de octubre. Ref. BOE-A-2015-11070#dfprimera.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En el plazo de seis meses desde el día siguiente a la publicación de esta Ley, el Gobierno, a propuesta del Ministro de Defensa o éste, en su caso, aprobarán las disposiciones necesarias para su aplicación.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Con la antelación suficiente a la entrada en vigor de la totalidad de esta Ley, se procederá al nombramiento de quienes han de integrar los órganos que en ella se crean, que se constituirán a la entrada en vigor de aquélla.
+El nombramiento de los miembros de los Cuerpos Jurídicos de los Ejércitos que formarán los primeros órganos judiciales militares, fiscales y secretarías relatorías, se hará por el Ministro de Defensa, sin necesidad de propuesta, salvo lo dispuesto para la designación de los componentes de la Sala de lo Militar del Tribunal Supremo de procedencia de los citados Cuerpos Jurídicos de los Ejércitos.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Se faculta al Gobierno para que con anterioridad al 1 de mayo de 1988, dicte las disposiciones necesarias en orden a la atribución de las funciones que desempeña el Conejo Supremo de Justicia Militar, como Asamblea de las Reales y Militares Ordenes de San Fernando y San Hermenegildo y en relación con el señalamiento de haberes pasivos.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Las referencias a los Cuerpos Jurídicos de los Ejércitos que se contienen en esta Ley se entenderán hechas al Cuerpo Militar que resulte de su unificación.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+El apartado 1, del artículo 39, de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, quedará redactado como sigue:
+«Los conflictos de jurisdicción entre los Juzgados o Tribunales de cualquier orden jurisdiccional de la jurisdicción ordinaria y los órganos judiciales militares, serán resueltos por la Sala de Conflictos de Jurisdicción, compuesta por el Presidente del Tribunal Supremo, que la presidirá, dos Magistrados de la Sala del Tribunal Supremo del orden jurisdiccional en conflicto y dos Magistrados de la Sala de lo Militar, todos ellos designados por el Pleno del Consejo General del Poder Judicial. Actuará como Secretario de esta Sala el de Gobierno del Tribunal Supremo.»
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+El artículo 55 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, quedará redactado como sigue:
+«El Tribunal Supremo estará integrado por las siguientes Salas:
+Primera: De lo Civil.
+Segunda: De lo Penal.
+Tercera: De lo Contencioso-Administrativo.
+Cuarta: De lo Social.
+Quinta: De lo Militar, que se regirá por su legislación específica y supletoriamente por la presente Ley y por el ordenamiento común a las demás Salas del Tribunal Supremo.»
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+El inciso final del párrafo b), del número 1, del artículo 293 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, quedará redactado como sigue:
+«Cuando se trate de órganos de la jurisdicción militar, la competencia corresponderá a la Sala Quinta de lo Militar del Tribunal Supremo.»
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+El artículo 159 del Código Penal Militar quedará redactado como sigue:
+«Artículo 159.
+El militar que se extralimite en la ejecución de un acto de servicio de armas reglamentariamente ordenado, será castigado con la pena de doce a veinticinco años de prisión si causare muerte; con la pena de cinco a quince años de prisión si causare lesiones muy graves, y con la pena de tres meses y un día a cinco años de prisión si produjere cualquier otro tipo de lesiones o daños.
+Si la muerte, lesiones o daños se produjeran por negligencia profesional o imprudencia, será castigado con la pena de tres meses y un día a seis años. En el caso de imprudencia temeraria y de que se tuviera la condición de militar profesional, la pena será de tres meses y un día a ocho años de prisión.»
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+Los artículos 60, 67, 73 y 74 de la Ley Orgánica de Régimen Disciplinario de las Fuerzas Armadas, quedarán redactados como sigue:
+«Artículo 60.
+También procederá la incoación del oportuno expediente gubernativo al militar profesional que hubiese sido condenado por sentencia firme en aplicación de disposiciones distintas al Código Penal Militar, por un delito cometido con dolo que lleve aparejada la privación de libertad o cuando la condena fuera superior a un año de prisión, si hubiese sido cometido por imprudencia.
+Artículo 67.
+El expediente gubernativo se iniciará por orden de las autoridades incluidas en los artículos 20 al 22, ya obren por propia iniciativa, a propuesta de las autoridades o mandos militares que les están subordinados, o de oficio al recibir la comunicación del Tribunal sentenciador, de acuerdo con lo dispuesto en el artículo 60.
+Artículo 73.
+Si el procedimiento se hubiese iniciado por la comunicación del Tribunal sentenciador de la condena impuesta al expedientado, el Instructor dará traslado de la misma al interesado, quien en el plazo de diez días formulará las alegaciones y propondrá las pruebas que estime oportunas. El Instructor no admitirá otra prueba que aquella que pretenda demostrar la falsedad o inexistencia de la sentencia comunicada o la falta de firmeza de la misma. Una vez practicadas las pruebas se dará de nuevo audiencia al interesado para que pueda pronunciarse sobre el expediente completo. Terminado el expediente, el Instructor lo elevará con su informe al Ministro de Defensa, que lo resolverá, previo informe de la Asesoría Jurídica General. El plazo de instrucción del expediente no podrá ser superior a seis meses.
+Artículo 74.
+En el supuesto del artículo anterior, al expedientado se le impondrá la sanción de separación del servicio, si la condena le hubiese sido impuesta por un delito de rebelión o cuando la pena de privación de libertad exceda de seis años o si es condenado a la pena de inhabilitación absoluta. También podrá imponerse la separación del servicio si hubiese sido condenado por delitos contra la honestidad, robo, hurto, estafa, apropiación indebida, malversación de caudales o efectos públicos, o cuando la pena de privación de libertad o inhabilitación exceda de tres años por cualquier otro delito doloso. En el supuesto de que no se le imponga la separación del servicio, el expedientado será sancionado con la suspensión de empleo durante el tiempo de la condena.»
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+El Consejo Supremo de Justicia Militar y las autoridades judiciales militares, previa audiencia del Fiscal Jurídico Militar, remitirán, en el plazo de treinta días anteriores a la entrada en vigor de esta Ley, a los órganos judiciales militares que resulten competentes con arreglo a la nueva organización, todos los procedimientos judiciales que se sigan bajo su jurisdicción, cualquiera que sea su estado procesal, incluso los que se encuentren en ejecución. Si tuviesen señalada vista o Consejo, se suspenderá.
+A tal efecto, los Jueces Togados Militares de Instrucción elevarán a la autoridad judicial correspondiente los procedimientos que estén tramitando.
+De igual forma actuarán, en su caso, los órganos judiciales ordinarios que estén conociendo de procedimientos que pudieran ser de la competencia de la jurisdicción militar.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Los recursos de casación y revisión de la competencia de la jurisdicción militar que se encuentren pendientes de resolución serán asimismo remitidos, en igual plazo que el establecido en la disposición transitoria anterior y cualquiera que sea el estado de su tramitación, a la Sala de lo Militar del Tribunal Supremo.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Las Salas de lo Contencioso-Administrativo del Tribunal Supremo y de la Audiencia Nacional y el Consejo Supremo de Justicia Militar, en igual plazo que los establecidos en las disposiciones transitorias anteriores, remitirán a los órganos judiciales militares competentes, según esta Ley, los recursos contencioso-disciplinarios militares pendientes de resolución de que estuviesen conociendo conforme a la disposición transitoria primera de la Ley Orgánica 12/1985, de 27 de noviembre, del Régimen Disciplinario de las Fuerzas Armadas.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+En todos los casos de las tres disposiciones anteriores, los respectivos acuerdos de remisión de los autos o procedimientos se comunicarán a las partes interesadas.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Durante los seis primeros años de vigencia de la presente Ley, para ser nombrado Presidente de la Sala de lo Militar del Tribunal Supremo no se exigirá el requisito de permanencia de tres años de servicio como Magistrado del Tribunal Supremo.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+En tanto no se unifiquen los Cuerpos Jurídicos, los cuatro Magistrados de la Sala de lo Militar del Tribunal Supremo procedentes de los Cuerpos Jurídicos de los Ejércitos, los cuatro Vocales Togados del Tribunal Militar Central y los cuatro Vocales Togados de cada sección de los Tribunales Militares Territoriales, pertenecerán en cada órgano judicial, dos al Ejército de Tierra, uno a la Armada y otro al Ejército del Aire.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogados: El Tratado Primero, relativo a «Organización y atribuciones de los Tribunales Militares», del Código de Justicia Militar, de 17 de julio de 1945; los artículos 8.º a 14, ambos inclusive, de la Ley Orgánica 9/1980, de 6 de noviembre, así como cuantas disposiciones se opongan a lo establecido en esta Ley Orgánica.
+
+### Disposición final primera
+
+Disposición final primera.
+Esta Ley tiene naturaleza orgánica, excepto el capítulo IV del artículo tercero títulos cuarto y séptimo, que tienen carácter de Ley ordinaria.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley Orgánica entrará en vigor el 1 de mayo de 1988, con excepción de esta disposición final segunda, las disposiciones adicionales primera, segunda, tercera, octava y novena, y todas las disposiciones transitorias, que lo harán al día siguiente de su publicación.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley Orgánica
+Palacio de la Zarzuela, Madrid, a 15 de julio de 1987.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZALEZ MARQUEZ

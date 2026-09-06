@@ -1,0 +1,1041 @@
+# Ley Foral 13/1990, de 31 de diciembre, de protección y desarrollo del Patrimonio Forestal de Navarra.
+
+- Identificador BOE: `BOE-A-1991-7362`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-7362
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente
+LEY FORAL DE PROTECCIÓN Y DESARROLLO DEL PATRIMONIO FORESTAL DE NAVARRA
+EXPOSICIÓN DE MOTIVOS
+El concepto que el hombre tiene sobre los montes ha evolucionado a lo largo de la historia.
+Desde una visión primitiva que identificaba a los bosques con lo impenetrable, lo desconocido, lo hostil al hombre, se pasó, con la agrarización creciente de la humanidad, a considerarlos como espacios a dominar y colonizar a fin de obtener de ellos los terrenos de cultivo necesarios para una economía agraria de subsistencia en una sociedad en expansión mayoritariamente rural.
+En la sociedad industrial y urbana, las nuevas tecnologías agrarias han permitido la obtención de recursos alimenticios suficientes y aun excedentarios en menores superficies de cultivo, al mismo tiempo que los nuevos conocimientos de la humanidad sobre la ecología y los valores ambientales de los bosques han propiciado en la sociedad nuevas demandas hacia los mismos. Los montes, son bienes complejos en los que los valores relacionados con la calidad de vida, la preservación de la flora y fauna, su indiscutible papel en el ciclo del agua, los aspectos paisajísticos y su creciente uso recreativo son compatibles con el necesario aprovechamiento racional de sus recursos renovables.
+Nuevos conocimientos y demandas de la sociedad que obligan a los poderes públicos al diseño y puesta en práctica de una nueva política forestal, cuyo primer pilar es la promulgación de una legislación de montes, acorde con esos conocimientos y demandas, que establezca los principios y objetivos que deben regir el uso múltiple de los montes y dote de los medios legales y de fomento necesarios para su logro.
+Es el artículo segundo de la Ley Foral el que señala los objetivos básicos que se persiguen para los montes de Navarra:
+Conservar y mejorar el medio natural y las condiciones ecológicas de los bosques.
+Mantener y recuperar, en su caso, la fertilidad de los sueldos forestales y evitar su erosión.
+Promover la ampliación de la superficie forestal arbolada de Navarra, con preferencia, mediante la creación de formaciones vegetales con capacidad para su regeneración y evolución, hacia bosques maduros.
+Regular el aprovechamiento ordenado de los montes como fuente de materia prima renovable, haciendo compatible este objetivo con la protección del medio natural.
+Objetivos diversos y al mismo tiempo concurrentes al logro de una Navarra en la que los montes y bosques sean conservados, mejorados y ampliados.
+La gran diversidad de Navarra, en la que en poco más de 100 kilómetros están representadas las formaciones vegetales y los ecosistemas que en el ámbito de España podemos encontrar desde la cornisa cantábrica al sudeste árido, hace más obligado que los objetivos abstractos señalados en esta Ley Foral se concreten en una planificación territorial adaptada a su diversidad.
+Por ello, a la Ley Foral seguirá, en breve plazo, la planificación forestal mediante la realización del Plan Forestal de Navarra a que se refiere su disposición adicional tercera, que será elevado al Parlamento de Navarra para su aprobación.
+Los montes, cualquiera que sea su régimen de propiedad, público o privado, son bienes sujetos a mandato constitucional en los que la función social de ese derecho de propiedad delimitará su contenido, de acuerdo con las leyes, según se establece en el artículo 33.2 de la Constitución Española.
+La decisión sobre el modo de utilización de los bienes es competencia de los poderes públicos y no forma parte de las facultades dominicales.
+Son los poderes públicos quienes deben, desde la ley, establecer el régimen estatutario de los montes, en consonancia con lo específico de su forma de ser. Las determinaciones de la Ley Foral quieren responder a la satisfacción de la función social de los montes que permita el disfrute de los mismos por todos los ciudadanos.
+Por otra parte, los montes son bienes naturales y como tales, parte fundamental del medio ambiente. La Ley Foral regula el ejercicio de los derechos dominicales sobre los montes teniendo en cuenta lo establecido en el artículo 45.2 de la Constitución que obliga a los poderes públicos a velar por la utilización racional de sus recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva.
+Navarra, desde tiempos lejanos y especialmente desde el siglo XIX, ha venido ejerciendo, en materia de montes o forestal, una acción normativa y administrativa en virtud de sus propias y peculiares disposiciones forales, sin perjuicio de una aplicación supletoria de la legislación general de montes emanada del Estado, pero dejando siempre, a salvo el régimen específico navarro.
+A este respecto, y en el orden histórico-legal, hay que destacar:
+La Ley 26 de las Cortes de Navarra de 1828/29, sobre la conservación, fomento y repoblación de montes, plantíos y otros terrenos, cuando Navarra era todavía Reino.
+La Ley Paccionada de 16 de agosto de 1841 en la que se fundamentaría a partir de entonces nuestro Régimen Foral, en general, reconociéndose especialmente en sus artículos 6, 10 y 14 las atribuciones y facultades de Navarra con respecto a los bienes (montes, entre otros) de los Pueblos y de la Provincia.
+El Real Decreto Convenido de 30 de mayo de 1899, dictado para la aplicación armónica, en territorio foral, de las leyes desamortizadoras.
+El Acuerdo de la Junta de Ventas de Navarra, de 6 de mayo de 1912, aprobando el Catalogo de Montes de Utilidad Pública radicantes en Navarra.
+El Real Decreto Ley Paccionado de 4 de noviembre de 1925, cuya finalidad fue la de armonizar el Régimen Foral de Navarra con el Estatuto Municipal de 8 de marzo de 1924 y cuyas bases 3.ª y 10.ª, «Bienes de los Pueblos» y «Montes», respectivamente, fueron desarrolladas ampliamente por el Reglamento para la Administración Municipal de Navarra de 3 de febrero de 1928, dictado por el entonces Consejo Foral Administrativo y, en concreto, por su título IV referido a «Montes y Comunes de los Pueblos».
+El Real Decreto de 30 de junio de 1930 sobre delegación a la Diputación Foral de Navarra de- la administración y gestión de determinados montes del Estado, delegación que alcanzarla al resto de los montes en virtud del Decreto de 20 de diciembre de 1974, culminándose el proceso con el Real Decreto 334/1987, de 27 de febrero, de transmisión de su dominio a la Comunidad Foral.
+El Reglamento sobre el patrimonio forestal de Navarra, aprobado por la Diputación Foral el 2 de agosto de 1941.
+Las disposiciones sobre corta y aprovechamiento en montes particulares, aprobadas por Acuerdo de la Corporación Foral de 9 de abril de 1954.
+Con la Constitución de 27 de diciembre de 1978 se afirman en España principios democráticos, pluralistas y autonómicos, pero no se olvida la existencia de nuestro Régimen Foral que, consecuentemente, se ampara, se respeta y se garantiza en virtud del párrafo primero de su disposición adicional primera y del apartado dos de su disposición derogatoria.
+Como es sabido, con la entrada en vigor de la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra se pretende:
+1. Integrar en el Régimen Foral de Navarra todas aquellas facultades y competencias compatibles con la unidad constitucional.
+2. Ordenar democráticamente las Instituciones Forales, y
+3. Garantizar todas aquellas facultades y competencias propias del Régimen de Navarra.
+Pues bien, de conformidad con el artículo 50-1, e) y 2 del Amejoramiento del Fuero: «Navarra, en virtud de su Régimen Foral, tiene competencia exclusiva sobre la materia de montes cuya titularidad pertenezca a la Comunidad Foral o a los Municipios, Concejos y demás Entidades Administrativas de Navarra» y «corresponde asimismo a Navarra el desarrollo legislativo y la ejecución de la legislación básica del Estado en materia de montes de propiedad de particulares».
+La competencia de Navarra en materia de montes, la necesidad de contar con una regulación de la misma con rango de la Ley Foral y la exigencia de dar una respuesta actual y adecuada a la gran importancia que hoy día tiene la riqueza forestal en el territorio foral, en aras de la consecución de los fines o funciones esenciales de producción, protección y conservación de los montes, así como de los fines de índole social para el desarrollo del bienestar y ocio de las poblaciones, han presidido la elaboración de la presente Ley Foral.
+Su título I contempla la finalidad, objetivos y ámbito de aplicación de la nueva Ley Foral, el concepto legal de monte o terreno forestal y su clasificación, así como las atribuciones de los distintos órganos de la Administración de la Comunidad Foral competentes en la materia.
+El título II trata de los montes que constituyan o formen parte de espacios naturales protegidos, de los montes públicos de utilidad pública y de los montes de particulares protectores dado su interés general, regulándose, respectivamente, los aspectos más relevantes de sus regímenes jurídicos.
+El título III de la Ley Foral es quizás el más importante por las materias que regula, relativas a la conservación y defensa de los montes, tales como la corrección de la erosión, la repoblación forestal, el cambio de uso, las plagas, enfermedades e incendios forestales, y la relativa a los diferentes aprovechamientos en los montes. También incluye este título III un capítulo regulador del uso o actividad recreativa en los montes.
+El título IV se dedica a la mejora de los montes en un doble aspecto. Por un lado, la obligación de mejorar el monte que corresponde a su titular y, por otro, la labor de fomento de los trabajos de mejora que deben ser estimulados por la Administración.
+Finalmente, el título V regula el sistema sancionador en materia de montes.
+La Ley Foral termina con tres disposiciones adicionales, una disposición transitoria y dos finales.
+
+## TITULO I
+
+Disposiciones generales
+
+## CAPITULO I
+
+Finalidad y ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley Foral tiene por finalidad establecer el régimen legal para la protección y desarrollo del patrimonio forestal de Navarra y es de aplicación a todos los montes y terrenos forestales que radican en el territorio de la Comunidad Foral.
+
+### Artículo 2
+
+Artículo 2.
+Son objetivos básicos de la presente Ley Foral:
+a) Conservar y mejorar el medio natural y las condiciones ecológicas de los bosques.
+b) Mantener y recuperar, en su caso, la fertilidad de los suelos forestales y evitar su erosión.
+e) Promover la ampliación de la superficie forestal arbolada de Navarra, preferentemente mediante la creación de formaciones vegetales con capacidad para su regeneración y evolución hacia bosques originarios.
+d) Regular y fomentar el aprovechamiento ordenado de los montes como fuente de materia prima renovable, haciéndolo compatible con la protección del medio natural y con la generación de rentas en las áreas geográficas donde los montes tengan su enclave.
+
+### Artículo 3
+
+Artículo 3.
+Son, asimismo, objetivos de esta Ley Foral los siguientes:
+a) Promover la actividad de pastoreo en los montes de manera ordenada.
+b) Fomentar la colaboración con las Entidades Locales en la defensa y protección de los terrenos forestales.
+c) Promover las actividades de primera transformación de los productos del monte.
+d) Fomentar el asociacionismo y la colaboración entre los sectores implicados en la producción, transformación y comercialización de los recursos forestales.
+e) Fomentar la investigación y experimentación selvícola y ecológica de los bosques y montes.
+f) Fomentar y regular el papel del bosque corno marco de esparcimiento y recreo.
+g) Fomentar el conocimiento, respeto e implantación del árbol.
+
+### Artículo 4
+
+Artículo 4.
+1. A los efectos de esta Ley Foral, se entiende por monte o terreno forestal:
+a) Los terrenos rústicos poblados por especies o comunidades vegetales, siempre que no sean características del cultivo agrícola o fueren objeto del mismo,
+b) Los terrenos sometidos a cultivo agrícola que constituyan enclaves en los montes, cualquiera que sea su extensión si se trata de comunales o de terrenos particulares cuyo cultivo esté abandonado por plazo superior a cinco años, así como aquellos que, siendo particulares y cuyo cultivo se ejerza regularmente, tengan una superficie inferior a la unidad mínima de cultivo,
+c) Los terrenos rústicos de cualquier condición que sean declarados como terreno forestal por la Administración de la Comunidad Foral al estar afectados por proyectos de corrección de la erosión, repoblación u otros de índole forestal.
+d) Los pastizales de regeneración natural, humedales y turberas.
+e) Las construcciones e infraestructuras destinadas a la gestión del monte y sus usos.
+2. Se considerarán, asimismo, como terrenos forestales los que se dediquen temporalmente a la producción de maderas o leñas, mientras dure su establecimiento, que no podrá ser inferior al turno de la especie de que se trate.
+Se modifica la letra d) y se añade la e) al apartado 1 por el art. único.1 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 5
+
+Artículo 5.
+1. Los montes, en razón de su pertenencia, se clasifican en públicos y privados.
+2. Son montes públicos los del Estado, los de la Comunidad Foral de Navarra, los de las Entidades Locales y en general los de cualquier entidad administrativa de Navarra.
+3. Son montes privados, los pertenecientes a personas físicas o jurídicas de derecho privado, ya sea individualmente o en régimen de copropiedad.
+4. En razón de sus cualidades, los montes se clasifican en:
+a) espacios naturales protegidos y otros montes de especial protección,
+b) montes de utilidad pública, c) montes protectores y
+d) montes sin calificar.
+Se modifica por el art. único.2 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## CAPITULO II
+
+De las competencias de la Administración de la Comunidad Foral de Navarra
+
+### Artículo 6
+
+Artículo 6.
+1. Los montes son bienes naturales que se deben conservar y utilizar corno mejor convenga a su naturaleza, en desarrollo de los objetivos básicos expresados en el artículo 2, por lo que estarán sometidos a la intervención de la Comunidad Foral de Navarra en los términos establecidos en la presente Ley Foral.
+2. La función social y ecológica de los montes, cualquiera que sea la naturaleza pública o privada de su titular, impone la observancia de los siguientes principios a los que se ajustará en su intervención la Administración de la Comunidad Foral de Navarra:
+a) La primacía de la conservación y mejora de los recursos naturales a la que estará supeditado todo uso, aprovechamiento o infraestructura que se pretenda realizar en los montes.
+b) La prioridad del mantenimiento y recuperación, en su caso, de la fertilidad de los suelos, en prevención y corrección de la erosión.
+c) La racionalidad de todo aprovechamiento de los montes, que responderá a planes técnicos basados en las ciencias selvícola y ecológica, con los objetivos de fomento de la producción y de corrección de los desequilibrios regionales, que nunca podrán conculcar los antedichos principios de conservación y mejora.
+3. Sin perjuicio de las competencias de organización del Gobierno de Navarra, el Departamento de Medio Ambiente, Ordenación del Territorio y Vivienda ostentará las competencias que la presente Ley Foral asigna a la Administración Forestal y Medioambiental.
+4. Las entidades locales, en el marco de su legislación específica y conforme a los instrumentos de ordenación forestal de que dispongan, gestionarán los montes de su titularidad y sus montes comunales en los términos y condiciones establecidos en la presente Ley Foral.
+5. Se fomentará la colaboración y coordinación entre las distintas Administraciones Públicas titulares de montes o terrenos forestales.
+6. Toda aquella normativa de carácter local o foral que tenga repercusión directa sobre las materias reguladas en la presente Ley Foral deberá ser informada previamente, con carácter vinculante, y preceptivo por la Administración Forestal.
+Se modifica el apartado 3 y se añaden del 4 al 6 por el art. único.3 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## TITULO II
+
+Clasificación y régimen jurídico de los montes
+Se modifica por el art. único.4 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## CAPITULO I
+
+Espacios naturales protegidos y otros montes de especial protección
+Se modifica por el art. único.5 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 7
+
+Artículo 7.
+1. Los montes o terrenos forestales que constituyan espacios naturales protegidos o formen parte de los mismos, así como sus zonas de protección, y los comprendidos dentro de la red natura 2000 estarán sometidos, en materia forestal, a la presente Ley Foral, debiendo sus planes o proyectos de ordenación forestal incorporar lo establecido en su normativa específica en cuanto a la conservación y protección de sus valores ambientales.
+2. Estos montes o terrenos forestales tendrán, respecto a la intervención de la Administración Forestal, el mismo tratamiento que los montes de utilidad pública.
+Se modifica por el art. único.6 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+ Se deroga el apartado 3 por la disposición derogatoria 1.c) de la Ley Foral 9/1996, de 17 de junio. Ref. BOE-A-1996-22199#dd
+
+## CAPITULO II
+
+Montes de utilidad pública
+
+### Artículo 8
+
+Artículo 8.
+1. Los montes de titularidad pública que hayan sido declarados y los que se declaren en los sucesivo por reunir características destacadas en cuanto al interés, general, bien por sus condiciones ecológicas o sociales o bien porque presenten riesgos de degradación, constituyen los Montes de Utilidad Pública de Navarra.
+2. Dichos montes son inalienables, imprescriptibles, inembargables, y no están sujetos a tributo alguno que grave su titularidad.
+Se añade el apartado 2 y se numera el texto anterior como apartado 1 por el art. único.7 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 9
+
+Artículo 9.
+1. Los montes ya declarados y los que se declaren de utilidad pública integran el Catálogo de Montes de Utilidad Pública de Navarra.
+2. La declaración de utilidad pública se hará, de oficio o a instancia de su titular, por el Gobierno de Navarra, a propuesta de la Administración Forestal, mediante procedimiento administrativo en el que deberá ser oída la Entidad Pública afectada y, en su caso, los titulares de derechos sobre dichos montes, debiendo justificarse, en cualquier caso, las características que determinan su consideración como montes de utilidad pública.
+3. La exclusión de un monte del Catálogo sólo procederá cuando haya perdido las características por las que fue catalogado, mediante procedimiento análogo al previsto en el apartado anterior.
+La exclusión de un monte del Catálogo no procederá en ningún caso cuando la pérdida de las características por las que el monte fue catalogado haya sido producida por incendio forestal.
+4. La redelimitación de un monte catalogado podrá ser autorizada por la Administración Forestal, previa audiencia del titular, siempre que suponga una mayor definición de la superficie del monte o una mejora para su gestión y conservación.
+5. Cuando la Administración de la Comunidad Foral tramite un plan o proyecto cuya utilidad pública o interés general se pretenda declarar y pueda afectar de algún modo a un monte o terreno forestal incluido en el Catálogo de montes de utilidad pública de Navarra, corresponde al Gobierno de Navarra realizar la previa declaración de compatibilidad entre ambas o la prevalencia de una de ellas sobre la otra, previo informe de la Administración Forestal.
+Se modifica por el art. único.8 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 10
+
+Artículo 10.
+1. La inclusión de un monte en el Catálogo otorga la presunción de su posesión en favor de la Entidad Pública a cuyo nombre figure, sin que esta posesión pueda ser discutida por medio de interdictos o de procedimientos especiales.
+2. En todo caso, y mientras no recaiga sentencia firme en juicio declarativo ordinario de propiedad, dicha posesión será mantenida y, si procede, asistida para su recuperación por las autoridades competentes.
+
+### Artículo 11
+
+Artículo 11.
+1. Los montes catalogados se inscribirán en el Registro de la Propiedad a favor de su titular, según el Catálogo, mediante certificación expedida por la Administración Forestal, conforme a lo establecido en la legislación hipotecaria.
+2. A la certificación anterior deberá acompañarse un plano topográfico, cuya escala se determinará reglamentariamente, del terreno que se pretende inscribir.
+
+### Artículo 12
+
+Artículo 12.
+Cuando se trate de inmatricular en el Registro de la Propiedad, por cualquiera de los medios establecidos en la Ley Hipotecaria, fincas sitas en un término municipal en donde exista algún monte catalogado de utilidad pública, el solicitante deberá acompañar certificación de la Administración Forestal acreditativa de que las fincas no están incluidas en un monte catalogado; no podrá practicarse la inscripción solicitada de no aportarse dicha certificación negativa.
+
+### Artículo 13
+
+Artículo 13.
+1. En los casos en que se promuevan juicios declarativos ordinarios de propiedad de montes catalogados de utilidad pública, será parte demandada la Comunidad Foral, además de la Entidad titular del monte.
+2. Para la admisión de toda demanda civil deberá acreditarse el requisito de la reclamación administrativa previa a la judicial ante la Administración de la Comunidad Foral de Navarra y Entidad pública titular según el Catálogo, que se cumplimentará conforme a las normas del procedimiento administrativo.
+
+### Artículo 14
+
+Artículo 14.
+1. La enajenación, el deslinde y la inscripción en el Registro de la Propiedad de los montes catalogados de utilidad pública se regirán por la respectiva legislación especial que regula los bienes de las distintas Entidades públicas.
+2. Los deslindes de montes de utilidad pública deberán ser aprobados por la Administración Forestal.
+
+### Artículo 15
+
+Artículo 15.
+1. En el Catálogo de Montes de Utilidad Pública deberán constar las servidumbres y demás derechos reales que graven los montes incluidos en el mismo.
+2. Todo gravamen debe estar debidamente justificado. En el caso de existir litigio pendiente sobre las servidumbres y demás derechos reales que graven el monte se hará constar así en el Catálogo.
+Se modifica por el art. único.9 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## CAPÍTULO III
+
+CAPITULO III
+Montes privados y Montes protectores
+Se modifica por el art. único.10 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 16
+
+Artículo 16.
+1. Los montes privados se gestionan por su titular.
+2. La gestión de estos montes se ajustará, en su caso, al correspondiente instrumento de gestión o planificación forestal, y se realizará en los términos y condiciones establecidos por la presente Ley Foral.
+Se modifica por el art. único.11 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## CAPITULO III
+
+Montes protectores
+
+### Artículo 17
+
+Artículo 17.
+Los montes de titularidad privada que por sus condiciones físicas, ecológicas o sociales reúnan características destacadas en orden al interés general; aquéllos otros que corran riesgo de degradación o de, desertización y, en todo caso, los que tengan una superficie superior a 250 hectáreas podrán ser declarados montes protectores de Navarra.
+
+### Artículo 18
+
+Artículo 18.
+1. La declaración de monte protector se hará por el Gobierno de Navarra, a propuesta de la Administración Forestal, previo procedimiento administrativo que se tramitará de oficio o a instancias de su titular y en el que deberán ser oídos, en su caso, los propietarios y la entidad local donde radique el monte.
+2. Los montes declarados protectores se incluirán en el Catálogo de Montes Protectores de Navarra, cuyas características se determinarán reglamentariamente.
+3. La exclusión de un monte del Catálogo de Montes Protectores, una vez que las circunstancias que determinaron su inclusión desaparezcan, se realizará mediante expediente tramitado de forma análoga al de declaración como monte protector.
+4. A los montes catalogados como protectores, les será de aplicación lo establecido en el artículo 15 de la presente Ley Foral.
+Se modifican los apartados 1 y 3 y se añade el 4 por el art. único.12 y 13 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## CAPÍTULO IV
+
+Del derecho de adquisición preferente
+Se añade por el art. único.14 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 19
+
+Artículo 19.
+1. Corresponden a las entidades locales los derechos de tanteo y retracto derivados del derecho de adquisición preferente, en las transmisiones onerosas sobre montes o terrenos forestales situados en su término municipal. En el caso de enclavados en montes o terrenos colindantes con montes cuya titularidad corresponda a la Comunidad Foral de Navarra, los citados derechos corresponderán en primer lugar a la Comunidad Foral de Navarra y subsidiariamente a la entidad local en cuyo término municipal se ubiquen los terrenos.
+2. La Comunidad Foral de Navarra tendrá derecho de adquisición preferente subsidiario al de las entidades locales previsto en el apartado anterior, en los siguientes casos de transmisiones onerosas:
+a) De montes de superficie superior a 100 Hectáreas.
+b) De montes declarados protectores y de otros de montes de especial protección.
+c) De los montes o terrenos forestales colindantes con los regulados en el artículo 7 de la presente Ley Foral.
+d) De los montes consorciados con el Gobierno de Navarra, con las condiciones previstas en dichos consorcios.
+Se modifica por el art. único.14 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 20
+
+Artículo 20.
+1. A los efectos del ejercicio del derecho de tanteo, el transmitente deberá notificar fehacientemente a las Administraciones públicas titulares del derecho su intención de transmitir, haciendo constar en su comunicación los datos relativos al precio y características de la transmisión proyectada.
+2. Si las Administraciones Públicas titulares del derecho no ejercitaran el tanteo en el plazo de tres meses a partir de dicha notificación, se producirá la caducidad de tal derecho respecto a la transmisión notificada.
+3. Los notarios y registradores no autorizarán ni inscribirán, respectivamente, las correspondientes escrituras sin que se les acredite previamente la práctica de dicha notificación.
+4. Si se llevara a efecto la transmisión sin la indicada notificación previa, o sin seguir las condiciones reflejadas en ella, la Administración titular del derecho de adquisición preferente podrá ejercer acción de retracto en el plazo de un año contado desde la inscripción de la transmisión en el Registro de la Propiedad o, en su defecto, desde que hubiera tenido conocimiento fehaciente de las condiciones reales de dicha transmisión.
+5. Estos derechos de tanteo y retracto, serán preferentes sobre cualesquiera otros, quedando a salvo lo establecido en la legislación civil foral navarra.
+Se modifica por el art. único.14 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## TITULO III
+
+De la conservación, defensa y aprovechamiento de los montes
+
+## CAPITULO I
+
+Principio general
+
+### Artículo 21
+
+Artículo 21.
+La Administración de la Comunidad Foral de Navarra velará por asegurar la conservación y defensa de los montes o terrenos forestales de Navarra frente a los peligros de la erosión del suelo, la deforestación, el cambio injustificado de uso, el aprovechamiento inadecuado, las plagas y enfermedades, los incendios forestales y la contaminación.
+
+## CAPITULO II
+
+## Sección 1
+
+Sección 1.ª Conservación de los montes
+
+### Artículo 22
+
+Artículo 22.
+1. Las masas forestales de Navarra deben ser conservadas en toda su extensión y diversidad, en razón de las funciones protectoras, productoras y sociales de los bosques.
+2. En los montes catalogados, bien de utilidad pública o bien protectores, al menos un 5 por 100 de su superficie será conservada sin actuación humana, sometida a su evolución natural. En la elección de tales áreas se tendrán en cuenta criterios de diversidad de formaciones vegetales y de estaciones, y su elección se realizará conjuntamente por los titulares del monte y las Administraciones Forestal y Medioambiental.
+3. Se constituirá el banco de semillas forestales de especies arbóreas y arbustivas protegidas de Navarra.
+
+### Artículo 23
+
+Artículo 23.
+1. En los proyectos de construcción de infraestructuras de interés general en los que se produzca disminución de la superficie forestal, se incluirá proyecto de reforestación o de restauración forestal en la zona afectada de una superficie no inferior a la ocupada.
+2. La Administración Forestal analizará la superficie forestal que resultaría destruida o inundada por los proyectos de construcción de infraestructuras de interés público y emitirá informe preceptivo y vinculante sobre la adecuación de los proyectos de reforestación o de restauración forestal presentados con los mismos.
+3. En todos los proyectos de concentración parcelaria se definirán las unidades de vegetación arbórea o arbustiva a conservar. Los setos vivos calificados como de especial valor ecológico no podrán ser eliminados.
+4. En aquellos proyectos públicos cuyo ámbito de actuación limite con los cauces fluviales, se respetará una banda lineal continua al cauce, no inferior a cinco metros de anchura, cuyo fin será constituirse en formaciones naturales de ribera.
+Se modifica por el art. único.15 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 24
+
+Artículo 24.
+1. La Administración forestal podrá limitar e incluso prohibir el pastoreo en el monte, cualquiera que sea su calificación, si resultara incompatible con su conservación.
+2. Se prohíbe, con carácter general, la introducción de ganado cabrío en montes poblados por especies arbóreas o arbustivas. Excepcionalmente, y de la forma que reglamentariamente se determine, podrá autorizarse el pastoreo con ganado cabrío en dichos montes.
+Se modifica el apartado 2 por el art. único.16 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## Sección 2
+
+Sección 2.ª Del cambio de uso
+
+### Artículo 25
+
+Artículo 25.
+1. Toda acción o decisión que conlleve el cambio de uso de un monte o terreno forestal deberá ser previamente autorizada por la Administración Forestal.
+2. Se entiende por cambio de uso cualquier actividad que conlleve una alteración sustancial del estado físico del suelo o de la vegetación existente, así como cualquier decisión que recalifique los montes o terrenos forestales.
+3. En el expediente administrativo que se incoe al efecto, el promotor deberá justificar la prevalencia del interés del nuevo uso sobre el de utilidad pública o como protector del monte. En este caso, el silencio administrativo se considerará negativo.
+4. En el caso de montes no catalogados el interesado deberá presentar memoria justificativa del cambio de uso. En este caso, el silencio administrativo tendrá sentido desestimatorio.
+5. Se prohíbe el cambio de uso en las formaciones naturales de ribera sitas junto a los cauces fluviales, independientemente de la calificación del suelo, a excepción de aquellos derivados de la instalación o modificación de infraestructuras de interés general que atraviesen dichos cauces, los cuales podrán ser autorizados.
+6. Se podrán autorizar actuaciones en las formaciones naturales de ribera siempre que aquéllas no conlleven el cambio de uso.
+Se modifican los apartados 1 y 4 y se añaden los apartados 5 y 6 por el art. único.17 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 26
+
+Artículo 26.
+1. Los montes declarados de utilidad pública o como protectores serán clasificados y calificados por los instrumentos de planeamiento urbanístico como suelo no urbanizable de uso forestal.
+2. Cuando los instrumentos de planeamiento urbanístico afecten a la calificación de terrenos forestales, a su delimitación o a su regulación normativa, requerirán informe preceptivo y vinculante de la Administración Forestal.
+Se modifica el apartado 2 por el art. único.18 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 27
+
+Artículo 27.
+(Derogado).
+Se deroga por la disposición derogatoria única.1 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## Sección 3
+
+Sección 3.ª Servidumbres y ocupaciones
+
+### Artículo 28
+
+Artículo 28.
+1. La Administración forestal está facultada para declarar la incompatibilidad de un gravamen establecido en un monte catalogado con la utilidad pública o el carácter protector a los que esté afecto, previo el procedimiento correspondiente que reglamentariamente se establezca. En el mismo se incluirá trámite de informe por parte de la Administración Medioambiental.
+2. La declaración de incompatibilidad llevará consigo la suspensión temporal o la extinción del gravamen mediante indemnización, cuya cuantía se determinará, de no haber acuerdo entre las partes interesadas, por las normas de expropiación forzosa.
+
+### Artículo 29
+
+Artículo 29.
+1. Por razones de interés público, y en los casos de concesiones administrativas, se autorizarán las servidumbres y ocupaciones temporales en los montes catalogados ajustándose a lo dispuesto en los párrafos siguientes y, en el caso de montes de utilidad pública, una vez declarada la prevalencia o compatibilidad en los términos previstos en el artículo 9.5, de esta Ley Foral.
+2. En función del interés privado, y con carácter restrictivo, la Administración Forestal podrá autorizar el establecimiento de servidumbres u ocupaciones temporales en montes catalogados, en el caso de que se justifique su compatibilidad con la utilidad pública del monte y con el consentimiento del titular según el catálogo.
+3. En el caso de que la ocupación o servidumbre se pretenda ubicar en monte arbolado, el promotor deberá justificar, además de la compatibilidad con la utilidad pública, la imposibilidad de localizarla sobre terreno desarbolado del monte. En especial, las infraestructuras de transporte de energía en zonas donde existan montes catalogados evitarán, siempre que sea posible, afectar a masas arboladas, siendo preferente su trazado por terrenos desarbolados del monte o por terrenos agrícolas ajenos al mismo.
+4. Toda ocupación o servidumbre supondrá el abono al titular del monte de un canon actualizable o indemnización acorde con los perjuicios de toda clase que se ocasione al monte o con los beneficios que la servidumbre u ocupación proporcione a su promotor.
+5. En los supuestos previstos en este artículo será preceptivo y vinculante el informe de la Administración Medioambiental.
+Se modifica el apartado 1 por el art. único.19 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 30
+
+Artículo 30.
+1. No se podrá realizar la roturación de terrenos con destino a su cultivo agrícola en montes catalogados de utilidad pública o protectores. La mejora de pastos que requiera roturación será autorizada previamente por la Administración Forestal, quien no podrá concederla si se pretende realizar sobre terreno arbolado con cabida cubierta superior al 20 por 100.
+2. La roturación destinada al cultivo agrícola o ganadero en los montes o terrenos Forestales no catalogados como de utilidad pública ni como protectores precisará la autorización de la Administración Forestal, previo informe de la Medioambiental. En ningún caso se concederá autorización si la roturación se pretende realizar sobre terreno arbolado con cabida cubierta superior al 20 por 100.
+3. Toda disminución de suelo forestal, por motivos de roturación u otros, debe ser compensada, con cargo a su promotor, con una reforestación de igual superficie realizada según los principios establecidos en el capítulo IV del presente título.
+
+### Artículo 31
+
+Artículo 31.
+Cuando la disminución de suelo forestal, cualquiera que sea su causa, se contemple dentro de un plan o proyecto sectorial de incidencia supramunicipal, el procedimiento de autorización será el de la Ley Foral de Ordenación del Territorio.
+
+## CAPITULO III
+
+Protección de los montes
+
+## Sección 1
+
+Sección 1.ª De las plagas y enfermedades forestales
+
+### Artículo 32
+
+Artículo 32.
+1. La vigilancia, prevención, localización y estudio de las plagas y enfermedades forestales corresponde a la Administración Forestal, así como la prestación de asesoramiento y ayuda técnica para su tratamiento.
+2. Los titulares de los terrenos afectados por plagas o enfermedades forestales están obligados a notificar su existencia a la Administración Forestal.
+Se modifica el apartado 2 por el art. único.20 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 33
+
+Artículo 33.
+1. Las actuaciones que dicte la Administración Forestal en materia de lucha contra plagas y enfermedades forestales serán llevadas a cabo por los titulares de los terrenos afectados.
+2. La Administración Forestal podrá formalizar convenios con los titulares públicos o privados de terrenos forestales para la ejecución de trabajos de prevención y extinción de plagas o enfermedades forestales.
+
+### Artículo 34
+
+Artículo 34.
+1. La Administración Forestal podrá declarar de utilidad pública y tratamiento obligatorio la lucha contra una plaga o enfermedad forestal delimitando la zona afectada.
+2. Los titulares de los terrenos afectados por la citada declaración efectuarán, obligatoriamente, en la forma y plazo que se les señale por la Administración Forestal, los trabajos y medidas de prevención y extinción correspondientes con las ayudas previstas en el título IV.
+3. En otro caso, la Administración Forestal las llevará a cabo a costa de los titulares de los terrenos.
+
+### Artículo 35
+
+Artículo 35.
+(Derogado).
+Se deroga por la disposición derogatoria única.1 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 36
+
+Artículo 36.
+1. Las Administraciones Forestal y Medioambiental realizarán el seguimiento de los efectos que pueda producir sobre los ecosistemas la denominada «lluvia ácida» y otras contaminaciones.
+2. A tal fin se mantendrá actualizada la red de detección y seguimiento y se determinarán las medidas convenientes para controlarlas.
+
+## Sección 2
+
+Sección 2.ª De los incendios forestales
+
+### Artículo 37
+
+Artículo 37.
+1. Compete a la Administración de la Comunidad Foral la planificación, coordinación y ejecución de las medidas precisas para la prevención y lucha contra los incendios forestales, sin perjuicio de las competencias de otras Administraciones Públicas con las que aquélla mantendrá relaciones de colaboración. Corresponden a la Administración Forestal las competencias en materia de prevención de incendios forestales y de participación en labores de extinción mediante el asesoramiento técnico a la Agencia Navarra de Emergencias.
+2. Toda persona que advierta la existencia o iniciación de un incendio forestal estará obligada a avisar a la autoridad competente o a los servicios de emergencia.
+3. Reglamentariamente se regularán las normas de seguridad aplicables a las urbanizaciones, otras edificaciones, obras, instalaciones eléctricas e infraestructuras de transporte en terrenos forestales y colindantes, que puedan implicar peligro de incendios o ser afectadas por éstos.
+4. La Administración Forestal podrá establecer limitaciones al ejercicio de todas aquellas actividades que pudieran dar lugar a riesgo de incendio en montes y áreas colindantes, incluyendo el tránsito por los mismos.
+Se modifica por el art. único.21 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 38
+
+Artículo 38.
+1. Con el fin de actuar coordinadamente en la defensa del monte y prevención de incendios forestales, podrán constituirse Agrupaciones de Defensa Forestal, de conformidad con lo establecido en la presente Ley Foral y las disposiciones que la desarrollen.
+2. Las Agrupaciones de Defensa Forestal tendrán personalidad jurídica y plena capacidad de obrar.
+
+### Artículo 39
+
+Artículo 39.
+1. Sin perjuicio de lo establecido en los apartados y artículos siguientes, queda prohibido con carácter general el uso del fuego en montes y terrenos forestales. Igualmente, queda prohibido dicho uso en suelos rústicos de secano para la eliminación de rastrojo.
+2. Se permite el uso del fuego con fines recreativos. No obstante, la Administración Forestal podrá limitar o prohibir el mismo en función de las circunstancias climáticas concurrentes.
+Se modifica por el art. único.22 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 40
+
+Artículo 40.
+1. Se prohíbe, asimismo, la quema de ribazos, espuendas, cerros y, en general, la quema de arbustos y vegetación.
+2. La quema de residuos agrícolas será objeto de regulación reglamentaria.
+3. La Administración Forestal podrá, excepcionalmente, autorizar el uso del fuego como herramienta de gestión forestal o agrícola, en los casos en que no pueda ser sustituido técnicamente por otros medios.
+Se modifica por el art. único.23 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 41
+
+Artículo 41.
+(Derogado).
+Se deroga por la disposición derogatoria única.1 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 42
+
+Artículo 42.
+1. En ningún caso se podrá tramitar expediente de cambio de uso de montes o terrenos forestales incendiados, debiendo ser restaurada la cubierta vegetal arbórea, en su caso, mediante reforestación artificial, cuando la regeneración natural, tras un nuevo ciclo vegetativo de observación, no sea viable.
+2. Corresponde a la Administración Forestal la restauración de la riqueza forestal afectada por los incendios forestales, así como la ejecución de las medidas de prevención, entre las cuales podrá incluirse la consistente en no volver a plantar terrenos forestales y montes que antes de verse afectados por los incendios estuviesen cubiertos por especies arbóreas.
+Sin perjuicio de lo dispuesto en el párrafo precedente, la Administración Forestal podrá subvencionar las labores de restauración y prevención que ejecuten los propios titulares de acuerdo con los criterios fijados por esta.
+3. En los proyectos de reforestación se incluirán técnicas de selvicultura que tengan en cuenta el diseño de formas de masas que dificulten la preparación del fuego, técnicas de modificación de los combustibles y el favorecimiento de especies con mayor resistencia al fuego.
+Además, en los montes y terrenos forestales incendiados, la Administración Forestal, en el marco de los proyectos de restauración y previa autorización del titular de los terrenos, podrá introducir especies no forestales de baja combustibilidad.
+Se modifican los apartados 2 y 3 por la disposición final 5 de la Ley Foral 35/2022, de 28 de diciembre. Ref. BOE-A-2023-1406
+ Se modifica el apartado 2 por el art. único.24 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 43
+
+Artículo 43.
+1. Las Entidades Locales serán responsables del acondicionamiento de sus vertederos de tal modo que no puedan ser origen de incendios.
+2. En el caso de que el mal mantenimiento de los vertederos fuese causa de incendio, la responsabilidad de éste caerá sobre las Entidades Locales titulares de los mismos.
+
+## CAPITULO IV
+
+Recuperación de los montes
+
+## Sección 1
+
+Sección 1.ª Corrección de la erosión
+
+### Artículo 44
+
+Artículo 44.
+1. Corresponde a la Administración Forestal la planificación y ejecución de las labores de restauración hidrológico-forestal en Navarra, sin perjuicio de los convenios que se puedan establecer con otras Administraciones Públicas.
+2. Los planes, trabajos y medidas de restauración serán de utilidad pública a efectos expropiatorios y serán obligatorios para todo propietario de terrenos incluidos en las zonas afectadas.
+3. Los terrenos expropiados pasarán a integrarse en el patrimonio de la Entidad Pública titular del monte catalogado cuando se trate de enclaves de un monte de utilidad pública, o de colindantes con el mismo.
+4. En el trámite de aprobación de los proyectos de corrección de la erosión deberá darse audiencia a los titulares del monte y de los terrenos afectados.
+5. Dentro del Plan Forestal a que se refiere la disposición adicional tercera, se incluirá la cuantificación y zonificación de los problemas erosivos de Navarra, así como la priorización y programación de los trabajos de restauración hidrológico-forestal.
+Se modifica por el art. único.25 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## Sección 2
+
+Sección 2.ª De la repoblación forestal
+
+### Artículo 45
+
+Artículo 45.
+1. La repoblación forestal en montes catalogados de utilidad pública o protectores tendrá como finalidad preferente la creación de bosques originarios con capacidad de autorregeneración y de evolución hacia formaciones vegetales maduras.
+2. En dichos montes, en ningún caso podrá destinarse a repoblación con cambio de especie forestal los terrenos con formaciones arboladas naturales que tengan una densidad superior al 20 por 100 de cabida cubierta.
+3. Solamente en terrenos rasos o en terrenos procedentes de cortas de repoblaciones anteriores de montes catalogados será posible su repoblación con especies distintas de las originarias, realizándose en estos casos el diseño de la repoblación que se proyecte incluyendo especies representativas de la vegetación potencial de la zona, al menos en un 25 por 100 de la superficie a repoblar.
+4. Los proyectos de repoblación forestal se someterán a la aprobación de la Administración Forestal, excepto para aquellos montes que no siendo catalogados de utilidad pública o protectores, o de los regulados en el artículo 7 de esta Ley Foral, dispongan de un instrumento de gestión aprobado por dicha Administración, y se realicen siguiendo las prescripciones contenidas en el mismo, en cuyo caso requerirán, únicamente, la notificación previa.
+Se modifica el apartado 4 y se deroga el apartado 5 por el art. único.26 y la disposición derogaroria única.1 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 46
+
+Artículo 46.
+(Derogado).
+Se deroga por la disposición derogatoria única.1 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 47
+
+Artículo 47.
+La repoblación forestal de montes o terrenos forestales corresponde a sus titulares, bajo la supervisión técnica e inspección por parte de la Administración Forestal.
+
+### Artículo 48
+
+Artículo 48.
+La Administración Forestal velará por la correcta ejecución de las repoblaciones, elección de especies y métodos de trabajo, y tanto en el trámite de aprobación de los proyectos como en la supervisión técnica e inspección a que se refieren los artículos anteriores podrá fijar las condiciones técnicas que estime adecuadas, las cuales serán de obligado cumplimiento.
+
+### Artículo 49
+
+Artículo 49.
+1. El Gobierno de Navarra, a propuesta del Consejero con competencias sustantivas en materia forestal, podrá declarar la utilidad pública de la repoblación forestal en una zona o monte determinado.
+2. Dicha declaración llevará consigo la obligatoriedad de la repoblación forestal por parte del titular o titulares de los terrenos afectados.
+3. En caso de incumplimiento de la obligación de repoblar, el Gobierno de Navarra podrá imponer el consorcio forzoso, la realización directa de la repoblación a costa del propietario o iniciar expediente de expropiación forzosa.
+Se modifica el apartado 1 por el art. único.27 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## CAPITULO V
+
+De la ordenación y del aprovechamiento de los montes
+
+## Sección 1
+
+Sección 1.ª De la ordenación de los montes
+Se modifica por el art. único.28 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 50
+
+Artículo 50.
+1. Los montes públicos y privados deberán contar con un Proyecto de Ordenación de montes o Plan Técnico de gestión forestal, aprobado por la Administración Forestal.
+2. La Administración Forestal dictará las Instrucciones Generales para la redacción de los Proyectos de Ordenación y Planes Técnicos.
+3. La elaboración de los instrumentos de ordenación corresponderá en los montes públicos, en los protectores y en los regulados en el artículo 7 de la presente Ley Foral, a la Administración Forestal. En dicha elaboración colaborará el titular del monte. En el resto de los montes privados, la elaboración corresponde a su titular.
+4. La elaboración de dichos instrumentos deberá ser dirigida y supervisada por profesionales con titulación forestal universitaria.
+5. El contenido de estos instrumentos será obligatorio y ejecutivo en las materias reguladas en esta Ley Foral, teniendo carácter indicativo respecto de cualesquiera otras actuaciones, planes o programas sectoriales.
+6. Idéntico procedimiento se seguirá para su revisión o modificación.
+Se modifica por el art. único.29 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## Sección 2
+
+Sección 2.ª De los aprovechamientos de los montes
+Se modifica por el art. único.30 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 51
+
+Artículo 51.
+1. Los aprovechamientos forestales de los montes se realizarán siempre bajo la consideración de su carácter de recursos naturales renovables, armonizando la utilización racional de los mismos con la adecuada conservación del medio natural.
+2. Asimismo, todo aprovechamiento en los montes, cualquiera que sea su clasificación, estará sometido a la intervención de la Administración Forestal en los términos establecidos en esta Ley Foral y disposiciones que la desarrollen.
+Se modifica por el art. único.31 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 52
+
+Artículo 52.
+A los efectos de la presente Ley Foral, se considerarán aprovechamientos forestales: los maderables y leñosos, incluida la biomasa forestal, pastos, caza, frutos, plantas aromáticas y medicinales, setas y trufas, productos apícolas y los demás productos, servicios y actividades recreativas, educativas o culturales, con valor de mercado, propias de los montes.
+Se modifica por el art. único.32 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 53
+
+Artículo 53.
+1. Todo aprovechamiento de maderas y leñas en montes públicos, en los contemplados en el artículo 7 de la presente Ley Foral, así como los realizados en montes protectores, deberá concretarse en los correspondientes Planes de aprovechamiento y mejora que deberán ser aprobados por la Administración Forestal.
+2. En el caso de que estos montes estén ordenados, la Administración Forestal, de oficio, elaborará este plan, en colaboración con los titulares del monte. Con carácter excepcional, podrán autorizarse aprovechamientos no previstos en los Proyectos de Ordenación o Planes técnicos de gestión aprobados.
+3. En el caso de que dichos montes no se encuentren ordenados, la Administración Forestal elaborará dicho plan, en colaboración con su titular y previa solicitud del mismo. Excepcionalmente, podrán autorizarse pequeños aprovechamientos a través de un procedimiento simplificado, de comunicación previa y silencio positivo, en los términos que reglamentariamente se determine.
+4. El Plan de aprovechamientos será de obligado cumplimiento por el titular, salvo causa justificada debidamente autorizada, debiendo distinguir las cortas de mejora, con descripción de las mismas, y las cortas de regeneración o finales.
+5. El pliego de condiciones técnicas incluido en el Plan comprenderá las directrices selvícolas, la tipología de las explotaciones y las vías de saca. No tendrá la consideración de condición técnica la valoración económica del aprovechamiento o la forma de enajenación del mismo. La Administración Forestal valorará económicamente el aprovechamiento en los supuestos en que corresponda, teniendo dicha valoración carácter orientativo y no vinculante.
+Se modifica por el art. único.33 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 54
+
+Artículo 54.
+1. Con carácter general y en los montes contemplados en el artículo anterior, corresponde a la Administración Forestal realizar las actuaciones inherentes al aprovechamiento. Dichas actuaciones se determinarán reglamentariamente.
+2. Mediante la correspondiente solicitud a la Administración Forestal y de acuerdo con ésta, los titulares podrán asumir las citadas actuaciones en los casos de cortas de mejora y cortas a hecho.
+3. Dichas actuaciones, serán asumidas íntegramente por la Administración Forestal en el caso de cortas de regeneración.
+Se modifica por el art. único.34 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 55
+
+Artículo 55.
+1. El aprovechamiento de maderas y leñas en montes privados ordenados, a excepción de los protectores y los regulados en el artículo 7 de la presente Ley Foral, se iniciará por el titular mediante comunicación del Plan de actuaciones a la Administración Forestal, que deberá autorizarlo en el plazo de dos meses, pudiendo establecer las condiciones técnicas del mismo, así como las acciones necesarias para la regeneración del arbolado. Transcurridos dos meses sin notificación de la resolución expresa, el Plan se entenderá autorizado por silencio positivo.
+2. En el supuesto de montes privados no ordenados, exceptuados los protectores y los regulados en el artículo 7 de la presente Ley Foral, la realización de aprovechamientos de maderas y leñas habrá de ser autorizada por la Administración Forestal, en el plazo de dos meses desde la solicitud formulada el titular. La autorización podrá establecer las condiciones técnicas del aprovechamiento, así como las acciones necesarias para la regeneración del arbolado. Transcurridos dos meses sin notificación de la resolución expresa el silencio se entenderá negativo.
+3. Sin perjuicio de lo establecido en los apartados anteriores, y para pequeños aprovechamientos, reglamentariamente se establecerá un procedimiento simplificado de autorización, con comunicación previa y silencio positivo.
+Se modifica por el art. único.35 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 55 bis
+
+Artículo 55 bis.
+Se podrán autorizar, mediante comunicación previa, aprovechamientos maderables o leñosos, cuando el volumen de los mismos no supere los 100 metros cúbicos de madera o leñas. Mediante resolución de la dirección general del departamento con competencia en medio ambiente se establecerán condiciones técnicas específicas sobre esta materia.
+Se añade por la disposición final 4.1 de la Ley Foral 4/2022, de 22 de marzo. Ref. BOE-A-2022-6402#df-4
+
+### Artículo 55 ter
+
+Artículo 55 ter.
+Para favorecer la movilización de productos destinados a la generación de dendroenergía, la enajenación de los aprovechamientos forestales maderables y leñosos procedentes de los montes incluidos en el Patrimonio Forestal de Navarra se realizará mediante alguno de los siguientes procedimientos:
+a) Con carácter general se utilizará el sistema de subasta pública. En todo caso, la enajenación requerirá la previa tasación de la madera o leña, que se incorporará al expediente. En el caso de que la subasta quedase desierta, se permitirá la adjudicación directa del lote, previa conformidad de la Intervención Delegada de Economía y Hacienda en el departamento con competencias en medio ambiente.
+b) Del mismo modo, se podrá realizar la venta de productos maderables y leñosos, mediante concurso, en base a la mejor oferta calidad precio, cuando el precio no sea el único criterio determinante para la enajenación. En estos casos, al menos el 50 % de la puntuación deberá calcularse mediante la aplicación de fórmulas objetivas que se establezcan en los pliegos reguladores de la venta y en los que se determinará la ponderación relativa de cada uno de los criterios. Se podrán incorporar igualmente criterios de carácter social y medioambiental. En el caso de que el concurso quedase desierto se permitirá la adjudicación directa del lote, previa conformidad de la Intervención Delegada de Economía y Hacienda en el departamento con competencias en medio ambiente.
+c) Igualmente, se podrá acordar la enajenación directa de los aprovechamientos maderables y leñosos cuando el adquiriente de dichos productos, incluida la biomasa forestal, sea otra Administración pública, organismo público u otro ente dependiente de las administraciones públicas.
+d) Excepcionalmente, también se podrá acordar la enajenación directa de aquellos aprovechamientos maderables y leñosos valorados en menos de 15.000 euros o en los siguientes supuestos:
+– Que se produzcan en razón de la realización de obras públicas o privadas de reconocida urgencia y que afecten al interés público, así como en situaciones de reconocida urgencia declaradas como tales por el Gobierno central o el Gobierno de Navarra.
+– Que se produzcan en razón de la urgente necesidad de extracción de los productos del monte como consecuencia de incendios forestales, plagas y enfermedades forestales o riesgos para la estabilidad del arbolado.
+e) Se podrán realizar cesiones gratuitas de uso o gestión de superficies pertenecientes al Patrimonio Forestal de Navarra, tanto para fines de utilidad pública como de interés social.
+Se añade por la disposición final 4.2 de la Ley Foral 4/2022, de 22 de marzo. Ref. BOE-A-2022-6402#df-4
+
+### Artículo 56
+
+Artículo 56.
+1. En las cortas a hecho, el titular deberá recuperar el arbolado del terreno deforestado en el plazo de 5 años, fomentando la regeneración natural o mediante reforestación artificial. En caso de incumplimiento lo hará la Administración Forestal por cuenta del propietario.
+2. En el caso de que dichas cortas sean adyacentes al cauce fluvial, deberá recuperarse una banda de al menos cinco metros de anchura adyacente a dicho cauce, con especies arbóreas y arbustivas propias de la vegetación natural de la zona.
+Se modifica por el art. único.36 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 57
+
+Artículo 57.
+El aprovechamiento de los pastos en montes catalogados se realizará de forma que sea compatible con la conservación y mejora de los mismos y conforme al Proyecto de Ordenación o Plan Técnico aprobado.
+
+### Artículo 58
+
+Artículo 58.
+La Administración Forestal promoverá y regulará el pastoreo en el monte, procurando su integración en sistemas equilibrados de aprovechamiento silvo-pastoral.
+
+### Artículo 59
+
+Artículo 59.
+1. En el supuesto de que los aprovechamientos de frutos, plantas aromáticas y medicinales, setas, trufas, productos apícolas y demás productos propios de los montes, pudieran malograr el equilibrio del ecosistema o poner en peligro la pervivencia de las especies, la Administración Forestal, previo informe de la Medioambiental, podrá regular dichos aprovechamientos, incluso sometiéndolos a licencia previa.
+Las Entidades públicas titulares de montes podrán acotarlos para regular tales aprovechamientos en las condiciones que reglamentariamente se determinen y con respeto de los derechos que puedan corresponder a los aprovechamientos vecinales.
+2. Se permitirá, en las condiciones que reglamentariamente se determinen y cualquiera que sea la titularidad de los montes y la regulación de sus aprovechamientos, la recogida de muestras con fines científicos realizada por, personas acreditadas por Universidades, Entidades y Asociaciones de carácter científico.
+
+### Artículo 60
+
+Artículo 60.
+1. La Administración Forestal deberá efectuar, en las condiciones que reglamentariamente se establezcan, inspecciones y reconocimientos, tanto durante la realización del aprovechamiento, cualquiera que éste sea, como una vez finalizado el mismo.
+2. Los agentes de la Administración Forestal podrán interrumpir provisionalmente los aprovechamientos que se realicen en los montes de forma indebida, dando cuenta inmediata a la Administración Forestal, la cual dictará la Resolución que proceda en el plazo de dos meses.
+
+## Sección 2
+
+Sección 2.ª De las agrupaciones de montes
+
+## Sección 3
+
+Sección 3.ª De las agrupaciones de montes
+Se modifica por el art. único.37 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 61
+
+Artículo 61.
+1. La Administración Forestal fomentará la agrupación de montes o terrenos forestales, públicos o particulares, con objeto de conseguir una ordenación y gestión de carácter integral.
+2. Las agrupaciones serán obligatorias cuando así lo acuerde el Gobierno de Navarra por exigencias de interés público, y previa tramitación del oportuno procedimiento, en el que serán oídas las partes afectadas.
+3. Las agrupaciones forestales deberán tener entidad propia, diferenciada de sus miembros, debiendo sujetar su actividad y funcionamiento al principio de unidad de gestión forestal, a través del correspondiente instrumento de ordenación forestal.
+4. Reglamentariamente podrá establecerse un registro de agrupaciones forestales, donde deberán inscribirse las mismas.
+Se añaden los apartados 3 y 4 por el art. único.38 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 62
+
+Artículo 62.
+Cuando la mejor gestión y aprovechamiento de los montes o terrenos forestales situados en una determinada zona requiera alteraciones en el régimen jurídico de su propiedad, la Administración Forestal podrá promover de oficio la concentración parcelaria, que se llevará a cabo conforme a la legislación vigente en dicha materia.
+
+## Sección 3
+
+Sección 3.ª De las industrias forestales
+
+## Sección 4
+
+Sección 4.ª De las empresas forestales
+Se añade por el art. único.39 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 63
+
+Artículo 63.
+1. El Gobierno de Navarra promoverá la reestructuración y mejora de las empresas de trabajos y servicios forestales, así como la de las industrias de primera transformación, incluyendo en éstas las de sierra, chapa, tableros, pasta, papel y corcho. Dicha promoción se realizará en base a:
+a) El fomento de las relaciones interprofesionales entre el sector de producción forestal y los industriales dedicados a la primera transformación de la madera.
+b) El establecimiento de un régimen de ayudas específico para la mejora y reestructuración de dichas industrias.
+c) La promoción de convenios de colaboración entre los centros de investigación en transformación de productos forestales, públicos o privados, y las empresas del sector, que permitan la transferencia adecuada de tecnología y la modernización y mejora de los procesos de transformación.
+2. Se creará un registro de cooperativas, empresas e industrias forestales, las cuales deberán facilitar anualmente a efectos estadísticos, los datos relativos a su actividad, en particular, la producción, transformación y comercialización de sus productos forestales.
+3. El Gobierno de Navarra impulsará la formación de los empresarios, trabajadores y propietarios forestales.
+Se modifica por el art. único.40 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## Sección 5
+
+Sección 5.ª De la comercialización de los productos forestales
+Se añade por el art. único.41 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 63 bis
+
+Artículo 63 bis.
+1. La Administración Forestal impulsará la aplicación de la certificación forestal por parte de los titulares de los montes o de los aprovechamientos forestales.
+2. La Administración Forestal promoverá el empleo de la madera y otros productos de los montes, fomentando asimismo el establecimiento y desarrollo de nuevos usos de los productos y servicios forestales. Será objetivo principal por parte de la Administración Foral y de las entidades locales de Navarra el fomento del uso de la madera principalmente en edificios, viviendas y mobiliario público. De la misma manera se potenciará y premiará el uso de biomasa forestal como fuente energética tanto en edificios públicos como en viviendas y urbanizaciones.
+3. Igualmente, promoverá la mejora de las condiciones de comercialización de los productos forestales.
+4. La enajenación de los aprovechamientos forestales procedentes de los montes incluidos en el Patrimonio Forestal de Navarra se realizará mediante el procedimiento que reglamentariamente se establezca.
+Se añade por el art. único.41 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## CAPITULO VI
+
+Del uso recreativo de los montes
+
+### Artículo 64
+
+Artículo 64.
+Corresponde a la Administración Forestal, previo informe vinculante de la Medioambiental, regular la actividad recreativa de los montes, bajo el principio del respeto al medio natural, cuando lo aconseje la afluencia de visitantes o la fragilidad del medio.
+
+### Artículo 65
+
+Artículo 65.
+Esta actividad deberá, en todo casa, sujetarse a las siguientes condiciones:
+a) Se deberá mantener a los montes limpios de elementos extraños al mismo. Todo visitante o excursionista es responsable de la recogida y extracción del monte de los residuos que origine.
+b) Queda prohibida cualquier acción que impida o limite el normal comportamiento de las especies protegidas.
+c) Está prohibida la recogida de productos sometidos a autorización y de material vegetal, mineral o de ejemplares de la fauna de los montes, salvo lo previsto en el artículo 59.2.
+d) Podrá prohibirse el uso de elementos sonoros o las actividades productoras de ruido, siempre que a juicio de la Administración Medioambiental puedan alterar los hábitos del ganado o de la fauna silvestre.
+e) Podrá limitarse o prohibir el uso de los viales de carácter forestal para las actividades recreativas. En cualquier caso, la circulación y el aparcamiento de todo tipo de vehículo no podrán realizarse fuera de dichos viales y de las zonas señaladas para aparcamiento.
+f) Quedan prohibidas las actividades motorizadas que se realicen a campo traviesa, excepto en los circuitos que se autoricen al efecto por la Administración Forestal, previo informe vinculante de la Administración Medioambiental.
+g) Las acampadas deberán contar con la autorización del titular del monte y del órgano competente de la Administración de la Comunidad Foral de Navarra, de acuerdo con lo que reglamentariamente se establezca.
+h) Las fuentes, manantiales y cursos de agua deberán estar en todo momento libres y expeditos, salvo en caso de actividad de pesca ejercida legalmente, no pudiéndose acampar a menos de 100 metros de fuentes y manantiales.
+i) La Administración Forestal podrá ordenar la actividad comercial ambulante en los montes, sin perjuicio de las licencias y autorizaciones de los órganos competentes. Mientras no se realice tal regulación, se entenderá que dicha actividad no puede ser ejercida en las montes.
+j) Queda prohibida la publicidad estática en los montes de utilidad pública o en los protectores.
+k) A cualquier actividad autorizada en los montes como la caza, el cultivo agrícola de enclaves, los trabajos y aprovechamientos forestales, les será de aplicación lo dispuesto en el párrafo a) de este artículo.
+
+## TITULO IV
+
+De la mejora de los montes y de las ayudas al sector forestal
+Se modifica por el art. único.42 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 66
+
+Artículo 66.
+La Administración de la Comunidad Foral de Navarra, dentro de los límites presupuestarios correspondientes, prestará ayuda técnica y económica a los titulares de montes o terrenos forestales, sean públicos o privados, a los titulares de los aprovechamientos forestales, a las asociaciones forestales, y a las industrias y empresas forestales.
+Se modifica por el art. único.43 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 67
+
+Artículo 67.
+1. Los titulares, según el catálogo de Montes de Utilidad Pública, o protectores estarán obligados al cumplimiento exacto del plan de mejoras que para el monte establezca la Administración Forestal al autorizar los aprovechamientos. El valor de la inversión prevista en el plan de mejoras no será inferior al 20 por 100 del importe de los aprovechamientos.
+2. La Administración Forestal podrá aplazar la autorización de nuevos aprovechamientos forestales hasta tanto que se hayan llevado a cabo por los titulares de los montes los planes de mejora pendientes de ejecución.
+3. La realización de trabajos de mejora selvícolas, tales como clareos, desbroces, podas, y demás tratamientos sin aprovechamiento comercial, deberá ajustarse al correspondiente Plan de aprovechamientos y mejoras o al Plan de actuaciones aprobado. En el supuesto de que no existan dichos planes, o que dichas mejoras no se hallen comprendidas en los mismos será necesaria autorización expresa por parte de la Administración Forestal.
+Se añade el apartado 3 por el art. único.44 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 68
+
+Artículo 68.
+La Administración Forestal, en relación con lo dispuesto en el artículo 66 de la presente Ley Foral, atenderá las siguientes acciones:
+a) La Planificación general relativa al uso, gestión y protección de los montes y terrenos forestales.
+b) La redacción de Planes de Ordenación, de sus revisiones periódicas y de Planes Técnicos que tengan por objeto el ordenado uso y aprovechamiento de los montes, acorde con la conservación de los recursos naturales.
+c) Los trabajos de corrección hidrológico-forestal que sean necesarios para el mantenimiento y recuperación de la estabilidad y fertilidad del suelo.
+d) La reconstrucción de los bosques destruidos por los incendios o por otras causas.
+e) La construcción y conservación de infraestructuras de prevención de incendios forestales, así como los trabajos de selvicultura preventiva.
+f) La investigación y experimentación forestales.
+g) Las acciones de lucha contra las plagas forestales cuyo tratamiento haya sido declarado de utilidad pública por el Gobierno de Navarra.
+h) La ampliación de la superficie arbolada de Navarra, mediante la creación de bosques con capacidad de regenerarse y de evolucionar hacia formaciones vegetales maduras.
+i) El mantenimiento y mejora de la biodiversidad de los montes y la restauración e incremento de los hábitats forestales.
+j) Las obras y trabajos conducentes a la mejora de los pastos y de otros productos naturales de los montes.
+k) Los trabajos de mejora selvícola, en especial los tendentes a facilitar la regeneración natural de los bosques, y la prevención de incendios forestales.
+l) La construcción de vías forestales.
+m) La repoblación forestal cuya finalidad principal sea el aprovechamiento de maderas o leñas.
+n) La racionalización de la comercialización de los productos de los montes.
+ñ) La realización de proyectos y obras que faciliten el uso social y recreativo de los montes.
+o) La promoción de agrupaciones y asociaciones forestales, así como de cooperativas forestales.
+p) La sensibilización social y la divulgación de los beneficios que los montes procuran a la sociedad.
+q) El fomento de las industrias forestales de primera transformación, así como de las empresas de servicios y trabajos forestales.
+Se modifica por el art. único.45 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 69
+
+Artículo 69.
+1. Corresponde a la Administración de la Comunidad Foral de Navarra la programación y financiación total con cargo a Presupuestos Generales de Navarra de las acciones señaladas en el artículo anterior con las letras a), c), d), e), f) y g), así como las indicadas en la letra b) respecto de los Planes de Ordenación y sus revisiones en montes públicos, protectores, así como los contemplados en el artículo 7 de la presente Ley Foral.
+2. La acción señalada en la letra b) respecto de los montes privados no protectores, así como el resto de acciones señaladas en el artículo anterior y no contempladas en el 69.1, podrán ser realizadas por la Administración Forestal o por los titulares con las ayudas correspondientes. Dichas ayudas podrán alcanzar la totalidad de la inversión.
+3. Los particulares, titulares de montes o terrenos forestales afectados por las acciones señaladas en los apartados anteriores, formalizarán con la Administración Forestal convenios de colaboración para el uso de las infraestructuras creadas, con excepción de las producciones futuras que serán aprovechadas por los titulares de los montes.
+Se modifica por el art. único.46 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 70
+
+Artículo 70.
+El Gobierno de Navarra realizará el desarrollo reglamentario de las ayudas a que se refiere el artículo 69.2 ajustándose a lo siguiente:
+a) En virtud de las externalidades ambientales generadas por los montes y terrenos forestales catalogados de utilidad pública, montes protectores y montes del artículo 7 de la presente Ley Foral, los mismos gozarán de preferencia en la concesión de las ayudas e incremento de las mismas respecto del resto de montes o terrenos forestales. Gozarán también de preferencia en la concesión de ayudas los montes ordenados.
+b) La graduación de las ayudas se realizará teniendo en cuenta el interés público de la acción a subvencionar.
+c) Los montes resultantes de las agrupaciones, asociaciones o cooperativas de propietarios forestales, siempre que constituyan una unidad de gestión, tendrán los mismos beneficios que los montes catalogados de utilidad pública o como protectores.
+d) La compatibilidad de las ayudas con las establecidas en la legislación de la Unión Europea.
+e) La concesión de las ayudas estará sujeta en todo caso a las limitaciones presupuestarias.
+Se modifica por el art. único.47 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 71
+
+Artículo 71.
+1. La Administración Forestal podrá establecer baremos de subvención para cada una de las distintas unidades objeto de subvención, según sus costes unitarios.
+2. Cuando lo soliciten los titulares de los montes, y previo el ingreso en Tesorería de Navarra del importe no subvencionado, las acciones podrán ser ejecutadas por la Administración Forestal en cualquiera de las formas previstas para la contratación de la Comunidad Foral de Navarra.
+
+### Artículo 72
+
+Artículo 72.
+1. La Administración Forestal promocionará, asimismo, la implantación de arbolado en el medio rural, a fin de recuperar el arbolado lineal o de grupos en caminos, regatas, setos de separación de fincas y otras zonas que permitan enriquecer el paisaje e incrementar la riqueza ecológica del medio rural.
+Se deroga los apartados 2 y 3 por la disposición derogatoria única.1 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 73
+
+Artículo 73.
+1. La Administración Forestal podrá conceder, en la cuantía que se determine reglamentariamente, los beneficios que para inversiones referidas a medidas forestales en las explotaciones agrarias se establezcan en la legislación de la Comunidad Europea, sin sobrepasar los límites máximos señalados en dicha legislación,
+2. El Gobierno de Navarra priorizará, entre las acciones señaladas en el artículo 68, aquellas que se contemplen en planes de desarrollo de zonas rurales o en programas de acción común en zonas desfavorecidas y que puedan ser cofinanciados por la CEE en el marco de la legislación comunitaria.
+3. Las acciones relacionadas con la prevención de incendios podrán ejecutarse a través de programa o proyectos elaborados en el marco de la normativa comunitaria.
+4. Corresponde al Gobierno de Navarra la aprobación de los planes y proyectos a que hacen referencia los apartados anteriores, previa su elaboración por los Departamentos que tengan competencia sobre las acciones incluidas en dichos planes y proyectos.
+
+### Artículo 74
+
+Artículo 74.
+Los montes catalogados de utilidad pública o como protectores, así como los que resulten de la unión a que se refieren los artículos 61 y 62 de la presente Ley Foral, estarán exentos de contribución.
+
+## TITULO V
+
+Del régimen sancionador
+Se modifica por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## CAPÍTULO I
+
+Infracciones
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 75
+
+Artículo 75.
+A los efectos de lo dispuesto en la presente Ley Foral se consideran infracciones:
+a) El cambio de uso forestal sin autorización.
+b) La utilización u ocupación llevada a cabo sin autorización en montes catalogados de utilidad pública.
+c) La corta, arranque, daño, extracción o apropiación sin el título administrativo debido, de árboles o leñas en los montes o terrenos forestales.
+d) El aprovechamiento o extracción de otros frutos, productos o materiales vegetales o minerales de los montes realizado sin autorización cuando ésta sea legalmente exigible.
+e) Toda quema en el monte, el uso del fuego, o la realización de actividades susceptibles de generar fuego en el monte, careciendo de autorización, o incumpliendo las prescripciones impuestas por la Administración en actividades autorizadas.
+f) El incumplimiento de las disposiciones que regulen el uso del fuego dictadas en materia de prevención y extinción de incendios forestales.
+g) El pastoreo en los montes o terrenos forestales donde esté prohibido o cuando se lleve a cabo sin ajustarse a las normas establecidas por la Administración.
+h) El incumplimiento por los titulares de montes o terrenos forestales de las obligaciones que, con arreglo a esta Ley Foral, se impongan a los mismos.
+i) La forestación o reforestación con materiales de reproducción expresamente prohibidos.
+j) El uso de tratamientos fitosanitarios sin autorización.
+k) La realización de vías de saca, pistas, o cualquier otra obra cuando no está prevista en los correspondientes proyectos de ordenación, o sin estar expresamente autorizada por la Administración.
+l) Cualquier incumplimiento del contenido de los proyectos de ordenación de montes y de planes de aprovechamiento y mejora que afecte al normal desarrollo del monte, sin causa técnica justificada.
+m) El incumplimiento de las obligaciones encaminadas a la restauración y reparación de los daños ocasionados a los montes, así como las medidas cautelares dictadas al efecto.
+n) La circulación y/o permanencia de ciclomotores, motocicletas, quads y, en general, vehículos a motor, en los montes de titularidad pública y en caminos o zonas forestales donde exista prohibición expresa en tal sentido. Esta prohibición no afectará a los trabajos relacionados con actividades forestales o ganaderas.
+ñ) La obstrucción por acción u omisión de las actuaciones de investigación, inspección y control de las Administraciones Públicas y sus agentes, en relación con las disposiciones de esta Ley Foral y sus normas de desarrollo.
+o) La modificación sustancial de la cubierta vegetal del monte sin la correspondiente autorización o comunicación.
+p) El vertido no autorizado de vertidos en terrenos forestales.
+q) El incumplimiento de las obligaciones de información a la Administración por parte de los particulares.
+r) El incumplimiento, total o parcial, de otras obligaciones o prohibiciones establecidas en esta Ley Foral, así como de las condiciones impuestas por la Administración en las materias reguladas en esta norma.
+Se modifica por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 76
+
+Artículo 76.
+1. Las infracciones podrán ser leves, graves o muy graves.
+2. Son infracciones leves la comisión de cualquiera de las infracciones tipificadas en el artículo anterior, cuando los hechos constitutivos de la infracción no hayan causado daños al monte o cuando, habiendo daños, éstos estén valorados en cuantía inferior a 1.000 euros o el plazo para su reparación o restauración no exceda de seis meses.
+3. Son infracciones graves las tipificadas en el artículo anterior cuando los hechos constitutivos de la infracción hayan causado daños valorados iguales o superiores a 1.000 e inferiores a 6.000 euros o el plazo para su reparación o restauración sea superior a 6 meses e inferior a 10 años.
+4. Son infracciones muy graves las tipificadas en el artículo anterior cuando los hechos constitutivos de la infracción hayan causado daños valorados en 6.000 o más euros o el plazo de reparación o restauración sea igual o superior a 10 años.
+Se modifica por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 77
+
+Artículo 77.
+1. El plazo de prescripción de las infracciones será de tres años para las muy graves, dos años para las graves y un año para las leves.
+2. El plazo de prescripción comenzará a contarse a partir de la fecha en que la infracción se haya cometido. En el caso de infracciones de tracto continuado, comenzará a contarse desde el momento que hubieran concluido los actos constitutivos de la infracción o hubiesen sido autorizados.
+Se modifica por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 78
+
+Artículo 78.
+1. Serán responsables de las infracciones previstas en esta Ley Foral las personas físicas o jurídicas que incurran en aquéllas bien por realizar directamente la actividad infractora o haberla ordenado cuando el ejecutor tenga con aquélla una relación contractual o de hecho, siempre que se demuestre su dependencia del ordenante, o bien porque su colaboración sea necesaria para la comisión de la infracción.
+2. Cuando no sea posible determinar el grado de participación de las distintas personas que hubiesen intervenido en la realización de una infracción, la responsabilidad será solidaria, sin perjuicio del derecho a repetir frente a los demás participantes, por parte de aquel o aquellos que hubieran hecho frente a las responsabilidades.
+Se modifica por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+ Se modifica el apartado 4 por la disposición adicional 5 de la Ley Foral 18/1999, de 30 de diciembre. Ref. BOE-A-2000-1735
+
+## CAPÍTULO II
+
+Sanciones
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 79
+
+Artículo 79.
+1. Las sanciones que se impongan a los distintos responsables por una misma infracción tendrán entre sí carácter independiente.
+2. A los responsables de dos o más infracciones se les impondrán las sanciones correspondientes a cada una de las diversas infracciones cometidas.
+Se modifica por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 80
+
+Artículo 80.
+Las infracciones previstas en la presente Ley Foral serán sancionadas de la siguiente forma:
+a) Las infracciones leves, con multa de hasta 6.000 euros.
+b) Las infracciones graves, con multa de 6.001 a 100.000 euros.
+c) Las infracciones muy graves con multa de 100.001 a 1.000.000 de euros.
+Se modifica por la disposición adicional 20 de la Ley Foral 1/2008, de 24 de enero. Ref. BOE-A-2008-3584
+ Se modifica por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 81
+
+Artículo 81.
+Podrán aplicarse las siguientes sanciones con carácter accesorio:
+a) Suspensión temporal de actividades o instalaciones causantes del daño hasta la puesta en práctica de las medidas correctoras.
+b) Clausura definitiva total o parcial de las actividades o instalaciones.
+c) Revocación de la licencia o del título habilitante para el ejercicio de actividades causantes de la infracción.
+d) Decomiso de los productos obtenidos y aprehensión del ganado, así como los instrumentos y medios utilizados en la comisión de la infracción.
+e) Pérdida de las ayudas y subvenciones de que se haya beneficiado el infractor.
+Se modifica por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 82
+
+Artículo 82.
+En la imposición de sanciones se deberá guardar la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada, considerando especialmente los siguientes criterios para la graduación de la sanción a aplicar:
+a) La intencionalidad.
+b) La reincidencia.
+c) El beneficio económico o contenido lucrativo obtenido por el infractor.
+d) La posibilidad de reparación de la realidad física alterada.
+Se modifica por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 83
+
+Artículo 83.
+Podrá reducirse la sanción o su cuantía, siempre y cuando el infractor haya procedido a corregir la situación creada por la comisión de la infracción en el plazo que se señale en el correspondiente requerimiento.
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 84
+
+Artículo 84.
+1. Las sanciones impuestas por la comisión de infracciones muy graves prescribirán a los tres años, las impuestas por infracciones graves a los dos años y las impuestas por faltas leves al año.
+2. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+3. Interrumpirá la prescripción de las sanciones la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causa no imputable al infractor.
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### CAPÍTULO III
+
+Procedimiento sancionador
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 85
+
+Artículo 85.
+El ejercicio de la potestad sancionadora prevista en la presente Ley Foral corresponderá al Director General competente en materia forestal cuando se trate de infracciones leves y graves, y al Consejero competente en la materia cuando se trate de infracciones muy graves.
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 86
+
+Artículo 86.
+1. Con carácter previo a la iniciación del expediente sancionador, el órgano competente para el inicio podrá ordenar la apertura de un período de información previa para el esclarecimiento de los hechos, con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.
+2. La información previa podrá tener carácter reservado y su duración no superará el plazo de un mes, salvo que se acuerde expresamente su prórroga por otro u otros plazos determinados.
+3. No se considerará iniciado el procedimiento sancionador por las actuaciones de inspección o control, ni por los actos o documentos en que se plasmen, por la verificación de análisis o controles por la Administración, ni por las actuaciones previas a que se refiere el apartado primero.
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 87
+
+Artículo 87.
+1. Para la instrucción de los expedientes e imposición de sanciones por infracciones previstas en esta Ley Foral, se estará al siguiente procedimiento administrativo que se iniciará siempre de oficio:
+a) Se iniciará por el órgano competente, en virtud de actuaciones practicadas de oficio o mediante denuncia. La resolución de inicio designará al instructor, que deberá recaer en persona que ocupe un puesto de trabajo para el que sea necesario título de licenciado en Derecho.
+b) El instructor redactará el pliego de cargos con propuesta de sanción, que será notificado al sujeto presuntamente responsable quien dispondrá de un plazo de quince días para formular las alegaciones que estime pertinentes en defensa de su derecho.
+c) Transcurrido el plazo de alegaciones, y previas las diligencias que se estimen necesarias, el instructor elevará el expediente al órgano competente para resolver, quién dictará la resolución correspondiente en el plazo de un mes.
+2. El pliego de cargos con propuesta de sanción a que se refiere el número anterior reflejará, como mínimo, los siguientes extremos:
+a) La identificación del presunto infractor y el domicilio a efecto de notificaciones.
+b) Los hechos constatados, destacando los relevantes a efectos de la tipificación de la infracción y graduación de la sanción.
+c) La infracción presuntamente cometida, con expresión del precepto vulnerado.
+d) La propuesta de sanción, su graduación y cuantificación.
+e) En su caso, la indemnización que proceda por los daños y perjuicios causados.
+f) Las sanciones accesorias que procedan.
+g) El destino de las armas, medios o piezas ocupadas o comisadas.
+h) El órgano competente para resolver y normativa que le atribuye tal competencia.
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 88
+
+Artículo 88.
+1. Los miembros de la Administración que realicen funciones de inspección de acuerdo con la presente Ley Foral y los reglamentos que la desarrollen, tendrán la consideración de agentes de la autoridad.
+2. Las actas de inspección o denuncias que se extiendan por los miembros de la Administración actuando en ejercicio de funciones de inspección o vigilancia estarán dotadas de presunción de certeza respecto de los hechos reflejados en las mismas, salvo prueba en contrario.
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 89
+
+Artículo 89.
+1. El plazo máximo para dictar y notificar la resolución expresa en el procedimiento sancionador será de un año, contado desde la fecha en que se adoptó la resolución administrativa por la que se incoó el expediente.
+2. El órgano competente para resolver, podrá acordar mediante resolución administrativa motivada y por causa debidamente justificada, una ampliación del plazo máximo aplicable que no exceda de la mitad del inicialmente establecido.
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+## CAPÍTULO IV
+
+Medidas cautelares y de reparación del daño
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 90
+
+Artículo 90.
+1. La Administración Forestal podrá adoptar las medidas de carácter provisional que estime necesarias, incluyendo el decomiso, para evitar la continuidad del daño ocasionado por la actividad presuntamente infractora.
+2. Al inicio del procedimiento el órgano competente para instruir el expediente deberá ratificar tales medidas. Asimismo, podrá imponer nuevas medidas cautelares para asegurar la eficacia de la resolución final que pudiera recaer.
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 91
+
+Artículo 91.
+1. Sin perjuicio de las sanciones penales o administrativas que en cada caso procedan, el infractor deberá reparar el daño causado en la forma y condiciones fijadas por el órgano sancionador. Esta obligación es imprescriptible en el caso de daños al dominio público forestal.
+2. La reparación tendrá como objetivo la restauración del monte o ecosistema forestal dañado a la situación previa a los hechos constitutivos de la infracción. Cuando la reparación no sea posible, la Administración podrá requerir la indemnización correspondiente.
+3. Los daños ocasionados al monte y el plazo para su reparación o restauración se determinarán según criterio técnico debidamente motivado en la resolución sancionadora.
+4. La obligación del responsable de recuperación de la realidad física dañada o de reposición del terreno a su estado originario persistirá pese a la prescripción de la infracción.
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 92
+
+Artículo 92.
+1. El responsable de los daños y perjuicios, además del pago de la multa legalmente establecida, deberá abonar, en su caso, las indemnizaciones que procedan, realizándose la valoración por la Administración según criterio técnico.
+2. En el caso de infracciones en materia de incendios sus responsables deberán abonar las indemnizaciones que procedan hasta detraer el lucro que hayan podido obtener como consecuencia directa del siniestro.
+3. Podrá requerirse asimismo indemnización en los casos en que el beneficio económico del infractor sea superior a la máxima sanción prevista. Esta indemnización será como máximo del doble de la cuantía de dicho beneficio.
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Artículo 93
+
+Artículo 93.
+1. Si los infractores no procedieran a la reparación o indemnización, de acuerdo con lo establecido en la presente Ley Foral, y una vez transcurrido el plazo señalado en el requerimiento correspondiente, el órgano sancionador podrá acordar la imposición de multas coercitivas o la ejecución subsidiaria.
+2. Las multas coercitivas serán reiteradas por lapsos de tiempo que sean suficientes para cumplir lo ordenado, y la cuantía de cada una de dichas multas no superará el 20 por 100 de la multa fijada por la infracción cometida.
+3. La ejecución por la Administración de la reparación ordenada será a costa del infractor.
+Se añade por el art. único.48 de la Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Reglamentariamente se establecerán los módulos de reservas de terrenos para la plantación de arbolado en suelos clasificados por el planeamiento territorial o urbanístico corno urbanizable o urbano no consolidado.
+2. Las reservas de terrenos no podrán ser en ningún caso inferiores al 10 por 100 del total de los terrenos comprendidos en el sector, cuando se trate de suelo urbanizable, o en el ámbito clasificado como suelo urbano no consolidado.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La Administración de la Comunidad Foral de Navarra promocionará el gradual abandono de la práctica generalizada de la quema de rastrojeras y, con la colaboración de las Entidades Locales, procederá a su planificación y regulación antes del 1 de julio de 1991.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+En el plazo de dos años, el Gobierno de Navarra presentará al Parlamento Foral, previo trámite de información pública, un Plan Forestal de Navarra, siguiendo los principios y objetivos de la presente Ley Foral.
+
+### Disposición transitoria
+
+Disposición transitoria.
+(Derogada).
+Se deroga por la disposición derogatoria única.1 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
+
+### Disposición final primera
+
+Disposición final primera.
+Queda derogado el capítulo I del título único de la norma sobre quema de rastrojeras y malezas, del Parlamento Foral de Navarra, de 17 de marzo de 1981; y, en general, cuantas disposiciones de igual o inferior rango se oponga a lo dispuesto en esta Ley Foral.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se faculta al Gobierno de Navarra para que pueda dictar cuantas disposiciones sean necesarias para la aplicación y desarrollo de esta Ley Foral. El desarrollo reglamentario de la presente Ley Foral se realizará en el plazo de un año.
+
+### [firma]
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S. M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado», y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 31 de diciembre de 1990.
+GABRIEL URRALBURU TAINTA,
+Presidente del Gobierno de Navarra

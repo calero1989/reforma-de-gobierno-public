@@ -1,0 +1,1820 @@
+# Ley 7/2011, de 27 de julio, de Medidas Fiscales y Financieras.
+
+- Identificador BOE: `BOE-A-2011-13896`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2011-13896
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en DOGC núm. 5966, de 19 de septiembre de 2011.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 65 del Estatuto de autonomía de Cataluña, promulgo la siguiente Ley 7/2011, de 27 de julio, de Medidas Fiscales y Financieras.
+PREÁMBULO
+Junto con la Ley de presupuestos de la Generalidad de Cataluña para el año 2011 se presenta esta Ley de medidas fiscales y financieras, que incluye todas las materias vinculadas, que tienen vocación de permanencia y que están relacionadas con los ingresos o el gasto o con la administración del patrimonio de la Generalidad, el cual se considera integrante de la hacienda pública. La Ley se estructura en dos títulos: el primero, dedicado a las medidas fiscales, y el segundo, centrado en las medidas relativas al régimen jurídico de las finanzas públicas. En total la Ley contiene ochenta y seis artículos, a los que hay que añadir las correspondientes disposiciones adicionales, transitorias, derogatoria y finales.
+El título I contiene las medidas fiscales y se divide en dos capítulos. El primero está dedicado a los tributos propios: concretamente, al gravamen de protección civil, al canon sobre la disposición del desperdicio de los residuos municipales, a las tasas y, por último, al canon del agua. El segundo capítulo modifica aspectos del impuesto sobre la renta de las personas físicas y del impuesto sobre sucesiones y donaciones. En cuanto a las tasas, las modificaciones obedecen, en algunos casos, a la necesidad de adaptar la normativa tributaria a los cambios efectuados en la regulación sustantiva de la actividad administrativa o en la prestación del servicio gravado; en otros casos, se añaden nuevos supuestos de exención, y también se suprimen algunos hechos imponibles y se crean nuevas tasas.
+En cuanto a los tributos cedidos, las modificaciones que contiene la presente ley son, principalmente, de carácter técnico. Así, por ejemplo, en el impuesto sobre la renta de las personas físicas se clarifica cuál es el importe máximo que puede aplicarse cada uno de los contribuyentes, en caso de declaración conjunta, tanto en la deducción en concepto de inversión por un ángel inversor para adquirir acciones o participaciones sociales de entidades nuevas o de creación reciente, como en la deducción por inversión en acciones de entidades que cotizan en el segmento de empresas en expansión del mercado alternativo bursátil. También tiene carácter técnico la medida referida al impuesto sobre sucesiones y donaciones, en la que se especifican los términos para que sea efectiva la deducción por sobreimposición decenal ya existente. Más allá de estas precisiones técnicas, en el impuesto sobre la renta de las personas, los porcentajes de deducción por inversión en vivienda habitual, aplicables en la cuota íntegra autonómica, se equiparan a los aplicables en el tramo estatal. Por otro lado, también se modifica la deducción por el pago de intereses de préstamos para los estudios de máster y doctorado con el objetivo de adaptarla a la nueva estructura de los estudios.
+El título II incluye las medidas relativas al régimen jurídico de las finanzas públicas y se divide en siete capítulos. El capítulo I contiene dos medidas relacionadas con la gestión financiera y el control. En la primera medida se hacen modificaciones a la Ley de finanzas públicas referidas a la autorización y formalización de operaciones financieras; a la sujeción del control financiero de la Intervención General; a la obligación de indemnizar por daños a la hacienda pública de la Generalidad; y a las subvenciones y ayudas, tanto de carácter formal como en el ámbito de cooperación internacional al desarrollo. Con la segunda medida se hacen modificaciones puntuales a la Ley de cooperación al desarrollo, en relación con la exigibilidad en la solvencia de las entidades y con la posibilidad de obtener nuevas fuentes de financiación mediante convenios de colaboración.
+En el capítulo II, dedicado a medidas de tipo patrimonial, se hacen modificaciones puntuales a la Ley del patrimonio de la Generalidad, con diversos objetivos: delimitar quién asume los gastos de mantenimiento de los edificios que ya no están adscritos a un departamento o a un órgano; actualizar la cuantía por el informe preceptivo de la Dirección General del Patrimonio en caso de obras de primer establecimiento o conservación y mejora de edificios; establecer criterios de optimización de uso de edificios públicos; introducir el concurso como medio de venta de inmuebles y ampliar los supuestos de venta directa, y regular el procedimiento para incorporar al patrimonio de la Generalidad bienes derivados de reducciones de capital o devolución de aportaciones de cualquier tipo de entidades. Asimismo, este capítulo modifica la Ley del Estatuto de la empresa pública catalana con el fin de determinar el régimen de autorizaciones de las sociedades. Por último, se incluye una modificación de la Ley del registro de depósito de fianzas de los contratos en alquiler de fincas, en relación con los órganos competentes para imponer sanciones.
+El capítulo III, relativo a otras modificaciones de leyes sustantivas, se divide en tres secciones. La primera, dedicada a las entidades de derecho público, modifica la Ley del Instituto Catalán de Finanzas con el objetivo de adecuar este Instituto a la realidad económica y financiera actual e integrar en el mismo el Instituto Catalán del Crédito Agrario. La sección segunda introduce modificaciones puntuales a la Ley 10/1997, de 3 de julio, de la renta mínima de inserción. Por último, la sección tercera, de urbanismo, modifica la Ley de mejora de barrios, áreas urbanas y villas que requieren una atención especial, para condicionar la convocatoria de ayudas a la disponibilidad del Fondo de fomento del programa de barrios y áreas urbanas de atención especial.
+El capítulo IV establece el régimen jurídico de los Centros de Investigación de Cataluña (CERCA) y de la Institución Catalana de Investigación y Estudios Avanzados (ICREA) para potenciar la investigación, el desarrollo y la innovación como elementos clave del nuevo modelo de transformación y cohesión económica, con la voluntad de consolidar Cataluña como referente en el avance del conocimiento.
+El capítulo V se dedica al régimen jurídico de las entidades del sector público de la salud. El capítulo VI crea la Agencia Catalana del Patrimonio Cultural y la Oficina de Apoyo a la Iniciativa Cultural. Por último, el capítulo VII establece la orientación del Gobierno para la consecución de la estabilidad presupuestaria.
+La presente ley contiene dieciocho disposiciones adicionales, mediante las cuales se suspende la aplicación del canon sobre la deposición controlada de los residuos de la construcción; se establece que corresponde al secretario o secretaria general del Departamento de Enseñanza la autorización de determinados compromisos de gasto con cargo a presupuestos de ejercicios futuros; se declara el régimen de autonomía financiera de las oficinas de turismo de la Generalidad; se crea el Órgano Administrativo de Recursos Contractuales de la Generalidad de Cataluña para que resuelva los recursos en materia de contratación pública; se deja sin efecto la tipología de vivienda con protección oficial concertado de Cataluña; se autoriza al Gobierno para que el Instituto Catalán de Finanzas constituya una sociedad mercantil y cree un ente que sustituya o asuma la titularidad de REGSA, de GISA y de REGSEGA; se hace una autorización al titular o la titular del Departamento de Economía y Conocimiento en materia de factura electrónica; se regula la aplicación normativa a los centros CERCA y a ICREA del sector público; se otorga una nueva orientación a las oficinas de acción exterior de la Generalidad; se establece la presentación de un proyecto de ley de estabilidad presupuestaria; se establecen medidas en el ámbito de actuación del Departamento de Salud; se determina cómo deben aplicarse las tasas de control e inspección en mataderos, salas de troceo y establecimientos de transformación de la caza; se regula la autorización, por parte de los ayuntamientos, de la venta no sedentaria; se modifica el Decreto ley 1/2009, de 22 de diciembre, de ordenación de equipamientos comerciales, en lo relativo a las dimensiones de los proyectos de nuevos establecimientos comerciales vinculados al Centro de Alto Rendimiento, de Sant Cugat del Vallès; se determina la aplicación normativa de las entidades del sector público de la salud; y, por último, las tres últimas disposiciones adicionales se dedican a la subrogación de bienes y personal en relación con varios organismos del ámbito de la cultura.
+La Ley contiene también seis disposiciones transitorias, en una de las cuales se regula el régimen transitorio de los órganos y del personal del Instituto Catalán del Crédito Agrario como consecuencia de su integración en el Instituto Catalán de Finanzas, y una disposición derogatoria. La Ley termina con dos disposiciones finales, la segunda de las cuales fija su entrada en vigor.
+El proyecto de la presente ley fue sometido a la consideración del Consejo de Trabajo, Económico y Social de Cataluña, que, de acuerdo con lo establecido por el artículo 2.1.a.primero de la Ley 7/2005, de 8 de junio, del Consejo de Trabajo, Económico y Social de Cataluña, debe emitir un dictamen de carácter preceptivo no vinculante sobre los anteproyectos de ley que regulan materias socioeconómicas, laborales y de ocupación de competencia de la Generalidad. A la vista de dicho dictamen, se introdujeron varias modificaciones en el texto del proyecto de ley.
+
+## TÍTULO I
+
+Medidas fiscales
+
+## CAPÍTULO I
+
+Tributos propios
+
+## Sección primera
+
+Sección primera. Gravamen de protección civil
+
+### Artículo 1
+
+Artículo 1. Modificación de la Ley 4/1997.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Sección segunda
+
+Sección segunda. Cánones sobre la disposición del desperdicio de los residuos municipales
+
+### Artículo 2
+
+Artículo 2. Modificación de la Ley 8/2008.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Sección tercera
+
+Sección tercera. Tasas
+
+## Subsección primera
+
+Subsección primera. Tasa por la verificación previa a la admisión de valores a negociación exclusivamente en los mercados de valores situados en Cataluña
+
+### Artículo 3
+
+Artículo 3. Modificación del título VI del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+1. Se modifica el artículo 6.2-4 del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«Artículo 6.2-4. Base imponible.
+La base imponible es el valor nominal de la emisión para la que se solicita la admisión a negociación. En caso de modificación de valores en circulación por incremento de su valor nominal, la base imponible es el importe del incremento del valor nominal de las emisiones, como consecuencia de la modificación, en la fecha de la verificación correspondiente.»
+2. Se modifica el apartado 1 del artículo 6.2-5 del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«1. La cuota de la tasa se determina aplicando a la base imponible el siguiente baremo:
+a) Valores con un plazo final de amortización o vencimiento superior a dieciocho meses: 0,03 por mil.
+b) Valores con un plazo final de amortización o vencimiento inferior o igual a dieciocho meses: 0,01 por mil.»
+3. Se añade un nuevo apartado, el 3, al artículo 6.2-5 del texto refundido aprobado por el Decreto legislativo 3/2008, con el siguiente texto:
+«3. Si la cuota que resulta de aplicar el tipo de gravamen es inferior a 1.700,00 euros, en el caso de emisiones de valores de renta variable, o de 1.000,00 euros, en el caso de valores de renta fija, debe aplicarse una cuota fija mínima de 1.700,00 euros y 1.000,00 euros, respectivamente.»
+
+## Subsección segunda
+
+Subsección segunda. Tasa por las reproducciones de documentos del Archivo Nacional de Cataluña, de los archivos históricos provinciales y de los archivos comarcales
+
+### Artículo 4
+
+Artículo 4. Modificación del título VIII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se modifica el artículo 8.6-4 del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«Artículo 8.6-4. Cuota.
+El importe de la cuota corresponde a los siguientes conceptos:
+1. Reproducciones en microfilme de 35 mm:
+Reproducción en papel DIN A4: 0,20 euros.
+Reproducción en papel DIN A3: 0,50 euros.
+2. Impresiones de imágenes digitales
+2.1. A 300 puntos por pulgada (dpi), en papel fotográfico digital, en blanco y negro o en color
+Tamaño DIN A4: 7,85 euros.
+Tamaño DIN A3: 9,15 euros.
+2.2. A 150 puntos por pulgada (dpi) o 72 puntos por pulgada (dpi), en papel normal, en blanco y negro o en color.
+Tamaño DIN A4: 0,25 euros.
+Tamaño DIN A3: 0,45 euros.
+Tamaño DIN A2: 3,00 euros.
+Tamaño DIN A1: 6,00 euros.
+Tamaño DIN A0: 10,00 euros.
+En las impresiones a partir de 51 imágenes se aplica, por cada impresión, la siguiente tarifa:
+Tamaño DIN A4: 0,20 euros.
+Tamaño DIN A3: 0,40 euros.
+Tamaño DIN A2: 1,50 euros.
+Tamaño DIN A1: 3,00 euros.
+Tamaño DIN A0: 5,00 euros.
+2.3. Impresiones para los usuarios (autoservicio) de imágenes ya digitalizadas.
+Tamaño DIN A4: 0,20 euros.
+3. Digitalización en blanco y negro o en color enviada por Internet o grabación (incluye el soporte).
+1 imagen: 5,00 euros.
+En las reproducciones de más de una imagen de documentos textuales se aplican las siguientes tarifas:
+De 2 a 50 imágenes, por cada imagen: 1,50 euros.
+De 51 en adelante, por cada imagen: 1,00 euros.
+En las reproducciones de más de una imagen de documentos no textuales se aplican las siguientes tarifas:
+De 2 a 50 imágenes, por cada imagen: 3,50 euros.
+De 51 en adelante, por cada imagen: 2,00 euros.
+4. Reproducciones de vídeo VHS enviadas por Internet o grabación (incluye el soporte).
+Por un minuto seleccionado: 1,75 euros.
+Duplicación de cinta, por cada 30 minutos: 11,10 euros.
+5. Reproducciones de grabaciones sonoras enviadas por Internet o grabación (incluye el soporte).
+Por un minuto seleccionado sobre cinta analógica: 0,80 euros.
+Por un minuto seleccionado sobre disco compacto grabable (CD-R): 0,95 euros.
+Duplicación de cinta analógica o de disco compacto grabable (CD-R), por cada 30 minutos: 6,70 euros.
+6. Tarifas para usos comerciales de las reproducciones.
+En caso de que el usuario o usuaria destine las reproducciones de documentos a uso comercial, debe pagar al archivo correspondiente, además de las tarifas de reproducción, las establecidas por este apartado, si es titular de los derechos de explotación. Si el contrato de cesión de derechos de explotación al archivo correspondiente establece alguna remuneración para el autor o autora del documento, el usuario o usuaria debe satisfacer esta remuneración directamente al autor o autora.
+6.1. Fotografía.
+6.1.1. Uso editorial.
+Entidades sin finalidad de lucro: 35,50 euros.
+Entidades con finalidad de lucro: 71,00 euros.
+6.1.2. Uso en comunicación pública.
+Entidades sin finalidad de lucro: 71,00 euros.
+Entidades con finalidad de lucro: 106,70 euros.
+6.1.3. Uso publicitario.
+Entidades sin finalidad de lucro: 71,00 euros.
+Entidades con finalidad de lucro: 141,90 euros.
+6.2. Imagen móvil.
+6.2.1. Uso editorial y en comunicación pública.
+Entidades sin finalidad de lucro: 34,85 euros/minuto.
+Entidades con finalidad de lucro: 71,00 euros/minuto.
+6.2.2. Uso publicitario.
+Entidades sin finalidad de lucro: 71,00 euros/minuto.
+Entidades con finalidad de lucro: 141,90 euros/minuto.
+6.3. Sonido.
+6.3.1. Uso editorial y en comunicación pública.
+Entidades sin finalidad de lucro: 14,25 euros/minuto.
+Entidades con finalidad de lucro: 35,50 euros/minuto.
+6.3.2. Uso publicitario.
+Entidades sin finalidad de lucro: 14,25 euros/minuto.
+Entidades con finalidad de lucro: 71,00 euros/minuto.
+7. Gastos por envío de material:
+A petición del usuario o usuaria se envían las reproducciones por correo con acuse de recibo. En este supuesto, el usuario o usuaria debe abonar los gastos de envío de acuerdo con las tarifas postales vigentes.»
+
+## Subsección tercera
+
+Subsección tercera. Tasa por la expedición de títulos académicos y profesionales
+
+### Artículo 5
+
+Artículo 5. Modificación del título IX del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+1. Se modifica el apartado 3.4 del artículo 9.1-5 del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«3.4. Enseñanza de idiomas:
+3.4.1. Certificado avanzado de idiomas: 57,25 euros.
+3.4.2. Enseñanza de idiomas, certificado de los cursos de actualización y especialización referidos a los niveles C1 y C2 del Consejo de Europa: 57,25 euros.»
+2. Se añade un nuevo apartado, el 3.6, al artículo 9.1-5 del texto refundido aprobado por el Decreto legislativo 3/2008, con el siguiente texto:
+«3.6. Título de graduado o graduada, máster en enseñanzas artísticas: 150,00 euros.»
+
+## Subsección cuarta
+
+Subsección cuarta. Tasa por la prestación de los servicios docentes de las escuelas oficiales de idiomas
+
+### Artículo 6
+
+Artículo 6. Modificación del título IX del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+1. Se modifica la rúbrica del capítulo II del título IX del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactada del siguiente modo:
+«Tasa por la prestación de los servicios docentes de las escuelas oficiales de idiomas y por la inscripción en las pruebas libres para la obtención de los certificados oficiales».
+2. Se modifica el artículo 9.2-1 del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«Artículo 9.2-1. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de los servicios docentes de las escuelas oficiales de idiomas en el caso de las matrículas oficiales o la inscripción en las pruebas libres para la obtención de alguno de los certificados oficiales.»
+3. Se modifica el artículo 9.2-2 del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«Artículo 9.2-2. Sujeto pasivo.
+Es sujeto pasivo de la tasa el beneficiario o beneficiaria de la prestación de los servicios docentes de las escuelas oficiales de idiomas o los inscritos en las pruebas libres para la obtención de alguno de los certificados oficiales a la que se refiere el artículo 9.2-1.»
+4. Se modifica el apartado 2 del artículo 9.2-3 del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«2. Disfrutan de exención en el pago de la tasa a la que se refiere el artículo 9.2-5, apartado 1, los alumnos que tienen la condición de becarios con cargo a los presupuestos de las administraciones públicas. Al efecto de formalización de la matrícula oficial, los solicitantes de beca pueden realizar la solicitud con carácter condicional, sin pago previo de la cuota. Sin embargo, los alumnos que no acrediten oportunamente la obtención de este beneficio están obligados al pago inmediato de la tasa, sin necesidad de un requerimiento previo de la Administración, a condición de que la falta de pago determina necesariamente la anulación condicional y la subsiguiente invalidación del curso académico, en los términos que se establezcan por reglamento.»
+5. Se modifica el artículo 9.2-4 del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«Artículo 9.2-4. Acreditación.
+La tasa se acredita mediante la realización del hecho imponible, pero puede ser exigida en el momento de solicitar el servicio o la inscripción.»
+
+## Subsección quinta
+
+Subsección quinta. Tasa por la homologación y convalidación de títulos y estudios extranjeros en enseñanzas no universitarias
+
+### Artículo 7
+
+Artículo 7. Modificación del título IX del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se modifica el artículo 9.7-5 del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«Artículo 9.7-5. Cuota.
+1. Las cuotas de la tasa son las siguientes:
+1.1 Solicitud de homologación a un título o certificado español: la cuota es la misma que para la expedición del correspondiente título o certificado, la cual se detalla en el artículo 9.1-5.
+1.2 Solicitud de convalidación por cursos o módulos de enseñanzas de nivel no universitario: 25,55 euros.
+2. No se acredita la tasa por la solicitud de homologación al título de graduado o graduada en educación secundaria.»
+
+## Subsección sexta
+
+Subsección sexta. Tasa por la matriculación en enseñanzas de idiomas en la modalidad a distancia
+
+### Artículo 8
+
+Artículo 8. Modificación del título IX del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se añade un nuevo capítulo, el VIII, al título IX del texto refundido aprobado por el Decreto legislativo 3/2008, y se modifica la numeración del capítulo VIII de este título, que pasa a ser el capítulo X:
+«CAPÍTULO VIII
+Tasa por la matriculación en enseñanzas de idiomas en la modalidad a distancia
+Artículo 9.8-1. Hecho imponible.
+Constituye el hecho imponible de la tasa la matriculación en enseñanzas de idiomas en la modalidad a distancia en los niveles intermedio y avanzado.
+Artículo 9.8-2. Sujeto pasivo.
+Es sujeto pasivo de la tasa quien solicita la matriculación en las enseñanzas a las que se refiere el artículo 9.8-1.
+Artículo 9.8-3. Exenciones y bonificaciones.
+1. A los alumnos miembros de familias numerosas y de familias monoparentales les son aplicables las exenciones y las bonificaciones establecidas por la legislación vigente relativa a la protección de estas familias.
+2. Disfrutan de exención en el pago de la tasa de la matrícula establecida por el apartado 1 del artículo 9.8-5 los alumnos que tienen la condición de becarios con cargo a los presupuestos del Estado. Para formalizar la matrícula, los solicitantes de beca pueden hacer la solicitud con carácter condicional, sin pago previo de la cuota. Los alumnos que no acrediten oportunamente la obtención de este beneficio están obligados al pago inmediato de la tasa, sin necesidad del requerimiento previo de la Administración, con la condición de que la falta de pago determina necesariamente la anulación de la matrícula condicional y la subsiguiente invalidación del curso académico, en los términos que se establezcan por reglamento.
+3. Están exentos de pagar la tasa exigida, previa justificación documental de su situación, las personas sujetas a medidas privativas de libertad.
+Artículo 9.8-4. Acreditación.
+La tasa se acredita mediante la realización del hecho imponible, pero puede ser exigida en el momento de solicitar el servicio.
+Artículo 9.8-5. Cuota.
+El importe de la cuota es:
+1. Matrícula: 95,00 euros por cada módulo.
+CAPÍTULO X
+Disposición aplicable con carácter general a todas las tasas del título IX
+Artículo 9.10-1. Exención.
+Previa justificación documental de su situación, disfrutan de exención en el pago de las tasas contenidas en el título IX de la presente ley las personas que acrediten una discapacidad igual o superior al 33 %.»
+
+## Subsección séptima
+
+Subsección séptima. Tasa por la prestación de los servicios docentes de la Escuela Superior de Conservación y Restauración de Bienes Culturales de Cataluña en las enseñanzas de grado y de máster adaptadas al Espacio Europeo de la Educación Superior
+
+### Artículo 9
+
+Artículo 9. Modificación del título IX del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se añade un nuevo capítulo, el IX, al título IX del texto refundido aprobado por el Decreto legislativo 3/2008, con el siguiente texto:
+«CAPÍTULO IX
+Tasa por la prestación de los servicios docentes de la Escuela Superior de Conservación y Restauración de Bienes Culturales de Cataluña en las enseñanzas de grado y de máster adaptadas al Espacio Europeo de la Educación Superior
+Artículo 9.9-1. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de los servicios docentes de la Escuela Superior de Conservación y Restauración de Bienes Culturales de Cataluña en las enseñanzas de grado y de máster adaptadas al Espacio Europeo de la Educación Superior.
+Artículo 9.9-2. Sujeto pasivo.
+Es sujeto pasivo de la tasa quién solicita la prestación de los servicios docentes a los que se refiere este capítulo.
+Artículo 9.9-3. Exenciones y bonificaciones.
+1. A los alumnos miembros de familias numerosas se les aplican las exenciones y bonificaciones establecidas por la legislación vigente en relación con la protección de estas familias.
+2. Los alumnos miembros de familias monoparentales tienen una bonificación del 50 % en la cuota de las tasas establecidas por el presente capítulo.
+3. Las víctimas de actos terroristas, sus cónyuges y sus hijos están exentos de las tasas establecidas por el presente capítulo.
+4. Los alumnos con matrícula de honor en la evaluación global de bachillerato y los que hayan obtenido el premio extraordinario de bachillerato están exentos, previa justificación documental, del pago de la tasa de matrícula a la que se refiere el apartado 1.1 del artículo 9.3-5 en el primer curso de estudios superiores en centros educativos que dependan del Departamento de Enseñanza.
+5. Los alumnos con matrícula de honor en los ciclos formativos de grado superior de la formación profesional inicial, de las enseñanzas de artes plásticas y de las enseñanzas deportivas tienen derecho a la exención total de las tasas de todos los créditos de los que se matriculen durante el primer curso del primer año de sus estudios artísticos superiores en centros educativos dependientes del Departamento de Enseñanza.
+Artículo 9.9-4. Acreditación.
+1. La tasa se acredita mediante la realización del hecho imponible, pero puede ser exigida en el momento de solicitar el servicio.
+2. La tasa por matrícula, si se realiza por curso completo, puede fraccionarse, a solicitud del alumno, en dos pagos de igual importe.
+3. El impago de la matrícula o de alguno de sus fraccionamientos en los plazos que establezca el centro educativo puede dar lugar a la suspensión temporal de los derechos del alumno y, en su caso, a la anulación de la matrícula y de los efectos que esta haya producido, sin derecho a reintegro alguno.
+Artículo 9.9-5. Cuota.
+El importe de la cuota corresponde a los siguientes conceptos:
+1. Primera matrícula.
+1.1. Por crédito en el grado: 14,95 euros.
+1.2. Por crédito en el máster: 26,50 euros.
+2. Segunda matrícula en el mismo crédito.
+2.1. Por crédito en el grado: 14,95 euros, multiplicado por el coeficiente 1,5.
+2.2. Por crédito en el máster: 26,50 euros, multiplicado por el coeficiente 1,5.
+3. Tercera matrícula y matrículas sucesivas en el mismo crédito.
+3.1. Por crédito en el grado: 14,95 euros, multiplicado por el coeficiente 1,8.
+3.2. Por crédito en el máster: 26,50 euros, multiplicado por el coeficiente 1,8.
+4. Convalidación, reconocimiento y validación de créditos.
+4.1. Los estudiantes que han obtenido la convalidación, el reconocimiento o la validación de créditos por razón de estudios o actividades hechos en cualquier centro educativo deben abonar al centro educativo el 25% del importe establecido por los apartados 1.1 y 1.2.
+4.2. No están sujetos a tasa la convalidación o el reconocimiento de créditos de enseñanzas que se extinguen respecto del nuevo plan de estudios que sustituye la enseñanza extinguida.
+4.3. Los estudiantes que se matriculan de créditos sin docencia por razón de la extinción del plan de estudios deben abonar el importe íntegro de la tasa siempre y cuando el centro educativo ofrezca un sistema de tutorías o de docencia alternativa. Si el centro educativo no ofrece tutorías o docencia alternativa deben abonar al centro educativo el 25% de la tasa.
+5. Segundas y sucesivas enseñanzas artísticas superiores.
+5.1. Se aplica un coeficiente de 1,4 a las tasas por crédito que se establecen en el presente capítulo a los estudiantes que posean uno o más títulos correspondientes a enseñanzas artísticas superiores, o títulos declarados académicamente equivalentes, para el inicio de otro estudio que conduzca a la obtención de un título correspondiente a enseñanzas artísticas superiores en centros educativos dependientes del Departamento de Enseñanza.
+5.2. Se exime del recargo establecido por el apartado 5.1 a los estudiantes que hayan superado los estudios de un único primer ciclo y quieran proseguir los estudios en un segundo ciclo.
+6. Prueba de acceso: 55,25 euros.
+7. Secretaría.
+7.1. Expediente académico, certificación académica o traslado de expediente académico: 20,00 euros.
+7.2. Suplemento europeo al título: 30,00 euros.
+7.3. Modificaciones y ampliaciones parciales: 25,00 euros.
+7.4. Estudio de expediente académico para la convalidación, adaptación, transferencia, reconocimiento o validación de planes de estudios: 50,00 euros.
+7.5. Estudio de equivalencia de título de estudios extranjeros para el acceso a los estudios de máster, o solicitud de estudio de la trayectoria académica de los titulados según sistemas educativos extranjeros para el acceso a estudios de máster sin título homologado: 200 euros.»
+
+## Subsección octava
+
+Subsección octava. Tasa por la expedición de licencias de caza, matrículas de áreas de caza y precintos de artes para la caza
+
+### Artículo 10
+
+Artículo 10. Modificación del título XII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se modifica el apartado 1 del artículo 12.1-5 del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«1. Licencias de caza.
+1.1. Para cazar con armas (de fuego y asimilables) durante quince días seguidos en todo el territorio de Cataluña: 10,00 euros.
+1.2. Para cazar con armas (de fuego y asimilables) durante un año en todo el territorio de Cataluña: 21,50 euros.
+1.3. Para cazar por cualquier procedimiento autorizado excepto armas (de fuego y asimilables) durante un año en todo el territorio de Cataluña: 10,75 euros.
+1.4. Para tener jaurías: 40,00 euros.»
+
+## Subsección novena
+
+Subsección novena. Tasa por la ocupación de terrenos forestales propiedad de la Generalidad adscritos al Departamento de Agricultura, Ganadería, Pesca, Alimentación y Medio Natural
+
+### Artículo 11
+
+Artículo 11. Modificación del título XII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Subsección décima
+
+Subsección décima. Tasa por la ocupación de caminos ganaderos clasificados
+
+### Artículo 12
+
+Artículo 12. Modificación del Título XII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Subsección undécima
+
+Subsección undécima. Tasa por la emisión de las declaraciones de impacto ambiental y las resoluciones que determinan la no necesidad de someter un proyecto al procedimiento de evaluación de impacto ambiental
+
+### Artículo 13
+
+Artículo 13. Modificación del Título XII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Subsección duodécima
+
+Subsección duodécima. Tasa por informes e inspección
+
+### Artículo 14
+
+Artículo 14. Modificación del título XII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Subsección decimotercera
+
+Subsección decimotercera. Tasa por la obtención de la etiqueta ecológica de la Unión Europea
+
+### Artículo 15
+
+Artículo 15. Modificación del título XII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+1. Se modifica la rúbrica del capítulo XII del título XII del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactada del siguiente modo:
+«CAPÍTULO XII
+Tasa por la obtención de la etiqueta ecológica de la Unión Europea»
+2. Se modifica el artículo 12.12-1 del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«Artículo 12.12-1. Hecho imponible.
+Constituye el hecho imponible de la tasa la obtención de la etiqueta ecológica de la Unión Europea.»
+3. Se modifica el artículo 12.12-3 del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«Artículo 12.12-3. Acreditación.
+La tasa se acredita en el momento de la obtención, pero puede ser exigida la justificación del ingreso de la tasa en el momento de la presentación de la solicitud.»
+Se deroga el apartado 4 por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Subsección decimocuarta
+
+Subsección decimocuarta. Tasa por los servicios de autorización ambiental de actividades
+
+### Artículo 16
+
+Artículo 16. Modificación del título XII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Subsección decimoquinta
+
+Subsección decimoquinta. Tasa por la expedición de la cédula de habitabilidad
+
+### Artículo 17
+
+Artículo 17. Modificación del título XIII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Subsección decimosexta
+
+Subsección decimosexta. Tasa para la inspección técnica de edificios de viviendas
+
+### Artículo 18
+
+Artículo 18. Modificación del título XIII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se añade un nuevo capítulo, el III, al título XIII del texto refundido aprobado por el Decreto legislativo 3/2008, con el siguiente texto:
+«CAPÍTULO III
+Tasa para la inspección técnica de edificios de viviendas
+Artículo 13.3-1. Hecho imponible.
+Constituye el hecho imponible la inspección técnica del edificio para el uso de vivienda, que se hace antes de expedir el certificado de aptitud.
+Artículo 13.3-2. Sujeto pasivo.
+Es sujeto pasivo de la tasa la persona física o jurídica que solicita la inspección técnica de edificios de viviendas a la Administración de la Generalidad.
+Artículo 13.3-3. Acreditación.
+La tasa se acredita en el momento de la solicitud de la inspección técnica.
+Artículo 13.3-5. Cuota.
+El importe de la cuota se establece en función del número de viviendas del edificio:
+Edificio de 2 a 8 entidades:
+2 entidades: 300 euros.
+3 entidades: 350 euros.
+4 entidades: 400 euros.
+5 entidades: 425 euros.
+6 entidades: 450 euros.
+7 entidades: 475 euros.
+8 entidades: 500 euros.
+Edificio de 9 a 20 entidades:
+9 entidades: 525 euros.
+10 entidades: 550 euros.
+11 entidades: 575 euros.
+12 entidades: 600 euros.
+13 entidades: 625 euros.
+14 entidades: 650 euros.
+15 entidades: 675 euros.
+16 entidades: 700 euros.
+17 entidades: 725 euros.
+18 entidades: 750 euros.
+19 entidades: 775 euros.
+20 entidades: 800 euros.
+En edificios de más de 20 entidades, debe aplicarse la siguiente fórmula polinómica:
+n > 20 ent. H = 800 + [(n-20) × 15]
+Al efecto de lo establecido por este artículo se entiende por entidad:
+a) Una vivienda.
+b) 150 metros cuadrados de local o fracción.
+c) 150 metros cuadrados de aparcamiento o fracción.»
+
+## Subsección decimoséptima
+
+Subsección decimoséptima. Tasa por la prestación de servicios en materia de juego y apuestas
+
+### Artículo 19
+
+Artículo 19. Modificación del título XV del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se modifica el capítulo I del título XV del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«CAPÍTULO I
+Tasa por la prestación de servicios en materia de juego y apuestas
+Artículo 15.1-1. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación, por el departamento competente en materia de juego y apuestas, de las actuaciones y servicios administrativos que se consignan en el artículo 15.1-4.
+Artículo 15.1-2. Sujeto pasivo.
+1. Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas en cuyo interés se realizan las actuaciones administrativas o se prestan los servicios administrativos que constituyen el hecho imponible.
+2. Son sujetos pasivos sustitutos del contribuyente las personas físicas o jurídicas que solicitan las actuaciones o los servicios administrativos cuando estos deben prestarse en favor de otras personas distintas de las que hacen la solicitud.
+Artículo 15.1-3. Acreditación.
+La tasa se acredita en el momento de la iniciación de la actuación administrativa o la prestación del servicio que constituye el hecho imponible, pero puede ser exigida en el momento en el que se hace la solicitud de estos servicios.
+Artículo 15.1-4. Cuota.
+El importe de la cuota corresponde a los siguientes conceptos:
+1. Emisión de documentos de homologación de material de juego o inscripción en el Registro de modelos: 188,80 euros.
+2. Inscripción, autorización y renovación de empresas:
+2.1. Inscripción en los registros y autorización de empresas de juego: 235,70 euros.
+2.2. Modificaciones de las condiciones de inscripción y autorización de empresas de juego: 46,95 euros.
+3. Emisión de documentos profesionales: 27,95 euros.
+4. Autorización, renovación o régimen de comunicación de locales y establecimientos:
+4.1. De casinos de juego: 4.719,15 euros.
+4.2. De salas de bingo: 943,60 euros.
+4.3. De salones de juego (máquinas B): 471,75 euros.
+4.4. De salones recreativos (máquinas A): 235,70 euros.
+4.5. De otros locales de juego: 46,95 euros.
+4.6. Modificación de autorizaciones de constitución y funcionamiento de locales y establecimientos de juegos: 46,95 euros.
+5. Expedición y duplicados de permisos de explotación: 94,05 euros.
+6. Diligencias relativas a la tramitación de la instalación o el emplazamiento y a los permisos por la explotación de las máquinas recreativas y de azar, y diligencias relativas a los libros: 46,95 euros.
+7. Examen de expediente de autorizaciones o de comunicaciones de rifas, tómbolas, combinaciones aleatorias y apuestas: 46,95 euros.
+8. Expedición de duplicados: 50% de la cuota.
+9. Expedición de permiso de explotación por sustitución con emplazamiento: 187,75 euros.
+10. Expedición de permiso de explotación con emplazamiento: 140,90 euros.
+11. Obtención de la habilitación como entidad de inspección o como laboratorio de ensayos: 943,55 euros.
+En función del tipo de habilitación solicitada deben pagarse, además, las siguientes tasas:
+11.1. Por ensayos previos de homologación de máquinas recreativas de los tipos B, C y, potestativamente, del tipo A: 280,90 euros.
+11.2. Para la autorización de otros elementos y material de juego y apuestas o por inspecciones técnicas para la renovación de permisos de explotación de máquinas recreativas y de azar: 192,90 euros.
+11.3. Por la comprobación del funcionamiento correcto de los aparatos y materiales de juego y apuestas: 251,20 euros.
+11.4. Por la inspección y el control técnico de las instalaciones, de acuerdo con lo establecido por el artículo 20.3 de la Ley 1/1991, de 27 de febrero, reguladora del régimen sancionador en materia de juego: 280,90 euros.
+12. Por la autorización, modificación y cancelación de interconexiones de máquinas recreativas con premio y de azar: 94,90 euros.»
+
+## Subsección decimoctava
+
+Subsección decimoctava. Tasa por la prestación de servicios en materia de espectáculos públicos y actividades recreativas
+
+### Artículo 20
+
+Artículo 20. Modificación del título XV del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se añade un nuevo capítulo, el II, al título XV del texto refundido aprobado por el Decreto legislativo 3/2008, con el siguiente texto:
+«CAPÍTULO II
+Tasa por la prestación de servicios en materia de espectáculos públicos y actividades recreativas
+Artículo 15.2-1. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación, por el departamento competente en materia de espectáculos públicos y actividades recreativas, de las actuaciones y servicios administrativos que se consignan en el artículo 15.2-4.
+Artículo 15.2-2. Sujeto pasivo.
+1. Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas en cuyo interés se hacen las actuaciones administrativas o se prestan los servicios administrativos que constituyen el hecho imponible.
+2. Son sujetos pasivos sustitutos del contribuyente las personas físicas o jurídicas que solicitan las actuaciones o los servicios administrativos cuando estos deben prestarse en favor de personas distintas de quien hace la solicitud.
+Artículo 15.2-3. Acreditación.
+La tasa se acredita en el momento de la iniciación de la actuación administrativa o de la prestación del servicio que constituye el hecho imponible, pero puede ser exigida en el momento en el que se hace la solicitud de estos servicios.
+Artículo 15.2-4. Cuota.
+El importe de la cuota corresponde a los siguientes conceptos:
+1. Autorizaciones para espectáculos públicos o actividades recreativas de carácter extraordinario:
+a) Hasta 150 personas de aforo: 145,57 euros.
+b) De 151 hasta 500 personas de aforo: 237,55 euros.
+c) De 501 hasta 1.000 personas de aforo: 373,67 euros.
+d) De 1.001 hasta 2.000 personas de aforo: 534,81 euros.
+e) A partir de 2.001 personas de aforo: 749,30 euros.
+2. Autorización de establecimientos de régimen especial: 828,90 euros.
+3. Expedición y renovación del carnet y distintivo profesional del personal de control de acceso: 32,35 euros.
+4. Expedición de duplicados: 50% de la cuota.
+5. Pruebas para obtener la acreditación de controlador o controladora de acceso: 22,50 euros.
+6. Autorización de espectáculos de correbous: 46,45 euros.»
+
+## Subsección decimonovena
+
+Subsección decimonovena. Tasa por el servicio de guarda de vehículos del Patronato de la Montaña de Montserrat
+
+### Artículo 21
+
+Artículo 21. Modificación del título XVI del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Subsección vigésima
+
+Subsección vigésima. Tasa por el permiso de pesca
+
+### Artículo 22
+
+Artículo 22. Modificación del título XVII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Subsección vigésima primera
+
+Subsección vigésima primera. Tasa por la licencia de pesca recreativa y profesional
+
+### Artículo 23
+
+Artículo 23. Modificación del título XVII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se modifican los artículos 17.3-1, 17.3-2, 17.3-3, 17.3-4 y 17.3-5 del texto refundido aprobado por el Decreto legislativo 3/2008, que quedan redactados del siguiente modo:
+«Artículo 17.3-1. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de los servicios inherentes a la expedición de las licencias que, de acuerdo con la legislación vigente, son necesarias para practicar la pesca recreativa o profesional.
+Artículo 17.3-2. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas en interés de las cuales se expiden las licencias para la pesca recreativa o profesional.
+Artículo 17.3-3. Exenciones.
+Están exentos de pagar la tasa exigida por el concepto de expedición de la licencia para ejercer la pesca recreativa los sujetos pasivos que acrediten documentalmente la situación de incapacidad permanente total o absoluta, o ambas, y las personas menores de catorce años y las mayores de 65 años.
+Artículo 17.3-4. Acreditación.
+La tasa se acredita y se hace efectiva en el momento en el que se solicitan las licencias.
+Artículo 17.3-5. Cuota.
+La cuota de la tasa es:
+1. Licencias de pesca recreativa.
+Las duraciones de las licencias y los importes de las respectivas cuotas son:
+1.1. Pesca recreativa de superficie:
+Duración, 15 días: 5,00 euros.
+Duración, 1 año: 14,75 euros.
+Duración, 2 años: 25,70 euros.
+Duración, 3 años: 36,70 euros.
+Duración, 4 años: 44,05 euros.
+1.2. Pesca recreativa submarina:
+Duración, 1 año: 14,75 euros.
+1.3. Pesca recreativa colectiva:
+Duración, 1 año, hasta 10 personas: 91,65 euros.
+Duración, 1 año, más de 10 personas: 183,20 euros.
+Duración, 2 años, hasta 10 personas: 183,20 euros.
+Duración, 2 años, más de 10 personas: 366,25 euros.
+Duración, 3 años, hasta 10 personas: 274,70 euros.
+Duración, 3 años, más de 10 personas: 549,30 euros.
+Duración, 4 años, hasta 10 personas: 366,25 euros.
+Duración, 4 años, más de 10 personas: 732,35 euros.
+2. Licencia de pesca profesional:
+2.1. Coral, marisqueo: 22,10 euros.
+2.2. Angula: 36,75 euros.
+2.3. Gusanos de mar, esparavel: 7,40 euros.»
+
+## Subsección vigésima segunda
+
+Subsección vigésima segunda. Tasa por la prestación de servicios y la realización de actividades por el Departamento de Interior en materia de seguridad privada
+
+### Artículo 24
+
+Artículo 24. Modificación del título XXII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Subsección vigésima tercera
+
+Subsección vigésima tercera. Tasa por la habilitación acreditativa de los bomberos de empresa y del personal técnico competente para elaborar planes de autoprotección, así como de los centros de formación
+
+### Artículo 25
+
+Artículo 25. Modificación del título XXII del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se modifica el capítulo III del título XXII del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«CAPÍTULO III
+Tasa por la habilitación acreditativa de los bomberos de empresa y del personal técnico competente para elaborar planes de autoprotección, así como de los centros de formación
+Artículo 22.3-1. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de las siguientes actividades administrativas:
+a) Habilitación acreditativa para ejercer la función de bomberos de empresa.
+b) Acreditación de personal técnico competente para elaborar planes de autoprotección en el ámbito de protección civil.
+c) Acreditación de centros de formación de técnicos en la elaboración de planes de autoprotección en el ámbito de protección civil.
+d) Homologación de centros para formar bomberos de empresa.
+Artículo 22.3-2. Sujetos pasivos.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que solicitan la prestación de las actividades administrativas del Instituto de Seguridad Pública de Cataluña que constituyen el hecho imponible.
+Artículo 22.3-3. Acreditación.
+La tasa se acredita y se hace efectiva en el momento de la solicitud que motiva el servicio que constituye el hecho imponible.
+Artículo 22.3-4. Cuota.
+El importe de la cuota corresponde a los siguientes conceptos:
+a) Habilitación acreditativa para ejercer la función de bombero de empresa: 43,45 euros.
+b) Acreditación de personal técnico competente para elaborar planes de autoprotección en el ámbito de protección civil: 43,45 euros.
+c) Acreditación de centros de formación de técnicos en la elaboración de planes de autoprotección en el ámbito de protección civil: 333,10 euros.
+d) Homologación de centros para formar bomberos de empresa: 333,10 euros.»
+
+## Subsección vigésima cuarta
+
+Subsección vigésima cuarta. Tasa por la acreditación de competencias en tecnologías de la información y la comunicación
+
+### Artículo 26
+
+Artículo 26. Modificación del título XXIV del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+1. Se modifica la rúbrica del capítulo IV del título XXIV del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactada del siguiente modo:
+«CAPÍTULO IV
+Tasa por la acreditación de competencias en tecnologías de la información y la comunicación (ACTIC)
+2. Se modifica el artículo 24.4-3 del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactado del siguiente modo:
+«Artículo 24.4-3. Exenciones y bonificaciones.
+1. Los sujetos pasivos en situación de desempleo, las personas jubiladas, las que acrediten una discapacidad igual o superior al 33% y las personas internas de los centros penitenciarios que cumplen condena en régimen ordinario están exentos de esta tasa, previa justificación documental de encontrarse en alguna de las situaciones mencionadas.
+2. Se aplica una bonificación del 30 % sobre la tasa a los sujetos pasivos miembros de familias numerosas de categoría general o monoparentales de categoría general.
+3. Se aplica una bonificación del 50 % sobre la tasa a los sujetos pasivos miembros de familias numerosas de categoría especial o monoparentales de categoría especial.»
+
+## Subsección vigésima quinta
+
+Subsección vigésima quinta. Tasa por la prestación de servicios y la realización de actividades relativas en la zona de servidumbre de protección
+
+### Artículo 27
+
+Artículo 27. Modificación del título XXV del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Subsección vigésima sexta
+
+Subsección vigésima sexta. Tasa por la ejecución de obras, edificaciones e instalaciones en el dominio público portuario
+
+### Artículo 28
+
+Artículo 28. Modificación del título XXV del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se añade un nuevo artículo, el 25.11-5, al texto refundido aprobado por el Decreto legislativo 3/2008, con el siguiente texto:
+«25.11-5. Exenciones.
+Está exenta de la tasa la tramitación de expedientes relativos a autorizaciones de obras de mantenimiento, reparación y rehabilitación de una concesión administrativa.»
+
+## Subsección vigésima séptima
+
+Subsección vigésima séptima. Tasa por la tramitación de concesiones en el dominio público portuario
+
+### Artículo 29
+
+Artículo 29. Modificación del título XXV del Texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se modifica la rúbrica del capítulo XIII, del título XXV del texto refundido aprobado por el Decreto legislativo 3/2008, que queda redactada del siguiente modo:
+«CAPÍTULO XIII
+Tasa por la tramitación de concesiones en el dominio público portuario»
+
+## Subsección vigésima octava
+
+Subsección vigésima octava. Tasa por la tramitación de concesiones de ocupación, o de sus modificaciones, en el dominio público marítimo-terrestre
+
+### Artículo 30
+
+Artículo 30. Modificación del título XXV del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Subsección vigésima novena
+
+Subsección vigésima novena. Tasa por la tramitación de autorizaciones de ocupación del dominio público marítimo-terrestre o autorizaciones dentro del ámbito de concesiones en el dominio público marítimo-terrestre
+
+### Artículo 31
+
+Artículo 31. Modificación del título XXV del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Subsección trigésima
+
+Subsección trigésima. Tasa por la ocupación privativa del dominio público portuario adscrito a servicios portuarios de la Generalidad de Cataluña
+
+### Artículo 32
+
+Artículo 32. Modificación del título XXV del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se añade un nuevo capítulo, el XXI, al título XXV del texto refundido aprobado por el Decreto legislativo 3/2008, con el siguiente texto:
+«CAPÍTULO XXI
+Tasa por la ocupación privativa del dominio público portuario adscrito a servicios portuarios de la Generalidad de Cataluña
+Artículo 25.21-1. Hecho imponible.
+El hecho imponible de esta tasa consiste en la ocupación de cualquier bien de dominio público portuario en virtud de una autorización o de una concesión otorgada por la dirección general competente en materia de puertos.
+Artículo 25.21-2. Sujeto pasivo.
+Tienen la condición de sujetos pasivos de esta tasa las personas físicas o jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley del Estado 58/2003, de 17 de diciembre, general tributaria, que lleven a cabo la ocupación del dominio público portuario en virtud de una autorización o de una concesión otorgada por la dirección general competente en materia de puertos.
+Artículo 25.21-3. Exenciones.
+Están exentos de esta tasa:
+a) La Cruz Roja del Mar respecto a las actividades propias que tiene encomendadas esta institución en materia de salvamento marítimo.
+b) Las entidades sin finalidades lucrativas legalmente constituidas, cuya actividad esté exclusivamente vinculada a la atención de tripulantes y pasajeros.
+c) La Administración general del Estado y las comunidades autónomas que llevan a cabo actividades de vigilancia, de represión de contrabando, de salvamento y de lucha contra la contaminación marina y las relacionadas con la defensa nacional.
+Artículo 25.21-4. Acreditación y exigibilidad.
+1. El período impositivo de esta tasa coincide con el año natural. Sin embargo, el período impositivo debe ser inferior al año en los siguientes casos:
+a) Si la ocupación del dominio público portuario tiene un plazo de duración inferior al año.
+b) Si el primer año de ocupación del dominio público portuario no tiene como día inicial el 1 de enero.
+c) En caso de cese en la ocupación del dominio público portuario en un momento anterior al 31 de diciembre del año en curso.
+En el caso al que se refiere la letra a, el período impositivo coincide con el determinado en el título habilitante correspondiente. En los casos a los que se refieren las letras b y c, el período impositivo debe comprender el período de tiempo durante el que se ocupe el dominio público portuario en el año de referencia.
+2. Esta tasa se merita en el momento en que se inicia la ocupación de los bienes de dominio público portuario. Este momento, a tal efecto, se entiende que coincide con la fecha de formalización del título habilitante correspondiente. Sin embargo, si la ocupación del dominio público portuario ha sido autorizada durante más de un año, la meritación del segundo ejercicio y de los ejercicios siguientes debe tener lugar el 1 de enero de cada año.
+3. Si la ocupación del dominio público portuario empieza una vez iniciado el año natural, hay que liquidar la cuota proporcional correspondiente al número de meses que quedan para finalizar el período impositivo, incluido el de la fecha de ocupación. Asimismo, si el plazo de vigencia del título habilitante es inferior a un año hay que liquidar la cuota proporcional correspondiente al número de meses autorizados.
+4. En caso de cese en la ocupación antes de la finalización del período impositivo, la cuota debe prorratearse por meses naturales, excluido el mes en el que se produzca esta circunstancia. A tal efecto, debe considerarse como fecha de cese la fecha de la resolución que decreta la extinción del título que habilita para la ocupación del dominio público portuario y los obligados tributarios pueden solicitar la devolución de la parte de la cuota correspondiente a los meses naturales que quedan hasta el 31 de diciembre. Esta misma regla debe aplicarse en caso de extinción anticipada de los títulos habilitantes cuya duración sea inferior a un año.
+5. La cuota íntegra de la tasa debe determinarse de acuerdo con los elementos de cuantificación vigentes en el momento de su meritación. Cuando la ocupación del dominio público portuario haya sido autorizada durante más de un año, la cuota íntegra de la tasa en el segundo ejercicio y en los ejercicios siguientes debe determinarse de acuerdo con los elementos de cuantificación vigentes el 1 de enero de cada año.
+6. El pago de la deuda tributaria debe efectuarse por adelantado. Si la duración del título habilitante de la ocupación del dominio público portuario excede de un año, la deuda debe satisfacerse con periodicidad semestral.
+Artículo 25.21-5. Base imponible y tipo de gravamen.
+1. La base imponible de la tasa está constituida por el valor de mercado de los bienes de dominio público portuario ocupados y debe tenerse en cuenta la modalidad del bien de dominio público afectado. Mientras el Departamento de Territorio y Sostenibilidad no apruebe la valoración de mercado de los bienes de dominio público portuario tutelado por la dirección general competente en materia de puertos, debe utilizarse como valor de referencia la media del valor de mercado de los bienes de dominio público adscritos a Puertos de la Generalidad, en los siguientes términos:
+Euros
+ Valor medio del metro cuadrado o lineal del terreno
+ 462,76
+ Valor medio del metro cuadrado o lineal de lámina de agua
+ 15,60
+ Valor medio del metro cuadrado o lineal de las obras e instalaciones
+ 990,36
+La superficie de dominio público portuario ocupada se computa en metros cuadrados. Sin embargo, cuando la ocupación se efectúa mediante tuberías, líneas, canalizaciones y otros elementos de carácter similar, se computa en metros lineales.
+2. El tipo de gravamen de la tasa se establece en función de la clase de uso portuario asignado al bien de dominio público portuario ocupado y de la modalidad del bien afectado, de acuerdo con el siguiente cuadro:
+Clase de uso
+ Terrenos
+ -
+ %
+ Agua
+ -
+ %
+ Obras
+ -
+ %
+ Náutico deportivo
+ 3,00
+ 2,70
+ 3,30
+ Pesquero
+ 2,00
+ 1,80
+ 2,20
+ Atípico
+ 5,00
+ 4,50
+ 5,50
+Artículo 25.21-6. Cuota tributaria.
+1. La cuota íntegra de la tasa se determina multiplicando el valor del metro cuadrado o lineal de la modalidad de dominio público portuario por el número de metros cuadrados o lineales realmente ocupados y por el tipo de gravamen. Si la base imponible y el tipo de gravamen aplicables a los bienes ocupados son diferentes, hay que calcular la cuota íntegra correspondiente a cada uno de modo independiente y sumar los resultados.
+2. Reducciones de la cuota íntegra:
+2.1. La cuota íntegra de la tasa se reduce un 50 % si solamente se ocupan zonas de playa.
+2.2. La cuota íntegra de la tasa se reduce un 50 % si solamente se ocupan el vuelo o el subsuelo de los terrenos, o espacios sumergidos. Esta reducción no es aplicable si se impide la utilización de la superficie.
+2.3. La cuota íntegra de la tasa se puede reducir un 20 % en ocupaciones de superficie superiores a los 5.000 m2 destinadas a la actividad náutica deportiva y a la reparación y conservación de embarcaciones.
+3. Bonificación:
+Los obligados tributarios que realicen una inversión económica en el dominio público portuario que consistan en obras de relleno, urbanización o consolidación pueden solicitar la aplicación de una bonificación del 1% de la cuota íntegra de la tasa por cada 200.000 euros objeto de inversión, con el límite máximo del 50% de la cuota íntegra. Esta bonificación debe aplicarse durante el plazo de cinco años, salvo que la duración del título habilitante sea inferior.»
+
+## Subsección trigésima primera
+
+Subsección trigésima primera. Tasa por la ejecución de obras e instalaciones en la franja de servicio náutico de las marinas interiores de las urbanizaciones marítimo-terrestres
+
+### Artículo 33
+
+Artículo 33. Modificación del título XXV del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se añade un nuevo capítulo, el XXII, al título XXV del texto refundido aprobado por el Decreto legislativo 3/2008, con el siguiente texto:
+«CAPÍTULO XXII
+Tasa por la ejecución de obras e instalaciones en la franja de servicio náutico de las marinas interiores de las urbanizaciones marítimo-terrestres
+Artículo 25.22-1. Hecho imponible.
+Constituye el hecho imponible de la tasa la tramitación de expedientes instados ante el Departamento de Territorio y Sostenibilidad relativos a autorizaciones de obras e instalaciones en la franja de servicio náutico de las marinas interiores de las urbanizaciones marítimo-terrestres.
+Artículo 25.22-2. Sujeto pasivo.
+Es sujeto pasivo de la tasa la persona física o jurídica, pública o privada, que solicita la tramitación del expediente correspondiente.
+Artículo 25.22-3. Acreditación.
+La tasa se acredita en el momento en que se formula la solicitud.
+Artículo 25.22-4. Base imponible, tipo de gravamen y cuota.
+Constituye la base imponible el importe del presupuesto total de ejecución material del proyecto. La determinación de la cuantía de la tasa (t, en euros) se obtiene mediante la multiplicación de la raíz cúbica del cuadrado de la base imponible (p, en euros) por un coeficiente de 0,5, de acuerdo con la siguiente fórmula:
+t = 0,5 p2/3
+La cuantía de la tasa no puede ser inferior a 66,30 euros.
+Artículo 25.22-5. Exenciones.
+Está exenta de la tasa la tramitación de expedientes relativos a autorizaciones de obras de mantenimiento, reparación y rehabilitación de una concesión administrativa, y las ejecutadas por el ayuntamiento para instalar mobiliario urbano cara a la integración urbanística.»
+
+## Subsección trigésima segunda
+
+Subsección trigésima segunda. Tasa para la explotación de las instalaciones marítimas o zonas de anclaje en el dominio público marítimo-terrestre
+
+### Artículo 34
+
+Artículo 34. Modificación del título XXV del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se añade un nuevo capítulo, el XXIII, al título XXV del texto refundido aprobado por el Decreto legislativo 3/2008, con el siguiente texto:
+«CAPÍTULO XXIII
+Tasa para la explotación de las instalaciones marítimas o zonas de anclaje en el dominio público marítimo-terrestre
+Artículo 25.23-1. Hecho imponible.
+Constituye el hecho imponible la explotación en régimen de concesión o autorización, otorgada por el Departamento de Territorio y Sostenibilidad, de instalaciones marítimas o zonas de anclaje que impliquen ocupación del dominio público marítimo-terrestre.
+Artículo 25.23-2. Sujeto pasivo.
+Es sujeto pasivo de la tasa la persona física o jurídica, pública o privada, que solicita la tramitación del expediente correspondiente.
+Artículo 25.23-3. Acreditación.
+La tasa se acredita mediante el otorgamiento de la correspondiente concesión, autorización o adjudicación respecto del semestre en curso.
+Artículo 25.23-4. Base imponible, tipo de gravamen y cuota.
+1. La base imponible de la tasa es el volumen de los ingresos ordinarios de la actividad autorizada que se determine de acuerdo con los estudios económicos y las cuentas anuales que facilite el solicitante de la concesión o la autorización, así como las informaciones que pueda obtener y las valoraciones que pueda efectuar el Departamento de Territorio y Sostenibilidad, directamente o por comparación con otras concesiones o autorizaciones existentes.
+2. La cuota de la tasa se determina aplicando un tipo de gravamen del 3 % sobre el importe de la base imponible.»
+
+## Subsección trigésima tercera
+
+Subsección trigésima tercera. Tasa de almacenaje de mercancías (T02)
+
+### Artículo 35
+
+Artículo 35. Modificación del capítulo segundo del texto articulado de las tasas aplicables por Puertos de la Generalidad.
+Se modifica el artículo 24 del texto articulado aprobado por el Decreto Legislativo 2/2010, que queda redactado del siguiente modo:
+«Artículo 24. Exenciones.
+Están exentas de esta tasa las mercancías a las que se refiere el artículo 57 de la tasa de carga, descarga, transbordo y tránsito de mercancías.»
+
+## Subsección trigésima cuarta
+
+Subsección trigésima cuarta. Tasa de entrada y estancia de barcos (TA1)
+
+### Artículo 36
+
+Artículo 36. Modificación del capítulo tercero del texto articulado de las tasas aplicables por Puertos de la Generalidad.
+1. Se modifica el apartado 2 del artículo 45 del texto articulado aprobado por el Decreto legislativo 2/2010, que queda redactado del siguiente modo:
+«2. El tiempo de utilización del dominio público portuario se computa en horas y minutos. El tiempo de utilización efectiva se calcula desde el momento de la puesta a disposición o reserva del lugar de atracada o anclaje hasta que el buque abandona la zona de servicio. El tiempo de utilización se computa al 5 % cuando la entrada y estancia de la embarcación tiene lugar en días festivos y fines de semana mientras se espera el inicio del conjunto de operaciones comerciales en día laborable.»
+2. Se modifica el apartado 3.2 del artículo 46 del texto articulado aprobado por el Decreto legislativo 2/2010, que queda redactado del siguiente modo:
+«3.2. Si el capitán o capitana, o el patrón o patrona, de una embarcación comercial acredita ante Puertos de la Generalidad el cumplimiento de condiciones de respeto al medio ambiente que mejoran las que exigen las normas y convenios internacionales, y, además, tiene suscrito un acuerdo con la autoridad portuaria en materia de buenas prácticas ambientales asociadas a las operaciones y a la estancia de las embarcaciones en el puerto, los obligados tributarios pueden solicitar la aplicación de una bonificación del 50 %.»
+3. Se modifica el apartado 3.3 del artículo 46 de la sección 1 del capítulo tercer del texto articulado aprobado por el Decreto legislativo 2/2010, que queda redactado del siguiente modo:
+«3.3. Si el capitán o capitana, o el patrón o patrona, de una embarcación inferior a veinticuatro metros de eslora y autorizada para un máximo de doce pasajeros acredita ante Puertos de la Generalidad la entrega de todo el desperdicio a una empresa autorizada para prestar el servicio portuario específico de recepción del desperdicio generado por barcos y embarcaciones y residuos de carga, en el puerto, dársena, marina interior o instalación portuaria de base, los obligados tributarios pueden solicitar la aplicación de una bonificación del 50 %.»
+
+## Subsección trigésima quinta
+
+Subsección trigésima quinta. Tasa de atracada de embarcaciones (TA2)
+
+### Artículo 37
+
+Artículo 37. Modificación del capítulo tercero del texto articulado de las tasas aplicables por Puertos de la Generalidad.
+1. Se modifica el apartado 2 del artículo 52 del texto articulado aprobado por el Decreto legislativo 2/2010, que queda redactado del siguiente modo:
+«2. El tiempo de utilización del dominio público portuario se computa en horas y minutos. Este período se calcula desde la hora para la que se ha reservado la atracada hasta el momento en que el buque afloja la última amarra. El tiempo de utilización se computa al 50% cuando la atracada de la embarcación tiene lugar en días festivos y fines de semana mientras se espera el inicio del conjunto de operaciones comerciales en día laborable.»
+2. Se suprime el apartado 3 del artículo 53 del texto articulado aprobado por el Decreto legislativo 2/2010.
+
+## Subsección trigésima sexta
+
+Subsección trigésima sexta. Tasa de carga, descarga, transbordo y tránsito de mercancías (TA3M)
+
+### Artículo 38
+
+Artículo 38. Modificación del capítulo tercero del texto articulado de las tasas aplicables por Puertos de la Generalidad.
+Se modifica el apartado 2.3.a del artículo 60 del texto articulado aprobado por el Decreto legislativo 2/2010, que queda redactado del siguiente modo:
+«a) En el caso de mercancías que tengan por origen y destino un estado miembro de la Unión Europea, en un 10 %.»
+
+## Subsección trigésima séptima
+
+Subsección trigésima séptima. Tasa de las embarcaciones deportivas o de ocio (TA5)
+
+### Artículo 39
+
+Artículo 39. Modificación del capítulo tercero del texto articulado de las tasas aplicables por Puertos de la Generalidad.
+Se añade un inciso al final del segundo párrafo del apartado 1 del artículo 77 del texto articulado aprobado por el Decreto legislativo 2/2010, con el siguiente texto:
+«[...] y si dispone de muerto para la atracada, deben incrementarse en 0,036 euros.»
+
+## Sección cuarta
+
+Sección cuarta. Canon del agua
+
+### Artículo 40
+
+Artículo 40. Modificación del artículo 69 del texto refundido de la legislación en materia de aguas de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 41
+
+Artículo 41. Modificación del artículo 71 del texto refundido de la legislación en materia de aguas de Cataluña.
+Se modifica el apartado 1 del artículo 71 del texto refundido de la legislación en materia de aguas de Cataluña, aprobado por el Decreto legislativo 3/2003, que queda redactado del siguiente modo:
+«71.1 El tipo de gravamen general es de 0,1454 euros por metro cúbico.»
+
+### Artículo 42
+
+Artículo 42. Modificación del artículo 72 del texto refundido de la legislación en materia de aguas de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 43
+
+Artículo 43. Modificación del artículo 74 del texto refundido de la legislación en materia de aguas de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 44
+
+Artículo 44. Modificación de la disposición adicional primera del texto refundido de la legislación en materia de aguas de Cataluña.
+Se modifica el apartado primero de la disposición adicional primera del texto refundido de la legislación en materia de aguas de Cataluña, aprobado por el Decreto legislativo 3/2003, que queda redactado del siguiente modo:
+«1. A los efectos de lo establecido por el artículo 2.15, se fija un consumo básico de cien litros por persona y día. La dotación básica de agua por vivienda es de nueve metros cúbicos mensuales.»
+
+### Artículo 45
+
+Artículo 45. Modificación de la disposición adicional quinta del texto refundido de la legislación en materia de aguas de Cataluña.
+Se modifica la disposición adicional quinta del texto refundido de la legislación en materia de aguas de Cataluña, aprobado por el Decreto legislativo 3/2003, que queda redactada del siguiente modo:
+«Quinta.
+El tipo de gravamen establecido por el artículo 69 para los usos domésticos y asimilables en el ámbito territorial de la parte catalana de las cuencas de los ríos Ebro, Senia y Garona, así como de las rieras que desaguan en el mar entre el barranco del Codolar y la desembocadura del río Senia, se afecta de los siguientes coeficientes de aplicación progresiva:
+Año de aplicación
+ Coeficiente
+ 2011
+ 0,90
+ 2012
+ 0,95
+ 2013
+ 1»
+
+### Artículo 46
+
+Artículo 46. Modificación de la disposición adicional sexta del texto refundido de la legislación en materia de aguas de Cataluña.
+Se modifica la disposición adicional sexta del texto refundido de la legislación en materia de aguas de Cataluña, aprobado por el Decreto legislativo 3/2003, que queda redactada del siguiente modo:
+«El tipo de gravamen general establecido por el artículo 71 para los usos industriales y asimilables, agrícolas y ganaderos en el ámbito territorial de la parte catalana de las cuencas de los ríos Ebro, Senia y Garona, así como de las rieras que desaguan en el mar entre el barranco del Codolar y la desembocadura del río Senia, se afecta de los siguientes coeficientes de aplicación progresiva:
+Año de aplicación
+ Coeficiente
+ 2011
+ 0,70
+ 2012
+ 0,90
+ 2013
+ 1»
+
+### Artículo 47
+
+Artículo 47. Modificación de la disposición adicional novena del texto refundido de la legislación en materia de aguas de Cataluña.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 48
+
+Artículo 48. Modificación del anexo 6 del texto refundido de la legislación en materia de aguas de Cataluña.
+Se modifica el anexo 6 del texto refundido de la legislación en materia de aguas de Cataluña aprobado por el Decreto legislativo 3/2003, que queda redactado del siguiente modo:
+«ANEXO 6
+Sistemas de determinación de la cuota para los establecimientos ganaderos
+Tipos de explotación
+ Euros/plaza
+ Engorde de patos
+ 0,02910
+ Engorde de codornices
+ 0,00520
+ Engorde de pollos
+ 0,02910
+ Engorde de pavos
+ 0,05660
+ Engorde de perdices
+ 0,01180
+ Avicultura de puesta
+ 0,06340
+ Pollitos de recría
+ 0,01180
+ Cría de vacuno
+ 0,98000
+ Engorde de terneros
+ 2,79700
+ Vacas lactantes
+ 6,52920
+ Vacuno de leche
+ 9,32740
+ Terneras de reposición
+ 4,66700
+ Cabrío de reproducción
+ 0,91770
+ Cabrío de reposición
+ 0,45810
+ Cabrío de sacrificio
+ 0,30900
+ Producción de conejos
+ 0,55040
+ Ganado equino
+ 8,15200
+ Ovino de engorde
+ 0,38400
+ Ovejas de reproducción
+ 1,15260
+ Ovejas de reposición
+ 0,57310
+ Porcino de engorde
+ 1,07230
+ Producción porcina
+ 2,23590
+ Porcino de transición
+ 0,49230
+El tipo de gravamen específico para usos ganaderos se afecta de un coeficiente 0, salvo que exista contaminación de carácter especial en naturaleza o en cantidad, comprobada por los servicios de inspección de la administración competente.»
+
+## CAPÍTULO II
+
+Tributos cedidos
+
+## Sección primera
+
+Sección primera. Impuesto sobre la renta de las personas físicas
+
+### Artículo 49
+
+Artículo 49. Deducción por alquiler de la vivienda habitual.
+Se modifica el apartado 1.7 del artículo 1 de la Ley 31/2002, de 30 de diciembre, de medidas fiscales y administrativas, que queda redactado del siguiente modo:
+«1.7. Al efecto de la aplicación de esta deducción, son familias numerosas las definidas por la Ley 40/2003, de 18 de noviembre, de protección a las familias numerosas.»
+
+### Artículo 50
+
+Artículo 50. Deducción por inversión en la vivienda habitual.
+(Derogado).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 51
+
+Artículo 51. Deducción por el pago de intereses de préstamos para los estudios de máster y de doctorado.
+Se modifica el apartado 3 del artículo 1 de la Ley 31/2002, que queda redactado del siguiente modo:
+«3. Los contribuyentes pueden deducir el importe de los intereses pagados en el período impositivo correspondiente a los préstamos concedidos mediante la Agencia de Gestión de Ayudas Universitarias y de Investigación para la financiación de estudios de máster y de doctorado.»
+
+### Artículo 52
+
+Artículo 52. Deducción en concepto de inversión por un ángel inversor por la adquisición de acciones o participaciones sociales de entidades nuevas o de creación reciente.
+Se modifican los apartados 1 y 2 del artículo 20 de la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas, que restan redactados del siguiente modo:
+«Artículo 20. Deducción en concepto de inversión por un ángel inversor por la adquisición de acciones o participaciones sociales de entidades nuevas o de creación reciente.
+1. El contribuyente o la contribuyente puede aplicarse, en la cuota íntegra del impuesto sobre la renta de las personas físicas, en la parte correspondiente a la comunidad autónoma, y con efecto de 1 de enero de 2010, una deducción del 30% de las cantidades invertidas durante el ejercicio en la adquisición de acciones o participaciones sociales como consecuencia de acuerdos de constitución de sociedades o de ampliación de capital en las sociedades mercantiles a que se refiere el apartado 2. El importe máximo de esta deducción es de 6.000 euros. En caso de declaración conjunta estos límites se aplican en cada uno de los contribuyentes.
+2. Para que pueda aplicarse la deducción establecida por el apartado 1 deben cumplirse los siguientes requisitos y condiciones:
+a) La participación conseguida por el contribuyente o la contribuyente computada junto con las del cónyuge o la cónyuge o personas unidas por razón de parentesco, en línea directa o colateral, por consanguinidad o afinidad hasta el tercer grado incluido, no puede ser superior al 35 % del capital social de la sociedad objeto de la inversión o de sus derechos de voto.
+b) La entidad en la que debe materializarse la inversión debe cumplir los siguientes requisitos:
+Primero. Debe tener naturaleza de sociedad anónima, sociedad limitada, sociedad anónima laboral o sociedad limitada laboral.
+Segundo. Debe tener el domicilio social y fiscal en Cataluña.
+Tercero. Debe desempeñar una actividad económica. A tal efecto, no debe tener por actividad principal la gestión de un patrimonio mobiliario o inmobiliario, de acuerdo con lo dispuesto por el artículo 4.8.dos.a de la Ley del Estado 19/1991, de 6 de junio, del impuesto sobre el patrimonio.
+Cuarto. Debe contar, como mínimo, con una persona ocupada con contrato laboral y a jornada completa, y dada de alta en el régimen general de la seguridad social.
+Quinto. Si la inversión se ha hecho mediante una ampliación de capital, la sociedad mercantil debe haber sido constituida en los tres años anteriores a la fecha de esta ampliación, y no puede cotizar en el mercado nacional de valores ni en el mercado alternativo bursátil.
+Sexto. El volumen de facturación anual no debe superar un millón de euros.
+c) El contribuyente o la contribuyente puede formar parte del consejo de administración de la sociedad en la que ha materializado la inversión, pero en ningún caso puede llevar a cabo funciones ejecutivas o de dirección. Tampoco puede mantener una relación laboral con la entidad objeto de la inversión.
+d) Las operaciones en las que sea aplicable la deducción deben formalizarse en escritura pública, en la cual debe especificarse la identidad de los inversores y el importe de la respectiva inversión.
+e) Las participaciones adquiridas deben mantenerse en el patrimonio del contribuyente durante un período mínimo de tres años.
+f) Los requisitos establecidos por los apartados segundo, tercero y cuarto del apartado 2.b, y el límite máximo de participación regulado por el apartado 2.a, deben cumplirse durante un período mínimo de tres años a partir de la fecha de efectividad del acuerdo de ampliación de capital o constitución que origine el derecho a la deducción.»
+
+### Artículo 53
+
+Artículo 53. Deducción por inversión en acciones de entidades que cotizan en el segmento de empresas en expansión del mercado alternativo bursátil.
+Se añade un inciso al final del apartado 1 del artículo 21 de la Ley 26/2009, con el siguiente texto:
+«En caso de declaración conjunta, el importe máximo de deducción es de 10.000 euros por cada contribuyente de la unidad familiar que ha efectuado la inversión.»
+
+## Sección segunda
+
+Sección segunda. Impuesto sobre sucesiones y donaciones
+
+### Artículo 54
+
+Artículo 54. Reducción por sobreimposición decenal.
+Se añade uno nuevo apartado, el 3, al artículo 29 de la Ley 19/2010, de 7 de junio, de regulación del impuesto sobre sucesiones y donaciones, con el siguiente texto:
+«3. La aplicación de las reducciones de este artículo queda condicionada al hecho de que, por razón de la primera adquisición por causa de muerte o la anterior, se haya producido una tributación efectiva en concepto del impuesto sobre sucesiones y donaciones, y se entiende sin perjuicio de las reducciones que procedan. En cualquier caso, se admite la subrogación de bienes o derechos siempre y cuando se acredite de modo fehaciente.»
+
+## TÍTULO II
+
+Medidas relativas al régimen jurídico de las finanzas públicas
+
+## CAPÍTULO I
+
+Gestión financiera y control
+
+### Artículo 55
+
+Artículo 55. Modificación del texto refundido de la Ley de finanzas públicas de Cataluña.
+1. (Derogado).
+2. Se modifica el artículo 23 del texto refundido de la Ley de finanzas públicas de Cataluña, aprobado por el decreto legislativo 3/2002, que queda redactado del siguiente modo:
+«1. Las obligaciones económicas de la Generalidad y de las entidades autónomas nacen de la ley, de los negocios jurídicos y de los actos y hechos que, según el derecho, los generen.
+2. El pago de las obligaciones económicas de la Generalidad solamente es exigible si resultan de la ejecución del presupuesto, de sentencia o resolución judicial firmes o de operaciones de tesorería.
+3. Si las obligaciones económicas derivan de prestaciones o de servicios a la Generalidad, su pago no puede efectuarse mientras el acreedor no haya cumplido las obligaciones correlativas.
+4. El Departamento de Economía y Conocimiento puede dictar las normas correspondientes para hacer posible la entrada y registro de facturas en el ámbito que determine.»
+3. Se añade un nuevo artículo, el 35 bis, al texto refundido de la Ley de finanzas públicas de Cataluña aprobado por el Decreto legislativo 3/2002, con el siguiente texto:
+«Artículo 35 bis.
+Las entidades que de acuerdo con las normas del sistema europeo de cuentas (SEC) han sido clasificadas en el sector de Administración pública de la Generalidad no pueden efectuar transferencias de crédito o generaciones de crédito derivadas de nuevos ingresos financieros que comporten un aumento del importe total de sus gastos no financieros en términos del SEC, salvo que dispongan de la autorización del Gobierno, y con un informe previo del departamento competente en materia de economía y finanzas.»
+4. (Derogado).
+5. Se modifica el apartado 2 del artículo 83 del texto refundido de la Ley de finanzas públicas de Cataluña aprobado por el Decreto legislativo 3/2002, que queda redactado del siguiente modo:
+«2. Están especialmente sujetos a la obligación de indemnizar la hacienda de la Generalidad los responsables directos del daño a los caudales públicos, y aquellos que hayan intervenido, ya sea por inducción, o por determinación de la conducta perjudicial, el encubrimiento y la complicidad en el daño producido.»
+6. Se modifica la letra b del artículo 92.4 del texto refundido de la Ley de finanzas públicas de Cataluña aprobado por el Decreto legislativo 3/2002, que queda redactada del siguiente modo:
+«b) La aplicación presupuestaria a la que deben imputarse y la cantidad máxima destinada. La convocatoria puede fijar, además de la cuantía total máxima dentro de los créditos disponibles, una cuantía adicional estimativa cuya aplicación a las subvenciones no requiere ninguna nueva disposición de ampliación de cuantía ni ninguna nueva convocatoria.
+La convocatoria debe hacer constar expresamente que la efectividad de la cuantía adicional está condicionada a la disponibilidad efectiva del crédito en el momento anterior a la resolución de la concesión de la subvención.
+En cualquier caso, debe publicarse en el Diario Oficial de la Generalitat de Catalunya la declaración de los créditos efectivamente disponibles previamente a la resolución de la concesión.»
+7. Se añade una nueva sección, la sexta, al capítulo IX del texto refundido de la Ley de finanzas públicas de Cataluña aprobado por el Decreto legislativo 3/2002, con el siguiente texto:
+«Sección sexta. Normas especiales aplicables a las subvenciones o ayudas en materia de cooperación internacional al desarrollo
+Artículo 106. Régimen jurídico de las subvenciones o ayudas para la cooperación internacional al desarrollo.
+Las subvenciones o ayudas para la cooperación internacional al desarrollo, concedidas directamente por la Administración de la Generalidad, de conformidad con lo establecido por los artículos 27 y 28 de la Ley 26/2001, de 31 de diciembre, de cooperación al desarrollo, o con sujeción a los principios de publicidad y concurrencia, se regulan por el régimen jurídico especial establecido por esta sección. También son aplicables, supletoriamente, las disposiciones del capítulo IX, en todo cuanto no establece dicha ley y en lo que no se oponga a las disposiciones de esta sección o no las contradiga.
+Artículo 107. Subvenciones o ayudas para la cooperación internacional al desarrollo de concesión directa.
+1. El procedimiento para la concesión directa de subvenciones o ayudas para la cooperación internacional al desarrollo por parte de la Administración de la Generalidad en favor de estados, personas jurídicas públicas extranjeras u organizaciones internacionales de derecho público creadas por tratado o acuerdo internacional se rige por lo establecido por este artículo.
+2. Para la concesión directa de las subvenciones o ayudas reguladas por este artículo, el órgano competente para la instrucción debe tramitar, antes de la concesión de la subvención o la ayuda, un expediente que en todo caso debe incorporar los siguientes documentos:
+a) La memoria justificativa en la que debe describirse la finalidad, la causa, el compromiso, el acuerdo o convenio y la razón de la actividad o el proyecto a que se destina la subvención o ayuda, su aplicación presupuestaria, la persona beneficiaria y las condiciones a las que, si procede, está sujeta la entrega.
+Debe hacerse constar el carácter singular de la subvención o la ayuda, la apreciación de las circunstancias concurrentes, y el instrumento de planificación, instrumento y modalidad de cooperación al desarrollo, de acuerdo con lo establecido por el capítulo II de la Ley 26/2001.
+b) La acreditación de la existencia de crédito adecuado y suficiente para la financiación de la subvención o ayuda.
+c) La autorización del Gobierno cuando concurran los supuestos establecidos por la normativa de aplicación.
+3. Las subvenciones o ayudas pueden concederse directamente, de oficio o a instancia de los organismos interesados, mediante la apreciación discrecional de las circunstancias que concurran en cada caso.
+4. Si se verifican circunstancias que alteran las condiciones tenidas en cuenta para conceder la subvención o la ayuda, el órgano que hace la concesión puede modificar el instrumento de concesión, en los casos previstos en el régimen de autorización que establezca el instrumento jurídico de otorgamiento.
+5. En los casos en que la modificación exija la autorización de la Administración que hace la concesión, a solicitud del organismo interesado, debe dictarse y notificarse la resolución que concede o deniega la modificación en el plazo de cuarenta y cinco días naturales a partir de la fecha de presentación de la solicitud. Transcurrido el plazo máximo establecido sin que se haya dictado y notificado resolución expresa, debe entenderse estimada la solicitud, sin que ello exima de la obligación legal de emitir resolución.
+6. El plazo de ejecución de las actividades subvencionadas puede ser ampliado sin necesidad de autorización previa hasta un máximo de seis meses. Esta ampliación debe ser notificada y justificada al órgano que hace la concesión antes de que expire el plazo para presentar la justificación de la subvención o la ayuda. Salvo que se prevea de otro modo en el acto de concesión de la subvención o ayuda, las ampliaciones superiores a los seis meses requieren una autorización previa del órgano que hace la concesión.
+7. Las subvenciones o ayudas pueden ser anticipadas. En el caso de pagos anticipados no es procedente la constitución de garantías, salvo que el instrumento de concesión lo prevea expresamente.
+8. Los gastos deben efectuarse y acreditarse de acuerdo con las correspondientes normas de los estados u organizaciones internacionales beneficiarios de las subvenciones o ayudas, y de acuerdo con los mecanismos establecidos por los acuerdos u otros instrumentos internacionales de aplicación.
+9. Cuando se hayan cumplido plenamente los objetivos para los que se concedió la subvención o ayuda y, por una utilización eficiente de los recursos, haya remanentes no invertidos, incluyendo los posibles rendimientos financieros no aplicados a la actividad subvencionada, puede solicitarse al órgano que hace la concesión que se utilicen en la misma actividad u otra de naturaleza análoga. El órgano que hace la concesión debe emitir una resolución en la que autoriza la aplicación del remanente o en la que acuerda la devolución de los remanentes descritos.
+10. El órgano que hace la concesión puede ampliar el plazo de justificación, de oficio o a solicitud del beneficiario, y debe dictar y notificar la resolución en la que se concede o deniega la ampliación de los plazos. No puede ser objeto de ampliación el plazo de justificación, si ya ha vencido.
+11. Los fondos entregados son objeto de control según lo determinado por las correspondientes normas de los estados o las organizaciones internacionales, sin perjuicio de las actuaciones de seguimiento, comprobación y control financiero que puedan efectuar los órganos competentes de control del ente que hace la concesión en el ámbito de sus competencias.
+12. Las causas de reintegro o de pérdida del derecho a la percepción de la subvención o ayuda son las siguientes:
+a) El incumplimiento total o parcial de la finalidad de la subvención o ayuda.
+b) La falta de justificación o la justificación insuficiente.
+c) La obtención de la subvención o la ayuda sin reunir las condiciones requeridas para obtenerlas.
+d) Las que se establezcan, si procede, en el instrumento de concesión.
+Es procedente el reintegro del exceso obtenido sobre el coste de la actividad llevada a cabo en los casos en que el importe subvencionado tiene una cuantía que, aisladamente, o en concurrencia con otras subvenciones o ayudas de otras administraciones públicas o de otros entes públicos o privados, estatales o extranjeros, supera el coste de la actividad que lleva a cabo el beneficiario.
+13. No es aplicable a las subvenciones o ayudas a las que se refiere el apartado 1 el régimen sancionador establecido por la sección quinta del capítulo IX.
+14. Para la concesión directa de subvenciones o ayudas para la cooperación internacional para el desarrollo por parte de la Administración de la Generalidad en favor de personas físicas o jurídicas legalmente constituidas, públicas o privadas, españolas o extranjeras, que por razón de los fines, objeto o ámbito de actividad pueden llevar a cabo actuaciones en el ámbito de la cooperación al desarrollo, el órgano de instrucción competente debe tramitar, previamente, un expediente que siempre debe incorporar los documentos detallados en el apartado 2 del presente artículo. Asimismo, es aplicable lo dispuesto por los apartados 4, 5, 7, 9 y 10 del presente artículo, y el contenido de los apartados 9, 10, 11, 13, 14, 15, 17 y 18 del artículo 108. A tal efecto, las referencias hechas a las bases reguladoras de las subvenciones o ayudas en el artículo 108 deben entenderse hechas en los procedimientos de concesión directa de estas subvenciones o ayudas, en la resolución o en el instrumento de concesión de la subvención o la ayuda.
+Artículo 108. Subvenciones o ayudas para la cooperación internacional al desarrollo concedidas con sujeción a los principios de publicidad y concurrencia.
+1. El procedimiento de concesión de subvenciones y ayudas de cooperación internacional para el desarrollo otorgadas con sujeción a los principios de publicidad y concurrencia establecidos por la presente ley, y también según lo establecido por las correspondientes bases reguladoras, cuyos beneficiarios pueden ser las personas físicas o jurídicas legalmente constituidas, públicas o privadas, españolas o extranjeras, que por razón de sus fines, objeto o ámbito de actividad, pueden llevar a cabo actuaciones en el ámbito de la cooperación internacional al desarrollo, se rige por el régimen jurídico establecido por el presente artículo.
+2. La entidad beneficiaria de la subvención o ayuda es la responsable de la ejecución en beneficio del destinatario final de la subvención o ayuda y de la justificación correcta ante el órgano que hace la concesión, independientemente de que su ejecución haya sido llevada a cabo, total o parcialmente, por socios locales o contrapartes extranjeras.
+3. Las subvenciones pueden ser anticipadas, salvo en el caso de previsión expresa en contra en las bases reguladoras. En caso de pagos anticipados, no es procedente la constitución de garantías, salvo que la resolución de concesión lo prevea expresamente.
+4. Las bases reguladoras de la convocatoria deben especificar el momento partir del cual se permite el inicio de la actividad y los plazos de imputación del gasto.
+5. El plazo de ejecución de las actividades subvencionadas puede ampliarse, sin necesidad de autorización previa, hasta un máximo de tres meses. Esta ampliación debe notificarse al órgano gestor antes de que finalice el plazo de justificación, plazo que se entiende automáticamente ampliado con la notificación mencionada. Salvo que se determine de otro modo en las bases reguladoras de la subvención o la ayuda, las ampliaciones superiores a este plazo necesitan la autorización previa del órgano que hace la concesión.
+6. La ejecución total o parcial de la subvención o ayuda por parte de socios locales o contrapartes extranjeras no debe considerarse como subcontratación, a los efectos de lo establecido por el artículo 29 de la Ley del Estado 38/2003, de 17 de noviembre, general de subvenciones. Los socios locales o contrapartes mencionados deben figurar adecuadamente identificados en el proyecto o propuesta de actuación. Salvo que se establezca de otro modo en las bases reguladoras, cualquier modificación de los socios locales o contrapartes debe tener la autorización previa del órgano que hace la concesión.
+7. Los rendimientos financieros que se generen por los fondos entregados a las personas beneficiarias incrementan el importe de la subvención o ayuda concedidas y deben aplicarse igualmente a la actividad subvencionada, salvo que, por razones debidamente motivadas, se disponga de otro modo en las bases reguladoras.
+8. Cuando se han cumplido plenamente los objetivos para los que fue concedida la subvención o ayuda y por una utilización eficiente de los recursos haya remanentes no invertidos, incluyendo los posibles rendimientos financieros no aplicados a la actividad subvencionada, puede solicitarse del órgano concedente la utilización en la misma actividad u otra de naturaleza análoga. El órgano concedente debe emitir una resolución en la que autoriza la aplicación del remanente o que acuerda la devolución de los remanentes descritos.
+9. Los gastos deben justificarse mediante facturas, recibos, tíquets y otros documentos con valor probatorio en el tráfico jurídico mercantil o con eficacia administrativa en el país donde se lleva a cabo la actividad subvencionada, en original o fotocopia compulsada o legalizada, en los términos establecidos en las bases reguladoras.
+En el caso de los gastos realizados en países receptores de ayuda oficial al desarrollo también pueden usarse como justificantes de gasto los recibos, que pueden ser recibos de caja, es decir, documentos emitidos por la misma entidad o sujeto que efectúa el pago y firmados por el proveedor de los bienes o servicios, que acreditan de este modo que han recibido el importe indicado en este, o bien recibos emitidos por los mismos proveedores cuando actúan en mercados informales. La utilización de recibos debe ser previamente autorizada por el órgano que hace la concesión, y también puede ser validada a posteriori por el mismo órgano, siempre y cuando este considere que la autorización se habría concedido si se hubiese solicitado previamente.
+10. Sin perjuicio de las peculiaridades fijadas por las bases reguladoras, la justificación de las subvenciones o ayudas debe estar integrada por una memoria técnica, que debe especificar con el máximo de detalle los objetivos conseguidos, los resultados obtenidos y las actividades realizadas, sobre los que debe aportar datos relevantes y fuentes de verificación objetivas, deben establecerse los criterios para la evaluación tanto de los procesos de ejecución como del cumplimiento de los objetivos establecidos, y por una justificación económica, que debe incluir la documentación que justifique los gastos efectuadas con cargo a la intervención que se subvenciona, en los términos establecidos por este artículo.
+11. El plazo para presentar la justificación de la subvención o ayuda es de tres meses a partir de la fecha de finalización de la actuación subvencionada, salvo que haya una disposición expresa contraria en las bases reguladoras. En caso de que los informes incorporen un informe de auditor de cuentas o de evaluación técnica, el plazo debe ampliarse a seis meses para permitir la presentación conjunta.
+12. En caso de subvenciones o ayudas ejecutadas en el extranjero o por entidades beneficiarias extranjeras, el plazo para enmendar defectos de las justificaciones parciales o totales y para aportar la documentación complementaria requerida por el órgano que ha efectuado la revisión es de cuarenta y cinco días hábiles. En las administraciones públicas en las que se hayan habilitado medios electrónicos, informáticos o telemáticos, la documentación puede ser aportada mediante estos sistemas.
+13. El procedimiento de justificación puede hacerse mediante la modalidad de cuenta justificativa y aportar justificantes de gasto; de cuenta justificativa y aportar un informe de auditoría de cuentas; mediante la presentación de estados contables, o mediante una combinación de algunas de estas modalidades, o de otras, de acuerdo con el procedimiento que establezcan las bases reguladoras.
+14. En la modalidad de cuenta justificativa en la que se aportan justificantes de gasto, la justificación económica está formada, como mínimo, por:
+a) La lista de los gastos que se han llevado a cabo, clasificados por partidas y por fechas, en que se indica el número de justificante, el importe y la fecha.
+b) Los documentos justificativos de los gastos, originales o copias compulsadas, ordenados según la lista, así como de los pagos.
+c) La relación detallada de otros ingresos, subvenciones o ayudas, públicos o privados, que han financiado la actividad subvencionada, en la que debe indicarse el importe y la procedencia.
+d) Los documentos originales o copias compulsadas que acrediten los tipos de cambio.
+e) El cuadro comparativo del presupuesto por partidas, aprobado y ejecutado, en el que se indiquen las desviaciones que haya habido.
+15. En la modalidad de cuenta justificativa con informe de auditor de cuentas debe incluirse, como mínimo, el cuadro comparativo del presupuesto por partidas, aprobado y ejecutado, y el informe del auditor. En este caso no es necesaria la presentación posterior de facturas y recibos, salvo que esté establecido de este modo en lo relativo al ejercicio de funciones de comprobación y control financiero por parte de los órganos competentes. El informe debe ser elaborado por un auditor de cuentas inscrito en el Registro oficial de auditores de cuentas, en calidad de profesional que ejerce. Las bases reguladoras deben detallar otras peculiaridades de la auditoría, si procede.
+16. Las bases reguladoras de la subvención o ayuda pueden prever que se utilicen otras modalidades de justificación en la medida en que respondan y se adapten a la naturaleza de la subvención o ayuda.
+17. En caso de que se produzcan situaciones excepcionales debidamente acreditadas, como desastres naturales, enfrentamientos armados o crisis humanitarias que dificulten o incluso imposibiliten disponer de la documentación adecuada justificativa del gasto, el órgano que hace la concesión puede aceptar otras formas de justificación, como informes de tasadores debidamente acreditados e inscritos en el registro oficial correspondiente, declaración de testimonios, constatación de los resultados o actividades llevadas a cabo, declaración responsable de proveedores, u otros de valor probatorio similar. En el caso de operaciones humanitarias dirigidas por las Naciones Unidas, la certificación o ratificación puede ser emitida por el organismo de las Naciones Unidas que coordine los trabajos sobre el terreno.
+18. Pueden admitirse como sistema de justificación los certificados de ejecución de actividades, si lo prevén las bases reguladoras. Se entiende por certificado de ejecución de actividades la certificación, por parte de la Administración que hace la concesión, de que se ha llevado a cabo la ejecución de una actividad, para la que había sido previamente presupuestado y aprobado, por parte del órgano que hace la concesión, el conjunto de gastos necesarios por realizarla. La certificación de la ejecución efectiva por la Administración constituye por sí misma un justificante único de gasto de la actividad. Los requisitos, características y supuestos de utilización de este sistema deben concretarse en las bases reguladoras.
+19. Los gastos directos e indirectos admitidos, las operaciones de cambio de moneda y la aplicación de tipos de cambio, así como el régimen que debe seguirse ante los impuestos susceptibles de recuperación, debe desarrollarse en las bases reguladoras.
+20. El régimen de control, reintegro y sanciones se rige por lo dispuesto por la presente ley.»
+Se derogan los apartados 1 y 4 por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 56
+
+Artículo 56. Modificación del artículo 31 de la Ley 26/2001.
+1. Se modifica el apartado 2 del artículo 31 de la Ley 26/2001, de 31 de diciembre, de cooperación al desarrollo, que queda redactado del siguiente modo:
+«2. Las organizaciones no gubernamentales para el desarrollo que quieran acceder a cualquier subvención o ayuda de la Administración de la Generalidad que sea computable como ayuda oficial al desarrollo deben cumplir las siguientes condiciones:
+a) Estar inscritas en el registro de organizaciones no gubernamentales para el desarrollo o en el registro de la Agencia Española de Cooperación Internacional.
+b) Tener sede social o delegación y estructura permanente en Cataluña para asegurar el alcance de las respectivas finalidades estatutarias.
+c) Estar al corriente de las obligaciones contraídas con la Administración de la Generalidad.»
+2. Se modifica el apartado 2 del artículo 34 de la Ley 26/2001, que queda redactado del siguiente modo:
+«2. La Administración de la Generalidad también puede financiar programas y proyectos de cooperación al desarrollo mediante convenios de colaboración y cooperación de cofinanciación entre donantes con las administraciones, instituciones y entidades públicas o privadas de cualquier lugar que convenga en cada caso, para aportar su concurso a la dotación de medios financieros u otros, siempre y cuando se correspondan con las previsiones del plan director y de los planes anuales.»
+
+## CAPÍTULO II
+
+Normas patrimoniales
+
+## Sección primera
+
+Sección primera. Patrimonio
+
+### Artículo 57
+
+Artículo 57. Modificación del Decreto legislativo 1/2002.
+1. Se añade uno nuevo apartado, el 5, al artículo 10 del texto refundido de la Ley de patrimonio de la Generalidad de Cataluña aprobado por el Decreto legislativo 1/2002, con el siguiente texto:
+«5. En los casos de mutación demanial, cambio de adscripción o desafectación de inmuebles, corresponde al departamento o entidad ocupante asumir los gastos de mantenimiento hasta la fecha en la que se formalice el acto de traspaso de la posesión o el acto administrativo de desafectación.»
+2. Se añade un nuevo apartado, el 7, al artículo 13 del texto refundido de la Ley de patrimonio de la Generalidad de Cataluña aprobado por el Decreto legislativo 1/2002, con el siguiente texto:
+«7. La Generalidad y los organismos públicos vinculados o que dependen de la misma pueden adquirir bienes y derechos por reducción de capital de sociedades o de fondos propios de organismos públicos, o por restitución de aportaciones a fundaciones. Para llevar a cabo la incorporación al patrimonio de la Generalidad es necesaria la firma de un acta de entrega entre un representante de la Dirección General del Patrimonio y un representante de la sociedad, entidad o fundación del capital o fondos propios de la que proceda el bien o derecho.»
+3. Se modifica el apartado 2 del artículo 14 del texto refundido de la Ley de patrimonio de la Generalidad de Cataluña aprobado por el Decreto legislativo 1/2002, que queda redactado del siguiente modo:
+«2. Cuando un departamento, un ente público, o una empresa dependiente, deja de necesitar un inmueble contratado en régimen de arrendamiento antes del plazo pactado o de la finalización de las prórrogas legales o contractuales, y siempre que esté prevista la posibilidad de subrogación, debe comunicarse a la Dirección General del Patrimonio, con una antelación de cuatro meses más el tiempo previsto en el contrato por el preaviso de resolución. La Dirección General del Patrimonio, si procede, y atendiendo a la necesidad de espacios para alojar otros servicios o por las características del contrato y antes de acordar su resolución voluntaria, debe comunicarlo al resto de departamentos y estos a los entes públicos y empresas dependientes para el posible aprovechamiento del bien.
+Hasta la fecha de la efectividad de la resolución o en la fecha en la que el inmueble pasa a depender de otro departamento, ente público o empresa de la Generalidad, los gastos y obligaciones derivados del contrato de arrendamiento corren a cargo del departamento, ente público o empresa de la que dependía inicialmente. La resolución que acuerda la novación o la subrogación contractual debe ser notificada al arrendador, para el que es obligatoria y sin que proceda el incremento de la renta.»
+4. Se modifica el apartado 3 del artículo 15 del texto refundido de la Ley de patrimonio de la Generalidad de Cataluña aprobado por el Decreto legislativo 1/2002, que queda redactado del siguiente modo:
+«3. La redacción y ejecución de los proyectos de obras para construir o reformar inmuebles destinados a uso administrativo de los servicios de los departamentos de la Generalidad y de entidades de su sector público que tengan un valor estimado del contrato superior a 600.000 euros, IVA excluido, requieren para su licitación un informe favorable de la Dirección General del Patrimonio, tanto por lo que se reifere a los aspectos cualitativos como a los cuantitativos, el cual debe emitirse en el plazo de un mes a partir de la fecha de solicitud. Este informe debe incorporarse al expediente de contratación como requisito previo para la aprobación técnica del proyecto por parte del órgano de contratación, de acuerdo con lo establecido por la normativa en materia de contratación del sector público.
+Una vez terminada la obra, los departamentos y las entidades deben enviar a la Dirección General del Patrimonio la información sobre el coste final de las obras realizadas, y a tal efecto, deben adjuntar a la misma el acta de recepción de las obras y la certificación final en los términos establecidos por la normativa en materia de contratación del sector público.»
+5. Se modifica el apartado 2 del artículo 18 del texto refundido de la Ley de patrimonio de la Generalidad de Cataluña aprobado por el Decreto legislativo 1/2002, que queda redactado del siguiente modo:
+«2. La enajenación de bienes inmuebles o derechos reales puede hacerse por subasta o por concurso público o, si el Gobierno lo acuerda, por adjudicación directa, de acuerdo con el apartado 5.
+El procedimiento ordinario para la enajenación es la subasta. Solamente se utiliza el concurso en los supuestos y con las formalidades que se establezcan por reglamento, y la adjudicación recae en el licitador que en conjunto hace la proposición más ventajosa.
+Mientras no se produzca el desarrollo normativo, el procedimiento del concurso se rige por establecido por la normativa patrimonial sobre la adquisición de bienes inmuebles.
+Las enajenaciones de bienes inmuebles pueden formalizarse en documento administrativo, que es título suficiente para la inscripción en el Registro de la Propiedad, cuando el adquiriente es otra administración pública, organismo o entidad vinculada.»
+6. Se añaden dos nuevos apartados, el 5 y el 6, al artículo 18 del texto refundido de la Ley de patrimonio de la Generalidad de Cataluña aprobado por el Decreto legislativo 1/2002, con el siguiente texto:
+«5. Se puede acordar la adjudicación directa en los siguientes supuestos:
+a) Cuando el adquiriente es otra administración pública, persona jurídica de derecho público o privado que pertenece en el sector público, o una entidad sin ánimo de lucro, declarada de utilidad pública.
+b) Cuando el inmueble sea necesario para dar cumplimiento a una función de servicio público o a la realización de un fin de interés general por una persona diferente de las previstas por la letra a.
+c) Cuando la subasta o el concurso promovidos por la enajenación de los bienes o derechos se declaren desiertos o resulten fallidos y, siempre y cuando no haya transcurrido más de un año desde la celebración de la subasta o el concurso. En este caso, las condiciones de la enajenación no pueden ser inferiores a las anunciadas previamente o a aquellas en las que se habría producido la adjudicación.
+d) Cuando la venta se efectúe en favor de uno o más copropietarios o en favor de quien posee un derecho de adquisición preferente reconocido por ley.
+e) Cuando, por razones excepcionales, se considere conveniente efectuar la venta en favor del ocupante del inmueble y siempre y cuando este tenga derecho reconocido, de acuerdo con la normativa de aplicación.
+f) Cuando se trate de solares o parcelas sobrantes de vías públicas que por su forma o extensión son no edificables y su enajenación se haga en favor de un propietario colindante.
+g) Cuando se trate de fincas rústicas inexplotables y su venta se efectúe a un propietario colindante.
+Si varios interesados se encuentran en un mismo supuesto de adjudicación directa, la adjudicación debe resolverse según el interés general concurrente en el caso concreto. En cuanto a la enajenación a la que se refieren las letras f y g debe seguirse el procedimiento establecido por reglamento.
+6. El órgano competente para enajenar bienes o derechos puede admitir el pago aplazado del precio de venta, por un período no superior a diez años y siempre y cuando el pago de las cantidades aplazadas se garantice suficientemente mediante condición resolutoria explícita, hipoteca, aval bancario, seguro de caución u otra garantía suficiente usual en el mercado. El interés del aplazamiento no puede ser inferior al interés legal del dinero.»
+7. Se modifica el artículo 26 del texto refundido de la Ley de patrimonio de la Generalidad de Cataluña aprobado por el Decreto legislativo 1/2002: el párrafo existente se numera como apartado 1 y se añade uno nuevo, el 2, con el siguiente texto:
+«2. La utilización de edificios de uso administrativo se rige por criterios que tienden a su optimización, entendida como el conjunto de análisis técnicos y económicos sobre inmuebles existentes, la previsión de la evolución de la demanda inmobiliaria por los servicios públicos, la programación de la cobertura de necesidades y de intervenciones de verificación y control, que tienen por objeto identificar, en un ámbito territorial o sectorial determinado, la mejor solución para satisfacer las necesidades contrastadas de edificios de uso administrativo en el ámbito geográfico o sectorial considerado, con asunción de las restricciones económicas, funcionales o de naturaleza cultural o medioambientales que se determinen.»
+
+## Sección segunda
+
+Sección segunda. Otras normas patrimoniales
+
+### Artículo 58
+
+Artículo 58. Modificación del Decreto legislativo 2/2002.
+Se modifica el artículo 35 del texto refundido de la Ley 4/1985, de 29 de marzo, del Estatuto de la empresa pública catalana, aprobado por el Decreto legislativo 2/2002, que queda redactado del siguiente modo:
+«Artículo 35.
+1. El Gobierno puede acordar la constitución de sociedades sujetas a normas civiles y mercantiles para alcanzar las finalidades asignadas por el Estatuto de autonomía. El acuerdo de constitución debe determinar necesariamente la denominación, el objeto social, el capital fundacional, la participación que la Generalidad debe tener en estas sociedades, directa o indirectamente, y la forma jurídica que deben adoptar, y debe incluir la aprobación de los estatutos.
+2. Corresponde al Gobierno la autorización de:
+a) La adquisición de acciones o participaciones representativas del capital de sociedades que ya están constituidas, su enajenación y, en general, la transformación, fusión, escisión, disolución y liquidación de sociedades participadas.
+b) Las modificaciones de los estatutos de las sociedades participadas.
+c) La suscripción de pactos extraestatutarios que limiten o condicionen los derechos políticos o económicos inherentes a la participación de la Generalidad en las sociedades, así como la suscripción de compromisos de adquisición o enajenación futura de acciones o participaciones representativas del capital de sociedades.
+3. Los representantes de la Generalidad o de entidades de su sector público en los órganos de decisión de entidades de cualquier forma jurídica admitida en derecho deben obtener, previo ejercicio del derecho a voto, las autorizaciones a las que se refiere el apartado anterior respecto de las operaciones relativas a participaciones en sociedades que se propongan.
+4. Los expedientes relativos a las propuestas de acuerdo del Gobierno a las que se refieren los apartados 1, 2 y 3 deben ser instruidos y tramitados por el departamento competente en materia de patrimonio de la Generalidad, que las elevará al Gobierno para que las apruebe, a propuesta conjunta con el departamento o departamentos competentes por razón de la materia.
+5. Se aplican a estas sociedades las limitaciones establecidas por los artículos 18 y 19.
+6. Las previsiones del presente artículo son aplicables a sociedades participadas por la Generalidad y por entidades de su sector público tanto de forma íntegra, mayoritaria, como no mayoritaria. También son aplicables a participaciones en entidades que a pesar de no tener forma jurídica societaria se asimilan a la misma, como agrupaciones de interés económico, comunidades de bienes, cooperativas, fondos de inversión y fondos de capital riesgo, y otras entidades análogas.
+7. Los acuerdos correspondientes a las autorizaciones establecidas en los apartados 1, 2.a y 2.b relativas a participaciones mayoritarias de la Generalidad y entidades de su sector público deben publicarse en el Diario Oficial de la Generalitat de Catalunya.»
+
+### Artículo 59
+
+Artículo 59. Racionalización del número de entidades.
+1. El Gobierno debe impulsar un proceso de racionalización, reducción y simplificación del número de las entidades que componen su sector público, especialmente el no administrativo, con el objetivo de contar con un sector público sostenible, eficaz y eficiente, que no suponga un lastre para el déficit público y para la calidad de los servicios públicos.
+2. Durante el ejercicio presupuestario correspondiente al año 2011, el Gobierno debe llevar a cabo en una primera fase una reducción del 10% de las entidades existentes al empezar el año y del 20% de las aportaciones presupuestarias, y debe priorizar este proceso en el ámbito de los servicios públicos que no se consideran esenciales para dar respuesta a las demandas ciudadanas. Se exceptúan de esta primera fase de reducción las entidades vinculadas a la prestación de servicios de asistencia sanitaria, educación y bienestar social.
+3. En las fases subsiguientes del proceso de racionalización del sector público no administrativo, el Gobierno debe garantizar que la reducción comporte el 25% menos de entidades existentes respecto de las existentes al inicio del 2011. El Gobierno debe presentar cada año un informe con las decisiones tomadas en cumplimiento de los objetivos establecidos.
+
+### Artículo 60
+
+Artículo 60. Modificación de la Ley 13/1996.
+1. Se modifica el artículo 10 de la Ley 13/1996, de 29 de julio, del registro y el depósito de fianzas de los contratos en alquiler de fincas urbanas y de modificación de la Ley 24/1991, de la vivienda, que queda redactado del siguiente modo:
+«Artículo 10. Órganos competentes.
+Los órganos competentes para imponer las sanciones son los siguientes:
+a) Hasta 150.000 euros, el director o directora del Instituto Catalán del Suelo.
+b) De 150.000 euros hasta 300.000 euros, el consejero o consejera competente en materia de territorio y sostenibilidad.
+c) Para las sanciones superiores a 300.000 euros, el Gobierno de la Generalidad.»
+2. Se modifica el apartado 3 del artículo 12 bis de la Ley 13/1996, que queda redactado del siguiente modo:
+«3. En caso de que las fianzas se depositen fuera del plazo establecido, con el requerimiento previo de la Inspección, debe aplicarse un recargo del 25% del importe de la fianza. Si el retraso en el depósito de las fianzas supera los doce meses, también con el requerimiento previo de la Inspección, el recargo es el 25% del importe de la fianza, y deben añadirse a la cantidad resultante los intereses de demora devengados desde el final del plazo establecido para depositarla. En ningún caso se incluyen en el cálculo del recargo los importes de otras sanciones que puedan exigirse.»
+
+## CAPÍTULO III
+
+Otras modificaciones de leyes sustanciales
+
+## Sección primera
+
+Sección primera. Entidades de derecho público de la Generalidad
+
+### Artículo 61
+
+Artículo 61. Modificación del Decreto legislativo 4/2002.
+(Derogado)
+Se deroga por la disposición derogatoria.d) del Decreto Legislativo 1/2022, de 26 de julio. Ref. BOE-A-2022-13535#dd
+ Se derogan los apartados 3 a 6 y 10 a 14 por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Sección segunda
+
+Sección segunda. Renta mínima de inserción
+
+### Artículo 62
+
+Artículo 62. Modificación de la Ley 10/1997.
+1. Se modifica la letra b del artículo 6.1 de la Ley 10/1997, del 3 de julio, de la renta mínima de inserción, que queda redactada del siguiente modo:
+«b) Que acrediten una residencia continuada y efectiva en Cataluña, como mínimo, con dos años de antelación a la fecha de presentación de la solicitud. Las ausencias que no interrumpan el cómputo de la residencia continuada y efectiva deben fijarse por reglamento. También pueden ser solicitantes las personas que acrediten que, de los últimos cinco años, han residido cuatro en Cataluña de manera continuada y efectiva. Las personas solicitantes extranjeras que vivan en Cataluña deben acreditar la residencia legal.»
+2. (Derogado).
+3. (Derogado).
+4. Se añade una nueva letra, la i, al artículo 7 de la Ley 10/1997, con el siguiente texto:
+«i) Encontrarse de modo permanente en Cataluña mientras se percibe la prestación económica, con las excepciones fijadas por reglamento.»
+5. Se modifica el artículo 11.2 de la Ley 10/1997, que queda redactado del siguiente modo:
+«2. En ningún caso el plazo de la toma del acuerdo definitivo puede superar los cuatro meses desde la presentación del proyecto al Departamento de Bienestar Social y Familia. Vencido este plazo, la prestación económica se entiende denegada.»
+6. Se modifica el artículo 21.1 de la Ley 10/1997, que queda redactado del siguiente modo:
+«1. El importe de la prestación económica básica, los complementos para miembros adicionales y las ayudas complementarios pueden actualizarse atendiendo a la evolución de la situación económica general mediante la correspondiente Ley de presupuestos de la Generalidad.»
+7. Se modifica el artículo 21.3 de la Ley 10/1997, que queda redactado del siguiente modo:
+«3. El cómputo total mensual del importe de la prestación económica de la renta mínima de inserción, junto con el importe de las ayudas complementarias que se creen por reglamento, no puede superar el salario mínimo interprofesional.»
+8. Se modifica el artículo 23 de la Ley 10/1997, que queda redactado del siguiente modo:
+«Artículo 23. Pago.
+1. El abono de la prestación económica debe efectuarse una vez acordada la concesión de la prestación, con efecto desde el primer día del mes siguiente al de la fecha de entrada de la solicitud en el correspondiente registro de la Generalidad o de la fecha en que se haya completado toda la documentación necesaria para acreditar la concurrencia de los requisitos. El pago de esta prestación económica debe hacerse por meses vencidos y directamente al titular. No pueden producirse atrasos en el pago superiores a un mes. El pago de los atrasos en ningún caso puede superar el importe de una mensualidad además de la corriente. Excepcionalmente, este pago puede realizarse a la entidad que atienda a la persona destinataria, cuando eso pueda asegurar su finalidad.
+2. El pago tiene una duración máxima de doce mensualidades dentro de un ejercicio presupuestario. Esta duración puede ser prorrogada en las circunstancias que se determinen por reglamento, el cual también debe establecer la duración máxima de la prestación y de las prórrogas, que en ningún caso puede superar sesenta mensualidades de forma acumulada. Se exceptúan de esta limitación los titulares que en el momento de alcanzar esta cifra tengan sesenta años o más, que pueden seguir percibiendo la prestación económica hasta cumplir sesenta y cinco, siempre y cuando continúen reuniendo los demás requisitos.
+Excepcionalmente, y una vez superado el plazo de las sesenta mensualidades, por acuerdo de la Comisión Interdepartamental de la Renta Mínima de Inserción, pueden irse prorrogando anualmente los expedientes que presenten una situación de pobreza severa mediante un informe de evaluación.
+Los titulares de expedientes que han sido extinguidos por haber agotado el período de sesenta mensualidades no pueden solicitar un nuevo expediente hasta que haya transcurrido, como mínimo, un año desde la extinción.»
+9. Se modifica la disposición final tercera de la Ley 10/1997, que queda redactada del siguiente modo:
+«Tercera. El importe máximo destinado a la prestación de la renta mínima de inserción es el que fija anualmente la Ley de presupuestos de la Generalidad. El Gobierno puede habilitar créditos complementarios si lo permite la situación económica financiera de la Generalidad.»
+10. Se añade una nueva disposición transitoria, la segunda, a la Ley 10/1997, con la redacción siguiente:
+«Segunda. De acuerdo con lo establecido por el artículo 23.2, los expedientes de la renta mínima de inserción que en la fecha de aprobación de esta norma continúen abiertos y hayan superado el plazo de sesenta mensualidades pueden continuar percibiendo la prestación por un período máximo de tres años, siempre que cumplan los requisitos, período durante el cual los equipos básicos de atención primaria deben haber efectuado el correspondiente informe de evaluación descrito por el artículo 23.2 para continuar percibiendo la prestación.
+Se exceptúan de esta limitación los expedientes cuyos titulares tengan sesenta años o más en el momento de la entrada en vigor de esta norma.»
+Se derogan los apartados 2 y 3 por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Sección tercera
+
+Sección tercera. Urbanismo
+
+### Artículo 63
+
+Artículo 63. Modificación de la Ley 2/2004.
+Se modifica el apartado 2 del artículo 8 de la Ley 2/2004, del 4 de junio, de mejora de barrios, áreas urbanas y villas que requieren una atención especial, que queda redactado del siguiente modo:
+«2. El reglamento debe establecer que el departamento competente en las materias que son objeto de la presente ley publique, con la periodicidad que permita la disponibilidad de la dotación del Fondo, el inicio del procedimiento, la documentación que los municipios deben presentar junto con la solicitud de participación en el Fondo y los criterios motivados para la evaluación objetiva de las solicitudes que se presenten.»
+
+## CAPÍTULO IV
+
+Régimen jurídico de los centros CERCA y de la ICREA
+(Derogado).
+Se deroga por la disposición derogatoria.a) de la Ley 9/2022, de 21 de diciembre. Ref. BOE-A-2023-467#dd
+
+## Sección primera
+
+Sección primera. Régimen general
+(Derogada).
+Se deroga por la disposición derogatoria.a) de la Ley 9/2022, de 21 de diciembre. Ref. BOE-A-2023-467#dd
+
+### Artículo 64
+
+Artículo 64. Los centros CERCA.
+(Derogado).
+Se deroga por la disposición derogatoria.a) de la Ley 9/2022, de 21 de diciembre. Ref. BOE-A-2023-467#dd
+
+### Artículo 65
+
+Artículo 65. La Institución Catalana de Investigación y Estudios Avanzados.
+(Derogado).
+Se deroga por la disposición derogatoria.a) de la Ley 9/2022, de 21 de diciembre. Ref. BOE-A-2023-467#dd
+
+### Artículo 66
+
+Artículo 66. Normativa aplicable y régimen jurídico de los centros CERCA y de la ICREA.
+(Derogado).
+Se deroga por la disposición derogatoria.a) de la Ley 9/2022, de 21 de diciembre. Ref. BOE-A-2023-467#dd
+
+## Sección segunda
+
+Sección segunda. Los centros CERCA y la ICREA del sector público
+(Derogada).
+Se deroga por la disposición derogatoria.a) de la Ley 9/2022, de 21 de diciembre. Ref. BOE-A-2023-467#dd
+
+### Artículo 67
+
+Artículo 67. Régimen jurídico.
+(Derogado).
+Se deroga por la disposición derogatoria.a) de la Ley 9/2022, de 21 de diciembre. Ref. BOE-A-2023-467#dd
+ Se añade el apartado 7 por el art. 179 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-90
+
+## CAPÍTULO V
+
+Régimen jurídico de las entidades del sector público de la salud
+
+### Artículo 68
+
+Artículo 68. Ámbito subjetivo de aplicación.
+1. Las entidades del sector público de la salud, con personalidad jurídica diferenciada, que gestionan servicios sanitarios por cuenta de la Administración de la Generalidad bajo el régimen de mercado interno regulado, que financian su actividad mayoritariamente con ingresos obtenidos como contraprestación de servicios, y cuyo personal se sujeta a algún convenio colectivo del sector sanitario o propio, se rigen por el principio de autonomía de gestión para la consecución de las finalidades que les son propias.
+2. Las entidades a las que se refiere el apartado 1 se rigen, en su actuación, por los principios de rentabilidad, economía y productividad, con la aplicación de técnicas de gestión empresarial; para el ejercicio de la plena capacidad de decisión en el ámbito de la gestión que tienen encomendada deben desarrollar y aplicar sistemas de información sobre la actividad, los costes y el desarrollo de la gestión clínica, y deben actuar conforme a planes estratégicos.
+3. La gestión encomendada y las capacidades otorgadas se desarrollan de acuerdo con los principios de descentralización y autonomía, eficacia, eficiencia, calidad y satisfacción para los ciudadanos; y de planificación, coordinación y cooperación y de participación y reconocimiento del papel que deben desarrollar los profesionales que prestan sus servicios en estas entidades.
+4. Las entidades a las que se refiere este artículo disfrutan del régimen de autonomía de gestión descrito en el presente capítulo siempre y cuando cumplan el objetivo general presupuestario y adecuen sus actuaciones a sus disponibilidades presupuestarias. Se entiende por objetivo general presupuestario la no desviación en negativo del resultado presupuestario previsto en el presupuesto de la Generalidad.
+
+### Artículo 69
+
+Artículo 69. Régimen general.
+1. Las entidades del sector público de la salud comprendidas en el ámbito subjetivo de aplicación establecido por la presente ley disfrutan de plena autonomía para el desarrollo de sus actividades fundacionales o estatutarias. El régimen de autonomía incluye, en cualquier caso:
+a) La determinación de la estructura y la organización.
+b) La plena capacidad de gestión.
+c) La elaboración, aprobación y gestión de los presupuestos y la administración del patrimonio.
+d) La capacidad para establecer las políticas propias de recursos humanos, sin que sean aplicables al personal contratado por las entidades las normas sobre gastos de personal recogidas en las leyes de la Generalidad, ni la normativa de desarrollo, salvo que especifique expresamente que les son aplicables. Tampoco son aplicables las instrucciones, las restricciones a la contratación, ni otras medidas limitadoras, destinadas específicamente al conjunto del sector público de la Generalidad, sin perjuicio del cumplimiento de la legislación básica del Estado.
+e) La selección y contratación del director o directora por el máximo órgano de gobierno colegiado de la entidad, de acuerdo con lo establecido por los estatutos y las normas de creación.
+f) El régimen de funcionamiento interno.
+g) La aplicación del Plan general de contabilidad establecido por el Real decreto 1514/2007, de 16 de noviembre, o el que lo sustituya, sin perjuicio de seguir los planes parciales que se dicten por razón del desarrollo de dicho real decreto. Además, deben incorporar mecanismos de seguimiento y control de la ejecución de su presupuesto anual, del plan de inversiones anual y de los estados financieros, mediante la aprobación de bases de ejecución del presupuesto y otros instrumentos de gestión presupuestaria.
+h) Cualquier otra función necesaria para garantizar el cumplimiento de sus finalidades y la consecución de sus objetivos.
+2. Para el cumplimiento de sus finalidades, en el marco de la legislación básica y de la normativa del Sistema Europeo de Cuentas Nacionales y Regionales SEC-95, las entidades del sector público de la salud comprendidas en del ámbito subjetivo de aplicación establecido por el artículo 68 disfrutan de autonomía económica y financiera, de acuerdo con sus disponibilidades presupuestarias y los objetivos establecidos en su plan estratégico.
+3. La supervisión y el control sobre la actividad económica, financiera y de gestión de las entidades solo puede llevarse a cabo cuando esta ha sido desarrollada, por el sistema de auditoría externa, con carácter anual, de acuerdo con la normativa vigente, y sin perjuicio de la regulación específica del tipo de personificación jurídica.
+Se modifican las letras d) y g) y se añade la h) al apartado 1 por el art. 216.1 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2014-2999.
+ Incluye la corrección de errores publicada en DOGC núm. 6556, de 6 de febrero de 2014.
+
+### Artículo 70
+
+Artículo 70. Autonomía de las entidades del sector público de la salud.
+Las entidades del sector público de la salud comprendidas dentro del ámbito subjetivo de aplicación establecido por el artículo 68 disfrutan de autonomía para la adopción de las decisiones relativas a la destinación del saldo de la cuenta de resultados del ejercicio presupuestario, del remanente de los ejercicios anteriores y de las disponibilidades líquidas de tesorería.
+
+## CAPÍTULO VI
+
+Entidades culturales
+
+## Sección primera
+
+Sección primera. La Agencia Catalana del Patrimonio Cultural
+
+### Artículo 71
+
+Artículo 71. Creación, naturaleza y régimen jurídico.
+1. Se crea la Agencia Catalana del Patrimonio Cultural, con personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus funciones, adscrita al departamento competente en materia de cultura, como entidad de derecho público de la Generalidad de las reguladas por el artículo 1.b.1 del texto refundido de la Ley 4/1985, de 29 de marzo, del Estatuto de la empresa pública catalana, aprobado por el Decreto legislativo 2/2002, de 24 de diciembre, que ajusta su actividad al derecho privado.
+2. La Agencia Catalana del Patrimonio Cultural se rige por la presente ley, por las disposiciones que la desarrollan, por la Ley del Estatuto de la empresa pública catalana y por el resto de normativa de aplicación.
+
+### Artículo 72
+
+Artículo 72. Objeto y funciones.
+1. La Agencia Catalana del Patrimonio Cultural tiene la misión de gestionar, en relación con el medio urbano y natural que lo acoge, el patrimonio cultural de la Generalidad con criterios de integridad, sostenibilidad y eficiencia, y apoyar al departamento competente en materia de cultura en la realización de actividades programadas para ejecutar las políticas establecidas por la unidad competente en materia de patrimonio cultural. A los efectos de lo establecido por la presente ley, el patrimonio cultural incluye el patrimonio material e inmaterial, mueble e inmueble, documental, bibliográfico y etnológico.
+2. La Agencia Catalana del Patrimonio Cultural gestiona y dinamiza los equipamientos culturales que se le adscriban por decreto, y los siguientes:
+a) El Museo de Arqueología de Cataluña.
+b) El Museo Nacional Arqueológico de Tarragona.
+c) El Museo de la Ciencia y de la Técnica de Cataluña.
+d) El Museo de Historia de Cataluña.
+e) El Museo de Arte de Girona.
+f) El Centro de Restauración de Bienes Muebles.
+3. La Agencia Catalana del Patrimonio Cultural tiene atribuidas las siguientes funciones:
+a) Dinamizar el patrimonio cultural mediante la cooperación entre agentes públicos y privados para mejorar su promoción, conservación y gestión, especialmente estableciendo estrategias de apoyo y colaboración con los entes locales.
+b) Fomentar la vinculación del patrimonio cultural con el desarrollo territorial y paisajístico y con el desarrollo económico, a fin de generar nuevos recursos destinados a la promoción y conservación de dicho patrimonio.
+c) Fomentar el uso del patrimonio cultural y de los equipamientos, prestando especial atención a la educación y al turismo cultural; mejorar su vinculación con la comunidad y su internacionalización, y fomentar las prácticas asociadas a la conservación y divulgación de dicho patrimonio.
+c bis) (Derogada).
+c ter) (Derogada).
+d) Prestar servicios de restauración, conservación, rehabilitación, excavación arqueológica, mejora de la calidad y valorización de bienes culturales y de divulgación y de información en materia de patrimonio cultural.
+e) Promover, impulsar y desarrollar la formación, la investigación y la transferencia de conocimiento en todos los ámbitos del patrimonio cultural y la incorporación de las tecnologías de la información y la comunicación a la gestión y la información en materia de patrimonio cultural.
+f) Gestionar la red de monumentos de titularidad de la Generalidad y los equipamientos patrimoniales adscritos al departamento competente en materia de cultura.
+g) Facilitar la participación de la ciudadanía en la gestión y promoción del patrimonio cultural incluyendo en este ámbito el fomento del patrocinio, del mecenazgo y del voluntariado.
+h) Realizar estudios estructurales y prospecciones sobre el patrimonio cultural y su impacto social, cultural y económico.
+Se derogan las letras c) bis y c) ter por la disposición derogatoria 1.3 a) de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd
+ Se modifica el apartado 3.e) por el art. 68.1 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Se modifican las letras a), b) y c) y se añaden c bis) y ter) al apartado 3 por los arts. 146 y 147 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 73
+
+Artículo 73. Órganos de gobierno.
+Son órganos de gobierno de la Agencia Catalana del Patrimonio Cultural:
+a) El Consejo de Administración.
+b) La dirección.
+Se modifica por el art. 148 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 73 bis
+
+Artículo 73 bis. Consejo de Administración.
+1. El Consejo de Administración es el órgano superior colegiado de gobierno, dirección y control de la Agencia Catalana del Patrimonio Cultural.
+2. Son miembros del Consejo de Administración de la Agencia Catalana del Patrimonio Cultural:
+a) El presidente o presidenta.
+b) El vicepresidente o vicepresidenta.
+c) Once vocales.
+d) El secretario o secretaria, designado a propuesta del presidente o presidenta.
+3. El presidente o presidenta del Consejo de Administración de la Agencia Catalana del Patrimonio Cultural es el consejero o consejera del departamento competente en materia de cultura.
+4. El vicepresidente o vicepresidenta del Consejo de Administración de la Agencia Catalana del Patrimonio Cultural es la persona titular de la unidad competente en materia de patrimonio cultural, salvo que esta persona sea el director o directora de la Agencia. En este caso el vicepresidente o vicepresidenta es el secretario o secretaria general del departamento competente en materia de cultura.
+5. El consejero o consejera del departamento competente en materia de cultura nombra a los vocales del Consejo de Administración de la Agencia Catalana del Patrimonio Cultural, con la siguiente distribución: seis en representación de distintos departamentos de la Generalidad, dos en representación de las organizaciones asociativas de entes locales y tres en representación de los sectores profesionales, académicos y universitarios relacionados con el patrimonio cultural.
+Se modifican los apartados 2.c) y 5 por el art. 216.2 y 3 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2014-2999.
+ Incluye la corrección de errores publicada en DOGC núm. 6556, de 6 de febrero de 2014.
+ Se añade por el art. 149 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 73 ter
+
+Artículo 73 ter. Funciones del Consejo de Administración.
+1. El Consejo de Administración tiene las más amplias facultades con relación al gobierno, la dirección y el control de la Agencia Catalana del Patrimonio Cultural.
+2. Corresponden al Consejo de Administración de la Agencia Catalana del Patrimonio Cultural las siguientes funciones:
+a) Aprobar el anteproyecto de programa de actuación, de inversiones y de financiación, y el presupuesto de explotación y de capital.
+b) Aprobar la propuesta de contrato programa entre la Agencia y el departamento competente en materia de cultura, así como su actualización.
+c) Aprobar las cuentas anuales y la liquidación final de los presupuestos del ejercicio y la memoria de actividades.
+d) Nombrar a los directores de los equipamientos gestionados por la Agencia que no tengan la categoría de museos nacionales y elevar la propuesta de nombramiento de los directores de los museos nacionales, una vez aprobada, al consejero o consejera del departamento competente en materia de cultura, a propuesta de la Junta de Museos de Cataluña, presentada por el órgano de gobierno del museo nacional o por el órgano de selección determinado por el correspondiente concurso público.
+e) Supervisar la gestión del director o directora.
+f) Aprobar la plantilla y el régimen retributivo del personal.
+g) Autorizar la constitución de órganos, organismos o entidades de carácter público o privado, cualquiera que sea su naturaleza jurídica, o autorizar que la Agencia participe en ellos.
+g bis) Proponer al departamento competente en materia de cultura, la tramitación de los expedientes de gasto de alcance plurianual.
+h) Las demás que le otorguen los estatutos.
+Se añade la letra g bis) al apartado 2 por el art. 68.2 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Se añade por el art. 150 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 73 quáter
+
+Artículo 73 quáter. Estructura y régimen de los equipamientos gestionados por la Agencia Catalana del Patrimonio Cultural.
+1. Los equipamientos gestionados por la Agencia Catalana del Patrimonio Cultural gozan de un régimen de gestión desconcentrada que incluye la gestión técnica y la gestión económica. Las características de este régimen y la relación de los equipamientos con la Agencia deben establecerse por reglamento.
+2. Los equipamientos gestionados por la Agencia Catalana del Patrimonio Cultural disponen de una dirección determinada por un proceso de selección público con criterios de profesionalidad, transparencia, méritos y capacidad.
+3. Los equipamientos gestionados por la Agencia Catalana del Patrimonio Cultural que, de acuerdo con la Ley 17/1990, de 2 de noviembre, de museos, tienen la categoría de museos nacionales gozan de singularidad propia y disponen, en el seno de la Agencia, de la máxima capacidad para proyectarse autónomamente, sin perjuicio de los servicios que la Agencia asuma de acuerdo con el contrato programa.
+4. Los equipamientos gestionados por la Agencia Catalana del Patrimonio Cultural que, de acuerdo con la Ley 17/1990, tienen la categoría de museos nacionales son regidos por un órgano de gobierno propio presidido por el director o directora de la Agencia, con una composición que deben determinar los estatutos de esta y que, en todo caso, debe incluir a representantes de los sectores profesionales, académicos y universitarios relacionados con la temática del museo y a representantes de los territorios donde el museo mantenga sedes o secciones.
+5. Los equipamientos gestionados por la Agencia Catalana del Patrimonio Cultural que no tienen la categoría de museos nacionales pueden disponer de un consejo asesor, de acuerdo con lo que establezcan los estatutos de la Agencia, que debe incluir a representantes de los sectores profesionales, académicos y universitarios relacionados con el centro y a representantes del territorio donde este está ubicado.
+Se añade por el art. 151 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 73 quinquies
+
+Artículo 73 quinquies. Estatutos de la Agencia Catalana del Patrimonio Cultural.
+Corresponde al Gobierno aprobar, mediante decreto, los estatutos de la Agencia Catalana del Patrimonio Cultural, los cuales deben determinar el régimen de funcionamiento de los órganos de gobierno, la estructura de los equipamientos gestionados y su régimen de gestión.
+Se añade por el art. 152 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 74
+
+Artículo 74. Contrato programa.
+El departamento competente en materia de cultura y la Agencia Catalana del Patrimonio Cultural deben establecer un contrato programa que incluya, como mínimo, la definición anual de los objetivos que deben alcanzarse, la previsión de resultados que hay que obtener y los instrumentos de seguimiento y control y de evaluación a los que la actividad de la entidad debe someterse durante la vigencia del contrato.
+
+### Artículo 75
+
+Artículo 75. Régimen económico y financiero.
+1. La Agencia Catalana del Patrimonio Cultural disfruta de plena autonomía financiera.
+2. Los recursos económicos de la Agencia Catalana del Patrimonio Cultural están constituidos por:
+a) Las dotaciones que se consignen en los presupuestos de la Generalidad.
+b) Los ingresos de derecho público y derecho privado derivados de la prestación de sus servicios.
+c) Las subvenciones, donaciones, herencias, legados y cualquier otra aportación que le concedan personas o entidades públicas y privadas.
+d) Las rentas, frutos, intereses y productos de su patrimonio.
+e) Cualquier otro recurso que la ley permita.
+3. El presupuesto de la Agencia Catalana del Patrimonio Cultural es anual y único, y debe sujetarse al régimen presupuestario establecido por el texto refundido de la Ley del Estatuto de la empresa pública catalana, aprobado por el Decreto legislativo 2/2002, de 24 de diciembre.
+4. La Agencia Catalana del Patrimonio Cultural disfruta de las exenciones y beneficios fiscales que corresponden a la Generalidad.
+
+### Artículo 76
+
+Artículo 76. Régimen de personal.
+1. El personal de la Agencia Catalana del Patrimonio Cultural se rige por el derecho laboral, sin perjuicio de la adscripción de personal funcionario para el ejercicio de potestades administrativas y de las funciones propias de los cuerpos técnicos, de acuerdo con lo establecido por el apartado 3 de la disposición adicional decimosexta.
+2. Los puestos de trabajo de la Agencia Catalana del Patrimonio Cultural, incluidos los directivos, deben cubrirse mediante procesos de selección públicos, con criterios de profesionalidad, transparencia, méritos y capacidad, sin perjuicio de lo establecido por el apartado 1.
+3. El director o directora de los equipamientos culturales adscritos a la Agencia Catalana del Patrimonio Cultural a que hacen referencia las letras a), b), c), d) y e) del artículo 72.2 se vinculan al ente en virtud de un contrato laboral de alta dirección.
+Se añade el apartado 3 por el art. 124 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Se modifica por el art. 153 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 77
+
+Artículo 77. Régimen de control.
+1. El control de carácter financiero de la Agencia Catalana del Patrimonio Cultural se lleva a cabo de acuerdo con lo dispuesto por el artículo 71 del texto refundido de la Ley de finanzas públicas de Cataluña, aprobado por el Decreto legislativo 3/2002, de 24 de diciembre.
+2. La Agencia Catalana del Patrimonio Cultural aprueba anualmente una memoria de actividades realizadas durante el ejercicio que la presidencia del Consejo de Administración entrega al Gobierno y al Parlamento.
+
+## Sección segunda
+
+Sección segunda. Oficina de Apoyo a la Iniciativa Cultural
+
+### Artículo 78
+
+Artículo 78. Naturaleza, régimen jurídico y objeto.
+1. La Oficina de Apoyo a la Iniciativa Cultural, adscrita al departamento competente en materia de cultura, es una entidad de derecho público, con personalidad jurídica propia, de las reguladas por el artículo 1.b.1 del texto refundido de la Ley 4/1985, de 29 de marzo, del Estatuto de la empresa pública catalana, aprobado por el Decreto legislativo 2/2002, de 24 de diciembre, que debe ajustar su actividad al derecho privado, sin perjuicio de los ámbitos en los que, según la legislación vigente, debe someterse al derecho público.
+2. La Oficina de Apoyo a la Iniciativa Cultural tiene como objeto concentrar las iniciativas de apoyo y fomento del departamento competente en materia de cultura y de las entidades adscritas. Se excluyen las siguientes iniciativas:
+a) Las que sean competencia del Instituto Catalán de las Empresas Culturales.
+b) Las aportaciones y las subvenciones a las entidades participadas por la Generalidad con cargo a partidas nominativas.
+c) Los premios competencia del departamento competente en materia de cultura.
+Se modifica el apartado 2 por el art. 1 de la Ley 8/2019, de 28 de noviembre. Ref. BOE-A-2019-17794
+ Se modifica el apartado 2 por el art. 68.3 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+
+### Artículo 79
+
+Artículo 79. Funciones.
+Corresponden a la Oficina de Apoyo a la Iniciativa Cultural las siguientes funciones:
+a) Aprobar las bases reguladoras y las convocatorias de ayudas en materia cultural, a propuesta del departamento al que está adscrita o de las entidades competentes por razón de la materia.
+b) Tramitar y resolver los procedimientos de concesión de ayudas en materia cultural.
+Se modifica por el art. 78 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 80
+
+Artículo 80. Órganos de gobierno.
+Son órganos de gobierno de la Oficina de Apoyo a la Iniciativa Cultural:
+a) El Consejo de Administración.
+b) El administrador o administradora.
+
+### Artículo 81
+
+Artículo 81. Consejo de Administración.
+1. El Consejo de Administración es el órgano superior colegiado de gobierno, dirección y control de la Oficina de Apoyo a la Iniciativa Cultural. Está formado por la presidencia, las vocalías y la secretaría.
+2. Corresponde al Consejo de Administración:
+a) Aprobar las bases reguladoras y las convocatorias de ayudas, y otorgar las ayudas.
+b) Aprobar el anteproyecto de programa de actuación, de inversiones y de financiación, el presupuesto de explotación y de capital, las cuentas anuales, la liquidación final de los presupuestos del ejercicio y la memoria de actividades.
+c) Nombrar el administrador o administradora y supervisar su gestión.
+d) Aprobar la plantilla y el régimen retributivo del personal.
+e) Aprobar los precios de los servicios que preste la Oficina.
+f) Establecer convenios con entidades públicas y privadas para alcanzar los objetivos de la Oficina.
+g) El resto de atribuciones que le otorguen los estatutos.
+Se modifica el apartado 2.a) por el art. 79 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 82
+
+Artículo 82. La Administración.
+El administrador o administradora es nombrado por el Consejo de Administración. Le corresponde el ejercicio de las funciones necesarias para la dirección de la administración de la Oficina y las que le delegue el Consejo de Administración, de acuerdo con lo que determinen los estatutos de la Oficina.
+
+### Artículo 83
+
+Artículo 83. Régimen económico y financiero.
+1. La Oficina de Apoyo a la Iniciativa Cultural disfruta de plena autonomía financiera.
+2. Los recursos económicos de la Oficina están constituidos por:
+a) Las dotaciones que se consignen en los presupuestos de la Generalidad.
+b) Los ingresos de derecho público y derecho privado derivados de la prestación de sus servicios, las rentas, frutos, intereses y productos de su patrimonio.
+c) Las subvenciones, donaciones, herencias, legados y cualquier otra aportación que le concedan personas o entidades públicas y privadas.
+d) Cualquier otro recurso que la ley permita.
+3. El presupuesto de la Oficina de Apoyo a la Iniciativa Cultural es anual y único, y debe sujetarse al régimen presupuestario establecido por el texto refundido de la Ley del Estatuto de la empresa pública catalana, aprobado por el Decreto legislativo 2/2002, de 24 de diciembre.
+4. La Oficina de Apoyo a la Iniciativa Cultural disfruta de las exenciones y beneficios fiscales que corresponden a la Generalidad.
+
+### Artículo 84
+
+Artículo 84. Régimen de personal.
+El personal de la Oficina de Apoyo a la Iniciativa Cultural se rige por el derecho laboral, salvo en los casos en que, para ejercer potestades públicas, sea necesaria una vinculación funcionarial.
+
+### Artículo 85
+
+Artículo 85. Régimen de control.
+El control financiero de la Oficina de Apoyo a la Iniciativa Cultural se lleva a cabo mediante el procedimiento de auditoría establecido por el artículo 71 del texto refundido de la Ley de finanzas públicas de Cataluña, aprobado por el Decreto legislativo 3/2002, de 24 de diciembre.
+
+## CAPÍTULO VII
+
+Estabilidad presupuestaria
+
+### Artículo 86
+
+Artículo 86. Estabilidad presupuestaria.
+1. El Gobierno debe orientar la formulación de sus presupuestos en un horizonte de estabilidad presupuestaria, que debe alcanzarse a lo largo de la legislatura en la que entra en vigor la presente ley, con el objetivo de contar con unas finanzas públicas fundamentadas sólidamente en el equilibrio presupuestario.
+2. En el ejercicio presupuestario correspondiente al 2011, el Gobierno debe corregir la tendencia de incremento del déficit con el objetivo de reducirlo de modo significativo.
+3. En los ejercicios posteriores al del 2011, el Gobierno debe orientarse a alcanzar progresivamente la estabilidad, empezando por el cumplimiento del objetivo de déficit del Consejo de Política Fiscal y Financiera para el 2012. Esta orientación exige disponer de unos fundamentos de suficiencia en los ingresos y de la corresponsabilidad por parte de la Administración general del Estado.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Canon sobre la deposición controlada de los residuos.
+(Derogada).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Compromisos de gasto.
+1. Corresponde al secretario o secretaria general del Departamento de Enseñanza la autorización y modificación de compromisos de gasto con cargo a presupuestos de ejercicios futuros de alcance de un curso escolar, siempre que el importe de la anualidad futura no supere los 150.000 euros.
+2. La autorización a la que se refiere el apartado 1 se limita al hecho de que los gastos comprometidos totales, incluidos los que hayan sido autorizados por el Gobierno, para la primera anualidad futura no superen el 67% del importe del crédito de la partida afectada correspondiente al presupuesto vigente en el momento de la autorización.
+3. Los compromisos de gasto a cargo de ejercicios futuros que se autoricen o modifiquen de acuerdo con los apartados 1 y 2 no son efectivos hasta que se comunican al departamento competente en materia de economía y finanzas, de acuerdo con el procedimiento que este departamento determine, y se integran en la base de datos corporativa de compromisos con cargo a ejercicios futuros gestionada por la Dirección General de Presupuestos.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Régimen de autonomía económica de las oficinas de turismo de la Generalidad.
+1. Se faculta al Gobierno para establecer que la unidad administrativa dependiente del departamento competente en materia de turismo que intervenga en la administración y comercialización de productos y servicios turísticos de las oficinas de turismo de la Generalidad tenga régimen de autonomía económica.
+2. El régimen de autonomía económica a la que se refiere el apartado 1 tiene por objeto gestionar todos los ingresos provenientes de la venta y comercialización de los productos y servicios turísticos que llevan a cabo las oficinas de turismo de la Generalidad y los gastos derivados de sus funciones. En ningún caso se pueden efectuar gastos de personal o de inversión.
+3. El órgano responsable de la gestión del régimen de autonomía económica al que se refiere el apartado 1 debe presentar anualmente al departamento competente en materia de turismo la justificación de los ingresos y la cuenta de gestión económica. Asimismo, debe presentar los estados contables de liquidación a la Intervención General en el plazo y el formato que esta determine. Si es necesario, debe utilizar el programa informático de contabilidad que el departamento competente en materia de economía facilita a los centros en régimen de autonomía económica.
+4. El régimen de autonomía económica de las oficinas de turismo de la Generalidad debe desarrollarse por reglamento.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Recursos contractuales de Cataluña. Creación del órgano Administrativo de Recursos Contractuales de Cataluña.
+1. Se crea el Órgano Administrativo de Recursos Contractuales de Cataluña. Este órgano tiene naturaleza de órgano administrativo especializado que actúa con plena independencia funcional en el ejercicio de sus competencias.
+2. El Órgano Administrativo de Recursos Contractuales de Cataluña ejerce sus funciones en el ámbito de la Administración de la Generalidad, de las entidades y los organismos que forman parte de su sector público que tienen la consideración de poderes adjudicadores, de las administraciones locales integradas en su territorio, así como de las entidades y organismos de la Administración local que tienen la consideración de poderes adjudicadores.
+3. El Parlamento de Cataluña y las instituciones y entidades que dependen del mismo, así como las demás instituciones y entidades de la Generalidad creadas por el Estatuto de autonomía, pueden atribuir la competencia para resolver los recursos y reclamaciones al órgano Administrativo de Recursos Contractuales de Cataluña mediante la formalización del convenio correspondiente.
+4. El Órgano Administrativo de Recursos Contractuales de Cataluña tiene competencia material sobre los siguientes actos:
+a) Resolver los recursos especiales en materia de contratación interpuestos contra los actos relacionados en el artículo 40 del texto refundido de la Ley de contratos del sector público, aprobado por el Real decreto legislativo 3/2011, de 14 de noviembre, cuando se refieran a los tipos de contratos y actos especificados por el mismo artículo y no se trate de procedimientos de adjudicación que se sigan por el trámite de emergencia.
+b) Decidir sobre la adopción de medidas provisionales que han solicitado las personas que señala el artículo 312 de la Ley 30/2007 con anterioridad a la interposición del recurso especial en materia de contratación.
+c) Resolver las cuestiones de nulidad basadas en los supuestos especiales de nulidad contractual establecidos en el artículo 37 de la Ley 30/2007.
+d) Resolver las reclamaciones en los procedimientos de adjudicación de los contratos, las medidas provisionales y de la cuestión de nulidad a que se refieren los artículos 101, 103, 109, 110 y 111 de la Ley del Estado 31/2007, de 30 de octubre, sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales.
+5. El Órgano Administrativo de Recursos Contractuales de Cataluña ejerce sus funciones con plena independencia y se adscribe al departamento al que esté adscrito el órgano competente en materia de evaluación y supervisión de la contratación pública sin integrarse en la estructura jerárquica de la Administración.
+6. El Órgano Administrativo de Recursos Contractuales de Cataluña tiene la sede en el mismo lugar donde haya los órganos centrales del departamento mencionado en el apartado 5, si bien el Gobierno puede decidir su traslado en el caso de que se considere necesario para su correcto funcionamiento.
+7. El Órgano Administrativo de Recursos Contractuales de Cataluña debe ejercer sus funciones con objetividad e imparcialidad, sin estar sujeto a ningún vínculo jerárquico ni a instrucciones de ningún tipo de los órganos de las administraciones públicas afectadas.
+8. La interposición, tramitación y resolución de los recursos contractuales y de los actos a los que se extiende la competencia del Órgano debe hacerse según el procedimiento establecido por la normativa sobre contratación del sector público. En concreto, debe desarrollarse de acuerdo con los siguientes preceptos:
+a) Los artículos 310 a 319 de la Ley 30/2007, con las especialidades señaladas por el artículo 39 de la misma ley en cuanto a la cuestión de nulidad.
+b) Los artículos 101 a 108 de la Ley 31/2007, con las especialidades señaladas por el artículo 111 de la misma ley en cuanto a la cuestión de nulidad.
+En todo cuanto no está previsto en los preceptos mencionados anteriormente, y de acuerdo con lo dispuesto por los artículos 105 y 316 de la Ley 30/2007, se aplica supletoriamente la Ley del Estado 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, y la Ley 26/2010, de 3 de agosto, de régimen jurídico y de procedimiento de las administraciones públicas de Cataluña.
+9. El Órgano Administrativo de Recursos Contractuales de Cataluña se crea inicialmente con carácter unipersonal.
+10. Para ser designado titular del órgano unipersonal son necesarios los siguientes requisitos:
+a) Ser funcionario o funcionaria de carrera de los cuerpos o escalas del grupo A1, habiendo desarrollado la actividad profesional por un tiempo superior a quince años, preferentemente en el ámbito del derecho administrativo relacionado directamente con la contratación pública.
+b) Tener la licenciatura en derecho.
+c) Disponer de una competencia profesional acreditada en las materias propias del Órgano.
+11. La provisión del lugar de titular del órgano Administrativo de Recursos Contractuales de Cataluña debe ajustarse a los principios de igualdad, publicidad, mérito y capacidad. El proceso de selección y designación se inicia con la correspondiente convocatoria pública, en el que pueden participar los funcionarios de carrera que reúnan los requisitos y condiciones establecidos.
+Los aspirantes deben incluir en la solicitud el currículum, en el que debe constar la titulación académica y la pertenencia a los cuerpos o a las escalas exigidos, los años de servicios prestados, los puestos de trabajo desarrollados en las administraciones públicas con indicación de las características de cada lugar y de los niveles, y todos los méritos que consideren adecuados, especialmente para acreditar de forma fehaciente la experiencia y la dedicación en el ámbito del derecho público relacionado con la contratación pública.
+12. El estatuto personal del Órgano Administrativo de Recursos Contractuales de Cataluña es el siguiente:
+a) Es designado por el titular o la titular del Departamento de la Presidencia. La resolución de nombramiento debe publicarse en el Diari Oficial de la Generalitat de Catalunya.
+b) Está sujeto al mismo régimen de incompatibilidades que el correspondiente a los altos cargos de la Generalidad.
+c) Las retribuciones que debe percibir se asimilan a las correspondientes al personal funcionario de la Administración de la Generalidad.
+d) El nombramiento da lugar a la declaración de la situación administrativa de servicios especiales.
+e) Es inamovible y su mandato tiene una duración de cinco años, a contar desde la toma de posesión, que debe tener lugar una vez publicado el nombramiento. El titular o la titular del Órgano puede ser reelegido por períodos sucesivos de la misma duración sin necesidad de realizar un proceso de selección nuevo.
+La resolución de nombramiento debe establecer, de acuerdo con lo establecido por el apartado anterior, las retribuciones y el régimen jurídico del Órgano, y debe determinar las condiciones para sustituir al titular o la titular, en los supuestos de vacante, ausencia o enfermedad, en los términos del artículo 45 de la Ley 13/1989, de 14 de septiembre, de organización, procedimiento y régimen jurídico de la Administración de la Generalidad de Cataluña.
+La persona que lo sustituya debe reunir los mismos requisitos exigidos para la persona titular del Órgano y debe ejercer sus funciones en las mismas condiciones.
+La persona titular del Órgano ejerce sus funciones con la denominación de director o directora del Órgano Administrativo de Recursos Contractuales de Cataluña.
+13. La persona titular del órgano Administrativo de Recursos Contractuales de Cataluña tiene carácter inamovible, si bien puede ser removida o producirse su cese por alguna de las siguientes causas:
+a) Defunción.
+b) Finalización del mandato.
+c) Renuncia formalizada por escrito y aceptada por el titular o la titular del Departamento de la Presidencia.
+d) Pérdida de la condición de funcionario o funcionaria.
+e) Incumplimiento grave de sus obligaciones.
+f) Condena, por sentencia firme, a pena privativa de libertad o de inhabilitación absoluta o especial para ocupaciones o cargos públicos.
+g) Incapacidad sobrevenida para el ejercicio del cargo.
+h) Pérdida de la nacionalidad.
+La remoción por las causas previstas en las letras d, e, f, g y h es acordada por el titular o la titular del Departamento de la Presidencia una vez efectuada la instrucción del expediente correspondiente con audiencia a la persona interesada.
+El cese o la remoción se produce cuando se da la circunstancia o cuando tiene efectos el acto que la determina, y debe publicarse en el «Diario Oficial de la Generalidad de Cataluña».
+14. La Administración de la Generalidad debe garantizar la disponibilidad de los medios personales y materiales necesarios para que el Órgano Administrativo de Recursos Contractuales de Cataluña lleve a cabo sus funciones adecuadamente.
+15. El Órgano Administrativo de Recursos Contractuales de Cataluña inicia la actividad el día de la publicación del nombramiento del titular o la titular y una vez ha tomado posesión del cargo.
+16. Se autoriza al Gobierno de la Generalidad a establecer las disposiciones reglamentarias necesarias para el funcionamiento correcto del Órgano Administrativo de Recursos Contractuales de Cataluña, en el marco de la normativa básica que rige esta materia y de acuerdo con esta disposición.
+17. Si el volumen y la especificidad de los asuntos que son competencia del Órgano Administrativo de Recursos Contractuales de Cataluña aconsejan la modificación del carácter unipersonal, según el contenido de la propuesta motivada que debe efectuar el órgano competente que tenga atribuidas las competencias de supervisión y evaluación de la contratación pública, fundamentada en la evolución creciente que haya podido experimentar el número total de recursos presentados, el de recursos derivados de actos de poderes adjudicadores ajenos a la Administración de la Generalidad y de su sector público, o de los demás actos a los que se extiende su competencia, el órgano puede ser transformado en un órgano colegiado con la denominación de Tribunal Catalán de Contratos del Sector Público mediante un decreto del Gobierno y debe ajustarse a lo siguiente:
+a) El Tribunal debe estar formado por un presidente o presidenta y un mínimo de dos vocales, que pueden incrementarse por reglamento en el caso de que el volumen de asuntos sometidos a su conocimiento lo aconseje por causas debidamente acreditadas.
+b) El titular o la titular del Órgano Administrativo de Recursos Contractuales de Cataluña debe pasar a ocupar el cargo de presidente o presidenta del Tribunal durante el tiempo que le reste de mandato desde el momento de su incorporación.
+c) En el procedimiento de nombramiento de los miembros del Tribunal debe garantizarse la presencia de, como mínimo, un vocal o una vocal designado a propuesta conjunta de la Asociación Catalana de Municipios y la Federación de Municipios de Cataluña.
+d) El estatuto personal, los requisitos y la duración de los nombramientos y los supuestos de cese o remoción del presidente o presidenta y de las vocalías del Tribunal Catalán de Contratos del Sector Público tienen que ser los mismos que establecen los apartados 10, 11, 12 y 13 de esta disposición para el órgano unipersonal. En el caso de las personas vocales del Tribunal Catalán de Contratos del Sector Público, la experiencia mínima requerida será de diez años en el ámbito del derecho administrativo, preferentemente, relacionado con la contratación pública.
+Sin embargo, las retribuciones correspondientes al presidente o presidenta y a los vocales del Tribunal las tiene que fijar el Gobierno de la Generalitat en el marco del sistema retributivo de la Administración de la Generalitat.
+e) El decreto de modificación del órgano unipersonal para convertirse en órgano colegiado debe incluir el reglamento de organización y funcionamiento del Tribunal.
+Se modifica el apartado 17.d) por el art. 17 del Decreto-ley 3/2026, de 24 de marzo. Ref. BOE-A-2026-10430
+ Se modifican los apartados 2, 4.a) y 17 d) por el art. 216.4 a 6 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2014-2999.
+ Incluye la corrección de errores publicada en DOGC núm. 6556, de 6 de febrero de 2014.
+ Se modifica el apartado 12 por el art. 79 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730#a79.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Vivienda con protección oficial concertada.
+Se deja sin efecto la tipología de vivienda con protección oficial concertada de Cataluña que establece el Decreto 13/2010, de 2 de febrero, del Plan para el derecho a la vivienda del 2009-2012, en todas sus modalidades. Los suelos calificados de vivienda con protección oficial que los planes directores de delimitación y ordenación de las áreas residenciales estratégicas vigentes prevén destinar a esta tipología de acuerdo con la disposición adicional quinta del texto refundido de la Ley de urbanismo, aprobado por el Decreto legislativo 1/2010, de 3 de agosto, que la presente ley deroga, pueden destinarse a cualquiera de las tipologías de vivienda con protección oficial.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Autorizaciones en materia de entidades del sector público.
+1. Se autoriza al Gobierno a dictar las disposiciones y tomar los acuerdos legalmente necesarios para que el Instituto Catalán de Finanzas constituya una sociedad mercantil para que actúe como entidad de crédito. El Instituto Catalán de Finanzas, con esta denominación u otra, puede mantener el ejercicio del resto de actividades no ligadas a las estrictamente bancarias, incluida la participación accionarial en otras entidades. Esta autorización faculta al Gobierno, al departamento competente en materia de economía y finanzas y al Instituto Catalán de Finanzas para solicitar cualquier autorización administrativa, dictar normas y adoptar acuerdos en materia de personal, para traspasar a la nueva entidad el activo, con la subrogación correspondiente, y pasivo del Instituto y, en concreto, el vinculado a operaciones crediticias, así como, en general, cualquier otra actuación necesaria para el cumplimiento de lo establecido por esta disposición. La sociedad mercantil que se constituya puede efectuar las actuaciones necesarias para iniciar con plena independencia la actividad como entidad de crédito. Se autoriza al Gobierno para que modifique, por decreto, la denominación del Instituto Catalán de Finanzas.
+2. Se autoriza al Gobierno para que, en el plazo de un año a partir de la entrada en vigor de la presente ley, dicte las normas o tome los acuerdos necesarios para crear un ente dependiente del departamento competente en materia de economía y finanzas que asuma las funciones o la titularidad de las acciones de las sociedades Regs de Catalunya (REGSA), Gestió d’Infraestructures (GISA) y Reg Sistema Segarra-Garrigues (REGSEGA). El ente público puede adoptar la forma establecida por el artículo 1.b1 del texto refundido de la Ley 4/1985, de 29 de marzo, del Estatuto de la empresa pública catalana, aprobado por el Decreto legislativo 2/2002, de 24 de diciembre, y se somete al régimen jurídico establecido por dicha norma. Las funciones del ente son, en los términos que le encomiende el Gobierno o los departamentos de la Generalidad, las de construcción, mantenimiento y eventual explotación de las infraestructuras de la Generalidad, así como la tenencia de acciones de sociedades con este objeto. Alternativamente, se autoriza al Gobierno a atribuir las funciones de las entidades mencionadas a una sociedad mercantil, dependiente del departamento competente en materia de economía y finanzas, sin perjuicio de que algunas de las entidades a las que afecte esta disposición puedan mantener su personalidad jurídica; en este caso, las acciones de las entidades se incorporarán al patrimonio de la sociedad mencionada. A tales efectos, se autoriza expresamente al Gobierno para que acuerde y lleve a cabo el traspaso de los bienes y derechos que constituyen el patrimonio de las entidades que desaparecen o de la titularidad de las acciones de las sociedades que no se disuelvan en el ente público o sociedad mercantil a la que se refiere esta disposición.
+2 bis. Se aplica a la nueva sociedad la normativa específica de las entidades de crédito y, por lo tanto, se somete únicamente a la normativa de carácter básico y a la dictada por los organismos reguladores de la Unión Europea que le sea de aplicación, atendiendo a su especial actividad y naturaleza.
+2 ter. Los actos y operaciones que se deriven y formalicen en ocasión del ejercicio de la aplicación de la ley se declaran exentos de cualquier tributo propio de la Generalidad y gozan, si procede, de una bonificación del 100% en el impuesto sobre transmisiones patrimoniales y actos jurídicos documentados.
+2 quater. (Derogado).
+3. Se autoriza al Gobierno para que el ente o sociedad al que se refiere el apartado 2 pueda asumir total o parcialmente las funciones, los derechos, las obligaciones de todo tipo y el patrimonio afectado a la actividad que se traspase proveniente de la entidad Infraestructuras Ferroviarias de Cataluña. Esta autorización se extiende a los eventuales actos para la transformación, escisión, disolución y liquidación del ente o entidad, o a la adaptación de su norma de creación a las funciones que se le mantienen.
+4. Las actuaciones a las que se refieren los apartados 1, 2 y 3 pueden realizarse mediante cualquier negocio jurídico admitido en derecho, incluida la transformación, de conformidad con lo establecido por el capítulo IV del Libro tercero del Código civil de Cataluña, pueden comportar la sucesión universal del ente o sociedad mercantil a la que se refiere esta disposición en la posición jurídica del resto de entidades afectadas y la transmisión, cesión o adscripción de bienes de cualquier tipo y naturaleza jurídica, con sujeción a la normativa aplicable a cada operación y con la aplicación de todas las exenciones fiscales que puedan ser otorgadas por la Generalidad.
+5. Sin perjuicio de la adscripción establecida por esta disposición, debe garantizarse que los departamentos competentes en materia de territorio y sostenibilidad y en materia de agricultura, ganadería y pesca puedan establecer, junto con el departamento competente en materia de economía y finanzas, líneas de actuación conjunta del ente o sociedad a la que se refiere esta disposición.
+Se deroga el apartado 2 quarter por la disposición derogatoria.d) del Decreto Legislativo 1/2022, de 26 de julio. Ref. BOE-A-2022-13535#dd
+ Se añaden los apartados 2 bis a quáter por el art. 216.9 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2014-2999.
+ Incluye la corrección de errores publicada en DOGC núm. 6556, de 6 de febrero de 2014.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Autorización en materia de factura electrónica.
+Se faculta al consejero o consejera del Departamento de Economía y Conocimiento para que, en el uso de las funciones que tiene atribuidas, pueda regular los procedimientos necesarios para autorizar, justificar y tramitar obligaciones económicas derivadas de actos administrativos generados mediante aplicaciones electrónicas de gestión de expedientes, así como el correspondiente registro contable.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Normativa aplicable a los centros CERCA y a la ICREA del sector público.
+(Derogada).
+Se deroga por la disposición derogatoria.a) de la Ley 9/2022, de 21 de diciembre. Ref. BOE-A-2023-467#dd
+
+### Disposición adicional novena
+
+Disposición adicional novena. Nueva orientación de las funciones y la gestión de las oficinas de acción exterior de la Generalidad.
+1. En la organización y regulación del régimen de la presencia exterior de la Generalidad, el Gobierno debe priorizar dar el máximo nivel de apoyo a las necesidades integrales de internacionalización de la economía y la empresa catalanas, mediante los instrumentos públicos más adecuados, sin perjuicio de la necesaria promoción de Cataluña en el mundo.
+2. El Gobierno debe garantizar el máximo nivel de eficiencia de las oficinas de acción exterior de la Generalidad, y debe coordinarse adecuadamente con las instituciones del Estado de naturaleza y funciones análogas existentes en el ámbito territorial de acción respectivo, con el objetivo de alcanzar un grado elevado de complementariedad en el ejercicio de sus funciones y alcanzar plenamente los objetivos establecidos para dichas oficinas.
+3. El Gobierno debe centrar su actuación en las áreas geográficas de acción exterior que se consideren prioritarias e imprescindibles para la internacionalización de las empresas catalanas. En este sentido, el Gobierno debe aprobar durante el ejercicio del 2011 un plan de reestructuración de la estructura de oficinas de acción exterior de la Generalidad.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Ley de estabilidad presupuestaria de Cataluña.
+(Derogada).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Actuaciones en el ámbito del Departamento de Salud.
+El Gobierno, en el ámbito de actuación del Departamento de Salud, debe impulsar las siguientes medidas:
+a) Poner en marcha planes de reordenación de servicios en el ámbito territorial.
+b) Incentivar la compra agregada de medicamentos.
+c) Revisar el decreto de garantía de listas de espera de acuerdo con criterios clínicos.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Aplicación de la tasa de control e inspección sanitaria en mataderos, salas de troceo y establecimientos de transformación de la caza para el 2011
+(Derogada).
+Se deroga por la disposición derogatoria 2 y el anexo.D).14 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Modificación del Decreto legislativo 1/1993.
+(Derogada).
+Se deroga por la disposición derogatoria.m) de la Ley 18/2017, de 1 de agosto. Ref. BOE-A-2017-11320#dd
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Modificación del Decreto ley 1/2009.
+Se modifica la disposición adicional décima del Decreto ley 1/2009, de 22 de diciembre, de ordenación de equipamientos comerciales, que queda redactada del siguiente modo:
+«Disposición adicional décima.
+1. Los proyectos de nuevos establecimientos comerciales vinculados al centro de alto rendimiento que se desarrollan mediante la modificación puntual del Plan general metropolitano en el Centro de Alto Rendimiento, de Sant Cugat del Vallès (Vallès Occidental), pueden sumar, en conjunto, hasta diez mil metros cuadrados de superficie de venta. Estos proyectos están excluidos del criterio de localización del artículo 9.
+2. El Ayuntamiento de Sant Cugat del Vallès, alternativamente, mediante un acuerdo aprobado por el Pleno, puede trasladar el dimensionamiento establecido por el apartado 1 a otro emplazamiento del municipio, que también queda excluido del criterio de localización establecido por el artículo 9.»
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta. Aplicación normativa a las entidades del sector público de la salud comprendidas en el ámbito subjetivo de aplicación establecido por el artículo 68.
+1. Las entidades del sector público de la salud comprendidas en el ámbito subjetivo de aplicación establecido por el artículo 68 se rigen por el capítulo V del título II, sin perjuicio de la normativa básica de aplicación.
+2. No son aplicables a las entidades del sector público de la salud comprendidas en el ámbito subjetivo de aplicación establecido por el artículo 68 los siguientes preceptos:
+a) Los artículos 90.bis.e, y 94.5, segundo párrafo, del texto refundido de la Ley de finanzas públicas de Cataluña, en cuanto a las transferencias.
+b) El artículo 40 de la Ley 31/2002, de 30 de diciembre, de medidas fiscales y administrativas, mientras no se dicten los planes parciales previstos en el mismo.
+c) El apartado 2 del artículo 331-2 del Libro tercero del Código civil de Cataluña.
+3. No son aplicables a las entidades a las que se refiere el apartado 1 los preceptos que recojan las leyes de la Generalidad que se opongan al régimen de autonomía de gestión establecido en el capítulo V del título II de la presente ley, salvo los casos en que se recoja específicamente.
+Se añade el apartado 3 por el art. 216.7 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2014-2999.
+ Incluye la corrección de errores publicada en DOGC núm. 6556, de 6 de febrero de 2014.
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta. Subrogación de la Agencia Catalana del Patrimonio Cultural.
+1. La Agencia Catalana del Patrimonio Cultural se subroga en la titularidad de los derechos y las obligaciones del Departamento de Cultura o de las entidades que gestionan los equipamientos culturales que se integran en la Agencia en el ámbito de competencias que esta asume.
+2. El personal laboral que en la fecha de constitución de la Agencia Catalana del Patrimonio Cultural preste servicios en el Departamento de Cultura o en las entidades que gestionan los equipamientos culturales que se integran en la Agencia ejerciendo funciones que, de acuerdo con la presente ley, son asumidas por la Agencia, se integran en la Agencia por aplicación del mecanismo de sucesión de empresa.
+3. El personal funcionario de carrera del Cuerpo de Titulación Superior, Patrimonio Artístico, Conservación de Museos y Arqueología, y del Cuerpo de Diplomatura, Biblioteconomía, que en la fecha de constitución de la Agencia Catalana del Patrimonio Cultural preste servicios en el Departamento de Cultura y en las entidades que gestionan los equipamientos culturales ejerciendo funciones que, de acuerdo con la presente ley, son asumidas por la Agencia, se integra en esta según las necesidades del servicio o funcionales, de acuerdo con la relación de puestos de trabajo que se apruebe.
+4. El resto de personal funcionario de carrera se integra en la Agencia Catalana del Patrimonio Cultural según las necesidades del servicio o funcionales, de acuerdo con la relación de puestos de trabajo que se apruebe. Este personal puede optar por ocupar un puesto de trabajo previsto en la plantilla de personal laboral de la Agencia, en el plazo de tres meses a partir de su constitución, y queda en situación de excedencia voluntaria por incompatibilidad en su cuerpo de origen, y se le reconoce la antigüedad. En caso contrario, el puesto de trabajo se declara a extinguir.
+
+### Disposición adicional decimoséptima
+
+Disposición adicional decimoséptima. Personal de la Oficina de Apoyo a la Iniciativa Cultural.
+El personal funcionario y laboral que ocupe puestos de trabajo en el Departamento de Cultura o en las entidades dependientes, o tenga suspendida la relación jurídica con estos organismos por alguna de las causas establecidas por la normativa de aplicación, ejerciendo funciones de tramitación de ayudas, pasa a prestar servicios en la Oficina de Apoyo a la Iniciativa Cultural, según las necesidades de personal de la Oficina y de acuerdo con la relación de puestos de trabajo que se apruebe. El personal laboral se incorpora a la Oficina de acuerdo con lo establecido por el artículo 44 del Estatuto de los trabajadores. El personal funcionario puede optar por ocupar un puesto de trabajo previsto en la plantilla de personal laboral de la Oficina, en el plazo de tres meses a partir de su constitución, y queda en situación de excedencia voluntaria por incompatibilidad en el cuerpo de origen, y se le reconoce la antigüedad. En caso contrario, el puesto de trabajo se declara a extinguir.
+
+### Disposición adicional decimoctava
+
+Disposición adicional decimoctava. Subrogación en los bienes, derechos, obligaciones y personal de la Entidad Autónoma de Difusión Cultural.
+1. Los bienes que en la fecha de entrada en vigor de la presente ley estén adscritos a la Entidad Autónoma de Difusión Cultural pasan a estar adscritos al Departamento de Cultura, sin ninguna variación en la condición jurídica originaria.
+2. El Departamento de Cultura se subroga en las posiciones jurídicas de la Entidad Autónoma de Difusión Cultural en cuanto a los bienes, derechos y obligaciones de todo tipo de los que sea titular, así como en la defensa jurídica de sus intereses legítimos.
+3. El personal funcionario y laboral que ocupe puestos de trabajo en la Entidad Autónoma de Difusión Cultural o tenga suspendida su relación jurídica con este organismo por alguna de las causas establecidas por la normativa aplicable pasa a prestar servicios en el Departamento de Cultura según las necesidades del servicio o funcionales, de acuerdo con la relación de puestos de trabajo.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Instituto Catalán de Finanzas.
+1. La adaptación de la composición de la Comisión de Financiación Agroalimentaria del ICCA, creada por el artículo 61.14, debe realizarse en el plazo de un mes a partir de la entrada en vigor de la presente ley. Mientras no se lleve a cabo esta adaptación, los miembros de la Junta de Gobierno del ICCA ejercerán las funciones que corresponden a la Comisión de Financiación Agroalimentaria mencionada.
+2. El personal laboral que en la fecha de entrada en vigor de la presente ley preste servicios en el Instituto Catalán del Crédito Agrario se integra en el Instituto Catalán de Finanzas por la aplicación del mecanismo de sucesión de empresa establecido por el Estatuto de los trabajadores.
+3. El personal funcionario que en la fecha de entrada en vigor de la presente ley esté ocupando puestos de trabajo en el Instituto Catalán del Crédito Agrario, que tenga reserva de puesto de trabajo o destinación en este instituto o tenga suspendida su relación jurídica con este organismo, se integra en el ICCA del Instituto Catalán de Finanzas según las necesidades de personal de este instituto y de acuerdo con la relación de puestos de trabajo que se apruebe.
+El personal funcionario del Instituto Catalán del Crédito Agrario puede optar, en el plazo de nueve meses a partir de la entrada en vigor de la presente ley, por integrarse como personal laboral del Instituto Catalán de Finanzas y queda en la situación de excedencia voluntaria establecida por el artículo 86.2.c del Decreto legislativo 1/1997, de 31 de octubre, en su cuerpo de origen, y se le reconoce la antigüedad. Al personal que no se integre se le asignará otro puesto de trabajo según los términos establecidos por la normativa de la función pública, artículos 75 y siguientes del texto único de la Ley de la función pública de la Generalidad y artículos 84 y siguientes del Decreto 123/1997, de 13 de mayo. En cualquier caso, se extinguirán los puestos de funcionarios que ocupaban en el Instituto Catalán del Crédito Agrario.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Autorizaciones para la venta no sedentaria anteriores a la entrada en vigor del Decreto legislativo 3/2010.
+(Derogado).
+Se deroga por la disposición derogatoria.m) de la Ley 18/2017, de 1 de agosto. Ref. BOE-A-2017-11320#dd
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Autorizaciones para la venta no sedentaria posteriores a la entrada en vigor del Decreto legislativo 3/2010.
+(Derogado).
+Se deroga por la disposición derogatoria.m) de la Ley 18/2017, de 1 de agosto. Ref. BOE-A-2017-11320#dd
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Constitución de la Agencia Catalana del Patrimonio Cultural y de la Oficina de Apoyo a la Iniciativa Cultural.
+1. Los órganos y entidades afectados por la creación de la Agencia Catalana del Patrimonio Cultural mantienen la adscripción orgánica o la naturaleza jurídica y siguen desarrollando sus funciones hasta la entrada en vigor de los reglamentos que regulen su estructura dentro de la Agencia y el régimen de gestión desconcentrada.
+Se deroga el apartado 2 por la disposición derogatoria. a) de la Ley 8/2019, de 28 de noviembre. Ref. BOE-A-2019-17794
+ Se modifica el apartado 2 por el art. único de la Ley 1/2016, de 8 de junio. Ref. BOE-A-2016-6168.
+ Se modifica el apartado 2 por el art. 216.8 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2014-2999.
+ Incluye la corrección de errores publicada en DOGC núm. 6556, de 6 de febrero de 2014.
+ Se modifica el apartado 2 por el art. 80 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Disposición transitoria cuarta bis
+
+Disposición transitoria cuarta bis. Asunción gradual de funciones por la Agencia Catalana del Patrimonio Cultural.
+(Derogada).
+Se deroga por la disposición derogatoria 1.3 a) de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd
+ Se añade por el art. 68.4 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Tramitación de los procedimientos iniciados a la entrada en vigor de la presente ley en el ámbito de la cultura.
+1. Los procedimientos administrativos que se estén tramitando en el momento de la entrada en vigor de la presente ley, cuya resolución corresponda a los órganos de la Entidad Autónoma de Difusión Cultural, pasan a ser tramitados por los órganos del Departamento de Cultura.
+2. Los procedimientos administrativos relativos a ayudas que el Departamento de Cultura o las entidades adscritas, salvo el Instituto Catalán de las Empresas Culturales, estén tramitando en el momento de la constitución de la Oficina de Apoyo a la Iniciativa Cultural pasan a ser tramitados por la Oficina.
+Se modifica el apartado 2 por el art. 81 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Deducción por inversión en la vivienda habitual adquirida antes del 30 de julio de 2011.
+1. Los contribuyentes que han adquirido la vivienda habitual antes de la entrada en vigor de la presente disposición transitoria, o han satisfecho antes de esta fecha cantidades para la construcción de la vivienda habitual y tengan derecho a la deducción por inversión en la vivienda, se aplican el porcentaje del 9% cuando se encuentren en alguna de las situaciones siguientes:
+a) Tener treinta y dos años o menos en la fecha de devengo del impuesto.
+b) Haber estado en el paro durante ciento ochenta y tres días o más durante el ejercicio.
+c) Tener un grado de discapacidad igual o superior al 65%.
+d) Formar parte de una unidad familiar que incluya por lo menos un hijo en la fecha de devengo del impuesto.
+2. Para poder disfrutar del porcentaje del 9% de deducción, es necesario que la base imponible total, menos el mínimo personal y familiar, en la declaración del impuesto sobre la renta de las personas físicas del contribuyente correspondiente al ejercicio en el que se aplica la deducción no exceda de 30.000 euros. En el caso de tributación conjunta, este límite se computa de modo individual para cada uno de los contribuyentes que tenga derecho a la deducción por haber realizado inversiones en la vivienda habitual durante el ejercicio.
+Se modifica por el art. 142 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-53
+ Se modifica, con efectos de 30 de julio de 2011, por el art. 58 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730#a58.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Se derogan los siguientes preceptos:
+a) El apartado 1.6 del artículo 1 de la Ley 31/2002, de 30 de diciembre, de medidas fiscales y administrativas.
+b) El artículo 36 y los párrafos segundo y tercero del artículo 39 del texto refundido de la Ley 4/1985, de 29 de marzo, del Estatuto de la empresa pública catalana, aprobado por el Decreto legislativo 2/2002, de 24 de diciembre.
+c) La letra b del artículo 53 bis y la letra i del artículo 92.2 del texto refundido de la Ley de finanzas públicas de Cataluña, aprobado por el Decreto legislativo 3/2002, de 24 de diciembre.
+d) La disposición adicional quinta y el apartado 5 de la disposición transitoria tercera del texto refundido de la Ley de urbanismo, aprobado por el Decreto legislativo 1/2010, de 3 de agosto.
+e) Los artículos 7.1.d, 7.3.d, 8.c, 9.2, 9.3 in fine, 11.2.c, el último inciso del artículo 11.4, y los artículos 45 y 46 del Decreto 13/2010, de 2 de febrero, del Plan para el derecho a la vivienda del 2009-2012; y la disposición final 1.2 del Decreto 13/2010, de 2 de febrero, modificada por la disposición adicional segunda del Decreto 68/2010, de 25 de mayo, sobre tramitación y aprobación de los documentos reconocidos del Código técnico de la edificación y del Registro general del Código técnico de la edificación.
+f)(Derogado).
+g) La disposición adicional tercera de la Ley 17/2007, de 21 de diciembre, de medidas fiscales y financieras.
+h) Los artículos 31 y 47 del Decreto legislativo 3/2010, de 5 de octubre, para la adecuación de normas con rango de ley a la Directiva 2006/123/CE del Parlamento y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior.
+i) El apartado 7 del artículo 71 del texto refundido de la legislación en materia de aguas de Cataluña, aprobado por el Decreto legislativo 3/2003, de 4 de noviembre.
+2. Se derogan:
+a) La Ley 8/1981, de 2 de noviembre, que crea la Entidad Autónoma de Organización de Espectáculos y Fiestas.
+b) Los artículos 20.2 y 21; los apartados 3 y 5 de la disposición adicional 2, y los apartados 3 y 4 de la disposición adicional 4, de la Ley 17/1990, de 2 de noviembre, de museos.
+c) El Decreto 150/1991, de 1 de julio, por el que se aprueban los Estatutos del Museo de la Ciencia y de la Técnica de Cataluña.
+d) El Decreto 47/1996, de 6 de febrero, de creación y estructuración del Museo de Historia de Cataluña.
+e) El Decreto 187/2002, de 25 de junio, sobre los órganos de dirección de la Entidad Autónoma de Difusión Cultural.
+f) El Decreto 294/2003, de 2 de diciembre, por el que se aprueban los Estatutos de la Entidad Autónoma Museos de Arqueología.
+g) Las letras f y g del apartado 2 del artículo 27; la letra d del apartado 2 del artículo 35, y los artículos 41, 46, 47, 48 y 49 del Decreto 304/2011, de 29 de marzo, de reestructuración del Departamento de Cultura.
+3. Se deroga la Ley 4/1984, de 24 de febrero, del Instituto Catalán del Crédito Agrario, y el resto de disposiciones reguladoras del Instituto Catalán del Crédito Agrario.
+Se deroga el apartado 1.f) por la disposición derogatoria.d) del Decreto Legislativo 1/2022, de 26 de julio. Ref. BOE-A-2022-13535#dd
+
+### Disposición final primera
+
+Disposición final primera. Habilitación para la regulación del régimen jurídico de los centros CERCA y de la ICREA.
+(Derogada).
+Se deroga por la disposición derogatoria.a) de la Ley 9/2022, de 21 de diciembre. Ref. BOE-A-2023-467#dd
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+1. La presente ley entra en vigor al día siguiente de su publicación el «Diario Oficial de la Generalidad de Cataluña», salvo la modificación del artículo 15 de la Ley 8/2008, de 10 de julio, de financiación de las infraestructuras de gestión de los residuos y de los cánones sobre la disposición del desperdicio de los residuos, establecida por el artículo 2 de la presente ley; y las modificaciones de los apartados 1, 2 y 3 del artículo 69, del apartado 1 del artículo 71, del apartado 1 del artículo 72, del apartado 4 del artículo 74, de las disposiciones adicionales primera, quinta y sexta, del apartado 5 de la disposición adicional novena, y del anexo 6 del texto refundido de la legislación en materia de aguas de Cataluña, aprobado por el Decreto legislativo 3/2003, de 4 de noviembre, que entran en vigor el 1 de octubre de 2011.
+2. A efectos de la plena integración del ICCA en el Instituto Catalán de Finanzas se fija como fecha para la efectiva ejecución de esta integración el 31 de julio de 2011.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 27 de julio de 2011.
+El Presidente de la Generalidad de Cataluña,
+ El Consejero de Economía y Conocimiento,
+ Artur Mas i Gavarró.
+ Andreu Mas-Colell.

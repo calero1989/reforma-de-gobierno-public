@@ -1,0 +1,58 @@
+# Ley 38/1981, de 19 de octubre, relativa a transformación del Organismo autónomo Consejo de Administración de Minas de Almadén y Arrayanes en Sociedad estatal.
+
+- Identificador BOE: `BOE-A-1981-25101`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1981-25101
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren, sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+### Artículo primero
+
+Artículo primero.
+El Ministerio de Hacienda procederá, en el plazo máximo de cuatro meses, a transformar el Organismo Autónomo «Consejo de Administración de Minas de Almadén y Arrayanes» en una Sociedad estatal con capital enteramente público, cifrado y desembolsado en la cuantía que se considere necesaria para un regular desarrollo de las actividades de la misma.
+Esta Sociedad proseguirá, desde su constitución formal, sin solución de continuidad, las actividades del mencionado Organismo Autónomo, subrogándose en todos los derechos y obligaciones del mismo,
+
+### Artículo segundo
+
+Artículo segundo.
+El objeto social de «Minas de Almadén y Arrayanes, S. A», vendrá definido por:
+a) La investigación y explotación de yacimientos minerales y rocas.
+b) La construcción y explotación de plantas metalúrgicas, de concentración y fundición.
+c) La industrialización y comercialización de los productos enumerados en los apartados anteriores, así como de sus derivados residuos y sus productos.
+d) La explotación agrícola, ganadera y forestal de las fincas que en virtud de cualquier título jurídico, válido y legal, administre. La industrialización y comercialización de los recursos y productos obtenidos en ellas.
+e) El establecimiento y la participación en cuantas industrias mercantiles se conciban para la reconversión económica de esta Sociedad, cualquiera que sea el ámbito geográfico en el que se desarrollan sus actividades.
+f) Cualesquiera otras operaciones que estatutariamente se le asignen.
+Se modifica por el art. 126 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+ Se modifica por el art. 129.1 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404
+
+### Artículo tercero
+
+Artículo tercero.
+En el plazo de cuatro meses, a partir de la publicación de la presente Ley, el Gobierno deberá aprobar, a propuesta del Ministerio de Hacienda, un contrato regulador de las relaciones de toda índole entre el Estado, titular de los bienes administrados y la nueva Sociedad administradora, así como un contrato programa de actividades económicas a realizar por la nueva Sociedad.
+
+### DISPOSICIÓN TRANSITORIA
+
+El Ministerio de Hacienda adaptará, en el plazo de cuatro meses a partir de la fecha de publicación en el «Boletín Oficial del Estado» de la presente Ley, el Reglamento de la Dehesa de Castilseras (Real Orden de treinta de mayo de mil novecientos trece), de forma que puedan alcanzarse los fines que se pretende con su inmediata puesta en explotación y sin que se vulneren los derechos individuales adquiridos por los actuales beneficiarios, derechos que, en cualquier caso, serán rescatables mediante pactos con la nueva Sociedad y que tendrán el carácter genérico de derechos a extinguir, sin que puedan devengarse nuevos derechos por personal alguno.
+
+## DISPOSICIONES FINALES
+
+Primera.
+El personal laboral que, como consecuencia de la transformación. queda integrado en la nueva Sociedad, conservará la antigüedad, categoría y retribuciones que le correspondiese en el anterior Organismo Autónomo.
+Los funcionarios públicos del Estado que ocupen puestos de trabajo en las instalaciones que el Organismo tiene en Almadén y que en él tengan establecida su residencia habitual podrán optar por su integración plena, on régimen de derecho laboral, en las plantillas que la Sociedad estructure, sin merma de los derechos económicos que tienen consolidados en su situación actual –en cuyo caso quedarán en la de excedencia en su Cuerpo de origen– o por su reincorporación a las tareas o puestos que les corresponda en el Ministerio o centro a que sean destinados por la autoridad competente, causando baja a todos los efectos, en el servicio al Organismo Autónomo.
+Quedan suprimidas todas las plazas de funcionarios públicos del Estado existentes en el Organismo cuyo desempeño se lleva a cabo en las oficinas del mismo radicadas en Madrid y en Linares (Jaén), así como las de igual clase radicadas en Almadén, que no se transformen en plazas de régimen laboral en virtud de la acción a que se refiere el párrafo precedente.
+Segunda.
+En los Presupuestos Generales del Estado se incluirán anualmente los créditos necesarios para la realización de las inversiones incluidas en el contrato-programa cuya ejecución haya de llevarse a cabo en el correspondiente ejercicio económico.
+Tercera.
+Quedan derogadas todas las disposiciones, de cualquier rango, que se opongan a la presente Ley.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela, Madrid, a diecinueve de octubre de mil novecientos ochenta y uno.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+LEOPOLDO CALVO-SOTELO Y BUSTELO

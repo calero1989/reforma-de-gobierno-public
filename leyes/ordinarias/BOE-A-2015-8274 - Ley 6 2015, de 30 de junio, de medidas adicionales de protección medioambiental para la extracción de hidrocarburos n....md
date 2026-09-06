@@ -1,0 +1,109 @@
+# Ley 6/2015, de 30 de junio, de medidas adicionales de protección medioambiental para la extracción de hidrocarburos no convencionales y la fractura hidráulica o "fracking".
+
+- Identificador BOE: `BOE-A-2015-8274`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2015-8274
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Se hace saber a todos los ciudadanos y ciudadanas de Euskadi que el Parlamento Vasco ha aprobado la siguiente Ley 6/2015, de 30 de junio, de medidas adicionales de protección medioambiental para la extracción de hidrocarburos no convencionales y la fractura hidráulica o ««fracking»»
+EXPOSICIÓN DE MOTIVOS
+El uso de la energía es consustancial a cualquier sociedad humana. Todas las sociedades han dedicado una parte de su tiempo, esfuerzo y recursos a obtener la energía necesaria para su funcionamiento. Si bien tradicionalmente se ha utilizado prioritariamente energía proveniente de recursos renovables (biomasa, viento, agua), la situación ha cambiado mucho en los dos últimos siglos. La utilización masiva de combustibles fósiles a partir de la revolución industrial, primero con el carbón mineral y después con el petróleo y el gas natural, dio paso a una sociedad muy diferente. La gran disponibilidad de estos recursos facilitó un salto cuantitativo sin precedentes históricos en el uso de la energía. Y este importante aumento de utilización de energía ha tenido un correlato de crecimiento en muchos otros aspectos, como en la movilidad o en la capacidad de producción de mercancías y alimentos, por poner unos ejemplos. Una sociedad industrializada como la nuestra requiere enormes cantidades de energía.
+Sin embargo, las fuentes de energía primaria más utilizadas en la actualidad (carbón, petróleo y gas natural) no son recursos renovables, es decir, son fuentes energéticas finitas. Y en algunos casos, como en el petróleo convencional, se puede observar que el cenit o pico de producción ya ha sido alcanzado, como han reconocido diferentes agencias internacionales. Con el resto de combustibles de carácter finito, entre los que también se encuentra el uranio, pasará lo mismo en un breve periodo de tiempo.
+Las empresas dedicadas a la extracción de estos recursos conocen perfectamente esta situación, y ante la evidencia de que los yacimientos tradicionales están llegando a sus límites, buscan combustibles fósiles en yacimientos considerados no convencionales. En este contexto debemos inscribir, por ejemplo, la extracción de carbón a través de la remoción de cimas de montañas, la extracción de petróleo de arenas bituminosas, o la extracción de gas y petróleo a través de técnicas como la fractura hidráulica (««fracking»»).
+Estas técnicas y operaciones, tomadas en su conjunto, tienen unas características comunes:
+– El input energético que requieren es mucho mayor que el de las técnicas convencionales, por lo que la rentabilidad energética resulta sensiblemente inferior.
+– Requieren de una mayor utilización de recursos naturales en las operaciones extractivas.
+– Son técnicas que precisan de una ocupación y utilización de suelo mucho mayor.
+– Y, sobre todo, tienen en común que son técnicas mucho más agresivas con el medio ambiente.
+El resultado de la aplicación de estas técnicas es la generación de gran cantidad de conflictos socioambientales allá donde se implementan.
+El caso del ««fracking»» es paradigmático. La fracturación hidráulica moderna consiste en la inyección de grandes cantidades de fluido a alta presión en el subsuelo, con el propósito de crear una permeabilidad artificial, que libere y permita el acceso a la superficie a hidrocarburos que se hallaban atrapados y diseminados en grandes extensiones de vetas de rocas profundas. Desarrollado tecnológicamente en los años 80 y 90 del siglo pasado, ha propiciado la extracción de gas natural y petróleo no convencional en EEUU y Canadá. No obstante, el gran desarrollo del «fracking» en el primer decenio del siglo XXI ha provocado problemas socioambientales de primer orden. Estudios científicos provenientes de diferentes organismos oficiales, universidades y entidades independientes han demostrado la existencia de importantes problemas asociados a la utilización del «fracking». Problemas que van desde la alta utilización de suelo, agua y otros elementos esenciales, hasta problemas por contaminación tanto de las aguas superficiales y subterráneas como del aire, provocando diversos problemas en la salud humana y animal. A esto se deben añadir otros problemas como la contaminación acústica, problemas derivados del intenso flujo de vehículos pesados o la aparición de actividad sísmica, entre otros.
+A estos problemas, que se producen en el entorno inmediato en el que se desarrolla la fractura hidráulica, debemos añadir el problema del calentamiento global. El «fracking» incide doblemente en esta problemática. Por un lado, provoca grandes emisiones de metano a través de fugas y venteos en el momento de su extracción y, por otra parte, el gas natural que se extrae emite CO2cuando es utilizado como combustible, siendo ambos gases de efecto invernadero.
+El ««fracking»», como apuesta energética estratégica, supone una equivocación evidente, ya que estamos en un momento en el que es urgente destinar los medios, esfuerzos y recursos existentes a realizar una rápida transición hacia un modelo energético con baja huella de carbono.
+Todo lo anteriormente expuesto nos muestra que la apuesta por los recursos no convencionales, en general, y por el «fracking» en particular, supone una amenaza indudable para el medio ambiente ante la que debemos actuar como ya lo han hecho en otros lugares de nuestro entorno. La ley que se pretende impulsar a través de esa iniciativa legislativa popular quiere establecer las medidas necesarias para que los graves riesgos que entraña la técnica del ««fracking»» no sean una realidad en nuestro entorno. Existen principios fundamentales de la acción comunitaria europea en materia de medio ambiente recogidos en el Tratado de Funcionamiento de la Unión Europea (TFUE), como son el principio de acción preventiva y el principio de cautela, que avalan una ley como la presente, que pretende establecer medidas adicionales de protección medioambiental en la Comunidad Autónoma del País Vasco.
+El principio de acción preventiva implica la posibilidad de adoptar medidas de protección del medio ambiente aun antes de que se haya producido la lesión del mismo, siempre que se constate científicamente la existencia de un peligro real de deterioro ambiental.
+Por su parte, el principio de cautela refuerza el principio de acción preventiva, al permitir la actuación en aras de la reducción de los posibles riesgos ambientales, sin necesidad de que exista una plena certeza científica. De manera que, aunque el TFUE exige tener en cuenta los datos científicos y técnicos disponibles (artículo 191.3), su actuación no precisa estar respaldada por unas bases científicas incontrovertidas. De hecho, en su comunicación sobre la utilización del principio de cautela, de 2 de febrero de 2000, la Comisión Europea ha afirmado que este principio se refiere a casos en los que se han identificado riesgos potencialmente peligrosos para el medio ambiente, derivados de un fenómeno, producto o proceso, pero la información científica es insuficiente, incierta o no concluyente, de forma que no puede determinarse con suficiente certeza el riesgo en cuestión.
+La importancia de este principio fue subrayada en el Consejo Europeo de Niza del 7 al 9 de diciembre de 2000, donde se adoptó una resolución sobre el principio de cautela que confirma en líneas generales las orientaciones que respecto a este principio había señalado la Comisión Europea, existiendo además pronunciamientos judiciales, como la sentencia del Tribunal de Justicia de las Comunidades Europeas (C-127/02) de 7 de septiembre de 2004.
+Para dictar esta ley que pretende establecer medidas adicionales de protección medioambiental en la Comunidad Autónoma del País Vasco, la Administración vasca actúa dentro del ámbito de sus competencias recogidas en el Estatuto de Autonomía.
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+Esta Ley tiene por objeto, en el marco de las competencias de la Comunidad Autónoma del País Vasco, establecer medidas adicionales de protección medioambiental para la exploración, investigación y explotación de hidrocarburos.
+
+### Artículo 2
+
+Artículo 2. Conceptos.
+1. Se consideran recursos no convencionales:
+– Los hidrocarburos líquidos o gaseosos que estuvieran atrapados en la roca-madre y cuya permeabilidad sea inferior a 1 millidarcy.
+– Los hidrocarburos gaseosos que estuvieran atrapados en las vetas de carbón o de hulla y que no saldrían sin la acción humana.
+– Los hidratos de metano enterrados en el mar.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado por Sentencia del TC 8/2018, de 25 de enero. Ref. BOE-A-2018-2464
+2. Se considera fractura hidráulica o «fracking» aquella técnica de extracción de hidrocarburos consistente en fracturar hidráulicamente un estrato rocoso, introduciendo, a gran presión, un fluido de fractura de baja fricción al que se añaden una serie de agentes químicos.
+Se declara inconstitucional y nulo el inciso destacado por Sentencia del TC 8/2018, de 25 de enero. Ref. BOE-A-2018-2464
+ Se levanta la suspensión de la vigencia y aplicación por Auto del TC de 6 de octubre de 2016. Ref. BOE-A-2016-9237
+ Se suspende la vigencia y aplicación del inciso destacado del apartado 1 desde el 11 de abril de 2016 para las partes del proceso y desde el 5 de mayo de 2016 para los terceros, por Providencia del TC de 26 de abril de 2016, por la que se admite el recurso de inconstitucionalidad 1941/2016. Ref. BOE-A-2016-4311
+
+### Artículo 3
+
+Artículo 3.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 8/2018, de 25 de enero. Ref. BOE-A-2018-2464
+ Se levanta la suspensión de la vigencia y aplicación por Auto del TC de 6 de octubre de 2016. Ref. BOE-A-2016-9237
+ Se suspende la vigencia y aplicación desde el 11 de abril de 2016 para las partes del proceso y desde el 5 de mayo de 2016 para los terceros, por Providencia del TC de 26 de abril de 2016, por la que se admite el recurso de inconstitucionalidad 1941/2016. Ref. BOE-A-2016-4311
+
+### Artículo 4
+
+Artículo 4.
+En general, cualquier plan, programa o estrategia sectorial que contemple la fractura hidráulica para la explotación de hidrocarburos, especialmente la estrategia energética vasca, deberá contar con una evaluación medioambiental estratégica.
+
+### Artículo 5
+
+Artículo 5.
+Se añade un nuevo párrafo al artículo 29.1 de la Ley 1/2006, de Aguas.
+«En este sentido, queda prohibido el uso de la técnica de la fractura hidráulica para la explotación de hidrocarburos en aquellos espacios clasificados como de riesgo de vulnerabilidad media, alta o muy alta en el mapa de vulnerabilidad a la contaminación de los acuíferos de la CAV.»
+Se levanta la suspensión de la vigencia y aplicación por Auto del TC de 6 de octubre de 2016. Ref. BOE-A-2016-9237
+ Se declara la desestimación del recurso de inconstitucionalidad 1941/2016 por Sentencia del TC 8/2018, de 25 de enero. Ref. BOE-A-2018-2464
+ Se suspende la vigencia y aplicación desde el 11 de abril de 2016 para las partes del proceso y desde el 5 de mayo de 2016 para los terceros, por Providencia del TC de 26 de abril de 2016, por la que se admite el recurso de inconstitucionalidad 1941/2016. Ref. BOE-A-2016-4311
+
+### Artículo 6
+
+Artículo 6.
+Las autoridades y funcionarios públicos de la Administración de la Comunidad Autónoma del País Vasco velarán por el respeto y cumplimiento de lo dispuesto en la presente ley y adoptarán, dentro de sus respectivas competencias, las medidas oportunas para la paralización de las actividades que se realizaran contraviniendo lo dispuesto en ella,así como la reposición de la situación alterada a su estado originario.
+Se levanta la suspensión de la vigencia y aplicación por Auto del TC de 6 de octubre de 2016. Ref. BOE-A-2016-9237
+ Se declara la desestimación del recurso de inconstitucionalidad 1941/2016 por Sentencia del TC 8/2018, de 25 de enero. Ref. BOE-A-2018-2464
+ Se suspende la vigencia y aplicación del inciso destacado desde el 11 de abril de 2016 para las partes del proceso y desde el 5 de mayo de 2016 para los terceros, por Providencia del TC de 26 de abril de 2016, por la que se admite el recurso de inconstitucionalidad 1941/2016. Ref. BOE-A-2016-4311
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+(Anulada)
+Se declara inconstitucional y nula por Sentencia del TC 8/2018, de 25 de enero. Ref. BOE-A-2018-2464
+ Se levanta la suspensión de la vigencia y aplicación por Auto del TC de 6 de octubre de 2016. Ref. BOE-A-2016-9237
+ Se suspende la vigencia y aplicación desde el 11 de abril de 2016 para las partes del proceso y desde el 5 de mayo de 2016 para los terceros, por Providencia del TC de 26 de abril de 2016, por la que se admite el recurso de inconstitucionalidad 1941/2016. Ref. BOE-A-2016-4311
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La obligatoriedad a que se refiere el artículo 4 de la presente ley, además de aplicarse a los planes que se tramiten con posterioridad a la entrada en vigor de la presente ley, se aplicará asimismo a los planes, programas y estrategias en vigor aprobados definitivamente con posterioridad al 21 de julio de 2006.
+No se concederán permisos para realizar perforaciones o sondeos exploratorios con objeto de explotar hidrocarburos no convencionales en tanto no se concluya la tramitación completa de la evaluación medioambiental estratégica a que se refiere el párrafo anterior.
+Se levanta la suspensión de la vigencia y aplicación por Auto del TC de 6 de octubre de 2016. Ref. BOE-A-2016-9237
+ Se declara la desestimación del recurso de inconstitucionalidad 1941/2016 por Sentencia del TC 8/2018, de 25 de enero. Ref. BOE-A-2018-2464
+ Se suspende la vigencia y aplicación desde el 11 de abril de 2016 para las partes del proceso y desde el 5 de mayo de 2016 para los terceros, por Providencia del TC de 26 de abril de 2016, por la que se admite el recurso de inconstitucionalidad 1941/2016. Ref. BOE-A-2016-4311
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Las disposiciones normativas de igual o inferior rango que se opongan a la presente Ley o sean incompatibles con su contenido quedan derogadas.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del País Vasco.
+
+### [Firma]
+
+Por consiguiente, ordeno a todos los ciudadanos y ciudadanas de Euskadi, particulares y autoridades, que la guarden y hagan guardar.
+Vitoria-Gasteiz, 30 de junio de 2015.–El Lehendakari, Íñigo Urkullu Rentería.

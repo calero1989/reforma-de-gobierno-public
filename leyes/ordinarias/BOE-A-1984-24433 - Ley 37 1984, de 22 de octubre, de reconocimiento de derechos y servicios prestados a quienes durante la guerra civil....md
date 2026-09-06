@@ -1,0 +1,137 @@
+# Ley 37/1984, de 22 de octubre, de reconocimiento de derechos y servicios prestados a quienes durante la guerra civil formaron parte de las Fuerzas Armadas, Fuerzas de Orden Público y Cuerpo de Carabineros de la República.
+
+- Identificador BOE: `BOE-A-1984-24433`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1984-24433
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye las correcciones de errores publicadas en BOE núms. 58, de 8 de marzo de 1985 Ref. BOE-A-1985-3690, y 89 de 13 de abril de 1985 Ref. BOE-A-1985-5821.
+
+## Preámbulo
+
+JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado, y Yo vengo en sancionar, la siguiente Ley:
+Superadas, felizmente, con la aprobación de la Constitución de 1978, las motivaciones emocionales que impidieran un año antes, en octubre de 1977, la plena solución del problema, se hace preciso ajustar las leyes a los preceptos de nuestra norma fundamental. Tal es el objetivo que persigue el título I de la presente Ley.
+Pero las sucesivas disposiciones legales que han venido regulando las situaciones derivadas de la guerra civil no han contemplado hasta ahora el régimen que habría de ser aplicado a todos aquellos que no pertenecían a las Fuerzas Armadas con anterioridad a dicha guerra, pero que tomaron parte en ella en las filas del Ejército da la República, obteniendo en las mismas un empleo o grado, asimilándose a esta situación la de quienes durante la guerra misma ingresaron en Cuerpos o Institutos armados. Exigencias de justicia obligan a reconocer a tales ciudadanos los servicios prestados durante la guerra civil. Dicho reconocimiento dará derecho al uso de aquellas distinciones que en atención a su condición y rango alcanzado reglamentariamente se determinan así, con el alcance previsto en esta Ley y asimismo al cobro de una pensión y al disfrute de los beneficios derivados de la asistencia sanitaria para los interesados y sus familiares.
+En virtud de esta nueva regulación, se otorga reconocimiento jurídico a todos los que durante la guerra civil ingresaron en los Ejércitos y obtuvieron un nombramiento por parte de las autoridades de la República. Se distingue este régimen del que se otorga a quienes antes de la guerra misma ya pertenecían a las Instituciones militares, diferencia de tratamiento jurídico que deviene inequívocamente de las propias variaciones existentes en la situación de partida en ambos casos y que encuentra su justificación jurídica en la sentencia del Tribunal Constitucional, Sala Segunda, 63/1983, de 20 de julio.
+
+## TITULO I
+
+De los militares a los que se refiere el artículo 1. del Real Decreto-ley 6/1978, de 6 de marzo, y el artículo único de la Ley 10/1980, de 14 de marzo
+
+### Articulo primero
+
+Artículo primero.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 116/1987, de 7 de julio. Ref. BOE-T-1987-17725
+
+### Artículo segundo
+
+Artículo segundo.
+El personal al que se refiere el artículo anterior pasa a la situación militar de retirado, con los derechos y obligaciones inherentes a la misma, con el empleo que, por antigüedad, habrían alcanzado de haber continuado en servicio activo hasta la fecha en que, por edad, les hubiera correspondido el pase a la precitada situación militar.
+
+### Articulo tercero
+
+Artículo tercero.
+1. Las viudas y huérfanos de los militares comprendidos en este título tendrán derecho a percibir todas las prestaciones legales que correspondan, con arreglo al sueldo regulador que, en cada caso, hubieran alcanzado los causantes del mismo en el momento de su fallecimiento.
+2. Las viudas y familiares de los militares fallecidos como consecuencia de la guerra civil seguirán percibiendo sus pensiones con arreglo a lo establecido en la Ley 5/1979, de 18 de septiembre.
+
+## TITULO II
+
+Del personal al servicio de la República en las Fuerzas Armadas, Fuerzas de Orden Público o Cuerpo de Carabineros durante la guerra civil
+
+### Articulo cuarto
+
+Artículo cuarto.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 116/1987, de 7 de julio. Ref. BOE-T-1987-17725
+
+### Artículo quinto
+
+Artículo quinto.
+1. El personal mencionado en el artículo anterior tendrá derecho a que se le reconozcan mediante la oportuna acreditación los servicios que en su día prestó a la República. El reconocimiento de los servicios prestados dará derecho a aquellas distinciones que, en atención a la condición y grado alcanzado, reglamentariamente se determinen.
+2. Asimismo, reconocidos los servicios prestados, dicho personal tendrá derecho al cobro de una pensión sujeta en todo caso al régimen de incompatibilidades que reglamentariamente se establezca. Dicha pensión se percibirá en doce mensualidades más dos pagas extraordinarias y su cuantía, en función del empleo alcanzado por el causante como máximo hasta el 31 de marzo de 1939, será del 100 por 100 de la pensión, sin cómputo de trienios correspondientes a empleos análogos de los causantes incluidos en el Título I de esta Ley.
+Los números y clases de tropa de carabineros serán considerados equivalentes al empleo de sargento.
+3. La condición de pensionista adquirida por esta Ley dará derecho igualmente a los interesados a recibir prestaciones médico-farmacéuticas, y a los servicios sociales en los mismos términos y condiciones previstas para los pensionistas del régimen general de la Seguridad Social.
+Se modifica el apartado 2 por la disposición adicional 29.1 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785
+ Se modifica el apartado 2, con efectos a partir de 1 enero de 1989, por el art. 53.3 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+
+### Articulo sexto
+
+Artículo sexto.
+1. En las condiciones fijadas en esta Ley el cónyuge sobreviviente y los huérfanos de los interesados tendrán derecho, respectivamente, a pensión de viudedad u orfandad sujeta, en todo caso, al régimen de incompatibilidades que, reglamentariamente, se establezca.
+2. Tendrán derecho, asimismo, a las prestaciones médico-farmacéuticas y a los servicios sociales, en los mismos términos condiciones previstos para los pensionistas de viudedad u orfandad del régimen general de la Seguridad Social.
+
+### Articulo séptimo
+
+Artículo séptimo.
+Para obtener los beneficios que se establecen en el presente título se aplicarán las reglas siguientes:
+1. Será requisito imprescindible la previa inscripción de los interesados en el registro administrativo correspondiente del Ministerio de Economía y Hacienda. Las solicitudes de inscripción y petición de beneficios deberán realizarse por los interesados o sus causahabientes dentro del plazo de tres meses, que se computará a partir de la entrada en vigor de la presente Ley. Las solicitudes deberán ir acompañadas de los documentos acreditativos del nombramiento para el empleo o grado obtenidos, según resultase de las publicaciones en los periódicos, diarios, Boletines oficiales a la sazón existentes o de los testimonios de las sentencias pronunciadas.
+2. Una vez acreditados por la Administración los servicios prestados, los efectos económicos se devengarán con fecha de 1 de enero de 1985.
+3. En todo caso la Administración dictará resolución expresa en el plazo máximo de seis meses a partir de la finalización del período de presentación de solicitudes a que se refiere la regla primera de este artículo.
+
+### Articulo octavo
+
+Artículo octavo.
+1. Tendrán derecho a las pensiones incluidas en el título II de la presente Ley las viudas de los causantes, siempre que reúnan las condiciones exigidas por la legislación general de clases pasivas para ser pensionista de viudedad.
+2. La cuantía de la pensión de viudedad será del 50 por 100 de la pensión que, en virtud de lo dispuesto en esta Ley, tenga señalada el causante en la fecha de su fallecimiento.
+Dicha cuantía no podrá ser inferior a la que señale en cada momento, por las sucesivas Leyes Generales de Presupuestos del Estado, para las pensiones de viudedad causadas al amparo de las Leyes 5/1979, de 18 de setiembre; 35/1980, de 26 de junio, y 6/1982, de 29 de marzo.
+3. Tendrán derecho a las pensiones incluidas en el título II de la presente Ley los huérfanos de los causantes, siempre que reúnan las condiciones exigidas por la legislación general de clases pasivas para ser pensionistas de orfandad fueran menores de veintiún años o que, siendo mayores de dicha edad, estuvieran incapacitados para todo trabajo desde antes de cumplirla y tuvieran derecho al beneficio de la justicia gratuita.
+4. La cuantía de la pensión de orfandad será para cada huérfano la equivalente al 20 por 100 de la pensión que correspondería al causante en los términos del párrafo anterior. Este porcentaje se incrementará con el correspondiente a la pensión de viudedad regulada en el párrafo anterior si hubiere fallecido el cónyuge. En caso de existir varios huérfanos con derecho a pensión, el incremento se distribuirá entre todos ellos por partes iguales.
+5. En todo caso, la suma de las pensiones de viudedad y orfandad no podrá exceder del 100 por 100 de la pensión que correspondería al causante.
+6. Estas pensiones experimentarán las actualizaciones que para las mismas se establezcan en las Leyes de Presupuestos Generales del Estado.
+Se modifica el apartado 2, con efectos a partir de 1 enero de 1989, por el art. 53.4 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Se concede un plazo de un año contado a partir de la entrada en vigor de esta Ley, para que aquellos militares incluidos en el ámbito de aplicación del Real Decreto-ley 6/1978, de 6 de marzo, o la Ley 10/1980, de 14 de marzo, que no hubiesen solicitado los beneficios otorgados por dichas disposiciones, soliciten el disfrute de los derechos establecidos en la presente Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Con el fin de respetar los derechos económicos adquiridos por las personas a las que se refiere el título II de esta Ley y que hubieran obtenido los derechos derivados de la Ley 46/1977, de 15 de octubre, sobre amnistía, tales haberes pasivos se seguirán percibiendo en la cuantía ya alcanzada en 1984. La diferencia entre esta cantidad y la que resulte de la aplicación de la presente Ley constituirá una percepción personal y transitoria, que se irá absorbiendo y compensando progresivamente en la misma medida en que se incrementen las pensiones reguladas en esta Ley, hasta llegar a la total equiparación entre la cuantía de estas últimas y la de la pensión que en su día fue reconocida.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Para adecuar las cuantías de las pensiones de los causantes y sus familiares, en su caso, a lo dispuesto en el artículo 5.2, éstas serán revisadas de oficio por el órgano directivo que gestiona en la actualidad dichas prestaciones. Los efectos económicos de dicha revisión serán de 1 de enero del año 2000.
+Se añade por la disposición adicional 29.2 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La tramitación de los expedientes que se inicien al amparo de lo dispuesto en el título I de esta Ley, corresponderá en integridad al Ministerio de Economía y Hacienda, cuyas resoluciones serán tenidas en cuenta a los efectos de que, por el Ministerio de Defensa, se expidan a los interesados los documentos militares de identidad que sean procedentes.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Las resoluciones administrativas que se dicten en los procedimientos contemplados en esta Ley serán susceptibles de los correspondientes recursos administrativos y jurisdiccionales previstos con carácter general en el ordenamiento jurídico.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Las personas a quienes esta Ley se refiere y que a consecuencia de la guerra civil perdieron la nacionalidad española y, posteriormente, la recuperaron, se considerarán incluidos en los beneficios que por la presente norma se conceden.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno para dictar las disposiciones que exijan la aplicación y el desarrollo de la presente Ley y al Ministerio de Economía y Hacienda para habilitar los créditos necesarios con el fin de atender a los gastos derivados del reconocimiento de los beneficios indicados.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que, con efectos de 6 de octubre de 2020, la Dirección General de Ordenación de la Seguridad Social asumirá las competencias en la gestión de las prestaciones reguladas en la presente Ley 37/1984, según establece la disposición adicional 8.7 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#da-8, en relación con la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2

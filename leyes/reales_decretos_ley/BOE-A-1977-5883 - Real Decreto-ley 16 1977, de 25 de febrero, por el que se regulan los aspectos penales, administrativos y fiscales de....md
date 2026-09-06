@@ -1,0 +1,130 @@
+# Real Decreto-ley 16/1977, de 25 de febrero, por el que se regulan los aspectos penales, administrativos y fiscales de los juegos de suerte, envite o azar y apuestas.
+
+- Identificador BOE: `BOE-A-1977-5883`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1977-5883
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Aunque no han cambiado sustancialmente ni en España ni en otros muchos países las concepciones generales en torno a los juegos de azar y a sus posibles consecuencias individuales, familiares y sociales, no se puede desconocer que los sistemas de prohibición absoluta frecuentemente han fracasado en la consecución de sus objetivos moralizadores y se han convertido de hecho en situaciones de tolerancia o de juego clandestino generalizado, con más peligros reales que los que se trataban de evitar y en un ambiente de falta de seguridad jurídica.
+La renovación general de pautas de comportamiento colectivo que se está produciendo en el país, de un Jade, y del otro la contemplación de las experiencias positivas consagradas, en materia específica de juegos, en otros países geográfica o culturalmente próximos al nuestro, inducen a iniciar nuevos derroteros en este campo, con objeto de asegurar con más eficacia el cumplimiento de objetivos ineludibles de tutela y protección social, al propio tiempo que se logran otras importantes finalidades complementarias de interés social y de defensa y fomento de los intereses fiscales, a través de la eliminación de la clandestinidad de los juegos y de la instauración de un sistema más progresivo de reglamentación uniforme de la materia y de control público de las actividades destinadas a hacer posible y normal la práctica de los mismos.
+Las aludidas finalidades de interés social y de defensa de los intereses fiscales imponen la máxima urgencia en la promulgación de las normas necesarias. Coincidiendo sustancial-mente con la opinión pública y, en especial, con el numeroso grupo de Procuradores firmantes de la proposición de Ley formulada sobre la materia en las Cortes Españolas, el Gobierno considera la legalización del juego medida adecuada para contribuir de forma destacada al impulso del sector turístico, cuyo peso es tan significativo e importante en el conjunto de la economía del país y cuya reactivación no admite espera.
+A tales efectos, se estima necesario, y ello constituye el objetivo del presente Real Decreto-ley: Declarar formalmente la competencia que al Estado corresponde en nuestra Patria para llevar a cabo la regulación general de la materia; proceder a la despenalización de los juegos de azar que se desarrollen con arreglo a dicha regulación y establecer una instrumentación adecuada de fiscalidad complementaria, que se estima imprescindible.
+En su virtud, a propuesta del Consejo de Ministros en su reunión del día veinticinco de febrero de mil novecientos setenta y siete, en uso de la autorización que me confiere el artículo trece de la Ley Constitutiva de las Cortes, texto refundido de las Leyes Fundametnales, aprobado por Decreto setecientos setenta y nueve/mil novecientos sesenta y siete, de veinte de abril, y oída la Comisión a que se refiere el apartado uno del artículo doce de la citada Ley,
+DISPONGO:
+
+### Artículo primero
+
+Artículo primero.
+Uno. Corresponde a la Administración del Estado la determinación de los supuestos en que los juegos de azar, rifas, tómbolas, apuestas y combinaciones aleatorias puedan ser autorizados, la reglamentación general de los mismos y la competencia para autorización y organización de las actividades específicas destinadas a hacer posible la práctica de aquéllos.
+Dos. La Administración del Estado podrá asumir la responsabilidad de la organización de los juegos de azar y desempeñarla directamente o a través de Entidades públicas o privadas, en las condiciones que reglamentariamente se determinen.
+Tres. La Lotería Nacional, los sorteos realizados por la Organización Nacional de Ciegos, el Patronato de Apuestas Mutuas Deportivas Benéficas y las demás apuestas deportivas continuarán regulándose por sus normas privativas y no quedarán afectadas en ningún aspecto por la presente disposición.
+
+### Artículo segundo
+
+Artículo segundo.
+Los artículos trescientos cuarenta y nueve y trescientos cincuenta del Código Penal quedan redactados como sigue:
+«Artículo trescientos cuarenta y nueve.
+Los Banqueros y Dueños, Directores, Gerentes o Encargados de casas de juego de suerte, envite o azar no autorizadas o que, estándolo, permitan en sus establecimientos la práctica de juegos de esa clase no autorizados, serán castigados con las penas de arresto mayor y multa de diez mil a cincuenta mil pesetas y, en caso de reincidencia, con las de prisión menor y multa de diez mil a cien mil pesetas. La sentencia podrá decretar la disolución de las Sociedades o Asociaciones titulares de las casas o responsables de las actividades que en ellas se desarrollen.
+Para los delitos previstos en el párrafo anterior, los Tribunales, apreciando las circunstancias del delincuente, podrán elevar la multa hasta dos millones de pesetas. También podrán, en atención a las condiciones personales del culpable, imponer las penas de inhabilitación absoluta o especial.
+Los jugadores que concurrieren a casas de juego no autorizadas o que, en las autorizadas, tomen parte en juegos de suerte, envite o azar no permitidos, serán castigados con las penas de arresto mayor y multa de diez mil a veinte mil pesetas.
+«Artículo trescientos cincuenta.
+El dinero, los efectos y los instrumentos y demás útiles destinados a juegos no autorizados caerán en comiso, cualquiera que sea el lugar donde se hallen.»
+
+### Artículo tercero
+
+Artículo tercero.
+Con independencia de los tributos estatales y locales a que estén sometidas, con arreglo a la legislación vigente, las Sociedades o Empresas que desarrollan las actividades a que se refiere el presente Real Decreto-ley, los casinos y demás locales, instalaciones o recintos autorizados para el juego, quedarán sujetos a la tasa fiscal sobre rifas, tómbolas, apuestas y combinaciones aleatorias, en las siguientes condiciones:
+Primero. Hecho imponible.–Constituye el hecho imponible la autorización, celebración u organización de juegos de suerte, envite o azar, salvo que estuvieran sujetas al Impuesto sobre las actividades de juego, establecido en la Ley 11/2011, de regulación del juego.
+Segundo. Sujeto pasivo.–Serán sujetos pasivos de la tasa los organizadores y las Empresas cuyas actividades incluyan la celebración de juegos de suerte, envite o azar.
+Serán responsables solidarios de la tasa los dueños y empresarios de los locales donde se celebren.
+Tercero. Base imponible.–Será base imponible de la tasa, los ingresos brutos que los casinos obtengan procedentes del juego o las cantidades que los jugadores dediquen a su participación en los juegos que tengan lugar en los distintos locales, instalaciones o recintos donde se celebren juegos de suerte, envite o azar.
+La base imponible se determinará en régimen de estimación directa u objetiva. En el primer caso, el sujeto pasivo quedará obligado a realizar la liquidación tributaria en la forma y casos que reglamentariamente se determinen.
+Cuarto. A partir de la entrada en vigor de la Ley de Presupuestos Generales del Estado para el año 2022, regirán los siguientes tipos y cuotas fijas:
+Tipos tributarios y cuotas fijas.
+Uno. Tipos tributarios.
+a) El tipo tributario general será del 10 por 100.
+b) En los casinos de juego se aplicará la siguiente tarifa:
+Porción de la base imponible comprendida entre en euros
+ Tipo aplicable
+ –
+ Porcentaje
+ Entre 0 y 1.322.226,63
+ 10
+ Entre 1.322.226,64 y 2.187.684,06
+ 17,5
+ Entre 2.187.684,07 y 4.363.347,88
+ 22,5
+ Más de 4.363.347,88
+ 27,555
+Dos. Cuotas fijas.
+En los casos de explotación de máquinas o aparatos automáticos aptos para la realización de los juegos, la cuota se determinará en función de la clasificación de las máquinas realizada por el Reglamento de Máquinas Recreativas y de Azar, aprobado por el Real Decreto 2110/1998, de 2 de octubre, según las normas siguientes:
+A) Máquinas tipo «B» o recreativas con premio:
+a) Cuota anual: 1.765,5 euros.
+b) Cuando se trate de máquinas o aparatos automáticos tipo ‘‘B’’ en los que puedan intervenir dos o más jugadores de forma simultánea y siempre que el juego de cada uno de ellos sea independiente del realizado por otros jugadores, serán de aplicación las siguientes cuotas:
+Máquinas o aparatos de dos jugadores: Dos cuotas con arreglo a lo previsto en la letra a) anterior.
+Máquinas o aparatos de tres o más jugadores: La cuota se incrementará en un 50% por cada jugador adicional a partir del tercero.
+B) Máquinas tipo «C» o de azar:
+a) Cuota anual: 2.010,38 euros.
+Quinto. Devengo.
+Uno. La tasa se devengará con carácter general por la autorización y, en su defecto, organización o celebración del juego.
+Dos. Tratándose de máquinas o aparatos automáticos aptos para la realización de juegos de azar, la tasa será exigible por años naturales, devengándose en 1 de enero de cada año en cuanto a los autorizados en años anteriores. En el primer año, el devengo coincidirá con la autorización, abonándose en su entera cuantía según los importes fijados en el apartado 4.° anterior, salvo que aquella se otorgue después del 1 de julio, en cuyo caso por ese año se abonará solamente el 50 por 100 de la tasa.
+El ingreso de la tasa se realizará en pagos fraccionados trimestrales iguales, que se efectuarán entre los días 1 y 20 de los meses de enero, abril, julio y octubre.
+No obstante, en el primer año de autorización, el pago de los trimestres ya vencidos o corrientes deberá hacerse en el momento de la autorización, abonándose los restantes de la misma forma establecida en el párrafo anterior.
+Tres. (Derogado)
+Sexto. Sanción.
+Uno. Con independencia de las sanciones que correspondan por aplicación de las disposiciones tributarias, la falta de pago de la tasa o la ocultación total o parcial de la base imponible determinará, automáticamente, la suspensión de la autorización administrativa durante un plazo máximo de seis meses. La reincidencia se sancionará con la pérdida definitiva de la autorización.
+Dos. En la tasa que grava la explotación de máquinas o aparatos automáticos aptos para la realización de juegos de azar la efectividad de la suspensión temporal o definitiva de la autorización administrativa, a que se refiere el número anterior, se llevará a cabo mediante el precinto de la máquina o aparato a que la infracción se refiera. La misma máquina o aparato será asimismo embargada, quedando afecta al pago de las cantidades que en cada caso proceda.
+Séptimo. Conforme a lo previsto en el artículo 13.seis de la Ley de Cesión de Tributos del Estado a las Comunidades Autónomas y de Medidas Fiscales Complementarias, las bases, tipos tributarios y cuotas fijas, devengo, exenciones y bonificaciones tributarias, serán las aprobadas por la Comunidad Autónoma.
+Las normas relativas a base imponible, tipos tributarios y cuotas fijas así como devengo, previstas, respectivamente, en los apartados tercero, cuarto y quinto del presente artículo, serán de aplicación en defecto de norma dictada por la Comunidad Autónoma o si ésta no hubiese asumido competencias normativas en materia de tasa fiscal sobre juegos de suerte, envite o azar
+Se modifica el apartado 4 por el art. 66.3 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#a6-8
+ Se modifica el apartado 4 por el art. 74.3 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a7-6
+ Se modifica el apartado 4 por el art. 86.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-80
+ Se deroga el apartado 5.3 por la disposición derogatoria.7 y se modifica el apartado 1 por la disposición final 5.1 de la Ley 13/2011, de 27 de mayo. Ref. BOE-A-2011-9280.
+ Se modifica el apartado 4, con efectos a partir del 1 de enero de 2010, por el art. 81.4 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765.
+ Se modifica el apartado 4 por el art. 67.3 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964.
+ Se modifica el apartado 4 por el art. 65.3 de la Ley 13/2000, de 28 de diciembre. Ref. BOE-A-2000-24265.
+ Se modifica el apartado 4 por el art. 74.3 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785.
+ Se modifica el apartado 4 por el art. 71.3 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 65, de 17 de marzo de 1999. Ref. BOE-A-1999-6373.
+ Se modifica el apartado 4 por el art. 73.5 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
+ Se modifica el apartado 4 por el art. 67.2 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116. y se modifica el apartado 7 por el art. 32.1 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118.
+ Se modifica el apartado 4 por el art. 35.2 del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Se modifica el apartado 4 por el art. 85.2 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
+ Se modifica el apartado 4.1 por el art. 83.2 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+ Se modifica el apartado 4.1 por el art. 83.2 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+ Se modifican los apartados 5.1 y 2 a partir del 1 de enero de 1991 por el art. 77.3 de la Ley 31/1990, de 27 de diciembre. Ref. BOE-A-1990-31180.
+ Se modifica el apartado 4 por el art. 38.2.1 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348.
+ Se modifica el apartado 4 por el art. 39.2 del Real Decreto Ley 7/1989, de 29 de diciembre. Ref. BOE-A-1989-30591.
+ Redactado el apartado 4.1.a) conforme a la corrección de errores publicada en BOE núm. 9, de 10 de enero de 1990. Ref. BOE-A-1990-512.
+ Se modifica a partir de 1 de enero de 1989 el apartado 4 por el art. 104.2 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563.
+ Se deja sin efecto el apartado 7 a partir de 1 de enero de 1983 y se modifica el apartado 4.2 por el art. 22.5 y disposición adicional 6.1 de la Ley 5/1983, de 29 de junio. Ref. BOE-A-1983-18137.
+ Téngase en cuenta que el apartado 7 ya estaba sin efecto por el Real Decreto Ley 24/1982, de 29 de diciembre.
+ Se deja sin efecto a partir de 1 de enero de 1983 por el art. 21.5 del Real Decreto Ley 24/1982, de 29 de diciembre. Ref. BOE-A-1982-34943.
+ Se modifican los apartados 4.2 a 6 por el art. 1 a 3 del Real Decreto Ley 8/1982, de 30 de abril. Ref. BOE-A-1982-10687.
+ Téngase en cuenta para su aplicación la disposición transitoria.
+ Se modifica el apartado 4 por el Real Decreto Ley 9/1980, de 26 de septiembre. Ref. BOE-A-1980-21168.
+
+### Artículo cuarto
+
+Artículo cuarto.
+Uno. Se autoriza al Gobierno:
+a) Para dictar, a propuesta del Ministro de la Gobernación, las disposiciones complementarias que sean precisas para la consecución de las finalidades perseguidas por el presente Real Decreto-ley, determinando las sanciones administrativas que puedan imponerse para corregir las infracciones de aquéllas.
+b) Para dictar, a propuesta del Ministro de Economía y Hacienda, la normativa necesaria para la gestión, liquidación, recaudación e inspección de la tasa a que se refiere el artículo anterior y para determinar el régimen de control de exportación de divisas por jugadores residentes en el extranjero.
+No obstante, la regulación referida a la gestión, liquidación, recaudación e inspección de la tasa sólo será de aplicación en defecto de norma dictada por la Comunidad Autónoma o si ésta no hubiese asumido competencias normativas en materia de tasa fiscal sobre juegos de suerte, envite o azar.
+c) Para determinar, a propuesta del Ministro de Industria, el régimen de iniciación y funcionamiento de actividades de Fabricación de material para juegos de azar.
+Dos. Se autoriza al Ministerio de la Gobernación para establecer reglas especiales en cuanto a la constitución y funcionamiento de Sociedades de casinos de juego.
+Tres. La participación extranjera en el capital de las Sociedades o Empresas que se dediquen a las actividades reguladas en este Real Decreto-ley será determinada reglamentariamente cuando el Gobierno decida que dicha participación sea inferior al porcentaje que venga fijado con carácter general.
+Se modifica el apartado 1.b) por el art. 32.2 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118.
+
+### Artículo quinto
+
+Artículo quinto.
+Del presente Real Decreto-ley se dará cuenta inmediata a las Cortes Españolas.
+
+Dado en Madrid a veinticinco de febrero de mil novecientos setenta y siete.
+JUAN CARLOS
+El Presidente del Gobierno,
+ADOLFO SUÁREZ GONZÁLEZ

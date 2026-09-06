@@ -1,0 +1,369 @@
+# Ley Foral 6/2009, de 5 de junio, de medidas urgentes en materia de urbanismo y vivienda.
+
+- Identificador BOE: `BOE-A-2009-10581`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2009-10581
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BON núm. 80, de 1 de junio de 2009. Ref. BOE-A-2009-11682.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral de medidas urgentes en materia de urbanismo y vivienda
+EXPOSICIÓN DE MOTIVOS
+1
+Durante los últimos años, la actividad del sector de la vivienda se ha desarrollado en un entorno muy favorable marcado en la Comunidad Foral por una fuerte actividad de la economía en su conjunto, con incrementos del PIB superiores al 3 por 100, y unos datos de paro que han ido disminuyendo de manera progresiva hasta situarse en niveles próximos al pleno empleo. Particularmente favorable ha sido la evolución del sector de la construcción, con crecimientos anuales que superaban el 4 por 100 y un fuerte nivel de contratación de trabajadores. Diversos elementos favorecieron esta situación, como son unos tipos de interés bajos y una fuerte demanda en la compra de vivienda, bien por necesidad bien por inversión, todo ello favorecido con facilidades en el crédito por parte del sector bancario.
+El contexto actual ha variado de forma radical. Navarra, al igual que el resto de las comunidades españolas y las regiones y países más desarrollados, se están viendo afectados de manera muy importante por la crisis financiera y económica. En el caso de España la situación se ha visto agravada por el «parón» sufrido en el sector inmobiliario.
+La crisis económica, que ha supuesto un notable descenso del consumo de las familias y de la actividad productiva, se ha trasladado durante los últimos meses en el mercado laboral con crecimientos importantes en el número de parados.
+Navarra no es ajena a esta situación y, según datos de la Encuesta de la Población Activa (EPA), durante 2008 el número de parados se incrementó en 12.100 personas, hasta situarse en 25.100 personas. Navarra, con un 8,12 por 100, cerró el año 2008 como la región española con menor tasa de paro, situándose la media nacional en el 13,91 por 100.
+El Gobierno de Navarra, consciente de esta situación, ha puesto en marcha diferentes medidas que pretenden dar una respuesta inmediata a la situación de crisis económica en que nos encontramos.
+Como primera medida de gran alcance, el Gobierno de Navarra aprobó el 21 de abril de 2008 el «Plan Navarra 2012» tras el previo acuerdo suscrito el 14 de abril de 2008 con el Partido Socialista de Navarra. El citado Plan prevé una inversión en dotaciones e infraestructuras públicas por un importe de 4.508,9 millones de euros, durante el período 2008-2011. El Plan Navarra 2012 fue aprobado por el Parlamento de Navarra el 23 de mayo de 2008.
+Asimismo, la aprobación de la Ley Foral 18/2008, de 6 de noviembre, de medidas para la reactivación de la economía de Navarra 2009-2011, que supuso un primer hito normativo de rango legal en la forma de hacer frente a la coyuntura económica desfavorable que afecta a Navarra.
+Estas importantes medidas reactivadoras de la economía navarra deben ser, no obstante, complementadas a través de otro tipo de medidas en materia de urbanismo y vivienda. Las medidas que se recogen en la presente Ley Foral pretender dar respuesta, por un lado, a las necesidades de los ciudadanos y las empresas y, por otro, servir para mitigar, y corregir, en su caso, los efectos negativos sobre el empleo del sector de la construcción generados por la crisis económica.
+2
+La presente Ley Foral se estructura en cuatros Títulos: el primero regula las medidas a adoptar en materia de urbanismo; el segundo, las medidas en materia de vivienda; el tercer título recoge una serie de medidas de carácter fiscal; y un título cuarto fija los criterios que han de regir la actuación de la sociedad pública «Viviendas de Navarra S.A.» en el próximo trienio. La ley se completa con una disposición adicional, tres disposiciones transitorias y dos disposiciones finales.
+3
+Las medidas en materia de urbanismo tienen como finalidad primordial conseguir la necesaria agilización administrativa en la aprobación de instrumentos tanto de ordenación territorial como urbanística, lo que permitirá la rápida puesta a disposición de los agentes económicos de suelo apto para la construcción, así como potenciar coyunturalmente los desarrollos urbanísticos en marcha. Para ello se modifican diversos artículos de la Ley Foral 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo con la intención de dar cumplimiento a los siguientes objetivos:
+Reforzar la función directiva en el proceso de redacción y tramitación de los planes, de manera que éste progrese con arreglo a una agenda y método de trabajo ágil y participativo.
+Reforzar la autonomía y responsabilidad municipal en la tramitación de los instrumentos de ordenación urbanística.
+Simplificar el catálogo de instrumentos de planeamiento y una mejor definición del procedimiento.
+En el título relativo a las medidas en materia de urbanismo destaca la nueva redacción del artículo 53 de la Ley Foral 35/2002, relativo a las determinaciones sobre espacios dotacionales y de servicios a prever en los instrumentos de planeamiento, con la que se trata de ajustar las reservas obligatorias para este tipo de espacios a unos parámetros algo más reducidos, ya que comparativamente se encuentran sobredimensionados en relación con los del resto de Comunidades Autónomas. Se consigue así una intensificación en el uso de los suelos urbanos y urbanizables, combinando más sosteniblemente la calidad de vida ofrecida por los espacios urbanos con un consumo más racional del suelo, en tanto recurso escaso. Así, el objeto de la modificación es triple:
+Por una parte, se pretende ajustar las cesiones a las nuevas circunstancias derivadas de la aplicación del Código Técnico de la Edificación en los edificios de nueva construcción, que a igualdad de superficie construida, supone una merma de la superficie útil, y por tanto una disminución proporcional de la edificabilidad lucrativa total disponible, al ser mayor la relación entre superficie construida y superficie útil.
+Por otra parte, se busca introducir una mayor flexibilidad en el diseño urbanístico de los diferentes sectores de suelo, de tal modo que puedan modularse los usos de las parcelas destinadas a dotaciones públicas en función de las necesidades reales de los municipios, y garantizando en cualquier caso un mínimo de zonas verdes y espacios libres públicos, similar al que plantean otras Comunidades Autónomas.
+Por último, del análisis de las cesiones en el resto de Comunidades Autónomas y de su comparación con las establecidas en la Ley Foral 35/2002, se llega a la conclusión de que Navarra es mucho mas exigente que el resto de Comunidades, lo que conlleva mayores obligaciones a los promotores y, en consecuencia, mayores cargas de urbanización y cesión, lo que penaliza el precio final de las viviendas. Aspecto que, como ya se ha señalado, se agrava con la implantación del Código Técnico de la Edificación.
+No obstante, la Comunidad Foral sigue estando entre las autonomías cuyos desarrollos urbanísticos contienen un número mayor de espacios públicos y dotacionales.
+En el marco de agilización de los procesos urbanísticos, se añade un apartado cuarto al actual artículo 65 de la Ley Foral 35/2002. La nueva regulación pretende perfilar mejor la naturaleza y función de la Comisión de Seguimiento, dotándole de liderazgo y capacidad de autoorganización, entendiendo que la nueva regulación producirá como efecto principal que muchos aspectos se resuelvan por la citada Comisión en la que participan representantes de las Entidades Locales y de la Administración Foral, y en consecuencia, redundará en un mayor dinamismo en la elaboración de Planes Generales Municipales.
+La nueva redacción dada al artículo 70 de la Ley Foral 35/2002, tiene por objeto aclarar la naturaleza y mejorar la tramitación de la Estrategia y Modelo de Ocupación Territorial y del Concierto Previo en el contexto de la del Plan General Municipal, del que forma parte, con la finalidad de corregir las imprecisiones de la actual redacción, que provocan retrasos e inseguridades en el proceso técnico y administrativo de tramitación de los planes. Asimismo, y siguiendo el principio de agilización que impera en esta Ley Foral, con la modificación de este artículo también se logra acortar los plazos para la tramitación de los Planes Generales Municipales.
+El mismo objetivo de agilizar los procedimientos de tramitación y aprobación de los instrumentos urbanísticos, reduciendo plazos, simplificando la intervención del Gobierno de Navarra y otorgando más competencias a las entidades locales, preside la nueva redacción que se otorga a los artículos 71, 73, 74, 75, 78 y 79 de la Ley Foral 35/2002.
+Por otra parte, en la actualidad, y debido al desfase temporal que se produce entre el momento en el que se redacta un Plan Municipal y el momento en el que se desarrollan los sectores de suelo incluidos en el mismo, los coeficientes que contempla dicho Plan Municipal para repartir los beneficios y cargas de la actuación urbanística, suelen quedar desfasados al cambiar las circunstancias del mercado inmobiliario que sirvieron de base para su inicial determinación, por lo que se producen distorsiones en su reparto entre los diferentes propietarios del sector o unidad en desarrollo.
+Con el nuevo apartado a) del artículo 150 se introduce la posibilidad de ajustar dichos repartos en función de la situación real del mercado inmobiliario en el momento de redactar el proyecto de reparcelación, permitiendo la modificación de los coeficientes de homogeneización fijados en el Plan Municipal. De este modo, se posibilita su reajuste de forma motivada, sin que en ningún caso se pueda incrementar o reducir el aprovechamiento del total a reparcelar, ni la edificabilidad establecida por el planeamiento que se ejecuta.
+Asimismo, se añaden dos nuevas disposiciones adicionales a la Ley Foral 35/2002.
+En la primera de ellas se permite a las Entidades Locales disponer de una parte de la superficie destinada por el planeamiento a dotaciones locales, para la construcción de vivienda protegida en régimen de alquiler a través, preferentemente, de la figura de la cesión del derecho de superficie, y siempre y cuando se asegure que la citada superficie va a seguir formando parte del patrimonio de la Entidad Local.
+Por otro lado, con la nueva disposición adicional novena de la Ley Foral 35/2002 se establece la posibilidad de eximir de controles locales a las actuaciones enmarcadas en un Plan Sectorial de Incidencia Supramunicipal residencial, previa declaración de su interés general por el Gobierno de Navarra.
+En último lugar, en lo que al bloque de medidas de urbanismo se refiere, la presente Ley Foral recoge como disposición transitoria una medida cuyo objeto es permitir que los sectores ya urbanizados, en los que se han efectuado las cesiones a la Administración y no es posible jurídicamente cambiar el reparto de las cargas que deben asumir los propietarios del suelo, puedan éstos adaptar la edificabilidad del sector a las necesidades del mercado, sin tener que aplicar los estándares que establece el nuevo artículo 53 de la Ley Foral 35/2002, y sin tener que modificar por ello los instrumentos de gestión ya aprobados ni el reparto de cargas efectuado.
+No obstante, la medida es temporal, y los aumentos de edificabilidad estarán limitados a un máximo del 30 por 100 del total de la edificabilidad inicialmente prevista para el sector o la unidad, porcentaje que se reducirá al 15 por 100 en el caso de que dicho sector o unidad correspondiera a un Plan que se hubiera aprobado bajo la vigencia de la Ley Foral 10/1994, de 4 de julio, de Ordenación del Territorio y Urbanismo. La medida garantiza también que si se producen aumentos de edificabilidad, y por lo tanto del número de viviendas, al menos el 80 por 100 del incremento se destine a viviendas protegidas. En el caso de sectores o unidades correspondientes a Planes que se hubieran aprobado bajo la vigencia de la Ley Foral 10/1994, este porcentaje que obligatoriamente se ha de destinar a la construcción de vivienda protegida será, como mínimo, igual al ya previsto en el sector o unidad que se modifique.
+4
+El Título II se divide en tres Capítulos, en los que se diferencian tres tipos distintos de medidas.
+El Capítulo I del Título II está destinado a reactivar el sector de la construcción y rehabilitación mediante ayudas económicas directas tanto a los particulares como a los promotores. Así, se incrementan significativamente los porcentajes de subvención a las obras de rehabilitación protegida de vivienda y se elevan los ingresos máximos de los potenciales destinatarios de las ayudas, incrementando el número de posibles perceptores de las ayudas. También se amplía el objeto de la subvención incluyendo conceptos hasta ahora no subvencionables.
+Por otro lado, se establecen en este Capítulo nuevas ayudas relativas a las reformas interiores de cocinas y baños en viviendas con destino a residencia habitual que cuenten con una antigüedad mínima superior a doce años, la instalación de domótica, o aquellas que supongan una mejora de la eficiencia energética en las viviendas.
+Como última medida de este Capítulo se establece una ayuda para los arrendatarios de vivienda protegida que encuentren dificultades económicas para hacer frente al pago de la renta, permitiendo que en caso de impagos se perciba la subvención por el arrendatario. Indirectamente supone también una ayuda para el promotor, ya que, en determinados casos, puede suponer que, pese al impago del inquilino, el promotor pueda percibir el 75 por 100 del precio del alquiler.
+El Capítulo II de este Título regula la posibilidad de calificar como protegidas las viviendas libres terminadas o previstas en proyectos de reparcelación ya inscritos en el Registro de la Propiedad, excepcionando el requisito de la repercusión máxima de suelo y urbanización previsto en la vigente Ley Foral 8/2004, de 24 de junio, de protección pública a la vivienda en Navarra. Asimismo, se permite la modificación del régimen de protección. De esta forma se consigue que las viviendas que no han podido venderse por no existir, en estos momentos, demanda se conviertan en un bien accesible.
+Finalmente, se regula la vivienda libre de precio limitado. Se trata de una vivienda libre de nueva construcción cuyo precio se fija legalmente y oscila en función de su localización. Dicha vivienda se beneficia del acceso a los préstamos cualificados en las condiciones convenidas para las protegidas y de las desgravaciones fiscales previstas en esta ley. Se consigue así un producto que puede resultar atractivo para determinado sector de la población que no es demandante de vivienda protegida, o que aún siendo demandante podría acceder a este tipo de vivienda si el precio es lo suficientemente ajustado, lo que, por otra parte, puede ayudar a reactivar el sector de la construcción.
+5
+El Capítulo III recoge una serie de medidas destinadas directamente a los particulares. Así se permite que los anejos vinculados a las viviendas protegidas puedan venderse o alquilarse separadamente de la vivienda. Con ello se pretende que los propietarios puedan, en caso de necesidad, obtener ingresos disponiendo de esos bienes (garaje o trastero). Con ese mismo objetivo se permite el alquiler de habitación.
+Para evitar que las viviendas protegidas permanezcan desocupadas en el supuesto de que no hubieran podido venderse se permite su destino al alquiler aunque su calificación sea para compraventa. Facilitando, incluso, que en una misma promoción ambos destinos, compraventa y alquiler, coexistan. Se establece también la posibilidad de excepcionar el cumplimiento de los requisitos mínimos de acceso a vivienda protegida previstos legalmente (ingresos mínimos y empadronamiento) para evitar que por falta de demanda de este tipo de vivienda en determinadas localidades quede vivienda protegida sin adjudicar.
+En el artículo 14 se limita la penalización económica por rescisión del contrato de compraventa de vivienda protegida, beneficiando a aquellos compradores de este tipo de vivienda que al no disponer de la financiación necesaria o por causas sobrevenidas, deben renunciar a la vivienda, perdiendo una parte, en ocasiones importante, de las cantidades adelantadas.
+Una medida de calado social es la recogida en el artículo 15 puesto que se pretende facilitar el acceso al alquiler de vivienda protegida a los sectores más desfavorecidos que encuentran dificultades en obtener el aval necesario.
+El mismo objetivo orienta la medida recogida en el artículo siguiente, dado que con ella se facilita el cambio de régimen de las viviendas de protección oficial, de régimen general, de las de precio tasado y pactado, a vivienda de protección oficial, de régimen especial, en las viviendas protegidas ya calificadas permitiendo que los arrendatarios se beneficien de las ayudas más beneficiosas de este régimen.
+Medidas que coadyuvan al fomento de un eficaz sistema público de alquiler diseñado en el Pacto Social por la Vivienda 2008-2011 que establece que el Departamento competente en materia de vivienda promoverá la construcción de viviendas en régimen de alquiler de titularidad pública, en los terrenos disponibles provenientes de las cesiones del Banco Foral de Suelo Público, hasta alcanzar las 2000 previstas en el Pacto Social por la Vivienda dentro del periodo 2008- 2011.
+Finalmente, la ley recoge la reivindicación detectada en la sociedad de no penalizar en el baremo único de acceso a aquellos solicitantes que, tras haber sido titulares de una cuenta vivienda que cumplía con los requisitos legales, han perdido los beneficios fiscales sin haber resultado adjudicatarios de vivienda protegida, cumpliéndose de este modo con el objetivo de primar a aquellos solicitantes que destinan parte de sus ingresos al ahorro con destino a la compra de vivienda.
+6
+El Título III se refiere a medidas fiscales que buscan facilitar el acceso a la vivienda en Navarra, impulsando así la reactivación del sector.
+El artículo 18 establece un incremento en la deducción por inversión en vivienda habitual para adquisición de viviendas de precio libre limitado que se adquieran desde la entrada en vigor de esta Ley Foral hasta el 31 de diciembre de 2011 inclusive. Los primeros adquirentes de esta tipología de vivienda podrán beneficiarse de un incremento en cinco puntos de los actuales porcentajes en la deducción por adquisición de la vivienda habitual. Con ello se pretende facilitar el acceso a la vivienda libre de precio limitado, así como impulsar la construcción y promoción de esta tipología de vivienda.
+El objetivo del artículo 19 es completar y ampliar la medida ya aprobada en la Ley Foral 22/2008, de 24 de diciembre, referida, en los supuestos de exención por reinversión en la transmisión de la vivienda habitual, a la ampliación de dos a cuatro años del plazo para efectuar la enajenación de la vivienda habitual en los casos en que la transmisión de ésta tiene lugar con posterioridad a que se hayan destinado cantidades para adquirir o rehabilitar una nueva vivienda habitual. Con esta norma se extiende la aplicación de la prórroga a los supuestos ocurridos en 2008.
+El artículo 20 establece que en los casos en los que un contribuyente, habiendo dispuesto de las cantidades de su cuenta vivienda para adquirir una vivienda habitual, por causas excepcionales no pueda adquirirla, si reintegra estas cantidades en su cuenta vivienda o en otra nueva, no perderá el derecho a deducción. Habrá de acreditarse la entrega de las cantidades dispuestas de la cuenta vivienda al vendedor o promotor, así como su devolución y reintegro en una cuenta vivienda.
+7
+Finalmente la ley dedica su Título IV a «Viviendas de Navarra, S.A.», sociedad pública que desde su creación ha colaborado eficazmente con el Gobierno de Navarra en su política de suelo y vivienda. Se establece que durante el próximo trienio VINSA orientará preferentemente su actividad hacia el área de la rehabilitación y el fomento del sistema público de alquiler, dejando el mercado de la vivienda protegida en compraventa para que actúen otros agentes económicos.
+
+## TÍTULO I
+
+Medidas urgentes en materia de urbanismo
+
+### Artículo 1
+
+Artículo 1. Modificación de la Ley Foral 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.c) del Decreto Foral Legislativo 1/2017, de 26 de julio.. Ref. BOE-A-2017-12907#dd
+
+## TÍTULO II
+
+Medidas urgentes en materia de vivienda
+
+## CAPÍTULO I
+
+Ayudas con vigencia temporal
+Se deroga por el art. 4 del Decreto-Ley Foral 1/2011, de 6 de octubre. Ref. BOE-A-2011-20377.
+
+## Sección 1
+
+Sección 1.ª Subvenciones por rehabilitación de vivienda.
+
+### Artículo 2
+
+Artículo 2. Subvenciones por rehabilitación de vivienda.
+1. Las subvenciones que se conceden a promotores usuarios de rehabilitación, recogidas en el artículo 87.1 del Decreto Foral 4/2006, de 9 de enero, por el que se regulan las actuaciones protegibles en materia de vivienda y el fomento de la edificación residencial, serán las siguientes:
+Ingresos familiares ponderados N.º de veces el IPREM
+ Porcentaje de subvención
+ Hasta 2,5 veces
+ 25% en edificios de menos de 50 años y más de 12. 30% en edificios de 50 años o más. 40% en Áreas de Rehabilitación Preferente, o cuando beneficien a personas con minusvalía motriz eliminando barreras arquitectónicas, o cuando un solicitante o su cónyuge sean de edad igual o superior a 65 años. 50% en Proyectos de Intervención Global de Áreas de Rehabilitación Preferente.
+ Entre 2,5 y 5,5 veces
+ 20% en edificios de menos de 50 años y más de 12. 25% en edificios de 50 años o más. 40% en Áreas de Rehabilitación Preferente. 50% en Proyectos de Intervención Global de Áreas de Rehabilitación Preferente.
+ Entre 5,5 y 7,5 veces
+ 16% en edificios de menos de 50 años y más de 12. 20% en edificios de 50 años o más. 30% en Áreas de Rehabilitación Preferente. 40% en Proyectos de Intervención Global de Áreas de Rehabilitación Preferente.
+2. Los porcentajes anteriores se incrementarán en 3 puntos porcentuales en el caso de las familias numerosas de categoría general, y en 6 puntos porcentuales en el de las de categoría especial.
+3. A los efectos del presente artículo, se incluirán también como conceptos subvencionables la instalación de domótica, adecuando técnica y sensorialmente la misma a las personas con discapacidad, el cambio o sustitución de puertas interiores y pavimentos o suelos, así como las obras de reforma de cocina y baños cuando comprendan alguna de las siguientes actuaciones: albañilería, fontanería, electricidad, escayola y cambio de pavimentos y/o revestimientos, así como el cambio de sanitarios y bañeras/duchas, y mobiliario de cocina y baño que requiera instalación fija, sin que tenga el carácter de subvencionable la adquisición o reparación de electrodomésticos, u otros elementos o actuaciones no recogidos en la relación anterior.»
+
+### Artículo 3
+
+Artículo 3. Subvención extraordinaria para la reforma interior de viviendas.
+Se añade un artículo 87 bis al Decreto Foral 4/2006, de 9 de enero, por el que se regulan las actuaciones protegibles en materia de vivienda y el fomento de la edificación residencial, que quedará redactado de la siguiente forma:
+«Artículo 87 bis. Subvención extraordinaria para la reforma del interior de viviendas.
+1. El Gobierno de Navarra subvencionará las obras de reforma de cocina y baños, y la sustitución de carpintería interior y pavimentos o suelos de las viviendas que vayan a constituir o constituyan el domicilio habitual y permanente de sus ocupantes, cuando no formen parte de una obra de rehabilitación de la vivienda según lo previsto en el artículo anterior.
+2. El presupuesto protegible, que no tendrá las limitaciones establecidas en el artículo 78.2 del presente Decreto Foral, tendrá un importe mínimo de 4.000 euros e incluirá el cambio o sustitución de puertas interiores y pavimentos o suelos, así como las obras de reforma de cocina y baños cuando comprendan alguna de las siguientes actuaciones: albañilería, fontanería, electricidad, escayola y cambio de pavimentos y/o revestimientos, así como el cambio de sanitarios, bañeras/duchas y mobiliario de cocina y baño que requiera instalación fija, sin que tenga el carácter de subvencionable la adquisición o reparación de electrodomésticos, u otros elementos o actuaciones no recogidos en la relación anterior.
+3. La subvención ascenderá a un 20 por 100 del presupuesto protegible con un máximo de 3.000 euros por vivienda.
+4. Se establecerá un procedimiento abreviado de concesión de estas subvenciones, realizándose el abono de la subvención tras aportarse, en un plazo máximo de un año desde la concesión, la documentación justificativa de la realización de las obras, que incluirá necesariamente la declaración responsable del propietario de la vivienda por la que se manifieste que las obras realizadas se ajustan al presupuesto presentado para obtener la subvención, así como el conjunto de facturas que correspondan a la ejecución de la obra.
+5. El Gobierno de Navarra llevará a cabo un muestreo de inspecciones sobre el total de expedientes tramitados con objeto de comprobar la veracidad entre lo ejecutado y lo subvencionado. Para ello los propietarios de las viviendas a quienes se concedan estas ayudas deberán permitir el acceso al interior de la vivienda de los inspectores que se habiliten oficialmente a estos efectos.
+6. Una vez concedida la subvención prevista en este artículo, el beneficiario no podrá solicitar de nuevo estas ayudas, ni se podrá solicitar nueva subvención de esta clase para obras que tengan lugar en una vivienda que ya fue objeto de la misma.»
+
+## Sección 2
+
+Sección 2.ª Apoyo a la eficiencia energética en edificios y viviendas, y a la domótica
+
+### Artículo 4
+
+Artículo 4. Subvención por rehabilitación con eficiencia energética.
+Los porcentajes de subvención previstos en el apartado 1 del artículo 2 de la presente Ley Foral se incrementarán en 5 puntos porcentuales cuando las obras incluyan mejoras de eficiencia energética, y así se reconozca en la correspondiente calificación.
+
+### Artículo 5
+
+Artículo 5. Rehabilitación de la envolvente térmica en edificios de viviendas.
+Las comunidades de propietarios que promuevan expedientes de rehabilitación protegida de obras de mejora de la envolvente térmica de sus edificios con objeto de aumentar sus niveles de aislamiento percibirán una subvención del 40 por 100 del presupuesto protegible correspondiente a tales obras, con un máximo de subvención de 5.000 euros por vivienda.
+A estos efectos, por envolvente térmica de un edificio se entenderá el conjunto de sus elementos constructivos en contacto con el ambiente exterior y, en su caso, con el terreno o con otros locales no calefactados. Los referidos elementos son: las fachadas exteriores e interiores, la cubierta, los forjados sobre porches y vuelos y, en su caso, los forjados y paredes en contacto con el terreno o con locales no calefactados del tipo garaje o almacén, todo ello de conformidad con la normativa técnica aplicable.
+
+### Artículo 6
+
+Artículo 6. Subvención por obtención de calificación energética en la promoción de viviendas protegidas.
+1. Los promotores de viviendas protegidas cuyos proyectos obtengan una calificación energética de la clase A, B o C, según lo establecido en el Real Decreto 47/2007, de 19 de enero, por el que se aprueba el procedimiento básico para la certificación de eficiencia energética de edificios de nueva construcción, accederán a una subvención con las siguientes cuantías:
+Nivel de calificación energética A: 40 euros por cada metro cuadrado útil de vivienda.
+Nivel de calificación energética B: 30 euros por cada metro cuadrado útil de vivienda.
+Nivel de calificación energética C: 20 euros por cada metro cuadrado útil de vivienda.
+2. La subvención se abonará una vez obtenida la calificación definitiva de las viviendas, si bien el promotor podrá percibir hasta el 50 por 100 de su importe tras obtener la calificación provisional, previa presentación de aval suficiente que cubra el importe de la subvención solicitada.
+
+### Artículo 7
+
+Artículo 7. Subvención por instalación de domótica.
+1. Los promotores de viviendas cuyos proyectos contengan instalaciones de domótica en las viviendas de nueva construcción, accederán a una subvención del 40 por 100 de la instalación, con un máximo de 1.500 euros por vivienda. La instalación que vayan a realizar deberá cumplir los siguientes requisitos mínimos:
+a) La instalación de un módulo domótico que realice funciones de seguridad antirrobo y antiincendio, alerte sobre fugas de agua y gas, controle la climatización y se pueda utilizar de forma remota a través de la línea telefónica.
+b) La instalación dispondrá como mínimo de una unidad de control con un interfaz de usuario desde el que se controle las diferentes funcionalidades del sistema, así como los detectores, sondas, cableados, tomas telefónicas, conexiones y cuantos elementos sean necesarios para su correcto funcionamiento.
+c) Las instalaciones de domótica en las viviendas de nueva construcción deberán prever en los proyectos de construcción la adecuación técnica y sensorial de las mismas a las personas con discapacidad.
+2. En el caso de viviendas protegidas la subvención se abonará una vez obtenida la calificación definitiva de las viviendas, si bien el promotor podrá percibir hasta el 50 por 100 de su importe tras obtener la calificación provisional, previa presentación de aval suficiente que cubra el importe de la subvención solicitada.
+3. En el supuesto de viviendas libres la subvención se abonará íntegramente una vez obtenida la cédula de habitabilidad de las viviendas, previa solicitud del promotor.
+
+## Sección 3
+
+Sección 3.ª Ayudas destinadas al mantenimiento del arrendamiento
+
+### Artículo 8
+
+Artículo 8. Ayudas al mantenimiento del arrendamiento.
+1. Los arrendatarios de viviendas de protección oficial, de régimen especial, con ingresos inferiores a 1,7 veces el IPREM, que tengan un máximo de seis mensualidades de renta impagada en los últimos doce meses contados desde el primer impago, podrán percibir durante tales meses las subvenciones que les correspondan.
+2. Los arrendatarios no podrán volver a acogerse a lo dispuesto en el apartado anterior, hasta que haya transcurrido al menos un año desde el último mes impagado que dio derecho a la ayuda prevista en este artículo, y se encuentren al corriente del pago de dichas rentas.
+
+### Artículos 2 al 8
+
+Artículos 2 al 8.
+(Derogados)
+Se deroga por el art. 4 del Decreto-Ley Foral 1/2011, de 6 de octubre. Ref. BOE-A-2011-20377.
+
+## CAPÍTULO II
+
+Medidas de carácter temporal
+
+### Artículo 9
+
+Artículo 9. Calificación de las viviendas libres como protegidas y modificación del tipo de vivienda protegida.
+1. Podrán calificarse como viviendas protegidas o modificarse el régimen para el que se encuentren calificadas, aquellas promociones completas de viviendas que se encuentren terminadas o que estén previstas en proyectos de reparcelación debidamente inscritos en el Registro de la Propiedad con anterioridad a la entrada en vigor de esta Ley Foral, aun cuando la repercusión del coste del suelo y urbanización sobre el precio máximo de venta sea superior al porcentaje previsto en la Ley Foral 8/2004, de 24 de junio, de protección pública a la vivienda en Navarra, siempre y cuando se motive la necesidad de calificación de las viviendas como protegidas o, en su caso, la modificación de dicha calificación, se garantice su correcta ejecución y se cumpla con los requisitos de superficie, diseño, habitabilidad, destino, uso, calidad y precio máximo de las viviendas que se establecen en la normativa específica de vivienda protegida.
+2. Queda exceptuado de lo dispuesto en el apartado anterior las promociones que pretendieran destinarse al régimen de alquiler.
+Se modifica por el art. 5 del Decreto-Ley Foral 1/2011, de 6 de octubre. Ref. BOE-A-2011-20377.
+
+### Artículo 10
+
+Artículo 10. Vivienda libre de precio limitado.
+1. Tendrán la consideración de viviendas libres de precio limitado aquellas viviendas nuevas cuyo precio máximo en primera transmisión por metro cuadrado útil de vivienda y garaje no exceda de:
+2.310 euros el metro cuadrado útil en el caso de viviendas sitas en los municipios de Pamplona/Iruña, Ansoáin, Barañáin, Beriáin, Berrioplano, Berriozar, Burlada/Burlata, Cizur, Huarte/Uharte, Villava/Atarrabia, Galar, Cendea de Olza/Oltza Zendea, Orkoien, Noáin (Valle de Elorz)/Noain(Elortzibar), Aranguren, Egüés, Ezcabarte y Zizur Mayor/Zizur Nagusia, Olloki y Arleta (Esteribar).
+1.980 euros en el caso de viviendas sitas en el resto de las localidades de Navarra.
+El precio máximo del metro cuadrado útil destinado a otros anejos no superará el 40 por 100 del precio máximo del metro cuadrado útil destinado a vivienda y garaje.
+Los precios de la vivienda libre de precio limitado y de sus anejos se revisarán anualmente en la Ley Foral de Presupuestos Generales de Navarra correspondiente a los ejercicios de 2010 y de 2011, en atención a las condiciones de mercado.
+2. En las parcelas destinadas por el planeamiento a la construcción de viviendas de venta libre, el Departamento competente en materia de vivienda del Gobierno de Navarra diligenciará las primeras transmisiones de viviendas libres de precio limitado, previa comprobación documental del cumplimiento de los siguientes requisitos:
+a) Las viviendas únicamente podrán ser transmitidas por quienes reúnan la condición de promotor de acuerdo con lo establecido en la disposición adicional segunda de la Ley Foral 8/2004, de 24 de junio, de protección pública a la vivienda en Navarra.
+b) En todo caso, se ha de tratar de la primera transmisión de la vivienda del promotor a persona física.
+c) El precio final de la vivienda por metro cuadrado útil, incluidos sus anejos, que figure en el contrato de compraventa, en ningún caso será superior al establecido en el apartado 1 de este artículo.
+3. La presentación del contrato de compraventa en el Departamento competente en materia de vivienda para su diligencia será responsabilidad del promotor de la vivienda.
+4. Los compradores de las viviendas libres de precio limitado podrán solicitar préstamos cualificados en las condiciones previstas para los adjudicatarios de viviendas protegidas, previo reconocimiento administrativo de que el precio establecido en el contrato de compra no supera el máximo establecido.
+
+## CAPÍTULO III
+
+Medidas de carácter definitivo
+
+### Artículo 11
+
+Artículo 11. Modificación del destino de las viviendas protegidas.
+1. El Departamento competente en materia de vivienda podrá autorizar dentro de una misma promoción, a instancia del promotor, el uso en régimen de alquiler de la totalidad o parte de las viviendas protegidas calificadas definitivamente en régimen de compraventa.
+2. En las promociones de vivienda protegida que vayan a calificarse en régimen de compraventa, el Departamento competente en materia de vivienda podrá autorizar, a instancia del promotor, la reserva de una parte de las viviendas para que se destinen al alquiler.
+
+### Artículo 12
+
+Artículo 12. Excepciones al cumplimiento de determinados requisitos mínimos de acceso a vivienda protegida.
+1. En aquellas promociones en las que, tras celebrarse la correspondiente convocatoria pública, se hayan presentado menos solicitantes que viviendas protegidas a adjudicar, una vez transcurridos tres meses desde que se declarara desierta la adjudicación de la totalidad o de parte de las viviendas, el promotor podrá solicitar al Departamento competente en materia de vivienda, la exención del requisito de acreditar ingresos mínimos por parte de los solicitantes, así como del requisito de estar empadronado en algún municipio de Navarra.
+2. Asimismo, y hasta del 31 de diciembre de 2011, una vez transcurrido un año desde que se declarara desierta la adjudicación de la totalidad o de parte de las viviendas, el promotor podrá solicitar al Departamento competente en materia de vivienda, la exención del requisito de acreditar ingresos máximos por parte de los solicitantes.
+3. Las personas que adquieran una vivienda a través de lo dispuesto en este artículo, no podrán acceder a ninguna de las ayudas económicas generales previstas para el fomento de la vivienda protegida.
+
+### Artículo 13
+
+Artículo 13. Alquiler de habitación de vivienda protegida y/o de sus anejos.
+1. Las personas propietarias de vivienda protegida que sigan destinando la misma a domicilio habitual y permanente, podrán alquilar separadamente habitaciones de la misma, siempre y cuando se presente ante el Departamento competente en materia de vivienda el correspondiente contrato de arrendamiento.
+El precio máximo del alquiler de cada una de las habitaciones, en ningún caso, podrá ser superior al cociente resultante de dividir el precio máximo de alquiler de la totalidad de la vivienda, sin incluir anejos, entre el número de dormitorios de la misma.
+2. De igual modo, las personas propietarias de vivienda protegida podrán alquilar o vender separadamente cualquiera de sus anejos a un precio no superior al fijado anualmente por el Gobierno de Navarra para cada tipo de vivienda, y previa presentación del contrato ante el Departamento competente en materia de vivienda.
+3. En ambos casos, el arrendamiento o venta no implicará la devolución de las subvenciones percibidas, y no exigirá el cumplimiento de los requisitos mínimos de acceso a vivienda protegida por parte del arrendatario o adquirente.
+
+### Artículo 14
+
+Artículo 14. Cláusulas de penalización por renuncia a los contratos de adjudicación o compraventa de viviendas protegidas.
+1. Los contratos de adjudicación o compraventa de vivienda protegida que se presenten para su visado administrativo a partir de la entrada en vigor de la presente Ley Foral, contendrán cláusulas obligatorias que permitan la renuncia motivada a los mismos por parte de los compradores, estableciéndose una penalización máxima, por todos los conceptos, de 500 euros durante el primer año desde la fecha de suscripción del mismo, y de 1.200 euros a partir del segundo año.
+2. La devolución de subvenciones que haya de efectuarse como consecuencia de renuncia por parte de los compradores a la adjudicación de una vivienda protegida, no devengará interés alguno.
+
+### Artículo 15
+
+Artículo 15. Aval a exigir en promociones para arrendamiento.
+En los contratos de arrendamiento de viviendas de protección oficial, que se suscriban a partir de la entrada en vigor de la presente Ley Foral, el promotor sólo podrá exigir como garantía complementaria a la correspondiente fianza, la presentación de aval bancario por importe no superior a seis meses de renta en el régimen general y no superior a tres meses de renta en el régimen especial.
+
+### Artículo 16
+
+Artículo 16. Cambio de régimen en las promociones destinadas al arrendamiento
+Para el caso de promociones de viviendas de protección oficial, de régimen general, de viviendas de precio tasado y de viviendas de precio pactado con destino al arrendamiento, que hubieran obtenido la calificación provisional o definitiva en los últimos diez años, se podrá solicitar la adscripción al régimen especial de todas o parte de las viviendas, destinándose al arrendamiento en los términos y condiciones establecidos para dicho régimen especial, incluyendo la posibilidad de los arrendatarios de percibir las subvenciones establecidas para los inquilinos de tal régimen.
+
+### Artículo 17
+
+Artículo 17. Reconocimiento, a efectos de puntuación en el baremo, de la antigüedad de la cuenta vivienda.
+1. A efectos del acceso a una vivienda protegida, se considerará cumplido el requisito de antigüedad ininterrumpida en la titularidad de cuenta ahorro vivienda para aquellos solicitantes que acrediten haber sido titulares de una cuenta ahorro vivienda con derecho a deducción aunque por vencimiento del plazo que daba derecho a la misma hubiera sido cancelada, siempre y cuando la nueva cuenta vivienda, que da derecho a deducción, se haya abierto en el plazo máximo de tres meses contados desde la cancelación de la anterior.
+2. Asimismo se considerará cumplido el requisito, en las mismas condiciones, para aquellos solicitantes que habiendo sido titulares de una cuenta vivienda hubieran dispuesto de las cantidades depositadas para acceder a un vivienda protegida de la que finalmente no hubieran sido adquirentes por haber renunciado motivadamente o se les hubiera denegado el visado por causas no imputables a los mismos.
+
+## TÍTULO III
+
+Medidas fiscales
+
+### Artículo 18
+
+Artículo 18. Deducción por inversión en vivienda habitual para adquisición de viviendas de precio libre limitado.
+Se añade una Disposición Adicional Trigésima Tercera al Texto Refundido de la Ley Foral del Impuesto sobre la Renta de las Personas Físicas, aprobado por Decreto Foral Legislativo 4/2008, de 2 de junio:
+«Disposición Adicional Trigésima Tercera. Deducción por inversión en vivienda habitual para adquisición de viviendas de precio libre limitado.
+1. A los efectos de la deducción por inversión en vivienda habitual contemplada en el artículo 62.1 de este Texto Refundido, y en el supuesto de cantidades satisfechas en el período impositivo por el primer adquirente de la vivienda que cumpla los requisitos para ser calificada como vivienda de precio libre limitado, los porcentajes de deducción establecidos en las letras a) y g) de dicho artículo se incrementarán en cinco puntos porcentuales y pasarán a ser, respectivamente, el 20 por 100, el 23 por 100 y el 35 por 100.
+Dicho incremento de cinco puntos porcentuales solamente podrá aplicarse en el primer período impositivo en el que tenga lugar el pago de cantidades por el adquirente de la vivienda y en los nueve periodos impositivos inmediatos siguientes.
+2. El Departamento de Vivienda y Ordenación del Territorio acreditará que la vivienda cumple los requisitos para ser calificada como de precio libre limitado y, en particular, que se trata de la primera transmisión de vivienda nueva del promotor a persona física.
+3. La deducción prevista en la presente disposición adicional será de aplicación respecto de las viviendas de precio libre limitado cuyos contratos de compraventa hayan sido diligenciados administrativamente hasta el 31 de diciembre de 2011.»
+
+### Artículo 19
+
+Artículo 19. Ampliación del plazo de reinversión en los supuestos de transmisión de la vivienda habitual durante 2008 y siempre que esa transmisión se haya realizado con posterioridad a que se hayan satisfecho cantidades destinadas a la adquisición o rehabilitación de una nueva vivienda habitual.
+Se añade una disposición adicional trigésima cuarta al Texto Refundido de la Ley Foral del Impuesto sobre la Renta de las Personas Físicas, aprobado por Decreto Foral Legislativo 4/2008, de 2 de junio:
+«Disposición adicional trigésimo cuarta. Ampliación del plazo de reinversión en los supuestos de transmisión de la vivienda habitual durante el año 2008.
+A los efectos de la aplicación de la Disposición Adicional Trigésima Primera de este Texto Refundido, en los supuestos de transmisiones de la vivienda habitual efectuadas durante el año 2008, las cantidades satisfechas durante el año 2006 para la adquisición o rehabilitación de una nueva vivienda habitual se considerarán como importe reinvertido aunque se hubiesen satisfecho en un plazo superior a los dos años anteriores a la enajenación de la vivienda habitual.»
+
+### Artículo 20
+
+Artículo 20. Cantidades depositadas en cuentas vivienda que no han sido destinadas a la adquisición de la vivienda habitual por haberse producido la resolución del contrato con el vendedor o promotor de la vivienda.
+Se considerará que no se ha incumplido la obligación establecida en el artículo 62.1.a) del Texto Refundido de la Ley Foral del Impuesto sobre la Renta de las Personas Físicas, de que las cantidades depositadas en cuentas vivienda se destinen a la primera adquisición o rehabilitación de la vivienda habitual, en los supuestos en que, producida la resolución del contrato de compraventa de la vivienda por causas excepcionales, el vendedor o promotor haya devuelto al sujeto pasivo las cantidades entregadas a cuenta y éste las haya reintegrado en la cuenta vivienda antigua o en una nueva, en el caso de haber cancelado la cuenta anterior.
+El Consejero de Economía y Hacienda determinará las causas excepcionales que pudieran dar lugar a la resolución del contrato de compraventa sin que de ello se derive el incumplimiento de la obligación, así como los requisitos que habrán de cumplirse para reintegrar en la cuenta vivienda las cantidades devueltas por el vendedor o promotor de la vivienda, y la forma de acreditar dichas causas y requisitos.
+
+### Artículo 21
+
+Artículo 21. Ampliación del plazo de cuenta vivienda.
+El plazo establecido en el artículo 53 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, y cuyo transcurso determina la perdida del derecho a la deducción por inversión en vivienda habitual, será de diez años.
+La aplicación de dicho plazo afectará a las cantidades depositadas en cuentas vivienda cuya apertura se hubiera producido a partir del 1 de enero de 2000.
+El Gobierno de Navarra podrá en el futuro regular esta materia por normas de carácter reglamentario.
+En el supuesto de que a 31 de diciembre de 2008 hubiese transcurrido el plazo de ocho años establecido en el citado artículo 53 y el titular de la cuenta vivienda hubiera dispuesto entre el 1 de enero de 2008 y la entrada en vigor de la presente Ley Foral de cantidades de la cuenta para fines distintos a la primera adquisición o rehabilitación de la vivienda habitual, la ampliación del plazo hasta los diez años estará condicionada a la reposición de las cantidades dispuestas entre tales fechas, en la cuenta vivienda antigua o en otra nueva en caso de haber cancelado la cuenta anterior. Dicha reposición habrá de efectuarse dentro del plazo de los tres meses siguientes a la entrada en vigor de esta Ley Foral.
+En el caso de que la reposición se efectúe en una nueva cuenta vivienda, en razón de que la cuenta vivienda anterior hubiese sido cancelada, se considerará que la nueva cuenta fue abierta en la fecha de apertura de la anterior.
+
+### Artículo 22
+
+Artículo 22. Deducción por inversión en vivienda habitual para adquisición de viviendas protegidas calificadas como de protección oficial o de precio tasado.
+Con efectos para las viviendas calificadas como de protección oficial o de precio tasado cuyos contratos de compraventa hayan sido visados administrativamente entre la entrada en vigor de esta Ley Foral y el 31 de diciembre de 2011, se añade una Disposición adicional trigésima quinta al Texto Refundido de la Ley Foral del Impuesto sobre la Renta de las Personas Físicas, aprobado por Decreto Foral Legislativo 4/2008, de 2 de junio, en los siguientes términos:
+«Disposición adicional trigésima quinta. Deducción por inversión en vivienda habitual para adquisición de viviendas protegidas calificadas como de protección oficial o de precio tasado.
+1. A los efectos de la deducción por inversión en vivienda habitual contemplada en el artículo 62.1 de este Texto Refundido, y en el supuesto de cantidades satisfechas en el periodo impositivo por el adquirente de la vivienda que cumpla los requisitos para ser calificada como vivienda de protección oficial o de precio tasado, los porcentajes de deducción establecidos en la letras a) y g) de dicho artículo se incrementarán en cinco puntos porcentuales y pasarán a ser, respectivamente, el 20 por 100, el 23 por 100 y el 35 por 100.
+Dicho incremento de cinco puntos porcentuales solamente podrá aplicarse en el primer periodo impositivo en el que tenga lugar el pago de cantidades por el adquirente de la vivienda y en los nueve periodos impositivos inmediatos siguientes.
+2. El Departamento de Vivienda y Ordenación del Territorio acreditará que la vivienda cumple los requisitos para ser calificada como de protección oficial o de precio tasado.»
+
+### Artículo 23
+
+Artículo 23. Modificación de la disposición adicional vigésima octava del Texto Refundido de la Ley Foral del Impuesto sobre la Renta de las Personas Físicas, aprobado por Decreto Foral Legislativo 4/2008, de 2 de junio.
+Se da nueva redacción a la disposición adicional vigésima octava del Texto Refundido de la Ley Foral del Impuesto sobre la Renta de las Personas Físicas, aprobado por Decreto Foral Legislativo 4/2008, de 2 de junio, en los siguientes términos:
+«Disposición adicional vigésima octava. Plan extraordinario de apoyo a la rehabilitación de la vivienda habitual y a la eficiencia energética.
+1. Las cantidades satisfechas en el período impositivo por la rehabilitación de la vivienda que tenga la consideración de habitual, en los términos establecidos en el artículo 62 de este Texto Refundido, y que cumpla las condiciones que sobre protección a la rehabilitación del patrimonio residencial y urbano sean exigibles legalmente y se acrediten mediante la oportuna certificación expedida por el Departamento de Vivienda y Ordenación del Territorio, tendrán el siguiente tratamiento en la deducción en la cuota por inversión en vivienda habitual en el Impuesto sobre la Renta de las Personas Físicas:
+Con carácter general, los porcentajes de deducción establecidos en las letras a y g del artículo 62.1 de este Texto Refundido se incrementarán en tres puntos porcentuales y pasarán a ser, respectivamente, el 18 por 100, el 21 por 100 y el 33 por 100.
+En el supuesto de que las obras de rehabilitación incluyan mejora de eficiencia energética, los porcentajes de deducción establecidos en las letras a y g del artículo 62.1 de este Texto Refundido se incrementarán en cinco puntos porcentuales y pasarán a ser, respectivamente, el 20 por 100, el 23 por 100 y el 35 por 100.
+El Departamento de Vivienda y Ordenación del Territorio acreditará, mediante las cédulas de calificación de los expedientes de rehabilitación protegida de viviendas, el inicio de tales obras durante los años 2009 a 2011, ambos inclusive, y si estas incluyen mejora de eficiencia energética. Se considerarán obras iniciadas aquéllas para las que se solicite calificación provisional de rehabilitación protegida desde el 1-1-2009 hasta el 31-12-2011 y les sea concedida en ese período. La consideración de cuándo las obras de rehabilitación incluyen mejora de eficiencia energética podrá establecerse reglamentariamente en su normativa sectorial específica.
+2. Dicha deducción no será de aplicación a las obras acogidas a la subvención extraordinaria para la reforma interior de viviendas, contempladas en el artículo 87 bis del Decreto Foral 4/2006, de 9 de enero, por el que se regulan las actuaciones protegibles en materia de vivienda y el fomento de la edificación residencial.»
+
+## TÍTULO IV
+
+Viviendas de Navarra S.A. (VINSA)
+
+### Artículo 24
+
+Artículo 24. Viviendas de Navarra S.A. (VINSA).
+1. Durante el periodo 2009-2011, VINSA orientará preferentemente su actividad hacia:
+Operaciones de rehabilitación y reforma urbana.
+Promoción de vivienda protegida en régimen de alquiler.
+2. Durante el mismo periodo VINSA no promocionará vivienda protegida en régimen de compraventa por encima de lo que resulte necesario para garantizar el resto de sus objetivos, especialmente el fomento del Sistema Público de Alquiler, y en ningún caso superará el 15 por 100 de las viviendas protegidas promovidas.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Modificaciones de Planes tramitadas tras la entrada en vigor de la presente Ley Foral.
+Las modificaciones de Planes que se tramiten tras la entrada en vigor de la presente Ley Foral, deberán cumplir, como mínimo, con las determinaciones sobre espacios dotacionales y de servicios establecidos en el artículo 53 de la Ley Foral 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo, en su redacción dada por esta Ley Foral, tomando para ello como referencia el sector o unidad que se pretende modificar en su conjunto.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Interés de demora.
+Con efectos desde el 1 de abril de 2009, el tipo de interés de demora a que se refiere el artículo 50.2.c) de la Ley Foral 13/2000, de 14 de diciembre, General Tributaria, queda establecido en el 5 por 100 anual.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Viviendas acogidas al régimen de rehabilitación protegida.
+(Derogada)
+Se deroga por el art. 4 del Decreto-Ley Foral 1/2011, de 6 de octubre. Ref. BOE-A-2011-20377.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Ayudas de rehabilitación en la zona pirenaica.
+A las actuaciones de rehabilitación en inmuebles de viviendas que se encuentran situados en alguno de los municipios incluidos dentro del Plan Estratégico de Desarrollo del Pirineo y que cuenten con una antigüedad, desde la fecha de finalización de su construcción, superior a 50 años se les otorgarán, en la parte que le corresponde al Gobierno de Navarra, las ayudas económicas que la normativa establece para las actuaciones de rehabilitación protegible en las Áreas declaradas de Rehabilitación Preferente.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Requisitos a cumplir por las modificaciones de planeamiento que supongan incremento de la edificabilidad.
+1. En los sectores o unidades correspondientes a los Planes tramitados al amparo de la Ley Foral 35/2002, o adaptados a sus determinaciones en lo que se refiere al porcentaje de viviendas protegidas en los que a la entrada en vigor de esta Ley Foral se hayan aprobado definitivamente los proyectos de equidistribución, se podrán aprobar modificaciones que supongan incremento de la edificabilidad, siempre que las infraestructuras y servicios que estén vinculados al desarrollo residencial lo permitan y hasta un máximo de un 30 por 100, sin necesidad de ajustar sus determinaciones a los estándares del artículo 53 de la Ley Foral 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo, siempre que se cumplan los siguientes requisitos:
+a) Que el ámbito de la modificación sea el del conjunto del sector o unidad.
+b) Que no supongan incremento del aprovechamiento urbanístico homogeneizado, ni alteración de los coeficientes de homogeneización empleados.
+c) Que se presenten para su aprobación en los tres meses siguientes a la entrada en vigor de la presente Ley Foral.
+d) Que el incremento de edificabilidad propuesto se destine, como mínimo, en un 80 por 100 a la construcción de vivienda protegida.
+2. En los sectores o unidades correspondientes a los Planes que se hubieran aprobado bajo la vigencia de la Ley Foral 10/1994, de 4 de julio, de Ordenación del Territorio y Urbanismo, y que no se haya acogido con posterioridad a la previsión de destinar a vivienda de protección oficial un mínimo del 50 por 100, se podrán aprobar modificaciones que supongan incremento de la edificabilidad, hasta un máximo de un 15 por 100, sin necesidad de ajustar sus determinaciones a los estándares del artículo 53 de la Ley Foral 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo, siempre que se cumplan los siguientes requisitos:
+a) Que el ámbito de la modificación sea el del conjunto del sector o unidad.
+b) Que no supongan incremento del aprovechamiento urbanístico homogeneizado, ni alteración de los coeficientes de homogeneización empleados.
+c) Que se presenten para su aprobación en los tres meses siguientes a la entrada en vigor de la presente Ley Foral.
+d) Que el incremento de edificabilidad propuesto se destine a vivienda protegida en un porcentaje que, como mínimo, sea igual al ya previsto en la unidad o sector que se modifique.
+3. Las modificaciones previstas en esta disposición se tramitarán de acuerdo con lo establecido en el artículo 74 y, en su caso, 45.5 de la Ley Foral 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo. No obstante, el expediente de modificación deberá contar con los informes sectoriales favorables a los que se refiere el artículo 70.8 de la Ley Foral 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo, en su redacción dada por la presente Ley Foral, que deberán ser emitidos en un plazo máximo de 15 días naturales, transcurrido el cual se entenderá que el informe es favorable a la modificación propuesta.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Vigencia temporal de determinadas ayudas.
+1. (Derogado)
+2. Las medidas previstas en el Capítulo II del Título II de la presente Ley Foral se aplicarán hasta el 31 de diciembre de 2011.
+Se deroga el apartado 1 por el art. 4 del Decreto-Ley Foral 1/2011, de 6 de octubre. Ref. BOE-A-2011-20377.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Planeamiento en tramitación a la entrada en vigor de esta Ley Foral.
+Las revisiones y modificaciones de planeamiento, así como los instrumentos de desarrollo que a la entrada en vigor de la presente Ley Foral se encontraran en tramitación de acuerdo con lo dispuesto en la Ley 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo, podrán continuar su tramitación de acuerdo con lo dispuesto con anterioridad a la entrada en vigor de la presente Ley Foral.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación al Gobierno de Navarra.
+Se autoriza al Gobierno de Navarra para dictar cuantas disposiciones reglamentarias exijan la aplicación y el desarrollo de esta Ley Foral.
+
+### Firma
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S.M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el Boletín Oficial de Navarra y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 5 de junio de 2009.
+El Presidente del Gobierno de Navarra,
+Miguel Sanz Sesma.

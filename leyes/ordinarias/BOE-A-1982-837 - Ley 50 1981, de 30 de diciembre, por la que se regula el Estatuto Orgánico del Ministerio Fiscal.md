@@ -1,0 +1,1030 @@
+# Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.
+
+- Identificador BOE: `BOE-A-1982-837`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1982-837
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+## TITULO PRIMERO
+
+TITULO I
+Del Ministerio Fiscal y sus funciones
+
+## CAPITULO PRIMERO
+
+CAPITULO I
+Del Ministerio Fiscal
+
+### Artículo primero
+
+El Ministerio Fiscal tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, de oficio o a petición de los interesados, así como velar por la independencia de los Tribunales, y procurar ante éstos la satisfacción del interés social.
+
+### Artículo segundo
+
+Uno. El Ministerio Fiscal es un órgano de relevancia constitucional con personalidad jurídica propia, integrado con autonomía funcional en el Poder Judicial, y ejerce su misión por medio de órganos propios, conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad.
+Dos. Corresponde al Ministerio Fiscal esta denominación con carácter exclusivo.
+Se modifica el apartado 1 por el art. único.1 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+## CAPITULO II
+
+De las funciones del Ministerio Fiscal
+
+### Artículo tercero
+
+Para el cumplimiento de las misiones establecidas en el artículo 1, corresponde al Ministerio Fiscal:
+1. Velar por que la función jurisdiccional se ejerza eficazmente conforme a las leyes y en los plazos y términos en ellas señalados, ejercitando, en su caso, las acciones, recursos y actuaciones pertinentes.
+2. Ejercer cuantas funciones le atribuya la ley en defensa de la independencia de los jueces y tribunales.
+3. Velar por el respeto de las instituciones constitucionales y de los derechos fundamentales y libertades públicas con cuantas actuaciones exija su defensa.
+4. Ejercitar las acciones penales y civiles dimanantes de delitos, sin perjuicio de la competencia de la Fiscalía Europea para ejercer la acción penal y solicitar la apertura de juicio oral por los delitos contra los intereses financieros de la Unión que asuma de acuerdo con su normativa, u oponerse a las ejercitadas por otros, cuando proceda.
+5. Intervenir en el proceso penal, instando de la autoridad judicial la adopción de las medidas cautelares que procedan y la práctica de las diligencias encaminadas al esclarecimiento de los hechos o instruyendo directamente el procedimiento en el ámbito de lo dispuesto en la Ley Orgánica reguladora de la Responsabilidad Penal de los Menores, pudiendo ordenar a la Policía Judicial aquellas diligencias que estime oportunas.
+6. Tomar parte, en defensa de la legalidad y del interés público o social, en los procesos relativos al estado civil y en los demás que establezca la ley.
+7. Intervenir en los procesos civiles que determine la ley cuando esté comprometido el interés social o cuando puedan afectar a personas menores, incapaces o desvalidas en tanto se provee de los mecanismos ordinarios de representación.
+8. Mantener la integridad de la jurisdicción y competencia de los jueces y tribunales, promoviendo los conflictos de jurisdicción y, en su caso, las cuestiones de competencia que resulten procedentes, e intervenir en las promovidas por otros.
+9. Velar por el cumplimiento de las resoluciones judiciales que afecten al interés público y social.
+10. Velar por la protección procesal de las víctimas y por la protección de testigos y peritos, promoviendo los mecanismos previstos para que reciban la ayuda y asistencia efectivas.
+11. Intervenir en los procesos judiciales de amparo así como en las cuestiones de inconstitucionalidad en los casos y forma previstos en la Ley Orgánica del Tribunal Constitucional.
+12. Interponer el recurso de amparo constitucional, así como intervenir en los procesos de que conoce el Tribunal Constitucional en defensa de la legalidad, en la forma en que las leyes establezcan.
+13. Ejercer en materia de responsabilidad penal de menores las funciones que le encomiende la legislación específica, debiendo orientar su actuación a la satisfacción del interés superior del menor.
+14. Intervenir en los supuestos y en la forma prevista en las leyes en los procedimientos ante el Tribunal de Cuentas. Defender, igualmente, la legalidad en los procesos contencioso-administrativos y laborales que prevén su intervención.
+15. Promover o, en su caso, prestar el auxilio judicial internacional previsto en las leyes, tratados y convenios internacionales.
+16. Ejercer las demás funciones que el ordenamiento jurídico estatal le atribuya.
+Con carácter general, la intervención del fiscal en los procesos podrá producirse mediante escrito o comparecencia. También podrá producirse a través de medios tecnológicos, siempre que aseguren el adecuado ejercicio de sus funciones y ofrezcan las garantías precisas para la validez del acto de que se trate. La intervención del fiscal en los procesos no penales, salvo que la ley disponga otra cosa o actúe como demandante, se producirá en último lugar.
+Se modifica el apartado 4 por la disposición final 1.1 de la Ley Orgánica 9/2021, de 1 de julio. Ref. BOE-A-2021-10957#df
+ Se modifican los apartados 5, 10 y 11 por el art. único.2 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.1 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+ Se modifica el apartado 5 por el art. único.1 de la Ley 12/2000, de 28 de diciembre. Ref. BOE-A-2000-24264
+
+### Artículo cuarto
+
+El Ministerio Fiscal, para el ejercicio de sus funciones, podrá:
+Uno. Interesar la notificación de cualquier resolución judicial y la información sobre el estado de los procedimientos, pudiendo pedir que se le dé vista de éstos cualquiera que sea su estado, o que se le remita copia de cualquier actuación, para velar por el exacto cumplimiento de las leyes, plazos y términos, promoviendo, en su caso, las correcciones oportunas. Asimismo, podrá pedir información de los hechos que hubieran dado lugar a un procedimiento, de cualquier clase que sea, cuando existan motivos racionales para estimar que su conocimiento pueda ser competencia de un órgano distinto del que está actuando. También podrá acceder directamente a la información de los Registros oficiales, cuyo acceso no quede restringido a control judicial.
+Uno bis. Interesar la notificación de cualquier resolución de la Fiscalía Europea en asuntos en que esta haya intervenido, debiendo colaborar con aquella en las investigaciones que asuma, cuando sea requerido para ello.
+Dos. Visitar en cualquier momento los centros o establecimientos de detención, penitenciarios o de internamiento de cualquier clase de su respectivo territorio, examinar los expedientes de los internos y recabar cuanta información estime conveniente.
+Tres. Requerir el auxilio de las autoridades de cualquier clase y de sus agentes.
+Cuatro. Dar a cuantos funcionarios constituyen la Policía Judicial las órdenes e instrucciones procedentes en cada caso.
+Cinco. Informar a la opinión pública de los acontecimientos que se produzcan, siempre en el ámbito de su competencia y con respeto al secreto del sumario y, en general, a los deberes de reserva y sigilo inherentes al cargo y a los derechos de los afectados.
+Las autoridades, funcionarios u organismos o particulares requeridos por el Ministerio Fiscal en el ejercicio de las facultades que se enumeran en este artículo y en el siguiente deberán atender inexcusablemente el requerimiento dentro de los límites legales. Igualmente, y con los mismos límites, deberán comparecer ante el Fiscal cuando éste lo disponga.
+Seis. Establecer en las sedes de las Fiscalías Provinciales y en las que se considere necesario, centros de relación con las víctimas y perjudicados de las infracciones criminales cometidas en su circunscripción y por las que se sigue proceso penal en los Juzgados o Tribunales de la misma, con la finalidad de conocer los daños y perjuicios sufridos por ellas y para que aporten los documentos y demás pruebas de que dispongan para acreditar su naturaleza y alcance.
+Se añade el apartado Uno.bis por la disposición final 1.2 de la Ley Orgánica 9/2021, de 1 de julio. Ref. BOE-A-2021-10957#df
+ Se modifica por el art. único.3 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.2 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo quinto
+
+Uno. El Fiscal podrá recibir denuncias, enviándolas a la autoridad judicial o decretando su archivo, cuando no encuentre fundamentos para ejercitar acción alguna, notificando en este último caso la decisión al denunciante.
+Dos. Igualmente, y para el esclarecimiento de los hechos denunciados o que aparezcan en los atestados de los que conozca, puede llevar a cabo u ordenar aquellas diligencias para las que esté legitimado según la Ley de Enjuiciamiento Criminal, las cuales no podrán suponer la adopción de medidas cautelares o limitativas de derechos. No obstante, podrá ordenar el Fiscal la detención preventiva.
+Todas las diligencias que el Ministerio Fiscal practique o que se lleven a cabo bajo su dirección gozarán de presunción de autenticidad.
+Los principios de contradicción, proporcionalidad y defensa inspirarán la práctica de esas diligencias.
+A tal fin, el Fiscal recibirá declaración al sospechoso, quien habrá de estar asistido de letrado y podrá tomar conocimiento del contenido de las diligencias practicadas. La duración de esas diligencias habrá de ser proporcionada a la naturaleza del hecho investigado, sin que pueda exceder de seis meses, salvo prórroga acordada mediante decreto motivado del Fiscal General del Estado. No obstante, las diligencias de investigación en relación con los delitos a que se hace referencia en el apartado Cuatro del artículo Diecinueve del presente Estatuto, tendrán una duración máxima de doce meses salvo prórroga acordada mediante Decreto motivado del Fiscal General del Estado.
+Tres. Transcurrido el oportuno plazo, si la investigación hubiera evidenciado hechos de significación penal y sea cual fuese el estado de las diligencias, el Fiscal procederá a su judicialización, formulando al efecto la oportuna denuncia o querella, a menos que resultara procedente su archivo.
+También podrá el Fiscal incoar diligencias preprocesales encaminadas a facilitar el ejercicio de las demás funciones que el ordenamiento jurídico le atribuye.
+Se modifica por el art. único.4 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.3 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+ Se modifica por el art. único.2 de la Ley 12/2000, de 28 de diciembre. Ref. BOE-A-2000-24264
+
+## CAPITULO III
+
+De los principios de legalidad e imparcialidad
+
+### Artículo sexto
+
+Por el principio de legalidad el Ministerio Fiscal actuará con sujeción a la Constitución, a las leyes y demás normas que integran el ordenamiento jurídico vigente, dictaminando, informando y ejercitando, en su caso, las acciones procedentes u oponiéndose a las indebidamente actuadas en la medida y forma en que las leyes lo establezcan.
+Si el Fiscal estimare improcedente el ejercicio de las acciones o la actuación que se le haya confiado, usará de las facultades previstas en el artículo 27 de este Estatuto.
+
+### Artículo séptimo
+
+Por el principio de imparcialidad el Ministerio Fiscal actuará con plena objetividad e independencia en defensa de los intereses que le estén encomendados.
+
+## CAPITULO IV
+
+De las relaciones del Ministerio Fiscal con los poderes públicos
+
+### Artículo octavo
+
+Uno. El Gobierno podrá interesar del Fiscal General del Estado que promueva ante los Tribunales las actuaciones pertinentes en orden a la defensa del interés público.
+Dos. La comunicación del Gobierno con el Ministerio Fiscal se hará por conducto del Ministro de Justicia a través del Fiscal General del Estado. Cuando el Presidente del Gobierno lo estimo necesario podrá dirigirse directamente al mismo.
+El Fiscal General del Estado, oída la Junta de Fiscales de Sala del Tribunal Supremo, resolverá sobre la viabilidad o procedencia de las actuaciones interesadas y expondrá su resolución al Gobierno de forma razonada. En todo caso, el acuerdo adoptado se notificará a quien haya formulado la solicitud.
+
+### Artículo noveno
+
+1. El Fiscal General del Estado elevará al Gobierno una memoria anual sobre su actividad, la evolución de la criminalidad, la prevención del delito y las reformas convenientes para una mayor eficacia de la Justicia. En ella se recogerán las observaciones de las memorias que, a su vez, habrán de elevarle los fiscales de los distintos órganos, en la forma y tiempo que reglamentariamente se establezca. De esta memoria se remitirá copia a las Cortes Generales y al Consejo General del Poder Judicial. En todo caso, la citada memoria será presentada por el Fiscal General del Estado a las Cortes Generales en el período ordinario de sesiones más próximo a su presentación pública.
+2. El Fiscal General del Estado informará al Gobierno, cuando éste lo interese y no exista obstáculo legal, respecto a cualquiera de los asuntos en que intervenga el Ministerio Fiscal, así como sobre el funcionamiento, en general, de la Administración de Justicia. En casos excepcionales podrá ser llamado a informar ante el Consejo de Ministros.
+Se modifica por el art. único.4 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo diez
+
+El Ministerio Fiscal colaborará con las Cortes Generales a requerimiento de éstas y siempre que no exista obstáculo legal, sin perjuicio de comparecer ante las mismas para informar de aquellos asuntos para los que especialmente fuera requerido. Las Cortes Generales se comunicarán con el Ministerio Fiscal a través de los Presidentes de las Cámaras.
+
+### Artículo once
+
+Uno. En el marco de sus competencias y cuando los órganos de Gobierno de las Comunidades Autónomas interesen la actuación del Ministerio Fiscal en defensa de interés público se dirigirán, poniéndolo en conocimiento del Ministerio de Justicia, al Fiscal Superior de la Comunidad Autónoma, que lo pondrá en conocimiento del Fiscal General del Estado, quien, oída la Junta de Fiscales de Sala, resolverá lo procedente, ajustándose en todo caso al principio de legalidad. Cualquiera que sea el acuerdo adoptado, se dará cuenta del mismo a quien haya formulado la solicitud.
+Dos. Los Fiscales Superiores de las Comunidades Autónomas elaborarán una memoria sobre la actividad de las Fiscalías de su ámbito territorial que elevarán al Fiscal General del Estado. Asimismo, remitirán copia al Gobierno, al Consejo de Justicia y a la Asamblea Legislativa de la Comunidad. Deberán presentar la Memoria ante la Asamblea Legislativa de la misma dentro de los seis meses siguientes al día en que se hizo pública.
+Los Fiscales Superiores de las Comunidades Autónomas colaborarán con la Asamblea Legislativa de la Comunidad Autónoma en los mismos términos y condiciones que se prevén en el artículo anterior para las relaciones entre el Fiscal General del Estado y las Cortes Generales.
+Tres. Los miembros del Ministerio Fiscal colaborarán con las Comunidades Autónomas que ostenten competencias en materia de Justicia para la efectividad de las funciones que éstas ostentan en materia de medios materiales y personales al servicio de la Administración de Justicia y participarán en los órganos de colaboración que en el ámbito territorial de éstas se constituyan entre los distintos operadores e instancias implicados en la Administración de Justicia con el fin de analizar, debatir y realizar estudios sobre materias relacionadas con la Administración de Justicia. Se podrán celebrar convenios con las Comunidades Autónomas previa autorización del Fiscal General del Estado.
+Se modifica por el art. único.5 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+## TITULO II
+
+De los órganos del Ministerio Fiscal y de los Principios que lo informan
+
+## CAPITULO PRIMERO
+
+CAPITULO I
+De la organización, competencias y planta
+
+### Artículo doce
+
+Son órganos del Ministerio Fiscal:
+a) El Fiscal General del Estado.
+b) El Consejo Fiscal.
+c) La Junta de Fiscales de Sala.
+d) La Junta de Fiscales Superiores de las Comunidades Autónomas.
+e) La Fiscalía del Tribunal Supremo.
+f) La Fiscalía ante el Tribunal Constitucional.
+g) La Fiscalía de la Audiencia Nacional.
+h) Las Fiscalías Especiales.
+i) La Fiscalía del Tribunal de Cuentas, que se regirá por lo dispuesto en la Ley Orgánica de dicho Tribunal.
+j) La Fiscalía Jurídico Militar.
+k) Las Fiscalías de las Comunidades Autónomas.
+l) Las Fiscalías Provinciales.
+m) Las Fiscalías de Área.
+n) La Unidad de Protección de Datos del Ministerio Fiscal
+Téngase en cuenta que esta letra n), modificada por la disposición final 5.1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1.
+ Redacción anterior:
+ "n) La Unidad de Supervisión y Control de Protección de Datos."
+Se modifica la letra n), con efectos de 3 de abril de 2025, por la disposición final 5.1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5
+ Se añade la letra n) por la disposición final 2.1 de la Ley Orgánica 7/2021, de 26 de mayo. Ref. BOE-A-2021-8806#df-2
+ Se modifica por el art. único.6 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica el apartado 1 por el art. único.1 de la Ley 10/1995, de 24 de abril. Ref. BOE-A-1995-10066
+ Se modifica el apartado 1 por el art. 1 de la Ley 5/1988, de 24 de marzo. Ref. BOE-A-1988-8175
+
+### Artículo trece
+
+Uno. El Fiscal General del Estado dirige la Fiscalía General del Estado, integrada por la Inspección Fiscal, la Secretaría Técnica, la Unidad de Apoyo, y por los Fiscales de Sala que se determinen en plantilla.
+Corresponde al Fiscal General del Estado, además de las facultades reconocidas en otros preceptos de este Estatuto, la de proponer al Gobierno los ascensos y nombramientos para los distintos cargos, previo informe del Consejo Fiscal, oído el Fiscal Superior de la Comunidad Autónoma respectiva cuando se trate de cargos en las Fiscalías de su ámbito territorial.
+Dos. La Inspección Fiscal de la Fiscalía General del Estado será dirigida por un Fiscal Jefe Inspector y estará integrada por un Teniente Fiscal Inspector y los inspectores fiscales que se determine en plantilla. Ejercerá con carácter permanente sus funciones por delegación del Fiscal General del Estado en la forma que el reglamento establezca, sin perjuicio de las funciones Inspectoras que al Fiscal Jefe de cada Fiscalía corresponden respecto a los funcionarios que de él dependan. En todo caso, corresponde al Fiscal Superior de la Comunidad Autónoma ejercer la inspección ordinaria de las Fiscalías de su ámbito territorial.
+En la Inspección Fiscal se creará una Sección Permanente de Valoración, a los efectos de centralizar toda la información sobre méritos y capacidad de los Fiscales, con la finalidad de apoyar al Consejo Fiscal a la hora de informar las diferentes propuestas de nombramientos discrecionales en la Carrera Fiscal.
+Tres. La Secretaría Técnica de la Fiscalía General del Estado será dirigida por un Fiscal Jefe y estará integrada por un Teniente Fiscal y los fiscales que se determinen en plantilla, que realizarán los trabajos preparatorios que se les encomienden en aquellas materias en las que corresponda a la Junta de Fiscales de Sala asistir al Fiscal General del Estado, así como cuantos otros estudios, investigaciones e informes estime éste procedente.
+Asimismo, la Secretaría Técnica colaborará en la planificación de la formación de los miembros de la carrera fiscal cuya competencia corresponde al Centro de Estudios Jurídicos.
+Sin perjuicio de las competencias encomendadas a otros órganos, la Secretaría Técnica asumirá las funciones que las leyes atribuyan al Ministerio Fiscal en materia de cooperación judicial internacional, en el marco de las directrices de política exterior emanadas del Gobierno.
+Cuatro. La Unidad de Apoyo será dirigida por un Fiscal Jefe y estará integrada por los fiscales que se determinen en plantilla. Para el cumplimiento de sus funciones podrán ser adscritos a la Unidad de Apoyo funcionarios de la Administración General del Estado y de la Administración de Justicia, en el número que igualmente se determine en plantilla, quedando en todo caso en servicio activo en sus cuerpos de origen. Su función será realizar labores de asistencia a la Fiscalía General del Estado en materia de:
+a) Representación institucional y relaciones con los poderes públicos.
+b) Comunicación, relaciones con los medios y gestión de la atención al ciudadano.
+c) Análisis y evaluación de las propuestas relativas a necesidades de organización y funcionamiento del Ministerio Fiscal en materia de estadística, informática, personal, medios materiales, información y documentación.
+d) En general, aquellas funciones de asistencia o apoyo al Fiscal General del Estado, a los Fiscales de Sala adscritos a la Fiscalía General del Estado, al Consejo Fiscal y a la Junta de Fiscales de Sala que no correspondan a la Inspección o a la Secretaría Técnica.
+Cinco. Los Fiscales de Sala integrados en la Fiscalía General del Estado contarán con los fiscales adscritos que se determinen en plantilla.
+El régimen de designación y cese de estos Fiscales de Sala será el previsto en el apartado uno del artículo treinta y seis y en el apartado uno del artículo cuarenta y uno de este Estatuto.
+El régimen de designación y cese de los fiscales adscritos a los Fiscales de Sala será el previsto en el apartado tres del artículo treinta y seis.
+Se modifica por el art. único.7 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.5 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo catorce
+
+Uno. El Consejo Fiscal se constituirá, bajo la Presidencia de la persona titular de la Fiscalía General del Estado, por el o la Teniente Fiscal del Tribunal Supremo, el Fiscal Jefe Inspector o la Fiscal Jefa Inspectora y nueve Fiscales pertenecientes a cualquiera de las categorías. Todos los miembros del Consejo Fiscal, excepto la persona titular de la Fiscalía General del Estado, el o la Teniente Fiscal del Tribunal Supremo y el Fiscal Inspector, se elegirán, por un período de cuatro años, atendiendo al principio de presencia equilibrada de mujeres y hombres, de forma que cada uno de los sexos suponga como mínimo el cuarenta por ciento de los Vocales electos, por los miembros del Ministerio Fiscal en servicio activo, constituidos en un único colegio electoral en la forma que reglamentariamente se determine.
+Dos. No podrán ser elegidos vocales del Consejo Fiscal los Fiscales que presten sus servicios en la Inspección Fiscal, la Unidad de Apoyo y la Secretaría Técnica de la Fiscalía General del Estado.
+Tres. El Consejo Fiscal podrá funcionar en Pleno y en Comisión Permanente y sus acuerdos se adoptarán por mayoría simple, siendo dirimente, en caso de empate, el voto de su Presidente.
+Cuatro. Corresponde al Consejo Fiscal:
+a) Elaborar los criterios generales en orden a asegurar la unidad de actuación del Ministerio Fiscal, en lo referente a la estructuración y funcionamiento de sus órganos.
+b) Asesorar al Fiscal General del Estado en cuantas materias éste le someta.
+c) Informar las propuestas pertinentes respecto al nombramiento de los diversos cargos.
+d) Elaborar los informes para ascensos de los miembros de la carrera fiscal.
+e) Resolver los expedientes disciplinarios y de mérito que sean de su competencia, así como apreciar las posibles incompatibilidades a que se refiere este Estatuto.
+f) Resolver los recursos interpuestos contra resoluciones dictadas en expedientes disciplinarios por los Fiscales Jefes de los distintos órganos del Ministerio Fiscal.
+g) Instar las reformas convenientes al servicio y al ejercicio de la función fiscal.
+h) Conocer los planes anuales de la Inspección Fiscal.
+i) Conocer e informar los planes de formación y selección de los Fiscales.
+j) Informar los proyectos de ley o normas reglamentarias que afecten a la estructura, organización y funciones del Ministerio Fiscal. A estos efectos, el Consejo Fiscal deberá emitir el informe correspondiente en el plazo de treinta días hábiles. Cuando en la orden de remisión se haga constar la urgencia del informe, el plazo será de quince días hábiles.
+k) Dirigir al Fiscal General del Estado cuantas peticiones y solicitudes relativas a su competencia se consideren oportunas.
+l) (Suprimida).
+Téngase en cuenta que la supresión de esta letra l) por la disposición final 5.2 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1.
+ Redacción anterior:
+ "l) Nombrar por mayoría absoluta a la persona titular de la Unidad de Supervisión y Control de Protección de Datos."
+Habrá de integrarse en el seno del Consejo Fiscal una Comisión de Igualdad para el estudio de la mejora de los parámetros de igualdad en la carrera fiscal, cuya composición quedará determinada en la normativa que rige la constitución y funcionamiento del Consejo Fiscal.
+Se suprime la letra l) del apartado 4, con efectos de 3 de abril de 2025, por la disposición final 5.2 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5
+ Se modifica el apartado 1 por el art. 4 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#ac
+ Téngase en cuenta que esta modificación se aplicará a la elección de los miembros del Consejo Fiscal que tenga lugar tras la entrada en vigor de la citada Ley Orgánica, segín establece su disposición transitoria2.3.
+ Se añade la letra l) al apartado 4 por la disposición final 2.3 de la Ley Orgánica 7/2021, de 26 de mayo. Ref. BOE-A-2021-8806#df-2
+ Se modifica por el art. único.8 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se añade el último párrafo al apartado 1 por la disposición adicional 4 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+ Se modifica por el art. único.6 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+ Se modifica el apartado 1 por la disposición adicional 2.1 de la Ley 5/1988, de 24 de marzo. Ref. BOE-A-1988-8175
+
+### Artículo quince
+
+La Junta de Fiscales de Sala se constituirá, bajo la presidencia del Fiscal General del Estado, por el Teniente Fiscal del Tribunal Supremo y los Fiscales de Sala. Actuará como Secretario el Fiscal Jefe de la Secretaría Técnica.
+La Junta asiste al Fiscal General del Estado en materia doctrinal y técnica, en orden a la formación de los criterios unitarios de interpretación y actuación legal, la resolución de consultas, elaboración de las memorias y circulares, preparación de proyectos e informes que deban ser elevados al Gobierno y cualesquiera otras, de naturaleza análoga, que el Fiscal General del Estado estime procedente someter a su conocimiento y estudio, así como en los supuestos previstos en el artículo veinticinco de este Estatuto.
+Se modifica por el art. único.9 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Artículo dieciséis
+
+La Junta de Fiscales Superiores de las Comunidades Autónomas, presidida por el Fiscal General del Estado, estará integrada por el Teniente Fiscal del Tribunal Supremo, por dichos Fiscales Superiores, y por el Fiscal Jefe de la Secretaría Técnica, que actuará como Secretario. Su función será asegurar la unidad y coordinación de la actuación y funcionamiento de las Fiscalías en todo el territorio del Estado, sin perjuicio de las competencias atribuidas al Consejo Fiscal por este Estatuto.
+En atención a los asuntos a tratar, podrá ser convocado a la Junta cualquier miembro del Ministerio Fiscal.
+Se modifica por el art. único.10 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.7 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo diecisiete
+
+La Fiscalía del Tribunal Supremo, bajo la jefatura del Fiscal General del Estado se integrará, además, con un Teniente Fiscal, los Fiscales de Sala y los Fiscales del Tribunal Supremo que se determinen en la plantilla, los cuales deberán pertenecer a la categoría segunda.
+El Teniente Fiscal del Tribunal Supremo desempeñará las siguientes funciones, sin perjuicio de las demás que le atribuya este Estatuto o el reglamento que lo desarrolle, o que pueda delegarle el Fiscal General del Estado:
+a) Sustituirá al Fiscal General del Estado en caso de ausencia, imposibilidad o vacante.
+b) Dirigirá y coordinará por delegación del Fiscal General del Estado la actividad ordinaria de la Fiscalía del Tribunal Supremo.
+Los Fiscales del Tribunal Supremo desempeñarán sus funciones en el ámbito de dicho Tribunal, y en consecuencia disfrutarán de la consideración, tratamiento y régimen retributivo acordes a la relevancia de su cometido y al rango y naturaleza de dicho órgano.
+Se modifica por el art. único.11 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Artículo dieciocho
+
+Las Fiscalías se constituirán y organizarán de acuerdo con las siguientes reglas:
+Uno. La Fiscalía ante el Tribunal Constitucional, la Fiscalía del Tribunal de Cuentas, la Fiscalía de la Audiencia Nacional y las Fiscalías Especiales estarán integradas por un Fiscal de Sala, por un Teniente Fiscal y por los Fiscales que determine la plantilla, que deberán pertenecer a la categoría segunda.
+La Fiscalía del Tribunal de Cuentas se regirá por lo dispuesto en la Ley Orgánica de dicho Tribunal.
+Dos. La Fiscalía Jurídico Militar estará integrada por la Fiscalía Togada, la Fiscalía del Tribunal Militar Central y las Fiscalías de los Tribunales Militares Territoriales. La Fiscalía Togada será dirigida por el Fiscal Togado y estará integrada al menos por un General Auditor y por un Fiscal de Sala perteneciente a la Carrera Fiscal y designado con arreglo a lo dispuesto en el artículo Trece de este Estatuto. La Fiscalía del Tribunal Militar Central y las Fiscalías de los Tribunales Militares Territoriales se formarán y organizarán conforme a lo dispuesto en la Ley Orgánica de Competencia y Organización de la Jurisdicción Militar.
+Tres. Las Fiscalías de las Comunidades Autónomas y las Fiscalías Provinciales serán dirigidas por su Fiscal Jefe y estarán integradas por un Teniente Fiscal, los Fiscales Decanos necesarios para su correcto funcionamiento según el tamaño y el volumen de trabajo de las Fiscalías, y los demás Fiscales que determine la plantilla. En las Comunidades Autónomas con competencias en materia de Justicia, podrán crearse unidades de apoyo al Fiscal Superior de la Comunidad Autónoma, en las que podrán integrarse funcionarios de la Comunidad Autónoma en el número que se determine en la plantilla, para labores de apoyo y asistencia en materias de estadística, informática, traducción de lenguas extranjeras, gestión de personal u otras que no sean de las que con arreglo a este Estatuto tengan encomendadas los Fiscales. Corresponde al Fiscal Superior de la Comunidad Autónoma informar al Gobierno de la Comunidad Autónoma de las necesidades de organización y funcionamiento de las Fiscalías de su ámbito territorial en materia de medios informáticos, nuevas tecnologías y demás medios materiales.
+Estas Fiscalías podrán contar con Secciones especializadas en aquellas materias que se determinen legal o reglamentariamente, o que por su singularidad o por el volumen de actuaciones que generen requieran de una organización específica. Dichas Secciones podrán constituirse, si se estima necesario para su correcto funcionamiento según el tamaño de las mismas, bajo la dirección de un Fiscal Decano, y a ellas serán adscritos uno o más Fiscales pertenecientes a la plantilla de la Fiscalía, teniendo preferencia aquellos que por razón de las anteriores funciones desempeñadas, cursos impartidos o superados o por cualquier otra circunstancia análoga, se hayan especializado en la materia. No obstante, cuando las necesidades del servicio así lo aconsejen podrán actuar también en otros ámbitos o materias.
+Las Secciones ejercerán las funciones que les atribuyan los respectivos Fiscales Jefes, en el ámbito de la materia que les corresponda, con arreglo a lo dispuesto en este Estatuto, en el reglamento que lo desarrolle y en las Instrucciones del Fiscal General del Estado. Además, en estas Secciones se integrarán los Fiscales Delegados de las Fiscalías Especiales cuando proceda conforme a lo dispuesto en el artículo Diecinueve de esta Ley. Las instrucciones que se den a las Secciones especializadas en las distintas Fiscalías, cuando afecten a un ámbito territorial determinado, deberán comunicarse al Fiscal Superior de la Comunidad Autónoma correspondiente.
+En todo caso, en la Fiscalía de la Audiencia Nacional y en las Fiscalías Provinciales existirá una Sección de Menores a la que se encomendarán las funciones y facultades que al Ministerio Fiscal atribuye la Ley Orgánica Reguladora de la Responsabilidad Penal de los Menores. Estas Secciones podrán constituirse en las Fiscalías de las Comunidades Autónomas cuando sus competencias, el volumen de trabajo o la mejor organización y prestación del servicio así lo aconsejen. Asimismo, en las Fiscalías Provinciales existirá una Sección contra la Violencia sobre la Mujer, que coordinará o en su caso asumirá directamente la intervención del Ministerio Fiscal en los procedimientos penales y civiles cuya competencia esté atribuida a los Juzgados de Violencia sobre la Mujer. En la Sección contra la Violencia sobre la Mujer deberá llevarse un registro de los procedimientos que se sigan relacionados con estos hechos que permitirá la consulta de los Fiscales cuando conozcan de un procedimiento de los que tienen atribuida la competencia, al efecto en cada caso procedente. Estas Secciones podrán constituirse en las Fiscalías de las Comunidades Autónomas cuando sus competencias, el volumen de trabajo o la mejor organización y prestación del servicio así lo aconsejen.
+En las Fiscalías Provinciales, cuando por el volumen de actuaciones que generen requieran de una organización específica podrán constituirse Secciones de seguridad vial y siniestralidad laboral.
+También existirá una Sección de Medio Ambiente especializada en delitos relativos a la ordenación del territorio, la protección del patrimonio histórico, los recursos naturales y el medio ambiente, la protección de la flora, fauna y animales domésticos, y los incendios forestales. Estas Secciones podrán constituirse en las Fiscalías de las Comunidades Autónomas cuando sus competencias, el volumen de trabajo o la mejor organización y prestación del servicio así lo aconsejen.
+En las Fiscalías Provinciales existirá una Sección contra los delitos de odio, que coordinará o en su caso asumirá directamente la intervención del Ministerio Fiscal en los procedimientos penales relacionados con los delitos de odio y discriminación. En la Sección contra los delitos de odio deberá llevarse un registro de los procedimientos que se sigan relacionados con estos hechos, que permitirá la consulta de los Fiscales cuando conozcan de un procedimiento de los que tienen atribuida la competencia al efecto en cada caso procedente. Estas Secciones podrán constituirse en las Fiscalías de las comunidades autónomas cuando sus competencias, el volumen de trabajo o la mejor organización y prestación del servicio así lo aconsejen.
+Cuatro. Cuando el volumen de asuntos, el número de órganos judiciales dentro de una provincia o la creación de una sección de la Audiencia Provincial en sede distinta de la capital de la misma lo aconsejen, el Fiscal General del Estado, oído el Consejo Fiscal y el Fiscal Superior de la respectiva Comunidad, podrá proponer al Ministro de Justicia la constitución de Fiscalías de Área, que serán dirigidas por un Fiscal Jefe y estarán integradas por los Fiscales que determine la plantilla. Se creará una Fiscalía de Área en todas aquellas localidades en las que exista una Sección desplazada de la Audiencia Provincial, tomando su nombre del lugar de su sede. Las Fiscalías de Área asumirán el despacho de los asuntos correspondientes al ámbito territorial que prevea la norma que las establezca, que podrá comprender uno o varios partidos judiciales.
+Cuando no se den las circunstancias señaladas en el párrafo anterior, pero la dispersión geográfica de los órganos judiciales o la mejor prestación del servicio lo hagan necesario, el Fiscal General del Estado, oído el Consejo Fiscal y el Fiscal Superior de la respectiva Comunidad, podrá proponer al Ministro de Justicia la constitución de Secciones Territoriales de la Fiscalía Provincial que atenderán los órganos judiciales de uno o más partidos de la misma provincia. Dichas Secciones se constituirán por los Fiscales que se determinen en plantilla y estarán dirigidas por un Fiscal Decano que será designado y ejercerá sus funciones en los términos previstos en este Estatuto.
+Por las mismas circunstancias señaladas en los dos párrafos anteriores, el Fiscal Superior de la Comunidad Autónoma, oídos los respectivos Fiscales Jefes Provinciales, podrá proponer al Fiscal General del Estado la constitución de Fiscalías de Área y de Secciones Territoriales en las Fiscalías de su ámbito territorial.
+Cinco. El número de las Fiscalías, las Secciones Territoriales en su caso, y sus respectivas plantillas se fijarán, de acuerdo con los criterios establecidos en los números anteriores, por Real Decreto, a propuesta del Ministro de Justicia, previo informe del Fiscal General del Estado, oído el Consejo Fiscal.
+La referida plantilla orgánica tendrá en todo caso, las limitaciones que se deriven de las previsiones presupuestarias que correspondan y será revisada al menos cada cinco años para adaptarla a las nuevas necesidades.
+Seis. Las decisiones referidas a las materias previstas en los apartados números tres, cuatro y Cinco de este precepto deberán contar con el informe previo del órgano competente de la Comunidad Autónoma en materia de medios personales y materiales de la Administración de Justicia.
+Se añade un párrafo al apartado 3 por la disposición final 5.1 de la Ley 15/2022, de 12 de julio. Ref. BOE-A-2022-11589#df-5
+ Se modifica por el art. único.12 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica el párrafo segundo del apartado 1 por la disposición final 1.1 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678
+ Se modifican los párrafos segundo y tercero del apartado 1 por el art. 71 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+ Se modifica el primer párrafo del apartado 1 por el art. único.8 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+ Se modifica el apartado 1 por el art. único.3 de la Ley 12/2000, de 28 de diciembre. Ref. BOE-A-2000-24264
+ Se modifica el apartado 1 por el art. único.2 de la Ley 10/1995, de 24 de abril. Ref. BOE-A-1995-10066
+ Se modifica el párrafo primero del apartado 1 por el art. 2 de la Ley 5/1988, de 24 de marzo. Ref. BOE-A-1988-8175
+
+### Artículo dieciocho bis
+
+Artículo dieciocho bis
+(Suprimido)
+Se suprime por el art. único.13 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se añade por el art. 3 de la Ley 5/1988, de 24 de marzo. Ref. BOE-A-1988-8175
+
+### Artículo dieciocho ter
+
+Artículo dieciocho ter
+(Suprimido)
+Se suprime por el art. único.13 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se añade por el art. único.3 de la Ley 10/1995, de 24 de abril. Ref. BOE-A-1995-10066
+
+### Artículo dieciocho quáter
+
+Artículo dieciocho quáter
+(Suprimido)
+Se suprime por el art. único.13 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se añade por el art. 70 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+
+### Artículo dieciocho quinquies
+
+Artículo dieciocho quinquies.
+(Suprimido)
+Se suprime por el art. único.13 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se añade por la disposición final 1.2 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678
+
+### Artículo diecinueve
+
+Uno. La Fiscalía de la Audiencia Nacional es competente para conocer de los asuntos que correspondan a dicho órgano judicial, con excepción de los que resulten atribuidos a otra Fiscalía Especial de acuerdo con las disposiciones de este Estatuto.
+Dos. Son Fiscalías Especiales la Fiscalía Antidroga y la Fiscalía contra la Corrupción y la Criminalidad Organizada.
+Tres. La Fiscalía Antidroga ejercerá las siguientes funciones:
+a) Intervenir directamente en todos los procedimientos relativos al tráfico de drogas, estupefacientes y sustancias psicotrópicas, o blanqueo de capitales relacionado con dicho tráfico, que sean competencia de la Audiencia Nacional y de los Juzgados Centrales de Instrucción conforme a los artículos 65 y 88 de la Ley Orgánica del Poder Judicial.
+b) Investigar, en los términos del artículo Cinco de este Estatuto, los hechos que presenten indicios de ser constitutivos de alguno de los delitos mencionados en el apartado anterior.
+c) Coordinar las actuaciones de las distintas Fiscalías en orden a la prevención y represión del tráfico ilegal de drogas y el blanqueo de capitales relacionado con dicho tráfico. Las Fiscalías de los Tribunales Militares colaborarán con la Fiscalía Antidroga en relación con los hechos cometidos en centros, establecimientos y unidades militares.
+d) Colaborar con la autoridad judicial en el control del tratamiento de los drogodependientes a quienes se haya aplicado la remisión condicional, recibiendo los datos precisos de los centros acreditados que participen en dicho tratamiento.
+Cuatro. La Fiscalía contra la Corrupción y la Criminalidad Organizada practicará las diligencias a que se refiere el artículo Cinco de esta Ley e intervendrá directamente en procesos penales, en ambos casos siempre que se trate de supuestos de especial trascendencia, apreciada por el Fiscal General del Estado, en relación con:
+a) Delitos contra la Hacienda Pública, contra la seguridad social y de contrabando.
+b) Delitos de prevaricación.
+c) Delitos de abuso o uso indebido de información privilegiada.
+d) Malversación de caudales públicos.
+e) Fraudes y exacciones ilegales.
+f) Delitos de tráfico de influencias.
+g) Delitos de cohecho.
+h) Negociación prohibida a los funcionarios.
+i) Defraudaciones.
+j) Insolvencias punibles.
+k) Alteración de precios en concursos y subastas públicos.
+l) Delitos relativos a la propiedad intelectual e industrial, al mercado y a los consumidores.
+m) Delitos societarios.
+n) Blanqueo de capitales y conductas afines a la receptación, salvo cuando por su relación con delitos de tráfico de drogas o de terrorismo corresponda conocer de dichas conducta a las otras Fiscalías Especiales.
+ñ) Delitos de corrupción en transacciones comerciales internacionales.
+o) Delitos de corrupción en el sector privado.
+p) Delitos conexos con los anteriores.
+q) La investigación de todo tipo de negocios jurídicos, transacciones o movimientos de bienes, valores o capitales, flujos económicos o activos patrimoniales, que indiciariamente aparezcan relacionados con la actividad de grupos delictivos organizados o con el aprovechamiento económico de actividades delictivas, así como de los delitos conexos o determinantes de tales actividades; salvo cuando por su relación con delitos de tráfico de drogas o de terrorismo corresponda conocer de dichas conductas a la Fiscalía Antidroga o a la de la Audiencia Nacional.
+Cinco. Cuando el número de procedimientos así lo aconseje, el Fiscal General del Estado podrá designar en cualquier Fiscalía uno o varios Fiscales Delegados de las Fiscalías Especiales, que se integrarán en éstas. Dicha designación se hará, oído el Consejo Fiscal, previo informe de los Fiscales Jefes de la Fiscalía Especial y la Fiscalía territorial correspondiente, entre los Fiscales de la plantilla de ésta última que lo soliciten, acreditando su especialización en la materia en los términos que reglamentariamente se establezcan. Cuando en la Fiscalía territorial exista una Sección especializada, constituida con arreglo a lo dispuesto en el artículo anterior, cuyo ámbito de actuación coincida total o parcialmente con la materia para la que es competente la Fiscalía Especial, el Fiscal Delegado se integrará en dicha Sección.
+El Fiscal Jefe de la Fiscalía Especial tendrá, con respecto a los Fiscales así designados y sólo en el ámbito específico de su competencia, las mismas facultades y deberes que corresponden a los Fiscales Jefes de los demás órganos del Ministerio Fiscal. Sin perjuicio de las Instrucciones que con carácter general pueda impartir el Fiscal General del Estado, el Decreto de nombramiento concretará las funciones y el ámbito de actuación de los Fiscales Delegados, especificando su grado de dedicación a los asuntos competencia de la Fiscalía Especial. En todo caso los Fiscales Delegados deberán informar de los asuntos de los que conozcan en su calidad de tales al Fiscal Jefe del órgano en que desempeñen sus funciones.
+Seis. Para su adecuado funcionamiento, se podrán adscribir a las Fiscalías Especiales unidades de Policía Judicial y cuantos profesionales y expertos sean necesarios para auxiliarlas de manera permanente u ocasional.
+Se modifica por el art. único.14 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.4 de la Ley 10/1995, de 24 de abril. Ref. BOE-A-1995-10066
+ Se modifica por el art. 4 de la Ley 5/1988, de 24 de marzo. Ref. BOE-A-1988-8175
+
+### Artículo veinte
+
+Uno. En la Fiscalía General del Estado existirá un Fiscal contra la Violencia sobre la Mujer, con categoría de Fiscal de Sala, que ejercerá las siguientes funciones:
+a) Practicar las diligencias a que se refiere el artículo Cinco de este Estatuto, e intervenir directamente en aquellos procesos penales de especial trascendencia apreciada por el Fiscal General del Estado, referentes a los delitos por actos de violencia de género y de violencia sexual comprendidos en el artículo 89.5 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+b) Intervenir, por delegación del Fiscal General del Estado, en los procesos civiles comprendidos en el artículo 87 ter.2 de la Ley Orgánica del Poder Judicial.
+c) Supervisar y coordinar la actuación de las Secciones contra la Violencia sobre la Mujer, y recabar informes de las mismas, dando conocimiento al Fiscal Jefe de las Fiscalías en que se integren.
+d) Coordinar los criterios de actuación de las diversas Fiscalías en materias de violencia de género y violencia sexual, para lo cual podrá proponer al Fiscal General del Estado la emisión de las correspondientes instrucciones.
+e) Elaborar semestralmente, y presentar al Fiscal General del Estado, para su remisión a la Junta de Fiscales de Sala del Tribunal Supremo, y al Consejo Fiscal, un informe sobre los procedimientos seguidos y actuaciones practicadas por el Ministerio Fiscal en materia de violencia de género y violencia sexual.
+Para su adecuada actuación se le adscribirán los profesionales y expertos que sean necesarios para auxiliarlo de manera permanente u ocasional.
+Téngase en cuenta que la modificación de las letras a), d) y e), del apartado 1, por la disposición final 5.3 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5, entra en vigor el 3 de octubre de 2025 según determina su disposición final 38.3
+ Redacción anterior:
+ "a) Practicar las diligencias a que se refiere el artículo Cinco del Estatuto Orgánico del Ministerio Fiscal, e intervenir directamente en aquellos procesos penales de especial trascendencia apreciada por el Fiscal General del Estado, referentes a los delitos por actos de violencia de género comprendidos en el artículo 87 ter.1 de la Ley Orgánica del Poder Judicial...
+ ...d) Coordinar los criterios de actuación de las diversas Fiscalías en materias de violencia de género, para lo cual podrá proponer al Fiscal General del Estado la emisión de las correspondientes instrucciones.
+ e) Elaborar semestralmente, y presentar al Fiscal General del Estado, para su remisión a la Junta de Fiscales de Sala del Tribunal Supremo, y al Consejo Fiscal, un informe sobre los procedimientos seguidos y actuaciones practicadas por el Ministerio Fiscal en materia de violencia de género..."
+Dos. En la Fiscalía General del Estado existirá un Fiscal contra los delitos relativos a la ordenación del territorio y la protección del patrimonio histórico, del medio ambiente e incendios forestales, con categoría de Fiscal de Sala, que ejercerá las siguientes funciones:
+a) Practicar las diligencias a que se refiere el artículo Cinco a intervenir, directamente o a través de instrucciones impartidas a los delegados, en aquellos procesos penales de especial trascendencia apreciada por el Fiscal General del Estado, referentes a delitos relativos a la ordenación del territorio, la protección del patrimonio histórico, los recursos naturales y el medio ambiente, la protección de la flora, fauna y animales domésticos, y los incendios forestales.
+b) Ejercitar la acción pública en cualquier tipo de procedimiento, directamente o a través de instrucciones impartidas a los delegados, cuando aquella venga prevista en las diferentes leyes y normas de carácter medioambiental, exigiendo las responsabilidades que procedan.
+c) Supervisar y coordinar la actuación de las secciones especializadas de medio ambiente y recabar los informes oportunos, dirigiendo por delegación del Fiscal General del Estado la red de Fiscales de medio ambiente.
+d) Coordinar las Fiscalías en materia de medio ambiente unificando los criterios de actuación, para lo cual podrá proponer al Fiscal General la emisión de las correspondientes instrucciones y reunir, cuando proceda, a los Fiscales integrantes de las secciones especializadas.
+e) Elaborar anualmente y presentar al Fiscal General del Estado un informe sobre los procedimientos seguidos y actuaciones practicadas por el Ministerio Fiscal en materia de medio ambiente, que será incorporado a la memoria anual presentada por el Fiscal General del Estado.
+Para su adecuada actuación se le adscribirá una Unidad del Servicio de Protección de la Naturaleza de la Guardia Civil, así como, en su caso, los efectivos necesarios del resto de las Fuerzas y Cuerpos de Seguridad que tengan competencias medioambientales, de conformidad con la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad. Igualmente, podrán adscribirse los profesionales y expertos técnicos necesarios para auxiliarlo de manera permanente u ocasional. La Fiscalía podrá recabar el auxilio de los agentes forestales o ambientales de las administraciones públicas correspondientes, dentro de las funciones que estos colectivos tienen legalmente encomendadas.
+Dos bis. En la Fiscalía General del Estado existirá un Fiscal contra los delitos de odio y discriminación, con categoría de Fiscal de Sala, que ejercerá las siguientes funciones:
+a) Practicar las diligencias a que se refiere el artículo cinco del Estatuto Orgánico del Ministerio Fiscal, e intervenir directamente en aquellos procesos penales de especial trascendencia apreciada por el Fiscal General del Estado, referentes a los delitos cometidos por la pertenencia de la víctima a un determinado grupo social, según su edad, raza, sexo, orientación sexual, expresión o identidad de género, religión, etnia, nacionalidad, ideología, afiliación política, discapacidad o situación socioeconómica.
+b) Supervisar y coordinar la actuación de las Secciones contra los delitos de odio, y recabar informes de las mismas, dando conocimiento al Fiscal Jefe de las Fiscalías en que se integren.
+c) Coordinar los criterios de actuación de las diversas Fiscalías en materia de delitos de odio y discriminación, para lo cual podrá proponer al Fiscal General del Estado la emisión de las correspondientes instrucciones.
+d) Elaborar semestralmente, y presentar al Fiscal General del Estado, para su remisión a la Junta de Fiscales de Sala del Tribunal Supremo, y al Consejo Fiscal, un informe sobre los procedimientos seguidos y actuaciones practicadas por el Ministerio Fiscal en materia de delitos de odio y discriminación.
+Para su adecuada actuación se le adscribirán los profesionales y expertos que sean necesarios para auxiliarlo de manera permanente u ocasional y actuará en coordinación con las entidades, asociaciones y organizaciones legalmente constituidas que tengan entre sus finalidades la defensa y promoción de los derechos humanos y la erradicación de la discriminación.
+Dos ter. En la Fiscalía General del Estado existirá un Fiscal en materia de derechos humanos y memoria democrática, con la categoría de Fiscal de Sala, que ejercerá las siguientes funciones:
+a) Supervisar y coordinar la acción del Ministerio Fiscal en todos los procedimientos y actuaciones a que se refiere la Ley 20/2022, de 19 de octubre, de Memoria Democrática, dando conocimiento al Fiscal Jefe de las fiscalías correspondientes.
+b) Representar a la persona titular de la Fiscalía General del Estado, por delegación de aquella, en todos los actos de reconocimiento a nuestra memoria democrática.
+c) Practicar las diligencias a que se refiere el artículo cinco e intervenir en aquellos procesos penales de especial trascendencia apreciada por la persona titular de la Fiscalía General del Estado y ejercitar la acción pública en cualquier tipo de procedimiento, directamente o a través de instrucciones, exigiendo las responsabilidades que procedan, cuando se refieran a hechos que constituyan violaciones del Derecho Internacional de Derechos Humanos y del Derecho Internacional Humanitario, incluyendo los que tuvieron lugar con ocasión del golpe de Estado, la Guerra y la Dictadura. Así como facilitar y coordinar los instrumentos de cooperación internacional para la reparación de las víctimas.
+d) Representar a la Fiscalía General del Estado, por delegación de la persona titular de la misma, y relacionarse con el Defensor del Pueblo en los términos previstos en su normativa reguladora.
+e) Coordinar las Fiscalías en materia de memoria democrática y derechos humanos, unificando los criterios de actuación, para lo cual podrá proponer a la persona titular de la Fiscalía General la emisión de las correspondientes instrucciones.
+f) Representar a la Fiscalía General del Estado, por delegación de la persona titular de esta, y relacionarse con los Agentes del Reino de España ante el Tribunal Europeo de Derechos Humanos en materia de interpretación de la jurisprudencia del Tribunal, en especial en aquello que pudiera afectar a los recursos de revisión de sentencias derivados de sus resoluciones. Asimismo, será el cauce de coordinación entre la Fiscalía del Tribunal Supremo y la Fiscalía del Tribunal Constitucional y las unidades especializadas en materia de memoria democrática y derechos humanos.
+g) Elaborar anualmente y presentar a la persona titular de la Fiscalía General del Estado un informe sobre las actuaciones practicadas por el Ministerio Fiscal en materia de memoria democrática y derechos humanos, que será incorporado a la memoria anual presentada por la Fiscalía General del Estado.
+Tres. Igualmente existirán, en la Fiscalía General del Estado, Fiscales de Sala Especialistas responsables de la coordinación y supervisión de la actividad del Ministerio Fiscal en materia de protección y reforma de menores, y en aquellas otras materias en que el Gobierno, a propuesta del Ministro de Justicia, oído el Fiscal General del Estado, y previo informe, en todo caso, del Consejo Fiscal, aprecie la necesidad de creación de dichas plazas. Los referidos Fiscales de Sala tendrán facultades y ejercerán funciones análogas a las previstas en los apartados anteriores de este artículo, en el ámbito de su respectiva especialidad, así como las que en su caso pueda delegarles el Fiscal General del Estado, todo ello sin perjuicio de las atribuciones de los Fiscales Jefes de los respectivos órganos territoriales.
+Cuatro. En la Fiscalía General del Estado, de igual modo, existirá la Unidad de Protección de Datos que, respecto del tratamiento de datos con fines jurisdiccionales realizado por el Ministerio Fiscal, ejercerá con plena independencia y neutralidad las competencias y facultades que por la normativa de protección de datos corresponden a la autoridad de control de acuerdo con lo establecido en el artículo 236 octies de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y asumirá la condición de Delegado de Protección de Datos, en relación con el tratamiento de datos con fines no jurisdiccionales, una vez sea designado como tal por el Fiscal General del Estado. La Unidad de Protección de Datos deberá tener garantizada la dotación de los recursos necesarios para el adecuado desempeño de sus funciones. Su composición, organización y funcionamiento serán regulados reglamentariamente»
+Téngase en cuenta que este apartado 4, modificado por la disposición final 5.3 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1
+ Redacción anterior:
+ "Cuatro. En la Fiscalía General del Estado, de igual modo, existirá la Unidad de Supervisión y Control de Protección de Datos que ejercerá las competencias que corresponden a la autoridad de protección de datos con fines jurisdiccionales sobre el tratamiento de los mismos realizado por el Ministerio Fiscal, de acuerdo con lo establecido en el artículo 236 octies de la Ley Orgánica del Poder Judicial en el ámbito de sus competencias y facultades. Su regulación se remitirá a los términos previstos en la Ley Orgánica del Poder Judicial en cuanto le sea de aplicación.
+ Al frente de la Unidad de Supervisión y Control de Protección de Datos se nombrará por mayoría absoluta del Pleno del Consejo Fiscal una persona titular de la Unidad, de entre juristas de reconocida competencia con al menos quince años de ejercicio profesional y con conocimientos y experiencia acreditados en materia de protección de datos.
+ La duración del mandato de la persona titular de la Unidad de Supervisión y Control de Protección de Datos será de cinco años, no renovable. Durante su mandato permanecerá, en su caso, en situación de servicios especiales y ejercerá exclusivamente las funciones inherentes a su cargo. Sólo podrá ser cesada por incapacidad o incumplimiento grave de sus deberes, apreciados por el Pleno mediante mayoría absoluta.
+ El régimen de incompatibilidades de la persona titular de la Unidad de Supervisión y Control de Protección de Datos será el mismo que el establecido para los Fiscales al servicio de los órganos técnicos de la Fiscalía General del Estado. La persona titular de la Unidad de Supervisión y Control de Protección de Datos deberá ejercer sus funciones con absoluta independencia y neutralidad.
+ La persona titular y el resto de personal adscrito a la Unidad de Supervisión y Control de Protección de Datos estarán sujetos al deber de secreto profesional, tanto durante su mandato como después del mismo, con relación a las informaciones confidenciales de las que hayan tenido conocimiento en el cumplimiento de sus funciones o el ejercicio de sus atribuciones. Este deber de secreto profesional se aplicará en particular a la información que faciliten las personas físicas a la Unidad de Supervisión y Control de Protección de Datos en materia de infracciones de la presente normativa.
+ La composición, organización y funcionamiento de la Unidad de Supervisión y Control de Protección de Datos será regulada reglamentariamente. Se deberá velar porque la Unidad cuente, en todo caso, con todos los medios personales y materiales necesarios para el adecuado ejercicio de sus funciones."
+Se modifica, con efectos de 3 de octubre de 2025, las letras a), d) y e) del apartado 1 y, con efectos de 3 de abril de 2025, el apartado 4, por la disposición final 5.3 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5
+ Se añade el apartado Dos ter por la disposición final 1 de la Ley 20/2022, de 19 de octubre. Ref. BOE-A-2022-17099#df
+ Redactado conforme a la corrección de errores publicada en el BOE núm. 32, de 7 de febrero de 2023. Ref. BOE-A-2023-3123
+ Se añade el apartado Dos bis por la disposición final 5.2 de la Ley 15/2022, de 12 de julio. Ref. BOE-A-2022-11589#df-5
+ Se añade el apartado 4 por la disposición final 2.2 de la Ley Orgánica 7/2021, de 26 de mayo. Ref. BOE-A-2021-8806#df-2
+ Se modifica por el art. único.15 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Artículo veintiuno
+
+Uno. Las Fiscalías del Tribunal Supremo, ante el Tribunal Constitucional, del Tribunal de Cuentas, la Fiscalía Togada, la Fiscalía de la Audiencia Nacional y las Fiscalías Especiales tienen su sede en Madrid y extienden sus funciones a todo el territorio del Estado para los asuntos de su competencia. La Fiscalía del Tribunal Militar Central también tendrá su sede en la capital de España y ejercerá sus funciones ante dicho Tribunal y ante los Juzgados Togados Militares Centrales. Las Fiscalías de los Tribunales Militares Territoriales tendrán su sede donde resida el Tribunal Militar Territorial respectivo y ejercerán las funciones en el ámbito competencial del mismo.
+Dos. Las Fiscalías de las Comunidades Autónomas tendrán su sede donde resida el Tribunal Superior de Justicia respectivo, y ejercerán sus funciones en el ámbito competencial del mismo.
+En el supuesto de que existan o se establezcan Salas de los Tribunales Superiores de Justicia con jurisdicción limitada a una o varias provincias de la Comunidad Autónoma, a propuesta o previo informe del Fiscal Superior de la Comunidad Autónoma, el Fiscal General del Estado, oído el Consejo Fiscal, podrá proponer al Ministro de Justicia la constitución en su sede de una Sección Territorial de la Fiscalía Superior de la Comunidad Autónoma. La propuesta se comunicará a la Comunidad Autónoma con competencias en materia de justicia para el ejercicio de las mismas.
+Tres. Las Fiscalías Provinciales tendrán su sede donde la tenga la Audiencia Provincial y extenderán sus funciones a todos los órganos judiciales de la provincia, salvo que con arreglo a las disposiciones de este Estatuto sea competente otro órgano del Ministerio Fiscal. También despacharán los asuntos competencia de órganos judiciales unipersonales de ámbito superior al provincial, cuando así lo disponga el Fiscal General del Estado, oído el Consejo Fiscal, y el Fiscal Superior de la Comunidad Autónoma.
+En el caso de Comunidades Autónomas uniprovinciales, atendiendo a su volumen de actividad, el Gobierno, a propuesta del Fiscal General del Estado, oído el Consejo Fiscal y el Fiscal Superior de la Comunidad Autónoma, podrá establecer que la Fiscalía de la Comunidad Autónoma asuma también las funciones de la Fiscalía Provincial.
+Cuatro. Las Fiscalías de Área ejercerán sus funciones en el ámbito territorial inferior a la provincia en el que proceda su creación dado el volumen de asuntos, el número de órganos judiciales o la existencia de una sección de la Audiencia Provincial en sede distinta de la capital de la misma, pudiendo abarcar uno o más partidos judiciales de dicha provincia, y teniendo su sede en el lugar que determine la norma que las establezca.
+Cinco. Los miembros del Ministerio Fiscal podrán actuar y constituirse en cualquier punto del territorio de su Fiscalía.
+No obstante, cuando el volumen o la complejidad de los asuntos lo requiera, el Fiscal General del Estado, de oficio o a propuesta del Fiscal Superior de la Comunidad Autónoma, oídos el Consejo Fiscal y los Fiscales Jefes de los órganos afectados, podrá ordenar que se destaquen temporalmente uno o varios Fiscales a una Fiscalía determinada. Igualmente, con la autorización del Fiscal General del Estado, cualquier Fiscal podrá actuar en cualquier punto del territorio del Estado.
+Seis. Lo establecido en este artículo deberá entenderse sin perjuicio de que, cuando los Tribunales y Juzgados se constituyan en lugar distinto de su sede legal o cuando el ejercicio de sus funciones lo requiera, pueda el Ministerio Fiscal, por medio de sus miembros, constituirse ante un órgano judicial con sede distinta a la de la Fiscalía respectiva.
+Se modifica por el art. único.16 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Artículo veintiuno bis
+
+En caso de discrepancias entre la Fiscalía Europea y la Fiscalía española sobre las atribuciones a las que se refiere el artículo 25.6 del Reglamento (UE) 2017/1939 del Consejo, de 12 de octubre de 2017, decidirá definitivamente la persona titular de la Fiscalía General del Estado tras oír a la Junta de Fiscales de Sala, en los términos previstos en el artículo quince de la presente Ley.
+Se añade por la disposición final 1.3 de la Ley Orgánica 9/2021, de 1 de julio. Ref. BOE-A-2021-10957#df
+
+## CAPITULO II
+
+De la unidad y dependencia del Ministerio Fiscal
+
+### Artículo veintidós
+
+Uno. El Ministerio Fiscal es único para todo el Estado.
+Dos. El Fiscal General del Estado ostenta la jefatura superior del Ministerio Fiscal y su representación en todo el territorio español. A él corresponde impartir las órdenes e instrucciones convenientes al servicio y al orden interno de la institución y, en general, la dirección e inspección del Ministerio Fiscal.
+Tres. El Fiscal General del Estado podrá delegar a los Fiscales de Sala funciones relacionadas con la materia propia de su competencia. Los Fiscales de Sala Delegados asumirán dichas funciones en los términos y con los límites que establezca el acto de delegación, que será revocable y en todo caso se extinguirá cuando cese el Fiscal General. Dentro de tales límites, los Fiscales de Sala podrán proponer al Fiscal General del Estado las Circulares e Instrucciones que considere necesarias, participar en la determinación de los criterios para la formación de los Fiscales especialistas y coordinar a nivel estatal la actuación de las Fiscalías, sin perjuicio de las facultades de los respectivos Fiscales Jefes de los órganos territoriales.
+Cuatro. Los Fiscales Superiores de las Comunidades Autónomas, además de dirigir su Fiscalía, actuarán en todo el territorio de la Comunidad Autónoma correspondiente, asumiendo en el mismo la representación y la jefatura del Ministerio Fiscal, sin perjuicio de las atribuciones del Fiscal General del Estado. En consecuencia, presidirán la Junta de Fiscales Jefes de su territorio, y ejercerán dentro del mismo las funciones previstas en los artículos Once, Veintiuno, Veinticinco y Veintiséis de este Estatuto, las que delegue el Fiscal General del Estado, así como las que les correspondan en materia disciplinaria con arreglo a esta Ley o al reglamento que la desarrolle. En el caso de las Comunidades Autónomas uniprovinciales mencionadas en el artículo Veintiuno, apartado Tres, el Fiscal Superior asumirá también las funciones que, con arreglo a este Estatuto o a las normas que lo desarrollen, correspondan al Fiscal Jefe de la Fiscalía Provincial.
+Cinco. El Fiscal Jefe de cada órgano ejercerá la dirección de éste y actuará siempre en representación del Ministerio Fiscal bajo la dependencia de sus superiores jerárquicos y del Fiscal General del Estado.
+Corresponde a los Fiscales Jefes de cada órgano:
+a) Organizar los servicios y la distribución del trabajo entre los Fiscales de la plantilla y la adscripción de los componentes de la Sección de Menores, oída la Junta de Fiscalía. Será preciso pertenecer a la categoría segunda para intervenir en los procedimientos ante el tribunal de jurado o para realizar funciones de visado.
+Téngase en cuenta que la esta letra a), modificada por la disposición final 5.4 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1
+ Redacción anterior:
+ "a) Organizar los servicios y la distribución del trabajo entre los Fiscales de la plantilla y la adscripción de los componentes de la Sección de Menores, oída la Junta de Fiscalía."
+b) Conceder los permisos y licencias de su competencia.
+c) Ejercer la facultad disciplinaria en los términos que establezcan el presente Estatuto y su reglamento.
+d) Hacer las propuestas de recompensas, de méritos y las menciones honoríficas que procedan.
+e) Las demás facultades que este Estatuto u otras disposiciones le confieran.
+Lo dispuesto en este apartado se entiende sin perjuicio de las facultades que atribuye al Ministro de Defensa el artículo 92 de la Ley Orgánica 4/1987, de 15 de julio, de Competencia y Organización de la Jurisdicción Militar.
+Seis. El Teniente Fiscal, en las Fiscalías donde exista, asumirá las funciones de dirección o coordinación que le delegue el Fiscal Jefe, y sustituirá a éste en caso de ausencia, vacante o imposibilidad.
+Siete. Los Fiscales Jefes de las Fiscalías Provinciales estarán jerárquicamente subordinados al Fiscal Superior de la Comunidad Autónoma y se integrarán, bajo la presidencia de éste, en la Junta de Fiscales Jefes de la Comunidad Autónoma.
+Ocho. Los Fiscales Jefes de las Fiscalías de Área estarán jerárquicamente subordinados a los Fiscales Jefes de las Fiscalías Provinciales. En caso de ausencia, vacante o imposibilidad serán sustituidos por el Fiscal Decano más antiguo de la Fiscalía de Área, y en su defecto, por el propio Fiscal Jefe de la Fiscalía Provincial o en quien éste delegue mientras subsista la situación que motivó la sustitución.
+Nueve. Los Fiscales Decanos ejercerán la dirección y coordinación de las Secciones de Fiscalía de acuerdo con las instrucciones del Fiscal Jefe Provincial y, en su caso, del Fiscal superior de la Comunidad Autónoma, y por delegación de éstos.
+Diez. El Teniente Fiscal de la Fiscalía Provincial, los Fiscales Jefes de Área y los Fiscales Decanos integran la Junta de Coordinación de la Fiscalía Provincial, que será convocada periódicamente y dirigida por el Fiscal Jefe Provincial, con el fin de coordinar la dirección del Ministerio Fiscal en su ámbito territorial.
+Se modifica la letra a) del apartado 5, con efectos de 3 de abril de 2025, por la disposición final 5.4 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5
+ Se modifican los apartados 3 a 5 y se añaden los apartados 6 a 10 por el art. único.17 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica el apartado 5 por el art. 72 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+ Redactado conforme a la corrección de errores publicada en BOE núm. 87, de 12 de abril de 2005. Ref. BOE-A-2005-5835
+ Se modifica por el art. único.9 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo veintitrés
+
+Los miembros del Ministerio Fiscal son autoridad a todos los efectos y actuarán siempre en representación de la Institución. En cualquier momento de la actividad que un Fiscal esté realizando en cumplimiento de sus funciones o antes de iniciar la que le estuviese asignada en virtud del sistema de distribución de asuntos entre los miembros de la Fiscalía, podrá su superior jerárquico inmediato, mediante resolución motivada, avocar para sí el asunto o designar a otro Fiscal para que lo despache. Si existe discrepancia resolverá el superior jerárquico común a ambos. La sustitución será comunicada en todo caso al Consejo Fiscal, que podrá expresar su parecer.
+Se modifica por el art. único.18 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Artículo veinticuatro
+
+Uno. Para mantener la unidad de criterios, estudiar los asuntos de especial trascendencia o complejidad o fijar posiciones respecto a temas relativos a su función, cada Fiscalía celebrará periódicamente juntas de todos sus componentes. A las Juntas de las Fiscalías especiales podrán ser convocados sus Fiscales Delegados.
+Los acuerdos de la mayoría tendrán carácter de informe, prevaleciendo después del libre debate el criterio del Fiscal Jefe. Sin embargo, si esta opinión fuese contraria a la manifestada por la mayoría de los asistentes, deberá someter ambas a su superior jerárquico. Hasta que se produzca el acuerdo del superior jerárquico, de requerirlo el tema debatido, el criterio del Fiscal Jefe gozará de ejecutividad en los extremos estrictamente necesarios.
+Dos. Con la finalidad prevista en el número anterior, los Fiscales adscritos a las distintas secciones que integran la Fiscalía del Tribunal Supremo celebrarán Juntas de Sección, que estarán presididas por el Fiscal de Sala respectivo. En los casos en que el criterio del Fiscal Jefe fuera contrario a la opinión mantenida por la mayoría de los integrantes de la Junta, resolverá el Fiscal General del Estado, oído el Consejo Fiscal o la Junta de Fiscales de Sala según el ámbito propio de sus respectivas funciones.
+Aquellas secciones de la Fiscalía del Tribunal Supremo cuya jefatura estuviera integrada por más de un Fiscal de Sala podrán celebrar juntas que agrupen a los Fiscales distribuidos en las diferentes unidades organizativas que integren cada sección. Sin embargo, los asuntos de especial trascendencia o complejidad y aquellos que afecten a la unidad de criterio habrán de ser debatidos en Junta de Sección que será presidida por el Fiscal de Sala más antiguo. A los efectos previstos en el párrafo primero de este apartado, bastará que la discrepancia respecto del criterio de la mayoría sea provocada por el parecer de uno solo de los Fiscales de Sala que integran la sección.
+Con el fin de dar cuenta de la actividad estadística de las distintas secciones y para el tratamiento de aquellas cuestiones que pudieran afectar a la organización de los diferentes servicios de carácter general, los Fiscales celebrarán Junta de Fiscales del Tribunal Supremo. Estas juntas serán presididas por el Fiscal General del Estado, que podrá ser sustituido por el Teniente Fiscal del Tribunal Supremo.
+Tres. Sin perjuicio de las Juntas de Fiscales previstas en el apartado Uno de este artículo, los Fiscales Jefes Provinciales podrán convocar las juntas de coordinación previstas en el artículo Veintidós.Diez, con el fin de tratar cuestiones relativas a la dirección y coordinación de los distintos servicios, sin que en ningún caso puedan sustituir en sus funciones a la Junta General.
+Asimismo, para mantener la unidad de criterios o fijar posiciones respecto a temas relativos a su función, los Fiscales Superiores de las Comunidades Autónomas podrán convocar, como superiores jerárquicos, Junta de Fiscales que integre a quienes desempeñaren la jefatura de las Fiscalías Provinciales en los respectivos ámbitos territoriales.
+Cuatro. Las Juntas de Fiscales podrán ser ordinarias o extraordinarias. Las ordinarias se celebrarán al menos semestralmente. Su orden del día será fijado por el Fiscal Jefe, si bien deberán incluirse en el mismo aquellos otros asuntos o temas que propongan por escrito y antes del comienzo de la Junta, un quinto, al menos, de los Fiscales destinados en las Fiscalías. También podrá deliberarse, fuera del orden del día, sobre aquellos asuntos que proponga cualquiera de los asistentes a la Junta y el Fiscal Jefe acuerde someter a debate.
+Las Juntas extraordinarias se convocarán para debatir cuestiones que por su urgencia o complejidad se estime oportuno no relegar a la Junta ordinaria. La convocatoria, que expresará el orden del día, deberá hacerla el Fiscal Jefe, bien por propia iniciativa, bien en virtud de moción suscrita por un tercio de los Fiscales destinados en la Fiscalía.
+La asistencia a las Juntas es obligatoria para todos los Fiscales según su respectiva composición, salvo ausencia justificada apreciada por el Fiscal Jefe. Los Fiscales sustitutos asistirán a las Juntas con voz pero sin voto, cuando sean convocados por el Fiscal Jefe.
+Se modifica por el art. único.19 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.10 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo veinticinco
+
+El Fiscal General del Estado podrá impartir a sus subordinados las órdenes e instrucciones convenientes al servicio y al ejercicio de las funciones, tanto de carácter general como referidas a asuntos específicos. Cuando dichas instrucciones se refieran a asuntos que afecten directamente a cualquier miembro del Gobierno, el Fiscal General deberá oír con carácter previo a la Junta de Fiscales de Sala.
+Los miembros del Ministerio Fiscal pondrán en conocimiento del Fiscal General del Estado los hechos relativos a su misión que por su importancia o trascendencia deba conocer. Las órdenes, instrucciones y comunicaciones a que se refieren este párrafo y el anterior se realizarán a través del superior jerárquico, a no ser que la urgencia del caso aconseje hacerlo directamente, en cuyo supuesto se dará ulterior conocimiento al mismo.
+Análogas facultades tendrán los Fiscales Superiores de las Comunidades Autónomas respecto a los Fiscales Jefes de su ámbito territorial, y ambos respecto de los miembros del Ministerio que les estén subordinados.
+El Fiscal que reciba una orden o instrucción concerniente al servicio y al ejercicio de sus funciones, referida a asuntos específicos, deberá atenerse a las mismas en sus dictámenes pero podrá desenvolver libremente sus intervenciones orales en lo que crea conveniente al bien de la justicia.
+Se modifica por el art. único.20 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Artículo veintiséis
+
+El Fiscal General del Estado podrá llamar a su presencia a cualquier miembro del Ministerio Fiscal para recibir directamente sus informes y darle las instrucciones que estime oportunas, trasladando, en este caso, dichas instrucciones al Fiscal Jefe respectivo. El Fiscal General del Estado podrá designar a cualquiera de los miembros del Ministerio Fiscal para que actúe en un asunto determinado, ante cualquiera de los órganos jurisdiccionales en que el Ministerio Fiscal está legitimado para intervenir, oído el Consejo Fiscal.
+Se modifica por el art. único.21 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Artículo veintisiete
+
+Uno. El Fiscal que recibiere una orden o instrucción que considere contraria a las leyes o que, por cualquier otro motivo estime improcedente, se lo hará saber así, mediante informe razonado, a su Fiscal Jefe. De proceder la orden o instrucción de éste, si no considera satisfactorias las razones alegadas, planteará la cuestión a la Junta de fiscalía y, una vez que ésta se manifieste, resolverá definitivamente reconsiderándola o ratificándola. De proceder de un superior, elevará informe a éste, el cual, de no admitir las razones alegadas, resolverá de igual manera oyendo previamente a la Junta de Fiscalía. Si la orden fuere dada por el Fiscal General del Estado, éste resolverá oyendo a la Junta de Fiscales de Sala.
+Dos. Si el superior se ratificase en sus instrucciones lo hará por escrito razonado con la expresa relevación de las responsabilidades que pudieran derivarse de su cumplimiento o bien encomendará a otro Fiscal el despacho del asunto a que se refiera.
+
+### Artículo veintiocho
+
+El Fiscal General del Estado y los miembros del Ministerio Fiscal se abstendrán necesariamente de intervenir en los pleitos o causas cuando les afecten algunas de las causas de abstención establecidas para los Jueces y Magistrados en la Ley Orgánica del Poder Judicial, en cuanto les sean de aplicación. Las partes intervinientes en los referidos pleitos o causas podrán acudir al superior jerárquico del Fiscal de que se trate interesando que, en los referidos supuestos, se ordene su no intervención en el proceso.
+Cuando se trate del Fiscal General del Estado, las partes intervinientes podrán dirigirse al Teniente Fiscal del Tribunal Supremo. La decisión sobre la intervención del Fiscal General del Estado en el proceso será resuelta, en su caso, por la Junta de Fiscales de Sala, que será presidida por el Teniente Fiscal del Tribunal Supremo.
+Contra las decisiones anteriores no cabrá recurso alguno.
+Se modifica por el art. 2.1 de la Ley Orgánica 3/2024, de 2 de agosto. Ref. BOE-A-2024-16127
+ Se modifica por el art. único.22 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+## TITULO III
+
+Del Fiscal General del Estado, de los Fiscales Superiores de las Comunidades Autónomas y de la Carrera Fiscal
+Se modifica la rúbrica por el art. único.23 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+## CAPITULO PRIMERO
+
+CAPITULO I
+Del Fiscal General del Estado
+
+### Artículo veintinueve
+
+Uno. El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído previamente el Consejo General del Poder Judicial, eligiéndolo entre juristas españoles de reconocido prestigio con más de quince años de ejercicio efectivo de su profesión. No podrá ser propuesto para el cargo quien en los cinco años anteriores haya sido nombrado titular de un Ministerio, de una Secretaría de Estado o de una Consejería de un Gobierno autonómico, ni quien haya sido elegido titular de la Presidencia de una Corporación local o haya tenido la condición de diputado, senador, o miembro del Parlamento Europeo o de una Asamblea legislativa de una Comunidad Autónoma.
+Dos. Recibido el informe del Consejo General del Poder Judicial, el Gobierno comunicará su propuesta al Congreso de los Diputados, a fin de que pueda disponer la comparecencia de la persona elegida ante la Comisión correspondiente de la Cámara, en los términos que prevea su reglamento a los efectos de que se puedan valorar los méritos e idoneidad del candidato propuesto.
+Tres. Una vez nombrado, el Fiscal General del Estado prestará ante el Rey el juramento o promesa que previene la Ley y tomará posesión del cargo ante el Pleno del Tribunal Supremo.
+Se modifica el apartado 1 por el art. 2.2 de la Ley Orgánica 3/2024, de 2 de agosto. Ref. BOE-A-2024-16127
+ Se modifica por el art. único.24 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Artículo treinta
+
+El Fiscal General del Estado tendrá carácter de autoridad en todo el territorio español y se le guardará y hará guardar el respeto y las consideraciones debidos a su alto cargo. En los actos oficiales ocupará el lugar inmediato siguiente al del Presidente del Tribunal Supremo.
+
+### Artículo treinta y uno
+
+Uno. El mandato del Fiscal General del Estado tendrá una duración de cuatro años. Antes de que concluya dicho mandato únicamente podrá cesar por los siguientes motivos:
+a) a petición propia,
+b) por incurrir en alguna de las incompatibilidades o prohibiciones establecidas en esta Ley,
+c) en caso de incapacidad o enfermedad que lo inhabilite para el cargo,
+d) por incumplimiento grave o reiterado de sus funciones,
+e) cuando cese el Gobierno que lo hubiera propuesto.
+Dos. El mandato del Fiscal General del Estado no podrá ser renovado, excepto en los supuestos en que el titular hubiera ostentado el cargo durante un periodo inferior a dos años.
+Tres. La existencia de las causas de cese mencionadas en los apartados a), b), c) y d) del número anterior será apreciada por el Consejo de Ministros.
+Cuatro. Serán aplicables al Fiscal General del Estado las incompatibilidades establecidas para los restantes miembros del Ministerio Fiscal, sin perjuicio de las facultades o funciones que le encomienden otras disposiciones del mismo rango.
+Cinco. Su régimen retributivo será idéntico al del Presidente del Tribunal Supremo.
+Seis. Si el nombramiento de Fiscal General recayese sobre un miembro de la Carrera Fiscal quedará en situación de servicios especiales.
+Se modifica por el art. único.25 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica el último párrafo por la disposición adicional 2.2 de la Ley 5/1988, de 24 de marzo. Ref. BOE-A-1988-8175
+
+## CAPITULO II
+
+De la Carrera Fiscal, de las categorías que la integran y de la provisión de destinos en la misma
+
+### Artículo treinta y dos
+
+La Carrera Fiscal está integrada por las diversas categorías de Fiscales que forman su Cuerpo único, organizado jerárquicamente.
+
+### Artículo treinta y tres
+
+Uno. Los miembros de la Carrera Fiscal están equiparados en honores, categorías y retribuciones a los de la Carrera Judicial.
+Dos. En los actos oficiales a que asisten los representantes del Ministerio Fiscal ocuparán el lugar inmediato siguiente al de la autoridad judicial.
+Cuando deban asistir a las reuniones de gobierno de los Tribunales y Juzgados ocuparán el mismo lugar respecto de quien las presida.
+
+### Artículo treinta y cuatro
+
+Las categorías de la carrera fiscal serán las siguientes:
+1.ª Fiscales de Sala del Tribunal Supremo, equiparados a Magistrados del Alto Tribunal. El Teniente Fiscal del Tribunal Supremo tendrá la consideración de Presidente de Sala.
+2.ª Fiscales, equiparados a Magistrados.
+3.ª Abogados-Fiscales, equiparados a Jueces.
+Se modifica por el art. único.26 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.11 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+ Se modifica por la disposición adicional 9 de la Ley Orgánica 6/1985, de 1 de julio. Ref. BOE-A-1985-12666
+ Redactado conforme a la corrección de errores publicada en B.O.E. núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752
+
+### Artículo treinta y cinco
+
+Uno. Será preciso pertenecer a la categoría primera para servir los siguientes destinos:
+a) Teniente Fiscal del Tribunal Supremo, que además deberá contar con tres años de antigüedad en la dicha categoría.
+b) Fiscal Jefe Inspector.
+c) Fiscal Jefe de la Secretaría Técnica.
+d) Fiscal Jefe de la Unidad de Apoyo.
+e) Fiscal Jefe de la Audiencia Nacional.
+f) Fiscal Jefe de las Fiscalías Especiales.
+g) Fiscal Jefe de la Fiscalía ante el Tribunal Constitucional.
+h) Fiscal Jefe del Tribunal de Cuentas.
+i) Fiscal de Sala del Tribunal Supremo.
+j) Fiscal de Sala de la Fiscalía Togada.
+k) Los demás puestos de Fiscales de Sala que se determinen en plantilla con arreglo a las disposiciones de este Estatuto.
+Dos. Los Fiscales Superiores de las Comunidades Autónomas y los Fiscales Jefes de las Fiscalías Provinciales tendrán la categoría equiparada a la de los Presidentes de los Tribunales Superiores de Justicia y Presidentes de las Audiencias Provinciales, respectivamente.
+Tres. Será preciso pertenecer a la categoría segunda para servir los restantes cargos en las Fiscalías del Tribunal Supremo, ante el Tribunal Constitucional, Fiscalía de la Audiencia Nacional, Fiscalías Especiales, Tribunal de Cuentas, Inspección Fiscal, Unidad de Apoyo y Secretaría Técnica. También será preciso pertenecer a la categoría segunda para servir el cargo de Fiscal Jefe y Teniente Fiscal.
+Cuatro. La plantilla orgánica fijará la categoría necesaria para servir los restantes destinos fiscales dentro de la segunda y de la tercera categoría.
+Se modifica por el art. único.27 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.12 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+ Se añade la letra h) al apartado 1 y se modifica el apartado 3 por el art. único.5 y 6 de la Ley 10/1995, de 24 de abril. Ref. BOE-A-1995-10066
+ Se añade la letra G) al apartado 1 y se modifican los apartados 2 y 3 por el art. 5 y la disposición adicional 2.3 y 4 de la Ley 5/1988, de 24 de marzo. Ref. BOE-A-1988-8175
+
+### Artículo treinta y seis
+
+Sin perjuicio de lo dispuesto en el apartado tres de este artículo, los destinos correspondientes a la categoría primera, el de Fiscal responsable de la Unidad de Protección de Datos, los de Fiscales del Tribunal Supremo, los de Fiscales Superiores de comunidades autónomas y los de Fiscales Jefes se proveerán por el Gobierno, a propuesta del Fiscal General del Estado, de acuerdo con lo previsto en el artículo 13 de este Estatuto. De igual modo serán designados los Tenientes Fiscales de las Fiscalías de las comunidades autónomas y los Fiscales que integren la plantilla de todos aquellos órganos cuyo jefe pertenezca a la categoría primera. Cuando los Estatutos de Autonomía prevean la existencia del Consejo de Justicia de la comunidad autónoma, éste será oído necesariamente con carácter previo al nombramiento del Fiscal Superior de la comunidad autónoma.
+Téngase en cuenta que la éste párrafo 1 del apartado 1, modificado por la disposición final 5.5 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1
+ Redacción anterior:
+ "Uno. Sin perjuicio de lo dispuesto en el apartado Tres de este artículo, los destinos correspondientes a la categoría primera, los de Fiscales del Tribunal Supremo, los de Fiscales Superiores de Comunidades Autónomas y los de Fiscales Jefes se proveerán por el Gobierno, a propuesta del Fiscal General del Estado, de acuerdo con lo previsto en el artículo 13 de este Estatuto. De igual modo serán designados los Tenientes Fiscales de las Fiscalías de las Comunidades Autónomas y los Fiscales que integren la plantilla de todos aquellos órganos cuyo jefe pertenezca a la categoría primera. Cuando los Estatutos de Autonomía prevean la existencia del Consejo de Justicia de la Comunidad Autónoma, éste será oído necesariamente con carácter previo al nombramiento del Fiscal Superior de la Comunidad Autónoma."
+Recibido el informe del Consejo de Justicia de la Comunidad Autónoma, se comunicará la propuesta de candidato a la respectiva Asamblea Legislativa autonómica, a fin de que pueda disponer la comparecencia de la persona propuesta ante la Comisión correspondiente de la Cámara, en los términos que prevea su reglamento, a los efectos de que pueda valorar los méritos e idoneidad del candidato propuesto.
+Para los cargos de Fiscal del Tribunal Supremo, de Fiscal Superior de las Comunidades Autónomas, de Fiscal ante el Tribunal Constitucional, de Fiscal del Tribunal de Cuentas y de Inspector Fiscal, será preciso contar con al menos 15 años de servicio en la carrera y pertenecer ya a la categoría segunda. Para los cargos de Fiscal de la Audiencia Nacional y de Fiscal Jefe de Fiscalía Provincial será preciso contar con, al menos, diez años de servicio en la carrera y pertenecer ya a la categoría segunda. Igual antigüedad se exigirá a los Fiscales de las Fiscalías Especiales y al Teniente Fiscal de la Secretaría Técnica.
+Para los cargos de Fiscales adscritos a los Fiscales de Sala integrados en la Fiscalía General del Estado será preciso contar con, al menos, diez años de servicio en la carrera, pertenecer a la categoría segunda y tener una mínima especialización acreditable en la materia a la que son adscritos.
+Para acceder al cargo de Fiscal Jefe de área será preciso pertenecer a la segunda categoría.
+Dos. El Teniente Fiscal Inspector y los Fiscales de la Inspección Fiscal serán designados por un plazo máximo de 10 años. Una vez cesen en sus cargos, se incorporarán en calidad de adscritos, a su elección, a la Fiscalía en la que estuvieren destinados antes de ocupar la plaza de la Inspección o a la Fiscalía de la Comunidad Autónoma o Provincial de Madrid, hasta ocupar plaza en propiedad.
+Tres. El Fiscal Jefe, el Teniente Fiscal y los Fiscales de la Secretaría Técnica, los Fiscales de la Unidad de Apoyo y los Fiscales adscritos a los Fiscales de Sala integrados en la Fiscalía General del Estado serán designados y relevados directamente por el propio Fiscal General del Estado, y cesarán con éste, si bien continuarán ejerciendo sus funciones hasta que sean relevados o confirmados en sus cargos por el nuevo Fiscal General. Los nombramientos a los que se refiere este apartado, así como, en su caso, el correspondiente ascenso a la primera categoría del candidato a Fiscal Jefe de la Secretaría Técnica, serán comunicados por el Fiscal General al Consejo Fiscal antes de elevar la correspondiente propuesta al Gobierno, sin que sea de aplicación lo dispuesto en el artículo trece y en el apartado primero de este artículo.
+Una vez relevados o cesados, el Teniente fiscal de la Secretaría Técnica y los Fiscales a los que se refiere el párrafo anterior se incorporarán en calidad de adscritos, a su elección y hasta obtener plaza en propiedad, a la Fiscalía de la Comunidad Autónoma o Provincial de Madrid o a la Fiscalía en la que estuviesen destinados antes de ocupar plaza en la Secretaría Técnica, en la Unidad de Apoyo o antes de haber sido adscritos a los Fiscales de Sala integrados en la Fiscalía General del Estado.
+Cuatro. Los Fiscales Decanos de las Secciones de las Fiscalías en las que existan serán nombrados y, en su caso, relevados mediante resolución dictada por el Fiscal General del Estado, a propuesta motivada del Fiscal Jefe respectivo.
+La plantilla orgánica determinará el número máximo de Fiscales Decanos que se puedan designar en cada Fiscalía, atendiendo a las necesidades organizativas de las mismas. Para la cobertura de estas plazas será preciso, con carácter previo a la propuesta del Fiscal Jefe correspondiente, realizar una convocatoria entre los Fiscales de la plantilla. A la propuesta se acompañará relación del resto de los Fiscales que hayan solicitado el puesto con aportación de los méritos alegados.
+Cinco. Los demás destinos fiscales se proveerán mediante concurso entre funcionarios de la categoría, atendiendo al mejor puesto escalafonal. Para solicitar nuevo destino habrá de permanecerse, cuando menos, dos años en el anterior, siempre que se hubiera accedido a aquel a petición propia, salvo en el primer destino para aquellos Fiscales tras su ingreso en la carrera fiscal una vez superado el proceso selectivo, en cuyo caso el plazo será de un año.
+Los destinos que queden desiertos se cubrirán con los Fiscales que asciendan a la categoría necesaria.
+Seis. Para la provisión de plazas en las Fiscalías con sede en Comunidades Autónomas con idioma cooficial será mérito determinante la acreditación, con arreglo a los criterios que reglamentariamente se establezcan, del conocimiento de dicho idioma.
+Se valorará, como mérito preferente, con arreglo a los criterios que reglamentariamente se establezcan, el conocimiento del Derecho propio de la Comunidad.
+Siete. La provisión de destinos de la Fiscalía Jurídico Militar se llevará a cabo con arreglo a lo dispuesto en la Ley Orgánica reguladora de la Competencia y Organización de la Jurisdicción Militar.
+Se modifica el párrafo 1 del apartado 1, con efectos de 3 de abril de 2025, por la disposición final 5.5 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5
+ Se modifica por el art. único.28 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.13 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+ Se modifica el apartado 1 por el art. único.7 de la Ley 10/1995, de 24 de abril. Ref. BOE-A-1995-10066
+ Se modifican los apartados 1 y 2 por el art. 6 y la disposición adicional 2.5 de la Ley 5/1988, de 24 de marzo. Ref. BOE-A-1988-8175
+
+### Artículo treinta y siete
+
+1. Las vacantes que se produzcan en la categoría primera se cubrirán por ascenso entre fiscales que cuenten, al menos, con 20 años de servicio en la carrera y pertenezcan a la categoría segunda.
+2. Las vacantes que se produzcan en la categoría segunda se cubrirán, por orden de antigüedad, entre los pertenecientes a la categoría tercera.
+Se modifica por el art. único.14 y la disposición derogatoria única de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo treinta y ocho
+
+1. El nombramiento de los fiscales de las dos primeras categorías se hará por real decreto. Los demás nombramientos se harán por orden del Ministro de Justicia.
+2. La declaración de las situaciones administrativas de los fiscales, sea cual sea su categoría, se efectuará por orden del Ministro de Justicia.
+Se modifica por el art. único.15 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo treinta y nueve
+
+Los miembros del Ministerio Fiscal podrán ser trasladados:
+Uno. Por propia petición conforme a lo dispuesto en este Estatuto.
+Dos. Para ocupar plaza de la categoría a que fueran promovidos.
+Tres. Por incurrir en las incompatibilidades relativas establecidas en esta Ley.
+
+### Artículo cuarenta
+
+También podrán ser trasladados:
+Uno. Por disidencias graves con el Fiscal Jefe respectivo por causas a aquéllos imputables.
+Dos. Cuando asimismo por causas imputables a ellos tuvieran enfrentamientos graves con el Tribunal.
+El traslado forzoso se dispondrá por el órgano que hubiese acordado su nombramiento en expediente contradictorio, previo informe favorable del Consejo Fiscal.
+
+### Artículo cuarenta y uno
+
+Uno. El Teniente fiscal del Tribunal Supremo, los Fiscales de Sala a que se refieren los artículos Veinte y Treinta y Cinco. Uno k) de este Estatuto y los demás Fiscales Jefes pertenecientes a la primera categoría serán nombrados por un período de cinco años, transcurridos los cuales cesarán en sus cargos, salvo que sean nombrados de nuevo para esa jefatura por sucesivos periodos de idéntica duración. A la expiración del plazo legal, si no fueran confirmados o nombrados para otra jefatura, quedarán adscritos a la Fiscalía del Tribunal Supremo o a cualquiera de las Fiscalías cuyo Jefe pertenezca a la primera categoría, conservando en todo caso su categoría.
+A los efectos del párrafo anterior tendrán la consideración de Fiscales Jefes los que lo sean de las distintas secciones de la Fiscalía del Tribunal Supremo.
+Dos. Para el nombramiento y cese del Fiscal Jefe de la Secretaría Técnica se procederá con arreglo al artículo Treinta y seis. Una vez cesado, quedará en la misma situación prevista en el número anterior.
+Tres. Los Fiscales Jefes pertenecientes a la segunda categoría, los Tenientes Fiscales de las Fiscalías cuyo Jefe pertenezca a la primera categoría y los Tenientes Fiscales de las Fiscalías de las Comunidades Autónomas serán nombrados por un período de cinco años, transcurridos los cuales cesarán en sus cargos, salvo que sean nombrados de nuevo para el mismo cargo por sucesivos períodos de idéntica duración.
+Cuatro. Los Fiscales Superiores de las Comunidades Autónomas, los Fiscales Jefes pertenecientes a la segunda categoría y los Tenientes Fiscales mencionados en el apartado tres de este artículo, una vez relevados o cesados en sus cargos, o en caso de renuncia aceptada por el Fiscal General del Estado, quedarán adscritos, a su elección y hasta la obtención de un destino con carácter definitivo, a la Fiscalía en la que han desempeñado la jefatura o tenencia, o a la Fiscalía en la que prestaban servicio cuando fueron nombrados para el cargo.
+Cinco. El Fiscal responsable de la Unidad de Protección de Datos será nombrado por un periodo de cinco años renovable por un nuevo periodo de idéntica duración y ejercerá durante ese tiempo, exclusivamente, las funciones derivadas del cargo. Únicamente podrá ser cesado por el transcurso del plazo de nombramiento y por renuncia aceptada por el o la Fiscal General del Estado, o removido, de apreciarse incapacidad o incumplimiento grave en el ejercicio de sus funciones, por el Gobierno a propuesta del Fiscal General del Estado que deberá oír previamente al Consejo Fiscal y al interesado. La referida propuesta conllevará, a su vez, el cese como Delegado de Protección de Datos. Una vez cesado o relevado, si el Fiscal responsable fuere Fiscal de Sala quedará adscrito a la Fiscalía del Tribunal Supremo o a cualquiera de las fiscalías cuyo jefe pertenezca a la primera categoría, conservando en todo caso la categoría. En caso de ser fiscal de la segunda categoría se incorporará en calidad de adscrito, a su elección, a la Fiscalía en la que estuviere destinado antes de ocupar el cargo en la Unidad de Protección de Datos o a la Fiscalía de la comunidad autónoma o Provincial de Madrid, o a la Fiscalía de la comunidad autónoma o Provincial de origen, hasta ocupar plaza en propiedad.
+Seis. Sin perjuicio de lo anterior, los Fiscales Jefes de los respectivos órganos y los Tenientes Fiscales mencionados en el apartado tres de este artículo podrán ser removidos por el Gobierno a propuesta del Fiscal General del Estado, que deberá oír previamente al Consejo Fiscal y al interesado y, en su caso, al Fiscal Superior de la Comunidad Autónoma. Los Fiscales Superiores de las Comunidades Autónomas podrán proponer también al Fiscal General del Estado la remoción por el Gobierno de los Fiscales Jefes de los órganos de su ámbito territorial.
+Téngase en cuenta que la adición de un nuevo apartado 5 y la renumeración del anterior apartado 5 como 6, por la disposición final 5.6 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1
+ Redacción anterior:
+ "Cinco. Sin perjuicio de lo anterior, los Fiscales Jefes de los respectivos órganos y los Tenientes Fiscales mencionados en el apartado tres de este artículo podrán ser removidos por el Gobierno a propuesta del Fiscal General del Estado, que deberá oír previamente al Consejo Fiscal y al interesado y, en su caso, al Fiscal Superior de la Comunidad Autónoma. Los Fiscales Superiores de las Comunidades Autónomas podrán proponer también al Fiscal General del Estado la remoción por el Gobierno de los Fiscales Jefes de los órganos de su ámbito territorial."
+Se añade el apartado 5 y se renumera el anterior 5 como 6, con efectos de 3 de abril de 2025, por la disposición final 5.6 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5
+ Se modifica por el art. único.29 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.16 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+## CAPITULO III
+
+De la adquisición y pérdida de la condición del Fiscal
+
+### Artículo cuarenta y dos
+
+El ingreso en la Carrera Fiscal se hará por oposición libre entre quienes reúnan las condiciones de capacidad exigidas en esta Ley, que se realizará conjuntamente con la de ingreso en la Carrera Judicial, en los términos previstos en la Ley Orgánica del Poder Judicial.
+Se modifica por la disposición adicional 1 de la Ley Orgánica 9/2000, de 22 de diciembre. Ref. BOE-A-2000-23661
+ Se modifica el párrafo segundo por la disposición adicional 2.6 de la Ley 5/1988, de 24 de marzo. Ref. BOE-A-1988-8175
+
+### Artículo cuarenta y tres
+
+Para ser nombrado miembro del Ministerio Fiscal se requerirá ser español, mayor de dieciocho años, doctor o licenciado en Derecho y no hallarse comprendido en ninguna da las incapacidades establecidas en la presente ley.
+
+### Artículo cuarenta y cuatro
+
+Están incapacitados para el ejercicio de funciones fiscales:
+1.º Los que no tengan la necesaria aptitud física o intelectual.
+2.º Los que hayan sido condenados por delito doloso, mientras no hayan obtenido rehabilitación. En los casos en que la pena no fuera superior a seis meses, el Fiscal General del Estado, de forma motivada y atendiendo a la entidad del delito cometido, podrá sustituir la pérdida de la condición de Fiscal por la sanción de suspensión de hasta tres años.
+3.º Los concursados no rehabilitados.
+4.º Los que pierdan la nacionalidad española.
+Se modifica por el art. único.30 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Artículo cuarenta y cinco
+
+Artículo cuarenta y cinco.
+Uno. La condición de miembro del Ministerio Fiscal se adquiere, una vez hecho válidamente el nombramiento, por el juramento o promesa, y la toma de posesión.
+Dos. Los miembros del Ministerio Fiscal, antes de tomar posesión de su primer destino, prestarán juramento o promesa de guardar y hacer guardar la Constitución y las leyes y desempeñar fielmente las funciones fiscales con lealtad al Rey. El juramento o promesa se prestará ante la Sala de Gobierno del Tribunal Superior de Justicia a cuyo territorio hayan sido destinados, junto a cuyo Presidente se situará el Fiscal Superior de la Comunidad Autónoma.
+Igualmente, jurarán o prometerán su cargo los Fiscales de Sala, al acceder a la primera categoría de la carrera fiscal. Dicho acto tendrá lugar ante la Sala de Gobierno del Tribunal Supremo, junto a cuyo Presidente se situará el Fiscal General del Estado.
+Tres. Los Fiscales Superiores de las Comunidades Autónomas tomarán posesión en la ciudad donde tenga la sede su Fiscalía, en un acto presidido por el Fiscal General del Estado.
+Los Fiscales Jefes de las Fiscalías Provinciales y de las Fiscalías de Área tomarán posesión en el lugar donde tenga la sede su Fiscalía, en un acto presidido por el Fiscal Superior de la Comunidad Autónoma, salvo que asista el Fiscal General del Estado, en cuyo caso será éste quien presida el acto.
+El resto de los Fiscales tomarán posesión ante el Fiscal Jefe de la Fiscalía a la que vayan destinados, salvo que asista al acto el Fiscal General del Estado u otro miembro de rango superior a la escala jerárquica del Ministerio Fiscal, en cuyo caso será éste quien presida el acto.
+En todos los casos previstos en este apartado, el Presidente del Tribunal Superior de Justicia y, en su caso, el de la respectiva Audiencia Provincial, ocuparán el lugar preferente que les corresponda en la presidencia del acto.
+Cuatro. La toma de posesión tendrá lugar dentro de los veinte días naturales siguientes a la publicación del nombramiento para el destino de que se trate, o en el plazo superior que se conceda cuando concurran circunstancias que lo justifiquen, y se conferirá por el Jefe de la Fiscalía o quien ejerza sus funciones.
+Se modifica por el art. único.31 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica el párrafo segundo por la disposición adicional 2.7 de la Ley 5/1988, de 24 de marzo. Ref. BOE-A-1988-8175
+
+### Artículo cuarenta y seis
+
+Uno. La condición de Fiscal se pierde en virtud de alguna de las causas siguientes:
+a) Renuncia.
+b) Pérdida de la nacionalidad española.
+c) Sanción disciplinaría de separación del servicio.
+d) Pena principal o accesoria de inhabilitación para cargos públicos.
+e) Haber incurrido en alguna de las causas de incapacidad.
+Dos. La integración activa en el Ministerio Fiscal cesa también en virtud de jubilación forzosa o voluntaria, que se acordará por el Gobierno en los mismos casos y condiciones que se señalan en la Ley Orgánica del Poder Judicial para los Jueces y Magistrados.
+
+## CAPITULO IV
+
+De las situaciones en la Carrera Fiscal
+
+### Artículo cuarenta y siete
+
+Las situaciones administrativas en la Carrera Fiscal se acomodarán a lo dispuesto en la Ley Orgánica del Poder Judicial para Jueces y Magistrados y serán desarrolladas reglamentariamente.
+
+## CAPITULO V
+
+De los deberes y derechos de los miembros del Ministerio Fiscal
+
+### Artículo cuarenta y ocho
+
+Los miembros del Ministerio Fiscal tendrán el primordial deber de desempeñar fielmente el cargo que sirvan, con prontitud y eficacia en cumplimiento de las funciones del mismo, conforme a los principios de unidad y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad.
+
+### Artículo cuarenta y nueve
+
+Los miembros del Ministerio Fiscal deberán residir en la población donde tengan su destino oficial. Sólo podrán ausentarse de la misma con permiso de sus superiores jerárquicos.
+Asimismo deberán asistir, durante el tiempo necesario, y de conformidad con las instrucciones del Jefe de la Fiscalía, al despacho de la misma y a los Tribunales en que deban actuar.
+
+### Artículo cincuenta
+
+Los miembros del Ministerio Fiscal guardarán el debido secreto de los asuntos reservados de que conozcan por razón de su cargo.
+
+### Artículo cincuenta y uno
+
+Los miembros del Ministerio Fiscal tendrán derecho al cargo y a la promoción en la Carrera en las condiciones legalmente establecidas. Los cargos del Ministerio Fiscal llevarán anejos los honores que reglamentariamente se establezcan.
+
+### Artículo cincuenta y dos
+
+Los miembros del Ministerio Fiscal gozarán de los permisos y licencias, y del régimen de recompensas, que reglamentariamente se establezcan, inspirados unos y otros en lo dispuesto para Jueces y Magistrados por la Ley Orgánica del Poder Judicial.
+
+### Artículo cincuenta y tres
+
+El régimen retributivo de los miembros del Ministerio Fiscal se regirá por ley y estarán equiparados en retribuciones a los miembros de la Carrera Judicial. Asimismo gozarán, en los términos legales, de la adecuada asistencia y Seguridad Social.
+
+### Artículo cincuenta y cuatro
+
+De acuerdo con lo establecido en el artículo ciento veintisiete de la Constitución se reconoce el derecho de asociación profesional de los Fiscales, que se ejercerá libremente en el ámbito del artículo veintidós de la Constitución y que se ajustará a las reglas siguientes:
+Uno. Las Asociaciones de Fiscales tendrán personalidad jurídica y plena capacidad para el cumplimiento de sus fines.
+Podrán tener como fines lícitos la defensa de los intereses profesionales de sus miembros en todos los aspectos y la realización de estudios y actividades encaminados al servicio de la justicia en general.
+Dos. Sólo podrán formar parte de las mismas quienes ostenten la condición de Fiscales, sin que puedan integrarse en ellas miembros de otros cuerpos o carreras.
+Tres. Los Fiscales podrán libremente afiliarse o no a Asociaciones profesionales. Estas deberán hallarse abiertas a la incorporación de cualquier miembro de la Carrera Fiscal.
+Cuatro. Las Asociaciones profesionales quedarán válidamente constituidas desde que se inscriban en el Registro, que será llevado al efecto por el Ministerio de Justicia. La inscripción se practicará a solicitud de cualquiera de los promotores, a la que se acompañará el texto de los Estatutos y una relación de afilados.
+Cinco. Los Estatutos deberán expresar, como mínimo, las siguientes menciones:
+Primera.- Nombre de la Asociación, que no podrá contener connotaciones políticas.
+Segunda.- Fines específicos.
+Tercera.- Organización y representación de la Asociación. Su estructura interna y funcionamiento deberán ser democráticos.
+Cuarta.- Régimen de afiliación.
+Quinta.- Medios económicos y régimen de cuota.
+Sexta.- Forma de elegirse los cargos directivos de la Asociación.
+Seis. Cuando las Asociaciones profesionales incurrieren en actividades contrarias a la ley o que excedieren del marco de los Estatutos, el Fiscal General del Estado podrá instar, por los trámites de juicio declarativo ordinario, la disolución de la Asociación. La competencia para acordarla corresponderá a la Sala Primera del Tribunal Supremo que, con carácter, cautelar, podrá acordar la suspensión de la misma.
+
+### Artículo cincuenta y cinco
+
+Ningún miembro del Ministerio Fiscal podrá ser obligado a comparecer personalmente, por razón de su cargo o función, ante las autoridades administrativas, sin perjuicio de los deberes de auxilio o asistencia entre autoridades.
+Tampoco podrá recibir ningún miembro del Ministerio Fiscal órdenes o indicaciones relativas al modo de cumplir sus funciones más que de sus superiores jerárquicos.
+Respecto del Fiscal General del Estado se estará a lo dispuesto en el artículo octavo y siguientes.
+
+### Artículo cincuenta y seis
+
+Los miembros de la Carrera Fiscal en activo no podrán ser detenidos sin autorización del superior jerárquico de quien dependan, excepto por orden de la autoridad judicial competente o en caso de flagrante delito. En este último supuesto se pondrá inmediatamente el detenido a disposición de la autoridad judicial más próxima, dándose cuenta en el acto, en ambos casos, a su superior jerárquico.
+
+## CAPITULO VI
+
+De las incompatibilidades y prohibiciones
+
+### Artículo cincuenta y siete
+
+El ejercicio de cargos fiscales es incompatible:
+1. Con el de juez o magistrado y con los empleos de todas clases en los tribunales y juzgados en cualquier orden jurisdiccional.
+2. Con el de cualquier otra jurisdicción, así como la participación en actividades u órganos de arbitraje.
+3. Con cualquier cargo de elección popular o designación política del Estado, comunidades autónomas, provincias y demás entidades locales y organismos dependientes de cualquiera de ellos.
+4. Con los empleos o cargos dotados o retribuidos por la Administración del Estado, las Cortes Generales, la Casa Real, comunidades autónomas, provincias, municipios, y cualesquiera entidades, organismos o empresas dependientes de unos u otras.
+5. Con todo empleo, cargo o profesión retribuida, salvo la docencia o investigación jurídica, así como la producción y creación literaria, artística, científica y técnica, debidamente notificada a su superior jerárquico, y las publicaciones derivadas de aquélla, de conformidad con lo dispuesto en la legislación sobre incompatibilidades del personal al servicio de las Administraciones públicas.
+6. Con el ejercicio de la abogacía, excepto cuando tenga por objeto asuntos personales del Fiscal, de su cónyuge o persona a quien se halle ligado de forma estable por análoga relación de afectividad, de los hijos sujetos a su patria potestad o de las personas sometidas a su tutela, con el ejercicio de la procuraduría, así como todo tipo de asesoramiento jurídico, sea o no retribuido.
+La incompatibilidad con el ejercicio de la abogacía se extenderá en todo caso a la llevanza, directamente o mediante persona interpuesta, de aquellos asuntos en los que el Fiscal hubiese intervenido como tal, aun cuando haya pasado con posterioridad a la situación de excedencia. A este supuesto le será aplicable el régimen de responsabilidad disciplinaria previsto en el Estatuto General de la Abogacía para quienes ejerzan la profesión de abogado estando incursos en causa de incompatibilidad.
+7. Con el ejercicio directo o mediante persona interpuesta de toda actividad mercantil. Se exceptúa la transformación y venta de productos obtenidos de los bienes propios, operaciones que podrán realizarse, pero sin tener establecimiento abierto al público.
+8. Con las funciones de director, gerente, administrador, consejero, socio colectivo o cualquier otra que implique intervención directa, administrativa o económica en sociedades o empresas mercantiles, públicas o privadas de cualquier género.
+Se modifica el apartado 6 por el art. único.32 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.17 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo cincuenta y ocho
+
+Los miembros del Ministerio Fiscal no podrán ejercer sus cargos:
+Uno. En las Fiscalías que comprendan dentro de su circunscripción territorial una población en la que su cónyuge o persona a quien se halle ligado de forma estable por análoga relación de afectividad ejerza una actividad industrial o mercantil que obstaculice el imparcial desempeño de su función, a juicio del Consejo Fiscal.
+Dos. En la misma Fiscalía o sección en la que ejerzan sus parientes, dentro del segundo grado de consanguinidad o afinidad, o su cónyuge, o persona a quien se halle ligado de forma estable por análoga relación de afectividad, cargos de la Carrera Fiscal, siempre que exista dependencia jerárquica inmediata entre ambos.
+A los efectos de este apartado se considerará dependencia jerárquica inmediata la que vincula al Fiscal Jefe de la Fiscalía con el Teniente Fiscal y con el Decano de cada Sección, así como a este último con los Fiscales integrados en la Sección respectiva.
+A los mismos efectos, se entenderá que existe dependencia jerárquica inmediata entre el Fiscal Superior de la Comunidad Autónoma y los Fiscales Jefes Provinciales de la misma Comunidad, y asimismo entre el Fiscal Jefe Provincial y los Fiscales Jefes de Área en la misma provincia.
+Tres. Cuando la Ley Orgánica del Poder Judicial establezca incompatibilidades entre miembros de la carrera judicial y fiscal.
+Cuatro. Como Fiscales Jefes en las Fiscalías donde ejerzan habitualmente como abogado o procurador su cónyuge o persona a quien se halle ligado de forma estable por análoga relación de afectividad o un pariente dentro del segundo grado de consanguinidad o afinidad, salvo que se trate de circunscripciones territoriales de más de quinientos mil habitantes y sin perjuicio del deber de abstención cuando proceda.
+Cinco. En una Fiscalía en cuyo territorio hayan ejercido como Abogado o Procurador en los dos años anteriores a su nombramiento.
+Se modifica por el art. único.33 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.18 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo cincuenta y nueve
+
+No podrán los miembros del Ministerio Fiscal pertenecer a partidos políticos o sindicatos o tener empleo al servicio de los mismos, dirigir a los poderes y funcionarios públicos o a corporaciones oficiales, felicitaciones o censuras por sus actos, ni concurrir con carácter o atributos oficiales a cualesquiera actos o reuniones públicas en que ello no proceda en el ejercicio de sus funciones. Asimismo, tampoco podrán tomar parte en las elecciones legislativas, autonómicas o locales más que para emitir su voto personal.
+Se modifica por el art. único.34 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+## CAPITULO VII
+
+De la responsabilidad de los miembros del Ministerio Fiscal
+
+### Artículo sesenta
+
+La exigencia de responsabilidad civil y penal a los miembros del Ministerio Fiscal y la repetición contra los mismos por parte de la Administración del Estado, en su caso, se regirá, en cuando les sea de aplicación, por lo dispuesto en la Ley Orgánica del Poder Judicial para Jueces y Magistrados.
+
+### Artículo sesenta y uno
+
+Los miembros del Ministerio Fiscal incurrirán en responsabilidad disciplinaria cuando cometieran alguna de las faltas previstas en la presente ley.
+Las faltas cometidas por los miembros del Ministerio Fiscal podrán ser leves, graves y muy graves.
+
+### Artículo sesenta y dos
+
+Se consideran faltas muy graves:
+Uno. El incumplimiento consciente del deber de fidelidad a la Constitución establecido en el artículo cuarenta y cinco de esta Ley, cuando así se apreciara en sentencia firme.
+Dos. El incumplimiento de las órdenes particulares y requerimientos personales dirigidos por escrito en la forma establecida en este Estatuto, cuando de aquel se haya derivado perjuicio en el proceso o alteración relevante en el funcionamiento interno de la Fiscalía.
+Tres. La afiliación a partidos políticos o sindicatos, o el desempeño de empleos o cargos a su servicio.
+Cuatro. La provocación reiterada de enfrentamientos graves con las autoridades de la circunscripción en que el Fiscal desempeñe el cargo, por motivos ajenos al ejercicio de su función.
+Cinco. Las acciones y omisiones que hayan dado lugar en sentencia firme a una declaración de responsabilidad civil contraída en el ejercicio de la función por dolo o culpa grave conforme al artículo Sesenta de esta Ley.
+Seis. El ejercicio de cualquiera de las actividades incompatibles con el cargo de Fiscal, establecidas en el artículo Cincuenta y siete de esta Ley, salvo las que puedan constituir falta grave con arreglo a lo dispuesto en su artículo Sesenta y Tres.
+Siete. Provocar el propio nombramiento para alguna Fiscalía cuando concurra en el nombrado alguna de las situaciones de incompatibilidad o prohibición previstas en el artículo Cincuenta y ocho de esta Ley, o mantenerse en el desempeño del cargo en dichos órganos sin poner en conocimiento de la Fiscalía General del Estado las circunstancias necesarias para proceder al traslado forzoso previsto en el artículo Treinta y Nueve, apartado tres.
+Ocho. La inobservancia del deber de abstención a sabiendas de que concurre alguna de las causas legalmente previstas.
+Nueve. La desatención o el retraso injustificado y reiterado en el despacho de los asuntos o en el ejercicio de cualesquiera otras de las funciones que le fueran encomendadas.
+Diez. El abandono del servicio o la ausencia injustificada y continuada por siete días naturales o más de la sede de la Fiscalía en que se hallase destinado.
+Once. Faltar a la verdad en la solicitud de obtención de permisos, autorizaciones, declaraciones de compatibilidad, dietas y ayudas económicas.
+Doce. La revelación por el Fiscal de hechos o datos conocidos en el ejercicio de su función o con ocasión de ésta, cuando se cause algún perjuicio a la tramitación de un proceso o a cualquier persona.
+Trece. El abuso de la condición de Fiscal para obtener un trato favorable e injustificado de autoridades, funcionarios o profesionales.
+Catorce. La comisión de una falta grave cuando el Fiscal hubiera sido anteriormente sancionado por otras dos graves, que hayan adquirido firmeza, sin que hubieran sido canceladas o procedido la cancelación de las correspondientes anotaciones, conforme a lo establecido en el artículo Sesenta y Nueve de esta Ley.
+Quince. La ignorancia inexcusable en el cumplimiento de sus deberes.
+Dieciséis. La absoluta y manifiesta falta de motivación en los informes y dictámenes que la precisen de conformidad con las Instrucciones de la Fiscalía General del Estado.
+Se modifica por el art. único.35 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.19 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo sesenta y tres
+
+Se consideran faltas graves:
+Uno. La falta de respeto a los superiores en el orden jerárquico, en su presencia, en escrito que se les dirija o con publicidad.
+Dos. El incumplimiento de las órdenes o requerimientos recibidos en la forma establecida en este Estatuto.
+Tres. El exceso o abuso de autoridad, o falta grave de consideración respecto de los ciudadanos, instituciones, jueces y magistrados, fiscales, secretarios, médicos forenses, funcionarios de los cuerpos de gestión, tramitación y auxilio judicial, abogados y procuradores, graduados sociales y funcionarios de la policía judicial y demás personal al servicio de la Administración de Justicia o que preste servicios en la oficina fiscal.
+Cuatro. Dejar de promover la exigencia de responsabilidad disciplinaria que proceda a los secretarios y personal auxiliar subordinado, cuando conocieran o debieran conocer el incumplimiento grave por aquéllos de los deberes que les corresponden.
+Cinco. Revelar hechos o datos conocidos por el Fiscal en el ejercicio de su función o con ocasión de éste, cuando no constituya la falta muy grave del apartado Doce del artículo sesenta y dos de esta Ley.
+Seis. La ausencia injustificada y continuada por más de tres días naturales y menos de siete de la sede de la Fiscalía en que el Fiscal se halle destinado.
+Siete. La inasistencia injustificada a los actos procesales con audiencia pública que estuvieran señalados y a los que hubiera sido citado en la forma legalmente prevista, cuando no constituya falta muy grave.
+Ocho. El retraso injustificado en el despacho de los asuntos de que conozca el Fiscal en el ejercicio de su función, si no constituye falta muy grave.
+Nueve. El ejercicio de cualquier actividad susceptible de declaración de compatibilidad sin obtener la pertinente autorización o habiéndola obtenido con falta de veracidad en los presupuestos alegados.
+Diez. La comisión de una falta de carácter leve habiendo sido sancionado anteriormente por resolución firme por otras dos leves sin que hubieran sido canceladas o procedido la cancelación de las correspondientes anotaciones, conforme a lo establecido en esta Ley.
+Once. Las restantes infracciones de los deberes inherentes a la condición de fiscal, establecidos en esta Ley, cuando mereciesen la calificación de graves, atendidas la intencionalidad del hecho, su trascendencia para la Administración de Justicia y el quebranto sufrido por la dignidad de la función fiscal.
+Doce. Dirigir a los poderes, autoridades o funcionarios públicos o corporaciones oficiales felicitaciones o censuras por sus actos, invocando la condición de fiscal, o sirviéndose de esa condición. Cuando estas actuaciones sean realizadas por Junta de Fiscales se entenderán responsables los que hubieran tomado parte en la votación excepto quienes hayan salvado individualmente su voto.
+Se modifica por el art. único.36 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.20 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo sesenta y cuatro
+
+Se consideran faltas leves:
+Uno. La falta de respeto a los superiores jerárquicos cuando no concurran las circunstancias que calificarían la conducta de falta grave.
+Dos. La desatención o desconsideración con iguales o inferiores en el orden jerárquico, con los ciudadanos, instituciones, jueces y magistrados, fiscales, secretarios, médicos forenses, funcionarios de los cuerpos de gestión, tramitación y auxilio judicial, abogados y procuradores, graduados sociales, funcionarios de la policía judicial y demás personal al servicio de la Administración de Justicia y demás personal que preste servicio en la oficina fiscal, cuando por sus circunstancias no mereciere la calificación de falta grave.
+Tres. El incumplimiento injustificado o inmotivado de los plazos legalmente establecidos en el despacho de los asuntos que tenga encomendados.
+Cuatro. La ausencia injustificada y continuada de uno a tres días naturales de la sede de la Fiscalía o adscripción en que el Fiscal se halle destinado.
+Cinco. La simple recomendación de cualesquiera asuntos de que conozcan los juzgados y tribunales.
+Seis. La desatención a las órdenes, requerimientos u observaciones verbales recibidas de sus jefes, salvo que constituya una infracción más grave, conforme a lo prevenido en los dos artículos anteriores.
+Siete. La desatención o desconsideración con ciudadanos, instituciones, jueces y magistrados, ante la petición de intervenir en una lengua cooficial, en el caso en que se haya acreditado un conocimiento adecuado y suficiente como mérito.
+Se modifica por el art. único.37 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se modifica por el art. único.21 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo sesenta y cinco
+
+1. Las faltas muy graves prescribirán a los dos años, las graves, al año, y las leves, en el plazo previsto en el Código Penal para la prescripción de las faltas.
+El plazo de prescripción comenzará a contarse desde que la falta se hubiera cometido. No obstante, en el supuesto previsto en el artículo 62.5 de esta ley, el plazo de prescripción se iniciará a partir de la firmeza de la sentencia que declare la responsabilidad civil del fiscal.
+2. La prescripción se interrumpirá desde la fecha de notificación del acuerdo de iniciación del procedimiento disciplinario o, en su caso, de las diligencias informativas relacionadas con la conducta investigada del fiscal.
+El plazo de prescripción vuelve a correr si las diligencias o el procedimiento permanecen paralizados durante seis meses por causa no imputable al fiscal sujeto al expediente disciplinario.
+Se modifica por el art. único.22 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo sesenta y seis
+
+1. Las sanciones que se pueden imponer a los fiscales por faltas cometidas en el ejercicio de sus cargos son:
+a) Advertencia.
+b) Multa de hasta tres mil euros.
+c) Traslado forzoso a Fiscalía con sede separada, al menos, en cien kilómetros de aquella en que estuviera destinado.
+d) Suspensión de hasta tres años.
+e) Separación.
+El fiscal sancionado con traslado forzoso no podrá concursar en el plazo de uno a tres años.
+La duración de la prohibición de concursar habrá de determinarse necesariamente en la resolución que ponga fin al procedimiento.
+El Fiscal Jefe sancionado en virtud de una falta grave o muy grave, podrá ser removido de la jefatura, a propuesta del Fiscal General del Estado, oído el Consejo Fiscal.
+2. Las faltas leves sólo podrán sancionarse con advertencia o multa de hasta trescientos euros o con ambas; las graves, con multa de trescientos euros a tres mil euros, y las muy graves, con suspensión, traslado forzoso o separación.
+3. En la imposición de cualquier sanción se atenderá a los principios de graduación y proporcionalidad en la respuesta sancionadora, que se agravará o atenuará en relación con las circunstancias del hecho y del presunto infractor.
+4. Las sanciones impuestas por faltas muy graves prescribirán a los dos años; las impuestas por faltas graves, al año, y por faltas leves, en el plazo previsto en el Código Penal para la prescripción de las faltas. Dichos plazos de prescripción comenzarán a computarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impusieron las sanciones.
+Se modifica por el art. único.23 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo sesenta y siete
+
+Serán competentes para la imposición de sanciones:
+1. Para imponer la de advertencia, el Fiscal Jefe respectivo.
+2. Para imponer hasta la de suspensión, el Fiscal General del Estado.
+3. Para imponer la de separación del servicio, el Ministro de Justicia, a propuesta del Fiscal General del Estado, previo informe favorable del Consejo Fiscal.
+Las resoluciones del Fiscal Jefe serán recurribles ante el Consejo Fiscal.
+Las resoluciones del Fiscal General del Estado serán recurribles en alzada ante el Ministro de Justicia.
+Las resoluciones del Consejo Fiscal y del Ministro de Justicia que agoten la vía administrativa serán susceptibles del recurso contencioso-administrativo ante la Sala correspondiente de la Audiencia Nacional.
+Se modifica por el art. único.24 de la Ley 14/2003, de 26 de mayo. Ref. BOE-A-2003-10523
+
+### Artículo sesenta y ocho
+
+La sanción de advertencia podrá imponerse de plano previa audiencia del interesado. Para la imposición de las restantes, será preceptiva la instrucción de expediente contradictorio, con audiencia del interesado.
+
+### Artículo sesenta y nueve
+
+Las sanciones disciplinarias firmes se anotarán en el expediente personal del interesado, de lo cual cuidará la Autoridad que la hubiere impuesto.
+Las anotaciones serán candeladas por acuerdo del Fiscal General del Estado, una vez cumplida la sanción, y transcurridos seis meses, dos años o cuatro años desde su imposición, respectivamente, según que la falta hubiere sido leve, grave o muy grave, si en dicho período el funcionario no hubiere incurrido en la comisión de hechos sancionables. Las sanciones impuestas por faltas leves se cancelarán automáticamente. La cancelación de las restantes se hará en expediente iniciado a petición del interesado y con informe del Consejo Fiscal.
+La cancelación borrara el antecedente a todos los efectos, incluso a las de apreciación de reincidencia o reiteración.
+
+### Artículo setenta
+
+La rehabilitación de los Fiscales separados disciplinariamente se regirá, en cuanto les sea de aplicación, por lo dispuesto en la Ley Orgánica del Poder Judicial para Jueces y Magistrados.
+
+## TITULO IV
+
+Del personal y medios materiales
+
+## CAPITULO UNICO
+
+### Artículo setenta y uno
+
+Habrá en los órganos fiscales el personal técnico y auxiliar necesario para atender al servicio, que dependerá de los Fiscales Jefes respectivos sin perjuicio de la competencia que corresponda a otros órganos en la esfera que les sea propia.
+
+### Artículo setenta y dos
+
+Uno. Las Fiscalías tendrán en todo caso una instalación adecuada en la sede de los Tribunales y Juzgados correspondientes, y además podrán contar con sus propias instalaciones fuera de dichas sedes cuando ello convenga a la mejor prestación del servicio.
+Dos. Las instalaciones del Ministerio Fiscal se hallarán dotadas de los medios precisos que se consignen en las Leyes de Presupuestos.
+Tres. Los Presupuestos Generales del Estado y los de las Comunidades Autónomas que hayan asumido competencias en materia de Administración de Justicia contemplarán, dentro de la Sección que corresponda, y previa ponderación de las necesidades funcionales del Ministerio Fiscal propuestas por el Fiscal General del Estado, previa audiencia, en su caso, a las Comunidades Autónomas con competencias en la materia, las correspondientes partidas presupuestarias adecuadamente singularizadas para atender a aquéllas.
+En todo caso, una de estas partidas será gestionada por la Unidad de Apoyo del Fiscal General y estará destinada a atender los gastos de funcionamiento de la administración de la Fiscalía General del Estado.
+Se modifica por el art. único.38 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+(Derogada)
+Se deroga por la disposición derogatoria 1 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Derogada)
+Se deroga por la disposición derogatoria 1 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+(Derogada)
+Se deroga por la disposición derogatoria 1 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+(Derogada)
+Se deroga por la disposición derogatoria 1 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+(Derogada)
+Se deroga por la disposición derogatoria 1 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+(Derogada)
+Se deroga por la disposición derogatoria 1 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+El período máximo de diez años, previsto en el apartado Dos del artículo Treinta y seis, por el que son designados los fiscales destinados en la Inspección Fiscal, comenzará a computarse, para los que actualmente están destinados en la misma, a partir de la entrada en vigor de la presente Ley.
+Se modifica por el art. único.39 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+ Se añade por la disposición adicional 3 de la Ley 5/1988, de 24 de marzo. Ref. BOE-A-1988-8175
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+En el plazo de un año desde la entrada en vigor de esta Ley se constituirán las Fiscalías de las Comunidades Autónomas de acuerdo con lo previsto en el artículo Veintiuno. En el momento de su constitución, los actuales Fiscales Jefes de los Tribunales Superiores de Justicia pasarán a denominarse, automáticamente, Fiscales Superiores de las Comunidades Autónomas, permaneciendo en dicho cargo hasta agotar el plazo de cinco años por el que en su día fueron nombrados, sin perjuicio de su ulterior renovación con arreglo a lo dispuesto en el artículo Cuarenta y uno, apartado tres. Del mismo modo los Tenientes Fiscales de los Tribunales Superiores de Justicia pasarán a ocupar el cargo de Teniente Fiscal de la Fiscalía Superior de la Comunidad Autónoma por el período que reste de su mandato, computado con arreglo a lo dispuesto en el apartado tres del artículo Cuarenta y uno y en esta Disposición Transitoria, sin perjuicio, igualmente, de su ulterior renovación.
+A tal fin, una vez fijadas las plantillas de las Fiscalías Superiores de las Comunidades Autónomas, se convocará, dentro del plazo indicado, el correspondiente concurso con arreglo a lo dispuesto en el artículo Treinta y seis, apartado cinco, de este Estatuto Orgánico. Resuelto dicho concurso, los Fiscales que, estando en ese momento destinados en las Fiscalías de los Tribunales Superiores de Justicia, no hayan obtenido plaza en las nuevas Fiscalías Superiores, pasarán automáticamente a integrar las respectivas Fiscalías Provinciales.
+En el mismo plazo de un año, se constituirán las Fiscalías de Área, a cuyo fin el Gobierno, previo informe del Fiscal General del Estado, oído el Consejo Fiscal y los Fiscales Jefes de los territorios afectados, adoptará las disposiciones necesarias, en particular para la provisión de las plazas de Fiscal Jefe de las mismas. Las Adscripciones Permanentes que no se constituyan como Fiscalías de Área a través del procedimiento previsto en esta disposición, quedarán automáticamente convertidas en Secciones Territoriales de las Fiscalías Provinciales, en los términos previstos en el párrafo segundo del apartado cuatro y el apartado cinco del artículo Dieciocho de esta Ley.
+A la entrada en vigor de esta Ley finalizará el mandato de los Tenientes Fiscales comprendidos en el Artículo Cuarenta y uno, apartado tres, que lleven desempeñando su cargo más de cinco años. Las plazas resultantes serán ofrecidas para su cobertura en los términos previstos en esta Ley, pudiendo concurrir a las mismas los afectados por la presente disposición, quienes en todo caso continuarán ejerciendo sus funciones en tanto no se produzcan los nuevos nombramientos. Los nombrados con anterioridad a la entrada en vigor de esta Ley que no hubieran desempeñado su cargo por más de cinco años finalizarán su mandato en el momento en que se cumpla dicho plazo, computado desde la fecha de su nombramiento.
+Se añade por el art. único.40 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+Quien desempeñe las funciones de Fiscal General del Estado a la entrada en vigor de la presente Ley continuará en el ejercicio de su cargo hasta que se produzca su cese, que sólo tendrá lugar cuando concurra alguno de los supuestos previstos por los apartados a), b), c), d) y e) del artículo Treinta y Uno, apartado uno del Estatuto Orgánico del Ministerio Fiscal.
+Quienes hubieran desempeñado el cargo de Fiscal General del Estado con anterioridad a la entrada en vigor de la presente Ley no quedarán por ello excluidos de la posibilidad de ser propuestos por el Gobierno conforme al artículo Veintinueve del Estatuto Orgánico del Ministerio Fiscal.
+Se añade por el art. único.41 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En cuanto a la adquisición y pérdida de la condición de miembro de la Carrera Fiscal, incapacidades, situaciones administrativas, deberes y derechos, incompatibilidades, prohibiciones y responsabilidades de los mismos, será de aplicación supletoria lo dispuesto para Jueces y Magistrados en la Ley Orgánica del Poder Judicial.
+El miembro del Ministerio Fiscal nombrado Fiscal Europeo estará en situación de servicios especiales de conformidad con el artículo 351.a) de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+Los Fiscales nombrados por el Colegio de la Fiscalía Europea como Fiscales europeos delegados estarán en situación de servicios especiales de conformidad con el artículo 351.c) de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, desde el momento de su nombramiento y hasta su cese, en los términos establecidos en la Ley Orgánica de aplicación del Reglamento (UE) 2017/1939 del Consejo, de 12 de octubre de 2017, por el que se establece una cooperación reforzada para la creación de la Fiscalía Europea.
+Se añaden los últimos dos párrafos por la disposición final 1.4 de la Ley Orgánica 9/2021, de 1 de julio. Ref. BOE-A-2021-10957#df
+ Se modifica por la disposición adicional 4 de la Ley 4/2010, de 10 de marzo. Ref. BOE-A-2010-4048
+ Se modifica por el art. 5 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
+ Se numera como primera por la disposición adicional 16 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. El Ministerio Fiscal contará con un sistema de información y una red de comunicaciones electrónicas plenamente integrados, a través de los cuales se asegurará eficazmente su unidad de actuación de conformidad con lo establecido en el artículo 124 de la Constitución.
+2. El sistema de información y la red integrada de comunicaciones electrónicas del Ministerio Fiscal serán definidos y gestionados por los órganos competentes de la Fiscalía General del Estado. A estos efectos contarán con el soporte administrativo y tecnológico del Ministerio de Justicia.
+Las comunidades autónomas que hubiesen asumido competencias en materia de provisión de medios materiales para la Administración de Justicia participarán junto al Ministerio de Justicia en la dotación de los equipamientos informáticos del Ministerio Fiscal, con sujeción a lo dispuesto en este Estatuto Orgánico y a los acuerdos y resoluciones adoptados por la Comisión Nacional de Informática y Comunicaciones Electrónicas del Ministerio Fiscal.
+3. La red integrada de comunicaciones del Ministerio Fiscal garantizará:
+a) Un sistema de identificación y de codificación único de los procedimientos y actuaciones en que intervenga el Ministerio Fiscal.
+b) La obtención inmediata, actualizada y rigurosa de información estadística. A estos efectos, existirá una base de datos centralizada de los procedimientos de que conozca el Ministerio Fiscal.
+c) El acceso telemático de todas las fiscalías a los registros, bases de datos, sistemas de información y aplicaciones informáticas de ámbito nacional gestionados por el Ministerio de Justicia.
+d) La conexión telemática permanente del Fiscal General del Estado y de los restantes órganos centrales del Ministerio Fiscal con todas las fiscalías y los miembros de la Carrera Fiscal, así como de ellos entre sí. A estos efectos se implantará un sistema único de identificación y de comunicaciones electrónicas.
+4. La Comisión Nacional de Informática y Comunicaciones Electrónicas del Ministerio Fiscal, presidida por el Fiscal General del Estado, dictará instrucciones y criterios de obligado cumplimiento en todas las Fiscalías sobre la implantación, utilización, gestión y explotación de todos los sistemas informáticos y de comunicaciones electrónicas. La estructura, composición y funciones de esta Comisión Nacional, así como la organización, funcionamiento y características técnicas de la red integrada de comunicaciones electrónicas del Ministerio Fiscal, será establecida reglamentariamente, mediante real decreto.
+Se añade por la disposición adicional 16 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Fiscales eméritos del Tribunal Supremo.
+Los Fiscales de Sala del Tribunal Supremo, una vez jubilados y a propuesta del Fiscal General del Estado, oído el Consejo Fiscal, serán designados anualmente por el Gobierno Fiscales de Sala eméritos en el Tribunal Supremo, cuando así lo soliciten, siempre que reúnan los requisitos exigidos en la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, para los Magistrados eméritos en el Tribunal Supremo y de acuerdo con las necesidades de refuerzo en la Fiscalía del Tribunal Supremo.
+Se añade por la disposición adicional única de la Ley Orgánica 2/2004, de 28 de diciembre. Ref. BOE-A-2004-21761
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+1. Los miembros de la Carrera Fiscal se sustituirán entre sí, de acuerdo con lo dispuesto en este Estatuto, en las normas reglamentarias que lo desarrollen y en las Instrucciones que, con carácter general, dicte el Fiscal General del Estado.
+2. Cuando no pueda acudirse al sistema de sustituciones ordinarias, podrán ser nombrados con carácter excepcional Fiscales sustitutos en los casos de vacantes, licencias, servicios especiales u otras causas que lo justifiquen.
+3. El régimen jurídico de los Fiscales sustitutos será objeto de desarrollo reglamentario en términos análogos a lo previsto para los Magistrados suplentes y Jueces sustitutos en la Ley Orgánica del Poder Judicial, que será aplicable supletoriamente en esta materia.
+Se añade por la disposición adicional 4 de la Ley 4/2010, de 10 de marzo. Ref. BOE-A-2010-4048
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Gobierno:
+A. Para que, en el plazo de un año y a propuesta del Ministro de Justicia, dicte el Reglamento que desarrolle la presente Ley.
+B. Para redistribuir las plantillas entre las distintas Fiscalías, tanto del personal fiscal que las sirve, como del auxiliar adscrito a las mismas, siempre que no implique incremento en las plantillas presupuestarias respectivas.
+Se suspende el plazo establecido en la letra A y comenzará a contarse de nuevo el día que tenga lugar la publicación de la Ley Orgánica del Poder Judicial en el «Boletín Oficial del Estado», según establece el art. único del Real Decreto-ley 26/1982, de 22 de diciembre. Ref. BOE-A-1983-1.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Queda derogado el Estatuto del Ministerio Fiscal de veintiuno de junio de mil novecientos veintiséis. En tanto no se dicte el Reglamento a que se refiere la disposición anterior, seguirá aplicándose el hoy vigente en lo que no se oponga a la presente ley.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Baqueira Beret a treinta de diciembre de mil novecientos ochenta y uno.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+Leopoldo Calvo-Sotelo y Bustelo.

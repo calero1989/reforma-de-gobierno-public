@@ -1,0 +1,87 @@
+# Ley 11/1997, de 26 de noviembre, sobre Medidas Urgentes en Materia de Personal.
+
+- Identificador BOE: `BOE-A-1998-39`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-39
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOJA, núm. 1, de 2 de enero. Ref. BOA-d-1998-90258
+
+## Preámbulo
+
+En nombre del Rey y como Presidente de la Comunidad Autónoma de Aragón, promulgo la presente Ley, aprobada por las Cortes de Aragón, y ordeno se publique en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado», todo ello de conformidad con lo dispuesto en los artículos 20 y 21 del Estatuto de Autonomía.
+PREÁMBULO
+El Decreto legislativo 1/1991, de 19 de febrero, vino a establecer la ordenación y regulación de la Función Pública de la Comunidad Autónoma de Aragón, siendo modificada por la Ley 12/1996, de 30 de diciembre.
+El marco normativo resultante requiere, no obstante, alguna adaptación, mientras no se modifique la legislación de carácter básico, pero con la celeridad suficiente que permita afrontar los procesos de transferencias de funciones y servicios próximas a la Comunidad Autónoma con una ordenación de plantillas más racional, dada la problemática existente en sectores concretos.
+En la actualidad, un gran número de plazas pertenecientes a las Escalas Sanitaria Superior y Técnica Sanitaria, en concreto, las correspondientes a Cuerpos de la antigua Sanidad Local, están ocupadas por personal interino. Es ésta una situación que le vino dada al Gobierno de Aragón en virtud del proceso de transferencias operado en su día, y a la que trató de dar solución la Comunidad Autónoma a través de la disposición adicional duodécima de la Ley de Presupuestos para 1992. Ahora bien, las diversas circunstancias producidas a lo largo del tiempo desde su vigencia, a las que no son ajenas las cuestiones de inconstitucionalidad planteadas sobre la misma, no han hecho posible su desarrollo y materialización.
+Con el propósito de regularizar una situación cuya solución se ha venido demorando durante un buen número de años, el acuerdo sindicatos-Administración para modernizar y reordenar la Administración de la Comunidad Autónoma de Aragón y mejorar las condiciones de trabajo, aprobado por el Gobierno de Aragón el 24 de junio de 1996, afronta, con carácter de excepcionalidad, un sistema de cobertura de aquellos puestos por funcionarios de carrera. La disposición adicional del mencionado acuerdo contempla una Comisión de Seguimiento, que establecerá los criterios generales oportunos de actuación para desarrollar los procesos de selección previstos a tal fin, requiriéndose el acuerdo unánime de la representación del personal.
+Una vez materializado el mismo, y dado que tanto éste como el anterior afectan de manera sustancial a la disposición adicional duodécima de la Ley 6/1992, de 4 de mayo, de Presupuestos de la Comunidad Autónoma de Aragón para 1992, el Gobierno al ratificar el mismo, entiende necesario que, a la hora de configurarse el nuevo marco jurídico nacido de aquellos se derogue simultáneamente la mentada disposición, con objeto de poner fin a una situación de excepcionalidad de cobertura de plazas por personal interino en los antiguos Cuerpos de la Sanidad Local, el cual ha venido desempeñando adecuadamente sus funciones durante un buen número de años sin que se hayan convocado procesos selectivos, reconociendo, a través del procedimiento de concurso oposición libre, los servicios prestados hasta un máximo del 45 por 100 de la puntuación obtenible en la fase de oposición, de forma totalmente excepcional.
+Asimismo, resulta oportuno afrontar algunas modificaciones del texto legal vigente de Ordenación de la Función Pública de la Comunidad Autónoma, de escaso contenido, pero de relevancia suficiente, dada la experiencia existente hasta la fecha y la necesidad de adecuar a la legislación farmacéutica básica el aspecto relativo a las autorizaciones de apertura de oficinas de farmacia.
+
+### Artículo 1
+
+Artículo 1.
+1. Dadas las particulares circunstancias y la problemática del personal interino procedente de los antiguos Cuerpos de Sanitarios Locales, así como su repercusión en el ámbito sanitario, y con el fin de solucionar definitivamente el problema de la situación excepcional de dicho personal, la Administración de la Comunidad Autónoma procederá, durante el tiempo de vigencia fijado por acuerdo en la negociación colectiva, a la cobertura de tales puestos por funcionarios de carrera, para lo cual realizará las convocatorias oportunas de las plazas vacantes, de forma simultánea y mediante concurso oposición libre.
+2. Los procesos de selección previstos en el párrafo anterior se efectuarán con respecto a los principios de igualdad, mérito y capacidad, y en ellos se valorará el tiempo de servicios prestados hasta un máximo de 45 por 100 de la puntuación alcanzable en la fase de oposición.
+3. En todo caso, el personal interino que esté prestando servicios en la Administración autonómica a la entrada en vigor de dicho acuerdo o haya sido desplazado en el Cuerpo de Funcionarios Superiores, Escala Sanitario Superior, clases de especialidad Médicos de Atención Primaria y Farmacéuticos titulares; Escala Facultativa Superior, clase de Especialidad Veterinarios de Administración sanitaria y Cuerpo de Funcionarios Técnicos, Escala Técnica Sanitaria, clases de Especialidad Ayudantes Técnicos Sanitarios de Atención Primaria y Matronas de Atención Primaria, podrán acceder a la condición de funcionario de carrera si concurre libremente a las convocatorias citadas y alcanza la puntuación exigida para superar el concurso-oposición libre. Quienes, de ellos, concurriendo a los procesos selectivos convocados mediante concurso-oposición libre, salvo causa de fuerza mayor, no los superen, prestarán servicios en la Administración de la Comunidad Autónoma de acuerdo con su titulación y en la forma legalmente establecida.
+4. A tal efecto, a través de un plan de empleo, de la negociación colectiva y de las disposiciones reglamentarias que resulten de aplicación, se recogerán los procesos de ordenación de plantillas que sean necesarios para establecer el régimen de provisión de puestos de trabajo, a efectos de permanencia, que proceda legalmente para aplicación al personal que resulte desplazado en los procesos selectivos que se celebren por concurso-oposición libre.
+5. Una vez celebradas las convocatorias específicas previstas en este artículo, el sistema de ingreso en los Cuerpos y Escalas correspondientes a personal sanitario será, en todo caso, el ordinario.
+Se modifica el apartado 5 por el art. 46 de la Ley 13/2000, de 27 de diciembre. Ref. BOE-A-2001-2712
+ Se modifica el apartado 5 por el art. 9 de la Ley 15/1999, de 29 de diciembre. Ref. BOE-A-2000-1654
+ Se modifica el apartado 5 por la disposición adicional 1 de la Ley 12/1998, de 22 de diciembre. Ref. BOE-A-1999-1923
+ Se modifica el apartado 5 por la disposición adicional de la Ley 4/1998, de 8 de abril. Ref. BOE-A-1998-10589#da
+
+### Artículo 2
+
+Artículo 2.
+1. La Escala Auxiliar Sanitaria y de Salud Mental del Cuerpo Auxiliar, grupo D, pasa a denominarse “Escala Auxiliar de Enfermería”, requiriéndose para su ingreso en la misma la titulación de Formación Profesional de primer grado, rama sanitaria, psiquiátrica o cualquier otra que pueda establecerse en función de la clase de especialidad que corresponda.
+2. Lo establecido en el apartado anterior se entenderá sin perjuicio de la permanencia en dicha Escala del personal perteneciente a la misma que, a la entrada en vigor de esta Ley, no posea la titulación mencionada.
+3. Asimismo, el personal laboral con contrato de carácter indefinido al servicio de la Administración de la Comunidad Autónoma de Aragón que, ostentando en la actualidad la categoría de Auxiliar Sanitario o Auxiliar Psiquiátrico, no reúna el requisito de la titulación citada, podrá integrarse en la citada Escala si reúne los demás establecidos para adquirir la condición de funcionario en el Decreto 163/1998, de 15 de septiembre, del Gobierno de Aragón, en los términos establecidos por el mismo.
+Se modifica por el art. 13 de la Ley 12/1998, de 22 de diciembre. Ref. BOE-A-1999-1923
+
+### Artículo 3
+
+Artículo 3.
+La pertenencia al grupo A, Cuerpo de Funcionarios Superiores, Escala Sanitaria Superior, clase de especialidad Farmacéuticos Titulares, o la prestación de servicios como personal interino en puestos propios de la misma, no supondrá obligación de tener abierta oficina de farmacia, ni derecho ni prioridad alguna para obtener autorización de apertura de ella, en el término o términos municipales comprendidos en el ámbito territorial de destino.
+
+### Disposición adicional
+
+Disposición adicional.
+El apartado 2 del artículo 13 de la Ley de Ordenación de la Función Pública de la Comunidad Autónoma de Aragón, cuyo texto refundido fue aprobado por Decreto legislativo 1/1991, de 19 de febrero, quedará redactado así:
+«2. La Comisión de Personal será paritaria, y su composición, la siguiente:
+Presidente: El Consejero de Presidencia y Relaciones Institucionales.
+Vicepresidente: El Director general de Recursos Humanos.
+Vocales: Los Secretarios generales o cargos análogos con rango de Jefe de Servicio que, en los Departamentos y organismos autónomos, tengan atribuidas competencias en materia de personal hasta el máximo y por el orden que fije el Gobierno para mantener la paridad, así como los Secretarios generales de las Delegaciones Territoriales de Huesca y Teruel, un Letrado de la Dirección General de Asuntos Jurídicos y Coordinación Normativa, un Jefe de Servicios de la Dirección General de Presupuestos y Patrimonio y representantes del personal designados por las organizaciones sindicales conforme a su representatividad respectiva.
+Secretario: El Jefe del Servicio de la Dirección General de Recursos Humanos que tenga atribuida competencias en materia de relaciones colectivas, que actuará con voz y voto.
+En caso de ausencia del Consejero de Presidencia y Relaciones Institucionales, asumirá la Presidencia el Director general de Recursos Humanos, la Vicepresidencia, el Jefe del Servicio que ostente la Secretaría, y ésta, el Jefe del Servicio que designe el mencionado Director general.
+Por cada uno de los miembros de la Comisión se designará un suplente, que en el caso de los que actúen en representación de la Administración habrá de tener al menos la categoría administrativa inmediatamente inferior y estar adscrito a la correspondiente Dirección General, Secretaría General o Servicio».
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+(Derogada)
+Se deroga por la disposición derogatoria de la Ley 12/1998, de 22 de diciembre. Ref. BOE-A-1999-1923
+ Redactado conforme a la corrección de errores publicada en BOJA, núm. 1, de 2 de enero. Ref. BOA-d-1998-90258
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera.
+Queda derogada la disposición transitoria segunda de la Ley de Ordenación de la Función Pública de la Comunidad Autónoma de Aragón, texto refundido aprobado por Decreto legislativo 1/1991, de 19 de febrero.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda.
+Queda derogada la disposición adicional duodécima de la Ley 6/1992, de 4 de mayo, de Presupuestos de la Comunidad Autónoma de Aragón para 1992.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Aragón».
+
+### [firma]
+
+Así lo dispongo a los efectos del artículo 9.1 de la Constitución y los correspondientes del Estatuto de Autonomía de Aragón.
+Zaragoza, 26 de noviembre de 1997.
+SANTIAGO LANZAUELA MARINA,
+Presidente

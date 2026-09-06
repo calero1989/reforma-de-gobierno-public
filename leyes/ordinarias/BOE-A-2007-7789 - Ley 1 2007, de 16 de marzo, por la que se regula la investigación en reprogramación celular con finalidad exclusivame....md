@@ -1,0 +1,124 @@
+# Ley 1/2007, de 16 de marzo, por la que se regula la investigación en reprogramación celular con finalidad exclusivamente terapéutica.
+
+- Identificador BOE: `BOE-A-2007-7789`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-7789
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+A todos los que la presente vieren, sabed:
+Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley por la que se regula la investigación en reprogramación celular con finalidad exclusivamente terapéutica.
+EXPOSICIÓN DE MOTIVOS
+I
+El artículo 149.1 de la Constitución, en su apartado 15, dispone que el Estado tiene competencia exclusiva sobre el fomento y coordinación general de la investigación científica y técnica. Por su parte, el apartado 16 del mencionado artículo 149.1 establece, igualmente, que el Estado tiene competencia exclusiva sobre la sanidad exterior, bases y coordinación general de la sanidad y legislación sobre productos farmacéuticos.
+El artículo 13, apartado 21, del Estatuto de Autonomía para Andalucía, establece que la Comunidad Autónoma de Andalucía tiene competencia exclusiva en materia de sanidad e higiene, sin perjuicio de lo que establece el artículo 149.1.16 de la Constitución. Por su parte, el apartado 29 del citado artículo 13 dispone que la Comunidad Autónoma de Andalucía tiene competencia exclusiva en investigación y sus instituciones, sin perjuicio de lo establecido en el número 15 del apartado 1 del artículo 149 de la Constitución.
+La Ley 2/1998, de 15 de junio, de Salud de Andalucía, regula en el Título VIII la docencia e investigación sanitaria, señalando que las Administraciones Públicas de Andalucía deberán fomentar, dentro del Sistema Sanitario Público de Andalucía, las actividades de investigación sanitaria como elemento fundamental para su progreso.
+Por su parte, la Ley 14/2006, de 26 de mayo, sobre técnicas de reproducción humana asistida, en el apartado 4 del artículo 11 permite la posible donación con fines de investigación de los preembriones crioconservados, así como el semen, ovocitos y tejido ovárico. La citada Ley 14/2006, en el artículo 14, establece que los gametos utilizados en investigación no podrán utilizarse para su transferencia a la mujer ni para originar preembriones con fines de procreación.
+La Ley 7/2003, de 20 de octubre, por la que se regula la investigación en Andalucía con preembriones humanos no viables para la fecundación in vitro, regula la investigación utilizando los preembriones sobrantes de las técnicas de fecundación in vitro, con fines de mejorar la salud y la calidad de vida de las personas, y crea el Comité de Investigación con Preembriones Humanos, como órgano colegiado adscrito a la Consejería de Salud, entre cuyas funciones se encuentran autorizar los proyectos de investigación con preembriones sobrantes de las técnicas de fecundación in vitro que cumplan los requisitos legales y garantizar el cumplimiento de las condiciones en las que se debe realizar el consentimiento informado por los donantes.
+Desde la entrada en vigor de esta disposición legal, se han puesto en marcha en Andalucía diversas investigaciones sobre células madre por distintos grupos científicos, lo que sitúa a nuestra Comunidad en la vanguardia en este campo.
+II
+Las células madre pueden proceder de órganos y tejidos adultos, fetales o de la sangre del cordón umbilical, denominándose, en este caso, células madre adultas. Asimismo, las células madre pueden proceder de la masa interna del embrión preimplantatorio en estado de blastocisto, que se alcanza del 5.º a 14.º día tras la fecundación del óvulo, denominándose entonces células madre embrionarias. El conocimiento científico disponible en el momento actual demuestra que las células madre embrionarias tienen una mayor capacidad de proliferación y diferenciación que las células madre adultas, lo que justifica que las investigaciones no queden limitadas a las células madre adultas.
+En los últimos años, diversas investigaciones científicas han conseguido obtener una nueva fuente de células madre humanas distinta de las existentes, tanto las de origen adulto como las de origen embrionario. Esta posibilidad se ha alcanzado mediante la denominada reprogramación celular, consiguiéndose que una célula adulta diferenciada retroceda en su etapa evolutiva hasta convertirse en una célula pluripotencial, que puede a su vez evolucionar posteriormente a distintos tipos celulares y potencialmente a tejidos e incluso órganos. Las potenciales implicaciones terapéuticas de estos descubrimientos son enormes por cuanto, a las expectativas ya generadas por la investigación con células madre, suman la identidad genética que puede obtenerse con el hipotético receptor, lo que eliminaría los posibles mecanismos de rechazo inmunológico previsibles en las terapias regenerativas de otro origen, condicionando los resultados finales de forma significativa.
+Entre las técnicas de reprogramación celular, ha alcanzado notable desarrollo, fiabilidad y reproducibilidad, la denominada transferencia nuclear. Esta técnica consiste en la transferencia del núcleo de una célula somática al citoplasma de un ovocito previamente enucleado. El procedimiento origina, bajo determinadas condiciones, una reprogramación del núcleo de la célula somática que adquiere las características de una célula pluripotencial y la inmediata división de esta en fases sucesivas de forma similar a un preembrión en fase blastocisto. A partir de ese punto, es posible obtener células madre que tienen las características genéticas de la célula somática cuyo núcleo se insertó en el ovocito. La diferenciación de estas células madre en determinadas líneas celulares podría permitir en el futuro, si las investigaciones progresan favorablemente, utilizar estas células o tejidos para reemplazar aquellos que hayan sido irreversiblemente dañados por una enfermedad degenerativa, empleando para ello una célula de la propia persona enferma.
+III
+El Protocolo adicional del 12 de enero de 1998 al Convenio para la protección de los derechos humanos y la dignidad del ser humano con respecto a las aplicaciones de la Biología y la Medicina, ratificado por España por Instrumento de 7 de enero de 2000, prohibe la clonación de seres humanos, y el apartado 3 del artículo 160 del Código Penal considera punible la creación de seres humanos por clonación u otros procedimientos dirigidos a la selección de la raza, por lo que la utilización de estas técnicas o cualesquiera otras con fines de clonación reproductiva está expresamente prohibida por nuestro ordenamiento jurídico, además de ser éticamente ina­ceptable.
+Por el contrario, la investigación con técnicas de reprogramación celular con fines terapéuticos puede proporcionar avances fundamentales en las investigaciones sobre terapia celular y medicina regenerativa.
+La Comisión Autonómica de Ética e Investigación Sanitarias emitió un dictamen favorable al impulso de la investigación biomédica, a través de la transferencia nuclear con fines terapéuticos, en el que solicita al Gobierno andaluz el desarrollo de la normativa reguladora que posibilite la realización de estas técnicas de investigación.
+Por todo lo anterior, para impulsar este tipo de investigaciones y dar seguridad jurídica a las personas científicas que aspiran a investigar con estas técnicas en Andalucía, esta ley regula la utilización de los procedimientos de reprogramación celular de células somáticas humanas con fines exclusivamente terapéuticos y bajo estrictas condiciones de autorización y control científico, ético y social.
+Como órgano de autorización y garante de que los proyectos de investigación que utilicen estas técnicas cumplen los requisitos establecidos en esta ley, se crea el Comité de Investigación de Reprogramación Celular.
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Constituye el objeto de la presente Ley la regulación de la investigación en Andalucía, mediante el uso de técnicas de reprogramación celular, en células somáticas humanas, para su transformación en células troncales pluripotenciales, con finalidad exclusivamente terapéutica.
+Se modifica por el art. 2.1 de la Ley 4/2014, de 9 de diciembre. Ref. BOE-A-2015-183.
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+A los efectos de la presente ley, se entiende por:
+a) Célula somática: célula del cuerpo distinta al óvulo o al espermatozoide.
+b) Células troncales pluripotenciales: células inmaduras que tienen la capacidad de madurar originando una amplia gama de células sanguíneas y tejidos.
+c) Fecundación: proceso mediante el que se forma un zigoto célula huevo que resulta de la fusión de un gameto masculino con otro femenino a partir de la interacción de un espermatozoide y de un ovocito.
+d) Reprogramación celular: técnica mediante la cual se consigue que una célula adulta diferenciada retroceda en su etapa evolutiva hasta convertirse en una célula pluripotencial, que puede a su vez evolucionar posteriormente a distintos tipos celulares y potencialmente a tejidos e incluso órganos.
+e) Transferencia nuclear: técnica de reprogramación celular, consistente en la transferencia del núcleo de una célula somática al citoplasma de un ovocito previamente enucleado.
+f) Preembrión somático: grupo de células resultantes de la división progresiva de la forma celular creada mediante técnicas de reprogramación celular, como la transferencia nuclear u otras equivalentes, desde que se aplica la técnica hasta catorce días más tarde.
+g) Consentimiento informado: manifestación de la voluntad libre y consciente válidamente emitida por una persona capaz, o por su representante autorizado, precedida de la información adecuada.
+h) Trazabilidad: capacidad de asociar un material biológico determinado con información registrada referida a cada paso en la cadena de su obtención.
+
+### Artículo 3
+
+Artículo 3. Autorización y registro de los proyectos de investigación.
+1. La investigación mediante el uso de técnicas de reprogramación celular en células somáticas humanas, para su transformación en células troncales pluripotenciales, se realizará en base a un proyecto de investigación que deberá ser de interés científico y carecer de finalidad lucrativa.
+2. Cada proyecto de investigación requerirá la autorización del órgano competente en materia de investigación en salud.
+3. Sólo se autorizará la investigación mediante el uso de las técnicas de reprogramación en células somáticas humanas para los fines expresamente previstos en esta ley, debiendo destruirse el preembrión somático en el plazo máximo de catorce días desde la aplicación de la citada técnica.
+4. La autorización será exclusiva para cada proyecto y determinará, como mínimo, la identidad del investigador principal y del resto de los investigadores participantes en el proyecto, el plazo para el desarrollo del proyecto y el número y procedencia de los óvulos y células somáticas a utilizar en el proyecto de investigación.
+5. La autorización del proyecto de investigación requerirá el informe previo y favorable del Comité Andaluz de Ética de Investigación con muestras biológicas de naturaleza embrionaria y otras células semejantes.
+6. Los proyectos de investigación autorizados quedarán registrados en una base de datos, donde al menos queden recogidos los datos relativos a las células empleadas, así como la información básica, el nombre y la categoría profesional de la persona investigadora principal, un resumen sobre el objetivo de la investigación, las condiciones a la que está sujeta la misma, el número de células utilizado, la fecha de concesión y el período de validez de la autorización y, en todo caso, la certificación de la fecha, método y responsable de la destrucción del preembrión somático antes de los catorce días.
+Se modifican los apartados 2 y 5 por el art. 2.2 y 3 de la Ley 4/2014, de 9 de diciembre. Ref. BOE-A-2015-183.
+
+### Artículo 4
+
+Artículo 4. Prohibición para uso reproductivo.
+De acuerdo con el Protocolo Adicional al Convenio de 4 de abril de 1997 para la protección de los derechos humanos y la dignidad del ser humano con respecto a las aplicaciones de la Biología y la Medicina, por el que se prohibe la clonación de seres humanos, se prohíbe la investigación mediante el uso de técnicas de reprogramación celular con células somáticas humanas para originar preembriones con fines reproductivos. Igualmente, se prohíbe la investigación mediante el uso de las mencionadas técnicas con cualesquiera otros fines distintos a los regulados en la presente ley.
+
+### Artículo 5
+
+Artículo 5. Donación.
+1. Para la realización de las investigaciones previstas en esta ley será necesaria la previa donación de los óvulos y de las células somáticas.
+2. La donación será siempre anónima y deberá garantizarse la confidencialidad y seguridad de los datos de identidad y de carácter personal de las personas donantes de conformidad con lo establecido en la legislación vigente en materia de protección de datos de carácter personal.
+3. Quienes donen deberán ser personas mayores de edad y con plena capacidad de obrar o, en caso de ser menores o incapacitados, será necesario el consentimiento de sus representantes legales.
+4. La donación nunca tendrá carácter lucrativo o comercial. La compensación económica resarcitoria que se pueda fijar para compensar las molestias físicas, de desplazamiento o laborales que se puedan derivar de la donación, no podrá suponer un incentivo económico para el donante o la donante.
+5. La donación supone la renuncia por parte de los donantes a cualquier derecho de naturaleza económica o de otro tipo sobre los resultados que pudieran derivarse de manera directa o indirecta de las investigaciones que se lleven a cabo con el material donado.
+
+### Artículo 6
+
+Artículo 6. Consentimiento informado de los donantes.
+1. Las personas donantes, con anterioridad a la realización de la donación, deberán ser informadas pormenorizadamente de los siguientes extremos:
+a) Identidad del responsable de la investigación.
+b) Finalidad y beneficios esperados en la investigación.
+c) Naturaleza, extensión y duración de los procedimientos que se vayan a utilizar, en particular los que afecten a la participación de la persona donante.
+d) Derecho al acceso a los resultados relevantes para su salud, de acuerdo con los conocimientos científicos médicos.
+e) Derecho a la revocación del consentimiento en cualquier momento.
+f) Garantía de la confidencialidad de los datos.
+g) Fuente de financiación del proyecto de investigación.
+2. Una vez recibida la información prevista en el apartado anterior, las personas donantes deberán prestar consentimiento escrito, que será revocable y modificable. Las personas o entidades que hayan recibido dicho consentimiento pondrán a disposición las medidas que sean necesarias para el ejercicio efectivo del derecho a la revocación.
+
+### Artículo 7
+
+Artículo 7. Centros de investigación.
+El desarrollo de las investigaciones previstas en esta ley sólo podrá llevarse a cabo en aquellos centros de investigación que expresamente estén autorizados para ello por la autoridad sanitaria competente y se someterán a los procedimientos de acreditación que se establezcan por la misma.
+
+### Artículo 8
+
+Artículo 8. Comité de Investigación de Reprogramación Celular.
+(Derogado).
+Se deroga por el art. 1.4 de la Ley 4/2014, de 9 de diciembre. Ref. BOE-A-2015-183.
+
+### Artículo 9
+
+Artículo 9. Disponibilidad de los resultados.
+1. (Derogado).
+2. Los hallazgos de la investigación que afecten a las circunstancias individuales de cada participante se deberán comunicar a los mismos, cuando así lo soliciten.
+3. Los investigadores deberán hacer públicos los resultados generales de los proyectos de investigación una vez concluidos, atendiendo a los requisitos relativos a los datos de carácter personal de las personas donantes, de conformidad con lo establecido en la legislación vigente en materia de protección de datos de carácter personal, y sin menoscabo de los correspondientes derechos de propiedad intelectual e industrial que se pudieran derivar de la investigación.
+Se deroga el apartado 1 por el art. 1.5 de la Ley 4/2014, de 9 de diciembre. Ref. BOE-A-2015-183.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Donación de óvulos crioconservados ya existentes.
+Respecto a los óvulos crioconservados ya existentes a la entrada en vigor de la presente ley, las mujeres de quienes procedan los mismos serán consultadas a fin de que manifiesten expresamente su voluntad sobre la posibilidad de donación para la investigación, de acuerdo con lo previsto en el apartado 2 del artículo 6 de la presente ley.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley.
+
+### Disposición final única
+
+Disposición final única. Habilitación reglamentaria.
+Se habilita al Consejo de Gobierno para que dicte cuantas disposiciones sean necesarias para el desarrollo de la presente ley.
+
+Sevilla, 16 de marzo de 2007.–El Presidente, Manuel Chaves González.

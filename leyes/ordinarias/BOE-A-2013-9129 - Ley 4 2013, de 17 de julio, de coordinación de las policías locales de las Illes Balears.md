@@ -1,0 +1,1448 @@
+# Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears.
+
+- Identificador BOE: `BOE-A-2013-9129`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2013-9129
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 48.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+La Constitución española, en el artículo 149.1.29.ª, reserva la competencia exclusiva sobre seguridad pública al Estado, mientras que en el artículo 148.1.22.ª atribuye a las comunidades autónomas la competencia sobre la coordinación y el resto de facultades en relación con las policías locales.
+El Estatuto de Autonomía de las Illes Balears, en el artículo 30.19 reserva a la comunidad autónoma de las Illes Balears la coordinación y otras facultades en relación con las policías locales, en los términos que establezca una ley orgánica.
+La Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad, regula, entre otras cuestiones, diversos aspectos fundamentales relativos a los principios básicos de actuación, a la organización y a las funciones de las policías locales, que constituyen el marco de actuación de la comunidad autónoma en esta materia.
+En el ejercicio de la citada competencia exclusiva, la comunidad autónoma de las Illes Balears dictó la Ley 6/2005, de 3 de junio, de coordinación de las policías locales de las Illes Balears, que supuso un avance en esta materia, dado que representaba una garantía para los ayuntamientos de las Illes Balears para un ejercicio adecuado de sus competencias y una mejor prestación de servicios a los ciudadanos. Esta ley fue modificada mediante la Ley 7/2008, de 5 de junio, y ha sido objeto de desarrollo normativo mediante el Decreto 67/2007, de 7 de junio, por el que se aprueba el Reglamento marco de medidas urgentes de las policías locales de las Illes Balears.
+La Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad, señala en el preámbulo que la seguridad pública constituye una competencia difícil de parcelar, puesto que no permite delimitaciones, con el rigor y la precisión admisibles en otras materias. En este sentido, la seguridad pública se considera un terreno de encuentro de las diferentes esferas de competencias de todas las administraciones públicas –aunque el artículo 149.1 de la Constitución enumere en el apartado 29 las competencias exclusivas del Estado y las matizaciones y los condicionamientos con que la configura el texto constitucional–. Por lo tanto, como la seguridad pública es una materia compartible por todos los poderes públicos, con estatutos y responsabilidades diferenciados, la realidad emergente demanda que en el ámbito de las competencias de la comunidad autónoma de las Illes Balears se revisen y mejoren los objetivos básicos de coordinación de las policías locales, de manera que suponga un avance y una mejora perceptible en esta materia. La formación y el perfeccionamiento de los miembros de los cuerpos de policía local y de los policías auxiliares han sido hasta hoy los objetivos básicos de los criterios de coordinación. Hace falta, pues, revisar y regular nuevamente estos objetivos básicos a fin de que, sin dejar de lado una parte tan importante como es la formación y la especialización de los policías locales, se orienten y posibiliten el avance hacia la integración de los cuerpos de policía local de las Illes Balears en un proyecto común de seguridad pública. Este proyecto, con respecto a la autonomía municipal, debe permitir la homogeneización de medios, recursos técnicos y estatutarios, y también la actuación hacia la unificación de criterios y las acciones armonizadas que ayuden en el diseño de políticas comunes de seguridad que potencien el apoyo y la colaboración interpolicial, el impulso de la prevención ante hechos relevantes, el análisis de las actuaciones o la planificación de futuros objetivos.
+En este sentido, la nueva Ley de coordinación incorpora el marco por el que se pueden asociar los municipios para la prestación de servicios conjuntos de policía local, de conformidad con lo que dispone la normativa estatal, y da rango de ley a los consejos de coordinación de policías locales como órganos colegiados de consulta y asesoramiento en el ejercicio de la competencia autonómica de coordinación.
+La Ley 7/2007, de 12 de abril, del Estatuto básico del empleado público, así como la Ley 3/2007, de 27 de marzo, de la función pública de la comunidad autónoma de las Illes Balears, han puesto de manifiesto la necesidad de modificar el sistema de acceso a la función pública de los policías locales de los municipios de las Illes Balears, con plena cobertura de los principios de igualdad, mérito y capacidad, que tendrán su manifestación en la modificación legislativa de la Ley de coordinación de las policías locales, e instaurar el concurso oposición como el procedimiento que debe aplicarse en el sistema de acceso a la función pública en la policía local y en los sistemas de promoción.
+El derecho constitucional que tienen todos los ciudadanos y visitantes de las Illes Balears de convivir en paz y libertad, como también la misión concreta de las fuerzas y cuerpos de seguridad de proteger el libre ejercicio de los derechos y las libertades y garantizar la seguridad ciudadana, son argumentos que avalan suficientemente la necesidad de adoptar las medidas con el fin de garantizar la prestación de los servicios básicos que las diferentes administraciones públicas prestan a los ciudadanos, y en este sentido, la seguridad pública, sin duda, está incluida en los mismos.
+Las policías locales de las Illes Balears, miembros de las fuerzas y cuerpos de seguridad, según regula la Ley Orgánica 2/1986, de 13 de marzo, a lo largo de los últimos años y gracias al esfuerzo de sus responsables políticos y técnicos destacan por haberse convertido en un elemento indispensable de importancia relevante para colaborar con las fuerzas y cuerpos de seguridad del Estado en el mantenimiento de la seguridad pública en nuestras islas.
+La inestabilidad laboral de un elevado número de agentes de policía local, incluyendo a los policías turísticos; la necesidad de financiación de los ayuntamientos para poder alcanzar sus objetivos en este sentido, y, final y prioritariamente, el interés general visto desde la perspectiva de la colaboración para garantizar la seguridad de nuestros ciudadanos y visitantes obligan a dar soluciones estables con una perspectiva sistémica y a prever diferentes acciones orientadas hacia un objetivo global que aporte soluciones reales, efectivas y estables.
+En este sentido, hay que dar un paso urgente que permita avanzar, y son los ayuntamientos –en el ejercicio de la autonomía municipal– la única administración pública legitimada para llevar a cabo los correspondientes procesos selectivos. Por ello, en materia de coordinación de policías locales, tiene una importancia primordial aportar soluciones que, en primer lugar, se ajusten a la legislación vigente a la vez que generen confianza a los responsables municipales. Por una parte, el concurso oposición, con un periodo razonable de prácticas como culminación del proceso de selección, que permita tanto a los aspirantes como a los ayuntamientos la incorporación estable en las plantillas orgánicas de las policías locales, con el perfil más idóneo para ejercer unas funciones de tanta trascendencia como las de policía local, y, por otra parte, y sin que suponga la desaparición del sistema de selección por movilidad, el hecho de permitir a los ayuntamientos la decisión del porcentaje de reserva de plazas por este sistema se consideran las acciones más idóneas para generar esta confianza necesaria a los ayuntamientos suponiendo ello una trascendente y decidida acción orientada hacia la mejora de la coordinación de las policías locales y la seguridad ciudadana.
+Asimismo, se ha mejorado el sistema de promoción dentro de los cuerpos de policía local, dotando a los ayuntamientos de más competencias a la hora de realizar las convocatorias correspondientes y orientándolo hacia una mejora de la calidad profesional de los mandos policiales.
+Con el fin de garantizar un uso correcto del arma reglamentaria y prevenir y evitar posibles complicaciones derivadas de situaciones que, hasta hoy, ofrecían a veces soluciones difíciles, se hace una referencia especial, que tendrá que ser desarrollada reglamentariamente, al procedimiento administrativo para la retirada del armamento reglamentario cuando se den circunstancias de peligrosidad derivadas de una inestabilidad emocional o alteración psíquica del agente, la negligencia o la impericia grave evidenciada o la no superación de las pruebas reglamentarias para el uso del armamento.
+El reingreso al servicio activo de los funcionarios de carrera de las policías locales que se encuentren en situación administrativa de servicios especiales o en otras administraciones públicas, en excedencia o por suspensión de funciones, obliga, con el fin de garantizar una reincorporación eficaz, a la revisión de los requisitos del agente y, en determinadas circunstancias, a la realización de un reciclaje que permita la prestación de un mejor servicio al ciudadano con todas las garantías posibles.
+Finalmente, la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad, hace referencia a la armonización estatutaria entre todos los colectivos que se ocupan de la seguridad. Por lo tanto, en esta línea, salvando las peculiaridades y los condicionamientos de adaptación a las policías locales, se regula la segunda actividad y el régimen disciplinario de los policías locales en consonancia con la normativa legalmente establecida para el Cuerpo Nacional de Policía.
+II
+Esta ley se estructura en siete títulos, dos disposiciones adicionales, diez disposiciones transitorias, una disposición derogatoria y cinco disposiciones finales.
+El título I recoge los principios generales e incluye el objeto, el ámbito de aplicación y los objetivos básicos de los criterios de coordinación, entre los que destaca la integración de los cuerpos de policía local en un proyecto común de seguridad pública, teniendo en cuenta las singularidades del territorio de cada isla.
+El título II regula los cuerpos de policía local, siendo definidos como institutos armados de naturaleza civil, con estructura y organización jerarquizada bajo la jefatura superior y dependencia directa del alcalde o alcaldesa respectivo; establece sus funciones, con una remisión a la Ley de fuerzas y cuerpos de seguridad. Como novedad importante se suprime la figura del policía auxiliar.
+El título III regula la coordinación de las policías locales en las Illes Balears y señala las funciones de los diferentes órganos de coordinación. La ley recoge los órganos ya existentes e incorpora los consejos de coordinación de las policías locales con funciones de consulta y asesoramiento.
+El título IV regula la estructura y el régimen de funcionamiento de los cuerpos de policía local. Este título se divide en dos capítulos.
+El capítulo I regula la estructura de estos cuerpos, que será en grupos, subgrupos, escalas y categorías, todo ello sin perjuicio de la posibilidad que se otorga a los municipios de crear las especialidades que consideren oportunas para cada categoría partiendo de sus propias peculiaridades de organización y funcionamiento.
+En relación con la jefatura del cuerpo de policía local, la designación corresponde al alcalde o alcaldesa por libre designación, pero se amplían las opciones con el fin de resolver los problemas que se plantean en los ayuntamientos de plantillas reducidas.
+El capítulo II regula el régimen de funcionamiento con disposiciones relativas a los principios de actuación, el armamento, el carné profesional y la uniformidad, sin perjuicio del desarrollo reglamentario de estas materias.
+El título V regula la formación, la selección, la movilidad, la permuta y el reingreso y se estructura en seis capítulos. En este título se introducen novedades importantes en relación con la legislación anterior.
+En el capítulo I, relativo a la formación, se regula tanto la formación de la Escuela Balear de Administración Pública como la formación externa que lleven a cabo los mismos municipios u otras entidades y se prevé un régimen de homologaciones, sin perjuicio de su posterior desarrollo reglamentario.
+El capítulo II regula la selección, distinguiendo, por una parte, los sistemas de acceso a las diferentes categorías de los cuerpos de policía local, que son el turno libre y la promoción, con las variantes interna y externa, y, por otra, el sistema de selección, que siempre será el de concurso oposición. Igualmente se regula de manera detallada la promoción interna y externa.
+Se prevé que los municipios puedan suscribir convenios con otros municipios cuando, por circunstancias especiales o por causas extraordinarias, tengan sobrecarga de servicios policiales en determinadas épocas del año que no requieran aumento permanente de plantilla.
+Al objeto de facilitar la gestión de las plantillas de las policías locales, se prevé la creación de bolsines de trabajo por parte de los ayuntamientos para proveer puestos de trabajo de forma urgente y temporal en las diferentes categorías de los cuerpos de policía local. En caso de que el bolsín se haya agotado o tenga una antigüedad superior a dos años, el ayuntamiento podrá convocar uno nuevo o bien acudir al bolsín de la consejería competente en materia de coordinación de policías locales, si lo hay.
+El capítulo III regula la provisión de puestos de trabajo y establece como sistemas de provisión el concurso y la libre designación, especificando que el concurso puede ser de méritos o específico.
+El capítulo IV regula la movilidad, que, en relación con la legislación anterior, se elimina como sistema de acceso, dado que ésta es una forma de proveer puestos de trabajo y, como tal, se regula en la presente ley.
+El capítulo V regula la permuta de destinos entre los miembros de los cuerpos de policía local en activo que sirvan en diferentes corporaciones locales, siempre que se cumplan los requisitos previstos en esta ley. Esta permuta tiene que ser autorizada por el alcalde o alcaldesa, con el informe previo de los jefes o de las jefas respectivos.
+El capítulo VI, relativo al reingreso en el servicio activo, supone una novedad en relación con la legislación anterior y pretende solucionar los problemas planteados en estos supuestos exigiendo, en determinadas situaciones, cursos de reciclaje o evaluación de contenidos básicos sobre normativa actualizada.
+El título VI desarrolla el régimen estatutario de los miembros de los cuerpos de policía local y de los policías de los ayuntamientos que no tengan constituido cuerpo de policía local, y se divide en tres capítulos.
+El capítulo I establece los principios generales y determina los derechos y deberes de los miembros de los cuerpos de policía local y de los policías de los ayuntamientos que no tengan constituido cuerpo de policía local. Respecto a los derechos, distingue entre derechos colectivos y derechos individuales. En aplicación de la legislación estatal vigente, los y las miembros de los cuerpos de policía local, así como los y las policías de los ayuntamientos que no tengan constituido cuerpo de policía local tienen prohibido el ejercicio del derecho de huelga y de cualquier otra acción sustitutiva o concertada que pueda alterar el funcionamiento normal de los servicios.
+El capítulo II regula la segunda actividad, materia en la que se prevén novedades en relación con la legislación vigente. La segunda actividad se define como la modalidad de la situación administrativa de servicio activo de los funcionarios de los cuerpos de policía local y de los policías de los ayuntamientos que no tengan constituido cuerpo de policía local que tiene por objeto fundamental garantizar una adecuada aptitud psicofísica para prestar los servicios con eficacia.
+La regla general es que será sin destino, a no ser que la causa de paso a la segunda actividad sea la insuficiencia de las aptitudes psicofísicas para desarrollar la función policial.
+Se prevén tres causas para pasar a esta situación, que son por razón de edad, por petición de la persona interesada y por insuficiencia de las aptitudes psicofísicas para desarrollar la función policial.
+Igualmente, se regulan las retribuciones que tienen que percibir los policías locales que pasen a dicha situación.
+Con el fin de facilitar la organización de sus plantillas y garantizar la prestación adecuada de sus servicios, los ayuntamientos tienen que fijar, antes del día 31 de diciembre de cada año, el número máximo de funcionarios del cuerpo de policía local, por categorías, que se autoriza que pasen a la situación de segunda actividad de forma voluntaria.
+El capítulo III regula la jubilación y se fija la edad de jubilación en 65 años, de acuerdo con lo establecido en la legislación de fuerzas y cuerpos de seguridad.
+El título VII establece el régimen disciplinario y se divide en cuatro capítulos.
+El capítulo I establece los principios generales.
+El capítulo II recoge las infracciones, que clasifica como muy graves, graves y leves, las sanciones y sus criterios de graduación, y, finalmente, determina a quién corresponde la potestad sancionadora.
+El capítulo III regula la extinción de la responsabilidad disciplinaria, la prescripción de las infracciones y de las sanciones.
+El capítulo IV regula de manera detallada los procedimientos disciplinarios y establece toda una serie de garantías para los presuntos infractores fijando todos los posibles actos de instrucción, ordenación, resolución y ejecución del procedimiento sancionador.
+
+## TÍTULO I
+
+Principios generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+El objeto de esta ley es establecer los criterios básicos para coordinar la actuación de las policías locales en el ámbito territorial de la comunidad autónoma de las Illes Balears, sin perjuicio de su dependencia de las autoridades municipales, de conformidad con lo que prevén el artículo 30.19 del Estatuto de Autonomía y el artículo 39 de la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. Esta ley es aplicable a los cuerpos de policía local de los diferentes municipios de esta comunidad y a su personal.
+2. En los municipios donde no exista cuerpo de policía local, la coordinación se extiende a los policías locales que formen parte de la plantilla del ayuntamiento.
+3. Esta ley también es aplicable al personal nombrado funcionario en prácticas.
+
+### Artículo 3
+
+Artículo 3. Objetivos básicos de los criterios de coordinación.
+Constituye un objetivo básico en el establecimiento de los criterios de coordinación, la formación y el perfeccionamiento de los miembros de los cuerpos de policía local y su integración en un proyecto común de seguridad pública, desde una perspectiva integral de proximidad con la ciudadanía, basado en criterios éticos de rigor en cualquier ámbito de actuación, el carácter preventivo y asistencial del servicio y la resolución de conflictos como instrumentos de cohesión e integración social. En la determinación de los criterios de coordinación se atenderán en general las singularidades del territorio de cada isla de la comunidad autónoma y, en particular, las de cada localidad.
+Se modifca por el art. 1 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+## TÍTULO II
+
+Cuerpos de Policía Local
+
+### Artículo 4
+
+Artículo 4. Denominación y naturaleza jurídica.
+1. Los cuerpos de policía local son institutos armados de naturaleza civil, con estructura y organización jerarquizada bajo la jefatura superior y dependencia directa del alcalde o alcaldesa respectivo. En cada municipio se integran en un cuerpo propio y único con la denominación genérica de cuerpo de policía local, y sus dependencias con la denominación de jefatura de la policía local, sin perjuicio de la organización interna que adopte cada ayuntamiento.
+2. El mando inmediato y operativo corresponde a la persona que ejerza la jefatura del cuerpo.
+3. En el ejercicio de sus funciones, los miembros de los cuerpos de policía local y los policías de los ayuntamientos que no hayan constituido cuerpo de policía local tienen el carácter de agentes de la autoridad y deben poseer la condición de funcionarios.
+4. Las plazas de la plantilla vacantes y dotadas presupuestariamente de los cuerpos de policía local o de los municipios que no hayan constituido cuerpo de policía local han de ser ocupadas por personal funcionario de carrera.
+Se añade el apartado 4 por el art. 2 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 5
+
+Artículo 5. Funciones de los cuerpos de policía local.
+Son funciones de los cuerpos de policía local y de los policías de los ayuntamientos que no hayan constituido cuerpo de policía local las que indica el artículo 53 de la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad. Estas funciones no se pueden ejercer mediante sistemas de gestión indirecta.
+
+### Artículo 6
+
+Artículo 6. Ámbito territorial de actuación.
+1. Los cuerpos de policía deben actuar en el ámbito territorial de sus municipios. Ello no obstante, sus miembros pueden actuar fuera de su término municipal cuando sean requeridos por la autoridad competente en situaciones de emergencia y con la autorización previa de los alcaldes o alcaldesas respectivos. En estos casos deben actuar bajo la dependencia del alcalde o alcaldesa del municipio que los haya requerido y bajo el mando del jefe del cuerpo de dicho municipio, sin perjuicio de las tareas de coordinación que correspondan a la consejería competente en materia de coordinación de policías locales y emergencias.
+2. Eventualmente, cuando, por necesidades estacionales o circunstancias extraordinarias, resulte insuficiente la plantilla de la Policía Local de algún municipio, se podrá reforzar su dotación mediante la asociación con otros municipios, de acuerdo con lo establecido en el artículo 8 de esta ley, o mediante acuerdos bilaterales subscritos entre los respectivos ayuntamientos, con la finalidad de que sus policías locales puedan actuar en el término municipal del solicitante, por tiempo determinado y en régimen de comisión de servicios, siempre que no afecte al normal funcionamiento del servicio de policía local de origen. Estos convenios se han de comunicar con anterioridad a su firma al Instituto de Seguridad Pública de las Illes Balears. Los servicios se prestarán bajo la dependencia del alcalde o la alcaldesa del ayuntamiento donde se realicen y bajo el mando del jefe o la jefa del cuerpo de este municipio.
+3. Cuando ejerzan funciones de protección de autoridades de las corporaciones locales, pueden actuar fuera del término municipal respectivo con la autorización del Ministerio del Interior.
+Se modifica el apartado 2 y se añade el 3 por el art. 3.1 y 2 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 7
+
+Artículo 7. Creación de cuerpos de policía local.
+1. Los municipios de la comunidad autónoma de las Illes Balears pueden crear cuerpos de policía local propios, siempre que lo consideren oportuno en función de sus necesidades, de acuerdo con lo previsto en la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad, la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local, la presente ley y otras disposiciones que sean de aplicación, debiendo disponer de los medios humanos y materiales necesarios para garantizar la prestación de sus funciones de forma permanente.
+La creación del cuerpo de policía local corresponde al pleno de la corporación, que en el caso de los municipios con población igual o inferior a 5.000 habitantes requiere el previo informe no vinculante de la Comisión de Coordinación de Policías Locales.
+2. En los municipios donde no haya cuerpo de policía local, las funciones propias de este cuerpo las deben ejercer los policías que formen parte de la plantilla del ayuntamiento.
+3. La creación del cuerpo de policía local correspondiente es preceptiva en los casos en que la población municipal sea superior a 5.000 habitantes o cuando el número de efectivos que ejerza las funciones previstas en el apartado anterior sea superior a tres.
+4. Los municipios que tengan cuerpo de policía local de acuerdo con los criterios anteriores no lo pueden disolver si la población desciende de 5.000 habitantes.
+
+### Artículo 8
+
+Artículo 8. Asociaciones de municipios en materia de policía local.
+1. Los municipios limítrofes que no dispongan separadamente de recursos suficientes para prestar los servicios de policía local pueden asociarse para ejecutar las funciones asignadas a esta policía, de acuerdo con lo que establece la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad.
+2. Los ayuntamientos interesados, además de cumplir los requisitos establecidos legalmente y disponer de las autorizaciones pertinentes de acuerdo con la disposición adicional quinta de la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad, han de pertenecer a uno de los consejos de coordinación de las policías locales, en la forma que determina el capítulo III del título III de esta ley.
+3. El ejercicio de las funciones de coordinación operativa de los servicios asociados de policía local corresponde al alcalde o a la alcaldesa del municipio que se determine en el acuerdo de colaboración para la prestación conjunta de los servicios de policía local.
+4. En el ejercicio de las funciones de coordinación operativa, el consejero o la consejera competente en materia de coordinación de policías locales ha de asumir la dirección de la eventual cooperación entre los servicios de policía asociados, en los supuestos que señala el artículo 10.1.o) de esta ley, respetando el principio de autonomía municipal.
+Se modifica por el art. 4 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+## TÍTULO III
+
+La coordinación de las Policías Locales en las Illes Balears
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 9
+
+Artículo 9. Concepto.
+A los efectos de la presente ley, la coordinación tiene como objetivo determinar los criterios necesarios para una mejor adecuación de la formación, la organización, la dotación y la actuación de las policías locales al sistema y las finalidades generales de la seguridad pública, dentro de los cometidos que tienen legalmente asignados, como también fijar los medios para la homogeneización personal, técnica y material, con el objetivo de conseguir una acción que mejore la profesionalidad y eficacia, sin perjuicio de la autonomía municipal.
+
+### Artículo 10
+
+Artículo 10. Funciones de coordinación.
+1. La coordinación de la actuación de las policías locales en el ámbito territorial de la comunidad autónoma de las Illes Balears comprende el ejercicio de las siguientes funciones:
+a) El establecimiento de las normas marco a las que deben ajustarse la estructura, la organización y el funcionamiento de los cuerpos de policía local, y a las que deben ajustarse los reglamentos de policía local que aprueben las corporaciones locales respectivas.
+b) La fijación de las bases y los criterios uniformes para la formación, la selección, la promoción y la movilidad del personal de las policías locales, incluyendo los niveles educativos exigibles para cada categoría profesional.
+c) La formación profesional de los miembros de los cuerpos de policía local.
+d) La determinación del régimen de derechos y deberes y el régimen disciplinario de los cuerpos de policía local.
+e) La regulación de los sistemas de homogeneización y homologación de la uniformidad, equipos y medios técnicos de actuación, defensa, vehículos, comunicaciones y otros recursos materiales, así como en materia de estadística y administración.
+f) El impulso de un régimen retributivo que establezca la especificidad, la peculiaridad y otras circunstancias que definen la función policial.
+g) La organización de un sistema de intercomunicaciones policiales que permita la máxima eficacia en las actuaciones en materia de seguridad y prevención y favorezca los canales de comunicación entre todas las fuerzas y cuerpos de seguridad que actúan en las Islas.
+h) La información y el asesoramiento a las entidades locales en materia de policía local.
+i) La creación del marco en el que se deberá desarrollar el apoyo y la colaboración interpolicial en materia de información, actuaciones conjuntas y prestaciones recíprocas de carácter temporal y extraordinario.
+j) El establecimiento de una red de transmisiones que enlace los diferentes cuerpos de policía local en un centro de coordinación.
+k) El establecimiento de los medios necesarios para garantizar las funciones establecidas en esta ley y en sus disposiciones reglamentarias.
+l) El establecimiento de un sistema de información recíproca entre los diversos cuerpos de policía local a través de la creación de una base de datos común relativa a sus funciones, a la que podrán tener acceso todos los municipios mediante sistemas informáticos.
+m) El establecimiento de un sistema bibliográfico, documental y de información legislativa, con atención preferente a la administración municipal y a su policía local.
+n) El fomento de la colaboración entre municipios con la finalidad de atender situaciones de carácter temporal o extraordinario de conformidad con lo que establece esta ley.
+o) La dirección de la cooperación eventual entre las diferentes administraciones públicas para hacer frente a necesidades puntuales y extraordinarias.
+p) El impulso de la coordinación de las actuaciones de los municipios de la comunidad autónoma en materia de tráfico y seguridad viaria.
+q) La creación del marco en el que se ha de desarrollar el apoyo y la colaboración con los ayuntamientos en materia de instrucción de expedientes disciplinarios.
+r) El impulso de la coordinación en las actuaciones municipales de la figura del policía tutor.
+s) El impulso de la coordinación en las actuaciones municipales en materia de atención en zonas turísticas.
+t) Las otras que establezca esta ley.
+2. Las funciones anteriores se deben ejercer, en cualquier caso, respetando las competencias propias de las autoridades locales.
+Se modifican las letras n), o), p) y se añaden las letras q) a p) del apartado 1 por el art. 5 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 11
+
+Artículo 11. Órganos de coordinación.
+1. En el ámbito territorial de la comunidad autónoma de las Illes Balears ejercen las funciones indicadas en materia de coordinación:
+a) El Consejo de Gobierno de la comunidad autónoma de las Illes Balears.
+b) La consejería competente en materia de coordinación de policías locales.
+c) El Instituto de Seguridad Pública de las Illes Balears.
+d) La Comisión de Coordinación de las Policías Locales de las Illes Balears.
+e) Los consejos de coordinación de las policías locales.
+2. Sin perjuicio de la existencia de los citados órganos, pueden constituirse otros de carácter asesor, de preparación o ejecución de los trabajos que estos órganos les encomienden.
+Se modifica el apartado 1 por el art. 6 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 11 bis
+
+Artículo 11 bis. Otros órganos con competencia en materia de las policías locales diferentes de la coordinación.
+Son órganos con competencia en materia de policía local los siguientes:
+a) La Escuela de Seguridad Pública de las Illes Balears, prevista en el artículo 28.
+b) El Observatorio de Seguridad de las Illes Balears, a que se refiere el capítulo III bis del título III.
+c) La Comisión de Ética y Transparencia en la Actividad Policial de las Illes Balears, a que se refiere el capítulo III ter del título III.
+Se añade por el art. 7 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 12
+
+Artículo 12. Funciones de la consejería competente en materia de coordinación de policías locales.
+1. Las funciones en materia de coordinación de las policías locales previstas en esta ley que no supongan el ejercicio de la potestad reglamentaria, las debe ejercitar directamente por la consejería competente en materia de coordinación de policías locales, respetando las competencias que correspondan a los municipios.
+2. El Instituto de Seguridad Pública de las Illes Balears, como órgano administrativo de apoyo de la dirección general competente en materia de coordinación de las policías locales, impulsará programas concretos orientados a la mediación para resolver conflictos, el fomento del respeto a la diversidad y la integración social de determinados colectivos y promoverá las buenas prácticas profesionales ofreciendo herramientas de colaboración, asesoramiento y unificación de criterios en relación con la tramitación de expedientes disciplinarios.
+Se renumera el párrafo primero como 1 y se añade el apartado 2 por el art. 8 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 13
+
+Artículo 13. Registro de las Policías Locales.
+Es el instrumento a disposición de la consejería competente en materia de coordinación de policías locales para garantizar el cumplimiento de las funciones de coordinación desarrolladas en esta ley y en el que deben estar inscritos, en los términos que se determinen por reglamento, los cuerpos de policía local y todos sus miembros, así como los policías de los ayuntamientos que no hayan constituido cuerpo de policía local.
+
+## CAPÍTULO II
+
+La Comisión de Coordinación de las Policías Locales de las Illes Balears
+
+### Artículo 14
+
+Artículo 14. Naturaleza.
+1. La Comisión de Coordinación de las Policías Locales de las Illes Balears es el órgano de consulta y participación en la materia que prevé esta ley y que se adscribe a la consejería competente en materia de coordinación de policías locales.
+2. La organización interna y las normas de funcionamiento de la Comisión de Coordinación de las Policías Locales se deben determinar en un reglamento interno que ha de aprobar el pleno de la Comisión de Coordinación de las Policías Locales de las Illes Balears.
+
+### Artículo 15
+
+Artículo 15. Composición.
+1. La Comisión de Coordinación de las Policías Locales de las Illes Balears está integrada por los siguientes miembros:
+a) El presidente o la presidenta, que ha de ser el consejero o la consejera competente en materia de coordinación de policías locales.
+b) El vicepresidente o la vicepresidenta, que ha de ser el director o la directora general competente en materia de coordinación de policías locales.
+c) Los siguientes vocales:
+– Cuatro vocales en representación de la Administración de la comunidad autónoma de las Illes Balears, designados por el presidente o la presidenta de la Comisión.
+– Los vicepresidentes o las vicepresidentas de cada uno de los consejos de coordinación constituidos. En el caso de que el consejo de coordinación incluya municipios de dos islas, habrá un representante de cada uno de los consejos insulares a los que pertenezcan los municipios afectados.
+– Un o una vocal en representación del Ayuntamiento de Palma.
+– Un o una vocal en representación de la Delegación del Gobierno.
+– Cuatro vocales en representación de los sindicatos que tengan la consideración de más representativos en el ámbito de la comunidad autónoma de las Illes Balears.
+– Cinco jefes de los cuerpos de policía local designados a propuesta de los consejos de coordinación de las respectivas islas, de acuerdo con la siguiente distribución:
+• Uno o una por Formentera.
+• Uno o una por Ibiza.
+• Uno o una por Menorca.
+• Dos por Mallorca, de los cuales uno o una será propuesto en representación de los municipios de más de 20.000 habitantes, y el otro del resto de municipios.
+– Un jefe o una jefa de los cuerpos de policía local a propuesta de las asociaciones profesionales más representativas de ámbito autonómico.
+2. La Comisión nombrará, a propuesta del presidente o la presidenta, un secretario o una secretaria, que ha de ser un funcionario o una funcionaria adscrito a la consejería competente en materia de coordinación de policías locales, que actúa con voz pero sin voto.
+3. Puede asistir a las reuniones de la Comisión personal asesor con voz pero sin voto designado por el presidente, a iniciativa propia o a propuesta de cualquier otro miembro de la Comisión. En todo caso, el número de asesores no puede ser superior a uno por vocal.
+4. La composición y el régimen de funcionamiento han de ser desarrollados por un reglamento interno aprobado por el Pleno de la Comisión de Coordinación de las Policías Locales de las Illes Balears.
+Se modifica por el art. 9 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 16
+
+Artículo 16. Funciones.
+1. Son funciones de la Comisión de Coordinación de Policías Locales las siguientes:
+a) Informar sobre los proyectos de disposiciones generales que se dicten en desarrollo de las previsiones en materia de coordinación de esta ley y las que establezcan en materia de policía local los ayuntamientos respectivos.
+b) Proponer a los órganos competentes en materia de policía local de las diferentes administraciones públicas la adopción de las medidas que consideren oportunas para mejorar la prestación de los servicios policiales y la homogeneización de sus medios humanos y materiales.
+c) Informar sobre la programación de la formación de los miembros de los cuerpos de policía local que elabore la Escuela Balear de Administración Pública.
+d) Las de mediación, de acuerdo con lo que prevé la normativa aplicable en los conflictos entre cuerpos de policía local y los conflictos internos de cada cuerpo de carácter profesional, cuando lo soliciten, de común acuerdo, el ayuntamiento afectado y la junta o los delegados de personal.
+e) Cualesquiera otras funciones que le atribuyan esta ley u otras disposiciones vigentes en esta materia.
+2. El ejercicio de las funciones previstas anteriormente tiene un carácter no vinculante para los órganos de resolución, excepto en los casos en que la legislación aplicable lo prevea expresamente.
+
+## CAPÍTULO III
+
+Los consejos de coordinación de las policías locales
+
+### Artículo 17
+
+Artículo 17. Naturaleza.
+1. Los consejos de coordinación de las policías locales son órganos colegiados de consulta y asesoramiento en el ejercicio de la competencia autonómica de coordinación de las policías locales pudiendo constituirse en el ámbito de los municipios de las Illes Balears en áreas territoriales con problemáticas comunes de seguridad pública.
+2. Los consejos de coordinación, en el marco del régimen jurídico que prevé esta ley, deben ajustarse a sus normas internas de funcionamiento, a las normas de los órganos colegiados que regula el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, y a las peculiaridades organizativas de los órganos colegiados que contiene la Ley 3/2003, de 26 de marzo, de régimen jurídico de la administración de la comunidad autónoma de las Illes Balears.
+
+### Artículo 18
+
+Artículo 18. Composición.
+1. Cada consejo de coordinación de las policías locales ha de estar integrado por los siguientes miembros:
+a) El presidente o la presidenta, que ha de ser el director o la directora general competente en materia de coordinación de las policías locales.
+b) El vicepresidente o la vicepresidenta, que ha de ser designado por el Consejo de Coordinación entre los vocales que sean titulares de alcaldías o regidurías.
+c) Los vocales, que han de ser:
+– Las personas titulares de las alcaldías o titulares de las regidurías en quienes deleguen, en representación de los ayuntamientos de los municipios que se integren en el Consejo de Coordinación de las Policías Locales.
+– Les personas jefes de policía local, o policías en quienes deleguen, en representación de las policías locales de los municipios que se integren en el Consejo de Coordinación de las Policías Locales, y que han de ser nombrados y nombradas mediante un decreto de alcaldía del ayuntamiento correspondiente.
+– Dos vocales en representación de la consejería competente en materia de coordinación de policías locales y un vocal en representación de la consejería competente en materia de formación de policías locales, nombrados por resolución del consejero o la consejera respectivo.
+– En el supuesto de que el consejo de coordinación tenga un ámbito territorial que incluya todos los municipios de una isla, este podrá tener un vocal en representación de su consejo insular. En el caso en que el consejo de coordinación incluya municipios de dos islas, habrá una persona representante de cada uno de los consejos insulares al que pertenezcan los municipios afectados.
+2. Con la finalidad de afrontar y resolver la problemática técnica que se pueda derivar del desarrollo de los acuerdos adoptados en las sesiones de los consejos, se pueden constituir unas comisiones técnicas formadas por los jefes o por las jefas de la policía local de los municipios que se integren en un determinado consejo de coordinación de las policías locales o policías en quienes deleguen, a los que se ha de integrar una persona representante de la Escuela Balear de Administración Pública, si se trata de temas de formación. Estas comisiones han de ser coordinadas por las personas en representación de la consejería competente en materia de coordinación de las policías locales en los consejos de coordinación.
+3. El presidente o la presidenta del Consejo de Coordinación de las Policías Locales puede invitar, a las sesiones del consejo y de sus comisiones técnicas, con voz y sin voto, a las personas cuya intervención se considere conveniente, en función de los puntos incluidos en el orden del día y por razón de sus conocimientos, preparación, prestigio u otras circunstancias.
+Se modifica por el art. 10 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 19
+
+Artículo 19. Funciones.
+En materia de coordinación de policías locales, los consejos de coordinación de las policías locales tienen la función de resolver consultas no preceptivas y de asesoramiento facultativo sobre:
+a) El diseño de políticas comunes de seguridad para favorecer el apoyo y la colaboración interpolicial entre los municipios que integran el correspondiente consejo de coordinación.
+b) La previsión de las medidas que se vayan a adoptar ante hechos relevantes para la seguridad en los términos municipales que se hayan integrado en el consejo de coordinación.
+c) El análisis posterior de actuaciones conjuntas y de los hechos que las hayan motivado.
+d) El establecimiento de un sistema de intercomunicación policial que permita una coordinación adecuada entre los cuerpos de policía.
+e) La creación de un sistema de información recíproca entre los cuerpos de policía.
+f) La determinación de la dirección eventual de las actuaciones conjuntas con la finalidad de atender necesidades en situaciones de emergencia o extraordinarias.
+g) Otras mejoras en materia de coordinación de las policías locales.
+h) La detección de necesidades formativas específicas.
+i) La propuesta de mecanismos de colaboración intermunicipal para reforzar los servicios policiales ante necesidades de carácter extraordinario o estacional.
+El ejercicio de estas funciones previstas tiene un carácter no vinculante para los órganos de resolución, excepto que exista una disposición expresa en contra.
+Se añade la letra i) por el art. 11 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+## CAPÍTULO III bis
+
+CAPÍTULO III BIS
+El Observatorio de Seguridad de las Illes Balears
+Se añade por el art. 12 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 19 bis
+
+Artículo 19 bis. Naturaleza.
+El Observatorio de Seguridad de las Illes Balears se constituye como órgano de participación, consulta, deliberación, análisis, estudio, asesoramiento y prospectiva en materias relacionadas con la seguridad.
+Se añade por el art. 12 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 19 ter
+
+Artículo 19 ter. Funciones, composición, funcionamiento y régimen interno.
+El Gobierno de las Illes Balears desarrollará reglamentariamente todos los aspectos necesarios en cuanto a funciones, composición, funcionamiento y régimen interior, entre otros, para la puesta en marcha del Observatorio de Seguridad de las Illes Balears.
+Se añade por el art. 12 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+## CAPÍTULO III ter
+
+CAPÍTULO III TER
+La Comisión de Ética y Transparencia en la Actividad Policial de las Illes Balears
+Se añade por el art. 13 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 19 quater
+
+Artículo 19 quater. Naturaleza.
+1. La Comisión de Ética y Transparencia en la Actividad Policial de las Illes Balears es el órgano de carácter consultivo en materia de ética, transparencia y deontología con la finalidad de contribuir a mejorar la calidad del servicio policial y constituir un espacio de reflexión para el debate ético en el campo de la seguridad pública.
+2. La Comisión de Ética y Transparencia en la Actividad Policial de las Illes Balears se adscribe al departamento del Gobierno de las Illes Balears competente en materia de policía local, que asignará los medios personales y materiales necesarios para asegurar su funcionamiento.
+Se añade por el art. 13 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 19 quinquies
+
+Artículo 19 quinquies. Funciones, composición, funcionamiento y régimen interior.
+El Gobierno de las Illes Balears desarrollará reglamentariamente todos los aspectos necesarios, en cuanto a funciones, composición, funcionamiento y régimen interior, entre otros, para la puesta en marcha de la Comisión de Ética y Transparencia en la Actividad Policial de las Illes Balears.
+Se añade por el art. 13 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+## TÍTULO IV
+
+Estructura y régimen de funcionamiento
+
+## CAPÍTULO I
+
+Estructura básica
+
+### Artículo 20
+
+Artículo 20. Estructura de los cuerpos de policía local
+1. Los cuerpos de policía local de las Illes Balears se estructuran jerárquicamente en los siguientes grupos, subgrupos, escalas y categorías:
+Grupo
+ Escala
+ Categoría
+ Grupo A
+ Subgrupo A1.
+ Técnica.
+ Intendente, comisario o comisaria y mayor.
+ Subgrupo A2.
+ Ejecutiva.
+ Inspector o inspectora y subinspector o subinspectora.
+ Grupo C
+ Subgrupo C1.
+ Básica.
+ Oficial y policía.
+2. Los ayuntamientos pueden crear, en las categorías de policía, oficial y subinspector, los grados de policía de primera, oficial de primera y subinspector de primera, en los que se pueden integrar, respetando los principios constitucionales de igualdad, mérito y capacidad, los funcionarios y las funcionarias de carrera de estas categorías cuando hayan cumplido diez años de servicio activo como policía, cinco años de servicio activo como oficial o tres años de servicio activo como subinspector del respectivo municipio. Para la integración se requiere una valoración positiva del ayuntamiento, que ha de atender la trayectoria y actuación profesional del funcionario o la funcionaria, la calidad del trabajo realizado, los conocimientos adquiridos y el resultado de la evaluación del ejercicio profesional. Se pueden incluir otros méritos y aptitudes por razón de la especificidad de la función desarrollada y de la experiencia adquirida.
+3. Los órganos competentes de los ayuntamientos pueden crear las especialidades que consideren oportunas para cada categoría partiendo de sus propias peculiaridades de organización y funcionamiento. Se promoverá desde los ayuntamientos la creación de diferentes figuras de policía de proximidad cuya función será la de mediar y resolver los conflictos derivados de la convivencia entre los vecinos. La provisión de los puestos de trabajo de estas especialidades se han de realizar preferentemente entre el personal funcionario de la categoría correspondiente y por los procedimientos de concurso de méritos o de concurso específico.
+4. Corresponde al alcalde o la alcaldesa o al regidor delegado o a la regidora delegada proveer los puestos de libre designación a propuesta del jefe o de la jefa de policía.
+5. En todo caso, la existencia de una categoría concreta supone, necesariamente, la de las inferiores.
+Se modifican los apartados 2 a 4 y se añade el 5 por el art. 14.1 y 2 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 21
+
+Artículo 21. Titulación.
+La titulación académica exigible para el acceso a las diferentes categorías en que se estructuran los cuerpos de policía local es la que establece la legislación básica estatal para cada subgrupo, sin perjuicio de la obligación de superar los cursos de capacitación profesional que determine la consejería competente en materia de coordinación de policías locales.
+
+### Artículo 22
+
+Artículo 22. Jefatura del cuerpo de policía local.
+1. La jefatura del cuerpo de policía local es un puesto de trabajo de naturaleza funcionarial, que ha de figurar en la relación de puestos de trabajo correspondiente con la denominación «jefe o jefa del cuerpo de policía local».
+2. El nombramiento del jefe o de la jefa de cada cuerpo de policía local corresponde al alcalde o a la alcaldesa por el procedimiento de libre designación entre personal funcionario de carrera que pertenezca a la máxima escala o a la categoría superior de la escala inmediatamente inferior del cuerpo del municipio o entre personal funcionario de carrera de cuerpos de policía local de otros municipios o de otros cuerpos o fuerzas de seguridad, siempre que pertenezca a la escala o categoría citadas o a una escala superior. En cualquier caso, el nombramiento ha de recaer entre personal funcionario de carrera que pertenezca, como mínimo, a la categoría de oficial.
+Si se trata de personal de otras fuerzas y cuerpos de seguridad, se han de establecer reglamentariamente las equivalencias correspondientes.
+3. El puesto de trabajo de jefe o jefa del cuerpo de policía local se ha de ajustar a los siguientes criterios:
+a) La categoría del puesto ha de coincidir con la máxima categoría del cuerpo de policía local del municipio.
+b) El procedimiento de provisión del puesto es la libre designación y puede ser con carácter definitivo o en comisión de servicios. Si se accede a una categoría superior a la cual se pertenece como funcionario de carrera, deberá ser en comisión de servicios; si se accede a la misma categoría o a una inferior a la cual se pertenece como funcionario de carrera podrá ser en comisión de servicios o con carácter definitivo, sin perjuicio de poder ser removido discrecionalmente de estas funciones.
+c) Solo puede ser ocupado por el personal funcionario de carrera al que hace referencia el apartado 2 de este artículo, siempre que esté en servicio activo; tenga la titulación exigida para acceder a la categoría a la cual está adscrito el puesto; cumpla los requisitos establecidos en la relación de puestos de trabajo; y, en el caso de que pertenezca a otro ayuntamiento, acredite un mínimo de dos años de antigüedad en la escala de procedencia.
+d) El personal funcionario que ocupe este puesto de trabajo, con posterioridad al nombramiento ha de realizar el curso de capacitación para jefes de policía local que deberá promover la Escuela Balear de Administración Pública. Quedan eximidas de la realización de este curso las personas que ya lo hayan realizado o las que estén en posesión del curso de capacitación de la categoría correspondiente.
+4. La jefatura del cuerpo de policía local ejerce la máxima responsabilidad operativa en la policía local, tiene el mando inmediato sobre todas las unidades y los servicios en que se organice y lleva a cabo las funciones que se determinen legal y reglamentariamente.
+5. El alcalde o la alcaldesa ha de designar entre los miembros que pertenezcan a la escala o categoría citadas en el apartado 2 anterior del cuerpo de policía de su municipio la persona o las personas que por orden de prelación han de sustituir al jefe o la jefa en casos de vacante, ausencia o enfermedad.
+Se modifica por el art. 15 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 22 bis
+
+Artículo 22 bis. Escala facultativa técnica.
+1. Los ayuntamientos de los municipios de más de 25.000 habitantes, y los de aquellos otros municipios donde se determine por parte de la consejería competente, teniendo en cuenta criterios de aumento de criminalidad o especial transcendencia para la seguridad pública, podrán crear la escala facultativa técnica, a la que corresponderá ejercer, bajo la dependencia directa del jefe del cuerpo, tareas de cobertura, asesoramiento, formación, estudio y apoyo a las funciones policiales en la especialidad de criminología y/o seguridad. La citada escala quedará adscrita al cuerpo de policía local. Asimismo, podrá colaborar con el Consejo de Coordinación Policial al que pertenezca su ayuntamiento de procedencia, para realizar las mismas tareas descritas anteriormente.
+2. Los miembros de esta escala serán funcionarios de carrera y deberán cumplir con el requisito de estar en posesión de la titulación académica de licenciado o graduado en criminología.
+3. En las mismas circunstancias previstas en el apartado 1 anterior, y teniendo en cuenta criterios de eficacia en el cumplimiento de las funciones de la policía local no relacionadas con las criminalidad, los ayuntamientos podrán incluir en la escala facultativa técnica otros especialistas para la cobertura, el asesoramiento y el apoyo a las funciones policiales.
+4. El Gobierno de las Illes Balears desarrollará reglamentariamente aspectos relacionados con el ingreso, las funciones, las áreas de competencia, etc., de la escala facultativa técnica para garantizar la correcta integración o coordinación con el cuerpo de policía local.
+5. El Gobierno de las Illes Balears, mediante el Instituto de Seguridad Pública de las Illes Balears, promoverá estudios de evolución de la delincuencia y la criminalidad, así como análisis de la evolución y coyunturas, que servirán de base para la realización de las políticas de mejora y orientación en la prestación de los servicios, así como otros trabajos que permitan elaborar estudios de prevención, contando con miembros de la escala facultativa técnica de los cuerpos de policía local de las Illes Balears.
+Se añade por el art. 16 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+## CAPÍTULO II
+
+Régimen de funcionamiento
+
+### Artículo 23
+
+Artículo 23. Principios de actuación. Ética y transparencia profesional.
+1. Los miembros de los cuerpos de policía local y policías locales de los ayuntamientos que no hayan constituido cuerpo de policía local han de ejercer sus funciones en los términos que prevé esta ley y el resto de la normativa aplicable, y han de respetar en todo caso los principios básicos de actuación que prevé la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad.
+2. En el marco de los citados principios básicos de actuación, por acuerdo del Consejo de Gobierno se ha de aprobar un código de ética profesional dirigido a las policías locales de las Illes Balears, con el objetivo de promover las buenas prácticas y las actitudes y actividades adecuadas a la ética y el trato correcto a las personas en el ámbito policial.
+Se modifica por el art. 17 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 24
+
+Artículo 24. Armamento.
+1. Los agentes de los cuerpos de Policía Local y de los municipios que no hayan constituido cuerpo de Policía Local, por el hecho de pertenecer a un instituto armado, llevarán el armamento reglamentario que se les asigne en el ejercicio de sus funciones.
+El armamento básico individual de los agentes de policía local está conformado por un arma de fuego corta, una defensa o bastón extensible y un aerosol defensivo, sin perjuicio de que se pueda ampliar reglamentariamente. Asimismo, dispondrán de los medios técnicos y operativos necesarios para cumplir sus funciones. Reglamentariamente se determinarán las prácticas de habilitación y uso del armamento que sean preceptivas para garantizar su correcta utilización, sin que puedan ser inferiores a cuatro.
+El uso del armamento dispuesto en los párrafos anteriores, incluidas las armas de fuego, se llevará a cabo de forma congruente y proporcional, y atendiendo a la protección de la vida o integridad física de los agentes o de los ciudadanos, en ocasión de ataques o atentados con arma blanca u otros objetos con igual potencial lesivo, particularmente frente a quién trate de romper la distancia mínima de seguridad para reducir las posibilidades defensivas, de acuerdo con los postulados de las técnicas y ciencias policiales.
+2. Como armamento complementario los agentes de policía local podrán llevar armas largas reglamentadas y dispositivos eléctricos de control en la forma que se determine reglamentariamente.
+3. La retirada del armamento reglamentario y, en su caso, del arma de fuego particular obtenida mediante la autorización del ayuntamiento se puede llevar a cabo en los casos individuales en los que se considere necesaria cuando concurra alguna de las siguientes circunstancias:
+a) Un comportamiento de inestabilidad emocional o de alteración psíquica del agente que racionalmente pueda hacer prever la posibilidad de correr un riesgo propio o ajeno.
+b) El informe psicotécnico emitido por un psicólogo colegiado o una psicóloga colegiada que recomiende la retirada del arma de fuego.
+c) La negligencia o la impericia grave evidenciada por una actuación durante el servicio.
+d) La no superación o negativa a realizar las pruebas que reglamentariamente se determinen para la habilitación y el uso del armamento.
+e) La incapacidad laboral transitoria, cuando sea superior a 30 días, si no se presenta un certificado del médico o de la médica que firme la baja que acredite que la incapacidad no ha alterado sus condiciones psíquicas.
+f) Cuando mediante decisión judicial, ya sea cautelar o definitiva, se acuerde la retirada del arma.
+4. Reglamentariamente se regulará el procedimiento administrativo para la retirada del armamento, excepto en los supuestos d), e) y f) del apartado anterior, en los que será automática.
+Reglamentariamente también se han de regular los casos excepcionales en los que será posible, aun existiendo la retirada definitiva del arma, una evaluación, con los informes que se determinen, para recuperar el arma reglamentaria.
+5. Los ayuntamientos han de disponer de lugares adecuados para custodiar el armamento asignado con las condiciones que prevé la normativa aplicable.
+6. Queda expresamente prohibido portar armas particulares durante el tiempo de servicio.
+7. En el caso de que se ocupe un puesto de trabajo que comporte la obligación de llevar arma de fuego, la retirada definitiva del arma implicará el cambio de destino y la adecuación a las particularidades laborales y económicas del nuevo destino.
+Se modifican los apartados 1 y 2 por el art. 42.1 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a4-4
+ Se modifica por el art. 18 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 25
+
+Artículo 25. Documento de acreditación profesional.
+1. Todos los miembros de los cuerpos de policía local y los policías locales de los ayuntamientos que no hayan constituido cuerpo de policía local llevarán un documento de acreditación profesional expedido por la consejería competente en materia de coordinación de policías locales, en que constarán al menos los datos relativos al municipio de pertenencia, la identificación de la categoría profesional y el número de registro individual.
+2. El documento de acreditación profesional es propiedad de la consejería competente en materia de coordinación de policías locales y se devolverá en caso de baja o cambio de categoría en el cuerpo de policía al que pertenece.
+
+### Artículo 26
+
+Artículo 26. Uniformidad.
+1. La uniformidad de los miembros de los cuerpos de policía local y de los policías de los ayuntamientos que no hayan constituido cuerpo de policía local será común para todos e incorporará los signos distintivos y de identificación que reglamentariamente se determinen.
+2. Todos los miembros de la policía local y los policías de los ayuntamientos que no hayan constituido cuerpo de policía local vestirán el uniforme reglamentario cuando estén de servicio, excepto en los casos establecidos por la legislación vigente y previa autorización del alcalde o de la alcaldesa respectivo, caso en el que se identificarán con el documento de acreditación profesional.
+3. Fuera del horario de servicio se prohíbe el uso del uniforme y material reglamentario, excepto en los casos previstos en la legislación vigente o los que sean autorizados por la jefatura del cuerpo, para asistir a las acciones formativas relacionadas con la función policial convocadas por las administraciones públicas y a los actos institucionales.
+
+### Artículo 27
+
+Artículo 27. Medios técnicos.
+Las características de los medios técnicos y defensivos que utilizarán las policías locales deben ser homogéneas en toda la comunidad autónoma de las Illes Balears. El Gobierno de las Illes Balears puede dictar normas encaminadas a conseguir esta homogeneización. Los signos externos de distinción e identificación serán iguales para todos y se complementarán con los propios de cada ayuntamiento.
+
+## TÍTULO V
+
+Formación, selección, movilidad, permuta y reingreso
+
+## CAPÍTULO I
+
+Formación
+
+### Artículo 28
+
+Artículo 28. Función formativa.
+1. De acuerdo con el artículo 3 de esta ley, corresponde a la consejería competente en materia de coordinación de policías locales el ejercicio de las competencias relacionadas con la formación de los miembros de los cuerpos de policía local para asegurar su homogeneización y su coordinación, además de otras que tengan atribuidas.
+La consejería competente en materia de coordinación de policías locales llevará a cabo esta tarea a través de la Escuela Balear de Administración Pública o, si procede, a través de la Escuela de Seguridad Pública de las Illes Balears.
+2. La Escuela Balear de Administración Pública o, en su caso, la Escuela de Seguridad Pública de las Illes Balears promoverá convenios y acuerdos con instituciones docentes y públicas, en especial con la Universidad de las Illes Balears, con el objeto de poder homologar los cursos y programas de formación policial con las titulaciones académicas exigidas para el acceso a las distintas escalas o categorías.
+3. La Escuela Balear de Administración Pública, o en su caso la Escuela de Seguridad Pública de las Illes Balears, debe impartir el curso de capacitación correspondiente a cada categoría de la policía local previsto en el artículo 34.3 de esta ley.
+Reglamentariamente, se debe establecer un sistema de equivalencias o convalidaciones entre los cursos de capacitación de las diferentes categorías impartidos por la Escuela, como también con los cursos impartidos por otras escuelas públicas de formación de las policías locales y por otras administraciones, en el caso del resto de fuerzas y cuerpos de seguridad, según su adecuación, en cuanto a contenido y duración, con los cursos de capacitación impartidos por la Escuela.
+4. El Gobierno de las Illes Balears establecerá becas, ayudas económicas o bonificaciones de las tasas para la participación en cursos, en especial para compensar los gastos derivados de la insularidad, en desplazamientos y residencia.
+Se modifica el apartado 3 por el art. único.1 del Decreto-ley 6/2021, de 9 de julio. Ref. BOE-A-2021-14602
+ Se modifica por el art. 19 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 29
+
+Artículo 29. Formación externa.
+1. Los ayuntamientos podrán llevar a cabo, directamente, mediante sus escuelas de formación, por medio de convenios con otras entidades o a través de entidades supramunicipales como las mancomunidades o la federación de entidades locales, cursos para los funcionarios de sus propios cuerpos de policía o de los policías en los ayuntamientos que no tengan constituido cuerpo de policía local, cuando respondan a necesidades formativas no atendidas por la Escuela Balear de Administración Pública, siempre que no se trate de los cursos que se establezcan como preceptivos para acceder a las diferentes escalas y categorías de la policía local, y en todo caso bajo su coordinación, para asegurar el aprovechamiento de las acciones organizadas.
+2. Los diplomas o certificados de cursos y actividades formativas impartidos por las escuelas de formación de las policías locales, los cursos que tengan la condición de concertados u homologados por la Escuela Balear de Administración Pública u otras escuelas de administraciones públicas del Estado español, los cursos relacionados con las funciones propias de las policías locales superados en universidades en el ámbito de la Unión Europea o en otras administraciones públicas del Estado español con centros de formación acreditados, los créditos universitarios superados en universidades en el ámbito de la Unión Europea o en otras administraciones públicas del Estado español con centros de formación acreditados, que no formen parte de una carrera universitaria acabada y presentada como mérito o requisito, y los planes de formación continua tienen validez a los efectos de acceso, promoción y movilidad en los cuerpos de policía local o en la categoría de policía en los ayuntamientos que no hayan constituido cuerpo de policía local.
+3. Reglamentariamente, se establecerán los criterios de homologación, en su caso, y los reconocimientos de estas actividades formativas, según la adecuación de los contenidos, la duración y los requisitos de acceso a las directrices establecidos por la Escuela Balear de Administración Pública para sus cursos.
+4. El consejero o la consejera competente en materia de coordinación de policías locales establecerá una comisión de valoración de todas estas acciones formativas, de acuerdo con la normativa vigente.
+5. Respecto a la formación en línea y a distancia no reglada, únicamente podrá ser aceptada como requisito o valorada en un procedimiento de selección la que haya sido impartida y homologada por la Escuela Balear de Administración Pública. En el caso de otras escuelas de administraciones públicas del Estado español o de las universidades del ámbito de la Unión Europea, y las efectuadas dentro de los planes de formación continua deberán ser homologados por la Escuela Balear de Administración Pública, en función de los programas, temarios, reciprocidad y duración de los cursos. El proceso de homologación de esta formación será desarrollado reglamentariamente.
+6. El apartado anterior con respecto a la formación en línea y a distancia no reglada será de aplicación a partir de la entrada en vigor de esta ley; por tanto, los cursos realizados con anterioridad en materia policial sí serán valorados y les será de aplicación el anexo 1 del Decreto 67/2007, de 7 de junio, por el que se aprueba el Reglamento marco de medidas urgentes de las policías locales de las Illes Balears.
+Se modifican los apartados 2 y 5 por el art. 20.1 y 2 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+## CAPÍTULO II
+
+Selección
+
+### Artículo 30
+
+Artículo 30. Distribución de competencias.
+1. Corresponde a los ayuntamientos la competencia para la selección de nuevo ingreso, la promoción y la movilidad del personal de los cuerpos de policía local y de los policías en los ayuntamientos que no hayan constituido cuerpo de policía local, de acuerdo con las previsiones de las respectivas ofertas anuales de empleo público.
+2. Corresponden al Gobierno de las Illes Balears las competencias sobre la formación de la capacitación profesional para cumplir las tareas propias de los cuerpos de policía local y de los policías en los ayuntamientos que no hayan constituido cuerpo de policía local; la determinación de las bases y los programas mínimos a que se ajustarán las convocatorias que aprueben los ayuntamientos para los procesos selectivos de acceso, la provisión de puestos de trabajo y la promoción, así como la coordinación de la movilidad entre los diversos cuerpos de policía local o entre los policías en los ayuntamientos que no hayan constituido cuerpo de policía local.
+3. Los ayuntamientos pueden encomendar al Gobierno de las Illes Balears en los términos que se establezcan reglamentariamente la convocatoria y la realización de los procesos selectivos.
+4. La comunidad autónoma de las Illes Balears deberá participar en los tribunales y las comisiones de todos los procesos de selección y promoción de las diferentes categorías de los cuerpos de policía local y de los policías en los ayuntamientos que no hayan constituido cuerpo de policía local.
+5. Para asegurar la mejora de las condiciones de seguridad pública en el ámbito territorial de las Illes Balears y por sus especiales circunstancias socioeconómicas, los ayuntamientos han de incluir en sus ofertas anuales de empleo público todas las plazas vacantes y dotadas presupuestariamente de los cuerpos de policía local o de los policías en los ayuntamientos que no hayan constituido cuerpo de policía local previstas en las correspondientes plantillas o relaciones de puestos de trabajo.
+Se modifican los apartados 3 y 5 por el art. 21 .1 y 2 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 31
+
+Artículo 31. Sistemas de acceso.
+1. Los sistemas de acceso a las diferentes categorías de los cuerpos de policía local y de los policías en los ayuntamientos que no hayan constituido cuerpo de policía local son el turno libre y la promoción, con las variantes interna y externa.
+2. La promoción interna en los cuerpos de la policía local es el sistema de acceso que permite acceder a la categoría inmediatamente superior a la ejercida como funcionario de carrera en el mismo cuerpo de policía local.
+3. La promoción externa en los cuerpos de la policía local es el sistema de acceso que permite acceder a la categoría inmediatamente superior de un cuerpo de policía local de las Illes Balears diferente de aquél al que pertenece el funcionario de carrera, o bien hasta dos categorías superiores si se trata de funcionarios de carrera del mismo cuerpo de policía local. Igualmente podrán acceder por promoción externa los funcionarios de carrera de la categoría de policía de los ayuntamientos que no tengan cuerpo de policía local a la categoría de oficial de los ayuntamientos que tengan cuerpos de policía local.
+4. Cuando el ayuntamiento ofrezca un número de plazas para ser cubiertas por promoción, tiene las siguientes opciones:
+a) Puede determinar que estas plazas se cubran solamente por promoción interna.
+b) Puede determinar que las plazas se cubran solamente por promoción externa.
+c) Puede determinar que un número de plazas se cubra por promoción interna y el resto por promoción externa.
+5. Los sistemas de acceso a las diferentes categorías son los siguientes:
+a) Se accede a la categoría de policía o de policía en los ayuntamientos que no tengan constituido cuerpo de policía local por el sistema de turno libre.
+b) Se accede a las categorías de oficial, de subinspector o subinspectora y de inspector o inspectora por los sistemas de promoción, con las dos variantes.
+c) Se accede a las categorías de la escala técnica por el sistema de turno libre o por los sistemas de promoción en las dos variantes. Para acceder por el sistema de turno libre se debe estar en posesión de la condición de funcionario de un cuerpo de policía local o de funcionario de policía de un ayuntamiento que no tenga cuerpo de policía.
+
+### Artículo 32
+
+Artículo 32. Requisitos para el acceso.
+Para poder participar en los procesos selectivos de acceso a las categorías de los cuerpos de policía local o a las plazas de policías en los ayuntamientos que no hayan constituido cuerpo de policía local es necesario reunir los siguientes requisitos:
+a) Tener la nacionalidad española.
+b) Tener dieciocho años cumplidos.
+c) Poseer el título académico o equivalente para el grupo al que pertenezca la plaza convocada de acuerdo con la ley básica del Estado.
+d) No padecer ninguna enfermedad o defecto físico o psicofísico que impida o menoscabe el correcto desarrollo de las funciones, en relación con el cuadro de exclusiones que reglamentariamente se determine, en los supuestos de acceso por el turno libre. En los supuestos de acceso por promoción es un requisito no padecer ninguna enfermedad o defecto físico o psicofísico que impida o menoscabe el correcto desarrollo de las funciones.
+e) No haber sido separado del servicio de la administración local, autonómica o estatal, ni estar inhabilitado para ejercer la función pública.
+f) No tener antecedentes penales por delitos dolosos.
+g) Poseer los permisos de conducir de las clases que reglamentariamente se determinen.
+h) Comprometerse, mediante una declaración jurada, a portar armas y, en su caso, a utilizarlas.
+i) Acreditar el conocimiento de la lengua catalana del nivel que determine la normativa vigente que, como mínimo, será la exigible al personal funcionario de la administración autonómica de las Illes Balears.
+Se modifica por el art. 22 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 33
+
+Artículo 33. Requisitos para la promoción.
+Para la promoción, además de los que prevé la legislación básica para acceder a la función pública, los o las aspirantes han de cumplir, en el momento en que finalice el plazo para solicitar la participación en los procesos selectivos, los siguientes requisitos:
+a) Tener la condición de personal funcionario de carrera en alguno de los cuerpos de policía local de las Illes Balears y la antigüedad que se especifica a continuación en la categoría de origen:
+1.º Promoción interna en el mismo cuerpo de policía local en la categoría inmediatamente superior: dos años.
+2.º Promoción externa en dos categorías superiores en el mismo cuerpo de policía local: cuatro años.
+3.º Promoción externa en la categoría inmediatamente superior de un cuerpo de policía local diferente a aquel al que pertenece el funcionario o la funcionaria de carrera: cuatro años.
+4.º Promoción externa de los policías de los ayuntamientos que no tengan cuerpo de policía local a la categoría de oficial de los ayuntamientos que tengan cuerpos de policía local: cuatro años.
+b) En el caso de la promoción externa, además, faltar más de cinco años para pasar a la situación de segunda actividad por razón de edad respecto de la escala básica y más de tres años para las escalas ejecutiva y técnica.
+Se modifica por el art. 23 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 34
+
+Artículo 34. Sistemas de selección.
+1. El sistema de selección para acceder a la categoría de policía local y a las policías en los ayuntamientos que no hayan constituido cuerpo de policía local es la oposición. El sistema de selección para el acceso al resto de categorías de los cuerpos de policía local, tanto por turno libre como por promoción, es el concurso oposición.
+2. De acuerdo con el sistema de equivalencias o convalidaciones que se establezca reglamentariamente, la Escuela Balear de Administración Pública debe resolver sobre las equivalencias o convalidaciones de la superación de los programas de capacitación para acceder a las diferentes categorías de los cuerpos de policía local y a los puestos de policía en los ayuntamientos que no hayan constituido cuerpo de policía local expedidos por otras escuelas públicas de formación de las policías locales y por otras administraciones, en el caso del resto de fuerzas y cuerpos de seguridad, según su adecuación, en cuanto a contenido y duración, con los cursos de capacitación impartidos por la Escuela.
+3. Los procedimientos selectivos se completan con la superación de un período de prácticas. Este período está integrado por la superación tanto del curso de capacitación correspondiente a la categoría a la cual se accede, como de la fase de prácticas en el municipio relacionadas con las funciones propias de la categoría respectiva. Las personas que acrediten haber superado el curso de capacitación y lo tengan debidamente actualizado, estarán exentas de realizarlo. La fase de prácticas en el municipio con el contenido que determine cada ayuntamiento, tendrá una duración máxima de un año y una mínima de seis meses.
+Las personas aspirantes que no superen el período de prácticas de acuerdo con el procedimiento de calificación previsto en la convocatoria correspondiente, perderán su derecho al nombramiento como personal funcionario de carrera, mediante una resolución motivada de la autoridad que haya hecho la convocatoria, a propuesta del órgano responsable de la evaluación del período de prácticas.
+Se modifica el apartado 2 por el art. único.2 del Decreto-ley 6/2021, de 9 de julio. Ref. BOE-A-2021-14602
+ Se modifica por el art. 24 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 34 bis
+
+Artículo 34 bis. Retribuciones del personal funcionario en prácticas.
+1. El personal funcionario en prácticas tiene derecho a percibir las retribuciones equivalentes al sueldo y pagas extraordinarias correspondientes al subgrupo o grupo de adscripción, en el supuesto de que este no tenga subgrupo, en el cual aspire a ingresar; y, en su caso, los trienios que se tengan reconocidos con anterioridad al inicio del período de prácticas, que incluye la realización del curso selectivo y de la fase de prácticas en el municipio.
+No obstante, si el período de prácticas se realiza desarrollando un puesto de trabajo, se percibirán, además, las retribuciones complementarias correspondientes al citado puesto.
+2. El personal funcionario en prácticas que tenga la condición de personal funcionario o laboral de la administración pública estatal, autonómica o local, podrá optar por mantener las retribuciones que le correspondan en virtud de la citada condición o percibir las previstas en el apartado anterior, siempre que disfrute de un permiso para realizar las prácticas y continúe vinculado a su puesto de trabajo.
+3. El pago de las retribuciones al personal funcionario en prácticas corresponde al ayuntamiento que ha convocado el correspondiente proceso selectivo. No obstante lo anterior, si el período de prácticas se realiza desarrollando un puesto de trabajo, el pago corresponderá a la administración pública en la que se encuentre el puesto de trabajo, excepto cuando exista un acuerdo en sentido contrario adoptado por ambas administraciones públicas.
+Se añade por el art. 25 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 34 ter
+
+Artículo 34 ter. Abandono del periodo de prácticas en el municipio.
+1. Vistas las especiales características de formación y capacitación, y teniendo en cuenta razones de economía y eficacia, los aspirantes que en un determinado proceso selectivo hayan superado el curso de capacitación de la categoría correspondiente como personal funcionario en prácticas del ayuntamiento donde llevarán a cabo la fase de prácticas en el municipio, si no se incorporan o las abandonan antes de la calificación final, resarcirán los costes en la forma en que se determine mediante una resolución de la persona titular de la consejería competente en materia de coordinación de las policías locales a través de la Escuela Balear de Administración Pública o, si procede, a través de la Escuela de Seguridad Pública de las Illes Balears.
+A estos efectos, se considerarán en todo caso costes de formación, los siguientes:
+a) El importe del curso de formación.
+b) El importe del equipamiento personal entregado durante el curso de formación.
+2. Se exceptúan de la obligación de resarcimiento regulada en el apartado anterior los casos de aspirantes que abandonen el periodo de prácticas por causas justificadas sobrevenidas de incapacidad temporal o permanente, de embarazo o de fuerza mayor, las cuales deberán ser apreciadas en cada caso por el tribunal calificador del procedimiento.
+Se modifica por el art. 42.2 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a4-4
+ Se añade por el art. 42.2 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a4-4
+
+## CAPÍTULO III
+
+Provisión de puestos de trabajo
+
+### Artículo 35
+
+Artículo 35. Sistemas de provisión de puestos de trabajo.
+1. Los puestos de trabajo de las diferentes categorías se han de proveer ordinariamente por los sistemas de concurso o, cuando así se determine en la relación de puestos de trabajo del ayuntamiento, por libre designación, siempre mediante convocatoria pública.
+2. Los sistemas de provisión se convocarán para la provisión de puestos de trabajo de acuerdo con las necesidades del servicio.
+Se modifica por el apartado 1 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 36
+
+Artículo 36. Reglas generales del concurso.
+1. El concurso es el sistema normal de provisión de puestos de trabajo y consiste en la comprobación y valoración de los méritos y, en su caso, de las capacidades, los conocimientos o las aptitudes que determine la convocatoria, de acuerdo con el baremo establecido.
+2. El concurso puede ser concurso de méritos o concurso específico, en este último caso siempre que así se determine en la relación de puestos de trabajo del ayuntamiento.
+Se modifica el apartado 2 por el art. 27 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 37
+
+Artículo 37. Concurso de méritos.
+1. El concurso de méritos es el sistema de provisión de puestos de trabajo genéricos, aunque también puede utilizarse para proveer puestos de trabajo singularizados, cuando así lo prevea la relación de puestos de trabajo.
+2. Las convocatorias se llevarán a cabo, al menos, con una periodicidad bienal.
+
+### Artículo 38
+
+Artículo 38. Concurso específico.
+1. El concurso específico es el sistema de provisión de los puestos de trabajo singularizados correspondientes a las especialidades.
+2. El concurso específico consiste en la comprobación y la valoración de los méritos y las capacidades, los conocimientos y las aptitudes determinados en cada convocatoria, relacionados con el puesto de trabajo convocado.
+3. Además de los méritos generales, la convocatoria recogerá la valoración de méritos específicos relacionados con el puesto de trabajo convocado.
+4. Para la valoración de las capacidades, los conocimientos o las aptitudes, la convocatoria puede incluir la realización de pruebas de carácter práctico, memorias, entrevistas y tests profesionales, valoración de informes de evaluación, tests psicotécnicos u otros sistemas similares.
+Se modifican los apartados 1 y 2 por el art. 28 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 39
+
+Artículo 39. Libre designación.
+La libre designación es un sistema de provisión de los puestos de trabajo excepcional, para los puestos que se encuentren así previstos en la relación de puestos de trabajo del ayuntamiento porque impliquen una elevada responsabilidad o requieran una confianza personal para ejercer sus funciones, como es el caso de la jefatura del cuerpo.
+Se modifica por el art. 29 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 40
+
+Artículo 40. Provisión de puestos por causas estacionales y extraordinarias.
+Los municipios que por circunstancias especiales o por causas extraordinarias tengan sobrecarga de servicios policiales en determinadas épocas del año y que no requieran aumento permanente de plantilla de sus cuerpos de policía local o de los puestos de trabajo de policía en los ayuntamientos que no hayan constituido cuerpo de policía local, podrán reforzarla por medio de acuerdos con otros municipios a fin de que sus miembros puedan actuar en el término municipal de los solicitantes, por un tiempo determinado y en régimen de comisión de servicios.
+
+### Artículo 41
+
+Artículo 41. Ocupación de puestos de trabajo con carácter temporal.
+1. Con carácter general, cuando un puesto de trabajo con dotación presupuestaria no tenga persona titular o quede vacante de manera temporal o definitiva, se podrá ocupar en comisión de servicios de carácter voluntario con personal funcionario de carrera del mismo grupo y escala que cumpla los requisitos que se establecen para ocuparlo. El personal funcionario en comisión de servicios tiene derecho a la reserva del puesto de trabajo de procedencia y a percibir las retribuciones correspondientes al puesto que efectivamente ocupa.
+2. Excepcionalmente, por razones expresamente justificadas de necesidad y urgencia, que se acreditarán en el expediente correspondiente ante la consejería competente en materia de coordinación de policías locales, estos puestos de trabajo pueden ser ocupados por personal funcionario interino nombrado para el desarrollo de funciones propias del personal funcionario de carrera, siempre que se produzca alguna de las siguientes circunstancias:
+a) La existencia de plazas vacantes cuando no sea posible cubrirlas mediante personal funcionario de carrera incluidas en la oferta de empleo público del mismo año o del año siguiente. La vigencia máxima del nombramiento será de tres años improrrogables, cuyo transcurso determina, en todo caso, el cese del funcionario interino.
+b) La sustitución transitoria de las personas titulares.
+3. La selección del personal funcionario interino de la categoría de policía local se realizará entre las personas aspirantes que cumplan los requisitos exigidos para ocupar los puestos de trabajo, que hayan superado el curso básico de policías locales de la Escuela Balear de Administración Pública y que formen parte de la bolsa de trabajo de personal funcionario interino de la cual disponga el ayuntamiento. En el supuesto de que la bolsa de trabajo de la categoría de policía local se haya agotado o tenga una antigüedad superior a dos años, los ayuntamientos pueden convocar una nueva o acudir a la bolsa de la consejería competente en materia de coordinación de policías locales constituida con este objeto.
+Los ayuntamientos pueden constituir bolsas de trabajo de la categoría de policía local, mediante una convocatoria pública, con las personas aspirantes ordenadas de acuerdo con la nota final obtenida en el curso básico de policías locales de la Escuela Balear de Administración Pública y con el número de años completos de servicios prestados y reconocidos como policía local. La convocatoria de la bolsa deberá prever los requisitos y las condiciones en que se tiene que llevar a cabo su gestión y, como mínimo, las siguientes circunstancias:
+a) La duración máxima de vigencia de la bolsa, que no puede ser superior a dos años.
+b) Las causas de indisponibilidad de los miembros de la bolsa. Una causa de indisponibilidad es prestar servicios, en el momento del llamamiento, como personal funcionario de carrera o interino de la policía local en un municipio de las Illes Balears.
+En todo caso, el personal funcionario de carrera que ocupe un puesto de trabajo mediante un nombramiento de personal funcionario interino no tiene derecho a la reserva del puesto de trabajo de procedencia.
+4. La consejería competente en materia de coordinación de policías locales, atendiendo a las necesidades objetivas de los diferentes ayuntamientos, podrá constituir una bolsa de empleo temporal específica de la categoría de policía de manera descentralizada por islas, mediante una convocatoria pública, con las personas aspirantes que ya dispongan del curso de capacitación correspondiente y soliciten su inclusión, ordenadas de acuerdo con la nota final del curso de capacitación de la categoría de policía y con el número de años completos de servicios prestados y reconocidos en la categoría de policía.
+La resolución de la convocatoria determinará el plazo de vigencia, los requisitos y las condiciones en que se tiene que llevar a cabo la gestión de esta bolsa.
+La vigencia máxima del nombramiento será de tres años improrrogables, cuyo transcurso determina, en todo caso, el cese del funcionario interino.
+Los ayuntamientos de los municipios con 20.000 habitantes o menos que lo soliciten podrán adherirse a esta bolsa, con la certificación previa del Instituto de Seguridad Pública de las Illes Balears que acredite que los datos del registro de policías locales están actualizados y el acuerdo previo de la Mesa General de Negociación en los ayuntamientos en los que esté constituida. En el caso de ayuntamientos de los municipios con más de 20.000 habitantes, para poder acudir a esta bolsa, se necesitará la suscripción previa de un convenio de colaboración.
+Se modifica por la disposición final 11.1 Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df-11
+ Se modifica por el art. único.3 del Decreto-ley 6/2021, de 9 de julio. Ref. BOE-A-2021-14602
+ Se modifica por el art. 30 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+## CAPÍTULO IV
+
+Movilidad
+
+### Artículo 42
+
+Artículo 42. Régimen aplicable.
+1. Los miembros de los cuerpos de policía local pueden participar en los procesos de provisión de plazas vacantes de su misma categoría en otros cuerpos de policía local de las Illes Balears o en otras plantillas de policía en los ayuntamientos que no hayan constituido cuerpo de policía local en la forma que se determine por reglamento. Igualmente, los funcionarios de carrera con la categoría de policía de los ayuntamientos que no tengan cuerpo de policía local pueden participar en los procesos de provisión de plazas vacantes de su misma categoría de los ayuntamientos con cuerpo de policía local.
+2. Se ha de utilizar el procedimiento de concurso para la movilidad en todas las categorías.
+3. Para garantizar la movilidad en condiciones equivalentes, los ayuntamientos determinarán en las convocatorias los puestos reservados para la movilidad y señalarán los méritos que deben considerase en el concurso de provisión de puestos de trabajo por movilidad, tanto los que determinará reglamentariamente la consejería competente en la materia y que comprenderán unos criterios básicos comunes, como otros de libre consideración por cada ayuntamiento. En todo caso, este sistema de movilidad siempre tiene que incluir como requisito una prueba psicomédica para determinar la idoneidad del aspirante al nuevo puesto de trabajo en los términos que se establezcan reglamentariamente.
+Se modifica el apartado 2 por el art. 31 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 43
+
+Artículo 43. Requisitos para la movilidad.
+Además de los previstos por la legislación básica para acceder a la función pública, los aspirantes deben cumplir, en el momento que finalice el plazo para solicitar la participación en los procesos de movilidad, los siguientes requisitos:
+a) Tener la condición de funcionario de carrera en alguno de los cuerpos de policía local de las Illes Balears o en las plantillas de los ayuntamientos que no hayan constituido cuerpo de policía local y no hallarse en la situación administrativa de suspensión de funciones.
+b) Haber permanecido como mínimo tres años en situación de servicio activo en la misma categoría como funcionario de carrera en el ayuntamiento de procedencia.
+c) Faltar más de cinco años para pasar a la situación de segunda actividad por razón de edad.
+
+## CAPÍTULO V
+
+Permuta
+
+### Artículo 44
+
+Artículo 44. Requisitos para permutar.
+1. Los alcaldes, con el informe previo de los jefes respectivos, pueden autorizar la permuta de destinos entre los miembros de los cuerpos de policía local o entre policías en los ayuntamientos que no hayan constituido cuerpo de policía local en activo que sirvan en diferentes corporaciones locales, siempre que cumplan los siguientes requisitos:
+a) Que ambos sean funcionarios de carrera.
+b) Que pertenezcan a la misma categoría y grupo de titulación.
+c) Que tengan cinco años ininterrumpidos de servicio activo y con un número de años de servicio que no difiera entre uno y otro en más de cinco años.
+d) Que falten como mínimo cinco años para cumplir la edad para pasar a la situación de segunda actividad por razón de edad.
+e) Que no se produzca la jubilación voluntaria y anticipada o la excedencia voluntaria que regula la legislación básica y la legislación de la comunidad autónoma en materia de función pública de alguno de los permutantes en los dos años siguientes a la fecha de la permuta. En este caso, cualquiera de las dos corporaciones afectadas puede anular la permuta mediante el procedimiento que reglamentariamente se establezca.
+f) Que ninguno de los solicitantes tenga incoado un expediente disciplinario o cumpla una sanción.
+2. No se podrá solicitar una nueva permuta por parte de ninguno de los permutantes hasta que no hayan transcurrido cinco años desde el anterior.
+
+## CAPÍTULO VI
+
+Reingreso en el servicio activo
+
+### Artículo 45
+
+Artículo 45. Reingreso en el servicio activo.
+1. Cuando un funcionario o una funcionaria de carrera solicita el retorno al servicio activo y padece enfermedades o defectos físicos que permiten la concesión de la segunda actividad por causas psicomédicas, puede solicitar la reincorporación al servicio activo y pasar a la segunda actividad.
+2. Cuando un funcionario o una funcionaria de carrera solicita el retorno al servicio activo por encontrarse en la situación administrativa de excedencia, ha de acreditar que cumple los requisitos c), e), f), g) e i) del artículo 32 de esta ley. Si la excedencia ha sido por desarrollar trabajos fuera de la administración y superior a dos años, ha de realizar un reciclaje de acuerdo con la categoría a la cual pretende retornar, una vez producida la reincorporación de forma activa, en el plazo de un año.
+3. Cuando un funcionario o una funcionaria de carrera solicite el retorno al servicio activo porque se encuentra en la situación administrativa de suspensión de funciones con carácter definitivo, ha de acreditar que cumple los requisitos c), e), f), g) y, si procede, i) del artículo 32 de esta ley. Además, ha de realizar un reciclaje de acuerdo con la categoría a la cual pretende retornar, una vez producida la reincorporación de forma activa, en el plazo de un año.
+Se modifica por el art. 32 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+## TÍTULO VI
+
+Régimen Estatutario
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 46
+
+Artículo 46. Régimen jurídico.
+Los miembros de los cuerpos de policía local y los policías en los ayuntamientos que no hayan constituido cuerpo de policía local, en su condición de agentes de la autoridad, tendrán la condición de funcionarios. Para nombrarlos es necesario disponer de la formación de capacitación adecuada y haber superado los procesos selectivos que correspondan.
+
+### Artículo 47
+
+Artículo 47. Derechos colectivos.
+Se garantiza el ejercicio de los derechos sindicales a todos los efectivos de las policías locales en los términos que determine la legislación vigente y, en particular, pueden afiliarse a partidos políticos, sindicatos y asociaciones profesionales o de otra índole, sin que este motivo pueda ser causa de discriminación.
+
+### Artículo 48
+
+Artículo 48. Derechos individuales.
+1. En su condición de funcionarios, los miembros de los cuerpos de policía local y los policías en los ayuntamientos que no hayan constituido cuerpo de policía local tienen los derechos que les atribuye la legislación vigente en materia de régimen local, los que contiene la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad, los derivados de su régimen estatutario y de esta ley y, en especial, los siguientes:
+a) A una formación profesional adecuada, que se configura también como un deber para el funcionario.
+b) A una promoción profesional adecuada.
+c) Al vestuario y al equipo adecuado al puesto de trabajo que ocupan, que será proporcionado por la corporación local respectiva. Quien preste servicios sin hacer uso del uniforme reglamentario tendrá derecho a una indemnización sustitutoria por este concepto.
+d) A las prestaciones sociales y sanitarias previstas para el resto de los funcionarios de la administración local.
+e) Cuando sean inculpados judicialmente por actos derivados del cumplimiento legítimo de las funciones que tienen encomendadas, el ayuntamiento respectivo ha de:
+– Asumir la defensa y la representación ante los juzgados y tribunales mediante los letrados o las letradas y también los procuradores o las procuradoras, cuando estos sean preceptivos, que designe a este efecto, y encargarse del pago de los honorarios, si procede.
+– Prestar las fianzas que se señalen.
+– Asumir las costas procesales y las indemnizaciones de responsabilidad civil que correspondan.
+f) En sus comparecencias ante la autoridad judicial derivadas de actos de servicio, los miembros de las policías locales o los policías de los ayuntamientos que no hayan constituido cuerpo de policía local serán asistidos por un letrado o letrada de los servicios municipales o al servicio del ayuntamiento, en los casos en que lo decida el mismo ayuntamiento o lo soliciten los policías objeto de la comparecencia.
+g) A una protección adecuada de la salud física y psíquica.
+h) A exponer, a través de la vía jerárquica, verbalmente o por escrito, y siempre haciendo uso de un lenguaje y expresiones no ofensivos, sugerencias relacionadas con el funcionamiento del servicio, el horario o las tareas, así como cualquier otra petición que consideren adecuada.
+i) A percibir una indemnización, que fijará el ayuntamiento en los casos en que les sea retirado el permiso de conducir con motivo de accidentes producidos por causa del servicio.
+j) A pasar a la situación de segunda actividad, en las condiciones que prevé esta ley.
+k) A que la corporación local asuma los costes de la representación procesal y asistencia letrada como acusación particular en los procesos penales en que resulten perjudicados o víctimas por razón de una actuación como agente de la autoridad durante el servicio o fuera del servicio si el perjuicio o la lesión trae causa de tal condición.
+2. El personal de los cuerpos de la policía local y policías en los ayuntamientos que no hayan constituido cuerpo de policía local, tienen derecho a una protección eficaz en materia de seguridad y salud en el trabajo y les será de aplicación la normativa general de prevención de riesgos laborales vigente y sus normas de desarrollo. Este derecho comprenderá en todo caso el de disponer de unas instalaciones y medios adecuados, recibir información y formación en materia preventiva, realizar propuestas y participar en la prevención de los riesgos específicos que afecten su puesto de trabajo, la vigilancia de la salud y la adopción de todas aquellas medidas de prevención que resulten aplicables a las peculiaridades inherentes a su función.
+Reglamentariamente se han de desarrollar las normas específicas, respecto de las actividades o funciones que presenten características extraordinarias, que se han de inspirar en la normativa general de prevención de riesgos laborales.
+3. Los ayuntamientos han de adoptar las medidas preventivas necesarias para garantizar la seguridad y la salud laboral del personal integrante de los cuerpos de policía local y policías en los ayuntamientos que no hayan constituido cuerpo de policía local, con adecuación a las peculiaridades específicas que comporta el ejercicio de la función policial.
+4. Las consejerías con competencias en materia de coordinación de las policías locales y en prevención de riesgos laborales podrán colaborar con los ayuntamientos en la formación y asesoramiento en materia de seguridad y salud en el trabajo.
+Se añade la letra 1.k) por el art. 42.3 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a4-4
+ Se modifica por el art. 33 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 49
+
+Artículo 49. Igualdad de mujeres y hombres.
+Los ayuntamientos de las Illes Balears han de incluir las policías locales en los planes de igualdad que elaboren, con la finalidad de garantizar la igualdad de trato y de oportunidades en el empleo público, así como la adopción de medidas relativas a la conciliación laboral, personal y familiar, y a la prevención del acoso por razón de sexo, orientación sexual o identidad de género.
+Se modifica por el art. 34 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 50
+
+Artículo 50. Incompatibilidades e interdicción del derecho de huelga.
+1. Los miembros de las policías locales tienen incompatibilidad para ejercer cualquier actividad pública o privada, salvo las que exceptúa expresamente la legislación estatal sobre incompatibilidades del personal al servicio de las administraciones públicas.
+2. De conformidad con lo que prevé la legislación estatal vigente, los miembros de las policías locales tienen prohibido el ejercicio del derecho de huelga y de cualquier otra acción sustitutiva o concertada que pueda alterar el funcionamiento normal de los servicios.
+Se modifica por el art. 35 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 51
+
+Artículo 51. Retribuciones.
+1. Los miembros de los cuerpos de policías locales y los policías en los ayuntamientos que no hayan constituido cuerpo de policía local, para cumplir sus funciones, percibirán unas retribuciones justas y adecuadas a su nivel de formación, dedicación, incompatibilidad y especial riesgo, así como en consideración a la especificidad de sus horarios y estructura. La consejería competente en materia de coordinación de policías locales promoverá la homogeneización de los conceptos retributivos de los diferentes cuerpos.
+2. Las retribuciones básicas se fijarán de conformidad con lo que prevé la normativa básica estatal.
+3. Las retribuciones complementarias que fije cada ayuntamiento en los límites que establece la legislación vigente, una vez negociadas con los sindicatos, establecerán y cuantificarán las peculiaridades de las diferentes categorías profesionales y la especificidad de los puestos de trabajo.
+En caso de que la retribución complementaria esté sujeta a la valoración del cumplimiento de los agentes de policía local, ésta atenderá a criterios objetivos y no cuantitativos.
+Se modifica el apartado 3 por el art. 42.4 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a4-4
+
+### Artículo 52
+
+Artículo 52. Premios y distinciones.
+1. En los términos que se establezcan reglamentariamente, el Gobierno de las Illes Balears puede otorgar premios y distinciones a los miembros de las policías locales de la comunidad autónoma de las Illes Balears que se distingan notoriamente en el ejercicio de sus funciones y a las personas y organizaciones que destaquen por su colaboración en el logro de los objetivos relacionados con los cuerpos de policía local.
+2. Cada ayuntamiento puede regular el otorgamiento de otros premios y distinciones en los términos que considere oportunos, siempre que respondan a criterios de igualdad, mérito y objetividad.
+3. Los honores y las distinciones tienen que figurar en el Registro de Policías Locales que prevé esta ley, con el informe previo sobre la idoneidad, y han de ser valorados como méritos en los procedimientos de selección y provisión de puestos de trabajo.
+Se modifican los apartados 1 y 3 por el art. 36.1 y 2 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 53
+
+Artículo 53. Prestación del servicio.
+1. Corresponde a los ayuntamientos determinar el régimen de prestación del servicio de los miembros de los cuerpos de policía local y de los policías en los ayuntamientos que no hayan constituido cuerpo de policía local, de manera que permitan combinar las exigencias propias de la especificidad del servicio policial con el régimen de descanso y permisos individuales.
+2. Corresponde a los alcaldes determinar motivadamente las circunstancias especiales de urgencia y necesidad que permitan suspender temporalmente el régimen de descanso y los permisos previamente establecidos.
+3. En el caso de embarazo de las funcionarias de los cuerpos de policía local o de funcionarias policías de los ayuntamientos que no tengan constituido cuerpo de policía local, les será de aplicación lo que dispone la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, en materia de protección de la maternidad.
+4. El establecimiento de la jornada, el horario, los descansos y el resto de condiciones de trabajo serán objeto de negociación con los representantes sindicales en los términos previstos por la legislación vigente.
+En particular, serán objeto de negociación el régimen de compensación del servicio de los agentes de la policía local en días festivos y durante el horario nocturno, así como la compensación por asistencia una sede judicial en calidad de investigado, testimonio o perjudicado o para una práctica forense fuera de la jornada laboral. A falta de aprobación, será de aplicación subsidiaria el régimen aprobado para el personal funcionario al servicio de la Administración de la comunidad autónoma de las Illes Balears representado en la Mesa Sectorial de Servicios Generales.
+Se modifica el apartado 4 por el art. 42.5 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a4-4
+
+### Artículo 54
+
+Artículo 54. Deberes.
+Sin perjuicio de lo que establece la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad, además de los que les corresponden por su condición de funcionarios de la administración local, los miembros de los cuerpos de policía local y los policías en los ayuntamientos que no hayan constituido cuerpo de policía local deben cumplir los deberes que prevé esta ley y, en particular, los siguientes:
+a) Actuar con la dignidad y la integridad inherentes al ejercicio de su función.
+b) Obedecer y ejecutar las órdenes de sus superiores jerárquicos, siempre que no constituyan un ilícito penal o sean contrarias al ordenamiento jurídico.
+c) Llevar a cabo sus funciones con la dedicación debida e intervenir, en todo momento y lugar, estén o no de servicio, en defensa de la legalidad y la seguridad ciudadana y para evitar cualquier tipo de delito o falta.
+d) Observar una conducta ajustada a la dignidad de la profesión, tratando con respeto a los ciudadanos.
+e) Saludar reglamentariamente a las autoridades locales, autonómicas y estatales, los símbolos e himnos oficiales en actos de carácter oficial, así como a cualquier ciudadano al cual se dirijan.
+f) Presentarse en perfecto estado de uniformidad y limpieza personal y mantener en buen estado de conservación tanto el vestuario como los equipos que les sean entregados o encomendados para su uso o custodia.
+g) Cumplir íntegramente la jornada de trabajo, excepto en los casos reglamentariamente previstos o por causas excepcionales debidamente justificadas, en que tienen que comunicarlo previamente a su superior jerárquico, y, si eso no fuera posible, en el menor tiempo posible después de abandonar el servicio.
+h) Dar apoyo a sus compañeros y al resto de miembros de las fuerzas y cuerpos de seguridad cuando sean requeridos o cuando sea necesario que intervengan.
+i) Informar a los detenidos de sus derechos.
+j) No utilizar el arma, excepto en los casos y en la forma que prevé la normativa aplicable.
+k) Abstenerse de consumir bebidas alcohólicas o drogas tóxicas o estupefacientes durante la prestación del servicio, así como incorporarse al servicio bajo su influencia.
+l) Mantener en el servicio una actitud de vigilancia activa e informar a sus superiores de las incidencias que se produzcan.
+m) En la realización de los servicios, el de más categoría asumirá la iniciativa y la responsabilidad de los mismos. En caso de igualdad de categoría, asumirá la iniciativa y la responsabilidad el de más antigüedad, a no ser que la persona a quien corresponda efectúe la designación expresamente.
+n) Respetar el derecho de los ciudadanos a dirigírseles en cualquiera de las lenguas oficiales de las Illes Balears.
+
+## CAPÍTULO II
+
+La segunda actividad
+
+### Artículo 55
+
+Artículo 55. Concepto y características.
+1. La segunda actividad es la modalidad de la situación administrativa de servicio activo de los funcionarios de los cuerpos de policía local o de los policías en los ayuntamientos que no hayan constituido cuerpo de policía local que tiene por objeto fundamental garantizar una adecuada aptitud psicofísica para prestar los servicios con eficacia.
+2. Se permanece en segunda actividad hasta que se pase a la jubilación o a otra situación, que no puede ser la de servicio activo, a no ser que se haya pasado a la situación de segunda actividad por insuficiencia de las aptitudes psicofísicas.
+3. La situación de segunda actividad puede ser con destino o sin destino, de acuerdo con lo que se fija en esta ley.
+4. Los funcionarios y las funcionarias declarados en segunda actividad con destino quedan, hasta que lleguen a la edad de jubilación, a disposición del alcalde o de la alcaldesa como regla general, excepto en el caso de que exista algún impedimento debido a la insuficiencia de las aptitudes psicofísicas, para llevar cubrir las necesidades del servicio de vigilancia que se requiera en los edificios oficiales de los ayuntamientos con la finalidad de limitar su gasto. Asimismo, quedarán también a disposición del alcalde o de la alcaldesa para llevar a cabo las funciones policiales que se les puedan encomendar cuando lo requieran razones extraordinarias del servicio y mientras persistan estas razones. En ambos casos han de percibir las retribuciones correspondientes al personal en servicio activo.
+5. En la situación de segunda actividad se mantiene la categoría que se poseía en el momento de producirse el paso a la segunda actividad.
+Se modifican los apartados 3 a 5 y se suprime el 6 por el art. 37 Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 56
+
+Artículo 56. Causas.
+Las causas por las cuales se puede pasar a la situación de segunda actividad son las siguientes:
+a) El cumplimiento de las edades que se determinan para cada escala en el artículo 57 siguiente.
+b) La petición de la persona interesada, en las condiciones que señala el artículo 58 siguiente y en el marco de la normativa estatal básica.
+c) La insuficiencia de las aptitudes psicofísicas para desarrollar la función policial, en los términos que prevé el artículo 59 siguiente.
+Se modifica la letra b) por el art. 38 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 57
+
+Artículo 57. Por razón de edad.
+1. El paso a la situación de segunda actividad por razón de edad solo puede ser con destino, y se produce a solicitud de la persona interesada siempre que se haya estado en situación de activo y prestando servicio durante un mínimo de quince años, de los cuales cinco tienen que ser inmediatamente anteriores a la fecha de la petición, y al cumplir las edades siguientes:
+a) Escala técnica: 60 años.
+b) Escala ejecutiva: 58 años.
+c) Escala básica: 56 años.
+2. Al efecto de poder acceder a la situación de segunda actividad por razón de edad con destino, el ayuntamiento podrá prever, en su plantilla o relación de puestos de trabajo, una reserva de puestos de trabajo para esta finalidad. Estos puestos pueden estar ubicados en las áreas orgánicas relacionadas con seguridad y policía o en cualquier otra, siempre que correspondan a funciones y cometidos relacionados con el grupo de titulación al que pertenezca el personal funcionario afectado.
+Se modifica el apartado 1 y se suprime el 3 por la disposición final 2.1 y 2 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+ Téngase en cuenta, en relación al régimen transitorio de la situación de segunda actividad sin destino, la disposición transitoria 5 de la citada ley.
+ Se modifica por el art. 39 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 58
+
+Artículo 58. Por petición de la persona interesada.
+1. El pase a la situación de segunda actividad, a petición de la persona interesada, exige haber cumplido 35 años efectivos en situación de servicio activo en los cuerpos y fuerzas de seguridad o en el ejército militar profesional, servicios especiales o situación de excedencia forzosa. Esta modalidad de segunda actividad solo puede ser sin destino.
+2. También pueden pasar a esta situación los funcionarios de la policía local que hayan cumplido 32 de servicio efectivo, de los cuales quince tienen que haber sido de servicio activo al frente de la jefatura del cuerpo del ayuntamiento en el que soliciten el paso a la segunda actividad y siempre con la autorización del ayuntamiento.
+3. Cada ayuntamiento tiene que fijar, antes del día 31 de diciembre de cada año, el número máximo de funcionarios del cuerpo de policía local, por categorías, o de los policías en los ayuntamientos que no hayan constituido cuerpo de policía local, que se autoriza que pasen a la situación de segunda actividad de manera voluntaria durante el año siguiente, atendiendo los criterios de edad de los peticionarios, la disponibilidad de personal y las necesidades del cuerpo de policía local del ayuntamiento.
+Se modifica el apartado 1 por el art. 40 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 59
+
+Artículo 59. Por insuficiencia de las aptitudes psicofísicas.
+1. En cualquier momento, los miembros de las policías locales, por enfermedad o accidente, cuando sus condiciones físicas o psíquicas así lo aconsejen y no sean susceptibles de ser declarados en situación de invalidez permanente absoluta, podrán pasar a ocupar destinos calificados de segunda actividad, siempre que se adecuen a este artículo, con la finalidad de garantizar la plena aptitud psicofísica de la persona, así como la eficacia en el servicio.
+2. A este efecto se tiene que constituir un tribunal facultativo con tres médicos: uno designado por el ayuntamiento, otro por la persona interesada y el tercero por la consejería competente en materia de salud. Este tribunal debe emitir un dictamen vinculante en que indique la conveniencia o no del hecho de pasar a la situación de segunda actividad, y debe indicar si es con destino o, excepcionalmente, sin, con los posibles plazos de revisión, si procede. Este dictamen se elevará al órgano municipal competente para que dicte una resolución motivada, contra la que se pueden interponer los recursos oportunos. A los miembros del tribunal les es aplicable lo que prevé en materia de recusación y abstención la legislación reguladora del procedimiento administrativo común.
+3. Se puede acordar, de oficio o a solicitud de la persona interesada, el reingreso al servicio activo, en el caso de que hayan desaparecido las causas que motivaron la disminución de la aptitud psicofísica o sensorial, con el dictamen médico previo en los términos del apartado anterior.
+Se modifica el apartado 3 por el art. 41 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 60
+
+Artículo 60. Retribuciones.
+1. En caso de que se pase a la situación de segunda actividad por petición de la persona interesada, en el supuesto que prevé el artículo 58 anterior, se percibirá el cien por cien de las retribuciones básicas y el 60% de las retribuciones complementarias.
+2. El personal funcionario afectado por el hecho de pasar a la segunda actividad con destino ha de percibir las retribuciones propias del puesto de trabajo efectivamente desarrollado, y se le han de garantizar en todo caso las correspondientes a su último puesto de trabajo, incluidas las actualizaciones.
+3. En caso de que pase a la situación de segunda actividad sin destino, por insuficiencia de las aptitudes psicofísicas, se percibirá el cien por cien de las retribuciones básicas y el 65% de las complementarias, a menos que sea por causa de enfermedad profesional o accidente de trabajo; en este último caso se percibirá el cien por cien de las retribuciones complementarias.
+Se suprimen los apartados 1 a 3 y se renumeran los apartados 3 a 6 como 1 a 3 por la disposición final 2.3 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+ Téngase en cuenta, en relación al régimen transitorio de la situación de segunda actividad sin destino, la disposición transitoria 5 de la citada ley.
+ Se modifica el apartado 4 por el art. 42 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 61
+
+Artículo 61. Régimen disciplinario y de incompatibilidad.
+1. Los funcionarios de los cuerpos de policía local o los policías en los ayuntamientos que no hayan constituido cuerpo de policía local en situación de segunda actividad con destino están sujetos al mismo régimen disciplinario y de incompatibilidad que los funcionarios de la policía local en activo.
+2. Los funcionarios de los cuerpos de policía local o los policías en los ayuntamientos que no hayan constituido cuerpo de policía local en situación de segunda actividad sin destino están sometidos al régimen general de la función pública.
+3. El ejercicio de actividades conexas con las funciones desarrolladas en los últimos dos años inmediatamente anteriores al paso a la situación de segunda actividad será autorizado por el alcalde o la alcaldesa.
+
+## CAPÍTULO III
+
+Jubilación
+
+### Artículo 62
+
+Artículo 62. Jubilación.
+La jubilación forzosa de los miembros de la policía local o policías en los ayuntamientos que no hayan constituido cuerpo de policía local se ha de ajustar a lo que dispone la legislación estatal básica aplicable a las policías locales. En el caso de que se regule la jubilación parcial anticipada para el personal funcionario público se ha de producir una adecuación reglamentaria para compatibilizar la segunda actividad.
+Se modifica por el art. 43 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+## TÍTULO VII
+
+Régimen disciplinario
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 63
+
+Artículo 63. Régimen aplicable.
+1. El régimen disciplinario de los miembros de los cuerpos de policía local y policías en los ayuntamientos que no hayan constituido cuerpos de policía local de las Illes Balears se ha de ajustar a lo que establece la Ley Orgánica 4/2010, de 20 de mayo, del régimen disciplinario del Cuerpo Nacional de Policía, de acuerdo con lo previsto en la legislación orgánica reguladora de las fuerzas y cuerpos de seguridad, con la correspondiente adaptación a los cuerpos de la policía local, y a lo que dispone esta ley.
+2. Las normas reguladoras del régimen disciplinario del personal al servicio de la Administración de la comunidad autónoma de las Illes Balears son de aplicación supletoria en todo lo que no prevén esta ley y las disposiciones reglamentarias que la desplieguen.
+3. A los funcionarios en prácticas les es aplicable lo que disponen esta ley y el resto de normativa de aplicación en materia de régimen disciplinario para los funcionarios de carrera.
+Se modifica el apartado 1 por el art. 44 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 64
+
+Artículo 64. Responsabilidad civil y penal.
+El régimen disciplinario que establece esta ley se entiende sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los funcionarios de los cuerpos de policía local y los policías en los ayuntamientos que no hayan constituido cuerpo de policía local, que se hará efectiva en la forma legalmente establecida.
+
+### Artículo 65
+
+Artículo 65. Comunicación de infracciones.
+Los miembros de los cuerpos de policía local y los policías en los ayuntamientos que no hayan constituido cuerpo de policía local tienen la obligación de comunicar por escrito a su superior jerárquico los hechos de los cuales tengan conocimiento que consideren constitutivos de faltas graves y muy graves, excepto cuando éste sea el presunto infractor; en este caso, la comunicación se realizará al inmediatamente superior al presunto infractor.
+
+### Artículo 66
+
+Artículo 66. Extensión de la responsabilidad.
+1. Los miembros de los cuerpos de policía local y policías en los ayuntamientos que no hayan constituido cuerpo de policía local que induzcan a otros a cometer actos o tener conductas constitutivas de falta disciplinaria incurren en la misma responsabilidad que el autor de la falta.
+2. Los miembros de los cuerpos de policía local y policías en los ayuntamientos que no hayan constituido cuerpo de policía local que encubran las faltas muy graves y graves consumadas y los mandos que las toleren incurren en falta de un grado inferior. Se entiende por encubrimiento no dar cuenta por escrito a la persona jerárquicamente superior, de forma inmediata, de los hechos constitutivos de falta muy grave o grave de las que se tenga conocimiento.
+Se modifica por el art. 45 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+## CAPÍTULO II
+
+Infracciones, sanciones y potestad sancionadora
+
+## Sección 1
+
+Sección 1.ª Infracciones disciplinarias
+
+### Artículo 67
+
+Artículo 67. Faltas disciplinarias.
+Las faltas disciplinarias en que pueden incurrir los miembros de los cuerpos de policía local y los policías en los ayuntamientos que no hayan constituido cuerpo de policía local pueden ser muy graves, graves o leves.
+
+### Artículo 68
+
+Artículo 68. Faltas muy graves.
+Son faltas muy graves:
+a) El incumplimiento del deber de fidelidad a la Constitución o al Estatuto de Autonomía de las Illes Balears en el ejercicio de sus funciones.
+b) Haber sido condenado en virtud de sentencia firme por un delito doloso relacionado con el servicio o que cause grave perjuicio a la administración o a las personas.
+c) El abuso de atribuciones que cause grave perjuicio a los ciudadanos, a los subordinados, a la administración o a las entidades con personalidad jurídica.
+d) La práctica de tratos inhumanos, degradantes, discriminatorios o vejatorios a los ciudadanos que se encuentren bajo custodia policial.
+e) La insubordinación individual o colectiva respecto de las autoridades o mandos de que dependen.
+f) El abandono del servicio, excepto si hay una causa de fuerza mayor que impida comunicarlo a un superior.
+g) La publicación o la utilización indebida de secretos oficiales, así declarados de acuerdo con la legislación específica en esta materia.
+h) La violación del secreto profesional cuando perjudique el desarrollo de la labor policial, a cualquier ciudadano o a las entidades con personalidad jurídica.
+i) El incumplimiento de las normas sobre incompatibilidades cuando dé lugar a una situación de incompatibilidad.
+j) La participación en huelgas, en acciones sustitutivas de estas o en actuaciones concertadas con la finalidad de alterar el normal funcionamiento de los servicios.
+k) La falta de colaboración manifiesta con otros miembros de las fuerzas y cuerpos de seguridad, cuando resulte gravemente perjudicado el servicio o se deriven consecuencias graves para la seguridad ciudadana.
+l) Embriagarse o consumir drogas tóxicas, estupefacientes o sustancias psicotrópicas durante el servicio o realizarlo en estado de embriaguez o bajo los efectos manifiestos de dichos productos.
+m) La negativa injustificada a someterse a reconocimientos médicos o a la prueba de alcoholemia o de detección de drogas tóxicas, estupefacientes o sustancias psicotrópicas, legítimamente ordenadas, con la finalidad de constatar la capacidad psicofísica para prestar servicio.
+n) Toda actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual, sexo, lengua, opinión, lugar de nacimiento o vecindad o cualquier otra condición o circunstancia personal o social.
+o) El acoso sexual y el laboral, consistente este último en la realización reiterada, en el marco de una relación de servicio, de actos de acoso psicológico o de hostilidad.
+p) La obstaculización grave en el ejercicio de las libertades públicas y derechos sindicales.
+q) Las infracciones tipificadas como muy graves en la legislación sobre utilización de videocámaras por los cuerpos de policía local en lugares públicos.
+
+### Artículo 69
+
+Artículo 69. Faltas graves.
+Son faltas graves:
+a) La desconsideración grave con los superiores, compañeros, subordinados o ciudadanos, en el ejercicio de sus funciones o cuando causen descrédito notorio a la institución policial.
+b) La desobediencia a los superiores jerárquicos o a los responsables del servicio con motivo de las órdenes o instrucciones legítimas de estos, excepto si constituyen infracción grave del ordenamiento jurídico.
+c) La omisión de la obligación de dar cuenta por escrito a la superioridad con la diligencia debida de todo asunto que por su entidad requiera su conocimiento o urgente decisión.
+d) La falta de presentación o puesta a disposición inmediata en la dependencia de destino en los supuestos de alteración grave de la seguridad ciudadana, cuando así se disponga.
+e) La tercera falta injustificada de asistencia al servicio en un periodo de tres meses cuando los dos anteriores hayan sido sancionados con sanción firme por falta leve.
+f) No prestar servicio, alegando supuesta enfermedad.
+g) La falta de rendimiento reiterada que ocasione un perjuicio a los ciudadanos, a las entidades con personalidad jurídica o a la eficiencia de los servicios.
+h) El abuso de atribuciones cuando no constituya falta muy grave.
+i) La emisión de informes sobre asuntos de servicio que, sin faltar abiertamente a la verdad, la desnaturalicen utilizando términos ambiguos, que causen confusión o tendenciosos, o lo alteren mediante inexactitudes, cuando causen perjuicio a la administración o a los ciudadanos, siempre que el hecho no constituya infracción muy grave.
+j) La intervención en un procedimiento administrativo cuando concurra alguna causa legal de abstención.
+k) No llevar en los actos de servicio el uniforme reglamentario, cuando sea preceptivo su uso, los distintivos de la categoría o el cargo, el arma reglamentaria o los medios de protección o acción que se determinen, excepto autorización en contra.
+l) Exhibir armas sin causa justificada, así como su utilización en acto de servicio o fuera de servicio, con infracción de las normas que regulan su uso.
+m) Dar lugar al extravío, la pérdida o la sustracción por negligencia inexcusable de los distintivos de identificación o del arma reglamentaria.
+n) Asistir de uniforme a cualquier manifestación o reunión pública, a no ser que se trate de actos de servicio o actos oficiales para los cuales se ha recibido autorización.
+o) Causar, por negligencia inexcusable, perjuicios graves en la conservación de los locales, del material o del resto de elementos relacionados con el servicio o dar lugar a la pérdida o sustracción de aquellos.
+p) Impedir, limitar u obstaculizar a los subordinados el ejercicio de los derechos que tengan reconocidos, siempre que no constituya falta muy grave.
+q) Embriagarse o consumir drogas tóxicas, estupefacientes o sustancias psicotrópicas fuera del servicio cuando sea con carácter habitual o afecten a la imagen del cuerpo. Se entiende que hay habitualidad cuando se acrediten tres o más episodios de embriaguez o consumo de dichas sustancias en un periodo de un año.
+r) La tenencia de drogas tóxicas, estupefacientes o sustancias psicotrópicas, excepto cuando se derive de actuaciones propias del servicio.
+s) Solicitar y obtener cambios de destinación mediante cualquier recompensa, ánimo de lucro o falseando las condiciones que los regulan.
+t) Utilizar para usos no relacionados con el servicio o para este, o sin que haya una causa justificada, medios o recursos inherentes a la función policial, o autorizar su utilización.
+u) Las infracciones de lo que dispone la legislación vigente sobre utilización de videocámaras por los cuerpos y fuerzas de seguridad en lugares públicos, cuando no constituya falta muy grave.
+v) El incumplimiento de los plazos u otras disposiciones de procedimiento en materia de incompatibilidades, cuando no supongan mantenimiento de una situación de incompatibilidad.
+w) La violación del secreto profesional cuando no perjudique el desarrollo de la labor policial, a las entidades con personalidad jurídica o a cualquier ciudadano.
+x) La falta de colaboración manifiesta con otros miembros de los cuerpos y fuerzas de seguridad, siempre que no se pueda calificar como falta muy grave.
+y) La infracción de deberes u obligaciones legales inherentes al cargo o a la función policial, cuando se produzcan de forma grave y manifiesta.
+z) Ser condenado o condenada en virtud de sentencia firme por delito doloso, siempre que no constituya infracción muy grave, o por una falta dolosa o delito leve doloso cuando la infracción penal esté relacionada con el servicio.
+aa) La no prestación de auxilio con urgencia en hechos o circunstancias en que sea obligada su actuación, a no ser que sea constitutivo de delito.
+ab) La infracción de las normas de prevención de riesgos laborales que pongan en grave riesgo la vida, la salud o la integridad física, propia o de sus compañeros o subordinados.
+ac) La negativa reiterada a tramitar cualquier solicitud, reclamación o queja relacionada con el servicio, siempre que no constituya falta leve.
+Se modifica la letra z) por el art. 46 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 70
+
+Artículo 70. Faltas leves.
+Son faltas leves:
+a) El retraso o la negligencia en el cumplimiento de las funciones y órdenes recibidas.
+b) La incorrección con los ciudadanos o con otros miembros de los cuerpos y fuerzas de seguridad, siempre que no merezca una calificación más grave.
+c) La falta de asistencia al servicio que no constituya falta más grave y el incumplimiento de la jornada de trabajo, así como las faltas repetidas de puntualidad, en los treinta días precedentes.
+d) El descuido o el mal uso de los bienes de equipo y en la conservación de las instalaciones, los materiales, los vehículos y otros elementos del servicio, cuando no merezca una consideración más grave.
+e) La pérdida o sustracción, por simple negligencia, de los distintivos de identificación, del arma reglamentaria o de otros medios o recursos destinados a la función policial.
+f) La exhibición de los distintivos de identificación sin causa justificada.
+g) El hecho de prescindir del conducto reglamentario al formular cualquier solicitud o reclamación, excepto en el caso de urgencia o imposibilidad física, así como la interrupción de la tramitación a la persona destinataria. Quedan exceptuadas del conducto reglamentario las que formulan los representantes de las organizaciones sindicales en el ejercicio de la actividad sindical.
+h) El descuido en la presentación y la limpieza personal y el incumplimiento de las normas de uniformidad.
+i) La ausencia injustificada de cualquier servicio, cuando no merezca una consideración más grave.
+j) La omisión intencionada de saludo a un o a una superior, que no la devuelva o la infracción de las normas que la regulen.
+k) La práctica de cualquier clase de juego que se lleve a cabo en las dependencias policiales, siempre que perjudique la prestación del servicio o menoscabe la imagen policial.
+l) Ostentar insignias, condecoraciones u otros distintivos, sin autorización, cuando no merezca una consideración más grave.
+m) Ser condenado o condenada en virtud de sentencia firme por falta dolosa o delito leve doloso cuando la infracción penal cause perjuicio a la administración o a los administrados.
+Se modifican las letras j), k) y m) por el art. 47 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+## Sección 2
+
+Sección 2.ª Sanciones disciplinarias
+
+### Artículo 71
+
+Artículo 71. Sanciones.
+1. Las sanciones que se pueden imponer por la comisión de faltas muy graves son:
+a) La separación del servicio.
+b) La suspensión de funciones y la pérdida de remuneraciones desde tres meses y un día hasta un máximo de seis años.
+2. Por faltas graves se puede imponer la sanción de suspensión de funciones y pérdida de remuneraciones desde cinco días hasta tres meses.
+3. Las sanciones que se pueden imponer por la comisión de faltas leves son:
+a) La suspensión de funciones y la pérdida de la remuneración de uno a cuatro días.
+b) La advertencia.
+4. En los casos de infracciones muy graves o graves se puede imponer la sanción accesoria de cambio de destino dentro de la estructura de cada cuerpo cuando se motive adecuadamente y por un hecho que haya afectado o pueda afectar el funcionamiento normal de los destinos.
+Se modifica el apartado 1.a) por el art. 48 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 72
+
+Artículo 72. Criterios de gradación de sanciones.
+Para graduar la sanción y actuando bajo el principio de proporcionalidad, se tendrán en cuenta los siguientes criterios:
+a) La intencionalidad.
+b) La reincidencia. Hay reincidencia cuando el funcionario, en el momento de la comisión de la falta, ya ha sido sancionado con anterioridad en resolución firme por otra falta de más gravedad o por dos de igual o inferior gravedad y no han sido canceladas. A los efectos de la reincidencia, no se computarán los antecedentes disciplinarios cancelados o que tengan que serlo.
+c) El historial profesional, que, a estos efectos, solo se puede valorar como circunstancia atenuante.
+d) La incidencia sobre la seguridad ciudadana.
+e) La perturbación en el funcionamiento normal de la administración o de los servicios que le sean encomendados.
+f) El grado de afectación a los principios de disciplina, jerarquía y subordinación.
+g) En el caso de los artículos 68.b) y 69.z) se ha de valorar específicamente la cuantía o entidad de la pena impuesta en virtud de sentencia firme, así como la relación de la conducta delictiva con las funciones policiales.
+Se modifica la letra g) por el art. 49 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+## Sección 3
+
+Sección 3.ª Potestad sancionadora
+
+### Artículo 73
+
+Artículo 73. Competencia sancionadora.
+1. Corresponde al órgano competente del ayuntamiento incoar los expedientes disciplinarios e imponer las sanciones por la comisión de las faltas muy graves, graves y leves a los miembros de los cuerpos de policía local o a los policías en los ayuntamientos que no hayan constituido cuerpo de policía local.
+2. Corresponde a la consejería competente en materia de formación de policías locales incoar y resolver los expedientes disciplinarios que se puedan originar durante la realización de los cursos de capacitación de las diferentes categorías en la Escuela Balear de Administración Pública.
+
+## CAPÍTULO III
+
+Extinción y prescripción
+
+### Artículo 74
+
+Artículo 74. Extinción de la responsabilidad.
+1. La responsabilidad disciplinaria se extingue por el cumplimiento de la sanción, por la muerte de la persona responsable y por la prescripción de la falta o de la sanción.
+2. Si durante la sustanciación del procedimiento sancionador se produce la pérdida o el cese en la condición del funcionario sometido al expediente, se dictará una resolución en la cual, con invocación de la causa, se declarará extinguido el procedimiento sancionador, sin perjuicio de la responsabilidad civil o penal que se pueda exigir, y se ordenará el archivo de las actuaciones, salvo que por la parte interesada se inste la continuación del procedimiento o se instruya por falta muy grave; en este caso, se continuará hasta su resolución. También se dejarán sin efecto las medidas cautelares adoptadas en relación con el funcionario.
+
+### Artículo 75
+
+Artículo 75. Prescripción de las faltas.
+1. Las faltas muy graves prescriben a los tres años; las graves, a los dos años; y las leves, al mes.
+2. El plazo de prescripción se empieza a contar desde que la falta se haya cometido, a no ser que esta derive de hechos que hayan sido objeto de condena por delito doloso; en este caso, el plazo se empezará a contar desde la fecha de la firmeza de la sentencia condenatoria.
+3. La prescripción se interrumpe por el inicio del procedimiento; a estos efectos, la resolución que disponga la iniciación será debidamente registrada y notificada al funcionario expedientado o publicada, siempre que este no sea localizado. El plazo de prescripción se reprenderá si el procedimiento se paraliza durante más de seis meses por causa no imputable al funcionario sometido a expediente.
+4. Cuando se inicie un procedimiento penal contra un funcionario de los cuerpos de policía local o policías auxiliares, la prescripción de las infracciones disciplinarias se suspenderá por la incoación del procedimiento, aunque no se haya tomado ninguna medida disciplinaria. En estos supuestos, el plazo volverá a computar desde la fecha de la firmeza de la resolución judicial.
+
+### Artículo 76
+
+Artículo 76. Prescripción de las sanciones.
+1. Las sanciones muy graves prescriben a los tres años; las graves, a los dos años; y las leves, al mes. El plazo de prescripción de las sanciones se empieza a contar desde el día siguiente al que se convierta en firme.
+2. En caso de concurrencia de diferentes sanciones, el plazo de prescripción de las sanciones firmes que estén pendientes de cumplimiento se empieza a contar desde el día siguiente al que quede extinguida la sanción que la precede en el orden de cumplimiento señalado en lo que se ha citado, o, en su caso, desde la fecha en que se haya producido la inejecución de la sanción.
+3. El cumplimiento de los plazos de prescripción de la sanción determina la cancelación de las anotaciones correspondientes en el expediente personal. Transcurrido el plazo para la prescripción de la sanción, el órgano competente lo acordará de oficio y lo notificará a los interesados.
+
+## CAPÍTULO IV
+
+Procedimientos disciplinarios
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 77
+
+Artículo 77. Principios inspiradores del procedimiento.
+El procedimiento sancionador de los miembros de los cuerpos de policía local y de los policías en los ayuntamientos que no hayan constituido cuerpo de policía local se tiene que ajustar a los principios de legalidad, impulso de oficio, imparcialidad, agilidad, eficacia, publicidad, contradicción, irretroactividad, tipicidad, responsabilidad, proporcionalidad y concurrencia de sanciones, y comprende los derechos a la presunción de inocencia, información, defensa y audiencia.
+
+### Artículo 78
+
+Artículo 78. Reglas básicas procedimentales.
+1. Únicamente se pueden imponer sanciones disciplinarias a los funcionarios de los cuerpos de policía local y policías en los ayuntamientos que no hayan constituido cuerpo de policía local en virtud de un procedimiento disciplinario instruido a este efecto y con sujeción a lo dispuesto por esta ley.
+2. La iniciación de un procedimiento penal contra funcionarios de los cuerpos de policía local y policías en los ayuntamientos que no hayan constituido cuerpo de policía local no impide la incoación de procedimientos disciplinarios por los mismos hechos. No obstante, su resolución definitiva solo se producirá cuando la sentencia penal sea firme y la declaración de hechos probados que contenga vinculará a la administración.
+3. Solo podrán recaer sanciones penal y administrativa sobre los mismos hechos cuando no haya identidad de fundamento jurídico y bien jurídico protegido.
+
+### Artículo 79
+
+Artículo 79. Inicio del procedimiento y derecho de defensa.
+1. El procedimiento se iniciará siempre de oficio, por acuerdo del órgano competente, a iniciativa propia, como consecuencia de orden superior, moción razonada de los subordinados o denuncia.
+2. Los órganos competentes para imponer una sanción lo son también para acordar la incoación del procedimiento correspondiente.
+3. En el momento en que se notifique la iniciación de un procedimiento disciplinario, se informará al funcionario o a la funcionaria sometido a expediente de su derecho a ser asistido, para defender sus intereses, por un abogado o abogada o la persona que considere conveniente.
+4. Si el procedimiento se ha iniciado como consecuencia de una denuncia, se ha de comunicar a la persona firmante el acuerdo de inicio. Igualmente, se le ha de notificar el archivo de la denuncia, en su caso.
+5. Con carácter previo al inicio del procedimiento, el órgano competente para resolver puede acordar la práctica de una información reservada para esclarecer los hechos y los presuntos responsables. Esta información reservada pasará a formar parte del expediente.
+Se modifican los apartados 3,4 y se añade el 5 por el art. 50.1 y 2 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 80
+
+Artículo 80. Nombramiento de instructor y secretario.
+1. En la resolución por la cual se dispone el inicio del procedimiento se nombrará a una persona instructora y una persona secretaria, que serán los encargados de tramitar el procedimiento.
+2. Excepto en los casos de necesidad extraordinaria y urgente en los que el ayuntamiento tenga que nombrar inmediatamente a una persona instructora para garantizar el inicio del procedimiento disciplinario y la adopción de las medidas provisionales necesarias para la protección de los intereses implicados, cuando se trate de procedimientos disciplinarios por faltas muy graves o graves, este nombramiento podrá recaer en una persona inscrita en la bolsa que, a estos efectos, gestiona la dirección general competente en materia de coordinación de policías locales y que deberá percibir las indemnizaciones por razón del servicio que corresponden a las personas asesoras especialistas de los órganos de selección de personal.
+3. Puede ser nombrado secretario o secretaria cualquier funcionario o funcionaria de carrera del ayuntamiento al cual pertenezca el policía local sometido al procedimiento disciplinario.
+Se modifica el apartado 2 por el art. 51 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 81
+
+Artículo 81. Abstención y recusación.
+1. A la persona instructora y al secretario o secretaria les serán de aplicación las normas sobre abstención y recusación que establecen los artículos 28 y 29 de la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común.
+2. El derecho de recusación se puede ejercitar desde el momento en que el interesado tenga conocimiento de quienes son el instructor y el secretario.
+3. La abstención y la recusación se plantearán ante el órgano que acordó el nombramiento, el cual resolverá en el plazo de tres días.
+4. Contra las resoluciones adoptadas no es posible ningún recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que corresponda contra el acto que finaliza definitivamente el procedimiento.
+
+### Artículo 82
+
+Artículo 82. Prueba.
+1. Los hechos relevantes para la decisión del procedimiento se pueden acreditar por cualquier medio de prueba admisible en derecho.
+2. Cuando se proponga una prueba testifical, se acompañará con un pliego de preguntas sobre las que la persona instructora decidirá su pertinencia. La práctica de la prueba admitida se notificará previamente al funcionario o funcionaria expedientado indicándole el lugar, la fecha y la hora en que se realizará y se le informará del hecho de que puede asistir a la misma.
+3. La persona instructora puede denegar de oficio la práctica de las pruebas que no se concreten en los hechos o que considere impertinentes o inútiles, denegación que se tiene que motivar y contra la que no se puede interponer ningún recurso.
+4. Todos los organismos y dependencias de las administraciones públicas están obligados a facilitar al instructor los antecedentes e informes necesarios, así como los medios materiales y humanos que necesite para el desarrollo del procedimiento, a no ser que haya un precepto legal que lo impida.
+5. La intervención de la persona instructora en todas las pruebas practicadas es esencial y no puede ser suplida por la del secretario o la secretaria; en caso contrario, estas se considerarán nulas, sin perjuicio de que la persona instructora pueda interesar la práctica de otras diligencias de cualquier órgano de las administraciones públicas.
+Se añade el apartado 5 por el art. 52 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 83
+
+Artículo 83. Vista del expediente y copia de las actuaciones.
+La persona instructora está obligada a dar vista al funcionario sometido a expediente, a petición del mismo, de las actuaciones practicadas en cualquier momento del procedimiento y debe facilitarle una copia completa de las mismas cuando lo solicite.
+
+### Artículo 84
+
+Artículo 84. Información de la concurrencia de otras infracciones administrativas o penales.
+En cualquier momento del procedimiento en que la persona instructora aprecie que la presunta infracción disciplinaria puede ser calificada como infracción administrativa de otra naturaleza o como infracción penal, lo pondrá en conocimiento del órgano que haya ordenado la incoación para su comunicación a la autoridad administrativa o judicial competente o al ministerio fiscal.
+
+### Artículo 85
+
+Artículo 85. Archivo de actuaciones.
+Si en cualquier fase del procedimiento la persona instructora deduce la inexistencia de responsabilidad disciplinaria o de pruebas adecuadas para fundamentarla, propondrá una resolución de archivo de las actuaciones, con expresión de las causas que la motivan, a fin de que el órgano que lo haya incoado resuelva lo que corresponda.
+Si, iniciado el procedimiento, la persona instructora considera que la falta ha prescrito, el órgano competente resolverá la conclusión del procedimiento, con el archivo de las actuaciones, habiéndose de notificar a las personas interesadas el acuerdo o la resolución adoptados.
+
+## Sección 2
+
+Sección 2.ª Procedimiento por faltas leves
+
+### Artículo 86
+
+Artículo 86. Iniciación.
+1. Los órganos competentes para la imposición de sanciones por faltas leves pueden acordar la práctica de la información reservada prevista en el apartado 4 del artículo 79 de esta ley.
+2. El acuerdo de incoación de un procedimiento sancionador por falta leve tiene que contener los hechos que lo motivan y el nombramiento de la persona instructora y del secretario o secretaria, que se les ha de notificar, los cuales deben notificar el acuerdo al funcionario sometido al expediente, con una copia de las actuaciones recogidas en el expediente, y deben citarlo para que comparezca con el fin de ser oído en declaración.
+3. En el acto de comparecencia, el funcionario o funcionaria puede alegar y presentar los documentos y las justificaciones que considere pertinentes y proponer las pruebas que estime necesarias para su defensa.
+
+### Artículo 87
+
+Artículo 87. Propuesta y resolución.
+1. Una vez practicadas las pruebas que la persona instructora considere oportunas, formulará una propuesta de resolución en la cual fijará con precisión los hechos, su valoración jurídica con el fin de determinar, en su caso, la falta cometida, la responsabilidad del funcionario o la funcionaria sometido al expediente y la sanción que se debe imponer, y debe notificar el expediente a fin de que en el plazo de diez días pueda alegar lo que estime oportuno en defensa de sus derechos. Oído el expedientado, la propuesta de resolución se enviará al órgano competente para resolver.
+2. En la resolución que pone fin al procedimiento disciplinario, se determinará, con toda precisión, la falta que se considere que se ha cometido, con indicación del precepto que la tipifica, el funcionario o la funcionaria responsable y la sanción que se impone.
+3. La resolución se notificará a la persona expedientada, con indicación del recurso o de los recursos que se pueden interponer en contra, el órgano ante el cual se deben interponer y el plazo para presentarlos.
+4. Si en cualquier momento del procedimiento se advierte que los hechos pueden ser constitutivos de falta muy grave o grave, se debe poner en conocimiento del alcalde o de la alcaldesa en un plazo de quince días para que acuerde lo que sea procedente.
+
+## Sección 3
+
+Sección 3.ª Procedimiento por faltas graves y muy graves
+
+### Artículo 88
+
+Artículo 88. Incoación.
+El órgano competente para incoar un procedimiento disciplinario por faltas graves o muy graves, antes de dictar la resolución de inicio del procedimiento, puede acordar la práctica de la información reservada que prevé el apartado 4 del artículo 79 de esta ley.
+
+### Artículo 89
+
+Artículo 89. Medidas cautelares.
+1. Iniciado el procedimiento penal o disciplinario, si hay elementos de juicio suficientes, el alcalde o la alcaldesa puede acordar, preventivamente, de forma motivada, las medidas cautelares adecuadas para facilitar la tramitación del expediente y asegurar la eficacia de la resolución que pueda recaer.
+2. Cuando se acuerde preventivamente la suspensión provisional de funciones, se llevará a cabo con los efectos que se señalan a continuación:
+a) El funcionario o funcionaria en la situación de suspensión provisional queda privado temporalmente del ejercicio de sus funciones y de los derechos inherentes a su condición de funcionario, sin perjuicio de lo que disponen los apartados siguientes, y se procederá a recoger los distintivos de su cargo y el arma o armas, en su caso. No obstante, el alcalde o la alcaldesa podrá autorizar el uso del arma cuando circunstancias excepcionales así lo aconsejen.
+b) El tiempo de suspensión provisional, como consecuencia de un expediente disciplinario, por hechos que no son objeto de un procedimiento penal no puede exceder de tres meses en el supuesto de faltas graves y de seis meses en el supuesto de faltas muy graves, excepto en los supuestos de paralización del procedimiento imputable al interesado.
+c) Si los hechos que motivan el expediente disciplinario dan lugar también a un procedimiento penal, la suspensión provisional se mantendrá durante todo el tiempo que dure la prisión provisional u otras medidas dictadas por el juez que determinen la imposibilidad de llevar a cabo las funciones de su puesto de trabajo. En este caso, si la suspensión provisional excede de seis meses no supondrá pérdida del puesto de trabajo. No obstante, el alcalde o la alcaldesa podrá acordar, excepcionalmente, como medida preventiva, la suspensión provisional de los funcionarios sometidos a procedimiento penal, si esta medida no ha sido adoptada por la autoridad judicial y se podrá prolongar hasta la conclusión del procedimiento penal.
+d) El funcionario o la funcionaria suspendido provisionalmente tiene derecho a percibir durante la suspensión las retribuciones básicas y, si procede, las prestaciones familiares por hijos, excepto en casos de paralización del procedimiento imputable al interesado, que comportará la pérdida de toda retribución mientras se mantenga la paralización y tampoco tendrá derecho a ninguna retribución en el caso de incomparecencia en el expediente disciplinario.
+3. En la resolución definitiva del expediente se realizará una declaración expresa respecto de las medidas cautelares adoptadas durante su tramitación, declarando que se abonarán por el cumplimiento de la sanción impuesta si ésta es de suspensión de funciones, o bien, si el expediente concluye sin declaración de responsabilidad disciplinaria, computando el tiempo de suspensión provisional como de servicio activo y con reconocimiento de todos los derechos económicos, excepto si tiene que pasar a suspendido firme de funciones como consecuencia de condena criminal que afecte a su condición de funcionario y derive de los hechos que motivaron la adopción de la medida cautelar; en este caso, la suspensión provisional le será de abono para el cumplimiento de la pena, con la autorización previa del tribunal sentenciador.
+No será procedente el reconocimiento de tiempo ni de ningún derecho al afectado por la suspensión provisional si se impone la sanción de separación del servicio o se tiene que declarar la pérdida de la condición de funcionario como consecuencia de pena de inhabilitación absoluta o inhabilitaciones especiales que afecten a su condición de funcionario, derivada de condena criminal impuesta por los hechos que dieron lugar a la adopción de la suspensión provisional de funciones.
+
+### Artículo 90
+
+Artículo 90. Determinación y comprobación de los hechos.
+La persona instructora ordenará en el plazo máximo de quince días la práctica de las diligencias que sean adecuadas para la determinación, el conocimiento y la comprobación de los hechos sobre los que debe resolver y, concretamente, la práctica de las pruebas necesarias con el fin de aclarar los hechos y determinar las responsabilidades susceptibles de sanción.
+
+### Artículo 91
+
+Artículo 91. Actuaciones iniciales.
+1. En todo caso y como primeras actuaciones se debe tomar declaración al funcionario sometido al expediente, evacuar las diligencias que se derivan del orden superior, de la petición razonada de otros órganos o de la denuncia que motivó el inicio del expediente y de aquello que el funcionario manifestó en su declaración.
+2. Si el funcionario o la funcionaria es citado en plazo y forma y no comparece, excepto causa justificada, se continuarán las actuaciones del expediente.
+3. Si no se localiza a la persona expedientada, se la ha de citar por edictos que se han de publicar en el “Boletín Oficial del Estado”. Previamente y con carácter facultativo se podrá publicar en el “Boletín Oficial de las Illes Balears” y en el tablón de anuncios del ayuntamiento y se ha de indicar el plazo para comparecer. Si no lo verifica, continuarán las actuaciones del procedimiento.
+Se modifica el apartado 3 por el art. 53 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 92
+
+Artículo 92. Pliego de cargos.
+1. A la vista de las actuaciones practicadas, el instructor formulará, en su caso, en el plazo de quince días, el correspondiente pliego de cargos, el cual comprenderá los hechos dignos de sanción, su calificación jurídica y las sanciones aplicables.
+2. El pliego de cargos se redactará de manera clara y precisa y notificará a la persona expedientada con vista del expediente mediante una copia completa de las actuaciones practicadas y se le concederá un plazo de diez días para contestar, presentando las alegaciones que considere oportunas para la defensa de sus derechos y proponiendo la práctica de las pruebas que estime necesarias.
+3. Visto el resultado de las actuaciones practicadas, la persona instructora propondrá el mantenimiento o levantamiento de la medida de suspensión provisional si se ha acordado esta medida.
+
+### Artículo 93
+
+Artículo 93. Fase de prueba.
+1. Una vez contestado el pliego de cargos o habiendo transcurrido el plazo sin hacerlo, el instructor, de oficio o a instancia de parte, puede acordar que se abra un periodo de diez días para llevar a cabo las pruebas que se consideren oportunas.
+2. Se notificará previamente al funcionario o la funcionaria expedientado el lugar, la fecha y la hora en que se practicarán las pruebas y se le tiene que indicar que puede asistir a ellas.
+
+### Artículo 94
+
+Artículo 94. Traslado de actuaciones practicadas en periodo de prueba.
+1. Una vez practicadas las pruebas, se acordará dar traslado al expedientado de las actuaciones practicadas para que en el plazo de diez días alegue lo que estime oportuno en su defensa y aporte los documentos que considere de interés.
+2. Cuando la persona interesada muestre su conformidad con el pliego de cargos, no haga alegaciones o, si las ha hecho, no se acuerde la apertura del periodo de prueba, la persona instructora formulará la propuesta de resolución.
+
+### Artículo 95
+
+Artículo 95. Propuesta de resolución.
+La persona instructora, cuando considere concluido el expediente, tiene que formular la propuesta de resolución en la que se tienen que fijar con precisión los hechos, se tiene que hacer la valoración jurídica y determinar, en su caso, la infracción y la responsabilidad del expedientado, con indicación de la sanción que debe imponer.
+
+### Artículo 96
+
+Artículo 96. Alegaciones.
+La propuesta de resolución del expediente se notificará a la persona interesada para que en el plazo de diez días alegue lo que considere oportuno para su defensa, incluso sobre la denegación de la prueba propuesta.
+
+### Artículo 97
+
+Artículo 97. Elevación del expediente.
+Oído el interesado, o transcurrido el plazo sin ninguna alegación, el expediente convenientemente foliado y numerado se remitirá al órgano que haya acordado el inicio del procedimiento.
+
+### Artículo 98
+
+Artículo 98. Reducción de plazos.
+Por razones de urgencia derivadas de la necesidad de mantener la disciplina, la ejemplaridad, o por la notoriedad o gravedad de los hechos, el órgano que acordó el inicio del procedimiento puede disponer que los plazos de tramitación del expediente se reduzcan a la mitad del tiempo, excepto los previstos en los artículos 92.2, 94.1, 96 y 100.1 de esta ley.
+Se modifica por el art. 54 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Artículo 99
+
+Artículo 99. Resolución del expediente.
+Una vez recibido el expediente, el órgano que acordó su iniciación procederá, con el examen previo de las actuaciones y, si procede, con la práctica de las diligencias complementarias que considere oportunas, a dictar la resolución motivada que corresponda.
+
+### Artículo 100
+
+Artículo 100. Devolución del expediente al instructor.
+1. La autoridad competente para resolver puede devolver el expediente a la persona instructora para que practique las diligencias omitidas y que resulten imprescindibles para la resolución. En este caso, se tiene que dar vista a la persona expedientada de estas actuaciones y un plazo de diez días para que alegue lo que estime oportuno.
+2. Si el órgano competente para resolver aprecia que la cualificación apropiada es de más gravedad que la indicada en la propuesta de resolución, o que los hechos son merecedores de una sanción sustancialmente superior que la propuesta, se dará traslado al interesado a fin de que en el plazo de quince días formule las alegaciones que estime oportunas al respecto.
+
+### Artículo 101
+
+Artículo 101. Contenido de la resolución.
+1. La resolución que finalice el procedimiento disciplinario debe ser motivada y no se pueden introducir hechos diferentes de los que sirvieron de base al pliego de cargos, sin perjuicio de la distinta valoración jurídica siempre que no sea de más gravedad.
+2. En la resolución se determinará la falta que se considera cometida, el precepto en que se tipifica, el funcionario o la funcionaria responsable, la sanción que se le impone y los recursos que se pueden interponer en contra, el órgano ante el cual se tienen que interponer y el plazo para hacerlo.
+3. Tanto en el supuesto anterior como en el caso que se declare la inexistencia de infracción o de responsabilidad del funcionario o de la funcionaria expedientado, se tiene que hacer una declaración expresa, si procede, sobre las medidas provisionales que se hayan adoptado durante el procedimiento.
+4. La resolución del expediente se notificará en forma a la persona expedientada, en el plazo de diez días desde que fue adoptada. También se notificará al denunciante si lo hubiera.
+
+### Artículo 102
+
+Artículo 102. Caducidad.
+1. La resolución que pone fin al procedimiento disciplinario y su notificación al interesado se producirá en un plazo no superior a doce meses desde el acuerdo de incoación del expediente.
+2. El plazo para resolver el procedimiento y notificar la resolución se puede suspender, interrumpir o ampliar en los casos que prevé la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común.
+3. Transcurridos los plazos que prevé el apartado anterior sin que se haya dictado una resolución en el expediente, se procederá al archivo de las actuaciones. En este caso, el órgano competente tiene que expedir, a solicitud de la persona interesada, un certificado en el que conste que ha caducado el procedimiento y se han archivado las actuaciones.
+4. Cuando un funcionario o una funcionaria pase a la situación de excedencia voluntaria antes o durante la tramitación de un procedimiento disciplinario por infracciones previstas en esta ley, el procedimiento quedará suspendido y se interrumpirá el cómputo de los plazos de prescripción; su tramitación continuará cuando el afectado solicite su reincorporación al servicio activo.
+
+## Sección 4
+
+Sección 4.ª Ejecución
+
+### Artículo 103
+
+Artículo 103. Ejecución de la sanción.
+1. Las sanciones disciplinarias se deben ejecutar según los términos de la resolución y empiezan a cumplirse el mismo día de la notificación de la resolución al infractor, o bien en el plazo máximo de diez días, a contar desde el día de su notificación, excepto que en la misma resolución se acuerde, por causas justificadas, el aplazamiento del cumplimiento por un tiempo no superior a lo que se haya establecido legalmente para su prescripción.
+2. Si no es posible el cumplimiento de la sanción en el momento en que se dicte la resolución porque el funcionario se encuentra en situación administrativa que lo impida, esta será efectiva cuando el cambio de situación lo permita, a no ser que haya transcurrido el plazo de prescripción.
+3. Cuando concurren diversas sanciones de suspensión de funciones, su cumplimiento se llevará a cabo siguiendo el orden cronológico de imposición, empezando dentro de este por las de más gravedad, hasta el límite de seis años. Si la suma de estas excede el límite mencionado, no se cumplirá el tiempo que lo sobrepase.
+
+### Artículo 104
+
+Artículo 104. Ejecutividad de las sanciones
+Las sanciones son inmediatamente ejecutivas y su cumplimiento no se suspende por la interposición de ningún recurso administrativo o judicial, pero el órgano competente podrá suspenderlo, de oficio o a instancia de parte, en caso de que la ejecución ocasione perjuicios de reparación imposible o difícil.
+
+### Artículo 105
+
+Artículo 105. Anotación y cancelación
+1. Las sanciones disciplinarias se anotarán en el registro adscrito a la dirección general competente en materia de coordinación de policías locales, indicando las faltas que las motivaron.
+2. Transcurridos seis meses desde el cumplimiento de la sanción si se trata de faltas leves, o uno y tres años, según se trate de faltas graves o muy graves no sancionadas con separación del servicio, respectivamente, se acordará de oficio la cancelación de las anotaciones.
+3. Para el cómputo del plazo de cancelación se tendrá en cuenta el tiempo en que la ejecución haya sido suspendida.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Regulación municipal de la segunda actividad.
+La regulación de la segunda actividad que contiene esta ley no impide que cada ayuntamiento, en el ejercicio de sus potestades, pueda aprobar en su reglamento unas modalidades de segunda actividad, de acuerdo con sus peculiaridades organizativas y presupuestarias, siempre que esta regulación no suponga menoscabo o empeoramiento de las medidas establecidas en esta ley.
+Los ayuntamientos que al entrar en vigor esta ley tengan una regulación o acuerdos propios sobre segunda actividad, esta seguirá en vigor siempre que no menoscabe o empeore las medidas recogidas en esta ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Personal sometido al Real Decreto 240/2013, de 5 de abril.
+La prestación de servicios y los cursos de formación del personal sometido al Real Decreto 240/2013, de 5 de abril, se ha de tener en cuenta a los efectos de promoción profesional en los cuerpos de las policías locales de las Illes Balears.
+Se modifica por el art. 55 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Medidas de fomento de la igualdad en el empleo público.
+1. Los ayuntamientos han de impulsar las acciones positivas previstas en la normativa de igualdad de género con la finalidad de conseguir una composición equilibrada de las plantillas de policía local.
+2. En las convocatorias para acceder a las diferentes categorías de la policía local y a las policías locales de los ayuntamientos que no hayan constituido cuerpo de policía local, se determinará el número de plazas que deberían cubrirse con mujeres para cumplir con el objetivo de equilibrar la presencia de mujeres y hombres en la plantilla de la policía local, de acuerdo con lo que prevé el plan de igualdad de cada ayuntamiento. Este número de plazas será proporcional a los objetivos perseguidos, y no superior al 40 % de las plazas convocadas, ni inferior al porcentaje que se establezca razonablemente atendiendo al plan de igualdad de cada ayuntamiento y a los datos estadísticos históricos sobre el porcentaje de mujeres que concurren y superan los procesos selectivos.
+Como regla general, hasta que los ayuntamientos no elaboren estos planes de igualdad, el porcentaje mínimo no puede ser inferior al 25% siempre que se convoquen más de 3 plazas.
+3. En los procedimientos selectivos a los que se refiere el apartado anterior, la adjudicación de las vacantes convocadas se realizará siguiendo una única lista final de los aspirantes atendiendo al orden de puntuación obtenida y a los criterios de desempate legalmente existentes.
+Cuando el objetivo del porcentaje al que se refiere el apartado anterior no se consiga atendiendo a lo que dispone el párrafo precedente, se dará preferencia a las candidatas mujeres sobre los candidatos hombres hasta cumplir el objetivo perseguido siempre que:
+a) Haya una equivalencia de capacitación determinada por la superación de las pruebas y ejercicios de la fase de oposición del sistema selectivo.
+b) Ninguna de las candidatas mujeres seleccionadas por la aplicación de esta preferencia tenga un diferencial de puntuación en las fases de oposición y, en su caso, de concurso, superior al 15% frente a los candidatos hombres preteridos.
+c) No concurran en otro candidato motivos legalmente previstos que, no siendo discriminatorios por razón de sexo, justifiquen la no aplicación de la medida, como la pertenencia a otros colectivos con especiales dificultades para acceder al empleo.
+4. La preferencia a la que se refiere el apartado anterior solo es de aplicación en el caso en que no haya en el cuerpo, escala y categoría a la que se refiere la convocatoria del proceso selectivo una presencia igual o superior al 33% de funcionarias mujeres.
+5. En los procesos selectivos unificados convocados por la consejería competente en materia de coordinación de policías locales, en virtud de la previsión contenida en el artículo 188 bis del Decreto 40/2019, de 24 de mayo, por el cual se aprueba el Reglamento marco de coordinación de las policías locales de las Illes Balears, el número de plazas que deben ser cubiertas por mujeres se aplica a las convocadas por cada ayuntamiento, siempre que convoque más de tres.
+Con independencia de lo que prevé el plan de igualdad de cada ayuntamiento, el número de plazas que se cubrirán con mujeres es el que establecen las bases de la convocatoria del mencionado proceso selectivo. Este porcentaje se fijará teniendo en cuenta la media aritmética de funcionarias mujeres que hay en los ayuntamientos que delegan la competencia y el objetivo perseguido. En ningún caso, el porcentaje de reserva puede ser superior al 40 % de las plazas convocadas por cada ayuntamiento ni inferior al 25 %.
+Se modifica el apartado 5 por el art. 42.6 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a4-4
+ Se añade el apartado 5 por el art. 42.1 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a4-4
+ Se añade por el art. 56 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Gestión de las comunicaciones.
+Los municipios han de impulsar la adaptación de los sistemas de gestión de las comunicaciones de las policías locales a la plataforma tecnológica única y propia del Sistema Integrado de Gestión de Emergencias 112 de las Illes Balears.
+Se añade por el art. 57 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Escuela de Seguridad Pública de las Illes Balears.
+1.El Gobierno de las Illes Balears promoverá la creación de la Escuela de Seguridad Pública de las Illes Balears.
+2. Todas las funciones que la Ley de coordinación de las policías locales de las Illes Balears otorga a la Escuela Balear de Administración Pública pasarán a ser asumidas y ejercidas por la Escuela de Seguridad Pública de las Illes Balears, una vez que esta ponga en marcha su plan de formación.
+Se añade por el art. 58 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Delitos de odio motivados por la orientación sexual o la identidad de género.
+Es un objetivo prioritario de las fuerzas y cuerpos de seguridad, y en especial de las policías locales de las Illes Balears, la lucha contra los delitos de odio. Para llevar a cabo esta tarea, los órganos de coordinación y el resto de órganos deberán desarrollar de forma prescriptiva tres ejes básicos relacionados con los delitos de odio motivados por la orientación sexual o la identidad de género:
+1. Formación de los cuerpos de policía local.
+Los planes de formación básica y permanente de los cuerpos de policía local de las Illes Balears deberán incluir acciones formativas en las que específicamente se recoja el tratamiento del derecho a la igualdad y a la no discriminación de las personas LGTBI, en especial de las personas transexuales.
+2. Protocolo de atención policial ante delitos de odio.
+La comunidad autónoma de las Illes Balears, en el ámbito de su competencia y conjuntamente con los ayuntamientos, impulsará un protocolo de atención a las víctimas de los delitos de odio en las policías locales de los diferentes municipios.
+3. Orden público y privación de libertad.
+En este ámbito se establecerán medidas para garantizar un tratamiento y una estancia adecuados de las personas LGTBI en las dependencias policiales.
+Se establecerán pautas de identificación y registro para personas transexuales de acuerdo con la identidad sentida. En todo momento los agentes policiales se dirigirán a las personas transexuales y transgénero por sus apellidos o por el nombre con el que quieran ser identificados.
+Se añade por el art. 59 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Régimen específico y singular de Formentera.
+Dado el régimen singular de la isla de Formentera en lo referente a su consejo insular de carácter unimunicipal, y dado que este solo dispone del cuerpo de la policía local que, junto con la Guardia Civil, resulta totalmente insuficiente, el Gobierno de las Illes Balears, como garante de la política autonómica y del equilibrio interno interinsular previstos en el Estatuto de Autonomía de las Illes Balears, deberá prestar el apoyo administrativo técnico y de gestión adicionales en materia de policía local en el consejo insular de esta isla.
+Se añade por el art. 60 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Disposición adicional octava
+
+Disposición adicional octava. Bolsa extraordinaria para la categoría de policía.
+1. Excepcionalmente, cuando concurran motivos justificados de urgencia y necesidad, que se acreditarán en el expediente correspondiente ante la consejería competente en materia de coordinación de policías locales, y no sea posible cubrir las vacantes de la categoría de policía incluidas en la oferta de empleo ordinaria o de estabilización, o los puestos de trabajo de esta categoría temporalmente sin ocupar, la consejería competente en materia de coordinación de policías locales podrá convocar un procedimiento extraordinario para constituir una bolsa de empleo temporal específica descentralizada por islas.
+La resolución de la convocatoria determinará el plazo de vigencia, los requisitos de participación, los criterios o las pruebas específicas de selección, el baremo de méritos y las condiciones en que se tiene que llevar a cabo.
+La vigencia máxima del nombramiento será de tres años improrrogables, cuyo transcurso determina, en todo caso, el cese del funcionario interino.
+2. Los ayuntamientos de los municipios con 20.000 habitantes o menos que lo soliciten podrán adherirse a esta bolsa, con la certificación previa del Instituto de Seguridad Pública de las Illes Balears que acredite que los datos del registro de policías locales están actualizados y el acuerdo previo de la Mesa General de Negociación en los ayuntamientos en los que esté constituida. En el caso de ayuntamientos de los municipios con más de 20.000 habitantes, la participación en esta bolsa necesitará la suscripción previa de un convenio de colaboración.
+Se modifica por la disposición final 11.2 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df-11
+ Se añade por el art. único.4 del Decreto-ley 6/2021, de 9 de julio. Ref. BOE-A-2021-14602
+
+### Disposición adicional novena
+
+Disposición adicional novena. Régimen disciplinario de los alumnos de la Escuela Balear de Administración Pública en materia de formación y capacitación policial.
+1. Se debe establecer por reglamento el régimen disciplinario de los alumnos de la Escuela Balear de Administración Pública o de la Escuela de Seguridad Pública de las Illes Balears en materia de formación y capacitación policial, señalando las faltas, las sanciones y el procedimiento disciplinario docente.
+2. La tipificación de las faltas debe considerar los actos que comporten incumplimientos de las obligaciones académicas de asistencia, estudio y evaluación y debe incluir las conductas contrarias a las normas de convivencia, seguridad, uniformidad, conservación de recursos y actuación de los alumnos de la Escuela. Las sanciones disciplinarias tienen que consistir en amonestaciones y en privaciones de derechos inherentes a la condición de alumno o alumna.
+3. Se debe aplicar, supletoria o directamente, el régimen disciplinario previsto en el título VII de esta ley a los supuestos en que los hechos se puedan considerar faltas de carácter grave no constitutivos de falta de disciplina académica.
+Se añade por el art. único.5 del Decreto-ley 6/2021, de 9 de julio. Ref. BOE-A-2021-14602
+
+### Disposición adicional décima
+
+Disposición adicional décima. Reserva para el acceso libre a plazas de la categoría de policía de militares profesionales de tropa y marinería.
+Los ayuntamientos de las Illes Balears, en la convocatoria y las bases de los procesos selectivos para proveer como personal funcionario de carrera plazas de la categoría de policía, podrán determinar una reserva de un máximo del 20 % de las plazas convocadas para el acceso libre de militares profesionales de tropa y marinería con más de cinco años de servicio que cumplan con los requisitos establecidos en el artículo 32 de esta ley.
+Además de los requisitos generales, los aspirantes a plazas reservadas a militares profesionales de tropa y marinería deberán acreditar su condición y el tiempo de servicio requerido.
+Las plazas reservadas no cubiertas se acumularán al resto de las convocadas.
+Se añade por la disposición final 64 de la la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-64
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Policías auxiliares a extinguir.
+1. Los policías auxiliares pasan a integrarse en el grupo C1, en el plazo de seis meses. Si como consecuencia de la integración es procedente alguna adaptación retributiva, los ayuntamientos respectivos, previa negociación, en su caso, con los o las representantes del personal funcionario, han de acordar lo que corresponda, con sujeción, en todo caso, a los límites que con carácter básico y, por tanto, vinculantes para todas las administraciones públicas establecen las leyes de presupuestos generales del Estado para cada ejercicio.
+2. Respecto de los funcionarios o funcionarias que en el momento de la entrada en vigor de esta ley no tengan la titulación requerida para acceder a la categoría correspondiente, si como consecuencia de la reorganización es procedente alguna adaptación retributiva, los ayuntamientos respectivos, con la negociación previa, en su caso, con los o las representantes del personal funcionario, han de acordar lo que corresponda, con sujeción, en todo caso, a los límites que con carácter básico y, por tanto, vinculantes para todas las administraciones públicas establecen tanto la normativa básica reguladora de las retribuciones de los funcionarios y las funcionarias como las leyes de presupuestos generales del Estado para cada ejercicio.
+3. Al efecto de poder obtener el curso de formación básica de policía local, cada año de servicio como policía auxiliar se ha de computar como 100 horas de formación.
+Se modifica por el art. 61 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Policías turísticos y policías auxiliares turísticos por extinguir.
+Los ayuntamientos que en sus plantillas tengan plazas de policías turísticos y policías auxiliares turísticos, las pueden mantener hasta el día 31 de diciembre de 2013, fecha a partir de la cual quedarán extinguidas.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Funcionarios de los cuerpos de policía local en situación de segunda actividad por razón de edad con destino.
+Los funcionarios de los cuerpos de policía local que en el momento de la entrada en vigor de esta ley se encuentren en situación de segunda actividad por razón de edad con destino permanecerán en esta situación.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Segunda actividad por razón de edad.
+A los funcionarios de los cuerpos de policía local en situación de segunda actividad que durante el año 2013 cumplan las edades que prevé la Ley 6/2005, de 3 de junio, de coordinación de las policías locales de las Illes Balears, les será de aplicación esta norma a los efectos de solicitud de pasar a la segunda actividad por razón de edad.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Procesos selectivos.
+A los procesos selectivos que en la entrada en vigor de esta ley se encuentren ya iniciados les será de aplicación la Ley 6/2005, de 3 de junio, de coordinación de las policías locales de las Illes Balears, y su normativa de desarrollo.
+A los procesos selectivos que se inicien en la entrada en vigor de la presente ley les será de aplicación esta norma.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Faltas disciplinarias.
+Las faltas disciplinarias cometidas con anterioridad a la entrada en vigor de esta ley serán sancionadas de conformidad con la Ley 6/2005, de 3 de junio, de coordinación de las policías locales de las Illes Balears, a no ser que las disposiciones de esta ley fueran más favorables al interesado; en cualquier caso se aplicará la norma más favorable.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Procedimientos disciplinarios.
+Los procedimientos disciplinarios iniciados antes de la entrada en vigor de esta ley seguirán rigiéndose hasta concluir por la Ley 6/2005, de 3 de junio, de coordinación de las policías locales de las Illes Balears, a no ser que las disposiciones de esta ley fueran más favorables al expedientado.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Revisión de oficio de sanciones.
+A la entrada en vigor de esta ley, si de su aplicación resultasen efectos más favorables para el funcionario sancionado, se procederá a la revisión de oficio de las resoluciones en virtud de las cuales se hubieran impuesto sanciones, aunque sean firmes, cuyo cumplimiento no se hubiera iniciado o finalizado en la citada fecha. No será posible la revisión de resoluciones en las que se hubiera impuesto la sanción de separación del servicio.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Vigencia temporal de los reglamentos.
+Mientras no se produzca el despliegue reglamentario de las disposiciones que prevé esta ley continuarán en vigor los preceptos dictados en despliegue de la Ley 6/2005, de 3 de junio, de coordinación de las policías locales de las Illes Balears, que no se opongan a lo establecido en esta.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Comisarios de segunda por extinguir.
+El personal funcionario que, a la entrada en vigor de esta ley, tenga la categoría de comisario de segunda por extinguir mantendrá la misma categoría.
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima. Reconocimiento de los miembros jubilados de la policía local.
+Los funcionarios y las funcionarias de las policías locales de la comunidad autónoma de las Illes Balears que hayan perdido esta condición por jubilación, mantendrán la condición de miembro jubilado del cuerpo, con la categoría que ostentasen en el momento de la jubilación, podrán vestir el uniforme en actos institucionales y sociales solemnes, disponer del correspondiente carné profesional y conservar la placa emblema convenientemente modificados de acuerdo con lo que reglamentariamente se determine.
+Se añade por el art. 62 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Se derogan la Ley 6/2005, de 3 de junio, de coordinación de las policías locales de las Illes Balears, y las disposiciones de rango igual o inferior que se opongan a lo que prevé esta ley.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo de la ley.
+Se faculta el Gobierno de la comunidad autónoma para que, en el plazo de un año desde la entrada en vigor de esta ley, dicte las disposiciones que requieran su desarrollo y su aplicación.
+
+### Disposición final segunda
+
+Disposición final segunda. Reglamentos de policía local municipal.
+En el plazo máximo de dos años a partir de la fecha en que la comunidad autónoma haya cumplido lo que establece la disposición final primera de esta ley, los ayuntamientos del ámbito territorial de las Illes Balears que tengan cuerpos de policía local deben aprobar o, si procede, adaptar, una vez negociados con los sindicatos, los reglamentos de policía local de conformidad con las previsiones de esta ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Comisiones de servicios del personal funcionario con habilitación de carácter estatal.
+Se modifica la Ley 20/2006, de 15 de diciembre, municipal y de régimen local de las Illes Balears, en los siguientes términos:
+Se añade un artículo 201, bis con la siguiente redacción:
+«Artículo 201 bis.
+1. La consejería competente en materia de personal funcionario con habilitación de carácter estatal podrá conferir comisiones de servicios a personal funcionario con habilitación de carácter estatal con destino definitivo a la comunidad autónoma de las Illes Balears para ocupar puestos reservados a este personal cuando no hubiera sido posible efectuar un nombramiento provisional a favor de un funcionario o una funcionaria de la misma subescala y categoría al que esté reservado el puesto, lo que quedará suficientemente acreditado en el expediente.
+Las comisiones de servicios se resolverán siguiendo el orden de preferencia siguiente:
+a) Comisión de servicios a favor del personal funcionario con habilitación de carácter estatal de la misma subescala y categoría al que esté reservado el puesto de trabajo.
+b) Comisión de servicios a favor del personal funcionario con habilitación de carácter estatal de la misma subescala y distinta categoría.
+c) Comisión de servicios a favor del personal funcionario con habilitación de carácter estatal de distinta subescala.
+2. La comisión de servicios se efectuará a petición de la entidad interesada y con la conformidad del funcionario o la funcionaria y de la entidad en la que preste servicios.
+3. La concesión de estas comisiones de servicios será por el plazo máximo de un año y se podrá prorrogar anualmente hasta un máximo de cinco años.
+4. Si la comisión no implica cambio de residencia del funcionario, el cese y la toma de posesión se producirán en el plazo de tres días desde la notificación de la autorización de la comisión. Si implica cambio de residencia el plazo será de cinco días.»
+
+### Disposición final cuarta
+
+Disposición final cuarta. Distribución del fondo de seguridad pública.
+Se modifica la Ley 20/2006, de 15 de diciembre, municipal y de régimen local de las Illes Balears, con la siguiente redacción:
+«El fondo de seguridad pública se distribuirá de acuerdo con la normativa específica que resulte de aplicación y sin perjuicio, en su caso, del carácter plurianual de la imputación presupuestaria en función del ejercicio en el que deba llevarse a cabo la justificación de los gastos por parte de los ayuntamientos.»
+
+### Disposición final quinta
+
+Disposición final quinta. Entrada en vigor.
+Esta ley entrará en vigor a los veinte días de su publicación en el «Butlletí Oficial de les Illes Balears».
+
+### Disposición final sexta
+
+Disposición final sexta. Desarrollo reglamentario de la prevención de riesgos laborales de las policías locales.
+En el plazo máximo de un año a partir de la fecha de entrada en vigor de la modificación de la Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears, el Gobierno de las Illes Balears deberá aprobar un reglamento que desarrolle las normas específicas respecto a las actividades o funciones que presenten características extraordinarias, que deberá inspirarse en la normativa general de prevención de riesgos laborales.
+Se añade por el art. 63 de la Ley 11/2017, de 20 de diciembre. Ref. BOE-A-2018-287
+
+### Firma
+
+Palma, 17 de julio de 2013.
+El Presidente,
+ La Consejera de Administraciones Públicas,
+ José Ramón Bauzá Díaz
+ Núria Riera Martos

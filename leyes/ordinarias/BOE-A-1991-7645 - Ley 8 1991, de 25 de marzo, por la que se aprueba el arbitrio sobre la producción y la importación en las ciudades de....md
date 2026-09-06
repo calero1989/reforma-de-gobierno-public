@@ -1,0 +1,319 @@
+# Ley 8/1991, de 25 de marzo, por la que se aprueba el arbitrio sobre la producción y la importación en las ciudades de Ceuta y Melilla.
+
+- Identificador BOE: `BOE-A-1991-7645`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-7645
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Las referencias al Arbitrio sobre la Producción y la Importación en las Ciudades de Ceuta y Melilla deben entenderse hechas al Impuesto sobre la Producción, los Servicios y la Importación en las Ciudades de Ceuta y Melilla, según establece el art. 68.1 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+Las referencias a los Ayuntamientos de Ceuta y Melilla deben entenderse hechas a las Ciudades de Ceuta y Melilla, respectivamente, y las referencias a la Ley 30/1985, de 2 de agosto, deben entenderse hechas a la legislación del Impuesto sobre el Valor Añadido vigente en cada momento, según establece el art. 2 del Real Decreto-Ley 14/1996, de 8 de noviembre. Ref. BOE-A-1996-24749
+Incluye la corrección de erratas publicada en BOE núm. 227, de 21 de septiembre de 1991. Ref. BOE-A-1991-23674
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+I
+Circunstancias geográficas e históricas han dificultada la evolución económica de las ciudades de Ceuta y Melilla, dando lugar a un tratamiento fiscal diferenciado del que tradicionalmente han recibido los territorios peninsulares y las Islas Baleares.
+Las Leyes de 18 de mayo de 1863 y de 14 de julio de 1894, declararon, respectivamente, puertos francos a las ciudades de Ceuta y Melilla con objeto de facilitar su desarrollo económico, posibilitando la entrada y salida de mercancías con un menor coste.
+La necesidad de incrementar los recursos de ambos municipios, hizo que la Ley de 30 de diciembre de 1944, estableciese un régimen tributario especial, autorizando a los Ayuntamientos de Ceuta y Melilla a percibir un arbitrio sobre la importación de mercancías, mediante la aplicación de una tarifa «ad valorem», dicho régimen fue suprimido por la Ley de 22 de diciembre de 1955, la cual estableció con carácter transitorio un arbitrio a la entrada de mercancías, que nunca llegó a aplicarse, manteniéndose el regulado por la Ley de 1944 que constituye el soporte jurídico del actual gravamen a la Entrada de Mercancías conocido con el nombre de «Aforo», que se pretende sustituir por el nuevo arbitrio creado por la presente Ley.
+La adhesión de España a la Comunidad Económica Europea, ha repercutido en la fiscalidad local de Ceuta y Melilla, haciendo necesaria su adaptación al Protocolo número 2 del Tratado de Adhesión, cuyo artículo 25 reconoce que las condiciones en que se aplicarán las disposiciones de los tratados CEE y CECA sobre la libre circulación de mercancías, así como los actos de las instituciones de la Comunidad relativos a la legislación aduanera y a la política comercial en Canarias, y en Ceuta y Melilla, se definen en el Protocolo número 2.
+II
+Se trata de una Ley que crea un Arbitrio específico para las ciudades de Ceuta y Melilla, adaptado a las especiales circunstancias económicas y fiscales de estas ciudades, pero que se integra en la normativa general recogida en la Ley Reguladora de Haciendas Locales, de 28 de diciembre de 1988, en todos los aspectos relativos a la gestión, liquidación, inspección, recaudación y revisión de los tribut0s. Esta nueva figura tributaria, de mayor amplitud en su aplicación que el hasta ahora vigente Arbitrio sobre la Entrada de Mercancías, dado que incluye en su hecho imponible la producción interna de toda clase de bienes muebles, se importen o no, así como la importación de los mismos, con el firme propósito de eliminar discriminaciones que dificulten un desarrollo interno acorde con la situación económica general del país, tiene como finalidad esencial allegar recursos para las respectivas Haciendas municipales. sin afán discriminatorio por la procedencia de los bienes, con carácter general, pero dada la característica debilidad del sector industrial en ambas ciudades, se hace necesario prever, en aquellos casos que tengan una especial trascendencia para el desarrollo económico de estos territorios, medidas de protección de carácter temporal.
+Tanto por el reducido ámbito territorial de aplicación del Arbitrio, como por las especiales características del órgano gestor, se ha elaborado una normativa que regula los elementos esenciales del tributo con la necesaria amplitud para que, en aplicación de sus competencias, los Plenos municipales puedan llevar a cabo el correspondiente desarrollo reglamentario.
+Asimismo, comprende una regulación especifica de ciertos aspectos de gestión, quedando el resto de las cuestiones sometido a lo establecido, con carácter general, en la mencionada Ley Reguladora de las Haciendas Locales.
+
+### Art 1
+
+Artículo 1. Naturaleza.
+El Impuesto sobre la Producción, los Servicios y la Importación es un impuesto indirecto de carácter municipal, que grava la producción, elaboración e importación de toda clase de bienes muebles corporales, las prestaciones de servicios y las entregas de bienes inmuebles situados en las Ciudades de Ceuta y Melilla, de acuerdo con las normas de la presente Ley.
+Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Art 2
+
+Artículo 2. Ambito de aplicación.
+La presente Ley se aplicará en el ámbito territorial de las ciudades de Ceuta y Melilla, sin perjuicio de los Tratados y Convenios Internacionales.
+
+### Art 3
+
+Artículo 3. Hecho imponible.
+Constituye el hecho imponible del impuesto lo siguiente:
+a) La producción o elaboración, con carácter habitual, de bienes muebles corporales, incluso aunque se efectúen mediante ejecuciones de obra, realizadas por empresarios en el desarrollo de su actividad empresarial, así como la importación de dichos bienes, en el ámbito territorial de las Ciudades de Ceuta y Melilla.
+A los efectos de este Impuesto se considerarán actividades de producción las extractivas, agrícolas, ganaderas, forestales, pesqueras, industriales y otras análogas. También tendrán esta consideración las ejecuciones de obra que tengan por objeto la construcción o ensamblaje de bienes muebles corporales por el empresario, previo encargo del dueño de la obra. No se considerarán, a efectos de este Impuesto, operaciones de producción o elaboración, las destinadas a asegurar la conservación o presentación comercial de los bienes, calificadas como manipulaciones usuales en la legislación aduanera.
+b) Las prestaciones de servicios efectuadas por empresarios o profesionales que actúen en el ejercicio de su actividad, en los términos previstos en la normativa del Impuesto sobre el Valor Añadido, salvo que tales operaciones se consideren de producción o elaboración de bienes en los términos previstos en la letra a) anterior.
+Estas operaciones se entenderán localizadas en Ceuta o Melilla cuando así resulte de aplicar para estos territorios las reglas establecidas en la Ley del Impuesto sobre el Valor Añadido para localizar las prestaciones de servicios en el territorio peninsular español o Islas Baleares.
+c) Las entregas de bienes inmuebles que radiquen en el ámbito territorial de las Ciudades de Ceuta y Melilla, realizadas por empresarios o profesionales que actúen en el ejercicio de sus actividades.
+A los efectos de este Impuesto, se considerarán entregas de bienes inmuebles la construcción, ejecución de obras inmobiliarias y transmisión de dichos bienes.
+En ningún caso, los actos del tráfico inmobiliario tributarán a la vez por este Impuesto y el que grava las transmisiones patrimoniales onerosas, aplicándose, a efectos de su incompatibilidad, las normas de la legislación común.
+d) El consumo de energía eléctrica, que será gravado en fase única, al tiempo de su facturación a los usuarios por las empresas distribuidoras, que repercutirán el Impuesto sobre el importe total facturado. No se someterán al Impuesto la producción ni la importación de energía eléctrica.
+Se modifica la letra c) por el art. 13 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+ Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Art 4
+
+Artículo 4. Concepto de empresario o profesional.
+A efectos de este Impuesto tendrán la condición de empresarios o profesionales las personas o entidades consideradas como tales a efectos del Impuesto sobre el Valor Añadido por su Ley reguladora.
+Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Art 5
+
+Artículo 5. Concepto de importación de bienes.
+1. A los efectos de este Arbitrio se entiende por importación la entrada de los bienes en el ámbito territorial de las ciudades de Ceuta y Melilla cualquiera que sea su procedencia, el fin a que se destinen o la condición del importador.
+2. Sin perjuicio de lo previsto en el apartado anterior, se considera también importación, la autorización para el consumo en Ceuta y Melilla de los bienes que reglamentariamente se encuentren en cualquiera de los regímenes especiales a que se refiere el artículo 10.
+
+### Art 6
+
+Artículo 6. Supuestos de no sujeción.
+No estarán sujetas al impuesto las operaciones a las que se refiere el artículo 7 de la Ley 37/1992, de 28 de diciembre del Impuesto sobre el Valor Añadido.
+Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Art 7
+
+Artículo 7. Exenciones en operaciones interiores.
+Estarán exentas del Impuesto la producción o elaboración de bienes muebles corporales, las prestaciones de servicios, las entregas de bienes inmuebles y el consumo de energía eléctrica, cuando las entregas de los bienes producidos o elaborados, las prestaciones de servicios, las entregas de bienes inmuebles o el consumo de energía eléctrica tengan reconocida tal exención en la legislación común del Impuesto sobre el Valor Añadido.
+Se modifica por el art. 5.1.1 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Se modifica por el art. 1.1 del Real Decreto-Ley 14/1996, de 8 de noviembre. Ref. BOE-A-1996-24749
+
+### Art 8
+
+Artículo 8. Exenciones en las exportaciones y operaciones asimiladas.
+1. Estarán exentas del Impuesto la producción o elaboración de bienes muebles corporales y las prestaciones de servicios, cuando los bienes o servicios sean exportados definitivamente en régimen comercial al resto del territorio nacional o al extranjero, en los mismos términos que en la legislación común del Impuesto sobre el Valor Añadido se establecen para las exenciones en exportaciones y operaciones asimiladas.
+2. No obstante lo dispuesto en el párrafo anterior, no estarán exentas del Impuesto las exportaciones en régimen comercial que, a continuación, se indican:
+a) Las destinadas a las tiendas libres de impuestos, así como las destinadas a ventas efectuadas a bordo de medios de transporte que realicen la travesía entre el territorio peninsular español y las Ciudades de Ceuta y Melilla o bien la travesía entre estas dos Ciudades.
+b) Las provisiones de a bordo de Labores de Tabaco con destino a los medios de transportes que realicen las travesías expresadas en la letra a) de este apartado.
+Se modifica por el art. 5.1.2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Se modifica por el art. 11.1 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Se modifica por el art. 1.2 del Real Decreto-Ley 14/1996, de 8 de noviembre. Ref. BOE-A-1996-24749
+
+### Art 9
+
+Artículo 9. Exenciones en importaciones de bienes.
+Las importaciones definitivas de bienes en las ciudades de Ceuta y Melilla estarán exentas en los mismos términos que en la legislación común del Impuesto sobre el Valor Añadido y, en todo caso, se asimilarán, a efectos de esta exención, las que resulten de aplicación a las operaciones interiores.
+En particular, en las importaciones de bienes en régimen de viajeros la exención se aplicará en los mismos términos y cuantías que los previstos para las importaciones de bienes en régimen de viajeros en la normativa reguladora del Impuesto sobre el Valor Añadido. Las ciudades de Ceuta y Melilla podrán, en sus respectivas ordenanzas fiscales, reducir dicha cuantía, si bien, la mínima resultante no podrá ser inferior a 90.15 euros.
+Se modifica por la disposición adicional 7 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
+ Se modifica, con efectos desde el 1 de enero de 2013, por la disposición final 6.1 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica por el art. 11.2 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Se modifica por el art. 1.3 del Real Decreto-Ley 14/1996, de 8 de noviembre. Ref. BOE-A-1996-24749
+
+### Art 10
+
+Artículo 10. Regímenes especiales de importación.
+Están exentas de este Arbitrio las importaciones de bienes, en las ciudades de Ceuta y Melilla, que se realicen al amparo de los regímenes especiales de tránsito, importación temporal, depósito, perfeccionamiento activo, perfeccionamiento pasivo y transformación bajo control aduanero, en la forma y con los requisitos que reglamentariamente se establezcan.
+
+### Art 11
+
+Artículo 11. Devengo del impuesto.
+El Impuesto se devengará:
+a) En la producción o elaboración de bienes muebles corporales, en el momento en que éstos se pongan a disposición de los adquirentes.
+b) En las importaciones, en el momento de admisión de la declaración para el despacho de importación o, en su defecto, en el momento de la entrada de los bienes en el territorio de sujeción, previo cumplimiento de las condiciones establecidas en la legislación aplicable.
+c) En las entregas de bienes inmuebles y en las prestaciones de servicios, en el momento en que se produzca el devengo del Impuesto sobre el Valor Añadido para dichas operaciones según la normativa reguladora de este último tributo.
+Se modifica la letra b), con efectos desde el 1 de enero de 2013, por la disposición final 6.2 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica por el art. 5.1.3 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Téngase en cuenta para la aplicación del párrafo segundo del apartado b) el art. 5.2.
+ Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Art 12
+
+Artículo 12. Sujeto pasivo en las operaciones interiores.
+1. Son sujetos pasivos del Impuesto las personas físicas o jurídicas, así como las entidades a que se refiere el artículo 33 de la Ley General Tributaria, que realicen las entregas de bienes o prestaciones de servicios sujetas al Impuesto, salvo lo dispuesto en el apartado siguiente.
+2. En las entregas de bienes inmuebles y prestaciones de servicios realizadas por empresarios o profesionales que no estén establecidos en el territorio de aplicación del impuesto y cuyos destinatarios sean empresarios o profesionales establecidos en dicho territorio, será sujeto pasivo el destinatario de dichas operaciones.
+3. Responderán solidariamente de la deuda tributaria correspondiente a las entregas de bienes inmuebles y prestaciones de servicios los destinatarios de las operaciones sujetas a gravamen que, mediante sus declaraciones o manifestaciones inexactas, se hubiesen beneficiado indebidamente de exenciones, supuestos de no sujeción o de la aplicación de tipos impositivos menores de los que resulten procedentes con arreglo a derecho.
+Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Art 13
+
+Artículo 13. Sujeto pasivo en las importaciones.
+1. Son sujetos pasivos del impuesto en las importaciones de bienes las personas físicas o jurídicas, así como las entidades a que se refiere el artículo 33 de la Ley General Tributaria, que realicen dichas operaciones.
+2. A efectos de lo previsto en el apartado anterior, el importador será la persona a cuyo nombre se haya hecho la declaración para el despacho o cualquier otro acto que tenga los mismos efectos jurídicos, en las condiciones establecidas a este respecto en la legislación aduanera vigente en la Unión Europea.
+3. Serán responsables solidarios, junto con los sujetos pasivos, del pago del impuesto correspondiente a las importaciones de bienes, las personas o entidades que resulten como tales por aplicación de la legislación aduanera vigente en la Unión Europea.
+Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Art 14
+
+Artículo 14. Repercusión del Impuesto.
+La repercusión del Impuesto se sujetará a las mismas normas establecidas por la normativa reguladora del Impuesto sobre el Valor Añadido para la repercusión de este tributo.
+Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Redactada la rúbrica conforme a la corrección de erratas publicada en BOE núm. 227, de 21 de septiembre de 1991. Ref. BOE-A-1991-23674
+
+### Art 15
+
+Artículo 15. Base imponible en operaciones interiores.
+1. La base imponible en la producción o elaboración de bienes muebles corporales, en las entregas de bienes inmuebles y las prestaciones de servicios se establecerá con arreglo a lo dispuesto en las normas reguladoras de la base imponible de dichas operaciones en el Impuesto sobre el Valor Añadido. Asimismo, los supuestos y condiciones de la modificación de dicha base imponible serán los mismos que los previstos a efectos de dicho tributo.
+2. Los gravámenes complementarios a que se refiere el artículo 18 bis de esta Ley deberán integrarse, en todo caso, en la base imponible de las correspondientes operaciones sujetas al Impuesto.
+Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Art 16
+
+Artículo 16. Base imponible en las importaciones.
+1. La base imponible en las importaciones se establecerá con arreglo a lo dispuesto en las normas reguladoras de la base imponible de dichas operaciones en el Impuesto sobre el Valor Añadido. Asimismo, los supuestos y condiciones de la modificación de dicha base imponible serán los mismos que los previstos a efectos de dicho tributo.
+2. Los gravámenes complementarios a que se refiere el artículo 18 bis de esta Ley deberán integrarse, en todo caso, en la base imponible de las correspondientes operaciones sujetas al Impuesto.
+Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Art 17
+
+Artículo 17. Determinación de la base imponible.
+1. Con carácter general la base imponible se determinará en régimen de estimación directa, sin más excepciones que las establecidas en esta Ley y en las normas reguladoras del régimen de estimación indirecta de las bases imponibles.
+2. Reglamentariamente, en los sectores o actividades económicas y con las limitacines que se especifiquen, podrá acordarse la aplicación de regímenes de estimación objetiva en la determinación de la base imponible.
+No obstante, este régimen no se aplicará a las importaciones, ni a las operaciones interiores cuando el importe de la base imponible en el año precedente supere los 100 millones de pesetas.
+
+### Art 18
+
+Artículo 18. Tipo de gravamen.
+1. Los tipos de gravamen serán fijados en las Ordenanzas por las Ciudades respectivas y estarán comprendidos entre 0,5 por 100 y el 10 por 100.
+2. No podrá establecerse distinción alguna entre los tipos de gravamen aplicables a la producción o elaboración y a la importación de bienes muebles corporales.
+3. El tipo de gravamen aplicable a cada operación será el vigente en el momento del devengo.
+Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Art 18 bis
+
+Artículo 18 bis. Gravámenes complementarios del Impuesto sobre la Producción, los Servicios y la Importación en Ceuta y Melilla aplicables sobre las labores del tabaco y sobre ciertos carburantes y combustibles.
+A) Gravamen complementario sobre las Labores del Tabaco.
+Además de las cuotas cuya exigencia proceda con arreglo a lo dispuesto en los artículos 15, 16 y 18, la producción y la importación de labores del tabaco en Ceuta y Melilla estarán sujetas a un gravamen complementario del Impuesto sobre la Producción, los Servicios y la Importación en Ceuta y Melilla. El gravamen complementario será exigible con arreglo a las normas generales del Impuesto y a las siguientes reglas específicas:
+1. Ámbito objetivo.
+El gravamen complementario será exigible en relación con las labores del tabaco relacionadas y definidas en los artículos 56 y 59 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+2. Base imponible del gravamen complementario.
+a) Para la aplicación de tipos proporcionales del gravamen complementario, la base imponible estará constituida por el valor de las labores calculado según su precio máximo de venta al público en expendedurías de tabaco y timbre situadas en la península o islas Baleares, incluidos todos los impuestos.
+b) Para la aplicación de tipos específicos del gravamen complementario, la base imponible estará constituida por el número de unidades.
+3. Tipos impositivos del gravamen complementario:
+a) Cigarrillos:
+1.º Tipo proporcional: 54 por 100.
+2.º Tipo específico: 500 pesetas por cada 1.000 cigarrillos.
+b) Cigarros y cigarritos: 12,5 por 100.
+c) Picadura para liar: 37,5 por 100.
+d) Las demás labores del tabaco: 22,5 por 100.
+e) Los tipos impositivos aplicables serán los vigentes en el momento del devengo.
+4. Las Ciudades de Ceuta y Melilla podrán, en sus respectivas Ordenanzas, reducir los tipos impositivos establecidos en el número 3 anterior. Los tipos impositivos aplicables que resulten de la reducción que, en su caso, se practique, no podrán ser inferiores a los siguientes:
+a) Cigarrillos:
+1.º Tipo proporcional: 36 por 100.
+2.º Tipo específico: 300 pesetas por cada 1.000 cigarrillos.
+b) Cigarros y cigarritos: 8,5 por 100.
+c) Picadura para liar: 25 por 100.
+d) Las demás labores del tabaco: 15 por 100.
+5. El gravamen complementario no será exigible en las mismas circunstancias que determinarían la no exigibilidad en el Impuesto sobre las Labores del Tabaco en su ámbito territorial de aplicación. En particular, el devengo del gravamen complementario se aplazará respecto de las labores del tabaco que se introduzcan en los depósitos que se autoricen a tal efecto, hasta, en su caso, su salida de los mismos.
+La autorización de los depósitos a que se refiere el párrafo anterior se efectuará por el Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, previo informe favorable de la respectiva ciudad, en las mismas condiciones que las previstas para la autorización de depósitos fiscales de labores del tabaco en el ámbito territorial de aplicación del Impuesto sobre las Labores del Tabaco, con excepción de lo establecido en el párrafo siguiente.
+La autorización del depósito fiscal estará condicionada a que la totalidad de las salidas del mismo de labores de tabaco correspondan a entregas directas a los expendedores de la Red de Expendedurías de Tabaco y Timbre situados en la respectiva ciudad, no siendo exigible el cumplimiento del volumen mínimo de salidas previsto en la normativa del Impuesto sobre las Labores del Tabaco para la autorización de depósitos fiscales de labores del tabaco en su ámbito territorial de aplicación.
+El incumplimiento de las condiciones y requisitos a que se refieren los dos párrafos anteriores podrá dar lugar a la revocación de la autorización del depósito fiscal.
+Los titulares de los depósitos fiscales autorizados, conforme a lo previsto en el presente apartado 5, tendrán, en cuanto al gravamen complementario, la condición de sujetos pasivos en calidad de sustituto del contribuyente.
+El control de los depósitos fiscales a que se refiere este apartado 5 será efectuado por los servicios dependientes del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, en colaboración con los servicios fiscales de las respectivas ciudades.
+6. Se reconoce el derecho a la devolución del gravamen complementario en las mismas circunstancias en que se produciría la devolución de las cuotas del Impuesto sobre las Labores del Tabaco en su ámbito territorial de aplicación.
+B) Gravamen Complementario sobre Carburantes y Combustibles Petrolíferos.
+Además de las cuotas cuya exigencia proceda con arreglo a lo dispuesto en los artículos 15, 16 y 18, las Ciudades de Ceuta y Melilla podrán sujetar la producción y la importación de los carburantes y combustibles petrolíferos indicados en este apartado a un gravamen complementario del Impuesto sobre la Producción, los Servicios y la Importación en Ceuta y Melilla. El gravamen complementario será exigible con arreglo a las normas generales del Impuesto y a las siguientes reglas específicas:
+1. Ámbito objetivo y base imponible del gravamen complementario.
+El gravamen complementario del Impuesto sobre la Producción, los Servicios y la Importación podrá ser exigido en relación con los carburantes y combustibles petrolíferos que a continuación se indican, sobre una base constituida por las unidades fiscales que asimismo se señalan:
+a) Gasolina, gasóleo y queroseno: pesetas por mil litros.
+b) Fuelóleo: pesetas por tonelada.
+Quedarán también sometidos al gravamen complementario, en las mismas condiciones que los carburantes y combustibles indicados, los productos que se utilicen como carburantes en sustitución de aquéllos.
+Los carburantes y combustibles a que se refiere el presente apartado, así como los casos en que los productos que los sustituyan en un uso como carburante se sometan al gravamen complementario, serán definidos, delimitados y establecidos con arreglo a los criterios, conceptos y definiciones establecidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, en relación con el Impuesto sobre Hidrocarburos.
+2. Tipos impositivos del gravamen complementario.
+Los tipos impositivos del gravamen complementario serán determinados en la Ordenanza respectiva y en ningún caso podrán exceder de los tipos impositivos del Impuesto sobre Hidrocarburos aplicables en su ámbito territorial, al mismo producto y, en su caso, por el mismo uso.
+Los tipos impositivos del gravamen complementario aplicables serán los vigentes en el momento del devengo.
+3. El gravamen complementario no será exigible en las mismas circunstancias que determinarían la no exigibilidad del Impuesto sobre Hidrocarburos en su ámbito territorial de aplicación. En particular, el devengo del gravamen complementario se aplazará respecto de los carburantes y combustibles petrolíferos que se introduzcan en los depósitos que se autoricen a tal efecto, hasta, en su caso, su salida de los mismos.
+La autorización de los depósitos a que se refiere el párrafo anterior se efectuará por el Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, previo informe favorable de la respectiva Ciudad, en las mismas condiciones que las previstas para la autorización de depósitos fiscales de hidrocarburos en el ámbito territorial de aplicación del Impuesto sobre Hidrocarburos. Los titulares de los depósitos así autorizados tendrán, en cuanto al gravamen complementario, la condición de sujetos pasivos en calidad de sustitutos del contribuyente.
+El control de los depósitos a que se refiere este número será efectuado por los servicios dependientes del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, en colaboración con los servicios fiscales de las respectivas Ciudades.
+4. Se reconoce el derecho a la devolución del gravamen complementario en las mismas circunstancias en que se produciría la devolución de las cuotas del Impuesto sobre Hidrocarburos en su ámbito territorial de aplicación.
+Se modifica el apartado A).5 por el art. 14.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el apartado A).5 por la disposición adicional 36 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Redactado conforme a la corrección de errores publicada en BOE núm. 155, de 29 de junio de 2001. Ref. BOE-A-2001-12536
+ Se modifica el apartado A).4 por el art. 5.1.4 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Se añade por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Art 19
+
+Artículo 19. Cuota tributaria.
+La cuota de este Arbitrio es el resultado de aplicar a la base imponible el tipo de gravamen que corresponda.
+
+### Art 20
+
+Artículo 20. Deducciones y devoluciones.
+1. Los sujetos pasivos podrán deducir de las cuotas del Impuesto devengadas por las operaciones gravadas que realicen las que, devengadas en el territorio de aplicación de dicho Tributo, hayan soportado por repercusión directa o satisfecho por las adquisiciones o importaciones de bienes, en la medida en que dichos bienes se utilicen en las actividades de producción o elaboración que se señalan en la letra a) del artículo 3º de esta Ley, o bien sean exportados definitivamente al resto del territorio nacional o al extranjero.
+No obstante, no podrán deducirse las cuotas a las que se refiere el párrafo anterior correspondientes a bienes exportados que no resulten exentos de acuerdo con lo previsto en el artículo 8 de esta Ley.
+Serán de aplicación en el Impuesto las mismas exigencias, limitaciones y restricciones que se contienen en la legislación común del Impuesto sobre el Valor Añadido para la deducción de las cuotas soportadas, sin perjuicio de lo dispuesto en este artículo.
+2. Los sujetos pasivos que no hayan podido efectuar las deducciones previstas en el apartado anterior, por exceder su cuantía de las cuotas devengadas, tendrán derecho a solicitar la devolución del saldo a su favor, existente a 31 de diciembre de cada año, en la forma que reglamentariamente se determine.
+3. Las cuotas soportadas o satisfechas en relación con las entregas de bienes inmuebles, las prestaciones de servicios, el consumo de energía eléctrica, los gravámenes complementarios sobre las labores del tabaco y sobre ciertos carburantes y combustibles petrolíferos, no podrán ser objeto de deducción, sin perjuicio de las devoluciones que procedan conforme a lo dispuesto en el número 6 del apartado A) y en el número 4 del apartado B), ambos del artículo 18 bis de esta Ley.
+4. En los supuestos de deducciones y devoluciones por exportaciones, la realización de la exportación deberá acreditarse conforme a los requisitos que se establezcan en la Ordenanza Fiscal.
+Se modifica por el art. 5.1.5 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Se modifica por el art. 68.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Se añade el apartado 4 por el art. 1.4 del Real Decreto-Ley 14/1996, de 8 de noviembre. Ref. BOE-A-1996-24749
+
+### Art 21
+
+Artículo 21. Obligaciones de los sujetos pasivos.
+1. Los sujetos pasivos empresarios estarán obligados a:
+a) Presentar declaraciones relativas al comienzo, modificación y cese de actividades que determinen la sujeción al Arbitrio, todo ello en los plazos y en la forma que se determine reglamentariamente.
+b) Llevar la contabilidad en la forma que reglamentariamente se determine, sin perjuicio de lo establecido en el Código de Comercio, la cual deberá permitir determinar con exactitud el importe de las operaciones sujetas, así como su separación según el tipo de gravamen que corresponda.
+c) Expedir y entregar facturas de sus operaciones en la forma y con los requisitos que reglamentariamente se determinen.
+d) Presentar las declaraciones y liquidaciones correspondientes a cada período de liquidación en la forma y plazos que reglamentariamente se establezca.
+e) Presentar al órgano competente del Ayuntamiento, cuando sea requerido para ello, la información relativa a sus operaciones económicas con terceras personas.
+2. Los sujetos pasivos no empresarios sólo estarán obligados a presentar las correspondientes declaraciones y liquidaciones en la forma y plazos que reglamentariamente se establezca.
+
+### Art 22
+
+Artículo 22. Liquidación.
+1. El Impuesto se liquidará en la forma y plazos que reglamentariamente se determine. Podrán establecerse liquidaciones provisionales de oficio realizadas por la Administración Tributaria.
+2. Las Ciudades de Ceuta y Melilla podrán exigir el Impuesto en régimen de autoliquidación.
+3. En las importaciones, la liquidación que corresponda y el pago resultante habrán de efectuarse con anterioridad al acto administrativo de despacho o a la entrada de las mercancías en el territorio de sujeción. Podrá otorgarse un plazo máximo de 90 días desde la introducción de las mercancías hasta el pago del impuesto si, a juicio de la Administración o de los órganos gestores, queda suficientemente garantizada la deuda tributaria.
+Se modifica el apartado 3, con efectos desde el 1 de enero de 2013, por la disposición final 6.3 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica el apartado 3 por el art. 14.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica por el art. 5.1.6 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Se modifica el apartado 3 por el art. 1.5 del Real Decreto-Ley 14/1996, de 8 de noviembre. Ref. BOE-A-1996-24749
+
+### Art 23
+
+Artículo 23. Infracciones y sanciones.
+El régimen de infracciones y sanciones aplicables a este Impuesto será, con carácter general, el regulado en la Ley 58/2003, de 17 de diciembre, General Tributaria y en las disposiciones que la complementen y desarrollen y, con carácter especial, el previsto en la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+Se modifica por el art. 7 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surte efectos desde el 1 de enero de 2010, según establece la disposición final 4.
+
+### Art 24
+
+Artículo 24. Administración competente.
+La gestión, liquidación, recaudación e inspección del Arbitrio, así como la revisión de los actos dictados en aplicación del mismo, corresponden a los Ayuntamientos de Ceuta y Melilla.
+El ejercicio de las funciones a que se refiere el apartado anterior, se ajustará, en todo caso, a lo previsto en los artículos 10 a 14, ambos inclusive, de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.
+Al amparo de lo previsto en el artículo 8 de la Ley 39/1988, de 28 de diciembre, la Administración Tributaría del Estado y los Ayuntamientos de Ceuta y Melilla podrán convenir el régimen de colaboración que proceda, en orden a la adecuada exacción del Arbitrio.
+
+### Art 25
+
+Artículo 25. Ordenanzas Fiscales.
+Las Ciudades de Ceuta y Melilla, en el ejercicio de su potestad reglamentaria, aprobarán las correspondientes Ordenanzas fiscales, con sujeción a las normas legales que resulten de aplicación.
+Se modifica por el art. 1.6 del Real Decreto-Ley 14/1996, de 8 de noviembre. Ref. BOE-A-1996-24749
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Hasta la fecha en que comience a aplicarse el Arbitrio que se establece por virtud de la presente Ley, continuará exigiéndose en Ceuta y Melilla el actualmente vigente Arbitrio a la entrada de mercancías, el cual quedará definitivamente suprimido a partir de dicha fecha.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La supresión del hasta ahora vigente Arbitrio a la entrada de mercancías en Ceuta y Melilla, así como la derogación de las disposiciones por las que se rige dicho Arbitrio, se entiende sin perjuicio del derecho de los respectivos Ayuntamientos a exigir, con arreglo a las referidas disposiciones, las deudas devengadas con anterioridad.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Vehículos de tracción mecánica, embarcaciones o aeronaves importadas pendientes de matriculación en las Ciudades de Ceuta y Melilla.
+Los vehículos de tracción mecánica, embarcaciones o aeronaves, que con anterioridad al 1 de enero de 2013 hubieran ya cumplido las formalidades de importación y se encuentren pendientes de matriculación en las Ciudades de Ceuta o Melilla, devengarán el impuesto en el momento en que se produzca su matriculación.
+Se añade, con efectos desde el 1 de enero de 2013, por la disposición final 6.4 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Quedan derogadas cuantas disposiciones legales y reglamentarias regulan el hasta ahora vigente Arbitrio a la entrada de mercancías en Ceuta y Melilla.
+2. Lo dispuesto en el apartado anterior se entiende sin perjuicio de lo previsto en las Disposiciones Transitorias.
+
+### Disposición final
+
+Disposición final.
+1. Se autoriza al Gobierno de la Nación para dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de la presente Ley, todo ello sin perjuicio de lo previsto en el artículo 25 de la misma.
+2. La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+Los Ayuntamientos de Ceuta y Melilla deberán aprobar y publicar las Ordenanzas fiscales a que se refiere el artículo 25, dentro de los seis meses siguientes a la fecha de entrada en vigor de la presente Ley.
+El Arbitrio que se establece por virtud de la presente Ley comenzará a aplicarse a los treinta días de la fecha en que se publiquen las Ordenanzas fiscales a que se refiere el párrafo anterior.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 25 de marzo de 1991.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

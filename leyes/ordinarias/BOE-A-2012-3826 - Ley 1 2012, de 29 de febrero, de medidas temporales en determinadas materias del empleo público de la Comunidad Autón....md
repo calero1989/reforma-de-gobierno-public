@@ -1,0 +1,139 @@
+# Ley 1/2012, de 29 de febrero, de medidas temporales en determinadas materias del empleo público de la Comunidad Autónoma de Galicia.
+
+- Identificador BOE: `BOE-A-2012-3826`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-3826
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+La presente ley tiene como objetivo poner a disposición de la Administración autonómica, así como de las entidades a las que sea de aplicación, una serie de instrumentos que permitan conseguir una mayor eficiencia en los recursos públicos y obtener una mayor productividad de los recursos humanos.
+La grave situación presupuestaria y la necesidad de reducir el déficit público, para conseguir una situación de equilibrio sin menoscabar la prestación de los servicios públicos esenciales, y preservando el principio de solidaridad entre la ciudadanía de la Comunidad Autónoma de Galicia, hacen necesario adoptar una serie de medidas extraordinarias, urgentes y de carácter temporal en materia de contención de gastos en el capítulo I de los presupuestos de la Comunidad Autónoma de Galicia.
+Los prontos cambios en la situación económica internacional, española y gallega, que provocan fuertes variaciones en las previsiones de crecimiento económico y que influyen de manera determinante en la previsión de financiación de la Comunidad Autónoma, obligan a actuar con celeridad por parte de la Xunta de Galicia para adoptar de forma inmediata medidas que garanticen el principio de estabilidad presupuestaria y que, además, permitan mantener la prestación de los servicios públicos esenciales, sin perjudicar las políticas sociales, educativas y sanitarias, y continuar con las medidas de estímulo al crecimiento.
+La imposibilidad de aprobar estas medidas por medio de decreto ley, puesto que el ordenamiento jurídico de la Comunidad Autónoma de Galicia no contempla dicha norma, hace necesario la aprobación con carácter urgente de la presente ley.
+Estas medidas implican en algunos casos la necesidad de suspender la aplicación de normas de carácter legal o convencional, además de introducir algunos preceptos nuevos. El fundamento de la suspensión de la aplicación de determinados preceptos contenidos en el V Convenio colectivo único para el personal laboral de la Xunta de Galicia se encuentra en el artículo 38.10 del Estatuto básico del empleado público, que permite revisar las condiciones de trabajo del personal funcionario y laboral cuando concurren causas graves de interés público derivadas de una alteración sustancial de las circunstancias económicas.
+El carácter de la presente ley es temporal, quedando supeditada su vigencia a la subsistencia de las difíciles circunstancias económicas que afectan a la sostenibilidad de las cuentas públicas.
+La presente ley se estructura en ocho artículos, dos disposiciones adicionales, una disposición transitoria y una disposición final, cuyo contenido es el siguiente:
+En primer lugar, esta ley profundiza en el concepto de solidaridad y, por tanto, abarca a la totalidad de los empleados y empleadas públicos, resultando de aplicación tanto al personal funcionario y estatutario como al personal laboral, incluidos quienes presten servicios en los entes instrumentales y órganos estatutarios de la Comunidad Autónoma de Galicia.
+En segundo lugar, y con la finalidad de contribuir a la disminución del gasto público y a la reducción del absentismo laboral, se suspende, en determinados supuestos, el complemento a las prestaciones de la Seguridad Social en situaciones de incapacidad temporal y toda convocatoria, concesión o abono de ayudas en concepto de acción social, incluyéndose el mandato básico que se estableció en el Real decreto ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público.
+En tercer lugar, se modifica el texto refundido de la Ley de la función pública de Galicia, aprobado por Decreto legislativo 1/2008, de 13 de marzo, introduciendo las medidas siguientes:
+– Se establece el procedimiento y los requisitos para conceder o denegar la prolongación de la permanencia en el servicio activo, valorando las aptitudes del empleado público que la solicita y ponderando razones organizativas.
+– Respecto a los días de libre disposición, se equipara su número a lo que dispone la normativa básica estatal.
+– Por último, se suspende el abono del incremento del complemento de destino a los ex altos cargos.
+En cuarto lugar, se contempla la posibilidad de solicitar voluntariamente la reducción de la jornada de los funcionarios de carrera y laborales fijos, y se faculta al Consello de la Xunta para poder reducir la jornada del personal temporal, al objeto de mantener el nivel de empleo en nuestra comunidad y siempre que no sea afectada la calidad y prestación de los servicios públicos.
+En línea con lo establecido para el conjunto del sector público estatal por el artículo 4 del citado Real Decreto-ley 20/2011, la jornada ordinaria de trabajo de todos los empleados y empleadas de la Xunta de Galicia deberá tener un promedio semanal no inferior a treinta y siete horas y treinta minutos. Por tal motivo, no siendo admisible en estos momentos el mantenimiento de excepciones derivadas de la aplicación del régimen jurídico laboral, se hace preciso suspender la vigencia de determinados artículos del V Convenio colectivo único para el personal laboral de la Xunta de Galicia, los cuales amparaban, hasta ahora, la realización de una jornada significativamente inferior a la señalada.
+Finalmente, la ley autoriza al Consello de la Xunta para que, una vez tenidos en cuenta criterios objetivos, pueda acordar la adecuación del régimen económico de aplicación a los órganos de gobierno o dirección y al personal directivo de las entidades del sector público autonómico.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.2 del Estatuto de Galicia y con el artículo 24 de la Ley 1/1983, de 22 de febrero, reguladora de la Xunta y de su Presidencia, promulgo en nombre del Rey, la Ley de medidas temporales en determinadas materias del empleo público de la Comunidad Autónoma de Galicia.
+
+### Artículo 1
+
+Artículo 1. Ámbito de aplicación.
+La presente ley se aplica a todo el personal al servicio de las siguientes administraciones públicas y entidades:
+a) Los órganos estatutarios de Galicia, sin perjuicio de lo dispuesto en el artículo 12.2 del Estatuto de autonomía de Galicia para el Parlamento.
+b) La Administración de la Comunidad Autónoma y de sus organismos autónomos.
+c) Las entidades públicas de consulta o asesoramiento autonómicas.
+d) Las agencias públicas autonómicas.
+e) Las entidades públicas empresariales a que hace referencia el artículo 89 de la Ley 16/2010, de 17 de diciembre, de organización y funcionamiento de la Administración general y del sector público autonómico de Galicia.
+f) Los consorcios autonómicos a que se refiere el artículo 95 de la Ley 16/2010, de 17 de diciembre, de organización y funcionamiento de la Administración general y del sector público autonómico de Galicia.
+g) Las sociedades mercantiles públicas autonómicas a que se refiere el artículo 102 de la Ley 16/2010, de 17 de diciembre, de organización y funcionamiento de la Administración general y del sector autonómico de Galicia.
+h) Las fundaciones públicas sanitarias y demás fundaciones del sector público de la Comunidad Autónoma a que se refiere el artículo 113 de la Ley 16/2010, de 17 de diciembre, de organización y funcionamiento de la Administración general y del sector público autonómico de Galicia.
+
+### Artículo 2
+
+Artículo 2. Incapacidad temporal.
+(Derogado).
+Se deroga por la disposición derogatoria única 1.d) de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#dd
+
+### Artículo 3
+
+Artículo 3. Acción social.
+1. Se suspende para todo el personal incluido en el ámbito de aplicación de la presente ley la convocatoria, concesión o abono de cualquier ayuda derivada del concepto de acción social, así como cualquier otra que tenga la misma naturaleza o finalidad, excepto la ayuda por persona con discapacidad, que no podrá ser superior a la cuantía de 180 euros mensuales por cada persona, mientras esté en vigor esta ley.
+2. En todo caso, durante la vigencia de la presente ley, las administraciones y entidades incluidas dentro de su ámbito de aplicación no podrán realizar aportaciones a planes de pensiones de empleo o contratos de seguros colectivos que incluyan la cobertura de la contingencia de jubilación.
+
+### Artículo 4
+
+Artículo 4. Modificación del texto refundido de la Ley de la función pública de Galicia, aprobado por Decreto legislativo 1/2008, de 13 de marzo.
+1. El texto refundido de la Ley de la función pública de Galicia, aprobado por Decreto legislativo 1/2008, queda modificado como sigue:
+Uno. Se modifica el apartado 1 del artículo 49 del texto refundido de la Ley de la función pública de Galicia, aprobado por Decreto legislativo 1/2008, de 13 de marzo, quedando redactado como sigue:
+«La jubilación forzosa del personal funcionario se declara de oficio al cumplir la persona la edad legalmente establecida.
+No obstante lo anterior, el personal funcionario puede solicitar, con una antelación mínima de tres meses y máxima de cuatro meses a la fecha en que cumpla la edad de jubilación forzosa, la prolongación de la permanencia en la situación de servicio activo, hasta el cumplimiento de la edad máxima legalmente establecida, que se concederá, en su caso, por periodos de un año renovables anualmente a solicitud de la persona interesada presentada con un plazo de antelación mínima de tres meses a la fecha de finalización de la prolongación concedida y, si no presentara solicitud, se declara de oficio la jubilación forzosa.
+La aceptación o denegación de estas solicitudes se resolverá de forma motivada sobre la base de algunos de los criterios siguientes:
+a) Razones organizativas derivadas de la planificación del empleo público.
+b) Resultados de la evaluación del desempeño de la persona solicitante.
+c) Capacidad psicofísica de la persona solicitante, acreditada mediante resolución, dictamen o informe médico.
+Asimismo, el órgano competente en materia de personal de la consejería, organismo o entidad en que preste servicios la persona funcionaria emitirá informe motivado relativo a la concesión o denegación de la prolongación de la permanencia en el servicio activo.
+Se faculta a la consejera o consejero competente para dictar, en su caso, las normas complementarias de procedimiento.
+El personal funcionario docente no universitario puede optar por jubilarse a la finalización del curso académico en que cumpla la edad legalmente establecida. La misma regla será de aplicación en los supuestos de prolongación de la permanencia en la situación de servicio activo.
+En todo caso, se tendrá en cuenta el plan de ordenación de recursos humanos respecto a aquel personal en que su normativa específica así lo establezca.
+De la prolongación de la permanencia en servicio activo queda exceptuado el personal funcionario de aquellos cuerpos y escalas que tengan normas específicas de jubilación de acuerdo con lo dispuesto en la normativa básica estatal.»
+Dos. El apartado 3 del artículo 76 del texto refundido de la Ley de la función pública de Galicia, aprobado por Decreto legislativo 1/2008, de 13 de marzo, queda redactado como sigue:
+«Podrá disponerse de los días al año que establezca la legislación básica del Estado, como máximo, de permiso para asuntos personales sin justificación, atendiendo siempre a las necesidades del servicio.»
+Tres. Complemento de destino de los ex altos cargos.
+Se suspende el derecho a la percepción del complemento que se establece en la disposición adicional decimoséptima del texto refundido de la Ley de la función pública de Galicia, aprobado por Decreto legislativo 1/2008, de 13 de marzo, de incremento del complemento de destino en la cantidad necesaria para igualarlo al valor del complemento de destino o concepto equivalente que la Ley de presupuestos generales del Estado fije para los directores y directoras generales.
+2. Lo previsto en el presente artículo sobre los días de libre disposición y el incremento del complemento de destino de los ex altos cargos es de aplicación a todo el personal a que hace referencia el artículo 1 de esta ley.
+3. Lo previsto en el presente artículo sobre la prolongación de la permanencia en el servicio activo es de aplicación a todo el personal a que hace referencia el artículo 1 de esta ley, excepto al personal laboral según lo que establecen sus normas específicas.
+
+### Artículo 5
+
+Artículo 5. Jornada laboral.
+1. A partir de la entrada en vigor de la presente ley, y para el conjunto de todo el personal comprendido en su artículo 1, la jornada ordinaria de trabajo tendrá un promedio semanal no inferior a treinta y siete horas y treinta minutos.
+Esta media semanal se entenderá sin perjuicio de las jornadas especiales existentes, que se adaptarán a la jornada ordinaria con las correspondientes modificaciones.
+2. El personal funcionario de carrera, el personal estatutario y el personal laboral fijo podrá solicitar voluntariamente la reducción de su jornada diaria, con la correspondiente reducción proporcional de retribuciones, con el límite máximo de un tercio de la jornada efectiva, teniendo en cuenta siempre las necesidades del servicio. La concesión de dicha reducción, en caso de autorizarse la misma, corresponderá al órgano que desempeñe, en su caso, las competencias en materia de personal.
+Se deroga el apartado 3 por la disposición derogatoria única de la Ley 2/2013, de 27 de febrero. Ref. BOE-A-2013-4088
+
+### Artículo 6
+
+Artículo 6. Suspensión de la aplicación de determinados artículos del convenio colectivo.
+Uno. Se suspende la aplicación del artículo 19, excepto el apartado 1, del V Convenio colectivo único para el personal laboral de la Xunta de Galicia.
+Dos. Se suspende la aplicación del artículo 29, Derecho a comedor, del V Convenio colectivo único para el personal laboral de la Xunta de Galicia, salvo para el personal laboral de educación y el derecho del personal que trabaje en turno de noche a recibir bebidas frías y calientes reconocido en el inciso final del primer párrafo.
+Tres. Se suspende la aplicación del artículo 34.2 del V Convenio colectivo único para el personal laboral de la Xunta de Galicia.
+Cuatro. Se suspende la aplicación de la disposición adicional tercera del V Convenio colectivo único para el personal laboral de la Xunta de Galicia.
+
+### Artículo 7
+
+Artículo 7. Provisión de puestos de trabajo y movilidad.
+No serán ofertados en los concursos de traslados los puestos de personal laboral afectados por la disposición transitoria decimocuarta del texto refundido de la Ley de la función pública de Galicia, aprobado por el Decreto legislativo 1/2008, de 13 de marzo, y por la disposición transitoria décima del V Convenio colectivo de personal laboral de la Xunta de Galicia mientras no se realicen los procesos selectivos a que se refieren dichas disposiciones.
+Se modifica por el art. 15 de la Ley 2/2017, de 8 de febrero. Ref. BOE-A-2017-3823#a1-7
+
+### Artículo 8
+
+Artículo 8. Régimen económico de aplicación a los órganos de gobierno o dirección y al personal directivo de las entidades del sector público autonómico.
+(Derogado).
+Se deroga por la disposición derogatoria única.3 de la Ley 1/2016, de 18 de enero. Ref. BOE-A-2016-3190#ddunica
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Se faculta al Consello de la Xunta de Galicia para aprobar todas aquellas normas y adoptar todas las medidas necesarias para la aplicación de la presente ley.
+2. Se faculta a todos aquellos órganos administrativos que tengan competencia en materia de personal para dictar aquellas disposiciones necesarias para la adaptación y aplicación de la presente ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Destino de los ahorros derivados de la aplicación de la presente ley.
+Se autoriza a la Consejería de Hacienda a efectuar las retenciones de créditos oportunas en las partidas presupuestarias en que se reduce el gasto correspondiente derivado de la aplicación de la presente ley, para su posterior baja en contabilidad.
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+Uno. El personal funcionario que cumpla la edad de jubilación forzosa en un plazo inferior a cuatro meses desde la fecha de entrada en vigor de la presente ley dispondrá de un plazo de un mes a contar desde el día siguiente a la entrada en vigor de esta ley para solicitar la prolongación de su permanencia en la situación de servicio activo. Si en el plazo indicado el funcionario no manifiesta su voluntad de permanecer en servicio activo mediante la presentación de la correspondiente solicitud, se procederá a su jubilación forzosa en la fecha de cumplimiento de la citada edad.
+Dos. El personal funcionario que en la fecha de entrada en vigor de la presente ley hubiera cumplido los sesenta y cinco años de edad y permaneciese en situación de activo habrá de adecuarse al nuevo sistema de prórrogas anuales establecido en esta ley mediante presentación de solicitud para su permanencia en el servicio activo con una antelación mínima de un mes y máxima de tres meses a la fecha en que cumpla el siguiente año de edad por primera vez tras la entrada en vigor de esta ley.
+Si en este plazo no manifiesta su voluntad de permanecer en servicio activo mediante la presentación de la correspondiente solicitud se procederá a su jubilación forzosa con efectos de la fecha de cumplimiento de años. En caso contrario la administración resolverá expresamente lo que proceda.
+
+### Disposición final única
+
+Disposición final única.
+La presente ley entrará en vigor al día siguiente de su publicación en el «Diario Oficial de Galicia».
+Se suspenden, en tanto en cuanto esté en vigor esta ley, todas aquellas normas legales o de carácter reglamentario, convenios o acuerdos que contradigan lo dispuesto en la misma.
+Las medidas contempladas en la presente ley serán revisadas en un plazo de dos años desde la entrada en vigor de la misma, en función de la evolución del producto interior bruto real de Galicia y del ahorro primario de los presupuestos.
+
+Santiago de Compostela, 29 de febrero de 2012.
+El Presidente,
+Alberto Núñez Feijóo.
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que se mantienen las medidas contenidas en los artículos 3, 5.1, 5.2, 6, 7 y 8 de la presente ley, según se establece en la disposición final 3 de la Ley 13/2015, de 24 de diciembre. Ref. BOE-A-2016-2017
+ Se amplía el plazo de vigencia para el ejercicio de 2015 por la disposición final 1 de la Ley 11/2014, de 19 de diciembre. Ref. BOE-A-2015-2605

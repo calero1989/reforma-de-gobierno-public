@@ -1,0 +1,603 @@
+# Ley 4/2010, de 17 de marzo, de consultas populares por vía de referéndum.
+
+- Identificador BOE: `BOE-A-2010-6105`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2010-6105
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 65 del Estatuto de autonomía de Cataluña, promulgo la siguiente
+Ley 4/2010, de 17 de marzo, de consultas populares por vía de referéndum.
+PREÁMBULO
+El Gobierno tiene como objetivos profundizar en el desarrollo de las disposiciones estatutarias, fomentar la participación e incrementar la calidad democrática impulsando la implementación de mecanismos de participación ciudadana, para hacer más próxima la Administración y asegurar la participación de la ciudadanía en la toma de decisiones que afectan a sus intereses.
+El Estatuto de autonomía, por primera vez, reconoce una serie de derechos y principios rectores que deben inspirar la acción de los poderes públicos de Cataluña. Uno de los derechos que reconoce, de forma amplia, es el derecho de participación (artículo 29). El artículo 23 de la Constitución ya dispone que la ciudadanía tiene derecho a participar en los asuntos públicos de forma directa, pero en Cataluña el Estatuto ha desarrollado este derecho con más intensidad y concreción, reconociendo a la ciudadanía el derecho a promover la convocatoria de consultas populares por parte de la Generalidad y los ayuntamientos, en materia de sus competencias respectivas.
+Cuando hablamos de consultas populares debemos distinguir dos categorías. Por una parte, los instrumentos de participación ciudadana dirigidos a conocer la posición o las opiniones de la ciudadanía con relación a cualquier aspecto de la vida pública y que se materializan en múltiples y diversas modalidades, como encuestas, foros de debate y participación, y audiencias públicas. Por otra parte, los referéndums, que son una modalidad de consulta popular en que se llama a todo el censo electoral a participar y se garantizan los requisitos formales y legales para validar la consulta y su resultado.
+Hasta la entrada en vigor de la presente Ley, el referéndum solo se preveía para tres supuestos muy concretos: el referéndum consultivo para las decisiones políticas de especial trascendencia (artículo 92 de la Constitución), el referéndum constitucional para ratificar las reformas constitucionales (artículos 167 y 168 de la Constitución) y el referéndum para ratificar los estatutos de autonomía (artículo 151 de la Constitución). El ordenamiento jurídico prevé también que puedan celebrarse referéndums en el ámbito municipal, donde, a instancia de los ciudadanos o del ente local, un municipio puede poner en marcha el procedimiento para celebrar un referéndum que, en último término, debe autorizar el Estado.
+El artículo 122 del Estatuto establece que corresponde a la Generalidad la competencia exclusiva para el establecimiento del régimen jurídico, modalidades, procedimiento, cumplimiento y convocatoria por la propia Generalidad o por los entes locales, en el ámbito de sus competencias, de encuestas, audiencias públicas, foros de participación y cualquier otro instrumento de consulta popular, sin perjuicio de lo dispuesto por el artículo 149.1.32 de la Constitución.
+En este marco competencial, la presente Ley establece el régimen jurídico, procedimiento, cumplimiento y convocatoria de las consultas populares por vía de referéndum en el ámbito de Cataluña y en el ámbito municipal. La autorización de estas consultas populares cae, necesariamente, dentro del ámbito competencial del Estado en cumplimiento de lo dispuesto por el artículo 149.1.32 de la Constitución. Igualmente, las disposiciones de la presente ley sobre las consultas populares por vía de referéndum en Cataluña respetan lo establecido por la Ley Orgánica 2/1980, de 18 de enero, de regulación de las diversas modalidades de referéndum, y la Ley Orgánica 5/1985, de 19 de junio, del régimen electoral general. Sin embargo, lo dispuesto por la Ley Orgánica 2/1980 no es de aplicación a las consultas populares en el ámbito municipal, tal y como establece su disposición adicional.
+La presente Ley define dos ámbitos de las consultas populares por vía de referéndum: por una parte, las consultas populares que se promuevan en el ámbito de Cataluña, y por otra, las que se promuevan en el ámbito municipal.
+En lo que concierne al ámbito de Cataluña, el objeto de las consultas son las cuestiones políticas de especial trascendencia para la ciudadanía en el ámbito de las competencias de la Generalidad. Se establece que el efecto sea consultivo y que el Gobierno comparezca ante el Pleno del Parlamento y fije su posición con relación al resultado de la consulta. Además, se ha querido prever la posibilidad de que sean las instituciones públicas las que puedan promover una consulta popular por vía de referéndum. Así, el Gobierno, el Parlamento y los municipios están legitimados, como representantes de los intereses de la ciudadanía, para proponer la convocatoria de una consulta popular.
+En lo que concierne al ámbito municipal, las consultas populares por vía de referéndum ya estaban reguladas por la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local, por el Decreto Legislativo 2/2003, de 28 de abril, por el que se aprueba el texto refundido de la ley municipal y de régimen local de Cataluña, y por el Decreto 294/1996, de 23 de julio, por el que se aprueba el Reglamento de consultas populares municipales. La presente ley simplifica y dota de más garantías el procedimiento de recogida de firmas y validación de la propuesta de consulta, cuando esta proviene de los vecinos. Las consultas populares en el ámbito municipal tienen también efectos consultivos y se establece que el alcalde o alcaldesa deba comparecer ante el pleno municipal y pronunciarse sobre el resultado de la consulta.
+La presente Ley se estructura en cinco títulos. El título I contiene las disposiciones de carácter general, que definen la consulta popular por vía de referéndum como un instrumento de participación directa para determinar la voluntad del cuerpo electoral sobre cuestiones políticas de especial trascendencia con las garantías propias del procedimiento electoral. Además, el título I establece el objeto y el ámbito de aplicación de la presente Ley, define el cuerpo electoral y delimita el alcance del objeto de las consultas populares por vía de referéndum.
+El título II, que regula las consultas populares por vía de referéndum de ámbito de Cataluña, se divide en tres capítulos: un primer capítulo que define el ámbito, objeto, naturaleza y modalidades de las consultas populares, y el segundo y el tercer capítulos, que desarrollan las dos modalidades de consulta popular, según si la iniciativa es institucional o popular. Así, las consultas populares iniciadas por el Gobierno, por una quinta parte de los diputados o dos grupos parlamentarios o por diez municipios de Cataluña conforman las consultas populares de iniciativa institucional, reguladas por el capítulo II. Las consultas populares promovidas por la ciudadanía son las denominadas consultas populares de iniciativa popular, que regula el capítulo III.
+En las dos modalidades de consulta popular se prevé un posible control de la adecuación constitucional y estatutaria del objeto de la consulta por parte del Consejo de Garantías Estatutarias, y una aprobación final, por mayoría absoluta del Parlamento, como trámite previo a la solicitud de autorización de la consulta al Estado.
+En cuanto a la consulta de iniciativa popular, se requiere que la propuesta sea avalada por el 3% de la población por medio de un proceso de recogida de firmas que, finalmente, debe validar el Parlamento.
+El título III, que regula las consultas populares por vía de referéndum de ámbito municipal, se divide en tres capítulos. El capítulo I contiene las disposiciones de carácter general, es decir, el ámbito, el objeto, la naturaleza, las modalidades y, en este caso, también, las materias excluidas de consulta por vía de referéndum, que son únicamente las relativas a las finanzas locales. La tramitación de la solicitud de la autorización de la convocatoria también está regulada por este capítulo, porque es común a las dos modalidades de consulta popular establecidas por los capítulos II y III.
+El capítulo II desarrolla las consultas populares de iniciativa institucional, que son las que han sido promovidas por el alcalde o alcaldesa o por una tercera parte de los concejales de cada municipio. La propuesta de consulta popular, para que sea tramitada, debe ser aprobada por la mayoría absoluta de los miembros del pleno municipal. Finalmente, el capítulo III regula las consultas populares de iniciativa popular, que son las promovidas por un porcentaje determinado de los vecinos de un municipio según el número total de habitantes de este.
+El título IV regula el procedimiento de convocatoria y celebración de las consultas populares por vía de referéndum, tanto en el ámbito de Cataluña como en el ámbito municipal, una vez han sido autorizadas por el Estado.
+El título V regula los principios y garantías de la utilización de los medios electrónicos en las consultas populares por vía de referéndum, de acuerdo con la Recomendación del Comité de Ministros del Consejo de Europa de 2004 relativa a los estándares legales, operacionales y técnicos para el voto electrónico.
+La parte final de la Ley contiene cinco disposiciones adicionales, dos transitorias, una final y una disposición derogatoria, que revoca los artículos 159, 160 y 161 del Decreto Legislativo 2/2003 y el Decreto 294/1996.
+
+## TÍTULO I
+
+Disposiciones generales
+Se declara inconstitucional y nulo, en los términos señalados en el fundamente jurídico 7, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+
+### Artículo 1
+
+Artículo 1. Objeto.
+(Anulado)
+Se declara inconstitucional y nulo, en los términos señalados en el fundamente jurídico 7, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+(Anulado)
+Se declara inconstitucional y nulo, en los términos señalados en el fundamente jurídico 7, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 3
+
+Artículo 3. Concepto de consulta popular por vía de referéndum.
+(Anulado)
+Se declara inconstitucional y nulo, en los términos señalados en el fundamente jurídico 7, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 4
+
+Artículo 4. Cuerpo electoral.
+(Anulado)
+Se declara inconstitucional y nulo, en los términos señalados en el fundamente jurídico 7, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 5
+
+Artículo 5. Personas legitimadas para firmar.
+(Anulado)
+Se declara inconstitucional y nulo, en los términos señalados en el fundamente jurídico 7, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 6
+
+Artículo 6. Limitación del objeto de las consultas populares.
+(Anulado)
+Se declara inconstitucional y nulo, en los términos señalados en el fundamente jurídico 7, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 7
+
+Artículo 7. Documentación que debe acompañar la propuesta de consulta.
+(Anulado)
+Se declara inconstitucional y nulo, en los términos señalados en el fundamente jurídico 7, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 8
+
+Artículo 8. Retirada de la propuesta de consulta.
+(Anulado)
+Se declara inconstitucional y nulo, en los términos señalados en el fundamente jurídico 7, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 9
+
+Artículo 9. Nueva formulación de una consulta propuesta o celebrada.
+(Anulado)
+Se declara inconstitucional y nulo, en los términos señalados en el fundamente jurídico 7, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+## TÍTULO II
+
+De las consultas populares por vía de referéndum de ámbito de Cataluña
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+
+## CAPÍTULO I
+
+Disposiciones generales
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+
+### Artículo 10
+
+Artículo 10. Objeto y ámbito de la consulta.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 11
+
+Artículo 11. Modalidades de consultas populares por vía de referéndum de ámbito de Cataluña.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 12
+
+Artículo 12. Naturaleza de la consulta.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 13
+
+Artículo 13. Tramitación para la autorización.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 14
+
+Artículo 14. Períodos inhábiles para la formulación de propuestas de consulta popular por vía de referéndum.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+## CAPÍTULO II
+
+Consultas populares por vía de referéndum de ámbito de Cataluña de iniciativa institucional
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+
+### Artículo 15
+
+Artículo 15. Iniciativa.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+## Sección primera
+
+Sección primera. Iniciativa del Gobierno y del Parlamento
+Se declara inconstitucional y nula por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+
+### Artículo 16
+
+Artículo 16. Tramitación de la iniciativa del Gobierno.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 17
+
+Artículo 17. Tramitación de la iniciativa del Parlamento.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 18
+
+Artículo 18. Aprobación de la iniciativa.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+## Sección segunda
+
+Sección segunda. Iniciativa municipal
+Se declara inconstitucional y nula por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+
+### Artículo 19
+
+Artículo 19. Tramitación de la iniciativa.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 20
+
+Artículo 20. Aprobación de la iniciativa.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+## CAPÍTULO III
+
+Consultas populares por vía de referéndum de ámbito de Cataluña de iniciativa popular
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+
+### Artículo 21
+
+Artículo 21. Iniciativa.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 22
+
+Artículo 22. Materias excluidas.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 23
+
+Artículo 23. Comisión promotora.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 24
+
+Artículo 24. Presentación y admisión de la propuesta de consulta.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 25
+
+Artículo 25. Recogida de firmas.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 26
+
+Artículo 26. Autenticación de las firmas.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 27
+
+Artículo 27. Acreditación de la inscripción en el padrón municipal.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 28
+
+Artículo 28. Entrega de las firmas.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 29
+
+Artículo 29. Aprobación de la iniciativa.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 30
+
+Artículo 30. Indemnización por gastos.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+## TÍTULO III
+
+De las consultas populares por vía de referéndum de ámbito municipal
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 31
+
+Artículo 31. Objeto y ámbito de la consulta.
+1. El objeto de las consultas populares por vía de referéndum de ámbito municipal son los asuntos de la competencia propia del municipio y de carácter local que sean de especial trascendencia para los intereses de los vecinos.
+2. A los efectos de lo establecido por el apartado 1, tienen carácter local los asuntos sobre los que no prevalece un interés supramunicipal.
+3. Pueden formularse consultas municipales con la modalidad de diferentes opciones a escoger por los votantes.
+
+### Artículo 32
+
+Artículo 32. Materias excluidas.
+Las consultas populares por vía de referéndum de ámbito municipal, además de estar sometidas a las limitaciones establecidas por el artículo 6, no pueden tener por objeto los asuntos relativos a las finanzas locales.
+
+### Artículo 33
+
+Artículo 33. Modalidades de consultas populares por vía de referéndum de ámbito municipal.
+La consulta popular por vía de referéndum de ámbito municipal, según quien ejerce la iniciativa, puede ser de las siguientes modalidades:
+a) Consulta popular por vía de referéndum de iniciativa institucional.
+b) Consulta popular por vía de referéndum de iniciativa popular.
+
+### Artículo 34
+
+Artículo 34. Naturaleza de la consulta.
+1. Las consultas populares por vía de referéndum de ámbito municipal son consultivas.
+2. El alcalde o alcaldesa debe comparecer ante el pleno municipal y fijar su posición sobre el resultado de la consulta popular en el plazo de seis meses desde la celebración de la consulta.
+
+### Artículo 35
+
+Artículo 35. Tramitación para la autorización.
+El alcalde o alcaldesa envía toda la documentación relativa a la propuesta de consulta popular al departamento competente en materia de Administración local para que, en el plazo de treinta días, el Gobierno de la Generalidad remita la solicitud de consulta popular al Gobierno del Estado. El Gobierno de la Generalidad debe adjuntar un informe sobre la conveniencia de hacer la consulta, de acuerdo con el ámbito competencial del objeto de la consulta y el interés general de Cataluña.
+
+## CAPÍTULO II
+
+Consultas populares por vía de referéndum de ámbito municipal de iniciativa institucional
+
+### Artículo 36
+
+Artículo 36. Iniciativa.
+La iniciativa de la consulta popular por vía de referéndum de ámbito municipal de iniciativa institucional corresponde a:
+a) El alcalde o alcaldesa.
+b) Una tercera parte de los concejales.
+
+### Artículo 37
+
+Artículo 37. Aprobación de la iniciativa.
+El secretario o secretaria municipal verifica el cumplimiento de los requisitos establecidos por los artículos 6, 7, 9, 31 y 32 y, si se cumplen, la propuesta de consulta popular se presenta al pleno para que sea debatida y votada. La propuesta de consulta popular debe ser aprobada por la mayoría absoluta de los concejales.
+
+## CAPÍTULO III
+
+Consultas populares por vía de referéndum de ámbito municipal de iniciativa popular
+
+### Artículo 38
+
+Artículo 38. Iniciativa.
+Los vecinos de un municipio, en ejercicio del derecho que les reconoce el artículo 29.6 del Estatuto de autonomía, pueden promover la convocatoria de una consulta popular en el ámbito municipal. Esta convocatoria debe tener el aval como mínimo de:
+a) El 20% de los habitantes, en las poblaciones de 5.000 habitantes o menos.
+b) 1.000 habitantes más el 10% de los que exceden de 5.000, en las poblaciones de 5.001 a 100.000 habitantes.
+c) 10.500 habitantes más el 5% de los que exceden de 100.000, en las poblaciones de más de 100.000 habitantes.
+
+### Artículo 39
+
+Artículo 39. Comisión promotora.
+1. Una comisión promotora ejerce la representación de las personas firmantes de la propuesta a los efectos que derivan de la misma.
+2. Los miembros de la comisión promotora deben ser vecinos del municipio que cumplan los requisitos establecidos por el artículo 23.
+
+### Artículo 40
+
+Artículo 40. Presentación y admisión de la propuesta de consulta.
+1. La solicitud para promover una consulta popular debe dirigirse al alcalde o alcaldesa y debe acompañarse con la documentación establecida por el artículo 7 y con la relación de los miembros de la comisión promotora y sus datos personales.
+2. El secretario o secretaria municipal verifica el cumplimiento de los requisitos establecidos por los artículos 6, 7, 9, 31, 32, 39 y 40.1 y, si se cumplen, la propuesta de consulta popular se admite a trámite a los efectos de lo establecido por el artículo 41. El secretario o secretaria municipal también debe asesorar a los miembros de la comisión promotora para facilitarles el cumplimiento de dichos requisitos.
+
+### Artículo 41
+
+Artículo 41. Procedimiento de recogida, autenticación, acreditación y entrega de firmas.
+1. Una vez admitida a trámite la propuesta, la comisión promotora debe presentar al secretario o secretaria municipal o al funcionario o funcionaria en quien delegue los pliegos de firmas, cada hoja de los cuales debe contener el texto de la pregunta y el espacio destinado a las firmas. El secretario o secretaria municipal o el funcionario o funcionaria en quien delegue debe numerar las hojas y debe devolverlas a la comisión promotora en el plazo de ocho días.
+2. El secretario o secretaria municipal o el funcionario o funcionaria en quien delegue acredita la autenticación de las firmas y que las personas firmantes están inscritas en el padrón municipal.
+3. La comisión promotora debe recoger las firmas en el plazo de tres meses. Excepcionalmente, a petición de la comisión promotora, el alcalde o alcaldesa, previo informe del secretario o secretaria municipal, puede aprobar prorrogar el plazo un mes más como máximo por causas debidamente justificadas.
+4. El secretario o secretaria municipal o el funcionario o funcionaria en quien delegue controla el procedimiento de recogida y la validación de las firmas. Una vez le han sido entregados, en el plazo establecido, los correspondientes pliegos y certificados, los comprueba y efectúa el recuento de las firmas en un acto público, al que deben ser citados los representantes de la comisión promotora. Las firmas que no cumplan los requisitos establecidos por la presente Ley son nulas. El secretario o secretaria municipal debe extender el certificado del resultado del recuento.
+5. Una vez transcurrido el plazo de recogida de firmas, si se ha presentado un número suficiente de firmas válidas, el secretario o secretaria municipal debe comunicarlo al alcalde o alcaldesa.
+
+### Artículo 42
+
+Artículo 42. Aprobación de la iniciativa.
+1. El alcalde o alcaldesa debe presentar al pleno la propuesta de consulta popular para que sea debatida y votada. La propuesta de consulta popular debe ser aprobada por la mayoría absoluta de los concejales.
+2. Una vez aprobada la propuesta de consulta popular, el alcalde o alcaldesa debe enviar la documentación al departamento competente en materia de Administración local, a fin de iniciar el procedimiento establecido por el artículo 35.
+
+## TÍTULO IV
+
+Del procedimiento para la celebración de la consulta popular
+
+### Artículo 43
+
+Artículo 43. Convocatoria.
+(Anulado)
+Se declara inconstitucional y nulo, en los términos señalados en el fundamente jurídico 7, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 44
+
+Artículo 44. Fecha de la consulta.
+1. La consulta debe celebrarse entre el mes y los cuatro meses posteriores a la fecha de publicación del decreto de convocatoria.
+2. Las consultas populares de ámbito municipal no pueden celebrarse entre los noventa días anteriores y los noventa posteriores a la fecha de celebración de elecciones municipales o de otra consulta popular por vía de referéndum. Las consultas populares de ámbito de Cataluña no pueden celebrarse entre los noventa días anteriores y los noventa posteriores a la fecha de celebración de las elecciones al Parlamento de Cataluña o a las Cortes Generales.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado 2, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+3. Si se convoca una consulta popular cuando hay otras que están pendientes de celebración, la fecha de celebración debe ser la misma para todas, sin que eso comporte el incumplimiento de los plazos establecidos por el apartado 1.
+4. (Anulado)
+Se declaran inconstitucional y nulo el inciso destacado del apartado 2 y el apartado 4, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+
+### Artículo 45
+
+Artículo 45. Decreto de convocatoria.
+(Anulado)
+Se declara inconstitucional y nulo, en los términos señalados en el fundamente jurídico 7, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 9 de junio de 2011. Ref. BOE-A-2011-10872
+ Se suspende la vigencia y aplicación de este artículo desde el 27 de diciembre de 2010 para las partes del proceso y desde el 23 de febrero de 2011 para los terceros, por providencia del TC de 15 de febrero de 2011, que admite a trámite el recurso de inconstitucionalidad nº 8912-2010. Ref. BOE-A-2011-3581
+
+### Artículo 46
+
+Artículo 46. Administración electoral.
+1. Las juntas electorales deben constituirse en el plazo de quince días a partir de la publicación de la convocatoria.
+2. La junta electoral competente cumple las funciones que le son propias según la normativa electoral y, concretamente, para los supuestos a que se refiere la presente Ley, las siguientes funciones:
+a) Dar instrucciones vinculantes a las instancias inferiores de la administración electoral.
+b) Asesorar a los miembros de la comisión promotora para facilitarles el cumplimiento de los requisitos formales y jurídicos.
+c) Transferir el material necesario para la celebración del referéndum y prestar asesoramiento técnico.
+d) Resolver, con carácter vinculante, las consultas que formulen las instancias inferiores de la administración electoral y unificar los criterios interpretativos, así como revocar de oficio o a instancia de parte las decisiones de estos órganos.
+e) Resolver los recursos, quejas y reclamaciones que se le dirijan en cualquier fase de la celebración del referéndum.
+f) Velar por el cumplimiento de la normativa relativa a los gastos de financiación del referéndum en el período que va de la aprobación del decreto de convocatoria a la declaración de los resultados oficiales.
+g) Ejercer la potestad disciplinaria sobre todas las personas que intervengan con carácter oficial en la celebración del referéndum y corregir las infracciones si no constituyen un delito.
+h) Aprobar los actos de constitución de las instancias inferiores de la administración electoral y de las mesas electorales y el escrutinio.
+i) Certificar el resultado final del referéndum.
+j) Informar a la autoridad convocante del resultado del referéndum.
+k) Cualquier otra que las leyes le atribuyan.
+
+### Artículo 47
+
+Artículo 47. Campaña informativa.
+1. La campaña informativa tiene por finalidad que los promotores de la consulta popular por vía de referéndum y los partidos políticos expliquen su posición con relación a la consulta popular.
+2. El decreto de convocatoria de la consulta fija la duración de la campaña de información, que no puede ser inferior a diez días ni superior a veinte. La campaña de información finaliza a las cero horas del día anterior a la celebración de la consulta.
+
+### Artículo 48
+
+Artículo 48. Espacios informativos en los medios de comunicación y espacios públicos para la campaña informativa.
+1. Los promotores de la consulta popular por vía de referéndum de ámbito de Cataluña y los partidos políticos con representación en el Parlamento, en el caso de las consultas reguladas por el título II, y los promotores de la consulta popular por vía de referéndum de ámbito municipal y los grupos políticos con representación en el ayuntamiento, en el caso de las consultas reguladas por el título III, tienen derecho a utilizar espacios gratuitos para realizar la campaña informativa.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado 1, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+2. Los espacios gratuitos en los medios de comunicación de titularidad pública local se limitan al ámbito local afectado si la consulta popular es de ámbito municipal.
+3. El ayuntamiento debe reservar espacios gratuitos para que pueda colocarse información del referéndum y debe facilitar locales oficiales o espacios públicos, también gratuitos, para que puedan realizarse los actos de la campaña informativa. El ayuntamiento debe comunicar dichos espacios y locales a la junta electoral competente en el plazo de diez días a partir de la publicación de la convocatoria.
+4. En el caso de las consultas populares de ámbito municipal, la junta electoral competente debe establecer los criterios para la distribución del tiempo gratuito en los medios de comunicación de titularidad pública atendiendo a criterios de igualdad de oportunidades y, subsidiariamente, al número de votos obtenidos en las últimas elecciones municipales por cada grupo político con representación municipal.
+5. (Anulado)
+6. Los envíos postales de propaganda del referéndum deben gozar de franquicia y servicio especial de acuerdo con lo establecido por la normativa electoral.
+Se declara inconstitucional y nulo el inciso destacado del apartado 1 y el apartado 5, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+
+### Artículo 49
+
+Artículo 49. Campaña institucional.
+A partir de la convocatoria de la consulta y hasta la finalización de la campaña informativa, las administraciones competentes en función del ámbito de la convocatoria pueden realizar una campaña institucional para informar a la ciudadanía sobre la fecha de la consulta, el procedimiento para votar, los requisitos y trámites del voto por correo y, si procede, del voto electrónico, y el texto de la pregunta objeto de consulta, sin que pueda influirse en ningún caso sobre la orientación del voto.
+
+### Artículo 50
+
+Artículo 50. Papeletas.
+1. La junta electoral debe aprobar el modelo oficial de papeleta, que debe contener impreso el texto de la pregunta, y el modelo oficial de los sobres y las actas que deben utilizarse en la celebración de la consulta popular.
+2. La papeleta debe ser accesible a las personas con discapacidad visual, de acuerdo con lo que se establezca por reglamento.
+
+### Artículo 51
+
+Artículo 51. Votación.
+1. En la votación deben utilizarse las papeletas oficiales, de acuerdo con lo que establezcan el decreto de convocatoria de la consulta y la junta electoral.
+2. Son nulas las papeletas que no se ajustan al modelo oficial, las que suscitan dudas sobre la decisión del votante o la votante y las que contienen enmiendas, firmas o palabras ajenas a la consulta.
+3. Se considera voto en blanco el sobre que no contiene ninguna papeleta. Si el sobre contiene más de una papeleta de la misma opción, el voto es válido. Si el sobre contiene papeletas de diferentes opciones, el voto es nulo.
+
+### Artículo 52
+
+Artículo 52. Voto por correo.
+Las personas que prevean que el día de la votación no se hallarán en su localidad pueden emitir el voto por correo ante la junta electoral, de acuerdo con lo establecido por la legislación de régimen electoral general.
+
+### Artículo 53
+
+Artículo 53. Votación y escrutinio.
+1. A las nueve horas del día fijado para la votación y una vez extendida el acta de constitución, debe iniciarse la votación, que debe continuar sin interrupción hasta las veinte horas, siguiendo las instrucciones que dé la junta electoral.
+2. Una vez finalizada la votación debe hacerse el escrutinio y extender el acta, en la que debe indicarse detalladamente el número de electores, el de votantes, el de votos en blanco, el de votos nulos y el de votos de cada una de las opciones formuladas por la pregunta sometida a consulta.
+3. Una vez hecho el escrutinio y extendida el acta, la mesa, por medio de su presidente o presidenta, debe enviarla a la junta electoral, la cual el día siguiente a la votación debe hacer el escrutinio general, de acuerdo con la normativa electoral, y debe comunicar el resultado a la autoridad convocante.
+4. En el caso de las consultas populares de ámbito de Cataluña, una vez transcurrido un plazo de cinco días desde la fecha del escrutinio sin que se hayan producido reclamaciones, la junta electoral proclama el resultado de la consulta popular y envía una copia al presidente o presidenta de la Generalidad para que sea publicada en el «Diari Oficial de la Generalitat de Catalunya». El plazo para proclamar el resultado de una consulta popular de ámbito municipal es de un día.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado 4, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+5. Si se presenta alguna reclamación contra el escrutinio, debe resolverse de acuerdo con lo establecido por la normativa electoral.
+Se declara inconstitucional y nulo el inciso destacado del apartado 4, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+
+### Artículo 54
+
+Artículo 54. Recursos.
+1. Contra los actos administrativos de las diferentes administraciones públicas que intervienen en la celebración de la consulta popular puede interponerse, si procede, un recurso contencioso-administrativo.
+2. Contra los actos de la administración electoral puede interponerse un recurso contencioso-administrativo de acuerdo con la legislación electoral.
+
+### Artículo 55
+
+Artículo 55. Registro de consultas populares por vía de referéndum.
+Se crea el Registro de consultas populares por vía de referéndum, adscrito al departamento competente en materia electoral, en el que se inscriben las solicitudes de consultas populares, las que han sido aprobadas por el Parlamento o por un pleno municipal y no han sido autorizadas por el Estado, las que han sido rechazadas por el Parlamento o por un pleno municipal, las que han sido autorizadas y los resultados de las que se han celebrado.
+Téngase en cuenta que se declaran inconstitucionales y nulos los incisos destacados, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+Se declaran inconstitucionales y nulos los incisos destacados, por Sentencia del TC 51/2017, de 10 de mayo. Ref. BOE-A-2017-6847
+
+## TÍTULO V
+
+De la utilización de los medios electrónicos
+
+### Artículo 56
+
+Artículo 56. Principios generales.
+1. Cuando se establezca un sistema de votación electrónica, el canal electrónico de votación debe tener siempre un carácter facultativo y excluyente, de modo que cualquier ciudadano o ciudadana pueda escoger entre votar con una papeleta o hacerlo electrónicamente.
+2. La utilización de medios electrónicos y el software electoral aplicable a las consultas populares por vía de referéndum deben respetar los principios democráticos generales, los derechos de los ciudadanos y las garantías de la legislación electoral, y deben garantizar la fiabilidad y seguridad del sistema, la transparencia y, especialmente:
+a) La plena identificación del votante o la votante, de modo que el canal de votación garantice que quien vota es realmente la persona legitimada para hacerlo.
+b) El secreto del voto, de modo que no pueda establecerse un vínculo entre el sentido del voto y la persona que lo ha emitido.
+c) La libertad de voto, de modo que se excluya cualquier coerción o influencia externa al votante o la votante que determine la orientación de su voto.
+d) La posibilidad de que el votante o la votante audite y verifique la emisión de su voto.
+e) La emisión de un solo voto por persona.
+f) La presentación equitativa y fidedigna de las preguntas y de las opciones correspondientes.
+g) El carácter público de todo el proceso electoral por medios electrónicos. Para garantizarlo, el Gobierno y la junta electoral ordenan y controlan todo el proceso, tienen disponibilidad sobre el software electoral utilizado y acceso a las instalaciones de las empresas prestadoras del servicio y pueden consultar la documentación relevante en caso de inspección.
+h) La seguridad técnica contra adiciones, sustracciones o manipulaciones del sistema o de los votos.
+i) La accesibilidad y el conocimiento del hardware y el software electorales, de modo que la Administración pública, los partidos políticos y los ciudadanos puedan comprobar la objetividad del sistema y la fiabilidad de los resultados.
+
+### Artículo 57
+
+Artículo 57. Recogida de firmas por medios electrónicos.
+1. La recogida de firmas puede hacerse por medios electrónicos siempre y cuando se garantice la identificación fehaciente del ciudadano o ciudadana por medio de la firma electrónica y que la voluntad que expresa por medio de la firma sea inequívoca.
+2. La recogida electrónica de firmas debe observar garantías similares a las establecidas por el artículo 25.1 respecto al conocimiento y la precisión del objeto de la consulta.
+3. Las entidades prestadoras del servicio de certificación deben certificar la identificación de los firmantes que utilicen la firma electrónica.
+4. Corresponde al Gobierno la regulación reglamentaria del sistema y el procedimiento de recogida de firmas por medios electrónicos para las consultas populares por vía de referéndum, de acuerdo con lo establecido por el presente artículo.
+
+### Artículo 58
+
+Artículo 58. Plataforma única.
+El Gobierno debe poner a disposición de los entes locales una plataforma tecnológica común que permita la implantación homogénea del sistema de voto electrónico.
+
+### Artículo 59
+
+Artículo 59. Garantías y transparencia.
+1. Una entidad, pública o privada, externa e independiente, prestadora de servicios de auditoría y certificación de voto electrónico, designada por la administración convocante, debe certificar la corrección del sistema de voto electrónico antes de que se utilice, por medio de un informe que debe entregar a la administración convocante y al Gobierno. Corresponde al Gobierno autorizar, en función de estos datos, el uso de medios electrónicos en las consultas populares por vía de referéndum de ámbito municipal.
+2. Una comisión formada por seis expertos, dos designados por el Parlamento, dos designados por el Gobierno y dos designados por las asociaciones representativas de los entes locales, debe tener acceso a toda la información técnica, incluido el informe de la entidad externa e independiente, y debe entregar al Parlamento un informe anual en que se evalúe la adecuación a la normativa electoral de los sistemas de voto electrónico utilizados. El Parlamento debe hacer público este informe.
+3. Los partidos políticos con representación en el ámbito territorial afectado deben recibir toda la información técnica relativa al sistema de votación electrónica, incluido el informe emitido por la entidad externa e independiente.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Cómputo de los plazos.
+Los plazos indicados en días por la presente Ley se computan como días hábiles si no se especifica lo contrario. Los plazos indicados en meses se computan de fecha a fecha; en este caso, si el plazo finaliza en día festivo, se considera como día de finalización el primer día hábil siguiente.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Aplicación subsidiaria de la normativa electoral.
+Para todas las cuestiones relativas a las consultas populares por vía de referéndum no reguladas por la presente ley es de aplicación la normativa electoral.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Supresión del Registro de consultas populares municipales.
+1. Se suprime el Registro de consultas populares municipales, adscrito a la Dirección General de Administración Local del Departamento de Gobernación y Administraciones Públicas, creado por el artículo 7 del Decreto 294/1996, de 23 de julio, por el que se aprueba el Reglamento de consultas populares municipales.
+2. Los datos del Registro de consultas populares municipales se incorporan al Registro de consultas populares por vía de referéndum.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Gastos generados por la organización de la consulta popular.
+Los gastos generados por la organización de la consulta popular corren a cargo de la administración convocante.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Tiempo gratuito en los medios de comunicación de titularidad pública.
+El tiempo gratuito en los medios de comunicación de titularidad pública de que disponen las comisiones promotoras en el caso de consultas populares por vía de referéndum de iniciativa popular es el que corresponde de acuerdo con la ley electoral, considerando el porcentaje resultante de las firmas válidas obtenidas como si fuera el porcentaje de votos válidos a que se refiere dicha Ley.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Remisiones a la ley electoral.
+Las remisiones que la presente ley hace a la ley electoral, hasta que se apruebe la ley electoral de Cataluña, se entienden hechas a la Ley Orgánica 5/1985, de 19 de junio, del régimen electoral general.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Registro de consultas populares por vía de referéndum.
+En el plazo de tres meses a contar de la entrada en vigor de la presente ley, el Gobierno debe dictar las disposiciones necesarias para la entrada en funcionamiento del Registro de consultas populares por vía de referéndum. Mientras este no entre en funcionamiento, no es de aplicación lo establecido por la disposición adicional tercera y la letra b de la disposición derogatoria.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Se derogan las siguientes disposiciones:
+a) Los artículos 159, 160 y 161 del Decreto Legislativo 2/2003, de 28 de abril, por el que se aprueba el texto refundido de la ley municipal y de régimen local de Cataluña.
+b) El Decreto 294/1996, de 23 de julio, por el que se aprueba el Reglamento de consultas populares municipales.
+c) Las demás normas de rango igual o inferior que se oponen a las disposiciones de la presente ley o que las contradicen.
+
+### Disposición final
+
+Disposición final. Aplicación y desarrollo.
+Se autoriza al Gobierno para dictar las disposiciones reglamentarias que sean necesarias para la aplicación y el desarrollo de la presente Ley.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 17 de marzo de 2010.–El Presidente de la Generalidad de Cataluña, José Montilla i Aguilera.–El Consejero de Gobernación y Administraciones Públicas, Jordi Ausàs i Coll.

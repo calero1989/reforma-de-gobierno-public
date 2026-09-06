@@ -1,0 +1,867 @@
+# Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista.
+
+- Identificador BOE: `BOE-A-1996-1072`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1996-1072
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de erratas publicada en BOE núm. 42, de 17 de febrero de 1996. Ref. BOE-A-1996-3551
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+Los profundos cambios que ha experimentado la distribución comercial minorista en España, la incorporación de nuevas tecnologías y formas de venta y el reto que ha supuesto la Unión Europea, así como la dispersión de la normativa vigente obligan a un esfuerzo legislativo de sistematización, modernización y adecuación a la realidad de los mercados.
+La economía española precisa, para su adecuado funcionamiento, un sistema de distribución eficiente, que permita asegurar el aprovisionamiento de los consumidores con el mejor nivel de servicio posible y con el mínimo coste de distribución. Para alcanzar este objetivo, es preciso que el mercado garantice la óptima asignación de los recursos a través del funcionamiento de la libre y leal competencia.
+En este sentido, el establecimiento de un marco de buenas prácticas comerciales deberá producir un mejor comportamiento de todos los agentes del sector, cuyos efectos redundarán en un mejor funcionamiento de la competencia. Estos efectos se consiguen mediante la creación de un marco legal de mínimos, que podrá completarse con los Códigos de Conducta, que libremente surjan en el sector para su autorregulación.
+Por otra parte, y debido a la evolución experimentada en los últimos años, coexisten en España dos sistemas de distribución complementarios entre sí: el primero constituido por empresas y tecnologías modernas, y el segundo integrado por las formas tradicionales de comercio que siguen prestando importantes servicios a la sociedad española y juegan un papel trascendental en la estabilidad de la población activa, pero que deben emprender una actualización y tecnificación que les permita afrontar el marco de la libre competencia.
+La relación de complementariedad entre los dos sistemas mencionados debe también ser tenida, especialmente, en cuenta por el Legislador.
+También resulta imprescindible no demorar el establecimiento del régimen jurídico de las nuevas modalidades de venta al público que, por su carácter de materia mercantil, se encuentran entregadas actualmente al principio de libertad contractual, del que, en no pocas ocasiones, resultan notorios abusos en perjuicio de los adquirentes, situación que interesa corregir mediante la promulgación de normas imperativas y una eficaz intervención de las Administraciones públicas.
+Por consiguiente, la Ley no sólo pretende establecer unas reglas de juego en el sector de la distribución y regular nuevas fórmulas contractuales, sino que aspira, también, a ser la base para la modernización de las estructuras comerciales españolas, contribuyendo a corregir los desequilibrios entre las grandes y las pequeñas empresas comerciales y, sobre todo, al mantenimiento de la libre y leal competencia. No es preciso insistir en que los efectos más inmediatos y tangibles de una situación de libre y leal competencia se materializan en una mejora continuada de los precios y de la calidad y demás condiciones de la oferta y servicio al público, lo que significa, en definitiva, la más eficaz actuación en beneficio de los consumidores.
+Por último, interesa destacar que, como ha puesto de relieve reiterada jurisprudencia del Tribunal Constitucional, en este ámbito material se produce un complejo entrecruzamiento de títulos competenciales, tanto estatales como autonómicos, lo cual conlleva que los diversos aspectos de la regulación propuesta deban tener un grado de aplicación diverso, tal como se especifica en la disposición final única de esta Ley.
+Redactado conforme a la corrección de erratas publicada en BOE núm. 42, de 17 de febrero de 1996. Ref. BOE-A-1996-3551
+
+## TÍTULO I
+
+Principios generales
+
+## CAPÍTULO I
+
+Conceptos básicos
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. La presente Ley tiene por objeto principal establecer el régimen jurídico general del comercio minorista, así como regular determinadas ventas especiales y actividades de promoción comercial, sin perjuicio de las leyes dictadas por las Comunidades Autónomas en el ejercicio de sus competencias en la materia.
+2. A los efectos de la presente Ley, se entiende por comercio minorista aquella actividad desarrollada profesionalmente con ánimo de lucro consistente en ofertar la venta de cualquier clase de artículos a los destinatarios finales de los mismos, utilizando o no un establecimiento.
+
+### Artículo 2
+
+Artículo 2. Establecimientos comerciales.
+Tendrá la consideración de establecimiento comercial toda instalación inmueble de venta al por menor en la que el empresario ejerce su actividad de forma permanente; o toda instalación móvil de venta al por menor en la que el empresario ejerce su actividad de forma habitual.
+Se modifica por la disposición final 2.1 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Se modifica por el art. único.1 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+### Artículo 3
+
+Artículo 3. Libertad de empresa.
+La actividad comercial se ejerce bajo el principio de libertad de empresa y en el marco de la economía de mercado, de acuerdo con lo dispuesto en el artículo 38 de la Constitución.
+
+### Artículo 4
+
+Artículo 4. Libre circulación de bienes.
+1. Se reconoce el principio de libre circulación de mercancías dentro del territorio español, de acuerdo con lo establecido en el artículo 139.2 de la Constitución.
+2. Las distintas Administraciones públicas adoptarán las medidas adecuadas, para evitar que la libertad de circulación de los bienes resulte falseada.
+
+### Artículo 5
+
+Artículo 5. Libertad de establecimiento comercial.
+1. La utilización legítima del suelo para la instalación de establecimientos comerciales constituye una facultad que se ampara en el principio de libertad de empresa recogido en el artículo 3 de la presente Ley.
+2. Los poderes públicos protegerán la libre iniciativa empresarial para la instalación y acondicionamiento de los establecimientos comerciales en el marco de lo dispuesto en la legislación vigente.
+
+### Artículo 6
+
+Artículo 6. Apertura, traslado o ampliación de establecimientos comerciales.
+1. Con carácter general, la apertura, traslado o ampliación de establecimientos comerciales no estará sujeta a régimen de autorización.
+2. No obstante lo anterior, la apertura, traslado o ampliación de establecimientos comerciales podrá quedar sometida a una única autorización que se concederá por tiempo indefinido cuando las instalaciones o infraestructuras físicas necesarias para el ejercicio de la actividad sean susceptibles de generar daños sobre el medio ambiente, el entorno urbano y el patrimonio histórico-artístico, y estas razones no puedan salvaguardarse mediante la presentación de una declaración responsable o de una comunicación previa. El régimen de autorización deberá estar motivado suficientemente en la ley que establezca dicho régimen.
+3. Las autorizaciones o declaraciones responsables para la apertura o ampliación del establecimiento no podrán contemplar requisitos que no estén ligados específicamente a la instalación o infraestructura y deberán estar justificados en razones imperiosas de interés general.
+En todo caso los requisitos deberán ser no discriminatorios, proporcionados, claros e inequívocos, objetivos, hechos públicos con antelación, predecibles, transparentes, accesibles, y atenderán únicamente a criterios basados en las razones señaladas en el apartado 2.
+4. En ningún caso, podrán establecerse requisitos de naturaleza económica, entre otros, aquellos que supediten el otorgamiento de la autorización a la prueba de la existencia de una necesidad económica o de una demanda en el mercado o a un exceso de la oferta comercial, a que se evalúen los efectos económicos, posibles o reales, de la actividad o a que se haga una apreciación de si la actividad se ajusta a los objetivos de programación económica establecidos por la autoridad competente, o aquellos que puedan directa o indirectamente ir dirigidos a la defensa de un determinado modelo económico o empresarial dentro del sector. Asimismo se prohíbe la intervención de competidores en los procedimientos de autorización que en su caso se establezcan para la instalación de establecimientos comerciales.
+Los regímenes de intervención administrativa se ajustarán a lo previsto en la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio y a la Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado. En concreto, no podrán contener requisitos prohibidos del artículo 10 de la Ley 17/2009, de 23 de noviembre, ni actuaciones que limiten la libertad de establecimiento y la libertad de circulación del artículo 18 de la Ley 20/2013, de 9 de diciembre.
+5. El otorgamiento de las autorizaciones a que se refieren los apartados anteriores corresponderá a la administración territorial competente. El procedimiento administrativo integrará todos los trámites necesarios para la apertura, traslado o ampliación de los establecimientos comerciales. Las solicitudes presentadas deberán resolverse y notificarse al interesado en un plazo máximo de tres meses, transcurrido el cual, se entenderá estimada la solicitud por silencio administrativo.
+Las autorizaciones podrán transmitirse a terceros previa comunicación a la administración otorgante.
+Se modifica por el art. 6 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifica por el art. 6 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se modifica por el art. único.2 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+### Artículo 7
+
+Artículo 7. Tramitación de las licencias.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+## CAPÍTULO II
+
+Oferta comercial
+
+### Artículo 8
+
+Artículo 8. Prohibición de ventas al por menor.
+1. No podrán ejercer el comercio al por menor además de las personas físicas y jurídicas a quienes les esté específicamente prohibido, los empresarios individuales o sociales a quienes la normativa especial de la actividad que desarrollan les exija dedicarse exclusivamente a la misma.
+2. Se prohíbe expresamente la exposición y venta de mercancías al comprador cuando éstas procedan de personas cuya actividad sea distinta a la comercial y, como consecuencia de la actividad que les es propia, tengan como finalidad principal la realización de préstamos, depósitos u operaciones de análoga naturaleza, adheridas a la oferta comercial de la mercancía, de tal forma que una no se pudiera hacer efectiva sin la otra.
+En todo caso, se presumirá la existencia de estas actuaciones en el supuesto de que el comprador pudiera realizar pedidos o adquirir mercancías en los establecimientos de aquéllas.
+3. La infracción a lo dispuesto en el apartado anterior será sancionable con arreglo a lo establecido en la presente Ley, con independencia de las responsabilidades derivadas, en su caso, de la respectiva legislación especial y sin perjuicio de la improcedencia de que un mismo hecho sea objeto de una doble sanción administrativa.
+Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria única.
+
+### Artículo 9
+
+Artículo 9. Obligación de vender.
+1. La oferta pública de venta o la exposición de artículos en establecimientos comerciales constituye a su titular en la obligación de proceder a su venta a favor de los demandantes que cumplan las condiciones de adquisición, atendiendo, en el segundo caso, al orden temporal de las solicitudes. Quedan exceptuados de esta obligación los objetos sobre los que se advierta, expresamente, que no se encuentran a la venta o que, claramente, formen parte de la instalación o decorado.
+2. Los comerciantes no podrán limitar la cantidad de artículos que pueden ser adquiridos por cada comprador ni establecer precios más elevados o suprimir reducciones o incentivos para las compras que superen un determinado volumen. En el caso de que, en un establecimiento abierto al público, no se dispusiera de existencias suficientes para cubrir la demanda, se atenderá a la prioridad temporal en la solicitud.
+3. Excepcionalmente, cuando existan circunstancias extraordinarias o de fuerza mayor que lo justifiquen, los establecimientos comerciales podrán suspender con carácter temporal la prohibición prevista en el apartado 2 de limitar la cantidad de artículos que puedan ser adquiridos por cada comprador. Estas medidas deberán estar justificadas y se adoptarán de manera proporcionada cuando sea necesario para impedir el desabastecimiento y garantizar el acceso de los consumidores en condiciones equitativas.
+Se añade el apartado 3 por la disposición final 3 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df-3
+
+### Artículo 10
+
+Artículo 10. Derecho de desistimiento.
+Para el ejercicio del derecho de desistimiento se estará a lo dispuesto por el artículo 71 del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado mediante Real Decreto Legislativo 1/2007, de 16 de noviembre.
+Se modifica por la disposición final 2.2 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 11
+
+Artículo 11. Forma de los contratos.
+1. Los contratos de compraventa a que se refiere la presente Ley no estarán sujetos a formalidad alguna con excepción de los supuestos expresamente señalados en los Códigos Civil y de Comercio y en ésta o en otras leyes especiales.
+2. Esto no obstante, cuando la perfección del contrato no sea simultánea con la entrega del objeto o cuando el comprador tenga la facultad de desistir del contrato, el comerciante deberá expedir factura, recibo u otro documento análogo en el que deberán constar los derechos o garantías especiales del comprador y la parte del precio que, en su caso, haya sido satisfecha.
+3. En todo caso, el comprador podrá exigir la entrega de un documento en el que, al menos, conste el objeto, el precio y la fecha del contrato.
+
+### Artículo 12
+
+Artículo 12. Garantía y servicio postventa.
+1. El vendedor de los bienes responderá de la falta de conformidad de los mismos con el contrato de compraventa, en los términos definidos por la legislación vigente.
+2. Los productos puestos a la venta se podrán ofrecer acompañados de una garantía comercial que obligará a la persona que la ofrezca en las condiciones establecidas en el documento de garantía y en la correspondiente publicidad. La garantía comercial adicional ofrecida por el vendedor deberá en todo caso recoger las obligaciones que, en materia de garantías de bienes de consumo, vengan impuestas por Ley.
+3. El productor o, en su defecto, el importador garantizará, en todo caso, frente a los compradores la existencia de un adecuado servicio técnico para los bienes de carácter duradero que fabrica o importa, así como el suministro de piezas de repuesto durante un plazo mínimo de cinco años a contar desde la fecha en que el producto deje de fabricarse.
+4. La acción o derecho de recuperación de los bienes entregados por el consumidor o usuario al comerciante para su reparación prescribirá a los tres años a partir del momento de la entrega. Reglamentariamente, se establecerán los datos que deberá hacer constar el comerciante en el momento en que se le entrega un objeto para su reparación y las formas en que podrá acreditarse la mencionada entrega.
+Se modifica por el art. 1 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+## CAPÍTULO III
+
+Precios
+
+### Artículo 13
+
+Artículo 13. Libertad de precios.
+1. Los precios de venta de los artículos serán libremente determinados y ofertados con carácter general de acuerdo con lo dispuesto en la legislación de defensa de la libre y leal competencia, con las excepciones establecidas en leyes especiales.
+2. Esto, no obstante, el Gobierno del Estado, previa audiencia de los sectores afectados, podrá fijar los precios o los márgenes de comercialización de determinados productos, así como someter sus modificaciones a control o a previa autorización administrativa, en los casos siguientes:
+a) Cuando se trate de productos de primera necesidad o de materias primas estratégicas.
+b) Cuando se trate de bienes producidos o comercializados en régimen de monopolio o mediante concesión administrativa.
+c) Como medida complementaria de las políticas de regulación de producciones o de subvenciones u otras ayudas a empresas o sectores específicos.
+d) Excepcionalmente y mientras persistan las circunstancias que aconsejen la intervención, cuando, en un sector determinado, se aprecie ausencia de competencia efectiva, existan obstáculos graves al funcionamiento del mercado o se produzcan situaciones de desabastecimiento.
+
+### Artículo 14
+
+Artículo 14. Venta con pérdida.
+1. No obstante lo dispuesto en el artículo anterior, no se podrán realizar ventas al público con pérdida si éstas se reputan desleales. Las ventas con pérdida se reputarán desleales en los siguientes casos:
+a) Cuando sea susceptible de inducir a error a los consumidores acerca del nivel de precios de otros productos del mismo establecimiento.
+b) Cuando tenga por efecto desacreditar la imagen de un producto o de un establecimiento ajeno.
+c) Cuando forme parte de una estrategia encaminada a eliminar a un competidor o grupo de competidores del mercado.
+d) Cuando forme parte de una práctica comercial que contenga información falsa sobre el precio o su modo de fijación, o sobre la existencia de una ventaja específica con respecto al mismo, que induzca o pueda inducir a error al consumidor medio y le haya hecho tomar la decisión de realizar una compra que, de otro modo, no hubiera realizado.
+2. A los efectos señalados en el apartado anterior, se considerará que existe venta con pérdida cuando el precio aplicado a un producto sea inferior al de adquisición según factura, deducida la parte proporcional de los descuentos que figuren en la misma, o al de reposición si éste fuese inferior a aquél o al coste efectivo de producción si el artículo hubiese sido fabricado por el propio comerciante, incrementados en las cuotas de los impuestos indirectos que graven la operación.
+Las facturas se entenderán aceptadas en todos sus términos y reconocidas por sus destinatarios, cuando no hayan sido objeto de reparo en el plazo de los 25 días siguientes a su remisión. En el caso de que no sean conformes se dispone sobre la anterior un plazo adicional de 10 días para su subsanación y nueva remisión de la correspondiente factura rectificada.
+Se modifica por el art. 6.1 del Real Decreto-ley 20/2018, de 7 de diciembre. Ref. BOE-A-2018-16791#a6
+ Se añade el párrafo segundo al apartado 2 por el art. 56.1.1 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
+ Téngase en cuenta que los acuerdos entre producción y distribución se ajustarán a lo dispuesto en esta modificación, según establece el art. 56.2 de la citada Ley, y a partir de los seis meses de la entrada en vigor de la misma.
+
+### Artículo 15
+
+Artículo 15. Ventas con precios reducidos para colectivos especiales.
+Los establecimientos comerciales creados para suministrar productos a colectivos determinados y que reciban para esta finalidad cualquier tipo de ayuda o subvención, no podrán ofertar dichos productos al público en general ni a personas distintas a los referidos beneficiarios.
+
+## CAPÍTULO IV
+
+Adquisiciones de los comerciantes
+
+### Artículo 16
+
+Artículo 16. Régimen general.
+El régimen jurídico de las adquisiciones de toda clase de productos efectuadas por comerciantes se sujetará a lo dispuesto en la legislación civil y mercantil con las especialidades contenidas en el artículo siguiente.
+
+### Artículo 17
+
+Artículo 17. Pagos a los proveedores.
+1. A falta de plazo expreso, se entenderá que los comerciantes deben efectuar el pago del precio de las mercancías que compren antes de treinta días a partir de la fecha de su entrega.
+2. Los comerciantes a quienes se efectúen las correspondientes entregas quedarán obligados a documentar, en el mismo acto, la operación de entrega y recepción con mención expresa de su fecha.
+Del mismo modo, los proveedores deberán indicar en su factura el día del calendario en que debe producirse el pago.
+Si todas o alguna de las mercancías estuvieran afectadas por una cláusula de reserva de dominio, la factura expresará asimismo esta circunstancia, que deberá responder en todo caso a un acuerdo entre proveedor y comerciante documentado con anterioridad a la entrega.
+Las facturas deberán hacerse llegar a los comerciantes antes de que se cumplan treinta días desde la fecha de entrega y recepción de las mercancías.
+3. Los aplazamientos de pago de productos de alimentación frescos y de los perecederos no excederán en ningún caso de treinta días. Los aplazamientos de pago para los demás productos de alimentación y gran consumo no excederán del plazo de sesenta días, salvo pacto expreso en el que se prevean compensaciones económicas equivalentes al mayor aplazamiento y de las que el proveedor sea beneficiario, sin que en ningún caso pueda exceder el plazo de noventa días.
+Se entenderá por productos de alimentación frescos y perecederos aquellos que por sus características naturales conservan sus cualidades aptas para comercialización y consumo durante un plazo inferior a treinta días o que precisan condiciones de temperatura regulada de comercialización y transporte. Son productos de gran consumo aquellos fungibles de compra habitual y repetitiva por los consumidores y que presenten alta rotación.
+El Gobierno determinará reglamentariamente en el plazo de tres meses la definición de los productos a los que se refiere el apartado anterior.
+4. Con relación a los productos que no sean frescos o perecederos ni de alimentación y gran consumo, cuando los comerciantes acuerden con sus proveedores aplazamientos de pago que excedan de los sesenta días desde la fecha de entrega y recepción de las mercancías, el pago deberá quedar instrumentado en documento que lleve aparejada acción cambiaria, con mención expresa de la fecha de pago indicada en la factura. En el caso de aplazamientos superiores a noventa días, este documento será endosable a la orden. En todo caso, el documento se deberá emitir o aceptar por los comerciantes dentro del plazo de treinta días, a contar desde la fecha de recepción de la mercancía, siempre que la factura haya sido enviada. Para la concesión de aplazamientos de pago superiores a ciento veinte días, el vendedor podrá exigir que queden garantizados mediante aval bancario o seguro de crédito o caución.
+5. En cualquier caso, se producirá el devengo de intereses moratorios en forma automática a partir del día siguiente al señalado para el pago o, en defecto de pacto, a aquel en el cual debiera efectuarse de acuerdo con lo establecido en el apartado 1. En esos supuestos, el tipo aplicable para determinar la cuantía de los intereses será el previsto en el artículo 7 de la Ley por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, salvo que las partes hubieren acordado en el contrato un tipo distinto, que en ningún caso será inferior al señalado para el interés legal incrementado en un 50 por ciento.
+6. A los efectos prevenidos en el presente artículo y con referencia exclusiva a los bienes consumibles, se entenderá como fecha de entrega aquélla en la que efectivamente se haya producido, aunque, inicialmente, el título de la entrega fuese distinto del de compraventa, siempre que las mercancías hayan sido, finalmente, adquiridas por el receptor.
+Se modifican los apartados 1, 3, 4 y 5 por la disposición final 2.1 de la Ley 3/2004, de 29 de diciembre. Ref. BOE-A-2004-21830
+ Se modifican los apartados 2 y 5 por el art. 2 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+ Se añade el párrafo tercero al apartado 2, se modifica el apartado 3 y se reenumeran los apartados 3, 4 y 5 como 4, 5 y 6, por el art. 56.1.2 a 5 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
+ Téngase en cuenta que los acuerdos entre producción y distribución se ajustarán a lo dispuesto en estas modificaciones, según establece el art. 56.2 de la citada Ley, y a partir de los seis meses de la entrada en vigor de la misma.
+ Redactado conforme a la corrección de erratas publicada en BOE núm. 42, de 17 de febrero de 1996. Ref. BOE-A-1996-3551
+
+## TÍTULO II
+
+Actividades de promoción de ventas
+
+## CAPÍTULO I
+
+Generalidades
+
+### Artículo 18
+
+Artículo 18. Concepto.
+1. Tendrán la consideración de actividades de promoción de ventas, las ventas en rebajas, las ventas en oferta o promoción, las ventas de saldos, las ventas en liquidación, las ventas con obsequio y las ofertas de venta directa.
+2. Las denominaciones antes señaladas únicamente podrán emplearse para anunciar las ventas que se ajusten a la regulación respectivamente establecida en la presente Ley, quedando expresamente prohibida la utilización de las citadas denominaciones u otras similares para anunciar ventas que no respondan al correspondiente concepto legal.
+3. La utilización de las denominaciones antes señaladas que no se ajuste a la regulación respectivamente establecida para cada una de las actividades de promoción de ventas en esta Ley, se reputará desleal cuando concurran las circunstancias previstas en el artículo 5 de la Ley de Competencia Desleal.
+4. Las actividades de promoción de ventas podrán simultanearse en un mismo establecimiento comercial, excepto en los supuestos de venta en liquidación, siempre y cuando exista la debida separación entre ellas y se respeten los deberes de información.
+Se añade el apartado 4 por el art. 28.1 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ Se añade el apartado 3 por el art. 4.1 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 19
+
+Artículo 19. Información.
+1. En los anuncios de las ventas a las que se refiere el artículo anterior deberá especificarse la duración y, en su caso, las reglas especiales aplicables a las mismas.
+2. Cuando las ofertas especiales no comprendan, al menos, la mitad de los artículos puestos a la venta, la práctica de promoción de que se trate no se podrá anunciar como una medida general, sino referida exclusivamente a los artículos o sectores a los que realmente afecte.
+3. Se considerará engañosa la oferta de productos con premio o regalo, cuando el consumidor no reciba real y efectivamente lo que razonablemente cabía esperar de acuerdo con la oferta realizada.
+
+### Artículo 20
+
+Artículo 20. Constancia de la reducción de precios.
+1. Siempre que se oferten artículos con reducción de precio, deberá figurar con claridad, en cada uno de ellos, el precio anterior junto con el precio reducido, salvo en el supuesto de que se trate de artículos puestos a la venta por primera vez.
+Se entenderá por precio anterior el menor que hubiese sido aplicado sobre productos idénticos en los treinta días precedentes. A estos efectos no se tendrá en consideración el precio que hubiese podido ser aplicado, con la finalidad de reducir el desperdicio alimentario, sobre productos idénticos cuyas fechas de caducidad o consumo preferente estuviesen próximas a vencer.
+Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 85 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-7, entra en vigor el 28 de mayo de 2022, según determina su disposición final 10.c).
+ Redacción anterior:
+ "1. Siempre que se oferten artículos con reducción de precio, deberá figurar con claridad, en cada uno de ellos, el precio anterior junto con el precio reducido, salvo en el supuesto de que se trate de artículos puestos a la venta por primera vez.
+ Se entenderá por precio anterior, el menor que hubiese sido aplicado sobre productos idénticos en los treinta días precedentes."
+2. En ningún caso, la utilización de las actividades de promoción de ventas podrá condicionarse a la existencia de una reducción porcentual mínima o máxima.
+Se modifica el apartado 1 por el art. 85 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-7
+ Esta modificación del apartado 1 entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+ Se modifica por la disposición final 2.3 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Se añade el apartado 3 por el art. 28.2 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+
+### Artículo 21
+
+Artículo 21. Determinación de los artículos ofertados.
+En el caso de que se oferten artículos a precio normal y a precio reducido, unos y otros deberán estar suficientemente separados, de forma que no pueda, razonablemente, existir error entre los que son objeto de una u otra oferta, distinguiendo, en su caso, la existencia de rebajas, saldos, liquidaciones, promociones u obsequios.
+
+### Artículo 22
+
+Artículo 22. Venta multinivel.
+1. La venta multinivel constituye una forma especial de comercio en la que un fabricante o un comerciante mayorista vende sus bienes o servicios a través de una red de comerciantes y/o agentes distribuidores independientes, pero coordinados dentro de una misma red comercial y cuyos beneficios económicos se obtienen mediante un único margen sobre el precio de venta al público, que se distribuye mediante la percepción de porcentajes variables sobre el total de la facturación generada por el conjunto de los vendedores integrados en la red comercial, y proporcionalmente al volumen de negocio que cada componente haya creado. A efectos de lo dispuesto en este artículo, los comerciantes y los agentes distribuidores independientes se considerarán en todo caso empresarios a los efectos previstos en el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias.
+2. Queda prohibido organizar la comercialización de bienes y servicios cuando:
+a) Constituya un acto desleal con los consumidores conforme a lo previsto en el artículo 26 de la Ley 3/1991, de 10 de enero, de Competencia Desleal.
+b) No se garantice adecuadamente que los distribuidores cuenten con la oportuna contratación laboral o cumplan con los requisitos que vienen exigidos legalmente para el desarrollo de una actividad comercial.
+c) Exista la obligación de realizar una compra mínima de los productos distribuidos por parte de los nuevos vendedores, sin pacto de recompra en las mismas condiciones.
+4. En ningún caso el fabricante o mayorista titular de la red podrá condicionar el acceso a la misma al abono de una cuota o canon de entrada que no sea equivalente a los productos y material promocional, informativo o formativo entregados a un precio similar al de otros homólogos existentes en el mercado y que no podrán superar la cantidad que se determine reglamentariamente.
+En los supuestos en que exista un pacto de recompra, los productos se tendrán que admitir a devolución siempre que su estado no impida claramente su posterior comercialización.
+Se modifica por el art. 4.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 23
+
+Artículo 23. Prohibición de ventas en pirámide.
+Son prácticas de venta piramidal las previstas en el artículo 24 de la Ley 3/1991, de 10 de enero, de Competencia Desleal, siendo nulas de pleno derecho las condiciones contractuales contrarias a lo dispuesto en dicho precepto.
+Se modifica por el art. 4.3 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+## CAPÍTULO II
+
+Venta en rebajas
+
+### Artículo 24
+
+Artículo 24. Concepto.
+1. Se entiende que existe venta en rebajas cuando los artículos objeto de la misma se ofertan, en el mismo establecimiento en el que se ejerce habitualmente la actividad comercial, a un precio inferior al fijado antes de dicha venta.
+2. No cabe calificar como venta en rebajas la de aquellos productos no puestos a la venta en condiciones de precio ordinario con anterioridad, así como la de los productos deteriorados o adquiridos con objeto de ser vendidos a precio inferior al ordinario.
+
+### Artículo 25
+
+Artículo 25. Temporada de rebajas.
+1. Las ventas en rebajas podrán tener lugar en los periodos estacionales de mayor interés comercial según el criterio de cada comerciante.
+2. La duración de cada periodo de rebajas será decidida libremente por cada comerciante.
+Se modifica por el art. 28.3 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+
+### Artículo 26
+
+Artículo 26. Calidad de los productos rebajados.
+1. (Anulado)
+Téngase en cuenta que se declara la inconstitucionalidad y nulidad del apartado 1, en la redacción dada por el art. 28.4 del Real Decreto-ley 20/2012, de 13 de julio, por Sentencia TC 18/2016, de 4 de febrero. Ref. BOE-A-2016-2335.
+ Redacción anterior:
+ "Los artículos objeto de la venta en rebajas deberán haber estado incluidos con anterioridad y, durante el plazo mínimo de un mes, en la oferta habitual de ventas y no podrán haber sido objeto de práctica de promoción alguna en el curso del mes que preceda a la fecha de inicio de la venta en rebajas."
+2. Especialmente, queda prohibido ofertar, como rebajados, artículos deteriorados.
+Se declara la inconstitucionalidad y nulidad del apartado 1, en la redacción dada por el art. 28.4 del Real Decreto-ley 20/2012, de 13 de julio, por Sentencia TC 18/2016, de 4 de febrero. Ref. BOE-A-2016-2335.
+ Se modifica el apartado 1 por el art. 28.4 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+
+## CAPÍTULO III
+
+Ventas de promoción
+
+### Artículo 27
+
+Artículo 27. Concepto.
+1. Se consideran ventas en promoción o en oferta aquellas no contempladas específicamente en otro de los capítulos del presente Título, que se realicen por precio inferior o en condiciones más favorables que las habituales, con el fin de potenciar la venta de ciertos productos o el desarrollo de uno o varios comercios o establecimientos.
+2. (Anulado)
+Téngase en cuenta que se declara la inconstitucionalidad y nulidad del apartado 2, en la redacción dada por el art. 28.5 del Real Decreto-ley 20/2012, de 13 de julio, por Sentencia TC 18/2016, de 4 de febrero. Ref. BOE-A-2016-2335.
+ Redacción anterior:
+ "Los productos en promoción no podrán estar deteriorados o ser de peor calidad que los mismos productos que vayan a ser objeto de futura oferta ordinaria a precio normal."
+3. Será de aplicación a las ventas de promoción lo dispuesto en los artículos 33 y 34 de la presente Ley.
+Se declara la inconstitucionalidad y nulidad del apartado 2, en la redacción dada por el art. 28.5 del Real Decreto-ley 20/2012, de 13 de julio, por Sentencia TC 18/2016, de 4 de febrero. Ref. BOE-A-2016-2335.
+ Se modifica por el art. 28.5 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+
+## CAPÍTULO IV
+
+Venta de saldos
+
+### Artículo 28
+
+Artículo 28. Concepto.
+1. Se considera venta de saldos la de productos cuyo valor de mercado aparezca manifiestamente disminuido a causa del deterioro, desperfecto, desuso u obsolescencia de los mismos, sin que un producto tenga esta consideración por el solo hecho de ser un excedente de producción o de temporada.
+2. No cabe calificar como venta de saldos la de aquellos productos cuya venta bajo tal régimen implique riesgo o engaño para el comprador, ni la de aquellos productos que no se venden realmente por precio inferior al habitual.
+Se modifica por el art. 28.6 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ Se modifica el apartado 1 por el art. único.3 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+### Artículo 29
+
+Artículo 29. Deber de información.
+1. Las ventas de saldos deberán anunciarse necesariamente con esta denominación o con la de «venta de restos».
+2. Cuando se trate de artículos deteriorados o defectuosos, deberá constar tal circunstancia de manera precisa y ostensible.
+
+## CAPÍTULO V
+
+Ventas en liquidación
+
+### Artículo 30
+
+Artículo 30. Concepto.
+1. Se entiende por venta en liquidación la venta de carácter excepcional y de finalidad extintiva de determinadas existencias de productos que, anunciada con esta denominación u otra equivalente, tiene lugar en ejecución de una decisión judicial o administrativa, o es llevada a cabo por el comerciante o por el adquirente por cualquier título del negocio de aquél en alguno de los casos siguientes:
+a) Cesación total o parcial de la actividad de comercio. En el supuesto de cese parcial tendrá que indicarse la clase de mercancías objeto de liquidación.
+b) Cambio de ramo de comercio o modificación sustancial en la orientación del negocio.
+c) Cambio de local o realización de obras de importancia en el mismo.
+d) Cualquier supuesto de fuerza mayor que cause grave obstáculo al normal desarrollo de la actividad comercial.
+2. No podrán ser objeto de este tipo de actividad comercial aquellos productos que no formaran parte de las existencias del establecimiento, o aquellos que fueron adquiridos por el comerciante con objeto de incluirlos en la liquidación misma.
+3. En todo caso deberá cesar la venta en liquidación si desaparece la causa que la motivó o si se liquidan efectivamente los productos objeto de la misma.
+4. Los anuncios de las ventas en liquidación deberán indicar la causa de ésta.
+
+### Artículo 31
+
+Artículo 31. Duración y reiteración.
+1. La duración máxima de la venta en liquidación será de un año.
+2. No procederá efectuar una nueva liquidación en el mismo establecimiento de productos similares a la anterior en el curso de los tres años siguientes, excepto cuando esta última tenga lugar en ejecución de decisión judicial o administrativa, por cesación total de la actividad o por causa de fuerza mayor.
+Se modifica por el art. 28.7 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+
+## CAPÍTULO VI
+
+Ventas con obsequio o prima
+Se modifica el título por el art. 4.4 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 32
+
+Artículo 32. Concepto.
+1. Son ventas con obsequio aquellas que con finalidad de promover las ventas ofertan, ya sea en forma automática, o bien, mediante la participación en un sorteo o concurso, un premio, cualquiera que sea la naturaleza de éste.
+Son ventas con prima aquéllas que ofrezcan cualquier incentivo o ventaja vinculado a la adquisición de un bien o servicio.
+2. Cuando el incentivo consista en un sorteo, lo dispuesto en esta ley será aplicable sin perjuicio de lo establecido en la legislación sectorial correspondiente.
+3. Las ventas con obsequio o prima se reputan desleales en los supuestos previstos en la Ley de Competencia Desleal.
+Se modifica por el art. 4.4 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 33
+
+Artículo 33. Entrega de los obsequios.
+1. Los bienes o servicios en que consistan los obsequios o incentivos promocionales deberán entregarse a los compradores en el plazo máximo que determinarán las Comunidades Autónomas, sin que pueda exceder de tres meses, a contar desde el momento en que el comprador reúna los requisitos exigidos. Cuando el ofrecimiento se haya hecho en los envases de los correspondientes productos, el derecho a obtener la prima ofrecida podrá ejercerse, como mínimo, durante los tres meses siguientes a la fecha de caducidad de la promoción.
+2. En el caso de que los obsequios ofrecidos formen parte de un conjunto o colección, la empresa responsable de la oferta estará obligada a canjear cualquiera de aquéllos por otro distinto, a no ser que en la oferta pública del incentivo se haya establecido otro procedimiento para obtener las diferentes piezas de la colección.
+
+### Artículo 34
+
+Artículo 34. Prohibición de ofertas conjuntas.
+1. Queda prohibido ofrecer conjuntamente y como una unidad de contratación dos o más clases o unidades de artículos excepto en los casos siguientes:
+a) Cuando exista una relación funcional entre los artículos ofertados.
+b) Cuando sea práctica comercial común vender ciertos artículos en cantidades superiores a un determinado mínimo.
+c) Cuando se ofrezca, simultáneamente, la posibilidad de adquirir los artículos por separado y a su precio habitual.
+d) Cuando se trate de lotes o grupos de artículos presentados conjuntamente por razones estéticas o para ser destinados a la realización de obsequios.
+2. En todo caso, será de aplicación lo dispuesto al respecto en la legislación sobre defensa de la competencia.
+
+## CAPÍTULO VII
+
+Oferta de venta directa
+
+### Artículo 35
+
+Artículo 35. Veracidad de la oferta.
+Queda prohibido que, en la oferta al público de mercancías de cualquier clase, se invoque por el vendedor su condición de fabricante o mayorista, a menos que reúna las circunstancias siguientes:
+a) Que, en el primer caso, fabrique realmente la totalidad de los productos puestos a la venta y, en el segundo, realice sus operaciones de venta fundamentalmente a comerciantes minoristas.
+b) Que los precios ofertados sean los mismos que aplica a otros comerciantes, mayoristas o minoristas, según los casos.
+
+## TÍTULO III
+
+Ventas especiales
+
+## CAPÍTULO I
+
+Generalidades
+
+### Artículo 36
+
+Artículo 36. Concepto.
+1. Se consideran ventas especiales, a efectos de la presente Ley, las ventas a distancia, las ventas ambulantes o no sedentarias, las ventas automáticas y las ventas en pública subasta.
+2. Las ventas de bienes muebles a plazos se regirán por su normativa específica.
+
+### Artículo 37
+
+Artículo 37. Autorización.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 124/2003, de 19 de junio. Ref. BOE-T-2003-14319
+
+## CAPÍTULO II
+
+Ventas a distancia
+Se modifica por el art. 3 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+### Artículo 38
+
+Artículo 38. Concepto.
+1. Para la calificación de las ventas a distancia se estará a lo dispuesto en el artículo 92 del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado mediante Real Decreto Legislativo 1/2007, de 16 de noviembre.
+2. Para el ejercicio de las ventas a distancia será de aplicación el régimen contenido en el título III del libro segundo del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado mediante Real Decreto Legislativo 1/2007, de 16 de noviembre.
+Se modifica por el art. 6.2 del Real Decreto-ley 20/2018, de 7 de diciembre. Ref. BOE-A-2018-16791#a6
+ Se modifica por la disposición final 2.4 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Se modifica el apartado 2 por el art. único.4 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+ Se modifica por el art. 3 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+### Artículos 39 a 48
+
+Artículos 39 a 48.
+(Derogados).
+Se derogan por la disposición derogatoria única.1 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Se modifica por la disposición final 2.4 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Se modifica el apartado 2 por el art. único.4 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+ Se modifica por el art. 3 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+### Artículo 39
+
+Artículo 39. Propuesta de contratación.
+1. En todas las propuestas de contratación deberá constar inequívocamente que se trata de una oferta comercial. Concretamente, en el caso de comunicaciones telefónicas, deberá precisarse explícita y claramente, al principio de cualquier conversación con el comprador, la identidad del vendedor y la finalidad comercial de la llamada.
+2. La utilización por parte del vendedor de las técnicas de comunicación que consistan en un sistema automatizado de llamada sin intervención humana o el telefax necesitará el consentimiento previo del consumidor.
+3. En todo caso, deberán cumplirse las disposiciones vigentes sobre condiciones generales de contratación, protección de los menores y respeto a la intimidad. Cuando se utilicen datos personales procedentes de fuentes accesibles al público para la realización de comunicaciones comerciales, se proporcionará al destinatario la información que señala la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y se ofrecerá al destinatario la oportunidad de oponerse a la recepción de las mismas.
+Se modifica por el art. 3 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+### Artículo 40
+
+Artículo 40. Información previa.
+1. Antes de iniciar el procedimiento de contratación y con la antelación necesaria, el vendedor deberá suministrar al consumidor, de forma veraz, eficaz y suficiente, la siguiente información:
+a) La identidad del vendedor y su dirección.
+b) Las características esenciales del producto.
+c) El precio, incluidos todos los impuestos.
+d) Los gastos de entrega y transporte, en su caso.
+e) La forma de pago y modalidades de entrega o de ejecución.
+f) La existencia de un derecho de desistimiento o resolución, o su ausencia en los contratos a que se refiere el artículo 45.
+g) El coste de la utilización de la técnica de comunicación a distancia cuando se calcule sobre una base distinta de la tarifa básica.
+h) El plazo de validez de la oferta y del precio.
+i) La duración mínima del contrato, si procede, cuando se trate de contratos de suministro de productos destinados a su ejecución permanente o repetida.
+j) Las circunstancias y condiciones en que el vendedor podría suministrar un producto de calidad y precio equivalentes, en sustitución del solicitado por el consumidor, cuando se quiera prever esta posibilidad.
+k) En su caso, indicación de si el vendedor dispone o está adherido a algún procedimiento extrajudicial de solución de conflictos.
+2. La información contenida en el apartado anterior, cuya finalidad comercial debe ser indudable, deberá facilitarse al comprador de modo claro, comprensible e inequívoco, mediante cualquier técnica adecuada al medio de comunicación a distancia utilizado, y deberá respetar, en particular, el principio de buena fe en las transacciones comerciales, así como los principios de protección de quienes sean incapaces de contratar.
+Se modifica por el art. 3 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+### Artículo 41
+
+Artículo 41. Necesidad de consentimiento expreso.
+1. En ningún caso la falta de respuesta a la oferta de venta a distancia podrá considerarse como aceptación de ésta.
+2. Si el vendedor, sin aceptación explícita del destinatario de la oferta, enviase a éste el producto ofertado, se aplicará lo dispuesto en el artículo siguiente.
+Se modifica por el art. 3 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+### Artículo 42
+
+Artículo 42. Prohibición de envíos no solicitados.
+Queda prohibido enviar al consumidor artículos o mercancías no pedidos por él al comerciante cuando dichos suministros incluyan una petición de pago. En caso de que así se haga, y sin perjuicio de la infracción que ello suponga, el receptor de tales artículos no estará obligado a su devolución, ni podrá reclamársele el precio.
+En caso de que decida devolverlo no deberá indemnizar por los daños o deméritos sufridos por el producto.
+No será de aplicación lo dispuesto en el párrafo primero cuando quede claramente de manifiesto al receptor que el envío no solicitado se debía a un error, correspondiendo al vendedor la carga de la prueba. El receptor tendrá derecho a ser indemnizado por los gastos y por los daños y perjuicios que se le hubieran causado.
+Se modifica por el art. 3 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+### Artículo 43
+
+Artículo 43. Ejecución y pago.
+1. Salvo que las partes hayan acordado otra cosa, el vendedor deberá ejecutar el pedido a más tardar en el plazo de treinta días a partir del día siguiente a aquel en que el comprador le haya comunicado su pedido.
+2. En caso de no ejecución del contrato por parte del vendedor por no encontrarse disponible el bien objeto del pedido, el comprador deberá ser informado de esta falta de disponibilidad y deberá poder recuperar cuanto antes, y en cualquier caso en un plazo de treinta días como máximo, las sumas que haya abonado. En el supuesto de que el vendedor no realice este abono en el plazo señalado, el comprador podrá reclamar que se le pague el doble de la suma adeudada, sin perjuicio a su derecho de ser indemnizado por los daños y perjuicios sufridos en lo que excedan de dicha cantidad.
+3. De no hallarse disponible el bien objeto del pedido, cuando el consumidor hubiera sido informado expresamente de tal posibilidad, el vendedor podrá suministrar sin aumento de precio un producto de características similares que tenga la misma o superior calidad. En este caso, el comprador podrá ejercer sus derechos de desistimiento y resolución en los mismos términos que si se tratara del bien inicialmente requerido.
+Se modifica por el art. 3 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+### Artículo 44
+
+Artículo 44. Derecho de desistimiento.
+1. El comprador dispondrá de un plazo mínimo de siete días hábiles para desistir del contrato sin penalización alguna y sin indicación de los motivos. Será la ley del lugar donde se ha entregado el bien la que determine qué días han de tenerse por hábiles.
+2. El ejercicio del derecho de desistimiento no estará sujeto a formalidad alguna, bastando que se acredite en cualquier forma admitida en derecho.
+3. El derecho de desistimiento no puede implicar la imposición de penalidad alguna, si bien podrá exigirse al comprador que se haga cargo del coste directo de devolución del producto al vendedor.
+No obstante lo anterior, en los supuestos en que el vendedor pueda suministrar un producto de calidad y precio equivalentes, en sustitución del solicitado por el consumidor, los costes directos de devolución, si se ejerce el derecho de desistimiento, serán por cuenta del vendedor que habrá debido informar de ello al consumidor.
+Serán nulas de pleno derecho las cláusulas que impongan al consumidor una penalización por el ejercicio de su derecho de desistimiento o la renuncia al mismo.
+4. A efectos del ejercicio del derecho de desistimiento, el plazo se calculará a partir del día de recepción del bien, siempre que se haya cumplido el deber de información que impone el artículo 47.
+5. En el caso de que el vendedor no haya cumplido con tal deber de información, el comprador podrá resolver el contrato en el plazo de tres meses a contar desde aquel en que se entregó el bien. Si la información a que se refiere el artículo 47 se facilita durante el citado plazo de tres meses, el período de siete días hábiles para el desistimiento empezará a correr desde ese momento. Cuando el comprador ejerza su derecho a resolver el contrato por incumplimiento del deber de información que incumbe al vendedor, no podrá éste exigir que aquél se haga cargo de los gastos de devolución del producto.
+6. Cuando el comprador haya ejercido el derecho de desistimiento o el de resolución conforme a lo establecido en el presente artículo, el vendedor estará obligado a devolver las sumas abonadas por el comprador sin retención de gastos. La devolución de estas sumas deberá efectuarse lo antes posible y, en cualquier caso, en un plazo máximo de treinta días desde el desistimiento o la resolución. Corresponde al vendedor la carga de la prueba sobre el cumplimiento del plazo. Transcurrido el mismo sin que el comprador haya recuperado la suma adeudada, tendrá derecho a reclamarla duplicada, sin perjuicio de que además se le indemnicen los daños y perjuicios que se le hayan causado en lo que excedan de dicha cantidad.
+7. En caso de que el precio haya sido total o parcialmente financiado mediante un crédito concedido al comprador por parte del vendedor o por parte de un tercero previo acuerdo de éste con el vendedor, el ejercicio del derecho de desistimiento o de resolución contemplados en este artículo implicará al tiempo la resolución del crédito sin penalización alguna para el comprador.
+8. El transcurso del plazo del derecho de desistimiento sin ejecutarlo no será obstáculo para el posterior ejercicio de las acciones de nulidad o resolución del contrato cuando procedan conforme a derecho.
+Se modifica por el art. 3 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+### Artículo 45
+
+Artículo 45. Excepciones al derecho de desistimiento.
+Salvo pacto en contrario, lo dispuesto en el artículo anterior no será aplicable a los siguientes contratos:
+a) Contratos de suministro de bienes cuyo precio esté sujeto a fluctuaciones de coeficientes del mercado financiero que el vendedor no pueda controlar.
+b) Contratos de suministro de bienes confeccionados conforme a las especificaciones del consumidor o claramente personalizados, o que, por su naturaleza, no puedan ser devueltos o puedan deteriorarse o caducar con rapidez.
+c) Contratos de suministro de grabaciones sonoras o de vídeo, de discos y de programas informáticos que hubiesen sido desprecintados por el consumidor, así como de ficheros informáticos, suministrados por vía electrónica, susceptibles de ser descargados o reproducidos con carácter inmediato para su uso permanente.
+d) Contratos de suministro de prensa diaria, publicaciones periódicas y revistas.
+Se modifica por el art. 3 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+### Artículo 46
+
+Artículo 46. Pago mediante tarjeta.
+1. Cuando el importe de una compra hubiese sido cargado fraudulenta o indebidamente utilizando el número de una tarjeta de pago, su titular podrá exigir la inmediata anulación del cargo. En tal caso, las correspondientes anotaciones de adeudo y reabono en las cuentas del proveedor y del titular se efectuarán a la mayor brevedad.
+2. Sin embargo, si la compra hubiese sido efectivamente realizada por el titular de la tarjeta y la exigencia de devolución no fuera consecuencia de haberse ejercido el derecho de desistimiento o de resolución reconocido en el artículo 44 y, por tanto, hubiese exigido indebidamente la anulación del correspondiente cargo, aquél quedará obligado frente al vendedor al resarcimiento de los daños y perjuicios ocasionados como consecuencia de dicha anulación.
+Se modifica por el art. 3 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+### Artículo 47
+
+Artículo 47. Información.
+1. Además de la información señalada en el artículo 40, el consumidor deberá haber recibido, a la ejecución del contrato, las siguientes informaciones y documentos:
+a) Información escrita sobre las condiciones y modalidades de ejercicio de los derechos de desistimiento y resolución, así como un documento de desistimiento o revocación, identificado claramente como tal, que exprese el nombre y dirección de la persona a quien debe enviarse y los datos de identificación del contrato y de los contratantes a que se refiere.
+b) La dirección del establecimiento del vendedor donde el comprador pueda presentar sus reclamaciones.
+c) Información relativa a los servicios postventa y a las garantías comerciales existentes.
+d) En caso de celebración de un contrato de duración indeterminada o de duración superior a un año, las condiciones de rescisión del contrato.
+2. La información a que se refiere el apartado anterior deberá facilitarse por escrito o, salvo oposición expresa del consumidor, en cualquier otro soporte duradero adecuado a la técnica de comunicación empleada y en la lengua utilizada en la propuesta de contratación.
+Se modifica por el art. 3 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+### Artículo 48
+
+Artículo 48. Derechos del consumidor.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2007, de 16 de noviembre. Ref. BOE-A-2007-20555
+ Se modifica por el art. 3 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+## CAPÍTULO III
+
+Venta automática
+
+### Artículo 49
+
+Artículo 49. Concepto.
+1. Es venta automática la forma de distribución detallista, en la cual se pone a disposición del consumidor el producto o servicio para que éste lo adquiera mediante el accionamiento de cualquier tipo de mecanismo y previo pago de su importe.
+2. Los distintos modelos de máquinas para la venta automática deberán cumplir la normativa técnica que les sea de aplicación.
+Se deroga el apartado 3 y se modifica el apartado 2 por el art. único.5 y disposición derogatoria única de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+### Artículo 50
+
+Artículo 50. Advertencias obligatorias.
+Para protección de los consumidores y usuarios, en todas las máquinas de venta deberán figurar con claridad:
+a) La información referida al producto y al comerciante que lo ofrece: el tipo de producto que expenden, su precio, la identidad del oferente, así como una dirección y teléfono donde se atiendan las reclamaciones.
+b) La información relativa a la máquina que expende el producto: el tipo de monedas que admite, las instrucciones para la obtención del producto deseado, así como la acreditación del cumplimiento de la normativa técnica aplicable.
+Se modifica por el art. único.6 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+### Artículo 51
+
+Artículo 51. Recuperación del importe.
+Todas las máquinas de venta deberán permitir la recuperación automática del importe introducido en el caso de no facilitarse el artículo solicitado.
+
+### Artículo 52
+
+Artículo 52. Responsabilidad.
+En el caso de que las máquinas de venta estén instaladas en un local destinado al desarrollo de una empresa o actividad privada, los titulares de la misma responderán solidariamente con el de la propia máquina frente al comprador del cumplimiento de las obligaciones derivadas de la venta automática.
+
+## CAPÍTULO IV
+
+Venta ambulante o no sedentaria
+
+### Artículo 53
+
+Artículo 53. Concepto.
+Se considera venta ambulante o no sedentaria la realizada por comerciantes, fuera de un establecimiento comercial permanente, de forma habitual, ocasional, periódica o continuada, en los perímetros o lugares debidamente autorizados en instalaciones comerciales desmontables o transportables, incluyendo los camiones-tienda. En todo caso, la venta no sedentaria únicamente podrá llevarse a cabo en mercados fijos, periódicos u ocasionales así como en lugares instalados en la vía pública para productos de naturaleza estacional.
+Se declara inconstitucional y nulo el inciso destacado por Sentencia del TC 124/2003, de 19 de junio. Ref. BOE-T-2003-14319.
+Se declara la inconstitucionalidad y nulidad del inciso destacado por Sentencia del TC 124/2003, de 19 de junio. Ref. BOE-T-2003-14319
+
+### Artículo 54
+
+Artículo 54. Autorización.
+Corresponderá a los Ayuntamientos otorgar las autorizaciones para el ejercicio de la venta ambulante en sus respectivos términos municipales, de acuerdo con sus normas específicas y las contenidas en la legislación vigente, de acuerdo con el marco respectivo de competencias.
+No obstante lo anterior, y puesto que el número de autorizaciones disponibles es limitado debido a la escasez de suelo público habilitado a tal efecto, la duración de las mismas no podrá ser por tiempo indefinido, debiendo permitir, en todo caso, la amortización de las inversiones y una remuneración equitativa de los capitales invertidos.
+El procedimiento para la selección entre los posibles candidatos habrá de garantizar la transparencia y la imparcialidad y, en concreto, la publicidad adecuada del inicio, desarrollo y fin del proceso.
+La autorización que se otorgue no dará lugar a un procedimiento de renovación automática ni conllevará ningún otro tipo de ventaja para el prestador cesante o las personas que estén especialmente vinculadas con él.
+Se modifica por el art. único.7 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+### Artículo 55
+
+Artículo 55. Identificación.
+Quienes ejerzan el comercio ambulante deberán tener expuesto en forma fácilmente visible para el público sus datos personales y el documento en el que conste la correspondiente autorización municipal, así como una dirección para la recepción de las posibles reclamaciones.
+
+## CAPÍTULO V
+
+Venta en pública subasta
+
+### Artículo 56
+
+Artículo 56. Concepto.
+1. La celebración de una pública subasta consiste en ofertar, pública e irrevocablemente, la venta de un bien o servicio a favor de quien ofrezca, mediante el sistema de pujas y dentro del plazo concedido al efecto, el precio más alto por encima de un mínimo, ya se fije éste inicialmente o mediante ofertas descendentes realizadas en el curso del propio acto, que estará obligado a comprarlo.
+Para el ejercicio de esta modalidad de venta, se aplicará, además de lo dispuesto en esta ley, la normativa específica sobre defensa de los consumidores y usuarios prevista por el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado mediante Real Decreto Legislativo 1/2007, de 16 de noviembre.
+2. La regulación de las ventas en pública subasta contenida en la presente Ley se aplicará a las efectuadas por empresas que se dediquen habitualmente a esta actividad o al comercio al por menor.
+Las subastas de títulos, así como las subastas judiciales y administrativas, se regirán por su normativa específica.
+Se modifica el apartado 1 por la disposición final 2.5 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 57
+
+Artículo 57. Contrato de subasta.
+1. En el supuesto de que los bienes a subastar no pertenezcan a la empresa que desarrolla esta actividad, las relaciones con el propietario de los mismos se ajustarán a lo estipulado entre las partes de acuerdo con la normativa general sobre contratación.
+2. En defecto de pacto expreso, se entenderá que todos los gastos de la subasta, incluidos los de custodia y, en su caso, tasación, corresponden a la empresa de subastas, sin que el propietario deba entregar por este concepto remuneración adicional alguna, fuera del precio o gratificación establecido.
+También corresponderá a la referida empresa, salvo estipulación en contrario, la obligación de custodia y exposición de los bienes y, en su caso, los de inclusión en el catálogo.
+3. La empresa subastadora deberá comprobar, en su caso, el cumplimiento de los requisitos establecidos en la legislación para la protección del tesoro artístico, histórico y bibliográfico de España.
+4. El encargo de subasta deberá documentarse por escrito en el que se identificarán las partes, el objeto y condiciones de la venta, así como la retribución de la empresa subastadora.
+
+### Artículo 58
+
+Artículo 58. Oferta de venta en subasta.
+1. La oferta de venta en subasta deberá contener una descripción veraz de los objetos que salen a la misma, con identificación de si sus calidades son ciertas o, simplemente, supuestas o adveradas por determinado experto.
+2. En especial, cuando, en salas especializadas en objetos de arte o de valor, se oferte la venta en subasta de una imitación o de un artículo que, aunque aparentemente precioso, no lo sea en realidad, deberá hacerse constar, expresamente, esta circunstancia tanto en los anuncios como en las invitaciones en las pujas.
+Cuando se oferte la venta en subasta de un objeto acompañado del nombre o de las iniciales de un determinado autor o precisando que aparece firmado por el mismo, se considerará que se vende como original de dicho autor, a menos que consten con claridad las oportunas advertencias.
+3. Lo dispuesto en el apartado 2 del presente artículo será también de aplicación a las ventas de objetos preciosos o artísticos que se oferten al público en forma distinta a la subasta.
+
+### Artículo 59
+
+Artículo 59. Relaciones entre la empresa subastadora y los licitadores.
+1. Unicamente podrá exigirse la constitución de fianza a los licitadores, cuando expresamente se haya consignado esta condición en los anuncios de la subasta.
+En ningún caso, el importe de las fianzas podrá ser superior al 5 por 100 del precio de salida de los bienes en cuya licitación se quiera participar.
+2. La fianza constituida por los licitadores a quienes no hubiese sido adjudicado el remate les deberá ser reintegrada dentro del plazo máximo de tres días a contar desde la finalización del acto.
+3. En el caso de que el rematante no satisfaciere el precio en las condiciones en que se hizo la adjudicación, perderá la fianza constituida que, en defecto de pacto, corresponderá al titular del bien subastado, una vez deducido el premio o comisión atribuible a la empresa subastadora, sin perjuicio del derecho del vendedor a exigir el cumplimiento del contrato.
+
+### Artículo 60
+
+Artículo 60. Documentación.
+1. Adjudicado un bien se consignará inmediatamente por escrito procediéndose a la entrega del mismo una vez satisfecho el precio del remate o la parte del mismo determinada en los correspondientes anuncios.
+2. Las ventas en pública subasta deberán, necesariamente, formalizarse mediante documento público o privado que, en su caso, podrá ser otorgado por la empresa subastadora como mandataria del propietario del bien subastado.
+
+### Artículo 61
+
+Artículo 61. Efectos de la venta en subasta.
+1. La adquisición de bienes muebles mediante una venta en pública subasta de acuerdo con lo previsto en la presente Ley determinará su irreivindicabilidad en la forma establecida en el artículo 85 del Código de Comercio.
+2. La empresa subastadora responderá solidariamente con el titular del bien subastado por la falta de conformidad de éste con el anuncio de la subasta, así como por los vicios o defectos ocultos de la cosa vendida, cuando hubiese incumplido las obligaciones de información que le impone el artículo 58 de la presente Ley.
+Se modifica por el art. 4 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+## CAPÍTULO VI
+
+De la actividad comercial en régimen de franquicia
+
+### Artículo 62
+
+Artículo 62. Regulación del régimen de franquicia.
+1. La actividad comercial en régimen de franquicia es la que se lleva a efecto en virtud de un acuerdo o contrato por el que una empresa, denominada franquiciadora, cede a otra, denominada franquiciada, el derecho a la explotación de un sistema propio de comercialización de productos o servicios.
+2. Con una antelación mínima de 20 días a la firma de cualquier contrato o precontrato de franquicia o entrega por parte del futuro franquiciado al franquiciador de cualquier pago, el franquiciador deberá haber entregado al futuro franquiciado por escrito la información necesaria para que pueda decidir libremente y con conocimiento de causa su incorporación a la red de franquicia y, en especial, los datos principales de identificación del franquiciador, descripción del sector de actividad del negocio objeto de franquicia, contenido y características de la franquicia y de su explotación, estructura y extensión de la red y elementos esenciales del acuerdo de franquicia. Reglamentariamente se establecerán las demás condiciones básicas para la actividad de cesión de franquicias.
+Se modifica por el art. 6.3 del Decreto-ley 20/2018, de 7 de diciembre. Ref. BOE-A-2018-16791#a6
+ Se modifica el apartado 2 por el art. único.8 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+## TÍTULO IV
+
+Infracciones y sanciones
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 63
+
+Artículo 63. Competencias sancionadoras.
+1. Las Administraciones Públicas comprobarán el cumplimiento de lo dispuesto en la presente Ley, a cuyo fin podrán desarrollar las actuaciones inspectoras precisas en las correspondientes empresas. También sancionarán las infracciones cometidas, previa instrucción del oportuno expediente, sin perjuicio de las responsabilidades civiles, penales o de otro orden que puedan concurrir.
+La competencia sancionadora corresponderá a las respectivas Comunidades Autónomas.
+2. La instrucción de causa penal ante los Tribunales de Justicia o la incoación de expediente por infracción de las normas de defensa de la competencia, suspenderá la
+tramitación del expediente administrativo sancionador que hubiera sido incoado por los mismos hechos y, en su caso, la eficacia de las resoluciones sancionadoras.
+3. Serán de aplicación a las infracciones recogidas en esta Ley las reglas y principios sancionadores contenidos en la legislación general sobre régimen jurídico de las administraciones públicas y procedimiento administrativo común.
+4. En ningún caso se podrá imponer una doble sanción por los mismos hechos y en función de los mismos intereses públicos protegidos, si bien deberán exigirse las demás responsabilidades que se deduzcan de otros hechos o infracciones concurrentes.
+5. Las personas y las entidades de cualquier naturaleza jurídica que dispongan o tengan el deber jurídico de disponer de información o documentación que pudiera contribuir al esclarecimiento de la comisión de infracciones tipificadas en esta ley o a la determinación del alcance y/o de la gravedad de las mismas, tienen el deber de colaborar con las autoridades competentes en materia de ordenación del comercio. A tal efecto, dentro de los plazos establecidos, deberán facilitar la información y los documentos que les sean requeridos por la inspección en el ejercicio de sus funciones.
+Se añade el apartado 5 por el art. único.9 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+## CAPÍTULO II
+
+Clases de infracciones
+
+### Artículo 64
+
+Artículo 64. Infracciones leves.
+Tendrán la consideración de infracciones leves:
+a) No exhibir la necesaria autorización, homologación o comunicación en la forma legal o reglamentariamente establecida.
+b) La realización de actividades comerciales en horario superior al máximo que, en su caso, se haya establecido.
+c) Realizar ventas en rebajas fuera de los casos autorizados en la presente Ley.
+d) No hacer figurar en los artículos rebajados los precios habituales de los mismos.
+e) El incumplimiento de lo dispuesto en la presente Ley acerca de las ofertas de venta conjunta.
+f) Omitir en los anuncios de las subastas los requisitos establecidos en la presente Ley.
+g) El retraso en la devolución de las fianzas constituidas por los licitadores no adjudicatarios de las ventas en subasta.
+h) En general, el incumplimiento de las obligaciones establecidas en la presente Ley o en las normas dictadas para su desarrollo, que no sean objeto de sanción específica.
+Se declara inconstitucional y nulo el inciso destacado de la letra h) por Sentencia del TC 97/2009, de 27 de abril. Ref. BOE-A-2009-8603.
+i) Los incumplimientos de lo dispuesto en el párrafo d) del apartado 1 del citado artículo 2 serán sancionables conforme a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal correspondiendo la potestad sancionadora al órgano que resulte competente.
+Se declara la inconstitucionalidad y nulidad del inciso destacado de la letra h) por Sentencia del TC 97/2009, de 27 de abril. Ref. BOE-A-2009-8603
+ Se añade la letra i) por el art. 6 de la Ley 56/2007, de 28 de diciembre. Ref. BOE-A-2007-22440
+ Esta modificación entra en vigor el 29 de diciembre de 2008, según establece la disposición final 4.
+
+### Artículo 65
+
+Artículo 65. Infracciones graves.
+1. Tendrán la consideración de infracciones graves:
+a) Ejercer una actividad comercial sin previa autorización en el caso de que esta fuera preceptiva, o no realizar las comunicaciones o notificaciones a la administración comercial exigidas por la normativa vigente.
+b) Exigir precios superiores a aquellos que hubiesen sido objeto de fijación administrativa.
+c) Realizar ventas con pérdida que sean desleales en los supuestos del artículo 14.1.
+d) La realización por parte de las entidades a que se refiere el artículo 15 de operaciones de venta con personas distintas a sus socios o beneficiarios.
+e) La realización de actividades comerciales en domingos y días festivos en los casos de prohibición.
+f) El incumplimiento de los plazos máximos de pago que contempla el apartado 3 del artículo 17, así como la falta de entrega por los comerciantes a sus proveedores de un documento que lleve aparejada ejecución cambiaria, y la falta de entrega de un efecto endosable a la orden en los supuestos y plazos contemplados en el apartado 4 del artículo 17.
+g) No dejar constancia documental de la fecha de entrega de mercancías por los proveedores o falsear este dato.
+h) La oferta de operaciones comerciales en pirámide en la forma prohibida por la presente Ley.
+i) La falta de veracidad en los anuncios de prácticas promocionales calificando indebidamente las correspondientes ventas u ofertas.
+j) Ofertar como rebajados artículos defectuosos o adquiridos expresamente con tal finalidad.
+k) El incumplimiento del régimen establecido sobre entrega y canje de los obsequios promocionales.
+l) Anunciar o realizar operaciones de venta en liquidación con incumplimiento de los requisitos establecidos al respecto.
+m) Anunciar ventas como directas de fabricante o mayorista con incumplimiento de lo establecido al respecto en la presente Ley.
+n)(Derogada).
+ñ) (Derogada).
+o) Admitir objetos para su venta en subasta sin haber comprobado el cumplimiento de los requisitos exigidos en la legislación en defensa del patrimonio histórico, artístico y bibliográfico de España.
+p) La resistencia, negativa u obstrucción a la acción comprobadora o inspectora de las administraciones comerciales.
+q) La reincidencia en la comisión de faltas leves.
+r) (Derogada).
+s) Cursar información errónea o claramente insuficiente cuando ésta haya sido solicitada de conformidad con la normativa de aplicación y tenga carácter esencial, se generen graves daños o exista intencionalidad.
+2. La imposición de sanciones administrativas en los supuestos recogidos en los apartados f) y g) del apartado 1 del presente artículo no prejuzgará, en modo alguno, la validez de los correspondientes contratos o de las obligaciones, respectivamente, asumidas por las partes.
+Se modifican las letras a) y c) del apartado 1 y se deroga la r) por el art. 6.4, 5 y la disposición derogatoria unica 1.a) de Real Decreto-ley 20/2018, de 7 de diciembre. Ref. BOE-A-2018-16791#a6
+ Se modifican las letras a) y r) y se añade la s) por el art. único.10 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+ Se derogan las letras n) y ñ) del apartado 1 por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2007, de 16 de noviembre. Ref. BOE-A-2007-20555
+ Se modifica la letra ñ) del apartado 1 por el art. 5 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+ Se modifican las letras c) y f) por el art. 56.1.6 y 7 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
+ Téngase en cuenta que los acuerdos entre producción y distribución se ajustarán a lo dispuesto en estas modificaciones, según establece el art. 56.2 de la citada Ley, y a partir de los seis meses de la entrada en vigor de la misma.
+
+### Artículo 66
+
+Artículo 66. Infracciones muy graves.
+Se considerará infracción muy grave cualquiera de las definidas como graves en el artículo anterior cuando concurran algunas de las circunstancias siguientes:
+a) Que el volumen de la facturación realizada o el precio de los artículos ofertados a que se refiere la infracción sea superior a 100.000.000 de pesetas.
+b) Que exista reincidencia.
+
+### Artículo 67
+
+Artículo 67. Reincidencia.
+1. Se entenderá que existe reincidencia, por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
+2. No obstante lo señalado en el párrafo anterior, para calificar una infracción como muy grave, sólo se atenderá a la reincidencia en infracciones graves y la reincidencia en infracciones leves sólo determinará que una infracción de este tipo sea calificada como grave cuando se incurra en el cuarto supuesto sancionable.
+
+## CAPÍTULO III
+
+Sanciones
+
+### Artículo 68
+
+Artículo 68. Cuantía de las multas.
+1. Las infracciones muy graves se sancionarán con multa de 30.000 euros hasta 900.000 euros.
+2. Las infracciones graves se sancionarán con multa de 6.000 euros a 30.000 euros.
+3. Las infracciones leves se sancionarán con multa de hasta 6.000 euros.
+4. Cuando la sanción lo sea por la forma de actividad comercial que se realiza o por los productos comercializados, las sanciones comportarán la incautación y pérdida de la mercancía objeto de la actividad comercial de que se trate.
+5. En el caso de tercera reincidencia en infracciones calificadas como muy graves, las Comunidades Autónomas podrán decretar el cierre temporal de la empresa, el establecimiento o la industria infractora, por un período máximo de un año.
+El acuerdo de cierre debe determinar las medidas complementarias para su plena eficacia.
+Se modifican los apartados 1, 2 y 3 por el art. único.11 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+### Artículo 69
+
+Artículo 69. Graduación.
+Las sanciones se graduarán especialmente en función del volumen de la facturación a la que afecte, cuantía del beneficio obtenido, grado de intencionalidad, plazo de tiempo durante el que se haya venido cometiendo la infracción, reincidencia y capacidad o solvencia económica de la empresa.
+Se modifica por el art. único.12 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+### Artículo 70
+
+Artículo 70. Prescripción.
+1. Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses. Estos plazos se contarán a partir de la producción del hecho sancionable o de la terminación del período de comisión si se trata de infracciones continuadas.
+2. Las sanciones prescribirán en los mismos plazos contados a partir de la firmeza de la resolución sancionadora.
+
+### Artículo 71
+
+Artículo 71. Suspensión temporal de la actividad.
+La Comunidad Autónoma competente podrá adoptar la medida de cierre de las instalaciones o los establecimientos que no dispongan de las autorizaciones preceptivas o la suspensión de su funcionamiento hasta que se rectifiquen los defectos o se cumplan los requisitos exigidos en los supuestos de falta muy grave. Asimismo, podrá suspender la venta cuando, en su ejercicio, advierta las mismas irregularidades.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2007, de 16 de noviembre. Ref. BOE-A-2007-20555
+ Se modifica por el art. 6 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Los órganos de la Administración competente, así como los órganos, asociaciones o personas a que se refiere el artículo 25.1 de la Ley 34/1988, de 11 de noviembre, General de Publicidad, estarán legitimados para instar, en el procedimiento establecido en el capítulo IV de la citada Ley, la cesación o, en su caso, la rectificación de la publicidad que resulte contraria a la normativa vigente.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Se añade el siguiente inciso final al apartado 1 del artículo 221 de la Ley de Sociedades Anónimas:
+«Cuando la sociedad tenga un volumen de facturación anual superior a 1.000.000.000 de pesetas el límite de la multa para cada año de retraso se elevará a 50.000.000 de pesetas.»
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+1. Las entidades de cualquier naturaleza jurídica que se dediquen al comercio mayorista o minorista o a la realización de adquisiciones o presten servicios de intermediación para negociar las mismas, por cuenta o encargo de los comerciantes al por menor, deberán formalizar su inscripción, así como el depósito anual de sus cuentas en el Registro Mercantil en la forma en que se determine reglamentariamente, cuando en el ejercicio inmediato anterior las adquisiciones realizadas o intermediadas o sus ventas, hayan superado la cifra de 100.000.000 de pesetas.
+Estas obligaciones no serán aplicables a los comerciantes que sean personas físicas.
+2. La falta de inscripción o de depósito de las cuentas será sancionada en la forma prevista en el artículo 221 de la Ley de Sociedades Anónimas.
+3. Lo dispuesto en los apartados 1 y 2 se aplicará sin perjuicio de la obligación de inscripción y depósito de cuentas establecida para otras entidades de acuerdo con sus normas específicas.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+La presente Ley no será de aplicación a los establecimientos dedicados a la venta y expedición de productos farmacéuticos, ni a las expendedurías de tabaco y timbre del Estado, en los aspectos regulados por sus normativas específicas.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Lo dispuesto en los artículos 9, 14 y 17 de la presente Ley, será de aplicación a las entidades de cualquier naturaleza jurídica, que se dediquen al comercio mayorista o que realicen adquisiciones o presten servicios de intermediación para negociar las mismas por cuenta o encargo de otros comerciantes.
+Se añade por el art. 56.1.8 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
+ Téngase en cuenta que los acuerdos entre producción y distribución se ajustarán a lo dispuesto en esta modificación, según establece el art. 56.2 de la citada Ley, y a partir de los seis meses de la entrada en vigor de la misma.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Compensación de deudas en caso de responsabilidad por incumplimiento.
+Las Administraciones Públicas que, en el ejercicio de sus competencias, incumplieran lo dispuesto en esta ley o en el Derecho comunitario europeo afectado, dando lugar a que el Reino de España sea sancionado por las instituciones europeas asumirán, en la parte que les sea imputable, las responsabilidades que de tal incumplimiento se hubieran derivado. En el procedimiento de imputación de responsabilidad que se tramite se garantizará, en todo caso, la audiencia de la Administración afectada, pudiendo compensarse el importe que se determine con cargo a las transferencias financieras que la misma reciba.
+La Administración del Estado podrá compensar dicha deuda contraída por la Administración responsable con la Hacienda Pública estatal con las cantidades que deba transferir a aquella, de acuerdo con el procedimiento regulado en la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social. En todo caso, en el procedimiento de imputación de responsabilidad que se tramite se garantizará, la audiencia de la Administración afectada.
+Se añade por el art. único.13 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+### Disposición adicional octava
+
+Disposición adicional octava. Proyectos que deban someterse a evaluación de impacto ambiental.
+Cuando, de acuerdo con esta ley, se exija una declaración responsable o una comunicación para el acceso a una actividad o su ejercicio y una evaluación de impacto ambiental, conforme al texto refundido de la Ley de Impacto Ambiental de proyectos, aprobado por Real Decreto Legislativo 1/2008, de 11 de enero, o a la normativa autonómica de desarrollo, la declaración responsable o la comunicación no podrá presentarse hasta haber llevado a cabo dicha evaluación de impacto ambiental y, en todo caso, deberá disponerse de la documentación que así lo acredite.
+Se añade por el art. único.13 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+### Disposición adicional novena
+
+Disposición adicional novena. Condiciones de accesibilidad.
+Los establecimientos comerciales incluidos en el ámbito de esta Ley deberán observar las normas sobre condiciones de accesibilidad y no discriminación en el acceso y utilización de los mismos, de acuerdo con lo establecido en los desarrollos de la disposición final sexta de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad y, en su caso, la normativa autonómica de aplicación.
+Se añade por el art. único.13 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+### Disposición adicional décima
+
+Disposición adicional décima. Planificación urbanística de los usos comerciales.
+Las autoridades competentes en el diseño de la planificación urbanística atenderán a los problemas de movilidad y desplazamientos derivados de las concentraciones comerciales fuera de los núcleos urbanos, así como tendrán en cuenta el abastecimiento inmediato y adecuado de la población, facilitando la satisfacción de las necesidades de compra en un entorno de proximidad, con especial atención a aquellos ciudadanos que por cualesquiera razones tienen dificultades de desplazamiento.
+Se añade por el art. único.13 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Régimen jurídico de los contratos de distribución comercial.
+A los efectos de aplicación de las normas contempladas por la Directiva Europea 2006/123/CE y con el fin de eliminar barreras administrativas en la prestación de servicios, y dadas las circunstancias especiales del sector y de otros que se recogen en el informe sobre problemática de los contratos de distribución de marzo de 2009 del Ministerio de Industria, Turismo y Comercio que ha elaborado el Gobierno, éste procederá a regular el régimen jurídico de los contratos de distribución comercial.
+Se añade por el art. único.13 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+Lo dispuesto en el artículo 8 no será de aplicación a las ofertas y promociones ya iniciadas a la fecha de publicación de la presente Ley, hasta transcurrido un plazo de seis meses desde la indicada fecha.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Régimen de aplazamientos de pagos a los proveedores del comercio minorista.
+El plazo fijado para los productos frescos y perecederos seguirá siendo el ya exigible de 30 días. La limitación máxima de 60 días a la que se refiere el artículo 17.3 de esta Ley se aplicará a partir del 1 de julio de 2006. Entre tanto, los aplazamientos de pago de los productos de alimentación que no tengan carácter de frescos ni perecederos y los productos de gran consumo no excederán de noventa días desde la entrega de la mercancía.
+Se añade por la disposición final 2.2 de la Ley 3/2004, de 29 de diciembre. Ref. BOE-A-2004-21830
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley, y el artículo 5 del Real Decreto-ley 2/1985, de 30 de abril, sobre medidas de política económica.
+
+### Disposición final única
+
+Disposición final única.
+Los artículos 1, 8, 10, 11, 12, 16, 17, 38.1, 38.3, 38.4, 38.8, 39, 40, 41, 42, 43, 44, 45, 46, 47, 49.1, 51, 52, 53, 56, 57, 59, 60, 61, 62.1, 63, y las disposiciones adicionales segunda, tercera y cuarta de la presente Ley constituyen legislación civil y mercantil y serán de aplicación general por ampararse en la competencia exclusiva del Estado para regular el contenido del derecho privado de los contratos, resultante de las reglas 6.ª y 8.ª del artículo 149.1 de la Constitución.
+Los artículos 38.5, 38.6 y 38.7 constituyen asimismo legislación civil y mercantil y se amparan en las competencias exclusivas del Estado para regular el contenido del derecho privado de los contratos y para regular las telecomunicaciones, resultantes de las reglas 6.ª, 8.ª y 21.ª del artículo 149.1 de la Constitución.
+Los artículos 14, 15, 23.3, 24, 25, 28.1, 30.1, 31.2 y 33 de la presente Ley se amparan en la competencia exclusiva del Estado para regular el derecho mercantil de la competencia, resultante de la regla 6.ª del artículo 149.1 de la Constitución.
+Los artículos 2, 3, 4, 5, 6.1, 6.2, 6.3, 13, 17, 37, 38.2, 62.2, 64.j), 65.1.a), 65.1.b), 65.1.c), 65.1.e), 65.1.f), 65.1.ñ), 65.1.r) y 65.1.s) de la presente Ley tendrán la consideración de normativa básica dictada al amparo de la regla 13.ª del artículo 149.1 de la Constitución.
+Los artículos 6.4 y 54 de la presente Ley se dictan al amparo de lo dispuesto en las reglas 13.ª y 18.ª de la Constitución, que establecen la competencia exclusiva del Estado sobre bases y coordinación de la planificación general de la actividad económica y la competencia para dictar las bases del régimen jurídico de las Administraciones Públicas y el procedimiento administrativo común.
+Los artículos 67 y 70 se dictan al amparo de lo dispuesto en las reglas 1.ª y 18.ª del artículo 149.1 de la Constitución.
+El artículo 69 tendrá carácter básico y se dicta al amparo de la competencia exclusiva del Estado para regular las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales contenida en la regla 1.ª del artículo 149.1 de la Constitución.
+La disposición adicional séptima tendrá carácter básico y se dicta al amparo de las reglas 13.ª, 14.ª y 18.ª del artículo 149.1 de la Constitución que establecen la competencia exclusiva del Estado sobre bases y coordinación de la planificación general de la actividad económica, sobre la Hacienda general y la deuda del Estado y para dictar las bases del régimen jurídico de las Administraciones Públicas y el procedimiento administrativo común.
+La disposición adicional octava tendrá carácter básico y se dicta al amparo de lo establecido en el artículo 149.1.23.ª de la Constitución, que atribuye al Estado la competencia para dictar la legislación básica sobre protección del medio ambiente.
+Los restantes preceptos de esta Ley podrán ser de aplicación en defecto de legislación específica dictada por las Comunidades Autónomas.
+Se modifica por el art. único.14 de la Ley 1/2010, de 1 de marzo. Ref. BOE-A-2010-3365
+ Se derogan las menciones que se hacen al art. 48 y disposición adicional primera por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2007, de 16 de noviembre. Ref. BOE-A-2007-20555
+ Se modifica por el art. 7 de la Ley 47/2002, de 19 de diciembre. Ref. BOE-A-2002-24811
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 15 de enero de 1996.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

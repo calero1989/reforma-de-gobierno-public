@@ -1,0 +1,1193 @@
+# Ley 3/1993, de 9 de diciembre, Forestal de la Comunidad Valenciana.
+
+- Identificador BOE: `BOE-A-1994-1915`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1994-1915
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta que las referencias hechas al "Consejo Forestal de la Comunidad Valenciana" se entenderán hechas al "Consejo Asesor y de Participación de Medio Ambiente de la Comunidad Valenciana" según establece la disposición adicional tercera de esta ley, añadida por la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado, y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey promulgo la siguiente Ley.
+PREÁMBULO
+La gestión de los recursos forestales es una tarea que ha de ser llevada a cabo en el marco de una política forestal que concilie las demandas planteadas por los diversos grupos sociales, con la capacidad de aquellos recursos para su producción sostenible. Para ello, la política forestal necesita el apoyo de una legislación específica que posibilite la aplicación de los principios generales encaminados a la consecución de estos objetivos que demanda la sociedad.
+Conforme evoluciona el nivel de vida y en la medida en que se diversifican las peculiaridades de cada comunidad, las demandas sociales cambian y se hace, por tanto, necesario revisar la legislación disponible y adaptarla a las condiciones globales del momento y del lugar en los que se han de administrar los recursos en cuestión.
+Es, en efecto, un hecho comprobado que el proceso de desarrollo económico y cultural de una sociedad lleva consigo una evolución de la actitud adoptada por aquélla ante los bosques, así como de la utilización que se hace de los recursos naturales.
+En este sentido, conviene recordar que las demandas sociales que cabe plantearse respecto de los recursos forestales son, básicamente, de tres tipos: funciones estrictamente ecológicas o reguladoras de la dinámica de la biosfera; servicios de orden cualitativo (culturales, educativos, recreativos, de mejora de la calidad de vida y otros), y producción directa de bienes tangibles y mensurables.
+En la Comunidad Valenciana, el disfrute que nuestra sociedad demanda de los recursos forestales responde, en líneas generales, a un nivel de desarrollo posindustrial, caracterizado por una utilización de los recursos principalmente enfocada a la protección ambiental y al recreo; una extensión forestal más o menos estable y una intensidad de su aprovechamiento mediatizada por factores ecológicos y sociales.
+La Ley tiene en cuenta desigualdades existentes en la Comunidad Valenciana, tanto por lo que concierne al nivel de desarrollo económico general como a la producción de recursos forestales y a las demandas que sobre éstos se plantean. Estas desigualdades son particularmente relevantes si se tiene en cuenta el carácter externo característico de los beneficios que ofrecen los recursos forestales, lo cual reclama una acción solidaria que, mediante la articulación de una serie de medidas políticas compensatorias, haga justicia a una situación en la que, de hecho, existe un aprovechamiento de bienes pertenecientes a habitantes del medio rural por parte de habitantes de zonas urbanas. Estas medidas compensatorias deberán tener como resultado inmediato una mayor vinculación de los habitantes de las comarcas a sus propios montes, lo que a su vez redundará en beneficio de las masas forestales y, en definitiva, en una mayor calidad de vida para todos los ciudadanos.
+Para una adecuada gestión forestal es preciso, además, tener presente que la demanda social de bienes y servicios que pueden generar los recursos forestales no sólo depende de factores socio-económicos, sino que se halla condicionada por la propia disponibilidad de esos recursos. Es imprescindible, pues, que una política forestal contemple la dependencia recíproca existente entre la disponibilidad de los recursos forestales y la demanda de aprovechamiento que la sociedad plantee, y que ésta asuma la necesidad de establecer ciertas limitaciones en su uso, a fin de evitar una degradación o agotamiento irreversible de dichos recursos.
+La Ley pretende, además, establecer un marco de referencia que permita articular programas de actuación a largo plazo. La naturaleza, no lo olvidemos, impone su propia escala temporal y es por ello que las políticas medioambientales han de definirse mediante la acotación de al máximo de la orientación coyuntural.
+La legislación ambiental, en general, y la Ley Forestal, en particular, han de cimentarse en la flexibilidad como garantía de adaptabilidad. Es necesario conjugar el derecho al disfrute lúdico y económico del patrimonio forestal con una atención y protección adecuadas del mismo, lejos de los extremismos que puedan suponer tanto la explotación irracional e incontrolada de los recursos naturales, como un proteccionismo excesivo que impida un aprovechamiento racional y sostenido.
+En el seno de la Comunidad Europea la política medioambiental tiene un importante peso específico y, en el futuro, el diseño de los planes para el desarrollo económico y social europeo ha de tener como uno de sus ejes vertebradores la compatibilización de aquél con el respeto al entorno, de acuerdo con las tesis que propugna el modelo del desarrollo sostenible. En la propia Cumbre de la Tierra quedó patente la necesidad imperiosa de definir los postulados básicos de una política universal para la preservación de los bosques que, en sus distintas formas y categorías, constituyen uno de los reservorios más importantes de biodiversidad. Y en este contexto, se impone avanzar decididamente en la superación de las insuficiencias actualmente existentes en el marco legislativo medioambiental.
+Si bien el estado, en virtud del artículo 149.1.23 de la Constitución, tiene la competencia sobre la legislación básica en materia de montes y aprovechamientos forestales, es a la Generalidad Valenciana a quien corresponde la competencia exclusiva sobre la materia, con arreglo al artículo 148.1 del texto constitucional y del artículo 31.10 del Estatuto de Autonomía. Esta Ley se dicta, igualmente, en virtud de la competencia en materia de medio ambiente que faculta a esta Comunidad Autónoma tanto para el desarrollo de la legislación básica estatal, como para dictar normas adicionales de protección.
+El reparto de competencias obliga, por tanto, a respetar las disposiciones básicas emanadas del Estado, tales como las contenidas en la Ley de Montes y Ley de Patrimonio Forestal del Estado, así como en las Leyes de Incendios Forestales, Fomento de la Producción Forestal, Agricultura de Montaña y Conservación de los Espacios Naturales y de la Flora y Fauna. La necesidad de actualización de alguna de estas disposiciones legales básicas no supone un freno para la Generalidad Valenciana en su deber de satisfacer las demandas de nuestra sociedad, que viene reclamando un marco legal específico para la adopción de medidas y actuaciones adecuadas a nuestras peculiaridades socio-económicas y medioambientales.
+La Ley parte de una concepción positiva a la hora de catalogar los montes o terrenos forestales, en cuanto se basa en las características intrínsecas de las distintas áreas territoriales, eludiendo así la concepción residual que resultaría de la mera exclusión de las superficies destinadas a otros usos; a la vez, al vigente concepto de monte, añade también aquellos terrenos que cumplan o puedan cumplir funciones ecológicas, de paisaje o recreativas, con lo que no sólo se mejora el concepto sino que se hace más acorde con lo dispuesto en el artículo 45 de la Constitución, al tener en cuenta además de los aspectos de productividad, los medioambientales.
+Se establece una idea fundamental para la gestión forestal, consistente en que los montes, como ecosistemas que son, deben ser tratados de un modo integrado, en el que sean atendidos conjuntamente el medio físico, la flora y la fauna, a fin de preservar, en lo posible, la diversidad biológica y asegurar el mantenimiento de los principales procesos ecológicos. En consonancia con lo anterior, y teniendo en cuenta las especiales características de los montes valencianos, en razón de sus condiciones naturales y de la influencia humana, se establecen como objetivos principales la potenciación de los ecosistemas forestales en cuanto que referencia cultural; valorar y gestionar los matorrales como etapas de desarrollo del ecosistema; mantener, proteger y ampliar las cubiertas vegetales que puedan preservar y contrarrestar los procesos de erosión de los suelos, y compatibilizar el monte con la realización de otros aprovechamientos tales como los cinegéticos, el pastoreo y la recogida de productos, etc. Asimismo, también se fijan como objetivos la mejora de las explotaciones forestales, mediante la regulación del aprovechamiento ordenado y sostenible de los bosques como fuente de productos directos diversos y renovables. Se pretende, por último, fomentar el uso recreativo y lúdico de los espacios forestales en tanto que sea compatible con los objetivos anteriores y promover la participación de los propios ciudadanos en su mantenimiento y ampliación.
+Se crea el Consejo Forestal de la Comunidad Valenciana, como órgano consultivo en materia forestal en el que se integrarán, entre otros, representantes de los municipios, de los propietarios, de las universidades, de los organismos agrarios y de las organizaciones relacionadas con la conservación de la naturaleza.
+La presente Ley, respetuosa con la autonomía municipal, fomenta la intervención de las corporaciones locales en la administración y gestión de sus recursos forestales, y elimina trabas burocráticas para su desarrollo, a fin de aumentar la vinculación entre el monte y sus habitantes y promover la asunción de las responsabilidades que ello genere. La Generalidad Valenciana podrá asumir las competencias de las corporaciones locales a petición de éstas, sin perjuicio de una cooperación permanente para la consecución de los objetivos previstos en la Ley y, en particular, para la vigilancia de los montes. Se prevé la posibilidad de delegar la gestión forestal en los municipios y que, a la hora de distribuir subvenciones, las Administraciones valencianas tengan en cuenta la superficie forestal de cada término municipal y la carga que ello supone, al objeto de devolver, por esta vía, parte del bienestar medioambiental que estos municipios transfieren a las zonas no forestales. Igualmente, se dispone que se favorezca a las zonas forestales mediante actuaciones de la Generalidad Valenciana compatibles con el monte, a fin de compensar los aspectos desfavorables que la conservación del monte en buen estado pueda tener para los municipios ubicados en estas zonas. Con estas medidas se contribuirá no sólo a la mejora de la gestión forestal, sino que a la vez mejorará la calidad de vida de los ciudadanos de estas comunidades.
+En la regulación de los instrumentos de política forestal se establece un Plan General de Ordenación Forestal que, además de fijar los criterios fundamentales de esta Ley, determinará la ordenación a largo plazo de las distintas demarcaciones forestales, según el grado de protección que sea necesario aplicarles y según sus peculiaridades forestales, ecológicas y socio-económicas. Previamente, habrá de elaborarse un inventario forestal en el que figurará una relación descriptiva de los terrenos forestales de la Comunidad Valenciana.
+En el ámbito de la gestión forestal se fomentará la agrupación de terrenos forestales públicos o privados, a fin de superar el obstáculo que supone una propiedad atomizada para una gestión eficaz, como medida alternativa a la adquisición de terrenos por la Generalidad Valenciana. Se establecen, por otra parte, unas zonas de actuación urgente en virtud de una serie de circunstancias que así lo aconsejen.
+Se dota a la Administración de instrumentos para poder intervenir en los montes de los particulares para su repoblación, de modo que éstos habrán de hacerlo forzosamente si bien mediante convenios con la Administración en los que la aportación de éstos se determinará en función de la capacidad productiva del monte.
+Se podrán establecer regímenes especiales para proteger especies forestales en peligro y árboles singulares, así como aprobar planes que hagan compatible el bosque con la caza.
+Se regula el incremento de la propiedad forestal por parte de la Generalidad Valenciana, como medida para paliar los serios inconvenientes que, para la gestión forestal, también supone una propiedad privada no rentable y cuyos beneficios externos no revierten en el propietario. Este procedimiento de internación total y automática de los beneficios se hará de forma gradual y preferentemente en aquellos terrenos en que es máxima la presencia de externalidades, valiéndose para ello del derecho de retracto conforme a la legislación básica existente. Asimismo se regula el derecho de expropiación forzosa por parte de la Generalidad Valenciana.
+El fomento de la participación activa de los propietarios públicos y privados es objeto de medidas especiales. Se mantiene, en efecto, la posibilidad de establecer diversas modalidades de acciones concertadas con todo tipo de propietarios, tales como convenios, acuerdos, consorcios y acciones conjuntas.
+Se definen los deberes y derechos de los propietarios, sin perjuicio de lo establecido en las leyes vigentes que regulan los suelos no urbanizables, estableciéndose, además de la prohibición de clasificar o reclasificar urbanísticamente los terrenos que hayan sufrido un incendio forestal, las de destinarlos al pastoreo en los cinco años siguientes, transformarlos en suelos agrícolas en los veinte años siguientes y destinarlos a actividades extractivas en los diez años siguientes. En el caso de abandono o dejadez del ejercicio de aquellos deberes dominicales que supongan graves implicaciones para la conservación de los terrenos forestales, se abre la posibilidad de una expropiación forzosa por parte de la Generalidad Valenciana.
+Se regulan las medidas de prevención y reparación de daños, con motivo de la erosión, plagas o incendios, corresponsabilizando a los propietarios en la obligatoriedad de las normas dictadas en este sentido por la administración forestal cuando se trate de situaciones de alto riesgo.
+En cuanto a los incendios forestales se prevé la planificación de las actuaciones de la Generalidad Valenciana, a través de la aprobación de planes sectoriales de incendios forestales y la posibilidad de que, con subordinación a los mismos, los municipios redacten planes locales de incendios. Igualmente, los municipios podrán promover un voluntariado para la cooperación en la lucha contra los incendios y potenciar actividades formativas y educativas.
+Se prohíbe, en general, el uso del fuego en los terrenos forestales y la quema de rastrojos y de otras superficies para labores agrarias en los terrenos colindantes con el monte o con una proximidad a éste inferior a los 500 metros.
+Las subvenciones a propietarios son, junto con la adquisición de terrenos forestales por la Generalidad Valenciana, otra de las soluciones para paliar el problema de las externalidades y la baja rentabilidad directa inherente a los montes de la Comunidad Valenciana. Se establece una normativa a este respecto en la que se concede prioridad, como destinatarios de las ayudas, a las cooperativas forestales, los titulares de montes agrupados, las asociaciones de propietarios y las entidades locales.
+Una de las demandas más insistentes planteadas desde la sociedad civil es la necesidad de actualizar la regulación referente a las infracciones y sanciones, ante las contravenciones de la Ley por quienes atentan contra los montes, insensibles a la conservación del medio ambiente. Es por ello que la presente Ley establece la figura del guarda jurado medioambiental que, al servicio de la Administración o de los particulares, permitirá una mejor vigilancia del monte. Se mejora el actual listado de infracciones y se incrementa notablemente la cuantía de las multas, que pueden llegar a los cincuenta millones de pesetas. Asimismo, se fija la obligatoriedad de reparar los daños causados por el infractor.
+Con todo ello es objetivo de esta Ley dar respuesta a las demandas manifestadas por un amplio movimiento cívico que, desde diferentes plataformas, ha dado un importante impulso a la sensibilización social al respecto dentro del territorio valenciano.
+Esta Ley pretende, en definitiva, contribuir al fortalecimiento de nuestras instituciones de autogobierno, insertándola en nuestro ordenamiento jurídico y promoviendo la necesaria integración con la normativa concerniente a ordenación del territorio, impacto ambiental, parajes naturales, planificación hidrológica, conservación del patrimonio autonómico y tantas otras disciplinas a las que la política forestal puede servir de instrumento.
+Se modifica por el art. 7 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Definición y principios generales
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley tiene por objeto el establecimiento del régimen legal específico de los montes o terrenos forestales radicados en la Comunidad Valenciana.
+
+### Artículo 2
+
+Artículo 2.
+1. A los efectos de esta ley, son montes o terrenos forestales los definidos en el artículo 5 de la Ley 43/2003 de Montes.
+2. En desarrollo de la ley básica estatal, se consideran montes o terrenos forestales en la Comunitat Valenciana:
+a) Los terrenos agrícolas abandonados que hayan adquirido signos inequívocos de su estado forestal, entendiendo como tales los que presenten una cobertura de especies forestales arbóreas o arbustivas leñosas por encima del cincuenta por ciento de fracción de cabida cubierta, aplicado, como máximo, a escala de subparcela catastral.
+b) Los enclaves forestales en terrenos agrícolas cuya superficie sea mayor de una hectárea, sin perjuicio de que enclaves con superficies inferiores puedan tener tal condición, siempre y cuando el órgano forestal competente determine, de forma expresa, la función ecológica de los mismos.
+3. Asimismo, tienen también la consideración de monte los terrenos pertenecientes al dominio público forestal, aunque su uso y destino no sea forestal.
+Se modifica por el art. 3.1 del Decreto-ley 17/2024, de 23 de diciembre. Ref. DOGV-r-2024-90263
+ Se modifica el primer párrafo y la letra c) por el art. 8.1 y 2 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+ Se modifica por el art. 156 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663
+ Se modifica por el art. 32 de la Ley 10/1998 de 28 de diciembre . Ref. BOE-A-1999-3255
+
+### Artículo 3
+
+Artículo 3.
+A los efectos de esta ley, no tendrán la consideración legal de monte o terreno forestal:
+a) Los terrenos clasificados legalmente como urbanos o urbanizables.
+b) Los terrenos dedicados al cultivo agrícola.
+c) Las superficies destinadas al cultivo de plantas y árboles ornamentales y los viveros forestales.
+d) Las láminas de agua y los terrenos inundables que formen parte de humedales o zonas húmedas de carácter permanente.
+e) Los terrenos que previa resolución administrativa expresa cambien su uso forestal a otro distinto.
+f) Los cultivos forestales sobre terrenos agrícolas cuya finalidad sea la producción de cosechas anuales o recurrentes de frutos, tales como la cereza, trufas, nueces, piñones, etc., siempre que su mantenimiento incluya la realización de prácticas de manejo agrícola.
+g) El cultivo de trufas mediante técnicas agrícolas, destinado al consumo humano, cuando se desarrolle sobresuelos forestales y exclusivamente durante el periodo de explotación. En tal caso el suelo tendrá la consideración de suelo agrícola temporal, y recobrará su condición de suelo forestal al cesar dicho cultivo.
+Se modifica por el art. 3.2 del Decreto-ley 17/2024, de 23 de diciembre. Ref. DOGV-r-2024-90263
+ Se añade la letra e) al apartado 1 por el art. 8.3 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+ Se modifica por el art. 157 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663
+
+### Artículo 4
+
+Artículo 4.
+1. Las facultades del derecho de propiedad forestal se ejercerán en los términos previstos en la legislación básica del Estado, en esta Ley y en el resto del ordenamiento jurídico, que delimitan su contenido de acuerdo con su función social.
+2. La Generalidad Valenciana gestionará los montes o terrenos forestales de la Comunidad Valenciana de forma integrada, contemplando conjuntamente la flora, la fauna y el medio físico que las constituye, con el fin de conseguir un aprovechamiento sostenible de los recursos naturales, estableciendo garantías para la preservación de la diversidad biológica y para el mantenimiento de los procesos ecológicos esenciales.
+
+## CAPÍTULO II
+
+Ámbito de la Ley
+
+### Artículo 5
+
+Artículo 5.
+La presente Ley será de aplicación a todos los montes o terrenos forestales de la Comunidad Valenciana, con independencia de quien sea su titular.
+
+## CAPÍTULO III
+
+Objetivos
+
+### Artículo 6
+
+Artículo 6.
+1. Son objetivos de la presente Ley:
+a) Potenciar el bosque en cuanto referencia cultural de primera magnitud, favoreciendo su recuperación y el mantenimiento de las especies autóctonas.
+b) Valorar los distintos tipos de matorrales arbustivos como etapas del desarrollo del ecosistema que pueden acabar originando bosques, y gestionarlos en ese sentido allá donde sea posible.
+c) Mantener, proteger y ampliar cubiertas vegetales del mayor número posible de estratos para contrarrestar el proceso de erosión, regular los flujos hidrológicos y paliar los efectos del cambio climático
+d) Planificar, potenciar y mejorar la coordinación técnica entre las diferentes administraciones públicas, actores públicos y privados involucrados, en relación con las medidas necesarias para la prevención y lucha contra los incendios forestales.
+e) Delimitar las áreas de mayor interés forestal y en ellas potenciar la capacidad productora de los terrenos forestales, armonizable con la tutela de las masas boscosas, obteniendo los recursos naturales renovables necesarios para separar las demandas sociales.
+f) Compatibilizar la mejora de las explotaciones forestales y selvícolas con la realización de otros aprovechamientos como los cinegéticos, de pastoreo y recolección de subproductos, adoptándose las medidas de salvaguarda precisas.
+g) Fomentar la participación de todos los ciudadanos, especialmente de los que habitan en el medio rural, en el mantenimiento y ampliación de los recursos forestales, interesándoles en sus rendimientos económicos mediante la creación de empleo y asignación de beneficios.
+h) Favorecer, con las cautelas necesarias, el uso excursionista, recreativo y pedagógico de estos terrenos y promover la concienciación social sobre los valores culturales, ecológicos, ambientales y económicos, que comporta el patrimonio forestal valenciano.
+i) Promover la investigación científica y la innovación tecnológica en el ámbito forestal así como la realización de cursos y enseñanzas de formación profesional y de especialidades vinculadas a dicho ámbito.
+j) Mejorar los procesos de obtención, transformación y comercialización de los productos económicos del monte.
+k) Articular la ordenación administrativa y gestión del monte con la ordenación del territorio, el planeamiento de los espacios naturales protegidos, el régimen urbanístico y la planificación sectorial.
+l) Asegurar la adecuada preservación de las especies e individuos singulares así como de las formaciones vegetales de alto valor ecológico, en particular las correspondientes a la vegetación potencial valenciana.
+m) Crear en las zonas periféricas del bosque de menor riesgo de degradación espacios de esparcimiento y disfrute del bosque, adonde encauzar la demanda de usos recreativos de los ciudadanos.
+2. Para el cumplimiento de los objetivos previstos en el punto anterior, la Generalidad Valenciana podrá utilizar las siguientes formas de actuación:
+a) Ordenación y planificación de los recursos forestales, clasificando los terrenos forestales en función de los mismos, limitando su uso y aprovechamientos en razón de la protección que sea necesaria para la conservación de la cubierta vegetal.
+b) Fomento de las actividades privadas dirigidas al cumplimiento de los objetivos previstos.
+c) Defensa de la propiedad forestal de utilidad y dominios públicos.
+d) Regulación de las actuaciones en el medio forestal y sanción de las infracciones que se cometan.
+e) Incrementar la propiedad forestal patrimonial de la Generalidad Valenciana.
+f) Cualquier otra que sea congruente con el cumplimiento de la presente Ley.
+Se modifican las letras c), d) e i) del apartado 1 por el art. 9 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+## CAPÍTULO IV
+
+De la titularidad y clasificación
+
+### Artículo 7
+
+Artículo 7.
+1. Montes públicos y montes privados.
+1.1 Por razón de su titularidad los montes pueden ser públicos o privados.
+1.2 Son montes públicos los pertenecientes al Estado, a la Generalitat, a las diputaciones, a las entidades locales y a otras entidades de derecho público.
+1.3 Son montes privados los pertenecientes a personas físicas o jurídicas de derecho privado, ya sea individualmente o en régimen de copropiedad.
+1.4 Los montes vecinales en mano común son montes privados que tienen naturaleza especial derivada de su propiedad en común sin asignación de cuotas, siendo la titularidad de estos de los vecinos que a cada momento integran el grupo comunitario que se trate y sujetos a las limitaciones de indivisibilidad, inalienabilidad, imprescriptibilidad e inembargabilidad. Sin perjuicio de lo previsto en la Ley 55/1980, de 11 de noviembre, de montes vecinales en mano común, se aplicará lo dispuesto para los montes privados.
+2. Montes de dominio público y montes patrimoniales.
+2.1 Son de dominio público o demaniales e integran el dominio público forestal:
+a) Por razones de servicio público, los montes incluidos en el Catálogo de Montes de Utilidad Pública a la entrada en vigor de esta ley, así como los que se incluyan en él de acuerdo con el artículo 16.
+b) Los montes comunales, pertenecientes a las entidades locales, en tanto su aprovechamiento corresponda al común de los vecinos.
+c) Aquellos otros montes que, sin reunir las características anteriores, hayan sido afectados a un uso o servicio público.
+2.2 Son montes patrimoniales los de propiedad pública que no sean demaniales.
+3. Montes catalogados de utilidad pública. A partir de la entrada en vigor de esta ley, el gobierno valenciano podrá declarar de utilidad pública e incluir en el Catálogo de Montes de Utilidad Pública los montes públicos incluidos en los siguientes supuestos:
+a) Los que sean esenciales para la protección del suelo frente a los procesos de erosión.
+b) Los situados en las cabeceras de las cuencas hidrográficas y aquellos otros que contribuyan decisivamente a la regulación del régimen hidrológico, incluidos los que se encuentren en los perímetros de protección de las captaciones superficiales y subterráneas de agua, evitando o reduciendo aludes, riadas e inundaciones y defendiendo poblaciones, cultivos e infraestructuras, o mejorando el proveimiento de agua en cantidad o calidad.
+c) Los que eviten o reduzcan los desprendimientos de tierras o rocas y el aterramiento de embalses y aquellos que protejan cultivos e infraestructuras frente al viento.
+d) Los que sin reunir plenamente en su estado actual las características descritas en los párrafos a, b o c sean destinados a la repoblación o la mejora forestal con las finalidades de protección indicados en ellos.
+e) Los que contribuyan a la conservación de la diversidad biológica a través del mantenimiento de los sistemas ecológicos, la protección de la flora y la fauna o la preservación de la diversidad genética y, en particular, los que constituyan o formen parte de espacios naturales protegidos, zonas de especial protección para las aves, zonas de especial conservación, lugares de interés geológico u otras figuras legales de protección, así como los que constituyan elementos relevantes del paisaje.
+f) Aquellos otros que establezca la Generalitat en su legislación.
+Se modifica por el art. 10 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 8
+
+Artículo 8.
+1. Serán de dominio público los terrenos forestales que hayan sido afectados a un uso o servicio público, o que lo sean por aplicación de una norma del Estado. En el ámbito de la Comunidad Valenciana, podrán declararse de dominio público, además, aquellos montes o terrenos forestales que se vinculen a la satisfacción de intereses generales y, en concreto, a la protección y mejora de la calidad de vida y a la defensa y restauración del medio ambiente.
+2. La afectación al dominio público se producirá por acuerdo específico del Gobierno Valenciano, previa instrucción de expediente en el que, en todo caso, deberá ser oída la entidad pública afectada y se acredite que el monte, por su estado actual o como consecuencia de su futura transformación, tenga alguna de las características o funciones siguientes:
+a) Protección y conservación de los suelos, evitando su erosión.
+b) Regulación de las alteraciones del régimen hídrico y defensa de tierras de cultivos, poblaciones, canalizaciones o vías de comunicación en las grandes avenidas.
+c) Ubicación en áreas permeables de afloramiento de acuíferos subterráneos.
+d) Los terrenos forestales que constituyan ecosistemas que permitan mantener determinados procesos ecológicos esenciales y la diversidad biológica o sirvan de refugio a la fauna silvestre.
+e) Los que formen masas arbóreas naturales de especies autóctonas o matorrales de valor ecológico.
+f) Los que signifiquen elementos importantes del paisaje.
+g) En general, los terrenos forestales que contribuyan a la salud pública, mejora de las condiciones socioeconómicas de la zona o al ocio y esparcimiento de los ciudadanos.
+3. Si desaparecieran las causas que motivaron la afectación de un terreno forestal al dominio público, deberá producirse la desafectación al mismo tiempo por acuerdo expreso del gobierno valenciano, previo informe favorable de la administración forestal.
+Si, de conformidad con lo establecido en el capítulo V del presente título, el terreno forestal afectado al dominio público estuviese inscrito en el Catálogo de Montes de Dominio Público y de Utilidad Pública de la Comunitat Valenciana, la desafectación requerirá su previa exclusión del catálogo, adoptándose la decisión por acuerdo expreso del gobierno valenciano, requiriéndose informe favorable de la administración forestal y previa instrucción del correspondiente procedimiento, en el que se dará audiencia a la administración pública titular y, en su caso, a los titulares de derechos sobre dicho terreno.
+4. Los montes de dominio público serán inalienables, imprescriptibles e inembargables, pudiendo la Administración titular recuperar de oficio en cualquier momento su posesión, sin que se admitan interdictos ni procedimientos especiales en esta materia.
+5. Los aprovechamientos forestales compatibles con la causa de declaración de los terrenos forestales de dominio público se efectuarán conforme a lo establecido para los montes declarados de utilidad pública. Para las ocupaciones se precisará otorgar concesión administrativa conforme a la legislación reguladora de las mismas.
+Se modifica el apartado 3 por el art. 11 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 9
+
+Artículo 9.
+1. Se declararán de utilidad pública los terrenos forestales de propiedad pública que deban ser conservados y mejorados por su trascendencia hidrológico-forestal o por sus funciones ecológicas o sociales.
+2. Podrán ser declarados protectores los terrenos forestales de propiedad privada que reúnan las características señaladas en el apartado anterior, aquellos que tengan una superficie superior a 100 hectáreas y los situados en laderas cuya pendiente media sea igual o superior al 50 por 100.
+3. Corresponden al Gobierno Valenciano las declaraciones contempladas en los párrafos anteriores, previo procedimiento que garantice, en todo caso, la audiencia de los titulares.
+
+## CAPÍTULO V
+
+Registros públicos
+
+## Sección 1
+
+Sección primera. Régimen general
+
+### Artículo 10
+
+Artículo 10.
+1. Los documentos para la inmatriculación de fincas colindantes o enclavadas en terrenos forestales de propiedad pública habrán de hacer constar esta circunstancia y se acompañarán de certificación, expedida por la Administración forestal, de que no forman parte de dichos terrenos.
+2. Los Registradores de la Propiedad, en cuyo término municipal haya terrenos forestales de propiedad pública, están obligados a notificar directamente a la Administración forestal todas las inmatriculaciones que se soliciten de fincas que no estén inscritas a favor de persona alguna, que afecten a terrenos rústicos al amparo del artículo 205 y concordantes de la Ley Hipotecaria.
+
+### Artículo 11
+
+Artículo 11.
+1. Los montes o terrenos forestales declarados de dominio público o de utilidad pública se inscribirán en el Catálogo de Montes de Dominio Público y de Utilidad Pública de la Comunidad Valenciana.
+2. Los terrenos forestales declarados protectores se inscribirán en el Catálogo de Montes Protectores de la Comunidad Valenciana, de naturaleza análoga al que se refiere el apartado anterior.
+3. Los dos catálogos mencionados en los apartados anteriores, serán regulados por el Reglamento.
+4. La inclusión de los montes o terrenos forestales en los catálogos que se señalan en el presente artículo se regulará por el procedimiento descrito en el párrafo segundo del apartado 3 del artículo 8 de la presente ley.
+Se añade el apartado 4 por el art. 12 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+## Sección 2
+
+Sección segunda. De la catalogación
+
+### Artículo 12
+
+Artículo 12.
+1. En el Catálogo de Montes de Dominio Público y de Utilidad Pública y en el de Montes Protectores de la Comunidad Valenciana se inscribirán las ocupaciones, concesiones, servidumbres y demás derechos reales que graven los bienes inscritos.
+2. La administración podrá autorizar las ocupaciones, concesiones, servidumbres y demás derechos reales si son compatibles con la persistencia de los valores naturales de los montes demaniales y de utilidad pública y de los protectores. Su duración será por tiempo determinado, siendo el período máximo fijado reglamentariamente.
+Esta utilización privativa, en el caso de los montes de dominio público y utilidad pública, generará una contraprestación equivalente a favor de la administración propietaria del monte que podrá hacerse efectiva mediante la ejecución por el beneficiario de un proyecto de mejora del medio forestal, que se desarrollará durante todo el periodo de afección al monte de utilidad pública.
+Dicho proyecto se ejecutará bajo la dirección de la administración forestal, que fijará la cuantía anual de la actuación y sus actualizaciones.
+En el caso de que la contraprestación se realice mediante un ingreso, éste tendrá la consideración de aprovechamiento.
+La administración podrá revocar estas autorizaciones por causa declarada de incompatibilidad de los derechos de ocupación con los intereses y objetivos forestales regulados en esta ley, sin perjuicio de la indemnización a que haya lugar, en su caso.
+Se modifica el apartado 2 por el art. 48 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437
+
+### Artículo 13
+
+Artículo 13.
+En el catálogo de Montes de Dominio Público y de Utilidad Pública y en el de Montes Protectores de la Comunidad Valenciana constarán, en todo caso, las siguientes características, si concurriesen:
+a) Terrenos forestales situados en las cabeceras de las cuencas hidrográficas, cuya función principal consista en contener los procesos de erosión y el deterioro de los recursos hidrológicos, con independencia de sus potencialidades productoras.
+b) Terrenos forestales situados en las riberas de los ríos, arroyos y torrentes, y si su finalidad medioambiental permite o no la compatibilidad con la producción forestal y, en su caso, selvícola.
+c) Terrenos forestales próximos a poblaciones, cuya función primordial responda a criterios de recreo y paisaje, sin perjuicio de las funciones de conservación del espacio.
+
+## CAPÍTULO VI
+
+De las competencias de las Administraciones Públicas
+
+### Artículo 14
+
+Artículo 14.
+Las competencias que se derivan de la presente Ley se ejercerán por el órgano de la Generalidad Valenciana que las tenga atribuidas y conforme a su Reglamento Orgánico y Funcional.
+
+### Artículo 15
+
+Artículo 15.
+1. Las Corporaciones Locales de la Comunidad Valenciana administrarán, gestionarán y dispondrán de los aprovechamientos y terrenos forestales de su pertenencia, con arreglo a lo dispuesto en la presente Ley, sin perjuicio de lo establecido en la legislación básica estatal. Asimismo, todas sus autoridades, órganos y agentes velarán, en el ejercicio de sus respectivas atribuciones, por el cumplimiento de lo preceptuado en la presente Ley.
+2. El procedimiento para la declaración de montes de dominio público o para su revocación podrá iniciarse a instancia de los entes locales propietarios.
+
+### Artículo 16
+
+Artículo 16.
+En los términos establecidos en la legislación básica estatal, las Corporaciones Locales de la Comunidad Valenciana cooperarán con la Generalidad Valenciana para el logro de los objetivos previstos en la presente Ley y, en especial, en lo relativo a la vigilancia de los terrenos forestales. Igualmente, facilitarán a la Administración la información propia de su gestión que sea relevante para el cumplimiento de los fines de esta Ley.
+
+### Artículo 17
+
+Artículo 17.
+1. A los efectos del artículo 45 del Estatuto de Autonomía, podrá delegarse el ejercicio de las competencias a que se refiere la presente Ley en los ayuntamientos o en cualquiera de las entidades locales que los agrupen.
+2. La delegación habrá de ser solicitada por el pleno del ayuntamiento u órgano equivalente de la entidad local.
+3. Previa la comprobación de que el órgano solicitante puede asumir la competencia por disponer de medios que aseguren la eficaz prestación de los servicios, el Gobierno Valenciano, a propuesta del Consejero de Medio Ambiente, podrá autorizar en cada caso la delegación mediante Decreto.
+4. El Decreto de delegación contendrá, como mínimo:
+a) Fijación de las competencias cuyo ejercicio se delegue.
+b) Delimitación del alcance e intensidad de la delegación.
+c) Medidas de control que se reserve la Generalidad Valenciana.
+d) Medios y/o aprovechamientos a transferir.
+5. En cualquier momento se podrá supervisar el ejercicio de las competencias delegadas, dictar instrucciones de carácter general y recabar información sobre la gestión municipal, así como formular los requerimientos que se consideren necesarios.
+
+### Artículo 18
+
+Artículo 18.
+1. Actuará como órgano de carácter consultivo en materia forestal la Mesa Forestal de la Comunitat Valenciana, creada por el Decreto 58/2013, de 3 de mayo, del Consell, por el que se aprueba el Plan de acción territorial forestal de la Comunitat Valenciana.
+2. La Mesa Forestal de la Comunitat Valenciana informará sobre el desarrollo del Plan de acción territorial forestal de la Comunitat Valenciana y los anteproyectos de ley o proyectos de decreto de la Generalitat Valenciana en materia forestal, así como otros asuntos que se le atribuyan o que, por su especial relevancia, se sometan a estudio.
+3. Podrán crearse con el mismo carácter y con la composición, organización y funcionamiento que se determinen otros órganos consultivos de ámbito territorial inferior, con el fin de fomentar la coordinación y participación de la ciudadanía, los entes locales y la sociedad civil de las demarcaciones forestales.
+4. Atendiendo al apartado anterior, se crearán los denominados consejos forestales de demarcación en las 12 demarcaciones forestales previstas en la Ley forestal y en el Patfor: Sant Mateu, Segorbe, Vall d’Alba, Llíria, Chelva, Enguera, Requena, Polinyà de Xúquer, Alcoy, Crevillent, Xàtiva y Altea.
+Dichos consejos forestales de demarcación se constituirán antes del 31 de diciembre del 2018.
+5. Los consejos forestales de las demarcaciones forestales son órganos consultivos de ámbito territorial de demarcación forestal.
+6. Reglamentariamente se determinará su composición, competencias y normas de funcionamiento.
+7. Los consejos forestales de demarcación se coordinarán con los restantes órganos consultivos de participación y coordinación existentes en la Conselleria de Agricultura, Medio Ambiente, Cambio Climático y Desarrollo Rural.
+Se añaden los apartados 3 a 7 por el art. 30 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+ Se modifica por el art. 132 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
+ Se modifica por el art. 60 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+## TÍTULO II
+
+De la política forestal
+
+## CAPÍTULO I
+
+De la planificación forestal
+
+### Artículo 19
+
+Artículo 19.
+1. Para la consecución de los objetivos previstos en esta Ley, la Generalidad Valenciana ordenará y planificará los recursos forestales de la Comunidad Valenciana.
+2. Como trámite previo de la revisión del Plan de acción territorial forestal de la Comunitat Valenciana (Patfor) y de la determinación de las potencialidades de los terrenos forestales, la administración actualizará el inventario forestal, que contendrá, como mínimo, las siguientes determinaciones:
+a) Enumeración y descripción de las superficies, existencias, estados de conservación y de crecimiento de los terrenos forestales.
+b) Análisis descriptivo y cuantitativo de las características de los terrenos forestales, así como de sus potencialidades productoras y sus características ambientales y ecológicas.
+Se modifica el apartado 2 por el art. 13 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 20
+
+Artículo 20.
+1. El Plan de acción territorial forestal de la Comunitat Valenciana tendrá vigencia indefinida si bien se revisará por lo menos cada quince años previa actualización del inventario forestal.
+2. Los criterios que regirán la revisión del Plan de acción territorial forestal de la Comunitat Valenciana serán los siguientes:
+a) La conservación, mejora y reconstrucción de la cubierta vegetal natural de los terrenos forestales con el objetivo de conseguir las formaciones vegetales potenciales en la medida de lo posible.
+b) La defensa del suelo contra la erosión.
+c) Regular el aprovechamiento ordenado de los montes como fuente de recursos naturales renovables, haciéndolo compatible con la protección del medio natural.
+d) Compatibilizar con los anteriores criterios la función social del monte como marco natural de esparcimiento y recreo.
+e) Acciones de prevención que protejan la cubierta vegetal contra incendios, plagas, contaminación atmosférica y otros agentes nocivos.
+f) Determinar las actividades de primera transformación de los productos del monte que mejoren la economía rural y fomenten la creación de empleo.
+g) Fomentar el conocimiento, respeto e implantación de la vegetación natural del territorio de la Comunidad Valenciana.
+3. El Plan de acción territorial forestal de la Comunitat Valenciana será revisado por la conselleria competente en medio ambiente y aprobado por el gobierno valenciano, con informe de la Mesa Forestal y previo un procedimiento que garantice la información pública y la audiencia a las entidades locales y al resto de administraciones públicas afectadas.
+Una vez revisado el Plan de acción territorial forestal de la Comunitat Valenciana, se presentará en las Corts Valencianes.
+El mismo procedimiento se seguirá para modificarlo o revisarlo posteriormente.
+4. El Plan de acción territorial forestal contendrá al menos:
+a) La división en demarcaciones de los terrenos forestales de la Comunidad Valenciana.
+b) Determinación en las mismas de:
+– Zonas con distintos grados de protección en función de ecosistemas, paisajes y especies singulares.
+– Zonas susceptibles de ser declaradas de repoblación obligatoria.
+– Zonas en función del riesgo de incendios forestales.
+– Cuencas en que sea necesaria su corrección hidrológico-forestal, incluida la conservación de suelos, para disminuir el riesgo de erosión.
+c) Cartografía correspondiente a los puntos anteriores.
+d) Ordenanzas básicas que contendrán los esquemas generales de gestión y aprovechamiento de los terrenos forestales que forman las demarcaciones.
+e) Directrices de actuación que contendrán:
+– Acciones previstas para el fomento de la investigación y formación en temas forestales.
+– Determinaciones para el uso social y recreativo de los terrenos forestales.
+– Implantación de industrias de primera transformación de productos forestales.
+f) Programación en el tiempo y en el espacio de las actividades a desarrollar.
+g) Plan económico-financiero.
+5. Las especificaciones contenidas en el Plan de acción territorial forestal vincularán tanto a los particulares como a los poderes públicos.
+Se modifica por los arts. 4, 5 y 14 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 21
+
+Artículo 21.
+1. De acuerdo con lo dispuesto en el Plan de acción territorial forestal (Patfor), las demarcaciones forestales delimitadas se revisarán y gestionarán de la manera adecuada siguiendo criterios geográficos y dasocráticos apropiados para la gestión, la protección y el fomento forestal, y se preverán los futuros escenarios forestales provocados por el cambio climático en nuestra Comunitat Valenciana.
+2. En desarrollo del Plan de acción territorial forestal la administración elaborará, aprobará y ejecutará planes de ordenación de recursos forestales (PORF) de demarcación, en sustitución de los anteriores Planes Forestales de Demarcación (PFD), que concreten y desarrollen las directrices del Plan de acción territorial forestal.
+3. La aprobación de los planes de ordenación de recursos forestales (PORF) de demarcación corresponderá al conseller o consellera competente en materia forestal.
+En la elaboración de los PORF de demarcación se garantizará la información pública y el diálogo con las entidades locales públicas y privadas, los propietarios de predios forestales y otros usuarios con derechos reconocidos, así como con el resto de agentes sociales e instituciones afectados.
+En los PORF de demarcación se establecerá el marco en el que podrán suscribirse acuerdos, convenios y contratos entre la administración y los propietarios para la gestión de los montes.
+4. La parte forestal de los planes de ordenación de recursos naturales (PORN) o planes equivalentes, cuyo ámbito territorial de aplicación abarque parte o la totalidad de una demarcación forestal, tendrá el carácter de PORF, previo informe favorable del órgano forestal competente.
+Asimismo, respecto a los ámbitos dentro de una demarcación forestal que estén regulados por un PORN, los PORF se integrarán con lo dispuesto en los mismos, prevaleciendo los PORN en caso de incompatibilidades, de conformidad con la Ley 42/2007, de 13 de diciembre, del patrimonio natural y la biodiversidad, y la Ley 11/1994, de 27 de diciembre, de espacios naturales protegidos de la Comunitat Valenciana.
+Se modifica por el art. 15 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 22
+
+Artículo 22.
+En cada Demarcación Forestal se delimitirán áreas de actuación, constituidas por superficies forestales de homogéneas características físicas, biológicas, edáficas y otras, susceptibles de planes o programas comunes. Para cada una de las áreas se establecerán las prevenciones precisas para potenciar su conservación y explotación, así como para la protección contra incendios.
+
+## CAPÍTULO II
+
+De la gestión forestal sostenible
+Se modifica por el art. 16 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 23
+
+Artículo 23.
+1. Los montes deben ser gestionados de manera sostenible, integrando los aspectos ambientales con las actividades económicas, sociales y culturales, con el fin de conservar el medio natural, a la vez que se genera empleo y colaborar a incrementar la calidad de vida de la población rural.
+2. La conselleria competente en materia forestal elaborará y aprobará las instrucciones de ordenación y aprovechamiento sostenible de los montes valencianos. Asimismo, reglamentariamente desarrollará los modelos de gestión forestal tipo que se determinan como convenientes y también un procedimiento para adherirse, que comportará en todo caso el compromiso de seguimiento por parte de los titulares.
+3. Con el fin de facilitar la ordenación y la gestión, las administraciones fomentarán la agrupación de montes públicos o privados.
+4. Montes de socios.
+4.1 Son montes de socios aquellos cuya titularidad corresponde, en proindiviso, a varias personas y alguna de ellas son desconocidas, con independencia de su denominación y de su forma de constitución.
+4.2 Cualquiera de los copropietarios de un monte de socios, con independencia de cuál sea su cuota de participación, podrá promover la constitución de una junta gestora ante el órgano competente en gestión forestal, que convocará, a instancias de parte, a todos los copropietarios conocidos. La junta gestora, una vez constituida, será el órgano de gobierno y representación de la comunidad en tanto existen cuotas de participación vacantes y sin propietario conocido, mediante comunicación a este efecto a todos los otros copropietarios conocidos.
+La junta gestora comunicará la existencia de una o varias cuotas de participación que carecen de propietario conocido a la Dirección General del Patrimonio del Estado, para que proceda en cumplimiento del que hay previsto en la Ley 33/2003, de 3 de noviembre, del patrimonio de las administraciones públicas y en su reglamento de desarrollo, aprobado por el Real decreto 1373/2009, de 28 de agosto.
+4.3 Para la válida constitución de la junta gestora, será necesario el acuerdo de, por lo menos, las cuatro quintas partes de los propietarios conocidos, y su formalización por escrito. Se levantará acta de la constitución de la junta gestora en la que figure la identificación del monte o los montes afectados, la designación por lo menos de un presidente y un secretario y las normas de funcionamiento interno, que deberán incluir el criterio de incorporación de nuevos miembros.
+4.4 Corresponde a la junta gestora:
+a) La representación y la gestión de la comunidad. Para ello podrá adoptar los actos de gestión y de administración que mejor convengan a los intereses comunes, lo cual incluye la gestión y el disfrute del monte de socios y de todos sus productos y la alienación de toda clase de aprovechamientos forestales, agrícolas, ganaderos, energéticos y mineros, así como cualquier otro acto por el que estén facultados los propietarios por esta ley. La junta gestora podrá acordar el reparto de beneficios generados entre los socios, en proporción a su participación, con la exclusión de los correspondientes a las partes no aclaradas, que deberán invertirse en la mejora del monte.
+b)  La promoción de los expedientes de investigación de la titularidad de las cuotas vacantes, de acuerdo con lo que se dispone en los artículos 45 y siguientes de la Ley 33/2003, de 3 de noviembre, del patrimonio de las administraciones públicas y otra normativa aplicable. La junta gestora tratará de identificar a los titulares de las cuotas vacantes, mediante cualesquiera pruebas documentales o de otra clase admitidas en derecho; en particular, mediante las datos que constan en el Registro de la Propiedad, en el catastro, en escrituras públicas, en testigos y actos notariales o en partidas de nacimiento o de bautismo de los últimos titulares conocidos y de sus descendientes, sin perjuicio de las competencias de la Dirección General del Patrimonio del Estado.
+4.5 Para la válida adopción de acuerdos se requerirá el voto favorable de la mayoría de las cuotas de participación de los propietarios conocidos, presentes o representados.
+4.6 La junta gestora se disolverá una vez todos los comuneros estén identificados conforme a derecho, momento a partir del que se somete a las reglas de comunidad de bienes en régimen de proindiviso, no procediendo la acción de división hasta que no se haya procedido a la identificación de la totalidad de las cuotas vacantes.
+4.7 La Dirección General del Patrimonio del Estado incoará el correspondiente procedimiento de investigación con respecto a las cuotas vacantes siempre que de la comunicación de la junta gestora se desprenda que existen indicios fundados que estas cuotas carecen efectivamente de propietario.
+Al procedimiento de investigación se incorporarán las diligencias realizadas por la junta gestora tendentes al esclarecimiento de la titularidad de las cuotas, que no necesitarán ser reiteradas por la administración general del Estado.
+En el caso de que se acreditara la existencia de cuotas vacantes, tales cuotas se entenderán afectadas por ministerio de la ley al Ministerio de Agricultura, Alimentación y Medio Ambiente cuando se acuerde su incorporación al patrimonio de la administración general del Estado, declarándose así en la resolución que ponga fin al procedimiento de búsqueda.
+El resultado de esta identificación será objeto de declaración ante el catastro inmobiliario, con el fin de incorporar al mismo las alteraciones catastrales que, en su caso, proceden.
+En todo caso, sobre estas cuotas podrá iniciarse un procedimiento de alienación al amparo de lo establecido en el artículo 112.6 de la Ley 33/2003, de 3 de noviembre, del patrimonio de las administraciones públicas.
+4.8 Los propietarios de los montes de socios se regirán por lo que no se oponga a esta regulación, por lo dispuesto en los artículos 392 y siguientes del Código civil y, en particular, tendrán derecho de retracto. En cualquier caso, el derecho de retracto legal entre copropietarios no será aplicable en la transmisión intervivos otorgada a favor del cónyuge o parientes por consanguinidad dentro del segundo grado del condominio o sociedades unipersonales del mismo.
+4.9 A las juntas gestoras constituidas se asignará identificación fiscal para la realización de negocios jurídicos de su competencia.
+Se modifica por el art. 17 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 24
+
+Artículo 24.
+1. La administración forestal, previa información pública, podrá declarar determinadas áreas forestales como zonas de actuación urgente (ZAU) con el fin de conservarlas, restaurarlas, rehabilitarlas o defenderlas ante riesgos y vulnerabilidades, siempre que concurra alguna de las circunstancias siguientes:
+a) Terrenos degradados o erosionados o con riesgo manifiesto de estarlo.
+b) Terrenos afectados por un incendio forestal en los que no sea previsible su regeneración natural.
+c) Terrenos afectados por circunstancias meteorológicas o climatológicas adversas de carácter extraordinario.
+d) Terrenos afectados por plagas o enfermedades forestales que les hayan ocasionado graves perjuicios.
+e) Terrenos en que haya superficies de dunas litorales en peligro.
+f) Terrenos con fauna o flora de especial valor.
+g) Terrenos afectados por cualquier alteración ecológica grave o con riesgo de afectarle.
+h) Terrenos situados en zonas de alto riesgo de incendio forestal definidas en el artículo 55.9.
+2. La declaración se efectuará mediante Decreto del Gobierno Valenciano, y en ella se delimitará el perímetro a que afecta y se definirán las medidas a adoptar para subsanar las deficiencias señaladas, así como el plazo para su ejecución y las dotaciones económicas que en su caso comportarán. El expediente se podrá instruir de oficio o a instancia de las entidades locales en las que se encuentren situados estos terrenos.
+3. Sin perjuicio de las ayudas que puedan establecerse, las medidas serán ejecutadas por los propietarios de los terrenos. No obstante, estos podrán acordar con la administración su ejecución, aportando medios personales, materiales o mediante empresas de gestión forestal acreditadas ante la mencionada administración o, a falta de eso, de terrenos.
+La conselleria con competencias en materia forestal podrá declarar de interés general los trabajos incluidos en las zonas de actuación urgente (ZAU), como también determinar en cada caso el carácter oneroso o gratuito de la ejecución subsidiaria por la administración.
+4. La declaración podrá, igualmente, limitar e incluso prohibir los aprovechamientos que sean incompatibles con su finalidad, por el tiempo estrictamente necesario.
+Se modifica la letra h) del apartado 1 por el art. 103.1 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifica la letra h) del apartado 1 por el art. 85.1 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+ Se modifican los apartados 1 y 3 por el art. 18 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 25
+
+Artículo 25.
+1. La Administración programará sus actuaciones encaminadas a la conservación, mejora, protección y aprovechamiento de los terrenos forestales.
+2. Para la gestión de los terrenos forestales de dominio público, de utilidad pública o protectores, la Administración aprobará planes de ordenación forestal y planes técnicos de gestión forestal.
+3. La elaboración de los planes a que se refiere el apartado anterior será efectuada por la administración, con audiencia a los propietarios de los terrenos y los entes locales correspondientes al ámbito que abarca el proyecto.
+4. La Administración podrá tramitar y aprobar planes de ordenación forestal y planes técnicos de gestión forestal para otros terrenos forestales a instancias de sus propietarios.
+Se modifican los apartados 2 a 4 por los arts. 6 y 19 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 26
+
+Artículo 26.
+1. Podrán elaborarse proyectos de ejecución para los montes de dominio público, de utilidad pública y protectores. En los mismos términos, podrán elaborarse para el resto de los montes cuando se haya redactado para ellos un plan de ordenación forestal y un plan técnico de gestión forestal conforme al artículo anterior.
+2. Los proyectos de ejecución serán elaborados por las entidades públicas o privadas que gestionen el monte, sin perjuicio del deber de comunicar a la Administración forestal su contenido, remitiendo una copia del mismo al objeto de su control y seguimiento.
+3. Para aquellos montes que no tengan previamente aprobado un plan de ordenación forestal y un plan técnico de gestión forestal, sus propietarios podrán elaborar proyectos de ejecución que, previamente a su ejecución, requerirán el informe de la Administración.
+Se modifica el apartado 1 y 3 por el art. 6 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+## CAPÍTULO III
+
+De la repoblación forestal
+
+### Artículo 27
+
+Artículo 27.
+1. La Conselleria de Medio Ambiente fomentará y desarrollará la regeneración de la cubierta vegetal de todos los terrenos forestales con viabilidad ambiental, económica y social.
+2. La repoblación de los montes de dominio público, de utilidad pública o protectores exigirá la redacción de un proyecto, que será aprobado por la Administración cuando no sea de iniciativa propia, y establecerán condicionamientos en atención a las especies más idóneas, así como las técnicas a utilizar en relación con su adaptación e incidencia en la conservación del suelo o de su repercusión en el ecosistema.
+3. La repoblación de montes o terrenos no catalogados a iniciativa de sus titulares requerirá la autorización de la Consejería de Medio Ambiente.
+4. Cuando en función del estado de conservación de los suelos sea necesaria la repoblación forestal de fincas de propiedad particular, la Administración podrá declararla obligatoria, para lo que requerirá a sus propietarios, a fin de que adopten las medidas precisas para llevarlas a cabo.
+Reglamentariamente serán determinadas las ayudas de que podrán beneficiarse los propietarios. Podrán, asimismo, establecerse convenios entre éstos y la Administración en los que se acuerden las aportaciones de ambas partes, y el plan de reforestación, que podrá comprender varias anualidades. La aportación de los particulares se determinará en función de la capacidad productiva de los terrenos a repoblar, y podrá efectuarse en metálico, en terrenos, constituyendo derechos reales limitativos del dominio o mediante los rendimientos futuros.
+5. Cuando la aportación de la Administración supere el 50 por 100 del coste de la repoblación, corresponderá a ésta exclusivamente llevar a cabo los trabajos.
+Se modifica el apartado 1 por el art. 20 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 28
+
+Artículo 28.
+1. La Administración cuidará de la estabilización y regeneración de los terrenos situados en vertientes, con terrazas o bancales que hayan dejado de ser conservados, que se abandonen como suelos agrícolas y los yermos o baldíos, susceptibles de recuperación.
+2. La estabilización y regeneración de los terrenos podrán ser impuestas a los propietarios por consideraciones ecológicas, de conservación de los suelos o análogas, conforme a lo establecido en el párrafo 4 del artículo anterior. Cuando no se pudiere conocer al propietario, podrán llevarse a cabo las obras de estabilización y regeneración, así como la repoblación, cuyos costes constituirán un crédito que podrá hacerse efectivo sobre los terrenos citados mediante la adjudicación de la finca directamente a la Administración.
+
+### Artículo 29
+
+Artículo 29.
+1. La administración forestal establecerá dentro del Plan de acción territorial forestal un programa especial para asegurar el mantenimiento y recuperación de especies singulares y de formaciones o ecosistemas específicos.
+2. Para aquellos terrenos forestales con características que los hagan aptos para las actividades cinegéticas, sus titulares podrán elaborar planes en los que, sin perjuicio de lo establecido en la legislación específica, se regule la gestión compatible entre los fines previstos en esta Ley y el uso cinegético. Dichos planes, aprobados por la Administración, podrán gozar de las ayudas previstas en esta Ley.
+3. La administración forestal potenciará la red de viveros propios para la producción, sobre todo, de especies autóctonas. Asimismo, apoyará la creación de viveros de entes locales, agrupaciones de municipios o entidades de custodia del territorio.
+Esta red de viveros será coordinada por el Banco de Semillas Forestales, adscrito al Centro para la Investigación e Experimentación Forestal (CIEF).
+Se modifican los apartados 1 y 3 por los arts. 4 y 21 de la 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+## CAPÍTULO IV
+
+De los aprovechamientos
+
+### Artículo 30
+
+Artículo 30.
+1. La conselleria competente en medio ambiente fomentará y desarrollará el aprovechamiento de los terrenos forestales, ordenándolos en su condición de recursos naturales renovables, en función de la capacidad de carga de los ecosistemas y con unas condiciones de explotación que eviten daños, tanto a la vegetación como al suelo.
+2. A los efectos de esta Ley son aprovechamientos forestales las maderas, leñas, cortezas, pastos, frutos, resinas, plantas aromáticas, plantas medicinales, setas y trufas silvestres, productos apícolas y, en general, los demás productos y subproductos propios de los terrenos forestales, así como los servicios con valor de mercado característicos de los montes. Igualmente son aprovechamientos las actividades cinegéticas, que se regularán por su legislación específica.
+No tendrán consideración de aprovechamiento forestal la eliminación de especies exóticas invasoras, requiriendo únicamente una comunicación previa a la Administración forestal.
+3. Es competencia de la Administración forestal la enajenación de los aprovechamientos forestales de los montes de propiedad de la Generalidad Valenciana.
+4. Los montes declarados de utilidad pública y los protectores deberán contar con un plan de ordenación, un plan dasocrático o con un instrumento de gestión equivalente, elaborado a instancias del titular o del órgano competente, al que, en cualquier caso, corresponderá su aprobación.
+5. De manera reglamentaria, el órgano competente en materia forestal regulará en qué casos será obligatorio disponer de un instrumento de gestión para los montes privados no protectores y públicos no catalogados, para los que se podrán habilitar modelos simplificados.
+6. Asimismo, se fomentarán a las áreas forestales los proyectos que mejoren la absorción de CO2, para compensar la huella de carbono, en el marco del Real Decreto 163/2014 por el que se crea el registro de huella de carbono, compensación y proyectos de absorción de CO2.
+Se modifica el apartado 2 por el art. 3.3 del Decreto-ley 17/2024, de 23 de diciembre. Ref. DOGV-r-2024-90263
+ Se modifica el apartado 2 por el art. 84.1 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Se modifica el apartado 1 y se añaden los apartados 4 a 6 por el art. 22 de la 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 31
+
+Artículo 31.
+1. Los aprovechamientos en terrenos forestales, cualquiera que sea la naturaleza del monte, necesitarán autorización expresa de la administración forestal competente, salvo los supuestos previstos en los siguientes apartados.
+2. Para los aprovechamientos que se efectúen conforme a instrumentos de gestión expresamente aprobados por la administración forestal, bastará que el interesado presente una declaración responsable, en la que se manifieste, bajo su responsabilidad, la descripción de las actuaciones a realizar, fecha y lugar de la ejecución de las mismas, que se encuentran previstas en un instrumento de gestión aprobado por la administración, referenciando el mismo con indicación del título, fecha y órgano que lo aprobó, así como cualquier otro dato que permita la identificación inequívoca de dicho instrumento, y el compromiso de ejecutarlas conforme a lo previsto en dicho instrumento.
+3. Para los aprovechamientos de leñas de coníferas, y los que sean necesarios para el mantenimiento y mejora de las plantaciones forestales, será suficiente la comunicación previa.
+4. No necesitarán autorización, comunicación previa ni declaración responsable, salvo que esté regulado expresamente, la extracción de leñas residuales de aprovechamientos maderables o de limpias y podas con destino a usos domésticos, así como la recogida consuetudinaria episódica de frutos, plantas y setas, con consentimiento tácito del propietario, si bien podrá regularse su ejercicio e incluso prohibirse totalmente cuando éste resulte gravemente perjudicial, por su intensidad u otras causas, para la flora, la fauna o alguno de los objetivos de la presente ley.
+5. Los instrumentos de gestión y las autorizaciones fijarán, en su caso, los condicionamientos técnicos a que habrán de someterse los aprovechamientos forestales y el plazo de su vigencia.
+Se modifica por el art. 49 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437
+
+### Artículo 32
+
+Artículo 32.
+1. La administración forestal requerirá a transformadores y almacenadores de productos forestales que justifiquen el origen de las partidas, con el fin de poder comprobar los cortes de madera y otros aprovechamientos forestales, especialmente los que se extraen de montes que han sufrido un incendio.
+2. Las administraciones públicas promoverán el uso de sistemas de certificación forestal voluntarios, transparentes y no discriminatorios
+3. A los efectos de lo dispuesto en la normativa de contratos del sector público, los órganos de contratación podrán incluir entre los requerimientos de tipo ambiental del procedimiento de contratación, los que hagan referencia a las condiciones de legalidad y sostenibilidad del aprovechamiento en origen de la madera y sus productos derivados, como factor excluyente, en caso de no poder acreditarse.
+Se modifica por el art. 23 de la 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 33
+
+Artículo 33.
+Sólo se otorgará autorización para las cortas a hecho en los siguientes supuestos:
+a) Si fuesen convenientes para la protección o mejora de los ecosistemas.
+b) Si procediesen como medidas extraordinarias por razones de protección fitosanitaria.
+c) Si se tratase de árboles muertos por cualquier causa natural.
+d) Si fuesen imprescindibles para la construcción o conservación de instalaciones, obras o infraestructuras, o para la realización de actividades extractivas, legalmente autorizadas.
+e) Si se debiese a la necesidad de establecer cortafuegos o bandas de protección bajo líneas de conducción eléctricas o de comunicaciones.
+f) Si fuesen necesarias en las plantaciones forestales para el cumplimiento de sus objetivos de producción. No obstante, si éstas se efectúan conforme a instrumentos de gestión expresamente aprobados por la administración forestal, bastará que el interesado presente una declaración responsable, en la que se manifieste, bajo su responsabilidad, la descripción de las actuaciones a realizar, fecha y lugar de la ejecución de las mismas, que se encuentran previstas en un instrumento de gestión aprobado por la administración, referenciando el mismo con indicación del título, fecha y órgano que lo aprobó, así como cualquier otro dato que permita la identificación inequívoca de dicho instrumento, y el compromiso de ejecutarlas conforme a lo previsto en dicho instrumento.
+Se añade la letra f) por el art. 50 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437
+
+### Artículo 34
+
+Artículo 34.
+1. Las roturaciones de terrenos forestales, cuando no tengan por objeto una repoblación forestal o plantación forestal, requerirán la autorización expresa de la administración forestal, aunque se trate de suelos aptos técnica y económicamente para el cultivo agrícola o el establecimiento de actividades agropecuarias. No obstante, para dichas roturaciones que requieran autorización, si se encuentran previstas en un instrumento de Gestión forestal aprobado expresamente por la administración forestal competente, siempre que la superficie a roturar sea igual o inferior a 10 ha y la pendiente sea inferior al 15% (medida, como máximo, a escala de subparcela catastral), bastará que el interesado presente una declaración responsable, en la que se manifieste, bajo su responsabilidad, la descripción de las actuaciones a realizar, fecha y lugar de la ejecución de las mismas, que se encuentran previstas en un instrumento de gestión aprobado por la administración, referenciando el mismo con indicación del título, fecha y órgano que lo aprobó, así como cualquier otro dato que permita la identificación inequívoca de dicho instrumento, y el compromiso de ejecutarlas conforme a lo previsto en dicho instrumento.
+2. La iniciación de cualquier actividad extractiva o de cantera, realizada a cielo abierto, requerirá el previo compromiso, afianzado económicamente ante la Administración medioambiental, de reconstrucción de los terrenos forestales y su adecuada repoblación forestal, que se efectuarán conforme a lo establecido en las condiciones técnicas de la explotación, según el programa que habrá de aportarse.
+3. El aprovechamiento de pastos se efectuará cuidando no dañar la capa vegetal ni degradar el suelo. La autorización de estos aprovechamientos en montes públicos y privados se podrá condicionar en su intensidad e incluso prohibir cuando las condiciones del suelo, del clima o las especies animales que pasten puedan hacer peligrar el mantenimiento de los ecosistemas.
+4. Los recursos cinegéticos se aprovecharán conforme a su legislación específica. No obstante, requerirá la autorización específica de la Administración medioambiental la caza en terrenos forestales con árboles jóvenes, así como la aclimatación de especies cinegéticas. Ambas actividades se podrán denegar cuando puedan ser perjudiciales para la regeneración del monte o impidan o dificulten gravemente los objetivos de la presente Ley.
+Cualquier otro uso o aprovechamiento de los montes o terrenos forestales será susceptible de control por la Administración medioambiental, que podrá limitarlo o prohibirlo cuando pueda afectar gravemente al funcionamiento de los ecosistemas.
+Se modifica el apartado 1 por el art. 51 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437
+
+### Artículo 35
+
+Artículo 35.
+1. La saca o extracción de los productos forestales se efectuará a través de las vías previamente autorizadas por la administración.
+2. Para las vías de saca previstas en un instrumento técnico de gestión, aprobado expresamente por la administración forestal, bastará que el interesado presente una declaración responsable, en la que se manifieste, bajo su responsabilidad, la descripción de las actuaciones a realizar, fecha y lugar de la ejecución de las mismas, que se encuentran previstas en un instrumento de gestión aprobado por la administración, referenciando el mismo con indicación del título, fecha y órgano que lo aprobó, así como cualquier otro dato que permita la identificación inequívoca de dicho instrumento, y el compromiso de ejecutarlas conforme a lo previsto en dicho instrumento.
+3. Las vías son accesos temporales, asociados a la extracción de recursos objeto de aprovechamiento y que se ejecutan en el momento de la extracción del aprovechamiento para cuyo fin se utilicen. Su trazado y densidad serán los estrictamente necesarios para el fin de la extracción, y se detallarán en el correspondiente instrumento técnico de gestión o, en su defecto, vendrán indicados en la solicitud del aprovechamiento al que va ligado. Queda prohibido el acceso durante su vida útil a los vehículos de motor ajenos al aprovechamiento, y deberán realizarse las acciones necesarias para su clausura, reparación y restauración, una vez finalice la extracción de los aprovechamientos para la que se ejecutó.
+4. En ningún caso se autorizarán ni realizarán vías de saca cuyas pendientes longitudinales sean superiores al quince por cien, o de modo que puedan originar erosión o dejar terrenos desprotegidos ante el arrastre por lluvias fuertes o torrenciales.
+Se modifica el apartado 4 por el art. 84.2 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Se añade el apartado 4 por el art. 24 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+ Se modifica por el art. 52 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437
+
+### Artículo 36
+
+Artículo 36.
+1. Las entidades públicas propietarias de montes o terrenos forestales están obligadas a invertir, al menos, el 15 por 100 del importe de los aprovechamientos en la ordenación y mejora de las masas forestales.
+2. Dicho porcentaje podrá incrementarse, mediante acuerdo del Gobierno Valenciano, para los aprovechamientos de aquellos montes o zonas que requieran mejoras extraordinarias.
+3. Reglamentariamente se establecerá el procedimiento al que habrá de someterse la obligación establecida en el presente artículo, cuya gestión y justificación podrá delegarse en los municipios, en la forma prevista en el artículo 17 de la presente Ley.
+
+### Artículo 37
+
+Artículo 37.
+En la adjudicación de los aprovechamientos de los montes públicos habrá de prestarse especial consideración a los habitantes de los municipios rurales de la zona, fomentándose fórmulas asociativas para su gestión.
+
+## CAPÍTULO V
+
+Del uso recreativo de los montes
+
+### Artículo 38
+
+Artículo 38.
+1. Corresponde a la Administración forestal regular la actividad recreativa y educativa en los montes, bajo el principio de armonización con la conservación y protección del medio natural.
+2. Esta actividad deberá en todo caso sujetarse a las siguientes condiciones:
+a) En zonas determinadas se podrán establecer límites al tránsito de personas y vehículos.
+b) Se prohíben las actividades motorizadas realizadas campo a través, excepto en los circuitos autorizados al efecto.
+c) Las acampadas deberán contar con la autorización del propietario del monte y del órgano competente de la Administración Valenciana, de acuerdo con lo que se establezca reglamentariamente.
+d) Podrá prohibirse el uso de elementos o las actividades productoras de ruido, siempre que puedan alterar los hábitos de la fauna silvestre.
+
+## TÍTULO III
+
+De la propiedad pública forestal y su incremento
+
+### Artículo 39
+
+Artículo 39.
+La Generalidad Valenciana incrementará su patrimonio forestal con el fin de contribuir al cumplimiento de los objetivos de la presente Ley, adquiriendo terrenos forestales o derechos reales sobre éstos, mediante compraventa, permuta, donación, herencia o legado y mediante cualquier otro procedimiento incluso la expropiación.
+
+### Artículo 40
+
+Artículo 40.
+1. Los derechos de tanteo o retracto se ejercerán por la Administración forestal conforme a la legislación forestal del Estado.
+2. En la Comunitat Valenciana la administración, además, podrá ejercer, en los mismos plazos y con el procedimiento al que se refiere el apartado anterior, los derechos de tanteo o retracto sobre las enajenaciones onerosas de partes segregadas de fincas forestales de una extensión igual o superior a 100 hectáreas, y sobre fincas enclavadas o colindantes con terrenos de su propiedad cualquiera que sea su extensión. A tal efecto, los caminos forestales, acequias y accidentes naturales no excluyen la colindancia.
+3. Los registradores de la propiedad comunicarán a la Conselleria de Medio Ambiente todas las enajenaciones de terrenos rústicos situados en términos municipales con terrenos forestales, de una extensión de 100 hectáreas o más.
+Preferentemente, se adquirirán por la Generalitat Valenciana los terrenos forestales colindantes con los propios, así como aquellos que se ubiquen en zonas protegidas mediante un instrumento de protección de la naturaleza y colindantes con ellos. En todo caso, se justificará la adquisición llevada a cabo. Asimismo, en caso de que la administración deba optar entre diversas alternativas de adquisición, se indicarán razonadamente los motivos que se hayan tenido en cuenta en la elección definitiva.
+Se modifican los apartados 2 y 3 por el art. 25 de la 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 41
+
+Artículo 41.
+1. Para el cumplimiento de los fines y objetivos previstos en la presente Ley, el Gobierno Valenciano podrá acordar, a propuesta de la Consejería de Medio Ambiente, la expropiación de terrenos forestales de propiedad privada. Dicha expropiación se llevará a cabo conforme lo previsto en la legislación de expropiación forzosa.
+2. Se declaran genéricamente de utilidad pública o interés social, a los efectos de la expropiación forzosa de los terrenos forestales, los fines establecidos por la presente ley. El acuerdo del gobierno valenciano por el que se declare que concurren los requisitos que, conforme a la presente ley, facultan para la expropiación forzosa llevará aneja la utilidad pública o el interés social de todos los bienes y derechos afectados.
+Se modifica el apartado 2 por el art. 26 de la 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 42
+
+Artículo 42.
+El deslinde y amojonamiento de los montes o terrenos forestales de propiedad pública se efectuará por la propia Administración de oficio o a instancia de los propietarios colindantes quienes, en este último caso, habrán de comprometerse a pagar su coste y afianzar su compromiso.
+
+### Artículo 43
+
+Artículo 43.
+La Generalitat Valenciana incorporará a la gestión de su patrimonio forestal los terrenos rústicos vacantes y yermos no inscritos en el Registro de la Propiedad cuyas características los hagan aptos para fines forestales, conformemente con lo establecido en la legislación básica estatal. La Generalitat podrá solicitar la adscripción de los terrenos mencionados a su patrimonio, de conformidad con la normativa que regula el patrimonio de las administraciones públicas.
+Se modifica por el art. 27 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+## TÍTULO IV
+
+De la acción administrativa
+
+## CAPÍTULO I
+
+De la Administración forestal
+
+### Artículo 44
+
+Artículo 44.
+La administración forestal fomentará y estimulará las actividades y la participación activa de los propietarios, particulares y entes locales en el cumplimiento de los objetivos previstos por la presente ley.
+Se modifica por el art. 28 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 45
+
+Artículo 45.
+1. La administración someterá a informe de los entes locales, a cuyo ámbito territorial afecten, los instrumentos de ordenación y programación de los terrenos forestales y las declaraciones de zonas de actuación urgente y de áreas de riesgo de incendio.
+2. Los municipios podrán elaborar los programas de gestión y mejora de los montes de su propiedad, cuya aprobación requerirá el informe favorable de la administración forestal. En su defecto, ejecutarán los que apruebe la administración de la Generalitat.
+Asimismo, podrán incentivar la elaboración de programas de gestión y mejora de los terrenos agrícolas abandonados, de titularidad privada, que hayan adquirido signos inequívocos de su estado forestal.
+Se modifica por el art. 29 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+## CAPÍTULO II
+
+De las acciones concertadas
+
+### Artículo 46
+
+Artículo 46.
+1. Para el logro de los objetivos de esta ley podrán establecerse acciones concertadas mediante convenios con los municipios, propietarios y particulares. Su objeto será la gestión, conservación, rehabilitación, restauración, ampliación y mejora de los terrenos forestales de todas las demarcaciones forestales.
+2. A los efectos de esta Ley, se considerarán acciones concertadas:
+a) Los convenios que se formalicen para la gestión pública de terrenos forestales catalogados o no.
+b) Los acuerdos con Administraciones públicas para la realización de los trabajos de restauración hidrológico-forestal.
+c) Los consorcios administrativos para la reforestación y regeneración de terrenos forestales o de otros que hayan dejado de ser utilizados para fines agrícolas.
+d) Las acciones conjuntas para la ejecución de trabajos de prevención y extinción de plagas y enfermedades forestales, o para la detección y lucha contra los efectos de la contaminación atmosférica.
+e) Los convenios que se firmen en materia de prevención y extinción de incendios.
+f) Los convenios que se formalicen entre la Administración y los titulares de los terrenos forestales para otros propósitos sociales y públicos, al amparo de esta Ley.
+g) Los pactos establecidos para la ejecución de medidas inaplazables en áreas declaradas zonas de actuación urgente.
+h)Los acuerdos de la administración forestal con los ayuntamientos para realizar las actuaciones y trabajos de infraestructuras previstas en la planificación de prevención de incendios forestales.
+i) Los acuerdos de la administración forestal con los ayuntamientos, mancomunidades o consorcios para realizar el servicio de recogida de los residuos que se generan en los espacios forestales.
+j)Los acuerdos de la administración forestal con los ayuntamientos de cada demarcación forestal para realizar servicios de vigilancia y control de accesos al monte en épocas de alto riesgo de incendio y de uso público masivo.
+k) Los acuerdos de la administración con los ayuntamientos y mancomunidades para ceder el uso de refugios, zonas de acampada y áreas recreativas.
+Se modifica por el art. 30 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 47
+
+Artículo 47.
+1. Podrán establecerse convenios entre los titulares de montes públicos y los particulares para que estos últimos repueblen y gestionen terrenos forestales por precio y tiempo convenidos.
+2. La conselleria con competencias en medio ambiente promoverá fórmulas de custodia del territorio mediante acuerdos entre las entidades de custodia y los propietarios de terrenos forestales públicos o privados, con los objetivos de defensa, conservación, restauración y gestión del patrimonio natural, y podrá concederles ayudas, de acuerdo con la Ley 42/2007, de 13 de diciembre, de patrimonio natural y biodiversidad, y el resto de normativas de aplicación.
+3. Asimismo, promoverá activamente las fundaciones, asociaciones y empresas sociales, existentes o de nueva creación, que tengan como objetivo las materias tratadas en esta ley y que puedan colaborar con la administración en el ejercicio de sus competencias.
+Se modifica por el art. 31 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+## TÍTULO V
+
+Del Estatuto del dominio forestal
+
+## CAPÍTULO I
+
+Del contenido de la propiedad forestal
+
+### Artículo 48
+
+Artículo 48.
+Las facultades dominicales ordinarias de la propiedad forestal estarán sometidas a los siguientes límites, sin perjuicio de lo establecido en las leyes vigentes que regulan los suelos no urbanizables:
+a) La libre disposición por los propietarios privados para enajenar sus terrenos o los derechos reales que sobre éstos puedan existir, se condiciona al ejercicio del derecho de tanteo y retracto a favor de la Administración forestal.
+b) Se prohíbe el cambio de uso de los terrenos forestales, entendiendo como tal toda actuación material o acto administrativo que haga perder al monte su carácter forestal, sin la debida autorización administrativa, excepto en los casos previstos en la normativa forestal.
+Por Decreto del Consell, se podrán regular procedimientos y establecer condiciones para cambios de uso forestal a agrícola, y para los casos en los que, sin producirse cambio de uso forestal, se modifique sustancialmente la cubierta vegetal del monte, estableciendo si bastará que el interesado presente una declaración responsable, o exigiendo autorización.
+c) Los montes de dominio público y los catalogados como de utilidad pública o protectores no podrán ser roturados ni destinados a usos no forestales.
+d) Las repoblaciones y plantaciones forestales se efectuarán de acuerdo con lo previsto en los respectivos programas, previa autorización administrativa. No obstante, cuando se trate de repoblaciones y plantaciones forestales en superficies menores o iguales a 25 ha que se encuentren previstas en un instrumento de gestión forestal, aprobado expresamente por la administración forestal competente, bastará que el interesado presente una declaración responsable, en la que se manifieste, bajo su responsabilidad, la descripción de las actuaciones a realizar, fecha y lugar de la ejecución de las mismas, que se encuentran previstas en un instrumento de gestión aprobado por la administración, referenciando el mismo con indicación del título, fecha y órgano que lo aprobó, así como cualquier otro dato que permita la identificación inequívoca de dicho instrumento, y el compromiso de ejecutarlas conforme a lo previsto en dicho instrumento.
+e) Se prohíben los aprovechamientos no previstos o superiores a los señalados en los correspondientes programas, o no autorizados conforme a éstos, salvo los supuestos previstos en la Ley.
+f) La realización de obras, instalaciones o infraestructuras, directa o indirectamente relacionadas con las masas forestales, se efectuará conforme a las previsiones de la presente Ley.
+Se modifica el primer párrafo por el art. 7 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+ Se modifican las letras b) y d) por los arts. 53 y 54 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437
+
+## CAPÍTULO II
+
+De los deberes de los propietarios
+
+### Artículo 49
+
+Artículo 49.
+1. Constituyen deberes genéricos de los propietarios de los terrenos forestales, sin perjuicio de lo que establecen las leyes vigentes que regulan los suelos no urbanizables:
+a) La conservación, gestión y utilización de los montes o terrenos forestales conforme a su destino, y de acuerdo con sus características edafológicas, morfológicas y geológicas.
+b) La elaboración para los montes catalogados de los correspondientes Planes de Ordenación Forestal y Planes Técnicos de Gestión Forestal y los proyectos de ejecución.
+c) La introducción de las mejoras necesarias tanto técnicas como económicas, y realización de las actuaciones precisas para la gestión, conservación, producción y utilización de los montes y terrenos forestales.
+2. Son deberes específicos de los titulares de los terrenos forestales:
+a) La repoblación forestal en los montes de dominio público y en los catalogados de utilidad pública o protectores.
+b) La realización de gestión forestal sostenible de sus fincas y de sus aprovechamientos, conforme a los principios y condiciones establecidos en esta ley y de acuerdo con los respectivos programas y proyectos.
+c) La lucha contra las plagas y enfermedades que puedan afectarles y eliminación de los restos de cortas cuando haya un riesgo manifiesto de plagas o incendios o cualquier otro riesgo que pueda afectar negativamente la estabilidad del ecosistema.
+d) La adopción de las medidas preventivas y extintivas necesarias frente a los daños catastróficos, y especialmente frente a los incendios forestales.
+e) Facilitar las actividades inspectoras de la Administración sobre los predios.
+3. El descuido, abandono o dejación del ejercicio de las facultades o deberes dominicales, que suponga graves implicaciones para la conservación y protección de los terrenos forestales o para el cumplimiento de sus funciones esenciales, podrá llevar aparejada la imposición de la sanción correspondiente, y en última instancia la expropiación.
+Se modifican los apartados 1 y 2 por los arts. 6 y 32 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+ Se modifica el aparado 2.c) por el art. 55 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437
+
+### Artículo 49 bis
+
+Artículo 49 bis.
+1. Los terrenos forestales de titularidad privada se gestionan por su titular.
+2. En los términos previstos en la presente ley, son actuaciones de carácter obligatorio para los titulares de terrenos forestales la ejecución de obras o cualquier otra actuación destinada al cumplimiento de los deberes establecidos en el artículo 49.2, especialmente las destinadas a la gestión forestal sostenible de sus fincas y aprovechamientos, y la adopción de medidas en materia de prevención de incendios forestales.
+La propiedad privada forestal tendrá que mantener su parcela en condiciones de seguridad, funcionalidad y aprovechamiento forestal, haciendo los trabajos y obras necesarias para conservar estas condiciones y/o uso efectivo.
+3. Los titulares de estos terrenos podrán ceder su gestión a personas físicas o jurídicas de derecho público o privado, a la conselleria competente en materia forestal e incluso a los ayuntamientos en los que se engloban sus fincas.
+Los propietarios que lleven a cabo esta gestión tendrán que formalizar su relación en un contrato escrito, voluntario y debidamente documentado, utilizando para ello cualquier fórmula legalmente admitida en derecho que garantice el compromiso de las partes respecto a la gestión forestal conjunta y activa de las fincas objeto de la relación y que estipule las condiciones en las que se realizarán las acciones de gestión.
+Cuando la titularidad de la propiedad fuera desconocida o el paradero de sus titulares fuera desconocido, el ayuntamiento podrá asumir con carácter fiduciario la gestión de la parcela hasta que sus propietarios comparezcan y acrediten la propiedad.
+4. La gestión de estos montes se ajustará, si procede, al correspondiente instrumento técnico de gestión forestal aprobado.
+5. La administración fomentará la gestión conjunta de fincas particulares a través de ayuntamientos, dando apoyo técnico en la redacción de los instrumentos de gestión forestal necesarios.
+6. La administración priorizará la gestión forestal conjunta de predios colindantes pertenecientes a diferentes propietarios, especialmente en las situaciones en las que, al menos, uno de ellos tenga una superficie inferior a la superficie administrativa mínima.
+7. La conselleria competente en materia forestal creará un registro de naturaleza administrativa y carácter público, en el que podrán inscribirse todas las empresas que hagan trabajos o aprovechamientos forestales en los montes y terrenos forestales de la Comunitat Valenciana, que se actualizará en el momento que se presente una nueva solicitud de inclusión. Esta lista se podrá utilizar para elegir empresas adjudicatarias de contratos menores, en caso de adjudicación de contratos por tramitación urgente de expedientes, o tramitación de emergencia, así como para realizar las invitaciones en procedimientos negociados, en los casos en que la legislación de contratos lo permita. También podrá ser utilizada por los ayuntamientos para la ejecución de obras y trabajos de naturaleza forestal.
+Se añade por el art. 95 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-7
+
+## TÍTULO VI
+
+Prevención y reparación de daños
+
+### Artículo 50
+
+Artículo 50.
+1. Corresponde a la administración establecer, de oficio o a instancia de parte, las medidas adecuadas para vigilar, prevenir y controlar la erosión, plagas, enfermedades, incendios forestales y efectos de la contaminación atmosférica sobre los bosques, así como contrarrestar sus efectos. Asimismo, podrán declarar el tratamiento obligatorio en una zona y establecer las medidas cautelares necesarias, mediante resolución motivada.
+2. Los titulares públicos o privados de los terrenos forestales afectados por altos riesgos deberán aplicar con la máxima diligencia las medidas fijadas por la Administración, colaborando con ella para suprimir o limitar los efectos de los siniestros y recuperar las áreas afectadas. La declaración de alto riesgo se efectuará mediante resolución motivada por la Administración forestal.
+3. Los titulares de los terrenos forestales afectados por plagas o enfermedades deberán comunicarlo por medios fehacientes a la administración, que fijará las medidas que estos deberán llevar a cabo obligatoriamente. En caso de incumplimiento por parte de los titulares, la administración podrá implementarlas subsidiariamente, para lo que dispondrá de libre acceso a los terrenos afectados.
+Se modifican los apartados 1 y 3 por el art. 33 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+## CAPÍTULO I
+
+De la erosión
+
+### Artículo 51
+
+Artículo 51.
+1. Corresponde a la Administración forestal, en el ámbito de las competencias de la Generalidad Valenciana, la restauración hidrológico-forestal en la Comunidad Valenciana, adoptando las medidas necesarias para el mantenimiento y recuperación de la estabilidad y fertilidad del suelo frente a la erosión, y de acuerdo con las determinaciones del Plan de acción territorial forestal.
+2. Los montes incluidos en Planes de restauración hidrológico-forestal serán catalogados como de utilidad pública o protectores.
+3. La Generalidad Valenciana podrá concertar con otras Administraciones los trabajos de restauración hidrológico-forestal procedentes.
+4. Todos los trabajos, planes y medidas citados en el apartado 1 serán de utilidad pública a efectos expropiatorios y serán obligatorios para todos los propietarios de terrenos que estén incluidos en las zonas afectadas, con las ayudas que en su caso se establezcan.
+Se modifica el apartado 1 por el art. 4 de la 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+## CAPÍTULO II
+
+De las plagas y enfermedades forestales
+
+### Artículo 52
+
+Artículo 52.
+1. La prevención y lucha contra las plagas y enfermedades forestales corresponde a la Administración forestal.
+2. Los titulares de terrenos forestales que estén afectados por plagas o enfermedades están obligados a notificarlo a la administración forestal utilizando medios fehacientes.
+Asimismo, los entes locales con incidencia de plagas y enfermedades forestales en su término municipal estarán obligados a notificarlo a la administración forestal utilizando medios fehacientes.
+Se modifica el apartado 2 por el art. 34 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 53
+
+Artículo 53.
+1. La administración forestal podrá declarar de utilidad pública y tratamiento obligatorio la lucha contra una plaga o enfermedad forestal, con delimitación de la zona afectada.
+Una vez declarada la utilidad pública y delimitada la zona de actuación, la administración forestal tendrá la facultad de realizar acciones concertadas con los entes locales de cada demarcación forestal que se encuentren afectados.
+2. Los titulares de los terrenos afectados por la citada declaración de utilidad pública aceptarán obligatoriamente los trabajos y medidas de prevención y extinción correspondientes. Reglamentariamente se determinarán las ayudas de las que podrán beneficiarse los propietarios.
+Se modifica por el art. 35 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 54
+
+Artículo 54.
+1. Para los tratamientos a los que se refieren los artículos anteriores sólo podrán utilizarse los productos autorizados y en las cuantías autorizadas.
+2. La aplicación de plaguicidas en grandes superficies requerirá la autorización previa de la Administración.
+
+## CAPÍTULO III
+
+De los incendios forestales
+
+### Artículo 55
+
+Artículo 55.
+1. Corresponde a la Administración de la Generalitat Valenciana la planificación, coordinación y ejecución de las medidas y acciones necesarias para la prevención y lucha contra los incendios forestales, conjuntamente con las demás administraciones públicas y en colaboración con los particulares.
+2. A este efecto, y sin perjuicio de lo que sobre ello contemplen el Plan de acción territorial forestal de la Comunitat Valenciana (PATFOR) y los planes de ordenación de los recursos forestales (PORF), la Administración forestal aprobará, dentro de los contenidos de estos últimos, los planes de prevención de incendios forestales de demarcación, que contendrán las previsiones necesarias relativas a infraestructuras, actuaciones y medios para la prevención de los incendios e infraestructuras de apoyo a la extinción.
+3. Las entidades locales con terrenos forestales en sus términos municipales redactarán obligatoriamente planes locales de prevención de incendios forestales (PLPIF) y deberán enviarlos a la administración forestal de su demarcación. Estos planes locales tendrán carácter subordinado respecto a los planes de prevención de incendios forestales de cada demarcación.
+4. La conselleria competente en materia de prevención de incendios forestales establecerá ayudas económicas dirigidas a los municipios para la ejecución de las actuaciones planificadas, en coordinación con la conselleria competente en materia de medio ambiente.
+5. Reglamentariamente se establecerá el contenido mínimo de los planes previstos en este artículo.
+6. Los municipios con menos de 25 hectáreas de terreno forestal en su término municipal podrán quedar exentos de redactar el PLPIF, previa solicitud a la conselleria competente, acompañada de acuerdo plenario en el que deberán indicar que se acogen a la planificación prevista en el Plan de prevención de incendios forestales de la demarcación forestal en la que se ubican. Este acuerdo plenario tendrá los efectos previstos para el PLPIF.
+7. Los propietarios de terrenos forestales y entidades locales de cada demarcación forestal tendrán la obligación de adoptar y ejecutar las medidas de prevención de fuegos forestales incluidas en las directrices de los planes locales de prevención de incendios forestales de cada uno de los entes locales que existan en cada demarcación y deberán ejecutar los trabajos que se especifiquen en la programación de los planes locales de prevención de incendios forestales por su cuenta o mediante acciones concertadas con la Administración forestal.
+Con el fin de facilitar la ejecución de estos trabajos, la Administración forestal establecerá ayudas técnicas, logísticas y económicas al estar en vigor dichos planes.
+Estos planes locales tendrán un período de vigencia de quince años, a finales del cual se revisarán. Con el fin de garantizar la vigencia y utilidad del plan, los entes locales deberán enviar un informe anual sobre el estado de desarrollo del plan.
+En el caso que, de manera fehaciente, se constate que los propietarios afectados no realizan los trabajos indicados en la programación en el tiempo y forma establecidos, la Administración forestal podrá, después de una advertencia previa, hacer uso de la ejecución subsidiaria a coste obligado.
+La Administración forestal podrá, como último recurso, llevar a cabo acciones concertadas con los entes locales de cada demarcación para hacer efectiva la ejecución administrativa de dichas ejecuciones subsidiarias.
+Con motivo de tener que realizar tareas de extinción de incendios forestales, a pesar de que no se cuente con la autorización de los propietarios, se podrá entrar en los terrenos forestales, hacer uso de los caminos y aguas, abrir cortafuegos y establecer contrafuegos. Con posterioridad, se informará a la autoridad judicial a los efectos oportunos en el plazo más breve posible.
+8. En el caso que se constate incumplimientos en las obligaciones dispuestas en el apartado 7 de este artículo, la Administración podrá hacer uso de la ejecución subsidiaria, conforme a la normativa de procedimiento administrativo común y de régimen jurídico de las administraciones públicas.
+9. Se declararán zonas de alto riesgo de incendio aquellas áreas donde la frecuencia o virulencia de los incendios forestales e importancia de los valores amenazados hagan necesarias medidas especiales de protección. Todas estas zonas dispondrán de un plan de defensa, cuyo contenido se determinará reglamentariamente.
+Se modifica por el art. 94 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+ Se modifican los apartados 2, 3 y 5 y se añade el 6 por el art. 36 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 56
+
+Artículo 56.
+1. En el ámbito de lo establecido en el artículo anterior, los titulares de terrenos forestales y las entidades locales en cuyos territorios se declaren incendios deberán participar en los trabajos de extinción de los mismos, con todos sus medios técnicos y humanos.
+2. Sin perjuicio de lo dispuesto en la legislación básica estatal respecto a la obligación de los particulares de intervenir en la extinción de incendios, los municipios podrán promover un voluntariado para la cooperación en su prevención y extinción que será reconocido e incentivado por la Administración de la Generalidad. Asimismo, se potenciarán actividades infantiles y juveniles educativas sobre esta materia, en colaboración con las Corporaciones Locales de la Comunidad Valenciana.
+
+### Artículo 57
+
+Artículo 57.
+1. A los efectos de prevención de incendios forestales, la superficie constituida por la franja circundante a los terrenos forestales, que tendrá una anchura de hasta 500 metros, se denominará en adelante Zona de Influencia Forestal.
+2. Queda prohibido encender fuego en terrenos forestales y en la Zona de Influencia Forestal, fuera de los supuestos expresamente previstos o autorizados reglamentariamente y con arreglo a la presente ley, así como arrojar o abandonar objectos en combustión o cualquier clase de material susceptible de originar un incendio.
+3. Reglamentariamente se establecerán tanto las normas de regulación de usos y actividades susceptibles de generar riesgo de incendios en los terrenos forestales y Zona de Influencia Forestal, como las prohibiciones que resulten necesarias.
+4. Reglamentariamente se determinarán los usos y actividades sometidos a autorización administrativa previa o declaración responsable, así como las condiciones de excepción, los períodos de riesgo, los sistemas y precauciones exigidos para hacer uso del fuego en terrenos forestales y en la Zona de Influencia Forestal, por cuanto puedan afectar al riesgo de incendio.
+5. La autorización administrativa referida en el párrafo anterior se otorgará conforme al procedimiento que reglamentariamente se establezca e impondrá las condiciones que se consideren necesarias para el ejercicio de la actividad. Esta autorización administrativa se podrá sustituir por una declaración responsable en los casos que reglamentariamente así se determine.
+Se modifica por el art. 95 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-7
+
+### Artículo 58
+
+Artículo 58.
+La dirección técnica de los trabajos de extinción de incendios forestales se asumirá por la Generalidad Valenciana con carácter de mando único, la cual podrá utilizar todos los medios necesarios para tal fin.
+
+### Artículo 59
+
+Artículo 59.
+1. Los terrenos forestales que hayan sufrido los efectos de un incendio quedan sujetos a las prohibiciones de clasificación o reclasificación urbanística preceptuadas en la normativa reguladora del suelo no urbanizable.
+2. Los terrenos forestales que hayan sufrido los efectos de un incendio no se podrán destinar al pastoreo en los cinco años siguientes; tampoco podrán dedicarse o transformarse en suelos agrícolas hasta transcurridos, al menos, veinte años, ni a actividades extractivas hasta transcurridos diez años, salvo autorización expresa y motivada de la administración forestal, previo informe de la Mesa Forestal de la Comunitat Valenciana.
+3. Al objeto de lo previsto en el presente artículo, se crea, quedando adscrito a la conselleria competente en prevención de incendios forestales, el Registro de Terrenos Forestales Incendiados en el que se inscribirán, con el suficiente detalle, las superficies y perímetro de los montes siniestrados. Este Registro tendrá el carácter de público. En todo caso, las Administraciones competentes deberán solicitar certificación del mismo antes de realizar o autorizar cualquiera de las actuaciones previstas en este artículo.
+4. Los terrenos forestales incendiados deberán ser restaurados, por sus propietarios directamente o en la forma y condiciones que se establezcan, restaurándose la cubierta vegetal cuando no sea previsible su regeneración natural a medio plazo. Reglamentariamente se establecerá un Protocolo de actuaciones de restauración ambiental post-incendio, que será de aplicación en los terrenos forestales que sufran incendios mayores de cien hectáreas, salvo que estudios de mayor detalle derivados de la normativa sectorial de incendios establezcan su necesidad de aplicación en incendios de menor superficie.
+Se modifica por el art. 95 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-7
+ Se modifica el apartado 2 por el art. 5 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+ Se modifica el apartado 1 y se suprime el 4 por el art. 82 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205
+ Se añade el apartado 4 por el art. 69 de la Ley 9/2011, de 26 de diciembre. Ref. BOE-A-2012-1253
+
+### Artículo 59 bis
+
+Artículo 59 bis.
+1. EL acceso público a los montes será objeto de regulación por las administraciones públicas competentes.
+2. Reglamentariamente se definirán las condiciones en que se permite la circulación de vehículos de motor por pistas forestales.
+3. En ningún caso podrá limitarse la circulación en las servidumbres de paso para la gestión agroforestal y las labores de vigilancia, de prevención y de extinción de incendios de las administraciones públicas competentes.
+4. El acceso al monte o a terrenos forestales de personas ajenas a la vigilancia, prevención, extinción y gestión agroforestal podrá limitarse, por las administraciones con competencias en la materia, en las zonas de alto riesgo de incendio o cuando el riesgo de incendio forestal así lo aconseje, haciéndose público este extremo.
+5. La conselleria competente en prevención de incendios forestales, con el fin de no crear discontinuidades constructivas, podrá ejecutar obras de acondicionamiento, mejora y mantenimiento de pistas forestales que no transcurran íntegramente por montes de utilidad pública o montes gestionados por la Generalitat, siempre que la titularidad de la pista forestal o camino rural sea pública, transcurra en una longitud superior al 70 % por terreno forestal y que esta pista forestal se encuentre incluida en alguno de los instrumentos de planificación de infraestructuras de prevención de incendios forestales aprobados por la conselleria competente en prevención de incendios forestales.
+Se añade por el art. 95 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-7
+
+### Artículo 60
+
+Artículo 60.
+1. La existencia de depósitos o vertederos de residuos sólidos urbanos que incumplan las condiciones legalmente establecidas para su formación, con grave riesgo de provocación de incendios forestales, será comunicada por la Administración forestal al Ayuntamiento competente.
+2. Realizada dicha comunicación, la pasividad o negligencia del Ayuntamiento en el ejercicio de las facultades que le otorga la legislación correspondiente, determinará su responsabilidad en orden a la reparación del daño que pueda producir el incendio provocado por aquellos depósitos o vertederos.
+
+### Artículo 61
+
+Artículo 61.
+1. La Consejería de Medio Ambiente limitará y/o prohibirá temporalmente aquellos aprovechamientos que sea necesario para asegurar el éxito de los trabajos de reforestación o su regeneración natural, o aquellos en que se haya producido o pueda producirse una degradación o pérdida grave del suelo o de la capa vegetal.
+2. Se suspenderán temporalmente el uso social, recreativo o deportivo así como los aprovechamientos consuetudinarios de los montes, cuando tales actividades entrañen riesgo grave para la conservación y protección del medio natural.
+Se modifica el apartado 2 por el art. 37 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 62
+
+Artículo 62.
+1. La Administración forestal emitirá informe preceptivo previo a la aprobación de cualquier instrumento de planificación que afecte a montes o terrenos forestales, y a la autorización administrativa que corresponda sobre cualquier proyecto o actuación pública o privada que tenga por objeto la ejecución de proyectos o la realización de obras o instalaciones que afecten a montes o terrenos forestales, salvo que los instrumentos de planificación o la obra, proyecto o actuación se encuentren sometidos, según la normativa vigente en cada momento, al procedimiento de estimación o evaluación de impacto ambiental, y en este caso bastará este último.
+2. La autorización prevista en el párrafo anterior se sustituirá por una declaración responsable en el caso de actuaciones de silvicultura preventiva sobre la vegetación forestal y en el caso de mantenimiento de infraestructuras de prevención de incendios forestales, siempre que estuvieran previstas en un plan de prevención de incendios forestales aprobado por la administración competente o dichos trabajos correspondieran a la ejecución de las medidas de prevención de los incendios forestales en las urbanizaciones, los núcleos de población, las edificaciones y las instalaciones situadas en terrenos forestales y en la zona de influencia forestal.
+Esta declaración responsable tendrá que presentarla el promotor de la actuación y contendrá, al menos, la identificación en relación con la planificación aprobada, el tipo de actuación, así como la información suficiente respecto a ubicación, ámbito de actuación y fechas previstas de ejecución. Este trámite de declaración responsable se realizará ante la dirección territorial de la conselleria competente en materia de prevención de incendios forestales.
+La conselleria competente en materia de prevención de incendios forestales desarrollará y facilitará un modelo de declaración responsable.
+Esta declaración responsable no exime de la obligación de obtener otras autorizaciones o permisos que puedan ser necesarios para otros departamentos o administraciones públicas por razón de la naturaleza o ubicación de la actuación.
+Con el fin de garantizar la vigencia y utilidad del plan local de prevención de incendios forestales, una vez finalizados los trabajos, el promotor habrá de informar de las actuaciones realizadas en el municipio en el que se localizan.
+Los municipios tendrán que remitir a la dirección general competente en prevención de incendios forestales, con carácter anual y antes del 31 de marzo de cada año, un informe sobre las actuaciones realizadas en materia de prevención de incendios forestales en su municipio, acompañado por cartografía digital y relacionándolo con el estado de desarrollo de su plan local de prevención de incendios.
+Se modifica por el art. 95 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+ Se modifica por el art. 95 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-7
+
+### Artículo 63
+
+Artículo 63.
+A los proyectos que afecten a terrenos forestales, les será de aplicación la legislación sectorial en evaluación de impacto ambiental, salvo lo regulado en el artículo 34 de esta ley.
+Se modifica por el art. 133 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
+ Se modifican las letras d) y f) por los arts. 56 y 57 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437
+
+## TÍTULO VII
+
+Fomento
+
+## CAPÍTULO I
+
+Medidas de fomento
+
+### Artículo 64
+
+Artículo 64.
+1. La Generalidad Valenciana, para el cumplimiento de las obligaciones y el logro de los objetivos previstos en la presente Ley, podrá prestar ayuda económica y técnica a los propietarios públicos y privados de terrenos forestales, o a las personas naturales o jurídicas a quienes éstos hubiesen cedido el uso o disfrute de sus terrenos o establecido acuerdos que impliquen la mejora de la conservación y de la producción mediante trabajos forestales.
+2. Para la concesión de las ayudas se tendrán en cuenta las previsiones contenidas en los planes de ordenación y en los programas técnicos.
+
+### Artículo 65
+
+Artículo 65.
+1. Las ayudas y compensaciones podrán adoptar alguna de las siguientes fórmulas:
+a) Subvenciones.
+b) Anticipos reintegrables.
+c) Créditos bonificados.
+d) Asesoramientos y ayudas técnicas.
+e) Cualquier otra que se determine.
+2. El Gobierno Valenciano fijará los beneficios en función de las necesidades de la política forestal, regulando las condiciones generales a que habrán de sujetarse las subvenciones y anticipos.
+3. Se crea el Fondo Forestal Valenciano, que regulará los mecanismos y condiciones para incentivar las externalidades positivas y los beneficios ecosociales que proporcionan los montes ordenados, que gestionará la conselleria con competencias en materia forestal.
+4. Se podrán establecer regímenes específicos de tributos medioambientales como sistema de pago por los servicios ambientales o ecosistémicos que generen los montes. De manera reglamentaria, se determinarán las vías de recaudación de fondos y los mecanismos de incentivación de los propietarios y gestores de los montes.
+5. Se crea el Centro Valenciano de la Propiedad Forestal con el fin de promover la ordenación y gestión adecuada de los montes de titularidad privada y la corresponsabilidad de los propietarios.
+6. Reglamentariamente, se determinarán sus características y funciones.
+Se añaden los apartados 3 a 6 por el art. 38 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Artículo 66
+
+Artículo 66.
+1. Las Administraciones públicas valencianas que otorguen subvenciones a las corporaciones locales de la Comunidad Valenciana incluirán, entre los distintos factores a tener en cuenta para su distribución, la superficie total del término municipal constituida por terrenos forestales y el grado de conservación de los mismos, en orden a la protección del suelo y la conservación de los ecosistemas.
+2. Los planes y actuaciones de la Generalidad Valenciana en materia de turismo y otras actuaciones generadoras de actividad productiva compatibles con el desarrollo forestal y la conservación de los ecosistemas tratarán de favorecer, especialmente, las zonas de montaña media escasamente desarrolladas, que cuenten con montes o terrenos forestales públicos o privados a cuya conservación dediquen los titulares parte importante de sus recursos, o cuyo mantenimiento suponga una merma de la capacidad de crecimiento y desarrollo de la población, o limitaciones a los usos tradicionales.
+3. En el marco de la legislación reguladora de la agricultura de montaña, previo informe de la Mesa Forestal de la Comunitat Valenciana, se aprobarán programas de ordenación y promoción de las áreas forestales compatibles con el monte, conforme al Plan de acción territorial forestal. En dichos programas se prestará especial apoyo a las actividades tradicionales y al turismo ecológico.
+Se modifica el apartado 3 por los arts. 4, 5 y 39 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+## CAPÍTULO II
+
+De la mejora forestal
+
+### Artículo 67
+
+Artículo 67.
+La Consejería de Medio Ambiente:
+a) Promoverá el desarrollo de la investigación, experimentación y estudio en material forestal, que permita disponer de mejores conocimientos para la ejecución de actuaciones sobre el medio forestal.
+b) Impulsará la mejora de la capacitación técnica de los distintos operadores del sector forestal.
+c) Fomentará las actividades educativas, formativas y divulgativas sobre los montes, en lo relativo tanto a sus aspectos productores como ambientales, y de conservación de sus ecosistemas.
+d) Impulsará la modernización del aparato productivo de las empresas de explotación forestal y potenciará la creación de cooperativas y otras entidades asociativas entre los productores y los transformadores de productos forestales.
+
+## TÍTULO VIII
+
+Infracciones y sanciones
+
+## CAPÍTULO I
+
+De la vigilancia
+
+### Artículo 68
+
+Artículo 68.
+1. La conselleria con competencias en materia forestal ejercerá las funciones de gestión, policía y protección del medio natural:
+a) De policía, custodia y vigilancia del medio forestal para garantizar el cumplimiento de las prescripciones de la presente ley y su normativa de desarrollo, especialmente las relativas a la prevención, detección e investigación de causas de incendios forestales, emitiendo los informes técnicos que correspondan.
+b) De asesoramiento facultativo en tareas de gestión forestal y de conservación de la naturaleza, facilitando a los ciudadanos el cumplimiento de sus obligaciones medioambientales.
+Los funcionarios que desempeñen estas funciones contarán con la formación específica que les capacite para su correcto desarrollo.
+2. Todas las autoridades y funcionarios de la Comunidad Valenciana están obligados a poner en conocimiento de la Administración forestal cuantas actuaciones, acciones u omisiones conocieran que pudieran constituir una infracción a lo previsto en la presente Ley.
+3. Los funcionarios del Cuerpo de Agentes Medioambientales de la Generalitat Valenciana ostentan la condición de agentes de la autoridad en el ejercicio de sus funciones y tienen encomendadas, entre otras, las de vigilancia, policía y custodia de los bienes jurídicos de naturaleza forestal y la de policía judicial en sentido genérico, tal como establece el apartado 6 del artículo 283 de la Ley de enjuiciamiento criminal, actuando de forma auxiliar de los jueces, tribunales y del Ministerio Fiscal, y de manera coordinada con las fuerzas y cuerpos de seguridad, con respeto a las facultades de su legislación orgánica reguladora.
+Los funcionarios que desempeñen funciones de policía administrativa forestal, por atribución legal o por delegación, tienen la condición de agentes de la autoridad. Los hechos constatados y formalizados por ellos en las correspondientes actas de inspección y denuncia tendrán presunción de certeza, sin perjuicio de las pruebas que en defensa de los respectivos derechos e intereses puedan aportar los interesados.
+Asimismo, en el ejercicio de sus funciones, están facultados para:
+a) Entrar libremente en cualquier momento y sin previo aviso en los lugares sujetos a inspección y a permanecer en ellos, con respeto, en todo caso, a la inviolabilidad del domicilio. Al efectuar una visita de inspección, deberán comunicar su presencia a la persona inspeccionada o a su representante, a menos que consideren que dicha comunicación pueda perjudicar el éxito de sus funciones.
+b) Proceder a practicar cualquier acto de investigación, examen o prueba que consideren necesaria para comprobar que las disposiciones legales se observan correctamente.
+En particular, podrán tomar o sacar muestras de sustancias y materiales, realizar mediciones, obtener fotografías, vídeos, grabación de imágenes y levantar croquis y planos, siempre que se notifique al titular o a su representante, salvo casos de urgencia, en los que la notificación podrá efectuarse con posterioridad.
+En el ejercicio de sus funciones como policía judicial genérica, se limitarán a efectuar las primeras diligencias de prevención, de acuerdo con lo previsto en la normativa reguladora de la policía judicial y de conformidad con lo dispuesto en el artículo 284 de la Ley de enjuiciamiento criminal.
+Cuando tuvieran conocimiento de hechos que pudieran ser constitutivos de delito, deberán ponerlos en conocimiento de la autoridad judicial o del Ministerio Fiscal, a través del procedimiento que determinan los órganos en cuya estructura se integren y de conformidad con lo dispuesto en la Ley de enjuiciamiento criminal.
+En el ejercicio de las funciones a las que se refiere este apartado, los agentes medioambientales prestarán en todo momento auxilio y colaboración a las fuerzas y cuerpos de seguridad, de acuerdo con lo dispuesto en el artículo 4 de la Ley orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad.
+4. Para la vigilancia de zonas de especial fragilidad, así como para períodos de riesgo de incendio o de otras catástrofes, el Consejero de Medio Ambiente podrá otorgar el nombramiento de guarda jurado medioambiental de la Comunidad Valenciana al personal necesario para atender el evento, que gozará de las prerrogativas a que se refiere el apartado anterior. Este personal podrá estar al servicio de la propia Administración, de las Corporaciones Locales de la Comunidad Valenciana o de particulares, si bien, en todo caso sus actuaciones en este punto serán coordinadas por la Consejería de Medio Ambiente.
+5. La administración forestal promoverá acciones de voluntariado con las corporaciones locales, así como con asociaciones y entidades sin ánimo de lucro, en tareas de vigilancia y sensibilización dirigidas al cuidado y mejora del bosque.
+Se modifican los apartados 1, 3 y 5 por el art. 40 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+## CAPÍTULO II
+
+De las infracciones
+
+### Artículo 69
+
+Artículo 69.
+Corresponde a la Conselleria con competencias en materia de medio ambiente la potestad para instruir los expedientes y sancionar las acciones u omisiones contrarias a lo dispuesto en la presente ley, sin perjuicio de las competencias concretas de otras administraciones.
+Se modifica por el art. 146 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+### Artículo 70
+
+Artículo 70.
+En cuanto a la regulación del régimen sancionador en materia forestal, será de aplicación lo establecido en los artículos siguientes y en lo no regulado en éstos, se estará a lo indicado en la normativa básica estatal.
+Se modifica por el art. 30 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+ Se modifica por el art. 147 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+### Artículo 71
+
+Artículo 71.
+Las autoridades competentes para imponer multas y cuantías máximas de las mismas serán las siguientes:
+a) El/la director/a territorial competente por razón de la materia por infracciones leves con multas de 100 a 1.000 euros.
+b) El/la director/a general competente por razón de la materia por infracciones graves con multas de 1.001 a 100.000 euros.
+c) El/la conseller/a competente por razón de la materia por infracciones muy graves con multas de 100.001 a 1.000.000 euros.
+Téngase en cuenta, en relación a los órganos competentes para la imposición de las sanciones, la disposición adicional cuarta de esta norma, añadida por el art. 149 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+Se modifica por el art. 148 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+### Artículo 72
+
+Artículo 72. Tipificación de las infracciones.
+1. A los efectos de esta ley, y sin perjuicio de lo que disponga al respecto la legislación básica estatal, se consideran infracciones administrativas en materia de incendios forestales las acciones o actividades siguientes:
+a) La inobservancia de las disposiciones dictadas para la prevención de incendios forestales y en especial la realización de fuego en los lugares, zonas o días o períodos prohibidos conforme a la presente ley.
+b) La realización de actividades o usos prohibidos de conformidad con el artículo 57 de esta ley.
+c) La realización de usos o actividades sometidos a autorización previa sin la obtención de la misma, o bien con incumplimiento de las condiciones establecidas en ella o en la normativa que resulte de aplicación.
+d) El incumplimiento de las actuaciones y trabajos preventivos de incendios previstos en los artículos 49, 50 y 55 de la presente ley.
+e) El incumplimiento de las medidas cautelares que se establecieran para favorecer la regeneración de terrenos forestales incendiados.
+f) La inobservancia de las obligaciones reglamentariamente establecidas en orden a la instalación o funcionamiento de vertederos de residuos y al mantenimiento y conservación de vías de comunicación y conducciones eléctricas, o de cualquier otro tipo susceptibles de provocar riesgo de incendios forestales.
+g) El zonas de interfaz urbano-forestal, el incumplimiento de las obligaciones y normas establecidas en materia de prevención de incendios forestales que indican los planes generales de ordenación urbana o normas urbanísticas de rango inferior, planes locales de prevención de incendios forestales y las ordenanzas municipales.
+h) El incumplimiento del deber de colaboración previsto en el artículo 56.1 de la presente ley.
+i) El incumplimiento de las normas y medidas de prevención y lucha contra incendios forestales establecidas reglamentariamente o en los planes correspondientes.
+j) El incumplimiento por parte de los propietarios afectados, así como aquellos que se determine en cada caso, de las medidas a adoptar para subsanar las deficiencias señaladas en una declaración de zona de actuación urgente (ZAU), así como en sus plazos o condiciones de aplicación.
+k) La provocación de un incendio forestal concurriendo imprudencia no susceptible de persecución penal.
+l) La inobservancia de las instrucciones dadas por los agentes de la autoridad con ocasión de un incendio forestal.
+m)La utilización de terrenos forestales de manera que pueda provocar o acelerar la degradación del suelo o de la capa vegetal.
+n) La omisión de la diligencia pertinente o la falta de colaboración de los titulares de los terrenos forestales, para prevenir o remediar los efectos de los riesgos por erosión.
+o)El incumplimiento de las medidas de cautela establecidas en esta ley con carácter obligatorio para la preservación de las masas forestales.
+p) La obstrucción de la actividad inspectora de la administración y la resistencia a su autoridad.
+q) Cualquier otra contravención de los preceptos de esta ley de la que derive la pérdida de la capa vegetal o daños graves para el monte.
+Se añaden las letras m) a q) por el art. 41 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+ Redactado conforme a la corrección de errores publicado en DOGV núm. 8314, de 11 de junio de 2018. Ref. DOCV-r-2018-90347
+ Se añade por el art. 30 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+ Se deroga por la disposición derogatoria única de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+### Artículo 73
+
+Artículo 73.Clasificación de las infracciones.
+Las infracciones se clasifican en leves, graves y muy graves.
+1. Infracciones muy graves.
+Constituyen infracción muy grave:
+a) Las conductas tipificadas en el artículo 72 de la presente ley, cuando originen incendios forestales que afecten a una superficie cuyo plazo de reparación o restauración sea igual o superior a diez años.
+b) Las conductas tipificadas en el artículo 72 cuando de su comisión resulte la efectiva producción de un incendio forestal cuando afecte a terrenos incluidos en suelo forestal estratégico, conforme la definición del instrumento de planificación forestal autonómico vigente y la superficie del incendio sea igual o superior a 10 hectáreas.
+c) Las conductas tipificadas en el artículo 72 cuando de su comisión resulte la efectiva producción de un incendio forestal cuando afecte a suelo forestal ordinario, conforme la definición del instrumento de planificación forestal autonómico vigente y la superficie del incendio sea igual o superior a 25 hectáreas.
+d) Las infracciones previstas en el artículo anterior de cuya comisión resulte o pueda resultar la pérdida de la capa vegetal y de la capa edáfica y potencialmente puedan ser causa de erosión o desertización que afecten superficies ubicadas en espacios protegidos o sometidos al régimen especial de protección previsto en el artículo 29 de esta ley o superficies de más de 20 ha.
+e) La tala o la destrucción sin autorización de especies incluidas en el régimen especial de protección a las que se refiere el artículo 29 de esta ley.
+2. Infracciones graves.
+Constituyen infracción grave:
+a) Las conductas tipificadas en el artículo 72 de la presente ley, cuando originen incendios forestales que afecten a una superficie cuyo plazo de reparación o restauración sea inferior a diez años y superior a seis meses.
+b) Las conductas tipificadas en el artículo 72 cuando de su comisión resulte la efectiva producción de un incendio forestal cuando afecte a terrenos incluidos en suelo forestal estratégico, conforme la definición del instrumento de planificación forestal autonómico vigente y la superficie del incendio sea inferior a 10 hectáreas y superior a 1 hectárea.
+c) Las conductas tipificadas en el artículo 72 cuando de su comisión resulte la efectiva producción de un incendio forestal cuando afecte a suelo forestal ordinario, conforme la definición del instrumento de planificación forestal autonómico vigente y la superficie del incendio sea inferior a 25 hectáreas y superior a 5 hectáreas.
+d) Se calificará como grave la infracción de las normas de prevención establecidas para los vertederos de residuos, vías de comunicación, conducciones eléctricas o de cualquier otro tipo susceptibles de provocar incendios forestales, siempre que no deba calificarse como muy grave con arreglo al artículo anterior.
+e) La infracción tipificada en el artículo 72, punto l.
+f)Las infracciones previstas en el artículo anterior de cuya comisión resulte o pueda resultar la pérdida de la capa vegetal y de la capa edáfica y potencialmente puedan ser causa de erosión o desertización que, sin afectar los espacios protegidos o sometidos al régimen de protección previsto en el artículo 29 de esta ley, afecten superficies de 20 ha o menos.
+g)Las previstas en los apartados m), n), o), p)yq) del artículo 72 de esta ley.
+3. Infracciones leves.
+Constituyen infracción leve las conductas tipificadas en el artículo 72 de la presente ley, cuando los hechos constitutivos de la infracción no hayan causado daños o cuando originen incendios forestales que afecten a una superficie cuyo plazo de reparación o restauración no exceda a seis meses y no deban calificarse como graves o muy graves.
+Se añaden las letras d) y e) al apartado 1 y las letras f) y g) al apartado 2 por el art. 42 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+ Redactado conforme a la corrección de errores publicado en DOGV núm. 8314, de 11 de junio de 2018. Ref. DOCV-r-2018-90347
+ Se añade por el art. 30 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+ Se deroga por la disposición derogatoria única de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+## CAPÍTULO III
+
+De las sanciones
+
+### Artículo 74
+
+Artículo 74. Caducidad del procedimiento sancionador.
+El plazo máximo para la resolución del procedimiento sancionador será de un año, contado desde la fecha del acuerdo de iniciación. La notificación de la resolución se ajustará a lo dispuesto en el artículo 40 de la Ley 39/2015, del procedimiento administrativo común de las administraciones públicas.
+El incumplimiento del plazo indicado en el apartado anterior producirá la caducidad del procedimiento.
+Se añade por el art. 30 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+ Se deroga por la disposición derogatoria única de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+ Se modifica los apartados 2 y 3 por el art. 70 de la Ley 9/2011, de 26 de diciembre. Ref. BOE-A-2012-1253
+
+### Artículo 75
+
+Artículo 75. Reparación del daño e indemnizaciones.
+1. Sin perjuicio de las sanciones penales o administrativas que en cada caso procedan, las infracciones previstas en esta ley llevarán aparejada, en todo caso y siempre que sea posible, la reparación del daño causado y la reposición de las cosas a su estado original, en la forma y condiciones fijadas por el órgano competente en materia sancionadora o restauradora. Esta obligación es imprescriptible en el caso de daños al dominio público forestal.
+2. La reparación tendrá como objetivo la restauración del monte o ecosistema forestal a la situación previa a los hechos constitutivos de las infracciones previstas en esta ley. A los efectos de esta ley se entiende por restauración la vuelta del monte a su estado anterior al daño, y por reparación las medidas que se adoptan para lograr su restauración. El causante del daño vendrá obligado a indemnizar la parte de los daños que no puedan ser reparados, así como los perjuicios causados.
+3. Podrá requerirse asimismo indemnización en los casos en que el beneficio económico del infractor sea superior a la máxima sanción prevista. Esta indemnización será como máximo el doble de la cuantía de dicho beneficio y en el caso de montes declarados de utilidad pública se ingresará en el fondo de mejoras.
+4. Los daños ocasionados al monte y el plazo para su reparación o restauración se determinarán según criterio técnico debidamente motivado en la resolución sancionadora o restauradora.
+5. En el caso de acciones u omisiones que puedan constituir infracciones a la normativa en materia de prevención de incendios forestales, y sin perjuicio de las sanciones y demás obligaciones que con arreglo a dicha normativa procedan, se podrán repercutir los costes derivados de la movilización de los recursos necesarios para atenderlas, tanto si han producido un incendio forestal como si no, en concepto de indemnización por daños y perjuicios. Se deben entender incluidos en este apartado los recursos movilizados para atender la sofocación de una quema o de un incendio no forestal, aunque no afecte a terrenos forestales, pudiendo repercutir los costes de los recursos movilizados, todo ello sin perjuicio de las sanciones que en cada caso procedan, para lo que se habilitará reglamentariamente el procedimiento.
+6. La repercusión de costes, a través de la indemnización de daños y perjuicios a que se refieren los apartados anteriores, se aplicará de forma ponderada en función de la gravedad de la infracción, la alarma social provocada, la cantidad de recursos movilizados, así como el riesgo que haya comportado para los recursos que han intervenido.
+Se modifica por el art. 95 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-7
+ Se añade por el art. 30 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+ Se deroga por la disposición derogatoria única de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+### Artículo 76
+
+Artículo 76.Ejecución forzosa.
+1. En caso de incumplimiento, las resoluciones administrativas que impongan el deber de realizar las medidas de prevención, de evitación, de reparación, de restauración o de indemnización, y una vez transcurrido el plazo señalado en el requerimiento correspondiente, serán objeto de ejecución forzosa, previo apercibimiento. Dicha ejecución podrá ser instada por los interesados.
+2. La administración instructora, siempre respetando el principio de proporcionalidad, podrá acordar los siguientes medios de ejecución forzosa: el apremio sobre el patrimonio, la imposición de multas coercitivas o la ejecución subsidiaria.
+3. La imposición de multas coercitivas exigirá que en el requerimiento se indique el plazo de que se dispone para el cumplimiento de la obligación y la cuantía de la multa que debe ser impuesta.
+En todo caso, el plazo deberá ser suficiente para cumplir la obligación. En caso de que, una vez impuesta la multa coercitiva, se mantenga el incumplimiento que la ha motivado, podrá reiterarse por lapsos de tiempo que sean suficientes para cumplir con lo ordenado. Las multas coercitivas son independientes y compatibles con las que se puedan imponer en concepto de sanción.
+4. La cuantía mínima de las multas coercitivas será equivalente a la multa mínima prevista según la clasificación de la infracción y, en todo caso, no superará el tercio de la multa prevista según su clasificación.
+5. La ejecución por la administración de las resoluciones administrativas que impongan el deber de realizar o adoptar las medidas de prevención, de reparación, de restauración o de indemnización serán a costa del infractor. Los fondos necesarios para llevar a efecto la ejecución subsidiaria se podrán exigir por vía de apremio de forma cautelar antes de dicha ejecución.
+6. La prescripción de infracciones y sanciones no afectará a la obligación de restaurar o reparar las cosas a su ser y estado originales, ni a la de indemnizar por los daños o perjuicios causados.
+Se añade por el art. 30 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+ Se deroga por la disposición derogatoria única de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+## TÍTULO IX
+
+Fondo Estratégico Municipal de Prevención de Incendios y Gestión Forestal
+Se añade por el anexo del Decreto-ley 1/2023, de 13 de enero. Ref. DOGV-r-2023-90011
+
+### Artículo 77
+
+Artículo 77. Objeto del Fondo Estratégico Municipal de Prevención de Incendios y Gestión Forestal.
+1. Se crea el Fondo Estratégico Municipal de Prevención de Incendios y Gestión Forestal de la Comunitat Valenciana, con la finalidad de ayudar a los ayuntamientos a financiar las actuaciones de prevención de incendios forestales y de gestión forestal planificadas y aprobadas por la Conselleria competente. Este Fondo se basa en los principios de objetividad, transparencia, publicidad y equidad, constituyendo un factor de articulación, equilibrio y cohesión territorial.
+2. Este fondo promoverá el equilibrio económico de los municipios de la Comunitat Valenciana y la realización interna del principio de solidaridad, al objeto de contribuir a que los diferentes ayuntamientos cuenten con la dotación adecuada para la prestación de actuaciones en materia de prevención de incendios y gestión forestal.
+Se añade por el anexo del Decreto-ley 1/2023, de 13 de enero. Ref. DOGV-r-2023-90011
+
+### Artículo 78
+
+Artículo 78. Naturaleza jurídica y finalidad del Fondo Estratégico Municipal de Prevención de Incendios y Gestión Forestal.
+1. Las ayudas a los ayuntamientos previstas con cargo al Fondo, adoptan la forma de subvenciones y se conceden de forma directa, en aplicación de lo previsto en los artículos 22.2, b) de la Ley 38/2003, de 17 de noviembre, general de subvenciones y el artículo 168.1.b) Ley 1/2015, de 6 de febrero de Hacienda Pública de la Generalitat Valenciana, rigiéndose el procedimiento de concesión por las disposiciones recogidas esta norma y su desarrollo reglamentario, así como por lo dispuesto en la Ley 1/2015, de 6 de febrero de Hacienda Pública de la Generalitat Valenciana.
+2. Para que sea exigible el pago de las subvenciones impuestas por esta norma será necesaria la existencia de crédito adecuado y suficiente en el correspondiente ejercicio económico.
+3. Las ayudas del Fondo Estratégico Municipal de Prevención de Incendios y Gestión Forestal de la Comunitat Valenciana podrán financiar las actividades, obras, servicios y suministros contemplados en la planificación de prevención de incendios forestales y en los instrumentos técnicos de gestión forestal aprobados por la Generalitat en función de la naturaleza de los créditos presupuestarios, corrientes o de capital, que al efecto se recoja anualmente en la Ley de Presupuestos de la Generalitat Valenciana.
+3. Esta financiación será compatible para las entidades locales con la percepción de las aportaciones de las líneas específicas del Fondo de Cooperación Municipal de la Comunitat Valenciana, del Fondo de Cooperación Municipal para la lucha contra el despoblamiento de los municipios de la Comunitat Valenciana y del Fondo de Cooperación Municipal para los municipios turísticos de la Comunitat Valenciana, así como con aquellas que se puedan crear legal o reglamentariamente.
+Se añade por el anexo del Decreto-ley 1/2023, de 13 de enero. Ref. DOGV-r-2023-90011
+
+### Artículo 79
+
+Artículo 79. Entidades beneficiarias.
+1. Son entidades beneficiarias del Fondo Estratégico Municipal de Prevención de Incendios y Gestión Forestal de la Comunitat Valenciana los ayuntamientos de la Comunitat Valenciana que cuenten con el Plan Local de Prevención de Incendios Forestales (PLPIF) o Plan Local Reducido de Prevención de Incendios Forestales (PLRPIF) aprobado por la Conselleria competente y tengan terrenos forestales en su término municipal, tal y como exige el artículo 55.3 de la presente Ley.
+2. Para ser beneficiario de este fondo, y poder recibir el pago efectivo de las ayudas previstas, el Ayuntamiento deberá:
+a) haber cumplido la obligación de remitir a la Conselleria competente los documentos indicados en el apartado 2 del artículo 199 de la Ley 8/2010, de 23 de junio, de régimen local de la Comunitat Valenciana,
+b) presentar la cuenta general ante la Sindicatura de Cuentas de la Comunitat Valenciana en los términos establecidos en la normativa reguladora de la misma,
+c) haber remitido, en su caso, el correspondiente plan económico-financiero en los términos dispuestos en la Ley orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera, al órgano de la Generalitat competente en materia de tutela financiera de las entidades locales de la Comunitat Valenciana.
+Se añade por el anexo del Decreto-ley 1/2023, de 13 de enero. Ref. DOGV-r-2023-90011
+
+### Artículo 80
+
+Artículo 80. Dotación Presupuestaria del Fondo Estratégico Municipal de Prevención de Incendios y Gestión Forestal.
+1. La dotación económica de este Fondo será la que establezca anualmente la correspondiente Ley de Presupuestos de la Generalitat.
+2. Asimismo, las correspondientes dotaciones crediticias podrán también proceder, en su caso, a partir de las aportaciones de las diputaciones provinciales, así como de donaciones de entidades privadas, fundaciones y de particulares, efectuadas con esta finalidad.
+Se añade por el anexo del Decreto-ley 1/2023, de 13 de enero. Ref. DOGV-r-2023-90011
+
+### Artículo 81
+
+Artículo 81. Procedimiento y competencia para la concesión de las ayudas.
+(Suprimido)
+Se suprime por el art. 103.2 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este artículo ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 85.2 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+ Se modifica por el art. 96 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+ Se añade por el anexo del Decreto-ley 1/2023, de 13 de enero. Ref. DOGV-r-2023-90011
+
+### Artículo 82
+
+Artículo 82. Reglas de distribución.
+(Suprimido)
+Se suprime por el art. 103.3 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este artículo ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 85.3 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+ Se añade por el anexo del Decreto-ley 1/2023, de 13 de enero. Ref. DOGV-r-2023-90011
+
+### Artículo 83
+
+Artículo 83. Aplicación de los fondos.
+(Suprimido)
+Se suprime por el art. 103.4 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este artículo ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 85.4 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+ Se añade por el anexo del Decreto-ley 1/2023, de 13 de enero. Ref. DOGV-r-2023-90011
+
+### Artículo 84
+
+Artículo 84. Comisión para la asignación, seguimiento y control del Fondo Estratégico Municipal de Prevención de Incendios Forestales y Gestión Forestal.
+(Suprimido)
+Se suprime por el art. 103.5 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este artículo ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 85.5 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+ Se añade por el anexo del Decreto-ley 1/2023, de 13 de enero. Ref. DOGV-r-2023-90011
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Catálogo de Montes de Dominio Público y Utilidad Pública y el Catálogo de Montes Protectores se coordinarán con los estatales.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Los fondos procedentes de la CEE u otros organismos con destino genérico a la conservación y mejora forestal, se destinarán al cumplimiento de los objetivos previstos en la presente Ley.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+(Suprimida).
+Se suprime por el art. 43 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+ Se añade por el art. 61 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Lo dispuesto en el artículo 71, en cuanto a los órganos competentes para la imposición de las sanciones, podrá modificarse mediante decreto del Consell.
+Se añade por el art. 149 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Se planificarán y coordinarán desde la conselleria competente en medio ambiente las acciones adecuadas con las administraciones públicas para la lucha contra el cambio climático en el marco de la Estrategia Valenciana de Cambio Climático y Energía.
+Con el fin de conseguir la coordinación adecuada, la necesaria optimización de los recursos económicos y humanos y una mejor eficacia en la obtención de los objetivos, el Consell creará la Agencia Valenciana del Cambio Climático.
+Se añade por el art. 44 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+1. Las obras que, con arreglo al Plan de acción territorial forestal (Patfor), sean consideradas de interés público de primer orden en planes, programas o proyectos, no precisarán para su ejecución de la licencia municipal de obras, sin perjuicio de su comunicación a los municipios afectados y de lo que pueda disponer la legislación básica.
+2. La ejecución de las actuaciones a las que se refiere el párrafo anterior tendrá prevalencia sobre los instrumentos de planeamiento o gestión urbanísticos.
+Se añade por el art. 85 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+Quedan excluidas de la condición de suelo forestal y causarán baja en el Registro de Plantaciones Forestales Temporales, las plantaciones con especies forestales sobre suelos agrícolas previstas en el apartado f) del artículo 3.
+Se añade por el art. 3.4 del Decreto-ley 17/2024, de 23 de diciembre. Ref. DOGV-r-2024-90263
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Mantendrán su actual clasificación los terrenos que a la entrada en vigor de esta Ley estén declarados como de utilidad pública o protectores.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Las referencias a órganos forestales efectuadas por normas estatales anteriores a la entrada en vigor de la presente Ley, respecto a las competencias de la Generalidad Valenciana, se ejercerán por el órgano que corresponda según el Reglamento Orgánico y Funcional de la Consejería de Medio Ambiente, conforme a los criterios establecidos por la presente Ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Para cumplir los objetivos básicos de esta ley, los planes de ordenación de recursos forestales de las demarcaciones forestales se tramitarán y deberán quedar aprobados antes del fin de 2020.
+Se añade por el art. 45 de la Ley 13/2018, de 1 de junio. Ref. BOE-A-2018-8948
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Las Leyes del Estado en materia de montes y de conservación de la naturaleza tienen el valor de Derecho supletorio respecto a lo establecido en la presente Ley, en las materias no reguladas en la misma o en aquellas disposiciones que puedan servirle de complemento, sin perjuicio de lo dispuesto en la normativa básica.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se faculta al Consejo para que pueda dictar cuantas disposiciones sean necesarias para la aplicación y desarrollo de esta Ley. Su Reglamento ejecutivo se aprobará en el plazo de un año de su entrada en vigor.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Diario Oficial de la Generalidad Valenciana», salvo los contenidos del Título VIII relativos al régimen sancionador, que entrarán en vigor a los tres meses de la publicación de la presente Ley, rigiendo hasta entonces el régimen actual.
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, Tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 9 de diciembre de 1993.
+El Presidente de la Generalidad Valenciana,
+JOAN LERMA I BLASCO

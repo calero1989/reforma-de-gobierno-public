@@ -1,0 +1,265 @@
+# Ley 52/1997, de 27 de noviembre, de Asistencia Jurídica al Estado e Instituciones Públicas.
+
+- Identificador BOE: `BOE-A-1997-25338`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1997-25338
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+La proclamación constitucional en los artículos 103 y 106 de los principios de sometimiento pleno de la Administración Pública a la Ley y al Derecho y de universalidad del control jurisdiccional de la actividad administrativa, junto con un creciente grado de conciencia ciudadana acerca de los medios previstos por el ordenamiento jurídico para la tutela de los derechos y libertades, han venido a dar lugar en los últimos años a un importantísimo crecimiento del siempre ingente volumen de procesos judiciales en que son parte las diversas Administraciones públicas, configurándose, en lo que al Estado se refiere, un panorama litigioso de volumen e intensidad desconocidos en épocas anteriores.
+Paralela y, a la vez, simétricamente a ello, las exigencias de una Administración pública, a la par que respetuosa con el Derecho, eficaz en todos los ámbitos de su actuación, imponen la necesidad de dotar a aquélla de medios adecuados y suficientes a la hora de hacer valer sus derechos e intereses ante los Tribunales de Justicia. Dicho de otro modo: la configuración de los instrumentos normativos, institucionales y personales susceptibles de garantizar que la sujeción de la actuación estatal al Derecho se vea correspondida con una eficaz tutela de sus intereses cuando tal actuación es cuestionada ante los Tribunales, se convierte en requisito ineludible para el correcto funcionamiento de toda Administración pública que pretenda responder a los requerimientos jurídicos y sociales de nuestra época.
+Uno de los mecanismos con que, desde las postrimerías del siglo XIX, ha tratado de subvenirse a la particular situación del Estado cuando es parte de un proceso, está constituido por la regulación de las llamadas especialidades o prerrogativas procesales del Estado. La relevancia constitucional y la importancia de los fines e intereses a que sirve la Administración pública, la complejidad organizativa y estructural que, en función de aquellos fines, asume el Estado en nuestros días, así como las estrictas pautas de actuación que el ordenamiento impone a las Administraciones públicas en garantía de la correcta satisfacción de los intereses generales, determinan un peculiar «status» funcional y organizativo del Estado de cuya sustancia no participan las personas y organizaciones de índole privada. Así las cosas, si de ello resulta la existencia de un fundamento objetivo que razonablemente justifica la consagración de determinadas especialidades enervadoras del Derecho rituario común cuando el Estado es parte en un proceso ante los órganos jurisdiccionales, no pueden dejar de tenerse presentes en ningún momento las exigencias derivadas de los principios constitucionales de igualdad y tutela judicial efectiva (artículos 14 y 24 de la Constitución), de tal suerte que las mencionadas especialidades procesales del Estado en ningún caso resulten atentadoras a los mencionados principios, ni supongan cargas desproporcionadas o irrazonables para la contraparte del Estado en el proceso.
+Las múltiples normas que desde hace ya más de cien años vienen constituyendo la normativa atinente al desenvolvimiento del Estado en los distintos tipos de procesos, configuran un conjunto normativo confuso, desconexo, asistemático, carente en muchos casos de rango preciso y, en demasiadas ocasiones, de contenido obsoleto, por encontrarse apoyado en planteamientos pertenecientes a tiempos pretéritos.
+La presente Ley tiene como objetivo dar eficaz respuesta a esa necesidad de instrumentar una asistencia jurídica al Estado acorde con los postulados de una Administración moderna, austera, eficaz y tributaria de un sometimiento pleno a la Constitución y al resto del ordenamiento jurídico. Para ello se proponen unas mínimas normas organizativas del Servicio Jurídico del Estado, instrumento que prestará esa asistencia jurídica, una regulación moderna y plenamente adaptada a la Constitución de las especialidades procesales del Estado y una unificación y clarificación de la normativa que se completará con el necesario reglamento de desarrollo de esta Ley.
+II
+La Ley aborda, en su capítulo I (artículos 1 a 4), el régimen de la asistencia jurídica, entendida como asesoramiento, representación y defensa al Estado.
+Se parte del principio de la asunción por el Servicio Jurídico del Estado de la asistencia jurídica, del Estado y de los Organismos autónomos, sin perjuicio de las competencias consultivas que corresponden al Cuerpo Jurídico Militar en el ámbito del Ministerio de Defensa y a la Asesoría Jurídica Internacional del Ministerio de Asuntos Exteriores en materia de derecho internacional.
+Tampoco existe interferencia alguna con las competencias que la legislación atribuye a Subsecretarios y Secretarios generales técnicos, haciéndose expresa reserva de las mismas.
+Respecto a los Órganos Constitucionales, se encomienda al Servicio Jurídico del Estado sólo la tarea de representación y defensa en juicio, de conformidad con lo previsto en el artículo 447 de la Ley Orgánica del Poder Judicial, como regla general con la excepción de que las normas internas de los propios órganos constitucionales establezcan un régimen especial propio; régimen especial que encontraría su justificación en la autonomía institucional que la Constitución española pueda consagrar para estos Órganos.
+Siguiendo también lo dispuesto en el artículo 447 de la Ley Orgánica del Poder Judicial, se hace referencia a la asistencia jurídica de la Administración de la Seguridad Social, encomendada a su Cuerpo de Letrados.
+Para que el Servicio Jurídico del Estado pueda prestar asistencia jurídica a las Comunidades Autónomas, el régimen previsto se difiere a un posible desarrollo reglamentario.
+En cuanto a los entes públicos empresariales, la fórmula adoptada es la del convenio con las excepciones que pueda contemplar la normativa de cada ente.
+Por último, se recoge una breve regulación de la representación y defensa del Reino de España en el ámbito internacional.
+Se prevé también la posibilidad de que se asuma por el Servicio Jurídico del Estado la representación y defensa de autoridades y empleados públicos, cualquiera que sea su posición procesal y en la forma más amplia posible, dejando al desarrollo reglamentario la concreción de los supuestos en los cuales pueda asumirse esta defensa.
+A continuación, se caracteriza a la Dirección del Servicio Jurídico del Estado como Centro Superior Directivo de toda la asistencia jurídica al Estado e instituciones públicas, tanto en su aspecto consultivo como contencioso. Se hace, igualmente, una breve referencia a los Abogados del Estado como soporte humano del Servicio Jurídico del Estado en su aspecto de Cuerpo de la Administración. Lógicamente son muchos los aspectos que en este orden se difieren a un ulterior desarrollo reglamentario imprescindible para que esta Ley pueda desplegar toda su eficacia.
+III
+Los capítulos II y III de la Ley (artículos 5 a 10 y 11 a 15) tratan de sistematizar y concretar con el adecuado rango normativo, la posición procesal, ante los diversos órdenes jurisdiccionales, del Estado y Organismos públicos del él dependientes, así como de los Órganos Constitucionales, reduciendo al mínimo las reglas especiales extravagantes al Derecho procesal común, y conciliando al mismo tiempo tales reglas especiales con los principios constitucionales aludidos.
+Queda patente en esta regulación la vocación de mantener en todo lo posible las normas generales así como las especialidades del Estado que pudieran encontrarse recogidas en las leyes procesales generales.
+Ahora bien, hay que distinguir claramente la regulación de los dos capítulos.
+El capítulo II recoge normas que, refiriéndose a la materia de representación y defensa en juicio, y teniendo por ello transcendencia procesal, sólo afectan al Estado (en sentido más amplio por contraposición a las Comunidades Autónomas) al ser los aspectos de organización de los Servicios Jurídicos los que priman. En el capítulo III se recogen normas eminentemente procesales cuya competencia, en virtud de lo dispuesto en el artícu lo 149.1.6.a de la Constitución, corresponde en exclusiva al Estado. Estas normas de carácter procesal son, por tanto, de aplicación tanto al Estado como a las Comunidades Autónomas y así se declara expresamente en la disposición adicional cuarta, siguiendo así una técnica legislativa marcada por la doctrina del Tribunal Constitucional.
+No puede dejarse de realizar una mención al hecho de que las especialidades procesales contenidas en el capítulo III no tienen un ámbito de aplicación equivalente para todas ellas. Las propias características de cada una de estas especialidades hacen que en unos casos el ámbito de aplicación se reduzca a los supuestos en los cuales la representación y defensa es asumida por los Servicios Jurídicos respectivos (así lo relativo a las notificaciones, citaciones, emplazamientos y demás actos de comunicación procesal contemplados en el artículo 11) mientras en otros se amplíe -además de, por supuesto, al Estado y Organismos autónomos- a todos los Organismos públicos. Este ámbito de aplicación se proyecta de idéntica forma sobre la Administración de las Comunidades Autónomas.
+IV
+Por último, respondiendo a la necesidad de clarificación y sistematización de la variada normativa que en la actualidad regula la posición procesal del Estado ante las diversas jurisdicciones, se derogan expresamente en unos casos y se redactan nuevamente en otros los preceptos de aquellas normas que resultan decididamente incompatibles con los actuales principios constitucionales, o que se hallan en pugna con el régimen de organización de las entidades públicas territoriales previsto en la Constitución.
+Respecto a la representación y defensa de las Entidades Gestoras y de la Tesorería General de la Seguridad Social, se extienden a ellas las normas aplicables al Estado con las modificaciones imprescindibles derivadas de su específica naturaleza.
+La Ley, por último, prevé un desarrollo reglamentario que necesariamente deberá producirse en un breve espacio de tiempo para darle toda su virtualidad y eficacia.
+
+## CAPÍTULO I
+
+De la asistencia jurídica al Estado
+
+### Artículo 1
+
+Artículo 1. Régimen de asistencia jurídica.
+1. La asistencia jurídica, consistente en el asesoramiento y la representación y defensa en juicio del Estado y de sus Organismos autónomos, así como la representación y defensa de los Órganos Constitucionales, cuyas normas internas no establezcan un régimen especial propio, corresponderá a los Abogados del Estado integrados en el Servicio Jurídico del Estado, de cuyo Director dependen sus unidades, denominadas Abogacías del Estado.
+No obstante, el asesoramiento jurídico en el ámbito del Ministerio de Defensa y de los Organismos autónomos adscritos al mismo corresponderá a los miembros del Cuerpo Jurídico Militar, conforme a lo establecido en la Ley 17/1989, de 19 de julio, reguladora del Régimen del Personal Militar Profesional, y demás disposiciones legales de aplicación.
+Todo ello sin perjuicio de las competencias atribuidas por la legislación a los Subsecretarios y Secretarios generales técnicos, así como de las funciones atribuidas por su normativa a la Asesoría Jurídica Internacional del Ministerio de Asuntos Exteriores como órgano asesor en materia de Derecho internacional.
+2. La asistencia jurídica de la Administración de la Seguridad Social, consistente en el asesoramiento jurídico y la representación y defensa en juicio en el ámbito de las Entidades Gestoras y Servicios Comunes de la Seguridad Social, corresponderá a los miembros del Cuerpo de Letrados de la Administración de la Seguridad Social.
+La coordinación y dirección de la asistencia jurídica de la Seguridad Social corresponde a la Secretaría de Estado de la Seguridad Social.
+3. Los Abogados del Estado podrán representar, defender y asesorar a las Comunidades Autónomas en los términos que, en su caso, se establezcan reglamentariamente y a través de los oportunos convenios de colaboración celebrados entre el Gobierno de la Nación y los órganos de gobierno de las Comunidades Autónomas.
+Asimismo, los Abogados del Estado podrán representar, defender y asesorar a las Corporaciones locales en los términos que se establezcan reglamentariamente y a través de los oportunos convenios de colaboración celebrados entre la Administración General del Estado y las respectivas Corporaciones o las Federaciones de las mismas.
+4. Salvo que sus disposiciones específicas establezcan otra previsión al efecto, podrá corresponder a los Abogados del Estado la asistencia jurídica a las entidades públicas empresariales reguladas en el capítulo III del Título III y disposiciones adicionales octava, novena y décima de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, mediante la formalización del oportuno convenio al efecto, en el que se determinará la compensación económica a abonar al Tesoro Público.
+5. La actuación de los Abogados del Estado ante el Tribunal de Justicia de las Comunidades Europeas, ante el Tribunal de Primera Instancia de las Comunidades Europeas, ante la Comisión y Tribunal Europeo de Derechos Humanos, así como, en su caso, ante los Tribunales y Organismos internacionales en los que actuasen en representación del Reino de España, se ajustará a lo dispuesto en la normativa específica en cada caso aplicable y, en su defecto, a lo dispuesto en la presente Ley.
+6. Para la representación y defensa del Estado español ante las jurisdicciones de Estados extranjeros se estará a lo establecido en la presente Ley y demás disposiciones vigentes y a lo que, en su caso, se determine reglamentariamente.
+Se añade un párrafo 2 al apartado 3 por el art. 50.1 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+
+### Artículo 2
+
+Artículo 2. Representación y defensa de autoridades y empleados públicos.
+En los términos establecidos reglamentariamente, los Abogados del Estado podrán asumir la representación y defensa en juicio de las autoridades, funcionarios y empleados del Estado, sus Organismos públicos a que se refiere el artículo anterior y Órganos Constitucionales, cualquiera que sea su posición procesal, cuando los procedimientos se sigan por actos u omisiones relacionados con el cargo.
+
+### Artículo 3
+
+Artículo 3. Dirección del Servicio Jurídico del Estado.
+1. La Dirección del Servicio Jurídico del Estado es el centro superior consultivo de la Administración del Estado, Organismos autónomos y entidades públicas dependientes, conforme a sus disposiciones reguladoras en el caso de estas últimas, y sin perjuicio de las competencias atribuidas por la legislación a los Subsecretarios y Secretarios generales técnicos, así como de las especiales funciones atribuidas al Consejo de Estado como supremo órgano consultivo del Gobierno, de conformidad con lo dispuesto en el artículo 107 de la Constitución y en su Ley Orgánica de desarrollo.
+2. La Dirección del Servicio Jurídico del Estado es igualmente el centro superior directivo de los asuntos contenciosos en los que sea parte el Estado y sus Organismos autónomos, o las entidades públicas empresariales u Órganos Constitucionales cuando corresponda.
+3. La Dirección del Servicio Jurídico del Estado y las unidades que la forman desempeñan sus funciones bajo la superior y única dirección del titular del Departamento ministerial en que se integra.
+4. En la Administración periférica las Abogacías del Estado, por la singularidad de sus funciones, tendrán la consideración de servicios no integrados.
+5. Las distintas Abogacías del Estado, cualquiera que sea su ubicación, dependerán jerárquica y funcionalmente de la Dirección del Servicio Jurídico del Estado.
+6. Las Abogacías del Estado tendrán en los distintos Ministerios el carácter de servicios comunes y, por tanto, bajo las competencias de dirección, organización y funcionamiento que respecto a estos servicios otorga la legislación a los Subsecretarios.
+
+### Artículo 4
+
+Artículo 4. Abogados del Estado.
+1. Los Abogados del Estado, por el hecho de su nombramiento y toma de posesión en el destino, quedan habilitados para el ejercicio de todas las funciones y para el desempeño de todos los servicios propios de su cargo.
+2. Los puestos de trabajo de las Abogacías del Estado que tengan encomendado el desempeño de las funciones descritas en esta Ley se adscribirán mediante el desarrollo normativo adecuado con carácter exclusivo a los funcionarios del Cuerpo de Abogados del Estado, en el que se ingresará mediante oposición libre entre licenciados de Derecho.
+
+## CAPÍTULO II
+
+Normas específicas sobre representación y defensa en juicio del Estado
+
+### Artículo 5
+
+Artículo 5. Contraposición de intereses.
+En los supuestos en que, ante cualesquiera órdenes jurisdiccionales, litigasen entre sí u ostentasen intereses contrapuestos las Administraciones u Organismos públicos cuya representación legal o convencional ostente el Abogado del Estado, se observarán las siguientes reglas:
+a) Se atendrá, en primer lugar, a lo dispuesto en la normativa especial o en las cláusulas convencionales reguladoras de la asistencia jurídica a la entidad o entidades públicas empresariales u Organismo público regulado por su normativa específica de que se trate.
+b) En caso de silencio de la norma o convenio, la Dirección del Servicio Jurídico del Estado, antes de evacuar el primer trámite procesal, y en atención a la naturaleza de los intereses en conflicto, expondrá a las Administraciones, entidades u Organismos litigantes su criterio tanto en cuanto a la eventual solución extrajudicial del litigio, de ser esta posible, como, en su defecto, a la postulación que debiera asumir el Abogado del Estado, evitando en todo caso las situaciones de indefensión. Hayan o no manifestando su opinión las partes, con el informe previo de la Dirección del Servicio Jurídico del Estado, el titular del Departamento del que ésta dependa resolverá en definitiva lo procedente en cuanto a la postulación a asumir por el Abogado del Estado.
+
+### Artículo 6
+
+Artículo 6. Colaboración entre los órganos interesados y el Servicio Jurídico del Estado.
+Los órganos interesados en los procesos, así como todos los de la Administración General del Estado a los que los órganos del Servicio Jurídico del Estado se lo soliciten, deberán prestar la colaboración precisa para la mejor defensa de los intereses en litigio.
+
+### Artículo 7
+
+Artículo 7. Disposición de la acción procesal.
+1. Sin perjuicio de lo dispuesto en leyes especiales, para que el Abogado del Estado pueda válidamente desistir de acciones o recursos, apartarse de querellas, o allanarse a las pretensiones de la parte contraria, precisará autorización expresa de la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado, que deberá previamente, en todo caso, recabar informe del Departamento, Organismo o entidad pública correspondiente.
+La firma de acuerdos amistosos ante el Tribunal Europeo de Derechos Humanos corresponde al titular de la Abogacía General del Estado, con el visto bueno de los titulares del Ministerio de Justicia y del Ministerio de Asuntos Exteriores.
+Téngase en cuenta que este apartado, modificado por la disposición final 12 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-12, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. Sin perjuicio de lo dispuesto en leyes especiales, para que el Abogado del Estado pueda válidamente desistir de acciones o recursos, apartarse de querellas, o allanarse a las pretensiones de la parte contraria, precisará autorización expresa de la Abogacía General del Estado - Dirección del Servicio Jurídico del Estado que deberá, previamente, en todo caso, recabar informe del Departamento, Organismo o entidad pública correspondiente."
+2. El informe deberá ser emitido por la unidad competente por razón de la materia y, en su caso, por el órgano autor del acto objeto del proceso. Los informes deberán contener los motivos jurídicos que fundamentan la disposición de la acción procesal. En los procesos en los que se ventilen pretensiones sobre derechos de la Hacienda Pública de cuantía superior a un millón de euros, el Departamento, organismo o entidad pública deberá acompañar al informe sobre la propuesta de allanamiento o desistimiento una memoria con la estimación de sus consecuencias económicas para la Hacienda Pública. La memoria deberá ser emitida por la unidad competente por razón de la materia.
+Se modifica el apartado 1, con efectos de 3 de abril de 2025, por la disposición final 12 de la Ley Orgánica 1/2025, de 2 de enero Ref. BOE-A-2025-76#df-12
+ Se modifica por la disposición final 8 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-9
+
+### Artículo 8
+
+Artículo 8. Actuaciones ante el Tribunal Constitucional y Tribunal de Cuentas.
+La actuación del Abogado del Estado ante el Tribunal Constitucional y el Tribunal de Cuentas se regirá por lo dispuesto en las respectivas Leyes Orgánicas y demás disposiciones reguladoras de los mismos.
+
+### Artículo 9
+
+Artículo 9. Actuaciones en procedimientos arbitrales y otras reclamaciones extrajudiciales.
+Previa autorización del titular del departamento, organismo público correspondiente, y con informe de la Dirección del Servicio Jurídico del Estado, los Abogados del Estado integrados en los Servicios Jurídicos del Estado podrán asumir la representación y defensa del Estado, sus organismos autónomos, entidades públicas de ellos dependientes y órganos constitucionales en procedimientos arbitrales y otras reclamaciones extrajudiciales de naturaleza nacional o internacional.
+Se modifica por el art. 68 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 10
+
+Artículo 10. Jurisdicción militar.
+El ejercicio de las funciones de representación y defensa en juicio del Estado ante la jurisdicción militar se desarrollará de acuerdo con lo dispuesto en la Ley Orgánica 2/1989, de 13 de abril, Procesal Militar.
+
+## CAPÍTULO III
+
+Especialidades procesales aplicables al Estado
+
+### Artículo 11
+
+Artículo 11. Notificaciones, citaciones, emplazamientos y demás actos de comunicación procesal.
+1. En los procesos seguidos ante cualquier jurisdicción en que sean parte la Administración General del Estado, los Organismos autónomos o los órganos constitucionales, salvo que las normas internas de estos últimos o las leyes procesales dispongan otra cosa, las notificaciones, citaciones, emplazamientos y demás actos de comunicación procesal se entenderán directamente con el Abogado del Estado en la sede oficial de la respectiva Abogacía del Estado.
+2. Cuando las entidades públicas empresariales u otros Organismos públicos regulados por su normativa específica sean representados y defendidos por el Abogado del Estado se aplicará igualmente lo dispuesto en el apartado anterior.
+3. Serán nulas las notificaciones, citaciones, emplazamientos y demás actos de comunicación procesal que no se practiquen con arreglo a lo dispuesto en este artículo.
+
+### Artículo 12
+
+Artículo 12. Exención de depósitos y cauciones.
+El Estado y sus Organismos autónomos, así como las entidades públicas empresariales, los Organismos públicos regulados por su normativa específica dependientes de ambos y los órganos constitucionales, estarán exentos de la obligación de constituir los depósitos, cauciones, consignaciones o cualquier otro tipo de garantía previsto en las leyes.
+En los Presupuestos Generales del Estado y demás instituciones públicas se consignarán créditos presupuestarios para garantizar el pronto cumplimiento, si fuere procedente, de las obligaciones no aseguradas por la exención.
+
+### Artículo 13
+
+Artículo 13. Costas.
+1. La tasación de las costas en que fuere condenada la parte que actúe en el proceso en contra del Estado, sus organismos públicos, los órganos constitucionales o personas representadas y defendidas por el Abogado del Estado, se regirá, en cuanto a sus conceptos e importe, por las normas generales. En estos conceptos se incluirán, en todo caso, los correspondientes a las funciones de representación del Abogado del Estado.
+Firme la tasación de costas, las Delegaciones de Economía y Hacienda recaudarán las cantidades correspondientes según el procedimiento de recaudación a través de entidad colaboradora regulado en el Reglamento General de Recaudación. En defecto de pago en período voluntario, se utilizará el procedimiento administrativo de apremio conforme a lo previsto en el Reglamento General de Recaudación.
+A los importes ingresados por tasación de costas se les dará el destino establecido presupuestariamente.
+2. Las costas en que fuere condenada la parte que actúe en el proceso contra el Estado, Organismos públicos y órganos constitucionales se aplicarán al presupuesto de ingresos del Estado, salvo en los supuestos de los artículos 1.3 y 1.4 de esta Ley, que se regirán por lo establecido en el correspondiente convenio.
+3. Las costas a cuyo pago fuese condenado el Estado, sus Organismos públicos o los órganos constitucionales serán abonadas con cargo a los respectivos presupuestos, de acuerdo con lo establecido reglamentariamente.
+Se modifica el apartado 1 por la disposición final 4 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+ Se modifica el apartado 1 por el art. 50.2 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+
+### Artículo 14
+
+Artículo 14. Suspensión del curso de los autos.
+1. En los procesos civiles que se dirijan contra el Estado, sus Organismos autónomos, entidades públicas dependientes de ambos o los órganos constitucionales, el Abogado del Estado recabará los antecedentes para la defensa de la Administración, Organismo o entidad representada, así como elevará, en su caso, consulta ante la Dirección del Servicio Jurídico del Estado. A tal fin, al recibir el primer traslado, citación o notificación del órgano jurisdiccional podrá pedir, y el Juez acordará, la suspensión del curso de los autos, salvo que, excepcionalmente, y por auto motivado, se estime que ello produciría grave daño para el interés general.
+El plazo de suspensión será fijado discrecionalmente por el Juez, sin que pueda exceder de un mes ni ser inferior a quince días. Dicho plazo se contará desde el día siguiente al de la notificación de la providencia por la que se acuerde la suspensión, no cabiendo contra tal providencia recurso alguno.
+2. En los interdictos, procedimientos del artículo 41 de la Ley Hipotecaria, aseguramiento de bienes litigiosos e incidentes, el plazo de suspensión será fijado discreccionalmente por el Juez, no siendo superior a diez días ni inferior a seis.
+
+### Artículo 15
+
+Artículo 15. Fuero territorial del Estado.
+1. Para el conocimiento y resolución de los procesos civiles en que sean parte el Estado, los organismos públicos, los órganos constitucionales o cualquier entidad del sector público institucional cuya representación y defensa venga atribuida normativa o convencionalmente a los abogados del Estado, serán en todo caso competentes los juzgados y tribunales que tengan su sede en las capitales de provincia, en Ceuta o en Melilla. Esta norma se aplicará con preferencia a cualquier otra norma sobre competencia territorial que pudiera concurrir en el procedimiento.
+2. En las circunscripciones del Tribunal Superior de Justicia de Illes Balears y el Tribunal Superior de Justicia de Canarias, el fuero territorial del Estado previsto en el apartado anterior se aplicará con igual preferencia en la isla donde radique la sede de la capital de provincia.
+3. En los juzgados que radiquen en las restantes islas se podrá optar por el fuero previsto en el apartado anterior o el que resulte de aplicar las normas sobre competencia territorial previstas en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, a elección del demandante. Cuando se opte por este último, será de aplicación obligatoria lo previsto en el artículo 16 de esta ley.
+3. Lo dispuesto en este artículo no será de aplicación a los procesos universales.
+Se modifica por la disposición final 6.1 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#df-6
+ Téngase en cuenta que esta modificación será aplicable exclusivamente a los procedimientos judiciales incoados con posterioridad a su entrada en vigor, según establece la disposición transitoria 11 del citado Real Decreto-ley.
+
+### Artículo 16
+
+Artículo 16. Comparecencia por videoconferencia.
+1. En los procesos ante el orden jurisdiccional civil, penal, contencioso- administrativo, laboral o militar en los que sea parte el Estado, los organismos públicos, los órganos constitucionales o cualquier entidad del sector público institucional cuya representación y defensa venga atribuida normativa o convencionalmente a los abogados del Estado, éstos podrán intervenir en las actuaciones a través de videoconferencia u otro sistema similar que permita la comunicación bidireccional y simultánea de la imagen y el sonido y la interacción visual, auditiva y verbal entre dos personas o grupos de personas geográficamente distantes.
+En el orden jurisdiccional penal, cuando se disponga la presencia física del investigado o acusado, será también necesaria la presencia física del abogado del Estado encargado de su representación y defensa. Cuando se permita la declaración telemática del investigado o acusado, el abogado del Estado encargado de su representación y defensa comparecerá junto con aquel o en la sede del órgano judicial.
+La comparecencia por videoconferencia por parte de la Abogacía del Estado se comunicará al órgano judicial con al menos diez días hábiles de antelación. Este plazo no deberá respetarse cuando el señalamiento de la actuación se haya notificado con una antelación inferior a la indicada.
+2. En los procesos en los que el abogado del Estado intervenga por medios electrónicos, las demás partes procesales podrán comparecer del mismo modo en los términos expuestos en el apartado anterior, si así lo solicitan.
+Se añade por la disposición final 6.2 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#df-6
+ Téngase en cuenta que esta modificación será aplicable exclusivamente a los procedimientos judiciales incoados con posterioridad a su entrada en vigor, según establece la disposición transitoria 11 del citado Real Decreto-ley.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Normas objeto de modificación.
+Los artículos 118.3 y 123.2 de la Ley Reguladora de la Jurisdicción Contencioso-Administrativa, de 27 de diciembre de 1956, y 7.3 y 8.4 de la Ley 62/1978, de 26 de diciembre, de Protección Jurisdiccional de los derechos fundamentales de la persona, quedan modificados debiendo sustituirse la expresión «Abogado del Estado» por «Abogado del Estado o representante procesal de la Administración demandada».
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Adaptación de denominación.
+Las referencias hechas en las disposiciones vigentes y las competencias atribuidas en ellas a la Dirección General de lo Contencioso, y a su titular, y a la Dirección General del Servicio Jurídico del Estado, y su titular, se entenderán en favor de la Dirección del Servicio Jurídico del Estado, y su titular.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Entidades Gestoras y Servicios Comunes de la Seguridad Social.
+Los artículos 2, 4 a 9 y 11 a 16 de la presente Ley serán de aplicación al ámbito de las Entidades Gestoras y Servicios Comunes de la Seguridad Social en la medida en que, atendida la naturaleza de las mismas y lo dispuesto por las leyes vigentes, aquellos preceptos que les sean aplicables, si bien las referencias contenidas en aquellos a los abogados del Estado y a la Abogacía General del Estado, al Servicio Jurídico del Estado o a la Dirección del Servicio Jurídico del Estado, se entenderán efectuadas, respectivamente, a los letrados de la Administración de la Seguridad Social, al Servicio Jurídico de la Administración de la Seguridad Social o a la Secretaría de Estado de la Seguridad Social.
+Se modifica por la disposición final 4.1 de la Ley Orgánica 5/2024, de 11 de noviembre. Ref. BOE-A-2024-23630#df-4
+ Se modifica por la disposición final 6.3 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#df-6
+ Téngase en cuenta que esta modificación será aplicable exclusivamente a los procedimientos judiciales incoados con posterioridad a su entrada en vigor, según establece la disposición transitoria 11 del citado Real Decreto-ley.
+ Se modifica por la disposición final 1 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Aplicación a las Comunidades Autónomas.
+1. Los artículos 11, 12, 13.1, 14, 15 y 16 se dictan al amparo de la competencia reservada al Estado en el artículo 149.1.6.ª de la Constitución, en materia de legislación procesal.
+2. Las reglas contenidas en dichos artículos serán de aplicación a las comunidades autónomas y entidades públicas dependientes de ellas.
+3. En cuanto a lo dispuesto en el artículo 15, cuando sean parte en el procedimiento las comunidades autónomas y entidades de Derecho público dependientes de las mismas, serán también competentes los juzgados y tribunales que tengan su sede en la capital de la comunidad autónoma en el caso de que la misma no sea capital de provincia.
+Se modifica por la disposición final 6.4 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#df-6
+ Téngase en cuenta que esta modificación será aplicable exclusivamente a los procedimientos judiciales incoados con posterioridad a su entrada en vigor, según establece la disposición transitoria 11 del citado Real Decreto-ley.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Unidad de doctrina.
+El Gobierno adoptará las medidas organizativas necesarias para hacer efectivo el principio de unidad de doctrina en el ámbito de la asistencia jurídica al Estado y sus Organismos autónomos y demás entes públicos estatales.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Cortes Generales y Junta Electoral Central.
+Las referencias que en esta Ley se hacen a la Dirección del Servicio Jurídico del Estado se entenderán hechas, respectivamente, a los Presidentes y Mesas de las Cortes Generales, del Congreso de los Diputados y del Senado, y al Presidente de la Junta Electoral Central, cuando se trate del asesoramiento jurídico, representación y defensa de estos Órganos de acuerdo con las normas que les son propias. En estos mismos casos, las menciones a los Abogados del Estado se entenderán hechas a los Letrados de las Cortes Generales.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Aplicación de la Ley Orgánica del derecho de defensa a la asistencia jurídica al Estado e instituciones públicas.
+1. En la asistencia jurídica letrada que presten los abogados del Estado, los letrados de las Cortes Generales, los letrados de la Administración de la Seguridad Social y los restantes letrados previstos en la presente ley:
+a) Actuarán con libertad de criterio técnico con sujeción en todo caso a las instrucciones emanadas por el centro directivo que ejerza la dirección de la asistencia jurídica, en el marco del principio de unidad de doctrina.
+b) Les serán de aplicación los artículos 16, 17 y 18 de la Ley Orgánica del derecho de defensa.
+c) Adecuarán su conducta a las normas éticas vigentes en la administración o entidad pública respectiva y a los criterios derivados de los principios deontológicos, y cumplirán con las exigencias derivadas de los principios de buena fe, lealtad, confidencialidad y colaboración con la Administración de Justicia.
+2. En caso de conflicto de intereses, se atenderá necesariamente la asistencia jurídica letrada que deba prestarse por norma legal o reglamentaria, salvo que el supuesto de conflicto se contemple en una norma legal que lo regule de forma expresa o que exista autorización expresa de ambas partes.
+3. El personal al servicio del Estado, de los órganos constitucionales y de las administraciones públicas o entidades públicas que asuma en virtud de esta ley las funciones de asistencia jurídica letrada está dispensado de la obligación de colegiación y no quedará sometido al régimen disciplinario colegial. La garantía institucional del ejercicio de la función de asistencia jurídica letrada y el régimen disciplinario de estos empleados públicos corresponderán a los centros directivos que dirigen los servicios jurídicos en los que se integren.
+Se añade por la disposición final 4.2 de la Ley Orgánica 5/2024, de 11 de noviembre. Ref. BOE-A-2024-23630#df-4
+
+### Disposición transitoria única
+
+Disposición transitoria única. Régimen transitorio de las actuaciones procesales.
+Las normas de la presente Ley se aplicarán a todas las actuaciones procesales que se realicen a partir de su entrada en vigor, cualquiera que sea la fecha de iniciación del proceso en que aquéllas se produzcan.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Normas que se derogan.
+Quedan derogados:
+a) Los artículos 35, 123, apartado 4, y 131, apartado 4, de la Ley de 27 de diciembre de 1956, reguladora de la Jurisdicción contencioso-administrativa.
+b) Los apartados segundo, tercero y cuarto del ar tículo 71 de la Ley de Enjuiciamiento Civil.
+c) Con carácter general, cuantos preceptos de igual o inferior rango se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo de la presente Ley.
+El Gobierno, en el plazo de seis meses, aprobará las normas reglamentarias de ejecución y desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Adaptaciones presupuestarias.
+Por el Ministerio de Economía y Hacienda, así como por los demás Ministerios afectados, se realizarán las modificaciones presupuestarias, transferencias y habilitaciones de créditos que sean precisas para el cumplimiento de lo previsto en esta Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor a los veinte días de su completa publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 27 de noviembre de 1997.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

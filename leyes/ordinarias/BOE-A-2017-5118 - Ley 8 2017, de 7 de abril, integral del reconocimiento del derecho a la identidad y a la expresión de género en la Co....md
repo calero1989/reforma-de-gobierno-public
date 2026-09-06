@@ -1,0 +1,698 @@
+# Ley 8/2017, de 7 de abril, integral del reconocimiento del derecho a la identidad y a la expresión de género en la Comunitat Valenciana.
+
+- Identificador BOE: `BOE-A-2017-5118`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2017-5118
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en DOGV núm. 8059, de 9 de junio de 2017. Ref. BOE-A-2017-7173.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos y todas las ciudadanas que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del rey, promulgo la siguiente Ley:
+PREÁMBULO
+La identidad de género es la vivencia interna e individual del género tal como cada persona la siente. La idea de que esta circunstancia personal puede corresponder o no con el sexo asignado en el nacimiento no es unánime en el conjunto de la sociedad ni entre la comunidad científica, ya que existen diferentes visiones antropológicas y valoraciones científicas que en ocasiones pueden ser contrapuestas. Se aborda este tema con el respeto a los distintos enfoques, teniendo como premisa la libertad de cada individuo, sin entrar en contradicción con el derecho natural ni derechos fundamentales que son la base de nuestro ordenamiento jurídico.
+La existencia de personas trans, cuya identidad de género sentida no corresponde con la que le asignaron al nacer, está presente en todas las culturas de la humanidad y en todo tiempo histórico.
+Las respuestas que las distintas sociedades han dado a esta realidad han sido muy diversas a lo largo del tiempo y en las distintas geografías del mundo. Algunas han aceptado en su seno esta realidad promoviendo su integración. Otras han manifestado diversos grados de rechazo y represión de las expresiones de identidad de género, provocando graves violaciones de derechos de las personas trans.
+Si bien es cierto que se debe intentar resolver cualquier injusticia particular o social que se produzca, no es menos cierto que en no pocas ocasiones se resuelve una injusticia con otra de sentido contrario, o dicho de otro modo, queriendo proteger a ciertos colectivos se podría caer en el error de desproteger a otros, y esto nos lleva a la necesidad de crear un marco normativo que reconozca el derecho a la identidad de género y a la libre expresión del género sentido, y dotarlo de las herramientas adecuadas para hacerlo efectivo, sin por eso cercenar la libertad individual y derechos fundamentales comúnmente basados en el derecho natural.
+Intentar establecer criterios que sirvan de premisa a las actuaciones legislativas en la sociedad actual, basados en los comportamientos de otras épocas o de otras culturas, es descontextualizar el reto que se nos presenta; sería arduo e interminable el relato de injusticias acontecidas en la historia de la humanidad, en uno y otro sentido, incluso con opiniones contrapuestas según la perspectiva de cada relator, y podrían llevarnos a desenfocar la misión que nos ocupa, que no es otra que el respeto a las distintas visiones que existen en la actualidad en la sociedad valenciana, dentro del marco de la española, y sin perder de vista los derechos fundamentales anteriormente referidos.
+Las normas internacionales sobre derechos humanos consagran como principios básicos la igualdad y la no discriminación. El artículo 1 de la Declaración universal de derechos humanos (1948) establece la afirmación inequívoca de que “todos los seres humanos nacen libres e iguales en dignidad y derechos”. El artículo 2 de la misma declaración afirma posteriormente que “toda persona tiene todos los derechos y libertades proclamados en esta declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición”.
+Mandato que la propia ONU ha declarado en la Resolución 17/19, del Consejo de Derechos Humanos, del año 2011, que implica el derecho a la igualdad de trato ante la ley y el derecho a ser protegido contra la discriminación por diversos motivos, entre ellos la orientación sexual y la identidad de género. Su aprobación abrió el camino al primer informe oficial sobre ese tema, preparado por la Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos, denominado “Leyes y prácticas discriminatorias y actos de violencia cometidos contra personas por su orientación sexual e identidad de género” (2011) y al más reciente informe “Nacidos libres e iguales: Orientación sexual e identidad de género en las normas internacionales de derechos humanos” (2012).
+No obstante, cabe reseñar que el respeto y la no discriminación a la orientación sexual o a la identidad de cada cual no implica imponer un estilo de vida o pensamiento obligatorio a toda la sociedad, ni tampoco implica partir de premisas, al menos discutibles, que pudieran dar lugar a excesos y que por querer evitar discriminación en un sentido, se estén propiciando otras discriminaciones en sentido contrario, por lo que es necesario subrayar la vocación de esta actuación de modificación normativa en el intento de su exquisita neutralidad ideológica.
+En el ámbito de las normas internacionales y teniendo en cuenta la especial relevancia del principio de no discriminación y el derecho a la identidad propia durante los periodos etarios clave, que son la infancia y la adolescencia, la Convención sobre los Derechos de la Infancia (CDN) de 1989 ofrece una fundamentación específica de los derechos humanos para las personas menores de edad.
+La CDN establece la no discriminación como derecho fundamental de las personas menores de edad en su artículo 2: “sin distinción alguna, independientemente de la raza, el color, el sexo, el idioma, la religión, la opinión política o de otra índole, el origen nacional, étnico o social, la posición económica, los impedimentos físicos, el nacimiento o cualquier otra condición del niño, de sus padres o de sus representantes legales”. La no discriminación es además principio rector de la CDN. En su artículo 8 establece que los estados “respetarán el derecho del niño a preservar su identidad […] y a prestar asistencia y protección apropiadas” cuando sea privado ilegalmente de algunos de los elementos de su identidad. En su artículo 12 establece que se debe garantizar el derecho de las personas de menos de 18 años “de expresar su opinión libremente en todos los asuntos que afectan al niño, teniéndose debidamente en cuenta las opiniones del niño, en función de la edad y madurez del niño” y la obligación de dar “la oportunidad de ser escuchado en todo procedimiento judicial o administrativo que afecte al niño, ya sea directamente o por medio de un representante o de un órgano apropiado, en consonancia con las normas de procedimiento de la ley nacional”.
+En el ámbito europeo, la Carta de derechos fundamentales de la Unión Europea (2000) establece que “la Unión está fundada sobre los valores indivisibles y universales de la dignidad humana, la libertad, la igualdad y la solidaridad”. Y prohíbe de forma expresa en el artículo 21 “toda discriminación” y, en particular, la ejercida “por razón de sexo, raza, color, orígenes étnicos o sociales, características genéticas, lengua, religión o convicciones, opiniones políticas o de cualquier otro tipo, pertenencia a una minoría nacional, patrimonio, nacimiento, discapacidad, edad u orientación sexual”.
+Sobre esta base, la Unión Europea ha construido un sólido cuerpo de normas y resoluciones dirigido a garantizar la libre manifestación de la identidad de género de las personas sin discriminación. Entre dichos elementos normativos podemos señalar de manera no exhaustiva las resoluciones del Parlamento Europeo de 12 de septiembre de 1989, de 8 de febrero de 1994, de 18 de enero de 2006, de 24 de mayo de 2012, de 24 de junio de 2013 y de 4 de febrero de 2014, todas ellas relativas a la igualdad de derechos de las personas trans o los efectos colaterales de directivas como la 2000/78/CE, del Consejo, relativa al establecimiento de un marco general para la igualdad de trato en el empleo y la ocupación. Es necesario mencionar, por su pertinencia al caso, las directrices para promover y proteger el disfrute de todos los derechos humanos por las personas LGBTI, aprobadas por el Consejo de la Unión Europea el 24 de junio de 2013 o los informes de la Agencia de Derechos Fundamentales de la Unión Europea sobre la homofobia, transfobia y discriminación por razón de orientación sexual e identidad de género de los años 2010 y 2014. El Tribunal Europeo de Derechos Humanos también ha dictado diversas sentencias favorables al reconocimiento de la identidad de género, como en el caso P. contra S. y Cornwall Council County, en 1996, o en los casos Christine Godwin contra el Reino Unido e I. contra el Reino Unido en 2002.
+En el ámbito del Consejo de Europa, finalmente, incide en esta materia el Informe del comisario de Derechos Humanos del Consejo de Europa, de julio de 2009, y la Recomendación CM/Rec (2010) 5 del Comité de Ministros del Consejo de Europa a los estados miembros sobre medidas para combatir la discriminación basada en la orientación sexual o la identidad de género, adoptada el 31 de marzo de 2010.
+Todas estas normas y resoluciones establecen un marco normativo en el que se solicita a los estados el reconocimiento de las libres manifestaciones de la identidad y la expresión de género, la prohibición de toda discriminación por dicha causa, el apoyo médico a las personas trans y el establecimiento de procesos legales claros y transparentes que hagan posible y efectivo dicho derecho.
+En esta misma línea, en España el artículo 14 de la Constitución española (1978) declara que “los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquiera otra condición o circunstancia personal o social». La aplicación de este artículo constitucional, número 14, no implica sin embargo que se deba hacer énfasis en unos aspectos en detrimento de otros, por lo que la no discriminación por motivos de identidad, asunto muy loable, no debe confrontarse con otros derechos, tales como la libertad de expresión y divulgación de ideas, la libertad de disidencia en la investigación científica que entra en el ámbito de la libre opinión, ni tampoco el derecho a la libertad de los padres a educar a sus hijos según sus criterios morales y éticos (artículo 27.3 de la Constitución). Es, por tanto, que hacer compatibles todos estos derechos es una ardua tarea y sin duda, compleja, pero necesaria en un estado de derecho, y misión inequívoca de esta modificación de la norma que nos ocupa. De lo contrario, se podría dar la paradoja de que todos somos iguales, pero unos más iguales que otros. Esta norma, por tanto, pretende el respeto a todos con sus diferencias, donde todos tengan cabida y la “no discriminación” abarque a todos.
+Es por lo que el artículo 9.2 establece que “corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica cultural y social”, tras reconocer como derecho fundamental, en el artículo 10, el del libre desarrollo de la personalidad. Los artículos 18, 27, 35 y 43 reconocen igualmente el respeto a la intimidad y a la propia imagen, el derecho a la educación, al trabajo y a la protección de la salud.
+En desarrollo de este mandato de respeto a la identidad, se promulgó la Ley 3/2007, de 15 de marzo, reguladora de la rectificación registral de la mención relativa al sexo de las personas, que permite el cambio de la inscripción relativa al sexo en el registro civil y, con ello, el cambio del nombre, de la documentación oficial y del estatus ciudadano adscrito al sexo registrado. La ley española de cambio de sexo registral fue, de hecho, un hito histórico por desvincular por primera vez el pleno ejercicio de los derechos civiles vinculados al registro de las cirugías genitales y ha servido de modelo a las leyes de identidad trans posteriores aprobadas en países tan diversos como Uruguay (2009) y Portugal (2011). Posteriormente llegarían otras leyes, como la de Argentina (2012), que es la primera en despatologizar de manera completa la identidad trans.
+El Estado español, sin embargo, no se ha limitado al simple reconocimiento del cambio de sexo registral, pues son muchas las normas que proscriben la discriminación en el trabajo, y la identidad de género ha recibido tutela igualmente en la Ley Orgánica 8/2015, de 22 de julio, de protección a la infancia y la adolescencia, o en la reciente reforma del Código penal.
+En el ámbito autonómico se han desarrollado bien leyes específicas en Navarra (2009), País Vasco (2012), Andalucía (2014), Canarias (2014) y, más recientemente, Madrid (2016); bien leyes para el conjunto del colectivo LGTBI en Galicia (2014), Cataluña (2014) y Extremadura (2015), dando un paso adelante al garantizar no sólo el reconocimiento de la identidad de género en sus respectivos territorios, sino al añadir igualmente una cartera de servicios y políticas públicas a favor de la inclusión de las personas trans en la sociedad.
+Resulta esencial el reconocimiento legal del derecho a la identidad de género de toda persona en un ejercicio libre y sin presiones legales o sociales como corolario de los derechos constitucionales a la igualdad de todas las personas y al libre desarrollo de su personalidad. Y como concreción de dicho reconocimiento, garantizar que la ley aplicable a las personas no las patologiza o somete a condición de prejuicio sobre su capacidad, dignidad y habilidades.
+El concepto de identidad de género se refiere a la vivencia interna e individual del género, tal y como cada persona la siente profundamente, incluyendo la vivencia personal del cuerpo y otras como la vestimenta, el modo de hablar y de expresarse. La identidad de género está generalmente acompañada del deseo de vivir y recibir aceptación como miembro de dicho género e incluso del deseo irrenunciable de modificar, mediante métodos hormonales, quirúrgicos o de otra índole, el propio cuerpo para hacerlo lo más congruente posible con el género sentido como propio cuando no se corresponde con el asignado al nacer.
+La presión social, familiar y el ámbito laboral, por otro lado, pueden crear situaciones en las que es conveniente el apoyo psicológico para una mejor autointegración del proceso de cambio para hacer frente a dicha presión. Todo ello, sin embargo, ha de hacerse a requerimiento de la persona interesada y sin un sometimiento a patrones fijos de manifestación de la sexualidad o de la identidad, ya que cada persona es única en sus características y vivencias al respecto. Ha de entenderse que muchas personas trans no demandan que se les preste apoyo médico porque se sientan enfermas, sino porque necesitan adaptar su cuerpo a su identidad de género, debido a los obstáculos sociales que encuentran a su libre desarrollo como personas que realizan una manifestación libre de su género. Y también ha de entenderse que a partir del comienzo de la “transición trans” sí que van a necesitar asistencia médica, de por vida, lo que en justicia debe obligarnos a un consentimiento informado en toda regla, según se deriva de la declaración de Helsinki, que establece la necesidad de contar con el consentimiento informado por escrito del sujeto, al que se debe explicar sin ocultación alguna, de forma profesional y objetiva, cuál es el tratamiento a seguir, las consecuencias y posibles trastornos de estos.
+Asimismo, hay que señalar que asociaciones de pediatría y otras organizaciones médicas afirman que la única evidencia sólida con respecto a las intervenciones de cambio de sexo en menores es el riesgo muy grave que representa para la salud de los niños y recomienda esperar a la edad adulta para tomar estas importantes decisiones.
+Es muy importante también subrayar que las personas que manifiestan su condición de trans no son un colectivo homogéneo ni en sus pretensiones respecto a la manifestación de su identidad en el campo social, ni en sus requerimientos de asistencia, por lo que no procede imponer itinerarios únicos o modelos estereotipados de identidad que puedan convertirse, a su vez, en vulneraciones de los derechos de dichas personas. Este razonamiento nos abre la puerta a pensar que se debe respetar la libertad del individuo por encima de consideraciones previas que pueden ser controvertidas, ideológicas o al menos discutibles. Por tanto, esta libertad tan ensalzada debe concretarse en el respeto a la solicitud de cualquier posible ayuda o acompañamiento a aquellas personas que manifiestan esta disconformidad con su situación física o biológica y, en todo caso, respetar a aquellos que quieran explorar otras posibilidades que no se circunscriban a las terapias hormonales o quirúrgicas, abriendo la puerta a otras opciones que en su libre y consentida decisión pudieran ejercer como individuos libres e iguales ante la ley y, por lo tanto, tal y como reconoce la Resolución del Parlamento Europeo, de 12 de septiembre de 1989, sobre la discriminación de las personas trans, ha de ser cada persona quien establezca los detalles sobre su identidad como ser humano y debe respetarse cualquier itinerario que el ser humano decida recorrer. Del mismo modo se deduce del Pacto internacional de derechos civiles y políticos, firmado por España.
+La Comunitat Valenciana se sumó en 2008 a otras comunidades autónomas que, varios años atrás (Andalucía fue pionera casi una década antes) comenzaron a asumir en la sanidad pública la atención a las personas trans, incluyendo en la cartera de servicios la atención psicológica, el tratamiento hormonal y las cirugías extirpadoras de las gónadas sexuales. Más adelante, se incluirían también otras cirugías, como la implantación de prótesis mamarias y la mastectomía. Estas intervenciones, siendo importantes, no cubren aspectos tan necesarios como la plena inclusión de las personas trans en la sociedad, como el amparo en las fases iniciales del proceso de declaración de la propia identidad sentida ante la evidente presión social y, en ocasiones, ante la evidencia de la violencia transfóbica o ante la obvia dificultad que se observa para la integración laboral de las personas trans que, como colectivo, acumulan uno de los índices más alarmantes de exclusión social. La situación de vulnerabilidad de las personas trans se manifiesta con especial necesidad en las de dependencia por edad avanzada, situaciones a las que ha de prestarse especial atención. La ley, por otro lado, atiende a la extrema situación de vulnerabilidad de las personas trans migrantes, colectivo que recibe amparo en nuestro territorio, muchas veces huyendo de situaciones de violencia y exclusión extremas y que sufre una fuerte situación de exclusión por la acumulación de las condiciones de extranjería, identidad trans y no amparo por las leyes estatales de cambio de sexo registral.
+Esta ley, por ello, promueve una atención médica y social integral, basada en el principio del respeto a la libre manifestación de la identidad de género de todas las personas, en una base de respeto a la igualdad y a la dignidad de todas ellas. Asimismo, se pretende que sea un instrumento de normalización de la identidad trans, como realidad visible, con el fin de evitar que haya personas trans que oculten su condición por temor a la desaprobación social, así como otras consecuencias negativas de su visibilidad social para empezar a sentar las bases de un cambio necesario en la concepción de dicha realidad.
+El Estatuto de autonomía de la Comunitat Valenciana (2006) contempla, entre sus competencias, el poder para defender y promover el adecuado ejercicio de los derechos y deberes fundamentales de su ciudadanía, así como las competencias en materia de organización administrativa y de los servicios públicos, en la protección y tutela de los menores, en la promoción del empleo, servicios sociales, la regulación, administración y gestión de la enseñanza y de las instituciones sanitarias públicas, protección civil y seguridad pública. Todo ello la habilita para realizar un planteamiento de atención integral en las diversas materias que afectan a la situación de las personas trans sin necesidad de interferir en las competencias estatales o de otras administraciones. La presente ley, por ello, no define cuáles son los presupuestos para el cambio de nombre o sexo registral en el registro civil y, de hecho, define sus propios ámbitos de actuación basándose en las necesidades de atención de las personas trans y en las manifestaciones de su ciudadanía sobre un principio de libre manifestación de su condición y de la necesidad de amparo en la ley.
+Esta ley se estructura en seis títulos, nueve capítulos, dos disposiciones adicionales, una disposición transitoria, una disposición derogatoria y dos disposiciones finales.
+El título I, disposiciones generales, contiene una serie de disposiciones de carácter general en las que se recogen el objeto de la ley, su ámbito de aplicación y unas definiciones para facilitar la interpretación de esta norma, así como los principios de actuación de las administraciones públicas de la Comunitat Valenciana en materia de identidad y expresión de género.
+El título II establece los derechos que la ley otorga en favor de las personas a quienes les es de aplicación, se establece de forma tajante la prohibición de discriminación y se hace especial referencia a los menores trans.
+En el título III se desarrolla el servicio de asesoramiento y apoyo para personas trans y establece los principios de la actuación administrativa.
+En el título IV, de la atención y medidas en favor de las personas trans, se establecen las bases para una política pública en materia de identidad y expresión de género. Se encuentra dividido en nueve capítulos.
+En el capítulo 1 se contempla la atención sanitaria a las personas trans, estableciendo sus derechos en esta materia y la cartera de servicios a la que tendrán acceso. Este capítulo también hace referencia a los tratamientos a menores trans, incluyendo el acompañamiento parental durante el proceso. Para hacerlo efectivo, se crean las unidades asistenciales de referencia para la identidad de género y se establecen una serie de medidas para la formación de profesionales, la realización de guías de recomendaciones y el establecimiento de estadísticas.
+En el capítulo 2 se establecen las actuaciones en materia de identidad de género, expresión de género y diversidad sexual en el ámbito educativo; entre ellas, un protocolo de atención educativa a la identidad de género que respete la identidad sentida de las personas trans en los centros educativos, la adopción de medidas para incorporar contenidos educativos sobre la identidad y expresión de género, la diversidad sexual y familiar en los diferentes ciclos formativos y acciones de formación y divulgación. También se establecen acciones en el ámbito universitario, como el impulso de la investigación sobre la identidad y la expresión de género.
+En el capítulo 3, medidas en el ámbito laboral y de la responsabilidad social, se establecen las medidas en el ámbito laboral y de la responsabilidad social, incluyendo políticas de fomento de la igualdad y no discriminación en el empleo para el colectivo de personas trans.
+El capítulo 4, medidas en el ámbito social, se establecen las medidas para la inserción social de las personas trans, medidas de apoyo y protección en situaciones de especial vulnerabilidad y una referencia a la atención a víctimas de violencia por transfobia.
+En el capítulo 5, medidas en el ámbito familiar, se incluyen medidas de apoyo a la diversidad familiar por razones de identidad de género y el reconocimiento como violencia familiar la producida dentro de la familia por causa de identidad de género.
+El capítulo 6, de medidas en el ámbito de la juventud y las personas mayores, establece medidas de protección para personas trans jóvenes y mayores.
+El capítulo 7, de medidas en el ámbito del ocio, la cultura y el deporte, establece medidas para la promoción de una cultura inclusiva, diversa y promotora de derechos y para garantizar la plena igualdad en el ámbito de la práctica deportiva y la actividad física.
+El capítulo 8, medidas en el ámbito de la seguridad y emergencias, establece la creación de un protocolo de atención a la identidad de género y medidas de formación para garantizar en este ámbito un trato respetuoso.
+Y, finalmente, el capítulo 9, medidas administrativas para garantizar la igualdad real y efectiva de las personas en atención a la identidad y expresión de género, trata sobre la contratación administrativa, las subvenciones y la formación del personal empleado público.
+El título V, medidas de tutela administrativa, establece garantías y el procedimiento para luchar contra las conductas discriminatorias.
+El título VI, las infracciones y sanciones de esta ley serán las recogidas en la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI.
+Por último, la ley cuenta con dos disposiciones adicionales, una relativa a los plazos de residencia a efectos de la renta garantizada de ciudadanía y otra sobre el respeto a la intimidad de las personas usuarias de las residencias de personas mayores, una disposición transitoria, una disposición derogatoria y dos disposiciones finales.
+Se modifica por el art. 123 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. Esta ley tiene por objeto establecer un marco normativo adecuado para garantizar el derecho de autodeterminación de género de las personas que manifiesten una identidad de género sentida diferente a la asignada en el momento del nacimiento.
+2. A los efectos establecidos en el apartado anterior, la ley regula los principios, medidas y procedimientos destinados a garantizar los derechos que esta reconoce para todas las personas residentes en la Comunitat Valenciana.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. Esta ley será de aplicación a cualquier persona física o jurídica, pública o privada, cualquiera que sea su edad, domicilio o residencia, que se encuentre o actúe en el ámbito territorial de la Comunitat Valenciana.
+2. La Generalitat, las diputaciones y los ayuntamientos, así como cualquier entidad de derecho público o privado vinculada o dependiente de estas instituciones, garantizarán el cumplimiento de la ley y promoverán las condiciones para hacerla efectiva en el ámbito de sus respectivas competencias.
+
+### Artículo 3
+
+Artículo 3. Principios generales.
+La Generalitat reconoce la libertad, dignidad e igualdad de las personas trans. Las personas nacen libres e iguales en dignidad y derechos, con independencia de su identidad o expresión de género.
+Las administraciones públicas de la Comunitat Valenciana deberán respetar en todas sus actuaciones el derecho a la autodeterminación de la identidad de género y promoverán el derecho de las personas objeto de esta ley a ser tratadas de acuerdo con la identidad de género a la que sienten pertenecer.
+La Generalitat velará para que el derecho a la autodeterminación de la identidad de género se integre en la adopción y ejecución de las disposiciones normativas de la Comunitat Valenciana.
+Se modifica el segundo párrafo por el art. 124 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 4
+
+Artículo 4. Definiciones.
+A los efectos previstos en esta ley, se entenderá por:
+1. Identidad de género: vivencia interna e individual del género tal y como cada persona la siente y autodetermina, pudiendo o no corresponder con el sexo asignado en el momento del nacimiento.
+2. Expresión de género: manifestación de cada persona de su identidad de género.
+3. Trans: toda aquella persona que se identifica o expresa con una identidad de género diferente del sexo que le fue asignado al nacer, incluyendo las personas transexuales y transgénero.
+4. Proceso de transición: Proceso personal y único de autoafirmación de la propia identidad que persigue la adaptación progresiva a la identidad de género sentida. Corresponde a cada persona decidir en qué momento inicia este proceso.
+5. Discriminación directa: existirá cuando una persona haya sido, sea o pueda ser tratada de modo menos favorable que otra en situación análoga o comparable por motivos de su identidad o expresión de género.
+6. Discriminación indirecta: existirá cuando una disposición, criterio o práctica aparentemente neutros, puedan ocasionar una desventaja particular a personas por motivos de su identidad o expresión de género.
+7. Discriminación múltiple: existirá cuando además de discriminación por motivo de identidad o expresión de género, una persona sufra de forma simultánea discriminación por otros motivos recogidos en la legislación europea, nacional o autonómica.
+8. Discriminación por asociación: se produce cuando una persona es objeto de discriminación por su relación con una persona o grupo trans.
+9. Acoso discriminatorio: existirá cuando cualquier comportamiento o conducta que por razones de identidad o expresión de género, se realice con el propósito o el efecto de atentar contra la dignidad de una o varias personas y de crear un entorno intimidatorio, hostil, degradante, ofensivo o segregado.
+10. Represalia discriminatoria: existirá cuando un trato adverso o efecto negativo se produce contra una persona como consecuencia de la presentación de una queja, una reclamación, una denuncia, una demanda o un recurso, de cualquier tipo, destinado a evitar, disminuir o denunciar la discriminación o el acoso al que está sometida o ha sido sometida por motivo de su identidad o expresión de género.
+11. Victimización secundaria: maltrato adicional ejercido contra una persona que, siendo víctima de discriminación, acoso o represalia por motivo de su identidad o expresión de género, sufre las consecuencias adicionales de la mala o inadecuada atención por parte de los responsables administrativos, instituciones de salud, policía o cualquier otro agente implicado.
+Se suprime el apartado 9 y se renumeran los apartados 10 a 12 como 9 a 11 por el art. 125 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Redactado el apartado 5 conforme a la corrección de errores publicada en DOGV núm. 8059, de 9 de junio de 2017. Ref. DOCV-r-2017-90375.
+
+## TÍTULO II
+
+Derechos
+
+### Artículo 5
+
+Artículo 5. Derechos.
+1. Las personas a quienes les es de aplicación la presente ley tendrán los siguientes derechos:
+a) Al reconocimiento de su identidad de género libremente manifestada, sin la necesidad de prueba psicológica o médica.
+b) Al libre desarrollo de la personalidad acorde a su identidad y expresión de género.
+c) A ser tratadas de conformidad a su identidad de género en todos los ámbitos públicos y privados, salvando las circunstancias que entren en contradicción o vulneren derechos de otras personas, para lo que se buscarán y propiciarán los modos más adecuados de conjugar todos los derechos vigentes en las leyes y normas de convivencia en intentar hacerlos compatibles siempre que sea posible.
+d) A que se respete y proteja su integridad física y psíquica, así como sus decisiones en relación a su identidad y expresión de género.
+e) A recibir de la Generalitat una atención integral y adecuada a sus necesidades médicas, psicológicas, jurídicas, educativas, sociales, laborales y culturales en referencia al desarrollo de su identidad y expresión de género.
+f) A que se proteja el ejercicio efectivo de su libertad y a no sufrir discriminación por motivo de identidad o expresión de género en todos los ámbitos de la vida.
+2. Lo dispuesto en la presente ley se entiende sin perjuicio de los regímenes específicos más favorables establecidos en la normativa comunitaria, estatal o autonómica, siempre que no entre en contradicción con leyes de rango superior o derechos fundamentales en el ámbito de cualquier litigio que pueda suscitarse al respecto de la misma.
+Se modifican los apartado 1.c) y 2 por el art. 126 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 6
+
+Artículo 6. Prohibición de las terapias.
+Se prohíben las terapias que puedan suponer una agresión o intimidación a la persona trans, destinadas a modificar la identidad o expresión de género de estas personas, siendo posible acogerse a acompañamiento siempre que se opte libre y voluntariamente.
+Téngase en cuenta que se suspende la vigencia y aplicación de los incisos destacados, en la redacción dada por el art. 127 de la Ley 5/2025, desde el 26 de febrero de 2026 para las partes del proceso y desde el 6 de mayo de 2026 para los terceros, por providencia del TC de 28 de abril de 2026 que admite a trámite el recurso de inconstitucionalidad nº 1549-2026, Ref. BOE-A-2026-9794, y que se mantiene la suspensión por Auto del TC 45/2026, de 7 de julio. Ref. BOE-A-2026-16931
+Se mantiene la suspensión de la vigencia y aplicación de los incisos destacados, en la redacción dada por el art. 127 de la Ley 5/2025, por Auto del TC 45/2026, de 7 de julio. Ref. BOE-A-2026-16931
+ Se suspende la vigencia y aplicación de los incisos destacados, en la redacción dada por el art. 127 de la Ley 5/2025, desde el 26 de febrero de 2026 para las partes del proceso y desde el 6 de mayo de 2026 para los terceros, por providencia del TC de 28 de abril de 2026 que admite a trámite el recurso de inconstitucionalidad nº 1549-2026. Ref. BOE-A-2026-9794
+ Se modifica por el art. 127 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 7
+
+Artículo 7. No discriminación por motivo de identidad o expresión de género.
+Se prohíbe toda forma de discriminación por razón de identidad o expresión de género, incluyendo la discriminación, directa o indirecta, por asociación, la discriminación múltiple, el acoso, la inducción, orden o instrucción de discriminar, las represalias o el incumplimiento de las medidas de acción positiva derivadas de obligaciones normativas o convencionales.
+Se modifica por el art. 128 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 8
+
+Artículo 8. Personas trans menores de edad.
+1. La Generalitat garantizará a las personas trans menores de edad la protección y la atención necesarias para promover el libre desarrollo de su personalidad y su desarrollo integral mediante actuaciones eficaces, con el fin de garantizar su integración familiar y social en el marco de programas coordinados de la administración.
+2. Las personas trans menores de edad tienen derecho a ser escuchadas y a incorporarse progresivamente a los procesos de toma de decisiones siempre bajo el acompañamiento de los tutores legales y su correspondiente autorización o, en su defecto, por la correspondiente autorización judicial.
+3. Toda intervención de la Generalitat, cuando afecte a personas menores de edad, deberá estar presidida por el criterio rector de atención al interés superior del menor y dirigida a garantizar el libre desarrollo de la personalidad conforme a su identidad y expresión de género y a evitar situaciones de sufrimiento e indefensión. En estos casos, se requerirá el imprescindible concurso de los padres o, en su defecto, los representantes legales, los cuales podrán solicitar el consejo y asesoramiento profesional o ayuda que consideren adecuado, público o privado y los informes preceptivos, en la búsqueda de las opciones que busquen el verdadero interés del menor.
+4. Sin perjuicio de las competencias de la fiscalía de menores y las de la Generalitat en materia de protección de menores, el amparo de las personas trans menores de edad en la presente ley se producirá por mediación de sus representantes legales, o a través de los servicios sociales de protección de menores, cuando se aprecie la existencia de situaciones de sufrimiento e indefensión por negación abusiva de su identidad o expresión de género. A fin de determinar cualquier caso de “situación abusiva”, se requerirá del concurso de peritos y profesionales y el asesoramiento adecuado con el objeto de dar a los padres o tutores legales los instrumentos adecuados para la toma de las decisiones más oportunas y en caso de controversia, se requerirá la intervención de un juez y las peritaciones que se recaben por la autoridad judicial.
+Téngase en cuenta que se suspende la vigencia y aplicación de los incisos destacados, en la redacción dada por el art. 129 de la Ley 5/2025, desde el 26 de febrero de 2026 para las partes del proceso y desde el 6 de mayo de 2026 para los terceros, por providencia del TC de 28 de abril de 2026, que admite a trámite el recurso de inconstitucionalidad nº 1549-2026, Ref. BOE-A-2026-9794, y que se mantiene la suspensión por Auto del TC 45/2026, de 7 de julio. Ref. BOE-A-2026-16931
+Se mantiene la suspensión de la vigencia y aplicación de los incisos destacados, en la redacción dada por el art. 129 de la Ley 5/2025, por Auto del TC 45/2026, de 7 de julio. Ref. BOE-A-2026-16931
+ Se suspende la vigencia y aplicación de los incisos destacados, en la redacción dada por el art. 129 de la Ley 5/2025, desde el 26 de febrero de 2026 para las partes del proceso y desde el 6 de mayo de 2026 para los terceros, por providencia del TC de 28 de abril de 2026, que admite a trámite el recurso de inconstitucionalidad nº 1549-2026. Ref. BOE-A-2026-9794
+ Se modifican los apartados 2 a 4 por el art. 129 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## TÍTULO III
+
+Tratamiento administrativo de la identidad de género
+
+### Artículo 9
+
+Artículo 9. Documentación administrativa.
+1. Las administraciones públicas competentes adoptarán las medidas necesarias para procurar que la documentación administrativa y los formularios sean adecuados a la diversidad en materia de orientación sexual, expresión de género y características sexuales y a la diversidad familiar.
+2. Al objeto de favorecer una mejor inclusión y evitar situaciones de sufrimiento por exposición pública o discriminación, la Generalitat proveerá a toda persona que lo solicite de la documentación administrativa necesaria y acorde a su identidad de género manifestada, que sean necesarias para el acceso a sus servicios administrativos y de toda índole.
+3. Reglamentariamente se establecerá el procedimiento de acreditación en base a los siguientes criterios:
+a) Podrán solicitar dicha documentación la persona interesada o, en su caso, sus representantes legales.
+b) Los trámites para la expedición de la documentación administrativa prevista en esta ley serán gratuitos, no requerirán de intermediación alguna y en ningún caso implicarán la obligación de aportar o acreditar cualquier tipo de documentación médica.
+c) Se garantizará que las personas sean tratadas de acuerdo con su identidad de género sentida y se respetará la dignidad y privacidad de la persona.
+d) No se alterará la titularidad jurídica de los derechos y obligaciones que correspondan a la persona ni se prescindirá del número del documento nacional de identidad, siempre que este deba figurar. Cuando por la naturaleza de la gestión administrativa se haga necesario registrar los datos que obran en el documento nacional de identidad, se recogerán las iniciales del nombre legal, los apellidos completos y el nombre elegido por razones de identidad de género.
+e) Se habilitarán los mecanismos administrativos oportunos y coordinados para adaptar los archivos, bases de datos y demás ficheros de las administraciones referidas en el artículo 2.2, eliminando el carácter público de aquellos datos que hagan referencia al pasado en el que conste un género distinto del manifestado. Asimismo se mantendrá, con carácter confidencial, el historial médico del sistema sanitario de la Comunitat Valenciana, de conformidad con lo establecido en el apartado anterior.
+f) Para las personas trans procedentes de otros países y con residencia en la Comunitat Valenciana, la documentación administrativa referida anteriormente se entenderá vigente hasta el momento en que puedan proceder al cambio registral en su país de origen u obtengan la nacionalidad española.
+4. La Generalitat facilitará de manera gratuita la documentación administrativa de competencia autonómica que requiera ser actualizada acorde a la identidad de género.
+5. Los ayuntamientos facilitarán de manera gratuita la documentación administrativa de competencia municipal que requiera ser actualizada acorde a la identidad de género.
+6. La Generalitat facilitará el asesoramiento necesario para realizar los cambios oportunos en ficheros de organismos privados o de carácter estatal.
+Se modifican el apartado 1 por el art. 130 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 10
+
+Artículo 10. Servicios de asesoramiento, información y orientación a las personas trans, sus familiares y allegados.
+1. La Generalitat garantizará que las personas trans tengan derecho a:
+a) Un servicio de información, orientación y asesoramiento, asistencia psicológica, legal y asistencia social, con inclusión de sus familiares y personas allegadas en relación con las necesidades de apoyo específicamente ligadas a la condición de persona trans, siguiendo los principios de cercanía y no segregación.
+b) La promoción de la defensa de sus derechos y de lucha contra la discriminación que pudiera padecer en el ámbito social, cultural, laboral y educativo.
+c) Recibir atención adecuada por parte de la Generalitat, así como de aquellas entidades o empresas que desarrollen programas subvencionados por la administración local y autonómica dirigidos a las personas trans.
+Se modifica por el art. 131 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 11
+
+Artículo 11. Principios de la actuación administrativa en materia de identidad de género.
+La actuación de la Generalitat en relación con lo previsto en esta ley se ajustará a los siguientes principios:
+1. Coordinación entre la Generalitat y las administraciones públicas locales, que deberán ajustar sus relaciones recíprocas a los deberes de información mutua, colaboración, coordinación y respeto a los ámbitos competenciales respectivos.
+2. Descentralización y desconcentración en la gestión de los centros y servicios, garantizando la máxima proximidad a las personas usuarias de los mismos y la cobertura de todo el territorio de la Comunitat Valenciana.
+3. Homogeneidad de las prestaciones asistenciales previstas en esta ley, con independencia de la administración que asuma su gestión.
+4. Igualdad de trato y prestaciones entre las personas usuarias, con independencia del municipio de la Comunitat Valenciana en que tengan su residencia.
+5. Suficiencia financiera y de medios materiales para satisfacer las situaciones objeto de protección.
+6. Eficacia y agilidad en la prestación de servicios, especialmente los de carácter urgente o inmediato.
+7. Garantía de la calidad a través del establecimiento de sistemas de control, evaluación y comprobación periódica del desarrollo de esta ley por parte del Consejo Consultivo de la Ley 8/2017 que permitan verificar la eficacia de las actuaciones y servicios previstos en esta ley.
+Se modifica por el art. 132 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 12
+
+Artículo 12. Consejo Consultivo de la Ley 8/2017.
+Se crea un órgano de carácter consultivo denominado Consejo Consultivo de la Ley 8/2017, en el que se encuentren representadas las asociaciones y administraciones competentes en el ámbito de aplicación de esta ley; entendiendo por asociaciones afectadas también las asociaciones de familias y las asociaciones de padres en el ámbito educativo.
+Dicho órgano, cuya composición y régimen de funcionamiento se desarrollará reglamentariamente, se reunirá como mínimo dos veces por año y elevará un informe anual sobre la situación de las personas objeto de esta ley en el ámbito de la Comunitat Valenciana, con propuestas de mejora y adaptación de los servicios o administraciones competentes sobre la base de los hechos que constaten. Dicho informe será remitido a Les Corts Valencianes.
+Se modifica por el art. 133 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 13
+
+Artículo 13. Colaboración en la implementación de políticas.
+La Generalitat colaborará con las asociaciones y el Consejo Consultivo de la Ley 8/2017 en la planificación, diseño, ejecución y evaluación de las políticas contempladas en el ámbito de aplicación de la presente ley.
+Se modifica por el art. 134 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## TÍTULO IV
+
+Políticas de atención a las personas trans y medidas contra la discriminación por motivo de identidad o expresión de género
+
+## CAPÍTULO I
+
+De la atención sanitaria
+
+### Artículo 14
+
+Artículo 14. Protección del derecho a la salud física, mental, sexual y reproductiva.
+Todas las personas tienen derecho al más alto nivel de disfrute de la salud física y mental, incluida la salud sexual y reproductiva, sin discriminación alguna por razón de su identidad de género sentida o expresada.
+El sistema sanitario público de la Comunitat Valenciana:
+1. Garantizará que la política sanitaria sea respetuosa hacia las personas con independencia de su identidad o expresión de género.
+2. Incorporará servicios y programas específicos de promoción, prevención y atención a las necesidades particulares de las personas trans, incluyendo protocolos ginecológicos específicos. Algunas de estas medidas se extenderán a sus familias, parejas y entorno social, en especial cuando sean menores de edad.
+3. Incluirá en las campañas institucionales que se organicen sobre temas de actualidad sanitaria, la realidad de las personas trans.
+4. Garantizará, en el ámbito de la donación de sangre, médula ósea, tejidos y órganos la igualdad de derechos y obligaciones de las personas trans, atendiendo únicamente a los criterios de exclusión de carácter médico que tengan demostrado fundamento científico.
+5. Ofertará todas las prestaciones asistenciales a las que hace referencia esta ley. En el caso de que alguna de ellas no estuviera disponible, se articularán los procedimientos necesarios para su derivación más adecuada, con prioridad en el sistema nacional de salud.
+
+### Artículo 15
+
+Artículo 15. Atención sanitaria a las personas trans.
+1. El sistema sanitario público de la Comunitat Valenciana atenderá a las personas trans conforme a los principios de no discriminación, atención integral, de calidad y respeto a su identidad de género en las mismas condiciones que al resto de las personas usuarias del sistema.
+2. Las personas trans tendrán derecho a:
+a) Acceder a los tratamientos ofertados dentro de la cartera de servicios que les fueran de aplicación.
+b) Recibir información y valoración del proceso de atención individualizado que facilite la toma de decisiones informadas respecto a todos los tratamientos que les afecten. Ningún tratamiento podrá ser aplicado sin obtener previamente el correspondiente consentimiento informado y garantizando que haya sido libre y voluntariamente aceptado conforme a la legislación vigente, poniendo en conocimiento del paciente, los riesgos inherentes a los tratamientos solicitados.
+c) Solicitar en cualquier momento una segunda opinión de los profesionales expertos al respecto de su proceso y tratamiento, en los términos establecidos en la legislación vigente; pudiendo recabarse esta segunda opinión, tanto en el sector público como en el privado, garantizando la independencia de los profesionales.
+d) A la privacidad en todas sus consultas y conversaciones así como a la confidencialidad en el tratamiento de todos sus datos personales, administrativos y clínicos. A este respecto, una vez solicitada la documentación administrativa referida en el artículo 9, se garantizará la expedición de la documentación de identificación para la asistencia sanitaria con el nombre correspondiente a la identidad de género sentida.
+e) Recibir por escrito toda la información recogida en su historial de salud relativa al tratamiento que haya seguido hasta el momento, al objeto de facilitar la continuidad del mismo en caso de desplazarse a otra comunidad autónoma o a otro país.
+3. Dentro de sus competencias, el sistema sanitario público de la Comunitat Valenciana ofertará a las personas trans, y en los casos en que se requiera a las referidas en el artículo 14.2, la siguiente cartera de servicios:
+a) Asesoramiento sexológico.
+b) Terapia farmacológica y hormonal en el proceso de transición hacia el género sentido. En caso de desabastecimiento farmacológico, la conselleria competente en materia de sanidad garantizará el acceso a los medicamentos necesarios, incluyendo la opción de farmacia hospitalaria.
+c) Tratamientos quirúrgicos de cirugía de exéresis de mama y de genitales, de implante de prótesis mamarias y reconstructiva de genitales y otros tratamientos médicos o quirúrgicos para la modificación corporal que aseguren su congruencia con la identidad de género de la persona, incluyendo los necesarios para la modificación del tono y timbre de voz cuando se requieran.
+d) Apoyo psicológico durante las fases de hormonación y cirugías, para llevar a buen término el proceso de transición hacia el género sentido y la adherencia al tratamiento hormonal.
+e) Acceso a las técnicas de reproducción asistida, incluyendo como beneficiarias a todas las personas trans con capacidad gestante y a sus parejas, en las mismas condiciones que el resto de personas usuarias.
+f) Acceso a las técnicas de congelación de tejido gonadal y células reproductivas para su futura recuperación, en las mismas condiciones que el resto de personas usuarias, antes del inicio de cualquier tratamiento que pudiera comprometer su capacidad reproductora.
+La cartera de servicios ofertada se actualizará adaptándose al avance del conocimiento científico, siendo la conselleria competente en materia de sanidad la responsable de su actualización.
+g) Acceso al material de prótesis necesario que requiera la persona trans para llevar a cabo el proceso de transición.
+Se modifica el apartado 2.b) y c) por el art. 135 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 16
+
+Artículo 16. Atención sanitaria de menores.
+1. Las personas trans menores de edad tienen derecho a recibir tratamiento médico proporcionado por profesionales pediátricos, previo examen de dichos profesionales.
+2. Los menores trans tendrán derecho a recibir:
+a) Tratamiento para el bloqueo hormonal al inicio de la pubertad, situación que se determinará utilizando datos objetivos como la medición del nivel de estradiol y testosterona, la velocidad de crecimiento o la madurez de ovarios y gónadas, para evitar el desarrollo de caracteres sexuales secundarios no deseados.
+b) Tratamiento hormonal cruzado en el momento adecuado de la pubertad para favorecer que su desarrollo corporal se corresponda con el de las personas de su edad, a fin de propiciar el desarrollo de caracteres sexuales secundarios deseados.
+Para iniciar el tratamiento farmacológico contarán con el apoyo y acompañamiento de profesionales de la salud mental, infanto-juvenil, mantenido durante todo el proceso y en el caso de que existiera comorbilidad será imprescindible un informe favorable del profesional que esté tratando al menor en dichas patologías.
+Dicho tratamiento se producirá bajo la autorización de quienes posean la tutela de la persona menor de edad o por autorización de juez que los sustituya.
+El protocolo de actuación determinará el procedimiento a seguir en aquellos casos en que el equipo profesional estime la improcedencia por existir circunstancias que pongan en riesgo la salud del menor.
+c) Llegado el caso, acompañamiento y tratamiento en la decisión de desistir o revertir el proceso de la intervención o el tratamiento.
+3. Ante las posibles dudas razonables de madres, padres o tutores a autorizar tratamientos relacionados con la transexualidad o a que se establezca preventivamente un tratamiento de inhibición del desarrollo hormonal, podrá ser requerida la autoridad judicial cuando conste que puede causar un grave perjuicio o sufrimiento al menor, para lo que se podrá requerir o acompañar de los informes periciales, teniendo los padres o tutores legales la potestad de recabarlos en el ámbito público o privado.
+4. A los efectos de que conste la posición o consentimiento del menor en el procedimiento y de conformidad con la legislación en materia de los derechos de los pacientes y de protección de los menores, el menor deberá ser oído en atención a su desarrollo y madurez, siempre si supera los doce años y su consentimiento deberá ser recabado de manera clara e inequívoca si supera los dieciséis años de edad, atendiendo en todo caso a la madurez emocional y cognitiva del menor y los informes profesionales que así lo determinen, recabados por los servicios públicos y por la familia, indistintamente o por ambos. En caso de desacuerdo, se podrá recurrir a la autoridad judicial, quien recabará las peritaciones independientes que considere oportunas y necesarias según su potestad y criterio.
+Téngase en cuenta que se suspende la vigencia y aplicación del inciso destacado de la letra b), así como la letra c), ambas del apartado 2, y de los apartados 3 y 4, en la redacción dada por el art. 136 de la Ley 5/2025, desde el 26 de febrero de 2026 para las partes del proceso y desde el 6 de mayo de 2026 para los terceros, por providencia del TC de 28 de abril de 2026, que admite a trámite el recurso de inconstitucionalidad nº 1549-2026, Ref. BOE-A-2026-9794, y que se mantiene la suspensión por Auto del TC 45/2026, de 7 de julio. Ref. BOE-A-2026-16931
+Se mantiene la suspensión de la vigencia y aplicación del inciso destacado de la letra b), así como la letra c), ambas del apartado 2, y de los apartados 3 y 4, en la redacción dada por el art. 136 de la Ley 5/2025, por Auto del TC 45/2026, de 7 de julio. Ref. BOE-A-2026-16931
+ Se suspende la vigencia y aplicación del inciso destacado de la letra b), así como la letra c), ambas del apartado 2, y de los apartados 3 y 4, en la redacción dada por el art. 136 de la Ley 5/2025, desde el 26 de febrero de 2026 para las partes del proceso y desde el 6 de mayo de 2026 para los terceros, por providencia del TC de 28 de abril de 2026, que admite a trámite el recurso de inconstitucionalidad nº 1549-2026. Ref. BOE-A-2026-9794
+ Se modifica por el art. 136 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 17
+
+Artículo 17. Unidades de referencia para la identidad de género.
+Para llevar a cabo las funciones previstas en esta ley, se crearán unidades de referencia para la identidad de género (UIG), garantizándose al menos una unidad en cada provincia.
+Desde las UIG se proporcionará la atención sanitaria requerida en los procesos de transición y se instrumentará el proceso de atención sanitaria integral a seguir para cada persona trans, conforme a sus circunstancias personales, a su estado de salud y a sus deseos de cambio en la manifestación biológica, acorde con el género sentido como propio, elaborándose un itinerario individual de proceso de transición.
+Para ello, elaborarán los protocolos de actuación sanitaria adecuados a los criterios objetivos y estándares asistenciales en la materia y establecerán los circuitos de derivación más adecuados.
+Su ámbito de referencia será supradepartamental, pudiendo establecerse unidades de ámbito de referencia de la Comunitat Valenciana para las opciones de carácter quirúrgico. Su número será el adecuado para asegurar que las prestaciones ofertadas en estas unidades respondan a los máximos estándares de calidad y garantizando al máximo la accesibilidad.
+Sus funciones se establecerán en la normativa reguladora de las unidades de referencia.
+Estarán constituidas por equipos multidisciplinares de profesionales sanitarios conocedores de la realidad de las personas trans y con experiencia suficiente y demostrada en la materia, tanto de la especialidad concreta en que se enmarque el tratamiento, como de la identidad trans y la diversidad sexual en general.
+
+### Artículo 18
+
+Artículo 18. Formación de los profesionales sanitarios.
+El sistema sanitario público de la Comunitat Valenciana garantizará la formación específica, continuada y actualizada de profesionales sanitarios que atiendan a personas trans.
+Serán obligaciones del sistema sanitario público de la Comunitat Valenciana:
+1. Garantizar que el personal sanitario cuente con la formación adecuada en cuanto a la diversidad sexual y de género, de acuerdo con los principios recogidos en esta ley.
+2. Establecer las medidas adecuadas, en colaboración con las sociedades profesionales correspondientes y con las universidades de la Comunitat Valenciana, para facilitar, en el marco del fomento y participación en las actividades de investigación en el campo de las ciencias de la salud e innovación tecnológica, el derecho del personal sanitario a recibir formación específica de calidad en materia de diversidad sexual y de género.
+3. Promover la realización de estudios, investigación y desarrollo de políticas sanitarias específicas en materia de identidad de género en estrecha colaboración con las sociedades profesionales correspondientes y con las universidades de la Comunitat Valenciana.
+
+### Artículo 19
+
+Artículo 19. Guías de recomendaciones.
+Con el objetivo de facilitar el acceso a las prestaciones y ofrecer la mejor información posible en materia de identidad trans, desde el sistema sanitario público de la Comunitat Valenciana se elaborarán guías de información y recomendaciones sobre los servicios ofertados por la sanidad pública valenciana y con información sanitaria a las personas trans y su entorno.
+
+### Artículo 20
+
+Artículo 20. Estadísticas y tratamiento de datos.
+La conselleria competente en materia de sanidad, teniendo en cuenta las previsiones reguladas en la normativa básica, proporcionará, para el seguimiento de la atención sanitaria de las personas trans, las estadísticas necesarias sobre los resultados de los diferentes tratamientos, terapias e intervenciones que se lleven a cabo, con detalle de las técnicas empleadas, complicaciones y reclamaciones surgidas, así como la evaluación de la calidad asistencial.
+La recogida de los datos anteriores con fines estadísticos se ajustará a los principios de confidencialidad, transparencia, especialidad y proporcionalidad. El secreto estadístico obliga a no difundir, en ningún caso, los datos personales de las personas trans cualquiera que sea su origen.
+Para la elaboración de las estadísticas previstas en el párrafo anterior se creará un fichero automatizado, del que será titular la conselleria competente en materia de sanidad, en los términos previstos en la Ley orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
+
+## CAPÍTULO II
+
+Medidas en el ámbito de la educación
+
+### Artículo 21
+
+Artículo 21. Actuaciones en materia de identidad de género, expresión de género, diversidad sexual y familiar en el ámbito educativo.
+La Generalitat:
+1. Velará porque el sistema educativo sea un espacio respetuoso, libre de toda presión, agresión o discriminación por motivos de identidad de género, expresión de género, diversidad sexual y familiar en cualquiera de sus vertientes o manifestaciones y desarrollará medidas para la efectividad de estos principios.
+2. Para permitir la superación de todo tipo de discriminación en el proyecto educativo de centro y concretamente en la programación general anual de cada curso, se incluirán estas garantías y se garantizará que todos los documentos que organizan la vida, el funcionamiento y la convivencia del centro sean respetuosos con la identidad de género sentida. El equipo directivo garantizará la atención y el apoyo a aquellas personas trans que pertenezcan a la comunidad educativa que pudieran ser objeto de discriminación en las instalaciones del centro o en el entorno educativo, físico o virtual, haciendo compatibles el derecho de las personas que se manifiestan como trans con los derechos de todas las personas restantes de la comunidad educativa en lo referido al uso de espacios públicos, aseos, duchas comunes etc.
+Asimismo, se velará por el respeto de los menores que pudieran sentirse intimidados en privacidad.
+La mencionada protección, que incluirá todas las estrategias pedagógicas y psicopedagógicas al alcance del centro, incorporará al Plan de convivencia e igualdad acciones encaminadas a la no discriminación, así como medidas preventivas y de intervención que den respuesta a posibles casos de vulneración de derechos o violencia.
+El reglamento de régimen interno regulará la catalogación de estas faltas y las medidas disciplinarias a emprender en cada caso, de acuerdo con la normativa reguladora de los derechos y deberes de los diferentes miembros de la comunidad escolar.
+3. Impulsará medidas tendentes a garantizar el respeto efectivo de la diversidad de orientaciones sexuales, así como la aceptación de las diferentes expresiones de identidad de género y evitando comportamientos sexistas y discriminatorios.
+4. Realizará un diagnóstico sobre la situación de la identidad de género, expresión de género, diversidad y familiar en el ámbito educativo, los resultados del cual serán la base para implementar las medidas oportunas.
+5. Incluirá en los currículums de educación infantil, primaria, secundaria, bachillerato, formación profesional, formación de personas adultas y enseñanzas de régimen especial contenidos, criterios e indicadores de evaluación referentes a la identidad y expresión de género, diversidad sexual y familiar existente en la sociedad, incorporándolos de forma transversal a todas las áreas y módulos del currículum, para garantizar un mejor conocimiento y sensibilizar sobre estas realidades. En los mismos se hará referencia, entre otras fuentes, a las normas internacionales que garantizan la protección de los derechos humanos y los principios de igualdad y no discriminación contenidos en los tratados firmados por el Estado español.
+6. Garantizará que los equipos de orientación educativa y psicopedagógica tengan una formación adecuada sobre la identidad de género, expresión de género y diversidad para poder dar apoyo psicopedagógico al alumnado y a las familias que lo necesiten.
+Se modifica por el art. 137 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 22
+
+Artículo 22. Protocolo de atención educativa a la identidad de género.
+1. La Generalitat elaborará y pondrá al alcance de los centros educativos un protocolo de atención educativa a la identidad de género que garantizará:
+a) El respeto a las identidades o expresiones de género que se den en el ámbito educativo y el libre desarrollo de la personalidad del alumnado de acuerdo con su identidad.
+Para ello, el citado protocolo y sin perjuicio que en las bases de datos de la administración educativa se mantengan los datos de identidad registrales, establecerá la adecuación de la documentación administrativa de exposición pública y la que pueda dirigirse al alumnado y sus familias, haciendo figurar el nombre escogido por la persona matriculada, con el consentimiento de sus representantes legales, en los casos que lo requieran.
+En el supuesto de que la persona matriculada no se encuentre en situación de emancipación o no cuente con la suficiente condición de madurez, el nombre será indicado por sus representantes legales, evitando que aparezca en tipografía diferente al del resto del alumnado.
+b) El respeto a la intimidad del alumnado.
+c) La coordinación entre las áreas de educación, sanidad y servicios sociales, con el objetivo de garantizar una rápida detección y actuación ante situaciones discriminatorias o que atenten contra la identidad de género expresada por la o el menor.
+d) Que la comunidad educativa del centro se dirija a las personas trans por el nombre que hayan elegido. Se respetará el nombre elegido en todas las actividades docentes y extraescolares organizadas por el centro.
+e) El respeto a la imagen física, así como la libre elección de su indumentaria según la identidad de género sentida.
+f) Se garantizará el acceso y el uso de las instalaciones del centro de acuerdo con la identidad de género sentida, haciendo compatibles el derecho de las personas que se manifiestan como trans con los derechos de todas las personas restantes de la comunidad educativa en lo referido al uso de espacios públicos, aseos, duchas comunes etc.
+Asimismo, se velará por el respeto de los menores que pudieran sentirse intimidados en privacidad.
+2. La Generalitat coordinará los recursos del sistema educativo y sanitario con el objetivo de prevenir situaciones de riesgo que pongan en peligro el desarrollo integral y garanticen una adecuada protección al alumnado transexual, estableciendo procedimientos para garantizar un adecuado acompañamiento escolar en su proceso de afirmación, además de tutelar su paso por el sistema educativo.
+Al mismo tiempo, las administraciones competentes en la protección de la infancia se ocuparán de detectar, prevenir y solucionar situaciones de acoso o violencia que puedan sufrir como consecuencia de la expresión de una identidad de género no normativa o durante el proceso de transición de género.
+Se modifica el apartado 1.f) por el art. 138 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 23
+
+Artículo 23. Programas y contenidos educativos.
+1. La Generalitat, en el ámbito de sus competencias, adoptará las medidas necesarias para velar para que los contenidos educativos promuevan el respeto y la protección del derecho a la igualdad de todos los alumnos.
+2. El proyecto educativo de centro no tendrá que abordar de forma específica la identidad de género, la expresión de género, la diversidad sexual y familiar. El proyecto educativo será determinado por cada centro, siendo supervisado por el Consejo Escolar, el acompañamiento y opinión de asociaciones de padres de alumnos y, especialmente, en cada caso particular en el que pudiera ocasionarse cualquier controversia o discrepancia, el respeto a la decisión de los padres del menor, todo ello de conformidad con la legislación vigente en la materia.
+Téngase en cuenta que se suspende la vigencia y aplicación del apartado 2, en la redacción dada por el art. 139 de la Ley 5/2025, desde el 26 de febrero de 2026 para las partes del proceso y desde el 6 de mayo de 2026 para los terceros, por providencia del TC de 28 de abril de 2026, que admite a trámite el recurso de inconstitucionalidad nº 1549-2026, Ref. BOE-A-2026-9794, y que se mantiene la suspensión por Auto del TC 45/2026, de 7 de julio. Ref. BOE-A-2026-16931
+3. La Generalitat creará las líneas formativas del profesorado necesarias para que las personas encargadas de coordinar, por un lado, el plan de igualdad y convivencia y, por otro, de aplicar el protocolo de atención educativa a la identidad de género, caso de que se requiera, reciban la formación adecuada para cumplir sus funciones.
+Se mantiene la suspensión de la vigencia y aplicación del apartado 2, en la redacción dada por el art. 139 de la Ley 5/2025, por Auto del TC 45/2026, de 7 de julio. Ref. BOE-A-2026-16931
+ Se suspende la vigencia y aplicación del apartado 2, en la redacción dada por el art. 139 de la Ley 5/2025, desde el 26 de febrero de 2026 para las partes del proceso y desde el 6 de mayo de 2026 para los terceros, por providencia del TC de 28 de abril de 2026, que admite a trámite el recurso de inconstitucionalidad nº 1549-2026. Ref. BOE-A-2026-9794
+ Se modifica por el art. 139 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 24
+
+Artículo 24. Acciones de formación y divulgación.
+1. El personal docente no universitario, a través de los planes de formación del profesorado de la conselleria con competencias en educación, recibirá la formación necesaria y adecuada para conocer e integrar, en caso de que sea necesario, en su labor docente, contenidos relacionados con la identidad de género, la expresión de género, la diversidad sexual y familiar, para prevenir el sexismo y la violencia, así como para contribuir a eliminar actitudes y prácticas discriminatorias.
+2. La administración educativa garantizará la inclusión de formación específica a los equipos directivos de centros educativos para la gestión de la identidad de género, la expresión de género, la diversidad sexual y familiar.
+3. Los centros educativos realizarán, siempre que así se acuerde por el Consejo Escolar y las asociaciones de padres de alumnos y, especialmente, cada uno de los padres afectados, acciones de fomento del respeto a la identidad de género, la expresión de género, la diversidad sexual y familiar con la participación de toda la comunidad educativa y, en particular, con las asociaciones de madres y padres del alumnado.
+Téngase en cuenta que se suspende la vigencia y aplicación del inciso destacado del apartado 1, y del apartado 3, en la redacción dada por el art. 140 de la Ley 5/2025, desde el 26 de febrero de 2026 para las partes del proceso y desde el 6 de mayo de 2026 para los terceros, por providencia del TC de 28 de abril de 2026, que admite a trámite el recurso de inconstitucionalidad nº 1549-2026, Ref. BOE-A-2026-9794, y que se mantiene la suspensión por Auto del TC 45/2026, de 7 de julio. Ref. BOE-A-2026-16931
+4. En esta línea, los centros educativos podrán incluir en sus planes de formación del profesorado cursos de formación impartidos por profesionales u organizaciones que trabajan por el respeto a la identidad de género, la expresión de género, la diversidad sexual y familiar. Estas acciones tendrán que constar en la programación general anual de los centros educativos para que puedan impartirse en cada uno de los centros.
+Se mantiene la suspensión de la vigencia y aplicación del inciso destacado del apartado 1, y del apartado 3, en la redacción dada por el art. 140 de la Ley 5/2025, por Auto del TC 45/2026, de 7 de julio. Ref. BOE-A-2026-16931
+ Se suspende la vigencia y aplicación del inciso destacado del apartado 1, y del apartado 3, en la redacción dada por el art. 140 de la Ley 5/2025, desde el 26 de febrero de 2026 para las partes del proceso y desde el 6 de mayo de 2026 para los terceros, por providencia del TC de 28 de abril de 2026, que admite a trámite el recurso de inconstitucionalidad nº 1549-2026. Ref. BOE-A-2026-9794
+ Se modifica por el art. 140 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 25
+
+Artículo 25. Universidad.
+1. Las universidades de la Comunitat Valenciana garantizarán el respeto y la protección del derecho a la igualdad y no discriminación por cuestiones relacionadas con la identidad de género, la expresión de género, la diversidad sexual y familiar en cualquiera de sus manifestaciones. Esta protección se aplicará sobre toda la comunidad universitaria.
+2. Las universidades adaptarán el protocolo educativo al que hace referencia el artículo 22, para atender al alumnado trans, incluyendo medidas de seguimiento y de coordinación con los centros de acceso.
+3. La Generalitat, en colaboración con las universidades valencianas, promoverá acciones informativas, divulgativas y formativas en torno a la identidad de género, la expresión de género, la diversidad sexual y familiar en cualquiera de sus manifestaciones, que permitan detectar, prevenir y corregir acciones de discriminación o acoso en el contexto universitario, así como evitar la impartición de contenidos discriminatorios hacia la persona por estos motivos.
+Asimismo, las universidades de la Comunitat Valenciana prestarán atención, protección y apoyo en su ámbito de acción al estudiantado, personal docente y personal de administración y servicios que pudiera ser objeto de discriminación por orientación sexual, identidad o expresión de género en el seno de la comunidad universitaria.
+4. La Generalitat, junto con las universidades de la Comunitat Valenciana, adoptará medidas de apoyo a la realización de estudios y proyectos de investigación sobre identidad de género, expresión de género, diversidad sexual y familiar en todas sus vertientes, así como impulsará la existencia de grupos de investigación especializados en identidad y expresión de género o la creación de una cátedra.
+5. La Generalitat Valenciana promoverá que las universidades valencianas fomenten la formación e investigación en materia de identidades de género e impulsen la creación y el establecimiento de unidades de atención a la diversidad.
+
+## CAPÍTULO III
+
+Medidas en el ámbito laboral y de la responsabilidad social
+
+### Artículo 26
+
+Artículo 26. Políticas de fomento de la igualdad y no discriminación en el empleo.
+1. La Generalitat, en el ejercicio de sus competencias en materia de empleo y relaciones laborales, incluirá en sus correspondientes planes y medidas de formación, orientación, inserción e inspección a las personas trans. Estas medidas estarán encaminadas a su inserción y permanencia en el empleo.
+2. A tal efecto adoptará medidas adecuadas y eficaces que tengan por objeto:
+a) La promoción y defensa de la igualdad de trato en el acceso al empleo y en el desempeño del mismo.
+b) Promover, en el ámbito de la formación para el empleo, el respeto de los derechos de igualdad y no discriminación de las personas por motivos de identidad y expresión de género.
+c) Fomentar la prevención, corrección y eliminación de toda forma de discriminación por identidad de género en materia de acceso al empleo, contratación y condiciones de trabajo.
+d) Información y divulgación sobre derechos y normativa relacionada con las personas trans, con inclusión de campañas en medios de comunicación.
+e) Incorporar en las convocatorias de ayudas y subvenciones de fomento del empleo criterios de igualdad de oportunidades y medidas de bonificación fiscal o subvención para la integración laboral de las personas trans en las empresas.
+f) Incorporar en las convocatorias de ayudas para la conciliación de la vida laboral y familiar, cláusulas que contemplen la diversidad familiar.
+g) El impulso, a través de los agentes sociales, de la inclusión en los convenios colectivos, de cláusulas de promoción, prevención, eliminación y corrección de toda forma de discriminación por causa de identidad o expresión de género.
+h) El impulso para la elaboración de planes de diversidad que incluyan expresamente a las personas trans, en especial en las pequeñas y medianas empresas.
+i) Garantizar la no discriminación en el acceso al empleo de las personas trans, incluyendo una tercera opción donde se tenga que elegir el género en formularios, currículums y cualquier otra documentación solicitada.
+
+### Artículo 27
+
+Artículo 27. Acciones en el ámbito de la responsabilidad social empresarial.
+1. La Generalitat impulsará la adopción por parte de las empresas de códigos éticos y de conducta que contemplen medidas de protección frente a la discriminación por razón de identidad o expresión de género.
+2. Asimismo, La Generalitat divulgará las buenas prácticas realizadas por las empresas en materia de inclusión y de promoción y garantía de igualdad y no discriminación por razón de identidad o expresión de género.
+
+### Artículo 28
+
+Artículo 28. Personal de la Generalitat.
+La Generalitat garantizará que:
+1. Los equipos de inspección médica o los organismos encargados de la prevención de riesgos laborales del personal de la Generalitat tengan los conocimientos necesarios para tratar de forma adecuada a las personas trans.
+2. Con el objetivo de mantener la privacidad de las personas trans que no hayan accedido al cambio registral, se evitará exponer en las listas públicas referentes al personal, especialmente aquellas referentes a las elecciones sindicales, la mención de sexo de las personas, utilizando únicamente el nombre, apellidos y número de DNI.
+3. Se prestará atención, protección y ayuda, en su ámbito de actuación, a todo el personal empleado público de la Generalitat y sus organismos dependientes que pudieren ser objeto de discriminación por su orientación sexual, identidad o expresión de género.
+
+## CAPÍTULO IV
+
+Medidas en el ámbito social
+
+### Artículo 29
+
+Artículo 29. Medidas para la inserción social de las personas trans.
+1. Cuando una persona trans se encuentre en una situación de dificultad social o riesgo de exclusión por este motivo, los servicios sociales contemplarán esta circunstancia específica a través del programa individual de inserción.
+2. Sin perjuicio de lo que disponga al respecto la normativa específica sobre empleo y servicios sociales, la Generalitat elaborará un programa marco de actuación para la inserción y atención social del colectivo de personas trans en riesgo de grave exclusión.
+La Generalitat atenderá de manera específica a la situación de aquellas personas trans que hayan sido expulsadas de sus hogares por razón de la manifestación de su identidad o expresión de género con situación de desamparo.
+Si la persona expulsada fuera menor de edad, los servicios sociales de la Comunitat Valenciana interesarán ante la autoridad oportuna los trámites necesarios para su acogimiento y la adopción de las medidas oportunas en relación a su guarda y custodia ante el supuesto de abandono o maltrato del o la menor por sus responsables.
+3. Toda persona cuya identidad sea la de mujer y sea víctima de la violencia de género o víctima de trata, tendrá acceso, en condiciones de igualdad, a los recursos asistenciales existentes.
+
+### Artículo 30
+
+Artículo 30. Apoyo y protección en situación de especial vulnerabilidad.
+La Generalitat:
+1. Llevará a cabo medidas de prevención de la discriminación y apoyo a la visibilidad de las personas trans, como colectivo vulnerable. En particular, se adoptarán medidas específicas de apoyo, mediación y protección en los supuestos de menores, adolescentes y jóvenes que estén sometidos a presión o maltrato psicológico en el ámbito familiar a causa de su identidad o expresión de género.
+2. Adoptará los mecanismos necesarios para la protección efectiva de menores en atención a su identidad y expresión de género que se encuentren bajo la tutela de la administración, ya sea en centros de menores, pisos tutelados o recurso en el que residan, garantizando el respeto absoluto a su identidad y expresión de género, y unas plenas condiciones de vida.
+3. Garantizará y adoptará las medidas necesarias para la protección y el respeto de los derechos de las personas trans con diversidad funcional.
+Los centros y servicios de atención a personas con diversidad funcional, públicos o privados, velarán por que el respeto del derecho a la no discriminación de las personas trans sea real y efectivo.
+4. Velará porque no se produzcan situaciones de discriminación de las personas trans especialmente vulnerables por razón de edad.
+5. Adoptará las medidas necesarias para que los espacios o equipamientos identificados en función del sexo, en los centros de menores, pisos tutelados, centros de atención a personas con diversidad funcional, residencias de la tercera edad o en cualquier otro recurso que acoja a personas especialmente vulnerables, puedan utilizarse por las personas libremente en atención al género sentido, haciendo compatible, este derecho, con los derechos de los otros usuarios, en particular subrayando su derecho a la intimidad, en especial cuando se trate de menores.
+6. Prestará especial protección a las personas que por tradición o cultura pudieran ser víctimas de discriminación múltiple por razón de identidad o expresión de género.
+7. Garantizará en cualquier caso que en todos los ámbitos de aplicación de esta ley se aportará a los profesionales las herramientas necesarias para la no discriminación y se contará con el personal especializado necesario en las diferentes materias, según se precise en los distintos protocolos y medidas a tomar.
+8. La Generalitat creará una cartera de vivienda tutelada para dar acogida temporal a personas trans en situación de trata con finalidad de explotación sexual y personas trans en riesgo de exclusión y en caso de situaciones de extrema vulnerabilidad.
+Se modifica el apartado 5 por el art. 141 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 31
+
+Artículo 31. Atención a víctimas de violencia por transfobia.
+1. La Generalitat, en el ámbito de sus competencias, prestará una atención integral real y efectiva a las personas víctimas de violencia motivada por su identidad o expresión de género.
+2. Esta atención comprenderá la asistencia y asesoramiento jurídico, la asistencia sanitaria, incluyendo la atención especializada y medidas sociales en la atención primaria tendentes a facilitar, si así fuese preciso, su recuperación integral.
+
+## CAPÍTULO V
+
+Medidas en el ámbito familiar
+
+### Artículo 32
+
+Artículo 32. Protección de la diversidad familiar.
+Los programas de apoyo a las familias contemplarán de forma expresa medidas de apoyo a la diversidad familiar por razón de identidad y expresión de género. Se prestará especial atención al fomento del respeto hacia los hijos e hijas de personas trans, así como de su protección.
+
+### Artículo 33
+
+Artículo 33. Adopción y acogimiento familiar.
+1. Se garantizará, de conformidad con la normativa vigente, que en la valoración de la idoneidad en los procesos de adopción y acogimiento familiar, no exista discriminación por motivo de identidad o expresión de género.
+2. En los centros de menores se trabajará la diversidad familiar con el fin de garantizar que los y las menores que sean susceptibles de ser adoptados o acogidos sean conocedores de la diversidad familiar por razón de identidad y expresión de género.
+
+### Artículo 34
+
+Artículo 34. Violencia en el ámbito familiar relacionada con la identidad o expresión de género.
+1. Se reconoce como violencia familiar cualquier forma de violencia que se ejerza en el ámbito familiar por causa de identidad o expresión de género de cualquiera de sus miembros, incluyendo el no respeto por parte de cualquier miembro de la familia a la identidad o expresión de género de los y las menores.
+2. La Generalitat adoptará medidas de apoyo, mediación y protección a las víctimas de la violencia familiar, por motivos de identidad o expresión de género, que garanticen la protección de la persona acosada frente a la persona acosadora, facilitando con ello la independencia física y económica de la víctima.
+
+## CAPÍTULO VI
+
+Medidas en el ámbito de la juventud y las personas mayores
+
+### Artículo 35
+
+Artículo 35. Protección de las personas jóvenes trans.
+1. La Generalitat, a través de sus organismos con competencias en materia de juventud, ofrecerá servicios de asesoramiento a las personas trans jóvenes e impulsará campañas de sensibilización sobre la identidad y expresión de género en la juventud.
+2. En los cursos de mediación, monitores y formación juveniles se incluirá formación sobre la identidad y expresión de género que les permita fomentar el respeto y proteger los derechos de las personas trans en su trabajo habitual con adolescentes y jóvenes de la Comunitat Valenciana.
+3. Todas las entidades juveniles y personas trabajadoras de cualquier ámbito que realicen sus labores con la juventud promoverán y respetarán con especial cuidado la igualdad de las personas en atención a la identidad y expresión de género.
+4. Todos los espacios e instalaciones gestionados por estas entidades observarán y cumplirán con las medidas necesarias para la completa inclusión de las personas trans.
+
+### Artículo 36
+
+Artículo 36. Protección de las personas trans mayores.
+1. Las personas trans mayores tienen derecho a recibir de los servicios sociales públicos de la Comunitat Valenciana una protección y una atención integral para la promoción de su autonomía personal y del envejecimiento activo, que les permita una vida digna e independiente y su bienestar social e individual, así como a acceder a una atención gerontológica adecuada a sus necesidades, en el ámbito sanitario, social y asistencial.
+La atención gerontológica a que se refiere el punto anterior será coordinada por las Unidades de referencia para identidad de género (UIG), que realizarán inspecciones periódicas para verificar su cumplimiento.
+2. Las personas trans mayores tendrán derecho a ser atendidas en residencias adecuadas a su identidad género y a recibir un trato respetuoso con su identidad de género.
+En todo caso, la identificación de la persona trans ante el personal del centro, demás residentes y terceros, aun cuando esta no haya procedido a la rectificación en el registro civil de la mención de sexo, habrá de respetar la identidad de género de la misma, con independencia del nombre y sexo reflejado en su expediente.
+3. Las residencias de la tercera edad, tanto públicas como privadas, garantizarán el derecho a la no discriminación de personas en atención a su identidad o expresión de género, ya sea en su individualidad como en su relación sentimental
+
+## CAPÍTULO VII
+
+Medidas en el ámbito del ocio, la cultura, el deporte, la cooperación internacional y la comunicación
+
+### Artículo 37
+
+Artículo 37. Promoción de una cultura inclusiva.
+1. La Generalitat reconoce la identidad y expresión de género como parte de la construcción de una cultura inclusiva, diversa y promotora de derechos. Se adoptarán medidas que garanticen la visibilidad de la identidad de género, la expresión de género, la diversidad sexual y familiar, tanto en el ámbito autonómico como local, como parte de la cultura ciudadana, la convivencia y la construcción de la expresión cultural.
+2. Se adoptarán medidas de apoyo y fomento de iniciativas y expresiones artísticas, culturales, patrimoniales, recreativas y deportivas relacionadas con la identidad de género, la expresión de género, la diversidad sexual y familiar.
+3. La Generalitat promoverá y favorecerá que todas las bibliotecas de su titularidad y las bibliotecas de titularidad municipal cuenten con un fondo bibliográfico y filmográfico específico en materia de identidad de género, expresión de género, diversidad sexual y familiar. El contenido de los materiales deberá ser respetuoso con los derechos humanos. En las ciudades de más de 20.000 habitantes conformarán una sección específica.
+4. La Generalitat garantizará el acceso libre y sin restricciones a las páginas web que contengan información sobre la identidad de género, la expresión de género, la diversidad sexual y familiar, en todos los accesos públicos a internet, tanto en bibliotecas públicas, centros educativos, así como en sistemas wifi públicos.
+
+### Artículo 38
+
+Artículo 38. Deporte, ocio y tiempo libre.
+1. La Generalitat, las federaciones deportivas y en general el conjunto de las administraciones de la Comunitat Valenciana, cada una en el ámbito de sus competencias, promoverá y velará porque la participación en la práctica deportiva y de actividad física se realice en términos de igualdad, sin discriminación por motivos de identidad o expresión de género.
+Asimismo, las entidades organizadoras de acontecimientos y competiciones deportivas que se realicen en la Comunitat Valenciana adoptarán las medidas necesarias para el desarrollo de los mismos, respetando la identidad de género expresada por las personas participantes, de acuerdo con la normativa aplicable.
+2. Se adoptarán las medidas necesarias para garantizar que las actividades recreativas de ocio y tiempo libre se puedan disfrutar en condiciones de igualdad y respeto a la diversidad sexual, la identidad y expresión de género, y se prohibirá cualquier acto que pudiera causar perjuicio, hostilidad o violencia física o psicológica hacia las personas trans.
+3. Se adoptarán medidas que garanticen la formación adecuada del personal que atienda la didáctica deportiva, de ocio y tiempo libre, y que esta formación incorpore el respeto y la protección de la diversidad sexual, identidad y expresión de género frente a cualquier discriminación. Al efecto se establecerá la coordinación necesaria con las entidades públicas o privadas representativas del ámbito de la gestión del ocio, el tiempo libre y la juventud. Entre estas medidas, se podrán incluir incentivos en la buena gestión y práctica en aquello referido en este artículo.
+4. Se promoverá un deporte inclusivo con el objetivo de erradicar toda forma de discriminación por motivo de diversidad sexual, identidad o expresión de género en los acontecimientos deportivos realizados en la Comunitat Valenciana.
+5. La Generalitat garantizará la plena igualdad y libertad de las personas trans en la práctica deportiva y adoptará las medidas necesarias para eliminar las barreras que la dificultan, intentando hacer compatible el derecho de las personas trans con las personas no trans, que pueden verse discriminadas en las competiciones deportivas por las características físicas de sus competidores.
+6. Se garantizará el uso de las instalaciones deportivas de acuerdo con la identidad de género, con las salvedades contempladas en el artículo 22, apartado f) y artículo 30, punto 5.
+Se modifican los apartados 5 y 6 por el art. 142 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 39
+
+Artículo 39. Cooperación internacional al desarrollo.
+La Generalitat, especialmente a través del Plan Director y los planes de acción anuales de cooperación al desarrollo, impulsará expresamente aquellos proyectos que promuevan y defiendan el derecho a la vida, la igualdad, la libertad y la no discriminación de las personas por motivos de identidad o expresión de género, así como la protección de las personas frente a las persecuciones y represalias, en aquellos países en que estos derechos sean negados o dificultados, legal o socialmente.
+
+### Artículo 40
+
+Artículo 40. Tratamiento igualitario de la información y la comunicación.
+1. La Generalitat fomentará en todos los medios de comunicación de titularidad pública y aquellos que perciban subvenciones o fondos públicos de la administración valenciana, la concienciación, divulgación y transmisión de la inclusión social y el respeto a la identidad y expresión de género, emitiendo contenidos que contribuyan a una percepción del colectivo exenta de estereotipos y al conocimiento y difusión de necesidades y realidades de la población trans.
+2. La Generalitat velará para que los medios de comunicación, mediante autorregulación y códigos deontológicos, incorporen el respeto a la igualdad y la prohibición de discriminación por motivos de identidad o expresión de género, tanto en contenidos informativos y de publicidad, como en el lenguaje empleado. Esta disposición afectará a todos los medios, incluidos aquéllos propiciados por las nuevas tecnologías.
+
+## CAPÍTULO VIII
+
+Medidas en el ámbito de la seguridad y las emergencias
+
+### Artículo 41
+
+Artículo 41. Atención a las víctimas y formación de los cuerpos de seguridad y emergencias.
+1. La Generalitat en el ámbito de sus competencias, elaborará un protocolo para la atención a las víctimas de delitos de odio por motivo de identidad o expresión de género, en especial cuando sean víctimas de agresiones, acoso o coacciones tanto físicas como por medios virtuales y velará por su efectiva aplicación.
+2. La Generalitat, en el ámbito de sus competencias, velará por que la formación de la policía autonómica, las policías locales y los cuerpos de seguridad y emergencias incluya el conocimiento y el respeto a la identidad y expresión de género.
+3. La Generalitat, en el ámbito de sus competencias, actuará como interesada en causas penales que, por su especial relevancia y especialmente en materia de delitos, justifiquen su personación en la defensa de los intereses colectivos y de los intereses de las personas trans.
+Se modifica el apartado 3 por el art. 143 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## CAPÍTULO IX
+
+Medidas administrativas para garantizar la igualdad real y efectiva de las personas en atención a la identidad y expresión de género
+
+### Artículo 42
+
+Artículo 42. Contratación administrativa y subvenciones.
+1. Las cláusulas sociales de la contratación administrativa podrán incluir medidas destinadas a la igualdad en atención a la identidad y expresión de género.
+2. Asimismo, la Generalitat podrá incorporar a las bases reguladoras de las subvenciones públicas las actuaciones destinadas a lograr la igualdad de oportunidades en atención a la identidad y expresión de género.
+
+### Artículo 43
+
+Artículo 43. Formación del personal de las administraciones públicas.
+La Generalitat impartirá formación que garantice la sensibilización adecuada y correcta actuación sobre la identidad y expresión de género al personal de la administración pública que presta servicios en todos los ámbitos referidos en esta ley.
+
+## TÍTULO V
+
+Medidas de tutela administrativa
+
+### Artículo 44
+
+Artículo 44. Disposiciones generales.
+La protección frente a cualquier violación del derecho a la igualdad de las personas por motivo de identidad o expresión de género comprenderá, en su caso, la adopción de cuantas medidas sean necesarias para el cese inmediato en la conducta discriminatoria, adopción de medidas cautelares, prevención de violaciones inminentes o ulteriores, indemnización de daños y perjuicios y restablecimiento pleno de la persona perjudicada en el pleno ejercicio de sus derechos.
+
+### Artículo 45
+
+Artículo 45. Concepto de persona interesada.
+Tendrán la condición de personas interesadas:
+1. Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos. Las asociaciones, entidades y organizaciones representativas de los colectivos de personas trans y aquellas que tengan por objeto la defensa y promoción de derechos humanos.
+2. Las que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.
+
+## TÍTULO VI
+
+Infracciones y sanciones
+
+### Artículo 46
+
+Artículo 46. Sobre procedimiento sancionador.
+1. Las infracciones y sanciones relativas a esta ley serán las recogidas en la Ley estatal 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de las personas LGTBI.
+2. La potestad sancionadora que corresponda según la normativa vigente se ejercerá de conformidad con lo que dispone la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común y la Ley 40/2015, de Régimen Jurídico de las Administraciones Públicas.
+Se suprime y se renumera el artículo 47 como 46 por el art. 144 de la Ley 5/2025, de 30 de mayo, y se modifica por el art. 145 de la citada ley. Ref. BOE-A-2025-11959
+
+## TÍTULO VI
+
+Infracciones y sanciones
+
+### Artículo 47
+
+Artículo 47. Concurrencia con el orden jurisdiccional penal.
+1. No podrán sancionarse los hechos que hayan sido sancionados penal o administrativamente, en los casos en que se aprecie identidad de sujeto, de hecho y de fundamento.
+2. En los supuestos en que las infracciones pudieran ser constitutivas de ilícito penal, la administración pasará el tanto de culpa al órgano judicial competente o al ministerio fiscal y se abstendrá de seguir el procedimiento sancionador mientras la autoridad judicial no dicte sentencia firme o resolución que ponga fin al procedimiento o mientras el ministerio fiscal no comunique la improcedencia de iniciar o proseguir actuaciones.
+3. De no haberse estimado la existencia de ilícito penal, o en el caso de haberse dictado resolución de otro tipo que ponga fin al procedimiento penal, la administración continuará el expediente sancionador en base, en su caso, a los hechos que los tribunales hayan considerado probados.
+Se renumera el artículo 48 como 47 por el art. 144 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 48
+
+Artículo 48. Infracciones.
+1. Las infracciones administrativas se califican como leves, graves y muy graves, en atención a la naturaleza de la obligación incumplida y a la entidad del derecho afectado.
+2. Son infracciones leves:
+a) Utilizar o emitir expresiones vejatorias contra las personas trans, sus parejas, personas allegadas o sus familias por su identidad o expresión de género en la prestación de servicios públicos, en cualquier medio de comunicación, en discursos o intervenciones públicas, o en las redes sociales.
+b) No facilitar la labor o negarse parcialmente a colaborar con la acción investigadora de los servicios de inspección de la Generalitat en el cumplimiento de los mandatos establecidos en la presente ley.
+3. Son infracciones graves:
+a) La reiteración en el uso o emisión de expresiones vejatorias por razón de identidad o expresión de género en la prestación de servicios públicos, en cualquier medio de comunicación, en discursos o intervenciones públicas, o en las redes sociales.
+b) El uso o emisión de expresiones que inciten a la violencia contra las personas trans o personas allegadas, en la prestación de servicios públicos, en cualquier medio de comunicación, en discursos o intervenciones públicas, o en las redes sociales.
+c) La no retirada inmediata, por parte del prestador de un servicio de la sociedad de la información, de expresiones vejatorias o de incitación a la violencia por razón de identidad o expresión de género contenidas en sitios web o redes sociales de las que sea responsable, una vez tenga conocimiento efectivo del uso de esas expresiones.
+d) La realización de actos o la imposición de disposiciones o cláusulas en los negocios jurídicos que constituyan o causen discriminación por razón de la identidad o expresión de género.
+e) La obstrucción o negativa absoluta a la actuación de los servicios de inspección de la Generalitat en el cumplimiento de los mandatos establecidos en la presente ley.
+f) Impedir u obstaculizar la realización de cualquier trámite administrativo o el acceso a un servicio público o establecimiento, por causa de identidad o expresión de género.
+g) Realizar actos que impliquen aislamiento, rechazo o menosprecio público y notorio de personas por causa de identidad o expresión de género.
+h) La implantación, el impulso o la tolerancia de prácticas laborales discriminatorias por razón de la identidad o expresión de género.
+i) La elaboración, utilización o difusión en centros educativos de la Comunitat Valenciana de libros de texto y materiales didácticos que presenten a las personas como superiores o inferiores en dignidad humana en función de su identidad o expresión de género, o que inciten a la violencia por este motivo.
+4. Son infracciones muy graves:
+a) Adoptar, existiendo dolo o culpa, comportamientos agresivos o constitutivos de acoso, realizados en función de la identidad o expresión de género de una persona, que tenga el propósito de atentar contra su dignidad, creando un entorno intimidatorio, degradante u ofensivo para la misma.
+b) Cualquier represalia o trato adverso que reciba una persona como consecuencia de haber presentado la misma una queja, reclamación, denuncia, demanda o recurso de cualquier tipo, destinado a impedir su discriminación por identidad o expresión de género, y a exigir el cumplimiento efectivo del principio de igualdad.
+c) La negativa a atender o asistir a quienes hayan sufrido cualquier tipo de discriminación o abuso por razón de su identidad o expresión de género cuando por su condición o puesto tenga obligación de atender a la víctima.
+5. Respecto de las infracciones leves y graves, la discriminación múltiple incrementará, respecto de cada una de las acciones concurrentes, un grado el tipo infractor previsto en esta ley.
+Se renumera el artículo 49 como 48 por el art. 144 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 49
+
+Artículo 49. Reincidencia.
+A los efectos de lo previsto en esta ley, existirá reincidencia cuando el responsable o responsables de la infracción prevista en ella hayan sido sancionados anteriormente mediante resolución firme por la realización de una infracción de la misma naturaleza en el plazo de un año, contado desde la notificación de aquella.
+Se renumera el artículo 50 como 49 por el art. 144 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 50
+
+Artículo 50. Sanciones.
+1. Las infracciones leves serán sancionadas con apercibimiento o con multa de 200 a 3.000 euros.
+2. Las infracciones graves serán sancionadas con multa de 3.001 hasta 20.000 euros. Además, podrán imponerse como sanciones accesorias alguna o algunas de las siguientes:
+a) Prohibición de acceder a cualquier tipo de ayuda pública de la Generalitat por un periodo de un año.
+b) Prohibición de contratar con la Generalitat, sus organismos autónomos o entes públicos por un período de un año.
+3. Las infracciones muy graves serán sancionadas con multa de 20.001 hasta 45.000 euros, y además podrá imponerse alguna o algunas de las sanciones accesorias siguientes:
+a) Prohibición de acceder a cualquier tipo de ayuda pública de la Generalitat por un periodo de hasta tres años.
+b) Inhabilitación temporal, por un periodo de hasta tres años, para ser titular, la persona física o jurídica, de centros o servicios dedicados a la prestación de servicios públicos.
+c) Prohibición de contratar con la Generalitat, sus organismos autónomos o entes públicos por un periodo de hasta tres años.
+Se renumera el artículo 51 como 50 por el art. 144 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 51
+
+Artículo 51. Graduación de las sanciones.
+1. Para la graduación de las sanciones se tendrá en cuenta:
+a) La naturaleza y gravedad de los riesgos o perjuicios causados a las personas o bienes.
+b) La intencionalidad de la autora o del autor.
+c) La reincidencia.
+d) La trascendencia social de los hechos o su relevancia.
+e) El beneficio que haya obtenido la persona infractora.
+f) El incumplimiento de las advertencias o requerimientos que previamente haya realizado la administración de la Generalitat.
+g) La pertenencia de la persona infractora a fuerzas y cuerpos de seguridad.
+h) La pertenencia de la persona infractora a un grupo organizado de ideología fehacientemente transfóbica.
+i) La reparación voluntaria de los daños causados o la subsanación de los hechos que dieron lugar a la comisión del tipo infractor, siempre que ello tenga lugar antes de que recaiga resolución definitiva en el procedimiento sancionador.
+2. Para la imposición de las sanciones pecuniarias y para la determinación de su cuantía deberá tenerse en cuenta que la comisión de las infracciones no resulte más beneficiosa para la persona o personas infractoras que el cumplimiento de las normas infringidas.
+Se renumera el artículo 52 como 51 por el art. 144 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 52
+
+Artículo 52. Prescripción.
+1. Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los nueve meses.
+2. El plazo de prescripción de las infracciones comenzará a computarse desde el día en que la infracción se hubiera cometido.
+3. Las sanciones impuestas por infracciones muy graves prescribirán a los dos años, las graves al año y las leves a los seis meses.
+4. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que sea ejecutable la resolución por la que se impone la sanción o haya transcurrido el plazo para recurrirla.
+Se renumera el artículo 53 como 52 por el art. 144 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 53
+
+Artículo 53. Competencia.
+1. La imposición de las sanciones previstas en este título exigirá la previa incoación del correspondiente expediente sancionador, cuya instrucción corresponderá a la conselleria competente en materia de igualdad y no discriminación.
+2. Si durante la tramitación del expediente sancionador se comprobara que la competencia corresponde a otra administración pública, se dará traslado del expediente a la administración pública competente para su tramitación.
+3. La competencia para la imposición de sanciones previstas en la presente ley corresponderá:
+a) A la persona titular de la dirección general competente en materia de no discriminación de personas por motivos de identidad o expresión de género, cuando se trate de la imposición de sanciones por infracciones leves.
+b) A la persona titular de la conselleria con competencias en materia de no discriminación de personas por motivo de identidad o expresión de género, cuando se trate de imposición de sanciones por infracciones graves.
+c) Al Consell para la imposición de sanciones por infracciones muy graves.
+Se renumera el artículo 54 como 53 por el art. 144 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 54
+
+Artículo 54. Procedimiento sancionador.
+La potestad sancionadora se ejercerá de conformidad con lo que dispongan las leyes que establezcan el régimen jurídico de las administraciones públicas y del procedimiento administrativo común.
+Se renumera el artículo 55 como 54 por el art. 144 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 55
+
+Artículo 55. Procedimiento sancionador.
+La potestad sancionadora se ejercerá de conformidad con lo que dispongan las leyes que establezcan el régimen jurídico de las administraciones públicas y del procedimiento administrativo común.
+
+### Disposición adicional primera
+
+Disposición adicional primera. No discriminación por motivos de identidad de género en el cómputo del plazo de residencia para ser persona beneficiaria de la renta garantizada de ciudadanía.
+No se considerará interrumpido el tiempo de residencia efectiva en la Comunidad Valenciana exigido por la Ley 9/2007, de 12 de marzo, de la Generalitat, de renta garantizada de ciudadanía de la Comunitat Valenciana, y las normas de desarrollo de la misma, en los casos de traslados fuera de la comunidad autónoma derivados de situaciones constatadas de malos tratos familiares, de tratamientos socio-sanitarios de rehabilitación, como consecuencia de medidas especiales de protección en procedimientos judiciales, de tratamiento derivado de la atención a la identidad trans de la persona interesada o por cumplimiento de condena en establecimientos penitenciarios radicados fuera de la Comunitat Valenciana.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Residencias para personas mayores.
+Todas las referencias presentes en la normativa autonómica en materia de residencias para personas mayores, y sin perjuicio de los principios generales establecidos en la misma referentes a la intimidad de las personas usuarias, deberán entenderse referidas a la orientación sexual y a la identidad de género, garantizando la no discriminación por estos motivos.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Garantía de funcionamiento de los servicios actuales.
+Se garantizará el funcionamiento de los actuales servicios que se prestan a las personas trans en la Comunitat Valenciana, en tanto no se desarrolle reglamentariamente esta ley o hasta que la nueva estructura coordinada por las Unidades de Referencia para la Identidad de Género no estén en funcionamiento, que en todo caso no podrá ser superior a seis meses desde la entrada en vigor de la ley.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto en la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+1. Se faculta al Consell a autorizar la suscripción de acuerdos o convenios necesarios para el desarrollo de esta ley con aquellas instituciones y administraciones que resulten competentes y oportunas.
+2. Se faculta, asimismo, al Consell para dictar las disposiciones necesarias para el desarrollo y ejecución de la presente ley, en el plazo máximo de nueve meses, contados a partir de la fecha de su entrada en vigor.
+3. Las medidas contempladas en la presente ley, que en virtud de su desarrollo reglamentario implican la realización de gastos, serán presupuestadas en sus correspondientes programas y capítulos con cargo a los presupuestos de la Generalitat Valenciana del ejercicio siguiente a la entrada en vigor de las disposiciones adoptadas para su aplicación.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+Esta ley entrará en vigor el día siguiente al de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos y todas las ciudadanas, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+València, 7 de abril de 2017.
+El President de la Generalitat,
+Ximo Puig i Ferrer.

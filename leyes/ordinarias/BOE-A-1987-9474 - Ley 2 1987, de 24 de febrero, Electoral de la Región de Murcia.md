@@ -1,0 +1,438 @@
+# Ley 2/1987, de 24 de febrero, Electoral de la Región de Murcia.
+
+- Identificador BOE: `BOE-A-1987-9474`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-9474
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BORM núm. 97, de 29 de abril de 1987. Ref. BOE-A-1987-12162.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 2/1987, de 24 de febrero, Electoral de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30.2, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+I. El Estatuto de Autonomía define en sus artículos 20 y 21 a la Asamblea Regional como órgano institucional representativo del pueblo de la Región de Murcia; su carácter representativo y democrático tiene expresión legal en el artículo 24 del propio Estatuto; regulación básica a desarrollar por Ley de Asamblea y manifestación primaria de la potestad de autogobierno de la Región.
+Consolidado el proceso institucional que ha permitido la constitución y funcionamiento de la primera Asamblea Regional directamente elegida conforme a la disposición transitoria primera de la Ley Orgánica 4/1982, de 9 de junio, resulta necesario establecer disposiciones adecuadas que normen de modo estable las futuras elecciones regionales.
+II. La Ley se sujeta y es simultáneamente desarrollo de las normas básicas de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General. Este proceso de adaptación y desarrollo es no sólo actamiento a un mandato constitucional expreso confirmado por el Tribunal Constitucional desde distintas perspectivas, sino expresión de un íntimo, profundo y general convencimiento de que el autogobierno de la Región sólo es posible en el marco de la indisoluble unidad de la Nación y de la concordancia y debida articulación de la legislación general y las normas regionales.
+III. Así configurado el marco de esta Ley, queda por precisar que su texto es expresión de un propósito de ponderación y equilibrio entre las distintas posibilidades y perspectivas. Ello no supone que se mantengan posiciones ambiguas; por el contrario, se recogen pronunciamientos legales de suficiente claridad para evitar dudas o incertidumbres en el proceso electoral y para conseguir su adecuada adaptación a las necesidades de la Región.
+Sistemáticamente la Ley se divide en títulos que agrupan regulaciones homogéneas sobre aspectos particulares del proceso electoral, subdividiéndose, en capítulos y artículos, con afán de claridad en la propia sistemática de la Ley y con el objetivo de facilitar su conocimiento y consulta.
+El título I define las condiciones para el ejercicio de los derechos de sufragio activo y pasivo, diferenciando, en este último caso, los supuestos de inelegibilidad de los de incompatibilidad, que en alguna de sus categorías se configura como causa de inelegibilidad sobrevenida.
+La regulación básica de los Órganos de la Administración Electoral se aborda en el título II con una especial atención a la Junta Electoral de la Región, a su composición y funciones, arbitrándose los procedimientos de asistencia al proceso electoral por la Asamblea y por el Consejo de Gobierno.
+La regulación completa que en esta Ley se hace a los Órganos de la Administración Electoral, específicamente en el artículo 6.º, no impide, sin embargo, que la proia Ley adopte una posición prudente evitando la duplicación de Órganos Electorales cuando se produzcan simultáneamente la celebración de elecciones municipales y autonómicas. Por ello, la disposición transitoria primera previene o establece que las competencias y funciones de la Junta Electoral Regional serán asumidas, en su integridad, por la Junta Electoral Provincial según lo previsto en el artículo 10 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General. Con ello, se Iogran evidentes ventajas de claridad y transparencia en el proceso electoral al ser un Órgano único el competente para todas las decisiones referidas al proceso electoral y de evidente economía de medios personales y materiales.
+El título III regula el sistema electoral con mantenimiento de las cinco circunscripciones y una atribución proporcionada de escaños que garantiza el adecuado equilibrio y evita que ninguna fuerza política significativa quede excluida de la posibilidad de acceder a la Asamblea Regional.
+Los títulos IV y V recogen la convocatoria de elecciones y el procedimiento electoral. Regulación que se desarrolla en los capítulos III, IV y V sobre campaña electoral, distribución de tiempo gratuito de propaganda, voto por correo y, en fin, los demás mecanismos necesarios para el adecuado desenvolvimiento del proceso.
+En el título VI se contempla el régimen de financiación de las elecciones, definiendo las funciones del Administrador Electoral General, responsable de todo el aspecto económico-financiero de la campaña, y previéndose determinadas subvencioes por escaño y voto cuyo importe concilia los gastos precisos para la necesaria información a los ciudadanos, con los adecuados límites que eviten dispendios no justificados.
+La regulación se completa con el capítulo III de este título, que determina el mecanismo de adjudicación de subvenciones y anticipos y procedimientos de control.
+IV. Finalmente, las disposiciones adicionales, transitorias y finales contienen las prevenciones adecuadas para garantizar la fluida aplicación de la Ley, así como su articulación con la Ley Orgánica del Régimen Electoral General, que regirá como supletoria.
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1.
+Las elecciones a la Asamblea Regional de la Comunidad Autónoma de la Región de Murcia, se regirán por lo establecido en la presente Ley en cumplimiento de lo dispuesto en el artículo 24 del Estatuto de Autonomía.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Derecho de sufragio activo
+
+### Artículo 2
+
+Artículo 2.
+1. Serán electores todos los ciudadanos que, gozando del derecho de sufragio activo en los términos establecidos en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, ostente la condición política de murcianos según el artículo 6 del Estatuto de Autonomía.
+2. Para el ejercicio del derecho de sufragio es indispensable estar inscrito en el Censo Electoral vigente el día de la convocatoria.
+
+### Artículo 3
+
+Artículo 3.
+En las elecciones a la Asamblea Regional de Murcia regirá el censo electoral vigente referido a la circunscripción única coincidente con el ámbito territorial de la Comunidad Autónoma de la Región de Murcia.
+Se modifica por el art. único.1 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+### Artículo 4
+
+Artículo 4.
+1. Serán elegibles todos los ciudadanos que tengan la condición de electores, salvo los comprendidos en los apartados 2 y 3 de este artículo.
+2. Serán inelegibles los ciudadanos incursos en alguna de las causas de inelegibilidad recogidas en las disposiciones comunes de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+3. Serán, además, inelegibles:
+a) Los Secretrios generales técnicos, Directores regionales de las Consejerías y los asimilados a ellos.
+b) Los Ministros y Secretarios de Estado del Gobierno de la Nación.
+c) Los Parlamentarios de las Asambleas de otras Comunidades Autónomas.
+d) Los miembros de los Consejos de Gobierno de otras Comunidades Autónomas y cargos de libre designación de los citados Consejos.
+e) Los que ejerzan funciones o cargos conferidos y remunerados por un Estado extranjero.
+f) Los Presidentes, Vocales y Secretarios de las Juntas Electorales de la Región.
+g) Los Directores de los Centros de Radio y Televisión en Murcia que dependan de entes públicos.
+4. La calificación de las inelegibilidades se verificará de conformidad con lo establecido en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+### Artículo 5
+
+Artículo 5.
+Estarán afectos de incompatibilidad:
+1. Los incursos en causas de inelegibilidad.
+2. Los señalados como tales en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+3. Los que se encuentren en las siguientes situaciones:
+a) Los parlamentarios europeos.
+b) Viceconsejeros y asimilados a ellos.
+c) Los presidentes y miembros de consejos de administración, administradores, directores generales, gerentes y cargos asimilados de entes públicos y empresas de participación pública mayoritaria, cualquiera que sea su forma, incluidas las cajas de ahorro de fundación pública, salvo que concurriera en ellos la cualidad de consejero de Gobierno.
+d) Los diputados en el Congreso y Senadores, incluso los elegidos en representación de la Comunidad Autónoma de la Región de Murcia.
+e) Los miembros de corporaciones locales de los municipios de la Región de Murcia.
+Se modifica por el art. único.2 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+## TÍTULO II
+
+Administración electoral
+
+### Artículo 6
+
+Artículo 6.
+Los órganos que integran la Administración electoral son: La Junta Electoral Central, la Junta Electoral de la Región de Murcia, las Juntas de Zona y las Mesas Electorales.
+
+### Artículo 7
+
+Artículo 7.
+1. La Junta Electoral de la Región de Murcia es un órgano permanente que está compuesto por:
+a) Presidente: El Presidente del Tribunal Superior de Justicia de la Región de Murcia.
+b) Vicepresidente: Elegido por todos los Vocales, de entre los de la carrera judicial, en la sesión constitutiva.
+c) Tres Vocales elegidos por sorteo entre los Magistrados del Tribunal Superior de Justicia de la Región celebrado por su Sala de Gobierno.
+d) Tres Vocales Catedráticos o Profesores en activo de la Facultad de Derecho de la Universidad de Murcia, designados a propuesta conjunta de los partidos, federaciones, coaliciones o agrupaciones de electores con representación en la Asamblea Regional.
+e) Secretario: El Letrado-Secretario general de la Asamblea Regional, que participa en las deliberaciones con voz y sin voto, y custodia la documentación correspondiente a la Junta.
+2. Las designaciones de los Vocales deberán realizarse dentro de los noventa días siguientes a la sesión constitutiva de la Asamblea Regional. Cuando la propuesta de los Vocales previstos en la letra d) del apartado anterior no se produzca dentro de este plazo, decidirá la Mesa de la Asamblea en función de la representación existente en la misma.
+3. Asimismo participará en las reuniones de la Junta Electoral, con voz pero sin voto, el Delegado Provincial de la Oficina del Censo Electoral.
+4. Los miembros de la Junta Electoral de la Región de Murcia serán nombrados por Decreto, al comienzo de cada legislatura, extendiéndose su mandato hasta la toma de posesión de la nueva Junta.
+5. La Junta Electoral de la Región de Murcia tendrá su sede en el Tribunal Superior de Justicia.
+
+### Artículo 8
+
+Artículo 8.
+1. Los miembros de la Junta Electoral de la Región de Murcia son inamovibles, y sólo podrán ser suspendidos por delitos o faltas electorales, mediante expediente incoado por la Junta Electoral Central en virtud de acuerdo de la mayoría absoluta de sus componentes y sin perjuicio del procedimiento judicial que corresponda.
+2. Los Vocales de la Junta Electoral de la Región de Murcia serán sustituido por los mismos procedimientos previstos para su designación. El Letrado-Secretario general de la Asamblea será sustituido por el Letrado más antiguo y, en caso de igualdad, por el de mayor edad.
+
+### Artículo 9
+
+Artículo 9.
+Los miembros de las Juntas Electorales de la Región y de Zona para las elecciones a la Asamblea Regional, tendrán derecho a unas dietas y gratificaciones que, siendo compatibles con sus haberes, serán fijadas por el Consejo de Gobierno y fiscalizadas por el órgano competente.
+
+### Artículo 10
+
+Artículo 10.
+Las competencias de la Junta Electoral de la Región de Murcia serán, además de las previstas en La Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General:
+a) Resolver consultas que sean elevadas por las Juntas de Zona y dictar instrucciones a las mismas en materia de su competencia.
+b) Resolver las quejas, reclamaciones y recursos que se dirijan de acuerdo con la Ley Orgánica 5/1985, de 19 de junio. del Régimen Electoral General, con la presente Ley o con cualquier disposición que le atribuya esa competencia.
+c) Ejercer jurisdicción disciplinaria sobre todas las personas que intervengan con carácter oficial en las operaciones electorales.
+d) Corregir las infracciones que se produzcan en el proceso electoral siempre que no sean constitutivas de delitos y no estén reservadas a los tribunales o a la Junta Electoral Central, e imponer multas hasta la cantidad de 1.200 €, conforme a lo establecido por la ley.
+Se modifica el apartado d) por el art. único.3 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+### Artículo 11
+
+Artículo 11.
+1. La Asamblea Regional pondrá a disposición de la Junta Electoral de la Región todos los medios necesarios para el cumplimiento de sus funciones.
+2. La misma obligación compete a los Ayuntamientos y, supletoriamente, al Consejo de Gobierno, respecto a las Juntas de Zona.
+
+### Artículo 12
+
+Artículo 12.
+Las Juntas de Zona y las Mesas Electorales se regirán, en cuanto a su composición y funcionamiento, por las normas que establece la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+## TÍTULO III
+
+Sistema Electoral
+
+### Artículo 13
+
+Artículo 13.
+La circunscripción electoral será única, integrada por todos los municipios de la Región.
+Se modifica por el art. único. 4 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+### Artículo 14
+
+Artículo 14.
+La Asamblea Regional estará formada por 45 diputados.
+Se modifica por el art. único.5 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+### Artículo 15
+
+Artículo 15.
+La atribución de los escaños en función de los resultados del escrutinio se realizará conforme a las siguientes reglas:
+a) No se tienen en cuenta aquellas candidaturas que no hubieren obtenido, al menos, el 3 % de los votos válidos emitidos en la Región.
+b) Se ordenan de mayor a menor, en una columna, las cifras de votos obtenidos por las restantes candidaturas.
+c) Se divide el número de votos obtenidos por cada candidatura por 1, 2, 3, etcétera, hasta un número igual al de escaños correspondientes a la circunscripción única. Los escaños se atribuyen a las candidaturas que obtengan los cocientes mayores, atendiendo a su orden decreciente.
+d) Cuando en la relación de cocientes coincidan dos que sean de distintas candidaturas, el escaño se atribuirá a la que mayor número total de votos hubiese obtenido. Si hubiera dos candidaturas con igual número de votos, el primer empate se resolverá por sorteo y los sucesivos de forma alternativa.
+e) Los escaños correspondientes a cada candidatura se adjudican a los candidatos incluidos en ella, por el orden de colocación en que aparezcan.
+Se modifica por el art. único.6 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+### Artículo 16
+
+Artículo 16.
+En caso de fallecimiento, incapacidad, renuncia incompatibilidad de un Diputado en cualquier momento de la legislatura, el escaño será atribuido al siguiente de la misma lista atendiendo a su orden de colocación.
+
+## TÍTULO IV
+
+Convocatoria de elecciones
+
+### Artículo 17
+
+Artículo 17.
+1. La convocatoria de elecciones a la Asamblea regional de Murcia, se realizará mediante decreto del Presidente de la Comunidad Autónoma que será publicado en el «Boletín Oficial de la Región de Murcia».
+2. El Decreto de convocatoria fijará el día de la votación conforme a los plazos señalados en el artículo 42.3 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General; igualmente, fijará la fecha de la sesión constitutiva de la Asamblea que se celebrará dentro de los treinta días siguientes al de la votación.
+Se modifica el apartado 2 por el art. único.1 de la Ley 1/1991, de 15 de marzo. Ref. BOE-A-1991-12363.
+
+## TÍTULO V
+
+Procedimiento electoral
+
+## CAPÍTULO I
+
+Representantes de las candidaturas ante la Administración Electoral
+
+### Artículo 18
+
+Artículo 18.
+1. Los partidos, federaciones, coaliciones y agrupaciones que pretendan concurrir a las elecciones designarán las personas que deban representarlos ante la Administración Electoral, como representantes generales o de candidaturas.
+2. Los representantes generales actuarán en nombre de los partidos, federaciones, coalicciones y agrupaciones concurrentes.
+3. Los representantes de las candidaturas lo serán de los candidatos incluidos en ellas. Al lugar expresamente designado por los mismos, y, en su defecto, a su domicilio, se remitirán todas las notificaciones, escritos y emplazamientos dirigidos por la Administración Electoral a los candidatos, de los que recibirán, por la sola aceptación de la candidatura, un apoderamiento general para actuar en procedimientos judiciales de carácter electoral.
+
+### Artículo 19
+
+Artículo 19.
+A los efectos previstos en el artículo anterior, los partidos, federaciones, agrupaciones y coaliciones que pretendan concurrir a las elecciones, designarán un representante general y un suplente, mediante escrito presentado a la Junta Electoral de la Región de Murcia, antes del noveno día posterior al de la convocatoria de las elecciones. El mencionado escrito habrá de expresar la aceptación de las personas elegidas. El suplente solo podrá actuar en los casos de renuncia, muerte o incapacidad del titular.
+Se modifica por el art. único.7 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+## CAPÍTULO II
+
+Presentación y proclamación de candidatos
+
+### Artículo 20
+
+Artículo 20.
+1. La Junta Electoral de la Región de Murcia será la competente para todas las actuaciones previstas en relación con la presentación y proclamación de candidatos para las elecciones a la Asamblea Regional de Murcia.
+2. Las agrupaciones de electores necesitarán, para presentar candidaturas, al menos, la firma del 1 % de los inscritos en el censo electoral único vigente.
+Cada elector solo podrá apoyar una agrupación electoral.
+3. Las candidaturas presentadas y las proclamadas se publicarán en el Boletín Oficial de la Región de Murcia.
+Se modifica por el art.único.8 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+### Artículo 21
+
+Artículo 21.
+1. La presentación de candidaturas, en las que en todo caso se respetará la paridad establecida en la Ley Orgánica del Régimen Electoral General, y que siempre procurará la alternancia de género, habrá de realizarse entre el decimoquinto y vigésimo día posteriores a la convocatoria mediante lista que deberá incluir 45 candidatos y candidatas, y, además, un número de suplentes no superior a diez, expresándose el orden de colocación de todos ellos.
+2. La Junta electoral de la Región de Murcia inscribirá las candidaturas presentadas, haciendo constar la fecha y hora de presentación, y expidiendo documento acreditativo de ese trámite.
+Se modifica el apartado 1 por el art. único.9 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+### Artículo 22
+
+Artículo 22.
+Las candidaturas electorales no podrán ser objeto de modificación una vez presentadas, salvo en el plazo previsto en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, para la subsanación de irregularidades, y sólo por fallecimiento o renuncia del titular o como consecuencia del propio trámite de subsanación, operándose la sustitución, en caso de ser necesaria, por el orden de los candidatos y, en su caso, de los suplentes.
+Después de la proclamación de candidaturas, éstas sólo podrán ser modificadas por renuncia o muerte del titular, cubriéndose las bajas por los candidatos sucesivos y, en su caso, por los suplentes.
+
+## CAPÍTULO III
+
+Campaña electoral
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 23
+
+Artículo 23.
+1. La campaña electoral es el conjunto de actividades lícitas organizadas o desarrolladas por los partidos, federaciones, coaliciones, agrupaciones de electores y candidatos para la captación de sufragios.
+2. El decreto de convocatoria fijará la fecha de iniciación de la campaña electoral y el día de la votación, teniendo en cuenta lo establecido en el artículo 51 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+3. El Consejo de Gobierno podrá realizar en el mismo período una campaña institucional, orientada exclusivamente a fomentar la participación de los electores en la votación.
+
+## Sección 2
+
+Sección 2.ª Utilización de los medios de comunicación de titularidad pública para la campaña electoral
+
+### Artículo 24
+
+Artículo 24.
+Durante la campaña electoral los partidos, federaciones, coaliciones y agrupaciones que concurran a las elecciones tendrán derecho a espacios gratuitos de propaganda en los distintos medios de comunicación de titularidad pública que operen en el ámbito regional.
+
+### Artículo 25
+
+Artículo 25.
+Los espacios gratuitos serán distribuidos por la Junta electoral de la Región de Murcia, a propuesta de una Comisión de Control Electoral designada por la propia Junta e integrada por un representante de cada partido, federación, coalición o agrupación que se presente a las elecciones convocadas y tenga representación en la Asamblea regional. Dichos representantes votarán ponderadamente de acuerdo con la composición de la Asamblea.
+La Junta electoral de la Región de Murcia elegirá Presidente de la Comisión de Control de entre los representantes nombrados conforme a lo dispuesto en el párrafo anterior.
+
+### Artículo 26
+
+Artículo 26.
+1. La distribución del tiempo gratuito de propaganda electoral se efectuará conforme a los siguientes criterios:
+a) Diez minutos para los partidos, federaciones, coaliciones y agrupaciones de electores que no concurrieron o no obtuvieron el mínimo del 3 % del total de votos válidos emitidos en las anteriores elecciones autonómicas.
+b) Veinte minutos para aquellos que hubiesen obtenido en las anteriores elecciones autonómicas entre el 3 por 100 y el 10 por 100 del total de votos válidos emitidos.
+c) Treinta minutos para aquellos que hubiesen obtenido en las anteriores elecciones autonómicas más del 10 por 100 del total de votos válidos emitidos.
+El momento y orden de intervención serán determinados por la Junta Electoral de la Región de Murcia, teniendo en cuenta las preferencias de los partidos, federaciones, coaliciones o agrupaciones, y en función del número total de votos obtenidos por cada uno de ellos en las precedentes elecciones autonómicas.
+2. Además de los espacios gratuitos de propaganda electoral, los medios de comunicación de titularidad pública con cobertura en la Comunidad Autónoma programarán, durante el periodo de la campaña electoral, al menos un debate entre quienes encabecen todas las listas presentadas que ya tuvieran representación parlamentaria, y se podrán celebrar debates entre todas las candidaturas proclamadas. Todos estos debates se regirán por los principios de igualdad de oportunidades y equidad.
+Las normas de organización y funcionamiento de los debates deberán ser aprobadas por la Junta Electoral Regional.
+Se modifica por el art. único.10 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+## CAPÍTULO IV
+
+Papeletas y sobres electorales
+
+### Artículo 27
+
+Artículo 27.
+1. La Junta Electoral de la Región de Murcia aprobará el modelo oficial de las papeletas de votación.
+2. El Consejo de Gobierno asegurará la disponibilidad de las papeletas y sobres de votación, así como su entrega, en número suficiente a las Mesas Electorales, al menos una hora antes al momento en que haya de iniciarse la votación.
+3. Las primeras papeletas confeccionadas de cada candidatura se entregarán al Delegado provincial de la Oficina del Censo Electoral para su envío a los residentes ausentes que viven en el extranjero.
+Se modifica el apartado 1 por el art. único.11 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+## CAPÍTULO V
+
+Voto por Correo
+
+### Artículo 28
+
+Artículo 28.
+Los electores que prevean que en la fecha de la votación no se hallaran en la localidad donde les corresponde ejercer su derecho de voto, o que no puedan personarse, pueden emitir su voto por Correo, de acuerdo con lo dispuesto en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+## CAPÍTULO VI
+
+Apoderados e Interventores
+
+### Artículo 29
+
+Artículo 29.
+Los representantes de las candidaturas podrán nombrar, hasta tres días antes de la elección, dos Interventores por cada Mesa Electoral.
+Los requisitos para ser designado Interventor, el procedimiento a seguir para su nombramiento y las funciones y facultades de los mismos, se regirán por las normas de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+### Artículo 30
+
+Artículo 30.
+Los representantes de las candidaturas podrán, asimismo, nombrar Apoderados con objeto de que ostenten la representación de la candidatura en los actos y operaciones electorales, sometiéndose, igualmente, a las normas que establece la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+## CAPÍTULO VII
+
+De los Diputados proclamados electos
+
+### Artículo 31
+
+Artículo 31.
+Celebrados la votación y el escrutinio y resueltas, en su caso, las reclamaciones presentadas, tal y como se establece en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, la Junta Electoral de la Región de Murcia efectuará la proclamación de los diputados electos, remitiéndose por la presidencia de dicha junta la lista de los mismos a la Asamblea Regional y procederá a la entrega de credenciales a los diputados electos.
+Se modifica por el art. único.12 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+## TÍTULO VI
+
+Régimen de financiación electoral
+
+## CAPÍTULO I
+
+### Artículo 32
+
+Artículo 32.
+1. Todos los partidos, federaciones, coaliciones y agrupaciones de electores concurrentes a las elecciones deberán tener un administrador electoral general.
+2. El Administrador electoral general responderá de todos los ingresos y gastos electorales realizados por el partido, federación, coalición o agrupación de electores y por los miembros de la candidatura, así como de la correspondiente contabilidad.
+Se modifica por el art. único.13 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+### Artículo 33
+
+Artículo 33.
+1. Podrá ser designado Administrador electoral general cualquier ciudadano mayor de edad, en pleno uso de sus derechos civiles y políticos, siempre que no ostente la condición de candidato.
+2. Los representantes generales y los de las candidaturas reguladas en los artículos 18 y 19 de esta Ley podrán acumular la condición de Administrador electoral general.
+3. Los representantes generales de los partidos, federaciones, coaliciones y agrupaciones de electores designarán al Administrador electoral general, mediante escrito que contenga el nombre y apellidos de la persona designada y su aceptación expresa, que será presentado ante la Junta electoral de la Región de Murcia, antes del undécimo día posterior al de la convocatoria de las elecciones.
+
+### Artículo 34
+
+Artículo 34.
+1. Los Administradores electorales generales comunicarán a la Junta electoral de la Región de Murcia, las cuentas abiertas en cualquier Entidad bancaria o Caja de Ahorros para la recaudación de fondos, dentro de las veinticuatro horas siguientes a la apertura de las mismas.
+2. La apertura de cuentas sólo podrá realizarse a partir de la fecha de nombramiento de los Administradores electorales generales. Si las candidaturas presentadas no fuesen proclamadas o renunciasen a concurrir a las elecciones, las imposiciones realizadas por terceros en estas cuentas, habrán de serles restituidas por los partidos, federaciones, coaliciones o agrupaciones que las promovieran.
+
+## CAPÍTULO II
+
+Gastos y subvenciones electorales
+
+### Artículo 35
+
+Artículo 35.
+1. La Comunidad Autónoma de la Región de Murcia subvencionará los gastos electorales según las siguientes reglas:
+a) 11.223,36 € por cada escaño obtenido.
+b) 0,59 € por cada uno de los votos conseguidos por cada candidatura que haya obtenido, al menos, un escaño.
+2. Ningún partido, federación, coalición o agrupación de electores podrá realizar gastos electorales que superen la cantidad que resulte de multiplicar por 0,22 € el número de habitantes correspondientes a la población de derecho de la Región de Murcia.
+3. Con independencia de las subvenciones a que se refiere el apartado 1 de este artículo, y, por lo tanto, sin sujeción al límite que señala el número 2, la Comunidad Autónoma subvencionará a los partidos, federaciones, coaliciones y agrupaciones los gastos electorales originados por el envío directo y personal a los electores de sobres y papeletas electorales, o de propaganda y publicidad electoral, de acuerdo con las siguientes reglas:
+a) Se abonará la cantidad de 0,25 € por elector siempre que se consiga, como mínimo, un escaño en la Asamblea Regional.
+b) El importe de las subvenciones no se hará efectivo sin que previamente se haya acreditado la realización de la actividad que determina el derecho a su obtención.
+4. Las cantidades que se mencionan en los apartados anteriores se refieren a euros constantes y deberán ser actualizadas por orden de la Consejería de Hacienda y Administración Pública, en los cinco días siguientes a la convocatoria de las elecciones.
+Téngase en cuenta que las cantidades establecidas en este artículo se actualizan periódicamente por Orden publicada únicamente en el Boletín Oficial de la Región de Murcia.
+Se modifica por el art. único.14 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+ Se renumera el apartado 3 como 4, se añade un nuevo apartado 3 y se modifica el nuevo apartado 4 por el art. único.1 y 2 de la Ley 9/1995, de 24 de abril. Ref. BOE-A-1995-13303.
+
+### Artículo 36
+
+Artículo 36.
+1. Los partidos, federaciones, coaliciones y agrupaciones de electores que hubiesen obtenido representación en las precedentes elecciones autonómicas podrán solicitar anticipos de las subvenciones electorales que haya de conceder la Comunidad Autónoma con arreglo a lo que previene el número 1 del artículo anterior, siempre que no superen el 30 por 100 de las concedidas en aquéllas.
+2. Los partidos, federaciones, coaliciones y agrupaciones de electores que hubiesen obtenido representación en las precedentes elecciones autonómicas podrán solicitar el anticipo del 50 por 100 de la subvención por los gastos electorales a que se refiere el número 3 del artículo 35; a tal efecto, la cantidad sobre la que, en cada caso, deba girar aquel porcentaje se calculará conforme a lo que determina el apartado a) de dicho número.
+3. Las solicitudes para la obtención de los anticipos previstos en los números 1 y 2 de este artículo se formularán por el Administrador electoral general de cada una de las formaciones políticas, ante la Junta Electoral de la Región de Murcia, entre los días vigesimoprimero y vigesimotercero posteriores al de la convocatoria de las elecciones.
+La Administración de la Comunidad Autónoma deberá poner los anticipos a disposición de los citados Administradores a partir del vigésimo día posterior al de la convocatoria.
+4. Los anticipos se devolverán, después de las elecciones, en la cuantía que exceda del importe de las subvenciones que, en definitiva y según la clase de éstas, corresponda a cada partido, federación, coalición o agrupación de electores.
+Se modifica por el art. único.3 de la Ley 9/1995, de 24 de abril. Ref. BOE-A-1995-13303
+
+## CAPÍTULO lll
+
+Control de la contabilidad y adjudicación de subvenciones
+
+### Artículo 37
+
+Artículo 37.
+1. Dentro del plazo de cuatro meses posterior a las elecciones, los partidos, federaciones, coaliciones o agrupaciones electorales que hubieran alcanzado los requisitos exigidos para recibir subvenciones de la Comunidad Autónoma, o que hubieran obtenido adelantos con cargo a las mismas, presentarán por medio de sus respectivos Administradores electorales generales, ante el Tribunal de Cuentas, una contabilidad detallada y documentada de sus respectivos ingresos y gastos electorales.
+2. La Administración de la Comunidad Autónoma entregará el importe de las subvenciones, bien directamente a los Administradores electorales generales, o bien a las Entidades bancarias que éstos hubiesen designado mediante notificación a la Junta electoral de la Región de Murcia para compensar los créditos o anticipos que por las mismas les hubiesen sido otorgados. La Administración de la Comunidad Autónoma verificará el pago conforme a los términos de dicha notificación, que no podrá ser revocada sin el consentimiento de la Entidad de crédito beneficiaria.
+
+### Artículo 38
+
+Artículo 38.
+1. En lo no regulado en este capítulo se estará a lo dispuesto en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, remitiéndose el resultado de la fiscalización a que se refiere el número 3 del artículo 134 de la misma al Consejo de Gobierno y a la Asamblea regional.
+2. Dentro del mes siguiente a la remisión del informe del Tribunal de Cuentas, el Consejo de Gobierno presentará a la Asamblea Regional un proyecto de Ley de Crédito Extraordinario, por el importe de las subvenciones que hayan de adjudicarse, las cuales se harán efectivas en el plazo de los cincuenta días posteriores a la aprobación del proyecto por la Cámara.
+3. No obstante lo anterior, en el plazo de treinta días, contados desde el siguiente al de la presentación de la contabilidad ante el Tribunal de Cuentas, la Comunidad Autónoma entregará a los Administradores electorales, en concepto de anticipo mientras no concluyan las actuaciones de dicho Tribunal, las cantidades equivalentes al 90 por 100 de cada una de las subvenciones que, de acuerdo con los criterios que establece el artículo 35 de esta Ley, corresponderían a las respectivas formaciones políticas en función de los resultados generales de las elecciones publicados en el «Boletín Oficial de la Región de Murcia», si bien, en su caso, se descontará el importe de los anticipos que se hubiesen concedido al amparo del artículo 36.
+Para la percepción de los anticipos que en este apartado se prevén, los partidos, federaciones, coaliciones y agrupaciones de electores deberán presentar aval bancario que cubra el 10 por 100 de las cantidades que, respectivamente, se les hayan de adelantar.
+Se modifica el apartado 2 y se añade un nuevo apartado 3 por el art. único.4 de la Ley 9/1995, de 24 de abril. Ref. BOE-A-1995-13303.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se faculta al Consejo de Gobierno para dictar cuantas disposiciones sean precisas para el cumplimiento y ejecución de la presente Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Los plazos previstos en esta Ley son improrrogables y se entenderán siempre referidos a días naturales.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+(Derogada).
+Se deroga por el art. único.15 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Sin perjuicio de la constitución de la Junta electoral regional prevista en el artículo 7.º de esta Ley, cuando las elecciones a la Asamblea regional de la Comunidad Autónoma de la Región de Murcia coincidan con la celebración de las elecciones municipales u otras, las funciones y competencias de la Junta electoral regional serán asumidas por la Junta electoral provincial de Murcia.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Derogada).
+Se deroga por el art. único.16 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+(Derogada).
+Se deroga por el art. único.16 de la Ley 14/2015, de 28 de julio. Ref. BOE-A-2015-10237.
+
+### Disposición final primera
+
+Disposición final primera.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de la Región de Murcia».
+
+### Disposición final segunda
+
+Disposición final segunda.
+En todo lo no expresamente previsto por esta Ley serán aplicables las normas contenidas en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, con las adaptaciones y modificaciones derivadas del carácter y ámbito de la consulta electoral.
+
+Por tanto ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan, y a los Tribunales y autoridades que corresponda, que la hagan cumplir.
+Murcia, 24 de febrero de 1987.–El Presidente, Carlos Collado Mena.

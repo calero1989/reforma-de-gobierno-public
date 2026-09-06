@@ -1,0 +1,313 @@
+# Ley 8/2009, de 28 de agosto, de financiación de la Corporación de Radio y Televisión Española.
+
+- Identificador BOE: `BOE-A-2009-13988`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2009-13988
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+PREÁMBULO
+La Ley 17/2006 de 5 de junio, de la radio y televisión de titularidad estatal, supuso una importante reforma del sector audiovisual de titularidad estatal en la línea de lo establecido en el Protocolo 32 del Tratado de Constitución de la Comunidad Europea sobre el sistema de radiodifusión de los Estados miembros. Esta ley creó la Corporación RTVE dotándola de un régimen jurídico moderno acorde con los tiempos y los avances tecnológicos producidos en el sector. La definición del servicio público de radio, televisión y servicios conexos e interactivos así como la encomienda de su prestación a la naciente Corporación constituían una necesidad, una exigencia, que dicho texto legal vino a satisfacer. Designó asimismo un instrumento para concretar los objetivos generales de la función del servicio público legalmente establecidos, el mandato-marco, que el Parlamento deberá aprobar cada nueve años.
+La reforma perseguía además la independencia del organismo público prestador del servicio de radio y televisión estatal con respecto a cualquier otra instancia u organismo de carácter administrativo, gubernamental o partidista. Así, la ley trasladó al Parlamento la competencia para el nombramiento, por mayoría cualificada, del Presidente y demás miembros del Consejo de Administración, máximos responsables de la Corporación, e introdujo controles profesionales mediante la creación de los Consejos de Informativos, órganos internos de participación de los profesionales de la información de la Corporación RTVE para velar por su independencia editorial y la objetividad y veracidad de los contenidos informativos difundidos por las sociedades prestadoras del servicio público correspondiente.
+Pero la independencia política constituye sólo uno de los pilares de la reforma. El otro lo constituye la independencia económica, hacia la que la ley también dio pasos. Estableció para la nueva Corporación un modelo de financiación mixta —que combina los ingresos procedentes de los Presupuestos Generales del Estado, fijados cada tres años en un contrato-programa, con los derivados de su participación en el mercado publicitario— bajo el principio de equilibrio presupuestario. Pero la fórmula de combinación de ingresos públicos con comerciales no es libre. Primero, la nueva Directiva Europea 2007/65/CE del Parlamento Europeo y del Consejo de 11 de diciembre, que deberá ser incorporada a la legislación española antes de finalizar este año, mantiene el límite de doce minutos por hora de reloj para la emisión de publicidad. Segundo, el artículo 32.2 de la Ley 17/2006 establece que «el contrato-programa deberá incorporar restricciones adicionales a las establecidas con carácter general en la Ley 25/1994 de 12 de julio, para la emisión de publicidad televisiva». Y, además, esa previsión de restricciones adicionales se reitera en el mandato-marco para la CRTVE aprobado por las Cortes en diciembre de 2007.
+A la espera de la firma del primer contrato-programa de la Corporación, fueron las Leyes de Presupuestos Generales del Estado para 2008 y para 2009 las que incluyeron sendas reducciones publicitarias de un minuto, situándose en la actualidad el tope máximo de emisión publicitaria para la Corporación en diez minutos por hora de reloj. Correlativamente, y en aras del mantenimiento del equilibrio presupuestario, fue preciso compensar el consecuente descenso de ingresos con fondos públicos.
+La reducción de la publicidad en la Corporación RTVE tiene como objetivo garantizar la estabilidad en sus ingresos y, en consecuencia, favorecer el equilibrio presupuestario evitando riesgos para el mantenimiento de la prestación del servicio público encomendado. Este objetivo permite asimismo reforzar la independencia del servicio público frente a consideraciones de mercado que pudieran afectar a la prestación del servicio encomendado y facilita la determinación de la compensación a RTVE para poder cubrirlo.
+El actual estado de cosas aconseja acelerar el proceso de cambio estructural del modelo de financiación de RTVE, renunciar definitiva e inmediatamente a los ingresos publicitarios y pasar a un sistema único de financiación basado en ingresos públicos, amortiguando situaciones de inestabilidad propias de los procesos de transición y consiguiendo que los efectos de la reducción publicitaria en RTVE se dejen sentir lo antes posible en el mercado televisivo. Y esa es la finalidad de la presente ley.
+Evidentemente, esta medida debe aplicarse conjuntamente con otras destinadas a garantizar legalmente que la Corporación RTVE sea compensada suficientemente con los ingresos públicos que le permitan seguir prestando el servicio público encomendado en la ley y el mandato-marco, sin dejar de cumplir con el principio de equilibrio presupuestario.
+La calidad de un servicio público depende también de la posibilidad de que tenga acceso al mismo el mayor número de ciudadanos y por ello se garantiza que el servicio público de radio, televisión y servicios conexos e interactivos se preste en condiciones de universalidad y gratuidad y, por tanto, la renuncia de la Corporación RTVE a ofrecer contenidos de pago o acceso condicionado.
+No parece razonable que la garantía de la financiación sea a costa de aumentar las aportaciones del Estado. Parece lógico que quienes resulten beneficiados por esta decisión sean también quienes soporten, en parte, esa carga económica. La imposición de una aportación razonable a las operadoras privadas para la financiación de la televisión pública es, por otro lado, una fórmula utilizada por otros países de nuestro entorno.
+Las nuevas figuras tributarias que establece la ley, se ajustan plenamente, como no podía ser menos, a los principios constitucionales sobre la tributación, en especial el de igualdad de trato a los sujetos pasivos y el de la adecuación del gravamen a la capacidad económica de tales sujetos pasivos así como el de legalidad en el establecimiento de los tributos y de las prestaciones patrimoniales de carácter público.
+En particular, el sistema que se establece toma en cuenta los ingresos de los sujetos pasivos y muy especialmente los que, de forma tanto directa como indirecta, habrán de percibir por la supresión del régimen de publicidad retribuida y por la renuncia a contenidos de pago en la Corporación RTVE. Estos beneficios concurren tanto en los operadores de televisión como en los de telecomunicaciones, todos los cuales ya actúan y van a seguir actuando en el mismo sector a través de las varias soluciones y medios técnicos ya existentes, así como a través de los que de inmediato se pondrán en funcionamiento, tales como la potenciación de la televisión de alta definición, la televisión en movilidad, la televisión digital terrestre de pago o la interactividad, todo lo cual está directamente vinculado a la ampliación de los servicios de banda ancha fija y móvil.
+No obstante, las operadoras privadas de televisión y telecomunicaciones no pueden hacerse cargo de la totalidad de los ingresos que la Corporación RTVE deja de percibir por su renuncia al mercado publicitario y a los contenidos de pago ya que, de ser así, no se conseguiría el efecto dinamizador del sector que también pretende esta medida. Por ello se ha optado por aplicar, al igual que en otros países de nuestro entorno, un porcentaje sobre los ingresos de los operadores del 3% para los de televisión comercial en abierto, del 1,5% para los operadores de televisión de pago y del 0’9% para los de telecomunicaciones. En el caso de los operadores de televisión, estos porcentajes se han determinado, siguiendo las recomendaciones del Consejo de Estado, teniendo en cuenta el distinto impacto que la supresión de la publicidad tiene en las televisiones que operan en abierto, y las que emiten en oferta de acceso condicional o de pago por satélite o por cable.
+Por lo demás, en la medida en que los ingresos de los operadores aumenten, bien por el fin del ciclo recesivo o bien por el aumento natural del consumo de contenidos audiovisuales tanto libre como codificado o de pago, aumentarían las cantidades recaudadas para financiar RTVE.
+Además, se crea un fondo de reserva, dotado con los ingresos que superen el coste neto del servicio público que se preste, bien para atender a situaciones sobrevenidas o bien para reducir las aportaciones directas del Estado vía Presupuestos Generales. Este fondo, de no haber sido utilizado en cuatro años, servirá para reducir las aportaciones del Estado. Su utilización total o parcial se efectuará contando con la supervisión y autorización del Ministerio de Economía y Hacienda.
+En suma, para completar el resto de las necesidades presupuestarias de RTVE, se recurre a una parte de los ingresos derivados de la aplicación de una aportación a las operadoras de televisión y telecomunicaciones –ya en vigor en España y en los países de nuestro entorno–, por la utilización de un bien de titularidad pública, el espacio radioeléctrico.
+Por otro lado, al igual que se imponen a los operadores privados contraprestaciones por la prohibición a la CRTVE de emitir contenidos publicitarios y por la utilización de un bien público, se deben imponer contrapartidas a RTVE a cambio de la garantía de su estabilidad presupuestaria y para no distorsionar los principios de la competencia. Y esas contrapartidas no pueden ni deben ser otras que reforzar el carácter de servicio público de RTVE en sus contenidos y en su gestión, con obligaciones adicionales a las impuestas al conjunto de los operadores privados y a las ya establecidas en la normativa reguladora de la radio y la televisión de titularidad estatal.
+En definitiva, esta ley cuyo contenido está de acuerdo con el dictamen emitido por el Consejo de Estado, cuyas observaciones han sido incorporadas, completa la reforma institucional, financiera y estructural del modelo de radiotelevisión pública estatal en España iniciada hace tres años, garantizando, a medio y largo plazo, su estabilidad financiera y, a corto, su equilibrio presupuestario. Y pretende que estos potenciales beneficios tanto en el sector público como en el privado tengan como contrapartida el perfeccionamiento de un modelo que permita la existencia y la convivencia estable del sector audiovisual público y privado en nuestro país.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto regular el sistema de financiación de la Corporación de Radio y Televisión Española y de sus filiales prestadoras del servicio público de radio y televisión de titularidad del Estado.
+Asimismo, se establecen obligaciones adicionales que se exigen para la prestación de los servicios públicos encomendados.
+
+### Artículo 2
+
+Artículo 2. Financiación.
+1. La Corporación RTVE se financiará con los siguientes recursos:
+a) Las compensaciones por el cumplimiento de las obligaciones de servicio público consignadas en los Presupuestos Generales del Estado a que se refieren la Ley 17/2006, de 5 de junio, de la radio y televisión de titularidad estatal y la presente ley.
+b) Un porcentaje o importe sobre el rendimiento de la tasa sobre reserva de dominio público radioeléctrico regulada en la Ley 9/2014, de 9 de mayo, General de Telecomunicaciones.
+c) La aportación que deben realizar los prestadores del servicio de comunicación audiovisual televisivo de ámbito geográfico estatal o superior al de una Comunidad Autónoma, de acuerdo con lo previsto en esta ley, y los prestadores del servicio de intercambio de vídeos a través de plataforma.
+d) Los ingresos obtenidos por los servicios que presten y, en general, por el ejercicio de sus actividades, en los términos establecidos en esta ley.
+e) Los productos y rentas de su patrimonio.
+f) Las aportaciones voluntarias, subvenciones, herencias, legados y donaciones.
+g) Los procedentes de las operaciones de crédito que concierten, dentro de los límites establecidos en el artículo 31 de la Ley 17/2006, de 5 de junio.
+h) Cualesquiera otros de derecho público o de derecho privado que les puedan ser atribuidos por cualquiera de los modos establecidos en el ordenamiento jurídico.
+2. Cuando el fondo de reserva al que hace referencia el Capítulo IV de la presente ley no pueda compensar una hipotética reducción de los ingresos contemplados en las letras b), c) y d) del apartado 1 de este artículo, se completará el presupuesto previsto con fondos provenientes de los Presupuestos Generales del Estado en aplicación del artículo 33.1 de la Ley 17/2006, siempre y cuando el gasto no haya sobrepasado los límites presupuestados.
+Se modifica el apartado 1 por la disposición final 4.1 de la Ley 13/2022, de 7 de julio. Ref. BOE-A-2022-11311#df-4
+ Esta modificación entra en vigor en el ejercicio 2023, según establece la disposición final novena de la citada ley, aplicándose mientras tanto el régimen transitorio establecido en la disposición transitoria sexta.
+ Se modifica el encabezamiento del apartado 1 por la disposición final 3.1 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+### Artículo 3
+
+Artículo 3. Límites de la financiación y dimensión económica de la Corporación RTVE.
+1. Los ingresos a los que se refieren las letras a), b) y c) del apartado 1 del artículo anterior solo podrán ser destinados por la Corporación RTVE a financiar actividades que sean de servicio público. La Corporación RTVE no podrá utilizar estos ingresos para bajar injustificadamente los precios de su oferta comercial y de servicios ni para presentar ofertas desproporcionadamente elevadas frente a competidores privados por derechos de emisión sobre contenidos en el mercado audiovisual.
+2. El mandato-marco y los sucesivos contratos programa a los que se refiere el artículo 4 de la Ley 17/2006, de 5 de junio, incorporarán la dimensión económica de la actividad de la Corporación RTVE así como los límites que, en su caso, deba tener su crecimiento anual, teniendo en cuenta las obligaciones de servicio público que se le imponen y conforme a las reglas siguientes:
+a) Durante el bienio 2010-2011 el total de ingresos por todos los conceptos de la Corporación RTVE no superará la cifra de 1.200 millones de euros. Este importe operará también como límite de gasto en cada ejercicio.
+b) Durante el trienio 2012-2014 el crecimiento, en su caso, no será superior al 1% anual.
+c) A partir del ejercicio 2014 el crecimiento, en su caso, se acomodará a la previsión de incremento del índice general de precios al consumo para el año de referencia.
+3. El exceso de ingresos sobre el límite establecido en el apartado anterior se deberá ingresar en el tesoro público. Reglamentariamente se establecerá el procedimiento a aplicar cuando se supere este límite.
+Se modifica el apartado 1 por la disposición final 4.2 de la Ley 13/2022, de 7 de julio. Ref. BOE-A-2022-11311#df-4
+ Esta modificación entra en vigor en el ejercicio 2023, según establece la disposición final novena de la citada ley, aplicándose mientras tanto el régimen transitorio establecido en la disposición transitoria sexta.
+
+## CAPÍTULO II
+
+Ingresos por tasas y aportaciones
+
+### Artículo 4
+
+Artículo 4. Porcentaje sobre el rendimiento de la tasa sobre reserva de dominio público radioeléctrico.
+1. La Corporación RTVE percibirá un porcentaje o importe sobre el rendimiento de la tasa sobre reserva de dominio público radioeléctrico regulada en el apartado 3 del Anexo I de la Ley 9/2014, de 9 de mayo, General de Telecomunicaciones.
+2. Mientras las leyes de Presupuestos Generales del Estado no establezcan un porcentaje o importe diferente sobre el rendimiento de la tasa sobre reserva de dominio público radioeléctrico, el importe anual queda fijado en 480 millones de euros.
+3. El Ministerio de Asuntos Económicos y Transformación Digital gestionará la tasa sobre reserva de dominio público radioeléctrico y la Dirección General del Tesoro y Política Financiera ordenará el pago del importe del porcentaje sobre el rendimiento de la aludida tasa a la Corporación de Radio y Televisión Española, en la forma y plazos que reglamentariamente se determinen.
+Se modifica por la disposición final 4.3 de la Ley 13/2022, de 7 de julio. Ref. BOE-A-2022-11311#df-4
+ Esta modificación entra en vigor en el ejercicio 2023, según establece la disposición final novena de la citada ley, aplicándose mientras tanto el régimen transitorio establecido en la disposición transitoria sexta.
+ Se modifica el apartado 2 por la disposición final 21 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-22
+ Se modifica el apartado 2, con efectos de 1 de enero de 2016, por la disposición final 10 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
+ Se modifica el apartado 3 por la disposición final 3.2 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+### Artículo 5
+
+Artículo 5. Aportación a realizar por los operadores de telecomunicaciones de ámbito geográfico estatal o superior al de una Comunidad Autónoma.
+(Suprimido)
+Se suprime por la disposición final 4.4 de la Ley 13/2022, de 7 de julio. Ref. BOE-A-2022-11311#df-4
+ Esta modificación entra en vigor en el ejercicio 2023, según establece la disposición final novena de la citada ley, aplicándose mientras tanto el régimen transitorio establecido en la disposición transitoria sexta.
+ Se modifican los apartados 3 y 4 por la disposición final 18.1 de la 3/2017, de 27 de junio. Ref. BOE-A-2017-7387#df-19
+
+### Artículo 6
+
+Artículo 6. Aportación a realizar por los prestadores del servicio de comunicación audiovisual televisivo y por los prestadores del servicio de intercambio de vídeos a través de plataforma de ámbito geográfico estatal o superior al de una Comunidad Autónoma.
+1. Los prestadores del servicio de comunicación audiovisual televisivo y los prestadores del servicio de intercambio de vídeos a través de plataforma contribuirán a la financiación de la Corporación RTVE mediante el pago de una aportación anual.
+2. La aportación prevista en el apartado anterior se regirá por lo dispuesto en esta ley y, subsidiariamente, por la Ley 58/2003, de 17 de diciembre, General Tributaria, y las normas reglamentarias dictadas en desarrollo de las mismas.
+3. Resultarán obligados al pago de esta aportación:
+a) Los prestadores del servicio de comunicación audiovisual televisivo lineal y televisivo a petición, ya sea en abierto o de pago, de ámbito estatal o superior al de una Comunidad Autónoma, que deban inscribirse en el Registro estatal de prestadores del servicio de comunicación audiovisual, de prestadores del servicio de intercambio de vídeos a través de plataforma y de prestadores del servicio de agregación de servicios de comunicación audiovisual.
+b) Los prestadores del servicio de comunicación audiovisual televisivo lineal y televisivo a petición, ya sea en abierto o de pago que, estando establecidos en otro Estado miembro de la Unión Europea, ofrezcan servicios específicamente dirigidos al territorio nacional.
+c) Los prestadores del servicio de intercambio de vídeos a través de plataforma inscritos en el Registro estatal de prestadores del servicio de comunicación audiovisual, de prestadores del servicio de intercambio de vídeos a través de plataforma y de prestadores del servicio de agregación de servicios de comunicación audiovisual.
+d) Los prestadores del servicio de intercambio de vídeos a través de plataforma que, estando establecidos en otro Estado miembro de la Unión Europea, ofrezcan servicios específicamente dirigidos al territorio nacional.
+4. Estarán exentos del pago de la aportación prevista en el apartado 1 los obligados cuando reúnan las condiciones para aplicar el Plan General de Contabilidad Pequeñas y Medianas Empresas de acuerdo con los artículos 2 y siguientes del Real Decreto 1515/2007, de 16 de noviembre, por el que se aprueba el Plan General de Contabilidad de Pequeñas y Medianas Empresas y los criterios contables específicos para microempresas.
+5. La aportación prevista en el apartado 1 se calculará sobre los ingresos brutos de explotación facturados en el año correspondiente, entendiendo por tales los percibidos por los prestadores del servicio de comunicación audiovisual y del servicio de intercambio de vídeos a través de plataforma en razón de su actividad como prestadores de dicho servicio en el mercado audiovisual español.
+En los casos b) y d) del apartado 3 la aportación se calculará sobre los ingresos brutos de explotación facturados en el año correspondiente por los servicios específicamente dirigidos al territorio nacional.
+En el caso de que el prestador obligado comercialice y facture servicios de comunicación audiovisual o servicios de intercambio de vídeos a través de plataforma de forma conjunta con otros servicios, éste deberá aportar a la Administración tributaria datos y criterios para la imputación contable de cada una de las partidas de ingresos.
+En todo caso, estarán sujetos los ingresos brutos de explotación obtenidos por la prestación del servicio de comunicación audiovisual ya sea de manera directa o a través de una empresa del mismo grupo en los términos establecidos en el artículo 42 del Código de Comercio.
+6. Se computarán como ingresos brutos de explotación los obtenidos por:
+a) Comunicaciones comerciales audiovisuales de acuerdo con lo establecido en la normativa audiovisual.
+b) Cuotas de inscripción, suscripción, prepago o pago por visión directa satisfechos por usuarios finales.
+c) Alquiler y venta a usuarios finales de equipos descodificadores necesarios para el visionado de contenidos audiovisuales.
+d) El rendimiento de obras audiovisuales objeto de financiación anticipada prevista en el título VI de la Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual.
+7. No se computarán a efectos del cálculo de la aportación prevista en el apartado primero los ingresos brutos de explotación obtenidos por:
+a) Comunicaciones comerciales realizadas en medios distintos de los servicios de comunicación audiovisual de los prestadores sujetos al pago de la aportación.
+b) Enajenación o cesión de derechos de distribución y exhibición sobre obras cinematográficas y audiovisuales.
+c) Provisión, arrendamiento, cesión o enajenación de derechos de emisión de canales propios de televisión a prestadores de servicios de comunicaciones electrónicas o a otros prestadores de servicios de comunicación audiovisual.
+d) Provisión, arrendamiento, cesión o enajenación de contenidos audiovisuales a prestadores de servicios de comunicaciones electrónicas o a otros prestadores del servicio de comunicación audiovisual.
+e) Enajenación o cesión de derechos deportivos previamente adquiridos para su emisión por prestadores de servicios de comunicaciones electrónicas o por prestadores del servicio de comunicación audiovisual.
+f) Ingresos por comisiones de intermediación en la venta de producción a otros prestadores de comunicaciones electrónicas o a otros prestadores del servicio de comunicación audiovisual.
+g) Ingresos financieros.
+h) Los ingresos brutos derivados de la prestación de servicios digitales obtenidos por los sujetos obligados al pago de esta aportación que, a su vez, estén sujetos y gravados por el Impuesto sobre Determinados Servicios Digitales previsto en la Ley 4/2020, de 15 de octubre, del Impuesto sobre Determinados Servicios Digitales.
+i) Resultados atípicos o extraordinarios.
+j) Enajenación del inmovilizado.
+8. La aportación prevista en el apartado 1 se fija en el 1,5 por ciento de los ingresos brutos de explotación facturados en el año correspondiente para los prestadores del servicio de comunicación audiovisual televisivo lineal de acceso condicional, para los prestadores del servicio de comunicación audiovisual a petición y para los prestadores del servicio de intercambio de vídeos a través de plataforma. Esta aportación no podrá superar el 20 por ciento del total de ingresos previstos para cada año en la Corporación RTVE.
+9. La aportación prevista en el apartado 1 se fija en el 3 por ciento de los ingresos brutos de explotación facturados en el año correspondiente para los prestadores del servicio de comunicación audiovisual televisivo lineal en abierto. Esta aportación no podrá superar el 15 por ciento del total de ingresos previstos para año en la Corporación RTVE.
+10. Cuando un mismo prestador del servicio de comunicación audiovisual ofrezca servicios de comunicación audiovisual televisivos lineales en abierto, servicios de comunicación audiovisual televisivos lineales de acceso condicional o servicios de comunicación audiovisual a petición se aplicará el 3 por ciento sobre la parte de los ingresos brutos procedentes de los servicios de comunicación audiovisual televisivos lineales en abierto, y el 1,5 por ciento sobre los ingresos brutos procedentes de los servicios de comunicación audiovisual televisivos lineales de acceso condicional o de los servicios de comunicación audiovisual a petición.
+11. Podrá practicarse una deducción del 15 por ciento de los importes invertidos por el prestador obligado al pago de la aportación en coproducciones junto a la Corporación RTVE para la producción de contenidos audiovisuales.
+12. La aportación prevista en el apartado 1 se devengará el 31 de diciembre de cada año o, en su caso, en la fecha en que el prestador del servicio de comunicación audiovisual perdiera la habilitación para actuar como tal.
+13. Los obligados al pago de la aportación deberán efectuar la declaración y autoliquidar la aportación en la forma que se determine reglamentariamente.
+14. La gestión, liquidación, inspección y recaudación de la Aportación, tanto en período voluntario como en período ejecutivo, corresponderá a la Agencia Estatal de Administración Tributaria.
+15. El centro directivo competente para la llevanza del Registro estatal de prestadores del servicio de comunicación audiovisual, de prestadores del servicio de intercambio de vídeos a través de plataforma y de prestadores del servicio de agregación de servicios de comunicación audiovisual, comunicará anualmente a la Agencia Estatal de Administración Tributaria el censo de los prestadores del servicio de comunicación audiovisual de ámbito estatal o superior al de una Comunidad Autónoma, televisivo lineal y televisivo a petición, ya sea en abierto o de pago y de los prestadores del servicio de intercambio de vídeos a través de plataforma.
+16. El rendimiento de la aportación se destinará a la financiación de la Corporación RTVE, de conformidad con el procedimiento establecido reglamentariamente, con cumplimiento en cualquier caso de los límites previstos en los artículos 3.2 y 3.3.
+Se modifica por la disposición final 4.5 de la Ley 13/2022, de 7 de julio. Ref. BOE-A-2022-11311#df-4
+ Esta modificación entra en vigor en el ejercicio 2023, según establece la disposición final novena de la citada ley, aplicándose mientras tanto el régimen transitorio establecido en la disposición transitoria sexta.
+ Se modifican el apartado 3 y se añade el 10 por la disposición final 18.2 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387#df-19
+
+## CAPÍTULO III
+
+Ingresos derivados de la actividad
+
+### Artículo 7
+
+Artículo 7. Ingresos derivados de la actividad.
+1. La Corporación de Radio y Televisión Española y sus sociedades prestadoras del servicio público podrán obtener ingresos sin subcotizar los precios de su actividad mercantil, por los servicios que presten y, en general, por el ejercicio de sus actividades, incluyendo la comercialización de sus contenidos, tanto de producción propia como de producción mixta o coproducción, siempre que los ingresos no procedan de actividades de publicidad, ni se trate de ingresos derivados de la prestación del servicio de comunicación audiovisual de acceso condicional, salvo por lo indicado en los apartados siguientes.
+2. Se autoriza a la Corporación de Radio y Televisión Española, SA, a realizar las siguientes actividades:
+a) Comunicaciones comerciales audiovisuales excluidas del cómputo del límite cuantitativo recogidas en el artículo 137.2.a), b), c), d), e), f), g) e i) de la Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual.
+b) Emisión de programas y retransmisiones deportivas y culturales con contrato de patrocinio u otras formas de comunicación comercial asociadas a dichos patrocinios, que se enmarquen dentro de la misión de servicio público de la Corporación de Radio y Televisión Española, S.A., y limitados a la financiación de su adquisición o producción.
+c) Comunicaciones comerciales audiovisuales procedentes de la explotación del servicio de comunicación audiovisual en el ámbito internacional.
+d) Explotación de los contenidos en el ámbito digital.
+3. A los efectos de la presente ley, se entiende por actividades de publicidad y televenta las definidas en el título VI de la Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual.
+4. No tendrán consideración de comunicación comercial audiovisual las actividades siguientes que, en caso de realizarse, no darán lugar a contraprestación económica:
+a) Las actividades de publicidad y comunicación institucional, de conformidad con la Ley 29/2005, de 29 de diciembre, de Publicidad y Comunicación Institucional, y la legislación autonómica en la materia.
+b) Las actividades derivadas de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+c) Las campañas divulgativas de carácter social o de contenidos solidarios en beneficio de entidades y organizaciones sin fines de lucro emitidas al amparo de la responsabilidad social corporativa de la Corporación RTVE.
+d) Las campañas publicitarias de los patrocinadores del programa ADO y ADOP en beneficio exclusivo de la promoción y desarrollo del deporte olímpico y paralímpico español.
+Se modifica por la disposición final 4.6 de la Ley 13/2022, de 7 de julio. Ref. BOE-A-2022-11311#df-4
+ Esta modificación entra en vigor en el ejercicio 2023, según establece la disposición final novena de la citada ley, aplicándose mientras tanto el régimen transitorio establecido en la disposición transitoria sexta.
+ Se modifica el apartado 3 por la disposición final 3 del Real Decreto-ley 8/2019, de 8 de marzo. Ref. BOE-A-2019-3481#df-3
+ Se modifica el apartado 1 por la disposición final 3.3 de la Ley 7/2010, 31 de marzo. Ref. BOE-A-2010-5292
+
+## CAPÍTULO IV
+
+Fondo de reserva
+
+### Artículo 8
+
+Artículo 8. Fondo de reserva.
+1. La Corporación RTVE constituirá un fondo de reserva que estará dotado con los ingresos que superen el coste neto del servicio público prestado en el correspondiente ejercicio presupuestario, sin que en ningún caso se pueda sobrepasar el límite establecido en el artículo 3.2.
+2. La aportación anual a este fondo no podrá superar el 10% de los gastos anuales presupuestados. El resto de los ingresos excedentes se deberá ingresar en el Tesoro Público, de conformidad con lo establecido en el artículo 3.3 de esta ley.
+3. El fondo sólo podrá ser utilizado para compensar pérdidas de ejercicios anteriores y para hacer frente a contingencias especiales derivadas de la prestación del servicio público encomendado. En todo caso, para poder utilizar total o parcialmente el fondo la Corporación RTVE precisará de la autorización expresa del Ministerio de Economía y Hacienda.
+4. En caso de no disposición en cuatro años, el fondo de reserva será utilizado, total o parcialmente, para reducir las compensaciones por el cumplimiento de las obligaciones de servicio público previstas en la Ley 17/2006, de 5 de junio y en la presente ley. El Ministerio de Economía y Hacienda adoptará las decisiones oportunas para realizar dicha reducción en el presupuesto inmediatamente siguiente.
+
+## CAPÍTULO V
+
+Obligaciones adicionales de servicio público
+
+### Artículo 9
+
+Artículo 9. Obligaciones adicionales de servicio público.
+1. Sin perjuicio de las obligaciones de servicio público que resultan de la Ley 17/2006, de 5 de junio, la Corporación RTVE deberá cumplir también las siguientes:
+a) Dedicar, al menos, doce horas semanales en horario no residual entre sus distintos canales de la radio y de la televisión a emitir programas y presencia en los servicios interactivos en los que se dé acceso a los grupos políticos, sindicales y sociales.
+b) Informar periódicamente de los debates parlamentarios de las Cortes Generales y retransmitir en directo por radio, televisión e Internet las sesiones que tengan especial interés informativo. En estos casos, no se cortará la emisión hasta que no se hayan expresado todos los grupos políticos, salvo razones de urgencia informativa.
+c) Programar debates electorales de conformidad con lo establecido en la Ley Orgánica 5/1985, de 19 de junio.
+d) Ofrecer en el canal infantil en horarios de emisión, en días laborables, entre las diecisiete y veintiuna horas locales, al menos el 30% de programas destinados a menores entre cuatro y doce años. En fines de semana y períodos vacacionales la obligación se extenderá entre las nueve y las veinte horas locales. Una vez producido el apagón analógico, estos programas se emitirán en esta misma franja horaria y progresivamente en sistema multilingüe, al menos en castellano, lenguas cooficiales del Estado e inglés, siempre que las posibilidades técnicas y presupuestarias lo permitan.
+La Corporación deberá cumplir taxativamente con el Código de Autorregulación de Contenidos Televisivos e Infancia y posibilitará técnicamente la opción del control parental de las emisiones.
+Asimismo, la Corporación incrementará progresivamente la programación infantil de producción europea hasta conseguir una proporción mayoritaria de su tiempo de difusión.
+El Consejo Estatal de Medios Audiovisuales, en los términos fijados en la presente ley, será el encargado del control del cumplimiento de este precepto y de toda la regulación y normativa específica al respecto tanto en lo que se refiere a horarios como a contenidos. A nivel interno, la Corporación deberá designar un responsable para realizar esta tarea a través de la Oficina del Defensor del Telespectador, oyente y usuario de medios interactivos o de quien considere oportuno su Consejo de Administración.
+e) Antes de primero de enero de 2013 subtitular el 90 % de los programas y alcanzar progresivamente el 100%, siempre que las posibilidades técnicas lo permitan, y emitir, al menos, a la semana diez horas de interpretación con lengua de signos y otras diez horas audiodescritas. En las emisiones territorializadas se tendrá en cuenta la realidad lingüística de cada Comunidad Autónoma.
+f) Al menos un 60% de la franja de máxima audiencia de sus canales principales estará compuesta por largometrajes y cortometrajes cinematográficos, películas para televisión, documentales, series y programas informativos, culturales y de actualidad elaborados por la industria audiovisual europea.
+g) Incrementar en un 20% el deber de inversión legal en la financiación de la producción europea de largometrajes, cortometrajes, películas, documentales y productos de animación.
+h) Diversificar la contratación de servicios exteriores y de producciones ajenas o mixtas, de manera que no se concentren en más del 30% en un mismo proveedor, con la salvedad de las empresas con poder significativo en el mercado o que sean titulares de la explotación de derechos exclusivos.
+i) Limitar al 10 % del presupuesto anual total de aprovisionamientos, compras y servicios exteriores la adquisición de derechos de emisión de los eventos deportivos oficiales catalogados por el Consejo Estatal de Medios Audiovisuales como de interés general y de gran interés para la sociedad que se fijarán en el contrato-programa, con exclusión de los Juegos Olímpicos y Paralímpicos.
+j) Promover la cultura y el arte, la divulgación científica y tecnológica, la innovación y la actividad emprendedora.
+k) Garantizar las emisiones internacionales de radio y televisión con contenidos de calidad de carácter fundamentalmente informativo y de promoción de la cultura y de los intereses políticos y económicos estratégicos de España y sus territorios.
+l) Podrá suscribir convenios de colaboración funcional y operativa con otras empresas públicas de radio, televisión o noticias.
+m) Televisión Española no podrá emitir, en el conjunto de sus canales, más de 52 películas de estreno al año en horario de máximo consumo televisivo realizadas por las grandes productoras cinematográficas internacionales. Se entenderá por estreno la emisión en televisión del primer pase en abierto de películas ya estrenadas en salas de entre dos y cuatro años de antigüedad, a contar desde la fecha de estreno. La emisión en simultáneo por varios canales de TVE se considerará un solo pase.
+n) Asegurar la máxima cobertura geográfica, social y cultural e impulsar la diversidad cultural y lingüística en su oferta digital, especialmente a través de un canal dedicado a la producción cultural y artística. En función de las posibilidades técnicas y presupuestarias la Corporación adquirirá y emitirá contenidos audiovisuales producidos en las distintas Comunidades Autónomas y, cuando sean en lenguas cooficiales, se emitirá en sistema dual con el castellano. Asimismo, en los territorios con lengua cooficial se emitirá, en función de la realidad lingüística de cada Comunidad Autónoma, versiones dobladas o subtituladas en dichas lenguas de programas grabados de ficción, animación y documentales. Las desconexiones territoriales se realizarán en la lengua propia de cada Comunidad en función de la realidad lingüística de cada una de ellas.
+o) Propiciar el acceso a los distintos géneros de programación y a los eventos institucionales, sociales, culturales y deportivos, dirigiéndose a todos los segmentos de audiencia, edades y grupos sociales, incluidas las minorías con discapacidades.
+2. No podrá establecerse ninguna obligación adicional de servicio público a la Corporación RTVE sin la correspondiente dotación presupuestaria.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Adaptación del primer Mandato-Marco a la Corporación RTVE.
+La aprobación de la presente ley implica la adaptación o supresión de los artículos que se opongan a ella del mandato-marco a la Corporación RTVE –aprobado por el Pleno del Congreso de los Diputados en su sesión del 11 de diciembre de 2007 y por el Pleno del Senado en su sesión del 12 de diciembre de 2007–.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Adaptación de estatutos y exenciones fiscales y de aranceles y honorarios.
+1. Dentro del plazo de un mes a partir de la entrada en vigor de esta ley la Corporación RTVE y sus sociedades prestadoras del servicio público adaptarán sus estatutos a lo dispuesto en esta ley.
+2. Todas las transmisiones patrimoniales, operaciones societarias y actos derivados directa o indirectamente de la aplicación de la presente ley que tengan como sujeto pasivo a la Corporación RTVE y a las sociedades prestadoras del servicio público estarán exentos de cualquier tributo estatal, autonómico o local, sin que proceda, en este último caso, la compensación a que se refiere el artículo 9.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, que aprueba el Texto Refundido de la Ley Reguladora de las Haciendas Locales.
+3. Igualmente todas las transmisiones, operaciones y actos mencionados en el apartado anterior gozarán de exención del pago de cualesquiera aranceles y honorarios profesionales devengados por la intervención de fedatarios públicos y de Registradores de la Propiedad y Mercantiles.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Concesión de crédito extraordinario.
+1. Para atender al cumplimiento de las obligaciones a que se refiere la disposición transitoria cuarta de la presente ley, se concede un crédito extraordinario al Presupuesto en vigor de la Sección 15 «Ministerio de Economía y Hacienda», Servicio 01 «Ministerio, Subsecretaría y Servicios Generales», 923M «Dirección y Servicios Generales de Economía y Hacienda», capítulo 4 «Transferencias corrientes», artículo 44 «A sociedades, entidades públicas empresariales, fundaciones y resto entes Sector Público», concepto 447 «A la Corporación R.T.V.E.», por importe de 165 millones de euros.
+2. El crédito extraordinario que se concede en el apartado anterior se financiará con Deuda Pública.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+La Agencia Estatal de Administración Tributaria analizará la proporcionalidad de la obligación de realizar aportaciones de los prestadores a los que se alude en los artículos 2.1.c) y 6.1. A los efectos de garantizar que se cause la menor distorsión posible a la competencia podrá acordarse, excepcionalmente y por un tiempo acotado, el aplazamiento o fraccionamiento de pago de la aportación anual teniendo en cuenta los niveles de ingresos de los distintos prestadores, así como su capacidad financiera. La Agencia Estatal de Administración Tributaria será la encargada de tramitar las solicitudes que, en su caso, puedan presentar los obligados al pago, en aquellos supuestos en los que su situación económico-financiera les impida, de forma transitoria, efectuar el mismo en los plazos establecidos, en los términos regulados en esta ley y en la Ley 58/2003, de 17 de diciembre, General Tributaria, y en su normativa de desarrollo.
+Se modifica por la disposición final 4.7 de la Ley 13/2022, de 7 de julio. Ref. BOE-A-2022-11311#df-4
+ Esta modificación entra en vigor en el ejercicio 2023, según establece la disposición final novena de la citada ley, aplicándose mientras tanto el régimen transitorio establecido en la disposición transitoria sexta.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Modelo audiovisual.
+El Gobierno deberá remitir, en el plazo de un mes, el Proyecto de Ley General Audiovisual, que deberá definir un modelo completo de televisión pública.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Las compensaciones y aportaciones a que se refiere el artículo 2.1, letras a), b) y c), de la presente ley, se abonarán a la Corporación Radiotelevisión Española, de la siguiente forma:
+a) Las compensaciones consignadas en la Ley de Presupuestos Generales del Estado, y el porcentaje sobre el rendimiento de la tasa sobre dominio público radioeléctrico a que se refieren las letras a) y b) del artículo 2.1, se abonarán a la Corporación RTVE por dozavas partes, dentro de los diez primeros días de cada mes.
+b) Las aportaciones que deben realizar los prestadores del servicio de comunicación audiovisual televisivo de ámbito geográfico estatal o superior al de una Comunidad Autónoma, de acuerdo con lo previsto en esta ley y los prestadores del servicio de intercambio de vídeos a través de plataforma, se realizarán de la siguiente forma: En los meses de abril, julio y octubre, los obligados al pago de la aportación deberán efectuar un pago a cuenta de la aportación que se devengue el 31 de diciembre de cada año. El importe del pago a cuenta, para cada uno de los hitos indicados, se fija en el veinticinco por ciento del resultado de aplicar el porcentaje establecido en el artículo 6 de la presente ley a los ingresos brutos de explotación facturados en el año anterior.
+La gestión, liquidación, inspección y recaudación de la aportación tanto en período voluntario como en período ejecutivo corresponderá a la Agencia Estatal de Administración Tributaria. Reglamentariamente se regularán los aspectos de la gestión y de la liquidación de estas aportaciones, de los pagos a cuenta y de la forma de compensación en ejercicios posteriores del remanente que resulte en los casos en que la cuantía de los pagos a cuenta supere el importe de la aportación anual.
+Se modifica por la disposición final 4.8 de la Ley 13/2022, de 7 de julio. Ref. BOE-A-2022-11311#df-4
+ Esta modificación entra en vigor en el ejercicio 2023, según establece la disposición final novena de la citada ley, aplicándose mientras tanto el régimen transitorio establecido en la disposición transitoria sexta.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Emisiones de publicidad, televenta y programas de acceso condicional.
+1. A partir de la entrada en vigor de esta Ley la Corporación RTVE no podrá emitir publicidad, televenta y, en su caso, programas de acceso condicional, excepto en los supuestos a los que se refieren los apartados 3 y 5 del artículo 7 de esta Ley.
+2. Sin embargo, cuando las emisiones de publicidad, televenta y programas de acceso condicional tengan su origen en contratos celebrados por la Corporación RTVE que se hayan perfeccionado con terceros en una fecha fehaciente anterior a la entrada en vigor de esta Ley, las actividades de publicidad, televenta y programación de acceso condicional se desarrollarán en los términos establecidos en los respectivos contratos, aunque sin que éstos puedan ser prorrogados en ningún caso.
+3. Los ingresos derivados de lo establecido en el apartado anterior se minorarán de las compensaciones por el cumplimiento de las obligaciones de servicio público consignadas en los Presupuestos Generales del Estado.
+Se modifica por la disposición final 3.4 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Modelo de transición.
+La Corporación RTVE elaborará y ejecutará un modelo de transición durante el período al que se refiere el apartado 2 de la disposición transitoria anterior y establecerá líneas de actuación en materia de autopromoción y de emisión de contenidos adaptadas a la nueva situación en la que no percibirá ingresos por publicidad.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Exigibilidad de las tasas y aportaciones en 2009.
+Hasta el 31 de diciembre de 2009 se aplicarán las reglas siguientes a los ingresos procedentes de las tasas y aportaciones contempladas en el Capítulo II de esta ley:
+1.ª La previsión contenida en el artículo 4 en relación con la tasa sobre reserva de dominio público radioeléctrico no se aplicará en el ejercicio 2009, comenzando a aplicarse en 2010.
+2.ª La aportación a realizar por los operadores de telecomunicaciones de ámbito geográfico estatal o superior al de una Comunidad Autónoma a que se refiere el artículo 5 no será exigible en 2009, comenzando a aplicarse en 2010.
+3.ª La aportación a realizar en 2009 por las sociedades concesionarias y prestadoras del servicio de televisión de ámbito geográfico estatal o superior al de una Comunidad Autónoma se calculará dividiendo por 365 el importe anual en 2009 de los ingresos brutos de explotación a que se refiere el artículo 6, multiplicándose el resultado obtenido por el número de días de vigencia de la presente ley en el referido ejercicio y aplicando al nuevo resultado el porcentaje del 3% o el 1,5%, según corresponda.
+4.ª (Suprimido).
+Se suprime el apartado 4 por la disposición final 4 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Compensaciones en los Presupuestos Generales del Estado.
+Con el fin de hacer frente a las necesidades de producción de contenidos para completar los espacios de la programación derivados de la eliminación de la publicidad hasta el 31 de diciembre de 2009, así como para compensar la pérdida de ingresos que desde la entrada en vigor de la ley hasta la citada fecha se produzca como consecuencia de lo establecido en el número 1 de la disposición transitoria primera de esta ley se incrementarán las compensaciones por el cumplimiento de las obligaciones de servicio público consignadas en los Presupuestos Generales del Estado a favor de la Corporación RTVE hasta un máximo de 165 millones de euros.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Para el ejercicio 2009, y a los efectos del párrafo tercero de la disposición transitoria primera, los ingresos derivados de lo dispuesto en el apartado 2 de la misma se destinarán a compensar los posibles desequilibrios derivados de la desaparición de la publicidad que pudieran producirse en la Corporación RTVE a 31 de diciembre. El destino del remanente, si lo hubiere, será el marcado por la referida disposición transitoria.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 17/2006, de 5 de junio, de la Radio y la Televisión de Titularidad Estatal.
+Los preceptos de la Ley 17/2006, de 5 de junio, que a continuación se relacionan quedan redactados de la forma siguiente:
+1. El párrafo segundo del apartado 3 del artículo 7 queda redactado como sigue:
+«Las sociedades previstas en el apartado 1 de este artículo incluirán en sus objetos sociales respectivos, entre otras, las tareas de comercialización de sus productos o servicios».
+2. El epígrafe f) del apartado 4 del artículo 16 queda redactado como sigue:
+«f) Desarrollar los principios básicos en materia de producción, así como fijar las directrices generales de actuación en el cumplimiento de sus funciones y en la realización de sus actividades de producción, programación y comercialización en la radio y televisión estatales.»
+3. El epígrafe e) del apartado 2 del artículo 20 queda redactado como sigue:
+«e) Ejecutar las directrices generales de actuación de la Corporación RTVE aprobadas por el Consejo de Administración, así como ejecutar los principios que dicho órgano apruebe sobre producción, actividad comercial y programación en la radio y televisión estatales.»
+4. El párrafo segundo del artículo 33 queda redactado como sigue:
+«Si al cierre de un ejercicio se constata que la compensación supera el coste neto incurrido en tal periodo, el montante en exceso se destinará a dotar el fondo de reserva en los términos establecidos en el artículo 8 de la Ley 8/2009, de 28 de agosto, de financiación de la Corporación RTVE y el remanente, si lo hubiere, minorará las cantidades asignadas en los Presupuestos Generales del Estado para el ejercicio siguiente a aquel en que se haya producido tal exceso.»
+5. (Suprimido).
+Se suprime el apartado 5 por la disposición final 4 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo reglamentario.
+El Gobierno dictará las disposiciones necesarias para el desarrollo y ejecución de la presente ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Palma de Mallorca, 28 de agosto de 2009.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

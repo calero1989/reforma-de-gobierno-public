@@ -1,0 +1,637 @@
+# Ley Foral 13/1992, de 19 de noviembre, del Impuesto sobre el Patrimonio.
+
+- Identificador BOE: `BOE-A-1993-2877`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1993-2877
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente
+LEY FORAL DEL IMPUESTO SOBRE EL PATRIMONIO
+En el ámbito tributario de la Comunidad Foral, el Impuesto sobre el Patrimonio fue establecido, con carácter de extraordinario, mediante acuerdo de la Diputación Foral de 28 de diciembre de 1977.
+La regulación del nuevo Impuesto sobre el Patrimonio pone fin a esta situación, asumiendo los siguientes objetivos básicos:
+Primero.—La adaptación de su estructura al carácter individual del tributo, consecuencia de la sentencia del Tribunal Constitucional de 20 de febrero de 1989, eliminándose cualquier pretensión de acumulación de patrimonios de la unidad familiar.
+Segundo.—El reforzamiento de la progresividad del sistema tributario a través del gravamen del capital como manifestación específica de capacidad económica, permitiendo así una discriminación favorable de las rentas del trabajo respecto de las que provienen del capital.
+Esta progresividad del tributo, que le confiere un indudable aspecto redistributivo, tiene una clara manifestación en el establecimiento de una reducción de la base imponible y en la aplicación de una tarifa cuyos tipos impositivos van desde el 0,2 por 100 al 2,5 por 100.
+Tercero.—El establecimiento de unas reglas de valoración de los distintos elementos patrimoniales que permitan una aproximación a los valores de mercado.
+Cuarto.—La armonización del impuesto con otras figuras tributarias, especialmente con el Impuesto de Sucesiones, Transmisiones Patrimoniales y Actos Jurídicos Documentados y con el de Renta de las Personas Físicas.
+El capítulo I de la Ley Foral recoge, al igual que la Ley Foral 6/1992, del Impuesto sobre la Renta de las Personas Físicas, la exigibilidad del tributo con sujeción a lo dispuesto en el Convenio económico.
+En relación con la naturaleza y objeto del impuesto se califica al mismo de directo y personal, sin que, a diferencia de lo que sucede en el Impuesto sobre la Renta de las Personas Físicas, se añada la nota de <subjetivo>, puesto que no van a ser tenidas en cuenta las circunstancias personales y familiares, sino tan sólo la cuantía del patrimonio neto de cada persona física, patrimonio neto que es definido como el conjunto de bienes y derechos de contenido económico cuya titularidad corresponde al sujeto pasivo, con deducción de cargas y gravámenes que disminuyen su valor, así como de las deudas y obligaciones personales.
+Por lo que al hecho imponible se refiere, capítulo II de la Ley Foral, viene éste definido por dos notas, una subjetiva, cual es la titularidad del sujeto pasivo de un patrimonio, y otra de carácter temporal, cual es la vinculación de ese patrimonio al momento del devengo del impuesto.
+Junto a la definición del hecho imponible se establecen los supuestos de exención, que se amplían notablemente respecto de la regulación precedente.
+El capítulo III al determinar los sujetos pasivos del impuesto alude al artículo 4. de la Ley Foral del Impuesto sobre la Renta de las Personas Físicas, al objeto de respetar escrupulosamente el contenido del artículo 15 del Convenio económico que remite al citado Impuesto sobre la Renta.
+Se regula la atribución e imputación al sujeto pasivo de los distintos elementos patrimoniales, en función de la titularidad jurídica de los mismos.
+El capítulo IV de la Ley Foral relativo a la base imponible recoge la definición de la misma, así como los diferentes criterios de valoración de los distintos elementos patrimoniales.
+Por lo que se refiere a las reglas concretas de valoración contenidas en los artículos 10 a 24 de la Ley Foral, éste no contiene un criterio unitario de valoración, sino que opta por diversas modalidades según la naturaleza del elemento patrimonial. Es evidente que desde un plano puramente teórico podría pensarse en la conveniencia de acudir a una valoración de mercado, lo que desde una perspectiva práctica conlleva evidentes dificultades por su problemática estimación en diversos supuestos, lo que sería fuente de permanentes controversias entre Administración y contribuyente.
+Una vez establecidas las específicas reglas de valoración de los distintos elementos patrimoniales, y como no podía ser menos, la Ley Foral contiene una regla de cierre para valorar todos los demás bienes y derechos de contenido económico no recogidos de modo expreso. El criterio acogido es acudir al valor de mercado en la fecha de devengo del impuesto.
+Con referencia al pasivo patrimonial, se establece la valoración de las deudas según su nominal, añadiéndose que su deducibilidad exige que se hallen debidamente justificadas.
+El capítulo V regula la base liquidable del impuesto, estableciendo su cuantificación mediante una reducción de la base imponible. Tal reducción supone un incremento en relación con la cuantía establecida en la normativa anterior; por otra parte, de acuerdo con el carácter individual del impuesto, desaparece la reducción por hijos.
+En relación con el límite de la cuota del impuesto, conjuntamente con la del Impuesto sobre la Renta de las Personas Físicas, se pretende con su nueva regulación, que fija una cuota mínima, evitar que patrimonios importantes queden sin ser gravados efectivamente, por concurrir con bases imponibles nulas o insignificantes en el Impuesto sobre la Renta.
+El capítulo VIII y último regula la gestión del impuesto.
+La competencia para la exacción del tributo queda atribuida al Departamento de Economía y Hacienda.
+Por lo que a la obligación de declarar se refiere, se establece un doble límite para los sujetos pasivos residentes en territorio navarro, límite que de ser superado obliga a presentar la declaración.
+Tratándose de residentes en el extranjero que deban tributar a la Hacienda Pública de Navarra no existe límite mínimo alguno.
+
+## CAPÍTULO PRIMERO
+
+Régimen jurídico, naturaleza, objeto y ámbito de aplicación del impuesto
+
+### Artículo 1
+
+Artículo 1. Régimen jurídico.
+El Impuesto sobre el Patrimonio se exigirá por la Comunidad Foral, con sujeción a las normas del Convenio económico a que se refiere el artículo 45 de la Ley Orgánica 13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen Foral de Navarra, a lo dispuesto en esta Ley Foral, a las normas reglamentarias que se dicten en su desarrollo y demás disposiciones que sean de aplicación.
+
+### Artículo 2
+
+Artículo 2. Naturaleza y objeto del impuesto.
+El Impuesto sobre el Patrimonio es un tributo de carácter directo y naturaleza personal que grava el patrimonio neto de las personas físicas en los términos previstos en esta Ley Foral.
+A los efectos de este impuesto, constituirá el patrimonio neto de la persona física el conjunto de bienes y derechos de contenido económico de que sea titular, con deducción de las cargas y gravámenes que disminuyan su valor, así como de las deudas y obligaciones personales de las que deba responder.
+
+### Artículo 3
+
+Artículo 3. Ámbito de aplicación.
+Corresponde a la Comunidad Foral la exacción del Impuesto conforme a lo previsto en el artículo 17 del Convenio Económico.
+Se modifica, con efectos desde el 1 de enero de 2011, por el art. 2.1 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+
+## CAPÍTULO II
+
+Hecho imponible
+
+### Artículo 4
+
+Artículo 4. Hecho imponible.
+Constituye el hecho imponible del impuesto la titularidad del sujeto pasivo, en el momento del devengo, del patrimonio neto a que se refiere el párrafo segundo del artículo 2. de esta Ley Foral.
+La Administración podrá presumir que forman parte del patrimonio los bienes y derechos que hubieran pertenecido al sujeto pasivo en el momento del anterior devengo, salvo que éste pruebe su transmisión o pérdida patrimonial.
+
+### Artículo 5
+
+Artículo 5. Bienes y derechos exentos.
+Estarán exentos del impuesto:
+1. El ajuar doméstico, entendiéndose por tal los efectos personales y del hogar, utensilios domésticos y demás bienes muebles de uso particular del sujeto pasivo, excepto los bienes a los que se refiere el artículo 18 de esta Ley Foral.
+2. Los derechos de contenido económico en los siguientes instrumentos:
+a) Los derechos consolidados de los partícipes y los derechos económicos de los beneficiarios en un plan de pensiones.
+b) Los derechos de contenido económico que correspondan a primas satisfechas a los planes de previsión asegurados definidos en la normativa estatal.
+c) Los derechos de contenido económico que correspondan a aportaciones realizadas por el sujeto pasivo a los planes de previsión social empresarial regulados en la normativa estatal, incluyendo las contribuciones del tomador.
+d) Los derechos de contenido económico derivados de las primas satisfechas por el sujeto pasivo a los contratos de seguro colectivo, distintos de los planes de previsión social empresarial, que instrumenten los compromisos por pensiones asumidos por las empresas, en los términos previstos en la disposición adicional primera del Texto Refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, y en su normativa de desarrollo, así como los derivados de las primas satisfechas por los empresarios a los citados contratos de seguro colectivo.
+e) Los derechos de contenido económico que correspondan a primas satisfechas a los seguros privados que cubran la dependencia definidos en la normativa estatal.
+f) Los derechos de contenido económico derivados de las aportaciones a productos paneuropeos de pensiones individuales regulados en el Reglamento (UE) 2019/1238 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativo a un producto paneuropeo de pensiones individuales.
+3. Los derechos derivados de la propiedad intelectual o industrial mientras permanezcan en el patrimonio del autor y en el caso de la propiedad industrial no estén afectos a actividades empresariales.
+4. Los valores cuyos rendimientos estén exentos en virtud de lo dispuesto en el artículo 14 del Texto Refundido de la Ley del Impuesto sobre la Renta de no Residentes, aprobado por Real Decreto Legislativo 5/2004 de 5 de marzo.
+5. Los bienes integrantes del Patrimonio Histórico de la Comunidad Foral o de Comunidades Autónomas, calificados e inscritos de conformidad con las normas específicas sobre la materia, así como los integrantes del Patrimonio Histórico Español, inscritos en el Registro General de Bienes de Interés Cultural o en el Inventario General de Bienes Muebles a que se refiere la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, así como los comprendidos en la disposición adicional segunda de dicha Ley, siempre que en este último caso hayan sido calificados como bienes de interés cultural por el Ministerio de Cultura e inscritos en el Registro correspondiente.
+No obstante, en el supuesto de zonas arqueológicas y sitios o conjuntos históricos, la exención no alcanzará a cualesquiera clases de bienes inmuebles ubicados dentro del perímetro de delimitación, sino, exclusivamente, a los que reúnan las siguientes condiciones:
+a) En zonas arqueológicas, los incluidos como objeto de especial protección en el instrumento de planeamiento urbanístico a que se refiere el artículo 20 de la Ley 16/1985, de 25 de junio.
+b) En sitios o conjuntos históricos los que cuenten con una antigüedad igual o superior a cincuenta años y estén incluidos en el catálogo previsto en el artículo 86 del Reglamento de Planeamiento Urbanístico como objeto de protección integral en los términos establecidos en el artículo 21 de la Ley 16/1985, de 25 de junio.
+6. Los objetos de arte y antigüedades cuyo valor sea inferior a las cantidades que se establezcan a efectos de lo previsto en el artículo 26.4 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.
+Asimismo gozarán de exención:
+a) Los objetos de arte y antigüedades comprendidos en el artículo 18 de esta Ley Foral, cuando hayan sido cedidos por sus propietarios en depósito permanente por un período no inferior a tres años a Museos o a Instituciones Culturales sin fin de lucro para su exposición pública, mientras se encuentren depositados.
+b) La obra propia de los artistas mientras permanezca en el patrimonio del autor.
+7. La vivienda habitual del sujeto pasivo, según se define en la normativa foral del Impuesto sobre la Renta de las Personas Físicas, hasta una cuantía de 250.000 euros.
+8. Uno. Los bienes y derechos del sujeto pasivo y los comunes a ambos miembros del matrimonio necesarios para el desarrollo de la actividad empresarial o profesional, siempre que esta se ejerza de forma habitual, personal y directa por el sujeto pasivo y constituya la principal fuente de renta de quien ejerza tal actividad.
+Se considerará como principal fuente de renta aquella en la que al menos el 50 por 100 del importe de la base imponible del Impuesto sobre la Renta de las Personas Físicas del sujeto pasivo provenga de rendimientos netos de las actividades empresariales o profesionales de que se trate. A estos efectos, no se computarán ni las remuneraciones de las funciones de dirección que se ejerzan en las entidades a que se refiere el apartado dos, ni cualesquiera otras remuneraciones que traigan su causa de la participación en dichas entidades.
+Cuando un mismo sujeto pasivo ejerza dos o más actividades empresariales o profesionales de forma habitual, personal y directa, la exención alcanzará a todos los bienes y derechos afectos a las mismas, considerándose, a efectos de lo dispuesto en el párrafo anterior, que la principal fuente de renta viene determinada por el conjunto de los rendimientos de todas ellas.»
+Dos. La plena propiedad, la nuda propiedad y el derecho de usufructo vitalicio sobre las participaciones en entidades, con o sin cotización en mercados organizados, siempre que concurran las condiciones siguientes:
+A) Que la entidad, sea o no societaria, realice de manera efectiva una actividad empresarial o profesional y no tenga por actividad principal la gestión de un patrimonio mobiliario o inmobiliario. Se entenderá que una entidad gestiona un patrimonio mobiliario o inmobiliario y que, por lo tanto, no realiza una actividad empresarial o profesional cuando concurran, durante más de 90 días del ejercicio social, cualquiera de las condiciones siguientes:
+1.ª Que más de la mitad de su activo esté constituido por valores.
+2.ª Que más de la mitad de su activo no esté afecto a actividades empresariales o profesionales.
+Tanto el valor del activo como el de los elementos patrimoniales no afectos a actividades empresariales o profesionales será el que se deduzca de la contabilidad, siempre que esta refleje fielmente la verdadera situación patrimonial de la entidad.
+A efectos de determinar la parte del activo que está constituida por valores o elementos patrimoniales no afectos:
+a) No se computarán los valores siguientes:
+a’) Los poseídos para dar cumplimiento a obligaciones legales y reglamentarias.
+b’) Los que incorporen derechos de crédito nacidos de relaciones contractuales establecidas como consecuencia del desarrollo de actividades empresariales o profesionales.
+c’) Los poseídos por sociedades de valores como consecuencia del ejercicio de la actividad constitutiva de su objeto.
+d’) Los que otorguen, al menos, el 5 por 100 de los derechos de voto y se posean con la finalidad de dirigir y gestionar las participaciones mediante la correspondiente organización de medios personales y materiales, siempre que la entidad o entidades participadas no tengan a su vez como actividad principal la gestión de un patrimonio mobiliario o inmobiliario, en los términos señalados.
+b) No se computarán como valores ni como elementos no afectos a actividades empresariales o profesionales aquellos cuyo precio de adquisición no supere el importe de los beneficios no distribuidos obtenidos por la entidad, siempre que dichos beneficios provengan de la realización de actividades empresariales o profesionales, y tomando como límite la suma de los beneficios obtenidos en el propio año y a lo largo de los diez años inmediatamente anteriores.
+A estos efectos, se asimilan a los beneficios procedentes de actividades empresariales o profesionales los dividendos que procedan de los valores a que se refiere la letra d’), así como las plusvalías obtenidas en las transmisiones de estas participaciones, cuando los ingresos obtenidos por la entidad participada procedan, al menos en el 90 por ciento, de la realización de actividades empresariales o profesionales.
+B) Que la participación del sujeto pasivo en el capital de la entidad sea al menos del 5 por 100 computado de forma individual, o del 20 por 100 conjuntamente con su cónyuge, ascendientes, descendientes o colaterales de segundo grado, ya tenga su origen el parentesco en la consanguinidad, en la afinidad o en la adopción.
+C) Que el sujeto pasivo ejerza efectivamente funciones de dirección en la entidad, percibiendo por ello una remuneración que represente más del 50 por 100 de la totalidad de los rendimientos empresariales, profesionales y de trabajo personal.
+A efectos del cálculo anterior, no se computarán entre los rendimientos empresariales, profesionales y de trabajo personal, los rendimientos de la actividad empresarial o profesional a que se refiere el apartado Uno.
+Cuando la participación en la entidad sea conjunta con alguna o algunas personas a las que se refiere la letra B) anterior, las funciones de dirección y las remuneraciones derivadas de la misma deberán cumplirse al menos en una de las personas del grupo de parentesco, sin perjuicio de que todas ellas tengan derecho a la exención.
+Cuando una misma persona sea directamente titular de participaciones en varias entidades en las cuales concurran las condiciones establecidas en este apartado dos, el cómputo del porcentaje a que se refiere la letra C) se efectuará de forma separada para cada una de dichas entidades. A tal efecto, para la determinación del porcentaje que representa la remuneración por las funciones de dirección ejercidas en cada entidad respecto de la totalidad de los rendimientos empresariales, profesionales y de trabajo personal del sujeto pasivo, no se incluirán los rendimientos derivados de las funciones de dirección en las otras entidades.
+Se considerarán funciones de dirección, que deberán acreditarse fehacientemente mediante el correspondiente contrato o nombramiento, los cargos de Presidente o Presidenta; Director o Directora General; Gerente; Administrador o Administradora; Director o Directora de Departamento; Consejeros, Consejeras o miembros del Consejo de Administración u órgano de administración equivalente, siempre que el desempeño de cualquiera de estos cargos implique una efectiva intervención en las decisiones de la empresa.
+Tres. La exención a que se refiere el apartado Dos sólo alcanzará al valor de las participaciones, determinado conforme a las reglas que se establecen en los artículos 15 y 16, en la parte que corresponda a la proporción existente entre los activos necesarios para el ejercicio de la actividad empresarial o profesional, minorados en el importe de las deudas derivadas de la misma, y el valor del patrimonio neto de la entidad, aplicándose estas mismas reglas en la valoración de las participaciones de entidades participadas para determinar el valor de las de su entidad tenedora.
+A estos efectos computarán como activos necesarios aquellos a que se refiere el apartado Dos.A).b), excepto que se trate de:
+a) bienes inmuebles no afectos a una actividad empresarial o profesional.
+b) valores cotizados en mercados secundarios, participaciones en instituciones de inversión colectiva, y vehículos, embarcaciones y aeronaves a que se refiere el artículo 18.
+No será de aplicación la exclusión prevista en esta letra a los valores cotizados en mercados secundarios a que se refiere el apartado Dos. A).a).d’).
+Los elementos que computen como activos necesarios por aplicación de lo dispuesto en este apartado no podrán exceder del 75 por 100 del total del activo.
+Cuatro. A los efectos previstos en los apartados uno y dos, se atenderá a lo siguiente:
+a) Para determinar si existe actividad empresarial o profesional o si un elemento patrimonial se encuentra afecto a ella, se estará a lo dispuesto en el Impuesto sobre la Renta de las Personas Físicas.
+b) Los requisitos y condiciones para que resulte de aplicación la exención habrán de referirse al momento en el que se produzca el devengo del Impuesto.
+c) Los sujetos pasivos deberán hacer constar en su declaración del Impuesto los bienes, derechos y deudas, así como su valor, correspondientes a las actividades empresariales o profesionales, del mismo modo que las participaciones y la parte del valor de las mismas que, en uno y otro caso, queden exentas.
+Cinco. La exención regulada en el apartado Dos no resultará de aplicación a las participaciones en instituciones de inversión colectiva.
+Seis. Reglamentariamente podrán determinarse:
+a) Los requisitos que deban concurrir para que sea aplicable la exención en cuanto a los bienes, derechos y deudas necesarios para el desarrollo de una actividad empresarial o profesional.
+b) Las condiciones que han de reunir las participaciones en entidades.
+9. Las acciones y participaciones en entidades emprendedoras que den derecho a aplicar la deducción regulada en la disposición adicional tercera de la Ley Foral 26/2016 del Impuesto sobre Sociedades.
+Se modifican los apartados 2 y 8 y se añade el 9, con efectos de 1 de enero de 2023 por el art. 2.1 a 3 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+ Se añade el apartado 8, con efectos desde el 1 de enero de 2020, por el art. único.1 de la Ley Foral 31/2019, de 23 de diciembre. Ref. BOE-A-2020-452
+ Se modifica el apartado 7, con efectos para los periodos impositivos que se inicien a partir del 1 de enero de 2019, por el art. 2.1 de la Ley Foral 30/2018, de 27 de diciembre. Ref. BOE-A-2019-752
+ Se derogan los apartados 8, 9 y 10, con efectos desde el 1 de enero de 2016, por el art. 2.1 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573
+ Se añaden los apartados 8, 9 y 10 por el art. 2.1 de la Ley Foral 29/2014, de 24 de diciembre. Ref. BOE-A-2015-1017
+ Se modifica el apartado 7, con efectos desde el 1 de enero de 2012, por el art. único.1 de la Ley Foral 23/2012, de 26 de diciembre. Ref. BOE-A-2013-503
+ Redactado conforme a la corrección de errores publicada en BON núm. 4, de 8 de enero de 2013.
+ Se modifican los apartados 4 y 7, con efectos desde el 1 de enero de 2011, por el art. 2.2 y 3 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se modifica el apartado 2 por el art. 2.1 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208
+ Se modifica el apartado 4 y se añade el 7, con efectos desde el 1 de enero de 2000, por el art. 2.1 y 2 de la Ley Foral 20/2000, de 29 de diciembre. Ref. BOE-A-2001-3566
+
+## CAPÍTULO III
+
+Sujeto pasivo. Atribución e imputación de elementos patrimoniales
+
+## Sección 1
+
+Sección 1.ª Normas generales
+
+### Artículo 6
+
+Artículo 6. Sujeto pasivo.
+1. Son sujetos pasivos del Impuesto sobre el Patrimonio las personas físicas que de conformidad con lo establecido en el artículo 3 hayan de tributar a la Comunidad Foral.
+2. Los sujetos pasivos que, conforme a lo dispuesto en el artículo 17.1 del Convenio Económico y en el artículo 4 del Texto Refundido de la Ley Foral del Impuesto sobre la Renta de las Personas Físicas, hayan de tributar a la Comunidad Foral por obligación personal, lo harán por la totalidad de su patrimonio neto, con independencia del lugar donde se encuentren situados los bienes o puedan ejercitarse los derechos.
+3. Los sujetos pasivos que, conforme a lo dispuesto en el artículo 17.2 del Convenio Económico, hayan de tributar a la Comunidad Foral por obligación real, lo harán por los bienes y derechos que estuvieran situados, pudieran ejercitarse o hubieren de cumplirse en territorio español.
+A tales efectos, se considerarán situados en territorio español los valores representativos de la participación en fondos propios de cualquier tipo de entidad, no negociados en mercados organizados, cuyo activo esté constituido en al menos el 50 por ciento, de forma directa o indirecta, por bienes inmuebles situados en territorio español. Para realizar el cómputo del activo, los valores netos contables de todos los bienes contabilizados se sustituirán por sus respectivos valores de mercado determinados a la fecha de devengo del impuesto. En el caso de bienes inmuebles, los valores netos contables se sustituirán por los valores que deban operar como base imponible del impuesto en cada caso, conforme a lo dispuesto en el artículo 10.
+Los sujetos pasivos a que se refiere este apartado, en el plazo de dos meses desde la adquisición de su condición de tales, vendrán obligados a nombrar a una persona física o jurídica con domicilio en España para que les represente ante la Hacienda Foral de Navarra en relación con sus obligaciones por este Impuesto. Tal designación habrá de acreditarse ante dicha Hacienda en el plazo de dos meses a partir de la fecha de la mencionada designación.
+El incumplimiento de cualquiera de las obligaciones anteriores constituirá infracción tributaria simple, sancionable con multa de 1.000 euros. Esta sanción se graduará incrementando la cuantía resultante en un 100 por 100 si se produce la comisión repetida de infracciones tributarias.
+4. Los sujetos pasivos que opten por el régimen especial para personas trabajadoras desplazadas previsto en el artículo 52 ter del Texto Refundido de la Ley Foral del Impuesto sobre la Renta de las Personas Físicas tributarán por obligación real. A estos efectos, no se les aplicará lo dispuesto en los párrafos tercero y cuarto del apartado 3.
+Se modifica el apartado 3 y se añade el 4 por el art. 2.4 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+ Se modifica, con efectos desde el 1 de enero de 2011, por el art. 2.4 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se derogan los párrafos segundo y tercero del apartado 3, con efectos desde el 1 de enero de 2008, por el art. 2.2 de la Ley Foral 22/2008, de 24 de diciembre. Ref. BOE-A-2009-3960
+
+## Sección 2
+
+Sección 2.ª Atribución e imputación de elementos patrimoniales
+
+### Artículo 7
+
+Artículo 7. Titularidad de los elementos patrimoniales.
+Los bienes y derechos se atribuirán a los sujetos pasivos según las normas sobre titularidad jurídica aplicables en cada caso y en función de las pruebas aportadas por aquéllos o de las descubiertas por la Administración.
+En su caso, serán de aplicación las normas sobre titularidad jurídica de los bienes y derechos contenidas en las disposiciones reguladoras del régimen de bienes en el matrimonio o del régimen económico matrimonial, así como en los preceptos de la legislación civil aplicables en cada caso a las relaciones patrimoniales entre los miembros de la familia.
+La titularidad de los bienes y derechos que, conforme a las disposiciones o pactos reguladores del correspondiente régimen de bienes en el matrimonio o del régimen económico matrimonial, sean comunes a ambos cónyuges, se atribuirá por mitad a cada uno de ellos, salvo que se justifique otra cuota de participación, en cuyo caso se atenderá a ésta.
+Cuando no resulte debidamente acreditada la titularidad de los bienes o derechos, la Administración Tributaria tendrá derecho a considerar como titular a quien figure como tal en un registro fiscal u otros de carácter público.
+Las cargas, gravámenes, deudas y obligaciones, se atribuirán a los sujetos pasivos según las reglas y criterios de los párrafos anteriores.
+
+### Artículo 8
+
+Artículo 8. Supuestos particulares.
+1. En tanto los bienes o derechos no se transmitan al adquirente, éste computará la totalidad de las cantidades que, en su caso, hubiera entregado hasta la fecha del devengo del Impuesto, constituyendo dichas cantidades deudas del transmitente, que será a quien se impute el valor del elemento patrimonial que resulte de las normas del Impuesto.
+2. Tratándose de bienes o derechos adquiridos con contraprestación aplazada, en todo o en parte, el valor del elemento patrimonial que resulte de las normas del Impuesto se imputará íntegramente al adquirente del mismo, quien incluirá entre sus deudas la contraprestación aplazada.
+Por su parte el transmitente incluirá entre los derechos de su patrimonio el crédito correspondiente a la contraprestación aplazada.
+
+## CAPÍTULO IV
+
+Base imponible
+
+### Artículo 9
+
+Artículo 9. Concepto.
+1. Constituye la base imponible de este Impuesto el valor del patrimonio neto del sujeto pasivo a la fecha de devengo del Impuesto, determinado de acuerdo con lo dispuesto en los artículos siguientes.
+2. El patrimonio neto se obtendrá por diferencia entre:
+a) El valor de los bienes y derechos de que sea titular el sujeto pasivo, determinado conforme a las reglas de los artículos siguientes, y
+b) Las cargas y gravámenes de naturaleza real, cuando disminuyan el valor de los respectivos bienes o derechos, y las deudas u obligaciones personales de las que deba responder el sujeto pasivo.
+3. No obstante lo dispuesto en el número anterior, no se deducirán para la determinación del patrimonio neto las cargas y gravámenes que correspondan a los bienes y derechos exentos.
+4. Tratándose de los sujetos pasivos a que se refiere el número 3 del artículo 6.º de esta Ley Foral, sólo serán deducibles las cargas y gravámenes que afecten a los bienes y derechos que radiquen en territorio español o puedan ejercitarse o hubieran de cumplirse en el mismo, así como las deudas originadas por la adquisición de los citados elementos patrimoniales.
+
+### Artículo 10
+
+Artículo 10. Bienes inmuebles.
+Los bienes inmuebles se valorarán de acuerdo a las siguientes reglas:
+1. Se tomará el mayor valor de los tres siguientes:
+a) El valor catastral que tengan asignado a efectos de las Contribuciones Territorial Urbana o sobre las Actividades Agrícola y Pecuaria o del Impuesto sobre Bienes Inmuebles.
+b) El precio, contraprestación o valor de adquisición.
+c) El comprobado por la Administración a efectos de cualquier tributo.
+No obstante, tratándose de inmuebles arrendados con contrato de arrendamiento celebrado con anterioridad al 9 de mayo de 1985, a que se refieren las disposiciones transitorias segunda, tercera y cuarta de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, el valor del inmueble arrendado se determinará capitalizando al 4 por 100 el importe de la renta devengada durante cada año, siempre que el valor así determinado sea inferior al que resultaría de la aplicación de las reglas contenidas en las letras anteriores y tratándose de arrendamiento de vivienda el contrato se halle incluido en el censo de arrendamientos urbanos a que se refiere la disposición adicional sexta de la Ley 29/1994, de 24 de noviembre.
+2. Cuando los bienes inmuebles se hallen en construcción, se estimará como valor patrimonial el importe de las cantidades que efectivamente se hubieran invertido en dicha construcción hasta la fecha del devengo del Impuesto, además del correspondiente valor patrimonial del solar. En caso de propiedad horizontal, la parte proporcional del valor del solar se determinará según el porcentaje fijado en el título.
+3. Los derechos sobre bienes inmuebles adquiridos en virtud de contratos de multipropiedad, propiedad a tiempo parcial o fórmulas similares, se valorarán según las siguientes reglas:
+a) Si suponen la titularidad parcial del inmueble, según las reglas del número 1 anterior.
+b) Si no comportan la titularidad parcial del inmueble, por el precio de adquisición de los certificados u otros títulos representativos de los mismos.
+Se añade un párrafo al apartado 1, con efectos desde el 1 de enero de 1995 por el art. 3 de la Ley Foral 14/1995, de 29 de diciembre. Ref. BOE-A-1996-7935
+
+### Artículo 11
+
+Artículo 11. Actividades empresariales y profesionales.
+Los bienes y derechos afectos a actividades empresariales o profesionales se computarán por el valor que resulte de su contabilidad, siempre que aquélla se ajuste a lo dispuesto en el Código de Comercio.
+En defecto de contabilidad ajustada a lo dispuesto en el Código de Comercio la valoración será la que resulte de la aplicación de las demás normas de este Impuesto.
+Para la calificación de las actividades empresariales o profesionales así como para la consideración de afectación a las mismas de los elementos patrimoniales se estará a lo establecido en la normativa del Impuesto sobre la Renta de las Personas Físicas.
+Se modifica por el art. 2.1 de la Ley Foral 25/2016, de 28 de diciembre. Ref. BOE-A-2017-2355
+
+### Artículo 12
+
+Artículo 12. Depósitos en cuenta corriente o de ahorro, a la vista o a plazo.
+Los depósitos en cuenta corriente o de ahorro, a la vista o a plazo, así como las cuentas de gestión de tesorería y cuentas financieras o similares, se computarán por el saldo que arrojen en la fecha del devengo del impuesto, salvo que aquél resultase inferior al saldo medio correspondiente al último trimestre del año, en cuyo caso se tomará este último.
+Para el cálculo de dicho saldo medio habrán de tenerse en cuenta las siguientes reglas:
+Primera. No se computarán los fondos retirados para la adquisición de bienes y derechos que integren la base imponible del Impuesto o para la cancelación o reducción de deudas.
+Segunda. Cuando el importe de una deuda originada por un préstamo o crédito haya sido objeto de ingreso en el último trimestre del año en alguna de las cuentas a que se refiere el párrafo primero de este artículo, no se computará para determinar el saldo medio y tampoco se deducirá como tal deuda.
+
+### Artículo 13
+
+Artículo 13. Valores representativos de la cesión a terceros de capitales propios, negociados en mercados secundarios oficiales de valores.
+Los valores representativos de la cesión a terceros de capitales propios, negociados en mercados secundarios oficiales de valores definidos en la Directiva 2014/65/UE del Parlamento Europeo y del Consejo de 15 de mayo de 2014, cualquiera que sea su denominación, representación y la naturaleza de los rendimientos derivados de los mismos, se computarán según su valor de negociación media del cuarto trimestre de cada año.
+Se modifica, con efectos para los periodos impositivos que se inicien a partir del 1 de enero de 2019, por el art. 2.2 de la Ley Foral 30/2018, de 27 de diciembre. Ref. BOE-A-2019-752
+ Se modifica, con efectos desde el 1 de enero de 2011, por el art. 2.5 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se modifica, con efectos desde el 1 de enero de 2003, por el art. 2.1 de la Ley Foral 16/2003, de 17 de marzo. Ref. BOE-A-2003-8524
+
+### Artículo 14
+
+Artículo 14. Demás valores representativos de la cesión a terceros de capitales propios.
+Los valores representativos de la cesión a terceros de capitales propios, distintos de aquéllos a los que se refiere el artículo anterior, se valorarán por su nominal, adicionándose, en su caso, las primas de amortización o reembolso.
+No obstante, tratándose de valores que, conforme a la normativa del Impuesto sobre la Renta de las Personas Físicas, generan rendimientos implícitos, podrá el sujeto pasivo optar por computar el importe del capital cedido más el rendimiento que proporcionalmente le corresponda desde la fecha de la emisión, primera colocación o endoso hasta la del devengo del Impuesto.
+
+### Artículo 15
+
+Artículo 15. Valores representativos de la participación en fondos propios de cualquier tipo de entidad, negociados en mercados secundarios oficiales de valores.
+1. Las acciones y participaciones en el capital social o en fondos propios de cualesquiera entidades jurídicas negociadas en mercados secundarios oficiales de valores definidos en la Directiva 2014/65/UE del Parlamento Europeo y del Consejo de 15 de mayo de 2014, salvo las correspondientes a Instituciones de Inversión Colectiva, se computarán según su valor de negociación media del cuarto trimestre de cada año.
+2. Cuando se trate de suscripción de nuevas acciones no admitidas todavía a cotización oficial, emitidas por entidades jurídicas que coticen en mercados secundarios oficiales de valores definidos en la Directiva 2014/65/UE del Parlamento Europeo y del Consejo de 15 de mayo de 2014, se tomará como valor de estas acciones el de la última negociación de los títulos antiguos dentro del periodo de suscripción.
+3. En los supuestos de ampliaciones de capital pendientes de desembolso, la valoración de las acciones se hará de acuerdo con las normas anteriores, como si estuviesen totalmente desembolsadas, incluyendo la parte pendiente de desembolso como deuda del sujeto pasivo.
+Se modifica, con efectos para los periodos impositivos que se inicien a partir del 1 de enero de 2019, por el art. 2.3 de la Ley Foral 30/2018, de 27 de diciembre. Ref. BOE-A-2019-752
+ Se modifican los apartados 1 y 2, con efectos desde el 1 de enero de 2011, por el art. 2.6 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se modifica, con efectos desde el 1 de enero de 2003, por el art. 2.2 de la Ley Foral 16/2003, de 17 de marzo. Ref. BOE-A-2003-8524
+ Se modifica por el art. 2.1 de la Ley Foral 23/1998 de 30 de diciembre. Ref. BOE-A-1999-2523
+
+### Artículo 16
+
+Artículo 16. Demás valores representativos de la participación en fondos propios de cualquier tipo de entidad.
+1. Tratándose de acciones y participaciones distintas de aquellas a que se refiere el artículo anterior, la valoración de las mismas se realizará por el valor de patrimonio neto resultante del último balance aprobado, siempre que este, bien de manera obligatoria o voluntaria, haya sido sometido a revisión y verificación y el informe de auditoría sea favorable.
+En el caso de que el balance no haya sido auditado o el informe de auditoría no haya resultado favorable, la valoración se realizará por el mayor valor de los tres siguientes: El valor nominal, el valor de patrimonio neto resultante del último balance aprobado o el que resulte de capitalizar al tipo del 20 por 100 el promedio de los resultados de los tres ejercicios sociales cerrados con anterioridad a la fecha del devengo del impuesto.
+A este último efecto, se computarán como beneficios los dividendos distribuidos y las asignaciones a reservas, excluidas las de regularización o de actualización de Balances.
+2. Las acciones y participaciones en el capital social o en el fondo patrimonial de las Instituciones de Inversión Colectiva se computarán por el valor liquidativo en la fecha del devengo del impuesto, valorando los activos incluidos en Balance de acuerdo con las normas que se recogen en su legislación específica y siendo deducibles las obligaciones con terceros.
+3. La valoración de las participaciones de los socios o asociados en el capital social de las cooperativas se determinará en función del importe total de las aportaciones sociales desembolsadas, obligatorias o voluntarias, resultante del último Balance aprobado, con deducción, en su caso, de las pérdidas sociales no reintegradas.
+4. A los efectos previstos en este artículo, las entidades deberán suministrar a los socios, asociados o partícipes certificados con las valoraciones correspondientes.
+Se modifica el apartado 1, con efectos desde el 1 de enero de 2019, por el art. 2.1 de la Ley Foral 29/2019, de 23 de diciembre. Ref. BOE-A-2020-450
+ Se modifica por el art. 2.2 de la Ley Foral 23/1998 de 30 de diciembre. Ref. BOE-A-1999-2523
+
+### Artículo 17
+
+Artículo 17. Seguros de vida y rentas temporales o vitalicias.
+1. Los seguros de vida se computarán por su valor de rescate en el momento del devengo del Impuesto.
+No obstante, en los supuestos en los que por aplicación del artículo 87 de la Ley 50/1980, de 8 de octubre, del Contrato de Seguro, se haya perdido el derecho de rescate por haber renunciado el tomador del seguro a la facultad de revocar la designación de beneficiario, el seguro se computará en la base imponible del tomador por el valor de la provisión matemática en el momento del devengo del impuesto. El mismo valor se computará en la base imponible del tomador cuando se trate de seguros que no tengan derecho de rescate. Lo dispuesto en este párrafo no se aplicará a los contratos de seguro temporales que únicamente incluyan prestaciones en caso de fallecimiento o invalidez u otras garantías complementarias de riesgo, ni a las rentas vitalicias y temporales sin contraseguro.
+2. Las rentas temporales o vitalicias, constituidas como consecuencia de la entrega de un capital en dinero, bienes muebles o inmuebles, se computarán por su valor de capitalización en la fecha del devengo del Impuesto, al interés legal del dinero, y tomando del capital resultante aquella parte que, según las reglas establecidas en el artículo 19.1 para valorar los usufructos, corresponda a la edad del rentista si la renta es vitalicia, o a la duración de la renta si es temporal. Cuando el importe de la renta no se cuantifique en unidades monetarias, el valor del capital resultante se obtendrá capitalizando el importe anual del indicador público de rentas de efectos múltiples (IPREM).
+Se modifica el apartado 2 por el art. 2.1 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+ Se modifica el apartado 1 por el art. 2.1 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+ Se modifica, con efectos para los períodos impositivos desde el 1 de enero de 2018, el párrafo 2 del apartado 1 por el art. 3 de la Ley Foral 20/2018, de 30 de octubre. Ref. BOE-A-2018-15968
+ Se añade un párrafo al apartado 1, con efectos para los periodos impositivos que se inicien a partir del 1 de enero de 2018, por el art. 2.1 de la Ley Foral 16/2017, de 27 de diciembre. Ref. BOE-A-2018-801
+
+### Artículo 18
+
+Artículo 18. Objetos de arte, antigüedades, joyas, pieles de carácter suntuario, vehículos, embarcaciones y aeronaves.
+1. Los objetos de arte, antigüedades, joyas, pieles de carácter suntuario, automóviles, vehículos de dos o tres ruedas cuya cilindrada sea igual o superior a 125 centímetros cúbicos, embarcaciones de recreo o de deportes náuticos, aviones, avionetas, veleros y demás aeronaves, se computarán por el valor de mercado en la fecha del devengo del Impuesto.
+Los sujetos pasivos podrán utilizar, para determinar el valor de mercado de los vehículos usados, las tablas aprobadas por el Departamento de Economía y Hacienda, a efectos de los Impuestos sobre Sucesiones, Transmisiones Patrimoniales y Actos Jurídicos Documentados, que estuviesen vigentes en la fecha del devengo del Impuesto.
+2. Se entenderá por:
+a) Objetos de arte: Las pinturas, esculturas, dibujos, grabados, litografías u otros análogos, siempre que, en todos los casos, se trate de obras originales.
+b) Antigüedades: Los bienes muebles, útiles u ornamentales, excluidos los objetos de arte, que tengan más de cien años de antigüedad y cuyas características originales fundamentales no hubieran sido alteradas por modificaciones o reparaciones efectuadas durante los cien últimos años.
+
+### Artículo 19
+
+Artículo 19. Derechos reales.
+Los derechos reales de disfrute y la nuda propiedad se valorarán tomando, en su caso, como referencia el valor asignado al correspondiente bien de acuerdo con las reglas contenidas en esta Ley Foral, con arreglo a los siguientes criterios:
+1. Usufructo.
+a) En los usufructos temporales se reputará proporcional al valor total de los bienes, en razón de un 2 por 100 por cada período de un año, sin exceder del 70 por 100.
+b) En los usufructos vitalicios se estimará que es igual al 70 por 100 del valor total de los bienes cuando el usufructuario cuente menos de veinte años, minorando, a medida que aumente la edad, en la proporción de un 1 por 100 por cada año más, con el límite mínimo del 10 por 100 del valor total.
+2. Uso y habitación.—En los derechos reales de uso y habitación se tomará como valor el que resulte de aplicar al 75 por 100 del valor de los bienes sobre los que fueren impuestos las reglas correspondientes a la valoración de los usufructos temporales o vitalicios, según los casos.
+3. Nuda propiedad.—El valor del derecho de nuda propiedad se computará por la diferencia entre el valor del bien y los derechos de disfrute a favor de terceros que limiten el dominio de aquél.
+En los usufructos vitalicios que a su vez sean temporales la nuda propiedad se valorará aplicando de las reglas contenidas en el número 1 anterior, aquella que le atribuya menor valor.
+4. Los derechos reales no incluidos en los números anteriores se computarán por el capital, precio o valor que las partes hubiesen pactado al constituirlos, si fuese igual o mayor que el que resulte de la capitalización al interés básico del Banco de España de la renta o pensión anual, o éste si aquél fuere menor.
+Se modifica el apartado 1.b), con efectos desde el 1 de enero de 2011, por el art. 2.7 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+
+### Artículo 20
+
+Artículo 20. Concesiones administrativas.
+1. Criterio general.—Las concesiones administrativas para la explotación de servicios o bienes de dominio o titularidad pública, cualquiera que sea su duración, se valorarán:
+a) Si la Administración señalase una cantidad total en concepto de precio o canon que deba satisfacer el concesionario, por el importe de la misma.
+b) Si la Administración señalase un canon, precio, participación o beneficio mínimo que deba satisfacer el concesionario periódicamente y la duración de la concesión no fuese superior a un año, por la suma total de las prestaciones periódicas. Si la duración de la concesión fuese superior al año, capitalizando al 10 por 100 la cantidad anual que satisfaga el concesionario.
+Cuando para la aplicación de esta regla hubiese que capitalizar una cantidad anual que fuese variable como consecuencia, exclusivamente, de la aplicación de cláusulas de revisión de precios, que tomen como referencia índices objetivos de su evolución, se capitalizará la correspondiente al primer año. Si la variación dependiese de otras circunstancias cuya razón matemática se conozca en el momento del otorgamiento de la concesión, la cantidad a capitalizar será la media anual de las que el concesionario deba satisfacer durante la vida de la concesión.
+c) Cuando el concesionario esté obligado a revertir a la Administración bienes determinados, se computará el valor neto contable estimado de dichos bienes a la fecha de reversión, más los gastos previstos para la reversión. Para el cálculo del valor neto contable de los bienes se aplicarán las tablas de amortización aprobadas a los efectos del Impuesto sobre Sociedades en el porcentaje medio resultante de las mismas.
+2. Criterios especiales.—En los casos especiales en los que, por la naturaleza de la concesión, la base imponible no pueda fijarse por las reglas del número anterior, se determinarán ajustándose a las siguientes reglas:
+a) Aplicando al valor de los activos fijos afectos a la explotación, determinado de acuerdo con las reglas contenidas en esta Ley Foral, uso o aprovechamiento de que se trate, un porcentaje del 2 por 100 por cada año de duración de la concesión, con el mínimo del 10 por 100 y sin que el máximo pueda exceder del valor de los activos.
+b) A falta de la anterior valoración se tomará la señalada por la respectiva Administración Pública.
+c) En defecto de las dos reglas anteriores por el valor declarado por los interesados, sin perjuicio del derecho de la Administración para proceder a su comprobación por los medios del artículo 36 del Texto Refundido de la Ley Foral del Impuesto sobre transmisiones Patrimoniales y Actos Jurídicos Documentados.
+Se modifican los apartados 1.c) y 2.c) por el art. 2.2 de la Ley Foral 29/2019, de 23 de diciembre. Ref. BOE-A-2020-450
+
+### Artículo 21
+
+Artículo 21. Derechos derivados de la propiedad intelectual e industrial.
+Los derechos derivados de la propiedad intelectual e industrial, adquiridos de terceros, deberán incluirse en el patrimonio del adquirente por su valor de adquisición.
+
+### Artículo 22
+
+Artículo 22. Opciones contractuales.
+Las opciones de contratos se valorarán por el precio convenido y a falta de éste o si fuere menor, se tomará el 5 por 100 del valor de los bienes sobre los que recaigan, determinado por aplicación de las reglas contenidas en esta Ley Foral.
+
+### Artículo 23
+
+Artículo 23. Demás bienes y derechos de contenido económico.
+Los demás bienes y derechos de contenido económico, atribuibles al sujeto pasivo, se computarán por su valor de mercado en la fecha del devengo del Impuesto.
+
+### Artículo 24
+
+Artículo 24. Valoración de las deudas.
+Las deudas se valorarán por su nominal en la fecha del devengo del Impuesto y sólo serán deducibles siempre que estén debidamente justificadas.
+
+### Artículo 25
+
+Artículo 25. Conceptos no deducibles.
+No serán objeto de deducción:
+a) Las cantidades avaladas, hasta que el avalista esté obligado a pagar la deuda, por haberse ejercitado el derecho contra el deudor principal y resultar éste fallido. En el caso de aval solidario, las cantidades avaladas no podrán deducirse hasta que se ejercite el derecho contra el avalista.
+b) Los derechos reales de garantía, sin perjuicio de que, en su caso, sí lo sea la deuda garantizada.
+c) Las deudas contraídas para la adquisición de bienes o derechos exentos. Cuando la exención sea parcial, será deducible, en su caso, la parte proporcional de las deudas.
+Se modifica, con efectos desde el 1 de enero de 2000, por el art. 2.3 de la Ley Foral 20/2000, de 29 de diciembre. Ref. BOE-A-2001-3566
+
+### Artículo 26
+
+Artículo 26. Determinación de la base imponible.
+Con carácter general la base imponible se determinará en régimen de estimación directa.
+No obstante, será aplicable el régimen de estimación indirecta de bases tributarias en los supuestos legalmente establecidos.
+
+### Artículo 27
+
+Artículo 27. Tasación pericial contradictoria.
+La tasación pericial contradictoria sólo será de aplicación a los bienes y derechos mencionados en los artículos 18 y 23, excepto cuando se haga uso de lo previsto en el párrafo segundo del número 1 del artículo 18.
+Se deroga el párrafo final por la disposición derogatoria 1.c) de la Ley Foral 13/2000, de 14 de diciembre. Ref. BOE-A-2001-3494#dd
+
+## CAPÍTULO V
+
+Base imponible
+
+### Artículo 28
+
+Artículo 28. Base liquidable.
+1. La base liquidable será el resultado de minorar la base imponible en 550.000 euros, en concepto de mínimo exento.
+2. Lo establecido en el número anterior será aplicable a los sujetos pasivos que tributen tanto por obligación personal como por obligación real.
+Se modifica el apartado 1, con efectos desde el 1 de enero de 2016, por el art. 2.2 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573
+ Se modifica el apartado 1 por el art. 2.2 de la Ley Foral 29/2014, de 24 de diciembre. Ref. BOE-A-2015-1017
+ Se modifica, con efectos desde el 1 de enero de 2012, por el art. único.2 de la Ley Foral 23/2012, de 26 de diciembre. Ref. BOE-A-2013-503
+ Redactado conforme a la corrección de errores publicada en BON núm. 4, de 8 de enero de 2013.
+ Se modifica, con efectos desde el 1 de enero de 2011, por el art. 2.8 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se modifica, con efectos desde el 1 de enero de 2005, por el art. 2.1 de la Ley Foral 19/2005, de 29 de diciembre. Ref. BOE-A-2006-846
+ Se modifica por el art. 2.3 de la Ley Foral 23/1998 de 30 de diciembre. Ref. BOE-A-1999-2523
+ Se modifica por el art. 2.1 de la Ley Foral 25/1994, de 29 de diciembre. Ref. BOE-A-1995-7062
+
+## CAPÍTULO VI
+
+Devengo del impuesto
+
+### Artículo 29
+
+Artículo 29. Devengo del Impuesto.
+El Impuesto se devengará el 31 de diciembre de cada año y afectará al patrimonio del cual sea titular el sujeto pasivo en dicha fecha.
+En el supuesto de fallecimiento el día 31 de diciembre, se considerará que la persona fallecida es la titular del patrimonio en dicha fecha.
+Se modifica por el art. 2.2 de la Ley Foral 25/2016, de 28 de diciembre. Ref. BOE-A-2017-2355
+
+## CAPÍTULO VII
+
+Deuda tributaria
+
+### Artículo 30
+
+Artículo 30. Cuota íntegra.
+La base liquidable del impuesto será gravada a los tipos de la siguiente escala:
+Base liquidable hasta
+ –
+ (Euros)
+ Cuota íntegra
+ –
+ (Euros)
+ Resto base liquidable hasta
+ –
+ (Euros)
+ Tipo aplicable
+ –
+ (Porcentaje)
+ 0,00
+ 0,00
+ 155.511,88
+ 0,16
+ 155.511,88
+ 248,82
+ 155.511,88
+ 0,24
+ 311.023,76
+ 622,04
+ 311.023,76
+ 0,40
+ 622.047,53
+ 1.866,13
+ 622.047,53
+ 0,72
+ 1.244.095,06
+ 6.344,87
+ 1.244.095,06
+ 1,04
+ 2.488.190,11
+ 19.283,46
+ 2.488.190,11
+ 1,36
+ 4.976.380,22
+ 53.122,84
+ 4.976.380,22
+ 1,68
+ 9.952.760,45
+ 136.726,02
+ En adelante
+ 2,00
+Se modifica por el art. 2.3 de la Ley Foral 29/2014, de 24 de diciembre. Ref. BOE-A-2015-1017
+ Se modifica, con efectos desde el 1 de enero de 2011, por el art. 2.9 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se modifica por el art. 2.2 de la Ley Foral 25/1994, de 29 de diciembre. Ref. BOE-A-1995-7062
+
+### Artículo 31
+
+Artículo 31. Límite de la cuota íntegra.
+1. La cuota íntegra de este impuesto, conjuntamente con la cuota íntegra del Impuesto sobre la Renta de las Personas Físicas no podrá exceder, para los sujetos pasivos sometidos al impuesto por obligación personal, del 65 por 100 de la suma de la base imponible de este último, sin que a estos efectos sea tenida en cuenta la parte de la cuota que corresponda a elementos patrimoniales que, por su naturaleza o destino, no sean susceptibles de producir los rendimientos gravados por el Impuesto sobre la Renta de las Personas Físicas.
+Tampoco se tendrá en cuenta la parte de la base imponible especial del ahorro derivada de incrementos y disminuciones de patrimonio que corresponda al saldo positivo de los producidos por las transmisiones de elementos patrimoniales adquiridos o de mejoras realizadas en ellos con más de un año de antelación a la fecha de transmisión, ni la porción de la cuota íntegra del Impuesto sobre la Renta de las Personas Físicas correspondiente a aquella parte de la base imponible especial del ahorro.
+A la parte especial del ahorro de la base imponible del Impuesto sobre la Renta de las Personas Físicas se sumará el importe de los dividendos y de las participaciones en beneficios a los que se refiere el apartado 1.a) de la disposición transitoria decimoquinta de la Ley Foral 26/2016, de 28 de diciembre, del Impuesto sobre Sociedades.
+2. En el supuesto de que la suma de ambas cuotas supere el límite a que se refiere el apartado 1, se reducirá la cuota íntegra de este impuesto hasta alcanzar dicho límite, sin que tal reducción pueda exceder del 55 por 100.
+3. En los supuestos de unidades familiares a que se refiere el artículo 71 del Texto Refundido de la Ley Foral del Impuesto sobre la Renta de las Personas Físicas, los límites referidos en los números anteriores se calcularán individualmente, con independencia de la tributación, individual o conjunta, por la que se hubiere optado en el Impuesto sobre la Renta de las Personas Físicas.
+Se modifica el primer párrafo del apartado 1 y se suprime el apartado 4 por el art. 2.1 de la Ley Foral 22/2023, de 26 de diciembre. Ref. BOE-A-2024-1694
+ Se modifican los apartados 1 y 2, con efectos desde el 1 de enero de 2020, por el art. único.1 de la Ley Foral 31/2019, de 23 de diciembre. Ref. BOE-A-2020-452
+ Se modifican los apartados 1 y 2, con efectos para los periodos impositivos que se inicien a partir del 1 de enero de 2018, por el art. 2.2 de la Ley Foral 16/2017, de 27 de diciembre. Ref. BOE-A-2018-801
+ Se modifica el apartado 2, con efectos desde el 1 de enero de 2016, por el art. 2.3 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573
+ Se modifican los apartados 1, párrafo primero y 2 por el art. 2.4 y 5 de la Ley Foral 29/2014, de 24 de diciembre. Ref. BOE-A-2015-1017
+ Se modifica el apartado 3, con efectos desde el 1 de enero de 2011, por el art. 2.10 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se modifica el apartado 1 por el art. 2.2 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208
+ Se modifica el apartado 1, con efectos desde el 1 de enero de 2004, por el art. 2 de la Ley Foral 19/2004, de 29 de diciembre. Ref. BOE-A-2005-1581
+
+### Artículo 32
+
+Artículo 32. Impuestos satisfechos en el extranjero.
+1. En el caso de obligación personal de contribuir y sin perjuicio de lo que se disponga en los Tratados o Convenios Internacionales que formen parte del Ordenamiento Interno, de la cuota de este Impuesto se deducirá, por razón de bienes que radiquen y derechos que pudieran ejercitarse o hubieran de cumplirse fuera de España, la cantidad menor de las dos siguientes:
+a) El importe efectivo de lo satisfecho en el extranjero por razón de gravamen de carácter personal que afecte a los elementos patrimoniales computados en el Impuesto.
+b) El resultado de aplicar el tipo medio efectivo del Impuesto a la parte de base liquidable gravada en el extranjero.
+2. Se entenderá por tipo medio efectivo de gravamen el resultado de multiplicar por 100 el cociente obtenido de dividir la cuota íntegra resultante de la aplicación de la escala por la base liquidable. El tipo medio efectivo de gravamen se expresará con dos decimales.
+Se modifica el apartado 1 por el art. 2.2 de la Ley Foral 22/2023, de 26 de diciembre. Ref. BOE-A-2024-1694
+
+### Artículo 33
+
+Artículo 33. Deducciones de la cuota.
+(Derogado).
+Se deroga, con efectos desde el 1 de enero de 2020, por el art. único.3 de la Ley Foral 31/2019, de 23 de diciembre. Ref. BOE-A-2020-452
+ Se modifica el párrafo primero del apartado 1, con efectos para los periodos impositivos que se inicien a partir del 1 de enero de 2018, por el art. 2.3 de la Ley Foral 16/2017, de 27 de diciembre. Ref. BOE-A-2018-801
+ Se añade, con efectos desde el 1 de enero de 2016, por el art. 2.4 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573
+ Se suprime por el art. 2.6 de la Ley Foral 29/2014, de 24 de diciembre. Ref. BOE-A-2015-1017
+ Se modifica el apartado 1.b) por el art. 2.3 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208
+ Se modifica el apartado 1 por el art. 2.1 de la Ley Foral 35/2003, de 30 de diciembre. Ref. BOE-A-2004-1077
+ Se modifica el apartado 1, con efectos desde el 1 de enero de 2003, por el art. 2.3 de la Ley Foral 16/2003, de 17 de marzo. Ref. BOE-A-2003-8524
+ Se modifica el apartado 1.b), condiciones 3 y 4 por el art. 2.4 de la Ley Foral 23/1998 de 30 de diciembre. Ref. BOE-A-1999-2523
+ Se modifica, con efectos desde el 1 de enero de 1997, por el art. 4 de la Ley Foral 22/1997, de 30 de diciembre. Ref. BOE-A-1998-2918
+
+### Artículo 33 bis
+
+Artículo 33 bis. Bonificación general de la cuota íntegra.
+(Derogado).
+Se deroga, con efectos desde el 1 de enero de 2011, por el art. 2.11 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se añade, con efectos desde el 1 de enero de 2008, por el art. 2.1 de la Ley Foral 22/2008, de 24 de diciembre. Ref. BOE-A-2009-3960
+
+### Artículo 34
+
+Artículo 34. Responsabilidad patrimonial.
+1. Las deudas tributarias por el Impuesto sobre el Patrimonio tendrán la misma consideración de aquellas otras a las cuales se refieren la Ley 90 de la Compilación de Derecho Civil Foral de Navarra y el artículo 1.365 del Código Civil y, en consecuencia, los bienes de conquistas o de gananciales, respectivamente, responderán directamente frente a la Hacienda pública de Navarra por estas deudas.
+2. El depositario o gestor de los bienes o derechos de los sujetos pasivos a que se refiere el artículo 6º.3 responderá solidariamente de la deuda tributaria correspondiente a este Impuesto por los bienes o derechos depositados o cuya gestión tenga encomendada.
+Se modifica el apartado 1, con efectos desde el 16 de octubre de 2019, por el art. 2.3 de la Ley Foral 29/2019, de 23 de diciembre. Ref. BOE-A-2020-450
+ Se añade un apartado 2, con efectos desde el 1 de enero de 2011, por el art. 2.12 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se deroga el apartado 2, con efectos desde el 1 de enero de 2008, por el art. 2.2 de la Ley Foral 22/2008, de 24 de diciembre. Ref. BOE-A-2009-3960
+
+## CAPÍTULO VIII
+
+Gestión del Impuesto
+
+### Artículo 35
+
+Artículo 35. Competencia.
+(Derogado).
+Se deroga por la disposición derogatoria 1.c) de la Ley Foral 13/2000, de 14 de diciembre. Ref. BOE-A-2001-3494#dd
+
+### Artículo 36
+
+Artículo 36. Personas obligadas a presentar declaración.
+Están obligados a presentar declaración los sujetos pasivos cuya cuota tributaria, determinada de acuerdo con las normas reguladoras del impuesto y una vez aplicadas las deducciones y bonificaciones que procedieren, resulte a ingresar o cuando, no dándose esta circunstancia, el valor de sus bienes o derechos determinado de acuerdo con las normas reguladoras del impuesto resulte superior a 1.000.000 de euros.
+Se modifica, con efectos desde el 1 de enero de 2016, por el art. 2.5 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573
+ Se modifica por el art. 2.7 de la Ley Foral 29/2014, de 24 de diciembre. Ref. BOE-A-2015-1017
+ Se modifica, con efectos desde el 1 de enero de 2012, por el art. único.3 de la Ley Foral 23/2012, de 26 de diciembre. Ref. BOE-A-2013-503
+ Redactado conforme a la corrección de errores publicada en BON núm. 4, de 8 de enero de 2013.
+ Se añade, con efectos desde el 1 de enero de 2011, por el art. 2.13 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se deroga, con efectos desde el 1 de enero de 2008, por el art. 2.2 de la Ley Foral 22/2008, de 24 de diciembre. Ref. BOE-A-2009-3960
+ Se modifica el apartado 1.a), con efectos desde el 1 de enero de 2005, por el art. 2.2 de la Ley Foral 19/2005, de 29 de diciembre. Ref. BOE-A-2006-846
+ Se modifica el apartado 1 por el art. 2.5 de la Ley Foral 23/1998 de 30 de diciembre. Ref. BOE-A-1999-2523
+ Se modifica el apartado 1 por el art. 2.3 de la Ley Foral 25/1994, de 29 de diciembre. Ref. BOE-A-1995-7062
+
+### Artículo 37
+
+Artículo 37. Autoliquidación.
+1. Los sujetos pasivos obligados a presentar declaración deberán practicar la correspondiente autoliquidación y, en su caso, ingresar la deuda tributaria en el lugar, forma y plazos que se determinen por el Departamento de Economía y Hacienda.
+2. El pago de la deuda tributaria podrá realizarse mediante entrega de bienes, de conformidad con lo establecido en el artículo 51.4 de la Ley Foral 13/2000, de 14 de diciembre, General Tributaria.
+Se añade, con efectos desde el 1 de enero de 2011, por el art. 2.14 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se deroga, con efectos desde el 1 de enero de 2008, por el art. 2.2 de la Ley Foral 22/2008, de 24 de diciembre. Ref. BOE-A-2009-3960
+
+### Artículo 38
+
+Artículo 38. Presentación de la declaración.
+La declaración se efectuará en la forma, plazos e impresos que establezca el Departamento de Economía y Hacienda.
+El Departamento de Economía y Hacienda podrá aprobar modelos de declaración conjunta del Impuesto para su utilización opcional por los sujetos pasivos componentes de las unidades familiares a que se refiere el artículo 71 de del Texto Refundido de la Ley Foral del Impuesto sobre la Renta de las Personas Físicas. Asimismo podrá aprobar la utilización de modalidades simplificadas o especiales de declaración.
+Los sujetos pasivos deberán cumplimentar la totalidad de los datos que les afecten contenidos en las declaraciones, acompañar los documentos y justificantes que se establezcan y suscribirlas y presentarlas en los lugares que determine el Departamento de Economía y Hacienda.
+Se añade, con efectos desde el 1 de enero de 2011, por el art. 2.15 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se deroga, con efectos desde el 1 de enero de 2008, por el art. 2.2 de la Ley Foral 22/2008, de 24 de diciembre. Ref. BOE-A-2009-3960
+
+### Disposición adicional primera
+
+Disposición adicional primera. Escala del Impuesto sobre el Patrimonio en 2026.
+En el período impositivo 2026 la base liquidable del impuesto será gravada a los tipos de la siguiente escala:
+Base liquidable hasta (euros)
+ Cuota Íntegra (euros)
+ Resto Base Liquidable hasta (euros)
+ Tipo Aplicable (porcentaje)
+ 0,00
+ 0,00
+ 155.511,88
+ 0,16
+ 155.511,88
+ 248,82
+ 155.511,88
+ 0,24
+ 311.023,76
+ 622,04
+ 311.023,76
+ 0,40
+ 622.047,53
+ 1.866,13
+ 622.047,53
+ 0,72
+ 1.244.095,06
+ 6.344,87
+ 1.244.095,06
+ 1,04
+ 2.488.190,11
+ 19.283,46
+ 2.488.190,11
+ 1,36
+ 4.976.380,22
+ 53.122,84
+ 4.976.380,22
+ 1,68
+ 9.952.760,45
+ 136.726,02
+ 1.051.024,05
+ 2,00
+ 11.003.784,50
+ 157.746,50
+ En adelante
+ 3,50
+Se modifica por el art. 2.2 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+ Se modifica por el art. 2.2 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
+ Se añade por el art. 2.3 de la Ley Foral 22/2023, de 26 de diciembre. Ref. BOE-A-2024-1694
+ Se deroga por la disposición derogatoria 1.c) de la Ley Foral 13/2000, de 14 de diciembre. Ref. BOE-A-2001-3494#dd
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Sin perjuicio de las adaptaciones que se hagan precisas, las referencias contenidas en el ordenamiento tributario de la Comunidad Foral al Impuesto Extraordinario sobre el Patrimonio de las Personas Físicas o al Impuesto sobre el Patrimonio Neto, se entenderán efectuadas al Impuesto sobre el Patrimonio regulado en esta Ley Foral.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Las referencias a la obligación real de contribuir que se contienen en esta Ley Foral se entenderán efectuadas al concepto que como tal se halle definido en cada momento en la normativa de territorio común.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+La Ley Foral de Presupuestos Generales de Navarra podrá modificar:
+a) Las reducciones de la base imponible.
+b) El límite determinante de la obligación de declarar.
+c) Los tramos de la base liquidable y tipos de gravamen.
+d) Los demás parámetros cuantitativos del Impuesto.
+
+### Disposición adicional quinta
+
+Disposición Adicional Quinta. Equiparación de las parejas estables a los cónyuges.
+(Derogada)
+Se deroga por el art. 2.3 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+ Se modifica por el art. 4 de la Ley Foral 38/2013, de 28 de diciembre. Ref. BOE-A-2014-888
+ Se añade por el art. 2.2 de la Ley Foral 35/2003, de 30 de diciembre. Ref. BOE-A-2004-1077
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Lo dispuesto en el número 1 del artículo 31 será de aplicación al ejercicio 1992.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Los sujetos pasivos a que se refiere el artículo 6º.3 dispondrán de un plazo de dos meses a partir de 1 de enero de 2012 para designar y acreditar la persona que les ha de representar a efectos de este Impuesto ante la Hacienda Tributaria de Navarra.
+Se añade, con efectos desde el 1 de enero de 2011, por el art. 2.16 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
+ Se deroga, con efectos desde el 1 de enero de 2008, por el art. 2.2 de la Ley Foral 22/2008, de 24 de diciembre. Ref. BOE-A-2009-3960
+
+### Disposición final primera
+
+Disposición final primera.
+Sin perjuicio de lo dispuesto en la Disposición transitoria primera, las disposiciones contenidas en esta Ley Foral comenzarán a regir el día 1 de enero de 1993, quedando derogados a partir de su entrada en vigor los Acuerdos de la Diputación Foral de 28 de diciembre de 1977 y 9 de febrero de 1978, reguladores del Impuesto Extraordinario sobre el Patrimonio de las Personas Físicas, y demás disposiciones que se opongan a lo establecido en la misma, sin perjuicio de la exigibilidad por la Administración de cuantas obligaciones tributarias deriven de la normativa que se deroga.
+
+### Disposición final segunda
+
+Disposición final segunda.
+El Gobierno de Navarra y el Consejero de Economía y Hacienda dictarán cuantas disposiciones sean necesarias para el desarrollo y aplicación de esta Ley Foral.
+
+### [firma]
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de Su Majestad el Rey, esta Ley Foral, ordeno su inmediata publicación en el <Boletín Oficial de Navarra> y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 19 de noviembre de 1992.
+JUAN CRUZ ALLI ARANGUREN,
+Presidente del Gobierno de Navarra

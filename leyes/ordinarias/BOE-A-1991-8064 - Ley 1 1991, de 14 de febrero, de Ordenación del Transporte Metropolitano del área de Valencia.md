@@ -1,0 +1,272 @@
+# Ley 1/1991, de 14 de febrero, de Ordenación del Transporte Metropolitano del área de Valencia.
+
+- Identificador BOE: `BOE-A-1991-8064`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-8064
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado y yo de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía,
+En nombre del Rey promulgo la siguiente Ley:
+PREÁMBULO
+I
+Uno de los problemas más acuciantes que ocasiona la concentración de la población en las grandes ciudades y sus zonas de influencia, fruto del proceso de industrialización, es el relativo a la movilidad ciudadana, dada la necesidad de asegurar, en condiciones de calidad y precio, los desplazamientos que provocan las relaciones vivienda/trabajo/ocio, hecho que en los países democráticos más desarrollados ha dado lugar al llamado «derecho al transporte», que ha llevado a los poderes públicos a ensayar diferentes modelos organizativos con el objetivo común de que los diversos servicios que operan en el espacio metropolitano funcionen armónicamente en cuanto partes de un mismo sistema integrado.
+II
+En el caso de la ciudad de Valencia y su zona de influencia, se hace patente la descoordinación existente entre los distintos modos y medios de transporte que prestan servicio en el área metropolitana, con el consiguiente desequilibrio espacial y temporal en la capacidad de la oferta.
+Descoordinación que, al igual que en otras áreas metropolitanas, causa la existencia de una situación de dispersión de competencias entre las Administraciones públicas titulares de los servicios urbanos e interurbanos.
+Esta diversidad de potestades ordenadoras se refleja de la siguiente manera: La Administración de la Generalidad Valenciana es titular de la competencia sobre los Ferrocarriles de la Generalidad Valenciana (FGV), de los servicios de transporte por carretera que realizan prestaciones interurbanas y de la estación de autobuses interurbanos.
+El Ayuntamiento de Valencia ejerce la competencia ordenadora sobre su transporte urbano, siendo actual titular de la Empresa Municipal de Transportes (EMT).
+Los Ayuntamientos de los municipios del entorno de Valencia disponen de la potestad de ordenación sobre el transporte urbano realizado en sus respectivos términos municipales. Y finalmente, el Consejo Metropolitano de l'Horta, según su Ley constitutiva, dispone de potestades para la planificación y gestión del transpone supramunicipal en su ámbito territorial. Todo lo cual da lugar a una actuación deficientemente coordinada, e incluso aislada, de las Empresas operadoras, al desconocerse en sus planes de explotación el conjunto de prestaciones y la globalidad de usuarios, por lo que el marco tarifario se compone de una serie de elementos aislados, concebidos en atención a diferentes conceptos técnicos, situación manifiestamente contrapuesta a la idea de «sistema integrado».
+III
+De entre las opciones que para la solución del problema ofrecen las experiencias nacionales y extranjeras, se ha optado por la que, ponderando las circunstancias concurrentes en el caso de Valencia y habida cuenta del marco institucional vigente, se ha creído más funcional, de menor coste económico y de contrastada operatividad práctica.
+En este sentido, por cuanto de coste tecnoburocrático supone en un país sobrado de estructuras administrativas y por la complejidad operativa que conlleva, se ha optado por descartar la creación de una nueva Administración pública de tipo consorcial, ya que en definitiva la imagen de autoridad unitaria que este modelo persigue puede verse alcanzada igualmente mediante el encuentro de las Administraciones titulares de los servicios en una Comisión «ad hoc», en la que la actuación mancomunada de las mismas da lugar al «Plan de Transporte Metropolitano».
+De esta forma, la solución adoptada al tiempo que se inspira parcialmente en experiencias contrastadas en otros países de estructura política federativa, encaja nítidamente en las previsiones establecidas en el ordenamiento de régimen local del Estado y de la Generalidad Valenciana y, en suma, en el marco constitucional.
+La solución que se arbitra concibe dos planos de actuación bien diferenciados: Uno de planificación, que se concreta en la elaboración del «Plan de Transporte Metropolitano», y otro de gestión y ejecución del planeamiento, que se encomienda a las Administraciones titulares de los servicios y a las Empresas explotadoras. Siendo elemento clave de todo el sistema la «Comisión del Plan de Transporte Metropolitano» que, integrada por las Administraciones implicadas y por los operadores de transporte, es el cauce a través del cual se produce, como se indica, el ejercicio mancomunado de las potestades públicas que, teniendo en cuenta el planeamiento de las infraestructuras v la ordenación urbanística, deberá asegurar la explotación de los servicios en base a principios de funcionalidad y economicidad.
+Y es que, conforme ha entendido la doctrina administrativa, la mutación que en la naturaleza de los servicios provoca su integración en el «sistema de transporte metropolitano» exige, bien un cambio en la titularidad de los mismos, con correlativos traspasos de competencias, caso de los Consorcios interadministrativos, bien una esencial restricción de ejercicio en las potestades ordenadoras, incluida la potestad tarifaria, de las Administraciones responsables, supuesto que nos ocupa.
+En este orden de cosas, la operación a que de lugar la calificación de «servicios de interés metropolitano» que la Ley prevé conecta inevitablemente con el papel constitucionalmente reservado a la Generalidad Valenciana que, en cuanto titular de la competencia sobre ordenación del territorio y coordinación de los transportes locales y regionales y, en definitiva, en cuanto poder político responsable de la ordenación socioeconómica regional, asume la responsabilidad del planeamiento a nivel comunitario.
+Solución que viene contemplada en el artículo 59 de la Ley de Bases del Régimen Local, en cuanto prevé que, mediante leyes reguladoras de los distintos sectores, las Comunidades Autónomas podrán atribuir a sus Consejos de Gobierno «la facultad de coordinar la actividad de la Administración Local en el ejercicio de sus competencias, a través de planes sectoriales».
+Actuación integradora de intereses locales y supralocales que ya con anterioridad a la Ley de Régimen Local ha presidido la actuación legislativa de la Generalidad Valenciana, al declararse de «interés comunitario», por Ley de 4 de octubre de 1983, las tareas reservadas a las Diputaciones Provinciales en cuanto a fomento, construcción y explotación de ferrocarriles, autobuses, tranvías y trolebuses interurbanos, declaración que, según el artículo 3 de la propia Ley, implica que las potestades de coordinación de tales servicios han pasado a ejercerse por el Consejo de la Generalidad Valenciana.
+Todo lo cual, lejos de atentar a la autonomía municipal, articula armónicamente a través de una actuación cooperativa los intereses locales y supralocales, evitando que una interpretación rigorista del sistema de distribución de competencias haga imposible el funcionamiento de un servicio público esencial, en la forma que el fenómeno metropolitano demanda en las sociedades evolucionadas, por lo que, a través de las técnicas de coordinación y cooperación, al tiempo que se cumplimenta el artículo 103 de la Constitución, se da satisfacción a los mandatos de solidaridad y progreso que en todo caso han de presidir la construcción del Estado de las Autonomías.
+La Ley del Plan, que no podía confundirse con el Plan mismo, al tiempo que perfila el alcance del planeamiento, deslinda el cometido que a la Comisión del Plan y al Gobierno Valenciano se confía en el proceso planificador, atribuyendo a las Administraciones públicas titulares de los servicios un cometido ejecutor, dado que, según quedó expuesto, el ejercicio de sus potestades ordenadoras tiene lugar, en todo caso, a través de su inserción en la Comisión misma.
+La indispensable unidad del planeamiento para organizar un sistema de transporte metropolitano coherente requería, además, que el cometido planificador del transporte supramunicipal atribuido al Consejo Metropolitano de l'Horta en la Ley de la Generalidad Valenciana 12/1986, de 31 de diciembre, fuera ejercido en el marco de la Comisión del Plan, incorporando a esta Comisión la mencionada Administración metropolitana, al igual que las demás Administraciones públicas. De esta manera las atribuciones del ente metropolitano se ejercen, como su propia Ley de creación establece, de acuerdo con la superior acción sectorial del Consejo de la Generalidad Valenciana, y se propicia asimismo la necesaria coordinación de la Comisión del Plan con las demás actuaciones territoriales que incumban al Consejo Metropolitano de L'Horta.
+En este mismo orden, la Ley articula, a través de la Comisión del Plan, la interrelación funcional con otros Organismos competentes en materia de infraestructura del transporte, ordenación del territorio y urbanismo, así como con los entes estatales titulares de competencias relacionadas con el transporte metropolitano, dando una especial significación a las relaciones con RENFE a tenor de lo establecido en el artículo 33.8 del Estatuto de Autonomía.
+IV
+Finalmente, en el orden financiero, al estar en el presente pendiente de asentar definitivamente el sistema de financiación de las Comunidades Autónomas y de los entes locales, la Ley no ha podido más que diseñar el marco legal necesario para que tanto el reparto de responsabilidades entre las distintas Administraciones públicas, como las bases de la estructura tarifaria de los servicios de interés metropolitano y la distribución de ingresos por utilización de títulos multimodales, puedan establecerse con el detalle técnico que se requiera en el Plan de Transporte Metropolitano.
+
+## CAPÍTULO PRIMERO
+
+Objeto y ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1.
+1. Es objeto de la presente Ley el establecimiento del marco legal necesario para la organización a modo de sistema integrado coherente y eficaz de los servicios de transporte público de viajeros prestados en el ámbito territorial a que se refiere el articulo 2 de la presente Ley y del ejercicio por las Administraciones Públicas de sus competencias de conformidad con lo establecido en la presente Ley y en las prescripciones del Plan.
+2. La organización de estos servicios de transporte público de viajeros se diseña, desarrolla y evalúa a través del Plan de Transporte Metropolitano y del ejercicio por las Administraciones Públicas de sus competencias de conformidad con la legislación vigente.
+
+### Artículo 2
+
+Artículo 2.
+1. El ámbito territorial de aplicación de la presente Ley al que se denomina área de Valencia es el comprendido por los municipios de: Alaquàs, Albal, Albalat dels Sorells, Alboraya, Albuixech, Alcácer, Aldaya, Alfafar, Alfara del Patriarca, Alginet, Almàssera, Almussafes, Benaguasil, Benetússer, Benifaió, Benisanó, Beniparrell, Bétera, Bonrepos i Mirambell, Burjassot, Carlet, Catarroja, L'Eliana, Emperador, Foios, Godella, Llíria, Lugar Nuevo de la Corona, Manises, Massalfassar, Massamagrell, Massanassa, Meliana, Mislata, Moncada, Museros, Paiporta, Paterna, Picanya, Picassent, La Pobla de Vallbona, La Pobla de Farnals, Puig, Pucol, Quart de Poblet, Rafelbuñol, Ribaroja de Túria, Rocafort, Sedavi, Silla, Sollana, Tavernes Blanques, Torrent, Valencia, Vilamarxant, Vinalesa y Xirivella.
+2. El ámbito territorial a que se refiere el apartado anterior podrá modificarse por Decreto del Consejo de la Generalidad Valenciana, a propuesta de la «Comisión del Plan de Transporte Metropolitano», previo expediente en el que se practicará el trámite de información pública y la audiencia de los municipios afectados.
+
+## CAPÍTULO II
+
+CAPÍTULO II
+De los «servicios de transportes de interés metropolitano»
+
+### Artículo 3
+
+Artículo 3.
+Son servicios de transportes de interés metropolitano los que, conforme a lo dispuesto en el artículo 5, forman parte del sistema de transportes del área de Valencia, y cuantos se declaren expresamente como tales de conformidad con la presente Ley.
+
+### Artículo 4
+
+Artículo 4.
+1. Para la declaración de servicio de interés metropolitano se tendrá en cuenta las necesidades de explotación unitaria y prestación coordinada de los servicios, así como la existencia de economías de escala y otras circunstancias que propicien la eficacia y economía del conjunto.
+2. En el expediente de declaración de servicio de interés metropolitano se practicará el trámite de información pública, a la cual serán convocados expresamente los ayuntamientos afectados, así como los empresarios transportistas cuyos servicios resultan afectados.
+3. La declaración de servicio de interés metropolitano no comporta la pérdida de la titularidad pública por parte de la Administración responsable del servicio, pero el ejercicio de las potestades de ordenación y coordinación, incluida la potestad tarifaria, habrá de producirse necesariamente a través de la Comisión del Plan de Transporte Metropolitano y someterse a posterior sanción del Consejo de la Generalidad Valenciana.
+4. La declaración de servicio de interés metropolitano deberá ser causa de las compensaciones que, en su caso, se establezcan en el Plan de Transporte Metropolitano.
+Se modifica el apartado 2 por el art. 20.1 del Decreto-ley 1/2022, de 22 de abril. Ref. DOGV-r-2022-90121
+
+## CAPÍTULO III
+
+CAPÍTULO III
+Del planeamiento, ordenación y gestión de los servicios de interés metropolitano
+
+### Artículo 5
+
+Artículo 5.
+1. Forman parte del sistema de transportes del área de València, y tienen por lo tanto la consideración de servicios de interés metropolitano, los que a continuación se determinan:
+a) Los de transporte regular de viajeros de uso general por carretera prestados por la Autoridad de Transporte Metropolitano de València, aunque excedan el ámbito territorial de la presente Ley.
+b) Los servicios de transporte prestados por Ferrocarriles de la Generalitat Valenciana a través de la red de MetroValencia, aunque excedan el ámbito territorial de la presente Ley.
+c) Los servicios de transporte urbano de viajeros de los municipios del ámbito territorial objeto de la presente ley.
+d) Los servicios de transporte regular y discrecional de viajeros de uso general o especial prestados íntegramente en el ámbito territorial objeto de la presente Ley y las expediciones parciales de los servicios de superior ámbito.
+e) Los servicios ferroviarios de Cercanía Renfe Viajeros del Núcleo de Cercanía de València prestados por la Red Nacional de Ferrocarriles Españoles (RENFE) que se disponga a través de un convenio, aunque excedan el ámbito territorial de la presente Ley.
+f) Cuántos otros servicios de transporte urbano o interurbano de viajeros, desarrollados en el ámbito territorial de la presente Ley, sean declarados de interés metropolitano en conformidad con las previsiones de esta.
+2. Así mismo, mediante convenio se podrán aplicar acciones y medidas de coordinación tarifaria, incluida la utilización de títulos de coordinación o integración propiedad de la Autoridad de Transporte Metropolitano de València, en aquellos servicios que por razones de movilidad permiten conexiones modales o intermodales con los servicios contemplados en el apartado 1 del presente artículo.
+Se modifica por el art. 20.2 del Decreto-ley 1/2022, de 22 de abril. Ref. DOGV-r-2022-90121
+
+### Artículo 6
+
+Artículo 6.
+El Plan de Transporte Metropolitano, teniendo en consideración la programación de las infraestructuras y lo establecido en las Normas de Coordinación Metropolitana y los Planes Generales de Ordenación Urbana de los Municipios afectados, deberá contener al menos las siguientes prescripciones:
+La planificación general de los servicios y el establecimiento de programas de explotación coordinada para todas las empresas prestadoras de los mismos.
+Marco tarifario de los servicios de transporte metropolitano determinándose, en su caso, la parte del precio que corresponda cubrir con cargo a subvenciones.
+Procedimiento de reparto de ingresos y de compensaciones financieras.
+Sistemas de financiación de instalaciones y material.
+Fórmulas de control de ingresos y costes de las empresas prestatarias.
+Asignación de actuaciones, en el ámbito de la coordinación, a los operadores públicos y privados del transporte.
+Previsiones sobre estaciones de autobuses, aparcamientos disuasorios, intercambiadores y otras instalaciones y equipamientos de transporte.
+Programación de actuaciones sobre inspección conjunta y pautas generales de inspección de empresas y explotaciones.
+Previsiones generales sobre ordenación del tráfico en zonas urbanas e interurbanas, en conexión con las Autoridades competentes y en materias relacionadas con la coordinación del transporte, respetando, en cualquier ceso, los intereses peculiares y las prioridades incluidas en las distintas unidades territoriales afectadas.
+Medidas de racionalización de los servicios sometidos a concesión administrativa y compensaciones procedentes en su caso.
+Previsiones sobre contratos/programa, conciertos y convenios a establecer entre las Administraciones públicas y las empresas prestatarias.
+Evaluación de las medidas económicas de actuación contenidas en el Plan, y singularmente de las cargas de servicio público.
+Medidas de publicidad del sistema de transporte y de información a los usuarios.
+
+### Artículo 7
+
+Artículo 7.
+1. La elaboración y propuesta de aprobación del «Plan de Transporte Metropolitano» corresponde a la Comisión a que se refiere el artículo 9, y su aprobación al Consejo de la Generalidad que dará cuenta a las Cortes Valencianas.
+2 El anteproyecto del Plan deberá ser sometido información pública y a informe de las Administraciones públicas y empresas afectadas.
+3. La duración del Plan será de al menos cuatro años, pudiendo revisarse anualmente en forma parcial. Al finalizar el periodo de vigencia del Plan se procederá a su renovación, siguiéndose el procedimiento establecido para su aprobación, tanto para la renovación como para la revisión.
+4. En caso necesario, siguiendo el procedimiento establecido para la aprobación del Plan, con carácter previo al mismo, podrán adoptarse medidas parciales de ordenación y coordinación de los servicios de transporte.
+
+### Artículo 8
+
+Artículo 8.
+1. Corresponde a las Administraciones públicas el cumplimiento de las prescripciones del Plan de Transporte Metropolitano en cuanto a los servicios de su competencia, a través de los programas de actuación de las empresas públicas, de la gestión de las concesiones y autorizaciones y de las demás medidas de actuación que el ordenamiento jurídico establece.
+2. Las Administraciones públicas elaborarán los programas de inspección de sus respectivos servicios, de conformidad con las directrices del Plan de Transporte Metropolitano, debiendo dar cuenta de sus resultados a la Comisión a que se refiere el artículo 9.
+
+## CAPÍTULO IV
+
+De la Comisión del Plan de servicios de transporte metropolitano
+
+### Artículo 9
+
+Artículo 9.
+1. La Comisión del Plan de transportes metropolitano del área de Valencia en adelante la Comisión del Transporte Metropolitano es el órgano a través del cual se canaliza el ejercicio de las potestades de planificación, ordenación y coordinación de las Administraciones públicas titulares de los servicios de interés metropolitano.
+2. Corresponde a la Comisión del Plan:
+La elaboración y propuesta de aprobación del Plan de servicios de transporte metropolitano y sus modificaciones, así como su tramitación a través de la Secretaría General.
+La elaboración y propuesta de medidas de reestructuración de la oferta y coordinación tarifaria y cualesquiera otras de similar naturaleza que hayan de adoptarse con anterioridad o posterioridad al Plan.
+Proponer fórmulas de colaboración entre las Administraciones públicas y entre éstas y las empresas explotadoras para la mejor coordinación de los servicios.
+Proponer fórmulas de distribución de las asignaciones económicas del Estado, de la Generalidad Valenciana y de los Entes locales, así como de reparto de los ingresos y compensaciones a que den lugar los sistemas de tarifas combinadas.
+Velar por el cumplimiento del Plan de transporte metropolitano y demás medidas de planeamiento, requiriendo de las Administraciones públicas y empresas prestatarias cuantos datos e informes resulten necesarios, recabando si ello fuere necesario las medidas de actuación que se estimen pertinentes del Gobierno Valenciano.
+Conocer e informar los Convenio de colaboración a celebrar entre RENFE y la Generalidad Valenciana sobre los servicios ferroviarios de la Red Nacional a incorporar al sistema metropolitano de transportes.
+Promover y resolver sobre la declaración de servicios de interés metropolitano de conformidad con lo establecido en el artículo 4.
+Elaborar un informe anual sobre el grado de cumplimiento del Plan, del que se dará cuenta a las Cortes Valencianas, a las empresas prestatarias. Administraciones públicas y al Consejo de la Generalidad Valenciana.
+Controlar la calidad del servicio prestado por las diferentes empresas.
+
+### Artículo 10
+
+Artículo 10.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 9/2000, de 23 de noviembre. Ref. BOE-A-2000-23925
+
+### Artículo 11
+
+Artículo 11.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 9/2000, de 23 de noviembre. Ref. BOE-A-2000-23925
+
+### Artículo 12
+
+Artículo 12.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 9/2000, de 23 de noviembre. Ref. BOE-A-2000-23925
+
+## CAPÍTULO V
+
+Del Consejo de la Generalidad Valenciana y de las Administraciones públicas responsables de los servicios
+
+### Artículo 13
+
+Artículo 13.
+1. Es competencia del Consejo la aprobación del Plan de Transporte Metropolitano elaborado en la forma establecida en el articulo 7.º, así como sus modificaciones.
+2. El Consejo de la Generalidad Valenciana incluirá en el proyecto de Presupuestos de la Generalidad Valenciana las partidas necesarias para hacer frente a las obligaciones que, de conformidad con lo dispuesto en el Plan, incumban a la Administración autonómica.
+3. Si resultare necesario, el Consejo de la Generalidad Valenciana, oída la Comisión del Plan, llevará a cabo las medidas pertinentes para hacer cumplir las precisiones contenidas en el Plan de Transporte Metropolitano. En caso de grave incumplimiento del Plan, el Consejo de la Generalidad Valenciana lo pondrá en conocimiento de las Cortes Valencianas, dando cuenta de las soluciones adoptadas y proponiendo, en su caso, la adopción de las disposiciones legislativas que resulten necesarias.
+
+### Artículo 14
+
+Artículo 14.
+1. Incumbe a la Administración de Transportes de la Generalidad Valenciana, al Ayuntamiento de Valencia y a las demás Administraciones locales incluidas en el ámbito de aplicación del Plan de Transporte Metropolitano el cumplimiento de las precisiones establecidas en el mismo en cuanto se refiere a las Empresas y servicios de transporte de su respectiva competencia.
+2. (Derogado)
+3. En el supuesto de que alguno de los Ayuntamientos acordase formalmente desligarse del cumplimiento de las previsiones económicas que le fueren asignadas, ello no producirá su desvinculación de cuanto afecta a la ordenación de los servicios declarados de interés metropolitano, pudiendo el Consejo de la Generalidad Valenciana impugnar los presupuestos de dichos Ayuntamientos en la forma establecida en la Ley de Régimen Local.
+Se deroga el apartado 2 por la disposición derogatoria única de la Ley 9/2000, de 23 de noviembre. Ref. BOE-A-2000-23925
+
+## CAPÍTULO VI
+
+De las Empresas públicas y de la gestión de los servicios por Empresas privadas
+
+### Artículo 15
+
+Artículo 15.
+1. Sin perjuicio de su vinculación a sus respectivas Administraciones, las Empresas públicas prestatarias de servicios de interés metropolitano tendrán personalidad jurídica independiente, patrimonio propio y autonomía de gestión, diseñando y ejecutando sus programas de actuación con sujeción al Plan de Transportes y demás medidas de planeamiento.
+2. Las relaciones entre las Empresas privadas prestatarias de servicios de interés metropolitano y las respectivas Administraciones públicas se llevarán a cabo a través de contratos-programas o bien de actos jurídicos similares.
+3. La inspección de los servicios de interés metropolitano se llevará a cabo, en cada caso, por las Administraciones públicas responsables, cumpliéndose al respecto las prescripciones establecidas en el Plan de Transportes.
+4. La colaboración con RENFE se establecerá, en su caso, a través de Convenios que regularán la oferta de servicios de carácter metropolitano a cargo de la Entidad ferroviaria nacional, su coste, nivel de calidad, tipos de tarifas y mecanismos de compensación que, en su caso, resulten necesarios, a cuyo efecto deberá requerirse de la Empresa ferroviaria una gestión contable individualizada.
+
+### Artículo 16
+
+Artículo 16.
+1. Los servicios de interés metropolitano prestados por Empresas de titularidad privada se gestionarán de acuerdo con lo establecido en sus respectivas concesiones y autorizaciones, cuyos títulos administrativos deberán conformarse, en todo caso, a las prescripciones del Plan de Transportes y demás medidas de planeamiento.
+2. Las modificaciones que hubieren de establecerse en los títulos administrativos susceptibles de alterar el equilibrio económico de las concesiones serán compensadas mediante los recursos económicos que correspondan.
+3. La Comisión del Plan tomará las medidas oportunas para garantizar el seguimiento y control efectivo de las subvenciones.
+
+### Artículo 17
+
+Artículo 17.
+Las Empresas prestatarias de servicios públicos de interés metropolitano deberán llevar una contabilidad homologada que permita conocer el coste real de los servicios, debiendo presentar anualmente a la Comisión Ejecutiva del Plan, a través de las respectivas Administraciones públicas, una Memoria explicativa del Balance de Resultados.
+A instancia de la Comisión del Transporte Metropolitano, las Empresas subvencionadas deberán someterse a auditoría contable.
+
+## CAPÍTULO VII
+
+De la financiación del sistema de transporte del área de Valencia
+
+### Artículo 18
+
+Artículo 18.
+1. El Plan determinará los supuestos en que el coste de los servicios de interés metropolitano haya de ser cubierto íntegramente con cargo a tarifas y aquellos otros en que una parte del coste deba ser sufragado con cargo a subvenciones del Estado, de la Generalidad Valenciana, del Consejo Metropolitano de l'Horta o de los Ayuntamientos afectados, o, en su caso, a través de una subvención múltiple.
+Las Empresas prestatarias de los servicios serán compensadas, en todo caso, de las obligaciones de servicio público que se impongan en el Plan.
+2. El Plan establecerá los módulos objetivos por los que habrá de regirse el reparto de los ingresos entre las Empresas por la utilización de títulos multimodales.
+3. El Consejo de la Generalidad Valenciana fijará el importe de las subvenciones a percibir por las Empresas prestatarias de los servicios de transporte público destinadas a cubrir las diferencias entre los ingresos y los gastos de explotación.
+En caso de que las mencionadas ayudas no cubran el importe total de dichas diferencias, el Consejo Metropolitano de l'Horta y/o los municipios correspondientes vendrán obligados a destinar los recursos necesarios para establecer el equilibrio funcional de aquéllas de acuerdo con lo previsto en el número 3 del artículo 45 de la Ley Reguladora de las Haciendas Locales.
+El Plan determinará los gastos de inversión en equipamientos y material que hayan de ser asumidos por las diferentes Administraciones públicas y la distribución, en su caso, de las aportaciones del Estado.
+
+### Artículo 19
+
+Artículo 19.
+1. El Consejo en el proyecto de Ley de Presupuestos de la Generalidad Valenciana establecerá las previsiones necesarias para hacer frente a las obligaciones que incumba asumir a la Administración de Transportes de la Generalidad Valenciana de conformidad con las previsiones del Plan.
+2. Los municipios cuyos servicios de transporte público colectivo de superficie se integren en el Plan de Transporte Metropolitano se entenderá que prestan dicho servicio a sus residentes a efectos de lo dispuesto en el número 4 del artículo 73 de la Ley 39/1988, de 28 de diciembre, que regula los límites vigentes en cada momento para la fijación de los tipos del Impuesto sobre Bienes Inmuebles. Dicha facultad deberá ser ejercitada en función de los objetivos del Plan.
+
+### Artículo 20
+
+Artículo 20.
+1. Los créditos establecidos cada año en los Presupuestos Generales del Estado en favor de las Entidades locales que tengan a su cargo el servicio de transporte colectivo urbano, se distribuirán por la Comisión del Plan mediante módulos objetivos y con los requisitos que la misma determine, en base a lo establecido en la disposición adicional duodécima de la Ley Reguladora de las Haciendas Locales de 28 de diciembre de 1988.
+2. En el caso de que los resultados negativos de la explotación de aquellas Empresas que recibieran subvenciones de los Presupuestos Generales del Estado o, en su caso, de la Generalidad Valenciana, fuesen debidos a una mala gestión empresarial, la Comisión del Plan, sin perjuicio de responsabilidades de otra carácter, propondrá a las Administraciones municipales respectivas la adopción de las medidas correctivas pertinentes, pudiendo recabar las decisiones oportunas de la Generalidad Valenciana.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El cometido atribuido al Consejo Metropolitano de l'Horta en el artículo 3.º de la Ley de la Generalidad Valenciana 12/1986, de 31 de diciembre, en cuanto a la planificación conjunta del transporte y su infraestructura, será ejercido en el marco de lo establecido en la presente Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La Comisión del Plan, para formular la planificación conjunta del transporte y su infraestructura y determinar las formas de gestión de los servicios de transporte de interés metropolitano, contará con la acción técnica y administrativa del Consejo Metropolitano de l'Horta.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 9/2000, de 23 de noviembre. Ref. BOE-A-2000-23925
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+1. Previo informe de la Comisión del Plan, el Consejo de la Generalidad Valenciana aprobará un Reglamento de aplicación a los servicios de interés metropolitana.
+2. El Gobierno Valenciano dictará cuantas disposiciones resulten necesarias para el desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Por Decreto del Consejo de la Generalidad Valenciana, previo informe del Consejo Metropolitano de l'Horta y de los Ayuntamientos interesados, se determinará la composición de la Secretaría General de la Comisión.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor el día de su publicación en el «Diario Oficial de la Generalidad Valenciana».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, Tribunales y autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 14 de febrero de 1991.
+JOAN LERMA I BLASCO,
+Presidente de la Generalidad

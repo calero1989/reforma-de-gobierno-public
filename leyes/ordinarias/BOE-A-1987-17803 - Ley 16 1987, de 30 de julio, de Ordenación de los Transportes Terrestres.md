@@ -1,0 +1,2533 @@
+# Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres.
+
+- Identificador BOE: `BOE-A-1987-17803`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-17803
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta la disposición adicional 2 de la Ley 9/2013, de 4 de julio Ref. BOE-A-2013-7320#da-2. que establece lo siguiente:
+Todas las referencias al Registro General de Transportistas y de Empresas de Actividades Auxiliares y Complementarias del Transporte deberán entenderse hechas al Registro de Empresas y Actividades de Transporte.
+Los términos «concesión de transporte regular de viajeros» y «título concesional» deberán considerarse sustituidos por el término «contrato de gestión de servicio público de transporte regular de viajeros de uso general».
+En el mismo sentido, el término «concesionario» se sustituirá por el de «contratista del servicio público».
+Los términos «autorización habilitante para el transporte discrecional», «autorización de transporte público discrecional» y «autorización de transporte discrecional», deberán considerarse sustituidos por el término «autorización de transporte público».
+Las calificaciones de los transportes regulares de viajeros como permanentes o temporales se tendrán por no hechas.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: que las Cortes Generales han aprobado y Yo vengo en sancionar la presente Ley.
+La hasta ahora vigente legislación reguladora del transporte por carretera data, en sus normas básicas, de 1947; la del transporte ferroviario, de 1877. Desde las fechas citadas hasta nuestros días se han producido en la realidad infraestructural sobre las que las referidas normas incidían, profundísimos cambios que afectan a los aspectos técnico, económico, social y político del transporte.
+La falta de adecuación de unas normas promulgadas hace casi medio siglo, en su caso, y más de uno en el otro, para regular un transporte que se lleva a cabo con unos medios técnicos muy diferentes a los que en ellas pudieron preverse, y para establecer las pautas con que hacer frente a unas necesidades de desplazamiento encuadradas en una realidad sociológica distinta, y en un contexto económico y político absolutamente diversos a los existentes cuando fueron redactadas, hacían que la revisión general de las mismas fuera una tarea auténticamente inaplazable.
+Hay que tener en cuenta, además, que el sector del transporte, lejos de caracterizarse por la existencia de unos principios permanentes que postulen la prolongada continuidad de las normas, tal y como ocurre en otros sectores del ordenamiento, se enmarca en lo que la iuspublicística alemana ha denominado expresivamente terreno de la «ley-medida», en el que las normas se han de caracterizar por su variabilidad, a fin de ser utilizadas como «medidas» ante las situaciones contingentes en que se desarrolla normalmente la realidad que tratan de regular.
+Ello ha hecho que, en la práctica, hayan proliferado en la regulación del transporte las normas de carácter reglamentario, que, con una cobertura de legalidad, muchas veces dudosa, han tratado, de forma asistemática y dispersa, de hacer frente a las nuevas necesidades surgidas, creándose una fronda legislativa, en la que el solo hecho de determinar cuáles eran las normas vigentes constituía por sí misma, muchas veces, un auténtico problema.
+Por ello, la Ley que ahora se promulga, partiendo del diseño de un sistema flexible en el que tienen cabida las diferentes situaciones fácticas, que, como mínimo a medio plazo, puedan presentarse, realiza una derogación expresa de todas las normas con rango de Ley formal, reguladoras del transporte por carretera y por ferrocarril, y prevé que en el momento de entrada en vigor de sus reglamentos generales queden, asimismo, derogadas el resto de las normas reguladoras de las citadas materias, excepto las que expresamente se declaren vigentes.
+Establece, pues, la Ley un punto cero en la regulación del transporte terrestre, lo que forzosamente ha obligado a que la misma tenga una cierta extensión, pese al notable esfuerzo sintetizador realizado, como puede apreciarse sin más que ver el conjunto de disposiciones derogadas por la presente Ley.
+La Ley realiza la ordenación del transporte terrestre en su conjunto, estableciendo normas de general aplicación, y así, los títulos preliminar y primero, se aplican, de forma global,a la totalidad de los modos de transporte terrestre, regulándose en los títulos sucesivos, de forma específica, el transporte por carretera y por ferrocarril. En relación con los transportes por cable y por trolebús, dada la más reciente promulgación de su legislación reguladora, y el carácter especial de la misma, se ha optado por una remisión a su normativa específica, sin perjuicio de su encuadramiento en el contexto de ordenación general del transporte terrestre, a través de la aplicación a los mismos de los referidos Títulos preliminar y primero de la Ley, además de la disposición adicional tercera, por lo que respecta al transporte por cable.
+Dentro del más estricto respeto de las competencias de las Comunidades Autónomas y de las Entidades Locales, y, asimismo, del sistema constitucional y legal de atribución normativa y jerarquización de fuentes, la Ley pretende confesadamente su aplicación por vía directa o supletoria, al mayor ámbito en que ello resulte jurídicamente posible, partiendo de la idea de que el mantenimiento de un sistema común de transporte resulta absolutamente imprescindible para la vigencia efectiva de una serie de principios constitucionales entre los que se cita expresamente en el articulado la existencia de una unidad de mercado en todo el territorio del Estado.
+Ello ha llevado a intentar establecer un sistema lo suficientemente flexible para que las características propias de las diversas Comunidades Autónomas puedan ser desarrolladas por éstas, dentro del marco general de la Ley, sin que para ello sea preciso que cada Comunidad Autónoma promulgue su propia regulación ordenadora del transporte, si así lo estima oportuno.
+Este diseño de un sistema común de transportes, presidido por un marco normativo homogéneo, aunque compatible con los distintos desarrollos que las diferentes situaciones territoriales impliquen, se complementa con una delegación prácticamente total de las competencias ejecutivas, y aun normativas, estatales, que deban realizarse a nivel regional y local, lo que conlleva, y ello se establece explícitamente en la Ley Orgánica de Delegación de Facultades del Estado en las Comunidades Autónomas en relación con los transportes por carretera y por cable, la desaparición de la Administración del Estado anteriormente competente.
+En definitiva, el sistema que se trata de conseguir es claro: Se intenta que el marco normativo general y la dirección global del sistema de transportes sea común en todo el Estado; ello se hace compatible con la existencia de normas diferenciadas, que, sin violentar dicho sistema general, den respuestas distintas a necesidades territoriales diferentes, según la voluntad de las distintas Comunidades Autónomas, y se atribuye la gestión única del referido sistema a las Entidades territoriales, evitándose la superposición de varias Administraciones diferentes en el ámbito regional.
+Hay que añadir, además, que la Ley se aplica tanto al transporte interurbano como al urbano, respetándose en éste la competencia municipal, y acabando, de esta forma, con un vacío normativo que era causa de importantes disfunciones.
+Por lo que se refiere a los principios económicos y sociales que la presiden, hay que decir que la Ley, respetando en todo caso el sistema de mercado y el derecho de libertad de empresa, constitucionalmente reconocidos, tiende, en todo caso, a que la empresa de transportes actúe en el mercado con el mayor grado de autonomía posible, permitiendo, a la vez, una graduación de intervencionismo administrativo, según cuáles sean las circunstancias existentes en cada momento.
+La Ley contribuye a flexibilizar el sistema de ordenación del transporte, y a potenciar a las empresas que intervienen en dicho sector, a través de un amplio abanico de medidas, entre las cuales figuran la mejora del funcionamiento del sistema de ejercicio de la profesión de transportista de viajeros, mediante el mecanismo de ligar las concesiones de servicios regulares y las autorizaciones habilitantes para el transporte discrecional, que posibilita que los transportistas regulares puedan –salvo excepciones– realizar también transporte discrecional, y que los transportistas discrecionales accedan al transporte regular, la no exigencia de que los vehículos sean propiedad del transportista, permitiendo otros sistemas de disponibilidad de los mismos, tales como el arrendamiento, que flexibilizarán su utilización y potenciarán su aprovechamiento; la previsión de la constitución de cooperativas y la realización de otras formas de colaboración entre transportistas, uniéndose entre sí para crear canales de comercialización y oferta de transportes, de una dimensión adecuada, paliando así la situación de atomización, que es uno de los principales problemas con los que se enfrenta el sector.
+También puede destacarse, respecto a los servicios de transporte regular de viajeros, la previsión de otras fórmulas de gestión diferentes de la figura tradicional de la concesión, como el concierto y la gestión interesada. En estos mismos servicios se acortan los plazos de duración de las concesiones, posibilitándose una variación de los mismos en función de las características de las diferentes líneas, se flexibiliza su régimen de explotación, pudiendo las empresas concesionarias, dentro de los límites establecidos por la Administración, realizar las modificaciones en las condiciones de prestación, frecuencia de expediciones, etc., que la realidad social demande, y se posibilita la utilización de diferentes vehículos para la prestación del servicio, no exigiéndose la propiedad de los mismos, y facilitándose la colaboración temporal de otros transportistas para hacer frente a intensificaciones eventuales de tráfico. Asimismo, se prevén juntamente con las concesiones tradicionales para servicios lineales, otras de carácter zonal, que comprenderían, como regla general, todos los transportes regulares permanentes de uso general y de uso especial, y por último, se establece un régimen especial para las líneas de débil tráfico, de carácter generalmente rural, promoviéndose la creación y continuidad de las mismas, y la flexibilización de su explotación.
+En cuanto al transporte discrecional, la nueva legislación introduce, asimismo, importantes medidas flexibilizadoras, especialmente en el transporte de mercancías, permitiendo como regla general que la misma autorización habilite, tanto para realizar transporte de carga completa, como de carga fraccionada, y con reiteración o no de itinerario. Por lo que se refiere al sistema autorizatorio de dicho transporte discrecional, hay que señalar que, junto con las autorizaciones tradicionales referidas a un vehículo concreto, la nueva Ley posibilita otras en las que los vehículos no estén determinados, previéndose incluso la posibilidad de autorizaciones sin condicionamiento del número de vehículos ni del volumen de carga; como regla general las referidas autorizaciones serán otorgadas sin plazo de duración prefijado. Por otra parte, la atención administrativa se concentra ahora –a diferencia del régimen anterior– en el vehículo tractor y no en el remolque o semirremolque, en cuanto al transporte realizado en conjuntos articulados. Por último, cabe destacar que se posibilita la utilización de la colaboración de otras empresas para atender intensificaciones coyunturales de la demanda con criterios análogos a los citados en el transporte regular.
+En relación con las actividades complementarias y auxiliares del transporte, la Ley establece agencias de carga completa y carga fraccionada, y permite que se lleve a cabo, con radio de acción nacional, mediación en el transporte de carga fraccionada (paquetería), en coherencia con la posibilidad antes aludida de que cualquier transportista realice tal tipo de carga con el itinerario o con la periodicidad que estime conveniente.
+No puede olvidarse, dentro de todas estas medidas que enumeramos, referentes a la flexibilización del sistema de Ordenación del Transporte, la desaparición del derecho de tanteo ferroviario, y, en general, de las medidas de protección a ultranza del ferrocarril, que son sustituidas por un sistema de competencia intermodal basado en la libertad de elección del usuario, sin perjuicio de la previsión de medidas públicas correctoras cuando el interés público así lo requiera.
+Por último, hay que señalar que la Ley realiza una nueva regulación del transporte ferroviario, que viene a sustituir a las ya centenarias leyes ferroviarias de fines del siglo pasado, y primeros del actual, así como los Decretos-leyes, que, en 1962 y 1964, definieron el régimen jurídico de RENFE.
+La parte más relevante de esta regulación quizá sea la que define la Red Nacional Integrada de Transporte Ferroviario, que constituye el soporte básico de las comunicaciones ferroviarias nacionales, y cuya responsabilidad se encomienda por la Ley, en concordancia con el marco constitucional, a la Administración del Estado, en régimen de gestión directa, a través de la Sociedad Estatal «Red Nacional de los Ferrocarriles Españoles» (RENFE).
+Asimismo, hay que destacar que se actualiza el régimen jurídico básico de RENFE, ajustándolo a las previsiones de la Ley General Presupuestaria, perfilando los mecanismos de control de dicha Red Nacional por la Administración del Estado, sin mengua de su conveniente autonomía de gestión, y recogiendo las modernas técnicas de planificación de objetivos a través de contratos-programa, así como los conceptos de obligaciones de servicio público y normalización de cuentas, en línea con el Derecho derivado de las Comunidades Europeas.
+La Ley realiza, por otra parte, del modo más sintético posible, la regulación –obligada, aun cuando su previsible aplicación sea seguramente reducida– de los ferrocarriles de transporte privado, estableciendo, en cuanto a los primeros, las normas básicas para la gestión directa o indirecta de los correspondientes servicios, en línea con los principios inspiradores del resto de la Ley, y sometiéndo los segundos al régimen de autorización administrativa.
+
+## TÍTULO PRELIMINAR
+
+## CAPÍTULO I
+
+Ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1.
+1. Se regirán por lo dispuesto en esta Ley:
+1.º Los transportes por carretera, considerándose como tales aquellos que se realicen en vehículos de motor o conjuntos de vehículos que circulen sin camino de rodadura fijo, y sin medios fijos de captación de energía, por toda clase de vías terrestres, urbanas o interurbanas, de carácter público y, asimismo, por las de carácter privado cuando el transporte sea público.
+2.º Los transportes por ferrocarril, considerándose como tales aquellos que se realicen mediante vehículos que circulen por un camino de rodadura fijo que les sirva de sustentación y de guiado.
+3.º Las actividades auxiliares y complementarias del transporte, considerándose como tales, a los efectos de esta ley, las desarrolladas por las agencias de transportes, los transitarios, los operadores logísticos, los almacenistas-distribuidores y las estaciones de transporte de viajeros y centros de transporte y logística de mercancías por carretera o multimodales. Asimismo, tendrá esta consideración el arrendamiento de vehículos de carretera sin conductor.
+2. Los transportes que se lleven a cabo en trolebús, así como los realizados en teleféricos u otros medios en los que la tracción se haga por cable, y en los que no exista camino de rodadura fijo, estarán sometidos a las disposiciones de los títulos preliminar y primero de la presente Ley, rigiéndose en lo demás por sus normas específicas.
+Serán de aplicación, no obstante, al transporte por cable las reglas establecidas en la disposición adicional tercera.
+Se modifica el apartado 1 por el art. 1.1 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 2
+
+Artículo 2.
+La presente ley será de aplicación a los transportes y actividades auxiliares y complementarias de los mismos cuya competencia corresponda a la Administración General del Estado.
+Su aplicación a los demás transportes se efectuará en los términos previstos en la disposición final segunda.
+Se modifica por el art. 1.2 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se declara la inconstitucionalidad y nulidad del inciso destacado y del párrafo segundo por Sentencia del TC 118/1996, de 27 de junio. Ref. BOE-T-1996-17381
+
+## CAPÍTULO II
+
+Principios generales
+
+### Artículo 3
+
+Artículo 3.
+La organización y funcionamiento del sistema de transportes se ajustará a los siguientes principios:
+a) Establecimiento y mantenimiento de un sistema común de transporte en todo el Estado, mediante la coordinación e interconexión de las redes, servicios o actividades que los integran, y de las actuaciones de los distintos órganos y Administraciones Públicas competentes.
+b) Satisfacción de las necesidades de la comunidad con el máximo grado de eficacia y con el mínimo coste social.
+c) Mantenimiento de la unidad de mercado en todo el territorio español, conforme al artículo 139.2 de la Constitución.
+
+### Artículo 4
+
+Artículo 4.
+1. Los poderes públicos promoverán la adecuada satisfacción de las necesidades de transporte de los ciudadanos, en el conjunto del territorio español, en condiciones idóneas de seguridad, con atención especial a las categorías sociales desfavorecidas y a las personas con capacidad reducida, así como a las zonas y núcleos de población alejados o de difícil acceso.
+2. La eficacia del sistema de transportes deberá, en todo caso, quedar asegurada mediante la adecuada utilización de los recursos disponibles, que posibiliten la obtención del máximo rendimiento de los mismos. Los poderes públicos velarán, al respecto, por la coordinación de actuaciones, unidad de criterios, celeridad y simplificación procedimentales y eficacia en la gestión administrativa.
+3. En el marco del principio de unidad de mercado, los poderes públicos buscarán la armonización de las condiciones de competencia entre los diferentes modos y empresas de transporte, tenderán a evitar situaciones de competencia desleal, y protegerán el derecho de libre elección del usuario, y la libertad de gestión empresarial, que únicamente podrán ser limitadas por razones inherentes a la necesidad de promover el máximo aprovechamiento de los recursos y la eficaz prestación de los servicios.
+
+## CAPÍTULO III
+
+Régimen de competencias y coordinación de las mismas
+
+### Artículo 5
+
+Artículo 5.
+1. El ejercicio de sus competencias por los distintos órganos administrativos no podrá realizarse de tal manera que impida u obstaculice la efectividad de las encomendadas a los restantes en cuanto éstas fueran conducentes al cumplimiento de los principios establecidos en el artículo 3.
+2. La Administración del Estado deberá promover la coordinación de sus competencias con las de las Comunidades Autónomas y las Entidades Locales, estableciendo, en su caso, con las mismas los convenios u otras fórmulas de cooperación que resulten precisas en orden a la efectividad de las mismas y a la adecuada consecución de los principios establecidos en el artículo 3.
+
+### Artículo 6
+
+Artículo 6.
+El Gobierno de la Nación, de conformidad con lo previsto en el artículo 97 de la Constitución, fija los objetivos de la política general de transportes, y en el ámbito de su competencia asegura la coordinación de los distintos tipos de transporte terrestre entre sí, y con los demás modos de transporte, y procura la adecuada dotación de las infraestructuras precisas para los mismos.
+
+### Artículo 7
+
+Artículo 7.
+De conformidad con los criterios señalados en los artículos anteriores, corresponde a los poderes públicos:
+a) Formular las directrices y objetivos de la política de transportes terrestres en sus distintos niveles.
+b) Planificar o programar el sistema de transportes terrestres en los términos establecidos en la presente Ley.
+c) Promulgar las normas necesarias para la adecuada ordenación de los transportes terrestres, en desarrollo o en concordancia con la presente Ley.
+d) Gestionar directamente por sí mismos o indirectamente, a través de contrato, los servicios asumidos como propios, de conformidad con lo previsto en esta Ley, por razones de interés público.
+e) Expedir las correspondientes autorizaciones o licencias administrativas que habiliten a los particulares para la prestación de servicios y la realización de actividades de transporte de titularidad privada, sujetos a control por razones de ordenación o policía administrativa.
+f) Ejercer las funciones de inspección y sanción en relación con los servicios y actividades de transportes terrestres.
+g) Adoptar en general las medidas necesarias para asegurar el correcto funcionamiento del sistema de transportes terrestres.
+
+### Artículo 8
+
+Artículo 8.
+Las competencias que, en materia de transportes, corresponden al Estado, serán ejercidas por el Ministerio de Transportes, Turismo y Comunicaciones, salvo que estén atribuidas al Gobierno u otro órgano de la Administración, conforme a los preceptos de esta Ley o del resto del ordenamiento jurídico vigente.
+
+## CAPÍTULO IV
+
+Organos de coordinación interadministrativa
+
+### Artículo 9
+
+Artículo 9.
+1. La Conferencia Sectorial de Transportes promoverá y facilitará el ejercicio coordinado de las potestades públicas de las Administraciones del Estado y de las Comunidades Autónomas en materia de transportes y movilidad, y asegurará el mantenimiento de un sistema común de transportes en toda la Nación. De acuerdo con lo dispuesto en el artículo 147 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, estará constituida por el miembro del Gobierno que, en representación de la Administración General del Estado, resulte competente en materia de transportes, y por los correspondientes miembros de los Consejos de Gobierno, en representación de las Comunidades Autónomas y de las ciudades de Ceuta y Melilla.
+2. La Conferencia Sectorial de Transportes se regirá por lo dispuesto en los artículos 147 y siguientes de la Ley 40/2015.
+Cualquier modificación de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, deberá respetar las competencias en materia de transportes atribuidas a las Comunidades Autónomas por sus Estatutos de Autonomía.
+Se modifica por la disposición final 4.1 de la Ley 9/2025, de 3 de diciembre. Ref. BOE-A-2025-24545#df-4
+ Se modifica el apartado 1 por el art. único.1 del Real Decreto-ley 3/2018, de 20 de abril. Ref. BOE-A-2018-5451
+
+### Artículo 10
+
+Artículo 10.
+Los entes públicos representados en la Conferencia Sectorial de Transportes podrán someter al conocimiento de la misma cuantos asuntos relevantes de su competencia puedan tener incidencia en el funcionamiento y coordinación del sistema de transporte, y especialmente los siguientes:
+a) Los proyectos de programación o planificación de los sectores del transporte terrestre, de las distintas Administraciones Públicas, previamente a su aprobación por el órgano correspondiente.
+b) Los anteproyectos de Leyes y proyectos de Reglamentos en materia de transportes, elaborados por las distintas Administraciones Públicas.
+c) Las previsiones generales sobre las actuaciones del Estado en relación con acuerdos o convenios internacionales en materia de transportes.
+d) Las incidencias entre Administraciones en materia de transportes cuando afecten al funcionamiento general del sistema, y las actuaciones de coordinación entre las mismas.
+e) Cuantos asuntos en la materia revistan relevancia y no alcancen la conformidad de la Comisión de Directores Generales a la que se refiere el artículo siguiente.
+Se sustituye la referencia a la "Conferencia Nacional de Transportes" por la disposición final 4.2 de la Ley 9/2025, de 3 de diciembre. Ref. BOE-A-2025-24545#df-4
+
+### Artículo 11
+
+Artículo 11.
+1. Al objeto de llevar a cabo la coordinación inmediata y ordinaria de las competencias estatales y autonómicas, existirá, la «Comisión de Directores Generales de Transporte Terrestre», integrada por los titulares de las direcciones generales competentes en materia de transporte terrestre de las Comunidades Autónomas y ciudades de Ceuta y Melilla. La Comisión estará presidida por el Director General de Transporte Terrestre de la Administración del Estado, y se reunirá al menos cuatro veces al año.
+Cuando la naturaleza de los asuntos a tratar así lo requiera, podrán incorporarse a la Comisión los titulares de otras direcciones generales de las citadas administraciones.
+2. La Comisión de Directores Generales de Transporte terrestre actuará como órgano ordinario de coordinación técnica y administrativa en materia de transportes terrestres, entre las distintas administraciones públicas, y deliberará sobre cuantos asuntos de la competencia de sus miembros puedan afectar al adecuado funcionamiento del sistema de transportes.
+Asimismo, la referida comisión actuará como órgano de apoyo y de discusión previa de la Conferencia Sectorial de Transportes, la cual podrá delegarle el conocimiento de los asuntos de su competencia.
+La Comisión de Directores Generales podrá crear las subcomisiones y grupos de trabajo que resulten necesarios.
+Se modifica por la disposición final 4.3 de la Ley 9/2025, de 3 de diciembre. Ref. BOE-A-2025-24545#df-4
+
+## TÍTULO I
+
+Disposiciones comunes a los diferentes modos de transporte terrestre
+
+## CAPÍTULO I
+
+Directrices generales
+
+### Artículo 12
+
+Artículo 12.
+1. Conforme a lo establecido en el artículo 38 de la Constitución, y de acuerdo con los principios generales recogidos en los artículos 3 y 4 de la presente Ley, el marco de actuación en el que habrán de desarrollarse los servicios y actividades de transporte es el de economía de mercado, con la obligación, a cargo de los poderes públicos, de promover la productividad y el máximo aprovechamiento de los recursos.
+2. La actuación pública en el sector se sujetará a lo establecido en esta Ley para cada modo o clase de transporte, correspondiendo a los poderes públicos la misión de procurar la eficaz prestación de los servicios de titularidad pública, así como las funciones de policía o fomento de los transportes de titularidad privada.
+
+### Artículo 13
+
+Artículo 13.
+Por los órganos competentes de la Administración, a fin de posibilitar el cumplimiento de los principios expresados en los artículos 3 y 4, podrán adoptarse, durante el tiempo preciso, y en las formas previstas en esta Ley, y en sus normas de desarrollo, medidas que promuevan la corrección de las posibles deficiencias estructurales del sistema de transportes, tendiendo a la eliminación de las insuficiencias y de los excesos de capacidad, y vigilando la implantación y mantenimiento de servicios o actividades del transporte, acordes con las necesidades de la demanda.
+
+### Artículo 14
+
+Artículo 14.
+El Gobierno podrá suspender, prohibir o restringir total o parcialmente, por el tiempo que resulte estrictamente necesario, la realización de alguna o algunas clases de servicios o actividades de transporte objeto de la presente Ley, ya fueren de titularidad pública o privada, por motivos de defensa nacional, orden público, sanitarios u otras causas graves de utilidad pública o interés social, que igualmente lo justifiquen. Dichas medidas podrán, en su caso, justificar la procedencia de las indemnizaciones que pudieran resultar aplicables conforme a la legislación vigente.
+Se declara contrario al orden constitucional de competencias y nulo el inciso destacado por Sentencia del TC 118/1996, de 27 de junio. Ref. BOE-T-1996-17381
+Se declara contrario al orden constitucional de competencias y nulo el inciso destacado por Sentencia del TC 118/1996, de 27 de junio. Ref. BOE-T-1996-17381
+
+## CAPÍTULO II
+
+Programación y planificación
+
+### Artículo 15
+
+Artículo 15.
+1. La Administración podrá programar o planificar la evolución y desarrollo de los distintos tipos de transportes terrestres, a fin de facilitar el desarrollo equilibrado y armónico del sistema de transportes.
+2. Los programas o planes contendrán especialmente previsiones sobre las siguientes cuestiones:
+a) Los servicios o actividades de gestión pública directa.
+b) El diseño general o parcial de la red de transportes regulares o de sus ejes básicos en el transporte de viajeros por carretera y de la Red Nacional Integrada en el transporte ferroviario.
+c) Las restricciones o condicionamientos para el acceso al mercado, si procedieran.
+d) Las prohibiciones o restricciones de transporte en zona o zonas determinadas, si procedieran.
+e) Las medidas de fomento y apoyo al transporte o a determinadas clases del mismo, si procedieran.
+
+### Artículo 16
+
+Artículo 16.
+1. El procedimiento de elaboración y aprobación de los programas o planes previstos en el artículo anterior, se determinará reglamentariamente. En todo caso existirán los trámites de información pública, e informe del Consejo Nacional de Transportes, regulado en el artículo 36.
+2. Los órganos administrativos competentes elaborarán, en desarrollo de los planes de transportes aprobados, y tras la aplicación de métodos de selección de inversiones, esquemas directores que contengan las redes de transporte definidas y previstas, así como las prioridades referentes a su modernización, adaptación y ampliación, referidas a su período de vigencia.
+
+## CAPÍTULO III
+
+Régimen económico-financiero de los servicios y actividades de transporte terrestre
+
+### Artículo 17
+
+Artículo 17.
+1. Las empresas transportistas o de actividades auxiliares o complementarias del transporte llevarán a cabo su actividad con plena autonomía económica, gestionándola a su riesgo y ventura.
+2. No obstante, en la explotación de aquellos transportes a los que esta ley atribuye el carácter de servicios públicos de titularidad de la Administración se aplicarán las disposiciones de la Unión Europea en materia de servicios públicos de transporte de viajeros por ferrocarril y carretera y, en su caso, lo dispuesto en la legislación sobre contratos del sector público sobre régimen económico del contrato de gestión de servicios públicos.
+Se modifica por el art. 1.3 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 18
+
+Artículo 18.
+El precio de los transportes discrecionales de viajeros y mercancías y el de las actividades auxiliares y complementarias de transporte, será libremente fijado por las partes contratantes.
+No obstante, cuando una Comunidad Autónoma haya establecido tarifas de obligado cumplimiento para los transportes interurbanos de viajeros en vehículos de turismo que se desarrollen íntegramente en su territorio, éstas serán también de aplicación a cuantos servicios de esta clase se inicien en el mismo, sea cual fuere el lugar en que finalicen.
+Tampoco estarán sometidos a tarifas aprobadas por la Administración los transportes regulares de viajeros temporales o de uso especial.
+Se modifica por el art. 21.1 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 19
+
+Artículo 19.
+1. El régimen tarifario de los servicios públicos de transporte de viajeros de titularidad de la Administración vendrá determinado en los correspondientes contratos de gestión de servicio público.
+2. La estructura de la tarifa de los transportes señalados en el punto anterior se ajustará a las características del servicio de que en cada caso se trate, teniendo en cuenta lo que al efecto se determina en esta ley y en las disposiciones de la Unión Europea en materia de servicios públicos de transporte de viajeros por ferrocarril y carretera, y, en su caso, en las normas reglamentarias dictadas para su ejecución y desarrollo.
+Las tarifas así establecidas, junto con las demás compensaciones, económicas o de otra índole, a que, en su caso, tenga derecho el contratista, deberán cubrir la totalidad de los costes de explotación del transporte en las condiciones señaladas en el correspondiente contrato de gestión de servicio público y permitirán una adecuada amortización de aquellos activos necesarios para su prestación y que hayan de ser aportados por el contratista, así como, un razonable beneficio empresarial, en circunstancias normales de productividad y organización. A tal efecto, la Administración deberá desestimar la contratación de tales servicios con quienes oferten prestarlos aplicando precios que no cumplan la referida condición. La desestimación de una oferta no se hará sin permitir su justificación por parte del licitador que la presentó.
+3. La Administración podrá revisar individualizadamente el régimen tarifario de un determinado contrato de gestión de servicio público, bien de oficio o a instancia del contratista, cuando las partidas que integran su estructura de costes hayan sufrido una variación que altere significativamente, al alza o a la baja, el equilibrio económico del contrato.
+En la referida revisión se descontarán, en todo caso, aquellos costes cuya cuantía dependa, en todo o en parte, de la gestión del contratista.
+4. (Suprimido)
+5. No obstante, lo dispuesto en el número 3 de este artículo, dentro del segundo trimestre de cada año, la Administración procederá a una revisión de carácter general de las tarifas de los servicios públicos regulares interurbanos permanentes de uso general de transporte de viajeros por carretera en régimen de concesión, la cual se ajustará a las siguientes reglas:
+a) Dicha revisión tendrá como fundamento la modificación de los precios calculada como la variación anual de la media de los datos publicados por el Instituto Nacional de Estadística en el año natural anterior de los índices de precios al consumo (grupo general para el conjunto nacional) sobre la misma media del año precedente (en adelante ΔIPCmedio) y la modificación del número de viajeros-kilómetro realizados en cada concesión en el año natural anterior (en adelante Vkmr) en relación con la misma magnitud correspondiente al año precedente (en adelante Vkmr-1).
+A estos efectos, la revisión se realizará calculando el coeficiente C, mediante la expresión:
+C = 1 + ΔIPCmedio-X,
+Donde ΔIPCmedio figurará expresado en tanto por uno con el signo que corresponda y el valor X viene dado por:
+X = 1/100 [(Vkmr - Vkmr-1)/Vkmr-1]
+Donde Vkm se referirá al año natural anterior a la revisión y Vkmr-1. al año inmediatamente anterior a aquél, estando en todo caso limitado su valor por la siguiente fórmula expresada en porcentaje:
+0 ≤ X ≤ 1
+El coeficiente C se aplicará a las tarifas vigentes en cada una de las concesiones (Tt-1) de forma que la tarifa revisada (Tt) para cada momento sea:
+Tt= Tt-1·C
+b) Las revisiones tarifarias realizadas en ejecución de lo dispuesto en este número no estarán sujetas al régimen establecido en el artículo 16 del Real Decreto Ley 7/1996, de 7 de junio, de Medidas Urgentes de Carácter Fiscal y de Fomento y Liberalización de la Actividad Económica.
+Los Ministros de Fomento y Economía podrán establecer mediante Orden conjunta las especificaciones que, en su caso, consideren necesarias para la ejecución de lo dispuesto en este número.
+6. La tarifa de un servicio público de transporte de viajeros de titularidad de la Administración no podrá ser revisada hasta que el contratista que lo gestione haya cumplido cuantas obligaciones le incumban hasta ese momento en orden a aportar a la Administración aquellos datos estadísticos, documentos contables o informes que resulten preceptivos conforme a lo que reglamentariamente se determine.
+Cuando la Administración detecte una omisión, error o falsedad en los datos o documentos aportados por el contratista, deberá rectificar, de oficio, cuantas revisiones de la tarifa se hubiesen realizado partiendo de aquéllos, ajustándolas a los datos reales.
+Lo dispuesto en este punto deberá entenderse sin perjuicio de la imposición de las sanciones a que, en su caso, haya lugar.
+7. A efectos de contabilidad, las empresas contratistas de servicios públicos de transporte de viajeros de titularidad de la Administración, deberán tratar cada uno de ellos como una actividad separada, gestionándola como una división contable independiente y distinta de cualquier otra que realicen, esté o no relacionada con el transporte de viajeros.
+El resultado de la segregación realizada se plasmará, anualmente, en una cuenta analítica de explotación verificada por un experto independiente.
+Los Ministros de Fomento y de Economía y Competitividad podrán establecer, mediante orden conjunta, las especificaciones que, en su caso, consideren pertinentes para el exacto cumplimiento de lo dispuesto en este punto.
+Se modifican los apartados 1 a 3, 6 a 7 y se supime el 4 por el art. 1.4 a 6 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se añaden los apartados 5, 6 y 7 por el art. 80 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+ Téngase en cuenta para su aplicación la disposición transitoria 13 de la Ley 24/2001.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 124, de 24 de mayo de 2002. Ref. BOE-A-2002-9972
+ Redactado conforme a la corrección de errores publicada en BOE núm. 157, de 2 de julio de 2002. Ref. BOE-A-2002-13011
+
+### Artículo 20
+
+Artículo 20.
+De conformidad con lo que se dispone en la reglamentación de la Unión Europea sobre los servicios públicos de transporte de viajeros por ferrocarril y carretera, se consideran obligaciones de servicio público las exigencias determinadas por la Administración a fin de garantizar los servicios públicos de transporte de viajeros de interés general que un operador, si considerase exclusivamente su propio interés comercial no asumiría o no asumiría en la misma medida o en las misma condiciones sin retribución.
+La declaración e imposición de obligaciones de servicio público en relación con los transportes terrestres se regirá por lo dispuesto en esta ley y en la reglamentación comunitaria anteriormente citada, así como en las normas reglamentarias dictadas para la ejecución y desarrollo de tales disposiciones.
+Se modifica por el art. 1.7 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 21
+
+Artículo 21.
+1. En todo transporte público de viajeros, los daños que sufran éstos estarán cubiertos por el seguro obligatorio de viajeros, en los términos que establezca la legislación específica sobre la materia.
+2. En los transportes en autobús y autocar, el transportista responderá de las obligaciones establecidas frente a los viajeros, en los términos previstos en el Reglamento (UE) n.º 181/2011 del Parlamento Europeo y del Consejo, de 16 de febrero de 2011, sobre los derechos de los viajeros de autobús y autocar y por el que se modifica el Reglamento (CE) n.º 2006/2004, en la medida en que éstas no estén cubiertas íntegramente por el seguro obligatorio de viajeros, por el seguro de responsabilidad civil de suscripción obligatoria previsto en el texto refundido de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre, o por cualquier otro seguro.
+3. El importe de los seguros previstos en este artículo, tendrá la consideración de gasto de explotación, y será por tanto, repercutible en las correspondientes tarifas.
+Se modifica por el art. 1.8 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica al apartado 1 por la disposición adicional 24 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+
+### Artículo 22
+
+Artículo 22.
+1. Únicamente podrá contratar la realización de servicios de transporte terrestre de mercancías en concepto de porteador, y emitir facturas en nombre propio por su prestación, quien previamente sea titular de una licencia o autorización que habilite para realizar transportes de esta clase o, en otro caso, de una autorización de operador de transporte de mercancías.
+2. Como regla general, los servicios de transporte terrestre de viajeros podrán ser contratados y facturados por todos aquellos que sean titulares de una licencia o autorización de transporte público que habilite para la realización de esta clase de transporte.
+No obstante, la prestación de aquellas modalidades de transporte de viajeros que tengan atribuido el carácter de servicio público de titularidad de la Administración sólo podrá ser contratada en concepto de porteador por el contratista a quien el órgano competente hubiese adjudicado su gestión o, en su caso, por el ente, organismo o entidad que la Administración competente haya creado para la gestión o coordinación de esa clase de servicios.
+La intervención de agencias de viajes y otros intermediarios en la contratación de cualesquiera modalidades de transporte de viajeros se regirá por la legislación específica de turismo. Sin perjuicio de ello, las cooperativas de transportistas y sociedades de comercialización podrán intermediar, en todo caso, en la contratación de transportes discrecionales de viajeros que vayan a ser prestados por aquellos de sus socios que sean titulares de autorización de transporte de viajeros.
+3. Sin perjuicio de lo dispuesto en los puntos anteriores, cuando se trate de alguna modalidad de transporte cuya realización se encuentre legal o reglamentariamente eximida de la obtención de una licencia o autorización de transporte público, los servicios también podrán ser contratados y facturados por el titular de la organización empresarial mediante la que materialmente se lleven a cabo.
+Se modifica por el art. 1.10 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica por el art. 1 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+### Artículo 23
+
+Artículo 23.
+En el transporte de viajeros por carretera, la responsabilidad de los transportistas por los daños o pérdidas que sufran los equipajes como consecuencia de accidentes, salvo que expresamente se pacten unas cuantías o condiciones más favorables para el viajero, estará limitada a 1.200 euros por pieza de equipaje, en el caso de transportes incluidos en el ámbito de aplicación del Reglamento (UE) n.º 181/2011 del Parlamento Europeo y del Consejo, de 16 de febrero de 2011, sobre los derechos de los viajeros de autobús y autocar y por el que se modifica el Reglamento (CE) n.º 2006/2004.
+En cualquier otro supuesto, la responsabilidad por los daños o pérdidas que sufran los equipajes estará limitada, salvo que expresamente se pacten unas cuantías o condiciones más favorables para el viajero, a 450 euros por pieza.
+A los efectos anteriormente señalados, se entenderá por equipaje, cualquier objeto o conjunto de objetos que, a petición del viajero, acompañen a éste durante el viaje a bordo de la bodega, la baca o remolque del mismo vehículo. Se entenderá por encargo, cualquier objeto que la empresa transportista se obliga a transportar por cuenta ajena a bordo del vehículo que realice el servicio de que se trate, cuando dicho objeto no guarde relación directa con ninguno de los viajeros que ocupan plaza en el mismo vehículo.
+La vigilancia de los bultos de mano corresponderá al viajero al que acompañan y, en consecuencia, serán de su cuenta los daños que éstos puedan sufrir mientras se encuentren a bordo del vehículo, salvo que pruebe la responsabilidad de la empresa transportista, en cuyo caso serán de aplicación las limitaciones anteriormente previstas en relación con los equipajes. En todo caso, se considerará responsable a la empresa transportista de la posible pérdida o deterioro de los bultos de mano ocurrida en algún momento en que, con ocasión de una parada, todos los ocupantes hubieran abandonado el vehículo sin que, inmediatamente después, el conductor hubiera cerrado las puertas de acceso al mismo. A tal efecto, se entenderá por bulto de mano, todo pequeño objeto destinado al abrigo, adorno o uso personal que un viajero lleve consigo durante el viaje a bordo del habitáculo del vehículo.
+En el transporte de viajeros por carretera, el transportista será responsable de cuantos perjuicios a los viajeros puedan derivarse de su incumplimiento de las obligaciones y formalidades prescritas por las leyes y reglamentos de las Administraciones Públicas, así como de las actuaciones que, como consecuencia de dicho incumplimiento pueda adoptar la Administración, en todo el curso del viaje y a su llegada al punto de destino, salvo que pruebe que dicho incumplimiento ha sido consecuencia de una actuación llevada a cabo sin su consentimiento por alguno de los usuarios o viajeros.
+La responsabilidad del transportista, en el caso del transporte de viajeros por ferrocarril, se determinará de conformidad con lo dispuesto en el Reglamento (CE) n.º 1371/2007 del Parlamento Europeo y del Consejo, de 23 de octubre de 2007, sobre los derechos y las obligaciones de los viajeros de ferrocarril.
+Se modifica por el art. 1.10 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica por el art. 1 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+### Artículo 24
+
+Artículo 24.
+(Suprimido)
+Se suprime por el art. 1.11 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## CAPÍTULO IV
+
+Coordinación entre los distintos modos de transporte terrestre y transporte combinado
+
+### Artículo 25
+
+Artículo 25.
+Con objeto de dar cumplimiento a los principios expresados en el artículo 3 de esta Ley, la Administración procurará la armonización de las condiciones de competencia de los distintos tipos de transporte terrestre entre sí y entre éstos y los demás modos de transporte, realizando, en su caso, las actuaciones precisas tendentes a su coordinación y complementación recíproca.
+
+### Artículo 26
+
+Artículo 26.
+El Gobierno, a propuesta del Ministerio de Transportes, Turismo y Comunicaciones, previo informe del Consejo Nacional de Transportes, podrá excepcionalmente, por razones extraordinarias de interés público que lo justifiquen, adoptar durante el tiempo que resulte preciso, medidas tendentes a que se realice un desplazamiento o trasvase entre modos de transporte en el tráfico de determinadas mercancías.
+
+### Artículo 27
+
+Artículo 27.
+1. Reglamentariamente y siempre que ello resulte justificado por razones objetivas de interés público, inherentes a la necesidad de posibilitar o favorecer una más adecuada prestación y desarrollo del transporte, podrá establecerse un régimen especial para las empresas que lleven a cabo transporte en un determinado modo, que permita a las mismas complementar dicho transporte con el realizado en un modo diferente, siempre que éste sea antecedente o continuación de carácter complementario del realizado en el otro.
+2. A través del referido régimen especial podrá autorizarse a las citadas empresas a realizar funciones normalmente reservadas a las agencias de transporte, contratando, en nombre propio, con transportistas debidamente autorizados, la realización en un determinado modo de transporte complementario al que directamente lleven a cabo ellas mismas en modos diferentes.
+
+### Artículo 28
+
+Artículo 28.
+1. A los efectos de esta ley, se considera multimodal aquella operación de transporte mediante la que se trasladan mercancías o viajeros utilizando de forma simultánea o sucesiva más de un modo de transporte, siendo uno de ellos el terrestre, con independencia del número de transportistas que intervengan en su ejecución, siempre que dicha operación se encuentre planificada de forma completa y coordinada por quien organizó el transporte, ya se trate del cargador, de un transportista o de un operador de transporte.
+2. Reglamentariamente podrán establecerse normas especiales destinadas a facilitar la realización de transporte multimodal o a promover la comodalidad de los transportes.
+Se modifica por el art. 1.12 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## CAPÍTULO V
+
+Coordinación del sistema de transportes con las necesidades de la defensa y protección civil
+
+### Artículo 29
+
+Artículo 29.
+1. De conformidad con lo establecido en la legislación reguladora de la defensa nacional, el Ministerio de Transportes, Turismo y Comunicaciones es el órgano de la Administración Civil del Estado con competencia en todo el territorio del Estado para ejecutar la política de defensa nacional, en el sector de los transportes, bajo la coordinación del Ministerio de Defensa y de acuerdo con lo previsto en esta Ley.
+2. Por ello, y conforme a lo dispuesto en el artículo 149.1.4 de la Constitución, corresponde al Ministerio de Transportes, Turismo y Comunicaciones controlar y coordinar las actividades de las Comunidades Autónomas en materia de transportes, cuando la defensa nacional así lo requiera.
+
+### Artículo 30
+
+Artículo 30.
+1. En el marco de las funciones relacionadas con la defensa civil, corresponde al Ministerio de Transportes, Turismo y Comunicaciones estudiar, planificar, programar, proponer, ejecutar e inspeccionar cuantos aspectos se relacionen con la aportación del Ministerio a la defensa nacional, en el ámbito de los transportes.
+2. De igual modo, desarrollar las mismas funciones en cuanto se refiere a la movilización de las personas, los bienes y los servicios, de acuerdo con los Planes Sectoriales de Movilización y los Planes de Movilización Ministeriales.
+3. A estos efectos, por dicho Ministerio se diseñarán y se dispondrán permanentemente actualizados cuantos mecanismos de transformación de la organización civil de los transportes sean precisos.
+
+### Artículo 31
+
+Artículo 31.
+En el ámbito de la protección civil, en su relación con la actividad de los transportes, corresponde al Ministerio de Transportes, Turismo y Comunicaciones, de acuerdo con las reglas y normas coordinadoras establecidas por el Ministerio del Interior:
+– Informar y colaborar en la redacción de las disposiciones generales y las normas técnicas sobre seguridad y protección que al efecto se dicten relacionadas con la aportación de los transportes a las actividades de protección civil.
+– Participar en la formulación de los criterios necesarios para establecer el catálogo de los recursos movilizables que precise la protección civil en el ámbito de los transportes, así como en la elaboración del mismo.
+– Participar en la coordinación de las acciones de los órganos competentes en materia de protección civil, relacionadas con la prevención de riesgos, el control de emergencias y la rehabilitación de los servicios públicos afectados por éstas, que incidan en los transportes o en las que sea necesaria la intervención de los mismos.
+– Proponer la normalización de técnicas y medios sobre transportes que sean de interés para el cumplimiento de los fines de la protección civil.
+– Colaborar en la elaboración y homologación de los Planes Territoriales y Especiales de intervención en emergencias que pueden afectar a los transportes, así como la ejecución de las previsiones relativas al empleo de éstos.
+
+## CAPÍTULO VI
+
+La inspección del transporte terrestre
+
+### Artículo 32
+
+Artículo 32.
+1. La actuación inspectora tendente a garantizar el cumplimiento de las normas reguladoras del transporte terrestre y de las actividades complementarias y auxiliares del mismo estará encomendada a los servicios de inspección del transporte terrestre.
+2. Los miembros de la inspección del transporte terrestre, en casos de necesidad para un eficaz cumplimiento de su función, podrán solicitar el apoyo necesario de las unidades o destacamentos de las Fuerzas y Cuerpos de Seguridad del Estado y Policías Autónomas o Locales.
+3. Sin perjuicio de la cooperación regulada en el punto anterior, en los territorios en que esté atribuida la vigilancia del transporte a la Guardia Civil, dentro de cada Subsector de la Agrupación de Tráfico, existirá un número suficiente de agentes que tendrá como dedicación preferente dicha vigilancia y actuará bajo las directrices y orientaciones de los órganos superiores de los servicios de inspección del transporte. La coordinación de estas actuaciones se articulará a través de los Gobernadores civiles.
+
+### Artículo 33
+
+Artículo 33.
+1. El personal de los Servicios de Inspección del Transporte Terrestre tendrá, en el ejercicio de sus funciones, la consideración de autoridad.
+2. Los hechos constatados por el personal referido en el apartado anterior tendrán valor probatorio cuando se formalice en documento público, observando los requisitos legales pertinentes, sin perjuicio de las pruebas que en defensa de sus respectivos derechos o intereses puedan señalar o aportar los propios administrados.
+3. Los titulares de los servicios y actividades a los que se refiere la presente ley, los titulares de empresas en cuyas instalaciones se realicen actividades de transporte terrestre o relacionadas con el mismo, así como quienes ocupen la posición de cargador o remitente, mero expedidor o destinatario o consignatario en un transporte de mercancías, los usuarios de un transporte de viajeros y, en general, las personas afectadas por sus preceptos vendrán obligadas a facilitar al personal de la Inspección del Transporte Terrestre, en el ejercicio de sus funciones, la inspección de sus vehículos e instalaciones y el examen de los documentos, libros de contabilidad, facturas, títulos de transporte y datos estadísticos que estén obligados a llevar, así como cualquier otra información relativa a las condiciones de prestación de los servicios realizados que resulte necesaria para verificar el cumplimiento de las obligaciones contenidas en la legislación de transportes. Dicha obligación alcanzará, en todo caso, a todos aquellos libros, documentos de gestión, control o estadísticas cuya cumplimentación o llevanza obligatoria venga establecida por la normativa económica, fiscal, social y laboral o medioambiental que resulte de aplicación a los sujetos anteriormente señalados. Por cuanto se refiere a los usuarios del transporte de viajeros, estarán obligados a identificarse a requerimiento del personal de la inspección cuando éste se encuentre realizando sus funciones en relación con el servicio utilizado por aquéllos.
+A tal efecto, los servicios de inspección podrán recabar la documentación precisa para el mejor cumplimiento de su función en la propia empresa o bien requerir la presentación de dicha documentación en las oficinas públicas correspondientes, así como, en su caso, la comparecencia del empresario o su representante, en los términos establecidos en la legislación de procedimiento administrativo, ante las oficinas públicas cuando sea requerido para ello. A tales efectos, en las inspecciones llevadas a cabo en carretera, el conductor tendrá la consideración de representante de la empresa en relación con la documentación que existe obligación de llevar a bordo del vehículo y la información que le sea requerida respecto del servicio realizado.
+Cuando la documentación que se solicite sea la acreditativa del cumplimiento de las obligaciones relativas a los tiempos de conducción y descanso de los conductores, la empresa no podrá excusarse de aportarla por la ausencia del empresario o la persona responsable de su llevanza o custodia.
+La exigencia a que se refiere este punto únicamente podrá ser realizada en la medida en que resulte necesaria para verificar el cumplimiento de las obligaciones contenidas en la legislación de transporte terrestre.
+4. Los miembros de la Inspección del Transporte Terrestre y los agentes de las unidades o destacamentos de las fuerzas que legalmente tienen atribuida la vigilancia del mismo, cuando existan indicios fundados de exceso de peso, manipulación o funcionamiento inadecuado imputable al transportista del aparato de control de los tiempos de conducción y descanso o del limitador de velocidad u otros instrumentos de control que exista obligación de llevar instalados en los vehículos, podrán ordenar su traslado hasta la báscula de pesaje, taller autorizado o zona de control que resulte más adecuada para su examen, siempre que no suponga un recorrido de ida superior a 30 kilómetros. No obstante, cuando los mencionados lugares se encuentren situados en el mismo sentido de la marcha que siga el vehículo, no existirá limitación en relación con la distancia a recorrer.
+El conductor del vehículo así requerido vendrá obligado a conducirlo, acompañado por los miembros de la Inspección del Transporte Terrestre o los agentes de las unidades o destacamentos de las fuerzas intervinientes, hasta los lugares citados, así como a facilitar las operaciones de pesaje y verificación, corriendo los gastos de éstas, en caso de producirse, por cuenta del denunciado, si se acredita la infracción, y, en caso contrario, de la Administración actuante.
+5. Si, en su actuación, el personal de los Servicios de Inspección del Transporte Terrestre descubriese hechos que pudiesen ser constitutivos de infracción de la normativa reguladora de otros sectores, especialmente en lo referente al ámbito laboral, fiscal y de seguridad vial, lo pondrá en conocimiento de los órganos competentes en función de la materia de que se trate.
+Similares actuaciones a las previstas en el apartado anterior deberán realizar los órganos de cualquier sector de la actividad administrativa que tengan conocimiento de infracciones de las normas de ordenación de los transportes terrestres.
+Con objeto de conseguir la coordinación requerida para dar cumplimiento a lo dispuesto en el presente apartado, los órganos que ostenten competencias sobre cada una de las distintas materias afectadas deberán prestarse la asistencia activa y cooperación que resulte necesaria al efecto.
+6. El Ministerio de Transportes, Movilidad y Agenda Urbana podrá encargar a organismos públicos y a sociedades mercantiles estatales que tengan la condición de medio propio instrumental y servicio técnico de la Administración General del Estado y de sus organismos y entidades de derecho público, la ejecución de actuaciones propias de la Inspección en cuanto a la comprobación del cumplimiento de las condiciones y requisitos técnicos o especializados que afecten a la ordenación del transporte terrestre.
+Se añade el apartado 6 por el art. 1.1 del Real Decreto-ley 3/2022, de 1 de marzo. Ref. BOE-A-2022-3290#a1
+ Se modifica por el art. 1 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+### Artículo 34
+
+Artículo 34.
+Los servicios de inspección realizarán sus funciones en relación con la totalidad de las empresas que realicen servicios o actividades de transporte o se vean afectadas por las normas de ordenación y control del transporte. Sobre las empresas públicas, su actividad inspectora se ejercerá con independencia orgánica y funcional del control interno que sobre su propia organización y actuación efectúen en su caso dichas empresas públicas.
+
+### Artículo 35
+
+Artículo 35.
+1. La función inspectora podrá ser ejercida de oficio o como consecuencia de petición fundada de los usuarios o de sus asociaciones, así como de las empresas o asociaciones del sector del transporte.
+Las asociaciones del sector del transporte podrán colaborar con los servicios de inspección en la forma que reglamentariamente se establezca.
+2. Se perseguirá el aumento de la eficacia de la función inspectora a través de la elaboración periódica de planes de inspección que darán a las actuaciones inspectoras un carácter sistemático y determinarán las líneas generales directrices de las operaciones de control de los servicios o actividades que puedan requerir actuaciones especiales.
+La elaboración de la planificación se llevará a efecto de forma coordinada con los órganos competentes para la vigilancia del transporte terrestre en vías urbanas o interurbanas, a fin de lograr una adecuada coordinación en la realización de las distintas competencias de vigilancia e inspección. Asimismo, en dicha elaboración podrá recabarse la colaboración del Comité Nacional del Transporte por Carretera.
+El departamento ministerial competente en materia de transportes podrá determinar en todo momento los criterios de actuación prioritaria de los servicios de inspección en relación con los transportes de su competencia. Dicha actuación prioritaria se producirá en relación con las infracciones que en cada momento tengan una mayor incidencia e impliquen una mayor perturbación en la ordenación y seguridad del transporte, incidiendo fundamentalmente, en todo caso, sobre aquellas que resulten lesivas para la libre y ordenada competencia entre las empresas que operan en el mercado.
+3. Los Servicios de Inspección de Transporte Terrestre pondrán especial atención en la vigilancia de aquellas empresas que presenten una mayor frecuencia infractora, de conformidad con lo que se señale en los planes a que se refiere el punto anterior y a los criterios que, en su caso, se determinen por la Unión Europea.
+En todo caso, los mencionados Servicios vigilarán especialmente el efectivo cumplimiento de las condiciones que determinaron que una empresa se beneficiase de la exención de responsabilidad contemplada en el artículo 138.4.
+Se añade el apartado 3 por el art. 1.13 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica el apartado 2 por el art. 1 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+## CAPÍTULO VII
+
+El Consejo Nacional de Transportes Terrestres
+
+### Artículo 36
+
+Artículo 36.
+1. El Consejo Nacional de Transportes Terrestres es el órgano superior de asesoramiento, consulta y debate sectorial de la Administración en asuntos que afecten al funcionamiento del sistema de transportes.
+2. El Consejo estará integrado por expertos designados por la Administración General del Estado a propuesta de las empresas de transporte por carretera, a través del Comité Nacional del Transporte por Carretera; de las empresas de transporte por ferrocarril, a través de sus asociaciones; de los trabajadores de las empresas transportistas, a través de las centrales sindicales más representativas en dicho sector; de los usuarios del transporte, a través del Consejo de Consumidores y Usuarios, de las organizaciones representativas de las personas con discapacidad y de las asociaciones de empresas usuarias del transporte de mercancía, así como, en su caso, de las empresas de otros modos de transporte y de otros sectores de actividad relacionados con el transporte.
+Asimismo, la Administración podrá designar directamente a otros consejeros atendiendo exclusivamente a su competencia profesional, así como a representantes de la propia Administración especializados en materia de transporte terrestre.
+3. Reglamentariamente se determinará la composición concreta del Consejo, el órgano competente para el nombramiento de sus miembros, así como los criterios y el procedimiento a través de los que los distintos sectores afectados propondrán sus candidatos.
+4. Los miembros del Consejo no participan en éste en representación del sector que, en su caso, hubiese propuesto su nombramiento, sino como expertos a título individual. En consecuencia, no podrán ser representados en las deliberaciones del Consejo sino por otros consejeros.
+Sin perjuicio de ello, el Consejo podrá crear grupos de trabajo, de carácter permanente o coyuntural, que lo asistan en la elaboración de los estudios previos a la emisión de sus dictámenes. De estos grupos de trabajo podrán formar parte tanto consejeros como personas que no lo sean, si bien sus conclusiones sólo se tendrán en cuenta por la Administración cuando sean refrendadas por el pleno del Consejo.
+5. El Consejo Nacional de Transportes Terrestres deberá informar en el procedimiento de elaboración de los Planes de Transporte y en todos aquellos otros asuntos en que así se establezca reglamentariamente. El Consejo podrá, además, proponer a la Administración las medidas que estime oportunas para mejorar la coordinación y eficacia del sistema de transportes.
+Se modifica por el art. 1.14 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## CAPÍTULO VIII
+
+Juntas Arbitrales del Transporte
+
+### Artículo 37
+
+Artículo 37.
+1. Como instrumento de protección y defensa de las partes intervinientes en el transporte se crean las Juntas Arbitrales del Transportes. Su competencia, organización, funciones y procedimiento se adecuarán a lo que en la presente Ley se dispone y a lo que se establezca en las normas de desarrollo de la misma.
+Deberán en todo caso formar parte de las Juntas, miembros de la Administración, a los que corresponderá la presidencia, representantes de las empresas de transporte y representantes de los cargadores y usuarios.
+2. El Ministerio de Transportes, Turismo y Comunicaciones, a través de la Dirección General de Transportes Terrestres, dirimirá los conflictos de atribuciones que puedan surgir entre las Juntas Arbitrales del Transporte.
+Asimismo, dicho Ministerio asegurará la debida coordinación entre las Juntas Arbitrales del Transporte, facilitando el intercambio de información y ejerciendo cuantas otras funciones le sean atribuidas.
+
+### Artículo 38
+
+Artículo 38.
+1. Corresponde a las Juntas Arbitrales resolver, con los efectos previstos en la legislación general de arbitraje, las controversias de carácter mercantil surgidas en relación con el cumplimiento de los contratos de transporte terrestre cuando, de común acuerdo, sean sometidas a su conocimiento por las partes intervinientes u otras personas que ostenten un interés legítimo en su cumplimiento.
+Asimismo, les corresponderá resolver, en idénticos términos a los anteriormente previstos, las controversias surgidas en relación con los demás contratos celebrados por empresas transportistas y de actividades auxiliares y complementarias del transporte cuyo objeto esté directamente relacionado con la prestación por cuenta ajena de los servicios y actividades que, conforme a lo previsto en la presente Ley, se encuentran comprendidos en el ámbito de su actuación empresarial.
+Se presumirá que existe el referido acuerdo de sometimiento al arbitraje de las Juntas siempre que la cuantía de la controversia no exceda de 15.000 euros y ninguna de las partes intervinientes en el contrato hubiera manifestado expresamente a la otra su voluntad en contra antes del momento en que se inicie o debiera haberse iniciado la realización del transporte o actividad contratado.
+2. El Gobierno determinará reglamentariamente el procedimiento conforme al cual debe sustanciarse el arbitraje, debiendo caracterizarse por la simplificación de trámites y por la no exigencia de formalidades especiales.
+3. Las Juntas Arbitrales realizarán, además de la función de arbitraje a la que se refieren los puntos anteriores, cuantas actuaciones les sean atribuidas.
+Reglamentariamente se establecerá un procedimiento simplificado a través del que las Juntas Arbitrales del Transporte atenderán al depósito y, en su caso, enajenación de mercancías en los supuestos en que así corresponda de conformidad con lo dispuesto en la legislación reguladora del contrato de transporte terrestre.
+Se modifica el párrafo tercero del apartado 1 y el apartado 3 por el art. 1.15 y 16 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifican el párrafo tercero del apartado 1 y el apartado 2 por el art. 1 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+ Se modifica por el art. 162 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Se declara la inconstitucionalidad y nulidad del párrafo primero y del inciso destacado del apartado 2 por Sentencia del TC 174/1995, de 23 de noviembre. Ref. BOE-T-1995-27749
+
+## CAPÍTULO IX
+
+Los usuarios del transporte
+
+### Artículo 39
+
+Artículo 39.
+1. Los usuarios participarán, de conformidad con lo dispuesto en esta Ley y en la legislación específica de consumidores y usuarios, en el procedimiento de elaboración de las disposiciones y de las resoluciones administrativas referentes al transporte que les afecten, en la forma que reglamentariamente se determine.
+2. La Administración fomentará la constitución y desarrollo de asociaciones de usuarios y potenciará su participación en la planificación y gestión del sistema de transporte.
+
+### Artículo 40
+
+Artículo 40.
+1. La Administración mantendrá informados a los usuarios de las prestaciones del sistema de transportes que en cada momento se encuentren a disposición de los mismos, así como de sus modificaciones.
+2. Asimismo, la Administración elaborará el catálogo de los derechos y deberes de los usuarios del transporte, cuya difusión y cumplimiento se tutelará por ésta. Los citados deberes vendrán fundamentalmente determinados por el establecimiento de las condiciones generales de utilización del servicio y de las obligaciones de los usuarios.
+
+### Artículo 41
+
+Artículo 41.
+1. La Administración establecerá las condiciones generales que habrán de cumplir los usuarios, así como las obligaciones de los mismos en la utilización de los transportes terrestres.
+Se suprime el apartado 2 por el art. 1.17 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## TÍTULO II
+
+Disposiciones de aplicación general a los transportes por carretera y a las actividades auxiliares y complementarias de los mismos
+
+## CAPÍTULO I
+
+Condiciones para el ejercicio del transporte y de las actividades auxiliares y complementarias del mismo
+
+## Sección primera
+
+Sección primera. Condiciones previas de carácter personal para el ejercicio profesional
+
+### Artículo 42
+
+Artículo 42.
+1. La realización de transporte público de viajeros y mercancías estará supeditada a la posesión de una autorización que habilite para ello, expedida por el órgano competente de la Administración General del Estado o, en su caso, por el de aquella Comunidad Autónoma en que se domicilie dicha autorización, cuando esta facultad le haya sido delegada por el Estado.
+Como regla general, las autorizaciones de transporte público deberán domiciliarse en el lugar en que su titular tenga su domicilio fiscal.
+No obstante, la autorización podrá domiciliarse en un lugar distinto cuando su titular justifique que su actividad principal no es la de transporte y que, como consecuencia, tiene su domicilio fiscal allí donde realiza dicha actividad principal, si bien cuenta con un establecimiento en el lugar en que pretende domiciliarla, en el que centralizará su actividad de transporte y cumplirá las exigencias señaladas en el apartado c) del artículo 43.1.
+2. No obstante, lo dispuesto en el punto anterior, no será necesaria la previa obtención de autorización para realizar las siguientes modalidades de transporte:
+a) Transporte de viajeros o mercancías realizado en vehículos cuya velocidad máxima autorizada no supere los 40 kilómetros por hora, salvo que reglamentariamente se fije un umbral menor.
+b) Transporte realizado en vehículos que lleven unido de forma permanente máquinas o instrumentos tales como los destinados a grupos electrógenos, grúas de elevación, equipos de sondeo, etc., constituyendo dichas máquinas o instrumentos el uso exclusivo del vehículo. Esta exención incluirá el transporte a bordo de tales vehículos de aquellas piezas, herramientas u otros adminículos que resulten necesarios para el correcto funcionamiento de la máquina o equipo o la adecuada prestación de los servicios a que se encuentran destinados.
+c) Además, podrá exonerarse reglamentariamente de la obligación de contar con autorización a quienes realicen exclusivamente otras formas de transporte que tengan una escasa incidencia en el mercado de transporte, en razón de la naturaleza de la mercancía transportada, de las cortas distancias recorridas o de la pequeña capacidad de carga de los vehículos en que se realicen.
+3. La exención de la obligación de estar en posesión de autorización en los casos señalados en el punto anterior no exime a quienes realicen los transportes afectados del cumplimiento del resto de las exigencias contenidas en esta Ley y en las normas dictadas para su desarrollo, en los términos en que les resulten de aplicación, ni de obtener los permisos, licencias o habilitaciones que, en su caso, procedan de conformidad con la legislación sobre seguridad, sanidad o tráfico, circulación de vehículos a motor y seguridad vial.
+Se modifica el apartado 2 por la disposición final 4.4 de la Ley 9/2025, de 3 de diciembre. Ref. BOE-A-2025-24545#df-4
+ Se modifica por el art. 1.18 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica el apartado 1.a) por el art. 1 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+### Artículo 43
+
+Artículo 43.
+1. El otorgamiento de la autorización de transporte público estará condicionado a que la empresa solicitante acredite, de acuerdo con lo que reglamentariamente se determine, el cumplimiento de los siguientes requisitos:
+a) Tener nacionalidad española o la de algún otro Estado miembro de la Unión Europea o, en caso contrario, contar con las autorizaciones exigidas por la legislación reguladora del régimen general de extranjería para la realización de la actividad profesional de transportista en nombre propio.
+b) Cuando no se trate de una persona física, tener personalidad jurídica propia e independiente de la de aquellas personas que, en su caso, la integren.
+En ningún supuesto podrán otorgarse autorizaciones de forma conjunta a más de una persona ni a comunidades de bienes. Tampoco se otorgarán autorizaciones a personas jurídicas sin ánimo de lucro.
+Tratándose de personas jurídicas, la realización de transporte público debe formar parte de su objeto social de forma expresa.
+c) Contar con un domicilio situado en España en el que se conserven, a disposición de los Servicios de Inspección del Transporte Terrestre, los documentos relativos a su gestión y funcionamiento que reglamentariamente se determinen.
+d) Disponer de uno o más vehículos matriculados en España o en otro Estado miembro conforme a lo que en cada caso resulte exigible de acuerdo con lo que reglamentariamente se determine, atendiendo a razones de interés general, los cuales deberán cumplir las condiciones que, en su caso, se establezcan, teniendo en cuenta principios de proporcionalidad y no discriminación.
+e) Disponer de dirección y firma electrónica, así como del equipo informático necesario para documentar a distancia el contrato y otras formalidades mercantiles con sus clientes.
+f) Cumplir las obligaciones de carácter fiscal, laboral y social exigidas por la legislación vigente.
+g) Cumplir, en su caso, aquellas otras condiciones específicas necesarias para la adecuada prestación de los servicios que reglamentariamente se establezcan, atendiendo a principios de proporcionalidad y no discriminación, en relación con la clase de transporte de que se trate en cada caso.
+2. Además de las condiciones señaladas en el punto anterior, cuando la autorización habilite para la realización de transporte público de viajeros en autobús o de mercancías en vehículos o conjuntos de vehículos con capacidad de tracción propia cuya masa máxima autorizada sea superior a 3,5 toneladas, deberán cumplir los requisitos de establecimiento, honorabilidad, capacidad financiera y competencia profesional exigidos por la reglamentación de la Unión Europea por la que se establecen normas comunes relativas a las condiciones que han de cumplirse para el ejercicio de la profesión de transportista por carretera, de conformidad con lo que en dicha reglamentación se dispone y con lo que en esta ley y en sus normas de desarrollo se señala para la ejecución de tales disposiciones.
+Reglamentariamente se podrá prever, no obstante, algún supuesto en que, a solicitud del interesado, la Administración podría autorizar que una empresa continúe funcionando, aunque transitoriamente incumpla alguna de las condiciones señaladas en este punto, por un plazo que en ningún caso podrá ser superior a seis meses.
+Se modifica la letra d) del apartado 1 por el art. 58.1 del Real Decreto-ley 20/2022, de 27 de diciembre. Ref. BOE-A-2022-22685#a5-10
+ Se modifica por el art. 1.19 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 44
+
+Artículo 44.
+De conformidad con lo dispuesto en la reglamentación de la Unión Europea por la que se establecen normas comunes relativas a las condiciones que han de cumplirse para el ejercicio de la profesión de transportista por carretera, a fin de cumplir el requisito de establecimiento a que se refiere el punto 2 del artículo 43, una empresa deberá:
+a) Tener un establecimiento situado en España con locales en los que se conserven, a disposición de los Servicios de Inspección del Transporte Terrestre, los documentos principales de la empresa, en particular sus documentos contables, los documentos de gestión del personal, los documentos con los datos relativos a los tiempos de conducción y descanso de los conductores, así como cualesquiera otros que resulten exigibles en aplicación de lo que se dispone en el apartado c) del artículo 43.1.
+b) Disponer de uno o más vehículos en los términos y condiciones que resulten de aplicación de conformidad con lo dispuesto en los artículos 43.1, 54.2 y 55.
+c) Disponer en los centros de explotación en que la empresa ejerza su actividad en España del equipamiento administrativo y técnico y de las instalaciones que resulten adecuados, conforme a lo que reglamentariamente se determine.
+Se modifica por el art. 1.20 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 45
+
+Artículo 45.
+De conformidad con lo dispuesto en la reglamentación de la Unión Europea por la que se establecen normas comunes relativas a las condiciones que han de cumplirse para el ejercicio de la profesión de transportista por carretera, a fin de cumplir el requisito de honorabilidad, ni la empresa ni su gestor de transporte podrán haber sido condenados por la comisión de delitos o faltas penales ni sancionados por la comisión de infracciones relacionadas con los ámbitos mercantil, social o laboral, de seguridad vial o de ordenación de los transportes terrestres que den lugar a la pérdida de este requisito, de conformidad con lo que se dispone en esta ley y en la reglamentación de la Unión Europea.
+Se modifica por el art. 1.21 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 46
+
+Artículo 46.
+De conformidad con lo dispuesto en la reglamentación de la Unión Europea por la que se establecen normas comunes relativas
+De conformidad con lo dispuesto en la reglamentación de la Unión Europea por la que se establecen normas comunes relativas a las condiciones que han de cumplirse para el ejercicio de la profesión de transportista por carretera, a fin de cumplir el requisito de capacidad financiera, la empresa deberá:
+a) Ser capaz de hacer frente permanentemente a sus obligaciones económicas a lo largo del ejercicio contable anual.
+Deberá considerarse que incumplen esta condición quienes hayan sido declarados insolventes en cualquier procedimiento. Asimismo, deberá considerarse que la incumplen quienes hayan sido declarados en concurso, salvo que la Administración competente sobre la autorización de transporte llegue al convencimiento de que existen perspectivas realistas de saneamiento financiero en un plazo razonable.
+En todo caso, el cumplimiento del requisito se restablecerá desde que la empresa se encuentre protegida por la eficacia del convenio alcanzado en el procedimiento concursal.
+Por el contrario, no podrá considerarse en ningún caso que el requisito se cumple desde que el procedimiento concursal entre en la fase de liquidación.
+b) Disponer, al menos, de capital y reservas por un importe mínimo de 9.000 euros, cuando se utilice un solo vehículo, y de 5.000 euros más por cada vehículo adicional utilizado.
+No obstante, la Administración podrá aceptar o exigir que una empresa demuestre su capacidad financiera mediante la garantía prestada por una entidad financiera o de seguros, que se convertirá en garante solidario de dicha empresa hasta las cuantías anteriormente señaladas, de conformidad con lo que reglamentariamente se determine.
+Se modifica por el art. 1.22 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## Sección segunda
+
+Sección segunda. Titulos administrativos habilitantes para el ejercicio de la actividad
+
+### Artículo 47
+
+Artículo 47.
+De conformidad con lo dispuesto en la reglamentación de la Unión Europea por la que se establecen normas comunes relativas a las condiciones que han de cumplirse para el ejercicio de la profesión de transportista por carretera, a fin de cumplir el requisito de competencia profesional, la empresa deberá acreditar que cuenta al menos con una persona física que ejerce las funciones de gestor de transporte y que, a tal efecto, cumple las siguientes condiciones:
+a) Dirigir efectiva y permanentemente las actividades de transporte de la empresa, conforme a lo que reglamentariamente se determine.
+b) Tener un vínculo real con la empresa, conforme a lo que reglamentariamente se determine.
+c) Estar en posesión del certificado expedido por la Administración que acredite su competencia profesional para el transporte por carretera de viajeros o mercancías, según corresponda, de conformidad con lo que reglamentariamente se establezca.
+d) Cumplir ella misma, a título personal, el requisito de honorabilidad en los términos señalados en el artículo 45.
+Se modifica por el art. 1.23 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 48
+
+Artículo 48.
+1. El otorgamiento de las autorizaciones de transporte público tendrá carácter reglado por lo que sólo podrá denegarse cuando no se cumplan los requisitos exigidos para ello.
+2. No obstante, y de conformidad con las normas comunitarias y demás disposiciones que, en su caso, resulten de aplicación, cuando la oferta de transporte público de viajeros en vehículos de turismo se encuentre sujeta a limitaciones cuantitativas en el ámbito autonómico o local, podrán establecerse limitaciones reglamentarias al otorgamiento tanto de nuevas autorizaciones habilitantes para la realización de transporte interurbano en esa clase de vehículos como de las que habilitan para el arrendamiento de vehículos con conductor.
+3. Sin perjuicio de lo dispuesto en el punto anterior, a fin de mantener el adecuado equilibrio entre la oferta de ambas modalidades de transporte, procederá denegar el otorgamiento de nuevas autorizaciones de arrendamiento de vehículos con conductor cuando la proporción entre el número de las existentes en el territorio de la comunidad autónoma en que pretendan domiciliarse y el de las de transporte de viajeros en vehículos de turismo domiciliadas en ese mismo territorio sea superior a una de aquéllas por cada treinta de éstas.
+No obstante, aquellas comunidades autónomas que, por delegación del Estado, hubieran asumido competencias en materia de autorizaciones de arrendamiento de vehículos con conductor, podrán modificar la regla de proporcionalidad señalada en el párrafo anterior, siempre que la que apliquen sea menos restrictiva que esa.
+Se añade el apartado 3 por el art. único.2 del Real Decreto-ley 3/2018, de 20 de abril. Ref. BOE-A-2018-5451
+ Se modifica por el art. 1.24 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 49
+
+Artículo 49.
+1. Con carácter general, las autorizaciones de transporte serán intransferibles, salvo a favor de los herederos forzosos o el cónyuge del anterior titular, en los casos de muerte, jubilación o incapacidad física o legal de éste.
+2. No obstante lo dispuesto en el punto anterior, reglamentariamente podrá establecerse la transmisibilidad de las autorizaciones de transporte a favor de personas distintas a los herederos forzosos o al cónyuge de su anterior titular en supuestos en que el otorgamiento de aquéllas se encuentre sometido a limitaciones por razón de la antigüedad de los vehículos a los que, en su caso, hayan de estar referidas.
+3. Reglamentariamente, podrán establecerse determinadas excepciones temporales a las exigencias contenidas en el artículo 43, que permitan tener en cuenta la situación transitoria de la empresa en los supuestos de transmisión de autorizaciones.
+Se añade por el art. 1.25 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se deja sin contenido por el art. 21.2 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 50
+
+Artículo 50.
+(Sin contenido)
+Se deja sin contenido por el art. 21.2 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 51
+
+Artículo 51.
+1. Las autorizaciones de transporte se otorgarán sin plazo de duración prefijado, si bien su validez podrá quedar condicionada a su visado periódico, realizado de oficio, conforme a lo que reglamentariamente se determine.
+Mediante el visado, la Administración constatará el mantenimiento de las condiciones exigidas de conformidad con lo dispuesto en el artículo 43.
+Las autorizaciones que, resultando obligatorio, no hayan sido visadas dentro del plazo establecido perderán automáticamente su validez, sin necesidad de una declaración expresa de la Administración en ese sentido.
+Asimismo perderán su validez cuantas otras habilitaciones para el ejercicio de la actividad del transporte se hubiesen obtenido bajo la condición de la vigencia de aquéllas.
+2. Reglamentariamente podrán establecerse supuestos en los que quepa rehabilitar las autorizaciones que hayan perdido su validez por no haber sido visadas dentro del plazo establecido.
+3. De conformidad con lo dispuesto en el artículo 11.2 a) de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, no será necesario el consentimiento del afectado para que el Registro de Empresas y Actividades de Transporte pueda recabar de cualquier otro registro público la información que resulte estrictamente necesaria para acreditar el cumplimiento de los requisitos exigidos para el otorgamiento, visado o modificación de los títulos que habilitan para el ejercicio de las actividades y profesiones reguladas en esta ley o en las normas dictadas para su ejecución y desarrollo.
+En aplicación de los principios contemplados en el artículo 4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la obtención de información conforme a lo anteriormente señalado no devengará arancel alguno.
+Se modifica por el art. 1.26 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 52
+
+Artículo 52.
+1. Fuera del supuesto regulado en el artículo anterior, cuando la Administración constate el incumplimiento de alguna de las condiciones exigidas en el artículo 43, suspenderá la autorización, comunicándoselo a su titular, hasta que éste subsane dicho incumplimiento.
+Dicha suspensión alcanzará, además, a cuantas otras habilitaciones para el ejercicio de la actividad de transporte se hubiesen obtenido bajo la condición de la vigencia de la referida autorización.
+Si el incumplimiento que dio lugar a la suspensión no ha sido subsanado con anterioridad a la finalización del más próximo período de visado, la autorización perderá su validez conforme a lo dispuesto en el artículo 51.
+Cuando se trate de las autorizaciones a que hace referencia el punto 3 del referido artículo 51, la suspensión se mantendrá indefinidamente en tanto que su titular no acredite haber subsanado el incumplimiento de que se trate.
+2. Sin perjuicio de lo dispuesto en el punto anterior, cuando el titular de la autorización sea contratista de la gestión de algún servicio público de transporte regular de viajeros de uso general, la Administración incoará el pertinente procedimiento de resolución del correspondiente contrato si aquél no acredita la subsanación del incumplimiento en el plazo de tiempo que reglamentariamente se determine.
+3. Lo dispuesto en los puntos anteriores de este artículo deberá entenderse sin perjuicio de la imposición de las sanciones que correspondan por el incumplimiento de los requisitos de que en cada caso se trate.
+Se modifica por el art. 1.27 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## Sección tercera
+
+Sección tercera. Requisitos generales de ejercicio de la actividad
+
+### Artículo 53
+
+Artículo 53.
+1. El Registro de Empresas y Actividades de Transporte tiene por objeto:
+a) La inscripción de las empresas y personas que obtengan alguno de los títulos que habilitan para el ejercicio de las actividades y profesiones reguladas en esta ley o en las normas dictadas para su desarrollo.
+b) La inscripción de los contratos de gestión de los servicios públicos de transporte regular de viajeros de uso general.
+c) La anotación de todas las incidencias y datos relativos a las empresas, personas, títulos y contratos señalados en los apartados anteriores que reglamentariamente se determinen.
+d) Las sanciones impuestas por la comisión de las infracciones tipificadas en esta ley, así como aquellas otras anotaciones relativas a expedientes sancionadores que se consideren relevantes reglamentariamente.
+2. La inscripción en el Registro tendrá carácter obligatorio y se realizará de oficio por la Administración.
+3. La organización del Registro, integrada por los Registros territoriales y el Registro Central, se articulará conforme a lo que reglamentariamente se determine.
+4. El contenido del Registro se presume exacto y válido.
+5. Realizada una inscripción o anotación en el Registro, no podrá realizarse otra de igual o anterior fecha que resulte opuesta o incompatible con aquélla.
+6. El Registro es público en los términos siguientes:
+a) Publicidad plena: todo ciudadano podrá conocer los títulos habilitantes en vigor que posea cualquier otra persona física o jurídica en el momento de hacer su consulta, así como la tarifa y aquella otra parte del contenido de los contratos de gestión de servicios públicos de transporte regular de viajeros de uso general que reglamentariamente se determine.
+b) Publicidad restringida: las anotaciones relativas a un procedimiento sancionador únicamente podrán ser conocidas por la persona o personas a que estén referidas.
+c) Publicidad ordinaria: el acceso a datos obrantes en el Registro no incluidos en los apartados anteriores y que no pertenezcan a la intimidad de las personas podrá ser ejercido, además de por el propio sujeto al que estén referidos, por terceros que acrediten un interés legítimo.
+El tratamiento del contenido de los asientos registrales a efectos de posibilitar su publicidad directa deberá garantizar, al mismo tiempo, la imposibilidad de su manipulación o televaciado.
+Esta publicidad se realizará de acuerdo con lo que reglamentariamente se determine.
+Lo dispuesto en este punto se entenderá sin perjuicio de cuanto resulte de aplicación en virtud de los principios y reglas que, conforme a lo que se establece en la legislación sobre régimen jurídico y procedimiento administrativo común de las Administraciones públicas, informan las relaciones entre éstas y la coordinación de competencias entre órganos administrativos. Asimismo, serán de aplicación en la gestión y tratamiento de los datos registrales las exigencias derivadas de la reglamentación de la Unión Europea en materia de normas comunes relativas a las condiciones que han de cumplirse para el ejercicio de la profesión de transportista por carretera.
+Se modifica por el art. 1.28 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Téngase en cuenta para su aplicación al transporte por ferrocarril la disposición adicional 5.
+
+### Artículo 54
+
+Artículo 54.
+1. Quienes contraten una operación de transporte como porteadores deberán llevarla a cabo a través de su propia organización empresarial.
+Quedan exceptuados de la referida prescripción quienes intervengan en la contratación del transporte de que se trate en funciones de pura intermediación de conformidad con lo dispuesto en esta ley o utilicen la colaboración de otros transportistas en los supuestos regulados en los artículos 76 y 89.2.
+2. A los efectos de lo dispuesto en el punto anterior, únicamente se considerará que los vehículos con capacidad de tracción propia utilizados se hallan integrados en la organización empresarial del porteador cuando disponga de ellos en propiedad, arrendamiento financiero o arrendamiento ordinario, debiendo en este último caso, cumplir las condiciones establecidas al efecto en esta ley y en las normas dictadas para su desarrollo.
+En todo caso, los referidos vehículos deberán estar matriculados en España o, en el caso del transporte público de mercancías, en otro Estado miembro, de conformidad con lo que se establezca reglamentariamente.
+La utilización de remolques y semirremolques propios o ajenos será libre, sin perjuicio de las reglas a que esté sometido su uso por razones de tráfico, circulación de vehículos a motor y seguridad vial.
+Los vehículos destinados al transporte de viajeros deberán cumplir las condiciones básicas de accesibilidad para personas con discapacidad que reglamentariamente resulten exigibles.
+3. El personal utilizado por el porteador deberá encontrarse encuadrado en su organización empresarial de conformidad con las reglas contenidas en la legislación social y laboral que resulten de aplicación y deberá contar con las habilitaciones, certificaciones, licencias o autorizaciones que, en atención a las funciones que desarrolle, resulten exigibles en cada caso.
+Se modifica el apartado 2 por el art. 58.2 del Real Decreto-ley 20/2022, de 27 de diciembre. Ref. BOE-A-2022-22685#a5-10
+ Se modifica por el art. 1.29 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 55
+
+Artículo 55.
+Los vehículos con los que se realicen los transportes públicos y privados regulados en esta ley, y, en su caso, las cargas transportadas en los mismos, deberán cumplir las condiciones técnicas que resulten exigibles según la legislación industrial, de circulación y seguridad reguladora de dichas materias.
+Cuando la adecuada prestación de determinados servicios de transporte lo hagan conveniente, la Administración podrá establecer en relación con los vehículos con los que los mismos se realicen y con las cargas transportadas, ya sean éstas divisibles o no, condiciones específicas adicionales o diferentes.
+El Gobierno podrá establecer, a propuesta de los ministros competentes, normas especiales de seguridad en relación con aquellas modalidades de transporte que por sus específicas características o naturaleza así lo aconsejen.
+Se añade el párrafo último por el art. 1 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+### Artículo 56
+
+Artículo 56.
+Las comunicaciones entre los órganos administrativos competentes para el otorgamiento de las distintas autorizaciones y habilitaciones contempladas en esta ley y en las normas dictadas para su ejecución y desarrollo y los titulares o solicitantes de las mismas se llevarán a cabo utilizando únicamente medios electrónicos.
+Asimismo, será obligatorio utilizar exclusivamente medios electrónicos en las comunicaciones relativas a la adjudicación, control, modificación o extinción de los contratos de gestión de servicios públicos de transporte regular de viajeros de uso general.
+Las comunicaciones relativas a los procedimientos sancionadores que se instruyan en ejecución de lo dispuesto en esta ley a los titulares de las autorizaciones y habilitaciones que en la misma se contemplan se realizarán también por medios electrónicos de forma exclusiva.
+Lo dispuesto en los párrafos anteriores se entenderá sin perjuicio de los supuestos en que la Administración actuante solicite expresamente la presentación física de algún documento concreto, ni de aquellas notificaciones o comunicaciones que se realicen en carretera por las fuerzas encargadas de la vigilancia del transporte.
+Las notificaciones que se realicen por medios electrónicos conforme a lo dispuesto en este artículo deberán ajustarse a lo que reglamentariamente se determine en atención a los criterios establecidos en la legislación sobre acceso electrónico de los ciudadanos a los servicios públicos.
+No obstante, cuando las comunicaciones a que hace referencia este artículo no pudieran realizarse por medios electrónicos debido a causas técnicas, se llevarán a cabo a través de cualquier otro procedimiento que resulte válido de conformidad con lo dispuesto en la legislación general sobre procedimiento administrativo y régimen jurídico de las Administraciones públicas.
+Se modifica por el art. 1.30 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica por el art. 162 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+## CAPÍTULO II
+
+Colaboración con la Administración y cooperación entre empresas
+
+## Sección primera
+
+Sección primera. Colaboracion con la administracion
+
+### Artículo 57
+
+Artículo 57.
+1. Las asociaciones de transportistas y de actividades auxiliares y complementarias del transporte por carretera, legalmente constituidas, podrán colaborar con la Administración en la realización de las funciones públicas de ordenación y mejora del funcionamiento del sector, en la forma prevista en esta Ley y en sus normas de desarrollo.
+Se suprimen los apartados 2 y 3 por el art. 1.31 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 58
+
+Artículo 58.
+1. El Comité Nacional del Transporte por carretera es una entidad corporativa de base privada, dotada de personalidad jurídica, e integrada por las asociaciones de transportistas y de actividades auxiliares y complementarias del transporte por carretera.
+El Comité Nacional orientará y armonizará los criterios de las distintas profesiones y sectores del transporte, y sin perjuicio de la colaboración directa e individualizada de las asociaciones con la Administración, será el cauce de participación integrada del sector, en aquellas actuaciones públicas que le afecten de forma general, que tengan un carácter relevante, o que supongan una importante incidencia para el mismo.
+El Comité Nacional estará formado por los representantes de las asociaciones profesionales que lo constituyen.
+2. La designación de los miembros del Comité Nacional se realizará democráticamente por las asociaciones según su respectiva representatividad, siguiendo los criterios que se establezcan por la Administración.
+3. El Comité Nacional aprobará su Reglamento de Organización y Funcionamiento, el cual deberá ser autorizado por la Administración y ajustarse a las normas que reglamentariamente se señalen, las cuales garantizarán su carácter democrático. Dentro del Comité Nacional, podrán establecerse distintas secciones correspondientes a las diferentes clases de los servicios o actividades de transporte. En todo caso, el sistema de funcionamiento y actuación posibilitará que las posiciones minoritarias sean suficientemente recogidas, y puedan ser conocidas y ponderadas por la Administración.
+
+### Artículo 59
+
+Artículo 59.
+En el ejercicio de su función de servir de cauce de participación del sector en el ejercicio de las funciones públicas que le afecten, corresponderán al Comité Nacional del Transporte por Carretera las siguientes competencias:
+a) Participar, en representación de las empresas y asociaciones de transporte, en el procedimiento de elaboración de cuantas disposiciones se dicten en materia de transporte por carretera.
+b) Participar, en representación de las empresas y asociaciones de transporte, en el procedimiento de elaboración de todos aquellos programas o planes de transporte que afecten al desarrollo del transporte por carretera o de alguna de sus actividades auxiliares y complementarias.
+c) Proponer a la Administración la adopción de aquellas actuaciones que considere de interés general para el sector del transporte por carretera.
+d) Evacuar cuantas consultas le sean realizadas por la Administración.
+e) Realizar cuantas otras funciones le sean legal o reglamentariamente atribuidas.
+Se modifica por el art. 1.32 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## Sección segunda
+
+Sección segunda. Agrupación y cooperación entre empresas
+
+### Artículo 60
+
+Artículo 60.
+(Suprimido)
+Se suprime por el art. 1.33 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 61
+
+Artículo 61.
+(Suprimido)
+Se suprime por el art. 1.33 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## TÍTULO III
+
+De los servicios y actividades del transporte por carretera
+
+## CAPÍTULO I
+
+Clasificación
+
+### Artículo 62
+
+Artículo 62.
+1. Los transportes por carretera se clasifican, según su naturaleza, en públicos y privados.
+2. Son transportes públicos aquellos que se llevan a cabo por cuenta ajena mediante retribución económica.
+3. Son transportes privados aquellos que se llevan a cabo por cuenta propia, bien sea para satisfacer necesidades particulares, bien como complemento de otras actividades principales realizadas por empresas o establecimientos del mismo sujeto, y directamente vinculados al desarrollo de dichas actividades.
+Los servicios de movilidad colaborativa, entendidos como aquellos efectuados a título no oneroso excepto por la compartición de gastos, en los que varios usuarios comparten un vehículo de turismo en un mismo viaje, se consideran transportes privados particulares. En estos servicios, los usuarios pueden ponerse en contacto a través de una plataforma de intermediación, pudiendo las empresas que realizan esta actividad de intermediación hacerlo a título oneroso. Con el fin de delimitar los supuestos en los que la contraprestación recibida por el conductor o conductora pueda implicar la realización de un transporte público, podrá establecerse reglamentariamente un baremo de costes para estos servicios de movilidad colaborativa.
+Se modifica por la disposición final 4.5 de la Ley 9/2025, de 3 de diciembre. Ref. BOE-A-2025-24545#df-4
+
+### Artículo 63
+
+Artículo 63.
+1. Por razón de su objeto los transportes pueden ser:
+a) De viajeros, cuando estén dedicados a realizar los desplazamientos de las personas, en su caso sus animales de compañía y sus equipajes en vehículos construidos y acondicionados para tal fin.
+b) De mercancías, cuando estén dedicados a realizar desplazamientos de mercancías, en vehículos construidos y acondicionados para tal fin.
+Téngase en cuenta que esta actualización de la letra a), establecida por la disposición final 1 de la Ley 7/2023, de 28 de marzo. Ref. BOE-A-2023-7936#df, entra en vigor el 29 de septiembre de 2023, según determina su disposición final 9.
+ Redacción anterior:
+ "a) De viajeros, cuando estén dedicados a realizar los desplazamientos de las personas y sus equipajes en vehículos construidos y acondicionados para tal fin."
+Se modifica la letra a) por la disposición final 1 de la Ley 7/2023, de 28 de marzo. Ref. BOE-A-2023-7936#df
+ Esta modificación entra en vigor el 29 de septiembre de 2023, según establece la disposición final 9 de la citada Ley.
+ Se suprimen los apartados 1.c) y 2 por el art. 1.34 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 64
+
+Artículo 64.
+1. Los transportes públicos de viajeros por carretera pueden ser regulares, discrecionales y a demanda.
+Son transportes regulares los que se efectúan dentro de itinerarios preestablecidos, y con sujeción a calendarios y horarios prefijados.
+Son transportes discrecionales los que se llevan a cabo sin sujeción a itinerario, calendario ni horario preestablecido.
+Son transportes a la demanda los que se prestan previa solicitud del usuario, pudiendo estar sujetos o no a un itinerario, calendario y horario prefijado y son desempeñados en el marco de un contrato del sector público.
+2. Los transportes públicos de mercancías por carretera tendrán en todo caso la consideración de discrecionales, aun cuando se produzca en los mismos una reiteración de itinerario, calendario u horario.
+Se modifica por la disposición final 4.6 de la Ley 9/2025, de 3 de diciembre. Ref. BOE-A-2025-24545#df-4
+
+### Artículo 65
+
+Artículo 65.
+1. Los transportes se clasifican según el ámbito en que se realicen, en interiores e internacionales.
+2. Son transportes interiores los que tienen su origen y destino dentro del territorio del Estado español, discurriendo como regla general íntegramente dentro de éste, si bien, por razón de sus rutas y en régimen de transporte multimodal podrán atravesar aguas o espacios aéreos no pertenecientes a la soberanía española.
+3. Son transportes internacionales aquéllos cuyo itinerario discurre parcialmente por el territorio de Estados extranjeros.
+
+### Artículo 66
+
+Artículo 66.
+1. En razón a la especialidad de su objeto y de su régimen jurídico, los transportes se clasifican en ordinarios y especiales.
+2. Son transportes especiales, aquellos en los que por razón de su peligrosidad, urgencia, incompatibilidad con otro tipo de transporte, repercusión social, u otras causas similares están sometidos a normas administrativas especiales, pudiendo exigirse para su prestación conforme a lo previsto en el artículo 90 una autorización específica.
+La determinación concreta de los transportes de carácter especial, así como el establecimiento de las condiciones específicas aplicables a cada uno de los mismos, se realizará en las normas de desarrollo de la presente Ley. En todo caso se considerarán transportes especiales el de mercancías peligrosas, productos perecederos cuyo transporte haya de ser realizado en vehículos bajo temperatura dirigida, el de personas enfermas o accidentadas y el funerario.
+
+## CAPÍTULO II
+
+Los transportes públicos regulares de viajeros
+
+### Artículo 67
+
+Artículo 67.
+Los transportes públicos regulares de viajeros pueden ser:
+a) (Suprimido)
+b) Por su utilización, de uso general o de uso especial.
+Son transportes públicos regulares de uso general los que van dirigidos a satisfacer una demanda general, siendo utilizables por cualquier interesado.
+Son transportes públicos regulares de uso especial los que están destinados a servir, exclusivamente, a un grupo específico de usuarios tales como escolares, trabajadores, militares, o grupos homogéneos similares.
+Se suprime el apartado a) por el art. 1.35 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 68
+
+Artículo 68.
+(Suprimido)
+Se suprime por el art. 1.36 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## Sección primera
+
+Sección primera. Los transportes publicos regulares permanentes de viajeros de uso general
+
+### Artículo 69
+
+Artículo 69.
+(Suprimido)
+Se suprime por el art. 1.36 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 70
+
+Artículo 70.
+1. La prestación de los servicios regulares permanentes de transporte de viajeros de uso general deberá ser precedida del correspondiente y fundado acuerdo del Consejo de Ministros sobre el establecimiento o creación de dichos servicios, el cual debe ser acompañado de la aprobación del correspondiente proyecto de prestación de los mismos.
+Se modifica por la disposición final 4.7 de la Ley 9/2025, de 3 de diciembre. Ref. BOE-A-2025-24545#df-4
+
+### Artículo 71
+
+Artículo 71.
+Los transportes públicos regulares de viajeros de uso general tienen el carácter de servicios públicos de titularidad de la administración, pudiendo ser utilizados, sin discriminación, por cualquier persona que lo desee en las condiciones establecidas en esta ley y en las normas dictadas para su ejecución y desarrollo.
+Como regla general, la prestación de los mencionados servicios públicos se llevará a cabo por la empresa a la que la administración adjudique el correspondiente contrato de concesión de servicios. No obstante, la administración podrá optar por la gestión directa de un servicio cuando estime que resulta más adecuado al interés general en función de su naturaleza y características.
+En lo no previsto en esta ley ni en la reglamentación de la Unión Europea relativa a los servicios públicos de transporte de viajeros por carretera o en las normas reglamentarias dictadas para la ejecución y desarrollo de tales disposiciones, la prestación de los referidos servicios de transportes se regirá por las reglas establecidas en la legislación general sobre contratación del sector público que resulten de aplicación.
+En el caso de que el contrato adoptara la forma de contrato de servicios, se adjudicará con arreglo a los procedimientos establecidos en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público y su normativa de desarrollo.
+Se modifica por la disposición final 4.8 de la Ley 9/2025, de 3 de diciembre. Ref. BOE-A-2025-24545#df-4
+ Se modifica por el art. 1.37 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 72
+
+Artículo 72.
+1. Con objeto de garantizar la cohesión territorial, los contratos de concesión de los servicios públicos de transporte regular de viajeros de uso general se adjudicarán por la administración con carácter exclusivo, no pudiendo otorgarse otros que cubran tráficos coincidentes, salvo en los supuestos que reglamentariamente se exceptúen por razones fundadas de interés general o cuando en el pliego del contrato se fijen limitaciones a esta regla general, detallándose los tráficos existentes o previstos que no se prestarán en exclusiva y que deberán ser aprobados por el Consejo de Ministros.
+En consecuencia, con carácter general, los nuevos servicios que sean creados no podrán incluir tráficos que ya se encuentren atendidos por otros preexistentes.
+Tampoco procederá el establecimiento de un nuevo servicio cuando la escasa entidad de los núcleos de población que habría de atender y su proximidad geográfica con los que ya vienen siendo atendidos por otro servicio no permitan definir un tráfico significativamente distinto.
+2. A los efectos señalados en el punto anterior, los tráficos constitutivos de cada servicio vendrán determinados por la relación de localidades o núcleos de población diferenciados entre los que se realiza el transporte, efectuando parada los vehículos para tomar y dejar a los viajeros que se desplacen entre los mismos.
+Únicamente se tendrán en cuenta, a efectos de la apreciación de posibles coincidencias, las paradas de los servicios preexistentes entre las que estuvieran autorizados tráficos en el momento en que se inicie la tramitación del nuevo servicio.
+Se modifica por la disposición final 4.9 de la Ley 9/2025, de 3 de diciembre. Ref. BOE-A-2025-24545#df-4
+ Se modifica por el art. 1.38 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica el apartado 3 por la disposición final 22.1 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica el apartado 3 por al art. 2 de la Ley 10/2003, de 20 de mayo. Ref. BOE-A-2003-10185
+ Se modifica al apartado 3 por el art. 2 del Real Decreto- Ley 4/2000, de 23 de junio. Ref. BOE-A-2000-11834
+ Véase el art. 167 de la Ley 13/1996, de 30 de diciembre Ref. BOE-A-1996-29117, sobre excepción al plazo previsto en el apartado 3.
+
+### Artículo 73
+
+Artículo 73.
+1. Los contratos de gestión de servicios públicos de transporte regular de viajeros de uso general se adjudicarán mediante un procedimiento abierto en el que, sin perjuicio de lo dispuesto en el artículo 74.2, todo empresario podrá presentar una proposición. Los órganos de contratación darán a los licitadores un tratamiento equitativo y no discriminatorio y ajustarán su actuación al principio de transparencia.
+No obstante, la Administración podrá optar por la adjudicación directa del contrato cuando su valor anual medio, calculado conforme a lo que reglamentariamente se determine, se haya estimado en menos de 100.000 euros anuales, previa justificación motivada de su pertinencia.
+2. El pliego de condiciones que haya de regir el contrato, que tomará como base el proyecto aprobado por la Administración de conformidad con lo dispuesto en el artículo 70, fijará las condiciones de prestación del servicio.
+En todo caso, se incluirán en dicho pliego los siguientes extremos:
+a) Los tráficos que definen el servicio.
+b) El itinerario o las infraestructuras por los que concretamente haya de discurrir el servicio, cuando resulte pertinente.
+c) El número de expediciones de transporte que, como mínimo, deberá realizar el contratista.
+d) Las prestaciones que, como mínimo, deberán recibir los viajeros además de su transporte y el de sus equipajes.
+e) Las condiciones mínimas de solvencia técnica, profesional y económica que, en su caso, deberá cumplir el contratista a fin de que resulte garantizada la adecuada prestación del servicio de que se trate de forma continuada.
+f) El número mínimo de vehículos que el contratista deberá adscribir a la prestación del servicio, así como sus características técnicas y, cuando resulte pertinente, su límite máximo de antigüedad.
+g) La dotación mínima del personal que el contratista deberá adscribir a la prestación del servicio.
+h) Cuando se trate de un servicio que ya venía prestándose, los empleados del anterior contratista en cuya relación laboral deberá subrogarse el adjudicatario para cubrir la dotación mínima señalada en el apartado anterior.
+i) Las instalaciones fijas que, en su caso, haya de aportar el contratista para la prestación del servicio.
+j) El régimen tarifario de aplicación a los viajeros.
+k) El derecho del contratista a hacer propia, en su caso, la totalidad o una parte de los ingresos derivados de la explotación del servicio.
+l) Otras compensaciones a las que, en su caso, tenga derecho el contratista por la prestación del servicio, indicando los parámetros sobre cuya base habrán de calcularse.
+m) El canon o participación que, en su caso, haya de satisfacer el contratista a la Administración y los parámetros sobre cuya base habrá de calcularse, conforme a criterios de proporcionalidad, sin que afecte significativamente a la estructura de costes del servicio.
+n) Las máquinas o herramientas o, en su caso, los medios electrónicos, informáticos o telemáticos de que deberá proveerse el contratista para facilitar a la Administración el adecuado control de los ingresos generados por la explotación del servicio.
+ñ) El compromiso del contratista de someterse al arbitraje de las Juntas Arbitrales del Transporte en relación con cualquier controversia con los usuarios acerca de la prestación del servicio.
+o) El plazo de duración del contrato.
+La Administración deberá incluir, además, en el pliego todas aquellas otras circunstancias que delimiten el servicio y configuren su prestación.
+Se modifica por el art. 1.39 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica el apartado 3 por la disposición final 22.2 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 74
+
+Artículo 74.
+1. En la adjudicación del contrato únicamente podrán tenerse en cuenta variantes o mejoras ofrecidas por los licitadores cuando tal posibilidad se hubiese previsto expresamente en el pliego.
+Los criterios señalados a tal efecto en el pliego deberán estar relacionados, en todo caso, con el régimen económico y tarifario, la seguridad, la eficacia o la calidad y frecuencia del servicio objeto del contrato y tendrán especialmente en cuenta factores ambientales y la mejor integración con la red de servicios públicos de transporte de viajeros que vertebran el territorio. En la determinación de los criterios de adjudicación se dará preponderancia a aquéllos que puedan valorarse mediante cifras o porcentajes obtenidos a través de la mera aplicación de fórmulas establecidas en el propio pliego.
+2. El adjudicatario del contrato deberá ser, en todo caso, titular de la autorización de transporte público de viajeros regulada en el artículo 42.
+3. Cuando el objeto de un nuevo contrato sea la gestión de un servicio que ya se venía prestando con anterioridad, se adjudicará al anterior contratista siempre que éste hubiese cumplido satisfactoriamente el anterior contrato y que la valoración atribuida a su oferta sea la misma que la mejor del resto de las presentadas.
+4. En cualquier caso, deberán desestimarse las ofertas que establezcan condiciones desproporcionadas o anormales, técnicamente inadecuadas, o que no garanticen debidamente la continuidad del servicio o su prestación en las condiciones precisas.
+Se modifica por el art. 1.40 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica el apartato 1 por la disposición final 22.3 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 75
+
+Artículo 75.
+1. El contrato de gestión del servicio público de que se trate recogerá las condiciones establecidas en el pliego, con las precisiones o modificaciones ofrecidas por el adjudicatario que hubiesen sido aceptadas por la Administración.
+El contrato deberá formalizarse en documento administrativo, salvo que el contratista solicite que se eleve a escritura pública, corriendo de su cargo, en este supuesto, los correspondientes gastos.
+2. El contratista habrá de prestar el servicio en las condiciones fijadas en el contrato, debiendo respetar, además, cuantas otras obligaciones se encuentren establecidas con carácter general en esta ley y en las normas dictadas para su ejecución y desarrollo en relación con la realización de servicios públicos de transporte de viajeros de titularidad de la Administración.
+En todo caso, el contratista estará obligado a reservar, a favor de la Administración pública que así se lo demande, un cierto número de plazas en determinadas expediciones para el transporte de estudiantes o trabajadores hasta y desde centros docentes o de trabajo de titularidad pública. En dicho supuesto, la compensación que reciba el contratista de la Administración que reserve las plazas no podrá ser nunca superior a la cuantía que resulte de la aplicación de la tarifa ordinaria del servicio.
+3. El contrato sólo podrá modificarse cuando así se haya previsto en el pliego y se hayan detallado de forma clara, precisa e inequívoca las condiciones en que podrá hacerse.
+No obstante, la Administración contratante, previa audiencia del contratista, podrá modificar el contrato, a efectos de adecuar la prestación del servicio a los cambios sobrevenidos en las circunstancias que se tuvieron en cuenta en el momento de su adjudicación en relación con la demanda potencial de los servicios o la necesidad de cubrir nuevos tráficos surgidos en las inmediaciones del servicio que no se encuentren atendidos a través de otros contratos o que hayan dejado de estarlo por la extinción del servicio que los venía atendiendo, de conformidad con lo que reglamentariamente se determine. En este supuesto, el acuerdo de modificación adoptado por el órgano contratante de la Administración pondrá fin a la vía administrativa, será inmediatamente ejecutivo y su cumplimiento resultará obligatorio para el contratista.
+Muy especialmente, a los efectos previstos en este punto, la Administración contratante valorará la conveniencia de modificar un servicio preexistente cuando, con posterioridad a su inauguración, tenga lugar el establecimiento o cierre de centros docentes, sanitarios o de otra índole generadores de una demanda significativa de transporte.
+Cuando la modificación del contrato afecte a su régimen financiero, la Administración deberá restablecer el equilibrio económico de aquél, en beneficio de la parte contratante que corresponda, de conformidad con lo previsto en la legislación sobre contratos del sector público.
+Sea cual fuere su causa, la modificación del contrato deberá formalizarse conforme a lo previsto en el punto 1.
+4. Sin perjuicio de la legislación laboral que resulte de aplicación al efecto, cuando un procedimiento tenga por objeto la adjudicación de un nuevo contrato para la gestión de un servicio preexistente, el pliego de condiciones deberá imponer al nuevo adjudicatario la obligación de subrogarse en la relación laboral con el personal empleado por el anterior contratista en dicha prestación, en los términos señalados en los apartados g) y h) del artículo 73.2.
+En este supuesto, el órgano de contratación deberá facilitar a los licitadores, en el propio pliego o en la documentación complementaria, la información sobre las condiciones de los contratos del personal al que afecte la subrogación que resulte necesaria para permitir la evaluación de los costes laborales que implicará tal medida. A estos efectos, la empresa que viniese prestando el servicio y tenga la condición de empleadora del personal afectado estará obligada a proporcionar la referida información al órgano de contratación, a requerimiento de éste.
+Tal información se suministrará teniendo en cuenta lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+A los efectos señalados en este punto, no podrá tenerse en cuenta otro personal que el expresamente adscrito a la prestación del servicio en el contrato de gestión del servicio público de que se trate, para cuya determinación se debieron tomar como base el que inicialmente se incluía en el correspondiente pliego de condiciones, de conformidad con lo dispuesto en el artículo 73.2.
+El nuevo contratista no responderá de los derechos salariales devengados con anterioridad a la asunción efectiva de los servicios, ni de las deudas a la Seguridad Social, fiscales o cualesquiera otras que hubiere contraído el empresario anterior.
+Se modifica por el art. 1.41 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 76
+
+Artículo 76.
+1. Para hacer frente a intensificaciones de tráfico que no puedan ser atendidas por los vehículos adscritos a la prestación del servicio podrán utilizarse otros, ya sean propios del contratista, o cedidos, con o sin conductor, por otros transportistas a través de cualquier fórmula jurídica válida.
+Dichos vehículos deberán estar amparados por la autorización prevista en el artículo 42.
+2. El servicio se considerará, en todo caso, tanto a efectos de las correspondientes relaciones jurídico privadas, como de las obligaciones y responsabilidades de carácter administrativo, prestado por la empresa concesionaria del servicio regular, considerándose los vehículos cedidos por otros transportistas integrados en su organización.
+Se modifica el apartado 1 por el art. 1.42 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 77
+
+Artículo 77.
+1. Los vehículos adscritos a las concesiones de servicios regulares, podrán realizar, asimismo, servicios de carácter discrecional, siempre que estén amparados por la autorización habilitante para los mismos, y quede debidamente asegurada la correcta prestación del servicio regular.
+2. La Administración podrá autorizar, de conformidad con lo que reglamentariamente se establezca, que un mismo vehículo sea utilizado en diversos servicios regulares cuya prestación corresponda a un mismo titular.
+3. Podrá, asimismo, autorizarse la utilización de vehículos para servir la red de itinerarios de dos o más concesiones de distintos titulares, con tal que las mismas presenten puntos de contacto y el servicio se preste sin solución de continuidad en el recorrido. Sin embargo, únicamente procederá el otorgamiento de la referida autorización cuando en el correspondiente expediente quede acreditada la no procedencia de establecer como servicio independiente el itinerario correspondiente a las distintas concesiones que vaya a servir el vehículo de que se trate.
+
+### Artículo 78
+
+Artículo 78.
+Como regla general, las concesiones se otorgarán, únicamente, para servicios predeterminados de carácter lineal; no obstante, la Administración podrá otorgar concesiones zonales que comprenderán todos los servicios regulares permanentes o temporales y de uso general o especial que hayan de prestarse en una determinada zona, salvo los que expresamente se exceptúen. Será de aplicación a las concesiones zonales el régimen jurídico establecido para las lineales en tanto resulte compatible con su específica naturaleza.
+
+### Artículo 79
+
+Artículo 79.
+1. Las concesiones zonales deberán ajustarse a las determinaciones de un plan de explotación para la zona de que se trate, aprobado por la Administración de oficio o a iniciativa de los particulares, que contendrá las previsiones que reglamentariamente se señalen y que formará parte de las cláusulas concesionales.
+2. Los planes de explotación a que se refiere el apartado anterior deberán tener en cuenta las necesidades de los usuarios, la estructura de los servicios que se integren en la concesión y las exigencias de la ordenación territorial.
+3. Por razones de interés público, la Administración podrá constituir o modificar zonas de transporte, así como variar los planes de explotación, debiendo mantener en todo caso el equilibrio económico de las concesiones preexistentes.
+
+### Artículo 80
+
+Artículo 80.
+1. El otorgamiento de concesiones zonales estará subordinado, en todo caso, al respeto de los derechos económicos de los titulares de los servicios regulares lineales, permanentes o temporales, y de uso general o especial, que discurran total o parcialmente por su territorio.
+2. Los servicios lineales cuyo itinerario discurra en más de un 50 por 100 por una zona o área de transporte, se incorporarán automáticamente a ésta una vez transcurrido el plazo de duración de la concesión o autorización especial respectiva, o antes, mediante la adecuada compensación económica, si el interés general así lo aconsejara.
+3. Será de aplicación para las concesiones zonales, en cuanto a su régimen de otorgamiento y demás circunstancias no expresamente previstas, el régimen general establecido en esta sección. No obstante, cuando la racionalidad en el diseño del sistema de transportes así lo aconseje, podrá realizarse la adjudicación directa de las mismas, a los titulares de los servicios a que se refiere el punto 1 de este artículo.
+
+### Artículo 81
+
+Artículo 81.
+1. Cuando existan razones objetivas de interés general que lo justifiquen, y no resulte viable o procedente el establecimiento de un nuevo servicio con independencia de los anteriormente existentes, la Administración podrá acordar la concentración en un solo contrato de todos los derechos y obligaciones dimanantes de diferentes contratos de gestión de servicios públicos de transporte regular de viajeros de uso general preexistentes, de tal manera que los servicios contemplados en éstos se presten desde ese momento de forma unificada.
+La inclusión de un contrato en una concentración de tales características sólo será posible a partir de que hayan transcurrido tres años de su plazo de vigencia y dejará de serlo cuando falten menos de dos para su finalización.
+2. La vigencia del contrato unificado se determinará, de conformidad con lo que reglamentariamente se disponga, en función de los plazos de vigencia que resten a los contratos objeto de concentración, teniendo en cuenta la entidad de los tráficos a que se encontraban referidos.
+3. Cuando se lleve a cabo la concentración prevista en este artículo, la Administración podrá realizar las modificaciones en las condiciones de explotación que resulten necesarias para una más adecuada prestación de los servicios de forma unificada.
+Se modifica por el art. 1.43 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 82
+
+Artículo 82.
+1. Los contratos de gestión de servicios públicos de transporte regular de viajeros de uso general se extinguirán por cumplimiento o por resolución.
+2. Los contratos se considerarán cumplidos y, en consecuencia, extinguidos sin necesidad de resolución cuando transcurra su plazo de duración, ya sea el inicialmente establecido o, en su caso, el resultante de su prórroga acordada conforme a lo dispuesto en el artículo 72.4.
+No obstante, cuando finalice el plazo de vigencia de un contrato sin que haya concluido el procedimiento tendente a la adjudicación de uno nuevo para la prestación del mismo servicio, el anterior contratista deberá prolongar su gestión, cuando así se lo requiera la Administración, en los términos y plazos previstos en el artículo 85.
+3. Son causas de resolución del contrato:
+a) La muerte o incapacidad sobrevenida del contratista individual o la extinción de la personalidad jurídica de la sociedad contratista.
+b) La declaración de concurso del contratista o la declaración de insolvencia de éste en cualquier otro procedimiento.
+c) La pérdida por el contratista de la autorización de transporte público de viajeros regulada en esta ley, así como la suspensión de aquélla por las causas señaladas en el artículo 52, si el contratista no acredita haber subsanado el incumplimiento que dio lugar a la suspensión en el plazo que reglamentariamente se determine.
+d) El incumplimiento del plazo de que disponga el contratista, de conformidad con lo reglamentariamente establecido o, en su caso, con lo expresamente señalado en el contrato, para iniciar la prestación del servicio tras la formalización del contrato.
+e) La renuncia unilateral del contratista.
+f) El incumplimiento por el contratista de las condiciones señaladas en los apartados m) o n) del artículo 73.2, o bien el incumplimiento reiterado, en los términos en que reglamentariamente se determine, de las condiciones señaladas en los apartados a) o j) del mismo precepto, así como el de cualquier otra condición o requisito al que expresamente se haya atribuido esa consecuencia en el contrato.
+g) La interrupción injustificada de la prestación del servicio por parte del contratista por el plazo reglamentariamente establecido o señalado en el contrato.
+h) El mutuo acuerdo entre la Administración y el contratista.
+i) El rescate del servicio por la Administración, cuando ésta acuerde gestionarlo directamente por razones de interés general.
+j) La supresión del servicio por razones de interés general.
+k) La imposibilidad de la explotación del servicio como consecuencia de acuerdos adoptados por la Administración contratante con posterioridad al contrato.
+l) Aquellas otras que se establezcan expresamente en el contrato.
+Se modifica por el art. 1.44 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 83
+
+Artículo 83.
+1. La resolución de los contratos de gestión de servicios públicos de transporte regular de viajeros de uso general se acordará por el órgano de contratación, de oficio o a instancia del contratista, mediante el procedimiento que resulte de aplicación de acuerdo con la legislación sobre contratos del sector público.
+2. La declaración de insolvencia en cualquier procedimiento y, en caso de concurso, la apertura de la fase de liquidación, darán siempre lugar a la resolución del contrato.
+La Administración podrá no instar la resolución del contrato en caso de declaración de concurso del contratista cuando entienda que existen perspectivas realistas de saneamiento financiero de éste en un plazo razonable, siempre que no se haya abierto la fase de liquidación ni concurra la causa de resolución señalada en el apartado c) del artículo 82.3.
+3. Los supuestos previstos en los apartados c), d), e), i), j) y k) del punto 3 del artículo anterior originarán siempre la resolución del contrato.
+4. En los casos de muerte o incapacidad sobrevenida del contratista individual, la Administración podrá acordar la continuación del contrato con sus herederos o sucesores, siempre que éstos cumplan, o se comprometan a cumplir en el plazo que reglamentariamente se determine, los requisitos exigidos al contratista inicial.
+No se considerará extinguida la personalidad de la sociedad contratista cuando cambie simplemente su forma jurídica manteniéndose intactas sus obligaciones económicas y laborales.
+5. El contratista que renuncie de forma unilateral a continuar prestando el servicio deberá, no obstante, prolongar su gestión, cuando así se lo requiera la Administración, hasta que haya concluido el procedimiento tendente a la adjudicación de un nuevo contrato para la gestión del servicio, en los términos previstos en el artículo 85.
+6. Cuando se den los supuestos previstos en los apartados f) y g) del punto 3 del artículo anterior, la Administración podrá optar por no acordar la resolución del contrato si en el expediente resulta acreditado que ello podría ser más perjudicial para el interés general que su mantenimiento.
+No obstante, la Administración deberá incoar en dichos supuestos, el procedimiento tendente a la imposición de la sanción que en cada caso corresponda, conforme a lo dispuesto en esta ley.
+7. La resolución por mutuo acuerdo sólo podrá tener lugar cuando no concurra otra causa de resolución imputable al contratista y en el expediente resulte acreditado que, desde el punto de vista del interés general, es innecesario o inconveniente que se siga prestando el servicio.
+Se modifica por el art. 1.45 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 84
+
+Artículo 84.
+1. El acuerdo de resolución de los contratos de gestión de servicios públicos de transporte regular de viajeros de uso general deberá pronunciarse expresamente sobre la procedencia de la pérdida, devolución o cancelación de la fianza constituida por el contratista.
+2. En todo caso, cuando el contrato se resuelva por las causas previstas en los apartados c), d), e), f) y g) del punto 3 del artículo 82 o por cualquier otra imputable al contratista, la Administración se incautará de la fianza constituida por éste, que deberá, además, indemnizar a aquélla por los daños y perjuicios ocasionados en lo que excedan del importe de la garantía incautada.
+Con independencia de lo anterior, la Administración deberá incoar, en tales supuestos, el procedimiento tendente a la imposición de la sanción que en cada caso corresponda conforme a lo dispuesto en esta ley.
+3. Cuando la causa de la resolución del contrato sea la declaración de concurso del contratista, sólo se acordará la pérdida de la fianza cuando el referido concurso haya sido calificado como culpable.
+4. Cuando la resolución se produzca por mutuo acuerdo, los derechos de la Administración y el contratista se acomodarán a lo que éstos estipulen válidamente.
+5. Cuando el contrato se resuelva por las causas previstas en los apartados i), j) o k) del punto 3 del artículo 82, la Administración contratante indemnizará al contratista por los daños y perjuicios que se le irroguen.
+Para determinar la cuantía de la indemnización se tendrán en cuenta los beneficios futuros que el contratista dejará de percibir, atendiendo a los resultados de explotación que él hubiese declarado a la Administración en el último quinquenio o en el período transcurrido desde el inicio de la prestación del servicio, cuando fuese inferior.
+Se modifica por el art. 1.46 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 85
+
+Artículo 85.
+No obstante lo dispuesto en los artículos 72.4 y 73.1, en caso de interrupción de un servicio público de transporte regular de viajeros de uso general o de riesgo inminente de que dicha interrupción se produzca, la Administración podrá adoptar una medida de emergencia en forma de adjudicación directa o de acuerdo formal de prórroga de un contrato de gestión de servicio público o de exigencia de prestar determinadas obligaciones de servicio público.
+El acuerdo en este sentido del órgano contratante de la Administración pondrá fin a la vía administrativa, será inmediatamente ejecutivo y su cumplimiento resultará obligatorio para el contratista.
+La duración del contrato que se adjudique o de la prórroga que se imponga en el supuesto anteriormente previsto no podrá ser superior a dos años.
+Se modifica por el art. 1.47 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 86
+
+Artículo 86.
+Las concesiones administrativas de servicios públicos regulares permanentes de transporte de viajeros por carretera y los vehículos e instalaciones a ellas destinados, no podrán ser objeto de embargo, sin perjuicio de que judicialmente pueda ser intervenida la explotación de las mismas y asignada una parte de la recaudación a la amortización de la deuda, a cuyo efecto se podrá por cuenta y riesgo del acreedor, designar un interventor que compruebe la recaudación obtenida y se haga cargo de la parte que se haya señalado, la cual no podrá exceder del porcentaje o cuantía que reglamentariamente se determine.
+
+### Artículo 87
+
+Artículo 87.
+(Suprimido)
+Se suprime por el art. 1.48 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Téngase en cuenta para las autorizaciones especiales ya otorgadas la disposición transitoria 1.
+
+## Sección segunda
+
+Sección segunda. Transportes regulares temporales y de uso especial
+
+### Artículo 88
+
+Artículo 88.
+(Suprimido)
+Se suprime por el art. 1.48 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Téngase en cuenta para las autorizaciones especiales ya otorgadas la disposición transitoria 1.
+
+### Artículo 89
+
+Artículo 89.
+1. Los transportes regulares de viajeros de uso especial únicamente podrán prestarse cuando se cuente con una autorización especial que habilite para ello, otorgada por la Administración.
+El otorgamiento de dichas autorizaciones se llevará a cabo de conformidad a lo que reglamentariamente se establezca y estará supeditado a que la empresa transportista haya convenido previamente con los usuarios o sus representantes la realización del transporte a través del oportuno contrato o precontrato.
+La autorización sólo podrá ser otorgada a una persona, física o jurídica, que previamente sea titular de la autorización de transporte público de viajeros regulada en el artículo 42.
+Las autorizaciones para la realización de transportes regulares de uso especial se otorgarán por el plazo a que se refiera el contrato con los usuarios, sin perjuicio de que la Administración pueda exigir su visado con una determina periodicidad a fin de constatar el mantenimiento de las condiciones que justificaron su otorgamiento.
+Cuando el transporte sea contratado por alguno de los entes, organismos y entidades que forman parte del sector público, el contrato deberá atenerse, en cuanto no se encuentre expresamente previsto en esta ley y en las normas dictadas para su desarrollo, a las reglas contenidas en la legislación sobre contratos del sector público.
+2. Los transportes a los que se refiere este artículo podrán realizarse, cuando resulten insuficientes los vehículos propios, utilizando los de otros transportistas que cuenten con la autorización de transporte público de viajeros regulada en el artículo 42, de conformidad con lo que reglamentariamente se establezca.
+Se modifica por el art. 1.49 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## CAPÍTULO III
+
+Los transportes públicos discrecionales de viajeros y mercancías
+
+## Sección primera
+
+Sección primera. Disposiciones comunes
+
+### Artículo 90
+
+Artículo 90.
+(Suprimido)
+Se suprime por el art. 1.50 de la Ley 9/2013, de 4 de julio.Ref. BOE-A-2013-7320.
+
+### Artículo 91
+
+Artículo 91.
+1. Las autorizaciones de transporte público habilitarán para realizar servicios en todo el territorio nacional sin limitación alguna por razón del origen o destino del servicio.
+Por excepción, las autorizaciones de transporte de viajeros en vehículos de turismo y las de arrendamiento de vehículos con conductor, que habilitarán exclusivamente para realizar transporte interurbano de viajeros. A estos efectos, se considerará que un transporte es interurbano cuando su recorrido rebase el territorio de un único término municipal o zona de prestación conjunta de servicios de transporte público urbano así definida por el órgano competente para ello.
+2. Los servicios de arrendamiento de vehículos con conductor deberán iniciarse en el territorio de la comunidad autónoma en que se encuentre domiciliada la correspondiente autorización. A tal efecto, se entenderá que el origen o inicio del transporte se produce en el lugar en que son recogidos los pasajeros de forma efectiva.
+Se establecen las siguientes salvedades a esa obligación de inicio en la comunidad autónoma:
+1.º Para los servicios de recogida de viajeros en puertos y aeropuertos que hayan sido previa y expresamente contratados, que podrán ser prestados al amparo de autorizaciones de arrendamiento de vehículos con conductor domiciliadas en comunidades autónomas distintas a aquella en que se ubica el puerto o aeropuerto, siempre que el destino de tales servicios se encuentre en el territorio de la comunidad autónoma en que esté domiciliada la autorización.
+2.º Para los casos en que las autorizaciones de arrendamiento de vehículos con conductor domiciliadas en una comunidad autónoma no basten para atender un aumento coyuntural de la demanda de esta clase de servicios en su territorio. A tal efecto, el órgano competente en materia de transporte interurbano podrá establecer, previo informe de los municipios afectados, un régimen específico que permita a los vehículos amparados en autorizaciones de arrendamiento con conductor domiciliadas en otras comunidades autónomas realizar temporalmente servicios con origen en todo su territorio o en determinados puntos de éste.
+Téngase en cuenta, para esta última modificación efectuada por el art. único del Real Decreto-ley 13/2018, de 28 de septiembre. Ref. BOE-A-2018-13179, lo dispuesto en la disposición transitoria única del citado para las autorizaciones existentes a la fecha de su entrada en vigor o cuyas solicitudes estuvieran pendientes de resolverse.
+Se modifica por el art. único del Real Decreto-ley 13/2018, de 28 de septiembre. Ref. BOE-A-2018-13179
+ Téngase en cuenta, para las autorizaciones existentes a la entrada en vigor de este Real Decreto-ley o cuyas solicitudes estuvieran pendientes de resolverse, lo dispuesto en su disposición transitoria única.
+ Se añade el apartado 2 por el art. único.3 del Real Decreto-ley 3/2018, de 20 de abril. Ref. BOE-A-2018-5451
+ Se modifica por el art. 1.51 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica por el art. 21.3 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 92
+
+Artículo 92.
+(Suprimido)
+Se suprime por el art. 1.52 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 93
+
+Artículo 93.
+(Suprimido)
+Se suprime por el art. 1.52 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 94
+
+Artículo 94.
+1. La actuación de los titulares de licencias o autorizaciones de transporte público en relación con la prestación de servicios de carácter discrecional se regirá por el principio de libertad de contratación.
+2. No obstante lo anterior, en aquellos supuestos, individuales o generales, de absentismo empresarial, que puedan implicar trastornos importantes para el interés público, la Administración podrá establecer un régimen de servicios mínimos de carácter obligatorio.
+Se modifica el apartado 1 por el art. 1.53 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 95
+
+Artículo 95.
+1. Durante la realización de transportes por carretera deberán respetarse los límites legal o reglamentariamente establecidos con carácter general en relación con la masa máxima de lo vehículos, así como los específicamente señalados para el vehículo utilizado en su permiso de circulación y demás documentación en que se ampare para circular.
+2. Durante la realización de transportes por carretera deberán respetarse los límites legal o reglamentariamente establecidos en relación con los tiempos de conducción y descanso de los conductores que, en su caso, resulten de aplicación.
+Se modifica por el art. 1.54 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 96
+
+Artículo 96.
+(Suprimido)
+Se suprime por el art. 1.55 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 97
+
+Artículo 97.
+(Suprimido)
+Se suprime por el art. 1.55 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## Sección segunda
+
+Sección segunda. Disposiciones específicas sobre el transporte discrecional de mercancias
+
+### Artículo 98
+
+Artículo 98.
+1. La autorización de transporte público de mercancías habilita para realizar transportes de esta clase, en las condiciones señaladas en el artículo 54.
+Asimismo, habilitará para intermediar en la contratación de esta clase de transportes cuando se den las circunstancias previstas en los apartados a) y b) del artículo 119.1.
+2. Durante la realización de transportes de mercancías, únicamente podrán ocupar el vehículo personas distintas a su conductor y tripulación cuando así lo posibilite el correspondiente permiso de circulación y su transporte no dé lugar a retribución alguna a favor del transportista.
+Se modifica por el art. 1.56 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## Sección tercera
+
+Sección tercera. Disposiciones específicas sobre el transporte discrecional de viajeros
+
+### Artículo 99
+
+Artículo 99.
+1. La autorización de transporte público de viajeros habilita tanto para realizar transportes de esta clase, en las condiciones señaladas en el artículo 54, como para intermediar en su contratación.
+No obstante, los titulares de dicha autorización únicamente podrán prestar alguna de las formas de transporte regular de viajeros definidas en esta ley cuando se cumplan las condiciones legal y reglamentariamente señaladas para ello.
+2. En todo caso, la autorización habilita para transportar el equipaje de los viajeros que ocupen el vehículo utilizado.
+Asimismo, los vehículos amparados en una autorización de transporte de viajeros podrán transportar, conforme a lo que reglamentariamente se determine, objetos o encargos distintos de los equipajes de los viajeros, cuando su transporte resulte compatible con las características del vehículo y no implique molestias o inconvenientes injustificados para los viajeros.
+3. Los transportes discrecionales de viajeros deberán ser contratados, como regla general, por toda la capacidad del vehículo utilizado.
+No obstante lo anterior, reglamentariamente podrán determinarse supuestos excepcionales en que, por razones de la adecuada ordenación del sistema de transportes, pueda admitirse su contratación por plaza con pago individual.
+4. Fuera de los supuestos de colaboración previstos en esta ley, únicamente podrán arrendarse con conductor los vehículos de turismo.
+El arrendamiento de vehículos de turismo con conductor constituye una modalidad de transporte de viajeros y su ejercicio estará condicionado a la obtención de la correspondiente autorización, de conformidad con lo dispuesto en los artículos 42, 43.1, en este artículo y en lo que reglamentariamente se establezca con carácter específico en relación con dicha modalidad de transporte.
+A efectos de lo dispuesto en la letra d) del citado artículo 43.1, las empresas dedicadas a la actividad de arrendamiento con conductor habrán de disponer en todo momento de un vehículo matriculado en España adscrito a la autorización en propiedad, arrendamiento financiero o arrendamiento a largo plazo de conformidad con lo dispuesto en la normativa de tráfico y circulación de vehículos a motor, salvo en los supuestos de sustitución provisional del vehículo por avería, en los que podrá utilizarse un vehículo en arrendamiento ordinario de conformidad con lo establecido reglamentariamente.
+Cuando la Administración constate el incumplimiento del requisito del artículo 43.1.d), en relación con la no vinculación de un vehículo a la autorización, deberá notificarlo al interesado comunicándole un plazo de dos meses para subsanarlo transcurrido el cual la autorización perderá definitivamente su validez, conforme a lo dispuesto en esta ley, sin que sea de aplicación lo previsto el artículo 51.2.
+5. El otorgamiento de las autorizaciones de arrendamiento de vehículos con conductor estará condicionado al cumplimiento de criterios medioambientales sobre mejora de la calidad del aire y reducción de emisiones de CO2, así como de gestión del transporte, del tráfico y del espacio público de la comunidad autónoma en que pretenda domiciliarse la autorización, de conformidad con las siguientes especificaciones:
+a) La autorización será denegada si, en el momento del otorgamiento, se supera el valor límite anual de NO2 o PM2,5 o el valor objetivo o valor objetivo a largo plazo del O3, regulados en la normativa de mejora de la calidad del aire, en alguna zona o aglomeración incluida en la comunidad autónoma en la que pretenda domiciliarse la autorización, de conformidad con el último informe publicado por el Ministerio de Transición Ecológica y el Reto Demográfico.
+No obstante, las comunidades autónomas podrán establecer, para las autorizaciones que se domicilien en su territorio, otros criterios de mejora de la calidad del aire en el marco de lo previsto en el Derecho comunitario o en las directrices de la Organización Mundial de la Salud.
+Estos requisitos no se aplicarán en los supuestos en los que el vehículo sea eléctrico cero emisiones de batería (BEV), de célula de combustible (FCEV) o de combustión de hidrógeno (HICEV), en cuyo caso la autorización únicamente habilitará a efectuar servicios de arrendamiento con conductor si el vehículo adscrito a la misma está incluido en alguna de estas categorías.
+b) Asimismo, la autorización podrá ser denegada por aplicación de criterios objetivos relativos a la reducción de emisiones CO2, gestión del transporte, del tráfico y del espacio público, establecidos para su ámbito territorial por las comunidades autónomas en que pretenda domiciliarse la autorización.
+En relación con la gestión del tráfico, deberá utilizarse un criterio objetivo de congestión viaria que podrá estar basado en un indicador que refleje la diferencia entre la velocidad media en condiciones de flujo libre y la velocidad registrada en distintos momentos del día u otros criterios que se puedan establecer por la comunidad autónoma.
+6. Con objeto de garantizar el cumplimiento de lo dispuesto en los apartados anteriores en su ámbito territorial, las comunidades autónomas competentes para el otorgamiento de la autorización podrán, previa motivación y, de forma proporcionada y justificada, limitar cada solicitud a un número máximo de autorizaciones de arrendamiento con conductor.
+7. Reglamentariamente podrán establecerse otros criterios objetivos, amparados en razones imperiosas de interés general, determinantes del otorgamiento de la autorización.
+Se modifica el apartado 4 y se añaden los apartados 5 a 7 por el art. 149.1 y 2 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a1-61
+ Téngase en cuenta para su aplicación a las autorizaciones con procedimientos pendientes, o suspendidas por desadscripción del vehículo, las disposiciones transitorias quinta y sexta del citado Real Decreto-ley.
+ Se modifica por el art. 1.57 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## CAPÍTULO IV
+
+Los transportes privados
+
+### Artículo 100
+
+Artículo 100.
+Los transportes privados pueden revestir las dos siguientes modalidades:
+a) Transportes privados particulares.
+b) Transportes privados complementarios.
+
+### Artículo 101
+
+Artículo 101.
+1. Se consideran transportes privados particulares los que cumplen conjuntamente los dos siguientes requisitos:
+a) Estar dedicados a satisfacer las necesidades de desplazamiento de carácter personal o doméstico del titular del vehículo y sus allegados.
+En ningún caso, salvo el supuesto de percepción de dietas o gastos de desplazamiento para su titular, el transporte particular puede dar lugar a remuneraciones dinerarias directas o indirectas.
+b) Realizarse en vehículos cuyo número de plazas, o capacidad de carga, no exceda de los límites que reglamentariamente se establezcan.
+2. Los transportes privados particulares no están sujetos a autorización administrativa, y la actuación ordenadora de la Administración únicamente les será aplicable en relación con las normas que regulen la utilización de infraestructuras abiertas y las aplicables por razón de la seguridad en su realización. Podrán darse, en su caso, asimismo, sobre dicho tipo de transportes, las actuaciones públicas previstas en el artículo 14.
+
+### Artículo 102
+
+Artículo 102.
+1. Son transportes privados complementarios los que llevan a cabo empresas u otras entidades cuyo objeto no es transportar, como complemento necesario o adecuado para el correcto desarrollo de su actividad principal.
+2. Los transportes privados complementarios deberán cumplir conjuntamente las siguientes condiciones:
+a) Si se trata de transporte de mercancías, éstas deberán pertenecer a la empresa o haber sido vendidas, compradas, dadas o tomadas en alquiler, producidas, extraídas, transformadas o reparadas por ella, constituyendo dicha venta, compra, alquiler, producción, extracción, transformación o reparación parte integrante de la actividad económica principal de la empresa.
+Si se trata de transporte de viajeros, los usuarios deben ser trabajadores adscritos a uno de los centros de la empresa u otras personas que asistan a éstos, debiendo cumplirse en este segundo caso las reglas que al efecto se determinen reglamentariamente.
+b) El origen o el destino del transporte deberá ser uno de los lugares en que la empresa desarrolle trabajos relacionados con su actividad principal.
+c) Los vehículos utilizados deberán hallarse integrados en la organización de la empresa en idénticos términos a los previstos en el artículo 54.2. En este caso, también los remolques y semirremolques utilizados habrán de hallarse integrados en la organización de la empresa a título de propiedad, arrendamiento financiero o arrendamiento ordinario.
+d) Los conductores de los vehículos deberán hallarse integrados en la organización de la empresa y contar con las habilitaciones que, en su caso, resulten pertinentes, en idénticos términos a los previstos en el artículo 54.3.
+e) El transporte no podrá ser contratado ni facturado de forma independiente. En su caso, su coste deberá incorporarse al precio final del producto o servicio que constituya la actividad principal de la empresa antes de aplicar el Impuesto sobre el Valor Añadido.
+3. Cuando no se cumplan las condiciones señaladas en el punto anterior, el transporte quedará sujeto al régimen jurídico del transporte público.
+Con objeto de comprobar su cumplimiento, durante la realización del transporte deberá llevarse a bordo del vehículo documentación suficiente para acreditar las condiciones señaladas en los apartados a), c) y d) del punto anterior.
+Se modifica por el art. 1.58 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 103
+
+Artículo 103.
+1. La realización de transportes privados complementarios estará supeditada a la posesión de una autorización que habilite para ello, expedida por el órgano competente de la Administración General del Estado o, en su caso, por el de aquella comunidad autónoma en que se domicilie la autorización, cuando esta facultad le haya sido delegada por el Estado.
+Como regla general, las autorizaciones de transporte privado complementario deberán domiciliarse en el lugar en que su titular tenga su domicilio fiscal.
+No obstante, las autorizaciones podrán domiciliarse en un lugar distinto, cuando su titular acredite que dispone en éste de unos locales o instalaciones en los que realiza la parte de su actividad principal en relación con la que resulta preciso el transporte complementario.
+2. No obstante lo dispuesto en el punto anterior, no será necesaria la previa obtención de autorización para realizar las siguientes modalidades de transporte:
+a) Transporte que presente idénticas características a las señaladas en el artículo 42.2.
+b) Transportes privados particulares definidos en el artículo 101.
+c) Transportes oficiales definidos en el artículo 105.
+d) Transporte de viajeros en vehículos de turismo, salvo que se trate de transporte sanitario.
+e) Transporte de mercancías en vehículos cuya masa máxima autorizada no supere las 3,5 toneladas.
+f) Transporte funerario, que podrá realizarse libremente en todo el territorio nacional por prestadores de servicios funerarios, con independencia de su origen o recorrido.
+Además, podrá exonerarse reglamentariamente de la obligación de contar con autorización a quienes realicen exclusivamente otras formas de transporte privado que tengan una escasa influencia en el sistema, en razón de la naturaleza de la mercancía transportada o de las cortas distancias recorridas.
+3. La exención de la obligación de estar en posesión de autorización de transporte en los casos señalados en este artículo no exime a quienes realicen los transportes afectados del cumplimiento del resto de las exigencias contenidas en esta ley y en las normas dictadas para su desarrollo, en los términos en que les resulten de aplicación, ni de obtener los permisos, licencias o habilitaciones que, en su caso, procedan de conformidad con la legislación sobre seguridad, sanidad o tráfico, circulación de vehículos a motor y seguridad vial.
+Se modifica por el art. 1.59 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 104
+
+Artículo 104.
+1. Para el otorgamiento de las autorizaciones previstas en el artículo anterior, se exigirá la previa justificación de la necesidad de realizar el transporte que los mismos han de amparar, para el adecuado desarrollo de las actividades de la empresa o establecimiento de que se trate. La Administración denegará la autorización si existe una desproporción manifiesta entre la carga útil o el número de plazas de los vehículos para los que se solicita el transporte y las necesidades acreditadas por el solicitante.
+2. Serán de aplicación a las autorizaciones de transporte privado complementario idénticas reglas a las señaladas en los artículos 51 y 52, en relación, en este caso, con el cumplimiento de los requisitos señalados en el punto anterior y en el artículo 102.
+Se modifica el apartado 2 por el art. 1.60 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 105
+
+Artículo 105.
+1. Los transportes oficiales que realicen los órganos de la Administración, como actividades integradas dentro de las de su propio funcionamiento interno, siempre que vayan dirigidos a solucionar las necesidades de desplazamiento de personas o mercancías que la actividad administrativa de dichos órganos ocasione tendrán la consideración de servicios privados complementarios, pero no estarán sujetos a la autorización prevista en los artículos anteriores, siendo aplicables respecto al control de los mismos las normas internas de organización administrativa que les afecten, sin perjuicio de su sometimiento a las normas de transporte que les sean aplicables.
+2. Los transportes que realicen las empresas públicas sometidas en su actuación al derecho privado deberán cumplir, en todo caso, las prescripciones generales de esta Ley.
+
+## CAPÍTULO V
+
+El transporte internacional
+
+### Artículo 106
+
+Artículo 106.
+La realización de servicios de transporte internacional que discurran parcialmente por territorio español utilizando vehículos que no se hayan matriculado en España se regirá por lo dispuesto en los convenios internacionales y las disposiciones aprobadas por las organizaciones internacionales de las que España forma parte que en cada caso resulten de aplicación.
+Se modifica por el art. 1.61 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 107
+
+Artículo 107.
+La realización de transportes cuyo origen y destino se encuentren en territorio español utilizando vehículos que no estén matriculados en España únicamente será posible en la medida en que se cumpla lo dispuesto acerca de los transportes de cabotaje en la reglamentación de la Unión Europea sobre acceso al mercado de transporte internacional de mercancías y al mercado internacional de los servicios de autocares y autobuses, o bien se encuentre expresamente prevista en un convenio internacional suscrito por España.
+Se modifica por el art. 1.62 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 108
+
+Artículo 108.
+Las empresas establecidas en España únicamente podrán optar a la obtención de títulos habilitantes para realizar transporte internacional cuyo otorgamiento corresponda al Estado español, incluida la licencia comunitaria, cuando previamente sean titulares de la autorización de transporte regulada en esta ley que corresponda en cada caso.
+La realización de los tramos parciales de un transporte internacional que discurran dentro de territorio español utilizando vehículos matriculados en España deberá encontrarse amparada, en todo caso, por la autorización de transporte regulada en esta ley que corresponda, sin perjuicio de la preceptiva obtención del título que, en cada caso, habilite para la realización completa del transporte de que se trate.
+Se modifica por el art. 1.63 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 109
+
+Artículo 109.
+(Suprimido)
+Se suprime por el art. 1.64 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## CAPÍTULO VI
+
+Los transportes turísticos
+
+### Artículo 110
+
+Artículo 110.
+A efectos de esta ley, tendrán la consideración de transportes turísticos los que se realicen en el marco de la ejecución de un viaje combinado ofertado y contratado de conformidad con lo que se encuentre establecido en la legislación sobre defensa de los consumidores y usuarios en relación con esta clase de viajes.
+Asimismo, tendrán la consideración de transporte turístico aquellos otros que, sin tener una duración superior a las 24 horas y sin incluir una pernoctación, se oferten a través de agencias de viajes, u otros intermediarios reconocidos por la legislación específica de turismo, y se presten conjuntamente con otros servicios complementarios de naturaleza turística, tales como los de manutención, guía turístico o similar.
+Se modifica por el art. 1.65 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 111
+
+Artículo 111.
+Cuando alguno de los desplazamientos contemplados en una oferta de viaje combinado implique la utilización de un servicio público de transporte regular de viajeros por carretera de uso general, dicha oferta no podrá modificar las condiciones de prestación del transporte señaladas en el contrato de gestión de servicio público a cuyo amparo se realice.
+En relación con los demás supuestos, podrá establecerse reglamentariamente un régimen especial que armonice las reglas generales de aplicación al transporte discrecional con las especiales características que presenta la prestación del conjunto de servicios que integran un viaje combinado.
+Se modifica por el art. 1.66 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 112
+
+Artículo 112.
+1. La Administración podrá exigir que los transportes turísticos se presten conjuntamente con determinados servicios complementarios concretos de carácter mínimo, así como que el precio del transporte no exceda del porcentaje que se determine del precio total del conjunto de los servicios que se contraten.
+2. Cuando los transportes turísticos sean sustancialmente coincidentes con servicios regulares de transporte de viajeros de uso general, el precio de los mismos y de los correspondientes servicios complementarios deberá ser superior, en el porcentaje que reglamentariamente se establezca, al del transporte realizado en la línea regular de que se trate. Esto, no obstante, la Administración podrá exceptuar del cumplimiento de dicho requisito a aquellos transportes turísticos en los que en razón de la homogeneidad de los viajeros, el carácter coyuntural o esporádico del transporte, y otras circunstancias específicas, aparezca suficientemente demostrado que no se realiza una competencia injustificada, que resulte lesiva para los intereses de la correspondiente línea regular coincidente.
+
+## CAPÍTULO VII
+
+Los transporte urbanos
+
+### Artículo 113
+
+Artículo 113.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 118/1996, de 27 de junio. Ref. BOE-T-1996-17381
+
+### Artículo 114
+
+Artículo 114.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 118/1996, de 27 de junio. Ref. BOE-T-1996-17381
+
+### Artículo 115
+
+Artículo 115.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 118/1996, de 27 de junio. Ref. BOE-T-1996-17381
+
+### Artículo 116
+
+Artículo 116.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 118/1996, de 27 de junio. Ref. BOE-T-1996-17381
+
+### Artículo 117
+
+Artículo 117.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 118/1996, de 27 de junio. Ref. BOE-T-1996-17381
+
+### Artículo 118
+
+Artículo 118.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 118/1996, de 27 de junio. Ref. BOE-T-1996-17381
+
+## TÍTULO IV
+
+Actividades auxiliares y complementarias del transporte por carretera
+
+## CAPÍTULO I
+
+Actividades de mediación
+
+### Artículo 119
+
+Artículo 119.
+1. Quienes pretendan intermediar en la contratación de transportes de mercancías por carretera, ya sea en concepto de agencia de transporte, transitario, almacenista-distribuidor, operador logístico o cualquier otro, deberán obtener una autorización de operador de transporte.
+No obstante, no estarán obligados a obtener dicha autorización para intermediar en la contratación de transporte de mercancías:
+a) Los titulares de autorizaciones de transporte público de mercancías que hubiesen acreditado para su obtención requisitos que, considerados en conjunto conforme a lo que reglamentariamente se determine, resulten iguales o superiores a los exigidos para la obtención de la autorización de operador de transporte.
+b) Los titulares de autorizaciones de transporte público de mercancías que se limiten a utilizar la colaboración de otros transportistas para atender demandas de porte que excedan coyunturalmente de su propia capacidad de transporte, en los términos que reglamentariamente se determinen.
+c) Las cooperativas de transportistas y sociedades de comercialización, en tanto que su intermediación se limite a la comercialización de los transportes prestados por aquellos de sus socios que sean titulares de autorización de transporte de mercancías.
+2. El otorgamiento de la autorización de operador de transporte estará condicionada a que se acredite el cumplimiento de análogos requisitos a los exigidos para la de transporte público de mercancías, con las adaptaciones que reglamentariamente se determinen en atención a la naturaleza de la actividad a que esté referida.
+Asimismo serán de aplicación a esta autorización similares reglas a las establecidas en relación con la vigencia y visado de las autorizaciones de transporte público de mercancías.
+3. La autorización de operador de transporte habilitará a sus titulares para intermediar en la contratación de transportes tanto interiores como internacionales.
+Los titulares de la autorización de operador de transporte deberán contratar en nombre propio tanto con el demandante del servicio como con el transportista que vaya a realizarlo.
+Las condiciones señaladas en este punto serán de aplicación también a la intermediación que, en su caso, lleven a cabo los titulares de autorizaciones de transporte y las cooperativas y sociedades de comercialización a que hace referencia el punto 1.
+Se modifica por el art. 1.67 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 120
+
+Artículo 120.
+A los efectos de esta ley, se considera agencias de transporte a las empresas especializadas en intermediar en la contratación de transportes de mercancías, como organización auxiliar interpuesta entre los usuarios y los transportistas.
+En el ejercicio de su actividad las agencias podrán desarrollar todas las actuaciones previas de gestión, información, oferta y organización de cargas y servicios necesarias para llevar a cabo la contratación de los transportes.
+Se modifica por el art. 1.68 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 121
+
+Artículo 121.
+A los efectos de esta ley, se considera transitarios a las empresas especializadas en organizar, por cuenta ajena, transportes internacionales de mercancías, recibiendo mercancías como consignatarios o entregándolas a quienes hayan de transportarlas y, en su caso, realizando las gestiones administrativas, fiscales, aduaneras y logísticas inherentes a esa clase de transportes o intermediando en su contratación.
+Se modifica por el art. 1.69 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 122
+
+Artículo 122.
+A los efectos de esta ley, se considera operadores logísticos a las empresas especializadas en organizar, gestionar y controlar, por cuenta ajena, las operaciones de aprovisionamiento, transporte, almacenaje o distribución de mercancías que precisan sus clientes en el desarrollo de su actividad empresarial.
+En el ejercicio de su función, el operador logístico podrá utilizar infraestructuras, tecnología y medios propios o ajenos.
+Se modifica por el art. 1.70 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 123
+
+Artículo 123.
+A los efectos de esta ley, se considera almacenistas-distribuidores a las empresas especializadas en actuar como depositarias de mercancías ajenas que, además, se encarguen de distribuirlas o de gestionar su distribución, conforme a las instrucciones recibidas del depositante.
+En el ejercicio de su función, el almacenista-distribuidor podrá desarrollar otras tareas tales como consolidación o ruptura de cargas, gestión de existencias u otras que resulten preparatorias o complementarias del transporte y distribución de las mercancías almacenadas.
+Se modifica por el art. 1.71 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica el apartado 1 por el art. 21. 4 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+## CAPÍTULO II
+
+Centros de información y distribución de cargas
+
+### Artículo 124
+
+Artículo 124.
+(Sin contenido)
+Se deja sin contenido por el art. 21.5 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se declara que no es aplicable en Cataluña por Sentencia del TC 118/1996, de 27 de junio. Ref. BOE-T-1996-17381
+
+## CAPÍTULO III
+
+Almacenistas-distribuidores
+
+### Artículo 125
+
+Artículo 125.
+(Suprimido)
+Se suprime por el art. 1.72 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## CAPÍTULO IV
+
+Transitarios
+
+### Artículo 126
+
+Artículo 126.
+(Suprimido)
+Se suprime por el art. 1.72 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## CAPÍTULO V
+
+Estaciones de transporte por carretera
+
+### Artículo 127
+
+Artículo 127.
+1. Las estaciones de transporte de viajeros tienen por objeto concentrar las salidas, llegadas y tránsitos a las poblaciones de los vehículos de transporte público, prestando o facilitando el desarrollo de servicios preparatorios y complementarios del transporte a usuarios y transportistas.
+2. Los centros de transporte y logística de mercancías acogen en su recinto un conjunto de servicios e instalaciones destinadas a facilitar el desarrollo de actividades de transporte, logística y distribución de mercancías, integrándolo con el de otras preparatorias o complementarias de aquéllas.
+3. Las estaciones de transporte de viajeros y los centros de transporte y logística de mercancías sólo alcanzarán dicha consideración cuando sean gestionados por una única persona o entidad, pública o privada, y reúnan las condiciones y requisitos establecidos reglamentariamente.
+En ningún caso se atribuirá la consideración de estación o centro a terrenos o instalaciones destinados únicamente a garaje o estacionamiento de vehículos. Tampoco tendrán esta consideración los terrenos en que se ubiquen diversas empresas transportistas o de actividades auxiliares y complementarias del transporte o que realicen actividades anexas a las de éstas, por el solo hecho de su proximidad, si las instalaciones, equipamientos y servicios comunes no son objeto de una gestión unificada bajo la dirección de una única entidad.
+Se modifica por el art. 1.73 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 128
+
+Artículo 128.
+El establecimiento de estaciones y centros de transporte estará sujeto al cumplimiento de las condiciones que, por razones de índole urbanística, fiscal, social y laboral o de seguridad ciudadana o vial, vengan impuestas, al efecto, por la legislación reguladora de tales materias.
+Se modifica por el art. 21.6 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 129
+
+Artículo 129.
+(Sin contenido)
+Se deja sin contenido por el art. 21.7 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 130
+
+Artículo 130.
+(Sin contenido)
+Se deja sin contenido por el art. 21.7 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 131
+
+Artículo 131.
+(Sin contenido)
+Se deja sin contenido por el art. 21.7 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 132
+
+Artículo 132.
+(Sin contenido)
+Se deja sin contenido por el art. 21.7 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+## CAPÍTULO VI
+
+Arrendamiento de vehículos
+
+### Artículo 133
+
+Artículo 133.
+1. La actividad de arrendamiento de vehículos sin conductor podrá ser realizada libremente por todas aquellas empresas que cumplan las obligaciones que, por razones de índole fiscal, social y laboral o de seguridad ciudadana o vial, les vengan impuestas por la legislación reguladora de tales materias.
+La actividad consistente en la utilización concatenada e intensiva de un vehículo alquilado sin conductor por un número indeterminado de personas usuarias dentro de una zona de servicio determinada, estando disponible para ser utilizado mediante el empleo de aplicaciones móviles, constituye una modalidad de arrendamiento sin conductor.
+2. Fuera de los supuestos de colaboración previstos en esta ley, los titulares de autorizaciones de transporte únicamente podrán desarrollar su actividad mediante vehículos cedidos o arrendados por otros, cuando dichos vehículos se encuentren exclusivamente dedicados al arrendamiento sin conductor por su titular, que deberá ser una empresa profesionalmente dedicada a esta actividad.
+Se modifica por la disposición final 4.10 de la Ley 9/2025, de 3 de diciembre. Ref. BOE-A-2025-24545#df-4
+ Se modifica por el art. 21.8 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 134
+
+Artículo 134.
+(Suprimido)
+Se suprime por el art. 1.75 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica por el art. 21.9 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 135
+
+Artículo 135.
+(Sin contenido)
+Se deja sin contenido por el art. 21.10 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 136
+
+Artículo 136.
+(Sin contenido)
+Se deja sin contenido por el art. 21.10 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+### Artículo 137
+
+Artículo 137.
+1. Salvo en los casos expresamente exceptuados en esta Ley y en sus normas de desarrollo, el arrendamiento de vehículos deber hacerse sin los servicios del conductor, y sin que quepa contratar los servicios del mismo con la empresa arrendadora.
+2. Reglamentariamente podrán establecerse condiciones relacionadas con la documentación acreditativa del arrendamiento de vehículos sin conductor, a efectos de garantizar la existencia del contrato, su plazo de duración y otras circunstancias que determinen la legitimidad del uso del vehículo por el arrendatario.
+Se modifica el apartado 2 por el art. 1.75 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## TÍTULO V
+
+Régimen sancionador y de control de los transportes terrestres, y de sus actividades auxiliares y complementarias
+Se modifica por el art. 2 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+## CAPÍTULO I
+
+Régimen sancionador
+Se modifica por el art. 2 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+### Artículo 138
+
+Artículo 138.
+1. La responsabilidad administrativa por las infracciones de las normas reguladoras de los transportes terrestres y de sus actividades auxiliares y complementarias corresponderá:
+a) En las infracciones cometidas con ocasión de la realización de transportes o actividades sujetos a concesión o autorización administrativa, a la persona física o jurídica titular de la concesión o de la autorización.
+b) En las infracciones cometidas con ocasión de la realización de transportes o actividades auxiliares o complementarias de éstos llevados a cabo sin la cobertura del preceptivo título administrativo habilitante, o cuya realización se encuentre exenta de la obtención de éste, a la persona física o jurídica propietaria o arrendataria del vehículo o titular de la actividad.
+A los efectos previstos en este apartado, se considera titular del transporte o actividad clandestina de que se trate a la persona física o jurídica que materialmente la lleve a cabo en nombre propio, la organice o asuma la correspondiente responsabilidad empresarial, así como a todo aquel que no siendo personal asalariado o dependiente colabore en la realización de dicho transporte o actividad.
+c) En las infracciones cometidas por remitentes o cargadores, expedidores, consignatarios o destinatarios, usuarios, y, en general, por terceros que, sin estar comprendidos en los anteriores apartados, realicen actividades que se vean afectadas por la legislación reguladora de los transportes terrestres, a la persona física o jurídica a la que vaya dirigido el precepto infringido o a la que las normas correspondientes atribuyan específicamente la responsabilidad.
+2. La responsabilidad administrativa se exigirá a las personas físicas o jurídicas a que se refiere el apartado 1, independientemente de que las acciones u omisiones de las que dicha responsabilidad derive hayan sido materialmente realizadas por ellas o por el personal de su empresa, sin perjuicio de que puedan deducir las acciones que a su juicio resulten procedentes contra las personas a las que sean materialmente imputables las infracciones.
+3. Tendrán la consideración de infracciones independientes aquellas que se cometan en relación con distintas expediciones de transporte, aun cuando los hechos infrinjan los mismos o semejantes preceptos.
+No obstante, tratándose de expediciones de servicios de transporte regular, ya sea éste de uso general o especial, cuando los hechos constitutivos de la infracción guarden relación directa con la actividad administrativa que se desarrolla en las oficinas de la empresa o con el vehículo utilizado y resulte acreditado que no podían ser corregidos hasta el regreso de aquél a la sede empresarial de la que inicialmente partió, tales hechos se considerarán constitutivos de una sola infracción, aun cuando hubieran continuado teniendo lugar durante las distintas expediciones parciales realizadas entre tanto.
+4. No obstante lo dispuesto en los puntos 1 y 2 de este artículo, las personas a que se hace referencia en ellos no responderán de las infracciones cometidas en relación con los tiempos de conducción y descanso de los conductores o con la manipulación, falseamiento, o uso indebido del tacógrafo, cuando acrediten que los hechos que las determinaron constituían una falta muy grave de indisciplina o desobediencia cometida por uno de sus conductores que dio lugar a que éste fuera objeto de una de las sanciones que las disposiciones legales o el convenio colectivo aplicable aparejan a esta clase de faltas, siempre que dicha sanción haya sido declarada procedente mediante sentencia firme o no haya sido objeto de reclamación judicial por parte del trabajador en el plazo previsto para ello.
+No se tendrá en cuenta esta exención cuando la sanción disciplinaria al conductor implicado no fuera más allá de la postergación o inhabilitación para ascensos en la empresa.
+Se añade el apartado 4 por el art. 1.76 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica por el art. 2 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+### Artículo 139
+
+Artículo 139.
+Constituyen infracciones administrativas de las normas reguladoras del transporte terrestre las acciones u omisiones de los distintos sujetos responsables tipificadas y sancionadas de conformidad con la presente ley.
+Las infracciones de las normas reguladoras del transporte terrestre se clasifican en muy graves, graves y leves.
+Se modifica por el art. 2 de la Ley 29/18681, de 8 de octubre. Ref. BOE-A-2003-18681
+
+### Artículo 140
+
+Artículo 140.
+Se reputarán infracciones muy graves:
+1. La realización de transportes públicos careciendo del título habilitante que, en su caso, resulte preceptivo para su prestación de conformidad con lo dispuesto en esta ley y en las normas dictadas para su ejecución y desarrollo.
+Cuando la realización del transporte de que se trate requiriese disponer de más de un título habilitante, resultará constitutiva de esta infracción la carencia de cualquiera de ellos, aunque se disponga de los demás.
+No se apreciará la infracción tipificada en este punto cuando los hechos deban reputarse infracción leve de conformidad con lo dispuesto en el artículo 142.1.
+2. La contratación como porteador o la facturación en nombre propio de servicios de transporte sin ser previamente titular de autorización de transporte o de operador de transporte.
+En todo caso, incurrirán en esta infracción quienes, aún siendo integrantes de una persona jurídica titular de una autorización de transporte o de operador de transporte, contraten o facturen en nombre propio la prestación de servicios de transporte a terceros o a la propia persona jurídica de la que formen parte sin ser ellos mismos, a su vez, titulares de tal autorización.
+No se apreciará la infracción tipificada en este punto cuando los hechos deban reputarse infracción leve de conformidad con lo dispuesto en el artículo 142.1.
+3. El arrendamiento de un vehículo cuando vaya acompañado por la prestación de servicios de conducción o cualquier otra forma de cesión del uso de un vehículo cuyo titular preste servicios de conducción al cesionario.
+Incurrirán en esta infracción tanto el arrendador o cedente como el arrendatario o cesionario.
+No se producirá esta infracción cuando el arrendador o cedente sea titular de la autorización de transporte que en cada caso corresponda.
+4. La cesión, expresa o tácita, de títulos habilitantes por parte de sus titulares a favor de otras personas.
+5. La organización o establecimiento de un transporte regular de viajeros de uso general sin haber sido contratado por la Administración competente para gestionar un servicio público de esas características, con independencia de que los medios utilizados sean propios o ajenos.
+6. La venta individualizada de las plazas de un transporte de viajeros, así como la prestación o venta de servicios integrados en una serie de expediciones que atiendan, de forma reiterada, tráficos preestablecidos, cuando no se posea otra habilitación que la autorización de transporte regulada en el artículo 42.
+En esta misma infracción incurrirán quienes presten servicios turísticos incumpliendo las condiciones legalmente señaladas para ello.
+7. La falsificación de alguno de los títulos que habiliten para el ejercicio de las actividades y profesiones reguladas en esta ley y en las normas dictadas para su ejecución y desarrollo o de alguno de los datos que deban constar en aquéllos.
+La responsabilidad por dicha infracción corresponderá tanto a las personas que hubiesen falsificado el título, o colaborado en su falsificación o comercialización a sabiendas del carácter ilícito de su actuación, como a las que lo hubiesen utilizado para encubrir la realización de transportes o actividades no autorizados.
+8. El falseamiento de los documentos que hayan de ser aportados como requisito para la obtención de cualquier título, certificación o documento que haya de ser expedido por la Administración a favor del solicitante o de cualquiera de los datos que deban constar en aquéllos.
+9. El falseamiento de cualesquiera documentos contables, estadísticos o de control que la empresa se encuentre obligada a llevar o de los datos obrantes en los mismos.
+10. La manipulación del tacógrafo, del limitador de velocidad o de alguno de sus elementos, así como la de otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo, con objeto de alterar su funcionamiento o modificar sus mediciones.
+En esta misma infracción incurrirán quienes instalen cualquier clase de elementos mecánicos, electrónicos o de otra naturaleza con la misma finalidad, aunque no se encuentren en funcionamiento en el momento de realizarse la inspección.
+La responsabilidad por esta infracción corresponderá, en todo caso, al transportista que tenga instalado en su vehículo el aparato o instrumento manipulado y, asimismo, a aquellas personas que lo hubiesen manipulado o colaborado en su instalación o comercialización.
+11. El falseamiento de las condiciones que determinaron que una empresa se beneficiase de exención de responsabilidad contemplada en el artículo 138.4.
+12. La negativa u obstrucción a la actuación de los Servicios de Inspección del Transporte Terrestre o de las fuerzas encargadas de la vigilancia del transporte que imposibiliten total o parcialmente el ejercicio de las funciones que legal o reglamentariamente tengan atribuidas, así como la desatención total o parcial a sus instrucciones o requerimientos o el quebrantamiento de la orden de inmovilizar un vehículo.
+En todo caso, incurrirá en esta infracción toda empresa cuyos propietarios, empleados, auxiliares o dependientes nieguen o dificulten el acceso al personal de los servicios de inspección a los locales o vehículos en que obligatoriamente deba encontrarse depositada la documentación de la empresa o a dicha documentación.
+En los supuestos de requerimientos relativos al cumplimiento de la legislación sobre tiempos de conducción y descanso de los conductores, se considerará cometida una infracción distinta por cada vehículo o conductor del que no se aporte la documentación solicitada o se aporte de tal forma que imposibilite su control.
+13. La realización de transporte interior en España con vehículos matriculados en el extranjero incumpliendo las condiciones que definen las operaciones de cabotaje de conformidad con lo dispuesto en la reglamentación de la Unión Europea por la que se establecen normas comunes de acceso al mercado del transporte internacional de mercancías por carretera o por la que se establecen normas comunes de acceso al mercado internacional de los servicios de autocares y autobuses, aunque quien los realice sea titular de licencia comunitaria.
+14. La interrupción de los servicios señalados en el contrato de gestión de un servicio público de transporte regular de viajeros de uso general, sin que medie consentimiento de la Administración ni otra causa que lo justifique, durante el plazo que reglamentariamente se determine.
+15. La realización de transportes, carga o descarga de mercancías peligrosas cuando concurra alguna de las siguientes circunstancias:
+15.1 No informar sobre la inmovilización del vehículo a causa de accidente o incidente grave, o no adoptar las medidas de seguridad y protección que correspondan en tales supuestos, excepto en aquellos casos en que ello hubiera resultado imposible.
+15.2 Utilizar cisternas que presenten fugas.
+15.3 Carecer del certificado de aprobación del vehículo expedido por el organismo competente, donde se acredite que responde a las prescripciones reglamentariamente exigibles para el transporte al que va destinado, así como llevar dicho certificado caducado o llevar uno distinto al exigido para la mercancía transportada.
+15.4 Transportar mercancías a granel cuando ello no esté autorizado por la regulación específica aplicable.
+15.5 Utilizar vehículos, depósitos o contenedores que carezcan de paneles, placas o etiquetas de peligro o, en su caso, de cualquier otra señalización o marca exigible, así como llevarlos ilegibles.
+15.6 Transportar mercancías por carretera cuando no esté permitido hacerlo.
+15.7 Utilizar vehículos o depósitos distintos a los prescritos en las normas que regulen el transporte de las mercancías de que se trate.
+En todo caso será constitutiva de esta infracción la utilización de cisternas, vehículos batería o contenedores de gas de elementos múltiples cuyo uso no esté permitido para el transporte de la mercancía peligrosa de que se trate.
+15.8 No llevar a bordo del vehículo una carta de porte que cubra todas las mercancías transportadas, o llevarla sin consignar cuáles sean éstas.
+15.9 Transportar mercancías careciendo del permiso, autorización especial o autorización previa que, en su caso, sea necesario o incumpliendo las condiciones señaladas en ellos.
+15.10 Incumplir la prohibición de fumar específicamente señalada en la legislación sobre transporte de mercancías peligrosas.
+15.11 No identificar el transporte de mercancías peligrosas en el exterior del vehículo.
+15.12 Utilizar fuego o luces no protegidas, así como aparatos de alumbrado portátiles, con superficies capaces de producir chispas.
+15.13 Consignar de forma inadecuada en la carta de porte la mercancía transportada.
+15.14 Incumplir las normas sobre el grado de llenado o sobre la limitación de las cantidades a transportar por unidad de transporte.
+15.15 Utilizar vehículos, depósitos o contenedores con paneles, placas, etiquetas de peligro o cualquier otra señalización o marca exigible no adecuados a la mercancía transportada.
+15.16 Incumplir las normas de embalaje en común en un mismo bulto.
+15.17 Incumplir las prohibiciones de cargamento en común en un mismo vehículo.
+15.18 Utilizar envases o embalajes no autorizados por las normas que resulten de aplicación para el transporte de la mercancía de que se trate.
+Se considerará incluido en esta infracción el uso de envases o embalajes no homologados o que se encuentren gravemente deteriorados o presenten fugas o que carezcan de alguno de los requisitos técnicos exigidos.
+15.19 Transportar, cargar o descargar mercancías peligrosas cuando las empresas involucradas en tales operaciones no tengan el preceptivo consejero de seguridad o tengan uno que no se encuentre habilitado para actuar como tal en relación con la materia o actividad de que se trate.
+La responsabilidad por la comisión de las infracciones contempladas en este punto corresponderá:
+a) Al transportista, por la infracción tipificada en el apartado 15.1.
+b) Al transportista y al cargador, por las infracciones tipificadas en los apartados 15.2, 15.3, 15.4 y 15.5.
+c) Al transportista y al cargador o expedidor, según el caso, por las infracciones tipificadas en los apartados 15.6, 15.7, 15.8, 15.9, 15.10 y 15.11.
+d) Al transportista, al cargador y al descargador, por la infracción tipificada en el apartado 15.12.
+e) Al cargador o expedidor, según el caso, por las infracciones tipificadas en los apartados 15.13, 15.14, 15.15, 15.16, 15.17 y 15.18.
+f) A la empresa obligada a tener consejero de seguridad, por la infracción tipificada en el apartado 15.19.
+A los efectos previstos en este punto y en los artículos 141.5 y 142.7, tendrá la consideración de expedidor la persona física o jurídica por cuya orden y cuenta se realiza el envío de la mercancía peligrosa y figura como tal en la carta de porte, con independencia de que sea ella misma o un tercero el destinatario de las mercancías así expedidas. Se considerará cargador o descargador la persona física o jurídica que efectúa o bajo cuya responsabilidad se realizan las operaciones de carga o descarga de la mercancía peligrosa.
+16. La realización de actividades de transporte público o la intermediación en su contratación, incumpliendo alguno de los requisitos exigidos para la obtención y mantenimiento de la autorización que, en su caso, resulte preceptiva, excepto en aquellos supuestos en que el requisito incumplido sea el señalado en el apartado f) del artículo 43.1.
+En todo caso, incurrirán en esta infracción quienes no comuniquen al Registro de Empresas y Actividades de Transporte el cambio de su domicilio o de la ubicación de sus centros de explotación o de los locales de que deban disponer a efectos del cumplimiento del requisito de establecimiento.
+17. La contratación de servicios de transporte por parte de transportistas, agencias de transporte, transitarios, almacenistas-distribuidores, operadores logísticos o cualquier otro profesional del transporte con transportistas u operadores de transporte no autorizados.
+En todo caso, incurrirá en esta infracción la persona jurídica profesionalmente dedicada al transporte que contrate a alguna de las personas que la integran para que realice un servicio de transporte, o abone las facturas que éstas le expidan por tal concepto, cuando dichas personas no sean, a su vez, titulares de una autorización de transporte o de operador de transporte.
+18. La realización de transportes públicos o privados utilizando conductores que carezcan del certificado de aptitud profesional o de la tarjeta de cualificación (CAP) en vigor.
+19. El incumplimiento de la obligación de suscribir el seguro exigido en el artículo 21.1 o tenerlo suscrito con una cobertura insuficiente.
+20. La carencia del tacógrafo, del limitador de velocidad o de alguno de sus elementos, así como la de otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo.
+En esta misma infracción incurrirán quienes llevando instalado el tacógrafo no lo utilicen o lleven instalado un tacógrafo no homologado.
+21. La carencia significativa de hojas de registro o de datos registrados en el tacógrafo o en las tarjetas de los conductores que exista obligación de conservar en la sede de la empresa.
+Se considerará incluida en esta infracción la conservación de registros sin cumplir la estructura de campo o la extensión del fichero reglamentariamente establecidas.
+22. No llevar insertada en el tacógrafo la tarjeta de conductor o la hoja de registro de los tiempos de conducción y descanso, cuando ello resulte exigible, o hacerlo de forma incorrecta, así como utilizar una tarjeta de otro conductor, una hoja de registro con nombre o apellido diferentes a los del conductor o llevar insertada una tarjeta que no debería utilizarse por haberse expedido un duplicado posterior.
+Se considerará, asimismo, constitutiva de esta infracción la falta de consignación de datos en una hoja de registro o documento de impresión de los tiempos de conducción y descanso, cuando las normas de la Unión Europea reguladoras de la materia le atribuyan la consideración de infracción muy grave.
+23. El exceso igual o superior al 25 por ciento sobre la masa máxima total o igual o superior al 50 por ciento sobre la masa máxima por eje que tenga autorizadas el vehículo de que se trate.
+Dichos porcentajes se reducirán al 20 y al 40 por ciento, respectivamente, cuando la masa máxima que tenga autorizada el vehículo sea superior a 12 toneladas.
+Cuando el vehículo se encuentre amparado por una autorización especial que le permita circular con una masa superior a la que, de otro modo, le correspondería, los señalados porcentajes deberán referirse a la masa máxima señalada en dicha autorización especial.
+Cuando se exceda la masa máxima total del vehículo, la responsabilidad por la infracción corresponderá tanto al transportista como al cargador, al expedidor y al intermediario que hubiesen intervenido en el transporte o su contratación, salvo que alguno de ellos pruebe que no le resulta imputable.
+Cuando se exceda la masa máxima por eje, la responsabilidad corresponderá a quien hubiera realizado la estiba de la mercancía a bordo del vehículo o bajo cuyas instrucciones se hubiera realizado ésta.
+En los transportes de paquetería y mudanzas no se exigirá responsabilidad al cargador ni al expedidor por el exceso sobre la masa autorizada, salvo que se pruebe que su actuación resultó determinante de aquél.
+24. La utilización en el tacógrafo de hojas de registro o tarjetas de conductor que se encuentren manchadas o estropeadas de tal manera que impidan la lectura de los datos registrados.
+25. La utilización de una misma hoja de registro de los tiempos de conducción y descanso por un período de tiempo superior al que corresponda, cuando haya dado lugar a una superposición de registros que impida su lectura.
+26. El uso incorrecto del selector de actividades del tacógrafo.
+27. La prestación de servicios públicos de transporte regular de viajeros de uso general cuando se dé alguna de las siguientes circunstancias:
+27.1 La falta de explotación del servicio por el propio contratista de la Administración, salvo los supuestos de colaboración expresamente permitidos.
+27.2 El incumplimiento de los tráficos o del número mínimo de expediciones establecidos en el contrato de gestión del servicio público de que se trate, cuando no deba calificarse conforme a lo señalado en el punto 14 de este artículo.
+27.3 Denegar la venta de billetes o el acceso al vehículo a quienes los hubieran adquirido, salvo que se den circunstancias legal o reglamentariamente establecidas que lo justifiquen.
+Asimismo, se incurrirá en esta infracción si se impide a ciertas categorías de usuarios, o a quienes pretendan acceder al servicio en determinadas localidades o zonas geográficas, adquirir o reservar billetes por cualquiera de los procedimientos utilizados por la empresa con carácter general, o reciben un trato discriminatorio respecto al resto de los usuarios en relación con dicha adquisición o reserva.
+27.4 La realización del servicio transbordando injustificadamente a los usuarios durante el viaje.
+27.5 El incumplimiento del régimen tarifario previsto en el contrato de gestión del servicio público de que se trate.
+27.6 El incumplimiento de las condiciones de accesibilidad a los vehículos establecidas con carácter general para todos los servicios públicos de transporte regular de viajeros por carretera de uso general o especialmente señalados en el pliego de condiciones o el contrato del servicio de que se trate.
+Asimismo, incurrirá en esta infracción la empresa contratista del servicio cuyo personal impida o dificulte su utilización a personas con discapacidad, incluso si no existe obligación de que los vehículos se encuentren adaptados para ello, siempre que, en este último supuesto, dichas personas aporten los medios que les resulten precisos para acceder y abandonar el vehículo e instalarse en una plaza ordinaria.
+28. La realización de transportes públicos regulares de viajeros de uso especial incumpliendo cualquiera de las condiciones señaladas en la correspondiente autorización con el carácter de esenciales, cuando dicho incumplimiento no se encuentre expresamente tipificado de otra manera en esta ley.
+29. En los transportes de uso especial de escolares y de menores, la ausencia de una persona mayor de edad idónea, distinta del conductor, que conozca el funcionamiento de los mecanismos de seguridad del vehículo, encargada del cuidado de los menores, cuando ello resulte obligatorio.
+30. En los transportes de uso especial de escolares y de menores, la falta de plaza o asiento para cada menor así como la inexistencia de plazas cercanas a las puertas de servicio que sean necesarias para personas de movilidad reducida.
+31. La contratación de servicios de transporte terrestre de mercancías por parte de transportistas, agencias de transporte, transitarios, almacenistas distribuidores, operadores logísticos o cualquier otro profesional del transporte incumpliendo la obligación de hacerlo en nombre propio, así como la contratación de servicios públicos de transporte regular de viajeros de uso general en concepto de porteador por quien no se encuentre habilitado para ello.
+32. La realización de transportes de mercancías o discrecionales de viajeros incumpliendo las condiciones establecidas en el artículo 54.
+En idéntica infracción incurrirán las empresas o personas que actúen como colaboradores incumpliendo las obligaciones que les afecten.
+33. El inadecuado funcionamiento imputable al transportista del tacógrafo, del limitador de velocidad o de alguno de sus elementos, así como el de otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo, cuando no deba calificarse conforme a lo señalado en el punto 10 de este artículo.
+34. La utilización del tacógrafo sin haber realizado su calibrado o revisión periódica en los plazos y forma establecidos, habiendo sido reparado en un taller no autorizado o careciendo de los precintos o placas preceptivos.
+35. La carencia a bordo del vehículo de las hojas de registro de los tiempos de conducción y descanso ya utilizadas o de los documentos de impresión que resulte obligatorio llevar, con independencia del tipo de tacógrafo, analógico o digital, que se esté utilizando.
+En la misma infracción se incurrirá cuando no se lleve a bordo del vehículo la tarjeta del conductor, aunque se esté utilizando un tacógrafo analógico, cuando resulte necesaria para apreciar las condiciones de conducción durante el período anterior exigible.
+36. El incumplimiento por un centro de alguna de las condiciones que le fueron exigidas para obtener la autorización habilitante para impartir cursos preceptivos para la obtención o mantenimiento de alguna de las cualificaciones reguladas por las normas de ordenación del transporte.
+37. El incumplimiento de la legislación aplicable en materia de tiempos de conducción y descanso de los conductores en los siguientes supuestos:
+37.1 El exceso igual o superior al 50 por ciento en los tiempos máximos de conducción diaria, así como la disminución de los descansos diarios por debajo de cuatro horas y media.
+37.2 El exceso igual o superior al 25 por ciento en los tiempos máximos de conducción semanal o bisemanal.
+37.3 El exceso superior a dos horas en los tiempos máximos de conducción diaria, salvo que deba calificarse conforme a lo dispuesto en el apartado 37.1.
+37.4 La conducción durante más de seis horas sin respetar las pausas reglamentariamente exigidas.
+37.5 La disminución del descanso diario normal en más de dos horas y media o del reducido o fraccionado en más de dos horas, incluso cuando se realice conducción en equipo, salvo que deba calificarse conforme a lo dispuesto en el apartado 37.1.
+37.6 La disminución del descanso semanal normal en más de nueve horas o del reducido en más de cuatro.
+37.7 Tomar en un vehículo los periodos de descanso semanal normal o cualquier periodo de descanso semanal de más de 45 horas que se tome como compensación de periodos de descanso semanal reducidos.
+37.8 Cuando el conductor se encuentre fuera de su domicilio, tomar el descanso semanal normal o cualquier periodo de descanso semanal de más de 45 horas que se tome como compensación de periodos de descanso semanal reducidos previos en alojamientos que no sean apropiados y adaptados para ambos sexos que no dispongan de instalaciones para dormir y sanitarias adecuadas.
+37.9 La no organización del trabajo por parte de la empresa de transporte, de tal manera que el conductor no pueda regresar al centro operativo del empleador o a su lugar de residencia cada cuatro semanas consecutivas, siempre que no resulte de aplicación lo dispuesto en el apartado siguiente.
+37.10 La no organización, por parte de la empresa de transporte, del trabajo del conductor, de tal manera que éste pueda regresar antes de finalizar la tercera semana al centro operativo del empleador o a su lugar de residencia, después de haber tomado dos períodos de descanso semanal reducidos consecutivos, en el marco de un transporte internacional de mercancías, antes del inicio del período de descanso semanal normal de más de 45 horas que tome como compensación.
+37.11 No realizar el conductor la compensación de los dos descansos semanales reducidos consecutivos, en el marco de un transporte internacional de mercancías, precediendo al siguiente período de descanso semanal normal y unido a este.
+38. El transporte de objetos o encargos distintos de los equipajes de los viajeros al amparo de una autorización de transporte público de viajeros, incumpliendo las condiciones que resulten exigibles de conformidad con las normas internas o internacionales que resulten de aplicación.
+39. La realización de servicios de arrendamiento de vehículos con conductor cuando se dé alguna de las siguientes circunstancias:
+39.1 Inicio de un servicio en un ámbito territorial distinto de aquél en que resulte obligatorio hacerlo o el incumplimiento de las limitaciones que definen la prestación habitual del servicio en el territorio en que se encuentre domiciliada la autorización en que se amparan, en los supuestos en que este régimen resulte de aplicación.
+39.2 Inicio de un servicio sin que el titular de la autorización haya comunicado, por vía electrónica, los datos relativos a éste exigidos por la legislación vigente al registro de comunicaciones de los servicios de arrendamiento de vehículos con conductor de la Dirección General de Transporte Terrestre.
+39.3 La circulación para búsqueda, recogida o propiciar la captación de clientes que no hayan contratado ni solicitado previamente el servicio en el tiempo previsto para la pre-contratación del servicio.
+39.4 El incumplimiento de las condiciones legal o reglamentariamente establecidas en relación con el itinerario del servicio, los horarios y calendarios de prestación del servicio y las características técnicas o la adecuada señalización del vehículo.
+39.5 Inicio de un servicio y la recogida de clientes por parte del titular de la autorización sin que los clientes hayan efectuado la pre-contratación del servicio. A estos efectos se entenderá pre-contratación como el establecimiento de un intervalo de tiempo mínimo entre la contratación o la designación del vehículo y la prestación del servicio.
+39.6 La salida de los vehículos dedicados al arrendamiento con conductor del lugar en que habitualmente se encuentren guardados o estacionados o la circulación, sin llevar a bordo del vehículo la documentación exigible y la hoja de ruta del servicio, o el incumplimiento de la puesta a disposición de la hoja de ruta a los servicios de inspección del transporte terrestre de conformidad con la normativa vigente.
+40. El incumplimiento del límite máximo legal de pago no dispositivo previsto en el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, en el pago del precio del transporte en los contratos de transporte de mercancías por carretera, cuando el obligado al pago no sea un consumidor y el precio del transporte sea superior a 3.000 euros.
+41. La realización de las operaciones de carga o descarga por el propio conductor del vehículo contraviniendo las limitaciones que resulten de aplicación de conformidad con lo dispuesto en esta ley. Se presume que la responsabilidad por dicha infracción corresponde tanto a la empresa bajo cuya dirección actúe el conductor del vehículo, como al cargador, expedidor, intermediario y destinatario que hubieran intervenido en el transporte.
+42. En los contratos referidos a un único envío, el pago al transportista efectivo de un precio inferior al total de costes efectivos individuales incurridos o asumidos por él, de conformidad con lo dispuesto en la Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de mercancías, siempre que exista una asimetría entre las partes en el contrato de transporte.
+Se considerará, en todo caso, que existe la indicada asimetría cuando el cargador contractual sea titular de una autorización de operador de transporte y no lo sea el transportista efectivo, en el supuesto en que el cargador contractual no tenga la condición de Pyme y la tenga el transportista efectivo o cuando el cargador contractual no tenga la condición de pequeña empresa o microempresa y el transportista efectivo sea una microempresa.
+El responsable de esta infracción será el cargador contractual, pero el transportista efectivo deberá probar que el precio pagado es inferior a sus costes efectivos individuales de prestación del servicio.
+43. La oposición del cargador o del obligado al pago para reflejar en la factura, de manera desglosada, la variación del precio del transporte derivada de la modificación del precio del combustible, conforme a lo previsto en el artículo 38 de la Ley 15/2009, de 11 de noviembre, cuando el precio del transporte que conste en la factura sea superior a 3.000 euros y el transportista o el porteador pruebe que:
+a) Ha emitido una factura en la que conste de forma desglosada dicho ajuste y el cargador o el obligado al pago la hubiese rechazado o solicitado su modificación; o bien que
+b) El cargador o el obligado al pago hubiera impedido por cualquier medio su correcta expedición o aceptación.
+Se añade el apartado 43 por la disposición final 1.1 del Real Decreto-ley 9/2026, de 14 de abril. Ref. BOE-A-2026-8283#df
+ Se añade el apartado 42 por el art. 2.1 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#a2
+ Se añaden los apartados 37.7, 37.8, 37.9, 37.10, 37.11 y 41 por el art. 1.2 y 3 del Real Decreto-ley 3/2022, de 1 de marzo. Ref. BOE-A-2022-3290#a1
+ Se añaden los apartados 39 y 40 por el art. único.1 de la Ley 13/2021, de 1 de octubre. Ref. BOE-A-2021-16029#au
+ Téngase en cuenta que la infracción prevista en el apartado 39.2 no resultará de aplicación hasta la efectiva puesta en funcionamiento del registro de comunicaciones de los servicios de arrendamiento de vehículos con conductor de la Dirección General de Transporte Terrestre, según establece la disposición transitoria única de la citada Ley.
+ Se modifica por el art. 1.77 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica por el art. 2 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+### Artículo 141
+
+Artículo 141.
+Se reputarán infracciones graves:
+1. El incumplimiento de la obligación de devolver a la Administración una autorización o licencia de transporte, alguna de sus copias o cualquier otra documentación cuando, por haber sido revocada o por cualquier otra causa legal o reglamentariamente establecida, debiera haber sido devuelta, siempre que el documento de que se trate conserve apariencia de validez.
+2. El exceso igual o superior al 15 e inferior al 25 por ciento sobre la masa máxima total o igual o superior al 30 e inferior al 50 por ciento sobre la masa máxima por eje que tenga autorizadas el vehículo de que se trate.
+Dichos porcentajes se reducirán, respectivamente, al 10 y el 20 por ciento sobre la masa máxima total y al 25 y el 40 por ciento sobre la masa máxima por eje, cuando la masa máxima que tenga autorizada el vehículo sea superior a 12 toneladas.
+A efectos de responsabilidad, serán de aplicación las reglas establecidas en el artículo 140.23.
+3. No pasar la revisión periódica de algún instrumento o medio de control que exista la obligación de llevar instalado en el vehículo, en los plazos y forma establecidos, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en el artículo 140.34.
+4. La obstrucción que dificulte gravemente la actuación de los Servicios de Inspección del Transporte Terrestre o de las fuerzas encargadas de la vigilancia del transporte cuando no concurra alguno de los supuestos que, conforme a lo señalado en el punto 12 del artículo 140, implicarían que se reputase infracción muy grave.
+En los supuestos de requerimientos relativos al cumplimiento de la legislación sobre tiempos de conducción y descanso de los conductores se considerará cometida una infracción distinta por cada vehículo o conductor del que se aporte la documentación solicitada en tiempo y forma distinta a la requerida.
+5. La realización de transportes, carga o descarga de mercancías peligrosas cuando concurra alguna de las siguientes circunstancias:
+5.1 No llevar a bordo las instrucciones escritas que resulten exigibles.
+5.2 Incumplir lo dispuesto en las normas de aplicación o en las correspondientes instrucciones escritas acerca del equipamiento del vehículo o de los miembros de la tripulación.
+5.3 Carecer de los extintores que resulten obligatorios en función del vehículo o la carga transportada, o disponer de unos cuya correcta utilización no esté garantizada.
+5.4 Transportar viajeros en unidades que transporten mercancías peligrosas fuera de los supuestos en que las normas reguladoras de esta clase de transportes lo permitan.
+5.5 Transportar mercancías peligrosas en vehículos de viajeros en cantidades no permitidas.
+5.6 Utilizar bultos o cisternas en el transporte que no estén correctamente cerrados, incluso cuando estas últimas se encuentren vacías si no han sido previamente limpiadas.
+5.7 Transportar bultos de mercancía en un contenedor que no sea estructuralmente adecuado.
+5.8 Carecer del certificado de limpieza de la cisterna en los casos que sea necesario.
+5.9 Incumplir las disposiciones sobre fechas de ensayo, inspección y plazos de utilización de envases y embalajes o recipientes.
+5.10 Transportar mercancías peligrosas en envases o embalajes deteriorados, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en el apartado 18 del artículo 140.15.
+5.11 No consignar en la carta de porte alguno de los datos que deben figurar en ella o hacerlo inadecuadamente, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en los apartados 8 y 13 del artículo 140.15.
+5.12 Etiquetar o marcar inadecuadamente los bultos.
+5.13 Incumplir la obligación de conectar a tierra los vehículos cisterna durante las maniobras de carga o descarga, cuando resulte exigible.
+5.14 No realizar en las plantas cargadoras o descargadoras las comprobaciones que sean obligatorias antes, durante o después de la carga.
+5.15 Incumplir los consejeros de seguridad las obligaciones que les atribuye su normativa específica.
+5.16 Incumplir la obligación de remitir a las autoridades competentes el informe anual y los partes de accidentes.
+5.17 Incumplir la obligación de conservar los informes anuales durante el plazo legalmente establecido.
+5.18 No proporcionar a los trabajadores que intervienen en el manejo de mercancías peligrosas la formación adecuada para prevenir riesgos ocasionales.
+La responsabilidad por la comisión de las infracciones contempladas en este punto corresponderá:
+a) Al transportista por las infracciones tipificadas en los apartados 5.1, 5.2, 5.3, 5.4 y 5.5.
+b) Al transportista y al cargador por las infracciones tipificadas en los apartados 5.6 y 5.7.
+c) Al transportista y al cargador o descargador, según el caso, por la infracción tipificada en el apartado 5.8.
+d) Al cargador por las infracciones tipificadas en los apartados 5.9 y 5.10.
+e) Al cargador o expedidor, según el caso, por las infracciones tipificadas en los apartados 5.11 y 5.12.
+f) Al cargador o descargador por las infracciones tipificadas en los apartados 5.13 y 5.14.
+g) A la empresa obligada a tener consejero de seguridad por la infracción tipificada en los apartados 5.15, 5.16 y 5.17.
+h) A la empresa de quien dependan los trabajadores por la infracción tipificada en el apartado 5.18.
+6. La utilización de títulos habilitantes en condiciones distintas a las establecidas con carácter general o señaladas específicamente en el propio título, salvo que el incumplimiento de dichas condiciones ya estuviera tipificado de forma expresa en esta ley.
+7. La oferta de servicios de transporte sin disponer del título habilitante exigible para realizarlos o para intermediar en su contratación, tanto si se realiza de forma individual a un único destinatario o se hace pública para conocimiento general a través de cualquier medio.
+8. (Sin contenido).
+9. La realización de transportes públicos o privados utilizando para la conducción del vehículo los servicios de una persona que requiera el certificado de conductor de tercer país, careciendo de éste o incumpliendo alguna de las condiciones que dieron lugar a su expedición.
+10. La prestación de un servicio público de transporte regular de viajeros de uso general incumpliendo alguna de las condiciones u obligaciones impuestas al contratista en el correspondiente contrato de gestión, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en los puntos 14 ó 27 del artículo 140.
+Asimismo, incurrirá en esta infracción el contratista del servicio que incumpla la obligación de transporte gratuito del equipaje de los viajeros en los supuestos y hasta el límite en que ello resulte obligatorio.
+11. La utilización de hojas de registro de los tiempos de conducción y descanso no homologadas o que resulten incompatibles con el tacógrafo utilizado.
+12. La falta de consignación de datos en una hoja de registro o documento de impresión de los tiempos de conducción y descanso, cuando las normas de la Unión Europea reguladoras de la materia le atribuyan la consideración de infracción grave.
+13. La carencia no significativa de hojas de registro, de documentos de impresión o de datos registrados en el tacógrafo o en las tarjetas de los conductores que exista obligación de conservar en la sede de la empresa a disposición de la Administración.
+14. La realización de transportes privados careciendo de la autorización, certificación o licencia que, en su caso, resulte preceptiva para ello de conformidad con las normas reguladoras del transporte terrestre.
+No se apreciará la infracción prevista en este punto cuando los hechos deban reputarse infracción leve de conformidad con lo dispuesto en el artículo 142.1.
+15. La venta de billetes para servicios no autorizados de transporte de viajeros, salvo que deba reputarse infracción muy grave, de conformidad con los puntos 5 ó 6 del artículo 140.
+Asimismo, incurrirán en esta infracción los titulares de industrias o servicios que, aún siendo ajenos al transporte, permitan que tales billetes se vendan en los locales o establecimientos en que desarrollan su actividad.
+16. La realización de transportes públicos interurbanos de viajeros en vehículos de turismo cuando se de alguna de las siguientes circunstancias:
+16.1 Haberse iniciado el servicio en un término municipal no autorizado.
+16.2 Incumplimiento del régimen tarifario que resulte de aplicación.
+17. La carencia, falta de diligenciado o falta de datos esenciales de la documentación de control, estadística o contable cuya cumplimentación resulte obligatoria.
+Incurrirán en esta infracción aquellas empresas que no velen debidamente porque los conductores dispongan en formato papel o electrónico de la documentación que resulte obligatoria en los controles en carretera.
+Asimismo, serán constitutivas de dicha infracción la ocultación o falta de conservación de dicha documentación, así como su falta de comunicación a la Administración o la demora injustificada en dicha comunicación, incumpliendo lo que al efecto se determine reglamentariamente.
+En idéntica infracción incurrirán aquellas empresas que carezcan del documento o sistema informático en que preceptivamente hayan de formularse las reclamaciones de los usuarios, que nieguen u obstaculicen su uso o que oculten su contenido o retrasen injustificadamente su comunicación a los Servicios de Inspección del Transporte Terrestre que en cada caso resulten competentes.
+No se apreciará la infracción tipificada en este punto cuando los hechos comprobados deban reputarse infracción muy grave de conformidad con lo dispuesto en los puntos 12, 21, 22 o 35 del artículo 140 o calificarse conforme a lo señalado en los puntos 9 o 10 de este artículo.
+18. (Sin contenido).
+19. La desatención por el destinatario de un transporte de mercancías del requerimiento que le formule una Junta Arbitral del Transporte para que ponga a su disposición las mercancías que hubiese recibido, cuando corresponda que sean depositadas en ejecución de lo dispuesto en el artículo 38.3.
+20. La impartición de cursos que resulten preceptivos para la obtención o mantenimiento de alguna de las cualificaciones reguladas por las normas de ordenación del transporte, cuando se de alguna de las siguientes circunstancias:
+20.1 Que los profesores no reúnan las condiciones de titulación o formación específica exigidas para impartir la materia de que se trate.
+20.2 Que el curso impartido no se ajuste al modelo previamente homologado.
+20.3 Que el curso impartido no se ajuste a las características del que fue comunicado al órgano administrativo competente.
+20.4 Que no se haya puesto en conocimiento del órgano administrativo competente, por los medios y en el plazo previstos para ello, que el profesor o la materia impartida no coinciden con los que hubiesen sido inicialmente comunicados.
+20.5 Que no se haya puesto en conocimiento del órgano administrativo competente, por los medios y en el plazo previstos para ello, la falta de asistencia injustificada de un cincuenta por ciento o más de los alumnos inscritos en el curso.
+21. La realización de transportes de productos alimenticios o mercancías perecederas utilizando un vehículo que carezca del certificado de conformidad para el transporte de mercancías perecederas o tenerlo caducado o falseado.
+La responsabilidad por la comisión de esta infracción corresponderá tanto al transportista como al expedidor.
+22. La contratación de servicios de transporte por parte de cargadores o usuarios habituales con transportistas u operadores de transporte no autorizados, cuando no deba reputarse muy grave de conformidad con lo dispuesto en el artículo 140.17.
+23. La prestación de servicios de transporte de viajeros con vehículos que incumplan las prescripciones técnicas sobre accesibilidad de personas con movilidad reducida que, en cada caso, les resulten de aplicación, salvo que deba reputarse infracción muy grave de conformidad con lo dispuesto en el artículo 140.27.6.
+24. El incumplimiento de la legislación aplicable en materia de tiempos de conducción y descanso de los conductores en los siguientes supuestos, salvo que deba reputarse infracción muy grave de conformidad con lo establecido en el punto 37 del artículo 140:
+24.1 El exceso superior a sesenta horas en el tiempo máximo de conducción semanal o a cien en el bisemanal.
+24.2 El exceso superior a una hora en los tiempos máximos de conducción diaria.
+24.3 La conducción durante más de cinco horas, aunque sin rebasar las seis, sin respetar las pausas reglamentariamente exigidas.
+24.4 La disminución del descanso diario normal, reducido o fraccionado en más de una hora.
+24.5 La disminución del descanso semanal normal en más de tres horas o del reducido en más de dos.
+24.6 Cuando el conductor se encuentre fuera de su domicilio, no hacerse cargo el empresario de todos los gastos de alojamiento realizados fuera del vehículo en los descansos semanales normales y en los periodos de descanso de más 45 horas tomados como compensación.
+25. Cualquiera de las infracciones previstas en el artículo anterior, cuando por su naturaleza, ocasión o circunstancia no deba ser calificada como muy grave, debiendo justificarse la existencia de dichas circunstancias y motivarse la resolución correspondiente.
+26. El incumplimiento del límite máximo legal de pago no dispositivo previsto en el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, en el pago del precio del transporte en los contratos de transporte de mercancías por carretera, cuando el obligado al pago no sea un consumidor y el precio del transporte sea igual o inferior a 3.000 euros.
+27. El no incorporar en el tacógrafo los símbolos de los países cuyas fronteras se cruzaron por el conductor durante el período de trabajo diario.
+28. La no formalización de la carta de porte o del contrato de transporte continuado por escrito, en los supuestos en los que fuera obligatorio, de conformidad con lo dispuesto en la Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de mercancías.
+Se presume que el cargador contractual y el transportista efectivo son los responsables de esta infracción, salvo que prueben lo contrario.
+29. La no inclusión del precio en la carta de porte u otros documentos contractuales en los supuestos en los que fuera obligatorio, de conformidad con lo dispuesto en la Ley 15/2009 de 11 de noviembre, del contrato de transporte terrestre de mercancías.
+Se presume que el cargador contractual y el transportista efectivo son los responsables de esta infracción, salvo que prueben lo contrario.
+30. La no inclusión de las menciones obligatorias que debe contener la carta de porte, de conformidad con lo establecido en el artículo 10 bis de la Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de mercancías, sin perjuicio de lo dispuesto en el artículo 141.29.
+Se presume que el cargador contractual es el responsable del cumplimiento de esta infracción, salvo que pruebe lo contrario.
+No obstante, el transportista efectivo será el responsable de la no inclusión de la mención obligatoria de la fecha prevista de entrega de las mercancías en destino, salvo que pruebe lo contrario.
+31. La oposición del cargador o del obligado al pago para reflejar en la factura, de manera desglosada, la variación del precio del transporte derivada de la modificación del precio del combustible, conforme a lo previsto en el artículo 38 de la Ley 15/2009, de 11 de noviembre, cuando el precio del transporte que conste en la factura sea igual o inferior a 3.000 euros y el transportista o el porteador pruebe que:
+a) Ha emitido una factura en la que conste de forma desglosada dicho ajuste y el cargador o el obligado al pago la hubiese rechazado o solicitado su modificación; o bien que
+b) El cargador o el obligado al pago hubiera impedido por cualquier medio su correcta expedición o aceptación.
+Se añade el apartado 31 por la disposición final 1.2 del Real Decreto-ley 9/2026, de 14 de abril. Ref. BOE-A-2026-8283#df
+ Se modifica el apartado 30, en la redacción dada por el art. 2.5 del Real Decreto-ley 14/2022, de 1 de agosto, por el art. 57 del Real Decreto-ley 20/2022, de 27 de diciembre. Ref. BOE-A-2022-22685#a5-9
+ Se modifica el apartado 17 y se añade el 28 a 30 por el art. 2.2 a 5 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#a2
+ Se modifica el apartado 17 y se añaden el 24.6 y 27 por el art. 1.4, 5 y 6 del Real Decreto-ley 3/2022, de 1 de marzo. Ref. BOE-A-2022-3290#a1
+ Se añade el apartado 26 y se dejan sin contenido los apartados 8 y 18 por el art. único.2 y disposición derogatoria única de la Ley 13/2021, de 1 de octubre. Ref. BOE-A-2021-16029#au
+ Se modifica por el art. 1.79 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica por el art. 2 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+ Se añade el último inciso al apartado h) por el art. 105.1 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Artículo 142
+
+Artículo 142.
+Se reputarán infracciones leves:
+1. La realización de transportes públicos o privados, así como la contratación como porteador o la facturación en nombre propio de servicios de transporte, careciendo de la autorización o licencia que, en su caso, resulte preceptiva, siempre que se acredite que en el momento de realizarlos o contratarlos, se cumplían todos los requisitos exigidos para su obtención y que ésta se ha solicitado dentro de los 15 días siguientes a la notificación del inicio del expediente sancionador.
+2. El exceso superior al 5 e inferior al 15 por ciento sobre la masa máxima total o superior al 20 e inferior al 30 por ciento sobre la masa máxima por eje que tenga autorizadas el vehículo de que se trate.
+Dichos porcentajes se reducirán, respectivamente, al 2,5 y el 10 por ciento sobre la masa máxima total y al 15 y el 25 por ciento sobre la masa máxima por eje, cuando la masa máxima que tenga autorizada el vehículo sea superior a 12 toneladas.
+A efectos de responsabilidad, serán de aplicación las reglas establecidas en el artículo 140.23.
+3. La utilización de hojas de registro de los tiempos de conducción y descanso manchadas o estropeadas cuando, no obstante, los datos registrados resulten legibles; la utilización de hojas durante un período mayor a aquél para el que esté previsto, cuando no haya supuesto la pérdida de datos, y la retirada no autorizada de tales hojas cuando ello no afecte a los datos registrados.
+Se considerará asimismo incluida en esta infracción la falta o insuficiencia de papel en el que deben imprimirse las actividades de los conductores registradas por el tacógrafo digital, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en el artículo 140.22.
+4. La falta de consignación de datos en una hoja de registro o documento de impresión de los tiempos de conducción y descanso, cuando las normas de la Unión Europea reguladoras de la materia le atribuyan la consideración de infracción leve.
+5. La inexistencia de algún rótulo o aviso cuya exhibición para conocimiento público resulte obligatoria.
+6. El incumplimiento en los transportes interurbanos de viajeros contratados por plaza con pago individual de la obligación de expedir los correspondientes títulos de transporte a los usuarios o de las normas establecidas para su despacho o devolución, o expedirlos incumpliendo cualquier otra condición exigible.
+7. La realización de transporte de mercancías peligrosas cuando concurra alguna de las siguientes circunstancias:
+7.1 No llevar a bordo los documentos relativos al vehículo que resulten obligatorios, poseyéndolos, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en el apartado 3 del artículo 140.15.
+7.2 Utilizar paneles, placas, etiquetas, marcas, letras, figuras o símbolos cuyo tamaño no se ajuste al exigido.
+7.3 No llevar a bordo del vehículo un documento de identificación con fotografía para cada miembro de la tripulación, cuando sea exigible.
+7.4 No llevar correctamente sujetas las placas, paneles o etiquetas de peligro.
+7.5 Utilizar documentos de transporte o acompañamiento en los que no se haya hecho constar toda la información obligatoria, cuando no deba reputarse infracción grave o muy grave de conformidad con lo dispuesto en el apartado 11 del artículo 141.5 y en los apartados 8 ó 13 del artículo 140.15.
+7.6 No incluir en los informes anuales o en los partes de accidentes alguno de los datos exigibles por la normativa vigente.
+7.7 No comunicar a los órganos competentes la identidad de los consejeros de seguridad con que cuente la empresa y sus áreas de responsabilidad.
+7.8 No conservar los informes anuales durante el plazo reglamentariamente establecido, siempre que hubieran sido remitidos a los órganos competentes.
+7.9 Remitir a las autoridades competentes el informe anual o los partes de accidente fuera de los plazos reglamentariamente establecidos.
+La responsabilidad por la comisión de las infracciones contempladas en este punto corresponderá:
+a) Al transportista por las infracciones tipificadas en los apartados 7.1, 7.2, 7.3 y 7.4.
+b) Al cargador o expedidor, según el caso, por la infracción tipificada en el apartado 7.5.
+c) A la empresa obligada a tener consejero de seguridad por las infracciones tipificadas en los apartados 7.6, 7.7, 7.8 y 7.9.
+8. La realización de transportes públicos o privados sin llevar a bordo del vehículo la documentación formal que acredite la posibilidad legal de prestarlos o que resulte exigible para la determinación de la clase de transporte que se está realizando, salvo que dicha infracción deba ser calificada como muy grave o grave conforme a lo dispuesto en los artículos 140.1 y 141.14.
+Se considerará incluido asimismo en esta infracción el incumplimiento de la obligación de que dicha documentación se encuentre en lugar visible desde el exterior del vehículo, en los casos en los que así se exija expresamente en las disposiciones reguladoras de la modalidad de transporte de que se trate.
+9. El arrendamiento de vehículos sin conductor incumpliendo las condiciones que reglamentariamente se determinen, salvo que deba reputarse infracción muy grave de conformidad con lo dispuesto en el artículo 140.3 ó 140.32.
+10. La realización de transportes públicos regulares de viajeros de uso especial incumpliendo alguno de los requisitos establecidos en la correspondiente autorización sin atribuirle carácter esencial.
+11. El trato desconsiderado de palabra u obra con los usuarios por parte del personal de la empresa en el transporte de viajeros.
+12. En el transporte escolar y de menores, el incumplimiento por la entidad contratante de su obligación de exigir al transportista los documentos o justificantes que resulte preceptivo con arreglo a las normas que regulan la seguridad en dichos transportes.
+13. En el transporte de viajeros, la carencia de cambio de moneda metálica o billetes hasta la cantidad que, en su caso, se encuentre reglamentariamente determinada.
+14. El incumplimiento por los usuarios de los transportes de viajeros de las siguientes prohibiciones:
+14.1 Impedir o forzar la apertura o cierre de las puertas de acceso a los vehículos.
+14.2 Manipular los mecanismos de apertura o cierre de las puertas de acceso al vehículo o de cualquiera de sus compartimentos previstos para su accionamiento exclusivo por el personal de la empresa transportista.
+14.3 Hacer uso sin causa justificada de cualquiera de los mecanismos de seguridad o socorro instalados en el vehículo para casos de emergencia.
+14.4 Abandonar el vehículo o acceder a éste fuera de las paradas en su caso establecidas al efecto, salvo causa justificada.
+14.5 Realizar, sin causa justificada, cualquier acto susceptible de distraer la atención del conductor o entorpecer su labor cuando el vehículo se encuentre en marcha.
+14.6 Viajar en lugares distintos a los habilitados para los usuarios.
+14.7 Viajar careciendo de un título de transporte suficiente para amparar la utilización del servicio de que se trate.
+14.8 Toda acción injustificada que pueda implicar deterioro o causar suciedad en los vehículos o estaciones de transporte.
+15. La impartición de cursos que resulten preceptivos para la obtención o mantenimiento de alguna de las cualificaciones reguladas por las normas de ordenación del transporte, sin haber puesto en conocimiento del órgano administrativo competente, por los medios y en el plazo previstos para ello, la falta de asistencia injustificada de un veinticinco por ciento o más de los alumnos inscritos en el curso, salvo que deba reputarse infracción grave de conformidad con lo dispuesto en el artículo 141.20.
+16. La realización de transporte de mercancías perecederas sin llevar en el vehículo las marcas de identificación e indicaciones reglamentarias o llevándolas en lugares distintos a los establecidos.
+La responsabilidad por la comisión de las infracciones contempladas en este punto corresponderá al transportista o, en su caso, al titular del vehículo.
+17. Todo exceso en los tiempos máximos de conducción, así como la disminución de los períodos de descanso, salvo que deba reputarse infracción grave o muy grave de conformidad con lo dispuesto en los artículos 141.24 ó 140.37.
+18. La falta de comunicación de cualquier dato o circunstancia que deba figurar en el Registro de Empresas y Actividades de Transportes o que exista obligación por otra causa de poner en conocimiento de la Administración, cuando no deba reputarse infracción muy grave de conformidad con lo dispuesto en el artículo 140.16.
+19. Cualquiera de las infracciones previstas en el artículo anterior, cuando, por su naturaleza, ocasión o circunstancias, no deba ser calificada como grave, debiendo justificarse la existencia de dichas circunstancias y motivarse la resolución correspondiente.
+Se modifica por el art. 1.79 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica por el art. 2 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+ Se declara la inconstitucionalidad y nulidad del inciso destacado por Sentencia del TC 60/2000, de 2 de marzo. Ref. BOE-T-2000-5987
+
+### Artículo 143
+
+Artículo 143.
+1. Las sanciones por las infracciones tipificadas en los artículos anteriores se graduarán de acuerdo con la repercusión social del hecho infractor y su intencionalidad; con la naturaleza de los perjuicios causados, con especial atención a los que afecten a las condiciones de competencia o a la seguridad; con la magnitud del beneficio ilícitamente obtenido, y con la reincidencia o habitualidad en la conducta infractora, conforme a las reglas y dentro de las horquillas siguientes:
+a) Se sancionarán con multa de 100 a 200 euros las infracciones previstas en los puntos 13, 14, 15, 16, 17, 18 del artículo 142.
+b) Se sancionarán con multa de 201 a 300 euros las infracciones previstas en los puntos 8, 9, 10, 11 y 12 del artículo 142.
+c) Se sancionarán con multa de 301 a 400 euros las infracciones previstas en los puntos 1, 2, 3, 4, 5, 6 y 7 del artículo 142.
+d) Se sancionarán con multa de 401 a 600 euros las infracciones previstas en los puntos 17, 18, 19, 20, 21, 22, 23, 24 y 30 del artículo 141 y, cuando el precio del transporte sea inferior a 1.000 euros, las infracciones previstas en los puntos 26 y 31 del artículo 141.
+e) Se sancionarán con multa de 601 a 800 euros las infracciones previstas en los puntos 8, 9, 10, 11, 12, 13, 14, 15, 16 y 29 del artículo 141 y, cuando el precio del transporte esté comprendido entre 1.000 y 1.500 euros, las infracciones previstas en los puntos 26 y 31 del artículo 141.
+f) Se sancionarán con multa de 801 a 1.000 euros las infracciones previstas en los puntos 1, 2, 3, 4, 5, 6, 7, 27 y 28 del artículo 141 y, cuando el precio del transporte esté comprendido entre 1.501 a 3.000 euros, las infracciones previstas en los puntos 26 y 31 del artículo 141.
+g) Se sancionarán con multa de 1.001 a 2.000 euros las infracciones previstas en los puntos 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37.3 a 37.9, 38, y 39 del artículo 140 y, cuando el precio del transporte esté comprendido entre 3.001 a 4.000 euros, las infracciones previstas en los puntos 40 y 43 del artículo 140.
+h) Se sancionarán con multa de 2.001 a 4.000 euros las infracciones previstas en los puntos 16, 17, 18, 19, 20, 21, 22, 23, 37.10, 37.11 y 42 del artículo 140 y, cuando el precio del transporte esté comprendido entre 4.001 a 6.000 euros, las infracciones previstas en los puntos 40 y 43 del artículo 140.
+i) Se sancionarán con multa de 4.001 a 6.000 euros las infracciones previstas en los puntos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 37.1, 37.2 y 41 del artículo 140 y, cuando el precio del transporte sea superior a 6.000 euros, las infracciones previstas en los puntos 40 y 43 del artículo 140.
+j) Se sancionarán con multa de 6.001 a 18.000 euros las infracciones reseñadas en el apartado i), con excepción de la infracción reseñada en el artículo 140.43, y con multa de 2.001 a 6.000 euros las infracciones del apartado g) reseñadas en el artículo 140.39, cuando el responsable de las mismas ya hubiera sido sancionado, mediante resolución que ponga fin a la vía administrativa, por la comisión de cualquier otra infracción muy grave de las previstas en esta Ley en los 12 meses anteriores, pudiendo ascender a 30.000 euros el importe de la multa cuando se trate de infracciones contenidas en el apartado 40 del artículo 140 y se considere que la conducta afecta significativamente a la capacidad y a la solvencia económica del acreedor o se haya superado en más de 120 días el plazo máximo legal de pago previsto en dicho precepto.
+Se sancionará con multa de 4.001 a 18.000 euros la infracción del artículo 140.43 cuando el responsable de la misma ya hubiera sido sancionado, mediante resolución que ponga fin a la vía administrativa, por la comisión de otra infracción del artículo 140.43 en los 12 meses anteriores.
+k) Cuando fuera de aplicación lo previsto en los artículos 141.25 y 142.19, la cuantía de la sanción que en su caso corresponda imponer estará comprendida, respectivamente, dentro de los límites establecidos en los apartados d), e) y f) y a), b) y c).
+2. La imposición de las sanciones que, en su caso, correspondan será independiente de la posible obligación de indemnizar los daños y perjuicios causados.
+3. Cuando sea detectada la comisión de la infracción prevista en el punto 16 del artículo 140, la Administración actuante lo comunicará al Registro de Empresas y Actividades de Transporte para que realice la oportuna anotación y, de oficio, lo comunique, a su vez, a la Administración competente sobre las autorizaciones afectadas, a fin de que ésta proceda a su suspensión en los términos señalados en el artículo 52.
+Cuando en la comisión de la infracción prevista en el punto 10 del artículo 140, hubiesen intervenido talleres autorizados, con independencia de la sanción que corresponda, se propondrá al órgano competente la retirada de la correspondiente autorización.
+4. Deberá ordenarse la inmediata inmovilización del vehículo hasta que se supriman los motivos determinantes de la infracción, en los siguientes supuestos:
+a) Cuando sean detectadas durante su comisión en carretera infracciones que deban ser denunciadas de acuerdo con lo previsto en los puntos 1, 10, 11, 12, 15.6, 15.7, 15.11, 15.18, 23, 39.1, 39.2 o 39.3 del artículo 140 o en el punto 2 del artículo 141.
+En los supuestos previstos en los puntos 39.1, 39.2 y 39.3 del artículo 140, procederá la inmovilización del vehículo hasta que se produzca el pago de la correspondiente sanción pecuniaria.
+b) Cuando se detecte durante su comisión en carretera el incumplimiento de los tiempos de conducción diaria o de los períodos obligatorios de pausa o descanso diario, salvo que la infracción deba reputarse leve y la distancia que todavía deba recorrer el vehículo para alcanzar su destino no sea superior a 30 kilómetros.
+c) Cuando sean detectadas en carretera conductas infractoras en las que concurran circunstancias que puedan entrañar peligro para la seguridad, aún cuando no concurra ninguno de los supuestos señalados anteriormente.
+A los efectos previstos en este punto, los miembros de los Servicios de Inspección del Transporte Terrestre o los agentes de las fuerzas encargadas de la vigilancia del transporte actuantes habrán de retener la documentación del vehículo y, en su caso, la de la mercancía, así como la correspondiente autorización, hasta que se subsanen las causas que dieron lugar a la inmovilización, siendo, en todo caso, responsabilidad del transportista la custodia del vehículo, su carga y pertenencias.
+Cuando la inmovilización del vehículo pueda entrañar un peligro para la seguridad, el transportista vendrá obligado a trasladar el vehículo hasta el lugar que designe la autoridad actuante. En caso de no hacerlo, tal medida podrá ser adoptada por aquélla. Los gastos que pudieran originar las operaciones anteriormente señaladas serán, en todo caso, por cuenta del transportista, quien deberá abonarlos como requisito previo a la devolución del vehículo.
+La autoridad actuante únicamente podrá optar por no inmovilizar el vehículo en los supuestos anteriormente indicados, cuando concurran circunstancias bajo las que esa medida entrañaría un mayor peligro para la seguridad, las cuales deberán quedar documentadas expresamente en su denuncia.
+5. La comisión de las infracciones señaladas en los puntos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15.6, 15.7, 15.11, 15.18, 16, 17, 18, 20, 23, 37.1 y 37.2 del artículo 140, darán lugar a la pérdida de la honorabilidad de la persona que, en su caso, ocupe el puesto de gestor de transporte en la empresa infractora, durante un plazo no superior a un año, salvo que el órgano competente acuerde lo contrario mediante resolución motivada, por estimar que ello resultaría desproporcionado en el caso concreto de que se trate.
+En todo caso, se entenderá desproporcionada la pérdida de la honorabilidad cuando el infractor no hubiese sido sancionado por la comisión de ninguna otra infracción muy grave en los 365 días anteriores a aquél en que cometió la que ahora se sanciona.
+A efectos de lo dispuesto en este punto, la Administración actuante deberá sustanciar un expediente sancionador al gestor de transporte, con propuesta de la pérdida de honorabilidad, independiente aunque simultáneamente a la tramitación del que se sustancie a la empresa por la comisión de la infracción de que se trate. En su caso, no procederá acordar la pérdida de honorabilidad del gestor, cuando éste pruebe que los hechos constitutivos de la infracción no le resultaban imputables por razón de su cargo.
+Cuando la infracción se hubiese cometido careciendo de autorización, la pérdida de honorabilidad afectará a la persona física que, en nombre propio o en representación de una persona jurídica, hubiese formalizado el contrato o emitido la factura de que se trate.
+Cuando la resolución sancionadora conlleve la pérdida de la honorabilidad del gestor de transporte, el órgano que la adopte lo comunicará al Registro de Empresas y Actividades de Transporte para que realice la oportuna anotación y, de oficio, lo comunique, a su vez, a la Administración competente sobre las autorizaciones afectadas, a fin de que ésta proceda a su suspensión, en los términos señalados en el artículo 52.
+6. La imposición de tres sanciones en el periodo de dos años, mediante resolución firme en vía administrativa, por la comisión de las infracciones tipificadas en el artículo 140.39, contado desde la imposición de la primera de ellas, en servicios realizados al amparo de una misma autorización de arrendamiento de vehículos con conductor, podrá dar lugar a la revocación de ésta.
+Se modifica el apartado 1 por la disposición final 1.3 del Real Decreto-ley 9/2026, de 14 de abril. Ref. BOE-A-2026-8283#df
+ Se modifica la letra e) del apartado 1 por el art. 58.3 del Real Decreto-ley 20/2022, de 27 de diciembre. Ref. BOE-A-2022-22685#a5-10
+ Se modifica el apartado 1 por el art. 2.6 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#a2
+ Se modifican las letras f), g), h) e i) del apartado 1 por el art. 1.7 a 10 del Real Decreto-ley 3/2022, de 1 de marzo. Ref. BOE-A-2022-3290#a1
+ Se modifican los apartados 1. d) a j) y 4.a) y se añade el 6 por el art. único.3 a 5 de la Ley 13/2021, de 1 de octubre. Ref. BOE-A-2021-16029#au
+ Se modifica por el art. 1.80 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica por el art. 2 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+ Se convierten a euros las cuantías contempladas en el apartado 1 por el apartado 1 y anexo de la Resolución de 12 de diciembre de 2001. Ref. BOE-A-2001-25009
+
+### Artículo 144
+
+Artículo 144.Publicidad de las resoluciones sancionadoras en materia de morosidad en los contratos de transporte de mercancías por carretera.
+1. La Administración pública competente para la imposición de las sanciones publicará de forma periódica las resoluciones sancionadoras impuestas por infracciones previstas en el apartado 40 del artículo 140 que hayan adquirido firmeza en vía administrativa o, en caso de haberse interpuesto recurso contencioso-administrativo, en vía judicial. En el caso de las sanciones que imponga la Administración General del Estado, esta publicidad se dará por medio de la página web del Ministerio de Transportes, Movilidad y Agenda Urbana.
+2. Cuando la información a que se refiere el apartado anterior contenga datos personales, su publicación se ajustará a lo dispuesto en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+Se añade por el art. único.6 de la Ley 13/2021, de 1 de octubre. Ref. BOE-A-2021-16029#au
+ Se suprime por el art. 1.81 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica por el art. 2 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+### Artículo 145
+
+Artículo 145.
+Las infracciones de la legislación reguladora de los transportes terrestres prescribirán, de conformidad con las condiciones establecidas en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en el plazo de un año.
+Las sanciones de la legislación reguladora de los transportes terrestres prescribirán en los plazos y condiciones establecidos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Se modifica por el art. 2 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+### Artículo 146
+
+Artículo 146.
+1. La competencia para la imposición de las sanciones previstas en el presente capítulo corresponderá a los órganos que legal o reglamentariamente la tengan atribuida.
+2. El procedimiento para la imposición de las sanciones previstas en esta ley se ajustará a las normas específicas que en ella se establecen y a las que reglamentariamente se señalen. En lo no previsto en dichas normas se estará a lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Con objeto de establecer la posible existencia de alguno de los supuestos de reincidencia o habitualidad en la conducta infractora contemplados en este capítulo, la tramitación de todo procedimiento sancionador por la comisión de las infracciones tipificadas en esta ley deberá incluir expresamente la consulta al Registro de Empresas y Actividades de Transporte que permita conocer si existen sanciones previas que determinen dicha reincidencia o habitualidad.
+El plazo máximo en que deberá notificarse la resolución del procedimiento sancionador será de un año, contado desde la fecha del acuerdo de incoación del procedimiento.
+El procedimiento para la imposición de las sanciones previstas en esta ley se iniciará de oficio por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia.
+Las notificaciones se efectuarán, conforme proceda, en la dirección electrónica o postal del interesado que figure en el Registro de Empresas y Actividades de Transporte.
+No obstante, las denuncias formuladas por los Servicios de Inspección del Transporte Terrestre o por las fuerzas encargadas de la vigilancia del transporte en carretera, entregadas en el acto al denunciado, constituirán la iniciación del procedimiento sancionador y la notificación de la denuncia, siempre que aquél pague voluntariamente la sanción en ese mismo momento, teniendo este pago las mismas consecuencias que las establecidas en el procedimiento ordinario. El referido pago deberá efectuarse en metálico en euros o utilizando una tarjeta de crédito.
+Los órganos de las distintas Administraciones públicas competentes para sancionar las infracciones previstas en esta ley, comunicarán al Registro de Empresas y Actividades de Transporte las sanciones que impongan, con objeto de que se realice la pertinente anotación, en el plazo máximo de 30 días, contados desde la resolución sancionadora que ponga fin a la vía administrativa.
+3. Las sanciones pecuniarias podrán hacerse efectivas conforme a lo que reglamentariamente se establezca.
+En todos aquellos supuestos en que el interesado decida voluntariamente hacer efectiva la sanción antes de que transcurran los 30 días siguientes a la notificación del expediente sancionador, la cuantía pecuniaria de la sanción inicialmente propuesta se reducirá en un 30 por ciento.
+El pago de la sanción pecuniaria con anterioridad a que se dicte la resolución sancionadora implicará la conformidad con los hechos denunciados y la renuncia a formular alegaciones por parte del interesado y la terminación del procedimiento, debiendo, no obstante, dictarse resolución expresa. Aunque el procedimiento sancionador se dé por terminado de esta manera, el interesado podrá interponer idénticos recursos a los que le hubieran correspondido en el supuesto de que el procedimiento hubiese terminado de forma ordinaria.
+4. Con independencia de lo establecido en el punto 2, en la imposición y ejecución de sanciones por infracciones cometidas por personas que no acrediten su residencia en territorio español serán de aplicación las reglas que a continuación se establecen, junto con las que, en su caso, se señalen reglamentariamente de forma expresa:
+a) El vehículo utilizado en la realización del transporte objeto de la denuncia quedará inmovilizado hasta que la empresa denunciada no pague la sanción señalada o bien deposite su importe o garantice su pago.
+El depósito que, en su caso, realice el denunciado deberá constituirse en metálico en euros o utilizando una tarjeta de crédito.
+Cuando el denunciado no haga efectivo el depósito del importe de la sanción en el momento de la denuncia, se le permitirá, no obstante, que señale una persona o entidad que constituya caución suficiente del pago del importe total de la sanción propuesta en la denuncia, conforme a lo que reglamentariamente se determine.
+b) Si el intento de realizar cualquier notificación al denunciado en el curso del expediente sancionador resultase fallido, aquélla se remitirá al departamento ministerial competente en materia de transportes del país en que resida para que le dé traslado, considerándose así realizada definitivamente la notificación.
+c) Cuando las sanciones impuestas mediante resolución que ponga fin a la vía administrativa no sean satisfechas en período voluntario, se podrá proceder, si el vehículo de que se trate hubiera quedado inmovilizado durante la tramitación del expediente, a su venta en pública subasta, en la forma que reglamentariamente se establezca, quedando el dinero obtenido afecto al pago del importe de la sanción, de los gastos originados por la inmovilización y la subasta, así como de los gastos que pudieran haberse producido como consecuencia de la responsabilidad del transportista por la custodia del vehículo, su carga y pertenencias. El sobrante, si lo hubiere, quedará a disposición de la persona denunciada.
+5. En relación con la ejecución de las sanciones, serán de aplicación las normas específicas que reglamentariamente se establezcan, y en lo no previsto por éstas, se estará a lo establecido en la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en el Reglamento General de Recaudación.
+El pago de las sanciones pecuniarias señaladas en la presente ley, impuestas por resolución que ponga fin a la vía administrativa, será requisito necesario para que proceda el otorgamiento de nuevos títulos habilitantes para la realización de cualquier clase de transporte interior o internacional por carretera o de alguna de sus actividades auxiliares y complementarias, así como para la realización del visado, la transmisión o la modificación de cualquiera de aquellos de que ya fuera titular el infractor.
+Asimismo, la realización de dicho pago de sanciones será requisito exigible para que proceda la autorización administrativa a la transferencia de los vehículos con los que se hayan cometido las infracciones a las que las referidas sanciones correspondan.
+Se modifican los apartados 2 a 4 por el art. 1.82 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se modifica por el art. 2 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+ Se modifica el apartado 1 por al art. 65 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
+
+## CAPÍTULO II
+
+Instrumentos de control
+Se modifica por el art. 2 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+### Artículo 147
+
+Artículo 147.
+1. Durante la realización de los servicios y actividades reguladas en esta ley deberán llevarse a bordo del vehículo, debidamente cumplimentados, los documentos de control administrativo que, en su caso, reglamentariamente se determinen. En los transportes internacionales se emplearán los documentos de control establecidos en los convenios suscritos por España.
+Los vehículos en que los referidos servicios se realicen deberán, por su parte, encontrarse señalizados mediante los rótulos y distintivos que, para la exacta identificación de las características del servicio o del título habilitante a cuyo amparo se prestan, sean exigidos reglamentariamente.
+2. Las personas que realicen los servicios y actividades previstos en esta ley deberán cumplimentar y conservar en su domicilio empresarial, durante el plazo que se establezca a los efectos previstos en el artículo 33.3, la documentación de carácter administrativo o estadístico que, en su caso, se determine reglamentariamente.
+3. A efectos de contabilidad, las empresas titulares de concesiones o autorizaciones de transporte público regular de viajeros de uso general deberán tratar cada una de ellas como una actividad separada, gestionándola como una división contable independiente, distinta de cualquier otra actividad que realicen, esté o no relacionada con el transporte de viajeros.
+Se modifica por el art. 2 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+ La obligación del apartado 3 es exigible a partir del 1 de enero de 2004, según establece la disposición final única.
+ Se modifica por el art. 162 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 148
+
+Artículo 148.
+Los vehículos destinados a la realización de transporte por carretera deberán tener instalado y llevar en funcionamiento durante su prestación el aparato de control de los tiempos de conducción y descanso, el limitador de velocidad, así como otros mecanismos o instrumentos de control en los casos en que así se exija reglamentariamente o resulte obligatorio de conformidad con las disposiciones contenidas en los convenios internacionales suscritos por España o en la normativa directamente aplicable en la Unión Europea.
+Se modifica por el art. 2 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+ Se modifica por el art. 162 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 149
+
+Artículo 149.
+Cuando la Administración haya de hacerse cargo de la custodia de un vehículo inmovilizado por alguna de las causas previstas en esta ley, advertirá expresamente a su titular, a través de la correspondiente notificación, de que si transcurren más de dos meses sin que haya formulado alegación alguna, se podrá acordar su traslado a un Centro Autorizado de Tratamiento de Vehículos para su posterior destrucción y descontaminación.
+Se añade por el art. 1.83 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+ Se deroga por el art. 163 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+## TÍTULO VI
+
+El transporte ferroviario
+Se deroga por la disposición derogatoria única.1 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## CAPÍTULO I
+
+Conceptos y clases
+Se deroga por la disposición derogatoria única.1 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículos 150 y 151
+
+(Derogados)
+Se derogan por la disposición derogatoria única.1 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículo 150
+
+Artículo 150.
+1. Es objeto del presente Título la regulación de los transportes por ferrocarril definidos en el artículo 1. No se considerarán incluidos en el concepto de ferrocarril los teleféricos u otros medios análogos de transporte que utilicen cable o cables, tractor y portador y que no tengan camino terrestre de rodadura.
+2. Los ferrocarriles de transporte público definidos en el artículo siguiente tienen el carácter de servicio público de titularidad de la Administración debiendo ser admitidos a su utilización todos aquellos viajeros o cargadores que lo deseen y que cumplan las condiciones que se establezcan, rigiéndose por lo establecido en esta Ley en lo que sea aplicable.
+3. En lo no previsto en esta Ley, o en las normas que la desarrollen, será de aplicación en la construcción y explotación de ferrocarriles la legislación de obras públicas y de contratación administrativa, así como la de específica aplicación a las Sociedades Públicas que realicen dichas actividades.
+
+### Artículo 151
+
+Artículo 151.
+1. Los ferrocarriles pueden ser de transporte público y de transporte privado.
+2. Son ferrocarriles de transporte público aquellos que llevan a cabo transporte por cuenta ajena mediante retribución económica.
+3. Son ferrocarriles de transporte privado aquellos destinados a realizar transporte por cuenta propia como complemento de otras actividades principales realizadas por empresas o establecimientos del mismo titular, estando directamente vinculados al adecuado desarrollo de dichas actividades.
+
+## CAPÍTULO II
+
+Los ferrocarriles de transporte público
+Se deroga por la disposición derogatoria única.1 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Artículos 152 a 165
+
+(Derogados)
+Se derogan por la disposición derogatoria única.1 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+## Sección primera
+
+Sección primera. Disposiciones generales
+
+### Artículo 152
+
+Artículo 152.
+1. Para realizar el establecimiento de líneas ferroviarias de transporte público será necesario que la Administración, de oficio o a instancia de parte interesada apruebe, un proyecto, en el que habrán de incluirse: la memoria descriptiva de las necesidades a satisfacer y de los factores de todo orden a tener en cuenta, los planos generales y parciales, la descripción del trabajo y de las obras, así como de las circunstancias técnicas de la realización de las mismas, el presupuesto general y en su caso los presupuestos parciales, y las demás circunstancias que reglamentariamente se determinen.
+2. Cuando el establecimiento de líneas ferroviarias se haga con cargo a fondos de inversiones públicas, la realización de éstas exigirá la aplicación de procedimientos de selección de inversiones y de evaluación de la rentabilidad social de dicho establecimiento.
+
+### Artículo 153
+
+Artículo 153.
+1. La aprobación del correspondiente proyecto de establecimiento de nuevas líneas, al que se refiere el artículo anterior, así como los de obras de ampliación o mejora de líneas preexistentes que requieran la utilización de nuevos terrenos y cuya realización resulte jurídicamente procedente, supondrá la declaración de utilidad pública o interés social y la urgencia de la ocupación a efectos de expropiación forzosa, de los terrenos por los que haya de discurrir la línea o realizarse la ampliación o mejora según lo previsto en la legislación expropiatoria.
+2. Las explotaciones ferroviarias de transporte público, así como los vehículos, instalaciones, terrenos y dependencias afectos a las mismas, ya sea su titularidad pública o privada, serán inembargables, siéndoles aplicables idénticas reglas a las establecidas en el artículo 86 de esta Ley en relación con las concesiones de servicios regulares de viajeros por carretera.
+
+### Artículo 154
+
+Artículo 154.
+1. La construcción de los ferrocarriles de transporte público se ajustará a las características técnicas que reglamentariamente se establezcan para garantizar su calidad, seguridad y homogeneidad.
+2. Deberán ser establecidas reglas homogéneas en relación con el ancho de la vía, así como las dimensiones mínimas del espacio entre vías.
+
+## Sección segunda
+
+Sección segunda. La Red Nacional Integrada de Transporte Ferroviario
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 155
+
+Artículo 155.
+(
+ Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 156
+
+Artículo 156.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+## Sección tercera
+
+Sección tercera. Líneas que no han de formar parte de la Red Nacional Integrada
+
+### Artículo 157
+
+Artículo 157.
+1. El establecimiento de nuevas líneas de ferrocarriles de transporte público que no hayan de formar parte de los servicios que unitariamente componen la Red Nacional Integrada, será decidido, de oficio o a instancia de los particulares interesados en la misma, por la Administración.
+2. No procederá el establecimiento de las líneas a que se refiere el punto anterior, cuando se dé alguna de las siguientes circunstancias:
+a) Que la línea de que se trate suponga una duplicidad o una concurrencia innecesaria con otras líneas ya existentes.
+b) Que la construcción y explotación no se plantee en términos económica y financieramente viables, o socialmente rentables.
+3. El establecimiento de las líneas podrá llevarse a cabo por la Administración según alguna de las dos siguientes modalidades:
+a) Realizando la construcción con independencia de la explotación, según lo previsto en el punto 1 del artículo siguiente, y efectuando la explotación según lo establecido en los artículos 158, 159, 160 y concordantes.
+b) Realizando la construcción conjuntamente con la explotación a través del sistema de gestión indirecta previsto en los artículos 161, 162 y concordantes.
+
+### Artículo 158
+
+Artículo 158.
+1. Cuando la Administración decida la construcción de la línea de que se trate, con independencia de la explotación según la modalidad prevista en el apartado a) del punto 3 del artículo anterior, podrá realizar dicha construcción a través de cualquiera de los procedimientos de gestión directa o indirecta legalmente previstos y una vez realizada la construcción de la línea, la Administración podrá explotarla directamente según lo que se prevé en el punto 2 de este artículo o bien indirectamente según lo establecido en los artículos 159 y 160.
+2. En caso de decidirse la explotación pública directa, ésta se llevará a cabo por la «Red Nacional de Ferrocarriles Españoles» o por otras empresas públicas ferroviarias de titularidad estatal a las que el Gobierno encomiende la misma.
+
+### Artículo 159
+
+Artículo 159.
+1. Cuando no se lleve a cabo la explotación pública directa prevista en el punto 2 del artículo anterior, la explotación de la línea previamente construida conforme a lo dispuesto en el punto 1 de dicho artículo, se llevará a cabo como regla general por la persona física o jurídica que obtenga la necesaria concesión administrativa que le habilite para la misma. No obstante, la Administración podrá decidir en todo caso, que la explotación se lleve a cabo a través de cualquiera de los restantes procedimientos de gestión de servicios públicos previstos en la legislación de contratación administrativa.
+2. El plazo de las referidas concesiones de explotación no podrá ser superior a cincuenta años.
+
+### Artículo 160
+
+Artículo 160.
+1. El otorgamiento de la concesión administrativa de explotación, prevista en el artículo anterior, se llevará a cabo mediante concurso.
+Servirá de base al referido concurso el pliego de condiciones aprobado por la Administración, en el cual se incluirán los servicios base que se hayan de prestar, la clase y características del material que se haya de aportar, las funciones de mantenimiento y conservación que se hayan de realizar, el canon concesional, que como compensación de los gastos de construcción en su caso haya de satisfacerse a la Administración, el plazo de duración, el régimen de apoyo público que en su caso se establezca, la fianza que haya de constituirse como garantía, y las demás circunstancias que configuren la prestación del servicio.
+2. Serán de aplicación en el correspondiente concurso, y en la posterior prestación del servicio, análogas reglas a las establecidas en los artículos 72, 73 y 74 de esta Ley, aplicándose subsidiariamente la legislación de contratación administrativa.
+
+### Artículo 161
+
+Artículo 161.
+1. Cuando de conformidad con lo previsto en el apartado b) del punto 3 del artículo 157, la Administración decida bien de oficio o a instancia de los particulares interesados, según lo que se determina en el punto 3 de este artículo, que la construcción y explotación de una línea ferroviaria se lleve a cabo conjuntamente, a través del procedimiento de gestión indirecta, convocará como regla general el oportuno concurso tendente a seleccionar la empresa a la que haya de otorgarse la concesión de construcción y explotación de la correspondiente línea.
+2. No obstante el procedimiento común de carácter concesional previsto en el punto anterior, la Administración podrá acordar el realizar la construcción y explotación del servicio, a través de cualquiera de las demás formas de gestión previstas en la legislación de contratación administrativa.
+3. Los particulares que pretendan la construcción y explotación de un ferrocarril de transporte público dirigirán su solicitud al órgano administrativo competente, acompañándola de los documentos que hayan de servir de base al correspondiente proyecto, que expliciten los datos y circunstancias previstas en el artículo 152.
+
+### Artículo 162
+
+Artículo 162.
+1. Servir de base al concurso al que se refiere el artículo anterior, el correspondiente pliego de condiciones en el que se explicitarán las condiciones contenidas en el proyecto, así como aquellas otras referidas a la explotación previstas en el artículo 160.
+2. En el referido concurso, y en la posterior construcción y explotación de la línea, serán de aplicación anánlogas reglas a las establecidas en los artículos 72, 73 y 74 de esta Ley, aplicándose en lo no previsto en éstas la legislación de contratación administrativa y obras públicas; no obstante, cuando el establecimiento del servicio se lleve a cabo por iniciativa de los particulares según lo previsto en el punto 3 del artículo anterior, la empresa que haya realizado la correspondiente iniciativa tendrá derecho de tanteo en el concurso a que se refiere el punto 1 de dicho artículo.
+3. Las concesiones de construcción y explotación conjunta a que se refiere este artículo se concederán por un plazo máximo de noventa y nueve años. Al finalizar el plazo de concesión, adquirirá el ente concedente la línea concedida con todas sus dependencias, debiendo en su caso indemnizar al concesionario por el valor no amortizado de éstas.
+
+### Artículo 163
+
+Artículo 163.
+1. Las concesiones de construcción y explotación o únicamente de explotación se extinguirán cuando finalice el plazo para el que fueron otorgadas. No obstante, cuando el concesionario hubiera cumplido satisfactoriamente sus obligaciones, la Administración podrá decidir su renovación, realizando las modificaciones en las condiciones de prestación que resulten convenientes para el interés público.
+2. Asimismo, las concesiones se extinguirán cuando la Administración acuerde el rescate o la caducidad de las mismas, o cuando se produzca la renuncia del concesionario, siendo de aplicación lo establecido en los artículos 83 y 84, en lo que no se oponga a la especial naturaleza del transporte ferroviario.
+La Administración cuando exista riesgo de interrupción del servicio, o de no prestación del mismo en las condiciones establecidas, podrá intervenir temporalmente su realización. En tal caso las consecuencias económicas de la prestación continuarán correspondiendo al concesionario.
+
+### Artículo 164
+
+Artículo 164.
+1. Los titulares de las concesiones de construcción y explotación de ferrocarriles de transporte público, así como de las que únicamente se refieran a la explotación, tendrán en todo caso los siguientes derechos:
+a) Utilización de los terrenos por los que haya de discurrir la línea cuando corresponda a la Administración la aportación de los mismos según lo previsto en la correspondiente concesión.
+b) Realización en nombre de la Administración de las funciones de policía que les atribuya el ordenamiento vigente.
+c) Percibir mientras dure la concesión el abono del precio del transporte por parte de los usuarios, con sujeción a las tarifas autorizadas por la Administración.
+d) Otorgamiento por la Administración competente de las concesiones o autorizaciones de dominio público, o de servicio público que resulten necesarias para realizar la explotación del servicio.
+e) Aplicación del régimen especial previsto en el artículo 27.
+f) Los demás que reglamentariamente se determinen, a fin de asegurar la viabilidad y adecuada prestación del servicio.
+2. Asimismo, los titulares de las concesiones a que se refiere el punto anterior tendrán derecho a las subvenciones, aprovechamiento de obras públicas, u otras ayudas administrativas que por fundadas razones de interés público en su caso estén previstas en los respectivos títulos concesionales.
+3. Los concesionarios podrán realizar por sí o a través de terceros mediante contrato, la utilización de los terrenos, instalaciones y dependencias de la línea para actividades diferentes a la del transporte pero complementarias o compatibles con ésta. La Administración podrá prohibir o condicionar dichas actividades cuando las mismas puedan perjudicar la adecuada prestación del servicio o resulten contrarias al interés público.
+4. Las empresas concesionarias podrán realizar, previa autorización de la Administración, las ampliaciones, construcción de ramales u otras modificaciones de la línea que no estén previstas en el título concesional y que resulten necesarias para una mejor prestación del servicio. Previa petición del concesionario, y siempre que la utilidad social de las líneas o el interés público lo justifiquen, la Administración podrá efectuar por sí misma, sufragar, o subvencionar, la realización de las actividades anteriormente citadas.
+5. Las empresas que exploten ferrocarriles de transporte público no precisarán autorizaciones, permisos o licencias administrativas para las obras de conservación y entretenimiento de sus líneas e instalaciones y demás servicios auxiliares directamente relacionados con la explotación ferroviaria.
+
+### Artículo 165
+
+Artículo 165.
+1. Los titulares de las concesiones a que se refiere el artículo anterior tendrán las siguientes obligaciones:
+a) Observar las normas que respecto al servicio, su calidad o seguridad, dicte la Administración.
+b) Respetar los límites tarifarios establecidos.
+c) Cumplir y hacer cumplir las normas de policía de ferrocarriles.
+d) Facilitar el control e inspección de la Administración.
+e) Cumplir las demás obligaciones generales que establezca la legislación vigente, así como las de carácter específico establecidas en el título concesional.
+2. Cuando no se establezca expresamente lo contrario en el correspondiente título concesional, las funciones de mantenimiento, conservación y reparación de la línea serán por cuenta del concesionario, estando éste obligado en todo caso a mantener la línea, sus instalaciones, dependencias y material móvil, en un estado idóneo de conservación.
+
+## CAPÍTULO III
+
+Los ferrocarriles de transporte privado
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículos 166 a 188
+
+(Derogados)
+Se derogan por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 166
+
+Artículo 166.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 167
+
+Artículo 167.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo.Ref. BOE-A-2004-8765
+
+## CAPÍTULO IV
+
+Policía de ferrocarriles
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+## Sección primera
+
+Sección primera. Limitaciones generales
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 168
+
+Artículo 168.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+ Se modifica el apartado 1.b) por el art. 86.1 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+
+### Artículo 169
+
+Artículo 169.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 170
+
+Artículo 170.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+ Se modifican los apartados 1 y 2 por al art. 86.2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+
+## Sección segunda
+
+Sección segunda. Disposiciones específicas sobre concesionarios y usuarios
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 171
+
+Artículo 171.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 172
+
+Artículo 172.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 173
+
+Artículo 173.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 174
+
+Artículo 174.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+## CAPÍTULO V
+
+La «Red Nacional de los Ferrocarriles Españoles»
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 175
+
+Artículo 175.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 176
+
+Artículo 176.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 177
+
+Artículo 177.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 178
+
+Artículo 178.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 179
+
+Artículo 179.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+ Se añade el párrafo último al apartado 2 por el art. 105.2 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Se modifica el apartado 3 por el art. 162 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 180
+
+Artículo 180.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 181
+
+Artículo 181.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 182
+
+Artículo 182.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 183
+
+Artículo 183.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 184
+
+Artículo 184.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 185
+
+Artículo 185.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 186
+
+Artículo 186.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 187
+
+Artículo 187.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Artículo 188
+
+Artículo 188.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 39/2003, de 17 de noviembre. Ref. BOE-A-2003-20978
+ Téngase en cuenta que se prorroga hasta el 31 de diciembre de 2004 la fecha de entrada en vigor de la Ley 39/2003 según establece el art. único del Real Decreto-Ley 1/2004, de 7 de mayo. Ref. BOE-A-2004-8765
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. En el plazo de un año a partir de la publicación de la presente Ley se procederá por el Gobierno a la creación de la «Empresa Nacional de Transportes de Viajeros por Carretera» (ENATCAR), la cual revestirá la forma de Sociedad Estatal de las previstas en el apartado b) del punto 1 del artículo 6.º de la Ley General Presupuestaria.
+2. El Estatuto de ENATCAR será aprobado por el Gobierno, y su dependencia orgánica y control se producirá en relación con el Ministerio de Transportes, Turismo y Comunicaciones a través de la Dirección General de Transportes Terrestres.
+3. ENATCAR asumirá desde su constitución la titularidad de la totalidad de las concesiones y autorizaciones de servicios regulares permanentes de uso general o especial o temporales de transporte por carretera, de las que en ese momento sean titulares la «Red Nacional de Ferrocarriles Españoles» (RENFE) y los «Ferrocarriles Españoles de Vía Estrecha» (FEVE), así como la totalidad de los medios materiales propiedad de dichas Compañías ferroviarias con los que dichos servicios se vinieran prestando, salvo aquellos que sean transferidos a las empresas que hubieran venido colaborando en su prestación, de conformidad con lo previsto en la disposición transitoria tercera.
+Asimismo, ENATCAR se subrogará en todos los contratos de transporte suscritos por RENFE o FEVE, que hubieran de realizarse a través de los servicios de transporte a los que se refiere el párrafo anterior.
+ENATCAR asumirá igualmente la titularidad de las participaciones que tuvieran RENFE o FEVE en otras empresas titulares de concesiones o autorizaciones de servicios de transporte por carretera, o prestatarias de servicios correspondientes a concesiones y autorizaciones de las que sean titulares RENFE o FEVE, sin que por RENFE o FEVE puedan ser previamente transmitidas las mismas.
+4. Fuera de los supuestos específicos previstos en el punto anterior y de los regulados en los puntos 2 y 3 del artículo 71 de esta Ley ENATCAR únicamente podrá acceder a la titularidad de concesiones o autorizaciones habilitantes para la prestación de servicios o realización de actividades de transporte, en concurrencia con el resto de empresas y en igualdad de condiciones con éstas, salvo el derecho de preferencia por anterior prestación previsto en el artículo 74.
+5. ENATCAR podrá realizar cuantas actividades comerciales o industriales estén dirigidas al adecuado desarrollo de su actividad de empresa de transporte, incluso mediante la participación en otros negocios, sociedades o empresas.
+6. En la gestión de aquellos servicios a los que se refiere el punto 3 anterior, en los que las Compañías ferroviarias citadas en dicho punto vinieran utilizando la colaboración de empresas privadas, cuando las correspondientes concesiones no sean transferidas a las citadas empresas, de conformidad con lo previsto en la disposición transitoria tercera, ENATCAR habrá de respetar los derechos de dichas empresas derivados de los contratos que éstas hubieran suscrito con las referidas Compañías ferroviarias, mientras dure la vigencia de los mismos.
+Si ENATCAR no continuase la prestación del servicio utilizando la colaboración de la misma empresa según lo previsto en el párrafo anterior, en el caso de decidir que la explotación se siga realizando con la colaboración de una empresa privada con la que habrá de formar una sociedad filial de carácter mixto, deberá convocar un concurso de selección, que se realizará bajo el control de la Dirección General de Transportes Terrestres. En dicho concurso se tendrán en cuenta las circunstancias previstas en el artículo 74 de esta Ley y en el mismo tendrá derecho de tanteo la empresa que anteriormente hubiera venido colaborando adecuadamente en la prestación del servicio.
+El referido procedimiento deberá realizarse, sin que quepa, salvo supuestos excepcionales debidamente justificados, optar por la gestión directa sin colaboración de empresa privada, cuando se trate de servicios en los que una empresa privada hubiera venido colaborando ininterrumpidamente en el momento de entrada en vigor de esta Ley durante diez o más años, se trate del primer vencimiento del correspondiente contrato posterior a esta Ley y ENATCAR no decida directamente que sea la misma empresa la que continúe la colaboración.
+7. Los servicios de los que sea titular ENATCAR, que en el momento de entrada en vigor de la presente Ley no se vengan prestando con la colaboración de empresas privadas, deberán en todo caso realizarse por dicha empresa directamente por sí misma.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. Para la matriculación y expedición del correspondiente permiso de circulación, o cambio de titularidad de los vehículos de transporte por carretera regulados en esta Ley, será necesario, en los supuestos que reglamentariamente se establezcan por las autoridades competentes en materia de tráfico y circulación vial, la previa justificación por su propietario de contar con el correspondiente título habilitante que permita dedicar el vehículo a la realización de alguno de los tipos de transporte público o privado, o a la actividad auxiliar del arrendamiento, regulados en esta Ley.
+2. Reglamentariamente se establecerán los dispositivos de coordinación de las Administraciones de transporte y de tráfico, que faciliten el cumplimiento de lo establecido en el punto anterior.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+1. Los transportes realizados en teleféricos, u otros medios en los que la tracción se haga por cable, y en los que no exista camino terrestre de rodadura fijo, se regirán por las normas a que se refiere el punto 2 del artículo 1.º de esta Ley.
+2. No obstante, cuando dichos medios de transporte sean complementarios de estaciones de invierno o esquí, podrá otorgarse por adjudicación directa a los titulares de éstas, la correspondiente concesión sobre los mismos.
+Se considerarán estaciones de invierno o esquí, aquellos centros turísticos especialmente dedicados a la práctica de deportes de nieve o montaña, que reúnan las condiciones que reglamentariamente se determinen.
+3. La fijación y percepción de las tarifas correspondientes a la utilización de cada uno de los medios de transporte a los que se refiere esta disposición, podrá hacerse cuando así se autorice por la Administración, de forma global o conjunta, con las referentes a otros servicios distintos que se pongan a disposición de los usuarios.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Como medida de armonización de las condiciones de competencia de los distintos modos de transporte y a fin de conseguir una igualación en las condiciones económicas de las mismas, de conformidad con los principios de la presente Ley, el Gobierno, en el plazo de veinticuatro meses a partir de la entrada en vigor de la misma, presentar a las Cortes un proyecto de Ley de creación de una tasa que deberán satisfacer las personas a cuyo favor se hallen expedidos los títulos habilitantes previstos en esta Ley para la realización de transporte por carretera. Para la determinación de la cuantía de dicha tasa se tendrán en cuenta las características de los vehículos que sean utilizados al amparo de los referidos títulos habilitantes.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+1. La Ley de Presupuestos de cada ejercicio podrá modificar las tarifas y demás elementos de cuantificación aplicables a las tasas reguladas en la presente Ley.
+2. Se autoriza al Gobierno para actualizar las cuantías pecuniarias establecidas en la presente Ley, a fin de adecuarlas a los cambios de valor adquisitivo de la moneda, según los índices oficiales del Instituto Nacional de Estadística.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Los transportes que se realicen íntegramente en recintos cerrados, dedicados a actividades distintas al transporte terrestre, quedarán en principio exceptuados de la aplicación de esta Ley, si bien cuando puedan incidir en el sistema general de transportes, reglamentariamente podrán establecerse de conformidad con las normas de la Ley, preceptos relativos a la ordenación de los mismos.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+Se autoriza al Gobierno para dictar, a propuesta del Ministerio de Transportes, Turismo y Comunicaciones, las disposiciones necesarias para la ejecución y desarrollo de lo dispuesto en esta Ley.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+Reglamentariamente, y previo acuerdo con las Comunidades Autónomas, de las islas Baleares y de las islas Canarias, se realizará la adaptación del régimen jurídico dimanante de la presente Ley, a las especiales características del transporte realizado en las mismas, fundamentalmente en orden a establecer las limitaciones en el ámbito de los transportes, que resulten necesarias para mantener en dichos archipiélagos el equilibrio entre la oferta y la demanda, y a potenciar la realización de transporte entre dichas Comunidades y la Península, promoviendo la coordinación intermodal.
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+Se faculta al Ministerio de Fomento para el establecimiento de un programa de innovación y fomento de la calidad en la red de servicios regulares de transporte de viajeros por carretera que contemple la presentación de planes individualizados de innovación y mejora de la calidad por parte de las empresas concesionarias y su ulterior aprobación.
+En los concursos que se convoquen para el otorgamiento de concesiones de transporte regular de viajeros por carretera, permanentes y de uso general, se podrá valorar a los efectos de la adjudicación, en los términos que reglamentariamente se determinen, el cumplimiento de los planes individualizados de innovación y mejora de la calidad a los que se refiere el párrafo anterior.
+Se añade por el art. 1 de la Ley 29/2003, de 8 de octubre. Ref. BOE-A-2003-18681
+
+### Disposición adicional décima
+
+Disposición adicional décima.
+Se faculta al Gobierno para modificar las cuantías señaladas en el apartado b) del artículo 46, cuando ello resulte pertinente para acomodarlo a los cambios que, en su caso, puedan introducirse en la reglamentación de la Unión Europea.
+Asimismo, se faculta al Gobierno para incorporar a nuestro ordenamiento jurídico, por vía reglamentaria, las nuevas infracciones y criterios sancionadores que, en su caso, puedan ser establecidos en el futuro por la referida reglamentación comunitaria.
+Cuando la Comisión Europea, en uso de las facultades que le atribuye el artículo 6.2 b) del Reglamento (CE) n.º. 1071/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas comunes relativas a las condiciones que han de cumplirse para el ejercicio de la profesión de transportista por carretera y por el que se deroga la Directiva 96/26/CE determine nuevas infracciones cuya comisión reiterada dé lugar a la pérdida de la honorabilidad de la empresa transportista, el Gobierno, en la medida en que la norma comunitaria lo permita, podrá establecer criterios de proporcionalidad que relacionen dicha reiteración con la dimensión de la empresa infractora.
+Se añade por el art. 1.84 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima.
+1. No obstante lo dispuesto en los artículos 22, 43 y 102, los transportes realizados por la Cruz Roja Española y otras entidades cuya actividad principal sea la prestación de servicios de asistencia sanitaria con una finalidad humanitaria y social de carácter general, se considerarán complemento necesario de ésta, y, en consecuencia se conceptuarán como transporte privado complementario, en los siguientes supuestos:
+a) Transporte de personas cuya asistencia sanitaria realice la propia entidad benéfica.
+b) Transportes sanitarios que se realicen sin percibir retribución alguna.
+c) Transportes sanitarios derivados de situaciones especiales tales como operaciones de rescate y salvamento, accidentes, catástrofes, calamidades públicas, conflictos sociales, epidemias, riesgos o siniestros colectivos y sucesos similares.
+d) Transportes sanitarios derivados de urgencias o emergencias no previsibles.
+e) Transporte inmediato de los lesionados en accidentes de tráfico al correspondiente centro hospitalario o asistencial.
+f) Transportes realizados con ocasión de la cobertura sanitaria por la entidad benéfica de que se trate de actividades deportivas, culturales y recreativas.
+g) Servicios de transporte sanitario que se desarrollen en un territorio en que los medios de transporte público y oficial existentes resulten insuficientes para atender las necesidades de esta clase de transporte en dicho territorio.
+h) Servicios de transporte sanitario que se desarrollen en un territorio en que el nivel de competencia sea insuficiente o inadecuado para garantizar la libre elección de usuario, a juicio del órgano que ostente la competencia en materia de sanidad en dicho territorio.
+Los costes que la prestación de los mencionados transportes genere a las entidades a que se refiere esta disposición, se considerarán incluidos en el conjunto de los que éstas soportan como consecuencia de su actividad general de carácter humanitario y social y, por tanto, la remuneración que, en su caso, puedan percibir por dicha prestación se entenderá siempre referida a dicha actividad general, no atribuyéndosele, en consecuencia, el carácter de percepción independiente a los efectos previstos en el apartado e) del artículo 102.2.
+2. La Cruz Roja Española y demás entidades benéficas, al objeto de acreditar el cumplimiento de los requisitos contemplados en el apartado d) del citado artículo 102.2, podrán sustituir la documentación relativa a la integración de los conductores en su organización por la que acredite la relación desinteresada que guardan con ellas los correspondientes conductores.
+Se añade por el art. 1.85 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima.
+El transporte por carretera de vehículos accidentados o averiados que se lleve a cabo en el marco de una operación de auxilio en carretera se regirá por lo dispuesto en esta ley, sin perjuicio de lo que, en su caso, se establezca en la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial acerca de las condiciones de realización de tales operaciones o de las características que deban cumplir las empresas que las desarrollen o los vehículos y demás medios que se hayan de utilizar.
+Se añade por el art. 1.86 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera.
+1. Los conductores de vehículos de transporte de mercancías de más de 7,5 toneladas de masa máxima autorizada no podrán participar en las operaciones de carga o descarga de las mercancías ni de sus soportes, envases, contenedores o jaulas, salvo en los siguientes supuestos:
+a) Transporte de mudanzas y guardamuebles.
+b) Transporte en vehículos cisterna.
+c) Transporte de áridos o el efectuado en vehículos basculantes o provistos de grúa u otros dispositivos inherentes al vehículo destinados a realizar las operaciones de carga y descarga.
+d) Transporte en portavehículos y grúas de auxilio en carretera.
+e) Transporte de carga fraccionada entre el centro de distribución y el punto de venta según lo que se determine reglamentariamente, servicios de paquetería y cualesquiera otros similares que impliquen la recogida o reparto de envíos de mercancías consistentes en un reducido número de bultos que puedan ser fácilmente manipulados por una persona.
+A efectos de esta letra, se entenderá por transporte de carga fraccionada aquél en el que resulten necesarias operaciones previas de manipulación, grupaje, clasificación, u otras similares.
+f) Transporte de animales vivos, en los puestos de control aprobados de conformidad con la normativa comunitaria, sin perjuicio de las responsabilidades establecidas en la normativa sobre la protección de los animales durante su transporte.
+g) Supuestos en los que la normativa reguladora de determinados tipos de transporte establezca específicamente otra cosa en relación con la participación del conductor.
+h) Los supuestos que reglamentariamente se establezcan, siempre que se garantice la seguridad del conductor.
+2. Las previsiones del apartado anterior serán de aplicación a todas las operaciones de carga y descarga que se efectúen en territorio español.
+Téngase en cuenta que esta disposición, añadida por el art. 1.11 del Real Decreto-ley 3/2022, de 1 de marzo. Ref. BOE-A-2022-3290#a1, entra en vigor el 2 de septiembre de 2022, según establece su disposición final 8.2.
+Se añade, con efectos de 2 de septiembre de 2022, por el art. 1.11 del Real Decreto-ley 3/2022, de 1 de marzo. Ref. BOE-A-2022-3290#a1
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Exenciones en materia de transporte regular de viajeros por carretera en situaciones de emergencia.
+Se habilita a la persona titular de la Dirección General de Transporte por Carretera y Ferrocarril, en el marco de sus competencias, para modificar los contratos o autorizaciones necesarias para el ejercicio de la actividad del transporte regular de viajeros por carretera previstos en esta ley en el marco de la prestación de obligaciones de servicio público de transporte regular de viajeros por carretera en los casos de fuerza mayor contemplados en el apartado 2 del artículo 239 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, siempre que se cumplan todas las condiciones siguientes:
+a) Que la necesidad de la modificación se derive de circunstancias que una Administración diligente no hubiera podido prever.
+b) Que no sea posible hacer frente a esas circunstancias o necesidades de forma adecuada cumpliendo lo ya establecido en los contratos o autorizaciones.
+c) Que la modificación no altere la naturaleza global del contrato.
+d) Que se mitigue cualquier posible distorsión de las condiciones del mercado como consecuencia de la modificación contractual.
+e) Que el alcance y la duración de la modificación esté limitada a lo que resulte estrictamente necesario.
+f) Que la modificación del contrato implique una alteración en su cuantía que no exceda del 50 por ciento de su precio inicial, IVA excluido.
+Asimismo, dicha modificación se podrá acordar, si se cumplen todas las condiciones mencionadas, de oficio por parte de la Administración o previa solicitud de los interesados en la que se motive adecuadamente su cumplimiento y se especifiquen las circunstancias de fuerza mayor aplicables.
+La resolución de modificación del contrato o la autorización pondrá fin a la vía administrativa, será inmediatamente ejecutivo y su cumplimiento resultará obligatorio para el contratista o autorizado.
+El órgano de contratación procederá al restablecimiento del equilibrio económico del contrato cuando la modificación acordada determinase de forma directa la ruptura sustancial de la economía del contrato.
+Se añade por la disposición final 2 del Real Decreto-ley 7/2024, de 11 de noviembre. Ref. BOE-A-2024-23422#df-2
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. A las personas físicas que en el momento de entrada en vigor de esta Ley sean titulares de concesiones o autorizaciones administrativas de transporte público por carretera, incluidas a estos efectos las autorizaciones de la clase TD, otorgadas a su favor con anterioridad al día 1 de enero de 1983, les será reconocido el requisito de capacitación profesional para la actividad de transportista interior, de viajeros o de mercancías según proceda, expidiéndose a su favor el correspondiente certificado. A las personas físicas que desde antes del 1 de enero de 1983 y hasta el presente año 1987, inclusive, hayan venido realizando legalmente transporte internacional de viajeros, o de mercancías cuyo recorrido exceda de la zona corta definida en los correspondientes convenios con Francia y Portugal, les ser expedido el correspondiente certificado para la modalidad de transporte internacional.
+2. Igual certificado al que corresponda por aplicación de las reglas previstas en el punto anterior será otorgado a las personas que desde al menos el 1 de enero de 1983, y hasta la fecha de entrada en vigor de esta Ley, vengan realizando funciones de dirección efectiva de empresas titulares de concesiones o autorizaciones de transporte.
+3. A las personas físicas titulares de concesiones o autorizaciones de transporte público por carretera, otorgadas entre los días 1 de enero de 1983 y la fecha de entrada en vigor de esta Ley, no incluidas en el punto 1 anterior, así como a las personas que entre las citadas fechas hayan iniciado la dirección efectiva de una empresa titular de concesiones o autorizaciones de transporte, les será otorgado idéntico certificado al previsto en el referido punto 1, a medida que se vayan cumpliendo tres años desde el momento de otorgamiento de la correspondiente concesión o autorización, o desde el inicio de la actividad de dirección, pudiendo, hasta tanto, continuar en su caso de forma condicional su actividad, las correspondientes empresas.
+Por excepción a lo dispuesto en el párrafo anterior, para los titulares de autorizaciones TD, el plazo a que dicho párrafo se refiere será de cinco años.
+4. A las personas físicas que en el momento de entrada en vigor de esta Ley sean titulares de autorizaciones de agencia de transporte de mercancías, vengan ejercitando legalmente la actividad de transitario o de almacenista distribuidor, o realicen funciones de dirección efectiva de empresas dedicadas legalmente a las referidas actividades, les será reconocido el requisito de capacitación profesional para la actividad de que en cada caso se trate.
+5. A los solos efectos previstos en esta disposición transitoria:
+a) No se considerarán incluidas dentro de las autorizaciones de transporte público por carretera a que se hace referencia en los puntos anteriores las autorizaciones correspondientes a vehículos de viajeros con una capacidad inferior a nueve plazas incluida la del conductor, o de mercancías cuya capacidad de carga útil autorizada no sobrepase las 3,5 toneladas, o cuyo peso máximo autorizado no exceda de 6 toneladas.
+b) Se entenderá que realizan la dirección efectiva de una empresa, las personas que tengan, individual o conjuntamente con otras, capacidad jurídica para obligar contractualmente de forma general a la misma.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+1. Los actuales concesionarios de servicios regulares de transporte de viajeros podrán optar entre:
+a) Mantener sus vigentes concesiones, en cuyo caso a medida que se vayan cumpliendo veinticinco años desde la fecha en que fueron otorgadas las mismas, la Administración irá procediendo al rescate de las mismas según la legislación vigente cuando fueron otorgadas sin que dichos concesionarios tengan ningún tipo de preferencias en el procedimiento que en su caso se lleve a cabo para seleccionar un nuevo prestatario.
+b) Sustituir sus concesiones por las reguladas en esta Ley de acuerdo con lo previsto en el punto 3 siguiente.
+Si en el plazo de tres meses a partir de la entrada en vigor de esta Ley, no se produce de forma expresa la referida opción, se presumir la misma producida en favor del sistema de sustitución a que se refiere el párrafo b).
+2. Cuando los actuales concesionarios opten por el sistema de mantenimiento de sus vigentes concesiones, siguiendo el régimen previsto en el apartado a) del punto anterior, el rescate de las mismas supondrá, asimismo, la automática revocación de las autorizaciones correspondientes a servicios de transporte de escolares o productores que trajeran su origen en la coincidencia de dichos servicios con el itinerario de la concesión rescatada.
+3. El régimen previsto en los puntos anteriores, no será de aplicación cuando se trate de concesiones otorgadas con plazo de duración prefijado, inferior a veinticinco años, en cuyo caso, las mismas mantendrán su vigencia por el plazo establecido, con sometimiento al régimen jurídico previsto en esta Ley.
+4. Cuando los concesionarios opten por el sistema de sustitución al que se refiere el punto uno, el mismo se llevará a cabo de acuerdo con las siguientes condiciones:
+a) La Administración podrá realizar las modificaciones de los servicios y de sus condiciones de prestación, precisas para una más racional configuración y explotación de la red de transportes regulares, debiendo mantener en todo caso el equilibrio económico anteriormente existente.
+b) Las anteriores concesiones serán convalidadas por concesiones para los mismos servicios con las modificaciones que resulten de la aplicación del punto anterior, sometidas íntegramente a los preceptos de esta Ley, y con un plazo de duración de veinte años que se comenzarán a computar:
+1.º En las concesiones con una antigüedad superior a veinticinco años en el momento de entrada en vigor de esta Ley; a partir del día correspondiente al año en que se produzca dicha entrada en vigor, coincidente con el día en que fue inaugurado el servicio.
+2.º En las concesiones con una antigüedad igual o inferior a veinticinco años en el momento de entrada en vigor de esta Ley; a partir del día correspondiente del año siguiente a aquel en que se produzca dicha entrada en vigor, coincidente con el día en que fue inaugurado el servicio.
+En las concesiones o unificaciones de las mismas, a las que falten más de veinte años para alcanzar una antigüedad de veinticinco años, desde la fecha en que fueron otorgadas, el plazo de duración de las nuevas concesiones por las que sean canjeadas, será igual al tiempo que le reste para alcanzar los referidos veinticinco años de antigüedad, siendo dicho plazo computado conforme a lo previsto en el subapartado 2.º anterior.
+c) Cuando se trate de concesiones en las que la adecuada prestación de los servicios de las mismas no requiera una dedicación exclusiva de los correspondientes vehículos a su realización, reglamentariamente se establecerá un sistema específico de acceso de sus titulares, a las nuevas autorizaciones habilitantes para el transporte discrecional de viajeros reguladas en el Título III que hayan de ser otorgadas.
+d) Salvo que se obtenga, en su caso, de conformidad, con lo previsto en el apartado c) anterior la correspondiente autorización habilitante para el transporte discrecional, no será necesario que los vehículos actualmente afectos a las concesiones a las que se refiere esta disposición transitoria o los que vengan a sustituirlos estén amparados por la autorización habilitante para el transporte discrecional de viajeros regulada en el Título III.
+e) Cuando de conformidad con lo dispuesto en el apartado a) anterior, el correspondiente servicio, por darse las circunstancias previstas en el artículo 87 haya de ser prestado según el régimen establecido en dicho artículo, la anterior concesión será sustituida por la correspondiente autorización especial prevista en el citado artículo 87 y las autorizaciones VR de los vehículos afectos a la concesión, serán sustituidas por las autorizaciones habilitantes para el transporte discrecional de viajeros reguladas en el Título III que correspondan.
+5. Los actuales concesionarios de servicios públicos de transporte en trolebuses, de carácter interurbano, podrán optar entre mantener su régimen actual, o sustituir dichas concesiones por otras de transporte en autobús, sometidas íntegramente al régimen de ordenación regulado en esta Ley. El plazo de dichas concesiones será de veinticinco años, que se computará desde la entrada en vigor de la presente Ley, y la Administración tendrá idénticas facultades a las expresadas en el apartado a) del anterior punto 4.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+1. Las actuales concesiones de transporte regular de viajeros por carretera, de las que sean titulares RENFE o FEVE, que vengan siendo explotadas con la colaboración de otras empresas, bien a través de su participación en sociedades filiales de carácter mixto, bien a través del correspondiente contrato específico de colaboración, así como aquellas otras concesiones que se hayan venido explotando efectivamente por empresas privadas según lo previsto en el apartado a) del punto 3 siguiente, serán objeto de transmisión respectivamente a las referidas sociedades de carácter mixto o a las correspondientes empresas, de acuerdo con las condiciones de esta disposición.
+Conjuntamente con las concesiones a las que se refiere el párrafo anterior, serán transferidas las autorizaciones correspondientes a servicios de transporte de escolares y de productores, que traigan su origen en la coincidencia de dichos servicios con el itinerario de la concesión.
+2. El régimen jurídico aplicable en relación con las conversiones de las concesiones a las que se refiere el punto anterior, y en general de las que fueran titulares RENFE o FEVE, será el previsto en el apartado b) del punto 1 y en el punto 4 de la disposición transitoria segunda.
+3. La transmisión prevista en el punto 1 anterior, únicamente procederá cuando en la correspondiente empresa privada que hubiese participado en la empresa mixta o prestado el servicio a través del correspondiente contrato de colaboración concurran conjuntamente las siguientes circunstancias:
+a) Que dicha empresa venga colaborando en la prestación del servicio concesional en el momento de entrada en vigor de esta Ley, o bien, que la misma explote en dicho momento el servicio como titular del mismo, siendo privada de dicha titularidad como consecuencia del litigio judicial con la Compañía ferroviaria, por razón de derecho de tanteo.
+b) Que la empresa o aquella de la que traiga causa hubiera sido la adjudicataria definitiva de la concesión si RENFE o FEVE no hubieran ejercitado el derecho de tanteo legalmente previsto, o bien que dicha empresa hubiera sido titular del servicio de la clase B otorgado según los Decretos de 22 de febrero y 21 de junio de 1929, del que la actual concesión traiga origen.
+Cuando por no haberse conservado el documento justificativo no sea posible probar la titularidad del servicio de la clase B a que se refiere el párrafo anterior, se presumirá la existencia de dicha titularidad, en las empresas que justifiquen debidamente el venir colaborando continuamente en la prestación del servicio desde una fecha anterior al 1 de abril de 1939, habiendo suscrito con anterioridad a la fecha citada el correspondiente contrato con alguna de las antiguas Compañías ferroviarias, posteriormente integradas en RENFE o FEVE, que ostentare la titularidad de la concesión.
+c) Que la empresa acepte la transmisión de la totalidad de las concesiones en cuya prestación venga colaborando y en las que la misma resulte procedente según lo dispuesto en esta disposición, y, asimismo, en el caso de ser titular de alguna concesión de transporte regular de viajeros por carretera, opte en relación con la misma por la modalidad de sustitución, regulada en el apartado 3 de la disposición transitoria segunda.
+4. Cuando se trate de concesiones configuradas mediante la unificación de otras anteriores, en las que colaboren conjuntamente dos o más empresas que cumplan separadamente los requisitos del punto anterior, la transmisión se realizará a la sociedad que entre ellas formen, o la empresa que de común acuerdo designen.
+5. Las empresas adquirentes deberán satisfacer a RENFE o FEVE, el importe de la valoración económica de las concesiones en función de su potencial rentabilidad y teniendo en cuenta las circunstancias de todo tipo concurrentes en las mismas.
+La valoración se realizará conjuntamente por las partes de forma directa o bien designado de mutuo acuerdo un auditor que lleve a cabo la misma.
+Cuando en el plazo de seis meses a partir de la entrada en vigor de esta Ley, las partes no hubieran comunicado a la Dirección General de Transportes Terrestres el acuerdo alcanzado en relación con la referida valoración, dicho órgano administrativo designará un auditor para realizar la misma, a la vista de cuyo informe la Administración determinará con carácter vinculante la valoración correspondiente.
+6. Antes de que se produzca, en su caso, su transmisión a ENATCAR, según lo dispuesto en la disposición adicional primera, y en el plazo de un año a partir de la entrada en vigor de esta Ley, RENFE y FEVE podrán transferir las concesiones y autorizaciones de servicios regulares de transporte de viajeros permanentes de uso general y especiales, cuya titularidad les corresponde y que vengan siendo explotadas con la colaboración de sociedades mixtas o empresas en las que no se den las circunstancias previstas en el punto 3 de esta disposición, a dichas sociedades mixtas o empresas.
+La correspondiente valoración se realizará siguiendo idénticas reglas a las establecidas en el punto 5 anterior.
+7. Cuando las sociedades mixtas o empresas colaboradoras a que se refiere esta disposición no aceptasen la transmisión de las concesiones, previstas en la misma, RENFE y FEVE podrán realizar dicha transmisión a otras sociedades o empresas.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+1. En los procedimientos administrativos de todo tipo, regulados por la normativa de ordenación del transporte terrestre, que se encuentren en tramitación a la entrada en vigor de esta Ley, se continuará dicha tramitación según el régimen jurídico establecido en la misma y en las normas reglamentarias que de conformidad con la disposición derogatoria han de considerarse vigentes.
+2. No obstante lo dispuesto en el punto anterior, en las peticiones y proyectos de establecimiento de nuevas líneas de servicios regulares de transporte de viajeros por carretera que se encuentren en tramitación en el momento de entrada en vigor de esta Ley, se continuará la misma, conforme a la normativa de ordenación y coordinación con el ferrocarril vigente cuando fue iniciada siempre que se hubiera realizado con anterioridad la declaración de necesidad de establecimiento del servicio. La concesión que en su caso sea otorgada como conclusión del referido procedimiento de tramitación, se entender otorgada conforme a lo previsto en la presente Ley, estando sometida a las prescripciones de la misma.
+Las peticiones y proyectos respecto a las cuales no se haya producido con anterioridad a la entrada en vigor de esta Ley la declaración de necesidad de establecimiento del servicio, serán archivadas, pudiendo sus promotores reiterar las mismas con sujeción a lo previsto en esta Ley.
+El plazo de las citadas concesiones será de veinticinco años para las que se hayan tramitado por iniciativa privada, y el que en cada caso se establezca, dentro del límite máximo establecido en esta Ley, para las que se hayan tramitado por iniciativa pública.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+1. Las actuales autorizaciones de transporte público discrecional de viajeros o mercancías, salvo aquéllas a las que se refieren los siguientes puntos de esta disposición, así como las de la clase MR, y las otorgadas de conformidad con el artículo 37 del Decreto de 9 de diciembre de 1949, quedarán convalidadas y tendrán los efectos legales de las autorizaciones de transporte público discrecional regulados en esta Ley, otorgadas en la modalidad prevista en el apartado a) del punto 2 del artículo 92, de la clase y ámbito que en cada caso corresponda para que sus titulares puedan continuar realizando los transportes para los que estuvieran anteriormente habilitados.
+2. Las autorizaciones de la clase TD serán canjeadas por las autorizaciones para arrendamiento de vehículos regulados en esta Ley, para el ámbito de que en cada caso se trate.
+Dichas autorizaciones serán, en todo caso, habilitantes para el arrendamiento de dichos vehículos con o sin conductor.
+3. Las autorizaciones de transporte de la clase MD otorgadas para remolques o semirremolques serán canjeadas por las autorizaciones de transporte público discrecional reguladas en esta Ley, otorgadas en la modalidad prevista en el apartado a) del punto 2 del artículo 92, pero, por excepción a lo establecido en el artículo 54, referidas a semirremolques concretos, pudiendo realizar el arrastre de los mismos con vehículos provistos de las autorizaciones a que se refiere el punto anterior.
+Cuando la misma empresa fuera titular simultáneamente de autorizaciones para semirremolques y de otras de la clase TD para cabezas tractoras, podrá optar por la conversión conjunta, de una autorización de cada clase de las citadas, por una autorización de transporte discrecional, otorgada en la modalidad prevista en el apartado a) del punto 2 del artículo 92, sometida al régimen ordinario previsto en esta Ley.
+Cuando la empresa opte por la referida conversión conjunta realizándola en relación con todas las autorizaciones posibles obtenidas con cargo a contingente, podrá canjear el resto de las autorizaciones MD otorgadas para semirremolques, que en su caso poseyera, por autorizaciones otorgadas en la modalidad prevista en el apartado b) del punto 2 del artículo 92, pero por excepción a lo previsto en el artículo 54 referidas a semirremolques, pudiendo realizar el arrastre de los mismos con vehículos provistos de autorizaciones a los que se refiere el punto 2 de esta disposición.
+Cuando las correspondientes autorizaciones de la clase MD estuvieran referidas a semirremolques dedicados para transportes especiales y hubieran sido obtenidas fuera de contingente, las nuevas autorizaciones por las que se canjeen, de conformidad con lo previsto en los tres párrafos anteriores, estarán referidas a semirremolques, o en el supuesto de conversión conjunta, a vehículos únicamente aptos en ambos casos para la realización del transporte especial de que en cada caso se trate.
+4. Las autorizaciones específicas para transporte de escolares y productores serán canjeadas por las autorizaciones para la realización de transporte regular de uso especial, reguladas en esta Ley que en cada caso correspondan para que puedan seguir prestando el servicio anteriormente autorizado en la forma y durante el plazo que en cada caso se trate.
+5. Las autorizaciones habilitantes para realizar servicios discrecionales con reiteración de itinerario otorgadas al amparo del artículo 35 del Decreto de 9 de diciembre de 1949, que no sean de transporte de escolares o productores, serán canjeadas por una autorización provisional habilitante para la realización durante el plazo que en cada caso se establezca, que en todo caso deberá ser inferior a doce meses excepcionalmente prorrogables por otros doce, de los correspondientes servicios en las condiciones reguladas en esta Ley. Transcurrido el citado plazo, los referidos servicios únicamente podrán prestarse previo cumplimiento de los requisitos previstos en la presente Ley.
+6. Las autorizaciones de transporte de la clase XR y XDF (ferias y mercados) serán canjeadas por las autorizaciones reguladas en esta Ley que habiliten para seguir realizando el transporte que tuvieran anteriormente autorizado, en la forma y durante el plazo que en cada caso se trate.
+7. A los titulares de autorizaciones de las clases MR, de las otorgadas de conformidad con el artículo 37 del Decreto de 9 de diciembre de 1949, y de las obtenidas al amparo del Decreto 576/1966, de 3 de marzo, siempre que cumplan los requisitos exigibles y lo soliciten expresamente les será otorgada una autorización de agencia de transporte de carga fraccionada, siéndoles reconocido el requisito de capacitación profesional para la actividad de agencia de transporte.
+8. Las actuales autorizaciones habilitantes para la realización de transportes regulares internacionales de viajeros mantendrán su vigencia en los términos en que fueron otorgadas quedando sometida su utilización a las disposiciones de la presente Ley y a las normas internacionales que sean aplicables.
+9. Las autorizaciones de las clases EC y DC serán canjeadas por autorizaciones de transporte público discrecional de mercancías otorgadas en la modalidad prevista en el apartado a) del artículo 92 y con el ámbito territorial mínimo que resulte suficiente para que sus titulares puedan continuar prestando los servicios que estaban autorizados.
+A los titulares de contratos de despachos centrales y estaciones centro les será reconocido el requisito de capacitación profesional para agencia de transporte.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+1. Las actuales autorizaciones para transporte privado para vehículos rígidos quedarán convalidadas y tendrán los efectos legales de las autorizaciones de transporte privado complementario previstas en esta Ley, de la clase y ámbito que en cada caso corresponda.
+2. Las autorizaciones de transporte privado referidas a cabezas tractoras y a semirremolques serán canjeadas a razón de cada una de las clases citadas, por una autorización de transporte privado sometida al régimen ordinario previsto en la Ley.
+Las autorizaciones referidas a semirremolques, que en su caso resten, después de realizado el canje previsto en el párrafo anterior, mantendrán su vigencia, estando referidas a un semirremolque concreto, que podrá ser arrastrado por los titulares de autorizaciones de arrendamiento con origen en autorizaciones TD a que se refiere el punto 2 de la disposición transitoria quinta.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+1. Las autorizaciones de agencia de transportes de mercancías otorgadas con anterioridad a la presente Ley serán convalidadas por las autorizaciones de agencia de transportes de mercancías reguladas en esta Ley, tanto de carga completa como de carga fraccionada, cuando cumplan los requisitos generales establecidos en relación con las mismas, y tendrán los efectos legales y el régimen jurídico de éstas.
+2. Las actuales autorizaciones de agencia de viajes, habilitarán para la realización de las actividades previstas en el artículo 122.
+3. Las actuales autorizaciones de arrendamiento de vehículos serán convalidadas por las autorizaciones de arrendamiento de vehículos reguladas en esta Ley, y tendrán los efectos legales y el régimen jurídico de éstas.
+4. Las actuales concesiones de estaciones serán convalidadas por las autorizaciones de estaciones reguladas en la presente Ley, manteniendo su vigencia hasta la finalización del plazo establecido en su respectivo otorgamiento originario. Dichas concesiones tendrán los efectos legales y el régimen jurídico previsto en la presente Ley.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+1. Las actuales concesiones y autorizaciones de transporte por ferrocarril de servicio público o privado mantendrán su vigencia de acuerdo con sus condiciones de otorgamiento, hasta la finalización del correspondiente plazo, quedando sometidas al régimen jurídico establecido en la presente Ley.
+2. En tanto se produce la determinación expresa por el Gobierno de los servicios que componen la Red Nacional Integrada de Transporte Ferroviario, se considerarán comprendidos en la misma la totalidad de los servicios ferroviarios que en el momento de entrada en vigor de esta Ley explota RENFE.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+La actualización del inventario a que se refiere el artículo 184.4 deberá realizarse en el plazo de dos años a partir de la fecha de la entrada en vigor de la presente Ley.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima.
+(Anulada)
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 118/1996, de 27 de junio. Ref. BOE-T-1996-17381
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima.
+La sustitución y canje de autorizaciones a que se refieren las disposiciones anteriores deberá hacerse cumpliendo los plazos y condiciones de tramitación que se establezcan por la Administración.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Se derogan las Leyes de Ordenación de los Transportes Mecánicos por Carretera y de Coordinación de dichos Transportes con los Ferroviarios, ambas de 27 de diciembre de 1947; la Ley 38/1984, de 6 de noviembre, sobre inspección, control y régimen sancionador de los transportes mecánicos por carretera, y el Real Decreto Legislativo 1304/1986, de 28 de junio; sobre determinadas condiciones exigibles para la realización de transporte público por carretera.
+2. Asimismo se derogan: La Ley General de Ferrocarriles de 23 de noviembre de 1877, la Ley de Ferrocarriles Secundarios y Estratégicos de 26 de marzo de 1908, modificada por la Ley de 23 de febrero de 1912; el Decreto-ley de 5 de mayo de 1926, que aprobó el Plan Preferente de Ferrocarriles de urgente construcción; las bases cuarta a dieciocho de la Ley de Bases de Ordenación Ferroviaria y del Transporte de 24 de enero de 1941; la Ley de 21 de abril de 1949 sobre Ferrocarriles de Explotación deficitaria; la Ley de Policía de Ferrocarriles de 23 de noviembre de 1877; la Ley de Creación de las Juntas de Detasas de 18 de julio de 1932, modificada por Ley de 24 de junio de 1938; los Decretos-leyes de 23 de julio de 1964 y 19 de julio de 1962 sobre organización y funcionamiento de RENFE; el Decreto-ley de 29 de diciembre de 1972, sobre reorganización de los Ferrocarriles de Vía Estrecha; el artículo 56 de la Ley 33/1971, de 2 de julio, y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley.
+3. A la entrada en vigor de los reglamentos generales de ejecución de la presente Ley quedarán derogadas el resto de las normas reguladoras de los transportes mecánicos por carretera y por ferrocarril, excepto los que expresamente se declaren vigentes.
+
+### Disposición final
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+### Disposición final primera
+
+Disposición final primera.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+Se numera como disposición final primera por el art. 1.87 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320
+ Su anterior denominación era disposición final.
+
+### Disposición final segunda
+
+Disposición final segunda.
+1. Los artículos 3, 4 y el punto 1 del artículo 12 constituyen legislación básica, dictada al amparo del artículo 149.1.13.ª de la Constitución, que atribuye al Estado la competencia sobre las bases y coordinación de la planificación general de la actividad económica.
+2. El artículo 14 constituye legislación básica dictada al amparo del artículo 149.1.4.ª y 16.ª de la Constitución, que atribuyen al Estado, respectivamente, la competencia sobre la Defensa y las bases y coordinación general de la sanidad.
+3. El artículo 22 y los párrafos segundo y tercero del punto 3 del artículo 119 se dictan al amparo del artículo 149.1.6.ª de la Constitución, que atribuye al Estado la competencia sobre la legislación mercantil.
+4. Los artículos 29, 30 y el último párrafo del artículo 31, en cuanto se refiere este último a la colaboración en la homologación de los planes territoriales, constituyen legislación básica dictada al amparo del artículo 149.1.4.ª de la Constitución, que atribuye al Estado la competencia sobre la Defensa.
+5. Los puntos 2 y 3 del artículo 32 se dictan al amparo del artículo 149.1.29.ª de la Constitución, que atribuye al Estado la competencia sobre la seguridad pública.
+6. Los artículos 37 y 38 se dictan al amparo del artículo 149.1.6.ª de la Constitución, que atribuye al Estado la competencia sobre la legislación procesal.
+7. Los párrafos primero y tercero del artículo 55; los puntos 10, 11, 15, 20, 21, 22, 23, 24, 25, 26, 33, 34, 35 y 37 del artículo 140; los puntos 2, 5, 11, 12, 13 y 24 del artículo 141, y los puntos 2, 3, 4, 7 y 17 del artículo 142 se dictan al amparo del artículo 149.1.21.ª de la Constitución, que atribuye al Estado la competencia en materia de tráfico y circulación de vehículos a motor.
+8. El artículo 71, el punto 1 del artículo 72, el punto 1 del artículo 73 y los artículos 75 y 85, constituyen legislación básica dictada al amparo del artículo 149.1.18.ª de la Constitución, que atribuye al Estado la competencia para dictar la legislación básica sobre contratos administrativos.
+9. El punto 2 del artículo 94 constituye legislación básica al amparo de lo dispuesto en el artículo 149.1.1.ª de la Constitución, que atribuye al Estado la competencia para la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos constitucionales.
+10. Las restantes disposiciones de esta ley se dictan al amparo de lo dispuesto en el artículo 149.1.21.ª de la Constitución, que atribuye al Estado la competencia sobre ferrocarriles y transportes terrestres que transcurran por el territorio de más de una comunidad autónoma.»
+Se añade por el art. 1.87 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley.
+Palma de Mallorca, a 30 de julio de 1987.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ
+
+### [Información relacionada]
+
+Información relacionada
+ - Sentencia del TC 118/1996, de 27 de junio. Ref. BOE-T-1996-17381 en cuanto que declara el carácter básico o no de determinados preceptos.

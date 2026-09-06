@@ -1,0 +1,1992 @@
+# Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.
+
+- Identificador BOE: `BOE-A-1997-25340`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1997-25340
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta Ley queda derogada, salvo las disposiciones adicionales 6, 7, 21 y 23, por la disposición derogatoria única.1.a) de la Ley 24/2013, de 26 de diciembre, Ref. BOE-A-2013-13645#ddunica., sin perjuicio de lo previsto en la disposición final 3 de la citada Ley. No obstante, lo previsto en los apartados 2 y 3 del art. 38 y 2, 3 y 4 del art. 42, se mantendrán vigentes hasta que el art. 33 de la citada Ley sea de aplicación, según establece su disposición transitoria 7.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+El suministro de energía eléctrica es esencial para el funcionamiento de nuestra sociedad. Su precio es un factor decisivo de la competitividad de buena parte de nuestra economía. El desarrollo tecnológico de la industria eléctrica y su estructura de aprovisionamiento de materias primas determinan la evolución de otros sectores de la industria. Por otra parte, el transporte y la distribución de electricidad constituyen un monopolio natural: se trata de una actividad intensiva en capital, que requiere conexiones directas con los consumidores, cuya demanda de un producto no almacenable -como la energía eléctrica- varía en períodos relativamente cortos de tiempo. Además, la imposibilidad de almacenar electricidad requiere que la oferta sea igual a la demanda en cada instante de tiempo, lo que supone necesariamente una coordinación de la producción de energía eléctrica, así como la coordinación entre las decisiones de inversión en generación y en transporte de energía eléctrica. Todas estas características técnicas y económicas hacen del sector eléctrico un sector necesariamente regulado.
+La presente Ley tiene, por consiguiente, como fin básico establecer la regulación del sector eléctrico, con el triple y tradicional objetivo de garantizar el suministro eléctrico, garantizar la calidad de dicho suministro y garantizar que se realice al menor coste posible, todo ello sin olvidar la protección del medioambiente, aspecto que adquiere especial relevancia dadas las características de este sector económico. Sin embargo, a diferencia de regulaciones anteriores, la presente Ley se asienta en el convencimiento de que garantizar el suministro eléctrico, su calidad y su coste no requiere de más intervención estatal que la que la propia regulación específica supone. No se considera necesario que el Estado se reserve para sí el ejercicio de ninguna de las actividades que integran el suministro eléctrico. Así, se abandona la noción de servicio público, tradicional en nuestro ordenamiento pese a su progresiva pérdida de trascendencia en la práctica, sustituyéndola por la expresa garantía del suministro a todos los consumidores demandantes del servicio dentro del territorio nacional. La explotación unificada del sistema eléctrico nacional deja de ser un servicio público de titularidad estatal desarrollado por el Estado mediante una sociedad de mayoría pública y sus funciones son asumidas por dos sociedades mercantiles y privadas, responsables respectivamente, de la gestión económica y técnica del sistema. La gestión económica del sistema, por su parte, abandona las posibilidades de una optimización teórica para basarse en las decisiones de los agentes económicos en el marco de un mercado mayorista organizado de energía eléctrica.
+La planificación estatal, por último, queda restringida a las instalaciones de transporte, buscando así su imbricación en la planificación urbanística y en la ordenación del territorio. Se abandona la idea de una planificación determinante de las decisiones de inversión de las empresas eléctricas, que es sustituida por una planificación indicativa de los parámetros bajo los que cabe esperar que se desenvuelva el sector eléctrico en un futuro próximo, lo que puede facilitar decisiones de inversión de los diferentes agentes económicos.
+El propósito liberalizador de esta Ley no se limita a acotar de forma más estricta la actuación del Estado en el sector eléctrico. A través de la oportuna segmentación vertical de las distintas actividades necesarias para el suministro eléctrico, se introducen cambios importantes en su regulación. En la generación de energía eléctrica, se reconoce el derecho a la libre instalación y se organiza su funcionamiento bajo el principio de libre competencia. La retribución económica de la actividad se asienta en la organización de un mercado mayorista. Se abandona el principio de retribución a través de unos costes de inversión fijados administrativamente a través de un proceso de estandarización de las diferentes tecnologías de generación eléctrica.
+El transporte y la distribución se liberalizan a través de la generalización del acceso de terceros a las redes. La propiedad de las redes no garantiza su uso exclusivo. La eficiencia económica que se deriva de la existencia de una única red, raíz básica del denominado monopolio natural, es puesta a disposición de los diferentes sujetos del sistema eléctrico y de los consumidores. La retribución del transporte y la distribución continuará siendo fijada administrativamente, evitándose así el posible abuso de las posiciones de dominio determinadas por la existencia de una única red. Asimismo, para garantizar la transparencia de esta retribución, se establece para las empresas eléctricas la separación jurídica entre actividades reguladas y no reguladas en cuanto a su retribución económica.
+La comercialización de energía eléctrica adquiere carta de naturaleza en la presente Ley. No se trata de una posibilidad sometida a la consideración del Gobierno, sino de una realidad cierta, materializada en los principios de libertad de contratación y de elección de suministrador que se consagra en el texto. Se establece un período transitorio para que el proceso de liberalización de la comercialización de la energía eléctrica se desarrolle progresivamente, de forma que la libertad de elección llegue a ser una realidad para todos los consumidores en un plazo de diez años.
+De esta forma, se configura un sistema eléctrico que funcionará bajo los principios de objetividad, transparencia y libre competencia, en el que la libre iniciativa empresarial adquirirá el protagonismo que le corresponde. Todo ello sin perjuicio de la necesaria regulación propia de las características de este sector, entre las que destacan la necesidad de coordinación económica y técnica de su funcionamiento.
+La presente Ley incorpora a nuestro ordenamiento las previsiones contenidas en la Directiva 96/92/CE, del Parlamento Europeo y del Consejo, de 19 de diciembre, sobre normas comunes para el mercado interior de electricidad. Se trata de una directiva que permite la coexistencia de distintas formas de organización del sistema eléctrico, en las que introduce aquellas exigencias que son indispensables para garantizar la convergencia paulatina hacia un mercado europeo de electricidad.
+El presente texto legal también supone la plasmación normativa de los principios del Protocolo suscrito entre el Ministerio de Industria y Energía y las principales empresas eléctricas el 11 de diciembre de 1996. El citado Protocolo, carente de la eficacia normativa de toda norma general, supuso la concreción de un diseño complejo y global de transición de un sistema intervenido y burocratizado a un sistema más libre de funcionamiento del sector. Supuso, asimismo, el acuerdo con los principales agentes económicos de la industria sobre una profunda modificación del sistema retributivo hasta ahora vigente y sobre el escalonamiento progresivo de las distintas etapas conducentes a la liberalización del mercado. El Protocolo se configuró, en definitiva, para que, considerado en toda su extensión, fuese elemento inspirador de un profundo proceso de cambio.
+El sector eléctrico tiene unas características de complejidad técnica que hacen necesario garantizar que su funcionamiento en un marco liberalizado se produzca sin abusos de posiciones de dominio y con respeto estricto a las prácticas propias de la libre competencia. Por ello, en la presente Ley se dota a la Comisión Nacional del Sistema Eléctrico de amplias facultades en materia de solicitud de información y de resolución de conflictos, y se arbitra su colaboración con las instancias administrativas encargadas de la defensa de la competencia. Simultáneamente, se escalonan con más precisión los ámbitos de actuación de la Administración General del Estado y de la Comisión Nacional del Sistema Eléctrico, se mejoran los mecanismos de coordinación entre ambas y se dota de mayor continuidad a las labores de la Comisión al establecer un esquema de renovación parcial de sus miembros.
+Por último, la presente Ley hace compatible una política energética basada en la progresiva liberalización del mercado con la consecución de otros objetivos que también le son propios, como la mejora de la eficiencia energética, la reducción del consumo y la protección del medio ambiente. El régimen especial de generación eléctrica, los programas de gestión de la demanda y, sobre todo, el fomento de las energías renovables mejoran su encaje en nuestro ordenamiento.
+
+## TÍTULO I
+
+Disposiciones generales. Competencias administrativas y planificación eléctrica
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. La presente ley regula las actividades destinadas al suministro de energía eléctrica, consistentes en su generación, transporte, distribución, servicios de recarga energética, comercialización e intercambios intracomunitarios e internacionales, así como la gestión económica y técnica del sistema eléctrico.
+2. La regulación de dichas actividades tiene por finalidad:
+La adecuación del suministro de energía eléctrica a las necesidades de los consumidores, y
+La racionalización, eficiencia y optimización de aquellas, atendiendo a los principios de monopolio natural del transporte y la distribución, red única y de realización al menor coste.
+3. Las actividades destinadas al suministro de energía eléctrica se ejercerán de forma coordinada bajo los principios de objetividad, transparencia y libre competencia.
+Se modifica por el art. 23 del Real Decreto-ley 6/2010, de 9 de abril. Ref. BOE-A-2010-5879
+ Se modifica el apartado 2.b) por el art. 21.1 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Artículo 2
+
+Artículo 2. Régimen de las actividades.
+1. Se reconoce la libre iniciativa empresarial para el ejercicio de las actividades destinadas al suministro de energía eléctrica reguladas en la presente Ley.
+2. Estas actividades se ejercerán garantizando el acceso y conexión a las redes de transporte y distribución de energía eléctrica a todos los consumidores demandantes del servicio dentro del territorio nacional y tendrán la consideración de servicio esencial.
+Se modifica el apartado 2 por el art. único.1 de la Ley 17/207, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 3
+
+Artículo 3. Competencias de las autoridades reguladoras.
+Las competencias en el sector eléctrico que corresponden a las diferentes autoridades reguladoras son las siguientes:
+1. Corresponde a la Administración General del Estado, en los términos establecidos en la presente Ley:
+a) Ejercer las facultades de planificación eléctrica en los términos establecidos en el artículo siguiente.
+b) Establecer la retribución de la garantía de potencia y de aquellas actividades que tienen la consideración de reguladas de acuerdo con lo previsto en el artículo 11.2 de la presente Ley y fijar el régimen económico de la retribución de la producción de energía eléctrica en régimen especial.
+c) Regular la estructura de precios y, mediante peaje, el correspondiente al uso de redes de transporte y distribución, así como establecer los criterios para el otorgamiento de garantías por los sujetos que corresponda y determinar, en su caso, mediante tarifa de último recurso, el precio máximo del suministro de energía eléctrica a los consumidores que reglamentariamente se determine.
+d) Ejercer las funciones de ordenación previstas en el Título II.
+e) Regular la organización y funcionamiento del mercado de producción de energía eléctrica.
+f) Regular los términos en que se ha de desarrollar la gestión económica y técnica del sistema.
+g) Establecer la regulación básica de la generación, del transporte, de la distribución y de la comercialización de energía eléctrica.
+h) Sancionar, en el ámbito de su competencia, la comisión de las infracciones establecidas en la presente Ley.
+i) Establecer los requisitos mínimos de calidad y seguridad que han de regir el suministro de energía eléctrica.
+j) Determinar los derechos y obligaciones de los sujetos relacionados con el suministro de energía eléctrica de último recurso.
+k) Aprobar por medio de Resolución del Secretario General de Energía las reglas de mercado y los procedimientos de operación de carácter instrumental y técnico necesarios para la gestión económica y técnica del sistema.
+2. Corresponde, asimismo, a la Administración General del Estado, respecto de las instalaciones de su competencia:
+a) Sin perjuicio de las especificidades establecidas en la reglamentación singular a que se refiere el artículo 12, autorizar las instalaciones eléctricas de generación de potencia eléctrica instalada superior a 50 MW eléctricos, las de transporte secundario y distribución que excedan del ámbito territorial de una Comunidad Autónoma, y todas las instalaciones de transporte primario.
+b) Impartir, en el ámbito de su competencia, instrucciones relativas a la ampliación, mejora y adaptación de las redes e instalaciones eléctricas de transporte y distribución, en garantía de una adecuada calidad y seguridad en el suministro de energía, con un mínimo impacto ambiental.
+c) Inspeccionar, en el ámbito de su competencia, a través, en su caso, de la Comisión Nacional del Sistema Eléctrico, y con la colaboración de los servicios técnicos de la Comunidad Autónoma donde se ubiquen las instalaciones, las condiciones técnicas y, en su caso, económicas y el cumplimiento de las condiciones establecidas en las autorizaciones otorgadas.
+d) Sancionar, de acuerdo con lo dispuesto en la presente Ley y disposiciones que la desarrollen, las infracciones cometidas.
+3. (Anulado)
+4. La Administración General del Estado podrá celebrar convenios de cooperación con las Comunidades Autónomas para conseguir una gestión más eficaz de las actuaciones administrativas relacionadas con las instalaciones eléctricas.
+5. Sin perjuicio de las competencias atribuidas a los diferentes órganos de Defensa de la Competencia, corresponderán a la Comisión Nacional de Energía en relación con el sector eléctrico, además de las funciones que tengan atribuidas en la legislación vigente, las funciones que se establecen enel apartado tercero de la disposición adicional undécima de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos.
+Se modifica el apartado 5 por el art. 1.1 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se declara la inconstitucionalidad y nulidad del apartado 3 por Sentencia del TC 18/2011, de 3 de marzo. Ref. BOE-A-2011-5704.
+ En el mismo sentido para el apartado 3.c) la Sentencia del TC 181/2013, de 23 de octubre. Ref. BOE-A-2013-12187.
+ Se modifica por el art. único.2 a 13 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 4
+
+Artículo 4. Planificación eléctrica.
+1. La planificación eléctrica, que tendrá carácter indicativo salvo en lo que se refiere a instalaciones de transporte, será realizada por el Estado, con la participación de las Comunidades Autónomas.
+2. La planificación eléctrica será sometida al Congreso de los Diputados.
+3. Dicha planificación deberá referirse a los siguientes aspectos:
+a) Previsión de la demanda de energía eléctrica a lo largo del período contemplado.
+b) Estimación de la potencia mínima que debe ser instalada para cubrir la demanda prevista bajo criterios de seguridad del suministro, diversificación energética, mejora de la eficiencia y protección del medio ambiente.
+c) Previsiones relativas a las instalaciones de transporte y distribución de acuerdo con la previsión de la demanda de energía eléctrica.
+d) El establecimiento de las líneas de actuación en materia de calidad del servicio, tendentes a la consecución de los objetivos de calidad, tanto en consumo final, como en las áreas que, por sus características demográficas y tipológicas del consumo, puedan considerarse idóneas para la determinación de objetivos diferenciados.
+e) Las actuaciones sobre la demanda que fomenten la mejora del servicio prestado a los usuarios, así como la eficiencia y ahorro energéticos.
+f) La evolución de las condiciones del mercado para la consecución de la garantía de suministro.
+g) Los criterios de protección medioambiental que deben condicionar las actividades de suministro de energía eléctrica, con el fin de minimizar el impacto ambiental producido por dichas actividades.
+4. En la regulación de la prestación del suministro de energía eléctrica se tendrán en cuenta los planes y recomendaciones aprobados en el seno de los Organismos internacionales, en virtud de los Convenios y Tratados en los que el Reino de España sea parte.
+Se modifica el apartado 3.g) por el art. único.14 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 5
+
+Artículo 5. Coordinación con planes urbanísticos.
+1. La planificación de las instalaciones de transporte y distribución de energía eléctrica cuando éstas se ubiquen o discurran en suelo no urbanizable, deberá tenerse en cuenta en el correspondiente instrumento de ordenación del territorio. Asimismo, y en la medida en que dichas instalaciones se ubiquen en cualesquiera de las categorías de suelo calificado como urbano o urbanizable, dicha planificación deberá ser contemplada en el correspondiente instrumento de ordenación urbanística, precisando las posibles instalaciones, calificando adecuadamente los terrenos y estableciendo, en ambos casos, las reservas de suelo necesarias para la ubicación de las nuevas instalaciones y la protección de las existentes.
+2. En los casos en los que no se haya tenido en cuenta la planificación eléctrica en instrumentos de ordenación descritos en el apartado anterior, o cuando las razones justificadas de urgencia o excepcional interés para el suministro de energía eléctrica aconsejen el establecimiento de instalaciones de transporte o distribución y siempre que en virtud de lo establecido en otras Leyes, resultase preceptivo un instrumento de ordenación del territorio o urbanístico según la clase de suelo afectado, se estará a lo dispuesto en el artículo 244 del texto refundido de la Ley sobre el Régimen del Suelo y Ordenación Urbana, aprobado por el Real Decreto legislativo 1/1992, de 26 de junio, o texto autonómico que corresponda.
+Se deroga el apartado 2, en lo que resulte aplicable a las instalaciones de transporte de energía eléctrica, por la disposición derogatoria única.d) de la Ley 13/2003, de 23 de mayo. Ref. BOE-A-2003-10463
+
+### Artículo 6
+
+Artículo 6. Comisión Nacional del Sistema Eléctrico.
+(Derogado)
+Se deroga por la disposición derogatoria única. f) de la Ley 34/1998, de 7 de octubre. Ref. BOE-A-1998-23284
+
+### Artículo 7
+
+Artículo 7. Consejo Consultivo de la Comisión.
+(Derogado)
+Se deroga por la disposición derogatoria única. f) de la Ley 34/1998, de 7 de octubre. Ref. BOE-A-1998-23284
+
+### Artículo 8
+
+Artículo 8. Funciones de la Comisión Nacional del Sistema Eléctrico.
+(Derogado)
+Se deroga por la disposición derogatoria única. f) de la Ley 34/1998, de 7 de octubre. Ref. BOE-A-1998-23284
+
+## TÍTULO II
+
+Ordenación del suministro
+
+### Artículo 9
+
+Artículo 9. Sujetos.
+Las actividades destinadas al suministro de energía eléctrica a que se refiere el artículo 1.1 de la presente ley serán desarrolladas por los siguientes sujetos:
+a) Los productores de energía eléctrica, que son aquellas personas físicas o jurídicas que tienen la función de generar energía eléctrica, ya sea para su consumo propio o para terceros, así como las de construir, operar y mantener las centrales de producción.
+En ningún caso tendrán la condición de productores los consumidores acogidos a las modalidades singulares de suministro a las que se refiere el párrafo g) del presente artículo.
+b) El operador del mercado, sociedad mercantil que tiene las funciones que le atribuye el artículo 33 de la presente ley.
+c) El operador del sistema, sociedad mercantil que tiene las funciones que le atribuye el artículo 34 de la presente ley.
+d) El transportista, que es aquella sociedad mercantil que tiene la función de transportar energía eléctrica, así como construir, mantener y maniobrar las instalaciones de transporte.
+e) Los distribuidores, que son aquellas sociedades mercantiles que tienen la función de distribuir energía eléctrica, así como construir, mantener y operar las instalaciones de distribución destinadas a situar la energía en los puntos de consumo.
+f) Los comercializadores, que son aquellas sociedades mercantiles que, accediendo a las redes de transporte o distribución, adquieren energía para su venta a los consumidores, a otros sujetos del sistema o para realizar operaciones de intercambio internacional en los términos establecidos en la presente ley.
+El Gobierno, previa consulta a las comunidades autónomas, determinará los comercializadores que asumirán la obligación de suministro de último recurso.
+g) Los consumidores que son las personas físicas o jurídicas que compran la energía para su propio consumo.
+Reglamentariamente podrán establecerse para determinados consumidores modalidades singulares de suministro para fomentar la producción individual de energía eléctrica destinada al consumo en la misma ubicación, detallando el régimen de derechos y obligaciones que de ellas resulten.
+Aquellos consumidores que adquieran energía directamente en el mercado de producción se denominarán Consumidores Directos en Mercado.
+h) Los gestores de cargas del sistema, que son aquellas sociedades mercantiles que, siendo consumidores, están habilitados para la reventa de energía eléctrica para servicios de recarga energética, así como para el almacenamiento de energía eléctrica para una mejor gestión del Sistema Eléctrico.
+Se modifican las letras a) y g) por el art. 1.2 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. 23 del Real Decreto-ley 6/2010, de 9 de abril. Ref. BOE-A-2010-5879
+ Se modifica por el art. único.15 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Téngase en cuenta la disposición transitoria 9.
+ Se modifica la letra a) y se suprime la letra b) del apartado 1 por el art. 1.1 y 2 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+ Esta modificación entra en vigor cuando se produzca la revisión del régimen retributivo de las instralaciones de régimen especial, según estable la disposición final 3. Téngase en cuenta el Real Decreto 661/2007, de 25 de mayo. Ref. BOE-A-2007-10556
+ Se añade el párrafo segundo al apartado 1.b) por el art. 91.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 10
+
+Artículo 10. Garantía del suministro.
+1. Todos los consumidores tendrán derecho al acceso y conexión a las redes de transporte y distribución de energía eléctrica, en el territorio nacional, en las condiciones que reglamentariamente se establezcan por el Gobierno, con la colaboración de las Comunidades Autónomas.
+Los consumidores que se determine tendrán derecho al suministro de energía eléctrica a unos precios que podrán ser fijados y revisados por orden del Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos y tendrán la consideración de tarifas de último recurso.
+2. El Gobierno podrá adoptar, para un plazo determinado, las medidas necesarias para garantizar el suministro de energía eléctrica cuando concurra alguno de los siguientes supuestos:
+a) Riesgo cierto para la prestación del suministro de energía eléctrica.
+b) Situaciones de desabastecimiento de alguna o algunas de las fuentes de energía primaria.
+c) Situaciones de las que se pueda derivar amenaza para la integridad física o la seguridad de las personas, de aparatos o instalaciones o para la integridad de la red de transporte o distribución de energía eléctrica.
+d) Situaciones en las que se produzcan reducciones sustanciales de la disponibilidad de las instalaciones de producción, transporte o distribución o de los índices de calidad del suministro imputables a cualquiera de ellas.
+En las situaciones descritas, el Gobierno determinará el régimen retributivo aplicable a aquellas actividades que se vieran afectadas por las medidas adoptadas garantizando, en todo caso, un reparto equilibrado de los costes.
+Cuando las medidas adoptadas por el Gobierno de acuerdo con lo previsto en este apartado afecten sólo a alguna o algunas Comunidades Autónomas, la decisión se adoptará en colaboración con las mismas.
+3. Las medidas que se adopten por el Gobierno para hacer frente a las situaciones descritas en el apartado anterior podrán referirse, entre otros, a los siguientes aspectos:
+a) Limitaciones o modificaciones temporales del mercado de electricidad a que se refiere el Capítulo I del Título IV de la presente Ley o del despacho de generación existente en los sistemas eléctricos insulares y extrapeninsulares.
+b) Operación directa de las instalaciones de generación, transporte y distribución.
+c) Establecimiento de obligaciones especiales en materia de existencias de seguridad de fuentes primarias para la producción de energía eléctrica.
+d) Supresión o modificación temporal de los derechos que para los productores en régimen especial se establecen en el Capítulo II del Título IV.
+e) Modificación de las condiciones generales de regularidad en el suministro con carácter general o referido a determinadas categorías de consumidores.
+f) Supresión o modificación temporal de los derechos y garantías de acceso a las redes por terceros.
+g) Limitación o asignación de abastecimientos de energías primarias a los productores de electricidad.
+h) Cualesquiera otras medidas que puedan ser recomendadas por los Organismos internacionales de los que España sea parte o que se determinen en aplicación de aquellos convenios en que se participe.
+Se añade el apartado 2.d) y se modifica el apartado 3 por la disposición final 1.1 y 2 de la Ley 17/2013, de 29 de octubre. Ref. BOE-A-2013-11332.
+ Se modifica el segundo párrafo del apartado 1 por el art. 1.3 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica el apartado 1 por el art. único.16 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifica el apartado 3.c) por el art. 1.3 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+ Esta modificación entra en vigor cuando se produzca la revisión del régimen retributivo de las instralaciones de régimen especial, según estable la disposición final 3. Téngase en cuenta el Real Decreto 661/2007, de 25 de mayo. Ref. BOE-A-2007-10556
+
+### Artículo 11
+
+Artículo 11. Funcionamiento del sistema.
+1. La producción de energía eléctrica se desarrolla en un régimen de libre competencia en el mercado de producción de energía eléctrica.
+El mercado de producción de energía eléctrica es el integrado por el conjunto de transacciones comerciales de compra y venta de energía y de otros servicios relacionados con el suministro de energía eléctrica.
+El mercado de producción de energía eléctrica se estructura en mercados a plazo, mercado diario, mercado intradiario, la resolución de restricciones técnicas del sistema, los servicios complementarios, la gestión de desvíos y mercados no organizados. Los sujetos definidos en el artículo 9 que actúen en el mercado de producción a que se refiere el párrafo anterior podrán pactar libremente los términos de los contratos de compraventa de energía eléctrica que suscriban, respetando las modalidades y contenidos mínimos previstos en la presente ley y en sus reglamentos de desarrollo.
+2. La operación del sistema, el transporte y la distribución tienen carácter de actividades reguladas, cuyo régimen económico y de funcionamiento se ajustará a lo previsto en la presente ley.
+Se garantiza el acceso de terceros a las redes de transporte y distribución en las condiciones técnicas y económicas establecidas en esta ley.
+3. Sin perjuicio de lo establecido para el suministro de último recurso, la comercialización y los servicios de recarga energética se ejercerán libremente en los términos previstos en la presente ley y su régimen económico vendrá determinado por las condiciones que se pacten entre las partes.
+4. Salvo pacto en contrario, la transmisión de la propiedad de la energía eléctrica se entenderá producida en el momento en que la misma tenga entrada en las instalaciones del comprador.
+En el caso de los comercializadores y de los gestores de cargas, la transmisión de la propiedad de la energía eléctrica se entenderá producida, salvo pacto en contrario, cuando la misma tenga entrada en las instalaciones de su cliente. El Gobierno podrá determinar el funcionamiento del mercado diario e intradiario en base a ofertas de unidades de producción ya sean físicas o en cartera.
+Se modifica por el art. 23 del Real Decreto-ley 6/2010, de 9 de abril. Ref. BOE-A-2010-5879
+ Se modifican los apartados 1, 2 y 3 y se añade el párrafo final por el art. único.17 y 18 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 12
+
+Artículo 12. Actividades en territorios insulares y extrapeninsulares.
+1. Las actividades para el suministro de energía eléctrica que se desarrollen en los territorios insulares o extrapeninsulares serán objeto de una reglamentación singular que atenderá a las especificidades derivadas de su ubicación territorial, previo acuerdo con las Comunidades o Ciudades Autónomas afectadas.
+2. La actividad de producción de energía eléctrica, cuando se desarrolle en territorios insulares y extrapeninsulares, podrá estar excluida del sistema de ofertas y se retribuirá tomando como referencia la estructura de precios prevista en el artículo 16.1. No obstante, el Gobierno podrá determinar un concepto retributivo adicional que tendrá en consideración todos los costes específicos de estos sistemas.
+Estos costes específicos deberán incluir, entre otros, los de combustibles, operación y mantenimiento, inversión y los de la necesaria reserva de capacidad de generación, que son especialmente singulares en estos territorios.
+Las actividades de transporte y distribución de energía eléctrica en los territorios insulares y extrapeninsulares serán retribuidas de acuerdo con lo previsto en los apartados 2 y 3 del artículo 16.
+3. Los costes derivados de las actividades de suministro de energía eléctrica cuando se desarrollen en territorios insulares y extrapeninsulares y no puedan ser sufragados con cargo a los ingresos obtenidos en dichos ámbitos territoriales, se integrarán en el conjunto del sistema a efectos de lo previsto en el artículo 16.
+Se modifica el apartado 1 por la disposición adicional 17.1 de la Ley 34/1998, de 7 de octubre. Ref. BOE-A-1998-23284
+
+### Artículo 13
+
+Artículo 13. Intercambios intracomunitarios e internacionales de electricidad.
+1. Podrán realizarse libremente los intercambios intracomunitarios de electricidad en los términos previstos en la presente Ley.
+2. Las adquisiciones de energía a través de las interconexiones con otros países podrán ser realizadas por los productores, comercializadores y consumidores directos en mercado.
+Dicha energía podrá adquirirse mediante cualesquiera de las modalidades de contratación que se autoricen en el desarrollo de esta Ley.
+3. Las ventas de energía a través de las interconexiones con otros países podrán ser realizadas por los productores, comercializadores y consumidores directos en mercado. Estas operaciones deberán ser comunicadas al operador del sistema, que podrá denegarlas cuando impliquen un riesgo cierto para el suministro.
+4. Los intercambios a corto plazo que tengan por objeto el mantenimiento de las condiciones de calidad y seguridad del suministro de energía eléctrica en el sistema serán realizados por el operador del sistema en los términos que reglamentariamente se establezcan.
+5. Los intercambios de energía eléctrica a través de las interconexiones con países no pertenecientes a la Unión Europea estarán, en todo caso, sometidos a autorización administrativa del Ministerio de Industria, Turismo y Comercio.
+6. El régimen jurídico y económico al que se someterán los intercambios intracomunitarios e internacionales se regulará reglamentariamente respetando los principios de competencia y transparencia que han de regir el mercado de producción. En todo caso, los sujetos que realicen operaciones de exportación de energía eléctrica habrán de abonar los costes del sistema que proporcionalmente les correspondan.
+7. (Suprimido).
+Se suprime el apartado 7 por la disposición final 8.1 de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+ Se modifican los apartados 2, 3, 5 y 6 por el art. único.19 y 20 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifica el primer párrafo de los apartados 2 y 3 por el art. 1.4 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+ Esta modificación entra en vigor cuando se produzca la revisión del régimen retributivo de las instralaciones de régimen especial, según estable la disposición final 3. Téngase en cuenta el Real Decreto 661/2007, de 25 de mayo. Ref. BOE-A-2007-10556
+ Se modifican los apartados 2, 3 y 6 y se añade el apartado 7 por el art. 22.1 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Artículo 14
+
+Artículo 14. Separación de actividades.
+1. Las sociedades mercantiles que desarrollen alguna o algunas de las actividades reguladas a que se refiere el apartado 2 del artículo 11 deben tener como objeto social exclusivo el desarrollo de las mismas sin que puedan, por tanto, realizar actividades de producción, de comercialización o de servicios de recarga energética, ni tomar participaciones en empresas que realicen estas actividades.
+2. No obstante, un grupo de sociedades podrá desarrollar actividades incompatibles de acuerdo con la ley, siempre que sean ejercitadas por sociedades diferentes, y se cumplan los siguientes criterios de independencia:
+a. Las personas responsables de la gestión de sociedades que realicen actividades reguladas no podrán participar en estructuras organizativas del grupo empresarial que sean responsables, directa o indirectamente, de la gestión cotidiana de actividades de generación, comercialización o de servicios de recarga energética. Adicionalmente, y sin perjuicio de lo ya establecido en el segundo párrafo del artículo 35.2 de la presente Ley en materia de transportista único y de exclusividad de desarrollo de la actividad de transporte, el responsable de administración de la red de distribución no podrá participar en la gestión cotidiana de las actividades de transporte.
+b. Los grupos de sociedades garantizarán la independencia de las personas responsables de la gestión de sociedades que realicen actividades reguladas mediante la protección de sus intereses profesionales. En particular establecerán garantías en lo que concierne a su retribución y su cese.
+Las sociedades que realicen actividades reguladas y las personas responsables de su gestión que se determine no podrán poseer acciones de sociedades que realicen actividades de producción, comercialización o de servicios de recarga energética.
+Además, las sociedades que realicen actividades reguladas, así como sus trabajadores, no podrán compartir información comercialmente sensible con las empresas del grupo de sociedades al que pertenezcan, en el caso de que éstas realicen actividades liberalizadas.
+c. Las sociedades que realicen actividades reguladas tendrán capacidad de decisión efectiva, independiente del grupo de sociedades, con respecto a activos necesarios para explotar, mantener, o desarrollar la red de transporte o distribución de energía eléctrica.
+No obstante, el grupo de sociedades tendrá derecho a la supervisión económica y de la gestión de las referidas sociedades, y podrán someter a aprobación el plan financiero anual, o instrumento equivalente, así como establecer límites globales a su nivel de endeudamiento.
+En ningún caso podrá el grupo empresarial dar instrucciones a las sociedades que realicen actividades reguladas respecto de la gestión cotidiana, ni respecto de decisiones particulares referentes a la construcción o mejora de activos de transporte o distribución, siempre que no se sobrepase lo establecido en el plan financiero anual o instrumento equivalente.
+d. Las sociedades que realicen actividades reguladas establecerán un código de conducta en el que se expongan las medidas adoptadas para garantizar el cumplimiento de lo estipulado en los párrafos a), b) y c) anteriores.
+Dicho código de conducta establecerá obligaciones específicas de los empleados, y su cumplimiento será objeto de la adecuada supervisión y evaluación por la persona u órgano competente designado por la sociedad a tal efecto. El encargado de evaluar el cumplimiento será totalmente independiente y tendrá acceso a toda la información de la sociedad y de cualquiera de sus empresas filiales que requiera para el desempeño de su función.
+Anualmente, el encargado de supervisión presentará un informe al Ministerio de Industria, Energía y Turismo y a la Comisión Nacional de Energía, que será publicado en el "Boletín Oficial del Estado", indicando las medidas adoptadas para lograr el cumplimiento de lo estipulado en los párrafos a), b) y c) anteriores.
+e. La separación de actividades y, en particular, la separación funcional, a cuyo efecto las empresas obligadas deberán remitir al Ministerio de Industria, Energía y Turismo y a la Comisión Nacional de Energía el código de conducta previsto en el artículo 14.2.d) de la presente Ley antes del 31 de marzo de cada año, con relación al ejercicio anterior.
+3. Las empresas distribuidoras que formen parte de un grupo de sociedades que desarrollen actividades reguladas y libres en los términos previstos en la presente Ley, no crearán confusión en su información y en la presentación de su marca e imagen de marca respecto a la identidad propia de las filiales de su mismo grupo que realicen actividades de comercialización, sin perjuicio de las infracciones previstas en la normativa vigente a este respecto.
+4. Sin perjuicio de lo establecido en el apartado 1, cualquier adquisición de participaciones accionariales por parte de aquellas sociedades mercantiles que desarrollen actividades reguladas exigirá la obtención de la autorización previa a que se refiere la función decimocuarta del apartado 1 del punto tercero de la disposición adicional undécima de la Ley 34/1998, de 7 octubre, del Sector de Hidrocarburos.
+5. El conjunto de obligaciones establecidas en los apartados 1 y 2 del presente artículo no serán aplicables a las empresas distribuidoras con menos de 100.000 clientes conectados a sus redes a quienes les hubiera sido de aplicación la disposición transitoria undécima de la presente ley.
+Se modifican las letras a) y d) y se añade la e) en el apartado 2, se renumeran los apartados 3 y 4 como 4 y 5 y se añade el 3 por el art. 1.4 y 5 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. 23 del Real Decreto-ley 6/2010, de 9 de abril. Ref. BOE-A-2010-5879
+ Se modifica por el art. único. 21 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Téngase en cuenta la disposición transitoria 5.
+
+## TÍTULO III
+
+Régimen económico
+
+### Artículo 15
+
+Artículo 15. Retribución de las actividades.
+1. Las actividades destinadas al suministro de energía eléctrica serán retribuidas económicamente en la forma dispuesta en la presente Ley con cargo a los peajes y los precios satisfechos.
+2. Los costes de las actividades reguladas, incluyendo entre ellos los costes permanentes de funcionamiento del sistema y los costes de diversificación y seguridad de abastecimiento, serán financiados mediante los ingresos recaudados por peajes de acceso a las redes de transporte y distribución satisfechos por los consumidores y los productores, así como por las partidas provenientes de los Presupuestos Generales del Estado.
+3. Para la determinación de los peajes y precios se establecerá reglamentariamente la retribución de las actividades con criterios objetivos, transparentes y no discriminatorios que incentiven la mejora de la eficacia de la gestión, la eficiencia económica y técnica de dichas actividades y la calidad del suministro eléctrico.
+Se modifica el apartado 2 por la disposición final 1.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+ Se modifica por el art. 1.1 del Real Decreto-ley 14/2010, de 23 de diciembre. Ref. BOE-A-2010-19757.
+ Se modifica por el art. único. 22 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 16
+
+Artículo 16. Retribución de las actividades y funciones del sistema.
+1. La retribución de la actividad de producción incorporará los siguientes conceptos:
+a) La energía eléctrica negociada a través de los mercados diario e intradiario que se retribuirá sobre la base del precio resultante del equilibrio entre la oferta y la demanda de energía eléctrica ofertada en los mismos.
+La energía eléctrica negociada a través de los mercados de contratación bilateral o física o a plazo que se retribuirá sobre la base del precio de las operaciones contratadas en firme en los mencionados mercados.
+Este concepto retributivo se definirá considerando las pérdidas incurridas en la red de transporte y los costes derivados de las alteraciones del régimen normal de funcionamiento del sistema de ofertas.
+b) Los servicios de ajuste del sistema necesarios para garantizar un suministro adecuado al consumidor.
+Reglamentariamente se determinará qué servicios se consideran de ajuste del sistema, así como su régimen retributivo, diferenciándose aquellos que tengan carácter obligatorio de aquellos potestativos.
+c) Adicionalmente el Ministerio de Industria, Turismo y Comercio podrá establecer una retribución en concepto de pago por capacidad en función de las necesidades de capacidad del sistema.
+2. La retribución de la actividad de transporte se establecerá reglamentariamente atendiendo a los costes de inversión y operación y mantenimiento de las instalaciones.
+Para el reconocimiento de la retribución de las nuevas instalaciones de transporte será requisito indispensable que hayan sido incluidas en la planificación a la que se refiere el artículo 4 de esta Ley.
+Adicionalmente, se incluirán los destinados a reducir el impacto socio ambiental derivado de la construcción de infraestructuras de transporte, cuyo importe, forma de recaudación, destino específico y gestión serán fijados por el Gobierno hasta una cuantía máxima del 3 % de la retribución de dicha actividad.
+3. La retribución de la actividad de distribución se establecerá reglamentariamente y permitirá fijar la retribución que haya de corresponder a cada sujeto atendiendo a los siguientes criterios: costes de inversión, operación y mantenimiento de las instalaciones, energía circulada, modelo que caracterice las zonas de distribución, los incentivos que correspondan por la calidad del suministro y la reducción de las pérdidas, así como otros costes necesarios para desarrollar la actividad.
+4. Sin perjuicio de lo establecido en relación con el suministro de último recurso, la retribución a la actividad de comercialización será la que libremente se pacte por las partes.
+5. Tendrán la consideración de costes permanentes de funcionamiento del sistema los siguientes conceptos:
+Los costes que, por el desarrollo de actividades de suministro de energía eléctrica en territorios insulares y extrapeninsulares, puedan integrarse en el sistema de acuerdo con el apartado 3 del artículo 12.
+Los costes reconocidos al operador del sistema.
+Los costes de funcionamiento de la Comisión Nacional de Energía.
+6. Tendrán la consideración de costes de diversificación y seguridad de abastecimiento las primas a que se refiere el artículo 30.4 de la presente Ley.
+7. La retribución de la producción en barras de central de energía de los productores en régimen especial será la que corresponde a la producción de energía eléctrica, de acuerdo con el apartado 1 de este artículo y, en su caso, una prima que será determinada por el Gobierno, previa consulta con las Comunidades Autónomas, de acuerdo con lo establecido en el artículo 30.4.
+8. Reglamentariamente se establecerá el régimen económico de los derechos por acometidas y demás actuaciones necesarias para atender los requerimientos de suministro de los usuarios. Los derechos a pagar por acometidas serán fijados por las Comunidades Autónomas dentro de un margen del ± 5% de los derechos que el Gobierno establezca en función de la potencia que se solicite y de la ubicación del suministro, de forma que se asegure la recuperación de las inversiones en que incurran las empresas distribuidoras. Los ingresos por este concepto se considerarán, a todos los efectos, retribución de la actividad de distribución.
+En aquellas Comunidades Autónomas en las que no se haya desarrollado el régimen económico de los derechos de acometida, se aplicará el régimen económico establecido reglamentariamente.
+9. El operador del mercado se financiará en base a los precios que éste cobre a los agentes que participen en el mismo por los servicios que presta.
+10. La retribución del operador del sistema se establecerá de acuerdo con la metodología que determine el Gobierno en función de los servicios que efectivamente preste.
+La retribución del operador del sistema se fijará anualmente por el Ministerio de Industria, Energía y Turismo cuando se revisen los peajes.
+Su cuantía será financiada en base a los precios que éste cobre a los sujetos. Estos precios serán fijados por el Ministerio de Industria, Energía y Turismo.
+11. En las metodologías retributivas de las actividades de transporte y distribución se considerarán los costes necesarios para realizar la actividad por una empresa eficiente y bien gestionada, mediante la aplicación de criterios básicos que serán homogéneos en todo el territorio español. Los regímenes económicos de las actividades de red permitirán una retribución adecuada a la de una actividad de bajo riesgo. A tal efecto, la tasa de retribución financiera del activo con derecho a retribución a cargo del sistema eléctrico de las empresas de transporte y distribución estará referenciado al rendimiento de las Obligaciones del Estado a diez años en el mercado secundario incrementado con un diferencial.
+Se añade el apartado 11 por el art. 1.1 del Real Decreto-ley 9/2013, de 12 de julio. Ref. BOE-A-2013-7705.
+ Se añade el apartado 10 por la disposición final 2 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Esta modificación será de aplicación a partir de la fecha en que sea eficaz el Acuerdo del Consejo de Ministros que establezca la metodología a que hace referencia, según establece la disposición final 8 del citado Real Decreto-ley.
+ Se modifican los apartados 1, 2, 4, 5 y 8 y se añade el apartado 9 por el art. único.23 a 26 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifica el apartado 7 por el art. 1.5 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+ Esta modificación entra en vigor cuando se produzca la revisión del régimen retributivo de las instralaciones de régimen especial, según estable la disposición final 3 del citado Real Decreto-ley. Téngase en cuenta el Real Decreto 661/2007, de 25 de mayo. Ref. BOE-A-2007-10556
+ Se modifica el apartado 1.a) por el art. 20.1 de la Ley 36/2003, de 11 de noviembre. Ref. BOE-A-2003-20695
+
+### Artículo 17
+
+Artículo 17. Peajes de acceso a las redes.
+1. El Ministro de Industria, Turismo y Comercio, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dictará las disposiciones necesarias para el establecimiento de los peajes de acceso a las redes, que se establecerán en base a los costes de las actividades reguladas del sistema que correspondan, incluyendo entre ellos los costes permanentes y los costes de diversificación y seguridad de abastecimiento.
+Los peajes así calculados serán únicos en todo el territorio nacional y no incluirán ningún tipo de impuestos.
+2. Los peajes que deberán satisfacer los consumidores tendrán en cuenta las especialidades por niveles de tensión y las características de los consumos por horario y potencia.
+Los peajes que deberán satisfacer los productores tanto de régimen ordinario como del régimen especial se regularan reglamentariamente, teniendo en cuenta la energía vertida a las redes.
+3. El Gobierno establecerá la metodología de cálculo de los peajes.
+4. En caso de que las actividades o instalaciones destinadas al suministro eléctrico fueran gravadas, directa o indirectamente, con tributos propios de las Comunidades Autónomas o recargos sobre tributos estatales, al peaje de acceso se le incluirá un suplemento territorial que cubrirá la totalidad del sobrecoste provocado por ese tributo o recargo y que deberá ser abonado por los consumidores ubicados en el ámbito territorial de la respectiva Comunidad Autónoma.
+En el caso de que los tributos impuestos sean de carácter local y no vengan determinados por normativa estatal, al peaje de acceso se le podrá incluir un suplemento territorial que cubra la totalidad del sobrecoste provocado.
+Se modifica el apartado 4 por el art. 38.1 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ Se modifica el apartado 2 por el art. 1.2 del Real Decreto-ley 14/2010, de 23 de diciembre. Ref. BOE-A-2010-19757.
+ Se modifica por el art. único. 27 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 18
+
+Artículo 18. Tarifas de último recurso.
+1. Las tarifas de último recurso, que serán únicas en todo el territorio nacional, serán los precios máximos que podrán cobrar los comercializadores que, de acuerdo con lo previsto en el apartado f) del artículo 9, asuman las obligaciones de suministro de último recurso, a los consumidores que, de acuerdo con la normativa vigente para estas tarifas, se acojan a las mismas.
+Estas tarifas de último recurso se fijarán de forma que en su cálculo se respete el principio de suficiencia de ingresos y no ocasionen distorsiones de la competencia
+2. Las tarifas de último recurso tendrán en cuenta las especialidades que correspondan. Para su cálculo, se incluirán de forma aditiva en su estructura los siguientes conceptos:
+a) El coste de producción de energía eléctrica, que se determinará atendiendo al precio medio previsto del kilovatio hora en el mercado de producción durante el período que reglamentariamente se determine y que será revisable de forma independiente.
+b) Los peajes de acceso que correspondan.
+c) Los costes de comercialización que correspondan.
+3. El Gobierno establecerá la metodología de cálculo de las tarifas de último recurso. El Ministro de Industria, Turismo y Comercio, mediante Orden ministerial, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dictará las disposiciones necesarias para el establecimiento de estas tarifas de último recurso.
+4. Las tarifas de último recurso para cada categoría de consumo no incluirán ningún tipo de impuestos que sean de aplicación.
+5. En caso de que las actividades o instalaciones destinadas al suministro eléctrico fueran gravadas, directa o indirectamente, con tributos propios de las Comunidades Autónomas o recargos sobre tributos estatales a la tarifa de último recurso se le incluirá un suplemento territorial que cubrirá la totalidad del sobrecoste provocado por ese tributo o recargo y que deberá ser abonado por los consumidores ubicados en el ámbito territorial de la respectiva Comunidad Autónoma.
+En el caso de que los tributos impuestos sean de carácter local y no vengan determinados por normativa estatal, a la tarifa de último recurso se le podrá incluir un suplemento territorial que cubra la totalidad del sobrecoste provocado.
+6. Con el fin de que exista la mayor transparencia en los precios del suministro de energía eléctrica, se desglosarán en la facturación al usuario, en la forma que reglamentariamente se determine, al menos los importes correspondientes a la imputación de los costes de diversificación y seguridad de garantía de abastecimiento y permanentes del sistema y los tributos que graven el consumo de electricidad, así como los suplementos territoriales cuando correspondan.
+Se modifica el apartado 5 por el art. 38.2 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ Se modifica por el art. único. 27 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifica el apartado 3 por el art. 7 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+
+### Artículo 19
+
+Artículo 19. Cobro y liquidación de los peajes y precios.
+1. Los peajes de acceso a las redes de transporte y distribución y los precios por otros servicios regulados destinados al suministro de energía eléctrica serán cobrados por las empresas distribuidoras y en su caso por el transportista, debiendo dar a las cantidades ingresadas la aplicación que proceda de acuerdo con lo previsto en la presente Ley.
+2. El Gobierno establecerá reglamentariamente el procedimiento de reparto de los fondos ingresados por los distribuidores y el transportista entre quienes realicen las actividades incluidas en el sistema, atendiendo a la retribución que les corresponda de conformidad con la presente Ley.
+3. Los sujetos a los que se refiere el artículo 9 se adherirán a las condiciones que establezcan el operador del mercado y el operador del sistema para la realización de las operaciones de liquidación y pago de la energía que correspondan, que serán públicas, transparentes y objetivas.
+Se modifican los apartados 1 y 2 por el art. 1.3 del Real Decreto-ley 14/2010, de 23 de diciembre. Ref. BOE-A-2010-19757.
+ Se modifica por el art. único. 27 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 20
+
+Artículo 20. Contabilidad e información.
+1. Las entidades que desarrollen alguna o algunas de las actividades a que se refiere el artículo 1.1 de la presente Ley llevarán su contabilidad de acuerdo con el capítulo VII de la Ley de Sociedades Anónimas, aun cuando no tuvieran tal carácter.
+El Gobierno regulará las adaptaciones que fueran necesarias para el supuesto de que el titular de la actividad no sea una sociedad anónima.
+En cualquier caso, las empresas habrán de tener en su sede central a disposición del público una copia de sus cuentas anuales.
+2. Sin perjuicio de la aplicación de las normas generales de contabilidad a las empresas que realicen actividades a que se refiere el artículo 1.1 de la presente Ley o a las sociedades que ejerzan control sobre las mismas, el Gobierno podrá establecer para las mismas las especialidades contables y de publicación de cuentas que se consideren adecuadas, de tal forma que se reflejen con nitidez los ingresos y gastos de las actividades eléctricas y las transacciones realizadas entre sociedades de un mismo grupo.
+Entre las especialidades contables a establecer por el Gobierno para las empresas que realicen actividades eléctricas se concederá especial atención a la inclusión en las cuentas anuales de la información relativa a las actuaciones empresariales con incidencia sobre el medio ambiente, con el objetivo de integrar progresivamente los criterios de preservación del entorno en los procesos de decisión económica de las empresas.
+En el caso de las sociedades que tengan por objeto la realización de las actividades reguladas, de acuerdo con lo dispuesto en el artículo 11.2 de la presente Ley, llevarán en su contabilidad cuentas separadas que diferencien entre los ingresos y costes imputables estrictamente a cada una de dichas actividades, a fin de evitar discriminaciones, subvenciones entre actividades distintas y distorsiones de la competencia.
+Los comercializadores que se designen de último recurso llevarán en su contabilidad interna cuentas separadas de las actividades de suministro de último recurso del resto de actividades.
+Las sociedades que desarrollen actividades eléctricas no reguladas llevarán cuentas separadas de la actividad de producción, de comercialización, de aquellas otras no eléctricas que realicen en el territorio nacional y de todas aquellas otras que realicen en el exterior.
+Los productores en régimen especial llevarán en su contabilidad interna cuentas separadas de las actividades eléctricas y de aquellas que no lo sean.
+3. Las entidades deberán explicar en la memoria de las cuentas anuales los criterios aplicados en el reparto de costes respecto a las otras entidades del grupo que realicen actividades eléctricas diferentes. Además, deberán informar en la memoria sobre los criterios de asignación e imputación de los activos, pasivos, gastos e ingresos, así como de las reglas de amortización aplicadas.
+Estos criterios deberán mantenerse y no se modificarán, salvo circunstancias excepcionales. Las modificaciones y su justificación deberán ser explicadas en la memoria anual al correspondiente ejercicio.
+Se incluirá también en la memoria de las cuentas anuales, información sobre las operaciones realizadas con las empresas de su mismo grupo empresarial en las condiciones que reglamentariamente se establezcan.
+4. Las empresas deberán proporcionar a la Administración la información que les sea requerida, en especial en relación con sus estados financieros, que deberá ser verificada mediante auditorías externas a la propia empresa que habrán de realizarse de conformidad con lo dispuesto en la Ley de Auditoría de Cuentas.
+Cuando estas entidades formen parte de un mismo grupo empresarial, la obligación de información se extenderá, asimismo, a la sociedad que ejerza el control de la que realiza actividades eléctricas siempre que actúe en algún sector energético y a aquellas otras sociedades del grupo que lleven a cabo operaciones con la que realiza actividades en el sistema eléctrico.
+Reglamentariamente se podrán establecer excepciones a la obligación de auditar las cuentas para las empresas de pequeño o mediano tamaño.
+5. Deberá incluirse información en las cuentas anuales, relativa a las actuaciones empresariales que se materialicen en proyectos de ahorro, eficiencia energética y de reducción del impacto medioambiental para los que se produzca la deducción por inversiones prevista en la presente Ley.
+Se modifican los apartados 1, 2, 3 y 4 por el art. único.28 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifica el último párrafo del apartado 2 por el art. 1.6 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+ Esta modificación entra en vigor cuando se produzca la revisión del régimen retributivo de las instralaciones de régimen especial, según estable la disposición final 3. Téngase en cuenta el Real Decreto 661/2007, de 25 de mayo. Ref. BOE-A-2007-10556
+
+## TÍTULO IV
+
+Producción de energía eléctrica
+
+## CAPÍTULO I
+
+Régimen ordinario
+
+### Artículo 21
+
+Artículo 21. Actividades de producción de energía eléctrica.
+1. La construcción, explotación, modificación sustancial y cierre de cada instalación de producción de energía eléctrica estará sometida al régimen de autorización administrativa previa en los términos establecidos en esta Ley y en sus disposiciones de desarrollo. La transmisión de estas instalaciones se comunicará a la Administración concedente de la autorización original.
+El otorgamiento de la autorización administrativa tendrá carácter reglado y se regirá por los principios de objetividad, transparencia y no discriminación.
+Estas autorizaciones no podrán ser otorgadas si su titular no ha obtenido previamente la autorización del punto de conexión a las redes de transporte o distribución correspondientes. A estos efectos, el Procedimiento de Operación podrá incluir límites a la capacidad de conexión por zonas o por nudos.
+2. Los solicitantes de autorizaciones para instalaciones de producción de energía eléctrica deberán acreditar los siguientes extremos:
+a) Las condiciones de eficiencia energética, técnicas y de seguridad de las instalaciones propuestas.
+b) El adecuado cumplimiento de las condiciones de protección del medio ambiente y la minimización de los impactos ambientales.
+c) Las circunstancias del emplazamiento de la instalación.
+d) Su capacidad legal, técnica y económico-financiera para la realización del proyecto.
+3. Las autorizaciones administrativas a que se refiere el apartado 1 del presente artículo serán otorgadas por la Administración competente, sin perjuicio de las concesiones y autorizaciones que sean necesarias, de acuerdo con otras disposiciones que resulten aplicables y en especial las relativas a la ordenación del territorio y al medio ambiente.
+La falta de resolución expresa de las solicitudes de autorización a que se refiere el presente artículo tendrá efectos desestimatorios. En todo caso podrá interponerse recurso ordinario ante la autoridad administrativa correspondiente.
+4. Se crea, en el Ministerio de Industria y Energía, un Registro Administrativo de Instalaciones de Producción de Energía Eléctrica en el cual habrán de estar inscritas todas aquellas instalaciones de producción de energía eléctrica que hayan sido autorizadas, las condiciones de dicha instalación y, en especial, la potencia de la instalación.
+Las Comunidades Autónomas con competencias en la materia podrán crear y gestionar los correspondientes registros territoriales en los que deberán estar inscritas todas las instalaciones ubicadas en el ámbito territorial de aquéllas.
+Reglamentariamente, previo informe de las Comunidades Autónomas, se establecerá su organización, así como el procedimiento de inscripción y comunicación de datos al Registro Administrativo de Instalaciones de Producción de Energía Eléctrica.
+5. La inscripción en el Registro Administrativo de Instalaciones de Producción de Energía Eléctrica será condición necesaria para poder participar en el mercado de producción de energía eléctrica en cualquiera de las modalidades de contratación con entrega física. Las Comunidades Autónomas tendrán acceso a la información contenida en este Registro.
+6. Los titulares de las autorizaciones estarán obligados a mantener la capacidad de producción prevista en las mismas y a proporcionar a la Administración la información que se les requiera de cuantos datos afecten a las condiciones que determinaron su otorgamiento.
+El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, en los términos previstos en el régimen sancionador aplicable.
+7. La actividad de producción incluirá la transformación de energía eléctrica, así como, en su caso, la conexión con la red de transporte o de distribución.
+Se añade el último párrafo al apartado 1 y se modifica el apartado 5 por el art. único.29 y 30 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 22
+
+Artículo 22. Aprovechamientos hidráulicos necesarios para la producción de energía eléctrica.
+1. Cuando el establecimiento de unidades de producción eléctrica requiera autorización o concesión administrativa conforme a lo dispuesto en la Ley 29/1985, de 2 de agosto, de Aguas, se estará a lo establecido en la citada Ley.
+2. Cuando, tanto en materia hidráulica como energética, sea competente el Estado, el otorgamiento de la autorización de unidades de producción y de la concesión para el uso de las aguas que aquéllas han de utilizar podrá ser objeto de un solo expediente y de resolución única, con la participación de los Departamentos ministeriales o, en su caso, organismos de cuenca competentes, en la forma y con la regulación que reglamentariamente determinen, sin perjuicio de las competencias propias de cada Departamento.
+En lo que se refiere a la explotación hidroeléctrica, la autorización deberá ajustarse a lo previsto en el ar tículo 21.
+3. En el procedimiento de otorgamiento de concesiones y autorizaciones para el uso de agua para la producción de energía eléctrica o necesario para el funcionamiento de unidades de producción no hidráulicas instado por particulares, será preceptivo el informe previo de la Administración competente en materia energética que deba autorizar, conforme a lo dispuesto en la presente Ley, las citadas unidades de producción.
+Las autorizaciones y concesiones para los usos señalados en el párrafo anterior no podrán ser otorgadas cuando sea desfavorable el informe emitido por la Administración competente para autorizar las unidades de producción.
+
+### Artículo 23
+
+Artículo 23. Mercado de producción. Sistema de ofertas en el mercado diario de producción de energía eléctrica.
+1. Los productores de energía eléctrica efectuarán ofertas económicas de venta de energía, a través del operador del mercado, por cada una de las unidades de producción de las que sean titulares, bien físicas o en cartera, cuando no se hayan acogido a sistemas de contratación bilateral o a plazo que por sus características queden excluidos del sistema de ofertas.
+Aquellas unidades de producción de energía eléctrica cuya potencia instalada sea superior a 50 MW, o que a la entrada en vigor de la presente Ley estén sometidas al régimen previsto en el Real Decreto 1538/1987, de 11 de diciembre, sobre la determinación de la tarifa de las empresas gestoras del servicio público, estarán obligadas a realizar ofertas económicas al operador del mercado para cada período de programación, salvo en los supuestos previstos en el artículo 25 de la presente Ley.
+Las unidades de producción de energía eléctrica no incluidas en el apartado anterior, podrán realizar ofertas económicas al operador del mercado para aquellos períodos de programación que estimen oportunos.
+Los comercializadores de último recurso estarán obligados a realizar ofertas económicas de adquisición de energía eléctrica al operador del mercado en cada período de programación por la parte de energía necesaria para el suministro de sus clientes de último recurso no cubierta mediante otros sistemas de contratación con entrega física.
+2. Reglamentariamente, se establecerá la antelación mínima con que deben realizarse las ofertas al operador del mercado, el horizonte de las mismas, el período de programación y el régimen de operación.
+3. El orden de entrada en funcionamiento de las unidades de producción de energía eléctrica se determinará partiendo de aquélla cuya oferta haya sido la más barata hasta igualar la demanda de energía en ese período de programación, sin perjuicio de las posibles restricciones técnicas que pudieran existir en la red de transporte, o en el sistema.
+Se modifica el título y el apartado 1 por el art. único.31 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se añaden los dos últimos párrafos al apartado 1 por el art. 22.2 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+ Se modifica el apartado 1, párrafo 1 por el art. 20.2 de la Ley 36/2003, de 11 de noviembre. Ref. BOE-A-2003-20695
+
+### Artículo 24
+
+Artículo 24. Demanda y contratación de la energía producida.
+1. La contratación de energía eléctrica podrá realizarse libremente, en los términos previstos en la presente Ley y en sus Reglamentos de desarrollo.
+2. Las ofertas de adquisición de energía eléctrica que presenten los sujetos al operador del mercado, una vez aceptadas, se constituirán en un compromiso en firme de suministro por el sistema.
+Reglamentariamente se determinarán los sujetos y las condiciones en las que se hayan de realizar las citadas ofertas de adquisición y los casos en que proceda la petición por el operador del mercado de garantías suficientes del pago. Asimismo, se podrán regular los procedimientos necesarios para incorporar la demanda en el mecanismo de ofertas.
+Las ofertas de adquisición realizadas a través del operador del mercado habrán de expresar el período temporal para el que se solicita dicho suministro, y la aceptación de la liquidación que se realice.
+El contrato se entenderá formalizado en el momento de la casación y se perfeccionará cuando se haya producido el suministro de energía eléctrica.
+3. Los sujetos que participen en el mercado de producción de energía eléctrica podrán formalizar contratos bilaterales con entrega física que contemplarán al menos el precio de adquisición de la energía y el período temporal del suministro. Reglamentariamente se determinará qué elementos de estos contratos deberán ser puestos en conocimiento del operador del sistema.
+4. El operador del mercado cuidará de establecer los mecanismos necesarios para que el pago de las transacciones bilaterales o a plazo esté garantizado.
+5. Reglamentariamente, se regulará la creación, organización y funcionamiento de mercados organizados que tengan por objeto la contratación a plazo de energía eléctrica, cuya gestión corresponderá a Sociedades Gestoras, así como los sujetos del sector eléctrico que podrán participar en estos mercados, las condiciones en que podrán hacerlo, y la información que las Sociedades Gestoras deban comunicar al Operador del Mercado y al Operador del Sistema, a los efectos de asegurar el correcto funcionamiento del sistema eléctrico.
+Se modifican los apartados 2, 3 y 4 por el art. único.32 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifica el apartado 4 y se añade el 5 por el art. 20.3 y 4 de la Ley 36/2003, de 11 de noviembre. Ref. BOE-A-2003-20695
+
+### Artículo 25
+
+Artículo 25. Excepciones al sistema de ofertas.
+1. El Gobierno podrá establecer los procedimientos, compatibles con el mercado de libre competencia en producción, para conseguir el funcionamiento de aquellas unidades de producción de energía eléctrica que utilicen fuentes de combustión de energía primaria autóctonas, hasta un límite del 15 por 100 de la cantidad total de energía primaria necesaria para producir la electricidad demandada por el mercado nacional, considerada en períodos anuales, adoptando las medidas necesarias dirigidas a evitar la alteración del precio de mercado.
+2. De acuerdo con lo establecido en el capítulo II del presente Título, los productores de energía eléctrica en régimen especial podrán incorporar al sistema su producción de energía en barras de central sin someterse al sistema de ofertas.
+3. (Suprimido)
+4. De acuerdo con lo previsto en el artículo 12, la producción de energía eléctrica en territorios insulares y extrapeninsulares podrá quedar excluida del sistema de ofertas.
+5. Estarán excluidos del sistema de ofertas los intercambios intracomunitarios o internacionales que, de acuerdo con lo previsto en el artículo 13.4 de la presente Ley, pueden ser realizados por el operador del sistema, así como aquellas operaciones de venta de energía a otros sistemas que se determinen reglamentariamente.
+6. De acuerdo con lo previsto en el artículo 24.4 de la presente Ley, reglamentariamente se podrán determinar modalidades contractuales que por sus características hayan de estar excluidas del sistema de ofertas.
+7. Aquellas unidades de producción que, en aplicación de lo previsto en este artículo, no estén obligadas a realizar ofertas económicas, podrán percibir una retribución por venta de energía equivalente al precio marginal para cada período de programación de acuerdo con lo establecido por el artículo 16, sin perjuicio de las especialidades del régimen retributivo que les fueran aplicables de acuerdo con lo establecido en la presente Ley.
+No obstante, todas las unidades de producción a que se refiere el presente artículo deberán comunicar al operador del mercado, en los términos que reglamentariamente se establezcan, la producción prevista para cada período de programación.
+8. En los supuestos a que se refiere el apartado 2 del artículo 10, el Gobierno podrá adoptar medidas que puedan suponer, directa o indirectamente, una alteración del sistema de ofertas.
+Se modifica el apartado 2 y se suprime el apartado 3 por el art. 1.7 y 8 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+ Estas modificaciones entran en vigor cuando se produzca la revisión del régimen retributivo de las instralaciones de régimen especial, según estable la disposición final 3. Téngase en cuenta el Real Decreto 661/2007, de 25 de mayo. Ref. BOE-A-2007-10556
+
+### Artículo 26
+
+Artículo 26. Derechos y obligaciones de los productores de energía eléctrica.
+1. Serán derechos de los productores de energía eléctrica:
+a) La utilización en sus unidades de producción de aquellas fuentes de energía primaria que consideren más adecuadas respetando, en todo caso, los rendimientos, características técnicas y las condiciones de protección medioambiental contenidas en la autorización de dicha instalación.
+b) Contratar la venta o adquisición de energía eléctrica en los términos previstos en la ley y en sus disposiciones de desarrollo.
+c) Despachar su energía a través del operador del sistema.
+d) Tener acceso a las redes de transporte y distribución.
+e) Percibir la retribución que les corresponda de acuerdo con los términos previstos en la presente Ley.
+f) Recibir la compensación a que pudieran tener derecho por los costes en que hubieran incurrido en supuestos de alteraciones en el funcionamiento del sistema, en los supuestos previstos en el artículo 10.2 de la presente Ley.
+2. Serán obligaciones de los productores de energía eléctrica:
+a) El desarrollo de todas aquellas actividades necesarias para producir energía eléctrica en los términos previstos en su autorización y, en especial, en lo que se refiere a seguridad, disponibilidad y mantenimiento de la potencia instalada y al cumplimiento de las condiciones medioambientales exigibles.
+b) La presentación de ofertas de venta de energía eléctrica al operador del mercado, en los términos previstos en el artículo 23.
+c) Estar dotados de los equipos de medida que permitan determinar, para cada período de programación, la energía efectivamente vertida a la correspondiente red.
+d) Adherirse a las condiciones de funcionamiento del sistema de ofertas, especialmente en lo que se refiere al procedimiento de liquidación y pago de la energía.
+e) Aplicar las medidas que, de acuerdo con el ar tículo 10 de la presente Ley, sean adoptadas por el Gobierno.
+f) Contratar y abonar el peaje que corresponda, ya sea directamente o a través de su representante, a la empresa distribuidora o transportista a la que esté conectado por verter la energía a sus redes.
+g) Todas aquellas que puedan derivarse de la aplicación de la presente Ley y sus normas de desarrollo.
+Se reordena en el apartado 2 la letra f) como g) y se añade una letra f) por el art. 1.4 del Real Decreto-ley 14/2010, de 23 de diciembre. Ref. BOE-A-2010-19757.
+ Se modifica el apartado 1.b) por el art. 22.3 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+## CAPÍTULO II
+
+Régimen especial
+
+### Artículo 27
+
+Artículo 27. Régimen especial de producción eléctrica.
+1. La actividad de producción de energía eléctrica tendrá la consideración de producción en régimen especial en los siguientes casos, cuando se realice desde instalaciones cuya potencia instalada no supere los 50 Mw:
+a) Instalaciones que utilicen la cogeneración u otras formas de producción de electricidad asociadas a actividades no eléctricas siempre que supongan un alto rendimiento energético.
+b) Cuando se utilice como energía primaria alguna de las energías renovables no consumibles, biomasa o cualquier tipo de biocarburante, siempre y cuando su titular no realice actividades de producción en el régimen ordinario.
+c) Cuando se utilicen como energía primaria residuos no renovables.
+También tendrá la consideración de producción en régimen especial la producción de energía eléctrica desde instalaciones de tratamiento y reducción de los residuos de los sectores agrícola, ganadero y de servicios, con una potencia instalada igual o inferior a 25 Mw, cuando supongan un alto rendimiento energético.
+2. La producción en régimen especial se regirá por sus disposiciones específicas y, en lo no previsto en ellas, por las generales sobre producción eléctrica en lo que le resulten de aplicación.
+La condición de instalación de producción acogida a este régimen especial será otorgada por los órganos correspondientes de las Comunidades Autónomas con competencia en la materia.
+Se modifica el apartado 1.a) por el art. 1.9 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+ Esta modificación entra en vigor cuando se produzca la revisión del régimen retributivo de las instralaciones de régimen especial, según estable la disposición final 3. Téngase en cuenta el Real Decreto 661/2007, de 25 de mayo. Ref. BOE-A-2007-10556
+
+### Artículo 28
+
+Artículo 28. Autorización de la producción en régimen especial.
+1. La construcción, explotación, modificación sustancial, la transmisión y el cierre de instalaciones de producción de energía eléctrica en régimen especial estará sometida al régimen de autorización administrativa previa que tendrá carácter reglado.
+Las instalaciones autorizadas para este tipo de producción de energía eléctrica gozarán de un trato diferenciado según sus particulares condiciones, pero sin que quepa discriminación o privilegio alguno entre ellas.
+2. Los solicitantes de estas autorizaciones deberán acreditar las condiciones técnicas y de seguridad de las instalaciones propuestas, el adecuado cumplimiento de las condiciones de protección del medio ambiente y la capacidad legal, técnica y económica adecuada al tipo de producción que van a desarrollar y, una vez otorgadas, deberán proporcionar a la Administración competente información periódica de cuantos datos afecten a las condiciones que determinaron su otorgamiento.
+3. Las autorizaciones a que se refiere el apartado 1 serán otorgadas por la Administración Autonómica, sin perjuicio de las concesiones y autorizaciones que sean necesarias, de acuerdo con otras disposiciones que resulten aplicables y en especial las relativas a la ordenación del territorio y al medio ambiente.
+Estas autorizaciones no podrán ser otorgadas si su titular no ha obtenido previamente la autorización del punto de conexión a las redes de transporte o distribución correspondientes. A estos efectos, el gestor de la red de transporte, atendiendo a criterios de seguridad de suministro, podrá establecer límites por zonas territoriales a la capacidad de conexión, previa comunicación a la Secretaría General de Energía del Ministerio de Industria, Turismo y Comercio.
+La falta de resolución expresa de las solicitudes de autorización a que se refiere el presente artículo tendrá efectos desestimatorios. En todo caso podrá interponerse recurso ordinario ante la autoridad administrativa correspondiente.
+El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial de los presupuestos que determinaron su otorgamiento podrá dar lugar a su revocación.
+Se añade el párrafo segundo al apartado 3 por el art. único.33 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 29
+
+Artículo 29. Destino de la energía producida en régimen especial.
+La energía definida en el artículo 30.2.a) se someterá a los principios de ordenación del Título II y a aquellos de los Títulos III y IV de la presente Ley que les sean de aplicación.
+Se modifica por el art. 1.10 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+ Esta modificación entra en vigor cuando se produzca la revisión del régimen retributivo de las instralaciones de régimen especial, según estable la disposición final 3. Téngase en cuenta el Real Decreto 661/2007, de 25 de mayo. Ref. BOE-A-2007-10556
+
+### Artículo 30
+
+Artículo 30. Obligaciones y derechos de los productores en régimen especial.
+1. Serán obligaciones generales de los productores de energía eléctrica en régimen especial:
+a) Adoptar las normas de seguridad, reglamentos técnicos y de homologación o certificación de las instalaciones e instrumentos que establezca la Administración competente.
+b) Cumplir con las normas técnicas de generación, así como con las normas de transporte y de gestión técnica del sistema.
+c) Mantener las instalaciones en un grado óptimo de operación, de forma que no puedan causar daños a las personas o instalaciones de terceros.
+d) Facilitar a la Administración información sobre producción, consumo, venta de energía y otros extremos que se establezcan.
+e) Contratar y abonar el peaje que corresponda, ya sea directamente o a través de su representante, a la empresa distribuidora o transportista a la que esté conectado por verter la energía a sus redes.
+f) Cumplir adecuadamente las condiciones establecidas de protección del medio ambiente.
+2. Los productores en régimen especial gozarán, en particular, de los siguientes derechos:
+a) Incorporar su producción de energía en barras de central al sistema, percibiendo la retribución que se determine conforme a lo dispuesto en la presente Ley.
+A estos efectos, tendrá la consideración de producción de energía en barras de central la producción total de energía eléctrica de la instalación menos los consumos propios de dicha instalación de generación eléctrica.
+Cuando las condiciones del suministro eléctrico lo hagan necesario, el Gobierno, previo informe de las Comunidades Autónomas, podrá limitar, para un período determinado, la cantidad de energía que puede ser incorporada al sistema por los productores del régimen especial.
+b) Prioridad en el acceso a las redes de transporte y de distribución de la energía generada, respetando el mantenimiento de la fiabilidad y seguridad de las redes.
+c) Conectar en paralelo sus instalaciones a la red de la correspondiente empresa distribuidora o de transporte.
+d) Utilizar, conjunta o alternativamente en sus instalaciones, la energía que adquiera a través de otros sujetos.
+e) Recibir de la empresa distribuidora el suministro de energía eléctrica que precisen en las condiciones que reglamentariamente se determine.
+3. El régimen retributivo de las instalaciones de producción de energía eléctrica en régimen especial se ajustará a lo dispuesto en el apartado 1 del artículo 16 para los productores de energía eléctrica.
+4. Adicionalmente y en los términos que reglamentariamente por real decreto del Consejo de Ministros se determine, a la retribución por la venta de la energía generada valorada al precio del mercado, las instalaciones podrán percibir una retribución especifica compuesta por un término por unidad de potencia instalada, que cubra, cuando proceda, los costes de inversión de una instalación tipo que no pueden ser recuperados por la venta de la energía y un término a la operación que cubra, en su caso, la diferencia entre los costes de explotación y los ingresos por la participación en el mercado de dicha instalación tipo.
+Para el cálculo de dicha retribución específica se considerarán, para una instalación tipo, a lo largo de su vida útil regulatoria y en referencia a la actividad realizada por una empresa eficiente y bien gestionada:
+a) Los ingresos estándar por la venta de la energía generada valorada al precio del mercado de producción.
+b) Los costes estándar de explotación.
+c) El valor estándar de la inversión inicial.
+A estos efectos, en ningún caso se tendrán en consideración los costes o inversiones que vengan determinados por normas o actos administrativos que no sean de aplicación en todo el territorio español. Del mismo modo, sólo se tendrán en cuenta aquellos costes e inversiones que respondan exclusivamente a la actividad de producción de energía eléctrica.
+Como consecuencia de las singulares características de los sistemas eléctricos insulares y extrapeninsulares, podrán definirse excepcionalmente instalaciones tipo específicas para cada uno de ellos.
+Este régimen retributivo no sobrepasará el nivel mínimo necesario para cubrir los costes que permitan competir a las instalaciones en nivel de igualdad con el resto de tecnologías en el mercado y que posibiliten obtener una rentabilidad razonable por referencia a la instalación tipo en cada caso aplicable. No obstante lo anterior, excepcionalmente el régimen retributivo podrá incorporar además un incentivo a la inversión y a la ejecución en plazo determinado cuando su instalación suponga una reducción significativa de los costes en los sistemas insulares y extrapeninsulares.
+Esta rentabilidad razonable girará, antes de impuestos, sobre el rendimiento medio en el mercado secundario de las Obligaciones del Estado a diez años aplicando el diferencial adecuado.
+Los parámetros del régimen retributivo podrán ser revisados cada seis años.
+5. El Gobierno, previa consulta con las Comunidades Autónomas y Ciudades de Ceuta y Melilla, podrá determinar el derecho a una retribución basada en los principios previstos en el apartado 4 para aquellas instalaciones de producción de energía eléctrica de cogeneración o que utilicen como energía primaria, energías renovables no consumibles y no hidráulicas, biomasa, biocarburantes o residuos agrícolas, ganaderos o de servicios, aun cuando las instalaciones de producción de energía eléctrica tengan una potencia instalada superior a 50 MW.
+El Gobierno podrá establecer un régimen económico específico para aquellas instalaciones de producción de energía eléctrica de origen térmico del régimen ordinario cuando, además de utilizar el combustible para el que fueron autorizados, utilicen también biomasa o gases residuales industriales con valorización energética como combustible secundario. Para ello, se tendrán en cuenta los consumos energéticos que se produzcan y los sobrecostes que dicha utilización produzca. El acto resolutorio por el que se determine el citado régimen económico contendrá también las condiciones de utilización de la biomasa o gases residuales industriales con valorización energética.
+6. El Gobierno podrá establecer reglamentariamente el régimen retributivo específico de las instalaciones de régimen especial que, con posterioridad al reconocimiento de su régimen retributivo, hubieran sido objeto de una modificación sustancial o de una ampliación de potencia.
+7. La energía eléctrica imputable a la utilización de un combustible en una instalación de generación que utilice como energía primaria alguna de las energías renovables no consumibles, no será objeto de régimen económico primado, salvo en el caso de instalaciones híbridas entre fuentes de energía renovables no consumibles y consumibles, en cuyo caso la energía eléctrica imputable a la utilización de la fuente de energía renovable consumible sí podrá ser objeto de régimen económico primado.
+A estos efectos, por orden del Ministro de Industria, Energía y Turismo se publicará la metodología para el cálculo de la energía eléctrica imputable a los combustibles utilizados.
+8. A los efectos de esta ley se entenderá como biomasa la fracción biodegradable de los productos, desechos y residuos de origen biológico procedentes de actividades agrarias, incluidas las sustancias de origen vegetal y de origen animal, de la silvicultura y de las industrias conexas, incluidas la pesca y la acuicultura, así como la fracción biodegradable de los residuos industriales y municipales.
+9. Para el otorgamiento y adecuado seguimiento de la retribución específica otorgada a las instalaciones de producción a partir de fuentes de energía renovables, cogeneración y residuos, se crea, en el Ministerio de Industria, Energía y Turismo, el Registro de régimen retributivo específico, que incluirá los parámetros retributivos aplicables a dichas instalaciones.
+Reglamentariamente se establecerá su organización, así como los procedimientos y efectos de la inscripción y cancelación en dicho registro.
+La inscripción de la instalación en el Registro de régimen retributivo específico será requisito necesario para la aplicación a dicha instalación del régimen retributivo específico.
+Se modifican los apartados 4 y 5 y se añaden los apartados 8 y 9 por el art. 1.2 a 4 del Real Decreto-ley 9/2013, de 12 de julio. Ref. BOE-A-2013-7705.
+ Se añade el apartado 7 por la disposición final 1.2 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+ Se modifica el párrafo segundo del apartado 5 por la disposición final 6 de la Ley 40/2010, de 29 de diciembre. Ref. BOE-A-2010-20049.
+ Se modifica el apartado 1 y se añade el apartado 6 por el art. 1.5 y 6 del Real Decreto-ley 14/2010, de 23 de diciembre. Ref. BOE-A-2010-19757.
+ Se modifica el apartado 4.a) y el primer párrafo del apartado 5 por el art. único.34 y 35 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifican los apartados 2 y 4 por el art. 1.11 a 13 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+ La modificación del apartado 2 entra en vigor cuando se produzca la revisión del régimen retributivo de las instralaciones de régimen especial, según estable la disposición final 3. Téngase en cuenta el Real Decreto 661/2007, de 25 de mayo. Ref. BOE-A-2007-10556
+ Se modifica el apartado 4.b) y se añade el último párrafo al apartado 5 por los arts. 3 y 4 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+ Se modifica el párrafo tercero del apartado 4.b) por la disposición adicional 38 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se modifican los apartados 4 y 5 por el art. 108 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Artículo 31
+
+Artículo 31. Inscripción en el Registro Administrativo de Instalaciones de Producción de Energía Eléctrica.
+Las instalaciones de energía eléctrica en régimen especial habrán de estar inscritas en el Registro Administrativo de Instalaciones de Producción de Energía Eléctrica a que se refiere el apartado 4 del artículo 21 de la presente Ley. La inscripción especificará, en cada caso, el régimen retributivo al que se encuentren acogidos.
+
+## TÍTULO V
+
+Gestión económica y técnica del sistema eléctrico
+
+### Artículo 32
+
+Artículo 32. La gestión económica y técnica.
+Para asegurar el correcto funcionamiento del sistema eléctrico dentro del marco que establece esta ley, corresponde al operador del mercado y operador del sistema asumir las funciones necesarias para realizar la gestión económica referida al eficaz desarrollo del mercado de producción de electricidad y la garantía de la gestión técnica del sistema eléctrico, de acuerdo con lo dispuesto en este título.
+Se modifica por el art. 22.4 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Artículo 33
+
+Artículo 33. Operador del mercado.
+1. El operador del mercado asume la gestión del sistema de ofertas de compra y venta de energía eléctrica en el mercado diario de energía eléctrica en los términos que reglamentariamente se establezcan.
+El operador del mercado ejercerá sus funciones respetando los principios de transparencia, objetividad e independencia.
+Actuará como operador del mercado una sociedad mercantil de cuyo accionariado podrá formar parte cualquier persona física o jurídica, siempre que la suma de su participación directa o indirecta en el capital de esta sociedad no supere el 5 por ciento. Asimismo, la suma de participaciones, directas o indirectas, de los sujetos que realicen actividades en el sector eléctrico no deberá superar el 40 por ciento, no pudiendo sindicarse estas acciones a ningún efecto.
+En el caso de que alguna persona física o jurídica pusiera de manifiesto a la sociedad mercantil que actúa como operador del mercado su voluntad de participar en el capital de dicha sociedad, la petición se elevará a la Junta General de Accionistas junto con la certificación del solicitante de realizar o no actividades en el sector eléctrico.
+La Junta General deberá aceptar la solicitud presentada por una cifra máxima de participación equivalente a la media de las participaciones existentes en el tramo que haya de corresponder al peticionario, haciéndose efectiva a través de alguno o algunos de los siguientes procedimientos:
+a) La voluntad de venta por la sociedad o por alguno de sus accionistas de las correspondientes acciones manifestada en la Junta General.
+b) La ampliación de capital de la sociedad mediante la emisión de nuevas acciones siempre que se respete el límite del 40 por ciento que puede ser suscrito por sujetos que realicen actividades en el sector eléctrico.
+Cuando los solicitantes de participación en el capital del operador del mercado realicen actividades en el sector eléctrico, a fin de respetar el porcentaje mencionado, se podrá acordar una ampliación de capital superior a la necesaria, siempre que se manifieste en la Junta General la voluntad de suscripción de esas acciones por cualquiera de los accionistas que no ejerzan actividades eléctricas.
+En todo caso, se excluye el derecho de suscripción preferente de los accionistas sobre las acciones que se emitan para atender las nuevas peticiones de participación.
+2. Serán funciones del operador del mercado las siguientes:
+a) La recepción de las ofertas de venta emitidas para cada período de programación por los distintos sujetos que participan en el mercado diario de energía eléctrica, para cada uno de los periodos de programación.
+b) La recepción de las ofertas de adquisición de energía.
+c) Recibir de los sujetos que participan en los mercados de energía eléctrica la información necesaria, a fin de que su energía contratada sea tomada en consideración para la casación y para la práctica de las liquidaciones que sean competencia del operador del mercado.
+d) La recepción de las garantías que, en su caso, procedan. La gestión de estas garantías podrá realizarla directamente o a través de la terceros autorizados.
+e) Realizar la casación de las ofertas de venta y de adquisición partiendo de la oferta más barata hasta igualar la demanda en cada período de programación.
+f) La comunicación a los titulares de las unidades de producción, así como a los distribuidores, comercializadores, consumidores cualificados, agentes externos y a los operadores del sistema eléctrico en el ámbito del Mercado Ibérico de la Electricidad de los resultados de la casación de las ofertas.
+g) La determinación de los distintos precios de la energía resultantes de las casaciones en el mercado diario de energía eléctrica para cada período de programación y la comunicación a todos los agentes implicados.
+h) La liquidación y comunicación de los pagos y cobros que deberán realizarse en virtud de los precios de la energía resultantes de las casaciones y de aquellos otros costes que reglamentariamente se determinen.
+i) Comunicar al operador del sistema las ofertas de venta y de adquisición de energía eléctrica, realizadas por los distintos sujetos que participan en los mercados de energía eléctrica de su competencia, para cada uno de los periodos de programación.
+j) Informar públicamente sobre la evolución del mercado con la periodicidad que se determine.
+k) Realizar cualesquiera otras funciones que reglamentariamente se le asignen.
+3. El operador del mercado tendrá acceso directo al Registro Administrativo de Instalaciones de Producción de Energía Eléctrica a que se refiere el artículo 21.4, así como al Registro Administrativo de Distribuidores al que se refiere el artículo 45.4, así como a los Registros que para esos mismos fines puedan crearse en las Comunidades Autónomas, y coordinará sus actuaciones con el operador del sistema.
+Se modifica el apartado 3 por el art. 18.1 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica los apartados 1, párrafo segundo y 3 y se suprime el apartado 4 por el art. único.36 y 37 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifican los apartados 1, párrafo primero y 2 por el art. 22.5 y 6 del Real Decreto-ley 5/2005, de 11 de marzo.Ref. BOE-A-2005-4172
+ Se modifica el apartado 1 por el art. 91.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el apartado 2.a) , se reordena la letra j) como k) y se añade un j) por el art. 20.5 a 7 de la Ley 36/2003, de 11 de noviembre. Ref. BOE-A-2003-20695
+ Se modifica el apartado 1 por el art. 106 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+
+### Artículo 34
+
+Artículo 34. Operador del sistema.
+1. El operador del sistema tendrá como función principal garantizar la continuidad y seguridad del suministro eléctrico y la correcta coordinación del sistema de producción y transporte. Ejercerá sus funciones en coordinación con los operadores y sujetos del Mercado Ibérico de la Energía Eléctrica bajo los principios de transparencia, objetividad e independencia. El operador del sistema será el gestor de la red de transporte.
+El operador del sistema al que se refiere el párrafo anterior adoptará la forma de sociedad mercantil y su régimen societario se ajustará a las condiciones siguientes:
+a) Ninguna persona física o jurídica tendrá derecho:
+1.º A ejercer control, de manera directa o indirecta, sobre una empresa que lleve a cabo cualquiera de las funciones de generación o comercialización, y simultáneamente ejercer control, de manera directa o indirecta o ejercer ningún derecho en el operador del sistema, ni
+2.º A ejercer control, de manera directa o indirecta, sobre el operador del sistema y simultáneamente ejercer control, de manera directa o indirecta o ejercer ningún derecho en una empresa que lleve a cabo cualquiera de las funciones de generación o comercialización.
+b) Ninguna persona física o jurídica tendrá derecho a nombrar a los miembros del órgano de administración del operador del sistema si, directa o indirectamente, ejerce control o ejerce derechos en una empresa que realice cualquiera de las actividades de generación o comercialización.
+c) Ninguna persona física o jurídica tendrá derecho a ser miembro del órgano de administración, simultáneamente en una empresa que realice cualquiera de las actividades de generación o comercialización y en el operador del sistema.
+d) Los derechos indicados en los párrafos a) y b) anteriores, incluirán, en particular:
+1.º La facultad de ejercer derechos de voto en relación con los órganos de administración o gobierno de las sociedades;
+2.º La facultad de designar a miembros del órgano de administración o de los órganos que representen legalmente a la empresa, o
+3.º La posesión de participaciones accionariales mayoritarias conforme se establece en el artículo 42.1 del Código de Comercio.
+A los efectos de lo dispuesto en el apartado 1.a) se incluirán también dentro del concepto de «empresa que lleve a cabo cualquiera de las funciones de generación o comercialización» a aquellas que realicen las actividades de producción y comercialización en el sector del gas natural.
+2. Serán funciones del operador del sistema las siguientes:
+a) Prever indicativamente y controlar el nivel de garantía de abastecimiento de electricidad del sistema a corto y medio plazo.
+b) Prever a corto y medio plazo la utilización del equipamiento de producción, en especial, del uso de las reservas hidroeléctricas, de acuerdo con la previsión de la demanda, la disponibilidad del equipamiento eléctrico y las distintas condiciones de hidraulicidad que pudieran presentarse dentro del período de previsión.
+c) Recibir la información necesaria sobre los planes de mantenimiento de las unidades de producción, averías u otras circunstancias que puedan llevar consigo la excepción de la obligación de presentar ofertas, de acuerdo con lo previsto en el artículo 25 de la presente Ley, a fin de confirmarlas con el procedimiento que reglamentariamente se establezca, lo que comunicará al operador del mercado.
+d) Coordinar y modificar, en su caso, los planes de mantenimiento de las instalaciones de transporte, de manera que se asegure su compatibilidad con los planes de mantenimiento de los grupos de generación y se asegure un estado de disponibilidad adecuado de la red que garantice la seguridad del sistema.
+e) Establecer y controlar las medidas de fiabilidad del sistema de producción y transporte, afectando a cualquier elemento del sistema eléctrico que sea necesario, así como los planes de maniobras para la reposición del servicio en caso de fallos generales en el suministro de energía eléctrica y coordinar y controlar su ejecución.
+f) Impartir las instrucciones de operación de la red de transporte, incluidas las interconexiones internacionales, para su maniobra en tiempo real.
+g) Ejecutar, en el ámbito de sus funciones, aquellas decisiones que sean adoptadas por el Gobierno en ejecución de lo previsto en el apartado 2 del artículo 10.
+h) Determinar la capacidad de uso de las interconexiones internacionales y establecer los programas de intercambio de electricidad a corto plazo con los sistemas eléctricos exteriores, en los términos previstos en el artículo 13.4.
+i) Recibir del operador del mercado y de los sujetos que participan en sistemas de contratación bilateral con entrega física la información necesaria, a fin de poder determinar la programación de entrada en la red y para la práctica de las liquidaciones que sean competencia del operador del sistema.
+j) La recepción de las garantías que, en su caso, procedan. La gestión de estas garantías podrá realizarla directamente o a través de terceros autorizados.
+k) Programar el funcionamiento de las instalaciones de producción de energía eléctrica de acuerdo con el resultado de la casación de las ofertas comunicadas por el operador del mercado, con la información recibida de los sujetos que participan en sistemas de contratación bilateral con entrega física, teniendo en consideración las excepciones que al régimen de ofertas se puedan derivar de la aplicación de lo previsto en el artículo 25 y resolviendo las posibles restricciones técnicas del sistema utilizando criterios de mercado.
+l) Impartir las instrucciones necesarias para la correcta explotación del sistema de producción y transporte de acuerdo con los criterios de fiabilidad y seguridad que se establezcan, y gestionar los mercados de servicios de ajuste del sistema que sean necesarios para tal fin.
+m) La liquidación y comunicación de los pagos y cobros relacionados con la garantía de suministro incluyendo entre ellos los servicios de ajuste del sistema y la disponibilidad de unidades de producción en cada periodo de programación.
+n) Igualmente liquidará los pagos y cobros relacionados con los desvíos efectivos de las unidades de producción y de consumo en cada período de programación.
+ñ) Colaborar con todos los operadores y sujetos del Mercado Ibérico de la Electricidad que resulten necesarios para el ejercicio de sus funciones.
+o) Desarrollar aquellas otras actividades relacionadas con las anteriores que sean convenientes para la prestación del servicio, así como cualesquiera otras funciones que le sean atribuidas por las disposiciones vigentes.
+p) Colaborar con el Ministerio de Industria, Turismo y Comercio en la evaluación y seguimiento de los planes de inversión anuales y plurianuales presentados por el titular de las instalaciones de transporte de energía eléctrica a que se refiere el punto 6 del artículo 35.
+q) Garantizar el desarrollo y ampliación de la red de transporte definida en el Título VI, de tal manera que se asegure el mantenimiento y mejora de una red configurada bajo criterios homogéneos y coherentes.
+r) Garantizar que la red de transporte pueda satisfacer a largo plazo la demanda de transporte de electricidad, así como la fiabilidad de la misma.
+s) Gestionar el tránsito de electricidad entre sistemas exteriores que se realicen utilizando las redes del sistema eléctrico español.
+t) Proporcionar al gestor de cualquier otra red con la que esté interconectado información suficiente para garantizar el funcionamiento seguro y eficiente, el desarrollo coordinado y la interoperabilidad de la red interconectada.
+u) Garantizar la no discriminación entre usuarios o categorías de usuarios de la red de transporte.
+v) Proporcionar a los usuarios la información que necesiten para acceder eficientemente a la red.
+w) La liquidación y comunicación de los pagos y cobros relacionados con los sistemas insulares y extrapeninsulares así como la recepción de las garantías que en su caso procedan. El régimen de cobros, pagos y garantías estará sujeto a las mismas condiciones que el mercado de producción peninsular.
+x) Realizar cualesquiera otras funciones que reglamentariamente se le asignen.
+Se modifica el apartado 1 por el art. 1.6 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifican los apartados 1 y 2.ñ) y se añaden las letras p), q), r), s), t), u), v), w) y x) a este último apartado por el art. único.38 a 40 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifican los apartados 1 y 2 por el art. 23 y 22.7 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+ La modificación del apartado 2 entra en vigor el 1 de julio de 2005, según establece la disposición final 4.
+ Se modifica el apartado 1 por el art. 92.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Artículo 34 bis
+
+Artículo 34 bis. Designación y certificación del gestor de la red de transporte.
+1. La sociedad mercantil que actúe como operador del sistema será autorizada y designada como gestor de la red de transporte por el Ministro de Industria, Energía y Turismo. Con carácter previo a esta designación, deberá ser certificada por la Comisión Nacional de Energía en relación con el cumplimiento de los requisitos establecidos en el artículo 34.2 de la presente ley, según el procedimiento establecido en este artículo.
+Una vez sea realizada la primera designación y autorización del gestor de la red de transporte, la Comisión Nacional de Energía controlará que dicha sociedad se mantiene en el cumplimiento de los requisitos establecidos en el artículo 34.2 utilizando para ello el procedimiento de certificación establecido. Estas certificaciones que se realicen en relación con el mantenimiento de los requisitos podrán dar lugar a una nueva designación y autorización del gestor de la red de transporte.
+Las designaciones del gestor de red de transporte se notificarán a la Comisión Europea a efectos de su publicación en el «Diario Oficial de la Unión Europea».
+2. La Comisión Nacional de Energía iniciará el procedimiento de certificación tras la solicitud o notificación por la empresa interesada, tras una solicitud motivada del Ministerio de Industria, Energía y Turismo o de la Comisión Europea, o a iniciativa propia en aquellos casos en los que tenga conocimiento de posibles transacciones que puedan dar o hayan dado lugar al incumplimiento de los requisitos establecidos en relación a la separación de actividades.
+3. La Comisión Nacional de Energía previa audiencia y de forma motivada, adoptará una resolución provisional sobre la certificación en el plazo máximo de cuatro meses desde la presentación de la solicitud o notificación. Transcurrido dicho plazo sin haberse dictado resolución expresa se considerará la certificación provisional concedida.
+4. En todos los casos la Comisión Nacional de Energía deberá comunicar a la Comisión Europea su resolución provisional en relación a la certificación de la empresa interesada acompañada de la documentación pertinente relativa a la misma, con el fin de que esta emita el correspondiente dictamen previo a la adopción de la resolución definitiva. Asimismo remitirá copia del expediente al Ministerio de Industria, Energía y Turismo.
+De no emitir un dictamen la Comisión Europea en el plazo previsto al efecto en la legislación comunitaria, se considerará que no pone objeciones a la resolución provisional de la Comisión Nacional de Energía.
+5. En el plazo de dos meses desde la recepción del dictamen emitido por la Comisión Europea, o agotados los plazos previstos al efecto en la legislación comunitaria, la Comisión Nacional de Energía resolverá con carácter definitivo sobre la certificación, dando cumplimiento a la decisión de la Comisión Europea. Dicha resolución, junto con el dictamen de la Comisión Europea, deberá publicarse en el «Boletín Oficial del Estado» y en el «Diario Oficial de la Unión Europea». La certificación no surtirá efectos hasta su publicación.
+6. La Comisión Nacional de Energía y la Comisión Europea podrán solicitar a los gestores de red de transporte y las empresas que realicen cualquiera de las actividades de generación o comercialización cualquier información útil para el cumplimiento de las funciones indicadas en el presente artículo. Sin perjuicio de lo anterior, mantendrán la confidencialidad de la información sensible a efectos comerciales.
+Se añade por el art. 1.7 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+### Artículo 34 ter
+
+Artículo 34 ter. Certificación en relación con países no pertenecientes a la Unión Europea.
+1. La Comisión Nacional de Energía notificará a la Comisión Europea cualquier circunstancia que dé lugar a que el gestor de la red de transporte quede bajo el control de una o varias personas de uno o más terceros países. A estos efectos, el gestor de red de transporte notificará a la Comisión Nacional de Energía cualquier circunstancia que pueda dar lugar a que se produzca este hecho.
+2. La Comisión Nacional de Energía iniciará el proceso de certificación de acuerdo con el procedimiento y plazos previstos en el artículo 34.bis. Denegará la certificación si no se ha demostrado:
+a) que la entidad en cuestión cumple los requisitos del artículo 34, y
+b) que la concesión de la certificación no pondrá en peligro la seguridad de suministro nacional y de la Unión Europea, teniendo en cuenta los derechos y obligaciones de España y de la Unión Europea con respecto a dicho tercer país, y otros datos y circunstancias específicos del caso y del tercer país de que se trate.
+En la notificación de la propuesta de resolución a la Comisión Europea, la Comisión Nacional de Energía solicitará un dictamen específico sobre si la entidad en cuestión cumple los requisitos de separación de actividades, y si la concesión de la certificación no pondría en peligro la seguridad del suministro en la Unión Europea.
+3. Una vez sustanciado el trámite de dictamen por parte de la Comisión Europea, de acuerdo al procedimiento y plazos establecidos en la norma comunitaria de aplicación, la Comisión Nacional de Energía resolverá sobre la certificación, teniendo en cuenta el dictamen de la Comisión.
+Cuando la decisión final difiera del dictamen de la Comisión Europea, se harán pública la motivación de la misma.
+Se añade por el art. 1.7 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+## TÍTULO VI
+
+Transporte de energía eléctrica
+
+### Artículo 35
+
+Artículo 35. La red de transporte de energía eléctrica.
+1. La red de transporte de energía eléctrica está constituida por la red de transporte primario y la red de transporte secundario.
+La red de transporte primario está constituida por las líneas, parques, transformadores y otros elementos eléctricos con tensiones nominales iguales o superiores a 380 kV y aquellas otras instalaciones de interconexión internacional y, en su caso, las interconexiones con los sistemas eléctricos españoles insulares y extrapeninsulares.
+La red de transporte secundario está constituida por las líneas, parques, transformadores y otros elementos eléctricos con tensiones nominales iguales o superiores a 220 kV no incluidas en el párrafo anterior y por aquellas otras instalaciones de tensiones nominales inferiores a 220 kV, que cumplan funciones de transporte.
+Asimismo, se consideran elementos constitutivos de la red de transporte todos aquellos activos de comunicaciones, protecciones, control, servicios auxiliares, terrenos, edificaciones y demás elementos auxiliares, eléctricos o no, necesarios para el adecuado funcionamiento de las instalaciones específicas de la red de transporte antes definida.
+2. El gestor de la red de transporte será responsable del desarrollo y ampliación de la red de transporte en alta tensión definida en este artículo, de tal manera que garantice el mantenimiento y mejora de una red configurada bajo criterios homogéneos y coherentes. Asimismo, corresponderá al gestor de la red de transporte la gestión del tránsito de electricidad entre sistemas exteriores que se realicen utilizando las redes del sistema eléctrico español.
+En todo caso el gestor de la red de transporte actuará como transportista único desarrollando la actividad en régimen de exclusividad en los términos establecidos en la presente Ley.
+No obstante lo anterior, se habilita al Ministerio de Industria, Turismo y Comercio para autorizar expresa e individualizadamente, previa consulta con la Comisión Nacional de Energía y la Comunidad Autónoma en la que radique la instalación, que determinadas instalaciones de hasta 220 kV de tensión, por sus características y funciones, sean titularidad del distribuidor de la zona que se determine.
+En los casos a los que se refiere el apartado anterior los distribuidores deberán asumir las obligaciones del transportista único relativas a la construcción, operación y mantenimiento de tales instalaciones de transporte.
+3. El titular de la red de transporte cumplirá en todo momento las instrucciones impartidas por el operador del sistema como gestor de la red de transporte.
+El titular de la red de transporte estará obligado a contratar y aplicar a los generadores conectados a sus redes los peajes de acceso que, conforme a lo dispuesto reglamentariamente, les correspondan.
+Asimismo, deberá comunicar al Ministerio de Industria, Turismo y Comercio y a la Administración competente la información que se determine sobre peajes de acceso, así como cualquier información relacionada con la actividad que desarrollen dentro del sector eléctrico.
+4. Se establecerán cuantas normas técnicas sean precisas para garantizar la fiabilidad del suministro de energía eléctrica y de las instalaciones de la red de transporte y las a ella conectadas. Estas normas se atendrán a criterios de general aceptación y serán objetivas y no discriminatorias.
+5. El titular de la red de transporte de energía eléctrica, antes del 15 de octubre de cada año, deberá someter sus planes de inversión anuales y plurianuales a la aprobación de la Secretaría General de Energía del Ministerio de Industria, Turismo y Comercio.
+Si en el plazo de un mes desde la presentación de los planes de inversión no hay pronunciamiento expreso de la Secretaría General de Energía, se considerarán aprobados.
+En el plan de inversión anual figurarán como mínimo los datos de los proyectos, sus principales características técnicas, presupuesto y calendario de ejecución.
+6. Sin perjuicio de los requisitos establecidos en la legislación general de las telecomunicaciones, las redes de transporte se podrán utilizar para desarrollar servicios de telecomunicaciones, siempre que se respete el principio de separación jurídica de actividades.
+Se añaden los últimos párrafos al apartado 3 por el art. 1.7 del Real Decreto-ley 14/2010, de 23 de diciembre. Ref. BOE-A-2010-19757.
+ Se modifica por el art. único.41 a 44 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Téngase en cuenta la disposición transitoria 9.
+
+### Artículo 36
+
+Artículo 36. Autorización de instalaciones de transporte de energía eléctrica.
+1. La construcción, explotación, modificación, transmisión y cierre de las instalaciones de transporte contempladas en el artículo 35.1 requerirá autorización administrativa previa en los términos establecidos en esta Ley y en sus disposiciones de desarrollo.
+La autorización administrativa de cierre de una instalación podrá imponer a su titular la obligación de proceder a su desmantelamiento.
+2. Para la autorización de instalaciones de transporte de energía eléctrica se requerirá acreditar suficientemente los siguientes extremos:
+a) Las condiciones técnicas y de seguridad de las instalaciones y del equipo asociado.
+b) El adecuado cumplimiento de las condiciones de protección del medio ambiente.
+c) Las características del emplazamiento de la instalación.
+d) Su capacidad legal, técnica y económico-financiera para la realización del proyecto.
+3. Las autorizaciones a que se refiere el apartado 1 serán otorgadas por la Administración competente, sin perjuicio de las concesiones y autorizaciones que sean necesarias, de acuerdo con otras disposiciones que resulten aplicables y en especial las relativas a la ordenación del territorio y al medio ambiente.
+La falta de resolución expresa de las solicitudes de autorización a que se refiere el presente artículo tendrá efectos desestimatorios. En todo caso, podrá interponerse recurso ordinario ante la autoridad administrativa correspondiente.
+En el caso de instalaciones de transporte cuya autorización deba ser otorgada por las Comunidades Autónomas, éstas solicitarán informe previo a la Administración General del Estado, en el que ésta consignará las posibles afecciones de la proyectada instalación a los planes de desarrollo de la red, a la gestión técnica del sistema y al régimen económico regulados en esta Ley, que la Administración autorizante deberá tener en cuenta en el otorgamiento de la autorización.
+Se suprime el apartado 4 por el art. 18.2 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifican los apartados 2, 3 y 4 por el art. único.45 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 37
+
+Artículo 37. Contenido de las autorizaciones de instalaciones de transporte.
+1. Las autorizaciones de instalaciones de transporte contendrán todos los requisitos que deban ser observados en su construcción y explotación.
+El titular de las instalaciones de transporte de energía eléctrica tendrá los siguientes derechos y obligaciones:
+a) Realizar sus actividades en la forma autorizada y conforme a las disposiciones aplicables, prestando el servicio de transporte de forma regular y continua con los niveles de calidad que se determinen y manteniendo las instalaciones en las adecuadas condiciones de conservación e idoneidad técnica.
+b) Facilitar el uso de sus instalaciones para los movimientos de energía resultantes de lo dispuesto en la presente Ley, y admitir la utilización de sus redes de transporte por todos los sujetos autorizados, en condiciones no discriminatorias, de acuerdo con las normas técnicas de transporte.
+c) Maniobrar y mantener las instalaciones de su propiedad de acuerdo con las instrucciones y directrices a las que hace referencia el apartado l) del artículo 34.2.
+d) El reconocimiento por parte de la Administración de una retribución por el ejercicio de su actividad dentro del sistema eléctrico en los términos establecidos en el Título III de esta Ley.
+e) Exigir que las instalaciones conectadas a las de su propiedad reúnan las condiciones técnicas establecidas y sean usadas en forma adecuada.
+2. El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación.
+Se modifica el apartado 1 por el art. único.46 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 38
+
+Artículo 38. Acceso a las redes de transporte.
+1. Las instalaciones de transporte podrán ser utilizadas por los sujetos y consumidores cualificados y por aquellos sujetos no nacionales autorizados, de acuerdo con lo dispuesto en el artículo 13. El precio por el uso de redes de transporte vendrá determinado por el peaje aprobado por el Gobierno.
+2. El operador del sistema como gestor de la red de transporte sólo podrá denegar el acceso a la red en caso de que no disponga de la capacidad necesaria.
+La denegación deberá ser motivada, atendiendo a las exigencias que a estos efectos se establezcan reglamentariamente.
+3. En aquellos casos en que se susciten conflictos en relación con la aplicación de contratos de acceso a la red, dichos conflictos se someterán a la resolución de la Comisión Nacional del Sistema Eléctrico, de acuerdo con lo previsto en el artículo 8 de la presente Ley.
+Se modifica el apartado 2 por el art. único.47 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+## TÍTULO VII
+
+Distribución de energía eléctrica
+
+### Artículo 39
+
+Artículo 39. Regulación de la distribución.
+1. La actividad de distribución de energía eléctrica consiste en el transporte de electricidad por las redes de distribución con el fin de suministrarla a los clientes.
+Los distribuidores serán los gestores de las redes de distribución que operen. Como gestores de las redes serán responsables de la explotación, el mantenimiento y, en caso necesario, el desarrollo de su red de distribución, así como, en su caso, de sus interconexiones con otras redes, y de garantizar que su red tenga capacidad para asumir, a largo plazo, una demanda razonable de distribución de electricidad.
+En aquellas Comunidades Autónomas donde exista más de un gestor de la red de distribución, la Comunidad Autónoma, en el ámbito de sus competencias, podrá realizar funciones de coordinación de la actividad que desarrollen los diferentes gestores.
+2. La distribución de energía eléctrica se regirá por lo dispuesto en la presente Ley y será objeto de ordenación atendiendo a la necesaria coordinación de su funcionamiento, a la normativa uniforme que se requiera, a su retribución conjunta y a las competencias autonómicas.
+3. La ordenación de la distribución tendrá por objeto establecer y aplicar principios comunes que garanticen su adecuada relación con las restantes actividades eléctricas, determinar las condiciones de tránsito de la energía eléctrica por dichas redes, establecer la suficiente igualdad entre quienes realizan la actividad en todo el territorio y la fijación de condiciones comunes equiparables para todos los usuarios de la energía.
+Dicha ordenación consistirá en el establecimiento de la normativa básica, en la previsión del funcionamiento y desarrollo coordinado de las redes de distribución en el territorio nacional y en las condiciones de tránsito de la energía eléctrica por las mismas.
+4. Los criterios de regulación de la distribución de energía eléctrica, que se establecerán atendiendo a zonas eléctricas con características comunes y vinculadas con la configuración de la red de transporte y de ésta con las unidades de producción, serán fijados por el Ministerio de Industria y Energía, previo acuerdo con las Comunidades Autónomas afectadas, con el objeto de que exista la adecuada coordinación del desarrollo de las actividades de distribución.
+5. Los distribuidores de energía eléctrica habrán de estar inscritos en el Registro Administrativo de Distribuidores a que se refiere el artículo 45.4 de la presente Ley.
+6. Sin perjuicio de los requisitos establecidos en la legislación general de las telecomunicaciones, los distribuidores podrán utilizar sus redes para desarrollar servicios de telecomunicaciones. En este caso, llevarán en su contabilidad además cuentas separadas que diferencien ingresos y costes imputables estrictamente a estos servicios.
+Se declara que el inciso "previo acuerdo con las Comunidades Autónomas afectadas" del apartado 4 no es inconstitucional, siempre que se interprete en los términos establecidos en el fundamento jurídico 10, por Sentencia del TC 18/2011, de 3 de marzo. Ref. BOE-A-2011-5704
+ Se modifica el apartado 5 por el art. 18.3 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se reenumeran los apartados 1, 2 y 3 como 2, 3 y 4 y se añaden los apartados 1, 5 y 6 por el art. único.48 y 49 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 40
+
+Artículo 40. Autorización de instalaciones de distribución.
+1. Estarán sujetas a autorización administrativa la construcción, modificación, explotación y transmisión y cierre de las instalaciones de distribución de energía eléctrica, con independencia de su destino o uso.
+La autorización administrativa de cierre de una instalación podrá imponer a su titular la obligación de proceder a su desmantelamiento.
+La Administración competente denegará la autorización cuando no se cumplan los requisitos previstos legalmente o la empresa no garantice la capacidad técnica necesaria para acometer la actividad propuesta, o cuando tenga una incidencia negativa en el funcionamiento del sistema.
+2. La autorización, que no concederá derechos exclusivos de uso, se otorgará atendiendo tanto al carácter del sistema de red única y monopolio natural, propio de la distribución eléctrica, como al criterio de menor coste posible, propio de toda actividad con retribución regulada, y evitando el perjuicio a los titulares de redes ya establecidas obligadas a atender los nuevos suministros que se soliciten.
+3. Las autorizaciones a que se refiere el apartado 1 serán otorgadas por la Administración competente, sin perjuicio de las concesiones y autorizaciones que sean necesarias, de acuerdo con otras disposiciones que resulten aplicables y en especial las relativas a la ordenación del territorio y al medio ambiente.
+La falta de resolución expresa de las solicitudes de autorización a que se refiere el presente artículo tendrá efectos desestimatorios. En todo caso, podrá interponerse recurso ordinario ante la autoridad administrativa correspondiente.
+Se modifica el apartado 1 por el art. 18.4 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica el apartado 2 por el art. 21.2 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Artículo 41
+
+Artículo 41. Obligaciones y derechos de las empresas distribuidoras.
+1. Serán obligaciones de las empresas distribuidoras:
+a) Realizar sus actividades en la forma autorizada y conforme a las disposiciones aplicables, prestando el servicio de distribución de forma regular y continua, y con los niveles de calidad que se determinen, manteniendo las redes de distribución eléctrica en las adecuadas condiciones de conservación e idoneidad técnica.
+b) Proceder a la ampliación de las instalaciones de distribución cuando así sea necesario para atender nuevas demandas de suministro eléctrico, sin perjuicio de lo que resulte de la aplicación del régimen que reglamentariamente se establezca para las acometidas eléctricas.
+Todas las instalaciones destinadas a más de un consumidor tendrán la consideración de red de distribución y deberán ser cedidas a la empresa distribuidora de la zona, la cual responderá de la seguridad y calidad del suministro. Dicha infraestructura quedará abierta al uso de terceros.
+Cuando existan varios distribuidores en la zona a los cuales pudieran ser cedidas las instalaciones, la Administración competente determinará a cuál de dichos distribuidores deberán ser cedidas, siguiendo criterios de mínimo coste.
+c) Comunicar al Ministerio de Industria, Turismo y Comercio las autorizaciones de instalación que les concedan otras Administraciones, así como las modificaciones relevantes de su actividad, a efectos del reconocimiento de sus costes en la determinación de la tarifa y la fijación de su régimen de retribución.
+d) Comunicar al Ministerio de Industria, Turismo y Comercio y a la Administración competente la información que se determine sobre peajes de acceso, así como cualquier información relacionada con la actividad que desarrollen dentro del sector eléctrico.
+e) Atender en condiciones de igualdad las solicitudes de acceso y conexión a sus redes y formalizar los contratos de acceso de acuerdo con lo establecido por la Administración.
+Reglamentariamente, previa audiencia a las Comunidades Autónomas, se regularán las condiciones y procedimientos para el establecimiento de acometidas eléctricas y el enganche de nuevos usuarios a las redes de distribución.
+f) Proceder a la medición de los suministros en la forma que reglamentariamente se determine, preservándose, en todo caso, la exactitud de la misma y la accesibilidad a los correspondientes aparatos, facilitando el control de las Administraciones competentes.
+g) Aplicar a los usuarios los peajes de acceso que, conforme a lo dispuesto reglamentariamente, les correspondan.
+h) Desglosar en la facturación al usuario, en la forma que reglamentariamente se determine, al menos los importes correspondientes a la imputación de los costes de diversificación y seguridad de abastecimiento y permanentes del sistema y los tributos que graven el consumo de electricidad, así como los suplementos territoriales cuando correspondan.
+i) Poner en práctica los programas de gestión de la demanda aprobados por la Administración.
+j) Procurar un uso racional de la energía.
+k) Asegurar el nivel de calidad del servicio que, de acuerdo con los criterios de diferenciación por áreas y tipología del consumo a que se refiere el siguiente capítulo, se establezca reglamentariamente.
+l) Aplicar las medidas adecuadas de protección del consumidor de acuerdo con lo establecido reglamentariamente.
+m) Mantener actualizada su base de datos de puntos de suministro, y facilitar a la Oficina de Cambios de Suministrador la información que se determine reglamentariamente.
+n) Preservar el carácter confidencial de la información de la que tenga conocimiento en el desempeño de su actividad, cuando de su divulgación puedan derivarse problemas de índole comercial, sin perjuicio de la obligación de información a las Administraciones públicas.
+ñ) Proporcionar al gestor de la red de transporte información suficiente para garantizar el funcionamiento seguro y e
+o) Los titulares de redes de distribución de energía eléctrica, antes del 15 de octubre de cada año, deberán presentar sus planes de inversión anuales y plurianuales a las Comunidades Autónomas en las que dichas inversiones vayan a realizarse. En los planes de inversión anuales figurarán como mínimo los datos de los proyectos, sus principales características técnicas, presupuesto y calendario de ejecución.
+p) Cumplir los plazos que se establezcan reglamentariamente para las actuaciones que les corresponden en relación con los cambios de suministrador.
+2. Serán derechos de las empresas distribuidoras:
+a) El reconocimiento por parte de la Administración de una retribución por el ejercicio de su actividad dentro del sistema eléctrico en los términos establecidos en el Título III de esta Ley y la percepción de la retribución que les corresponda por el ejercicio de la actividad de distribución.
+b) Contratar, facturar y cobrar los peajes de acceso de los clientes conectados a sus redes.
+c) Exigir garantías a los sujetos que contraten el acceso a sus redes de distribución en los términos que se establezcan reglamentariamente.
+d) Exigir que las instalaciones y aparatos receptores de los usuarios que se conecten a sus redes reúnan las condiciones técnicas y de construcción que se determinen, así como el buen uso de las mismas y el cumplimiento de las condiciones establecidas para que el suministro se produzca sin deterioro o degradación de su calidad para otros usuarios.
+e) Recibir la información de la Oficina de Cambios de Suministrador que se determine reglamentariamente relativa a los cambios de suministrador.
+f) Determinar, en el ejercicio de la función de gestor de su red de distribución, los criterios de la explotación y mantenimiento de las redes garantizando la seguridad, la fiabilidad y la eficacia de las mismas, de acuerdo con la normativa medioambiental que les sea aplicable.
+Se añade la letra p) al apartado 1 por el art. 1.8 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifican los apartados 1 y 2 y se suprime el apartado 3 por el art. único.50 a 53 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifican los apartados 1.c), y 2.b) y se añade el 1.f) por el art. 21.3, 22.8 y 9 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+ La incorporación del apartado 1.f) y la modificación del apartado 2.b) entran en vigor el 1 de julio de 2005, según establece la disposición final 4.
+
+### Artículo 42
+
+Artículo 42. Acceso a las redes de distribución.
+1. Las instalaciones de distribución podrán ser utilizadas por los sujetos regulados en el artículo 9 de la presente Ley. El precio por el uso de redes de distribución vendrá determinado por el peaje de acceso a las redes aprobado por el Gobierno.
+2. Para poder solicitar el acceso a las redes de distribución se habrá de disponer previamente de punto de conexión en las condiciones técnicas establecidas reglamentariamente.
+En aquellos casos en que se susciten discrepancias en relación con las condiciones de conexión a las redes de distribución resolverá el Órgano competente de la Comunidad Autónoma correspondiente.
+3. El gestor de la red de distribución sólo podrá denegar el acceso a la red en caso de que no disponga de la capacidad necesaria.
+La denegación deberá ser motivada. La falta de capacidad necesaria sólo podrá justificarse por criterios de seguridad, regularidad o calidad de los suministros, atendiendo a las exigencias que a estos efectos se establezcan reglamentariamente.
+4. En aquellos casos en que se susciten conflictos en relación con el procedimiento de acceso a la red, dichos conflictos se someterán a la resolución de la Comisión Nacional de Energía, de acuerdo con lo previsto en la Disposición adicional undécima de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos.
+Se modifica por el art. único.54 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 43
+
+Artículo 43. Líneas directas.
+1. Los productores y los consumidores cualificados podrán solicitar autorización administrativa para la construcción de líneas directas de transporte o distribución, quedando su uso excluido del régimen retributivo que para las actividades de transporte y distribución se establece en la presente Ley.
+2. Los solicitantes de autorizaciones para la construcción de líneas directas deberán acreditar su capacidad legal, técnica y económica para acometer la obra propuesta, así como las características del emplazamiento de la instalación y el cumplimiento de las condiciones de protección del medio ambiente.
+3. La construcción de líneas directas queda excluida de la aplicación de las disposiciones que en materia de expropiación y servidumbres se establecen en el Título IX de la presente Ley, sometiéndose al ordenamiento jurídico general.
+4. Las líneas directas sólo podrán ser utilizadas por los sujetos titulares de la autorización administrativa y por sus instalaciones o filiales en las que cuenten con una participación significativa, no pudiéndose conceder acceso a terceros.
+La apertura a terceros del uso de la red exigirá su venta, cesión o aportación a la empresa transportista o la empresa distribuidora de la zona de forma que dicha red quede integrada en el sistema general.
+Se modifica el apartado 4 por el art. único.55 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+## TÍTULO VIII
+
+Suministro de energía eléctrica
+
+## CAPÍTULO I
+
+Suministro a los usuarios y gestión de la demanda eléctrica
+
+### Artículo 44
+
+Artículo 44. Suministro.
+1. El suministro de energía eléctrica se define como la entrega de energía a través de las redes de transporte y distribución mediante contraprestación económica en las condiciones de regularidad y calidad que resulten exigibles.
+2. Los consumidores finales de electricidad tendrán derecho a elegir suministrador pudiendo contratar el suministro:
+a) Con las correspondientes empresas de comercialización. En este caso podrán contratar la energía y el peaje de acceso a través del comercializador.
+Los consumidores de último recurso definidos en el artículo 10.1 tendrán derecho además a contratar el suministro con empresas comercializadoras de último recurso al precio máximo que se determine.
+b) Con otros sujetos del mercado de producción cuya actividad no resulte incompatible. Estos consumidores directos en mercado contratarán la energía con el sujeto y el correspondiente contrato de peaje a las redes directamente con el distribuidor al que estén conectadas sus instalaciones.
+3. Aquellas sociedades mercantiles que quieran actuar como comercializadoras, deberán:
+a) Comunicar a la Administración competente y, en todo caso, al Ministerio de Industria, Turismo y Comercio, que lo comunicará a su vez a la Comisión Nacional de Energía, el inicio de su actividad y el cese de la misma, acompañando la comunicación de una declaración responsable sobre el cumplimiento de los requisitos a que se refiere la letra b). La comunicación deberá especificar el ámbito territorial en el que se vaya a desarrollar la actividad.
+b) Cumplir con los requisitos que se establezcan reglamentariamente, entre los que se incluirá la suficiente capacidad técnica del solicitante. En todo caso, para poder adquirir energía eléctrica con el fin de suministrar a sus clientes, las empresas comercializadoras a que se refiere este apartado deberán presentar al operador del sistema y, en su caso, al operador del mercado y a las empresas distribuidoras, las garantías que reglamentariamente se establezcan.
+c) Acreditar el cumplimiento de estos requisitos en caso de que les sea requerido por la Administración competente, el Ministerio de Industria, Turismo y Comercio o por la Comisión Nacional de Energía.
+Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria deberá ser comunicado por el interesado, en el plazo máximo de un mes a partir del momento en que se produzca.
+4. Serán considerados como consumidores vulnerables los consumidores de electricidad que cumplan con las características sociales, de consumo y poder adquisitivo que se determinen. En todo caso, se circunscribirá a personas físicas en su vivienda habitual.
+Se adoptarán las medidas oportunas para garantizar una protección adecuada a los consumidores vulnerables.
+La definición de los consumidores vulnerables y los requisitos que deben cumplir, así como las medidas a adoptar para este colectivo, se determinarán reglamentariamente por el Gobierno.
+5. Reglamentariamente se establecerán, por las Administraciones competentes, medidas de protección al consumidor que deberán recogerse en las condiciones contractuales para los contratos de suministro de los comercializadores con aquellos consumidores que por sus características de consumo o condiciones de suministro requieran un tratamiento contractual específico.
+Asimismo, reglamentariamente se establecerán los mecanismos de contratación y las condiciones de facturación de los suministros, incluyendo los procedimientos de cambio de suministrador, que se realizará en un plazo de tres semanas, y de resolución de reclamaciones. En estos desarrollos, se considerará el establecimiento, por parte de las Administraciones competentes, de puntos de contacto únicos en coordinación con la Comisión Nacional de Energía, a tenor de lo establecido en la disposición undécima de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, para ofrecer a los consumidores toda la información necesaria relativa a sus derechos, a la legislación en vigor y a los procedimientos de solución de conflictos de que disponen en caso de litigio.
+Igualmente, en caso de que un comercializador no cumpla algunas de las obligaciones establecidas en los párrafos a), b) y h) del artículo 45.1 de la presente Ley, o no cumpla en los plazos que se establezcan otras obligaciones de pago frente al sistema eléctrico, el Ministerio de Industria, Energía y Turismo determinará, previo trámite de audiencia y de forma motivada, objetiva y transparente, el traspaso de los clientes de dicho comercializador a un comercializador de último recurso. Asimismo, determinará el comercializador de último recurso al que los clientes se traspasan y las condiciones de suministro de dichos clientes.
+Lo anterior, se entenderá sin perjuicio de las sanciones que puedan derivarse de acuerdo con lo establecido en el Título VI de la presente Ley.
+6. Sin perjuicio de las competencias que correspondan a las Comunidades Autónomas y sin perjuicio del establecimiento por los prestadores de sistemas propios de tramitación de reclamaciones que se ajusten a lo dispuesto en la Recomendación 98/257/CE, de la Comisión, de 30 de marzo de 1998, relativa a los principios aplicables a los órganos responsables de la solución extrajudicial de los litigios en materia de consumo, se preverá reglamentariamente la posibilidad de acudir al sistema arbitral de consumo para la resolución de tales reclamaciones.
+7. Aquellos consumidores directos en mercado que pretendan adquirir energía eléctrica en el mercado de producción para su propio consumo deberán comunicar el inicio y el cese de la actividad al Ministerio de Industria, Turismo y Comercio quien, a su vez, lo comunicará a la Comisión Nacional de la Energía.
+Se modifica el apartado 4, se renumeran los apartados 5 y 6 como 6 y 7 y se añade el 5 por el art. 1.9 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. 18.5 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Téngase en cuenta la disposición adicional 2.1
+ Se modifica por el art. único.56 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 45
+
+Artículo 45. Obligaciones y derechos de las empresas comercializadoras en relación al suministro.
+1. Serán obligaciones de las empresas comercializadoras en relación al suministro de energía eléctrica:
+a) Adquirir la energía necesaria para el desarrollo de sus actividades, realizando el pago de sus adquisiciones.
+b) Contratar y abonar el peaje de acceso correspondiente a la empresa distribuidora.
+c) Desglosar en las facturaciones a sus clientes al menos los importes correspondientes a la imputación de los peajes, los costes de diversificación y seguridad de abastecimiento y permanentes del sistema y los tributos que graven el consumo de electricidad, así como los suplementos territoriales cuando correspondan.
+d) Poner en práctica los programas de gestión de la demanda aprobados por la Administración.
+e) Procurar un uso racional de la energía.
+f) Tomar las medidas adecuadas de protección del consumidor de acuerdo con lo establecido reglamentariamente.
+g) Suministrar a la Oficina de Cambios de Suministrador la información que reglamentariamente se determine.
+h) Prestar, en su caso, las garantías que reglamentariamente correspondan por el peaje de acceso de sus clientes.
+i) Preservar el carácter confidencial de la información de la que tenga conocimiento en el desempeño de su actividad, cuando de su divulgación puedan derivarse problemas de índole comercial, sin perjuicio de la obligación de información a las Administraciones públicas.
+j) Tener a disposición del Ministerio de Industria, Energía y Turismo, la Comisión Nacional de Energía, la Comisión Nacional de la Competencia y la Comisión Europea a efectos del cumplimiento de sus cometidos respectivos, durante al menos cinco años, los datos sobre todas las transacciones de los contratos de suministro de electricidad y los derivados relacionados con la electricidad suscritos con los clientes mayoristas y los gestores de redes de transporte, de acuerdo a lo que reglamentariamente se determine.
+Lo dispuesto en el presente párrafo no creará obligaciones adicionales con respecto a los organismos mencionados en el párrafo anterior para las entidades que entren en el ámbito de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+En caso de que los organismos mencionados en el primer párrafo de este subapartado necesiten acceder a datos conservados por entidades que entren en el ámbito de aplicación de la Ley 24/1988, de 28 de julio, del Mercado de Valores, la Comisión Nacional del Mercado de Valores les facilitará los datos necesarios.
+k) Informar a sus clientes acerca del origen de la energía suministrada, así como de los impactos ambientales de las distintas fuentes de energía y de la proporción utilizada entre ellas.
+l) Informar a sus clientes sobre sus derechos respecto de las vías de solución de conflictos de que disponen en caso de litigio.
+Para el suministro a consumidores finales deberán disponer de un servicio de atención a sus quejas, reclamaciones, solicitudes de información o comunicaciones de cualquier incidencia en relación al servicio contratado u ofertado, poniendo a su disposición una dirección postal, un servicio de atención telefónica y un número de teléfono, ambos gratuitos, y un número de fax o una dirección de correo electrónico al que los mismos puedan dirigirse directamente. Los prestadores comunicarán su dirección legal si ésta no coincide con su dirección habitual para la correspondencia.
+m) Cumplir los plazos que se establezcan reglamentariamente para las actuaciones que les corresponden en relación con los cambios de suministrador.
+2. Las empresas comercializadoras tendrán derecho a:
+a) Exigir que los equipos de medida de los usuarios reúnan las condiciones técnicas y de construcción que se determinen, así como el buen uso de los mismos.
+b) Facturar y cobrar el suministro realizado.
+c) Contratar la adquisición o venta de energía eléctrica en los términos previstos en la ley y sus disposiciones de desarrollo.
+d) Obtener la información relativa a cambios de suministrador de la Oficina de Cambios de Suministrador y los datos de los consumidores que reglamentariamente se determine.
+e) Solicitar la verificación del buen funcionamiento de los equipos de medición de suministros y en su caso, reclamar las cuantías que procedan.
+f) Acceder a las redes de transporte y distribución en la forma que reglamentariamente se determine.
+3. Los consumidores directos en mercado tendrán las obligaciones y los derechos regulados en los apartados 1 y 2 anteriores para los comercializadores, que les sean de aplicación en relación con el suministro.
+4. Se crea, en el Ministerio de Industria, Turismo y Comercio, el Registro Administrativo de Distribuidores. Reglamentariamente, previo informe de las Comunidades Autónomas, se establecerá su organización, así como los procedimientos de inscripción y comunicación de datos a este Registro.
+Las Comunidades Autónomas con competencias en la materia podrán crear y gestionar los correspondientes registros territoriales en los que deberán estar inscritas todas las instalaciones ubicadas en el ámbito territorial de aquéllas.
+5. La Comisión Nacional de Energía publicará en su página web un listado que contendrá los comercializadores que, de acuerdo al artículo 44.3 de la presente Ley, hayan comunicado a la Administración competente y, en todo caso, al Ministerio de Industria, Turismo y Comercio el inicio de su actividad y que no hayan comunicado el cese de la misma.
+Se reordena la letra j) como k) y se añaden las letras j), l) y m) en el apartado 1 por el art. 1.10 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica el apartados 4 y se añade el apartado 5 por el art. 18.6 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Téngase en cuenta la disposición adicional 2.2.
+ Se modifica por el art. único.56 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se añade la letra c) al apartado 3 por el art. 22.10 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Artículo 46
+
+Artículo 46. Gestión de la demanda.
+1. Las empresas eléctricas, los consumidores y el operador del sistema, en coordinación con otros agentes, podrán realizar y aplicar medidas que fomenten una mejora de la gestión de la demanda eléctrica y que contribuyan a la optimización de la curva de carga y/o a la eficiencia y ahorro energéticos.
+2. Sin perjuicio de lo anterior, la Administración podrá adoptar medidas que incentiven la mejora del servicio a los usuarios y la eficiencia y el ahorro energéticos, directamente o a través de agentes económicos cuyo objeto sea el ahorro y la introducción de la mayor eficiencia en el uso final de la electricidad.
+El cumplimiento de los objetivos previstos en dichas medidas podrá dar lugar al reconocimiento de los costes en que se incurra para su puesta en práctica, que tendrán la consideración de costes de diversificación y seguridad de abastecimiento. A los efectos de dicho reconocimiento las medidas deberán ser aprobadas por el Ministerio de Industria, Energía y Turismo, previo informe de las Comunidades Autónomas en su ámbito territorial.
+Entre estas medidas se incluirán los contratos de prestación del servicio de interrumpibilidad gestionados por el operador del sistema.
+Se modifica por el art. 1.11 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica el primer párrafo del apartado 1 por el art. único.57 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 47
+
+Artículo 47. Planes de ahorro y eficiencia energética.
+1. La Administración General del Estado y las Comunidades Autónomas, en el ámbito de sus respectivas competencias territoriales, podrán, mediante planes de ahorro y eficiencia energética, establecer las normas y principios básicos para potenciar las acciones encaminadas a la consecución de los siguientes fines:
+a) Optimizar los rendimientos de los procesos de transformación de la energía, inherentes a sistemas productivos o de consumo.
+b) Analizar y controlar el desarrollo de proyectos de creación de plantas industriales de gran consumo de energía, según criterios de rentabilidad energética a nivel nacional.
+c) Mejorar el rendimiento o sustituir el tipo de combustible en empresas o sectores de alto consumo energético, a tenor de los intereses a nivel nacional.
+Cuando dichos planes de ahorro y eficiencia energética establezcan acciones incentivadas con fondos públicos, las citadas Administraciones podrán exigir a las personas físicas o jurídicas participantes la presentación de una auditoría energética de los resultados obtenidos.
+
+### Artículo 47 bis
+
+Artículo 47 bis. Oficina de Cambios de Suministrador.
+1. La Oficina de Cambios de Suministrador será responsable de la supervisión de los cambios de suministrador conforme a los principios de transparencia, objetividad e independencia, en los términos que reglamentariamente se establezcan.
+El Gobierno podrá encomendar a la Oficina de Cambios de Suministrador funciones de gestión directa de los cambios de suministrador en las condiciones que reglamentariamente se determinen.
+2. La Oficina de Cambios de Suministrador será una sociedad mercantil con objeto social exclusivo, realizando sus funciones simultáneamente en los sectores del gas natural y de la electricidad.
+En su capital deberán participar los distribuidores y comercializadores de gas natural y de electricidad con los siguientes porcentajes de participación:
+Distribuidores de energía eléctrica: 15%
+Distribuidores de gas natural: 15%
+Comercializadores de energía eléctrica: 35%
+Comercializadores de gas natural: 35%
+Dentro de la cuota de cada grupo de sujetos, la participación correspondiente a cada empresa se realizará en función de la energía circulada a través de sus instalaciones, en el caso de los distribuidores, y de la energía vendida en el caso de los comercializadores, no pudiendo resultar una participación superior al 20% por grupo de sociedades y adecuándose la participación de las empresas al menos cada dos años.
+En el caso de que según la energía circulada y vendida de un grupo de sociedades la participación superase una cuota del 20%, el exceso se repartirá entre los restantes sujetos proporcionalmente a las cuotas previas.
+El Gobierno asegurará el derecho a una representación mínima a nuevos entrantes.
+3. La Oficina de Cambios de Suministrador se financiará sobre la base de las cuotas de sus socios.
+4. Para el ejercicio de su actividad la Oficina de Cambios de Suministrador tendrá acceso a las Bases de Datos de Consumidores y Puntos de Suministro de gas y de electricidad.
+Reglamentariamente se establecerá la información que los diferentes sujetos deben suministrar a la Oficina de Cambios de Suministrador. En cualquier caso, deberá constar la información relativa a los impagos en que los consumidores hayan incurrido y que, por tanto, tengan pendientes en el momento de solicitar un cambio de suministrador.
+5. La Oficina de Cambios de Suministrador remitirá con carácter anual una memoria de actividades al Ministerio de Industria, Turismo y Comercio y a la Comisión Nacional de Energía.
+Téngase en cuenta que, a partir de 30 de junio de 2014, las funciones que tiene atribuidas conforme a este artículo la Oficina de cambios de suministrador serán desempeñadas por la Comisión Nacional de los Mercados y la Competencia, según establece la disposición transitoria 3 de la Ley 24/2013, de 26 de diciembre. Ref. BOE-A-2013-13645.
+Téngase en cuenta que, a partir de 30 de junio de 2014, las funciones que tiene atribuidas conforme a este artículo la Oficina de cambios de suministrador serán desempeñadas por la Comisión Nacional de los Mercados y la Competencia, según establece la disposición transitoria 3 de la Ley 24/2013, de 26 de diciembre. Ref. BOE-A-2013-13645.
+ Se añade por el art. único.58 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+## CAPÍTULO II
+
+Calidad del suministro eléctrico
+
+### Artículo 48
+
+Artículo 48. Calidad del suministro eléctrico.
+1. El suministro de energía eléctrica deberá ser realizado por las empresas con las características y continuidad que reglamentariamente se determinen para el territorio español, teniendo en cuenta la diferenciación por zonas a la que se refiere el número siguiente.
+Para ello, las empresas de energía eléctrica contarán con la capacidad técnica necesaria para garantizar la calidad del servicio exigida por las reglamentaciones vigentes.
+Las empresas eléctricas y, en particular, las distribuidoras promoverán la incorporación de tecnologías avanzadas en la medición y para el control de la calidad del suministro eléctrico.
+2. La Administración General del Estado establecerá las líneas de actuación en materia de calidad del servicio, tendentes a la consecución de los objetivos de calidad, tanto en consumo final como en las zonas que, por sus características demográficas y tipología del consumo, puedan considerarse idóneas para la determinación de objetivos diferenciados.
+Para la implantación de dichas líneas de actuación se instrumentarán programas de actuación en colaboración con las Comunidades Autónomas que, sin perjuicio de otras medidas, podrán ser tomados en consideración para el reconocimiento de costes a efectos retributivos, previo informe de la Administración competente para autorizar las instalaciones de distribución correspondientes, en el que se constate que dichas inversiones responden a la consecución de los objetivos de calidad previstos.
+La Administración General del Estado determinará unos índices objetivos de calidad del servicio, así como unos valores entre los que estos índices puedan oscilar, a cumplir tanto a nivel de usuario individual, como para cada zona geográfica atendida por un único distribuidor. Estos índices deberán tomar en consideración la continuidad del suministro, relativo al número y duración de las interrupciones y la calidad del producto relativa a las características de la tensión. Las empresas eléctricas estarán obligadas a facilitar a la Administración la información, convenientemente auditada, necesaria para la determinación objetiva de la calidad del servicio. Los datos de los índices antes citados serán hechos públicos con una periodicidad anual.
+Las empresas eléctricas podrán declarar la existencia de zonas en que tengan dificultad temporal para el mantenimiento de la calidad exigible, presentando a la vez un Plan de mejora de la calidad del suministro que habrá de ser aprobado por la Administración competente.
+3. Si la baja calidad de la distribución de una zona es continua, o pudiera producir consecuencias graves para los usuarios, o concurrieran circunstancias especiales que puedan poner en peligro la seguridad en el servicio eléctrico, la Administración competente podrá establecer las directrices de actuación que deberán ser llevadas a cabo por las empresas distribuidoras para restablecer la calidad del servicio.
+4. Reglamentariamente se establecerá el procedimiento para determinar las reducciones que hayan de aplicarse en la facturación a abonar por los usuarios si se constatara que la calidad del servicio individual prestado por la empresa es inferior a la reglamentariamente exigible.
+Se modifica el apartado 1 por el art. 18.7 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica el tercer párrafo del apartado 1 por el art. único.59 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 49
+
+Artículo 49. Potestad inspectora.
+1. Los órganos de la Administración competente dispondrán, de oficio o a instancia de parte, la práctica de cuantas inspecciones y verificaciones se precisen para comprobar la regularidad y continuidad en la prestación de las actividades necesarias para el suministro, así como para garantizar la seguridad de las personas y de las cosas.
+2. Las inspecciones a que alude el párrafo anterior cuidarán, en todo momento, de que se mantengan las características de la energía suministrada dentro de los límites autorizados oficialmente.
+
+### Artículo 50
+
+Artículo 50. Suspensión del suministro.
+1. El suministro de energía eléctrica a los consumidores podrá suspenderse cuando conste dicha posibilidad en el contrato de suministro o de acceso que nunca podrá invocar problemas de orden técnico o económico que lo dificulten, o por causa de fuerza mayor o situaciones de las que se pueda derivar amenaza cierta para la seguridad de las personas o las cosas, salvo lo dispuesto en los apartados siguientes.
+2. También podrá suspenderse temporalmente cuando ello sea imprescindible para el mantenimiento, seguridad del suministro, reparación de instalaciones o mejora del servicio. En todos estos supuestos, la suspensión requerirá autorización administrativa previa y comunicación a los usuarios en la forma que reglamentariamente se determine. Quedarán exceptuadas de esta autorización aquellas actuaciones del operador del sistema tendentes a garantizar la seguridad del suministro. Este tipo de actuaciones deberán ser justificadas con posterioridad en la forma que reglamentariamente se determine.
+3. En las condiciones que reglamentariamente se determinen podrá ser suspendido el suministro de energía eléctrica a los consumidores privados acogidos a tarifa de último recurso cuando hayan transcurrido al menos dos meses desde que les hubiera sido requerido fehacientemente el pago, sin que el mismo se hubiera hecho efectivo. A estos efectos, el requerimiento se practicará por cualquier medio que permita tener constancia de la recepción por el interesado o su representante, así como de la fecha, la identidad y el contenido del mismo.
+En el caso de las Administraciones públicas acogidas a tarifa de último recurso, transcurridos dos meses desde que les hubiera sido requerido fehacientemente el pago sin que el mismo se hubiera efectuado, comenzarán a devengarse intereses que serán equivalentes al interés legal del dinero incrementado en 1,5 puntos. Si transcurridos cuatro meses desde el primer requerimiento, el pago no se hubiera hecho efectivo, podrá interrumpirse el suministro.
+En ningún caso podrá suspenderse el suministro de energía eléctrica a aquellas instalaciones cuyos servicios hayan sido declarados como esenciales. Reglamentariamente se establecerán los criterios para determinar qué servicios deben ser entendidos como esenciales. No obstante, las empresas distribuidoras o comercializadoras podrán afectar los pagos que perciban de aquellos de sus clientes que tengan suministros vinculados a servicios declarados como esenciales en situación de morosidad, al abono de las facturas correspondientes a dichos servicios, con independencia de la asignación que el cliente, público o privado, hubiera atribuido a estos pagos.
+4. Una vez realizado el pago de lo adeudado por el consumidor al que se le ha suspendido el suministro, le será repuesto éste de inmediato.
+5. Las empresas distribuidoras podrán proceder a la desconexión de determinadas instalaciones de forma inmediata en los casos que se determinen reglamentariamente.
+Se modifican los apartados 1, 2 y 3 y se añade el apartado 5 por el art. único.60 y 61 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 51
+
+Artículo 51. Normas técnicas y de seguridad de las instalaciones eléctricas.
+1. Las instalaciones de producción, transporte y distribución de energía eléctrica, las destinadas a su recepción por los usuarios, los equipos de consumo, así como los elementos técnicos y materiales para las instalaciones eléctricas deberán ajustarse a las correspondientes normas técnicas de seguridad y calidad industriales, de conformidad a lo previsto en la Ley 21/1992, de 16 de julio, de Industria, sin perjuicio de lo previsto en la normativa autonómica correspondiente.
+2. Las reglamentaciones técnicas a que alude el párrafo anterior tendrán por objeto:
+a) Proteger las personas y la integridad y funcionalidad de los bienes que puedan resultar afectados por las instalaciones.
+b) Conseguir la necesaria regularidad en los suministros de energía eléctrica.
+c) Establecer reglas de normalización para facilitar la inspección de las instalaciones, impedir una excesiva diversificación del material eléctrico y unificar las condiciones del suministro.
+d) Obtener la mayor racionalidad y aprovechamientos técnico y económico de las instalaciones.
+e) Incrementar la fiabilidad de las instalaciones y la mejora de la calidad de los suministros de energía.
+f) Proteger el medio ambiente y los derechos e intereses de los consumidores y usuarios.
+g) Conseguir los niveles adecuados de eficiencia en el uso de la electricidad.
+3. Sin perjuicio de las restantes autorizaciones reguladas en la presente Ley y a los efectos previstos en el presente artículo, la construcción, ampliación o modificación de instalaciones eléctricas requerirá, con carácter previo a su puesta en marcha, la correspondiente autorización administrativa en los términos que reglamentariamente se disponga.
+
+## TÍTULO IX
+
+Expropiación y servidumbres
+
+### Artículo 52
+
+Artículo 52. Utilidad pública.
+1. Se declaran de utilidad pública las instalaciones eléctricas de generación, transporte y distribución de energía eléctrica, a los efectos de expropiación forzosa de los bienes y derechos necesarios para su establecimiento y de la imposición y ejercicio de la servidumbre de paso.
+2. Dicha declaración de utilidad pública se extiende a los efectos de la expropiación forzosa de instalaciones eléctricas y de sus emplazamientos cuando por razones de eficiencia energética, tecnológicas o medioambientales sea oportuna su sustitución por nuevas instalaciones o la realización de modificaciones sustanciales en las mismas.
+
+### Artículo 53
+
+Artículo 53. Solicitud de la declaración de utilidad pública.
+1. Para el reconocimiento en concreto de la utilidad pública de las instalaciones aludidas en el artículo anterior, será necesario que la empresa interesada lo solicite, incluyendo una relación concreta e individualizada de los bienes o derechos que el solicitante considere de necesaria expropiación.
+2. La petición se someterá a información pública y se recabará informe de los organismos afectados.
+3. Concluida la tramitación, el reconocimiento de la utilidad pública será acordado por el Ministerio de Industria y Energía, si la autorización de la instalación corresponde al Estado, sin perjuicio de la competencia del Consejo de Ministros en caso de oposición de organismos u otras entidades de derecho público, o por el organismo competente de las Comunidades Autónomas en los demás casos.
+
+### Artículo 54
+
+Artículo 54. Efectos de la declaración de utilidad pública.
+1. La declaración de utilidad pública llevará implícita en todo caso la necesidad de ocupación de los bienes o de adquisición de los derechos afectados e implicará la urgente ocupación a los efectos del artículo 52 de la Ley de Expropiación Forzosa.
+2. Igualmente, llevará implícita la autorización para el establecimiento o paso de la instalación eléctrica sobre terrenos de dominio, uso o servicio público o patrimoniales del Estado, o de las Comunidades Autónomas, o de uso público, propios o comunales de la provincia o municipio, obras y servicios de los mismos y zonas de servidumbre pública.
+
+### Artículo 55
+
+Artículo 55. Derecho supletorio.
+En lo relativo a la materia regulada en los artículos precedentes será de aplicación supletoria lo dispuesto en la legislación general sobre expropiación forzosa y en el Código Civil cuando proceda.
+
+### Artículo 56
+
+Artículo 56. Servidumbre de paso.
+1. La servidumbre de paso de energía eléctrica tendrá la consideración de servidumbre legal, gravará los bienes ajenos en la forma y con el alcance que se determinan en la presente Ley y se regirá por lo dispuesto en la misma, en sus disposiciones de desarrollo y en la legislación mencionada en el artículo anterior.
+2. La servidumbre de paso aéreo comprende, además del vuelo sobre el predio sirviente, el establecimiento de postes, torres o apoyos fijos para la sustentación de cables conductores de energía.
+3. La servidumbre de paso subterráneo comprende la ocupación del subsuelo por los cables conductores, a la profundidad y con las demás características que señale la legislación urbanística aplicable.
+4. Una y otra forma de servidumbre comprenderán igualmente el derecho de paso o acceso y la ocupación temporal de terrenos u otros bienes necesarios para construcción, vigilancia, conservación y reparación de las correspondientes instalaciones.
+
+### Artículo 57
+
+Artículo 57. Limitaciones a la constitución de servidumbre de paso.
+No podrá imponerse servidumbre de paso para las líneas de alta tensión:
+a) Sobre edificios, sus patios, corrales, centros escolares, campos deportivos y jardines y huertos, también cerrados, anejos a viviendas que ya existan al tiempo de decretarse la servidumbre, siempre que la extensión de los huertos y jardines sea inferior a media hectárea.
+b) Sobre cualquier género de propiedades particulares, si la línea puede técnicamente instalarse, sin variación de trazado superior a la que reglamentariamente se determine, sobre terrenos de dominio, uso o servicio público o patrimoniales del Estado, Comunidades Autónomas, de las provincias o los municipios, o siguiendo linderos de fincas de propiedad privada.
+
+### Artículo 58
+
+Artículo 58. Relaciones civiles.
+1. La servidumbre de paso de energía eléctrica no impide al dueño del predio sirviente cercarlo o edificar sobre él dejando a salvo dicha servidumbre, siempre que sea autorizado por la Administración competente, que tomará en especial consideración la normativa vigente en materia de seguridad.
+Podrá asimismo el dueño solicitar el cambio de trazado de la línea, si no existen dificultades técnicas, corriendo a su costa los gastos de la variación.
+2. La variación del tendido de una línea como consecuencia de proyectos o planes aprobados por la Administración comportará el pago del coste de dicha variación.
+
+## TÍTULO X
+
+Infracciones y sanciones
+
+### Artículo 59
+
+Artículo 59. Principios generales.
+1. Son infracciones administrativas las acciones y omisiones que se tipifican en los artículos siguientes.
+2. Las infracciones administrativas establecidas en la presente Ley se entenderán sin perjuicio de las responsabilidades civiles y penales o de otro orden en que puedan incurrir las empresas titulares de actividades eléctricas o sus usuarios.
+
+### Artículo 60
+
+Artículo 60. Infracciones muy graves.
+a) Son infracciones muy graves:
+1. La realización de actividades incompatibles de acuerdo con lo dispuesto en la presente Ley y el incumplimiento por los sujetos obligados a ello de los criterios de separación establecidos en el artículo 14.2 y su normativa de desarrollo.
+2. El incumplimiento de las obligaciones de contabilidad exigibles de acuerdo con la presente Ley. Se entenderá comprendido en dicha infracción el incumplimiento, por parte de los sujetos obligados a ello, de la obligación de llevar cuentas separadas conforme a lo dispuesto en el artículo 20 de la presente Ley y en sus normas de desarrollo.
+3. La aplicación irregular de precios, tarifas o peajes de los regulados en la presente Ley o en las disposiciones de desarrollo de la misma, de manera que se produzca una alteración en el precio superior al 15% y siempre que la misma suponga una alteración superior a 300.000 euros.
+4. La aplicación de peajes, precios o de tarifas no autorizadas por la Administración.
+5. El incumplimiento de las obligaciones resultantes del sistema de precios, tarifas, tarifas de último recurso y peajes, o de los criterios de recaudación cuando suponga un perjuicio grave para el sistema eléctrico. En todo caso se entenderá como incumplimiento de las obligaciones del sistema tarifario la falta o retraso en el pago de las cantidades a que den lugar las liquidaciones de las actividades reguladas o en el ingreso de las cuotas con destinos específicos, la declaración indebida de ingresos y costes y las declaraciones efectuadas fuera del plazo establecido, todo ello cuando suponga un perjuicio grave para el sistema eléctrico.
+6. La toma de participaciones en sociedades en los términos previstos en la función decimocuarta de la disposición adicional undécima, tercero.1 de la Ley 34/1998, de 7 de octubre, sin la previa autorización de la Comisión Nacional de Energía, o con incumplimiento de las condiciones establecidas en la resolución autorizatoria de la Comisión Nacional de Energía, así como el incumplimiento de las restricciones impuestas en el número 1 del artículo 34 del Real Decreto Ley 6/2000, de 23 de junio y el incumplimiento de las limitaciones que se establezcan en cuanto a la participación en el accionariado de Red Eléctrica de España, S. A., del Operador del Mercado Ibérico de la Energía-Polo Español u Oficina de Cambios de Suministrador. En estos casos responderán las personas físicas o jurídicas que adquieran participaciones, designen miembros en los órganos de administración o quienes asuman el exceso de participación en el capital o en los derechos de voto.
+7. La denegación o alteración injustificadas del acceso de terceros a instalaciones de red en los supuestos que la presente Ley y sus normas de desarrollo regulan.
+8. El incumplimiento de resoluciones jurídicamente vinculantes o requerimientos impartidos por la Administración competente, incluida la Comisión Nacional de Energía, o por el operador del sistema en el ámbito de sus funciones, cuando resulte perjuicio relevante para el funcionamiento del sistema.
+9. El incumplimiento reiterado de las obligaciones de información establecidas en el párrafo primero apartado 5 del artículo 61.
+10. La negativa a admitir inspecciones o verificaciones reglamentarias o acordadas en cada caso por la Administración competente, incluida la Comisión Nacional de Energía, o la obstrucción a su práctica.
+11. El incumplimiento reiterado de los índices objetivos de calidad del servicio y la no elaboración de los planes de mejora de la calidad del servicio que se establecen en el artículo 48.2 de la presente Ley.
+12. La interrupción o suspensión del suministro sin que medien los requisitos legal o reglamentariamente establecidos o fuera de los supuestos previstos legal o reglamentariamente.
+13. Las acciones u omisiones que supongan incumplimiento de las medidas establecidas por el Gobierno en aplicación de lo previsto en el artículo 10 de la presente Ley por quienes realizan actividades establecidas en la misma.
+14. La negativa a suministrar energía eléctrica a nuevos usuarios, sin que existan razones que lo justifiquen.
+15. Cualquier manipulación fraudulenta tendente a alterar el precio de la energía eléctrica o la medición de las cantidades suministradas.
+16. El incumplimiento, por parte del titular de las instalaciones, de su obligación de mantener las instalaciones en adecuadas condiciones de conservación e idoneidad técnica, siguiendo, en su caso, las instrucciones impartidas por la Administración competente y por el operador del sistema y gestor de la red de transporte o por los gestores de las redes de distribución, según corresponda, y los procedimientos de operación del sistema, cuando dicho incumplimiento ponga en riesgo la garantía de suministro o en peligro manifiesto a las personas, los bienes o al medio ambiente.
+17. El incumplimiento continuado, por parte de los obligados a ello de conformidad con la normativa vigente, de su obligación de gestionar las verificaciones de los equipos de medida.
+18. El incumplimiento por parte de las empresas distribuidoras o transportistas de su obligación de realizar las acometidas y la conexión de nuevos suministros o ampliación de los existentes que se les planteen en las zonas en que operan, cuando así resulte exigible de conformidad con la normativa de aplicación.
+19. La realización de actividades incluidas en el ámbito de aplicación de la presente Ley o la construcción, ampliación, explotación, modificación, transmisión o cierre de instalaciones afectas a las mismas sin la necesaria concesión, autorización administrativa, declaración responsable, comunicación o inscripción en el Registro correspondiente cuando proceda o el incumplimiento del contenido, prescripciones y condiciones de las mismas cuando se ponga en riesgo la garantía de suministro o peligro manifiesto a las personas, los bienes o el medio ambiente.
+20. La reducción, sin autorización, de la capacidad de producción o de suministro de energía eléctrica.
+21. La no presentación de ofertas de compra o venta, no meramente ocasional o aislada, por los sujetos obligados a ello en el mercado de producción.
+22. El incumplimiento por parte del Operador del Sistema de las obligaciones que le corresponden según el art. 34.2 de la presente Ley, a menos que expresamente se hubieran tipificado como graves.
+23. El incumplimiento por parte de los gestores de la red de distribución de las obligaciones reglamentariamente establecidas en el ejercicio de su función, a menos que expresamente se hubiera tipificado como grave.
+24. El incumplimiento por parte de los distribuidores o de los comercializadores de su obligación de poner en práctica los programas de gestión de la demanda aprobados por la Administración.
+25. El incumplimiento por parte de los operadores dominantes de las restricciones impuestas en la normativa vigente.
+26. El incumplimiento por parte de los agentes que actúen como representantes de la prohibición de actuar simultáneamente por cuenta propia y por cuenta ajena.
+27. La utilización de instrumentos, aparatos o elementos que pongan en riesgo la seguridad sin cumplir las normas y las obligaciones técnicas que deban reunir los aparatos e instalaciones afectos a las actividades objeto de la presente Ley cuando comporten peligro o daño grave para personas, bienes o para el medio ambiente.
+28. Cualquier otra actuación en el suministro o consumo de energía eléctrica que suponga una alteración porcentual de la realidad de lo suministrado o consumido superior al 15 por 100 y siempre que la misma suponga una alteración superior a 300.000 euros.
+b) Igualmente, serán infracciones muy graves las infracciones graves del artículo siguiente cuando durante los tres años anteriores a su comisión hubiera sido impuesta al infractor sanción firme por el mismo tipo de infracción.
+Se modifican los apartados 4 y 8 de la letra a) por el art. 1.12 y 13 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica el apartado a).19 por el art. 18.8 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifica por el art. único.62 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 61
+
+Artículo 61. Infracciones graves.
+a) Son infracciones graves las conductas tipificadas en el artículo anterior cuando, por las circunstancias concurrentes, no puedan calificarse de muy graves y, en particular:
+1. El incumplimiento por parte de los sujetos obligados de conformidad con lo dispuesto en esta Ley en sus normas de desarrollo de su obligación de realizar auditorías externas en los supuestos en que así venga exigido.
+2. La aplicación irregular de precios, tarifas o peajes, de manera que se produzca una alteración en el precio superior al 10% y siempre que la misma suponga una alteración superior a 30.000 euros, las alteraciones inferiores serán consideradas infracción leve.
+3. Cualquier otra actuación en el suministro o consumo de energía eléctrica, que suponga una alteración porcentual de la realidad de lo suministrado o consumido superior al 10 por 100 y siempre que la misma suponga una alteración superior a 30.000 euros.
+4. El incumplimiento de las resoluciones jurídicamente vinculantes o requerimientos impartidos por la Administración competente, incluida la Comisión Nacional de Energía, o por el operador del sistema en el ámbito de sus funciones, cuando no resulte perjuicio relevante para el funcionamiento del sistema.
+5. El incumplimiento de cuantas obligaciones de remisión de información se deriven de la aplicación de la normativa vigente o resulten del previo requerimiento por parte de la Administración, incluida la Comisión Nacional de Energía, o del Operador del Sistema o del Operador del mercado, en el ámbito de sus funciones. Asimismo, se considerará infracción grave el incumplimiento por parte de los sujetos del sistema de sus obligaciones de información o comunicación a otros sujetos del sistema. También se considerará infracción grave la no remisión de la información en la forma y plazo que resulte exigible.
+Igualmente, será infracción grave el incumplimiento reiterado de la remisión de información a que se refiere el artículo 28 del Real Decreto-Ley 6/2000, de 23 de junio.
+6. El incumplimiento por parte de los sujetos obligados a ello de conformidad con la normativa vigente, de los índices de calidad del servicio a que se refiere el artículo 48.2 de la presente Ley o de las condiciones de calidad y continuidad del servicio.
+7. El incumplimiento reiterado por parte de la empresa suministradora de aplicar los descuentos correspondientes a los consumidores afectados por interrupciones en las condiciones previstas en la normativa de aplicación.
+8. El retraso injustificado en el comienzo de la prestación del servicio a nuevos usuarios.
+9. Los incumplimientos tipificados en los número 16 y 19 del artículo anterior cuando no concurran las circunstancias de riesgo de garantía del suministro o peligro o daño grave para las personas, bienes o medio ambiente.
+10. La no presentación de ofertas de compra o venta por los sujetos obligados a ello en el mercado de producción.
+11. El incumplimiento por parte del Operador del Mercado de las obligaciones que le corresponden según el artículo 33 de la presente Ley, a menos que expresamente se hubieran tipificado como muy graves.
+12. El incumplimiento por parte del Operador del Sistema y el Gestor de la Red de Transporte de las obligaciones reglamentariamente establecidas en el desarrollo, ampliación, mantenimiento y mejora de la red de transporte de energía eléctrica, a menos que expresamente se hubiera tipificado como muy grave.
+13. El incumplimiento por parte de los titulares de instalaciones de régimen especial obligados a ello de su obligación de poner a disposición del operador del sistema, en tiempo real y en lo que se refiere a los desgloses de los programas de las unidades físicas, la misma información requerida en los procedimientos de operación para los grupos hidráulicos de producción.
+14. El incumplimiento, por parte de los distribuidores o comercializadores, de la obligación de permitir el acceso, de mantener una base de datos de todos los puntos de suministro conectados a sus redes y a las redes de transporte de su zona, así como de dotarse de los sistemas informáticos necesarios que permitan la consulta de los datos del registro de puntos de suministro y la recepción y validación informática de solicitudes y comunicaciones con los consumidores y comercializadores de energía.
+15. El incumplimiento reiterado e injustificado de los plazos establecidos para las comunicaciones con los comercializadores y clientes y para llevar a cabo el cambio de suministrador.
+16. El incumplimiento reiterado por parte de los comercializadores de los requisitos de contratación y apoderamiento con los clientes.
+17. El incumplimiento por parte de los responsables del punto de medida de disponer de los equipos de medida y control necesarios, así como impedir el acceso para la lectura y verificación de las instalaciones a los encargados de la lectura.
+18. El incumplimiento por parte de los obligados a ello por la normativa vigente de la instalación de los equipos de medidas y concentradores necesarios para el correcto funcionamiento del sistema, así como de la remisión de la información o, en su caso, su puesta a disposición a los destinatarios a los que están obligados a remitírsela.
+19. El incumplimiento de las obligaciones de disponibilidad de unidades de producción en cada período de programación.
+20. El incumplimiento de las obligaciones resultantes de la aplicación del sistema de precios, tarifas, tarifas de último recurso y peajes, o de los criterios de recaudación cuando no tenga la consideración de muy grave conforme al artículo anterior. En todo caso se entenderá como incumplimiento de las obligaciones del sistema tarifario la falta o retraso en el pago de las cantidades a que den lugar las liquidaciones o en el ingreso de las cuotas, la declaración indebida de ingresos y costes y las declaraciones efectuadas fuera de plazo establecido, cuando no tenga la consideración de muy grave conforme al artículo anterior.
+21. El incumplimiento de las medidas de seguridad, aún cuando no supongan peligro manifiesto para los bienes.
+22. El incumplimiento de las disposiciones contenidas en los Reglamentos de la Unión Europea relativos a las condiciones de acceso a la red para el comercio transfronterizo de electricidad.
+23. El incumplimiento por parte de las empresas distribuidoras y comercializadoras de electricidad de las obligaciones de mantenimiento y correcto funcionamiento de un servicio de atención a los consumidores, así como de las medidas de protección al consumidor de acuerdo con lo establecido en la presente Ley y su normativa de desarrollo.
+b) Igualmente, serán infracciones graves las infracciones leves del artículo siguiente cuando durante el año anterior a su comisión hubiera sido impuesta al infractor sanción firme por el mismo tipo de infracción.
+Se modifica el apartado 4 y se añaden los apartados 22 y 23 de la letra a) por el art. 1.14 y 15 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se modifica por el art. único.63 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se añaden los apartados 16 a 22 por el art. 21.4 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Artículo 62
+
+Artículo 62. Infracciones leves.
+Son infracciones leves:
+1. El incumplimiento por parte de los sujetos obligados a ello de sus obligaciones en relación con la formalización de los contratos de suministro.
+2. El incumplimiento de las obligaciones derivadas de las Reglas del Mercado o de los Procedimientos de Operación, que no tengan la consideración de infracción de conformidad con los artículos 60 o 61 de la presente Ley, cuando de dicho incumplimiento derive perjuicio para el funcionamiento del mercado o del sistema eléctrico.
+3. El incumplimiento injustificado de los plazos establecidos para las comunicaciones con los comercializadores y clientes y para llevar a cabo el cambio de suministrador.
+4. El incumplimiento por parte de los comercializadores de los requisitos de contratación y apoderamiento con los clientes.
+5. El incumplimiento por parte de los comercializadores y distribuidores de cualquier requisito de información exigible en sus facturas.
+6. El incumplimiento de las obligaciones de información a que se refiere el artículo 28 del Real Decreto-ley 6/2000, de 23 de junio, cuando no tenga la consideración de grave conforme al artículo anterior.
+Constituyen infracciones leves aquellas infracciones de preceptos de obligada observancia comprendidas en la presente Ley y en sus normas de desarrollo que no constituyan infracción grave o muy grave, conforme a lo dispuesto en los dos artículos anteriores.
+Se modifica por el art. único.64 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se añaden los cuatro últimos párrafos por el art. 21.5 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+
+### Artículo 63
+
+Artículo 63. Determinación de las sanciones.
+Para la determinación de las correspondientes sanciones se tendrán en cuenta las siguientes circunstancias:
+1. El peligro resultante de la infracción para la vida y salud de las personas, la seguridad de las cosas y el medio ambiente.
+2. La importancia del daño o deterioro causado.
+3. Los perjuicios producidos en la continuidad y regularidad del suministro.
+4. El grado de participación en la acción u omisión tipificada como infracción y el beneficio obtenido de la misma.
+5. La intencionalidad en la comisión de la infracción y la reiteración en la misma.
+6. La reincidencia por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
+
+### Artículo 64
+
+Artículo 64. Sanciones.
+1. Las infracciones tipificadas en los artículos anteriores serán sancionadas:
+Las infracciones muy graves, con multa de hasta 30.000.000 de euros.
+Las infracciones graves, con multa de hasta 6.000.000 de euros.
+Las infracciones leves, con multa de hasta 600.000 euros.
+2. Cuando a consecuencia de la infracción se obtenga un beneficio cuantificable, la multa podrá alcanzar hasta el doble del beneficio obtenido.
+3. La cuantía de las sanciones se graduará atendiendo a criterios de proporcionalidad y a las circunstancias especificadas en el artículo anterior.
+4. Si prosiguiera la conducta infractora una vez transcurrido el lapso suficiente para el cese de la misma, podrán imponerse nuevas multas, previa la instrucción de los correspondientes procedimientos sancionadores.
+5. La comisión de una infracción muy grave podrá llevar aparejada la revocación o suspensión de la autorización administrativa y la consecuente inhabilitación temporal para operar en el mercado por un período máximo de un año. La revocación o suspensión de las autorizaciones se acordará, en todo caso, por la autoridad competente para otorgarlas.
+A tal efecto, la Administración actuante pondrá los hechos en conocimiento de la competente.
+Se modifica el apartado 1 por el art. único.65 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se convierten a euros las cuantías contempladas en el apartado 1 por el art. 1 y anexo de la Resolución de 28 de septiembre de 2001. Ref. BOE-A-2001-18591
+
+### Artículo 65
+
+Artículo 65. Procedimiento sancionador.
+El procedimiento para la imposición de sanciones se ajustará a los principios de los artículos 127 a 138 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y a lo dispuesto en el Real Decreto 1398/1993, de 4 de agosto, o norma autonómica correspondiente, sin perjuicio de que reglamentariamente se establezcan especialidades de procedimiento para la imposición de sanciones previstas en esta Ley.
+El plazo máximo para resolver y notificar los expedientes sancionadores tramitados conforme al procedimiento previsto será de un año.
+A estos efectos, en los casos en que la competencia sea de la Administración General del Estado, la Comisión Nacional de Energía deberá remitir el expediente instruido y la propuesta de sanción al órgano competente para su resolución con un plazo de antelación mínimo de dos meses antes de la finalización del plazo máximo para resolver y notificar los expedientes previstos en el párrafo anterior.
+Se añade el párrafo final por el art. único.66 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Artículo 66
+
+Artículo 66. Competencia para imponer sanciones.
+1. En el ámbito de la Administración General del Estado, las sanciones muy graves serán impuestas por el Consejo de Ministros y las graves por el Ministro de Industria y Energía. La imposición de las sanciones leves corresponderá al Director general de la Energía.
+2. En el ámbito de las Comunidades Autónomas se estará a lo previsto en su propia normativa.
+3. La Comisión Nacional de los Mercados y la Competencia, dentro de su ámbito de actuación y de las funciones que tiene encomendadas, podrá imponer sanciones efectivas, proporcionadas y disuasorias a las empresas eléctricas por las infracciones administrativas tipificadas como muy graves en los números 1, 2, 5, 6 y 7 del artículo 60.a) de la presente Ley, así como por aquellas tipificadas en los números 8, 9 y 10 del citado artículo 60.a), en relación con los incumplimientos de resoluciones jurídicamente vinculantes o requerimientos de la Comisión Nacional de los Mercados y la Competencia en el ámbito de sus competencias.
+Asimismo, la Comisión Nacional de los Mercados y la Competencia tendrá competencia para sancionar la comisión de las infracciones graves a que se hace referencia en el párrafo anterior cuando, por las circunstancias concurrentes, no puedan calificarse de muy graves y, en particular, en el caso de las tipificadas en los números 4, 5 y 22 del artículo 61.a) de la presente Ley, en relación con los incumplimientos de resoluciones jurídicamente vinculantes o requerimientos de la citada Comisión en el ámbito de sus competencias.
+La Comisión Nacional de los Mercados y la Competencia tendrá competencia para sancionar aquellas infracciones leves tipificadas en el artículo 62 de la presente Ley, en relación con los incumplimientos de resoluciones jurídicamente vinculantes o requerimientos de la Comisión Nacional de los Mercados y la Competencia en el ámbito de sus competencias.
+En cualquier caso la cuantía de la sanción no podrá superar el 10% del importe neto anual de la cifra de negocios del gestor de la red de transporte a dicho gestor, o el 10% del importe neto anual de la cifra de negocios consolidada de la sociedad matriz del grupo verticalmente integrado a dicha empresa integrada verticalmente, según los casos.
+4. La Administración General del Estado será competente para imponer sanciones cuando se produzcan infracciones muy graves que comprometan la seguridad de suministro.
+Se añade el apartado 4 por la disposición final 1.3 de la Ley 17/2013, de 29 de octubre. Ref. BOE-A-2013-11332.
+ Se modifica el apartado 3 por la disposición final 8.2 de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+ Se añade el apartado 3 por el art. 1.16 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+### Artículo 67
+
+Artículo 67. Prescripción.
+Las infracciones muy graves previstas en este capítulo prescribirán a los cuatro años de su comisión; las graves, a los tres años, y las leves, al año.
+Las sanciones impuestas por faltas muy graves prescribirán a los cuatro años; las impuestas por faltas graves, a los tres años, y las impuestas por faltas leves, al año.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Intervención administrativa de empresas eléctricas.
+1. Cuando el incumplimiento de las obligaciones de las empresas que realizan las actividades y funciones reguladas en la presente Ley pueda afectar a la continuidad y seguridad del suministro eléctrico, y a fin de garantizar su mantenimiento, el Gobierno podrá acordar la intervención de la correspondiente empresa de acuerdo con lo previsto en el artículo 128.2 de la Constitución, adoptando las medidas oportunas para ello.
+A estos efectos serán causas de intervención de una empresa las siguientes:
+a) La suspensión de pagos o quiebra de la empresa.
+b) La gestión irregular de la actividad cuando le sea imputable y pueda dar lugar a su paralización con interrupción del suministro a los usuarios.
+c) La grave y reiterada falta de mantenimiento adecuado de las instalaciones que ponga en peligro la seguridad de las mismas.
+2. En los supuestos anteriores, si las empresas que desarrollan actividades y funciones eléctricas lo hacen exclusivamente mediante instalaciones cuya autorización sea competencia de una Comunidad Autónoma, la intervención será acordada por ésta, salvo que esté en riesgo la seguridad de suministro, en cuyo caso será acordada por el Gobierno, quien lo comunicará a la Comunidad Autónoma.
+Se modifica el apartado 2 por la disposición final 1.4 de la Ley 17/2013, de 29 de octubre. Ref. BOE-A-2013-11332.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Ocupación del dominio público marítimo terrestre para líneas aéreas de alta tensión.
+A los efectos previstos en el artículo 32 de la Ley 22/1988, de 28 de julio, de Costas, excepcionalmente y por razones de utilidad pública debidamente acreditadas, el Consejo de Ministros, a propuesta conjunta de los Ministerios de Fomento, de Medio Ambiente y de Industria y Energía, tomando en consideración los valores medioambientales y paisajísticos, podrá autorizar el tendido aéreo de líneas eléctricas de alta tensión en el dominio público marítimo-terrestre, siempre que no se localicen en tramos de costa que constituyan playa u otros ámbitos de especial protección.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Efectos de la falta de resolución expresa.
+Las solicitudes de resoluciones administrativas que deban dictarse conforme a lo dispuesto en la presente Ley y a la legislación específica en materia nuclear se podrán entender desestimadas, si no recae resolución expresa en el plazo que al efecto se establezca en sus disposiciones de desarrollo.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Modificación de los ar tículos 2 y 57 de la Ley de Energía Nuclear.
+1. El apartado 9 del artículo 2 de la Ley 25/1964, de 29 de abril, reguladora de la Energía Nuclear, queda redactado de la siguiente forma:
+«Artículo 2. Definiciones.
+9. "Residuo radiactivo" es cualquier material o producto de desecho, para el cual no está previsto ningún uso, que contiene o está contaminado con radionucleidos en concentraciones o niveles de actividad superiores a los establecidos por el Ministerio de Industria y Energía, previo informe del Consejo de Seguridad Nuclear.»
+2. El primer párrafo del artículo 57 de la Ley 25/1964, de 29 de abril, sobre Energía Nuclear, queda redactado en la forma siguiente:
+«En el caso de instalaciones nucleares, la cobertura exigible, de acuerdo con el artículo 55 de la presente Ley, será de 25.000 millones de pesetas. No obstante, el Ministerio de Industria y Energía podrá imponer otro límite, no inferior a 1.000 millones de pesetas, cuando se trate de transportes de sustancias nucleares o de cualquier otra actividad, cuyo riesgo, a juicio del Consejo de Seguridad Nuclear, no requiera una cobertura superior. Estas cifras serán elevadas por el Gobierno, a propuesta del Ministerio de Industria y Energía, cuando los compromisos internacionales aceptados por el Estado español lo hagan necesario o cuando el transcurso del tiempo o la variación del índice de precios al consumo lo impongan para mantener el mismo nivel de cobertura.»
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Modificación del capítulo XIV de la Ley de Energía Nuclear.
+El capítulo XIV de la Ley 25/1964, de 29 de abril, reguladora de la Energía Nuclear, queda redactado de la siguiente forma:
+«CAPÍTULO XIV
+De las infracciones y sanciones en materia nuclear
+Artículo 91.
+Sin perjuicio de las responsabilidades civiles y penales o de otro orden en que puedan incurrir las empresas que realicen actividades reguladas en la presente Ley, serán infracciones administrativas las acciones y omisiones que supongan incumplimiento o inobservancia de lo dispuesto en la misma, en la Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad Nuclear, y sus disposiciones que las desarrollan.
+a) Son infracciones muy graves:
+1. Realizar, sin obtener la preceptiva autorización, cualquier actividad que la requiera, de acuerdo con esta Ley o con sus normas de desarrollo.
+2. Continuar realizando una actividad cuando la autorización correspondiente esté suspendida o caducada, o no paralizar o suspender de forma inmediata, a requerimiento del Consejo de Seguridad Nuclear, el funcionamiento de la instalación cuando exista probabilidad de grave riesgo para la vida y salud de las personas o seguridad de las cosas.
+3. Ejercitar cualquier actividad regulada en esta Ley sin tener cubierta la responsabilidad civil por los daños que la misma pueda causar en la forma y con los límites legal o reglamentariamente previstos, salvo en lo referente a instalaciones radiactivas de segunda y tercera categoría.
+4. El incumplimiento de los términos, requisitos, obligaciones, límites, condiciones o prohibiciones impuestos en las autorizaciones y licencias o en los documentos oficiales de explotación cuando tal incumplimiento implique un grave riesgo para la vida y la salud de las personas, y la seguridad de las cosas.
+5. La negativa absoluta, la resistencia reiterada a prestar colaboración o la obstrucción voluntaria grave de las funciones de inspección y control que al Consejo de Seguridad Nuclear corresponden.
+6. La ocultación deliberada de información relevante, o su suministro falso, a la Administración o al Consejo de Seguridad Nuclear, cuando dicho comportamiento implique un riesgo grave para las personas o las cosas.
+7. La inaplicación de las medidas técnicas o administrativas que con carácter general o par ticular se impongan a una actividad, el incumplimiento de los plazos señalados para su puesta en práctica y la omisión de los requerimientos o medidas correctoras necesarias para el cumplimiento de los preceptos legales o reglamentarios cuando en todos los casos se produzca un grave riesgo para la vida y la salud de las personas, y la seguridad de las cosas.
+8. El incumplimiento o demora injustificados de las notificaciones obligadas en supuestos de emergencia, que lleven aparejado un grave riesgo para personas o bienes.
+9. La manipulación, traslado o disposición en cualquier forma, de sustancias radiactivas o equipos productores de radiaciones ionizantes intervenidos.
+b) Son infracciones graves:
+1. El incumplimiento de los preceptos legales o reglamentarios aplicables o de los términos y condiciones de las autorizaciones o documentos oficiales de explotación, cuando no constituya falta muy grave, salvo los de escasa trascendencia.
+2. La omisión de las medidas correctoras necesarias para el cumplimiento de los preceptos legales o de los términos y condiciones de las autorizaciones, así como la inaplicación de las medidas técnicas o administrativas que con carácter general o particular pudieran imponerse a una actividad, o el incumplimiento de los plazos señalados para su puesta en práctica, cuando ninguno de los casos constituyan falta muy grave.
+3. Tener en funcionamiento instalaciones radiactivas que requieran la pertinente declaración sin que ésta haya sido formulada.
+4. La falta de comunicación a la autoridad que concedió la autorización o al Consejo de Seguridad Nuclear de los incumplimientos temporales de los términos y condiciones de aquélla.
+5. El funcionamiento de las instalaciones radiactivas de segunda y tercera categoría, sin tener cubierta la responsabilidad civil por los daños que las mismas puedan causar en la forma y límites legal o reglamentariamente previstos.
+6. La ocultación de información, o su suministro falso, a la Administración o al Consejo de Seguridad Nuclear, cuando no constituya falta muy grave o leve.
+7. Impedir, obstaculizar o retrasar las actuaciones inspectoras con acciones u omisiones, siempre que dicho comportamiento no deba ser calificado como falta muy grave o leve.
+8. El incumplimiento o demora injustificados de las notificaciones obligadas en supuestos de emergencia, siempre que no lleven aparejado un grave riesgo para personas o bienes.
+c) Son infracciones leves:
+1. El retraso en el cumplimiento de las medidas administrativas que no constituya falta grave o muy grave.
+2. La falta de información a las autoridades que concedieron las autorizaciones o licencias y al Consejo de Seguridad Nuclear, o su envío incompleto, inexacto, erróneo, o con retraso, que dificulte el oportuno control de las instalaciones o actividades, cuando no constituyan otra infracción y carezcan de trascendencia grave.
+3. No facilitar las actuaciones inspectoras, cuando se trate de un mero retraso en el cumplimiento de las obligaciones de información, comunicación o comparecencia.
+4. Las cometidas por simple negligencia, siempre que el riesgo derivado fuera de escasa importancia.
+5. Las simples irregularidades o cualquier incumplimiento meramente formal de los preceptos legales o reglamentarios cuando asimismo tengan escasa trascendencia.
+Artículo 92. Calificación de las infracciones.
+Para la calificación de las infracciones se tendrán en cuenta las siguientes circunstancias:
+1. El peligro resultante de la infracción para la vida y la salud de las personas, la seguridad de las cosas y el medio ambiente.
+2. La importancia del daño o deterioro causado a personas y cosas.
+3. El grado de participación y beneficio obtenido.
+4. El incumplimiento de las advertencias previas o requerimientos de las autoridades competentes.
+5. La intencionalidad o negligencia en la comisión de la infracción y la reiteración.
+6. El fraude y la connivencia en su ejecución.
+7. La diligencia en la identificación de la infracción y en la información a los organismos competentes, siempre que se adopten las medidas correctoras oportunas.
+8. La reincidencia por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
+Artículo 93.
+1. Tratándose de instalaciones nucleares y de las radiactivas de primera categoría, las infracciones en materia de energía nuclear serán sancionadas:
+a) Las infracciones muy graves, con multa de hasta 3.005.60,52 de euros.
+b) Las infracciones graves, con multa de hasta 601.012,10 de euros.
+c) Las infracciones leves, con multa de hasta 60.101,21 de euros.
+2. Las infracciones muy graves y graves podrán dar lugar, conjuntamente con las multas previstas, a la revocación o suspensión temporal de los permisos, licencias o autorizaciones.
+La cuantía de las sanciones se graduará atendiendo a los criterios de proporcionalidad y a las circunstancias especificadas en el artículo anterior.
+Las multas se podrán reiterar en el tiempo hasta que cese la conducta infractora.
+3. Cuando se trate de instalaciones radiactivas de segunda y tercera categorías, las sanciones económicas de multa se reducirán en su grado máximo a la mitad de las señaladas anteriormente.
+Artículo 94.
+1. El procedimiento para la imposición de las sanciones se ajustará a los principios del procedimiento de los artículos 127 a 138 de la Ley 30/1992, de 26 de noviembre, y a lo dispuesto en el Real Decreto 1398/1993, de 4 de agosto.
+2. El Consejo de Seguridad Nuclear propondrá la iniciación del correspondiente expediente sancionador respecto de aquellos hechos que pudieran ser constitutivos de infracción en materia de seguridad nuclear y protección radiológica, poniendo en conocimiento del órgano al que corresponda incoar el expediente tanto la infracción apreciada como los extremos relevantes para su valoración y emitiendo los informes que sean necesarios para la adecuada calificación de los hechos objeto del expediente.
+3. En el ámbito de la Administración del Estado, las sanciones por infracciones muy graves cometidas por titulares de instalaciones nucleares o radiactivas de primera categoría serán impuestas por el Consejo de Ministros y las graves por el Ministro de Industria y Energía. La imposición de las sanciones leves corresponderá al Director general de la Energía.
+Cuando se trate de sanciones por infracciones cometidas por los titulares de instalaciones radiactivas de segunda y tercera categorías, las mismas serán impuestas por el Ministro de Industria y Energía si constituyen faltas muy graves, y por el Director general de la Energía en los supuestos de faltas graves o leves.
+En el ámbito de las Comunidades Autónomas se estará a lo previsto en su propia normativa.
+4. En todo lo que no se oponga a los tipos de sanciones descritos en los precedentes artículos y sea complementario de los mismos, se mantendrá en vigor el régimen de las infracciones y sanciones vigentes en materia de protección sanitaria contra radiaciones ionizantes y de instalación y utilización de aparatos de rayos X con fines diagnósticos.
+5. En ningún caso se impondrán varias sanciones por un mismo hecho, aunque sí podrán exigirse otras responsabilidades que se deduzcan de otros hechos o infracciones que concurran.
+Artículo 95.
+Las infracciones a que se refiere la presente Ley prescribirán: las muy graves, a los cinco años; las graves, a los tres años, y las leves, al año. El término de la prescripción comenzará a correr desde el día en que se hubiera cometido la infracción. La prescripción se interrumpirá desde el momento en que el procedimiento se dirija contra el presunto infractor, con conocimiento del interesado.
+Las sanciones prescribirán: las impuestas por faltas muy graves, a los cinco años; las impuestas por faltas graves, a los tres años, y las impuestas por faltas leves, al año. El tiempo de prescripción comenzará a correr desde la fecha en que la resolución sancionadora sea firme, interrumpiéndose la prescripción por la iniciación, con el conocimiento del interesado, del procedimiento correspondiente.»
+Se convierten a euros las cuantías contempladas en el art. 93 por el art. 1 y anexo de la Resolución de 28 de septiembre de 2001. Ref. BOE-A-2001-18591
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Fondo para la financiación de las actividades del Plan General de Residuos Radioactivos.
+1. La gestión de los residuos radiactivos, incluido el combustible nuclear gastado, y el desmantelamiento y clausura de instalaciones nucleares, a que se refiere el artículo 38 bis de la Ley 25/1964, de 29 de abril, encomendada a la Empresa Nacional de Residuos Radiactivos, S.A. (ENRESA), se efectuará con cargo al Fondo para la financiación de las actividades del Plan General de Residuos Radiactivos.
+Dicho Fondo está integrado por las cantidades procedentes de la recaudación de las tasas reguladas en el apartado 9, así como por cualesquiera contraprestaciones o ingresos derivados de la prestación de los referidos servicios. Asimismo, se integran en el Fondo los rendimientos derivados de las inversiones financieras transitorias del mismo. Las dotaciones al Fondo tendrán la consideración de partida deducible en el Impuesto sobre Sociedades.
+Las cantidades integradas en el Fondo, sin perjuicio de las mencionadas inversiones financieras transitorias, sólo podrán ser invertidas en gastos, trabajos, proyectos e inmovilizaciones derivados de actuaciones previstas en el Plan General de Residuos Radiactivos aprobado por el Gobierno.
+2. La supervisión y control de las inversiones transitorias relativas a la gestión financiera del Fondo corresponde a un Comité de Seguimiento y Control adscrito al Ministerio de Industria, Turismo y Comercio, a través de la Secretaría de Estado de Energía.
+3. Tendrán la consideración de coste de diversificación y seguridad de abastecimiento a los efectos previstos en esta Ley, las cantidades destinadas a dotar la parte del Fondo para la financiación de los costes correspondientes a la gestión de los residuos radiactivos y del combustible gastado generados en las centrales nucleares cuya explotación haya cesado definitivamente con anterioridad al 1 de enero de 2010, así como a su desmantelamiento y clausura, aquellos costes futuros correspondientes a las centrales nucleares o fábricas de elementos combustibles que, tras haber cesado definitivamente su explotación, no se hubiesen previsto durante dicha explotación, y los que, en su caso, se pudieran derivar de lo previsto en el apartado 5 de esta disposición adicional.
+Asimismo, tendrán dicha consideración las cantidades destinadas a dotar la parte del Fondo para la financiación de los costes de la gestión de residuos radiactivos procedentes de aquellas actividades de investigación que el Ministerio de Industria, Turismo y Comercio determine que han estado directamente relacionadas con la generación de energía nucleoeléctrica, las operaciones de desmantelamiento y clausura que deban realizarse como consecuencia de la minería y producción de concentrados de uranio con anterioridad al 4 de julio de 1984, los costes derivados del reproceso del combustible gastado enviado al extranjero con anterioridad a la entrada en vigor de esta Ley y aquellos otros costes que se especifiquen mediante real decreto.
+4. Las cantidades destinadas a dotar la parte del Fondo para la financiación de los costes en los que se incurra a partir del 1 de enero de 2010, correspondientes a la gestión de los residuos radiactivos y del combustible gastado generados en las centrales nucleares en explotación, no tendrán la consideración de coste de diversificación y seguridad de abastecimiento y serán financiadas por los titulares de las centrales nucleares durante dicha explotación, con independencia de la fecha de su generación, así como los correspondientes a su desmantelamiento y clausura.
+Asimismo, serán financiadas por los titulares de las centrales nucleares las asignaciones destinadas a los municipios afectados por centrales nucleares o instalaciones de almacenamiento de combustible gastado o residuos radiactivos, en los términos establecidos por el Ministerio de Industria, Turismo y Comercio, así como los importes correspondientes a los tributos que se devenguen en relación con las actividades de almacenamiento de residuos radiactivos y combustible gastado, con independencia de su fecha de generación.
+5. En el caso de que se produzca un cese de la explotación anticipado respecto al periodo establecido en el Plan General de Residuos Radiactivos por causa ajena a la voluntad del titular, el déficit de financiación que, en su caso, existiese tendrá la consideración de coste de diversificación y seguridad de abastecimiento. En caso de que dicho cese se produzca por voluntad del titular éste deberá satisfacer la tasa correspondiente.
+6. La cantidad remanente del Fondo existente a 31 de diciembre de 2009, una vez deducidas las cantidades necesarias para la financiación de los costes previstos a los que se refiere el apartado 3, será destinado a la financiación de los costes a que se refiere el apartado 4.
+7. En los costes de gestión de los residuos radiactivos y del combustible gastado y en el desmantelamiento y clausura, se incluirán todos los costes relativos a las actividades técnicas y servicios de apoyo necesarios para llevar a cabo dichas actuaciones, en los que se consideran los correspondientes a los costes de estructura y a los proyectos y actividades de I+D+i, de acuerdo todo ello con lo previsto en el Plan General de Residuos Radiactivos.
+El coste de la gestión de los residuos radiactivos y combustible gastado en las propias instalaciones de producción de energía nucleoeléctrica incluirá, únicamente, el correspondiente al coste de las actividades realizadas por ENRESA y, en su caso, los costes de terceros derivados de dichas actividades.
+8. Se financiarán con cargo al Fondo los costes correspondientes a la retirada y gestión de los cabezales de los pararrayos radiactivos, y a la gestión de los residuos radiactivos generados en los supuestos excepcionales previstos en el artículo 2 de la Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad Nuclear, estos últimos cuando no puedan repercutirse de conformidad con la normativa vigente y así lo determine el Ministerio de Industria, Turismo y Comercio.
+9. A los efectos de lo previsto en el apartado 1 de esta disposición adicional, se establecen las tasas que se relacionan a continuación, que tendrán el carácter de tasas afectadas a los servicios a los que se refiere al artículo 38 bis de la Ley 25/1964, de 29 de abril, y que se ingresarán en el Tesoro Público aplicadas a un concepto no presupuestario. Las cuantías correspondientes a las tasas ingresadas se librarán desde el Tesoro hacia el Fondo para la financiación de las actividades del Plan General de Residuos Radiactivos, a propuesta del Secretario de Estado de Energía:
+Primero. Tasa por la prestación de servicios de gestión de residuos radiactivos a que se refiere el apartado 3.
+a) Hecho imponible: Constituye el hecho imponible de la tasa la prestación de los servicios relativos a las actividades a que se refiere el apartado 3 anterior, es decir, la gestión de los residuos radiactivos y del combustible gastado generados en las centrales nucleares cuya explotación haya cesado definitivamente con anterioridad al 1 de enero de 2010, así como su desmantelamiento y clausura, aquellos costes futuros correspondientes a las centrales nucleares o fábricas de elementos combustibles que, tras haber cesado definitivamente su explotación, no se hubiesen previsto durante dicha explotación, y los que, en su caso, se pudieran derivar de lo previsto en el apartado 5.
+Asimismo, constituye el hecho imponible la gestión de residuos radiactivos procedentes de aquellas actividades de investigación que el Ministerio de Industria, Turismo y Comercio determine que han estado directamente relacionadas con la generación de energía nucleoeléctrica, las operaciones de desmantelamiento y clausura que deban realizarse como consecuencia de la minería y producción de concentrados de uranio con anterioridad al 4 de julio de 1984, los costes derivados del reproceso del combustible gastado enviado al extranjero con anterioridad a la entrada en vigor de esta Ley, y aquellos otros costes que se especifiquen mediante real decreto.
+b) Base imponible: La base imponible de la tasa viene constituida por la recaudación total derivada de la aplicación de los peajes a que se refiere la presente Ley.
+c) Devengo de la tasa: La tasa se devengará el día último de cada mes natural durante el período de gestión establecido en el Plan General de Residuos Radiactivos.
+d) Sujetos pasivos: Serán sujetos pasivos de la tasa a título de contribuyentes las empresas explotadoras titulares de las centrales nucleares. Serán sujetos pasivos a título de sustitutos del contribuyente y obligados a la realización de las obligaciones materiales y formales de la tasa las empresas que desarrollan las actividades de transporte y distribución en los términos previstos en esta Ley.
+e) Tipos de gravamen y cuota: El tipo por el que se multiplicará la base imponible para determinar la cuota tributaria a ingresar es de 0,001 por ciento.
+f) Normas de gestión: Mediante Orden ministerial se aprobará el modelo de autoliquidación y los medios para hacer efectivo el ingreso de las cuantías exigibles.
+La tasa correspondiente a la recaudación del penúltimo mes anterior se ingresará mediante autoliquidación a efectuar por el sujeto pasivo sustituto del contribuyente antes del día 10 de cada mes o, en su caso, del día hábil inmediatamente posterior.
+No obstante, cuando se trate de sujetos pasivos sustitutos del contribuyente en los que no concurran las circunstancias a que se refiere el apartado 3.1 del artículo 71 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por Real Decreto 1624/1992, de 29 de diciembre, el ingreso de las tasas devengadas durante cada uno de los trimestres naturales del año se hará efectivo, respectivamente, antes del día 10 de los meses de mayo, septiembre, noviembre y febrero o, en su caso, del día hábil inmediatamente posterior.
+La recaudación de la tasa se hará efectiva a través de las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria al amparo de lo dispuesto en el artículo 9 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
+Esta tasa se integrará a todos los efectos en la estructura de peajes establecida en la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, y sus disposiciones de desarrollo.
+Segundo. Tasa por la prestación de servicios de gestión de residuos radiactivos a que se refiere el apartado 4.
+a) Hecho imponible: Constituye el hecho imponible de la tasa la prestación de los servicios relativos a las actividades a que se refiere el apartado 4 anterior, es decir, la gestión de los residuos radiactivos y del combustible gastado generados en las centrales nucleares durante su explotación con independencia de la fecha de su generación, así como los correspondientes a su desmantelamiento y clausura, y las asignaciones destinadas a los municipios afectados por centrales nucleares o instalaciones de almacenamiento de combustible gastado o residuos radiactivos, en los términos establecidos por el Ministerio de Industria, Turismo y Comercio, así como los importes correspondientes a los tributos que se devenguen en relación con las actividades de almacenamiento de residuos radiactivos y combustible gastado. También constituye hecho imponible de esta tasa el cese anticipado de la explotación de una central nuclear por voluntad del titular, con respecto a las previsiones establecidas en el Plan General de Residuos Radiactivos.
+b) Base imponible: La base imponible de la tasa viene constituida por la energía nucleoeléctrica bruta generada por cada una de las centrales en cada mes natural, medida en kilowatios hora brutos (Kwh) y redondeada al entero inferior.
+Cuando se trate del cese anticipado de la explotación de una central nuclear por voluntad del titular, la base imponible será igual al déficit de financiación que, en su caso, existiera en el momento del cese, en la cuantía que determine el Ministerio de Industria, Turismo y Comercio en base al estudio económico que realice ENRESA.
+c) Devengo de la tasa: La tasa se devengará el día último de cada mes natural durante el período de explotación de las centrales.
+En caso de cese anticipado de la explotación por voluntad del titular, la tasa se devengará en el momento en que, de conformidad con la legislación aplicable, se produzca dicho cese.
+d) Sujetos pasivos: Serán sujetos pasivos de la tasa las empresas explotadoras titulares de las centrales nucleares. En caso de que sean varias las titulares de una misma central, la responsabilidad será solidaria entre todas ellas.
+e) Determinación de la cuota: La cuota tributaria a ingresar durante la explotación de la instalación será la resultante de multiplicar la base imponible por la tarifa fija unitaria y el coeficiente corrector que a continuación se señala, de tal modo que la cuota a ingresar será la resultante de la aplicación de la siguiente fórmula:
+C = B.i. × T × Cc
+En la cual:
+C = Cuota a ingresar.
+B.i. = Base imponible en Kwh.
+T = Tarifa fija unitaria: 1,036 céntimos de €/kWh.
+Cc = Coeficiente corrector aplicable de acuerdo con la siguiente escala:
+Potencia bruta de la central nuclear (Mwe)
+ PWR
+ BWR
+ 1-300
+ 1,15
+ 1,28
+ 301-600
+ 1,06
+ 1,17
+ 601-900
+ 1,02
+ 1,12
+ 901-1200
+ 0,99
+ 1,09
+PWR = Reactores de agua a presión.
+BWR = Reactores de agua en ebullición.
+En los supuestos de cese anticipado de la explotación de una central nuclear por voluntad del titular, la cuota será igual al 100 por ciento de la base imponible.
+f) Normas de gestión: Mediante Orden Ministerial se aprobará el modelo de autoliquidación y los medios para hacer efectivo el ingreso de las cuantías exigibles.
+La tasa se ingresará mediante autoliquidación a efectuar por el sujeto pasivo en el plazo de los tres meses naturales siguientes a su devengo.
+En el caso del cese anticipado de la explotación de una central nuclear por voluntad del titular, con respecto a las previsiones establecidas en el Plan General de Residuos Radiactivos, el déficit de financiación que, en su caso, existiera en el momento del cese, deberá ser abonado por el titular durante los tres años siguientes a partir de la fecha de dicho cese, efectuando pagos anuales iguales en la cuantía que determine el Ministerio de Industria, Turismo y Comercio en base al estudio económico que realice ENRESA.
+La recaudación de la tasa se hará efectiva a través de las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria al amparo de lo dispuesto en el artículo 9 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
+Tercero. Tasa por la prestación de servicios de gestión de los residuos radiactivos derivados de la fabricación de elementos combustibles, incluido el desmantelamiento de las instalaciones de fabricación de los mismos.
+a) Hecho imponible: Constituye el hecho imponible de la tasa la prestación de los servicios de gestión de los residuos radiactivos derivados de la fabricación de elementos combustibles, incluido el desmantelamiento de las instalaciones de fabricación de los mismos. También constituye hecho imponible de esta tasa el cese anticipado de la explotación de una instalación dedicada a la fabricación de elementos combustibles por voluntad del titular, con respecto a las previsiones establecidas en el Plan General de Residuos Radiactivos.
+b) Base imponible: La base imponible de la tasa viene constituida por la cantidad de combustible nuclear fabricado en cada año natural, medida en toneladas métricas (Tm) y expresada con dos decimales, redondeando los restantes al segundo decimal inferior.
+Cuando se trate del cese anticipado de la explotación de una instalación dedicada a la fabricación de elementos combustibles por voluntad del titular, la base imponible será igual al déficit de financiación que, en su caso, existiera en el momento del cese, en la cuantía que determine el Ministerio de Industria, Turismo y Comercio en base al estudio económico que realice ENRESA.
+c) Devengo de la tasa: La tasa se devengará el día último de cada año natural en que haya existido fabricación de elementos combustibles.
+d) Sujetos pasivos: Serán sujetos pasivos de la tasa los titulares de las instalaciones de fabricación de elementos combustibles.
+e) Tipos de gravamen y cuota: La cuota tributaria a ingresar será la resultante de multiplicar la base imponible por el tipo de gravamen de 1.449 €/Tm.
+En los supuestos de cese anticipado de una instalación dedicada a la fabricación de elementos combustibles por voluntad del titular, la cuota será igual al 100 por ciento de la base imponible.
+f) Normas de gestión: Mediante Orden Ministerial se aprobará el modelo de autoliquidación y los medios para hacer efectivo el ingreso de las cuantías exigibles.
+La tasa se ingresará mediante autoliquidación a efectuar por el sujeto pasivo en el plazo de los tres meses naturales siguientes a su devengo.
+En el caso de cese anticipado de la explotación de una instalación de fabricación de elementos combustibles por voluntad del titular, con respecto a las previsiones establecidas en el Plan General de Residuos Radiactivos, el déficit de financiación que, en su caso, existiera en el momento del cese, deberá ser abonado por el titular durante los tres años siguientes a partir de la fecha de dicho cese, efectuando pagos anuales iguales en la cuantía que determine el Ministerio de Industria, Turismo y Comercio en base al estudio económico que realice ENRESA.
+La recaudación de la tasa se hará efectiva a través de las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria al amparo de lo dispuesto en el artículo 9 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
+Cuarto. Tasa por la prestación de servicios de gestión de residuos radiactivos generados en otras instalaciones.
+a) Hecho imponible: Constituye el hecho imponible de la tasa la prestación de los servicios de gestión de los residuos radiactivos generados en cualesquiera otras instalaciones no comprendidas en el hecho imponible de las tasas previstas en los puntos anteriores. Esas instalaciones se clasifican en:
+Instalaciones radiactivas: Son aquellas instalaciones que disponen de una autorización de funcionamiento como instalación radiactiva, concedida conforme a lo previsto en el Reglamento sobre instalaciones nucleares y radiactivas, aprobado por el Real Decreto 1836/1999, de 3 de diciembre, y posteriormente modificado por el Real Decreto 35/2008, de 18 de enero. En lo sucesivo se designarán con las siglas “IR”.
+Otras instalaciones: A los efectos de este apartado, son consideradas como tales aquellas personas físicas o jurídicas que, siendo o pudiendo ser generadoras de residuos radiactivos, no disponen de una autorización de las citadas en el párrafo anterior. A su vez, entre éstas se distinguen:
+Personas físicas o jurídicas que cuenten con autorización concedida por la Dirección General de Política Energética y Minas para transferir los materiales a ENRESA en calidad de residuos radiactivos. En lo sucesivo se denominarán con las siglas “IT”.
+Personas jurídicas que estén adscritas o sean suscriptoras del Protocolo de colaboración sobre la vigilancia radiológica de los materiales metálicos, de fecha 2 de noviembre de 1999. En lo sucesivo se denominarán “IP”.
+Personas físicas o jurídicas no incluidas en los párrafos anteriores, que sean responsables de materiales que hayan de ser gestionados como residuos radiactivos. En lo sucesivo se denominarán “IG”.
+b) Base imponible: La base imponible de la tasa viene constituida por la cantidad o unidad de residuos entregados para su gestión, medida en la unidad correspondiente aplicable entre las comprendidas en la letra e) siguiente, de acuerdo con la naturaleza e instalación de procedencia del residuo y expresada con dos decimales, redondeando los restantes al segundo decimal inferior.
+En el caso de que el residuo entregado pudiera estar comprendido en más de una categoría o no estuviese expresamente comprendido en alguna categoría de la mencionada tabla, la base imponible de la tasa se determinará atendiendo al tipo de residuo que, por su naturaleza, resulte equivalente de entre los recogidos en la citada tabla.
+c) Devengo de la tasa: La tasa se devengará en el momento de la retirada por ENRESA de los residuos.
+d) Sujetos pasivos: Serán sujetos pasivos de la tasa los titulares de las instalaciones o las personas físicas o jurídicas a las que se refiere la letra a) anterior.
+e) Tipos de gravamen y cuota: La cuota tributaria a ingresar será la resultante de multiplicar la base imponible por los tipos de gravamen siguientes para cada tipo de residuos:
+Tipo residuo
+ Descripción
+ Tipo gravamen (€/unid)
+ Instalación de procedencia
+ Sólidos
+ S01.
+ Residuos sólidos compactables (bolsas de 25 litros).
+ 104,74
+ IR, IT
+ S02.
+ Residuos no compactables (bolsas de 25 litros).
+ 104,74
+ IR, IT
+ S03.
+ Cadáveres de animales. Residuos biológicos (bolsas de 25 litros).
+ 270,76
+ IR, IT
+ S04.
+ Agujas hipodérmicas en contenedores rígidos (bolsas de 25 litros).
+ 104,74
+ IR, IT
+ S05.
+ Sólidos especiales:
+ S051.
+ Residuos con Ir-192 como componente activo (bolsas de 25 litros).
+ 104,74
+ IR, IT
+ S052.
+ Sales de Uranio o Torio (bolsas de 25 litros).
+ 195,82
+ IR, IT
+ Mixtos
+ M01.
+ Residuos mixtos compuestos por líquidos orgánicos más viales (contenedores de 25 l)
+ 225,51
+ IR, IT
+ M02.
+ Placas y similares con líquidos o geles (bolsas de 25 litros).
+ 104,74
+ IR, IT
+ Líquidos
+ L01.
+ Residuos líquidos orgánicos (contenedores de 25 litros).
+ 229,53
+ IR, IT
+ L02.
+ Residuos líquidos acuosos (contenedores de 25 litros).
+ 195,20
+ IR, IT
+ Fuentes
+ F01.
+ Fuentes encapsuladas cuya actividad no sobrepase los límites, establecidos por el ADR para bultos del Tipo A y el conjunto de la fuente con su contenedor de origen o con el equipo en que va instalada no supere los 20 litros:
+ F011.
+ Las fuentes F01 con elementos de semiperíodo inferior o igual al del Co-60.
+ 310,07
+ IR, IT
+ F012.
+ Las fuentes F01 con elementos de semiperíodo comprendido entre el del Co-60 y el del Cs-137 incluido éste.
+ 310,07
+ IR, IT
+ F013.
+ Las fuentes F01 con elementos de semiperíodo superior al del Cs-137.
+ 310,07
+ IR, IT
+ F014.
+ Las fuentes F01 con isótopo en estado gaseoso, la cual es sometida a venteo controlado.
+ 310,07
+ IR, IT
+ F02.
+ Fuentes encapsuladas cuya actividad no sobrepase los límites establecidos por el ADR para bultos del Tipo A y el conjunto de la fuente con su contenedor de origen o con el equipo en que va instalada sea superior a 20 l e inferior o igual a 80 l.
+ F021
+ Las fuentes F02 con elementos de semiperíodo inferior o igual al del Co-60.
+ 575,85
+ IR, IT
+ F022.
+ Las fuentes F02 con elementos de semiperíodo comprendido entre el del Co-60 y el Cs-137, incluido éste.
+ 575,85
+ IR, IT
+ F023.
+ Las fuentes F02 con elementos de semiperíodo superior al del Cs-137.
+ 575,85
+ IR, IT
+ F05.
+ Fuentes encapsuladas que sobrepasen los límites de actividad expresados para los tipos F01 y F02 y/o su volumen sea superior a 80 litros:
+ F051.
+ Las fuentes F05 con elementos de semiperiodo inferior o igual al del Co-60. (La fuente sobrepasa el límite de actividad y el de volumen).
+ 27.000,00
+ IR
+ F051X.
+ Las fuentes F051, considerando el desmontaje del cabezal (con la fuente F051) del equipo en el que opera dicho cabezal.
+ 39.600,00
+ IR
+ F052.
+ Las fuentes F05 con elementos de semiperiodo comprendido entre el de Co-60 y el Cs-137, incluido éste. (La fuente sobrepasa el límite de actividad pero no supera el de volumen).
+ 2.400,00
+ IR, IT
+ F053.
+ Las fuentes F05 con elementos de semiperiodo superior al del Cs-137 (la fuente sobrepasa el límite de actividad pero no supera el de volumen).
+ 2.400,00
+ IR, IT
+ PMM.
+ Residuos contemplados en el Protocolo de vigilancia radiológica de los materiales metálicos.
+ PMMD.
+ Detecciones: Caso de bidón de 220 litros o fracción de procedencia extranjera o que siendo de procedencia nacional, los residuos no puedan ser alojados en un único bidón de 220 litros. (bidón de 220 l o fracción).
+ 2.470,11
+ IP
+ PMMI1.
+ Incidentes: Caso de generación de residuos inferior a 200 m3 (metro cúbico).
+ 2.253,80
+ IP
+ PMMI2.
+ Incidentes: Caso de generación de residuos igual o superior a 200 m3 (por m3 y desde el primero).
+ 11.227,80
+ IP
+ GEN1.
+ Tipo genérico de residuo no contemplado en los tipos de residuo anteriores. La cuota (€) resultará de la aplicación de la fórmula que se indica a continuación, adecuada a la categoría del residuo (RBMA o RBBA) y al volumen del residuo (V en m3) que corresponde gestionar.
+ RBMA (Residuo de Baja y Media Actividad)
+ V ≤ 2 m3
+ 1.500 + 4.020 x V
+ 
+ (1)
+ IG
+ 2 m3 < V ≤ 20 m3
+ 9.540 + 4.170 x (V-2)
+ 
+ (1)
+ 20 m3 < V ≤ 200 m3
+ 4.230 x V
+ 
+ (1)
+ V > 200 m3
+ 846.000 + 20.310 x (V-200)
+ 
+ (1)
+ RBBA (Residuo de Muy Baja Actividad)
+ V ≤ 2 m3
+ 1.500 + 500 x V
+ 
+ (1)
+ IG
+ 2 m3 < V ≤ 20 m3
+ 2.500 + 650 x (V-2)
+ 
+ (1)
+ 20 m3 < V ≤ 200 m3
+ 710 x V
+ 
+ (1)
+ V > 200 m3
+ 142.000 + 2.710 x (V-200)
+ 
+ (1)
+ (1) El tipo de gravamen correspondiente, según los casos, será el resultante de la aplicación de la fórmula que figura en la columna "Descripción".
+f) Normas de gestión: Mediante Orden ministerial se aprobará el modelo de autoliquidación y los medios para hacer efectivo el ingreso de las cuantías exigibles.
+La tasa se ingresará en el plazo de los sesenta días naturales siguientes a aquel en que haya tenido lugar la retirada de los residuos de las instalaciones por ENRESA.
+La recaudación de la tasa se hará efectiva a través de las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria al amparo de lo dispuesto en el artículo 9 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
+Quinto. Sobre las cuantías que resulten exigibles por las tasas a que se refiere este apartado 9, se aplicará el Impuesto sobre el Valor Añadido que grava la prestación de los servicios objeto de gravamen en los términos establecidos en la legislación vigente.
+Los tipos de gravamen y elementos tributarios para la determinación de la cuota de estas tasas podrán ser revisados por el Gobierno mediante Real Decreto, en base a una memoria económico-financiera actualizada del coste de las actividades correspondientes contempladas en el Plan General de Residuos Radiactivos.
+10. Se autoriza al Gobierno para adoptar las disposiciones necesarias para la aplicación de lo establecido en esta disposición adicional.
+Se modifica el valor de la tarifa fija unitaria T del apartado 9.2.e) por el art. único del Real Decreto 589/2024, de 25 de junio. Ref. BOE-A-2024-12863
+ Se modifica el valor de la tarifa fija unitaria T del apartado 9.2.e) por el art. único del Real Decreto 750/2019, de 27 de diciembre. Ref. BOE-A-2019-18617
+ Se modifica el apartado 9.1.f), párrafo tercero por la disposición final 1.3 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+ Se modica el apartado 9 por la disposición adicional 15 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica por la disposición final 9.2 de la Ley 11/2009, de 26 de octubre. Ref. BOE-A-2009-17000
+ Esta modificación tiene efectos a partir del 1 de enero de 2010, según establece la disposición final 12.e).
+ Se modifican los apartados 3, 4 y 7 por el art. 3.1 del Real Decreto-ley 6/2009, de 30 de abril. Ref. BOE-A-2009-7581
+ Se modifican los apartados 3 y 4 por la disposición adicional 1.1 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se modifica el apartado 1 y se deroga el apartado 5 por el art. 8.2 y 3 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+ Se modifica por el art. 25 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+ Se modifica por la disposición adicional 14 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+
+### Disposición adicional sexta bis
+
+Disposición adicional sexta bis. Creación de la entidad pública empresarial ENRESA de gestión de residuos radiactivos.
+(Derogada)
+Se deroga por la disposición derogatoria.1 de la Ley 11/2009, de 26 de octubre. Ref. BOE-A-2009-17000
+ Se modifica el apartado 17.1 y 2 por el art. 3.2 del Real Decreto-ley 6/2009, de 30 de abril. Ref. BOE-A-2009-7581
+ Téngase en cuenta la disposición transitoria 3 para su aplicación.
+ Se modifica la letra f) del apartado 17.1, 2 y 3 por la disposición adicional 1.2 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se añade por el art. 8.1 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Paralización de centrales nucleares en moratoria.
+Se declara vigente la disposición adicional octava de la Ley 40/1994, de 30 de diciembre, de Ordenación del Sistema Eléctrico Nacional, cuyo texto se actualiza y pasa a ser el siguiente:
+1. Se declara la paralización definitiva de los proyectos de construcción de las centrales nucleares de Lemóniz, Valdecaballeros y unidad II de Trillo y la extinción de las autorizaciones concedidas.
+2. Los titulares de los proyectos de construcción que se paralizan percibirán, en los términos previstos en la presente disposición, una compensación por las inversiones realizadas en los mismos y el coste de su financiación mediante la afectación a ese fin de un porcentaje de la facturación por venta de energía eléctrica a los usuarios.
+La compensación deberá ser plenamente satisfecha en un plazo máximo de veinticinco años, contados a partir del 20 de enero de 1995.
+El Ministerio de Industria y Energía establecerá el procedimiento de cálculo de la anualidad necesaria para satisfacer la compensación y, en consecuencia, del importe pendiente de compensación, que se determinará con efectos a 31 de diciembre de cada año, por proyectos y titulares.
+La determinación de los intereses asociados a la compensación atenderá al tipo de interés sobre depósitos interbancarios en pesetas más un diferencial del 0,30.
+Si, de acuerdo con lo establecido en el apartado 7, los titulares de los proyectos de construcción paralizados cedieran a terceros el derecho a percibir la compensación o parte de la misma, los distintos tipos de interés aplicables a la parte cedida se determinarán atendiendo al tipo de interés sobre depósitos interbancarios en pesetas más un diferencial de hasta el 0,50. Reglamentariamente se establecerán los supuestos en los que las condiciones de cesión podrán realizarse a tipo de interés de carácter fijo, determinado atendiendo a los de las emisiones realizadas por el Estado más un diferencial máximo del 0,50 que permitan la plena satisfacción de los importes pendientes de compensación referenciados a un tipo fijo dentro del plazo máximo previsto. En todo caso, las condiciones de cada cesión, incluido el interés aplicable a la misma, deberán ser autorizadas por acuerdo del Gobierno.
+3. Como valor base para dicha compensación, con fecha a 20 de enero de 1995 se establece el de 340.054.000.000 de pesetas para la central nuclear de Valdecaballeros, 378.238.000.000 de pesetas para la central nuclear de Lemóniz y 11.017.000.000 de pesetas para la unidad II de la central nuclear de Trillo.
+La distribución de la compensación correspondiente a cada uno de los proyectos entre sus titulares se llevará a cabo en la cuantía y forma que éstos acuerden. Los acuerdos adoptados a tal efecto deberán ser sometidos a la aprobación del Ministerio de Industria y Energía.
+Este valor base será modificado, cuando sea preciso, por el Ministerio de Industria y Energía para tener en cuenta las desinversiones originadas por las ventas de los equipos realizadas con posterioridad a dicha fecha y los gastos derivados de los programas de mantenimiento, desmantelamiento y cierre de instalaciones que considere y apruebe dicho Ministerio.
+Las desinversiones deberán ser autorizadas por el Ministerio de Industria y Energía. Los propietarios de las instalaciones deberán realizar, mediante procedimientos que garanticen la libre concurrencia y adecuadas condiciones de venta, las desinversiones que dicho Ministerio determine.
+Igualmente, el valor de la enajenación de los terrenos o emplazamientos de las instalaciones será tenido en cuenta por el Ministerio de Industria, Turismo y Comercio para calcular el importe pendiente de compensación. A estos efectos dicho Ministerio podrá acordar la celebración de un concurso o subasta, mediante el que se procederá a su enajenación a quien realice la mejor oferta, de acuerdo con las bases de la convocatoria, que deberán ser aprobadas por el mismo.
+En el caso de que los titulares estén interesados en el inicio de la explotación de los terrenos o emplazamientos de las instalaciones, tendrán derecho a igualar esta mejor oferta, en cuyo caso el concurso o subasta quedará sin efecto, procediéndose a la desinversión mediante el inicio de su explotación.
+Si, al tiempo en que se hubiera satisfecho íntegramente a los titulares de los proyectos de construcción paralizados la compensación prevista en el apartado segundo de la presente disposición adicional, existieran activos afectos a los mismos pendientes de enajenar, podrá acordarse mediante Orden Ministerial que dichos activos y, en particular, los terrenos, emplazamientos e instalaciones afectos, sean transmitidos o cedidos a una Administración Pública, en los términos que se determinen en dicha Orden.
+4. El importe anual que represente la compensación prevista en la presente disposición deberá alcanzar al menos la cantidad de 69.000.000.000 de pesetas en 1994. Dicho importe mínimo se incrementará cada año en un 2 por 100, hasta la íntegra satisfacción de la cantidad total a compensar.
+El importe resultante de la aplicación del porcentaje de la facturación a que se refiere el apartado 5 y las cantidades mínimas consideradas en el párrafo anterior deberán ser imputados a cada una de las instalaciones cuyos proyectos de construcción han sido paralizados definitivamente de acuerdo con lo previsto en el apartado 1 de esta disposición y de acuerdo con los valores base y la forma de cálculo establecidos en el apartado 3 anterior.
+En el supuesto de que los importes referidos en el párrafo anterior sean, en algún caso, insuficientes para satisfacer los intereses reconocidos asociados a la compensación a los que se refieren los párrafos tercero y cuarto del apartado 3 de la presente disposición, la compensación para el correspondiente titular deberá alcanzar dicho año los citados intereses.
+En ningún caso, los titulares de los derechos de compensación percibirán un importe superior al que les corresponda de los valores establecidos en el apartado 3 de la presente disposición y los intereses que procedan conforme a lo establecido en el apartado 2 de esta disposición.
+5. El porcentaje de facturación por venta de energía eléctrica afecto a la compensación, que a los efectos del artículo 16.6 de la presente Ley, tendrá el carácter de coste por diversificación y seguridad de abastecimiento, se determinará por el Gobierno y será, como máximo, el 3,54 por 100 o el porcentaje que corresponda en los peajes de acceso a las redes.
+La recaudación y distribución del citado porcentaje se llevará a cabo en la forma prevista en el artículo 19 de la presente Ley. La Comisión Nacional del Sistema Eléctrico adoptará en el procedimiento de liquidación las medidas necesarias para que los perceptores de la compensación reciban la cantidad que les corresponda cada año antes del 31 de marzo del año siguiente.
+6. En el supuesto de producirse cambios en el régimen económico o cualquier otra circunstancia que afectase negativamente al importe definido en el apartado 5 o a la percepción por los titulares de los derechos de compensación de los importes establecidos en los párrafos primero y tercero del apartado 4, el Estado tomará las medidas necesarias para la efectividad de lo dispuesto en dichos apartados y la satisfacción en el plazo máximo de veinticinco años citado en el párrafo segundo del apartado 2 de esta disposición adicional.
+7. Los titulares de los proyectos de construcción a los que se refiere el apartado 1 de la presente disposición podrán ceder a terceros, sin compromiso o pacto de recompra explícito o implícito, el derecho de compensación reconocido en la presente Ley.
+En particular, tales derechos podrán cederse, total o parcialmente en una o varias veces, a fondos abiertos que se denominarán «Fondos de Titulización de Activos resultantes de la moratoria nuclear», de los contemplados en la disposición adicional quinta de la Ley 3/1994, de 14 de abril, por la que se adapta la legislación española en materia de entidades de crédito a la Segunda Directiva de Coordinación Bancaria y se introducen otras modificaciones relativas al sistema financiero. A la titulización mediante estos fondos le será de aplicación el número 3 de la disposición adicional quinta de la Ley 3/1994, de 14 de abril, y el régimen previsto en los artículos 5 y 6 de la Ley 19/1992, de 7 de julio, para los Fondos de Titulización Hipotecaria, en todo aquello que no resulte estrictamente específico de las participaciones hipotecarias, con las particularidades siguientes:
+a) El activo de los fondos estará integrado por los derechos a la compensación que se les cedan y los rendimientos producidos por éstos y su pasivo por los valores que sucesivamente se emitan y, en general, por financiación de cualquier otro tipo.
+b) No resultará de aplicación a estos fondos lo dispuesto en el punto 2.o del número 2 y en el párrafo segundo del número 6 del artículo 5 de la Ley 19/1992, de 7 de julio.
+c) El régimen fiscal de estos fondos será el descrito en el número 10 del artículo 5 de la Ley 19/1992, de 7 de julio, para los Fondos de Titulización Hipotecaria y las Sociedades Gestoras de éstos.
+La administración de estos fondos por las sociedades gestoras quedará exenta del Impuesto sobre el Valor Añadido.
+Los Fondos de Titulización de Activos resultantes de la moratoria nuclear podrán, en cada ejercicio, dotar libremente el importe que corresponda a la amortización de los derechos de compensación que figuren en su activo.
+d) Cuando los valores emitidos con cargo a Fondos de Titulización de Activos resultantes de la moratoria nuclear vayan dirigidos a inversores institucionales, tales como Fondos de Pensiones, instituciones de inversión colectiva, o entidades aseguradoras, o a entidades de crédito o a sociedades de valores que realicen habitual y profesionalmente inversiones en valores, que asuman el compromiso de no transmitir posteriormente dichos valores a otros sujetos diferentes a los mencionados, o cuando dichos valores vayan a ser colocados entre inversores no residentes y no se comercialicen en territorio nacional, no será obligatoria su evaluación por una entidad calificadora, su representación mediante anotaciones en cuenta, ni su admisión en un mercado secundario organizado español.
+e) El negocio de cesión o constitución de garantías sobre los derechos de compensación sólo podrá ser impugnado al amparo del párrafo segundo del artículo 878 del Código de Comercio, mediante acción ejercitada por los síndicos de la quiebra, en la que se demuestre la existencia de fraude en la cesión o constitución de gravamen, y quedando en todo caso a salvo el tercero que no hubiera sido cómplice de aquél.
+En caso de quiebra, suspensión de pagos o situaciones similares de la entidad cedente de los derechos de compensación de la moratoria nuclear o de cualquier otra que se ocupe de la gestión de cobro de las cantidades afectadas a tales derechos, las entidades cesionarias de los citados derechos de compensación gozarán de derecho absoluto de separación en los términos previstos en los artículos 908 y 909 del Código de Comercio.
+f) Las sociedades gestoras de Fondos de Titulización Hipotecaria podrán ampliar su objeto social y ámbito de actividades al efecto de poder administrar y representar Fondos de Titulización de Activos resultantes de la moratoria nuclear, pudiendo sustituir, a tal fin, su denominación legal actual por la de «Sociedades Gestoras de Fondos de Titulización». Podrán, además, constituirse otras sociedades para la gestión de los fondos de titulización de activos resultantes de la moratoria nuclear en los términos que reglamentariamente se determinen.
+8. La paralización producirá los efectos previstos en la legislación fiscal para la terminación o puesta en marcha de los proyectos correspondientes.
+9. Si en virtud de las normas aplicables para determinación de la base imponible en el Impuesto sobre Sociedades, ésta resultase negativa como consecuencia de la paralización acordada en esta disposición, su importe podrá ser compensado en un período que no excederá de diez años, contados a partir del ejercicio fiscal en el que la mencionada base imponible resultó negativa.
+10. La amortización correspondiente a los activos afectos a los proyectos cuya construcción se paraliza definitivamente se realizará como máximo en el plazo de diez años a partir de la entrada en vigor de la presente Ley.
+Se añade un párrafo al apartado 3 por la disposición final 9 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-10
+ Se modifica el primer párrafo del apartado 5 por el art. único.67 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifica el último párrafo del apartado 3 por el art. 14 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+
+### Disposición adicional octava
+
+Disposición adicional octava. Modificación de la Ley de Creación del Consejo de Seguridad Nuclear.
+1. Se modifica la letra d) del artículo 2 de la Ley 15/1980, de 22 de abril, de Creación del Consejo de Seguridad Nuclear, que queda redactado en los siguientes términos:
+«d) Llevar a cabo la inspección y control de las instalaciones nucleares y radiactivas durante su funcionamiento, con objeto de asegurar el cumplimiento de todas las normas y condicionamientos establecidos, tanto de tipo general como los particulares de cada instalación, con autoridad para suspender su funcionamiento por razones de seguridad. Asimismo, de conformidad con lo previsto en el artículo 94 de la Ley 25/1964, de 29 de abril, sobre Energía Nuclear, el Consejo de Seguridad Nuclear, iniciado un procedimiento sancionador en materia de seguridad nuclear y protección radiológica, emitirá, con carácter preceptivo, informe en el plazo de dos meses, para la adecuada calificación de los hechos objeto de procedimiento.
+Este informe se emitirá cuando dicha iniciación lo fuera a instancia de otro organismo, o en el supuesto de que habiéndose incoado como consecuencia de petición razonada del propio Consejo de Seguridad Nuclear, consten en dicho procedimiento otros datos además de los comunicados por dicho ente.»
+2. Se modifica el artículo 10 de la Ley 15/1980, de 22 de abril, de Creación del Consejo de Seguridad Nuclear, añadiendo los siguientes apartados:
+«3.m) Los servicios de inspección y control que sea necesario realizar para garantizar al máximo la explotación y funcionamiento adecuados, así como la seguridad de las instalaciones nucleares de fabricación de combustible y la fabricación adecuada del mismo.»
+«5.m) Los servicios de inspección y control reseñados en el apartado m) del número 3 de este artículo quedarán gravados con la cuota única mensual resultante de aplicar el tipo del 0,8 por 100 al valor de la facturación por ventas de elementos combustibles fabricados en la instalación.
+El tributo se devengará mensualmente y deberá autoliquidarse por el sujeto pasivo durante el mes siguiente a cada mes vencido.»
+
+### Disposición adicional novena
+
+Disposición adicional novena. Sociedades cooperativas.
+Las sociedades cooperativas de consumidores y usuarios podrán realizar, en los términos que resulten de las leyes que las regulan, las actividades de distribución, de acuerdo con la presente Ley y las disposiciones que la desarrollen.
+Dichas sociedades cooperativas deberán ajustar su contabilidad a lo dispuesto en el artículo 20.1 y sus actividades a lo dispuesto en el artículo 14 de la presente Ley.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Legislación especial en materia de energía nuclear.
+Las instalaciones de producción de energía eléctrica a las que sea de aplicación la legislación especial en materia de energía nuclear se regirán por la misma además de por lo dispuesto en la presente Ley.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Actualización de sanciones.
+El Gobierno, por Real Decreto, procederá periódicamente a la actualización del importe de las sanciones previstas en el Título X de la presente Ley y en el capítulo XIV de la Ley 25/1964, de 29 de abril, modificado por la disposición adicional sexta de la presente Ley, teniendo en cuenta la variación de los índices de precios al consumo.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Modificación del Real Decreto Legislativo 1302/1986.
+(Derogada)
+Se deroga por la disposición derogatoria única.c) del Real Decreto Legislativo 1/2008, de 11 de enero. Ref. BOE-A-2008-1405
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Costes de «stock» estratégico del combustible nuclear.
+El Gobierno podrá determinar una cuantía que, con cargo a los ingresos por consumo de energía eléctrica, sea destinada a financiar los costes asociados al «stock» estratégico de combustible nuclear.
+Las cantidades a que se refiere la presente disposición tendrán la consideración de costes de diversificación y seguridad de abastecimiento a los efectos de lo previsto en la presente Ley.
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Servidumbres de paso.
+La servidumbre de paso de energía eléctrica, tanto aéreo como subterráneo, a que se refiere el artículo 56 de la presente Ley, constituida a favor de la red de transporte, distribución y suministro, incluye aquellas líneas y equipos de telecomunicación que por ellas puedan transcurrir, tanto si lo son para el servicio propio de la explotación eléctrica, como para el servicio de telecomunicaciones públicas y, sin perjuicio del justiprecio que, en su caso, pudiera corresponder, de agravarse esta servidumbre.
+Igualmente, las autorizaciones existentes a las que se refiere el artículo 54.2 de la presente Ley incluyen aquellas líneas y equipos de telecomunicación que por ellas puedan transcurrir, con el mismo alcance objetivo y autonomía que resultan del párrafo anterior.
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta. Sistemas eléctricos insulares y extrapeninsulares
+1. La planificación eléctrica, que tendrá carácter indicativo salvo en lo que se refiere a instalaciones de transporte, en cuanto afecte a territorios insulares o extrapeninsulares, se realizará de acuerdo con las Comunidades o Ciudades Autónomas afectadas.
+2. Sin perjuicio de lo dispuesto, con carácter general, en el artículo 10 de la presente Ley, en el caso de que en los territorios insulares o extrapeninsulares se produjeran situaciones de riesgo cierto para la prestación del suministro de energía eléctrica o situaciones de las que se pueda derivar amenaza para la integridad física o la seguridad de las personas, de aparatos o instalaciones o para la integridad de la red de transporte o distribución de energía eléctrica, las medidas allí previstas podrán ser también adoptadas por las Comunidades o Ciudades Autónomas afectadas, siempre que se restrinjan a su respectivo ámbito territorial. En dicho supuesto, tales medidas no tendrán repercusiones económicas en el sistema eléctrico, salvo que existiera acuerdo previo del Ministerio de Industria, Energía y Turismo que así lo autorice.
+3. La determinación del gestor o gestores de la red de las zonas eléctricas ubicadas en territorios insulares y extrapeninsulares corresponderá a la respectiva Administración Autonómica.
+Se modifica el apartado 2 por la disposición final 1.5 de la Ley 17/2013, de 29 de octubre. Ref. BOE-A-2013-11332.
+ Se añade por la disposición adicional 17.2 de la Ley 34/1998, de 7 de octubre. Ref. BOE-A-1998-23284
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta. Mecanismos de mercado que fomenten la contratación a plazo.
+El Gobierno podrá establecer por vía reglamentaria mecanismos de mercado que fomenten la contratación a plazo de energía eléctrica. Dichos mecanismos tomarán la forma de una emisión primaria de cierta cantidad de energía eléctrica, equivalente a una potencia determinada, en las condiciones y durante el período de tiempo que se especifiquen en la emisión.
+Esta emisión primaria de energía será realizada por aquellos productores de energía eléctrica que tengan la condición de operadores dominantes en el Sector Eléctrico.
+El Gobierno fijará reglamentariamente las condiciones y el procedimiento de funcionamiento y participación en esta emisión primaria de energía eléctrica, que deberá ser pública, transparente y no discriminatoria.
+Se modifica por el art. único.68 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifica el párrafo primero por el art. 1.14 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+ Se modifican los párrafos segundo y tercero por el art. 21.6 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+ Se añade por el art. 20.9 de la Ley 36/2003, de 11 de noviembre. Ref. BOE-A-2003-20695
+
+### Disposición adicional decimoséptima
+
+Disposición adicional decimoséptima. Devengo de intereses en el supuesto de falta de ingreso por los agentes del sistema eléctrico de las cuotas con destinos específicos.
+En el supuesto de que los agentes del sistema eléctrico a los que corresponda efectuar el ingreso de las cuotas con destinos específicos de conformidad con lo dispuesto en el artículo 6.5 del Real Decreto 2017/1997, de 26 de diciembre, por el que se organiza y regula el procedimiento de liquidación de los costes de transporte, distribución y comercialización a tarifa, de los costes permanentes del sistema y de los costes de diversificación y seguridad de abastecimiento o norma que lo sustituya, no cumplieran con su obligación de ingresar las cantidades que les correspondan, comenzarán a devengarse automáticamente intereses de demora que serán equivalentes al interés legal del dinero incrementado en 1,5 puntos.
+A estos efectos, la Comisión Nacional de Energía les requerirá, inmediatamente después de transcurrido el plazo para efectuar el pago, para que procedan al ingreso de los importes correspondientes, sin perjuicio del devengo automático de los intereses a partir del día siguiente al de la finalización del período establecido para el pago.
+Queda exceptuada de lo dispuesto en los apartados anteriores la tasa aplicable a la prestación de servicios y realización de actividades por la Comisión Nacional de Energía en relación con el sector eléctrico que se regirá por su normativa específica.
+Se autoriza al Ministro de Industria, Turismo y Comercio para dictar cuantas disposiciones sean necesarias en desarrollo y cumplimiento de lo dispuesto en la presente disposición adicional.
+Se modifica por el art. único.69 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se añade por el art. 91.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Redactado conforme a la corrección de errores y errata publica en BOE núm. 79, de 1 de abril de 2004. Ref. BOE-A-2004-5818
+
+### Disposición adicional decimoctava
+
+Disposición adicional decimoctava. Devengo de intereses en el supuesto de falta de pago por los agentes del sistema eléctrico de las liquidaciones.
+En el supuesto de que los agentes del sistema eléctrico a los que corresponda efectuar pagos por liquidaciones de conformidad con lo dispuesto en el artículo 8 del Real Decreto 2017/1997, de 26 de diciembre, por el que se organiza y regula el procedimiento de liquidación de los costes de transporte, distribución y comercialización a tarifa, de los costes permanentes del sistema y de los costes de diversificación y seguridad de abastecimiento o norma que lo sustituya, no cumplieran con su obligación de ingresar en plazo las cantidades que les correspondan, comenzarán a devengarse, sin necesidad de requerimiento previo, intereses de demora que serán equivalentes al interés legal del dinero incrementado en 1,5 puntos.
+Se autoriza al Ministro de Industria, Turismo y Comercio para dictar cuantas disposiciones sean necesarias en desarrollo y cumplimiento de lo dispuesto en la presente disposición adicional.
+Se modifica por el art. único.69 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se añade por el art. 91.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Redactado conforme a la corrección de errores y errata publica en BOE núm. 79, de 1 de abril de 2004. Ref. BOE-A-2004-5818
+
+### Disposición adicional decimonovena
+
+Disposición adicional decimonovena. Capacidad jurídica de los sujetos del Mercado Ibérico de la Electricidad.
+1. Desde la fecha en que entre en vigor el Convenio Internacional relativo a la constitución de un Mercado Ibérico de la Energía Eléctrica entre el Reino de España y la República Portuguesa, de 1 de octubre de 2004, se reconocerá capacidad a los sujetos del sector eléctrico portugués para actuar en los mercados de energía eléctrica previstos en el citado convenio, siempre que se encuentren comprendidos dentro de su artículo 3, y de acuerdo con la normativa vigente en España.
+2. Se habilita al Gobierno para que, mediante real decreto, y una vez que haya entrado en vigor el Convenio Internacional relativo a la constitución de un Mercado Ibérico de la Energía Eléctrica entre el Reino de España y la República Portuguesa, firmado el 1 de octubre de 2004, pueda establecer el régimen jurídico al que deba sujetarse la actuación de los distintos sujetos, para la realización de operaciones de compraventa en los mercados de energía eléctrica previstos en el citado convenio.
+3. Los agentes que actúen por cuenta de otros sujetos del Mercado Ibérico de la Energía Eléctrica, de acuerdo con la normativa que les resulte de aplicación, tendrán la consideración de representantes a los efectos de su actuación en los mercados de energía eléctrica que integran el citado mercado ibérico, y, en consecuencia, tendrán la condición de sujetos a los efectos del artículo 9.
+La acreditación de la condición de representante se realizará mediante la presentación del correspondiente poder notarial.
+Los agentes que actúen como representantes no podrán actuar simultáneamente por cuenta propia y por cuenta ajena.
+Se entiende que un representante actúa por cuenta propia cuando participe de forma directa o indirecta en más de un 50 por ciento del capital de la sociedad que representa.
+Se modifica por el art. único.69 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se añade por el art. 22.11 del Real Decreto-ley 5/2005, de 11 de marzo. Ref. BOE-A-2005-4172
+ Téngase en cuenta que el legislador anuncia la adición de una disposición adicional 18 y puesto que esta ya existe hemos interpretado que la que se adiciona es la disposición adicional 19.
+
+### Disposición adicional vigésima
+
+Disposición adicional vigésima. Planes de viabilidad e incentivos al consumo de carbón autóctono.
+1. El Gobierno, previo informe de la Comisión Delegada para Asuntos Económicos, con carácter excepcional, podrá aprobar planes de viabilidad extraordinarios para aquellas sociedades titulares de instalaciones de producción de energía eléctrica que demuestren especiales dificultades financieras hasta el punto de poder poner en peligro el desarrollo normal de las actividades de la empresa.
+Estos planes de viabilidad extraordinarios se considerarán costes permanentes de funcionamiento del sistema a efectos de lo previsto en el artículo 16.5 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, y se incluirán como tales para el cálculo de la tarifa eléctrica media o de referencia establecida en el Real Decreto 1432/2002, de 27 de diciembre.
+2. Asimismo, el Gobierno, de acuerdo con lo establecido en los artículos 3 y 11 de la Directiva 2003/54/CE del Parlamento Europeo y del Consejo sobre normas comunes para el mercado interior de la electricidad, por motivos de seguridad de suministro, podrá aprobar un sistema de primas hasta un límite máximo de 10 euros por MWh producido, que permita la entrada preferente en funcionamiento de las instalaciones generadoras que utilicen fuentes de energía primaria autóctonas.
+Estas primas se considerarán costes permanentes de funcionamiento del sistema a efectos de lo previsto en el artículo 16.5 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, y se incluirán como tales para el cálculo de la tarifa eléctrica media.
+Se modifica el apartado 1 por el art. único.70 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se añade por el art. 1.15 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+
+### Disposición adicional vigésima primera
+
+Disposición adicional vigésima primera. Suficiencia de los peajes de acceso y desajustes de ingresos de las actividades reguladas del sector eléctrico.
+1. Cuando por la aparición de desajustes temporales durante el año 2013 el fondo acumulado en la cuenta específica a que se refiere el Real Decreto 2017/1997, de 26 de diciembre, por el que se organiza y regula el procedimiento de liquidación de los costes de transporte, distribución y comercialización a tarifa, de los costes permanentes del sistema y de los costes de diversificación y seguridad de abastecimiento, abierta en régimen de depósito arrojara un saldo negativo, éste será liquidado por la Comisión Nacional de los Mercados y la Competencia o, en su caso, el órgano liquidador al que corresponda, en las liquidaciones mensuales aplicando los siguientes porcentajes de reparto:
+"Iberdrola, S. A.": 35,01 por 100.
+"Hidroeléctrica del Cantábrico, S. A.": 6,08 por 100.
+"Endesa, S. A.": 44,16 por 100.
+"EON España, S. L.": 1,00 por 100.
+"GAS Natural S.D.G., S. A.": 13,75 por 100.
+Las empresas tendrán derecho a recuperar las aportaciones por este concepto en las liquidaciones correspondientes a los quince años siguientes al ejercicio en que se hubieran producido. Las cantidades aportadas por este concepto serán devueltas reconociéndose un tipo de interés en condiciones equivalentes a las del mercado que se fijará en la orden por la que se revisen los peajes y cargos.
+Con anterioridad al 1 de diciembre de 2014, se realizará una liquidación complementaria de la liquidación provisional 14 del ejercicio 2013, incluyendo las cantidades que hasta esa fecha se hayan incorporado provenientes de las correspondientes partidas de ingresos.
+El desajuste de ingresos del sistema eléctrico del ejercicio 2013 se determinará a partir de esta liquidación complementaria de dicho ejercicio.
+2. Hasta el 1 de enero de 2013, las disposiciones por las que se aprueben los peajes de acceso reconocerán de forma expresa los déficit de ingresos que, en su caso, se estime que puedan producirse en las liquidaciones de las actividades reguladas en el sector eléctrico.
+Asimismo, se entenderá que se producen desajustes temporales, si como resultado de las liquidaciones de las actividades reguladas en cada período, resultara un déficit de ingresos superior al previsto en la disposición por la que se aprobaron los peajes de acceso correspondientes. Dicho desajuste temporal se reconocerá de forma expresa en las disposiciones de aprobación de los peajes de acceso del período siguiente.
+Cuando por la aparición de desajustes temporales, el fondo acumulado en la cuenta específica a que se refiere el Real Decreto 2017/1997, de 26 de diciembre, abierta en régimen de depósito arrojara un saldo negativo, éste será liquidado por la Comisión Nacional de los Mercados y la Competencia en las liquidaciones mensuales aplicando los siguientes porcentajes de reparto:
+"Iberdrola, S. A.": 35,01 por 100.
+"Hidroeléctrica del Cantábrico, S. A.": 6,08 por 100.
+"Endesa, S. A.": 44,16 por 100.
+"EON España, S. L.": 1,00 por 100.
+"GAS Natural S.D.G., S. A.": 13,75 por 100.
+Estos porcentajes de reparto podrán ser modificados por real decreto, cuando se produzcan desinversiones significativas que afecten a las empresas en la actividad de distribución, cuando se produzcan cambios estructurales sustanciales en la actividad de generación que así lo justifiquen o como consecuencia de inversiones o desinversiones significativas en activos de generación.
+Las empresas tendrán derecho a recuperar las aportaciones por este concepto en las 14 liquidaciones correspondientes al período en que se modifiquen las tarifas de acceso para el reconocimiento de dicho desajuste temporal. Las cantidades aportadas por este concepto serán devueltas reconociéndose un tipo de interés en condiciones equivalentes a las del mercado que se fijará en la orden por la que se aprueban los peajes.
+3. Si el importe del desajuste temporal definido en los apartados 1 y 2 no fuera conocido en el momento de la aprobación de la disposición por la que se aprueban los peajes de acceso del período siguiente, en dicha disposición se reconocerá de forma expresa, incluyendo los intereses que pudieran devengar, los importes que, en su caso, se estimen vayan a ser financiados.
+Se habilita a la Dirección General de Política Energética y Minas para modificar dichos importes por los realmente financiados por cada una de las empresas, cuando se disponga de la información de la liquidación 14 del ejercicio correspondiente. Para el año 2013 se tendrá en cuenta la información de la liquidación complementaria de la liquidación 14 de dicho ejercicio.
+La diferencia entre los importes reconocidos con la información de la liquidación 14 y los resultantes de la liquidación definitiva del correspondiente ejercicio, tendrán la consideración de coste o ingreso liquidable del sistema del ejercicio en que se produzca. Para el año 2013 se tendrá en cuenta la información de la liquidación complementaria de la liquidación 14.
+4. No obstante, para los años 2009, 2010, 2011 y 2012, el déficit de ingresos previsto en la disposición por la que se aprobaron los peajes de acceso correspondientes no será superior a 3.500 millones de euros, 3.000 millones de euros, 3.000 millones de euros y 1.500 millones de euros, respectivamente.
+Asimismo, los desajustes temporales de liquidaciones del sistema eléctrico que se produzcan en 2010, hasta una cuantía máxima de 2.500 millones de euros, y en 2012, en el importe de 4.109.213 miles de euros, tendrán la consideración de déficit de ingresos del sistema de liquidaciones eléctrico para 2010 y 2012, respectivamente, que generará derechos de cobro que podrán ser cedidos por sus titulares al Fondo de Titulización del Déficit del Sistema Eléctrico, considerándose el importe para el año 2012 como definitivo a efectos de la cesión.
+5. Los déficit del sistema de liquidaciones eléctrico generarán derechos de cobro consistentes en el derecho a percibir un importe de la facturación mensual por peajes de acceso o cargos de los años sucesivos hasta su satisfacción. Las cantidades aportadas por este concepto serán devueltas reconociéndose un tipo de interés en condiciones equivalentes a las del mercado que se fijará en la orden por la que se aprueban los peajes.
+Los pagos que realice la Comisión Nacional de los Mercados y la Competencia o, en su caso, el órgano encargado de las liquidaciones, necesarios para satisfacer los derechos de cobro tendrán consideración de costes del sistema y se recaudarán a través de los cargos establecidos de acuerdo a lo dispuesto en la presente Ley hasta su satisfacción total.
+Para la financiación de dichos déficit, los derechos de cobro correspondientes se podrán ceder a un fondo de titulización que se constituirá a estos efectos y se denominará Fondo de Titulización del Déficit del Sistema Eléctrico, según lo contemplado en la disposición adicional quinta de la Ley 3/1994, de 14 de abril, por la que se adapta la legislación española en materia de entidades de crédito a la Segunda Directiva de Coordinación Bancaria y se introducen otras modificaciones relativas al sistema financiero, siendo de aplicación lo dispuesto en el Real Decreto 926/1998, de 14 mayo, por el que se regulan los fondos de titulización de activos y las sociedades gestoras de fondos de titulización. La constitución del Fondo de Titulización del Déficit del Sistema Eléctrico requerirá el informe previo favorable del Ministerio de Economía y Competitividad.
+El activo del fondo de titulización estará constituido por:
+a) Derechos de cobro generados y no cedidos a terceros por los titulares iniciales del derecho hasta 10.000 millones de euros a fecha de 31 de diciembre de 2008. El precio de cesión de dichos derechos y las condiciones de cesión de los mismos se determinará por real decreto, a propuesta conjunta de los titulares de los Ministerios de Industria, Energía y Turismo y de Economía y Competitividad.
+b) Los derechos de cobro a que dé lugar la financiación de los déficit generados desde el 1 de enero de 2009 hasta el 31 de diciembre de 2012, cuyas características, así como precio y condiciones de cesión, se establecerán por real decreto, a propuesta conjunta de los titulares de los Ministerios de Industria, Energía y Turismo y de Economía y Competitividad.
+6. El pasivo del fondo de titulización estará constituido por los instrumentos financieros que se emitan a través de un procedimiento competitivo que se regulará por real decreto, a propuesta conjunta de los titulares de los Ministerios de Industria, Energía y Turismo y de Economía y Competitividad.
+7. La sociedad gestora del fondo de titulización será designada por la Comisión, que a estos efectos se cree, dependiente del Ministerio de Industria, Energía y Turismo que la presidirá. Dicha Comisión estará compuesta por representantes del Ministerio de Industria, Energía y Turismo y del Ministerio de Economía y Competitividad. En atención a la naturaleza de la función asignada a la Comisión, esta podrá contar con el asesoramiento técnico de la Comisión Nacional de los Mercados y la Competencia, y de la Comisión Nacional del Mercado de Valores por las especiales condiciones de experiencia y conocimientos que concurren en tales organismos.
+La designación, por la Comisión, de la sociedad gestora deberá realizarse de acuerdo a los principios de objetividad, transparencia y publicidad, y entre sociedades gestoras que cuenten con profesionales de reconocida y probada experiencia en la materia.
+En su organización y funcionamiento, la Comisión se regirá por lo establecido en la Ley 30/1992, de 26 de noviembre, y reglamentariamente se establecerá su composición en cuanto a número de miembros y rango jerárquico.
+La extinción de esta Comisión se producirá automáticamente una vez alcanzado el fin para el que fue creada.
+8. Asimismo, para cubrir eventuales desfases de tesorería entre ingresos y pagos del fondo de titulización, por acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, se podrá constituir una línea de crédito en condiciones de mercado.
+9. Al amparo de lo establecido en el artículo 114 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, se autoriza a la Administración General del Estado, hasta el 31 de diciembre de 2013, a otorgar avales en garantía de las obligaciones económicas exigibles al Fondo de Titulización del Déficit del Sistema Eléctrico, derivadas de las emisiones de instrumentos financieros que realice dicho Fondo con cargo a los derechos de cobro que constituyan el activo del mismo:
+Los importes máximos para el otorgamiento de los avales a que se refiere el apartado serán los que determinen las correspondientes leyes de presupuestos generales del Estado.
+El otorgamiento de los avales deberá ser acordado por el titular del Ministerio competente para el otorgamiento de los avales en garantía de las obligaciones económicas exigibles al Fondo de Titulización del Déficit del Sistema Eléctrico, de acuerdo con lo establecido en la Ley 47/2003, de 26 de noviembre, General Presupuestaria y sólo podrá efectuarse una vez constituido el fondo.
+De producirse la ejecución del aval frente a la Administración General del Estado, ésta se subrogará, respecto de los importes ejecutados por cualquier concepto, en todos los derechos y acciones que tuvieran reconocidos los acreedores frente al Fondo de Titulización del Déficit del Sistema Eléctrico.
+En el caso de ejecución de los avales a que se refiere este apartado, se autoriza a la Secretaría General del Tesoro y Política Financiera para que pueda efectuar los pagos correspondientes a la ejecución de los avales mediante operaciones de tesorería con cargo al concepto específico que se fije a tal fin. Con posterioridad a la realización de dichos pagos, la Secretaría General del Tesoro y Política Financiera procederá a la aplicación definitiva al presupuesto de gastos de los pagos realizados en el ejercicio, salvo los efectuados en el mes de diciembre, que se aplicarán al presupuesto de gastos en el primer trimestre del año siguiente.
+Se modifica por la disposición final 1 de la Ley 24/2013, de 26 de diciembre. Ref. BOE-A-2013-13645.
+ Se modifica el apartado 4 por el art. 1.5 del Real Decreto-ley 9/2013, de 12 de julio. Ref. BOE-A-2013-7705.
+ Se modifican los apartados 1 y 4 por la disposición final 4.1 y 2 del Real Decreto-Ley 29/2012, de 28 de diciembre. Ref. BOE-A-2012-15764.
+ Se modifica el apartado 4 por el art. 1.8 del Real Decreto-ley 14/2010, de 23 de diciembre. Ref. BOE-A-2010-19757.
+ Se modifica por el art. 21 del Real Decreto-ley 6/2010, de 9 de abril. Ref. BOE-A-2010-5879
+ Se modifica por el art. 1 del Real Decreto-ley 6/2009, de 30 de abril. Ref. BOE-A-2009-7581
+ Se añade por el art. 1.15 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+
+### Disposición adicional vigésima segunda
+
+Disposición adicional vigésimo segunda. Plazos de resolución de conflictos en relación con la gestión de las redes.
+Las reclamaciones administrativas contra un gestor de red de transporte o de distribución podrán presentarse ante el organismo responsable de la resolución de las mismas, quien, emitirá una decisión en el plazo de los dos meses siguientes a la recepción de la reclamación. Este plazo podrá prorrogarse por dos meses si el organismo responsable solicita información adicional. Podrá prorrogarse por más tiempo con el consentimiento del reclamante.
+Se añade por el art. único.71 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Disposición adicional vigésima tercera
+
+Disposición adicional vigésimo tercera. Sociedades filiales de "Red Eléctrica Corporación, S.A."
+1. Para el ejercicio de las funciones correspondientes al operador del sistema y gestor de la red de transporte definidas en el apartado 2 del artículo 34, la empresa «Red Eléctrica de España, S.A.U.» procederá a la creación, dentro de su estructura, de una unidad orgánica específica que ejercerá en exclusiva las funciones de operador del sistema eléctrico y gestor de la red de transporte con la adecuada separación contable y funcional, dando cumplimiento a los criterios establecidos en el artículo 14, respecto del resto de actividades de la empresa.
+El director ejecutivo de la unidad orgánica específica a que se refiere el párrafo anterior será nombrado y destituido por el Consejo de Administración de la sociedad «Red Eléctrica Corporación, S.A.», con el visto bueno del Ministro de Industria, Energía y Turismo.
+El personal de la Unidad que ejerza las funciones como operador del sistema y gestor de la red de transporte suscribirá el código de conducta al que hace referencia el artículo 14 de la presente Ley garantizando su independencia respecto al resto de unidades del grupo empresarial.
+2. A la sociedad matriz le será de aplicación lo dispuesto en el apartado 1 del artículo 34 de la presente Ley y tendrá asimismo las siguientes limitaciones:
+a) Podrá participar en cualquier persona física o jurídica, siempre que la suma de su participación directa o indirecta en el capital de esta sociedad no supere el 5 por ciento del capital social ni ejerza derechos políticos por encima del 3 por ciento. Estas acciones no podrán sindicarse a ningún efecto.
+b) Aquellos sujetos que realicen actividades en el sector eléctrico y aquellas personas físicas o jurídicas que, directa o indirectamente, participen en el capital de dichos sujetos con una cuota superior al 5 por ciento, no podrán ejercer derechos políticos en dicha sociedad matriz por encima del 1 por ciento, sin perjuicio de las limitaciones establecidas en el apartado 2 del artículo 34 de la presente Ley para generadores y comercializadores.
+Las limitaciones anteriores no serán aplicables a la participación correspondiente a la Sociedad Estatal de Participaciones Industriales, que mantendrá, en todo caso, una participación en la sociedad matriz Red Eléctrica Corporación, S.A., no inferior al 10 por ciento.
+3. La Comisión Nacional de Energía estará legitimada para el ejercicio de las acciones legales tendentes a hacer efectivas las limitaciones impuestas en este precepto.
+A efectos de computar la participación en dicho accionariado, se atribuirán a una misma persona física o jurídica, además de las acciones y otros valores poseídos o adquiridos por las entidades pertenecientes a su mismo grupo, tal y como éste se define en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, aquellas cuya titularidad corresponda:
+a) A las personas que actúen en nombre propio pero por cuenta de aquélla, de forma concertada o formando con ella una unidad de decisión. Se entenderá, salvo prueba en contrario, que actúan por cuenta de una persona jurídica o de forma concertada con ella los miembros de su órgano de administración.
+b) A los socios junto a los que aquélla ejerza el control sobre una entidad dominada conforme a lo previsto en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+En todo caso, se tendrá en cuenta tanto la titularidad dominical de las acciones y demás valores como los derechos de voto que se disfruten en virtud de cualquier título.
+4. El incumplimiento de la limitación en la participación en el capital a la que se refiere la presente disposición se considerará infracción muy grave a los efectos señalados en el artículo 60 de la presente Ley, siendo responsables las personas físicas o jurídicas que resulten titulares de los valores o a quien resulte imputable el exceso de participación en el capital o en los derechos de voto, de conformidad con lo dispuesto en los apartados anteriores. En todo caso, será de aplicación el régimen sancionador previsto en la presente Ley.
+5. Red Eléctrica Corporación, S.A. no podrá transmitir a terceros las acciones de las filiales que realicen actividades reguladas.
+6. Red Eléctrica Corporación, S.A. tendrá prohibida la realización de actividades distintas de la operación del sistema, el transporte y la gestión de la red de transporte a través de las filiales reguladas incluida la toma de participación en sociedades que realicen otras actividades.
+7. Los derechos políticos correspondientes a las acciones u otros valores que posean las personas que participen en el capital de la sociedad matriz Red Eléctrica Corporación, S.A., que excedan los límites máximos señalados en esta disposición, quedarán en suspenso desde la entrada en vigor del real decreto-ley por el que se transponen directivas en materia de mercados interiores de electricidad y gas natural y en materia de comunicaciones electrónicas, en tanto no se adecuen a dichos límites.
+Se modifica por el art. 1.17 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+ Se añade por el art. único.71 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Disposición adicional vigésima cuarta
+
+Disposición adicional vigésimo cuarta. Suministro de último recurso.
+A partir del 1 de enero de 2009, queda suprimido el sistema tarifario integral, estableciéndose las tarifas de último recurso.
+A partir del 1 de enero de 2010, sólo podrán permanecer acogidos a tarifa de último recurso aquellos consumidores con suministros en baja tensión.
+A partir del año 2011 podrán acogerse a tarifas de último recurso los consumidores de energía eléctrica cuya potencia contratada sea inferior a 50 kW.
+Se autoriza al Ministerio de Industria, Turismo y Comercio a modificar el límite de potencia establecido en el párrafo anterior si así lo recomiendan las condiciones del mercado en relación con los consumidores de baja tensión.
+Asimismo el Gobierno podrá determinar los precios que deberán pagar aquellos consumidores que transitoriamente no dispongan de un contrato de suministro en vigor con un comercializador.
+Se habilita al Gobierno a adelantar los plazos establecidos en la presente disposición adicional.
+Se añade por el art. único.71 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Disposición adicional vigésima quinta
+
+Disposición adicional vigésimo quinta. Plan de Fomento de las Energías Renovables.
+El Gobierno, modificará el Plan de Fomento de las Energías Renovables, para adecuarlo a los objetivos que ha establecido a este respecto la Unión Europea del 20% para 2020, manteniendo el compromiso que este plan establecía del 12% para 2010. Estos objetivos serán tenidos en cuenta en la fijación de las primas a este tipo de instalaciones.
+Se añade por el art. único.71 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Disposición adicional vigésima sexta
+
+Disposición adicional vigésima sexta. Mecanismos de cooperación internacional para el cumplimiento de los compromisos derivados de la directiva de energías renovables.
+1. La Administración General del Estado habilitará el marco que permita la puesta en marcha de los mecanismos de cooperación previstos en la normativa comunitaria para el fomento del uso de energía procedente de fuentes renovables y, en particular, de los contemplados en la Directiva 2009/28/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, relativa al fomento del uso de energía procedente de fuentes renovables y por la que se modifican y se derogan las Directivas 2001/77/CE y 2003/30/CE. Dentro de los mecanismos de cooperación internacional que de esta forma podrán facilitarse, se incluirán, al menos, los siguientes:
+a) Las transferencias estadísticas entre Estados miembros de cantidades determinadas de energía procedente de fuentes renovables.
+b) La puesta en marcha de proyectos conjuntos con otros Estados miembros.
+c) La puesta en marcha de proyectos conjuntos con terceros países.
+d) La coordinación con los sistemas de apoyo a las energías procedentes de fuentes renovables instaurados en otros Estados miembros.
+La aplicación de estos mecanismos garantizará en todo momento la seguridad del sistema eléctrico y no podrá suponer en ningún caso una disminución o pérdida de la energía de origen renovable producida en España.
+2. La puesta en marcha de los correspondientes proyectos o actuaciones singulares estará supeditada a su aprobación por el Ministerio de Industria, Energía y Turismo que, a tal fin, tendrá en cuenta la afección a las estructuras de transporte de energía y la planificación energética en su conjunto.
+Se añade por el art. 1.18 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+### Disposición adicional vigésima séptima
+
+Disposición adicional vigésima séptima. Registro Administrativo de autoconsumo de energía eléctrica.
+Para el adecuado seguimiento de los consumidores acogidos a las modalidades de suministro de energía eléctrica previstas en el artículo 9.g) de esta ley y aquellos otros asociados a instalaciones de producción que estén conectadas en el interior de su red o a través de una línea directa, se crea, en el Ministerio de Industria, Energía y Turismo, el Registro Administrativo de autoconsumo de energía eléctrica, que contendrá la información relativa a los consumidores y sus instalaciones asociadas.
+Reglamentariamente se establecerá su organización.
+Se añade por el art. 1.6 del Real Decreto-ley 9/2013, de 12 de julio. Ref. BOE-A-2013-7705.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Aplicación de disposiciones anteriores.
+En tanto no se dicten las normas de desarrollo de la presente Ley que sean necesarias para la puesta en práctica de alguno de sus preceptos, continuarán aplicándose las correspondientes disposiciones en vigor en materia de energía eléctrica.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Efecto de autorizaciones anteriores.
+1. Quienes a la entrada en vigor de la presente Ley sean titulares de instalaciones autorizadas podrán continuar en el ejercicio de sus actividades dentro de los términos de la autorización. Estas autorizaciones se entenderán transferidas a las sociedades que deban constituirse en su momento, de acuerdo con la disposición transitoria quinta, o de acuerdo con la exigencia de adoptar la forma de sociedad mercantil, que se contiene en el artículo 9.1, apartado g), para los distribuidores.
+2. Los expedientes de autorización de instalaciones eléctricas iniciados con anterioridad a la entrada en vigor de la presente Ley se tramitarán hasta su resolución conforme a la legislación anterior.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Renovación de la Comisión Nacional del Sistema Eléctrico.
+A partir de la entrada en vigor de esta Ley la actual Comisión del Sistema Eléctrico pasará a denominarse Comisión Nacional del Sistema Eléctrico, asumiendo las competencias atribuidas a esta última por la presente Ley. Los miembros de la actual Comisión Nacional lo seguirán siendo de la Comisión Nacional del Sistema Eléctrico hasta el final del período de cinco años para el que fueron nombrados.
+Transcurrido el período citado en el párrafo anterior se procederá a la designación de los nuevos miembros del Consejo de Administración de la Comisión Nacional del Sistema Eléctrico. En el período de tres meses desde su designación, se celebrará un sorteo entre la totalidad de los miembros del Consejo de Administración de la Comisión Nacional del Sistema Eléctrico para determinar la primera renovación, de acuerdo con lo previsto en el apartado 3 del artículo 6 de la presente Ley.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Carbón autóctono.
+El Gobierno podrá establecer los incentivos necesarios para conseguir que los titulares de instalaciones de producción de energía eléctrica consuman carbón autóctono en cantidades que cubran las fijadas anualmente como objetivo por el Ministerio de Industria y Energía. Este objetivo respetará, en todo caso, a partir del año 2004, el límite a que se refiere el artículo 25.1 de la presente Ley.
+Dichos incentivos incorporarán, en su caso, una prima máxima promedio equivalente a una peseta por KWH para aquellos grupos de producción y en la medida que hayan efectivamente consumido carbón autóctono y por la cuantía equivalente a su consumo únicamente de carbón autóctono.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Separación de actividades.
+1. La exigencia de separación de actividades reguladas y no reguladas mediante su ejercicio por personas jurídicas diferentes establecidas en el artículo 14 de la presente Ley será de aplicación a las entidades que en el momento de su entrada en vigor realicen actividades eléctricas de generación y distribución conjuntamente, cuando el Gobierno así lo disponga por Real Decreto, que será de aplicación antes del 31 de diciembre del año 2000. La Comisión Nacional del Sistema Eléctrico emitirá un informe antes del 31 de diciembre de 1998 sobre los efectos que se puedan producir en las sociedades afectadas derivadas de circunstancias o compromisos existentes en el momento de entrada en vigor de la presente Ley, así como sobre la incidencia de la separación jurídica en el tratamiento retributivo de las sociedades, proponiendo una fecha para su efectividad. En cualquier caso, entre la emisión del informe de la Comisión Nacional del Sistema Eléctrico y la decisión del Gobierno por Real Decreto prevista, deberá mediar un plazo mínimo de un año.
+Las personas jurídicas que se constituyan con posterioridad a la entrada en vigor de la presente Ley, únicamente podrán obtener autorizaciones para la construcción de instalaciones de producción de energía eléctrica o para actuar como comercializadoras si acreditan el cumplimiento de las exigencias que se derivan de su artículo 14.
+2. A las aportaciones de los activos afectos a las diferentes actividades eléctricas que se efectúen en cumplimiento de la exigencia de separación de actividades prevista en esta Ley se les aplicará el régimen previsto para las aportaciones de ramas de actividad en la Ley 29/1991, de 16 de diciembre, modificada por la Ley 43/1995, de 27 de diciembre, reguladora del Impuesto sobre Sociedades, de adecuación de determinados conceptos impositivos a las Directivas y Reglamentos de las Comunidades Europeas, aun cuando se realicen con anterioridad al acuerdo del Gobierno referido en el apartado 1.
+Los aranceles de Notarios, Registradores Mercantiles y de la Propiedad correspondientes a los actos necesarios de adaptación a la exigencia de separación de actividades impuesta por la presente Ley quedarán reducidos al 10 por 100.
+3. Hasta que, de acuerdo con el apartado 1 de esta disposición, se establezca la exigencia de separación de actividades, las empresas eléctricas deberán proceder a separar contablemente sus actividades eléctricas reguladas.
+Las transacciones relativas a producción, intercambios intracomunitarios e internacionales, transporte y distribución con los distintos sujetos del sistema eléctrico serán imputadas separadamente, actuando las empresas en los distintos conceptos de generadores y distribuidores en forma segregada.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Costes de transición a la competencia.
+(Suprimida)
+Se suprime por el art. 1.16 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+ Se modifica por el art. 1 de la Ley 9/2001, de 4 de junio. Ref. BOE-A-2001-10565
+ Véase la Resolución de 20 de diciembre de 2001, sobre conversión a euros de las cuantías destacadas. Ref. BOE-A-2001-24828
+ Se modifica por el art. 1 del Real Decreto-Ley 2/2001, de 2 de febrero. Ref. BOE-A-2001-2423
+ Se modifica por el art. 107 de Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Inscripción en Registros Administrativos.
+Las instalaciones de producción de energía eléctrica que a la entrada en vigor de la presente Ley se encontraran autorizadas comunicarán al Ministerio de Industria y Energía y al órgano competente de la Comunidad Autónoma, en el plazo de tres meses, los datos a que se refiere el apartado 4 del artículo 21, a fin de quedar formalmente inscritos en el Registro Administrativo de Instalaciones de Producción de Energía Eléctrica.
+En el mismo plazo de tres meses, los distribuidores y clientes que de acuerdo con lo previsto en la presente Ley tengan la condición de cualificados, comunicarán al Ministerio de Industria y Energía y al órgano competente de la Comunidad Autónoma sus datos, en especial los relativos a su consumo, para la inscripción en el Registro de Distribuidores, Comercializadores y Clientes Cualificados previsto en el apartado 4 del artículo 45.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Primas a la producción por cogeneración y régimen económico del Real Decreto 2366/1994, de 9 de diciembre.
+(Suprimida)
+Se suprime por el art. 1.17 del Real Decreto-ley 7/2006, de 23 de junio. Ref. BOE-A-2006-11285
+ Esta modificación entra en vigor cuando se produzca la revisión del régimen retributivo de las instralaciones de régimen especial, según estable la disposición final 3. Téngase en cuenta el Real Decreto 661/2007, de 25 de mayo. Ref. BOE-A-2007-10556
+ Se modifica el apartado 2, párrafo primero y se añade el apartado 3 por el art. 17.1 y 2 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. «Red Eléctrica de España, Sociedad Anónima».
+1. "Red Eléctrica de España, Sociedad Anónima", ejercerá las funciones atribuidas en la presente Ley al operador del sistema y al gestor de la red de transporte.
+La adecuación de las participaciones sociales a lo dispuesto en el artículo 34.1 deberá realizarse en un plazo máximo de 12 meses desde la entrada en vigor de la Ley 53/2002, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, mediante la transmisión de acciones o, en su caso, de derechos de suscripción preferente. Dentro del plazo citado deberán modificarse los estatutos sociales para introducir la limitación de participación máxima establecida en dicho artículo.
+La limitación de la participación máxima a que se refiere el artículo 34.1 no será aplicable a la participación correspondiente a la Sociedad Estatal de Participaciones Industriales, que mantendrá una participación en el capital de "Red Eléctrica de España, Sociedad Anónima", de, al menos, el 25 por 100 hasta el 31 de diciembre del año 2003, manteniendo posteriormente, en todo caso, una participación del 10 por 100.
+A las transmisiones de elementos patrimoniales derivadas de la aplicación de esta norma les será aplicable el régimen fiscal de las transmisiones de activos realizadas en cumplimiento de disposiciones con rango de Ley de la normativa de defensa de la competencia.
+2. La sociedad mercantil que, de acuerdo con el artículo 33 de la presente Ley, ha de asumir las funciones del operador del mercado será constituida por «Red Eléctrica de España, Sociedad Anónima», que suscribirá aquella parte del capital que no sea atendida por otros accionistas, debiendo en el plazo de seis meses proceder a la enajenación de dicha participación.
+3. Sin perjuicio de lo previsto en el artículo 13.4 de la presente Ley, los contratos que, teniendo por objeto intercambios intracomunitarios e internacionales de energía eléctrica a largo plazo hubieran sido suscritos por «Red Eléctrica de España, S. A.» con anterioridad a la entrada en vigor de la presente Ley, mantendrán su vigencia hasta que se produzca su extinción.
+La energía que tenga su origen en los mencionados contratos, se retribuirá al precio y en las condiciones previstas en los mismos y se integrará en el mercado de producción de energía eléctrica en las condiciones que se establezcan reglamentariamente.
+Se modifica el apartado 3 por el art. único.72 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifica el apartado 1 por el art. 92.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Beneficios de la Ley 82/1980, de 30 de diciembre.
+Las instalaciones de producción eléctrica que, conforme a disposiciones y resoluciones anteriores a la entrada en vigor de la presente Ley, disfruten de alguno de los beneficios regulados por la Ley 82/1980, de 30 de diciembre, mantendrán su derecho a los mismos después de dicha entrada en vigor.
+Reglamentariamente se establecerán las condiciones y procedimiento de adaptación de tales instalaciones al régimen de producción en régimen especial regulado en la presente Ley.
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima. Régimen retributivo especial para distribuidores.
+Hasta el 1 de enero de 2010, los distribuidores que vinieran operando con anterioridad al 1 de enero de 1997, a los que no les es de aplicación el Real Decreto 1538/1987, de 11 de diciembre, sobre determinación de la tarifa de las empresas gestoras del servicio eléctrico, podrán acogerse al régimen tarifario que para estos distribuidores apruebe el Gobierno, que garantizará, en todo caso, una retribución económica adecuada.
+No obstante lo anterior, cuando el Gobierno apruebe una modificación del régimen económico de la actividad de distribución establecida en el Real Decreto 2819/1998, de 23 de diciembre, por el que se regulan las actividades de transporte y distribución de energía eléctrica, que considere las características de estos distribuidores, deberán acogerse obligatoriamente al mismo cuando entre en vigor y en ningún caso antes del 1 de enero de 2007.
+De acuerdo con lo establecido en el artículo 9.3 de la presente Ley, los distribuidores a que se refiere la presente disposición transitoria podrán adquirir energía como clientes cualificados. Tales adquisiciones supondrán la renuncia definitiva en esa cuantía al régimen tarifario que se establezca de acuerdo con el párrafo anterior.
+Estos distribuidores deberán adquirir, en todo caso, la energía eléctrica como sujetos cualificados, en aquella parte de su consumo que exceda del realizado en el ejercicio económico de 1997, incrementado en el porcentaje de su crecimiento vegetativo que reglamentariamente se determine.
+Se modifica por el art. 2.2 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+
+### Disposición transitoria duodécima
+
+Disposición transitoria duodécima. Gestor de la red de distribución.
+(Suprimida)
+Se suprime por el art. único.73 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Disposición transitoria decimotercera
+
+Disposición transitoria decimotercera. Consumidores cualificados.
+(Suprimida)
+Se suprime por el art. único.73 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Disposición transitoria decimocuarta
+
+Disposición transitoria decimocuarta. Traspaso de funciones de la Oficina de Compensación de Energía Eléctrica.
+La Comisión Nacional del Sistema Eléctrico asumirá las funciones de la Oficina de Compensación de Energía Eléctrica (OFICO), en la forma que determine el Gobierno.
+Reglamentariamente se regulará el traspaso de tales funciones y de los medios necesarios para su desempeño. Efectuado el traspaso se extinguirá la citada Oficina.
+
+### Disposición transitoria decimoquinta
+
+Disposición transitoria decimoquinta. Sistemas insulares y extrapeninsulares.
+Para la actividad de producción de energía eléctrica que se desarrolle en los sistemas insulares y extrapeninsulares a que se refiere el artículo 12 de la presente Ley, se establece un período de transición a la competencia hasta el 31 de diciembre del año 2000 siempre que los mismos se mantengan aislados del sistema eléctrico peninsular.
+Durante este período transitorio no será exigible la separación jurídica de actividades, siendo no obstante exigible la separación contable de las actividades reguladas y no reguladas a partir de la entrada en vigor de la presente Ley.
+El período de transición a la competencia a que se refiere el párrafo primero no impedirá el otorgamiento por la Administración competente de autorizaciones de instalaciones de producción de energía eléctrica previstas en el artículo 21 de la presente Ley.
+Se añade el párrafo tercero por la disposición adicional 17.3 de la Ley 34/1998, de 7 de octubre. Ref. BOE-A-1998-23284
+
+### Disposición transitoria decimosexta
+
+Disposición transitoria decimosexta. Plan de Fomento del Régimen Especial para las Energías Renovables.
+A fin de que para el año 2010 las fuentes de energía renovable cubran como mínimo el 12 por 100 del total de la demanda energética de España, se establecerá un Plan de Fomento de las Energías Renovables, cuyos objetivos serán tenidos en cuenta en la fijación de las primas.
+
+### Disposición transitoria decimoséptima
+
+Uno. Los productores de energía eléctrica cuya potencia eléctrica instalada en régimen ordinario en todo el territorio peninsular, a la entrada en vigor del presente Real Decreto-ley, exceda del 40 por 100 del total, no podrán incrementar la potencia instalada durante un plazo de cinco años. Si la participación en dicha potencia instalada es inferior al 40 por 100 pero superior al 20 por 100, el plazo será de tres años. Ambos plazos se computarán desde la entrada en vigor del presente Real Decreto-ley.
+El Gobierno, mediante Real Decreto, podrá variar los porcentajes y plazos a que se refiere el párrafo anterior en función de la evolución y la estructura empresarial del sector.
+A los efectos de computar los anteriores porcentajes, se tendrán en cuenta las siguientes reglas:
+a) Se incluirán en dichos porcentajes todas las instalaciones que el productor tenga en régimen de propiedad, tanto en los casos de explotación directa como en el supuesto de cesión a terceros por cualquier título, así como aquellos casos en los que el productor tenga suscritos contratos de explotación en exclusiva con el titular de la instalación.
+b) Se entenderá que pertenecen al mismo productor todas aquellas instalaciones de producción de energía eléctrica cuya titularidad, según lo dispuesto en el apartado anterior, corresponda a una entidad que forme parte del mismo grupo, de acuerdo con lo dispuesto en el artículo 4 de la Ley 28/1988, de 28 de julio, del Mercado de Valores.
+Dos. Quedarán excluidas de lo estipulado en el apartado anterior aquellas nuevas instalaciones de generación, que a la entrada en vigor del presente Real Decreto-ley hayan finalizado el trámite de información pública a que se refiere el Real Decreto 2617/1966, de 20 de octubre, sobre autorización de instalaciones eléctricas.
+Aquellas instalaciones que habiendo iniciado el procedimiento administrativo de autorización con anterioridad a la entrada en vigor del presente Real Decreto-ley, no hayan finalizado el trámite de información pública, podrán ser autorizadas por la Dirección General de Política Energética y Minas, a continuar con dicho procedimiento, previo informe de la Comisión Nacional de la Energía, atendiendo a la estructura del mercado de generación y a las necesidades de potencia instalada del sistema eléctrico.
+Tres. En todo caso, los productores de electricidad que pudieran verse afectados por lo previsto en la presente disposición podrán solicitar autorizaciones de nuevas instalaciones, sin incrementar la capacidad instalada, condicionadas al cierre o venta de instalaciones de producción de potencia equivalente.
+Se añade por el art. 16 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 154, de 28 de junio de 2000. Ref. BOE-A-2000-12137
+
+### Disposición transitoria decimoctava
+
+Disposición transitoria decimoctava. Adaptación del operador del mercado.
+1. Hasta el 30 de junio de 2006, la limitación de la participación máxima del 5 por ciento del capital establecido en el apartado 1 del artículo 33 de esta ley no será aplicable a la participación correspondiente a otras entidades gestoras de mercados eléctricos sujetas a compromiso internacional con España, quienes podrán tener una participación en el capital de hasta un 10 por ciento. Hasta la citada fecha, esta participación no computará en el 40 por ciento del capital de los sujetos que realicen actividades en el sector eléctrico establecido en el apartado 1 del artículo 33 de esta ley.
+Asimismo, hasta la citada fecha, previa autorización de la Comisión Nacional de Energía, el operador del mercado podrá participar en el capital de otras entidades gestoras de mercados eléctricos sujetas a compromisos internacionales con España hasta un 10 por ciento.
+2. Aquellos otros accionistas del operador del mercado que a 31 de diciembre de 2003 superasen la limitación de la participación máxima del 5 por ciento del capital establecido en el apartado 1 del artículo 33 de esta ley, deberán adecuar sus participaciones a la citada limitación antes del 30 de junio de 2004.
+3. A partir del 30 de junio de 2004, corresponderá a la sociedad "Operador del Mercado Ibérico de Energía-Polo español Sociedad Anónima" realizar las funciones encomendadas en esta ley al operador del mercado.
+Se añade por el art. 91.5 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Disposición transitoria decimonovena
+
+Disposición transitoria decimonovena. Retribución del operador del mercado.
+En función de la conformación del mercado ibérico de la electricidad y hasta la culminación del proceso de integración del OMEL-OMIP, sin perjuicio de lo establecido en el artículo 16, apartado 9, una parte de la retribución del operador del mercado podrá tener la consideración de coste permanente de funcionamiento del sistema.
+Su cuantía será establecida por el Gobierno con carácter anual.
+Asimismo, los precios a los que se refiere el artículo 16.9 podrán ser fijados transitoriamente por el Gobierno.
+Se añade por el art. único.74 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Disposición transitoria vigésima
+
+Disposición transitoria vigésima. Consumidores vulnerables.
+Hasta que se desarrolle lo establecido en el apartado 4 del artículo 44 de la presente ley, se considerará que un consumidor es vulnerable cuando se encuentre dentro del ámbito de aplicación del artículo 2 y disposición transitoria segunda del Real Decreto-ley 6/2009, de 30 de abril, por el que se adoptan determinadas medidas en el sector energético y se aprueba el bono social, así como en la disposición adicional segunda del Real Decreto-ley 14/2010, de 23 de diciembre, por el que se establecen medidas urgentes para la corrección del déficit tarifario del sector eléctrico.
+Las empresas comercializadoras deberán poner a disposición de los consumidores un servicio de atención telefónica y un número de teléfono, ambos gratuitos, para atender las solicitudes de información sobre los aspectos relativos a la contratación y suministro.
+Se añade por el art. 1.19 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+### Disposición transitoria vigésima primera
+
+Disposición transitoria vigésima primera. Certificación del gestor de la red de transporte.
+El gestor de la red de transporte, para ejercer como tal en los términos previstos en la normativa, deberá ser previamente certificado por la Comisión Nacional de Energíaen relación con la propiedad de la red de transporte y el cumplimiento de los requisitos establecidos en el artículo 34.2 de la presente Ley, según el procedimiento que se establece en los artículos 34 bis y 34 ter, en su caso.
+Se añade por el art. 1.19 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Queda derogada la Ley 40/1994, de 30 de diciembre, de Ordenación del Sistema Eléctrico Nacional, salvo la disposición adicional octava y cualquier otra norma en cuanto se oponga a lo dispuesto en esta Ley.
+
+### Disposición final primera
+
+Disposición final primera. Carácter de la Ley.
+1. La presente Ley tiene carácter básico, de acuerdo con lo establecido en el artículo 149.1.13.a y 25.a de la Constitución.
+2. Se excluyen de este carácter básico las referencias a los procedimientos administrativos, que serán regulados por la Administración competente, ajustándose en todo caso a lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. Los preceptos del Título IX, relativos a expropiación forzosa y servidumbres, son de aplicación general al amparo de lo previsto en el artículo 149.1.8.a y 18.a de la Constitución.
+4. Las instalaciones a que se refiere el artículo 149.1.22.a de la Constitución se regirán por lo dispuesto en esta Ley y en sus disposiciones de desarrollo.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 27 de noviembre de 1997.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

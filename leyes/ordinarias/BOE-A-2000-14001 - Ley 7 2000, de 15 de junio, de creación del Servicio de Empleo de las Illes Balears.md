@@ -1,0 +1,168 @@
+# Ley 7/2000, de 15 de junio, de creación del Servicio de Empleo de las Illes Balears.
+
+- Identificador BOE: `BOE-A-2000-14001`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2000-14001
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta que las menciones que se hacen a la consejería competente en materia de trabajo deberán entenderse hechas a la consejería competente en materia de educación, según establece la disposición adicional del Decreto-ley 4/2011, de 5 de agosto. Ref. BOIB-i-2011-90083
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Islas Baleares ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 27.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+Los artículos 40 y 41 de la Constitución, encuadrados en el capítulo III del título I de la Constitución, relativo a los principios rectores de la política social y económica del estado social y democrático de derecho, disponen que los poderes públicos realizarán una política orientada hacia el pleno empleo y prevén la garantía de la formación, la readaptación profesional y la protección en caso de desempleo.
+Asimismo, el Convenio número 88 de la Organización Internacional del Trabajo, ratificado por España, obliga a los estados miembros a ofrecer un servicio de empleo que cumpla las condiciones, recogidas posteriormente en la Constitución. Igualmente conviene recoger las obligaciones derivadas de la Carta Social Europea y del Pacto Internacional de Derechos Económicos, Sociales y Culturales, ambos ratificados por el Estado español en 1980 y 1977, respectivamente, sin prejuzgar su organización, que en todo caso vendrá determinada por la configuración territorial y la distribución de competencias de cada estado miembro.
+El marco anteriormente expuesto de protección internacional –en la cual rige la aplicación del principio de subsidiariedad– y de previsión constitucional, no exime sino que impulsa la activa participación de la comunidad autónoma que, de acuerdo con la competencia ejecutiva en materia de trabajo y la potestad de regular la organización, el régimen y el funcionamiento de sus instituciones de autogobierno, previstas en los artículos 12.15 y 10.1 del Estatuto de Autonomía de las Islas Baleares, debe participar mediante la fijación de unas directrices adecuadas a las condiciones sociales y laborales propias de las Illes Balears.
+La situación actual de las Illes Balears, ante la futura transferencia de las competencias actualmente atribuidas al Instituto Nacional de Empleo, aconseja la creación de un servicio de gestión de la ocupación para las Illes Balears, que con carácter de organismo público, autónomo, gratuito, de acceso universal, participación tripartita y paritaria de los agentes sociales y económicos en sus órganos gestores, definirá la planificación, gestión y coordinación de las actuaciones relativas a las políticas de ocupación, con la efectiva participación de los agentes económicos y sociales en su organización y en su funcionamiento.
+El Servicio de Empleo de las Illes Balears tendrá como principal cometido ordenar de manera integrada la gestión de la política de empleo con la finalidad de planificar, gestionar y coordinar las políticas de ocupación. Ejercerá funciones concretas de fomento de la ocupación, información, orientación, intermediación y formación profesional, ocupacional y continua, en el marco de la política económica general, y constituirá un observatorio laboral de análisis y prospección del mercado de trabajo, que supondrá un instrumento de apoyo imprescindible para definir y programas adecuadamente las políticas de formación y de ocupación del ente público.
+En relación con la gestión del empleo se pretende la máxima eficacia en el adecuado empleo de los trabajadores, a la vez que posibilita a los ocupadores la contratación de los trabajadores apropiados a las necesidades planteadas. En cuanto a la intermediación laboral se pretende, mediante la necesaria movilidad profesional, ajustar la oferta a la demanda de empleo en el territorio de las Illes, con la programación adecuada de la formación profesional vinculada a las necesidades del mercado laboral.
+
+### Artículo 1
+
+Artículo 1.
+1. Se crea el Servicio de Empleo de las Illes Balears como organismo autónomo dotado de personalidad jurídica propia y plena capacidad de obrar, adscrito a la consejería competente en materia de trabajo.
+2. Mediante los decretos del presidente de las Illes Balears por los que se establezca la estructura orgánica de las consejerías de la Administración de la comunidad autónoma de las Illes Balears se podrá modificar la adscripción del Servicio a favor de la consejería a la cual le correspondan las funciones de dirección, evaluación y coordinación de los resultados de la actividad del Servicio de Empleo de las Illes Balears.
+3. La finalidad de la entidad creada es la planificación, la gestión y la coordinación de las políticas activas de empleo, con funciones concretas de información, de orientación y de intermediación en el mercado laboral, así como el fomento del empleo en todas sus vertientes y el desarrollo de la formación profesional para el empleo.
+Se modifica por la disposición final 7.1 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica por el art.único del Decreto-ley 4/2011, de 5 de agosto. Ref. BOIB-i-2011-90083
+ Se modifica el párrafo segundo por la disposición final 5 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+ Se modifica el párrafo segundo por el art. 33.1 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 2
+
+Artículo 2.
+1. El Servicio de Empleo de las Illes Balears podrá otorgar el carácter de centro colaborador a aquellas entidades, de naturaleza pública o privada, que tengan o pretendan tener una dedicación con los objetivos del Servicio.
+2. Los requisitos para la adquisición de la condición de centro colaborador será la que se determine reglamentariamente.
+
+### Artículo 3
+
+Artículo 3.
+1. El Servicio de Empleo de las Illes Balears estará integrado por los siguientes órganos:
+a) Órganos superiores de dirección.
+– El Consejo de Dirección.
+– La Presidencia.
+b) Órganos unipersonales de dirección y gestión.
+– La Vicepresidencia.
+– La Dirección.
+c) Órganos de participación y asesoramiento.
+– La Comisión Asesora.
+2. Se podrán crear otros órganos de carácter participativo y de asesoramiento de ámbito territorial, de acuerdo con lo establecido en la normativa de desarrollo de la presente ley.
+3. El Consejo de Dirección es el órgano superior colegiado de dirección que establece las líneas maestras de actuación del Servicio de Empleo de las Illes Balears, y sus funciones son las siguientes:
+a) Elaborar los criterios de actuación del Servicio.
+b) Emitir un informe previo a la aprobación del Plan de empleo de las Illes Balears.
+c) Aprobar el plan de actuación del Servicio de Empleo de las Illes Balears en su ámbito competencial.
+d) Aprobar el anteproyecto de presupuestos del Servicio.
+e) Aprobar la memoria anual del Servicio.
+4. La Presidencia es el órgano superior de dirección unipersonal. El cargo recae en la persona titular de la consejería de adscripción. Le corresponden las siguientes atribuciones:
+a) Ostentar la representación superior del Servicio y del Consejo de Dirección.
+b) Ejercer la autoridad superior sobre el personal del Servicio.
+c) Ejercer las funciones que sean inherentes a la condición de presidente del Consejo de Dirección.
+d) Dirigir, coordinar y gestionar la actividad del Servicio.
+e) Dirigir la elaboración y la ejecución del plan de actuación del Servicio de Empleo de las Illes Balears.
+f) Coordinar las actuaciones del Servicio con las administraciones públicas implicadas en las políticas de empleo y en la formación profesional, y, sobretodo, con el Servicio Público Estatal de Empleo.
+g) Autorizar los gastos, contraer obligaciones y ordenar pagos, de conformidad con la normativa autonómica vigente en materia de finanzas de la comunidad autónoma.
+h) Subscribir convenios en las materias de competencia del Servicio de Empleo de las Illes Balears y ser su órgano de contratación.
+i) Conceder ayudas y subvenciones.
+5. La Vicepresidencia es el órgano unipersonal encargado de la gestión de los servicios comunes. El cargo recae en la persona titular de la secretaría general de la consejería de adscripción. Sus funciones son las siguientes:
+a) Substituir al presidente en casos de ausencia, vacante, enfermedad y cualquier otra circunstancia que le impida ejercer sus funciones, de acuerdo con lo establecido reglamentariamente.
+b) Gestionar el patrimonio y los asuntos generales del Servicio de Empleo de las Illes Balears.
+c) Gestionar los recursos humanos, económicos y jurídicos del Servicio.
+d) Elaborar el anteproyecto de presupuestos del Servicio de Empleo de las Illes Balears y controlar su ejecución.
+6. La Dirección es el órgano ejecutivo ordinario del Servicio de Empleo de las Illes Balears de carácter unipersonal, y tiene las siguientes atribuciones:
+a) Auxiliar al presidente en las actividades para el cumplimiento de las funciones del Servicio.
+b) Elaborar y presentar las memorias anuales y los programas de actuación, así como dirigir su ejecución y controlar su adecuado cumplimiento.
+c) Dirigir, coordinar, planificar, controlar y proponer las actividades del Servicio necesarias para cumplir los fines y las funciones que tenga asignadas.
+d) Gestionar la intermediación en el mercado laboral de las Illes Balears.
+e) Velar por la utilización racional y eficiente de los medios materiales del Servicio.
+f) Ejecutar los acuerdos del Consejo de Dirección y velar por su cumplimiento.
+g) Informar al presidente y al Consejo de Dirección de todas las cuestiones que se refieran a la gestión del Servicio.
+h) Ejecutar las funciones que le encomiende el presidente o el Consejo de Dirección.
+i) Ejercer las demás funciones que le delegue el presidente.
+Se modifica por la disposición final 7.2 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica el apartado 1 por el art. 33.2 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 4
+
+Artículo 4.
+La composición y el régimen de funcionamiento del Servicio de Empleo de las Illes Balears y de sus órganos, serán la que se determine reglamentariamente, mediante decreto aprobado por el Consejo de Gobierno, a propuesta del titular de la consejería competente en materia de trabajo.
+
+### Artículo 5
+
+Artículo 5.
+La Comisión Asesora es el órgano colegiado de participación tripartito y paritario para la consulta y el asesoramiento de la actuación ordinaria del Servicio, y sus funciones son las siguientes:
+a) Proponer las líneas de actuación que regirán el funcionamiento ordinario del Servicio, de acuerdo con las directrices del Consejo de Dirección.
+b) Realizar el seguimiento y la evaluación de los programas de actuación del Servicio, así como de la gestión integral y territorial.
+c) Proponer las medidas que se estimen necesarias para el mejor cumplimiento de las finalidades del Servicio.
+d) Ejercer todas las demás funciones de consulta que le sean encomendadas por el Consejo de Dirección o el presidente.
+Se modifica por la disposición final 7.3 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica el apartado 3 y se añaden los apartados 4 y 5 por el art. 33.3 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 6
+
+Artículo 6.
+El nombramiento y el cese del director del Servicio de Empleo de las Illes Balears se realizarán mediante decretos del Consejo de Gobierno, a propuesta del titular de la consejería con competencias en materia de trabajo. El director del citado servicio tendrá la consideración de alto cargo.
+
+### Artículo 7
+
+Artículo 7.
+1. El personal del Servicio de Empleo de las Illes Balears estará integrado por el personal de la Administración de las Illes Balears que le sea adscrito, así como por el personal de nuevo ingreso que se incorpore de acuerdo con la normativa vigente, y por el personal transferido del INEM.
+2. El procedimiento de acceso será el mismo que el aplicado para el ingreso en la Administración de la comunidad autónoma.
+
+### Artículo 8
+
+Artículo 8.
+El sistema presupuestario del Servicio de Empleo de las Illes Balears será el establecido por la Ley 1/1986, de 5 de febrero, de finanzas de la Comunidad Autónoma de las Islas Baleares, y por las leyes de presupuestos de cada ejercicio.
+El presupuesto del Servicio de Empleo de las Illes Balears se incluirá en los presupuestos generales de la comunidad autónoma de les Illes Balears, de manera diferenciada como sección presupuestaria.
+
+### Disposición adicional
+
+Disposición adicional.
+La Consejería de Hacienda y Presupuestos realizará las modificaciones presupuestarias necesarias para habilitar los créditos necesarios para la puesta en funcionamiento del Servicio de Empleo de las Illes Balears y el cumplimiento de esta ley.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La Consejería de Hacienda y Presupuestos realizará las modificaciones presupuestarias necesarias para habilitar los créditos necesarios para la puesta en funcionamiento del Servicio de Empleo de las Illes Balears y el cumplimiento de esta ley.
+Se numera como disposición adicional primera por la disposición final 7.4 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Su anterior denominación era disposición adicional.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Todas las menciones que la Ley 7/2000, de 15 de junio, y la normativa reglamentaria de desarrollo realizan a la consejería competente en materia de trabajo se entenderán hechas a la consejería de adscripción que se fije mediante los decretos del presidente de las Illes Balears por los que se establezca la estructura orgánica de las consejerías de la Administración de la comunidad autónoma de las Illes Balears.
+Se añade por la disposición final 7.5 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Las funciones y las competencias de los órganos colegiados y unipersonales del Servicio de Empleo de las Illes Balears, reguladas en los artículos 3 y 5 de la presente ley, tienen rango reglamentario y, en consecuencia, podrán ser modificadas, alteradas o suprimidas mediante los Estatutos del Servicio, en el marco de lo establecido en el artículo 35.2 de la Ley 7/2010, de 21 de julio, del sector público instrumental de la comunidad autónoma de las Illes Balears.
+Se añade por la disposición final 7.6 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno de las Illes Balears para dictar las disposiciones reglamentarias para el desarrollo y la aplicación de esta ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+1. Se faculta al Gobierno de las Illes Balears para adoptar las medidas necesarias para la disolución del Consorcio para el Desarrollo de la Formación Ocupacional (CODEFOC).
+2. En el momento de la disolución, el Servicio de Empleo de las Illes Balears se subrogará en los derechos y en las obligaciones derivados de los convenios, contratos y conciertos suscritos por el Consorcio para el Desarrollo de la Formación Ocupacional, excepto en aquéllos referidos a materia de personal, que se regirán según los puntos siguientes.
+3. El personal del CODEFOC se integrará en el Servicio de Empleo de las Illes Balears conservando todos sus derechos, y se estará a lo que establece el punto 4 de esta disposición.
+4. Una vez aprobada la relación de puestos de trabajo del Servicio de Empleo de las Illes Balears, el personal en relación laboral indefinida del CODEFOC, deberá optar por:
+a) Integrarse como funcionario interino en dicha relación de puestos de trabajo.
+b) Continuar como personal laboral manteniendo la relación laboral indefinida hasta que sus funciones sean asumidas por funcionarios de carrera, de acuerdo con un procedimiento reglado.
+Redactado el apartado 2 conforme a la corrección de errores publicada en el BOIB núm. 88, de 18 de julio de 2000. Ref. BOE-A-2000-16562
+
+### Disposición final tercera
+
+Disposición final tercera.
+Esta ley empezará a regir al día siguiente de su publicación en el «Butlletí Oficial de les Illes Balears».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las autoridades a los que correspondan la hagan guardar.
+Palma, 15 de junio de 2000.–Eberhard Grosske Fiol, Consejero de Trabajo y Formación.–Francesc Antich i Oliver, Presidente.

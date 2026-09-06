@@ -1,0 +1,107 @@
+# Ley 2/1988, de 5 de febrero, sobre creación del "Instituto Vasco de la Mujer/Emakumearen Euskal Erakundea".
+
+- Identificador BOE: `BOE-A-2012-3546`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-3546
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 2/1988, de 5 de febrero, sobre creación de Emakunde-Instituto Vasco de la Mujer", según se establece en la disposición final 1.1 de la Ley 4/2005, de 18 de febrero. Ref. BOE-A-2011-17779#df
+
+## Preámbulo
+
+Se hace saber a todos los ciudadanos de Euskadi que el Parlamento Vasco ha aprobado la Ley 2/1988, de 5 de febrero, sobre creación del «Instituto Vasco de la Mujer/Emakumearen Euskal Erakundea». Por consiguiente, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades que la guarden y hagan guardarla
+EXPOSICIÓN DE MOTIVOS
+El reconocimiento de la igualdad entre el hombre y la mujer en normas jurídicas de diferente rango, así como la expresa prohibición en las mismas de cualquier tipo de discriminación por razón de sexo, es un rasgo común a todas las sociedades democráticas. No obstante, es clara la insuficiencia práctica de los preceptos meramente declarativos.
+Las propias normas que contienen los mandatos citados, como hace el artículo 9 del Estatuto, se dirigen imperativamente a todos los poderes públicos para que lleven a cabo una acción positiva sobre los elementos de la realidad, facilitando la efectividad de los derechos y removiendo los obstáculos que la impidan o dificulten, asignando a dichos poderes la obligación de corregir una realidad no deseada a través de todo tipo de medidas a su alcance.
+La eliminación efectiva de todas las formas de discriminación de la mujer y la adopción de las medidas necesarias para fomentar su participación en todos los ámbitos de nuestra comunidad son cuestiones que el Parlamento Vasco considera prioritarias.
+Por lo tanto, en virtud de lo establecido en el Estatuto de Autonomía del País Vasco, en la Constitución y en la Convención sobre la eliminación de todas las formas de discriminación contra la mujer aprobada por la Asamblea General de la ONU en diciembre de 1979 y ratificada por el Estado español en febrero de 1984, este Parlamento asume la tarea de impulsar una acción coordinada en todo el ámbito de la Comunidad Autónoma procediendo a la creación de un Instituto que responda a los objetivos planteados. Se trata así de atender a una cada vez más amplia demanda social que requiere una intervención directa de los poderes públicos vascos en este tema.
+
+### Artículo 1
+
+Artículo 1. Naturaleza y régimen jurídico.
+1. Se crea el Emakunde-Instituto Vasco de la Mujer como Organismo Autónomo de carácter administrativo adscrito a la Presidencia o Lehendakaritza.
+2. El Emakunde-Instituto Vasco de la Mujer, que estará dotado de personalidad jurídica propia, se regirá por lo dispuesto en la presente Ley y en las Leyes de Principios Ordenadores de la Hacienda General del País Vasco de 22 de junio de 1982, de Régimen Presupuestario de Euskadi de 20 de diciembre de 1983 y demás legislación aplicable a los Entes Institucionales de la Comunidad Autónoma.
+Se modifica por la disposición final 1.3 de la Ley 4/2005, de 18 de febrero. Ref. BOE-A-2011-17779#df
+
+### Artículo 2
+
+Artículo 2. Fines.
+El fin esencial del Emakunde-Instituto Vasco de la Mujer es la consecución de la igualdad real y efectiva del hombre y la mujer en todos los ámbitos de la vida política, económica, cultural y social del País Vasco. En este sentido, el Instituto se fija como objetivo la promoción de las condiciones que faciliten la igualdad entre los sexos y la remoción de los obstáculos que impidan su plenitud de hecho y de derecho, y la eliminación de todas las formas de discriminación de la mujer en Euskadi.
+Se modifica por la disposición final 1.3 de la Ley 4/2005, de 18 de febrero. Ref. BOE-A-2011-17779#df
+
+### Artículo 3
+
+Artículo 3. Funciones.
+Corresponde a Emakunde-Instituto Vasco de la Mujer el impulso, asesoramiento, planificación y evaluación de las políticas públicas de igualdad de mujeres y hombres en el ámbito de la Comunidad Autónoma de Euskadi, incluidas las relativas a la violencia machista contra las mujeres. En particular, le corresponde ejercer las siguientes funciones:
+a) Elaboración de las directrices destinadas a conseguir los fines anteriormente mencionados e impulsar su aplicación por los distintos poderes públicos de la Comunidad Autónoma.
+b) Seguimiento y evaluación de las políticas de igualdad y de la legislación autonómica por lo que respecta a su adecuación al principio de igualdad de mujeres y hombres, así como al grado de cumplimiento de la normativa antidiscriminatoria.
+c) Elaboración de propuestas de legislación y de reformas legislativas dirigidas a eliminar las trabas que dificulten o impidan la igualdad real y efectiva entre ambos sexos, así como proposición de la normativa de desarrollo de la presente ley.
+d) Emisión de informes y dictámenes en relación con la igualdad de mujeres y hombres en el curso del procedimiento de elaboración de las disposiciones generales que promueva la Administración de la Comunidad Autónoma.
+e) Diseño de métodos para la integración de la perspectiva de género en todas las áreas políticas.
+f) Propuesta a los órganos competentes de las administraciones públicas vascas de las condiciones mínimas básicas y comunes por lo que respecta a las funciones y a la capacitación del personal de las diferentes entidades, órganos y unidades competentes en materia de igualdad de mujeres y hombres.
+g) Asesoramiento y colaboración con las instituciones públicas vascas en materia de igualdad de mujeres y hombres y en el logro de los fines anteriormente mencionados, incluido el diseño de los planes de formación.
+h) Impulso y coordinación de los cometidos de la Comisión Interdepartamental para la Igualdad de Mujeres y Hombres y de la Comisión Interinstitucional para la Igualdad de Mujeres y Hombres, así como impulso de las medidas de coordinación necesarias entre los diversos poderes públicos de la Comunidad Autónoma con relación a los programas que tengan incidencia en la situación de las mujeres y en la igualdad de mujeres y hombres, incluida la violencia machista contra las mujeres.
+i) Estudio de las diferentes condiciones, necesidades e intereses de mujeres y hombres, así como las desigualdades que de ello se derivan en la vida política, económica, cultural y social, promoviendo especialmente la realización de estudios dirigidos a perfilar la política que hay que realizar en las distintas áreas de actuación.
+j) Asesoramiento y establecimiento de medidas de apoyo a las empresas y organizaciones para el desarrollo de planes, programas y actividades dirigidas a la consecución de la igualdad de mujeres y hombres.
+k) Propuesta al órgano competente de los requisitos y las condiciones mínimas básicas y comunes aplicables a la homologación de entidades para la prestación de servicios en materia de igualdad de mujeres y hombres.
+l) Impulso y propuesta en materia de prestación de servicios dirigidos a garantizar el acceso a sus derechos a las mujeres que sufren discriminación múltiple.
+m) Impulso y propuesta en materia de prestación y adecuación de servicios que favorezcan la conciliación corresponsable de la vida personal, familiar y laboral de mujeres y hombres.
+n) Sensibilización a la ciudadanía, realizando las actividades y campañas de sensibilización, promoción y difusión que se consideren oportunas, sobre el significado e importancia de la igualdad de mujeres y hombres y sobre la necesidad de trabajar en su consecución y en el empoderamiento de las mujeres.
+o) Establecimiento de relaciones y cauces de participación con asociaciones, fundaciones y otros entes y organismos que en razón de sus fines o funciones contribuyan a la consecución de los objetivos del instituto.
+p) Establecimiento de relaciones y cauces de participación con instituciones y organismos análogos de otras comunidades autónomas, del Estado y de la comunidad internacional.
+Se modifica por la disposición final 1.1 de la Ley 1/2022, de 3 de marzo. Ref. BOE-A-2022-4849
+ Se modifican las letras b) y c) y se suprime la p) por el art. 4 y 5 de la Ley 3/2012, de 16 de febrero. Ref. BOE-A-2012-3752
+ Se modifica por la disposición final 1.2 de la Ley 4/2005, de 18 de febrero. Ref. BOE-A-2011-17779#df
+
+### Artículo 4
+
+Artículo 4. Plan de actuación, informe y memoria anual.
+1. El Instituto presentará al Gobierno un plan de medidas dirigidas a eliminar las trabas que impidan o dificulten la igualdad real y efectiva entre ambos sexos, para su aplicación en el ámbito de la Comunidad Autónoma.
+2. Así mismo, el Instituto presentará al Gobierno un informe sobre la evaluación de la situación de la mujer en Euskadi y una memoria sobre la actuación de los poderes públicos en ese campo, en los que se hará referencia al grado de cumplimiento de los objetivos del citado plan. El referido informe se elaborará, en su caso, en colaboración con el organismo competente en materia de estadística del Gobierno Vasco.
+3. En el acuerdo del Consejo de Gobierno por el que se apruebe el plan referido en el párrafo 1 se determinará su vigencia, así como el momento en que se habrán de presentar al Gobierno el informe y la memoria referidos en el párrafo anterior.
+Se modifica por la disposición final 1.2 de la Ley 1/2022, de 3 de marzo. Ref. BOE-A-2022-4849
+
+### Artículo 5
+
+Artículo 5. Órganos de dirección.
+Los órganos rectores del Instituto son:
+a) El Consejo de Dirección.
+b) El Director.
+
+### Artículo 6
+
+Artículo 6. El Consejo de Dirección.
+1. El Consejo de Dirección estará integrado por los siguientes miembros:
+Presidente: El Lehendakari del Gobierno Vasco.
+Vicepresidente: El Director del Instituto.
+Vocales: Cuatro representantes de la Administración de la Comunidad Autónoma, con rango, al menos, de Director, designados por el Gobierno de entre los propuestos por los Departamentos con competencia sobre las siguientes materias:
+a) Educación.
+b) Cultura.
+c) Trabajo.
+d) Seguridad Social.
+e) Sanidad.
+f) Consumo.
+Tres representantes de las Diputaciones Forales, con rango, al menos, equivalente al del grupo anterior, designados por sus respectivos Consejos de Gobierno.
+Tres representantes de los Ayuntamientos de la Comunidad Autónoma, cuyo procedimiento de designación se establecerá reglamentariamente.
+Un representante de la Comisión de Derechos Humanos del Parlamento Vasco, designado para cada legislatura mediante elección de entre sus miembros.
+Seis personas designadas por el Parlamento Vasco para cada legislatura en razón de su acreditada trayectoria personal o profesional en favor de la igualdad entre los sexos.
+2. El Consejo de Dirección actuará en Pleno y en Comisión Permanente. Su composición, funciones y régimen de funcionamiento se determinarán reglamentariamente.
+
+### Artículo 7
+
+Artículo 7. El Director.
+El Director del Instituto será nombrado y cesado mediante Decreto.
+
+### Artículo 8
+
+Artículo 8. Presupuesto.
+Para el cumplimiento de sus fines, el Emakunde-Instituto Vasco de la Mujer contará con un presupuesto anual propio, dentro de los Presupuestos Generales de la Comunidad Autónoma.
+Se modifica por la disposición final 1.3 de la Ley 4/2005, de 18 de febrero. Ref. BOE-A-2011-17779#df
+
+### Disposición final
+
+Disposición final.
+Se autoriza al Gobierno para dictar las disposiciones necesarias para el desarrollo y aplicación de la presente Ley.
+
+Vitoria-Gasteiz, 16 de febrero de 1988.–El Lehendakari, José Antonio Ardanza Garro.

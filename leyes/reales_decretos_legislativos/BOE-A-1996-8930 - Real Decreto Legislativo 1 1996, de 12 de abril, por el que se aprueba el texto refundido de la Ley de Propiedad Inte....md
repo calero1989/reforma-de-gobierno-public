@@ -1,0 +1,3102 @@
+# Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia.
+
+- Identificador BOE: `BOE-A-1996-8930`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La disposición final segunda de la Ley 27/1995, de 11 de octubre, de incorporación al Derecho español de la Directiva 93/98/CEE, del Consejo, de 29 de octubre, relativa a la armonización del plazo de protección del derecho de autor y de determinados derechos afines, autorizó al Gobierno para que, antes del 30 de junio de 1996, aprobara un texto que refundiese las disposiciones legales vigentes en materia de propiedad intelectual, regularizando, aclarando y armonizando los textos que hubieran de ser refundidos. El alcance temporal de esta habilitación legislativa es el relativo a las disposiciones legales que se encontrarán vigentes a 30 de junio de 1996.
+En consecuencia, se ha elaborado un texto refundido que se incorpora como anexo a este Real Decreto Legislativo, y que tiene por objeto dar cumplimiento al mandato legal.
+En su virtud, a propuesta de la Ministra de Cultura, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 12 de abril de 1996,
+D I S P O N G O :
+
+### Artículo único
+
+Artículo único. Objeto de la norma.
+Se aprueba el texto refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia, que figura como anexo al presente Real Decreto legislativo.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas las siguientes Leyes:
+1. Ley 22/1987, de 11 de noviembre, de Propiedad Intelectual.
+2. Ley 20/1992, de 7 de julio, de modificación de la Ley 22/1987, de 11 de noviembre, de Propiedad Intelectual.
+3. Ley 16/1993, de 23 de diciembre, de incorporación al Derecho español de la Directiva 91/250/CEE, de 14 de mayo, sobre la protección jurídica de programas de ordenador.
+4. Ley 43/1994, de 30 de diciembre, de incorporación al Derecho español de la Directiva 92/100/CEE, de 19 de noviembre, sobre derechos de alquiler y préstamo y otros derechos afines a los derechos de autor en el ámbito de la propiedad intelectual.
+5. Ley 27/1995, de 11 de octubre, de incorporación al Derecho español de la Directiva 93/98/CEE, del Consejo, de 29 de octubre, relativa a la armonización del plazo de protección del derecho de autor y de determinados derechos afines.
+6. Ley 28/1995, de 11 de octubre, de incorporación al Derecho español de la Directiva 93/83/CEE, del Consejo, de 27 de septiembre, sobre coordinación de determinadas disposiciones relativas a los derechos de autor y derechos afines a los derechos de autor en el ámbito de la radiodifusión vía satélite y de la distribución por cable.
+Téngase en cuenta que la sentencia del TS de 1 de marzo de 2001 Ref. BOE-A-2001-9551 declara subsistente el art. 109.1 de la Ley derogada por el apartado 1
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+Este Real Decreto legislativo entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 12 de abril de 1996.
+JUAN CARLOS R.
+La Ministra de Cultura,
+CARMEN ALBORCH BATALLER
+
+## TEXTO
+
+TEXTO REFUNDIDO DE LA LEY DE PROPIEDAD INTELECTUAL
+
+## LIBRO I
+
+LIBRO PRIMERO
+De los derechos de autor
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Hecho generador.
+La propiedad intelectual de una obra literaria, artística o científica corresponde al autor por el solo hecho de su creación.
+
+### Artículo 2
+
+Artículo 2. Contenido.
+La propiedad intelectual está integrada por derechos de carácter personal y patrimonial, que atribuyen al autor la plena disposición y el derecho exclusivo a la explotación de la obra, sin más limitaciones que las establecidas en la Ley.
+
+### Artículo 3
+
+Artículo 3. Características.
+Los derechos de autor son independientes, compatibles y acumulables con:
+1.º La propiedad y otros derechos que tengan por objeto la cosa material a la que está incorporada la creación intelectual.
+2.º Los derechos de propiedad industrial que puedan existir sobre la obra.
+3.º Los otros derechos de propiedad intelectual reconocidos en el Libro II de la presente Ley.
+
+### Artículo 4
+
+Artículo 4. Divulgación y publicación.
+A efectos de lo dispuesto en la presente Ley, se entiende por divulgación de una obra toda expresión de la misma que, con el consentimiento del autor, la haga accesible por primera vez al público en cualquier forma; y por publicación, la divulgación que se realice mediante la puesta a disposición del público de un número de ejemplares de la obra que satisfaga razonablemente sus necesidades estimadas de acuerdo con la naturaleza y finalidad de la misma.
+
+## TÍTULO II
+
+Sujeto, objeto y contenido
+
+## CAPÍTULO I
+
+Sujetos
+
+### Artículo 5
+
+Artículo 5. Autores y otros beneficiarios.
+1. Se considera autor a la persona natural que crea alguna obra literaria, artística o científica.
+2. No obstante, de la protección que esta Ley concede al autor se podrán beneficiar personas jurídicas en los casos expresamente previstos en ella.
+
+### Artículo 6
+
+Artículo 6. Presunción de autoría, obras anónimas o seudónimas.
+1. Se presumirá autor, salvo prueba en contrario, a quien aparezca como tal en la obra, mediante su nombre, firma o signo que lo identifique.
+2. Cuando la obra se divulgue en forma anónima o bajo seudónimo o signo, el ejercicio de los derechos de propiedad intelectual corresponderá a la persona natural o jurídica que la saque a la luz con el consentimiento del autor, mientras éste no revele su identidad.
+
+### Artículo 7
+
+Artículo 7. Obra en colaboración.
+1. Los derechos sobre una obra que sea resultado unitario de la colaboración de varios autores corresponden a todos ellos.
+2. Para divulgar y modificar la obra se requiere el consentimiento de todos los coautores. En defecto de acuerdo, el Juez resolverá.
+Una vez divulgada la obra, ningún coautor puede rehusar injustificadamente su consentimiento para su explotación en la forma en que se divulgó.
+3. A reserva de lo pactado entre los coautores de la obra en colaboración, éstos podrán explotar separadamente sus aportaciones, salvo que causen perjuicio a la explotación común.
+4. Los derechos de propiedad intelectual sobre una obra en colaboración corresponden a todos los autores en la proporción que ellos determinen. En lo no previsto en esta Ley, se aplicarán a estas obras las reglas establecidas en el Código Civil para la comunidad de bienes.
+
+### Artículo 8
+
+Artículo 8. Obra colectiva.
+Se considera obra colectiva la creada por la iniciativa y bajo la coordinación de una persona natural o jurídica que la edita y divulga bajo su nombre y está constituida por la reunión de aportaciones de diferentes autores cuya contribución personal se funde en una creación única y autónoma, para la cual haya sido concebida sin que sea posible atribuir separadamente a cualquiera de ellos un derecho sobre el conjunto de la obra realizada.
+Salvo pacto en contrario, los derechos sobre la obra colectiva corresponderán a la persona que la edite y divulgue bajo su nombre.
+
+### Artículo 9
+
+Artículo 9. Obra compuesta e independiente.
+1. Se considerará obra compuesta la obra nueva que incorpore una obra preexistente sin la colaboración del autor de esta última, sin perjuicio de los derechos que a éste correspondan y de su necesaria autorización.
+2. La obra que constituya creación autónoma se considerará independiente, aunque se publique conjuntamente con otras.
+
+## CAPÍTULO II
+
+Objeto
+
+### Artículo 10
+
+Artículo 10. Obras y títulos originales.
+1. Son objeto de propiedad intelectual todas las creaciones originales literarias, artísticas o científicas expresadas por cualquier medio o soporte, tangible o intangible, actualmente conocido o que se invente en el futuro, comprendiéndose entre ellas:
+a) Los libros, folletos, impresos, epistolarios, escritos, discursos y alocuciones, conferencias, informes forenses, explicaciones de cátedra y cualesquiera otras obras de la misma naturaleza.
+b) Las composiciones musicales, con o sin letra.
+c) Las obras dramáticas y dramático-musicales, las coreografías, las pantomimas y, en general, las obras teatrales.
+d) Las obras cinematográficas y cualesquiera otras obras audiovisuales.
+e) Las esculturas y las obras de pintura, dibujo, grabado, litografía y las historietas gráficas, tebeos o comics, así como sus ensayos o bocetos y las demás obras plásticas, sean o no aplicadas.
+f) Los proyectos, planos, maquetas y diseños de obras arquitectónicas y de ingeniería.
+g) Los gráficos, mapas y diseños relativos a la topografía, la geografía y, en general, a la ciencia.
+h) Las obras fotográficas y las expresadas por procedimiento análogo a la fotografía.
+i) Los programas de ordenador.
+2. El título de una obra, cuando sea original, quedará protegido como parte de ella.
+
+### Artículo 11
+
+Artículo 11. Obras derivadas.
+Sin perjuicio de los derechos de autor sobre la obra original, también son objeto de propiedad intelectual:
+1.º Las traducciones y adaptaciones.
+2.º Las revisiones, actualizaciones y anotaciones.
+3.º Los compendios, resúmenes y extractos.
+4.º Los arreglos musicales.
+5.º Cualesquiera transformaciones de una obra literaria, artística o científica.
+
+### Artículo 12
+
+Artículo 12. Colecciones. Bases de datos.
+1. También son objeto de propiedad intelectual, en los términos del Libro I de la presente Ley, las colecciones de obras ajenas, de datos o de otros elementos independientes como las antologías y las bases de datos que por la selección o disposición de sus contenidos constituyan creaciones intelectuales, sin perjuicio, en su caso, de los derechos que pudieran subsistir sobre dichos contenidos.
+La protección reconocida en el presente artículo a estas colecciones se refiere únicamente a su estructura en cuanto forma de expresión de la selección o disposición de sus contenidos, no siendo extensiva a éstos.
+2. A efectos de la presente Ley, y sin perjuicio de lo dispuesto en el apartado anterior, se consideran bases de datos las colecciones de obras, de datos, o de otros elementos independientes dispuestos de manera sistemática o metódica y accesibles individualmente por medios electrónicos o de otra forma.
+3. La protección reconocida a las bases de datos en virtud del presente artículo no se aplicará a los programas de ordenador utilizados en la fabricación o en el funcionamiento de bases de datos accesibles por medios electrónicos.
+Se modifica por el art. 1 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 13
+
+Artículo 13. Exclusiones.
+No son objeto de propiedad intelectual las disposiciones legales o reglamentarias y sus correspondientes proyectos, las resoluciones de los órganos jurisdiccionales y los actos, acuerdos, deliberaciones y dictámenes de los organismos públicos, así como las traducciones oficiales de todos los textos anteriores.
+
+## CAPÍTULO III
+
+Contenido
+
+## SECCIÓN 1
+
+Sección 1.ª Derecho moral
+
+### Artículo 14
+
+Artículo 14. Contenido y características del derecho moral.
+Corresponden al autor los siguientes derechos irrenunciables e inalienables:
+1.º Decidir si su obra ha de ser divulgada y en qué forma.
+2.º Determinar si tal divulgación ha de hacerse con su nombre, bajo seudónimo o signo, o anónimamente.
+3.º Exigir el reconocimiento de su condición de autor de la obra.
+4.º Exigir el respeto a la integridad de la obra e impedir cualquier deformación, modificación, alteración o atentado contra ella que suponga perjuicio a sus legítimos intereses o menoscabo a su reputación.
+5.º Modificar la obra respetando los derechos adquiridos por terceros y las exigencias de protección de bienes de interés cultural.
+6.º Retirar la obra del comercio, por cambio de sus convicciones intelectuales o morales, previa indemnización de daños y perjuicios a los titulares de derechos de explotación.
+Si, posteriormente, el autor decide reemprender la explotación de su obra deberá ofrecer preferentemente los correspondientes derechos al anterior titular de los mismos y en condiciones razonablemente similares a las originarias.
+7.º Acceder al ejemplar único o raro de la obra, cuando se halle en poder de otro, a fin de ejercitar el derecho de divulgación o cualquier otro que le corresponda.
+Este derecho no permitirá exigir el desplazamiento de la obra y el acceso a la misma se llevará a efecto en el lugar y forma que ocasionen menos incomodidades al poseedor, al que se indemnizará, en su caso, por los daños y perjuicios que se le irroguen.
+
+### Artículo 15
+
+Artículo 15. Supuestos de legitimación «mortis causa».
+1. Al fallecimiento del autor, el ejercicio de los derechos mencionados en los apartados 3.º y 4.º del artículo anterior corresponde, sin límite de tiempo, a la persona natural o jurídica a la que el autor se lo haya confiado expresamente por disposición de última voluntad. En su defecto, el ejercicio de estos derechos corresponderá a los herederos.
+2. Las mismas personas señaladas en el número anterior y en el mismo orden que en él se indica, podrán ejercer el derecho previsto en el apartado 1.º del artículo 14, en relación con la obra no divulgada en vida de su autor y durante un plazo de setenta años desde su muerte o declaración de fallecimiento, sin perjuicio de lo establecido en el artículo 40.
+
+### Artículo 16
+
+Artículo 16. Sustitución en la legitimación «mortis causa».
+Siempre que no existan las personas mencionadas en el artículo anterior, o se ignore su paradero, el Estado, las Comunidades Autónomas, las Corporaciones locales y las instituciones públicas de carácter cultural estarán legitimados para ejercer los derechos previstos en el mismo.
+
+## SECCIÓN 2
+
+Sección 2.ª Derechos de explotación
+
+### Artículo 17
+
+Artículo 17. Derecho exclusivo de explotación y sus modalidades.
+Corresponde al autor el ejercicio exclusivo de los derechos de explotación de su obra en cualquier forma y, en especial, los derechos de reproducción, distribución, comunicación pública y transformación, que no podrán ser realizadas sin su autorización, salvo en los casos previstos en la presente Ley.
+
+### Artículo 18
+
+Artículo 18. Reproducción.
+Se entiende por reproducción la fijación directa o indirecta, provisional o permanente, por cualquier medio y en cualquier forma, de toda la obra o de parte de ella, que permita su comunicación o la obtención de copias.
+Se modifica por el art. único.1 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 19
+
+Artículo 19. Distribución.
+1. Se entiende por distribución la puesta a disposición del público del original o de las copias de la obra, en un soporte tangible, mediante su venta, alquiler, préstamo o de cualquier otra forma.
+2. Cuando la distribución se efectúe mediante venta u otro título de transmisión de la propiedad, en el ámbito de la Unión Europea, por el propio titular del derecho o con su consentimiento, este derecho se agotará con la primera, si bien sólo para las ventas y transmisiones de propiedad sucesivas que se realicen en dicho ámbito territorial.
+3. Se entiende por alquiler la puesta a disposición de los originales y copias de una obra para su uso por tiempo limitado y con un beneficio económico o comercial directo o indirecto.
+Quedan excluidas del concepto de alquiler la puesta a disposición con fines de exposición, de comunicación pública a partir de fonogramas o de grabaciones audiovisuales, incluso de fragmentos de unos y otras, y la que se realice para consulta in situ.
+4. Se entiende por préstamo la puesta a disposición de originales y copias de una obra para su uso por tiempo limitado sin beneficio económico o comercial directo ni indirecto, siempre que dicho préstamo se lleve a cabo a través de establecimientos accesibles al público.
+Se entenderá que no existe beneficio económico o comercial directo ni indirecto cuando el préstamo efectuado por un establecimiento accesible al público dé lugar al pago de una cantidad que no exceda de lo necesario para cubrir los gastos de funcionamiento. Esta cantidad no podrá incluir total o parcialmente el importe del derecho de remuneración que deba satisfacerse a los titulares de derechos de propiedad intelectual conforme a lo dispuesto en el artículo 37.2.
+Quedan excluidas del concepto de préstamo las operaciones mencionadas en el párrafo segundo del apartado 3 y las que se efectúen entre establecimientos accesibles al público.
+5. Lo dispuesto en este artículo en cuanto al alquiler y al préstamo no se aplicará a los edificios ni a las obras de artes aplicadas.
+Se modifica el apartado 4 por el art. 1.1 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Se modifica el apartado 4 por la disposición final 1.1 de la Ley 10/2007, de 22 de junio. Ref. BOE-A-2007-12351.
+ Se modifica los apartados 1 y 2 por el art. único.2 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 20
+
+Artículo 20. Comunicación pública.
+1. Se entenderá por comunicación pública todo acto por el cual una pluralidad de personas pueda tener acceso a la obra sin previa distribución de ejemplares a cada una de ellas.
+No se considerará pública la comunicación cuando se celebre dentro de un ámbito estrictamente doméstico que no esté integrado o conectado a una red de difusión de cualquier tipo.
+2. Especialmente, son actos de comunicación pública:
+a) Las representaciones escénicas, recitaciones, disertaciones y ejecuciones públicas de las obras dramáticas, dramático-musicales, literarias y musicales mediante cualquier medio o procedimiento.
+b) La proyección o exhibición pública de las obras cinematográficas y de las demás audiovisuales.
+c) La emisión de cualesquiera obras por radiodifusión o por cualquier otro medio que sirva para la difusión inalámbrica de signos, sonidos o imágenes. El concepto de emisión comprende la producción de señales portadoras de programas hacia un satélite, cuando la recepción de las mismas por el público no es posible sino a través de entidad distinta de la de origen.
+d) La radiodifusión o comunicación al público vía satélite de cualesquiera obras, es decir, el acto de introducir, bajo el control y la responsabilidad de la entidad radiodifusora, las señales portadoras de programas, destinadas a la recepción por el público en una cadena ininterrumpida de comunicación que vaya al satélite y desde éste a la tierra. Los procesos técnicos normales relativos a las señales portadoras de programas no se consideran interrupciones de la cadena de comunicación.
+Cuando las señales portadoras de programas se emitan de manera codificada existirá comunicación al público vía satélite siempre que se pongan a disposición del público por la entidad radiodifusora, o con su consentimiento, medios de descodificación.
+A efectos de lo dispuesto en los dos párrafos anteriores, se entenderá por satélite cualquiera que opere en bandas de frecuencia reservadas por la legislación de telecomunicaciones a la difusión de señales para la recepción por el público o para la comunicación individual no pública, siempre que, en este último caso, las circunstancias en las que se lleve a efecto la recepción individual de las señales sean comparables a las que se aplican en el primer caso.
+e) La transmisión de cualesquiera obras al público por hilo, cable, fibra óptica u otro procedimiento análogo, sea o no mediante abono.
+f) La retransmisión, por cualquiera de los medios citados en los apartados anteriores y por entidad distinta de la de origen, de la obra radiodifundida.
+Se entiende por distribución por cable la retransmisión simultánea, inalterada e íntegra por cable o microondas, para su recepción por el público, de una transmisión inicial de otro Estado miembro, alámbrica o inalámbrica, incluida vía satélite, de programas de radio o televisión destinados a su recepción por el público, independientemente de la manera en que el operador de un servicio de retransmisión por cable obtenga del organismo de radiodifusión las señales portadoras de programas con fines de retransmisión.
+g) La emisión o transmisión, en lugar accesible al público, mediante cualquier instrumento idóneo, de la obra radiodifundida.
+h) La exposición pública de obras de arte o sus reproducciones.
+i) La puesta a disposición del público de obras, por procedimientos alámbricos o inalámbricos, de tal forma que cualquier persona pueda acceder a ellas desde el lugar y en el momento que elija.
+j) El acceso público en cualquier forma a las obras incorporadas a una base de datos, aunque dicha base de datos no esté protegida por las disposiciones del Libro I de la presente Ley.
+k) La realización de cualquiera de los actos anteriores, respecto a una base de datos protegida por el Libro I de la presente Ley.
+3. La comunicación al público vía satélite en el territorio de la Unión Europea se regirá por las siguientes disposiciones:
+a) La comunicación al público vía satélite se producirá únicamente en el Estado miembro de la Unión Europea en que, bajo el control y responsabilidad de la entidad radiodifusora, las señales portadoras de programas se introduzcan en la cadena ininterrumpida de comunicación a la que se refiere el párrafo d) del apartado 2 de este artículo.
+b) Cuando la comunicación al público vía satélite se produzca en el territorio de un Estado no perteneciente a la Unión Europea donde no exista el nivel de protección que para dicho sistema de comunicación al público establece este apartado 3, se tendrá en cuenta lo siguiente:
+1.º Si la señal portadora del programa se envía al satélite desde una estación de señal ascendente situada en un Estado miembro se considerará que la comunicación al público vía satélite se ha producido en dicho Estado miembro. En tal caso, los derechos que se establecen relativos a la radiodifusión vía satélite podrán ejercitarse frente a la persona que opere la estación que emite la señal ascendente.
+2.º Si no se utiliza una estación de señal ascendente situada en un Estado miembro pero una entidad de radiodifusión establecida en un Estado miembro ha encargado la emisión vía satélite, se considerará que dicho acto se ha producido en el Estado miembro en el que la entidad de radiodifusión tenga su establecimiento principal. En tal caso, los derechos que se establecen relativos a la radiodifusión vía satélite podrán ejercitarse frente a la entidad de radiodifusión.
+4. La retransmisión por cable definida en el párrafo segundo del apartado 2.f) de este artículo, dentro del territorio de la Unión Europea, se regirá por las siguientes disposiciones:
+a) La retransmisión en territorio español de emisiones, radiodifusiones vía satélite o transmisiones iniciales de programas procedentes de otros Estados miembros de la Unión Europea se realizará, en lo relativo a los derechos de autor, de acuerdo con lo dispuesto en la presente Ley y con arreglo a lo establecido en los acuerdos contractuales, individuales o colectivos, firmados entre los titulares de derechos y las empresas de retransmisión por cable.
+b) El derecho que asiste a los titulares de derechos de autor de autorizar la retransmisión por cable se ejercerá, exclusivamente, a través de una entidad de gestión de derechos de propiedad intelectual.
+c) En el caso de titulares que no hubieran encomendado la gestión de sus derechos a una entidad de gestión de derechos de propiedad intelectual, los mismos se harán efectivos a través de la entidad que gestione derechos de la misma categoría.
+Cuando existiere más de una entidad de gestión de los derechos de la referida categoría, sus titulares podrán encomendar la gestión de los mismos a cualquiera de las entidades.
+Los titulares a que se refiere esta letra c) gozarán de los derechos y quedarán sujetos a las obligaciones derivadas del acuerdo celebrado entre la empresa de retransmisión por cable y la entidad en la que se considere hayan delegado la gestión de sus derechos, en igualdad de condiciones con los titulares de derechos que hayan encomendado la gestión de los mismos a tal entidad. Asimismo, podrán reclamar a la entidad de gestión a la que se refieren los párrafos anteriores de esta letra c), sus derechos en los términos del artículo 177.
+d) Cuando el titular de derechos autorice la emisión, radiodifusión vía satélite o transmisión inicial en territorio español de una obra protegida, se presumirá que consiente en no ejercitar, a título individual, sus derechos para, en su caso, la retransmisión por cable de la misma, sino a ejercitarlos con arreglo a lo dispuesto en este apartado 4.
+e) Lo dispuesto en los párrafos b), c) y d) de este apartado 4 no se aplicará a los derechos ejercidos por las entidades de radiodifusión respecto de sus propias emisiones, radiodifusiones vía satélite o transmisiones, con independencia de que los referidos derechos sean suyos o les hayan sido transferidos por otros titulares de derechos de autor.
+f) Cuando, por falta de acuerdo entre las partes, no se llegue a celebrar un contrato para la autorización de la retransmisión por cable, las partes podrán acceder, por vía de mediación, a la Comisión Mediadora y Arbitral de la Propiedad Intelectual.
+Será aplicable a la mediación contemplada en el párrafo anterior lo previsto en el artículo 193 y en el real decreto de desarrollo de dicha disposición.
+g) Cuando alguna de las partes, en abuso de su posición negociadora, impida la iniciación o prosecución de buena fe de las negociaciones para la autorización de la retransmisión por cable, u obstaculice, sin justificación válida, las negociaciones o la mediación a que se refiere el párrafo anterior, se aplicará lo dispuesto en el Título I, capítulo I, de la Ley 16/1989, de 17 de julio, de Defensa de la Competencia.
+Se modifica la letra f) del apartado 2 por el art. 80.1 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-2
+ Se modifican el tercer párrafo de la letra c) y el segundo párrafo de la letra f) del apartado 4 por el art. único.1 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifican el tercer párrafo de la letra c) y el segundo párrafo de la letra f) del apartado 4 por el art. único.1 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se renumera el apartado 2.i) y j) como 2.j) y k) y se añade un 2.i) por el art. único.3 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Se deroga el apartado 3.c), se modifican los apartados 2.i), 4.f) y se añade el 2.j) por la disposición derogatoria 1 y los arts. 2.1 y 2, y 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 21
+
+Artículo 21. Transformación.
+1. La transformación de una obra comprende su traducción, adaptación y cualquier otra modificación en su forma de la que se derive una obra diferente.
+Cuando se trate de una base de datos a la que hace referencia el artículo 12 de la presente Ley se considerará también transformación, la reordenación de la misma.
+2. Los derechos de propiedad intelectual de la obra resultado de la transformación corresponderán al autor de esta última, sin perjuicio del derecho del autor de la obra preexistente de autorizar, durante todo el plazo de protección de sus derechos sobre ésta, la explotación de esos resultados en cualquier forma y en especial mediante su reproducción, distribución, comunicación pública o nueva transformación.
+Se modifica por el art. 3 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 22
+
+Artículo 22. Colecciones escogidas u obras completas.
+La cesión de los derechos de explotación sobre sus obras no impedirá al autor publicarlas reunidas en colección escogida o completa.
+
+### Artículo 23
+
+Artículo 23. Independencia de derechos.
+Los derechos de explotación regulados en esta sección son independientes entre sí.
+
+## SECCIÓN 3
+
+Sección 3.ª Otros derechos
+
+### Artículo 24
+
+Artículo 24. Derecho de participación.
+1. Los autores de obras de arte gráficas o plásticas, tales como los cuadros, collages, pinturas, dibujos, grabados, estampas, litografías, esculturas, tapices, cerámicas, objetos de cristal, fotografías y piezas de vídeo arte, tendrán derecho a percibir del vendedor una participación en el precio de toda reventa que de las mismas se realice tras la primera cesión realizada por el autor. Los ejemplares de obras de arte objeto de este derecho que hayan sido realizados por el propio autor o bajo su autoridad se considerarán obras de arte originales. Dichos ejemplares estarán numerados, firmados o debidamente autorizados por el autor.
+2. El derecho de participación se reconoce al autor de la obra y a sus derechohabientes tras la muerte o declaración de fallecimiento.
+3. La protección del derecho de participación se reconoce a los autores españoles, a los autores nacionales de otros Estados miembros de la Unión Europea, así como a los nacionales de terceros países con residencia habitual en España. Para los autores que sean nacionales de terceros países y no tengan residencia habitual en España, el derecho de participación se reconocerá únicamente cuando la legislación del país de que el autor sea nacional reconozca a su vez el derecho de participación a los autores de los Estados miembros de la Unión Europea y a sus derechohabientes.
+4. El derecho se aplicará a todas las reventas en las que participen, como vendedores, compradores o intermediarios, profesionales del mercado del arte tales como salas de venta, salas de subastas, galerías de arte, marchantes de obras de arte y, en general, cualquier persona física o jurídica que realice habitualmente actividades de intermediación en este mercado.
+5. El derecho se aplicará igualmente cuando los profesionales del mercado del arte lleven a cabo las actividades descritas a través de prestadores de servicios de la sociedad de la información, de conformidad con lo establecido en la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico.
+6. Se exceptúan de los apartados 4 y 5 los actos de reventa de la obra que haya sido comprada por una galería de arte directamente al autor, siempre que el período transcurrido entre esta primera adquisición y la reventa no supere tres años y el precio de reventa no exceda de 10.000 euros excluidos impuestos.
+7. El derecho de participación de los autores nacerá cuando el precio de la reventa sea igual o superior a 800 euros, excluidos los impuestos, por obra vendida o conjunto concebido con carácter unitario.
+8. El importe de la participación que corresponderá a los autores estará en función de los siguientes porcentajes:
+a) El 4 % de los primeros 50.000 euros del precio de la reventa.
+b) El 3 % de la parte del precio de la reventa comprendida entre 50.000,01 y 200.000 euros.
+c) El 1 % de la parte del precio de la reventa comprendida entre 200.000,01 y 350.000 euros.
+d) El 0,5 % de la parte del precio de la reventa comprendida entre 350.000,01 y 500.000 euros.
+e) El 0,25 % de la parte del precio de la reventa que exceda de 500.000 euros.
+En ningún caso el importe total del derecho podrá exceder de 12.500 euros.
+Los precios de reventa contemplados en este apartado se calcularán sin inclusión del impuesto devengado por la reventa de la obra.
+9. El derecho de participación es inalienable, irrenunciable, se transmitirá únicamente por sucesión mortis causa y se extinguirá transcurridos setenta años a contar desde el 1 de enero del año siguiente a aquel en que se produjo la muerte o la declaración de fallecimiento del autor.
+10. El derecho de participación reconocido en el apartado 1 se hará efectivo a través de las entidades de gestión de derechos de propiedad intelectual. Cuando concurran varias entidades que, conforme a sus estatutos, gestionen el derecho de participación, éstas deberán actuar frente a los deudores en todo lo relativo a la percepción de este derecho bajo una sola representación en los términos que convencionalmente acuerden. Estas entidades de gestión comunicarán al Ministerio de Cultura y Deporte el acuerdo que hayan adoptado.
+11. Las entidades de gestión notificarán al titular del derecho que se ha hecho efectivo el pago a que se refiere el apartado 15 en el plazo máximo de un mes desde que éste haya tenido lugar.
+12. Las entidades de gestión liquidarán el importe debido al titular, en concepto de derecho de participación, en el plazo establecido en el artículo 177.1, salvo que en dicho plazo el titular reclame la liquidación, en cuyo caso ésta se efectuará en el mes siguiente a la reclamación.
+13. Cuando el derecho de participación se refiera a una obra creada por dos o más autores, su importe se repartirá por partes iguales entre los autores de dicha obra, salvo pacto en contrario.
+14. Los profesionales del mercado del arte que hayan intervenido en una reventa sujeta al derecho de participación estarán obligados a:
+a) Notificar al vendedor y a la entidad de gestión correspondiente la reventa efectuada. La notificación se hará por escrito o por otro medio que permita dejar constancia de la remisión y recepción de la notificación en el plazo de dos meses a contar desde el día siguiente al de la fecha de la reventa y deberá contener en todo caso:
+i) El lugar y la fecha en la que se efectuó la reventa.
+ii) El precio íntegro de la enajenación.
+iii) La documentación acreditativa de la reventa necesaria para la verificación de los datos y la práctica de la correspondiente liquidación. Dicha documentación deberá incluir, al menos, el lugar y la fecha en la que se realizó la reventa, el precio de la misma y los datos identificativos de la obra revendida, así como de los sujetos contratantes, de los intermediarios, en su caso, y del autor de la obra.
+b) Retener el importe del derecho de participación del autor en el precio de la obra revendida.
+c) Mantener en depósito gratuito, y sin obligación de pago de intereses, la cantidad retenida hasta la entrega a la entidad de gestión correspondiente.
+d) Cuando haya intervenido en la reventa de la obra más de un profesional del mercado del arte, el sujeto obligado a efectuar la operación, tanto en lo referido a la notificación, como la retención, el depósito y el pago del derecho, será el profesional del mercado del arte que haya actuado como vendedor y, en su defecto, el que haya actuado de intermediario.
+15. Efectuada la notificación a que se refiere el apartado a) del apartado 14, los profesionales del mercado del arte harán efectivo el pago del derecho a la entidad de gestión correspondiente en un plazo máximo de dos meses.
+16. Los profesionales del mercado del arte que intervengan en las reventas sujetas al derecho de participación conforme a los apartados 4 a 6, responderán solidariamente con el vendedor del pago del derecho.
+17. Las entidades de gestión de los derechos de propiedad intelectual podrán exigir a cualquier profesional del mercado del arte de los mencionados en el apartado 4, durante un plazo de tres años a partir de la fecha de la reventa, la información indicada en la letra a) del apartado 14 que resulte necesaria para calcular el importe del derecho de participación.
+18. Las entidades de gestión deberán respetar los principios de confidencialidad o intimidad mercantil en relación con cualquier información que conozcan en el ejercicio de las facultades previstas en la presente ley.
+19. La acción de las entidades de gestión para hacer efectivo el derecho ante los profesionales del mercado del arte prescribirá a los tres años de la notificación de la reventa.
+20. La administración del Fondo de Ayuda a las Bellas Artes corresponde a una Comisión adscrita al Ministerio de Cultura y Deporte, sin perjuicio de su autonomía funcional. Dicha Comisión está presidida por el Ministro de Cultura y Deporte o la persona en quien él delegue y estará integrada por representantes de las Comunidades Autónomas, de los sujetos obligados y de las entidades que gestionan el derecho de participación en la forma en que se determine por vía reglamentaria.
+21. Las cantidades percibidas por las entidades de gestión en concepto de derecho de participación no repartidas a sus titulares en el plazo establecido en el apartado 12 por falta de identificación de éstos y sobre las que no pese reclamación alguna, deberán ser ingresadas en el Fondo de Ayuda a las Bellas Artes en el plazo máximo de un año.
+22. Las entidades de gestión estarán obligadas a notificar a la Comisión Administradora del Fondo de Ayuda a las Bellas Artes, en el primer trimestre de cada año, la relación de cantidades percibidas por el derecho de participación y los repartos efectuados, así como los motivos que hayan hecho imposible el reparto de las cantidades ingresadas en el Fondo.
+23. La Comisión Administradora del Fondo publicará, con carácter anual, un informe sobre la aplicación del derecho de participación.
+24. Las Comunidades Autónomas, de acuerdo con su competencia exclusiva en la materia, gestionarán directa e íntegramente los recursos del Fondo de Ayuda a las Bellas Artes en sus respectivos territorios. Los criterios y mecanismos de reparto deberán, a su vez, acordarse con las Comunidades Autónomas.
+Se modifican los apartados 10, 11, 12, 14, 15, 17, 18 y 19, por la disposición final 11.1 del Real Decreto-ley 17/2020, de 5 de mayo. Ref. BOE-A-2020-4832#df-11, en la redacción dada por el art. 11.10 de la Ley 14/2021, de 11 de octubre. Ref. BOE-A-2021-16477#ad-2
+ Se añade por el art. único.2 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se deroga por la disposición derogatoria.a) de la Ley 3/2008, de 23 de diciembre. Ref. BOE-A-2008-20801.
+ Se convierten a euros las cuantías contempladas en el apartado 2 por el anexo de la Resolución de 19 de noviembre de 2001. Ref. BOE-A-2001-23465.
+
+### Artículo 25
+
+Artículo 25. Compensación equitativa por copia privada.
+1. La reproducción de obras divulgadas en forma de libros o publicaciones que a estos efectos se asimilen mediante real decreto, así como de fonogramas, videogramas o de otros soportes sonoros, visuales o audiovisuales, realizada mediante aparatos o instrumentos técnicos no tipográficos, exclusivamente para uso privado, no profesional ni empresarial, sin fines directa ni indirectamente comerciales, de conformidad con el artículo 31, apartados 2 y 3, originará una compensación equitativa y única para cada una de las tres modalidades de reproducción mencionadas dirigida a compensar adecuadamente el perjuicio causado a los sujetos acreedores como consecuencia de las reproducciones realizadas al amparo del límite legal de copia privada. Dicha compensación se determinará para cada modalidad en función de los equipos, aparatos y soportes materiales idóneos para realizar dicha reproducción, fabricados en territorio español o adquiridos fuera de este para su distribución comercial o utilización dentro de dicho territorio.
+2. Serán sujetos acreedores de esta compensación equitativa y única los autores de las obras señaladas en el apartado anterior, explotadas públicamente en alguna de las formas mencionadas en dicho apartado, conjuntamente y, en los casos y modalidades de reproducción en que corresponda, con los editores, los productores de fonogramas y videogramas y los artistas intérpretes o ejecutantes cuyas actuaciones hayan sido fijadas en dichos fonogramas y videogramas. Este derecho será irrenunciable para los autores y los artistas intérpretes o ejecutantes.
+3. Serán sujetos deudores del pago de la citada compensación los fabricantes en España, en tanto actúen como distribuidores comerciales, así como los adquirentes fuera del territorio español, para su distribución comercial o utilización dentro de este, de equipos, aparatos y soportes materiales previstos en el apartado 1.
+Asimismo, serán responsables solidarios del pago de la compensación los distribuidores, mayoristas y minoristas, que sean sucesivos adquirentes de los mencionados equipos, aparatos y soportes materiales, con respecto de los deudores que se los hubieran suministrado, salvo que acrediten haber satisfecho efectivamente a estos la compensación.
+Los distribuidores, mayoristas y minoristas que sean sucesivos adquirentes de los mencionados equipos, aparatos y soportes materiales podrán solicitar a las entidades de gestión, conforme al procedimiento para hacer efectiva la compensación equitativa que se desarrollará por real decreto, la devolución de aquella en lo que corresponda a las ventas de equipos, aparatos y soportes materiales de reproducción a sujetos exceptuados según el apartado 7.
+4. La determinación de los equipos, aparatos y soportes materiales sujetos al pago de la compensación equitativa, las cantidades que los deudores deberán abonar por este concepto a los acreedores y la distribución de dicha compensación entre las distintas modalidades de reproducción se fijarán por Orden del Ministerio de la Presidencia y para las Administraciones Territoriales, a propuesta de los Ministerios de Educación, Cultura y Deporte y de Energía, Turismo y Agenda Digital, previo informe a la Comisión Delegada del Gobierno para Asuntos Económicos.
+Con carácter previo a su aprobación será consultado el Consejo de Consumidores y Usuarios y emitirá informe preceptivo la Sección Primera de la Comisión de Propiedad Intelectual.
+Durante el procedimiento de elaboración de dicha Orden se dará audiencia a las entidades de gestión de derechos de propiedad intelectual, a los interesados y a las asociaciones mayoritarias que representen a los sujetos deudores, de acuerdo con lo que determine el Ministerio de Energía, Turismo y Agenda Digital, debiendo aportar, todos estos, una propuesta motivada respecto a su ámbito de interés, que irá acompañada de un informe justificativo.
+Por parte del Centro directivo promotor de la Orden se prestará primordial atención a las alegaciones de cada parte interesada directamente relacionadas con sus respectivos derechos legítimos específicos.
+La Orden podrá ser revisada en cualquier momento en función de la evolución tecnológica y de las condiciones del mercado. En cualquier caso, deberá ser revisada, al menos, con una periodicidad de tres años.
+5. A los efectos previstos en el apartado anterior, se tendrá en cuenta lo siguiente:
+a) La determinación de la cuantía de la compensación equitativa se calculará sobre la base del perjuicio causado a los sujetos acreedores como consecuencia de las reproducciones realizadas al amparo del límite al derecho de reproducción previsto en el artículo 31, apartados 2 y 3. Para ello se tendrán en cuenta, al menos, los siguientes criterios objetivos:
+1.º La intensidad de uso de los equipos, aparatos y soportes materiales, para lo que se tendrá en cuenta la estimación del número de copias realizadas al amparo del límite legal de copia privada.
+2.º La capacidad de almacenamiento de los equipos, aparatos y soportes materiales, así como la importancia de la función de reproducción respecto al resto de funciones de aquellos.
+3.º El impacto del límite legal de copia privada sobre la venta de ejemplares de las obras, teniendo en cuenta el grado de sustitución real de estos por las copias privadas realizadas y el efecto que supone que el adquirente de un ejemplar o copia original tenga la posibilidad de realizar copias privadas.
+4.º El precio de la unidad de cada modalidad reproducida.
+5.º El carácter digital o analógico de las reproducciones efectuadas al amparo del límite legal de copia privada, o la calidad y el tiempo de conservación de las reproducciones.
+6.º La disponibilidad, grado de aplicación y efectividad de las medidas tecnológicas a las que se refiere el artículo 160.3 del texto refundido de la Ley de Propiedad Intelectual y su impacto en las reproducciones realizadas al amparo del límite legal de copia privada.
+7.º Las cuantías de la compensación equitativa por copia privada que resulte de aplicación en otros Estados miembros de la Unión Europea siempre que existan bases homogéneas de comparación.
+b) No darán origen a una obligación de compensación aquellas situaciones en las que el perjuicio causado al titular del derecho de reproducción haya sido mínimo, que se determinarán mediante real decreto.
+c) No tendrán la consideración de reproducciones para uso privado las siguientes:
+1.º Las efectuadas en establecimientos dedicados a la realización de reproducciones para el público, o que tengan a disposición del público los equipos, aparatos y materiales para su realización.
+2.º Las realizadas mediante equipos, aparatos y soportes de reproducción digital que no se hayan puesto a disposición de derecho o de hecho usuarios privados y que estén manifiestamente reservados a usos distintos a la realización de copias privadas.
+d) Los equipos, aparatos y soportes materiales de reproducción concebidos manifiestamente para uso profesional y que no se hayan puesto de derecho o de hecho a disposición de usuarios privados para la realización de copias privadas, no estarán sujetos al pago de la compensación equitativa por copia privada.
+6. La obligación de pago de la compensación prevista en el apartado 1 de este artículo nacerá en los siguientes supuestos:
+a) Para los fabricantes en tanto actúen como distribuidores y para los adquirentes de equipos, aparatos y soportes materiales fuera del territorio español con destino a su distribución comercial en este, en el momento en que se produzca por parte del deudor la transmisión de la propiedad o, en su caso, la cesión del uso o disfrute de cualquiera de aquellos.
+b) Para los adquirentes de equipos, aparatos y soportes materiales fuera del territorio español con destino a su utilización dentro de dicho territorio, desde el momento de su adquisición.
+7. Quedarán exceptuadas del pago de la compensación, las siguientes adquisiciones de equipos, aparatos y soportes materiales de reproducción:
+a) Las realizadas por las entidades que integran el sector público según se establezca en el texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, así como por el Congreso de los Diputados, el Senado, el Consejo General del Poder Judicial, el Tribunal de Cuentas, el Defensor del Pueblo, las Asambleas legislativas de las Comunidades Autónomas y las instituciones autonómicas análogas al Tribunal de Cuentas y al Defensor del Pueblo. Esta exceptuación se podrá acreditar a los deudores y, en su caso, a los responsables solidarios:
+1.º Mediante una certificación emitida por el órgano competente de la Administración General del Estado, de las Administraciones de las Comunidades Autónomas, de las Entidades que integran la Administración Local, de las entidades gestoras y los servicios comunes de la Seguridad Social, de las Universidades Públicas así como del Congreso de los Diputados, el Senado, el Consejo General del Poder Judicial, el Consejo de Estado, el Tribunal de Cuentas, el Defensor del Pueblo, las Asambleas legislativas de las Comunidades Autónomas y las instituciones autonómicas análogas al Consejo de Estado, Tribunal de Cuentas y al Defensor del Pueblo.
+2.º Mediante una certificación emitida por el órgano de dirección y tutela respecto de las mutuas colaboradoras con la Seguridad Social.
+3.º Mediante una certificación emitida por la administración territorial de la que dependan o a la que estén vinculados el resto de entes que conforman el sector público.
+b) Las realizadas por personas jurídicas o físicas que actúen como consumidores finales, que justifiquen el destino exclusivamente profesional de los equipos, aparatos o soportes materiales adquiridos y siempre que estos no se hayan puesto, de derecho o de hecho, a disposición de usuarios privados y que estén manifiestamente reservados a usos distintos a la realización de copias privadas, lo que deberán acreditar a los deudores y, en su caso, a los responsables solidarios mediante una certificación emitida por la persona jurídica prevista en el apartado 10.
+c) Las realizadas por quienes cuenten con la preceptiva autorización para llevar a efecto la correspondiente reproducción de obras, prestaciones artísticas, fonogramas o videogramas, según proceda, en el ejercicio de su actividad, lo que deberán acreditar a los deudores y, en su caso, a sus responsables solidarios, mediante una certificación emitida por la persona jurídica prevista en el apartado 10.
+d) Las realizadas por personas físicas para uso privado fuera del territorio español en régimen de viajeros.
+En defecto de certificación, los sujetos beneficiarios de la exceptuación podrán solicitar el reembolso de la compensación.
+8. Aquellas personas jurídicas o físicas no exceptuadas del pago de la compensación podrán solicitar el reembolso de esta cuando:
+a) Actúen como consumidores finales, justificando el destino exclusivamente profesional del equipo, aparato o soporte material de reproducción adquirido, y siempre que estos no se hayan puesto, de derecho o de hecho, a disposición de usuarios privados y que estén manifiestamente reservados a usos distintos a la realización de copias privadas.
+b) Los equipos, aparatos o soportes materiales de reproducción adquiridos se hayan destinado a la exportación o entrega intracomunitaria.
+No se admitirán solicitudes de reembolso por importe inferior a veinticinco euros. No obstante, si la solicitud de reembolso acumula la compensación equitativa abonada por la adquisición de equipos, aparatos y soportes materiales realizada en un ejercicio anual, se admitirán aun cuando no alcancen los veinticinco euros.
+El plazo para ejercer la acción de reembolso será de un año a computar desde la fecha consignada en la factura de la adquisición del equipo, aparato o soporte material que dio lugar al pago de compensación equitativa. En el caso de facturas anuales acumuladas por importe inferior a veinticinco euros, el plazo se computará a partir de la última factura.
+9. La compensación equitativa se hará efectiva a través de las entidades de gestión de derechos de propiedad intelectual conforme al procedimiento que se determine a tal efecto por real decreto, debiendo las mismas garantizar a los deudores y a los responsables solidarios una comunicación unificada de la facturación que a estos les corresponda abonar.
+10. Las entidades de gestión de derechos de propiedad intelectual participarán en la constitución, conforme a la legalidad vigente, gestión y financiación de una persona jurídica que ejercerá, en representación de todas ellas, las siguientes funciones:
+a) La gestión de las exceptuaciones del pago y de los reembolsos.
+b) La recepción y posterior remisión a las entidades de gestión de las relaciones periódicas de equipos, aparatos y soportes de reproducción respecto de los que haya nacido la obligación de pago de la compensación, elaboradas por los sujetos deudores y, en su caso, por los responsables solidarios, en el marco del procedimiento para hacer efectiva la compensación que se determine mediante real decreto.
+c) La comunicación unificada de la facturación.
+11. Los deudores y sus responsables solidarios permitirán a la persona jurídica que las entidades de gestión constituyan conforme a lo previsto en el apartado anterior, el control de las adquisiciones y de las ventas sujetas al pago de la compensación equitativa así como de aquellas afectadas por las exceptuaciones establecidas en el apartado 7. Asimismo, los sujetos que hayan obtenido la certificación de exceptuación facilitarán, a petición de la referida persona jurídica, los datos necesarios para comprobar que se mantiene el efectivo cumplimiento de los requisitos para ser beneficiario de la exceptuación.
+12. A los efectos de que el Ministerio de Educación, Cultura y Deporte, en el ejercicio de sus funciones de inspección, vigilancia y control sobre las entidades de gestión de derechos de propiedad intelectual, vele por el cumplimiento de las obligaciones de la referida persona jurídica, esta comunicará a la Secretaría de Estado de Cultura, el día 1 de abril de cada año, la siguiente información respecto del año anterior:
+a) Un listado pormenorizado de las relaciones periódicas de equipos, aparatos y soportes de reproducción respecto de los que haya nacido la obligación de pago de la compensación, elaboradas por los sujetos deudores y por los responsables solidarios.
+b) Un listado pormenorizado de las compensaciones pagadas por los sujetos deudores y por los responsables solidarios.
+c) La relación de certificaciones de exceptuación y de reembolsos tramitadas.
+d) Cuanta información adicional que el Ministerio de Educación Cultura y Deporte considere necesaria para ejercer sus funciones.
+Dicha información se publicará en el sitio web del Ministerio de Educación, Cultura y Deporte.
+Asimismo, el Ministerio de Educación, Cultura y Deporte resolverá los conflictos que se le planteen respecto de las denegaciones, por la referida persona jurídica, de los certificados de exceptuación previstos en las letras b) y c) del apartado 7 y las solicitudes de reembolso del pago de la compensación equitativa por copia privada previstas en el apartado 8.
+Se añade un párrafo en el apartado 8 por el art. único.2 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se añade un párrafo en el apartado 8 por el art. único.2 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica por el art. único.1 del Real Decreto-ley 12/2017, de 3 de julio. Ref. BOE-A-2017-7718
+ Téngase en cuenta que la primera determinación prevista en el apartado 4 se fijará mediante el real decreto que lo desarrolle reglamentariamente, según se establece en la disposición final 2 del citado Real Decreto-ley.
+ Se modifica por el art. 1.2 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Se suprime por la disposición adicional 10.1 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
+ Téngase en cuenta lo dispuesto en los apartados 2 y 3 de la citada disposición.
+ Se modifica por el art. único.4 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Se convierten a euros las cuantías contempladas en el apartado 5.a).1º a 4º por el anexo de la Resolución de 19 de noviembre de 2001. Ref. BOE-A-2001-23465.
+ Se modifica el apartado 20 por la disposición final 2.1 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+ Se modifica los apartados 10, 20 y 23 por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+## TÍTULO III
+
+Duración, límites y salvaguardia de otras disposiciones legales
+Se modifica la rúbrica por el art. 4.1 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+## CAPÍTULO I
+
+Duración
+
+### Artículo 26
+
+Artículo 26. Duración y cómputo.
+Los derechos de explotación de la obra durarán toda la vida del autor y setenta años después de su muerte o declaración de fallecimiento.
+
+### Artículo 27
+
+Artículo 27. Duración y cómputo en obras póstumas, seudónimas y anónimas.
+1. Los derechos de explotación de las obras anónimas o seudónimas a las que se refiere el artículo 6 durarán setenta años desde su divulgación lícita.
+Cuando antes de cumplirse este plazo fuera conocido el autor, bien porque el seudónimo que ha adoptado no deje dudas sobre su identidad, bien porque el mismo autor la revele, será de aplicación lo dispuesto en el artículo precedente.
+2. Los derechos de explotación de las obras que no hayan sido divulgadas lícitamente durarán setenta años desde la creación de éstas, cuando el plazo de protección no sea computado a partir de la muerte o declaración de fallecimiento del autor o autores.
+
+### Artículo 28
+
+Artículo 28. Duración y cómputo de las obras en colaboración y colectivas.
+1. Los derechos de explotación de las obras en colaboración definidas en el artículo 7, comprendidas las obras cinematográficas y audiovisuales, durarán toda la vida de los coautores y setenta años desde la muerte o declaración de fallecimiento del último coautor superviviente.
+En el caso de las composiciones musicales con letra, los derechos de explotación durarán toda la vida del autor de la letra y del autor de la composición musical y setenta años desde la muerte o declaración de fallecimiento del último superviviente, siempre que sus contribuciones fueran creadas específicamente para la respectiva composición musical con letra.
+2. Los derechos de explotación sobre las obras colectivas definidas en el artículo 8 de esta Ley durarán setenta años desde la divulgación lícita de la obra protegida. No obstante, si las personas naturales que hayan creado la obra son identificadas como autores en las versiones de la misma que se hagan accesibles al público, se estará a lo dispuesto en los artículos 26 ó 28.1, según proceda.
+Lo dispuesto en el párrafo anterior se entenderá sin perjuicio de los derechos de los autores identificados cuyas aportaciones identificables estén contenidas en dichas obras, a las cuales se aplicarán el artículo 26 y el apartado 1 de este artículo, según proceda.
+Se añade un párrafo al apartado 1 por el art. 1.3 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+
+### Artículo 29
+
+Artículo 29. Obras publicadas por partes.
+En el caso de obras divulgadas por partes, volúmenes, entregas o fascículos, que no sean independientes y cuyo plazo de protección comience a transcurrir cuando la obra haya sido divulgada de forma lícita, dicho plazo se computará por separado para cada elemento.
+
+### Artículo 30
+
+Artículo 30. Cómputo de plazo de protección.
+Los plazos de protección establecidos en esta Ley se computarán desde el día 1 de enero del año siguiente al de la muerte o declaración de fallecimiento del autor o al de la divulgación lícita de la obra, según proceda.
+
+## CAPÍTULO II
+
+Límites
+
+### Artículo 31
+
+Artículo 31. Reproducciones provisionales y copia privada.
+1. No requerirán autorización del autor los actos de reproducción provisional a los que se refiere el artículo 18 que, además de carecer por sí mismos de una significación económica independiente, sean transitorios o accesorios y formen parte integrante y esencial de un proceso tecnológico y cuya única finalidad consista en facilitar bien una transmisión en red entre terceras partes por un intermediario, bien una utilización lícita, entendiendo por tal la autorizada por el autor o por la ley.
+2. Sin perjuicio de la compensación equitativa prevista en el artículo 25, no necesita autorización del autor la reproducción, en cualquier soporte, sin asistencia de terceros, de obras ya divulgadas, cuando concurran simultáneamente las siguientes circunstancias, constitutivas del límite legal de copia privada:
+a) Que se lleve a cabo por una persona física exclusivamente para su uso privado, no profesional ni empresarial, y sin fines directa ni indirectamente comerciales.
+b) Que la reproducción se realice a partir de una fuente lícita y que no se vulneren las condiciones de acceso a la obra o prestación.
+c) Que la copia obtenida no sea objeto de una utilización colectiva ni lucrativa, ni de distribución mediante precio.
+3. Quedan excluidas de lo dispuesto en el anterior apartado:
+a) Las reproducciones de obras que se hayan puesto a disposición del público conforme al artículo 20.2.i), de tal forma que cualquier persona pueda acceder a ellas desde el lugar y momento que elija, autorizándose, con arreglo a lo convenido por contrato, y, en su caso, mediante pago de precio, la reproducción de la obra.
+b) Las bases de datos electrónicas.
+c) Los programas de ordenador, en aplicación de la letra a) del artículo 99.
+Se modifica el apartado 2.b) por el art. único.2 del Real Decreto-ley 12/2017, de 3 de julio. Ref. BOE-A-2017-7718
+ Se modifica el apartado 2 y se añade el apartado 3 por el art. 1.4 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Se modifica por el art. único.5 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Se modifica por el art. 4.2 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 31 bis
+
+Artículo 31 bis. Seguridad y procedimientos oficiales.
+No será necesaria autorización del autor cuando una obra se reproduzca, distribuya o comunique públicamente con fines de seguridad pública o para el correcto desarrollo de procedimientos administrativos, judiciales o parlamentarios.
+Se modifica por el art. único.3 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.3 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se añade por el art. único.6 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 31 ter
+
+Artículo 31 ter. Accesibilidad para personas con discapacidad.
+1. No necesitan autorización del titular de los derechos de propiedad intelectual los actos de reproducción, distribución y comunicación pública de obras ya divulgadas que se realicen en beneficio de personas con discapacidad, siempre que los mismos carezcan de finalidad lucrativa, guarden una relación directa con la discapacidad de que se trate, se lleven a cabo mediante un procedimiento o medio adaptado a la discapacidad y se limiten a lo que esta exige.
+2. En aquellos supuestos especiales que no entren en conflicto con la explotación normal de la obra, y que no perjudiquen en exceso los intereses legítimos del titular del derecho, las entidades autorizadas establecidas en España que produzcan ejemplares en formato accesible de obras para uso exclusivo de personas ciegas, con discapacidad visual o con otras dificultades para acceder a textos impresos, podrán llevar a cabo los actos del apartado anterior, de la forma referida en el mismo, para uso exclusivo de dichos beneficiarios o de una entidad autorizada establecida en cualquier Estado miembro de la Unión Europea. Asimismo, los beneficiarios y las entidades autorizadas establecidas en España podrán conseguir o consultar un ejemplar en formato accesible facilitado por una entidad autorizada establecida en cualquier Estado miembro de la Unión Europea.
+Se entiende por discapacidad visual y dificultad para acceder a obras impresas, incluido el formato audio y los formatos digitales, a los efectos de determinar los beneficiarios de este apartado, las que tienen las personas que:
+a) sean ciegas;
+b) tengan una discapacidad visual que no pueda corregirse para darle una función visual sustancialmente equivalente a la de una persona sin ese tipo de discapacidad, y que, en consecuencia, no sean capaces de leer obras impresas en una medida sustancialmente equivalente a la de una persona sin ese tipo de discapacidad;
+c) tengan una dificultad para percibir o leer que, en consecuencia, las incapacite para leer obras impresas en una medida sustancialmente equivalente a la de una persona sin esa dificultad, o
+d) no puedan, debido a una discapacidad física, sostener o manipular un libro o centrar la vista o mover los ojos en la medida que normalmente sería aceptable para la lectura.
+Serán entidades autorizadas, a los efectos de este artículo, aquellas entidades que proporcionen sin ánimo de lucro a las personas ciegas, con discapacidad visual o con otras dificultades para acceder a textos impresos, educación, formación pedagógica, lectura adaptada o acceso a la información, o que, siendo instituciones públicas u organizaciones sin ánimo de lucro, tengan estos servicios como una de sus actividades principales, como una de sus obligaciones institucionales o como parte de sus misiones de interés público.
+3. Las entidades autorizadas a los efectos de este artículo, deberán:
+a) Distribuir, comunicar o poner a disposición ejemplares en formato accesible de obras para uso exclusivo de los beneficiarios del apartado anterior o de otras entidades autorizadas.
+b) Tomar las medidas necesarias para desincentivar la reproducción, distribución, comunicación al público o puesta a disposición del público, de forma no autorizada, de ejemplares en formato accesible.
+c) Gestionar con la diligencia debida las obras, así como sus ejemplares, en formato accesible, y mantener un registro de dicha gestión.
+d) Publicar información sobre las actuaciones realizadas en aplicación de las letras anteriores, siendo suficiente, a estos efectos, una actualización semestral en su portal de internet y una remisión de dicha información, actualizada semestralmente, al centro directivo del Ministerio de Cultura y Deporte competente en materia de propiedad intelectual y a la entidad o entidades de gestión de derechos de propiedad intelectual que representen a los titulares de las obras adaptadas a formato accesible. El referido centro directivo del Ministerio de Cultura y Deporte creará y llevará un registro de las entidades autorizadas y podrá comprobar, en cualquier momento, las actuaciones informadas por estas.
+e) Facilitar de forma accesible, previa solicitud, la lista de obras y formatos disponibles según lo previsto en la anterior letra d), y los datos de las entidades autorizadas con las que hayan intercambiado ejemplares en formato accesible, a los beneficiarios del apartado anterior, a otras entidades autorizadas o a los titulares de derechos.
+El Ministerio de Cultura y Deporte remitirá a la Comisión Europea la información que haya recibido de las entidades autorizadas, incluyendo su nombre y datos de contacto.
+Estas obligaciones deberán cumplirse respetando plenamente la normativa vigente en materia de tratamiento de datos personales.
+4. Las entidades comunicarán al centro directivo del Ministerio de Cultura y Deporte competente en materia de propiedad intelectual, el cumplimiento de los requisitos contenidos en los anteriores apartados 2 y 3, exigibles a una entidad autorizada. En caso de incumplimiento de los mismos y de no ser atendido el oportuno requerimiento de subsanación, se requerirá a aquellas el cese de la actividad regulada en el presente artículo.
+5. Lo previsto en los anteriores apartados 2, 3 y 4 lo es sin perjuicio de la aplicabilidad de la normativa de la Unión Europea en materia de intercambio transfronterizo entre esta y terceros países de ejemplares en formato accesible de determinadas obras y otras prestaciones protegidas por derechos de autor y derechos afines en favor de personas ciegas, con discapacidad visual o con otras dificultades para acceder a textos impresos.
+Se añade por el art. único.3 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.4 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 32
+
+Artículo 32. Citas y reseñas e ilustración con fines educativos o de investigación científica.
+1. Es lícita la inclusión en una obra propia de fragmentos de otras ajenas de naturaleza escrita, sonora o audiovisual, así como la de obras aisladas de carácter plástico o fotográfico figurativo, siempre que se trate de obras ya divulgadas y su inclusión se realice a título de cita o para su análisis, comentario o juicio crítico. Tal utilización solo podrá realizarse con fines docentes o de investigación, en la medida justificada por el fin de esa incorporación e indicando la fuente y el nombre del autor de la obra utilizada.
+Las recopilaciones periódicas efectuadas en forma de reseñas o revista de prensa tendrán la consideración de citas. No obstante, cuando se realicen recopilaciones de artículos periodísticos que consistan básicamente en su mera reproducción y dicha actividad se realice con fines comerciales, el autor que no se haya opuesto expresamente tendrá derecho a percibir una remuneración equitativa. En caso de oposición expresa del autor, dicha actividad no se entenderá amparada por este límite.
+En todo caso, la reproducción, distribución o comunicación pública, total o parcial, de artículos periodísticos aislados en un dossier de prensa que tenga lugar dentro de cualquier organización requerirá la autorización de los titulares de derechos.
+2. La puesta a disposición del público, por parte de prestadores de servicios electrónicos de agregación de contenidos, de textos o fragmentos de textos de publicaciones de prensa objeto de derechos de propiedad intelectual requerirá la concesión, por parte de los titulares de derechos en lo relativo a usos en línea, de la correspondiente autorización prevista en el artículo 129 bis.
+Sin perjuicio de lo establecido en el párrafo anterior, la puesta a disposición del público por parte de prestadores de servicios que faciliten instrumentos de búsqueda de palabras aisladas no estará sujeta a autorización ni remuneración siempre que tal puesta a disposición del público se produzca sin finalidad comercial propia y se realice estrictamente circunscrita a lo imprescindible para ofrecer resultados de búsqueda en respuesta a consultas previamente formuladas por un usuario al buscador y siempre que la puesta a disposición del público incluya un enlace a la página de origen de los contenidos.
+3. El profesorado de la educación reglada impartida en centros integrados en el sistema educativo español y el personal de Universidades y Organismos Públicos de investigación en sus funciones de investigación científica, no necesitarán autorización del autor o editor para realizar actos de reproducción, distribución y comunicación pública de pequeños fragmentos de obras y de obras aisladas de carácter plástico o fotográfico figurativo, cuando, no concurriendo una finalidad comercial, se cumplan simultáneamente las siguientes condiciones:
+a) Que tales actos se hagan únicamente para la ilustración de sus actividades educativas, tanto en la enseñanza presencial como en la enseñanza a distancia, o con fines de investigación científica, y en la medida justificada por la finalidad no comercial perseguida.
+b) Que se trate de obras ya divulgadas.
+c) Que las obras no tengan la condición de libro de texto, manual universitario o publicación asimilada, salvo que se trate de:
+1.º Actos de reproducción para la comunicación pública, incluyendo el propio acto de comunicación pública, que no supongan la puesta a disposición ni permitan el acceso de los destinatarios a la obra o fragmento. En estos casos deberá incluirse expresamente una localización desde la que los alumnos puedan acceder legalmente a la obra protegida.
+2.º Actos de distribución de copias exclusivamente entre el personal investigador colaborador de cada proyecto específico de investigación y en la medida necesaria para este proyecto.
+A estos efectos, se entenderá por libro de texto, manual universitario o publicación asimilada, cualquier publicación, impresa o susceptible de serlo, editada con el fin de ser empleada como recurso o material del profesorado o el alumnado de la educación reglada para facilitar el proceso de la enseñanza o aprendizaje.
+d) Que se incluyan el nombre del autor y la fuente, salvo en los casos en que resulte imposible.
+A estos efectos, se entenderá por pequeño fragmento de una obra, un extracto o porción cuantitativamente poco relevante sobre el conjunto de la misma.
+Los autores y editores no tendrán derecho a remuneración alguna por la realización de estos actos.
+4. Tampoco necesitarán la autorización del autor o editor los actos de reproducción parcial, de distribución y de comunicación pública de obras o publicaciones, impresas o susceptibles de serlo, cuando concurran simultáneamente las siguientes condiciones:
+a) Que tales actos se lleven a cabo únicamente para la ilustración con fines educativos y de investigación científica.
+b) Que los actos se limiten a un capítulo de un libro, artículo de una revista o extensión equivalente respecto de una publicación asimilada, o extensión asimilable al 10 por ciento del total de la obra, resultando indiferente a estos efectos que la copia se lleve a cabo a través de uno o varios actos de reproducción.
+c) Que los actos se realicen en las universidades o centros públicos de investigación, por su personal y con sus medios e instrumentos propios.
+d) Que concurra, al menos, una de las siguientes condiciones:
+1.º Que la distribución de las copias parciales se efectúe exclusivamente entre los alumnos y personal docente o investigador del mismo centro en el que se efectúa la reproducción.
+2.º Que sólo los alumnos y el personal docente o investigador del centro en el que se efectúe la reproducción parcial de la obra puedan tener acceso a la misma a través de los actos de comunicación pública autorizados en el presente apartado, llevándose a cabo la puesta a disposición a través de las redes internas y cerradas a las que únicamente puedan acceder esos beneficiarios o en el marco de un programa de educación a distancia ofertado por dicho centro docente.
+En defecto de previo acuerdo específico al respecto entre el titular del derecho de propiedad intelectual y el centro universitario u organismo de investigación, y salvo que dicho centro u organismo sea titular de los correspondientes derechos de propiedad intelectual sobre las obras reproducidas, distribuidas y comunicadas públicamente de forma parcial según el apartado b), los autores y editores de éstas tendrán un derecho irrenunciable a percibir de los centros usuarios una remuneración equitativa, que se hará efectiva a través de las entidades de gestión.
+5. No se entenderán comprendidas en los apartados 3 y 4 las partituras musicales, las obras de un solo uso ni las compilaciones o agrupaciones de fragmentos de obras, o de obras aisladas de carácter plástico o fotográfico figurativo.
+Se modifica el apartado 2 por el art. 80.2 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-2
+ Se añade un párrafo al apartado 1 por el art. único.4 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifican el título y el apartado 2 y se añaden los apartados 3, 4 y 5 por el art. 1.5 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Téngase en cuenta que los apartados 3 y 4 entran en vigor el 5 de noviembre de 2015, según establece la disposición final 5.a) de la citada Ley.
+ Se modifica por el art. único.7 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 33
+
+Artículo 33. Trabajos sobre temas de actualidad.
+1. Los trabajos y artículos sobre temas de actualidad difundidos por los medios de comunicación social podrán ser reproducidos, distribuidos y comunicados públicamente por cualesquiera otros de la misma clase, citando la fuente y el autor si el trabajo apareció con firma y siempre que no se hubiese hecho constar en origen la reserva de derechos. Todo ello sin perjuicio del derecho del autor a percibir la remuneración acordada o, en defecto de acuerdo, la que se estime equitativa.
+Cuando se trate de colaboraciones literarias será necesaria, en todo caso, la oportuna autorización del autor.
+2. Igualmente, se podrán reproducir, distribuir y comunicar las conferencias, alocuciones, informes ante los Tribunales y otras obras del mismo carácter que se hayan pronunciado en público, siempre que esas utilizaciones se realicen con el exclusivo fin de informar sobre la actualidad. Esta última condición no será de aplicación a los discursos pronunciados en sesiones parlamentarias o de corporaciones públicas. En cualquier caso, queda reservado al autor el derecho a publicar en colección tales obras.
+
+### Artículo 34
+
+Artículo 34. Utilización de bases de datos por el usuario legítimo y limitaciones a los derechos de explotación del titular de una base de datos.
+1. El usuario legítimo de una base de datos protegida en virtud del artículo 12 de esta Ley o de copias de la misma, podrá efectuar, sin la autorización del autor de la base, todos los actos que sean necesarios para el acceso al contenido de la base de datos y a su normal utilización por el propio usuario, aunque estén afectados por cualquier derecho exclusivo de ese autor. En la medida en que el usuario legítimo esté autorizado a utilizar sólo una parte de la base de datos, esta disposición será aplicable únicamente a dicha parte.
+Cualquier pacto en contrario a lo establecido en esta disposición será nulo de pleno derecho.
+2. Sin perjuicio de lo dispuesto en el artícu lo 31, no se necesitará la autorización del autor de una base de datos protegida en virtud del ar tículo 12 de esta Ley y que haya sido divulgada:
+a) Cuando tratándose de una base de datos no electrónica se realice una reproducción con fines privados.
+b) Cuando la utilización se realice con fines de ilustración de la enseñanza o de investigación científica siempre que se lleve a efecto en la medida justificada por el objetivo no comercial que se persiga e indicando en cualquier caso su fuente.
+c) Cuando se trate de una utilización para fines de seguridad pública o a efectos de un procedimiento administrativo o judicial.
+Se modifica por el art. 4.2 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 35
+
+Artículo 35. Utilización de las obras con ocasión de informaciones de actualidad y de las situadas en vías públicas.
+1. Cualquier obra susceptible de ser vista u oída con ocasión de informaciones sobre acontecimientos de la actualidad puede ser reproducida, distribuida y comunicada públicamente, si bien sólo en la medida que lo justifique dicha finalidad informativa.
+2. Las obras situadas permanentemente en parques, calles, plazas u otras vías públicas pueden ser reproducidas, distribuidas y comunicadas libremente por medio de pinturas, dibujos, fotografías y procedimientos audiovisuales.
+Se modifica por el art. 4.2 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 36
+
+Artículo 36. Cable, satélite y grabaciones técnicas.
+1. La autorización para emitir una obra comprende la transmisión por cable de la emisión, cuanto ésta se realice simultánea e íntegramente por la entidad de origen y sin exceder la zona geográfica prevista en dicha autorización.
+2. Asimismo, la referida autorización comprende su incorporación a un programa dirigido hacia un satélite que permita la recepción de esta obra a través de entidad distinta de la de origen, cuando el autor o su derechohabiente haya autorizado a esta última entidad para comunicar la obra al público, en cuyo caso, además, la emisora de origen quedará exenta del pago de toda remuneración.
+3. La cesión del derecho de comunicación pública de una obra, cuando ésta se realiza a través de la radiodifusión, facultará a la entidad radiodifusora para registrar la misma por sus propios medios y para sus propias emisiones inalámbricas, al objeto de realizar, por una sola vez, la comunicación pública autorizada. Para nuevas difusiones de la obra así registrada será necesaria la cesión del derecho de reproducción y de comunicación pública.
+4. Lo dispuesto en este artículo se entiende sin perjuicio de lo previsto en el artículo 20 de la presente Ley.
+
+### Artículo 37
+
+Artículo 37. Reproducción, préstamo y consulta de obras mediante terminales especializados en determinados establecimientos.
+1. Los titulares de los derechos de autor no podrán oponerse a las reproducciones de las obras, cuando aquéllas se realicen sin finalidad lucrativa por los museos, bibliotecas, fonotecas, filmotecas, hemerotecas o archivos de titularidad pública o integradas en instituciones de carácter cultural o científico y la reproducción se realice exclusivamente para fines de investigación o conservación.
+2. Asimismo, los museos, archivos, bibliotecas, hemerotecas, fonotecas o filmotecas de titularidad pública o que pertenezcan a entidades de interés general de carácter cultural, científico o educativo sin ánimo de lucro, o a instituciones docentes integradas en el sistema educativo español, no precisarán autorización de los titulares de derechos por los préstamos que realicen.
+Los titulares de estos establecimientos remunerarán a los autores por los préstamos que realicen de sus obras en la cuantía que se determine mediante Real Decreto. La remuneración se hará efectiva a través de las entidades de gestión de los derechos de propiedad intelectual.
+Cuando los titulares de los establecimientos sean los Municipios, la remuneración será satisfecha por las Diputaciones Provinciales. Allí donde no existen, la remuneración será satisfecha por la Administración que asume sus funciones.
+Quedan eximidos de la obligación de remuneración los establecimientos de titularidad pública que presten servicio en municipios de menos de 5.000 habitantes, así como las bibliotecas de las instituciones docentes integradas en el sistema educativo español.
+El Real Decreto por el que se establezca la cuantía contemplará asimismo los mecanismos de colaboración necesarios entre el Estado, las Comunidades Autónomas y las corporaciones locales para el cumplimiento de las obligaciones de remuneración que afecten a establecimientos de titularidad pública.
+3. No necesitará autorización del autor la comunicación de obras o su puesta a disposición de personas concretas del público a efectos de investigación cuando se realice mediante red cerrada e interna a través de terminales especializados instalados a tal efecto en los locales de los establecimientos citados en el anterior apartado y siempre que tales obras figuren en las colecciones del propio establecimiento y no sean objeto de condiciones de adquisición o de licencia. Todo ello sin perjuicio del derecho del autor a percibir una remuneración equitativa.
+Se modifica el apartado 2 por el art. único.4 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica el apartado 2 por la disposición final 1.2 de la Ley 10/2007, de 22 de junio. Ref. BOE-A-2007-12351.
+ Se modifica la rúbrica y el apartado 1 y se añade el 3 por el art. único. 8 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 37 bis
+
+Artículo 37 bis. Obras huérfanas.
+1. Se considerará obra huérfana a la obra cuyos titulares de derechos no están identificados o, de estarlo, no están localizados a pesar de haberse efectuado una previa búsqueda diligente de los mismos.
+2. Si existen varios titulares de derechos sobre una misma obra y no todos ellos han sido identificados o, a pesar de haber sido identificados, no han sido localizados tras haber efectuado una búsqueda diligente, la obra se podrá utilizar conforme a la presente ley, sin perjuicio de los derechos de los titulares que hayan sido identificados y localizados y, en su caso, de la necesidad de la correspondiente autorización.
+3. Toda utilización de una obra huérfana requerirá la mención de los nombres de los autores y titulares de derechos de propiedad intelectual identificados, sin perjuicio de lo dispuesto en el artículo 14.2.º
+4. Los centros educativos, museos, bibliotecas y hemerotecas accesibles al público, así como los organismos públicos de radiodifusión, archivos, fonotecas y filmotecas podrán reproducir, a efectos de digitalización, puesta a disposición del público, indexación, catalogación, conservación o restauración, y poner a disposición del público, en la forma establecida en el artículo 20.2.i), las siguientes obras huérfanas, siempre que tales actos se lleven a cabo sin ánimo de lucro y con el fin de alcanzar objetivos relacionados con su misión de interés público, en particular la conservación y restauración de las obras que figuren en su colección y la facilitación del acceso a la misma con fines culturales y educativos:
+a) Obras cinematográficas o audiovisuales, fonogramas y obras publicadas en forma de libros, periódicos, revistas u otro material impreso que figuren en las colecciones de centros educativos, museos, bibliotecas y hemerotecas accesibles al público, así como de archivos, fonotecas y filmotecas.
+b) Obras cinematográficas o audiovisuales y fonogramas producidos por organismos públicos de radiodifusión hasta el 31 de diciembre de 2002 inclusive, y que figuren en sus archivos.
+Lo dispuesto en este artículo se aplicará también a las obras y prestaciones protegidas que estén insertadas o incorporadas en las obras citadas en el presente apartado o formen parte integral de éstas.
+5.Las obras huérfanas se podrán utilizar siempre que hayan sido publicadas por primera vez o, a falta de publicación, hayan sido radiodifundidas por primera vez en un Estado miembro de la Unión Europea. Dicha utilización podrá llevarse a cabo previa búsqueda diligente, en dicho Estado, de los titulares de los derechos de propiedad intelectual de la obra huérfana. En el caso de las obras cinematográficas o audiovisuales cuyo productor tenga su sede o residencia habitual en un Estado miembro de la Unión Europea, la búsqueda de los titulares deberá realizarse en dicho Estado.
+Asimismo, las entidades citadas en el apartado anterior que hubieran puesto a disposición del público, con el consentimiento de sus titulares de derechos, obras huérfanas no publicadas ni radiodifundidas, podrán utilizarlas, cuando sea razonable presumir que sus titulares no se opondrían a los usos previstos en este artículo. En este caso, la búsqueda a que se refiere el párrafo anterior deberá realizarse en España.
+La búsqueda diligente se realizará de buena fe, mediante la consulta de, al menos, las fuentes de información que reglamentariamente se determinen, sin perjuicio de la obligación de consultar fuentes adicionales disponibles en otros países donde haya indicios de la existencia de información pertinente sobre los titulares de derechos.
+6. Las entidades citadas en el apartado 4 registrarán el proceso de búsqueda de los titulares de derechos y remitirán la siguiente información al órgano competente a que se refiere el apartado siguiente:
+a) Los resultados de las búsquedas diligentes que hayan efectuado y que hayan llevado a la conclusión de que una obra o un fonograma debe considerarse obra huérfana.
+b) El uso que las entidades hacen de las obras huérfanas de conformidad con la presente ley.
+c) Cualquier cambio, de conformidad con el apartado siguiente, en la condición de obra huérfana de las obras y los fonogramas que utilicen.
+d) La información de contacto pertinente de la entidad en cuestión.
+7. En cualquier momento, los titulares de derechos de propiedad intelectual de una obra podrán solicitar al órgano competente que reglamentariamente se determine el fin de su condición de obra huérfana en lo que se refiere a sus derechos y percibir una compensación equitativa por la utilización llevada a cabo conforme a lo dispuesto en este artículo.
+Se añade por el art. 1.6 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+
+### Artículo 38
+
+Artículo 38. Actos oficiales y ceremonias religiosas.
+La ejecución de obras musicales en el curso de actos oficiales del Estado, de las Administraciones públicas y ceremonias religiosas no requerirá autorización de los titulares de los derechos, siempre que el público pueda asistir a ellas gratuitamente y los artistas que en las mismas intervengan no perciban remuneración específica por su interpretación o ejecución en dichos actos.
+
+### Artículo 39
+
+Artículo 39. Parodia.
+No será considerada transformación que exija consentimiento del autor la parodia de la obra divulgada, mientras no implique riesgo de confusión con la misma ni se infiera un daño a la obra original o a su autor.
+
+### Artículo 40
+
+Artículo 40. Tutela del derecho de acceso a la cultura.
+Si a la muerte o declaración de fallecimiento del autor, sus derechohabientes ejerciesen su derecho a la no divulgación de la obra, en condiciones que vulneren lo dispuesto en el artículo 44 de la Constitución, el Juez podrá ordenar las medidas adecuadas a petición del Estado, las Comunidades Autónomas, las Corporaciones locales, las instituciones públicas de carácter cultural o de cualquier otra persona que tenga un interés legítimo.
+
+### Artículo 40 bis
+
+Artículo 40 bis. Disposición común a todas las del presente capítulo.
+Los artículos del presente capítulo no podrán interpretarse de manera tal que permitan su aplicación de forma que causen un perjuicio injustificado a los intereses legítimos del autor o que vayan en detrimento de la explotación normal de las obras a que se refieran.
+Se añade por el art. 4.3 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### CAPÍTULO III
+
+Salvaguardia de aplicación de otras disposiciones legales
+Se añade por el art. 4.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 40 ter
+
+Artículo 40 ter. Salvaguardia de aplicación de otras disposiciones legales.
+Lo dispuesto en los artículos del presente Libro I, sobre la protección de las bases de datos, se entenderá sin perjuicio de cualesquiera otras disposiciones legales que afecten a la estructura o al contenido de cualesquiera de esas bases, tales como las relativas a otros derechos de propiedad intelectual, derecho "sui generis", sobre una base de datos, derecho de propiedad industrial, derecho de la competencia, derecho contractual, secretos, protección de los datos de carácter personal, protección de los tesoros nacionales o sobre el acceso a los documentos públicos.
+Se añade por el art. 4.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+## TÍTULO IV
+
+Dominio público
+
+### Artículo 41
+
+Artículo 41. Condiciones para la utilización de las obras en dominio público.
+La extinción de los derechos de explotación de las obras determinará su paso al dominio público.
+Las obras de dominio público podrán ser utilizadas por cualquiera, siempre que se respete la autoría y la integridad de la obra, en los términos previstos en los apartados 3.º y 4.º del artículo 14.
+
+## TÍTULO V
+
+Transmisión de los derechos
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 42
+
+Artículo 42. Transmisión «mortis causa».
+Los derechos de explotación de la obra se transmiten «mortis causa» por cualquiera de los medios admitidos en derecho.
+
+### Artículo 43
+
+Artículo 43. Transmisión «inter vivos».
+1. Los derechos de explotación de la obra pueden transmitirse por actos «inter vivos», quedando limitada la cesión al derecho o derechos cedidos, a las modalidades de explotación expresamente previstas y al tiempo y ámbito territorial que se determinen.
+2. La falta de mención del tiempo limita la transmisión a cinco años y la del ámbito territorial al país en el que se realice la cesión. Si no se expresan específicamente y de modo concreto las modalidades de explotación de la obra, la cesión quedará limitada a aquella que se deduzca necesariamente del propio contrato y sea indispensable para cumplir la finalidad del mismo.
+3. Será nula la cesión de derechos de explotación respecto del conjunto de las obras que pueda crear el autor en el futuro.
+4. Serán nulas las estipulaciones por las que el autor se comprometa a no crear alguna obra en el futuro.
+5. La transmisión de los derechos de explotación no alcanza a las modalidades de utilización o medios de difusión inexistentes o desconocidos al tiempo de la cesión.
+
+### Artículo 44
+
+Artículo 44. Menores de vida independiente.
+Los autores menores de dieciocho años y mayores de dieciséis, que vivan de forma independiente con consentimiento de sus padres o tutores o con autorización de la persona o institución que los tengan a su cargo, tienen plena capacidad para ceder derechos de explotación.
+
+### Artículo 45
+
+Artículo 45. Formalización escrita.
+Toda cesión deberá formalizarse por escrito. Si, previo requerimiento fehaciente, el cesionario incumpliere esta exigencia, el autor podrá optar por la resolución del contrato.
+
+### Artículo 46
+
+Artículo 46. Remuneración proporcional y a tanto alzado.
+1. La cesión otorgada por el autor a título oneroso le confiere una participación proporcional en los ingresos de la explotación, en la cuantía convenida con el cesionario.
+2. Podrá estipularse, no obstante, una remuneración a tanto alzado para el autor en los siguientes casos:
+a) Cuando, atendida la modalidad de la explotación, exista dificultad grave en la determinación de los ingresos o su comprobación sea imposible o de un coste desproporcionado con la eventual retribución.
+b) Cuando la utilización de la obra tenga carácter accesorio respecto de la actividad o del objeto material a los que se destinen.
+c) Cuando la obra, utilizada con otras, no constituya un elemento esencial de la creación intelectual en la que se integre.
+d) En el caso de la primera o única edición de las siguientes obras no divulgadas previamente:
+1.º Diccionarios, antologías y enciclopedias.
+2.º Prólogos, anotaciones, introducciones y presentaciones.
+3.º Obras científicas.
+4.º Trabajos de ilustración de una obra.
+5.º Traducciones.
+6.º Ediciones populares a precios reducidos.
+
+### Artículo 47
+
+Artículo 47. Acción de revisión por remuneración no equitativa.
+1. Si en la cesión se produjese una manifiesta desproporción entre la remuneración inicialmente pactada por el autor en comparación con la totalidad de los ingresos subsiguientes derivados de la explotación de las obras obtenidos por el cesionario o su derechohabiente, aquel podrá pedir la revisión del contrato y, en defecto de acuerdo, acudir al Juez para que fije una remuneración adecuada y equitativa, atendidas las circunstancias del caso.
+2. Esta facultad podrá ejercitarse dentro de los diez años siguientes al de la cesión, siempre que no exista pacto expreso acordado al efecto, convenio colectivo o acuerdo sectorial entre los representantes de los autores y los cesionarios que prevean un procedimiento de revisión de la remuneración no equitativa por la cesión de derechos como el indicado en el apartado anterior.
+3. Esta acción de revisión no será aplicable a los autores de los programas de ordenador en el sentido del artículo 97, ni a las autorizaciones exclusivas concedidas por las entidades de gestión y los operadores de gestión independiente regulados en el Título IV del Libro II.
+Se modifica por el art. 80.3 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-2
+
+### Artículo 48
+
+Artículo 48. Cesión en exclusiva.
+La cesión en exclusiva deberá otorgarse expresamente con este carácter y atribuirá al cesionario, dentro del ámbito de aquélla, la facultad de explotar la obra con exclusión de otra persona, comprendido el propio cedente, y, salvo pacto en contrario, las de otorgar autorizaciones no exclusivas a terceros. Asimismo, le confiere legitimación, con independencia de la del titular cedente, para perseguir las violaciones que afecten a las facultades que se le hayan concedido.
+Esta cesión constituye al cesionario en la obligación de poner todos los medios necesarios para la efectividad de la explotación concedida, según la naturaleza de la obra y los usos vigentes en la actividad profesional, industrial o comercial de que se trate.
+
+### Artículo 48 bis
+
+Artículo 48 bis. Derecho de revocación.
+1. Cuando un autor haya concedido una autorización o cedido sus derechos sobre una obra de forma exclusiva podrá resolver, en todo o en parte, la autorización o cesión si la obra no está siendo explotada.
+El autor podrá optar, como alternativa a la resolución anterior, por poner fin a la exclusividad del contrato.
+El presente apartado no será de aplicación si la ausencia de explotación se debe principalmente a circunstancias que se puede razonablemente esperar sean subsanadas por el autor o el artista intérprete o ejecutante.
+2. Quedan excluidas de lo dispuesto en el apartado anterior las obras colectivas, las obras en colaboración y los programas de ordenador.
+3. Este derecho podrá ejercerse, previa comunicación, una vez transcurridos cinco años desde la autorización o cesión de los derechos siempre que no exista pacto expreso acordado al efecto, convenio colectivo o acuerdo sectorial en el que se regule el ejercicio de este derecho. La comunicación del autor fijará un plazo no inferior a un año vencido el cual podrá decidir poner fin a la autorización, a la cesión o a la exclusividad del contrato.
+4. El derecho regulado en este artículo será irrenunciable.
+Se añade por el art. 80.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-2
+
+### Artículo 49
+
+Artículo 49. Transmisión del derecho del cesionario en exclusiva.
+El cesionario en exclusiva podrá transmitir a otro su derecho con el consentimiento expreso del cedente.
+En defecto de consentimiento, los cesionarios responderán solidariamente frente al primer cedente de las obligaciones de la cesión.
+No será necesario el consentimiento cuando la transmisión se lleve a efecto como consecuencia de la disolución o del cambio de titularidad de la empresa cesionaria.
+
+### Artículo 50
+
+Artículo 50. Cesión no exclusiva
+1. El cesionario no exclusivo quedará facultado para utilizar la obra de acuerdo con los términos de la cesión y en concurrencia tanto con otros cesionarios como con el propio cedente. Su derecho será intransmisible, salvo en los supuestos previstos en el párrafo tercero del artículo anterior.
+2. Las autorizaciones no exclusivas concedidas por las entidades de gestión para utilización de sus repertorios serán, en todo caso, intransmisibles.
+
+### Artículo 51
+
+Artículo 51. Transmisión de los derechos del autor asalariado.
+1. La transmisión al empresario de los derechos de explotación de la obra creada en virtud de una relación laboral se regirá por lo pactado en el contrato, debiendo éste realizarse por escrito.
+2. A falta de pacto escrito, se presumirá que los derechos de explotación han sido cedidos en exclusiva y con el alcance necesario para el ejercicio de la actividad habitual del empresario en el momento de la entrega de la obra realizada en virtud de dicha relación laboral.
+3. En ningún caso podrá el empresario utilizar la obra o disponer de ella para un sentido o fines diferentes de los que se derivan de lo establecido en los dos apartados anteriores.
+4. Las demás disposiciones de esta Ley serán, en lo pertinente, de aplicación a estas transmisiones, siempre que así se derive de la finalidad y objeto del contrato.
+5. La titularidad de los derechos sobre un programa de ordenador creado por un trabajador asalariado en el ejercicio de sus funciones o siguiendo las instrucciones de su empresario se regirá por lo previsto en el apartado 4 del artículo 97 de esta Ley.
+
+### Artículo 52
+
+Artículo 52. Transmisión de derechos para publicaciones periódicas.
+Salvo estipulación en contrario, los autores de obras reproducidas en publicaciones periódicas conservan su derecho a explotarlas en cualquier forma que no perjudique la normal de la publicación en la que se hayan insertado.
+El autor podrá disponer libremente de su obra, si ésta no se reprodujese en el plazo de un mes desde su envío o aceptación en las publicaciones diarias o en el de seis meses en las restantes, salvo pacto en contrario.
+La remuneración del autor de las referidas obras podrá consistir en un tanto alzado.
+
+### Artículo 53
+
+Artículo 53. Hipoteca y embargo de los derechos de autor.
+1. Los derechos de explotación de las obras protegidas en esta Ley podrán ser objeto de hipoteca con arreglo a la legislación vigente.
+2. Los derechos de explotación correspondientes al autor no son embargables, pero sí lo son sus frutos o productos, que se considerarán como salarios, tanto en lo relativo al orden de prelación para el embargo, como a retenciones o parte inembargable.
+
+### Artículo 54
+
+Artículo 54. Créditos por la cesión de derechos de explotación.
+(Derogado)
+Se deroga por la disposición derogaroria única.3.9º de la Ley 22/2003, de 9 de julio. Ref. BOE-A-2003-13813.
+
+### Artículo 55
+
+Artículo 55. Beneficios irrenunciables.
+Salvo disposición de la propia Ley, los beneficios que se otorgan en el presente Título a los autores y a sus derechohabientes serán irrenunciables.
+
+### Artículo 56
+
+Artículo 56. Transmisión de derechos a los propietarios de ciertos soportes materiales.
+1. El adquirente de la propiedad del soporte a que se haya incorporado la obra no tendrá, por este solo título, ningún derecho de explotación sobre esta última.
+2. No obstante, el propietario del original de una obra de artes plásticas o de una obra fotográfica tendrá el derecho de exposición pública de la obra, aunque ésta no haya sido divulgada, salvo que el autor hubiera excluido expresamente este derecho en el acto de enajenación del original. En todo caso, el autor podrá oponerse al ejercicio de este derecho, mediante la aplicación, en su caso, de las medidas cautelares previstas en esta Ley, cuando la exposición se realice en condiciones que perjudiquen su honor o reputación profesional.
+
+### Artículo 57
+
+Artículo 57. Aplicación preferente de otras disposiciones.
+La transmisión de derechos de autor para su explotación a través de las modalidades de edición, representación o ejecución, o de producción de obras audiovisuales se regirá, respectivamente y en todo caso, por lo establecido en las disposiciones específicas de este Libro I, y en lo no previsto en las mismas, por lo establecido en este capítulo.
+Las cesiones de derechos para cada una de las distintas modalidades de explotación deberán formalizarse en documentos independientes.
+
+## CAPÍTULO II
+
+Contrato de edición
+
+### Artículo 58
+
+Artículo 58. Concepto.
+1. Por el contrato de edición el autor o sus derechohabientes ceden al editor, mediante compensación económica, el derecho de reproducir su obra y el de distribuirla. El editor se obliga a realizar estas operaciones por su cuenta y riesgo en las condiciones pactadas y con sujeción a lo dispuesto en esta ley.
+2. Esta cesión constituye fundamento jurídico suficiente para que el editor tenga derecho a una parte de la compensación equitativa prevista en el artículo 25.
+Se modifica por el art. 80.5 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-2
+
+### Artículo 59
+
+Artículo 59. Obras futuras, encargo de una obra y colaboraciones en publicaciones periódicas.
+1. Las obras futuras no son objeto del contrato de edición regulado en esta Ley.
+2. El encargo de una obra no es objeto del contrato de edición, pero la remuneración que pudiera convenirse será considerada como anticipo de los derechos que al autor le correspondiesen por la edición, si ésta se realizase.
+3. Las disposiciones de este capítulo tampoco serán de aplicación a las colaboraciones en publicaciones periódicas, salvo que así lo exijan, en su caso, la naturaleza y la finalidad del contrato.
+
+### Artículo 60
+
+Artículo 60. Formalización y contenido mínimo.
+El contrato de edición deberá formalizarse por escrito y expresar en todo caso:
+1.º Si la cesión del autor al editor tiene carácter de exclusiva.
+2.º Su ámbito territorial.
+3.º El número máximo y mínimo de ejemplares que alcanzará la edición o cada una de las que se convengan.
+4.º La forma de distribución de los ejemplares y los que se reserven al autor, a la crítica y a la promoción de la obra.
+5.º La remuneración del autor, establecida conforme a lo dispuesto en el artículo 46 de esta Ley.
+6.º El plazo para la puesta en circulación de los ejemplares de la única o primera edición, que no podrá exceder de dos años contados desde que el autor entregue al editor la obra en condiciones adecuadas para realizar la reproducción de la misma.
+7.º El plazo en que el autor deberá entregar el original de su obra al editor.
+
+### Artículo 61
+
+Artículo 61. Supuestos de nulidad y de subsanación de omisiones.
+1. Será nulo el contrato no formalizado por escrito, así como el que no exprese los extremos exigidos en los apartados 3.º y 5.º del artículo anterior.
+2. La omisión de los extremos mencionados en los apartados 6.º y 7.º del artículo anterior dará acción a los contratantes para compelerse recíprocamente a subsanar la falta. En defecto de acuerdo, lo hará el Juez atendiendo a las circunstancias del contrato, a los actos de las partes en su ejecución y a los usos.
+
+### Artículo 62
+
+Artículo 62. Edición en forma de libro.
+1. Cuando se trate de la edición de una obra en forma de libro, el contrato deberá expresar, además, los siguientes extremos:
+a) La lengua o lenguas en que ha de publicarse la obra.
+b) El anticipo a conceder, en su caso, por el editor al autor a cuenta de sus derechos.
+c) La modalidad o modalidades de edición y, en su caso, la colección de la que formarán parte.
+2. La falta de expresión de la lengua o lenguas en que haya de publicarse la obra sólo dará derecho al editor a publicarla en el idioma original de la misma.
+3. Cuando el contrato establezca la edición de una obra en varias lenguas españolas oficiales, la publicación en una de ellas no exime al editor de la obligación de su publicación en las demás.
+Si transcurridos cinco años desde que el autor entregue la obra, el editor no la hubiese publicado en todas las lenguas previstas en el contrato, el autor podrá resolverlo respecto de las lenguas en las que no se haya publicado.
+4. Lo dispuesto en el apartado anterior se aplicará también para las traducciones de las obras extranjeras en España.
+
+### Artículo 63
+
+Artículo 63. Excepciones al artículo 60.6.º
+La limitación del plazo prevista en el apartado 6.º del artículo 60 no será de aplicación a las ediciones de los siguientes tipos de obras:
+1.º Antologías de obras ajenas, diccionarios, enciclopedias y colecciones análogas.
+2.º Prólogos, epílogos, presentaciones, introducciones, anotaciones, comentarios e ilustraciones de obras ajenas.
+
+### Artículo 64
+
+Artículo 64. Obligaciones del editor.
+Son obligaciones del editor:
+1.º Reproducir la obra en la forma convenida, sin introducir ninguna modificación que el autor no haya consentido y haciendo constar en los ejemplares el nombre, firma o signo que lo identifique.
+2.º Someter las pruebas de la tirada al autor, salvo pacto en contrario.
+3.º Proceder a la distribución de la obra en el plazo y condiciones estipulados.
+4.º Asegurar a la obra una explotación continua y una difusión comercial conforme a los usos habituales en el sector profesional de la edición.
+5.º Satisfacer al autor la remuneración estipulada y, cuando ésta sea proporcional, al menos una vez cada año, la oportuna liquidación, de cuyo contenido le rendirá cuentas. Deberá, asimismo, poner anualmente a disposición de autor un certificado en el que se determinen los datos relativos a la fabricación, distribución y existencias de ejemplares. A estos efectos, si el autor lo solicita, el editor le presentará los correspondientes justificantes.
+6.º Restituir al autor el original de la obra, objeto de la edición, una vez finalizadas las operaciones de impresión y tirada de la misma.
+
+### Artículo 65
+
+Artículo 65. Obligaciones del autor.
+Son obligaciones del autor:
+1.º Entregar al editor en debida forma para su reproducción y dentro del plazo convenido la obra objeto de la edición.
+2.º Responder ante el editor de la autoría y originalidad de la obra y del ejercicio pacífico de los derechos que le hubiese cedido.
+3.º Corregir las pruebas de la tirada, salvo pacto en contrario.
+
+### Artículo 66
+
+Artículo 66. Modificaciones en el contenido de la obra.
+El autor, durante el período de corrección de pruebas, podrá introducir en la obra las modificaciones que estime imprescindibles, siempre que no alteren su carácter o finalidad, ni se eleve sustancialmente el coste de la edición. En cualquier caso, el contrato de edición podrá prever un porcentaje máximo de correcciones sobre la totalidad de la obra.
+
+### Artículo 67
+
+Artículo 67. Derechos de autor en caso de venta en saldo y destrucción de la edición.
+1. El editor no podrá, sin consentimiento del autor, vender como saldo la edición antes de dos años de la inicial puesta en circulación de los ejemplares.
+2. Transcurrido dicho plazo, si el editor decide vender como saldo los que le resten, lo notificará fehacientemente al autor, quien podrá optar por adquirirlos ejerciendo tanteo sobre el precio de saldo o, en el caso de remuneración proporcional, percibir el 10 por 100 del facturado por el editor. La opción deberá ejercerla dentro de los treinta días siguientes al recibo de la notificación.
+3. Si, tras el mismo plazo, el editor decide destruir el resto de los ejemplares de una edición, deberá asimismo notificarlo al autor, quien podrá exigir que se le entreguen gratuitamente todos o parte de los ejemplares, dentro del plazo de treinta días desde la notificación. El autor no podrá destinar dichos ejemplares a usos comerciales.
+
+### Artículo 68
+
+Artículo 68. Resolución.
+1. Sin perjuicio de las indemnizaciones a que tenga derecho, el autor podrá resolver el contrato de edición en los casos siguientes:
+a) Si el editor no realiza la edición de la obra en el plazo y condiciones convenidos.
+b) Si el editor incumple alguna de las obligaciones mencionadas en los apartados 2.º, 4.º y 5.º del artículo 64, no obstante el requerimiento expreso del autor exigiéndole su cumplimiento.
+c) Si el editor procede a la venta como saldo o a la destrucción de los ejemplares que le resten de la edición, sin cumplir los requisitos establecidos en el artículo 67 de esta Ley.
+d) Si el editor cede indebidamente sus derechos a un tercero.
+e) Cuando, previstas varias ediciones y agotada la última realizada, el editor no efectúe la siguiente edición en el plazo de un año desde que fuese requerido para ello por el autor. Una edición se considerará agotada a los efectos de este artículo cuando el número de ejemplares sin vender sea inferior al 5 por 100 del total de la edición y, en todo caso, inferior a 100.
+f) En los supuestos de liquidación o cambio de titularidad de la empresa editorial, siempre que no se haya iniciado la reproducción de la obra, con devolución, en su caso, de las cantidades percibidas como anticipo.
+2. Cuando por cese de la actividad del editor o a consecuencia de un procedimiento concursal se suspenda la explotación de la obra, la autoridad judicial, a instancia del autor, podrá fijar un plazo para que se reanude aquélla, quedando resuelto el contrato de edición si así no se hiciere.
+
+### Artículo 69
+
+Artículo 69. Causas de extinción.
+El contrato de edición se extingue, además de por las causas generales de extinción de los contratos, por las siguientes:
+1.ª Por la terminación del plazo pactado.
+2.ª Por la venta de la totalidad de los ejemplares, si ésta hubiera sido el destino de la edición.
+3.ª Por el transcurso de diez años desde la cesión si la remuneración se hubiera pactado exclusivamente a tanto alzado de acuerdo con lo establecido en el artículo 46, apartado 2.d), de esta Ley.
+4.ª En todo caso, a los quince años de haber puesto el autor al editor en condiciones de realizar la reproducción de la obra.
+
+### Artículo 70
+
+Artículo 70. Efectos de la extinción.
+Extinguido el contrato, y salvo estipulación en contrario, el editor, dentro de los tres años siguientes y cualquiera que sea la forma de distribución convenida, podrá enajenar los ejemplares que, en su caso, posea. El autor podrá adquirirlos por el 60 por 100 de su precio de venta al público o por el que se determine pericialmente, u optar por ejercer tanteo sobre el precio de venta.
+Dicha enajenación quedará sujeta a las condiciones establecidas en el contrato extinguido.
+
+### Artículo 71
+
+Artículo 71. Contrato de edición musical.
+El contrato de edición de obras musicales o dramático-musicales por el que se conceden además al editor derechos de comunicación pública, se regirá por lo dispuesto en este capítulo, sin perjuicio de las siguientes normas:
+1.ª Será válido el contrato aunque no se exprese el número de ejemplares. No obstante, el editor deberá confeccionar y distribuir ejemplares de la obra en cantidad suficiente para atender las necesidades normales de la explotación concedida, de acuerdo con el uso habitual en el sector profesional de la edición musical.
+2.ª Para las obras sinfónicas y dramático-musicales el límite de tiempo previsto en el apartado 6.º del artículo 60 será de cinco años.
+3.ª No será de aplicación a este contrato lo dispuesto en el apartado 1.c) del artículo 68, y en las cláusulas 2.ª, 3.ª y 4.ª del artículo 69.
+
+### Artículo 72
+
+Artículo 72. Control de tirada.
+El número de ejemplares de cada edición estará sujeto a control de tirada a través del procedimiento que reglamentariamente se establezca, oídos los sectores profesionales afectados.
+El incumplimiento por el editor de los requisitos que a tal efecto se dispongan, facultará al autor o a sus causahabientes para resolver el contrato, sin perjuicio de las responsabilidades en que hubiere podido incurrir el editor.
+
+### Artículo 73
+
+Artículo 73. Condiciones generales del contrato.
+Los autores y editores, a través de las entidades de gestión de sus correspondientes derechos de propiedad intelectual o, en su defecto, a través de las asociaciones representativas de unos y otros, podrán acordar condiciones generales para el contrato de edición dentro del respeto a la ley.
+
+## CAPÍTULO III
+
+Contrato de representación teatral y ejecución musical
+
+### Artículo 74
+
+Artículo 74. Concepto.
+Por el contrato regulado en este capítulo, el autor o sus derechohabientes ceden a una persona natural o jurídica el derecho de representar o ejecutar públicamente una obra literaria, dramática, musical, dramático-musical, pantomímica o coreográfica, mediante compensación económica. El cesionario se obliga a llevar a cabo la comunicación pública de la obra en las condiciones convenidas y con sujeción a lo dispuesto en esta Ley.
+
+### Artículo 75
+
+Artículo 75. Modalidades y duración máxima del contrato.
+1. Las partes podrán contratar la cesión por plazo cierto o por número determinado de comunicaciones al público.
+En todo caso, la duración de la cesión en exclusiva no podrá exceder de cinco años.
+2. En el contrato deberá estipularse el plazo dentro del cual debe llevarse a efecto la comunicación única o primera de la obra. Dicho plazo no podrá ser superior a dos años desde la fecha del contrato o, en su caso, desde que el autor puso al empresario en condiciones de realizar la comunicación.
+Si el plazo no fuese fijado, se entenderá otorgado por un año. En el caso de que tuviera por objeto la representación escénica de la obra, el referido plazo será el de duración de la temporada correspondiente al momento de la conclusión del contrato.
+
+### Artículo 76
+
+Artículo 76. Interpretación restrictiva del contrato.
+Si en el contrato no se hubieran determinado las modalidades autorizadas, éstas quedarán limitadas a las de recitación y representación en teatros, salas o recintos cuya entrada requiera el pago de una cantidad de dinero.
+
+### Artículo 77
+
+Artículo 77. Obligaciones del autor.
+Son obligaciones del autor:
+1.º Entregar al empresario el texto de la obra con la partitura, en su caso, completamente instrumentada, cuando no se hubiese publicado en forma impresa.
+2.º Responder ante el cesionario de la autoría y originalidad de la obra y del ejercicio pacífico de los derechos que le hubiese cedido.
+
+### Artículo 78
+
+Artículo 78. Obligaciones del cesionario.
+El cesionario está obligado:
+1.º A llevar a cabo la comunicación pública de la obra en el plazo convenido o determinado conforme al apartado 2 del artículo 75.
+2.º A efectuar esa comunicación sin hacer en la obra variaciones, adiciones, cortes o supresiones no consentidas por el autor y en condiciones técnicas que no perjudiquen el derecho moral de éste.
+3.º A garantizar al autor o a sus representantes la inspección de la representación pública de la obra y la asistencia a la misma gratuitamente.
+4.º A satisfacer puntualmente al autor la remuneración convenida, que se determinará conforme a lo dispuesto en el artículo 46 de esta Ley.
+5.º A presentar al autor o a sus representantes el programa exacto de los actos de comunicación, y cuando la remuneración fuese proporcional, una declaración de los ingresos. Asimismo, el cesionario deberá facilitarles la comprobación de dichos programas y declaraciones.
+
+### Artículo 79
+
+Artículo 79. Garantía del cobro de la remuneración.
+Los empresarios de espectáculos públicos se considerarán depositarios de la remuneración correspondiente a los autores por la comunicación de sus obras cuando aquélla consista en una participación proporcional en los ingresos. Dicha remuneración deberán tenerla semanalmente a disposición de los autores o de sus representantes.
+
+### Artículo 80
+
+Artículo 80. Ejecución del contrato.
+Salvo que las partes hubieran convenido otra cosa, se sujetarán en la ejecución del contrato a las siguientes reglas:
+1.ª Correrá a cargo del cesionario la obtención de las copias necesarias para la comunicación pública de la obra. Estas deberán ser visadas por el autor.
+2.ª El autor y el cesionario elegirán de mutuo acuerdo los intérpretes principales y, tratándose de orquestas, coros, grupos de bailes y conjuntos artísticos análogos, el director.
+3.ª El autor y el cesionario convendrán la redacción de la publicidad de los actos de comunicación.
+
+### Artículo 81
+
+Artículo 81. Causas de resolución.
+El contrato podrá ser resuelto por voluntad del autor en los siguientes casos:
+1.º Si el empresario que hubiese adquirido derechos exclusivos, una vez iniciadas las representaciones públicas de la obra, las interrumpiere durante un año.
+2.º Si el empresario incumpliere la obligación mencionada en el apartado 1.º del artículo 78.
+3.º Si el empresario incumpliere cualquiera de las obligaciones citadas en los apartados 2.º, 3.º, 4.º y 5.º del mismo artículo 78, después de haber sido requerido por el autor para su cumplimiento.
+
+### Artículo 82
+
+Artículo 82. Causas de extinción.
+El contrato de representación se extingue, además de por las causas generales de extinción de los contratos, cuando, tratándose de una obra de estreno y siendo su representación escénica la única modalidad de comunicación contemplada en el contrato, aquélla hubiese sido rechazada claramente por el público y así se hubiese expresado en el contrato.
+
+### Artículo 83
+
+Artículo 83. Ejecución pública de composiciones musicales.
+El contrato de representación que tenga por objeto la ejecución pública de una composición musical se regirá por las disposiciones de este capítulo, siempre que lo permita la naturaleza de la obra y la modalidad de la comunicación autorizada.
+
+### Artículo 84
+
+Artículo 84. Disposiciones especiales para la cesión de derecho de comunicación pública mediante radiodifusión.
+1. La cesión del derecho de comunicación pública de las obras a las que se refiere este capítulo, a través de la radiodifusión, se regirá por las disposiciones del mismo, con excepción de lo dispuesto en el apartado 1.ºdel artículo 81.
+2. Salvo pacto en contrario, se entenderá que dicha cesión queda limitada a la emisión de la obra por una sola vez, realizada por medios inalámbricos y centros emisores de la entidad de radiodifusión autorizada, dentro del ámbito territorial determinado en el contrato, sin perjuicio de lo dispuesto en el artículo 20 y en los apartados 1 y 2 del artículo 36 de esta Ley.
+
+### Artículo 85
+
+Artículo 85. Aplicación de las disposiciones anteriores a las simples autorizaciones.
+Las autorizaciones que el autor conceda a un empresario para que pueda proceder a una comunicación pública de su obra, sin obligarse a efectuarla, se regirán por las disposiciones de este capítulo en lo que les fuese aplicable.
+
+## TÍTULO VI
+
+Obras cinematográficas y demás obras audiovisuales
+
+### Artículo 86
+
+Artículo 86. Concepto.
+1. Las disposiciones contenidas en el presente Título serán de aplicación a las obras cinematográficas y demás obras audiovisuales, entendiendo por tales las creaciones expresadas mediante una serie de imágenes asociadas, con o sin sonorización incorporada, que estén destinadas esencialmente a ser mostradas a través de aparatos de proyección o por cualquier otro medio de comunicación pública de la imagen y del sonido, con independencia de la naturaleza de los soportes materiales de dichas obras.
+2. Todas las obras enunciadas en el presente artículo se denominarán en lo sucesivo obras audiovisuales.
+
+### Artículo 87
+
+Artículo 87. Autores
+Son autores de la obra audiovisual en los términos previstos en el artículo 7 de esta Ley:
+1. El director-realizador.
+2. Los autores del argumento, la adaptación y los del guión o los diálogos.
+3. Los autores de las composiciones musicales, con o sin letra, creadas especialmente para esta obra.
+
+### Artículo 88
+
+Artículo 88. Presunción de cesión en exclusiva y límites.
+1. Sin perjuicio de los derechos que corresponden a los autores, por el contrato de producción de la obra audiovisual se presumirán cedidos en exclusiva al productor, con las limitaciones establecidas en este Título, los derechos de reproducción, distribución y comunicación pública, así como los de doblaje o subtitulado de la obra.
+No obstante, en las obras cinematográficas será siempre necesaria la autorización expresa de los autores para su explotación, mediante la puesta a disposición del público de copias en cualquier sistema o formato, para su utilización en el ámbito doméstico, o mediante su comunicación pública a través de la radiodifusión.
+2. Salvo estipulación en contrario, los autores podrán disponer de su aportación en forma aislada, siempre que no se perjudique la normal explotación de la obra audiovisual.
+
+### Artículo 89
+
+Artículo 89. Presunción de cesión en caso de transformación de obra preexistente.
+1. Mediante el contrato de transformación de una obra preexistente que no esté en el dominio público, se presumirá que el autor de la misma cede al productor de la obra audiovisual los derechos de explotación sobre ella en los términos previstos en el artículo 88.
+2. Salvo pacto en contrario, el autor de la obra preexistente conservará sus derechos a explotarla en forma de edición gráfica y de representación escénica y, en todo caso, podrá disponer de ella para otra obra audiovisual a los quince años de haber puesto su aportación a disposición del productor.
+
+### Artículo 90
+
+Artículo 90. Remuneración de los autores.
+1. La remuneración de los autores de la obra audiovisual por la cesión de los derechos mencionados en el artículo 88 y, en su caso, la correspondiente a los autores de las obras preexistentes, hayan sido transformadas o no, deberán determinarse para cada una de las modalidades de explotación concedidas.
+2. Cuando los autores a los que se refiere el apartado anterior suscriban con un productor de grabaciones audiovisuales contratos relativos a la producción de las mismas, se presumirá que, salvo pacto en contrario en el contrato y a salvo del derecho irrenunciable a una remuneración equitativa a que se refiere el párrafo siguiente, han transferido su derecho de alquiler.
+El autor que haya transferido o cedido a un productor de fonogramas o de grabaciones audiovisuales su derecho de alquiler respecto de un fonograma o un original o una copia de una grabación audiovisual, conservará el derecho irrenunciable a obtener una remuneración equitativa por el alquiler de los mismos. Tales remuneraciones serán exigibles de quienes lleven a efecto las operaciones de alquiler al público de los fonogramas o grabaciones audiovisuales en su condición de derechohabientes de los titulares del correspondiente derecho de autorizar dicho alquiler y se harán efectivas a partir del 1 de enero de 1997.
+3. En todo caso, y con independencia de lo pactado en el contrato, cuando la obra audiovisual sea proyectada en lugares públicos mediante el pago de un precio de entrada, los autores mencionados en el apartado 1 de este artículo tendrán derecho a percibir de quienes exhiban públicamente dicha obra un porcentaje de los ingresos procedentes de dicha exhibición pública. Las cantidades pagadas por este concepto podrán deducirlas los exhibidores de las que deban abonar a los cedentes de la obra audiovisual.
+En el caso de exportación de la obra audiovisual, los autores podrán ceder el derecho mencionado por una cantidad alzada, cuando en el país de destino les sea imposible o gravemente dificultoso el ejercicio efectivo del derecho.
+Los empresarios de salas públicas o de locales de exhibición deberán poner periódicamente a disposición de los autores las cantidades recaudadas en concepto de dicha remuneración. A estos efectos, el Gobierno podrá establecer reglamentariamente los oportunos procedimientos de control.
+4. La proyección o exhibición sin exigir precio de entrada, la transmisión al público por cualquier medio o procedimiento, alámbrico o inalámbrico, incluido, entre otros, la puesta a disposición en la forma establecida en el artículo 20.2.i) de una obra audiovisual, dará derecho a los autores a recibir la remuneración que proceda, de acuerdo con las tarifas generales establecidas por la correspondiente entidad de gestión.
+5. Con el objeto de facilitar al autor el ejercicio de los derechos que le correspondan por la explotación de la obra audiovisual, el productor, al menos una vez al año, deberá facilitar a instancia del autor la documentación necesaria.
+6. Los derechos establecidos en los apartados 3 y 4 de este artículo serán irrenunciables e intransmisibles por actos «inter vivos» y no serán de aplicación a los autores de obras audiovisuales de carácter publicitario.
+7. Los derechos contemplados en los apartados 2, 3 y 4 del presente artículo se harán efectivos a través de las entidades de gestión de los derechos de propiedad intelectual.
+Se modifica el apartado 4 por el art. único.9 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 91
+
+Artículo 91. Aportación insuficiente de un autor.
+Cuando la aportación de un autor no se completase por negativa injustificada del mismo o por causa de fuerza mayor, el productor podrá utilizar la parte ya realizada, respetando los derechos de aquél sobre la misma, sin perjuicio, en su caso, de la indemnización que proceda.
+
+### Artículo 92
+
+Artículo 92. Versión definitiva y sus modificaciones.
+1. Se considerará terminada la obra audiovisual cuando haya sido establecida la versión definitiva, de acuerdo con lo pactado en el contrato entre el director-realizador y el productor.
+2. Cualquier modificación de la versión definitiva de la obra audiovisual mediante añadido, supresión o cambio de cualquier elemento de la misma, necesitará la autorización previa de quienes hayan acordado dicha versión definitiva.
+No obstante, en los contratos de producción de obras audiovisuales destinadas esencialmente a la comunicación pública a través de la radiodifusión, se presumirá concedida por los autores, salvo estipulación en contrario, la autorización para realizar en la forma de emisión de la obra las modificaciones estrictamente exigidas por el modo de programación del medio, sin perjuicio en todo caso del derecho reconocido en el apartado 4.º del artículo 14.
+
+### Artículo 93
+
+Artículo 93. Derecho moral y destrucción de soporte original.
+1. El derecho moral de los autores sólo podrá ser ejercido sobre la versión definitiva de la obra audiovisual.
+2. Queda prohibida la destrucción del soporte original de la obra audiovisual en su versión definitiva.
+
+### Artículo 94
+
+Artículo 94. Obras radiofónicas.
+Las disposiciones contenidas en el presente Título serán de aplicación, en lo pertinente, a las obras radiofónicas.
+
+## TÍTULO VII
+
+Programas de ordenador
+
+### Artículo 95
+
+Artículo 95. Régimen jurídico.
+El derecho de autor sobre los programas de ordenador se regirá por los preceptos del presente Título y, en lo que no esté específicamente previsto en el mismo, por las disposiciones que resulten aplicables de la presente Ley.
+
+### Artículo 96
+
+Artículo 96. Objeto de la protección.
+1. A los efectos de la presente Ley se entenderá por programa de ordenador toda secuencia de instrucciones o indicaciones destinadas a ser utilizadas, directa o indirectamente, en un sistema informático para realizar una función o una tarea o para obtener un resultado determinado, cualquiera que fuere su forma de expresión y fijación.
+A los mismos efectos, la expresión programas de ordenador comprenderá también su documentación preparatoria. La documentación técnica y los manuales de uso de un programa gozarán de la misma protección que este Título dispensa a los programas de ordenador.
+2. El programa de ordenador será protegido únicamente si fuese original, en el sentido de ser una creación intelectual propia de su autor.
+3. La protección prevista en la presente Ley se aplicará a cualquier forma de expresión de un programa de ordenador. Asimismo, esta protección se extiende a cualesquiera versiones sucesivas del programa así como a los programas derivados, salvo aquellas creadas con el fin de ocasionar efectos nocivos a un sistema informático.
+Cuando los programas de ordenador formen parte de una patente o un modelo de utilidad gozarán, sin perjuicio de lo dispuesto en la presente Ley, de la protección que pudiera corresponderles por aplicación del régimen jurídico de la propiedad industrial.
+4. No estarán protegidos mediante los derechos de autor con arreglo a la presente Ley las ideas y principios en los que se basan cualquiera de los elementos de un programa de ordenador incluidos los que sirven de fundamento a sus interfaces.
+
+### Artículo 97
+
+Artículo 97. Titularidad de los derechos.
+1. Será considerado autor del programa de ordenador la persona o grupo de personas naturales que lo hayan creado, o la persona jurídica que sea contemplada como titular de los derechos de autor en los casos expresamente previstos por esta Ley.
+2. Cuando se trate de una obra colectiva tendrá la consideración de autor, salvo pacto en contrario, la persona natural o jurídica que la edite y divulgue bajo su nombre.
+3. Los derechos de autor sobre un programa de ordenador que sea resultado unitario de la colaboración entre varios autores serán propiedad común y corresponderán a todos éstos en la proporción que determinen.
+4. Cuando un trabajador asalariado cree un programa de ordenador, en el ejercicio de las funciones que le han sido confiadas o siguiendo las instrucciones de su empresario, la titularidad de los derechos de explotación correspondientes al programa de ordenador así creado, tanto el programa fuente como el programa objeto, corresponderán, exclusivamente, al empresario, salvo pacto en contrario.
+5. La protección se concederá a todas las personas naturales y jurídicas que cumplan los requisitos establecidos en esta Ley para la protección de los derechos de autor.
+
+### Artículo 98
+
+Artículo 98. Duración de la protección.
+1. Cuando el autor sea una persona natural la duración de los derechos de explotación de un programa de ordenador será, según los distintos supuestos que pueden plantearse, la prevista en el capítulo I del Título III de este Libro.
+2. Cuando el autor sea una persona jurídica la duración de los derechos a que se refiere el párrafo anterior será de setenta años, computados desde el día 1 de enero del año siguiente al de la divulgación lícita del programa o al de su creación si no se hubiera divulgado.
+
+### Artículo 99
+
+Artículo 99. Contenido de los derechos de explotación.
+Sin perjuicio de lo dispuesto en el artículo 100 de esta Ley los derechos exclusivos de la explotación de un programa de ordenador por parte de quien sea su titular con arreglo al artículo 97, incluirán el derecho de realizar o de autorizar:
+a) La reproducción total o parcial, incluso para uso personal, de un programa de ordenador, por cualquier medio y bajo cualquier forma, ya fuere permanente o transitoria. Cuando la carga, presentación, ejecución, transmisión o almacenamiento de un programa necesiten tal reproducción deberá disponerse de autorización para ello, que otorgará el titular del derecho.
+b) La traducción, adaptación, arreglo o cualquier otra transformación de un programa de ordenador y la reproducción de los resultados de tales actos, sin perjuicio de los derechos de la persona que transforme el programa de ordenador.
+c) Cualquier forma de distribución pública incluido el alquiler del programa de ordenador original o de sus copias.
+A tales efectos, cuando se produzca cesión del derecho de uso de un programa de ordenador, se entenderá, salvo prueba en contrario, que dicha cesión tiene carácter no exclusivo e intransferible, presumiéndose, asimismo, que lo es para satisfacer únicamente las necesidades del usuario. La primera venta en la Unión Europea de una copia de un programa por el titular de los derechos o con su consentimiento, agotará el derecho de distribución de dicha copia, salvo el derecho de controlar el subsiguiente alquiler del programa o de una copia del mismo.
+
+### Artículo 100
+
+Artículo 100. Límites a los derechos de explotación.
+1. No necesitarán autorización del titular, salvo disposición contractual en contrario, la reproducción o transformación de un programa de ordenador incluida la corrección de errores, cuando dichos actos sean necesarios para la utilización del mismo por parte del usuario legítimo, con arreglo a su finalidad propuesta.
+2. La realización de una copia de seguridad por parte de quien tiene derecho a utilizar el programa no podrá impedirse por contrato en cuanto resulte necesaria para dicha utilización.
+3. El usuario legítimo de la copia de un programa estará facultado para observar, estudiar o verificar su funcionamiento, sin autorización previa del titular, con el fin de determinar las ideas y principios implícitos en cualquier elemento del programa, siempre que lo haga durante cualquiera de las operaciones de carga, visualización, ejecución, transmisión o almacenamiento del programa que tiene derecho a hacer.
+4. El autor, salvo pacto en contrario, no podrá oponerse a que el cesionario titular de derechos de explotación realice o autorice la realización de versiones sucesivas de su programa ni de programas derivados del mismo.
+5. No será necesaria la autorización del titular del derecho cuando la reproducción del código y la traducción de su forma en el sentido de los párrafos a) y b) del artículo 99 de la presente Ley, sea indispensable para obtener la información necesaria para la interoperabilidad de un programa creado de forma independiente con otros programas, siempre que se cumplan los siguientes requisitos:
+a) Que tales actos sean realizados por el usuario legítimo o por cualquier otra persona facultada para utilizar una copia del programa, o, en su nombre, por parte de una persona debidamente autorizada.
+b) Que la información necesaria para conseguir la interoperabilidad no haya sido puesta previamente y de manera fácil y rápida, a disposición de las personas a que se refiere el párrafo anterior.
+c) Que dichos actos se limiten a aquellas partes del programa original que resulten necesarias para conseguir la interoperabilidad.
+6. La excepción contemplada en el apartado 5 de este artículo será aplicable siempre que la información así obtenida:
+a) Se utilice únicamente para conseguir la interoperabilidad del programa creado de forma independiente.
+b) Sólo se comunique a terceros cuando sea necesario para la interoperabilidad del programa creado de forma independiente.
+c) No se utilice para el desarrollo, producción o comercialización de un programa sustancialmente similar en su expresión, o para cualquier otro acto que infrinja los derechos de autor.
+7. Las disposiciones contenidas en los apartados 5 y 6 del presente artículo no podrán interpretarse de manera que permitan que su aplicación perjudique de forma injustificada los legítimos intereses del titular de los derechos o sea contraria a una explotación normal del programa informático.
+
+### Artículo 101
+
+Artículo 101. Protección registral.
+Los derechos sobre los programas de ordenador, así como sobre sus sucesivas versiones y los programas derivados, podrán ser objeto de inscripción en el Registro de la Propiedad Intelectual.
+Reglamentariamente se determinarán aquellos elementos de los programas registrados que serán susceptibles de consulta pública.
+
+### Artículo 102
+
+Artículo 102. Infracción de los derechos.
+A efectos del presente Título y sin perjuicio de lo establecido en el artículo 100 tendrán la consideración de infractores de los derechos de autor quienes, sin autorización del titular de los mismos, realicen los actos previstos en el artículo 99 y en particular:
+a) Quienes pongan en circulación una o más copias de un programa de ordenador conociendo o pudiendo presumir su naturaleza ilegítima.
+b) Quienes tengan con fines comerciales una o más copias de un programa de ordenador, conociendo o pudiendo presumir su naturaleza ilegítima.
+c) Quienes pongan en circulación o tengan con fines comerciales cualquier instrumento cuyo único uso sea facilitar la supresión o neutralización no autorizadas de cualquier dispositivo técnico utilizado para proteger un programa de ordenador.
+
+### Artículo 103
+
+Artículo 103. Medidas de protección.
+El titular de los derechos reconocidos en el presente Título podrá instar las acciones y procedimientos que, con carácter general, se disponen en el Título I, Libro III de la presente Ley y las medidas cautelares procedentes, conforme a lo dispuesto en la Ley de Enjuiciamiento Civil.
+Se modifica por la disposición final 2.2 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+ Se modifica por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 104
+
+Artículo 104. Salvaguardia de aplicación de otras disposiciones legales.
+Lo dispuesto en el presente Título se entenderá sin perjuicio de cualesquiera otras disposiciones legales tales como las relativas a los derechos de patente, marcas, competencia desleal, secretos comerciales, protección de productos semiconductores o derecho de obligaciones.
+
+## LIBRO II
+
+LIBRO SEGUNDO
+De los otros derechos de propiedad intelectual y de la protección «sui generis» de las bases de datos
+Se modifica la rúbríca por el art. 5 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+## TÍTULO I
+
+Derechos de los artistas intérpretes o ejecutantes
+
+### Artículo 105
+
+Artículo 105. Definición de artistas intérpretes o ejecutantes.
+Se entiende por artista intérprete o ejecutante a la persona que represente, cante, lea, recite, interprete o ejecute en cualquier forma una obra. El director de escena y el director de orquesta tendrán los derechos reconocidos a los artistas en este Título.
+
+### Artículo 106
+
+Artículo 106. Fijación.
+1. Corresponde al artista intérprete o ejecutante el derecho exclusivo de autorizar la fijación de sus actuaciones.
+2. Dicha autorización deberá otorgarse por escrito.
+
+### Artículo 107
+
+Artículo 107. Reproducción.
+1. Corresponde al artista intérprete o ejecutante el derecho exclusivo de autorizar la reproducción, según la definición establecida en el artículo 18, de las fijaciones de sus actuaciones.
+2. Dicha autorización deberá otorgarse por escrito.
+3. Este derecho podrá transferirse, cederse o ser objeto de la concesión de licencias contractuales.
+Se modifica el apartado 1 por el art. único.10 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 108
+
+Artículo 108. Comunicación pública.
+1.Corresponde al artista intérprete o ejecutante el derecho exclusivo de autorizar la comunicación pública:
+a) De sus actuaciones, salvo cuando dicha actuación constituya en sí una actuación transmitida por radiodifusión o se realice a partir de una fijación previamente autorizada.
+b) En cualquier caso, de las fijaciones de sus actuaciones, mediante la puesta a disposición del público, en la forma establecida en el artículo 20.2.i).
+En ambos casos, la autorización deberá otorgarse por escrito.
+Cuando la comunicación al público se realice vía satélite o por cable y en los términos previstos, respectivamente, en los apartados 3 y 4 del artículo 20 y concordantes de esta ley, será de aplicación lo dispuesto en tales preceptos.
+2. Cuando el artista intérprete o ejecutante celebre individual o colectivamente con un productor de fonogramas o de grabaciones audiovisuales contratos relativos a la producción de éstos, se presumirá que, salvo pacto en contrario en el contrato y a salvo del derecho irrenunciable a la remuneración equitativa a que se refiere el apartado siguiente, ha transferido su derecho de puesta a disposición del público a que se refiere el apartado 1.b).
+3. El artista intérprete o ejecutante que haya transferido o cedido a un productor de fonogramas o de grabaciones audiovisuales su derecho de puesta a disposición del público a que se refiere el apartado 1.b), respecto de un fonograma o de un original o una copia de una grabación audiovisual, conservará el derecho irrenunciable a obtener una remuneración equitativa de quien realice tal puesta a disposición.
+4. Los usuarios de un fonograma publicado con fines comerciales, o de una reproducción de dicho fonograma que se utilice para cualquier forma de comunicación pública, tienen obligación de pagar una remuneración equitativa y única a los artistas intérpretes o ejecutantes y a los productores de fonogramas, entre los cuales se efectuará el reparto de aquélla. A falta de acuerdo entre ellos sobre dicho reparto, éste se realizará por partes iguales. Se excluye de dicha obligación de pago la puesta a disposición del público en la forma establecida en el artículo 20.2.i), sin perjuicio de lo establecido en el apartado 3 de este artículo.
+5. Los usuarios de las grabaciones audiovisuales que se utilicen para los actos de comunicación pública previstos en el artículo 20.2.f) y g) tienen obligación de pagar a los artistas intérpretes o ejecutantes y a los productores de grabaciones audiovisuales la remuneración que proceda, de acuerdo con las tarifas generales establecidas por la correspondiente entidad de gestión.
+Los usuarios de grabaciones audiovisuales que se utilicen para cualquier acto de comunicación al público, distinto de los señalados en el párrafo anterior y de la puesta a disposición del público prevista en el apartado 1.b), tienen asimismo la obligación de pagar una remuneración equitativa a los artistas intérpretes o ejecutantes, sin perjuicio de lo establecido en el apartado 3.
+6. El derecho a las remuneraciones a que se refieren los apartados 3, 4 y 5 se hará efectivo a través de las entidades de gestión de los derechos de propiedad intelectual. La efectividad de los derechos a través de las respectivas entidades de gestión comprenderá la negociación con los usuarios, la determinación, la recaudación y la distribución de la remuneración correspondiente, así como cualquier otra actuación necesaria para asegurar la efectividad de aquéllos.
+Se modifica por el art. único.11 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 109
+
+Artículo 109. Distribución.
+1. El artista intérprete o ejecutante tiene, respecto de la fijación de sus actuaciones, el derecho exclusivo de autorizar su distribución, según la definición establecida por el artículo 19.1 de esta Ley. Este derecho podrá transferirse, cederse o ser objeto de concesión de licencias contractuales.
+2. Cuando la distribución se efectúe mediante venta u otro título de transmisión de la propiedad, en el ámbito de la Unión Europea, por el propio titular del derecho o con su consentimiento, este derecho se agotará con la primera, si bien sólo para las ventas y transmisiones de propiedad sucesivas que se realicen en dicho ámbito territorial
+3. A los efectos de este Título, se entiende por alquiler de fijaciones de las actuaciones la puesta a disposición de las mismas para su uso por tiempo limitado y con un beneficio económico o comercial directo o indirecto.
+Quedan excluidas del concepto de alquiler la puesta a disposición con fines de exposición, de comunicación pública a partir de fonogramas o de grabaciones audiovisuales, incluso de fragmentos de unos y otras, y la que se realice para consulta «in situ»:
+1.º Cuando el artista intérprete o ejecutante celebre individual o colectivamente con un productor de grabaciones audiovisuales contratos relativos a la producción de las mismas, se presumirá que, salvo pacto en contrario en el contrato y a salvo del derecho irrenunciable a la remuneración equitativa a que se refiere el apartado siguiente, ha transferido sus derechos de alquiler.
+2.º El artista intérprete o ejecutante que haya transferido o cedido a un productor de fonogramas o de grabaciones audiovisuales su derecho de alquiler respecto de un fonograma, o un original, o una copia de una grabación audiovisual, conservará el derecho irrenunciable a obtener una remuneración equitativa por el alquiler de los mismos. Tales remuneraciones serán exigibles de quienes lleven a efecto las operaciones de alquiler al público de los fonogramas o grabaciones audiovisuales en su condición de derechohabientes de los titulares de los correspondientes derechos de autorizar dicho alquiler y se harán efectivas a partir del 1 de enero de 1997.
+El derecho contemplado en el párrafo anterior se hará efectivo a través de las entidades de gestión de los derechos de propiedad intelectual.
+4. A los efectos de este Título, se entiende por préstamo de las fijaciones de las actuaciones la puesta a disposición de las mismas para su uso por tiempo limitado sin beneficio económico o comercial directo o indirecto, siempre que dicho préstamo se lleve a cabo a través de establecimientos accesibles al público.
+Se entenderá que no existe beneficio económico o comercial directo ni indirecto cuando el préstamo efectuado por un establecimiento accesible al público dé lugar al pago de una cantidad que no exceda de lo necesario para cubrir sus gastos de funcionamiento.
+Quedan excluidas del concepto de préstamo las operaciones mencionadas en el párrafo segundo del anterior apartado 3 y las que se efectúen entre establecimientos accesibles al público.
+Se modifica el apartado 2 por el art. único.12 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 110
+
+Artículo 110. Contrato de trabajo y de arrendamiento de servicios.
+1. Si la interpretación o ejecución se realiza en cumplimiento de un contrato de trabajo o de arrendamiento de servicios, se entenderá, salvo estipulación en contrario, que el empresario o el arrendatario adquieren sobre aquéllas los derechos exclusivos de autorizar la reproducción y la comunicación pública previstos en este título y que se deduzcan de la naturaleza y objeto del contrato.
+2. Lo establecido en el apartado anterior no será de aplicación a los derechos de remuneración reconocidos en los apartados 3, 4 y 5 del artículo 108.
+3. A la remuneración pactada por el artista, intérprete o ejecutante con el empresario o arrendatario por la cesión de sus derechos, le será aplicable lo dispuesto en el artículo 47.
+4. El derecho de revocación regulado en artículo 48 bis, y las obligaciones de información del cesionario o licenciatario de derechos de propiedad intelectual, establecidas en el artículo 75 del Real Decreto-ley 24/2021, de 2 de noviembre, de transposición de directivas de la Unión Europea en las materias de bonos garantizados, distribución transfronteriza de organismos de inversión colectiva, datos abiertos y reutilización de la información del sector público, ejercicio de derechos de autor y derechos afines aplicables a determinadas transmisiones en línea y a las retransmisiones de programas de radio y televisión, exenciones temporales a determinadas importaciones y suministros, de personas consumidoras y para la promoción de vehículos de transporte por carretera limpios y energéticamente eficientes, serán aplicables con respecto a los artistas, intérpretes o ejecutantes en los términos establecidos en el citado artículo 48 bis y en dicha legislación.
+Se modifica por el art. 80.6 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-2
+ Se modifica por el art. único.13 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 110 bis
+
+Artículo 110 bis. Disposiciones relativas a la cesión de derechos al productor de fonogramas.
+1. Si, una vez transcurridos cincuenta años desde la publicación lícita del fonograma o, en caso de no haberse producido esta última, cincuenta años desde su comunicación lícita al público, no se pone a la venta un número suficiente de copias que satisfaga razonablemente las necesidades estimadas del público de acuerdo con la naturaleza y finalidad del fonograma, o no se pone a disposición del público, en la forma establecida en el artículo 20.2.i), el artista intérprete o ejecutante podrá poner fin al contrato en virtud del cual cede sus derechos con respecto a la grabación de su interpretación o ejecución al productor de fonogramas.
+El derecho a resolver el contrato de cesión podrá ejercerse si, en el plazo de un año desde la notificación fehaciente del artista intérprete o ejecutante de su intención de resolver el contrato de cesión conforme a lo dispuesto en el párrafo anterior, el productor no lleva a cabo ambos actos de explotación mencionados en dicho párrafo. Esta posibilidad de resolución no podrá ser objeto de renuncia por parte del artista intérprete o ejecutante.
+Cuando un fonograma contenga la grabación de las interpretaciones o ejecuciones de varios artistas intérpretes o ejecutantes, éstos sólo podrán resolver el contrato de cesión de conformidad con el artículo 111. Si se pone fin al contrato de cesión de conformidad con lo especificado en el presente apartado, expirarán los derechos del productor del fonograma sobre éste.
+2. Cuando un contrato de cesión otorgue al artista intérprete o ejecutante el derecho a una remuneración única, tendrá derecho a percibir una remuneración anual adicional por cada año completo una vez transcurridos cincuenta años desde la publicación lícita del fonograma o, en caso de no haberse producido esta última, cincuenta años desde su comunicación lícita al público. El derecho a obtener esa remuneración anual adicional, cuyo deudor será el productor del fonograma o, en su caso, su cesionario en exclusiva, no podrá ser objeto de renuncia por parte del artista intérprete o ejecutante, y se hará efectivo a través de las entidades de gestión de los derechos de propiedad intelectual de los artistas intérpretes o ejecutantes.
+El importe total de los fondos que el deudor deba destinar al pago de la remuneración adicional anual mencionada en el párrafo anterior será igual al 20 por ciento de los ingresos brutos que haya obtenido, en el año precedente a aquél en el que se abone la remuneración, por la reproducción, distribución y puesta a disposición del público, en la forma establecida en el artículo 20.2.i), de los fonogramas en cuestión, una vez transcurridos cincuenta años desde la publicación lícita del fonograma o, en caso de no haberse producido esta última, cincuenta años desde su comunicación lícita al público.
+Quedan excluidas del cálculo de los ingresos a que se refiere el párrafo anterior las cantidades percibidas por el deudor en concepto de compensación equitativa por copia privada y alquiler de fonogramas.
+Los deudores de la remuneración anual adicional a que se refiere este apartado estarán obligados a facilitar anualmente, previa solicitud, a la entidad de gestión correspondiente, toda la información que pueda resultar necesaria a fin de asegurar el pago de dicha remuneración.
+3. Cuando un artista intérprete o ejecutante tenga derecho a pagos periódicos, no se deducirán de los importes abonados al artista intérprete o ejecutante ningún pago anticipado ni deducciones establecidas contractualmente al cumplirse cincuenta años desde la publicación lícita del fonograma o, en caso de no haberse producido esta última, cincuenta años desde su comunicación lícita al público.
+Se añade por el art. 1.7 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+
+### Artículo 111
+
+Artículo 111. Representante de colectivo.
+Los artistas intérpretes o ejecutantes que participen colectivamente en una misma actuación, tales como los componentes de un grupo musical, coro, orquesta, ballet o compañía de teatro, deberán designar de entre ellos un representante para el otorgamiento de las autorizaciones mencionadas en este Título. Para tal designación, que deberá formalizarse por escrito, valdrá el acuerdo mayoritario de los intérpretes. Esta obligación no alcanza a los solistas ni a los directores de orquesta o de escena.
+
+### Artículo 112
+
+Artículo 112. Duración de los derechos de explotación.
+Los derechos de explotación reconocidos a los artistas intérpretes o ejecutantes tendrán una duración de cincuenta años, computados desde el día 1 de enero del año siguiente al de la interpretación o ejecución.
+No obstante, si, dentro de dicho período, se publica o se comunica lícitamente al público, por un medio distinto al fonograma, una grabación de la interpretación o ejecución, los mencionados derechos expirarán a los cincuenta años computados desde el día 1 de enero del año siguiente a la fecha de la primera publicación o la primera comunicación pública, si ésta es anterior. Si la publicación o comunicación pública de la grabación de la interpretación o ejecución se produjera en un fonograma, los mencionados derechos expirarán a los setenta años computados desde el día 1 de enero del año siguiente a la fecha de la primera publicación o la primera comunicación pública, si ésta es anterior.
+Se modifica el párrafo segundo por el art. 1.8 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+
+### Artículo 113
+
+Artículo 113. Derechos morales.
+1.El artista intérprete o ejecutante goza del derecho irrenunciable e inalienable al reconocimiento de su nombre sobre sus interpretaciones o ejecuciones, excepto cuando la omisión venga dictada por la manera de utilizarlas, y a oponerse a toda deformación, modificación, mutilación o cualquier atentado sobre su actuación que lesione su prestigio o reputación.
+2. Será necesaria la autorización expresa del artista, durante toda su vida, para el doblaje de su actuación en su propia lengua.
+3. Fallecido el artista, el ejercicio de los derechos mencionados en el apartado 1 corresponderá sin límite de tiempo a la persona natural o jurídica a la que el artista se lo haya confiado expresamente por disposición de última voluntad o, en su defecto, a los herederos.
+Siempre que no existan las personas a las que se refiere el párrafo anterior o se ignore su paradero, el Estado, las comunidades autónomas, las corporaciones locales y las instituciones públicas de carácter cultural estarán legitimadas para ejercer los derechos previstos en él.
+Se modifica por el art. único.14 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+## TÍTULO II
+
+Derechos de los productores de fonogramas
+
+### Artículo 114
+
+Artículo 114. Definiciones.
+1. Se entiende por fonograma toda fijación exclusivamente sonora de la ejecución de una obra o de otros sonidos.
+2. Es productor de un fonograma la persona natural o jurídica bajo cuya iniciativa y responsabilidad se realiza por primera vez la mencionada fijación. Si dicha operación se efectúa en el seno de una empresa, el titular de ésta será considerado productor del fonograma.
+
+### Artículo 115
+
+Artículo 115. Reproducción.
+Corresponde al productor de fonogramas el derecho exclusivo de autorizar su reproducción, según la definición establecida en el artículo 18.
+Este derecho podrá transferirse, cederse o ser objeto de concesión de licencias contractuales.
+Se modifica por el art. único.15 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 116
+
+Artículo 116. Comunicación pública.
+1. Corresponde al productor de fonogramas el derecho exclusivo de autorizar la comunicación pública de sus fonogramas y de las reproducciones de éstos en la forma establecida en el artículo 20.2.i).
+Cuando la comunicación al público se realice vía satélite o por cable y en los términos previstos, respectivamente, en los apartados 3 y 4 del artículo 20, será de aplicación lo dispuesto en tales preceptos.
+2. Los usuarios de un fonograma publicado con fines comerciales, o de una reproducción de dicho fonograma que se utilice para cualquier forma de comunicación pública, tienen obligación de pagar una remuneración equitativa y única a los productores de fonogramas y a los artistas intérpretes o ejecutantes, entre los cuales se efectuará el reparto de aquélla. A falta de acuerdo entre ellos sobre dicho reparto, éste se realizará por partes iguales. Se excluye de dicha obligación de pago la puesta a disposición del público en la forma establecida en el artículo 20.2.i), sin perjuicio de lo establecido en el apartado 3 del artículo 108.
+3. El derecho a la remuneración equitativa y única a que se refiere el apartado anterior se hará efectivo a través de las entidades de gestión de los derechos de propiedad intelectual. La efectividad de este derecho a través de las respectivas entidades de gestión comprenderá la negociación con los usuarios, la determinación, recaudación y distribución de la remuneración correspondiente, así como cualquier otra actuación necesaria para asegurar la efectividad de aquél.
+Se modifica los apartados 1 y 2 por el art. único.16 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 117
+
+Artículo 117. Distribución.
+1. Corresponde al productor de fonogramas el derecho exclusivo de autorizar la distribución, según la definición establecida en el artículo 19.1 de esta Ley, de los fonogramas y la de sus copias. Este derecho podrá transferirse, cederse o ser objeto de la concesión de licencias contractuales.
+2. Cuando la distribución se efectúe mediante venta u otro título de transmisión de la propiedad, en el ámbito de la Unión Europea, por el propio titular del derecho o con su consentimiento, este derecho se agotará con la primera, si bien sólo para las ventas y transmisiones de propiedad sucesivas que se realicen en dicho ámbito territorial.
+3. Se considera comprendida en el derecho de distribución la facultad de autorizar la importación y exportación de copias del fonograma con fines de comercialización.
+4. A los efectos de este Título, se entiende por alquiler de fonogramas la puesta a disposición de los mismos para su uso por tiempo limitado y con un beneficio económico o comercial directo o indirecto.
+Quedan excluidas del concepto de alquiler la puesta a disposición con fines de exposición, de comunicación pública a partir de fonogramas o de fragmentos de éstos, y la que se realice para consulta «in situ».
+5. A los efectos de este Título se entiende por préstamo de fonogramas la puesta a disposición para su uso, por tiempo limitado, sin beneficio económico o comercial, directo ni indirecto, siempre que dicho préstamo se lleve a cabo a través de establecimientos accesibles al público.
+Se entenderá que no existe beneficio económico o comercial, directo ni indirecto, cuando el préstamo efectuado por un establecimiento accesible al público dé lugar al pago de una cantidad que no exceda de lo necesario para cubrir sus gastos de funcionamiento.
+Quedan excluidas del concepto de préstamo las operaciones mencionadas en el párrafo segundo del anterior apartado 4 y las que se efectúen entre establecimientos accesibles al público.
+Se modifica el apartado 2 por el art. único.17 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 118
+
+Artículo 118. Legitimación activa.
+En los casos de infracción de los derechos reconocidos en los artículos 115 y 117 corresponderá el ejercicio de las acciones procedentes tanto al productor fonográfico como al cesionario de los mismos.
+
+### Artículo 119
+
+Artículo 119. Duración de los derechos.
+Los derechos de los productores de fonogramas expirarán cincuenta años después de que se haya hecho la grabación. No obstante, si el fonograma se publica lícitamente durante dicho período, los derechos expirarán setenta años después de la fecha de la primera publicación lícita. Si durante el citado período no se efectúa publicación lícita alguna pero el fonograma se comunica lícitamente al público, los derechos expirarán setenta años después de la fecha de la primera comunicación lícita al público.
+Todos los plazos se computarán desde el 1 de enero del año siguiente al momento de la grabación, publicación o comunicación al público.
+Se modifica el primer párrafo por el art. 1.9 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Se modifica por el art. único.18 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+## TÍTULO III
+
+Derechos de los productores de las grabaciones audiovisuales
+
+### Artículo 120
+
+Artículo 120. Definiciones.
+1. Se entiende por grabaciones audiovisuales las fijaciones de un plano o secuencia de imágenes, con o sin sonido, sean o no creaciones susceptibles de ser calificadas como obras audiovisuales en el sentido del artículo 86 de esta Ley.
+2. Se entiende por productor de una grabación audiovisual, la persona natural o jurídica que tenga la iniciativa y asuma la responsabilidad de dicha grabación audiovisual.
+
+### Artículo 121
+
+Artículo 121. Reproducción.
+Corresponde al productor de la primera fijación de una grabación audiovisual el derecho exclusivo de autorizar la reproducción del original y sus copias, según la definición establecida en el artículo 18.
+Este derecho podrá transferirse, cederse o ser objeto de concesión de licencias contractuales.
+Se modifica por el art. único.19 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 122
+
+Artículo 122. Comunicación pública.
+1. Corresponde al productor de grabaciones audiovisuales el derecho de autorizar la comunicación pública de éstas.
+Cuando la comunicación al público se realice por cable y en los términos previstos en el apartado 4 del artículo 20 de esta Ley, será de aplicación lo dispuesto en dicho precepto.
+2. Los usuarios de las grabaciones audiovisuales que se utilicen para los actos de comunicación pública previstos en el artículo 20.2.f) y g) tienen obligación de pagar a los artistas intérpretes o ejecutantes y a los productores de grabaciones audiovisuales la remuneración que proceda, de acuerdo con las tarifas generales establecidas por la correspondiente entidad de gestión.
+3. El derecho a la remuneración equitativa y única a que se refiere el apartado anterior se hará efectivo a través de las entidades de gestión de los derechos de propiedad intelectual. La efectividad de este derecho a través de las respectivas entidades de gestión comprenderá la negociación con los usuarios, la determinación, recaudación y distribución de la remuneración correspondiente, así como cualquier otra actuación necesaria para asegurar la efectividad de aquél.
+Se modifica el apartado 2 por el art. único.20 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 123
+
+Artículo 123. Distribución.
+1. Corresponde al productor de la primera fijación de una grabación audiovisual el derecho exclusivo de autorizar la distribución, según la definición establecida en el artículo 19.1 de esta Ley, del original y de las copias de la misma. Este derecho podrá transferirse, cederse o ser objeto de concesión de licencias contractuales.
+2. Cuando la distribución se efectúe mediante venta u otro título de transmisión de la propiedad, en el ámbito de la Unión Europea, por el propio titular del derecho o con su consentimiento, este derecho se agotará con la primera, si bien sólo para las ventas y transmisiones de propiedad sucesivas que se realicen en dicho ámbito territorial.
+3. A los efectos de este Título, se entiende por alquiler de grabaciones audiovisuales la puesta a disposición para su uso por tiempo limitado y con un beneficio económico o comercial directo o indirecto.
+Quedan excluidas del concepto de alquiler la puesta a disposición con fines de exposición, la comunicación pública a partir de la primera fijación de una grabación audiovisual y sus copias, incluso de fragmentos de una y otras, y la que se realice para consulta «in situ».
+4. A los efectos de este Título, se entiende por préstamo de las grabaciones audiovisuales la puesta a disposición para su uso por tiempo limitado sin beneficio económico o comercial, directo ni indirecto, siempre que dicho préstamo se lleve a cabo a través de establecimientos accesibles al público.
+Se entenderá que no existe beneficio económico o comercial directo ni indirecto cuando el préstamo efectuado por un establecimiento accesible al público dé lugar al pago de una cantidad que no exceda de lo necesario para cubrir sus gastos de funcionamiento.
+Quedan excluidas del concepto de préstamo las operaciones mencionadas en el párrafo segundo del anterior apartado 3 y las que se efectúen entre establecimientos accesibles al público.
+Se modifica el apartado 2 por el art. único.21 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 124
+
+Artículo 124. Otros derechos de explotación.
+Le corresponden, asimismo, al productor los derechos de explotación de las fotografías que fueren realizadas en el proceso de producción de la grabación audiovisual.
+
+### Artículo 125
+
+Artículo 125. Duración de los derechos de explotación.
+La duración de los derechos de explotación reconocidos a los productores de la primera fijación de una grabación audiovisual será de cincuenta años, computados desde el día 1 de enero del año siguiente al de su realización.
+No obstante, si, dentro de dicho período, la grabación se divulga lícitamente, los citados derechos expirarán a los cincuenta años desde la divulgación, computados desde el día 1 de enero del año siguiente a la fecha en que ésta se produzca.
+
+## TÍTULO IV
+
+Derechos de las entidades de radiodifusión
+
+### Artículo 126
+
+Artículo 126. Derechos exclusivos.
+1. Las entidades de radiodifusión gozan del derecho exclusivo de autorizar:
+a) La fijación de sus emisiones o transmisiones en cualquier soporte sonoro o visual. A los efectos de este apartado, se entiende incluida la fijación de alguna imagen aislada difundida en la emisión o transmisión.
+No gozarán de este derecho las empresas de distribución por cable cuando retransmitan emisiones o transmisiones de entidades de radiodifusión.
+b) La reproducción de las fijaciones de sus emisiones o transmisiones.
+Este derecho podrá transferirse, cederse o ser objeto de concesión de licencias contractuales.
+c) La puesta a disposición del público, por procedimientos alámbricos o inalámbricos, de las fijaciones de sus emisiones o transmisiones, de tal forma que cualquier persona pueda acceder a ellas desde el lugar y en el momento que elija.
+d) La retransmisión por cualquier procedimiento técnico de sus emisiones o transmisiones.
+e) La comunicación pública de sus emisiones o transmisiones de radiodifusión, cuando tal comunicación se efectúe en lugares a los que el público pueda acceder mediante el pago de una cantidad en concepto de derecho de admisión o de entrada.
+Cuando la comunicación al público se realice vía satélite o por cable y en los términos previstos en los apartados 3 y 4 del artículo 20 de esta Ley, será de aplicación lo dispuesto en tales preceptos.
+f) La distribución de las fijaciones de sus emisiones o transmisiones.
+Cuando la distribución se efectúe mediante venta u otro título de transmisión de la propiedad, en el ámbito de la Unión Europea, por el propio titular del derecho o con su consentimiento, este derecho se agotará con la primera, si bien sólo para las ventas y transmisiones de propiedad sucesivas que se realicen en dicho ámbito territorial.
+Este derecho podrá transferirse, cederse o ser objeto de concesión de licencias contractuales.
+2. Los conceptos de emisión y transmisión incluyen, respectivamente, las operaciones mencionadas en los párrafos c) y e) del apartado 2 del artículo 20 de la presente Ley, y el de retransmisión, la difusión al público por una entidad que emita o difunda emisiones de otra, recibidas a través de uno cualquiera de los mencionados satélites.
+Se modifica el apartado c) y e) y se renumera el c), d) y e) que pasan a ser el d), e) y f) por el art. único.22 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 127
+
+Artículo 127. Duración de los derechos de explotación.
+Los derechos de explotación reconocidos a las entidades de radiodifusión durarán cincuenta años, computados desde el día 1 de enero del año siguiente al de la realización por vez primera de una emisión o transmisión.
+
+## TÍTULO V
+
+La protección de las meras fotografías
+
+### Artículo 128
+
+Artículo 128. De las meras fotografías.
+Quien realice una fotografía u otra reproducción obtenida por procedimiento análogo a aquélla, cuando ni una ni otra tengan el carácter de obras protegidas en el Libro I, goza del derecho exclusivo de autorizar su reproducción, distribución y comunicación pública, en los mismos términos reconocidos en la presente Ley a los autores de obras fotográficas.
+Este derecho tendrá una duración de veinticinco años computados desde el día 1 de enero del año siguiente a la fecha de realización de la fotografía o reproducción.
+
+## TÍTULO VI
+
+La protección de determinadas producciones editoriales
+
+### Artículo 129
+
+Artículo 129. Obras inéditas en dominio público y obras no protegidas.
+1. Toda persona que divulgue lícitamente una obra inédita que esté en dominio público tendrá sobre ella los mismos derechos de explotación que hubieran correspondido a su autor.
+2. Del mismo modo, los editores de obras no protegidas por las disposiciones del Libro I de la presente Ley, gozarán del derecho exclusivo de autorizar la reproducción, distribución y comunicación pública de dichas ediciones siempre que puedan ser individualizadas por su composición tipográfica, presentación y demás características editoriales.
+
+### Artículo 129 bis
+
+Artículo 129 bis. Derechos de las editoriales de publicaciones de prensa y agencias de noticias respecto a los usos en línea de sus publicaciones de prensa.
+1. Las editoriales de publicaciones de prensa y agencias de noticias establecidas en el territorio español, cuando publican publicaciones de prensa en el sentido de este artículo, tendrán el derecho exclusivo de reproducción directa o indirecta, provisional o permanente, por cualquier medio y en cualquier forma, de la totalidad o parte de una publicación de prensa así como el derecho exclusivo de puesta a disposición del público, por procedimientos alámbricos o inalámbricos para el uso en línea de sus publicaciones de prensa por parte de prestadores de servicios de la sociedad de la información.
+Estos derechos no podrán ser invocados frente a los autores y otros titulares de derechos y, en particular, por sí mismos no privarán a éstos del derecho a explotar sus obras y otras prestaciones con independencia de la publicación de prensa a la que se incorporen.
+2. La reproducción o puesta a disposición del público por terceros usuarios de cualquier texto, imagen, obra fotográfica o mera fotografía que sean objeto de este derecho estará sujeta a autorización y no excluirá la responsabilidad civil o penal del tercero usuario que eventualmente se pudiera derivar de la utilización no autorizada del contenido publicado.
+3. Las editoriales de publicaciones de prensa y agencias de noticias podrán autorizar el ejercicio de los derechos reconocidos en el apartado 1 del presente artículo a los prestadores de servicios de la sociedad de la información. La negociación de dichas autorizaciones se realizará de acuerdo con los principios de buena fe contractual, diligencia debida, transparencia y respeto a las reglas de la libre competencia, excluyendo el abuso de posición de dominio en la negociación.
+Dicha autorización se recogerá en un acuerdo celebrado al efecto con el prestador de servicios de la sociedad de la información, que deberá reunir los siguientes requisitos:
+a) Se deberá respetar la independencia editorial de las editoriales de publicaciones de prensa y agencias de noticias.
+b) El prestador de servicios de la sociedad de la información, en el marco de la relación contractual que establezca con la editorial de publicaciones de prensa o agencia de noticias, deberá informar de forma detallada y suficiente sobre los parámetros principales que rigen la clasificación de los contenidos y la importancia relativa de dichos parámetros principales, atendiendo a lo establecido en el Reglamento (UE) 2019/1150 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, sobre el fomento de la equidad y la transparencia para los usuarios profesionales de servicios de intermediación en línea. Esta información deberá mantenerse actualizada.
+c) No cabrá establecer otros contratos o prestaciones vinculados a este acuerdo que no se refieran a las explotaciones de las publicaciones de prensa.
+d) Será competente para conocer de las cuestiones litigiosas sobre el acuerdo la Sección Primera de la Comisión de Propiedad Intelectual, contra cuyas resoluciones cabrá recurso ante los órganos jurisdiccionales españoles que resulten competentes.
+4. No obstante lo establecido en el apartado anterior, las editoriales de publicaciones de prensa y agencias de noticias podrán otorgar las autorizaciones para el ejercicio de los derechos reconocidos en el apartado 1 a través de los mecanismos de gestión colectiva, según lo establecido en la presente ley. En estos casos, deberán también respetarse los requisitos del apartado anterior.
+5. A los efectos de este artículo, se entenderá por publicación de prensa una recopilación compuesta principalmente por obras literarias de carácter periodístico que también incluye otro tipo de obras, en particular fotografías y videos, u otras prestaciones, y que:
+a) Constituye un cuerpo unitario publicado de forma periódica o actualizado regularmente bajo un único título, como un periódico o una revista de interés general o especial;
+b) Tiene por finalidad proporcionar al público en general información sobre noticias u otros temas, y
+c) Se publica en cualquier medio de comunicación por iniciativa y bajo responsabilidad de la editorial y el control de un prestador de servicios.
+6. Los derechos reconocidos en el apartado 1 no serán aplicables a:
+a) El uso privado o no comercial de las publicaciones de prensa por parte de usuarios individuales.
+b) Los actos de hiperenlace.
+c) Al uso de palabras sueltas o extractos muy breves o poco significativos, tanto desde el punto de vista cuantitativo como cualitativo, de publicaciones de prensa por los prestadores de servicios de la sociedad de la información cuando dicho uso en línea no perjudique a las inversiones realizadas por las editoriales de publicaciones de prensa y agencias de noticias para la publicación de los contenidos y no afecte a la efectividad de los derechos reconocidos en el presente artículo.
+d) Los contenidos literarios que no tengan la condición de publicación de prensa, que se regirán por lo establecido al efecto en el presente texto refundido.
+e) Las publicaciones periódicas con fines científicos o académicos, como las revistas científicas.
+f) Los sitios web, como blogs, que proporcionan información como parte de una actividad que no se lleva a cabo por iniciativa ni con la responsabilidad y control editorial de un prestador de servicios como los que caracterizan a una editorial de noticias.
+g) Los contenidos cuyo uso esté amparado por una excepción o un límite a los derechos de autor o los derechos afines.
+7. No podrán invocarse los derechos reconocidos en este artículo:
+a) Para prohibir su utilización por otros usuarios autorizados, cuando una obra u otra prestación sea incorporada a una publicación de prensa sobre la base de una autorización no exclusiva.
+b) Para prohibir la utilización de obras cuya protección haya expirado.
+8. Los autores de las obras incorporadas a una publicación de prensa recibirán una parte adecuada de los ingresos que las editoriales de publicaciones de prensa o agencias de noticias perciban por el uso de sus publicaciones de prensa por parte de prestadores de servicios de la sociedad de la información. Para el ejercicio de este derecho, los autores podrán también acudir, de forma potestativa, a los mecanismos de gestión colectiva establecidos en la presente ley.
+Se añade por el art. 80.7 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-2
+
+### Artículo 130
+
+Artículo 130. Duración de los derechos.
+1. Los derechos reconocidos en el artículo 129.1 durarán veinticinco años, computados desde el día 1 de enero del año siguiente al de la divulgación lícita de la obra.
+2. Los derechos reconocidos en el artículo 129.2 durarán veinticinco años, computados desde el día 1 de enero del año siguiente al de la publicación.
+3. Los derechos reconocidos en el artículo 129 bis durarán dos años contados desde el 1 de enero del año siguiente al de la fecha de la publicación de prensa.
+Se modifica por el art. 80.8 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-2
+
+## TÍTULO VII
+
+Disposiciones comunes a los otros derechos de propiedad intelectual
+Se modifica por el art. 6.1 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 131
+
+Artículo 131. Cláusula de salvaguardia de los derechos de autor.
+Los otros derechos de propiedad intelectual reconocidos en este Libro II se entenderán sin perjuicio de los que correspondan a los autores.
+Se modifica por el art. 6.2 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 132
+
+Artículo 132. Aplicación subsidiaria de las disposiciones del Libro I
+Las disposiciones contenidas en el artículo 6.1, en la sección 2.ª del capítulo III, del Título II y en el capítulo II del Título III, salvo lo establecido en el párrafo segundo del apartado segundo del artículo 37, ambos del Libro I de la presente Ley, se aplicarán, con carácter subsidiario y en lo pertinente, a los otros derechos de propiedad intelectual regulados en este Libro.
+Se modifica por la disposición final 1.3 de la Ley 10/2007, de 22 de junio. Ref. BOE-A-2007-12351.
+ Se modifica por el art. 2.1 de la Ley 19/2006, de 5 de junio. Ref. BOE-A-2006-9960.
+ Se modifica por el art. 6.2 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+## TÍTULO VIII
+
+Derecho "sui generis" sobre las bases de datos
+Se añade por el art. 6.3 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### LIBRO III
+
+De la protección de los derechos reconocidos en esta Ley
+
+### TÍTULO I
+
+Acciones y procedimientos
+
+### Artículo 133
+
+Artículo 133. Objeto de protección.
+1. El derecho «sui generis» sobre una base de datos protege la inversión sustancial, evaluada cualitativa o cuantitativamente, que realiza su fabricante ya sea de medios financieros, empleo de tiempo, esfuerzo, energía u otros de similar naturaleza, para la obtención, verificación o presentación de su contenido.
+Mediante el derecho al que se refiere el párrafo anterior, el fabricante de una base de datos, definida en el artículo 12.2 del presente texto refundido de la Ley de Propiedad Intelectual, puede prohibir la extracción y/o reutilización de la totalidad o de una parte sustancial del contenido de ésta, evaluada cualitativa o cuantitativamente, siempre que la obtención, la verificación o la presentación de dicho contenido representen una inversión sustancial desde el punto de vista cuantitativo o cualitativo. Este derecho podrá transferirse, cederse o darse en licencia contractual.
+2. No obstante lo dispuesto en el párrafo segundo del apartado anterior, no estarán autorizadas la extracción y/o reutilización repetidas o sistemáticas de partes no sustanciales del contenido de una base de datos que supongan actos contrarios a una explotación normal de dicha base o que causen un perjuicio injustificado a los intereses legítimos del fabricante de la base.
+3. A los efectos del presente Título se entenderá por:
+a) Fabricante de la base de datos, la persona natural o jurídica que toma la iniciativa y asume el riesgo de efectuar las inversiones sustanciales orientadas a la obtención, verificación o presentación de su contenido.
+b) Extracción, la transferencia permanente o temporal de la totalidad o de una parte sustancial del contenido de una base de datos a otro soporte cualquiera que sea el medio utilizado o la forma en que se realice.
+c) Reutilización, toda forma de puesta a disposición del público de la totalidad o de una parte sustancial del contenido de la base mediante la distribución de copias en forma de venta u otra transferencia de su propiedad o por alquiler, o mediante transmisión en línea o en otras formas. A la distribución de copias en forma de venta en el ámbito de la Unión Europea le será de aplicación lo dispuesto en el apartado 2 del artículo 19 de la presente Ley.
+4. El derecho contemplado en el párrafo segundo del anterior apartado 1 se aplicará con independencia de la posibilidad de que dicha base de datos o su contenido esté protegida por el derecho de autor o por otros derechos. La protección de las bases de datos por el derecho contemplado en el párrafo segundo del anterior apartado 1 se entenderá sin perjuicio de los derechos existentes sobre su contenido.
+Se modifica por el art. 6.3 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 134
+
+Artículo 134. Derechos y obligaciones del usuario legítimo.
+1. El fabricante de una base de datos, sea cual fuere la forma en que haya sido puesta a disposición del público, no podrá impedir al usuario legítimo de dicha base extraer y/o reutilizar partes no sustanciales de su contenido, evaluadas de forma cualitativa o cuantitativa, con independencia del fin a que se destine.
+En los supuestos en que el usuario legítimo esté autorizado a extraer y/o reutilizar sólo parte de la base de datos, lo dispuesto en el párrafo anterior se aplicará únicamente a dicha parte.
+2. El usuario legítimo de una base de datos, sea cual fuere la forma en que haya sido puesta a disposición del público, no podrá efectuar los siguientes actos:
+a) Los que sean contrarios a una explotación normal de dicha base o lesionen injustificadamente los intereses legítimos del fabricante de la base.
+b) Los que perjudiquen al titular de un derecho de autor o de uno cualquiera de los derechos reconocidos en los Títulos I a VI del Libro II de la presente Ley que afecten a obras o prestaciones contenidas en dicha base.
+3. Cualquier pacto en contrario a lo establecido en esta disposición será nulo de pleno derecho.
+Se modifica por el art. 6.3 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 135
+
+Artículo 135. Excepciones al derecho «sui generis».
+1. El usuario legítimo de una base de datos, sea cual fuere la forma en que ésta haya sido puesta a disposición del público, podrá, sin autorización del fabricante de la base, extraer y/o reutilizar una parte sustancial del contenido de la misma, en los siguientes casos:
+a) Cuando se trate de una extracción para fines privados del contenido de una base de datos no electrónica.
+b) Cuando se trate de una extracción con fines ilustrativos de enseñanza o de investigación científica en la medida justificada por el objetivo no comercial que se persiga y siempre que se indique la fuente.
+c) Cuando se trate de una extracción y/o reutilización para fines de seguridad pública o a efectos de un procedimiento administrativo o judicial.
+2. Las disposiciones del apartado anterior no podrán interpretarse de manera tal que permita su aplicación de forma que cause un perjuicio injustificado a los intereses legítimos del titular del derecho o que vaya en detrimento de la explotación normal del objeto protegido.
+Se modifica por el art. 6.3 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 136
+
+Artículo 136. Plazo de protección.
+1. El derecho contemplado en el artículo 133 nacerá en el mismo momento en que se dé por finalizado el proceso de fabricación de la base de datos, y expirará quince años después del 1 de enero del año siguiente a la fecha en que haya terminado dicho proceso.
+2. En los casos de bases de datos puestas a disposición del público antes de la expiración del período previsto en el apartado anterior, el plazo de protección expirará a los quince años, contados desde el 1 de enero siguiente a la fecha en que la base de datos hubiese sido puesta a disposición del público por primera vez.
+3. Cualquier modificación sustancial, evaluada de forma cuantitativa o cualitativa del contenido de una base de datos y, en particular, cualquier modificación sustancial que resulte de la acumulación de adiciones, supresiones o cambios sucesivos que conduzcan a considerar que se trata de una nueva inversión sustancial, evaluada desde un punto de vista cuantitativo o cualitativo, permitirá atribuir a la base resultante de dicha inversión un plazo de protección propio.
+Se modifica por el art. 6.3 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 137
+
+Artículo 137. Salvaguardia de aplicación de otras disposiciones.
+Lo dispuesto en el presente Título se entenderá sin perjuicio de cualesquiera otras disposiciones legales que afecten a la estructura o al contenido de una base de datos tales como las relativas al derecho de autor u otros derechos de propiedad intelectual, al derecho de propiedad industrial, derecho de la competencia, derecho contractual, secretos, protección de los datos de carácter personal, protección de los tesoros nacionales o sobre el acceso a los documentos públicos.
+Se modifica por el art. 6.3 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+## LIBRO III
+
+De la protección de los derechos reconocidos en esta Ley
+
+## TÍTULO I
+
+Acciones y procedimientos
+
+### Artículo 138
+
+Artículo 138. Acciones y medidas cautelares urgentes.
+El titular de los derechos reconocidos en esta ley, sin perjuicio de otras acciones que le correspondan, podrá instar el cese de la actividad ilícita del infractor y exigir la indemnización de los daños materiales y morales causados, en los términos previstos en los artículos 139 y 140. También podrá instar la publicación o difusión, total o parcial, de la resolución judicial o arbitral en medios de comunicación a costa del infractor.
+Tendrá también la consideración de responsable de la infracción quien induzca a sabiendas la conducta infractora; quien coopere con la misma, conociendo la conducta infractora o contando con indicios razonables para conocerla; y quien, teniendo un interés económico directo en los resultados de la conducta infractora, cuente con una capacidad de control sobre la conducta del infractor. Lo anterior no afecta a las limitaciones de responsabilidad específicas establecidas en los artículos 14 a 17 de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, en la medida en que se cumplan los requisitos legales establecidos en dicha ley para su aplicación.
+Asimismo, podrá solicitar con carácter previo la adopción de las medidas cautelares de protección urgente reguladas en el artículo 141.
+Tanto las medidas de cesación específicas contempladas en el artículo 139.1.h) como las medidas cautelares previstas en el artículo 141.6 podrán también solicitarse, cuando sean apropiadas, contra los intermediarios a cuyos servicios recurra un tercero para infringir derechos de propiedad intelectual reconocidos en esta ley, aunque los actos de dichos intermediarios no constituyan en sí mismos una infracción, sin perjuicio de lo dispuesto en la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico. Dichas medidas habrán de ser objetivas, proporcionadas y no discriminatorias.
+Se modifica por el art. 1.10 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Se modifica por el art. único.23 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Se modifica por el art. 2.2 de la Ley 19/2006, de 5 de junio. Ref. BOE-A-2006-9960.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 133
+
+### TÍTULO II
+
+El Registro de la Propiedad Intelectual
+
+### Artículo 139
+
+Artículo 139. Cese de la actividad ilícita.
+1. El cese de la actividad ilícita podrá comprender:
+a) La suspensión de la explotación o actividad infractora, incluyendo todos aquellos actos o actividades a los que se refieren los artículos 196 y 198.
+b) La prohibición al infractor de reanudar la explotación o actividad infractora.
+c) La retirada del comercio de los ejemplares ilícitos y su destrucción, incluyendo aquellos en los que haya sido suprimida o alterada sin autorización la información para la gestión electrónica de derechos o cuya protección tecnológica haya sido eludida. Esta medida se ejecutará a expensas del infractor, salvo que se aleguen razones fundadas para que no sea así.
+d) La retirada de los circuitos comerciales, la inutilización, y, en caso necesario, la destrucción de los moldes, planchas, matrices, negativos y demás elementos materiales, equipos o instrumentos destinados principalmente a la reproducción, a la creación o fabricación de ejemplares ilícitos. Esta medida se ejecutará a expensas del infractor, salvo que se aleguen razones fundadas para que no sea así.
+e) La remoción o el precinto de los aparatos utilizados en la comunicación pública no autorizada de obras o prestaciones, así como de aquellas en las que se haya suprimido o alterado sin autorización la información para la gestión electrónica de derechos, en los términos previstos en el artículo 198, o a las que se haya accedido eludiendo su protección tecnológica, en los términos previstos en el artículo 196.
+f) El comiso, la inutilización y, en caso necesario, la destrucción de los instrumentos, con cargo al infractor, cuyo único uso sea facilitar la supresión o neutralización no autorizadas de cualquier dispositivo técnico utilizado para proteger un programa de ordenador. Las mismas medidas podrán adoptarse en relación con los dispositivos, productos o componentes para la elusión de medidas tecnológicas a los que se refiere el artículo 196 y para suprimir o alterar la información para la gestión electrónica de derechos a que se refiere el artículo 198.
+g) La remoción o el precinto de los instrumentos utilizados para facilitar la supresión o la neutralización no autorizadas de cualquier dispositivo técnico utiliza­do para proteger obras o prestaciones aunque aquélla no fuera su único uso.
+h) La suspensión de los servicios prestados por intermediarios a terceros que se valgan de ellos para infringir derechos de propiedad intelectual, sin perjuicio de lo dispuesto en la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico.
+2. El infractor podrá solicitar que la destrucción o inutilización de los mencionados ejemplares y material, cuando éstos sean susceptibles de otras utilizaciones, se efectúe en la medida necesaria para impedir la explotación ilícita.
+3. El titular del derecho infringido podrá pedir la entrega de los referidos ejemplares y material a precio de coste y a cuenta de su correspondiente indemnización de daños y perjuicios.
+4. Lo dispuesto en este artículo no se aplicará a los ejemplares adquiridos de buena fe para uso personal.
+Se modifican las letras a), e) y f) del apartado 1 por el art. único.5 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifican las letras a), e) y f) del apartado 1 por el art. único.5 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica el apartado 1 por el art. único.24 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Se modifica los apartados 1.c) y d) y se añade el f) por el art. 2.3 de la Ley /2006, de 5 de junio. Ref. BOE-A-2006-9960.
+ Se interpreta la adicción de la letra f), aunque el legislador la consignó como g)
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 134
+
+### Artículo 140
+
+Artículo 140. Indemnización.
+1. La indemnización por daños y perjuicios debida al titular del derecho infringido comprenderá no sólo el valor de la pérdida que haya sufrido, sino también el de la ganancia que haya dejado de obtener a causa de la violación de su derecho. La cuantía indemnizatoria podrá incluir, en su caso, los gastos de investigación en los que se haya incurrido para obtener pruebas razonables de la comisión de la infracción objeto del procedimiento judicial.
+2. La indemnización por daños y perjuicios se fijará, a elección del perjudicado, conforme a alguno de los criterios siguientes:
+a) Las consecuencias económicas negativas, entre ellas la pérdida de beneficios que haya sufrido la parte perjudicada y los beneficios que el infractor haya obtenido por la utilización ilícita.
+En el caso de daño moral procederá su indemnización, aun no probada la existencia de perjuicio económico. Para su valoración se atenderá a las circunstancias de la infracción, gravedad de la lesión y grado de difusión ilícita de la obra.
+b) La cantidad que como remuneración hubiera percibido el perjudicado, si el infractor hubiera pedido autorización para utilizar el derecho de propiedad intelectual en cuestión.
+3. La acción para reclamar los daños y perjuicios a que se refiere este artículo prescribirá a los cinco años desde que el legitimado pudo ejercitarla.
+Se modifica por el art. 2.4 de la Ley 19/2006, de 5 de junio. Ref. BOE-A-2006-9960.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 135
+
+### TÍTULO III
+
+Símbolos o indicaciones de la reserva de derechos
+
+### Artículo 141
+
+Artículo 141. Medidas cautelares.
+En caso de infracción o cuando exista temor racional y fundado de que ésta va a producirse de modo inminente, la autoridad judicial podrá decretar, a instancia de los titulares de los derechos reconocidos en esta Ley, las medidas cautelares que, según las circunstancias, fuesen necesarias para la protección urgente de tales derechos, y en especial:
+1. La intervención y el depósito de los ingresos obtenidos por la actividad ilícita de que se trate o, en su caso, la consignación o depósito de las cantidades debidas en concepto de remuneración.
+2. La suspensión de la actividad de reproducción, distribución y comunicación pública, según proceda, o de cualquier otra actividad que constituya una infracción a los efectos de esta Ley, así como la prohibición de estas actividades si todavía no se han puesto en práctica.
+3. El secuestro de los ejemplares producidos o utilizados y el del material empleado principalmente para la reproducción o comunicación pública.
+4. El secuestro de los instrumentos, dispositivos, productos y componentes referidos en los artículos 102.c) y 196.2 y de los utilizados para la supresión o alteración de la información para la gestión electrónica de los derechos referidos en el artículo 198.2.
+5. El embargo de los equipos, aparatos y soportes materiales a los que se refiere el artículo 25, que quedarán afectos al pago de la compensación reclamada y a la oportuna indemnización de daños y perjuicios.
+6. La suspensión de los servicios prestados por intermediarios a terceros que se valgan de ellos para infringir derechos de propiedad intelectual, sin perjuicio de lo dispuesto en la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y del comercio electrónico.
+La adopción de las medidas cautelares quedará sin efecto si no se presentara la correspondiente demanda en los términos previstos en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+Se modifica el apartado 4 por el art. único.6 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica el apartado 4 por el art. único.6 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica los apartados 2, 3 y 4 y se añade el 5, 6 y el párrafo final por la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Se modifica por el art. 2.5 de la Ley 19/2006, de 5 de junio. Ref. BOE-A-2006-9960.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 136
+
+### TÍTULO IV
+
+Las entidades de gestión de los derechos reconocidos en la Ley
+
+### Artículo 142
+
+Artículo 142. Procedimiento.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.13º de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 137
+
+### Artículo 143
+
+Artículo 143. Causas criminales.
+En las causas criminales que se sigan por infracción de los derechos reconocidos en esta Ley, podrán adoptarse las medidas cautelares procedentes en procesos civiles, conforme a lo dispuesto en la Ley de Enjuiciamiento Civil. Estas medidas no impedirán la adopción de cualesquiera otras establecidas en la legislación procesal penal.
+Se modifica por la disposición final 2.3 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 138
+
+## TÍTULO II
+
+El Registro de la Propiedad Intelectual
+
+### Artículo 144
+
+Artículo 144. Organización y funcionamiento.
+1. El Registro General de la Propiedad Intelectual tendrá carácter único en todo el territorio nacional. Reglamentariamente se regulará su ordenación, que incluirá, en todo caso, la organización y funciones del Registro Central dependiente del Ministerio de Cultura y las normas comunes sobre procedimiento de inscripción y medidas de coordinación e información entre todas las Administraciones públicas competentes.
+2. Las Comunidades Autónomas determinarán la estructura y funcionamiento del Registro en sus respectivos territorios, y asumirán su llevanza, cumpliendo en todo caso las normas comunes a que se refiere el apartado anterior.
+Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 139
+
+### Artículo 145
+
+Artículo 145. Régimen de las inscripciones.
+1. Podrán ser objeto de inscripción en el Registro los derechos de propiedad intelectual relativos a las obras y demás producciones protegidas por la presente Ley.
+2. El Registrador calificará las solicitudes presentadas y la legalidad de los actos y contratos relativos a los derechos inscribibles, pudiendo denegar o suspender la práctica de los asientos correspondientes. Contra el acuerdo del Registrador podrán ejercitarse directamente ante la jurisdicción civil las acciones correspondientes.
+3. Se presumirá, salvo prueba en contrario, que los derechos inscritos existen y pertenecen a su titular en la forma determinada en el asiento respectivo.
+4. El Registro será público, sin perjuicio de las limitaciones que puedan establecerse al amparo de lo previsto en el artículo 101 de esta Ley.
+Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 140
+
+## TÍTULO III
+
+Símbolos o indicaciones de la reserva de derechos
+
+### Artículo 146
+
+Artículo 146. Símbolos o indicaciones.
+El titular o cesionario en exclusiva de un derecho de explotación sobre una obra o producción protegidas por esta Ley podrá anteponer a su nombre el símbolo © con precisión del lugar y año de la divulgación de aquéllas.
+Asimismo, en las copias de los fonogramas o en sus envolturas se podrá anteponer al nombre del productor o de su cesionario, el símbolo (p), indicando el año de la publicación.
+Los símbolos y referencias mencionados deberán hacerse constar en modo y colocación tales que muestren claramente que los derechos de explotación están reservados.
+Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 141
+
+## TÍTULO IV
+
+Gestión colectiva de los derechos reconocidos en la ley
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Véase la disposición adicional 2 del citado Real Decreto-ley.
+
+## CAPÍTULO I
+
+Requisitos para la gestión colectiva
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este capítulo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 147
+
+Artículo 147. Requisitos de las entidades de gestión.
+Las entidades legalmente constituidas que tengan establecimiento en territorio español y pretendan dedicarse, en nombre propio o ajeno, a la gestión de derechos de explotación u otros de carácter patrimonial, por cuenta y en interés de varios autores u otros titulares de derechos de propiedad intelectual, deberán obtener la oportuna autorización del Ministerio de Cultura y Deporte, con objeto de garantizar una adecuada protección de la propiedad intelectual. Esta autorización habrá de publicarse en el «Boletín Oficial del Estado».
+Las entidades de gestión colectiva son propiedad de sus socios y estarán sometidas al control de los mismos, no podrán tener ánimo de lucro y, en virtud de la autorización, podrán ejercer los derechos de propiedad intelectual confiados a su gestión por sus titulares mediante contrato de gestión y tendrán los derechos y obligaciones que en este título se establecen y, en particular, hacer efectivos los derechos a una remuneración y compensación equitativas en los distintos supuestos previstos en esta ley y a ejercitar el derecho de autorizar la distribución por cable.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica por el art. 42.1 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 142
+
+### Artículo 148
+
+Artículo 148. Condiciones de la autorización.
+1. La autorización prevista en el artículo anterior solo se concederá si, formulada la oportuna solicitud, esta se acompaña de la documentación que permita verificar la concurrencia de las siguientes condiciones:
+a) Que los estatutos de la entidad solicitante cumplan los requisitos establecidos en este título.
+b) Que de los datos aportados y de la información practicada se desprenda que la entidad solicitante reúne las condiciones necesarias para asegurar la eficaz administración de los derechos, cuya gestión le va a ser encomendada, en todo el territorio español.
+c) Que la autorización favorezca los intereses generales de la protección de la propiedad intelectual.
+2. Para valorar la concurrencia de las condiciones establecidas en los letras b) y c) del apartado anterior, se tendrán particularmente en cuenta como criterios de valoración, la capacidad de una gestión viable de los derechos encomendados, la idoneidad de sus estatutos y sus medios materiales para el cumplimiento de sus fines, y la posible efectividad de su gestión en el extranjero, atendiéndose, especialmente, a las razones imperiosas de interés general que constituyen la protección de la propiedad intelectual.
+3. La autorización se entenderá concedida, si no se notifica resolución en contrario, en el plazo de tres meses desde la presentación de la solicitud.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica por el art. 42.2 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 143
+
+### Artículo 149
+
+Artículo 149. Revocación de la autorización.
+La autorización podrá ser revocada por el Ministerio de Cultura y Deporte si sobreviniera o se pusiera de manifiesto algún hecho que pudiera haber originado la denegación de la autorización, o si la entidad de gestión incumpliera gravemente las obligaciones establecidas en este título. En los tres supuestos deberá mediar un previo apercibimiento del Ministerio de Cultura y Deporte, que fijará un plazo no inferior a tres meses para la subsanación o corrección de los hechos señalados.
+La revocación producirá sus efectos a los tres meses de su publicación en el «Boletín Oficial del Estado».
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 144
+
+### Artículo 150
+
+Artículo 150. Legitimación.
+Las entidades de gestión, una vez autorizadas conforme a lo previsto en este título, estarán legitimadas en los términos que resulten de sus propios estatutos, para ejercer los derechos confiados a su gestión y hacerlos valer en toda clase de procedimientos administrativos o judiciales.
+Para acreditar dicha legitimación, la entidad de gestión únicamente deberá aportar al inicio del proceso copia de sus estatutos y certificación acreditativa de su autorización administrativa. El demandado solo podrá fundar su oposición en la falta de representación de la actora, la autorización del titular del derecho exclusivo o el pago de la remuneración correspondiente.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica por la disposición final 2.4 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 145
+
+### Artículo 151
+
+Artículo 151. Requisitos de las entidades de gestión sin establecimiento en España.
+1. Las entidades de gestión legalmente constituidas que no tengan establecimiento en territorio español pero pretendan prestar servicios en España conforme a lo determinado en esta ley, deberán comunicar al Ministerio de Cultura y Deporte el inicio de sus actividades en España.
+La comunicación deberá contener, al menos, sus datos de contacto, incluyendo sus datos de identificación fiscal, las características de los servicios que vayan a prestar, los documentos acreditativos del cumplimiento de los requisitos establecidos en su país de establecimiento para operar como entidad de gestión y una versión en castellano de sus estatutos en vigor. Asimismo, deberán comunicar cualquier variación respecto de los datos contenidos en la comunicación dentro del mes siguiente al que tengan lugar.
+2. Las entidades de gestión referidas en el apartado 1 que tengan establecimiento en otro Estado de la Unión Europea deberán cumplir, en relación con los servicios que presten en España y en los mismos términos que las entidades de gestión autorizadas por el Ministerio de Cultura y Deporte, con las obligaciones previstas en los artículos 163 a 166; 176.2; 177; apartados 1, excepto el cuarto párrafo, 2 a 5; 185 y 186 letras c) a f).
+3. Las entidades de gestión referidas en el apartado 1 que tengan establecimiento fuera de la Unión Europea deberán cumplir, en relación con los servicios que presten en España y en los mismos términos que las entidades de gestión autorizadas por el Ministerio de Cultura y Deporte, con las obligaciones previstas en los artículos 163 a 166; 170 a 174; 177, apartados 1, excepto el cuarto párrafo; 2 a 5; 179 a 184; 185, excepto la obligación de publicar el informe anual de transparencia; y 186, letras c) a f).
+4. Las entidades de gestión referidas en este artículo podrán ejercer los derechos de propiedad intelectual conferidos a su gestión por sus titulares mediante contrato de gestión y por cuenta y en beneficio colectivo de todos ellos. Para poder hacer efectivos los derechos a una remuneración y compensación equitativas en los distintos supuestos previstos en esta ley y a ejercitar el derecho de autorizar la distribución por cable deberán solicitar la autorización prevista en el artículo 147.
+5. Las entidades de gestión referidas en este artículo estarán sujetas a las facultades de supervisión de las Administraciones competentes y al cumplimiento de las obligaciones previstas en el artículo 154.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Véase la disposición adicional 2.1 de la citada Ley.
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Véase la disposición adicional 4 del citado Real Decreto-ley.
+ Se modifica el apartado 5 y se añaden los apartados 13 y 14 por el art. 1.11 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Se modifica el apartado 2 por el art. 42.3 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 146
+
+### Artículo 152
+
+Artículo 152. Requisitos de las entidades dependientes de una entidad de gestión.
+1. Cuando una entidad dependiente de una entidad de gestión desarrolle en España una actividad regulada en este título que sea propia de la entidad de gestión de la que dependa, estará sujeta al cumplimiento de esa regulación en los mismos términos que lo estaría la propia entidad de gestión.
+Se entenderá por entidad dependiente de una entidad de gestión a la entidad legalmente constituida que, directa o indirectamente, en su totalidad o en parte, sea propiedad de una entidad de gestión o esté bajo su control.
+2. Sin perjuicio de lo previsto en los apartados 4 y 5 del artículo 178 y lo regulado al respecto del control de los estatutos de la persona jurídica prevista en el artículo 25.10 y la que gestione la ventanilla única de facturación y pago del artículo 168, las entidades de gestión comunicarán al Ministerio de Cultura y Deporte la constitución de una entidad dependiente o la integración en una entidad ya existente.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 147
+
+### Artículo 153
+
+Artículo 153. Requisitos de los operadores de gestión independientes.
+1. Los operadores de gestión independientes que pretendan prestar servicios en España conforme a lo determinado en esta ley, deberán comunicar al Ministerio de Cultura y Deporte el inicio de sus actividades en España. La comunicación deberá contener, al menos, sus datos de contacto, incluyendo sus datos de identificación fiscal, las características de los servicios que vayan a prestar y la documentación necesaria para verificar el cumplimiento de los requisitos previstos en las letras a) y b) del apartado 2. Asimismo, deberán comunicar cualquier variación respecto de los datos contenidos en la comunicación de inicio dentro del mes siguiente al que tengan lugar.
+Estos operadores solo podrán ejercer los derechos de propiedad intelectual conferidos a su gestión por sus titulares mediante contrato de gestión y en beneficio colectivo de todos ellos.
+2. Se entenderá por operador de gestión independiente a cualquier entidad legalmente constituida y autorizada por un contrato de gestión para gestionar derechos de explotación u otros de carácter patrimonial en nombre y beneficio colectivo de varios titulares de derechos, como único o principal objeto, y siempre que:
+a) No sea propiedad ni esté sometida al control, directa o indirectamente, en su totalidad o en parte, de titulares de derechos. A tal efecto, los títulos acreditativos de la propiedad del operador de gestión independiente deberán ser nominativos. Idénticos requisitos se exigirán a las entidades que ostenten la propiedad o el control directo o indirecto, total o parcial, del operador de gestión independiente, y a las entidades en las que el operador de gestión independiente ostente la propiedad o el control directo o indirecto, total o parcial.
+b) Tenga ánimo de lucro.
+En ningún caso podrán ser considerados como operador de gestión independiente los productores de grabaciones audiovisuales, los productores de fonogramas, las entidades de radiodifusión, los editores, los gestores de autores o de artistas intérpretes o ejecutantes, ni los agentes que representan a los titulares de derechos en sus relaciones con las entidades de gestión.
+3. Los operadores de gestión independiente deberán cumplir, en los mismos términos que las entidades de gestión autorizadas por el Ministerio de Cultura y Deporte, con las obligaciones previstas en los artículos 163.1, 165, 166, 181, 183, apartado 1, letras a) y b), y 186, letras c) y e). Asimismo, deberán hacer constar en su denominación la referencia «Operador de Gestión Independiente» o, en su defecto, la abreviatura «OGI».
+4. Los operadores de gestión independientes deberán publicar en su página web de forma fácilmente accesible y mantener actualizada la siguiente información:
+a) Sus estatutos.
+b) Las condiciones para que un titular de derechos de propiedad intelectual pueda celebrar con ellos un contrato de gestión.
+c) El repertorio que gestiona y todas sus actualizaciones.
+d) Sus tarifas por el uso de los derechos conferidos a su gestión, descuentos incluidos.
+e) Los contratos generales que tengan suscritos con asociaciones de usuarios y los modelos de contrato que habitualmente se utilicen para cada modalidad de uso de su repertorio.
+f) Las reglas de reparto de los importes que deben abonarse a los titulares de derechos.
+g) Sus descuentos de gestión y otras deducciones aplicadas a los derechos recaudados.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Véase la disposición adicional 2.2 de la citada Ley.
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Véase la disposición adicional 4 del citado Real Decreto-ley.
+ Se modifica el apartado 1 y se suprime el apartado 2 por el art. 1.12 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 148
+
+### Artículo 154
+
+Artículo 154. Facultades de supervisión de las Administraciones Públicas.
+1. Las Administraciones que sean competentes conforme al artículo 155 velarán por el cumplimiento de las obligaciones que incumben a las entidades de gestión, a las entidades dependientes de las mismas y a los operadores de gestión independientes que presten, todos ellos, sus servicios en España.
+Con este fin, las Administraciones competentes podrán realizar las actividades de inspección y control que consideren convenientes, recabando, cuando resulte necesario, la colaboración de otras entidades públicas o privadas.
+Asimismo, las Administraciones competentes podrán formular a la autoridad competente de otro Estado miembro de la Unión Europea solicitudes de información debidamente razonadas en relación con la aplicación de su normativa reguladora de la gestión colectiva de derechos de propiedad intelectual, en particular, respecto de las actividades de las entidades de gestión o los operadores de gestión independiente con establecimiento en ese Estado miembro que presten servicios en España.
+2. Las entidades de gestión, las entidades dependientes de las mismas y los operadores de gestión independientes estarán obligados a colaborar con las Administraciones competentes y atender diligentemente a sus requerimientos de información y documentación.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se añade la letra e) al apartado 5 y se modifica el párrafo siguiente por el art. único.3 del Real Decreto-ley 12/2017, de 3 de julio. Ref. BOE-A-2017-7718
+ Se modifica por el art. 1.13 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Téngase en cuenta que los apartados 7 y 8 entran en vigor el 5 de mayo de 2015 y los apartados 3, 4, 5 y 6 serán aplicables a las cantidades recaudadas por las entidades de gestión a partir del 1 de enero de 2015, con independencia de la fecha de su devengo, según establece la disposición final 5.c) y d) de la citada Ley.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 149
+
+### LIBRO IV
+
+Del ámbito de aplicación de la Ley
+
+### Artículo 155
+
+Artículo 155. Competencias de las Administraciones Públicas.
+1. Corresponderán, en todo caso, al Ministerio de Cultura y Deporte, las siguientes funciones:
+a) La comprobación del cumplimiento de los requisitos legales al inicio de la actividad y la inhabilitación legal para operar de las entidades de gestión y de los operadores de gestión independientes, conforme a lo previsto en esta ley.
+b) La aprobación de las modificaciones estatutarias presentadas por las entidades de gestión que dispongan de la autorización prevista en el artículo 147, una vez que lo hayan sido por la respectiva asamblea general y sin perjuicio de lo dispuesto por otras normas de aplicación. Las entidades de gestión deberán cursar esta solicitud de aprobación por el Ministerio de Cultura y Deporte dentro del mes siguiente a la aprobación de la modificación estatutaria por la asamblea general correspondiente. La aprobación administrativa se entenderá concedida si no se notifica resolución en contrario en el plazo de tres meses desde la presentación de la solicitud.
+c) La recepción de las comunicaciones de inicio de actividad remitidas por las entidades de gestión con establecimiento fuera de España y por los operadores de gestión independientes que presten, todos ellos, servicios en territorio español; y de las comunicaciones de variación de los datos contenidos en las mismas. El Ministerio de Cultura y Deporte mantendrá en su portal de internet un listado actualizado de las entidades de gestión con establecimiento fuera de España y de los operadores de gestión independientes que hayan comunicado el inicio de sus actividades en España.
+2. Las funciones de inspección, vigilancia y control de las entidades de gestión de derechos de propiedad intelectual y de los operadores de gestión independiente, incluido el ejercicio de la potestad sancionadora, corresponderán a la Comunidad Autónoma en cuyo territorio desarrolle principalmente su actividad ordinaria.
+Se considerará que una entidad de gestión de derechos de propiedad intelectual o un operador de gestión independiente actúa principalmente en una Comunidad Autónoma cuando su domicilio social y el domicilio fiscal de al menos el 50 por ciento de sus miembros o de sus mandantes, en el caso de un operador de gestión independiente, se encuentren en el territorio de dicha Comunidad Autónoma, y el principal ámbito de recaudación de la remuneración de los derechos confiados a su gestión se circunscriba a dicho territorio. Se entenderá por principal ámbito de recaudación aquel de donde proceda más del 60 por ciento de esta, siendo revisable bienalmente el cumplimiento de esta condición.
+El Gobierno, a propuesta del Ministro de Cultura y Deporte, establecerá reglamentariamente los mecanismos y obligaciones de información necesarios para garantizar el ejercicio coordinado y eficaz de estas funciones.
+3. Corresponderán al Ministerio de Cultura y Deporte las funciones de inspección, vigilancia y control, incluido el ejercicio de la potestad sancionadora, sobre las entidades de gestión de derechos de propiedad intelectual, las entidades que de ellas dependan y los operadores de gestión independiente, cuando de acuerdo con lo previsto en el apartado anterior no corresponda el ejercicio de estas funciones a una Comunidad Autónoma.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica por el art. 1.14 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Se modifica el apartado 1 por el art. 42.4 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 150
+
+## CAPITULO II
+
+CAPÍTULO II
+Titulares de derechos
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este capítulo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 156
+
+Artículo 156. Principios generales de representación de los titulares de derechos.
+1. Se considerará titular de derechos, a los efectos de este título, a toda persona o entidad, distinta de una entidad de gestión, que sea titular de derechos de autor u otros derechos de propiedad intelectual o que, en virtud de un acuerdo de explotación de derechos o por ley, esté legitimada para percibir una parte de las cuantías generados por tales derechos.
+2. Las entidades de gestión están obligadas a aceptar la administración de los derechos que les sean encomendados contractual o legalmente de acuerdo con su objeto o fines y conforme a los criterios de admisión previstos en sus estatutos, siempre que su gestión esté comprendida dentro de su ámbito de actividad y salvo que existan motivos objetivamente justificados para su rechazo que deberán ser motivados adecuadamente. Dicho encargo lo desempeñarán con sujeción a sus estatutos y demás normas aplicables al efecto.
+3. La gestión de los derechos será encomendada por sus titulares a la entidad de gestión mediante la suscripción de un contrato de gestión sin perjuicio de los derechos contemplados en la presente ley cuya gestión deba ejercerse exclusivamente a través de las entidades de gestión.
+El titular de derechos no podrá conceder, ni directa ni indirectamente, ninguna participación en sus derechos recaudados a usuarios que hayan celebrado contratos de autorización no exclusiva con la entidad o con otras entidades de gestión, cuando dichos usuarios, al usar el repertorio de la entidad de gestión, favorezcan injustificadamente la explotación preferencial de una o más obras del propio titular de derechos.
+4. Las entidades de gestión no podrán imponer obligaciones a los titulares de derechos que no sean objetivamente necesarias para la protección de sus derechos e intereses o para la gestión eficaz de sus derechos.
+5. Las entidades de gestión no discriminarán a los titulares cuyos derechos gestionen en virtud de un acuerdo de representación, en particular, con respecto a las tarifas aplicables, los descuentos de gestión y las condiciones de recaudación de los derechos y del reparto y pago de sus importes.
+6. Las entidades de gestión reconocerán a los titulares de derechos que, sin ser miembros, posean una relación jurídica con ellas en virtud de la ley o por contrato, el derecho a comunicarse electrónicamente con ellas; los derechos de información previstos en los artículos 172.2 y 183.1, letras a) y b); y el derecho a plantear una reclamación o una queja conforme al procedimiento previsto en sus estatutos.
+7. Las entidades de gestión conservarán un registro de sus miembros y lo actualizarán periódicamente.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica por el art. 1.15 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 151
+
+### Artículo 157
+
+Artículo 157. Contrato de gestión.
+1. En el contrato de gestión, el titular de derechos deberá dar consentimiento explícito, por escrito, para cada derecho, categoría de derechos o tipo de obra o prestación cuya gestión encomienda a la entidad y respecto de los territorios de su elección, con independencia de su nacionalidad o lugar de residencia o de establecimiento de la entidad de gestión. Dicho contrato no podrá imponer como obligatoria la gestión de todas las modalidades de uso ni la de la totalidad de la obra o producción futura.
+2. La entidad de gestión informará al titular de los derechos, con anterioridad a la suscripción del contrato de gestión, de todos los derechos que se le reconocen en el presente título; de las condiciones inherentes al derecho reconocido en el artículo 169; y de los descuentos de gestión y otras deducciones que apliquen a los derechos que recaude y a los rendimientos derivados de la eventual inversión de los mismos.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica el apartado 1 por el art. 1.16 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 152
+
+### Artículo 157 bis
+
+Artículo 157 bis. Facultades de supervisión.
+(Suprimido)
+Se suprime por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se añade por el art. 1.17 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+
+### Artículo 158
+
+Artículo 158. Revocación total o parcial del contrato de gestión.
+1. La duración del contrato de gestión no podrá ser superior a tres años renovable por periodos de un año.
+2. El titular tendrá derecho, con un preaviso razonable no superior a seis meses que se concretará en los estatutos de la entidad de gestión, a revocar total o parcialmente su contrato de gestión, con una retirada de los derechos, categorías de derechos o tipos de obras o prestaciones de su elección en los territorios de su elección.
+3. La entidad de gestión podrá determinar que la revocación despliegue efectos a partir del final del ejercicio en que se cumpla el periodo de preaviso y no podrá condicionarla a que los derechos del titular se encomienden a otra entidad de gestión excepto en lo relativo a los derechos contemplados en la presente ley cuya gestión deba realizarse obligatoriamente a través de las entidades de gestión.
+4. En caso de que se adeuden importes al titular por derechos recaudados en el momento de desplegar efectos la revocación, total o parcial, el titular conservará el derecho a recibir información sobre:
+a) Los descuentos de gestión y otras deducciones que la entidad de gestión vaya a aplicar a esos derechos pendientes de pago.
+b) Los derechos relacionados con el reparto y pago de derechos previstos en los artículos 177 y 180.
+c) Los derechos de información previstos en los artículos 181 y 183, letras a) y b).
+d) El derecho a plantear una reclamación o una queja conforme al procedimiento previsto en los estatutos de la entidad de gestión.
+5. En caso de que el titular adeude importes a la entidad de gestión en virtud de anticipos a cuenta de futuros repartos de derechos, previstos en el artículo 177, apartado 9, la entidad de gestión no conservará la gestión de los derechos, categorías de derechos, tipos de obras o prestaciones y territorios objeto de la revocación total o parcial aunque la deuda no haya quedado cancelada. Los efectos de la revocación se producirán de acuerdo a lo contemplado en el apartado 2.
+Las partes acordarán los términos de la amortización total o parcial de los saldos pendientes de los anticipos que estén documentalmente acreditados.
+En caso de no alcanzarse un acuerdo, los frutos de la explotación de los derechos objeto de la revocación total o parcial tendrán la consideración de garantía del pago de los saldos pendientes de anticipos documentalmente acreditados.
+6. Las entidades de gestión que no concedan ni se ofrezcan a conceder autorizaciones multiterritoriales no exclusivas de derechos en línea sobre obras musicales o no permitan que otra entidad de gestión represente esos derechos con tal fin, deberán permitir a sus miembros la revocación parcial de su contrato de gestión en lo que se refiere a tales derechos con el fin de poder conceder tales autorizaciones. Tal revocación no afectará al resto de derechos en línea para fines de concesión de autorizaciones no exclusivas y no multiterritoriales.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Véase la disposición adicional 3 de la citada Ley.
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Véase la disposición adicional 3 del citado Real Decreto-ley.
+ Se modifica por el art. 1.18 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Véase la disposición adicional 11 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638#undecima, en cuanto que las competencias atribuidas al Ministerio de Cultura serán asumidas por la Secretaría de Estado de Cultura.
+ Se modifica por la disposición final 43ª. cuatro de la Ley 2/2011, de 4 de marzo.Ref. BOE-A-2011-4117.
+ Se modifica y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 153
+
+### Artículo 158 bis
+
+Artículo 158 bis. Funciones de mediación, arbitraje, determinación de tarifas y control.
+(Suprimido)
+Se suprime por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se añade por el art. 1.19 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+
+### Artículo 158 ter
+
+Artículo 158 ter. Función de salvaguarda de los derechos en el entorno digital.
+(Suprimido)
+Se suprime por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se añade por el art. 1.20 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+
+## CAPITULO III
+
+CAPÍTULO III
+Organización de las entidades de gestión
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este capítulo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 159
+
+Artículo 159. Estatutos.
+Sin perjuicio de lo que dispongan otras normas que les sean de aplicación, en los estatutos de las entidades de gestión se hará constar:
+a) La denominación, que no podrá ser idéntica a la de otras entidades, ni tan semejante que pueda inducir a confusiones. En caso de no integrar la denominación la referencia «Entidad de Gestión de Derechos de Propiedad Intelectual», se deberá hacer constar esta, o su abreviatura «EGDPI», a continuación de la denominación correspondiente.
+b) El objeto y fines, que será la gestión de los derechos o categorías de derechos de propiedad intelectual especificándose aquellos que vayan a administrar.
+Asimismo, podrán realizar actividades distintas a la gestión de los derechos de propiedad intelectual siempre que las mismas estén vinculadas al ámbito cultural de la entidad y se cumpla el requisito de ausencia de ánimo de lucro establecido en el artículo 147.
+c) Las clases de titulares de derechos comprendidos en la gestión y, en su caso, las distintas categorías de aquellos a efectos de su participación en la administración y control interno de la entidad.
+d) Los criterios para la adquisición y pérdida de la cualidad de miembro de la entidad de gestión que deberán ser objetivos, transparentes y no discriminatorios. En todo caso, los miembros, que podrán ser titulares de derechos o entidades que los representen, incluidas entidades de gestión y asociaciones de titulares de derechos, deberán ser titulares de derechos de los que haya de gestionar la entidad y el número de ellos no podrá ser inferior a diez.
+e) Los derechos de los miembros y, en particular:
+1.º Las condiciones para el ejercicio del derecho del miembro a conceder autorizaciones no exclusivas para el ejercicio no comercial de los derechos encomendados a la entidad de gestión, previsto en el artículo 169.
+2.º El derecho a comunicarse por vía electrónica con la entidad, incluso a efectos de ejercer sus derechos.
+3.º Las condiciones para el ejercicio del derecho de revocación total o parcial del contrato de gestión, previsto en el artículo 158, que deberán mantener un equilibrio entre este derecho del miembro y la capacidad de la entidad de gestión para gestionar eficazmente los derechos que le han sido encomendados.
+f) El derecho de todos los miembros a ser convocados en tiempo y forma a las reuniones de la asamblea general, así como a asistir y participar en las mismas disponiendo en todo caso, al menos de un voto. Así como el régimen de voto de los miembros en la asamblea general, que podrá establecerse teniendo en cuenta criterios de ponderación que limiten razonablemente el voto plural, garantizando, en todo caso, una representación equitativa y proporcionada del conjunto de los miembros. Dichos criterios de ponderación podrán basarse únicamente en la duración de la condición de miembro en la entidad de gestión, en las cantidades recibidas en virtud de dicha condición o en ambos. En materia relativa a sanciones de exclusión de miembro, el régimen de voto será igualitario. No obstante, la determinación del régimen de ponderación en el voto no permitirá que se produzcan concentraciones mayoritarias de votos en poder de un número reducido de miembros que constriñan la democracia interna o alteren, de alguna forma, la libertad de actuación de la asamblea general.
+g) Los deberes de los miembros y su régimen disciplinario.
+h) Las normas que rijan la convocatoria de la asamblea general de la entidad de gestión.
+i) Los órganos de gobierno y representación de la entidad de gestión, el órgano de control interno y las respectivas competencias de todos ellos, así como las normas relativas a la convocatoria, constitución y funcionamiento de los de carácter colegiado, con prohibición expresa de adoptar acuerdos respecto de los asuntos que no figuren en el orden del día.
+j) El procedimiento de elección y cese por la asamblea general de los miembros que formen parte de los órganos de gobierno y representación y del órgano de control interno de la entidad de gestión. Estas disposiciones deberán velar por que la composición de dichos órganos elegidos por la asamblea general y del órgano de control interno de la entidad de gestión se atenga al principio de representación equilibrada de mujeres y hombres en el nombramiento de los titulares de dichos órganos.
+k) El patrimonio inicial y los recursos económicos previstos.
+l) Los principios generales conforme a los que los órganos de gobierno y representación de la entidad de gestión elaborarán el reglamento de reparto de los derechos recaudados que, posteriormente, deberá ser ratificado por la asamblea general. En cualquier caso, como parte de dichos principios generales deberá excluirse la arbitrariedad en el reparto y garantizarse que la participación de los titulares en el reparto sea proporcional a la utilización de sus obras y prestaciones protegidas y, en consecuencia, a la recaudación que contribuyan a generar para la entidad de gestión.
+Las entidades de gestión adoptarán las medidas necesarias, incluyendo la fijación de topes de reparto cuando sea procedente, para evitar que obras o prestaciones reciban cantidades desproporcionadas en relación a los rendimientos comerciales o de audiencia que se producen durante su explotación. En particular, en aquellos supuestos de radiodifusión en los que el valor comercial por el uso de las obras y prestaciones protegidas sea testimonial por ausencia de audiencia significativa, será de aplicación una cantidad a tanto alzado que en ningún caso superará el veinte por ciento del total recaudado de cada usuario por un uso intensivo o cuantitativo máximo de las obras, prorrateándose dicho porcentaje proporcionalmente al uso intensivo que se produzca en cada momento.
+m) El régimen de control de la gestión económica y financiera de la entidad.
+n) El destino del patrimonio o activo neto resultante en los supuestos de liquidación de la entidad que, en ningún caso, podrá ser objeto de reparto entre los miembros.
+ñ) Las disposiciones adecuadas para asegurar una gestión libre de influencias de los usuarios de su repertorio. Estas disposiciones deberán velar por que aquellos titulares de derechos que pertenezcan a empresas usuarias no ocupen más del cincuenta por ciento de los puestos en los órganos de gobierno y no participen en las tomas de decisión en que pudiera existir un conflicto de interés. En todo caso, la entidad de gestión adoptará medidas para evitar una injusta utilización preferencial de las obras y prestaciones protegidas, en particular por aquellos titulares de derechos, pudiendo incluso establecer restricciones al reparto.
+o) El procedimiento de tratamiento y resolución de las reclamaciones y quejas planteadas por los miembros y por entidades de gestión por cuya cuenta se gestionen derechos en virtud de un acuerdo de representación, en relación con el ámbito de actividad de la entidad de gestión y, en particular, las condiciones de adquisición y pérdida de la condición de miembro; cualquier aspecto relativo al contrato de gestión; y la recaudación y reparto de derechos. Las respuestas a las reclamaciones se efectuarán por escrito y, cuando se rechacen, deberán estar suficientemente motivadas.
+Se modifica la letra ñ) por la disposición final 10 del Real Decreto-ley 26/2020, de 7 de julio. Ref. BOE-A-2020-7432#df-10
+ Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica por el art. 1.21 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Se añade, se renumera y se modifica por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 154
+
+### LIBRO IV
+
+Del ámbito de aplicación de la Ley
+
+### TÍTULO V
+
+Protección de las medidas tecnológicas y de la información para la gestión de derechos
+Se añade por el art. único.26 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Artículo 160
+
+Artículo 160. Asamblea general.
+1. La asamblea general de los miembros de la entidad de gestión, que se convocará al menos una vez al año, tendrá como mínimo las siguientes competencias:
+a) Aprobar las modificaciones de los estatutos de la entidad.
+b) Ratificar el reglamento de reparto de los derechos recaudados elaborado por los órganos de gobierno y representación conforme a los principios generales regulados en los estatutos de la entidad de gestión.
+c) Respecto de las personas que conforman los órganos de gobierno y representación de la entidad y del órgano de control interno, aprobar sus nombramientos y ceses, examinar su rendimiento y aprobar sus remuneraciones y otras prestaciones como ganancias monetarias y no monetarias, pensiones y subsidios, derechos a otras primas y el derecho a una indemnización por despido.
+d) Aprobar la política general de utilización de los importes que no puedan ser objeto de reparto en los términos previstos en el artículo 177.6.
+e) Aprobar la política general de inversión de los derechos recaudados y de cualquier otro rendimiento derivado de la inversión de los mismos, que deberá observar en todo caso los principios y recomendaciones establecidos en los códigos de conducta regulados según la disposición adicional quinta del texto refundido de la Ley del Mercado de Valores y su normativa de desarrollo, aprobado por Real Decreto Legislativo 4/2015, de 23 de octubre.
+f) Aprobar la política general de deducciones practicadas sobre los derechos recaudados y sobre cualquier otro rendimiento derivado de la inversión de los mismos.
+g) Aprobar la política de gestión de riesgos.
+h) Aprobar cualquier adquisición, venta o hipoteca de bienes inmuebles.
+i) Aprobar las fusiones y alianzas, la creación de filiales, y la adquisición de otras entidades, participaciones o derechos en otras entidades de conformidad con lo previsto en el ordenamiento jurídico, salvo en los casos que tales operaciones vengan directamente impuestas por dicho ordenamiento jurídico.
+j) Aprobar las propuestas de operaciones de empréstito y de préstamo o de constitución de avales o garantías de préstamos, de conformidad con el artículo 177.8, salvo en los casos especialmente previstos en dicho apartado y en el artículo 177.9.
+k) Adoptar las decisiones en materia de contabilidad y auditoría de la entidad previstas en el artículo 187.
+l) Aprobar el informe anual de transparencia previsto en el artículo 189.
+m) Controlar las actividades de la entidad y la gestión de la misma por sus órganos de gobierno y representación.
+2. La asamblea general no podrá delegar el ejercicio de sus competencias en otro órgano de la entidad excepto en el caso de las contempladas en las letras g) a j) del apartado anterior cuyo ejercicio podrá ser delegado, en su caso, en el órgano de control interno de la entidad. Dicha delegación se realizará mediante la aprobación de una resolución de la asamblea general o mediante la inclusión de una disposición en los estatutos.
+3. Los miembros de las entidades de gestión podrán delegar su derecho a participar y votar en la asamblea general en cualquier otro miembro de la entidad siempre que dicho nombramiento no dé lugar a un conflicto de intereses. En todo caso, se considerará que se produce un conflicto de intereses cuando la persona representada y el representante pertenezcan a categorías diferentes de titulares de derechos dentro de la entidad de gestión.
+El poder de representación necesario para tal delegación solamente será válido para una única asamblea general. El representante disfrutará de los mismos derechos en la asamblea general y emitirá sus votos con arreglo a las instrucciones del miembro de la entidad al que representa.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica por el art. único.27 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Se añade y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración es el art. 155
+
+### Artículo 161
+
+Artículo 161. Administración.
+1. Los órganos de gobierno y representación de las entidades de gestión se regirán conforme a lo previsto en esta ley, en la normativa reguladora de la forma jurídica de la entidad y en sus estatutos.
+2. Las entidades de gestión determinarán y aplicarán procedimientos para evitar conflictos de intereses y, cuando dichos conflictos no puedan evitarse, procedimientos destinados a detectar, gestionar, controlar y declarar conflictos de intereses reales o potenciales.
+3. Antes de asumir sus cargos y, posteriormente, con carácter anual, las personas integrantes de los órganos de gobierno y representación efectuarán una declaración sobre conflictos de intereses a la asamblea general, para su examen y consideración, con la siguiente información:
+a) Cualesquiera intereses en la entidad de gestión.
+b) Toda remuneración percibida durante el ejercicio anterior de la entidad de gestión, incluso en forma de planes de pensiones, retribuciones en especie y otros tipos de prestaciones.
+c) Toda cantidad percibida durante el ejercicio anterior de la entidad de gestión como titular de derechos.
+d) Cualquier conflicto real o potencial entre los intereses personales y los de la entidad de gestión o entre las obligaciones respecto de la entidad de gestión y cualquier obligación respecto de cualquier otra persona física o jurídica.
+Cuando el miembro del órgano de gobierno y representación sea una persona física actuando en representación de una persona jurídica, la declaración sobre los conflictos de intereses incluirá los suyos propios y los de la persona jurídica representada.
+Tras la celebración de la asamblea, la entidad de gestión remitirá copia de dichas declaraciones individuales anuales a la Administración competente para el ejercicio de las facultades de supervisión sobre la entidad, conforme a lo establecido en el artículo 186.b).
+La entidad de gestión y sus miembros deberán respetar el carácter confidencial de la información a la que accedan mediante estas declaraciones cuyo tratamiento, en todo caso, estará sujeto al cumplimiento de la normativa de defensa de la competencia y de protección de datos.
+4. Cuando los órganos de representación de entidades de gestión con recaudaciones superiores a cien millones de euros sean elegidos por los socios por secciones o colegios, estas agrupaciones deberán incorporar representantes de cada una de las líneas de recaudación de la entidad de la que sean beneficiarios.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica el apartado 1.c) por el art. 1.22 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Se modifica por el art. único.28 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Se añade y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 156.
+
+### Artículo 162
+
+Artículo 162. Órgano de control interno.
+1. Un órgano de la entidad de gestión asumirá, conforme a lo previsto en sus estatutos, la función de control interno de la gestión encomendada a los órganos de gobierno y representación de la entidad. Dicho órgano no podrá ejercer por sí mismo el poder de gestión o representación de la entidad sin perjuicio de lo previsto en este artículo y en el artículo 160.2.
+2. Los estatutos de la entidad de gestión determinarán la composición del órgano de control interno y la forma de elección de sus integrantes por la asamblea general respetando, en todo caso, los siguientes criterios:
+a) El órgano deberá estar compuesto por tres o más miembros de la entidad de gestión garantizando que las diferentes categorías de miembros están representadas de forma equitativa y equilibrada. Ninguno de sus integrantes podrá tener relación de hecho o de derecho, directa o indirecta, con las personas físicas o jurídicas que formen parte o estén representadas en los órganos de gobierno y representación de la entidad de gestión.
+b) Podrán nombrarse como integrantes de este órgano a terceros independientes, no miembros de la entidad de gestión, que deberán disponer de los conocimientos técnicos pertinentes para el desarrollo de sus funciones. Ninguno de estos terceros no miembros de la entidad de gestión podrá tener relación de hecho o de derecho, directa o indirecta, ni con la entidad de gestión ni con ninguno de sus miembros. En el caso de entidades de gestión que recauden anualmente una cifra igual o superior a cien millones de euros en el ejercicio anual anterior, será obligatorio nombrar como miembros del órgano de control interno a un número de terceros independientes igual al número de miembros de la entidad de gestión que integren dicho órgano.
+A los efectos de las letras a) y b) anteriores, se entenderá como relación de hecho o de derecho, directa o indirecta, en todo caso, una relación personal de parentesco por consanguinidad o afinidad hasta el segundo grado inclusive, o una relación laboral o mercantil que se mantenga o se haya mantenido en los últimos cinco años anteriores a la designación.
+3. Los miembros del órgano de control interno serán nombrados por la asamblea general por un periodo de cuatro años renovable una vez por idéntico periodo.
+4. Antes de asumir sus cargos y, posteriormente, con carácter anual, las personas integrantes del órgano de control interno efectuarán una declaración a la asamblea general sobre conflictos de intereses, para su examen y consideración, en los mismos términos previstos en el apartado 3 del artículo anterior.
+La entidad de gestión remitirá copia de dichas declaraciones a la Administración competente para el ejercicio de las facultades de supervisión sobre la entidad, conforme a lo establecido en el artículo 186.b).
+5. El órgano de control interno tendrá, al menos, las siguientes competencias:
+a) Supervisar, con carácter general, las actividades y el desempeño de sus funciones por parte de los órganos de gobierno y representación de la entidad.
+b) Supervisar la ejecución de las decisiones y de las políticas de carácter general aprobadas por la asamblea general y, en particular, las adoptadas en virtud de las letras d) a f) del artículo 160.1.
+c) Ejercer las funciones que, en su caso, le delegue la asamblea general conforme al artículo 160.2.
+d) Ejecutar los mandatos que, en su caso, acuerde encomendarle la asamblea general.
+6. El órgano de control interno podrá convocar a los miembros de los órganos de gobierno y representación de la entidad de gestión y al personal directivo y técnico de la entidad para que asistan a sus reuniones con voz pero sin voto.
+7. Los órganos de gobierno y representación de la entidad de gestión deberán remitir, como mínimo con carácter trimestral, al órgano de control interno toda la información sobre la gestión de la entidad que sea necesaria para el ejercicio de sus competencias de control. Asimismo, remitirán cualquier otra información sobre hechos que puedan tener incidencia significativa en la situación de la entidad de gestión. Cada miembro del órgano de control tendrá acceso a toda la información comunicada a dicho órgano.
+8. Sin perjuicio de la obligación regulada en el apartado anterior, el órgano de control interno podrá requerir a los órganos de gobierno y representación de la entidad de gestión y al personal directivo y técnico de la entidad cualquier información que sea necesaria para el ejercicio de sus competencias. Asimismo, podrá realizar o requerir que se realicen las comprobaciones necesarias para el ejercicio de sus competencias.
+9. El órgano de control interno dará cuenta anualmente a la asamblea general del ejercicio de sus competencias en un informe que presentará ante la misma.
+La entidad de gestión remitirá copia de dicho informe a la Administración competente para el ejercicio de las facultades de supervisión sobre la entidad, conforme a lo establecido en el artículo 186.i).
+10. El órgano de control interno podrá convocar a la asamblea general de forma extraordinaria conforme a lo previsto estatutariamente cuando lo estime conveniente para el interés de la entidad de gestión.
+11. En el caso de las entidades de gestión que recauden anualmente una cifra igual o superior a 100 millones de euros en el ejercicio anual anterior, el órgano de control interno, además de ejercer las competencias previstas en el apartado 5, deberá supervisar las siguientes actuaciones de los órganos de gobierno y representación de la entidad:
+a) La aplicación de los reglamentos de reparto de los derechos recaudados.
+b) La tramitación y resolución de los procedimientos disciplinarios contra miembros de la entidad.
+c) La tramitación y resolución de las reclamaciones y quejas.
+d) La ejecución del presupuesto anual de recaudación y reparto de derechos gestionados y de ingresos y gastos de la entidad.
+12. En el caso de las entidades de gestión que recauden anualmente una cifra igual o superior a 100 millones de euros en el ejercicio anual anterior, al órgano de control interno le resultarán de aplicación las siguientes reglas de funcionamiento:
+a) Se reunirá, como mínimo, semestralmente.
+b) De cada sesión que celebre se levantará acta que especificará necesariamente los siguientes aspectos:
+1.º Los asistentes.
+2.º El orden del día de la reunión.
+3.º Las circunstancias del lugar y tiempo en que se ha celebrado.
+4.º Los puntos principales de las deliberaciones, así como el contenido de los acuerdos adoptados y los votos particulares.
+El acta de cada sesión podrá aprobarse en la misma reunión o en la inmediata siguiente y una copia de la misma se deberá poner a disposición de todos los miembros de la entidad de gestión electrónicamente en el plazo de un mes desde su aprobación.
+c) Para el desarrollo de sus funciones, y sin perjuicio de lo previsto en los apartados 7 y 8, el órgano de control interno contará con la asistencia de un auditor. Este auditor, que será distinto del que audite las cuentas anuales de la entidad, se nombrará por la asamblea general, no obstante, conforme al procedimiento previsto en el artículo 187.2.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica por el art. único.29 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Se añade y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 157.
+
+## CAPITULO IV
+
+CAPÍTULO IV
+Autorizaciones no exclusivas para el uso del repertorio de las entidades de gestión y tarifas generales
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este capítulo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+## Sección 1
+
+Sección 1.ª Régimen jurídico general
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que esta Sección ya fue añadida por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+## TÍTULO VI
+
+Régimen sancionador de las entidades de gestión
+Se añade por el art. 1.23 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404
+
+### Artículo 162 bis
+
+Artículo 162 bis. Responsabilidad administrativa, órganos competentes sancionadores y procedimiento sancionador.
+1. Las entidades de gestión incurrirán en responsabilidad administrativa por las infracciones que cometan en el ejercicio de sus funciones con arreglo a lo dispuesto en la presente ley.
+2. El ejercicio de la potestad sancionadora corresponde a la Administración competente de conformidad con el artículo 159. La inhabilitación legal para operar corresponde, en todo caso, al Ministerio de Educación, Cultura y Deporte.
+3. El ejercicio de la potestad sancionadora se regirá por el procedimiento establecido en el Título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en su normativa de desarrollo.
+Se añade por el art. 1.23 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404
+
+### Artículo 162 ter
+
+Artículo 162 ter. Clasificación de las infracciones.
+1. Las infracciones cometidas por las entidades de gestión colectiva de derechos de propiedad intelectual se clasificarán en muy graves, graves y leves.
+2. Constituyen infracciones muy graves los siguientes actos:
+a) La ineficacia manifiesta y notoria en la administración de los derechos que la entidad de gestión tenga encomendados, circunstancia que habrá de apreciarse respecto del conjunto de los usuarios y de los titulares de dichos derechos y no de forma aislada o individual.
+b) El incumplimiento grave y reiterado del objeto y fines señalados en los estatutos de la entidad de gestión, cuando se realicen, de manera directa o indirecta, actividades que no sean de protección o gestión de los derechos de propiedad intelectual que tengan encomendados, sin perjuicio de la función social y del desarrollo de la oferta digital legal que deben cumplir y de las actividades vinculadas al ámbito cultural de la entidad y sin ánimo de lucro referidas en dicho artículo, siempre que estén previstas en sus estatutos.
+c) El incumplimiento grave y reiterado de la obligación establecida en el artículo 152 de administrar los derechos de propiedad intelectual que tenga conferidos la entidad de gestión.
+d) La puesta de manifiesto de algún hecho que suponga el incumplimiento muy grave de las obligaciones del Título IV.
+3. Constituyen infracciones graves los siguientes actos:
+a) El incumplimiento de las condiciones establecidas en el artículo 153 respecto del contrato de gestión.
+b) La aplicación de sistemas, normas y procedimientos de reparto de las cantidades recaudadas de manera arbitraria y no equitativa.
+c) El incumplimiento de las obligaciones establecidas en los artículos 154 a 156, 157.1 a excepción de las letras b) y k), y 157.4.
+d) La resistencia, excusa o negativa, por las entidades de gestión colectiva de derechos de propiedad intelectual, a la actuación inspectora de las Administraciones competentes según lo previsto en esta Ley.
+e) La inobservancia significativa del procedimiento previsto estatutariamente en relación con las quejas planteadas por los socios de conformidad con lo previsto en el artículo 151.14.
+4. Constituyen infracciones leves los siguientes actos:
+a) La falta de atención a los requerimientos de las Administraciones Públicas realizados al amparo de lo dispuesto en el artículo 157 bis. Se entiende que se produce falta de atención del requerimiento cuando la entidad de gestión no responda en el plazo de un mes desde que aquél le fue notificado, salvo que medie causa justificada. Las Administraciones Públicas podrán reducir el plazo de un mes por razones debidamente motivadas.
+b) El incumplimiento de las obligaciones establecidas en el artículo 157.1.k).
+c) Cualesquiera otros incumplimientos que afecten a obligaciones meramente formales o documentales, salvo que deban ser considerados como infracción grave o muy grave conforme a lo dispuesto en los apartados anteriores.
+Téngase en cuenta que este artículo, añadido por el art. 1.23 de la Ley 21/2014, de 4 de noviembre, Ref. BOE-A-2014-11404 entra en vigor el 5 de mayo de 2015, según establece la disposición final 5.c) de la citada Ley.
+Se añade por el art. 1.23 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404
+
+### Artículo 162 quater
+
+Artículo 162 quater. Sanciones.
+1. Por la comisión de infracciones muy graves, se impondrá a la entidad infractora alguna de las siguientes sanciones:
+a) Inhabilitación para operar como entidad de gestión de los derechos de propiedad intelectual.
+b) Multa de entre un 1 y un 2 por ciento de la recaudación total obtenida por la entidad de gestión en el año anterior a la fecha de imposición de la multa. En defecto de recaudación en el año anterior a la fecha de imposición de la multa, se impondrá una multa no superior a 800.000 ni inferior a 400.001 euros.
+2. Las resoluciones sancionadoras por infracciones muy graves deberán ser publicadas en el "Boletín Oficial del Estado" y, en su caso, en el de la Comunidad Autónoma correspondiente, una vez que sean firmes en vía administrativa, y previa disociación de los datos personales que contenga.
+3. Por la comisión de infracciones graves se impondrá al infractor una multa no superior al 1 por ciento de su recaudación total correspondiente al año anterior a la fecha de imposición de la multa. En defecto de recaudación en el año anterior a la fecha de imposición de la multa, se impondrá una multa no superior a 400.000 ni inferior a 200.001 euros.
+4. Las resoluciones sancionadoras por infracciones graves podrán ser publicadas en el "Boletín Oficial del Estado" y, en su caso, en el de la Comunidad Autónoma correspondiente, una vez que sean firmes en vía administrativa, y previa disociación de los datos personales que contengan.
+5. Por la comisión de infracciones leves se impondrá a la entidad infractora multa por importe no superior a 200.000 euros ni a un 0,5 por ciento de su recaudación total correspondiente al año anterior a la fecha de imposición de la multa.
+6. Para la graduación de las sanciones se atenderá a los criterios establecidos en el artículo 131 de la Ley 30/1992, de 26 de noviembre.
+7. Cuando las sanciones pecuniarias hayan sido impuestas por el Ministerio de Educación, Cultura y Deporte, los órganos y procedimientos para la recaudación serán los establecidos en el Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio, y demás normas de aplicación. En los demás casos, serán los establecidos en la legislación aplicable por las Administraciones Públicas que las hayan impuesto.
+8. Una vez iniciado el procedimiento sancionador por la comisión de una infracción muy grave y siempre que concurran razones de urgencia justificadas en dificultad o impedimento objetivo de reinstaurar el cumplimiento de la legalidad, la autoridad competente podrá acordar motivadamente, previa autorización del juez correspondiente al domicilio social de la entidad, la remoción de los órganos de representación de la entidad y su intervención temporal, mediante la designación de un gestor interino que asumirá las funciones legales y estatutarias de los órganos de representación de la entidad, en las siguientes condiciones:
+a) La intervención se realizará por un plazo de seis meses, prorrogable por igual período.
+b) Los gastos derivados de la intervención temporal correrán a cargo de la entidad intervenida.
+c) La finalidad de la intervención será regularizar el funcionamiento institucional de la entidad, clarificar su gestión y adoptar e implantar cuantas medidas resulten necesarias para el cumplimiento de las obligaciones legales en esta materia.
+El Gobierno podrá desarrollar reglamentariamente el procedimiento de intervención temporal de las entidades de gestión de derechos de propiedad intelectual.
+Téngase en cuenta que este artículo, añadido por el art. 1.23 de la Ley 21/2014, de 4 de noviembre, Ref. BOE-A-2014-11404 entra en vigor el 5 de mayo de 2015, según establece la disposición final 5.c) de la citada Ley.
+Se añade por el art. 1.23 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404
+
+### LIBRO IV
+
+LIBRO CUARTO
+Del ámbito de aplicación de la Ley
+
+### Artículo 163
+
+Artículo 163. Concesión de autorizaciones no exclusivas.
+1. Las entidades de gestión están obligadas a negociar y contratar bajo remuneración con los usuarios que lo soliciten, salvo motivo justificado, la concesión de autorizaciones no exclusivas de los derechos gestionados, actuando ambas partes bajo los principios de buena fe y transparencia, para lo cual intercambiarán toda la información que sea necesaria.
+Se considerará usuario, a los efectos de este título, a toda persona o entidad que lleve a cabo actos sujetos a la autorización de los titulares de derechos o a la obligación de remuneración o de pago de una compensación a los titulares de derechos.
+2. La concesión de las autorizaciones no exclusivas se basará en condiciones equitativas y no discriminatorias. Para tal fin, las entidades de gestión deberán informar a los usuarios sobre las condiciones comerciales otorgadas a otros usuarios que lleven a cabo actividades económicas similares. No obstante, para la concesión de autorizaciones a servicios en línea, las entidades de gestión no estarán obligadas a basarse en las condiciones ofrecidas previamente a otro usuario que preste un servicio en línea que lleve a disposición del público en la Unión Europea menos de tres años.
+3. Las entidades de gestión responderán sin retrasos injustificados a las solicitudes de los usuarios indicando, entre otros extremos, la información necesaria para ofrecer una autorización no exclusiva.
+Una vez recibida toda la información pertinente, la entidad de gestión, sin retrasos injustificados, ofrecerá una autorización no exclusiva o emitirá una denegación motivada para cada servicio concreto que no se autorice.
+4. Mientras las partes no lleguen a un acuerdo, la autorización correspondiente se entenderá concedida si el solicitante hace efectiva bajo reserva o consigna judicialmente la cantidad exigida por la entidad de gestión de acuerdo con sus tarifas generales.
+5. Las entidades de gestión permitirán a los usuarios comunicarse con ellas por medios electrónicos para informar sobre la utilización de la autorización no exclusiva.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica y se renumera por el art. único.30.a) de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Su anterior numeración era el art. 160.
+ Se añade y se renumera por el art. 6.4 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+ Su anterior numeración era el art. 158.
+
+### Artículo 164
+
+Artículo 164. Tarifas generales.
+1. Las entidades de gestión están obligadas a establecer tarifas generales, simples y claras que determinen la remuneración exigida por la utilización de su repertorio. Dichas tarifas generales se acompañarán de una memoria económica, cuyo contenido se determinará reglamentariamente, que proporcionará una explicación pormenorizada por modalidad tarifaria para cada categoría de usuario.
+2. Las tarifas generales deberán prever reducciones para las entidades culturales que carezcan de finalidad lucrativa.
+3. El importe de las tarifas generales se establecerá en condiciones razonables, atendiendo al valor económico de la utilización de los derechos sobre la obra o prestación protegida en la actividad del usuario, y buscando el justo equilibrio entre ambas partes, para lo cual se tendrán en cuenta al menos los siguientes criterios:
+a) El grado de uso efectivo del repertorio en el conjunto de la actividad del usuario.
+b) La intensidad y relevancia del uso del repertorio en el conjunto de la actividad del usuario.
+c) La amplitud del repertorio de la entidad de gestión. A estos efectos, se entenderá por repertorio las obras y prestaciones cuyos derechos gestiona una entidad de gestión.
+d) Los ingresos económicos obtenidos por el usuario por la explotación comercial del repertorio.
+e) El valor económico del servicio prestado por la entidad de gestión para hacer efectiva la aplicación de tarifas.
+f) Las tarifas establecidas por la entidad de gestión con otros usuarios para la misma modalidad de uso.
+g) Las tarifas establecidas por entidades de gestión homólogas en otros Estados miembros de la Unión Europea para la misma modalidad de uso, siempre que existan bases homogéneas de comparación.
+4. La metodología para la determinación de las tarifas generales se aprobará mediante orden del Ministerio de Cultura y Deporte, previo informe de la Comisión Nacional de los Mercados y la Competencia y previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos.
+5. Si un usuario de derechos de propiedad intelectual, que por dicho uso deba pagar la tarifa general determinada para derechos exclusivos y/o de remuneración por la entidad de gestión correspondiente, la cuestionara de cualquier forma o en cualquier vía, incluida la mera negativa a pagarla, deberá, al menos y en todo caso, pagar a cuenta el 100 por 100 de la última tarifa acordada, o, a falta de un acuerdo anterior, el 50 por 100 de la tarifa general vigente. Hasta que se resuelva el conflicto, se entenderá, provisionalmente, que la obligación de pago ha sido cumplida y, en lo que se refiera al derecho exclusivo que pudiera concurrir con el derecho de remuneración, concedida la autorización para el uso de ese derecho exclusivo.
+6. Si la tarifa en cuestión a la que se refiere el apartado anterior fuese nula de pleno derecho, o surgiese cualquier circunstancia que la hiciese inaplicable a los efectos del pago a cuenta, se procederá por parte del usuario de derechos de propiedad intelectual al pago a cuenta del 100 por 100 de la última tarifa acordada, o, a falta de un acuerdo anterior, el 50 por 100 de la última tarifa general vigente.
+7. Si la tarifa general fuera cuestionada por una asociación de usuarios, el pago a cuenta deberá efectuarse por cada uno de los miembros que la conformen.
+8. El pago a cuenta señalado en los dos apartados anteriores constituirá un requisito previo necesario para que el usuario o la asociación de usuarios pueda instar el procedimiento de determinación de las tarifas previsto en el artículo 194.3 de la presente ley.
+Las asociaciones de usuarios de menos de mil miembros podrán instar el procedimiento cuando, al menos, estén al corriente del pago a cuenta con la entidad en relación con la que se proponen instar el procedimiento de determinación de tarifas miembros que representen, como mínimo, el 85 por 100 de los ingresos del conjunto de los miembros de la asociación.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica y se renumera por el art. único.30.b) de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Su anterior numeración era el art. 161.
+ Se añade por el art. 6.5 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Artículo 165
+
+Artículo 165. Acuerdos sectoriales.
+Las entidades de gestión están obligadas a negociar y celebrar contratos generales con asociaciones de usuarios de su repertorio, siempre que aquellas lo soliciten y sean representativas del sector correspondiente.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se añade y se renumera por el art. único.30.c) de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Su anterior numeración era el art. 162
+
+### Artículo 166
+
+Artículo 166. Excepciones.
+Lo dispuesto en los artículos anteriores sobre concesión de autorizaciones no exclusivas, tarifas generales y acuerdos sectoriales no resultará de aplicación a la gestión de derechos relativos a las obras literarias, dramáticas, dramático-musicales, coreográficas o de pantomima, ni respecto de la utilización singular de una o varias obras de cualquier clase que requiera la autorización individualizada de su titular.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se añade y se renumera por el art. único.30.d) de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Su anterior numeración era el art. 163
+
+### Artículo 167
+
+Artículo 167. Obligaciones de los usuarios.
+1. Salvo acuerdo contrario entre las partes, los usuarios deberán proporcionar a la entidad de gestión, dentro de los noventa días siguientes a la utilización del derecho y en un formato acordado o establecido previamente, la información pormenorizada y pertinente que esté a su disposición sobre la utilización de los derechos representados por la entidad de gestión y que resulte necesaria para la recaudación de los derechos y el reparto y pago de sus importes debidos a los titulares de derechos.
+2. El plazo que, en defecto del previsto en el apartado anterior, acuerden las partes deberá permitir a la entidad de gestión, en todo caso, cumplir con el plazo establecido en el artículo 177.1.
+3. El plazo y formato de la información acordados podrán determinarse para todo un sector de usuarios mediante acuerdo entre la entidad de gestión y las asociaciones de usuarios representativas a nivel nacional del sector correspondiente.
+4. Para la determinación del formato para comunicar la información, las entidades de gestión colectiva y los usuarios o las asociaciones representantes de los mismos tendrán en cuenta, en la medida de lo posible, las normas sectoriales voluntarias.
+5. Cuando el usuario no disponga de la información necesaria para cumplir con la obligación prevista en el apartado 1, podrá solicitarla a la entidad de gestión de conformidad con lo previsto en el artículo 183.1. En este caso, el plazo para que el usuario remita la información a la entidad de gestión se suspenderá hasta que la entidad de gestión dé adecuada respuesta al usuario.
+6. El contrato que regule la concesión de la autorización no exclusiva deberá incluir una cláusula de penalización que aplicará en el caso de que el usuario no cumpla con la obligación de remisión de información en plazo y forma.
+Se modifica por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se añade y se renumera por el art. único.30.e) de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+ Su anterior numeración era el art. 164
+
+### Artículo 168
+
+Artículo 168. Ventanilla única de facturación y pago.
+Las entidades de gestión autorizadas por el Ministerio de Cultura y Deporte están obligadas a participar en la gestión, financiación y mantenimiento de la ventanilla única de facturación y pago, accesible a través de internet, en los plazos y condiciones determinados en la normativa en vigor, y en la cual los usuarios del repertorio gestionado por ellos puedan conocer de forma actualizada el coste individual y total a satisfacer al conjunto de dichas entidades y operadores, como resultado de la aplicación de las tarifas a su actividad, y realizar el pago correspondiente.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 169
+
+Artículo 169. Concesión de autorizaciones para ejercicio no comercial de derechos.
+La gestión de derechos encomendada a una entidad de gestión no impedirá a su titular conceder autorizaciones no exclusivas para el ejercicio no comercial de los mismos en los términos previstos en los estatutos de la entidad.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+## Sección 2
+
+Sección 2.ª Régimen jurídico de las autorizaciones multiterritoriales no exclusivas de derechos en línea sobre obras musicales
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que esta sección ya fue añadida por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 170
+
+Artículo 170. Disposiciones generales.
+1. Constituye una autorización multiterritorial no exclusiva de derechos en línea sobre obras musicales aquella que sea necesaria para atribuir al prestador de un servicio de música en línea la facultad de explotar un derecho de reproducción y de comunicación pública, incluyendo la puesta a disposición, de una obra musical en el territorio de varios Estados miembros de la Unión Europea.
+2. Las disposiciones contenidas en esta sección y en la sección 2.ª del capítulo V de este título no se aplicarán a las entidades de gestión cuando, basándose en la agregación voluntaria de los derechos requeridos, concedan una autorización multiterritorial no exclusiva para:
+a) Los derechos en línea sobre obras musicales exigidos por un organismo de radiodifusión para comunicar al público o poner a su disposición sus programas de radio o televisión en el momento de su primera emisión o ulteriormente.
+b) Cualquier material en línea, incluidas las previsualizaciones, producido por o para el organismo de radiodifusión que complemente la difusión inicial de su programa de radio o televisión.
+La aplicación de estas excepciones deberá limitarse a lo necesario para permitir el acceso a programas de radio o televisión en línea y al material que tenga una relación clara y subordinada con la emisión original y haya sido producido con el fin de completar, previsualizar o volver a ver el programa de radio o televisión de que se trate.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 171
+
+Artículo 171. Capacidad para tramitar autorizaciones multiterritoriales no exclusivas de derechos en línea sobre obras musicales.
+1. Las entidades de gestión que concedan autorizaciones multiterritoriales no exclusivas de derechos en línea sobre obras musicales dispondrán de capacidad suficiente para procesar por vía electrónica, de manera eficiente y transparente, los datos necesarios para la administración de tales autorizaciones, en particular a los efectos de identificar el repertorio y controlar su utilización, proceder a la facturación a los usuarios, recaudar los derechos y repartir y pagar sus importes correspondientes a los titulares de los derechos.
+2. A efectos del apartado 1, las entidades de gestión deberán cumplir, como mínimo, las condiciones siguientes:
+a) Poder determinar con precisión las obras musicales, en su totalidad o en parte, que están autorizadas a representar.
+b) Poder determinar con precisión, en su totalidad o en parte, en cada territorio de que se trate, los derechos y sus correspondientes titulares, respecto de cada obra musical o parte de esta que están autorizadas a representar.
+c) Utilizar identificadores únicos para identificar a los titulares de derechos y las obras musicales, teniendo en cuenta, en la medida de lo posible, las normas y las prácticas sectoriales voluntarias desarrolladas a nivel internacional o de la Unión Europea.
+d) Utilizar medios adecuados para detectar y resolver, de forma rápida y eficaz, incoherencias en los datos en poder de otras entidades de gestión que concedan autorizaciones multiterritoriales no exclusivas de derechos en línea sobre obras musicales.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 172
+
+Artículo 172. Acuerdos de representación con otra entidad de gestión.
+1. Cualquier acuerdo de representación en virtud del cual una entidad de gestión encomiende a otra la concesión de autorizaciones multiterritoriales no exclusivas de derechos en línea sobre obras musicales será de naturaleza no exclusiva. La entidad de gestión mandataria gestionará los derechos encomendados en condiciones no discriminatorias.
+2. La entidad mandante informará a sus miembros de las principales condiciones del acuerdo, incluida su duración, y de los costes de los servicios prestados por la entidad de gestión mandataria.
+3. La entidad de gestión mandataria informará a la entidad mandante de las principales condiciones con arreglo a las cuales se concederán autorizaciones, incluida la naturaleza de la explotación, todas las disposiciones que se refieran o afecten a los pagos por autorización, la duración de la misma, los ejercicios contables y los territorios que abarquen.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 173
+
+Artículo 173. Obligación de representación.
+1. Las entidades de gestión que concedan u ofrezcan la concesión de autorizaciones multiterritoriales no exclusivas de derechos en línea sobre obras musicales del repertorio de otra u otras entidades de gestión estarán obligadas a suscribir los acuerdos de representación sobre estos derechos que, en su caso, puedan plantearle otras entidades de gestión que no concedan ni ofrezcan la concesión de tales autorizaciones sobre las obras musicales de su propio repertorio.
+2. La entidad mandataria responderá a la entidad mandante por escrito y sin retrasos injustificados.
+3. La entidad mandataria gestionará el repertorio representado de la entidad mandante con arreglo a las mismas condiciones que aplique a la gestión de su propio repertorio e incluyéndolo en todas las ofertas que dirija a los proveedores de servicios en línea.
+4. Los descuentos de gestión por el servicio prestado por la entidad mandataria a la entidad mandante no excederán de los costes en que haya incurrido razonablemente la entidad mandataria.
+5. La entidad mandante pondrá a disposición de la entidad mandataria la información sobre su propio repertorio que sea necesaria para la concesión de la autorización. Cuando esta información sea insuficiente o se facilite de una forma que no permita a la entidad mandataria cumplir los requisitos del presente título, esta tendrá derecho a facturar los gastos en que haya incurrido razonablemente para satisfacer tales requisitos o a excluir las obras respecto de las cuales la información sea insuficiente o inutilizable.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 174
+
+Artículo 174. Tarifas.
+1. Los artículos 163.4, 164 y 165 no resultarán de aplicación a la concesión de autorizaciones multiterritoriales no exclusivas de derechos en línea.
+2. Las entidades de gestión que concedan autorizaciones multiterritoriales no exclusivas de derechos en línea están obligadas a negociar y acordar con los proveedores de servicios de música en línea tarifas que determinen la remuneración exigida por la utilización de su repertorio. Estas tarifas, negociadas bajo los principios de buena fe y transparencia, serán razonables y equitativas en relación con, entre otros factores, el valor económico de la utilización de los derechos negociados, teniendo en cuenta la naturaleza y el ámbito de uso de las obras y el valor económico del servicio prestado por la entidad de gestión. La entidad de gestión informará al usuario de los criterios utilizados para la fijación de estas tarifas.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+## CAPITULO V
+
+CAPÍTULO V
+Gestión de los derechos recaudados por las entidades de gestión
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este capítulo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+## Sección 1
+
+Sección 1.ª Régimen jurídico general
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que esta sección ya fue añadida por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 175
+
+Artículo 175. Recaudación y utilización de los derechos recaudados.
+1. Las entidades de gestión actuarán con diligencia en la recaudación y la gestión de los derechos recaudados.
+Se entenderán por derechos recaudados los importes recaudados por una entidad de gestión por cuenta de los titulares de derechos y derivados de un derecho exclusivo, de un derecho de remuneración o de un derecho de compensación.
+2. Las entidades de gestión que administren derechos de autor sobre obras de diferentes categorías deberán garantizar la trazabilidad del proceso de recaudación y reparto de los derechos, de tal forma que sea posible identificar todas sus etapas, desde el origen de la recaudación hasta el reparto a los titulares de derechos sobre las obras cuya utilización genere los derechos.
+3. Las entidades de gestión, siempre que el usuario haya cumplido con la obligación de información prevista en el artículo 167.1, mantendrán separados en sus cuentas:
+a) Los derechos recaudados y cualquier rendimiento derivado de la inversión de los mismos. A tal efecto, las entidades de gestión que administren derechos de autor sobre obras de diferentes categorías deberán mantener la debida separación entre los derechos recaudados por razón del origen o procedencia de la recaudación.
+b) Todos los activos propios que puedan tener y las rentas derivadas de esos activos, de sus descuentos de gestión, de otras deducciones o de otras actividades.
+4. Las entidades de gestión no estarán autorizadas a utilizar los derechos recaudados ni cualquier rendimiento derivado de la inversión de los mismos para fines distintos del reparto a los titulares de los derechos, salvo para deducir o compensar sus descuentos de gestión y el importe destinado a financiar las actividades y servicios previstos en el artículo 178 de conformidad con las decisiones adoptadas en su asamblea general.
+5. Cuando una entidad de gestión invierta derechos recaudados o cualquier rendimiento derivado de esa inversión, deberá hacerlo en el mejor interés de los titulares cuyos derechos representa de conformidad con las políticas generales de inversión y de gestión de riesgos aprobadas por la asamblea general, y teniendo en cuenta las siguientes normas:
+a) Cuando exista un posible riesgo de conflicto de intereses, la entidad de gestión velará por que la inversión se realice buscando únicamente el interés de los de dichos titulares de derechos.
+b) Los activos se invertirán atendiendo a las exigencias de seguridad, calidad, liquidez y rentabilidad del conjunto de la cartera.
+c) Los activos estarán debidamente diversificados, a fin de evitar una dependencia excesiva de un activo concreto y la acumulación de riesgos en el conjunto de la cartera.
+6. Los órganos de gobierno y representación de las entidades de gestión deberán comportarse con transparencia informativa respecto del seguimiento de la política general de inversión aprobada por la asamblea general y, a tal efecto, presentarán a la asamblea general, para su examen y consideración, un informe anual acerca del grado de su cumplimiento, con especial mención a las operaciones en que se hayan separado de ella, explicando las razones que les sirvan de fundamento. Dicho informe anual se pondrá a disposición de los miembros de la entidad electrónicamente.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 176
+
+Artículo 176. Descuentos.
+1. Los descuentos de gestión y otras deducciones sobre los derechos recaudados serán razonables en relación con los servicios prestados por la entidad de gestión a los titulares de derechos y se establecerán de acuerdo con criterios objetivos.
+2. Los descuentos de gestión no superarán los costes justificados y documentados en los que haya incurrido la entidad de gestión en la gestión de los derechos de explotación y otros de carácter patrimonial. A estos efectos la entidad de gestión deberá llevar una contabilidad analítica que cumpla los siguientes fines:
+a) Conocer el coste real de los servicios prestados.
+b) Comprobar la adecuada gestión del servicio prestado.
+3. Las entidades de gestión no aplicarán deducciones, aparte de los descuentos de gestión y el destinado a financiar las actividades y servicios previstos en el artículo 178 de conformidad con las decisiones adoptadas en su asamblea general, sobre los ingresos derivados de los derechos que gestionan en virtud de un acuerdo de representación, o a cualquier rendimiento derivado de la inversión de esos ingresos, salvo que la otra entidad de gestión que sea parte del acuerdo de representación, autorice expresamente dichas deducciones.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 177
+
+Artículo 177. Reparto, pago y prescripción de derechos.
+1. El reparto de los derechos recaudados se efectuará equitativamente por las entidades de gestión a los titulares de las obras o prestaciones utilizadas y a otras entidades de gestión con las que hayan firmado acuerdos de representación, conforme a lo previsto en su reglamento de reparto. En todo caso deberá existir trazabilidad entre los derechos recaudados y los repartidos y pagados.
+Para las entidades de gestión que administren derechos sobre obras o prestaciones protegidas de diferentes categorías, el reparto deberá realizarse de manera separada, por cada tipo de obra o prestación protegida, no pudiéndose asignar cantidades para reparto por derechos a obras diferentes a aquellas de las que procedan los derechos a repartir, y en concordancia con lo previsto por el artículo 175.3 de esta ley.
+El reparto y pago de derechos se efectuará de forma periódica, con diligencia y exactitud, lo antes posible y, en cualquier caso, en un plazo máximo de nueve meses desde el 1 de enero del año siguiente al de su recaudación. No obstante, dicho plazo podrá incumplirse cuando existan razones objetivas que lo justifiquen y relacionadas, en particular, con los siguientes extremos:
+a) La comunicación de información por los usuarios.
+b) La identificación de los derechos o de los titulares de derechos.
+c) El cotejo de la información sobre obras y otras prestaciones con los titulares de derechos.
+Las liquidaciones necesarias para efectuar el pago deberán contener al menos los siguientes datos:
+a) Derecho y modalidad a la que se refiere.
+b) Periodo de devengo.
+c) Origen o procedencia de la recaudación.
+d) Deducciones aplicadas.
+Lo previsto en este apartado también resultará de aplicación a los titulares de derechos no miembros de la entidad de gestión que administre la misma categoría de derechos que pertenezcan al titular en lo relativo a los derechos de gestión colectiva obligatoria.
+2. El reparto y pago de derechos recaudados por otra entidad de gestión mandataria en el marco de un acuerdo de representación se efectuará por la entidad de gestión mandante a los titulares de las obras o prestaciones utilizadas en el plazo máximo de seis meses desde su recepción. No obstante, dicho plazo podrá incumplirse cuando existan razones objetivas que lo justifiquen y relacionadas, en particular, con los mismos extremos previstos en el apartado anterior.
+3. La asamblea general de la entidad de gestión podrá adoptar ciertas reglas en materia de reparto que tengan en cuenta las obras y prestaciones protegidas culturalmente relevantes, su naturaleza, su primicia o cualquier otro aspecto objetivamente razonable, así como los acuerdos internacionalmente alcanzados.
+4. La acción para reclamar a las entidades de gestión el pago de cantidades asignadas en el reparto a un titular, prescribe a los cinco años contados desde el 1 de enero del año siguiente al de la puesta a disposición del titular de las cantidades que le correspondan.
+5. La acción para reclamar a las entidades de gestión el pago de cantidades recaudadas que estén pendientes de asignación cuando, tras el procedimiento de reparto, no hayan sido identificados el titular o la obra o prestación protegida, prescribe a los cinco años contados desde el 1 de enero del año siguiente al de su recaudación.
+Las cantidades referidas en el párrafo anterior se mantendrán separadas en las cuentas de la entidad de gestión.
+En el procedimiento de reparto, las entidades de gestión ejecutarán las medidas necesarias para identificar y localizar a los titulares de derechos. En particular, estas medidas incluirán:
+a) La verificación de datos de registro actualizados de los miembros de la entidad, así como de registros normalizados de obras y prestaciones protegidas, y de otros registros fácilmente disponibles.
+b) En el plazo máximo de tres meses tras el vencimiento del plazo previsto en el apartado 1, la puesta a disposición tanto de los miembros de la entidad como de otras entidades de gestión con las que haya celebrado acuerdos de representación de un listado de obras y prestaciones cuyos titulares de derechos no hayan sido identificados o localizados, conjuntamente con cualquier otra información pertinente disponible que pueda contribuir a identificar o localizar al titular del derecho.
+6. Las cantidades recaudadas y no reclamadas por su titular en el plazo previsto en los apartados 4 y 5 de este artículo serán destinadas íntegramente por las entidades de gestión a las siguientes finalidades:
+a) A la realización de actividades asistenciales a favor de los miembros de la entidad y/o actividades de formación y promoción de autores y artistas intérpretes y ejecutantes.
+b) A la promoción de la oferta digital legal de las obras y prestaciones protegidas cuyos derechos gestionan, en los términos previstos en el artículo 178.1.c) 1.º y 3.º
+c) A acrecer proporcionalmente el reparto a favor del resto de obras y prestaciones protegidas que sí fueron debidamente identificadas en el proceso de reparto de donde provienen dichas cantidades.
+d) A la financiación de la ventanilla única de facturación y pago contemplada en el artículo 168.
+e) A la financiación de la persona jurídica contemplada en el artículo 25.10.
+La asamblea general de cada entidad de gestión deberá acordar anualmente los porcentajes mínimos de las cantidades recaudadas y no reclamadas que se destinarán a cada una de las finalidades anteriormente señaladas y que, en ningún caso, salvo en los supuestos de las anteriores letras d) y e), podrán ser inferiores a un quince por ciento por cada una de estas.
+En el caso de que las entidades de gestión presenten excedentes negativos en sus cuentas anuales o no acrediten estar al corriente de sus obligaciones fiscales y de seguridad social, o ambos, deberán destinar las cantidades señaladas en el primer párrafo del presente apartado, y hasta el importe que resulte necesario, a compensar los excedentes negativos que presenten sus cuentas anuales o a cumplir con las obligaciones anteriormente citadas, o ambos.
+En ningún caso se entenderá que la prescripción de las cantidades afectas y destinadas a las finalidades previstas en las anteriores letras a), b) y c) opera a favor de las entidades de gestión, ni se considerarán ingreso propio de las mismas a ningún efecto.
+Téngase en cuenta que no serán de aplicación los porcentajes mínimos previstos en el apartado 6 durante un plazo de cuatro años a partir del 7 de mayo de 2020, actuando durante ese periodo de tiempo en la forma establecida por la disposición adicional 7 del Real Decreto-ley 17/2020, de 5 de mayo, Ref. BOE-A-2020-4832#da-7, en la redacción dada por la disposición final 27 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df-27
+7. Transcurridos tres años desde el 1 de enero del año siguiente al de la puesta a disposición del titular de las cantidades que le correspondan o de la recaudación, las entidades de gestión podrán disponer, anualmente y de forma anticipada, de hasta la mitad de las cantidades pendientes de prescripción, para los mismos fines previstos en el apartado anterior, sin perjuicio de las reclamaciones de los titulares sobre dichas cantidades no prescritas. A estos efectos, las entidades de gestión constituirán un depósito de garantía con el diez por ciento de las cantidades dispuestas.
+8. Las entidades de gestión no podrán conceder créditos o préstamos, directa o indirectamente, ni afianzar, avalar o garantizar de cualquier modo obligaciones de terceros, salvo autorización expresa y singular de la Administración competente conforme al artículo 155 y siempre y cuando estén directamente relacionadas con actividades asistenciales y/o promocionales que redunden en beneficio de los titulares de derechos representados.
+9. Las entidades de gestión solo podrán conceder anticipos a los miembros de la entidad, a cuenta de los futuros repartos de derechos recaudados, cuando su concesión se base en normas no discriminatorias y no comprometan el resultado final de los repartos de derechos.
+Téngase en cuenta que no serán de aplicación los porcentajes mínimos previstos en el apartado 6 durante un plazo de cuatro años a partir del 7 de mayo de 2020, actuando durante ese periodo de tiempo en la forma establecida por la disposición adicional 7 del Real Decreto-ley 17/2020, de 5 de mayo, Ref. BOE-A-2020-4832#da-7, en la redacción dada por la disposición final 27 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df-27
+ Se modifica el apartado 6 por la disposición final 11.2 del Real Decreto-ley 17/2020, de 5 de mayo. Ref. BOE-A-2020-4832#df-11, en la redacción dada por el art. 11.10 de la Ley 14/2021, de 11 de octubre. Ref. BOE-A-2021-16477#ad-2
+ Téngase en cuenta que no serán de aplicación los porcentajes mínimos previstos en el apartado 6 durante un plazo de dos años a partir del 7 de mayo de 2020 y, durante ese tiempo, la asamblea general de una entidad de gestión de derechos de propiedad intelectual podrá modificar dichos porcentajes con el fin de incrementar aquellos destinados a la realización de actividades asistenciales a favor de los miembros de la entidad, según establece la disposición adicional 7 del Real Decreto-ley 17/2020, de 5 de mayo. Ref. BOE-A-2020-4832#da-7
+ Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 178
+
+Artículo 178. Función social y desarrollo de la oferta digital legal.
+1. Las entidades de gestión, directamente o por medio de otras entidades, fomentarán:
+a) La promoción de actividades o servicios de carácter asistencial en beneficio de sus miembros,
+b) la realización de actividades de formación y promoción de autores y artistas, intérpretes y ejecutantes, y
+c) la oferta digital legal de las obras y prestaciones protegidas cuyos derechos gestionan, dentro de lo cual se entenderán comprendidas:
+1.º Las campañas de formación, educación o sensibilización sobre oferta y consumo legal de contenidos protegidos, así como campañas de lucha contra la vulneración de los derechos de propiedad intelectual.
+2.º La promoción directa de las obras y prestaciones protegidas cuyos derechos gestiona a través de plataformas tecnológicas propias o compartidas con terceros.
+3.º Las actividades para fomentar la integración de autores y artistas con discapacidad en su respectivo ámbito creativo o artístico, o ambos, así como a la promoción de la oferta digital de sus obras, creaciones y prestaciones, y el acceso de las personas discapacitadas a las mismas en el ámbito digital.
+Las actividades o servicios mencionados en las letras a) y b) se prestarán sobre la base de criterios justos, en particular con respecto al acceso y alcance de los mismos.
+2. Las entidades de gestión deberán dedicar a las actividades y servicios a que se refieren las letras a) y b) del apartado anterior, por partes iguales, el porcentaje de la compensación prevista en el artículo 25, que reglamentariamente se determine.
+En ningún caso se entenderá que las cantidades que, de conformidad con lo previsto en el párrafo anterior, las entidades de gestión deban dedicar a las actividades y servicios a que se refieren las letras a) y b) del apartado anterior, constituyen ingreso propio de las entidades de gestión a ningún efecto, sino que dichas cantidades se entenderán automática y obligatoriamente asignadas y afectas, sin que la entidad de gestión ostente titularidad jurídica material sobre las mismas, a la realización de tales actividades y servicios.
+3. A requerimiento de la Administración competente, las entidades de gestión deberán acreditar el carácter asistencial, formativo, promocional y de oferta digital legal, de las actividades y servicios referidos en este artículo.
+4. A fin de llevar a cabo las actividades del apartado 1, las entidades de gestión podrán constituir personas jurídicas sin ánimo de lucro según lo establecido en la legislación vigente, previa comunicación a la Administración competente. En caso de disolución de la persona jurídica así constituida, la entidad de gestión deberá comunicar dicha disolución y los términos de la misma al órgano al que en su momento comunicó su constitución.
+5. Con carácter excepcional y de manera justificada, a fin de llevar a cabo las actividades contempladas en las letras a) y b) del apartado 1, u otras de interés manifiesto, las entidades de gestión podrán, mediante autorización expresa y singular de la Administración competente, constituir o formar parte de personas jurídicas con ánimo de lucro. En caso de disolución de dichas personas jurídicas, la entidad de gestión deberá comunicar de forma inmediata dicha disolución y los términos de la misma al órgano al que en su momento autorizó su constitución o asociación.
+Se modifica el apartado 2 por la disposición final 11.3 del Real Decreto-ley 17/2020, de 5 de mayo. Ref. BOE-A-2020-4832#df-11, en la redacción dada por el art. 11.10 de la Ley 14/2021, de 11 de octubre. Ref. BOE-A-2021-16477#ad-2
+ Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+## Sección 2
+
+Sección 2.ª Régimen jurídico de la gestión de los derechos recaudados por autorizaciones multiterritoriales no exclusivas de derechos en línea sobre obras musicales
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que esta sección ya fue añadida por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 179
+
+Artículo 179. Recaudación y facturación.
+1. Las entidades de gestión que concedan autorizaciones multiterritoriales no exclusivas de derechos en línea sobre obras musicales deberán controlar la utilización de tales derechos por los proveedores de servicios de música en línea a los que hayan concedido dichas autorizaciones.
+2. Las entidades de gestión deberán ofrecer a los proveedores de servicios en línea que dispongan de una autorización multiterritorial no exclusiva de derechos en línea sobre obras musicales la posibilidad de declarar por vía electrónica la utilización efectiva de los derechos autorizados, estando estos obligados a informar con precisión sobre los usos efectivos de dichas obras.
+Las entidades de gestión ofrecerán, al menos, un método de información que tenga en cuenta normas o prácticas sectoriales voluntarias desarrolladas a nivel internacional o de la Unión para el intercambio electrónico de esos datos. En este caso, las entidades de gestión podrán negarse a aceptar las declaraciones de los proveedores de servicios en línea presentadas en un formato propio.
+Las entidades de gestión podrán supervisar la utilización efectiva de los derechos autorizados por los proveedores de servicios de música en línea que dispongan de una autorización multiterritorial no exclusiva de derechos en línea sobre obras musicales.
+Las entidades de gestión deberán respetar el carácter confidencial de la información a la que accedan mediante esta supervisión cuyo tratamiento, en todo caso, estará sujeto al cumplimiento de la normativa de defensa de la competencia y de protección de datos.
+3. Las entidades de gestión enviarán sus facturas a los proveedores de servicios en línea por medios electrónicos. Dicha factura indicará las obras y derechos objeto de autorización sobre la base de los datos contemplados en la lista de condiciones en virtud del artículo 171.2 en la medida en que sea posible sobre la base de la información proporcionada por dicho proveedor conforme al apartado anterior.
+Las entidades de gestión ofrecerán, al menos, un formato de facturación electrónica que tenga en cuenta normas o prácticas sectoriales voluntarias desarrolladas a nivel internacional o de la Unión para el intercambio electrónico de esos datos. En este caso, el proveedor de servicios en línea no podrá negarse a aceptar la factura a causa de su formato.
+4. Las entidades de gestión facturarán al proveedor de servicios en línea con exactitud y sin demora tras la notificación de la utilización efectiva de los derechos en línea sobre esa obra musical, excepto cuando no sea posible por razones atribuibles al proveedor.
+5. Las entidades de gestión dispondrán de procedimientos adecuados que permitan al proveedor de servicios en línea impugnar la exactitud de la factura, en particular en los casos en que este proveedor reciba facturas de una o varias entidades de gestión por los mismos derechos en línea sobre la misma obra musical.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 180
+
+Artículo 180. Reparto y pago.
+1. Las entidades de gestión que concedan autorizaciones multiterritoriales no exclusivas de derechos en línea sobre obras musicales deberán repartir con exactitud y sin demora los derechos que recauden en virtud de dichas autorizaciones, tras la notificación de la utilización efectiva de las obras, excepto cuando esto no sea posible por razones atribuibles al proveedor de servicios en línea.
+2. Las entidades de gestión facilitarán, como mínimo, la siguiente información a los titulares de derechos junto con cada pago que realicen conforme al apartado 1:
+a) El período durante el cual ha tenido lugar la utilización por la que se adeuden importes a los titulares de derechos y los territorios en que ha tenido lugar tal utilización.
+b) Los derechos recaudados, las deducciones realizadas y los importes repartidos por la entidad de gestión en relación con cada derecho en línea sobre las obras musicales que los titulares de derechos han autorizado a la entidad de gestión a representar, en su totalidad o en parte.
+c) Los derechos recaudados en nombre de los titulares de derechos, las deducciones efectuadas y los importes repartidos por la entidad de gestión en relación con cada proveedor de servicios en línea.
+3. Lo previsto en este artículo resultará de aplicación cuando la entidad de gestión conceda estas autorizaciones en virtud de la encomienda efectuada por otra entidad de gestión. La entidad de gestión mandante será responsable del ulterior reparto de esos importes y de la comunicación de esa información a los titulares de derechos, salvo que las entidades de gestión lleguen a otro acuerdo.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+## CAPÍTULO VI
+
+Obligaciones de información, transparencia y contabilidad de las entidades de gestión
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este capítulo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 181
+
+Artículo 181. Información facilitada a los titulares de derechos sobre la gestión de sus derechos.
+1. Las entidades de gestión pondrán anualmente a disposición de cada titular de derechos al que hayan atribuido derechos recaudados o realizado pagos, incluidos aquellos titulares de derechos no miembros cuyos derechos gestionen las entidades por ser derechos de gestión colectiva obligatoria según lo previsto en esta ley, en el período al que se refiere, como mínimo, la siguiente información:
+a) Todo dato de contacto que el titular de derechos haya autorizado a la entidad de gestión a utilizar a fin de identificarlo y localizarlo.
+b) Los derechos recaudados atribuidos al titular de derechos.
+c) Los importes pagados por la entidad de gestión al titular de derechos, por categoría de derechos gestionados y por tipo de utilización.
+d) El período durante el cual ha tenido lugar la utilización por la que se atribuyen y abonan importes al titular de los derechos, excepto cuando razones objetivas relacionadas con las declaraciones de los usuarios impidan a la entidad de gestión facilitar esta información.
+e) Las deducciones aplicadas en concepto de descuentos de gestión o por cualquier otro concepto.
+f) Los derechos recaudados atribuidos al titular de derechos que estén pendientes de pago por cualquier período.
+2. Cuando una entidad de gestión atribuya derechos recaudados y entre sus miembros figuren entidades que sean responsables del reparto de derechos recaudados a titulares de derechos, la entidad de gestión facilitará la información indicada en el apartado 1 a esas entidades siempre que estas no dispongan de esa información. Estas entidades deberán poner dicha información, como mínimo una vez al año, a disposición de todo titular de derechos al que hayan atribuido derechos recaudados o realizado pagos en el período al que se refiere la información.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 182
+
+Artículo 182. Información facilitada a otras entidades de gestión sobre la gestión de derechos en virtud de acuerdos de representación.
+Las entidades de gestión, anualmente y por medios electrónicos, pondrán a disposición de las entidades de gestión en cuyo nombre gestionen derechos en virtud de un acuerdo de representación durante el período al que se refiere la siguiente información:
+a) Los derechos recaudados, los importes abonados por la entidad de gestión por categoría de derechos gestionados y por tipo de utilización de los derechos que gestionan en virtud del acuerdo de representación, y todos los derechos recaudados que estén pendientes de pago por cualquier período.
+b) Las deducciones aplicadas en concepto de descuentos de gestión o para cualquier otro fin.
+c) Información sobre las autorizaciones no exclusivas concedidas o denegadas en relación con las obras y otras prestaciones a que se refiere el acuerdo de representación.
+d) Las resoluciones adoptadas por su asamblea general en la medida en que estas resoluciones sean pertinentes para la gestión de los derechos incluidos en el acuerdo de representación.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 183
+
+Artículo 183. Información facilitada previa solicitud.
+1. Sin perjuicio de la obligación prevista en el artículo 185, las entidades de gestión deberán facilitar, en respuesta a una solicitud por escrito debidamente razonada, como mínimo, la siguiente información a toda entidad de gestión en cuyo nombre gestionen derechos en virtud de un acuerdo de representación, a todo titular de derechos o a todo usuario:
+a) Las obras u otras prestaciones que representan, los derechos que gestionan directamente o en virtud de acuerdos de representación, y los territorios que abarcan.
+b) Cuando las obras u otras prestaciones de la letra a) no se puedan determinar debido al ámbito de la actividad de la entidad de gestión, las categorías de obras o de otras prestaciones que representan, los derechos que gestionan y los territorios que abarcan.
+2. Las entidades de gestión deberán informar, previa solicitud por escrito, respecto de los siguientes extremos a sus miembros y a los titulares de derechos que no sean miembros pero respecto de los cuales administre la misma categoría de derechos en lo relativo a los derechos de gestión colectiva obligatoria:
+a) Las personas que forman parte de la alta dirección y de los órganos de gobierno y representación de la entidad, así como de las comisiones y grupos de trabajo en las que aquellas participen.
+b) Las retribuciones y demás percepciones que se atribuyan a las personas indicadas en la letra anterior por su condición de miembros de los órganos de gobierno y representación e integrantes de las comisiones y grupos de trabajo. Estas informaciones se podrán dar de forma global por concepto retributivo, recogiendo separadamente los correspondientes al personal de alta dirección del resto de miembros o integrantes de los órganos y comisiones anteriormente señalados que no tengan dicha condición.
+c) Las condiciones de los contratos suscritos por la entidad con usuarios de su repertorio, con sus asociaciones y con otras entidades de gestión, cuando acrediten tener interés legítimo y directo.
+d) Las actas de las reuniones de la asamblea general, que deberán hacer constar, como mínimo, el número de miembros concurrentes, entre presentes y representados, y el número de votos que le correspondan a cada uno, así como un resumen de los asuntos tratados, los acuerdos adoptados y los resultados de las votaciones.
+3. La información solicitada en virtud de los apartados 1 y 2 se facilitará de forma gratuita, por medios electrónicos y sin retrasos injustificados.
+4. Las entidades de gestión que concedan autorizaciones multiterritoriales no exclusivas de derechos en línea sobre obras musicales facilitarán, por medios electrónicos, a los proveedores de servicios de música en línea, a los titulares cuyos derechos representan y a otras entidades de gestión, en respuesta a una solicitud por escrito debidamente razonada, la siguiente información actualizada que permita la identificación del repertorio de música en línea que representan:
+a) Las obras musicales representadas.
+b) Los derechos representados, en su totalidad o en parte.
+c) Los territorios cubiertos.
+Las entidades de gestión podrán adoptar medidas razonables para proteger, cuando sea necesario, la exactitud e integridad de los datos, controlar su reutilización y proteger la información delicada desde el punto de vista comercial.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 184
+
+Artículo 184. Exactitud de la información sobre los repertorios multiterritoriales.
+1. Las entidades de gestión que concedan autorizaciones multiterritoriales no exclusivas de derechos en línea sobre obras musicales dispondrán de procedimientos internos que permitan a los titulares de derechos, a otras entidades de gestión y a los proveedores de servicios en línea solicitar una corrección de los datos contemplados en el artículo 171.2 y la información facilitada conforme al artículo 183.4.
+2. Cuando la solicitud esté justificada, la entidad de gestión deberá corregir los datos o la información sin retrasos injustificados.
+3. Las entidades de gestión deberán proporcionar a los titulares de derechos los medios para que estos les presenten en formato electrónico información sobre sus obras musicales, sus derechos sobre dichas obras y los territorios respecto de los que los titulares de derechos autorizan a la entidad. Al hacerlo, las entidades de gestión y los titulares de derechos tendrán en cuenta, en la medida de lo posible, las normas o prácticas sectoriales voluntarias relativas al intercambio de datos desarrolladas a nivel internacional o de la Unión Europea.
+4. El apartado anterior resultará de aplicación a aquellos titulares cuyos derechos gestione la entidad de gestión en virtud de un acuerdo de representación de los previstos en los artículos 172 y 173 salvo que ambas entidades de gestión lleguen a otro acuerdo.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 185
+
+Artículo 185. Información que debe hacerse pública.
+Las entidades de gestión deberán publicar en su página web de forma fácilmente accesible y mantener actualizada la siguiente información:
+a) Los estatutos de la entidad.
+b) Las cuentas anuales y el informe de gestión, con el correspondiente informe de auditoría, y el informe anual de transparencia. Este último estará disponible en la página web durante cinco años.
+c) Los integrantes de los órganos de gobierno y representación de la entidad.
+d) Los contratos generales que tengan suscritos con asociaciones de usuarios y los modelos de contrato que habitualmente se utilicen para cada modalidad de uso de su repertorio.
+e) Las tarifas generales vigentes, junto con la memoria económica justificativa, para cada una de las modalidades de uso de su repertorio, incluidos los descuentos y las circunstancias en que deben aplicarse. Todo ello deberá publicarse en el plazo de diez días desde su establecimiento o última modificación.
+f) Un listado de las entidades de gestión con las que se haya suscrito acuerdos de representación. Para cada acuerdo deberá indicarse su duración y el ámbito subjetivo y objetivo del mismo para cada una de las partes contratantes.
+g) El repertorio que gestiona la entidad, debiendo incluir en el mismo aquellas obras y prestaciones protegidas que gestionan en virtud de los acuerdos de representación vigentes suscritos con organizaciones de gestión extranjeras.
+h) El reglamento de reparto de los derechos recaudados y el importe o porcentaje de los descuentos de gestión y de otra naturaleza que sean aplicados a cada derecho y modalidad de uso administrados y a los ingresos procedentes de las inversiones de estos últimos.
+i) El listado de obras y prestaciones protegidas que administran cuyos titulares, tras el procedimiento de reparto y pago de derechos, están parcial o totalmente no identificados o localizados. Este listado deberá publicarse en el plazo máximo de un año computado a partir del vencimiento del plazo de tres meses previsto en el artículo 177.5.b).
+j) La política general sobre el uso de los importes que no puedan ser objeto de reparto.
+k) El procedimiento de tratamiento y resolución de las reclamaciones y quejas planteadas por los miembros de la entidad y por entidades de gestión por cuya cuenta se gestionen derechos en virtud de un acuerdo de representación, sin perjuicio de su inclusión obligatoria en los estatutos de la entidad.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 186
+
+Artículo 186. Obligación de notificación a la Administración competente.
+Las entidades de gestión están obligadas a notificar de forma diligente a la Administración competente conforme al artículo 155:
+a) Los documentos que contengan la información completa sobre los nombramientos y ceses de sus administradores, apoderados y de las personas que integran el órgano de control interno de la entidad.
+b) Las declaraciones anuales sobre conflictos de interés a la asamblea general de las personas integrantes de los órganos de gobierno y representación y de control interno de la entidad.
+c) Los modelos de contratos de gestión y sus modificaciones.
+d) Las tarifas generales y sus modificaciones, junto con la memoria económica justificativa prevista en la normativa reglamentaria de desarrollo.
+e) Los contratos generales celebrados con asociaciones de usuarios.
+f) Los contratos concertados con organizaciones nacionales y extranjeras de gestión colectiva.
+g) Los documentos sobre contabilidad y auditoría mencionados en el artículo 187 y el informe anual de transparencia.
+h) El informe anual de cumplimiento de la política general de inversión.
+i) El informe anual elaborado por el órgano de control interno para dar cuenta del ejercicio de sus competencias a la asamblea general.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 187
+
+Artículo 187. Contabilidad y auditoría.
+1. Las entidades de gestión deberán presentar sus cuentas anuales elaboradas de conformidad con el Plan de Contabilidad de las entidades sin fines lucrativos y las formularán exclusivamente según los modelos normales previstos en él. Asimismo, deberán presentar el informe de gestión que acompañe a dichas cuentas anuales con el contenido establecido en el artículo 262 del texto refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio.
+Las entidades de gestión que participen en sociedades mercantiles y se encuentren en cualquiera de los supuestos previstos para la sociedad dominante en los artículos 42 y 43 del Código de Comercio, deberán formular cuentas anuales y el informe de gestión consolidados en los términos previstos en dicho Código y en el Real Decreto 1159/2010, de 17 de septiembre, por el que se aprueban las Normas para la Formulación de Cuentas Anuales Consolidadas y se modifica el Plan General de Contabilidad aprobado por Real Decreto 1514/2007, de 16 de noviembre, y el Plan General de Contabilidad de Pequeñas y Medianas Empresas aprobado por Real Decreto 1515/2007, de 16 de noviembre.
+2. Todas las entidades de gestión someterán a auditoría sus cuentas anuales. La auditoría se contratará y realizará de acuerdo con lo previsto en la Ley 22/2015, de 20 de julio, de Auditoría de Cuentas disponiendo los auditores de un plazo mínimo de un mes, a partir del momento en que les fueran entregadas las cuentas anuales formuladas, para realizar el informe de auditoría.
+El cumplimiento de las obligaciones establecidas en los apartados 3 y 5 del artículo 175 y en el segundo párrafo del artículo 177.5 se revisará anualmente, por los auditores mencionados en el párrafo anterior, con el fin de verificar que se cumple con lo legalmente exigido. Los auditores deberán emitir un informe, que acompañará a su informe de auditoría de las cuentas anuales, en el que se ponga de manifiesto el resultado de su revisión y, en su caso, las incorrecciones detectadas.
+Los auditores serán nombrados por la asamblea general de la entidad celebrada antes de que finalice el ejercicio a auditar. La asamblea general no podrá revocar a los auditores antes de que finalice el período para el que fueron nombrados, a no ser que medie justa causa.
+Cuando la asamblea general no hubiera nombrado al auditor antes de finalizar el ejercicio a auditar o la persona nombrada no acepte el encargo o no pueda cumplir sus funciones, el máximo órgano ejecutivo de la entidad deberá solicitar del registrador mercantil del domicilio social la designación de la persona o personas que deban realizar la auditoría, de acuerdo con lo dispuesto en el Reglamento del Registro Mercantil para las sociedades mercantiles. En estos casos, dicha solicitud al Registrador Mercantil también podrá ser realizada por cualquier miembro de la entidad.
+3. El máximo órgano ejecutivo de la entidad de gestión formulará las cuentas anuales y el informe de gestión dentro de los tres primeros meses siguientes al cierre de cada ejercicio.
+Las cuentas anuales y el informe de gestión, el informe anual de transparencia y los distintos informes que deben realizar los auditores, conforme a lo previsto en el apartado 2 y en el artículo 189.2, se pondrán a disposición de los miembros de la entidad electrónicamente o en su domicilio social y en el de las delegaciones territoriales, de forma gratuita en ambos casos, con una antelación mínima de quince días al de la celebración de la asamblea general en la que hayan de ser aprobadas. En la convocatoria de la asamblea general, que también se anunciará en la página web de la entidad, se hará mención de este derecho.
+Las cuentas anuales deberán ser aprobadas por la asamblea general en el plazo de seis meses desde el cierre de cada ejercicio.
+4. Dentro del mes siguiente a la aprobación de las cuentas anuales, o, en su caso, de las cuentas consolidadas, se presentará para su depósito en el Registro Mercantil del domicilio social certificación de los acuerdos de la asamblea general de aprobación de las cuentas anuales, a la que se adjuntará un ejemplar de cada una de dichas cuentas, normales o consolidadas, del informe de gestión y del informe de los auditores. También se adjuntará un ejemplar del informe anual de transparencia.
+A esta obligación de depósito le serán de aplicación, en cuanto sea procedente, las normas establecidas en el Texto refundido de la Ley de Sociedades de Capital y en el Reglamento del Registro Mercantil.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta, para su aplicación, la disposición final 3 de la citada Ley.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Téngase en cuenta, para su aplicación, la disposición final 3 del citado Real Decreto-ley.
+
+### Artículo 188
+
+Artículo 188. Presupuesto anual de recaudación y reparto.
+Las entidades de gestión deberán elaborar un presupuesto anual de recaudación y reparto de derechos gestionados y de ingresos y gastos de la entidad, que se aprobará con carácter previo al inicio del ejercicio al que vaya referido. La correspondiente propuesta se pondrá a disposición de los miembros electrónicamente y en el domicilio social y en el de las delegaciones territoriales de la entidad, de forma gratuita en ambos casos, con una antelación mínima de quince días al de la celebración de la sesión del órgano que tenga atribuida la competencia para su aprobación. En la convocatoria de dicho órgano, que se anunciará en la página web de la entidad, se hará mención a este derecho.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 189
+
+Artículo 189. Informe anual de transparencia.
+1. Los órganos de gobierno y representación de las entidades de gestión deberán elaborar un informe anual de transparencia dentro de los tres meses siguientes al cierre del ejercicio anterior.
+El informe anual de transparencia tendrá, como mínimo, el contenido especificado en el anexo. Asimismo, incluirá un informe especial dando cuenta de la utilización de los importes deducidos para los servicios asistenciales en beneficio de los miembros de la entidad, las actividades de formación y promoción de autores, artistas, intérpretes y ejecutantes y el fomento de la oferta digital legal de las obras y prestaciones protegidas cuyos derechos gestiona la entidad.
+2. El informe anual de transparencia elaborado por los órganos de gobierno y representación se revisará por los auditores nombrados de conformidad con el artículo 187.2 para auditar las cuentas anuales, a fin de verificar que la información contable en él contenida se corresponde con la contabilidad de la entidad de gestión. Los auditores deberán emitir un informe en el que se ponga de manifiesto el resultado de su revisión y, en su caso, las incorrecciones detectadas. Dicho informe de revisión se reproducirá íntegramente en el informe anual de transparencia.
+3. La asamblea general deberá aprobar el informe anual de transparencia dentro de los seis meses siguientes al cierre del ejercicio anterior.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta, para su aplicación, la disposición final 3 de la citada Ley.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Téngase en cuenta, para su aplicación, la disposición final 3 del citado Real Decreto-ley.
+
+## CAPÍTULO VII
+
+Régimen sancionador
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este capítulo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 190
+
+Artículo 190. Responsabilidad administrativa, órganos competentes sancionadores y procedimiento sancionador.
+1. Las entidades de gestión, las entidades que de ellas dependan y los operadores de gestión independiente incurrirán en responsabilidad administrativa por las infracciones que cometan en el ejercicio de sus funciones con arreglo a lo dispuesto en la presente ley.
+2. El ejercicio de la potestad sancionadora corresponde a la Administración competente de conformidad con el artículo 155. La inhabilitación legal para operar corresponde, en todo caso, al Ministerio de Cultura y Deporte.
+3. Cuando el ejercicio de la potestad sancionadora corresponda al Ministerio de Cultura y Deporte, la imposición de las sanciones previstas en este capítulo corresponderá, en el caso de infracciones muy graves, al Ministro de Cultura y Deporte y, en el caso de infracciones graves y leves, al Subsecretario de Cultura y Deporte. La instrucción de los correspondientes procedimientos sancionadores corresponderá, en todos los casos, al Subdirector General de Propiedad Intelectual.
+4. El ejercicio de la potestad sancionadora se regirá por el procedimiento establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y conforme a los principios previstos en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. No obstante, el plazo máximo en el que debe notificarse la resolución expresa en los procedimientos incoados por infracciones muy graves será de dieciocho meses y en los procedimientos incoados por infracciones graves de doce meses.
+5. Cuando una entidad de gestión o un operador de gestión independiente que tenga establecimiento en otro Estado de la Unión Europea infrinja en territorio español la normativa de su Estado de establecimiento reguladora de la gestión colectiva de derechos de propiedad intelectual, la Administración competente conforme al artículo 155 podrá remitir toda la información pertinente a la autoridad competente de aquel Estado. Asimismo, podrá solicitar que esa autoridad adopte las medidas adecuadas en el marco de sus competencias.
+6. Las entidades de gestión y los operadores de gestión independientes que tengan establecimiento fuera de la Unión Europea pero presten servicios en España conforme a lo previsto en este título incurrirán en responsabilidad administrativa por las infracciones que cometan por el incumplimiento de sus obligaciones previstas en esta ley en los mismos términos que las entidades de gestión y los operadores de gestión independientes con establecimiento en España.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 191
+
+Artículo 191. Clasificación de las infracciones.
+1. Las infracciones cometidas por las entidades de gestión colectiva de derechos de propiedad intelectual, por las entidades que de ellas dependan y por los operadores de gestión independiente se clasificarán en muy graves, graves y leves.
+2. Constituyen infracciones muy graves los siguientes actos:
+a) La ineficacia manifiesta y notoria en la administración de los derechos que la entidad de gestión, una entidad de la que ella dependa o el operador de gestión independiente tenga encomendados, circunstancia que habrá de apreciarse respecto del conjunto de los usuarios y de los titulares de dichos derechos y no de forma aislada o individual.
+b) El incumplimiento grave y reiterado del objeto y fines señalados en los estatutos de la entidad de gestión, cuando se realicen, de manera directa o indirecta, actividades que no sean de protección o gestión de los derechos de propiedad intelectual que tengan encomendados, sin perjuicio de la función social y del desarrollo de la oferta digital legal que deben cumplir y de las actividades vinculadas al ámbito cultural de la entidad y sin ánimo de lucro referidas en el artículo 159 letra b) de esta ley, siempre que estén previstas en sus estatutos.
+c) El incumplimiento grave y reiterado de la obligación establecida en el artículo 156.2 de administrar los derechos de propiedad intelectual que tenga conferidos la entidad de gestión.
+d) La prestación de servicios de gestión colectiva de derechos de propiedad intelectual sin haber obtenido previamente la autorización prevista en el artículo 147 cuando esta sea necesaria.
+e) La puesta de manifiesto de algún hecho que suponga el incumplimiento muy grave de las obligaciones del título IV.
+3. Constituyen infracciones graves los siguientes actos:
+a) El incumplimiento de las condiciones establecidas en el artículo 157 respecto del contrato de gestión.
+b) La aplicación de sistemas, normas y procedimientos de reparto de las cantidades recaudadas de manera arbitraria y no equitativa.
+c) El incumplimiento de las obligaciones establecidas en los artículos 163, apartados 1 y 2; 165; 168; 173; 175, apartados 2 y 3; 177 y 178; 180; 183; y 186 a 187; 189 y de la hacer efectivos los derechos a una remuneración y compensación equitativas en los distintos supuestos previstos en esta ley y a ejercitar el derecho de autorizar la distribución por cable.
+d) La resistencia, excusa o negativa, por las entidades de gestión colectiva de derechos de propiedad intelectual, las entidades que de ellas dependan o los operadores de gestión independiente a la actuación inspectora de las Administraciones competentes según lo previsto en esta ley.
+e) La inobservancia significativa del procedimiento de tratamiento y resolución de reclamaciones y quejas previsto estatutariamente de conformidad con el artículo 159 letra o).
+f) El incumplimiento de la obligación de comunicar el inicio de actividades establecida en los artículos 151.1 y 153.1.
+4. Constituyen infracciones leves los siguientes actos:
+a) La falta de atención a los requerimientos de las Administraciones Públicas realizados al amparo de lo dispuesto en el artículo 154. Se entiende que se produce falta de atención del requerimiento cuando la entidad de gestión, una entidad que de ella dependa o el operador de gestión independiente no responda en el plazo fijado por la Administración Pública en su requerimiento, no suministre la información requerida o suministre información incompleta o incorrecta.
+b) El incumplimiento por las entidades de gestión, las entidades que de ellas dependan y los operadores de gestión independientes de preceptos de obligada observancia comprendidos en este título y en cualquier otra normativa reguladora de la gestión colectiva de derechos de propiedad intelectual, que no constituya infracción grave o muy grave conforme a lo dispuesto en los dos apartados anteriores.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 192
+
+Artículo 192. Sanciones.
+1. Por la comisión de infracciones muy graves, se impondrá a las entidades de gestión o a los operadores de gestión independiente alguna de las siguientes sanciones:
+a) Inhabilitación para operar como entidad de gestión o como operador de gestión independiente. Dicha inhabilitación producirá sus efectos a los tres meses de la publicación prevista en el apartado 2 y tendrá una duración, como máximo, de cinco años.
+b) Multa de entre un 1 y un 2 por ciento de la recaudación total obtenida por el sujeto infractor en el año anterior a la fecha de imposición de la multa. En defecto de recaudación en el año anterior a la fecha de imposición de la multa, se impondrá una multa no superior a 800.000 ni inferior a 400.001 euros.
+2. Las resoluciones sancionadoras por infracciones muy graves deberán ser publicadas en el «Boletín Oficial del Estado» y, en su caso, en el de la Comunidad Autónoma correspondiente, una vez que sean firmes en vía administrativa, y previa disociación de los datos personales que contenga.
+3. Por la comisión de infracciones graves se impondrá al sujeto infractor una multa no superior al 1 por ciento de su recaudación total correspondiente al año anterior a la fecha de imposición de la multa. En defecto de recaudación en el año anterior a la fecha de imposición de la multa, se impondrá una multa no superior a 400.000 ni inferior a 200.001 euros.
+4. Las resoluciones sancionadoras por infracciones graves podrán ser publicadas en el «Boletín Oficial del Estado» y, en su caso, en el de la Comunidad Autónoma correspondiente, una vez que sean firmes en vía administrativa, y previa disociación de los datos personales que contengan.
+5. Por la comisión de infracciones leves se impondrá al sujeto infractor multa por importe no superior a 200.000 euros ni a un 0,5 por ciento de su recaudación total correspondiente al año anterior a la fecha de imposición de la multa.
+6. Cuando el sujeto infractor fuese una entidad dependiente de una entidad de gestión, se tendrán en consideración, a efectos de determinar la multa, la recaudación de la entidad de gestión de la que dependa.
+7. Para la graduación de las sanciones se atenderá a los criterios establecidos en el artículo 29 de la Ley 40/2015, de 1 de octubre.
+8. Cuando las sanciones pecuniarias hayan sido impuestas por el Ministerio de Cultura y Deporte, los órganos y procedimientos para la recaudación serán los establecidos en el Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio, y demás normas de aplicación. En los demás casos, los órganos serán los establecidos en la legislación aplicable por las Administraciones Públicas que las hayan impuesto. Será de aplicación lo previsto en el artículo 85 de la Ley 39/2015, de 1 de octubre, respecto de aquellas sanciones en las que el infractor reconozca su responsabilidad.
+9. Una vez iniciado el procedimiento sancionador por la comisión de una infracción muy grave o se aperciba a una entidad de gestión conforme al artículo 149 y siempre que, en ambos casos, concurran razones de urgencia justificadas en dificultad o impedimento objetivo de reinstaurar el cumplimiento de la legalidad, la autoridad competente podrá acordar motivadamente, previa autorización del juez correspondiente al domicilio social de la entidad, la remoción de los órganos de representación de la entidad y su intervención temporal, mediante la designación de un gestor interino que asumirá las funciones legales y estatutarias de los órganos de representación de la entidad, en las siguientes condiciones:
+a) La intervención se realizará por un plazo de seis meses, prorrogable por igual período.
+b) Los gastos derivados de la intervención temporal correrán a cargo de la entidad intervenida.
+c) La finalidad de la intervención será regularizar el funcionamiento institucional de la entidad, clarificar su gestión y adoptar e implantar cuantas medidas resulten necesarias para el cumplimiento de las obligaciones legales en esta materia.
+Se añade por el art. único.7 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+## TÍTULO V
+
+Comisión de Propiedad Intelectual
+Se modifica por el art. único.8 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.8 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 193
+
+Artículo 193. Comisión de Propiedad Intelectual: composición y funciones.
+1. Se crea adscrita al Ministerio de Cultura y Deporte la Comisión de Propiedad Intelectual, como órgano colegiado de ámbito nacional, para el ejercicio de las funciones de mediación, arbitraje, determinación de tarifas y control en los supuestos previstos en el presente título, y de salvaguarda de los derechos de propiedad intelectual que le atribuye la presente ley. Asimismo ejercerá funciones de asesoramiento sobre cuantos asuntos de su competencia le sean consultados por el Ministerio de Cultura y Deporte.
+2. La Comisión actuará por medio de dos Secciones:
+a) La Sección Primera ejercerá las funciones de mediación, arbitraje, determinación de tarifas y control en los términos previstos en el presente título.
+b) La Sección Segunda velará, en el ámbito de las competencias del Ministerio de Cultura y Deporte, por la salvaguarda de los derechos de propiedad intelectual frente a su vulneración por los responsables de servicios de la sociedad de información en los términos previstos en los artículos 8 y concordantes de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico.
+3. La Sección Primera estará compuesta por cinco vocales titulares, que podrán delegar sus funciones en sus respectivos suplentes, todos ellos elegidos entre expertos de reconocida competencia en materia de propiedad intelectual y en materia de defensa de la competencia, entre los que el Ministerio de Cultura y Deporte designará al presidente de la Sección, cargo que debe recaer en uno de los vocales designados por este Ministerio. Los vocales de la Sección serán nombrados por el Gobierno, mediante real decreto, a propuesta de los titulares de los Ministerios de Cultura y Deporte, que designará dos vocales; del Ministerio de Economía y Empresa, que designará dos vocales, uno del ámbito Avance Digital y otro del ámbito Economía y Apoyo a la Empresa; y del Ministerio de Justicia, que designará un vocal, por un periodo de cinco años renovable por una sola vez.
+La composición, funcionamiento y actuación de la Sección Primera se regirá por lo dispuesto en esta ley y las normas reglamentarias que la desarrollen y supletoriamente por las previsiones de la Ley 40/2015, de 1 de octubre, y de la Ley 60/2003, de 23 de diciembre, de Arbitraje, y de la Ley 5/2012, de 6 de julio, de mediación en asuntos civiles y mercantiles. El Gobierno podrá modificar reglamentariamente la composición de la Sección Primera.
+4. La Sección Segunda, bajo la presidencia del Ministro de Cultura y Deporte o, por delegación de éste, de la persona titular de la Dirección General de Industrias Culturales, Propiedad Intelectual y Cooperación, se compondrá de cuatro vocales del Ministerio de Cultura y Deporte, de los cuales dos procederán del ámbito Propiedad Intelectual, uno del ámbito Tecnologías de la Información y uno del ámbito de la Secretaría General Técnica, designados por los Centros directivos del Departamento que desempeñen dichas competencias en éste, entre el personal de los mismos, perteneciente a grupos o categorías para los que se exija titulación superior, y que reúnan conocimientos específicos acreditados en materia de propiedad intelectual, tecnologías de la información y comunicaciones, Derecho administrativo, Derecho procesal, Derecho de las comunicaciones electrónicas o jurisdicción contencioso-administrativa. Los Centros directivos citados designarán, en el mismo acto, según los requisitos señalados, un suplente para cada uno de los vocales, a los efectos legalmente previstos en los supuestos de vacante, ausencia o enfermedad y, en general, cuando concurra alguna causa justificada.
+Reglamentariamente se determinará el funcionamiento de la Sección Segunda y el procedimiento para el ejercicio de las funciones que tiene atribuidas.
+Se modifica el apartado 4 por la disposición final 11.4 del Real Decreto-ley 17/2020, de 5 de mayo. Ref. BOE-A-2020-4832#df-11, en la redacción dada por el art. 11.10 de la Ley 14/2021, de 11 de octubre. Ref. BOE-A-2021-16477#ad-2
+ Se añade por el art. único.8 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta, para la aplicación del apartado 3, lo previsto en la disposición transitoria única de la citada Ley.
+ Se añade por el art. único.8 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 194
+
+Artículo 194. Funciones de mediación, arbitraje, determinación de tarifas y control.
+1. La Sección Primera de la Comisión de Propiedad Intelectual ejercerá su función de mediación en los siguientes términos:
+a) Colaborando en las negociaciones, previo sometimiento voluntario de las partes por falta de acuerdo, respecto de aquellas materias directamente relacionadas con la gestión colectiva de derechos de propiedad intelectual y para la autorización de la distribución por cable de una emisión de radiodifusión entre los titulares de los derechos de propiedad intelectual y las empresas de distribución por cable.
+b) Presentando, en su caso, propuestas a las partes.
+Se considerará que todas las partes aceptan la propuesta a que se refiere el párrafo anterior, si ninguna de ellas expresa su oposición en un plazo de tres meses. En este supuesto, la resolución de la Comisión surtirá los efectos previstos en la Ley 60/2003, de 23 de diciembre, de Arbitraje, y será revisable ante el orden jurisdiccional civil. La propuesta y cualquier oposición a la misma se notificarán a las partes, de conformidad con lo dispuesto en el capítulo II del título III de la Ley 39/2015, de 1 de octubre.
+2. La Sección Primera de la Comisión de Propiedad Intelectual actuará en su función de arbitraje:
+a) Dando solución, previo sometimiento voluntario de las partes, a los conflictos sobre materias directamente relacionadas con la gestión colectiva de derechos de propiedad intelectual.
+b) Fijando, a solicitud de la propia entidad de gestión afectada, de una asociación de usuarios, de una entidad de radiodifusión o de un usuario afectado especialmente significativo, a juicio de la Comisión, y previa aceptación de la otra parte, cantidades sustitutorias de las tarifas generales, a los efectos señalados en el apartado 4 del artículo 163, para lo que deberá tener en cuenta al menos los criterios mínimos de determinación de estas, previstos en el artículo 164.3.
+Lo determinado en este apartado se entenderá sin perjuicio de las acciones que puedan ejercitarse ante la jurisdicción competente. No obstante, el planteamiento de la controversia sometida a decisión arbitral ante la Sección impedirá a los Jueces y Tribunales conocer de la misma, hasta que haya sido dictada la resolución y siempre que la parte interesada lo invoque mediante excepción.
+3. La Sección Primera de la Comisión de Propiedad Intelectual ejercerá su función de determinación de las tarifas para la explotación de los derechos de gestión colectiva obligatoria, y para los derechos de gestión colectiva voluntaria que, respecto de la misma categoría de titulares, concurran con un derecho de remuneración sobre la misma obra o prestación.
+La Sección establecerá el importe de la remuneración exigida por la utilización de obras y demás prestaciones del repertorio de las entidades de gestión, la forma de pago y demás condiciones necesarias para hacer efectivos los derechos indicados en el párrafo anterior, a solicitud de la propia entidad de gestión afectada, de una asociación de usuarios, de una entidad de radiodifusión o de un usuario especialmente significativo, a juicio de la Sección, cuando no haya acuerdo entre ambas, en el plazo de seis meses desde el inicio formal de la negociación. En el ejercicio de esta función, la Sección Primera podrá solicitar informe previo de aquellos organismos públicos que ejerzan sus funciones en relación con los mercados o sectores económicos a los que afecten las tarifas a determinar, así como de las asociaciones o representantes de los usuarios correspondientes.
+En la determinación de estas tarifas, la Sección Primera observará, al menos, los criterios establecidos en el artículo 164.3. Asimismo, dichas decisiones se publicarán en el «Boletín Oficial del Estado», serán aplicables a partir del día siguiente al de la publicación, con alcance general para todos los titulares y obligados, respecto de la misma modalidad de uso de obras y prestaciones e idéntico sector de usuarios, y podrán ser recurridas ante la jurisdicción contencioso-administrativa.
+Asimismo, la Sección Primera podrá dictar resoluciones actualizando o desarrollando la metodología para la determinación de las tarifas generales referida en el artículo 164.4, previo informe de la Comisión Nacional de los Mercados y la Competencia.
+4. La Sección Primera de la Comisión de Propiedad Intelectual ejercerá su función de control velando por que las tarifas generales establecidas por las entidades de gestión en cumplimiento de sus obligaciones, sean equitativas y no discriminatorias, para lo que deberá valorar, entre otros aspectos, la aplicación de los criterios mínimos previstos en el artículo 164.3 en su determinación. En caso de apreciarse un incumplimiento de estas obligaciones, se comunicará esta circunstancia a la Comisión Nacional de los Mercados y la Competencia, a los efectos oportunos.
+5. El ámbito material de actuación de la Sección Primera de la Comisión de Propiedad Intelectual en el ejercicio de sus funciones de mediación y/o arbitraje señaladas en los apartados 1 y 2 del presente artículo podrá comprender, asimismo, los siguientes aspectos:
+a) Mediación para prestar asistencia, ayudar a alcanzar acuerdos y presentar propuestas en aquellos casos en que las partes encuentren dificultades relacionadas con alcanzar un acuerdo con la concesión de autorizaciones para poner a disposición obras audiovisuales en servicios de vídeo a la carta.
+b) Mediación o arbitraje en los conflictos relacionados con la obligación de transparencia en favor de los autores, artistas, intérpretes o ejecutantes regulada en el artículo 110, conforme a lo previsto legalmente sobre la transparencia respecto a la remuneración equitativa de los autores y artistas intérpretes o ejecutantes en los contratos de explotación, y con la acción de revisión prevista para autores, artistas, intérpretes o ejecutantes en los artículos 47 y 110.
+c) Mediación o arbitraje en los litigios relacionados con el acceso y retirada de obras por aplicación de la regulación legal del uso de contenidos protegidos por parte de prestadores de servicios para compartir contenidos en línea.
+d) Mediación en los conflictos que se generen entre una entidad de gestión colectiva y el operador de un servicio de retransmisión o entre el operador de un servicio de retransmisión y el organismo de radiodifusión en relación con la autorización para la retransmisión de emisiones.
+6. Reglamentariamente se determinará el procedimiento para el ejercicio de las funciones que la Sección Primera desarrollará de conformidad con lo dispuesto en los apartados anteriores.
+Se modifica el apartado 3, se renumera el apartado 5 como 6 y se añade un nuevo 5 por el art. 80.9 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-2
+ Se añade por el art. único.8 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.8 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 195
+
+Artículo 195. Función de salvaguarda de los derechos en el entorno digital.
+1. La Sección Segunda de la Comisión de Propiedad Intelectual ejercerá las funciones de salvaguarda de los derechos de propiedad intelectual frente a su vulneración por los responsables de servicios de la sociedad de información a través de un procedimiento cuyo objeto será el restablecimiento de la legalidad.
+2. El procedimiento de restablecimiento de la legalidad se dirigirá contra:
+a) Los prestadores de servicios de la sociedad de la información que vulneren derechos de propiedad intelectual, atendiendo la Sección Segunda para acordar o no el inicio del procedimiento a su nivel de audiencia en España, y al número de obras y prestaciones protegidas indiciariamente no autorizadas a las que es posible acceder a través del servicio o a su modelo de negocio.
+b) Los prestadores de servicios de la sociedad de la información que vulneren derechos de propiedad intelectual de la forma referida en el párrafo anterior, facilitando la descripción o la localización de obras y prestaciones que indiciariamente se ofrezcan sin autorización, desarrollando a tal efecto una labor activa y no neutral, y que no se limiten a actividades de mera intermediación técnica. En particular, se incluirá a quienes ofrezcan listados ordenados y clasificados de enlaces a las obras y prestaciones referidas anteriormente, con independencia de que dichos enlaces puedan ser proporcionados inicialmente por los destinatarios del servicio.
+c) Los prestadores de los servicios de la sociedad de la información de difusión de televisión por protocolo de Internet (IPTV) que vulneren derechos de propiedad intelectual, así como aquellos prestadores de servicios que faciliten el acceso a la difusión realizada por los anteriores, realizando una labor de intermediación activa y no neutral. En particular, se incluirá a los prestadores de servicios de la sociedad de la información que, como actividad principal, comercialicen electrónicamente cualquier dispositivo, producto, componente o presten algún servicio que permita acceder a la difusión emitida o facilitada por los anteriores.
+d) Los prestadores de servicios de la sociedad de la información que realicen alguna de las actividades comerciales en línea previstas en el apartado 2 del artículo 196 de la presente ley.
+3. El procedimiento se iniciará de oficio, previa denuncia del titular de los derechos de propiedad intelectual que se consideren vulnerados o de la persona que tuviera encomendado su ejercicio, debiendo éste aportar junto a la misma una prueba razonable del previo intento de requerimiento de retirada infructuoso al servicio de la sociedad de la información presuntamente infractor solicitando la retirada de los contenidos específicos ofrecidos sin autorización, siendo suficiente dirigir dicho requerimiento a la dirección electrónica que el prestador facilite al público a efectos de comunicarse con el mismo. Este requerimiento previo podrá considerarse cuando proceda, a efectos de la generación del conocimiento efectivo en los términos establecidos en los artículos 16 y 17 de la Ley 34/2002, de 11 de julio, siempre y cuando identifique exactamente la obra o prestación, al titular de los derechos correspondientes y, al menos, una ubicación donde la obra o prestación es ofrecida en el servicio de la sociedad de la información. En caso de que el prestador de servicios no facilite una dirección electrónica válida para la comunicación con el mismo no será exigible el intento de requerimiento previsto en este párrafo. El intento de requerimiento se considerará infructuoso si el prestador requerido no contesta o, incluso contestando, no retira o inhabilita el acceso a los contenidos correspondientes en un plazo de tres días desde la remisión del correspondiente requerimiento.
+Las entidades de gestión estarán legitimadas para instar este procedimiento en los términos de lo dispuesto en el artículo 150.
+Este procedimiento, que se desarrollará reglamentariamente, estará basado en los principios de celeridad y proporcionalidad y en el mismo serán de aplicación los derechos de defensa previstos en el artículo 53.2 de la Ley 39/2015, de 1 de octubre.
+La falta de resolución en el plazo reglamentariamente establecido producirá la caducidad del procedimiento.
+A efectos de concretar la previsión del artículo 4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, para el ámbito específico del procedimiento regulado en el presente artículo, tendrán la consideración de interesados, exclusivamente, el denunciante mencionado en el primer párrafo del presente apartado y el prestador de servicio de la sociedad de la información contra el que se ha dirigido la denuncia y el requerimiento previstos en el presente apartado. Sin perjuicio de lo anterior, la Sección Segunda podrá comunicar la existencia del procedimiento a los prestadores de servicios de intermediación, de los servicios de pagos electrónicos y de publicidad a los que hacen referencia los apartados siguientes. Dicha comunicación tendrá naturaleza informativa, sin que la misma otorgue a los prestadores de servicios la condición de interesados en el procedimiento.
+Las resoluciones dictadas por la Sección Segunda en este procedimiento ponen fin a la vía administrativa.
+4. La Sección Segunda podrá adoptar las medidas para que se interrumpa la prestación de un servicio de la sociedad de la información que vulnere derechos de propiedad intelectual o para retirar los contenidos que vulneren los citados derechos siempre que el prestador haya causado o sea susceptible de causar un daño patrimonial. Dichas medidas podrán comprender medidas técnicas y deberes de diligencia específicos exigibles al prestador infractor que tengan por objeto asegurar la cesación de la vulneración y evitar la reanudación de la misma.
+La Sección Segunda podrá extender las medidas de retirada o interrupción a otras obras o prestaciones protegidas suficientemente identificadas cuyos derechos representen las personas que participen como interesadas en el procedimiento, que correspondan a un mismo titular de derechos o que formen parte de un mismo tipo de obras o prestaciones, siempre que concurran hechos o circunstancias que revelen que las citadas obras o prestaciones son igualmente ofrecidas ilícitamente.
+Antes de proceder a la adopción de estas medidas, el prestador de servicios de la sociedad de la información deberá ser requerido a fin de que en un plazo no superior a las 48 horas pueda proceder a la retirada voluntaria de los contenidos declarados infractores o, en su caso, realice las alegaciones y proponga las pruebas que estime oportunas sobre la autorización de uso o la aplicabilidad de un límite al derecho de propiedad intelectual. Transcurrido el plazo anterior, en su caso, se practicará prueba en dos días y se dará traslado a los interesados para conclusiones en plazo máximo de cinco días. La Sección dictará resolución en el plazo máximo de tres días.
+La interrupción de la prestación del servicio o la retirada voluntaria de las obras y prestaciones no autorizadas tendrán valor de reconocimiento implícito de la referida vulneración de derechos de propiedad intelectual y pondrá fin al procedimiento.
+5. Las medidas previstas en el apartado anterior también se podrán adoptar, dentro de un procedimiento especial, cuando el titular del servicio de la sociedad de la información presuntamente infractor no cumpla con la obligación de informar sobre su nombre o denominación social establecida en el artículo 10.1.a) de la Ley 34/2002, de 11 julio, de servicios de la sociedad de la información y de comercio electrónico.
+En este caso, el procedimiento seguirá los trámites establecidos en el desarrollo reglamentario del apartado anterior, con las siguientes especialidades:
+a) La solicitud de iniciación no necesitará incluir datos relativos a la identificación del titular del servicio de la sociedad de la información presuntamente infractor.
+b) Previa verificación del incumplimiento de la obligación establecida en el artículo 10.1.a) de la Ley 34/2002, de 11 julio, se dictará acuerdo de inicio, donde se dejará constancia de dicha comprobación así como del desconocimiento de los datos de identificación de los responsables de los servicios de la sociedad de la información contra los que el procedimiento se dirige, por haber incumplido éstos su obligación de información.
+c) En caso de no procederse por el presunto infractor a la retirada voluntaria de los contenidos señalados en el acuerdo de inicio, y en caso de que el presunto infractor no efectúe alegaciones sobre el contenido del acuerdo de inicio en el plazo previsto, éste podrá ser considerado propuesta de resolución cuando contenga un pronunciamiento preciso acerca de la conducta infractora.
+d) Si mediante el acuerdo de inicio, considerado propuesta de resolución, se adoptasen las medidas previstas en el apartado anterior, su ejecución se realizará conforme a lo previsto en el apartado siguiente.
+6. En caso de falta de retirada voluntaria y a efectos de garantizar la efectividad de la resolución dictada, la Sección Segunda podrá requerir la colaboración necesaria de los prestadores de servicios de intermediación, de los servicios de pagos electrónicos y de publicidad, requiriéndoles para que suspendan el correspondiente servicio que faciliten al prestador infractor.
+En la adopción de las medidas de colaboración la Sección Segunda valorará la posible efectividad de aquellas dirigidas a bloquear la financiación del prestador de servicios de la sociedad de la información declarado infractor.
+El bloqueo del servicio de la sociedad de la información por parte de los proveedores de acceso de Internet deberá motivarse adecuadamente en consideración a su proporcionalidad, teniendo en cuenta la posible eficacia de las demás medidas al alcance.
+En el caso de prestarse el servicio utilizando un nombre de dominio bajo el código de país correspondiente a España (.es) u otro dominio de primer nivel cuyo registro esté establecido en España, la Sección Segunda notificará los hechos a la autoridad de registro a efectos de que cancele el nombre de dominio, que no podrá ser asignado nuevamente en un periodo de, al menos, seis meses.
+La falta de colaboración por los prestadores de servicios de intermediación, los servicios de pagos electrónicos o de publicidad se considerará como infracción de lo dispuesto en el artículo 11 de la Ley 34/2002, de 11 de julio.
+En todo caso, la ejecución de la medida de colaboración dirigida al prestador de servicios de intermediación correspondiente, ante el incumplimiento del requerimiento de retirada o interrupción, emitido conforme al apartado anterior, por parte del prestador de servicios de la sociedad de la información responsable de la vulneración, exigirá la previa autorización judicial, de acuerdo con el procedimiento regulado en el apartado segundo del artículo 122 bis de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+7. El incumplimiento de requerimientos de retirada de contenidos declarados infractores, que resulten de resoluciones finales adoptadas conforme a lo previsto en el apartado 4 anterior, por parte de un mismo prestador de servicios de la sociedad de la información de los descritos en el apartado 2 anterior, constituirá, desde la segunda vez que dicho incumplimiento tenga lugar, inclusive, una infracción administrativa muy grave sancionada con multa de entre 150.001 hasta 600.000 euros. La reanudación de actividades ilícitas por parte de un mismo prestador de servicios de la sociedad de la información también se considerará incumplimiento reiterado a los efectos de este apartado. Se entenderá por reanudación de la actividad ilícita el hecho de que el mismo responsable contra el que se inició el procedimiento explote de nuevo obras o prestaciones del mismo titular, aunque no se trate exactamente de las que empleara en la primera ocasión, previa a la retirada voluntaria de los contenidos. Incurrirán en estas infracciones los prestadores que, aun utilizando personas físicas o jurídicas interpuestas, reanuden la actividad infractora.
+Cuando así lo justifique la gravedad y repercusión social de la conducta infractora, la comisión de la infracción podrá llevar aparejada las siguientes consecuencias:
+a) La publicación de la resolución sancionadora, a costa del sancionado, en el 'Boletín Oficial del Estado', en dos periódicos nacionales o en la página de inicio del sitio de Internet del prestador durante un periodo de un año desde la notificación de la sanción, una vez que aquella tenga carácter firme, atendiendo a la repercusión social de la infracción cometida y la gravedad del ilícito.
+b) El cese de las actividades declaradas infractoras del prestador de servicios durante un período máximo de un año. Para garantizar la efectividad de esta medida, el órgano competente podrá requerir la colaboración necesaria de los prestadores de servicios de intermediación, de los servicios de pagos electrónicos y de publicidad, ordenándoles que suspendan el correspondiente servicio que faciliten al prestador infractor. En la adopción de las medidas de colaboración se valorará la posible efectividad de aquellas dirigidas a bloquear la financiación del prestador de servicios de la sociedad de la información declarado infractor. El bloqueo del servicio de la sociedad de la información por parte de los proveedores de acceso de Internet deberá motivarse específicamente, en consideración a su proporcionalidad y su efectividad estimada, teniendo en cuenta la posible eficacia de las demás medidas al alcance. La falta de colaboración se considerará como infracción de lo dispuesto en el artículo 11 de la Ley 34/2002, de 11 de julio. La ejecución de la medida de colaboración dirigida al prestador de servicios, con independencia de cuál sea su naturaleza, no requerirá la autorización judicial prevista en el artículo 122 bis de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+Cuando las infracciones hubieran sido cometidas por prestadores de servicios establecidos en Estados que no sean miembros de la Unión Europea o del Espacio Económico Europeo pero cuyos servicios se dirijan específicamente al territorio español, el órgano que hubiera impuesto la correspondiente sanción podrá ordenar a los prestadores de servicios de intermediación que tomen las medidas necesarias para impedir el acceso desde España a los servicios ofrecidos por aquellos por un período máximo de un año.
+El ejercicio de la potestad sancionadora se regirá por el procedimiento establecido en el título IV de la Ley 39/2015, de 1 de octubre, en la ley 40/2015, de 1 de octubre y en su normativa de desarrollo.
+La imposición de las sanciones corresponderá al Ministro de Cultura y Deporte, órgano competente a efectos de lo dispuesto en los artículos 35, 36 y concordantes de la Ley 34/2002, de 11 de julio.
+El instructor del procedimiento sancionador podrá incorporar al expediente las actuaciones que formasen parte de los procedimientos relacionados tramitados por la Sección Segunda en ejercicio de sus funciones de salvaguarda de los derechos de propiedad intelectual establecidas en el apartado anterior.
+8. Lo dispuesto en este artículo se entiende sin perjuicio de las acciones civiles, penales y contencioso-administrativas que, en su caso, sean procedentes.
+9. Podrán desarrollarse códigos de conducta voluntarios en lo referido a las medidas de colaboración de los servicios de intermediación, los servicios de pagos electrónicos o de publicidad previstas en este artículo. La Administración podrá promover la elaboración de dichos códigos.
+10. El tratamiento llevado a cabo por la Sección Segunda de los datos relacionados con los detalles e informaciones derivados de las actuaciones realizadas en el ámbito de sus funciones, se efectuará de conformidad con lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y, en particular, en su artículo 7.5 si estuvieran referidos a la comisión de infracciones penales o administrativas.
+Se modifica por la disposición final 11.5 a 7 del Real Decreto-ley 17/2020, de 5 de mayo. Ref. BOE-A-2020-4832#df-11, en la redacción dada por el art. 11.10 de la Ley 14/2021, de 11 de octubre. Ref. BOE-A-2021-16477#ad-2
+ Se añade por el art. único.8 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.8 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+## TÍTULO VI
+
+Protección de las medidas tecnológicas y de la información para la gestión de derechos
+Se modifica por el art. único.9 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.9 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 196
+
+Artículo 196. Medidas tecnológicas: actos de elusión y actos preparatorios.
+1. Los titulares de derechos de propiedad intelectual reconocidos en esta ley podrán ejercitar las acciones previstas en el título I de su libro tercero contra quienes, a sabiendas o teniendo motivos razonables para saberlo, eludan cualquier medida tecnológica eficaz.
+2. Las mismas acciones podrán ejercitarse contra quienes fabriquen, importen, distribuyan, vendan, alquilen, publiciten para la venta o el alquiler o posean con fines comerciales cualquier dispositivo, producto o componente, así como contra quienes presten algún servicio que, respecto de cualquier medida tecnológica eficaz:
+a) Sea objeto de promoción, publicidad o comercialización con la finalidad de eludir la protección, o
+b) Solo tenga una finalidad o uso comercial limitado al margen de la elusión de la protección, o
+c) Esté principalmente concebido, producido, adaptado o realizado con la finalidad de permitir o facilitar la elusión de la protección.
+3. Se entiende por medida tecnológica toda técnica, dispositivo o componente que, en su funcionamiento normal, esté destinado a impedir o restringir actos, referidos a obras o prestaciones protegidas, que no cuenten con la autorización de los titulares de los correspondientes derechos de propiedad intelectual.
+Las medidas tecnológicas se consideran eficaces cuando el uso de la obra o de la prestación protegida esté controlado por los titulares de los derechos mediante la aplicación de un control de acceso o un procedimiento de protección como por ejemplo, codificación, aleatorización u otra transformación de la obra o prestación o un mecanismo de control de copiado que logre este objetivo de protección.
+4. Lo dispuesto en los apartados anteriores no es de aplicación a las medidas tecnológicas utilizadas para la protección de programas de ordenador, que quedarán sujetas a su propia normativa.
+Se añade por el art. único.9 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.9 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 197
+
+Artículo 197. Límites a la propiedad intelectual y medidas tecnológicas.
+1. Los titulares de derechos sobre obras o prestaciones protegidas con medidas tecnológicas eficaces deberán facilitar a los beneficiarios de los límites que se citan a continuación los medios adecuados para disfrutar de ellos, conforme a su finalidad, siempre y cuando tales beneficiarios tengan legalmente acceso a la obra o prestación de que se trate. Tales límites son los siguientes:
+a) Límite de copia privada en los términos previstos en el artículo 31.2.
+b) Límite relativo a fines de seguridad pública, procedimientos oficiales o en beneficio de personas con discapacidad en los términos previstos en los artículos 31 bis y 31 ter.
+c) Límite relativo a la cita e ilustración con fines educativos o de investigación científica en los términos previstos en el artículo 32.2, 3 y 4.
+d) Límite relativo a la ilustración de la enseñanza o de investigación científica o para fines de seguridad pública o a efectos de un procedimiento administrativo o judicial, todo ello en relación con las bases de datos y en los términos previstos en el artículo 34.2.b) y c).
+e) Límite relativo al registro de obras por entidades radiodifusoras en los términos previstos en el artículo 36.3.
+f) Límite relativo a las reproducciones de obras con fines de investigación o conservación realizadas por determinadas instituciones en los términos previstos en el artículo 37.1.
+g) Límite relativo a la extracción con fines ilustrativos de enseñanza o de investigación científica de una parte sustancial del contenido de una base de datos y de una extracción o una reutilización para fines de seguridad pública o a los efectos de un procedimiento administrativo o judicial del contenido de una base de datos protegida por el derecho «sui géneris» en los términos previstos en el artículo 135.1.b) y c).
+2. Cuando los titulares de derechos de propiedad intelectual no hayan adoptado medidas voluntarias, incluidos los acuerdos con otros interesados, para el cumplimiento del deber previsto en el apartado anterior, los beneficiarios de dichos límites podrán acudir ante la jurisdicción civil.
+Cuando los beneficiarios de dichos límites sean consumidores o usuarios, en los términos definidos en el artículo 3 del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre, en su defensa podrán actuar las entidades legitimadas en el artículo 11.2 y 3 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+3. Disfrutarán de la protección jurídica prevista en el artículo 196.1 tanto las medidas tecnológicas adoptadas voluntariamente por los titulares de los derechos de propiedad intelectual, incluidas las derivadas de acuerdos con otros interesados, como, en su caso, las incluidas en la correspondiente resolución judicial.
+4. Lo dispuesto en los apartados anteriores no impedirá que los titulares de derechos sobre obras o prestaciones adopten las soluciones que estimen adecuadas, incluyendo, entre otras, medidas tecnológicas, respecto del número de reproducciones en concepto de copia privada. En estos supuestos, los beneficiarios de lo previsto en el artículo 31.2 no podrán exigir el levantamiento de las medidas tecnológicas que, en su caso, hayan adoptado los titulares de derechos en virtud de este apartado.
+5. Lo establecido en los apartados anteriores de este artículo no será de aplicación a obras o prestaciones que se hayan puesto a disposición del público con arreglo a lo convenido por contrato, de tal forma que cualquier persona pueda acceder a ellas desde el lugar y momento que elija.
+Se añade por el art. único.9 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.9 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 198
+
+Artículo 198. Protección de la información para la gestión de derechos.
+1. Los titulares de derechos de propiedad intelectual podrán ejercitar las acciones previstas en el título I del libro tercero contra quienes, a sabiendas y sin autorización, lleven a cabo cualquiera de los actos que seguidamente se detallan, y que sepan o tengan motivos razonables para saber que, al hacerlo, inducen, permiten, facilitan o encubren la infracción de alguno de aquellos derechos:
+a) Supresión o alteración de toda información para la gestión electrónica de derechos.
+b) Distribución, importación para distribución, emisión por radiodifusión, comunicación o puesta a disposición del público de obras o prestaciones protegidas en las que se haya suprimido o alterado sin autorización la información para la gestión electrónica de derechos.
+2. A los efectos del apartado anterior, se entenderá por información para la gestión de derechos toda información facilitada por los titulares que identifique la obra o prestación protegida, al autor o cualquier otro derechohabiente, o que indique las condiciones de utilización de la obra o prestación protegida, así como cualesquiera números o códigos que representen dicha información, siempre y cuando estos elementos de información vayan asociados a un ejemplar de una obra o prestación protegida o aparezcan en conexión con su comunicación al público.
+Se añade por el art. único.9 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.9 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+## LIBRO IV
+
+Del ámbito de aplicación de la ley
+Se modifica por el art. único.10 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica por el art. único.10 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Artículo 199
+
+Artículo 199. Autores.
+1. Se protegerán, con arreglo a esta ley, los derechos de propiedad intelectual de los autores españoles, así como de los autores nacionales de otros Estados miembros de la Unión Europea.
+Gozarán, asimismo, de estos derechos:
+a) Los nacionales de terceros países con residencia habitual en España.
+b) Los nacionales de terceros países que no tengan su residencia habitual en España, respecto de sus obras publicadas por primera vez en territorio español o dentro de los treinta días siguientes a que lo hayan sido en otro país. No obstante, el Gobierno podrá restringir el alcance de este principio en el caso de extranjeros que sean nacionales de Estados que no protejan suficientemente las obras de autores españoles en supuestos análogos.
+2. Todos los autores de obras audiovisuales, cualquiera que sea su nacionalidad, tienen derecho a percibir una remuneración proporcional por la proyección de sus obras en los términos del artículo 90, apartados 3 y 4. No obstante, cuando se trate de nacionales de Estados que no garanticen un derecho equivalente a los autores españoles, el Gobierno podrá determinar que las cantidades satisfechas por los exhibidores a las entidades de gestión por este concepto sean destinadas a los fines de interés cultural que se establezcan reglamentariamente.
+3. En todo caso, los nacionales de terceros países gozarán de la protección que les corresponda en virtud de los Convenios y Tratados internacionales en los que España sea parte y, en su defecto, estarán equiparados a los autores españoles cuando estos, a su vez, lo estén a los nacionales en el país respectivo.
+4. Para las obras cuyo país de origen sea con arreglo al Convenio de Berna un país tercero y cuyo autor no sea nacional de un Estado miembro de la Unión Europea, el plazo de protección será el mismo que el otorgado en el país de origen de la obra sin que en ningún caso pueda exceder del previsto en esta ley para las obras de los autores.
+5. Se reconoce el derecho moral del autor, cualquiera que sea su nacionalidad.
+Se añade por el art. único.10 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018 y su anterior numeración era art. 163.
+ Se añade por el art. único.10 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Su anterior numeración era art. 163.
+
+### Artículo 200
+
+Artículo 200. Artistas intérpretes o ejecutantes.
+1. Se protegerán los derechos reconocidos en esta ley a los artistas intérpretes o ejecutantes españoles cualquiera que sea el lugar de su interpretación o ejecución, así como los correspondientes a los artistas intérpretes o ejecutantes nacionales de otros Estados miembros de la Unión Europea.
+2. Los artistas intérpretes o ejecutantes nacionales de terceros países gozarán de los mismos derechos reconocidos en esta ley en cualquiera de los siguientes casos:
+a) Cuando tengan su residencia habitual en España.
+b) Cuando la interpretación o ejecución se efectúe en territorio español.
+c) Cuando la interpretación o ejecución sea grabada en un fonograma o en un soporte audiovisual protegidos conforme a lo dispuesto en esta ley.
+d) Cuando la interpretación o ejecución, aunque no haya sido grabada, se incorpore a una emisión de radiodifusión protegida conforme a lo dispuesto en esta ley.
+3. En todo caso, los artistas intérpretes o ejecutantes nacionales de terceros países gozarán de la protección que corresponda en virtud de los Convenios y Tratados internacionales en los que España sea parte y, en su defecto, estarán equiparados a los artistas intérpretes o ejecutantes españoles cuando estos, a su vez, lo estén a los nacionales en el país respectivo.
+4. Los plazos de protección previstos en el artículo 112 serán igualmente aplicables a los mencionados titulares que no sean nacionales de la Unión Europea siempre que tengan garantizada su protección en España mediante algún Convenio internacional. No obstante, sin perjuicio de las obligaciones internacionales que correspondan, el plazo de protección expirará en la fecha prevista en el país del que sea nacional el titular sin que, en ningún caso, la duración pueda exceder de la establecida en el artículo anteriormente mencionado.
+Se añade por el art. único.10 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018 y su anterior numeración era art. 164.
+ Se añade por el art. único.10 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Su anterior numeración era art. 164.
+
+### Artículo 201
+
+Artículo 201. Productores, realizadores de meras fotografías y editores.
+1. Los productores de fonogramas y los de obras o grabaciones audiovisuales, los realizadores de meras fotografías y los editores de las obras mencionadas en el artículo 129 serán protegidos con arreglo a esta ley en los siguientes casos:
+a) Cuando sean ciudadanos españoles o empresas domiciliadas en España, así como cuando sean ciudadanos de otro Estado miembro de la Unión Europea o empresas domiciliadas en otro Estado miembro de la Unión Europea.
+b) Cuando sean nacionales de terceros países y publiquen en España por primera vez o, dentro de los treinta días siguientes a que lo hayan sido en otro país, las obras mencionadas. No obstante, el Gobierno podrá restringir el alcance de este principio, en el caso de nacionales de Estados que no protejan suficientemente las obras o publicaciones de españoles en supuestos análogos.
+2. En todo caso, los titulares a que se refiere el párrafo b) del apartado anterior gozarán de la protección que les corresponde en virtud de los Convenios y Tratados internacionales en los que España sea parte y, en su defecto, estarán equiparados a los productores de fonogramas y a los de obras o grabaciones audiovisuales, a los realizadores de meras fotografías y a los editores de las obras mencionadas en el artículo 129, cuando estos, a su vez, lo estén a los nacionales en el país respectivo.
+3. Los plazos de protección previstos en los artículos 119 y 125 serán igualmente aplicables a los mencionados titulares que no sean nacionales de la Unión Europea siempre que tengan garantizada su protección en España mediante algún Convenio internacional. No obstante, sin perjuicio de las obligaciones internacionales que correspondan, el plazo de protección expirará en la fecha prevista en el país del que sea nacional el titular sin que, en ningún caso, la duración pueda exceder de la establecida en los artículos anteriormente mencionados.
+Se añade por el art. único.10 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018 y su anterior numeración era art. 165.
+ Se añade por el art. único.10 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Su anterior numeración era art. 165.
+
+### Artículo 202
+
+Artículo 202. Entidades de radiodifusión.
+1. Las entidades de radiodifusión domiciliadas en España, o en otro Estado miembro de la Unión Europea, disfrutarán respecto de sus emisiones y transmisiones de la protección establecida en esta ley.
+2. En todo caso, las entidades de radiodifusión domiciliadas en terceros países gozarán de la protección que les corresponda en virtud de los Convenios y Tratados internacionales en los que España sea parte.
+3. Los plazos de protección previstos en el artículo 127 serán igualmente aplicables a los mencionados titulares que no sean nacionales de la Unión Europea siempre que tengan garantizada su protección en España mediante algún Convenio internacional. No obstante, sin perjuicio de las obligaciones internacionales que correspondan, el plazo de protección expirará en la fecha prevista en el país del que sea nacional el titular sin que, en ningún caso, la duración pueda exceder de la establecida en el artículo anteriormente mencionado.
+Se añade por el art. único.10 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018 y su anterior numeración era art. 166.
+ Se añade por el art. único.10 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Su anterior numeración era art. 166.
+
+### Artículo 203
+
+Artículo 203. Beneficiarios de la protección del derecho “sui generis”.
+1. El derecho contemplado en el artículo 133 se aplicará a las bases de datos cuyos fabricantes o derechohabientes sean nacionales de un Estado miembro o tengan su residencia habitual en el territorio de la Unión Europea.
+2. El apartado 1 del presente artículo se aplicará también a las sociedades y empresas constituidas con arreglo a la legislación de un Estado miembro y que tengan su sede oficial, administración central o centro principal de actividades en la Unión Europea; no obstante, si la sociedad o empresa tiene en el mencionado territorio únicamente su domicilio social, sus operaciones deberán estar vinculadas de forma efectiva y continua con la economía de un Estado miembro.
+Se añade por el art. único.10 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 2/2018 y su anterior numeración era art. 167.
+ Se añade por el art. único.10 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Su anterior numeración era art. 167.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Depósito legal.
+El depósito legal de las obras de creación tradicionalmente reconocido en España se regirá por las normas reglamentarias vigentes o que se dicten en el futuro por el Gobierno, sin perjuicio de las facultades que, en su caso, correspondan a las Comunidades Autónomas.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Intercambio de información entre autoridades competentes europeas.
+1. La Administración competente conforme al artículo 155 responderá, sin retrasos injustificados, a las solicitudes de información debidamente razonadas que le efectúe una autoridad competente de otro Estado miembro en relación con la aplicación de la presente ley, en particular con las actividades de las entidades de gestión o de los operadores de gestión independientes que tengan establecimiento en España.
+2. La Administración competente conforme al artículo 155 dará respuesta motivada en el plazo de tres meses a las solicitudes efectuadas por autoridades competentes de otros Estados miembros de la Unión Europea para adoptar, en el marco de sus competencias, medidas adecuadas contra una entidad de gestión que tenga establecimiento en España por las infracciones de la presente ley que hubiera cometido en el desarrollo de sus actividades en el Estado miembro solicitante.
+Se añade por el art. único.11 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que esta disposición ya fue añadida por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.11 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se deroga por la disposición derogatoria. a) de la Ley 3/2008, de 23 de diciembre. Ref. BOE-A-2008-20801.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Revisión de las cantidades del artículo 25.5.
+(Derogada)
+Se deroga por la disposición derogatoria única del Real Decreto-ley 12/2017, de 3 de julio. Ref. BOE-A-2017-7718
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Periodicidad de la remuneración del artículo 90.3 y deslegalización.
+La puesta a disposición de los autores de las cantidades recaudadas en concepto de remuneración proporcional a los ingresos, que se establece en el artículo 90.3, se efectuará semanalmente.
+El Gobierno, a propuesta del Ministerio de Cultura, podrá modificar dicho plazo.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Notificaciones en el procedimiento de salvaguarda de los derechos de propiedad intelectual.
+1. El Ministerio de Educación, Cultura y Deporte, en el ámbito de sus competencias, velará por la salvaguarda de los derechos de propiedad intelectual frente a su vulneración por los responsables de servicios de la sociedad de información en los términos previstos en los artículos 8 y concordantes de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico.
+2. En los procedimientos de salvaguarda de los derechos de propiedad intelectual frente a su vulneración por los responsables de servicios de la sociedad de la información, cuya competencia esté atribuida al Ministerio de Educación, Cultura y Deporte, cuando concurran los supuestos previstos en el artículo 59.5 de la Ley 30/1992, de 26 de noviembre, o el domicilio conocido del interesado o lugar indicado a efectos de notificaciones se encuentre fuera del territorio de la Unión Europea, la práctica de la notificación se hará exclusivamente mediante un anuncio publicado en el "Boletín Oficial del Estado", en los términos establecidos en dicho artículo.
+3. No obstante, en los supuestos previstos en el apartado 6 del artículo 59 de la Ley 30/1992, de 26 de noviembre, la notificación del acto podrá sustituirse por su publicación en el "Boletín Oficial del Estado", en particular, cuando tenga por destinatarios a prestadores de servicios de intermediación de la sociedad de la información que deban colaborar para el eficaz cumplimiento de las resoluciones que se adopten.
+4. En los supuestos contemplados en los dos apartados precedentes, la publicación en "Boletín Oficial del Estado" irá acompañada de un mensaje que advierta de esta circunstancia dirigido a la dirección de correo electrónico que el prestador de servicios de la sociedad de la información facilite a efectos de la comunicación con el mismo, de acuerdo con lo dispuesto en la letra a) del apartado 1 del artículo 10 de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico o de norma extranjera aplicable, siempre que dicha dirección de correo electrónico se facilite por medios electrónicos de manera permanente, fácil, directa y gratuita. En caso de no facilitarse tal dirección de correo electrónico en las condiciones descritas no será exigible lo dispuesto en este párrafo.
+Transcurridos diez días naturales desde la publicación en el «Boletín Oficial del Estado», se entenderá que la notificación ha sido practicada, dándose por cumplido dicho trámite y continuándose con el procedimiento.
+5. Cuando un prestador de servicios de la sociedad de la información, al que sea de aplicación la Ley 34/2002, de 11 de julio, de acuerdo con lo dispuesto en sus artículos 2 a 4, que deba ser considerado interesado en un procedimiento tramitado al amparo del artículo 195, no se identificara en los términos establecidos en el artículo 10 de la Ley 34/2002, de 11 de julio, y, una vez realizadas las actuaciones de identificación razonables al alcance de la Sección Segunda, estas no hubieran tenido como resultado una identificación suficiente, el procedimiento podrá iniciarse considerándose interesado, hasta tanto no se identifique y persone en el procedimiento, el servicio de la sociedad de la información facilitado por el prestador no identificado. Esta circunstancia se hará constar así en el expediente, siendo de aplicación las previsiones de publicación en el “Boletín Oficial del Estado” establecidas en esta disposición y, en su caso, las medidas de colaboración y sancionadoras previstas en el artículo 195 en caso de ausencia de retirada voluntaria al citado servicio de la sociedad de la información.
+Se modifica el apartado 5 por el art. único.12 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se modifica el apartado 5 por el art. único.12 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Se modifica por el art. 1.24 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+ Se adiciona por la disposición final 43ª. 3 de la Ley 2/2011, de 4 de marzo.Ref. BOE-A-2011-4117.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Obras consideradas huérfanas conforme a la legislación de otro Estado miembro de la Unión Europea.
+Las obras consideradas huérfanas conforme a la legislación de otro Estado miembro de la Unión Europea, dictada en transposición de lo dispuesto en la Directiva 2012/28/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre ciertos usos autorizados de las obras huérfanas, tendrán asimismo reconocida dicha naturaleza en España a los efectos de lo dispuesto en el artículo 37 bis.
+Se añade por el art. 1.25 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Derechos adquiridos.
+Las modificaciones introducidas por esta Ley, que perjudiquen derechos adquiridos según la legislación anterior, no tendrán efecto retroactivo, salvo lo que se establece en las disposiciones siguientes.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Derechos de personas jurídicas protegidos por la Ley de 10 de enero de 1879 sobre Propiedad Intelectual.
+Las personas jurídicas que en virtud de la Ley de 10 de enero de 1879 sobre Propiedad Intelectual hayan adquirido a título originario la propiedad intelectual de una obra, ejercerán los derechos de explotación por el plazo de ochenta años desde su publicación.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Actos y contratos celebrados según la Ley de 10 de enero de 1879 sobre Propiedad Intelectual.
+Los actos y contratos celebrados bajo el régimen de la Ley de 10 de enero de 1879 sobre Propiedad Intelectual surtirán todos sus efectos de conformidad con la misma, pero serán nulas las cláusulas de aquéllos por las que se acuerde la cesión de derechos de explotación respecto del conjunto de las obras que el autor pudiere crear en el futuro, así como por las que el autor se comprometa a no crear alguna obra en el futuro.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Autores fallecidos antes del 7 de diciembre de 1987.
+Los derechos de explotación de las obras creadas por autores fallecidos antes del 7 de diciembre de 1987 tendrán la duración prevista en la Ley de 10 de enero de 1879 sobre Propiedad Intelectual.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Aplicación de los artículos 38 y 39 de la Ley de 10 de enero de 1879 sobre Propiedad Intelectual.
+Sin perjuicio de lo previsto en la disposición anterior a los autores cuyas obras estuvieren en dominio público, provisional o definitivamente, de acuerdo con lo dispuesto en los artículos 38 y 39 de la Ley de 10 de enero de 1879 sobre Propiedad Intelectual les será de aplicación lo dispuesto en la presente Ley, sin perjuicio de los derechos adquiridos por otras personas al amparo de la legislación anterior.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Aplicabilidad de los artículos 14 a 16 para autores de obras anteriores a la Ley de 11 de noviembre de 1987, de Propiedad Intelectual.
+Lo dispuesto en los artículos 14 a 16 de esta Ley será de aplicación a los autores de las obras creadas antes de la entrada en vigor de la Ley 22/1987, de 11 de noviembre, de Propiedad Intelectual.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Reglamento de 3 de septiembre de 1880 para la ejecución de la Ley de 10 de enero de 1879 sobre Propiedad Intelectual.
+El Reglamento de 3 de septiembre de 1880 para la ejecución de la Ley de 10 de enero de 1879 sobre Propiedad Intelectual y demás normas reglamentarias en materia de propiedad intelectual continuará en vigor, siempre que no se oponga a lo establecido en la presente Ley.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Regulación de situaciones especiales en cuanto a programas de ordenador.
+Las disposiciones de la presente Ley serán aplicables a los programas de ordenador creados con anterioridad al 25 de diciembre de 1993, sin perjuicio de los actos ya realizados y de los derechos ya adquiridos antes de tal fecha.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Aplicación de la remuneración equitativa por alquiler a los contratos celebrados antes del 1 de julio de 1994.
+Respecto de los contratos celebrados antes del 1 de julio de 1994, el derecho a una remuneración equitativa por alquiler, sólo se aplicará si los autores o los artistas intérpretes o ejecutantes o los representantes de los mismos han cursado una solicitud a tal fin, de acuerdo con lo previsto en la presente Ley, con anterioridad al 1 de enero de 1997.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Derechos adquiridos en relación con determinados derechos de explotación.
+Lo dispuesto en la presente Ley acerca de los derechos de distribución, fijación, reproducción y comunicación al público se entenderá sin perjuicio de los actos de explotación realizados y contratos celebrados antes del 1 de enero de 1995, así como sin perjuicio de lo establecido en el párrafo c) del artículo 99.
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima. Regulación de situaciones especiales en relación con la aplicación temporal de las disposiciones relativas a la comunicación al público vía satélite.
+1. En los contratos de coproducción internacional celebrados antes del 1 de enero de 1995 entre un coproductor de un Estado miembro y uno o varios coproductores de otros Estados miembros o de países terceros, el coproductor, o su cesionario, que desee otorgar autorización de comunicación al público vía satélite deberá obtener el consentimiento previo del titular del derecho de exclusividad, con independencia de que este último sea un coproductor o un cesionario, si se dan conjuntamente las siguientes circunstancias:
+a) Que el contrato establezca expresamente un sistema de división de los derechos de explotación entre los coproductores por zonas geográficas para todos los medios de difusión al público sin establecer distinción entre el régimen aplicable a la comunicación vía satélite y a los demás medios de comunicación.
+b) Que la comunicación al público vía satélite de la coproducción implique un perjuicio para la exclusividad, en particular para la exclusividad lingüística, de uno de los coproductores o de sus cesionarios en un territorio determinado.
+2. La aplicación de lo previsto en los artículos 106 a 108, 115 y 116, 122, y 126 de esta Ley se entenderá sin perjuicio de los pactos de explotación realizados y contratos celebrados antes del 14 de octubre de 1995.
+3. Las disposiciones relativas a la comunicación al público vía satélite serán de aplicación a todos los fonogramas, actuaciones, emisiones y primeras fijaciones de grabaciones audiovisuales que el 1 de julio de 1994 estuviesen aún protegidas por la legislación de los Estados miembros sobre derechos de propiedad intelectual o que en dicha fecha cumplan los criterios necesarios para la protección en virtud de las referidas disposiciones.
+
+### Disposición transitoria duodécima
+
+Disposición transitoria duodécima. Aplicación temporal de las disposiciones relativas a radiodifusión vía satélite.
+1. Los derechos a que se refieren los artículos 106 a 108, 115 y 116, 122, y 126 de esta Ley se regirán, en lo que resulte aplicable, por la disposición transitoria décima y por la disposición transitoria novena.
+2. A los contratos de explotación vigentes el 1 de enero de 1995 les será plenamente aplicable lo establecido en esta Ley en relación con el derecho de comunicación al público vía satélite a partir del 1 de enero del 2000.
+3. Las disposiciones a las que se refiere el apartado 3 de la disposición transitoria undécima no serán de aplicación a los contratos vigentes el 14 de octubre de 1995 cuya extinción vaya a producirse antes del 1 de enero del año 2000. En dicha fecha las partes podrán renegociar las condiciones del contrato con arreglo a lo dispuesto en tales disposiciones.
+
+### Disposición transitoria decimotercera
+
+Disposición transitoria decimotercera. Regulación de situaciones especiales en cuanto al plazo de protección.
+1. La presente Ley no afectará a ningún acto de explotación realizado antes del 1 de julio de 1995. Los derechos de propiedad intelectual que se establezcan en aplicación de esta Ley no generarán pagos por parte de quienes hubiesen emprendido de buena fe la explotación de las obras y prestaciones correspondientes en el momento en que dichas obras eran de dominio público.
+2. Los plazos de protección contemplados en esta Ley se aplicarán a todas las obras y prestaciones que estén protegidas en España o al menos en un Estado miembro de la Unión Europea el 1 de julio de 1995 en virtud de las correspondientes disposiciones nacionales en materia de derechos de propiedad intelectual, o que cumplan los criterios para acogerse a la protección de conformidad con las disposiciones que regulan en esta Ley el derecho de distribución, en cuanto se refiere a obras y prestaciones, así como los derechos de fijación, reproducción y comunicación al público, en cuanto se refieren a prestaciones.
+
+### Disposición transitoria decimocuarta
+
+Disposición transitoria decimocuarta. Aplicación de las transitorias del Código Civil.
+En lo no previsto en las presentes disposiciones serán de aplicación las transitorias del Código Civil.
+
+### Disposición transitoria decimoquinta
+
+Disposición transitoria decimoquinta. Aplicación de la protección prevista en el Libro I, a las bases de datos finalizadas antes del 1 de enero de 1998.
+La protección prevista en la presente Ley, en lo que concierne al derecho de autor, se aplicará también a las bases de datos finalizadas antes del 1 de enero de 1998, siempre que cumplan en la mencionada fecha los requisitos exigidos por esta Ley, respecto de la protección de bases de datos por el derecho de autor.
+Se añade por el art. 7 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Disposición transitoria decimosexta
+
+Disposición transitoria decimosexta. Aplicación de la protección prevista en el Libro II, en lo relativo al derecho "sui generis" a las bases de datos finalizadas dentro de los quince años anteriores al 1 de enero de 1998.
+1. La protección prevista en el artículo 133 de la presente Ley, en lo que concierne al derecho «sui generis», se aplicará igualmente a las bases de datos cuya fabricación se haya terminado durante los quince años precedentes al 1 de enero de 1998 siempre que cumplan en dicha fecha los requisitos exigidos en el artículo 133 de la presente Ley.
+2. El plazo de los quince años de protección sobre las bases de datos a las que se refiere el apartado anterior se contará a partir del 1 de enero de 1998.
+Se añade por el art. 7 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Disposición transitoria decimoséptima
+
+Disposición transitoria decimoséptima. Actos concluidos y derechos adquiridos antes del 1 de enero de 1998 en relación con la protección de las bases de datos.
+La protección prevista en las disposiciones transitorias decimoquinta y decimosexta se entenderá sin perjuicio de los actos concluidos y de los derechos adquiridos antes del 1 de enero de 1998.
+Se añade por el art. 7 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Disposición transitoria decimoctava
+
+Disposición transitoria decimoctava. Aplicación a las bases de datos finalizadas entre el 1 de enero y el 1 de abril de 1998 de la protección prevista en el Libro I y en el Libro II, respecto al derecho «sui generis».
+La protección prevista en la presente Ley en lo que concierne al derecho de autor, así como la establecida en el artículo 133 de la misma, respecto al derecho «sui generis» se aplicará asimismo a las bases de datos finalizadas durante el período comprendido entre el 1 de enero y el 1 de abril de 1998.
+Se añade por el art. 7 de la Ley 5/1998, de 6 de marzo. Ref. BOE-A-1998-5568.
+
+### Disposición transitoria decimonovena
+
+Disposición transitoria decimonovena. Duración de los derechos de los productores de fonogramas.
+Los derechos de explotación de los productores de fonogramas que estuvieran vigentes el 22 de diciembre de 2002 conforme a la legislación aplicable en ese momento tendrán la duración prevista en el artículo 119.
+Se añade por el art. único.31 de la Ley 23/2006, de 7 de julio.Ref. Ref. BOE-A-2006-12308.
+
+### Disposición transitoria vigésima
+
+Disposición transitoria vigésima.
+El Real Decreto a que se refiere el apartado segundo del artículo 37 del Texto Refundido de la Ley de Propiedad Intelectual deberá ser promulgado en el plazo máximo de un año desde la entrada en vigor de esta Ley.
+Hasta que se apruebe el Real Decreto a que se refiere el apartado anterior, la cuantía de la remuneración será de 0,2 euros por cada ejemplar de obra adquirido con destino al préstamo en los establecimientos citados en dicho apartado.
+Asimismo, en este período, el Estado, las comunidades autónomas y las corporaciones locales podrán acordar los mecanismos de colaboración necesarios para el cumplimiento de las obligaciones de remuneración que afectan a establecimientos de titularidad pública.
+Se añade por la disposición final 1.4 de la Ley 10/2007, de 22 de junio. Ref. BOE-A-2007-12351.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 224 de 18 de septiembre de 2007. Ref. BOE-A-2007-16476.
+ Se añade por el art. único.31 de la Ley 23/2006, de 7 de julio. Ref. BOE-A-2006-12308.
+
+### Disposición transitoria vigésima primera
+
+Disposición transitoria vigésima primera. Aplicación temporal de las disposiciones relativas a las composiciones musicales con letra, a las obras huérfanas y a la cesión de derechos del artista intérprete o ejecutante al productor de fonogramas.
+1. El párrafo segundo del artículo 28.1 se aplicará sólo a las composiciones musicales con letra de las que al menos la composición musical o la letra estén protegidas en España o al menos en un Estado miembro de la Unión Europea el 1 de noviembre de 2013 y a las composiciones musicales con letra que se creen después de esta fecha.
+La protección prevista en el párrafo anterior se entenderá sin perjuicio de los actos concluidos y de los derechos adquiridos antes del 1 de noviembre de 2013.
+2. El artículo 37 bis se aplicará con respecto a todas las obras y fonogramas que estén protegidos por la legislación de los Estados miembros de la Unión Europea en materia de derechos de autor a 29 de octubre de 2014 o en fecha posterior, sin perjuicio de los actos celebrados y de los derechos adquiridos antes de dicha fecha.
+3. Los artículos 110 bis, 112 y 119 se aplicarán a la grabación de interpretaciones o ejecuciones y a los fonogramas con respecto a los cuales el artista intérprete o ejecutante y el productor de los fonogramas gocen de protección, a fecha 1 de noviembre de 2013, conforme a la legislación aplicable antes de esa fecha, y a la grabación de interpretaciones o ejecuciones y a los fonogramas posteriores a esa fecha.
+4. Salvo pacto en contrario, los contratos de cesión celebrados antes del 1 de noviembre de 2013 seguirán surtiendo efecto transcurrida la fecha en que, en virtud del artículo 112 aplicable en ese momento, el artista intérprete o ejecutante dejaría de estar protegido.
+Se añade por el art. 1.26 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
+
+### Disposición transitoria vigésima segunda
+
+Disposición transitoria vigésima segunda. Publicaciones de prensa.
+Los derechos reconocidos a las editoriales de prensa y agencias de noticias para el uso en línea de sus publicaciones por parte de prestadores de servicios de la sociedad de la información no se aplicarán a las publicaciones de prensa que se hayan publicado por vez primera antes del 6 de junio de 2019.
+Se añade por el art. 80.10 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-2
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Alcance de la derogación normativa.
+1. Quedan derogadas las disposiciones que se opongan a lo establecido en la presente Ley y, en particular, las siguientes:
+a) Real Decreto de 3 de septiembre de 1880, por el que se aprueba el Reglamento para la ejecución de la Ley de 10 de enero de 1879 sobre Propiedad Intelectual: capítulos V y VI del Título I.
+b) Real Decreto 1434/1992, de 27 de noviembre, de desarrollo de los artículos 24, 25 y 140 de la Ley 22/1987, de 11 de noviembre, de Propiedad Intelectual: artículos 9.1, 11, 12, 14, 16, 17, 18, 19 y 37.1, así como los capítulos II y III del Título II.
+2. Quedan vigentes las siguientes disposiciones:
+a) Ley 9/1975, de 12 de marzo, del Libro, en lo no derogado por la Ley 22/1987, de 11 de noviembre, de Propiedad Intelectual, y por el Real Decreto 875/1986, de 21 de marzo.
+b) Real Decreto de 3 de septiembre de 1880, por el que se aprueba el Reglamento para la ejecución de la Ley de 10 de enero de 1879 sobre Propiedad Intelectual: capítulos I, II, III, IV, VII, VIII, IX, X y disposición transitoria del Título I; capítulos I, II y III del Título II.
+c) Decreto 3837/1970, de 31 de diciembre, por el que se regula la hipoteca mobiliaria de películas cinematográficas.
+d) Decreto 2984/1972, de 2 de noviembre, por el que se establece la obligación de consignar en toda clase de libros y folletos el número ISBN.
+e) Real Decreto 2332/1983, de 1 de septiembre, por el que se regula la venta, distribución y la exhibición pública de material audiovisual.
+f) Real Decreto 448/1988, de 22 de abril, por el que se regula la difusión de películas cinematográficas y otras obras audiovisuales recogidas en soporte videográfico.
+g) Real Decreto 479/1989, de 5 de mayo, por el que se regula la composición y el procedimiento de actuación de la Comisión Arbitral de la Propiedad Intelectual, en lo no modificado por el Real Decreto 1248/1995, de 14 de julio.
+h) Real Decreto 484/1990, de 30 de marzo, sobre precio de venta al público de libros.
+i) Real Decreto 1584/1991, de 18 de octubre, por el que se aprueba el Reglamento del Registro General de la Propiedad Intelectual, en lo declarado vigente en el apartado 3 de la disposición transitoria única del Real Decreto 733/1993, de 14 de mayo.
+j) Real Decreto 1434/1992, de 27 de noviembre, de desarrollo de los artículos 24, 25 y 140 de la Ley 22/1987, de 11 de noviembre, de Propiedad Intelectual, en la versión dada a los mismos por la Ley 20/1992, de 7 de julio, en lo no modificado por el Real Decreto 325/1994, de 25 de febrero, y en lo no derogado por la presente disposición derogatoria.
+k) Real Decreto 733/1993, de 14 de mayo, por el que se aprueba el Reglamento del Registro General de la Propiedad Intelectual.
+l) Real Decreto 325/1994, de 25 de febrero, por el que se modifica el artículo 15.2 del Real Decreto 1434/1992, de 27 de noviembre, de desarrollo de los artículos 24, 25 y 140 de la Ley 22/1987, de 11 de noviembre, de Propiedad Intelectual, en la versión dada a los mismos por la Ley 20/1992, de 7 de julio.
+m) Real Decreto 1694/1994, de 22 de julio, de adecuación a la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, del Real Decreto 1584/1991, de 18 de octubre, por el que se aprueba el Reglamento del Registro General de la Propiedad Intelectual.
+n) Real Decreto 1778/1994, de 5 de agosto, por el que se adecuan a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, las normas reguladoras de los procedimientos de otorgamiento, modificación y extinción de autorizaciones.
+ñ) Real Decreto 1248/1995, de 14 de julio, por el que se modifica parcialmente el Real Decreto 479/1989, de 5 de mayo, regulador de la composición y el procedimiento de actuación de la Comisión Arbitral de la Propiedad Intelectual.
+o) Real Decreto 1802/1995, de 3 de noviembre, por el que se establece el sistema para la determinación de la remuneración compensatoria por copia privada en las ciudades de Ceuta y Melilla.
+p) Orden de 23 de junio de 1966 por la que se establecen las normas básicas a las que deben ajustarse los contratos publicitarios del medio cine.
+q) Orden de 30 de octubre de 1971 por la que se aprueba el Reglamento del Instituto Bibliográfico Hispánico.
+r) Orden de 25 de marzo de 1987 por la que se regula la Agencia Española del ISBN.
+s) Orden de 3 de abril de 1991, de desarrollo de lo dispuesto en el Real Decreto 2332/1983, de 1 de septiembre, por el que se regula la venta, distribución y la exhibición pública de material audiovisual.
+
+### Disposición final única
+
+Disposición final única. Desarrollo reglamentario.
+Se autoriza al Gobierno a dictar las normas para el desarrollo reglamentario de la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Título competencial.
+El presente Real Decreto Legislativo se aprueba al amparo de lo dispuesto en el artículo 149.1.9.ª de la Constitución Española, que atribuye al Estado la competencia sobre legislación sobre propiedad intelectual.
+El artículo 31 ter se dicta, además, en virtud de la competencia que atribuye al Estado el artículo 149.1.1.ª sobre la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales.
+Se añade por el art. único.13 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que esta disposición ya fue añadida por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.13 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+### Disposición final segunda
+
+Disposición final segunda. Aplicación en las Comunidades Autónomas con competencia en la materia.
+La aplicación de lo dispuesto en el Título IV del Libro tercero, en relación con la inspección, vigilancia y control de las entidades de gestión de derechos de propiedad intelectual y de los operadores de gestión independiente, incluido el ejercicio de la potestad sancionadora, se llevará a cabo, en su caso, en las Comunidades Autónomas con competencias de ejecución en materia de propiedad intelectual, por los órganos que estas determinen.
+Se modifica por el art. único.13 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Se añade por el art. único.14 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+ Su anterior numeración era disposición final única.
+
+### Disposición final tercera
+
+Disposición final tercera. Desarrollo reglamentario.
+Se autoriza al Gobierno a dictar las normas para el desarrollo reglamentario de la presente Ley.
+Se añade por el art. único.14 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Su anterior denominación era disposición final segunda, anteriormente única.
+
+## ANEXO
+
+Contenido del informe anual de transparencia
+1. El informe anual de transparencia previsto en el artículo 189 deberá contener, como mínimo, la siguiente información:
+a) Estados financieros, que incluirán el balance, la cuenta de resultados del ejercicio y la memoria.
+b) Un informe sobre las actividades del ejercicio.
+c) Información sobre las negativas a conceder una autorización no exclusiva de los derechos gestionados por la entidad.
+d) Una descripción de la estructura jurídica y administrativa de la entidad de gestión.
+e) Información sobre toda entidad que sea propiedad o esté controlada directa o indirectamente, en su totalidad o en parte, por la entidad de gestión.
+f) Información sobre el importe total de las remuneraciones pagadas el ejercicio anterior a las personas contempladas en los artículos 161 y 162, así como sobre otros beneficios que se les hayan concedido.
+g) La información financiera contemplada en el apartado 2 del presente anexo.
+h) Un informe especial sobre la utilización de los importes deducidos para servicios sociales, culturales y educativos, que incluya la información a que se refiere el apartado 3 del presente anexo.
+Las cifras de la información de las letras f), g) y h) anteriores, deberá referirse al ejercicio cerrado y al ejercicio inmediatamente anterior. A estos efectos, cuando unas y otras no sean comparables, bien por haberse producido una modificación en la estructura del origen de las cifras, bien por realizarse un cambio de criterio contable o subsanación de error, se deberá proceder a adaptar la información del ejercicio precedente, a efectos de su presentación en el ejercicio al que se refiere, informando de ello detalladamente.
+2. La siguiente información financiera deberá figurar en el informe anual de transparencia:
+a) Información financiera sobre los derechos recaudados, desglosados por categoría de derechos gestionados y por tipo de utilización, incluida la información sobre los rendimientos derivados de la inversión de derechos recaudados, y el uso de estos (si han sido repartidos a los titulares de derechos, a otras entidades de gestión o destinados a otros usos).
+b) Información financiera sobre el coste de la gestión de derechos y otros servicios prestados por la entidad de gestión a los titulares de derechos, con una descripción pormenorizada de, como mínimo, los elementos siguientes:
+1.º Todos los costes de explotación y costes financieros, desglosados por categoría de derechos gestionados y, cuando los costes sean indirectos y no puedan atribuirse a una o varias categorías de derechos, con una explicación del método utilizado para la asignación de dichos costes indirectos.
+2.º Costes de explotación y costes financieros, desglosados por categoría de derechos gestionados y, cuando los costes sean indirectos y no puedan atribuirse a una o varias categorías de derechos, con una explicación del método utilizado para la asignación de dichos costes indirectos, únicamente en relación con la gestión de derechos, incluidos los descuentos de gestión deducidos de derechos recaudados o compensados con estos, o cualquier rendimiento derivado de la inversión de derechos recaudados.
+3.º Costes de explotación y costes financieros en relación con servicios distintos de los servicios de gestión de derechos, pero incluidos los servicios sociales, culturales y educativos.
+4.º Recursos empleados para cubrir los costes.
+5.º Deducciones aplicadas a los derechos recaudados, desglosadas por categoría de derechos gestionados y por tipo de utilización, así como la finalidad de la deducción, por ejemplo costes relacionados con la gestión de derechos o con servicios sociales, culturales o educativos.
+6.º Porcentaje que representa el coste de los servicios de gestión de derechos y otros servicios prestados por la entidad de gestión a los titulares de derechos en relación con los derechos recaudados en el ejercicio pertinente, por categoría de derechos gestionados, y, cuando los costes sean indirectos y no puedan atribuirse a una o varias categorías de derechos, una explicación del método utilizado para la asignación de dichos costes indirectos.
+c) Información financiera sobre los importes que deben abonarse a los titulares de derechos, con una descripción pormenorizada de, como mínimo, los elementos siguientes:
+1.º El importe total atribuido a los titulares de derechos, desglosado por categoría de derechos gestionados y por tipo de utilización.
+2.º El importe total pagado a los titulares de derechos, desglosado por categoría de derechos gestionados y por tipo de utilización.
+3.º La frecuencia de los pagos, con un desglose por categoría de derechos gestionados y por tipo de utilización.
+4.º El importe total recaudado pero aún no atribuido a los titulares de derechos, desglosado por categoría de derechos gestionados y por tipo de utilización, indicando el ejercicio en que se recaudaron dichos importes.
+5.º El importe total atribuido pero aún no pagado a los titulares de derechos, desglosado por categoría de derechos gestionados y por tipo de utilización, indicando el ejercicio en que se recaudaron dichos importes.
+6.º En caso de que la entidad de gestión no haya procedido al reparto y al pago en el plazo establecido en el párrafo segundo del artículo 177.1, los motivos del retraso.
+7.º El total de los importes que no puedan ser objeto de reparto junto con la explicación del uso que se haya dado a dichos importes.
+d) Información sobre relaciones con otras entidades de gestión, con una descripción de, como mínimo, los siguientes elementos:
+1.º Importes percibidos de otras entidades de gestión e importes pagados a otras entidades de gestión, desglosados por categoría de derechos, por tipo de uso y por entidad.
+2.º Descuentos de gestión y otras deducciones de los derechos recaudados que deben abonarse a otras entidades de gestión, desglosados por categoría de derechos, por tipo de uso y por entidad.
+3.º Descuentos de gestión y otras deducciones de los ingresos pagados por otras entidades de gestión, desglosados por categoría de derechos y por entidad.
+4.º Importes repartidos directamente a los titulares de derechos procedentes de otras entidades de gestión, desglosados por categoría de derechos y por entidad.
+3. La siguiente información deberá figurar en el informe especial dando cuenta de la utilización de los importes deducidos para los servicios asistenciales en beneficio de los miembros de la entidad, las actividades de formación y promoción de autores, artistas, intérpretes y ejecutantes y el fomento de la oferta digital legal de las obras y prestaciones protegidas cuyos derechos gestionan:
+a) Importe obtenido por la entidad en el ejercicio para destinar a estas actividades, tanto en cuantía global, como desglosado en función de su procedencia conforme a lo establecido en los artículos 175.3, 177.6 y 178.2 de este texto legal, y con indicación, en su caso, de los remanentes resultantes una vez realizadas las actividades.
+b) Importes deducidos para los referidos servicios y actividades, desglosados por tipo de finalidad y, respecto de cada tipo de finalidad, desglosados por categoría de derechos gestionados y por tipo de uso.
+c) Una explicación de la utilización de dichos importes, con un desglose por tipo de finalidad, incluido el coste de la gestión de los importes deducidos para los referidos servicios y actividades y los importes separados utilizados para los mismos.
+Se añade por el art. único.15 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+ Téngase en cuenta que este anexo ya fue añadido por el Real Decreto-ley 2/2018.
+ Se añade por el art. único.15 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059

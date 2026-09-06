@@ -1,0 +1,539 @@
+# Ley 7/1994, de 27 de mayo, de la Actividad Comercial.
+
+- Identificador BOE: `BOE-A-2012-1540`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-1540
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Se hace saber a todos los ciudadanos de Euskadi que el Parlamento Vasco ha aprobado la siguiente Ley 7/1994, de 27 de mayo, de la Actividad Comercial.
+EXPOSICIÓN DE MOTIVOS
+Transcurridos más de diez años desde la entrada en vigor de a Ley 9/1983, de 19 de mayo, que supone la primera experiencia ordenadora de a actividad comercial en nuestra Comunidad Autónoma, una serie de circunstancias aconsejan una nueva regulación administrativa de esta actividad.
+Ha de comenzarse por señalar que la Ley 9/1983 constituye una referencia válida en muchos aspectos y que la práctica derivada de su aplicación informa completamente el nuevo texto. No obstante, algunos de sus preceptos sustanciales han de revisarse ante las perspectivas de nuestro mercado interior, ámbito material sobre el que se proyecta esta normativa.
+En efecto, el 1 de enero de 1986 tiene lugar nuestro ingreso en las Comunidades Europeas, proceso dinámico de integración de Estados cuyo punto álgido es la puesta en marcha del Mercado Único Europeo. Esta circunstancia acarrea cambios de derecho y de hecho de los que va a resultar una nueva configuración de las relaciones sociales y económicas. En este orden de cosas cada vez tendrá menos sentido la referencia a mercados locales y cerrados para dar paso a mercados más amplios, abiertos y competidos.
+El espíritu actualizador y modernizador que debe alumbrar nuestro mercado interior y nuestras empresas comerciales tiene múltiples manifestaciones en la nueva regulación.
+En primer lugar, el ámbito material de la ley supera la tradicional concepción del comercio. Su consideración como eslabón intermedio necesario entre producción y consumo se amplía, ya que la conexión entre ambos se produce en múltiples supuestos sin necesidad de los servicios de distribución de un mediador. En otro sentido, la actividad de una empresa que distribuye productos debe quedar sometida a esta ley con independencia de que los mismos sean de consumo o no. Por otra parte, cualquier empresa que preste servicios debe ajustar su actividad a esta ley en lo no regulado por normativa específica relativa a los mismos.
+Otra evidencia actualizadora interesante la constituye la regulación de fórmulas comerciales diferentes de las tradicionales que o son desconocidas en nuestra legislación hasta la fecha, como la venta a distancia, venta promocional, venta ocasional, venta a través de máquinas automáticas, o han sido objeto de regulación insuficiente.
+Este ánimo actualizador de la reforma resulta asimismo patente en la concepción de empresa comercial y de su funcionamiento que ofrece el nuevo texto. De una parte, los comerciantes han de conocer su negocio, planear sus actividades en el tiempo; en definitiva, organizar su empresa. Por otra, las empresas no han de incurrir en funcionamientos irregulares, perturbadores del mercado y de su necesaria transparencia, como única garantía para los múltiples intereses que en el mismo confluyen, en ocasiones en forma vehementemente enfrentada.
+El espíritu renovador de la reforma se pone finalmente de relieve desde el momento en que, siendo una norma autonómica, sus preceptos intentan apurar la competencia normativa en la materia. Este ámbito está siendo perfilado por diferentes pronunciamientos del Tribunal Constitucional en materias conexas o concurrentes, como las de bases de actividad económica, defensa de la competencia, condiciones básicas de igualdad, legislación privada y procesal y sanidad.
+Una segunda idea inspiradora de la presente reforma legislativa se traduce en la preocupación sistematizadora que la preside. De acuerdo con ella, se reúne en un solo cuerpo normativo el conjunto de las disposiciones sobre ordenación, a las que se añade la regulación de la actividad comercial de promoción de productos y servicios, constituida por los certámenes comerciales. Asimismo, el nuevo texto integra disposiciones sobre publicidad e información, además de un título dedicado al control de la efectividad de los mandatos normativos.
+La sistematización del texto ha sido realizada con sentido práctico, por cuanto la redacción de sus preceptos y las referencias inexcusables a otros regímenes conexos o concurrentes resultan ciertamente comprensibles. Con ello, la vocación normativa de la presente ley se ve favorecida por una meridiana claridad no exenta de precisión en sus contenidos, que por lo mismo pueden entenderse fácilmente desarrollables por vía reglamentaria. Con ello se refuerzan los aspectos de seguridad jurídica en esta materia tan esenciales al funcionamiento de un Estado de Derecho.
+En tercer lugar, la reforma se plantea con un sentido más orientador, abierto y participativo. Su alcance orientador se refleja en la concepción de mercado y de la actividad comercial que expresan sus preceptos.
+El valor abierto y participativo del mismo se manifiesta en diversos aspectos previos y posteriores a la aprobación de la norma.
+Por una parte, cabe señalar que las labores preparatorias de la norma han contado con la participación de consumidores, trabajadores, empresarios y ayuntamientos. Las reflexiones que de ellas han surgido han contribuido a dar un enfoque más ajustado a sus preceptos, a la vez que a dotarla de una mayor receptividad hacia sus destinatarios.
+Por otra parte, en la norma se introduce un órgano de participación colegiado sobre la actividad comercial, en el que por la vía del debate de los agentes sociales y económicos pueda desarrollarse una política más abierta y consensuada en la materia.
+Quedan por indicar finalmente las competencias recogidas en la Ley Orgánica 3/1979, del Estatuto de Autonomía para el País Vasco, y señaladamente los preceptos recogidos en los números 25, 27, 28 y 31 de su artículo 10, como habilitantes de esta ley.
+
+## TÍTULO I
+
+Ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Objeto de la ley.
+Es objeto de la presente ley la regulación administrativa de la actividad comercial y la ordenación y mejora de la estructura comercial en la Comunidad Autónoma del País Vasco.
+
+### Artículo 2
+
+Artículo 2. Actividad comercial. Concepto.
+A los efectos de la presente ley se entiende por actividad comercial la puesta a disposición del mercado de productos o mercancías adquiridas con esa finalidad, sin modificación sustancial de las mismas, así como la venta de bienes de consumo final realizada directamente por los productores, artesanos o industriales.
+Son bienes de consumo final los no destinados a integrarse en procesos de producción, comercialización o prestación de servicios a terceros.
+
+### Artículo 3
+
+Artículo 3. Prestación de servicios.
+También se considera actividad comercial la prestación de servicios cuando se oferten al mercado con el carácter final definido en el artículo anterior.
+Esta ley será de aplicación a la prestación de servicios en todo aquello no regulado por normativa específica relativa a los mismos.
+
+## TÍTULO II
+
+Del ejercicio de la actividad comercial
+
+## CAPÍTULO I
+
+Principios generales y condiciones para su ejercicio
+
+### Artículo 4
+
+Artículo 4. Marco de la actividad comercial.
+El ejercicio de la actividad comercial se desarrollará de acuerdo con los principios de libre y leal competencia y de defensa de los consumidores y usuarios, en el marco de la economía de mercado y su planificación general.
+
+### Artículo 5
+
+Artículo 5. Medidas excepcionales y prácticas no permitidas.
+1. Sin perjuicio de lo establecido en el artículo anterior, el Gobierno Vasco, a propuesta del Departamento competente en materia de comercio, con carácter excepcional podrá adoptar medidas de intervención en los procesos de distribución de productos alimenticios y/o de primera necesidad cuando así lo exigieran déficits de abastecimiento.
+2. En el ejercicio de la actividad comercial no podrán realizarse prácticas que supongan actual o potencial acaparamiento, paralización o encarecimiento injustificados en el proceso normal de distribución de los productos o prestación de servicios, o bien que supongan discriminación alguna, cuando supongan un perjuicio para los consumidores y usuarios.
+
+### Artículo 6
+
+Artículo 6. Condiciones para su ejercicio.
+1. El ejercicio de actividades comerciales se realizará por quienes ostenten la capacidad jurídica necesaria con arreglo a la legislación vigente.
+2. Sin perjuicio del principio general de libertad de empresa, se podrán exigir determinadas condiciones y aptitudes o titulación para ejercer aquellas actividades comerciales sujetas a especial concesión o autorización administrativa, o que requieran un tratamiento singular por razón de la naturaleza del producto o servicio, así como por consideraciones de interés público.
+3. El Gobierno podrá condicionar reglamentariamente, sin perjuicio de lo señalado en el artículo 21, el ejercicio de determinadas modalidades de actividad comercial a la prestación de garantías o fianzas, justificadas por causas de interés general.
+
+### Artículo 7
+
+Artículo 7. Obligaciones de las empresas comerciales.
+Las empresas comerciales deberán cumplir con las obligaciones sobre documentación, información, libros o registros establecidos para su régimen y funcionamiento, así como estar dadas de alta en los correspondientes epígrafes del Impuesto de Actividad Económica.
+
+## CAPÍTULO II
+
+De las condiciones de la oferta y de los precios
+
+### Artículo 8
+
+Artículo 8. Condiciones de la oferta.
+1. De acuerdo con lo previsto en el artículo 4, en el ejercicio de la actividad comercial, el origen, la calidad y la cantidad de los productos o servicios, su precio y condiciones de venta o prestación, serán los ofrecidos y en todo caso los exigibles conforme a la normativa reguladora de los mismos.
+A tal efecto, se prestará por el oferente la información que resulte apropiada para el conocimiento del producto o servicio, riesgos de su utilización y condiciones de adquisición.
+2. Igualmente, en caso de transacción y a solicitud del adquirente, las empresas comerciales estarán obligadas a expedir documentación suficiente sobre los diversos extremos relativos a la transacción.
+
+### Artículo 9
+
+Artículo 9. El precio en los productos y servicios.
+1. El precio de los productos y servicios será fijado libremente por los oferentes, sin más limitaciones que las impuestas por la legislación vigente.
+2. Los productos expuestos para su comercialización estarán marcados con su precio de forma clara, de modo que resulte innecesaria consulta alguna al oferente. Los precios de los artículos expuestos en los escaparates resultarán visibles desde el exterior. Todos los establecimientos que presten servicios a los usuarios exhibirán al público de forma perfectamente visible los precios aplicables a los mismos.
+Reglamentariamente se establecerán las excepciones o condiciones especiales en la información de precios por motivo de seguridad, de homogeneidad o de la naturaleza del producto o servicio.
+3. En los productos que se vendan a granel, se indicará el precio por unidad de medida. En aquellos productos que habitualmente se vendan a granel y se presenten a la venta en cantidades o volúmenes preestablecidos, se expondrán a la venta con indicación del precio por unidad de medida habitual, la medida del producto y el precio resultante.
+4. El precio de venta anunciado se entenderá como el total del producto o servicio adquirido al contado, incluido el conjunto de los tributos.
+5. El comerciante explicitará los medios de pago admitidos, así como la posibilidad o no de devolución del producto y condiciones de la misma cuando se derive, exclusivamente, del interés o conveniencia del comprador.
+
+## CAPÍTULO III
+
+De la publicidad ilícita
+
+### Artículo 10
+
+Artículo 10. Publicidad ilícita en el ejercicio de la actividad comercial.
+1. El Gobierno Vasco, en los términos establecidos en el presente artículo y en orden a la protección de los legítimos intereses de los consumidores y usuarios, promoverá las acciones necesarias tendentes a evitar la utilización de la publicidad ilícita en el ejercicio de la actividad comercial.
+2. A tal fin, y sin perjuicio de las acciones legalmente establecidas, el Gobierno Vasco podrá, de oficio o a instancia de parte, tramitar un procedimiento encaminado a instar el cese o rectificación de la publicidad ilícita ante la jurisdicción competente, de acuerdo con la legislación vigente en materia de publicidad.
+Se deroga el apartado 3 por la disposición derogatoria 2.d) de la Ley 6/2003, de 22 de diciembre. Ref. BOE-A-2011-18549.
+
+## CAPÍTULO IV
+
+Del establecimiento comercial
+
+### Artículo 11
+
+Artículo 11. Establecimiento comercial.
+La actividad comercial habrá de ejercerse en establecimiento comercial, salvo las excepciones previstas en el título III de esta ley, dedicado a las modalidades especiales de venta.
+Se considerarán establecimientos comerciales las edificaciones y dependencias afectas a una actividad comercial.
+Los horarios y días de apertura al público se expondrán de forma visible desde el exterior de los establecimientos.
+
+### Artículo 12
+
+Artículo 12. Licencia de apertura.
+(Derogado)
+Se deroga por el art. 32 de la Ley 7/2012, de 23 de abril. Ref. BOE-A-2012-6368.
+
+### Artículo 13
+
+Artículo 13. Implantación de grandes establecimientos comerciales.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 10/2019, de 27 de junio. Ref. BOE-A-2019-10600#dd
+ Se modifica el apartado 5 por el art. 33 de la Ley 7/2012, de 23 de abril. Ref. BOE-A-2012-6368.
+ Se modifica por el art. 1 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+ Se modifica por el art. único de la Ley 7/2000, de 10 de noviembre. Ref. BOE-A-2011-19449.
+
+## TÍTULO III
+
+De las modalidades y prácticas especiales de venta
+
+## CAPÍTULO I
+
+Ventas realizadas fuera de establecimiento comercial permanente
+
+### Artículo 14
+
+Artículo 14. Clases.
+Son ventas efectuadas fuera del establecimiento comercial permanente las denominadas venta ambulante, venta a domicilio, venta a distancia y venta ocasional.
+
+### Artículo 15
+
+Artículo 15. Definición de ventas ambulantes.
+Son ventas ambulantes aquellas realizadas fuera de un establecimiento comercial, en puestos o instalaciones desmontables, así como en vehículos. El ejercicio de la venta ambulante requerirá, cuando se lleve a cabo en espacios públicos, de la correspondiente autorización.
+Se modifica por el art. 2 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 16
+
+Artículo 16. Regulación de la venta ambulante.
+1. Los ayuntamientos podrán regular la venta ambulante en el territorio de su municipio. La regulación municipal concretará los lugares, perímetros exceptuados, frecuencia, horario y productos autorizados, y establecerá las características de los tipos de venta ambulante, diferenciando:
+a) Mercados periódicos de carácter tradicional o de nueva implantación, ubicados en lugares o espacios determinados y de periodicidad fija. Estos sólo podrán celebrarse durante un máximo de dos días a la semana.
+b) Mercados ocasionales instalados con motivo de ferias, fiestas o acontecimientos populares.
+c) Venta realizada en camiones tienda o puestos instalados en la vía pública, que se autorizarán en circunstancias y condiciones precisas.
+2. El ayuntamiento entregará a la persona que haya autorizado para el ejercicio de la venta ambulante dentro de su término municipal una tarjeta identificativa que contendrá los datos esenciales de la autorización y que estará expuesta en un lugar visible y a disposición de la clientela. Deberá figurar en la misma la dirección donde se atenderán, en su caso, las reclamaciones de las personas consumidoras. Dicha dirección deberá figurar en todo caso en la factura o comprobante de la venta. Además de esto, cada titular autorizado a la venta ambulante deberá poseer un seguro de responsabilidad civil que cubra los riesgos de la actividad económica.
+Se modifica por el art. 3 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 17
+
+Artículo 17. Perímetro urbano exceptuado.
+En todos los municipios podrá determinarse un perímetro urbano exceptuado en el que la venta ambulante no podrá practicarse. La determinación de dicho perímetro se hará siguiendo exclusivamente criterios urbanísticos, ambientales o de accesibilidad.
+Se modifica por el art. 4 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 18
+
+Artículo 18. Exclusiones.
+Cada municipio establecerá aquellos mercados que con motivo de ferias, fiestas, acontecimientos populares o tradicionales queden excluidos de la prohibición de practicar la venta ambulante en el perímetro exceptuado al que se refiere al artículo anterior.
+Se modifica por el art. 5 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 19
+
+Artículo 19. Vigilancia y control.
+Respecto a la venta ambulante, corresponde a los ayuntamientos garantizar el cumplimiento de las normas higiénicas, sanitarias y de seguridad, y de ordenación de la actividad comercial, así como el control y sanción de las infracciones leves y graves, sin perjuicio de las competencias atribuidas a otras Administraciones públicas.
+
+### Artículo 20
+
+Artículo 20. Venta a domicilio.
+1. Se considera venta a domicilio aquella en la que la oferta se produce en domicilios privados, lugares de ocio o reunión, centros de trabajo y similares que no sean el establecimiento del vendedor.
+2. La publicidad de la oferta de este tipo de venta, que deberá ser entregada al consumidor, incluirá los siguientes extremos:
+a) Identificación y domicilio de la empresa.
+b) (Derogado)
+c) Los datos esenciales del producto o servicio que permitan su identificación inequívoca en el mercado.
+d) Precio, forma y condiciones de pago, gastos y plazo de envío.
+3. No se consideran comprendidos en el concepto anterior las entregas a domicilio de mercancías adquiridas por cualquier otro tipo de venta.
+Se deroga el apartado 2.b) por el art. 6 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 21
+
+Artículo 21. Requisitos.
+1. Las empresas de venta a domicilio deberán tener a disposición de la autoridad administrativa cuantas autorizaciones sectoriales requieran por razón de su objeto y una relación actualizada del personal que intervenga en este tipo de venta.
+2. La persona que lleve a cabo la venta deberá mostrar la documentación en la que conste la identidad de la empresa y el carácter con el que actúa.
+Se modifica por el art. 7 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 22
+
+Artículo 22. Venta a distancia.
+1. Se entiende por venta a distancia aquella en la que el vendedor efectúa su oferta al comprador a través de algún medio de comunicación, solicitando que los compradores formulen sus pedidos mediante el mismo u otro medio de comunicación a distancia.
+2. (Derogado)
+3. En todos los casos, se garantizará que el producto real sea de idénticas características que el producto ofrecido.
+4. La publicidad de la oferta recogerá los siguientes extremos:
+a) Identificación y domicilio de la empresa.
+b) Los datos esenciales del producto o servicio que permitan su identificación inequívoca en el mercado.
+c) Precio, forma y condiciones de pago, gastos y plazo de envío.
+5. Sólo podrá efectuarse el envío de productos o servicios que previamente hayan sido solicitados por los consumidores o usuarios.
+Lo señalado en el párrafo anterior no será de aplicación al envío de muestras o regalos de promoción, a condición de que figure claramente su carácter totalmente gratuito y la ausencia de toda obligación por parte del consumidor.
+Se deroga el apartado 2 y se modifica el apartado 4.a) por el art. 8 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 23
+
+Artículo 23. Venta ocasional.
+1. Se denomina venta ocasional aquella que se realiza por un período inferior a un mes, en establecimientos que no tengan carácter comercial permanente para esta actividad, y que no constituya venta ambulante.
+2. Esta modalidad de venta deberá ser comunicada al departamento del Gobierno Vasco competente en materia de comercio.
+3. En la comunicación se informará sobre los siguientes extremos:
+a) Identificación de la persona vendedora.
+b) Descripción de las características de los productos.
+c) Cumplimiento de los requisitos fiscales y administrativos.
+d) Título de uso del local.
+4. En aquellos supuestos en los que la venta ocasional sea en subasta no sujeta a legislación específica, entendiendo por subasta aquella en la que se adjudican productos a quien oferta un precio superior al del resto de los posibles adquirentes, se exigirá, además, la especificación de los requisitos mínimos para la adjudicación del producto.
+Se modifican los apartados 2 y 3 por el art. 9 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+## CAPÍTULO II
+
+Otras modalidades especiales de venta
+
+### Artículo 24
+
+Artículo 24. Venta con rebaja.
+1. Sin perjuicio de la libertad para fijar precios por parte del empresario, así como de la realización de las ofertas que estime oportunas, en la publicidad la denominación de rebaja se utilizará exclusivamente para aquellas ventas que se realicen, conforme a lo dispuesto en la legislación vigente, con reducción del precio habitual de venta con motivo de los cambios de estación, fin de temporada o renovación de existencias durante los períodos o temporadas que se señalen en dicha legislación. En todo caso, la publicidad de rebajas estará limitada a dos períodos o temporadas por año con una duración máxima de dos meses por temporada.
+La realización de esta modalidad de venta se comunicará al Departamento competente en materia de comercio previamente a su inicio.
+2. En estas ventas deberá señalarse de forma inequívoca, en cada producto, el precio anterior y el que se ofrece, con las particularidades previstas en el número 2 del artículo 9.
+3. Queda prohibida la utilización de esta denominación en la venta de los siguientes artículos:
+a) Los deteriorados.
+b) Los adquiridos para esta finalidad.
+c) Los que no estuvieran a la venta al consumidor final con un mes de antelación a la fecha de inicio de la venta con rebaja.
+4. En el supuesto de que la venta con rebaja no afecte a la totalidad de los productos comercializados, los rebajados estarán suficientemente diferenciados del resto.
+
+### Artículo 25
+
+Artículo 25. Venta de saldos.
+1. Se entiende por venta de saldos aquella que tiene por objeto la de productos deteriorados o en desuso.
+2. Este tipo de venta y su publicidad deberá ir acompañada de información suficiente de las circunstancias y causas concretas que la motiven.
+3. En el supuesto de que la venta de saldos no afecte a la totalidad de los productos comercializados, los artículos ofrecidos por esta modalidad de venta deberán estar físicamente separados de aquellos que no lo estén.
+
+### Artículo 26
+
+Artículo 26. Venta en liquidación.
+1. Se entiende por venta en liquidación aquella de carácter excepcional motivada por:
+a) Cese total o parcial, definitivo o temporal, de la actividad comercial. En el supuesto de cese parcial tendrá que indicarse la clase de mercancías objeto de liquidación.
+b) Cierre o transformación del local.
+2. La venta en liquidación se limitará a los productos o artículos que vengan formando parte de las existencias del establecimiento.
+3. En toda publicidad de una venta en liquidación tendrá que indicarse las causas que la motivan, así como la fecha de comienzo y duración de la misma. Deberá indicarse igualmente el precio anterior y el que se ofrece para cada artículo u otro tipo de incentivo que se aplique a la liquidación.
+4. La venta en liquidación habrá de ser comunicada al Departamento competente en materia de comercio con siete días de antelación a su inicio, indicándose la causa, la fecha de comienzo y la duración de la misma y relación de mercancías.
+
+### Artículo 27
+
+Artículo 27. Condiciones.
+Las ventas en liquidación habrán de efectuarse en el mismo establecimiento comercial en el que los productos hayan sido habitualmente objeto de venta, salvo en caso de fuerza mayor o de resolución judicial o administrativa que lo impida o que las causas que originen dicha venta así lo exijan.
+Para denominar una venta en liquidación deberá transcurrir un período de 12 meses desde la finalización de la anterior, salvo que venga propiciada por causa de siniestro o fuerza mayor.
+
+### Artículo 28
+
+Artículo 28. Venta en promoción.
+1. Es venta en promoción aquella que tiene por finalidad dar a conocer o potenciar la venta de determinados productos o servicios ofreciendo a los compradores condiciones ventajosas mediante descuentos, regalos, premios o cualquier otro incentivo.
+2. La venta en promoción tendrá que ir precedida o acompañada de información suficiente, en la que deberán figurar con claridad:
+a) Los productos o servicios objeto de promoción.
+b) Las condiciones de la promoción.
+c) El período de vigencia de la promoción.
+3. El vendedor dispondrá de existencias suficientes para satisfacer la demanda previsible, y la duración de la publicidad no excederá de la disponibilidad de existencias del producto ofertado.
+4. Los productos o servicios objeto de venta promocional no podrán estar afectados por ninguna causa que reduzca su valor.
+
+### Artículo 29
+
+Artículo 29. Venta automática.
+1. Es venta automática la realizada mediante máquinas preparadas a tal efecto, previa introducción en las mismas del importe requerido, sin mediación del vendedor.
+2. Para la práctica de esta modalidad figurarán en lugar visible de la máquina los siguientes datos:
+a) (Derogado)
+b) La identificación del vendedor y de su domicilio para los supuestos de avería y reclamación.
+c) La descripción de las condiciones de funcionamiento y de los productos o servicios.
+3. Las máquinas utilizadas en este tipo de venta deben incorporar un sistema de devolución del dinero para los supuestos de inexistencia de mercancía o funcionamiento deficiente.
+4. Para la venta a través de máquinas automáticas de bebidas alcohólicas y tabaco se estará a lo previsto en la Ley 15/1988, sobre Prevención, Asistencia y Reinserción en materia de Drogodependencias o normativa que la sustituya o desarrolle.
+5. La venta automática de productos alimenticios sólo se permitirá cuando éstos se hallen envasados y etiquetados según la normativa específica vigente.
+Se deroga el apartado 6 por el art. 34 de la Ley 7/2012, de 23 de abril. Ref. BOE-A-2012-6368.
+ Se deroga el apartado 2.a) y se modifica el apartado 6 por el art. 10 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+## CAPÍTULO III
+
+Prácticas comerciales especiales
+
+### Artículo 30
+
+Artículo 30. Venta en cadena o en pirámide.
+1. Se entiende por venta en pirámide o en cadena cualquier tipo de venta en la que se ofrece a los consumidores o usuarios productos o servicios a precio reducido e incluso gratuito a condición de que éstos consigan, directa o indirectamente, otros clientes o un determinado volumen de ventas.
+2. Queda prohibida la mediación de los consumidores o usuarios en las prácticas en cadena o piramidales.
+
+### Artículo 31
+
+Artículo 31. Oferta de premios o regalos mediante sorteo.
+Cuando un comerciante comunique a cualquier consumidor o usuario que ha sido agraciado por sorteo con un premio o bien con la entrega de un obsequio, no puede condicionar, directa o indirectamente, su entrega a la compra de productos o servicios.
+
+## TÍTULO IV
+
+De los certámenes comerciales
+
+### Artículos 32 a 37
+
+(Derogados)
+Se derogan por el art. 11 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 32
+
+Artículo 32. Certámenes comerciales. Concepto.
+(Derogado)
+Se deroga por el art. 11 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 33
+
+Artículo 33. Certámenes comerciales oficiales.
+(Derogado)
+Se deroga por el art. 11 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 34
+
+Artículo 34. Comisión de certámenes comerciales.
+(Derogado)
+Se deroga por el art. 11 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 35
+
+Artículo 35. Organizadores de certámenes comerciales.
+(Derogada)
+Se deroga por el art. 11 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 36
+
+Artículo 36. Registro Oficial de Certámenes Comerciales.
+(Derogado)
+Se deroga por el art. 11 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 37
+
+Artículo 37. Subvenciones y ayudas.
+(Derogado)
+Se deroga por el art. 11 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+## TÍTULO V
+
+De las infracciones y sanciones
+
+### Artículo 38
+
+Artículo 38. Infracciones.
+1. Sin perjuicio de las responsabilidades que de otro orden pudieran derivarse, constituye infracción en materia de ordenación de la actividad comercial:
+a) La realización de las prácticas prohibidas en el apartado 2 del artículo 5.
+b) El incumplimiento de las condiciones establecidas para el ejercicio de la actividad comercial.
+c) El incumplimiento de las condiciones que deben reunir los productos o servicios ofertados, la falta de información sobre los mismos y el incumplimiento de las obligaciones sobre documentación, en los términos del artículo 8.
+d) El incumplimiento de las disposiciones sobre precios y otras condiciones de venta contenidas en el artículo 9.
+e) La publicidad engañosa y la que infrinja lo dispuesto en la normativa que regule la publicidad de determinados productos, actividades, bienes o servicios, en los términos establecidos en la legislación vigente.
+f) La realización de actividades comerciales al margen de lo establecido en el artículo 11.
+g) El incumplimiento de las normas relativas a la apertura de establecimientos comerciales.
+h) La infracción del régimen de horarios comerciales prevista en la legislación vigente consistente bien en la apertura del establecimiento comercial en horario o en domingo o en día festivo no autorizados, bien en el incumplimiento del tiempo máximo de apertura del establecimiento o bien en la falta de exposición de modo visible del horario y días de apertura.
+i) La venta ambulante con incumplimiento de las condiciones sobre productos, lugares, días y horas, así como titulares autorizados y su identificación permanente.
+j) La venta a domicilio con incumplimiento de lo previsto en los artículos 20 y 21.
+k) La venta a distancia con incumplimiento de lo previsto en el artículo 22.
+l) La venta ocasional con incumplimiento de lo previsto en el artículo 23.
+m) La venta con rebaja sin previa comunicación o con incumplimiento de lo previsto en el artículo 24.
+n) La venta de saldos con incumplimiento de lo previsto en el artículo 25.
+ñ) La venta en liquidación sin previa comunicación o con incumplimiento de lo previsto en los artículos 26 y 27.
+o) La venta en promoción con incumplimiento de lo previsto en el artículo 28.
+p) La venta automática con incumplimiento de lo previsto en el artículo 29.
+q) La utilización del consumidor o usuario en la venta piramidal o en cadena.
+r) Las prácticas comerciales sustentadas en sorteos contraviniendo lo establecido en el artículo 31.
+s) La negativa o resistencia a suministrar datos o a facilitar la obtención de información requerida por las autoridades y sus agentes en orden al ejercicio de las funciones de vigilancia de lo establecido en la presente ley y normas que la desarrollen, así como el suministro de información inexacta, incompleta o falsa.
+2. Las infracciones se calificarán como leves, graves o muy graves.
+Se modifican los apartados h), i), j), k) y l), se suprimen los apartados s), t), u) y v) y se renumera el apartado w) como s) por el art. 12 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 39
+
+Artículo 39. Infracciones leves.
+Son infracciones leves las simples inobservancias de las disposiciones contenidas en la presente ley y en la normativa de desarrollo, sin trascendencia directa de carácter económico ni perjuicio para los consumidores, siempre que no estén calificadas como graves o muy graves.
+
+### Artículo 40
+
+Artículo 40. Infracciones graves.
+Se califican como graves las infracciones siguientes:
+a) La reincidencia en la comisión de infracciones leves.
+b) Las que tengan trascendencia directa de carácter económico o causen perjuicio a los consumidores.
+c) Las que concurran con infracciones sanitarias graves.
+d) (Derogado)
+e) La venta en rebaja de artículos que no hubieran sido puestos a la venta a su precio habitual con la antelación indicada en el artículo 24.
+f) (Derogado)
+g) Las contenidas en la letra s) del apartado 2 del artículo 38 cuando la negativa o resistencia sea reiterada o venga acompañada de coacciones, amenazas o cualquier otra forma de presión hacia las autoridades o sus agentes.
+h) El incumplimiento del requerimiento sobre el cese de actividades infractoras.
+Se derogan los apartados d) y f) y se modifica el apartado g) por el art. 13 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 41
+
+Artículo 41. Infracciones muy graves.
+Se calificarán como infracciones muy graves:
+a) La reincidencia en la comisión de infracciones graves.
+b) Las que concurran con infracciones sanitarias muy graves o supongan grave riesgo para la seguridad de las personas.
+c) Aquellas infracciones graves que procuren un beneficio económico desproporcionado o alteren gravemente el orden económico.
+d) Las que originen graves perjuicios a los consumidores.
+
+### Artículo 42
+
+Artículo 42. Reincidencia.
+Hay reincidencia cuando se hayan cometido en el término de un año más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
+
+### Artículo 43
+
+Artículo 43. Sanciones.
+1. Las infracciones leves serán sancionadas con multas de hasta 25.000 euros.
+2. Las infracciones graves serán sancionadas con multas de hasta 150.000 euros. Este límite podrá alcanzarse por los ayuntamientos en materia de venta ambulante.
+3. Las infracciones muy graves serán sancionadas con multas de hasta 900.000 euros. Los órganos competentes para imponerlas serán la persona titular del departamento que tenga atribuida la materia de comercio, hasta 120.000 euros, y el Consejo de Gobierno, desde 120.001 hasta 900.000 euros.»
+4. El Consejo de Gobierno podrá acordar, en el supuesto de infracciones muy graves que supongan un alto riesgo para la salud o grave perjuicio económico o tengan importante repercusión social, el cierre temporal de la empresa o establecimiento infractor por un plazo máximo de cinco años. En tal caso será de aplicación lo establecido en el artículo 39 de la Ley 8/1988, de 7 de abril de 1988, sobre Infracciones y Sanciones de orden social.
+5. Las cuantías señaladas en este artículo para las sanciones podrán ser revisadas y en todo caso trienalmente actualizadas por decreto del Consejo de Gobierno, en función de la evolución del índice de precios al consumo.
+Se modifican los apartados 1 a 3 por el art. 14 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+### Artículo 44
+
+Artículo 44. Otras actuaciones administrativas.
+1. Con la finalidad de asegurar la eficacia de la resolución que pudiera recaer, la autoridad que ordene la incoación del expediente podrá acordar la intervención cautelar de las mercancías falsificadas, fraudulentas, no identificadas o que incumplan los requisitos mínimos establecidos para su comercialización. Esta medida de carácter provisional se adoptará mediante acuerdo motivado, previa audiencia del interesado.
+2. Con idénticos requisitos que los establecidos en el apartado anterior se podrá acordar la clausura o cierre de establecimientos e instalaciones que no cuenten con las autorizaciones preceptivas, o la suspensión de la actividad comercial hasta que se rectifiquen los defectos o se cumplan los requisitos exigidos.
+3. La autoridad a quien corresponda la resolución del expediente podrá acordar, como sanción accesoria, el decomiso de las mercancías falsificadas, fraudulentas, no identificadas o que incumplan los requisitos mínimos establecidos para su comercialización. El decomiso como efecto accesorio de la sanción se ajustará a las mismas reglas que ésta.
+4. Asimismo, con carácter accesorio el órgano sancionador podrá acordar, en los supuestos de infracción muy grave, que conlleven un alto riesgo para la salud o grave perjuicio económico o tengan importante repercusión social, la publicidad de las sanciones firmes, con cargo al infractor.
+
+### Artículo 45
+
+Artículo 45. Graduación de las sanciones.
+En todo caso, para la graduación de las sanciones aplicables se tendrá en cuenta la trascendencia social de la infracción, el comportamiento especulativo del autor, la cuantía global de la operación objeto de infracción, la cuantía del beneficio obtenido con ella, la naturaleza de los servicios o productos vendidos, la posición en el mercado del infractor, los perjuicios causados y la intencionalidad o reiteración del infractor.
+
+### Artículo 46
+
+Artículo 46. Inspección.
+El Gobierno Vasco y los ayuntamientos, en el ejercicio de sus funciones de vigilancia, podrán inspeccionar productos, actividades, instalaciones y establecimientos comerciales, así como solicitar a las empresas cuanta información resulte precisa en relación con los mismos.
+
+### Artículo 47
+
+Artículo 47. Procedimiento sancionador.
+El procedimiento para la imposición de las sanciones a las infracciones previstas en esta ley y para los recursos que contra las resoluciones puedan interponerse será el establecido por la normativa de procedimiento administrativo en vigor.
+
+### Artículo 48
+
+Artículo 48. Prescripción.
+1. Las infracciones y sanciones previstas en esta ley prescribirán en los siguientes plazos:
+a) Infracciones leves: un año.
+b) Infracciones graves: dos años.
+c) Infracciones muy graves: tres años.
+2. El plazo de prescripción de las infracciones se computará desde el día en que se hubieran cometido.
+Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente sancionador estuviera paralizado más de un mes por causa no imputable al presunto responsable.
+3. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causa no imputable al infractor.
+Se modifica el apartado 1 por el art. 15 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+## TÍTULO VI
+
+De la acción administrativa sobre la actividad comercial
+
+### Artículo 49
+
+Artículo 49. Principios ordenadores.
+La acción administrativa se orientará de acuerdo con los principios de libre y leal competencia y la defensa de los legítimos intereses de los consumidores y usuarios, arbitrándose cuantas medidas procuren la racionalización y modernización de la actividad comercial y la transparencia del mercado.
+
+### Artículo 50
+
+Artículo 50. Reforma de las estructuras comerciales.
+1. El Gobierno Vasco, a través del departamento competente en materia de comercio, desarrollará cuantas actuaciones persigan la reforma de las estructuras comerciales, y especialmente las encaminadas a:
+a) La modernización de las técnicas y medios de comercialización.
+b) La racionalización y reducción de costes del proceso de distribución.
+c) La formación de agrupaciones o unidades integradas entre empresas de comercio.
+d) La organización de enseñanzas profesionales a quienes se dedican o vayan a dedicarse a la actividad comercial, en coordinación con los departamentos competentes en materia de educación y trabajo.
+e) La realización de estudios e investigaciones conducentes al mejor conocimiento de las estructuras y procesos de comercialización.
+f) Subsanar las deficiencias de infraestructura comercial.
+g) La asistencia técnica para la empresa comercial.
+En la realización de tales actuaciones el Gobierno Vasco potenciará la colaboración con los ayuntamientos que posean planes municipales de orientación comercial destinados a la modernización del comercio local, así como con otras entidades públicas o privadas, suscribiendo los oportunos convenios o en la forma que resulte más adecuada a la consecución de los fines perseguidos.
+2. El Gobierno realizará una actuación pública de fomento y, para ello adoptará las medidas oportunas y arbitrará los medios necesarios para impulsar, en el ámbito de las actuaciones de promoción de la competitividad comercial y en un plazo de ocho años, un plan de adaptación del comercio minorista al nuevo marco, para situar al sector en niveles de competitividad equivalentes a los de las empresas de los países con los que comparte el mercado interior de la Unión Europea.
+3. El plan de adaptación del comercio minorista mencionado en el apartado 2 del presente artículo abordará materias relacionadas con:
+– El desarrollo de iniciativas de modernización de la empresa comercial que redunden en una mejora de la productividad empresarial, en el incremento de la calidad y su mejora competitiva y en nuevas prestaciones y servicios destinados al consumidor.
+– Procesos de adecuación empresarial, favoreciendo la innovación y la modernización tecnológica asociadas a la gestión de las distintas funciones de la empresa.
+– Instrumentos de colaboración empresarial que mitiguen los efectos de la atomización del sector y el redimensionamiento de las estructuras comerciales.
+– La creación de estructuras de colaboración publico-privadas para el desarrollo de estrategias municipales, tanto urbanísticas como empresariales, desarrolladas a través de ejes comerciales que pongan en valor los entornos municipales como espacios de economía urbana.
+– La transmisión o sucesión de la actividad.
+– El análisis de impacto de género en el empleo de mujeres y hombres, tanto en el número de puestos como en las condiciones de trabajo o calidad de los empleos a crear.
+4. Los ayuntamientos, en el marco de la presente ley y de acuerdo con las directrices, programas y actuaciones contenidas en el plan de adaptación del comercio minorista, podrán aprobar y ejecutar planes de orientación comercial que concretarán, para el ámbito municipal, los objetivos a alcanzar en materia de comercio y las específicas medidas de fomento que se adopten para su consecución. Dichos planes se realizarán en colaboración con las políticas y líneas de fomento que en materia de comercio establezca el departamento de la Administración de la Comunidad Autónoma del País Vasco competente en este ámbito. Entre los objetivos a alcanzar se considerará prioritario garantizar el mantenimiento de la estructura de distribución comercial urbana.
+Estos planes deberán acomodarse a las previsiones que los planes urbanísticos municipales contemplen en relación con el uso comercial.
+Los planes tendrán una duración limitada a siete años y serán aprobados por los respectivos ayuntamientos, previo informe, en su caso, del consejo asesor del planeamiento municipal y del consejo sectorial de comercio u órgano similar.
+Cuando los planes afecten a más de un municipio, los ayuntamientos se mancomunarán y los planes de orientación comercial mancomunados deberán ser aprobados por todos los ayuntamientos concernidos.
+Se modifica por el art. 16 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+
+## TÍTULO VII
+
+De la Comisión Consultiva de Comercio
+
+### Artículo 51
+
+Artículo 51. La Comisión Consultiva de Comercio.
+1. La Comisión Consultiva de Comercio será el órgano consultivo del Departamento competente en materia de comercio para el desarrollo reglamentario de esta ley, así como para la política de promoción en el campo de la distribución comercial. Sus funciones, composición y normas de funcionamiento serán objeto de desarrollo reglamentario.
+2. En dicha Comisión estarán representados:
+a) El Gobierno Vasco.
+b) Las Diputaciones y Ayuntamientos.
+c) Las empresas comerciales a través de sus organizaciones y de las Cámaras de Comercio.
+d) Los trabajadores, a través de los sindicatos más representativos.
+e) Los consumidores y usuarios, a través de sus organizaciones.
+f) Los técnicos y expertos que el Departamento competente en materia de comercio juzgue necesario nombrar para el mejor funcionamiento de la Comisión.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Aquellos ayuntamientos en cuyo término municipal se ejerza la venta ambulante sin regulación al efecto deberán establecerla en el plazo máximo de seis meses a partir de la entrada en vigor de la presente ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En tanto los ayuntamientos no adapten su planeamiento urbanístico, en todo caso antes del 28 de diciembre de 2009, a las previsiones establecidas en el artículo 13 de la presente ley y a las contenidas en el Plan Territorial Sectorial de Equipamientos Comerciales, revisado conforme a lo previsto en la disposición final tercera de esta ley, continuará siendo de aplicación el régimen previsto en el referido artículo en la redacción dada al mismo por la Ley 7/2000, de 10 de noviembre, de modificación de la Ley 7/1994, de 27 de mayo, de la Actividad Comercial, así como las normas reglamentarias dictadas en su desarrollo.
+Se añade por el art. 17 de la Ley 7/2008, de 25 de junio. Ref. BOE-A-2011-14351.
+ Se deroga por la disposición derogatoria única de la Ley 7/2000, de 10 de noviembre. Ref. BOE-A-2011-19449.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Queda derogada la Ley 9/1983, de 19 de mayo, y su modificación por Ley 3/1986, de 19 de febrero. La restante normativa de ordenación comercial quedará vigente en cuanto no se oponga a la presente ley y hasta tanto no sea derogada por las disposiciones de desarrollo de la misma.
+
+### Disposición final
+
+Disposición final.
+Se autoriza al Gobierno Vasco a dictar las disposiciones necesarias para el desarrollo y ejecución de cuanto se previene en la presente ley.
+
+Por consiguiente, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades, que la guarden y hagan guardarla.
+Palacio de Ajuria-Enea, 7 de junio de 1994.–El Lehendakari, José Antonio Ardanza Garro.

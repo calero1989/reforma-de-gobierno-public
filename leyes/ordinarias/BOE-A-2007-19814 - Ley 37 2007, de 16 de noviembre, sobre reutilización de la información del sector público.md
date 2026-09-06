@@ -1,0 +1,388 @@
+# Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
+
+- Identificador BOE: `BOE-A-2007-19814`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+PREÁMBULO
+La información generada desde las instancias públicas, con la potencialidad que le otorga el desarrollo de la sociedad de la información, posee un gran interés para las empresas a la hora de operar en sus ámbitos de actuación, contribuir al crecimiento económico y la creación de empleo, y para los ciudadanos como elemento de transparencia y guía para la participación democrática. Recogiendo ambas aspiraciones la Directiva 2003/98/CE, de 17 de noviembre de 2003, del Parlamento Europeo y del Consejo, relativa a la reutilización de la información del sector público, se adoptó con la finalidad de explotar el potencial de información del sector público y superar las barreras de un mercado europeo fragmentado estableciendo unos criterios homogéneos, asentados en condiciones equitativas, proporcionadas y no discriminatorias para el tratamiento de la información susceptible de ser reutilizada por personas físicas o jurídicas.
+Las diferentes Administraciones y organismos del sector público recogen, producen, reproducen y difunden documentos para llevar a cabo la misión de servicio público que tienen encomendada. Como expresa la Directiva 2003/98/CE, la utilización de dichos documentos por otros motivos, ya sea con fines comerciales o no comerciales, constituye una reutilización. Por una parte, se persigue armonizar la explotación de la información en el sector público, en especial la información en soporte digital recopilada por sus distintos organismos relativa a numerosos ámbitos de interés como la información social, económica, jurídica, geográfica, meteorológica, turística, sobre empresas, patentes y educación, etc., al objeto de facilitar la creación de productos y servicios de información basados en documentos del sector público, y reforzar la eficacia del uso transfronterizo de estos documentos por parte de los ciudadanos y de las empresas privadas para que ofrezcan productos y servicios de información de valor añadido. Por otra parte, la publicidad de todos los documentos de libre disposición que obran en poder del sector público referentes no sólo a los procedimientos políticos, sino también a los judiciales, económicos y administrativos, es un instrumento esencial para el desarrollo del derecho al conocimiento, que constituye un principio básico de la democracia.
+Estos objetivos son los que persigue la presente ley, que mediante la incorporación a nuestro ordenamiento jurídico de la Directiva 2003/98/CE y, tomando como punto de partida el diverso tratamiento que las Administraciones y organismos del sector público han otorgado a la explotación de la información, dispone un marco general mínimo para las condiciones de reutilización de los documentos del sector público que acoja las diferentes modalidades que se pueden adoptar y que dimanan de la heterogeneidad de la propia información. En consecuencia, se prevé que sean las Administraciones y organismos del sector público los que decidan autorizar o no la reutilización de los documentos o categorías de documentos por ellos conservados con fines comerciales o no comerciales. Asimismo, se pretende promover la puesta a disposición de los documentos por medios electrónicos, propiciando el desarrollo de la sociedad de la información.
+La ley posee unos contornos específicos que la delimitan del régimen general de acceso previsto en el artículo 105 b) de la Constitución Española y en su desarrollo legislativo, en esencia representado por la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. En este sentido resulta necesario precisar que no se modifica el régimen de acceso a los documentos administrativos consagrado en nuestro ordenamiento jurídico, sino que se aporta un valor añadido al derecho de acceso, contemplando el marco de regulación básico para la explotación de la información que obra en poder del sector público, en un marco de libre competencia, regulando las condiciones mínimas a las que debe acogerse un segundo nivel de tratamiento de la información que se genera desde las instancias públicas.
+En el Título I de la ley se prevé el ámbito subjetivo de aplicación, que se extiende a las Administraciones y organismos del sector público en el sentido definido en su artículo 2, en consonancia con la delimitación realizada en la normativa de contratación del sector público. Desde la perspectiva de su aplicación objetiva, la ley contempla una definición genérica del término documento, acorde con la evolución de la sociedad de la información y que engloba todas las formas de representación de actos, hechos o información, y cualquier recopilación de los mismos, independientemente del soporte (escrito en papel, almacenado en forma electrónica o como grabación sonora, visual o audiovisual) conservados por las Administraciones y organismos del sector público, e incluye una delimitación negativa del ámbito de aplicación, enumerando aquellos documentos o categorías de documentos que no se encuentran afectados por la misma, atendiendo a diversos criterios. En este punto cabe precisar que la ley no se aplica a los documentos sometidos a derechos de propiedad intelectual o industrial (como las patentes, los diseños y las marcas registradas) especialmente por parte de terceros. A los efectos de esta ley se entiende por derechos de propiedad intelectual los derechos de autor y derechos afines, incluidas las formas de protección sui géneris. En este sentido, la ley tampoco afecta a la existencia de derechos de propiedad intelectual de las Administraciones y organismos del sector público, ni restringe en modo alguno el ejercicio de esos derechos fuera de los límites establecidos en su articulado. Las obligaciones impuestas por esta ley sólo deben aplicarse en la medida en que resulten compatibles con las disposiciones de los acuerdos internacionales sobre protección de los derechos de propiedad intelectual, en particular el Convenio de Berna para la protección de las obras literarias y artísticas (Convenio de Berna) y el Acuerdo sobre aspectos de los derechos de propiedad intelectual relacionados con el comercio (Acuerdo ADPIC). No obstante, las instancias públicas deben ejercer sus derechos de autor de una manera que facilite la reutilización.
+El Título II prevé los aspectos básicos del régimen jurídico de la reutilización, indicando que las Administraciones y organismos del sector público podrán optar por permitir la reutilización sin condiciones concretas o, mediante la expedición de una licencia, que imponga a su titular una serie de condiciones de reutilización que, en todo caso, deberán ser claras, justas y transparentes, no discriminatorias para categorías comparables de reutilización y atender al principio de libre competencia y de servicio público.
+Para ello el uso de licencias-tipo que puedan estar disponibles por medios electrónicos se revela como un elemento clave en este sentido. Por otra parte, se prevé que las distintas Administraciones y organismos difundan qué documentación es susceptible de ser reutilizada mediante la creación de listados e índices accesibles en línea de los documentos disponibles, con el objeto de fomentar y facilitar las solicitudes de reutilización. Para incrementar las posibilidades de reutilización, las Administraciones y organismos del sector público deben procurar ofrecer los documentos por medios electrónicos en los formatos o lenguas preexistentes.
+El régimen de reutilización garantiza el pleno respeto de los principios que consagran la protección de datos personales, en los términos establecidos en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de carácter personal y su normativa de desarrollo.
+Por otra parte, las Administraciones y organismos del sector público deben adecuarse a las normas de competencia, evitando acuerdos exclusivos. No obstante, la ley prevé una excepción a este principio cuando, con vistas a la prestación de un servicio de interés económico general, pueda resultar necesario conceder un derecho exclusivo a la reutilización de determinados documentos del sector público.
+Asimismo, la ley prevé los principios aplicables para aquellos supuestos en los que las Administraciones y organismos exijan contraprestaciones económicas por facilitar la reutilización de documentos con fines comerciales, cuya cuantía deberá ser razonable y orientada al coste, sin que los ingresos obtenidos superen los costes totales de recogida, producción, reproducción y difusión de los documentos.
+En el Título II se concretan algunos aspectos de la reutilización de la información, previendo las posibles condiciones a las que someter la reutilización, que podrían ir referidas a cuestiones como el uso correcto de los documentos, la garantía de que los documentos no serán modificados y la indicación de la fuente. Asimismo se indica el contenido mínimo que deben acoger las licencias.
+En el Título III la ley establece el procedimiento para poder arbitrar las solicitudes de reutilización, en el que tienen una especial relevancia los plazos de resolución, aspecto esencial para el contenido dinámico de la información, cuyo valor económico depende de su puesta a disposición inmediata y de una actualización regular. Asimismo se garantiza que en las resoluciones que se adopten se indiquen las vías de recurso de las que disponen los solicitantes para impugnar las decisiones que les afecten.
+Por último se establece para la Administración General del Estado un régimen sancionador conectado con el mal uso que se confiera a la información cuya reutilización ha sido autorizada.
+La presente Ley tiene carácter de legislación básica al amparo de lo dispuesto en el artículo 149.1.18.ª de la Constitución. Se exceptúa el artículo 11 y los apartados 1 (párrafos segundo y tercero), 3 y 8 del artículo 10.
+En la elaboración de la ley se ha recabado el informe de la Agencia Española de Protección de Datos.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto la regulación básica del régimen jurídico aplicable a la reutilización de los documentos elaborados o custodiados por los sujetos incluidos en el ámbito subjetivo de aplicación regulado en el artículo 2, así como de los datos de investigación de acuerdo con las condiciones establecidas en el artículo 3.bis.
+La aplicación de esta ley se hará sin perjuicio del régimen aplicable al derecho de acceso a los documentos y a las especialidades previstas en su normativa reguladora.
+Se modifica por el art. 64.1 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+
+### Artículo 2
+
+Artículo 2. Ámbito subjetivo de aplicación.
+La presente Ley se aplica a:
+a) La Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local.
+b) Los organismos y entidades del sector público institucional creados para satisfacer necesidades de interés general, que no tengan carácter industrial o mercantil.
+c) Las sociedades mercantiles pertenecientes al sector público institucional que:
+1.º Lleven a cabo su actividad en los ámbitos definidos en la Directiva 2014/25/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, relativa a la contratación por entidades que operan en los sectores del agua, la energía, los transportes y los servicios postales y por la que se deroga la Directiva 2004/17/CE Texto pertinente a efectos del EEE.
+2.º Actúen como operadores de servicio público con arreglo al artículo 2 del Reglamento (CE) n.º 1370/2007 del Parlamento Europeo y del Consejo, de 23 de octubre de 2007, sobre los servicios públicos de transporte de viajeros por ferrocarril y carretera y por el que se derogan los Reglamentos (CEE) n.º 1191/69 y (CEE) n.º 1107/70 del Consejo.
+3.º Actúen como compañías aéreas que cumplen obligaciones de servicio público con arreglo al artículo 16 del Reglamento (CE) n.º 1008/2008 del Parlamento Europeo y del Consejo, de 24 de septiembre de 2008, sobre normas comunes para la explotación de servicios aéreos en la Comunidad.
+4.º Actúen como armadores comunitarios que cumplen obligaciones de servicio público con arreglo al artículo 4 del Reglamento (CEE) n.º 3577/92 del Consejo, de 7 de diciembre de 1992, por el que se aplica el principio de libre prestación de servicios a los transportes marítimos dentro de los Estados miembros (cabotaje marítimo).
+Se modifica por el art. 64.2 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+ Se modifica, con efectos de 9 de marzo de 2018, por la disposición final 13.1 de la Ley 9/2017, de 8 de noviembre. Ref. BOE-A-2017-12902#df-13
+
+### Artículo 3
+
+Artículo 3. Ámbito objetivo de aplicación.
+1. Se entiende por reutilización el uso por personas físicas o jurídicas de documentos elaborados o custodiados por:
+a) Los sujetos previstos en los párrafos a) y b) del artículo 2, con fines comerciales o no comerciales distintos del propósito inicial que tenían esos documentos en la actividad de servicio público para la que se produjeron, excepto para el intercambio de documentos entre dichos sujetos en el marco de sus actividades de servicio público.
+b) Las sociedades mercantiles públicas a que se refiere el párrafo c) del artículo 2 con fines comerciales o no comerciales distintos del propósito inicial que tenían esos documentos de prestar servicios de interés general para el que se produjeron, excepto para el intercambio de documentos entre estas sociedades mercantiles públicas y el resto de sujetos previstos en el artículo 2 que se realice exclusivamente en el desarrollo de las actividades de servicio público de estos últimos.
+2. Esta ley se aplica, asimismo, a los datos de investigación en los términos previstos en el artículo 3.bis y a los documentos a los que se aplica la Directiva 2007/2/CE del Parlamento Europeo y del Consejo, de 14 de marzo de 2007, por la que se establece una infraestructura de información espacial en la Comunidad Europea (Inspire).
+3. Esta ley no será aplicable a los siguientes documentos elaborados o custodiados por los sujetos previstos en el artículo 2:
+a) Los documentos sobre los que existan prohibiciones o limitaciones en el derecho de acceso en virtud de lo previsto en el artículo 13 de la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno y las demás normas que regulan el derecho de acceso o la publicidad registral con carácter específico.
+b) De conformidad con su legislación específica, los documentos que afecten a la defensa nacional, la seguridad del Estado, la protección de la seguridad pública, así como los obtenidos por la Administración Tributaria y la Administración de la Seguridad Social en el desempeño de sus funciones, los sometidos al secreto estadístico, a la confidencialidad comercial, tales como secretos comerciales, profesionales o empresariales y, en general, los documentos relacionados con actuaciones sometidas por una norma al deber de reserva, secreto o confidencialidad.
+c) Los documentos para cuyo acceso se requiera ser titular de un derecho o interés legítimo.
+d) Los documentos que obran en poder de los sujetos previstos en los párrafos a) y b) del artículo 2 para finalidades ajenas a las funciones de servicio público de acuerdo con la legislación aplicable y en particular, con la normativa de creación del servicio público de que se trate.
+e) Los documentos sobre los que existan derechos de propiedad intelectual o industrial por parte de terceros.
+No obstante, esta ley no afecta a la existencia de derechos de propiedad intelectual de los sujetos previstos en el artículo 2 ni a su posesión por éstos, ni restringe el ejercicio de esos derechos fuera de los límites establecidos por esta ley. El ejercicio de los derechos de propiedad intelectual de los sujetos previstos en el artículo 2 deberá realizarse de forma que se facilite su reutilización.
+Lo previsto en el párrafo anterior será de aplicación, asimismo, a los documentos respecto de los que las bibliotecas, incluidas las universitarias, los museos y los archivos sean titulares originarios de los derechos de propiedad intelectual como creadores de la misma conforme a lo establecido en la legislación de propiedad intelectual, así como cuando sean titulares porque se les haya transmitido la titularidad de los derechos sobre dicha obra según lo dispuesto en la citada legislación, debiendo en este caso respetar lo establecido en los términos de la cesión.
+f) Los documentos conservados por las entidades que gestionen los servicios esenciales de radiodifusión sonora y televisiva y sus filiales.
+g) Los documentos conservados por instituciones educativas de nivel secundario e inferior y, en el caso de todas las demás instituciones educativas, documentos distintos de los datos investigación referidos en el artículo 1.
+h) Los documentos distintos de los datos de investigación mencionados en el artículo 1, conservados por organizaciones que realizan actividades de investigación y organizaciones que financian la investigación, incluidas las organizaciones creadas para la transferencia de los resultados de la investigación.
+i) Los documentos producidos o conservados por instituciones culturales que no sean bibliotecas, incluidas las universitarias, museos y archivos.
+j) Los logotipos, divisas e insignias.
+k) Los documentos a los que no pueda accederse o cuyo acceso esté limitado en virtud de regímenes de acceso por motivos de protección de los datos personales, de conformidad con la normativa vigente y las partes de documentos accesibles en virtud de dichos regímenes que contengan datos personales cuya reutilización se haya definido por ley como incompatible con la legislación relativa a la protección de las personas físicas con respecto al tratamiento de los datos personales.
+l) Los documentos elaborados por entidades del sector público empresarial, excepto las previstas en el párrafo c) del artículo 2, y fundacional en el ejercicio de las funciones atribuidas legalmente y los de carácter comercial, industrial o mercantil elaborado en ejecución del objeto social previsto en sus Estatutos.
+m) Los estudios realizados por entidades del sector público en colaboración con el sector privado, mediante convenios o cualquier otro tipo de instrumento, como fórmula de financiación de los mismos.
+n) Los documentos cuyo acceso esté excluido o limitado por motivos de protección de información sensible sobre infraestructuras críticas.
+ñ) Los documentos producidos o conservados por las sociedades mercantiles públicas previstas en el párrafo c) del artículo 2, fuera del ámbito de la prestación de servicios de interés general o relativos a actividades sometidas directamente a la competencia y no sujetas a la normativa de contratación de entidades que operan en los sectores del agua, la energía, los transportes y los servicios postales.
+4. En ningún caso, podrá ser objeto de reutilización, la información en que la ponderación a la que se refieren los artículos 5.3 y 15 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, arroje como resultado la prevalencia del derecho fundamental a la protección de datos de carácter personal, a menos que se produzca la disociación de los datos a la que se refiere el artículo 15.4 de la citada Ley.
+Se modifica por el art. 64.3 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+ Se modifica el apartado 2, con efectos de 9 de marzo de 2018, por la disposición final 13.2 de la Ley 9/2017, de 8 de noviembre. Ref. BOE-A-2017-12902#df-13
+ Se modifica por el art. único.1 de la Ley 18/2015, de 9 de julio. Ref. BOE-A-2015-7731.
+
+### Artículo 3 bis
+
+Artículo 3.bis. Datos de investigación.
+1. Las entidades incluidas en el ámbito de aplicación del artículo 2 de la presente Ley y que realicen actividades de investigación o financien la investigación adoptarán medidas para apoyar que los datos de investigaciones financiadas públicamente sean plenamente reutilizables, interoperables y de acceso abierto, teniendo en cuenta las limitaciones que pudieran derivarse de los derechos de propiedad intelectual e industrial, la protección de datos personales y la confidencialidad, la seguridad y los intereses comerciales legítimos.
+2. Sin perjuicio de lo previsto en el artículo 3.3.e) y de los intereses comerciales legítimos, las actividades de transferencia de conocimientos y los derechos de propiedad intelectual preexistentes, los datos de investigación serán reutilizables para fines comerciales o no comerciales, de conformidad con lo dispuesto en la presente Ley, cuando sean financiados con fondos públicos y cuando los investigadores, las universidades o las organizaciones que realizan actividades de investigación o que financien la investigación ya hubieran puesto tales datos a disposición del público a través de un repositorio institucional o temático y, en todo caso, con pleno respeto a la normativa vigente en materia de propiedad intelectual.
+Se añade por el art. 64.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+
+### Artículo 3 ter
+
+Artículo 3.ter. Conjuntos de datos de alto valor.
+1. Además de la lista de conjuntos de datos específicos de alto valor que, en su caso, establezca la Comisión Europea, se podrán determinar a nivel nacional otros conjuntos de datos adicionales seleccionados en relación a su potencial para generar beneficios socioeconómicos o medioambientales importantes y servicios innovadores; beneficiar a un gran número de usuarios, en concreto pymes; contribuir a generar ingresos, y la posibilidad de ser combinados con otros conjuntos de datos.
+2. Dichos conjuntos de datos de alto valor, tanto los establecidos a nivel europeo como nacional:
+a) Estarán disponibles gratuitamente, a reserva de lo previsto en el artículo 7.9.a).
+b) Serán legibles por máquina
+c) Se suministrarán a través de interfaz de programación de aplicaciones (API), y
+d) Se proporcionarán en forma de descarga masiva, cuando proceda.
+Se podrán especificar acuerdos organizativos relativos a la publicación y de reutilización de los tipos de conjuntos de datos de alto valor. Esos acuerdos serán compatibles con las licencias tipo abiertas. Los acuerdos podrán incluir condiciones aplicables a la reutilización, el formato de los datos y los metadatos, así como acuerdos técnicos para la difusión.
+3. El Ministerio de Asuntos Económicos y Transformación Digital aprobará la lista de los conjuntos de datos de alto valor nacionales que se publicará mediante Resolución de la Secretaria de Estado de Digitalización e Inteligencia Artificial. La selección y actualización de los conjuntos de datos incluidos en dicha lista se realizará a través de la División Oficina del Dato contando con la colaboración de los actores interesados, tanto públicos como privados, a través de los órganos y mecanismos que se establezcan.
+Se añade por el art. 64.5 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+
+## TÍTULO II
+
+Régimen jurídico de la reutilización
+
+### Artículo 4
+
+Artículo 4. Régimen administrativo de la reutilización.
+1. Los documentos de los sujetos previstos en el artículo 2 serán reutilizables en los términos previstos en esta ley. Dichos sujetos velarán porque los documentos a los que se aplica esta normativa puedan ser reutilizados para fines comerciales o no comerciales de conformidad con alguna o algunas de las siguientes modalidades:
+a) Reutilización de documentos puestos a disposición del público sin sujeción a condiciones.
+b) Reutilización de documentos puestos a disposición del público con sujeción a condiciones establecidas en licencias-tipo.
+c) Reutilización de documentos previa solicitud, conforme al procedimiento previsto en el artículo 10 o, en su caso, en la normativa autonómica, pudiendo incorporar en estos supuestos condiciones establecidas en una licencia.
+d) Acuerdos exclusivos conforme el procedimiento previsto en el artículo 6.
+2. La reutilización de documentos no estará sujeta a condiciones a menos que estas sean objetivas, proporcionadas, no discriminatorias y estén justificadas por un objetivo de interés público. En los supuestos de sujeción, las condiciones se fijarán en una licencia.
+Los sujetos previstos en el artículo 2 podrán facilitar licencias-tipo para la reutilización de documentos, las cuales deberán estar disponibles en formato digital y ser procesables electrónicamente.
+3. Las condiciones incorporadas en las licencias habrán de respetar los siguientes criterios:
+a) Deberán ser claras, justas y transparentes.
+b) No deberán restringir las posibilidades de reutilización ni limitar la competencia.
+c) No deberán ser discriminatorias para categorías comparables de reutilización, incluida la reutilización transfronteriza.
+4. Los sujetos a que se refieren los párrafos a) y b) del artículo 2 no ejercerán el derecho del fabricante de una base de datos previsto en el artículo 133 de la Ley 5/1998, de 6 de marzo, de incorporación al Derecho español de la Directiva 96/9/CE, del Parlamento Europeo y del Consejo, sobre la protección jurídica de las bases de datos, para evitar la reutilización de documentos o restringir la reutilización más allá de los límites establecidos en esta Ley.
+5. Los sujetos previstos en el artículo 2 crearán dispositivos y sistemas de gestión documental que permitan a los ciudadanos una recuperación eficaz de la información, disponible en línea y que enlacen con los dispositivos y sistemas de gestión puestos a disposición por otras Administraciones. Asimismo, facilitarán herramientas informáticas que permitan el acceso en línea a los listados de los documentos que puedan ser ampliamente reutilizables y la búsqueda de los documentos disponibles para su reutilización, con los metadatos pertinentes de conformidad con lo establecido en las normas técnicas de interoperabilidad, accesibles, siempre que sea posible y apropiado, en línea y en formato legible por máquina.
+Los sujetos previstos en los párrafos a) y b) del artículo 2 promoverán la creación de sistemas que permitan la conservación de los documentos disponibles para su reutilización.
+La Administración General del Estado mantendrá el catálogo nacional de información pública reutilizable en el que se pondrán a disposición los conjuntos de datos relativos a los documentos a los que aplica la presente Ley, en formatos accesibles, fáciles de localizar y reutilizables. Este catálogo dará cobertura, al menos, al ámbito de la Administración General del Estado y a sus organismos y entidades de derecho público vinculados o dependientes. Los posibles catálogos de información pública reutilizable establecidos por el resto de sujetos previstos en el artículo 2 deberán interoperar con el catálogo nacional cumpliendo las Normas Técnicas de Interoperabilidad que se establezcan al respecto.
+Los catálogos de información pública reutilizable proporcionarán información sobre los derechos previstos en esta ley y ofrecerán la ayuda pertinente.
+En la medida de lo posible, se facilitará la búsqueda multilingüe de los documentos, en particular permitiendo la agregación de metadatos a escala de la Unión Europea.
+6. La reutilización de documentos que contengan datos de carácter personal se regirá por lo dispuesto en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+7. La utilización de los conjuntos de datos se realizará por parte de los usuarios o agentes de la reutilización bajo su responsabilidad y riesgo, correspondiéndoles en exclusiva a ellos responder frente a terceros por daños que pudieran derivarse de ella.
+Los sujetos previstos en el artículo 2 no serán responsables del uso que de su información hagan los agentes reutilizadores ni tampoco de los daños sufridos o pérdidas económicas que, de forma directa o indirecta, produzcan o puedan producir perjuicios económicos, materiales o sobre datos, provocados por el uso de la información reutilizada.
+8. La puesta a disposición de un documento para su reutilización no supone renuncia al derecho a su explotación, ni es impedimento para la modificación de los datos que en el mismo consten como consecuencia del ejercicio de funciones o competencias de dicho sujeto.
+9. Igualmente, no se podrá indicar, de ningún modo, que los sujetos previstos en el artículo 2 pertenecientes al ámbito estatal titulares de la información reutilizada participan, patrocinan o apoyan la reutilización que se lleve a cabo de ella.
+Se modifica por el art. 64.6 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+ Se modifica por el art. único.2 de la Ley 18/2015, de 9 de julio. Ref. BOE-A-2015-7731.
+
+### Artículo 5
+
+Artículo 5. Formatos disponibles para la reutilización.
+1. La elaboración y la puesta a disposición de los documentos incluidos en el ámbito de aplicación de la presente Ley se efectuará, en la medida de lo posible, conforme al principio de documentos abiertos desde el diseño y por defecto.
+2. Los sujetos previstos en el artículo 2 promoverán que la puesta a disposición de los documentos para su reutilización, así como que la tramitación de solicitudes de reutilización se realice por medios electrónicos y mediante plataforma multicanal cuando ello sea compatible con los medios técnicos de que disponen.
+3. Los sujetos previstos en el artículo 2 facilitarán sus documentos en cualquier formato o lengua preexistente, pero también procurarán, siempre que ello sea posible y apropiado, proporcionarlos en formato abierto, accesible, legible por máquina conforme a lo previsto en el apartado anterior y conjuntamente con sus metadatos, con los niveles más elevados de precisión y desagregación, fáciles de localizar y reutilizables. Tanto el formato como los metadatos, en la medida de lo posible, deben cumplir estándares y normas formales abiertas. Esto no implicará que estén obligados a crear documentos, adaptarlos o facilitar extractos de documentos, cuando ello suponga un esfuerzo desproporcionado que conlleve algo más que una simple manipulación.
+4. Los sujetos previstos en el artículo 2 pondrán a disposición los datos dinámicos de los que dispongan para su reutilización inmediatamente después de su recopilación, a través de interfaces de programación de aplicaciones (API) adecuadas y, cuando proceda, en forma de descarga masiva.
+Cuando la puesta a disposición de datos dinámicos para su reutilización inmediatamente después de su recopilación pueda superar sus capacidades financieras o técnicas suponiendo un esfuerzo desproporcionado, esos datos dinámicos se pondrán a disposición para su reutilización en un plazo o con restricciones técnicas temporales que no perjudiquen indebidamente su potencial económico y social.
+5. Los conjuntos de datos de alto valor, conforme al artículo 3 ter, que obren en poder de los sujetos previstos en el artículo 2 se pondrán a disposición para su reutilización en un formato legible por máquina, a través de interfaces de programación de aplicaciones adecuadas y, cuando proceda, en forma de descarga masiva.
+6. Con arreglo a la presente Ley, no podrá exigirse a los sujetos previstos en el artículo 2 que mantengan la producción y el almacenamiento de un determinado tipo de documento con vistas a su reutilización.
+7. Sin perjuicio de las definiciones establecidas en el Anexo, la puesta a disposición de los documentos para su reutilización por medios electrónicos por parte de los sujetos previstos en el artículo 2 debe realizarse en los términos establecidos por las normas reguladoras de la Administración electrónica, la interoperabilidad y los datos abiertos.
+8. Con arreglo a lo establecido en el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, los medios electrónicos de puesta a disposición de los documentos a que se refiere el apartado 2 de este artículo serán accesibles a las personas con discapacidad, de acuerdo con las normas técnicas existentes en la materia.
+Asimismo, los sujetos previstos en el artículo 2 adoptarán, en lo posible, las medidas adecuadas para facilitar que aquellos documentos destinados a personas con discapacidad estén disponibles en formatos que tengan en cuenta las posibilidades de reutilización por parte de dichas personas.
+No regirá esta obligación en los supuestos en los que dicha adecuación no constituya un ajuste razonable, entendiéndose por tal lo dispuesto en el artículo 7 del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
+Se modifica por el art. 64.7 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+ Se modifica por el art. único.3 de la Ley 18/2015, de 9 de julio. Ref. BOE-A-2015-7731.
+
+### Artículo 6
+
+Artículo 6. Prohibición de derechos exclusivos.
+1. La reutilización de documentos estará abierta a todos los agentes potenciales del mercado, incluso en caso de que uno o más de los agentes exploten ya productos con valor añadido basados en estos documentos.
+Los contratos o acuerdos de otro tipo entre los sujetos previstos en el artículo 2 que conserven los documentos y los terceros no otorgarán derechos exclusivos, sin perjuicio de lo previsto en los siguientes apartados.
+2. Solo será admisible la suscripción de acuerdos exclusivos que corresponda a los mencionados sujetos a favor de terceros cuando tales derechos exclusivos sean necesarios para la prestación de un servicio de interés público. En tal caso, el sujeto previsto en el artículo 2 de que se trate quedará obligado a la realización de una revisión periódica, y en todo caso, cada tres años, con el fin de determinar si permanece la causa que justificó la concesión del mencionado derecho exclusivo. Estos acuerdos exclusivos deberán ser transparentes y públicos, debiendo ser puestos a disposición del público en línea al menos dos meses antes de su entrada en vigor.
+3. Excepcionalmente, cuando exista un acuerdo exclusivo relacionado con la digitalización de los recursos culturales, el período de exclusividad no será superior, por regla general, a diez años. En el caso de que lo sea, su duración se revisará durante el undécimo año y, si procede, cada siete años a partir de entonces. Tales acuerdos deberán ser transparentes y se pondrán en conocimiento del público.
+Cuando exista un acuerdo exclusivo en el sentido establecido en el párrafo anterior deberá facilitarse gratuitamente al sujeto de que se trate previsto en los párrafos a) y b) del artículo 2, como parte de dichos acuerdos, una copia de los recursos culturales digitalizados de la misma calidad y características técnicas del original, tales como formato, resolución, gama de colores, etc., con sus metadatos y requisitos técnicos de digitalización establecidos en la normas nacionales e internacionales pertinentes. Esa copia estará disponible para su reutilización una vez finalizado el período de exclusividad.
+4. Los acuerdos que, sin conceder expresamente un derecho exclusivo, conlleven una disponibilidad limitada para la reutilización de documentos por entidades distintas de quienes participen en el acuerdo, deberán ser transparentes y públicos, siendo sus condiciones finales puestas a disposición del público en línea al menos dos meses antes de su entrada en vigor. El efecto de estos acuerdos sobre la disponibilidad de datos para su reutilización estará sujeto a revisiones periódicas y, en todo caso, se someterá a revisión cada tres años.
+Se modifica por el art. 64.8 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+ Se modifica por el art. único.4 de la Ley 18/2015, de 9 de julio. Ref. BOE-A-2015-7731.
+
+### Artículo 7
+
+Artículo 7. Tarifas.
+1. La reutilización de los documentos será gratuita. No obstante, podrá aplicarse una tarifa por el suministro de documentos para su reutilización en las condiciones previstas en la normativa estatal vigente o, en su caso, en la normativa que resulte de aplicación en el ámbito autonómico o local, limitándose la misma a los costes marginales en que se incurra para su reproducción, puesta a disposición, difusión, anonimización de datos personales y las medidas adoptadas para proteger información comercial confidencial.
+En caso de que un sujeto previsto en el artículo 2 reutilice los documentos como base para actividades comerciales ajenas a las funciones propias que tenga atribuidas, deberán aplicarse a la entrega de documentos para dichas actividades las mismas tarifas y condiciones que se apliquen a los demás usuarios.
+2. Lo dispuesto en el apartado anterior no se aplicará a:
+a) Los sujetos previstos en el párrafo b) del artículo 2 a los que se exija generar ingresos para cubrir una parte sustancial de sus costes relativos a la realización de sus misiones de servicio público.
+b) Las bibliotecas, incluidas las universitarias, los museos y los archivos.
+c) Las sociedades mercantiles públicas a que se refiere párrafo c) del artículo 2.
+3. Se publicará en línea una lista de los sujetos a los que se refiere la letra a) del apartado anterior.
+4. En los casos a los que se refieren los párrafos a) y c) del apartado 2, se calculará el precio total conforme a criterios objetivos, transparentes y comprobables, que serán fijados mediante la normativa que corresponda. Los ingresos totales de cada sujeto obtenidos por suministrar documentos y autorizar su reutilización durante el ejercicio contable apropiado no superarán el coste de recogida, producción, reproducción, difusión y almacenamiento de datos, incrementado por un margen de beneficio razonable de la inversión y, en su caso, anonimización de datos personales y medidas adoptadas para proteger la información comercial confidencial. La tarifa se calculará conforme a los principios contables aplicables y de acuerdo con la normativa aplicable.
+5. Cuando quienes apliquen tarifas sean los sujetos mencionados en el párrafo b) del apartado 2, los ingresos totales obtenidos por suministrar y autorizar la reutilización de documentos durante el ejercicio contable apropiado no superarán el coste de recogida, producción, reproducción, difusión, almacenamiento de datos, conservación, compensación de derechos y, en su caso, anonimización de datos personales y medidas adoptadas para proteger la información comercial confidencial, incrementado por un margen de beneficio razonable de la inversión. A efectos de calcular dicho margen, estos sujetos podrán tener en cuenta los precios aplicados por el sector privado por la reutilización de documentos idénticos o similares. Las tarifas se calcularán conforme a los principios contables aplicables a los sujetos correspondientes y de acuerdo con la normativa aplicable.
+6. Se podrán aplicar tarifas diferenciadas según se trate de reutilización con fines comerciales o no comerciales.
+7. Los sujetos previstos en el artículo 2 publicarán por medios electrónicos, siempre que sea posible y apropiado, las tarifas fijadas para la reutilización de documentos que estén en su poder, así como las condiciones aplicables y el importe real de los mismos, incluida la base de cálculo utilizada.
+En el resto de los casos en que se aplique una tarifa, el sujeto de que se trate indicará por adelantado qué factores se tendrán en cuenta para el cálculo de la misma. Cuando se solicite, dicho sujeto también indicará cómo se ha calculado esa tarifa en relación con la solicitud de reutilización concreta.
+8. Cuando las tarifas a exigir tengan la naturaleza de tasa, su establecimiento y la regulación de sus elementos esenciales se ajustarán a lo previsto en la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, y demás normativa tributaria.
+9. En todo caso, los usuarios podrán reutilizar gratuitamente:
+a) Los conjuntos de datos de alto valor mencionados en el artículo 3 ter salvo que:
+1.º) Se trate de documentos de bibliotecas, incluidas las universitarias, los museos y los archivos.
+2.º) Se trate de documentos en poder de sociedades mercantiles públicas previstas en el párrafo c) del artículo 2, cuando el hecho de poner a disposición dichos conjuntos de datos de manera gratuita pudiera provocar una distorsión de la competencia en los mercados correspondientes.
+3.º) Cuando el hecho de poner a disposición de forma gratuita conjuntos de datos de alto valor pueda tener un impacto sustancial en el presupuesto de organismos o entidades de derecho público que deban obtener ingresos para financiar su actividad de servicio público, en cuyo caso la Administración Pública a la que estén vinculados o de la que dependan podrá eximir a tales organismos o entidades de la obligación de poner a disposición de forma gratuita los conjuntos de datos de alto valor, por un período no superior a los dos años a partir de la entrada en vigor del acto de ejecución o resolución que apruebe la lista de conjuntos de datos de alto valor.
+b) Los datos de investigación previstos en el artículo 1 de esta ley.
+Se modifica por el art. 64.9 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+ Se modifican los apartados 1 y 6, con efectos de 9 de marzo de 2018, por la disposición final 13.3 y 4 de la Ley 9/2017, de 8 de noviembre. Ref. BOE-A-2017-12902#df-13
+ Se modifica por el art. único.5 de la Ley 18/2015, de 9 de julio. Ref. BOE-A-2015-7731.
+
+### Artículo 8
+
+Artículo 8. Condiciones de reutilización.
+La reutilización de la información de los sujetos previstos en el artículo 2 podrá estar sometida, entre otras, a las siguientes condiciones generales:
+a) Que el contenido de la información, incluyendo sus metadatos, no sea alterado.
+b) Que no se desnaturalice el sentido de la información.
+c) Que se cite la fuente.
+d) Que se mencione la fecha de la última actualización.
+e) Cuando la información contenga datos de carácter personal, la finalidad o finalidades concretas para las que es posible la reutilización futura de los datos.
+f) Cuando la información, aún siendo facilitada de forma disociada, contuviera elementos suficientes que pudieran permitir la identificación de los interesados en el proceso de reutilización, la prohibición de revertir el procedimiento de disociación mediante la adición de nuevos datos obtenidos de otras fuentes.
+Se modifica el primer párrafo por el art. 64.10 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+ Se modifica por el art. único.6 de la Ley 18/2015, de 9 de julio. Ref. BOE-A-2015-7731.
+
+### Artículo 9
+
+Artículo 9. Licencias.
+1. Las Administraciones y organismos del sector público incluidos dentro del ámbito de aplicación de esta Ley, fomentarán el uso de licencias abiertas con las mínimas restricciones posibles sobre la reutilización de la información.
+2. En los casos en los que se otorgue una licencia, ésta deberá reflejar, al menos, la información relativa a la finalidad concreta para la que se concede la reutilización, indicando igualmente si la misma podrá ser comercial o no comercial, para la que se concede la reutilización, la duración de la licencia, las obligaciones del beneficiario y del organismo concedente, las responsabilidades de uso y modalidades financieras, indicándose el carácter gratuito o, en su caso, la tarifa aplicable.
+Se modifica por el art. único.7 de la Ley 18/2015, de 9 de julio. Ref. BOE-A-2015-7731.
+
+## TÍTULO III
+
+Procedimiento y régimen sancionador
+
+### Artículo 10
+
+Artículo 10. Procedimiento de tramitación de solicitudes de reutilización.
+1. Las solicitudes de reutilización de documentos administrativos deberán dirigirse al órgano competente, entendiendo por tal aquel en cuyo poder obren los documentos cuya reutilización se solicita. Las solicitudes se presentarán por aquellas personas físicas o jurídicas que pretendan reutilizar los documentos de conformidad con lo previsto en esta Ley.
+No obstante, cuando el órgano al que se ha dirigido la solicitud no posea la información requerida pero tenga conocimiento del sujeto previsto en el artículo 2 que la posee, le remitirá a la mayor brevedad posible la solicitud dando cuenta de ello al solicitante.
+Cuando ello no sea posible, informará directamente al solicitante sobre el sujeto previsto en el artículo 2 al que, según su conocimiento, ha de dirigirse para solicitar dicha información.
+2. La solicitud deberá reflejar el contenido previsto en el artículo 66.1 de la Ley 39/2015, de 1 de octubre, identificando el documento o documentos susceptibles de reutilización y especificando los fines, comerciales o no comerciales, de la reutilización. No obstante, cuando una solicitud esté formulada de manera imprecisa, el órgano competente pedirá al solicitante que la concrete y le indicará expresamente que si así no lo hiciera se le tendrá por desistido de su solicitud, en los términos previstos en el artículo 68 de la Ley 39/2015, de 1 de octubre. El solicitante deberá concretar su petición en el plazo de diez días a contar desde el día siguiente al de la recepción de dicho requerimiento. A estos efectos, el órgano competente asistirá al solicitante para delimitar el contenido de la información solicitada.
+El cómputo del plazo para resolver la solicitud de información se entenderá suspendido por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento por el destinatario o, en su defecto, por el transcurso del plazo concedido, informándose al solicitante de la suspensión del plazo para resolver.
+3. El órgano competente resolverá las solicitudes de reutilización en el plazo máximo de veinte días desde la recepción de la solicitud en el registro del órgano competente para su tramitación, con carácter general. Cuando por el volumen y la complejidad de la información solicitada resulte imposible cumplir el citado plazo se podrá ampliar el plazo de resolución en otros veinte días. En este caso deberá informarse al solicitante, en el plazo máximo de diez días, de toda ampliación del plazo, así como de las razones que lo justifican.
+4. Las resoluciones que tengan carácter estimatorio podrán autorizar la reutilización de los documentos sin condiciones o bien supondrán el otorgamiento de la oportuna licencia para su reutilización en las condiciones pertinentes impuestas a través de la misma. En todo caso la resolución estimatoria supondrá la puesta a disposición del documento en el mismo plazo previsto en el apartado anterior para resolver.
+5. Si la resolución denegara total o parcialmente la reutilización solicitada, se notificará al solicitante, comunicándole los motivos de dicha negativa en los plazos mencionados en el apartado 3, motivos que habrán de estar fundados en alguna de las disposiciones de esta Ley o en el ordenamiento jurídico vigente.
+6. En caso de que la resolución desestimatoria esté fundada en la existencia de derechos de propiedad intelectual o industrial por parte de terceros, el órgano competente deberá incluir una referencia a la persona física o jurídica titular de los derechos cuando ésta sea conocida, o, alternativamente, al cedente del que el organismo haya obtenido los documentos. Las bibliotecas, incluidas las universitarias, los museos y los archivos no estarán obligadas a incluir tal referencia.
+7. En todo caso, las resoluciones adoptadas deberán contener una referencia a las vías de recurso a que pueda acogerse en su caso el solicitante, en los términos previstos en el artículo 40 de la Ley 39/2015, de 1 de octubre.
+8. Si en el plazo máximo previsto para resolver y notificar no se hubiese dictado resolución expresa, el solicitante podrá entender desestimada su solicitud.
+9. Las sociedades mercantiles públicas previstas en el párrafo c) del artículo 2, los centros de enseñanza, las organizaciones que realicen actividades de investigación o que financien tales actividades no estarán obligadas a cumplir lo previsto en este artículo.
+Se modifican los apartados 1, 2 y 7 y se añade el 9 por el art. 64.11 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+ Se modifica por el art. único.8 de la Ley 18/2015, de 9 de julio. Ref. BOE-A-2015-7731.
+
+### Artículo 10 bis
+
+Artículo 10.bis. Unidad responsable de información.
+1. Cada sujeto previsto en el artículo 2 determinará la Unidad responsable de garantizar la puesta a disposición de su información.
+2. En la Administración General del Estado se designarán las Unidades responsables de información en el ámbito de las Subsecretarías de cada Departamento. Los restantes sujetos previstos en el artículo 2 del sector público estatal con personalidad jurídica propia designarán sus Unidades correspondientes.
+3. La Unidad responsable de información tendrá las siguientes funciones:
+a) Coordinar las actividades de reutilización de la información con las políticas existentes en materia de publicaciones, información administrativa y administración electrónica.
+b) Facilitar información sobre los órganos competentes, dentro de su ámbito, para la recepción, tramitación y resolución de las solicitudes de reutilización que se tramiten de acuerdo con lo previsto en el artículo 10.
+c) Promover que la información sea provista en los formatos adecuados y esté actualizada en la medida de lo posible.
+d) Coordinar y fomentar las actividades de promoción, concienciación y formación.
+Se añade por el art. 64.12 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+
+### Artículo 11
+
+Artículo 11. Régimen sancionador.
+1. En el ámbito de la Administración General del Estado, se considerarán infracciones muy graves a lo previsto en esta ley:
+a) La desnaturalización del sentido de la información para cuya reutilización se haya concedido una licencia;
+b) La alteración muy grave del contenido de la información para cuya reutilización se haya concedido una licencia.
+2. Se considerarán infracciones graves:
+a) La reutilización de documentación sin haber obtenido la correspondiente licencia en los casos en que ésta sea requerida;
+b) La reutilización de la información para una finalidad distinta a la que se concedió;
+c) La alteración grave del contenido de la información para cuya reutilización se haya concedido una licencia;
+d) El incumplimiento grave de otras condiciones impuestas en la correspondiente licencia o en la normativa reguladora aplicable.
+3. Se considerarán infracciones leves:
+a) La falta de mención de la fecha de la última actualización de la información;
+b) La alteración leve del contenido de la información para cuya reutilización se haya concedido una licencia;
+c) La ausencia de cita de la fuente de acuerdo con lo previsto en el artículo 8 de esta ley;
+d) El incumplimiento leve de otras condiciones impuestas en la correspondiente licencia o en la normativa reguladora aplicable.
+4. Por la comisión de las infracciones recogidas en este artículo, se impondrán las siguientes sanciones:
+a) Sanción de multa de 50.001 a 100.000 euros por la comisión de infracciones muy graves;
+b) Sanción de multa de 10.001 a 50.000 euros por la comisión de infracciones graves;
+c) Sanción de multa de 1.000 a 10.000 euros. Por la comisión de infracciones leves.
+Por la comisión de infracciones muy graves y graves recogidas, además de las sanciones previstas en las letras a) y b), se podrá sancionar con la prohibición de reutilizar documentos sometidos a licencia durante un periodo de tiempo entre 1 y 5 años y con la revocación de la licencia concedida.
+5. Las sanciones se graduarán atendiendo a la naturaleza de la información reutilizada, al volumen de dicha información, a los beneficios obtenidos, al grado de intencionalidad, a los daños y perjuicios causados, en particular a los que se refieren a la protección de datos de carácter personal, a la reincidencia y a cualquier otra circunstancia que sea relevante para determinar el grado de antijuridicidad y de culpabilidad presentes en la concreta actuación infractora.
+6. La potestad sancionadora se ejercerá, en todo lo no previsto en la presente ley, de conformidad con lo dispuesto en el Capítulo III de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. Su ejercicio corresponderá a los órganos competentes que la tengan atribuida por razón de la materia.
+7. El régimen sancionador previsto en esta ley se entiende sin perjuicio de la responsabilidad civil o penal en que pudiera incurrirse, que se hará efectiva de acuerdo con las correspondientes normas legales.
+Se modifica el apartado 6 por el art. 64.13 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+
+### Disposición adicional primera
+
+Disposición adicional primera. Planes y programas.
+El Gobierno, a propuesta de los Ministerios competentes, desarrollará planes y programas de actuaciones dirigidos a facilitar la reutilización de la información del sector público en aras de promover el crecimiento del sector de contenidos digitales, pudiendo establecer con el resto de las Administraciones públicas los mecanismos de colaboración que se estimen pertinentes para la consecución de dicho objetivo.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Aplicación a otros organismos.
+1. Lo previsto en esta ley será de aplicación a los documentos conservados por organismos e instituciones diferentes a los mencionados en el artículo 2, a los que, en los términos previstos en su normativa reguladora, resulte aplicable en su actividad la Ley 39/2015, de 1 de octubre.
+2. Las previsiones contenidas en la presente ley serán de aplicación a las sentencias y resoluciones judiciales, sin perjuicio de lo previsto en el artículo 107.10 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y su desarrollo específico.
+Se modifica el apartado 1 por el art. 64.14 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Transferencia para Reutilización Pública de Microdatos de Encuestas correspondientes a Investigaciones Sociológicas.
+1. Los proyectos de investigación, análisis, o diagnóstico social que vayan a ser desarrollados por los sujetos relacionados en el artículo 2.a), b), c) y d) siempre que impliquen la realización de encuestas cuantitativas en el ámbito de las ciencias sociales con toma de datos, deberán incorporar en su diseño un plan para la inclusión de la documentación y microdatos anonimizados de dicha encuesta en un Banco de Datos específico, creado en el Centro de Investigaciones Sociológicas. Este Plan se depositará en el mencionado Banco de Datos en los 12 meses posteriores a la aprobación del proyecto, y los microdatos anonimizados que integren el estudio deberán transferirse en un periodo no superior a cuatro años desde la aprobación del proyecto. Este plazo podrá ser ampliado excepcionalmente por causas derivadas del desarrollo y conclusión del proyecto.
+2. No obstante lo dispuesto en el apartado anterior, quedan excluidas de tal obligación:
+a) Las encuestas realizadas por Agencias Estatales, las entidades públicas empresariales, las sociedades mercantiles estatales, las fundaciones públicas y las entidades de Derecho Público con independencia funcional o con una especial autonomía reconocida por la Ley cuando actúen en régimen de derecho privado.
+b) Las realizadas por la Sociedad Estatal de Participaciones Industriales, o cualquiera de las empresas o fundaciones de su Grupo, el Instituto Nacional de Estadística (INE) y los organismos similares de las Comunidades Autónomas.
+c) Las encuestas que conformen las estadísticas de carácter oficial incluidas en los correspondientes Planes Estadísticos Nacionales y sujetas a la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública, así como las estadísticas europeas sujetas a su normativa específica. No obstante, en este caso, el INE impulsará, como coordinador del Sistema Estadístico de la Administración del Estado, que se dé la publicidad debida a los microdatos de estas encuestas con finalidad estadística elaboradas por estos organismos.
+3. No serán objeto de transferencia los microdatos obtenidos de registros administrativos de datos, así como los utilizados para las encuestas que sean determinantes o indispensables para la política estratégica interna de las entidades que las lleven a cabo en los términos que se determine reglamentariamente.
+4. Las empresas, equipos de investigación particulares y personas físicas o jurídicas que realicen asimismo este tipo de proyectos a través encuestas cuantitativas en el ámbito de las ciencias sociales con toma de datos, y que reciban ayudas o subvenciones públicas, siempre que las mismas supongan más del 50% de los fondos con que se financien sus proyectos de investigación, estarán igualmente sometidas a la presentación del plan y a la obligación de transferir los datos para la obtención de la misma. En la normativa reguladora del régimen subvencional de ayudas públicas para este tipo de proyectos y en sus sucesivas convocatorias, especialmente aquellas derivadas del Plan Nacional de I+D+i y el Plan Nacional de la Ciencia, se harán constar estas obligaciones. No obstante, respecto de estos sujetos será aplicable la misma posibilidad de exclusión cuando la publicación de los microdatos pudiera causar un perjuicio competitivo irreparable en su posicionamiento empresarial en el mercado.
+5. El incumplimiento de esta obligación por parte de los equipos investigadores responsables, especialmente en el marco de los Planes Nacionales de Investigación Científica, Desarrollo e Innovación Tecnológica, supondrá causa de exclusión a la hora de solicitar nuevas ayudas de financiación pública, de acuerdo con los procedimientos sancionadores previstos en la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+Se suprime y se renumera la disposición adicional cuarta como tercera por el art. 64.15 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+ Se añade por el art. único.9 de la Ley 18/2015, de 9 de julio. Ref. BOE-A-2015-7731.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Reutilización de documentos, archivos y colecciones de origen privado.
+En cuanto a los documentos, archivos y colecciones de origen privado, conservadas en los archivos, bibliotecas (incluidas las universitarias) y museos, su puesta a disposición con fines de reutilización, ha de respetar las condiciones establecidas en el instrumento jurídico correspondiente que haya dado lugar a la conservación y custodia de estos fondos en instituciones culturales públicas.
+Se renumera la disposición adicional quinta como cuarta por el art. 64.15 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+ Se añade por el art. único.10 de la Ley 18/2015, de 9 de julio. Ref. BOE-A-2015-7731.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Reutilización de documentos, archivos y colecciones de origen privado.
+En cuanto a los documentos, archivos y colecciones de origen privado, conservadas en los archivos, bibliotecas (incluidas las universitarias) y museos, su puesta a disposición con fines de reutilización, ha de respetar las condiciones establecidas en el instrumento jurídico correspondiente que haya dado lugar a la conservación y custodia de estos fondos en instituciones culturales públicas.
+Se añade por el art. único.11 de la Ley 18/2015, de 9 de julio. Ref. BOE-A-2015-7731.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Reglamento (UE) 2022/868 del Parlamento Europeo y del Consejo, de 30 de mayo de 2022, relativo a la gobernanza europea de datos y por el que se modifica el Reglamento (UE) 2018/1724 (Reglamento de Gobernanza de Datos).
+Con relación a la reutilización de determinadas categorías de datos protegidos a que se refiere el capítulo II del Reglamento (UE) 2022/868 del Parlamento Europeo y del Consejo, de 30 de mayo de 2022, relativo a la gobernanza europea de datos y por el que se modifica el Reglamento (UE) 2018/1724 (Reglamento de Gobernanza de Datos) que obren en poder de los sujetos previstos en los párrafos a) y b) de esta ley, sin perjuicio de la aplicación directa de los preceptos de dicho Reglamento, se aplicarán asimismo las siguientes previsiones:
+a) El régimen sancionador previsto en el artículo 11 de esta ley, en el ámbito de la Administración General del Estado, y a tal efecto:
+1.º Se considerará infracción muy grave de las previstas en el artículo 11.1 el incumplimiento de las condiciones de acceso a los datos protegidos o de las condiciones impuestas para preservar la seguridad e integridad del entorno de tratamiento seguro utilizado.
+2.º Se considerarán infracciones graves de las previstas en el artículo 11.2, las siguientes:
+i. El incumplimiento por el reutilizador de su compromiso formal de confidencialidad que prohíba la divulgación de la información contenida en las categorías de datos protegidos.
+ii. La reidentificación por el reutilizador de los interesados a quienes se refieran los datos protegidos.
+iii. La falta de notificación de los incidentes de seguridad o cualquier otra violación de la seguridad de los datos protegidos reutilizados que den lugar o conlleven riesgo de reidentificación de los interesados.
+b) Los sujetos previstos en los párrafos a) y b) del artículo 2 que permitan la reutilización de las categorías de datos protegidos podrán exigir el pago de una tasa por la misma, que se calculará en función de los costes relacionados con la tramitación de las solicitudes de reutilización de las categorías de datos enumeradas en el artículo 3.1 del Reglamento y se limitará a los costes necesarios en relación con:
+i. La reproducción, la entrega y la difusión de los datos;
+ii. La adquisición de derechos;
+iii. La anonimización u otras formas de preparación de los datos personales y de los datos comerciales confidenciales con arreglo a lo dispuesto en el artículo 5.3 del Reglamento;
+iv. El mantenimiento del entorno de tratamiento seguro;
+v. La adquisición, por parte de terceros ajenos al sector público, del derecho de terceros de permitir la reutilización de conformidad con el capítulo II del Reglamento, y
+vi. La asistencia a los reutilizadores en la obtención del consentimiento de los interesados y del permiso de los titulares de datos cuyos derechos e intereses puedan verse afectados por la reutilización.
+El establecimiento y la regulación de los elementos esenciales de dicha tasa deberá ajustarse a lo previsto en la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos y demás normativa tributaria aplicable. En todo caso deberá ser transparente, no discriminatoria y proporcionada, estar justificada objetivamente y respetar las restantes condiciones contempladas en el artículo 6 del Reglamento.
+c) Con relación al procedimiento de tramitación de solicitudes de datos protegidos se aplicará lo dispuesto en el artículo 5 del Reglamento y el artículo 10 de la ley, con las siguientes especialidades:
+i. El plazo para resolver el procedimiento será de dos meses a contar desde la recepción de la solicitud por el órgano competente.
+ii. Cuando la solicitud sea excepcionalmente extensa o compleja, el órgano competente para dictar resolución podrá ampliar el plazo para resolver hasta un máximo de 30 días previa notificación al interesado en los términos previstos en el artículo 32 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las administraciones públicas.
+Contra la resolución que se dicte concediendo o denegando la reutilización, el interesado podrá interponer los recursos que procedan en vía administrativa y jurisdiccional, de conformidad con lo establecido en la Ley 39/2015, de 1 de octubre, y en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+Si en el plazo máximo previsto para resolver y notificar no se hubiese dictado resolución expresa, el solicitante podrá entender desestimada su solicitud.
+Los sujetos previstos en los párrafos a) y b) del artículo 2 comunicarán al Ministerio de Asuntos Económicos y Transformación Digital la identidad de los organismos competentes para prestar asistencia designados, en su caso, en virtud del artículo 5.1 del Reglamento, con objeto de dar cumplimiento a las previsiones de notificación a la Comisión previstas en el artículo 7.5 del mismo. Asimismo, comunicarán toda modificación posterior de la identidad de dichos organismos competentes.
+Se añade por la disposición final 4 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#df-4
+
+### Disposición transitoria única
+
+Disposición transitoria única. Régimen transitorio aplicable a los acuerdos exclusivos.
+Los acuerdos exclusivos existentes a 17 de julio de 2013 a los que no se aplique la excepción contemplada en los apartados 2 y 3 del artículo 6 y que fuesen celebrados por los sujetos previstos en los párrafos a) y b) del artículo 2 concluirán cuando expire el contrato o, en cualquier caso, no más tarde del 18 de julio de 2043.
+Sin perjuicio de lo previsto en el párrafo anterior, los acuerdos exclusivos existentes a 16 de julio de 2019 a los que no se apliquen las excepciones contempladas en los apartados 2 y 3 del artículo 6 que fuesen celebrados por los sujetos previstos en el párrafo c) del artículo 2, concluirán cuando expire el contrato o, en cualquier caso, no más tarde del 17 de julio de 2049.
+Se modifica por el art. 64.16 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+ Se modifica por el art. único.12 de la Ley 18/2015, de 9 de julio. Ref. BOE-A-2015-7731.
+
+### Disposición final primera
+
+Disposición final primera. Fundamento constitucional.
+La presente ley tiene carácter de legislación básica al amparo de lo dispuesto en el artículo 149.1.18 ª de la Constitución Española. Se exceptúan los apartados 1 (párrafos segundo y tercero), 3 y 8 del artículo 10, el apartado 2 del artículo 10.bis. y el artículo 11.
+Se modifica por el art. 64.17 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo reglamentario.
+El Gobierno, en el ámbito de sus competencias, dictará cuantas disposiciones sean necesarias para la ejecución y desarrollo de lo establecido en esta ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+Esta Ley entrará en vigor a los dos meses de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 16 de noviembre de 2007.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO
+
+## ANEXO
+
+Anexo
+Definiciones
+A efectos de la presente Ley, se entiende por:
+1) Anonimización: Proceso por el que se transforman documentos en documentos anónimos que no se refiere a una persona física identificada o identificable o al proceso de convertir datos personales que se hayan anonimizado, de forma que el interesado no sea identificable o haya dejado de serlo.
+2) Conjuntos de datos de alto valor: Documentos cuya reutilización está asociada a considerables beneficios para la sociedad, el medio ambiente y la economía, en particular debido a su idoneidad para la creación de servicios de valor añadido, aplicaciones y puestos de trabajo nuevos, dignos y de calidad, y del número de beneficiarios potenciales de los servicios de valor añadido y aplicaciones basados en tales conjuntos de datos.
+3) Datos abiertos: Son aquellos que cualquiera es libre de utilizar, reutilizar y redistribuir, con el único límite, en su caso, del requisito de atribución de su fuente o reconocimiento de su autoría.
+4) Datos dinámicos: Documentos en formato digital, sujetos a actualizaciones frecuentes o en tiempo real, debido, en particular, a su volatilidad o rápida obsolescencia; los datos generados por los sensores suelen considerarse datos dinámicos.
+5) Datos de investigación: Documentos en formato digital, distintos de las publicaciones científicas, recopilados o elaborados en el transcurso de actividades de investigación científica y utilizados como prueba en el proceso de investigación, o comúnmente aceptados en la comunidad investigadora como necesarios para validar las conclusiones y los resultados de la investigación.
+6) Documento: Toda información o parte de ella, cualquiera que sea su soporte o forma de expresión, sea esta textual, gráfica, sonora visual o audiovisual, incluyendo los metadatos asociados y los datos contenidos con los niveles más elevados de precisión y desagregación. A estos efectos no se considerarán documentos los programas informáticos que estén protegidos por la legislación específica aplicable a los mismos.
+7) Formato legible por máquina: Un formato de archivo estructurado que permita a las aplicaciones informáticas identificar, reconocer y extraer con facilidad datos específicos, incluidas las declaraciones fácticas y su estructura interna.
+8) Formato abierto: Un formato de archivo independiente de plataformas y puesto a disposición del público sin restricciones que impidan la reutilización de los documentos.
+9) Licencia tipo: Conjunto de condiciones de reutilización predefinidas en formato digital, preferiblemente compatibles con licencias modelo públicas disponibles en línea.
+10) Norma formal abierta: Una norma establecida por escrito que especifica los criterios de interoperabilidad de la aplicación informática.
+11) Tercero: Toda persona física o jurídica distinta de un sujeto previsto en el artículo 2 que esté en posesión de los datos.
+12) Universidad: Todo organismo del sector público que imparta enseñanza superior post-secundaria conducente a la obtención de títulos académicos.
+Se modifica por el art. 64.18 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-6
+ Se añade por el art. único.13 de la Ley 18/2015, de 9 de julio. Ref. BOE-A-2015-7731.

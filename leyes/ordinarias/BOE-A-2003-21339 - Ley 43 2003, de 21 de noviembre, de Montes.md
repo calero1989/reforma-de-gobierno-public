@@ -1,0 +1,1301 @@
+# Ley 43/2003, de 21 de noviembre, de Montes.
+
+- Identificador BOE: `BOE-A-2003-21339`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-21339
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+«La ordenación, la conservación y el desarrollo sostenible de todos los tipos de bosques son fundamentales para el desarrollo económico y social, la protección del medio ambiente y los sistemas sustentadores de la vida en el planeta. Los bosques son parte del desarrollo sostenible.»
+Esta declaración de la Asamblea de Naciones Unidas, en su sesión especial de junio de 1997, es una clara expresión del valor y el papel que los montes desempeñan en nuestra sociedad. Acogiendo esta concepción, esta ley establece un nuevo marco legislativo regulador de los montes, para la reorientación de la conservación, mejora y aprovechamiento de los espacios forestales en todo el territorio español en consonancia con la realidad social y económica actual, así como con la nueva configuración del Estado autonómico creado por nuestra Constitución.
+La Ley de Montes de 1957 ha cumplido casi medio siglo, y lo ha hecho con la eficacia que su propia longevidad demuestra. Sin embargo, el mandato contenido en la Constitución española de 1978 de dotarnos de un marco legislativo básico en materia forestal no puede ser realizado adecuadamente por la Ley de 1957. El marco político e institucional, el contexto económico y social y el nuevo paradigma ambiental marcado especialmente por las tendencias internacionales, en un mundo intensamente globalizado, tienen muy poco que ver con los imperantes en los años 50 del pasado siglo.
+Es el objeto de esta ley constituirse en un instrumento eficaz para garantizar la conservación de los montes españoles, así como promover su restauración, mejora y racional aprovechamiento apoyándose en la indispensable solidaridad colectiva. La ley se inspira en unos principios que vienen enmarcados en el concepto primero y fundamental de la gestión forestal sostenible. A partir de él se pueden deducir los demás: la multifuncionalidad, la integración de la planificación forestal en la ordenación del territorio, la cohesión territorial y subsidiariedad, el fomento de las producciones forestales y del desarrollo rural, la conservación de la biodiversidad forestal, la integración de la política forestal en los objetivos ambientales internacionales, la cooperación entre las Administraciones y la obligada participación de todos los agentes sociales y económicos interesados en la toma de decisiones sobre el medio forestal.
+El concepto de monte recoge el cumplimiento de las diversas funciones del territorio forestal y da entrada a las comunidades autónomas en el margen de regulación sobre terrenos agrícolas abandonados, suelos urbanos y urbanizables y la determinación de la dimensión de la unidad mínima que será considerada monte a efectos de la ley.
+La ley designa a las Administraciones autonómicas como las responsables y competentes en materia forestal, de acuerdo con la Constitución y los estatutos de autonomía. Al mismo tiempo, clarifica las funciones de la Administración General del Estado, fundamentadas en su competencia de legislación básica en materia de montes, aprovechamientos forestales y medio ambiente, además de otros títulos. En todo caso, opta con claridad por la colaboración y cooperación entre las Administraciones para beneficio de un medio forestal que no entiende de fronteras administrativas. Por estos mismos motivos, se revitaliza el papel de las Administraciones locales en la política forestal, concediéndoles una mayor participación en la adopción de decisiones que inciden directamente sobre sus propios montes, reconociendo con ello su papel como principales propietarios forestales públicos en España y su contribución a la conservación de unos recursos naturales que benefician a toda la sociedad.
+En la misma línea, la ley establece como principio general que los propietarios de los montes sean los responsables de su gestión técnica y material, sin perjuicio de las competencias administrativas de las comunidades autónomas en todos los casos y de lo que éstas dispongan en particular para los montes catalogados de utilidad pública.
+Son los propietarios de los montes los que primero y más directamente se responsabilizan de su gestión sostenible. Para garantizar tal gestión, la ley pretende el impulso decidido de la ordenación de montes, a través de instrumentos para la gestión como los proyectos de ordenación de montes, planes dasocráticos, planes técnicos o figuras equivalentes, siendo éste uno de los elementos clave de la nueva legislación.
+Por su titularidad los montes son públicos o privados, pero todos son bienes que cumplen una clara función social y por tanto están sujetos al mandato constitucional según el cual las leyes delimitan el derecho y al mismo tiempo la función social de la propiedad. En el caso de los montes catalogados de utilidad pública, la ley opta por su declaración como dominio público, constituyéndose el dominio público forestal con estos montes junto con los restantes montes afectados a un uso o un servicio público. De esta forma, se da el máximo grado de integridad y permanencia al territorio público forestal de mayor calidad. Al mismo tiempo, abre la posibilidad de la utilización del dominio público forestal por los ciudadanos para aquellos usos respetuosos con el medio natural.
+La institución del Catálogo de Montes de Utilidad Pública, de gran tradición histórica en la regulación jurídica de los montes públicos en España e instrumento fundamental en su protección, permanece y se refuerza en la ley. En primera instancia, al homologar su régimen, que ya era de cuasi dominio público, con el de los bienes plenamente demaniales. En segundo lugar, al ampliar los motivos de catalogación ; en concreto, se han añadido aquellos que más contribuyen a la conservación de la diversidad biológica y, en particular, aquellos que constituyan o formen parte de espacios naturales protegidos o espacios de la red europea Natura 2000. También se refuerza en términos equivalentes la figura de los montes protectores y su registro, cuya declaración se estimula con incentivos económicos.
+La ley concede especial relevancia a un aspecto fundamental para la definición de la política forestal, como es el de la información. Se trata de establecer los mecanismos para disponer de una información forestal actualizada y de calidad para todo el territorio español sobre la base de criterios y metodologías comunes. Esta información se coordinará y plasmará en la Estadística forestal española, entre cuyos objetivos resalta el de facilitar el acceso del ciudadano a la información vinculada al mundo forestal.
+La ley constata la necesidad de la planificación forestal a escala general, consagrando la existencia de la Estrategia forestal española y el Plan forestal español. En este ámbito, la novedad más importante de la ley la constituyen los planes de ordenación de los recursos forestales (PORF). Se configuran como instrumentos de planificación forestal de ámbito comarcal integrados en el marco de la ordenación del territorio, con lo que la planificación y gestión forestales se conectan con el decisivo ámbito de la ordenación territorial.
+Por lo que respecta a los aprovechamientos forestales, la ley incide en la importancia de que los montes cuenten con su correspondiente instrumento de gestión, de tal manera que para montes ordenados o, en su caso, incluidos en el ámbito de aplicación de un PORF, la Administración se limitará a comprobar que el aprovechamiento propuesto es conforme con las previsiones de dicho instrumento.
+Se refuerza también la conservación de los montes mediante el establecimiento de condiciones restrictivas para el cambio del uso forestal de cualquier monte, independientemente de su titularidad o régimen jurídico.
+En materia de incendios forestales, la ley se hace eco de la importancia del papel de la sociedad civil en su prevención. De acuerdo con ello, establece la obligación de toda persona de avisar de la existencia de un incendio, y, en su caso, de colaborar en su combate. Asimismo, promueve campañas de concienciación y sensibilización ciudadana. Se pone también especial énfasis en la necesidad de coordinación de las diferentes Administraciones en la prevención y combate de los incendios. La ley propone la designación de las llamadas zonas de alto riesgo de incendio, que deberán estar provistas de su correspondiente plan de defensa. Asimismo, establece la obligación de restauración de los terrenos incendiados, quedando prohibido el cambio de uso forestal por razón del incendio.
+Otro aspecto relevante de esta ley es la previsión de medidas de fomento de la gestión sostenible de los montes, mediante subvenciones y otros incentivos por las externalidades ambientales, además de considerar incluidos entre los fines de interés general los orientados a la gestión forestal sostenible, a efectos de la Ley 49/2002, de 23 de diciembre, de Régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
+Con estas medidas se quiere contribuir al reconocimiento de los beneficios generales que los propietarios aportan a la sociedad con sus montes.
+Para incidir una vez más en el impulso a la ordenación de todos los montes, los incentivos solamente serán aplicables a los montes que cuenten con instrumento de gestión, y además tendrán prioridad los montes declarados protectores o los montes catalogados.
+Finalmente, se regula un régimen de infracciones y sanciones en las materias objeto de esta ley, estableciendo los criterios para la calificación de las infracciones según su gravedad y fijando las sanciones correspondientes.
+Esta ley se dicta en virtud del artículo 149.1.8.a, 14.a, 15.a, 18.ª y 23.ª de la Constitución, que reserva al Estado la competencia exclusiva en materia de legislación civil, hacienda general, fomento y coordinación de la investigación, bases del régimen jurídico de las Administraciones públicas y legislación básica sobre protección del medio ambiente y montes y aprovechamientos forestales, respectivamente.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Objeto y conceptos generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Esta ley tiene por objeto garantizar la conservación y protección de los montes españoles, promoviendo su restauración, mejora, sostenibilidad y aprovechamiento racional, apoyándose en la solidaridad colectiva y la cohesión territorial.
+Se modifica por el art. único.1 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. Esta ley es de aplicación a todos los montes españoles de acuerdo con el concepto contenido en el artículo 5. En el caso de los montes vecinales en mano común, esta ley les es aplicable sin perjuicio de lo establecido en su legislación especial.
+2. A los terrenos de condición mixta agrosilvopastoral, y en particular a los terrenos adehesados, les será de aplicación esta ley en lo relativo a sus características y aprovechamientos forestales, sin perjuicio de la aplicación de la normativa que les corresponda por sus características agropecuarias.
+3. Los montes o fracciones de monte que estén incluidos en espacios naturales protegidos se rigen por su legislación específica, así como por las disposiciones de esta ley en lo que no sea contrario a aquélla.
+4. Las vías pecuarias que atraviesen o linden con montes se rigen por su legislación específica, así como por las disposiciones de esta ley, en lo que no sea contrario a aquélla.
+Se modifican los apartados 2 y 3 por el art. único.1 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 3
+
+Artículo 3. Principios.
+Son principios que inspiran esta ley:
+a) La gestión sostenible de los montes.
+b) El cumplimiento equilibrado de la multifuncionalidad de los montes en sus valores ambientales, económicos y sociales.
+c) La planificación forestal en el marco de la ordenación del territorio.
+d) El fomento de las producciones forestales y sus sectores económicos asociados.
+e) La creación de empleo y el desarrollo del medio rural.
+f) La conservación, mejora y restauración de la biodiversidad de los ecosistemas y especies forestales.
+g) La integración en la política forestal española de los objetivos de la acción internacional sobre protección del medio ambiente, especialmente en materia de desertificación, cambio climático y biodiversidad.
+h) La colaboración y cooperación de las diferentes Administraciones públicas en la elaboración y ejecución de sus políticas forestales.
+i) La participación en la política forestal de los sectores sociales y económicos implicados.
+j) Principio o enfoque de precaución, en virtud de la cual cuando exista una amenaza de reducción o pérdida sustancial de la diversidad biológica no debe alegarse la falta de pruebas científicas inequívocas como razón para aplazar las medidas encaminadas a evitar o reducir al mínimo esa amenaza.
+k) Adaptación de los montes al Cambio Climático, fomentando una gestión encaminada a la resiliencia y resistencia de los montes al mismo.
+l) La consideración de los montes como infraestructuras verdes para mejorar el capital natural y su consideración en la mitigación del cambio climático.
+Se modifica la letra f) y se añade la l) por el art. único.2 y 3 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se añaden las letras j) y k) por el art. único.2 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 4
+
+Artículo 4. Multifuncionalidad de los montes.
+Los montes, independientemente de su titularidad, desempeñan una función social relevante, tanto como fuente de recursos naturales y sustento de actividades económicas como por ser proveedores de múltiples servicios ambientales, entre ellos, de protección del suelo y del ciclo hidrológico; de fijación del carbono atmosférico; de depósito de la diversidad biológica y como elementos fundamentales de la conectividad ecológica y del paisaje.
+El reconocimiento de estos recursos y externalidades, de los que toda la sociedad se beneficia, obliga a las Administraciones públicas a velar en todos los casos por su conservación, protección, restauración, mejora y ordenado aprovechamiento.
+Se modifica por el art. único.4 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 5
+
+Artículo 5. Concepto de monte.
+1. A los efectos de esta ley, se entiende por monte todo terreno en el que vegetan especies forestales arbóreas, arbustivas, de matorral o herbáceas, sea espontáneamente o procedan de siembra o plantación, que cumplan o puedan cumplir funciones ambientales, protectoras, productoras, culturales, paisajísticas o recreativas.
+Tienen también la consideración de monte:
+a) Los terrenos yermos, roquedos y arenales.
+b) Las construcciones e infraestructuras destinadas al servicio del monte en el que se ubican.
+c) Los terrenos agrícolas abandonados que cumplan las condiciones y plazos que determine la comunidad autónoma, y siempre que hayan adquirido signos inequívocos de su estado forestal.
+d) Todo terreno que, sin reunir las características descritas anteriormente, se adscriba a la finalidad de ser repoblado o transformado al uso forestal, de conformidad con la normativa aplicable.
+e) Los enclaves forestales en terrenos agrícolas con la superficie mínima determinada por la Comunidad Autónoma.
+2. Sin perjuicio de lo dispuesto en los demás apartados de este artículo, no tienen la consideración de monte:
+a) Los terrenos dedicados al cultivo agrícola.
+b) Los terrenos urbanos.
+c) Los terrenos que excluya la comunidad autónoma en su normativa forestal y urbanística.
+3. Las comunidades autónomas, de acuerdo con las características de su territorio, podrán determinar la dimensión de la unidad administrativa mínima que será considerada monte a los efectos de la aplicación de esta ley.
+4. Las plantaciones de especies forestales de turno corto en régimen intensivo sobre terrenos agrícolas estarán sometidas a lo dispuesto en esta ley durante la vigencia de los turnos de aprovechamiento previamente establecidos, a menos que la comunidad autónoma decida expresamente un periodo más corto decidiendo su titular una vez finalizado dicho periodo sobre el aprovechamiento de dicho terreno.
+Se modifica el apartado 2 y se añade el 4 por el art. único.5 y 6 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se añade la letra e) al apartado 1 por el art. único.3 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 6
+
+Artículo 6. Definiciones.
+A los efectos de esta ley, se definen los siguientes términos:
+a) Forestal: todo aquello relativo a los montes.
+b) Especie forestal: especie arbórea, arbustiva, de matorral o herbácea que no es característica de forma exclusiva del cultivo agrícola.
+c) Gestión: el conjunto de actividades de índole técnica y material relativas a la conservación, mejora y aprovechamiento del monte.
+d) Selvicultura: conjunto de técnicas que tratan de la conservación, mejora, aprovechamiento y regeneración o, en su caso, restauración, de las masas forestales.
+e) Gestión forestal sostenible: la organización, administración y uso de los montes de forma e intensidad que permita mantener su biodiversidad, productividad, vitalidad, potencialidad y capacidad de regeneración, para atender, ahora y en el futuro, las funciones ecológicas, económicas y sociales relevantes en el ámbito local, nacional y global, y sin producir daños a otros ecosistemas.
+f) Repoblación forestal: establecimiento de especies forestales en un terreno mediante siembra o plantación. Puede ser forestación o reforestación.
+g) Forestación: repoblación, mediante siembra o plantación, de un terreno que era agrícola o estaba dedicado a otros usos no forestales.
+h) Reforestación: reintroducción de especies forestales, mediante siembra o plantación, en terrenos que estuvieron poblados forestalmente hasta épocas recientes, pero que quedaron rasos a causa de talas, incendios, vendavales, plagas, enfermedades u otros motivos.
+i) Aprovechamientos forestales: los maderables y leñosos, incluida la biomasa forestal, los de corcho, los de resina, pastos, caza, frutos, hongos, plantas aromáticas y medicinales, productos apícolas y los demás productos y servicios con valor de mercado característicos de los montes.
+j) Plan de aprovechamiento: documento que describe el objeto del aprovechamiento y especifica la organización y medios a emplear, incluidas extracción y saca y, en su caso, las medidas para garantizar la sostenibilidad de acuerdo con las prácticas de buena gestión recogidas en la normativa de la comunidad autónoma o en las directrices del PORF.
+k) Incendio forestal: el fuego que se extiende sin control sobre combustibles forestales situados en el monte.
+l) Cambio del uso forestal: toda actuación material o acto administrativo que haga perder al monte su carácter de tal.
+m) Instrumentos de gestión forestal: bajo esta denominación se incluyen los proyectos de ordenación de montes, planes dasocráticos, planes técnicos u otras figuras equivalentes.
+n) Proyecto de ordenación de montes: documento técnico que sintetiza la organización en el tiempo y el espacio de la utilización sostenible de los recursos forestales, maderables y no maderables, en un monte o grupo de montes, para lo cual debe incluir una descripción pormenorizada del terreno forestal en sus aspectos ecológicos, legales, sociales y económicos y, en particular, un inventario forestal con un nivel de detalle tal que permita la toma de decisiones en cuanto a la selvicultura a aplicar en cada una de las unidades del monte y a la estimación de sus rentas.
+ñ) Plan dasocrático o plan técnico: proyecto de ordenación de montes que, por su singularidad –pequeña extensión; funciones preferentes distintas a las de producción de madera o corcho; masas inmaduras (sin arbolado en edad de corta), etc.– precisan una regulación más sencilla de la gestión de sus recursos. En consonancia, el inventario forestal podrá ser más simplificado, si bien será necesario que incorpore información sobre espesura en el caso de montes arbolados.
+o) Monte ordenado: el que dispone de instrumento de gestión forestal vigente.
+p) Certificación forestal: procedimiento voluntario por el que una tercera parte independiente proporciona una garantía escrita tanto de que la gestión forestal es conforme con criterios de sostenibilidad como de que se realiza un seguimiento fiable desde el origen de los productos forestales.
+Se deroga la letra q) por la disposición derogatoria única de la Ley 4/2024, de 8 de noviembre. Ref. BOE-A-2024-23271#dd
+ Se modifican las letras f), i), n), ñ) y q) por el art. único.7 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica la letra q) por el art. único.4 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+## CAPÍTULO II
+
+Competencias de las Administraciones públicas
+
+### Artículo 7
+
+Artículo 7. Administración General del Estado.
+1. Corresponden a la Administración General del Estado en las materias relacionadas con esta ley las siguientes competencias de forma exclusiva:
+a) (Derogado)
+b) La representación internacional de España en materia forestal.
+2. Asimismo, corresponden a la Administración General del Estado, en colaboración con las comunidades autónomas y sin perjuicio de sus competencias en estos ámbitos, las funciones que se citan a continuación:
+a) La definición de los objetivos generales de la política forestal española a través de documentos como:
+1.º Estrategia Forestal Española.
+2.º Plan Forestal Español.
+3.º Programa de Acción Nacional contra la Desertificación.
+4.º Plan Nacional de Actuaciones Prioritarias de Restauración hidrológico-forestal.
+5.º Plan Nacional de Control de la Legalidad de la Madera Comercializada.
+b) La recopilación, elaboración y sistematización de la información forestal para mantener y actualizar la Información Forestal Española.
+c) El establecimiento de las directrices comunes sobre formación en materia de extinción y prevención de incendios, en la normalización de los medios materiales, y de los equipamientos de personal de extinción de incendios forestales en todo el territorio español, así como el despliegue de medios estatales de apoyo a las comunidades autónomas, para la cobertura de los montes contra incendios.
+d) El ejercicio de las funciones necesarias para la adopción de medidas fitosanitarias urgentes, así como velar por la adecuada ejecución, coordinación y seguimiento de las mismas, en situaciones excepcionales en las que exista grave peligro de extensión de plagas forestales, de conformidad con el artículo 16 de la Ley 43/2002, de 20 de noviembre, de sanidad vegetal.
+e) La promoción de planes de formación y empleo del sector forestal.
+f) El establecimiento de normas básicas sobre conservación y uso sostenible de los recursos genéticos forestales y sobre procedencia, producción, utilización y comercialización de los materiales forestales de reproducción y, en particular, la determinación de sus regiones de procedencia y el mantenimiento del Registro y del Catálogo Nacional de Materiales de Base.
+g) La elaboración y la aprobación de las directrices básicas comunes de gestión forestal sostenible.
+h) (Derogado)
+i) El fomento de la investigación científica y la innovación tecnológica en el ámbito forestal.
+3. Corresponde, asimismo, a la Administración General del Estado el ejercicio de aquellas otras competencias que le confiere la legislación y, en particular:
+a) La coordinación de la llevanza del Catálogo de Montes de Utilidad Pública, así como la del Registro de Montes Protectores y demás registros previstos en esta ley.
+b) La colaboración en el diseño de las redes, la recopilación y comunicación a los órganos comunitarios de los datos obtenidos por las comunidades autónomas en su ámbito territorial y de los obtenidos por la Administración General del Estado en el ámbito suprautonómico o en el de sus competencias, procedentes de las parcelas de las redes europeas para el seguimiento del estado de los montes, y otros sistemas de seguimiento general.
+Se modifican las letras a), b), c), f) y g) del apartado 2 y las letras a) y b) del apartado 3 por el art. único.8 a 12 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se derogan los apartados 1.a) y 2.h) y se modifican los apartados 2.c) y g) y el apartado 3 por la disposición derogatoria única y el art. único.5 y 6 de de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 8
+
+Artículo 8. Comunidades autónomas.
+1. Las comunidades autónomas ejercen aquellas competencias que en materia de montes y aprovechamientos forestales, y las que en virtud de otros títulos competenciales que inciden en esta ley, tienen atribuidas en sus estatutos de autonomía.
+2. La Comunidad Foral de Navarra ejerce las competencias en materia de montes y aprovechamientos forestales en los términos previstos en la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+
+### Artículo 9
+
+Artículo 9. Administración local.
+Las entidades locales, en el marco de la legislación básica del Estado y de la legislación de las comunidades autónomas, ejercen las competencias siguientes:
+a) La gestión de los montes de su titularidad no incluidos en el Catálogo de Montes de Utilidad Pública.
+b) La gestión de los montes catalogados de su titularidad, cuando así se disponga y en la forma que se disponga en la legislación forestal de la comunidad autónoma.
+c) La disposición del rendimiento económico de los aprovechamientos forestales de todos los montes de su titularidad, sin perjuicio de lo dispuesto en el artículo 38 en relación con el fondo de mejoras de montes catalogados o, en su caso, de lo dispuesto en la normativa autonómica.
+d) La emisión de informe preceptivo en el procedimiento de elaboración de los instrumentos de gestión relativos a los montes de su titularidad incluidos en el Catálogo de Montes de Utilidad Pública.
+e) La emisión de otros informes preceptivos previstos en esta ley, relativos a los montes de su titularidad.
+f) Aquellas otras que, en la materia objeto de esta ley, les atribuya, de manera expresa, la legislación forestal de la comunidad autónoma u otras leyes que resulten de aplicación.
+g) La colaboración con los servicios de vigilancia y extinción de los incendios forestales. A estos efectos, mantendrán actualizado un plano de delimitación de los diversos núcleos y urbanizaciones existentes en su término municipal, recogiendo entre sus características principales la proximidad al medio forestal, las vías de acceso y la localización de hidrantes y puntos de agua.
+Se añade la letra g) por el art. 1.1 del Real Decreto-ley 15/2022, de 1 de agosto. Ref. BOE-A-2022-12926#a1
+ Se modifica la letra b) por el art. único.13 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 10
+
+Artículo 10. Órganos de coordinación y participación de la política forestal española.
+1. Corresponde a la Conferencia Sectorial de Agricultura y Desarrollo Rural la coordinación entre la Administración General del Estado y las comunidades autónomas para la preparación, estudio y desarrollo de las cuestiones propias de la política forestal española.
+2. Se crea el Consejo Forestal Nacional como órgano consultivo del Ministerio de Agricultura, Alimentación y Medio Ambiente en materia de montes y política forestal, que informará, entre otros, las normas y planes de ámbito estatal relativas al ámbito forestal. Presidido por el Ministro, su composición, organización y funcionamiento se determinarán reglamentariamente garantizándose, en todo caso, la participación de las organizaciones representativas de los intereses afectados, sin que puedan generar costes de personal ni aumento del gasto público.
+Se modifica por el art. único.14 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se añade el apartado 3 por el art. único.7 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+## TÍTULO II
+
+Clasificación y régimen jurídico de los montes
+
+## CAPÍTULO I
+
+Clasificación de los montes
+
+### Artículo 11
+
+Artículo 11. Montes públicos y montes privados.
+1. Por razón de su titularidad los montes pueden ser públicos o privados.
+2. Son montes públicos los pertenecientes al Estado, a las comunidades autónomas, a las entidades locales y a otras entidades de derecho público.
+3. Son montes privados los pertenecientes a personas físicas o jurídicas de derecho privado, ya sea individualmente o en régimen de copropiedad.
+4. Los montes vecinales en mano común son montes privados que tienen naturaleza especial derivada de su propiedad en común sin asignación de cuotas, siendo la titularidad de éstos de los vecinos que en cada momento integren el grupo comunitario de que se trate y sujetos a las limitaciones de indivisibilidad, inalienabilidad, imprescriptibilidad e inembargabilidad. Sin perjuicio de lo previsto en la Ley 55/1980, de 11 de noviembre, de Montes Vecinales en Mano Común, se les aplicará lo dispuesto para los montes privados.
+Se modifica el apartado 4 por el art. único.15 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 12
+
+Artículo 12. Montes de dominio público y montes patrimoniales.
+1. Son de dominio público o demaniales e integran el dominio público forestal:
+a) Por razones de servicio público, los montes incluidos en el Catálogo de Montes de Utilidad Pública a la entrada en vigor de esta ley, así como los que se incluyan en él de acuerdo con el artículo 16.
+b) Los montes comunales, pertenecientes a las entidades locales, en tanto su aprovechamiento corresponda al común de los vecinos.
+c) Aquellos otros montes que, sin reunir las características anteriores, hayan sido afectados a un uso o servicio público.
+2. Son montes patrimoniales los de propiedad pública que no sean demaniales.
+
+### Artículo 12 bis
+
+Artículo 12 bis. Montes protectores y montes con otras figuras de especial protección.
+(Suprimido)
+Se suprime por el art. único.16 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se añade por el art. único.8 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 13
+
+Artículo 13. Montes catalogados de utilidad pública.
+A partir de la entrada en vigor de esta ley, las comunidades autónomas podrán declarar de utilidad pública e incluir en el Catálogo de Montes de Utilidad Pública los montes públicos comprendidos en alguno de los siguientes supuestos:
+a) Los que sean esenciales para la protección del suelo frente a los procesos de erosión.
+b) Los situados en las cabeceras de las cuencas hidrográficas y aquellos otros que contribuyan decisivamente a la regulación del régimen hidrológico, incluidos los que se encuentren en los perímetros de protección de las captaciones superficiales y subterráneas de agua, evitando o reduciendo aludes, riadas e inundaciones y defendiendo poblaciones, cultivos e infraestructuras, o mejorando el abastecimiento de agua en cantidad o calidad.
+c) Los que eviten o reduzcan los desprendimientos de tierras o rocas y el aterramiento de embalses y aquellos que protejan cultivos e infraestructuras contra el viento.
+d) Los que sin reunir plenamente en su estado actual las características descritas en los párrafos a), b) o c) sean destinados a la repoblación o mejora forestal con los fines de protección en ellos indicados.
+e) Los que contribuyan a la conservación de la diversidad biológica a través del mantenimiento de los sistemas ecológicos, la protección de la flora y la fauna o la preservación de la diversidad genética y, en particular, los que constituyan o formen parte de espacios naturales protegidos, zonas de especial protección para las aves, zonas de especial conservación, lugares de interés geológico u otras figuras legales de protección, así como los que constituyan elementos relevantes del paisaje.
+f) Aquellos otros que establezca la comunidad autónoma en su legislación.
+Se modifica por el art. único.17 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica por el art. único.9 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+## CAPÍTULO II
+
+Régimen jurídico de los montes públicos
+
+### Artículo 14
+
+Artículo 14. Régimen jurídico de los montes demaniales.
+Los montes del dominio público forestal son inalienables, imprescriptibles e inembargables y no están sujetos a tributo alguno que grave su titularidad.
+
+### Artículo 15
+
+Artículo 15. Régimen de usos en el dominio público forestal.
+1. La Administración gestora de los montes demaniales podrá dar carácter público a aquellos usos respetuosos con el medio natural, siempre que se realicen sin ánimo de lucro y de acuerdo con la normativa vigente, en particular con lo previsto en los instrumentos de planificación y gestión aplicables, y cuando sean compatibles con los aprovechamientos, autorizaciones o concesiones legalmente establecidos.
+2. La Administración gestora de los montes demaniales someterá a otorgamiento de autorizaciones aquellas actividades que, de acuerdo con la normativa autonómica, la requieran por su intensidad, peligrosidad o rentabilidad. En los montes catalogados será preceptivo el informe favorable del órgano forestal de la comunidad autónoma.
+3. Los aprovechamientos forestales en el dominio público forestal se regirán por lo que se establece en los artículos 36 y 37 de esta ley.
+4. La Administración gestora de los montes demaniales someterá a otorgamiento de concesión todas aquellas actividades que impliquen una utilización privativa del dominio público forestal. En los montes catalogados, esta concesión requerirá el informe favorable de compatibilidad con la persistencia de los valores naturales del monte por parte del órgano forestal de la comunidad autónoma.
+5. En los procedimientos de concesión y autorización de actividades económicas promovidas por la administración gestora del monte que vayan a realizarse en montes demaniales, sin perjuicio de lo dispuesto en la regulación de los montes comunales, se respetarán los principios de publicidad, objetividad, imparcialidad y transparencia. Se aplicará además el principio de concurrencia competitiva conforme a los instrumentos o directrices de planificación y gestión del mismo en los siguientes supuestos:
+a) cuando se trate de una actividad de servicios que se promueva por la administración gestora del monte.
+b) cuando el ejercicio de la actividad excluya el ejercicio de otras actividades por terceros.
+Los criterios en que se basará la concesión y autorización para la realización de actividades de servicios estarán directamente vinculados a lo dispuesto en los instrumentos o directrices de planificación y gestión del monte.
+La duración de dichas autorizaciones y concesiones será como máximo de 75 años, de acuerdo con sus características, y no dará lugar a renovación automática ni a ventajas a favor del anterior titular o personas vinculadas con él.
+Se modifican los apartados 3 y 5 por el art. único.18 y 19 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se añade el apartado 5 por el art. 34 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725.
+
+### Artículo 16
+
+Artículo 16. Catálogo de Montes de Utilidad Pública.
+1. El Catálogo de Montes de Utilidad Pública es un registro público de carácter administrativo en el que se inscriben todos los montes declarados de utilidad pública.
+2. La inclusión y exclusión de montes en el Catálogo de Montes de Utilidad Pública y la llevanza de éste corresponde a las comunidades autónomas en sus respectivos territorios. Las comunidades autónomas darán traslado al Ministerio de Medio Ambiente de las inscripciones que practiquen así como de las resoluciones administrativas y sentencias judiciales firmes que conlleven modificaciones en el catálogo, incluidas las que atañen a permutas, prevalencias y resoluciones que, con carácter general, supongan la revisión y actualización de los montes catalogados.
+3. La inclusión en el Catálogo de Montes de Utilidad Pública de los montes públicos a los que se refiere el artículo 13 se hará de oficio o a instancia del titular, y se adoptará por acuerdo del máximo órgano de gobierno de cada comunidad autónoma, a propuesta de su respectivo órgano forestal, previa instrucción del correspondiente procedimiento en el que deberá ser oída la Administración titular y, en su caso, los titulares de derechos sobre dichos montes.
+4. La exclusión de un monte del Catálogo de Montes de Utilidad Pública sólo procederá cuando haya perdido las características por las que fue catalogado y se regulará por el procedimiento descrito en el apartado anterior. La exclusión parcial o permuta de una parte no significativa de un monte catalogado podrá ser autorizada por acuerdo del máximo órgano de gobierno de cada comunidad autónoma, a propuesta de su órgano forestal, siempre que suponga una mejor definición de la superficie del monte o una mejora para su gestión y conservación.
+5. Con carácter excepcional, por acuerdo del máximo órgano de gobierno de cada comunidad autónoma, previo informe de su órgano forestal y, en su caso, de la entidad titular, se podrá autorizar la exclusión o permuta de una parte de un monte catalogado por causa de interés público prevalente.
+Se modifican los apartados 3, 4 y 5 por el art. único.20 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 17
+
+Artículo 17. Desafectación de montes demaniales.
+1. La desafectación de los montes catalogados del dominio público forestal requerirá, sin perjuicio de lo previsto en el artículo 18.4, su previa exclusión del catálogo.
+2. La desafectación de los restantes montes demaniales se tramitará por su Administración titular y requerirá, en todo caso, el informe favorable del órgano forestal de la comunidad autónoma.
+3. La comunidad autónoma regulará el procedimiento de desafectación de los montes demaniales.
+
+### Artículo 18
+
+Artículo 18. Efectos jurídicos de la inclusión de los montes en el Catálogo de Montes de Utilidad Pública.
+1. La declaración de utilidad pública de un monte no prejuzga ninguna cuestión de propiedad, pero constituye una presunción de posesión a favor de la entidad a la que el catálogo otorga su pertenencia. La titularidad que en el catálogo se asigne a un monte sólo puede impugnarse en juicio declarativo ordinario de propiedad ante los tribunales civiles, no permitiéndose el ejercicio de las acciones reales del artículo 250.1.7 de la Ley de Enjuiciamiento Civil.
+2. En los casos en los que se promuevan juicios declarativos ordinarios de propiedad de montes catalogados, será parte demandada la comunidad autónoma, además de, en su caso, la entidad titular del monte. En todas las actuaciones que se realicen en los procedimientos judiciales a que se refiere este artículo deberá ser emplazada a su debido tiempo la representación de la administración gestora, declarándose nulas en caso contrario.
+3. La Administración titular o gestora inscribirá los montes catalogados, así como cualquier derecho sobre ellos, en el Registro de la Propiedad, mediante certificación acompañada por un plano topográfico del monte o el levantado para el deslinde a escala apropiada, debidamente georreferenciados, y en todo caso la certificación catastral descriptiva y gráfica en la que conste la referencia catastral del inmueble o inmuebles que constituyan la totalidad del monte catalogado, de acuerdo con el texto refundido de la Ley del Catastro Inmobiliario, aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo. En caso de discrepancia se estará a lo que disponga la legislación hipotecaria sobre la inscripción de la representación gráfica de las fincas en el Registro de la Propiedad.
+4. Cuando un monte catalogado se halle afectado por un expediente del cual pueda derivarse otra declaración de demanialidad distinta de la forestal, y sin perjuicio de lo que, en su caso, disponga la declaración de impacto ambiental, las Administraciones competentes buscarán cauces de cooperación al objeto de determinar cuál de tales declaraciones debe prevalecer.
+En el supuesto de discrepancia entre las Administraciones, resolverá, según la Administración que haya tramitado el expediente, el Consejo de Ministros o el órgano que la comunidad autónoma determine. En el caso de que ambas fueran compatibles, la Administración que haya gestionado el expediente tramitará, en pieza separada, un expediente de concurrencia, para armonizar el doble carácter demanial.
+Cuando se trate de montes afectados por obras o actuaciones de interés general del Estado, resolverá el Consejo de Ministros, oída la comunidad autónoma afectada.
+Se modifican los apartados 1, 2 y 3 por el art. único.21 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifican los apartados 1 y 4 por el art. único.10 y 11 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 18 bis
+
+Artículo 18 bis. Segregación de fincas parcialmente afectadas al dominio público forestal.
+1. Cuando una finca registral de titularidad pública sea objeto de afectación parcial al dominio público forestal, la Administración titular podrá segregar la parte demanial de la patrimonial mediante certificación administrativa que será título suficiente para su inscripción en el Registro de la Propiedad.
+2. En los expedientes administrativos de segregación regulados en el apartado anterior resultará de aplicación lo dispuesto en los artículos 13 y 46.2 del texto refundido de la Ley del Catastro Inmobiliario, aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo.
+Se añade por el art. único.22 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 19
+
+Artículo 19. Características jurídicas de los montes patrimoniales.
+1. La usucapión o prescripción adquisitiva de los montes patrimoniales sólo se dará mediante la posesión en concepto de dueño, pública, pacífica y no interrumpida durante 30 años.
+2. Se entenderá interrumpida la posesión a efectos de la prescripción por la realización de aprovechamientos forestales, por la iniciación de expedientes sancionadores o por cualquier acto posesorio realizado por la administración titular o gestora del monte.
+Se modifica el apartado 2 por el art. único.23 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+## CAPÍTULO III
+
+Recuperación posesoria y deslinde de los montes públicos
+
+### Artículo 20
+
+Artículo 20. Investigación y recuperación posesoria de los montes públicos.
+1. Los titulares de los montes públicos, por propia iniciativa o a instancia de la Administración gestora en los montes catalogados, tendrán la facultad de investigar la situación de los terrenos que se presuman pertenecientes a su patrimonio, según lo establecido en el artículo 45 y siguientes de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, a cuyo efecto podrán recabar todos los datos e informes que se consideren necesarios.
+La Administración gestora deberá colaborar en dicha investigación, poniendo a disposición de la administración titular los medios técnicos y documentales de los que disponga.
+2. Los titulares de los montes demaniales, junto con la Administración gestora en los montes catalogados, podrán ejercer la potestad de recuperación posesoria de los poseídos indebidamente por terceros, que no estará sometida a plazo y respecto a la que no se admitirán acciones posesorias ni procedimientos especiales.
+Se modifica el encabezamiento y el apartado 1 por el art. único.24 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica el apartado 1 por el art. único.12 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 21
+
+Artículo 21. Deslinde de montes de titularidad pública.
+1. Los titulares de los montes públicos, junto con la Administración gestora en los montes catalogados, gozarán de la potestad de deslinde administrativo de sus montes. La administración forestal competente podrá colaborar en su caso en el deslinde de estos montes, poniendo a disposición de la Administración titular los medios técnicos y documentales de los que disponga.
+2. (Derogado)
+3. El deslinde de los montes no catalogados se ajustará al procedimiento que determinen las respectivas Administraciones públicas titulares.
+El deslinde de los montes catalogados se ajustará al procedimiento que determinen las comunidades autónomas y, cuando afecte a montes de titularidad estatal, será preceptivo el informe de la Abogacía del Estado.
+4. Los deslindes deberán aprobarse a la vista de los documentos acreditativos o situaciones de posesión cualificada que acrediten la titularidad pública del monte objeto del deslinde, así como de la cartografía catastral y la certificación catastral descriptiva y gráfica del inmueble o inmuebles afectados, y establecerán sus límites con sus cabidas y plano georreferenciado si se dispone de él, debiendo concretarse igualmente los gravámenes existentes.
+5. Solamente tendrán valor y eficacia en el acto del apeo los títulos de dominio inscritos en el Registro de la Propiedad y sentencias firmes en juicio declarativo de propiedad.
+6. El deslinde aprobado y firme supone la delimitación del monte y declara con carácter definitivo su estado posesorio, a reserva de lo que pudiera resultar de un juicio declarativo de propiedad.
+7. La resolución será recurrible tanto por los interesados como por los colindantes ante la jurisdicción contencioso-administrativa, una vez agotada la vía administrativa, por razones de competencia o procedimiento, y ante la jurisdicción civil si lo que se discute es el dominio, la posesión o cualquier otro derecho real.
+8. La resolución definitiva del expediente de deslinde es título suficiente, según el caso, para la inmatriculación del monte, para la inscripción de rectificación de la descripción de las fincas afectadas y para la cancelación de las anotaciones practicadas con motivo del deslinde en fincas excluidas del monte deslindado. Esta resolución no será título suficiente para rectificar los derechos anteriormente inscritos a favor de los terceros a que se refiere el artículo 34 de la Ley Hipotecaria.
+9. Una vez que el acuerdo de aprobación del deslinde fuera firme, se procederá al amojonamiento, con participación, en su caso, de los interesados. La Administración actuante deberá formalizar la correspondiente comunicación al Catastro Inmobiliario del resultado del deslinde, de acuerdo con la normativa catastral.
+10. Podrá pedirse a nombre del Estado o de la comunidad autónoma, y se acordará por los jueces y tribunales, la nulidad de actuaciones en los procedimientos judiciales a que se refiere este artículo cuando no haya sido emplazada a su debido tiempo la representación procesal del Estado o la de la comunidad autónoma, cualquiera que sea el estado en el que se encuentren los referidos procedimientos.
+Se modifican los apartados 1, 4, 5 y 9 por el art. único.25 a 28 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se deroga el apartado 2 y se modifica el apartado 7 por la disposición derogatoria única y el art. único.13 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+## CAPÍTULO IV
+
+Régimen de los montes privados
+
+### Artículo 22
+
+Artículo 22. Asientos registrales de montes privados.
+1. Toda inmatriculación o inscripción de exceso de cabida en el Registro de la Propiedad de un monte o de una finca colindante con monte demanial o ubicado en un término municipal en el que existan montes demaniales requerirá el previo informe favorable de los titulares de dichos montes y, para los montes catalogados, el del órgano forestal de la comunidad autónoma.
+2. Tales informes se entenderán favorables si desde su solicitud por el registrador de la propiedad transcurre un plazo de tres meses sin que se haya recibido contestación. La nota marginal de presentación tendrá una validez de cuatro meses.
+3. Para los montes catalogados, los informes favorables o el silencio administrativo positivo derivado del apartado 2 no impedirán el ejercicio por la Administración de las oportunas acciones destinadas a la corrección del correspondiente asiento registral.
+
+### Artículo 23
+
+Artículo 23. Gestión de los montes privados.
+1. Los montes privados se gestionan en la forma que disponga su titular, sin perjuicio de lo dispuesto en la legislación específica y en el Código Civil.
+2. Los titulares de estos montes podrán contratar su gestión con personas físicas o jurídicas de derecho público o privado o con los órganos forestales de las comunidades autónomas donde el monte radique.
+3. La gestión de estos montes se ajustará, en caso de disponer de él, al correspondiente instrumento de gestión o planificación forestal. La aplicación de dichos instrumentos será supervisada por el órgano forestal de la comunidad autónoma. A falta de dicho instrumento, la gestión del titular conllevará la necesaria autorización previa para los aprovechamientos forestales en los términos que la comunidad autónoma establezca conforme a lo dispuesto en los artículos 36 y 37 de esta ley.
+Se modifican los apartados 1 y 3 por el art. único.29 y 30 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 24
+
+Artículo 24. Clasificación y registro de montes protectores.
+1. Las comunidades autónomas podrán calificar como protectores, a instancia del propietario, aquellos montes privados que cumplan alguna de las condiciones que para los montes públicos establece el artículo 13.
+2. Las comunidades autónomas podrán crear registros de montes protectores como registros de carácter administrativo.
+3. La clasificación y desclasificación de un monte protector, o parte de éste, y su consiguiente inclusión o su exclusión en el registro de montes protectores se hará por el órgano forestal de la comunidad autónoma correspondiente, previo informe del propietario.
+4. Las comunidades autónomas deberán informar al Ministerio de Medio Ambiente, al menos una vez al año, de la inclusión de montes en los registros de montes protectores.
+
+### CAPÍTULO IV BIS
+
+Régimen de los montes protectores y montes con otras figuras de especial protección
+Se añade por el art. único.14 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 24
+
+Artículo 24. Declaración de montes protectores.
+1. Podrán ser declarados protectores aquellos montes o terrenos forestales de titularidad privada que cumplan alguna de las condiciones que para los montes públicos establece el artículo 13.
+2. La declaración de monte protector se hará por la Administración de la comunidad autónoma correspondiente, previo expediente en el que, en todo caso, deberán ser oídos los propietarios y la entidad local donde radique. Igual procedimiento se seguirá para la desclasificación una vez que las circunstancias que determinaron su inclusión hubieran desaparecido.
+3. Las comunidades autónomas crearán registros de montes protectores de carácter administrativo en que constarán las cargas, gravámenes y demás derechos reales que soportan los montes incluidos en ellos.
+4. Se crea el Registro Nacional de Montes Protectores. Las comunidades autónomas remitirán al Ministerio de Agricultura, Alimentación y Medio Ambiente la información relativa a los asientos que se produzcan en sus registros conforme al apartado anterior a fin de elaborar y mantener actualizado el Registro Nacional.
+El Registro tendrá carácter informativo y dependerá del Ministerio de Agricultura, Alimentación y Medio Ambiente. Su organización y funcionamiento se establecerán reglamentariamente previa consulta a las comunidades autónomas.
+Se modifica por el art. único.32 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se reordena y se modifica por el art. único.14 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 24 bis
+
+Artículo 24 bis. Gestión de montes protectores.
+1. La gestión de los montes protectores corresponde a sus propietarios, sin perjuicio de lo dispuesto en la legislación específica. El gestor deberá presentar a la Administración forestal de la comunidad autónoma el correspondiente proyecto de ordenación de montes o plan dasocrático, en caso de no disponer de un instrumento de planificación de ordenación de recursos naturales o forestal vigente en la zona.
+2. Las limitaciones que se establezcan en la gestión de los montes protectores por razón de las funciones ecológicas, de protección o sociales que cumplen podrán ser compensadas económicamente en los términos previstos en el capítulo III del título VI.
+Se modifica y se renumera por el art. único.33 y 34 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Su anterior numeración era art. 24 quáter.
+ Se añade por el art. único.14 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 24 ter
+
+Artículo 24 ter. Registros de montes protectores y de montes con otras figuras de especial protección.
+(Suprimido)
+Se suprime por el art. único.33 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se añade por el art. único.14 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 24 quáter
+
+Artículo 24 quáter. Montes protectores y con otras figuras de especial protección de titularidad privada.
+(Suprimido)
+Se numera como art. 24 bis por el art. único.34 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se añade por el art. único.14 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+## CAPÍTULO V
+
+Derecho de adquisición preferente y unidades mínimas de actuación forestal
+
+### Artículo 25
+
+Artículo 25. Derecho de adquisición preferente. Tanteo y retracto.
+1. Las comunidades autónomas tendrán derecho de adquisición preferente, a reserva de lo dispuesto en el apartado 2, en los siguientes casos de transmisiones onerosas:
+a) De montes de superficie superior a un límite a fijar por la comunidad autónoma correspondiente.
+b) De montes declarados protectores conforme al artículo 24.
+2. En el caso de fincas o montes enclavados en un monte público o colindantes con él, el derecho de adquisición preferente corresponderá a la Administración titular del monte colindante o que contiene al enclavado. En el caso de montes colindantes con otros pertenecientes a distintas Administraciones públicas, tendrá prioridad en el ejercicio del derecho de adquisición preferente aquella cuyo monte tenga mayor linde común con el monte en cuestión.
+3. No habrá derecho de adquisición preferente cuando se trate de aportación de capital en especie a una sociedad en la que los titulares transmitentes deberán ostentar una participación mayoritaria durante cinco años como mínimo.
+4. Para posibilitar el ejercicio del derecho de adquisición preferente a través de la acción de tanteo, el transmitente deberá notificar fehacientemente a la Administración pública titular de ese derecho los datos relativos al precio y características de la transmisión proyectada, la cual dispondrá de un plazo de tres meses, a partir de dicha notificación, para ejercitar dicho derecho, mediante el abono o consignación de su importe en las referidas condiciones.
+5. Los notarios y registradores no autorizarán ni inscribirán, respectivamente, las correspondientes escrituras sin que se les acredite previamente la práctica de dicha notificación de forma fehaciente.
+6. Si se llevara a efecto la transmisión sin la indicada notificación previa, o sin seguir las condiciones reflejadas en ella, la Administración titular del derecho de adquisición preferente podrá ejercer acción de retracto en el plazo de un año contado desde la inscripción de la transmisión en el Registro de la Propiedad o, en su defecto, desde que la Administración hubiera tenido conocimiento oficial de las condiciones reales de dicha transmisión.
+7. El derecho de retracto al que se refiere este artículo es preferente a cualquier otro.
+Se modifica la letra b) del apartado 1 por el art. único.35 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica la letra b) del apartado 1 por el art. único.15 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 26
+
+Artículo 26. Límite a la segregación de montes.
+Serán indivisibles, salvo por causa no imputable al propietario, las parcelas forestales de superficie inferior al mínimo que establecerán las comunidades autónomas.
+
+### Artículo 27
+
+Artículo 27. Agrupación de montes.
+Las Administraciones públicas fomentarán la agrupación de montes, públicos o privados, con el objeto de facilitar una ordenación y gestión integrada mediante instrumentos de gestión forestal que asocien a pequeños propietarios.
+
+### Artículo 27 bis
+
+Artículo 27 bis. Montes de socios.
+1. Son montes de socios aquellos cuya titularidad corresponde, en pro indiviso, a varias personas y alguna de ellas son desconocidas, con independencia de su denominación y de su forma de constitución.
+2. Cualquiera de los copropietarios de un monte de socios, con independencia de cuál sea su cuota de participación, podrá promover la constitución de una junta gestora ante el órgano competente en gestión forestal, que convocará, a instancia de parte, a todos los copropietarios conocidos. La junta gestora, una vez constituida, será el órgano de gobierno y representación de la comunidad en tanto existan cuotas de participación vacantes y sin dueño conocido, mediante comunicación al efecto a todos los demás copropietarios conocidos.
+La junta gestora comunicará la existencia de una o varias cuotas de participación que carecen de dueño conocido a la Dirección General del Patrimonio del Estado, a fin de que proceda en cumplimiento de lo previsto en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas y en su Reglamento de desarrollo, aprobado por Real Decreto 1373/2009, de 28 de agosto.
+3. Para la válida constitución de la junta gestora, será necesario el acuerdo de, al menos, las cuatro quintas partes de los propietarios conocidos, y su formalización por escrito. Se levantará acta de la constitución de la junta gestora en la que figure la identificación del monte o montes afectados, la designación al menos de un presidente y un secretario y las normas de funcionamiento interno, que deberán incluir el criterio de incorporación de nuevos miembros.
+4. Corresponde a la junta gestora:
+a) La representación y la gestión de la comunidad. Para ello podrá adoptar los actos de gestión y de administración que mejor convengan a los intereses comunes, lo que incluye la gestión y el disfrute del monte de socios y de todos sus productos y la enajenación de toda clase de aprovechamientos forestales, agrícolas, ganaderos, energéticos y mineros, así como cualquier otro acto para el que estén facultados los propietarios por esta ley. La junta gestora podrá acordar el reparto de beneficios generados entre los socios, en proporción a su participación, con exclusión de los correspondientes a las partes no esclarecidas, que deberán invertirse en la mejora del monte.
+b) La promoción de los expedientes de investigación de la titularidad de las cuotas vacantes, de acuerdo con lo dispuesto en los artículos 45 y siguientes de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas y demás normativa aplicable. La junta gestora tratará de identificar a los titulares de las cuotas vacantes, mediante cualesquiera pruebas documentales o de otra clase admitidas en derecho; en particular, mediante los datos obrantes en el Registro de la Propiedad, en el Catastro, en escrituras públicas, en testimonios y actas notariales o en partidas de nacimiento o de bautismo de los últimos titulares conocidos y de sus descendientes, sin perjuicio de las competencias de la Dirección General del Patrimonio del Estado.
+5. Para la válida adopción de acuerdos se requerirá el voto favorable de la mayoría de las cuotas de participación de los propietarios conocidos, presentes o representados.
+6. La junta gestora se disolverá una vez todos los comuneros estén identificados conforme a derecho, momento a partir del cual se somete a las reglas de comunidad de bienes en régimen de pro indiviso, no procediendo la acción de división hasta que no se haya procedido a la identificación de la totalidad de las cuotas vacantes.
+7. La Dirección General del Patrimonio del Estado incoará el correspondiente procedimiento de investigación respecto a las cuotas vacantes siempre que de la comunicación de la junta gestora se desprenda que existen indicios fundados de que dichas cuotas carecen efectivamente de dueño.
+Al procedimiento de investigación se incorporarán las diligencias realizadas por la junta gestora tendentes al esclarecimiento de la titularidad de las cuotas, que no necesitarán ser reiteradas por la Administración General del Estado.
+En el caso de que se acreditase la existencia de cuotas vacantes, tales cuotas se entenderán afectadas por ministerio de la ley al Ministerio de Agricultura, Alimentación y Medio Ambiente cuando se acuerde su incorporación al patrimonio de la Administración General del Estado, declarándose así en la resolución que ponga fin al procedimiento de investigación.
+El resultado de dicha identificación será objeto de declaración ante el Catastro Inmobiliario, a fin de incorporar al mismo las alteraciones catastrales que, en su caso, procedan.
+En todo caso, sobre dichas cuotas podrá iniciarse un procedimiento de enajenación al amparo de lo establecido en el artículo 112.6 de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+8. Los propietarios de los montes de socios se regirán en lo que no se oponga a esta regulación, por lo dispuesto en los artículos 392 y siguientes del Código Civil y, en particular, tendrán derecho de retracto. En cualquier caso, el derecho de retracto legal entre condueños no será aplicable en la transmisión ínter vivos otorgada a favor del cónyuge o parientes por consanguinidad dentro del segundo grado del condómino o sociedades unipersonales del mismo.
+9. A las juntas gestoras constituidas se les asignará identificación fiscal para la realización de negocios jurídicos de su competencia.
+Se añade por el art. único.36 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+## TÍTULO III
+
+Gestión forestal sostenible
+
+## CAPÍTULO I
+
+Información forestal
+
+### Artículo 28
+
+Artículo 28. Estadística forestal española.
+1. El Ministerio de Agricultura, Alimentación y Medio Ambiente coordinará con los demás órganos competentes de la Administración General del Estado y las comunidades autónomas la elaboración de la Información Forestal Española, que incluirá las siguientes materias:
+a) El Inventario forestal nacional y su correspondiente Mapa forestal de España.
+b) El Inventario nacional de erosión de suelos.
+c) El Inventario Español de caza y pesca continental.
+d) Repoblaciones y otras actividades forestales.
+e) Relación de montes ordenados.
+f) Producción forestal y actividades industriales forestales.
+g) Incendios forestales.
+h) Seguimiento de la interacción de los montes y el medio ambiente.
+i) Caracterización del territorio forestal incluido en la Red Natura 2000 o en Espacios Naturales Protegidos y áreas protegidas por convenios internacionales.
+j) La diversidad biológica de los montes de España.
+k) Estado de protección y conservación de los principales ecosistemas y especies forestales españoles y efectos del cambio climático en los mismos.
+l) La percepción social de los montes.
+m) Servicios Ambientales.
+El Ministerio de Agricultura, Alimentación y Medio Ambiente podrá incluir en la Información Forestal Española otras operaciones estadísticas.
+Toda la información recogida en los inventarios, así como el contenido que integra la Información Forestal Española tendrá carácter público, siendo aplicable la normativa de acceso a la información medioambiental.
+2. Los órganos competentes en materia de estadística forestal de las comunidades autónomas y las demás Administraciones públicas proporcionarán al Ministerio de Agricultura, Alimentación y Medio Ambiente la información de carácter forestal de su ámbito de competencia necesaria para elaborar la Información Forestal Española y atender las demandas de información estadística de los organismos internacionales, así como para facilitar el acceso del ciudadano a la información forestal. En particular, antes del tercer cuatrimestre de cada año, proporcionarán la información estadística forestal que hayan elaborado sobre el año anterior.
+3. El Ministerio de Agricultura, Alimentación y Medio Ambiente establecerá procedimientos de coordinación para que en los documentos de la Información Forestal Española y de la Estadística Agroalimentaria exista una identidad de las definiciones de los usos y aprovechamientos forestales y agrícolas, así como de las superficies asignadas a cada uno de ellos.
+4. El Ministerio de Agricultura, Alimentación y Medio Ambiente pondrá la información contenida en la Información Forestal Española a disposición de las comunidades autónomas y entidades locales, las empresas e industrias forestales y demás agentes interesados.
+5. Periódicamente, el Ministerio de Agricultura, Alimentación y Medio Ambiente elaborará y publicará un informe forestal español, a partir del análisis de los datos de la Información Forestal Española.
+6. El Inventario Forestal Nacional y el Mapa Forestal de España, así como el Inventario Nacional de Erosión de Suelos, tendrán carácter continuo y una periodicidad de actualización al menos decenal. Su elaboración se hará aplicando criterios y metodología comunes para todo el territorio español.
+Se modifica por el art. único.37 y 38 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se añaden las letras i), j) y k) y el último párrafo del apartado 1 por el art. único.16.1 y 2 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+## CAPÍTULO II
+
+Planificación forestal
+
+### Artículo 29
+
+Artículo 29. Estrategia Forestal Española.
+1. La Estrategia Forestal Española, como documento de referencia para establecer la política forestal española, contendrá el diagnóstico de la situación de los montes y del sector forestal español, las previsiones de futuro, de conformidad con sus propias necesidades y con los compromisos internacionales contraídos por España, y las directrices que permiten articular la política forestal española.
+2. El Ministerio de Agricultura, Alimentación y Medio Ambiente, oídos los ministerios afectados, elaborará la Estrategia Forestal Española, con la participación de las comunidades autónomas y previo informe favorable de la Conferencia Sectorial de Agricultura y Desarrollo Rural. La Estrategia Forestal Española será aprobada mediante acuerdo del Consejo de Ministros.
+3. Cuando las circunstancias lo aconsejen, y en cualquier caso con ocasión de cada revisión del Plan Forestal Español, la Estrategia Forestal Española será revisada. La revisión se tramitará y aprobará con arreglo a lo dispuesto en el apartado 2.
+Se modifica por el art. único.39 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifican los apartados 2 y 3 por el art. único.17.1 y 2 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 30
+
+Artículo 30. Plan Forestal Español.
+1. El Plan Forestal Español, como instrumento de planificación a largo plazo de la política forestal española, desarrollará la Estrategia Forestal Española.
+2. El Ministerio de Agricultura, Alimentación y Medio Ambiente elaborará el Plan Forestal Español con la participación de las comunidades autónomas teniendo en cuenta los planes forestales de aquéllas y previo informe favorable de la Conferencia Sectorial de Agricultura y Desarrollo Rural. El Plan Forestal Español será aprobado mediante acuerdo del Consejo de Ministros.
+3. El Plan Forestal Español será revisado cada diez años, o en un plazo inferior cuando las circunstancias así lo aconsejen. La revisión se tramitará y aprobará con arreglo a lo dispuesto en el apartado 2.
+Se modifica por el art. único.40 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica el apartado 2 por el art. único.18 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 31
+
+Artículo 31. Planes de ordenación de los recursos forestales.
+1. Las comunidades autónomas podrán elaborar los planes de ordenación de recursos forestales (PORF) como instrumentos de planificación forestal, constituyéndose en una herramienta en el marco de la ordenación del territorio.
+2. El contenido de estos planes será obligatorio y ejecutivo en las materias reguladas en esta ley. Asimismo, tendrán carácter indicativo respecto de cualesquiera otras actuaciones, planes o programas sectoriales.
+3. Con carácter previo a la elaboración de los PORF, las comunidades autónomas definirán los territorios que, de acuerdo con esta ley y con su normativa autonómica, tienen la consideración de monte.
+4. El ámbito territorial de los PORF serán los territorios forestales con características geográficas, socioeconómicas, ecológicas, culturales o paisajísticas homogéneas. Se podrán adaptar a aquellas comarcalizaciones y divisiones de ámbito subregional planteadas por la ordenación del territorio u otras específicas divisiones administrativas propias de las comunidades autónomas.
+5. Las comunidades autónomas, a propuesta de su órgano forestal, delimitarán los territorios forestales a los que se deberá dotar de su correspondiente PORF, cuando las condiciones de mercado de los productos forestales, los servicios y beneficios generados por los montes o cualquier otro aspecto de índole forestal que se estime conveniente sean de especial relevancia socioeconómica en tales territorios.
+6. Las comunidades autónomas, a propuesta de su órgano forestal, elaborarán y aprobarán los PORF y determinarán la documentación y contenido de estos que, con independencia de su denominación, podrán incluir los siguientes elementos:
+a) Delimitación del ámbito territorial y caracterización del medio físico y biológico.
+b) Descripción y análisis de los montes y los paisajes existentes en ese territorio, sus usos y aprovechamientos actuales, en particular los usos tradicionales, así como las figuras de protección existentes, incluyendo las vías pecuarias.
+c) Aspectos jurídico-administrativos: titularidad, montes catalogados, mancomunidades, agrupaciones de propietarios, proyectos de ordenación u otros instrumentos de gestión o planificación vigentes.
+d) Características socioeconómicas: demografía, disponibilidad de mano de obra especializada, tasas de paro, industrias forestales, incluidas las dedicadas al aprovechamiento energético de la biomasa forestal y las destinadas al desarrollo del turismo rural.
+e) Zonificación por usos y vocación del territorio. Objetivos, compatibilidades y prioridades.
+f) Planificación de las acciones necesarias para el cumplimiento de los objetivos fijados en el plan, incorporando las previsiones de repoblación, restauración hidrológico-forestal, prevención y extinción de incendios, prevención y lucha contra plagas, regulación de usos recreativos y ordenación de montes, incluyendo, cuando proceda, la ordenación cinegética, piscícola y micológica.
+g) Establecimiento del marco en el que podrán suscribirse acuerdos, convenios y contratos entre la Administración y los propietarios para la gestión de los montes.
+h) Establecimiento de las directrices para la ordenación y aprovechamiento de los montes, garantizando que no se ponga en peligro la persistencia de los ecosistemas y se mantenga la capacidad productiva de los montes.
+i) Criterios básicos para el control, seguimiento, evaluación y plazos para la revisión del plan.
+7. La elaboración de estos planes incluirá necesariamente la consulta a las entidades locales y, a través de sus órganos de representación, a los propietarios forestales privados, a otros usuarios legítimos afectados y a los demás agentes sociales e institucionales interesados, así como los trámites de información pública.
+8. Cuando exista un plan de ordenación de recursos naturales (PORN) de conformidad con la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y la Biodiversidad, u otro plan equivalente de acuerdo con la normativa autonómica que abarque el mismo territorio forestal que el delimitado según el apartado 5, la parte forestal de estos planes podrá tener el carácter de PORF, siempre y cuando cuenten con el informe favorable del órgano forestal competente.
+Se modifican los apartados 4, 6.f) y 8 por el art. único.41 a 43 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+## CAPÍTULO III
+
+Ordenación de montes
+
+### Artículo 32
+
+Artículo 32. La gestión forestal sostenible. Directrices básicas comunes.
+1. Los montes deben ser gestionados de forma sostenible, integrando los aspectos ambientales con las actividades económicas, sociales y culturales, con la finalidad de conservar el medio natural al tiempo que generar empleo y colaborar al aumento de la calidad de vida y expectativas de desarrollo de la población rural.
+2. El Gobierno, previa consulta a las comunidades autónomas, a través de la Conferencia Sectorial de Agricultura y Desarrollo Rural, aprobará las directrices básicas comunes de gestión forestal sostenible en relación con los siguientes aspectos:
+a) La adaptación a los montes españoles de los criterios e indicadores de sostenibilidad, su evaluación y seguimiento, de conformidad con los criterios establecidos en resoluciones internacionales y convenios en los que España sea parte y, en particular, los requeridos para los montes incluidos en la Red Natura 2000.
+b) El contenido mínimo de las instrucciones de ordenación y aprovechamiento de montes, para garantizar su gestión sostenible.
+3. Corresponde a las comunidades autónomas la aprobación de las instrucciones de ordenación y aprovechamiento de montes.
+4. El órgano autonómico competente podrá aprobar modelos tipo de gestión forestal para aquellos montes cuyas características así lo permitan, así como procedimientos de adhesión a los mismos que conlleven un compromiso de seguimiento por parte de sus titulares. Si así se establece, en estos casos la adhesión comportará la consideración de monte ordenado.
+El Ministerio de Agricultura, Alimentación y Medio Ambiente colaborará con las comunidades autónomas en la elaboración de los modelos tipo de gestión forestal de cada comunidad, y facilitará el intercambio de experiencias sobre ellos.
+Se modifica el encabezamiento y el apartado 2 y se añade el 4 por el art. único.44 a 46 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica por el art. único.19 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 33
+
+Artículo 33. Proyectos de ordenación de montes y planes dasocráticos.
+1. Las Administraciones publicas impulsarán técnica y económicamente la ordenación de todos los montes.
+2. Los montes declarados de utilidad pública y los montes protectores deberán contar con un proyecto de ordenación de montes, plan dasocrático u otro instrumento de gestión equivalente.
+3. La elaboración de dichos instrumentos se hará a instancias del titular del monte o del órgano forestal de la comunidad autónoma, debiendo ser aprobados, en todo caso, por este último.
+4. El contenido mínimo de los proyectos de ordenación de montes y planes dasocráticos se determinará en las directrices básicas comunes para la gestión forestal sostenible y el aprovechamiento de montes establecidas en el artículo 32. La elaboración de estos instrumentos deberá ser dirigida y supervisada por profesionales con titulación forestal universitaria y deberá tener como referencia, en su caso, el PORF en cuyo ámbito se encuentre el monte.
+5. El órgano competente de la comunidad autónoma regulará en qué casos puede ser obligatorio disponer de un instrumento de gestión para los montes privados no protectores y públicos no catalogados.
+Se modifican los apartados 2 y 4 y se añade el 5 por el art. único.47 a 49 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifican los apartados 2 y 4 y se suprime el apartado 5 por el art. único.20.1 y 2 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 34
+
+Artículo 34. Gestión de montes catalogados de utilidad pública y montes protectores.
+1. Los montes catalogados de utilidad pública y los montes protectores declarados con base en los párrafos a) a d) del artículo 13 se gestionarán con el fin de lograr la máxima estabilidad de la masa forestal, se evitará, en su caso, la fragmentación ecológica de los montes y se aplicarán métodos silvícolas que persigan prioritariamente el control de la erosión, del peligro de incendio, de los daños por nieve, vendavales, inundaciones y riadas o de otros riesgos para las características protectoras del monte.
+2. Los montes catalogados y los montes protectores declarados con base en el párrafo e) del artículo 13 se gestionarán para garantizar su mantenimiento en un estado de conservación favorable o, en su caso, para la restauración de los valores que motivaron dicha declaración, sin menoscabo en lo posible de los fines especificados en el apartado 1.
+Se modifica por el art. único.50 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica por el art. único.21 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 35
+
+Artículo 35. Certificación forestal.
+Las Administraciones públicas promoverán el desarrollo de los sistemas de certificación forestal voluntarios, transparentes y no discriminatorios.
+Se modifica por el art. único.51 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica por el art. único.22 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 35 bis
+
+Artículo 35 bis. Compra responsable de productos forestales.
+A efectos de lo dispuesto en el Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, el órgano de contratación podrá incluir entre las consideraciones de tipo medioambiental que se establezcan en el procedimiento de contratación, las relativas a las condiciones de legalidad del aprovechamiento de la madera y sus productos derivados en origen como factor excluyente en caso de no acreditarse, y las relativas a su sostenibilidad, que podrá acreditarse, entre otras formas, mediante la certificación forestal definida en el artículo 6.
+Se modifica por el art. único.52 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se añade por el art. único.23 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+## CAPÍTULO IV
+
+Aprovechamientos forestales
+
+### Artículo 36
+
+Artículo 36. Aprovechamientos forestales.
+1. El titular del monte será en todos los casos el propietario de los recursos forestales producidos en su monte, incluidos frutos espontáneos, y tendrá derecho a su aprovechamiento conforme a lo establecido en esta ley y en la normativa autonómica.
+2. Los aprovechamientos de los recursos forestales se realizarán de acuerdo con las prescripciones para la gestión de montes establecidas en los correspondientes planes de ordenación de recursos forestales, cuando existan. Se ajustarán también, en su caso, a lo que concretamente se consigne en el proyecto de ordenación de montes, plan dasocrático o instrumento de gestión equivalente vigente.
+3. El órgano competente de la comunidad autónoma regulará los aprovechamientos no maderables. Dichos aprovechamientos, y en particular el de pastos, deberán estar, en su caso, expresamente regulados en los correspondientes instrumentos de gestión forestal o PORF en cuyo ámbito se encuentre el monte en cuestión.
+4. Los aprovechamientos en los montes del dominio público forestal podrán ser enajenados por sus titulares en el marco de lo establecido en la legislación patrimonial que les resulte de aplicación.
+5. La Administración gestora de los montes demaniales podrá enajenar productos o servicios de los mismos, bajo el régimen de aprovechamientos forestales, con sujeción a las cláusulas técnico-facultativas y económico-administrativas que se establezcan y a los instrumentos de gestión vigentes. Como contraprestación, además o en lugar del precio, podrá establecerse o aceptarse la realización de determinadas mejoras del monte, que deberán sujetarse al instrumento de gestión correspondiente, a las condiciones específicas que se establezcan y a la aprobación del titular del monte.
+6. En los contratos que celebren las Administraciones gestoras o titulares de montes demaniales para la realización de actuaciones de mejora en dichos montes, en las que se generen productos forestales con valor de mercado, estos podrán quedar a disposición del adjudicatario de los trabajos y el precio estimado de su venta constituir un elemento dentro del presupuesto de la actuación.
+7. Los aprovechamientos en los montes afectados por las zonas de servidumbre, policía, o afección de los dominios públicos hidráulico, marítimo-terrestre, de carreteras o ferroviario no precisarán de la autorización de los órganos competentes de dichos dominios, siempre y cuando tales montes dispongan de instrumentos de gestión cuya aprobación por el órgano forestal de la comunidad autónoma haya sido informada favorablemente por los órganos de gestión de los dominios públicos mencionados.
+8. El Gobierno, oídas las comunidades autónomas, regulará reglamentariamente el régimen básico propio de los contratos públicos de aprovechamientos, obras y servicios forestales.
+Se modifica por el art. único.53 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 37
+
+Artículo 37. Aprovechamientos maderables y leñosos.
+1. Los aprovechamientos maderables y leñosos se regularán por el órgano forestal de la comunidad autónoma.
+2. En los montes no gestionados por dicho órgano forestal, estos aprovechamientos estarán sometidos a las siguientes condiciones básicas:
+a) Cuando exista proyecto de ordenación, plan dasocrático o instrumento de gestión equivalente, o el monte esté incluido en el ámbito de aplicación de un PORF y éste así lo prevea el titular de la explotación del monte deberá remitir la declaración responsable del aprovechamiento al órgano forestal de la comunidad autónoma, al objeto de que éste pueda comprobar su conformidad con lo previsto en el instrumento de gestión o, en su caso, de planificación.
+b) En caso de no existir dichos instrumentos, estos aprovechamientos requerirán autorización administrativa previa, salvo que se trate de aprovechamientos maderables o leñosos a turno corto o domésticos de menor cuantía, en cuyo caso deberá comunicar, mediante una nueva declaración responsable, que concurren las circunstancias por las que no es necesaria dicha autorización.
+Se considerarán aprovechamientos de turno corto aquéllos cuyo turno sea inferior a 20 años y los aprovechamientos de las especies y turnos conjuntamente tratados que determinen las comunidades autónomas para su territorio. Se considerarán aprovechamientos de menor cuantía los inferiores a 10 metros cúbicos de madera o a 20 estéreos de leñas, salvo que las comunidades autónomas establezcan para su territorio cuantías menores.
+3. Lo dispuesto en los párrafos anteriores se entiende sin perjuicio de lo establecido en la disposición adicional undécima, en relación con el procedimiento para llevar a cabo la correspondiente evaluación ambiental previa de actividades sometidas a notificación o declaración responsable cuando la misma sea exigible por la legislación básica estatal o autonómica de evaluación ambiental.
+4. El titular de un aprovechamiento maderable o leñoso cuyos productos sean objeto de comercialización deberá comunicar la cuantía realmente obtenida al órgano forestal autonómico en el plazo máximo de un mes desde su finalización y de acuerdo con los procedimientos que se establezcan al efecto.
+Se modifica por el art. único.54 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica la letra b) por el art. único.24 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 38
+
+Artículo 38. Fondo de mejoras en montes catalogados.
+Los titulares de montes catalogados aplicarán a un fondo de mejoras, cuyo destino será la conservación y mejora de los montes incluidos en el Catálogo de Montes de Utilidad Pública, una cuantía que fijarán las comunidades autónomas y que no será inferior al 15 por ciento del valor de sus aprovechamientos forestales o de los rendimientos obtenidos por ocupaciones u otras actividades desarrolladas en el monte. Dicho fondo será administrado por el órgano forestal de la comunidad autónoma, salvo que ésta lo transfiera a la entidad local titular. Las inversiones se realizarán de acuerdo con el plan de mejoras establecido en la planificación de dicho monte.
+Se modifica por el art. único.55 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+## TÍTULO IV
+
+Conservación y protección de montes
+
+## CAPÍTULO I
+
+Usos del suelo
+
+### Artículo 39
+
+Artículo 39. Delimitación del uso forestal en el planeamiento urbanístico.
+Los instrumentos de planeamiento urbanístico, cuando afecten a la calificación de terrenos forestales, requerirán el informe de la Administración competente en gestión forestal. Dicho informe será vinculante si se trata de montes catalogados o protectores.
+Los montes pertenecientes al dominio público forestal tendrán la consideración de suelo en situación rural, a los efectos de lo dispuesto por la legislación estatal de suelo, y deberán quedar preservados por la ordenación territorial y urbanística, de su transformación mediante la urbanización
+Se modifica por el art. único.56 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 40
+
+Artículo 40. Cambio del uso forestal y modificación de la cubierta vegetal.
+1. El cambio del uso forestal de un monte cuando no venga motivado por razones de interés general, y sin perjuicio de lo dispuesto en el artículo 18.4 y de la normativa ambiental aplicable, tendrá carácter excepcional y requerirá informe favorable del órgano forestal competente y, en su caso, del titular del monte.
+2. La Administración forestal competente podrá regular un procedimiento más simplificado para la autorización del cambio de uso en aquellas plantaciones forestales temporales para las que se solicite una reversión a usos anteriores no forestales.
+3. La Administración forestal competente regulará los casos en los que, sin producirse cambio de uso forestal, se requiera autorización para la modificación sustancial de la cubierta vegetal del monte.
+
+## CAPÍTULO II
+
+Conservación de suelos, lucha contra la erosión y la desertificación y restauración hidrológico-forestal
+
+### Artículo 41
+
+Artículo 41. Plan Nacional de Actuaciones Prioritarias de Restauración Hidrológico-Forestal y Programa de Acción Nacional contra la Desertificación.
+1. Corresponde al Ministerio de Medio Ambiente, en colaboración con el Ministerio de Agricultura, Pesca y Alimentación y con las comunidades autónomas, la elaboración y aprobación del Programa de Acción Nacional contra la Desertificación. La aplicación y seguimiento del Programa corresponde al Ministerio de Medio Ambiente, al Ministerio de Agricultura, Pesca y Alimentación ya las comunidades autónomas, en el ámbito de sus respectivas competencias, de acuerdo con el principio de coordinación.
+2. El Programa de Acción Nacional contra la Desertificación tendrá como objetivos la prevención y la reducción de la degradación de las tierras, la rehabilitación de tierras parcialmente degradadas y la recuperación de tierras desertificadas para contribuir al logro del desarrollo sostenible de las zonas áridas, semiáridas y subhúmedas secas del territorio español.
+3. Asimismo, corresponde al Ministerio de Medio Ambiente, en colaboración con las comunidades autónomas, la elaboración y aprobación del Plan Nacional de actuaciones prioritarias de restauración hidrológico-forestal. La aplicación y seguimiento del plan corresponde al Ministerio de Medio Ambiente y a las comunidades autónomas, en el ámbito de sus respectivas competencias, de acuerdo con el principio de coordinación.
+4. El Plan Nacional de Actuaciones Prioritarias de Restauración Hidrológico-Forestal diagnosticará e identificará, por subcuencas, los procesos erosivos, clasificándolos según la intensidad de los mismos y su riesgo potencial para poblaciones, cultivos e infraestructuras, definiendo las zonas prioritarias de actuación, valorando las acciones a realizar y estableciendo la priorización y programación temporal de las mismas.
+En la elaboración o posterior aplicación del Plan, las autoridades competentes delimitarán zonas de peligro por riesgo de inundaciones o intrusiones de nieve que afecten a poblaciones o asentamientos humanos de acuerdo a lo previsto en la Directiva 2007/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre de 2007, relativa a la evaluación y gestión de los riesgos de inundación.
+Estas zonas deberán contar con planes específicos de restauración hidrológico-forestal de actuación obligatoria para todas las Administraciones públicas.
+Se modifica el apartado 4 por el art. único.57 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifican los apartados 1 y 3 por el art. único.25 y 26 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 42
+
+Artículo 42. Declaración del interés general de las actuaciones de restauración hidrológico-forestal fuera del dominio público hidráulico.
+El Gobierno podrá declarar de interés general actuaciones de restauración hidrológico-forestal fuera del dominio público hidráulico a petición de las comunidades autónomas afectadas.
+Se modifica por el art. único.58 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+## CAPÍTULO III
+
+Incendios forestales
+
+### Artículo 43
+
+Artículo 43. Defensa contra incendios forestales.
+Corresponde a las Administraciones públicas competentes la responsabilidad de la organización de la defensa contra los incendios forestales. A tal fin, deberán adoptar, de modo coordinado, medidas conducentes a la prevención, detección y extinción de los incendios forestales, cualquiera que sea la titularidad de los montes.
+
+### Artículo 44
+
+Artículo 44. Prevención de los incendios forestales.
+1. La Administración General del Estado y las comunidades autónomas organizarán coordinadamente programas específicos de prevención de incendios forestales basados en investigaciones sobre su causalidad y, en particular, sobre las motivaciones que puedan ocasionar intencionalidad en su origen. Para esta planificación se tendrá en cuenta la Directriz básica de planificación de protección civil de emergencia por incendios forestales y los planes específicos que de ella se deriven.
+2. Asimismo, las Administraciones públicas desarrollarán programas de concienciación y sensibilización para la prevención de incendios forestales, fomentando la participación social y favoreciendo la corresponsabilidad de la población en la protección del monte.
+3. Las comunidades autónomas regularán en montes y áreas colindantes el ejercicio de todas aquellas actividades que puedan dar lugar a riesgo de incendio, y establecerán normas de seguridad aplicables a edificaciones, obras, instalaciones eléctricas e infraestructuras de transporte en terrenos forestales y sus inmediaciones, que puedan implicar peligro de incendios o ser afectadas por estos. En particular, regularán de forma específica la prevención de incendios forestales y las medidas de seguridad en las zonas de interfase urbano-forestal. Asimismo, podrán establecer limitaciones al tránsito por los montes, llegando a suprimirlo cuando el peligro de incendios lo haga necesario.
+4. Las Fuerzas y los Cuerpos de Seguridad del Estado, así como las instituciones autonómicas y locales, cada uno de conformidad con su normativa reguladora y en el ejercicio de sus competencias y, en su caso, de conformidad con la planificación en materia de protección civil, intervendrán en la prevención de los incendios forestales mediante vigilancia disuasoria e investigación específica de las causas y en la movilización de personal y medios para la extinción.
+5. Las Administraciones públicas podrán regular la constitución de grupos de voluntarios para colaborar en la prevención y extinción y cuidarán de la formación de las personas seleccionadas para desarrollar estas tareas. Igualmente fomentarán las agrupaciones de propietarios de montes y demás personas o entidades interesadas en la conservación de los montes y su defensa contra los incendios.
+Se modifican los apartados 1 y 3 por el art. único.59 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 45
+
+Artículo 45. Obligación de aviso.
+Toda persona que advierta la existencia o iniciación de un incendio forestal estará obligada a avisar a la autoridad competente o a los servicios de emergencia y, en su caso, a colaborar, dentro de sus posibilidades, en la extinción del incendio.
+
+### Artículo 46
+
+Artículo 46. Organización de la extinción de los incendios forestales.
+1. Para facilitar la coordinación entre los dispositivos de extinción de incendios forestales, de forma que sea posible la asistencia recíproca de las Administraciones competentes y la utilización conjunta de los medios personales y materiales, el Ministerio para la Transición Ecológica y el Reto Demográfico, en colaboración con las comunidades autónomas, establecerá las directrices comunes para la implantación de un sistema de gestión de emergencias común.
+2. El órgano competente de la comunidad autónoma establecerá para la extinción de cada incendio, salvo en aquellos que se juzgue innecesario por su pequeña entidad, un mando unificado y estructurado por funciones, basado en los objetivos de eficacia y seguridad.
+El director técnico de la extinción será un profesional que haya recibido formación acreditada específica sobre comportamiento del fuego forestal y técnicas adecuadas para su extinción.
+3. En el caso de incendios en zonas limítrofes de dos o más comunidades autónomas, los órganos competentes de éstas coordinarán sus dispositivos de extinción, a iniciativa propia o a instancia de la Administración General del Estado. Cuando se solicite en estos incendios la intervención de medios estatales, deberá constituirse una dirección unificada de los trabajos de extinción, con participación de la Administración General del Estado. A su vez, la Administración General del Estado podrá, a petición de las comunidades autónomas, destinar personal técnico cualificado para asesorar a dicha dirección unificada.
+4. En caso de declaración de situación de emergencia, se estará a lo dispuesto en la normativa de protección civil para emergencia por incendios forestales.
+Se modifican los apartados 1 y 3 por el art. 1.2 del Real Decreto-ley 15/2022, de 1 de agosto. Ref. BOE-A-2022-12926#a1
+ Se modifica el apartado 1 por el art. único.60 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica el apartado 1 por el art. único.27 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 47
+
+Artículo 47. Trabajos de extinción.
+1. El director o responsable técnico de las tareas de extinción tiene la condición de agente de la autoridad y podrá movilizar medios públicos y privados para actuar en la extinción de acuerdo con un plan de operaciones. Asimismo, podrá disponer, cuando sea necesario y aunque no se pueda contar con la autorización de los propietarios respectivos, la entrada de equipos y medios en fincas forestales o agrícolas, la circulación por caminos privados, la apertura de brechas en muros o cercas, la utilización de aguas, la apertura de cortafuegos de urgencia y la quema anticipada mediante la aplicación de contrafuegos, en zonas que se estime que, dentro de una normal previsión, pueden ser consumidas por el incendio. La autoridad local podrá movilizar medios públicos o privados adicionales para actuar en la extinción, según el plan de operación del director técnico.
+2. Se considerará prioritaria la utilización por los servicios de extinción de las infraestructuras públicas, tales como carreteras, líneas telefónicas, aeropuertos, embalses, puertos de mar y todas aquellas necesarias para la comunicación y aprovisionamiento de dichos servicios, sin perjuicio de las normas específicas de utilización de cada una de ellas.
+3. La Administración responsable de la extinción asumirá la defensa jurídica del director técnico y del personal bajo su mando en los procedimientos seguidos ante los órdenes jurisdiccionales civil y penal por posibles responsabilidades derivadas de las órdenes impartidas y las acciones ejecutadas en relación con la extinción del incendio.
+Se modifica el apartado 3 por el art. único.61 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifican los apartados 1 y 3 por el art. único.28 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 48
+
+Artículo 48. Planificación para la prevención y defensa ante el riesgo de incendios forestales.
+1. Las Comunidades Autónomas ante el riesgo general de incendios forestales, elaborarán y aprobarán planes anuales para la prevención, vigilancia y extinción de incendios forestales. Los referidos planes, que deberán ser objeto de publicidad previa a su desarrollo, comprenderán la totalidad de las actuaciones a desarrollar y abarcarán la totalidad del territorio de la Comunidad Autónoma correspondiente.
+2. El Ministerio para la Transición Ecológica y el Reto Demográfico elaborará, con la participación de las comunidades autónomas y previo informe del Comité de Lucha contra Incendios Forestales, las directrices y criterios comunes precisos para la elaboración de los referidos planes, que se aprobarán mediante real decreto.
+3. Los planes anuales de prevención, vigilancia y extinción de incendios forestales deberán ser aprobados por los órganos competentes de las comunidades autónomas y publicados antes del 31 de octubre del año precedente a su aplicación.
+4. Los planes anuales de prevención, vigilancia y extinción de incendios forestales se aplicarán de manera continua durante todo el año e incluirán, además de lo previsto en el artículo 44 relativo a la prevención, al menos, los siguientes contenidos:
+a) Un análisis territorial de la problemática socioeconómica que pueda existir en la Comunidad Autónoma y que se puede manifestar a través de la provocación reiterada de incendios o del uso negligente del fuego.
+b) El diseño general del dispositivo para atención global durante todo el año a la prevención, detección y extinción de incendios forestales, precisando, en su caso, las épocas de mayor riesgo de incendios forestales debidamente territorializadas.
+c) La determinación de los puntos estratégicos de gestión, así como de las áreas de actuación singularizada.
+d) La asignación estable, y permanente, de medios técnicos y profesionales singularizados al desarrollo de las actuaciones contempladas.
+e) Los trabajos de carácter preventivo a realizar a lo largo de todo el año, en particular los tratamientos selvícolas que procedan, áreas cortafuegos, vías de acceso y puntos de agua que deban realizar los propietarios de los montes de la zona, así como los plazos de ejecución.
+f) Las modalidades de ejecución de los trabajos, en función del estado legal de los terrenos, mediante convenios, acuerdos, cesión temporal de los terrenos a la Administración, ayudas o subvenciones o, en su caso, ejecución subsidiaria por la Administración.
+g) El establecimiento y disponibilidad de los medios de vigilancia y extinción necesarios para dar cobertura a toda la superficie de la Comunidad Autónoma, con las previsiones de dotaciones, financiación, y modelo de organización.
+h) La regulación de los usos que puedan dar lugar a riesgo de incendios forestales, en relación con los distintos niveles de riesgo.
+i) Las prohibiciones o limitaciones a la circulación de vehículos a motor por pistas forestales en las que no existan servidumbres de paso situadas fuera de la red de carreteras y a través de terrenos forestales y al acceso de personas ajenas a la vigilancia, extinción y gestión de incendios.
+j) Las condiciones generales, tanto climatológicas como de cualquier otro tipo, que justifiquen la intensificación de los operativos y de los medios de vigilancia y extinción.
+5. Con carácter general, en la elaboración de los planes anuales de prevención, vigilancia y tendrán extinción de incendios forestales, las comunidades autónomas tendrán en consideración los siguientes principios:
+a) Los planes de prevención, vigilancia y extinción de incendios forestales tendrán el sentido de instrumentos de ordenación preferente para el conjunto de las políticas territoriales. Las comunidades autónomas que tengan aprobados instrumentos de planificación forestal previos, en particular Planes de ordenación de recursos forestales, deberán incorporar sus recomendaciones a los planes regulados en este artículo. Si de la incorporación de las mismas se apreciase alguna contradicción con las necesidades ligadas a la prevención, vigilancia y extinción de incendios forestales, los documentos previos de planificación forestal deberán ser revisados.
+b) Los planes de prevención, vigilancia y extinción de incendios forestales señalarán las infraestructuras, existentes o de nueva creación, que tendrán una servidumbre de uso para su utilización por los servicios de prevención y extinción de incendios.
+6. Cuando, de acuerdo con la información meteorológica de la Agencia Estatal de Meteorología o, en su caso, del órgano autonómico correspondiente en el caso de las comunidades autónomas que cuenten con dicho servicio, sea predecible en un determinado ámbito territorial un riesgo de incendio de nivel muy alto o extremo, las comunidades autónomas deberán aplicar inmediatamente las prohibiciones y limitaciones de circulación y acceso establecidas en sus planes de prevención, vigilancia y extinción de incendios forestales y, en todo caso, las siguientes:
+a) Encender fuego en todo tipo de espacios abiertos.
+b) La suspensión temporal, en tanto se mantenga el referido riesgo, de todas las autorizaciones concedidas de quema de rastrojos, de pastos permanentes, de restos de poda, y de restos selvícolas
+c) Encender fuego en las áreas de descanso de la red de carreteras, así como en zonas recreativas y de acampada, incluidas las zonas habilitadas para ello.
+d) La utilización de maquinaria y equipos en los montes y en las áreas rurales situadas en una franja de 400 metros alrededor de aquellos, cuyo funcionamiento genere deflagración, chispas o descargas eléctricas, salvo que el órgano competente de la Administración autonómica haya autorizado expresamente su uso o resulten necesarias para la extinción de incendios.
+e) La introducción y uso de material pirotécnico.
+f) Arrojar o abandonar objetos en combustión o cualquier clase de material susceptible de originar un incendio.
+7. Toda resolución administrativa ejecutiva en materia de prevención, vigilancia y extinción de incendios forestales de las comunidades autónomas, sin menoscabo de su inmediata ejecución cuando así resulte preciso, deberá ser objeto de publicación oficial. Asimismo, se notificará inmediatamente a las autoridades locales y se informará al conjunto de la población afectada de la adopción de estas medidas, a través de los medios que garanticen su máxima difusión.
+8. Sin perjuicio de la aplicación de las previsiones del Código Penal en esta materia, las infracciones de las prohibiciones contenidas en el presente artículo serán consideradas en todo caso infracciones graves y sancionadas de acuerdo con lo dispuesto en el artículo 74.b) de esta ley.
+En el caso de que los hechos constitutivos de la infracción hayan causado al monte daños cuyo plazo de reparación o restauración sea superior a seis meses, serán consideradas muy graves y sancionadas de acuerdo con lo dispuesto en el artículo 74.c) de esta ley.
+9. En ningún caso, la presente disposición impedirá a las comunidades autónomas prever nuevas infracciones o elevar las sanciones previstas por esta ley.
+Se modifica el inciso inicial del apartado 6 por la disposición final 1.1 del Real Decreto-ley 17/2022, de 20 de septiembre. Ref. BOE-A-2022-15354#df
+ Se modifica por el art. 1.3 del Real Decreto-ley 15/2022, de 1 de agosto. Ref. BOE-A-2022-12926#a1
+ Se modifican los apartados 1 y 3 por el art. único.62 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica el primer párrafo del apartado 3 por el art. único.29 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 48 bis
+
+Artículo 48 bis. Actuaciones estatales de apoyo a los servicios de prevención, vigilancia y extinción de incendios forestales.
+1. El Ministerio para la Transición Ecológica y el Reto Demográfico, previo informe del Comité de Lucha contra los Incendios Forestales, elaborará una herramienta de zonificación de riesgo de incendios forestales a partir de la información suministrada por las comunidades autónomas y otros datos disponibles, como elemento directriz de las previsiones del artículo 48.1 e instrumento para la toma de decisiones operativas de las actuaciones de las Administraciones Públicas en la prevención, vigilancia y extinción de los incendios forestales.
+Esta herramienta se actualizará permanentemente y se publicará en el portal de internet del Ministerio.
+2. Para facilitar la toma anticipada de decisiones, la Agencia Estatal de Meteorología publicará en su portal de Internet y mantendrá permanentemente actualizada la predicción relativa a los niveles de riesgo meteorológico de incendios forestales, con información georreferenciada, y colaborará con las Comunidades autónomas a este fin.
+Corresponde a las comunidades autónomas que cuenten con servicio meteorológico propio actualizar y publicar la información georreferenciada sobre la predicción relativa a los niveles de riesgo meteorológico de incendios forestales en su ámbito territorial.
+3. De acuerdo a una programación que anualmente será objeto de revisión, comunicación a las comunidades autónomas y oportuna publicación en el portal de internet del Ministerio para la Transición Ecológica y el Reto Demográfico, se mantendrá activo, a lo largo de todo el año, el dispositivo de medios aéreos, unidades de refuerzo helitransportadas, y restantes medios de apoyo, a las comunidades autónomas en el marco de la ejecución de los planes de prevención, vigilancia y extinción de los incendios forestales.
+Se modifica el apartado 2 por la disposición final 1.2 del Real Decreto-ley 17/2022, de 20 de septiembre. Ref. BOE-A-2022-15354#df
+ Se añade por el art. 1.4 del Real Decreto-ley 15/2022, de 1 de agosto. Ref. BOE-A-2022-12926#a1
+
+### Artículo 49
+
+Artículo 49. Cobertura de daños por incendios forestales.
+1. La Administración General del Estado, a través del Consorcio de Compensación de Seguros, garantizará la cobertura de indemnizaciones por accidente exclusivamente para las personas que colaboren en la extinción de incendios.
+2. Se promoverá el desarrollo y puesta en marcha del seguro de incendios forestales en el marco de lo previsto en la Ley 87/1978, de 28 de diciembre, de seguros agrarios combinados. Los propietarios que suscriban el seguro tendrán prioridad para acogerse a las subvenciones previstas en el artículo 64 de esta ley, cuando estas se financien con cargo a los Presupuestos Generales del Estado.
+Se modifica el apartado 2 por el art. único.30 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 50
+
+Artículo 50. Mantenimiento y restauración del carácter forestal de los terrenos incendiados.
+1. Las comunidades autónomas deberán garantizar las condiciones para la restauración de los terrenos forestales incendiados, y queda prohibido:
+a) El cambio de uso forestal al menos durante 30 años.
+b) Toda actividad incompatible con la regeneración de la cubierta vegetal, durante el periodo que determine la legislación autonómica.
+Con carácter singular, las comunidades autónomas podrán acordar excepciones a estas prohibiciones siempre que, con anterioridad al incendio forestal, el cambio de uso estuviera previsto en:
+a) Un instrumento de planeamiento previamente aprobado.
+b) Un instrumento de planeamiento pendiente de aprobación, si ya hubiera sido objeto de evaluación ambiental favorable o, de no ser esta exigible, si ya hubiera sido sometido al trámite de información pública.
+c) Una directriz de política agroforestal que contemple el uso agrario o ganadero extensivo de montes no arbolados en estado de abandono.
+Asimismo, con carácter excepcional las comunidades autónomas podrán acordar el cambio de uso forestal cuando concurran razones imperiosas de interés público de primer orden que deberán ser apreciadas mediante ley, siempre que se adopten las medidas compensatorias necesarias que permitan recuperar una superficie forestal equivalente a la quemada. Tales medidas compensatorias deberán identificarse con anterioridad al cambio de uso en la propia ley junto con la procedencia del cambio de uso.
+En el caso de que esas razones imperiosas de primer orden correspondan a un interés general de la Nación, será la ley estatal la que determine la necesidad del cambio de uso forestal, en los supuestos y con las condiciones indicadas en el párrafo anterior.
+En ningún caso procederá apreciar esta excepción respecto de montes catalogados.
+2. El órgano competente de la comunidad autónoma fijará las medidas encaminadas a la retirada de la madera quemada y a la restauración de la cubierta vegetal afectada por los incendios que, en todo caso, incluirán el acotamiento temporal de aquellos aprovechamientos o actividades incompatibles con su regeneración por un plazo que deberá ser superior a un año, salvo levantamiento del acotado por autorización expresa de dicho órgano.
+3. Lo dispuesto en este artículo se entiende sin perjuicio de lo previsto en el capítulo II del título XVII de la Ley Orgánica 10/1995, de 23 de noviembre, mediante la que se aprueba el Código Penal.
+Se modifican los apartados 1 y 2 por el art. único.63 y 64 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica el título y el apartado 1 por el art. único.31 y .32 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 50 bis
+
+Artículo 50 bis. Trabajos de restauración forestal y medioambiental.
+1. Las comunidades autónomas podrán solicitar a la Administración General del Estado su colaboración en los trabajos de restauración forestal y medioambiental en tanto cumplan los siguientes requisitos:
+a) Disponer de plan de prevención, vigilancia y extinción de incendios forestales actualizado según lo dispuesto en el artículo 48.
+b) Disponer de equipos de prevención y extinción de carácter estable y permanente, acreditando el cumplimiento de lo establecido en el artículo 48.4.
+c) Acreditar que ha sido aplicada la financiación necesaria para los trabajos preventivos y el establecimiento y disponibilidad de los medios de vigilancia y extinción necesarios para dar cobertura a toda la superficie forestal de la zona.
+d) En el caso de trabajos de restauración forestal y medioambiental, la superficie forestal afectada por el siniestro para el que se solicite colaboración deberá reunir alguna de las siguientes características:
+1.º Que sea superior a 10.000 hectáreas.
+2.º Que sea superior a 5.000 hectáreas, de las cuales más del 70 % sea de superficie forestal arbolada.
+3.º Que sea superior a 500 hectáreas que estén incluidas en lugares de la Red Natura 2000 y que afecten a municipios que aporten al menos el 50 % de su término municipal a dicha Red.
+4.º En el territorio insular, las superficies exigidas anteriormente serán las siguientes: En el supuesto del párrafo 1.º, 2.500 hectáreas; en el supuesto del párrafo 2.º, 500 hectáreas; y en el supuesto del párrafo 3.º, 250 hectáreas.
+2. Se faculta a la Ministra para la Transición Ecológica y el Reto Demográfico para declarar, en el ámbito de sus competencias, zona de actuación especial para la restauración forestal y medioambiental de las zonas afectadas y para declarar la emergencia de las obras a ejecutar por dicho departamento. La declaración se referirá a las siguientes actuaciones:
+a) Restauración hidrológico forestal, recuperación ambiental de los cauces y riberas asociadas, control de la erosión y desertificación, así como trabajos complementarios, en los espacios forestales incendiados para mitigar los posibles efectos de posteriores lluvias.
+b) Colaboración para la recuperación y regeneración ambiental de los efectos producidos por los incendios forestales en los espacios de la Red Natura 2000, en particular en los tipos de hábitats de interés comunitario y en los hábitats donde existan especies de interés comunitario, endemismos o especies incluidas en el Listado de Especies Silvestres en Régimen de Protección Especial.
+c) Apoyo directo a la retirada y tratamiento de la biomasa forestal quemada, en su caso.
+d) Colaboración en el tratamiento para control de plagas en las masas forestales.
+e) Restauración de infraestructuras rurales de uso general.
+3. La participación de la Administración General del Estado en tales actuaciones estará condicionada a la aprobación, publicación y ejecución de la planificación prevista en el artículo 48 y a la financiación del coste de las mismas por la comunidad autónoma correspondiente, en el porcentaje que se determine en la declaración, no pudiendo, en ningún caso, superar el 50 % del coste total de las mismas, salvo aquellas actuaciones que corresponda ejecutar a la Administración General del Estado por ser terrenos de su titularidad.
+Se añade por el art. 1.5 del Real Decreto-ley 15/2022, de 1 de agosto. Ref. BOE-A-2022-12926#a1
+
+## CAPÍTULO IV
+
+Sanidad y genética forestal
+
+### Artículo 51
+
+Artículo 51. Marco jurídico de la sanidad forestal.
+En la prevención y lucha contra las plagas forestales, en el Registro de Productos Fitosanitarios a utilizar en los montes y en la introducción y circulación de plantas y productos forestales de importación, así como en cualquier otro aspecto de la sanidad forestal se cumplirá lo establecido en la Ley 43/2002, de 20 de noviembre, de sanidad vegetal.
+
+### Artículo 52
+
+Artículo 52. Protección de los montes contra agentes nocivos.
+1. Sin perjuicio de lo establecido en la Ley 43/2002, de 20 de noviembre, de sanidad vegetal, la protección de los montes contra los agentes nocivos debe ser de carácter preferentemente preventivo, mediante técnicas selvícolas adecuadas, utilización de agentes biológicos que impidan o frenen el incremento de las poblaciones de agentes nocivos y la aplicación de métodos de lucha integrada.
+2. Las comunidades autónomas adoptarán las medidas necesarias de vigilancia, localización y extinción de focos incipientes de plagas, debiendo informar a los propietarios forestales de la zona afectada, y al órgano competente de la Administración General del Estado por si pudiera verse afectada la sanidad general de los montes españoles.
+3. La Estrategia Forestal Española, el Plan Forestal Español, los Planes de Ordenación de Recursos Forestales, las Directrices Básicas Comunes de Gestión Forestal Sostenible, los Proyectos de Ordenación, los Planes Dasocráticos y cualquier otra acción de planificación contemplada en la presente ley, deberán incluir disposiciones para la prevención y lucha contra plagas y enfermedades, con especial atención a los riesgos de las plagas emergentes.
+Se modifica por el art. único.65 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 53
+
+Artículo 53. Obligaciones de los titulares de los montes.
+En cumplimiento de lo dispuesto en la Ley 43/2002, de 20 de noviembre, de sanidad vegetal, los titulares de los montes están obligados a comunicar la aparición atípica de agentes nocivos a los órganos competentes de las comunidades autónomas y a ejecutar o facilitar la realización de las acciones obligatorias que éstos determinen.
+
+### Artículo 54
+
+Artículo 54. Recursos genéticos forestales.
+1. El Ministerio de Agricultura, Alimentación y Medio Ambiente, elaborará y gestionará, en colaboración con las comunidades autónomas, programas de ámbito nacional que promuevan la mejora genética y la conservación de los recursos genéticos forestales así como los instrumentos necesarios para su desarrollo, y en particular lo establecido en la Estrategia Española para la Conservación y el Uso Sostenible de los Recursos Genéticos Forestales.
+2. El Gobierno, consultadas las comunidades autónomas y a propuesta del Ministerio de Agricultura, Alimentación y Medio Ambiente, establecerá las normas básicas sobre conservación y uso sostenible de los recursos genéticos forestales y sobre la producción, comercialización y utilización de los materiales forestales de reproducción.
+3. El Gobierno, consultadas las comunidades autónomas y a propuesta del Ministerio de Agricultura, Alimentación y Medio Ambiente, determinará las regiones de procedencia de los materiales forestales de reproducción y, en particular, mantendrá el Registro y el Catálogo Nacional de Materiales de Base.
+Se modifica por el art. único.66 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### CAPÍTULO V
+
+CAPITULO V
+Acceso a los montes
+Se modifica el encabezamiento por el art. único.67 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se añade por el art. único.33 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 54 bis
+
+Artículo 54 bis. Acceso público.
+1. El acceso público a los montes será objeto de regulación por las Administraciones Públicas competentes.
+2. Las comunidades autónomas definirán las condiciones en que se permite la circulación de vehículos a motor por pistas forestales situadas fuera de la red de carreteras y a través de terrenos forestales, fuera de los viales existentes para tal fin.
+3. En ningún caso podrá limitarse la circulación en las servidumbres de paso para la gestión agroforestal y las labores de vigilancia y de extinción de incendios de las Administraciones Públicas competentes.
+4. El acceso de personas ajenas a la vigilancia, extinción y gestión podrá limitarse en las zonas de alto riesgo de incendio previstas en el artículo 48, cuando el riesgo de incendio así lo aconseje, haciéndose público este extremo de forma visible.
+Se modifica por el art. único.68 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se añade por el art. único.33 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+## TÍTULO V
+
+Investigación, formación, extensión y divulgación
+
+## CAPÍTULO I
+
+Investigación forestal
+
+### Artículo 55
+
+Artículo 55. Investigación forestal.
+1. La Administración General del Estado, a través de la Estrategia Española de Ciencia y Tecnología que establece la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, identificará e incorporará en sus programas de actuación las demandas de investigación forestal de las Administraciones Públicas y de los sectores productivos, así como los instrumentos necesarios para alcanzar los objetivos propuestos.
+2. Las Administraciones Públicas fomentarán la investigación forestal y, en particular, promoverán:
+a) La transferencia tecnológica de los resultados de la Investigación Forestal a los órganos responsables de la planificación y gestión de los montes públicos y privados.
+b) La innovación y el desarrollo de nuevos métodos de gestión forestal sostenible.
+c) La coordinación general de la investigación forestal, estableciendo los mecanismos necesarios para el mejor uso de la totalidad de los recursos y medios disponibles, el intercambio de información, la constitución de redes temáticas permanentes de carácter nacional e internacional y la creación y mantenimiento de bases de datos armonizadas.
+d) La cooperación en materia forestal entre institutos, centros de investigación, centros tecnológicos y universidades, tanto públicos como privados y los organismos públicos y las organizaciones privadas responsables de la gestión forestal de los montes, en particular a través del enlace en forma de redes entre las distintas instituciones implicadas.
+3. La información y resultados de los programas y proyectos de investigación ejecutados con financiación pública que se requieran para elaborar la Información Forestal Española, referida en el artículo 28, se integrarán en ésta. Con tal fin, las instituciones investigadoras responsables proporcionarán esta información al Ministerio de Agricultura, Alimentación y Medio Ambiente y a las comunidades autónomas.
+Se modifica por el art. único.69 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 56
+
+Artículo 56. Redes temáticas, parcelas de seguimiento y áreas de reserva.
+1. La Administración General del Estado y las comunidades autónomas cooperarán en el establecimiento, mantenimiento, financiación y control de las redes temáticas y parcelas de seguimiento derivadas de la normativa internacional, sus respectivos planes forestales o los planes nacionales de investigación científica, desarrollo e innovación tecnológica.
+2. En los montes de titularidad estatal o autonómica se podrán establecer áreas de reserva no intervenidas para el estudio de la evolución natural de los montes. Este mismo tipo de áreas se podrá establecer en montes de otra titularidad, previo acuerdo con su propietario.
+
+## CAPÍTULO II
+
+Formación y educación forestal
+
+### Artículo 57
+
+Artículo 57. Formación y divulgación forestal.
+1. Con el fin de contribuir al desarrollo y promoción de los aspectos sociolaborales del sector forestal y al fomento del empleo con especial atención a las poblaciones rurales, la Administración General del Estado, en colaboración con las comunidades autónomas y los agentes sociales representativos, promoverá la elaboración de planes de formación y empleo del sector forestal, incluyendo medidas relativas a la prevención de riesgos laborales.
+2. Asimismo, la Administración General del Estado cooperará con las comunidades autónomas y los agentes sociales representativos en el establecimiento de programas de divulgación que traten de dar a conocer la trascendencia que tiene para la sociedad la existencia de los montes y su gestión sostenible, y la importancia de sus productos como recursos naturales renovables.
+3. Igualmente, las Administraciones públicas fomentarán el conocimiento de los principios básicos de la selvicultura entre los propietarios privados de los montes y los trabajadores forestales. En las labores de formación se fomentará la participación de las asociaciones profesionales del sector.
+
+### Artículo 58
+
+Artículo 58. Extensión, policía y guardería forestal.
+1. Las Administraciones públicas, en el ámbito de sus competencias, deberán desempeñar, entre otras, las siguientes funciones de extensión, policía y guardería forestal:
+a) De policía, custodia y vigilancia para el cumplimiento de la normativa aplicable en materia forestal, especialmente las de prevención, detección e investigación de las causas de incendios forestales, emitiendo los informes técnicos pertinentes.
+b) De asesoramiento facultativo en tareas de extensión y gestión forestal y de conservación de la naturaleza.
+Los funcionarios que desempeñen estas funciones contarán con la formación específica que les capacite para su correcto desarrollo.
+2. Para fomentar las labores citadas en el párrafo b) del apartado 1, la Administración forestal podrá establecer acuerdos con los agentes sociales representativos.
+Se derogan los apartados 3 y 4 por la disposición derogatoria única de la Ley 4/2024, de 8 de noviembre. Ref. BOE-A-2024-23271#dd
+ Se modifica por el art. único.70 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica por el art. único.34 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 59
+
+Artículo 59. Educación forestal.
+Las Administraciones públicas promoverán programas de educación, divulgación y sensibilización relativos a los objetivos de esta ley, que estarán dirigidos a los integrantes del sistema educativo.
+
+## TÍTULO VI
+
+Fomento forestal
+
+## CAPÍTULO I
+
+Defensa de los intereses forestales
+
+### Artículo 60
+
+Artículo 60. Fundaciones y asociaciones de carácter forestal.
+Las Administraciones públicas promoverán activamente las fundaciones, asociaciones y cooperativas de iniciativa social, existentes o de nueva creación, que tengan por objeto las materias que se tratan en esta ley y, en particular, la gestión sostenible y multifuncional de los montes, y que puedan colaborar con la Administración en el ejercicio de sus competencias.
+
+## CAPÍTULO II
+
+Empresas forestales
+
+### Artículo 61
+
+Artículo 61. Cooperativas, empresas e industrias forestales.
+1. Las comunidades autónomas crearán registros de cooperativas, empresas e industrias forestales, tanto de las empresas que realizan trabajos o aprovechamientos forestales en los montes como de las industrias forestales, incluyendo en éstas las de sierra, chapa, tableros, pasta, papel, y corcho, resina, biomasa, aceites, piñón, castaña, setas, y trufas así como cualquier otro aprovechamiento forestal.
+2. Se crea el Registro Nacional de Cooperativas, Empresas e Industrias Forestales. Las comunidades autónomas remitirán al Ministerio de Agricultura, Alimentación y Medio Ambiente la información relativa a los asientos que se produzcan en sus registros conforme al apartado anterior, a fin de elaborar y mantener actualizado el Registro Nacional.
+El Registro Nacional tendrá carácter informativo y dependerá del Ministerio de Agricultura, Alimentación y Medio Ambiente, a través de la Dirección General de Desarrollo Rural y Política Forestal. Su organización y funcionamiento se establecerán reglamentariamente.
+3. Las cooperativas, empresas e industrias forestales facilitarán anualmente a las comunidades autónomas, a efectos estadísticos, los datos relativos a su actividad, en particular, la producción, transformación y comercialización de sus productos forestales. Esta información se integrará en la Información Forestal Española a través de mecanismos de colaboración entre el Ministerio de Agricultura, Alimentación y Medio Ambiente y los demás órganos de las Administraciones competentes.
+Se modifica por el art. único.71 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 62
+
+Artículo 62. Organizaciones interprofesionales de productos forestales.
+El Ministerio de Agricultura, Alimentación y Medio Ambiente promoverá la creación de organizaciones interprofesionales en el sector forestal. El estatuto jurídico de las organizaciones interprofesionales de los productos forestales será el establecido en la Ley 38/1994, de 30 de diciembre, reguladora de las organizaciones interprofesionales agroalimentarias, y la normativa autonómica sobre la materia.
+Se modifica por el art. único.72 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+## CAPÍTULO III
+
+Incentivos económicos en montes ordenados
+
+### Artículo 63
+
+Artículo 63. Disposiciones generales.
+1. Los incentivos recogidos en los artículos 64 a 66, cuando se financien con cargo a los Presupuestos Generales del Estado, se aplicarán con prioridad para los montes ordenados tanto de titularidad privada como de entidades locales, y para los montes protectores y los catalogados, en los términos que se establezcan.
+2. Las administraciones facilitarán el desarrollo de instrumentos basados en el mercado para abordar eficazmente la conservación y mejora de los activos naturales o de los servicios que estos prestan.
+3. Se incentivará preferentemente la implantación de proyectos de ordenación, planes dasocráticos u otros instrumentos de gestión equivalentes en los montes privados y públicos no catalogados. Los montes no ordenados incluidos en un PORF podrán acceder a los incentivos cuando así se habilite en dicho plan.
+En el acceso a las subvenciones para la prevención contra incendios forestales, cuando se financien con cargo a los Presupuestos Generales del Estado, tendrán prioridad los montes que se encuentren ubicados en una zona de alto riesgo de incendio con un plan de defensa contra incendios vigente, de acuerdo con el artículo 48.
+Se modifica por el art. único.73 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifican los apartados 1 y 3 por el art. único.35 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 64
+
+Artículo 64. Subvenciones.
+Podrán ser objeto de subvención, en los términos fijados en las respectivas convocatorias, las actividades vinculadas a la gestión forestal sostenible.
+
+### Artículo 65
+
+Artículo 65. Incentivos por las externalidades ambientales.
+1. Las Administraciones públicas regularán los mecanismos y las condiciones para incentivar las externalidades positivas de los montes ordenados.
+2. Para estos incentivos se tendrán en cuenta, entre otros, los siguientes factores:
+a) La conservación, restauración y mejora de la biodiversidad en ecosistemas y especies forestales y del paisaje en función de las medidas específicamente adoptadas para tal fin.
+b) La fijación de dióxido de carbono en los montes como medida de contribución a la mitigación del cambio climático, en función de la cantidad de carbono fijada en la biomasa forestal del monte, así como de la valorización energética de su biomasa forestal aprovechable.
+c) La conservación de los suelos y del régimen hidrológico en los montes como medida de lucha contra la desertificación, en función del grado en que la cubierta vegetal y las prácticas selvícolas contribuyan a reducir la pérdida o degradación del suelo y la mejora de los recursos hídricos superficiales y subterráneos.
+d) La mejora de la calidad del aire y la disminución de ruidos.
+3. Las Administraciones Públicas podrán aportar estos incentivos por las siguientes vías:
+a) Subvención al propietario de los trabajos dirigidos a la gestión forestal sostenible.
+b) Establecimiento de una relación contractual con el propietario o titular de la gestión del monte, o de cualquier aprovechamiento, siempre que esté planificado.
+c) Inversión directa por la Administración.
+Se modifican los apartados 2 y 3 por el art. único.74 y 75 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 66
+
+Artículo 66. Créditos.
+De acuerdo con la normativa de la Unión Europea, las Administraciones públicas fomentarán la creación de líneas de crédito bonificadas para financiar las inversiones forestales. Estos créditos podrán ser compatibles con las subvenciones e incentivos.
+
+## TÍTULO VII
+
+Régimen sancionador
+
+## CAPÍTULO I
+
+Infracciones
+
+### Artículo 67
+
+Artículo 67. Tipificación de las infracciones.
+A los efectos de esta ley, y sin perjuicio de lo que disponga al respecto la legislación autonómica, se consideran infracciones administrativas las siguientes:
+a) El cambio de uso forestal o la realización de actividades en contra del uso forestal, sin autorización.
+b) La utilización de montes de dominio público sin la correspondiente concesión o autorización para aquellos usos que la requieran.
+c) La corta, quema, arranque o inutilización de ejemplares arbóreos o arbustivos de especies forestales, salvo casos excepcionales autorizados singularmente o los previstos y controlados explícitamente en el correspondiente instrumento de intervención administrativa de ordenación, autorización, declaración responsable o notificación y justificados por razones de gestión del monte.
+d) El empleo de fuego en los montes y áreas colindantes en las condiciones, épocas, lugares o para actividades no autorizadas.
+e) El incumplimiento de las disposiciones que regulen el uso del fuego dictadas en materia de prevención y extinción de incendios forestales.
+f) La modificación sustancial de la cubierta vegetal del monte sin la correspondiente autorización.
+g) La forestación o reforestación con materiales de reproducción que incumplan los requisitos establecidos en la legislación vigente en esta materia.
+h) La realización de aprovechamientos forestales sin autorización administrativa o declaración responsable del titular y, en general, la realización de cualquier actividad no autorizada o notificada, cuando tales requisitos sean obligatorios, así como el incumplimiento de las disposiciones que regulen el disfrute de los aprovechamientos forestales.
+i) La realización de vías de saca, pistas, caminos o cualquier otra obra cuando no esté prevista en los correspondientes proyectos de ordenación o planes dasocráticos de montes o, en su caso, PORF, o sin estar expresamente autorizada por el órgano forestal de la comunidad autónoma.
+j) El pastoreo o la permanencia de reses en los montes donde se encuentre prohibido o se realice en violación de las normas establecidas al efecto por el órgano forestal de la comunidad autónoma.
+k) El tránsito o la permanencia en caminos o zonas forestales donde exista prohibición expresa en tal sentido, o incumpliendo las condiciones que al respecto se establezcan, así como la circulación con vehículos a motor atravesando terrenos fuera de carreteras, caminos, pistas o cualquier infraestructura utilizable a tal fin, excepto cuando haya sido expresamente autorizada.
+l) Cualquier incumplimiento grave que afecte al normal desarrollo del monte, del contenido de los proyectos de ordenación de montes, planes dasocráticos de montes o planes de aprovechamientos, u otros instrumentos de gestión equivalentes, entre otros los compromisos de adhesión a modelos tipo de gestión forestal, así como sus correspondientes autorizaciones, sin causa técnica justificada y notificada al órgano forestal de la comunidad autónoma para su aprobación.
+m) El incumplimiento de las disposiciones encaminadas a la restauración y reparación de los daños ocasionados a los montes y, en particular, los ocasionados por acciones tipificadas como infracción, así como de las medidas cautelares dictadas al efecto.
+n) El vertido o el abandono no autorizados de residuos, materiales o productos de cualquier naturaleza en terrenos forestales.
+ñ) La alteración de las señales y mojones que delimitan los montes públicos deslindados.
+o) La manifiesta falta de colaboración o la obstrucción por acción u omisión de las actuaciones de investigación, inspección y control de las Administraciones Públicas y de sus agentes, en relación con las disposiciones de esta ley y de sus normas de desarrollo.
+p) El incumplimiento de las obligaciones de información a la Administración por parte de los particulares, así como su ocultación o alteración.
+q) El incumplimiento, total o parcial, de otras obligaciones o prohibiciones establecidas en esta ley.
+r) El incumplimiento de las obligaciones impuestas por el Reglamento (UE) n.º 995/2010 del Parlamento Europeo y del Consejo, de 20 de octubre de 2010, por el que se establecen las obligaciones de los agentes que comercializan madera y productos de la madera, en cuanto a:
+1.º La comercialización de madera no aprovechada legalmente y sus productos derivados.
+2.º La ausencia de mantenimiento y evaluación de un sistema de diligencia debida, ya sea de manera individual o a través de una entidad de supervisión.
+3.º La ausencia de colaboración con la Administración competente en los controles realizados por ésta.
+4.º La no adopción de medidas correctoras expedidas, en su caso, por la autoridad competente tras la realización del correspondiente control.
+5.º El incumplimiento de la obligación de trazabilidad y conservación de esta información a la que están sujetos los comerciantes.
+Se modifican las letras a), c), g), h), j), k), l), n), o) y p) y se añade la r) por el art. único.76 y 77 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 68
+
+Artículo 68. Clasificación de las infracciones.
+1. Son infracciones muy graves:
+a) Las infracciones tipificadas en los párrafos a) a n) del artículo anterior, cuando los hechos constitutivos de la infracción hayan causado al monte daños con unos costes de reposición iguales o superiores a 1.000.000 euros o cuyo plazo de reparación o restauración sea superior a 10 años.
+b) La infracción tipificada en el párrafo ñ) del artículo anterior, cuando la alteración de señales y mojones impida la determinación sobre el terreno de los lindes legalmente establecidos.
+c) Las infracciones tipificadas en el párrafo r) del artículo anterior, cuando el valor de la madera objeto de incumplimiento superare los 200.000 euros.
+d) La reincidencia, entendiendo por ésta que el infractor haya cometido una infracción leve, grave o muy grave en el plazo de un año si es leve, dos años si es grave y cinco años si es muy grave, contados desde que recaiga la resolución sancionadora firme.
+2. Son infracciones graves:
+a) Las infracciones tipificadas en los párrafos a) a n) del artículo anterior, cuando los hechos constitutivos de la infracción hayan causado al monte daños con unos costes de reposición iguales o superiores a 10.000 euros e inferiores a 1.000.000 euros o cuyo plazo de reparación o restauración sea inferior a 10 años y superior a seis meses.
+b) La infracción tipificada en el párrafo ñ) del artículo anterior, cuando la alteración de señales y mojones no impida la identificación de los límites reales del monte público deslindado.
+c) La infracción tipificada en el párrafo o) del artículo anterior.
+d) Las infracciones tipificadas en el párrafo r) del artículo anterior, cuando el valor de la madera objeto de incumplimiento sea igual o menor que 200.000 euros pero mayor que 50.000 euros.
+e) El incumplimiento de las obligaciones recogidas en los subapartados 2.º, 3.º, 4.º y 5.º del párrafo r) del artículo anterior.
+f) La reincidencia, entendiendo por ésta que el infractor haya cometido una infracción leve, grave o muy grave en el plazo de un año si es leve, dos años si es grave y cinco años si es muy grave, contados desde que recaiga la resolución sancionadora firme.
+3. Son infracciones leves:
+a) Las infracciones tipificadas en los párrafos a) a n) del artículo anterior cuando los hechos constitutivos de la infracción no hayan causado daños al monte o cuando, habiendo daño, tenga unos costes de reposición inferiores a 10.000 euros o el plazo para su reparación o restauración no exceda de seis meses.
+b) Las infracciones tipificadas en los párrafos p) y q) del artículo anterior.
+c) Las infracciones tipificadas en el párrafo r) del artículo anterior, cuando el valor de la madera objeto de incumplimiento no supere los 50.000 euros.
+4. En los todos los casos de infracciones tipificadas en el párrafo r) del artículo anterior, será sanción accesoria el comiso de los bienes comercializados que constituyen el objeto de la infracción, que serán enajenados por subasta pública.
+Se modifica por el art. único.78 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 69
+
+Artículo 69. Medidas cautelares.
+La Administración competente, o sus agentes de la autoridad, podrán adoptar las medidas de carácter provisional que estimen necesarias, incluyendo el decomiso, para evitar la continuidad del daño ocasionado por la actividad presuntamente infractora.
+Al inicio del procedimiento y de acuerdo con la legislación aplicable en cada caso, la Administración competente deberá ratificar tales medidas. Asimismo, podrá imponer nuevas medidas cautelares para asegurar la eficacia de la resolución final que pudiera recaer.
+
+### Artículo 70
+
+Artículo 70. Responsables de las infracciones.
+1. Serán responsables de las infracciones previstas en esta ley las personas físicas o jurídicas que incurran en aquellas y, en particular, la persona que directamente realice la actividad infractora o la que ordene dicha actividad cuando el ejecutor tenga con aquella una relación contractual o de hecho, siempre que se demuestre su dependencia del ordenante.
+2. Cuando no sea posible determinar el grado de participación de las distintas personas que hubiesen intervenido en la realización de una infracción, la responsabilidad será solidaria, sin perjuicio del derecho a repetir frente a los demás participantes, por parte de aquel o aquellos que hubieran hecho frente a las responsabilidades.
+
+### Artículo 71
+
+Artículo 71. Prescripción de las infracciones.
+1. El plazo de prescripción de las infracciones será de cinco años para las muy graves, tres años para las graves y un año para las leves.
+2. El plazo de prescripción comenzará a contar a partir de la fecha en que la infracción se haya cometido.
+3. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente sancionador estuviese paralizado durante un mes por causa no imputable al presunto responsable.
+
+### Artículo 72
+
+Artículo 72. Responsabilidad penal.
+1. Cuando la infracción pudiera ser constitutiva de delito o falta, la Administración instructora lo pondrá en conocimiento del órgano jurisdiccional competente, suspendiéndose la tramitación del procedimiento sancionador mientras la autoridad judicial no hubiera dictado sentencia firme o resolución que ponga fin al proceso.
+2. La sanción penal excluirá la imposición de sanción administrativa en los casos en que se aprecie la identidad del sujeto, del hecho y del fundamento. De no haberse estimado la existencia de delito o falta, el órgano competente continuará, en su caso, el expediente sancionador teniendo en cuenta los hechos declarados probados en la resolución firme del órgano judicial competente.
+
+## CAPÍTULO II
+
+Sanciones
+
+### Artículo 73
+
+Artículo 73. Potestad sancionadora.
+1. La sanción de las infracciones corresponderá, salvo lo dispuesto en el apartado 2, al órgano de la comunidad autónoma que tenga atribuida la competencia en cada caso.
+2. Compete a la Administración General del Estado la imposición de sanciones en aquellos supuestos en que la infracción administrativa haya recaído en ámbito y sobre materias de su competencia.
+
+### Artículo 74
+
+Artículo 74. Cuantía de las sanciones.
+Las infracciones tipificadas en este título serán sancionadas con las siguientes multas:
+a) Las infracciones leves, de 100 a 1.000 euros.
+b) Las infracciones graves, de 1.001 a 100.000 euros.
+c) Las infracciones muy graves, de 100.001 a 1.000.000 euros, salvo que el importe de la madera indebidamente comercializada, o el doble del coste de reposición del daño causado, fueran superiores al millón de euros. En este caso, la sanción será equivalente al importe mayor.
+Se modifica por el art. único.79 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 75
+
+Artículo 75. Proporcionalidad.
+Dentro de los límites establecidos en el artículo anterior, las sanciones se impondrán atendiendo a las circunstancias del responsable:
+a) (Suprimida)
+b) Grado de culpa.
+c) Reincidencia.
+d) Beneficio económico obtenido por el infractor.
+Se suprime la letra a) por el art. único.80 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Artículo 76
+
+Artículo 76. Reducción de la sanción.
+Podrá reducirse la sanción o su cuantía, siempre y cuando el infractor haya procedido a corregir la situación creada por la comisión de la infracción en el plazo que se señale en el correspondiente requerimiento.
+
+### Artículo 77
+
+Artículo 77. Reparación del daño e indemnización.
+1. Sin perjuicio de las sanciones penales o administrativas que en cada caso procedan, el infractor deberá reparar el daño causado en la forma y condiciones fijadas por el órgano sancionador. Esta obligación es imprescriptible en el caso de daños al dominio público forestal.
+2. La reparación tendrá como objetivo la restauración del monte o ecosistema forestal a la situación previa a los hechos constitutivos de la infracción sancionada. A los efectos de esta ley se entiende por restauración la vuelta del monte a su estado anterior al daño, y por reparación las medidas que se adoptan para lograr su restauración. El causante del daño vendrá obligado a indemnizar la parte de los daños que no puedan ser reparados, así como los perjuicios causados.
+3. Podrá requerirse asimismo indemnización en los casos en que el beneficio económico del infractor sea superior a la máxima sanción prevista. Esta indemnización será como máximo el doble de la cuantía de dicho beneficio y en el caso de montes declarados de utilidad pública se ingresará en el fondo de mejoras regulado en el artículo 38.
+4. Los daños ocasionados al monte y el plazo para su reparación o restauración se determinarán según criterio técnico debidamente motivado en la resolución sancionadora.
+Se modifica el apartado 3 por el art. único.81 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se modifica el apartado 2 por el art. único.36 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Artículo 78
+
+Artículo 78. Multas coercitivas y ejecución subsidiaria.
+1. Si los infractores no procedieran a la reparación o indemnización, de acuerdo con lo establecido en el artículo 77, y una vez transcurrido el plazo señalado en el requerimiento correspondiente, la Administración instructora podrá acordar la imposición de multas coercitivas o la ejecución subsidiaria.
+2. Las multas coercitivas serán reiteradas por lapsos de tiempo que sean suficientes para cumplir lo ordenado, y la cuantía de cada una de dichas multas no superará el 20 por ciento de la multa fijada por la infracción cometida.
+3. La ejecución por la Administración de la reparación ordenada será a costa del infractor.
+
+### Artículo 79
+
+Artículo 79. Decomiso.
+La Administración competente podrá acordar el decomiso tanto de los productos forestales ilegalmente obtenidos como de los instrumentos y medios utilizados en la comisión de la infracción.
+
+### Artículo 80
+
+Artículo 80. Prescripción de las sanciones.
+1. Las sanciones impuestas por la comisión de faltas muy graves prescribirán a los cinco años, en tanto que las impuestas por faltas graves o leves lo harán a los dos años y al año, respectivamente.
+2. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+3. Interrumpirá la prescripción, la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causa no imputable al infractor.
+Se modifica el apartado 1 por el art. único.82 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Consorcios y convenios de repoblación.
+1. Los consorcios y convenios de repoblación amparados por la legislación que se deroga en la disposición derogatoria única de esta ley continuarán vigentes hasta la fecha de su finalización, sin perjuicio de las posibles prórrogas pactadas en los contratos.
+2. Sin perjuicio de lo dispuesto en el apartado anterior, las comunidades autónomas podrán sustituir los consorcios y convenios de repoblación suscritos entre la Administración forestal y los propietarios de montes por otras figuras contractuales en las que no sería exigible una compensación económica a favor de la Administración o condonar su deuda, siempre que se cuente con el acuerdo de los propietarios y que concurra alguna de las siguientes condiciones:
+a) Los beneficios indirectos y el interés social que genere el mantenimiento de la cubierta vegetal superen los de las rentas directas del monte.
+b) El propietario del suelo se comprometa a conservar adecuadamente la masa forestal creada por aquellos consorcios o convenios mediante la aplicación de un instrumento de gestión.
+c) Aquellas otras que fije la comunidad autónoma.
+Se modifica el apartado 1 por el art. único.83 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Regímenes especiales.
+1. Los montes del Estado que pertenecen al dominio público por afectación al Patrimonio Nacional se rigen por su legislación específica, siéndoles de aplicación lo dispuesto en esta ley cuando ello no sea contrario a los fines a los que fueron afectados.
+2. En el territorio forestal del dominio público forestal de titularidad estatal adscrito al Ministerio de Defensa, así como en las zonas de interés para la Defensa y en aquellos territorios en los que el Ministerio de Defensa desarrolle actividades en virtud de cualquier título jurídico, la aplicación de lo dispuesto en esta ley estará subordinada a los fines de la Defensa Nacional.
+En particular, en estos territorios la defensa contra incendios forestales será responsabilidad del Ministerio de Defensa, con el asesoramiento técnico del Ministerio de Medio Ambiente.
+Lo dispuesto en el artículo 58.3 no será de aplicación en estos territorios.
+3. Lo dispuesto en esta ley se entiende sin perjuicio de las normas específicas aplicables a los montes afectados al ejercicio de competencias estatales o adscritos a servicios públicos gestionados por la Administración del Estado.
+Se añade el párrafo tercero al apartado 2 y se modifica el apartado 3 por el art. único.37.1 y 2 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Participación forestal en la declaración de espacios naturales protegidos.
+En el procedimiento de declaración de montes como espacios naturales protegidos será preceptiva la participación del órgano forestal de la comunidad autónoma cuando éste sea distinto del órgano declarante.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Uso energético de la biomasa forestal.
+El Gobierno elaborará, en colaboración con las comunidades autónomas, una estrategia para el desarrollo del uso energético de la biomasa forestal, de acuerdo con los objetivos indicados en el Plan de Energías Renovables en España.
+Se modifica por el art. único.84 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Sociedades forestales.
+1. Se define como sociedad forestal la agrupación de propietarios de parcelas susceptibles de aprovechamiento forestal que ceden a la Sociedad Forestal los derechos de uso forestal de forma indefinida o por plazo cierto igual o superior a veinte años.
+2. También podrán pertenecer a la Sociedad Forestal otras personas físicas o jurídicas que no sean titulares, siempre y cuando su participación no supere el 49 por ciento de las participaciones sociales.
+3. En caso de transmisión de parcelas se presumirá, salvo pacto en contrario, la subrogación automática de la posición de socio del nuevo titular.
+4. Las comunidades autónomas determinarán, en el ámbito de sus competencias, los requisitos adicionales que deberán cumplir estas sociedades, el nombre que tendrán y los incentivos de que disfrutarán.
+5. Estas Sociedades Forestales tendrán como único objeto social la explotación y aprovechamiento en común de terrenos forestales cuyo uso se cede a la sociedad, para realizarlo mediante una gestión forestal sostenible.
+6. Las Sociedades Forestales se regirán por el texto refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio.
+7. El régimen fiscal especial establecido en el capítulo VII del título VII de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, resultará de aplicación a las operaciones de cesión de derechos de uso forestal a que se refiere el apartado 1 de esta disposición a cambio de valores representativos del capital social de la sociedad forestal adquirente.
+Se modifica por el art. único.85 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Administraciones públicas competentes.
+La referencia que se hace en el texto de esta ley a las comunidades autónomas se entenderá que incluye también a las Ciudades de Ceuta y Melilla y, en su caso, a los órganos forales de los Territorios Históricos del País Vasco y a los Cabildos y Consejos Insulares y otras entidades locales con competencias en materia forestal, reconocidas en la normativa autonómica.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Cambio climático.
+Las Administraciones públicas elaborarán, en el ámbito del Convenio Marco de las Naciones Unidas sobre Cambio Climático, un estudio sobre las necesidades de adaptación del territorio forestal español al cambio climático, incluyendo un análisis de los métodos de ordenación y tratamientos silvícolas más adecuados para dicha adaptación.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Ocupaciones en montes de dominio público forestal por razones de la Defensa Nacional.
+1. Podrán establecerse derecho de paso y autorizarse ocupaciones temporales en montes del dominio público forestal, motivadas por interés de la Defensa Nacional, conforme al procedimiento y plazos que se determinen.
+2. En caso de discrepancia entre las Administraciones públicas implicadas, la resolución del expediente de establecimiento del derecho de paso u ocupación a que se refiere el apartado anterior se resolverá conforme al procedimiento previsto en el apartado 4 del artículo 18 de esta ley.
+3. En aquellas actividades realizadas por razones de la Defensa Nacional que entrañen riesgo directo de incendios, el Ministerio de Defensa dotará a los territorios afectados de infraestructuras preventivas y equipos de extinción de acuerdo con los planes técnicos aprobados por el Ministerio de Medio Ambiente.
+Se modifica el apartado 1 por el art. único.86 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Mecenazgo.
+A efectos de lo previsto en el apartado 1 del artículo 3 de la Ley 49/2002, de 23 de diciembre, del régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo, se considerarán incluidos entre los fines de interés general los orientados a la gestión forestal sostenible.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Introducción en el mercado de madera y productos derivados de la madera.
+1. Las Administraciones Públicas cooperarán en el ámbito de sus competencias para asegurar la legalidad de la madera y productos derivados introducidos en el mercado en España, y dar así cumplimiento a la normativa comunitaria en esta materia, derivada del Plan sobre Aplicación de las Leyes Forestales, Gobernanza y Comercio de la Unión Europea.
+2. En el ámbito del Reglamento (UE) n.º 995/2010 del Parlamento Europeo y del Consejo, de 20 de octubre de 2010, por el que se establecen obligaciones de los agentes que comercializan madera y productos de la madera, los agentes que opten por un sistema individual para ejercer la diligencia debida deberán presentar una declaración responsable ante el órgano autonómico competente. El contenido mínimo de esta declaración responsable se establecerá reglamentariamente. La omisión de la presentación de esta declaración supondrá una infracción leve a los efectos del título VII.
+Se modifica por el art. único.87 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Evaluación ambiental.
+Siempre que en la presente ley alguna actividad, uso o aprovechamiento esté sometido sólo a notificación o declaración responsable y dicha actividad esté sometida obligatoriamente a evaluación ambiental por la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, o por la legislación de evaluación ambiental de la comunidad autónoma donde se vaya a llevar a cabo, se estará a lo ordenado en el artículo 9.2 de dicha ley y demás preceptos de concordante aplicación.
+Se modifica por el art. único.88 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se añade por el art. único.38 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Fomento de la Industria Forestal.
+Se modifica el artículo 5.3 de la Ley 21/1992, de 16 de julio, de Industria, añadiendo entre los objetivos de los programas de promoción industrial, uno nuevo con el siguiente contenido:
+i) El fomento de las industrias de transformación de recursos naturales renovables, y específicamente las que utilicen como materia prima los recursos forestales.
+Se añade por el art. único.89 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Deducción en el Impuesto sobre Sociedades por gastos e inversiones de las sociedades forestales.
+Las sociedades forestales a que se refiere la disposición adicional quinta de esta Ley tendrán derecho a una deducción en la cuota íntegra del Impuesto sobre Sociedades del 10 por ciento de los gastos o inversiones que realicen en el período impositivo en la conservación, mantenimiento, mejora, protección y acceso del monte.
+Esta deducción estará sometida a los límites y condiciones establecidos en el artículo 39 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, conjuntamente con las allí señaladas.
+Se añade por el art. único.90 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Servidumbres en montes demaniales.
+Las Administraciones gestoras de los montes que pasen a integrar el dominio público forestal revisarán, en el plazo de 10 años desde la entrada en vigor de esta ley, las servidumbres y otros gravámenes que afecten a estos montes, para garantizar su compatibilidad con su carácter demanial y con los principios que inspiran esta ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Plazo para la ordenación de montes.
+Los montes que tengan la obligación, conforme a lo dispuesto en el artículo 33, de disponer de un instrumento de gestión forestal, tendrán un período de 25 años desde la entrada en vigor de esta ley para dotarse de aquél.
+Se modifica por el art. único.91 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Incentivos económicos en montes no ordenados.
+Durante un plazo de quince años desde la entrada en vigor de esta ley, los propietarios de montes no ordenados podrán acogerse a los incentivos a los que se refiere el artículo 63, pudiendo ser objeto de subvención o crédito la elaboración del correspondiente instrumento de gestión forestal. Pasado dicho período se le denegará de oficio cualquier incentivo en tanto no se doten de instrumento de gestión o, en su caso, y tal como se prevé en el artículo 63.3, se incluyan en un PORF.
+Si durante este plazo se produce un cambio de propiedad, el plazo para el nuevo propietario empezará a contar desde el momento de la transmisión.
+Se modifica por el art. único.92 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Montes declarados de utilidad pública con anterioridad a esta ley.
+A los efectos de lo previsto en el artículo 16 y concordantes, se consideran incluidos en el Catálogo de Montes de Utilidad Pública todos los montes declarados de utilidad pública con anterioridad a la entrada en vigor de esta ley.
+Se modifica por el art. único.93 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Montes declarados protectores con anterioridad a esta ley.
+A los efectos de lo previsto en el artículo 24, se consideran incluidos en el Registro de Montes Protectores todos los montes declarados como tales con anterioridad a la entrada en vigor de esta ley.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogadas las siguientes leyes:
+a) Ley de 10 de marzo de 1941, sobre el Patrimonio Forestal del Estado.
+b) Ley de 8 de junio de 1957, de Montes.
+c) Ley 81/1968, de 5 de diciembre, sobre Incendios Forestales.
+d) Ley 22/1982, de 16 de junio, sobre repoblaciones gratuitas con cargo al Presupuesto del ICONA en terrenos incluidos en el Catálogo de Montes de Utilidad Pública.
+e) Ley 5/1977, de 4 de enero, de Fomento de la Producción Forestal.
+2. Las normas reglamentarias dictadas en desarrollo de los textos derogados a los que se refiere el apartado anterior continuarán vigentes, en tanto no se opongan a lo previsto en esta ley, hasta la entrada en vigor de las normas que puedan dictarse en su desarrollo.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna silvestres.
+(Suprimida)
+Se suprime por el art. único.94 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación competencial.
+1. Esta Ley se dicta al amparo de lo dispuesto en el artículo 149.1.23.ª de la Constitución y tiene, por tanto, carácter básico (legislación básica sobre montes, aprovechamientos forestales y protección del medio ambiente), sin perjuicio de lo dispuesto en los dos apartados siguientes.
+2. Tienen carácter básico al amparo de otros preceptos constitucionales los artículos 12, 14, 15, 16, 17, 18, apartado 4, 20, 21, 36, apartado 4, 47, apartado 3, disposición adicional segunda, apartado 1, y disposición transitoria primera, por dictarse al amparo del artículo 149.1.18.ª de la Constitución.
+3. Los siguientes preceptos y disposiciones se dictan al amparo de títulos competenciales exclusivos del Estado:
+a) Los artículos 18, apartados 1 y 2, 19, 22, 25 y 27 bis, que se dictan al amparo del artículo 149.1.8.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las comunidades autónomas de los derechos civiles, forales o especiales, allí donde existan.
+b) Los artículos 18.3 y 18 bis se dictan al amparo del artículo 149.1.8.ª de la Constitución que atribuye al Estado competencia exclusiva en materia de ordenación de los registros.
+c) El capítulo I del título V, salvo el artículo 56.1, se dicta al amparo del artículo 149.1.15.ª de la Constitución que atribuye al Estado competencia exclusiva en materia de fomento y coordinación general de la investigación científica y técnica.
+d) La disposición adicional novena se dicta al amparo del artículo 149.1.14.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de Hacienda general y Deuda del Estado.
+Se modifica el apartado 3 por el art. único.95 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
+ Se declara la inconstitucionalidad, con el alcance del fundamento jurídico 7, por Sentencia TC 49/2013, de 28 de febrero. Ref. BOE-A-2013-3325.
+
+### Disposición final tercera
+
+Disposición final tercera. Habilitación normativa.
+El Gobierno y las Comunidades Autónomas, en el ámbito de sus respectivas competencias, dictarán las disposiciones necesarias para el desarrollo de esta ley.
+Se modifica por el art. único.39 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Potestades reglamentarias en Ceuta y Melilla.
+Las Ciudades de Ceuta y Melilla ejercerán las potestades normativas reglamentarias que tienen atribuidas por las Leyes Orgánicas 1/1995 y 2/1995, de 13 de marzo, dentro del marco de esta ley y de las que el Estado promulgue a tal efecto.
+
+### Disposición final quinta
+
+Disposición final quinta. Actualización de multas.
+Se faculta al Gobierno para actualizar mediante real decreto la cuantía de las multas establecidas en esta ley de acuerdo con los índices de precios de consumo.
+
+### Disposición final sexta
+
+Disposición final sexta. Entrada en vigor de la ley.
+La presente ley entrará en vigor a los tres meses de su publicación en el «Boletín Oficial del Estado». Por tanto,
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 21 de noviembre de 2003.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ
+
+## [Información relacionada]
+
+Información relacionada
+ Las referencia hechas en esta Ley a los planes de defensa de las zonas de alto riesgo de incendio se entenderán realizadas a los planes anuales para la prevención, vigilancia y extinción de incendios forestales, según establece la disposición adicional 3 del Real Decreto-ley 15/2022, de 1 de agosto. Ref. BOE-A-2022-12926#da-3
+ Las referencias hechas a determinados órganos administrativos deberán entenderse sustituidas por «Órgano competente en materia forestal», según establece la disposición adicional 1 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#daprimera.

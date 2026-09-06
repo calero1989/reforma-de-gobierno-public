@@ -1,0 +1,437 @@
+# Ley 44/2007, de 13 de diciembre, para la regulación del régimen de las empresas de inserción.
+
+- Identificador BOE: `BOE-A-2007-21492`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-21492
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 43, de 19 de febrero de 2008. Ref. BOE-A-2008-2983
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+PREÁMBULO
+I
+Los principios que inspiran la presente Ley se fundamentan en el mandato de la Constitución Española que, en el apartado 2 de su artículo 9, ordena a los poderes públicos facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social de nuestro país, lo que motiva al legislador para que contemple la necesidad de establecer cauces adecuados que faciliten tal participación, especialmente la de aquellas personas que por circunstancias diversas se encuentren en situaciones de dificultad y exclusión social.
+Por otra parte, estas personas particularmente desfavorecidas, en situaciones de marginación o de exclusión, encuentran especiales dificultades para acceder al mercado de trabajo, debido a sus carencias sociales, económicas, educativas y de cualificación laboral, con lo que el ejercicio de un trabajo, derecho y deber de todo ciudadano consagrado en el artículo 35 de la Constitución, presenta para ellas numerosos problemas debido a la desmotivación personal, al desconocimiento o abandono de los hábitos sociales y laborales básicos, así como a la carencia de niveles educativos mínimos y la falta de adaptación profesional.
+Las transformaciones que están experimentando la economía, la sociedad, los continuos avances tecnológicos y los cambios en los hábitos laborales y en los sistemas de organización de trabajo, acompañado de la pérdida de lazos sociales y familiares, configuran algunas de las múltiples causas de la exclusión social.
+La relación con el mundo del empleo es referente obligado a la hora de abordar los procesos de integración social. La población en edad laboral encuentra en el empleo no sólo una fuente de ingresos, sino también el origen de toda una red de relaciones sociales que facilitan la integración.
+Un rasgo común a casi todas las situaciones de exclusión social es la dificultad para participar en los mecanismos habituales de formación e inserción laboral. Por ello es esencial involucrar en la lucha contra la exclusión social a las diferentes Administraciones Públicas, dentro de sus ámbitos de competencias y medios, a través de acciones de integración encaminadas a potenciar la plena participación de los colectivos afectados por esta situación.
+La eficacia de las políticas de los poderes públicos destinadas a promover el empleo y lucha contra la exclusión social dependerá de la capacidad que éstos tengan para dar respuesta a dichas situaciones y para implicarse en las correspondientes soluciones. Este modelo de política social se basa fundamentalmente en la incorporación de nuevas formas de organización.
+En el ámbito comunitario cabe resaltar que uno de los tres objetivos globales de la estrategia europea de empleo (EEE) es consolidar la inclusión social, prevenir la exclusión del mercado laboral y apoyar la integración en el empleo de las personas desfavorecidas. Las directrices integradas establecidas bajo las tres prioridades de la EEE (oferta de mano de obra; adaptabilidad; capital humano) prestan una considerable atención a la promoción de un mercado laboral inclusivo.
+En este sentido, la Comunicación de la Comisión Europea de 2005 sobre la Agenda Social en la Unión Europea anunció la proposición por parte de la Comisión Europea de un Año Europeo (2010) de la lucha contra la pobreza y la exclusión social. Ese año servirá para medir los progresos logrados durante la década para poner de manifiesto la especial vulnerabilidad de los grupos de población con mayores dificultades.
+II
+Como nuevos modelos de actuación en esta materia se encuentran las empresas de inserción, que constituyen una tipología especial dentro de las empresas de carácter social y confirman que el empleo es y será para los más desfavorecidos y excluidos uno de los principales vectores de inserción social y una forma de participación en la actividad de la sociedad.
+Las iniciativas desarrolladas por las empresas de inserción en este campo en el Estado han sido numerosas en los últimos años, y han supuesto el apoyo continuo a las personas más desfavorecidas en la sociedad que participan en las mismas, y están ligadas al territorio y a las necesidades de trabajo en la zona, buscando espacios en el mundo laboral y creando puestos de trabajo.
+Son iniciativas que, mediante la actividad empresarial, acompañadas de actuaciones sociales y de inserción social, hacen posible la inclusión sociolaboral de personas excluidas para su posterior colocación en empresas convencionales o en proyectos de autoempleo.
+Las metodologías que se desarrollan durante un itinerario de inserción, dentro del cuál se lleva a cabo la actividad laboral en la empresa de inserción, tienen como objetivo potenciar las capacidades de las personas a través de los conocimientos técnicos, habituación sociolaboral y determinación de prioridades adecuadas a sus posibilidades y a las del mercado laboral.
+Se trata de regular las empresas de inserción con el objetivo de servir como un instrumento más a la inserción de los sectores excluidos de la sociedad, articulándose en este caso tal inserción a través de una prestación laboral en la empresa de inserción que permita la transición de la persona en situación de exclusión social al empleo ordinario.
+Por todo ello, se considera necesario establecer a nivel nacional un marco legal para las empresas de inserción tal y como se determina en el Programa Nacional de Reformas del Reino de España y en el IV Plan Nacional de Acción para la Inclusión Social 2006-2008, que propicie y promueva el empleo de personas en situación de exclusión para su incorporación al mercado de trabajo.
+En este sentido, la disposición final quinta de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo, incorpora el mandato de aprobar una norma con rango de ley, en el plazo de seis meses desde la aprobación de la misma, y previa consulta con las organizaciones sindicales y asociaciones empresariales más representativas, incluyendo a las del sector afectado, con el fin de regular el régimen de las empresas de inserción.
+En la discusión de los distintos borradores elaborados por el Ministerio de Trabajo y Asuntos Sociales se han considerado, las aportaciones llevadas a cabo por los agentes sociales, UGT, CCOO, CEOE y CEPYME en proceso de consulta, así como las opiniones versadas por el propio sector de las empresas de inserción representadas por FEDEI-CEPES. Asimismo, las distintas Comunidades Autónomas han sido tenidas en cuenta, tanto en la fase de borrador como en la fase de anteproyecto por medio del intercambio de criterios efectuado en la Conferencia Sectorial celebrada para tratar específicamente la información sobre el texto presentado en el Consejo de Ministros.
+El Consejo Económico y Social ha emitido dictamen con fecha de 27 de junio de 2007, habiéndose incorporado distintas observaciones realizadas al referido texto.
+III
+La presente norma se inscribe dentro de la competencia exclusiva que el artículo 149.1. 7.ª de la Constitución atribuye al Estado en materia de legislación laboral, y sin perjuicio de las competencias de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla en materia de Asistencia Social.
+La Ley se estructura en seis Capítulos, con dieciocho artículos, cinco Disposiciones adicionales, tres Disposiciones transitorias, una Disposición derogatoria y seis Disposiciones finales.
+En el Capítulo I se establecen el objeto y los fines de la Ley, pasándose a definir los trabajadores contratados por las empresas de inserción destinatarios de los procesos y medidas para la inserción sociolaboral: personas en situación de exclusión social, con especiales dificultades para su acceso al mercado de trabajo, y pertenecientes a colectivos socialmente desfavorecidos.
+Los colectivos en situación de exclusión social se determinan de conformidad con la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo, añadiendo a los colectivos procedentes de centros de alojamiento alternativo y los procedentes de servicios de prevención e inserción social autorizados por las Comunidades Autónomas y las ciudades de Ceuta y Melilla.
+La calificación de la situación de exclusión social se confiere a los Servicios Sociales Públicos competentes. A tales efectos se consideran competentes los correspondientes de las Comunidades Autónomas de conformidad con lo dispuesto en el artículo 148.1.20 de la Constitución Española y lo establecido en las distintas Leyes Orgánicas de Estatutos de Autonomía, así como, en el ámbito local, los determinados por los municipios de acuerdo con la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, con arreglo a lo que establece la legislación estatal o autonómica.
+Se definen los itinerarios de inserción sociolaboral, que seguirán estas personas, dentro de los cuáles desarrollarán su actividad laboral de tránsito como un medio más para facilitar su integración en la sociedad.
+El Capítulo II establece el régimen jurídico de las empresas de inserción. La empresa de inserción que define la norma es aquella sociedad mercantil, incluidas por tanto las sociedades laborales, o sociedad cooperativa que, debidamente calificada, realice cualquier actividad económica de producción de bienes o prestación de servicios, teniendo como fin primordial de su objeto social la integración y formación sociolaboral de personas en situación de exclusión social.
+Por otra parte, dado que las empresas de inserción responden a la finalidad de la inserción social de personas especialmente desfavorecidas, junto al hecho de una necesaria tutela por parte de las Administraciones Públicas, tienen que reinvertir la mayor parte de sus posibles beneficios económicos en la ampliación o mejora de sus estructuras productivas o de inserción.
+Asimismo, se regula el porcentaje de trabajadores en proceso de inserción que estas empresas deben tener respecto al total de los trabajadores de la plantilla.
+Además, el fin de inserción social de este tipo de empresas, hace necesario recoger el requisito indispensable de estar éstas promovidas y participadas por una o varias entidades promotoras, definiéndolas y estableciéndose el porcentaje de la participación en aquéllas.
+Finalmente, se recoge la creación de un Registro Administrativo de las Empresas de Inserción en el Ministerio de Trabajo y Asuntos Sociales a efectos informativos, sin perjuicio de las competencias ejercidas en esta materia por las Comunidades Autónomas.
+Se definen en la norma los actos registrales, de calificación y descalificación así como la documentación sujeta a constancia registral.
+En el Capítulo III se define la actuación de la Administración Pública responsable, en cada caso, de los Servicios Sociales Públicos competentes y de los Servicios Públicos de Empleo en relación con los procesos de inserción, contemplándose acciones previas a la incorporación de los trabajadores a las empresas de inserción, así como de seguimiento y apoyo a éstos una vez finalizada su estancia en dichas empresas.
+En el Capítulo IV se desarrolla la relación laboral a concertarse entre un trabajador calificado en situación de exclusión y una empresa de inserción, teniendo por objeto la prestación de un trabajo retribuido acompañado de un itinerario de inserción personalizado previamente definido.
+En su regulación se han tenido en cuenta las características de los trabajadores en proceso de inserción, así como las peculiaridades de la empresa de inserción, situando la relación laboral dentro del marco común que se establece en el Estatuto de los Trabajadores, contemplándose en el texto determinadas particularidades inherentes a las relaciones y condiciones de trabajo existentes en estas empresas.
+Como principal característica, se adapta el contrato de trabajo temporal de fomento del empleo como modalidad contractual vinculada a la ejecución de un itinerario de inserción, pudiendo concertarse, como regla general, por un periodo mínimo de doce meses y máximo de tres años.
+Dentro de las medidas de promoción de las empresas de inserción se contemplan, en el Capítulo V, diversas ayudas encaminadas a la contratación de personas calificadas en situación de exclusión social, así como una serie de subvenciones que pudieran compensar los sobrecostes laborales por la menor productividad de estas personas en la actividad empresarial, y las ayudas correspondientes al seguimiento del itinerario de inserción social.
+Asimismo, se reconocen otras ayudas para la creación y desarrollo de empresas de inserción.
+El Capítulo VI está dedicado al establecimiento del Régimen de infracciones y sanciones, que se desarrolla mediante la Disposición final primera.
+Entre las disposiciones adicionales, se recoge, como consecuencia de las demandas de distintas Comunidades Autónomas en la Conferencia Sectorial celebrada para el informe de la presente Ley, la designación del Consejo General del Sistema Nacional de Empleo, así como la competencia de los Servicios Sociales y los Servicios Públicos de Empleo de las Comunidades Autónomas, a los efectos de llevar a cabo la evaluación y seguimiento del cumplimiento de los fines previstos en esta norma. De igual forma, se introduce la exceptuación del cómputo de trabajadores en procesos de inserción para trabajadores no socios en Cooperativas de trabajo asociado y Sociedades laborales para evitar la modificación normativa de estas sociedades. Asimismo, se contemplan como condiciones especiales de ejecución de los contratos la inclusión de consideraciones relativas a la situación de la exclusión social de los trabajadores vinculados a la realización del contrato, de conformidad con lo dispuesto en la legislación de contratos del sector público. Además, se prevé en la Disposición adicional cuarta, el establecimiento de medidas de apoyo específicas para trabajadores procedentes de empresas de inserción así como para las empresas que los contraten de forma indefinida. Finalmente, la Disposición final tercera modifica la Disposición adicional segunda de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo, en relación a la exclusión social y fomento del empleo, debiendo considerarse el artículo 2 de la Ley para la regulación del régimen de las empresas de inserción.
+A raíz de las peticiones de varias Comunidades Autónomas en la Conferencia Sectorial celebrada para el informe de la presente Ley, la Disposición transitoria primera establece un periodo de adaptación de las empresas de inserción ya existentes a las previsiones contenidas en la Ley, así como para la adaptación de la normativa autonómica y en especial la transitoriedad de los contratos de trabajo existentes antes de la entrada en vigor de la Ley.
+La Disposición transitoria segunda determina que las Fundaciones y Asociaciones que, a la fecha de entrada en vigor de la Ley, mantengan actividades de inserción sociolaboral en los términos definidos para las Empresas de Inserción, disfrutarán de un período en el que, manteniendo estas actividades, puedan adoptar la forma jurídica que les permita ser calificadas como empresas de inserción. La Disposición transitoria tercera recoge el supuesto de ejercicio de las funciones registrales y de calificación por parte del Registro a crear por el Ministerio de Trabajo y Asuntos Sociales de carácter informativo en el caso de que las competencias de las Comunidades Autónomas sobre este particular no hayan sido ejercidas.
+En cuanto a las disposiciones finales, debe señalarse que la Disposición final primera desarrolla el artículo 18 de la Ley, introduciendo las modificaciones pertinentes en la Ley sobre infracciones y sanciones en el orden social, texto refundido aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto.
+Por último, la Ley, en su Disposición final segunda recoge la posibilidad del Gobierno de modificar los colectivos que se consideran en situación de exclusión social del artículo 2.1, previa consulta a las organizaciones empresariales y sindicales más representativas, incluidas las del sector afectado, y previo informe emitido por las Comunidades Autónomas.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Esta ley tiene por objeto la promoción de la inserción laboral de las personas expuestas a factores de riesgo de vulnerabilidad o exclusión social a través de la regulación de las empresas de inserción con un régimen jurídico propio, la implantación de un conjunto de medidas para su fomento y promoción, en consideración a los fines y principios que les son propios, así como la regulación de las particularidades de la relación laboral de las personas trabajadoras en inserción.
+Se modifica por el art. 2.1 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Artículo 2
+
+Artículo 2. Personas trabajadoras en inserción.
+1. A los efectos previstos en esta ley, las empresas de inserción podrán contratar como trabajadoras en inserción a las personas desempleadas o en situación de mejora de empleo e inscritas en los servicios públicos de empleo expuestas a factores de vulnerabilidad y/o exclusión social y, en todo caso, a las siguientes:
+a) Personas perceptoras del ingreso mínimo vital y/o rentas mínimas de inserción, o cualquier otra prestación de igual o similar naturaleza, según la denominación adoptada en cada comunidad autónoma; así como a las personas miembros de la unidad de convivencia beneficiarias de dichas prestaciones.
+b) Personas que no puedan acceder a las prestaciones a las que se hace referencia en el párrafo anterior, por alguna de las siguientes causas:
+1.º La falta del período exigido de residencia o empadronamiento, o para la constitución de la unidad perceptora.
+2.º No alcanzar la edad mínima exigida.
+3.º Haber agotado el período máximo de percepción legalmente establecido.
+c) Las personas desempleadas inscritas ininterrumpidamente en los servicios públicos de empleo durante dos años o un período superior a doce meses en caso de ser personas mayores de cuarenta y cinco años, así como las personas admitidas en el programa que contempla la ayuda específica denominada renta activa de inserción y que, en todo caso, se encuentren expuestas a factores de vulnerabilidad y/o exclusión social.
+d) Aquellas que reúnan la condición o sean perceptoras de ayudas a mujeres víctimas de violencia de género o sexual o de trata de seres humanos que, por proceder de recursos específicos de acogida o por cualquier otra circunstancia, encuentren especiales dificultades para acceder al mercado laboral.
+e) Personas jóvenes mayores de dieciocho años y menores de treinta, procedentes de instituciones de protección de personas menores de edad.
+f) Personas en proceso de recuperación y socialización normalizada, por proceder de una situación de desestructuración personal y familiar, de conflicto con el entorno o rechazo social, tales como adicciones a drogas o alcohol, el ejercicio de la prostitución, y el cumplimiento de penas privativas de libertad, entre otras.
+g) Las personas inmigrantes, beneficiarias de protección internacional, beneficiarias de protección temporal o emigrantes retornadas, que cumplan los requisitos de la normativa vigente en materia de extranjería, de protección internacional o de protección temporal, cuando, por sus características o circunstancias personales, presenten especiales dificultades de integración en el mercado laboral ordinario.
+h) Personas internas de centros penitenciarios cuya situación penitenciaria les permita acceder a un empleo y cuya relación laboral no esté incluida en el ámbito de aplicación de la relación laboral especial regulada en el artículo 1 del Real Decreto 782/2001, de 6 de julio, por el que se regula la relación laboral de carácter especial de los penados que realicen actividades laborales en talleres penitenciarios y la protección de Seguridad Social de los sometidos a penas de trabajo en beneficio de la comunidad, así como personas liberadas condicionales y exreclusas.
+i) Personas menores de edad en aplicación de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, cuya situación les permita acceder a un empleo y cuya relación laboral no esté incluida en el ámbito de aplicación de la relación laboral especial a que se refiere el artículo 53.4 del reglamento de la citada ley, aprobado por el Real Decreto 1774/2004, de 30 de julio, así como las que se encuentran, en situación de libertad vigilada y las exinternas.
+j) Las personas procedentes de instituciones de protección o reeducación de personas menores de edad.
+k) Personas procedentes de centros de alojamiento alternativo autorizados por las comunidades autónomas y las ciudades de Ceuta y Melilla.
+l) Personas procedentes de servicios de prevención e inserción social autorizados por las comunidades autónomas y las ciudades de Ceuta y Melilla.
+m) Aquellas personas que, por pertenecer a determinadas minorías étnicas, específicamente la población gitana, encuentren especiales problemas de integración laboral.
+n) Las personas que, por razón de sus responsabilidades familiares no compartidas, unidas a otros factores o carencias personales o familiares, se encuentren en situación de especial vulnerabilidad y/o exclusión social y dificultad de acceso al mercado de trabajo.
+ñ) Personas sin hogar.
+ñ) bis Personas provenientes de procesos de regularización de su situación administrativa de residencia y trabajo, cuando, por sus características o circunstancias personales, presenten especiales dificultades de integración en el mercado laboral ordinario.
+o) Aquellas expuestas a cualquier otro factor de vulnerabilidad y/o exclusión social no previsto expresamente en este artículo.
+2. Los factores de vulnerabilidad y/o exclusión social a los que se hace referencia en el apartado 1, deberán ser acreditados por los servicios sociales públicos o servicios públicos de empleo competentes.
+3. A los exclusivos efectos previstos en esta ley y en el marco de las competencias laborales se entenderá por:
+a) Vulnerabilidad social: situación en la que pueden hallarse personas, familias, grupos, o comunidades debido a la confluencia de factores de orden económico, social, relacional, ambiental o personal que aumentan la exposición a los riesgos y posicionan a las personas afectadas en desventaja social, lo que puede traducirse en un incremento de las desigualdades, en limitaciones en el ejercicio de derechos y/o en exclusión o riesgo de exclusión.
+b) Exclusión social: proceso por el cual las personas son total o parcialmente excluidas de la participación en la vida cultural, económica, social y política de sus comunidades debido a la acumulación de vulnerabilidades y la imposibilidad de salir sin apoyos de dicha situación, viéndose seriamente limitado el ejercicio de sus derechos.
+c) Situación de mejora de empleo: aquella en la que la persona interesada puede acreditar estar en posesión de la tarjeta de mejora de empleo expedida por los servicios de empleo de la comunidad autónoma correspondiente o por el Servicio Público de Empleo Estatal en el caso de las ciudades de Ceuta y Melilla.
+d) Persona sin hogar: aquella persona que no tiene acceso, durante el periodo de referencia, a un alojamiento que cumpla los criterios de habitabilidad humana comúnmente aceptados, tanto si el alojamiento es legalmente de su propiedad como si es alquilado, ocupado de forma gratuita con permiso del propietario, o bajo contrato u otro acuerdo de naturaleza no temporal, incluyendo los alojamientos proporcionados por el sector público u organizaciones no gubernamentales o por sus empleadores.
+e) Itinerario y proceso de inserción sociolaboral: conjunto de acciones dirigidas a proporcionar a las personas los conocimientos y habilidades necesarios que les permitan mejorar su empleabilidad y/o incorporarse en igualdad de oportunidades al mercado laboral ordinario.
+Los itinerarios y procesos de inserción sociolaboral de las personas trabajadoras podrán ser definidos por las Empresas de Inserción en coordinación con los servicios públicos competentes.
+Se modifica por el art. 2.2 y 3 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Artículo 3
+
+Artículo 3. Actuaciones de las Administraciones públicas.
+1. Corresponde a los servicios sociales públicos, en el ámbito de sus competencias y servicios propios:
+a) Certificar, dentro de su ámbito competencial, la concurrencia de los factores de vulnerabilidad y/o exclusión social a los que se refiere el artículo 2.1, que no puedan ser acreditadas por cualquier otro método ajustado a derecho.
+b) Proporcionar servicios de acompañamiento social a las personas trabajadoras durante su proceso de inserción.
+c) Facilitar el seguimiento de las personas trabajadoras, y prestar apoyo a aquellas que se incorporen a un puesto de trabajo en el mercado de trabajo ordinario, una vez finalizado su proceso de inserción.
+d) Constatar el resultado desfavorable en un proceso de inserción o la recaída en situaciones de vulnerabilidad y/o exclusión social.
+e) Informar sobre la adecuación de las prórrogas del contrato para la transición al empleo ordinario.
+f) Emitir informe no vinculante con carácter previo a la extinción del contrato de trabajo de las personas trabajadoras en inserción, en los supuestos previstos en el artículo 12.4.
+f) bis. Acreditar las competencias profesionales adquiridas por las personas que han realizado un itinerario de inserción.
+g) Cualquier otra función que les sean asignadas por las respectivas normas autonómicas.
+2. Corresponde a los servicios públicos de empleo:
+a) Certificar, dentro de su ámbito competencial, la concurrencia de los factores de vulnerabilidad y/o exclusión social a los que se refiere el artículo 2.1.
+b) Efectuar el seguimiento de los itinerarios y procesos de inserción de las personas trabajadoras y proporcionar, en su caso, la formación que corresponda a los indicados servicios, tanto durante el tiempo que permanezcan contratados en la empresa de inserción como con posterioridad al mismo.
+c) Informar, antes de la celebración del contrato para la transición al empleo ordinario, si la persona trabajadora, en los dos años previos a la contratación que se pretende realizar, ha prestado servicios en la misma o distinta empresa de inserción.
+d) Reconocer la formación adquirida en el marco del itinerario de inserción.
+e) Ofrecer a las empresas de inserción que así lo soliciten por escrito, información sobre si la persona trabajadora que pretende contratar ha estado previamente prestando servicios en otras empresas de inserción y la duración de estas contrataciones.
+f) Cualquier otra función que les sean asignadas por las respectivas normas autonómicas.
+3. Todos los informes y certificaciones a los que se refieren los apartados 1 y 2 serán emitidos por los organismos públicos competentes en el plazo de diez días, con los requisitos que señala el artículo 26 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+Se modifica por el art. 2.4 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+## CAPÍTULO II
+
+Las empresas de inserción
+
+### Artículo 4
+
+Artículo 4. Concepto de “empresa de inserción”.
+1. Tendrá la consideración de empresa de inserción aquella sociedad mercantil, laboral o sociedad cooperativa legalmente constituida que, estando debidamente calificada por los organismos competentes, realice cualquier actividad económica de producción de bienes y servicios, y cuyo objeto o finalidad estatutaria sea la integración en el mercado de trabajo ordinario de las personas trabajadoras expuestas a factores de vulnerabilidad y/o exclusión social o incluidas en alguno de los colectivos a los que se refiere el artículo 2.
+2. A tal fin, las empresas de inserción deberán aplicar itinerarios y procesos de inserción a las personas trabajadoras expuestas a factores de vulnerabilidad y/o exclusión social o incluidas en alguno de los colectivos a los que se refiere el artículo 2, proporcionados por los servicios públicos de empleo y en coordinación con los servicios públicos competentes. Dichos itinerarios, en cuya elaboración participará la empresa, tendrán una duración mínima de seis meses y máxima de tres años, debiendo ser consensuados con la persona en situación de riesgo de exclusión o vulnerabilidad contratada y aceptados expresamente por esta.
+3. Las empresas de inserción también deberán definir las medidas de intervención y acompañamiento de las personas trabajadoras expuestas a factores de vulnerabilidad y/o exclusión social o incluidas en alguno de los colectivos a los que se refiere el artículo 2, que sean necesarias, como parte de sus itinerarios de inserción, proporcionándoles acciones de orientación, tutoría y procesos personalizados y asistidos de trabajo remunerado, formación en el puesto de trabajo, habituación laboral y social encaminadas a satisfacer o resolver problemáticas específicas derivadas de la situación de vulnerabilidad social que dificultan a la persona su plena inclusión sociolaboral.
+Se modifica por el art. 2.5 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Artículo 5
+
+Artículo 5. Requisitos de las empresas de inserción.
+Podrán obtener la calificación de “empresa de inserción” aquellas entidades que cumplan los siguientes requisitos:
+a) Estar promovidas y participadas por una o varias entidades promotoras a las que se refiere el artículo siguiente. Esta participación será del cien por ciento del capital social para las sociedades mercantiles. En el caso de sociedades cooperativas y sociedades laborales, dicha participación deberá situarse en los límites máximos recogidos en las diferentes legislaciones que les sea de aplicación a las personas socias colaboradoras o asociadas.
+b) Encontrarse inscritas en el registro correspondiente a su forma jurídica, así como en el registro administrativo de empresas de inserción competente.
+c) Mantener en cómputo anual, desde su calificación, un porcentaje de personas trabajadoras en proceso de inserción, cualquiera que sea la modalidad de contratación de, al menos, el treinta por ciento durante los primeros tres años de actividad y, como mínimo, del cincuenta por ciento del total de la plantilla de la empresa de inserción, a partir del cuarto año, no pudiendo ser el número de aquellos inferior a dos.
+A efectos de determinar las ratios indicadas, se excluirá del cómputo el personal técnico de acompañamiento, así como las personas con contrato de sustitución de las personas trabajadoras en proceso de inserción. Tampoco computarán las personas trabajadoras subrogadas como consecuencia de un procedimiento de licitación pública previsto en el artículo 130 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se trasponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+d) No realizar actividades económicas distintas a las de su objeto o finalidad estatutaria.
+e) Obligarse en sus estatutos a reinvertir el cien por ciento de los resultados de los excedentes disponibles a la mejora o ampliación de sus estructuras productivas y de inserción, y/o a incrementar los fondos propios de la empresa de inserción, no debiendo producirse, en ningún caso, reparto de beneficios.
+f) Presentar anualmente un balance social de la actividad de la empresa que incluya la memoria económica y social, el grado de inserción en el mercado laboral ordinario y la composición de la plantilla, con datos desagregados por sexo, la información sobre las tareas de inserción realizadas y las previsiones para el próximo ejercicio.
+Este balance será depositado en el registro administrativo de empresas de inserción competente.
+g) Contar con los medios humanos y materiales necesarios para cumplir con los compromisos derivados de los itinerarios de inserción sociolaboral, bien sean propios o pertenezcan a sus entidades promotoras.
+h) Contar con servicios de intervención o acompañamiento que faciliten la incorporación al mercado de trabajo ordinario de las personas trabajadoras expuestas a factores de vulnerabilidad y/o exclusión social o incluidas en alguno de los colectivos a los que se refiere el artículo 2.
+Se modifica por el art. 2.6 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Artículo 6
+
+Artículo 6. Entidades promotoras de las empresas de inserción.
+Tendrán tal consideración las entidades sin ánimo de lucro, incluidas las de derecho público, las asociaciones sin fines lucrativos, las fundaciones, las cooperativas sin ánimo de lucro u otras entidades de la economía social enumeradas en el artículo 5 de la Ley 5/2011, de 29 de marzo, de Economía Social, cuyo objeto o finalidad estatutaria persiga la inserción sociolaboral y promueva la constitución de empresas de inserción en las que participarán en los términos recogidos en la letra a) del artículo anterior.
+Las entidades promotoras deberán acreditar, ante el registro administrativo competente, que cuentan con medios materiales y humanos suficientes para el desarrollo de su objeto o finalidad estatutaria y con una experiencia mínima de intervención en el ámbito de la vulnerabilidad y/o exclusión de dos años.
+No podrán ser entidades promotoras las promovidas o participadas a su vez, por sociedades mercantiles con ánimo de lucro o en las que la mayoría de su capital social no sea propiedad de alguna de las entidades indicadas en el primer párrafo de este artículo, ya sea de forma directa o bien indirecta a través del concepto de entidad de control.
+Se modifica por el art. 2.7 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Artículo 7
+
+Artículo 7. Calificación como empresa de inserción.
+1. La calificación como empresa de inserción otorgada por la autoridad competente tendrá validez, exclusivamente, en la comunidad autónoma en la que se registre. Para desarrollar su actividad en una comunidad autónoma distinta de aquella en la que esté inscrita, la empresa de inserción deberá inscribirse en el registro autonómico competente del lugar en el que pretenda desarrollar su actividad.
+2. Para solicitar la calificación como empresa de inserción y la inscripción en el registro administrativo competente, la sociedad mercantil, laboral o cooperativa, deberá encontrarse previamente inscrita como tal en el Registro Mercantil, Registro Administrativo de Sociedades Laborales o en el Registro de Sociedades Cooperativas competente, debiendo acreditar su inscripción en dichos registros.
+3. El registro administrativo competente otorgará la calificación provisional como empresa de inserción a la entidad que acredite el cumplimiento de los requisitos establecidos en el artículo 5.a), b), d), g) y h).
+El registro administrativo competente otorgará la calificación definitiva de la empresa de inserción cuando se acredite ante el mismo los requisitos indicados en el artículo 5.c), e) y f), en el plazo no superior al año desde la calificación provisional.
+4. Las entidades que no estén calificadas, de forma provisional o definitiva, como empresas de inserción no podrán incluir en su denominación los términos “empresa de inserción”, su abreviatura “E.I.” o cualquier otra denominación que lleve a confusión con tal calificación.
+5. La obtención de la calificación como empresa de inserción por una de las sociedades susceptibles de ser calificadas como tal no se considerará transformación societaria ni estará sometida a las normas aplicables a la transformación de sociedades.
+6. Las empresas de inserción, una vez calificadas como tales, se declararán entidades prestadoras de Servicios de Interés Económico General, de acuerdo con lo dispuesto por los artículos 5.5 y 5 bis de la Ley 5/2011, de 29 de marzo.
+Asimismo, tendrán reconocido, por su propia naturaleza y finalidad social, el Sello de Inclusión Social, debiendo seguir el procedimiento establecido para la concesión del mismo, o cualquier otro que, con similar finalidad, sustituya o complemente a aquel y se promueva desde las Administraciones públicas.
+7. Serán causas legales de descalificación automática como empresa de inserción, las siguientes:
+a) Incumplir el fin definido en el artículo 4.
+b) Dejar de reunir los requisitos que determinaron su calificación.
+c) No tener actividad empresarial durante veinticuatro meses consecutivos.
+8. La descalificación como empresa de inserción será acordada por el registro administrativo competente para su calificación, que deberá comunicar al Registro Mercantil la pérdida de condición de empresa de inserción, instando a la supresión de su denominación social en los términos señalados en este artículo.
+9. La descalificación, una vez firme en vía administrativa, surtirá efecto de oficio para la baja registral, aunque no implicará necesariamente la disolución de la sociedad.
+10. Si una empresa de inserción es descalificada por motivos recogidos en el punto a), sus promotores no podrán promover una nueva empresa de inserción en el territorio español en el plazo de tres años.
+Se modifica por el art. 2.8 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Artículo 8
+
+Artículo 8. Pérdida de la calificación de empresa de inserción.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#dd
+
+### Artículo 9
+
+Artículo 9. Registros administrativos de empresas de inserción.
+1. Corresponde a los órganos competentes de las comunidades autónomas el otorgamiento de la calificación de “empresa de inserción”, así como el control del cumplimiento de los requisitos establecidos en esta ley y, en su caso, la facultad de resolver sobre la descalificación.
+A tales efectos será órgano competente el registro administrativo donde se encuentre el domicilio social de la empresa de inserción.
+Recibida una solicitud de calificación, el registro administrativo competente deberá abrir un proceso de exposición pública, por un plazo de un mes, para que cualquier sujeto interesado pueda formular alegaciones a la misma.
+2. La empresa de inserción que traslade su domicilio social deberá comunicarlo a la autoridad competente. Cuando el traslado se produzca al ámbito de actuación de otro registro administrativo, pasará a depender de este.
+3. En caso de apertura de centros de trabajo en una comunidad autónoma distinta de aquella en la que esté inscrita, la empresa de inserción deberá acreditar ante el registro administrativo correspondiente su calificación y comunicar el inicio de la actividad, sin perjuicio del cumplimiento de cualquier otro requisito que pueda establecer la normativa autonómica en relación con la apertura de centros de trabajo.
+4. Sin perjuicio de lo anterior, el Registro administrativo de empresas de inserción dependiente del ministerio competente en materia de economía social integrará en una base de datos común la información que obre en los distintos registros autonómicos, que sea necesaria para el ejercicio de las competencias atribuidas en materia de supervisión y control a las autoridades competentes.
+El ministerio competente en materia de economía social proporcionará semestralmente información estadística sobre el número de empresas de inserción, sector de actividad económica, número de personas trabajadoras en proceso de inserción y de trabajadoras de plantilla, así como la modalidad contractual con la que se articula la relación laboral de cada una de ellas.
+El Registro administrativo de empresas de inserción dependiente del ministerio competente en materia de economía social será el encargado de la inscripción de las empresas de inserción con domicilio social en las ciudades de Ceuta y de Melilla.
+5. Las empresas de inserción vendrán obligadas a presentar en el registro administrativo correspondiente en las que estén inscritas, dentro de los plazos que determinen sus normas propias, la siguiente documentación, sin perjuicio de aquella otra que se pueda requerir por parte de las comunidades autónomas:
+a) La documentación acreditativa de las modificaciones estatutarias que afecten su calificación, una vez inscritas en los registros competentes por su forma jurídica.
+b) El plan de actividades y el presupuesto de cada año con anterioridad al inicio del mismo.
+c) Las cuentas anuales, el informe de gestión y el balance social correspondiente al cierre de cada ejercicio económico, sin perjuicio de las obligaciones de depositar las cuentas y el informe de gestión en los registros que correspondan a su forma jurídica.
+Se modifica por el art. 2.9 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+## CAPÍTULO III
+
+Empresas de inserción y Administraciones Públicas
+
+### Artículo 10
+
+Artículo 10. Actuaciones de las Administraciones Públicas.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#dd
+ Se modifica el apartado 3 b) por la disposición adicional 12.2 de la Ley 27/2009, de 30 de diciembre. Ref. BOE-A-2009-21160
+
+## CAPÍTULO IV
+
+Relaciones laborales de los trabajadores en situación de exclusión social en las empresas de inserción
+
+### Artículo 11
+
+Artículo 11. Régimen jurídico y modalidades de contrato de trabajo.
+1. Las relaciones laborales que se concierten entre las empresas de inserción y las personas trabajadoras expuestas a factores de vulnerabilidad y/o exclusión social o incluidas en alguno de los colectivos a los que se refiere el artículo 2, se regirán por lo dispuesto en el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, y el resto de la legislación laboral, sin perjuicio de las particularidades previstas en esta ley.
+2. Las empresas de inserción podrán contratar a las personas vinculadas a procesos de inserción a las que se refiere el artículo 2 mediante la modalidad contractual específica regulada en el artículo 12, cuyo objeto específico es la transición al empleo ordinario.
+En todo caso, cualquiera que sea la modalidad contractual, cuando se refiere a personas vinculadas a procesos de inserción el contrato habrá de cumplir con las obligaciones previstas en el artículo 12.6.
+Se modifica por el art. 2.10 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Artículo 12
+
+Artículo 12. Contrato para la transición al empleo ordinario.
+1. Las empresas de inserción y personas trabajadoras expuestas a factores de vulnerabilidad y/o exclusión social o incluidas en alguno de los colectivos a los que se refiere el artículo 2 podrán celebrar un contrato para la transición al empleo ordinario de acuerdo con las reglas establecidas en este artículo.
+2. El contrato tendrá como causa el desarrollo de un itinerario de inserción personalizado con el contenido definido en el artículo 4.2 y 3, encaminado a la incorporación al mercado laboral ordinario.
+3. La duración de este contrato no podrá ser inferior a seis meses ni superior a tres años. Cuando se concierte por una duración inferior a la máxima podrá prorrogarse, siendo la duración mínima de cada prórroga, al menos, igual a la duración inicial del contrato, y sin que la duración total del contrato pueda exceder de la duración máxima, sea realizado por la misma o distintas empresas de inserción. Los servicios públicos competentes deberán informar sobre la adecuación de las prórrogas para el seguimiento del proceso de inserción.
+4. No podrán ser contratadas mediante esta modalidad las personas que en los dos años anteriores hayan extinguido otro contrato de esta misma modalidad, por alcanzar la duración máxima prevista en el apartado anterior, salvo en los supuestos en los que el servicio público competente lo considere adecuado, a la vista de las circunstancias personales de la persona trabajadora, en el supuesto de reaparición de las mismas o similares situaciones de vulnerabilidad y/o exclusión social que dieron lugar al contrato para la transición al empleo ordinario extinguido.
+A tal efecto, las empresas de inserción solicitarán por escrito a los servicios públicos competentes informe que acredite una situación de recaída a la exposición de factores de vulnerabilidad y/o exclusión social, y que permita superar la imposibilidad de contratación continuada más allá de los dos años. Dicha información o el silencio administrativo tendrá valor liberatorio.
+5. El contrato podrá concertarse a tiempo completo o parcial, debiendo ser, en este caso, la jornada diaria o semanal igual o superior a la mitad de la jornada de trabajo de una persona trabajadora a tiempo completo comparable, en los términos establecidos en el artículo 12.1 del texto refundido de la Ley del Estatuto de los Trabajadores. En el supuesto de modificación de la jornada inicialmente pactada, la empresa de inserción comunicará la modificación realizada a los servicios públicos competentes.
+6. El contrato para la transición al empleo ordinario, sus prórrogas y variaciones se formalizarán siempre por escrito, en el modelo establecido por el Servicio Público de Empleo Estatal y se comunicará a la oficina pública de empleo competente.
+El contrato irá acompañado de un anexo con la expresión de las obligaciones que las partes asumen en el desarrollo del itinerario personal de inserción y las medidas concretas a poner en práctica.
+Con el fin de comprobar la adecuación del contenido del citado anexo, la empresa de inserción deberá hacer entrega de este a la representación legal de las personas trabajadoras en los términos previstos en el artículo 8.4 del texto refundido de la Ley del Estatuto de los Trabajadores.
+Una copia de estos documentos se remitirá a los servicios públicos competentes para el seguimiento del itinerario personalizado de inserción.
+Se modifica por el art. 2.11 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Artículo 13
+
+Artículo 13. Condiciones de trabajo.
+La persona trabajadora expuesta a factores de vulnerabilidad y/o exclusión social o incluida en alguno de los colectivos a los que se refiere el artículo 2, previo aviso y justificación, tendrá derecho a ausentarse del trabajo, sin pérdida de remuneración, para asistir a tratamientos de rehabilitación, participar en sesiones de formación y adecuación profesional o realizar cualquier otra medida de acompañamiento prevista en su itinerario personalizado de inserción con las pautas que en el mismo se establezcan.
+Se modifica por el art. 2.12 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Artículo 14
+
+Artículo 14. Suspensión y extinción del contrato de trabajo.
+1. La suspensión de la relación laboral por alguna de las causas previstas en el artículo 45 del texto refundido de la Ley del Estatuto de los Trabajadores, conllevará la suspensión del itinerario de inserción de la persona trabajadora.
+2. Las modalidades de contratos de trabajo se extinguirán por las causas previstas en el texto refundido de la Ley del Estatuto de los Trabajadores, con las particularidades establecidas en este artículo.
+Asimismo, el contrato para la transición al empleo ordinario, regulado en el artículo 12, se extinguirá:
+a) Por expiración del tiempo convenido, en cuyo caso la persona trabajadora tendrá derecho a percibir la indemnización prevista en el artículo 49.1.c) del texto refundido de la Ley del Estatuto de los Trabajadores.
+b) Cuando se consiga la inserción laboral de la persona trabajadora mediante la contratación por parte de otra empresa.
+c) Cuando se certifique el resultado desfavorable del itinerario de inserción.
+3. La aplicación a la relación laboral de las personas trabajadoras a las que se refiere el artículo 2.1.f) de la causa de despido disciplinario establecida en el artículo 54.2.f) del texto refundido de la Ley del Estatuto de los Trabajadores se producirá con arreglo a las siguientes condiciones:
+En los supuestos en que la empresa de inserción tuviera conocimiento de la concurrencia de las circunstancias previstas en el apartado anterior lo pondrá en conocimiento de los servicios públicos competentes, a fin de que por los mismos se proponga a la persona trabajadora afectada iniciar un proceso de deshabituación o desintoxicación.
+En este caso, el contrato de trabajo podrá suspenderse cuando, a juicio de los citados servicios públicos, fuera necesario para el éxito de dicho proceso. Si la persona trabajadora no iniciara dicho proceso de deshabituación o desintoxicación, o lo abandonara sin causa justificada y, en todo caso, cuando persistan dichas circunstancias y ello impida desarrollar las actividades laborales y de inserción se considerará un incumplimiento de las obligaciones asumidas en el itinerario de inserción, siendo entonces de aplicación lo establecido en el artículo 54.2.f) del texto refundido de la Ley del Estatuto de los Trabajadores.
+4. Los servicios públicos competentes emitirán informe no vinculante con carácter previo a la extinción del contrato de trabajo, en los supuestos de resultado desfavorable del itinerario o de incumplimiento del mismo, previstos en el apartado anterior, en un plazo máximo de diez días hábiles a contar desde la recepción de la comunicación de extinción formulada por la empresa de inserción. Finalizado dicho plazo sin haberse notificado el referido informe, la empresa de inserción entenderá estimada su solicitud por silencio administrativo, adoptando la decisión que corresponda, respetando lo establecido en la legislación laboral.
+En todo caso, la empresa de inserción empleadora comunicará a los servicios públicos competentes la extinción del contrato de trabajo por cualquier causa de las personas contratadas.
+5. Si al término de un contrato ligado a un proceso de inserción, la persona trabajadora fuese contratada para continuar prestando servicios en la empresa de inserción, no podrá concertarse un nuevo período de prueba y se computará el tiempo de servicios prestados a efectos de antigüedad. Asimismo, si finalizada una prórroga o expirada la duración máxima el trabajador sigue prestando servicios sin solución de continuidad, se estará a lo previsto en el artículo 49.1.c) del texto refundido de la Ley del Estatuto de los Trabajadores.
+6. A la finalización del contrato de trabajo, la persona trabajadora tendrá derecho a que la empresa de inserción le entregue un certificado en el que conste la duración de los servicios prestados, puestos de trabajo desempeñados, principales tareas de cada uno de ellos, así como adaptación a los mismos.
+Se modifica por el art. 2.13 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Artículo 15
+
+Artículo 15. Contrato temporal de fomento del empleo.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#dd
+ Se modifica el apartado 3 por la disposición adicional 12.1 de la Ley 27/2009 de 30 de diciembre. Ref. BOE-A-2009-21160
+
+## CAPÍTULO V
+
+De las Medidas de Promoción
+
+### Artículo 16
+
+Artículo 16. Promoción de las empresas de inserción.
+1. Todas las Administraciones públicas, en el ámbito de sus respectivas competencias y en el marco de los compromisos asumidos en la Unión Europea, aprobarán programas de ayudas destinadas a la creación, promoción y mantenimiento de las empresas de inserción, con la finalidad de que puedan cumplir su función social de facilitar la inserción de las personas trabajadoras expuestas a factores de vulnerabilidad y/o exclusión social o incluidas en alguno de los colectivos a los que se refiere el artículo 2 en el mercado de trabajo ordinario.
+2. Las empresas de inserción podrán beneficiarse, entre otros, de los siguientes tipos de ayudas:
+a) Ayudas para su adaptación a las previsiones de esta ley, para su constitución, puesta en marcha y desarrollo de su actividad.
+b) Ayudas en concepto de asistencia técnica, formación y contratación de técnicos para su gestión, y en concepto de actuaciones de I+D+i.
+c) Ayudas a la inversión fija afecta a la realización de su objeto social.
+d) Bonificaciones a las cuotas de la Seguridad Social, en los contratos de trabajo de las personas trabajadoras expuestas a factores de vulnerabilidad y/o exclusión social o incluidas en alguno de los colectivos a los que se refiere el artículo 2 durante toda la vigencia del contrato para la transición al mercado ordinario, o durante cuatro años en caso de contratación indefinida, conforme se establezca legalmente.
+e) Subvenciones para el mantenimiento de los puestos de trabajo para la inserción sociolaboral, en concepto de compensación económica a los sobrecostes laborales derivados de los procesos de inserción.
+f) Ayudas al tránsito al empleo ordinario.
+3. Las empresas de inserción promovidas por las administraciones o entidades públicas también podrán ser beneficiarias de las ayudas a las que se refiere el apartado anterior.
+4. Las empresas de inserción o las entidades promotoras que realicen servicios de acompañamiento para la inserción sociolaboral podrán recibir ayudas para la ejecución de los mismos de las Administraciones públicas competentes en el lugar donde se encuentren ubicados sus centros de trabajo.
+5. Para defender los intereses de las empresas de inserción, así como para organizar servicios de asesoramiento, formación, asistencia jurídica o técnica y cuantos sean convenientes a los intereses de sus personas socias, las empresas de inserción, dentro del respeto a las normas de defensa de la competencia, podrán organizarse en asociaciones o agrupaciones específicas, tanto a nivel autonómico como estatal.
+Estas estructuras asociativas representativas de las empresas de inserción podrán recibir ayudas económicas por parte de las Administraciones Públicas, para sufragar gastos de promoción y funcionamiento, en el marco de la distribución territorial de fondos de las comunidades autónomas a través de la Conferencia Sectorial de Empleo y Asuntos Laborales y por cualesquiera otros fondos que se determinen provenientes de la Estrategia Española de Economía Social o programas públicos de empleo, para sufragar gastos de promoción y funcionamiento.
+6. Sin perjuicio de los sucesivos actos de atribución que puedan requerirse, las ayudas que reciban las empresas de inserción serán compatibles con el mercado interior y estarán exentas de la obligación de notificación establecida en el artículo 108.3 del Tratado de Funcionamiento de la Unión Europea, dado que son ayudas que compensan la prestación de servicios destinados a facilitar la empleabilidad y el acceso a la reintegración en el mercado laboral o que fomenten la inclusión social de personas vulnerables.
+Se modifica por el art. 2.14 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Artículo 17
+
+Artículo 17. Régimen jurídico de ayudas o subvenciones.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#dd
+
+## CAPÍTULO VI
+
+Infracciones y Sanciones
+
+### Artículo 18
+
+Artículo 18. Régimen sancionador.
+1. El incumplimiento por las empresas de inserción de las obligaciones que les impone esta ley constituirá una infracción administrativa en el orden social y serán objeto de sanción conforme a lo establecido en las disposiciones generales y comunes del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto.
+2. En virtud del artículo 1 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, constituyen infracciones administrativas en el orden social las acciones u omisiones de los distintos sujetos responsables tipificadas y sancionadas en la propia norma y en las leyes del orden social.
+3. Las infracciones se califican como leves, graves y muy graves en atención a la naturaleza del deber infringido y la entidad del derecho afectado.
+Se modifica por el art. 2.15 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Disposición adicional primera
+
+Disposición adicional primera. Aplicación de la normativa de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se trasponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+En relación con los porcentajes mínimos de reserva del derecho a participar en los procedimientos de adjudicación de determinados contratos o de determinados lotes de los mismos a centros especiales de empleo de iniciativa social y a empresas de inserción, se estará a lo establecido en la disposición adicional cuarta de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se trasponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+Asimismo, los órganos de contratación establecerán en los pliegos de cláusulas administrativas particulares tanto criterios de adjudicación específicos como condiciones especiales de ejecución vinculados al objeto del contrato que fomenten la contratación de las personas que participan en itinerarios de inserción de las empresas de inserción y la subcontratación de estas, de conformidad con lo previsto en los artículos 147 y 202 de la Ley 9/2017, de 8 de noviembre.
+Se modifica por el art. 2.16 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Cómputo de las personas trabajadoras en proceso de inserción.
+Las personas trabajadoras expuestas a factores de vulnerabilidad y/o exclusión social o incluidas en alguno de los colectivos a los que se refiere el artículo 2 contratadas temporalmente o con contratos para la transición al empleo ordinario por las empresas de inserción no se computarán a efectos del establecimiento del porcentaje máximo autorizado de participación de personas trabajadoras no socias en las cooperativas de trabajo asociado y sociedades laborales.
+Tampoco computarán a efectos de determinar el volumen de contratación de carácter temporal al que se refiere el párrafo primero del artículo 15.8 del texto refundido de la Ley del Estatuto de los Trabajadores, ni a los efectos del cumplimiento del dos por ciento de contratación de personas con discapacidad, en aquellas empresas de inserción donde resulte exigible esta condición por superar el número de cincuenta personas trabajadoras en el total de su plantilla.
+Se modifica por el art. 2.17 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Evaluación y seguimiento del cumplimiento de la norma.
+Los servicios públicos competentes ejercerán la competencia de evaluar, coordinar y velar por el cumplimiento de los fines previstos en esta norma respecto a las empresas de inserción en su ámbito territorial y competencial.
+El Consejo para el Fomento de la Economía Social, creado por Ley 27/1999, de 16 de julio, de cooperativas y regulado por el Real Decreto 219/2001, de 2 de marzo, adoptará, entre sus competencias, las de coordinar y velar por el cumplimento de los fines previstos en esta norma.
+Asimismo, corresponderá al Consejo General del Sistema Nacional de Empleo, establecido en la Ley 56/2003, de 16 de diciembre, de Empleo, la coordinación y evaluación del cumplimiento de esta norma en el ámbito de sus competencias y funciones.
+Se modifica el párrafo primero por el art. 2.18 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+ Redactado el párrafo 3 conforme a la corrección de errores publicada en BOE núm. 43, de 19 de febrero de 2008. Ref. BOE-A-2008-2983
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Medidas de apoyo para las personas trabajadoras provenientes de empresas de inserción y para las empresas que los contraten.
+1. Se establecerán medidas específicas de apoyo a las personas trabajadoras provenientes de empresas de inserción, para su establecimiento como personas trabajadoras autónomas o en fórmulas de economía social.
+2. A las personas trabajadoras provenientes de empresas de inserción que hubieran sido contratadas de acuerdo con lo establecido en el capítulo II de esta ley no les será de aplicación la exclusión prevista en la letra d) del artículo 11.1 del Real Decreto-ley 1/2023, de 10 de enero, de medidas urgentes en materia de incentivos a la contratación laboral y mejora de la protección social de las personas artistas, cuando sean contratadas indefinidamente por empresas ordinarias. Tampoco se aplicará la causa de exclusión a los nuevos contratos para la transición al empleo ordinario realizados por una empresa de inserción.
+3. Se establecerán medidas de apoyo e incentivos a la contratación para las empresas que incorporen a su plantilla a personas en situación de vulnerabilidad provenientes de empresas de inserción.
+Se modifica por el art. 2.19 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Informes de los Servicios Sociales Públicos.
+Los informes que se soliciten a los Servicios Sociales Públicos competentes en virtud de lo previsto en el Capítulo IV de esta Ley deberán emitirse en un plazo máximo de diez días hábiles a contar desde la recepción de la solicitud.
+Transcurrido dicho plazo, la empresa de inserción podrá adoptar la decisión que en cada caso corresponda, respetando lo establecido en la legislación laboral.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Adaptación de las empresas de inserción y de las normas autonómicas a las previsiones de la Ley.
+1. Las empresas de inserción ya existentes a la fecha de entrada en vigor de la Ley, para acogerse a lo regulado en la misma, deberán adaptarse a sus previsiones en un plazo de un año a partir de dicha entrada en vigor.
+2. Las previsiones contenidas en los artículos 7 y 9 a efectos de calificación y registro de las empresas de inserción, serán objeto de adaptación por parte de las Comunidades Autónomas en un plazo no superior a seis meses a partir de la entrada en vigor de esta Ley.
+Declarado inconstitucional el apartado 2, según establece la Sentencia del TC 228/2012, de 29 de noviembre. Ref. BOE-A-2012-15762.
+3. Los contratos de trabajo celebrados antes de la entrada en vigor de esta Ley continuarán rigiéndose por la normativa legal o convencional a cuyo amparo se celebraron.
+Se declara inconstitucional el apartado 2 por Sentencia del TC 228/2012, de 29 de noviembre. Ref. BOE-A-2012-15762.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Adaptación de determinadas Entidades a las previsiones de la Ley.
+1. Las Fundaciones y Asociaciones que mantengan actividades de inserción sociolaboral a la fecha de entrada en vigor de la presente Ley, dentro del año siguiente a dicha fecha, como tales entidades y para el referido ámbito funcional, podrán solicitar su inscripción en el Registro Administrativo de Empresas de Inserción, y ser calificadas provisionalmente como tales, siempre que sus actividades se correspondan con las definidas para estas empresas y cumplan los demás requisitos que para su constitución establece la presente norma.
+2. La calificación provisional será por un periodo transitorio de dos años, durante el cual, para adquirir la calificación definitiva como empresas de inserción, deberán adoptar la forma jurídica de sociedad mercantil o sociedad cooperativa.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Competencias en materia registral.
+El Ministerio de Trabajo y Asuntos Sociales podrá ejercer las funciones a que se hace referencia en el apartado 1 del artículo 7 y en el apartado 1 del artículo 9 de esta Ley hasta que las Comunidades Autónomas estén en disposición de ejercerlas.
+Declarada inconstitucional, según establece la Sentencia del TC 228/2012, de 29 de noviembre. Ref. BOE-A-2012-15762.
+Se declara inconstitucional por Sentencia del TC 228/2012, de 29 de noviembre. Ref. BOE-A-2012-15762.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Queda derogada la disposición adicional novena de la Ley 12/2001, de 9 de julio, de medidas urgentes de reforma del mercado de trabajo para el incremento del empleo y la mejora de su calidad así como cuantas disposiciones se opongan a lo establecido en esta ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación del texto refundido de la Ley sobre infracciones y sanciones en el orden social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto.
+Los artículos de la Ley sobre Infracciones y Sanciones en el Orden Social que se relacionan a continuación quedan modificados en los términos siguientes:
+Uno. Se introduce un apartado 13 en el artículo 2, con la siguiente redacción:
+«13. Las empresas de inserción, respecto de las obligaciones que se establecen en su legislación específica, sin perjuicio de lo establecido en otros números de este artículo.»
+Dos. Se modifica el artículo 5.1, que queda redactado como sigue:
+«1. Son infracciones laborales las acciones u omisiones de los empresarios contrarias a las normas legales, reglamentarias y cláusulas normativas de los convenios colectivos en materia de relaciones laborales, tanto individuales como colectivas, de colocación, empleo, formación profesional ocupacional, de trabajo temporal y de inserción sociolaboral, tipificadas y sancionadas de conformidad con la presente Ley. Asimismo, tendrán dicha consideración las demás acciones u omisiones de los sujetos responsables y en las materias que se regulan en el presente Capítulo.»
+Tres. Se añade un nueva Sección 5.ª en el Capítulo II, con la siguiente redacción:
+«Sección 5.ª Infracciones en materia de empresas de inserción
+Artículo 19 bis. Infracciones de las empresas de inserción.
+Infracciones de las empresas de inserción.
+1. Son infracciones graves:
+a) El incumplimiento de cualquiera de los requisitos establecidos para la creación de las empresas de inserción en la normativa aplicable.
+b) Ocultar o falsear la documentación acreditativa de las modificaciones estatutarias que afectan a la calificación como empresa de inserción.
+c) No facilitar el plan de actividades y el presupuesto de cada año, así como las cuentas anuales, el informe de gestión y el balance social correspondientes al cierre de cada ejercicio económico.
+d) No facilitar a los Servicios Sociales Públicos competentes y a los Servicios Públicos de Empleo la información a que se refieren los artículos 12, 13, 14 y 15 de la Ley para la regulación del régimen de las empresas de inserción.
+e) Incumplir las obligaciones asumidas en el contrato de trabajo en relación con el proceso personal de inserción de cada trabajador o no poner en práctica las medidas concretas previstas en dicho proceso.
+2. Son infracciones muy graves:
+a) Desarrollar las actividades sin cumplir el fin primordial de las empresas de inserción de integración sociolaboral de las personas en situación de exclusión social.
+b) Obtener o disfrutar indebidamente subvenciones o ayudas establecidas en los programas de apoyo a la inserción sociolaboral, financiadas o garantizadas en todo o en parte por el Estado o por las Comunidades Autónomas en el marco de la ejecución de la legislación laboral ajenas al régimen económico de la Seguridad Social.»
+
+### Disposición final segunda
+
+Disposición final segunda. Normas de aplicación y desarrollo de la Ley.
+1. En lo no previsto en la presente norma, y en cuanto fuera de aplicación, se estará a lo dispuesto en la vigente Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y de Procedimiento Administrativo Común.
+2. El Gobierno, por medio de Real Decreto, podrá modificar los colectivos que se consideran en situación de exclusión social de acuerdo con el artículo 2.1, previo informe emitido por las Comunidades Autónomas y previa consulta a las organizaciones sindicales y empresariales más representativas, incluidas las del sector afectado.
+3. Se faculta al Gobierno para dictar cuantas otras disposiciones sean necesarias para el desarrollo y aplicación de esta Ley. Asimismo, las Comunidades Autónomas podrán dictar las disposiciones necesarias para el desarrollo y aplicación de la presente Ley en el marco de sus competencias.
+
+### Disposición final tercera
+
+Disposición final tercera. Modificación de la disposición adicional segunda (exclusión social y fomento del empleo) de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo.
+Se da nueva redacción a la disposición adicional segunda (exclusión social y fomento del empleo) de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo, quedando redactada como sigue:
+«A efectos del Programa de Fomento del empleo regulado en la Sección 1.ª del capítulo I de esta Ley, la situación de exclusión social se acreditará por la pertenencia a alguno de los colectivos relacionados en el apartado 1 del artículo 2 de la Ley para la regulación del régimen de las empresas de inserción.»
+
+### Disposición final cuarta
+
+Disposición final cuarta. Registro Administrativo de Empresas de Inserción.
+El Gobierno, a propuesta del Ministerio de Trabajo y Asuntos Sociales, procederá a aprobar en un plazo no superior a seis meses a partir de la publicación de esta norma en el «Boletín Oficial del Estado», el reglamento de funcionamiento del Registro Administrativo de Empresas de Inserción, que incluirá las normas de coordinación e intercambio de información registral y estadística con los Registros competentes de las Comunidades Autónomas.
+
+### Disposición final quinta
+
+Disposición final quinta. Fundamento constitucional.
+La presente ley se dicta al amparo del título competencial previsto en el artículo 149.1.7.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de legislación laboral, sin perjuicio de su ejecución por los órganos de las comunidades autónomas. Todo ello, sin perjuicio de las competencias de las comunidades autónomas y de las ciudades de Ceuta y Melilla en materia de asistencia social.
+Se modifica por el art. 2.20 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as
+
+### Disposición final sexta
+
+Disposición final sexta. Entrada en vigor.
+La presente Ley entrará en vigor a los treinta días de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 13 de diciembre de 2007.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

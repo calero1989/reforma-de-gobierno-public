@@ -1,0 +1,46 @@
+{
+  "actualizado": "2026-08-18",
+  "fuentes": [
+    "INE — API JSON (servicios.ine.es/wstempus)",
+    "Ministerio de Hacienda — Estadísticas PGE consolidados 2025-P (SEPG)"
+  ],
+  "ine": {
+    "ipc_variacion_anual_pct": 2.9,
+    "ipc_serie": "IPC251856",
+    "ipc_anyo": 2025,
+    "poblacion_total": 48619695,
+    "poblacion_anyo": 2025,
+    "tasa_paro_pct": 11.85,
+    "tasa_paro_serie": "EPA7532",
+    "tasa_paro_nombre": "Tasa de paro. Total Nacional. De 16 a 64 años. Ambos sexos.",
+    "renta_mediana_equivalizada_eur": 19009,
+    "renta_mediana_anyo": 2023,
+    "salario_bruto_anual_medio_eur": 27002,
+    "salario_anyo": 2023,
+    "ipc_variacion_anual_anyo": 2025,
+    "ipc_variacion_anual_pct_serie": "IPC251856",
+    "ipc_variacion_anual_pct_nombre": "Nacional. Índice general. Variación anual. ",
+    "ipc_variacion_anual_trimestre": 12,
+    "tasa_paro_pct_serie": "EPA7532",
+    "tasa_paro_pct_nombre": "Tasa de paro de la población. Total Nacional. De 16 a 64 años. Ambos sexos. ",
+    "tasa_paro_anyo": 2023,
+    "tasa_paro_trimestre": 22
+  },
+  "presupuestos_pge_2025_p_millones_eur": {
+    "total_consolidado": 578183,
+    "sanidad": 5505,
+    "educacion": 5338,
+    "pensiones": 190687,
+    "desempleo": 21278,
+    "servicios_sociales": 5744,
+    "fomento_empleo": 7516,
+    "cultura": 1652,
+    "vivienda": 3483,
+    "medio_ambiente_agricultura": 8412,
+    "industria_energia": 9801
+  },
+  "macro": {
+    "pib_millones_eur": 1592000,
+    "pib_anyo": 2024
+  }
+}

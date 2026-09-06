@@ -1,0 +1,103 @@
+# Ley 7/1987, de 8 de mayo, por la que se regula el procedimiento de designación de Senadores representantes de la Comunidad de Castilla y León.
+
+- Identificador BOE: `BOE-A-1987-13249`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-13249
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE CASTILLA Y LEÓN
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado, y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 14.3 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+El artículo 69.5 de la Constitución establece que las Comunidades Autónomas, y en concreto sus Asambleas legislativas, designarán un Senador y otro más por cada millón de habitantes de su respectivo territorio, de acuerdo con lo que establezca su Estatuto de Autonomía, que asegurará, en todo caso, la adecuada representación proporcional.
+Por su parte, el Estatuto de Autonomía de Castilla y León, en su artículo 13.5 regula esta competencia de las Cortes, disponiendo que la designación de Senadores deberá efectuarse en proporción al número de miembros de los grupos políticos representados en la Cámara y vinculando el mandato de estos Senadores a su condición de Procuradores de las Cortes de Castilla y León.
+La presente Ley tiene por objeto establecer los distintos aspectos del procedimiento de designación de los Senadores representantes de la Comunidad de Castilla y León.
+
+### Artículo 1
+
+Artículo 1.
+1. Corresponde al Pleno de las Cortes de Castilla y León la designación de los Senadores previstos en el artículo 69.5 de la Constitución Española y a la que se refiere el artículo 24.5 del Estatuto de Autonomía de Castilla y León.
+2. Esta designación debe efectuarse en el plazo máximo de sesenta días contados a partir de la fecha de constitución de la nueva Cámara.
+Se modifica por el art. único.1 de la Ley 1/2022, de 27 de octubre. Ref. BOE-A-2022-19487
+ Se modifica el apartado 1 por el art. único de la Ley 1/2000, de 3 de marzo. Ref. BOE-A-2000-5835
+
+### Artículo 2
+
+Artículo 2.
+Podrán ser Senadores designados por la Comunidad de Castilla y León los ciudadanos españoles que reúnan las condiciones generales exigibles por la legislación electoral para ser elegibles como Senadores, así como las establecidas en el artículo 7.1 del Estatuto de Autonomía de Castilla y León.
+Se modifica por el art. único.2 de la Ley 1/2022, de 27 de octubre. Ref. BOE-A-2022-19487
+ Se modifica por el art. único de la Ley 1/2000, de 3 de marzo. Ref. BOE-A-2000-5835
+
+### Artículo 3
+
+Artículo 3.
+1. Celebradas las elecciones a las Cortes de Castilla y León y constituida la Cámara y los Grupos Parlamentarios, la Mesa de la misma fijará el número de Senadores que corresponderá proponer a cada Grupo Parlamentario en proporción a su importancia numérica.
+2. La distribución de los Senadores se realizará mediante la aplicación de la regla D’Hont al número de Procuradores integrados en cada Grupo Parlamentario.
+3. Cuando coincida el número de Procuradores de dos o más grupos Parlamentarios, corresponderá efectuar la propuesta al Grupo que mayor número total de votos haya obtenido en las elecciones a Cortes de Castilla y León. A estos efectos, se entenderá por número total de votos el que resulte de sumar, en su caso, el obtenido por los distintos partidos, federaciones, coaliciones o agrupaciones de electores integrados en el Grupo Parlamentario.
+4. El Presidente de las Cortes fijará el plazo en que los diferentes Grupos Parlamentarios habrán de proponer sus candidatos.
+5. La propuesta de candidatos, que incluirá tantos nombres como Senadores corresponda proponer al Grupo Parlamentario, deberá efectuarse mediante escrito firmado por el Portavoz y dirigido a la Mesa de las Cortes de Castilla y León. Con dicho escrito se acompañará una declaración de los candidatos aceptando su nominación.
+6. Los candidatos propuestos por los Grupos Parlamentarios de la forma establecida en el apartado anterior habrán de reunir, en todo caso, los requisitos establecidos en el artículo 2 de la presente Ley.
+Se modifica el apartado 6 por el art. único de la Ley 1/2000, de 3 de marzo. Ref. BOE-A-2000-5835
+
+### Artículo 4
+
+Artículo 4.
+1. Transcurrido el plazo al que se refiere el apartado 4 del artículo anterior, el Presidente de las Cortes aceptará los candidatos propuestos si reúnen los requisitos establecidos en la presente Ley. En este caso hará públicos sus nombres, dando traslado de los mismos a los Grupos Parlamentarios de la Cámara, e incluirá su designación en el orden del día de una sesión plenaria.
+2. Si alguno de los candidatos no reuniera los requisitos establecidos, el Presidente lo comunicará de inmediato al Grupo Parlamentario proponente, y le señalará un nuevo plazo para que proponga un nuevo candidato. En caso de desacuerdo con el Presidente, el Grupo proponente podrá interponer reclamación ante la Mesa de las Cortes, que, oída la Junta de Portavoces, decidirá definitivamente mediante resolución motivada.
+
+### Artículo 5
+
+Artículo 5.
+1. En el plazo establecido en el artículo 1.2 de la presente ley, el Pleno de la Cámara procederá a la designación de los Senadores que corresponden a la Comunidad según lo previsto en el artículo 69.5 de la Constitución.
+2. La votación será única y secreta por papeletas en las que constará el nombre y apellidos de todos los candidatos propuestos, ordenados por orden alfabético, precedido cada uno de un recuadro, pudiendo cada procurador marcar con una cruz el recuadro correspondiente al candidato o candidatos a quienes otorga su voto.
+3. Los candidatos se entenderán designados cualquiera que sea el número de votos válidos que obtengan.
+Se modifica por el art. único.3 de la Ley 1/2022, de 27 de octubre. Ref. BOE-A-2022-19487
+
+### Artículo 6
+
+Artículo 6.
+1. Efectuada la votación de la forma establecida en el artículo anterior, el Presidente de las Cortes dará cuenta a la Cámara del resultado de la misma y procederá, en su caso, a proclamar a los designados Senadores en representación de la Comunidad Autónoma de Castilla y León.
+2. La Mesa de la Cámara les hará entrega de las pertinentes credenciales.
+
+### Artículo 7
+
+Artículo 7.
+1. El mandato de los Senadores designados en representación de la Comunidad se prolonga hasta la elección por el Pleno de aquéllos que deban sustituirlos, de conformidad con lo establecido en la presente Ley.
+2. El mandato de los Senadores elegidos por el procedimiento establecido en esta Ley concluye por cualquiera de las causas previstas con carácter general por el ordenamiento jurídico.
+3. En el supuesto de que la legislatura del Senado concluyera por cualquiera de las causas establecidas en la Constitución antes de la de las Cortes de Castilla y León, los nuevos Senadores a designar por éstas serán los mismos ya elegidos conforme a lo dispuesto en el artículo quinto de esta Ley. A estos efectos, la Mesa de las Cortes les hará entrega de nuevas credenciales, sin que sea preciso proceder a nueva votación.
+Se modifica el apartado 2 por el art. único de la Ley 1/2000, de 3 de marzo. Ref. BOE-A-2000-5835
+
+### Artículo 8
+
+Artículo 8.
+Las vacantes de Senadores que se produzcan durante una misma legislatura serán cubiertas con arreglo al procedimiento establecido en esta Ley.
+Producida la vacante, el Presidente de las Cortes solicitará nueva propuesta al mismo Grupo Parlamentario que había propuesto al Senador de cuya sustitución se trate.
+
+### Artículo 9
+
+Artículo 9.
+Los senadores designados por la Comunidad de Castilla y León podrán voluntariamente comparecer ante la Comisión de Reglamento para informar sobre temas relacionados con la actividad parlamentaria, siguiendo el procedimiento que el Reglamento de las Cortes establezca para las comparecencias de los miembros de la Junta de Castilla y León.
+Se añade por el art. único.4 de la Ley 1/2022, de 27 de octubre. Ref. BOE-A-2022-19487
+
+### Disposición adicional
+
+Disposición adicional.
+Las Cortes de Castilla y León adecuarán su Reglamento a lo dispuesto en esta Ley y determinarán las relaciones de los Senadores con la Cámara.
+Se modifica por el art. único de la Ley 1/2000, de 3 de marzo. Ref. BOE-A-2000-5835
+
+### Disposición transitoria
+
+Disposición transitoria.
+La presente Ley no será de aplicación a los Senadores representantes de la Comunidad Autónoma de Castilla y León en el momento de su entrada en vigor, con excepción de lo dispuesto en los artículos séptimo y octavo.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de Castilla y León».
+
+Por tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 8 de mayo de 1987.
+JOSÉ CONSTANTINO NALDA GARCÍA,
+Presidente de la Junta de Castilla y León.

@@ -1,0 +1,544 @@
+# Ley 6/1994, de 19 de mayo, de Sanidad Animal de Castilla y León.
+
+- Identificador BOE: `BOE-A-1994-14039`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1994-14039
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el BOCL núm. 105, de 1 de junio de 1994.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado, y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 14.3 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+No es necesario rodear de afirmaciones enfáticas un hecho tan evidente como la importancia socioeconómica de la ganadería de Castilla y León; ni siquiera la frialdad de los números y porcentajes sorprendería a los habitantes de esta Comunidad, dado el enraizamiento pecuario de esta región, que se pierde en los mismísimos orígenes de la Mesta. Pero no es este el momento de reverdecer instituciones, sino de mirar hacia el futuro que, en materia de ganadería, pasa por conseguir un sector competitivo que nos permita producir con la mayor rentabilidad e introducir nuestros ganados y sus derivados en otros mercados, ya sean nacionales o extranjeros. Es cierto que tan ambicioso objetivo debe ser abordado desde múltiples perspectivas, pero sin duda el estado sanitario de la cabaña ganadera castellano-leonesa es un factor determinante para conseguir altas cotas de rentabilidad y así poder hacer competitivos nuestros productos. A ello, además, se une la imperiosa necesidad de disponer de una ganadería saneada, a la que se permita, al igual que a sus derivados, pasar nuestras fronteras hacia el resto de los países comunitarios, sin que se conviertan en obstáculos las tradicionales epizootias que han aquejado a nuestras explotaciones pecuarias, enfermedades, por otra parte, impropias de un país europeo en los umbrales del año dos mil.
+Tampoco son fáciles de solucionar estos problemas en Castilla y León, región de amplia extensión geográfica y de notables carencias, pese a que la Administración autonómica ha realizado importantes esfuerzos presupuestarios e, incluso, ha introducido reformas en la legislación de epizootias y en la Administración zoosanitaria que, sin duda, han redundado en la mejora sanitaria de nuestra cabaña. Con todo, ha llegado el momento de abordar una reforma de amplio alcance en este sector del ordenamiento jurídico, reforma que precisa del respaldo de los representantes del pueblo castellano leonés, con el objeto de adoptar determinados aspectos de la legislación estatal vigente que data, en su mayoría, de los años cincuenta y que, por sus anacronismos e inadaptaciones a la realidad constitucional y estatutaria actual, priva a los órganos autonómicos de gestión de los medios jurídicos adecuados y suficientes para aplicar unos instrumentos que en buena medida pueden seguir sirviendo para los objetivos con que fueron concebidos.
+La Ley de Sanidad Animal de Castilla y León pretende, por tanto, establecer los principios para una modernización y adecuación constitucional del ordenamiento zoosanitario de la región, para lo cual tiene competencia el Parlamento territorial, según se deriva de los artículos 148.1.7 de la Constitución y 26.9 del Estatuto de Autonomía de Castilla y León, al haber permitido aquel precepto constitucional y haber asumido nuestra región competencias exclusivas en materia de ganadería.
+Este es el título constitucional que habilita para la aprobación de la presente Ley, pues no se contempla otro rótulo más específico que cubra la sanidad pecuaria ni en la Constitución ni en el Estatuto de Autonomía. Pero tampoco desconoce el presente texto legal otros títulos constitucionales ostentados por el Estado de estrecha vinculación con la Sanidad Animal, como la ordenación general de la economía a que aluden los artículos de la Constitución y Estatuto de Autonomía citados, o el establecimiento de las bases y la coordinación general de la Sanidad, debido a la transmisión al hombre de ciertas enfermedades epizoóticas, o el comercio exterior, de responsabilidad estatal y de evidente conexión con el estado sanitario de la cabaña ganadera, o, en fin, la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, que privaría de constitucionalidad cualquier regulación autonómica carente de toda referencia a la legislación estatal, siempre que con aquélla se produjeran desviaciones o mermas del principio de igualdad.
+Por estos imperativos constitucionales, pero también con la convicción de que todavía siguen siendo de utilidad, la Ley mantiene un buen número de los instrumentos jurídicos tradicionales en este sector del ordenamiento: notificación obligatoria de las enfermedades epizoóticas, declaración oficial de ciertas enfermedades, el control de la circulación y transporte de ganado, un conjunto de medidas preventivas, el sacrificio obligatorio del ganado enfermo, instrumentos que encajan perfectamente en este texto después de haber sido adecuados a la estructura organizativa de la Comunidad y habilitados para ser objeto del necesario desarrollo reglamentario, ya bajo los presupuestos del Estado autonómico.
+Ahora bien, si algunas partes de la nueva Ley se reconocen tributarias de la tradicional legislación de epizootias del Estado, algunas otras, señaladamente el régimen sancionatorio que contiene, supone una implantación «ex novo» derivada de los principios constitucionales, además de adecuar, con el mayor rango dentro de las competencias normativas de la Comunidad Autónoma, las sanciones a las infracciones, con el objeto de que la última «ratio» de que dispone nuestra Administración cumpla los objetivos que el «ius puniendi» modernamente tiene encomendados.
+Es esta la justificación de la Ley de Sanidad Animal, sanidad que por su transcendencia y efectos, constituye la esencia mínima de la ganadería, ya que representa el factor común de todas las operaciones a desarrollar en sus tres ciclos de la producción, industrialización y comercialización y afecta simultáneamente al triple aspecto de lo económico, de lo social y de lo cultural, por cuanto es la condición indispensable para la viabilidad de la explotación pecuaria, resulta imprescindible de necesidad para su utilización por la población humana y se reivindica como una exigencia prioritaria e irrenunciable de los pueblos desarrollados.
+El aspecto social de la Sanidad Animal, representado por su clara repercusión en la salud pública, no puede olvidar ni minusvalorar el componente nocivo, molesto e insalubre de los animales, por lo que es necesario controlar, en todo momento y lugar, el impacto medioambiental a cargo de los mismos, mediante el establecimiento de las normas correspondientes.
+Las alteraciones en la producción animal, como síntoma y diagnóstico de enfermedad, las materias procedentes de animales enfermos o medicados, como problemas técnicos de las industrias pecuarias y las enfermedades animales, verdaderas barreras sanitarias en el comercio pecuario, son claros ejemplos de lo expuesto, por lo que cualquier planteamiento serio que se realice sobre las producciones, los productos transformados y los mercados de y para la ganadería debe pasar, inexcusablemente, por la Sanidad Animal.
+Dada la íntima relación taxonómica y de convivencia que las especies animales de renta tienen con la fauna silvestre y con los animales de compañía y teniendo en cuenta su idéntico o similar comportamiento frente a la Epidemiología Veterinaria, se hace imprescindible extender los preceptos de esta Ley a todo tipo de animales, al margen de su origen y destino, de su ubicación y movimientos, de su producción y finalidades, de su naturaleza y circunstancias. Porque la Epidemiología Veterinaria, como ciencia que estudia la enfermedad en las poblaciones animales, así como los factores que determinan su presencia, no reconoce barreras ni compartimentos administrativos, puesto que debe perseguir, sin trabas ni impedimentos, la determinación y el origen de la enfermedad, su investigación y control, la información sobre la ecología tanto de la propia enfermedad en sí, como de los programas establecidos para su control.
+La Sanidad Animal hay que entenderla de forma integral, por lo que debe comprender todo aquello que directamente afecte a la salud de los animales e indirectamente, es decir, a través de los mismos y de sus productos, repercuta negativamente en la salud humana; por ello, la referencia a las enfermedades infecto-contagiosas y parasitarias de los animales será prioritaria, pero no exclusiva, ya que resulta imprescindible incluir, también, las enfermedades no infecciosas y de una manera especial las metabólicas, con el objeto de englobar cualquier causa que pueda constituir peligro para los animales o, a través suyo y de sus productos, para el hombre. Ello obliga a que esta Ley se vea en la imperiosa necesidad de legislar, además, sobre el empleo en los animales de cualquier sustancia que pueda alterar su fisiologismo y repercutir negativamente en el hombre a través de los propios animales o de sus productos.
+El axioma de que el ganadero es el principal y auténtico protagonista de cualquier acción pecuaria y la evidencia de que la enfermedad contagiosa desborda y traspasa los límites de la explotación individual, impulsa a la Administración a favorecer y fomentar las asociaciones de defensa zoosanitaria en todos los casos que se consideren adecuadas y a aceptar la participación en los programas de Sanidad Animal de cualquier entidad pública o privada que se ajuste a la normativa de esta Ley.
+Es necesario, por fin, tener muy presente que no estamos ante una Ley de Epizootias o de las enfermedades infecciosas y parasitarias de los animales, sino ante una Ley de Sanidad Animal y que la sanidad animal implica no sólo la ausencia de toda alteración, sino la presencia del máximo bienestar, como base y fundamento de todos los productos y servicios que los animales pueden proporcionar al hombre.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente Ley tiene por objeto el establecimiento de los instrumentos legales adecuados que permitan conseguir los siguientes fines:
+a) La mejora sanitaria, el desarrollo de la ganadería de Castilla y León, así como la protección de la salud humana mediante la prevención y control de las enfermedades infectocontagiosas y parasitarias, sean o no transmisibles al hombre, que afecten a la cabaña ganadera, a los animales de compañía y a la fauna silvestre.
+b) Proteger a las personas, animales y medio ambiente de los riesgos directos inherentes al empleo de productos zoosanitarios, y de los derivados de la presencia de sus residuos o de los productos resultantes de su metabolismo en el organismo animal donde sean aplicados.
+c) Controlar las condiciones ambientales y de explotación que puedan desencadenar procesos patológicos, bajas producciones y disminución de su calidad.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+El ámbito de aplicación de la presente Ley será el territorio de Castilla y León y afectará a:
+Todos los animales de renta, de compañía o silvestres.
+Los productos animales en cualquier fase de su producción, almacenamiento, manipulación, transformación, conservación, transporte y comercialización, cuando los mismos puedan producir enfermedades infectocontagiosas o parasitarias.
+Los suelos, tierras, pastos, lugares, alojamientos, utensilios, instalaciones y medios destinados a la producción, transporte y comercialización de los animales.
+Los métodos y mecanismos de eliminación de residuos y cadáveres procedentes de las explotaciones de animales.
+Los productos zoosanitarios, las instalaciones y medios destinados a su distribución, comercialización y aplicación y, en su caso, los alimentos para el ganado, sin perjuicio de las competencias del Estado.
+Las actividades de las personas, físicas o jurídicas, y de las entidades, públicas o privadas, en cuanto estén relacionadas con los fines de esta Ley.
+
+### Artículo 3
+
+Artículo 3. Órganos y personal competente.
+1. Corresponde a la Consejería competente en materia de sanidad animal, a través de los Servicios Veterinarios Oficiales, el ejercicio de las funciones derivadas de la presente ley, así como de cualquier otra disposición en materia de sanidad animal.
+2. El ejercicio de determinadas funciones en materia de sanidad animal podrá ser delegado, de conformidad con la normativa europea, mediante la habilitación de profesionales veterinarios, la acreditación de agentes certificadores y la celebración de contratos en los términos previstos en la normativa de contratación del sector público. En todo caso, corresponden a la Consejería competente en materia de sanidad animal las potestades de dirección, organización, control e inspección.
+3. Se podrá habilitar a profesionales veterinarios para realizar actividades sanitarias en el marco de los programas sanitarios nacionales y autonómicos de vigilancia, control y/o erradicación de enfermedades, así como en los programas especiales de acción sanitaria.
+4. Se podrá acreditar a profesionales veterinarios como agentes certificadores de las actuaciones sanitarias previstas en los planes de alerta sanitaria.
+5. En el ejercicio de sus funciones, los veterinarios habilitados, los agentes certificadores y los contratistas deberán cumplir lo establecido en la normativa europea vigente. En lo relativo al conflicto de intereses, las personas físicas que realicen las concretas actuaciones están sometidas al régimen de abstención y recusación previsto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y deberán presentar una declaración jurada de ausencia de conflicto de intereses por cada explotación en la que realicen tales actuaciones.
+Se modifica por el art. único de la Ley 6/2024, de 17 de junio. Ref. BOE-A-2024-15101
+
+### Artículo 4
+
+Artículo 4. Órgano colegiado de carácter asesor en materia de sanidad animal.
+1. En la Administración de la Comunidad de Castilla y León existirá un órgano colegiado de carácter asesor en materia de sanidad animal, adscrito a la consejería competente en esta materia.
+2. Su composición, organización y funcionamiento se regularán reglamentariamente.
+3. Ejercerá las funciones y competencias que se le atribuyan legal o reglamentariamente, así como las que se le encomienden o deleguen.
+Se modifica por el art. 32 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+## TÍTULO II
+
+Explotaciones ganaderas: Documentos y requisitos
+
+## CAPÍTULO I
+
+Explotaciones ganaderas
+
+### Artículo 5
+
+Artículo 5.
+Explotación ganadera es cualquier establecimiento, construcción o, en el caso de cría al aire libre, cualquier lugar en el que se tengan, críen o manipulen animales.
+
+### Artículo 6
+
+Artículo 6. Obligaciones de los titulares.
+1. Corresponde a los propietarios, encargados o responsables de explotaciones ganaderas, núcleos zoológicos, animales de compañía y domésticos de renta, atender y vigilar a sus animales, a fin de mantener su buen estado sanitario y controlar su posible influencia negativa sobre el medio.
+2. A los titulares de explotaciones ganaderas o núcleos zoológicos que mantengan en ellas deficientes condiciones de sanidad e higiene, según se determine reglamentariamente, incompatibles con el adecuado estado sanitario de las poblaciones animales propias o circundantes, los Servicios Veterinarios de la Consejería de Agricultura y Ganadería les harán saber tal circunstancia, concediéndoles un plazo de adecuación; pudiendo, en los casos más graves, proponer la retirada de las autorizaciones de ejercicio de actividad hasta tanto se corrijan las causas que determinaron la adopción de dicha medida.
+
+### Artículo 7
+
+Artículo 7. Identificación animal.
+La identificación animal individual, como fase previa a cualquier operación epidemiológica y como constatación de estados y procesos especiales, será regulada por la Consejería de Agricultura y Ganadería de acuerdo con la normativa estatal y de la CEE.
+
+## CAPÍTULO II
+
+Documentación de las Explotaciones Ganaderas
+(Derogado).
+Se deroga por el art. 16.1 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251
+
+### Artículo 8
+
+Artículo 8. Cartilla de Explotación Ganadera.
+(Derogado).
+Se deroga por el art. 16.1 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251
+
+## CAPÍTULO III
+
+Registro de las Explotaciones Ganaderas
+
+### Artículo 9
+
+Artículo 9. Registros.
+1. Las explotaciones ganaderas se inscribirán en el Registro de Explotaciones Ganaderas creado al efecto. Su contenido y funcionamiento se determinarán reglamentariamente.
+2. La Consejería de Agricultura y Ganadería impulsará el funcionamiento del «Registro de Núcleos Zoológicos» y del «Registro de Centros de Animales para la Experimentación», en cuyo caso las normas que los regulen adecuarán su contenido a los fines que en el marco de esta Ley les son propios.
+Se modifica el apartado 1 por el art. 16.2 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251
+
+## TÍTULO III
+
+Acciones sanitarias de carácter general
+
+### Artículo 10
+
+Artículo 10. Definición.
+Son acciones sanitarias de carácter general las que han de disponerse para vigilar y controlar la sanidad animal y ejecutarse ante la sospecha o presentación de alguna de las enfermedades incluidas en las listas existentes sobre la materia en la UE o en las que se confeccionen por la Junta de Castilla y León.
+
+### Artículo 11
+
+Artículo 11. Descripción.
+Podrán aplicarse a la lucha contra las enfermedades infectocontagiosas y parasitarias y a los procesos de los animales que entrañen peligro para el hombre, las acciones sanitarias de tipo administrativo y técnico que, sancionadas por la Epidemiología Veterinaria, sean ordenadas por la Consejería de Agricultura y Ganadería, y que podrán ser las siguientes:
+1. Se consideran acciones sanitarias de tipo administrativo: La notificación, la declaración oficial de existencia de enfermedades y la declaración oficial de extinción de la enfermedad.
+2. Se consideran acciones sanitarias de tipo técnico:
+El estudio epidemiológico, la investigación del foco primario y el diagnóstico de la enfermedad.
+Las acciones sanitarias de prevención y tratamiento.
+El control del movimiento y transporte de animales.
+El control de las concentraciones de animales.
+El tratamiento de cadáveres.
+Las acciones sanitarias complementarias.
+Las acciones sanitarias de orden medioambiental.
+
+## CAPÍTULO I
+
+Notificación
+
+### Artículo 12
+
+Artículo 12. Notificación obligatoria.
+Los dueños, administradores o encargados de los animales, los Servicios Sanitarios de las Administraciones Públicas, veterinarios en el ejercicio libre de la profesión, así como cualquier ciudadano que tenga conocimiento o sospecha de la presentación en los animales de alguna enfermedad que, por sus características de contagio y morbi-mortalidad, pueda ser considerada infectocontagiosa o parasitaria, están obligados o notificarlo por los medios más rápidos a su alcance a los Servicios Veterinarios de la Consejería de Agricultura y Ganadería, de cuya notificación se acusará recibo al interesado.
+
+## CAPÍTULO II
+
+Investigación del foco primario, diagnóstico de las enfermedades y medidas complementarias
+
+### Artículo 13
+
+Artículo 13. Visita, comprobación y actuaciones.
+1. Los Servicios competentes de la Consejería de Agricultura y Ganadería, girarán visitas periódicas a las explotaciones ganaderas de la Comunidad. Si tuvieran conocimiento de la existencia de animales enfermos o sospechosos, realizarán una inspección inmediata con el objeto de diagnosticar la enfermedad, adoptar las medidas que eviten su difusión y realizar las indagaciones que conduzcan a la determinación de las circunstancias originales del foco.
+2. Del diagnóstico, así como de las medidas adoptadas, se dará traslado a los órganos superiores y, en su caso, se pondrán en conocimiento de la autoridad gubernativa las medidas adoptadas en relación con la explotación afectada, por si fuera necesario solicitar la realización de algún tipo de control por la misma.
+3. Diagnosticada una enfermedad transmisible al hombre, se dará cuenta inmediata de ello y del resto de las actuaciones habidas a la Consejería de Sanidad y Bienestar Social. Si la enfermedad pudiera afectar a la fauna silvestre, se actuará de la misma forma respecto a la Consejería de Medio Ambiente y Ordenación del Territorio.
+
+### Artículo 14
+
+Artículo 14. Diagnóstico, laboratorios e información epidemiológica.
+1. Durante el proceso de diagnosis, se recurrirá a cuantos medios o instituciones se considere necesario para garantizar su fiabilidad, con preferencia a aquellos de carácter público.
+2. Los laboratorios o centros de diagnóstico, tanto públicos como privados, deberán estar inscritos y llevarán un libro registro en el que consten las muestras recibidas, los análisis realizados, resultados obtenidos y los dictámenes emitidos, todo ello según se determine reglamentariamente.
+3. Con el objeto de obtener una mejor información epidemiológica o realizar un más acertado diagnóstico, se facilitará el acceso a los mataderos a aquellos veterinarios que los servicios competentes de la Consejería de Agricultura y Ganadería determinen.
+
+### Artículo 15
+
+Artículo 15. Inmovilización y aislamiento.
+1. Los animales y explotaciones ganaderas podrán ser sometidas, bajo control veterinario oficial, a períodos de inmovilización y aislamiento o cuarentena de duración adecuada a cada proceso en función, principalmente, del período de incubación o espera, así como del tiempo necesario para establecer el diagnóstico, o para que los animales o la explotación dejen de ser peligrosos para la ganadería o la población humana.
+2. La inmovilización y aislamiento afectará a los animales enfermos, sospechosos e incluso sanos de la explotación.
+3. En los casos en que sea necesario, el Consejero de Agricultura y Ganadería podrá ordenar el traslado de los animales sensibles de las zonas de «alto riesgo».
+
+## CAPÍTULO III
+
+Declaración oficial de existencia y extinción de enfermedades
+
+### Artículo 16
+
+Artículo 16. Declaración oficial de la enfermedad.
+1. Diagnosticada alguna enfermedad infectocontagiosa o parasitaria de declaración obligatoria, de notificación intracomunitaria o bien alguna otra que por su gran poder difusivo o intensidad de presentación así lo aconseje, el Consejero de Agricultura y Ganadería realizará la declaración oficial de su existencia, con inserción en el «Boletín Oficial de Castilla y León» y dará traslado inmediato de la misma al Ministerio de Agricultura, Pesca y Alimentación.
+2. La declaración oficial habrá de ratificar, rectificar o complementar las medidas inicialmente adoptadas para evitar la propagación de la enfermedad. Además, contendrá los datos correspondientes a la denominación de la enfermedad, localización del foco y delimitación de las zonas de influencia de aquélla, así como las medidas que en cada una de ellas se imponga.
+
+### Artículo 17
+
+Artículo 17. Extinción oficial de la enfermedad.
+La declaración oficial de extinción de la enfermedad se ordenará por el mismo órgano y procedimiento que declaró su existencia, una vez transcurrido el tiempo que en cada caso se determine a partir de la última muerte o curación. La extinción llevará consigo la anulación de las medidas de inmovilización y aislamiento y el establecimiento de las medidas precautorias que la Epidemiología Veterinaria aconseje en cada caso.
+
+### Artículo 18
+
+Artículo 18. Planes de alerta sanitaria.
+En los casos en que sea necesario, podrán establecerse planes de alerta sanitaria para controlar la presentación de futuros brotes y evitar su difusión. El contenido de los planes se determinará reglamentariamente.
+
+## CAPÍTULO IV
+
+Acciones sanitarias de prevención y tratamiento
+
+### Artículo 19
+
+Artículo 19. Establecimiento de planes de vacunación y tratamiento. Indemnizaciones
+1. La Consejería de Agricultura y Ganadería podrá ordenar campañas de tratamientos sanitarios o de vacunación obligatoria para producir anillos inmunitarios y cordones sanitarios que impidan la difusión de la enfermedad y permitan la defensa de los territorios limítrofes.
+2. Procederá la indemnización, según los baremos que se establezcan, en los casos en que se produzcan bajas o muertes de animales después de la aplicación de tratamientos sanitarios o vacunaciones obligatorias, siempre que las bajas o muertes hayan sido comunicadas en tiempo y forma y técnicamente quede demostrada y acreditada la relación de causa a efecto.
+
+### Artículo 20
+
+Artículo 20. Regulación de vacunaciones y tratamientos voluntarios.
+1. Los titulares de explotaciones ganaderas o de animales, podrán libremente prevenir cualquier enfermedad infectocontagiosa o parasitaria, con el debido control de un técnico competente que quedará obligado a realizar la correspondiente comunicación sobre las actuaciones practicadas ante la Consejería de Agricultura y Ganadería, en la forma y tiempo que en cada caso se determine.
+2. En los casos en que así se establezca, para la realización de las actividades reguladas en el apartado anterior, será necesaria la autorización previa de la Consejería de Agricultura y Ganadería.
+
+## CAPÍTULO V
+
+Movimiento y transporte de animales
+
+### Artículo 21
+
+Artículo 21. Documentación para el traslado.
+1. Para el transporte y circulación de animales, por cualquier medio que sea, fuera del término municipal donde se encuentre localizada la explotación o núcleo zoológico será preciso obtener el documento acreditativo de que los animales no padecen enfermedad infectocontagiosa o parasitaria y de que la explotación y término municipal donde se ubique se hallan indemnes. En todo caso, se excepcionará este documento cuando el movimiento de ganado sea habitual entre términos municipales inmediatos, o próximos, por razones de pastoreo suficientemente acreditadas.
+2. La documentación prevista en el apartado anterior, será obligatoria cuando los animales, aun dentro del mismo término municipal, sean conducidos al matadero o bien a un recinto donde vaya a celebrarse una feria, un concurso o cualquier otro certamen con presencia de animales vivos.
+
+### Artículo 22
+
+Artículo 22. Detención, aislamiento y observación de animales indocumentados.
+1. Los animales trasladados sin la correspondiente documentación serán retenidos y, en su caso, aislados como sospechosos de padecer enfermedad infectocontagiosa o parasitaria, en los términos expuestos en esta Ley, pudiendo reanudar el trayecto una vez sea expedida la correspondiente documentación.
+En caso necesario, los Ayuntamientos fijarán lugares para la estancia de los animales.
+2. Los gastos ocasionados por este proceso de aislamiento y observación correarán por cuenta del dueño de los animales o del responsable de los mismos en el momento de su detención.
+
+### Artículo 23
+
+Artículo 23. Vehículos de transporte.
+1. Los vehículos destinados al transporte de animales deberán estar inscritos en los registros de las unidades administrativas que al efecto se determinen.
+2. Estos vehículos deberán ser desinfectados y, si procede, desinsectados antes y después del transporte, lo que deberá justificarse documentalmente.
+3. La Junta habilitará centros para la desinfección y desinsectación de vehículos de transporte de ganado.
+
+## CAPÍTULO VI
+
+Concentraciones de animales
+
+### Artículo 24
+
+Artículo 24. Autorización y medidas preventivas.
+1. La celebración de ferias, mercados, concursos, exposiciones o cualquier otro certamen con presencia de animales vivos deberá contar con la autorización de la Consejería de Agricultura y Ganadería, solicitada a instancia del Ayuntamiento o de organismos o entidades organizadoras, previa emisión del correspondiente informe por parte de los Veterinarios del Servicio de dicha Consejería competente en la localidad.
+2. De acuerdo con las normas correspondientes, los Veterinarios del Servicio se encargarán de adoptar las medidas necesarias para evitar posibles contagios durante la celebración de las concentraciones de animales debidamente autorizadas.
+3. Los organizadores de ferias, mercados o cualquier otro certamen, dispondrán los medios humanos, materiales y técnicos necesarios para asegurar el correcto desarrollo de los mismos. En todo caso, será de su responsabilidad el cumplimiento de las medidas específicas que se hayan establecido por la Administración competente.
+
+## CAPÍTULO VII
+
+Tratamiento de cadáveres: Aprovechamiento o destrucción
+
+### Artículo 25
+
+Artículo 25. Obligaciones y prohibiciones.
+1. Los propietarios o tenedores de los animales muertos por cualquier causa están obligados a la destrucción de los cadáveres en los lugares y mediante los sistemas previstos al efecto.
+2. Queda terminantemente prohibido, por razones sanitarias y medioambientales, abandonar animales muertos o moribundos, arrojarlos a estercoleros, ríos, pozos, carreteras, cañadas y cualquier otro lugar.
+3. Solamente, y con autorización expresa, podrán destinarse animales muertos para la alimentación de cualquier tipo de animales.
+
+### Artículo 26
+
+Artículo 26. Centros de tratamiento de cadáveres.
+La Junta de Castilla y León fomentará el establecimiento y dotación de centros de tratamiento de cadáveres de animales y de productos procedentes de decomiso. El transporte a estos centros, o en los casos previstos en el apartado 3 del artículo 25, se deberá realizar con total garantía sanitaria.
+La Junta de Castilla y León ofertará convenios de colaboración con instituciones públicas, ganaderas y/o empresas privadas, tendentes a facilitar la recogida y el transporte de los cadáveres de animales en las mejores condiciones y menor coste posible.
+
+## CAPÍTULO VIII
+
+Acciones sanitarias complementarias
+
+### Artículo 27
+
+Artículo 27. Desinfección, desparasitación y prácticas similares.
+1. La desinfección, desinsectación, desparasitación, desratización y prácticas similares, según proceda, de los lugares, utensilios o materias que constituyan estancia, medio de transporte o, simplemente, que estén en contacto con animales, deben ser realizadas obligatoria y periódicamente en los planes de lucha zoosanitaria y como práctica habitual de ganaderos y tratantes, utilizando los productos cuya comercialización esté autorizada, todo ello bajo la supervisión de los Servicios Veterinarios de la Consejería de Agricultura y Ganadería.
+2. En los locales y terrenos donde se celebren concentraciones animales, se realizarán las prácticas de limpieza, desinfección y desinsectación antes, durante y después de su uso, con los productos adecuados en cada caso; corriendo a cargo de los organizadores el coste de estas prácticas sanitarias.
+3. Correrá a cargo de los interesados el coste de las prácticas sanitarias complementarias que realicen sobre sus animales, lugares de alojamiento o útiles y materiales, sin perjuicio de la colaboración que los Servicios competentes de la Consejería de Agricultura y Ganadería puedan prestar.
+
+### Artículo 28
+
+Artículo 28. Acciones complementarias en extinción de focos.
+Extinguido oficialmente un foco de cualquier enfermedad infectocontagiosa o parasitaria, se procederá a una rigurosa limpieza, desinfección, desinsectación y desratización de los lugares que hubiesen servido de alojamiento y de los utensilios o materiales que hubiesen estado en contacto con los animales infectados.
+
+## CAPÍTULO IX
+
+Acciones sanitarias medioambientales
+
+### Artículo 29
+
+Artículo 29. Condiciones de explotación de los animales.
+La Consejería de Agricultura y Ganadería procurará, a través de las medidas que en cada caso se prevean, que las condiciones de explotación de los animales, de los alojamientos, medios y servicios que el ganado utilice, sean adecuados desde el punto de vista sanitario, fisiológico y etológico.
+
+### Artículo 30
+
+Artículo 30. Distancias.
+Como medida preventiva para evitar la difusión de enfermedades, las explotaciones ganaderas mantendrán entre sí y, recíprocamente, con las instalaciones destinadas a concentraciones ganaderas y actividades agroindustriales de tipo ganadero o relacionadas, las distancias que se establezcan reglamentariamente.
+
+### Artículo 31
+
+Artículo 31. Densidad ganadera.
+Cuando las circunstancias epidemiológicas así lo exijan o las consecuencias sobre la contaminación medioambiental lo aconsejen o hagan necesario, la Consejería de Agricultura y Ganadería podrá establecer la densidad ganadera sostenible.
+
+### Artículo 32
+
+Artículo 32. Pastoreo.
+1. Los terrenos destinados a su aprovechamiento mediante pastoreo, de titularidad individual o colectiva y cualquiera que sea el régimen de propiedad o uso, deberán disponer de instalaciones adecuadas de manejo de animales que permitan la realización sobre los mismos de las prácticas higiénico-sanitarias que en cada momento sean necesarias o pueden ser ordenadas. No será necesario este requisito cuando se trate del aprovechamiento continuo de pastos y rastrojeras en el mismo término municipal o contiguo al de la ubicación de la explotación y en aquellos casos en que las prácticas higiénico-sanitarias puedan desarrollarse sin especial dificultad en las instalaciones de la propia explotación.
+2. Los pastos sometidos a ordenación común de aprovechamiento y comunales serán utilizados únicamente por animales saneados.
+
+### Artículo 33
+
+Artículo 33. Control de vectores y reservorios.
+El control medioambiental de vectores mecánicos o biológicos, reservorios bióticos, hospedadores intermediarios y parásitos o formas parasitarias, se realizará en todos los casos con productos registrados y autorizados oficialmente, debiendo ser empleados de forma que se asegure la no agresión y con el máximo respeto a los ecosistemas, empleándose procedimientos compatibles con su mantenimiento.
+
+## TÍTULO IV
+
+Acciones sanitarias de carácter general
+
+## CAPÍTULO I
+
+Campañas de saneamiento ganadero
+
+### Artículo 34
+
+Artículo 34. Atribuciones.
+Además de la organización, dirección, ejecución y evaluación de las Campañas de Saneamiento Ganadero reguladas por disposiciones de ámbito estatal, la Junta de Castilla y León podrá planificar, organizar, dirigir, ejecutar y evaluar en su ámbito territorial campañas de saneamiento ganadero no reguladas por disposiciones de ámbito estatal.
+
+### Artículo 35
+
+Artículo 35. Campañas de saneamiento ganadero.
+1. A los efectos previstos en el artículo anterior, se consideran «Campañas de Saneamiento Ganadero» no reguladas por disposiciones de ámbito estatal, las acciones sanitarias de carácter especial y obligatorias en el ámbito de la comunidad de Castilla y León, programadas y aprobadas por la Consejería de Agricultura y Ganadería, en cuyo desarrollo se aplicarán técnicas específicas de Epidemiología Veterinaria orientadas al control y, en su caso, erradicación de aquellos procesos patológicos de los animales regulados en esta Ley que presenten una elevada prevalencia en la población animal o humana, o que comprometan o puedan comprometer la viabilibilidad económica de las explotaciones ganaderas.
+2. Las «Campañas de Saneamiento Ganadero», se realizarán de acuerdo con la programación periódica que se establezca mediante la dedicación a tal efecto de los presupuestos necesarios.
+
+### Artículo 36
+
+Artículo 36. Programas Especiales de Acción Sanitaria.
+1. Se podrán realizar «Programas Especiales de Acción Sanitaria» en áreas concretas y específicas del espacio geográfico castellano-leonés, cuando en ellas se presenten las necesidades sanitarias previstas en el apartado primero del artículo anterior.
+2. Los «Programas Especiales de Acción Sanitaria» serán obligatorios para las explotaciones ganaderas radicadas en el área para la que se aprueben.
+Las ayudas que para su aplicación puedan acordarse quedarán restringidas a las explotaciones ganaderas que cumplan las normas de higiene general, de sanidad, de alimentación y manejo de los animales que en cada programa se establezcan.
+
+### Artículo 37
+
+Artículo 37. Garantías sanitarias.
+1. Los tratantes y cualquier otra persona física o jurídica que se dediquen a la comercialización de animales para vida, pertenecientes a especies ganaderas sometidas a «Campañas de Saneamiento Ganadero», sólo podrán operar con animales que hayan sido diagnosticados negativos a las enfermedades objeto de campaña.
+2. Los animales que en el curso del desarrollo de las «Campañas de Saneamiento Ganadero» se encuentren en proceso de diagnóstico, no podrán moverse de la explotación donde se encuentren, salvo autorización expresa de los Servicios Veterinarios de la Consejería de Agricultura y Ganadería.
+
+### Artículo 38
+
+Artículo 38. Contratación de servicios.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 6/2024, de 17 de junio. Ref. BOE-A-2024-15101
+
+### Artículo 39
+
+Artículo 39. Declaración de municipios saneados.
+Como consecuencia del desarrollo y aplicación de las «Campañas de Saneamiento Ganadero», podrá procederse a la declaración de «Municipios Saneados», con las consecuencias que se prevean y siempre que en sus términos municipales el ganado se halle en las condiciones reglamentarias que se dispongan a tales efectos.
+
+### Artículo 40
+
+Artículo 40. Repoblación de explotaciones saneadas.
+La incorporación de animales a explotaciones saneadas, o en proceso de saneamiento, se realizará con animales diagnosticados negativos a las enfermedades objeto de campaña, extremo que deberá ser acreditado documentalmente.
+
+## CAPÍTULO II
+
+Sacrificio obligatorio
+
+### Artículo 41
+
+Artículo 41. Ordenación.
+1. El sacrificio obligatorio de los animales se realizará, como método de control y erradicación de enfermedades, en los casos en que esté establecido y en los que la Consejería de Agricultura y Ganadería lo determine por la gravedad y poder de difusión de aquéllas.
+2. El sacrificio que se declare obligatorio por la autoridad competente llevará consigo la correspondiente indemnización, de acuerdo con la normativa vigente.
+3. Si dentro del plazo establecido al efecto, los propietarios no procedieran al sacrificio de los animales afectados, éste deberá realizarse por la Consejería de Agricultura y Ganadera, a través de sus propios servicios o mediante la contratación de los mismos, siendo a costa del propietario los gastos que se generasen por tal concepto.
+4. En el caso de enfermedades que presenten especial virulencia, con elevadas tasas de morbilidad y mortalidad, o gravedad inusitada, y cualquiera que sea el origen del foco primario, se podrán aplicar medidas especiales con carácter de urgencia y entre ellas el sacrificio obligatorio «in situ» de animales afectados y sospechosos.
+5. El sacrificio de los animales de abasto, salvo en el caso previsto en el apartado anterior, deberá ser realizado en mataderos autorizados al efecto. Se facilitará el acceso a estos mataderos a los Veterinarios que los servicios competentes de la Consejería de Agricultura y Ganadería determinen con el objeto de conocer, controlar y evitar la difusión de enfermedades infectocontagiosas y parasitarias o las alteraciones del fisiologismo animal como consecuencia de la aplicación inadecuada de productos zoosanitarios.
+6. Con independencia de lo anterior, todo propietario de animales afectados por alguna de las enfermedades a las que son aplicables las actuaciones contempladas en esta Ley podrá sacrificarlos, sin indemnización, previo conocimiento y control de los servicios competentes de la Consejería de Agricultura y Ganadería.
+
+### Artículo 42
+
+Artículo 42. Exclusiones a la percepción de indemnizaciones.
+1. Los propietarios no percibirán indemnización alguna por los animales obligatoriamente sacrificados cuando no se encuentren inscritos en el Registro de Explotaciones Ganaderas, no hayan comunicado inmediatamente la existencia de la enfermedad, no hubieran sacrificado dentro de los plazos establecidos, hubieran incumplido las medidas impuestas por los Servicios de la Consejería de Agricultura y Ganadería o bien cuando su conducta, por acción u omisión, hubiera ocasionado la difusión de la enfermedad o hubiera podido contribuir a ello.
+2. En ningún caso los animales de compañía que sean sacrificados obligatoriamente darán lugar a indemnización.
+Se modifica el apartado 1 por el art. 16.3 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251
+
+### Artículo 43
+
+Artículo 43. Incentivos a la reposición.
+Podrán establecerse incentivos para favorecer la reposición del ganado sacrificado obligatoriamente.
+
+## CAPÍTULO III
+
+Agrupaciones de defensa sanitaria
+
+### Artículo 44
+
+Artículo 44. Definiciones y ayudas.
+1. Son Agrupaciones de Defensa Sanitaria las asociaciones de ganaderos que, bajo la responsabilidad técnica de un facultativo Veterinario, tengan como objetivo el desarrollo de acciones o programas zoosanitarios específicos complementarios con los establecidos oficialmente.
+2. Estas Agrupaciones de Defensa Sanitaria gozarán de prioridad en la concesión de asistencia técnica oficial y de las ayudas económicas que se puedan prever en el desarrollo de la presente Ley.
+
+## CAPÍTULO IV
+
+Acciones sanitaria entre Comunidades Autónomas
+
+### Artículo 45
+
+Artículo 45. Coordinación.
+La Consejería de Agricultura y Ganadería podrá establecer convenios o conciertos con otras Comunidades autónomas y otras Administraciones Públicas con las que se compartan problemas de sanidad animal, que afecten o puedan afectar a los ganaderos de esta Comunidad, para una eficaz resolución de los mismos.
+
+## CAPÍTULO V
+
+Concesión de títulos sanitarios
+
+### Artículo 46
+
+Artículo 46. Procedimiento.
+1. La Consejería de Agricultura y Ganadería reconocerá el adecuado estado sanitario de las explotaciones ganaderas mediante el otorgamiento de los correspondientes títulos acreditativos.
+2. Su concesión se realizará de oficio o previa solicitud del titular de la explotación, una vez efectuadas las oportunas comprobaciones sanitaria que se prevean, quedando en suspenso cuando sea constatada la aparición de alguna enfermedad infectocontagiosa o parasitaria hasta que, una vez extinguida totalmente, se disponga reglamentariamente.
+
+## CAPÍTULO VI
+
+Mejora genética con fines sanitarios
+
+### Artículo 47
+
+Artículo 47. Obtención de estirpes.
+La Junta de Castilla y León podrá desarrollar o colaborar en el desarrollo de programas genéticos dirigidos a la obtención de estirpes animales resistentes a determinadas enfermedades como método de lucha contra las mismas.
+
+## TÍTULO V
+
+Red de vigilancia epidemiológica y apoyo técnico
+
+### Artículo 48
+
+Artículo 48. Red de Laboratorios de Sanidad Animal.
+1. Los Laboratorios Pecuarios Provinciales de la Comunidad Autónoma se integrarán en una «Red de Laboratorios de Sanidad Animal», bajo la coordinación técnica del Laboratorio Pecuario Regional.
+2. La «Red de Laboratorios de Sanidad Animal», dispondrá de los correspondientes medios humanos y materiales para servir de ayuda y apoyo técnico a las explotaciones ganaderas.
+
+### Artículo 49
+
+Artículo 49. Red de Vigilancia Epidemiológica.
+Apoyada en la infraestructura administrativa de las Unidades Veterinarias, se establecerá una «Red de Vigilancia Epidemiológica», con el adecuado soporte informático, ofimático y telemático.
+
+## TÍTULO VI
+
+Formación e información zoosanitaria
+
+### Artículo 50
+
+Artículo 50. Investigación, experimentación y especialización.
+1. La Consejería de Agricultura y Ganadería fomentará las actividades de investigación y experimentación en materia de sanidad animal, promoviendo o colaborando en el desarrollo de programas específicos que aborden los problemas epidemiológicos de la ganadería castellano-leonesa.
+2. La Consejería de Agricultura y Ganadería garantizará la formación de sus facultativos Veterinarios en materia de Epidemiología Veterinaria con el objeto de elevar la especialización y permanente actualización de sus conocimientos, para lo que podrá establecer los acuerdos y convenios de colaboración que sean necesarios con los centros y entidades que se estimen más convenientes.
+
+### Artículo 51
+
+Artículo 51. Formación y divulgación.
+1. Los Servicios competentes de la Consejería de Agricultura y Ganadería, respecto a las materias reguladas en esta Ley, podrán realizar actividades de formación no reglada dirigidas a titulares de explotaciones ganaderas y personal dependiente de las mismas.
+2. Para promover la participación activa de los ganaderos en la lucha contra las enfermedades de los animales, se desarrollarán campañas de divulgación con la máxima amplitud posible, participando en las mismas los Servicios de las Consejerías correspondientes.
+
+## TÍTULO VII
+
+Régimen sancionador
+
+### Artículo 52
+
+Artículo 52. Responsabilidades.
+1. Serán sujetos responsables de las correspondientes infracciones las personas físicas o jurídicas que incurran en las mismas.
+2. Las infracciones en materia de sanidad animal serán objeto de las sanciones administrativas que corresponda, previa instrucción del oportuno expediente sancionador, sin perjuicio de las responsabilidades civiles o de otro orden que puedan concurrir.
+3. En caso de que la comisión de la infracción haya producido algún tipo de quebranto a la hacienda de la Comunidad Autónoma, el órgano sancionador fijará ejecutoriamente las indemnizaciones que procedan.
+
+### Artículo 53
+
+Artículo 53. Procedimiento sancionador.
+El procedimiento sancionador se tramitará conforme a lo dispuesto en la normativa reguladora del procedimiento administrativo común de las Administraciones Públicas y se observarán los principios de la potestad sancionadora establecidos en la legislación básica.
+Se modifica por el art. 4.1 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 54
+
+Artículo 54. Calificación.
+(Derogado).
+Se deroga por la disposición derogatoria única.1 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 55
+
+Artículo 55. Infracciones administrativas.
+Las infracciones administrativas en materia de sanidad animal, son las tipificadas como leves, graves y muy graves en la legislación básica de sanidad animal.
+Se modifica por el art. 4.2 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica el apartado 6 por el art. 16.6 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251
+ Se modifica por el art. 12 de la Ley 14/2001, de 28 de diciembre. Ref. BOE-A-2002-1045
+
+### Artículo 56
+
+Artículo 56. Sanciones y graduación.
+Las sanciones por infracciones administrativas en materia de sanidad animal y su graduación, son las previstas en la normativa básica de sanidad animal.
+Se modifica por el art. 4.3 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 57
+
+Artículo 57. Prescripción.
+(Derogado).
+Se deroga por la disposición derogatoria única.1 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 58
+
+Artículo 58. Competencia.
+1. La incoación de los procedimientos sancionadores como consecuencia de las acciones u omisiones tipificadas como infracciones administrativas en la presente ley corresponderá:
+a) Por la comisión de infracciones leves y graves, a los jefes de los servicios territoriales de la consejería competente en materia agraria.
+b) Por la comisión de infracciones muy graves, a los Delegados Territoriales.
+2. La resolución de los procedimientos sancionadores corresponderá:
+a) Al Delegado Territorial de la Junta de Castilla y León, en el caso de infracciones leves.
+b) Al titular del órgano directivo central competente por razón de la materia, en el caso de infracciones graves.
+c) Al titular de la consejería competente en materia agraria, en el caso de infracciones muy graves.
+Se modifica por el art. 4.4 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Disposición adicional primera
+
+Disposición adicional primera. Reproducción animal.
+1. Para el establecimiento de paradas de sementales y centros de inseminación artificial, ya sean privados o dependientes de las Administraciones Públicas, será necesaria la autorización previa de la Consejería de Agricultura y Ganadería.
+2. Reglamentariamente se regularán aquellos aspectos del funcionamiento de las paradas y centros mencionados que puedan afectar a la situación zoosanitaria de la ganadería castellano-leonesa.
+3. La Junta de Castilla y León podrá desarrollar o colaborar en el desarrollo de programas reproductivos sanitariamente controlados.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Productos zoosanitarios.
+El almacenamiento, comercialización, distribución y dispensación de productos zoosanitarios y otras sustancias utilizadas en producción animal serán autorizados y controlados por los Servicios competentes de la Consejería de Agricultura y Ganadería en el marco de la normativa estatal aplicable.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Ejecución subsidiaria de acciones sanitarias.
+1. Los particulares y las entidades públicas o privadas que se encuentren afectadas por la obligatoriedad de la lucha contra una enfermedad infectocontagiosa o parasitaria, deberán realizar las acciones sanitarias que al efecto se establezcan.
+2. En casos de que los afectados incumplan lo previsto en el apartado anterior, la Consejería de Agricultura y Ganadería procederá a la ejecución subsidiaria, con sus propios medios o utilizando servicios ajenos, liquidando los gastos correspondientes al interesado, cuyo pago podrá exigírsele por vía de apremio, con independencia de las sanciones a que hubiere lugar.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+En la concesión de ayudas que puedan establecerse por la Junta de Castilla y León para el desarrollo de la ganadería en la Comunidad se atenderá, entre otros criterios, al grado de cumplimiento que los dueños, titulares o encargados de las explotaciones ganaderas hayan observado en relación con los preceptos de esta Ley y su normativa de desarrollo.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas las disposiciones de igual o menor rango que se opongan al contenido de esta Ley.
+
+### Disposición final
+
+Disposición final.
+Se autoriza a la Junta de Castilla y León para dictar cuantas normas y disposiciones sean precisas para el desarrollo y ejecución de la presente Ley.
+
+### [firma]
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 19 de mayo de 1994.
+JUAN JOSE LUCAS JIMENEZ,
+Presidente de la Junta de Castilla y León

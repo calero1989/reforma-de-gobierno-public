@@ -1,0 +1,907 @@
+# Ley 3/1994, de 29 de marzo, de Prevención, Asistencia e Integración Social de Drogodependientes de Castilla y León.
+
+- Identificador BOE: `BOE-A-1994-9365`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1994-9365
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOCL núm. 68, de 11 de abril de 1994.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado, y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 14.3 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+El consumo de drogas es un fenómeno complejo en el que inciden múltiples determinantes y del que se derivan muy diversas consecuencias para el individuo y la sociedad. Este problema, con el que las sociedades occidentales se enfrentan desde hace más de dos décadas en sus dimensiones actuales, genera una considerable preocupación social y moviliza a su alrededor una cantidad muy importante de esfuerzos y recursos para intentar darle solución.
+Castilla y León, como el resto de las Comunidades Autónomas de España y otras regiones de la Unión Europea, no es ajena a este fenómeno. En nuestra Comunidad Autónoma, al ya tradicional y ampliamente extendido consumo de drogas institucionalizadas como las bebidas alcohólicas y el tabaco, se han incorporado en los últimos años otras sustancias de un consumo prevalente en otras culturas, tal es el caso de los opiáceos y de los derivados del cannabis y de la planta de la coca.
+La Administración de la Comunidad de Castilla y León, consciente de que el consumo de drogas no es un problema coyuntural y de sus repercusiones sanitarias y sociales, ha aprobado en 1988 y 1991 sendos Planes Regional y Sectorial sobre Drogas (Decretos 252/1988 y 358/1991), el último de los cuales se encuentra en la actualidad en vigor. De forma complementaria, la Junta de Castilla y León ha aprobado una serie de normas en materia de coordinación, acreditación de centros y servicios de atención a toxicómanos y tratamiento con sustitutivos opiáceos a personas dependientes de los mismos, como apoyo a las actuaciones contempladas en los citados planes. Asimismo, las drogodependencias tienen la consideración de área de intervención prioritaria en el Plan Estratégico de Salud para la Comunidad Autónoma (Decreto 68/1991).
+No obstante, es preciso profundizar en este esfuerzo normativo con la formulación de una norma con rango de Ley que se aproxime a las drogodependencias desde una perspectiva global, en la que se consideren de una forma integral el conjunto de actuaciones de prevención, asistencia e integración social de drogodependientes y en la que se preste atención a todas las drogas, desde el acohol y el tabaco, hasta las no institucionalizadas como el cannabis, la heroína y la cocaína.
+II
+La Constitución Española en su Título I, artículo 43, consagra el derecho de todos los ciudadanos a la protección de la salud, al tiempo que establece la responsabilidad de los poderes públicos como garantía fundamental de este derecho. Asimismo, en el Capítulo III de este mismo Título se recogen los principios rectores de la Política Social del Estado, al señalar las prestaciones a que están obligados los poderes públicos en materia de servicios sociales y asistencia social. Al mismo tiempo, el Título VIII establece una nueva articulación del Estado cuya implantación progresiva debe suponer una reordenación de las competencias entre las distintas Administraciones Públicas.
+La Ley Orgánica 4/1983, del Estatuto de Autonomía de Castilla y León, en su Título II, delimita las competencias y establece la capacidad de desarrollo legislativo de la Comunidad de Castilla y León.
+En este marco legislativo, es objeto de la presente Ley la ordenación general del conjunto de actuaciones y actividades de las entidades públicas y privadas destinadas a la prevención de las drogodependencias y a la asistencia e integración social de las personas drogodependientes, así como la regulación general de las funciones, competencias y responsabilidades de las Administraciones Públicas y entidades privadas e instituciones dedicadas a las drogodependencias en Castilla y León.
+III
+La Ley sistematiza la experiencia acumulada en la ejecución y evaluación de los planes Regional y Sectorial sobre Drogas de Castilla y León e incorpora las aportaciones técnicas y jurídicas en esta materia de la legislación del Estado, de las Comunidades Autónomas y de otros países afines.
+La presente Ley se propone transmitir de forma clara a la sociedad y a sus instituciones la relevancia del problema y el compromiso de los poderes públicos para mitigar las consecuencias derivadas del consumo de drogas y para promocionar de forma activa hábitos de vida saludables y una cultura de la salud que incluya el rechazo del consumo de drogas, de modo que la Ley adopta como prioritarias las políticas preventivas.
+Con la Ley se persigue, asimismo, trasladar un mensaje de normalización, solidaridad y apoyo social hacia las personas drogodependientes, al tiempo que se profundiza en la articulación de una serie de instrumentos de coordinación, planificación, participación y financiación de las actuaciones en materia de drogas que se lleven a cabo en la Comunidad Autónoma.
+IV
+La presente Ley se estructura en ocho títulos. En el Título Preliminar se establece el objeto y los principios rectores de la Ley, con un énfasis especial en las actuaciones preventivas y en la responsabilidad eminentemente pública de las acciones en materia de drogas.
+Seguidamente se establecen en dos títulos diferenciados las actuaciones tendentes a la reducción de la demanda a través de las medidas preventivas y de asistencia e integración social de las personas drogodependientes. El esquema de presentación es similar en cada título, enumerando a la vez un contenido programático (objetivos, criterios y ambitos de actuación) y normativo (actuaciones preferentes en cada caso).
+El Título III se consagra a las actuaciones tendentes a reducir la oferta a través de las medidas de control, en las que se presta una especial atención a las limitaciones a la publicidad, promoción, venta y consumo de bebidas alcohólicas y tabaco.
+Los instrumentos de planificación, coordinación y participación se establecen en el Título IV, donde el Plan Regional sobre Drogas se constituye como el principal elemento estratégico de planificación y ordenación de las actuaciones que en materia de drogas se lleven a cabo en Castilla y León. Asimismo, la Ley crea los órganos necesarios para garantizar una adecuada integración y coordinación de las actuaciones de diferentes sectores de la gestión pública (Sanidad, Servicios Sociales, Educación, Juventud, Cultura, etc.) y de la iniciativa social. Precisamente, en este título se destaca el importante papel que desempeña la iniciativa social para abordar de forma específica los problemas ocasionados por el consumo de drogas.
+Por último, los Títulos V, VI y VII regulan, respectivamente, las competencias y responsabilidades de las diferentes Administraciones Públicas de Castilla y León, las infracciones y sanciones y las formas de financiación de las Administraciones Públicas en esta materia.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+1. La presente Ley tiene por objeto:
+a) La ordenación general, en el marco de las competencias que estatutariamente corresponden a la Comunidad de Castilla y León, y dentro de su ámbito territorial, del conjungo de actuacioines y actividades de las entidades públicas y privadas destinadas a la prevención de las drogodependencias y a la asistencia e integración social de las personas drogodependientes.
+b) La regulación general de las funciones y competencias en la materia de las Administraciones Públicas, entidades privadas e instituciones, como marco de referencia para la necesaria cooperación y coordinación en la prevención, asistencia e integración social de drogodependientes.
+c) La configuración del Plan Regional sobre Drogas como el instrumento estratégico para la planificación y ordenación de las actuaciones que en materia de drogas se lleven a cabo en Castilla y León.
+d) La protección a terceras personas de los perjuicios que pueda causarles el consumo de drogas.
+2. Las prescripciones contenidas en la presente Ley serán de aplicación a las diferentes actuaciones, tanto individuales como colectivas, de titularidad pública o privada, que en materia de drogas se realicen dentro del ámbito territorial de la Comunidad de Castilla y León.
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+1. A los efectos de esta Ley, se consideran drogas aquellas sustancias que, administradas al organismo, son capaces de generar dependencia, provocan cambios en el comportamiento y efectos nocivos para la salud y el bienestar de las personas. Tienen tal consideración:
+a) Las bebidas alcohólicas.
+b) El tabaco.
+c) Las sustancias estupefacientes y psicotrópicas sometidas a control en virtud de las normas nacionales y convenios internacionales suscritos por el Estado español.
+d) Otras sustancias de uso industrial o vario capaces de producir los efectos y consecuencias antes descritos.
+2. En el marco de esta Ley, se consideran las bebidas alcohólicas y el tabaco como las principales drogas institucionalizadas.
+3. Se entiende por drogodependencia aquella alteración del comportamiento que afecta al estado físico, psicológico y social del individuo y que se caracteriza por una tendencia al consumo compulsivo y continuado de drogas.
+4. A los efectos de esta Ley, se entiende por consumo de drogas el uso no terapéutico, inadecuado o perjudicial de las mismas.
+
+### Artículo 3
+
+Artículo 3. Principios rectores.
+Las actuaciones en materia de drogas en la Comunidad de Castilla y León responderán a los siguientes principios rectores:
+1. La responsabilidad pública, en coordinación y colaboración con las entidades privadas e instituciones, en la intervención sobre las condiciones sociales y culturales favorecedoras del consumo de drogas institucionalizadas y no institucionalizadas y sobre sus consecuencias a nivel individual, familiar y social.
+2. La promoción activa, particularmente durante la infancia, la adolescencia y la juventud, de hábitos de vida saludables y de una cultura de la salud que incluya el conocimiento de las consecuencias del consumo de drogas, su rechazo, así como la solidaridad social con las personas con problemas de drogodependencia.
+3. La consideración integral e interdisciplinar del proceso continuado de la prevención de las drogodependencias, asistencia e integración social del drogodependiente, mediante la coordinación de diferentes actuaciones sectoriales.
+4. La consideración de la intervención en drogodependencias como una tarea social colectiva, mediante la coordinación de las actuaciones de las Administraciones públicas, entidades privadas e instituciones, sobre el principio de descentralización, responsabilidad y autonomía en la gestión de los programas y servicios.
+5. La participación activa de la comunidad en el diseño, ejecución y control de las intervenciones destinadas a abordar los problemas relacionados con el consumo de drogas.
+6. La consideración de las drogodependencias como una enfermedad con repercusiones en las esferas biológica, psicológica y social del individuo, mediante la integración de las actuaciones de asistencia e integración social del drogodependiente en los Sistemas Sanitario y de Acción Social.
+7. La selección e implantación de las actuaciones y programas en materia de drogas en el marco de la ordenación sanitaria y de acción social de la Comunidad de Castilla y León, con sujeción a criterios de eficiencia y evaluación continua de resultados.
+8. La consideración prioritaria de las políticas y actuaciones preventivas en materia de drogodependencias.
+9. El derecho de las personas a disfrutar de igualdad de oportunidades en función de sus necesidades para desarrollar y mantener su propia salud y bienestar social a través del acceso, sin ninguna discriminación, a los servicios prestados por las Administraciones públicas o Entidades Privadas y Concertadas.
+Se modifican los apartados 2 y 4 y se añade el 9 por el art. único.1 y 2 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 4
+
+Artículo 4. Sujetos protegidos.
+1. Son sujetos protegidos por esta Ley todos los españoles residentes o transeúntes en el territorio de la Comunidad de Castilla y León.
+2. Las extranjeros que se encuentren en la Comunidad podrán beneficiarse de lo establecido en esta Ley, de acuerdo con lo dispuesto en los tratados y convenios internacionales, así como en el resto de las disposiciones vigentes.
+Asimismo, serán sujetos protegidos por esta Ley, en las mismas condiciones que los españoles, las personas extranjeras drogodependientes que acudan a los servicios o centros asistenciales en situaciones de urgencia o emergencia; las extranjeras dependientes de las drogas durante el periodo de gestación, parto o posparto, así como los menores de edad extranjeros que sean drogodependientes o hijos de padres drogodependientes.
+Se modifica por el art. único.3 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+## TÍTULO I
+
+De la reducción de la demanda a través de las medidas preventivas
+
+### Artículo 5
+
+Artículo 5. Objetivos generales.
+Corresponde a las Administraciones Públicas, en sus respectivos ámbitos de competencias, promover, desarrollar, apoyar, coordinar, controlar y evaluar los programas y actuaciones tendentes a:
+1. Reducir la presencia, promoción, venta y niveles de consumo de drogas.
+2. Aumentar los conocimientos y la responsabilidad de los ciudadanos en materia de prevención de drogodependencias.
+3. Modificar las actitudes y comportamientos de la población en general respecto a las drogodependencias, generando una conciencia social solidaria y participativa frente a este problema.
+4. Intervenir sobre las condiciones sociales y del entorno que favorezcan los factores de riesgo y el consumo de drogas.
+5. Potenciar en el ámbito comunitario en general y en sectores específicos de la población en particular una cultura de la salud, repudiadora del consumo de drogas.
+
+### Artículo 6
+
+Artículo 6. Criterios de actuación.
+1. Las actuaciones desarrolladas en materia de prevención de las drogodependencias por las Administraciones Públicas de Castilla y León, en colaboración con las entidades privadas e instituciones, deberán enmarcar la prevención de las drogodependencias en un ámbito general de promoción y educación para la salud.
+2. El ámbito prioritario de la prevención de las drogodependencias será el comunitario. Dicha prevención se realizará mediante el desarrollo de programas, en cuya elaboración deberá participar activamente la comunidad a través de sus grupos organizados y en los que se asignarán funciones concretas a los distintos sistemas comunitarios.
+3. Los programas preventivos combinarán su carácter educativo, orientado a la modificación de actitudes y hábitos, con la promoción de comportamientos incompatibles con el consumo de drogas. Dichos programas deberán, asimismo, ser sistemáticos en sus actuaciones, permanentes en el tiempo y susceptibles de ser evaluados.
+4. Los programas preventivos se dirigirán preferentemente a sectores concretos de la población y contarán en su diseño, ejecución y evaluación con la participación de personas y grupos organizados con capacidad de liderazgo reconocida, que pueda favorecer el cumplimiento de los objetivos del programa. En la comunicación de mensajes deberán escogerse los emisores con mayor credibilidad y los medios que permitan llegar con mayor precisión a los destinatarios.
+
+### Artículo 7
+
+Artículo 7. Actuaciones prioritarias.
+1. La Administración de la Comunidad de Castilla y León, dentro de su ámbito de competencia y en colaboración con otras Administraciones Públicas, entidades privadas e instituciones, promoverá las siguientes actuaciones:
+a) La acreditación de los programas de prevención que se realicen en Castilla y León.
+b) La realización de una política global preventiva que, mediante diferentes actuaciones sectoriales coordinadas, incida sobre los factores sociales, educativos, culturales, sanitarios y económicos que favorecen el consumo de drogas en la comunidad.
+c) La inclusión de la educación para la salud a lo largo de todo el proceso educativo, con un enfoque común a todas las materias y prestando particular atención, dentro de ella, a la prevención de las drogodependencias.
+d) La promoción del asociacionismo juvenil y de alternativas saludables de ocio y tiempo libre, especialmente dirigidas a colectivos de jóvenes sometidos a condiciones favorecedoras del consumo de drogas.
+Estas actuaciones se llevarán a cabo de manera coordinada y continuada con las actividades realizadas en el ámbito escolar.
+e) La realización de programas de prevención de las drogodependencias en el ámbito laboral, especialmente dirigidos a las principales drogas institucionalizadas y a sectores de producción con alta prevalencia de consumo de drogas, así como a otros en los que su uso pueda poner en peligro la vida de terceras personas.
+f) La realización de programas comunitarios de prevención de las drogodependencias dirigidos a aquellas zonas urbanas y rurales con mayor incidencia y prevalencia, bajo el impulso, coordinación, ejecución y evaluación de las corporaciones locales, preferentemente a través de los centros de Acción Social en coordinación con los equipos de atención primaria. Los programas comunitarios que con participación de distintas corporaciones municipales abarquen un ámbito comarcal, serán considerados prioritarios y contarán con una coordinación específica.
+2. Como soporte a todas estas actuaciones prioritarias, las Administraciones Públicas competentes solicitarán la colaboración de los medios de comunicación social, especialmente mediante la difusión de mensajes preventivos. Las Administraciones Públicas invitarán a los profesionales de la información a los cursos, encuentros o sesiones informativas que celebren.
+3. Los programas preventivos contarán en su diseño, ejecución y evaluación con la participación de los sectores implicados a través de sus asociaciones, entidades y profesionales. Asimismo, se promoverá la adecuada formación de los interlocutores sociales.
+Se modifica el apartado 1.f) por el art. 34.1 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+## TÍTULO II
+
+De la asistencia y la integración social
+
+## CAPÍTULO I
+
+De las medidas generales de asistencia e integración social
+
+### Artículo 8
+
+Artículo 8. Objetivos generales.
+Las acciones que se desarrollen en la Comunidad de Castilla y León orientadas hacia las personas drogodependientes tendrán por finalidad:
+1. Garantizar la asistencia a las personas afectadas por problemas de consumo y dependencia de drogas en condiciones de equidad con otras enfermedades, asegurando en todo caso la calidad y eficacia de los diferentes servicios y programas integrados en la Red Asistencial de Utilización Pública.
+2. Asegurar la coordinación entre los distintos servicios del sistema de asistencia e integración social del drogodependiente.
+3. Garantizar el respeto a los derechos de las personas drogodependientes como usuarios de los distintos servicios.
+4. Estimular la demanda asistencial y el contacto de las personas drogodependientes con el conjunto de dispositivos del sistema.
+5. Mejorar los niveles de salud de las personas drogodependientes.
+6. Mitigar la problemática social y jurídico-penal de la población drogodependiente.
+7. Potenciar las fórmulas de integración social del drogodependiente en un entorno social normalizado a lo largo de todo el proceso asistencial.
+8. Crear el clima y la cultura social que favorezca la solidaridad y la colaboración de la comunidad en la asistencia e integración social del drogodependiente.
+
+### Artículo 9
+
+Artículo 9. Criterios de actuación.
+Los servicios sanitarios, sociosanitarios y sociales de la Comunidad de Castilla y León adecuarán sus actuaciones a los siguientes criterios:
+1. La oferta terapéutica para la atención a las personas drogodependientes deberá ser accesible y diversificada, profesionalizada y de carácter interdisciplinar. Dicha oferta estará basada en programas asistenciales individualizados, flexibles en sus objetivos terpéuticos y planteamientos de intervención y desarrollados con un enfoque activo que estimule la demanda asistencial.
+2. La asistencia a las personas drogodependientes se prestará preferentemente en el ámbito comunitario, y siempre en la mayor proximidad posible a su entorno sociofamiliar, por lo que se potenciarán los dispositivos y programas asistenciales en régimen ambulatorio e intermedio.
+3. La atención al drogodependiente y sus familiares se realizará a través del Sistema Sanitario Público y del Sistema de Acción Social de Castilla y León, incrementando sus recursos en función de las necesidades de la población e incorporando, cuando sea necesario, los recursos privados, convenientemente acreditados, para completar y diversificar los programas terapéuticos.
+4. La integración social del drogodependiente es el objetivo final del proceso asistencial, por lo que se potenciarán las estructuras de paso en los programas asistenciales, así como la coordinación entre éstos y los de reinserción social, y en todo caso los aspectos relacionales, educativos y laborales del proceso de recuperación.
+5. La integración social de las personas drogodependientes se apoyará en las redes generales y en su familia y entorno afectivo, adoptando, cuando sea necesario, medidas especiales destinadas a conseguir la igualdad de oportunidades.
+6. La evaluación permanente de los procesos y resultados de los diferentes centros, servicios y modelos de atención.
+
+### Artículo 10
+
+Artículo 10. Actuaciones prioritarias.
+La Administración de la Comunidad de Castilla y León, dentro de su ámbito de competencia y en colaboración con las Administraciones Públicas correspondientes y las entidades privadas e instituciones convenientemente acreditadas, promoverá las siguientes actuaciones:
+1. La atención a los drogodependientes desde las redes generales de los Sistemas sanitario y de acción social, especialmente en el nivel primario.
+2. La ampliación de la red de centros específicos de atención ambulatoria a drogodependientes, estableciéndose, al menos, un centro de estas características en cada área de salud.
+3. La potenciación de los programas asistenciales en régimen intermedio, así como la ampliación de la cobertura asistencial de los tratamientos en régimen residencial.
+4. La potenciación de programas de integración social de personas drogopendientes y de asesoramiento a sus familiares.
+5. La realización de programas encaminados a la reducción de daños y la mejora de las condiciones generales de salud del drogodependiente, incluyendo de manera prioritaria actividades de educación sanitaria, consejo y apoyo psicológico a usuarios de drogas infectados por el VIH o enfermos del SIDA y a sus familiares.
+6. La creación y extensión regional de programas específicos dirigidos a la población drogodependiente de alta cronicidad y máximo riesgo sanitario. Estos programas incluirán la accesibilidad a tratamientos con sustitutivos y opiáceos, al control sanitario y a la atención social, personalizada y familiar.
+7. La potenciación de programas de formación ocupacional y profesional del drogodependiente, con objeto de conseguir su progresiva incorporación social y laboral.
+8. La sensibilización de la sociedad en general, con el fin de promover la participación activa y solidaria de la comunidad en el proceso de asistencia e integración social del drogodependiente y de modificar las actitudes negativas hacia el mismo.
+
+### Artículo 11
+
+Artículo 11. Ámbito judicial y penitenciario.
+La Administración de la Comunidad de Castilla y León:
+1. Promoverá y proporcionará soporte para la realización de programas de educación sanitaria y atención a internos drogodependientes, en colaboración con la Administración Penitenciaria, así como a menores drogodependientes infractores.
+2. Proporcionará a los drogodependientes, a través de centros y servicios públicos o privados acreditados, medidas alternativas a la privación de libertad formuladas por los órganos jurisdiccionales, incluidas aquellas derivadas de la aplicación de la legislación reguladora de la responsabilidad penal de los menores. En todos estos casos, la competencia en la adopción de decisiones terapéuticas residirá en los equipos del sistema de asistencia e integración social del drogodependiente de la Comunidad de Castilla y León.
+3. Impulsará programas y colaborará con otras Administraciones públicas para la atención de los drogodependientes con problemas jurídico-penales y para reforzar la comunicación, coordinación y cooperación de los diferentes agentes implicados en la rehabilitación e integración social de estos drogodependientes, promoviendo, en su caso, la formalización de convenios con la Administración de Justicia y con la Administración Penitenciaria.
+Se modifica por el art. único.4 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 12
+
+Artículo 12. Ámbito laboral.
+1. La Administración de la Comunidad de Castilla y León impulsará programas de motivación de la demanda de atención de trabajadores con problemas de consumo de drogas en el ámbito laboral.
+En el diseño, ejecución y evaluación de estos programas deberán participar de manera prioritaria los sindicatos, empresarios, servicios médicos de empresa y comités de prevención de riesgos laborales.
+2. Se fomentarán los acuerdos entre organizaciones empresariales y sindicales tendentes a la reserva del puesto de trabajo de las personas drogodependientes durante su proceso de recuperación, y al desestimiento del ejercicio de las potestades disciplinarias que reconoce la legislación laboral en casos de problemas derivados del abuso de drogas. La Administración de la Comunidad de Castilla y León facilitará en el marco de dichos acuerdos la atención a los trabajadores afectados.
+3. La Administración de la Comunidad de Castilla y León, en sus centros, establecimientos y servicios, reservará el puesto de trabajo de la persona drogodependiente durante el proceso de tratamiento.
+
+## CAPÍTULO II
+
+De los derechos de las personas drogodependientes ante los sistemas sanitario y de acción social
+
+### Artículo 13
+
+Artículo 13. Derechos.
+1. Las personas drogodependientes o con problemas derivados del consumo de drogas acogidas al ámbito de esta Ley, en su consideración de enfermos, disfrutan de todos los derechos reconocidos en el ordenamiento jurídico vigente para los usuarios de los servicios sanitarios, sociosanitarios y sociales de la Comunidad de Castilla y León, mereciendo particular atención los siguientes:
+a) A la información sobre los servicios a los que puede acceder y requisitos y exigencias que plantea su tratamiento.
+b) A la gratuidad de la asistencia, dentro del sistema sanitario público y de los centros privados concertados, con las excepciones que se pudieran determinar reglamentariamente.
+c) A recibir un tratamiento adecuado, prestado por centro y servicio acreditado.
+d) A la igualdad de acceso a los dispositivos asistenciales y al respeto de su personalidad, dignidad e intimidad, sin que pueda ser discriminado por ninguna causa.
+e) A la voluntariedad para iniciar y cesar el tratamiento, excepto en los casos señalados en la legislación vigente.
+f) A la confidencialidad de toda la información relacionada con su proceso y estancia en cualquier dispositivo asistencial de Castilla y León.
+g) A información completa y gratuita, comprensible y continuada, verbal y escrita, sobre el proceso de tratamiento que esté siguiendo.
+h) A que se le extienda certificación gratuita acreditativa sobre su situación, así como sobre el tratramiento que haya seguido o esté siguiendo.
+i) A que quede constancia por escrito o en soporte técnico adecuado de todo su proceso asistencial.
+2. Los derechos reconocidos en el apartado anterior serán igualmente de aplicación a las familias de las personas drogodependientes en los supuestos expresamente previstos en el ordenamiento jurídico.
+Se modifica por el art. único.5 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 14
+
+Artículo 14. Garantías de los derechos.
+1. La Junta de Castilla y León establecerá reglamentariamente el contenido y alcance específico de dichos derechos y las garantías de reparación que procedan por su incumplimiento.
+2. Las infracciones por violación de estos derechos estarán sometidas al régimen sancionador contemplado en esta Ley, sin perjuicio de las responsabilidades disciplinarias o de otro tipo del personal autor de las mismas.
+3. Los centros y servicios sanitarios, sociosanitarios y sociales públicos y privados de atención al drogodependiente dispondrán de información accesible de los derechos de los pacientes y hojas de reclamaciones y sugerencias, así como de medios para la atención de la información, reclamaciones y sugerencias del público.
+4. El ingreso de una persona en un centro o servicio vendrá precedido de la firma del correspondiente contrato terapéutico, en el que se reflejen con claridad los derechos y obligaciones a observar en el proceso de recuperación.
+
+## CAPÍTULO III
+
+De sistema de asistencia e integración social del drogodependiente
+
+### Artículo 15
+
+Artículo 15. Características generales.
+1. El sistema de asistencia e integración social del drogodependiente se configura como una red asistencial de utilización pública diversificada. En este sistema se integran de forma coordinada centros y servicios generales, especializados y específicos del sistema sanitario público y del sistema de acción social, complementados con recursos privados debidamente acreditados. En ningún caso los recursos del sistema de asistencia e integracio social del drogodependiente formarán una red propia separada de las redes de asistencia generales.
+2. La Junta de Castilla y León establecerá reglamentariamente los requisitos y procedimientos para la autorización administrativa y acreditación de los centros y servicios de atención al drogodependiente.
+
+### Artículo 16
+
+Artículo 16. Niveles asistenciales.
+El sistema de asistencia e integración social del drogodependiente se estructura en tres niveles básicos de intervención. El circuito terapéutico, la jerarquización de los recursos, las condiciones de acceso y derivación de drogodependientes al mismo, así como la inclusión de niveles complementarios de intervención, serán determinados y desarrollados por el Plan Regional sobre Drogas.
+En todo caso, la configuración del circuito terapéutico supone la aceptación de los diferentes centros, servicios y programas de los objetivos generales de la atención, de un estilo de trabajo común, de una necesidad de coordinación y de las funciones que la Ley y el plan atribuyen a cada nivel y servicio.
+
+### Artículo 17
+
+Artículo 17. Primer nivel.
+1. El primer nivel estará constituido por:
+a) Los equipos de atención primaria, distribuidos en zonas básicas de salud.
+b) Los centros de acción social, distribuidos en zonas básicas de acción social.
+c) Los programas que se determinen desarrollados por asociaciones de ayuda y autoayuda y otras entidades.
+2. Son funciones del nivel primario de atención a las personas drogodependientes:
+a) Información, orientación, motivación y educación sanitaria.
+b) Diagnóstico y detección precoz.
+c) Atención a su problemática social y a las patologías somáticas asociadas al consumo de drogas.
+d) Apoyo a su proceso de incorporación social.
+e) Apoyo a sus familias y entorno afectivo.
+El Plan Regional establecerá los mecanismos de coordinación y reparto de funciones entre los centros, servicios y asociaciones, garantizando una actuación integral en el territorio.
+
+### Artículo 18
+
+Artículo 18. Segundo nivel.
+1. El segundo nivel estará constituido por:
+a) Centros específicos acreditados de atención ambulatoria a drogodependientes, de los que existirán, al menos, uno por área de salud que se constituirán en dispositivo de referencia para este nivel.
+b) Equipos de Salud Mental de Distrito.
+c) Unidades de Psiquiatría de Hospitales Generales.
+d) Programas de rehabilitación en régimen intermedio.
+e) Hospitales Generales.
+f) Centros y programas acreditados de tratamiento con sustitutivos opiáceos.
+En cada área de salud existirán, en la medida en que las disponibilidades lo permitan, todos los servicios y programas enunciados.
+2. Son funciones básicas de los servicios y programas del segundo nivel las siguientes:
+a) La desintoxicación, deshabituación y rehabilitación ambulatoria.
+b) El apoyo a los procesos de integración social.
+c) La atención a la patología somática asociada al consumo de drogas.
+d) La atención a las urgencias provocadas por el consumo de drogas.
+e) La educación sanitaria y apoyo psicológico a drogodependientes infectados por el VIH y enfermos del SIDA.
+
+### Artículo 19
+
+Artículo 19. Tercer nivel.
+1. El tercer nivel estará constituido por los siguientes centros y servicios, con ámbito de actuación regional:
+a) Unidades de Desintoxicación Hospitalaria.
+b) Comunidades Terapéuticas Acreditadas.
+2. Es función de las Unidades de Desintoxicación Hospitalaria la desintoxicación de personas drogodependientes.
+3. Son funciones básicas de las Comunidades Terapéuticas Acreditadas la desintoxicación, deshabituación y rehabilitación en régimen residencial de personas drogodependientes.
+
+## TÍTULO III
+
+De la reducción de la oferta a través de las medidas de control
+
+## CAPÍTULO I
+
+De las limitaciones a la publicidad y promoción de bebidas alcohólicas y tabaco
+
+### Artículo 20
+
+Artículo 20. Condiciones de la publicidad.
+1. Además de las limitaciones establecidas en la Ley 34/1988, de 11 de noviembre, General de Publicidad y en la Ley 28/2005, de 26 de diciembre, de medidas sanitarias frente al tabaquismo y reguladora de la venta, el suministro, el consumo y la publicidad de los productos del tabaco, la publicidad, tanto directa como indirecta, de bebidas alcohólicas y de los productos del tabaco deberá respetar, en todo caso, las siguientes limitaciones:
+a) No está permitida la publicidad de bebidas alcohólicas y productos del tabaco dirigida a menores de 18 años, que utilice argumentos dirigidos a los mismos, o que utilice mensajes, conceptos, lenguaje, escenas, imágenes, dibujos, iconos o personajes de ficción o de relevancia pública vinculados directa y específicamente a los menores de edad.
+b) En los medios de comunicación social editados en la Comunidad Autónoma, se prohíbe la publicidad de bebidas alcohólicas en los programas, páginas o secciones dirigidas preferentemente al público infantil y juvenil.
+c) Asimismo, queda prohibida la utilización de la imagen y la voz de menores de 18 años en la confección de la publicidad de bebidas alcohólicas y productos del tabaco.
+d) No estará permitido que los mensajes publicitarios de las bebidas alcohólicas y productos del tabaco inciten a un consumo abusivo de estos productos o se asocien a una mejora del rendimiento físico o psíquico; al éxito social o sexual; a efectos terapéuticos, sedantes o estimulantes; a contribuir a superar la timidez o a resolver conflictos; a la realización de actividades educativas, sanitarias y deportivas; a la conducción de vehículos y al manejo de armas y, en general, a actividades que impliquen riesgo para los consumidores o responsabilidades sobre terceros. Asimismo, queda prohibido ofrecer una imagen negativa de la abstinencia o de la sobriedad.
+2. La Administración de la Comunidad de Castilla y León realizará cuantas actuaciones sean necesarias para formalizar acuerdos con empresas fabricantes y distribuidoras de bebidas alcohólicas y productos del tabaco, destinados al autocontrol y a la autolimitación de la publicidad y a prevenir el consumo y el abuso de estos productos, especialmente entre los menores de edad.
+3. La Administración de la Comunidad de Castilla y León no utilizará como soportes informativos o publicitarios objetos relacionados con el consumo de tabaco y bebidas alcohólicas.
+Se modifican los apartados 1 y 2 por el art. único.6 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 21
+
+Artículo 21. Prohibiciones de la publicidad de bebidas alcohólicas.
+Se prohíbe expresamente la publicidad directa e indirecta de bebidas alcohólicas en:
+a) Los centros y dependencias de las Administraciones públicas y otros entes públicos.
+b) Los centros sanitarios, sociosanitarios y de servicios sociales.
+c) Los centros docentes y formativos, independientemente de la edad del alumnado y del tipo de enseñanza.
+d) Los centros destinados mayoritariamente a un público menor de 18 años.
+e) Las instalaciones y recintos deportivos, cuando se celebren en ellos competiciones o acontecimientos deportivos, o actividades destinadas fundamentalmente a menores de 18 años.
+f) Los espectáculos cinematográficos recomendados para todos los públicos o para menores de 18 años.
+g) Los espectáculos teatrales, musicales, culturales y de otro tipo dirigidos fundamentalmente a menores de 18 años.
+h) El interior y exterior de los medios de transporte público, incluidas las estaciones de autobuses urbanos e interurbanos y sus paradas intermedias, las estaciones de ferrocarril y los aeropuertos, excepto sus zonas internacionales.
+i) Las vías, zonas y espacios públicos que se encuentren a una distancia lineal inferior a cien metros de la entrada de los centros educativos a los que acudan menores de edad, o en lugares que sean ostensiblemente visibles desde los mismos.
+Se modifica por el art. único.7 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 22
+
+Artículo 22. Promoción.
+Sin perjuicio de lo establecido en la Ley 28/2005, de 26 de diciembre, de medidas sanitarias frente al tabaquismo y reguladora de la venta, el suministro, el consumo y la publicidad de los productos del tabaco, la promoción de las principales drogas institucionalizadas estará sometida a las siguientes limitaciones:
+a) Las actividades de promoción de bebidas alcohólicas y productos del tabaco en ferias, certámenes, exposiciones y actividades similares se situarán en espacios diferenciados cuando tengan lugar dentro de otras manifestaciones públicas. En estas actividades no estará permitido el acceso a menores de 18 años que no vayan acompañados de personas mayores de edad.
+b) Estará prohibida la promoción de bebidas alcohólicas mediante la distribución de información por buzones, correo, teléfono, servicios de la sociedad de la información y, en general, mediante cualquier mensaje que se envíe a un domicilio, salvo que vaya dirigido nominalmente a mayores de 18 años, o no resulte significativa en relación al conjunto del envío publicitario.
+c) Se prohíbe la promoción de bebidas alcohólicas realizada por establecimientos y locales donde se vendan, suministren o consuman, que suponga una incitación directa a un consumo abusivo de éstas, mediante ofertas promocionales, premios, canjes, sorteos, concursos, fiestas o rebajas en los precios.
+d) No podrán patrocinar ni financiar actividades deportivas o culturales dirigidas fundamentalmente a menores de edad, aquellas personas físicas y jurídicas cuya actividad principal o conocida sea la fabricación, promoción o distribución de bebidas alcohólicas, si ello lleva aparejada la publicidad de dicho patrocinio o la difusión de marcas, símbolos, imágenes o sonidos relacionados con las bebidas alcohólicas.
+Se modifica por el art. único.8 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+## CAPÍTULO II
+
+De las limitaciones a la venta y consumo de bebidas alcohólicas
+
+### Artículo 23
+
+Artículo 23. Prohibiciones.
+1. Para contribuir a la reducción del abuso de bebidas alcohólicas, las Corporaciones Locales de Castilla y León establecerán los criterios que regulen la localización, distancia y características que deberán reunir los establecimientos de suministro y venta de este tipo de bebidas, así como su venta y consumo en la vía pública.
+2. En las localidades de población superior a 1.000 habitantes que no cuenten con ordenanza reguladora de la distancia y localización de establecimientos de venta de bebidas alcohólicas, y en tanto no cuenten con la misma, la distancia mínima entre las puertas de acceso de los establecimientos será de 25 metros.
+3. En el territorio de la Comunidad de Castilla y León no se permitirá ninguna forma de venta, entrega, ofrecimiento, suministro o dispensación, gratuita o no, de bebidas alcohólicas a los menores de 18 años. En caso de duda, el vendedor o suministrador deberá solicitar al consumidor la acreditación de la edad mediante documento de valor oficial.
+Se prohíbe, asimismo, la venta o entrega a dichos menores de cualquier otro producto que imite las bebidas alcohólicas e induzca a su consumo, en particular, bebidas, dulces, refrigerios, juguetes y otros objetos que tengan formas semejantes a sus presentaciones y puedan resultar atractivos para ellos.
+4. No se permitirá la venta y el consumo de bebidas alcohólicas en:
+a) Los centros de trabajo, públicos y privados, salvo en los lugares expresamente habilitados al efecto.
+b) Los centros sanitarios y los centros docentes salvo lo previsto en el apartado 5 a) de este mismo artículo.
+c) Los centros sociosanitarios y de servicios sociales, salvo en los lugares expresamente habilitados al efecto.
+d) Los centros de asistencia a menores.
+e) Los centros de esparcimiento y ocio destinados a menores de 18 años.
+f) Los espacios recreativos, como parques temáticos u otros lugares de entretenimiento y de divulgación de conocimientos, salvo los expresamente habilitados al efecto.
+g) Las instalaciones y recintos deportivos, salvo los lugares expresamente habilitados al efecto, en los que se podrán vender y consumir bebidas alcohólicas cuando no se celebren competiciones, acontecimientos deportivos, o actividades dirigidas fundamentalmente a menores de 18 años.
+h) Las gasolineras y estaciones de servicio.
+i) Las áreas de servicio y descanso de las autopistas y autovías, salvo lo dispuesto en el apartado 5 b) de este mismo artículo.
+5. No se permitirá la venta y consumo de bebidas alcohólicas de más de 18.º centesimales en:
+a) Los centros docentes donde exclusivamente se imparta educación superior, en los lugares expresamente habilitados al efecto.
+b) Los establecimientos comerciales, de hostelería y restauración existentes en las gasolineras, estaciones de servicio y áreas de servicio y descanso de autopistas y autovías.
+c) Los espacios expresamente habilitados para la venta y consumo de bebidas alcohólicas en los centros y lugares que se señalan en el apartado 4 del presente artículo, salvo las actividades estrictamente profesionales realizadas en las propias instalaciones del sector de la industria de las bebidas alcohólicas:
+6. En todos los establecimientos comerciales se adoptarán medidas especiales de control para evitar la venta de bebidas alcohólicas a los menores de 18 años. En los establecimientos de autoservicio, la exposición de bebidas alcohólicas se realizará en una sección concreta con carteles informativos de la prohibición de su venta a los menores de 18 años.
+7. En todos los establecimientos públicos donde se vendan, dispensen o consuman bebidas alcohólicas, deberá exhibirse y tener fijado un cartel claramente visible, tanto en los accesos a los mismos como en su interior, en el que se advierta sobre la prohibición de vender bebidas alcohólicas a los menores de 18 años y sobre los perjuicios para la salud derivados del abuso de éstas. Las características de estos carteles se determinarán reglamentariamente.
+Se modifica el apartado 2 por la disposición final 21 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+ Se modifica por el art. único.9 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+ Téngase en cuenta, en relación con la distancia mínima de separación entre los establecimientos, la disposición adicional de la citada ley.
+
+### Artículo 23 bis
+
+Artículo 23 bis. Venta y suministro de bebidas alcohólicas a través de máquinas expendedoras.
+La venta y el suministro de bebidas alcohólicas a través de máquinas expendedoras se realizará de acuerdo con las siguientes condiciones:
+a) Se prohíbe a los menores de 18 años el uso de máquinas expendedoras de bebidas alcohólicas.
+b) Las máquinas expendedoras de bebidas alcohólicas sólo podrán ubicarse en el interior de locales, centros o establecimientos en los que no esté prohibido consumirlas, en una localización que permita la vigilancia directa y permanente de su uso por parte del titular del local o de sus trabajadores. No se podrán situar en las áreas anexas o de acceso previo a los locales, como son las zonas de cortavientos, porches, pórticos, pasillos, vestíbulos, distribuidores, escaleras, soportales o lugares similares que puedan ser parte de un inmueble pero no constituyan propiamente el interior de éste.
+c) Para garantizar el uso correcto de estas máquinas, podrán incorporarse los mecanismos técnicos adecuados que permitan impedir el acceso a los menores de edad.
+d) En la superficie frontal de las máquinas figurará de forma clara y visible, como se determine reglamentariamente, que la venta de bebidas alcohólicas está prohibida a los menores de 18 años, advirtiendo de los perjuicios para la salud derivados del abuso de bebidas alcohólicas.
+Se añade por el art. único.10 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 23 ter
+
+Artículo 23 ter. Convivencia, ocio y consumo de bebidas alcohólicas.
+Con el fin de ordenar la concentración de personas en espacios públicos abiertos y de hacer compatible la convivencia armónica de ciudadanos y la conciliación de derechos como el disfrute del ocio, el descanso y el uso digno de la vivienda y de sus zonas adyacentes, la venta, dispensación y consumo de bebidas alcohólicas estará sometida a las siguientes limitaciones:
+1. La venta y dispensación de bebidas alcohólicas sólo podrá realizarse en el recinto cerrado de los establecimientos autorizados para ello, no permitiéndose su venta, distribución o suministro al exterior ni su consumo fuera del establecimiento, salvo en terrazas o veladores y en las circunstancias excepcionales que establezcan las correspondientes ordenanzas municipales.
+2. Los Ayuntamientos denegarán las correspondientes licencias a los establecimientos e instalaciones que no cumplan lo dispuesto en esta Ley y en la normativa aplicable, especialmente la relativa al ruido y a la prevención ambiental, e impondrán medidas correctoras a los ya existentes para adaptarse a las mismas cuyo incumplimiento determinará, según los casos, la suspensión o la revocación de las correspondientes licencias, además de las correspondientes sanciones.
+Para la concesión de licencias, los ayuntamientos tendrán en cuenta, entre otros, los siguientes criterios:
+a) Acumulación de establecimientos de similar naturaleza.
+b) Lugares en los que se produzca un consumo abusivo de bebidas alcohólicas o se ocasionen molestias que no se puedan resolver con otras medidas correctoras.
+c) Concentración reiterada de personas en el exterior de los establecimientos o emisión prohibida de ruidos, conforme a la normativa sectorial aplicable.
+3. Los establecimientos comerciales minoristas no destinados al consumo inmediato de bebidas alcohólicas no podrán venderlas o suministrarlas, con independencia de su régimen horario, desde las 22 horas hasta las 7 horas del día siguiente. A esta restricción estarán sometidas también la venta ambulante, la venta a distancia y la venta domiciliaria.
+4. No se permitirá el consumo de bebidas alcohólicas en vías, espacios y zonas públicas. No obstante, los ayuntamientos podrán autorizar dicho consumo en determinados espacios y zonas públicas con carácter excepcional y ocasional, siempre que se garantice el cumplimiento de lo establecido por esta Ley y por el resto de la legislación aplicable.
+5. Lo dispuesto en el apartado anterior se entiende sin perjuicio del régimen de autorizaciones extraordinarias al que están sujetas determinadas actividades, como terrazas y veladores, así como del régimen aplicable a las manifestaciones populares, como las ferias y fiestas patronales o locales, cuya concesión, en el ámbito de las competencias de la Administración de la Comunidad de Castilla y León y de las Administraciones Locales, podrá incluir medidas de limitación o restricción en la venta, dispensación y consumo de bebidas alcohólicas.
+6. Los Ayuntamientos serán los responsables de asegurar el cumplimiento de lo establecido en los apartados anteriores, sin perjuicio de la intervención de la Administración de la Comunidad de Castilla y León y de la Administración General del Estado en el ejercicio de sus competencias.
+Se añade por el art. único.11 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 24
+
+Artículo 24. Acceso de menores a locales.
+El acceso de los menores de edad a los locales y establecimientos dedicados especialmente a la venta y suministro de bebidas alcohólicas, así como el establecimiento de sesiones especiales para menores, se regirán por lo establecido en la legislación específica en materia de espectáculos públicos y actividades recreativas.
+Se modifica por el art. único.12 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+## CAPÍTULO III
+
+De las limitaciones a la venta y consumo de tabaco
+
+### Artículo 25
+
+Artículo 25. Limitaciones a la venta.
+Las limitaciones a la venta y suministro de los productos del tabaco se regirán por lo establecido en la Ley 28/2005, de 26 de diciembre, de medidas sanitarias frente al tabaquismo y reguladora de la venta, suministro, el consumo y la publicidad de los productos del tabaco.
+Se modifica por el art. único.13 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 26
+
+Artículo 26. Limitaciones al consumo.
+Las limitaciones al consumo de los productos del tabaco se regirán por lo establecido en la Ley 28/2005, de 26 de diciembre, de medidas sanitarias frente al tabaquismo y reguladora de la venta, el suministro, el consumo y la publicidad de los productos del tabaco.
+Se modifica por el art. único.14 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+## CAPÍTULO IV
+
+De otras medidas de control
+
+### Artículo 27
+
+Artículo 27. Estupefacientes y psicotropos.
+La Administración autonómica competente en materia de asistencia sanitaria elaborará y proporcionará información actualizada a los profesionales y a los usuarios de los servicios sanitarios sobre la utilización terapéutica en Castilla y León de sustancias estupefacientes o psicotrópicas y medicamentos capaces de producir dependencia.
+Se modifica por el art. único.15 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 28
+
+Artículo 28. Inhalables y colas.
+1. Con el fin de evitar su uso como drogas, se prohíbe la venta a menores de 18 años de colas, sustancias químicas y otros productos comerciales inhalables de venta autorizada que puedan producir efectos nocivos para la salud y generar dependencia.
+Queda excluida de esta prohibición la venta de estos productos a mayores de 16 años que acrediten el uso profesional de los mismos.
+2. La relación de productos a los que se refiere el apartado anterior se determinará reglamentariamente.
+Se modifica por el art. único.16 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+## TÍTULO IV
+
+De los instrumentos de planificación, coordinación y participación
+
+## CAPÍTULO I
+
+Del Plan Regional sobre Drogas
+
+### Artículo 29
+
+Artículo 29. Naturaleza y características.
+1. El Plan Regional sobre Drogas es el instrumento estratégico para la planificación y ordenación de las actuaciones que en materia de drogas se lleven a cabo en Castilla y León.
+2. El Plan Regional sobre Drogas sera vinculante para todas las Administraciones Públicas y entidades privadas e instituciones que desarrollen actuaciones en materia de drogas.
+3. La vigencia temporal será fijada en el propio Plan.
+
+### Artículo 30
+
+Artículo 30. Contenido del Plan.
+1. El Plan Regional sobre Drogas contemplará en su redacción, al menos, los siguientes elementos:
+a) Análisis de la problemática y aproximación epidemiológica al consumo de drogas en Castilla y León.
+b) Objetivos generales y objetivos específicos por áreas de intervención.
+c) Criterios básicos de actuación.
+d) Programas y calendario de actuaciones.
+e) Responsabilidades y funciones de las Administraciones Públicas, entidades privadas e instituciones.
+f) Descripción del circuito terapéutico y de los niveles de intervención.
+g) Recursos necesarios para alcanzar los objetivos del Plan.
+h) Mecanismos de evaluación.
+2. El Plan Regional sobre Drogas deberá precisar de forma cuantitativa, en la medida de las posibilidades técnicas y de la eficiencia, sus objetivos, prioridades y estrategias, de modo que pueda medirse su impacto y evaluar sus resultados.
+
+### Artículo 31
+
+Artículo 31. Elaboración y aprobación del Plan.
+1. La elaboración del Plan Regional sobre Drogas corresponde a la Consejería competente en materia de drogodependencias, que procederá a su redacción de acuerdo con las directrices que hayan sido establecidas en esta materia por la Junta de Castilla y León.
+2. En la elaboración del Plan se tendrán en cuenta las propuestas formuladas por los órganos de participación y coordinación que prevé esta Ley.
+3. El Plan Regional sobre Drogas será aprobado por la Junta de Castilla y León a propuesta del titular de la Consejería competente en materia de drogodependencias.
+Se modifican los apartados 1 y 3 por el art. único.17 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+## CAPÍTULO II
+
+De la coordinación
+
+### Artículo 32
+
+Artículo 32. Instrumentos de coordinación.
+Para la coordinación, cooperación, seguimiento y evaluación de las actuaciones contempladas en esta Ley, en el Plan Regional y en los Planes Locales sobre Drogas, existirán los siguientes instrumentos de coordinación:
+a) Comisionado Regional para la Droga.
+b) Red de Planes sobre Drogas.
+c) Comisiones locales de coordinación.
+Se modifica por el art. único.18 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 33
+
+Artículo 33. Comisión Interdepartamental.
+(Suprimido).
+Se suprime por el art. único.19 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 34
+
+Artículo 34. Comisionado Regional para la Droga.
+1. El Comisionado Regional para la Droga de la Junta de Castilla y León es el órgano unipersonal de coordinación de las actuaciones que, en materia de drogas, se lleven a cabo en Castilla y León y de gestión de los recursos destinados específicamente a este fin por la Administración de esta Comunidad Autónoma.
+2. El Comisionado Regional para la Droga quedará adscrito a la Consejería competente en materia de drogodependencias, con rango de Dirección General. Su titular será designado y separado libremente por la Junta de Castilla y León, a propuesta del titular de la Consejería competente en la materia.
+3. Para el desempeño de sus funciones, el Comisionado Regional para la Droga estará dotado de una oficina de apoyo técnico y administrativo. El desarrollo de las funciones del Comisionado, así como los medios materiales y humanos de la oficina, se determinarán reglamentariamente.
+4. El Comisionado elaborará una Memoria anual sobre el funcionamiento del Plan Regional, que será presentada a las Cortes de Castilla y León.
+Se modifica el apartado 2 por el art. único.20 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 35
+
+Artículo 35. Red de Planes sobre drogas.
+1. La coordinación y cooperación entre la Administración de la Comunidad de Castilla y León, los Ayuntamientos de más de 20.000 habitantes y las Diputaciones Provinciales se realizará a través de la Red de Planes sobre Drogas.
+2. Las características, composición, funciones y régimen de funcionamiento de esta Red estarán reglamentariamente determinadas.
+Se modifica por el art. único.21 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 36
+
+Artículo 36. Comisiones locales de coordinación.
+1. Los Ayuntamientos de más de 20.000 habitantes y las Diputaciones Provinciales constituirán comisiones de coordinación, evaluación y seguimiento de los Planes Locales sobre Drogas en su ámbito territorial de competencia.
+2. Las características, composición, funciones y régimen de funcionamiento de estas comisiones serán desarrolladas por la Administración local competente, garantizando la representación y participación de las instituciones públicas y privadas implicadas en la intervención en drogodependencias en su ámbito territorial.
+Se modifica por el art. único.22 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+## CAPÍTULO III
+
+De la participación social
+
+### Artículo 37
+
+Artículo 37. Órgano colegiado de carácter asesor y de participación en materia de drogodependencia.
+1. En la Administración de la Comunidad de Castilla y León existirá un órgano colegiado de carácter asesor y de participación en materia de drogodependencia, adscrito a la consejería competente en esta materia.
+2. Su composición, organización y funcionamiento se regularán reglamentariamente.
+3. Ejercerá las funciones y competencias que se le atribuyan legal o reglamentariamente, así como las que se le encomienden o deleguen.
+Se modifica por el art. 34.2 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+ Se modifica el apartado 2 y se añade el 3 por el art. único.23 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 38
+
+Artículo 38. Funciones del Consejo Asesor.
+(Sin contenido).
+Se deja sin contenido por el art. 34.3 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+ Se modifican las letras i) y j) y se añade la letra k) por el art. único.24 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 39
+
+Artículo 39. Colaboración de la iniciativa privada.
+1. Los centros, servicios, establecimientos y otros dispositivos de atención al drogodependiente de carácter privado podrán integrarse en la Red Asistencial de Utilización Pública mediante la celebración de convenios singulares de vinculación, en los términos que reglamentariamente se determinen.
+2. También podrán establecerse conciertos y conceder subvenciones para la prestación de servicios con medios ajenos a la Red Asistencial de Utilización Pública en los casos de insuficiencia de la misma. Excepcionalmente podrá hacerse uso de servicios no vinculados o no incluidos en conciertos.
+3. Para la celebración de convenios y conciertos tendrán una consideración preferente las entidades u organizaciones sin ánimo de lucro.
+
+### Artículo 40
+
+Artículo 40. Funciones de la iniciativa privada.
+Las entidades privadas e instituciones podrán cooperar con las Administraciones Públicas en el desempeño de las siguientes funciones:
+a) La sensibilización social y la información.
+b) La prevención de las drogodependencias.
+c) La asistencia e integración social de drogodependientes.
+d) La formación.
+e) La investigación y evaluación.
+
+### Artículo 41
+
+Artículo 41. Voluntariado.
+Las Administraciones Públicas y las entidades privadas e instituciones fomentarán la participación del voluntariado social en las actuaciones de prevención, asistencia e integración social del drogodependiente.
+Se modifica por el art. único.25 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+## CAPÍTULO IV
+
+De la investigación
+
+### Artículo 42
+
+Artículo 42. Investigación.
+1. Con objeto de aumentar los conocimientos existentes sobre el fenómeno de las drogodependencias, la Administración de la Comunidad de Castilla y León promoverá la realización de estudios e investigaciones, considerándose áreas prioritarias las siguientes:
+a) Niveles y tendencias en el consumo de drogas.
+b) Actitudes y estados de opinión de la población general respecto al fenómeno de las drogodependencias.
+c) Repercusiones individuales y sociales del consumo de drogas.
+d) Evaluación de los diferentes programas de intervención y, particularmente, de la efectividad de los métodos y programas terapéuticos.
+e) Estilos de vida asociados al consumo de drogas.
+2. La Administración de la Comunidad de Castilla y León impulsará la formalización de convenios de colaboración para potenciar la investigación básica en el campo de las drogodependencias, para los cuales tendrán una consideración preferente las Universidades de Castilla y León.
+3. Asimismo, la Administración de la Comunidad de Castilla y León promoverá acuerdos con empresas fabricantes y distribuidoras de bebidas alcohólicas y tabaco destinados a fomentar la investigación de sustancias sustitutivas de los elementos más nocivos presentes en las mencionadas drogas.
+
+## CAPÍTULO V
+
+De la formación
+
+### Artículo 43
+
+Artículo 43. Formación.
+1. La Administración de la Comunidad de Castilla y León promoverá programas específicos de formación de aquellos colectivos relacionados con la prevención, asistencia e integración social de personas drogrodependientes.
+2. Serán sectores preferentes de formación en el ámbito de las drogodependencias para las Administraciones Públicas los siguientes:
+a) Profesionales de Atención Primaria y Servicios Sociales de Base.
+b) Profesores y padres de alumnos de enseñanza primaria y secundaria.
+c) Representantes de asociaciones juveniles y profesionales que trabajen con este sector de población.
+d) Profesionales de oficinas de farmacia.
+e) Funcionarios de la Administración de Justicia y Penitenciaria.
+f) Profesionales del medio hospitalario de los Servicios de Urgencias y de los Servicios directamente relacionados con la población drogodependiente.
+g) Miembros de asociaciones de ayuda y autoayuda y profesionales de centros y programas específicos de atención a drogodependientes.
+h) Personal de otras instituciones y entidades que desarrollen programas específicos en materia de drogas.
+i) El voluntariado.
+j) Fuerzas y Cuerpos de Seguridad del Estado y Policías Municipales.
+
+## TÍTULO V
+
+De las competencias de las Administraciones Públicas
+
+### Artículo 44
+
+Artículo 44. Competencias de la Junta de Castilla y León.
+Sin perjuicio de las demás competencias que el ordenamiento vigente le atribuye, corresponde a la Junta de Castilla y León:
+1. El establecimiento de las directrices en materia de drogas para la Comunidad de Castilla y León.
+2. La aprobación del Plan Regional sobre Drogas.
+3. (Suprimido).
+4. El nombramiento y cese del Comisionado Regional para la Droga.
+5. (Suprimido).
+6. La aprobación de la estructura de los órganos de coordinación previstos en esta Ley.
+7. La aprobación de la normativa de autorización de apertura y funcionamiento y de acreditación de centros de atención a drogodependientes.
+8. La aprobación, modificación y revisión de las tarifas por la prestación y concertación de servicios que puedan establecerse con instituciones, entidades o particulares públicos o privados, en los términos que reglamentariamente se establezcan.
+Se suprimen los apartados 3 y 5 por el art. único.26 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 45
+
+Artículo 45. Competencias de la Consejería competente en materia de drogodependencias.
+Además de las competencias que le vienen atribuidas legalmente, corresponde a la Consejería competente en materia de drogodependencias:
+1. El seguimiento y control, sin perjuicio de las competencias de otras Consejerías, de los centros, servicios, establecimientos y programas específicamente destinados a la prevención, asistencia e integración social de drogodependientes, y en particular:
+a) El otorgamiento de la autorización de instalación, puesta en funcionamiento, modificación, ampliación, traslado y cierre de centros, servicios y establecimientos específicos de asistencia a drogodependientes.
+b) La acreditación de centros, servicios y establecimientos específicos de asistencia a drogodependientes, así como su renovación y revocación.
+c) La regulación y el mantenimiento de los registros pertinentes de las entidades, centros y programas integrados en el Plan Regional sobre Drogas de Castilla y León.
+d) La evaluación de los diferentes centros, programas y servicios específicos de prevención, asistencia e integración social de drogodependientes.
+2. La elaboración de anteproyectos y proyectos de normas en materia de drogodependencias.
+3. La elaboración y propuesta para su aprobación por la Junta de Castilla y León del Plan Regional sobre Drogas.
+4. La propuesta de nombramiento y cese del Comisionado Regional para la Droga.
+5. La aprobación de la estructura orgánica del Comisionado Regional para la Droga.
+6. La propuesta de presupuesto para la intervención en drogodependencias.
+7. La regulación y el otorgamiento de subvenciones y la celebración de contratos, convenios y conciertos con entidades e instituciones para la intervención en drogodependencias.
+8. La coordinación general de las actuaciones en materia de drogodependencias desarrolladas en Castilla y León por las Administraciones públicas, entidades privadas e instituciones.
+9. El ejercicio de la función inspectora y de la potestad sancionadora en su ámbito de competencias.
+Se modifica por el art. único.27 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+ Téngase en cuenta la disposción transitoria 1 de la citada ley.
+
+### Artículo 45 bis
+
+Artículo 45 bis. Competencias de otras Consejerías.
+1. La Consejería competente en materia de educación, en colaboración con la Consejería competente en materia de drogodependencias, será responsable de promover la realización de programas acreditados de prevención del consumo de drogas en todos los centros docentes de Castilla y León.
+2. Las Consejerías competentes en materia de sanidad y de acción social serán responsables de garantizar que los drogodependientes reciban una atención sanitaria y social de calidad, en igualdad de condiciones que el resto de la población, a través de los Sistemas de Salud y de Acción Social de Castilla y León. A tal fin, dichas Consejerías, en colaboración con la Consejería competente en materia de drogodependencias, promoverán, en los términos que reglamentariamente se determinen, los procedimientos oportunos de cooperación entre ambos sistemas y los centros específicos de asistencia a drogodependientes gestionados por entidades privadas, para mejorar la accesibilidad de los drogodependientes a sus prestaciones y para el diagnóstico y control de los principales problemas sanitarios y sociales asociados a la dependencia de las drogas.
+Se añade por el art. único.28 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 46
+
+Artículo 46. Competencias de los Ayuntamientos.
+1. Sin perjuicio de las demás competencias que el ordenamiento vigente les atribuye, corresponde a los Ayuntamientos de Castilla y León en su ámbito territorial:
+a) El establecimiento de los criterios que regulen la localización, distancia y características que deberán reunir los establecimientos de suministro y venta de bebidas alcohólicas.
+b) El otorgamiento de la autorización de apertura a locales o lugares de suministro y venta de bebidas alcohólicas.
+c) El ejercicio de la función inspectora y de la potestad sancionadora en su ámbito de competencias.
+d) La colaboración con los sistemas educativo y sanitario en materia de educación para la salud.
+e) La autorización, con carácter excepcional y ocasional, del consumo de bebidas alcohólicas en determinados espacios y zonas públicas.
+2. Además de las señaladas en el punto anterior, los Ayuntamientos de más de 20.000 habitantes de Castilla y León tienen las siguientes competencias y responsabilidades mínimas:
+a) La aprobación de Planes Municipales sobre Drogas, elaborados en coordinación y de acuerdo con los criterios y directrices del Plan Regional sobre Drogas, que incluyan programas de prevención e integración social, así como de información, orientación y motivación de drogodependientes a través de los centros de acción social.
+b) La coordinación de los programas de prevención e integración social que se desarrollen exclusivamente en el ámbito de su municipio.
+c) El apoyo a las asociaciones y entidades que en el municipio desarrollen actividades previstas en el Plan Regional sobre Drogas.
+d) La formación en materia de drogas del personal propio.
+e) La promoción de la participación social en esta materia en su ámbito territorial.
+Se modifica el apartado 1.c) y se añade la e) por el art. único.29 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 47
+
+Artículo 47. Competencias de las Diputaciones Provinciales.
+Sin perjuicio de las demás competencias que el ordenamiento vigente les atribuye, corresponde a las Diputaciones Provinciales de Castilla y León desempeñar en su ámbito territorial las siguientes competencias y responsabilidades mínimas:
+a) La aprobación de Planes Provinciales sobre Drogas, elaborados en coordinación y de acuerdo con los criterios y directrices del Plan Regional sobre Drogas, que incluyan programas de prevención e integración social, así como de información, orientación y motivación de drogodependientes a través de los centros de acción social.
+En cualquier caso, la elaboración de los Planes Provinciales sobre Drogas debe asegurar, mediante la coordinación de los servicios de los Ayuntamientos de menos de 20.000 habitantes, la prestación integral y adecuada en la totalidad del territorio provincial de las competencias y responsabilidades mínimas señaladas en el apartado 2 del artículo 46.
+b) El apoyo técnico y económico en materia de drogas a los Ayuntamientos de menos de 20.000 habitantes, especialmente a los de menor capacidad económica y de gestión.
+
+## TÍTULO VI
+
+Del régimen de inspección y sanción
+Se modifica por el art. único.30 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+## CAPÍTULO I
+
+De la inspección en materia de drogas
+Se añade por el art. único.31 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 47 bis
+
+Artículo 47 bis. Competencias de inspección.
+1. La Administración de la Comunidad de Castilla y León velará por el cumplimiento de lo dispuesto en la presente Ley y en el resto de la legislación aplicable en materia de drogas, destinando los medios materiales y personales necesarios para el ejercicio de la función de inspección y control, sin perjuicio de las competencias en esta materia de la Administración General del Estado y de las Corporaciones Locales.
+2. La función de inspección y control en materia de drogas realizada por la Administración de la Comunidad de Castilla y León corresponderá a las Consejerías competentes por razón de las materias propias que les sean atribuidas por los Decretos de organización y estructura. El ejercicio de esta función en sus respectivos ámbitos se realizará a través de los cuerpos de inspección existentes, que la desarrollarán de acuerdo con su normativa reguladora.
+3. La Administración de la Comunidad de Castilla y León podrá habilitar temporalmente inspectores entre sus funcionarios para reforzar los mecanismos de control.
+Se añade por el art. único.31 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 47 ter
+
+Artículo 47 ter. Objetivos y facultades de la función de inspección.
+1. La función de inspección y control en materia de drogas tendrá como principales objetivos los de informar y asesorar a los ciudadanos sobre lo dispuesto en esta Ley y en otras normas legales aplicables, comprobar su cumplimiento, verificar los hechos que hayan sido objeto de reclamación o denuncia y tramitar la documentación correspondiente en el ejercicio de la función inspectora.
+2. El personal que desarrolle las funciones de inspección tendrá la consideración de autoridad, y podrá:
+a) Acceder libremente, y sin previo aviso, a todo local, establecimiento, servicio y actividad sometida al régimen establecido por la presente Ley y demás normativa legal aplicable en materia de drogas.
+b) Requerir la información y documentación que estime necesaria para verificar el cumplimiento de la legislación vigente en materia de drogas.
+c) Proceder a las pruebas, investigaciones o exámenes necesarios para comprobar el cumplimiento de esta Ley y del resto de la legislación aplicable en materia de drogas.
+d) Recabar la colaboración de las Fuerzas y Cuerpos de Seguridad del Estado y de la Policía Local, de conformidad con la normativa que resulte aplicable.
+e) Realizar cuantas acciones sean precisas en orden al cumplimiento de las funciones de inspección que desarrolle.
+Se añade por el art. único.31 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 47 quáter
+
+Artículo 47 quáter. Colaboración con la inspección.
+1. Los titulares o responsables de los locales, establecimientos, servicios y actividades estarán obligados a facilitar a los inspectores el acceso a las instalaciones y al examen de documentos y cuantos datos sean preceptivos, así como a suministrar toda la información necesaria para comprobar el cumplimiento de esta Ley y de otras normas legales en materia de drogas.
+2. Todas las autoridades y responsables de las unidades y centros de la Administración pública tienen el deber de velar por el cumplimiento en sus dependencias de lo dispuesto en esta Ley y en el resto de normas legales aplicables en materia de drogas.
+Se añade por el art. único.31 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+## CAPÍTULO II
+
+De las infracciones y sanciones
+Se añade por el art. único.32 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 48
+
+Artículo 48. Régimen sancionador.
+1. Las infracciones a las previsiones contenidas en la presente Ley serán objeto de las sanciones administrativas correspondientes, previa instrucción del oportuno expediente, sin perjuicio de las responsabilidades civiles, penales o de otro orden que puedan concurrir.
+2. En los procedimientos sancionadores por infracciones graves o muy graves se podrán adoptar, de forma motivada, medidas cautelares para asegurar la eficacia de la resolución que definitivamente se dicte o el buen fin del procedimiento, así como para atender las exigencias de los intereses generales y evitar el mantenimiento de los efectos de la infracción.
+En casos de urgencia y para la inmediata protección de los intereses implicados, las medidas cautelares previstas en esta Ley podrán ser adoptadas por los funcionarios que ejerzan la función de inspección antes de la iniciación del procedimiento, y deberán ser confirmadas, modificadas o levantadas expresamente en el acuerdo de incoación del expediente sancionador, que deberá adoptarse dentro de los diez días siguientes a la adopción de la medida cautelar.
+El acuerdo de incoación que confirme, modifique o establezca medidas cautelares podrá ser objeto del recurso que proceda.
+El órgano competente para resolver el procedimiento podrá acordar con posterioridad, si existen elementos de juicio suficientes para ello, las medidas cautelares que estime oportunas para asegurar la eficacia de la resolución, conforme a lo previsto en la legislación general de procedimiento administrativo sancionador.
+En ningún caso se podrán dictar medidas cautelares que puedan causar perjuicios de difícil o imposible reparación a los interesados o que impliquen violación de derechos amparados por las leyes.
+3. Son medidas cautelares que pueden ser adoptadas, por razón de urgencia, las siguientes:
+a) El cierre provisional de establecimientos, ante hechos susceptibles de constituir una infracción grave o muy grave.
+b) El precinto, el depósito o la incautación de los bienes directamente relacionados con la infracción.
+c) La suspensión temporal de las licencias de las que disponga el establecimiento.
+d) La retirada preventiva de la actividad publicitaria, promotora o de patrocinio de bebidas alcohólicas o productos del tabaco que infrinja la legislación aplicable en materia de drogas, y suponga una vulneración de las prohibiciones o limitaciones establecidas en esta Ley para la protección de los menores de edad, o bien un riesgo para la seguridad pública o la salud de las personas.
+e) El precinto, el depósito o la incautación de los registros, soportes, archivos informáticos y documentación en general, así como de equipamientos informáticos de todo tipo.
+f) La advertencia al público de la existencia de posibles conductas infractoras y de la incoación del expediente sancionador, así como de las medidas adoptadas para la adopción e imposición de estas y otras medidas cautelares. Todo ello se realizará con pleno respeto a las garantías, normas y procedimientos previstos en el ordenamiento jurídico para proteger la intimidad personal y familiar, salvaguardar la protección de datos personales, la libertad de expresión y la libertad de información, cuando éstas pudieran verse afectadas.
+4. El órgano administrativo competente para resolver el procedimiento sancionador podrá imponer multas coercitivas por importe que no exceda de 6.000 euros por cada día que transcurra sin cumplir las medidas cautelares o sanciones accesorias que hubieran sido acordadas. Dichas multas serán proporcionales a las posibles conductas infractoras.
+5. En ningún caso se impondrá una doble sanción por los mismos hechos y en función de los mismos intereses públicos protegidos, si bien deberán exigirse las demás responsabilidades que se deduzcan de otros hechos o infracciones concurrentes. Si un mismo hecho fuera constitutivo de dos o más infracciones tipificadas en esta u otras leyes, se sancionará únicamente aquella que comporte mayor sanción.
+6. No tendrá carácter de sanción, la resolución de cierre de los establecimientos o de suspensión de las actividades que no cuenten con la autorización exigida o que no se ajusten a los términos de ésta, hasta que no se subsanen los defectos o se cumplan los requisitos. Simultáneamente a la resolución de cierre o suspensión deberá incoarse un expediente sancionador.
+Se modifica por el art. único.33 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 49
+
+Artículo 49. Infracciones.
+1. Las infracciones por incumplimiento de lo dispuesto en la presente Ley se clasifican en leves, graves y muy graves.
+2. Se consideran infracciones leves, las siguientes:
+a) El consumo de bebidas alcohólicas en centros, servicios, instalaciones y establecimientos en los que esté prohibido.
+b) El consumo de bebidas alcohólicas en la vía pública o fuera de los espacios públicos en los que está permitido.
+c) No disponer o no exponer en lugar visible, en los establecimientos en los que esté autorizada la venta de bebidas alcohólicas, los carteles que informen de la prohibición de su venta a los menores de 18 años y que adviertan de los perjuicios para la salud derivados del abuso de las mismas.
+d) La tenencia de máquinas expendedoras de bebidas alcohólicas que no dispongan de la preceptiva advertencia sanitaria e información de la prohibición de su venta a los menores de 18 años.
+e) La exposición de bebidas alcohólicas fuera de la sección destinada al efecto en los establecimientos de autoservicio.
+f) El incumplimiento de las obligaciones y prohibiciones establecidas en esta Ley y disposiciones que se dicten en su desarrollo en las que no proceda su calificación como infracciones graves o muy graves.
+3. Se consideran infracciones graves, siempre que no hayan tenido consecuencias graves para la salud o no hayan producido grave alteración social, las siguientes:
+a) La venta, entrega, dispensación, ofrecimiento o suministro de bebidas alcohólicas a los menores de 18 años.
+b) Permitir a los menores de 18 años el uso de máquinas expendedoras de bebidas alcohólicas.
+c) La venta de bebidas alcohólicas en lugares no permitidos.
+d) La instalación o emplazamiento de máquinas expendedoras de bebidas alcohólicas en lugares prohibidos.
+e) La acumulación, en el plazo de seis meses, de tres infracciones por consumo de bebidas alcohólicas en la vía pública o en centros, servicios, instalaciones y establecimientos en los que esté prohibido.
+f) La venta de bebidas alcohólicas en horario no permitido en establecimientos comerciales minoristas no destinados a su consumo inmediato.
+g) La venta ambulante, a distancia y domiciliaria de bebidas alcohólicas en horario no permitido.
+h) El incumplimiento de los criterios de localización, distancia y características que deban reunir los establecimientos de venta y suministro de bebidas alcohólicas.
+i) La venta a los menores de 18 años de colas, sustancias químicas y otros productos comerciales inhalables a los que se refiere el artículo 28.
+j) La venta o entrega a menores de 18 años de productos que imiten las bebidas alcohólicas e induzcan a su consumo, así como dulces, refrigerios, juguetes y otros objetos que tengan formas semejantes a sus presentaciones y puedan resultar atractivos para los menores.
+k) La exhibición de publicidad directa o indirecta de bebidas alcohólicas en lugares en los que está prohibido, a tenor de lo dispuesto en el artículo 21 de la presente Ley.
+l) La promoción de bebidas alcohólicas realizada por establecimientos y locales donde se vendan, suministren o consuman, cuando suponga una incitación directa a un consumo abusivo de éstas y se realice mediante ofertas promocionales, premios, canjes, sorteos, concursos, fiestas o rebajas de los precios.
+m) La obstrucción de la acción inspectora que no constituya una infracción muy grave, al amparo de lo dispuesto en la letra f) del apartado 4 del presente artículo.
+n) La negativa o resistencia a facilitar información a las autoridades competentes, así como proporcionar datos falsos o fraudulentos.
+ñ) El incumplimiento o alteración sustancial de las condiciones establecidas para la autorización y acreditación de centros y servicios de asistencia a drogodependientes.
+4. Se consideran infracciones muy graves:
+a) La comisión de infracciones graves previstas en el apartado anterior cuando hayan tenido consecuencias graves para la salud o hayan producido grave alteración social.
+b) El incumplimiento de las limitaciones a las que está sometida la publicidad de bebidas alcohólicas y productos del tabaco en esta Ley, que no sean constitutivas de infracción grave al amparo de lo dispuesto en la letra l) del apartado 3 del presente artículo.
+c) La promoción de bebidas alcohólicas y productos del tabaco en ferias, certámenes, exposiciones y actividades similares fuera de espacios diferenciados, cuando tengan lugar dentro de otras manifestaciones públicas.
+d) La promoción de bebidas alcohólicas mediante la distribución de información por buzones, correo, teléfono, servicios de la sociedad de la información, y en general mediante cualquier mensaje que se envíe a un domicilio, salvo que vaya dirigido nominalmente a mayores de 18 años, o no resulte significativo en relación al conjunto del envío publicitario.
+e) El incumplimiento de las limitaciones al patrocinio y la financiación de actividades deportivas o culturales establecidas en esta Ley.
+f) La resistencia, coacción, amenaza, represalia, desacato o cualquier otra forma de presión ejercida sobre las autoridades competentes.
+Se modifica por el art. único.34 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 50
+
+Artículo 50. Personas responsables.
+1. De las diferentes infracciones será responsable, con carácter general, la persona física o jurídica que cometa los hechos tipificados como tales.
+2. Asimismo, y en función de las distintas infracciones, serán responsables de las mismas los titulares de las entidades, centros, locales o establecimientos en los que se cometa la infracción o, en su defecto, los empleados que estén a cargo de los mismos; el fabricante, el importador, el distribuidor y el explotador de la máquina expendedora; el beneficiario de la publicidad o de la promoción, entendiendo por tal tanto al titular de la marca o producto anunciado, como al titular del establecimiento o espacio en el que se exhiba la publicidad, así como, en su caso, la empresa publicitaria y el patrocinador.
+3. Cuando la responsabilidad de los hechos cometidos corresponda a un menor, responderán solidariamente con él sus padres, tutores y guardadores legales o de hecho, por este orden, en razón al incumplimiento de la obligación impuesta a éstos de prevenir la comisión de infracciones administrativas que se imputen a los menores. La responsabilidad solidaria vendrá referida a sufragar la cuantía pecuniaria de la multa impuesta. La sanción económica de la multa, previo consentimiento de los padres, tutores o guardadores y oído el menor, podrá sustituirse por medidas reeducadoras.
+Se modifica por el art. único.35 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 51
+
+Artículo 51. Sanciones.
+1. Las infracciones a la presente Ley serán sancionadas, en su caso, con multas; suspensión, cancelación o prohibición de recibir financiación de la Administración de la Comunidad de Castilla y León; suspensión temporal de la actividad y cierre temporal o definitivo de la empresa, establecimiento, centro o servicio. Cuando se trate de la primera infracción de un menor de edad se podrá aplicar, como medida que no tenga carácter de sanción, la amonestación o advertencia privada, con comunicación simultánea de la falta a los padres, tutores o guardadores.
+2. La graduación de las sanciones será proporcionada a la infracción cometida y se realizará teniendo en cuenta los siguientes criterios:
+a) Entidad de la infracción.
+b) Alteración social y perjuicios causados.
+c) Riesgo o daño para la salud.
+d) Beneficio obtenido por el infractor con la conducta sancionada.
+e) Existencia de intencionalidad.
+f) Perjuicio causado a menores de edad.
+g) Reincidencia, entendida como la comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
+3. Las multas se dividirán, dentro de cada categoría de infracción, en grado mínimo, medio y máximo, teniendo en cuenta para su graduación, y dentro de los límites legales establecidos, los criterios señalados en el apartado 2 de este artículo. En todo caso, excepto en el supuesto de que concurran alguna de las siguientes circunstancias con consecuencias opuestas, las multas deberán imponerse en grado mínimo cuando el infractor sea un menor de edad, y en grado máximo cuando el perjudicado sea un menor o la conducta sancionada se realice de forma habitual o continua, salvo que la habitualidad o continuidad forme parte del tipo de la infracción. Si la cuantía de la multa resultara inferior al beneficio obtenido por la comisión de la infracción, la sanción se elevará hasta el doble del importe en que se haya beneficiado el infractor.
+4. Las infracciones leves se sancionarán con multa desde 30 euros hasta 600 euros, salvo las previstas en el artículo 49, apartado 2, párrafos a) y b), que se sancionarán con multa de hasta 30 euros si la conducta infractora se realiza de forma aislada. Las infracciones graves se sancionarán con multa desde 601 euros hasta 10.000 euros, y las infracciones muy graves con multa desde 10.001 euros hasta 600.000 euros, pudiendo rebasar dicha cantidad hasta alcanzar el quíntuplo del valor de los productos o servicios, o el doble del beneficio obtenido si éste resultara superior a la cuantía de la multa.
+5. En los casos de especial gravedad, contumacia en la repetición de la infracción, trascendencia social notoria, o grave riesgo o daño para la salud, las infracciones graves y muy graves podrán acumular las siguientes sanciones accesorias:
+a) Suspensión, cancelación o prohibición de recibir financiación de la Administración de la Comunidad de Castilla y León por un periodo de entre uno y cinco años.
+b) Suspensión temporal de la actividad o cierre total o parcial de la empresa, establecimiento, centro o servicio por un máximo de cinco años.
+c) Cierre definitivo de la empresa, establecimiento, centro o servicio.
+Se modifica por el art. único.36 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 52
+
+Artículo 52. Prescripción.
+1. Las infracciones a que se refiere la presente Ley prescribirán:
+a) A los seis meses, las correspondientes a las faltas leves.
+b) A los dos años, las correspondientes a las faltas graves.
+c) A los tres años, las correspondientes a las faltas muy graves.
+2. El plazo de prescripción comenzará a contarse a partir del día que se haya cometido la infracción y se interrumpirá por la iniciación, con conocimiento del interesado, del procedimiento sancionador.
+Se modifica el apartado 1.c) por el art. único.37 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Artículo 53
+
+Artículo 53. Competencias del régimen sancionador.
+1. Los Ayuntamientos y las Consejerías de la Administración de la Comunidad de Castilla y León competentes por razón de la materia, instruirán los correspondientes expedientes sancionadores e impondrán sanciones por infracciones a esta Ley conforme a los siguientes criterios:
+a) Los Alcaldes, multas por infracciones tipificadas como leves y por infracciones tipificadas como graves, excepto la prevista en la letra ñ) del artículo 49.3; la suspensión temporal de la actividad, o el cierre de la empresa, establecimiento, centro o servicio por un máximo de cinco años, para las referidas infracciones; así como la amonestación o advertencia privada recogida en el apartado 1 del artículo 51.
+b) El titular de la Consejería competente por razón de la materia, multas por la infracción recogida en la letra ñ) del apartado 3 del artículo 49, por las infracciones tipificadas como graves en las letras a), b), c), d), k), y l) de ese apartado cuando se cometan en sus propias dependencias, y por las infracciones recogidas en las letras m) y n) de dicho apartado cuando se refieran a su acción inspectora o a la actividad de sus autoridades. Al titular de esa Consejería le corresponderá también la suspensión temporal de la actividad, o de cierre de la empresa, establecimiento, centro o servicio por un máximo de cinco años, para las referidas infracciones.
+c) La Junta de Castilla y León, multas por infracciones tipificadas como muy graves, así como la suspensión, cancelación o prohibición de recibir financiación de la Administración de la Comunidad de Castilla y León, y el cierre definitivo de la empresa, establecimiento, centro o servicio.
+2. En el supuesto de que un municipio se inhibiera en la incoación de un expediente sancionador de una infracción, la Consejería competente en materia de drogodependencias requerirá información al mismo sobre dicha incoación. Si el municipio no inicia el oportuno expediente sancionador en el plazo de un mes a partir de la fecha del requerimiento, la Consejería asumirá la competencia para incoar, tramitar y sancionar la infracción.
+3. En el supuesto de que corresponda a la Junta de Castilla y León la imposición de una sanción accesoria a una infracción cuya instrucción y sanción principal sea competencia de los Ayuntamientos, éstos habrán de dar cuenta del correspondiente procedimiento sancionador a la Junta de Castilla y León en el plazo de un mes a partir del momento en que la sanción impuesta por el Alcalde sea firme en vía administrativa.
+4. Tratándose de infracciones cometidas a través de prensa, radio y televisión, la Administración de la Comunidad de Castilla y León ejercerá el control y la inspección e impondrá las oportunas sanciones en relación con los servicios de prensa, radio y televisión, cualquiera que sea el medio de transmisión empleado, cuyo ámbito de cobertura no sobrepase el territorio de la Comunidad Autónoma. Las infracciones cometidas a través de servicios de la sociedad de la información, serán sancionadas por las autoridades a las que se refiere la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico.
+Se modifica por el art. único.38 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+## TÍTULO VII
+
+De la financiación
+
+### Artículo 54
+
+Artículo 54. De la financiación de la Junta de Castilla y León.
+(Derogado).
+Se deroga por la disposición derogatoria.2 de la Ley 2/2006, de 3 de mayo. Ref. BOE-A-2006-10085#dd
+
+### Artículo 55
+
+Artículo 55. De la financiación de las Corporaciones Locales.
+1. Las Diputaciones Provinciales y los Ayuntamientos de más de 20.000 habitantes que deseen obtener financiación de los Presupuestos Generales de la Comunidad de Castilla y León para el desarrollo de las actuaciones de su competencia en materia de drogas estarán obligados a disponer de un plan provincial o municipal sobre drogas convenientemente aprobado y a consignar en sus respectivos presupuestos, de forma claramente diferenciada y de acuerdo con la estructura y clasificaciones presupuestarias, los créditos específicos destinados a tal finalidad.
+2. La financiación que la Junta de Castilla y León destine a cada Corporación Local será como máximo de la misma cuantía que la ejecutada el año anterior por ésta para desarrollar las acciones en materia de drogas.
+3. La Administración de la Comunidad de Castilla y León podrá establecer con las Diputaciones Provinciales y los Ayuntamientos de más de 20.000 habitantes convenios de colaboración que regulen la financiación y características que deban reunir los planes provinciales o municipales.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Los productos de denominación de origen de Castilla y León se exceptuarán de lo dispuesto en los artículos 20.3 y 21, letras a) y b), de esta Ley, así como de lo preceptuado en la letra a) del artículo 22 en lo que no afecte a los menores de 18 años.
+Se modifica por el art. único.39 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+En el plazo de seis meses a partir de la publicación de la presente Ley deberán quedar constituidos todos los órganos colegiados y unipersonales de coordinación y participación previstos en los capítulos II y III del título IV.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+En el plazo máximo de dos años a partir de la publicación de la presente Ley, la Junta de Castilla y León, a propuesta del titular de la Consejería de Sanidad y Bienestar Social, actualizará el Plan Sectorial sobre Drogas, regulado en el Decreto 358/1991, de la Junta de Castilla y León, adecuándolo a las previsiones contenidas en el capítulo I del título IV.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+(Suprimida).
+Se suprime por el art. único.40 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Los órganos administrativos competentes, las asociaciones de consumidores y usuarios, las personas naturales o jurídicas afectadas y, en general, los titulares de un derecho subjetivo o un interés legítimo podrán solicitar de los comerciantes de productos objeto de limitación o prohibición de su publicidad, así como a la autoridad judicial competente, el cese o la rectificación de la publicidad ilícita, de conformidad con lo establecido en la Ley del Estado 34/1988, General de Publicidad.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+En el plazo de seis meses a partir de la publicación de la presente Ley, la Junta de Castilla y León aprobará la normativa que regule la autorización de apertura y funcionamiento y la acreditación de los centros y servicios de atención al drogodependiente.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+En el plazo de seis meses a partir de la publicación de esta Ley, la Junta de Castilla y León aprobará la normativa que desarrolle reglamentariamente el contenido y alcance específico de los derechos de las personas drogodependientes establecidos en el artículo 13 de la presente Ley y las garantías de reparación que procedan por su incumplimiento.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+En el plazo de seis meses a partir de la publicación de la presente Ley los Ayuntamientos de más de 20.000 habitantes de Castilla y León deberán haber aprobado una ordenanza municipal que se ajuste a las medidas de control recogidas en el título III de esta Ley.
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+Durante el ejercicio de 1994, y para las convocatorias de subvenciones realizadas con cargo a los artículos 46 y 48 del programa 074 («Lucha contra las drogodependencias») de los Presupuestos Generales de la Comunidad el anticipo al que se refiere el apartado 3 del artículo 122 de la Ley 7/1986, de 23 de diciembre, de la Hacienda de la Comunidad de Castilla y León, podrá alcanzar el 100 por 100 cuando su importe no supere 500.000 pesetas, y hasta el 70 por 100 en los restantes casos.
+
+### Disposición adicional décima
+
+Disposición adicional décima.Legislación supletoria de régimen sancionador en materia de tabaco.
+En todo lo relacionado con la venta, suministro, consumo, publicidad, promoción y patrocinio de los productos del tabaco que no esté regulado en la presente Ley, se aplicará el régimen de infracciones y sanciones previsto en la Ley 28/2005, de 26 de diciembre, de medidas sanitarias frente al tabaquismo y reguladora de la venta, el suministro, el consumo y la publicidad de los productos del tabaco.
+Se añade por el art. único.41 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. Las medidas limitativas de la publicidad de bebidas alcohólicas y tabaco contempladas en los artículos 20 y 21 que afecten a la publicidad contratada con anterioridad a la entrada en vigor de la presente Ley no serán de aplicación hasta transcurridos ocho meses desde la publicación de la presente Ley.
+2. Las empresas publicitarias y medios de comunicación afectados deberán remitir a la Junta de Castilla y León, dentro del mes siguiente a la publicación de la presente Ley, una relación de los compromisos pendientes de ejecución.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Hasta tanto se dé cumplimiento a las previsiones contenidas en la disposición adicional segunda se mantiene en vigor el Decreto 214/1988, de la Junta de Castilla y León, que regula la estructura de coordinación en materia de drogas, subsistiendo los órganos creados en desarrollo del mismo.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Los centros, servicios, locales y establecimientos dispondrán de un plazo de seis meses para adecuarse a las prescripciones de la presente Ley, a partir del cual éstas serán plenamente aplicables.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+El artículo 55.1 no será de aplicación durante los seis meses siguientes a la entrada en vigor de la presente Ley.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones de igual o menor rango se opongan a lo previsto en esta Ley.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+1. Se autoriza a la Junta de Castilla y León a dictar cuantas normas sean precisas para el desarrollo y ejecución de esta Ley.
+2. La Junta de Castilla y León, mediante decreto, procederá a la revisión y actualización periódica de las cuantías de las multas.
+Se modifica por el art. único.42 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día siguiente de su publicación en el «Boletín Oficial de Castilla y León».
+
+### [firma]
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y autoridades que corresponda que la hagan cumplir.
+Valladolid, 29 de marzo de 1994.
+El Presidente de la Junta de Castilla y León,
+JUAN JOSE LUCAS JIMENEZ
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que mediante decreto, publicado únicamente en el BOCL, la Junta de Castilla y León procederá a la revisión y actualización periódica de las cuantías de las multas, según establece la disposición final 1.2 de esta ley, en la redacción dada por la disposición final 1 de la Ley 3/2007, de 7 de marzo. Ref. BOE-A-2007-7034
+ Téngase en cuenta, en relación con la reducción de pago de sanciones pecuniarias, el art. 5 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959

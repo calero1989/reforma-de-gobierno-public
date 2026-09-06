@@ -1,0 +1,1362 @@
+# Ley 15/2007, de 3 de julio, de Defensa de la Competencia.
+
+- Identificador BOE: `BOE-A-2007-12946`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-12946
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+PREÁMBULO
+I
+El artículo 38 de la Constitución reconoce la libertad de empresa en el marco de una economía de mercado y la garantía y protección de la misma por los poderes públicos, de acuerdo con las exigencias de la economía en general y, en su caso, de la planificación. La existencia de una competencia efectiva entre las empresas constituye uno de los elementos definitorios de la economía de mercado, disciplina la actuación de las empresas y reasigna los recursos productivos en favor de los operadores o las técnicas más eficientes. Esta eficiencia productiva se traslada al consumidor en la forma de menores precios o de un aumento de la cantidad ofrecida de los productos, de su variedad y calidad, con el consiguiente incremento del bienestar del conjunto de la sociedad.
+En este contexto, existe un acuerdo generalizado con respecto a la creciente importancia de la defensa de la competencia, que se ha consolidado como uno de los elementos principales de la política económica en la actualidad. Dentro de las políticas de oferta, la defensa de la competencia complementa a otras actuaciones de regulación de la actividad económica y es un instrumento de primer orden para promover la productividad de los factores y la competitividad general de la economía.
+Por ello, resulta preciso disponer de un sistema que, sin intervenir de forma innecesaria en la libre toma de decisiones empresariales, permita contar con los instrumentos adecuados para garantizar el buen funcionamiento de los procesos del mercado.
+Con este objeto se promulgó la Ley 16/1989, de Defensa de la Competencia, de 17 de julio, sobre cuya base se ha articulado un sistema basado en la existencia de dos órganos administrativos especializados de ámbito nacional para la lucha contra las prácticas restrictivas de la competencia y el control de concentraciones económicas, el Servicio y el Tribunal de Defensa de la Competencia.
+Desde su entrada en vigor, se han producido modificaciones, algunas de gran calado, y se han promulgado diversas normas de desarrollo. Además, se ha aprobado la Ley 1/2002, de 21 de febrero, de coordinación de las competencias del Estado y las Comunidades Autónomas en materia de defensa de la competencia. Finalmente, en los últimos años se ha producido una importante reforma del marco comunitario de defensa de la competencia, que ha fructificado en el nuevo Reglamento (CE) n.º 139/2004 del Consejo, de 20 de enero de 2004, sobre el control de las concentraciones entre empresas y, sobre todo, en la modernización de la lucha contra las conductas restrictivas de la competencia centrada en el Reglamento (CE) n.º 1/2003 del Consejo, de 16 de diciembre de 2002, relativo a la aplicación de las normas sobre competencia previstas en los artículos 81 y 82 del Tratado de la Comunidad Europea.
+En este marco, la presente Ley tiene por objeto la reforma del sistema español de defensa de la competencia para reforzar los mecanismos ya existentes y dotarlo de los instrumentos y la estructura institucional óptima para proteger la competencia efectiva en los mercados, teniendo en cuenta el nuevo sistema normativo comunitario y las competencias de las Comunidades Autónomas para la aplicación de las disposiciones relativas a prácticas restrictivas de la competencia según lo dispuesto en la Ley 1/2002 de 21 de febrero, de coordinación de las competencias del Estado y las Comunidades Autónomas en materia de defensa de la competencia.
+Para ello, la Ley parte de la experiencia adquirida en los últimos quince años mediante la aplicación de las normas nacionales y comunitarias de competencia y está guiada por cinco principios claros: garantía de la seguridad jurídica de los operadores económicos, independencia de la toma de decisiones, transparencia y responsabilidad frente a la sociedad de los órganos administrativos encargados de la aplicación de la Ley, eficacia en la lucha contra las conductas restrictivas de la competencia y búsqueda de la coherencia de todo el sistema y, en particular, de una adecuada imbricación de los distintos planos institucionales que interactúan en este terreno.
+II
+La Ley se estructura en cinco títulos que regulan, respectivamente, las cuestiones sustantivas, los aspectos institucionales, la Comisión Nacional de la Competencia, las cuestiones procedimentales y el régimen sancionador.
+El título primero recoge los aspectos sustantivos de los tres tipos de instrumentos principales de esta política: régimen aplicable a las conductas restrictivas de la competencia, principios del control de concentraciones y sistema de seguimiento y propuesta en materia de ayudas públicas.
+Por lo que respecta al capítulo primero, relativo a las conductas restrictivas de la competencia, la Ley introduce cambios principalmente en tres líneas. En primer lugar, se aclaran y simplifican los diferentes tipos de infracción. En segundo lugar, se pasa del régimen de autorización singular de acuerdos prohibidos a un sistema de exención legal en línea con el modelo comunitario. En tercer lugar, se aclaran los efectos de la exención legal y el tratamiento de las conductas «de minimis».
+En cuanto a los tipos de infracción, se mantiene la prohibición de los acuerdos entre empresas y del abuso de posición de dominio así como del falseamiento de la libre competencia por actos desleales, aclarándose la redacción de este último tipo. Sin embargo, se elimina la referencia específica al abuso de dependencia económica, que ya se encuentra regulado en la Ley 3/1991, de Competencia Desleal, y puede, por tanto, incardinarse en el falseamiento de la libre competencia por actos desleales.
+En relación con el paso al sistema de exención legal, la Ley excluye de la prohibición aquellos acuerdos que reúnan determinados requisitos, en línea con los previstos en las normas comunitarias. En esencia, se trata de que las prohibiciones no sean aplicables a aquellas restricciones de la competencia proporcionales a los beneficios que generan en términos de eficiencia en la asignación de recursos y, por tanto, de bienestar general.
+El cambio de sistema se completa con la desaparición de las autorizaciones singulares por parte de la autoridad de competencia y, por tanto, el paso a la autoevaluación por parte de las empresas del encaje legal de sus propios acuerdos.
+Con el fin de reforzar su seguridad jurídica y a pesar de que la remisión a las normas comunitarias es consustancial a la práctica de defensa de la competencia en España, la Ley se refiere expresamente al papel de los Reglamentos comunitarios de exención por categorías en la aplicación de la nueva exención legal en el ámbito nacional. También se mantiene la posibilidad de que el Gobierno apruebe este tipo de exenciones para aquellos acuerdos que no afecten al comercio entre Estados miembros. Asimismo, se contempla un sistema en línea con el comunitario para las declaraciones de inaplicabilidad de las prohibiciones a una conducta concreta.
+Finalmente, se extiende a todos los tipos de infracción previstos en este capítulo la exención de las conductas que resulten de la aplicación de una norma con rango de Ley y de las conductas «de minimis», entendidas como aquéllas que, por su menor importancia, no son susceptibles de afectar de forma significativa a la competencia, cuyas características se concretarán mediante el correspondiente desarrollo reglamentario.
+En cuanto al capítulo segundo, relativo a los aspectos sustantivos del control de las concentraciones económicas, la Ley aporta novedades en tres ámbitos principales. En primer lugar, aclara y amplía el concepto de concentración a efectos de control, estableciendo un procedimiento «simplificado» para aquellas operaciones menos susceptibles de afectar a la competencia. En segundo lugar, flexibiliza el régimen de notificación obligatoria con efecto suspensivo en tanto no recaiga resolución favorable de la Administración. Finalmente, refuerza la participación de la Comisión Nacional de la Competencia en el control de concentraciones, limita el papel del Gobierno en el mismo y concreta los criterios de valoración sustantiva que guiarán las decisiones de ambos órganos.
+En cuanto al concepto de concentración, la Ley centra su definición en la existencia de un cambio estable en la estructura de control, «de iure» o «de facto», de una empresa, e incluye todas las empresas en participación con «plenas funciones», unificando así el tratamiento de aquéllas con carácter concentrativo y cooperativo. Además de revisarse al alza el umbral de cuota de mercado y preverse un mecanismo para la actualización del volumen de negocios, se introduce un sistema de notificación «simplificada» para aquellas operaciones menos susceptibles de obstaculizar el mantenimiento de la competencia efectiva en los mercados, con una tasa reducida.
+En relación con la flexibilización del procedimiento, la Ley mantiene el régimen de notificación obligatoria con efecto suspensivo pero prevé el posible levantamiento de la obligación de suspender la ejecución de la concentración en cualquier momento del procedimiento. Además, el tratamiento de las ofertas públicas de adquisición de acciones se alinea con el comunitario, de forma que la obligación de suspensión únicamente afectará al ejercicio de los derechos de voto inherentes a los títulos y no a la posibilidad de lanzar la oferta, siempre que se cumpla con los plazos de notificación previstos en la Ley.
+Por lo que respecta a los criterios de valoración sustantiva, la Ley separa claramente los que guiarán la toma de decisiones por parte de la Comisión Nacional de la Competencia, centrados en el mantenimiento de la competencia efectiva en los mercados, de aquellos en que podrá basarse la intervención del Gobierno, relacionados con la protección del interés general de la sociedad.
+Así, por una parte se aclaran los elementos que valorará la Comisión Nacional de la Competencia, con sistematización de, entre otros posibles, los que se han venido considerando en los informes del Servicio y del Tribunal de Defensa de la Competencia hasta el momento, y con explicitación del tratamiento de las eficiencias empresariales y mantenimiento de la valoración de los aspectos cooperativos o de las restricciones a la competencia accesorias a las concentraciones. Por otra parte, se indican los criterios de valoración sustantiva que guiarán una decisión del Consejo de Ministros distinta de la de la Comisión Nacional de la Competencia, recogiéndose una lista no exhaustiva de criterios concretos.
+El capítulo tercero se ocupa de las ayudas públicas. En este ámbito se completan las competencias de la Comisión Nacional de la Competencia, que podrá analizar los criterios de concesión de las ayudas desde la perspectiva de la competencia con el fin de emitir informes y dirigir recomendaciones a los poderes públicos. Para ello, se establecen determinadas obligaciones de información a la Comisión Nacional de la Competencia y se prevé expresamente la posible participación complementaria de los órganos competentes de las Comunidades Autónomas mediante la emisión de informes con respecto a las ayudas que concedan las Administraciones autonómicas y locales en el ámbito territorial de su competencia. Todo ello, por supuesto, sin perjuicio del sistema de control por parte de la Comisión Europea previsto en la normativa comunitaria.
+El título segundo se ocupa del esquema institucional. El capítulo primero se refiere a los órganos administrativos competentes para la aplicación de esta Ley, con una novedad principal, la creación en el ámbito estatal de una institución única e independiente del Gobierno, la Comisión Nacional de la Competencia, que integrará a los actuales Servicio y Tribunal de Defensa de la Competencia que desaparecen. La Comisión Nacional de la Competencia presenta una estructura piramidal centrada en la existencia de dos órganos separados, la Dirección de Investigación y el Consejo, que realizan con independencia sus respectivas funciones de instrucción y resolución bajo la supervisión y coordinación del Presidente, apoyado en un conjunto de servicios comunes. En el capítulo segundo se prevén mecanismos para la coordinación de todos los órganos administrativos que intervienen en la aplicación de la Ley así como la coordinación con los reguladores sectoriales, con objeto de velar por la coherencia de la política de competencia, la eficiencia en la asignación de los recursos públicos y la seguridad jurídica de los operadores económicos.
+En última instancia, se establecen pautas para guiar las relaciones entre los distintos órganos que, naturalmente, podrán verse complementadas por los mecanismos informales que puedan establecerse de cara a lograr la adecuada coordinación en el ejercicio diario de sus respectivas competencias. Adicionalmente, se establecen mecanismos para la cooperación con los órganos jurisdiccionales en los procesos de aplicación de las normas de competencia.
+El título tercero se refiere a la Comisión Nacional de la Competencia, órgano encargado de aplicar esta Ley, promover y proteger el mantenimiento de una competencia efectiva en todos los sectores productivos y en todo el territorio nacional. En este ámbito, la Ley se estructura en dos capítulos: el primero regula los aspectos generales de la Comisión Nacional de la Competencia y el segundo sus órganos de dirección.
+En cuanto a los aspectos generales, recogidos en el capítulo primero, la Ley especifica en primer lugar la naturaleza jurídica y régimen de funcionamiento de la nueva Comisión Nacional de la Competencia, detallando su composición y recursos económicos. En segundo lugar, se recogen las funciones de la nueva Comisión Nacional de la Competencia, tanto instructoras, resolutorias y de arbitraje como consultivas y de promoción y armonización de la defensa de la competencia en los mercados. Finalmente, se incluye una sección sobre la transparencia y responsabilidad social de la Comisión Nacional de la Competencia, en la que se incide en la publicidad de todas sus actuaciones así como en la especial responsabilidad ante la sociedad por su actuación.
+Por lo que se refiere al capítulo segundo, relativo a los órganos de dirección de la Comisión Nacional de la Competencia, dos principios fundamentales rigen su diseño: la independencia de criterio de esta institución con respecto al Gobierno y la separación entre instrucción y resolución. Estos principios han de conjugarse además con la necesidad de coordinar adecuadamente las actuaciones de los órganos encargados de la instrucción y resolución, así como de asegurar la eficacia de la política de competencia como instrumento de política económica.
+Por ello, la Ley especifica el régimen de nombramiento y cese de los órganos de dirección de la Comisión Nacional de la Competencia, orientado a garantizar su independencia en la toma de decisiones y, al mismo tiempo, la responsabilidad ante la sociedad por ellas.
+Por otra parte, la Ley establece la independencia en el ejercicio de las funciones de instrucción o propuesta y resolución por parte de la Dirección de Investigación y del Consejo de la Comisión Nacional de la Competencia. No obstante, preserva la unidad de actuación y coordinación de todos los servicios y órganos bajo la dirección del Presidente de la Comisión Nacional de la Competencia, que cuenta con amplias funciones, entre otras, la jefatura de todo el personal, los planes plurianuales de inspección y presidir el Consejo de Defensa de la Competencia.
+La labor de resolución del Consejo se centra en la adopción de decisiones sobre la base de las propuestas de la Dirección de Investigación en relación con los expedientes sancionadores o de control de concentraciones. En el ámbito de conductas restrictivas de la competencia, el Consejo es competente tanto para acordar el archivo o sobreseimiento de las actuaciones y resolver la terminación convencional como para declarar la prohibición e imponer las sanciones correspondientes y acordar la imposición de medidas cautelares.
+Por su parte, la labor instructora de la Dirección de Investigación se centra en la incoación y tramitación de los expedientes, la elevación de propuestas al Consejo de la Comisión Nacional de la Competencia, la elaboración de informes y la asignación de expedientes con otros órganos.
+El título cuarto regula los distintos procedimientos tanto por conductas prohibidas como de control de concentraciones. En este ámbito, la reforma se guía por la búsqueda del equilibrio entre los principios de seguridad jurídica y eficacia administrativa. Así, se simplifican notablemente los procedimientos y se separa con claridad, la instrucción y la pura resolución, con lo que se elimina la posible duplicación de actuaciones y los recursos administrativos contra actos que pongan fin al procedimiento.
+El capítulo primero recoge las disposiciones comunes a los procedimientos de conductas restrictivas, medidas cautelares y control de concentraciones. En concreto, se detallan las normas en cuanto a plazos máximos para las resoluciones correspondientes a los procedimientos especiales previstos en esta Ley así como las facultades de la Comisión Nacional de la Competencia para recabar información, realizar inspecciones y vigilar el cumplimiento de las obligaciones derivadas de la Ley y los recursos que proceden.
+El capítulo segundo regula el procedimiento sancionador por conductas restrictivas, con una fase de instrucción por parte de la Dirección de Investigación en la que se realizarán todos los actos precisos para el esclarecimiento de los hechos y se garantizará la contradicción y el derecho de defensa de los denunciados. Tras la elevación del correspondiente informe-propuesta, el Consejo adoptará una resolución, realizadas las actuaciones complementarias de la instrucción que considere precisas, las consultas previstas por la normativa vigente y, en su caso, una vista. En línea con la normativa comunitaria, la Ley introduce la posibilidad de que en dicha resolución se impongan condiciones estructurales.
+En este ámbito, cabe señalar la flexibilización del régimen de terminación convencional, centrado en la propuesta de compromisos por parte del presunto infractor, la negociación con la Dirección de Investigación y la elevación al Consejo de una propuesta de resolución, siempre antes del informe-propuesta, que podrá ser adoptada sin necesidad de contar con el acuerdo del resto de interesados del expediente.
+En cuanto a las medidas cautelares, la Ley flexibiliza y agiliza el sistema para su acuerdo, en cualquier momento del procedimiento y sin plazo máximo de duración.
+El capítulo tercero se refiere al procedimiento de control de concentraciones. En este ámbito, la Ley mantiene las dos fases del procedimiento y los reducidos plazos que vienen caracterizando al sistema en España pero asigna la competencia para su instrucción y resolución a la Comisión Nacional de la Competencia. En la primera fase, que durará un máximo de un mes, se analizarán y aprobarán las operaciones que no planteen problemas de competencia. En la segunda fase se realizará un análisis más detallado de la operación, con participación de terceros interesados, con el fin de que el Consejo de la Comisión Nacional de la Competencia adopte la resolución final.
+En el procedimiento ante la Comisión Nacional de la Competencia se prevé, junto a la imposición de condiciones, la presentación de compromisos por parte de los notificantes para resolver los posibles problemas de competencia derivados de la concentración así como la posible consulta a terceros interesados sobre los mismos.
+En caso de que la resolución del Consejo sea de prohibición o subordinación a compromisos o condiciones, el Ministro de Economía y Hacienda dispondrá de un plazo de quince días para elevar la concentración al Consejo de Ministros para su intervención. El acuerdo final del Consejo de Ministros, debidamente motivado, que podrá autorizar con o sin condiciones la concentración, deberá adoptarse en un plazo máximo de un mes tras la elevación del expediente, pudiendo solicitarse informe a la Comisión Nacional de la Competencia.
+Finalmente, el título quinto recoge el régimen sancionador. En este ámbito, la Ley supone un importante avance en seguridad jurídica por cuanto realiza una graduación de las diversas infracciones previstas por la misma y aclara las sanciones máximas de cada tipo, fijadas en términos de un porcentaje del volumen de ventas totales de los infractores. Asimismo, se especifican los criterios que determinarán la multa concreta en cada caso, en línea con las tendencias actuales en el ámbito europeo. Además, se prevé la publicidad de todas las sanciones impuestas en aplicación de la Ley, lo que reforzará el poder disuasorio y ejemplar de las resoluciones que se adopten.
+También se introduce un procedimiento de clemencia, similar al vigente en el ámbito comunitario, en virtud del cual se exonerará del pago de la multa a las empresas que, habiendo formado parte de un cártel, denuncien su existencia y aporten pruebas sustantivas para la investigación, siempre y cuando cesen en su conducta infractora y no hayan sido los instigadores del resto de miembros del acuerdo prohibido. Igualmente, el importe de la multa podrá reducirse para aquellas empresas que colaboren pero no reúnan los requisitos para la exención total.
+La Ley se completa con once disposiciones adicionales, dos disposiciones transitorias, una derogatoria y tres disposiciones finales. En particular, mediante las Disposiciones Adicionales se introducen modificaciones en determinadas normas jurisdiccionales y procesales con el fin de articular adecuadamente la aplicación privada de las normas de competencia por parte de los órganos de lo mercantil, una de las principales aportaciones de la presente Ley.
+Así, la disposición adicional primera establece, en aplicación de la Ley Orgánica del Poder Judicial, la competencia de los jueces de lo mercantil en la aplicación de los artículos 1 y 2 de la Ley de Defensa de la Competencia, en línea con lo previsto en la normativa comunitaria en relación con los artículos 81 y 82 del Tratado de la Comunidad Europea. Por su parte, la disposición adicional segunda modifica la Ley de Enjuiciamiento Civil con el fin de prever expresamente la participación de los órganos nacionales y comunitarios de competencia como «amicus curiae» en los procedimientos de aplicación de la normativa de competencia por parte de la jurisdicción competente así como diversos mecanismos de información para permitir la adecuada cooperación de los órganos administrativos con los judiciales. Finalmente, se prevé la posible suspensión de los procedimientos judiciales en determinadas circunstancias, cuando el juez competente considere necesario conocer el pronunciamiento administrativo para dictar una sentencia definitiva en aplicación de las normas nacionales y comunitarias de competencia.
+Finalmente, la disposición adicional séptima modifica la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso administrativa, para aclarar el régimen de recursos contra las resoluciones de los órganos nacionales y autonómicos de competencia así como el procedimiento de autorización judicial para el caso en que exista oposición a una inspección realizada en aplicación de la presente Ley.
+
+## TÍTULO I
+
+De la defensa de la competencia
+
+## CAPÍTULO I
+
+De las conductas prohibidas
+
+### Artículo 1
+
+Artículo 1. Conductas colusorias.
+1. Se prohíbe todo acuerdo, decisión o recomendación colectiva, o práctica concertada o conscientemente paralela, que tenga por objeto, produzca o pueda producir el efecto de impedir, restringir o falsear la competencia en todo o parte del mercado nacional y, en particular, los que consistan en:
+a) La fijación, de forma directa o indirecta, de precios o de otras condiciones comerciales o de servicio.
+b) La limitación o el control de la producción, la distribución, el desarrollo técnico o las inversiones.
+c) El reparto del mercado o de las fuentes de aprovisionamiento.
+d) La aplicación, en las relaciones comerciales o de servicio, de condiciones desiguales para prestaciones equivalentes que coloquen a unos competidores en situación desventajosa frente a otros.
+e) La subordinación de la celebración de contratos a la aceptación de prestaciones suplementarias que, por su naturaleza o con arreglo a los usos de comercio, no guarden relación con el objeto de tales contratos.
+2. Son nulos de pleno derecho los acuerdos, decisiones y recomendaciones que, estando prohibidos en virtud de lo dispuesto en el apartado 1, no estén amparados por las exenciones previstas en la presente Ley.
+3. La prohibición del apartado 1 no se aplicará a los acuerdos, decisiones, recomendaciones y prácticas que contribuyan a mejorar la producción o la comercialización y distribución de bienes y servicios o a promover el progreso técnico o económico, sin que sea necesaria decisión previa alguna a tal efecto, siempre que:
+a) Permitan a los consumidores o usuarios participar de forma equitativa de sus ventajas.
+b) No impongan a las empresas interesadas restricciones que no sean indispensables para la consecución de aquellos objetivos, y
+c) No consientan a las empresas partícipes la posibilidad de eliminar la competencia respecto de una parte sustancial de los productos o servicios contemplados.
+4. La prohibición del apartado 1 no se aplicará a los acuerdos, decisiones, o recomendaciones colectivas, o prácticas concertadas o conscientemente paralelas que cumplan las disposiciones establecidas en los Reglamentos Comunitarios relativos a la aplicación del apartado 3 del artículo 81 del Tratado CE a determinadas categorías de acuerdos, decisiones de asociaciones de empresa y prácticas concertadas, incluso cuando las correspondientes conductas no puedan afectar al comercio entre los Estados miembros de la UE.
+5. Asimismo, el Gobierno podrá declarar mediante Real Decreto la aplicación del apartado 3 del presente artículo a determinadas categorías de conductas, previo informe del Consejo de Defensa de la Competencia y de la Comisión Nacional de la Competencia.
+
+### Artículo 2
+
+Artículo 2. Abuso de posición dominante.
+1. Queda prohibida la explotación abusiva por una o varias empresas de su posición de dominio en todo o en parte del mercado nacional.
+2. El abuso podrá consistir, en particular, en:
+a) La imposición, de forma directa o indirecta, de precios u otras condiciones comerciales o de servicios no equitativos.
+b) La limitación de la producción, la distribución o el desarrollo técnico en perjuicio injustificado de las empresas o de los consumidores.
+c) La negativa injustificada a satisfacer las demandas de compra de productos o de prestación de servicios.
+d) La aplicación, en las relaciones comerciales o de servicios, de condiciones desiguales para prestaciones equivalentes, que coloque a unos competidores en situación desventajosa frente a otros.
+e) La subordinación de la celebración de contratos a la aceptación de prestaciones suplementarias que, por su naturaleza o con arreglo a los usos de comercio no guarden relación con el objeto de dichos contratos.
+3. La prohibición prevista en el presente artículo se aplicará en los casos en los que la posición de dominio en el mercado de una o varias empresas haya sido establecida por disposición legal.
+
+### Artículo 3
+
+Artículo 3. Falseamiento de la libre competencia por actos desleales.
+La Comisión Nacional de la Competencia o los órganos competentes de las Comunidades Autónomas conocerán en los términos que la presente Ley establece para las conductas prohibidas, de los actos de competencia desleal que por falsear la libre competencia afecten al interés público.
+
+### Artículo 4
+
+Artículo 4. Conductas exentas por ley.
+1. Sin perjuicio de la eventual aplicación de las disposiciones comunitarias en materia de defensa de la competencia, las prohibiciones del presente capítulo no se aplicarán a las conductas que resulten de la aplicación de una ley.
+2. Las prohibiciones del presente capítulo se aplicarán a las situaciones de restricción de competencia que se deriven del ejercicio de otras potestades administrativas o sean causadas por la actuación de los poderes públicos o las empresas públicas sin dicho amparo legal.
+
+### Artículo 5
+
+Artículo 5. Conductas de menor importancia.
+Las prohibiciones recogidas en los artículos 1 a 3 de la presente Ley no se aplicarán a aquellas conductas que, por su escasa importancia, no sean capaces de afectar de manera significativa a la competencia. Reglamentariamente se determinarán los criterios para la delimitación de las conductas de menor importancia, atendiendo, entre otros, a la cuota de mercado.
+
+### Artículo 6
+
+Artículo 6. Declaraciones de inaplicabilidad.
+Cuando así lo requiera el interés público, la Comisión Nacional de la Competencia, mediante decisión adoptada de oficio, podrá declarar, previo informe del Consejo de Defensa de la Competencia, que el artículo 1 no es aplicable a un acuerdo, decisión o práctica, bien porque no se reúnan las condiciones del apartado 1 o bien porque se reúnan las condiciones del apartado 3 de dicho artículo. Dicha declaración de inaplicabilidad podrá realizarse también con respecto al artículo 2 de esta Ley.
+
+## CAPÍTULO II
+
+De las concentraciones económicas
+
+### Artículo 7
+
+Artículo 7. Definición de concentración económica.
+1. A los efectos previstos en esta Ley se entenderá que se produce una concentración económica cuando tenga lugar un cambio estable del control de la totalidad o parte de una o varias empresas como consecuencia de:
+a) La fusión de dos o más empresas anteriormente independientes, o
+b) La adquisición por una empresa del control sobre la totalidad o parte de una o varias empresas.
+c) La creación de una empresa en participación y, en general, la adquisición del control conjunto sobre una o varias empresas, cuando éstas desempeñen de forma permanente las funciones de una entidad económica autónoma.
+2. A los efectos anteriores, el control resultará de los contratos, derechos o cualquier otro medio que, teniendo en cuenta las circunstancias de hecho y de derecho, confieran la posibilidad de ejercer una influencia decisiva sobre una empresa y, en particular, mediante:
+a) derechos de propiedad o de uso de la totalidad o de parte de los activos de una empresa,
+b) contratos, derechos o cualquier otro medio que permitan influir decisivamente sobre la composición, las deliberaciones o las decisiones de los órganos de la empresa.
+En todo caso, se considerará que ese control existe cuando se den los supuestos previstos en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+3. No tendrán la consideración de concentración:
+a) La mera redistribución de valores o activos entre empresas de un mismo grupo.
+b) La tenencia con carácter temporal de participaciones que hayan adquirido en una empresa para su reventa por parte de una entidad de crédito u otra entidad financiera o compañía de seguros cuya actividad normal incluya la transacción y negociación de títulos por cuenta propia o por cuenta de terceros, siempre y cuando los derechos de voto inherentes a esas participaciones no se ejerzan con objeto de determinar el comportamiento competitivo de dicha empresa o sólo se ejerzan con el fin de preparar la realización de la totalidad o de parte de la empresa o de sus activos o la realización de las participaciones, y siempre que dicha realización se produzca en el plazo de un año desde la fecha de la adquisición. Con carácter excepcional, la Comisión Nacional de la Competencia podrá ampliar ese plazo previa solicitud cuando dichas entidades o sociedades justifiquen que no ha sido razonablemente posible proceder a la realización en el plazo establecido.
+c) Las operaciones realizadas por sociedades de participación financiera en el sentido del apartado 3 del artículo 5 de la cuarta Directiva 78/660/CEE del Consejo, de 25 de julio de 1978, que adquieran con carácter temporal participaciones en otras empresas, siempre que los derechos de voto inherentes a las participaciones sólo sean ejercidos para mantener el pleno valor de tales inversiones y no para determinar el comportamiento competitivo de dichas empresas.
+d) La adquisición de control por una persona en virtud de un mandato conferido por autoridad pública con arreglo a la normativa concursal.
+
+### Artículo 8
+
+Artículo 8. Ámbito de aplicación.
+1. El procedimiento de control previsto en la presente ley se aplicará a las concentraciones económicas cuando concurra al menos una de las dos circunstancias siguientes:
+a) Que como consecuencia de la concentración se adquiera o se incremente una cuota igual o superior al 30 por ciento del mercado relevante de producto o servicio en el ámbito nacional o en un mercado geográfico definido dentro del mismo.
+Quedan exentas del procedimiento de control todas aquéllas concentraciones económicas en las que, aun cumpliendo lo establecido en ésta letra a), el volumen de negocios global en España de la sociedad adquirida o de los activos adquiridos en el último ejercicio contable no supere la cantidad de 10 millones de euros, siempre y cuando las partícipes no tengan una cuota individual o conjunta igual o superior al 50 por ciento en cualquiera de los mercados afectados, en el ámbito nacional o en un mercado geográfico definido dentro del mismo.
+b) Que el volumen de negocios global en España del conjunto de los partícipes supere en el último ejercicio contable la cantidad de 240 millones de euros, siempre que al menos dos de los partícipes realicen individualmente en España un volumen de negocios superior a 60 millones de euros.
+2. Las obligaciones previstas en la presente Ley no afectan a aquellas concentraciones de dimensión comunitaria tal como se definen en el Reglamento (CE) n.º 139/2004 del Consejo, de 20 de enero, sobre el control de las concentraciones entre empresas, salvo que la concentración haya sido objeto de una decisión de remisión por la Comisión Europea a España conforme a lo establecido en el citado Reglamento.
+Se modifica el apartado 1 por la disposición final 3 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 9
+
+Artículo 9. Obligación de notificación y suspensión de la ejecución.
+1. Las concentraciones económicas que entren en el ámbito de aplicación del artículo anterior deberán notificarse a la Comisión Nacional de la Competencia previamente a su ejecución.
+2. La concentración económica no podrá ejecutarse hasta que haya recaído y sea ejecutiva la autorización expresa o tácita de la Administración en los términos previstos en el artículo 38, salvo en caso de levantamiento de la suspensión.
+3. Los apartados anteriores no impedirán realizar una oferta pública de adquisición de acciones admitidas a negociación en una bolsa de valores autorizada por la Comisión Nacional del Mercado de Valores que sea una concentración económica sujeta a control de acuerdo con lo previsto en la presente Ley, siempre y cuando:
+a) la concentración sea notificada a la Comisión Nacional de la Competencia en el plazo de cinco días desde que se presenta la solicitud de la autorización de la oferta a la Comisión Nacional del Mercado de Valores, en caso de no haber sido notificada con anterioridad, y
+b) el comprador no ejerza los derechos de voto inherentes a los valores en cuestión o sólo los ejerza para salvaguardar el valor íntegro de su inversión sobre la base de una dispensa concedida por la Comisión Nacional de la Competencia.
+4. Están obligados a notificar:
+a) Conjuntamente las partes que intervengan en una fusión, en la creación de una empresa en participación o en la adquisición del control conjunto sobre la totalidad o parte de una o varias empresas.
+b) Individualmente, la parte que adquiera el control exclusivo sobre la totalidad o parte de una o varias empresas.
+5. En el caso de que una concentración sujeta a control según lo previsto en la presente Ley no hubiese sido notificada a la Comisión Nacional de la Competencia, ésta, de oficio, requerirá a las partes obligadas a notificar para que efectúen la correspondiente notificación en un plazo no superior a veinte días a contar desde la recepción del requerimiento.
+No se beneficiarán del silencio positivo previsto en el artículo 38 aquellas concentraciones notificadas a requerimiento de la Comisión Nacional de la Competencia.
+Transcurrido el plazo para notificar sin que se haya producido la notificación, la Dirección de Investigación podrá iniciar de oficio el expediente de control de concentraciones, sin perjuicio de la aplicación de las sanciones y multas coercitivas previstas en los artículos 61 a 70.
+6. El Consejo de la Comisión Nacional de la Competencia podrá acordar el levantamiento de la suspensión de la ejecución de la concentración a que se refiere el apartado 2 de este artículo, a propuesta de la Dirección de Investigación y previa solicitud motivada.
+La resolución se dictará previa ponderación, entre otros factores, del perjuicio que causaría la suspensión de la ejecución a las empresas partícipes en la concentración y del que la ejecución de la operación causaría a la libre competencia.
+El levantamiento de la suspensión de la ejecución podrá estar subordinado al cumplimiento de condiciones y obligaciones que garanticen la eficacia de la decisión que finalmente se adopte.
+
+### Artículo 10
+
+Artículo 10. Criterios de valoración sustantiva.
+1. La Comisión Nacional de la Competencia valorará las concentraciones económicas atendiendo a la posible obstaculización del mantenimiento de una competencia efectiva en todo o en parte del mercado nacional.
+En concreto, la Comisión Nacional de la Competencia adoptará su decisión atendiendo, entre otros, a los siguientes elementos:
+a) la estructura de todos los mercados relevantes,
+b) la posición en los mercados de las empresas afectadas, su fortaleza económica y financiera,
+c) la competencia real o potencial de empresas situadas dentro o fuera del territorio nacional,
+d) las posibilidades de elección de proveedores y consumidores, su acceso a las fuentes de suministro o a los mercados,
+e) la existencia de barreras para el acceso a dichos mercados,
+f) la evolución de la oferta y de la demanda de los productos y servicios de que se trate,
+g) el poder de negociación de la demanda o de la oferta y su capacidad para compensar la posición en el mercado de las empresas afectadas,
+h) las eficiencias económicas derivadas de la operación de concentración y, en particular, la contribución que la concentración pueda aportar a la mejora de los sistemas de producción o comercialización así como a la competitividad empresarial, y la medida en que dichas eficiencias sean trasladadas a los consumidores intermedios y finales, en concreto, en la forma de una mayor o mejor oferta y de menores precios.
+2. En la medida en que la creación de una empresa en participación sujeta al control de concentraciones tenga por objeto o efecto coordinar el comportamiento competitivo de empresas que continúen siendo independientes, dicha coordinación se valorará en función de lo establecido en los artículos 1 y 2 de la presente Ley.
+3. En su caso, en la valoración de una concentración económica podrán entenderse comprendidas determinadas restricciones a la competencia accesorias, directamente vinculadas a la operación y necesarias para su realización.
+4. El Consejo de Ministros, a efectos de lo previsto en el artículo 60 de esta Ley, podrá valorar las concentraciones económicas atendiendo a criterios de interés general distintos de la defensa de la competencia.
+En particular, se entenderá como tales los siguientes:
+a) defensa y seguridad nacional,
+b) protección de la seguridad o salud públicas,
+c) libre circulación de bienes y servicios dentro del territorio nacional,
+d) protección del medio ambiente,
+e) promoción de la investigación y el desarrollo tecnológicos,
+f) garantía de un adecuado mantenimiento de los objetivos de la regulación sectorial.
+
+## CAPÍTULO III
+
+De las ayudas públicas
+
+### Artículo 11
+
+Artículo 11. Ayudas públicas.
+1. La Comisión Nacional de la Competencia, de oficio o a instancia de las Administraciones Públicas, podrá analizar los criterios de concesión de las ayudas públicas en relación con sus posibles efectos sobre el mantenimiento de la competencia efectiva en los mercados con el fin de:
+a) Emitir informes con respecto a los regímenes de ayudas y las ayudas individuales.
+b) Dirigir a las Administraciones Públicas propuestas conducentes al mantenimiento de la competencia.
+2. En todo caso, la Comisión Nacional de la Competencia emitirá un informe anual sobre las ayudas públicas concedidas en España que tendrá carácter público en los términos previstos en el artículo 27.3.b) de la presente Ley.
+La Comisión Nacional de los Mercados y la Competencia remitirá a las Cortes Generales, a través de su Oficina Presupuestaria, un informe anual sobre las ayudas públicas concedidas en España. La Oficina pondrá dicha información a disposición de los Diputados, Senadores y las Comisiones parlamentarias
+3. A los efectos de la realización de los informes y propuestas previstos en los apartados 1 y 2 de este artículo, el órgano responsable de la notificación a la Comisión Europea deberá comunicar a la Comisión Nacional de la Competencia:
+a) los proyectos de ayudas públicas incluidos en el ámbito de aplicación de los artículos 87 y 88 del Tratado CE, en el momento de su notificación a la Comisión Europea.
+b) las ayudas públicas concedidas al amparo de Reglamentos comunitarios de exención, así como los informes anuales recogidos en el artículo 21 del Reglamento (CE) n.º 659/1999 del Consejo, de 22 de marzo de 1999, en el momento de su notificación a la Comisión Europea.
+La Comisión Nacional de la Competencia habilitará los mecanismos de información y comunicación necesarios para que la información recibida esté a disposición de los órganos de Defensa de la Competencia de las Comunidades Autónomas.
+4. Sin perjuicio de lo anterior, la Comisión Nacional de la Competencia podrá requerir cualquier información en relación con los proyectos y las ayudas concedidas por las Administraciones públicas y, en concreto, las disposiciones por las que se establezca cualquier ayuda pública distinta de las contempladas en los apartados a) y b) del punto anterior.
+5. Los órganos de Defensa de la Competencia de las Comunidades Autónomas podrán elaborar, igualmente, informes sobre las ayudas públicas concedidas por las Administraciones autonómicas o locales en su respectivo ámbito territorial, a los efectos previstos en el apartado 1 de este artículo. Estos informes se remitirán a la Comisión Nacional de la Competencia a los efectos de su incorporación al informe anual. Lo anterior se entenderá sin perjuicio de las funciones en este ámbito de la Comisión Nacional de la Competencia.
+6. Lo establecido en este artículo se entenderá sin perjuicio de los artículos 87 a 89 del Tratado de la Comunidad Europea y del Reglamento (CE) n.º 659/1999 del Consejo, de 22 de marzo de 1999, y de las competencias de la Comisión Europea y de los órganos jurisdiccionales comunitarios y nacionales en materia de control de ayudas públicas.
+Se añade un párrafo al apartado 2 por la disposición final 20 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+
+## TÍTULO II
+
+Del esquema institucional para la aplicación de esta Ley
+
+## CAPÍTULO I
+
+De los órganos competentes para la aplicación de esta Ley
+
+### Artículo 12
+
+Artículo 12. La Comisión Nacional de la Competencia.
+(Derogado)
+Se deroga por la disposición derogatoria e) de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+ Se modifica el apartado 2 por la disposición final 35.1 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 13
+
+Artículo 13. Los órganos competentes de las Comunidades Autónomas.
+1. Los órganos de las Comunidades Autónomas competentes para la aplicación de esta Ley ejercerán en su territorio las competencias ejecutivas correspondientes en los procedimientos que tengan por objeto las conductas previstas en los artículos 1, 2 y 3 de esta Ley de acuerdo con lo dispuesto en la misma y en la Ley 1/2002, de 21 de febrero, de Coordinación de las Competencias del Estado y las Comunidades Autónomas en materia de Defensa de la Competencia.
+2. Sin perjuicio de las competencias de la Comisión Nacional de la Competencia, los órganos competentes de las Comunidades Autónomas están legitimados para impugnar ante la jurisdicción competente actos de las Administraciones Públicas autonómicas o locales de su territorio sujetos al Derecho Administrativo y disposiciones generales de rango inferior a la ley de los que se deriven obstáculos al mantenimiento de una competencia efectiva en los mercados.
+
+### Artículo 14
+
+Artículo 14. El Consejo de Ministros.
+El Consejo de Ministros podrá intervenir en el procedimiento de control de concentraciones económicas de acuerdo con lo previsto en el artículo 60 de la presente Ley.
+
+## CAPÍTULO II
+
+Mecanismos de colaboración y cooperación
+
+### Artículo 15
+
+Artículo 15. Coordinación de la Comisión Nacional de la Competencia con los órganos competentes de las Comunidades Autónomas.
+1. La coordinación de la Comisión Nacional de la Competencia con los órganos competentes de las Comunidades Autónomas se llevará a cabo según lo dispuesto en la Ley 1/2002, de 21 de febrero, de Coordinación de las Competencias del Estado y las Comunidades Autónomas en materia de Defensa de la Competencia.
+2. A los efectos de facilitar la cooperación con los órganos jurisdiccionales y la coordinación con los órganos reguladores, la Comisión Nacional de la Competencia y los órganos de defensa de la competencia de las Comunidades Autónomas habilitarán los mecanismos de información y comunicación de actuaciones, solicitudes e informes previstos en los artículos 16 y 17 de la presente Ley respecto de aquellos procedimientos que hayan sido iniciados formalmente según lo previsto en la Ley 1/2002, de 21 de febrero, de Coordinación de las competencias del Estado y las Comunidades Autónomas en materia de Defensa de la Competencia.
+
+### Artículo 16
+
+Artículo 16. Cooperación con los órganos jurisdiccionales.
+1. La Comisión Nacional de la Competencia por propia iniciativa podrá aportar información o presentar observaciones a los órganos jurisdiccionales sobre cuestiones relativas a la aplicación de los artículos 81 y 82 del Tratado de la Comunidad Europea o relativas a los artículos 1 y 2 de esta Ley, en los términos previstos en la Ley de Enjuiciamiento Civil.
+2. Los órganos competentes de las Comunidades Autónomas, en el ámbito de sus competencias, por propia iniciativa podrán aportar información o presentar observaciones a los órganos jurisdiccionales sobre cuestiones relativas a la aplicación de los artículos 1 y 2 de esta Ley, en los términos previstos en la Ley de Enjuiciamiento Civil.
+3. Los autos de admisión a trámite de las demandas y las sentencias que se pronuncien en los procedimientos sobre la aplicación de los artículos 81 y 82 del Tratado de la Comunidad Europea o de los artículos 1 y 2 de la Ley de Defensa de la Competencia se comunicarán a la Comisión Nacional de la Competencia en los términos previstos en la Ley de Enjuiciamiento Civil. La Comisión Nacional de la Competencia habilitará los mecanismos de información necesarios para comunicar estas sentencias a los órganos autonómicos.
+4. La Comisión Nacional de la Competencia remitirá a la Comisión Europea una copia del texto de las sentencias que se pronuncien sobre la aplicación de los artículos 81 y 82 del Tratado de la Comunidad Europea.
+
+### Artículo 17
+
+Artículo 17. Coordinación con los reguladores sectoriales.
+(Derogado)
+Se deroga por la disposición derogatoria e) de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+ Se modifica por la disposición final 35.2 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 18
+
+Artículo 18. Colaboración de la Comisión Nacional de los Mercados y la Competencia con Autoridades Nacionales de Competencia de otros Estados miembros y con la Comisión Europea.
+1. La Comisión Nacional de los Mercados y la Competencia, al objeto de aplicar los artículos 101 y 102 del Tratado de Funcionamiento de la Unión Europea y en el ejercicio de su facultad de colaboración con Autoridades Nacionales de Competencia de otros Estados miembros y con la Comisión Europea, podrá:
+a) Intercambiar con la Comisión Europea y con las Autoridades Nacionales de Competencia de otros Estados miembros y utilizar como medio de prueba todo elemento de hecho o de derecho, incluida la información confidencial, en los términos previstos en la normativa europea. En particular, en relación con las declaraciones de clemencia, estas se podrán intercambiar con el consentimiento del solicitante o cuando dicho solicitante haya presentado su solicitud ante las citadas Autoridades de Competencia, siempre y cuando en la fecha de transmisión de la declaración de clemencia, el solicitante de clemencia no pueda retirar la información facilitada a la Autoridad de Competencia que reciba la declaración de clemencia.
+b) Ejercer, a requerimiento de la Comisión Europea o de las Autoridades Nacionales de Competencia de otros Estados miembros, las facultades previstas en los artículos 39, 39 bis y 40 de esta ley, de conformidad con lo previsto en los artículos 20 a 22 del Reglamento (CE) n.° 1/2003 del Consejo, de 16 de diciembre de 2002, relativo a la aplicación de las normas sobre competencia previstas en los artículos 81 y 82 del Tratado y en el artículo 24 de la Directiva (UE) 2019/1 del Parlamento Europeo y del Consejo de 11 de diciembre de 2018, encaminada a dotar a las autoridades de competencia de los Estados miembros de medios para aplicar más eficazmente las normas sobre competencia y garantizar el correcto funcionamiento del mercado interior.
+c) Autorizar con carácter excepcional a personal de las Autoridades Nacionales de Competencia de otros Estados miembros, para que, bajo la supervisión del personal de la Comisión Nacional de los Mercados y la Competencia, puedan asistir y ayudar activamente a esta en el ejercicio de las facultades previstas en los artículos 39 bis y 40, de conformidad con lo previsto en el artículo 24.1 de la Directiva (UE) 2019/1, de 11 de diciembre de 2018.
+d) Notificar, en nombre y representación de las Autoridades Nacionales de Competencia de otros Estados miembros, los pliegos de concreción de hechos, las resoluciones en las que se acredite la existencia de prácticas prohibidas o la imposición de multas o multas coercitivas y cualquier otra decisión, acto o documento en relación con la aplicación de los artículos 101 y 102 del Tratado de Funcionamiento de la Unión Europea, de conformidad con lo previsto en el artículo 25 de la Directiva (UE) 2019/1, de 11 de diciembre de 2018.
+e) Tramitar la ejecución de resoluciones firmes en aplicación de los artículos 101 y 102 del Tratado de Funcionamiento de la Unión Europea por las que se imponen multas o multas coercitivas, en nombre y representación de las Autoridades Nacionales de Competencia de otros Estados miembros, de conformidad con lo previsto en el artículo 26 de la Directiva (UE) 2019/1, de 11 de diciembre de 2018, cuando la empresa o asociación de empresas sancionada no esté establecida o no tenga suficientes activos para hacer frente a la multa en el Estado miembro que impone la multa.
+f) Solicitar a otra Autoridad Nacional de Competencia de la Unión Europea que realice una inspección, una entrevista o un requerimiento de información en nombre y por cuenta de la Comisión Nacional de los Mercados y la Competencia, designando, en su caso, al personal de la Comisión Nacional de los Mercados y la Competencia para asistir y ayudar activamente en dicha inspección o entrevista, en aplicación del artículo 22 del Reglamento (CE) n.° 1/2003, de 16 de diciembre de 2002, y del artículo 24.1 de la Directiva (UE) 2019/1, de 11 de diciembre de 2018.
+g) Actuar como autoridad requirente a efectos de la aplicación de los artículos 25 a 28 de la Directiva (UE) 2019/1, de 11 de diciembre de 2018.
+h) Garantizar los contactos necesarios entre autoridades competentes de conformidad con lo previsto en el artículo 23 apartado 4 de la Directiva (UE) 2019/1, de 11 de diciembre de 2018. Las comunicaciones con los órganos jurisdiccionales se regirán conforme a lo dispuesto en la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+Las notificaciones y actuaciones realizadas por la Dirección de Competencia de la Comisión Nacional de los Mercados y la Competencia en virtud de este apartado se regirán por la legislación española aplicable a los actos de la propia Comisión Nacional de los Mercados y la Competencia.
+2. La Comisión Nacional de los Mercados y la Competencia, en el ejercicio de sus funciones de control de concentraciones en operaciones que hayan sido notificadas en otros Estados miembros o ante la Comisión Europea o sean susceptible de serlo, y previa autorización expresa de las partes, podrá intercambiar con la Comisión Europea y con las Autoridades Nacionales de Competencia de otros Estados miembros y utilizar como medio de prueba todo elemento de hecho o de derecho, incluida la información confidencial.
+3. La Dirección de Competencia de la Comisión Nacional de los Mercados y la Competencia podrá llevar a cabo investigaciones sobre casos de posible incumplimiento en el territorio nacional de los artículos 5, 6 y 7 del Reglamento (UE) 2022/1925 del Parlamento Europeo y del Consejo de 14 de septiembre de 2022 sobre mercados disputables y equitativos en el sector digital y por el que se modifican las Directivas (UE) 2019/1937 y (UE) 2020/1828 (Reglamento de Mercados Digitales), conforme a lo previsto en su artículo 38. La Dirección de Competencia de la Comisión Nacional de los Mercados y la Competencia podrá utilizar asimismo la información recibida de terceros en virtud del artículo 27 del Reglamento de Mercados Digitales.
+Antes de adoptar la primera medida formal de investigación, la Dirección de Competencia de la Comisión Nacional de los Mercados y la Competencia informará por escrito a la Comisión Europea.
+La incoación de un procedimiento por parte de la Comisión Europea con arreglo al artículo 20 del Reglamento de Mercados Digitales privará a la Dirección de Competencia de la Comisión Nacional de los Mercados y la Competencia de llevar a cabo dicha investigación a los fines de aplicación de dicho Reglamento o de poner fin a una investigación que se halle en curso. La Dirección de Competencia de la Comisión Nacional de los Mercados y la Competencia informará a la Comisión Europea de las conclusiones de su investigación.
+La investigación se realizará conforme a las normas aplicables a la información reservada que se refiere el artículo 49.2 de la presente ley.
+Para realizar dichas investigaciones, la Dirección de Competencia podrá hacer uso de las facultades de los artículos 39, 39 bis y 40 de la presente Ley, siendo de aplicación el régimen de infracciones y sanciones relativo a dichos preceptos.
+La información recabada en las investigaciones que se refiere este apartado podrá ser utilizada para la aplicación de lo previsto en la presente ley.
+La información recabada al amparo de lo previsto en la presente ley podrá ser utilizada para la aplicación de este apartado.
+4. La Comisión Nacional de los Mercados y la Competencia en el marco de las inspecciones dentro de la Unión a las que se refiere el artículo 14 del Reglamento (UE) 2022/2560 del Parlamento Europeo y del Consejo de 14 de diciembre de 2022 sobre las subvenciones extranjeras que distorsionan el mercado interior (Reglamento de Subvenciones Extranjeras), podrá:
+a) De conformidad con el apartado 5 del artículo 14 del Reglamento de Subvenciones Extranjeras, prestar asistencia activa a los funcionarios y demás acompañantes habilitados por la Comisión Europea para realizar inspecciones, ejerciendo las facultades a las que se refiere el apartado 2 del artículo 14 de dicho Reglamento.
+b) Llevar a cabo en el territorio nacional las inspecciones u otras medidas de investigación establecidas en la presente ley solicitadas por la Comisión Europea, conforme a lo previsto en el apartado 7 del artículo 14 del Reglamento de subvenciones extranjeras.
+Para ello, la Comisión Nacional de los Mercados y la Competencia podrá hacer uso de las facultades de los artículos 39, 39 bis y 40 de la presente ley, siendo de aplicación el régimen de infracciones y sanciones relativo a dichos preceptos.
+La información recabada en las investigaciones que se refiere este apartado podrá ser utilizada para la aplicación de lo previsto en la presente ley.
+La información recabada al amparo de lo previsto en la presente ley podrá ser intercambiada con la Comisión Europea para la aplicación de este apartado.
+Se añade el apartado 4 por la disposición final 7 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#df-7
+ Se modifica por el art. 219.1 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-31
+ Se modifica por el art. 1.1 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+## TÍTULO III
+
+De la Comisión Nacional de la Competencia
+Se deroga por la disposición derogatoria e) de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+
+## CAPÍTULO I
+
+Disposiciones comunes
+
+## Sección 1
+
+Sección 1.ª Naturaleza jurídica y régimen de funcionamiento de la Comisión Nacional de la Competencia
+
+### Artículos 19 a 35
+
+Artículos 19 a 35.
+(Derogados)
+Se derogan por la disposición derogatoria e) de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+
+### Artículo 19
+
+Artículo 19. Naturaleza y régimen jurídico.
+1. La Comisión Nacional de la Competencia es una entidad de Derecho público con personalidad jurídica propia y plena capacidad pública y privada, adscrita al Ministerio de Economía y Hacienda, que ejercerá el control de eficacia sobre su actividad. La Comisión Nacional de la Competencia actuará en el desarrollo de su actividad y para el cumplimiento de sus fines con autonomía orgánica y funcional, plena independencia de las Administraciones Públicas, y sometimiento a esta Ley y al resto del ordenamiento jurídico.
+2. En defecto de lo dispuesto en esta Ley y en las normas que la desarrollen, la Comisión Nacional de la Competencia actuará en el ejercicio de sus funciones públicas con arreglo a lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, de acuerdo con lo previsto en su disposición adicional décima, y en su propio Estatuto.
+
+### Artículo 20
+
+Artículo 20. Composición de la Comisión Nacional de la Competencia.
+Los órganos de la Comisión Nacional de la Competencia son:
+a) El Presidente de la Comisión Nacional de la Competencia, que ostenta las funciones de dirección y representación de la misma y preside el Consejo.
+b) El Consejo de la Comisión Nacional de la Competencia, órgano colegiado de resolución formado por el Presidente de la Comisión Nacional de la Competencia y seis Consejeros.
+c) La Dirección de Investigación, que realiza las funciones de instrucción de expedientes, investigación, estudio y preparación de informes de la Comisión Nacional de la Competencia.
+Se modifica por la disposición final 35.3 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 21
+
+Artículo 21. Personal de la Comisión Nacional de la Competencia.
+1. El personal al servicio de la Comisión Nacional de la Competencia será funcionario o laboral en los términos establecidos para la Administración General de Estado, de acuerdo con su Estatuto.
+2. El Estatuto de la Comisión Nacional de la Competencia determinará los puestos de trabajo del personal directivo en atención a la especial responsabilidad, competencia técnica y relevancia de las tareas a ellos asignadas. El personal directivo será preferentemente funcionario, permitiéndose la cobertura de puestos directivos en régimen laboral mediante contratos de alta dirección, siempre que no tengan atribuido el ejercicio de potestades públicas, de conformidad con lo dispuesto en el artículo 9.2 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+3. El personal que pase a prestar servicios en la Comisión Nacional de la Competencia por los procedimientos de provisión de puestos de trabajo previstos en esta Ley, mantendrá la condición de personal funcionario o laboral, de acuerdo con la legislación aplicable.
+El personal funcionario de carrera se hallará en la situación de servicio activo, salvo que les corresponda quedar en la situación de servicios especiales.
+4. En los términos en que se establezca en su Estatuto, la Comisión Nacional de la Competencia podrá igualmente contratar personal laboral temporal para la realización de trabajos de especial contenido técnico, de acuerdo con la normativa aplicable en materia de contratación laboral de las Administraciones Públicas.
+5. La tramitación de las correspondientes convocatorias de selección y provisión de puestos de trabajo se realizará por la Comisión Nacional de la Competencia en los mismos términos establecidos para la Administración General del Estado.
+
+### Artículo 22
+
+Artículo 22. Recursos económicos de la Comisión Nacional de la Competencia.
+1. La Comisión Nacional de la Competencia contará, para el cumplimiento de sus fines, con los siguientes bienes y medios económicos:
+a) Las asignaciones que se establezcan anualmente con cargo a los Presupuestos Generales del Estado.
+b) Los bienes y derechos que constituyan su patrimonio, así como los productos y rentas del mismo.
+c) Los ingresos obtenidos por la liquidación de tasas devengadas por la realización de actividades de prestación de servicios derivados del ejercicio de las competencias y funciones atribuidas por esta Ley. En particular, constituirán ingresos de la Comisión Nacional de la Competencia las tasas que se regulan en el artículo 23 de esta Ley.
+d) Cualesquiera otros que legalmente puedan serle atribuidos.
+2. La Comisión Nacional de la Competencia elaborará y aprobará con carácter anual un anteproyecto de presupuesto con la estructura que señale el Ministerio de Economía y Hacienda y lo remitirá a éste para su elevación al acuerdo del Gobierno y posterior remisión a las Cortes Generales, integrado en los Presupuestos Generales del Estado.
+3. El control económico y financiero de la Comisión Nacional de la Competencia se efectuará con arreglo a lo dispuesto en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, y en la Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de Cuentas.
+
+### Artículo 23
+
+Artículo 23. Tasa por análisis y estudio de las operaciones de concentración.
+1. La tasa por análisis y estudio de las operaciones de concentración se regirá por lo dispuesto en esta Ley y por la normativa general sobre tasas. La gestión de la tasa se llevará a cabo por la Comisión Nacional de la Competencia en los términos que se establezcan reglamentariamente.
+2. Constituye el hecho imponible de la tasa la realización del análisis de las concentraciones sujetas a control de acuerdo con el artículo 8 de esta Ley.
+3. Serán sujetos pasivos de la tasa las personas que resulten obligadas a notificar de acuerdo con el artículo 9 de esta Ley.
+4. El devengo de la tasa se producirá cuando el sujeto pasivo presente la notificación prevista en el artículo 9 de esta Ley. Si en el momento de la notificación se presenta la autoliquidación sin ingreso, se procederá a su exacción por la vía de apremio, sin perjuicio de que la Comisión Nacional de la Competencia instruya el correspondiente expediente.
+5. La cuota de la tasa será:
+a) De 5.502,15 euros cuando el volumen de negocios global en España del conjunto de los partícipes en la operación de concentración sea igual o inferior a 240.000.000 de euros.
+b) De 11.004,31 euros cuando el volumen de negocios global en España de las empresas partícipes sea superior a 240.000.000 de euros e igual o inferior a 480.000.000 de euros.
+c) De 22.008,62 euros cuando el volumen de negocios global en España de las empresas partícipes sea superior a 480.000.000 de euros e igual o inferior a 3.000.000.000 de euros.
+d) De una cantidad fija de 43.944 euros cuando el volumen de negocios en España del conjunto de los partícipes sea superior a 3.000.000.000 de euros, más 11.004,31 euros adicionales por cada 3.000.000.000 de euros en que el mencionado volumen de negocios supere la cantidad anterior, hasta un límite máximo de 109.860 euros.
+6. Para aquellas concentraciones notificadas a través del formulario abreviado previsto en el artículo 56 de esta Ley, se aplicará una tasa reducida de 1.500 euros. En caso de que la Comisión Nacional de la Competencia, conforme a lo establecido en dicho artículo 56, decida que las partes deben presentar el formulario ordinario, éstas deberán realizar la liquidación complementaria correspondiente.
+Se modifica por el art. 92 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+
+## Sección 2
+
+Sección 2.ª Funciones de la Comisión Nacional de la Competencia
+
+### Artículo 24
+
+Artículo 24. Funciones de instrucción, resolución y arbitraje.
+La Comisión Nacional de la Competencia es el órgano competente para instruir y resolver sobre los asuntos que tiene atribuidos por esta Ley y, en particular:
+a) Aplicar lo dispuesto en la presente Ley en materia de conductas restrictivas de la competencia, sin perjuicio de las competencias que correspondan a los órganos autonómicos de Defensa de la Competencia en su ámbito respectivo y de las propias de la jurisdicción competente.
+b) Aplicar lo dispuesto en la presente Ley en materia de control de concentraciones económicas.
+c) Aplicar en España los artículos 81 y 82 del Tratado de la Comunidad Europea y de su Derecho derivado, sin perjuicio de las competencias que correspondan en el ámbito de la jurisdicción competente.
+d) Adoptar las medidas y decisiones para aplicar los mecanismos de cooperación y asignación de expedientes con la Comisión Europea y otras autoridades nacionales de competencia de los Estados miembros previstos en la normativa comunitaria y, en particular, en el Reglamento (CE) n.º 1/2003 del Consejo, de 16 de diciembre de 2002, relativo a la aplicación de las normas sobre competencia previstas en los artículos 81 y 82 del Tratado de la Comunidad Europea, y en el Reglamento (CE) n.º 139/2004 del Consejo, de 20 de enero de 2004, sobre el control de las concentraciones entre empresas y sus normas de desarrollo.
+e) Ejercer las funciones que corresponden a la Administración General del Estado en relación con los mecanismos de coordinación previstos en la Ley 1/2002, de 21 de febrero, de coordinación de las competencias del Estado y las Comunidades Autónomas en materia de defensa de la competencia.
+f) Realizar las funciones de arbitraje, sin perjuicio de las competencias que correspondan a los órganos competentes de las Comunidades Autónomas en sus ámbitos respectivos, tanto de derecho como de equidad, que le sean sometidas por los operadores económicos en aplicación de la Ley 60/2003, de 23 de diciembre, de Arbitraje, así como aquéllas que le encomienden las leyes.
+
+### Artículo 25
+
+Artículo 25. Competencias consultivas.
+La Comisión Nacional de la Competencia actuará como órgano consultivo sobre cuestiones relativas a la defensa de la competencia. En particular, podrá ser consultada en materia de competencia por las Cámaras Legislativas, el Gobierno, los distintos Departamentos ministeriales, las Comunidades Autónomas, las Corporaciones locales, los Colegios profesionales, las Cámaras de Comercio y las organizaciones empresariales o de consumidores y usuarios. En todo caso, la Comisión Nacional de la Competencia dictaminará sobre:
+a) Proyectos y proposiciones de normas que afecten a la competencia y, en particular, aquéllos por los que se modifique o derogue, total o parcialmente, el presente texto legal o la Ley 1/2002, de 21 de febrero, de coordinación de las competencias del Estado y las Comunidades Autónomas en materia de defensa de la competencia, así como los proyectos de normas reglamentarias que las desarrollen.
+b) Proyectos de apertura de grandes establecimientos comerciales, según establece la Ley 7/1996, de 15 de enero, de Ordenación del comercio minorista, cuando su instalación en la zona de que se trate pueda alterar la libre competencia en un ámbito supraautonómico o en el conjunto del mercado nacional, poniendo de manifiesto la repercusión de los Proyectos de apertura para la defensa de la competencia.
+c) Criterios para la cuantificación de las indemnizaciones que los autores de las conductas previstas en los artículos 1, 2 y 3 de la presente Ley deban satisfacer a los denunciantes y a terceros que hubiesen resultado perjudicados como consecuencia de aquéllas, cuando le sea requerido por el órgano judicial competente.
+d) Todas las cuestiones a que se refiere el artículo 16 de esta Ley y el Reglamento (CE) n.º 1/2003 del Consejo, de 16 de diciembre de 2002, relativo a la aplicación de las normas sobre competencia previstas en los artículos 81 y 82 del Tratado de la Comunidad Europea en cuanto a los mecanismos de cooperación con los órganos jurisdiccionales nacionales.
+e) Cualesquiera otras cuestiones sobre las que deba informar la Comisión Nacional de la Competencia de acuerdo con lo previsto en la normativa vigente.
+
+### Artículo 26
+
+Artículo 26. Otras funciones de la Comisión Nacional de la Competencia.
+1. La Comisión Nacional de la Competencia promoverá la existencia de una competencia efectiva en los mercados, en particular, mediante las siguientes actuaciones:
+a) promover y realizar estudios y trabajos de investigación en materia de competencia,
+b) realizar informes generales sobre sectores, en su caso, con propuestas de liberalización, desregulación o modificación normativa,
+c) realizar informes, en su caso con carácter periódico, sobre la actuación del sector público y, en concreto, sobre las situaciones de obstaculización del mantenimiento de la competencia efectiva en los mercados que resulten de la aplicación de normas legales,
+d) realizar informes generales o puntuales sobre el impacto de las ayudas públicas sobre la competencia efectiva en los mercados,
+e) dirigir a las Administraciones Públicas propuestas para la modificación o supresión de las restricciones a la competencia efectiva derivadas de su actuación, así como, en su caso, las demás medidas conducentes al mantenimiento o al restablecimiento de la competencia en los mercados,
+f) proponer al Ministro de Economía y Hacienda, para su elevación, en su caso, al Consejo de Ministros, las directrices de política de defensa de la competencia en el marco de la política económica de aquél y, en particular, las propuestas de elaboración y reforma normativa correspondientes.
+2. La Comisión Nacional de la Competencia velará por la aplicación coherente de la normativa de competencia en el ámbito nacional, en particular mediante la coordinación de las actuaciones de los reguladores sectoriales y de los órganos competentes de las Comunidades Autónomas y la cooperación con los órganos jurisdiccionales competentes.
+3. La Comisión Nacional de la Competencia será el órgano de apoyo del Ministerio de Economía y Hacienda en la representación de España en el ámbito internacional en materia de competencia.
+
+## Sección 3
+
+Sección 3.ª Transparencia y responsabilidad social de la Comisión Nacional de la Competencia
+
+### Artículo 27
+
+Artículo 27. Publicidad de las actuaciones de la Comisión Nacional de la Competencia.
+1. La Comisión Nacional de la Competencia hará públicas todas las resoluciones y acuerdos que se dicten en aplicación de esta Ley y, en particular:
+a) Las resoluciones que pongan fin al procedimiento en expedientes sancionadores.
+b) Las resoluciones que acuerden la imposición de medidas cautelares.
+c) Las resoluciones que pongan fin a la primera y segunda fase en expedientes de control de concentraciones.
+2. Será público el hecho de la iniciación de un expediente de control de concentraciones.
+3. La Comisión Nacional de la Competencia hará públicos los informes que elabore en aplicación de esta Ley. En particular:
+a) Los informes elaborados en el procedimiento de control de concentraciones, una vez adoptadas por el Consejo de la Comisión Nacional de la Competencia las resoluciones correspondientes a primera y segunda fase.
+b) Los informes anuales sobre ayudas públicas, tras su envío al Ministerio de Economía y Hacienda y a la Comisión de Economía y Hacienda del Congreso de los Diputados y los informes realizados, bien de oficio o a instancia de parte, sobre los criterios de concesión de las ayudas públicas, después de su comunicación a los órganos de las Administraciones Públicas correspondientes.
+c) Los informes elaborados sobre proyectos normativos o actuaciones del sector público, después de su remisión al Ministerio de Economía y Hacienda y al órgano de las Administraciones Públicas correspondiente.
+d) Los informes elaborados sobre la estructura competitiva de mercados o sectores productivos.
+4. Las resoluciones, acuerdos e informes se harán públicos por medios informáticos y telemáticos una vez notificados a los interesados, tras resolver, en su caso, sobre los aspectos confidenciales de su contenido y previa disociación de los datos de carácter personal a los que se refiere el artículo 3.a) de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, salvo en lo que se refiere al nombre de los infractores.
+
+### Artículo 28
+
+Artículo 28. Control parlamentario de la Comisión Nacional de la Competencia.
+1. La Comisión Nacional de la Competencia hará pública su memoria anual de actuaciones, que enviará al Ministro de Economía y Hacienda y a la Comisión de Economía y Hacienda del Congreso de los Diputados.
+2. El Presidente de la Comisión Nacional de la Competencia deberá comparecer con periodicidad al menos anual ante la Comisión de Economía y Hacienda del Congreso de los Diputados para exponer las líneas básicas de su actuación y sus planes y prioridades para el futuro. Igualmente, el Presidente de la Comisión Nacional de la Competencia enviará al Ministro de Economía y Hacienda con carácter anual una programación de sus actividades. Cada tres años habrá una comparecencia especial para debatir la evaluación de los planes de actuación y los resultados obtenidos por la Comisión Nacional de la Competencia.
+3. La Comisión Nacional de la Competencia enviará al Ministro de Economía y Hacienda y a la Comisión de Economía y Hacienda del Congreso de los Diputados sus informes anuales sobre la situación competitiva de los mercados y sobre la actuación del sector público así como los informes sectoriales que apruebe en aplicación de lo previsto en el artículo 26 de la presente Ley.
+4. El Presidente de la Comisión Nacional de la Competencia y, en su caso, los miembros de ésta, comparecerán ante las Cámaras y sus Comisiones a petición de las mismas en los términos establecidos en sus respectivos Reglamentos.
+Se modifica el aparatado 2 por la disposición final 35.4 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+## CAPÍTULO II
+
+De los órganos de dirección de la Comisión Nacional de la Competencia
+
+## Sección 1
+
+Sección 1.ª Disposiciones Comunes
+
+### Artículo 29
+
+Artículo 29. Nombramiento y mandato de los órganos directivos de la Comisión Nacional de la Competencia.
+1. El Presidente de la Comisión Nacional de la Competencia, que lo será también del Consejo, será nombrado por el Gobierno mediante Real Decreto a propuesta del Ministro de Economía y Hacienda, entre juristas, economistas y otros profesionales de reconocido prestigio, previa comparecencia ante la Comisión de Economía y Hacienda del Congreso, que versará sobre la capacidad y conocimientos técnicos del candidato propuesto.
+2. Los Consejeros serán nombrados por el Gobierno mediante Real Decreto a propuesta del Ministro de Economía y Hacienda entre juristas, economistas y otros profesionales de reconocido prestigio, previa comparecencia ante la Comisión de Economía y Hacienda del Congreso de los Diputados, que versará sobre la capacidad y conocimientos técnicos del candidato propuesto.
+3. El mandato del Presidente y los Consejeros será de seis años sin posibilidad de renovación.
+4. El Director de Investigación es nombrado por el Gobierno mediante Real Decreto, a propuesta del Ministro de Economía y Hacienda, previa aprobación por mayoría simple del Consejo de la Comisión Nacional de la Competencia.
+Se modifica el apartado 2 por la disposición final 35.5 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 30
+
+Artículo 30. Causas de cese en el ejercicio del cargo.
+1. El Presidente y los Consejeros de la Comisión Nacional de la Competencia cesarán en su cargo según lo previsto en el artículo 16 de la Ley 2/2011, de 4 de marzo, de Economía Sostenible.
+2. El Director de Investigación cesará en su cargo mediante Real Decreto, a propuesta del Ministerio de Economía y Hacienda, previa aprobación por mayoría simple del Consejo de la Comisión Nacional de la Competencia.
+Se modifica el apartado 1 por la disposición final 35.6 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 31
+
+Artículo 31. Incompatibilidades.
+1. El Presidente, los Consejeros y el Director de Investigación de la Comisión Nacional de la Competencia, en su condición de altos cargos de la Administración General del Estado, ejercerán su función con dedicación absoluta y estarán sometidos al régimen de incompatibilidad de actividades establecido con carácter general para los altos cargos de la Administración General del Estado en la Ley 5/2006, de 10 de abril, de regulación de los conflictos de intereses de los miembros del Gobierno y de los Altos Cargos de la Administración General del Estado y en sus disposiciones de desarrollo, así como en el Acuerdo del Consejo de Ministros de 18 de febrero de 2005, por el que se aprueba el Código de Buen Gobierno de los miembros del Gobierno y de los Altos Cargos de la Administración General del Estado.
+2. Al cesar en su cargo y durante los dos años posteriores, el Presidente y los Consejeros de la Comisión Nacional de la Competencia no podrán ejercer actividad profesional alguna relacionada con la actividad de esta Comisión. En virtud de esta limitación, al cesar en su cargo por renuncia, expiración del término de su mandato o incapacidad permanente para el ejercicio de sus funciones, el Presidente y los Consejeros tendrán derecho a percibir a partir del mes siguiente a aquel en que se produzca su cese y durante un plazo igual al que hubiera desempeñado su cargo con el límite máximo de dos años una compensación económica mensual igual a la doceava parte del 80 por ciento del total de retribuciones asignadas al cargo respectivo en el Presupuesto en vigor durante el plazo indicado.
+No habrá lugar a la percepción de dicha compensación en caso de desempeño, de forma remunerada, de cualquier puesto de trabajo, cargo o actividad en el sector público o privado.
+
+## Sección 2
+
+Sección 2.ª Del Presidente de la Comisión Nacional de la Competencia
+
+### Artículo 32
+
+Artículo 32. Funciones del Presidente de la Comisión Nacional de la Competencia.
+Corresponde al Presidente de la Comisión Nacional de la Competencia:
+a) Ostentar la representación legal del organismo.
+b) Vigilar el desarrollo de las actividades del organismo, velando por el cumplimiento de esta Ley y sus normas de desarrollo.
+c) Mantener el buen orden y gobierno de los órganos de la Comisión Nacional de la Competencia.
+d) Impulsar la actuación inspectora de la Comisión Nacional de la Competencia y la elaboración de planes anuales o plurianuales de actuación en los que se definan objetivos y prioridades.
+e) La dirección, coordinación, evaluación y supervisión de los órganos de la Comisión Nacional de la Competencia, en particular, la coordinación del Consejo con la Dirección de Investigación y la dirección de los servicios comunes, sin perjuicio de las competencias atribuidas al Director de Investigación en el artículo 35.
+f) Dar cuenta al Ministro de Economía y Hacienda de las vacantes que se produzcan en el Consejo de la Comisión Nacional de la Competencia.
+g) Ejercer funciones de jefatura en relación con el personal de la Comisión Nacional de la Competencia, de acuerdo con las competencias atribuidas por la legislación específica y sin perjuicio de las competencias atribuidas al Director de Investigación en el artículo 35.
+h) Aprobar los gastos y ordenar los pagos de la Comisión Nacional de la Competencia, salvo los casos reservados a la competencia del Gobierno, y efectuar la rendición de cuentas del organismo de conformidad con lo previsto en la Ley General Presupuestaria.
+i) Ser órgano de contratación de la Comisión Nacional de la Competencia.
+j) Presidir el Consejo de Defensa de la Competencia.
+k) Resolver las reclamaciones previas a la vía judicial civil o laboral, así como las de responsabilidad patrimonial formuladas contra la Comisión Nacional de la Competencia.
+l) Resolver las cuestiones no asignadas al Consejo o a la Dirección de Investigación.
+
+## Sección 3
+
+Sección 3.ª Del Consejo de la Comisión Nacional de la Competencia
+
+### Artículo 33
+
+Artículo 33. Composición y funcionamiento del Consejo de la Comisión Nacional de la Competencia.
+1. Son miembros del Consejo de la Comisión Nacional de la Competencia el Presidente de la Comisión Nacional de la Competencia, que preside el Consejo, y seis Consejeros.
+2. Corresponde al Presidente del Consejo el ejercicio de las siguientes funciones:
+a) Ejercer, en general, las competencias que a los presidentes de los órganos colegiados administrativos atribuye la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+b) Convocar al Consejo por propia iniciativa o a petición de, al menos, la mitad de los Consejeros, y presidirlo.
+c) Establecer el criterio de distribución de asuntos entre los Consejeros.
+3. El Consejo de la Comisión Nacional de la Competencia se entiende válidamente constituido con la asistencia del Presidente y tres Consejeros.
+4. Los acuerdos se adoptarán por mayoría de votos de los asistentes. En caso de empate decidirá el voto de calidad del Presidente.
+5. El Consejo, a propuesta del Presidente, nombrará un Secretario no Consejero, que tendrá voz pero no voto y que realizará las funciones previstas en el artículo 12 de la Ley 2/2011, de 4 de marzo, de Economía Sostenible.
+6. El Estatuto de la Comisión Nacional de la Competencia regulará el funcionamiento del Consejo y, en particular, el régimen de convocatoria y sesiones, de acuerdo con lo establecido en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en el capítulo IV del título II de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+Se modifican los apartados 1, 3 y 5 por la disposición final 35.7 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 34
+
+Artículo 34. Funciones del Consejo de la Comisión Nacional de la Competencia.
+El Consejo de la Comisión Nacional de la Competencia es el órgano de decisión en relación con las funciones resolutorias, consultivas y de promoción de la competencia previstas en la presente Ley. En particular, es el órgano competente para:
+1. A propuesta de la Dirección de Investigación:
+a) Resolver y dictaminar en los asuntos que la Comisión Nacional de la Competencia tiene atribuidos por esta Ley y, en particular, en los previstos en los artículos 24 a 26 de esta Ley.
+b) Resolver los procedimientos sancionadores previstos en esta Ley y sus normas de desarrollo.
+c) Solicitar o acordar el envío de expedientes de control de concentraciones que entren en el ámbito de aplicación de la presente Ley a la Comisión Europea según lo previsto en los artículos 9 y 22 del Reglamento (CE) n.º 139/2004 del Consejo, de 20 de enero, sobre el control de las concentraciones entre empresas.
+d) Acordar el levantamiento de la obligación de suspensión de la ejecución de una concentración económica de conformidad con el artículo 9.6 de la presente Ley.
+e) Resolver sobre el cumplimiento de las resoluciones y decisiones en materia de conductas prohibidas y de concentraciones.
+2. Adoptar las comunicaciones previstas en la disposición adicional tercera y las declaraciones de inaplicabilidad previstas en el artículo 6.
+3. Interesar la instrucción de expedientes por la Dirección de Investigación.
+4. Acordar la impugnación de los actos y disposiciones a los que se refiere el artículo 12.3 de esta Ley.
+5. Elaborar, en su caso, su reglamento de régimen interior, en el cual se establecerá su funcionamiento administrativo y la organización de sus servicios.
+6. Resolver sobre las recusaciones, incompatibilidades y correcciones disciplinarias y apreciar la incapacidad y el incumplimiento grave de sus funciones por el Presidente y Consejeros.
+7. Nombrar y acordar el cese del Secretario, a propuesta del Presidente del Consejo.
+8. Aprobar el presupuesto del organismo.
+9. Elaborar la memoria anual del organismo así como los planes anuales o plurianuales de actuación en los que se definan objetivos y prioridades.
+Se modifica por la disposición final 35.8 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+## Sección 4
+
+Sección 4.ª De la Dirección de Investigación
+
+### Artículo 35
+
+Artículo 35. Estructura y funciones de la Dirección de Investigación.
+1. La Dirección de Investigación es el órgano de la Comisión Nacional de la Competencia encargado de la instrucción de los expedientes previstos en la presente Ley.
+2. Son funciones de la Dirección de Investigación:
+a) Instruir y elevar la correspondiente propuesta de resolución en los expedientes sobre los que deba resolver el Consejo en aplicación de la presente Ley.
+b) Resolver sobre las cuestiones incidentales que puedan suscitarse en el marco de la instrucción de expedientes.
+c) Vigilar la ejecución y cumplimiento de las obligaciones dispuestas en la presente Ley y sus normas de desarrollo así como de las resoluciones y acuerdos realizados en aplicación de la misma, tanto en materia de conductas restrictivas como de control de concentraciones.
+d) Aplicar los mecanismos de designación de órgano competente, de acuerdo con lo establecido en la Ley 1/2002, de 21 de febrero, de coordinación de las competencias del Estado y las Comunidades Autónomas en materia de defensa de la competencia.
+e) Aplicar los mecanismos de reenvío de expedientes entre la Comisión Nacional de la Competencia y la Comisión Europea según lo previsto en el artículo 4 del Reglamento (CE) n.º 139/2004 del Consejo, de 20 de enero de 2004, sobre el control de las concentraciones entre empresas.
+f) Requerir de oficio la notificación de una concentración de acuerdo con lo previsto en el artículo 9.5.
+g) Requerir el formulario ordinario de notificación de conformidad con el artículo 56.2.
+3. Corresponde al Director de Investigación:
+a) Ostentar la jefatura y representación de la Dirección, pudiendo ejercer todas las competencias que la presente Ley y sus normas de desarrollo atribuyen a la misma.
+b) Acordar el nombramiento y cese del personal de la Dirección, de acuerdo con las competencias atribuidas por la legislación específica, previa consulta al Presidente de la Comisión Nacional de la Competencia.
+
+## TÍTULO IV
+
+De los procedimientos
+
+## CAPÍTULO I
+
+Disposiciones comunes
+
+## Sección 1
+
+Sección 1.ª Plazos de los procedimientos
+
+### Artículo 36
+
+Artículo 36. Plazo máximo de los procedimientos.
+1. El plazo máximo para dictar y notificar la resolución que ponga fin al procedimiento sancionador por conductas restrictivas de la competencia será de veinticuatro meses a contar desde la fecha del acuerdo de incoación del mismo y su distribución entre las fases de instrucción y resolución se fijará reglamentariamente.
+2. El plazo máximo para dictar y notificar las resoluciones del Consejo de la Comisión Nacional de los Mercados y la Competencia en el procedimiento de control de concentraciones será:
+a) De un mes en la primera fase, según lo previsto en el artículo 57, a contar desde la recepción en forma de la notificación por la Comisión Nacional de los Mercados y la Competencia.
+b) De tres meses en la segunda fase, según lo previsto en el artículo 58, a contar desde la fecha en que el Consejo de la Comisión Nacional de los Mercados y la Competencia acuerda la apertura de la segunda fase.
+c) De quince días en el caso de operaciones que cumplan las condiciones para utilizar el formulario abreviado, siempre y cuando se haya dirigido a la Dirección de Competencia, con carácter previo a la notificación, un borrador confidencial de formulario de notificación con el fin de aclarar los aspectos formales o sustantivos de la concentración.
+3. El plazo máximo para dictar y notificar la resolución de la persona titular del Ministerio de Asuntos Económicos y Transformación Digital sobre la intervención del Consejo de Ministros según lo dispuesto en el artículo 60 será de quince días, contados desde la recepción de la correspondiente resolución dictada en segunda fase por el Consejo de la Comisión Nacional de los Mercados y la Competencia.
+4. El plazo máximo para adoptar y notificar un Acuerdo del Consejo de Ministros en el procedimiento de control de concentraciones será de un mes, contado desde la resolución de la persona titular del Ministerio de Asuntos Económicos y Transformación Digital de elevar la operación al Consejo de Ministros.
+5. El plazo máximo para que el Consejo de la Comisión Nacional de los Mercados y la Competencia dicte y notifique la resolución sobre el recurso previsto en el artículo 47 contra las resoluciones y actos de la Dirección de Competencia será de tres meses.
+6. El plazo máximo para que el Consejo de la Comisión Nacional de los Mercados y la Competencia dicte y notifique la resolución relativa a la adopción de medidas cautelares prevista en el artículo 54 será de tres meses desde la solicitud. La solicitud solo podrá entenderse desestimada por silencio negativo transcurrido el plazo máximo de tres meses. Cuando la solicitud de medidas cautelares se presente antes de la incoación del expediente, el plazo máximo de tres meses comenzará a computarse desde la fecha del acuerdo de incoación.
+7. El plazo máximo para que el Consejo de la Comisión Nacional de los Mercados y la Competencia dicte y notifique la resolución sobre la adopción de medidas en el ámbito de los expedientes de vigilancia de obligaciones, resoluciones o acuerdos prevista en el artículo 41 será de tres meses desde la correspondiente propuesta de la Dirección de Competencia.
+8. El plazo máximo para que el Consejo de la Comisión Nacional de los Mercados y la Competencia resuelva sobre la consulta previa prevista en el artículo 55.2 será de un mes desde la recepción en forma de la misma.
+Se modifica por el art. 219.2 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-31
+
+### Artículo 37
+
+Artículo 37. Supuestos de ampliación de los plazos y suspensión de su cómputo.
+1. El transcurso de los plazos máximos previstos legalmente para resolver un procedimiento se podrá suspender, mediante resolución motivada, en los siguientes casos:
+a) Cuando deba requerirse a cualquier interesado para la subsanación de deficiencias, la aportación de documentos y otros elementos de juicio necesarios.
+b) Cuando deba solicitarse a terceros o a otros órganos de las Administraciones Públicas la aportación de documentos y otros elementos de juicio necesarios.
+c) Cuando sea necesaria la cooperación y la coordinación con la Unión Europea o con las Autoridades Nacionales de Competencia de otros países.
+d) Cuando se interponga el recurso administrativo previsto en el artículo 47 o se interponga recurso contencioso-administrativo.
+e) Cuando el Consejo de la Comisión Nacional de la Competencia acuerde la práctica de pruebas o de actuaciones complementarias de acuerdo con lo previsto en el artículo 51.
+f) Cuando se produzca un cambio en la calificación jurídica de la cuestión sometida al Consejo de la Comisión Nacional de la Competencia, en los términos establecidos en el artículo 51.
+g) Cuando se inicien negociaciones con vistas a la conclusión de un acuerdo de terminación convencional en los términos establecidos en el artículo 52.
+2. Sin perjuicio de lo establecido en el apartado anterior, se acordará la suspensión del plazo máximo para resolver los procedimientos:
+a) Cuando la Comisión Europea haya incoado un procedimiento de aplicación de los artículos 81 y 82 del Tratado de la Comunidad Europea en relación con los mismos hechos. La suspensión se levantará cuando la Comisión Europea adopte la correspondiente decisión.
+b) Cuando la Comisión Nacional de la Competencia requiera a los notificantes para la subsanación de deficiencias, la aportación de documentos y otros elementos de juicio necesarios para la resolución del expediente de control de concentraciones, según lo previsto en los apartados 4 y 5 del artículo 55 de la presente Ley.
+c) Cuando se informe a la Comisión Europea en el marco de lo previsto en el artículo 11.4 del Reglamento (CE) n.º 1/2003 del Consejo, de 16 de diciembre de 2002, relativo a la aplicación de las normas sobre competencia previstas en los artículos 81 y 82 del Tratado con respecto a una propuesta de resolución en aplicación de los artículos 81 y 82 del Tratado de la Comunidad Europea.
+d) Cuando se solicite el informe de los reguladores sectoriales de acuerdo con lo establecido en el artículo 17.2.c) y d) de esta Ley. Este plazo de suspensión no podrá exceder en ningún caso de tres meses.
+3. La suspensión de los plazos máximos de resolución no suspenderá necesariamente la tramitación del procedimiento.
+4. Excepcionalmente, podrá acordarse la ampliación del plazo máximo de resolución mediante motivación clara de las circunstancias concurrentes. En el caso de acordarse la ampliación del plazo máximo, ésta no podrá ser superior al establecido para la tramitación del procedimiento.
+5. Contra el acuerdo que resuelva sobre la suspensión o sobre la ampliación de plazos, que deberá ser notificado a los interesados, no cabrá recurso alguno en vía administrativa.
+
+### Artículo 38
+
+Artículo 38.Efectos del silencio administrativo.
+1. El transcurso del plazo máximo de veinticuatro meses establecido en el artículo 36.1 para resolver el procedimiento sancionador en materia de acuerdos y prácticas prohibidas determinará la caducidad del procedimiento.
+2. El transcurso del plazo máximo establecido en el artículo 36.2.a) para la resolución en primera fase de control de concentraciones determinará la estimación de la correspondiente solicitud por silencio administrativo, salvo en los casos previstos en los artículos 9.5, 55.5 y 57.2.d).
+3. El transcurso del plazo máximo establecido en el artículo 36.2.b) para la resolución en segunda fase de control de concentraciones determinará la autorización de la concentración por silencio administrativo, salvo en los casos previstos en los artículos 9.5, 55.5 y 57.2.d).
+4. El transcurso de los plazos previstos en el artículo 36.3 y 36.4 para la resolución de la persona titular del Ministerio de Asuntos Económicos y Transformación Digital sobre la intervención del Consejo de Ministros y, en su caso, para la adopción del correspondiente acuerdo de este último, determinará, de conformidad con lo previsto en el artículo 60.4, la inmediata ejecutividad de la correspondiente resolución del Consejo de la Comisión Nacional de los Mercados y la Competencia.
+5. El transcurso del plazo previsto en el artículo 36.5 para que el Consejo de la Comisión Nacional de los Mercados y la Competencia resuelva los recursos contra resoluciones y actos de la Dirección de Competencia determinará su desestimación por silencio administrativo.
+6. El transcurso de los plazos previstos en el artículo 36.6 y 36.7 para que el Consejo de la Comisión Nacional de los Mercados y la Competencia resuelva en cuanto a adopción de medidas cautelares o en el marco de expedientes de vigilancia determinará su desestimación por silencio administrativo.
+Se modifica por el art. 219.3 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-31
+
+## Sección 2
+
+Sección 2.ª Facultades de la Comisión Nacional de la Competencia
+
+### Artículo 39
+
+Artículo 39. Deberes de colaboración e información.
+1. Toda persona física o jurídica y los órganos y organismos de cualquier Administración Pública quedan sujetos al deber de colaboración con la Comisión Nacional de los Mercados y la Competencia y están obligados a proporcionar, a requerimiento de esta y en plazo, toda clase de datos e informaciones de que dispongan y que puedan resultar necesarias para la aplicación de esta ley.
+Dicho plazo será de 10 días, salvo que por la naturaleza de lo solicitado o las circunstancias del caso se fije de forma motivada un plazo diferente.
+Tales requerimientos de información serán proporcionados y no obligarán a los destinatarios de los mismos a admitir la comisión de una infracción de la normativa de competencia. La obligación de facilitar toda la información necesaria se referirá a información que sea accesible para los sujetos obligados, con independencia del soporte en que se almacene la información, tales como ordenadores portátiles, teléfonos móviles, otros dispositivos móviles o almacenamiento en la nube.
+2. La colaboración, a instancia propia o a instancias de la Comisión Nacional de los Mercados y la Competencia, no implicará la condición de interesado en el correspondiente procedimiento.
+Se modifica por el art. 1.2 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+### Artículo 39 bis
+
+Artículo 39 bis. Entrevistas.
+1. El deber de colaboración con la Comisión Nacional de los Mercados y la Competencia incluye la facultad de esta de realizar entrevistas a cualquier representante de una empresa o asociación de empresas, a cualquier representante de otras personas jurídicas, y a cualquier persona física, cuando puedan estar en posesión de datos e informaciones que puedan resultar necesarios para la aplicación de lo previsto en la presente ley.
+2. La realización de entrevistas que se realicen previa convocatoria se motivará en el acto por el que, en su caso, se convoque al entrevistado.
+3. Las entrevistas no podrán obligar a los destinatarios de las mismas a declarar contra sí mismos ni a admitir la comisión de una infracción de la normativa de competencia. Los entrevistados podrán contar con la presencia de asistencia letrada de su elección para que asista durante la celebración de la entrevista.
+4. Las entrevistas se realizarán en las dependencias de la Comisión Nacional de los Mercados y la Competencia por su personal y, en su caso, por personal de otras autoridades designado por esta. Asimismo, a propuesta de la Dirección de Competencia, las entrevistas podrán realizarse en la sede de una empresa o entidad previo consentimiento de la misma o a través de sistemas digitales que, mediante la videoconferencia u otro sistema similar, permitan la comunicación bidireccional y simultánea de imagen y sonido, la interacción visual, auditiva y verbal entre el entrevistado y el personal de la Comisión Nacional de los Mercados y la Competencia.
+5. Cuando la naturaleza de la actuación lo requiera, las entrevistas podrán ser grabadas y transcritas utilizando los medios materiales propios de la Comisión Nacional de los Mercados y la Competencia, sin que se permita su grabación por el entrevistado. Asimismo, el personal encargado de la entrevista podrá levantar acta de la misma en la que quede constancia de su contenido. El entrevistado podrá, en su caso, solicitar una copia del acta, grabación o transcripción de la entrevista.
+Las grabaciones, transcripciones y actas extendidas tendrán naturaleza de documentos públicos y harán prueba de los hechos que motiven su formalización sin perjuicio de lo dispuesto en el artículo 42 en relación con el tratamiento de la información confidencial.
+Se añade por el art. 1.3 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+### Artículo 40
+
+Artículo 40. Facultades de inspección.
+1. El ejercicio de las facultades de inspección de la Comisión Nacional de los Mercados y la Competencia en el ámbito de las funciones que tiene atribuidas por esta ley se regirá por lo dispuesto en este artículo y en su desarrollo reglamentario. Todo ello sin perjuicio de las facultades de inspección reguladas en el artículo 27 de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia para las inspecciones de la Comisión Nacional de los Mercados y la Competencia en el ámbito de las funciones que tiene atribuidas por otras leyes.
+2. La Dirección de Competencia podrá realizar todas las inspecciones necesarias, sin previo aviso, a las empresas y asociaciones de empresas, al domicilio particular de los empresarios, administradores y otros miembros del personal de las empresas que puedan estar en posesión de información que sea relevante, para la aplicación de esta ley.
+Estas inspecciones podrán realizarse ante la noticia de la posible existencia de una infracción en un determinado mercado conforme a lo establecido en esta ley, pudiendo ser inspeccionada cualquier entidad o sujeto presente en dicho mercado al objeto de verificar su posible participación en dichas conductas.
+A estos efectos la persona titular de la Dirección de Competencia dictará una orden de inspección que indicará los sujetos investigados, el objeto y la finalidad de la inspección, la fecha en que dará comienzo y hará referencia a las sanciones previstas en esta ley, para el caso de que las entidades o sujetos obligados no se sometan a las inspecciones u obstruyan por cualquier medio la labor de inspección, así como al derecho a recurrir contra la misma.
+3. Las actuaciones de inspección llevadas a cabo por la Dirección de Competencia podrán desarrollarse:
+a) En cualquier despacho, oficina o dependencia de la entidad inspeccionada.
+b) En el domicilio particular de los empresarios, administradores y otros miembros del personal de las empresas y en cualquier otro despacho, oficina, dependencia o lugar, cuando exista una sospecha razonable de que en los mismos puedan existir pruebas o documentación relevante para los hechos objeto de inspección.
+c) En los propios locales de la Comisión Nacional de los Mercados y la Competencia cuando los elementos sobre los que hayan de realizarse las actuaciones puedan ser examinados en ellos o para analizar y realizar búsquedas y seleccionar copias o extractos de documentos recabados en el curso de una inspección domiciliaria.
+4. El personal de la Comisión Nacional de los Mercados y la Competencia debidamente autorizado por la persona titular de la Dirección de Competencia tiene, en el ejercicio de sus funciones inspectoras, la consideración de agente de la autoridad y deberá acreditar su condición, si es requerido a ello, fuera de las oficinas públicas.
+Las autoridades públicas prestarán la protección y el auxilio necesario al personal inspector de la Comisión Nacional de los Mercados y la Competencia para el ejercicio de las funciones de inspección, incluso como medida preventiva, para superar una posible oposición por parte de aquellos sometidos a la inspección.
+La persona titular de la Dirección de Competencia podrá designar a acompañantes autorizados con el objeto de que presten apoyo y asistencia al personal inspector para la práctica de la actuación inspectora.
+5. El personal encargado de la inspección levantará acta de sus actuaciones. Las actas extendidas tendrán naturaleza de documentos públicos y harán prueba de los hechos que motiven su formalización.
+6. El personal inspector de la Comisión Nacional de los Mercados y la Competencia autorizado por la persona titular de la Dirección de Competencia, así como el personal designado para prestar apoyo y asistencia para la práctica de la actuación inspectora tendrá las siguientes facultades de inspección:
+a) Acceder a cualquier local, instalación, terreno y medio de transporte de las entidades y sujetos inspeccionados.
+b) Precintar los locales, libros o documentación, sistemas informáticos o dispositivos electrónicos y demás bienes de la entidad inspeccionada durante el tiempo y en la medida en que sea necesario para la inspección.
+c) Examinar los libros y cualquier otra documentación a la que tenga acceso la entidad o sujeto inspeccionado, con independencia del lugar y soporte en que se almacene. Esta facultad incluirá en particular:
+i. La inspección de toda la documentación en soporte papel, incluidos los archivos físicos, documentos contractuales o la correspondencia comercial.
+ii. La inspección de toda la documentación e información en soporte informático o electrónico, y todas las formas de correspondencia utilizadas por el sujeto o entidad inspeccionada y el personal al servicio de misma, independientemente de si aparecen como no leídos o han sido eliminados.
+Dicha documentación e información incluirá tanto la que se encuentre almacenada en los sistemas informáticos y dispositivos electrónicos de la entidad inspeccionada y del personal al servicio de la misma, como la que se encuentre alojada en sistemas, servicios informáticos o dispositivos proporcionados por terceros, sistemas y servicios de almacenamiento en la nube y toda aquella otra a la que tenga acceso la entidad inspeccionada.
+d) Hacer u obtener copias o extractos, en cualquier formato, de los libros o documentos mencionados en la letra c).
+e) Retener por un plazo máximo de diez días los libros o documentos mencionados en la letra c) y hacer u obtener copias o extractos, en cualquier formato, de dichos libros o documentos en los locales de la Comisión Nacional de los Mercados y la Competencia o en cualquier otro local que se designe.
+f) Solicitar a cualquier representante o miembro del personal de la entidad inspeccionada explicaciones sobre hechos o documentos relevantes para la inspección y guardar constancia de sus respuestas.
+g) Los inspectores podrán requerir la comparecencia física del personal de las entidades inspeccionadas o de las personas investigadas, así como de la aportación de cualquier documentación que obre en poder de los mismos o de cualquier dispositivo electrónico utilizado por dicho personal.
+7. Las entidades están obligadas a someterse a las inspecciones que haya ordenado la persona titular de la Dirección de Competencia. Dicha obligación comprenderá a matrices, filiales o empresas que formen parte del mismo grupo empresarial de las empresas inspeccionadas en el sentido del artículo 42 del Código de Comercio en la medida en que exista una conexión directa entre estas y los hechos investigados. La negativa de la entidad inspeccionada a someterse a la inspección una vez notificada la correspondiente orden de inspección dará lugar a la incoación de un expediente sancionador como infracción independiente, según lo previsto en el artículo 62, sin perjuicio de que sea considerada una circunstancia agravante para fijar el importe de la sanción que pudiera imponérsele en aplicación del artículo 64.
+Los sujetos y las entidades inspeccionadas y su personal, incluyendo a directivos, empleados y personal externo que preste servicios en las mismas, deberán prestar su colaboración para la práctica de la inspección, en particular, facilitando al personal inspector, en el ejercicio de sus funciones, el acceso a sus locales, instalaciones, terrenos y medios de transporte, así como a toda la documentación e información que les sea solicitada, con independencia del soporte y el lugar en el que se encuentre, y responder de forma veraz a las preguntas en el marco del epígrafe f) del apartado 5 que les sean formuladas por el personal inspector. Asimismo, deberán facilitar los medios técnicos y humanos pertinentes para facilitar la práctica de la inspección, en particular para garantizar el acceso efectivo a la información en soporte electrónico.
+8. El ejercicio de las facultades señaladas en los epígrafes a) y b) del apartado 6, cuando el mismo implique restricción del derecho fundamental a la inviolabilidad del domicilio o el acceso a dependencias, terrenos o medios de transporte distintos de los propios de las empresas o asociaciones de empresas investigadas, requerirá de autorización judicial. En este caso la Dirección de Competencia podrá, con carácter previo a la práctica de la inspección, solicitar la citada autorización al órgano judicial competente que resolverá en el plazo máximo de 48 horas.
+Asimismo, podrán ejercerse dichas facultades previo consentimiento expreso de las entidades o sujetos inspeccionados, una vez informados sobre el objeto de la inspección recogido en la orden de inspección, las facultades de inspección previstas en la presente ley, el derecho a oponerse a la práctica de la inspección y las consecuencias de dicha oposición.
+9. Los datos e informaciones obtenidos solo podrán ser utilizados por la Comisión Nacional de los Mercados y la Competencia para las finalidades previstas en esta ley.
+Se añade por el art. 1.4 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+ Se deroga por la disposición derogatoria e) de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+
+### Artículo 41
+
+Artículo 41. Vigilancia del cumplimiento de las obligaciones, resoluciones y acuerdos.
+1. La Comisión Nacional de la Competencia vigilará la ejecución y el cumplimiento de las obligaciones previstas en la presente Ley y sus normas de desarrollo así como de las resoluciones y acuerdos que se adopten en aplicación de la misma, tanto en materia de conductas restrictivas como de medidas cautelares y de control de concentraciones.
+La vigilancia se llevará a cabo en los términos que se establezcan reglamentariamente y en la propia resolución de la Comisión Nacional de la Competencia o acuerdo de Consejo de Ministros que ponga fin al procedimiento.
+La Comisión Nacional de la Competencia podrá solicitar la cooperación de los órganos autonómicos de defensa de la competencia y de los reguladores sectoriales en la vigilancia y cumplimiento de las obligaciones, resoluciones y acuerdos.
+2. En caso de incumplimiento de obligaciones, resoluciones o acuerdos de la Comisión Nacional de la Competencia, el Consejo de la Comisión Nacional de la Competencia resolverá, a propuesta de la Dirección de Investigación, sobre la imposición de multas sancionadoras y coercitivas, sobre la adopción de otras medidas de ejecución forzosa previstas en el ordenamiento y, en su caso, sobre la desconcentración.
+
+## Sección 3
+
+Sección 3.ª Principios generales del procedimiento
+
+### Artículo 42
+
+Artículo 42. Tratamiento de la información confidencial.
+1. En cualquier momento del procedimiento, se podrá ordenar, de oficio o a instancia de parte, que se mantengan secretos los datos o documentos que se consideren confidenciales, formando con ellos pieza separada, sin perjuicio de lo establecido en el artículo 18 y en el Reglamento (CE) n.º 1/2003, de 16 de diciembre de 2002.
+2. En todo caso, se formará pieza separada especial de carácter confidencial con la información remitida por la Comisión Europea en respuesta a la remisión del borrador de resolución de la Comisión Nacional de los Mercados y la Competencia previsto en el artículo 11.4 del Reglamento (CE) n.º1/2003, de 16 de diciembre de 2002.
+3. La Comisión Nacional de los Mercados y la Competencia formará pieza separada especial de confidencialidad con las solicitudes de clemencia y las declaraciones que puedan presentarse en el ámbito de esta. Las partes incoadas podrán tener acceso a dicha documentación para contestar la imputación formulada por la Dirección de Competencia. En todo caso, las partes incoadas no podrán obtener copias de las declaraciones de las personas físicas o jurídicas en el marco de solicitudes de clemencia ni de cualquier declaración adicional posterior que haya sido realizada por los solicitantes de clemencia de forma específica para su presentación en el ámbito de dichas solicitudes. Ello es sin perjuicio de que las partes incoadas puedan acceder y obtener copia de la documentación complementaria que aporte el solicitante de clemencia como prueba de la existencia de la infracción y que no constituye propiamente una declaración. Además de para la contestación a la imputación formulada por la Dirección de Competencia, las partes incoadas que hayan tenido acceso a dicha documentación solo podrán utilizar la información extraída de las solicitudes de clemencia cuando sea necesario para el ejercicio de sus derechos de defensa ante órganos jurisdiccionales nacionales en asuntos que estén directamente relacionados con el asunto en el que se haya concedido el acceso, y únicamente cuando la revisión jurisdiccional se refiera a:
+a) La distribución entre los participantes en un cártel de una multa impuesta solidariamente por la Comisión Nacional de los Mercados y la Competencia,
+b) Una resolución del Consejo de la Comisión Nacional de los Mercados y la Competencia por la que se haya constatado una infracción de los artículos 1 o 2 de esta ley o de los artículos 101 o 102 del Tratado de Funcionamiento de la Unión Europea.
+Se modifica por el art. 1.5 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+### Artículo 43
+
+Artículo 43. Deber de secreto.
+1. Todos los que tomen parte en la tramitación de expedientes previstos en esta Ley o que conozcan tales expedientes por razón de profesión, cargo o intervención como parte, deberán guardar secreto sobre los hechos de que hayan tenido conocimiento a través de ellos y de cuantas informaciones de naturaleza confidencial hayan tenido conocimiento en el ejercicio de sus cargos, incluso después de cesar en sus funciones.
+2. Sin perjuicio de las responsabilidades penales y civiles que pudieran corresponder, la violación del deber de secreto se considerará siempre falta disciplinaria muy grave.
+
+### Artículo 44
+
+Artículo 44. Archivo de las actuaciones.
+La Comisión Nacional de la Competencia podrá no iniciar un procedimiento o acordar el archivo de las actuaciones o expedientes incoados por falta o pérdida de competencia o de objeto. En particular, se considerará que concurre alguna de estas circunstancias en los siguientes casos:
+a) Cuando la Comisión Nacional de la Competencia no sea competente para enjuiciar las conductas detectadas o denunciadas en aplicación del Reglamento (CE) n.º 1/2003 del Consejo, de 16 de diciembre de 2002, relativo a la aplicación de las normas sobre competencia previstas en los artículos 81 y 82 del Tratado de la Comunidad Europea, o se den las circunstancias previstas en el mismo para la desestimación de denuncias.
+b) Cuando la operación notificada no sea una concentración sujeta al procedimiento de control por la Comisión Nacional de la Competencia previsto en la presente Ley.
+c) Cuando la concentración notificada sea remitida a la Comisión Europea en aplicación del artículo 22 del Reglamento (CE) n.º 139/2004 del Consejo, de 20 de enero de 2004, sobre el control de las concentraciones entre empresas.
+d) Cuando las partes de una concentración desistan de su solicitud de autorización o la Comisión Nacional de la Competencia tenga información fehaciente de que no tienen intención de realizarla.
+
+### Artículo 45
+
+Artículo 45. Supletoriedad de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Los procedimientos administrativos en materia de defensa de la competencia se regirán por lo dispuesto en esta ley y su normativa de desarrollo y, supletoriamente, por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, sin perjuicio de lo previsto en el artículo 70 de esta Ley.
+
+### Artículo 45 bis
+
+Artículo 45 bis. Adecuación del procedimiento a los derechos fundamentales garantizados por la normativa europea.
+En los procedimientos regulados en esta ley y en su normativa de desarrollo se garantizará en todo momento el cumplimiento de los principios generales del Derecho de la Unión y la Carta de Derechos Fundamentales de la Unión Europea y la legislación nacional que sea de aplicación.
+Se añade por el art. 1.6 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+### Artículo 46
+
+Artículo 46. Prejudicialidad del proceso penal.
+La existencia de una cuestión prejudicial penal de la que no pueda prescindirse para dictar la resolución o que condicione directamente el contenido de ésta determinará la suspensión del procedimiento mientras aquélla no sea resuelta por los órganos penales a quien corresponda.
+
+## Sección 4
+
+Sección 4.ª De los recursos
+
+### Artículo 47
+
+Artículo 47. Recurso administrativo contra las resoluciones y actos dictados por la Dirección de Investigación.
+1. Las resoluciones y actos de la Dirección de Investigación que produzcan indefensión o perjuicio irreparable a derechos o intereses legítimos serán recurribles ante el Consejo de la Comisión Nacional de la Competencia en el plazo de diez días.
+2. El Consejo inadmitirá sin más trámite los recursos interpuestos fuera de plazo.
+3. Recibido el recurso, el Consejo pondrá de manifiesto el expediente para que las partes formulen alegaciones en el plazo de quince días.
+
+### Artículo 48
+
+Artículo 48. Recursos contra las resoluciones y actos dictados por el Presidente y por el Consejo de la Comisión Nacional de la Competencia.
+1. Contra las resoluciones y actos del Presidente y del Consejo de la Comisión Nacional de la Competencia no cabe ningún recurso en vía administrativa y sólo podrá interponerse recurso contencioso-administrativo en los términos previstos en la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
+2. En los supuestos previstos en el apartado 6 del artículo 58 de esta Ley, el plazo para interponer el recurso contencioso-administrativo se contará a partir del día siguiente al de la notificación de la resolución del Ministro de Economía y Hacienda o del Acuerdo de Consejo de Ministros o del transcurso de los plazos establecidos en los apartados 3 ó 4 del artículo 36 de esta Ley, una vez que la resolución del Consejo de la Comisión Nacional de la Competencia sea eficaz, ejecutiva y haya puesto fin a la vía administrativa.
+
+## CAPÍTULO II
+
+Del procedimiento sancionador en materia de conductas prohibidas
+
+## Sección 1
+
+Sección 1.ª De la instrucción del procedimiento
+
+### Artículo 49
+
+Artículo 49. Iniciación del procedimiento.
+1. El procedimiento se inicia de oficio por la Dirección de Competencia, ya sea a iniciativa propia o del Consejo de la Comisión Nacional de los Mercados y la Competencia o bien por denuncia. Cualquier persona física o jurídica, interesada o no, podrá formular denuncia de las conductas prohibidas por esta ley, con el contenido que se determinará reglamentariamente. La Dirección de Competencia incoará expediente cuando se observen indicios racionales de la existencia de conductas prohibidas y notificarán a los interesados el acuerdo de incoación, excepto en el supuesto previsto en el apartado 4 de este artículo.
+2. Ante la noticia de la posible existencia de una infracción, la Dirección de Competencia podrá realizar una información reservada, incluso con investigación domiciliaria de las empresas implicadas, con el fin de determinar con carácter preliminar si concurren las circunstancias que justifiquen la incoación del expediente sancionador.
+3. El Consejo de la Comisión Nacional de los Mercados y la Competencia, a propuesta de la Dirección de Competencia, podrá acordar no incoar los procedimientos derivados de la presunta realización de las conductas prohibidas por esta ley o por los artículos 101 o 102 del Tratado de Funcionamiento de la Unión Europea y el archivo de las actuaciones cuando considere que no hay indicios de infracción.
+De conformidad con lo previsto en el artículo 10.2 de la Directiva (UE) 2019/1 de 11 de diciembre de 2018, la Comisión Nacional de los Mercados y la Competencia informará a la Comisión Europea del archivo de las actuaciones cuando hubiera informado a esta del inicio de una investigación con base en los artículos 101 o 102 del Tratado de Funcionamiento de la Unión Europea.
+4. En caso de denuncia, la Dirección de Competencia podrá acordar no iniciar actuaciones por considerar que la investigación de los hechos que se contemplan en la misma no constituye una prioridad. Con este fin, comunicará al Consejo su intención de no iniciar procedimiento. Si en el plazo de 15 días el Consejo no ha motivado su oposición al respecto, la Dirección de Competencia procederá a ponerlo en conocimiento del denunciante.
+Se podrán considerar que no son prioritarias, entre otras, aquellas denuncias que:
+a) Aportan escasos elementos de prueba o indicios débiles, siendo reducida la probabilidad de que la Dirección de Competencia, dedicando recursos a ello, puedan probar la conducta ilícita.
+b) Se refieren a conductas ilícitas cuyo alcance potencial es limitado o el daño potencial que pueden conllevar para el consumidor o para la competitividad de los mercados de factores productivos, bienes o servicios es escaso.
+c) Se refieren a conductas cuya prevención o erradicación es factible a través de otros instrumentos legales para preservar y promover la competencia, haciendo un uso más eficiente de los recursos de la Comisión Nacional de los Mercados y la Competencia.
+Todo ello sin perjuicio de las prioridades que para la Comisión Nacional de los Mercados y la Competencia marque su Consejo de acuerdo con lo previsto en el artículo 20.16 de la Ley 3/2013, de 4 de junio, y de las facultades de dirección de la política general del Gobierno previstas en el artículo 3.2 de esa misma ley.
+Se modifica por el art. 1.7 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+### Artículo 50
+
+Artículo 50. Instrucción del expediente sancionador.
+1. La Dirección de Competencia, una vez incoado el expediente, practicará los actos de instrucción necesarios para el esclarecimiento de los hechos y la determinación de responsabilidades.
+2. La empresa o asociación de empresas que invoque el amparo de lo dispuesto en el artículo 1.3 deberá aportar la prueba de que se cumplen las condiciones previstas en dicho apartado.
+3. Los hechos que puedan ser constitutivos de infracción se recogerán en un pliego de concreción de hechos que se notificará a los interesados para que, en un plazo de un mes, puedan contestarlo y, en su caso, proponer las pruebas que consideren pertinentes.
+4. Practicados los actos de instrucción necesarios, la Dirección de Competencia formulará propuesta de resolución que será notificada a los interesados y al Consejo de la Comisión Nacional de los Mercados y la Competencia para que, en el plazo de un mes, formulen las alegaciones que tengan por convenientes ante el Consejo. La propuesta de resolución fijará de forma motivada los hechos que se consideren probados y su exacta calificación jurídica, determinando la infracción que, en su caso, aquellos constituyan, la persona o personas responsables, la sanción que se proponga, incluyendo la exención o a la reducción de la multa, de acuerdo con lo previsto en los artículos 65 y 66, y la valoración de las pruebas practicadas, en especial aquellas que constituyan los fundamentos básicos de la decisión.
+Se modifica por el art. 219.4 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-31
+
+## Sección 2
+
+Sección 2.ª De la resolución del procedimiento sancionador
+
+### Artículo 51
+
+Artículo 51. Procedimiento de resolución ante el Consejo de la Comisión Nacional de la Competencia.
+1. El Consejo de la Comisión Nacional de la Competencia podrá ordenar, de oficio o a instancia de algún interesado, la práctica de pruebas distintas de las ya practicadas ante la Dirección de Investigación en la fase de instrucción así como la realización de actuaciones complementarias con el fin de aclarar cuestiones precisas para la formación de su juicio. El acuerdo de práctica de pruebas y de realización de actuaciones complementarias se notificará a los interesados, concediéndose un plazo de siete días para formular las alegaciones que tengan por pertinentes. Dicho acuerdo fijará, siempre que sea posible, el plazo para su realización.
+2. La Dirección de Investigación practicará aquellas pruebas y actuaciones complementarias que le sean ordenadas por el Consejo de la Comisión Nacional de la Competencia.
+3. A propuesta de los interesados, el Consejo de la Comisión Nacional de la Competencia podrá acordar la celebración de vista.
+4. Cuando el Consejo de la Comisión Nacional de la Competencia estime que la cuestión sometida a su conocimiento pudiera no haber sido calificada debidamente en la propuesta de la Dirección de Investigación, someterá la nueva calificación a los interesados y a ésta para que en el plazo de quince días formulen las alegaciones que estimen oportunas.
+5. El Consejo de la Comisión Nacional de la Competencia, conclusas las actuaciones y, en su caso, informada la Comisión Europea de acuerdo con lo previsto en el artículo 11.4 del Reglamento (CE) n.º 1/2003 del Consejo, de 16 de diciembre de 2002, relativo a la aplicación de las normas sobre competencia previstas en los artículos 81 y 82 del Tratado, dictará resolución.
+
+### Artículo 52
+
+Artículo 52. Terminación convencional.
+1. El Consejo de la Comisión Nacional de la Competencia, a propuesta de la Dirección de Investigación, podrá resolver la terminación del procedimiento sancionador en materia de acuerdos y prácticas prohibidas cuando los presuntos infractores propongan compromisos que resuelvan los efectos sobre la competencia derivados de las conductas objeto del expediente y quede garantizado suficientemente el interés público.
+2. Los compromisos serán vinculantes y surtirán plenos efectos una vez incorporados a la resolución que ponga fin al procedimiento.
+3. La terminación del procedimiento en los términos establecidos en este artículo no podrá acordarse una vez elevado el informe propuesta previsto en el artículo 50.4.
+
+### Artículo 53
+
+Artículo 53. Resoluciones del Consejo de la Comisión Nacional de los Mercados y la Competencia.
+1. Las resoluciones del Consejo de la Comisión Nacional de los Mercados y la Competencia podrán declarar:
+a) La existencia de conductas prohibidas por la presente ley o por los artículos 101 o 102 del Tratado Funcionamiento de la Unión Europea.
+b) La existencia de conductas que, por su escasa importancia, no sean capaces de afectar de manera significativa a la competencia.
+c) No resultar acreditada la existencia de prácticas prohibidas.
+2. Las resoluciones del Consejo de la Comisión Nacional de los Mercados y la Competencia podrán contener:
+a) La orden de cesación de las conductas prohibidas en un plazo determinado.
+b) La imposición de condiciones u obligaciones determinadas, ya sean estructurales o de comportamiento. En la elección entre condiciones estructurales o de comportamiento de eficacia equivalente se optará por la que resulte menos gravosa para la empresa en cuestión.
+c) La orden de remoción de los efectos de las prácticas prohibidas contrarias al interés público.
+d) La imposición de multas.
+e) El archivo de las actuaciones en los supuestos previstos en la presente ley.
+f) Y cualesquiera otras medidas cuya adopción le autorice esta ley.
+3. El Consejo de la Comisión Nacional de los Mercados y la Competencia podrá proceder, a propuesta de la Dirección de Competencia, que actuará de oficio o a instancia de parte, a la revisión de las condiciones y de las obligaciones impuestas en sus resoluciones cuando se acredite una modificación sustancial y permanente de las circunstancias tenidas en cuenta al dictarlas.
+4. El Consejo de la Comisión Nacional de los Mercados y la Competencia podrá, de oficio o a instancia de parte, aclarar conceptos oscuros o suplir cualquier omisión que contengan sus resoluciones.
+Las aclaraciones o adiciones podrán hacerse dentro de los cinco días hábiles siguientes a la notificación de la resolución o, en su caso, a la petición de aclaración o adición, que deberá presentarse dentro del plazo improrrogable de tres días siguientes al de la notificación.
+Los errores materiales y los aritméticos podrán ser rectificados en cualquier momento.
+Se modifica por el art. 1.8 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+## Sección 3
+
+Sección 3.ª De las medidas cautelares
+
+### Artículo 54
+
+Artículo 54. Adopción de medidas cautelares.
+1. Una vez incoado el expediente, el Consejo de la Comisión Nacional de los Mercados y la Competencia podrá adoptar, de oficio o a instancia de parte, a propuesta o previo informe de la Dirección de Competencia, las medidas cautelares necesarias tendentes a asegurar la eficacia de la resolución que en su momento se dicte.
+2. Las medidas cautelares estarán motivadas, serán proporcionadas, limitadas temporalmente y dirigidas a asegurar la eficacia de la resolución que en su momento se dicte, sin que puedan adoptarse aquellas que puedan producir un perjuicio de difícil o imposible reparación. En el caso de procedimientos referidos a la aplicación de los artículos 101 y 102 del Tratado de Funcionamiento de la Unión Europea, la Comisión Nacional de los Mercados y la Competencia informará a la Red Europea de Competencia de la imposición de dichas medidas cautelares.
+Se modifica por el art. 1.9 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+## CAPÍTULO III
+
+Del procedimiento de control de concentraciones económicas
+
+## Sección 1
+
+Sección 1.ª De la notificación
+
+### Artículo 55
+
+Artículo 55. Notificación de concentración económica.
+1. El procedimiento de control de concentraciones económicas se iniciará una vez recibida en forma la notificación de la concentración de acuerdo con el formulario de notificación establecido reglamentariamente.
+2. Con carácter previo a la presentación de la notificación podrá formularse consulta a la Comisión Nacional de la Competencia sobre:
+a) si una determinada operación es una concentración de las previstas en el artículo 7,
+b) si una determinada concentración supera los umbrales mínimos de notificación obligatoria previstos en el artículo 8.
+3. Ante el conocimiento de la posible existencia de una concentración sujeta a control, la Dirección de Investigación podrá realizar actuaciones previas con el fin de determinar con carácter preliminar si concurren las circunstancias para su notificación obligatoria de acuerdo con el artículo 9.
+4. La Comisión Nacional de la Competencia podrá requerir al notificante para que en un plazo de 10 días subsane cualquier falta de información o de documentos preceptivos y complete el formulario de notificación.
+En caso de no producirse la subsanación dentro de plazo, se tendrá al notificante por desistido de su petición, pudiendo proceder la Comisión Nacional de la Competencia al archivo de las actuaciones.
+5. La Comisión Nacional de la Competencia podrá requerir en cualquier momento del procedimiento a la parte notificante para que, en un plazo de diez días, aporte documentos u otros elementos necesarios para resolver.
+En caso de que el notificante no cumplimente el requerimiento o lo haga fuera del plazo establecido al efecto, no se beneficiará del silencio positivo previsto en el artículo 38.
+6. En cualquier momento del procedimiento, la Comisión Nacional de la Competencia podrá solicitar a terceros operadores la información que considere oportuna para la adecuada valoración de la concentración. Asimismo, podrá solicitar los informes que considere necesarios para resolver a cualquier organismo de la misma o distinta Administración.
+
+### Artículo 56
+
+Artículo 56. Formulario abreviado de notificación.
+1. Se podrá presentar un formulario abreviado de notificación, que será establecido reglamentariamente, para su uso, entre otros, en los siguientes supuestos:
+a) Cuando no exista solapamiento horizontal o vertical entre las partes de la operación porque ninguna de ellas realice actividades económicas en el mismo mercado geográfico y de producto de referencia o en mercados relacionados de modo ascendente o descendente dentro del proceso de producción y comercialización.
+b) Cuando la participación de las partes en los mercados, por su escasa importancia, no sea susceptible de afectar significativamente a la competencia, de acuerdo con lo que se establezca reglamentariamente.
+c) Cuando una parte adquiera el control exclusivo de una o varias empresas o partes de empresa sobre la cual tiene ya el control conjunto.
+d) Cuando, tratándose de una empresa en participación, ésta no ejerza ni haya previsto ejercer actividades dentro del territorio español o cuando dichas actividades sean marginales.
+2. La Comisión Nacional de la Competencia podrá exigir la presentación del formulario ordinario de notificación cuando, aún cumpliéndose las condiciones para utilizar el formulario abreviado, determine que es necesario para una investigación adecuada de los posibles problemas de competencia. En este caso, el plazo máximo de resolución y notificación del procedimiento empezará a computar de nuevo desde la fecha de presentación del formulario ordinario.
+
+## Sección 2
+
+Sección 2.ª De la instrucción y resolución del procedimiento
+
+### Artículo 57
+
+Artículo 57. Instrucción y resolución en la primera fase.
+1. Recibida en forma la notificación, la Dirección de Investigación formará expediente y elaborará un informe de acuerdo con los criterios de valoración del artículo 10, junto con una propuesta de resolución.
+2. Sobre la base del informe y de la propuesta de resolución de la Dirección de Investigación, el Consejo de la Comisión Nacional de la Competencia dictará resolución en primera fase, en la que podrá:
+a) Autorizar la concentración.
+b) Subordinar su autorización al cumplimiento de determinados compromisos propuestos por los notificantes.
+c) Acordar iniciar la segunda fase del procedimiento, cuando considere que la concentración puede obstaculizar el mantenimiento de la competencia efectiva en todo o parte del mercado nacional.
+d) Acordar la remisión de la concentración a la Comisión Europea de acuerdo con el artículo 22 del Reglamento (CE) n.º 139/2004 del Consejo, de 20 de enero de 2004, sobre el control de las concentraciones entre empresas y el archivo de la correspondiente notificación. En este caso, se notificará dicha remisión al notificante, indicándole que la competencia para adoptar una decisión sobre el asunto corresponde a la Comisión Europea de acuerdo con la normativa comunitaria y que, por tanto, la operación no se puede beneficiar del silencio positivo previsto en el artículo 38.
+e) Acordar el archivo de las actuaciones en los supuestos previstos en la presente Ley.
+
+### Artículo 58
+
+Artículo 58. Instrucción y resolución en la segunda fase.
+1. Una vez iniciada la segunda fase del procedimiento, la Dirección de Investigación elaborará una nota sucinta sobre la concentración que, una vez resueltos los aspectos confidenciales de la misma, será hecha pública y puesta en conocimiento de las personas físicas o jurídicas que puedan resultar afectadas y del Consejo de Consumidores y Usuarios, para que presenten sus alegaciones en el plazo de 10 días.
+En el supuesto de que la concentración incida de forma significativa en el territorio de una Comunidad Autónoma, la Dirección de Investigación solicitará informe preceptivo, no vinculante, a la Comunidad Autónoma afectada, a la que remitirá junto con la nota sucinta, copia de la notificación presentada, una vez resueltos los aspectos confidenciales de la misma, para emitir el informe en el plazo de veinte días.
+2. Los posibles obstáculos para la competencia derivados de la concentración se recogerán en un pliego de concreción de hechos elaborado por la Dirección de Investigación, que será notificado a los interesados para que en un plazo de 10 días formulen alegaciones.
+3. A solicitud de los notificantes, se celebrará una vista ante el Consejo de la Comisión Nacional de la Competencia.
+4. Recibida la propuesta de resolución definitiva de la Dirección de Investigación, el Consejo de la Comisión Nacional de la Competencia adoptará la decisión final mediante una resolución en la que podrá:
+a) Autorizar la concentración.
+b) Subordinar la autorización de la concentración al cumplimiento de determinados compromisos propuestos por los notificantes o condiciones.
+c) Prohibir la concentración.
+d) Acordar el archivo de las actuaciones en los supuestos previstos en la presente Ley.
+5. Las resoluciones adoptadas por el Consejo de la Comisión Nacional de la Competencia serán comunicadas al Ministro de Economía y Hacienda al mismo tiempo de su notificación a los interesados.
+6. Las resoluciones en segunda fase en las que el Consejo de la Comisión Nacional de la Competencia prohíba una concentración o la subordine al cumplimiento de compromisos o condiciones no serán eficaces ni ejecutivas y no pondrán fin a la vía administrativa:
+a) Hasta que el Ministro de Economía y Hacienda haya resuelto no elevar la concentración al Consejo de Ministros o haya transcurrido el plazo legal para ello establecido en el artículo 36 de esta Ley.
+b) En el supuesto de que el Ministro de Economía y Hacienda haya decidido elevar la concentración al Consejo de Ministros, hasta que el Consejo de Ministros haya adoptado un acuerdo sobre la concentración que confirme la resolución del Consejo de la Comisión Nacional de la Competencia o haya transcurrido el plazo legal para ello establecido en el artículo 36 de esta Ley.
+
+### Artículo 59
+
+Artículo 59. Presentación de compromisos.
+1. Cuando de una concentración puedan derivarse obstáculos para el mantenimiento de la competencia efectiva, las partes notificantes, por propia iniciativa o a instancia de la Comisión Nacional de la Competencia, podrán proponer compromisos para resolverlos.
+2. Cuando se propongan compromisos, el plazo máximo para resolver y notificar el procedimiento se ampliará en 10 días en la primera fase y 15 días en la segunda fase.
+3. Los compromisos propuestos por las partes notificantes podrán ser comunicados a los interesados o a terceros operadores con el fin de valorar su adecuación para resolver los problemas para la competencia derivados de la concentración así como sus efectos sobre los mercados.
+
+### Artículo 60
+
+Artículo 60. Intervención del Consejo de Ministros.
+1. El Ministro de Economía y Hacienda podrá elevar la decisión sobre la concentración al Consejo de Ministros por razones de interés general cuando, en segunda fase, el Consejo de la Comisión Nacional de la Competencia:
+a) Haya resuelto prohibir la concentración.
+b) Haya resuelto subordinar su autorización al cumplimiento de determinados compromisos propuestos por los notificantes o condiciones.
+2. La resolución del Ministro de Economía y Hacienda se comunicará a la Comisión Nacional de la Competencia al mismo tiempo de su notificación a los interesados.
+3. El Consejo de Ministros podrá:
+a) Confirmar la resolución dictada por el Consejo de la Comisión Nacional de la Competencia.
+b) Acordar autorizar la concentración, con o sin condiciones. Dicho acuerdo deberá estar debidamente motivado en razones de interés general distintas de la defensa de la competencia, de acuerdo con lo establecido en el artículo 10. Antes de adoptar el Acuerdo correspondiente, se podrá solicitar informe a la Comisión Nacional de la Competencia.
+4. Transcurridos los plazos indicados en el artículo 36 sin que el Ministro de Economía y Hacienda o el Consejo de Ministros hayan adoptado una decisión, la resolución expresa del Consejo de la Comisión Nacional de la Competencia en segunda fase será eficaz, inmediatamente ejecutiva y pondrá fin a la vía administrativa, entendiéndose que la misma ha acordado:
+a) Subordinar la autorización de la concentración a los compromisos o condiciones previstos en la citada resolución.
+b) Prohibir la concentración, pudiendo el Consejo de la Comisión Nacional de la Competencia:
+1.º Ordenar que no se proceda a la misma, cuando la concentración no se hubiera ejecutado.
+2.º Ordenar las medidas apropiadas para el restablecimiento de una competencia efectiva, incluida la desconcentración, cuando la concentración ya se hubiera ejecutado.
+5. El Acuerdo de Consejo de Ministros será comunicado a la Comisión Nacional de la Competencia al mismo tiempo de su notificación a las partes.
+
+## TÍTULO V
+
+Del régimen sancionador
+
+### Artículo 61
+
+Artículo 61. Sujetos infractores.
+1. Serán sujetos infractores las personas físicas o jurídicas que realicen las acciones u omisiones tipificadas como infracciones en esta ley o, en el caso de empresas, sus sucesores legales o económicos.
+2. A los efectos de la aplicación de esta ley, la actuación de una empresa es también imputable a las empresas o personas que la controlan, excepto cuando su comportamiento económico no venga determinado por alguna de ellas.
+3. Cuando se imponga una multa a una asociación, unión o agrupación de empresas y esta no sea solvente, la asociación estará obligada a recabar las contribuciones de sus miembros hasta cubrir el importe de la multa.
+En caso de que no se aporten dichas contribuciones a la asociación dentro del plazo fijado por la Comisión Nacional de los Mercados y la Competencia, se podrá exigir el pago de la multa a cualquiera de las empresas cuyos representantes sean miembros de los órganos de gobierno de la asociación de que se trate.
+Una vez que la Comisión Nacional de los Mercados y la Competencia haya requerido el pago con arreglo a lo dispuesto en el párrafo anterior, podrá exigir el pago del saldo a cualquier miembro de la asociación que operase en el mercado en que se hubiese producido la infracción cuando ello sea necesario para garantizar el pago íntegro de la multa.
+No obstante, no se exigirá el pago contemplado en los párrafos segundo y tercero a las empresas que demuestren que no han aplicado la decisión o recomendación de la asociación constitutiva de infracción y que o bien ignoraban su existencia o se distanciaron activamente de ella antes de que se iniciase la investigación del caso.
+La responsabilidad financiera de cada empresa con respecto al pago de la multa no podrá ser superior al 10 por ciento de su volumen de negocios total en el ejercicio inmediatamente anterior.
+Se modifica por el art. 1.10 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+### Artículo 62
+
+Artículo 62. Infracciones.
+1. Las infracciones establecidas en la presente ley se clasifican en leves, graves y muy graves.
+2. Son infracciones leves:
+a) Haber presentado a la Comisión Nacional de los Mercados y la Competencia la notificación de la concentración económica fuera de los plazos previstos en los artículos 9.3.a) y 9.5.
+b) No haber notificado una concentración requerida de oficio por la Comisión Nacional de los Mercados y la Competencia según lo previsto en el artículo 9.5.
+3. Son infracciones graves:
+a) El falseamiento de la libre competencia por actos desleales en los términos establecidos en el artículo 3.
+b) La ejecución de una concentración sujeta a control de acuerdo con lo previsto en esta ley antes de haber sido notificada a la Comisión Nacional de los Mercados y la Competencia o antes de que haya recaído y sea ejecutiva resolución expresa o tácita autorizando la misma sin que se haya acordado el levantamiento de la suspensión.
+c) La obstrucción por cualquier medio de la labor de la Comisión Nacional de los Mercados y la Competencia en el marco de un requerimiento de información, una entrevista o una inspección, contraviniendo las obligaciones establecidas respectivamente en los artículos 39, 39 bis y 40. Entre otras, constituyen obstrucción a la labor de la Comisión Nacional de los Mercados y la Competencia las siguientes conductas:
+1.º No presentar o hacerlo de forma incompleta, incorrecta, engañosa o falsa, los libros, documentos o cualquier otra información solicitada por la Comisión Nacional de los Mercados y la Competencia en el marco de un requerimiento de información o una inspección.
+2.º No comparecer, no someterse a una entrevista o responder a las preguntas formuladas por la Comisión Nacional de los Mercados y la Competencia de forma incompleta, inexacta o engañosa.
+3.º No responder a las preguntas formuladas por la Comisión Nacional de los Mercados y la Competencia en el marco de lo previsto en el artículo 40.5.f) de esta ley, o hacerlo de forma incompleta, inexacta o engañosa.
+4.º Romper los precintos colocados por la Comisión Nacional de los Mercados y la Competencia en el marco de una inspección.
+4. Son infracciones muy graves:
+a) El desarrollo de conductas tipificadas en el artículo 1 de esta ley y en el artículo 101 del Tratado de Funcionamiento de la Unión Europea.
+b) El abuso de posición de dominio tipificado en el artículo 2 de esta ley y en el artículo 102 del Tratado de Funcionamiento de la Unión Europea.
+c) Incumplir o contravenir lo establecido en una resolución, acuerdo o compromiso adoptado en aplicación de la presente ley, tanto en materia de conductas restrictivas como de control de concentraciones.
+Se modifica por el art. 1.11 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+### Artículo 63
+
+Artículo 63. Sanciones.
+1. Los órganos competentes podrán imponer a los agentes económicos, empresas, asociaciones, uniones o agrupaciones de aquellas que, deliberadamente o por negligencia, infrinjan lo dispuesto en la presente ley las siguientes sanciones, para cada una de las infracciones declaradas:
+a) Las infracciones leves con multa de hasta el 1 por ciento del volumen de negocios total mundial de la empresa infractora en el ejercicio inmediatamente anterior al de la imposición de la multa.
+b) Las infracciones graves con multa de hasta el 5 por ciento del volumen de negocios total mundial de la empresa infractora en el ejercicio inmediatamente anterior al de la imposición de la multa.
+c) Las infracciones muy graves con multa de hasta el 10 por ciento del volumen de negocios total mundial de la empresa infractora en el ejercicio inmediatamente anterior al de imposición de la multa.
+El volumen de negocios total de las asociaciones, uniones o agrupaciones de empresas se determinará tomando en consideración el volumen de negocios total mundial de sus miembros, salvo cuando en el mismo expediente se sancione tanto a empresas asociadas como a la asociación a la que pertenecen. En este caso, para la determinación del volumen de negocios total de las asociaciones, uniones o agrupaciones de empresas no se computará el volumen de negocios total mundial de las empresas asociadas que hayan sido sancionadas en el mismo expediente.
+2. Además de la sanción prevista en el apartado anterior, cuando el infractor sea una persona jurídica, se podrá imponer una multa de hasta 60.000 euros a cada uno de sus representantes legales o a las personas que integran los órganos directivos que hayan intervenido en la conducta.
+Quedan excluidas de la sanción aquellas personas que, formando parte de los órganos colegiados de administración, no hubieran asistido a las reuniones o hubieran votado en contra o salvado su voto.
+3. En caso de que no sea posible delimitar el volumen de negocios a que se refiere el apartado 1, las infracciones tipificadas en la presente ley serán sancionadas en los términos siguientes:
+a) Las infracciones leves con multa de 100.000 a 500.000 euros.
+b) Las infracciones graves con multa de 500.001 hasta 10 millones de euros.
+c) Las infracciones muy graves con multa de más de 10 millones de euros.
+Se modifica por el art. 1.12 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+### Artículo 64
+
+Artículo 64. Criterios para la determinación del importe de las sanciones.
+1. El importe de las sanciones se fijará atendiendo, entre otros, a los siguientes criterios:
+a) La dimensión y características del mercado afectado por la infracción.
+b) La cuota de mercado de la empresa o empresas responsables.
+c) El alcance de la infracción.
+d) La duración de la infracción.
+e) El efecto de la infracción sobre los derechos y legítimos intereses de los consumidores y usuarios o sobre otros operadores económicos.
+f) Los beneficios ilícitos obtenidos como consecuencia de la infracción.
+g) Las circunstancias agravantes y atenuantes que concurran en relación con cada una de las empresas responsables.
+2. Para fijar el importe de las sanciones se tendrán en cuenta, entre otras, las siguientes circunstancias agravantes:
+a) La comisión repetida de infracciones tipificadas en la presente Ley.
+b) La posición de responsable o instigador de la infracción.
+c) La adopción de medidas para imponer o garantizar el cumplimiento de las conductas ilícitas.
+d) La falta de colaboración u obstrucción de la labor inspectora, sin perjuicio de la posible consideración como infracción independiente según lo previsto en el artículo 62.
+3. Para fijar el importe de la sanción se tendrán en cuenta, entre otras, las siguientes circunstancias atenuantes:
+a) La realización de actuaciones que pongan fin a la infracción.
+b) La no aplicación efectiva de las conductas prohibidas.
+c) La realización de actuaciones tendentes a reparar el daño causado.
+Se considerará atenuante cualificada el efectivo resarcimiento del daño con anterioridad a que se dicte la resolución.
+d) La colaboración activa y efectiva con la Comisión Nacional de la Competencia llevada a cabo fuera de los supuestos de exención y de reducción del importe de la multa regulados en los artículos 65 y 66 de esta Ley.
+Se modifica el apartado 3.c) por el art. 3.1 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+ Téngase en cuenta, sobre el ámbito de aplicación territorial de esta modificación, lo dispuesto en la disposición adicional 1 del citado Real Decreto-ley 9/2017.
+
+### Artículo 65
+
+Artículo 65. Exención del pago de la multa.
+1. Sin perjuicio de lo establecido en los artículos anteriores, la Comisión Nacional de los Mercados y la Competencia eximirá a una empresa o a una persona física del pago de la multa que hubiera podido imponerle cuando:
+a) Sea la primera en aportar elementos de prueba que, a juicio de la Comisión Nacional de los Mercados y la Competencia, le permitan ordenar el desarrollo de una inspección en los términos establecidos en el artículo 40 en relación con un cártel, siempre y cuando en el momento de aportarse aquellos no se disponga de elementos suficientes para ordenar la misma, o
+b) Sea la primera en aportar elementos de prueba que, a juicio de la Comisión Nacional de los Mercados y la Competencia, le permitan comprobar una infracción del artículo 1 en relación con un cártel, siempre y cuando, en el momento de aportarse los elementos, la Comisión Nacional de los Mercados y la Competencia no disponga de elementos de prueba suficiente para establecer la existencia de la infracción y no se haya concedido una exención a una empresa o persona física en virtud de lo establecido en la letra a).
+2. Para que la Comisión Nacional de los Mercados y la Competencia conceda la exención prevista en el apartado anterior, la empresa o, en su caso, la persona física que haya presentado la correspondiente solicitud deberá cumplir los siguientes requisitos:
+a) Cooperar plena, continua y diligentemente con la Comisión Nacional de los Mercados y la Competencia, en los términos en que se establezcan reglamentariamente, a lo largo de todo el procedimiento administrativo de investigación.
+b) Poner fin a su participación en la presunta infracción en el momento en que facilite los elementos de prueba a que hace referencia este artículo, excepto en aquellos supuestos en los que la Comisión Nacional de los Mercados y la Competencia estime necesario que dicha participación continúe con el fin de preservar la eficacia de una inspección.
+c) No haber destruido elementos de prueba relacionados con la solicitud de exención ni haber revelado, directa o indirectamente, a terceros distintos de la Comisión Europea o de otras Autoridades de Competencia, su intención de presentar esta solicitud o su contenido.
+d) No haber adoptado medidas para obligar a otras empresas a participar en la infracción.
+3. La exención del pago de la multa concedida a una empresa beneficiará igualmente a sus representantes legales, o a las personas integrantes de los órganos directivos y que hayan intervenido en el acuerdo o decisión, siempre y cuando hayan colaborado con la Comisión Nacional de los Mercados y la Competencia.
+4. La exención prevista en el apartado 1 comprenderá también la de la prohibición de contratar prevista en el artículo 71 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.
+5. La empresa o la persona física que vaya a presentar una solicitud de exención del pago de la multa podrá solicitar un indicador que reserve el puesto para dar tiempo al solicitante a presentar los elementos de prueba necesarios para aplicar el apartado 1 de este artículo.
+Se modifica por el art. 1.13 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+### Artículo 66
+
+Artículo 66. Reducción del importe de la multa.
+1. La Comisión Nacional de los Mercados y la Competencia podrá reducir el importe de la multa correspondiente en relación con aquellas empresas o personas físicas que, sin reunir los requisitos establecidos en el apartado 1 del artículo anterior:
+a) faciliten elementos de prueba de la presunta infracción que aporten un valor añadido significativo con respecto a aquellos de los que ya dispongan la Comisión Nacional de los Mercados y la Competencia, y
+b) cumplan los requisitos establecidos en las letras a), b) y c) del apartado 2 del artículo anterior.
+2. El nivel de reducción del importe de la multa se calculará atendiendo a la siguiente regla:
+a) La primera empresa o persona física que cumpla lo establecido en el apartado anterior, podrá beneficiarse de una reducción de entre el 30 y el 50 por ciento.
+b) La segunda empresa o persona física podrá beneficiarse de una reducción de entre el 20 y el 30 por ciento.
+c) Las sucesivas empresas o personas físicas podrán beneficiarse de una reducción de hasta el 20 por ciento del importe de la multa.
+3. En caso de aportación por parte de una empresa o persona física de elementos de prueba que permitan establecer hechos adicionales con repercusión directa en el importe de la multa, la Comisión Nacional de los Mercados y la Competencia no tendrá en cuenta esos hechos adicionales al determinar el importe de la multa correspondiente a dicha empresa o persona física.
+4. La reducción del importe de la multa correspondiente a una empresa será aplicable, en el mismo porcentaje, a la multa que pudiera imponerse a sus representantes o a las personas que integran los órganos directivos que hayan intervenido en el acuerdo o decisión, siempre que hayan colaborado con la Comisión Nacional de los Mercados y la Competencia.
+5. La reducción del importe de la multa prevista en este artículo podrá comprender la exclusión de la prohibición de contratar prevista en el artículo 71 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.
+Se modifica por el art. 1.14 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+### Artículo 67
+
+Artículo 67. Multas coercitivas.
+La Comisión Nacional de los Mercados y la Competencia, independientemente de las multas sancionadoras y sin perjuicio de la adopción de otras medidas de ejecución forzosa previstas en el ordenamiento, podrá imponer, previo requerimiento del cumplimiento a las empresas, asociaciones, uniones o agrupaciones de estas, y agentes económicos en general, multas coercitivas de hasta un 5 por ciento del volumen de negocios total mundial medio diario durante el ejercicio social anterior por cada día de retraso contado a partir de la fecha fijada en el previo requerimiento, con el fin de obligarlas:
+a) A cesar en una conducta que haya sido declarada prohibida conforme a lo dispuesto en la ley.
+b) A deshacer una operación de concentración que haya sido declarada prohibida conforme a lo dispuesto en la ley.
+c) A la remoción de los efectos provocados por una conducta restrictiva de la competencia.
+d) Al cumplimiento de los compromisos o condiciones adoptados en las resoluciones de la Comisión Nacional de los Mercados y la Competencia o en los acuerdos de Consejo de Ministros según lo previsto en la presente ley.
+e) Al cumplimiento de lo ordenado en una resolución, requerimiento o acuerdo de la Comisión Nacional de los Mercados y la Competencia o del Consejo de Ministros.
+f) Al cumplimiento del deber de colaboración establecido en el artículo 39.
+g) Al cumplimiento del deber de acudir a las entrevistas del artículo 39 bis. En particular, se impondrá multa coercitiva a la entidad a la que preste servicios o a la que represente la persona física convocada a las entrevistas por la Comisión Nacional de los Mercados y la Competencia para la recopilación de información en relación con el objeto de una investigación. En el caso de que la relación de representación o de prestación de servicios con la entidad ya no esté vigente en el momento de aplicación de la multa coercitiva, esta se impondrá a la persona física convocada a la entrevista y será de hasta 5.000 euros al día.
+h) Al cumplimiento de las medidas cautelares.
+i) A no obstruir la inspección y a presentar los libros y cualquier otra documentación requerida, de conformidad con lo previsto en el artículo 40.
+No se impondrán multas coercitivas, y se interrumpirá la prescripción y la exigibilidad de las multas coercitivas ya impuestas, durante la tramitación del procedimiento sancionador ante las Autoridades Nacionales de Competencia de otros Estados miembros o ante la Comisión Europea con respecto a unos mismos hechos que constituyan una infracción prohibida por los artículos 101 o 102 del Tratado de Funcionamiento de la Unión Europea.
+Se modifica por el art. 1.15 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+### Artículo 68
+
+Artículo 68. Prescripción de las infracciones y de las sanciones.
+1. Las infracciones muy graves prescribirán a los cuatro años, las graves a los dos años y las leves al año. El término de la prescripción se computará desde el día en que se hubiera cometido la infracción o, en el caso de infracciones continuadas, desde el que hayan cesado.
+2. Las sanciones impuestas por la comisión de infracciones muy graves prescribirán a los cuatro años, las impuestas por la comisión de infracciones graves a los dos años y las impuestas por infracciones leves al año.
+3. La prescripción se interrumpe por cualquier acto de la Administración tendente al cumplimiento de la ley y por los actos realizados por los interesados al objeto de asegurar, cumplimentar o ejecutar las resoluciones correspondientes.
+4. La prescripción para la Comisión Nacional de los Mercados y la Competencia se interrumpe durante la tramitación del procedimiento sancionador ante las Autoridades Nacionales de Competencia de otros Estados miembros o ante la Comisión Europea con respecto a unos mismos hechos que constituyan una infracción prohibida por esta ley o por los artículos 101 o 102 del Tratado de Funcionamiento de la Unión Europea.
+La interrupción de la prescripción comenzará en el momento de la notificación de la primera medida de investigación formal por parte de la Autoridad Nacional de Competencia de otro Estado miembro o de la Comisión Europea, y se producirá para todos los sujetos que hayan participado en la infracción, desde el momento en que al menos uno de ellos tenga conocimiento formal del acto que motiva la interrupción, debiendo notificarse esta circunstancia al resto de sujetos.
+La interrupción de la prescripción se mantendrá mientras la resolución sancionadora sea objeto de revisión en un proceso jurisdiccional.
+Lo dispuesto en este apartado se aplicará también a las multas coercitivas reguladas en el artículo 67.
+Se modifica el apartado 3 y se añade el 4 por el art. 1.16 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+### Artículo 69
+
+Artículo 69. Publicidad de las sanciones.
+Serán públicas, en la forma y condiciones que se prevea reglamentariamente, las sanciones impuestas en aplicación de esta Ley, su cuantía, el nombre de los sujetos infractores y la infracción cometida.
+
+### Artículo 70
+
+Artículo 70. Normativa aplicable y órganos competentes.
+1. A excepción de las infracciones previstas en el artículo 62 correspondientes a los artículos 1, 2 y 3, el procedimiento para la imposición de las sanciones previstas en este Título se regirá por lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y en su normativa de desarrollo.
+2. La Dirección de Competencia será el órgano competente para la iniciación e instrucción del procedimiento sancionador y el Consejo de la Comisión Nacional de los Mercados y la Competencia para la resolución del mismo.
+3. La recaudación de las multas, incluidas aquellas a las que se refiere el artículo 18.1.e), corresponderá a la Administración General del Estado en período voluntario y a la Agencia Estatal de Administración Tributaria en período ejecutivo, conforme a lo establecido en el Reglamento General de Recaudación aprobado por el Real Decreto 939/2005, de 29 de julio.
+Se modifica por el art. 1.17 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+ Se añade el apartado 3 por la disposición final 7 de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+
+## TÍTULO VI
+
+De la compensación de los daños causados por las prácticas restrictivas de la competencia
+Se añade por el art. 3.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+ Téngase en cuenta, sobre el ámbito de aplicación territorial de las modificaciones introducidas, lo dispuesto en la disposición adicional 1 del citado Real Decreto-ley 9/2017.
+
+### Artículo 71
+
+Artículo 71. Responsabilidad por las infracciones del Derecho de la competencia.
+1. Los infractores del Derecho de la competencia serán responsables de los daños y perjuicios causados.
+2. A efectos de este título:
+a) Se considera como infracción del Derecho de la competencia toda infracción de los artículos 101 o 102 del Tratado de Funcionamiento de la Unión Europea o de los artículos 1 o 2 de la presente ley.
+b) La actuación de una empresa es también imputable a las empresas o personas que la controlan, excepto cuando su comportamiento económico no venga determinado por alguna de ellas.
+Se añade por el art. 3.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+
+### Artículo 72
+
+Artículo 72. Derecho al pleno resarcimiento.
+1. Cualquier persona física o jurídica que haya sufrido un perjuicio ocasionado por una infracción del Derecho de la competencia, tendrá derecho a reclamar al infractor y obtener su pleno resarcimiento ante la jurisdicción civil ordinaria.
+2. El pleno resarcimiento consistirá en devolver a la persona que haya sufrido un perjuicio a la situación en la que habría estado de no haberse cometido la infracción del Derecho de la competencia. Por tanto dicho resarcimiento comprenderá el derecho a la indemnización por el daño emergente y el lucro cesante, más el pago de los intereses.
+3. El pleno resarcimiento no conllevará una sobrecompensación por medio de indemnizaciones punitivas, múltiples o de otro tipo.
+Se añade por el art. 3.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+
+### Artículo 73
+
+Artículo 73. Responsabilidad conjunta y solidaria.
+1. Las empresas y las asociaciones, uniones o agrupaciones de empresas, que hubieran infringido de forma conjunta el Derecho de la competencia serán solidariamente responsables del pleno resarcimiento de los daños y perjuicios ocasionados por la infracción.
+2. No obstante lo dispuesto en el apartado anterior, y sin perjuicio del derecho al pleno resarcimiento, cuando el infractor fuera una pequeña o mediana empresa conforme a la definición dada en la Recomendación 2003/361/CE de la Comisión, de 6 de mayo de 2003, sobre la definición de microempresas, pequeñas y medianas empresas, sólo será responsable ante sus propios compradores directos e indirectos en el caso de que:
+a) su cuota de mercado en el respectivo mercado fuera inferior al cinco por ciento en todo momento durante la infracción, y
+b) la aplicación del régimen de responsabilidad solidaria previsto en el apartado 1 mermara irremediablemente su viabilidad económica y causara una pérdida de todo el valor de sus activos.
+3. La excepción prevista en el apartado 2 no se aplicará cuando:
+a) La empresa hubiese dirigido la infracción o coaccionado a otras empresas para que participaran en la infracción, o
+b) la empresa hubiese sido anteriormente declarada culpable de una infracción del Derecho de la competencia.
+4. Como excepción al apartado 1, los sujetos beneficiarios de la exención del pago de multa en el marco de un programa de clemencia serán responsables solidariamente:
+a) Ante sus compradores o proveedores directos o indirectos, y
+b) ante otras partes perjudicadas solo cuando no se pueda obtener el pleno resarcimiento de las demás empresas que estuvieron implicadas en la misma infracción del Derecho de la competencia.
+5. El infractor que hubiera pagado una indemnización podrá repetir contra el resto de los infractores por una cuantía que se determinará en función de su responsabilidad relativa por el perjuicio causado.
+El importe de la contribución del infractor beneficiario de la exención del pago de multa en el marco de un programa de clemencia no excederá de la cuantía del perjuicio que haya ocasionado a sus propios compradores o proveedores directos o indirectos. Cuando el perjuicio se cause a una persona o empresa distinta de los compradores o proveedores directos o indirectos de los infractores, el importe de cualquier contribución del beneficiario anteriormente citado a otros infractores se determinará en función de su responsabilidad relativa por dicho perjuicio.
+Se añade por el art. 3.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+
+### Artículo 74
+
+Artículo 74. Plazo para el ejercicio de las acciones de daños.
+1. La acción para exigir la responsabilidad por los daños y perjuicios sufridos como consecuencia de las infracciones del Derecho de la competencia prescribirá a los cinco años.
+2. El cómputo del plazo comenzará en el momento en el que hubiera cesado la infracción del Derecho de la competencia y el demandante tenga conocimiento o haya podido razonablemente tener conocimiento de las siguientes circunstancias:
+a) La conducta y el hecho de que sea constitutiva de una infracción del Derecho de la competencia;
+b) el perjuicio ocasionado por la citada infracción; y
+c) la identidad del infractor.
+3. El plazo se interrumpirá si una autoridad de la competencia inicia una investigación o un procedimiento sancionador en relación con una infracción del Derecho de la competencia relacionados con la acción de daños. La interrupción terminará un año después de que la resolución adoptada por la autoridad de competencia sea firme o se dé por concluido el procedimiento de cualquier otra forma.
+4. Asimismo se interrumpirá el plazo cuando se inicie cualquier procedimiento de solución extrajudicial de controversias sobre la reclamación de los daños y perjuicios ocasionados. La interrupción, sin embargo, solo se aplicará en relación con las partes que estuvieran inmersas o representadas en la solución extrajudicial de la controversia.
+Se añade por el art. 3.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+
+### Artículo 75
+
+Artículo 75. Efecto de las resoluciones de las autoridades de la competencia o de los tribunales competentes.
+1. La constatación de una infracción del Derecho de la competencia hecha en una resolución firme de una autoridad de la competencia española o de un órgano jurisdiccional español se considerará irrefutable a los efectos de una acción por daños ejercitada ante un órgano jurisdiccional español.
+2. En aquellos casos en los que, debido al ejercicio de las acciones de daños por infracción de las normas de la competencia se reclamen daños y perjuicios, se presumirá, salvo prueba en contrario, la existencia de una infracción del Derecho de la competencia cuando haya sido declarada en una resolución firme de una autoridad de la competencia u órgano jurisdiccional de cualquier otro Estado miembro, y sin perjuicio de que pueda alegar y probar hechos nuevos de los que no tuvo conocimiento en el procedimiento originario.
+3. El presente artículo se entenderá sin perjuicio de los derechos y obligaciones de los tribunales en virtud del artículo 267 del Tratado de Funcionamiento de la Unión Europea.
+Se añade por el art. 3.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+
+### Artículo 76
+
+Artículo 76. Cuantificación de los daños y perjuicios.
+1. La carga de la prueba de los daños y perjuicios sufridos por la infracción del Derecho de la competencia corresponderá a la parte demandante.
+2. Si se acreditara que el demandante sufrió daños y perjuicios pero resultara prácticamente imposible o excesivamente difícil cuantificarlos con precisión en base a las pruebas disponibles, los tribunales estarán facultados para estimar el importe de la reclamación de los daños.
+3. Se presumirá que las infracciones calificadas como cártel causan daños y perjuicios, salvo prueba en contrario.
+4. En los procedimientos relativos a las reclamaciones de daños y perjuicios por infracciones del Derecho de la competencia, las autoridades de la competencia españolas podrán informar sobre los criterios para la cuantificación de las indemnizaciones que los infractores deban satisfacer a quienes hubiesen resultado perjudicados como consecuencia de aquéllas, cuando le sea requerido por el tribunal competente.
+Se añade por el art. 3.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+
+### Artículo 77
+
+Artículo 77. Efectos de las soluciones extrajudiciales sobre el derecho al resarcimiento de los daños.
+1. El derecho al resarcimiento de daños y perjuicios de la persona perjudicada que hubiera sido parte en un acuerdo extrajudicial se reducirá en la parte proporcional que el sujeto infractor con quien hubiera alcanzado el acuerdo tenga en el perjuicio que la infracción del Derecho de la competencia le ocasionó.
+2. Los infractores con los que no se hubiera alcanzado un acuerdo extrajudicial no podrán exigir del infractor que hubiera sido parte en el acuerdo una contribución por la indemnización restante.
+3. No obstante lo dispuesto en el apartado anterior, cuando los coinfractores que no hubieran alcanzado un acuerdo extrajudicial no pudieran pagar la indemnización restante, la persona perjudicada podrá reclamársela a aquel con quien celebró el acuerdo, salvo pacto en contrario.
+4. Al determinar el importe de la contribución que un coinfractor puede recuperar de cualquier otro coinfractor con arreglo a su responsabilidad relativa por el daño causado por la infracción del Derecho de la competencia, los tribunales tendrán debidamente en cuenta los daños y perjuicios abonados en el contexto de un acuerdo extrajudicial previo en el que haya participado el coinfractor respectivo.
+Se añade por el art. 3.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+
+### Artículo 78
+
+Artículo 78. Sobrecostes y derecho al pleno resarcimiento.
+1. El derecho al resarcimiento enunciado en este título se referirá únicamente al sobrecoste efectivamente soportado por el perjudicado, que no haya sido repercutido y le haya generado un daño.
+En ningún caso el resarcimiento del daño emergente sufrido en cualquier nivel de la cadena podrá superar el perjuicio del sobrecoste a ese nivel.
+El derecho al pleno resarcimiento también conllevará el derecho del perjudicado a reclamar y obtener una indemnización por lucro cesante como consecuencia de una repercusión total o parcial de los sobrecostes.
+2. Los tribunales estarán facultados para calcular con arreglo a derecho la parte del sobrecoste repercutido.
+3. El demandado podrá invocar en su defensa el hecho de que el demandante haya repercutido la totalidad o una parte del sobrecoste resultante de la infracción del Derecho de la Competencia.
+La carga de la prueba de que el sobrecoste se repercutió recaerá en el demandado, que podrá exigir, en una medida razonable, la exhibición de pruebas en poder del demandante o de terceros.
+Se añade por el art. 3.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+
+### Artículo 79
+
+Artículo 79. Prueba de sobrecostes y de su repercusión.
+1. Cuando en el ejercicio de una acción de daños la existencia de la reclamación o la determinación del importe de la indemnización dependa de si se repercutió un sobrecoste al demandante o en qué medida se repercutió, teniendo en cuenta la práctica comercial de que los aumentos de precio se repercuten sobre puntos posteriores de la cadena de suministro, la carga de la prueba de la existencia y cuantía de tal repercusión recaerá sobre la parte demandante, que podrá exigir, en una medida razonable, la exhibición de pruebas en poder del demandado o de terceros.
+2. Se presumirá que el comprador indirecto ha acreditado que se le repercutió el sobrecoste cuando pruebe que:
+a) El demandado ha cometido una infracción del Derecho de la competencia;
+b) la infracción del Derecho de la competencia tuvo como consecuencia un sobrecoste para el comprador directo del demandado; y
+c) el comprador indirecto adquirió los bienes o servicios objeto de la infracción del Derecho de la competencia, o adquirió bienes o servicios derivados de aquellos o que los contuvieran.
+La presunción quedará sin efecto si la parte demandada probase que los sobrecostes no se repercutieron, en todo o en parte, en el comprador indirecto.
+Se añade por el art. 3.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+
+### Artículo 80
+
+Artículo 80. Acciones de daños ejercitadas por demandantes situados en distintos niveles de la cadena de suministro.
+1. Con el fin de evitar que las acciones de daños ejercitadas por los demandantes de distintos niveles de la cadena de suministro aboquen a una responsabilidad múltiple o a la ausencia de responsabilidad del infractor, los tribunales que conozcan de una reclamación por daños y perjuicios derivados de una infracción del Derecho de la competencia, a la hora de evaluar si se cumplen las reglas de la carga de la prueba sobre repercusión de sobrecostes establecidas en los artículos precedentes, podrán, a través de los medios disponibles en el marco del derecho de la Unión Europea o del Derecho nacional, tomar en consideración debidamente los siguientes elementos:
+a) Las acciones por daños que estén relacionadas con la misma infracción del Derecho de la competencia, pero hayan sido interpuestas por demandantes situados en otros niveles de la cadena de suministro;
+b) las resoluciones derivadas de acciones por daños a que se refiere la letra anterior;
+c) la información pertinente de dominio público derivada de la aplicación pública del Derecho de la competencia.
+2. El presente artículo se entenderá sin perjuicio de los derechos y obligaciones de los órganos jurisdiccionales nacionales de conformidad con el artículo 30 del Reglamento (UE) n.º 1215/2012.
+Se añade por el art. 3.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+
+### Artículo 81
+
+Artículo 81. Efecto suspensivo de la solución extrajudicial de controversias.
+Los tribunales que conozcan de una acción de daños por infracciones del Derecho de la competencia podrán suspender el procedimiento durante un máximo de dos años en caso de que las partes en el procedimiento estén intentando una vía de solución extrajudicial de la controversia relacionada con la citada pretensión.
+Se añade por el art. 3.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+
+### Disposición adicional primera
+
+Disposición adicional primera. De la jurisdicción contencioso administrativa y de los Juzgados de lo Mercantil.
+1. De acuerdo con lo dispuesto en el artículo 86 ter 2. letra f de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, los Juzgados de lo Mercantil conocerán de cuantas cuestiones sean de la competencia del orden jurisdiccional civil respecto de los procedimientos de aplicación de los artículos 1 y 2 de esta ley y de los artículos 101 y 102 del Tratado de Funcionamiento de la Unión Europea.
+2. Cuando la Comisión Nacional de los Mercados y la Competencia actúe como autoridad requirente a los efectos de lo previsto en el artículo 18.1 g), los litigios serán competencia de la jurisdicción contencioso-administrativa y se regirán por la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, cuando se refieran a:
+a) la legalidad de los pliegos de concreción de hechos, las resoluciones en las que se acredite la existencia de prácticas prohibidas o la imposición de multas o multas coercitivas y cualquier otra decisión, acto o documento en relación con la aplicación de los artículos 101 y 102 o de las resoluciones firmes en aplicación de los artículos 101 y 102 del Tratado de Funcionamiento de la Unión Europea por las que se imponen multas o multas coercitivas, y
+b) la legalidad del instrumento uniforme que permite la ejecución en el Estado miembro de la autoridad requerida.
+3. Cuando la Comisión Nacional de los Mercados y la Competencia actúe como autoridad requerida, serán competencia de la jurisdicción contencioso-administrativa y se regirán por la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, los litigios referentes a las medidas de ejecución adoptadas en España o referentes a la validez de una notificación efectuada por la Comisión Nacional de los Mercados y la Competencia.
+Se modifica por el art. 1.18 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ap
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+Uno. Se introduce el artículo 15 bis de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, en los términos siguientes:
+«Artículo 15 bis. Intervención en procesos de defensa de la competencia.
+1. La Comisión Europea, la Comisión Nacional de la Competencia y los órganos competentes de las Comunidades Autónomas en el ámbito de sus competencias podrán intervenir, sin tener la condición de parte, por propia iniciativa o a instancia del órgano judicial, mediante la aportación de información o presentación de observaciones escritas sobre cuestiones relativas a la aplicación de los artículos 81 y 82 del Tratado de la Comunidad Europea o los artículos 1 y 2 de la Ley de Defensa de la Competencia. Con la venia del correspondiente órgano judicial, podrán presentar también observaciones verbales. A estos efectos, podrán solicitar al órgano jurisdiccional competente que les remita o haga remitir todos los documentos necesarios para realizar una valoración del asunto de que se trate.
+La aportación de información no alcanzará a los datos o documentos obtenidos en el ámbito de las circunstancias de aplicación de la exención o reducción del importe de las multas previstas en los artículos 65 y 66 de la Ley de Defensa de la Competencia.
+2. La Comisión Europea, la Comisión Nacional de la Competencia y los órganos competentes de las Comunidades Autónomas aportarán la información o presentarán las observaciones previstas en el número anterior diez días antes de la celebración del acto del juicio a que se refiere el artículo 433 de esta Ley o dentro del plazo de oposición o impugnación del recurso interpuesto.»
+Dos. Se modifica el artículo 212 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, añadiendo un nuevo número, que será el 3, en los siguientes términos:
+«3. Las sentencias que se dicten en los procedimientos sobre la aplicación de los artículos 81 y 82 del Tratado de la Comunidad Europea o los artículos 1 y 2 de la Ley de Defensa de la Competencia se comunicarán por el Secretario judicial a la Comisión Nacional de la Competencia.»
+Tres. Se modifica el artículo 249 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, añadiendo un nuevo inciso, en su número 4.º, en los siguientes términos:
+«4.º Las demandas en materia de competencia desleal, defensa de la competencia, en aplicación de los artículos 81 y 82 del Tratado de la Comunidad Europea o de los artículos 1 y 2 de la Ley de Defensa de la Competencia, propiedad industrial, propiedad intelectual y publicidad, siempre que no versen exclusivamente sobre reclamaciones de cantidad, en cuyo caso se tramitarán por el procedimiento que les corresponda en función de la cuantía que se reclame. No obstante, se estará a lo dispuesto en el punto 12 del apartado 1 del artículo 250 de esta Ley cuando se trate del ejercicio de la acción de cesación en defensa de los intereses colectivos y de los intereses difusos de los consumidores y usuarios en materia de publicidad.»
+Cuatro. Se modifica el artículo 404 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, añadiendo un nuevo párrafo en los siguientes términos:
+«En los procesos en los que sean de aplicación los artículos 81 y 82 del Tratado de la Comunidad Europea o los artículos 1 y 2 de la Ley de Defensa de la Competencia, el Secretario judicial dará traslado a la Comisión Nacional de la Competencia del auto admitiendo la demanda en el plazo previsto en el párrafo anterior.»
+Cinco. Se modifica el artículo 434 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, añadiendo un nuevo número, que será el 3, en los siguientes términos:
+«3. Se podrá suspender el plazo para dictar sentencia en los procedimientos sobre la aplicación de los artículos 81 y 82 del Tratado de la Comunidad Europea o de los artículos 1 y 2 de la Ley de Defensa de la Competencia cuando el tribunal tenga conocimiento de la existencia de un expediente administrativo ante la Comisión Europea, la Comisión Nacional de la Competencia o los órganos competentes de las Comunidades Autónomas y resulte necesario conocer el pronunciamiento del órgano administrativo. Dicha suspensión se adoptará motivadamente, previa audiencia de las partes, y se notificará al órgano administrativo. Este, a su vez, habrá de dar traslado de su resolución al tribunal.
+Contra el auto de suspensión del proceso sólo se dará recurso de reposición.»
+Seis. Se modifica el artículo 461 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, añadiendo un nuevo número, que será el 5, en los términos siguientes:
+«5. En los procesos en los que sean de aplicación los artículos 81 y 82 del Tratado de la Comunidad Europea o los artículos 1 y 2 de la Ley de Defensa de la Competencia, el Secretario judicial dará traslado a la Comisión Nacional de la Competencia del escrito de interposición del recurso de apelación.»
+Siete. Se modifica el artículo 465 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, añadiendo un nuevo número, que será el 5, en los siguientes términos:
+«5. Se podrá suspender el plazo para dictar sentencia en los procedimientos sobre la aplicación de los artículos 81 y 82 del Tratado de la Comunidad Europea o de los artículos 1 y 2 de la Ley de Defensa de la Competencia cuando el tribunal tenga conocimiento de la existencia de un expediente administrativo ante la Comisión Europea, la Comisión Nacional de la Competencia o los órganos competentes de las Comunidades Autónomas y resulte necesario conocer el pronunciamiento del órgano administrativo. Dicha suspensión se adoptará motivadamente, previa audiencia de las partes, y se notificará al órgano administrativo. Este, a su vez, habrá de dar traslado de su resolución al tribunal.
+Contra el auto de suspensión del proceso sólo se dará recurso de reposición.»
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Comunicaciones de la Comisión Nacional de la Competencia.
+La Comisión Nacional de la Competencia podrá publicar Comunicaciones aclarando los principios que guían su actuación en aplicación de la presente Ley. En particular, las Comunicaciones referentes a los artículos 1 a 3 de esta Ley se publicarán oído el Consejo de Defensa de la Competencia.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Definiciones.
+1. A efectos de lo previsto en esta Ley, se entiende por empresa cualquier persona o entidad que ejerza una actividad económica, con independencia del estatuto jurídico de dicha entidad y de su modo de financiación.
+2. A efectos de lo dispuesto en esta ley se entiende por cártel todo acuerdo o práctica concertada entre dos o más competidores cuyo objetivo consista en coordinar su comportamiento competitivo en el mercado o influir en los parámetros de la competencia mediante prácticas tales como, entre otras, la fijación o la coordinación de precios de compra o de venta u otras condiciones comerciales, incluso en relación con los derechos de la propiedad intelectual e industrial; la asignación de cuotas de producción o de venta; el reparto de mercados y clientes, incluidas las colusiones en licitaciones, las restricciones de las importaciones o exportaciones o las medidas contra otros competidores contrarias a la competencia.
+3. A efectos de lo dispuesto en el Título VI de esta ley se entenderá por:
+1) “acción por daños”: toda acción conforme al Derecho nacional, mediante la cual una parte presuntamente perjudicada, o una persona en representación de una o varias partes presuntamente perjudicadas cuando el Derecho de la Unión o nacional prevean esta facultad, o una persona física o jurídica que se haya subrogado en los derechos de la parte presuntamente perjudicada, incluida la persona que haya adquirido la acción, presente ante un órgano jurisdiccional nacional una reclamación tendente al resarcimiento de daños y perjuicios;
+2) “programa de clemencia”: todo programa relativo a la aplicación del artículo 101 del Tratado de Funcionamiento de la Unión Europea o una disposición análoga de la legislación nacional según el cual un participante en un cártel secreto, independientemente de las otras empresas implicadas, coopera con la investigación de la autoridad de la competencia, facilitando voluntariamente declaraciones de lo que él mismo conozca del cártel y de su papel en el mismo, a cambio de lo cual recibe, mediante una decisión o un sobreseimiento del procedimiento, la exención del pago de cualquier multa por su participación en el cártel o una reducción de la misma;
+3) “declaración en el marco de un programa de clemencia”: toda declaración, verbal o escrita, efectuada voluntariamente por una empresa o una persona física, o en su nombre, a una autoridad de la competencia, o la documentación al respecto, en la que se describan los conocimientos que esa empresa o persona física posea sobre un cártel y su papel en el mismo, y que se haya elaborado específicamente para su presentación a la autoridad con el fin de obtener la exención o una reducción del pago de las multas en el marco de un programa de clemencia, sin que esta definición incluya la información preexistente;
+4) “información preexistente”: las pruebas que existen independientemente del procedimiento de una autoridad de la competencia, tanto si esa información consta en el expediente de una autoridad de la competencia como si no;
+5) “solicitud de transacción”: toda declaración efectuada voluntariamente por una empresa, o en su nombre, a una autoridad de la competencia en la que se reconozca o renuncie a discutir su participación y responsabilidad en una infracción del Derecho de la competencia, y que haya sido elaborada específicamente para que la autoridad de la competencia pueda aplicar un procedimiento simplificado o acelerado;
+6) “sobrecoste”: la diferencia entre el precio realmente pagado y el precio que habría prevalecido de no haberse cometido una infracción del Derecho de la competencia;
+7) “comprador directo”: una persona física o jurídica que haya adquirido directamente de un infractor productos o servicios que fueron objeto de una infracción del Derecho de la competencia;
+8) “comprador indirecto”: una persona física o jurídica que haya adquirido no directamente del infractor sino de un comprador directo o de uno posterior, productos o servicios que fueron objeto de una infracción del Derecho de la competencia, o productos o servicios que los contengan o se deriven de ellos.
+Se modifica el apartado 2 y se añade el 3 por el art. 3.3 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#at
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Referencias a los órganos nacionales de competencia existentes en otras normas.
+1. La Comisión Nacional de la Competencia será la Autoridad Nacional de Competencia a los efectos del Reglamento (CE) n.º 1/2003 del Consejo, de 16 de diciembre de 2002, relativo a la aplicación de las normas sobre competencia previstas en los artículos 81 y 82 del Tratado.
+2. Las referencias de la normativa vigente al Tribunal de Defensa de la Competencia y al Servicio de Defensa de la Competencia se entenderán hechas a la Comisión Nacional de la Competencia.
+3. No obstante, las referencias de la Ley 1/2002, de 21 de febrero, de coordinación de las competencias del Estado y las Comunidades Autónomas en materia de defensa de la competencia, al Tribunal de Defensa de la Competencia y al Servicio de Defensa de la Competencia se entenderán realizadas al Consejo de la Comisión Nacional de la Competencia y a la Dirección de Investigación, respectivamente. Sin perjuicio de lo anterior, el Consejo de Defensa de la Competencia será presidido por el Presidente de la Comisión Nacional de la Competencia.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Extinción del Tribunal de Defensa de la Competencia y del Servicio de Defensa de la Competencia.
+1. Quedan extinguidos el Organismo Autónomo Tribunal de Defensa de la Competencia y el Servicio de Defensa de la Competencia.
+2. Se traspasarán a la Comisión Nacional de la Competencia los medios materiales del Tribunal de Defensa de la Competencia y del Servicio de Defensa de la Competencia y aquélla se subrogará en los derechos y obligaciones de los que éstos sean titulares de forma que se garantice la máxima economía de recursos.
+3. Los funcionarios y el personal que en el momento de entrada en vigor de esta Ley presten sus servicios en el Tribunal de Defensa de la Competencia y en el Servicio de Defensa de la Competencia, se integrarán en la Comisión Nacional de la Competencia.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Modificación de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
+Uno. Se da nueva redacción al artículo 8.6 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa, en los términos siguientes:
+«6. Conocerán también los Juzgados de lo Contencioso-Administrativo de las autorizaciones para la entrada en domicilios y restantes lugares cuyo acceso requiera el consentimiento de su titular, siempre que ello proceda para la ejecución forzosa de actos de la Administración pública.
+Asimismo, corresponderá a los Juzgados de lo Contencioso-Administrativo la autorización o ratificación judicial de las medidas que las autoridades sanitarias consideren urgentes y necesarias para la salud pública e impliquen privación o restricción de la libertad o de otro derecho fundamental.
+Además, los Juzgados de lo Contencioso-Administrativo conocerán de las autorizaciones para la entrada e inspección de domicilios, locales, terrenos y medios de transporte que haya sido acordada por la Comisión Nacional de la Competencia, cuando, requiriendo dicho acceso e inspección el consentimiento de su titular, éste se oponga a ello o exista riesgo de tal oposición.»
+Dos. Se da nueva redacción al artículo 10.1 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa, en los términos siguientes:
+«Artículo 10. Competencias de las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia.
+1. Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia conocerán en única instancia de los recursos que se deduzcan en relación con:
+a) Los actos de las Entidades locales y de las Administraciones de las Comunidades Autónomas, cuyo conocimiento no esté atribuido a los Juzgados de lo Contencioso-Administrativo.
+b) Las disposiciones generales emanadas de las Comunidades Autónomas y de las Entidades locales.
+c) Los actos y disposiciones de los órganos de gobierno de las asambleas legislativas de las Comunidades Autónomas, y de las instituciones autonómicas análogas al Tribunal de Cuentas y al Defensor del Pueblo, en materia de personal, administración y gestión patrimonial.
+d) Los actos y resoluciones dictados por los Tribunales Económico-Administrativos Regionales y Locales que pongan fin a la vía económico-administrativa.
+e) Las resoluciones dictadas por el Tribunal Económico-Administrativo Central en materia de tributos cedidos.
+f) Los actos y disposiciones de las Juntas Electorales Provinciales y de Comunidades Autónomas, así como los recursos contencioso-electorales contra acuerdos de las Juntas Electorales sobre proclamación de electos y elección y proclamación de Presidentes de Corporaciones locales, en los términos de la legislación electoral.
+g) Los convenios entre Administraciones públicas cuyas competencias se ejerzan en el ámbito territorial de la correspondiente Comunidad Autónoma.
+h) La prohibición o la propuesta de modificación de reuniones previstas en la Ley Orgánica 9/1983, de 15 de julio, Reguladora del Derecho de Reunión.
+i) Los actos y resoluciones dictados por órganos de la Administración General del Estado cuya competencia se extienda a todo el territorio nacional y cuyo nivel orgánico sea inferior al de Ministro o Secretario de Estado en materias de personal, propiedades especiales y expropiación forzosa.
+j) Los actos y resoluciones de los órganos de las Comunidades Autónomas competentes para la aplicación de la Ley de Defensa de la Competencia.
+k) Cualesquiera otras actuaciones administrativas no atribuidas expresamente a la competencia de otros órganos de este orden jurisdiccional.»
+Tres. Se modifica el apartado 3 de la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa, con la siguiente redacción:
+«3. Las resoluciones y actos del Presidente y del Consejo de la Comisión Nacional de la Competencia, directamente, en única instancia, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.»
+
+### Disposición adicional octava
+
+Disposición adicional octava. Referencias a la Comisión Nacional de la Competencia y a sus órganos de dirección.
+Las referencias contenidas en esta Ley a la Comisión Nacional de la Competencia y a sus órganos de dirección relativas a funciones, potestades administrativas y procedimientos, se entenderán también realizadas a los órganos de instrucción y resolución correspondientes de las Comunidades Autónomas con competencia en la materia cuando las mismas se refieran a las competencias correspondientes previstas en el artículo 13 de esta Ley.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Asistencia jurídica a la Comisión Nacional de la Competencia.
+La asistencia jurídica, consistente en el asesoramiento, representación y defensa en juicio, de la Comisión Nacional de la Competencia se llevará a cabo de conformidad con la Ley 52/1997, de 27 de noviembre, de Asistencia Jurídica al Estado e Instituciones Públicas.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Modificación de la Ley 1/2002, de 21 de febrero, de Coordinación de las competencias del Estado y de las Comunidades Autónomas en materia de Defensa de la Competencia.
+Uno. Se modifica el artículo 5.Uno.3 de la Ley 1/2002, de 21 de febrero, de coordinación de las competencias del Estado y de las Comunidades Autónomas en materia de defensa de la competencia, en los términos siguientes:
+«3. El Consejo de Defensa de la Competencia, como órgano de participación y colaboración entre la Administración General del Estado y las Comunidades Autónomas, asumirá las siguientes funciones:
+a) Realizar el seguimiento periódico de la política de defensa de la competencia por parte de las distintas Administraciones públicas.
+b) Promover el intercambio de información y la realización y publicación de estudios en los que se pongan de manifiesto los criterios seguidos por las distintas Administraciones en aplicación de la normativa de defensa de la competencia y, en su caso, la necesidad de hacer que éstos sean uniformes.
+c) Informar sobre los proyectos de disposiciones de carácter general que afecten a las materias de la defensa de la competencia en las que las Comunidades Autónomas tienen competencias de ejecución.
+d) Elaborar directrices sobre la interpretación del apartado 2 del artículo 1 de la presente Ley.»
+Dos. Se modifica el artículo 5.Dos, letra b), de la Ley 1/2002, de 21 de febrero, de coordinación de las competencias del Estado y de las Comunidades Autónomas en materia de defensa de la competencia, en los términos siguientes:
+«b) La Comisión Nacional de la Competencia remitirá a los órganos autonómicos una nota sucinta de las actuaciones practicadas de oficio y copia de todas las denuncias, respecto de las que existan indicios racionales de infracción, que se refieran a conductas que afecten a su respectiva Comunidad Autónoma.»
+Tres. Se modifica el artículo 5 apartado Cuatro, de la Ley 1/2002, de 21 de febrero, de coordinación de las competencias del Estado y de las Comunidades Autónomas en materia de defensa de la competencia, en los términos siguientes:
+«La Comisión Nacional de la Competencia, en el ejercicio de las funciones que le son propias, recabará del órgano autonómico informe preceptivo, no vinculante, a emitir en el plazo de veinte días, en relación con aquellas conductas previstas en los artículos 1, 2 y 3 de la Ley de Defensa de la Competencia o los artículos 81 y 82 del Tratado de la Comunidad Europea que, afectando a un ámbito supraautonómico o al conjunto del mercado nacional, incidan de forma significativa en el territorio de la respectiva Comunidad Autónoma.
+Para ello, la Comisión Nacional de la Competencia remitirá al órgano autonómico de la respectiva Comunidad Autónoma copia del pliego de concreción de hechos y, en su caso, de la denuncia y de los documentos y pruebas practicadas que consten en el expediente, indicándose este hecho en la notificación a los interesados del citado pliego.
+La Comisión Nacional de la Competencia comunicará al órgano autonómico de la respectiva Comunidad Autónoma los acuerdos y resoluciones adoptados, tanto en la fase de instrucción como de resolución, que pongan fin al procedimiento, respecto de estas conductas.»
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Modificación de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+En la disposición adicional décima de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, se incluye, entre los Organismos relacionados en el apartado 1, «...la Comisión Nacional de la Competencia».
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Comunicación de posibles infracciones a través del canal externo de comunicaciones de la Dirección de Competencia de la Comisión Nacional de los Mercados y la Competencia.
+1. Cualquier persona física podrá informar a través del canal externo de comunicaciones de la Dirección de Competencia de la Comisión Nacional de los Mercados y la Competencia sobre cualesquiera acciones u omisiones que puedan constituir infracciones de esta ley.
+2. La comunicación de infracciones realizada por los informantes no tendrá la consideración de denuncia, a los efectos previstos en el artículo 49 de esta ley, ni de solicitud de exención ni de reducción del pago de la multa, a los efectos de los artículos 65 y 66 de esta ley.
+3. La comunicación puede llevarse a cabo de forma anónima. En otro caso, se preservará la identidad del informante, que sólo podrá ser comunicada a la Autoridad judicial, al Ministerio Fiscal o a la autoridad administrativa competente en el marco de una investigación penal, disciplinaria o sancionadora.
+4. Las personas que comuniquen posibles infracciones de esta ley a través del canal externo de comunicaciones de la Dirección de Competencia tendrán derecho a las medidas de apoyo y protección previstas en la Ley reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción.
+5. Recibida la comunicación a través del canal externo de comunicaciones, la Dirección de Competencia procederá a su registro, siéndole asignado un código de identificación. El registro de las comunicaciones externas estará contenido en una base de datos segura y de acceso restringido exclusivamente al personal de la Comisión Nacional de los Mercados y la Competencia convenientemente autorizado por el titular de la Dirección de Competencia, en la que se registrarán todas las comunicaciones recibidas, cumplimentando los siguientes datos:
+a) Fecha de recepción.
+b) Código de identificación.
+c) Actuaciones desarrolladas.
+d) Medidas adoptadas.
+e) Fecha de cierre.
+6. En un plazo no superior a diez días hábiles desde su recepción, la Dirección de Competencia procederá a acusar recibo de la comunicación, a menos que la comunicación sea anónima o el informante expresamente hubiera renunciado a recibir comunicaciones relativas a la investigación.
+7. La Dirección de Competencia comprobará si la comunicación expone hechos o conductas que puedan constituir indicios de infracciones de esta ley. En el caso de que los hechos expuestos recayeran en el ámbito de competencias propio de otros órganos, dará traslado de los mismos a las autoridades y organismos competentes, comunicándoselo al informante, salvo que la comunicación fuera anónima o el informante hubiera renunciado a recibir comunicaciones de la Comisión Nacional de los Mercados y la Competencia. Dicho traslado se realizará de forma que se mantengan las garantías señaladas para preservar la confidencialidad de la identidad del informante.
+8. La Autoridad Independiente de Protección del Informante, A.A.I. prestará a los informantes a que se refiere la presente disposición las medidas de apoyo y aplicará el régimen sancionador en lo relativo a las medidas de protección, previstas en la Ley reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción.
+9. Los apartados anteriores serán de aplicación igualmente a los canales de información de las autoridades autonómicas de competencia.
+Se añade por la disposición final 3 de la Ley 2/2023, de 20 de febrero. Ref. BOE-A-2023-4513#df-3
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Procedimientos iniciados formalmente.
+1. Los procedimientos sancionadores en materia de conductas prohibidas incoados antes de la entrada en vigor de esta Ley se tramitarán y resolverán con arreglo a las disposiciones vigentes en el momento de su inicio. En todo caso se entenderán caducadas las solicitudes presentadas en aplicación del artículo 4 de la Ley 16/1989, de 17 de julio, de Defensa de la Competencia.
+2. Los procedimientos de control de concentraciones iniciados antes de la entrada en vigor de esta Ley se tramitarán y resolverán con arreglo a las disposiciones vigentes en el momento de su inicio.
+3. En la tramitación de los procedimientos indicados en los apartados anteriores, las referencias al Tribunal de Defensa de la Competencia y al Servicio de Defensa de la Competencia se entenderán realizadas, respectivamente, al Consejo de la Comisión Nacional de la Competencia y a la Dirección de Investigación.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Constitución de la Comisión Nacional de la Competencia.
+1. Sin perjuicio de lo dispuesto en la disposición adicional sexta de la presente Ley, el Presidente del Tribunal de Defensa de la Competencia y los Vocales pasarán a ostentar la condición de Presidente y Consejeros de la Comisión Nacional de la Competencia hasta la expiración de su mandato, sin posibilidad de otro nombramiento posterior para el mismo cargo.
+2. Con el fin de adaptar la composición del número de miembros del Consejo de la Comisión Nacional de la Competencia a lo dispuesto en los artículos 20.b) y 33.1 de la presente Ley, la reducción a seis Consejeros se irá produciendo progresivamente en función de la expiración del mandato del Presidente y los Vocales del Tribunal de Defensa de la Competencia en los términos previstos en el apartado anterior.
+3. La designación de los nuevos Consejeros tendrá lugar a partir del momento en que el número de consejeros sea inferior a seis.
+4. En el plazo de tres meses de la entrada en vigor de esta Ley, se procederá a la designación del Director de Investigación. Hasta tanto no se realice la misma, el Director General de Defensa de la Competencia continuará ejerciendo sus funciones.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Por la presente Ley queda derogada la Ley 16/1989, de 17 de julio, de Defensa de la Competencia, y cuantas disposiciones de igual o inferior rango se opongan a lo previsto en esta Ley.
+2. No obstante lo dispuesto en el apartado anterior, el Real Decreto 1443/2001, de 21 diciembre, por el que se desarrolla la Ley 16/1989, de 17 de julio, de Defensa de la Competencia, en lo referente al control de concentraciones económicas y los artículos 2 y 3 del capítulo I, los artículos 14 y 15, apartados 1 a 4, del capítulo II y el capítulo III del Real Decreto 378/2003, de 28 de marzo, por el que se desarrolla la Ley 16/1989, de 17 de julio, de Defensa de la Competencia, en materia de exenciones por categorías, autorización singular y registro de defensa de la competencia seguirán en vigor hasta que el Gobierno apruebe, en su caso, nuevos textos reglamentarios, en lo que no se oponga en lo previsto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Títulos competenciales.
+Esta Ley se dicta al amparo del artículo 149.1.13.ª de la Constitución.
+Se exceptúan de lo anterior los siguientes preceptos:
+La disposición adicional primera, que se dicta al amparo del artículo 149.1.5.ª de la Constitución.
+Los artículos 12, apartado 3 y 16; y las disposiciones adicionales segunda, séptima y novena, que se dictan al amparo del artículo 149.1. 6.ª de la Constitución.
+El artículo 23, que se dicta al amparo del artículo 149.1.14.ª de la Constitución.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación normativa.
+1. El Gobierno y el Ministro de Economía y Hacienda, de acuerdo con lo previsto en esta Ley y en el ámbito de sus respectivas competencias, podrán dictar las normas reglamentarias necesarias para el desarrollo y aplicación de esta Ley.
+2. En particular, se autoriza al Gobierno para que en el plazo de 6 meses dicte las disposiciones reglamentarias que desarrollen la presente Ley en cuanto a los procedimientos, el tratamiento de las conductas de menor importancia, y el sistema de clemencia o exención y reducción de multa a las empresas que colaboren en la lucha contra los cárteles.
+3. Igualmente, se autoriza al Gobierno para que, previo informe de la Comisión Nacional de la Competencia, mediante Real Decreto modifique los umbrales establecidos en el artículo 8 de la presente Ley. En todo caso, la Comisión Nacional de la Competencia realizará cada tres años una valoración de la aplicación de dichos umbrales a los efectos de proponer, en su caso, su modificación al Gobierno.
+4. En el plazo de tres meses tras la constitución del Consejo de la Comisión Nacional de la Competencia, el Consejo de Ministros aprobará mediante Real Decreto, previo informe de la Comisión Nacional de la Competencia, el Estatuto de la misma, en el que se establecerán cuantas cuestiones relativas al funcionamiento y régimen de actuación de la Comisión Nacional de la Competencia resulten necesarias conforme a las previsiones de esta Ley y, en particular, las siguientes:
+a) la estructura orgánica de la Comisión Nacional de la Competencia;
+b) la distribución de competencias entre los distintos órganos;
+c) el régimen de su personal.
+5. Asimismo, se autoriza al Gobierno para que mediante Real Decreto modifique la regulación de la estructura organizativa del Ministerio de Economía y Hacienda de acuerdo con la nueva organización institucional contemplada en esta Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+1. La presente Ley entrará en vigor el 1 de septiembre de 2007.
+2. Sin perjuicio de lo establecido en el apartado anterior, los artículos 65 y 66 de esta Ley entrarán en vigor en el mismo momento que su reglamento de desarrollo.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 3 de julio de 2007.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

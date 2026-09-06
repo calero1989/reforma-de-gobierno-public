@@ -1,0 +1,2466 @@
+# Ley 4/2009, de 14 de mayo, de protección ambiental integrada.
+
+- Identificador BOE: `BOE-A-2011-2547`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2011-2547
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye las correcciones de errores publicadas en BORM núms. 258, de 7 de noviembre de 2009 y 52, de 4 de marzo de 2010.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 4/2009, de 14 de mayo, de Protección Ambiental Integrada.
+Por consiguiente, al amparo del artículo 30.Dos, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley.
+PREÁMBULO
+I
+El medio ambiente es un bien o interés colectivo que debe ser tutelado e integrado en todos y cada uno de los sectores productivos y de servicios, y allí donde se desarrolle cualquier actividad humana. La protección de este bien tan preciado, y hoy sabemos que frágil, no concierne sólo a unos pocos, sino que involucra en un esfuerzo común al conjunto de los poderes públicos y de toda la ciudadanía.
+Los poderes públicos deben garantizar a todos la efectividad del derecho proclamado en el artículo 45 de la Constitución Española, de disfrutar de un medio ambiente adecuado para el desarrollo de la persona, para lo cual habrán de velar por la utilización racional de los recursos naturales y la defensa y restauración del medio ambiente; y también deben esforzarse por conservar el medio ambiente los propios ciudadanos, a cuya indispensable solidaridad colectiva interpela la Constitución.
+En consecuencia, si se quiere alcanzar un alto grado de tutela ambiental, será preciso que las exigencias de la protección del medio ambiente comprometan todas las políticas y actuaciones desarrolladas por los poderes públicos, tomando en consideración su repercusión ambiental, lo que constituye ya un principio general inspirador de la actuación comunitaria, positivizado en el artículo 6 del Tratado de la Comunidad Europea, del que también se ha hecho eco nuestro Tribunal Constitucional.
+II
+La Constitución Española, a través de los artículos 148 y 149, llevó a cabo una distribución de las competencias ambientales entre el Estado y las comunidades autónomas, atribuyendo al Estado, como competencia exclusiva, la legislación básica sobre protección del medio ambiente, y a las comunidades autónomas su gestión y el establecimiento de normas adicionales de protección. La Comunidad Autónoma de la Región de Murcia asumió, a través del artículo 11.2 de su Estatuto de Autonomía, la competencia para el desarrollo legislativo y ejecución en materia de protección del medio ambiente y normas adicionales de protección, en el marco de la legislación básica del Estado y en los términos que la misma establezca.
+Haciendo uso de estas competencias se aprobó la Ley 1/1995, de 8 de marzo, de Protección del Medio Ambiente de la Región de Murcia, que ha prestado sus servicios durante catorce años, encabezando el bloque normativo autonómico para la protección del medio ambiente en la Región de Murcia.
+No obstante, en el periodo de tiempo relativamente dilatado de su vigencia, la legislación básica estatal en materia ambiental ha experimentado una acelerada mutación, en especial en los tres últimos años. Y así, han tomado cuerpo, entre otras, la Ley 10/1998, de 21 de abril, de Residuos; la Ley 16/2002, de 1 de julio, de Prevención y control integrados de la contaminación; la Ley 9/2006, de 28 de abril, sobre evaluación de los efectos de determinados planes y programas en el medio ambiente; la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente; la Ley 26/2007, de 23 de octubre, de Responsabilidad Medioambiental; la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera; y las diversas modificaciones sufridas por la norma legal reguladora de la evaluación de impacto ambiental, que han conducido al Real Decreto Legislativo 1/2008, de 11 de enero, por el que se aprueba el texto refundido de la Ley de Evaluación de Impacto Ambiental de proyectos.
+Todo este corpus de legislación básica ha incidido sin duda en el sistema protector de la Ley regional de Protección del Medio Ambiente, no sólo por dejar anticuadas algunas de sus previsiones, sino sobre todo por la necesidad de desarrollar normativamente la nueva legislación ambiental e integrarla de manera sistemática.
+Téngase en cuenta, además, que mediante ese conjunto de leyes se transponen al Derecho español variadas directivas provenientes de la Comunidad Europea, sin duda la principal impulsora de nuestras políticas ambientales, y conforman el tupido sistema a través del cual las instituciones comunitarias persiguen alcanzar un elevado nivel de protección del medio ambiente.
+Es cierto que la adhesión de España a la Comunidad Europea no altera la distribución de competencias entre el Estado y las comunidades autónomas, como recuerda con frecuencia el Tribunal Constitucional (STC 252/1988, de 20 de diciembre, entre otras); lo que supone que al Estado sólo le corresponde la transposición del Derecho ambiental comunitario si reviste el carácter de legislación básica. Pero no es menos cierto que es esto lo que suele ocurrir, pues el principio de subsidiariedad conduce a la Comunidad Europea al dictado de unas normas mínimas, abriendo a los Estados miembros la posibilidad de aprobar normas adicionales, existiendo por tanto una clara analogía con el sistema constitucional de reparto de competencias entre el Estado y las comunidades autónomas.
+En definitiva, la Comunidad Autónoma ha de habérselas hoy con un espacio normativo más reducido, debido a la existencia de nuevas leyes estatales que han venido, a impulsos de la normativa comunitaria, ampliando los instrumentos de control ambiental de planes, programas, proyectos y actividades, o dando mayor contenido regulador a instrumentos ya existentes, como es el caso de la evaluación de impacto ambiental.
+El cometido que ahora debe desempeñar una ley regional no es el de reproducir esta legislación estatal básica en materia de medio ambiente (de los riesgos de las «leges repetitae» ha advertido en ocasiones el Tribunal Constitucional, y el propio Consejo Jurídico de la Región de Murcia), si bien ciertas repeticiones pueden resultar necesarias para una adecuada inteligencia de la norma. La legislación ambiental murciana debe más bien comenzar su regulación allí donde acaban las leyes básicas estatales, atendiendo las llamadas al desarrollo de la materia que le hacen las nuevas leyes básicas y ocupando el espacio normativo que estas leyes permiten, e integrando los distintos mecanismos de protección previstos en la legislación ambiental estatal con aquellos otros cuya regulación corresponde a la Comunidad Autónoma.
+III
+La técnica de la evaluación de impacto ambiental fue sin duda el eje en torno al cual se articuló el dispositivo de protección de la Ley 1/1995, de 8 de marzo, siguiendo una tendencia dominante en las leyes autonómicas en los años de su aprobación, marcada a su vez por las Directivas europeas reguladoras de la evaluación de impacto ambiental de proyectos.
+El Real Decreto legislativo 1302/1986, de 28 de junio, de Evaluación de Impacto Ambiental, había incorporado unos años antes a nuestra legislación estatal la evaluación de impacto ambiental, como mecanismo participativo para la consideración de los aspectos ambientales en las decisiones de aprobación de proyectos, con separación entre los órganos ambiental y sustantivo, concibiendo la declaración de impacto ambiental como un trámite esencial que se incorporaba al procedimiento sustantivo de autorización o aprobación del proyecto.
+La Ley 1/1995, de 8 de marzo, fue un fiel reflejo de esta tendencia, y, en consecuencia, recibió en su regulación la figura de la evaluación de impacto ambiental, ampliándola a un gran número de supuestos adicionales; e introdujo la calificación ambiental, que, a modo de minievaluación de impacto ambiental, participaba de sus notas más características (separación de órganos ambiental-sustantivo, carácter de trámite,…). Evaluación y calificación han sido todos estos años las dos técnicas generales de protección frente a la contaminación derivada de las actividades económicas –en especial las industriales– en la Región de Murcia. Y resulta destacable además la temprana introducción de la llamada evaluación estratégica, extendiendo el objeto de la evaluación de impacto ambiental, no sólo a proyectos sino también a las directrices, planes y programas previstos en su Anexo I.1 y en la legislación urbanística.
+En cambio, quizá porque escapaban al esquema anterior, la ley hasta ahora vigente no atendió de la misma manera otros aspectos, como el de la coordinación de esos mecanismos de evaluación y calificación ambientales con las autorizaciones específicas que distintas normas tenían establecidas para el control de la contaminación (las autorizaciones de productor y de gestor de residuos, los controles de las actividades potencialmente contaminadoras de la atmósfera, las distintas autorizaciones de vertidos, ya sea al mar, al dominio público hidráulico o a la red municipal de saneamiento). Incluso dejó sin aplicación directa el Reglamento de Actividades Molestas, Insalubres, Nocivas y Peligrosas de 1961, regulador de un procedimiento completo de licencia de actividad clasificada, y pasó a regular simplemente el trámite de la calificación ambiental.
+IV
+La Ley estatal 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, que introdujo en España la autorización ambiental integrada, conmovió profundamente la fisonomía de las técnicas generales de prevención ambiental, y es una de las normas llamada a constituir, junto con la reguladora de la evaluación de impacto ambiental, uno de los principales ejes del Derecho ambiental actual y futuro.
+Introducida también por el Derecho europeo, a través la Directiva 96/61/CE, del Consejo, de 24 de septiembre, la autorización ambiental integrada tiene por objeto unificar en una sola autorización las varias licencias o autorizaciones existentes para el control de la contaminación, autorización única que se otorga a la vista de todas las fuentes de contaminación que puede producir la instalación en su conjunto, tratando de minimizar su efecto global mediante el empleo de las mejores técnicas disponibles, y evitando un enfoque sectorial de la prevención de la contaminación, por elementos ambientales afectados o por agentes contaminantes aislados, pues, como previno el Considerando Séptimo de la Directiva 96/61/CE (incorporado más tarde a la Directiva 2008/1/CE, del Parlamento Europeo y del Consejo, de 15 de enero), «el tratamiento por separado del control de las emisiones a la atmósfera, el agua o el suelo puede potenciar la transferencia de contaminación entre los diferentes ámbitos del medio ambiente, en lugar de proteger al medio ambiente en su conjunto».
+Las indudables ventajas del nuevo enfoque integral del control de la contaminación, en sus distintas vertientes (integración formal de procedimientos, integración sustantiva, integración informativa), hacen de la Ley de Prevención y Control Integrados de la Contaminación una de las normas ambientales más importantes desde la recepción del acervo comunitario, y ha cambiado el enfoque de las normas autonómicas posteriores, centrándolo en la gestión integral y unificada de las autorizaciones ambientales.
+V
+Teniendo en cuenta la evolución anterior, esta ley introduce una regulación entre cuyas principales características podemos destacar:
+a) En primer lugar, tiene un marcado contenido procedimental, dirigido a hacer realidad la integración y simplificación de trámites, para corregir la dispersión originada por el excesivo número de normas y autorizaciones ya existentes. Se trata de desarrollar las normas reguladoras de los procedimientos y autorizaciones con fines ambientales, clarificándolas, integrándolas, coordinándolas y modernizándolas.
+Este esfuerzo integrador se aplica no sólo sobre las evaluaciones y autorizaciones con fines ambientales que podemos llamar generales (autorización ambiental integrada, evaluación de impacto ambiental, licencia de actividad) sino también sobre las autorizaciones ambientales sectoriales (en materia de residuos, de contaminación atmosférica, y de vertidos, tanto al mar y como al alcantarillado).
+b) Como requisito previo para la integración de procedimientos, se ha de establecer claramente cuál es la administración encargada de impulsar e instruir en cada momento el procedimiento integrado, sin perjuicio de las competencias del resto de administraciones, que se canalizan a través de informes y otras formas de participación, y que han de estar especificadas con la suficiente claridad.
+Habrá instalaciones y actividades, de mayor incidencia ambiental, en las cuales la Comunidad Autónoma asumirá el protagonismo para la tramitación integrada de las autorizaciones necesarias; mientras que en el resto de actividades será el Ayuntamiento el que asuma esa función. Se quiere evitar así que el control ambiental preventivo quede compartimentado, como ocurre actualmente en los supuestos de actividades e instalaciones que han de instar la licencia de actividad ante el Ayuntamiento (con evaluación o calificación ambiental municipal o autonómica), pero también las autorizaciones autonómicas de residuos, emisiones a la atmósfera o vertidos al mar, además de la autorización municipal de vertidos a la red de saneamiento.
+c) A este fin, la ley distingue tres grandes tipos de actividades cuya autorización tiene un tratamiento jurídico diferente: las actividades sujetas a autorización ambiental integrada, las sujetas a la nueva autorización ambiental única; y las sometidas únicamente a licencia de actividad.
+Como actividades sujetas a autorización ambiental integrada se mantienen las previstas en la legislación estatal, y su control ambiental preventivo se lleva a cabo a través el procedimiento establecido en la Ley de Prevención y Control Integrados de la Contaminación, que esta ley completa y desarrolla, sobre todo en lo que respecta a la participación municipal en el procedimiento.
+Figuran a continuación todas aquellas actividades distintas de las anteriores, a las que la legislación básica sujeta a evaluación de impacto ambiental o a una autorización ambiental específica (de residuos, vertidos al mar o emisiones a la atmósfera). Para unificar todos estos controles se crea una autorización ambiental que se denomina única, que integra las distintas autorizaciones y evaluaciones ambientales autonómicas existentes. No es, pues, una nueva autorización que se sume a las ya exigibles, contribuyendo a su proliferación, sino un mecanismo de simplificación formal para aglutinar las existentes en una sola. Se sujetan a autorización ambiental única las actividades e instalaciones no sometidas a autorización ambiental integrada, pero sí a evaluación de impacto ambiental, o bien a alguna de las autorizaciones ambientales específicas de competencia autonómica.
+El procedimiento de autorización ambiental única mantiene similitud con el propio de la autorización ambiental integrada, si bien con claras diferencias que procuran la simplificación, en mayor o menor medida según se trate de proyectos sujetos o no a evaluación de impacto ambiental.
+La nueva autorización ambiental única se coordina con la licencia de actividad de manera similar a como se hace en el régimen de autorización ambiental integrada: con la nueva ley, cuando una actividad esté sujeta a una autorización ambiental autonómica (integrada o única), no se sigue el procedimiento de licencia de actividad, que (salvo en lo relativo al otorgamiento de la licencia) se sustituye por el procedimiento autonómico correspondiente, en el cual el Ayuntamiento participa intensamente mediante un control urbanístico previo, e informando los aspectos de su competencia.
+El tercer tipo de actividades serán las no sujetas a autorizaciones autonómicas y que se someten sólo a licencia municipal de actividad. Aquí el procedimiento de control preventivo será el de la licencia de actividad, cuya regulación se recoge ahora con más claridad que en la legislación hasta ahora vigente. La intervención de la Comunidad Autónoma se reduce al máximo en este ámbito, aunque se prevé que aquellos ayuntamientos que no dispongan de medios materiales o personales puedan solicitar de la Comunidad Autónoma, que realice el informe de calificación ambiental de la actividad.
+Se busca también la integración de las autorizaciones municipales con fines ambientales, para lo cual el vertido al alcantarillado ya no se controla mediante una autorización específica, sino a través de la propia licencia de actividad.
+La ley mantiene la categoría tradicional de las actividades exentas o inocuas, en las que la solicitud de licencia se ha de resolver en tres meses como máximo, tras los cuales se entiende concedida. Y se permite que los ayuntamientos puedan sustituir la licencia por una comunicación previa, que habilitaría directamente para comenzar la actividad, tal y como recomienda el informe «Trámites administrativos para la creación de empresas en España» publicado en 2008 por la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios. En el contexto actual de crisis económica, y tratándose de actividades sin incidencia ambiental, la simplificación de los trámites para la creación de empresas se hace absolutamente necesaria.
+VI
+Se abandona definitivamente en la ley la concepción de las administraciones locales como administraciones menores de edad, siempre bajo la tutela de una administración superior. La propia Constitución garantiza la autonomía de los municipios para la defensa de sus intereses específicos, en los cuales la cercanía de la gestión administrativa al ciudadano ha de ser máxima; y entre esos intereses figura, sin duda, el llamado medio ambiente urbano o de proximidad, que ha de preservarse en el desarrollo de cualquier tipo de actividad.
+Téngase en cuenta, además, la íntima conexión existente entre la defensa del medio ambiente urbano y la actividad municipal de planificación, gestión y disciplina urbanística; de manera que, en ocasiones, los problemas ambientales con afectación a los vecinos tienen un origen urbanístico. Y, también con frecuencia, las soluciones deben ser asimismo urbanísticas (restablecimiento del orden urbanístico infringido, ordenación o reordenación urbanística de la zona), y está en manos de los ayuntamientos acometerlas.
+La ley deja, por tanto, a los ayuntamientos en toda clase de actividades, incluso las sujetas a evaluación ambiental de proyectos o a autorización ambiental autonómica, un espacio propio para realizar el necesario control urbanístico y configurar las condiciones de ejercicio de la actividad que afectan a su ámbito de competencias; una forma de proceder que ya anticipó la regulación estatal de la autorización ambiental integrada.
+En este sentido, la aparición de la nueva autorización ambiental única no viene a reducir las competencias municipales de control de estas actividades, pues los ayuntamientos, a través de la cédula de compatibilidad urbanística y el informe en los ámbitos de su competencia, pueden y deben realizar un control de la actividad que es prácticamente idéntico en extensión y alcance al que realizan cuando se trata de actividades sujetas sólo a licencia de actividad. Si dejamos a un lado la particularidad de los proyectos sujetos a evaluación ambiental, las funciones del órgano autonómico competente para el otorgamiento de la autorización ambiental única, aparte de los controles sectoriales propios de las autorizaciones que se unifican, no consisten en el control ambiental general de la actividad en sustitución del ayuntamiento, sino en resolver los eventuales problemas de coordinación que se dan en la práctica entre el control municipal y los controles sectoriales autonómicos, aportando una visión final integradora de estos distintos elementos. Por lo demás, el ayuntamiento mantiene asimismo sus competencias para vigilar, sancionar y adoptar medidas de restablecimiento frente a la actividad.
+No sólo en actividades sujetas a autorización ambiental única sino en todo tipo de actividades, se percibe fácilmente en la ley el intento de precisar con la mayor claridad las competencias autonómicas y municipales respecto de la vigilancia de las condiciones impuestas a la actividad, y de la disciplina ambiental (imposición de sanciones, cese de actividades o adopción de medidas cautelares). En este tipo de potestades limitativas o de policía administrativa, y salvo supuestos de daños o riesgo grave e inminente, se huye de la atribución indistinta a las dos administraciones, que puede conducir a la inacción cuando es ardua la medida a adoptar; y no sólo por razones de defensa ambiental, sino para una mayor protección de los derechos de los ciudadanos, lo que exige una clara identificación del órgano administrativo que se ha de hacer cargo de sus reclamaciones, peticiones o denuncias.
+VII
+La ley se estructura en un título preliminar y ocho títulos más, a los que se acompañan cuatro anexos.
+El título preliminar contempla las disposiciones generales de la ley, delimitando su objeto, fines y ámbito de aplicación; enuncia las competencias municipales en la materia; y enmarca las directrices, planes y programas al servicio de la política ambiental dentro de los instrumentos de ordenación del territorio.
+El título I contiene normas generales aplicables a las autorizaciones con fines ambientales (autorización ambiental integrada, autorización ambiental única y licencia de actividad), pues la ley contiene la regulación de procedimientos completos de autorización, y no sólo trámites ambientales sueltos. Esto permite recoger en este título unas determinaciones comunes a todas las autorizaciones con fines ambientales: fines generales, deberes de los titulares de instalaciones y actividades (hasta ahora sólo previstos para la autorización ambiental integrada), la creación de un registro ambiental de actividades, y reglas de cooperación interadministrativa y de coordinación de las autorizaciones con fines ambientales con otro tipo de autorizaciones.
+El título II, centrado en las autorizaciones ambientales autonómicas, comprende un capítulo I, con normas comunes, y dos capítulos más, relativos a la autorización ambiental integrada y la autorización ambiental única.
+Si se compara el contenido de estos tres capítulos, se percibe fácilmente el intento de aproximar el régimen de ambas autorizaciones; por eso una parte importante de la regulación aparece en las normas comunes del capítulo I. En la regulación común de los procedimientos autonómicos se toma como base el procedimiento de autorización ambiental integrada, pero con novedades de desarrollo, que serán aplicables también a la autorización ambiental única.
+Se aprovecha también para coordinar la evaluación ambiental de proyectos con la autorización ambiental integrada, algo que la legislación estatal dejó a cargo de las normas de desarrollo autonómico. La tramitación de ambos instrumentos se unifica, salvo el acto por el que se emite la declaración de impacto ambiental, que ha de ser previo a la propia autorización ambiental integrada, permitiendo así al órgano sustantivo plantear la eventual discrepancia prevista en la legislación básica reguladora de la evaluación ambiental de proyectos.
+El comienzo de la explotación de instalaciones sometidas a autorización ambiental autonómica se comunica previamente al órgano autonómico competente y al ayuntamiento, pero no está sujeto a acta o autorización de puesta en marcha. El resultado es que cualquier actividad que, después de obtener sus autorizaciones con fines ambientales, realiza las cuantiosas inversiones necesarias para su instalación y montaje, podrá comenzar la explotación tan pronto practique las comunicaciones mencionadas, lo que no implica descuidar el control de su repercusión ambiental, que queda garantizado con la exigencia de un informe de Entidad de Control Ambiental, y con una primera comprobación administrativa de la instalación o actividad que se deberá realizar dentro de unos plazos precisos.
+En el título III se desarrolla el régimen de la licencia de actividad, distinguiendo tres categorías de actividades, según el procedimiento para la obtención de la licencia: las sometidas a autorización ambiental autonómica, las sujetas a informe de calificación ambiental, y las exentas de dicho informe.
+En las actividades sometidas a autorización ambiental autonómica, el procedimiento de licencia de actividad queda embebido en el de autorización autonómica, por lo que la regulación de la licencia de actividad se centra en este caso en el acto final de su otorgamiento, su contenido (constituido por las condiciones que figuren en la autorización autonómica como de competencia local), el plazo para ello (que será de dos meses, desde la comunicación de la autorización ambiental autonómica), las comprobaciones previas que excepcionalmente han de realizarse (sólo si no se hubieran hecho y aportado antes al procedimiento de autorización autonómica en los plazos concedidos para ello), amén de otras reglas de coordinación con la propia autorización autonómica, como en los casos de modificación de oficio o cambios de titularidad.
+Las actividades sometidas a informe de calificación ambiental se delimitan por exclusión (son aquéllas no sometidas a autorización autonómica, pero tampoco exentas). En este ámbito se sigue el procedimiento ya conocido de solicitud con proyecto técnico y memoria, posible denegación previa basada en el incumplimiento del planeamiento urbanístico o de las ordenanzas, información edictal y consulta vecinal, calificación ambiental y resolución.
+El título IV regula la evaluación ambiental de proyectos. La ley actualiza aquí el listado de proyectos sujetos a evaluación ambiental, tomando como base la lista estatal, hoy mucho más depurada técnicamente que la contenida en nuestra Ley 1/1995, y que se ha venido incrementando en los últimos años a través de sucesivas modificaciones que traen causa de Directivas europeas. Se mantienen, no obstante, algunos supuestos adicionales, que las normas básicas estatales no someten a evaluación ambiental, pero que sí se someterán en la Región de Murcia, en proyectos que tengan por objeto campos de golf, plantas desaladoras o desalinizadoras, supuestos de urbanizaciones y complejos hoteleros, o plantas de producción de energía solar térmica o fotovoltaica.
+Otras previsiones destacables de la ley, en relación con la evaluación ambiental de proyectos, son la unificación de su tramitación dentro de las autorizaciones ambientales autonómicas, la integración de la evaluación de repercusiones a la Red Natura 2000 dentro de la evaluación ambiental del proyecto, o la necesidad de especificar dentro de la propia declaración de impacto ambiental los distintos órganos competentes para su seguimiento y vigilancia. Se detallan asimismo aspectos procedimentales, sobre todo mediante la fijación de plazos.
+Al régimen de la evaluación ambiental de planes y programas se dedica el título V, con especial atención a los instrumentos de ordenación urbanística (que constituyen en la práctica el grueso de planes y programas evaluables), especificando el nuevo anexo IV los planes urbanísticos incluidos y excluidos.
+El título VI contiene dos capítulos. El primero desarrolla diversos instrumentos destinados a fomentar la toma de conciencia e implicación de empresas, asociaciones y ciudadanos en la defensa del medio ambiente; y el segundo capítulo, que recoge un contenido novedoso destinado a articular mecanismos de lucha frente al cambio climático.
+El título VII da un respaldo específico a medios de reconocimiento de la excelencia ambiental de las empresas, como son los sistemas de gestión y auditoría ambiental (EMAS, ISO 14001), la etiqueta ecológica, así como el fomento de la contratación ambientalmente responsable.
+El título VIII, por último, contiene el régimen de control y disciplina ambiental, con normas reguladoras de la actividad de inspección, la responsabilidad ambiental, las medidas de restablecimiento de la legalidad ambiental (que toma algunos elementos de la disciplina urbanística, pero con las peculiaridades que impone la materia ambiental, en la cual las licencias y autorizaciones son de actividad o funcionamiento), y se cierra con el régimen de infracciones y sanciones aplicables.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto establecer el régimen jurídico y los procedimientos integrados de intervención administrativa a los que deben sujetarse los planes, programas, proyectos y actividades que pueden afectar al medio ambiente, así como diversos mecanismos de fomento, con la finalidad de alcanzar un elevado nivel de protección del medio ambiente en el marco de las competencias de la Comunidad Autónoma de la Región de Murcia.
+
+### Artículo 2
+
+Artículo 2. Fines y principios.
+1. Son fines pretendidos por esta ley:
+a) Evitar, reducir y controlar la generación de residuos y las emisiones a la atmósfera, al agua y al suelo, con un enfoque integrado que contemple todos los posibles efectos contaminantes de las actividades y aplique las soluciones globalmente más adecuadas, previniendo la transferencia de contaminación entre los diferentes ámbitos del medio ambiente.
+b) Promover la coordinación entre las distintas administraciones públicas, así como la integración, simplificación y agilización de los procedimientos de prevención, control y calidad ambiental.
+c) Favorecer el desarrollo sostenible mediante un sistema de intervención administrativa que armonice el desarrollo económico con la utilización racional de todos los recursos naturales.
+d) Integrar las consideraciones relativas a la protección del medio ambiente en las distintas políticas, planes, programas y actividades sectoriales.
+e) Promover una mayor participación social en la toma de decisiones medioambientales.
+f) Potenciar la utilización, por los distintos sectores económicos y por la sociedad en general, de los instrumentos y mecanismos voluntarios para el ejercicio de una responsabilidad compartida que mejore la calidad ambiental.
+g) Fomentar la responsabilidad social corporativa.
+h) Promover la sensibilización y educación ambiental, con el objeto de difundir en la sociedad los conocimientos, actitudes, comportamientos y habilidades encaminados a la protección del medio ambiente.
+2. La aplicación de esta ley se basará en los principios de cautela y acción preventiva, de corrección de la contaminación en la fuente misma, así como el principio de que quien contamina, paga.
+
+### Artículo 3
+
+Artículo 3. Ámbito de aplicación.
+1. La presente ley será de aplicación a los planes, programas, proyectos, industrias y actividades que se realicen en el territorio de la Comunidad Autónoma de la Región de Murcia.
+2. Los medios de intervención administrativa previstos en esta ley se entienden sin perjuicio de las intervenciones que correspondan a la Administración General del Estado en las materias de su competencia, y no eximen de la obtención de las autorizaciones o licencias que sean exigibles de acuerdo con la legislación sectorial distinta de la ambiental.
+3. Dentro de sus respectivas competencias, la Comunidad Autónoma de la Región de Murcia y las entidades locales que se encuentran en su ámbito territorial adoptarán cuantas medidas sean necesarias para alcanzar y mantener un nivel de protección ambiental elevado. Por su parte, los particulares se esforzarán en contribuir a evitar y reducir la contaminación.
+4. En el marco de la legislación estatal básica y a los efectos de la evaluación ambiental estratégica de planes y programas y la evaluación ambiental de proyectos se entiende por:
+a) Administraciones públicas afectadas: las que, debido a sus competencias específicas en población, salud humana, biodiversidad, geodiversidad, fauna, flora, suelo, agua, aire, ruido, factores climáticos, paisaje, bienes materiales, patrimonio cultural incluido en el patrimonio histórico, educación, servicios sociales, sanidad, ordenación del territorio y urbanismo, puedan verse afectadas por las repercusiones medioambientales de la ejecución de los planes y programas cuya evaluación ambiental regula esta ley.
+b) Público: cualquier persona física o jurídica, así como sus asociaciones, organizaciones o grupos legalmente constituidos que no reúnan los requisitos para considerarse interesados en el expediente.
+c) Personas interesadas: a los efectos de esta ley se entenderá por personas interesadas:
+1.º Toda persona física o jurídica que tenga la consideración de interesado según la legislación vigente en materia de procedimiento administrativo común.
+2.º Cualquier persona jurídica sin ánimo de lucro que cumpla los siguientes requisitos:
+I) Que tenga, entre los fines acreditados en sus estatutos, la protección del medio ambiente en general o la de alguno de sus elementos en particular, y que tales fines puedan resultar afectados por el plan, programa o proyecto de que se trate.
+II) Que lleven, al menos, dos años legalmente constituidas y vengan ejerciendo de modo activo, las actividades necesarias para alcanzar los fines recogidos en sus estatutos.
+III) Que, según sus estatutos, desarrollen su actividad en un ámbito territorial que resulte afectado por el plan, programa o proyecto que debe someterse a evaluación ambiental.
+Se añade el apartado 4 por el art. 1.1 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Este apartado ya fue añadido por el Decreto-ley 5/2020, de 7 de mayo.
+ Se añade el apartado 4 por el art. único.1 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+
+### Artículo 4
+
+Artículo 4. Competencias de las entidades locales.
+1. Corresponde a las entidades locales ejercer aquellas competencias que tengan atribuidas en virtud de su legislación específica, de la presente ley y de las normas vigentes en materia de contaminación ambiental.
+En particular, y en el marco de la legislación estatal y autonómica, incumbe a las entidades locales adoptar las medidas necesarias para proteger el medio ambiente en materia de residuos urbanos, ruidos, vibraciones, humos, calor, olores, polvo, contaminación lumínica y vertidos de aguas residuales a la red de saneamiento.
+2. Para el control de la incidencia ambiental de las actividades, corresponde a las entidades locales:
+a) La aprobación de ordenanzas de protección en las materias a que se refiere el párrafo anterior, y para regular los emplazamientos, distancias mínimas y demás requisitos exigibles a las actividades que pueden producir riesgos o daños al medio ambiente o la seguridad y salud de las personas.
+b) El otorgamiento de la licencia de actividad y el control de las actividades sujetas a declaración responsable.
+c) La vigilancia e inspección ambiental, el restablecimiento de la legalidad ambiental y la imposición de sanciones ambientales en materias de su competencia.
+3. Las entidades locales, en el ejercicio de sus competencias urbanísticas, llevarán a cabo una adecuada localización de usos para impedir riesgos o daños al medio ambiente o la seguridad y salud de las personas, evitando de manera especial las potenciales molestias que pueden ocasionarse a los vecinos de los establecimientos o lugares en que se ejerzan actividades económicas. En particular:
+a) Mediante la zonificación, asignando usos, tipologías y niveles de intensidad adecuados.
+b) Mediante una delimitación de sectores de suelo urbanizable en la que se tenga en cuenta la incidencia ambiental que las actividades económicas, en especial las industriales, pueden tener sobre los usos residenciales próximos.
+c) Mediante el restablecimiento del orden urbanístico infringido.
+Se modifica el apartado 2.b) por el art. 3.2 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica el apartado 2.b) por el art. 3.2 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 5
+
+Artículo 5. Cooperación y colaboración interadministrativa.
+1. Para garantizar la aplicación de esta ley, las administraciones públicas, así como sus distintos órganos, ajustarán sus actuaciones a los principios de información mutua, cooperación y colaboración, de acuerdo con el principio de lealtad institucional.
+2. Procurarán especialmente la eficacia y coherencia en las actuaciones compartidas, prestándose la debida asistencia en los supuestos en que la contaminación pueda afectar a un ámbito territorial superior al municipal, en la tramitación de las autorizaciones con fines ambientales y en el control del funcionamiento de las actividades autorizadas.
+3. La cooperación y colaboración económica, técnica y administrativa de la Administración pública de la Comunidad Autónoma con otras administraciones públicas en el ámbito de aplicación de esta ley, se desarrollará bajo las formas y términos previstos en la legislación reguladora del régimen jurídico de la Administración pública de la Comunidad Autónoma de la Región de Murcia, pudiendo tener lugar, en todo caso, mediante los convenios que se suscriban y la creación de consorcios.
+4. La consejería con competencias en medio ambiente, en colaboración con la consejería competente en informática, creará, mantendrá y pondrá a disposición de las distintas administraciones intervinientes en los procedimientos de evaluación o autorizaciones ambientales una plataforma informática que permita la transmisión de documentación y actos administrativos relativos a los mismos, su seguimiento y su acceso público, según determine la normativa sectorial aplicable, a través de internet en el tiempo y forma establecidos en la normativa aplicable, con la excepción, en su caso, de los datos que gocen de confidencialidad.
+El instructor del expediente comunicará por medios electrónicos a las unidades administrativas que deban emitir informes vinculantes, así como los facultativos, justificando en este último caso la necesidad del informe, así como la puesta a disposición del expediente en la plataforma telemática correspondiente, acordándose en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo.
+De conformidad con legislación básica estatal reguladora del procedimiento administrativo común, salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes.
+El órgano peticionario de un informe facultativo deberá fundamentar la conveniencia de solicitarlo y señalar el plazo para su emisión. De no emitirse el informe en el plazo señalado y sin perjuicio de la responsabilidad en que incurra el responsable de la demora, se podrán proseguir las actuaciones.
+Se modifican los apartados 1 y 4 por el art. 1.2 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifican los apartados 1 y 4 por el art. único.2 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se añade el apartado 4 por el art. 23.1 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+
+### Artículo 5 bis
+
+Artículo 5 bis. Formato de la documentación de los planes o programas y proyectos sometidos a evaluación o autorización ambiental.
+1. En base a los principios de economía y máxima difusión, la documentación integrante de los planes o programas y proyectos, incluyendo el documento inicial ambiental, el estudio ambiental estratégico, el estudio de impacto ambiental y cualquier documento complementario del plan o programa, deberán presentarse en formato digital de uso común, bajo un sistema que garantice su protección, y con firma electrónica válida de sus autores. En el caso de que se determine que existe información confidencial, el promotor deberá presentar además una versión documental paralela que garantice la confidencialidad de datos admitida a efectos de su publicación.
+2. La información geográfica que incluyan dichos planes, programas o proyectos deberá presentarse en archivo digital independiente, en formato SIG abierto y de uso común, de acuerdo con las condiciones de interoperabilidad vigentes en la normativa en materia de infraestructuras de datos espaciales.
+Se deberá realizar sobre una base cartográfica, ortofotografía o imagen oficial, estar definida en el sistema de referencia ETRS89 y proyección UTM referida al huso 30 norte. Se utilizará la información geográfica temática oficial de las administraciones competentes.
+3. Se faculta al titular de la consejería competente en materia de medio ambiente para que mediante la oportuna orden se concreten o actualicen los datos técnicos referidos a formatos y características de la documentación e información.
+Se modifica por el art. 62.1 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se añade por el art. 1.3 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Este artículo ya fue añadido por el Decreto-ley 5/2020, de 7 de mayo.
+ Se añade por el art. único.3 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+
+### Artículo 6
+
+Artículo 6. Información y participación ciudadana.
+Los derechos de acceso a la información y participación pública en los asuntos de carácter ambiental, así como la acción popular en asuntos medioambientales, se ejercerán de acuerdo con los establecido en la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente, sin perjuicio de las medidas previstas en esta ley para fomentar dicha participación.
+La Administración Regional adoptará medidas que incentiven la participación ciudadana en los procedimientos de exposición pública de las actividades sometidas al trámite ambiental, mediante la publicación telemática de la relación de expedientes sujetos a la misma.
+
+### Artículo 7
+
+Artículo 7. Secreto industrial y comercial.
+El cumplimiento de lo dispuesto en esta ley se desarrollará con respeto a lo establecido en la legislación vigente en materia de secreto industrial y comercial.
+
+### Artículo 8
+
+Artículo 8. Directrices, planes y programas al servicio de la política de protección del medio ambiente.
+1. El Consejo de Gobierno, a propuesta de la consejería competente en materia de medio ambiente, aprobará las directrices de protección del medio ambiente, en las que se definirán los principios rectores que han de guiar la política regional en materia de calidad ambiental, la integración de estos en la planificación y ejecución de la política territorial, económica, tecnológica, industrial y de desarrollo local, y las posibles estrategias financieras para la superación del déficit ambiental.
+2. Para el desarrollo de su política ambiental, el Consejo de Gobierno aprobará planes integrales o sectoriales de protección del medioambiente, que podrán ejecutarse directamente, o a través de programas de acción.
+3. Las directrices, planes y programas del medio ambiente, incluidos los planes autonómicos en materia de residuos, contaminación acústica, o de calidad del aire o contaminación atmosférica, tendrán la consideración de instrumentos de ordenación del territorio cuando tengan por finalidad la regulación de actividades y la coordinación de políticas urbanísticas y medioambientales con incidencia territorial que deban prevalecer sobre otros instrumentos de ordenación del territorio de rango inferior y planeamiento urbanístico, debiendo ajustarse en estos casos a lo establecido en la legislación territorial y urbanística vigente en cuanto tipología, naturaleza, alcance y procedimiento de elaboración y aprobación.
+4. La participación real y efectiva del público en la elaboración y aprobación de las directrices, planes y programas de índole ambiental se garantizará de acuerdo con lo establecido en los artículos 16 y 17 de la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente.
+5. El Gobierno Regional informará a la Asamblea Regional sobre la elaboración y el estado de ejecución de las directrices, planes y programas de protección del medio ambiente.
+Se modifica por el art. 1.4 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica por el art. único.4 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+
+### Artículo 9
+
+Artículo 9. Establecimiento de valores límite frente a la contaminación.
+1. En el marco de la normativa básica estatal, el consejero competente en materia de Medioambiente establecerá, mediante orden, con la adecuada justificación técnica, los valores límite, niveles genéricos de referencia u otras prescripciones técnicas que resulten adecuados para la protección del medio ambiente, la seguridad y salud de las personas, aplicables a los residuos, ruidos, vertidos, emisiones, suelos y cualesquiera otras formas de contaminación.
+2. Las ordenanzas municipales deberán adaptarse a los valores límite y las prescripciones establecidas en virtud de este artículo.
+Se modifica por el art. 62.2 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifica el apartado 1 por el art. 1.5 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica el apartado 1 por el art. único.5 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+
+## TÍTULO I
+
+Normas generales de las autorizaciones con fines ambientales
+
+### Artículo 10
+
+Artículo 10. Autorizaciones con fines ambientales.
+1. Las instalaciones o actividades comprendidas en el ámbito de aplicación de esta ley pueden estar sujetas a alguna o algunas de las siguientes autorizaciones con fines ambientales:
+a) Autorización ambiental integrada.
+b) Autorizaciones ambientales sectoriales.
+c) Licencia de actividad.
+2. La autorización ambiental integrada y las autorizaciones ambientales sectoriales son autorizaciones con fines ambientales concedidas por la Comunidad Autónoma de la Región de Murcia.
+3. La licencia de actividad se otorga por los ayuntamientos y persigue fines ambientales, urbanísticos, sanitarios y de seguridad.
+Se modifican los apartados 1.b) y 2 por el art. 3.1 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifican los apartados 1.b) y 2 por el art. 3.1 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 11
+
+Artículo 11. Fines ambientales de las autorizaciones reguladas en esta Ley.
+1. Los fines ambientales de las autorizaciones ambientales autonómicas y de la licencia de actividad pretenden evitar que las actividades e instalaciones causen efectos significativos sobre el medio ambiente.
+2. El órgano competente para otorgar las autorizaciones con fines ambientales deberá tener en cuenta que en el funcionamiento de las instalaciones:
+a) Se adopten las medidas adecuadas para prevenir la contaminación, y en particular se prevengan y reduzcan en origen las emisiones a la atmósfera, al agua y al suelo, con la finalidad de conseguir un elevado nivel de protección del medio ambiente en su conjunto.
+b) Se evite la producción de residuos o, si esto no fuera posible, se gestionen mediante procedimientos de valorización, preferentemente mediante reciclado o reutilización. En el supuesto de que tampoco fuera factible la aplicación de dichos procedimientos, por razones técnicas o económicas, los residuos se eliminarán de forma que se evite o reduzca al máximo su repercusión en el medio ambiente, de acuerdo con la normativa aplicable en la materia.
+c) Se utilice la energía, el agua, las materias primas y otros recursos de manera eficiente.
+d) Se establezcan las medidas necesarias para evitar, o si esto no fuera posible, reducir cualquier riesgo de contaminación cuando cese la explotación de la actividad o instalación y para que el lugar donde se ubique quede en un estado satisfactorio de acuerdo con la normativa aplicable.
+3. Los órganos competentes, al establecer las condiciones de las autorizaciones ambientales autonómicas y de la licencia de actividad reguladas en esta ley, adoptarán un enfoque integrado, que aplique las soluciones más adecuadas tomando en consideración la totalidad de los fines mencionados en el apartado anterior, previniendo la transferencia de contaminación entre los diferentes ámbitos del medio ambiente.
+
+### Artículo 12
+
+Artículo 12. Deberes de los titulares de instalaciones y actividades.
+Los titulares de las instalaciones y actividades sujetas a autorización ambiental autonómica o a licencia de actividad deberán:
+a) Disponer de las autorizaciones ambientales correspondientes y/o la licencia de actividad, mediante su obtención a través de los procedimientos previstos en esta ley o por transmisión del anterior titular debidamente comunicada, y cumplir las condiciones establecidas en las mismas.
+b) Cumplir las obligaciones de control y suministro de información previstas por esta ley y por la legislación sectorial aplicable, así como las establecidas en las propias autorizaciones ambientales autonómicas o en la licencia de actividad.
+c) Costear los gastos originados por el cumplimiento de las condiciones establecidas en las autorizaciones ambientales autonómicas o en la licencia de actividad, y de las obligaciones de prevención y control de la contaminación que le correspondan de acuerdo con las normas ambientales aplicables.
+d) Comunicar o solicitar autorización, según proceda, al órgano competente para otorgar las autorizaciones ambientales autonómicas o la licencia de actividad para las modificaciones que se propongan realizar en la instalación.
+e) Informar inmediatamente al órgano competente para otorgar las autorizaciones ambientales autonómicas o la licencia de actividad de cualquier incidente o accidente que pueda afectar al medio ambiente.
+f) Prestar la asistencia y colaboración necesarias a quienes realicen las actuaciones de vigilancia, inspección y control.
+g) Cumplir cualesquiera otras obligaciones establecidas en esta ley y demás disposiciones que sean de aplicación.
+Se modifica el apartado d) por el art. 1.6 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica el apartado d) por el art. único.6 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+
+### Artículo 13
+
+Artículo 13. Confidencialidad.
+1. Si el solicitante de una autorización ambiental autonómica o licencia de actividad considera que determinados datos pueden ser confidenciales, y así lo hace constar en la solicitud, se abrirá pieza separada dirigida a determinar qué datos o documentos gozan de esa condición de acuerdo con las disposiciones vigentes.
+2. La declaración de confidencialidad, que ponga fin a la pieza separada, se dictará antes de la apertura del periodo de información pública que en su caso proceda; y previa audiencia del interesado, salvo que sea confirmatoria de la solicitud respecto del alcance de la confidencialidad. Frente a ella cabe interponer directamente el recurso administrativo o contencioso-administrativo que proceda.
+3. Las informaciones que gocen de confidencialidad se excluirán del trámite de información pública, y la violación del deber de secreto por aquellos que tengan acceso a la información confidencial dará lugar a las responsabilidades penales o disciplinarias que resulten procedentes.
+
+### Artículo 14
+
+Artículo 14. Registros ambientales.
+1. Se crea el Registro Ambiental de Actividades de la Región de Murcia, que contendrá los datos relativos a las actividades, sus titulares, las condiciones para su ejercicio y las principales emisiones, según resulte de las autorizaciones y licencias que se concedan y la información disponible o que suministren los titulares.
+2. Los ayuntamientos deberán disponer de información sistematizada en la que harán constar los datos relativos a las actividades, sus titulares y las licencias de actividad que concedan, a los efectos de su remisión al órgano competente de la Comunidad Autónoma para su inclusión en el Registro citado.
+3. Reglamentariamente, se regulará el contenido del Registro así como el procedimiento de intercomunicación de datos entre las distintas administraciones públicas de la Región de Murcia.
+4. El Registro Ambiental de Actividades de la Región de Murcia será accesible al público de acuerdo con la normativa vigente sobre derecho de acceso a la información en materia de medio ambiente.
+
+### Artículo 15
+
+Artículo 15. Coordinación con el régimen aplicable en materia de industria, energía y minas.
+1. El otorgamiento de la autorización ambiental autonómica, su revisión o modificación, precederá a las autorizaciones de industrias o instalaciones industriales sometidas a autorización administrativa previa o a la presentación, en su caso, de declaración responsable o comunicación previa, de conformidad con el artículo 4 de la Ley 21/1992, de 16 de julio, de Industria, y, en particular, las siguientes: las autorizaciones establecidas en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico; en la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos; y en el capítulo IV de la Ley Orgánica 4/2015, de 30 de marzo, sobre Protección de la Seguridad Ciudadana, en lo referente a las instalaciones químicas para la fabricación de explosivos, así como las autorizaciones establecidas en la Ley 22/1973, de 21 de julio de Minas.
+2. (Suprimido).
+Se modifica el apartado 1 y se suprime el 2 por el art. 1.7 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ El apartado 2 ya fue suprimido por el Decreto-ley 5/2020, de 7 de mayo.
+ Se modifica el apartado 1 y se suprime el apartado 2 por el art. único.7 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+
+### Artículo 16
+
+Artículo 16. Control ambiental a través de la licencia urbanística y de primera ocupación.
+(Suprimido).
+Se suprime por el art. 23.2 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+
+## TÍTULO II
+
+Autorizaciones ambientales autonómicas
+
+## CAPÍTULO I
+
+Disposiciones comunes a las autorizaciones ambientales autonómicas
+
+### Artículo 17
+
+Artículo 17. Autorizaciones ambientales autonómicas.
+1. Son autorizaciones con fines ambientales generales cuyo otorgamiento corresponde a la Comunidad Autónoma de la Región de Murcia:
+a) Autorización ambiental integrada.
+b) Autorizaciones ambientales sectoriales.
+2. En las referencias que esta ley hace a la «autorización ambiental autonómica», se entienden comprendidas tanto la autorización ambiental integrada como las autorizaciones ambientales sectoriales.
+Se modifican los apartados 1.b) y 2 por el art. 3.1 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifican los apartados 1.b) y 2 por el art. 3.1 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 18
+
+Artículo 18. Autorizaciones ambientales autonómicas y licencia de actividad.
+(Derogado).
+Se deroga por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 2/2016, de 20 de abril.
+ Se deroga por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 19
+
+Artículo 19. Órganos competentes.
+La Consejería con competencias en materia de medio ambiente es el órgano competente para otorgar la autorización ambiental integrada y las autorizaciones ambientales sectoriales en el ámbito de la Comunidad Autónoma de la Región de Murcia.
+Se modifica por el art. 3.1 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.1 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 20
+
+Artículo 20. Finalidades.
+1. Además de los fines ambientales de las autorizaciones reguladas en esta ley a que se refiere el artículo 11, son finalidades propias de las autorizaciones ambientales integradas:
+a) Establecer un procedimiento que asegure la coordinación de los distintos órganos y administraciones públicas que deben intervenir en la concesión de la autorización ambiental, para agilizar trámites y reducir las cargas administrativas de los particulares.
+b) Integrar en un solo acto de intervención administrativa las autorizaciones ambientales de competencia autonómica exigibles a la instalación o actividad
+c) Integrar en el procedimiento de autorización ambiental el trámite de la evaluación ambiental de proyectos, cuando ésta sea exigible de acuerdo con la legislación aplicable en la materia.
+d) Adoptar las medidas adecuadas para prevenir la contaminación, particularmente mediante la aplicación de las mejores técnicas disponibles a las instalaciones sujetas a autorización ambiental integrada.
+2. La finalidad de las autorizaciones ambientales sectoriales y el ámbito de control de las mismas será el establecido en su normativa sectorial ambiental específica, con independencia de lo establecido en las distintas legislaciones sectoriales y especialmente en la urbanística.
+Se modifica por el art. 23.3 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+ Se modifica el apartado b) por el art. 3.3 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica la letra b) por el art. 3.3 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 21
+
+Artículo 21. Autorización ambiental autonómica y evaluación ambiental de proyectos.
+(Derogado).
+Se deroga por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 2/2016, de 20 de abril.
+ Se deroga por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 22
+
+Artículo 22. Modificación de la instalación o actividad.
+1. Se considerará que se produce una modificación en la instalación cuando, en condiciones normales de funcionamiento, se pretenda introducir un cambio no previsto en la autorización ambiental originalmente otorgada, que afecte a las características, a los procesos productivos, al funcionamiento o a la extensión de la instalación. Las modificaciones se clasifican en sustanciales y no sustanciales de acuerdo con lo previsto en los siguientes puntos.
+2. Las modificaciones de instalaciones sujetas a autorización ambiental integrada se regirán por lo dispuesto en la normativa estatal básica de aplicación.
+3. Las modificaciones de instalaciones sujetas a autorización ambiental sectorial precisarán de autorización del órgano autonómico competente en todo caso.
+4. Se calificarán como no sustanciales las modificaciones de instalaciones sujetas a autorización ambiental sectorial que tengan las siguientes características:
+a) Cuando se trate de instalaciones de tratamiento de residuos:
+i) Aquellas que supongan una modificación de maquinaria o equipos, pero no impliquen un proceso de gestión distinto del autorizado.
+ii) Las que supongan el tratamiento de residuos de características similares a los autorizados, siempre que no impliquen un incremento del 25 % en la capacidad de gestión de residuos peligrosos, del 50 % en la capacidad de gestión de residuos no peligrosos o procesos de gestión distintos de los autorizados.
+b) En las actividades potencialmente contaminadoras de la atmósfera (grupos A y B) que no se encuentren sometidas a autorización ambiental integrada, no se consideran modificaciones sustanciales aquellas que supongan una modificación o reemplazo de maquinaria, equipos o instalaciones por otras de características similares, siempre que no suponga la inclusión de un nuevo foco A o B que suponga un incremento superior al 35% de la emisión másica de cualquiera de los contaminantes atmosféricos que siguen en la autorización o del total de las emisiones atmosféricas producidas.
+Cuando la modificación establecida no modifique o reduzca las emisiones se considerará modificación no sustancial.
+c) En las actividades que generen vertidos tierra-mar, aquellas que no supongan un incremento superior al 25 % del caudal de vertido o del 25 % de la concentración de cualquier sustancia contaminante, y, en todo caso, siempre que no se introduzcan nuevos contaminantes ni se superen los valores límite de emisión establecidos en la autorización original.
+d) En todo caso las modificaciones que no modifiquen o reduzcan las emisiones, vertidos o capacidad de gestión de residuos de las instalaciones citadas en los apartados a), b) y c) anteriores.
+5. Se calificarán como sustanciales las modificaciones de instalaciones sujetas a autorización ambiental sectorial que no cumplan las condiciones establecidas en el punto anterior.
+Se modifica el apartado 4.b), en la redacción dada al art. 23.4 de la Ley 10/2018, de 9 de noviembre, por el art. único.3 de la Ley 6/2020, de 29 de diciembre. Ref. BOE-A-2021-13606
+ Redactado conforme a la corrección de errores públicada en BORM núm. 56, de 9 de marzo de 2021. Ref. BORM-s-2021-90111
+ Se modifica por el art. 1.8 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica por el art. único.8 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se declara que no es inconstitucional, siempre que se interprete en los términos del fundamento jurídico 7, en la redacción dada por la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23, por Sentencia TC 161/2019, de 12 de diciembre. Ref. BOE-A-2020-407
+ Se modifica por el art. 23.4 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+ Se modifica por el art. 3.4 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.4 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+ Se modifica el apartado 4 por la disposición final 2.1 de la Ley 2/2014 ,de 21 de marzo. Ref. BOE-A-2014-3719.
+
+### Artículo 23
+
+Artículo 23. Modificación de oficio de la autorización.
+1. Son causas de modificación de oficio:
+a) Tratándose de autorizaciones ambientales integradas, las establecidas por la legislación básica estatal.
+b) Las autorizaciones ambientales sectoriales podrán modificarse de oficio cuando las circunstancias que motivaron su otorgamiento se hubieran alterado o sobrevinieran otras circunstancias que, de haber existido anteriormente, habrían justificado su denegación o el otorgamiento en términos distintos.
+2. (Suprimido)
+3. Los supuestos de modificación establecidos en este artículo no darán derecho alguno a indemnización para el titular de la instalación.
+4. El procedimiento de modificación de oficio se iniciará mediante una resolución del órgano ambiental competente en la que se especificarán motivadamente los aspectos que se pretenden modificar en la autorización ambiental autonómica.
+Esta resolución se notificará al titular de la autorización ambiental, indicando, en su caso, la documentación que deberá aportar para llevar a cabo la modificación.
+Se suprime el apartado 2 por el art. 62.3 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifican los apartados 1.b) y 2 por el art. 3.1 y 5 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifican los apartados 1.b) y 2 por el art. 3.1 y 5 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 24
+
+Artículo 24. Transmisión de la titularidad de la autorización.
+1. Para la transmisión de la titularidad de la autorización ambiental autonómica, será necesaria comunicación dirigida por el adquirente al órgano competente para el otorgamiento de la autorización ambiental autonómica, en el mes siguiente a la transmisión del negocio o actividad, asumiendo expresamente todas las obligaciones establecidas en la autorización y cuantas otras sean exigibles de conformidad con la legislación estatal y autonómica de aplicación, declarando bajo su responsabilidad que no se han producido modificaciones en la actividad autorizada que requieran nueva autorización, y acreditando el título de transmisión del negocio o actividad y el consentimiento del transmitente en el cambio de titularidad de la autorización ambiental autonómica, salvo que ese consentimiento esté comprendido inequívocamente en el propio título.
+La comunicación podrá realizarla el propio transmitente, para verse liberado de las responsabilidades y obligaciones que le corresponden como titular de la autorización.
+2. La transmisión de la titularidad de la autorización surtirá efectos ante la Administración desde la comunicación completa mencionada en el apartado anterior, quedando subrogado el nuevo titular en los derechos, obligaciones y responsabilidades del titular anterior.
+3. Sin perjuicio de las sanciones que resulten aplicables, si el órgano competente tiene noticia de la transmisión del negocio o actividad sin que medie comunicación, requerirá al adquirente para que acredite el título de transmisión y asuma las obligaciones correspondientes en el plazo de un mes, aplicándose, en caso de ser desatendido el requerimiento, las consecuencias establecidas para las actividades no autorizadas.
+Se deroga el apartado 4 por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que este apartado 4 ya fue derogado por el Decreto-ley 2/2016, de 20 de abril.
+ Se deroga el apartado 4 por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+## CAPÍTULO II
+
+Autorización ambiental integrada
+
+## Sección primera
+
+Sección primera. Ámbito de aplicación y alcance
+
+### Artículo 25
+
+Artículo 25. Instalaciones sometidas a la autorización ambiental integrada.
+1. Se exigirá autorización ambiental integrada para la construcción, montaje, explotación o traslado, así como la modificación sustancial de las instalaciones, en los supuestos establecidos por la legislación básica estatal.
+2. El régimen aplicable a la autorización ambiental integrada será el establecido por la legislación básica del Estado y por las disposiciones contenidas en la presente ley.
+
+### Artículo 26
+
+Artículo 26. Condiciones de la autorización ambiental integrada.
+1. La autorización ambiental integrada aglutina en un solo acto de intervención administrativa todas las autorizaciones ambientales en materia de producción y gestión de residuos, de vertidos a las aguas continentales, incluidos los vertidos al sistema integral de saneamiento, y de vertidos desde tierra al mar, así como las determinaciones de carácter ambiental en materia de contaminación atmosférica, incluidas las referentes a los compuestos orgánicos volátiles.
+2. La autorización ambiental integrada se otorgará sin perjuicio de las autorizaciones o concesiones que deban exigirse para la ocupación o utilización del dominio público, de conformidad con lo establecido en la normativa vigente en materia de aguas y costas y demás normativa que resulte de aplicación.
+3. La autorización ambiental integrada podrá establecer condiciones que resulten precisas para la restauración del espacio afectado una vez producida la cesación de la explotación, en particular mediante la adopción de las medidas necesarias para evitar los riesgos de contaminación.
+4. Mientras la Comunidad Autónoma de la Región de Murcia en el ámbito de sus competencias no desarrolle las normativas sectoriales que afectan a las materias objeto de autorización ambiental integrada en la implantación de instalaciones o actividades, la consejería competente en medio ambiente no exigirá otras autorizaciones o requisitos normativos distintos a los establecidos por la legislación estatal sectorial que en cada caso corresponda y por esta ley.
+Se modifica por el art. 1.9 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica por el art. único.9 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+
+## Sección segunda
+
+Sección segunda. Valores límite de emisión
+
+### Artículo 27
+
+Artículo 27. Determinación de los valores límite.
+1. La determinación por la autorización ambiental integrada de los valores límite deberá tener en cuenta los criterios establecidos en el artículo 7 de la Ley 16/2002, de 1 de julio, de Prevención y Control Integrados de la Contaminación.
+2. Sin perjuicio de lo que establezca la legislación básica estatal, el Consejo de Gobierno, en ejercicio de su potestad reglamentaria y como norma adicional de protección, podrá establecer valores límite para las sustancias contaminantes enumeradas en el Anejo 3 de la Ley 16/2002, de 1 de julio, de Prevención y Control Integrados de la Contaminación, aplicables a las instalaciones o actividades sometidas a autorización ambiental integrada. El expediente de aprobación o modificación del reglamento deberá contener la adecuada justificación técnica.
+3. En los supuestos que reglamentariamente se determinen, se podrán establecer parámetros o medidas técnicas de carácter equivalente que complementen o sustituyan a los valores límite de emisión regulados en este artículo. Esos nuevos parámetros o medidas técnicas que en su caso se establezcan, tendrán como finalidad exclusiva una mejor prevención y control de la contaminación.
+
+### Artículo 28
+
+Artículo 28. Acuerdos voluntarios para la determinación de valores límite.
+1. Para la determinación de valores límite de emisión, la Comunidad Autónoma podrá adoptar los acuerdos voluntarios a que se refiere el artículo 112, siempre que el objeto del acuerdo se limite al establecimiento de valores límite de emisión u otras prescripciones técnicas para aquellas materias, sustancias o técnicas que no tengan valores límite fijados por la normativa vigente.
+2. En aquellos casos en que ya se encuentren fijados por la normativa vigente valores límite u otras prescripciones técnicas, el acuerdo voluntario solamente podrá ser utilizado para el establecimiento de valores, prescripciones o plazos más rigurosos que los establecidos en dicha normativa.
+
+## Sección tercera
+
+Sección tercera. Procedimiento
+
+### Artículo 29
+
+Artículo 29. Alcance del estudio de impacto ambiental.
+(Derogado).
+Se deroga por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 2/2016, de 20 de abril.
+ Se deroga por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 30
+
+Artículo 30. Cédula de compatibilidad urbanística.
+(Derogado).
+Se deroga por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 2/2016, de 20 de abril.
+ Se deroga por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 31
+
+Artículo 31. Solicitud de autorización ambiental integrada.
+1. La solicitud de la autorización ambiental integrada se presentará ante el órgano autonómico competente para otorgarla acompañada de la documentación exigida por la normativa básica estatal.
+2. Cuando el proyecto se someta a evaluación de impacto ambiental simplificada, la solicitud de autorización ambiental integrada se presentará una vez que el órgano ambiental haya finalizado el procedimiento de evaluación de impacto ambiental.
+3. Cuando el proyecto se someta a evaluación de impacto ambiental ordinaria, el órgano autonómico competente remitirá copia del expediente de autorización ambiental integrada al órgano sustantivo para que éste realice la información pública de acuerdo con lo establecido en el artículo siguiente.
+Se modifica por el art. 3.1 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
+ Se modifica por el art. único.1 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
+ Se modifica por el art. 1.10 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica por el art. único.10 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se modifica por el art. 23.5 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+ Se modifica por el art. 3.6 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.6 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+ Se modifica por la disposición final 2.2. de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
+
+### Artículo 32
+
+Artículo 32. Información pública.
+1. El procedimiento de autorización ambiental integrada comprenderá en todo caso un trámite de información pública que permita a cualquier persona física o jurídica examinar el expediente, exceptuándose de este trámite aquellos datos de la solicitud que, de acuerdo con las disposiciones vigentes, gocen de confidencialidad.
+2. Cuando el proyecto esté sometido a evaluación ambiental ordinaria, la información pública se llevará a cabo por el órgano sustantivo competente a efectos de evaluación ambiental, de la forma establecida en la legislación estatal.
+3. Si la actividad está sometida a alguna de las autorizaciones sustantivas a que se refiere el artículo 15, o a la normativa de control de riesgos inherentes a los accidentes graves, el trámite de información pública se practicará por el órgano competente para otorgar la autorización sustantiva o, en su defecto, por el competente en materia de accidentes graves. La información pública se llevará a cabo mediante anuncio en el "Boletín Oficial de la Región de Murcia" por plazo mínimo de treinta días. El trámite será común al previsto, en su caso, en el procedimiento de autorización sustantiva, o en la normativa de control de riesgos inherentes a los accidentes graves.
+4. Cuando el proyecto esté sometido a evaluación de impacto ambiental ordinaria, finalizado el trámite de información pública y de consulta, el órgano sustantivo, en el plazo de veinte días desde su finalización, remitirá el expediente, junto con las alegaciones y observaciones recibidas, al órgano autonómico competente para otorgar la autorización ambiental integrada. A su vez, en el plazo de 30 días, el órgano sustantivo remitirá el informe que dentro de su ámbito competencial deba efectuar sobre las materias que sean de su competencia referidas en el artículo 33 de esta ley.
+En el caso de que el órgano sustantivo sea el propio Ayuntamiento donde se ubica la instalación, este informe se realizará de conformidad con lo dispuesto en el artículo 34 de esta ley.
+5. Tras la realización de las actuaciones reguladas en los apartados anteriores, el órgano autonómico competente para otorgar la autorización ambiental integrada, el órgano sustantivo y el órgano ambiental continuarán los trámites establecidos en la legislación que resulte, respectivamente, de aplicación en materia de autorización ambiental integrada, de autorización sustantiva o de evaluación de impacto ambiental.
+Se modifican los apartados 1, 3 y se añaden los apartados 4 y 5 por el art. 1.11 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Los apartados 4 y 5 ya fueron añadidos por el Decreto-ley 5/2020, de 7 de mayo.
+ Se modifican los apartados 1, 3 y se añaden los apartados 4 y 5 por el art. único.11 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se modifican los apartados 2 y 3 y se derogan el 4 y 5 por el art. 3.7 y la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifican los apartados 2 y 3 y se derogan el 4 y 5 por el art. 3.7 y la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 33
+
+Artículo 33. Informes preceptivos.
+Una vez concluido el período de información pública, el órgano competente solicitará los informes preceptivos, remitiendo copia del expediente, al organismo de cuenca en el caso de vertidos al dominio público hidráulico, de acuerdo con lo dispuesto en la Ley de Prevención y Control Integrados de la Contaminación, a los órganos que deban pronunciarse sobre las diferentes materias de su competencia, y al ayuntamiento en que se ubique la instalación.
+
+### Artículo 34
+
+Artículo 34. Informe del ayuntamiento.
+1. El ayuntamiento en cuyo territorio se ubique la instalación emitirá informe motivado sobre la adecuación de la instalación analizada a todos aquellos aspectos que sean de su competencia, y, en particular, los relativos a residuos urbanos, ruidos, vibraciones, humos, calor, olores, polvo, contaminación lumínica y vertidos de aguas residuales a la red de saneamiento, así como los relativos a incendios, seguridad o sanitarios, y compatibilidad urbanística, si no se hubiese informado antes.
+En relación con los vertidos de aguas residuales industriales a la red de saneamiento, el informe deberá contener, al menos, los extremos que señale la normativa vigente sobre vertidos a la red de saneamiento.
+El informe del ayuntamiento deberá valorar las alegaciones recibidas en relación con los aspectos de su competencia, y la aplicación de las correspondientes ordenanzas locales.
+Al informe se adjuntará, si se tiene constancia, copia de la resolución del procedimiento de autorización excepcional previsto en la legislación urbanística, para la realización de construcciones o instalaciones en suelo no urbanizable o urbanizable sin sectorizar.
+2. El informe del ayuntamiento solo podrá ser negativo cuando la imposición de medidas correctoras u otras condiciones no sea suficiente para evitar riesgos o daños al medio ambiente, y la seguridad y salud de las personas, o para el cumplimiento de las exigencias normativas aplicables a la instalación.
+3. El plazo para emitir el informe será de un mes desde la recepción del expediente por el ayuntamiento. En caso de no emitirse el informe en el plazo señalado, el órgano autonómico competente requerirá al ayuntamiento para que emita con carácter urgente el citado informe, concediéndole un plazo adicional máximo de veinte días naturales. El requerimiento efectuado se comunicará al promotor. Transcurridos tales plazos, continuarán las actuaciones.
+Se modifica el apartado 3 por el art. 1.12 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica el apartado 3 por el art. único.12 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se modifica por el art. 3.8 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.8 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 35
+
+Artículo 35. Instalaciones en suelo no urbanizable o urbanizable sin sectorizar.
+1. Cuando resulte exigible la previa obtención de la autorización excepcional prevista en la legislación urbanística para actividades situadas en suelo no urbanizable o urbanizable sin sectorizar, no se podrá conceder la autorización ambiental integrada sin que se acredite en el procedimiento la obtención de la autorización excepcional prevista en la legislación específica.
+2. A estos efectos, se solicitará, si resulta preciso, informe del órgano autonómico competente de acuerdo con la legislación urbanística, en relación con el estado de la tramitación de la autorización excepcional, con los efectos suspensivos previstos en la legislación reguladora del procedimiento administrativo común.
+3. En caso de no contar con la autorización excepcional mencionada, el órgano competente para otorgar la autorización ambiental integrada dictará resolución motivada poniendo fin al procedimiento y archivará las actuaciones.
+Se modifica el apartado 1 por el art. 23.6 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+
+### Artículo 36
+
+Artículo 36. Declaración de impacto ambiental.
+1. La declaración de impacto ambiental, cuando resulte exigible, precederá a la autorización ambiental integrada, debiendo emitirse dentro del plazo máximo establecido por la legislación estatal.
+2. Las condiciones establecidas en la declaración de impacto ambiental se incorporarán al contenido de la autorización ambiental integrada.
+Se modifica por el art. 3.9 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.9 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 37
+
+Artículo 37. Trámite de audiencia y propuesta de resolución.
+1. Una vez elaborada la propuesta de resolución, se trasladará a los interesados para que, en un plazo no inferior a diez días ni superior a quince, aleguen lo que estimen conveniente y aporten, en su caso, la documentación que consideren procedente.
+2. Concluido el trámite anterior, y tomando en consideración la incidencia ambiental del proyecto en su conjunto, se elaborará la propuesta de resolución.
+
+### Artículo 38
+
+Artículo 38. Plazo para resolver.
+El plazo máximo para resolver y notificar la autorización ambiental integrada es de seis meses, a contar desde la fecha en que la solicitud haya tenido entrada en el registro del órgano competente. Transcurrido el cual, sin que se haya notificado resolución expresa, se entenderá desestimada la solicitud presentada.
+Se modifica por el art. 3.2 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
+ Se modifica por el art. único.2 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
+ Se modifica por el art. 23.7 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+
+### Artículo 39
+
+Artículo 39. Contenido y publicidad de la resolución.
+1. La autorización ambiental integrada tendrá el contenido mínimo establecido por el artículo 22 de la Ley 16/2002, de 1 de julio, de Prevención y Control Integrados de la Contaminación, e incorporará las condiciones que resulten de los informes vinculantes emitidos. Cuando se trate de actividades sujetas a evaluación ambiental de proyectos, integrará las condiciones que son propias de la declaración de impacto ambiental.
+2. Se consignarán separadamente las condiciones relativas a los vertidos al dominio público hidráulico, las que sean de competencia local, y aquéllas que debe vigilar el órgano sustantivo respecto de las actividades sujetas a evaluación ambiental de proyectos.
+La autorización especificará las condiciones que afectan a la fase de instalación o montaje, las aplicables en la fase de explotación o ejercicio, y las medidas necesarias para evitar cualquier riesgo de contaminación cuando cese la explotación.
+3. La resolución mediante la que se otorgue o modifique la autorización ambiental integrada se publicará en el Boletín Oficial de la Región de Murcia, indicando, al menos, los datos relativos al promotor, el tipo de instalación y las características esenciales que la definan, su ubicación exacta, el lugar en el que se encuentre el expediente y la dirección electrónica en la que de forma permanente se podrá acceder al contenido completo de la autorización ambiental integrada.
+La información relativa a las autorizaciones ambientales integradas se pondrá a disposición del público, de acuerdo con lo previsto en la legislación básica estatal.
+4. Cuando la impugnación, en vía administrativa, de la resolución que ponga fin al procedimiento afecte a las condiciones establecidas en los informes vinculantes o que afecten a la competencia municipal, el órgano de la Comunidad Autónoma competente para resolver el recurso dará traslado del mismo a los órganos que los hubiesen emitido, con el fin de que éstos, si lo estiman oportuno, presenten alegaciones en el plazo de quince días. De emitirse en plazo, las citadas alegaciones tendrán, para el órgano que ha de resolver, la fuerza vinculatoria propia de los informes de los que derivan las condiciones impugnadas.
+
+### Artículo 40
+
+Artículo 40. Comunicación previa al inicio de la explotación.
+1. En el caso de instalaciones nuevas o con modificación sustancial, una vez obtenida la autorización ambiental integrada y concluida la instalación o montaje, y antes de iniciar la explotación, el titular de la instalación deberá comunicar la fecha prevista para el inicio de la fase de explotación al órgano autonómico competente, el cual dará traslado al ayuntamiento correspondiente.
+2. La comunicación deberá ir acompañada de:
+a) Certificación del técnico director de la instalación, debidamente identificado, colegiado, en su caso, y habilitado profesionalmente, que tenga acreditada la suscripción de una póliza de seguro de responsabilidad civil por daños causados en el ejercicio de su profesión, en la cuantía que se fije reglamentariamente, visado por el correspondiente colegio profesional cuando sea legalmente exigible, acreditativa de que la instalación o montaje se ha llevado a cabo conforme al proyecto presentado y, en su caso, los anexos correspondientes a las modificaciones no sustanciales producidas respecto de la instalación proyectada, o aquellas modificaciones derivadas de condiciones impuestas en la autorización, que se acompañarán a la certificación.
+b) Declaración responsable del titular de la instalación, de cumplimiento de las condiciones impuestas por la autorización ambiental integrada, incluyendo, en su caso, las relativas a las instalaciones de pretratamiento o depuración y demás medidas relativas a los vertidos.
+3. En el plazo de dos meses desde inicio de actividad, se presentará ante el órgano autonómico competente, que dará traslado al ayuntamiento correspondiente, certificado realizado por Entidad de Control Ambiental que acreditará el cumplimiento de las condiciones ambientales impuestas por la autorización ambiental integrada. Se acompañará, asimismo, de los informes, pruebas, ensayos derivados de la normativa sectorial correspondiente.
+En el caso de que se precisen ensayos posteriores o mayor experiencia de funcionamiento para acreditar que la instalación se desarrolla con las debidas garantías de respeto al medio ambiente, la seguridad y salud de las personas, se podrá exigir al titular de la actividad que, tras un plazo mayor de funcionamiento, presente un informe de Entidad de Control Ambiental u otras justificaciones relativas a los ensayos y mediciones practicados.
+4. Se podrá iniciar la explotación tan pronto se hayan realizado la comunicación de manera completa, salvo que la propia autorización ambiental integrada establezca un plazo entre la comunicación y el inicio de la explotación, que no podrá exceder de un mes, para el caso de que alguna de las condiciones de funcionamiento exija comprobaciones adicionales que hayan de llevarse a cabo necesariamente antes del inicio de la explotación.
+La previsión anterior se entiende sin perjuicio de las comprobaciones o controles previos regulados por la normativa industrial o sectorial que resulte de aplicación.
+5. La comunicación prevista en este artículo se regirán por lo establecido en el artículo 69 de la Ley 39/2015, de 1 de octubre.
+6. Una vez iniciada la actividad, tanto la consejería competente en materia de medio ambiente como el ayuntamiento, cada uno en las materias de su respectiva competencia, deberá realizar una visita de inspección, en el plazo de un año desde el inicio de la actividad, de acuerdo con las prescripciones establecidas en el capítulo III del Reglamento de Emisiones Industriales y de desarrollo de la Ley 16/2002, de 1 de julio, de Prevención y Control Integrado de la Contaminación, aprobado por el Real Decreto 815/2013, de 18 de octubre
+Si la comprobación realizada pone de manifiesto el incumplimiento grave de las condiciones establecidas por la autorización ambiental integrada, la licencia de actividad o la normativa ambiental, y sin perjuicio de la sanción procedente, se ordenará el restablecimiento de la forma establecida en esta ley.
+7. Las actuaciones inspectoras y de comprobación de la consejería competente en materia de medio ambiente y del ayuntamiento se entienden sin perjuicio de las posibles comprobaciones y de las actuaciones de seguimiento y vigilancia del cumplimiento de la declaración de impacto ambiental por los órganos sustantivos por razón de la materia; y de la comprobación que corresponde a la Administración General del estado respecto de las características y medidas correctoras relativas al vertido al dominio público hidráulico.
+8. La comunicación previa de inicio de la explotación no es exigible para las instalaciones existentes, a las que el órgano competente exigirá durante la tramitación del procedimiento los documentos y justificaciones a que se refiere este artículo, de acuerdo con lo establecido para la legalización de actividades.
+Se modifica por el art. 62.4 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifica por el art. 3.10 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.10 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+## Sección cuarta
+
+Sección cuarta. Duración y renovación de la autorización ambiental integrada
+
+### Artículo 41
+
+Artículo 41. Duración de la autorización ambiental integrada.
+La autorización ambiental integrada, con todas sus condiciones ambientales, se otorgará por un plazo máximo de ocho años, salvo que, dadas las condiciones de la instalación y a juicio del órgano que hubiese otorgado la autorización, se establezca expresamente en la resolución un plazo inferior, pudiendo ser renovada y, en su caso, actualizada, por periodos sucesivos.
+
+### Artículos 41 a 44
+
+Artículos 41 a 44.
+(Derogados).
+Se derogan por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 2/2016, de 20 de abril.
+ Se derogan por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 42
+
+Artículo 42. Plazos para la renovación de la autorización ambiental integrada.
+1. El titular de la autorización ambiental integrada solicitará la renovación con una antelación mínima de ocho meses antes del vencimiento de la autorización ambiental integrada. La solicitud no podrá presentarse con antelación mayor a catorce meses.
+2. La autorización ambiental integrada debe indicar expresamente su plazo de vigencia, las fechas ciertas de antelación máxima y mínima para solicitar la renovación, y los efectos de la falta de renovación.
+3. El plazo máximo para dictar y notificar la resolución expresa sobre la renovación será de ocho meses.
+
+### Artículo 43
+
+Artículo 43. Documentación y tramitación de la renovación de autorización ambiental integrada.
+1. En la solicitud de renovación habrá que aportar, al menos, la documentación relativa a hechos, situaciones y demás circunstancias y características técnicas de la instalación, del proceso productivo y del lugar del emplazamiento, que no hubiera sido ya aportada a la autoridad competente con motivo de la solicitud de autorización original o durante el periodo de validez de la misma.
+2. A la solicitud de renovación se acompañará un informe acreditativo de la adecuación de la instalación o actividad a todos los condicionamientos ambientales vigentes en el momento de solicitarse la renovación, que será emitido por una Entidad de Control Ambiental. Este informe no será exigible en las solicitudes de renovación de aquellas actividades que apliquen sistemas de gestión ambiental certificados externamente mediante EMAS.
+El informe favorable de la Entidad de Control Ambiental o la aplicación de los citados sistemas de gestión ambiental permitirán entender que la instalación o actividad se adecua a los condicionamientos ambientales vigentes.
+3. En la instrucción del procedimiento de renovación de la autorización ambiental integrada se podrá prescindir de la consulta vecinal y de aquellos trámites que no se consideren necesarios para la adecuada resolución, practicándose en todo caso los trámites exigidos para la renovación por la legislación básica estatal.
+4. La resolución que acuerde la renovación de la autorización ambiental integrada establecerá el plazo de prórroga de la misma, sin que pueda exceder de ocho años, e indicará expresamente las fechas ciertas de antelación máxima y mínima para la próxima solicitud de renovación.
+5. La resolución podrá modificar, de forma motivada, los valores límite de emisión y los demás requisitos específicos de la autorización, así como añadir aquellos que resulten necesarios para la adecuación de la instalación a la normativa ambiental vigente y a los principios informadores de la autorización ambiental integrada. En este caso, la modificación no generará derecho alguno a indemnización para el titular de la actividad.
+
+### Artículo 44
+
+Artículo 44. Caducidad de la autorización ambiental integrada.
+1. Vencida la autorización sin haberse solicitado su renovación, se requerirá al interesado para que, salvo cese de actividad, la solicite en el plazo máximo de dos meses, transcurridos los cuales sin haberla solicitado se producirá automáticamente la caducidad de la autorización.
+2. Se admitirán las solicitudes de renovación posteriores al vencimiento de la autorización, siempre que no haya transcurrido el plazo de dos meses desde el requerimiento, sin perjuicio de la sanción que corresponda por el retraso en la solicitud de renovación.
+3. En el caso de que la resolución expresa sea favorable a la renovación, aunque recaiga con posterioridad al vencimiento, la autorización se entenderá prorrogada por el tiempo que medió hasta la obtención de la renovación. En los supuestos de caducidad de la autorización o de resolución expresa desestimando la renovación, se aplicarán las consecuencias sancionadoras y de restablecimiento que resulten procedentes.
+
+## CAPÍTULO III
+
+Autorizaciones ambientales sectoriales
+Se modifica por el art. 3.11 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.11 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+
+## Sección primera
+
+Sección primera. Ámbito de aplicación y alcance
+(Suprimida).
+Se suprime por el art. 3.11 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at
+ Téngase en cuenta que esta sección ya había sido suprimida por el Decreto-ley 2/2016, de 20 de abril
+ Se suprime por el art. 3.11 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+
+### Artículo 45
+
+Artículo 45. Remisión a la normativa estatal.
+1. Son autorizaciones ambientales sectoriales las exigidas por la normativa estatal, y comprenden: las relativas a la gestión de residuos, reguladas por la legislación de residuos; las de actividades potencialmente contaminadoras de la atmósfera, reguladas por la legislación de calidad del aire y protección de la atmósfera; y las de vertidos al mar, reguladas por la legislación de costas.
+2. Mientras la Comunidad Autónoma de la Región de Murcia en el ámbito de sus competencias no desarrolle estas normativas sectoriales en la implantación de instalaciones o actividades, la consejería con competencias en medio ambiente no exigirá otras autorizaciones o requisitos normativos distintos a los establecidos por la legislación estatal sectorial que en cada caso corresponda o en esta ley.
+3. Estas autorizaciones tienen una finalidad exclusivamente ambiental, por lo que su tramitación se entenderá circunscrita exclusivamente al ámbito de la normativa sectorial ambiental a que se refieran y se concederán sin perjuicio de otras normativas y autorizaciones.
+Se modifica el apartado 2 por el art. 1.13 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica el apartado 2 por el art. único.13 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se modifica el apartado 2 y se añade el 3 por el art. 23.8 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+ Se modifica por el art. 3.11 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.11 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+ Se modifica el apartado 1 por la disposición final 2.3 de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
+
+### Artículo 46
+
+Artículo 46. Coordinación de actuaciones y trámites ambientales.
+1. Cuando sea exigible más de una autorización ambiental sectorial, éstas deberán solicitarse conjuntamente y serán objeto de una sola resolución, que será desestimatoria si procediera denegar alguna de ellas.
+2. A las solicitudes de autorización ambiental sectorial se acompañará:
+a) La documentación necesaria de acuerdo con la normativa estatal reguladora de la autorización. Ésta se acompañará de la documentación que al efecto se establezca por Orden del consejero competente en materia de medio ambiente.
+b) La comunicación de actividad potencialmente contaminadora de la atmósfera en el caso de estar sujeto a ella (grupo C del anexo IV de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera), o justificación de haber realizado la misma ante el órgano competente de la Comunidad Autónoma.
+c) Comunicación previa al inicio de la actividad de producción y gestión de residuos, si resulta exigible, o justificación de haber realizado dicha comunicación previa ante el órgano competente de la Comunidad Autónoma.
+d) Informes a que se refiere el artículo 3 del Real Decreto 9/2005, de 14 de enero, por el que se establece la relación de actividades potencialmente contaminantes del suelo y los criterios y estándares para la declaración de suelos contaminados, en el supuesto de actividades incluidas en su ámbito de aplicación.
+3. Las solicitudes se presentarán ante el órgano sustantivo a efectos de evaluación de impacto ambiental, junto con la solicitud de inicio de evaluación ambiental ordinaria o simplificada, el cual la remitirá al órgano ambiental cuando proceda según la legislación estatal de evaluación ambiental. Si el proyecto no está sujeto a evaluación de impacto ambiental de competencia autonómica, las solicitudes se presentarán ante el órgano competente para concederlas.
+4. El plazo máximo para resolver y notificar las autorizaciones ambientales sectoriales será de tres meses, a contar desde la fecha en que haya tenido entrada en el registro del órgano competente. Transcurrido dicho plazo sin que se haya notificado la resolución expresa, se entenderá desestimada la solicitud.
+5. No se concederán las autorizaciones ambientales sectoriales sin el previo informe de impacto ambiental o declaración de impacto ambiental, cuando resulten exigibles.
+Se modifican los apartados 2.a) y 4 por el art. 23.9 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+ Se modifica por el art. 3.11 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.11 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 47
+
+Artículo 47. Procedimiento de autorización ambiental sectorial.
+1. El procedimiento de autorización de las instalaciones sometidas a autorización ambiental sectorial se llevará a cabo según lo dispuesto en la normativa sectorial de aplicación. Las modificaciones de dichas instalaciones requerirán autorización, cuyo procedimiento se atendrá a lo dispuesto en los puntos siguientes.
+2. Cuando se trate de modificaciones sustanciales se seguirá el mismo procedimiento de autorización que el previsto para una instalación de nueva planta y no podrán llevarse a cabo en tanto no sea otorgada una nueva autorización ambiental sectorial. La nueva autorización ambiental sectorial que se conceda sustituirá a la anterior, refundiendo las condiciones impuestas originariamente para el ejercicio de la actividad y aquellas que se impongan como consecuencia de la modificación sustancial de la instalación. Dicha autorización no podrá otorgarse con anterioridad a la finalización, en caso de ser necesario, del procedimiento de evaluación ambiental.
+3. Cuando se trate de modificaciones no sustanciales, el titular de la instalación deberá comunicarlo al órgano competente presentando la documentación justificativa de las razones por las que estima que la modificación es no sustancial, indicando razonadamente por qué se considera como tal, con el desglose pormenorizado de los aspectos y criterios establecidos en el apartado 4 del artículo 22 y en el artículo 84 de la presente ley.
+Para la determinación del carácter no sustancial de la modificación deberán examinarse conjuntamente todas las modificaciones no sustanciales previas junto con la que se solicita.
+El titular podrá llevar a cabo la modificación no sustancial siempre que el órgano competente para otorgar la autorización ambiental sectorial no manifieste lo contrario en el plazo de un mes, sin perjuicio de las autorizaciones o concesiones que deban exigirse para su ejecución en base a la normativa que resulte de aplicación.
+No obstante, si la modificación se encuentra en los supuestos de evaluación de impacto ambiental según lo dispuesto por la normativa básica estatal aplicable o por lo dispuesto en esta ley, no podrá llevarse a cabo con anterioridad a la finalización del procedimiento de evaluación ambiental.
+En caso de que sea necesaria una modificación de la autorización ambiental sectorial, como consecuencia de la modificación no sustancial de la instalación, el órgano competente emitirá resolución incorporando las modificaciones a la autorización vigente.
+4. En el caso de instalaciones nuevas o con modificación sustancial, una vez obtenida la autorización ambiental sectorial y concluida la instalación o montaje, y antes de iniciar la explotación, el titular de la instalación deberá comunicar la fecha prevista para el inicio de la fase de explotación al órgano autonómico competente. Asimismo, será de aplicación para el inicio de la explotación de las instalaciones sometidas a autorización ambiental sectorial, lo previsto en los apartados 2, 3, 4, 5, 7 y 8 del artículo 40 de esta Ley para las instalaciones sujetas a autorización ambiental integrada.
+5. Las autorizaciones ambientales sectoriales previstas en este artículo se concederán por un plazo máximo de ocho años, pasado el cual se renovarán por períodos sucesivos equivalentes previa comunicación al órgano competente. Esta comunicación previa deberá ir acompañada de un certificado realizado por Entidad Colaboradora debidamente reconocida, que acredite el cumplimiento de las condiciones ambientales impuestas por la autorización ambiental sectorial a renovar, tanto por la instalación originalmente autorizada como por las modificaciones no sustanciales comunicadas llevadas a cabo. Todo ello sin perjuicio de la actuación inspectora que pueda llevar a cabo la propia administración y de la posibilidad de modificación de oficio a que se refiere el artículo 23 de esta Ley. Se acompañará, asimismo, de los informes, pruebas y ensayos derivados de la normativa sectorial correspondiente.
+Se modifica por el art. 62.5 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se añade por el art. 1.14 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Este artículo ya fue añadido por el Decreto-ley 5/2020, de 7 de mayo.
+ Se añade por el art. único.14 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+
+## Sección segunda
+
+Sección segunda. Procedimiento
+(Suprimida).
+Se suprime por el art. 3.11 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at
+ Téngase en cuenta que esta sección ya había sido suprimida por el Decreto-ley 2/2016, de 20 de abril
+ Se suprime por el art. 3.11 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+
+### Artículo 47
+
+Artículo 47. Alcance del estudio de impacto ambiental.
+Antes de solicitar la autorización ambiental única de proyectos que deban someterse a evaluación ambiental, el órgano ambiental correspondiente deberá pronunciarse sobre la amplitud y nivel de detalle del estudio de impacto ambiental, de conformidad con lo establecido en la legislación básica estatal y en esta ley.
+
+### Artículos 47 a 54
+
+Artículos 47 a 54.
+(Derogados).
+Se derogan por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 2/2016, de 20 de abril.
+ Se derogan por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 48
+
+Artículo 48. Cédula de compatibilidad urbanística.
+Con anterioridad a la solicitud de la autorización ambiental única, el promotor deberá obtener del ayuntamiento en cuyo territorio se pretenda ubicar la cédula de compatibilidad urbanística. La cédula debe acompañar necesariamente a la solicitud de autorización ambiental única. Es de aplicación a la cédula de compatibilidad urbanística todo lo establecido en el artículo 30.
+
+### Artículo 49
+
+Artículo 49. Solicitud de autorización ambiental única.
+1. La solicitud de la autorización ambiental única deberá dirigirse al órgano competente, acompañándose de la documentación siguiente:
+a) Proyecto técnico de la instalación, suscrito por técnico competente.
+b) Cédula de compatibilidad urbanística, emitida por el ayuntamiento en cuyo territorio se ubique la instalación.
+c) Un ejemplar del estudio de impacto ambiental o, si este no resulta exigible, una memoria ambiental que incorpore una descripción de la actividad y analice su incidencia en el medio ambiente y la seguridad y salud de las personas, así como las medidas correctoras y preventivas, en su caso, y el programa de vigilancia ambiental que se proponga, debiendo justificar expresamente el cumplimiento de la normativa ambiental vigente. El documento ambiental, que sirve al órgano ambiental para pronunciarse sobre el sometimiento a evaluación ambiental caso por caso, puede, si es completo, hacer las veces de memoria ambiental.
+d) Documentación exigida por la normativa aplicable para la obtención de la licencia de actividad, incluida la relativa a los vertidos de aguas residuales industriales a la red de saneamiento.
+e) Documentación relativa a aquellas autorizaciones y pronunciamientos que en cada caso se integren en la autorización ambiental única.
+f) Las informaciones que la normativa de protección del medio ambiente frente al ruido exige a los proyectos de actividades.
+g) En el supuesto de actividades incluidas en el ámbito de aplicación del Real Decreto 9/2005, de 14 de enero, por el que se establece la relación de actividades potencialmente contaminantes del suelo y los criterios y estándares para la declaración de suelos contaminados, los informes a que se refiere el artículo 3 del citado Real Decreto.
+2. La documentación presentada deberá estar organizada de manera que resulte fácilmente separable la relativa a las competencias locales y la que se refiera a cada una de las autorizaciones que en cada caso se integren en la autorización ambiental única.
+Se modifica por la disposición final 2.4 de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
+
+### Artículo 50
+
+Artículo 50. Tramitación en actividades sujetas a evaluación ambiental de proyectos.
+Si el proyecto está sujeto a evaluación ambiental, se tramitará de la siguiente manera:
+A. Actuaciones a cargo del órgano sustantivo a efectos de evaluación ambiental de proyectos.
+1. El promotor del proyecto presentará la solicitud de autorización ambiental única, junto con la solicitud de autorización sustantiva por razón de la materia que en su caso proceda, ante el órgano sustantivo a efectos de evaluación ambiental de proyectos.
+2. El órgano sustantivo requerirá del ayuntamiento correspondiente que se dirija a los vecinos y vecinas inmediatos al emplazamiento propuesto, comunicándoles la solicitud de autorización ambiental única y la sede del órgano sustantivo en que se encuentre el expediente de autorización, para que puedan consultarlo y alegar lo que estimen oportuno en el plazo de veinte días. Una vez practicadas las comunicaciones a los vecinos y vecinas, el ayuntamiento remitirá justificación al órgano sustantivo, para su incorporación al expediente.
+3. La información pública se llevará a cabo por el órgano sustantivo competente, dentro del procedimiento aplicable para la autorización o aprobación del proyecto al que corresponda, y conjuntamente con éste, de la forma establecida en el artículo 93.
+B. Actuaciones a cargo del órgano competente para otorgar la autorización ambiental.
+1. Cuando el órgano sustantivo a efectos de evaluación ambiental de proyectos coincida con el órgano competente para otorgar la autorización ambiental única, éste realizará las actuaciones atribuidas al órgano sustantivo en este artículo.
+2. Recibido el expediente del órgano sustantivo o concluidos los trámites que le correspondan como órgano sustantivo, el órgano competente para conceder la autorización ambiental única remitirá copia del expediente a los órganos que deban pronunciarse sobre las diferentes materias y recabará el informe del ayuntamiento en relación con los aspectos de su competencia, siendo de aplicación íntegramente todo lo establecido en relación con este informe en el artículo 34.
+3. Son también de aplicación en todos sus apartados los artículos 35 y 36.
+
+### Artículo 51
+
+Artículo 51. Tramitación en actividades que no estén sujetas a evaluación ambiental de proyectos.
+Si el proyecto no está sujeto a evaluación ambiental, se procederá de la siguiente manera:
+A. Actuaciones a cargo del órgano competente para otorgar la autorización ambiental única.
+a) Recibida por el órgano competente la solicitud de autorización ambiental única, podrá requerir al solicitante para que subsane las deficiencias o acompañe los documentos preceptivos, con relación a la documentación que afecte a las autorizaciones de su competencia integradas en la autorización ambiental única, y remitirá la solicitud y documentación que la acompañase al ayuntamiento en que se ubique la actividad.
+b) Recabará los informes o llevará a cabo las actuaciones que resulten preceptivas, de acuerdo con las normas reguladoras de las autorizaciones que se integran en la autorización ambiental única.
+c) Completados los anteriores trámites y una vez recibido el informe del ayuntamiento, o transcurridos los plazos para su emisión, se podrá dictar la resolución que proceda. Si se trata de instalaciones en suelo no urbanizable o urbanizable sin sectorizar, aplicará en todos sus apartados lo previsto en el artículo 35.
+B. Actuaciones que corresponden al ayuntamiento.
+El ayuntamiento, cuando reciba del órgano autonómico competente la solicitud y documentación que la acompaña, llevará a cabo las siguientes actuaciones:
+a) Requerirá en su caso al solicitante para que subsane las faltas o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, para lo cual el ayuntamiento comunicará este hecho al órgano competente para otorgar la autorización ambiental única, que dictará resolución de desistimiento.
+b) Publicará edicto en el tablón de anuncios del ayuntamiento, e informará a los vecinos y vecinas inmediatos al emplazamiento propuesto sobre la solicitud de autorización ambiental única y el lugar en que se encuentre la documentación, para que puedan consultarla y presentar ante el propio ayuntamiento las alegaciones que estimen oportunas por plazo de veinte días.
+Una vez practicadas, el ayuntamiento remitirá al órgano competente para otorgar la autorización ambiental única, la documentación relativa a la información vecinal y edictal y de las alegaciones recibidas, acompañada de una certificación acreditativa de las actuaciones practicadas con la forma establecida por la legislación del régimen local.
+c) Concluido el trámite anterior, el ayuntamiento emitirá el informe relativo a la actividad en todos los aspectos de su competencia, y lo remitirá al órgano competente para conceder la autorización ambiental única. En relación con este informe, será de aplicación todo lo establecido en los apartados 1 a 3 del artículo 34.
+El plazo para emitir el informe del Ayuntamiento, previas las actuaciones de subsanación e información vecinal y edictal, será de tres meses, a contar desde la recepción del expediente por el ayuntamiento o desde que se complete por el interesado. En caso de no emitirse el informe en el plazo señalado, el órgano competente para otorgar la autorización ambiental única requerirá al ayuntamiento para que lo emita con carácter urgente, concediéndole un plazo adicional máximo de un mes.
+Transcurridos tales plazos, continuarán las actuaciones, si bien el informe recibido fuera de los plazos señalados y antes del otorgamiento de la autorización ambiental única deberá ser tenido en consideración por el órgano competente de la Comunidad Autónoma. Si consta en el expediente la práctica de la información vecinal y edictal, podrá otorgarse la autorización ambiental aunque finalmente el ayuntamiento no hubiese emitido el informe, contemplando en la misma, en sustitución del ayuntamiento, las condiciones relativas a la competencia local, que se establecerán de conformidad con la normativa que resulte aplicable.
+
+### Artículo 52
+
+Artículo 52. Plazo para resolver.
+El plazo máximo para resolver y notificar la autorización ambiental única es de ocho meses, a contar desde la fecha en que la solicitud haya tenido entrada en el registro del órgano competente. Transcurrido dicho plazo sin que se haya notificado la resolución expresa, la solicitud se entenderá desestimada.
+
+### Artículo 53
+
+Artículo 53. Contenido de la resolución.
+1. La autorización ambiental única establecerá las condiciones en que debe llevarse a cabo la actividad o instalación, con vistas a la protección del medio ambiente, e incorporará en su caso la declaración de impacto ambiental.
+2. En las condiciones de la autorización figurarán separadamente las relativas a la competencia local, las que corresponda vigilar al órgano sustantivo si se trata de proyectos sujetos a evaluación ambiental, y aquellas que son propias de las autorizaciones que se integran. La autorización especificará las condiciones que afectan a la instalación o montaje, las aplicables en la fase de explotación o ejercicio, y las medidas necesarias para evitar cualquier riesgo de contaminación cuando cese la explotación.
+3. La información relativa a las autorizaciones ambientales únicas se pondrá a disposición del público, de acuerdo con lo previsto en la legislación básica estatal.
+4. Cuando la impugnación, en vía administrativa, de la resolución que ponga fin al procedimiento afecte a las condiciones de competencia local, el órgano de la Comunidad Autónoma competente para resolver el recurso dará traslado del mismo al órgano que lo hubiese emitido, con el fin de que éste, si lo estima oportuno, presente alegaciones en el plazo de quince días. De emitirse en plazo, el órgano competente para resolver el recurso sólo podrá disentir de las alegaciones formuladas por razones de legalidad debidamente motivadas.
+
+### Artículo 54
+
+Artículo 54. Comprobación y puesta en marcha.
+Una vez otorgada la autorización ambiental única, las instalaciones nuevas o con modificación sustancial, antes de iniciar su explotación, llevarán a cabo las actuaciones previstas en el artículo 40, cuyas determinaciones serán íntegramente de aplicación para las instalaciones sujetas a autorización ambiental única.
+
+## Sección tercera
+
+Sección tercera. Duración y renovación de la autorización ambiental única
+(Suprimida).
+Se suprime por el art. 3.11 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at
+ Téngase en cuenta que esta sección ya había sido suprimida por el Decreto-ley 2/2016, de 20 de abril
+ Se suprime por el art. 3.11 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+
+### Artículo 55
+
+Artículo 55. Duración de la autorización ambiental única.
+La autorización ambiental única, con todas sus condiciones ambientales, se otorgará por un plazo máximo de ocho años, salvo que, dadas las condiciones de la instalación y a juicio del órgano que hubiese otorgado la autorización, se establezca expresamente en la resolución un plazo inferior, pudiendo ser renovada y, en su caso, actualizada, por periodos sucesivos.
+
+### Artículos 55 a 58
+
+Artículos 55 a 58.
+(Derogados).
+Se derogan por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 2/2016, de 20 de abril.
+ Se derogan por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 56
+
+Artículo 56. Plazos para la renovación de la autorización ambiental única.
+1. El titular de la autorización ambiental única solicitará la renovación con una antelación mínima de seis meses antes del vencimiento de la autorización. La solicitud no podrá presentarse con antelación mayor de doce meses.
+2. La autorización ambiental única debe indicar expresamente su plazo de vigencia, las fechas ciertas de antelación máxima y mínima para solicitar la renovación, y los efectos de la falta de renovación.
+3. El plazo máximo para dictar y notificar la resolución expresa sobre la renovación será de seis meses.
+
+### Artículo 57
+
+Artículo 57. Documentación y tramitación de la renovación de autorización ambiental única.
+1. En la solicitud de renovación habrá que aportar, al menos, la documentación relativa a hechos, situaciones y demás circunstancias y características técnicas de la instalación, del proceso productivo y del lugar del emplazamiento, que no hubiera sido ya aportada a la autoridad competente con motivo de la solicitud de autorización original o durante el periodo de validez de la misma.
+2. A la solicitud de renovación se acompañará un informe acreditativo de la adecuación de la instalación o actividad a todos los condicionamientos ambientales vigentes en el momento de solicitarse la renovación, que será emitido por una Entidad de Control Ambiental. Este informe no será exigible en las solicitudes de renovación de aquellas actividades que apliquen sistemas de gestión ambiental certificados externamente mediante EMAS.
+El informe favorable de la Entidad de Control Ambiental o la aplicación de los citados sistemas de gestión ambiental permitirán entender que la instalación o actividad se adecua a los condicionamientos ambientales vigentes.
+3. En la instrucción del procedimiento de renovación de la autorización ambiental única se podrá prescindir de la información pública y de consulta vecinal, y de aquellos trámites que no se consideren necesarios para la adecuada resolución.
+El informe del ayuntamiento se recabará si existen hechos, situaciones o circunstancias nuevas que afecten al ámbito de las competencias locales.
+4. La resolución que acuerde la renovación de la autorización ambiental única establecerá el plazo de prórroga de la misma, sin que pueda exceder de ocho años, e indicará expresamente las fechas ciertas de antelación máxima y mínima para la próxima solicitud de renovación.
+5. La resolución podrá modificar, de forma motivada, los valores límite de emisión y los demás requisitos específicos de la autorización, así como añadir aquellos que resulten necesarios para la adecuación de la instalación a la normativa ambiental. En este caso, la modificación no generará derecho alguno a indemnización para el titular de la actividad.
+
+### Artículo 58
+
+Artículo 58. Caducidad de la autorización ambiental única.
+1. Vencida la autorización sin haberse solicitado su renovación, se requerirá al interesado para que, salvo cese de actividad, la solicite en el plazo máximo de dos meses, transcurridos los cuales sin haberla solicitado se producirá automáticamente la caducidad de la autorización.
+2. Se admitirán las solicitudes de renovación posteriores al vencimiento de la autorización, siempre que no haya transcurrido el plazo de dos meses desde el requerimiento, sin perjuicio de la sanción que corresponda por el retraso en la solicitud de renovación.
+3. En el caso de que la resolución expresa sea favorable a la renovación, aunque recaiga con posterioridad al vencimiento, la autorización se entenderá prorrogada por el tiempo que medió hasta la obtención de la renovación. En los supuestos de caducidad de la autorización o de resolución expresa desestimando la renovación, se aplicarán las consecuencias sancionadoras y de restablecimiento que resulten procedentes.
+
+## TÍTULO III
+
+Régimen de la licencia y la declaración responsable de actividades
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+## CAPÍTULO I
+
+Disposiciones generales
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+
+### Artículo 59
+
+Artículo 59. Control preventivo de las actividades.
+1. Con carácter general, el ejercicio de actividades no se someterá a la obtención de licencia de actividad.
+2. No obstante, quedan sometidas a licencia de actividad las instalaciones o infraestructuras físicas para el ejercicio de las actividades que aparecen relacionadas en el Anexo I, por ser susceptibles de generar daños sobre el medio ambiente y el entorno urbano, la seguridad o la salud públicas y el patrimonio histórico.
+3. Por razones de orden público, seguridad pública, salud pública y protección del medio ambiente en el lugar donde se realiza la actividad, el ejercicio de actividades no sometidas a licencia deberá ser objeto de una declaración responsable ante el órgano municipal competente.
+En estos casos el promotor voluntariamente podrá solicitar del Ayuntamiento la comprobación y certificado del cumplimiento de los requisitos exigibles para el ejercicio de la actividad.
+4. A los efectos de esta ley, se entiende por actividades las realizadas en instalaciones ganaderas, mineras, industriales, comerciales o de servicios, que se ejerzan con carácter empresarial, ya sean de titularidad pública o privada.
+Se considera que una actividad se ejerce con carácter empresarial, cuando suponga la ordenación por cuenta propia de medios de producción y de recursos humanos o de uno de ambos, con la finalidad de intervenir en la producción o distribución de bienes o servicios, tenga o no carácter lucrativo.
+Quedan excluidas las actividades necesarias para la explotación agrícola y agroforestal pero no las industrias de transformación agroalimentaria.
+De las actividades ganaderas, quedan excluidas la actividad apícola y las instalaciones de carácter doméstico que se enumeran en el anexo III.
+En todo caso, se consideran actividades las sometidas a licencia de actividad que se enumeran en el anexo I.
+Cuando esta ley no establezca otra cosa, se consideran actividades las incluidas en la sección 1.ª del anexo I del Real Decreto 1175/1990, de 28 de septiembre, por el que se aprueban las tarifas y la instrucción del Impuesto sobre Actividades Económicas.
+5. La licencia de actividad o la declaración responsable reguladas en esta ley no eximen de la obtención de otras autorizaciones o de la formalización de comunicaciones o declaraciones que resulten exigibles para el ejercicio de determinadas actividades, en particular en materia urbanística, industrial, de seguridad, turística, sanitaria, ganadera, educativa, de patrimonio cultural y comercial.
+6. Los espectáculos públicos y actividades recreativas se regirán por su legislación específica y, en su defecto, por lo previsto en esta ley.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 60
+
+Artículo 60. Normativa aplicable.
+La licencia y la declaración responsable de actividad se regirán por la presente ley y las disposiciones que le resulten de aplicación contenidas en la legislación de régimen local y en la legislación urbanística. Los ayuntamientos podrán desarrollar este régimen normativo mediante las correspondientes ordenanzas municipales.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 61
+
+Artículo 61. Órganos competentes.
+Los órganos municipales competentes para el otorgamiento de la licencia de actividad y el control de las actividades sometidas a licencia y declaración responsable se determinarán conforme a lo establecido en la legislación aplicable en materia de régimen local.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 62
+
+Artículo 62. Control de los vertidos industriales a la red de saneamiento.
+1. El control de los vertidos industriales a la red de saneamiento se realiza a través de la autorización ambiental integrada y de la licencia de actividad, en las actividades sujetas a ellas.
+2. Los vertidos industriales a la red de saneamiento de las actividades sujetas a declaración responsable serán objeto de una autorización municipal específica, siendo de aplicación el Decreto regional nº 16/1999, de 22 de abril, sobre Vertidos de Aguas Residuales Industriales al Alcantarillado. Se entenderá estimada la solicitud de autorización si no ha recaído resolución en el plazo de tres meses desde que haya tenido entrada en el registro del ayuntamiento.
+No están sometidos a autorización los vertidos realizados por actividades industriales que consistan únicamente en vertidos de carácter sanitario.
+3. El Consejo de Gobierno podrá fijar reglamentariamente los vertidos prohibidos y las concentraciones máximas admisibles, así como cualquier otra condición necesaria para garantizar la calidad ambiental de los vertidos industriales a la red de saneamiento. Estas determinaciones serán requisitos mínimos que deberán incorporarse a las correspondientes ordenanzas municipales y se tendrán en cuenta en el otorgamiento de la autorización ambiental integrada, de la licencia de actividad y de la autorización de vertidos industriales a la red de saneamiento.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+## CAPÍTULO II
+
+Licencia de actividad
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se añade por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 63
+
+Artículo 63. Alcance y duración de la licencia.
+1. La licencia de actividad tiene por objeto verificar si la instalación o modificación sustancial de una actividad reúne aquellos requisitos exigibles para evitar daños al medio ambiente y el entorno urbano, la seguridad o la salud públicas o el patrimonio histórico.
+2. La licencia de actividad tendrá vigencia indefinida, sin perjuicio de las limitaciones temporales que pueda imponer la legislación o el planeamiento urbanístico cuando se trate de usos provisionales.
+3. La licencia de actividad perderá su vigencia si, una vez iniciada, se interrumpiera durante un plazo igual o superior a un año. No obstante, el promotor podrá solicitar la prórroga de la vigencia antes de que transcurra dicho plazo. El órgano municipal podrá acordar la prórroga en caso de que no se hayan producido cambios sustanciales en los elementos esenciales que sirvieron de base para otorgar la licencia de actividad.
+Junto con la solicitud de prórroga se acompañará certificado suscrito por técnico competente, debidamente identificado, colegiado, en su caso, y habilitado profesionalmente, que tenga acreditada la suscripción de una póliza de seguro de responsabilidad civil por daños causados en el ejercicio de su profesión, en la cuantía que se fije reglamentariamente, visado por el correspondiente colegio profesional cuando sea legalmente exigible, en el que se certifique el mantenimiento de los elementos esenciales que sirvieron para el otorgamiento de licencia.
+Salvo prueba en contrario, se presumirá que la actividad ha cesado o ha sido interrumpida por su titular cuando conste la baja de la actividad comunicada ante otras administraciones públicas, o ante las compañías suministradoras de agua y energía, así como cuando existan signos externos de cese de la actividad, debidamente justificados en el expediente.
+Constatadas por el ayuntamiento las circunstancias anteriores, dictará resolución declarando la pérdida de la vigencia de la licencia concedida, previa audiencia al interesado. La resolución así adoptada podrá ser objeto de los recursos que procedan.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 64
+
+Artículo 64. Procedimiento de licencia de actividad.
+1. El procedimiento se inicia mediante solicitud dirigida al ayuntamiento, que se acompañará, como mínimo, de la siguiente documentación, sin perjuicio de la que puedan establecer los ayuntamientos mediante ordenanza:
+a) Proyecto de actividad, suscrito por técnico competente, debidamente identificado, colegiado, en su caso, y habilitado profesionalmente, que tenga acreditada la suscripción de una póliza de seguro de responsabilidad civil por daños causados en el ejercicio de su profesión, en la cuantía que se fije reglamentariamente, visado por el correspondiente colegio profesional cuando sea legalmente exigible, que contenga una descripción detallada de la actividad y las fuentes de las emisiones a la atmósfera, al agua y al suelo, los sistemas correctores y las medidas de prevención y, cuando ello no sea posible, de reducción de dichas emisiones, así como los aspectos de competencia municipal relativos a ruidos, vibraciones, humos, calor, olores, polvo, contaminación lumínica y vertidos a la red de saneamiento y, en su caso, los relativos a incendios, accesibilidad, seguridad, sanitarios y cualesquiera otros que se contemplen en las ordenanzas municipales.
+b) Cuando el proyecto esté sometido a evaluación ambiental ordinaria o simplificada, declaración de impacto ambiental o informe de impacto ambiental, o justificación de haber realizado la solicitud de inicio de la evaluación de impacto ambiental ordinaria o simplificada. En este caso, no se concederá la licencia de actividad hasta que recaiga informe de impacto ambiental y/o declaración de impacto ambiental que resulte exigible, pudiendo el ayuntamiento suspender el procedimiento hasta que reciba el informe o declaración, comunicándolo al interesado.
+c) La documentación exigida por la normativa aplicable en relación con los vertidos de aguas residuales industriales a la red de saneamiento y para la protección del medio ambiente frente al ruido, salvo que la misma esté ya incorporada al proyecto técnico.
+d) Cualquier otra documentación acreditativa del cumplimiento de requisitos establecidos en la legislación sectorial aplicable.
+e) La determinación de los datos que, a juicio del solicitante, gocen de confidencialidad de acuerdo con las disposiciones vigentes.
+f) Resumen no técnico de la documentación presentada para facilitar su comprensión a los efectos del trámite de información pública.
+g) En el caso de actividades sometidas a alguna autorización ambiental sectorial, copia de la autorización o autorizaciones exigibles, o de su solicitud si se encuentran en trámite.
+En caso de presentarse la documentación en papel, se adjuntará copia digitalizada en soporte informático de la totalidad de la documentación técnica aportada.
+En los supuestos de modificación sustancial de la actividad previamente autorizada, la solicitud debe ir referida específicamente a las partes de la actividad y a los aspectos afectados por la modificación.
+2. El órgano municipal competente podrá requerir la subsanación de la solicitud; o denegar motivadamente la licencia por incumplimiento de los requisitos establecidos, previa audiencia al interesado por plazo no inferior a quince días.
+En otro caso, el expediente se someterá a información pública en la forma establecida en las respectivas ordenanzas, y se recabarán los informes técnicos que resulten necesarios.
+3. El plazo máximo para resolver y notificar la resolución de otorgamiento o denegación de licencia de actividad será de seis meses, transcurridos los cuales se entenderá desestimada la solicitud.
+4. (Suprimido).
+5. Las modificaciones no sustanciales, los cambios de titularidad y el cese de las actividades deben ser previamente comunicados al órgano municipal competente.
+El cambio de titularidad se deberá comunicar por el adquirente en el plazo máximo de un mes desde que se produjo la transmisión, aunque podrá también comunicarlo el transmitente para liberarse de las responsabilidades y obligaciones que le corresponden como titular de la licencia.
+Se modifica el apartado 3 y se suprime el 4 por el art. 23.10 y 11 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+ Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 3, solo en cuanto resulte aplicable a las actividades de los apartados 1, 2, 3 y 6 del anexo I de la presente Ley, por Sentencia 70/2018, de 21 de junio. Ref. BOE-A-2018-10512
+ Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 65
+
+Artículo 65. Procedimiento en actividades sujetas a autorización ambiental integrada.
+(Suprimido).
+Se suprime por el art. 23.12 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+ Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 66
+
+Artículo 66. Licencia de actividad y licencia urbanística.
+1. En los supuestos en que sea preceptiva la licencia de actividad y, además licencia urbanística, serán objeto de una sola resolución. Si procediera denegar la licencia de actividad, se notificará así al interesado y se entenderá asimismo denegada la segunda.
+2. No se concederá licencia urbanística sin el otorgamiento de la licencia de actividad que en su caso proceda, cuando, con arreglo al proyecto presentado, la edificación se destine al ejercicio de una actividad de características determinadas.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 67
+
+Artículo 67. Comunicación de inicio de la actividad.
+1. Obtenida la licencia de actividad y concluida la instalación o montaje, y antes de iniciar la explotación, el titular de la instalación deberá presentar una comunicación indicando la fecha prevista para el inicio de la fase de explotación y acompañando las justificaciones establecidas en la licencia de actividad.
+2. Esta comunicación no procederá en los casos de legalización de actividades, debiendo el órgano competente exigir al solicitante, durante la tramitación del procedimiento de legalización, las justificaciones necesarias para acreditar que la instalación o actividad existente se ajustan a la solicitud y documentación presentada.
+3. La comunicación de inicio de la actividad deberá realizarse en el plazo que se fije en la propia licencia de actividad, o, en su defecto, en el de dos años a contar desde la notificación de la licencia, transcurrido el cual la licencia de actividad perderá su vigencia de no haberse realizado la comunicación.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 68
+
+Artículo 68. Modificación de oficio de la licencia de actividad.
+1. La licencia de actividad podrá modificarse de oficio cuando las circunstancias que motivaron su otorgamiento se hubieran alterado o sobrevinieran otras que, de haber existido anteriormente, habrían justificado su denegación o el otorgamiento en términos distintos.
+2. El procedimiento de modificación de oficio se iniciará mediante una resolución que especifique motivadamente los aspectos de la licencia que se pretenden modificar, que será notificada al titular de la licencia de actividad, indicando, en su caso, la documentación que deberá aportar para llevar a cabo la modificación.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+## CAPÍTULO III
+
+Declaración responsable de actividad
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se añade por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 69
+
+Artículo 69. Finalidades.
+1. El régimen de declaración responsable de actividad persigue los siguientes fines:
+a) El reconocimiento del derecho de iniciar el ejercicio de las actividades sin necesidad de autorización u otro acto administrativo previo otorgado por la administración, sin perjuicio del sometimiento a control posterior al inicio de la actividad, a efectos de verificar el cumplimiento de la normativa reguladora de la misma.
+b) Simplificar las cargas administrativas a los operadores económicos de modo que se mantenga su control, solo alterándose el momento en el que se lleva a cabo.
+2. Las actividades declaradas se ejercerán bajo la exclusiva responsabilidad de los promotores de la actividad, de las entidades de control y del personal técnico que suscriba la documentación que acompaña a la declaración responsable. La presentación de la declaración responsable de actividad no prejuzga en modo alguno que las condiciones del establecimiento se acomoden a la normativa aplicable.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+## CAPÍTULO II
+
+Licencia en el caso de actividades sujetas a autorización ambiental autonómica
+
+### Artículo 70
+
+Artículo 70. Presentación de la declaración responsable de actividad.
+1. La declaración responsable de actividad podrá presentarse una vez concluidas las obras y las instalaciones necesarias y, en su caso, obtenidas las autorizaciones o realizadas las actuaciones exigidas por la normativa de carácter sectorial aplicable a la instalación o actividad, y antes de que comience el ejercicio de la actividad o fase de explotación.
+2. Se formalizará de acuerdo con el modelo aprobado que a tal efecto, que se encontrará disponible en la página web del correspondiente ayuntamiento.
+El ayuntamiento velará para que los requisitos que deben constar estén recogidos de manera expresa, clara y precisa en la declaración responsable de actividad.
+3. En la declaración responsable el interesado manifestará bajo su responsabilidad que cumple con los requisitos establecidos en la normativa aplicable para el ejercicio de la actividad que se dispone a iniciar, que posee la documentación que así lo acredita y que se compromete a mantener su cumplimiento durante todo el periodo de tiempo que dure el ejercicio de la actividad.
+Téngase en cuenta que este apartado 3 se declara conforme a la Constitución en los términos del fundamento jurídico 12 por Sentencia TC 70/2018, de 21 de junio. Ref. BOE-A-2018-10512
+4. Sin perjuicio de lo señalado en el apartado anterior, la declaración responsable, debidamente suscrita por el interesado, deberá acompañarse al menos de la siguiente documentación:
+a) Memoria descriptiva de la actividad suscrita por técnico competente debidamente identificado, colegiado, en su caso, y habilitado profesionalmente, que tenga acreditada la suscripción de una póliza de seguro de responsabilidad civil por daños causados en el ejercicio de su profesión, en la cuantía que se fije reglamentariamente, visado por el correspondiente colegio profesional cuando sea legalmente exigible.
+b) Certificación emitida por técnico competente, debidamente identificado, colegiado, en su caso, y habilitado profesionalmente, que tenga acreditada la suscripción de una póliza de seguro de responsabilidad civil por daños causados en el ejercicio de su profesión, en la cuantía que se fije reglamentariamente, visado por el correspondiente colegio profesional cuando sea legalmente exigible, en la que se acredite la adecuación de la instalación a la actividad que vaya a desarrollarse, y el cumplimiento de los requisitos establecidos por la normativa sectorial de aplicación.
+La certificación incluirá un pronunciamiento expreso sobre la compatibilidad de la instalación con el planeamiento y normativa urbanística.
+c) Justificación de haber obtenido las autorizaciones o formalizado las comunicaciones o declaraciones exigibles por la normativa de carácter sectorial.
+d) En el caso de actividades potencialmente contaminadoras de la atmósfera sujetas a notificación (grupo C del anexo IV de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera), justificación de haber realizado la misma ante el órgano competente de la Comunidad Autónoma.
+e) Si se trata de una actividad sujeta a comunicación previa al inicio de la actividad de producción y gestión de residuos (artículo 29 de la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados), justificación de haber realizado dicha comunicación previa ante el órgano competente de la Comunidad Autónoma.
+f) Autorización municipal de vertidos industriales a la red de saneamiento, cuando resulte exigible.
+g) Autorización o concesión para la ocupación o utilización del dominio público, cuando resulte exigible.
+h) Justificante del pago de la tasa, cuando resulte exigible.
+5. A efectos de que la Administración pueda comprobar la veracidad de los datos correspondientes a los técnicos competentes que se citan en las declaraciones responsables, se arbitrarán los medios de comunicación telemática necesarios con las ventanillas únicas de los colegios profesionales de tal forma que se pueda acceder a la información sobre la habilitación profesional de los mismos.
+Al mismo tiempo y al objeto de que los colegios profesionales puedan cumplir con su función de velar por el correcto ejercicio profesional recogido en las distintas legislaciones (nacional y autonómica), las diferentes administraciones comunicarán a los colegios profesionales los datos de los profesionales que presenten trabajos en las mismas, así como las posibles incidencias que las actuaciones profesionales de sus colegiados, para que puedan ejercer las correspondientes medidas disciplinarias con independencia de las que les correspondiera ejecutar.
+6. Los ayuntamientos, a través de sus ordenanzas, podrán especificar o ampliar el alcance que ha de tener la declaración responsable en cuanto al cumplimiento de otros requisitos exigidos por la normativa aplicable para el funcionamiento de la actividad, o desarrollar la documentación que ha de acompañar a la declaración responsable.
+Se declara que el apartado 3 es conforme a la Constitución en los términos del fundamento jurídico 12 por Sentencia TC 70/2018, de 21 de junio. Ref. BOE-A-2018-10512
+ Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 71
+
+Artículo 71. Declaración responsable en el caso de actividades inocuas.
+1. Son actividades inocuas aquellas que, por cumplir todas las condiciones establecidas en el anexo II de esta ley, no cabe esperar que tengan incidencia significativa en el medio ambiente, la seguridad o salud de las personas.
+2. Para el ejercicio de las actividades inocuas, el certificado emitido por técnico competente a que se refiere el párrafo b) del apartado 4 del artículo anterior podrá sustituirse por otro que acredite el cumplimiento de las todas las condiciones establecidas en el anexo II.
+En este caso, solo será necesario acompañar a la declaración responsable el certificado de cumplimiento de todas las condiciones del anexo II, pero el declarante deberá cumplir con los requisitos establecidos por la normativa aplicable, incluido en su caso el de estar en posesión de la documentación que así lo acredite.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 72
+
+Artículo 72. Declaración responsable en el caso de actividades de comercio y determinados servicios.
+1. Para el ejercicio de las actividades incluidas en el título I y el anexo de la Ley 12/2012, de 26 de diciembre, de medidas urgentes de liberalización del comercio y de determinados servicios, ampliadas por las recogidas en el capítulo II del título II y el anexo de la Ley regional 8/2014, de 21 de noviembre, de medidas tributarias, de simplificación administrativa y en materia de función pública, bastará la presentación de la declaración responsable regulada en estas leyes, con la manifestación explícita del cumplimiento de aquellos requisitos que resulten exigibles de acuerdo con la normativa vigente, incluido, en su caso, estar en posesión de la documentación que así lo acredite y del proyecto cuando corresponda.
+2. Estas actividades deberán contar con el certificado de cumplimiento de todas las condiciones del anexo II, o, cuando no reúnan dichas condiciones, con el certificado a que se refiere el párrafo b) del apartado 4 del artículo 70, para su exhibición cuando sea requerido por el ayuntamiento en el ejercicio de sus funciones de comprobación o inspección.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 73
+
+Artículo 73. Efectos de la declaración responsable de actividad.
+1. La declaración responsable de actividad permitirá al interesado la apertura e inicio de la actividad desde el mismo momento de su presentación, sin perjuicio de las autorizaciones o de otras comunicaciones o declaraciones que resulten en su caso exigibles por la normativa sectorial.
+2. Las actividades sometidas a declaración responsable están sujetas en todo momento al régimen administrativo de comprobación, inspección, sanción, restablecimiento de la legalidad ambiental previsto en esta ley y, en general, de control que corresponde al ayuntamiento en relación con la actividad.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 74
+
+Artículo 74. Consecuencias derivadas del control de las actividades sometidas a declaración responsable.
+1. Con el fin de verificar el cumplimiento de los requisitos que la normativa aplicable exige para el ejercicio de la actividad, el ayuntamiento podrá realizar en cualquier momento la comprobación documental de la declaración responsable, así como comprobaciones físicas mediante visitas a la instalación.
+2. La falta de presentación de la declaración responsable de actividad, así como la inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento que se acompañe o incorpore a la declaración responsable, determinará, previo trámite de audiencia, la imposibilidad de iniciar o continuar con el ejercicio de la actividad afectada desde el momento en que se tenga constancia de tales hechos, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiera lugar. Cuando se trate de defectos subsanables, en el trámite de audiencia se podrá requerir al interesado para que presente la declaración responsable o complete la documentación, sin perjuicio de las sanciones que procedan.
+La resolución del ayuntamiento que declare el incumplimiento podrá determinar la obligación del interesado de restituir la situación jurídica al momento previo al inicio de la actividad correspondiente.
+3. Cuando se realicen visitas de comprobación de las instalaciones, si de los resultados de la visita se detectasen deficiencias subsanables, se otorgará al interesado un plazo para corregir los defectos advertidos. Una vez subsanados, el interesado lo comunicará al ayuntamiento, que podrá efectuar una nueva visita de comprobación para verificar si se ha atendido el requerimiento de subsanación.
+En caso de incumplimiento del requerimiento, o en el supuesto de haberse detectado en la visita de comprobación deficiencias insubsanables, el ayuntamiento dictará resolución motivada que impedirá el ejercicio de la actividad, previa audiencia del interesado.
+4. El ayuntamiento podrá efectuar las visitas de comprobación previstas en este artículo por sus propios medios o mediante entidades de control ambiental.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 75
+
+Artículo 75. Imposición de prescripciones técnicas y medidas correctoras.
+1. El órgano municipal competente podrá de oficio, en cualquier momento, imponer al promotor de actividades sujetas a declaración responsable las prescripciones técnicas y medidas correctoras que resulten exigibles por la normativa sectorial aplicable para garantizar la protección del medio ambiente, la seguridad y la salud de las personas.
+2. La resolución que imponga las prescripciones técnicas y medidas correctoras será motivada y se dictará previa audiencia de los interesados, pudiendo ser objeto del recurso administrativo o contencioso-administrativo que proceda.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+## CAPÍTULO III
+
+Procedimiento de licencia de actividades sujetas a calificación ambiental
+
+### Artículo 76
+
+Artículo 76. Comunicación de modificación y cese de la actividad.
+Están sometidas a comunicación previa las modificaciones de la actividad que no implique un cambio en el instrumento de intervención. Deberá también comunicarse el cese temporal o definitivo de la misma, en el plazo máximo de un mes desde que se produzca dicho cese.
+Si la modificación supone un cambio en el instrumento de intervención, deberá someterse al régimen que corresponda.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 77
+
+Artículo 77. Toma de conocimiento.
+La copia de la declaración responsable de actividad, debidamente registrada, tendrá la consideración de toma de conocimiento por la Administración. Este documento deberá conservarse en el establecimiento en que se desarrolle la actividad para conocimiento y control de la Administración.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 78
+
+Artículo 78. Cambio de titularidad de actividad.
+El cambio de titularidad de la actividad exigirá la presentación por el nuevo titular de una comunicación en el plazo máximo de diez días desde que se hubiera formalizado la transmisión, sin perjuicio de la comunicación que pueda realizar el transmitente. No será necesaria la presentación de la documentación técnica que hubiera aportado el anterior titular si se mantienen las condiciones de la actividad. El nuevo titular podrá continuar el ejercicio de la actividad desarrollada por el anterior titular tan pronto efectúe la comunicación.
+Se modifica por el art. 3.12 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.12 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículos 79 a 82
+
+Artículos 79 al 82.
+(Derogados).
+Se derogan por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 2/2016, de 20 de abril.
+ Se derogan por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 79
+
+Artículo 79. Emisión del informe de calificación ambiental por la consejería competente en materia de medio ambiente.
+1. En los supuestos de dispensa de la obligación municipal de calificación ambiental de la actividad, realizado el trámite de información pública, el órgano municipal competente remitirá el expediente completo a la Consejería competente en materia de medio ambiente, junto con las alegaciones recibidas y debidamente informadas, comunicándolo a los interesados.
+2. La consejería con competencias en materia de medio ambiente emitirá el informe de calificación ambiental y lo notificará al órgano competente para la concesión de la licencia en el plazo máximo de dos meses.
+3. La remisión del expediente a la Consejería, que el ayuntamiento deberá comunicar al interesado, determinará la suspensión del procedimiento para la concesión de licencia municipal. La suspensión se prolongará por el tiempo que transcurra desde la remisión del expediente hasta la recepción del informe de calificación, que igualmente comunicará al interesado, o el transcurso del plazo para su recepción.
+4. El plazo a que se refiere el apartado anterior quedará interrumpido en el caso de que se deba requerir al interesado para que subsane deficiencias o aporte documentos u otros elementos de juicio por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento. Una y otro serán debidamente comunicadas al órgano municipal competente para el otorgamiento de la licencia, a los efectos de que se tengan en cuenta por éste en el cómputo del plazo máximo para resolver y notificar la licencia.
+
+### Artículo 80
+
+Artículo 80. Plazo para resolver y notificar la resolución.
+1. En las actividades sometidas a informe de calificación ambiental, el plazo máximo para resolver y notificar la resolución de otorgamiento o denegación de licencia de actividad será de seis meses, transcurridos los cuales se entenderá estimada la solicitud.
+2. El otorgamiento por silencio administrativo de la licencia de actividad no concede facultades a su titular en contra del planeamiento urbanístico, de las prescripciones de esta ley o de sus normas de desarrollo, o de la legislación sectorial aplicable.
+
+### Artículo 81
+
+Artículo 81. Comunicación previa al inicio de la actividad.
+1. Las actividades nuevas no podrán iniciar su ejercicio o explotación hasta que se lleven a cabo las actuaciones a que se refiere este artículo que también son exigibles en los supuestos de modificación sustancial de la actividad.
+2. Terminada la instalación, acondicionamiento o montaje, el titular de la actividad deberá comunicar el inicio de la actividad al órgano municipal competente, acompañando la siguiente documentación:
+a) Certificación del técnico director de la instalación, acreditativa de que la instalación o montaje se ha llevado a cabo conforme al proyecto presentado y, en su caso, los anexos correspondientes a las modificaciones no sustanciales producidas respecto de la instalación proyectada, que se acompañarán a la certificación.
+b) Si se trata de una actividad productora de residuos peligrosos sujeta al régimen de pequeños productores, justificación de la inscripción en el registro autonómico.
+c) Un informe de la entidad de control ambiental que acredite el cumplimiento de las condiciones ambientales impuestas en la licencia de actividad, cuando así se exija en la licencia.
+3. Podrá comenzar la explotación después de efectuar la comunicación completa a que se refiere este artículo, salvo que la licencia de actividad establezca un plazo entre la comunicación y el inicio de la explotación, que no podrá exceder de un mes, para el caso de que alguna de las condiciones de funcionamiento exija comprobaciones adicionales que hayan de llevarse a cabo necesariamente antes del inicio de la explotación.
+La previsión anterior se entiende sin perjuicio de las comprobaciones o controles previos regulados por la normativa industrial o sectorial que resulte de aplicación.
+4. El ayuntamiento realizará la primera comprobación administrativa de las condiciones impuestas en la licencia de actividad, en el plazo de tres meses desde la comunicación previa al inicio de la actividad nueva o con modificación sustancial. Excepcionalmente, dicho plazo podrá ampliarse por razones justificadas, tales como la estacionalidad de la actividad o la necesidad de realizar comprobaciones sucesivas, sin que la ampliación pueda exceder de un año a contar desde la comunicación previa. El resultado del acta de primera comprobación se comunicará al titular de la explotación.
+5. Si la comprobación realizada pone de manifiesto el incumplimiento de las condiciones establecidas en la licencia de actividad o en la normativa ambiental, y sin perjuicio de la sanción que en su caso proceda, se ordenará el restablecimiento de la forma establecida en el artículo 144.
+Se modifica el apartado 2.c) por la disposición final 2.5 de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
+
+### Artículo 82
+
+Artículo 82. Vigencia de la licencia.
+1. La licencia de actividad para actividades sujetas a calificación ambiental tendrá vigencia indefinida, sin perjuicio de las limitaciones temporales que pueda imponer la legislación o el planeamiento urbanístico cuando se trate de usos provisionales.
+2. No obstante, la licencia de actividad perderá su vigencia si, una vez otorgada, no se comunica el inicio de la actividad en el plazo que se fije en la propia licencia de actividad, o en su defecto en el de dos años a contar desde la notificación de la resolución administrativa que ponga fin al procedimiento, o, una vez iniciada, se interrumpiera durante un plazo igual o superior a seis meses.
+Salvo prueba en contrario, se presumirá que la actividad ha cesado o ha sido interrumpida por su titular cuando conste la baja de la actividad comunicada ante otras administraciones públicas, o ante las compañías suministradoras de agua y energía, así como cuando exista notoriedad pública, debidamente justificada en el expediente, acerca del cese o interrupción de la actividad.
+3. Constatadas por el Ayuntamiento las circunstancias indicadas en el apartado anterior, dictará resolución declarando la pérdida de la vigencia de la licencia concedida, previa audiencia al interesado. La resolución así adoptada podrá ser objeto de los recursos que procedan.
+4. Las licencias que hayan perdido su vigencia por las causas indicadas en este artículo, podrán ser objeto de convalidación mediante procedimiento iniciado a instancia del titular, en el cual deberá acreditarse que la actividad no ha sufrido modificaciones sustanciales, ni han variado las circunstancias que determinaron su otorgamiento. No obstante, se denegará la convalidación si, por haber variado la legislación o el planeamiento aplicables, no fuera posible su otorgamiento conforme a la nueva legislación.
+
+## TÍTULO IV
+
+Evaluación ambiental de proyectos
+
+### Artículo 83
+
+Artículo 83. Remisión a la legislación estatal de evaluación de impacto ambiental.
+Es de aplicación en la Comunidad Autónoma de la Región de Murcia la legislación estatal de evaluación de impacto ambiental, sin más particularidades que las contenidas en esta ley y en la normativa reguladora de los procedimientos de autorización o aprobación de proyectos.
+Se modifica por el art. 3.13 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.13 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 84
+
+Artículo 84. Proyectos sometidos a evaluación ambiental de proyectos.
+1. Serán objeto de evaluación de impacto ambiental ordinaria y simplificada en la Comunidad Autónoma de la Región de Murcia únicamente los proyectos comprendidos en la legislación básica estatal.
+2. A efectos de los establecido en el artículo 7.2 c) de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, se entenderá que una modificación puede tener efectos adversos significativos sobre el medio ambiente cuando suponga un incremento de más del 30 por 100 de emisiones a la atmósfera, de vertidos a cauces públicos o al litoral, de generación de residuos, de utilización de recursos naturales, o cuando la modificación suponga una afección a espacios naturales protegidos, Red Natura 2000 o una afección significativa al patrimonio cultural.
+Se modifica el apartado 2 por el art. 1.15 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica por el art. único.15 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se modifica por el art. 3.13 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.13 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 85
+
+Artículo 85. Órgano ambiental y órgano sustantivo.
+1. Corresponde a la consejería con competencias en materia de medioambiente ejercer las funciones de órgano ambiental cuando se trate de la evaluación ambiental de proyectos que deban ser adoptados, aprobados o autorizados por la Comunidad Autónoma de la Región de Murcia o las entidades locales de su ámbito territorial, o que deban ser objeto de declaración responsable o comunicación previa ante las mismas.
+2. No obstante, en el caso de proyectos de desarrollo de los instrumentos regulados por la normativa autonómica sectorial en materia de ordenación del territorio y urbanismo, cuya aprobación corresponda a las entidades locales, actuará como órgano ambiental el ayuntamiento correspondiente al ámbito territorial del plan o programa, en los municipios con población superior a 50.000 habitantes. En resto de municipios, el ejercicio de las competencias que son propias del órgano ambiental podrá delegarse en los Ayuntamientos, siempre que acrediten la disposición de medios técnicos y personales necesarios para el ejercicio de la competencia.
+(Sic) b) En los proyectos de explotación agrícola de áreas naturales, seminaturales e incultas, será órgano sustantivo la Consejería competente en materia de producción agrícola.
+3. Para la determinación del órgano sustantivo autonómico o municipal en el ámbito de la Región de Murcia, se tendrán en cuenta las siguientes reglas por orden de prioridad:
+a) Con carácter general, cuando el proyecto esté sometido a autorización o aprobación del órgano autonómico competente por razón de la materia, será éste el que tenga la condición de órgano sustantivo a efectos de evaluación de impacto ambiental.
+b) En los proyectos de explotación agrícola intensiva de áreas naturales, seminaturales e incultas será órgano sustantivo el órgano autonómico competente en materia de montes.
+c) Cuando se trate de instalaciones sujetas al Real Decreto 840/2015, de 21 de septiembre, por el que se aprueban medidas de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas, será órgano sustantivo el órgano autonómico competente en materia de accidentes graves.
+d) En los proyectos destinados a la cría de animales en explotaciones ganaderas, y a la producción de fertilizantes, fitosanitarios, productos alimenticios, mataderos y despieces de animales o subproductos animales, así como los vertidos tierra mar, será órgano sustantivo el órgano autonómico que ostente la competencia sobre el control de la actividad a cuya finalidad se orienta el proyecto, siguiendo lo establecido en el artículo 5.1.d) de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental.
+e) Cuando se trate de proyectos sometidos a autorización ambiental autonómica, distintos de los anteriores, el órgano sustantivo será la consejería con competencias en materia de medio ambiente si el municipio en que se ubica la instalación su población de derecho no supera los 50.000 habitantes, y el ayuntamiento en aquellos municipios cuya población de derecho supere los 50.000 habitantes. En el resto de los municipios, el ejercicio de las competencias que son propias del órgano sustantivo podrá delegarse en los ayuntamientos, siempre que acrediten la disposición de medios técnicos y personales necesarios para el ejercicio de la competencia.
+f) En los proyectos no sometidos a autorización ambiental autonómica, distintos de los previstos en los apartados a), b), c) y d) el órgano sustantivo será el ayuntamiento.
+4. La consejería competente en medio ambiente y las entidades locales tendrán en cuenta una adecuada separación de las funciones que puedan dar lugar a un conflicto de intereses cuando el órgano ambiental sea simultáneamente el órgano sustantivo en el proceso de evaluación ambiental del proyecto.
+Se modifica el apartado 2.b) por el art. 3.3 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
+ Se modifica el apartado 2.b) por el art. único.3 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
+ Se modifica por el art. 1.16 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica el apartado 2 y se añaden los apartados 3 y 4 por el art. único.16 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se modifica el apartado 2 por el art. 23.13 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+ Se modifica por el art. 3.13 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.13 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 86
+
+Artículo 86. Exclusión del trámite de evaluación ambiental de proyectos por motivos excepcionales.
+1. El Consejo de Gobierno, a propuesta del órgano sustantivo, mediante acuerdo motivado podrá excluir del trámite de evaluación de impacto ambiental a los proyectos que se encuentren en los supuestos excepcionales recogidos en la normativa básica estatal. Dicho acuerdo de exclusión decidirá si procede someter el proyecto excluido a otra forma alternativa de evaluación que cumpla con los principios y objetivos de dicha legislación básica y que realizará el órgano sustantivo.
+2. El acuerdo de exclusión y los motivos que lo justifican se publicarán en el "Boletín Oficial de la Región de Murcia". Adicionalmente, se pondrá a disposición de las personas interesadas la siguiente información:
+a) La decisión de exclusión y los motivos que la justifican.
+b) La información relativa al examen sobre las formas alternativas de evaluación del proyecto excluido.
+3. Dicha información se remitirá al órgano de la Administración General del Estado competente, para su comunicación a la Comisión Europea, con carácter previo a la autorización o aprobación del proyecto.
+4. La exclusión de evaluación ambiental de proyectos no exime de realizar la evaluación de repercusiones sobre los espacios de la Red Natura 2000, en los términos previstos en la legislación básica estatal, ni del cumplimiento de los Planes de Ordenación de los Recursos Naturales, planes de gestión y demás normas protectoras de los espacios protegidos de acuerdo con lo previsto en la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad.
+Se modifica el apartado 1 por la disposición adicional 2.1 del Decreto-ley 5/2022, de 20 de octubre. Ref. BORM-s-2022-90316#da-2
+ Se modifica por el art. 1.17 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica por el art. único.17 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+
+### Artículo 87
+
+Artículo 87. Administración actuante y órgano ambiental.
+1. Corresponde a la Administración del Estado la evaluación ambiental de los proyectos que deben ser aprobados o autorizados por ella; y a la Comunidad Autónoma de la Región de Murcia la evaluación ambiental de los proyectos que deben ser aprobados o autorizados por la propia Comunidad Autónoma o por los ayuntamientos pertenecientes a su ámbito territorial.
+2. El órgano ambiental de la Comunidad Autónoma de la Región de Murcia es la Consejería con competencias en materia de medio ambiente.
+
+### Artículos 87 a 98
+
+Artículos 87 a 98.
+(Derogados).
+Se derogan por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 2/2016, de 20 de abril.
+ Se derogan por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 88
+
+Artículo 88. Órgano sustantivo.
+1. Será órgano sustantivo a efectos de evaluación ambiental de proyectos aquel órgano de la Administración pública estatal, autonómica o local competente para autorizar o aprobar los proyectos que deban someterse a evaluación ambiental.
+2. Para la determinación del órgano sustantivo autonómico o municipal en el ámbito de la Región de Murcia, se tendrán en cuenta las siguientes reglas:
+a) Cuando el proyecto esté sometido a autorización o aprobación del órgano autonómico competente por razón de la materia, será este el que tenga la condición de órgano sustantivo a efectos de evaluación ambiental de proyectos.
+La misma regla se aplicará en el supuesto de modificaciones o ampliaciones de proyectos sujetas a evaluación ambiental, siendo órgano sustantivo el competente por razón de la materia para aprobar o autorizar el proyecto principal, que se amplía o modifica. Si la ampliación o modificación en sí no está sujeta a autorización de dicho órgano, el trámite de evaluación ambiental de proyectos se insertará en el procedimiento de modificación de la autorización que el órgano sustantivo deberá llevar a cabo de oficio, previa petición del promotor en el caso de proyectos privados, a la que se adjuntará el estudio de impacto ambiental.
+b) Cuando la única aprobación o autorización autonómica exigible sea la autorización ambiental autonómica, será órgano sustantivo el competente para otorgar dicha autorización.
+c) El Ayuntamiento será órgano sustantivo en aquellos proyectos sujetos a licencia urbanística municipal como única autorización o aprobación del proyecto.
+3. En los proyectos privados, el órgano sustantivo será el órgano de relación con el promotor del proyecto, al que dirigirá toda solicitud o documentación que deba presentar en cumplimiento de la normativa de evaluación ambiental de proyectos, para su remisión, cuando proceda, al órgano ambiental.
+Se modifica el apartado 2.a) por la disposición final 2.6 de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
+
+### Artículo 89
+
+Artículo 89. Procedimiento aplicable.
+La tramitación de la evaluación ambiental de proyectos se ajustará a lo establecido por la legislación básica estatal reguladora de la evaluación de impacto ambiental, por las disposiciones contenidas en esta ley, por las normas de desarrollo reglamentario y demás normas adicionales de protección que se establezcan.
+
+### Artículo 90
+
+Artículo 90. Solicitud para iniciar el trámite de evaluación ambiental de proyectos.
+1. El promotor que se proponga realizar un proyecto sujeto a evaluación ambiental, presentará solicitud con el objeto de que se determine el alcance del estudio de impacto ambiental, salvo que se haya determinado previamente al decidir sobre la necesidad de someter el proyecto a evaluación ambiental.
+2. La solicitud se acompañará de un documento inicial del proyecto con, al menos, el siguiente contenido:
+a) La definición, características y ubicación del proyecto.
+b) Un diagnóstico territorial y del medio ambiente afectado por el proyecto.
+c) Las principales alternativas que se consideran y análisis de los potenciales impactos de cada una de ellas.
+d) Cuando el proyecto pueda afectar directa o indirectamente a los espacios de la Red Natura 2000, incluirá también un estudio de afecciones sobre los hábitats y especies a proteger.
+3. La solicitud, junto con el documento inicial, debe presentarse ante el órgano sustantivo, el cual podrá denegarla, previa audiencia al interesado, si pone ya de manifiesto razones suficientes para ello basadas en la normativa sectorial que resulte aplicable por razón de la materia. En caso contrario, cursará la documentación al órgano ambiental al objeto de iniciar el trámite de evaluación ambiental de proyectos.
+
+### Artículo 91
+
+Artículo 91. Determinación del alcance del estudio de impacto ambiental.
+1. Recibida la solicitud, acompañada del documento inicial, el órgano ambiental determinará la amplitud y nivel de detalle que ha de alcanzar el estudio de impacto ambiental, tras consultar a las administraciones públicas afectadas sobre el documento inicial del proyecto. La consulta se podrá ampliar a otras personas físicas o jurídicas, públicas o privadas, vinculadas a la protección del medio ambiente.
+2. El plazo para notificar al promotor la amplitud y nivel de detalle del estudio de impacto ambiental, así como las contestaciones recibidas a las consultas efectuadas, será de tres meses, a contar desde la recepción por el órgano ambiental de la solicitud y documentación a que se refiere el artículo anterior.
+En dicha notificación, se informará también al promotor de las autorizaciones con fines ambientales de competencia autonómica o municipal a las que, en su caso, esté sometido el proyecto, el órgano ante el que deben solicitarse y la documentación necesaria que ha de acompañar a la solicitud.
+Transcurrido el plazo indicado sin recibir la citada notificación, el promotor podrá elaborar el estudio de impacto ambiental, basándose en los documentos tipo relativos a la amplitud y nivel de detalle de los estudios de impacto ambiental a que se refiere el apartado 5. No obstante, la notificación del documento relativo al alcance y nivel de detalle del estudio de impacto ambiental, recibida fuera de plazo, deberá ser tenida en cuenta por el promotor, que deberá en su caso completar el estudio de impacto en lo que proceda.
+3. El resultado de esta fase de consultas previas se comunicará también al órgano sustantivo, indicando si el proyecto está sujeto a autorización ambiental autonómica, y cuáles son los trámites ambientales que el órgano sustantivo debe integrar en el procedimiento de aprobación o autorización del proyecto.
+4. Si en el plazo de seis meses, contados desde la notificación al promotor de la amplitud y nivel de detalle del estudio de impacto ambiental, éste no solicita la aprobación del proyecto, presentando el citado estudio de impacto ante el órgano sustantivo, el órgano ambiental archivará el expediente. A efectos del control de este plazo, el órgano sustantivo notificará la recepción del estudio de impacto al órgano ambiental.
+Desde que se presenta el estudio de impacto ambiental ante el órgano sustantivo, éste dispone de seis meses para practicar el trámite de información pública y consultas a que se refiere el artículo 93. Si en el plazo de un año, contado desde la notificación al promotor de la amplitud y nivel de detalle del estudio de impacto ambiental, el órgano ambiental no ha recibido el estudio de impacto ambiental, acompañado del resultado de la información pública y las consultas efectuadas, archivará el expediente.
+5. La Consejería con competencia en materia de medio ambiente aprobará y publicará documentos tipo, relativos a la amplitud y nivel de detalle de los estudios de impacto ambiental, tras consultar a las administraciones públicas afectadas y a otras personas físicas o jurídicas, públicas o privadas, vinculadas a la protección del medio ambiente. Estos documentos tipo podrán servir de base para la elaboración del estudio de impacto ambiental cuando, transcurrido el plazo establecido para ello, el órgano ambiental no haya notificado al promotor la amplitud y nivel de detalle del estudio de impacto ambiental.
+
+### Artículo 92
+
+Artículo 92. Estudio de impacto ambiental.
+1. El estudio de impacto ambiental contendrá, al menos, la documentación e información establecida por la legislación básica estatal y el análisis de las afecciones sobre los hábitats y especies a proteger cuando el proyecto pueda afectar directa o indirectamente a los espacios de la Red Natura 2000; todo ello con la amplitud y nivel de detalle determinado por el órgano ambiental.
+2. La Administración pondrá a disposición del titular del proyecto los informes y cualquier otra documentación que obre en su poder cuando resulte de utilidad para la realización del estudio de impacto ambiental.
+
+### Artículo 93
+
+Artículo 93. Información pública y consultas.
+1. Cuando el promotor elabore el estudio de impacto ambiental y lo presente, como parte del proyecto, al órgano sustantivo, éste promoverá y asegurará una participación real y efectiva en la tramitación del procedimiento de autorización del proyecto, mediante los siguientes trámites:
+a) Trámite de información pública, por plazo no inferior a treinta días, mediante anuncio en el Boletín Oficial de la Región de Murcia.
+b) Consulta a las Administraciones públicas afectadas, que hubiesen sido previamente consultadas en relación con la amplitud y nivel de detalle del estudio de impacto ambiental, así como al órgano ambiental.
+c) Trámite de audiencia a las personas interesadas, a las que se refiere el artículo 2.6 del texto refundido de la Ley de Evaluación de Impacto Ambiental de proyectos.
+2. El órgano sustantivo cuidará especialmente de dar gran amplitud al trámite de información al público, de consulta y demás trámites mencionados, debiendo respetar en todo caso las previsiones que contiene el texto refundido de la Ley de Evaluación de Impacto Ambiental de proyectos, relativas a los aspectos que han de ser objeto de información pública o consulta, los plazos mínimos establecidos, y la información o documentación que debe ponerse a disposición de las Administraciones afectadas y personas interesadas.
+3. Los trámites ambientales previstos en este artículo se llevarán a cabo por el órgano sustantivo aunque no estén contemplados expresamente en la normativa reguladora del procedimiento establecido para la aprobación o autorización del proyecto. En el supuesto de que dicho procedimiento sustantivo prevea un período de información pública u otros trámites que puedan acumularse a los ambientales a que se refiere este artículo, deberá garantizarse el cumplimiento de los plazos y el alcance establecido para el trámite ambiental.
+4. Finalmente, los resultados de la información pública, consultas, audiencia a las personas interesadas y, en su caso, la valoración del promotor del proyecto, deberán tomarse en consideración por el órgano sustantivo competente para su aprobación o autorización, especificando en qué medida se aceptan o rechazan; y cuantas observaciones se estimen oportunas.
+5. Una vez completados los trámites anteriores y con carácter previo a la resolución administrativa que se adopte para la aprobación o autorización de la obra, instalación o actividad de que se trate, el órgano sustantivo remitirá el expediente al órgano ambiental, acompañando una certificación acreditativa de la información pública, consultas, alegaciones y demás actuaciones practicadas.
+
+### Artículo 94
+
+Artículo 94. La declaración de impacto ambiental.
+1. La declaración de impacto ambiental determinará las condiciones que deban establecerse en orden a la adecuada protección del medio ambiente y los recursos naturales. El plazo para formular la declaración de impacto ambiental por el órgano ambiental será de tres meses desde la recepción del expediente.
+2. En cualquier momento anterior a la declaración de impacto ambiental, el órgano ambiental, por razones debidamente motivadas o circunstancias sobrevenidas, podrá requerir al promotor para que complete el estudio de impacto ambiental o que amplíe la documentación, con la consiguiente suspensión del plazo para formular la declaración de impacto ambiental.
+3. La remisión, por el órgano sustantivo al órgano ambiental, del expediente y del resultado de la información pública y consultas efectuadas, determinará la suspensión del procedimiento sustantivo, entendido éste como el resolutorio de la autorización o aprobación del proyecto. La suspensión se prolongará durante el plazo máximo previsto para formular la declaración de impacto ambiental.
+El órgano sustantivo notificará al interesado tanto la remisión del expediente al órgano ambiental, y sus efectos suspensivos, como la recepción de la declaración de impacto ambiental.
+4. No podrá entenderse aprobado o autorizado por silencio positivo ningún proyecto sujeto a evaluación ambiental respecto del cual no se haya formulado declaración de impacto, o en contra de lo establecido en la misma.
+
+### Artículo 95
+
+Artículo 95. Integración de la evaluación de repercusiones a la Red Natura 2000.
+1. La evaluación de repercusiones a la Red Natura 2000 a que se refiere el artículo 45 de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y la Biodiversidad, cuando se refiera a proyectos sometidos a su vez a evaluación ambiental de proyectos de competencia autonómica, se entenderá incluida en el procedimiento de evaluación ambiental de proyectos, teniendo en cuenta los objetivos de conservación del lugar.
+En estos casos, el centro directivo competente para la gestión de la Red Natura 2000 informará preceptivamente el documento inicial y el estudio de impacto ambiental, valorando las repercusiones que el proyecto puede tener sobre las zonas integradas en la Red Natura 2000.
+2. Si las conclusiones de dicha valoración son negativas, el órgano ambiental, antes de dictar la declaración de impacto, lo comunicará al órgano sustantivo, el cual podrá poner de manifiesto al órgano ambiental, en el plazo de quince días, la falta de soluciones alternativas y que pueden existir razones imperiosas de interés público de primer orden para ejecutar el proyecto, incluidas razones de índole social o económica, acompañando una propuesta de medidas compensatorias, debidamente valoradas.
+La declaración de impacto ambiental pondrá de manifiesto que las conclusiones de la evaluación de repercusiones son negativas, y en caso de que exista propuesta de medidas compensatorias, deberá valorar expresamente si las considera suficientes para garantizar la coherencia global de la Red Natura 2000.
+3. El órgano sustantivo no podrá aprobar el proyecto en contra de la declaración de impacto ambiental, sin perjuicio de elevar en su caso la discrepancia al Consejo de Gobierno, de conformidad con lo establecido en el artículo siguiente.
+
+### Artículo 96
+
+Artículo 96. Discrepancia.
+1. Una vez recibida por el órgano sustantivo la declaración de impacto ambiental, las discrepancias que puedan surgir entre el órgano sustantivo y el órgano ambiental, respecto de la conveniencia de ejecutar el proyecto, o sobre el condicionado de la declaración de impacto ambiental, se resolverán por el Consejo de Gobierno. A estos efectos, el titular de la Consejería a la cual pertenezca o de la cual dependa el órgano sustantivo, deberá elevar al Consejo de Gobierno la discrepancia en el plazo de quince días desde la recepción de la declaración de impacto ambiental, previa comunicación al Consejero competente en materia de medio ambiente.
+2. El mismo trámite se seguirá cuando la discrepancia se refiera a la conveniencia de ejecutar un proyecto que pueda tener repercusiones negativas sobre espacios de la Red Natura 2000, si bien en este caso el Consejo de Gobierno sólo podrá resolver a favor de la ejecución del proyecto por razones imperiosas de interés público de primer orden, adoptando cuantas medidas compensatorias sean necesarias para garantizar la coherencia global de la Red Natura 2000, en la forma prevista y con los límites que resultan del artículo 45 de la Ley del Patrimonio Natural y la Biodiversidad. El acuerdo que se adopte se publicará en el Boletín Oficial de la Región de Murcia.
+3. La remisión, en su caso, de la información a la Comisión Europea sobre las medidas compensatorias que se hayan adoptado se llevará a cabo en los términos previstos en el artículo 10 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 97
+
+Artículo 97. Efectos de la declaración de impacto ambiental.
+De acuerdo con la legislación básica estatal, la declaración de impacto ambiental determinará, a los solos efectos ambientales, la conveniencia de realizar o no el proyecto, y en caso afirmativo, fijará las condiciones en que debe realizarse.
+
+### Artículo 98
+
+Artículo 98. Publicidad y caducidad de la declaración de impacto.
+1. La declaración de impacto ambiental, y en su caso, el acuerdo de resolución de la discrepancia, se harán públicos a través del Boletín Oficial de la Región de Murcia, indicando, al menos, los datos relativos al promotor, el tipo de proyecto y sus características esenciales, su ubicación exacta, el lugar en el que se encuentra el expediente, y la dirección electrónica en la que de forma permanente se podrá acceder al contenido completo de la declaración de impacto ambiental o de la resolución de la discrepancia. Cuando el proyecto se refiera a una instalación o actividad sujeta a autorización ambiental autonómica, la publicidad de la declaración de impacto ambiental se realizará junto con la propia autorización ambiental.
+2. La declaración de impacto ambiental del proyecto o actividad caducará si no se hubiera comenzado su ejecución en el plazo de cinco años. En tales casos, el promotor deberá iniciar nuevamente el trámite de evaluación ambiental del proyecto.
+3. No obstante, el órgano ambiental podrá resolver, a solicitud del promotor, que dicha declaración sigue vigente al no haberse producido cambios sustanciales en los elementos esenciales que han servido de base para realizar la evaluación ambiental del proyecto. El plazo máximo de emisión del informe sobre la revisión de la declaración de impacto ambiental será de sesenta días. Transcurrido dicho plazo sin que se haya emitido el citado informe, podrá entenderse vigente la declaración de impacto ambiental formulada en su día.
+4. A los efectos previstos en este artículo, el promotor de cualquier proyecto o actividad sometido a evaluación ambiental deberá comunicar al órgano ambiental, con la suficiente antelación, la fecha de comienzo de la ejecución del mismo.
+5. La decisión sobre la aprobación del proyecto se hará pública por el órgano sustantivo, con el alcance establecido en el texto refundido de la Ley de Evaluación de Impacto Ambiental.
+
+### Artículo 99
+
+Artículo 99. Seguimiento y vigilancia.
+1. Con carácter general, el seguimiento y vigilancia del cumplimiento de la declaración de impacto ambiental es responsabilidad de los órganos sustantivos que se determinan en el artículo 85 de esta ley, sin perjuicio de lo dispuesto en el artículo 5.1.
+2. No obstante, la propia declaración de impacto ambiental especificará:
+a) Aquellas condiciones que, por referirse a aspectos de la competencia municipal, integran el contenido propio de la licencia de actividad y deben ser vigiladas por el ayuntamiento.
+b) Aquellas condiciones que deban ser vigiladas por la Consejería con competencias en materia de medio ambiente, por la necesidad de aplicar conocimientos técnico ambientales específicos o porque sus especiales características así lo aconsejen.
+3. En todo caso, el órgano ambiental podrá recabar de los órganos encargados del seguimiento y vigilancia información al respecto, así como efectuar las comprobaciones necesarias en orden a verificar el cumplimiento del condicionado.
+Se modifica el apartado 1 por el art. 1.18 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica el apartado 1 por el art. único.18 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+
+## TÍTULO V
+
+Evaluación ambiental de planes y programas
+
+### Artículo 100
+
+Artículo 100. Objetivos y finalidad.
+1. La evaluación ambiental estratégica de planes y programas tiene por objetivo integrar los condicionantes medioambientales en su planificación, actuaciones y ordenación con anterioridad a su adopción o aprobación, promoviendo un adecuado desarrollo sostenible en sus dimensiones económicas, social y ambiental. Para ello, la legislación autonómica sectorial aplicable para la elaboración y aprobación de los distintos planes y programas por razón de su materia se adaptará a las condiciones establecidas en la presente ley y en la legislación básica estatal, en cuanto a los procedimientos de aprobación de los mismos, con la finalidad de asegurar en el procedimiento una mayor garantía de protección del medio ambiente y una completa participación pública e institucional en la elaboración, aplicación y desarrollo de los mismos.
+2. Cuando la evaluación ambiental estratégica se realice sobre planes o programas que forman parte de una misma jerarquía sobre el mismo ámbito territorial, y sea preciso llevar a cabo la evaluación ambiental de cada uno de ellos, esta se realizará teniendo en cuenta el contenido y el grado de especificación del plan, la fase del proceso de decisión en que se encuentre y la medida en que la evaluación de determinados aspectos pueda ser más adecuada en fases distintas de dicho proceso, con objeto de evitar la duplicidad de evaluaciones. Las diferentes administraciones públicas de la Región de Murcia intervinientes en la elaboración, aprobación y adopción de estos instrumentos deberán adoptar las medidas necesarias para evitar que se produzca una duplicidad de evaluaciones.
+A estos efectos, el documento inicial estratégico y territorial y el estudio ambiental estratégico, en su caso, del plan o programa deberán tener en cuenta la evaluación ya realizada y las decisiones tomadas en la evaluación del instrumento superior. Se utilizará la información aportada en otras fases de decisión, siempre que sea completa en relación con los efectos medioambientales del nuevo plan y sin perjuicio de su actualización.
+3. A los efectos de lo previsto en la disposición adicional quinta de la Ley 21/2013, de 9 de diciembre, en el trámite de evaluación ambiental estratégica de planes de ordenación territorial o urbanística que incluyan infraestructuras de titularidad estatal o regional, estas no deberán ser objeto de una nueva evaluación si en su planificación sectorial ya se ha realizado la evaluación ambiental conforme a lo dispuesto por dicha ley. En tales casos la administración competente para la aprobación del plan o programa podrá exigir que se tengan en cuenta los aspectos no específicamente considerados en la primera evaluación ambiental.
+4. A petición del promotor, y previa conformidad del órgano sustantivo, el órgano ambiental podrá acordar la tramitación simultánea del procedimiento de evaluación ambiental estratégica de planes y programas y del de evaluación de impacto ambiental de los proyectos que los desarrollen, siempre que concurra en ambos procedimientos el mismo órgano ambiental. No obstante, no podrá emitirse el informe de impacto ambiental o la declaración de impacto ambiental, en su caso, hasta tanto no se hayan emitido el informe ambiental estratégico o la declaración ambiental estratégica respectivamente, a las que quedará supeditada la primera, y siempre que estas últimas no hayan perdido su vigencia.
+Se modifica el apartado 2 por el art. 62.6 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifica por el art. 1.19 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica por el art. único.19 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se modifica por el art. 3.14 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.14 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 101
+
+Artículo 101. Planes y programas sometidos a evaluación ambiental estratégica.
+1. Serán objeto de evaluación ambiental estratégica ordinaria y simplificada en la Comunidad Autónoma de la Región de Murcia los planes y programas, así como sus modificaciones, que se encuentren dentro de los supuestos establecidas por la legislación básica estatal al efecto. Esta evaluación ambiental deberá realizarse en todo caso antes de la aprobación definitiva de dichos planes, programas o sus modificaciones, según lo indicado en la presente ley.
+2. La normativa sectorial aplicable a la finalidad del plan o programa, en el marco de la legislación básica estatal y en función de las condiciones que esta establezca para que un plan o programa o sus modificaciones deban ser sometido a evaluación ambiental estratégica, podrá establecer qué tipologías de planes y programas cumplen dichas condiciones. Así mismo podrá determinar el alcance de las modificaciones que se consideren menores o los planes considerados como zonas de reducida extensión, a efectos del procedimiento de evaluación ambiental a seguir.
+3. Se entenderá que un plan o programa establece un marco para la autorización en el futuro de proyectos, entendiendo proyecto con la definición que le da la Ley 21/2013, de 9 de diciembre, a efectos de la evaluación ambiental de proyectos, cuando en dicho plan o programa se incluyan condiciones determinantes para su aplicación directa en la autorización de futuros proyectos, ya sea en cuanto a su ubicación, naturaleza, dimensiones u otros requisitos específicos que los definan, independientemente de que estos estén sometidos a régimen de autorización, declaración responsable o de comunicación previa.
+Se modifica por el art. 1.20 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica por el art. único.20 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se modifica por el art. 3.14 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.14 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 102
+
+Artículo 102. Administración competente y órgano ambiental.
+1. Para los planes y programas y modificaciones de planes y programas, cuya elaboración y aprobación corresponda a la Comunidad Autónoma de la Región de Murcia, y para aquellos en cuyas distintas fases de aprobación intervengan tanto la administración local como la autonómica, correspondiendo a esta última la fase de aprobación final o definitiva, de acuerdo con la normativa sectorial que los regule, tendrá la condición de órgano ambiental el órgano autonómico con competencias en materia de medio ambiente, con independencia de que su iniciativa sea pública o privada.
+2. Para los planes y programas y modificaciones de planes y programas cuya elaboración, adopción o aprobación, corresponda íntegramente a las entidades locales, con independencia de que su iniciativa sea pública o privada, en los municipios con población superior a 50.000 habitantes, actuará como órgano ambiental el ayuntamiento correspondiente al ámbito territorial del plan o programa. Tratándose de municipios con población no superior a 50.000 habitantes, el órgano ambiental autonómico, mediante la suscripción del oportuno convenio, podrá delegar en el ayuntamiento el ejercicio de las funciones de órgano ambiental a que se refiere este apartado, cuando el ayuntamiento disponga de medios para llevarlas a cabo.
+3. Cuando los planes o programas incluyan actuaciones en materias cuya competencia la ostenten distintos órganos de la administración regional o local, se considerará órgano sustantivo aquel que ostente las competencias sobre la actividad a cuya finalidad se orienta el plan o programa, con prioridad sobre los órganos que ostentan competencias sobre actividades instrumentales o complementarias respecto a aquella. En los planes y programas en cuyas distintas fases de aprobación intervengan tanto la Administración local como la autonómica, actuará como órgano sustantivo el ayuntamiento correspondiente al ámbito territorial del plan.
+4. Los distintos órganos de la administración autonómica y de las entidades locales tendrán en cuenta una adecuada separación de las funciones que puedan dar lugar a un conflicto de intereses cuando el órgano ambiental sea simultáneamente el órgano sustantivo en el proceso de evaluación ambiental del plan o programa.
+Se modifica por el art. 1.21 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica por el art. único.21 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se modifica por el art. 3.14 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Téngase en cuenta la disposición transitoria 3 de la citada ley en relación con los órganos ambientales municipales.
+ Se modifica por el art. 3.14 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 103
+
+Artículo 103. Fases de la evaluación ambiental estratégica.
+1. Los planes sometidos a evaluación ambiental estratégica serán objeto de evaluación estratégica ordinaria o simplificada en los supuestos establecidos en la legislación básica estatal con las particularidades que correspondan según la normativa sectorial aplicable.
+2. Las fases de la evaluación ambiental estratégica son las siguientes:
+a) Solicitud de inicio.
+b) Consultas previas a las administraciones públicas afectadas y a las personas interesadas.
+c) Documento de alcance del estudio ambiental estratégico, en el caso del procedimiento ordinario, o del Informe Ambiental Estratégico en el caso del procedimiento simplificado.
+d) Formulación por el promotor de una versión inicial del plan o programa que incluirá el estudio ambiental estratégico u otros estudios territoriales determinados por la legislación sectorial.
+e) Sometimiento por el órgano sustantivo de la versión inicial del plan o programa a información pública, informes sectoriales preceptivos y consultas ambientales a las administraciones públicas afectadas.
+f) Elaboración de la propuesta provisional del plan o programa por el promotor atendiendo al resultado de la fase anterior y remisión al órgano ambiental para la declaración ambiental estratégica.
+g) Remisión de la propuesta del plan o programa al órgano ambiental para la declaración ambiental estratégica. Análisis técnico del expediente
+h) En su caso, adaptación por el promotor de la propuesta del plan o programa a la declaración ambiental estratégica. Declaración ambiental estratégica
+i) Si fuera necesario, de acuerdo con los criterios establecidos en esta ley o en la legislación sectorial aplicable, nueva información pública del plan o programa.
+j) Aprobación del plan o programa y publicidad.
+3. El procedimiento de evaluación ambiental estratégica ordinario y el de evaluación de planes y programas sometidas a evaluación estratégica simplificada en los que el Informe ambiental estratégico determine que estos tienen efectos significativos sobre el medio ambiente y por tanto deben ser sometidos al procedimiento ordinarios, comprenderán todas las fases recogidas en el punto anterior.
+4. El procedimiento de evaluación ambiental estratégica simplificada comprenderá las fases descritas en las letras a), b), y c) del apartado 2 y finalizará con la emisión por el órgano ambiental de la resolución de informe ambiental estratégico, siempre que en esta se determine bien que el plan no tiene efectos significativos sobre el medio ambiente, o bien que el plan o programa es inviable ambientalmente.
+5. La documentación del plan o programa deberá ser accesible al público y a las administraciones públicas afectadas y podrá ser consultada en cada fase del procedimiento, para ello, y mientras no esté disponible la plataforma de intermediación prevista en el artículo 5.4 de esta ley, el órgano sustantivo y el órgano ambiental, según la fase en la que intervengan, adoptarán las medidas necesarias para que sean accesibles por medios electrónicos los siguientes documentos: el borrador del plan o programa, que incluirá el documento inicial estratégico, el documento de alcance del estudio ambiental estratégico o la resolución del informe ambiental estratégico; la versión inicial del plan que contendrá el estudio ambiental estratégico y otros estudios territoriales requeridos por la legislación sectorial, en su caso, el resultado de las consultas y de la información pública, la propuesta provisional del plan o programa y la declaración ambiental estratégica.
+Se modifica por el art. 62.7 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifica el apartado 2 por el art. 3.4 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
+ Se modifica el apartado 2 por el art. único.4 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
+ Se añade por el art. 1.22 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Este artículo ya fue añadido por el Decreto-ley 5/2020, de 7 de mayo.
+ Se añade por el art. único.22 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se deroga por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 2/2016, de 20 de abril.
+ Se deroga por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+
+### Artículo 104
+
+Artículo 104. Inicio del procedimiento. Solicitud de inicio.
+1. El procedimiento de evaluación ambiental estratégica se iniciará, dentro del procedimiento sustantivo de adopción o aprobación del plan, bien por la presentación ante el órgano sustantivo de la correspondiente solicitud de inicio por parte del promotor, o bien por acuerdo de inicio del procedimiento de evaluación ambiental estratégica por el órgano sustantivo cuando este sea a su vez el promotor del plan o programa. A la solicitud se acompañará un borrador del plan o programa, o de su modificación, que incluirá la documentación exigida por la normativa sectorial, en su caso, y un documento inicial estratégico, que, en el caso de que el procedimiento de evaluación sea simplificado, se denominará documento ambiental estratégico.
+2. El documento inicial estratégico contendrá, expresado de modo sucinto, preliminar y esquemático, y en relación con el ámbito territorial afectado por el plan o programa o su modificación, los siguientes extremos:
+a) Los objetivos de la planificación.
+b) El alcance y contenido del plan o programa propuesto y de sus alternativas razonables, técnica y ambientalmente viables.
+c) El desarrollo previsible del plan o programa.
+d) Un diagnóstico de la situación del medio ambiente antes del desarrollo del plan o programa en el ámbito territorial afectado.
+e) Sus efectos previsibles sobre el medio ambiente y, si procede su cuantificación, y los potenciales impactos tomando en consideración el cambio climático.
+f) Las incidencias o efectos previsibles sobre los planes sectoriales concurrentes.
+3. En los supuestos contemplados en el artículo 101 de esta ley en los que corresponda llevar a cabo el procedimiento de evaluación ambiental estratégica simplificada y el promotor no haya optado por el procedimiento ordinario, el documento ambiental estratégico deberá incluir, además de la información incluida en el apartado anterior, la siguiente:
+a) La motivación de la aplicación del procedimiento de evaluación ambiental estratégica simplificada.
+b) Un resumen de los motivos de la selección de las alternativas contempladas.
+c) Las medidas previstas para prevenir, reducir y, en la medida de lo posible, corregir cualquier efecto negativo relevante en el medio ambiente derivado de la aplicación del plan o programa, así como para mitigar su incidencia sobre el cambio climático y su adaptación al mismo.
+d) Una descripción de las medidas previstas para el seguimiento ambiental del plan.
+4. Cuando se trate de planes o programas relativos a la ordenación del territorio o el planeamiento urbanístico, el borrador del plan contendrá como mínimo, con independencia de la documentación exigida por la legislación sectorial, en su caso, la delimitación de su ámbito territorial y de aplicación, los criterios, objetivos, alternativas y soluciones generales, estructura general, preordenación y zonificación básicas.
+5. El órgano sustantivo comprobará que la documentación presentada por el promotor incluye los documentos señalados en los apartados anteriores, y que se ajusta a lo determinado en la legislación sectorial aplicable, en su caso; de no ser así, requerirá al promotor su subsanación en el plazo máximo de diez días hábiles, y, una vez subsanada la documentación, la remitirá al órgano ambiental, debidamente datada e identificada y acompañada de la solicitud o acuerdo de inicio del procedimiento de evaluación ambiental, poniéndola además a su disposición por medios electrónicos según lo dispuesto en el artículo 103.5. El plazo máximo para esta remisión será de un mes desde la fecha de solicitud o acuerdo de inicio del procedimiento de evaluación ambiental.
+6. El órgano ambiental dispondrá de un plazo máximo de tres meses, desde la recepción de la documentación remitida por el órgano sustantivo, para la emisión de la resolución del informe ambiental estratégico o del documento de alcance, según corresponda.
+7. En el plazo máximo de veinte días desde su recepción, el órgano ambiental comprobará la documentación y, si apreciara que no contiene alguno de los documentos señalados en esta ley, requerirá al promotor, informando de ello al órgano sustantivo, para que en el plazo de quince días proceda a la subsanación de la documentación, suspendiéndose el cómputo del plazo para la finalización de la evaluación durante el período comprendido entre la notificación del requerimiento al promotor y su subsanación. Si así no lo hiciera, se le tendrá por desistido de su petición de evaluación ambiental, previa resolución del órgano ambiental. Este plazo podrá ser ampliado hasta diez días, a petición del interesado o a iniciativa del órgano ambiental, cuando la aportación de los documentos requeridos presente dificultades especiales.
+8. Si el órgano ambiental estimara de modo inequívoco que el plan o programa es manifiestamente inviable por razones ambientales, o cuando el documento inicial estratégico no reúna condiciones de calidad suficientes en los aspectos ambientales apreciadas por dicho órgano, o cuando se hubiese inadmitido o se hubiere dictado una declaración ambiental estratégica desfavorable en un plan o programa análogo al presentado, podrá declarar la inadmisión en el plazo de veinte días desde su recepción. Previamente, deberá dar audiencia al órgano sustantivo y al promotor, por un plazo de quince días, que suspenderá el plazo para declarar la inadmisión.
+La resolución por la que se acuerde la inadmisión justificará las razones por las que se aprecia la causa de la misma, y frente a esta resolución podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial, en su caso.
+9. La documentación que solicite el órgano ambiental directamente al promotor para subsanación de deficiencias a lo largo de todo el proceso de evaluación ambiental, será presentada por este directamente ante el órgano ambiental, el cual remitirá copia de la misma, debidamente datada e identificada, al órgano sustantivo para su conocimiento y efectos, poniéndola a su disposición por medios telemáticos.
+Se modifican los apartados 1 y 3 por el art. 3.5 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
+ Se modifican los apartados 1 y 3 por el art. único.5 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
+ Se añade por el art. 1.22 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Este artículo ya fue añadido por el Decreto-ley 5/2020, de 7 de mayo.
+ Se añade por el art. único.22 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se deroga por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 2/2016, de 20 de abril.
+ Se deroga por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+
+### Artículo 105
+
+Artículo 105. Consultas previas a las administraciones públicas afectadas y pronunciamiento del órgano ambiental.
+1. El órgano ambiental someterá el documento que contiene el borrador del plan o programa y el documento inicial estratégico ambiental a consultas de las administraciones públicas afectadas en sus competencias específicas por el objeto, ámbito territorial o determinaciones del plan o programa y a las personas interesadas, según la definición dada en el artículo 3.4.c), que deberán pronunciarse en el plazo máximo de treinta días hábiles en el caso de evaluación ambiental estratégica ordinaria y veinte días hábiles en el caso de simplificada, desde la recepción de la consulta.
+Cuando las personas interesadas que deban ser consultadas sean desconocidas por el órgano ambiental, la notificación se realizará mediante edicto publicado en el “Boletín Oficial del Estado” o diario oficial correspondiente, en el que se indicará la dirección electrónica de acceso a la información, debiendo acreditar dichas personas su condición de interesados en el expediente y presentar sus alegaciones en el plazo de treinta días hábiles.
+2. El objeto de estas consultas es el pronunciamiento de dichas administraciones públicas y de las personas interesadas sobre los siguientes aspectos:
+a. En el caso de planes o programas sometidos al procedimiento simplificado deberán indicar justificadamente si el plan o programa, en función de la documentación remitida, y con las medidas de reducción, prevención, corrección y seguimiento indicadas, puede tener o no efectos significativos, es decir, alteraciones de carácter permanente o de larga duración, en lo relativo a sus competencias e intereses.
+b. En el caso de que considere que puede tener dichos efectos deberá señalar los aspectos en relación únicamente con la incidencia del plan o programa en sus competencias, que deberá recoger, en su caso, el estudio ambiental estratégico del plan o programa, indicando su amplitud, nivel de detalle y grado de especificación.
+3. Una vez recibidos los pronunciamientos de las administraciones públicas afectadas y personas interesadas, o transcurrido el plazo otorgado para ello, si el órgano ambiental dispone de criterios suficientes para resolver, el órgano ambiental elaborará y remitirá junto con las respuestas a las consultas realizadas, al promotor y al órgano sustantivo, según proceda, uno de los documentos siguientes:
+a) Para los planes o programas sometidos a evaluación ambiental estratégica ordinaria: un documento de alcance del estudio ambiental estratégico en el que se determinará la amplitud, nivel de detalle y grado de especificación que debe tener el citado estudio en relación con los efectos significativos señalados en el proceso de consultas, incluirá además las respuestas recibidas a las consultas realizadas indicando las administraciones públicas que se han considerado relevantes para la emisión de este documento y las personas interesadas que han participado en la fase de consultas, debiendo ser consultadas todas ellas en la fase posterior de la evaluación, e instará a la continuación del procedimiento ordinario de evaluación.
+b) En el caso de que el órgano ambiental considere de forma inequívoca y de acuerdo con los criterios establecidos en la legislación estatal básica para determinar si un plan o programa debe someterse a evaluación ambiental estratégica ordinaria y el análisis técnico de las respuestas recibidas, que el plan o programa es manifiestamente inviable por razones medioambientales, podrá emitir una resolución de informe ambiental estratégico en el que se determinará la inviabilidad ambiental del mismo. Contra esta resolución podrán interponerse los recursos legalmente procedentes en vía administrativa o judicial, en su caso.
+c) Para los planes o programas sometidos a evaluación ambiental estratégica simplificada, el órgano ambiental determinará, de acuerdo con los criterios establecidos en la normativa básica estatal, si puede tener efectos significativos sobre el medio ambiente y debe someterse a evaluación ambiental estratégica ordinaria, en cuyo caso emitirá el documento de alcance citado en el apartado anterior. En caso contrario, y por considerar que el plan o programa no tiene efectos significativos sobre el medio ambiente, se emitirá una resolución de informe ambiental estratégico, en el que se incluirán las medidas adicionales a incluir en el plan o programa para prevenir, reducir o minimizar cualquier otro efecto negativo sobre el medio ambiente que resulten de las consultas realizadas a las administraciones públicas. Con este acto administrativo finalizará la evaluación ambiental estratégica simplificada, pudiendo continuar el procedimiento sustantivo de aprobación del plan o programa, en la forma y fases previstas por la legislación sectorial aplicable en razón de la naturaleza del mismo y, en el caso de que se trate de instrumentos de ordenación territorial o planeamiento urbanístico, previa inclusión en el expediente de los informes preceptivos señalados en el artículo 22.3 del Texto Refundido de la Ley del Suelo y Rehabilitación Urbana, relativo a la evaluación y seguimiento de la sostenibilidad del desarrollo urbano. Esta resolución no será susceptible de recurso alguno, sin perjuicio de los que, en su caso, procedan en vía administrativa o judicial contencioso-administrativa frente a la disposición de carácter general que hubiese aprobado el plan o programa.
+No se tendrán en cuenta los informes que se reciban con posterioridad a la emisión de cualquiera de los documentos recogidos en este punto.
+4. Si transcurrido el plazo para la emisión de informes de las administraciones públicas afectadas que resulten relevantes en el procedimiento por el objeto y naturaleza del plan, sin que hayan sido recibidos, o si aun habiéndose recibido, el órgano ambiental justificadamente no dispusiese de información suficiente para formarse criterio para la elaboración del documento de alcance o la emisión del informe ambiental estratégico, el órgano ambiental requerirá personalmente al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe, para que, en el plazo de diez días hábiles, contados a partir de la recepción del requerimiento, ordene al órgano competente la entrega del correspondiente informe en el plazo de diez días hábiles, sin perjuicio de las responsabilidades en que pudiera incurrir el responsable de la demora. El requerimiento efectuado se comunicará al órgano sustantivo y al promotor y suspende el plazo previsto en el artículo 104.6.
+5. En todo caso, el promotor podrá reclamar a la Administración competente la emisión del informe, a través del procedimiento previsto en el artículo 29.1 de la Ley 29/1998, de 13 julio, de la Jurisdicción Contencioso-Administrativa.
+6. El documento de alcance o el informe ambiental estratégico, según corresponda, se publicará en el “Boletín Oficial de la Región de Murcia” en el plazo de los diez días hábiles siguientes a partir de su formulación, sin perjuicio de su publicación en la sede electrónica del órgano ambiental y en la forma prevista en el artículo 5.4.
+7. El informe ambiental estratégico perderá su vigencia y cesará en la producción de los efectos que le son propios si, una vez publicado en el BORM no se hubiera procedido a la aprobación del plan o programa en el plazo máximo de cuatro años desde su publicación. En tales casos, el promotor deberá iniciar nuevamente el procedimiento de evaluación ambiental estratégica simplificada del plan o programa.
+Se modifican los apartados 1 y 6 por el art. 3.6 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
+ Se modifican los apartados 1 y 6 por el art. único.6 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
+ Se añade por el art. 1.22 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Este artículo ya fue añadido por el Decreto-ley 5/2020, de 7 de mayo.
+ Se añade por el art. único.22 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se deroga por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 2/2016, de 20 de abril.
+ Se deroga por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+
+### Artículo 106
+
+Artículo 106. Elaboración de la versión inicial del plan o programa y del estudio ambiental estratégico.
+1. Una vez emitido el documento de alcance del estudio ambiental estratégico, el promotor elaborará la versión inicial del plan, que estará integrada por todos los documentos establecidos por la legislación sectorial aplicable y el estudio ambiental estratégico, que se realizará con el grado de precisión y detalle indicados en el documento de alcance y teniendo en cuenta el objetivo, contenido y escala de actuación del plan o programa, así como la fase de actuación en la que se encuentra y la medida en que la evaluación necesite ser complementada en otras fases del procedimiento. Esta documentación se deberá presentar ante el órgano sustantivo en el plazo máximo de tres meses desde la publicación en el Boletín Oficial de la Región de Murcia del documento de alcance. El estudio ambiental estratégico incluirá además del contenido mínimo exigido por la legislación estatal básica, todos los estudios exigidos por la legislación sectorial aplicable según la naturaleza del plan, en su caso, destinados a la evaluación del impacto del plan en el medio ambiente, las infraestructuras, la población, el paisaje, el patrimonio cultural o en los usos del suelo, especialmente y siempre que se trate de instrumentos de ordenación territorial o planeamiento urbanístico de actuaciones de urbanización, incluirá además un mapa de riesgos naturales del ámbito de ordenación según lo dispuesto por el artículo 22.2 del texto refundido de la Ley del Suelo y Rehabilitación Urbana, aprobado por Real Decreto Legislativo 7/2015, de 30 de octubre, referido a la evaluación y seguimiento de la sostenibilidad del desarrollo urbano.
+2. Para la elaboración del estudio ambiental estratégico se utilizará la información territorial y ambiental pertinente y actualizada disponible en las distintas administraciones públicas y se podrá utilizar la información disponible que se haya obtenido en la elaboración de los planes y programas promovidos por la misma administración pública que promueve el plan o programa, o por otras administraciones públicas.
+Se modifica por el art. 62.8 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifica el apartado 1 por el art. 3.7 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
+ Se modifica el apartado 1 por el art. único.7 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
+ Se añade por el art. 1.22 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Este artículo ya fue añadido por el Decreto-ley 5/2020, de 7 de mayo.
+ Se añade por el art. único.22 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se deroga por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 2/2016, de 20 de abril.
+ Se deroga por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+
+### Artículo 107
+
+Artículo 107. Información pública, informes sectoriales preceptivos y consultas ambientales a las administraciones públicas afectadas. Expediente de evaluación ambiental estratégica.
+1. El órgano sustantivo en el plazo máximo de seis meses desde la recepción de la versión inicial del plan, integrada por la documentación señalada en el artículo 106.1, comprobará que la misma es completa y acorde con la legislación aplicable y llevará a cabo la información pública, la solicitud de informes preceptivos según la normativa sectorial aplicable y las consultas ambientales de forma simultánea, dado que todos ellos son necesarios para conformar el plan que se somete a evaluación ambiental, así como la emisión de informe sobre el resultado del trámite de información pública y las consultas realizadas remitiéndolo al promotor junto con las respuestas y alegaciones recibidas.
+2. La información pública se llevará a cabo durante un periodo mínimo de cuarenta y cinco días hábiles, mediante publicación en el BORM, en la que se indicará la dirección electrónica en la que está disponible, salvo que la legislación sectorial establezca un plazo superior, en cuyo caso se aplicará el de la legislación sectorial. Esta información pública se realizará tanto a los efectos de la evaluación ambiental estratégica como a los efectos de la normativa sectorial, lo que se indicará en el correspondiente anuncio de publicación.
+3. Se efectuarán consultas por razón de la evaluación ambiental estratégica a las administraciones públicas consultadas según el artículo 105 y señaladas en el documento de alcance. En el caso de que los informes preceptivos sectoriales, que hayan de realizarse en esta fase según la normativa sectorial aplicable, y las consultas ambientales deban dirigirse a un mismo órgano, se acumularán las peticiones en un mismo acto, indicándose en la solicitud ambos motivos de petición.
+El órgano consultado dispondrá de un plazo de treinta días hábiles para emitir su informe, salvo que la legislación sectorial establezca un plazo superior, en cuyo caso se aplicará el de la legislación sectorial para ambos informes, debiendo señalar en el mismo cuales los aspectos concretos referidos a cuestiones medioambientales relacionadas con la incidencia del plan o programa en sus competencias específicas, a los efectos de ser tenidos en cuenta en la evaluación ambiental del plan, diferenciándolos de otros aspectos sectoriales de su competencia. En el caso de que se trate de instrumentos de ordenación territorial o planeamiento urbanístico de actuaciones de urbanización, según definición del artículo 7 del texto refundido de la Ley del Suelo y Rehabilitación Urbana, se solicitarán e incluirán en el expediente, además, los informes preceptivos señalados en el artículo 22.3 de la citada Ley, relativo a la evaluación y seguimiento de la sostenibilidad del desarrollo urbano, u otros informes sectoriales que procedan según la legislación sectorial aplicable.
+4. Se realizarán así mismo las consultas a las personas interesadas, acumulándose en un mismo acto las que sean necesarias, en su caso, por disponerlo la normativa sectorial aplicable y las realizadas por razón de la evaluación ambiental estratégica del plan, de la forma indicada en el punto anterior, disponiendo estas de un plazo de treinta días hábiles para presentar alegaciones.
+Cuando el órgano sustantivo desconozca la identificación de estas personas podrá realizar las consultas ambientales mediante edicto publicado en el «Boletín Oficial del Estado» o diario oficial correspondiente, en el que se indicará la dirección electrónica de acceso a la información, debiendo acreditar dichas personas su condición de interesadas en el expediente y presentar sus alegaciones en el plazo de treinta días.
+5. El promotor, en el plazo máximo de dos meses desde la recepción de la documentación recogida en el punto 1 anterior, deberá elaborar y presentar ante el órgano sustantivo la propuesta del plan o programa, introduciendo en la versión inicial y en el estudio ambiental estratégico las modificaciones que se deriven del proceso de información y consultas, e incluyendo un resumen de cómo se han tenido en cuenta los informes y alegaciones recibidas.
+6. Una vez comprobado que la propuesta provisional del plan y el estudio ambiental estratégico son completos y acordes con la normativa sectorial aplicable y con lo dispuesto en la presente Ley, y en el plazo máximo de un mes desde la finalización de los trámites anteriores, el órgano sustantivo conformará y remitirá al órgano ambiental el expediente de evaluación ambiental estratégica, poniéndolo además a su disposición de acuerdo con lo dispuesto en el artículo 5.4, para la elaboración de la Declaración Ambiental Estratégica.
+7. El expediente de evaluación ambiental estratégica incluirá la siguiente documentación debidamente datada e identificada:
+a) La versión inicial del plan o programa y el estudio ambiental estratégico que fue sometida a las consultas e información pública.
+b) La documentación relativa a los procesos de información pública, informes y consultas, con una relación de las administraciones públicas consultadas y de los informes recibidos, así como copia de las alegaciones e informes recibidos. Se incluirán, en su caso, las consultas transfronterizas, así como su consideración.
+c) La descripción de cómo se han integrado en la propuesta provisional del plan o programa los aspectos ambientales y de cómo se ha tomado en consideración el documento de alcance, el estudio ambiental estratégico y el resultado de las consultas e información pública, realizada por el promotor.
+d) La justificación por parte del órgano sustantivo de que se han cumplido las previsiones legales propias del proceso de elaboración y evaluación ambiental del plan o programa de acuerdo con esta ley y con la normativa sectorial aplicable.
+e) La propuesta provisional del plan acompañada del estudio ambiental estratégico correspondiente a la misma.
+Se modifica por el art. 62.9 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifican los apartados 1 a 6 por el art. 3.8 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
+ Se modifican los apartados 1 a 6 por el art. único.8 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
+ Se añade por el art. 1.22 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Redactado el apartado 6 conforme a la corrección de errores publicada en el BORM núm. 280, de 2 de diciembre de 2020. Ref. BORM-s-2020-90486
+ Este artículo ya fue añadido por el Decreto-ley 5/2020, de 7 de mayo.
+ Se añade por el art. único.22 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se deroga por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 2/2016, de 20 de abril.
+ Se deroga por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+
+### Artículo 108
+
+Artículo 108. Análisis técnico del expediente y Declaración Ambiental Estratégica.
+1. El órgano ambiental realizará el análisis técnico del expediente y emitirá la declaración ambiental estratégica en el plazo máximo de cuatro meses desde la recepción del expediente de evaluación ambiental estratégica.
+2. El órgano ambiental realizará un análisis técnico del expediente, considerando los siguientes aspectos:
+a) Verificará que el expediente de evaluación ambiental estratégica contenga la documentación prevista en el artículo anterior.
+b) Analizará los impactos significativos de la aplicación del plan o programa en el medio ambiente, que incluirá la evolución de los elementos del medio ambiente que tomará en consideración el cambio climático.
+3. Si durante el análisis técnico del expediente de evaluación ambiental estratégica el órgano ambiental estimara que la información pública o las consultas no se han realizado conforme a lo establecido en esta ley y en el documento de alcance emitido por el mismo, requerirá, en el plazo máximo de un mes desde la recepción del expediente, al órgano sustantivo para que subsane el expediente de evaluación ambiental estratégica en el plazo máximo de tres meses. En estos casos se suspenderá el cómputo del plazo para la formulación de la declaración ambiental estratégica.
+4. Si transcurridos tres meses el órgano sustantivo no hubiera remitido el expediente subsanado, o si una vez presentado fuera insuficiente, el órgano ambiental dará por finalizada la evaluación ambiental estratégica ordinaria, notificando al promotor y al órgano sustantivo la resolución de terminación.
+Contra esta resolución podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial en su caso.
+5. Si durante el análisis técnico del expediente de evaluación ambiental estratégica el órgano ambiental concluyera que es necesaria información adicional para formular la declaración ambiental estratégica solicitará al promotor la información que sea imprescindible, informando de ello al órgano sustantivo, que complete el expediente para que la aporte en el plazo de un mes. Esta solicitud suspende el plazo para la formulación de la declaración ambiental estratégica.
+6. Si transcurrido dicho plazo el promotor no hubiera remitido la documentación adicional solicitada, o si una vez presentada esta fuera insuficiente, el órgano ambiental dará por finalizada la evaluación ambiental estratégica ordinaria, notificando al promotor y al órgano sustantivo la resolución de terminación. Contra esta resolución podrán interponerse los recursos legalmente procedentes en vía administrativa y judicial, en su caso.
+7. El órgano ambiental continuará con el procedimiento siempre que disponga de los elementos de juicio suficientes para la formulación de la declaración ambiental estratégica.
+8. Si en el expediente de evaluación ambiental estratégica no constara alguno de los informes de las Administraciones públicas afectadas, consultadas conforme a lo previsto en el documento de alcance, y el órgano ambiental no dispusiera de elementos de juicio suficientes para realizar la evaluación ambiental estratégica, en el plazo máximo de un mes desde la recepción del expediente requerirá personalmente al titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe para que, en el plazo de diez días, contados a partir de la recepción del requerimiento, ordene al órgano competente la entrega del correspondiente informe en el plazo de diez días, sin perjuicio de las responsabilidades en que pudiera incurrir el responsable de la demora. El requerimiento efectuado se comunicará al órgano sustantivo y al promotor, y suspende el plazo para la formulación de la declaración ambiental estratégica.
+9. Si transcurrido el plazo de diez días el órgano ambiental no hubiese recibido el informe, comunicará al órgano sustantivo y al promotor la imposibilidad de continuar el procedimiento.
+10. En todo caso, el promotor podrá reclamar a la Administración competente la emisión del informe a través del procedimiento previsto en el artículo 29 de la Ley 29/1998, de 13 de julio, de Jurisdicción Contencioso-Administrativa.
+11. Una vez realizado el análisis técnico el órgano ambiental formulará la declaración ambiental estratégica, que contendrá una exposición de los hechos que resuma los principales hitos del procedimiento, incluyendo los resultados de las consultas y de la información pública, y las determinaciones, medidas o condiciones finales que deban incorporarse en el plan o programa, con carácter previo a su aprobación.
+12. La declaración ambiental estratégica será coherente con el documento de alcance y las demás actuaciones de la administración y especialmente del órgano ambiental a lo largo del procedimiento. La declaración ambiental estratégica debe ponderar y armonizar el resultado de los informes y documentos que precedan su emisión, con una valoración razonada de su relevancia y contenido, resolviendo motivadamente sobre las determinaciones finales que hayan de incorporarse al plan o programa o, en su caso, sobre la inviabilidad ambiental del plan o programa en los términos propuestos.
+13. La declaración ambiental estratégica, se publicará en el “Boletín Oficial de la Región de Murcia” en el plazo de los diez días hábiles siguientes a partir de su formulación, sin perjuicio de su publicación en la sede electrónica del órgano ambiental y según lo previsto en el artículo 5.4.
+14. La declaración ambiental estratégica tiene naturaleza de informe preceptivo y determinante, por lo que no procederá recurso alguno sin perjuicio de los que, en su caso, procedan en vía judicial frente a la disposición de carácter general que hubiese aprobado el plan o programa, o bien de los que procedan en vía administrativa o judicial frente al acto, en su caso, de adopción o aprobación del plan o programa.
+Se modifican los apartados 1 y 13 por el art. 3.9 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
+ Se modifican los apartados 1 y 13 por el art. único.9 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
+ Se añade por el art. 1.22 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Este artículo ya fue añadido por el Decreto-ley 5/2020, de 7 de mayo.
+ Se añade por el art. único.22 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se deroga por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 2/2016, de 20 de abril.
+ Se deroga por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+
+### Artículo 109
+
+Artículo 109. Aprobación del plan o programa sometido a evaluación ambiental estratégica ordinaria y publicidad.
+1. Una vez emitida la declaración ambiental estratégica, se remitirá al órgano sustantivo y al promotor, a los efectos de que se incluyan en el plan o programa, si las hubiera, las determinaciones establecidas en la citada declaración, conformando la propuesta final del plan o programa antes de su aprobación. Si el órgano sustantivo, de acuerdo con la normativa sectorial, no fuera el competente para la aprobación definitiva del plan o programa, verificará la inclusión de las determinaciones de la declaración ambiental y territorial estratégica, tomando en consideración razonada los estudios y documentos que la acompañan. Posteriormente podrá realizarse la aprobación definitiva del plan o programa por el órgano que corresponda según lo dispuesto por la legislación sectorial aplicable.
+2. En el plazo de diez días hábiles desde la aprobación definitiva del plan o programa, el órgano sustantivo publicará en el BORM y en su sede electrónica la siguiente documentación:
+a) La resolución, acuerdo o disposición de carácter general por la que se adopta o aprueba el plan o programa, y una referencia a la dirección electrónica en la que el órgano sustantivo pondrá a disposición del público el contenido íntegro de dicho plan o programa.
+b) Un extracto que incluya los siguientes aspectos:
+1.º De qué manera se han integrado en el plan o programa los aspectos ambientales.
+2.º Cómo se ha tomado en consideración en el plan o programa el estudio ambiental estratégico, los resultados de la información pública y de las consultas, incluyendo en su caso las consultas transfronterizas y la declaración ambiental estratégica, así como, cuando proceda, las discrepancias que hayan podido surgir en el proceso.
+3.º Las razones de la elección de la alternativa seleccionada, en relación con las alternativas consideradas.
+c) Las medidas adoptadas para el seguimiento de los efectos en el medio ambiente de la aplicación del plan o programa.
+Se modifica el apartado 2 por el art. 3.10 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
+ Se modifica el apartado 2 por el art. único.10 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
+ Se añade por el art. 1.22 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Este artículo ya fue añadido por el Decreto-ley 5/2020, de 7 de mayo.
+ Se añade por el art. único.22 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se deroga por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 2/2016, de 20 de abril.
+ Se deroga por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+
+### Artículo 110
+
+Artículo 110. Vigencia, prórroga y modificación de la declaración ambiental estratégica.
+1. La declaración ambiental estratégica perderá su vigencia y cesará en la producción de los efectos que le son propios si una vez publicada en el BORM no se hubiera adoptado o aprobado el plan o programa en todo su contenido en el plazo máximo de dos años. En tales casos, el promotor deberá iniciar nuevamente el trámite de evaluación ambiental estratégica del plan o programa.
+No obstante, este plazo podrá ser prorrogado por el órgano ambiental a solicitud del promotor. Esta solicitud suspenderá el plazo para la aprobación del plan o programa desde su recepción hasta el cumplimiento del plazo máximo para resolver sobre la misma.
+2. El órgano ambiental deberá resolver sobre la solicitud de prórroga en el plazo máximo de seis meses contados desde la fecha de presentación de la solicitud, transcurrido el cual sin que se haya notificado al promotor la prórroga de la vigencia de la declaración ambiental estratégica se entenderá estimada.
+3. A la vista de la solicitud de prórroga el órgano ambiental podrá acordar su concesión por un plazo de dos años más desde la finalización del plazo inicial de dos años indicado en el apartado anterior, teniendo en cuenta además el periodo de suspensión del mismo. La resolución podrá ser favorable en el caso de que no se hayan producido cambios sustanciales en los elementos esenciales que sirvieron de base para realizar la evaluación ambiental estratégica. A tal efecto el órgano ambiental, previamente a la resolución consultará a las Administraciones Públicas afectadas por razón de la materia en relación con los elementos esenciales que sirvieron de base para realizar la evaluación ambiental estratégica.
+Estas Administraciones deberán pronunciarse en el plazo de un mes, que podrá ampliarse, por razones debidamente justificadas, por un mes más.
+4. La modificación de la declaración ambiental estratégica podrá llevarse a cabo en la forma y plazos establecidos por la legislación básica estatal, con las particularidades siguientes:
+a) Las administraciones públicas afectadas y las personas interesadas a las que se consultará en el procedimiento de modificación serán las consultadas previamente según lo dispuesto en los artículos 107 y 108 de esta ley.
+b) La resolución de modificación de la declaración ambiental estratégica deberá ser publicada en igual forma y plazos que la emitida anteriormente y mantendrá su vigencia y efectos por el tiempo que restara a la que ha sido objeto de modificación.
+c) En el plazo de 15 días se remitirá al BORM para su publicación y se publicará en la sede del órgano ambiental y en la forma prevista en el artículo 5.4. A su vez se comunicará al promotor y al órgano sustantivo a efectos de su integración en el plan o programa.
+Se añade por el art. 1.22 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Este artículo ya fue añadido por el Decreto-ley 5/2020, de 7 de mayo.
+ Se añade por el art. único.22 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se deroga por la disposición derogatoria de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#dd.
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 2/2016, de 20 de abril.
+ Se deroga por la disposición derogatoria del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341
+
+### Artículo 111
+
+Artículo 111. Reglas de inserción del trámite de evaluación ambiental en los procedimientos de planeamiento urbanístico.
+(Derogado).
+Se deroga por la disposición derogatoria 1.b) de la Ley 13/2015, de 30 de marzo. Ref. BOE-A-2015-4790.
+
+## TÍTULO VI
+
+Fomento del medio ambiente y lucha frente al cambio climático
+
+## CAPÍTULO I
+
+Medidas de fomento de la calidad ambiental
+
+### Artículo 112
+
+Artículo 112. Acuerdos voluntarios. Registro de compromisos voluntarios de responsabilidad ambiental.
+1. La Consejería competente en materia de medio ambiente promoverá la celebración de acuerdos con los agentes económicos, profesionales y sociales de la Región, que tengan por objeto la adopción de medidas de ecoeficiencia y sostenibilidad ambiental o la reducción de la carga contaminante emitida, más allá de los límites exigidos por la legislación vigente.
+2. Los acuerdos voluntarios tendrán fuerza ejecutiva entre las partes que los suscriban, y serán públicos. Los resultados del cumplimiento de estos acuerdos serán objeto de publicidad y de seguimiento periódico por la Consejería con competencias en materia de medio ambiente.
+3. La Consejería con competencias en materia de medio ambiente creará un registro público de compromisos voluntarios de responsabilidad ambiental, y promoverá que los esfuerzos realizados alcancen reconocimiento social, y procuren, en su caso, ventajas competitivas para quienes los asumen.
+
+### Artículo 113
+
+Artículo 113. Investigación, desarrollo e innovación en materia de medio ambiente.
+1. La Comunidad Autónoma de la Región de Murcia y los ayuntamientos, en el ámbito de sus competencias, fomentarán e incentivarán la investigación, el desarrollo y la innovación ambiental, incluyendo tecnologías y procedimientos, productos y servicios, y métodos de gestión cuya utilización sea menos perjudicial al medio ambiente que otras alternativas disponibles.
+2. Las actuaciones de fomento de la ecoinnovación se canalizarán hacia las áreas y sectores prioritarios para la sostenibilidad ambiental. Dentro de cada sector o área prioritaria se fomentarán preferentemente aquellas acciones que consigan un mayor aprovechamiento de los recursos naturales, que den solución a problemas ambientales específicos de la Región, y que contribuyan a la competitividad y al crecimiento ambientalmente sostenible de los tejidos productivos.
+3. En particular, la Comunidad Autónoma de la Región de Murcia y los ayuntamientos impulsarán la ecoinnovación mediante el análisis y difusión de novedades, el apoyo a experiencias de éxito, iniciativas y proyectos de demostración; y desarrollarán ellos mismos proyectos innovadores y/o ejemplificadores en el marco de sus propias infraestructuras y en la prestación de sus servicios.
+
+### Artículo 114
+
+Artículo 114. Responsabilidad social corporativa.
+1. La Comunidad Autónoma de la Región de Murcia y los ayuntamientos, en el ámbito de sus competencias, estimularán la contribución al desarrollo sostenible de las empresas y todas las organizaciones, públicas y privadas, que aportan un valor añadido a la sociedad, promoviendo entre ellas la responsabilidad social corporativa, para que tomen en consideración de manera integrada la repercusión ambiental, social y económica de sus decisiones, responsabilizándose así de las consecuencias y los impactos que se derivan de ellas para el conjunto de sus trabajadores, clientes, proveedores, accionistas, para el medio ambiente y la sociedad en general.
+2. La Comunidad Autónoma de la Región de Murcia y los ayuntamientos, en el ámbito de sus competencias, fomentarán la asunción voluntaria de buenas prácticas ambientales por empresas, actividades y ciudadanos, mediante la difusión de guías y otras medidas adecuadas.
+
+### Artículo 115
+
+Artículo 115. Fomento de la responsabilidad ambiental de las empresas y actividades.
+1. La Comunidad Autónoma de la Región de Murcia y los ayuntamientos, en el ámbito de sus competencias, podrán conceder incentivos y ayudas para aquellas medidas adoptadas por las industrias y actividades que contribuyan directamente la mejora de la calidad del medio ambiente.
+2. La Consejería con competencias en materia de medio ambiente promoverá entre las empresas y actividades la incorporación de consideraciones ambientales en el diseño de los productos y servicios, para que valoren el impacto que éstos pueden tener en el medio ambiente a lo largo de todas las etapas que forman su ciclo de vida.
+Igualmente promoverá que las empresas y actividades, aunque no estén legalmente obligadas a ello, informen al público de los impactos que sus servicios o productos pueden generar en el medio ambiente durante todas las etapas de su ciclo de vida, con el fin de que aquellos productos con menor repercusión ambiental puedan obtener ventajas competitivas.
+3. Con el fin de reducir la generación de residuos, la Consejería con competencias en materia de medio ambiente fomentará el mercado de subproductos en la Región de Murcia.
+
+### Artículo 116
+
+Artículo 116. Formación y asesoramiento de empresas.
+La Comunidad Autónoma de la Región de Murcia y los ayuntamientos, en el ámbito de sus competencias, en colaboración con las asociaciones existentes en el ámbito empresarial, apoyarán e impulsarán el conocimiento de las obligaciones legales, las ayudas públicas y oportunidades existente en materia de medio ambiente para los distintos sectores de la actividad económica, en especial entre las pequeñas y medianas empresas de la Región de Murcia, mediante programas de formación específica, difusión de la información disponible y otras medidas de apoyo.
+
+### Artículo 117
+
+Artículo 117. Educación ambiental y sensibilización pública e implantación de la Agenda Local 21.
+1. La Comunidad Autónoma de la Región de Murcia y los ayuntamientos, en el ámbito de sus competencias, fomentarán la educación ambiental y sensibilización del público, propiciando conocimientos, actitudes y pautas de comportamiento responsables con el medio ambiente y los recursos naturales. Prestarán especial interés a:
+a) El apoyo al movimiento asociativo y el fomento del voluntariado.
+b) La formación en los ámbitos educativos, profesionales, empresariales y a la población en general.
+c) La difusión de campañas de sensibilización pública y concienciación.
+d) La orientación al consumidor sobre los productos energéticamente más eficientes y menos contaminantes.
+2. A tal efecto, la Comunidad Autónoma de la Región de Murcia podrá colaborar en las actuaciones que se proyecten mediante la suscripción de los oportunos convenios con la Administración General del Estado, los ayuntamientos de la Región de Murcia, y asociaciones, instituciones y otras entidades que tengan por objeto la educación y sensibilización ambiental.
+3. La Comunidad Autónoma de la Región de Murcia y los ayuntamientos fomentarán la implantación de la Agenda Local 21.
+
+### Artículo 118
+
+Artículo 118. Fiscalidad ambiental.
+La Comunidad Autónoma de la Región de Murcia promoverá, en el ámbito de sus competencias, el uso de la fiscalidad ecológica y de otros instrumentos de política económica ambiental para contribuir a los objetivos de esta ley.
+
+## CAPÍTULO II
+
+Economía baja en carbono y adaptación a los impactos del cambio climático
+
+### Artículo 119
+
+Artículo 119. Generación de conocimiento para impulsar una economía baja en carbono y la adaptación a los impactos del cambio climático.
+1. La Consejería competente en materia de medio ambiente impulsará los trabajos de investigación aplicada y creación de bancos de experiencias de éxito que permitan definir para las actividades económicas, el transporte y el crecimiento urbano los modelos de mayor coherencia con una economía baja en carbono y con las predicciones sobre cambio climático.
+2. La Comunidad Autónoma de la Región de Murcia y los ayuntamientos, en el ámbito de sus competencias, elaborarán y aprobarán planes, proyectos y programas, de carácter general o sectorial, con la finalidad de conseguir una economía baja en carbono.
+3. La Consejería competente en materia de medio ambiente impulsará la creación de una red de observadores científicos, sectores empresariales afectados, instituciones responsables y ciudadanos, como plataforma del conocimiento sobre el cambio climático, sus consecuencias y posibilidades de adaptación.
+
+### Artículo 120
+
+Artículo 120. Impulso de acuerdos voluntarios para incentivar la reducción y compensación de emisiones.
+1. La Consejería competente en materia de medio ambiente incentivará la reducción voluntaria de emisiones de gases de efecto invernadero de aquellos sectores de actividad no sometidos a autorización de emisión de gases de efecto invernadero, de conformidad con lo previsto en la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.
+2. La Consejería competente en materia de medio ambiente impulsará la compensación voluntaria de las emisiones que no hayan podido ser reducidas y fomentará el patrocinio y el mecenazgo en relación con el cambio climático.
+
+### Artículo 121
+
+Artículo 121. Fomento de la capacidad de absorción de carbono y reforestación en la Región de Murcia.
+1. La Consejería competente en materia de medio ambiente evaluará la capacidad de absorción de los sumideros de CO2 en la Región de Murcia, adoptando o fomentando las medidas y las buenas prácticas que permitan incrementar el balance neto de absorción de CO2.
+2. La Administración Regional incentivará la participación del sector privado en el aumento de la capacidad de captación de carbono de los sumideros, desarrollando instrumentos de mercado que permitan obtener ventajas competitivas por los beneficios ambientales que aportan con la captación de CO2.
+3. La Consejería competente en materia de medio ambiente promoverá, planificará y facilitará, entre otros, la reforestación, para la mitigación de los efectos del cambio climático mediante la absorción de CO2.
+
+## TÍTULO VII
+
+Reconocimiento de la excelencia ambiental
+
+### Artículo 122
+
+Artículo 122. Sistemas de gestión y auditorías ambientales.
+1. La Comunidad Autónoma de la Región de Murcia, en el ámbito de sus competencias, fomentará la implantación voluntaria de sistemas de gestión y auditorías ambientales en todos los sectores de actividad públicos y privados, tales como ISO 14000 o preferentemente el EMAS, al objeto de promover una producción y un mercado más sostenible.
+2. La Consejería competente en materia de medio ambiente podrá conceder ayudas económicas para fomentar la adhesión de organizaciones, empresas y entidades locales a los sistemas de gestión y auditorías ambientales enunciados en el apartado anterior.
+
+### Artículo 123
+
+Artículo 123. Etiqueta ecológica.
+1. La Comunidad Autónoma de la Región de Murcia fomentará la etiqueta ecológica europea, al objeto de promover aquellos productos y servicios más respetuosos con el medio ambiente.
+2. La Comunidad Autónoma de la Región de Murcia podrá también establecer sistemas de etiqueta ecológica de ámbito regional para productos, servicios o actividades que generen, en comparación con otros de similares características, menos efectos ambientales adversos.
+Se establecerán reglamentariamente las clases de productos y la relación de servicios susceptibles de obtener esta etiqueta verde regional, así como el procedimiento para la concesión y retirada del distintivo correspondiente.
+
+### Artículo 124
+
+Artículo 124.
+Las Administraciones públicas y demás entidades sujetas a la legislación sobre contratación pública en el ámbito de la Región de Murcia, dentro de sus competencias, incorporarán criterios ambientales en las distintas fases de la contratación, de acuerdo con la normativa vigente sobre contratos del sector público y los planes de contratación pública ambientalmente responsable que les sean aplicables. En los pliegos de contratación se valorará positivamente la posesión de los distintivos ambientales reconocidos por la Región de Murcia o por la normativa estatal o comunitaria en la materia.
+Se modifica por la disposición adicional 2.2 del Decreto-ley 5/2022, de 20 de octubre. Ref. BORM-s-2022-90316#da-2
+
+## TÍTULO VIII
+
+Control y disciplina ambiental
+
+## CAPÍTULO I
+
+Vigilancia, inspección y control ambiental
+
+### Artículo 125
+
+Artículo 125. Actividades sujetas a vigilancia y control ambiental.
+Serán objeto de vigilancia, inspección y control ambiental todas las actividades, actuaciones e instalaciones, públicas o privadas, desarrolladas y situadas en la Comunidad Autónoma de la Región de Murcia que se encuentren en el ámbito de aplicación de esta ley.
+
+### Artículo 126
+
+Artículo 126. Competencia para la vigilancia e inspección ambiental.
+1. La Comunidad Autónoma de la Región de Murcia o los ayuntamientos, a través de los órganos correspondientes, llevarán a cabo la vigilancia, inspección y control ambiental, como función pública instrumental accesoria de sus competencias ambientales, sin perjuicio de las actuaciones inspectoras que correspondan a otros órganos o entidades en ámbitos competenciales distintos de la calidad ambiental.
+2. La inspección ambiental autonómica se llevará a cabo por la Consejería competente en materia de medio ambiente, y tendrá por objeto:
+a) La vigilancia de las actividades o instalaciones que se llevan a cabo en el territorio de la Región de Murcia, para el descubrimiento de las no autorizadas.
+b) La comprobación del cumplimiento de las condiciones ambientales impuestas a las instalaciones o actividades por la Comunidad Autónoma en el ámbito de sus competencias, a través de la autorización ambiental autonómica, así como de la legislación ambiental que les sea de aplicación.
+c) El seguimiento y vigilancia del cumplimiento de la declaración de impacto ambiental, cuando la condición de órgano sustantivo corresponda a un órgano de la Consejería competente en medio ambiente; así como las funciones de comprobación que le competen como órgano ambiental, quedando facultada para recabar información de los órganos encargados del seguimiento y vigilancia, y verificar el cumplimiento del condicionado.
+d) La vigilancia del cumplimiento de la normativa ambiental en el ámbito de su competencia.
+3. La inspección ambiental que lleven a cabo los ayuntamientos tendrá por objeto:
+a) Vigilar las instalaciones o actividades realizadas en el término municipal, para el descubrimiento de las no autorizadas.
+b) Comprobar el cumplimiento de las condiciones ambientales de su competencia impuestas por las autorizaciones ambientales autonómicas y la licencia de actividad.
+c) Vigilar el cumplimiento de las ordenanzas ambientales municipales y demás normativa ambiental en el ámbito de su competencia.
+4. Las autorizaciones ambientales autonómicas y las declaraciones de impacto ambiental deberán especificar, entre las condiciones por ellas establecidas, cuáles deben ser controladas por los ayuntamientos, por tratarse de condiciones relativas al ámbito de las competencias municipales, y cuáles corresponde controlar a los órganos inspectores autonómicos, sectoriales o ambientales.
+5. La Comunidad Autónoma de la Región de Murcia y los ayuntamientos se prestarán especial asistencia y colaboración en la vigilancia, inspección y control ambiental de todas las actividades, actuaciones e instalaciones en el ámbito de la Región de Murcia. A estos efectos, comunicarán inmediatamente al órgano competente los hechos que pudieran ser constitutivos de infracciones administrativas y cualquier otra información que facilite a las otras administraciones el ejercicio de sus propias competencias.
+6. La Comunidad Autónoma de la Región de Murcia prestará la ayuda y asistencia que precisen aquellos ayuntamientos que acrediten falta de medios personales o técnicos.
+
+### Artículo 127
+
+Artículo 127. Clases de inspecciones.
+1. Las inspecciones ambientales podrán ser:
+a) Ordinarias, es decir, realizadas en ejecución de un plan de inspección.
+b) Extraordinarias, es decir, realizadas a causa de una denuncia o reclamación, con ocasión de la concesión, renovación o modificación de una autorización o licencia o la emisión de un informe preceptivo, o para investigar accidentes, incidentes o supuestos de incumplimiento.
+2. Los servicios de inspección deben examinar toda denuncia que se formule de acuerdo con los requisitos y formalidades que sean de aplicación, y, si se estima fundada por ofrecer indicios racionales de la comisión de una infracción ambiental, deberán realizar las actuaciones que resulten proporcionadas para su verificación, con independencia de la ulterior iniciación del procedimiento sancionador o de la adopción de las medidas procedentes.
+
+### Artículo 128
+
+Artículo 128. Actuaciones inspectoras.
+1. Los funcionarios que realicen labores de vigilancia e inspección ambiental, cuando actúen en el ejercicio de sus funciones, tendrán la consideración de agentes de la autoridad, y las actas que recojan los resultados de su actuación inspectora gozarán del especial valor probatorio que le atribuyen las leyes, sin perjuicio de otras pruebas que pueda aportar el interesado.
+2. En el desarrollo de sus funciones, están facultados para acceder, previa identificación, a cualquier lugar, instalación o dependencia donde se desarrollen las actividades sujetas a la presente ley o a la legislación ambiental sectorial; examinar la documentación relativa a la actividad objeto de control; y efectuar mediciones y tomas de muestras de vertidos, emisiones o productos con vistas a su posterior examen y análisis. Podrán también adoptar, por sí mismos, las medidas provisionalísimas que resulten necesarias en situaciones de riesgo grave e inminente para el medio ambiente o la salud de las personas, justificando debidamente en el acta las razones de su adopción.
+Deberán guardar la debida confidencialidad de los hechos e informaciones de que tengan conocimiento por razón de sus actuaciones inspectoras.
+3. Los titulares de instalaciones, de titularidad pública o privada, el personal a su servicio y demás personas con las que se entiendan las actuaciones inspectoras tienen el deber de colaborar con ellas.
+4. Los inspectores podrán requerir, cuando sea necesario para el cumplimiento de las tareas que tienen asignadas, la asistencia de los cuerpos de seguridad del Estado y policía local.
+
+### Artículo 129
+
+Artículo 129. Actas de inspección.
+1. En toda visita de inspección se levantará acta descriptiva de los hechos, y, en especial, de los que puedan ser constitutivos de infracción administrativa, y se harán constar las alegaciones que realice el responsable de la actividad o instalación.
+2. Se levantará acta aun en caso de que se compruebe el correcto funcionamiento de las instalaciones.
+3. Además de las posibles irregularidades detectadas, el acta podrá también documentar las actuaciones, llevadas a cabo por la inspección, orientadas a evaluar la eficacia de las condiciones impuestas para el ejercicio de la actividad.
+4. Los resultados de las inspecciones ambientales se comunicarán a las personas afectadas por la inspección.
+5. El acta de inspección se completará con un informe posterior, cuando sea necesario valorar el cumplimiento de la normativa, los resultados de los muestreos o, en general, cuando deban realizarse valoraciones posteriores de los hechos comprobados en la inspección.
+6. La Consejería con competencias en materia de medio ambiente y los Ayuntamientos, en su ámbito de competencias, elaborarán modelos tipo de actas de inspección.
+
+### Artículo 130
+
+Artículo 130. Planes de inspección.
+1. La Consejería con competencias en materia de medio ambiente, y los ayuntamientos a través del órgano competente, elaborarán planes de inspección ambiental con la finalidad de programar las inspecciones ambientales que se realicen.
+2. Los criterios generales de los planes de inspección deberán ponerse a disposición del público de conformidad con lo previsto en la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente.
+
+## CAPÍTULO II
+
+Obligación de control y suministro de información
+
+### Artículo 131
+
+Artículo 131. Control periódico de las instalaciones y actividades.
+1. Las autorizaciones con fines ambientales podrán establecer, a través del programa de vigilancia ambiental, los sistemas de control que resulten necesarios para garantizar la adecuación permanente de las instalaciones o actividades a la normativa ambiental aplicable y a las condiciones establecidas en las autorizaciones.
+2. Para el control de dicha adecuación, pueden exigir de manera justificada la presentación de informes periódicos de entidad de control ambiental, destinados a la comprobación de todas o de determinadas condiciones ambientales exigibles a la instalación.
+3. En caso de que no se presenten dentro de plazo los informes a que se refiere este artículo, y sin perjuicio de la sanción que proceda, se podrá requerir su presentación al titular de la actividad, de acuerdo con el artículo 144.
+Se modifica por el art. 23.14 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+
+### Artículo 132
+
+Artículo 132. Entidades de Control Ambiental.
+1. Son Entidades de Control Ambiental aquellas entidades con personalidad jurídica que, debidamente inscritas conforme a la normativa aplicable, asisten a los titulares de las actividades e instalaciones en el cumplimiento de sus obligaciones de control y vigilancia de las condiciones impuestas en las autorizaciones y licencias ambientales, y de suministro de información a la Administración, y en el respeto a la normativa ambiental, bajo la supervisión de la consejería con competencias en materia de medio ambiente.
+2. Se crea el Registro de Entidades de Control Ambiental, que tendrá carácter público, en el que se inscribirán necesariamente las entidades a que se refiere el apartado anterior.
+3. Las actuaciones que realicen las Entidades de Control Ambiental no podrán sustituir las labores de inspección y control administrativo de las instalaciones y actividades.
+Las Entidades de Control Ambiental podrán prestar servicios específicos a la consejería con competencias en materia de medio ambiente y a los Ayuntamientos en aquellos ámbitos de actuación que no impliquen el ejercicio de autoridad.
+4. Reglamentariamente se regularán el régimen jurídico, funciones y ámbitos de actuación de las Entidades de Control Ambiental, los requisitos y el procedimiento de inscripción en el Registro de Entidades de Control Ambiental, las formas de control de su actividad y las medidas que garanticen su independencia e imparcialidad.
+5. Los actos, informes y certificaciones emitidos por el personal técnico de las Entidades de Control Ambiental podrán incorporarse al procedimiento sancionador y quedarán sometidos a las normas generales de valoración de la prueba.
+Se modifica por el art. 62.10 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifica por la disposición adicional 2.3 del Decreto-ley 5/2022, de 20 de octubre. Ref. BORM-s-2022-90316#da-2
+
+### Artículo 133
+
+Artículo 133. Declaración anual de medio ambiente.
+1. Las actividades que hayan obtenido autorización ambiental autonómica y que no se encuentren dentro del ámbito de aplicación del Real Decreto 508/2007, de 20 de abril, por el que se regula el suministro de información sobre emisiones del Reglamento E-PRTR deberán realizar una Declaración Anual de Medio Ambiente, que se presentará ante la Consejería con competencias en materia de medio ambiente, antes del 1 de junio del año siguiente al que sea objeto de declaración.
+2. La Declaración Anual de Medio Ambiente habrá de presentarse de forma separada por cada centro de trabajo con el que cuente la empresa.
+3. La Consejería con competencias en materia de medio ambiente aprobará el modelo oficial para efectuar la Declaración Anual de Medio Ambiente.
+Se modifica el apartado 1 por la disposición adicional 2.4 del Decreto-ley 5/2022, de 20 de octubre. Ref. BORM-s-2022-90316#da-2
+
+### Artículo 134
+
+Artículo 134. Operadores ambientales.
+1. Cuando las características de una actividad o sector de actividades lo hagan aconsejable, el órgano municipal o autonómico competente podrá requerir del titular de la actividad la designación de un responsable del seguimiento y adecuado funcionamiento de las instalaciones destinadas a evitar o corregir daños ambientales, así como de elaborar la información o documentación que periódicamente deba aportarse o presentarse ante dicho órgano.
+2. El titular de la empresa velará por la adecuada formación de estos operadores ambientales.
+3. La Consejera o el Consejero con competencias en materia de medio ambiente desarrollará reglamentariamente el régimen jurídico, la titulación exigible y formación mínima, y la acreditación de los operadores ambientales.
+4. La Consejería con competencias en materia de medio ambiente adoptará medidas de apoyo y asesoramiento, por sí o a través de otras instituciones, para la formación y actualización de los operadores ambientales.
+
+### Artículo 135
+
+Artículo 135. Representación de los trabajadores.
+La representación legal de los trabajadores en la empresa, en relación con las cuestiones medioambientales, tendrá reconocidas las siguientes atribuciones:
+a) Recibir la información que se emita sobre la situación medioambiental de la empresa.
+b) Conocer los planes o medidas de adaptación medioambiental que se vayan a llevar a cabo en la empresa y dotarles de capacidad para proponer mejoras en la gestión ambiental.
+c) Remitir al órgano ambiental correspondiente informes sobre las cuestiones anteriores.
+
+## CAPÍTULO III
+
+Responsabilidad ambiental
+
+### Artículo 136
+
+Artículo 136. Consecuencias de la vulneración del ordenamiento ambiental.
+1. Sin perjuicio de la iniciación del procedimiento sancionador a que hubiere lugar, la vulneración de las prescripciones contenidas en esta ley y otras normas ambientales sectoriales, llevará aparejada, cuando procedan, las siguientes consecuencias en el orden administrativo, que no tendrán carácter sancionador:
+a) Adopción de medidas de prevención, evitación y reparación de daños ambientales.
+b) Suspensión de actividades u otras medidas cautelares.
+c) Actuaciones para el restablecimiento de la legalidad ambiental.
+d) Revisión de las autorizaciones y licencias otorgadas en contravención de la legalidad ambiental, de acuerdo con las normas generales de revisión de los actos administrativos.
+2. La actividad de intervención que se lleve a cabo deberá tener en cuenta la relevancia de los intereses ambientales y del derecho de todos los ciudadanos a disfrutar de un medio ambiente adecuado, y se ajustará a los principios de igualdad de trato, congruencia con los motivos y fines justificativos, y respeto a la libertad individual.
+
+### Artículo 137
+
+Artículo 137. Aplicación de la ley de responsabilidad medioambiental.
+1. La prevención, evitación y reparación de los daños ambientales a los que resulta de aplicación la Ley 26/2007, de 23 de octubre, de Responsabilidad Medioambiental, se llevará a cabo en la forma y condiciones fijadas en ella, o en las previstas en esta ley si resultan más exigentes.
+2. La responsabilidad que en su caso se exija en aplicación de la Ley de Responsabilidad Medioambiental será compatible con las sanciones administrativas impuestas por los mismos hechos que originen aquélla.
+
+## CAPÍTULO IV
+
+Restablecimiento de la legalidad ambiental
+
+### Artículo 138
+
+Artículo 138. Legalización de actividades no autorizadas.
+1. A los efectos de esta ley, se entiende por actividades no autorizadas aquellas que se ejerzan sin contar con la preceptiva licencia de actividad, previa la obtención de la autorización ambiental autonómica si resulta exigible.
+2. No se puede entender obtenida la licencia de actividad ni las autorizaciones ambientales autonómicas por el mero ejercicio a lo largo del tiempo, la tolerancia de los órganos públicos competentes, el pago de tasas u otros tributos, o la obtención de la licencia urbanística o de autorizaciones sustantivas o sectoriales exigibles al amparo de otras normas.
+
+### Artículo 139
+
+Artículo 139. Procedimiento aplicable a la legalización de actividades no autorizadas.
+1. Los procedimientos para la legalización de actividades e instalaciones serán los previstos para el otorgamiento de las autorizaciones ambientales autonómicas y para la licencia de actividad, según corresponda.
+2. Durante la tramitación del procedimiento de legalización, el órgano competente podrá exigir al solicitante la presentación de un informe realizado por una Entidad de Control Ambiental y las justificaciones necesarias para acreditar que la instalación o actividad existente se ajustan al proyecto y demás documentación presentada.
+
+### Artículo 140
+
+Artículo 140. Requerimiento de legalización de la actividad no autorizada.
+1. Cuando se tenga conocimiento de la existencia de actividades no autorizadas, y sin perjuicio de la iniciación del procedimiento sancionador que en su caso proceda, el órgano competente para otorgar las autorizaciones ambientales autonómicas o la licencia municipal requerirá al interesado para que inicie la legalización de su actividad en el plazo de dos meses contados desde la notificación del requerimiento.
+2. El requerimiento de legalización se llevará a cabo por el órgano municipal o autonómico competente que primero tenga conocimiento de la existencia de la actividad no autorizada, debiendo comunicar de inmediato al otro órgano el requerimiento realizado.
+3. Podrá realizarse el requerimiento de legalización desde que se inicie la implantación o montaje de las instalaciones, y en cualquier momento del funcionamiento de la actividad.
+4. Dentro del plazo de dos meses concedido en el requerimiento de legalización, el interesado deberá presentar la solicitud para que se inicie el procedimiento regulado en esta ley que resulte procedente.
+5. Los órganos municipal y autonómico competentes, cada uno en su propio ámbito, cuando tengan conocimiento o se les comunique la existencia de la actividad, y en todo caso cuando transcurra el plazo del requerimiento de legalización sin que éste haya sido atendido, realizarán las comprobaciones de la actividad necesarias, en orden a la adopción de las medidas de cese o suspensión de actividades u otras que sean procedentes.
+
+### Artículo 141
+
+Artículo 141. Cese de actividades no legalizables.
+1. Si no se hubiera emprendido la legalización en el plazo de dos meses establecido al efecto, o si el interesado desiste del procedimiento de legalización, o la legalización no es posible o se deniega dado el carácter no legalizable de la actividad, se ordenará el cese de la actividad o instalación, salvo casos especialmente justificados, previo trámite de audiencia a los interesados y una vez que la resolución que ponga fin al procedimiento de legalización sea firme en vía administrativa.
+2. La orden de cese fijará plazo para ello, comunicará en su caso el coste de las operaciones necesarias para el cese, para el supuesto de que la Administración lo hubiera de ejecutar subsidiariamente, se pronunciará sobre el mantenimiento o modificación de las medidas cautelares previamente adoptadas cuando lo hubieran sido por el mismo órgano que ordene el cese, y proveerá todo lo necesario para llevar a cabo el mismo.
+
+### Artículo 142
+
+Artículo 142. Competencia para ordenar el cese de actividades no legalizables.
+El cese de la actividad se ordenará por la administración competente para la defensa del interés público afectado por el ejercicio de la actividad, cuya protección determina la imposibilidad de legalización. En particular, se tendrán en cuenta las siguientes reglas:
+a) Si la licencia de actividad es la única autorización ambiental de la que carece la actividad, la competencia para ordenar su cese corresponde al Ayuntamiento.
+b) Si las actividades requeridas de legalización están sujetas a autorización ambiental autonómica, y su ejercicio es incompatible con el planeamiento urbanístico o existen razones de competencia municipal para denegar la legalización, el Ayuntamiento dictará orden de cese, comunicándolo al órgano de la Comunidad Autónoma competente para otorgar la autorización ambiental autonómica.
+c) Cuando se deniegue la autorización ambiental integrada por considerarse inadmisible el vertido al dominio público hidráulico, el cese corresponderá al Gobierno del Estado, según lo previsto en el artículo 106 del Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el texto refundido de la Ley de Aguas, sin que se modifiquen las competencias que corresponden a la Administración General del Estado en materia de protección del dominio público hidráulico, de acuerdo con lo establecido en la disposición final primera de la Ley 16/2002, de 1 de julio, de Prevención y Control Integrados de la Contaminación.
+d) Cuando proceda ordenar el cese en supuestos distintos de los anteriores, éste corresponderá al órgano autonómico competente.
+
+### Artículo 143
+
+Artículo 143. Suspensión de actividades y otras medidas cautelares.
+1. Desde que se efectúe el requerimiento de legalización, o se reciba en su caso del órgano municipal o autonómico la comunicación del requerimiento realizado, se podrá suspender cautelarmente la actividad, de forma total o parcial, hasta tanto se legalice u ordene el cese, en el caso de que la entidad de las molestias producidas o los daños o riesgos para el medio ambiente o la salud de las personas así lo justifiquen, previa valoración circunstanciada de todos los intereses en conflicto.
+2. De acuerdo con el principio de proporcionalidad y elección del medio menos restrictivo de la libertad, cuando la protección de los intereses ambientales implicados y la salud de las personas quede garantizada, la suspensión de la actividad se sustituirá por otras medidas, tales como:
+a) La parada de las instalaciones.
+b) El precintado de obras, instalaciones, maquinaria, aparatos, equipos, vehículos, materiales y utensilios.
+c) La retirada o decomiso de productos, medios, materiales, herramientas, vehículos, maquinarias, instrumentos, artes y utensilios.
+d) La prestación de fianza.
+e) Cualesquiera otras medidas de corrección, seguridad o control adecuadas para evitar el riesgo o daño, o las molestias a las personas.
+3. La orden de suspensión cautelar o de adopción de otras medidas cautelares será motivada y se dictará previa audiencia del interesado, pudiendo ser objeto del recurso administrativo o contencioso-administrativo que proceda.
+4. Las medidas previstas en este artículo se adoptarán por la administración competente para la protección del interés público cuya afectación o menoscabo fundamente su adopción. En particular:
+a) Si las actividades están sujetas únicamente a licencia de actividad, la competencia para adoptar las medidas corresponde al ayuntamiento.
+b) Actuará también el ayuntamiento en aquellas actividades que puedan estar sujetas a autorización ambiental autonómica, cuando existan razones ambientales de competencia municipal que fundamenten la conveniencia de adoptar la medida.
+c) Si la actividad realiza vertidos no autorizados al dominio público hidráulico, se pondrá en conocimiento del organismo de cuenca para la adopción de las medidas que procedan, de acuerdo con la legislación en materia de aguas.
+d) En el resto de los supuestos de actividades sujetas a autorización ambiental autonómica, las medidas se adoptarán por el órgano autonómico competente.
+5. En aquellos casos en que exista daño o riesgo grave e inminente para el medio ambiente o la salud de las personas, se podrá ordenar de forma motivada la suspensión inmediata de la actividad o cualquier otra medida cautelar necesaria, indistintamente por el órgano municipal o autonómico competente que tenga conocimiento de los daños o riesgos existentes, debiendo comunicar de inmediato al otro órgano las medidas adoptadas.
+6. La adopción de una medida cautelar no impedirá la adopción de otra u otras que resulten necesarias y que sean compatibles con la anterior, aunque se impongan por un órgano u administración distinta, actuando cada una de ellas en el ámbito de sus competencias.
+7. La suspensión y demás medidas cautelares adoptadas en virtud de este artículo se podrán modificar de forma motivada en función de las circunstancias concurrentes, o levantar cuando cesen las razones que las justificaron y no medien otras que aconsejen su mantenimiento. Si inicialmente no fueron adoptadas, podrán adoptarse en cualquier momento en tanto no se legalice la actividad o se ordene su cese, si aparecen razones que así lo justifiquen.
+
+### Artículo 144
+
+Artículo 144. Restablecimiento en el caso de actividades autorizadas.
+1. En los supuestos de actividades autorizadas que incumplan las normas ambientales o las condiciones establecidas en la licencia de actividad o la autorización ambiental autonómica, y sin perjuicio de las sanciones procedentes, se podrá ordenar al causante que ajuste su actividad a las normas y condiciones establecidas, fijando un plazo adecuado para ello y adoptando, si resulta preciso, las medidas necesarias para evitar o minimizar las molestias o los riesgos o daños que dicho incumplimiento puede ocasionar en el medio ambiente y la salud de las personas, de entre las enumeradas en el artículo anterior.
+2. La orden que se dicte respetará la debida proporcionalidad, motivación y audiencia previa del interesado, y podrá ser objeto de los recursos que procedan.
+
+### Artículo 145
+
+Artículo 145. Otros supuestos de restablecimiento de la legalidad ambiental.
+1. Además de la iniciación del procedimiento sancionador pertinente, la administración podrá también ordenar la reposición o restablecimiento del orden ambiental infringido en otros supuestos distintos de los señalados en los artículos anteriores, cuando a consecuencia de obras, proyectos, planes, actividades, actuaciones o conductas vecinales se generen molestias, riesgos o daños ambientales que contravengan la normativa aplicable o las condiciones impuestas.
+2. Los ayuntamientos, en las materias de su competencia, harán efectivo el cumplimiento de las ordenanzas locales y demás normativa ambiental de aplicación, adoptando las medidas necesarias de acuerdo con el apartado anterior, tales como la retirada de residuos urbanos depositados de manera incontrolada; la rectificación, elevación, sellado o eliminación de conductos o salidas de humos y olores; el precinto o retirada de aparatos de climatización u otras máquinas productoras de ruidos excesivos; u otras que resulten precisas.
+3. La orden que tenga por objeto la adopción de las medidas contempladas en este artículo respetará la debida proporcionalidad, motivación y audiencia previa del interesado, y podrá ser objeto de los recursos que procedan.
+
+### Artículo 146
+
+Artículo 146. Ejecución subsidiaria.
+1. En caso de incumplimiento voluntario de las órdenes de cese o suspensión de la actividad, o de adopción de medidas cautelares o de restablecimiento de la legalidad ambiental previstas en este título, la Administración podrá ejecutarlas subsidiariamente, a costa del obligado.
+2. El reembolso de los gastos y costes de la ejecución subsidiaria tendrá el carácter de ingreso de Derecho público, y podrá exigirse por la vía de apremio.
+
+### Artículo 147
+
+Artículo 147. Multas coercitivas.
+1. Como alternativa a la ejecución subsidiaria prevista en el artículo anterior, se podrán imponer multas coercitivas sucesivas de hasta 3.000 euros cada una, cuyo importe se fijará prudencialmente en función de los valores ambientales afectados y molestias causadas, y del beneficio que pueda representar el mantenimiento de la actividad clandestina o situación ambiental alterada.
+2. El número total de las multas coercitivas que se impongan no podrá exceder de quince, sin que puedan reiterarse por plazos inferiores a un mes.
+3. La imposición de multas coercitivas no impedirá la posterior ejecución subsidiaria, a costa del obligado.
+4. Las multas coercitivas son independientes y compatibles con las que se puedan imponer en concepto de sanción.
+
+### Artículo 148
+
+Artículo 148. Derechos laborales.
+En todo caso, la suspensión o cese de actividades o instalaciones que se lleve a cabo en virtud del presente título, se acordará sin perjuicio del pago del salario o de las procedentes indemnizaciones a los trabajadores y medidas que puedan arbitrarse para su garantía, de acuerdo con la normativa laboral que sea de aplicación.
+
+## CAPÍTULO V
+
+Infracciones y sanciones ambientales
+
+### Artículo 149
+
+Artículo 149. Personas responsables.
+1. Incurrirán en responsabilidad, a los efectos del presente capítulo, las personas físicas o jurídicas o entidades que por acción u omisión realicen o participen en la comisión de hechos constitutivos de infracción conforme a esta ley.
+2. En particular, podrán considerarse responsables de las infracciones previstas en la misma:
+a) Las personas físicas o jurídicas que realicen directamente la acción infractora.
+b) Las personas físicas o jurídicas que sean propietarios, titulares de terrenos o titulares o promotores de la actividad o proyecto del que se derive la infracción, en particular, cuando se trate de actuaciones realizadas por quienes se encuentren unidos a ellos en virtud de una relación laboral, de servicio o cualquier otra de hecho o de derecho de la que deriven órdenes o encargos.
+c) Las Entidades de Control Ambiental, por el incumplimiento de sus funciones.
+d) Los proyectistas y técnicos directores de la instalación, y los redactores de estudios de impacto ambiental e informes de sostenibilidad ambiental.
+3. Las multas que se impongan a los distintos sujetos por una misma infracción, tendrán entre sí carácter independiente.
+4. La responsabilidad del personal funcionario y del personal al servicio de las administraciones públicas, en su caso, será exigible de acuerdo con las normas que regulan su régimen disciplinario, sin perjuicio de la responsabilidad penal o civil en que pudiera haberse incurrido.
+
+### Artículo 150
+
+Artículo 150. Clasificación de infracciones.
+Las infracciones y sanciones previstas en esta ley se clasificarán en muy graves, graves y leves.
+
+### Artículo 151
+
+Artículo 151. Infracciones y sanciones en actividades sujetas a autorización ambiental autonómica.
+1. Las conductas contrarias a la normativa reguladora de la autorización ambiental integrada se sancionarán con arreglo al régimen de infracciones y sanciones previsto en este artículo, salvo que concurra con el establecido en la legislación básica estatal, por apreciarse identidad de sujeto, hecho y fundamento, en cuyo caso se impondrá únicamente la sanción de mayor gravedad.
+2. Constituyen infracción muy grave:
+a) La instalación, montaje, ejercicio o explotación, traslado o modificación sustancial de una actividad o instalación, sin la preceptiva autorización ambiental autonómica o sin licencia de actividad, siempre que se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en peligro grave la seguridad o salud de las personas.
+b) Incumplir las condiciones establecidas en la autorización ambiental autonómica o en la licencia de actividad, siempre que se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en peligro grave la seguridad o salud de las personas.
+c) Incumplir las órdenes de cese, suspensión o adopción de otras medidas cautelares impuestas a las actividades no autorizadas de acuerdo con lo previsto en el capítulo IV de este título.
+3. Constituyen infracción grave:
+a) La instalación, montaje, ejercicio o explotación, traslado o modificación sustancial de una actividad o instalación, sin la preceptiva autorización ambiental autonómica o sin licencia de actividad, si no se ha producido un daño o deterioro grave para el medio ambiente ni se ha puesto en peligro grave la seguridad o salud de las personas.
+No obstante, una vez ordenado el cese o suspensión, el ejercicio de la actividad se sancionará como infracción del apartado 1.c) de este artículo.
+b) Incumplir las condiciones establecidas en la autorización ambiental autonómica o en la licencia de actividad, sin que se haya producido un daño o deterioro grave para el medio ambiente y sin que se haya puesto en peligro grave la seguridad o salud de las personas.
+c) La puesta en marcha de instalaciones o actividades nuevas o con modificación sustancial, sujetas a autorización ambiental autonómica, sin comunicar a la Consejería competente en materia de medio ambiente o al ayuntamiento el comienzo de la explotación, acompañando la documentación exigida en esta ley.
+d) Ocultar o alterar maliciosamente la información exigida en el procedimiento de autorización ambiental autonómica, en virtud de esta ley, de las normas estatales reguladoras de la autorización ambiental integrada, o de las que regulan las autorizaciones que se incorporan a la autorización ambiental única.
+e) No informar inmediatamente al órgano competente de la Comunidad Autónoma de cualquier incidente o accidente que afecte de forma significativa al medio ambiente, ocurrido en actividades o instalaciones sometidas a autorización ambiental autonómica.
+f) Impedir, retrasar u obstruir la actividad de inspección o control de las instalaciones y actividades sujetas a autorización ambiental autonómica.
+g) Incumplir las órdenes dictadas para el restablecimiento de la legalidad en el caso de actividades autorizadas, previstas en el artículo 144.
+4. Constituyen infracción leve:
+a) No comunicar al órgano competente las modificaciones de carácter no sustancial que se lleven a cabo en las instalaciones y actividades sometidas a autorización ambiental autonómica.
+b) Adquirir la titularidad de la actividad sujeta a autorización ambiental autonómica sin comunicarlo al órgano competente dentro del plazo establecido.
+c) Solicitar la renovación de la autorización ambiental autonómica sin la antelación mínima establecida.
+d) El incumplimiento de las prescripciones establecidas por la legislación básica estatal, por la presente ley o su normativa de desarrollo, cuando no esté tipificado como infracción muy grave o grave.
+5. La imposición de sanciones por infracciones aplicables a actividades sujetas a autorización ambiental autonómica corresponderá a la Consejería competente en materia de medio ambiente, salvo en los supuestos de infracciones siguientes:
+a) Apartados 2.a) y 3.a), que serán sancionados por el ayuntamiento únicamente cuando comience la instalación o montaje de una actividad o instalación nueva, o su traslado o modificación sustancial, contando con la preceptiva autorización ambiental autonómica, pero todavía sin licencia de actividad.
+b) Apartados 2.b) y 3.b), que serán sancionados por el ayuntamiento cuando se trate de incumplimientos de condiciones en materias de competencia local, impuestas en la autorización ambiental autonómica o en la licencia de actividad.
+c) Apartado 2.c), que será sancionado por los ayuntamientos cuando sean ellos los que ordenen el cese, suspensión o demás medidas cautelares.
+d) Apartado 3.c), que será sancionado por el ayuntamiento únicamente cuando la puesta en marcha se produzca habiendo comunicado el comienzo de la explotación a la Consejería competente en materia de medio ambiente, pero no al ayuntamiento.
+e) Apartado 3.g), cuando la inspección o control se lleve a cabo por el ayuntamiento.
+f) Apartado 3.h), cuando la orden haya sido dictada por el ayuntamiento.
+6. La comisión de infracciones tipificadas en este artículo se sancionará de la siguiente manera:
+a) Cuando la competencia para sancionar la infracción corresponda a la Consejería competente en materia de medio ambiente, se impondrán las siguientes sanciones:
+Por las infracciones muy graves, multa desde 100.001 hasta 1.000.000 euros.
+Por las infracciones graves, multa desde 10.001 hasta 100.000 euros.
+Por las infracciones leves, multa de hasta 10.000 euros.
+b) Cuando la competencia para sancionar la infracción corresponda al ayuntamiento, el importe de las sanciones será, para cada clase de infracción, el mismo que el establecido por el artículo siguiente para las actividades sujetas a licencia de actividad como única autorización ambiental.
+7. Cuando un ayuntamiento tenga conocimiento de actos realizados en su término municipal que, de acuerdo con este artículo, puedan constituir infracciones sancionables por la Consejería competente en materia de medio ambiente, los comunicará al órgano autonómico competente, sin perjuicio de la iniciación del procedimiento sancionador que en su caso corresponda por infracción urbanística.
+8. La integración en el procedimiento de autorización ambiental integrada de la autorización de vertidos al dominio público hidráulico no modifica las competencias que corresponden a la Administración General del Estado para sancionar el ejercicio de actividades sin dicha autorización, o el incumplimiento o cumplimiento defectuoso de las condiciones establecidas en la misma, o adoptar las medidas que procedan en materia de protección del dominio público hidráulico.
+
+### Artículo 152
+
+Artículo 152. Infracciones y sanciones en materia de licencia, declaración responsable de actividad y falta de autorización administrativa.
+1. Son infracciones muy graves:
+a) Las conductas tipificadas como infracción grave, cuando se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en peligro grave la seguridad o salud de las personas.
+b) El incumplimiento de las órdenes de clausura y de suspensión previstas en el capítulo IV de este título.
+c) Ocultar o alterar maliciosamente la información que debe ser aportada en los procedimientos, declaraciones y comunicaciones regulados en esta ley, o falsear los certificados o informes técnicos presentados a la administración.
+2. Son infracciones graves:
+a) La instalación, montaje, ejercicio o explotación, traslado o modificación sustancial de la actividad sin contar con la autorización ambiental autonómica o licencia de actividad, o sin realizar la declaración responsable de forma completa y con la antelación establecida.
+b) El incumplimiento de las condiciones establecidas en la licencia de actividad, prescripciones técnicas o medidas correctoras, así como no tomar las medidas necesarias para volver a asegurar el cumplimiento en el plazo más breve posible.
+c) El incumplimiento de otras medidas establecidas para el restablecimiento de la legalidad ambiental, distintas de la clausura o de la suspensión.
+d) El incumplimiento de los requisitos establecidos en la normativa aplicable para el ejercicio de las actividades sujetas a declaración responsable.
+e) La puesta en marcha de actividades sujetas a licencia de actividad, sin realizar la comunicación previa de inicio de la actividad, acompañando la documentación que resulte exigible.
+f) No informar inmediatamente al órgano competente de cualquier incidente o accidente que afecten de forma significativa al medio ambiente.
+g) Impedir, retrasar u obstruir la actividad de inspección o control.»
+3. Constituyen infracción leve:
+a) Incurrir en demora no justificada en la aportación de documentos solicitados por la Administración.
+b) No comunicar al órgano competente las modificaciones no sustanciales que se lleven a cabo en las instalaciones o actividades.
+c) Adquirir la titularidad de la actividad sujeta a licencia sin comunicarlo al órgano competente dentro del plazo establecido.
+d) No efectuar la comunicación de cese de la actividad al órgano competente.
+e) El incumplimiento de las prescripciones establecidas en esta ley, cuando no esté tipificado como infracción muy grave o grave.
+4. La comisión de infracciones tipificadas en este artículo se sancionarán de la siguiente forma:
+a) Las infracciones muy graves, con multa desde 60.001 hasta 300.000 euros.
+b) Las infracciones graves, con multa desde 2.001 hasta 60.000 euros.
+c) Las infracciones leves, con multa de hasta 2.000 euros.
+5. Cuando se trate de actividades incluidas en el ámbito de aplicación del título I y el anexo de la Ley 12/2012, de 26 de diciembre, de medidas urgentes de liberalización del comercio y de determinados servicios, el régimen sancionador aplicable será el establecido en dicha norma, si bien la cuantía de las sanciones será la siguiente:
+a) Las infracciones muy graves se sancionarán con multa de 30.001 euros a 100.000 euros.
+b) Las infracciones graves se sancionarán con multas de 1.001 euros a 30.000 euros.
+c) Las infracciones leves se sancionarán con multas de hasta 1.000 euros.
+La mismas sanciones se aplicarán a las infracciones, previstas en este artículo, cuando se trate de actividades inocuas no sujetas a la Ley 12/2012, de 26 de diciembre.
+6. Corresponde a los ayuntamientos la imposición de sanciones por las infracciones tipificadas en este artículo.
+Se modifican el título y el apartado 2.a) por el art. 23.15 y 16 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+ Se modifica por el art. 3.15 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.15 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Artículo 153
+
+Artículo 153. Infracciones y sanciones en materia vertidos a la red de saneamiento.
+1. Las conductas contrarias a la normativa en materia de vertidos industriales a la red de saneamiento, no autorizados por la licencia de actividad o incumpliendo las condiciones en que han sido autorizados o las normas aplicables, se sancionarán con arreglo al régimen de infracciones y sanciones que se tipifican en los apartados siguientes, salvo que concurran con las previstas en los artículos anteriores, por apreciarse identidad de sujeto, hecho y fundamento, en cuyo caso se impondrá únicamente la sanción de mayor gravedad.
+2. Constituye infracción muy grave la descarga a la red de saneamiento de vertidos industriales prohibidos o que superen los valores máximos admisibles, siempre que causen daños en las infraestructuras de saneamiento o depuración, o hayan producido un perjuicio o deterioro grave del medio ambiente o puesto en peligro la seguridad o salud de las personas.
+3. Constituyen infracción grave en materia de vertidos a la red de saneamiento:
+a) La descarga a la red de saneamiento de vertidos industriales prohibidos o que superen los valores máximos admisibles, cuando no causen daños en las infraestructuras de saneamiento o depuración, ni hayan producido un perjuicio o deterioro grave del medio ambiente o puesto en peligro la seguridad o salud de las personas.
+b) El incumplimiento de la obligación de mantener en buen estado las instalaciones y colectores del vertido.
+c) No disponer de las arquetas y dispositivos necesarios para la toma de muestras y aforo de caudales, inmediatos a las acometidas a las redes de saneamiento y fácilmente accesibles para las tareas de inspección, o mantenerlos en condiciones deficientes de funcionamiento.
+d) La dilución de los vertidos sin autorización.
+e) No informar inmediatamente al órgano municipal competente, y a la Consejería competente en materia de medio ambiente, de cualquier vertido accidental, potencialmente peligroso para el medio ambiente o la salud de las personas, o que pueda perjudicar las instalaciones de saneamiento y depuración.
+4. Constituyen infracción leve los incumplimientos de cualesquiera otras obligaciones establecidas por esta ley o por sus normas de desarrollo en materia de vertidos a la red de saneamiento, cuando no estén tipificadas como muy graves o graves.
+5. La comisión de infracciones tipificadas en este artículo se sancionarán de la siguiente manera:
+a) Las infracciones muy graves, con multa desde 30.001 hasta 300.000 euros.
+b) Las infracciones graves, con multa desde 3.001 hasta 30.000 euros.
+c) Las infracciones leves, con multa de hasta 3.000 euros.
+6. Corresponde a los ayuntamientos la imposición de sanciones por las infracciones tipificadas en este artículo.
+
+### Artículo 154
+
+Artículo 154.
+1. Las entidades de control ambiental quedan sometidas al régimen sancionador que se establece en el presente artículo, sin perjuicio de la aplicación del régimen de infracciones y sanciones establecidas por la legislación sectorial.
+2. En el ejercicio de las funciones propias de las Entidades de Control Ambiental son infracciones muy graves:
+a) La realización de tareas de control ambiental o actuaciones que contravengan las normas reguladoras de su actividad, siempre que se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en grave peligro la seguridad o salud de las personas.
+b) La ocultación o falseamiento de datos en los informes o certificaciones o actos realizados por Entidades de Control Ambiental, o en la realización de controles, u ocultación o alteraciones de tomas de muestras que encubran irregularidades o incumplimientos de la normativa o autorizaciones o licencias ambientales en las empresas o actividades cuyo control les esté encomendado.
+c) Ejercer funciones para las que la entidad de control ambiental no cuente con reconocimiento por parte del órgano autonómico competente en el ámbito de la Región de Murcia.
+d) Realizar actuaciones que vulneren los requisitos de confidencialidad, imparcialidad e independencia.
+e) Incumplir los requisitos de incompatibilidad que reglamentariamente se establezcan.
+3. En el ejercicio de las funciones propias de las Entidades de Control Ambiental son infracciones graves:
+a) Incumplir las obligaciones a las que está sujeta la entidad como entidad de control reconocida.
+b) Incumplir las obligaciones de información a la administración competente sobre los incumplimientos o irregularidades detectados en los plazos establecidos.
+c) Ejercer como entidad de control ambiental habiendo modificado los requisitos preceptivos para su reconocimiento por el órgano autonómico competente sin que hayan sido reconocidos por este.
+d) La realización de una actuación sin atenerse a los requerimientos técnicos, procedimientos o metodologías fijados en la normativa aplicable, o en la acreditación que reglamentariamente se exija o en la resolución de reconocimiento o mediante personal técnico no reconocido por ésta.
+e) No facilitar los datos que le sean requeridos por el órgano autonómico o local competente, o cualquier otra obstrucción, activa o pasiva, a la labor inspectora de la Administración.
+f) La falta de conservación de cualquier informe, certificación, registros de actuaciones, de personal o de instrumental u otra documentación, en la forma y plazos que se establezcan reglamentariamente.
+g) La realización de tareas de control ambiental o actuaciones que contravengan las normas reguladoras de su actividad, siempre que no se haya producido un daño o deterioro para el medio ambiente o se haya puesto en peligro la seguridad o salud de las personas, salvo que por su escasa entidad haya de considerarse leve.
+4. En el ejercicio de las funciones propias de las Entidades de Control Ambiental son infracciones leves:
+a) Emitir informes, certificaciones, análisis u otros actos con inexactitudes no sustanciales.
+b) La realización de tareas de control ambiental o actuaciones en contra de las normas reglamentarias reguladoras de su actividad, que por su escasa entidad hayan de considerarse leves.
+5. La comisión de las infracciones muy graves tipificadas en este artículo se sancionará con multa desde 60.001 hasta 300.000 euros. La comisión de las infracciones graves se sancionará con multa desde 10.001 hasta 60.000 euros. La comisión de infracciones leves, con multa de hasta 10.000 euros.
+6. Corresponde a la Consejería competente en materia de medio ambiente la imposición de sanciones por las infracciones tipificadas en este artículo.
+7. El órgano instructor del procedimiento administrativo sancionador puede adoptar la medida cautelar de suspensión de la habilitación de la entidad colaboradora o de su personal técnico presuntamente responsable de la infracción.
+Se modifica por la disposición adicional 2.5 del Decreto-ley 5/2022, de 20 de octubre. Ref. BORM-s-2022-90316#da-2
+
+### Artículo 155
+
+Artículo 155. Infracciones y sanciones relativas a la declaración anual de medio ambiente.
+1. En relación con la Declaración Anual de Medio Ambiente, constituye infracción grave la presentación de la Declaración Anual de Medio Ambiente con falsedades, inexactitudes u omisiones graves o que encubran incumplimientos de la normativa aplicable o de las condiciones impuestas en las autorizaciones con fines ambientales.
+2. Constituye infracción leve:
+a) El incumplimiento de la obligación de presentar en plazo la Declaración Anual de Medio Ambiente.
+b) La presentación de la Declaración Anual de Medio Ambiente con inexactitudes u omisiones que no constituyan infracción grave.
+3. La comisión de las infracciones graves tipificadas en este artículo se sancionará con multa desde 2.001 hasta 20.000 euros. La comisión de las infracciones leves se sancionará con multa de hasta 2.000 euros.
+4. Corresponde a la Consejería competente en materia de medio ambiente la imposición de sanciones por las infracciones tipificadas en este artículo.
+
+### Artículo 156
+
+Artículo 156. Reglas comunes para la clasificación de infracciones y cuantificación de sanciones.
+1. En cualquier caso, la cuantía de la multa impuesta será, como mínimo, igual al importe en que se haya beneficiado el infractor, aunque ello implique la superación de las cuantías máximas establecidas para cada clase de sanción.
+2. Excepcionalmente, por razón de la escasa o nula trascendencia del hecho sancionado y por resultar claramente desproporcionada la sanción prevista a la vista de las circunstancias concurrentes, podrá aplicarse la sanción establecida para la clase de infracción inmediatamente inferior, debiendo justificarse expresamente y de forma adecuada dicha decisión en el expediente sancionador.
+
+### Artículo 157
+
+Artículo 157. Sanciones accesorias.
+1. Además de las multas previstas en esta ley, la comisión de las infracciones que tipifica podrá llevar aparejada, motivadamente, la imposición de todas o algunas de las sanciones accesorias que se enumeran en los apartados siguientes.
+2. Por la comisión de infracciones muy graves:
+a) Imposibilidad de obtener, por plazo de hasta cinco años, subvenciones o ayudas públicas en materia de medio ambiente.
+b) Pérdida de la condición de Entidad de Control Ambiental, e imposibilidad de obtenerla por plazo máximo de cinco años.
+c) Cese de la instalación o actividad, por plazo de dos a cinco años, con revocación de la autorización o licencia y prohibición de obtenerla nuevamente durante el plazo de duración de la sanción.
+3. Por la comisión de infracciones graves:
+a) Imposibilidad de obtener, por plazo de hasta dos años, subvenciones o ayudas públicas en materia de medio ambiente.
+b) Pérdida de la condición de Entidad de Control Ambiental, e imposibilidad de obtenerla por plazo máximo de dos años.
+c) Cese de la instalación o actividad, por plazo de hasta dos años, con revocación de la autorización o licencia y prohibición de obtenerla nuevamente durante el plazo de duración de la sanción.
+4. Las sanciones firmes por infracción muy grave en materia medioambiental, comportan la prohibición para contratar, de acuerdo con lo previsto en el artículo 49.1.c de la Ley 30/2007, de 30 de octubre, de contratos del sector público. El procedimiento para declarar la prohibición de contratar y sus efectos, se regirán por lo dispuesto en la legislación reguladora de los contratos de las administraciones públicas. A estos efectos, el órgano competente para sancionar deberá notificar a la Junta Consultiva de Contratación Administrativa del Estado las sanciones firmes que dan lugar a la prohibición para contratar.
+5. Sin perjuicio de lo previsto en el apartado anterior, las personas que hayan sido sancionadas por faltas graves y muy graves derivadas del incumplimiento de la legislación ambiental, no podrán contratar con la Administración regional o local hasta que satisfagan la sanción.
+
+### Artículo 158
+
+Artículo 158. Graduación de las sanciones.
+En la imposición de las sanciones se deberá guardar la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada, considerando los criterios que a continuación se relacionan como circunstancias atenuantes o agravantes para la graduación de la sanción:
+a) Intencionalidad.
+b) Ánimo de lucro o beneficio ilícito obtenido.
+c) Grado de participación.
+d) Reincidencia, por comisión de otra u otras infracciones de la misma naturaleza en los últimos cinco años, que hayan dado lugar a la imposición de sanción que sea firme en vía administrativa.
+e) La medida en que el valor límite de emisión haya sido superado.
+f) Falta o no de controles exigibles en la actuación realizada o de las precauciones precisas en el ejercicio de la actividad.
+g) Magnitud del riesgo objetivo producido sobre la calidad del recurso o sobre el bien protegido.
+h) La repercusión, trascendencia o reversibilidad del daño producido, o su incidencia en la salud humana, recursos naturales y medio ambiente.
+i) Coste de la restitución.
+j) La ejecución del hecho aprovechando circunstancias de lugar, tiempo o auxilio de personas o medios que faciliten la impunidad.
+k) La capacidad económica del infractor.
+l) La adopción espontánea por el infractor de medidas eficaces para reparar el daño causado, con anterioridad a la iniciación del procedimiento sancionador, y la colaboración activa en el esclarecimiento de los hechos.
+m) Las diferencias entre los datos facilitados y los reales.
+
+### Artículo 159
+
+Artículo 159. Concurrencia de sanciones.
+1. No podrán sancionarse los hechos que hayan sido sancionados penal o administrativamente, en los casos en que se aprecie identidad del sujeto, hecho y fundamento.
+2. No se considerará que existe duplicidad de sanciones cuando una misma actuación infrinja normas de protección ambiental o de índole sectorial encaminadas a la protección de bienes o valores distintos.
+
+### Artículo 160
+
+Artículo 160. Prescripción de infracción y sanciones.
+1. Las infracciones previstas en esta ley prescribirán a los cinco años las muy graves, a los tres años las graves, y las leves al año.
+Las sanciones correspondientes a las infracciones previstas en esta ley prescribirán a los cuatro años.
+2. Los plazos de prescripción de las infracciones se computarán desde el día en que la infracción se hubiese cometido, desde su terminación si fuese continuada, y desde que pudo ser detectado el daño producido al medio ambiente si los efectos de éste no fuesen manifiestamente perceptibles.
+3. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquél en que sea firme la resolución por la que se imponga la sanción.
+4. Los plazos anteriores no son de aplicación en la adopción de las medidas no sancionadoras, por lo que no afectan al plazo establecido para ejercitar la acción de restablecimiento de la legalidad o para la adopción de las medidas de cese o suspensión de actividades ilegales, que podrán adoptarse en todo momento cuando concurran las circunstancias previstas en esta ley.
+
+### Artículo 161
+
+Artículo 161. Responsabilidad penal.
+En los supuestos en que las infracciones pudieran ser constitutivas de delito o falta, el órgano competente para iniciar el procedimiento pasará el tanto de culpa al órgano jurisdiccional competente, suspendiendo el procedimiento sancionador mientras la autoridad judicial no hubiera dictado sentencia firme o resolución que ponga fin al procedimiento. La sanción penal excluirá la imposición de sanción administrativa, en los casos en que se aprecie la identidad del sujeto, del hecho y del fundamento. De no haberse estimado la existencia de delito o falta, la administración podrá continuar el expediente sancionador, con base en los hechos que la jurisdicción competente haya considerado probados.
+
+### Artículo 162
+
+Artículo 162. Competencia.
+1. Corresponde a la Comunidad Autónoma de la Región de Murcia y a los ayuntamientos, según su respectiva competencia, la iniciación, instrucción y resolución del procedimiento sancionador, en las materias señaladas en esta ley y en las demás normas de protección ambiental.
+2. Corresponde a la Consejería competente en materia de medio ambiente la imposición de las sanciones por infracciones previstas en la normativa de evaluación de impacto ambiental de proyectos, cuando tales normas atribuyan la competencia a la Comunidad Autónoma de la Región de Murcia, salvo que se trate del incumplimiento de condiciones impuestas por la declaración de impacto ambiental en aspectos relativos a la competencia local, que se sancionará por el ayuntamiento en cuyo término se haya de ejecutar el proyecto.
+3. A efectos de lo establecido en el artículo 30.1.b) de la Ley 37/2003, de 17 de noviembre, del Ruido, las condiciones de ejercicio de las actividades que se refieren a aspectos de competencia local y que deben figurar en la licencia de actividad, son establecidas por los ayuntamientos, aunque aparezcan recogidas en las autorizaciones ambientales autonómicas.
+
+### Artículo 163
+
+Artículo 163. Órgano autonómico competente.
+1. La competencia autonómica para la resolución de los expedientes sancionadores a que se refiere al apartado anterior, corresponderá a los siguientes órganos:
+a) A la Dirección General competente en la materia, si se trata de infracciones leves o graves, o si se sobresee el expediente.
+b) A la Consejería competente en materia de medio ambiente, cuando se trate de infracciones muy graves de hasta 150.000 euros.
+c) Al Consejo de Gobierno, si se trata de infracciones muy graves cuya multa sobrepase los 150.000 euros.
+2. Cuando la resolución del procedimiento sancionador corresponda a la Consejería competente en materia de medio ambiente o al Consejo de Gobierno, la iniciación del procedimiento será competencia de la Dirección General competente en la materia.
+3. Cuando se propongan varias sanciones para cuya imposición fueran competentes órganos distintos, resolverá el expediente el superior de ellos.
+4. La resolución de los expedientes sancionadores instruidos por los ayuntamientos corresponderá a los órganos municipales que tengan atribuida esta competencia según sus propias normas de organización.
+
+### Artículo 164
+
+Artículo 164. Procedimiento sancionador.
+1. El procedimiento sancionador por infracciones a lo dispuesto en esta ley, o en otras leyes protectoras del medio ambiente que no tengan establecido un procedimiento sancionador específico, se regirá por los siguientes trámites:
+a) El procedimiento se iniciará mediante acuerdo de la Dirección General competente en la materia, que se notificará a los interesados, y que contendrá una sucinta referencia a los hechos que lo motivan, identidad del instructor, del secretario si lo hubiera, y la del órgano competente para resolver, con referencia a la norma que le atribuya dicha competencia.
+b) El instructor formulará un documento acusatorio, que contendrá los hechos -sucintamente expuestos- que motivaron la incoación del procedimiento, las infracciones imputadas y las sanciones que pudieran corresponderle, sin perjuicio de lo que resulte de la instrucción.
+El documento acusatorio se notificará al inculpado, para que pueda consultar el expediente, formular alegaciones y aportar pruebas en el plazo de 15 días, pudiendo formularse tras el inicio del procedimiento y notificarse junto con el acuerdo de iniciación, si existen ya los elementos que permitan formular un pronunciamiento preciso acerca de la responsabilidad imputada.
+c) El instructor del procedimiento realizará de oficio cuantas actuaciones resulten necesarias para el esclarecimiento de los hechos y la determinación de las responsabilidades y sanciones a que puedan dar lugar, incluyendo la práctica de las pruebas que resulten procedentes.
+d) Practicada, en su caso, la prueba y demás actuaciones pertinentes, el instructor formulará propuesta de resolución, que se notificará al inculpado, concediendo un plazo de quince días para formular alegaciones y presentar documentos.
+No obstante, el documento acusatorio se podrá considerar como propuesta de resolución, prescindiéndose del trámite de audiencia y elevándose el expediente a la resolución del órgano competente, cuando no figuren en el procedimiento ni sean tenidos en cuenta otros hechos ni otras alegaciones o pruebas distintas de las que fundamentaron el documento acusatorio y de las aducidas, en su caso, por el interesado.
+2. El plazo máximo para resolver y notificar la resolución del procedimiento sancionador será en todo caso de un año, contado desde la fecha del acuerdo de iniciación del procedimiento.
+3. La caducidad no producirá por sí misma la prescripción de la acción de la administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción.
+
+### Artículo 165
+
+Artículo 165. Medidas de carácter provisional.
+1. El órgano competente para imponer la sanción podrá adoptar las medidas de carácter provisional que resulten necesarias para asegurar la eficacia de la resolución final que pudiera recaer.
+2. Tales medidas provisionales serán independientes de las medidas de suspensión y cese y otras medidas de restablecimiento de la legalidad ambiental que se dicten al amparo de esta ley.
+
+### Artículo 166
+
+Artículo 166. Reconocimiento de responsabilidad.
+1. El reconocimiento de la propia responsabilidad por parte del infractor en los hechos imputados, comunicado al órgano instructor antes de la propuesta de resolución, determinará la finalización del procedimiento. En este caso, la resolución del procedimiento sancionador recogerá una reducción del 30 por 100 sobre el importe de la multa propuesta.
+2. En el documento acusatorio se informará al presunto responsable de la posibilidad de reconocer su responsabilidad, y se determinará la reducción que pueda ser aplicable sobre el importe de la sanción.
+3. La reducción podrá afectar a la cuantía de la sanción mínima, sin que ello signifique variación en la calificación de la infracción.
+4. No será de aplicación la reducción si el presunto infractor ha cometido una o varias infracciones de la misma naturaleza en los cinco años anteriores, con imposición de sanción que sea firme en vía administrativa.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Informe ambiental a que se someten los planes urbanísticos no sujetos a evaluación ambiental.
+(Derogada).
+Se deroga por la disposición derogatoria 1.b) de la Ley 13/2015, de 30 de marzo. Ref. BOE-A-2015-4790.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Registro de Técnicos, Equipos y Empresas dedicadas a la elaboración de estudios e informes ambientales.
+(Derogado).
+Se deroga por el art. 3.11 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
+ Anteriormente derogada por el Decreto-ley 4/2021, de 17 de junio.
+ Se deroga por el art. único.11 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Plazo para la aprobación del texto refundido de impuestos ambientales.
+El Consejo de Gobierno elaborará y aprobará en el plazo de un año a partir de la entrada en vigor de esta ley un texto refundido de las disposiciones legales vigentes en materia de impuestos ambientales, incluyendo las facultades de regularizar, aclarar y armonizar los textos que han de ser objeto de la refundición.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Prestación de servicios de carácter ambiental mediante la creación de una fundación.
+En el plazo de un año desde la entrada en vigor de esta ley, el Consejo de Gobierno aprobará la constitución de una fundación para la prestación de servicios públicos de carácter ambiental, tales como la ejecución de las acciones necesarias para la adquisición, gestión y análisis de sistemas (redes) de vigilancia ambiental; la elaboración de estudios, proyectos y planes; dirección y ejecución de obras; fomento de actividades de investigación, desarrollo, innovación y transferencia tecnológica en materia de medio ambiente; y otras actividades de prestación y gestión de servicios ambientales.
+Sin perjuicio de otros recursos económicos, la fundación recibirá aportaciones de los Presupuestos Generales de la Comunidad Autónoma. Una vez que se constituya la fundación, a dichas aportaciones quedarán afectados al menos los ingresos procedentes de la recaudación de los impuestos ambientales, excluidos los derivados del canon de saneamiento, con los efectos establecidos para los gastos con financiación afectada por el Decreto Legislativo 1/1999, de 2 de diciembre, por el que se aprueba el Texto Refundido de la Ley de Hacienda de la Región de Murcia.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Modelo provisional de Declaración Anual de Medio Ambiente.
+En tanto no se apruebe el modelo oficial para efectuar la Declaración Anual de Medio Ambiente a que se refiere el artículo 133, ésta se realizará de conformidad con el Anexo III del Real Decreto 508/2007, de 20 de abril, por el que se regula el suministro de información sobre emisiones del Reglamento E-PRTR y de las autorizaciones ambientales integradas.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Plan Regional de Contratación Pública Ambientalmente Responsable.
+En el plazo de un año desde la entrada en vigor de esta ley, el Consejo de Gobierno, a propuesta de la Consejería competente en materia de medio ambiente, aprobará un plan de contratación pública ambientalmente responsable, de aplicación a la Administración de la Comunidad Autónoma de la Región de Murcia y entidades de ella dependientes.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Constitución de una comisión de coordinación medioambiental.
+En el plazo de tres meses desde la entrada en vigor de esta ley y para facilitar los fines de integración previstos en ella, se constituirá una comisión de coordinación interadministrativa como cauce de colaboración y coordinación de los órganos de la administración autonómica y local con competencias en la tramitación de los procedimientos autorizatorios, de vigilancia y disciplina regulados por la ley.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Cánones por contaminación y vertidos al mar.
+Uno. Cánones por contaminación.
+1. Sin perjuicio de lo que se establezca en la legislación básica del Estado, todas las formas de contaminación ambiental devengarán el correspondiente impuesto a favor de la Administración regional, independientemente de los demás tributos que sean exigibles para dichas actividades por otros conceptos.
+2. De conformidad con lo establecido en el párrafo anterior, se crean los siguientes impuestos por contaminación ambiental:
+a) Impuestos sobre el almacenamiento o depósito de residuos en la Región de Murcia.
+b) Impuesto por emisiones de gases contaminantes a la atmósfera.
+c) Impuesto por vertidos al mar.
+3. Las cantidades recaudadas por la Administración regional por la exacción de estos impuestos se destinarán a la adopción de medidas de protección del medio ambiente.
+4. Estarán obligados al pago de estos impuestos las personas físicas y jurídicas y las demás entidades a las que se refiere el artículo 35 de la Ley General Tributaria, estén o no sometidas al régimen de calificación o declaración ambiental establecido en esta Ley.
+5. El importe de las exacciones será el resultado de multiplicar la carga contaminante de los residuos, emisiones y vertidos, expresada en unidades de contaminación por el precio de la unidad.
+Se entiende por unidad de contaminación un patrón convencional de medida, referido a la generación de residuos, emisiones a la atmósfera y vertidos al mar, equivalente a los producidos por un núcleo de población de mil habitantes y al período de un año.
+Se establecerán los baremos de equivalencia para la generación de residuos, emisiones a la atmósfera y vertidos al mar respecto de la unidad de contaminación definida en el párrafo anterior.
+6. La regulación de cada uno de los impuestos creados en este artículo se llevará a cabo mediante Ley.
+Dos. Cánones por vertidos al mar.
+1. Objeto, finalidad y afectación de los ingresos.
+a) El canon sobre vertidos a las aguas litorales grava la carga contaminante de los vertidos autorizados, con el fin de promover la calidad ambiental de las aguas litorales de la Región de Murcia.
+b) Sin perjuicio de las definiciones propias contenidas en el presente artículo, los conceptos de la materia medioambiental aplicables a los efectos del mismo serán los establecidos por la normativa medioambiental de la Comunidad Autónoma de la Región de Murcia, por la normativa básica estatal y por la normativa comunitaria aplicable a la materia.
+c) Los ingresos procedentes del canon de vertido se destinarán a actuaciones de vigilancia del cumplimiento de los niveles de emisión autorizados, así como a la financiación de actuaciones, obras de saneamiento y mejora de la calidad de las aguas litorales.
+2. Hecho imponible. Constituye el hecho imponible el vertido a las aguas litorales que se realice desde tierra a cualquier bien de dominio público marítimo-terrestre o a su zona de servidumbre de protección.
+3. Sujeto pasivo. Son sujetos pasivos a título de contribuyentes las personas físicas o jurídicas y las entidades sin personalidad jurídica a que se refiere el artículo 35.4 de la Ley General Tributaria, que realicen los vertidos objeto del presente canon.
+4. Responsable solidario.
+Será responsable solidario del pago del canon el titular de la conducción del vertido, en caso de que no coincida con el sujeto pasivo.
+5. Base imponible.
+a) Constituye la base imponible el valor de las unidades de contaminación producidas durante el periodo impositivo.
+Las unidades de contaminación (UC) se definen como el resultado de la siguiente operación:
+UC = carga contaminante del vertido/carga contaminante de referencia.
+La carga contaminante del vertido (C) será el resultado de la siguiente operación:
+C = MES + MO
+Donde MES será la materia en suspensión y MO la materia oxidable, equivalente a 2/3 de la demanda química de oxígeno.
+Para el cálculo de la carta contaminante del vertido se tendrá en cuenta los kilogramos de materia en suspensión y los kilogramos de DQO vertidos al mar en un año, utilizando la fórmula anterior. Para ello habrá de considerarse el volumen de vertido y la concentración de sólidos en suspensión y demanda química del vertido.
+En los vertidos procedentes de plantas desaladoras o de industrias en cuya autorización de vertido no se encuentre contemplado el parámetro DQO, éste se sustituirá por el parámetro DB05. En este caso, el valor asignado a la materia oxidable será igual a la DB05.
+La carga contaminante de referencia es la originada por un núcleo de población de 1.000 habitantes durante un año, y tiene un valor estimado de 53.655 Kg.
+Este valor se deduce a partir de la carga contaminante por habitante y día, estimado en 90 gr. de materia en suspensión y 57 gr. de materia oxidable.
+b) Para las industrias que utilizan el agua de mar como refrigeración, el importe del canon se calculará considerando independientemente la contaminación producida por el incremento térmico autorizado correspondiente al volumen que se destina a refrigeración y la producida por la composición física, química o biológica de las aguas alteradas en los diferentes procesos propios de la explotación de la instalación industrial.
+En este supuesto contaminante, incremento térmico, la base imponible será el volumen anual vertido, calculado en metros cúbicos.
+c) Determinación de parámetros. Los valores de DQO, DBO5 Y SS, serán un valor medio anual que se establecerá con todos los valores que se hayan ido registrando a lo largo del año a partir de las analíticas que se exigen en la autorización de vertido.
+El volumen se determinará tal y como establece la autorización de vertido.
+De no ser así, el cálculo de la carga contaminante del vertido se realizará con los valores de los parámetros DQO, DBO5, SS y volumen que se establecen como límites en la autorización de vertido.
+6.–Tipo impositivo.
+a) El tipo impositivo será el precio de la unidad de contaminación. Por precio de la unidad de contaminación se entiende el resultado de multiplicar el valor de 6.000 € por el baremo de equivalencia k, que tendrá un valor en función de la naturaleza del vertido y las concentraciones vertidas con respecto a los valores límites autorizados, según la siguiente tabla:
+Valores del baremo de equivalencia K.
+Aguas urbanas.
+Emisario submarino >500 m y dilución 1/100*: 1.
+Conducción de desagüe:
+Conducción submarina <500 m: 1.25
+En profundidad: 1.5
+En superficie: 1.75
+Aguas no urbanas que no contienen sustancias peligrosas según el anexo II del R.D. 259/1989.
+Emisario submarino >500 m y dilución 1/100*: 2.
+Conducción de desagüe:
+Conducción submarina <500 m: 3
+En profundidad: 3.5
+En superficie: 4
+Aguas no urbanas que contienen sustancias peligrosas según el anexo II del R.D. 258/1989.
+{sustancia} > {límite}
+Emisario submarino >500 m y dilución 1/100*: 7
+Conducción de desagüe:
+Conducción submarina <500 m: 8
+En profundidad: 9
+En superficie: 10
+{límite} >{Sustancia} >{Límite} 2
+Emisario submarino >500 m y dilución 1/100*: 6
+Conducción de desagüe:
+Conducción submarina <500 m: 7
+En profundidad: 8
+En superficie: 9
+{Sustancia} <{límite} / 2
+Emisario submarino >500 m y dilución 1/100*: 5
+Conducción de desagüe:
+Conducción submarina <500 m: 6
+En profundidad: 7
+En superficie: 8
+Para la determinación del baremo de equivalencia en el caso de que el agua vertida sea no urbana y contenga sustancias peligrosas según el anexo II del Real Decreto 258/1989, de 10 de marzo, se determinará en cuál de los siguientes casos se encuentran la concentración de SS y la concentración de DQO (DBO5 para los vertidos anteriormente citados) vertidas realmente por la empresa:
+La concentración vertida es superior o igual a la concentración límite autorizada.
+La concentración vertida se encuentra entre la concentración límite autorizada y la mitad de la concentración límite autorizada.
+La concentración vertida es inferior a la mitad de la concentración límite autorizada. Si los valores del baremo de equivalencia no coinciden para ambos parámetros (SS, DQO), se calculará el valor medio.
+b) Para las industrias que utilizan el agua de mar como refrigeración, el tipo impositivo será el valor del precio de la unidad de contaminación, obtenido de multiplicar el valor de 6.000 € por el baremo de equivalencia k, determinado de conformidad con la siguiente tabla:
+Volumen anual (V) destinado a aguas de refrigeración en Hm3< de 100. Valor del baremo de equivalencia k: 6,667 × 10-8
+Volumen anual (V) destinado a aguas de refrigeración en Hm3 entre 100 y 1.000. Valor del baremo de equivalencia k: –5,927 × 1 0-11 V + 7,260 × 10-8
+Volumen anual (V) destinado a aguas de refrigeración en Hm3 > de 1.000. Valor del baremo de equivalencia k: 1,333 × 10-8
+7. Cuota íntegra.
+La cuota íntegra será el resultado de aplicar el tipo impositivo a la base imponible.
+8. Periodo impositivo y devengo.
+1. El periodo impositivo coincidirá con el año natural.
+2. El impuesto se devengará el 31 de diciembre de cada año, sin perjuicio de lo establecido en el apartado siguiente.
+3. El periodo impositivo será inferior al año natural cuando se cese en la realización del vertido en un día distinto al 31 de diciembre y dicha circunstancia sea puesta en conocimiento de la Consejería de Medio Ambiente, produciéndose el devengo del impuesto en la fecha de dicho cese.
+4. El canon de vertido se devengará inicialmente en el momento del otorgamiento de la autorización de vertido y continuará devengándose anualmente conforme a la aprobación de cada una de las revisiones efectuadas sobre dicho canon hasta la extinción de aquélla.
+9. Declaración-liquidación y cuota diferencial.
+1. Los sujetos pasivos estarán obligados a presentar una declaración anual por cada vertido, dentro del plazo del mes siguiente a la conclusión del periodo impositivo.
+Los sujetos pasivos, al tiempo de presentar su declaración, deberán determinar la cuota diferencial.
+La cuota diferencial será el resultado de deducir de la cuota liquida los pagos fraccionados a cuenta a que se refiere el artículo siguiente que hubieran sido ya realizados por el sujeto pasivo.
+2. Si la cuota diferencial fuera positiva, se procederá a ingresar su importe en el plazo señalado en el apartado anterior y en el lugar y forma establecidos por la Consejería de Hacienda.
+3. Si como resultado de la deducción de los pagos fraccionados a cuenta se obtuviese una cuota diferencial negativa, el sujeto pasivo podrá compensarla con los pagos fraccionados a cuenta de los siguientes periodos impositivos.
+10. Pagos fraccionados a cuenta.
+1. En los primeros veinte días naturales de los meses de abril, julio y octubre, los sujetos pasivos deberán efectuar un pago fraccionado a cuenta de la liquidación correspondiente al periodo impositivo que esté en curso.
+2. En el supuesto de inicio de la actividad, los pagos fraccionados se realizarán a partir del trimestre en que se inicie dicha actividad, en los plazos a que se refiere el apartado anterior.
+3. El importe de cada pago fraccionado resultará de dividir entre cuatro la cuota resultante de aplicar el tipo impositivo vigente en el periodo impositivo en curso a la base imponible del ejercicio anterior, con deducción, en su caso, de la cuota diferencial negativa de ejercicios anteriores.
+4. En el año 2005, la base imponible vendrá determinada por los valores de los parámetros DQO, DB05, SS y volumen que se establecen como límites en la autorización de vertido.
+11. Régimen competencial y obligaciones formales.
+a) Competencias para la aplicación de este canon.
+Corresponde a la Consejería de Hacienda la titularidad de las funciones de liquidación, recaudación, inspección y revisión de los actos de gestión de este canon, correspondiéndole el desarrollo de los medios técnicos que faciliten el cumplimiento de las obligaciones en cuanto al lugar y forma de pago de este canon.
+b) La determinación y comprobación, en su caso, de los parámetros medioambientales que permitan la cuantificación de este canon será competencia de la Consejería de Medio Ambiente, quien podrá ordenar la instalación de instrumentos técnicos para la comprobación de los parámetros determinantes de este canon.
+c) Los sujetos pasivos del canon de vertidos al mar realizarán el pago en los modelos aprobados por la Consejería de Hacienda.
+d) Reclamaciones contra los actos de aplicación de este canon. El conocimiento de las reclamaciones interpuestas contra los actos dictados por la Consejería con relación al canon de vertidos al mar corresponderá a los órganos económico-administrativos de la Comunidad Autónoma, de conformidad con lo dispuesto en el articulo 20.1.a) de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas.
+12. Infracciones y sanciones. Las infracciones en relación con este canon de vertidos al mar serán calificadas y sancionadas con arreglo a lo dispuesto en la Ley General Tributaria y demás disposiciones que la desarrollen y complementen.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Tramitación telemática de los procedimientos administrativos recogidos en la presente Ley.
+(Suprimida).
+Se suprime por el art. 23.20 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+ Se modifica por el art. 3.19 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Actualización Directrices de Protección del Medio Ambiente.
+En el plazo de un año desde la entrada en vigor de la ley, el Consejo de Gobierno revisará y actualizará las Directrices de Protección del Medio Ambiente aprobadas con fecha 13 de diciembre de 2002.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Dotación de recursos humanos.
+El Consejo de Gobierno, a través de los Presupuestos Generales de la Comunidad Autónoma dotará de los recursos humanos necesarios a la Administración competente en materia de medio ambiente para garantizar la viabilidad de la presente ley.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Espectáculos públicos y actividades recreativas de carácter habitual, permanente y/o de temporada.
+1. En tanto se apruebe la ley reguladora de los espectáculos y actividades recreativas de la Región de Murcia, los espectáculos y actividades recreativas de carácter habitual, permanente y/o de temporada se someterán, por razones de interés público basadas en la seguridad ciudadana y la protección del medio ambiente, al siguiente régimen de intervención administrativa, según lo establecido en esta ley:
+a) Por regla general, los espectáculos y actividades recreativas de carácter habitual, permanente y/o de temporada quedan sometidos a declaración responsable ante el órgano municipal competente.
+b) No obstante, se someten a licencia de actividad los siguientes espectáculos públicos y actividades recreativas de carácter habitual o permanente y/o de temporada:
+1.º Parques de atracciones, parques temáticos y parques acuáticos.
+2.º Gimnasios con música, así como los que sin tener música dispongan de un aforo superior a 150 personas, y las piscinas de uso colectivo.
+3.º Discotecas, salas de baile, salas de fiesta, tablaos flamencos, karaokes, pubs y otros bares especiales, bares con música, así como los locales multiocio que comprendan alguno de los anteriores.
+4.º Otros espectáculos públicos o actividades recreativas de carácter habitual o permanente y/o de temporada en establecimientos cuya capacidad o aforo sea igual o superior a 150 personas.
+c) Quedan también sometidos a licencia de actividad el traslado y modificación sustancial de los espectáculos y actividades enumeradas en la letra anterior. Se considera sustancial la modificación de la clase de espectáculo o actividad a que fuera a dedicarse el establecimiento y la reforma sustancial de los establecimientos.
+No obstante, si se modifica el espectáculo o actividad por otro no sujeto a licencia, el promotor deberá comunicar el cambio de acuerdo con lo establecido para la declaración responsable.
+Se modifica el apartado 1.b).2º por el art. 62.11 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifica por el art. 3.16 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se añade por el art. 3.16 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Negociantes y agentes de residuos.
+En relación con la materia de gestión de residuos, se señala que en el caso de agentes y negociantes que actúen bajo ambos supuestos, tomando posesión física de los residuos solo en algunos casos, la fianza deberá ajustarse a esas circunstancias.
+Se añade por el art. 23.17 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Aplicación del Reglamento de actividades molestas, insalubres, nocivas y peligrosas aprobado por Decreto 2414/1961, de 30 de noviembre, (RAMINP).
+El Reglamento de actividades molestas, insalubres, nocivas y peligrosas, aprobado por Decreto 2414/1961, de 30 de noviembre y sus disposiciones de desarrollo, no será de aplicación en el ámbito de la Región de Murcia.
+Se añade por el art. 23.18 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta. Informe de afección a Red Natura 2000 de la Región de Murcia.
+1. En aplicación de la disposición adicional 7.1 de la Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental, y en referencia a aquellos planes, programas y proyectos que puedan afectar a espacios de la Red Natura 2000 de competencia autonómica de forma exclusiva, como actuación previa antes de su aprobación o adopción, el órgano de la Comunidad Autónoma de la Región de Murcia que asuma las competencias y funciones en materia de planificación y gestión de espacios naturales protegidos por la Red Natura 2000, emitirá, a petición del promotor del plan, programa o proyecto o de cualquier otro órgano administrativo competente para su autorización o aprobación, y antes de que esta se produzca, un informe de afección a Red Natura 2000 de la Región de Murcia, en el que se indique lo siguiente:
+a) Si existe o no relación directa de dicho plan, programa o proyecto con la gestión de un espacio Red Natura 2000 o si este es necesario para la gestión del Espacio.
+b) Si, con independencia de que se den o no las circunstancias del epígrafe anterior, el objeto de dicho plan, programa o proyecto consta expresamente como actividad permitida en el plan de gestión de dicho espacio Red Natura 2000, en su caso.
+c) Si no dándose las circunstancias señaladas en los epígrafes anteriores, dicho plan, programa o proyecto es o no es susceptible de causar efectos adversos apreciables sobre un espacio Red Natura 2000. El informe de afección a Red Natura 2000 de la Región de Murcia incluirá los posibles condicionantes a establecer para el plan, programa o proyecto en concreto, de forma que asegure su compatibilidad con la conservación de los recursos objeto de protección y, en su caso, la declaración de no afección a la Red Natura 2000.
+2. No será necesario someter el plan, programa o proyecto a evaluación ambiental por motivos de posible afección a la Red Natura 2000, en los casos en que el citado informe de afección a Red Natura 2000 de la Región de Murcia, recoja alguna de las circunstancias siguientes:
+a) Que el plan programa o proyecto tiene relación directa con el espacio Red Natura 2000 o es necesario para su gestión.
+b) Que su objeto es una actividad expresamente permitida por el plan de gestión del espacio.
+c) Que no es susceptible de causar efectos adversos apreciables sobre algún espacio Red Natura 2000, siempre que, en su caso, se cumplan los condicionantes que indique el propio informe.
+3. Del mismo modo, no será necesario someter el plan, programa o proyecto a evaluación ambiental por motivos de afección o posible afección a la Red Natura 2000, si el promotor señala en el mismo el apartado del plan de gestión del espacio en el que conste bien su relación directa con el espacio Red Natura 2000 o que es necesario para la misma, o bien que su objeto es una actividad expresamente permitida, extremo que deberá comprobar el órgano competente para la autorización o adopción del plan, programa o proyecto.
+4. A la solicitud del informe de afección a la Red Natura 2000 de la Región de Murcia, se acompañará la documentación técnica del plan, programa o proyecto, así como un documento técnico de evaluación de repercusiones de éste en la Red Natura 2000, que tendrá en cuenta los objetivos de conservación de cada lugar y las determinaciones de los planes de gestión de dichos espacios que tengan relación con el mismo, en su caso, y cuyo contenido se regulará reglamentariamente mediante orden del Consejero competente en materia de medio ambiente, en el plazo de seis meses desde la entrada en vigor de la presente disposición.
+Se añade por el art. 3.12 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
+ Se añade por el art. único.12 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta. Instalaciones de almacenamiento, valorización y eliminación de residuos.
+Las instalaciones de almacenamiento, valorización y eliminación de residuos ejecutadas por una administración o entidades públicas adscritas o dependientes de ella se considerarán infraestructuras básicas de uso y dominio público de interés general que tendrán, a todos los efectos, la condición de sistemas generales. Esta consideración de sistema general prevalecerá sobre las determinaciones previstas en el planeamiento urbanístico, el cual deberá adaptarse en caso de discordancia. La tramitación urbanística de estas instalaciones se realizará según el artículo 269.2 de la Ley 13/2015 de Ordenación del Territorio y Urbanismo de la Región de Murcia.
+Se añade por el art. 62.12 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Disposición adicional decimoséptima
+
+Disposición adicional decimoséptima. Infraestructuras eléctricas.
+1. Las infraestructuras cuyas autorizaciones sean competencia de la Región de Murcia y sean declaradas de utilidad pública conforme al artículo 54 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, y conforme al artículo 103 de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, así como la modificación, reforma y ampliación de las mismas, tendrán la consideración de sistemas generales, por lo que, no estarán sometidas al procedimiento de autorización excepcional definido en el art. 94.2 y 104 de la Ley 13/2015 de 30 de marzo, de Ordenación Territorial y Urbanística de la Región de Murcia.
+2. El apartado 1 anterior será aplicable a
+a) Líneas eléctricas de transporte y distribución.
+b) Subestaciones de transformación eléctrica.
+c) Red de transporte de gas canalizado.
+3. A su tramitación se aplicará lo siguiente:
+a. Se solicitará informe a la administración urbanística competente, al objeto recibir alegaciones sobre la adaptación de los proyectos al planeamiento urbanístico que resulte de aplicación. Este informe se emitirá en el plazo de un mes, pasado el cual se entenderá evacuado en sentido favorable.
+b. En el supuesto de que tales obras vayan a construirse sobre terrenos no reservados por el planeamiento urbanístico, y siempre que no sea posible resolver las eventuales discrepancias mediante acuerdo, de conformidad con la normativa de aplicación, la decisión autonómica respecto a la autorización de la infraestructura correspondiente prevalecerá sobre el planeamiento urbanístico, cuyo contenido deberá acomodarse a las determinaciones de aquella.
+c. La construcción, modificación y ampliación de las obras mencionadas no estarán sometidas a licencia urbanística o a cualquier otro acto de control preventivo municipal, siempre que se siga lo previsto en el apartado 1 de esta disposición, sin perjuicio de aquellas otras licencias o autorizaciones que deban exigirse de conformidad con la legislación medioambiental o de actividades calificadas.
+Se añade por el art. 62.12 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Aplicación del nuevo régimen de la autorización ambiental integrada.
+Los procedimientos de autorización ambiental integrada, o de renovación, que se encuentren en trámite al tiempo de entrada en vigor de esta ley, se tramitarán con arreglo al régimen jurídico aplicable al tiempo de su solicitud.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Adaptación al nuevo régimen de las autorizaciones ambientales sectoriales.
+1. Los procedimientos de autorización ambiental única que se encuentren en trámite a la entrada en vigor de esta norma, se tramitarán con arreglo al régimen jurídico aplicable al tiempo de su solicitud.
+Sin perjuicio de lo anterior, el solicitante podrá desistir del procedimiento y solicitar las autorizaciones ambientales sectoriales que correspondan y la licencia de actividad según la nueva regulación, pudiendo en los nuevos procedimientos convalidarse las actuaciones que resulte procedente.
+2. A las instalaciones en funcionamiento que actúen al amparo de una autorización ambiental única y una licencia de actividad, les será de aplicación el régimen propio de las autorizaciones ambientales sectoriales y de la licencia de actividad previsto en esta ley y en la legislación ambiental estatal. Las condiciones que figuran en las autorizaciones ambientales únicas se consideran condiciones propias de las autorizaciones ambientales sectoriales a que se refieran.
+3. A las autorizaciones ambientales sectoriales y las licencias de actividad obtenidas con anterioridad a la entrada en vigor de la presente ley, les será de aplicación el régimen propio de las autorizaciones ambientales sectoriales y de la licencia de actividad regulado en esta ley y en la legislación ambiental estatal.
+Se modifica por el art. 3.17 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.17 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Evaluaciones ambientales de proyectos realizadas antes de la entrada en vigor de la ley y actividades en funcionamiento.
+1. Aquellas actividades e instalaciones en funcionamiento que ya hayan sido objeto de evaluación ambiental de proyectos antes de la entrada en vigor de esta ley, no deberán someterse a evaluación ambiental en la tramitación de la autorización ambiental autonómica o su renovación, salvo que se produzcan modificaciones o ampliaciones del proyecto sujetas a evaluación ambiental.
+2. Aquellas actividades e instalaciones que, pese a estar enumeradas entre los supuestos de evaluación ambiental de proyectos, se hayan iniciado con anterioridad al tiempo en que fuera exigible someter el proyecto a evaluación ambiental, no se someterán a evaluación ambiental en la tramitación de la autorización ambiental autonómica o su renovación, salvo que se pretendan realizar con posterioridad en la actividad autorizada modificaciones o ampliaciones del proyecto sujetas a evaluación ambiental.
+3. Las declaraciones de impacto ambiental de proyectos formuladas con arreglo a la normativa anterior a esta ley, mantendrán su validez durante un plazo de cinco años contados a partir de su entrada en vigor. No obstante, si han transcurrido más de cinco años desde la formulación de la declaración de impacto ambiental sin comenzar la ejecución del proyecto, el órgano sustantivo deberá solicitar informe del órgano ambiental relativo a si se han producido cambios sustanciales en los elementos esenciales que sirvieron de base para realizar la evaluación ambiental del proyecto. Transcurrido dicho plazo sin que haya comenzado la ejecución del proyecto, será de aplicación lo dispuesto en el artículo 98.
+4. El seguimiento y vigilancia de las declaraciones de impacto ambiental de proyectos formuladas de acuerdo con la normativa anterior a esta ley, corresponde a los órganos sustantivos que se determinan en el artículo 88, salvo que la propia declaración de impacto ambiental establezca otra cosa.
+Las autorizaciones ambientales autonómicas, o su renovación, que afecten a proyectos previamente evaluados conforme a la normativa anterior, podrán especificar, siguiendo los criterios mencionados en el artículo 99.2, los órganos encargados del seguimiento y vigilancia de las distintas condiciones que fueron establecidas por la declaración de impacto ambiental.
+En todo caso, el órgano ambiental podrá recabar de los órganos encargados del seguimiento y vigilancia información al respecto, así como efectuar las comprobaciones necesarias en orden a verificar el cumplimiento del condicionado.
+5. Las condiciones derivadas de declaraciones de impacto ambiental de proyectos que esta ley ya no sujeta a evaluación ambiental, seguirán el régimen jurídico que les corresponde como condiciones impuestas por las correspondientes autorizaciones, incluida la competencia del órgano que concedió la autorización para la exigencia de su cumplimiento o la imposición de las sanciones que procedan.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Adaptación de las actividades sometidas únicamente a licencia de actividad.
+1. En actividades no sometidas a autorización ambiental autonómica, los procedimientos de licencia de actividad y de autorización de vertido al alcantarillado que se encuentren en trámite a la entrada en vigor de esta ley, se tramitarán con arreglo al procedimiento aplicable al tiempo de su solicitud.
+2. Una vez que comience la vigencia de esta ley, las nuevas solicitudes de licencia de actividad, o su modificación sustancial, se tramitarán siguiendo el procedimiento establecido en ella.
+Las licencias de actividad que se otorguen de conformidad con el procedimiento previsto en esta ley podrán facultar, en su caso, a su titular para realizar vertidos industriales a la red de saneamiento.
+3. Las actividades sometidas únicamente a licencia de actividad deberán presentar por primera vez el informe de Entidad de Control Ambiental a que se refiere el artículo 131.3, para la comprobación general de las condiciones ambientales exigibles, a los ocho años contados desde la entrada en vigor de esta ley, salvo que la propia licencia de actividad, a través del programa de vigilancia, establezca una periodicidad distinta.
+Si la actividad realiza vertidos industriales a la red de saneamiento, deberá presentar además un informe de Entidad de Control Ambiental acreditativo del cumplimiento de las condiciones impuestas en relación con el vertido, en el plazo de cuatro años desde la entrada en vigor de esta ley, salvo que el programa de vigilancia ambiental establezca una periodicidad mayor.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Vertidos de aguas residuales industriales al alcantarillado.
+1. Tras la entrada en vigor de la ley, no se podrán solicitar de manera independiente nuevas autorizaciones de vertidos a la red de saneamiento. Las condiciones impuestas por las autorizaciones de vertidos al alcantarillado ya otorgadas, se considerarán a todos los efectos condiciones impuestas por la licencia de actividad, salvo que la actividad careciera de licencia de actividad.
+2. En el plazo de un año a contar desde la entrada en vigor de esta ley, los ayuntamientos modificarán de oficio las licencias de actividad de instalaciones que realicen vertidos al alcantarillado, a los efectos de integrar en ellas las condiciones establecidas por las autorizaciones de vertidos.
+3. En tanto no entre en vigor el desarrollo reglamentario que modifique el Decreto 16/1999, de 22 de abril, de vertidos de aguas residuales industriales al alcantarillado, la documentación exigida por la normativa autonómica en relación con los vertidos de aguas residuales industriales a la red de saneamiento, a que se remiten los artículos 31,49 y 76, será la enumerada en el apartado 2 del artículo 2 del citado Decreto.
+Los contenidos de la licencia de actividad y del informe municipal previsto en el apartado 1 del artículo 34, relativos a los vertidos de aguas residuales industriales a la red de saneamiento, serán al menos los enumerados en el apartado 3 del artículo 2 del Decreto mencionado.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Plazo para que los ayuntamientos asuman la competencia en materia de calificación ambiental.
+1. Los ayuntamientos que, de conformidad con lo previsto en la Ley 1/1995, de 8 de marzo, de Protección del Medio Ambiente de la Región de Murcia, se encuentren ejerciendo a la entrada en vigor de esta ley las funciones de calificación ambiental de actividades, ya sea por competencia propia o delegada, asumirán desde ese momento la función de informe de calificación como competencia propia de acuerdo con lo establecido en esta ley.
+2. Los ayuntamientos que no vengan ejerciendo funciones de calificación ambiental, asumirán dichas competencias en el plazo de un año desde la entrada en vigor de esta ley, salvo que en dicho plazo soliciten y obtengan la dispensa a que se refiere el artículo 78.4.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Desempeño por las entidades colaboradoras en materia de calidad ambiental de las funciones que la ley atribuye a las Entidades de Control Ambiental.
+En tanto no entre en vigor el desarrollo reglamentario a que alude el artículo 132.4 las funciones previstas en esta ley para las Entidades de Control Ambiental se desempeñarán por las entidades colaboradoras en materia de calidad ambiental, siendo de aplicación el Decreto 27/1998, de 14 de mayo, en lo que no se oponga a esta ley.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Planes y proyectos urbanísticos en tramitación a la entrada en vigor de los anexos III y IV de esta ley.
+(Derogada).
+Se deroga por la disposición derogatoria 1.b) de la Ley 13/2015, de 30 de marzo. Ref. BOE-A-2015-4790.
+
+### Disposición derogatoria
+
+Disposición derogatoria. Derogación normativa.
+1. Queda derogada la Ley 1/1995, de 8 de marzo, de Protección del Medio Ambiente de la Región de Murcia.
+2. Queda derogada la disposición adicional segunda del Decreto Legislativo 1/2005, de 10 de junio, por el que se aprueba el Texto Refundido de la Ley del Suelo de la Región de Murcia, y las referencias que dicha norma hace a la evaluación de impacto ambiental, al estudio de impacto ambiental y a la declaración de impacto ambiental de instrumentos de ordenación territorial o urbanística.
+3. Asimismo, se derogan los apartados 4, 5, 6 y 7 del artículo 2, y el artículo 9 del Decreto 16/1999, de 22 de abril, de vertidos de aguas residuales industriales al alcantarillado.
+En lo demás, y hasta la entrada en vigor del desarrollo reglamentario a que se refiere el apartado 4 del artículo 66, mantendrá su vigencia el citado Decreto en lo que no se oponga a esta ley. En particular, se mantiene vigente la relación de vertidos prohibidos (anexo II), de valores máximos instantáneos de los parámetros de contaminación (anexo III) y de los métodos analíticos establecidos para la determinación de las características de los vertidos (anexo IV).
+4. Se deroga la Orden de 11 de diciembre de 1997, de adecuación de las industrias y demás actividades a las exigencias de la legislación ambiental.
+
+### Disposición final primera
+
+Disposición final primera. Título competencial.
+Esta ley se dicta al amparo de las competencias para la legislación de desarrollo y adicional de protección en materia de medio ambiente, previstas en el artículo 149.1.23.ª de la Constitución y artículo 11.3 del Estatuto de Autonomía de la Región de Murcia.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación para el desarrollo reglamentario.
+1. Se autoriza al titular de la consejería competente en materia de medio ambiente para dictar, en desarrollo de esta ley, las disposiciones que sean necesarias, así como para modificar los listados comprendidos en los anexos de esta ley.
+2. Igualmente, los titulares de otras consejerías con competencias en materias afectadas por el medio ambiente podrán formular a la consejería con competencias en materia de medio ambiente las propuestas normativas que faciliten la aplicación de la correspondiente legislación sectorial.
+Se modifca por el art. 1.23 de la Ley 5/2020, de 3 de agosto. Ref. BOE-A-2020-9795#ap
+ Se modifica por el art. único.23 del Decreto-ley 5/2020, de 7 de mayo. Ref. BORM-s-2020-90160
+ Se modifica el apartado 2 por el art. 3.20 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica el apartado 2 por el art. 3.19 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley entrará en vigor el 1 de enero de 2010.
+No obstante, los anexos II, III y IV entrarán en vigor a los veinte días de su publicación en el Boletín Oficial de la Región de Murcia, sustituyendo y derogando los anexos III y I de la Ley 1/1995, de 8 de marzo, de Protección del Medio Ambiente de la Región de Murcia; y la disposición adicional segunda del Decreto Legislativo 1/2005, de 10 de junio, por el que se aprueba el Texto Refundido de la Ley del Suelo de la Región de Murcia, en cuanto a los instrumentos de planeamiento urbanístico sometidos a evaluación ambiental.
+
+## ANEXO I
+
+Actividades sometidas a licencia de actividad
+1. Las actividades sometidas a alguna autorización ambiental sectorial.
+2. Las actividades económicas privadas cuyo proyecto esté sometido a evaluación de impacto ambiental ordinario o simplificado, excepto aquellas que a su vez estén sometidas a autorización ambiental integrada.
+3. Las actividades que se desarrollen en inmuebles de interés cultural.
+4. Los espectáculos públicos y actividades recreativas, cuando lo establezca su normativa específica.
+5. Las actividades ganaderas que no estando sometidas a autorización ambiental autonómica ni a evaluación de impacto ambiental, dispongan al menos de:
+• Reproductores vacunos: 50 cabezas.
+• Vacunos de cebo: 100 cabezas.
+• Reproductores de ovinos y/o caprinos: 300 cabezas.
+• Cebaderos de ovino y/o caprino: 750 cabezas.
+• Cerdas reproductoras: 250 cabezas.
+• Cerdos de cebo: 1000 cabezas.
+• Ganado equino (caballos, asnos, mulas): 50 cabezas.
+• Gallinas: 3.000 gallinas.
+• Pollos de engorde: 8.000 cabezas.
+• Otras aves de corral (perdices, codornices, patos): 4.000 cabezas.
+• Conejas reproductoras: 600 cabezas.
+Se modifica el apartado 2 por el art. 3.13 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
+ Se modifica el apartado 2 por el art. único.13 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
+ Se modifica por el art. 23.19 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
+ Se modifica por el art. 3.18 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.18 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+ Se modifica por la disposición final 2.7 de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
+
+## ANEXO II
+
+Condiciones que deben cumplir las actividades para ser consideradas inocuas
+1. Condiciones en relación con los ruidos y vibraciones:
+a) Que la actividad cumpla con los niveles máximos de transmisión, aérea o estructural, en ambientes interiores o exteriores, establecidos en la normativa vigente en materia de ruido ambiental, sin emplear medidas correctoras, o bien empleando como única medida la simple absorción de sus paramentos y cubierta (cerramientos), evitando en este caso mantener parte de superficies abiertas, siempre y cuando el ruido generado no supere los 70 dB(A) como valor máximo en las condiciones más desfavorables.
+No obstante, podrá superarse el límite anterior siempre que el ruido del recinto sea menor que 75 dB(A), y el nivel de aislamiento acústico mínimo sea el establecido por el Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación y por el Real Decreto 1371/2007, de 19 de octubre, por el que se aprueba el documento básico “DB-HR Protección frente al ruido” del Código Técnico de la Edificación y se modifica el Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación.
+b) Que la actividad no disponga de electromotores que precisen una potencia superior a 6,6 kW, o de motores u otras maquinas neumáticas, hidráulicas o de otro tipo, que funcionen con gas, gasoil, fueloil, gasolina o una energía alternativa, de una potencia equivalente a la mencionada. La potencia se calculará por la suma de la potencia de cada uno de los motores que accionen las máquinas y aparatos existente en la actividad. No entraran en este cómputo aquellos elementos no relacionados con producción, como ascensores, alumbrado, instalaciones de ventilación forzada o instalaciones de aire acondicionado.
+c) Que la actividad no cuente con equipos de aire acondicionado cuyas unidades compresoras se ubiquen fuera del local y tengan una potencia eléctrica instalada superior a 10 kW.
+2. Condiciones en relación con los olores, humos y/o emanaciones:
+a) Que en la actividad no se desarrollen combustiones u otros procesos físicos o químicos que originen emisiones de gases, vapores y polvos a la atmósfera, a salvo de lo dispuesto en el punto 7. Cumplen esta condición las actividades en las cuales, para evitar humos y olores, se instalen sistemas de renovación de aire mecánicos en las zonas o estancias de producción de gases, vapores y polvo, con equipos que eliminen olores, grasas, humos o los reduzcan a los límites establecidos por las entidades locales mediante las correspondientes ordenanzas o reglamentaciones.
+b) Que la actividad no disponga de hornos eléctricos u otros aparatos generadores de olores y/o humos cuya potencia sea superior a 5 kW o, siendo inferior, que la suma total de las potencias supere los 6,5 kW térmicos o eléctricos.
+3. Condiciones relativas a la contaminación atmosférica:
+Que la actividad no esté incluida en el Catálogo de Actividades Potencialmente Contaminadora de la Atmósfera (CAPCA) del Real Decreto 100/2011, de 28 de enero.
+4. Condiciones relativas a las radiaciones ionizantes:
+Que la actividad no sea susceptible de emitir ninguna radiación ionizante.
+5. Condiciones referentes a los vertidos de aguas residuales:
+Que la actividad no requiera autorización de vertido al alcantarillado por tratarse de aguas sanitarias o asimilables a ellas; o en caso contrario, que el vertido no precise una depuración previa.
+6. Condiciones relativas a la prevención y protección frente a incendios:
+Que la carga térmica ponderada de la actividad sea inferior a 100 Mcal/m².
+7. Condiciones sobre manipulación de sustancias peligrosas o generación de residuos peligrosos y actividades potencialmente contaminantes del suelo:
+a) Que la actividad no utilice, manipule, ni genere sustancias consideradas como peligrosas de acuerdo con lo dispuesto en el anexo I del Reglamento (CE) 1272/2008, del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas, y por el que se modifican y derogan las directivas 67/548/CEE y 1999/45/CE y se modifica el Reglamento (CE) 1907/2006, o normativa que lo sustituya o complemente.
+b) En el caso de que la actividad almacene productos químicos o combustibles envasados, que el local no supere los 200m2 de superficie y que la cantidad almacenada no requiera autorización como APQ (almacenamiento de productos químicos).
+c) Que la actividad no genere residuos peligrosos en cantidad superior a 10 Tm/año, según lo dispuesto en el anexo III de la Ley 22/2011, de 28 de julio, de Residuos y Suelos Contaminados, o normativa que lo sustituya o complemente.
+d) Que la actividad no esté incluida en el catálogo de actividades potencialmente contaminantes del suelo.
+8. Condiciones referentes al riesgo de legionelosis:
+Que la actividad no disponga de instalaciones sujetas a programas de mantenimiento incluidas en el artículo 2 del Real Decreto 865/2003, de 4 de julio, por el que se establecen los criterios higiénico-sanitarios para la prevención y control de la legionelosis, o normativa que lo sustituya o complemente.
+Se modifica el apartado 1.c) por el art. 62.13 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
+ Se modifica por el art. 3.18 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.18 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+
+## ANEXO III
+
+Instalaciones ganaderas de carácter doméstico
+Se entenderá que las siguientes instalaciones ganaderas tienen carácter doméstico, y, en consecuencia, no constituyen actividades a los efectos de esta ley:
+1. Instalaciones que comprendan una sola de las siguientes categorías de animales y cuya capacidad no supere en ningún caso la establecida a continuación:
+– Dos cabezas de reproductores vacunos.
+– Cuatro vacunos de cebo menores de un año.
+– Dos equinos reproductores.
+– Cuatro cerdas reproductoras.
+– Seis cerdos de cebo.
+– Seis cabezas de ganado ovino o caprino.
+– Diez conejas madres.
+– Cuarenta aves (excluidas ratites).
+2. Instalaciones en las que cohabiten especies de más de una de las categorías mencionadas en el número anterior, en cuyo caso el número máximo de animales de cada una de ellas se reducirá a la mitad.
+Se modifica por el art. 3.18 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
+ Se modifica por el art. 3.18 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
+ Se modifican los apartados A), grupo 9.g) y B), grupos 4.h) y 6.c), por la disposición final 2.8 de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
+
+## ANEXO IV
+
+Aplicación del régimen de evaluación ambiental a los instrumentos de planeamiento urbanístico
+(Derogado).
+Se deroga por la disposición derogatoria 1.b) de la Ley 13/2015, de 30 de marzo. Ref. BOE-A-2015-4790.
+ Se modifican los apartados 3 y 5, por la disposición final 2.9 y 10 de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Murcia, 14 de mayo de 2009.
+El Presidente,
+Ramón Luis Valcárcel Siso

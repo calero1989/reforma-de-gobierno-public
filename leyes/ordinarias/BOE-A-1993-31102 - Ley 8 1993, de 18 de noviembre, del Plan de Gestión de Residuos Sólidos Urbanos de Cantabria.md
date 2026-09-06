@@ -1,0 +1,120 @@
+# Ley 8/1993, de 18 de noviembre, del Plan de Gestión de Residuos Sólidos Urbanos de Cantabria.
+
+- Identificador BOE: `BOE-A-1993-31102`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1993-31102
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA DIPUTACIÓN REGIONAL DE CANTABRIA
+Conózcase que la Asamblea Regional de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2 del Estatuto de Autonomía para Cantabria, promulgo la siguiente
+LEY DE CANTABRIA 8/1993, DE 18 DE NOVIEMBRE, DEL PLAN DE GESTIÓN DE RESIDUOS SÓLIDOS URBANOS DE CANTABRIA
+EXPOSICIÓN DE MOTIVOS
+El artículo 25 del Estatuto de Autonomía para Cantabria confiere, en su apartado uno.h, competencia a la Diputación Regional para dictar normas adicionales de protección del medio ambiente.
+Dicha competencia ha sido delegada por la vía del artículo 150.2 de la Constitución, correspondiendo, por tanto, al Estado la «legislación básica sobre protección del medio ambiente» (artículo 149.1.25 de la propia Constitución) y a la Diputación Regional únicamente la de desarrollo y la función ejecutiva.
+La Ley 42/1975, de 19 de noviembre, de Recogida y Tratamiento de los Desechos y Residuos Sólidos Urbanos, modificada por el Real Decreto Legislativo 1163/1986, de 13 de junio, establece, en su artículo 11.3, la competencia de las Comunidades Autónomas para formular planes de gestión de residuos en su ámbito territorial de acuerdo con las previsiones de esta Ley y del Plan Nacional de Gestión de Residuos que serán de obligado cumplimiento para Entidades públicas y privadas.
+La Diputación Regional, en uso de las competencias mencionadas y las que le corresponden como Diputación Provincial, puede aprobar planes de incidencia supramunicipal en las materias que por su magnitud, importancia o especiales características así lo aconsejen.
+La necesidad de coordinar en el ámbito superior al municipal la gestión de residuos sólidos, la repercusión que este acuciante problema posee sobre el medio ambiente de la Comunidad y la necesidad de optimizar las cuantiosas inversiones en equipamientos e infraestructuras, obligan a que la Diputación Regional de Cantabria asuma la responsabilidad que le corresponde en la gestión de los residuos sólidos urbanos en el ámbito de esta Comunidad, aprobando para ello los medios más convenientes y situando sobre la geografía de Cantabria los emplazamientos adecuados para dar una solución global a los distintos problemas que se plantean. Todo ello en coordinación con los Ayuntamientos de la región y sin menoscabo de sus competencias en esta materia.
+De conformidad con lo indicado por Decreto 23/1987, de 22 de abril, se aprobó el Plan de Gestión de Residuos Sólidos Urbanos de Cantabria y la Diputación Regional ha realizado un esfuerzo técnico y económico de gran magnitud que ha producido un gran avance para la corrección de los gravísimos problemas ambientales que aquejaban el medio natural de Cantabria en relación con la gestión de los residuos sólidos urbanos.
+En los últimos años la política ambiental comunitaria en materia de residuos ha experimentado una rapidísima transformación, recogida en la Directiva 91/156/CEE y el Dictamen 92/CEE/4026. Asimismo, las exigencias ambientales en relación con la prevención de la contaminación atmosférica procedente de las instalaciones de incineración de residuos municipales contenidas en las Directivas del Consejo 89/369/CEE y 89/429/CEE, se han incrementado sustancialmente.
+La experiencia adquirida en el desarrollo y ejecución del Plan de Gestión aconsejan su adaptación a las necesidades y circunstancias actuales por la Asamblea Regional en base a su potestad legislativa en relación a las competencias exclusivas de la Diputación Regional, entre las que se encuentra la ordenación del territorio, y la competencia planificadora en materia de gestión establecida en la legislación estatal, que no objeta, sino más bien exige, jurídicamente aprobar con ese rango normativo el Plan de Gestión de Residuos Sólidos Urbanos para Cantabria.
+Finalmente, debe ser objetivo fundamental y prioritario de un moderno plan de tratamiento de los residuos sólidos urbanos, un adecuado tratamiento normativo y una decidida promoción del reciclado en origen; y simultáneamente, vinculado al mismo pero no sólo limitado a él, una política educativa decidida y adecuada, una suficiente y completa información y unos incentivos atrayentes para los ciudadanos.
+
+### Artículo 1
+
+Artículo 1.
+Es objeto de la presente Ley aprobar el Plan de Gestión de Residuos Sólidos Urbanos de Cantabria.
+
+### Artículo 2
+
+Artículo 2.
+Toda actuación en el ámbito territorial de Cantabria relacionada con los residuos contemplados en la Ley 42/1975, de 19 de noviembre, se realizará dentro de las normas del Plan que es de obligado cumplimiento para Entidades públicas y privadas sin perjuicio de las competencias de los Ayuntamientos en esta materia y en coordinación con ellos.
+
+### Artículo 3
+
+Artículo 3.
+Los objetivos del Plan de Gestión de Residuos Sólidos Urbanos de Cantabria son:
+a) Evitar el impacto ambiental que sobre el suelo, agua, atmósfera, paisaje y, en general, el medio natural de Cantabria origina el depósito incontrolado de basuras.
+b) Establecer en todo el ámbito regional el tratamiento adecuado de los residuos sólidos urbanos de manera que, además de asegurar su idoneidad desde el punto de vista ambiental, se asegure su viabilidad técnica y económica, declarándose por tanto de interés comunitario el tratamiento de los residuos sólidos urbanos.
+c) Optimizar la utilización de medios mecánicos fijos y móviles en la recogida de los residuos sólidos urbanos.
+d) Establecer un sistema de ayudas técnicas y económicas a los municipios para la recogida y transporte de los residuos sólidos urbanos considerando que la economía de escala tiene gran importancia y exige planteamientos supramunicipales.
+e) Fijar los criterios técnicos medioambientales que deben regir el almacenaje, implantación de instalaciones y tratamiento de residuos sólidos urbanos, cuya localización, características funcionales y ámbito requieren planteamientos supramunicipales.
+f) Conseguir la clausura, sellado y restauración de vertederos incontrolados.
+g) La educación, información e incentivación de los ciudadanos para la selección de las basuras y el reciclado en origen.
+h) El establecimiento de un plan de selección, reciclado y recuperación en los municipios, acordando a tal efecto los oportunos Convenios con los Ayuntamientos y colaborando económicamente a su realización.
+
+### Artículo 4
+
+Artículo 4.
+1. La recogida domiciliaria se efectuará con las necesarias garantías para preservar la salud de las personas, animales y conservación del medio ambiente, realizándose en general en camiones de caja cerrada y con sistema de compactación.
+2. Las ordenanzas municipales regularán las disposiciones en las vías públicas de las basuras domiciliarias fomentándose la disposición en contenedores.
+3. Para una optimización técnica y económica de los medios de recogida se recomienda la formación de mancomunidades de municipios o de consorcios o cualquier forma de actuación conjunta de municipios, incluso con otras Administraciones o Entidades públicas o privadas. La Diputación Regional cooperará fomentando la constitución de dichas figuras asociativas.
+4. Cuando las distancias del transporte y el tonelaje de residuos lo justifique se establecerán estaciones de transferencia en las que se asegure que no se derramen ni se almacenen residuos, prohibiéndose la permanencia de basuras en la planta, en las tolvas o en los contenedores por más de veinticuatro horas.
+
+### Artículo 5
+
+Artículo 5.
+1. El Gobierno de Cantabria aprobará el correspondiente Plan de residuos urbanos. Dicho Plan determinará las instalaciones de valorización y eliminación de residuos en las que se llevará a cabo la gestión final de los residuos urbanos, así como la ubicación y ámbito geográfico de los centros de transferencia, sin perjuicio de las demás determinaciones que deba contener, de conformidad con lo establecido en los apartados 1 y 4 del artículo 5 de la Ley 10/1998, de 21 de abril, de Residuos.
+2. Se ha seleccionado, como forma general de eliminar los residuos, el reciclaje integral, adecuadamente complementado por sistemas de selección y reciclado en origen, cuyo desarrollo se debe acometer obligatoriamente de manera coordinada con el sistema general. Junto a ambos, el resto de los sistemas empleados, tienen carácter complementario o subsidiario.
+3. Los vertederos controlados se adaptarán a las normas técnicas que la CEE desarrolle como consecuencia del Dictamen sobre la Propuesta de Directiva del Consejo relativa al vertido de residuos 92/CEE/4026.
+4. Los hornos autoincineradores se adaptarán a lo dispuesto en las Directivas 89/369/CEE y 89/429/CEE, relativas a la reducción de la contaminación atmosférica procedente de instalaciones de incineración de residuos municipales cumpliendo en su adaptación los plazos señalados en dichas Directivas.
+Se modifica el apartado 1 por el art. 1.1 de la Ley 6/2005, de 26 de diciembre. Ref. BOE-A-2006-677.
+
+### Artículo 6
+
+Artículo 6.
+1. Para el adecuado cumplimiento de lo establecido en esta Ley, el Gobierno de Cantabria fomentará la creación de consorcios y mancomunidades municipales de recogida y transporte de residuos urbanos, de conformidad con lo establecido en la legislación sobre régimen local.
+2. El Gobierno de Cantabria prestará el apoyo necesario a las Entidades locales, de conformidad con lo establecido en la legislación sobre régimen local, cuando las citadas Administraciones no puedan hacerse cargo de la prestación de los servicios de recogida y transporte de residuos urbanos.
+Los servicios enunciados en el párrafo anterior podrán ser prestados por el Gobierno de Cantabria, previo acuerdo con la Entidad local correspondiente y en los términos establecidos en el artículo 9.2.
+Se modifica por el art. 1.2 de la Ley 6/2005, de 26 de diciembre. Ref. BOE-A-2006-677.
+
+### Artículo 7
+
+Artículo 7.
+La Diputación Regional de Cantabria, en ejercicio de sus competencias, adoptará las medidas oportunas, incluso con sanción y clausura, tendentes a suprimir los vertidos incontrolados o a corregir la explotación no ajustada a la normativa de los vertederos existentes.
+
+### Artículo 8
+
+Artículo 8.
+1. De acuerdo con lo establecido en el artículo 12.3 de la Ley 10/1998, de 21 de abril, de Residuos, se declaran servicio público de titularidad autonómica, por su carácter supramunicipal, las siguientes actividades de gestión de los residuos urbanos generados en la Comunidad Autónoma de Cantabria:
+a) La recogida selectiva de residuos urbanos mediante el establecimiento de puntos limpios, sin perjuicio de que las entidades locales puedan implantar sus propios puntos limpios en el ejercicio de sus competencias en materia de protección del medio ambiente y de recogida de residuos.
+b) Almacenamiento en los centros de transferencia y transporte desde dichos centros hasta las instalaciones de valorización o eliminación.
+c) Gestión final de los residuos urbanos, mediante valorización o eliminación.
+2. Los servicios enumerados en las letras b) y c) del apartado anterior serán de recepción obligatoria por parte de los entes locales y devengarán la correspondiente tasa. En todo caso, el importe de la tasa será el mismo, con independencia de la distancia entre los Entes locales o los centros de transferencia y las instalaciones en las que se lleve a cabo la gestión final de los residuos urbanos.
+Se modifica por el art. 22 de la Ley 6/2009, de 28 de diciembre. Ref. BOE-A-2010-931.
+
+### Artículo 9
+
+Artículo 9.
+1. Sin perjuicio de los derechos que correspondan a los Ayuntamientos, o Mancomunidades, si la Diputación Regional de Cantabria actuare por subrogación en la prestación del servicio, incluirá en sus Presupuestos la financiación total o parcial de las inversiones que serán precisas para la ejecución de las actuaciones previstas en la presente Ley.
+2. Cuando, en aplicación de lo establecido en el apartado 2 del artículo 6, el Gobierno de Cantabria se haga cargo de los servicios enumerados en dicho precepto, la prestación de tales servicios será retribuida mediante precio público.
+3. Estarán obligadas al pago de los precios públicos las Corporaciones Locales, Entidades Locales Menores y demás Entes públicos contemplados en la Ley 7/1985, de 2 de abril, en calidad de sujetos pasivos beneficiarios del servicio para el caso que actuara por subrogación.
+Los importes de los precios públicos deberán cubrir, como mínimo, el coste del servicio prestado o de la actividad realizada. En el caso de que la gestión de la recogida y transporte se efectúe por la propia Diputación Regional, en virtud de lo dispuesto en el artículo 6. de la presente Ley, sobre los precios públicos mencionados para la gestión de tratamiento se aplicarán las correspondientes a este servicio de recogida y transporte en función a la distancia, densidad de población o dispersión poblacional respecto del punto de vertido. Se tendrán en cuenta además criterios de solidaridad regional, para adecuar las tarifas a especiales situaciones económicas o de marginación de los municipios. La posible disminución de ingresos será asumida por la Diputación Regional de Cantabria.
+Se modifica el apartado 2 por el art. 1.4 de la Ley 6/2005, de 26 de diciembre. Ref. BOE-A-2006-677.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones contradigan lo establecido en la presente Ley y en especial el Decreto 23/1987, de 22 de abril, por el que se aprueba el Plan de Gestión de Residuos Sólidos Urbanos de Cantabria.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo de Gobierno de la Diputación Regional a dictar las disposiciones necesarias para el desarrollo y ejecución del Plan de Gestión de Residuos Sólidos y Urbanos aprobados por esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de Cantabria».
+
+### Disposición final quinta
+
+Disposición final quinta (sic). Prestación del servicio público autonómico de gestión de residuos sólidos urbanos.
+Hasta que el Gobierno apruebe, y entre en vigor, el Plan de residuos urbanos regulado en el artículo 5.1 de la Ley 8/1993, de 13 de noviembre, del Plan de Gestión de Residuos Sólidos Urbanos, el servicio público autonómico de gestión de residuos urbanos regulado en el artículo 8 de la citada Ley se prestará en las instalaciones de gestión final de titularidad autonómica que, a tal efecto, designe la Consejería de Medio Ambiente.
+Se añade por el art. 1.5 de la Ley 6/2005, de 26 de diciembre. Ref. BOE-A-2006-677.
+
+Palacio de la Diputación, Santander, 18 de noviembre de 1993.
+JUAN HORMAECHEA CAZÓN,
+Presidente del Consejo de Gobierno

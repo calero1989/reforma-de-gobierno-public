@@ -1,0 +1,1032 @@
+# Ley 50/1980, de 8 de octubre, de Contrato de Seguro.
+
+- Identificador BOE: `BOE-A-1980-22501`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+## TÍTULO PRIMERO
+
+TÍTULO I
+
+## SECCIÓN PRIMERA
+
+Sección primera. Preliminar
+
+### Artículo primero
+
+Artículo primero.
+El contrato de seguro es aquel por el que el asegurador se obliga, mediante el cobro de una prima y para el caso de que se produzca el evento cuyo riesgo es objeto de cobertura a indemnizar, dentro de los límites pactados, el daño producido al asegurado o a satisfacer un capital, una renta u otras prestaciones convenidas.
+
+### Artículo segundo
+
+Artículo segundo.
+Las distintas modalidades del contrato de seguro, en defecto de Ley que les sea aplicable, se regirán por la presente Ley, cuyos preceptos tienen carácter imperativo, a no ser que en ellos se disponga otra cosa. No obstante, se entenderán válidas las cláusulas contractuales que sean más beneficiosas para el asegurado.
+
+### Artículo tercero
+
+Artículo tercero.
+Las condiciones generales, que en ningún caso podrán tener carácter lesivo para los asegurados, habrán de incluirse por el asegurador en la proposición de seguro si la hubiere y necesariamente en la póliza de contrato o en un documento complementario, que se suscribirá por el asegurado y al que se entregará copia del mismo. Las condiciones generales y particulares se redactarán de forma clara y precisa. Se destacarán de modo especial las cláusulas limitativas de los derechos de los asegurados, que deberán ser específicamente aceptadas por escrito.
+Las condiciones generales del contrato estarán sometidas a la vigilancia de la Administración Pública en los términos previstos por la Ley.
+Declarada por el Tribunal Supremo la nulidad de alguna de las cláusulas de las condiciones generales de un contrato, la Administración Pública competente obligará a los aseguradores a modificar las cláusulas idénticas contenidas en sus pólizas.
+
+### Artículo cuarto
+
+Artículo cuarto.
+El contrato de seguro será nulo, salvo en los casos previstos por la Ley, si en el momento de su conclusión no existía el riesgo o había ocurrido el siniestro.
+
+## SECCIÓN SEGUNDA
+
+Sección segunda. Conclusión, documentación del contrato y deber de declaración del riesgo
+
+### Artículo quinto
+
+Artículo quinto.
+El contrato de seguro y sus modificaciones o adiciones deberán ser formalizadas por escrito. El asegurador está obligado a entregar al tomador del seguro la póliza o, al menos, el documento de cobertura provisional. En las modalidades de seguro en que por disposiciones especiales no se exija la emisión de la póliza el asegurador estará obligado a entregar el documento que en ellas se establezca.
+
+### Artículo sexto
+
+Artículo sexto.
+La solicitud de seguro no vinculará al solicitante. La proposición de seguro por el asegurador vinculará al proponente durante un plazo de quince días.
+Por acuerdo de las partes, los efectos del seguro podrán retrotraerse al momento en que se presentó la solicitud o se formuló la proposición.
+
+### Artículo sexto bis
+
+Artículo sexto bis.
+(Derogado).
+Se deroga por la disposición derogatoria.a) de la Ley 22/2007, de 11 de julio. Ref. BOE-A-2007-13411
+ Se añade por el art. 2.1 de la Ley 34/2003, de 4 de noviembre. Ref. BOE-A-2003-20330
+
+### Artículo séptimo
+
+Artículo séptimo.
+El tomador del seguro puede contratar el seguro por cuenta propia o ajena. En caso de duda se presumirá que el tomador ha contratado por cuenta propia. El tercer asegurado puede ser una persona determinada o determinable por el procedimiento que las partes acuerden.
+Si el tomador del seguro y el asegurado son personas distintas, las obligaciones y los deberes que derivan del contrato corresponden al tomador del seguro, salvo aquellos que por su naturaleza deban ser cumplidos por el asegurado. No obstante, el asegurador no podrá rechazar el cumplimiento por parte del asegurado de las obligaciones y deberes que correspondan al tomador del seguro.
+Los derechos que derivan del contrato corresponderán al asegurado o, en su caso, al beneficiario, salvo los especiales derechos del tomador en los seguros de vida.
+
+### Artículo octavo
+
+Artículo octavo.
+La póliza del contrato deberá redactarse, a elección del tomador del seguro, en cualquiera de las lenguas españolas oficiales en el lugar donde aquélla se formalice. Si el tomador lo solicita, deberá redactarse en otra lengua distinta, de conformidad con la Directiva 92/96, del Consejo de la Unión Europea, de 10 de noviembre de 1992. Contendrá, como mínimo, las indicaciones siguientes:
+1. Nombre y apellidos o denominación social de las partes contratantes y su domicilio, así como la designación del asegurado y beneficiario, en su caso.
+2. El concepto en el cual se asegura.
+3. Naturaleza del riesgo cubierto, describiendo, de forma clara y comprensible, las garantías y coberturas otorgadas en el contrato, así como respecto a cada una de ellas, las exclusiones y limitaciones que les afecten destacadas tipográficamente.
+Téngase en cuenta que esta última actualización del apartado 3 establecida por la disposición final 1.1 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897. entra en vigor el 1 de enero de 2016 según se indica en la disposición final 21.1.
+ Redacción anterior:
+ "3. Naturaleza del riesgo cubierto."
+4. Designación de los objetos asegurados y de su situación.
+5. Suma asegurada o alcance de la cobertura.
+6. Importe de la prima, recargos e impuestos.
+7. Vencimiento de las primas, lugar y forma de pago.
+8. Duración del contrato, con expresión del día y la hora en que comienzan y terminan sus efectos.
+9. Si interviene un mediador en el contrato, el nombre y tipo de mediador.
+En caso de póliza flotante, se especificará, además, la forma en que debe hacerse la declaración del abono.
+Si el contenido de la póliza difiere de la proposición de seguro o de las cláusulas acordadas, el tomador del seguro podrá reclamar a la Entidad aseguradora en el plazo de un mes a contar desde la entrega de la póliza para que subsane la divergencia existente. Transcurrido dicho plazo sin efectuar la reclamación, se estará a lo dispuesto en la póliza. Lo establecido en este párrafo se insertará en toda póliza del contrato de seguro.
+Se modifica el apartado 3 por la disposición final 1.1 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897.
+ Téngase en cuenta para su aplicación la disposición transitoria 13.
+ Se modifica el apartado 9 por la disposición adicional 10.1 de la Ley 26/2006, de 17 de julio. Ref. BOE-A-2006-12916
+ Se modifica el párrafo primero por el art. único de la Ley 18/1997, de 13 de mayo. Ref. BOE-A-1997-10401
+ Redactado conforme a la corrección de erratas publicada en BOE núm. 130, de 31 de mayo de 1997. Ref. BOE-A-1997-11654
+ Se modifica el párrafo primero por la disposición adicional 6.1 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262
+
+### Artículo noveno
+
+Artículo noveno.
+La póliza del seguro puede ser nominativa a la orden o al portador. En cualquier caso, su transferencia efectuada, según la clase del título, ocasiona la del crédito contra el asegurador con iguales efectos que produciría la cesión del mismo.
+
+### Artículo diez
+
+Artículo diez.
+El tomador del seguro tiene el deber, antes de la conclusión del contrato, de declarar al asegurador, de acuerdo con el cuestionario que éste le someta, todas las circunstancias por él conocidas que puedan influir en la valoración del riesgo. Quedará exonerado de tal deber si el asegurador no le somete cuestionario o cuando, aun sometiéndoselo, se trate de circunstancias que puedan influir en la valoración del riesgo y que no estén comprendidas en él.
+El asegurador podrá rescindir el contrato mediante declaración dirigida al tomador del seguro en el plazo de un mes, a contar del conocimiento de la reserva o inexactitud del tomador del seguro. Corresponderán al asegurador, salvo que concurra dolo o culpa grave por su parte, las primas relativas al período en curso en el momento que haga esta declaración.
+Si el siniestro sobreviene antes de que el asegurador haga la declaración a la que se refiere el párrafo anterior, la prestación de éste se reducirá proporcionalmente a la diferencia entre la prima convenida y la que se hubiese aplicado de haberse conocido la verdadera entidad del riesgo. Si medió dolo o culpa grave del tomador del seguro quedará el asegurador liberado del pago de la prestación.
+El tomador de un seguro sobre la vida no está obligado a declarar si él o el asegurado han padecido cáncer una vez hayan transcurridos cinco años desde la finalización del tratamiento radical sin recaída posterior. Una vez transcurrido el plazo señalado, el asegurador no podrá considerar la existencia de antecedentes oncológicos a efectos de la contratación del seguro, quedando prohibida toda discriminación o restricción a la contratación por este motivo.
+Se modifica por el art. 209.1 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-21
+ Se añade el último inciso al párrafo primero por el art.3.1 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736
+
+### Artículo once
+
+Artículo once.
+1. El tomador del seguro o el asegurado deberán durante la vigencia del contrato comunicar al asegurador, tan pronto como le sea posible, la alteración de los factores y las circunstancias declaradas en el cuestionario previsto en el artículo anterior que agraven el riesgo y sean de tal naturaleza que si hubieran sido conocidas por éste en el momento de la perfección del contrato no lo habría celebrado o lo habría concluido en condiciones más gravosas.
+2. En los seguros de personas el tomador o el asegurado no tienen obligación de comunicar la variación de las circunstancias relativas al estado de salud del asegurado, que en ningún caso se considerarán agravación del riesgo.
+Téngase en cuenta que la actualización de este artículo establecida por la disposición final 1.2 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897. entra en vigor el 1 de enero de 2016 según se indica en la disposición final 21.1.
+ Redacción anterior:
+ "El tomador del seguro o el asegurado deberán, durante el curso del contrato, comunicar al asegurador, tan pronto como le sea posible, todas las circunstancias que agraven el riesgo y sean de tal naturaleza que si hubieran sido conocidas por éste en el momento de la perfección del contrato no lo habría celebrado o lo habría concluido en condiciones más gravosas."
+Se modifica por la disposición final 1.2 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897.
+ Téngase en cuenta para su aplicación la disposición transitoria 13.
+
+### Artículo doce
+
+Artículo doce.
+El asegurador puede, en un plazo de dos meses a contar del día en que la agravación le ha sido declarada, proponer una modificación del contrato. En tal caso, el tomador dispone de quince días a contar desde la recepción de esta proposición para aceptarla o rechazarla. En caso de rechazo, o de silencio por parte del tomador, el asegurador puede, transcurrido dicho plazo, rescindir el contrato previa advertencia al tomador, dándole para que conteste un nuevo plazo de quince días, transcurridos los cuales y dentro de los ocho siguientes comunicará al tomador la rescisión definitiva.
+El asegurador igualmente podrá rescindir el contrato comunicándolo por escrito al asegurado dentro de un mes, a partir del día en que tuvo conocimiento de la agravación del riesgo. En el caso de que el tomador del seguro o el asegurado no haya efectuado su declaración y sobreviniere un siniestro, el asegurador queda liberado de su prestación si el tomador o el asegurado ha actuado con mala fe. En otro caso, la prestación del asegurador se reducirá proporcionalmente a la diferencia entre la prima convenida y la que se hubiera aplicado de haberse conocido la verdadera entidad del riesgo.
+
+### Artículo trece
+
+Artículo trece.
+El tomador del seguro o el asegurado podrán, durante el curso del contrato, poner en conocimiento del asegurador todas las circunstancias que disminuyan el riesgo y sean de tal naturaleza que si hubieran sido conocidas por éste en el momento de la perfección del contrato lo habría concluido en condiciones más favorables.
+En tal caso, al finalizar el período en curso cubierto por la prima, deberá reducirse el importe de la prima futura en la proporción correspondiente, teniendo derecho el tomador en caso contrario a la resolución del contrato y a la devolución de la diferencia entre la prima satisfecha y la que le hubiera correspondido pagar, desde el momento de la puesta en conocimiento de la disminución del riesgo.
+
+## SECCIÓN TERCERA
+
+Sección tercera. Obligaciones y deberes de las partes
+
+### Artículo catorce
+
+Artículo catorce.
+El tomador del seguro está obligado al pago de la prima en las condiciones estipuladas en la póliza. Si se han pactado primas periódicas, la primera de ellas será exigible una vez firmado el contrato. Si en la póliza no se determina ningún lugar para el pago de la prima, se entenderá que éste ha de hacerse en el domicilio del tomador del seguro.
+
+### Artículo quince
+
+Artículo quince.
+Si por culpa del tomador la primera prima no ha sido pagada, o la prima única no lo ha sido a su vencimiento, el asegurador tiene derecho a resolver el contrato o a exigir el pago de la prima debida en vía ejecutiva con base en la póliza. Salvo pacto en contrario, si la prima no ha sido pagada antes de que se produzca el siniestro, el asegurador quedará liberado de su obligación.
+En caso de falta de pago de una de las primas siguientes, la cobertura del asegurador queda suspendida un mes después del día de su vencimiento. Si el asegurador no reclama el pago dentro de los seis meses siguientes al vencimiento de la prima se entenderá que el contrato queda extinguido. En cualquier caso, el asegurador, cuando el contrato esté en suspenso, sólo podrá exigir el pago de la prima del período en curso.
+Si el contrato no hubiere sido resuelto o extinguido conforme a los párrafos anteriores, la cobertura vuelve a tener efecto a las veinticuatro horas del días en que el tomador pagó su prima.
+
+### Artículo dieciséis
+
+Artículo dieciséis.
+El tomador del seguro o el asegurado o el beneficiario deberán comunicar al asegurador el acaecimiento del siniestro dentro del plazo máximo de siete días de haberlo conocido, salvo que se haya fijado en la póliza un plazo más amplio. En caso de incumplimiento, el asegurador podrá reclamar los daños y perjuicios causados por la falta de declaración.
+Este efecto no se producirá si se prueba que el asegurador ha tenido conocimiento del siniestro por otro medio.
+El tomador del seguro o el asegurado deberá, además, dar al asegurador toda clase de informaciones sobre las circunstancias y consecuencias del siniestro. En caso de violación de este deber, la pérdida del derecho a la indemnización sólo se producirá en el supuesto de que hubiese concurrido dolo o culpa grave.
+
+### Artículo diecisiete
+
+Artículo diecisiete.
+El asegurado o el tomador del seguro deberán emplear los medios a su alcance para aminorar las consecuencias del siniestro. El incumplimiento de este deber dará derecho al asegurador a reducir su prestación en la proporción oportuna, teniendo en cuenta la importancia de los daños derivados del mismo y el grado de culpa del asegurado.
+Si este incumplimiento se produjera con la manifiesta intención de perjudicar o engañar al asegurador, éste quedará liberado de toda prestación derivada del siniestro.
+Los gastos que se originen por el cumplimiento de la citada obligación, siempre que no sean inoportunos o desproporcionados a los bienes salvados serán de cuenta del asegurador hasta el límite fijado en el contrato, incluso si tales gastos no han tenido resultados efectivos o positivos. En defecto de pacto se indemnizarán los gastos efectivamente originados. Tal indemnización no podrá exceder de la suma asegurada.
+El asegurador que en virtud del contrato sólo deba indemnizar una parte del daño causado por el siniestro, deberá reembolsar la parte proporcional de los gastos de salvamento, a menos que el asegurado o el tomador del seguro hayan actuado siguiendo las instrucciones del asegurador.
+
+### Artículo dieciocho
+
+Artículo dieciocho.
+El asegurador está obligado a satisfacer la indemnización al término de las investigaciones y peritaciones necesarias para establecer la existencia del siniestro y, en su caso, el importe de los daños que resulten del mismo. En cualquier supuesto, el asegurador deberá efectuar, dentro de los cuarenta días, a partir de la recepción de la declaración del siniestro, el pago del importe mínimo de lo que el asegurador pueda deber, según las circunstancias por él conocidas.
+Cuando la naturaleza del seguro lo permita y el asegurado lo consienta, el asegurador podrá sustituir el pago de la indemnización por la reparación o la reposición del objeto siniestrado.
+
+### Artículo diecinueve
+
+Artículo diecinueve.
+El asegurador estará obligado al pago de la prestación, salvo en el supuesto de que el siniestro haya sido causado por mala fe del asegurado.
+
+### Artículo veinte
+
+Artículo veinte.
+Si el asegurador incurriere en mora en el cumplimiento de la prestación, la indemnización de daños y perjuicios, no obstante entenderse válidas las cláusulas contractuales que sean más beneficiosas para el asegurado, se ajustará a las siguientes reglas:
+1.º Afectará, con carácter general, a la mora del asegurador respecto del tomador del seguro o asegurado y, con carácter particular, a la mora respecto del tercero perjudicado en el seguro de responsabilidad civil y del beneficiario en el seguro de vida.
+2.º Será aplicable a la mora en la satisfacción de la indemnización, mediante pago o por la reparación o reposición del objeto siniestrado, y también a la mora en el pago del importe mínimo de lo que el asegurador pueda deber.
+3.º Se entenderá que el asegurador incurre en mora cuando no hubiere cumplido su prestación en el plazo de tres meses desde la producción del siniestro o no hubiere procedido al pago del importe mínimo de lo que pueda deber dentro de los cuarenta días a partir de la recepción de la declaración del siniestro.
+4.º La indemnización por mora se impondrá de oficio por el órgano judicial y consistirá en el pago de un interés anual igual al del interés legal del dinero vigente en el momento en que se devengue, incrementado en el 50 por 100; estos intereses se considerarán producidos por días, sin necesidad de reclamación judicial.
+No obstante, transcurridos dos años desde la producción del siniestro, el interés anual no podrá ser inferior al 20 por 100.
+5.º En la reparación o reposición del objeto siniestrado la base inicial de cálculo de los intereses será el importe líquido de tal reparación o reposición, sin que la falta de liquidez impida que comiencen a devengarse intereses en la fecha a que se refiere el apartado 6.º subsiguiente. En los demás casos será base inicial de cálculo la indemnización debida, o bien el importe mínimo de lo que el asegurador pueda deber.
+6.º Será término inicial del cómputo de dichos intereses la fecha del siniestro.
+No obstante, si por el tomador del seguro, el asegurado o el beneficiario no se ha cumplido el deber de comunicar el siniestro dentro del plazo fijado en la póliza o, subsidiariamente, en el de siete días de haberlo conocido, el término inicial del cómputo será el día de la comunicación del siniestro.
+Respecto del tercero perjudicado o sus herederos lo dispuesto en el párrafo primero de este número quedará exceptuado cuando el asegurador pruebe que no tuvo conocimiento del siniestro con anterioridad a la reclamación o al ejercicio de la acción directa por el perjudicado o sus herederos, en cuyo caso será término inicial la fecha de dicha reclamación o la del citado ejercicio de la acción directa.
+7.º Será término final del cómputo de intereses en los casos de falta de pago del importe mínimo de lo que el asegurador pueda deber, el día en que con arreglo al número precedente comiencen a devengarse intereses por el importe total de la indemnización, salvo que con anterioridad sea pagado por el asegurador dicho importe mínimo, en cuyo caso será término final la fecha de este pago. Será término final del plazo de la obligación de abono de intereses de demora por la aseguradora en los restantes supuestos el día en que efectivamente satisfaga la indemnización, mediante pago, reparación o reposición, al asegurado, beneficiario o perjudicado.
+8.º No habrá lugar a la indemnización por mora del asegurador cuando la falta de satisfacción de la indemnización o de pago del importe mínimo esté fundada en una causa justificada o que no le fuere imputable.
+9.º Cuando el Consorcio de Compensación de Seguros deba satisfacer la indemnización como fondo de garantía, se entenderá que incurre en mora únicamente en el caso de que haya transcurrido el plazo de tres meses desde la fecha en que se le reclame la satisfacción de la indemnización sin que por el Consorcio se haya procedido al pago de la misma con arreglo a su normativa específica, no siéndole de aplicación la obligación de indemnizar por mora en la falta de pago del importe mínimo. En lo restante, cuando el Consorcio intervenga como fondo de garantía, y, sin excepciones, cuando el Consorcio contrate como asegurador directo, será íntegramente aplicable el presente artículo.
+10.º En la determinación de la indemnización por mora del asegurador no será de aplicación lo dispuesto en el artículo 1108 del Código Civil, ni lo preceptuado en el párrafo cuarto del artículo 921 de la Ley de Enjuiciamiento Civil, salvo las previsiones contenidas en este último precepto para la revocación total o parcial de la sentencia.
+Se modifica por la disposición adicional 6.2 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262
+
+### Artículo veintiuno
+
+Artículo veintiuno.
+Las comunicaciones efectuadas por un corredor de seguros al asegurador en nombre del tomador del seguro surtirán los mismos efectos que si la realizara el propio tomador, salvo indicación en contrario de éste.
+En todo caso se precisará el consentimiento expreso del tomador del seguro para suscribir un nuevo contrato o para modificar o rescindir el contrato de seguro en vigor.
+Se modifica por la disposición adicional 10.2 de la Ley 26/2006, de 17 de julio. Ref. BOE-A-2006-12916
+ Se deroga el párrafo primero por la disposición derogatoria 3 de la Ley 9/1992, de 30 de abril. Ref. BOE-A-1992-9441
+
+### SECCIÓN CUARTA
+
+Sección cuarta. Duración del contrato y prescripción
+
+### Artículo veintidós
+
+Artículo veintidós.
+1. La duración del contrato será determinada en la póliza, la cual no podrá fijar un plazo superior a diez años. Sin embargo, podrá establecerse que se prorrogue una o más veces por un período no superior a un año cada vez.
+2. Las partes pueden oponerse a la prórroga del contrato mediante una notificación escrita a la otra parte, efectuada con un plazo de, al menos, un mes de anticipación a la conclusión del período del seguro en curso cuando quien se oponga a la prórroga sea el tomador, y de dos meses cuando sea el asegurador.
+3. El asegurador deberá comunicar al tomador, al menos con dos meses de antelación a la conclusión del período en curso, cualquier modificación del contrato de seguro.
+4. Las condiciones y plazos de la oposición a la prórroga de cada parte, o su inoponibilidad, deberán destacarse en la póliza.
+5. Lo dispuesto en los apartados precedentes no será de aplicación en cuanto sea incompatible con la regulación del seguro sobre la vida.
+Téngase en cuenta que la última actualización de este artículo establecida por la disposición final 1.3 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897. entra en vigor el 1 de enero de 2016 según se indica en la disposición final 21.1.
+ Redacción anterior:
+ "La duración del contrato será determinada en la póliza, la cual no podrá fijar un plazo superior a diez años. Sin embargo, podrá establecerse que se prorrogue una o más veces por un período no superior a un año cada vez.
+ Las partes pueden oponerse a la prórroga del contrato mediante una notificación escrita a la otra parte, efectuada con un plazo de dos meses de anticipación a la conclusión del período del seguro en curso.
+ Lo dispuesto en los párrafos precedentes no será de aplicación en cuanto sea incompatible con la regulación del seguro sobre la vida."
+Se modifica por la disposición final 1.3 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897.
+ Téngase en cuenta para su aplicación la disposición transitoria 13.
+
+### Artículo veintitrés
+
+Artículo veintitrés.
+Las acciones que se deriven del contrato de seguro prescribirán en el término de dos años si se trata de seguro de daños y de cinco si el seguro es de personas.
+
+### Artículo veinticuatro
+
+Artículo veinticuatro.
+Será juez competente para el conocimiento de las acciones derivadas del contrato de seguro el del domicilio del asegurado, siendo nulo cualquier pacto en contrario.
+
+## TÍTULO II
+
+Seguros contra daños
+
+## SECCIÓN PRIMERA
+
+Sección primera. Disposiciones generales
+
+### Artículo veinticinco
+
+Artículo veinticinco.
+Sin perjuicio de lo establecido en el artículo cuarto, el contrato de seguro contra daños es nulo si en el momento de su conclusión no existe un interés del asegurado a la indemnización del daño.
+
+### Artículo veintiséis
+
+Artículo veintiséis.
+El seguro no puede ser objeto de enriquecimiento injusto para el asegurado. Para la determinación del daño se atenderá al valor del interés asegurado en el momento inmediatamente anterior a la realización del siniestro.
+
+### Artículo veintisiete
+
+Artículo veintisiete.
+La suma asegurada representa el límite máximo de la indemnización a pagar por el asegurador en cada siniestro.
+
+### Artículo veintiocho
+
+Artículo veintiocho.
+No obstante lo dispuesto en el artículo veintiséis, las partes, de común acuerdo, podrán fijar en la póliza o con posterioridad a la celebración del contrato el valor del interés asegurado que habrá de tenerse en cuenta para el cálculo de la indemnización.
+Se entenderá que la póliza es estimada cuando el asegurador y el asegurado hayan aceptado expresamente en ella el valor asignado al interés asegurado.
+El asegurador únicamente podrá impugnar el valor estimado cuando su aceptación haya sido prestada por violencia, intimidación o dolo, o cuando por error la estimación sea notablemente superior al valor real, correspondiente al momento del acaecimiento del siniestro, fijado pericialmente.
+Se modifica el párrafo primero por el art. 3.2 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736
+
+### Artículo veintinueve
+
+Artículo veintinueve.
+Si por pacto expreso las partes convienen que la suma asegurada cubra plenamente el valor del interés durante la vigencia del contrato, la póliza deberá contener necesariamente los criterios y el procedimiento para adecuar la suma asegurada y las primas a las oscilaciones del valor de interés.
+
+### Artículo treinta
+
+Artículo treinta.
+Si en el momento de la producción del siniestro la suma asegurada es inferior al valor del interés, el asegurador indemnizará el daño causado en la misma proporción en la que aquélla cubre el interés asegurado.
+Las partes, de común acuerdo, podrán excluir en la póliza o con posterioridad a la celebración del contrato, la aplicación de la regla proporcional prevista en el párrafo anterior.
+
+### Artículo treinta y uno
+
+Artículo treinta y uno.
+Si la suma asegurada supera notablemente el valor del interés asegurado, cualquiera de las partes del contrato podrá exigir la reducción de la suma y de la prima, debiendo restituir el asegurador el exceso de las primas percibidas. Si se produjere el siniestro, el asegurador indemnizará el daño efectivamente causado.
+Cuando el sobreseguro previsto en el párrafo anterior se debiera a mala fe del asegurado, el contrato será ineficaz. El asegurador de buena fe podrá, no obstante, retener las primas vencidas y la del período en curso.
+
+### Artículo treinta y dos
+
+Artículo treinta y dos.
+Cuando en dos o más contratos estipulados por el mismo tomador con distintos aseguradores se cubran los efectos que un mismo riesgo puede producir sobre el mismo interés y durante idéntico período de tiempo el tomador del seguro o el asegurado deberán, salvo pacto en contrario, comunicar a cada asegurador los demás seguros que estipule. Si por dolo se omitiera esta comunicación, y en caso de sobreseguro se produjera el siniestro, los aseguradores no están obligados a pagar la indemnización.
+Una vez producido el siniestro, el tomador del seguro o el asegurado deberá comunicarlo, de acuerdo con lo previsto en el artículo dieciséis, a cada asegurador, con indicación del nombre de los demás.
+Los aseguradores contribuirán al abono de la indemnización en proporción a la propia suma asegurada, sin que pueda superarse la cuantía del daño. Dentro de este límite el asegurado puede pedir a cada asegurador la indemnización debida, según el respectivo contrato. El asegurador que ha pagado una cantidad superior a la que proporcionalmente le corresponda podrá repetir contra el resto de los aseguradores.
+Si el importe total de las sumas aseguradas superase notablemente el valor del interés, será de aplicación lo previsto en el artículo treinta y uno.
+
+### Artículo treinta y tres
+
+Artículo treinta y tres.
+Cuando mediante uno o varios contratos de seguros, referentes al mismo interés, riesgo y tiempo, se produce un reparto de cuotas determinadas entre varios aseguradores, previo acuerdo entre ellos y el tomador, cada asegurador está obligado, salvo pacto en contrario, al pago de la indemnización solamente en proporción a la cuota respectiva.
+No obstante lo previsto en el párrafo anterior, si en el pacto de coaseguro existe un encargo a favor de uno o varios aseguradores para suscribir los documentos contractuales o para pedir el cumplimiento del contrato o contratos al asegurado en nombre del resto de los aseguradores, se entenderá que durante toda la vigencia de la relación aseguradora los aseguradores delegados están legitimados para ejercitar todos los derechos y para recibir cuantas declaraciones y reclamaciones correspondan al asegurado. El asegurador que ha pagado una cantidad superior a la que le corresponda podrá repetir contra el resto de los aseguradores.
+
+### Artículo treinta y tres.a)
+
+Artículo treinta y tres a).
+(Derogado).
+Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria.a) Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dd. tendrá efectos el 1 de enero de 2016, según se establece en su disposición final 21.
+ Redacción anterior:
+ "1. Un contrato de seguro tendrá la calificación de coaseguro comunitario a los efectos de esta Ley si reúne todas y cada una de las siguientes condiciones:
+ a) Que dé lugar a la cobertura de uno o más riesgos de los definidos en el artículo 107.2 de esta Ley.
+ b) Que participen en la cobertura del riesgo varias aseguradoras teniendo todas ellas su domicilio social en alguno de los Estados miembros del Espacio Económico Europeo, y siendo una de ellas abridora de la operación.
+ c) Que el coaseguro se haga mediante un único contrato, referente al mismo interés, riesgo y tiempo y con reparto de cuotas determinadas entre varias aseguradoras, sin que exista solidaridad entre ellas, de forma que cada una solamente estará obligada al pago de la indemnización en proporción a la cuota respectiva.
+ d) Que cubra riesgos situados en el Espacio Económico Europeo.
+ e) Que la aseguradora abridora, esté o no domiciliada en España, se encuentre habilitada para cubrir la totalidad del riesgo conforme a las disposiciones que le sean aplicables.
+ f) Que al menos uno de los coaseguradores participe en el contrato por medio de su domicilio social o de una sucursal establecida en un Estado miembro del Espacio Económico Europeo distinto del Estado de la aseguradora abridora.
+ g) Que la abridora asuma plenamente las funciones que le corresponden en la práctica del coaseguro, determinando, de acuerdo con el tomador y de conformidad con lo dispuesto en las leyes, la ley aplicable al contrato de seguro, las condiciones de éste y las de tarificación.
+ 2. Las aseguradoras que participen en España en una operación de coaseguro comunitario en calidad de abridoras, así como sus actividades como tales coaseguradoras, se regirán por las disposiciones aplicables al contrato de seguro por grandes riesgos."
+Se deroga por la disposición derogatoria.a) de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dd.
+ Se añade por la disposición adicional 6.3 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262
+
+### Artículo treinta y cuatro
+
+Artículo treinta y cuatro.
+En caso de transmisión del objeto asegurado, el adquirente se subroga en el momento de la enajenación en los derechos y obligaciones que correspondían en el contrato de seguro al anterior titular. Se exceptúa el supuesto de pólizas nominativas para riesgos no obligatorios, si en las condiciones generales existe pacto en contrario.
+El asegurado está obligado a comunicar por escrito al adquirente la existencia del contrato del seguro de la cosa transmitida. Una vez verificada la transmisión, también deberá comunicarla por escrito al asegurador o a sus representantes en el plazo de quince días.
+Serán solidariamente responsables del pago de las primas vencidas en el momento de la transmisión el adquirente y el anterior titular o, en caso de que éste hubiera fallecido, sus herederos.
+
+### Artículo treinta y cinco
+
+Artículo treinta y cinco.
+El asegurador podrá rescindir el contrato dentro de los quince días siguientes a aquel en que tenga conocimiento de la transmisión verificada. Ejercitado su derecho y notificado por escrito al adquirente, el asegurador queda obligado durante el plazo de un mes, a partir de la notificación. El asegurador deberá restituir la parte de prima que corresponda a períodos de seguro, por los que, como consecuencia de la rescisión, no haya soportado el riesgo.
+El adquirente de cosa asegurada también puede rescindir el contrato si lo comunica por escrito al asegurador en el plazo de quince días, contados desde que conoció la existencia del contrato.
+En este caso, el asegurador adquiere el derecho a la prima correspondiente al período que hubiera comenzado a correr cuando se produce la rescisión.
+
+### Artículo treinta y seis
+
+Artículo treinta y seis.
+Las pólizas a la orden o al portador no se pueden rescindir por transmisión del objeto asegurado.
+
+### Artículo treinta y siete
+
+Artículo treinta y siete.
+Las normas de los artículos 34 a 36 se aplicarán en caso de muerte del tomador del seguro o del asegurado y, declarado el concurso de uno de ellos, en caso de apertura de la fase de liquidación.
+Se modifica por la disposición final 28 de la Ley 22/2003, de 9 de julio. Ref. BOE-A-2003-13813
+
+### Artículo treinta y ocho
+
+Artículo treinta y ocho.
+Una vez producido el siniestro, y en el plazo de cinco días a partir de la notificación prevista en el artículo dieciséis, el asegurado o el tomador deberán comunicar por escrito al asegurador la relación de los objetos existentes al tiempo del siniestro, la de los salvados y la estimación de los daños.
+Incumbe al asegurado la prueba de la preexistencia de los objetos. No obstante, el contenido de la póliza constituirá una presunción a favor del asegurado cuando razonablemente no puedan aportarse pruebas más eficaces.
+Si las partes se pusiesen de acuerdo en cualquier momento sobre el importe y la forma de la indemnización, el asegurador deberá pagar la suma convenida o realizar las operaciones necesarias para reemplazar el objeto asegurado, si su naturaleza así lo permitiera.
+Si no se lograse el acuerdo dentro del plazo previsto en el artículo dieciocho, cada parte designará un Perito, debiendo constar por escrito la aceptación de éstos. Si una de las partes no hubiera hecho la designación, estará obligada a realizarla en los ocho días siguientes a la fecha en que sea requerida por la que hubiere designado el suyo, y de no hacerlo en este último plazo se entenderá que acepta el dictamen que emita el Perito de la otra parte, quedando vinculado por el mismo.
+En caso de que los Peritos lleguen a un acuerdo, se reflejará en un acta conjunta, en la que se harán constar las causas del siniestro, la valoración de los daños, las demás circunstancias que influyan en la determinación de la indemnización, según la naturaleza del seguro de que se trate y la propuesta del importe líquido de la indemnización.
+Cuando no haya acuerdo entre los peritos, ambas partes designarán un tercer perito de conformidad. De no existir esta, se podrá promover expediente en la forma prevista en la Ley de la Jurisdicción Voluntaria o en la legislación notarial. En estos casos, el dictamen pericial se emitirá en el plazo señalado por las partes o, en su defecto, en el de treinta días a partir de la aceptación de su nombramiento por el perito tercero.
+El dictamen de los Peritos, por unanimidad o por mayoría, se notificará a las partes de manera inmediata y en forma indubitada, siendo vinculante para éstos, salvo que se impugne judicialmente por alguna de las partes, dentro del plazo de treinta días, en el caso del asegurador y ciento ochenta en el del asegurado, computados ambos desde la fecha de su notificación. Si no se interpusiere en dichos plazos la correspondiente acción, el dictamen pericial devendrá inatacable.
+Si el dictamen de los Peritos fuera impugnado, el asegurador deberá abonar el importe mínimo a que se refiere el artículo dieciocho, y si no lo fuera abonará el importe de la indemnización señalado por los Peritos en un plazo de cinco días.
+En el supuesto de que por demora del asegurador en el pago del importe de la indemnización devenida inatacable el asegurado se viere obligado a reclamarlo judicialmente, la indemnización correspondiente se verá incrementada con el interés previsto en el artículo veinte, que, en este caso, empezará a devengarse desde que la valoración devino inatacable para el asegurador y, en todo caso, con el importe de los gastos originados al asegurado por el proceso, a cuya indemnización hará expresa condena la sentencia, cualquiera que fuere el procedimiento judicial aplicable.
+Se modifica el párrafo sexto por la disposición final 9 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391.
+
+### Artículo treinta y nueve
+
+Artículo treinta y nueve.
+Cada parte satisfará los honorarios de su Perito. Los del Perito tercero y demás gastos que ocasione la tasación pericial serán de cuenta y cargo por mitad del asegurado y del asegurador. No obstante, si cualquiera de las partes hubiera hecho necesaria la peritación por haber mantenido una valoración del daño manifiestamente desproporcionada, será ella la única responsable de dichos gastos.
+
+### Artículo cuarenta
+
+Artículo cuarenta.
+El derecho de los acreedores hipotecarios, pignoraticios o privilegiados sobre bienes especialmente afectos se extenderá a las indemnizaciones que correspondan al propietario por razón de los bienes hipotecados, pignorados o afectados de privilegio, si el siniestro acaeciere después de la constitución de la garantía real o del nacimiento del privilegio. A este fin el tomador del seguro o el asegurado deberán comunicar al asegurador la constitución de la hipoteca, de la prenda o el privilegio cuando tuviera conocimiento de su existencia.
+El asegurador a quien se haya notificado la existencia de estos derechos no podrá pagar la indemnización debida sin el consentimiento del titular del derecho real o del privilegio. En caso de contienda entre los interesados o si la indemnización hubiera de hacerse efectiva antes del vencimiento de la obligación garantizada, se depositará su importe en la forma que convenga a los interesados, y en defecto de convenio en la establecida en los artículos mil ciento setenta y seis y siguientes del Código Civil.
+Si el asegurador pagare la indemnización, transcurrido el plazo de tres meses desde la notificación del siniestro a los acreedores sin que éstos se hubiesen presentado, quedará liberado de su obligación.
+
+### Artículo cuarenta y uno
+
+Artículo cuarenta y uno.
+La extinción del contrato de seguro no será oponible al acreedor hipotecario, pignoraticio o privilegiado hasta que transcurra un mes desde que se le comunicó el hecho que motivó la extinción.
+Los acreedores a que se refiere este artículo podrán pagar la prima impagada por el tomador del seguro o por el asegurado, aun cuando éstos se opusieren. A este efecto, el asegurador deberá notificar a dichos acreedores el impago en que ha incurrido el asegurado.
+
+### Artículo cuarenta y dos
+
+Artículo cuarenta y dos.
+En el caso de que la indemnización haya de emplearse en la reconstrucción de las cosas siniestradas, el asegurador no pagará la indemnización si el asegurado y los acreedores a que se refieren los artículos anteriores no se ponen de acuerdo sobre las garantías con las que aquéllas han de quedar afectadas a la reconstrucción. En caso de que no se llegue a un acuerdo se depositará la indemnización conforme a lo dispuesto en el artículo cuarenta.
+
+### Artículo cuarenta y tres
+
+Artículo cuarenta y tres.
+El asegurador, una vez pagada la indemnización, podrá ejercitar los derechos y las acciones que por razón del siniestro correspondieran al asegurado frente las personas responsables, del mismo, hasta el límite de la indemnización.
+El asegurador no podrá ejercitar en perjuicio del asegurado los derechos en que se haya subrogado. El asegurado será responsable de los perjuicios que, con sus actos u omisiones, pueda causar al asegurador en su derecho a subrogarse.
+El asegurador no tendrá derecho a la subrogación contra ninguna de las personas cuyos actos u omisiones den origen a responsabilidad del asegurado, de acuerdo con la Ley, ni contra el causante del siniestro que sea, respecto del asegurado, pariente en línea directa o colateral dentro del tercer grado civil de consanguinidad, padre adoptante o hijo adoptivo que convivan con el asegurado. Pero esta norma no tendrá efecto si la responsabilidad proviene de dolo o si la responsabilidad está amparada mediante un contrato de seguro. En este último supuesto, la subrogación estará limitada en su alcance de acuerdo con los términos de dicho contrato.
+En caso de concurrencia de asegurador y asegurado frente a tercero responsable, el recobro obtenido se repartirá entre ambos en proporción a su respectivo interés.
+
+### Artículo cuarenta y cuatro
+
+Artículo cuarenta y cuatro.
+El asegurador no cubre los daños por hechos derivados de conflictos armados, haya precedido o no declaración oficial de guerra, ni los derivados de riesgos extraordinarios sobre las personas y los bienes, salvo pacto en contrario.
+No será de aplicación a los contratos de seguros por grandes riesgos, tal como se delimitan en esta Ley, el mandato contenido en el artículo 2 de la misma.
+Se modifica por la disposición adicional 6.4 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262
+ Se modifica por el art. 3.3 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736
+
+## SECCIÓN SEGUNDA
+
+Sección segunda. Seguro de incendios
+
+### Artículo cuarenta y cinco
+
+Artículo cuarenta y cinco.
+Por el seguro contra incendios el asegurador se obliga dentro de los límites establecidos en la Ley y en el contrato, a indemnizar los daños producidos por incendio en el objeto asegurado.
+Se considera incendio la combustión y el abrasamiento con llama, capaz de propagarse, de un objeto u objetos que no estaban destinados a ser quemados en el lugar y momento en que se produce.
+
+### Artículo cuarenta y seis
+
+Artículo cuarenta y seis.
+La cobertura del seguro se extenderá a los objetos descritos en la póliza. Si se tratare de seguro sobre mobiliario, la cobertura incluirá los daños producidos por el incendio en las cosas de uso ordinario o común del asegurado, de sus familiares, dependientes y de las personas que con él convivan.
+Salvo pacto expreso en contrario, no quedarán comprendidos en la cobertura del seguro los daños que cause el incendio en los valores mobiliarios públicos o privados, efectos de comercio, billetes de Banco, piedras y metales preciosos, objetos artísticos o cualesquiera otros objetos de valor que se hallaren en el objeto asegurado, aun cuando se pruebe su preexistencia y su destrucción o deterioro por el siniestro.
+
+### Artículo cuarenta y siete
+
+Artículo cuarenta y siete.
+La destrucción o deterioro de los objetos asegurados fuera del lugar descrito en la póliza excluirá la indemnización del asegurador, a menos que su traslado o cambio le hubiere sido previamente comunicado por escrito y éste no hubiese manifestado en el plazo de quince días su disconformidad.
+
+### Artículo cuarenta y ocho
+
+Artículo cuarenta y ocho.
+El asegurador estará obligado a indemnizar los daños producidos por el incendio cuando éste se origine por caso fortuito, por malquerencia de extraños, por negligencia propia o de las personas de quienes se responda civilmente.
+El asegurador no estará obligado a indemnizar los daños provocados por el incendio cuando éste se origine por dolo o culpa grave del asegurado.
+Se modifica el párrafo segundo por el art. 3.4 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736
+
+### Artículo cuarenta y nueve
+
+Artículo cuarenta y nueve.
+El asegurador indemnizará todos los daños y pérdidas materiales causados por la acción directa del fuego, así como los producidos por las consecuencias inevitables del incendio y en particular:
+Primero.–Los daños que ocasionen las medidas necesarias adoptadas por la autoridad o el asegurado para impedir, cortar o extinguir el incendio, con exclusión de los gastos que ocasione la aplicación de tales medidas, salvo pacto en contrario.
+Segundo.–Los gastos que ocasione al asegurado el transporte de los efectos asegurados o cualesquiera otras medidas adoptadas con el fin de salvarlos del incendio.
+Tercero.–Los menoscabos que sufran los objetos salvados por las circunstancias descritas en los dos números anteriores.
+Cuarto.–El valor de los objetos desaparecidos, siempre que el asegurado acredite su preexistencia y salvo que el asegurador pruebe que fueron robados o hurtados.
+Quinto.–Cualesquiera otros que se consignen en la póliza.
+
+## SECCIÓN TERCERA
+
+Sección tercera. Seguro contra el robo
+
+### Artículo cincuenta
+
+Artículo cincuenta.
+Por el seguro contra robo, el asegurador se obliga, dentro de los límites establecidos en la Ley y en el contrato a indemnizar los daños derivados de la sustracción ilegítima por parte de terceros de las cosas aseguradas.
+La cobertura comprende el daño causado por la comisión del delito en cualquiera de sus formas.
+
+### Artículo cincuenta y uno
+
+Artículo cincuenta y uno.
+La indemnización del asegurador comprenderá necesariamente, de acuerdo con lo dispuesto en el artículo veintisiete:
+Primero.–El valor del interés asegurado cuando el objeto asegurado, efectivamente sea sustraído y no fuera hallado en el plazo señalado en el contrato.
+Segundo.–El daño que la comisión del delito, en cualquiera de sus formas, causare en el objeto asegurado.
+
+### Artículo cincuenta y dos
+
+Artículo cincuenta y dos.
+El asegurador, salvo pacto en contrario, no vendrá obligado a reparar los efectos del siniestro cuando éste se haya producido por cualquiera de las siguientes causas:
+Primera. -Por negligencia grave del asegurado, del tomador del seguro o de las personas que de ellos dependan o con ellos convivan.
+Segunda.-Cuando el objeto asegurado sea sustraído fuera del lugar descrito en la póliza o con ocasión de su transporte, a no ser que una u otras circunstancias hubieran sido expresamente consentidas por el asegurador.
+Tercera. -Cuando la sustracción se produzca con ocasión de siniestros derivados de riesgos extraordinarios.
+Se modifica la causa 3 por el art. 3.5 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736
+
+### Artículo cincuenta y tres
+
+Artículo cincuenta y tres.
+Producido y debidamente comunicado el siniestro al asegurador, se observarán las reglas siguientes:
+Primera.–Si el objeto asegurado es recuperado antes del transcurso del plazo señalado en la póliza, el asegurado deberá recibirlo, a menos que en ella le hubiera reconocido expresamente la facultad de su abandono al asegurador.
+Segunda.–Si el objeto asegurado es recuperado transcurrido el plazo pactado, y una vez pagada la indemnización, el asegurado podrá retener la indemnización percibida abandonando al asegurador la propiedad del objeto asegurado, o readquirirlo, restituyendo, en este caso, la indemnización percibida por la cosa o cosas restituidas.
+
+## SECCIÓN CUARTA
+
+Sección cuarta. Seguro de transportes terrestres
+
+### Artículo cincuenta y cuatro
+
+Artículo cincuenta y cuatro.
+Por el seguro de transporte terrestre el asegurador se obliga dentro de los límites establecidos por la Ley y en el contrato, a indemnizar los daños materiales que puedan sufrir con ocasión o consecuencia del transporte las mercancías porteadas, el medio utilizado u otros objetos asegurados.
+
+### Artículo cincuenta y cinco
+
+Artículo cincuenta y cinco.
+En el caso de que el viaje se efectúe utilizando diversos medios de transporte, y no pueda determinarse el momento en que se produjo el siniestro, se aplicarán las normas del seguro de transporte terrestre si el viaje por este medio constituye la parte más importante del mismo.
+En caso de que el transporte terrestre sea accesorio de uno marítimo o aéreo se aplicarán a todo el transporte las normas del seguro marítimo o aéreo.
+
+### Artículo cincuenta y seis
+
+Artículo cincuenta y seis.
+Podrán contratar este seguro no sólo el propietario del vehículo o de las mercancías transportadas, sino también el comisionista de transporte y las agencias de transportes, así como todos los que tengan interés en la conservación de las mercancías, expresando en la póliza el concepto en que se contrata el seguro.
+
+### Artículo cincuenta y siete
+
+Artículo cincuenta y siete.
+El seguro de transporte terrestre puede contratarse por viaje o por un tiempo determinado. En cualquier caso, el asegurador indemnizará, de acuerdo con lo convenido en el contrato de seguro, los daños que sean consecuencia de siniestros acaecidos durante el plazo de vigencia del contrato, aunque sus efectos se manifiesten con posterioridad, pero siempre dentro de los seis meses siguientes a la fecha de su expiración.
+El asegurador no responderá por el daño debido a la naturaleza intrínseca o vicios propios de las mercancías transportadas.
+
+### Artículo cincuenta y ocho
+
+Artículo cincuenta y ocho.
+Salvo pacto expreso en contrario, se entenderá que la cobertura del seguro comienza desde que se entregan las mercancías al porteador para su transporte en el punto de partida del viaje asegurado, y terminará cuando se entreguen al destinatario en el punto de destino, siempre que la entrega se realice dentro del plazo previsto en la póliza.
+No obstante, cuando se pacte expresamente, el seguro puede extenderse a los riesgos que afecten a las mercancías desde que salen del almacén o domicilio del cargador para su entrega al transportista hasta que entran para su entrega en el domicilio o almacén del destinatario.
+
+### Artículo cincuenta y nueve
+
+Artículo cincuenta y nueve.
+Salvo pacto expreso en contrario, la cobertura del seguro prevista en los artículos anteriores comprenderá el depósito transitorio de las mercancías y la inmovilización del vehículo o su cambio durante el viaje cuando se deban a incidencias propias del transporte asegurado y no hayan sido causados por algunos de los acontecimientos excluidos del seguro.
+La póliza podrá establecer un plazo máximo y, transcurrido éste sin reanudarse el transporte, cesará la cobertura del seguro.
+
+### Artículo sesenta
+
+Artículo sesenta.
+El asegurado no perderá su derecho a la indemnización cuando se haya alterado el medio de transporte, el itinerario o los plazos del viaje o éste se haya realizado en tiempo distinto al previsto, en tanto la modificación no sea imputable al asegurado, sin perjuicio de lo dispuesto en los artículos once y doce.
+
+### Artículo sesenta y uno
+
+Artículo sesenta y uno.
+El asegurador indemnizará los daños que se produzcan en las mercancías o valores conforme a lo dispuesto en los números siguientes:
+Primero.–Se considerarán comprendidos en los gastos de salvamento del artículo diecisiete los que fuere necesario o conveniente realizar para reexpedir los objetos transportados.
+Segundo.–En caso de pérdida total del vehículo el asegurado podrá abandonarlo al asegurador, si así se hubiese pactado, siempre que se observen los plazos y los demás requisitos establecidos por la póliza.
+
+### Artículo sesenta y dos
+
+Artículo sesenta y dos.
+En defecto de estimación, la indemnización cubrirá en caso de pérdida total, el precio que tuvieran las mercancías en el lugar y en el momento en que se cargaran y, además, todos los gastos realizados para entregarlas al transportista y el precio de seguro si recayera sobre el asegurado.
+No obstante lo dispuesto en el párrafo anterior, cuando el seguro cubre los riesgos de mercancías que se destinen a la venta, la indemnización se regulará por el valor que las mercancías tuvieran en el lugar de destino.
+
+## SECCIÓN QUINTA
+
+Sección quinta. Seguro de lucro cesante
+
+### Artículo sesenta y tres
+
+Artículo sesenta y tres.
+Por el seguro de lucro cesante el asegurador se obliga, dentro de los límites establecidos en la Ley y en el contrato, a indemnizar al asegurado la pérdida del rendimiento económico, que hubiera podido alcanzarse en un acto o actividad de no haberse producido el siniestro descrito en el contrato.
+Este seguro podrá celebrarse como contrato autónomo o añadirse como un pacto a otro de distinta naturaleza.
+
+### Artículo sesenta y cuatro
+
+Artículo sesenta y cuatro.
+Cuando el tomador del seguro o el asegurado realicen, respecto a un determinado objeto un contrato de seguro de lucro cesante con un asegurador y otro de seguro de daños con otro asegurador distinto, deberán comunicar sin demora alguna, a cada uno de los aseguradores, la existencia del otro seguro. En la comunicación se indicará no sólo la denominación social del asegurador con el que se ha contratado el otro seguro, sino también la suma asegurada y demás elementos esenciales. La inexistencia de esta comunicación producirá en su caso los efectos previstos en la Sección Segunda del Título Primero de la presente Ley.
+
+### Artículo sesenta y cinco
+
+Artículo sesenta y cinco.
+En defecto de pacto expreso, el asegurador deberá indemnizar:
+Primero.–La pérdida de beneficios que produzca el siniestro durante el período previsto en la póliza.
+Segundo.–Los gastos generales que continúan gravando al asegurado después de la producción del siniestro.
+Tercero.–Los gastos que sean consecuencia directa del siniestro asegurado.
+
+### Artículo sesenta y seis
+
+Artículo sesenta y seis.
+El titular de una Empresa puede asegurar la pérdida de beneficios y los gastos generales que haya de seguir soportando cuando la Empresa quede paralizada total o parcialmente a consecuencia de los acontecimientos delimitados en el contrato.
+
+### Artículo sesenta y siete
+
+Artículo sesenta y siete.
+Si el contrato tuviera exclusivamente por objeto la pérdida de beneficios las partes no podrán predeterminar el importe de la indemnización.
+
+## SECCIÓN SEXTA
+
+Sección sexta. Seguro de caución
+
+### Artículo sesenta y ocho
+
+Artículo sesenta y ocho.
+Por el seguro de caución el asegurador se obliga, en caso de incumplimiento por el tomador del seguro de sus obligaciones legales o contractuales, a indemnizar al asegurado a título de resarcimiento o penalidad los daños patrimoniales sufridos dentro de los límites establecidos en la Ley o en el contrato. Todo pago hecho por el asegurador deberá serle reembolsado por el tomador del seguro.
+
+## SECCIÓN SEPTIMA
+
+Sección séptima. Seguro de crédito
+
+### Artículo sesenta y nueve
+
+Artículo sesenta y nueve.
+Por el seguro de crédito el asegurador se obliga, dentro de los límites establecidos en la Ley y en el contrato a indemnizar al asegurado las pérdidas finales que experimente a consecuencia de la insolvencia definitiva de sus deudores.
+
+### Artículo setenta
+
+Artículo setenta.
+Se reputará existente la insolvencia definitiva del deudor en los siguientes supuestos:
+Primero.–Cuando haya sido declarado en quiebra mediante resolución judicial firme.
+Segundo.–Cuando haya sido aprobado judicialmente un convenio en el que se establezca una quita del importe.
+Tercero.–Cuando se haya despachado mandamiento de ejecución o apremio, sin que del embargo resulten bienes libres bastantes para el pago.
+Cuarto.–Cuando el asegurado y el asegurador, de común acuerdo, consideren que el crédito resulta incobrable.
+No obstante cuanto antecede, transcurridos seis meses desde el aviso del asegurado al asegurador del impago del crédito, éste abonará a aquél el cincuenta por ciento de la cobertura pactada, con carácter provisional y a cuenta de ulterior liquidación definitiva.
+
+### Artículo setenta y uno
+
+Artículo setenta y uno.
+En caso de siniestro, la cuantía de la indemnización vendrá determinada por un porcentaje establecido en el contrato, de la pérdida final que resulte de añadir al crédito impagado los gastos originados por las gestiones de recobro, los gastos procesales y cualesquiera otros expresamente pactados. Dicho porcentaje no podrá comprender los beneficios del asegurado, ni ser inferior al cincuenta por ciento de la pérdida final.
+
+### Artículo setenta y dos
+
+Artículo setenta y dos.
+El asegurado, y en su caso el tomador del seguro, queda obligado:
+Primero.–A exhibir, a requerimiento del asegurador, los libros y cualesquiera otros documentos que poseyere relativos al crédito o créditos asegurados.
+Segundo.–A prestar la colaboración necesaria en los procedimientos judiciales encaminados a obtener la solución de la deuda, cuya dirección será asumida por el asegurador.
+Tercero.–A ceder al asegurador, cuando éste lo solicite, el crédito que tenga contra el deudor una vez satisfecha la indemnización.
+
+## SECCIÓN OCTAVA
+
+Sección octava. Seguro de responsabilidad civil
+
+### Artículo setenta y tres
+
+Artículo setenta y tres.
+Por el seguro de responsabilidad civil el asegurador se obliga, dentro de los límites establecidos en la Ley y en el contrato, a cubrir el riesgo del nacimiento a cargo del asegurado de la obligación de indemnizar a un tercero los daños y perjuicios causados por un hecho previsto en el contrato de cuyas consecuencias sea civilmente responsable el asegurado, conforme a derecho.
+Serán admisibles, como límites establecidos en el contrato, aquellas cláusulas limitativas de los derechos de los asegurados ajustadas al artículo 3 de la presente Ley que circunscriban la cobertura de la aseguradora a los supuestos en que la reclamación del perjudicado haya tenido lugar dentro de un período de tiempo, no inferior a un año, desde la terminación de la última de las prórrogas del contrato o, en su defecto, de su período de duración. Asimismo, y con el mismo carácter de cláusulas limitativas conforme a dicho artículo 3 serán admisibles, como límites establecidos en el contrato, aquéllas que circunscriban la cobertura del asegurador a los supuestos en que la reclamación del perjudicado tenga lugar durante el período de vigencia de la póliza siempre que, en este caso, tal cobertura se extienda a los supuestos en los que el nacimiento de la obligación de indemnizar a cargo del asegurado haya podido tener lugar con anterioridad, al menos, de un año desde el comienzo de efectos del contrato, y ello aunque dicho contrato sea prorrogado.
+Se añade un párrafo por la disposición adicional 6.5 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262
+
+### Artículo setenta y cuatro
+
+Artículo setenta y cuatro.
+Salvo pacto en contrario, el asegurador asumirá la dirección jurídica frente a la reclamación del perjudicado, y serán de su cuenta los gastos de defensa que se ocasionen. El asegurado deberá prestar la colaboración necesaria en orden a la dirección jurídica asumida por el asegurador.
+No obstante lo dispuesto en el párrafo anterior, cuando quien reclame esté también asegurado con el mismo asegurador o exista algún otro posible conflicto de intereses, éste comunicará inmediatamente al asegurado la existencia de esas circunstancias, sin perjuicio de realizar aquellas diligencias que por su carácter urgente sean necesarias para la defensa. El asegurado podrá optar entre el mantenimiento de la dirección jurídica por el asegurador o confiar su propia defensa a otra persona. En este último caso, el asegurador quedará obligado a abonar los gastos de tal dirección jurídica hasta el límite pactado en la póliza.
+
+### Artículo setenta y cinco
+
+Artículo setenta y cinco.
+(Derogado)
+Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria.a) de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dd. tendrá efectos el 1 de enero de 2016, según se establece en su disposición final 21.
+ Redacción anterior:
+ "Será obligatorio el seguro de responsabilidad civil para el ejercicio de aquellas actividades que por el Gobierno se determinen. La Administración no autorizará el ejercicio de tales actividades sin que previamente se acredite por el interesado la existencia del seguro. La falta de seguro, en los casos en que sea obligatorio, será sancionada administrativamente."
+Se deroga por la disposición derogatoria.a) de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dd.
+
+### Artículo setenta y seis
+
+Artículo setenta y seis.
+El perjudicado o sus herederos tendrán acción directa contra el asegurador para exigirle el cumplimiento de la obligación de indemnizar, sin perjuicio del derecho del asegurador a repetir contra el asegurado, en el caso de que sea debido a conducta dolosa de éste, el daño o perjuicio causado a tercero. La acción directa es inmune a las excepciones que puedan corresponder al asegurador contra el asegurado. El asegurador puede, no obstante, oponer la culpa exclusiva del perjudicado y las excepciones personales que tenga contra éste. A los efectos del ejercicio de la acción directa, el asegurado estará obligado a manifestar al tercero perjudicado o a sus herederos la existencia del contrato de seguro y su contenido.
+
+## SECCIÓN NOVENA
+
+Sección novena. Seguro de defensa jurídica
+Se modifica por el art. 6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736.
+
+### Artículo setenta y seis. a)
+
+Artículo setenta y seis a).
+Por el seguro de defensa jurídica, el asegurador se obliga, dentro de los límites establecidos en la Ley y en el contrato, a hacerse cargo de los gastos en que pueda incurrir el asegurado como consecuencia de su intervención en un procedimiento administrativo, judicial o arbitral, y a prestarle los servicios de asistencia jurídica judicial y extrajudicial derivados de la cobertura del seguro.
+Se añade por el art. 6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736.
+
+### Artículo setenta y seis. b)
+
+Artículo setenta y seis b).
+Quedan excluidos de la cobertura del seguro de defensa jurídica el pago de multas y la indemnización de cualquier gasto originado por sanciones impuestas al asegurado por las autoridades administrativas o judiciales.
+Se añade por el art. 6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736.
+
+### Artículo setenta y seis. c)
+
+Artículo setenta y seis c).
+El seguro de defensa jurídica deberá ser objeto de un contrato independiente.
+El contrato, no obstante, podrá incluirse en capítulo aparte dentro de una póliza única, en cuyo caso habrán de especificarse el contenido de la defensa jurídica garantizada y la prima que le corresponde.
+Se añade por el art. 6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736.
+
+### Artículo setenta y seis. d)
+
+Artículo setenta y seis d).
+El asegurado tendrá derecho a elegir libremente el Procurador y Abogado que hayan de representarle y defenderle en cualquier clase de procedimiento.
+El asegurado tendrá, asimismo, derecho a la libre elección de Abogado y Procurador en los casos en que se presente conflicto de intereses entre las partes del contrato.
+El Abogado y Procurador designados por el asegurado no estarán sujetos, en ningún caso, a las instrucciones del asegurador.
+Se añade por el art. 6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736.
+
+### Artículo setenta y seis. e)
+
+Artículo setenta y seis e).
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 1/2018, de 11 de enero. Ref. BOE-A-2018-1677
+ Se añade por el art. 6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736.
+
+### Artículo setenta y seis. f)
+
+Artículo setenta y seis f).
+La póliza del contrato de seguro de defensa jurídica habrá de recoger expresamente los derechos reconocidos al asegurado por los dos artícu­los anteriores.
+En caso de conflicto de intereses o de desavenencia sobre el modo de tratar una cuestión litigiosa, el asegurador deberá informar inmediata­mente al asegurado de la facultad que le compete de ejercitar los derechos a que se refieren los dos artículos anteriores.
+Se añade por el art. 6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736.
+
+### Artículo setenta y seis. g)
+
+Artículo setenta y seis g).
+Los preceptos contenidos en esta Sección no serán de aplicación:
+1.º A la defensa jurídica realizada por el asegurador de la responsa­bilidad civil de conformidad con lo previsto en el artículo 74.
+2.º A la defensa jurídica realizada por el asegurador de la asistencia en viaje.
+En este caso, la no aplicación de las normas de esta Sección quedará subordinada a que la actividad de defensa jurídica se ejerza en un Estado distinto del de la residencia habitual del asegurado; a que dicha actividad se halle contemplada en un contrato que tenga por objeto única y exclusivamente la asistencia a personas que se encuentren en dificultades con motivo de desplazamientos o de ausencias de su lugar de residencia habitual, y a que en el contrato se indique claramente que no se trata de un seguro de defensa jurídica, sino de una cobertura accesoria a la de asistencia en viaje.
+3.º A la defensa jurídica que tenga por objeto litigios o riesgos que surjan o tengan relación con el uso de buques o embarcaciones marítimas.
+Se añade por el art. 6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736.
+
+## SECCIÓN DÉCIMA
+
+Sección décima. Reaseguro
+Se renumera por el art. 6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736.
+ Su anterior numeración era Sección novena.
+
+### Artículo setenta y siete
+
+Artículo setenta y siete.
+Por el contrato de reaseguro el reasegurador se obliga a reparar, dentro de los límites establecidos en la Ley y en el contrato la deuda que nace en el patrimonio del reasegurado a consecuencia de la obligación por éste asumida como asegurador en un contrato de seguro.
+El pacto de reaseguro interno, efectuado entre el asegurador directo y otros aseguradores, no afectará al asegurado, que podrá, en todo caso, exigir la totalidad de la indemnización a dicho asegurador, sin perjuicio del derecho de repetición que a éste corresponda frente a los reaseguradores, en virtud del pacto interno.
+
+### Artículo setenta y ocho
+
+Artículo setenta y ocho.
+El asegurado no podrá exigir directamente del reasegurador indemnización ni prestación alguna. En caso de liquidación voluntaria o forzosa de su asegurador gozarán de privilegio especial sobre el saldo acreedor que arroje la cuenta del asegurador con el reasegurador.
+Las alteraciones y modificaciones de la suma asegurada, del valor del interés, y, en general, de las condiciones del seguro directo deberán comunicarse al reasegurador en la forma y en los plazos establecidos en el contrato.
+
+### Artículo setenta y nueve
+
+Artículo setenta y nueve.
+No será de aplicación al contrato de reaseguro el mandato contenido en el artículo segundo de esta Ley.
+
+## TÍTULO III
+
+Seguro de personas
+
+## SECCIÓN PRIMERA
+
+Sección primera. Disposiciones comunes
+
+### Artículo ochenta
+
+Artículo ochenta.
+El contrato de seguro sobre las personas comprende todos los riesgos que puedan afectar a la existencia, integridad corporal o salud del asegurado.
+
+### Artículo ochenta y uno
+
+Artículo ochenta y uno.
+El contrato puede celebrarse con referencia a riesgos relativos a una persona o a un grupo de ellas. Este grupo deberá estar delimitado por alguna característica común extraña al propósito de asegurarse.
+
+### Artículo ochenta y dos
+
+Artículo ochenta y dos.
+En los seguros de personas el asegurador, aun después de pagada la indemnización, no puede subrogarse en los derechos que en su caso correspondan al asegurado contra un tercero como consecuencia del siniestro. Se exceptúa de lo dispuesto en el párrafo anterior lo relativo a los gastos de asistencia sanitaria.
+
+## SECCIÓN SEGUNDA
+
+Sección segunda. Seguro sobre la vida
+
+### Artículo ochenta y tres
+
+Artículo ochenta y tres.
+Por el seguro de vida el asegurador se obliga, mediante el cobro de la prima estipulada y dentro de los límites establecidos en la Ley y en el contrato, a satisfacer al beneficiario un capital, una renta u otras prestaciones convenidas, en el caso de muerte o bien de supervivencia del asegurado, o de ambos eventos conjuntamente.
+El seguro sobre la vida puede estipularse sobre la vida propia o la de un tercero, tanto para caso de muerte como para caso de supervivencia o ambos conjuntamente, así como sobre una o varias cabezas.
+Son seguros sobre la vida aquellos en que, cumpliendo lo establecido en los párrafos anteriores, la prestación convenida en la póliza ha sido determinada por el asegurador mediante la utilización de criterios y bases de técnica actuarial.
+En los seguros para caso de muerte, si son distintas las personas del tomador del seguro y del asegurado, será preciso el consentimiento de este, dado por escrito, salvo que pueda presumirse de otra forma su interés por la existencia del seguro.
+A los efectos de lo indicado en el artículo 4, en los seguros sobre la vida se entiende que existe riesgo si en el momento de la contratación no se ha producido el evento objeto de la cobertura otorgada en la póliza.
+Si el asegurado es menor de edad, será necesaria, además, la autorización por escrito de sus representantes legales. Si el asegurado es una persona con discapacidad, será necesaria igualmente la autorización por escrito de la persona que ejerza la medida de apoyo representativa.
+No se podrá contratar un seguro para caso de muerte sobre la cabeza de menores de catorce años de edad. Se exceptúan de esta prohibición, los contratos de seguros en los que la cobertura de muerte resulte inferior o igual a la prima satisfecha por la póliza o al valor de rescate.
+Se modifica por la disposición final 2 de la Ley 5/2025, de 24 de julio. Ref. BOE-A-2025-15424#df-2
+ Se modifica por el art. 12 de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807
+ Redactado conforme la corrección de errores publicada en BOE núm. 33, de 7 de febrero de 2003. Ref. BOE-A-2003-2510
+
+### Artículo ochenta y tres. a)
+
+Artículo ochenta y tres a).
+1. El tomador del seguro en un contrato de seguro individual de duración superior a seis meses que haya estipulado el contrato sobre la vida propia o la de un tercero tendrá la facultad unilateral de resolver el contrato sin indicación de los motivos y sin penalización alguna dentro del plazo de 30 días siguientes a la fecha en la que el asegurador le entregue la póliza o documento de cobertura provisional.
+Se exceptúan de esta facultad unilateral de resolución los contratos de seguro en los que el tomador asume el riesgo de la inversión, así como los contratos en los que la rentabilidad garantizada esté en función de inversiones asignadas en los mismos.
+2. La facultad unilateral de resolución del contrato deberá ejercitarse por el tomador mediante comunicación dirigida al asegurador a través de un soporte duradero, disponible y accesible para éste y que permita dejar constancia de la notificación. La referida comunicación deberá expedirse por el tomador del seguro antes de que venza el plazo indicado en el apartado anterior.
+3. A partir de la fecha en que se expida la comunicación a que se refiere el apartado anterior cesará la cobertura del riesgo por parte del asegurador y el tomador del seguro tendrá derecho a la devolución de la prima que hubiera pagado, salvo la parte correspondiente al período de tiempo en que el contrato hubiera tenido vigencia. El asegurador dispondrá para ello de un plazo de 30 días a contar desde el día que reciba la comunicación de rescisión.
+Se deroga el párrafo segundo del apartado 1 por la disposición derogatoria.b) de la Ley 22/2007, de 11 de julio. Ref. BOE-A-2007-13411 en la redacción dada por la disposición adicional 19.1 de la Ley 56/2007, de 28 de diciembre. Ref. BOE-A-2007-22440
+ Se derogan los párrafos segundo y tercero del apartado 1 y el inciso destacado del apartado 2 por la disposición derogatoria.b) y c) de la Ley 22/2007, de 11 de julio. Ref. BOE-A-2007-13411
+ Se modifica por el art. 2.2 de la Ley 34/2003, de 4 de noviembre. Ref. BOE-A-2003-20330
+ Se añade por la disposición adicional 6.6 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1980-22501
+
+### Artículo ochenta y cuatro
+
+Artículo ochenta y cuatro.
+El tomador del seguro podrá designar beneficiario o modificar la designación anteriormente realizada, sin necesidad de consentimiento del asegurador.
+La designación del beneficiario podrá hacerse en la póliza, en una posterior declaración escrita comunicada al asegurador o en testamento.
+Si en el momento del fallecimiento del asegurado no hubiere beneficiario concretamente designado, ni reglas para su determinación, el capital formará parte del patrimonio del tomador.
+
+### Artículo ochenta y cinco
+
+Artículo ochenta y cinco.
+En caso de designación genérica de los hijos de una persona como beneficiarios, se entenderán como hijos todos sus descendientes con derecho a herencia. Si la designación se hace en favor de los herederos del tomador, del asegurado o de otra persona, se considerarán como tales los que tengan dicha condición en el momento del fallecimiento del asegurado. Si la designación se hace en favor de los herederos sin mayor especificación, se considerarán como tales los del tomador del seguro que tengan dicha condición en el momento del fallecimiento del asegurado. La designación del cónyuge como beneficiario atribuirá tal condición igualmente al que lo sea en el momento del fallecimiento del asegurado. Los beneficiarios que sean herederos conservarán dicha condición aunque renuncien a la herencia.
+
+### Artículo ochenta y seis
+
+Artículo ochenta y seis.
+Si la designación se hace en favor de varios beneficiarios, la prestación convenida se distribuirá, salvo estipulación en contrario, por partes iguales. Cuando se haga en favor de los herederos, la distribución tendrá lugar en proporción a la cuota hereditaria, salvo pacto en contrario. La parte no adquirida por un beneficiario acrecerá a los demás.
+
+### Artículo ochenta y siete
+
+Artículo ochenta y siete.
+El tomador del seguro puede revocar la designación del beneficiario en cualquier momento, mientras no haya renunciado expresamente y por escrito a tal facultad. La revocación deberá hacerse en la misma forma establecida para la designación.
+El tomador perderá los derechos de rescate, anticipo, reducción y pignoración de la póliza si renuncia a la facultad de revocación.
+
+### Artículo ochenta y ocho
+
+Artículo ochenta y ocho.
+La prestación del asegurador deberá ser entregada al beneficiario, en cumplimiento del contrato, aun contra las reclamaciones de los herederos legítimos y acreedores de cualquier clase del tomador del seguro. Unos y otros podrán, sin embargo, exigir al beneficiario el reembolso del importe de las primas abonadas por el contratante en fraude de sus derechos.
+Cuando el tomador del seguro sea declarado en concurso o quiebra, los órganos de representación de los acreedores podrán exigir al asegurador la reducción del seguro.
+
+### Artículo ochenta y nueve
+
+Artículo ochenta y nueve.
+En caso de reticencia e inexactitud en las declaraciones del tomador, que influyan en la estimación del riesgo, se estará a lo establecido en las disposiciones generales de esta Ley. Sin embargo, el asegurador no podrá impugnar el contrato una vez transcurrido el plazo de un año, a contar desde la fecha de su conclusión, a no ser que las partes hayan fijado un término más breve en la póliza y, en todo caso, salvo que el tomador del seguro haya actuado con dolo.
+Se exceptúa de esta norma la declaración inexacta relativa a la edad del asegurado, que se regula en el artículo siguiente.
+
+### Artículo noventa
+
+Artículo noventa.
+En el supuesto de indicación inexacta de la edad del asegurado, el asegurador sólo podrá impugnar el contrato si la verdadera edad del asegurado en el momento de la entrada en vigor del contrato excede de los límites de admisión establecidos por aquél.
+En otro caso, si como consecuencia de una declaración inexacta de la edad, la prima pagada es inferior a la que correspondería pagar, la prestación del asegurador se reducirá en proporción a la prima percibida. Si, por el contrario, la prima pagada es superior a la que debería haberse abonado, el asegurador está obligado a restituir el exceso de las primas percibidas sin intereses.
+
+### Artículo noventa y uno
+
+Artículo noventa y uno.
+En el seguro para caso de muerte el asegurador sólo se libera de su obligación si el fallecimiento del asegurado tiene lugar por alguna de las circunstancias expresamente excluidas en la póliza.
+
+### Artículo noventa y dos
+
+Artículo noventa y dos.
+La muerte del asegurado, causada dolosamente por el beneficiario, privará a éste del derecho a la prestación establecida en el contrato, quedando ésta integrada en el patrimonio del tomador.
+
+### Artículo noventa y tres
+
+Artículo noventa y tres.
+Salvo pacto en contrario, el riesgo de suicidio del asegurado quedará cubierto a partir del transcurso de un año del momento de la conclusión del contrato. A estos efectos se entiende por suicidio la muerte causada consciente y voluntariamente por el propio asegurado.
+
+### Artículo noventa y cuatro
+
+Artículo noventa y cuatro.
+En la póliza de seguro se regularán los derechos de rescate y reducción de la suma asegurada, de modo que el asegurado pueda conocer en todo momento el correspondiente valor de rescate o de reducción.
+
+### Artículo noventa y cinco
+
+Artículo noventa y cinco.
+Una vez transcurrido el plazo previsto en la póliza, que no podrá ser superior a dos años desde la vigencia del contrato, no se aplicará el párrafo dos del artículo quince sobre falta de pago de la prima. A partir de dicho plazo, la falta de pago de la prima producirá la reducción del seguro conforme a la tabla de valores inserta en la póliza.
+La reducción del seguro se producirá igualmente cuando lo solicite el tomador, una vez transcurrido aquel plazo.
+El tomador tiene derecho a la rehabilitación de la póliza, en cualquier momento, antes del fallecimiento del asegurado, debiendo cumplir para ello las condiciones establecidas en la póliza.
+
+### Artículo noventa y seis
+
+Artículo noventa y seis.
+El tomador que haya pagado las dos primeras anualidades de la prima a la que corresponda el plazo inferior previsto en la póliza podrá ejercitar el derecho de rescate mediante la oportuna solicitud, conforme a las tablas de valores fijadas en la póliza.
+
+### Artículo noventa y siete
+
+Artículo noventa y siete.
+El asegurador deberá conceder al tomador anticipos sobre la prestación asegurada, conforme a las condiciones fijadas en la póliza, una vez pagadas las anualidades a que se refiere el artículo anterior.
+
+### Artículo noventa y ocho
+
+Artículo noventa y ocho.
+En los seguros de supervivencia y en los seguros temporales para caso de muerte no será de aplicación lo dispuesto en los artículos noventa y cuatro, noventa y cinco, noventa y seis y noventa y siete. Los aseguradores podrán, no obstante, conceder al tomador los derechos de rescate, reducción y anticipos en los términos que se determinen en el contrato.
+
+### Artículo noventa y nueve
+
+Artículo noventa y nueve.
+El tomador podrá, en cualquier momento, ceder o pignorar la póliza, siempre que no haya sido designado beneficiario con carácter irrevocable. La cesión o pignoración de la póliza implica la revocación del beneficiario.
+Si la póliza se emite a la orden, la cesión o pignoración se realizarán mediante endoso.
+El tomador deberá comunicar por escrito fehacientemente al asegurador la cesión o pignoración realizada.
+
+## SECCIÓN TERCERA
+
+Sección tercera. Seguro de accidentes
+
+### Artículo ciento
+
+Artículo ciento.
+Sin perjuicio de la delimitación del riesgo que las partes efectúen en el contrato, se entiende por accidente la lesión corporal que deriva de una causa violenta súbita, externa y ajena a la intencionalidad del asegurado, que produzca invalidez temporal o permanente o muerte.
+Las disposiciones contenidas en los artículos ochenta y tres a ochenta y seis del seguro de vida y en el párrafo 1 del artículo ochenta y siete son aplicables a los seguros de accidentes.
+
+### Artículo ciento uno
+
+Artículo ciento uno.
+El tomador debe comunicar al asegurador la celebración de cualquier otro seguro de accidentes que se refiera a la misma persona. El incumplimiento de este deber sólo puede dar lugar a una reclamación por los daños y perjuicios que originen, sin que el asegurador pueda deducir de la suma asegurada cantidad alguna por este concepto.
+
+### Artículo ciento dos
+
+Artículo ciento dos.
+Si el asegurado provoca intencionadamente el accidente, el asegurador se libera del cumplimiento de su obligación.
+En el supuesto de que el beneficiario cause dolosamente el siniestro quedará nula la designación hecha a su favor. La indemnización corresponderá al tomador o, en su caso, a la de los herederos de éste.
+
+### Artículo ciento tres
+
+Artículo ciento tres.
+Los gastos de asistencia sanitaria serán por cuenta del asegurador, siempre que se haya establecido su cobertura expresamente en la póliza y que tal asistencia se haya efectuado en las condiciones previstas en el contrato. En todo caso, estas condiciones no podrán excluir las necesarias asistencias de carácter urgente.
+
+### Artículo ciento cuatro
+
+Artículo ciento cuatro.
+La determinación del grado de invalidez que derive del accidente se efectuará después de la presentación del certificado médico de incapacidad. El asegurador notificará por escrito al asegurado la cuantía de la indemnización que le corresponde, de acuerdo con el grado de invalidez que deriva del certificado médico y de los baremos fijados en la póliza. Si el asegurado no aceptase la proposición del asegurador en lo referente al grado de invalidez, las partes se someterán a la decisión de Peritos Médicos, conforme al artículo treinta y ocho.
+
+## SECCIÓN CUARTA
+
+Sección cuarta. Seguros de enfermedad y de asistencia sanitaria
+
+### Artículo ciento cinco
+
+Artículo ciento cinco.
+Cuando el riesgo asegurado sea la enfermedad, el asegurador podrá obligarse, dentro de los límites de la póliza, en caso de siniestro, al pago de ciertas sumas y de los gastos de asistencia médica y farmacéutica. Si el asegurador asume directamente la prestación de los servicios médicos y quirúrgicos, la realización de tales servicios se efectuará dentro de los límites y condiciones que las disposiciones reglamentarias determinan.
+
+### Artículo ciento seis
+
+Artículo ciento seis.
+Los seguros de enfermedad y de asistencia sanitaria quedarán sometidos a las normas contenidas en la sección anterior en cuanto sean compatibles con este tipo de seguros.
+
+## SECCIÓN QUINTA
+
+Sección quinta. Seguros de decesos y dependencia
+Téngase en cuenta que esta sección añadida por la disposición final 1.4 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897. entra en vigor el 1 de enero de 2016 según se indica en la disposición final 21.1.
+Se añade por la disposición final 1.4 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897.
+
+### Artículo ciento seis bis
+
+Artículo ciento seis bis.
+1. Por el seguro de decesos el asegurador se obliga, dentro de los límites establecidos en este título y en el contrato, a prestar los servicios funerarios pactados en la póliza para el caso en que se produzca el fallecimiento del asegurado.
+El exceso de la suma asegurada sobre el coste del servicio prestado por el asegurador corresponderá al tomador o, en su defecto, a los herederos.
+2. En el supuesto de que el asegurador no hubiera podido proporcionar la prestación por causas ajenas a su voluntad, fuerza mayor o por haberse realizado el servicio a través de otros medios distintos a los ofrecidos por la aseguradora, el asegurador quedará obligado a satisfacer la suma asegurada a los herederos del asegurado fallecido, no siendo responsable de la calidad de los servicios prestados.
+3. En caso de concurrencia de seguros de decesos en una misma aseguradora, el asegurador estará obligado a devolver, a petición del tomador, las primas pagadas de la póliza que haya decidido anular desde que se produjo la concurrencia.
+4. En caso de fallecimiento, si se hubiera producido la concurrencia de seguros de decesos en más de una aseguradora, el asegurador que no hubiera podido cumplir con su obligación de prestar el servicio funerario en los términos y condiciones previstos en el contrato, vendrá obligado al pago de la suma asegurada a los herederos del asegurado fallecido.
+5. La oposición a la prórroga del contrato sólo podrá ser ejercida por el tomador.
+Se añade por la disposición final 1.4 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897.
+
+### Artículo ciento seis ter
+
+Artículo ciento seis ter.
+1. Por el seguro de dependencia el asegurador se obliga, dentro de los límites establecidos en este título y en el contrato, para el caso de que se produzca la situación de dependencia, al cumplimiento de la prestación convenida con la finalidad de atender, total o parcialmente, directa o indirectamente, las consecuencias perjudiciales para el asegurado que se deriven de dicha situación.
+2. A los efectos de este artículo, se entiende por situación de dependencia la prevista en la normativa reguladora de la promoción de la autonomía personal y atención a las personas en situación de dependencia.
+3. La prestación de asegurador podrá consistir en:
+a) Abonar al asegurado el capital o la renta convenida.
+b) Reembolsar al asegurado los gastos derivados de la asistencia.
+c) Garantizar al asegurado la prestación de los servicios de asistencia, debiendo el asegurador poner a disposición del asegurado dichos servicios y asumir directamente su coste.
+4. La oposición a la prórroga del contrato sólo podrá ser ejercida por el tomador.
+Se añade por la disposición final 1.4 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897.
+
+### Artículo ciento seis quáter
+
+Artículo ciento seis quáter.
+En los seguros de asistencia sanitaria, dependencia y de decesos, las entidades aseguradoras garantizarán a los asegurados la libertad de elección del prestador del servicio, dentro de los límites y condiciones establecidos en el contrato. En estos casos la entidad aseguradora deberá poner a disposición del asegurado, de forma fácilmente accesible, una relación de prestadores de servicios que garantice una efectiva libertad de elección, salvo en aquellos contratos en los que expresamente se prevea un único prestador.
+En los seguros de decesos será de aplicación lo dispuesto en el artículo 106 bis.2 cuando los herederos contratasen los servicios por medios distintos a los ofrecidos por la aseguradora conforme al párrafo anterior.
+Se añade por la disposición final 1.4 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897.
+
+## TÍTULO IV
+
+TITULO IV
+Normas de Derecho Internacional Privado
+Se añade por el art. 3.6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736
+
+### Artículo ciento siete
+
+Artículo ciento siete.
+1. La ley española sobre el contrato de seguro será de aplicación al seguro contra daños en los siguientes casos:
+a) Cuando se refiera a riesgos que estén localizados en territorio español y el tomador del seguro tenga en él su residencia habitual, si se trata de persona física, o su domicilio social o sede de gestión administrativa y dirección de los negocios, si se trata de persona jurídica.
+b) Cuando el contrato se concluya en cumplimiento de una obligación de asegurarse impuesta por la ley española.
+2. En los contratos de seguro por grandes riesgos las partes tendrán libre elección de la ley aplicable.
+Téngase en cuenta que se deroga la definición de grandes riesgos establecida en el apartado 2 por la disposición derogatoria.a) de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dd. con efectos de 1 de enero de 2016.
+ Redacción anterior:
+ "Se consideran grandes riesgos los siguientes:
+ a) Los de vehículos ferroviarios, vehículos aéreos, vehículos marítimos, lacustres y fluviales, mercancías transportadas (comprendidos los equipajes y demás bienes transportados), la responsabilidad civil en vehículos aéreos (comprendida la responsabilidad del transportista) y la responsabilidad civil de vehículos marítimos, lacustres y fluviales (comprendida la responsabilidad civil del transportista).
+ b) Los de crédito y de caución cuando el tomador ejerza a título profesional una actividad industrial, comercial o liberal y el riesgo se refiera a dicha actividad.
+ c) Los de vehículos terrestres (no ferroviarios), incendio y elementos naturales, otros daños a los bienes, responsabilidad civil en vehículos terrestres automóviles (comprendida la responsabilidad del transportista), responsabilidad civil en general, y pérdidas pecuniarias diversas, siempre que el tomador supere los límites de, al menos, dos de los tres criterios siguientes:
+ - Total del balance: 6.200.000 ecus.
+ - Importe neto del volumen de negocios: 12.800.000 ecus.
+ - Número medio de empleados durante el ejercicio: 250 empleados.
+ Si el tomador del seguro formara parte de un conjunto de empresas cuyo balance consolidado se establezca con arreglo a lo dispuesto en los artículos 42 a 49 del Código de Comercio, los criterios mencionados anteriormente se aplicarán sobre la base del balance consolidado".
+3. Fuera de los casos previstos en los dos números anteriores, regirán las siguientes normas para determinar la ley aplicable al contrato de seguro contra daños:
+a) Cuando se refiera a riesgos que estén localizados en territorio español y el tomador del seguro no tenga en él su residencia habitual, domicilio social o sede de gestión administrativa y dirección de los negocios, las partes podrán elegir entre la aplicación de la ley española o la ley del Estado en que el tomador del seguro tenga dicha residencia, domicilio social o dirección efectiva.
+b) Cuando el tomador del seguro sea un empresario o un profesional y el contrato cubra riesgos relativos a sus actividades realizadas en distintos Estados del Espacio Económico Europeo, las partes podrán elegir entre la ley de cualquiera de los Estados en que los riesgos estén localizados o la de aquél en que el tomador tenga su residencia, domicilio social o sede de gestión administrativa y dirección de sus negocios.
+c) Cuando la garantía de los riesgos que estén localizados en territorio español se limite a los siniestros que puedan ocurrir en un Estado miembro del Espacio Económico Europeo distinto de España, las partes pueden elegir la ley de dicho Estado.
+4. A los efectos de lo previsto en los números precedentes, la localización del riesgo se determinará conforme a lo previsto en el artículo 1.3, d), de la Ley de Ordenación y Supervisión de los Seguros Privados.
+5. La elección por las partes de la ley aplicable, cuando sea posible, deberá expresarse en el contrato o desprenderse claramente de su contenido. Si faltare la elección, el contrato se regirá por la ley del Estado de entre los mencionados en los números 2 y 3 de este artículo, con el que presente una relación más estrecha. Sin embargo, si una parte del contrato fuera separable del resto del mismo y presentara una relación más estrecha con algún otro Estado de los referidos en este número, podrá, excepcionalmente, aplicarse a esta parte del contrato la ley de ese Estado. Se presumirá que existe relación más estrecha con el Estado miembro del Espacio Económico Europeo en que esté localizado el riesgo.
+6. Lo dispuesto en los números precedentes se entenderá sin perjuicio de las normas de orden público contenidas en la ley española, cualquiera que sea la ley aplicable al contrato de seguro contra daños. Sin embargo, si el contrato cubre riesgos localizados en varios Estados miembros del Espacio Económico Europeo se considerará que existen varios contratos a los efectos de lo previsto en este número y que corresponden cada uno de ellos únicamente a un Estado.
+Se deroga la definición de grandes riesgos del apartado 2 por la disposición derogatoria.a) de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897.
+ Se modifica por la disposición adicional 6.7 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262
+ Se añade por el art. 3.6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736
+
+### Artículo ciento ocho
+
+Artículo ciento ocho.
+1. La presente Ley será de aplicación a los contratos de seguro sobre la vida en los siguientes supuestos:
+a) Cuando el tomador del seguro sea una persona física y tenga su domicilio o su residencia habitual en territorio español. No obstante, si es nacional de otro Estado miembro del Espacio Económico Europeo distinto de España podrá acordar con el asegurador aplicar la ley de su nacionalidad.
+b) Cuando el tomador del seguro sea una persona jurídica y tenga su domicilio, su efectiva administración y dirección o su principal establecimiento o explotación en territorio español.
+c) Cuando el tomador del seguro sea una persona física de nacionalidad española con residencia habitual en otro Estado y así lo acuerde con el asegurador.
+d) Cuando el contrato de seguro de grupo se celebre en cumplimiento o como consecuencia de un contrato de trabajo sometido a la ley española.
+2. Los Juzgados y Tribunales españoles que hayan de resolver cuestiones sobre el cumplimiento de los contratos de seguro sobre la vida aplicarán las disposiciones imperativas vigentes en España sobre este contrato, cualquiera que sea la ley aplicable.
+3. Se aplicarán las normas de Derecho internacional privado contenidas en el artículo 107 a los seguros de personas distintos al seguro sobre la vida.
+Se modifica por la disposición adicional 6.7 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262
+ Se añade por el art. 3.6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736
+
+### Artículo ciento nueve
+
+Artículo ciento nueve.
+Se aplicarán al contrato de seguro las normas generales de Derecho internacional privado en materia de obligaciones contractuales, en lo no previsto en los artículos 107 y 108.
+Se modifica por la disposición adicional 6.7 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262
+ Se añade por el art. 3.6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736
+
+### Disposición adicional primera
+
+Disposición adicional primera. Soporte duradero.
+Siempre que esta ley exija que el contrato de seguro o cualquier otra información relacionada con el mismo conste por escrito, este requisito se entenderá cumplido si el contrato o la información se contienen en papel u otro soporte duradero que permita guardar, recuperar fácilmente y reproducir sin cambios el contrato o la información.
+Se añade por el art. 2.3 de la Ley 34/2003, de 4 de noviembre. Ref. BOE-A-2003-20330
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Contratación a distancia.
+(Derogada).
+Se deroga por la disposición derogatoria.d) de la Ley 22/2007, de 11 de julio. Ref. BOE-A-2007-13411
+ Se añade por el art. 2.3 de la Ley 34/2003, de 4 de noviembre. Ref. BOE-A-1990-30736
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Contratación electrónica.
+Los contratos de seguro celebrados por vía electrónica producirán todos los efectos previstos por el ordenamiento jurídico cuando concurran el consentimiento y los demás requisitos necesarios para su validez.
+En cuanto a su validez, prueba de celebración y obligaciones derivadas del mismo se sujetarán a la normativa específica del contrato de seguro y a la legislación sobre servicios de la sociedad de la información y de comercio electrónico.
+Se añade por el art. 2.3 de la Ley 34/2003, de 4 de noviembre. Ref. BOE-A-2003-20330
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. No discriminación por razón de discapacidad.
+No se podrá discriminar a las personas con discapacidad en la contratación de seguros. En particular, se prohíbe la denegación de acceso a la contratación, el establecimiento de procedimientos de contratación diferentes de los habitualmente utilizados por el asegurador o la imposición de condiciones más onerosas, por razón de discapacidad, salvo que se encuentren fundadas en causas justificadas, proporcionadas y razonables, que se hallen documentadas previa y objetivamente.
+Se añade por el art. 14 de la Ley 26/2011, de 1 de agosto. Ref. BOE-A-2011-13241.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. No discriminación por razón de VIH/SIDA u otras condiciones de salud.
+1. No se podrá discriminar a las personas que tengan VIH/SIDA, ni por otras condiciones de salud. En particular, se prohíbe la denegación de acceso a la contratación, el establecimiento de procedimientos de contratación diferentes de los habitualmente utilizados por el asegurador o la imposición de condiciones más onerosas, por razón de tener VIH/SIDA, o por otras condiciones de salud, salvo que se encuentren fundadas en causas justificadas, proporcionadas y razonables, que se hallen documentadas previa y objetivamente.
+2. En ningún caso podrá denegarse el acceso a la contratación, establecer procedimientos de contratación diferentes de los habitualmente utilizados por el asegurador, imponer condiciones más onerosas o discriminar de cualquier otro modo a una persona por haber sufrido una patología oncológica, una vez transcurridos cinco años desde la finalización del tratamiento radical sin recaída posterior.
+3. El Gobierno, mediante real decreto, podrá modificar los plazos establecidos en el apartado anterior y en el último párrafo del artículo 10 conjuntamente o para patologías oncológicas específicas, en función de la evolución de la evidencia científica.
+Se modifica por el art. 209.2 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-21
+ Se añade por la disposición final 1 de la Ley 4/2018, de 11 de junio. Ref. BOE-A-2018-7832
+
+### Disposición transitoria
+
+Los contratos de seguro celebrados con anterioridad a la entrada en vigor de la presente Ley se adaptarán a la misma en el plazo máximo de dos años a partir de su vigencia, quedando sometidos desde su adaptación, o desde el momento en que transcurran los referidos años, a los preceptos de la misma.
+
+### Disposición final
+
+La presente Ley entrará en vigor a los seis meses de su publicación en el «Boletín Oficial del Estado». Permanece vigente la Ley diez mil novecientos setenta, de 4 de julio, por la que se modifica el régimen del Seguro de Crédito a la Exportación.
+A la entrada en vigor de la presente Ley quedarán derogados los artículos mil setecientos noventa y uno a mil setecientos noventa y siete del Código Civil, los artículos trescientos ochenta a cuatrocientos treinta y ocho del Código de Comercio y cuantas disposiciones se opongan a los preceptos de esta Ley.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio Real, de Madrid, a ocho de octubre de mil novecientos ochenta.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+ADOLFO SUAREZ GONZALEZ

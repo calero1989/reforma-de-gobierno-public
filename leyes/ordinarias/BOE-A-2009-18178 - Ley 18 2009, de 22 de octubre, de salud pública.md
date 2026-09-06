@@ -1,0 +1,1179 @@
+# Ley 18/2009, de 22 de octubre, de salud pública.
+
+- Identificador BOE: `BOE-A-2009-18178`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2009-18178
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 50, de 26 de febrero de 2010. Ref. BOE-A-2010-3101.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 65 del Estatuto de autonomía de Cataluña, promulgo la siguiente Ley 18/2009, de 22 de octubre, de Salud Pública.
+PREÁMBULO
+La salud pública se define como el conjunto organizado de actuaciones de los poderes públicos y de la sociedad mediante la movilización de recursos humanos y materiales para proteger y promover la salud de las personas, prevenir la enfermedad y cuidar la vigilancia de la salud pública. La salud pública también debe entenderse como la salud de la población, y depende, en gran parte, de factores estructurales y ambientales, como por ejemplo la educación o la seguridad, pero también de factores ligados a los estilos de vida, como el consumo de tabaco, la actividad física o la alimentación. De hecho, el aumento de la esperanza de vida que se ha producido en el último siglo en Cataluña se atribuye en buena parte a la mejora de las condiciones de higiene, alimentación, vivienda y trabajo, a pesar de que los progresos en la vertiente asistencial también han contribuido decisivamente.
+La Ley del Estado 14/1986, de 25 de abril, general de sanidad, incluyó la prevención de la enfermedad y la promoción de la salud entre las finalidades del Sistema Nacional de Salud. Más recientemente, la Ley del Estado 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, ha incluido las prestaciones de salud pública en el catálogo de prestaciones del Sistema Nacional de Salud. Estas prestaciones son definidas como el conjunto de iniciativas organizadas por la sociedad para preservar, proteger y promover la salud de la población, que deben ejercerse con carácter de integralidad a partir de las estructuras de salud pública de las administraciones y de la infraestructura de atención primaria del Sistema Nacional de Salud y que deben ser provistas mediante la cartera de servicios.
+La Ley 15/1990, de 9 de julio, de ordenación sanitaria de Cataluña, creó el Servicio Catalán de la Salud con el objetivo último de mantener y mejorar el nivel de salud de la población. El Servicio Catalán de la Salud está configurado por todos los centros, servicios y establecimientos sanitarios públicos y de cobertura pública a los que corresponden, entre otras funciones, las de salud pública.
+La Ley 20/2002, de 5 de julio, de seguridad alimentaria, es la primera iniciativa destinada a configurar un nuevo marco organizativo para garantizar el máximo grado de seguridad alimentaria en Cataluña.
+La Ley 7/2003, de 25 de abril, de protección de la salud, representa el inicio del proceso de reforma de los servicios de salud pública, centrada en la organización de la provisión de servicios de protección de la salud, mediante la creación de la Agencia de Protección de la Salud. Esta ley previó la posibilidad de que los entes locales adscribieran recursos a la Agencia. Complementariamente, la Ley especificaba los servicios mínimos obligatorios que, en materia de protección de la salud, la Agencia de Protección de la Salud podía prestar a los entes locales.
+No debe olvidarse tampoco el Decreto legislativo 2/2003, de 28 de abril, por el que se aprueba el texto refundido de la Ley municipal y de régimen local de Cataluña, que define las competencias municipales en materia de salud pública.
+La definición de los ámbitos de responsabilidad en materia de salud pública puede permitir establecer instrumentos de colaboración y cooperación entre las administraciones para mejorar la eficacia y eficiencia de sus acciones respetando los ámbitos competenciales.
+En este contexto normativo, varios aspectos señalan la necesidad de extender y completar la reforma de los servicios de salud pública. Las diversas crisis de salud pública producidas en los últimos años en el ámbito internacional y las expectativas crecientes de la población en materia de salud pública, unidas a las profundas transformaciones sociales derivadas de la evolución social, de las transformaciones tecnológicas, de la creciente movilidad de personas, bienes y mercancías, de los movimientos migratorios y la multiculturalidad asociada, hacen que sea necesario revisar la adecuación de los servicios de salud pública a los retos de la globalización de los riesgos para la salud y a la necesidad de dar respuestas de prevención y control que sean efectivas, homogéneas, éticas y transparentes, y que contribuyan a generar confianza y seguridad en la ciudadanía.
+Por ello, se considera fundamental integrar el conjunto de los servicios de salud pública, añadiendo a los de protección de la salud y a los de la seguridad alimentaria los relativos a la vigilancia de la salud pública, a la prevención de la enfermedad y a la promoción de la salud, para dar respuestas adecuadas a las necesidades de la nueva sociedad y estar atentos a las situaciones de más desigualdades, en especial a las de las mujeres, puesto que tienen riesgos para la salud y problemas asociados. A estos servicios es preciso añadir la salud laboral y la salud medioambiental, dos ámbitos de gran impacto poblacional y que requieren una visión de la salud pública que garantice su plena efectividad desde el sistema sanitario.
+La dirección que debe darse al conjunto de políticas de salud pública para que devengan efectivas exige formular planes de gobierno que comporten el compromiso explícito de actuar sobre los principales determinantes de la salud. El Gobierno de Cataluña debe formular periódicamente un plan interdepartamental de salud pública, que emane del Plan de salud de Cataluña, que debe movilizar y responsabilizar los diversos ámbitos de gobierno para mejorar los niveles de salud mediante la actuación sobre sus principales determinantes, tanto estructurales como de estilos de vida. Este plan debe reforzar la obligación de las autoridades sanitarias, competentes en materia de salud pública, de coordinarse y de colaborar con las demás administraciones públicas que tienen competencias sobre aspectos de salud pública mediante mecanismos explícitos.
+A la vez, la presente ley reconoce las prestaciones y los servicios que en materia de salud pública debe prestar el sistema sanitario público en Cataluña. De esta forma, el Sistema Nacional de Salud explicita la incorporación, a sus prestaciones, no solo de servicios dirigidos a las personas individuales, sino también de servicios dirigidos a las colectividades y a la prevención de riesgos ambientales.
+Asimismo, la presente ley preconiza que esta integración se haga dentro de organizaciones ejecutivas, ágiles y flexibles, con capacidad para movilizar la cooperación intersectorial e interadministrativa y fomentar las alianzas comunitarias. Por ello se opta por el modelo de agencia con autonomía de gestión y con una cartera de servicios claramente definida. Esta opción contribuye a esclarecer la necesaria separación de la dimensión política de la salud pública, que corresponde al departamento competente en materia de salud mediante la secretaría sectorial de salud pública de nueva creación, de la dimensión técnica y ejecutiva de la provisión de servicios, que corresponde a la Agencia de Salud Pública de Cataluña (Aspcat), como organización con una amplia desconcentración mediante su estructura regional y territorial, que debe permitir responder a las necesidades en materia de salud pública, garantizando la equidad en la gestión de los riesgos para la salud, con especial atención al territorio y al ámbito local. Por ello, este modelo incorpora elementos de descentralización territorial, con instrumentos que van desde la colaboración con los entes locales hasta la participación efectiva de estos en la titularidad de la Agencia de Salud Pública de Cataluña.
+Por otra parte, el impulso descentralizador que se da al sistema sanitario catalán mediante la creación de los gobiernos territoriales de salud también debe incluir la reforma de los servicios de salud pública, debe reafirmar el papel clave que la acción territorial tiene en la prestación de estos servicios y en el reforzamiento de la continuidad asistencial sanitaria, conectando las acciones clínicas individuales con las acciones comunitarias, tanto sobre las personas y sobre los determinantes de su salud, individual y colectiva, como sobre el medio, y debe hacer de la salud comunitaria una orientación fundamental de la acción de dichos servicios. Para reforzar bajo el punto de vista científico, técnico y organizativo sus actuaciones, y para garantizar su calidad y rigor, la Agencia de Salud Pública de Cataluña dispone de un consejo asesor.
+La representación territorial de los servicios de salud pública se hace teniendo como referencia el Mapa sanitario, sociosanitario y de salud pública. La Agencia de Salud Pública de Cataluña tiene un nivel central que ejerce la dirección, la autoridad sanitaria delegada y la planificación e implantación de productos y servicios de salud pública. Este nivel apoya al conjunto de la estructura territorial. Asimismo, tiene un nivel regional que dirige la Agencia en el territorio y ejerce la autoridad sanitaria que tiene delegada. Es también el enlace con la estructura central y los equipos territoriales de salud pública, y es a la vez un facilitador y un coordinador.
+En el nivel local, la Agencia de Salud Pública de Cataluña opera mediante los equipos territoriales de salud pública, en un ámbito territorial coincidente con los gobiernos territoriales de salud. La actuación de estos equipos es muy próxima al territorio. Trabajan con eficacia y calidad en la protección de la salud y sobre los determinantes de la salud de la comunidad, la disminución de las desigualdades y los estilos de vida de las personas, y se coordinan con todos los recursos del territorio, especialmente con la atención primaria de la salud, los municipios y las entidades comunitarias.
+Por otra parte, la presente ley propicia una cooperación más estrecha de los servicios de salud pública municipal en el proceso de reforma, mediante su implicación en una red de equipos locales de salud pública en el ámbito de cada territorio, de acuerdo con el alcance de la cartera de servicios. En este sentido, se refuerza la implicación de los ayuntamientos y de los entes locales, de modo consistente con el desarrollo de los gobiernos territoriales de salud.
+La práctica de la salud pública determina un espacio de trabajo multidisciplinario. Por ello, la Agencia de Salud Pública de Cataluña dispone de equipos multidisciplinarios, integrados por profesionales de la salud del ámbito de la biología, farmacia, enfermería, medicina, veterinaria y otras profesiones sanitarias y no sanitarias, adecuadamente formados para ejercer las competencias profesionales de la salud pública. La formación continua y la investigación deben tener un papel clave en el apoyo a las buenas prácticas en la prestación de servicios de salud pública.
+La participación es un elemento muy relevante de la actividad de la Agencia de Salud Pública de Cataluña, especialmente la de ámbito local, tanto en el nivel institucional como en el organizativo, intersectorial, profesional y comunitario. La Agencia articula la participación mediante el Consejo de Participación y las estructuras formales de participación del Consejo de Participación y de los gobiernos territoriales de salud y, en el ámbito de la salud laboral, del Consejo de Salud Laboral. En el ámbito operativo, la participación se entiende como una estrategia fundamental para llevar a cabo las actuaciones de salud pública. En este sentido cabe destacar y reconocer la respuesta de las organizaciones no gubernamentales del ámbito de la salud.
+Cabe destacar que la presente ley significa un avance importante en la definición del concepto de autoridad sanitaria y de los criterios de intervención administrativa. Así pues, la presente ley aborda el concepto de autoridad sanitaria para la protección de la población de los riesgos relacionados con los problemas de salud que la afectan colectivamente, y la distingue de la autoridad sobre el sistema de salud. Las áreas de expresión más importantes de la autoridad sanitaria se refieren a las autorizaciones sanitarias, las medidas cautelares y los expedientes sancionadores. A la vez, la presente ley establece de una forma clara y compacta los criterios de intervención administrativa en materia de salud pública, incluidos los aspectos relativos a la responsabilidad y el autocontrol, a la vigilancia y el control oficial, a las autorizaciones y a los registros sanitarios, a la autoridad sanitaria y al régimen sancionador, entre otros.
+También cabe mencionar la creación del Sistema de Información de Salud Pública, integrado en el Sistema de Información de la Salud, entendido como sistema organizado de información sanitaria, orientado a la vigilancia y la acción en salud pública, a cuya gestión contribuye de una forma decisiva la Agencia de Salud Pública de Cataluña.
+Finalmente, el alcance de la reforma de los servicios de salud pública implica una dotación presupuestaria mayor para esta área de actividad de los servicios de salud financiados públicamente. En primera instancia, la Agencia de Salud Pública de Cataluña se financia mediante la transferencia de recursos del departamento competente en materia de salud de la Generalidad a las áreas relacionadas con las actividades operativas de la salud pública. Las tasas y los precios públicos derivados de su actividad son fuentes de financiación complementarias.
+La presente ley consta de ochenta artículos, estructurados en cinco títulos, y de seis disposiciones adicionales, tres disposiciones transitorias, una disposición derogatoria y cinco disposiciones finales. En el título I se enuncian las disposiciones generales, que incluyen el objeto de la Ley, las definiciones de los conceptos utilizados en salud pública y sus principios informadores, y la determinación de los órganos que tienen la condición de autoridad sanitaria. Además de definir operativamente cada concepto, este título singulariza la naturaleza de las actividades de salud pública y señala su trascendencia en el sistema de salud, que garantiza la gestión integral de los riesgos para la salud y la contribución a un medio ambiente más seguro y saludable.
+En el título II se enuncia el conjunto de las políticas en materia de salud pública, que se expresan fundamentalmente mediante las prestaciones, Cartera de servicios, formación de los profesionales, investigación, información y comunicación. La consideración de las actividades y los servicios de salud pública como prestación les concede la dimensión de derecho de la ciudadanía, como lo son las demás prestaciones del sistema sanitario público. La formación e investigación en salud pública están representadas por la constitución de sistemas que orientan, facilitan y coordinan el conjunto de actuaciones de formación e investigación en salud pública. Estas funciones se ejecutan propiciando la cooperación entre los organismos competentes en materia de formación y las administraciones públicas. Finalmente, el título II regula la comunicación e información en materia de salud pública, describiendo las actuaciones, las obligaciones y la seguridad de la información del Sistema de Información de Salud Pública.
+El título III tiene seis capítulos y establece el sistema organizativo de la salud pública. En el capítulo I se regulan las competencias de la Administración de la Generalidad en materia de salud pública y se crea una secretaría sectorial para dar el máximo impulso a las políticas y estrategias de salud pública. En el capítulo II se crea, adscrita al departamento competente en materia de salud, la Agencia de Salud Pública de Cataluña y se definen las funciones, los órganos de dirección, integrados por el Consejo de Administración y por el director o directora, el consejo asesor y el consejo de participación. También se establece la ordenación de la Agencia en demarcaciones territoriales mediante los servicios regionales y se regulan los recursos humanos y los regímenes jurídico, económico, patrimonial y contable. El capítulo III crea la Agencia Catalana de Seguridad Alimentaria como un área especializada de la Agencia de Salud Pública de Cataluña, que actúa con plena independencia técnica y bajo los principios del Plan de seguridad alimentaria de Cataluña. El capítulo IV se ocupa de la salud laboral. De acuerdo con este capítulo, la Agencia de Salud Pública de Cataluña cumple funciones de organismo coordinador de las actividades de protección y promoción de la salud en materia de salud laboral en coordinación con el departamento que tiene competencias en materia laboral, incluidas las de seguridad y salud laborales y las de prevención de riesgos laborales. El capítulo V crea la Red de Vigilancia de la Salud Pública. El capítulo VI crea la red de laboratorios de salud pública. En el capítulo VII se aborda la situación de los servicios de salud pública de los entes locales.
+El título IV se refiere a la intervención administrativa en materia de salud pública. El capítulo I establece los principios y criterios de la intervención administrativa, con el objetivo de que el rigor en los procedimientos de esta intervención defienda los intereses de la salud pública, y determina el conjunto de procedimientos que deben garantizar la transparencia de las actuaciones. El capítulo II establece la colaboración entre administraciones en el ámbito de la vigilancia y el control, y el capítulo III define el conjunto de medidas cautelares que pueden adoptar las autoridades sanitarias para garantizar la salud individual y colectiva.
+Finalmente, el título V se ocupa del régimen sancionador. Tipifica las infracciones y establece las sanciones que les corresponden, la cuantía y la titularidad de las competencias sancionadoras.
+Con relación a la parte final, la Ley contiene seis disposiciones adicionales, que incluyen referencias a la Agencia de Salud Pública y Medio Ambiente de Barcelona, al régimen competencial del Consejo General de Arán, y a la extinción de los partidos médicos, farmacéuticos y veterinarios con la sustitución de la estructura y la organización territorial de la Agencia de Protección de la Salud por los servicios regionales y los sectores de la Agencia de Salud Pública de Cataluña. Las disposiciones transitorias regulan el proceso de extinción de la Agencia de Protección de la Salud y el de la Agencia Catalana de Seguridad Alimentaria hasta su sustitución por la Agencia de Salud Pública de Cataluña, que la presente ley crea, y velan por los derechos del personal que ejerce funciones en el ámbito de la salud pública. La disposición derogatoria establece las disposiciones sobre las que proyecta sus efectos. Las disposiciones finales contienen la modificación de la Ley 20/1985, de 25 de julio, de prevención y asistencia en materia de sustancias que pueden generar dependencia; la de la Ley 15/1990, de 9 de julio, de ordenación sanitaria de Cataluña, y la de las disposiciones transitorias segunda y séptima de la Ley 7/2003, de 25 de abril, de protección de la salud, la primera de las cuales ya había sido modificada por la Ley 8/2007, de 30 de julio, del Instituto Catalán de la Salud. Y, finalmente, establecen el mandato al Gobierno para el desarrollo reglamentario y la entrada en vigor de la Ley.
+Téngase en cuenta que las referencias hechas en este preámbulo al Plan interdepartamental de salud pública se entienden hechas al Plan interdepartamental e intersectorial de salud pública, según se establece en la disposición adicional novena de la Ley 5/2019, de 31 de julio. Ref. DOGC-f-2019-90528#da-9
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto la ordenación de las actuaciones, las prestaciones y los servicios en materia de salud pública en el ámbito territorial de Cataluña establecidos por la Ley 15/1990, de 9 de julio, de ordenación sanitaria de Cataluña, para garantizar la vigilancia de la salud pública, la promoción de la salud individual y colectiva, la prevención de la enfermedad y la protección de la salud, de acuerdo con el artículo 43 y concordantes de la Constitución, en el ejercicio de las competencias que el Estatuto atribuye a la Generalidad y en el marco de la legislación que regula el sistema sanitario de Cataluña, impulsando la coordinación y colaboración de los organismos y las administraciones públicas implicados dentro de sus ámbitos competenciales.
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+A los efectos de lo dispuesto por la presente ley, se entiende por:
+a) Análisis del riesgo: el proceso integrado por los tres elementos interrelacionados siguientes: la evaluación del riesgo, la gestión del riesgo y la comunicación del riesgo.
+b) Autocontrol: el conjunto de obligaciones de las personas físicas o jurídicas sujetas al ámbito de aplicación de la presente ley con el fin de garantizar la inocuidad y salubridad de los productos, las actividades y los servicios respectivos.
+c) Autoridad sanitaria: el órgano que tiene la competencia para aplicar la normativa vigente en materia de salud pública, en función de la cual puede limitar derechos individuales o colectivos en beneficio de los derechos de la comunidad.
+d) Evaluación del impacto en la salud: la combinación de procedimientos, métodos y herramientas con los que puede valorarse una política, un programa o un proyecto con relación a sus efectos potenciales sobre la salud de la población y de sus subgrupos.
+e) Evaluación del riesgo: el proceso con fundamento científico formado por las cuatro etapas siguientes: la identificación del factor de peligro, la caracterización del factor de peligro, la determinación de la exposición y la caracterización del riesgo.
+f) Comunicación del riesgo: el intercambio interactivo, a lo largo del proceso de evaluación y gestión del riesgo, de información y de opiniones relacionadas con los peligros y riesgos, entre las personas, físicas o jurídicas, encargadas de la evaluación y las encargadas de la gestión, los consumidores, los representantes de la industria, la comunidad académica, las corporaciones profesionales y las demás partes interesadas. La comunicación comprende la explicación de los resultados de la evaluación del riesgo y de los fundamentos de las decisiones tomadas en el marco de la gestión del riesgo.
+g) Control sanitario: el conjunto de actuaciones de las administraciones sanitarias, en cuanto a la gestión del riesgo, que tienen la finalidad de comprobar la adecuación de los seres vivos, los alimentos, el agua, el medio, los productos, las actividades y los servicios objeto de la presente ley a las normas destinadas a prevenir los riesgos para la salud de la población.
+h) Gestión del riesgo: el conjunto de actuaciones destinadas a evitar o minimizar un riesgo para la salud. Este proceso consiste en sopesar las alternativas, teniendo en cuenta la evaluación del riesgo y demás factores pertinentes, y comprende, si es preciso, la selección y aplicación de las medidas de prevención y control más adecuadas, además de las reglamentarias.
+i) Prevención de la enfermedad y factores de riesgo asociados: el conjunto de actuaciones, prestaciones y servicios destinados a reducir la incidencia de enfermedades específicas y de sus factores de riesgo mediante acciones individuales y colectivas de vacunación, inmunización pasiva, consejo, cribado y tratamiento precoz.
+j) Principio de precaución: el principio que habilita la Administración sanitaria a adoptar medidas provisionales de gestión del riesgo para asegurar la protección de la salud y la prevención de la enfermedad cuando, después de haber evaluado la información disponible, se prevea la posibilidad de que se produzcan efectos nocivos para la salud humana, animal o vegetal o daños al medio ambiente por alguna causa que no permita determinar el riesgo con certeza, aunque haya incertidumbre científica, mientras no se tenga información adicional que permita una evaluación del riesgo más exhaustiva.
+k) Promoción de la salud: el conjunto de actuaciones, prestaciones y servicios destinados a fomentar la salud individual y colectiva y a impulsar la adopción de estilos de vida saludables mediante las intervenciones adecuadas en materia de información, comunicación y educación sanitarias.
+l) Protección de la salud: el conjunto de actuaciones, prestaciones y servicios destinados a garantizar la inocuidad y salubridad de los productos alimentarios y a preservar la salud de la población ante los agentes físicos, químicos y biológicos presentes en el medio.
+m) Riesgo: la probabilidad de un efecto nocivo para la salud y de la gravedad de este efecto a consecuencia de un peligro.
+n) Salud comunitaria: el conjunto de actuaciones, prestaciones y servicios destinados a mejorar la situación de salud de la comunidad en sus dimensiones físicas, psicológicas y sociales, que actúan mediante la capacidad colectiva de adaptación positiva a los cambios del entorno. La salud comunitaria tiene en cuenta tanto los elementos tangibles y no tangibles de la comunidad como sus sistemas de apoyo, las normas, los aspectos culturales, las instituciones, las políticas y las creencias.
+o) Salud laboral: el conjunto de actuaciones, prestaciones y servicios de salud o sanitarios destinados a vigilar, promocionar y proteger la salud individual y colectiva de los trabajadores.
+p) Salud pública: el conjunto organizado de actuaciones de los poderes públicos y del conjunto de la sociedad mediante la movilización de recursos humanos y materiales para proteger y promover la salud de las personas, en el ámbito individual y colectivo, prevenir la enfermedad y cuidar de la vigilancia de la salud.
+q) Trazabilidad: el procedimiento preestablecido que permite reconstruir el origen de los componentes de un producto o de un lote de productos, la historia de los procesos de producción aplicados, la distribución y la localización.
+r) Vigilancia de la salud pública: el conjunto de actuaciones destinadas a recoger, analizar, interpretar y difundir los datos sanitarios relativos a los seres vivos, alimentos, agua, medio, productos, actividades y servicios, así como el estado de salud de las personas consideradas colectivamente, con el objetivo de controlar las enfermedades y los problemas de salud.
+
+### Artículo 3
+
+Artículo 3. Principios informadores.
+La ordenación y ejecución de las actuaciones, las prestaciones y los servicios en materia de salud pública deben ajustarse a los siguientes principios informadores:
+a) La garantía y el sostenimiento de las prestaciones de salud pública como un derecho individual y social.
+b) La concepción integral, integrada e intersectorial de las actuaciones, las prestaciones y los servicios de salud pública en el marco de los correspondientes instrumentos de planificación.
+c) La racionalización, eficacia, efectividad, eficiencia y sostenibilidad en la organización, el fomento y la mejora de la calidad de las actuaciones, las prestaciones y los servicios de salud pública.
+d) La descentralización y desconcentración de la gestión de las actuaciones, las prestaciones y los servicios de salud pública.
+e) La equidad y superación de las desigualdades territoriales, sociales, culturales y de género.
+f) La evidencia científica y el análisis del riesgo como base de las políticas de salud pública.
+g) La evidencia científica, precaución y transparencia como base de la gestión del riesgo.
+h) La participación comunitaria en el asesoramiento, la consulta, la supervisión y el seguimiento de las políticas de salud pública.
+i) La coordinación y cooperación interdepartamentales e interadministrativas en la ejecución de las actuaciones, las prestaciones y los servicios de salud pública.
+j) La información y la comunicación ágil y transparente a los ciudadanos, sin perjuicio de la obligación de la autoridad sanitaria de preservar la confidencialidad de los datos personales, en los términos establecidos por la normativa de protección de datos de carácter personal y la normativa reguladora de la autonomía del paciente y de los derechos y obligaciones en materia de información y documentación clínica.
+k) El respeto del derecho a la educación en materia de salud pública.
+l) El fomento de la responsabilidad individual y colectiva y el autocontrol en materia de salud pública.
+m) El fomento de la formación y competencia de los profesionales, de la investigación y de la evaluación en el ámbito de la salud pública.
+n) El principio de precaución ante la ausencia de evidencia científica sólida.
+o) El ejercicio de la autoridad sanitaria para la protección de la salud pública.
+
+### Artículo 4
+
+Artículo 4. El Plan interdepartamental de salud pública.
+1. La salud pública, para desarrollar todas sus actividades de forma efectiva, necesita herramientas de gobierno que permitan garantizar la coordinación de las acciones que inciden en la salud de la población y que son competencia de los diversos departamentos en que se organiza la Generalidad, sin perjuicio de las competencias que corresponden a la autoridad sanitaria.
+2. El Plan interdepartamental de salud pública, coordinado con el Plan de salud de Cataluña, en el que se integra, es la herramienta de gobierno y el marco indicativo de las acciones de salud pública. Sus propuestas vinculan al Gobierno. Los departamentos que tienen competencias en áreas que inciden en la salud de la población deben desarrollar estas propuestas.
+3. El Gobierno aprueba el Plan interdepartamental de salud pública a propuesta del departamento competente en materia de salud. El Gobierno debe presentar este plan al Parlamento. La vigencia del Plan interdepartamental de salud pública es la misma que la del Plan de salud de Cataluña.
+4. La elaboración del Plan interdepartamental de salud pública corresponde a los departamentos que ejercen competencias en áreas que inciden en la salud de la población. Asume su liderazgo el departamento competente en materia de salud mediante la secretaría sectorial de salud pública y el órgano competente en materia de planificación sanitaria, que deben actuar de forma coordinada con el Servicio Catalán de la Salud.
+5. El procedimiento de elaboración del Plan interdepartamental de salud pública debe garantizar la participación de las administraciones, las instituciones, los agentes sociales y económicos, las sociedades científicas, las corporaciones profesionales y la sociedad civil en general.
+6. El Plan interdepartamental de salud pública debe desarrollar iniciativas destinadas a favorecer la promoción específica de la salud de las mujeres, de acuerdo con los planes de políticas para las mujeres aprobados por el Gobierno.
+Téngase en cuenta que las referencias hechas en este precepto al Plan interdepartamental de salud pública se entienden hechas al Plan interdepartamental e intersectorial de salud pública, según se establece en la disposición adicional novena de la Ley 5/2019, de 31 de julio. Ref. DOGC-f-2019-90528#da-9
+
+### Artículo 5
+
+Artículo 5. Autoridad sanitaria.
+1. A los efectos de la presente ley, tienen la condición de autoridad sanitaria, en el marco de sus respectivas funciones, los siguientes órganos:
+a) El consejero o consejera del departamento competente en materia de salud.
+b) La persona titular de la secretaría sectorial.
+c) El director o directora de la Agencia de Salud Pública de Cataluña.
+d) El presidente o presidenta de la Agencia de Salud Pública y Medio Ambiente de Barcelona.
+e) El gerente o la gerente de la Agencia de Salud Pública y Medio Ambiente de Barcelona.
+f) El consejero o consejera competente en materia de salud del Consejo General de Arán.
+g) Los presidentes de los consejos comarcales.
+h) Los alcaldes.
+i) Cualquier otro órgano administrativo en que se hayan desconcentrado o delegado las funciones de los órganos a que se refiere el presente apartado.
+2. La autoridad sanitaria, en el ejercicio de sus funciones, puede solicitar el apoyo, auxilio y colaboración de otros funcionarios públicos y, si procede, de los cuerpos y fuerzas de seguridad y de otros agentes de la autoridad que tengan encomendadas funciones de seguridad.
+
+## TÍTULO II
+
+De las políticas en materia de salud pública
+
+### Artículo 6
+
+Artículo 6. Las prestaciones en materia de salud pública.
+1. Son prestaciones de salud pública el conjunto de iniciativas organizadas por las administraciones públicas para preservar, proteger y promover la salud de las personas, en el ámbito individual y colectivo, prevenir la enfermedad y cuidar de la vigilancia de la salud pública.
+2. Las administraciones públicas competentes en materia de salud pública deben proporcionar las prestaciones en esta materia mediante cualquiera de las formas de gestión admitidas en derecho y la cartera de servicios a que se refiere el artículo 7. Las administraciones públicas deben llevar a cabo las actuaciones en materia de salud pública que sean precisas cuando exista una evidencia científica firme que las justifique.
+3. Son prestaciones en materia de salud pública las siguientes:
+a) La vigilancia de la salud pública, incluida la monitorización de la salud y de sus principales determinantes, para tener actualizado el análisis de la situación de la salud de la población con un nivel mínimo de desagregación territorial, así como la preparación y la respuesta organizada para afrontar las emergencias de salud pública, incluidos los brotes, epidemias y pandemias.
+b) La investigación de las causas o los determinantes de los problemas de salud que afectan a la población.
+c) La prevención y el control de las enfermedades infecciosas transmisibles y de los brotes epidémicos y el desarrollo de los programas de vacunaciones sistemáticas.
+d) La promoción de la salud y la prevención de la enfermedad y de sus factores de riesgo, con una atención preferente por las que se desarrollan en el ámbito de la salud comunitaria.
+e) La promoción y protección de la salud y la prevención de los factores de riesgo derivados del aire y el agua y de los aspectos ambientales que puedan repercutir en la salud de las personas.
+f) La evaluación del impacto en la salud de las intervenciones sobre los determinantes de la salud de la población.
+g) La evaluación y gestión del riesgo para la salud derivado de las aguas de consumo humano, incluidas las acciones de vigilancia y control sanitario pertinentes.
+h) La protección de la salud y seguridad alimentarias y la prevención de los factores de riesgo en este ámbito, especialmente la gestión del riesgo para la salud derivado de los productos alimentarios, incluidas las acciones de vigilancia y control sanitario pertinentes.
+i) La protección de la salud pública relacionada con las zoonosis de los animales domésticos, los animales salvajes urbanos y los animales de la fauna salvaje y con el control de las plagas.
+j) La promoción y protección de la salud y la prevención de los factores de riesgo para la salud en los establecimientos públicos y en los lugares de convivencia humana.
+k) La promoción y protección de la salud y la prevención de los factores de riesgo para la salud derivados del ejercicio de prácticas y actividades sobre el cuerpo que puedan tener consecuencias negativas para la salud realizadas en establecimientos de atención personal de carácter no terapéutico, entre los que se incluyen, a título enunciativo y no limitador, los establecimientos donde se llevan a cabo actividades de tatuaje, piercing, micropigmentación y bronceado artificial.
+l) La promoción y protección de la salud y la prevención de los factores de riesgo para la salud derivados del ejercicio de terapias naturales sobre el cuerpo realizadas en centros y establecimientos no sanitarios, incluidas las acciones de intervención administrativa y control sanitario.
+m) La promoción, protección y mejora de la salud laboral en las funciones y actuaciones adscritas normativamente al departamento competente en materia de salud.
+n) La promoción de los factores de protección y la protección y prevención de los factores de riesgo ante las sustancias que pueden generar abuso, dependencia y otras adicciones, especialmente de los que inciden más en la salud de la población.
+o) La promoción de la salud mental de la población y la prevención de los factores de riesgo en este ámbito.
+p) La promoción y protección de la salud afectiva, sexual y reproductiva, y la prevención de los factores de riesgo en este ámbito.
+q) La orientación y planificación familiar, así como la promoción y protección de la salud maternoinfantil y la prevención de los factores de riesgo en este ámbito.
+r) La promoción y protección de la salud infantil y de los adolescentes y la prevención de los factores de riesgo en este ámbito.
+s) La promoción de la actividad física y la alimentación saludable, así como la prevención de los factores de riesgo en este ámbito.
+t) La promoción de la salud bucodental y la prevención de los factores de riesgo en este ámbito.
+u) La prevención y protección de la salud de la población ante cualquier factor de riesgo, especialmente la prevención de las discapacidades, tanto congénitas como adquiridas, y las derivadas de las enfermedades poco prevalecientes.
+v) La promoción y protección de la población y de la salud ambiental relacionada con la gestión intracentro de los residuos sanitarios.
+w) La protección de la salud de la población ante los riesgos de la contaminación química, biológica y radiológica y la respuesta ante las alertas y emergencias de salud pública.
+x) La prestación de los servicios de análisis de laboratorio en materia de salud pública.
+y) La policía sanitaria mortuoria.
+z) El control sanitario de la publicidad, en el marco de la normativa vigente.
+a') La prevención del cáncer y demás enfermedades prevalecientes.
+b') La promoción de actividades tendentes a la prevención de accidentes domésticos y de tránsito y de lesiones resultantes de violencias.
+c') La promoción y protección de la salud y la prevención de los factores de riesgo para la salud derivados de las intervenciones del propio sistema sanitario, tanto de las actividades de prevención como de las curativas, incluidas las infecciones nosocomiales.
+
+### Artículo 7
+
+Artículo 7. Cartera de servicios de salud pública.
+1. La Cartera de servicios de salud pública es el conjunto de actividades y servicios, tecnologías y procedimientos mediante los que se hacen efectivas las prestaciones de salud pública a que tienen derecho los ciudadanos. La Cartera de servicios de salud pública debe ser dinámica y ágil para dar respuesta a las necesidades y los problemas en salud pública de los ciudadanos y de los colectivos.
+2. La Administración pública catalana, mediante la Cartera de servicios de salud pública, debe establecer las prioridades en materia de salud pública, basadas en criterios de equidad y homogeneidad, con el objetivo de alcanzar la optimización de la planificación de las políticas de salud.
+3. El Gobierno, a propuesta del consejero o consejera del departamento competente en materia de salud, debe aprobar, mediante un decreto, la Cartera de servicios de salud pública, que debe incluir, como mínimo, la Cartera de servicios de salud pública del Sistema Nacional de Salud, del Estado.
+4. La Cartera de servicios de salud pública debe ajustarse a las necesidades de salud de las poblaciones de cada territorio, si procede, y debe especificar las actuaciones y los servicios que la Agencia de Salud Pública de Cataluña puede prestar a los departamentos de la Generalidad y a los entes locales para que puedan prestar los servicios mínimos de su competencia.
+5. La Cartera de servicios de salud pública debe definir de forma detallada los procedimientos mediante los cuales debe desarrollarse el catálogo de prestaciones.
+
+### Artículo 8
+
+Artículo 8. Sistema de Formación e Investigación en Salud Pública.
+1. El Sistema de Formación e Investigación en Salud Pública, entendido como el conjunto de actuaciones organizadas y programadas con relación a la formación de los profesionales de la salud pública, de investigación y de evaluación de la investigación en salud pública, es una parte fundamental del sistema sanitario catalán y es coordinado por la Agencia de Salud Pública de Cataluña en colaboración con los demás organismos competentes.
+2. Las funciones del Sistema de Formación e Investigación en Salud Pública, sin perjuicio de las competencias del departamento o departamentos competentes en materia de universidades y de investigación, son las siguientes:
+a) Proponer a las autoridades sanitarias y académicas y a las corporaciones profesionales, mediante los órganos competentes, la fijación de criterios para acreditar los programas de formación y de formación continua en salud pública.
+b) Participar, con el departamento competente en materia de universidades, con las universidades catalanas, otras universidades, corporaciones profesionales y otros organismos, en la elaboración de programas de formación continua de los profesionales de la salud pública y promover el diseño de programas de formación continua específicos y de másters.
+c) Proponer, actuando en colaboración con el departamento competente en materia de universidades, a las autoridades sanitarias y académicas, mediante los órganos competentes, criterios para la acreditación, acreditación avanzada y reacreditación periódica de los profesionales de la salud pública, así como la autorización de las organizaciones proveedoras de servicios de salud pública.
+d) Participar en la revisión de las competencias profesionales en salud pública.
+e) Promover, actuando en colaboración con el departamento competente en materia de universidades y con las corporaciones profesionales, la carrera profesional en salud pública, teniendo en cuenta la formación, investigación y actividad de los profesionales.
+f) Informar, mediante los órganos competentes, sobre la propuesta relativa al número de plazas de profesionales en formación en las especialidades vinculadas a la salud pública, cursada por las distintas unidades docentes de estas especialidades acreditadas en Cataluña.
+g) Participar en la evaluación de las unidades docentes de las especialidades vinculadas a la salud pública acreditadas en Cataluña.
+h) Identificar las áreas prioritarias para la investigación en salud pública, atendiendo a los problemas y necesidades de salud detectados de acuerdo con el Plan de investigación e innovación, con la participación del Consejo Interdepartamental de Investigación e Innovación Tecnológica.
+i) Promover la formación en investigación entre los profesionales de la salud pública.
+j) Promover, en colaboración con el departamento o departamentos competentes en materia de universidades y de investigación, grupos de investigación entre los centros y entes que proveen servicios y realizan actividades de salud pública.
+k) Promover la formación continua de todos los profesionales de la salud pública y la investigación entre el personal que tenga la competencia adecuada para realizarla.
+l) Promover, de acuerdo con el artículo 193.2 del Estatuto de autonomía y en el marco de las competencias de la Generalidad, acciones con proyección exterior para buscar oportunidades de colaboración en proyectos de investigación en salud pública, influir en las decisiones de los organismos internacionales y obtener financiación para proyectos de investigación.
+m) Fomentar el partenariado de los equipos de investigación nacionales en salud pública, entre ellos y con grupos de investigación consolidados de prestigio internacional.
+n) Convocar ayudas para la investigación y establecer mecanismos de colaboración con los demás agentes financiadores de investigación públicos y privados para promover la investigación en salud pública.
+o) Fomentar la publicación de los trabajos de investigación y la difusión de los resultados, especialmente en colaboración con los sectores económicos y sociales interesados.
+p) Estimular la sensibilidad por la investigación en salud pública entre los sectores económicos, académicos y sociales.
+q) Evaluar periódicamente los resultados de la investigación en salud pública que se realiza en Cataluña.
+3. Las administraciones públicas y los organismos competentes en materia de formación e investigación, las universidades catalanas y los centros, servicios y establecimientos que realizan tareas de formación e investigación en salud pública deben cooperar y participar, en el ámbito de sus respectivas funciones, en el Sistema de Formación e Investigación en Salud Pública. También deben hacerlo las corporaciones profesionales pertinentes en cuanto a la formación continua que ofrezcan.
+
+### Artículo 9
+
+Artículo 9. Sistema de Información de Salud Pública.
+1. El Sistema de Información de Salud Pública, entendido como el conjunto de actuaciones organizadas y programadas con relación a la información sanitaria, la vigilancia y la acción en salud pública, es coordinado por la Agencia de Salud Pública de Cataluña, es una parte fundamental del sistema sanitario catalán y se integra en el sistema de información del departamento competente en materia de salud.
+2. Las funciones del Sistema de Información de Salud Pública son las siguientes:
+a) Valorar las necesidades de salud de la comunidad a partir de la identificación de los problemas de salud que afectan a la población, de la detección de sus riesgos y del análisis de los determinantes de la salud y de sus efectos.
+b) Hacer el análisis epidemiológico continuo del estado de salud de los ciudadanos y detectar los cambios que se produzcan en la tendencia y distribución de los problemas de salud.
+c) Establecer un mecanismo eficaz de detección, alerta precoz y respuesta rápida ante los peligros y riesgos potenciales para la salud.
+d) Hacer o proponer estudios epidemiológicos específicos para conocer mejor la situación de salud de la población, así como otros estudios en salud pública.
+e) Aportar la información necesaria para facilitar la planificación, gestión, evaluación e investigación sanitarias.
+f) Difundir la información epidemiológica por todos los niveles del sistema sanitario catalán y entre la población.
+g) Promover y controlar el cumplimiento de la obligación de notificar la sospecha de enfermedades y brotes epidémicos y problemas de salud en los términos y condiciones que establece el ordenamiento vigente.
+h) Con carácter subsidiario, colaborar en la elaboración de las estadísticas que son del interés de la Generalidad.
+i) Desarrollar y utilizar mecanismos de análisis, asesoramiento, notificación, información, evaluación y consulta sobre cuestiones relacionadas con la salud en el ámbito comunitario, especialmente en cuanto a las actividades de promoción y protección de la salud y de prevención de la enfermedad.
+j) Desarrollar y mantener redes telemáticas o de otra naturaleza para intercambiar información sobre las mejores prácticas en materia de salud pública, de acuerdo con la normativa vigente.
+k) Establecer mecanismos para informar y consultar a las organizaciones de pacientes, los profesionales sanitarios, las organizaciones no gubernamentales implicadas y los demás agentes interesados en las cuestiones relacionadas con la salud comunitaria.
+3. El Sistema de Información de Salud Pública debe proporcionar datos desagregados, como mínimo, por municipios, siempre y cuando la legislación en materia de protección de datos de carácter personal lo permita.
+
+### Artículo 10
+
+Artículo 10. Comunicación y tratamiento de la información.
+1. El Sistema de Información de Salud Pública debe establecer mecanismos de información, publicidad y divulgación comprensibles, adecuados, accesibles, coherentes, coordinados, permanentes y actualizados sobre las cuestiones más relevantes en materia de salud pública con la finalidad de informar a la ciudadanía, las administraciones y los profesionales.
+2. Todos los centros, servicios y establecimientos sanitarios, tanto del sector público como del privado, así como los profesionales sanitarios en ejercicio, deben adaptar los sistemas de información y los registros para configurar el Sistema de Información de Salud Pública.
+3. Todas las administraciones públicas y los organismos competentes en materia de salud pública, así como todos los centros, servicios y establecimientos sanitarios y los profesionales sanitarios, deben participar, en el ámbito de sus funciones respectivas, en el Sistema de Formación e Investigación en Salud Pública y en el Sistema de Información de Salud Pública. A tal fin, deben comunicar a estos sistemas los datos pertinentes mediante sus órganos responsables.
+4. Los datos de carácter personal que las personas físicas y jurídicas a que se refiere el apartado 3 recojan en el ejercicio de sus funciones pueden cederse, de acuerdo con lo establecido por el artículo 11.2.a de la Ley orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal, para que la Agencia de Salud Pública de Cataluña los trate para desarrollar el Sistema de Información de Salud Pública y el Sistema de Formación e Investigación en Salud Pública, así como con finalidades históricas, estadísticas o científicas en el ámbito de la salud pública. Sin embargo, la cesión de datos de historias clínicas para que la Agencia de Salud Pública de Cataluña los trate para desarrollar las funciones del Sistema de Información de Salud Pública y el Sistema de Formación e Investigación en Salud Pública requiere la disociación previa de los datos que permitan identificar la persona titular, salvo que esta haya dado previamente su consentimiento a la cesión, de acuerdo con lo establecido por la normativa reguladora de la autonomía del paciente y de los derechos y obligaciones en materia de información y documentación clínicas.
+
+### Artículo 11
+
+Artículo 11. Seguridad de la información.
+En todos los niveles del Sistema de Información de Salud Pública deben adoptarse las medidas de seguridad aplicables al tratamiento de los datos de carácter personal y a los ficheros y tratamientos automatizados, de acuerdo con lo establecido por la normativa de la protección de datos de carácter personal y, si procede, la normativa reguladora de la autonomía del paciente y de los derechos y obligaciones en materia de información y documentación clínicas. Las personas que tienen acceso a los mismos, en virtud de sus competencias, deben guardar el secreto profesional.
+
+## TÍTULO III
+
+De la organización de los servicios de salud pública
+
+## CAPÍTULO I
+
+Administración de la Generalidad
+
+### Artículo 12
+
+Artículo 12. Competencias del Gobierno.
+1. Con relación a la Agencia de Salud Pública de Cataluña, corresponden al Gobierno, a propuesta de los departamentos competentes según la materia de que se trate, las siguientes competencias:
+a) La aprobación, mediante un decreto formulado a propuesta del consejero o consejera del departamento competente en materia de salud, de los estatutos de la Agencia.
+b) La aprobación de la Cartera de servicios de salud pública.
+c) La aprobación del proyecto de presupuesto de la Agencia.
+d) La aprobación de los acuerdos de nombramiento y cese del director o directora de la Agencia.
+2. Corresponde al Gobierno la aprobación del Plan interdepartamental e intersectorial de salud pública.
+Se añade por la disposición final 3 de la Ley 5/2019, de 31 de julio. Ref. DOGC-f-2019-90528#df-3
+ Se deroga por el art. 163.5.a) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 13
+
+Artículo 13. Competencias del departamento competente en materia de salud.
+1. Corresponden al departamento competente en materia de salud las siguientes competencias:
+a) La determinación, en el marco de lo establecido por la presente ley, de los criterios, directrices y prioridades en salud pública que deben orientar las políticas preventivas y asistenciales en materia de salud, así como la planificación estratégica y operativa, la programación, la evaluación y el control en los ámbitos sanitario, sociosanitario y de salud mental.
+b) La cooperación y coordinación entre todas las administraciones públicas competentes en materia de salud pública.
+c) La tutela de la cooperación y coordinación entre los diferentes departamentos de la Generalidad implicados en las políticas de salud pública, mediante la secretaría sectorial de salud pública.
+d) La coordinación entre las actuaciones en materia de salud pública y las actividades asistenciales que se llevan a cabo en los centros sanitarios de atención primaria y de atención especializada para mejorar el nivel de salud de los ciudadanos.
+2. Con relación a la Agencia de Salud Pública de Cataluña, corresponden al departamento competente en materia de salud las siguientes competencias:
+a) La determinación de los criterios, directrices y prioridades de las políticas de salud pública.
+b) La vigilancia y tutela de la Agencia.
+c) La coordinación de los programas de investigación y de los recursos públicos, a fin de alcanzar su máxima eficacia.
+d) La presentación al Gobierno de la propuesta de Cartera de servicios de salud pública.
+e) La presentación al Gobierno del proyecto de presupuesto de la Agencia.
+f) La aprobación, modificación y revisión de los precios públicos relativos a la prestación de los servicios.
+g) El nombramiento y cese de los miembros del Consejo Rector.
+h) La presentación al Gobierno de las propuestas de nombramiento y cese del director o directora.
+i) El nombramiento y cese de los directores de los servicios regionales.
+j) El nombramiento y cese de los miembros del Consejo de Participación.
+k) El nombramiento y cese de los miembros del Consejo Asesor de Salud Pública.
+l) El nombramiento y cese de los miembros de la Comisión Directora de la Agencia Catalana de Seguridad Alimentaria.
+m) El nombramiento y cese de los miembros del Consejo de Salud Laboral.
+Se modifica el apartado 2 por la disposición final 4 de la Ley 5/2019, de 31 de julio. Ref. DOGC-f-2019-90528#df-4
+ Se deroga el apartado 2 excepto las letras j) a m) por el art. 163.5.a) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga el apartado 2 excepto las letras j) a m) por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 14
+
+Artículo 14. Secretaría sectorial.
+El departamento competente en materia de salud debe crear una secretaría sectorial para dar el máximo impulso a las políticas y estrategias de salud pública, para garantizar las funciones de autoridad sanitaria y de órgano rector en materia de salud pública, y para velar por la eficacia, coordinación, evaluación y comunicación interdepartamentales, intersectoriales e internas de las actuaciones en esta materia.
+Se mantiene la vigencia con rango reglamentario por la disposición final 1.1.e) de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+## CAPÍTULO II
+
+La Agencia de Salud Pública de Cataluña
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+## Sección Primera
+
+Sección Primera. Disposiciones generales
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 15
+
+Artículo 15. Creación y naturaleza.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 16
+
+Artículo 16. Objeto.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 17
+
+Artículo 17. Funciones.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 18
+
+Artículo 18. Formas de gestión.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+## Sección Segunda
+
+Sección Segunda. Estructura orgánica
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 19
+
+Artículo 19. Órganos de dirección, participación y asesoramiento.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+ Se modifica el apartado 2 por el art. 33 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 20
+
+Artículo 20. El Consejo de Administración.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 21
+
+Artículo 21. Funciones del Consejo de Administración.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 22
+
+Artículo 22. Funciones del presidente o presidenta del Consejo de Administración.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 23
+
+Artículo 23. El director o directora.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 24
+
+Artículo 24. Funciones del director o directora.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 25
+
+Artículo 25. Consejo Asesor de Salud Pública.
+1. Se crea el Consejo Asesor de Salud Pública como órgano consultor sobre los aspectos técnicos y científicos de la salud pública.
+2. El Consejo Asesor de Salud Pública está formado por personas expertas y de reconocida solvencia en el ámbito de la salud pública, nombradas por el consejero o consejera del departamento competente en materia de salud, a propuesta del Consejo de Administración de la Agencia de Salud Pública de Cataluña, para un periodo determinado.
+3. Corresponden al Consejo Asesor de Salud Pública las siguientes funciones:
+a) Asesorar los órganos de gobierno de la Agencia de Salud Pública de Cataluña en las cuestiones relacionadas con la salud pública.
+b) Emitir dictámenes sobre aspectos relacionados con la salud pública que le encomiende el Consejo de Administración.
+4. Los miembros del Consejo Asesor de Salud Pública deben ejercer sus funciones con imparcialidad e independencia y deben guardar reserva sobre las deliberaciones y decisiones que se adopten.
+5. Los estatutos de la Agencia de Salud Pública de Cataluña deben determinar el sistema de designación y los requisitos que deben cumplir los miembros del Consejo Asesor de Salud Pública, su organización y sus normas de funcionamiento.
+Se mantiene la vigencia con rango reglamentario por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se mantiene la vigencia con rango reglamentario por la disposición adicional 1.2 del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 26
+
+Artículo 26. Los órganos de participación.
+1. El Consejo de Participación de la Agencia de Salud Pública de Cataluña y los órganos de participación territorial que se desarrollen de acuerdo con el artículo 19.2 son órganos de participación activa que ejercen funciones de participación ciudadana, asesoramiento, consulta y seguimiento sobre cuestiones relacionadas con la salud pública y la salud en general a fin de cooperar en la consecución de los objetivos que les son propios.
+2. El Consejo de Participación es formado por los siguientes miembros:
+a) El vicepresidente primero o vicepresidenta primera del Consejo de Administración, que lo preside.
+b) El director o directora de la Agencia de Salud Pública de Cataluña.
+c) Un número de vocales designados por el consejero o consejera del departamento competente en materia de salud, a propuesta del Consejo de Administración, entre representantes del ámbito académico y educativo, de las organizaciones de consumidores y usuarios, del movimiento vecinal, de las entidades de salud pública y de la seguridad alimentaria, de las corporaciones profesionales, de las sociedades científicas, de las organizaciones empresariales, sindicales y sociales más representativas en cualquier ámbito de actividad relacionado con la salud pública, de los entes locales y de la Generalidad.
+3. Los estatutos de la Agencia de Salud Pública de Cataluña deben determinar la composición, el sistema de designación de los miembros, la organización, las funciones y las normas de funcionamiento del Consejo de Participación.
+Se mantiene la vigencia con rango reglamentario por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se mantiene la vigencia con rango reglamentario por la disposición adicional 1.2 del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+ Se modifica el apartado 1 por el art. 34 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+## Sección Tercera
+
+Sección Tercera. Organización territorial
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 27
+
+Artículo 27. Servicios regionales.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 28
+
+Artículo 28. Funciones y organización de los servicios regionales.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 29
+
+Artículo 29. Los directores de los servicios regionales.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+ Se modifica el apartado 3 por el art. 35 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 30
+
+Artículo 30. Los sectores y los equipos de salud pública.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+## Sección Cuarta
+
+Sección Cuarta. Régimen jurídico, recursos humanos y régimen económico, patrimonial y contable
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 31
+
+Artículo 31. Régimen jurídico.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 32
+
+Artículo 32. Régimen de impugnación de los actos.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+ Se modifica el apartado 4 por el art. 36 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 33
+
+Artículo 33. Recursos humanos.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+ Se suprime el apartado 5 por el art. 65 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737.
+
+### Artículo 34
+
+Artículo 34. Régimen patrimonial.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 35
+
+Artículo 35. Recursos económicos.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 36
+
+Artículo 36. Contrato programa.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 37
+
+Artículo 37. Presupuesto.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 38
+
+Artículo 38. Contabilidad y control financiero.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 39
+
+Artículo 39. Responsabilidad.
+(Derogado)
+Se deroga por el art. 163.5.b) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. (DOGC núm. 6545, de 22 de enero de 2014)
+
+## CAPÍTULO III
+
+La seguridad alimentaria
+
+### Artículo 40
+
+Artículo 40. La Agencia Catalana de Seguridad Alimentaria.
+1. Se crea la Agencia Catalana de Seguridad Alimentaria (ACSA), que se configura como un área especializada de la Agencia de Salud Pública de Cataluña que actúa con plena independencia técnica, bajo las directrices de la Comisión Directora de Seguridad Alimentaria y con la estructura y los recursos humanos y económicos específicos para el cumplimiento de sus objetivos.
+2. La Agencia Catalana de Seguridad Alimentaria ejerce las competencias de evaluación y comunicación de los beneficios y riesgos para la salud de determinados componentes e ingredientes de los alimentos y de asesoramiento sobre estos beneficios y riesgos, junto con los organismos competentes en materia de seguridad alimentaria de ámbito estatal y europeo, así como de apoyo a la coordinación y planificación de la gestión del riesgo en materia de seguridad alimentaria.
+Se mantiene la vigencia con rango reglamentario por el art. 163.5.c) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se mantiene la vigencia con rango reglamentario por la disposición adicional 1.2 del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 41
+
+Artículo 41. Objetivos de la Agencia Catalana de Seguridad Alimentaria.
+Los objetivos específicos de la Agencia Catalana de Seguridad Alimentaria son los siguientes:
+a) Actuar como centro referente en Cataluña en la evaluación, la comunicación y el asesoramiento de los beneficios y riesgos para la salud relacionados con los alimentos en el ámbito de sus funciones y en colaboración y coordinación, si procede, con los organismos competentes en materia de seguridad alimentaria de ámbito estatal y europeo.
+b) Prestar apoyo técnico y científico a las actuaciones de los departamentos competentes en materia de salud, agricultura, alimentación, ganadería, pesca y consumo, de acuerdo con la legislación aplicable.
+c) Colaborar con las administraciones públicas, con los distintos sectores que inciden, directa o indirectamente, en la seguridad alimentaria y con las organizaciones de consumidores y usuarios.
+Se mantiene la vigencia con rango reglamentario por el art. 163.5.c) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se mantiene la vigencia con rango reglamentario por la disposición adicional 1.2 del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 42
+
+Artículo 42. Funciones de la Agencia Catalana de Seguridad Alimentaria.
+Corresponden a la Agencia Catalana de Seguridad Alimentaria las siguientes funciones:
+a) Apoyar, para el cumplimiento de sus objetivos, a los organismos ejecutivos de inspección y control especializados en las distintas fases de la cadena alimentaria, dependientes de diferentes departamentos de la Administración de la Generalidad y de los entes locales, de acuerdo con la Ley 15/1990, el Decreto legislativo 2/2003, las disposiciones legales que los modifiquen o deroguen y la legislación específica.
+b) Elaborar y promover estudios científicos de evaluación de la exposición de la población a los riesgos y beneficios para la salud ocasionados por los alimentos, que tengan en cuenta la totalidad de la cadena alimentaria.
+c) Elaborar la propuesta de Plan de seguridad alimentaria y elevarlo al Consejo de Administración de la Agencia de Salud Pública de Cataluña para que, si procede, la apruebe y la eleve al Gobierno, a propuesta de los departamentos competentes en materia de salud, agricultura, alimentación, ganadería, pesca, consumo y medio ambiente.
+d) Elaborar y aprobar la memoria anual sobre la situación de la seguridad alimentaria en Cataluña.
+e) Apoyar, en el cumplimiento de las tareas asignadas por el Plan de seguridad alimentaria, a los diferentes órganos, tanto de la Administración de la Generalidad como de los entes locales, sujetándose, en este último caso, a lo establecido por la legislación de régimen local.
+f) Evaluar el grado de consecución de los objetivos del Plan de seguridad alimentaria.
+g) Gestionar la política de comunicación de los beneficios y riesgos en materia de seguridad alimentaria, sin perjuicio de las competencias que correspondan a los departamentos.
+h) Elaborar las propuestas de disposiciones de carácter general destinadas a mejorar, actualizar, armonizar y hacer coherente la normativa en materia de seguridad alimentaria que se aplica en las distintas fases de la cadena alimentaria junto con los departamentos competentes en materia de salud, agricultura, alimentación, ganadería, pesca y, si procede, consumo y medio ambiente.
+i) Asesorar a las administraciones locales y prestarles apoyo técnico para el desarrollo de sus competencias en materia de seguridad alimentaria.
+j) Identificar las necesidades de formación continua que tienen los profesionales relacionados con la seguridad y calidad alimentarias, promover el diseño de programas marco de formación y participar en ellos, con la colaboración de los departamentos competentes en materia de salud, agricultura, alimentación, ganadería, pesca, consumo y medio ambiente.
+k) Establecer mecanismos de información, publicidad y divulgación continuadas, de acuerdo con los principios de colaboración y coordinación con otros órganos competentes en esta materia, con la finalidad de informar a la ciudadanía de las cuestiones más relevantes en materia de seguridad y calidad alimentarias.
+l) Evaluar los riesgos y beneficios de los nuevos alimentos, ingredientes y procesos en el ámbito de la actuación de la Agencia Catalana de Seguridad Alimentaria.
+m) Informar preceptivamente, a petición de los órganos competentes de las administraciones, sobre los proyectos de disposiciones generales relativas al control sanitario de alimentos, la sanidad animal, la sanidad vegetal, la nutrición de los animales, los productos zoosanitarios y fitosanitarios y la contaminación ambiental, si afectan directamente a la seguridad alimentaria.
+Se mantiene la vigencia con rango reglamentario por el art. 163.5.c) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se mantiene la vigencia con rango reglamentario por la disposición adicional 1.2 del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 43
+
+Artículo 43. El Plan de seguridad alimentaria.
+1. El Plan de seguridad alimentaria es el marco de referencia para las acciones públicas en esta materia de la Administración de la Generalidad y de los entes locales. Comprende las líneas directivas y de desarrollo de las actuaciones y los programas que se llevan a cabo para alcanzar las finalidades del Plan.
+2. El procedimiento de elaboración del Plan de seguridad alimentaria debe garantizar la intervención de las administraciones, las instituciones, las sociedades científicas y los profesionales relacionados con la seguridad alimentaria, así como de la sociedad civil. El Gobierno, a propuesta de los departamentos competentes en materia de salud, agricultura, alimentación, ganadería y pesca, aprueba el Plan. El Gobierno debe enviar este plan al Parlamento.
+3. El Plan de seguridad alimentaria tiene la misma vigencia que el Plan de salud de Cataluña.
+4. El Plan de seguridad alimentaria debe incluir:
+a) Los objetivos de seguridad alimentaria en cuanto a los siguientes ámbitos: la inocuidad de los alimentos; la sanidad, la nutrición y el bienestar de los animales; la sanidad vegetal; los productos zoosanitarios y fitosanitarios, y la contaminación ambiental, si afectan directamente a la seguridad alimentaria.
+b) El conjunto de los servicios, programas y actuaciones que deben desarrollarse.
+c) Los mecanismos de evaluación de los objetivos y del seguimiento del Plan.
+
+### Artículo 44
+
+Artículo 44. El director o directora de la Agencia Catalana de Seguridad Alimentaria.
+(Derogado).
+Se deroga por el art. 163.5.c) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se deroga por la disposición derogatoria del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 45
+
+Artículo 45. Comisión Directora de Seguridad Alimentaria.
+1. Se crea la Comisión Directora de Seguridad Alimentaria como órgano directivo para los temas específicos de evaluación y comunicación de los beneficios y riesgos en seguridad alimentaria.
+2. La Comisión Directora de Seguridad Alimentaria es formada por los siguientes miembros:
+a) Tres representantes del departamento competente en materia de salud, uno de los cuales es el presidente o presidenta de la Comisión, nombrado por el Consejo de Administración de la Agencia de Salud Pública de Cataluña.
+b) Tres representantes del departamento competente en materia de agricultura, alimentación, ganadería y pesca, uno de los cuales es el vicepresidente o vicepresidenta de la Comisión.
+c) Dos representantes del departamento competente en materia de medio ambiente.
+d) Dos representantes del departamento competente en materia de consumo.
+e) Un representante o una representante del departamento competente en materia de comercio.
+f) Dos representantes de los entes locales.
+g) Dos representantes de las organizaciones empresariales del sector de la alimentación.
+h) Un representante o una representante de las organizaciones agrarias más representativas.
+i) Un representante o una representante de la Federación de Cooperativas Agrarias de Cataluña.
+j) Un representante o una representante de las asociaciones de consumidores.
+k) Un representante o una representante de las asociaciones relacionadas con la calidad y seguridad alimentarias más representativas.
+3. Corresponden a la Comisión Directora de Seguridad Alimentaria las siguientes funciones:
+a) Emitir un informe sobre la propuesta de Plan de seguridad alimentaria que debe enviarse al Consejo de Administración de la Agencia de Salud Pública de Cataluña.
+b) Aprobar la memoria anual sobre la situación de la seguridad alimentaria en Cataluña.
+c) Aprobar los criterios para la comunicación en el ámbito de la seguridad alimentaria.
+d) Recomendar actuaciones, de acuerdo con la finalidad y los objetivos de la Agencia Catalana de Seguridad Alimentaria, al director o directora de la Agencia de Salud Pública de Cataluña.
+e) Analizar y proponer las acciones que deben emprenderse a partir de los dictámenes científicos.
+f) Proponer al Consejo de Administración de la Agencia de Salud Pública de Cataluña el nombramiento de los vocales del Comité Científico Asesor de Seguridad Alimentaria.
+4. El consejero o consejera del departamento competente en materia de salud nombra y cesa a los miembros de la Comisión Directora de Seguridad Alimentaria a propuesta de cada una de las representaciones que la componen y, en cuanto a la representación de los entes locales, a propuesta de la Asociación Catalana de Municipios y Comarcas y de la Federación de Municipios de Cataluña, por partes iguales.
+5. Los estatutos de la Agencia de Salud Pública de Cataluña deben establecer las normas de funcionamiento de la Comisión Directora de Seguridad Alimentaria.
+Se mantiene la vigencia con rango reglamentario por el art. 163.5.d) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se mantiene la vigencia con rango reglamentario por la disposición adicional 1.2 del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 46
+
+Artículo 46. Comité Científico Asesor de Seguridad Alimentaria.
+1. Se crea el Comité Científico Asesor de Seguridad Alimentaria como órgano asesor sobre los aspectos técnicos y científicos de la seguridad y calidad alimentarias.
+2. El Comité Científico Asesor de Seguridad Alimentaria está formado por un máximo de dieciséis expertos en seguridad alimentaria de solvencia reconocida, de las universidades y de los centros de investigación, nombrados por el Consejo de Administración de la Agencia de Salud Pública de Cataluña, a propuesta de la Comisión Directora de Seguridad Alimentaria.
+3. Corresponden al Comité Científico Asesor de Seguridad Alimentaria las siguientes funciones:
+a) Elaborar estudios científicos de evaluación de los riesgos en materia de seguridad alimentaria, sin perjuicio de las competencias que, en esta materia, corresponden a la Agencia Española de Seguridad Alimentaria y a la Autoridad Europea de Seguridad Alimentaria.
+b) Emitir dictámenes sobre la efectividad de los procedimientos que deben aplicar las empresas alimentarias para prevenir, eliminar o reducir los riesgos hasta niveles aceptables.
+c) Impulsar y hacer estudios científicos de evaluación de la exposición de la población a los diferentes riesgos vehiculados por los alimentos, en colaboración con las universidades catalanas y con otras instituciones públicas y privadas.
+d) Proponer a la Comisión Directora de Seguridad Alimentaria la creación de grupos de trabajo, formados por expertos externos, para hacer estudios científicos específicos de evaluación de riesgos.
+e) Analizar los datos, informes, estudios y conocimientos recopilados por los órganos de la Administración competentes en materia de seguridad alimentaria, así como las aportaciones de las organizaciones civiles.
+f) Asesorar la Comisión Directora de Seguridad Alimentaria y las demás unidades de la Agencia de Salud Pública de Cataluña en las cuestiones relacionadas con la seguridad alimentaria y emitir informes sobre cualquier asunto de su competencia sobre el que sea consultado.
+4. La Agencia Catalana de Seguridad Alimentaria, mediante el Comité Científico Asesor de Seguridad Alimentaria, emite dictámenes científicos sobre cuestiones de seguridad alimentaria. Estos dictámenes deben emitirse en el plazo de tres meses desde la presentación de la solicitud, salvo que circunstancias técnicas aconsejen su emisión en un plazo superior.
+5. Los informes, estudios y dictámenes que emite el Comité Científico Asesor de Seguridad Alimentaria en ejercicio de sus funciones deben ser públicos, salvo los casos en que el departamento competente en materia de salud determine lo contrario.
+6. Los miembros del Comité Científico Asesor de Seguridad Alimentaria y los expertos externos que participen en los grupos de trabajo deben comprometerse a actuar con independencia y en interés público y a guardar reserva sobre las decisiones que se adopten mientras no se den a conocer mediante los sistemas de publicación de acuerdos que se establezcan.
+7. Los miembros del Comité Científico Asesor de Seguridad Alimentaria no pueden ser cesados del cargo por razón de la opinión científica que expresen.
+8. Los estatutos de la Agencia de Salud Pública de Cataluña deben establecer las normas de funcionamiento del Comité Científico Asesor de Seguridad Alimentaria.
+Se mantiene la vigencia con rango reglamentario por el art. 163.5.c) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se mantiene la vigencia con rango reglamentario por la disposición adicional 1.2 del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 47
+
+Artículo 47. Comunicación.
+1. La Agencia Catalana de Seguridad Alimentaria debe establecer, de forma coordinada con otros órganos competentes en materia de seguridad y calidad alimentarias, mecanismos de información, publicidad y divulgación continuados para informar a la ciudadanía de las cuestiones más relevantes en esta materia. Además, debe adoptar canales de comunicación permanente con los sectores económicos y sociales relacionados directa o indirectamente con la seguridad y calidad alimentarias.
+2. La Agencia Catalana de Seguridad Alimentaria debe crear los sistemas de comunicación que garanticen el intercambio, con las demás administraciones públicas competentes en materia de seguridad alimentaria, de la información necesaria para cumplir los objetivos de la presente ley.
+3. La Agencia Catalana de Seguridad Alimentaria debe garantizar que la información dirigida a la ciudadanía sea accesible, comprensible, adecuada, coherente y coordinada, para contribuir a incrementar la confianza de los consumidores, especialmente en situaciones de crisis.
+4. La Agencia Catalana de Seguridad Alimentaria debe mantener sistemas permanentes de recopilación y análisis de la información disponible, científica y técnica, relacionada con la seguridad y calidad alimentarias.
+Se mantiene la vigencia con rango reglamentario por el art. 163.5.c) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se mantiene la vigencia con rango reglamentario por la disposición adicional 1.2 del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+## CAPÍTULO IV
+
+Salud laboral
+
+### Artículo 48
+
+Artículo 48. Actuaciones en salud laboral.
+1. La Agencia de Salud Pública de Cataluña es el organismo que hace efectiva la coordinación del departamento competente en materia de salud con las administraciones públicas y los organismos competentes en el ejercicio de las actuaciones, las prestaciones y los servicios de vigilancia, promoción y protección de la salud y de prevención de las enfermedades y los problemas de salud relacionados con el trabajo, sin perjuicio de las competencias que en esta materia correspondan al departamento competente en materia de trabajo, seguridad y salud laborales y prevención de riesgos laborales.
+2. La Agencia de Salud Pública de Cataluña, de forma coordinada y cooperante con las administraciones públicas y los organismos a que se refiere el apartado 1, ha de llevar a cabo las siguientes actuaciones:
+a) Valorar los problemas de salud de los trabajadores basándose en los datos sobre daños a la salud y factores de riesgo derivados del trabajo.
+b) Desarrollar un sistema de vigilancia de enfermedades y problemas de salud relacionados con el trabajo.
+c) Establecer y revisar los protocolos para la vigilancia de la salud individual de los trabajadores expuestos a riesgos laborales.
+d) Colaborar en la investigación y el control de los brotes epidémicos de origen laboral.
+e) Desarrollar los programas de vigilancia de la salud posocupacional, de acuerdo con la legislación de riesgos laborales.
+f) Establecer una red de centros de referencia para el diagnóstico de patologías profesionales, mediante convenios específicos con centros asistenciales.
+g) Apoyar a los servicios asistenciales, sanitarios y farmacéuticos, especialmente en el nivel de la atención primaria, para que puedan gestionar correctamente los casos de patología profesional.
+h) Apoyar a las empresas y a los servicios de prevención de riesgos laborales, propios y ajenos, para que puedan realizar sus actividades de salud laboral.
+i) Colaborar con el Instituto Catalán de Evaluaciones Médicas y el departamento competente en materia de trabajo, seguridad y salud laborales y prevención de riesgos laborales para notificar y gestionar casos de patología laboral.
+j) Promover, supervisar y evaluar la calidad de las actividades de salud laboral de los servicios de prevención de riesgos laborales.
+k) Promover la realización en el puesto de trabajo de actividades de protección y promoción de la salud y de prevención de las enfermedades y los problemas relacionados con el trabajo, en coordinación con las estructuras de atención primaria de salud, las mutuas de accidentes de trabajo y enfermedades profesionales y los servicios de prevención de riesgos laborales.
+l) Coordinar las actividades de salud laboral que la Agencia de Salud Pública de Cataluña realiza con el departamento competente en materia de trabajo, seguridad y salud laborales y prevención de riesgos laborales.
+m) Establecer los medios adecuados para evaluar y controlar las actuaciones sanitarias que los servicios de prevención realicen en las empresas. A tal fin, deben establecerse las pautas y los protocolos de las actuaciones, una vez escuchadas las sociedades científicas y los agentes sociales, a los que deben someterse los servicios de prevención. Las pautas y los protocolos deben establecer medidas que incluyan los factores organizacionales y psicosociales y que tengan en cuenta el bienestar físico, mental y social de los trabajadores.
+n) Contribuir a la promoción de la investigación en salud laboral necesaria para identificar y prevenir patologías que, con carácter general, las condiciones de trabajo puedan producir o agravar.
+o) Promover la formación en el ámbito de las profesiones relacionadas con la salud laboral.
+p) Supervisar la formación que, en el campo de la prevención y promoción de la salud laboral, deba recibir el personal sanitario de los servicios de prevención autorizados en el ámbito territorial de Cataluña.
+q) Promover la formación en salud laboral de los profesionales sanitarios, especialmente los de la atención primaria de salud.
+r) Participar en estrategias para la protección ante el acoso sexual y el asedio por razón de sexo con el fin de mejorar la salud laboral.
+s) Las demás actuaciones que promuevan la mejora en la vigilancia, promoción y protección de la salud de los trabajadores y la prevención de los problemas de salud relacionados con el trabajo.
+3. Para que las actuaciones a que se refiere el apartado 2 puedan llevarse a cabo adecuadamente, en el ámbito de la Agencia de Salud Pública de Cataluña debe constituirse una unidad de salud laboral central, con las siguientes funciones:
+a) Definir, desarrollar y mantener el sistema de información de salud laboral establecido por la normativa vigente.
+b) Planificar y gestionar las actuaciones de salud laboral de la Agencia.
+c) Coordinar la red de unidades de salud laboral y apoyarlas.
+
+### Artículo 49
+
+Artículo 49. Consejo de Salud Laboral.
+1. Se crea el Consejo de Salud Laboral como órgano consultivo y participativo para las cuestiones referentes a la salud laboral.
+2. El Consejo de Salud Laboral es presidido por el director o directora de la Agencia de Salud Pública de Cataluña y está integrado por representantes del departamento competente en materia de trabajo, seguridad y salud laborales y prevención de riesgos laborales; del departamento competente en materia de salud; de las administraciones públicas y los organismos competentes en materia de salud laboral; de las entidades sindicales y empresariales más representativas de Cataluña; de las sociedades científicas y de las entidades más representativas relacionadas con la salud laboral, y de las entidades gestoras y colaboradoras de la Seguridad Social, todos ellos nombrados por el consejero o consejera del departamento competente en materia de salud, a propuesta del Consejo de Administración de la Agencia.
+3. Los estatutos de la Agencia de Salud Pública de Cataluña deben establecer las funciones y las normas de funcionamiento del Consejo de Salud Laboral.
+Se mantiene la vigencia con rango reglamentario por el art. 163.5.e) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se mantiene la vigencia con rango reglamentario por la disposición adicional 1.2 del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+## CAPÍTULO V
+
+Red de Vigilancia de la Salud Pública
+
+### Artículo 50
+
+Artículo 50. Creación de la Red de Vigilancia de la Salud Pública.
+1. La Red de Vigilancia de la Salud Pública está integrada por el conjunto de unidades de vigilancia epidemiológica del departamento competente en materia de salud.
+2. La Red de Vigilancia de la Salud Pública tiene como funciones principales las siguientes:
+a) La vigilancia de las enfermedades transmisibles y de sus determinantes.
+b) El análisis de los principales problemas de salud y de sus determinantes, incluidas las enfermedades epidémicas, y de los relacionados con los estilos de vida y los contextos sociales que exigen respuestas coordinadas intersectoriales.
+c) La vigilancia de las resistencias antimicrobianas y de la infección nosocomial.
+d) La vigilancia sistemática de los efectos sobre la salud de riesgos ambientales y del trabajo.
+e) La respuesta rápida a emergencias de salud pública y el apoyo a la gestión del sistema de alertas.
+f) La elaboración de planes de preparación y respuesta ante emergencias sanitarias en colaboración con el sistema asistencial y demás sectores implicados.
+g) La vigilancia de las enfermedades emergentes y las enfermedades importadas.
+h) La elaboración de estudios vinculados a otras necesidades de la vigilancia de la salud pública.
+
+## CAPÍTULO VI
+
+Red de laboratorios de salud pública
+
+### Artículo 51
+
+Artículo 51. Creación de la red de laboratorios de salud pública.
+1. Se crea la red de laboratorios de salud pública, integrada por la red de laboratorios de salud ambiental y alimentaria de utilización pública y por otros laboratorios, de diferentes campos analíticos y de titularidad pública o privada, con el objetivo de atender las necesidades de análisis en materia de salud pública y asegurar la calidad de los servicios.
+2. Deben establecerse por reglamento los requisitos y el procedimiento de inclusión y exclusión de la red de laboratorios de salud pública.
+3. La red de laboratorios de salud pública tiene como funciones principales las siguientes:
+a) Proveer resultados analíticos fiables para la evaluación y vigilancia de los peligros relacionados con la salud ambiental.
+b) Proveer resultados analíticos fiables para la evaluación y vigilancia de los peligros relacionados con la seguridad alimentaria.
+c) Proveer resultados analíticos fiables para la evaluación y vigilancia de enfermedades infecciosas, transmisibles, crónicas y genéticas.
+d) Intervenir en emergencias relacionadas con la salud pública, prestando apoyo analítico a la identificación de peligros, fuentes de infección, portadores y demás factores de riesgo.
+e) Prestar apoyo analítico a estudios y proyectos de investigación en salud pública.
+f) Participar en la formación e investigación en el campo de las tecnologías analíticas aplicables a la salud pública.
+g) Establecer programas de garantía de la calidad de los laboratorios.
+h) Prestar apoyo y asesoramiento para el diseño de programas de control y vigilancia de la salud pública.
+i) Prestar apoyo y asesoramiento analítico a las autoridades sanitarias en la elaboración, el desarrollo y la aplicación de normas en el campo de la salud pública.
+4. En caso de emergencias relacionadas con la salud pública, la Administración puede pedir la colaboración de los laboratorios que no forman parte de la red de laboratorios de salud pública.
+Se modifican los apartados 1 y 2 por el art. 37 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+## CAPÍTULO VII
+
+Los servicios de los entes locales en materia de salud pública
+
+### Artículo 52
+
+Artículo 52. Los servicios mínimos de los entes locales.
+Los ayuntamientos, de acuerdo con las competencias que les atribuyen la Ley 15/1990, de ordenación sanitaria de Cataluña, y el Decreto legislativo 2/2003, de 28 de abril, por el que se aprueba el texto refundido de la Ley municipal y de régimen local de Cataluña, y la normativa sanitaria específica, son competentes para prestar los siguientes servicios mínimos en materia de salud pública:
+a) La educación sanitaria en el ámbito de las competencias locales.
+b) La gestión del riesgo para la salud derivado de la contaminación del medio.
+c) La gestión del riesgo para la salud en cuanto a las aguas de consumo público.
+d) La gestión del riesgo para la salud en los equipamientos públicos y los lugares habitados, incluidas las piscinas.
+e) La gestión del riesgo para la salud en las actividades de tatuaje, micropigmentación y piercing.
+f) La gestión del riesgo para la salud derivado de los productos alimentarios en las actividades del comercio minorista, del servicio y la venta directa de alimentos preparados a los consumidores, como actividad principal o complementaria de un establecimiento, con o sin reparto a domicilio, de la producción de ámbito local y del transporte urbano. Se excluye la actividad de suministro de alimentos preparados para colectividades, para otros establecimientos o para puntos de venta.
+g) La gestión del riesgo para la salud derivado de los animales domésticos, de los animales de compañía, de los animales salvajes urbanos y de las plagas.
+h) La policía sanitaria mortuoria en el ámbito de las competencias locales.
+i) Las demás actividades de competencia de los ayuntamientos en materia de salud pública, de acuerdo con la legislación vigente en esta materia.
+
+### Artículo 53
+
+Artículo 53. La prestación de servicios de salud pública de los entes locales.
+1. Los entes locales pueden prestar los servicios mínimos de salud pública a que se refiere el artículo 52 directamente o por cualquiera de las formas de gestión establecidas por la legislación de régimen local. Por razones de eficacia y en los casos en que los entes locales no tengan los medios humanos o técnicos idóneos para prestar los servicios que les atribuye la presente ley, pueden encargar la gestión de actividades de carácter material, técnico o de servicios de su competencia a la Agencia de Salud Pública de Cataluña. Este encargo de gestión debe formalizarse mediante la suscripción de un convenio entre la Agencia y el ente local correspondiente.
+2. Los convenios de encargo de gestión de servicios de salud pública a que se refiere el apartado 1 deben establecer al menos:
+a) Las actividades o los servicios mínimos de competencia de los entes locales que la Agencia de Salud Pública de Cataluña debe prestar, mediante el equipo de salud pública, en el territorio del ente correspondiente.
+b) El personal y los recursos materiales propios que el ente local adscriba al equipo de salud pública para la prestación de las actividades o los servicios encargados.
+c) La aportación económica, en el caso de los servicios que, sin tener la consideración de servicios mínimos obligatorios, ambas partes acuerden.
+3. La cuantificación de los costes del conjunto de medios humanos y materiales que el ente local adscriba al equipo de salud pública para la prestación de las actividades o los servicios mínimos encargados tiene la consideración de aportación económica a los efectos de lo establecido por el apartado 2.c.
+4. Los entes locales, en ejercicio de sus respectivas competencias en materia de salud pública, pueden adoptar las medidas de intervención administrativa a que se refiere el título IV.
+5. La Agencia de Salud Pública de Cataluña debe informar al ente local que corresponda de los resultados de las intervenciones relacionados con los servicios que preste si se trata de servicios mínimos que son competencia de los entes locales. Asimismo, si la Agencia presta servicios que son competencia de los entes locales, el ente local correspondiente puede participar en los procedimientos de contratación que la Agencia incoe a los efectos de la ejecución de las funciones correspondientes.
+6. La gestión administrativa de los resultados de las actuaciones de la Agencia de Salud Pública de Cataluña, en materias de competencia local, corresponde a la administración local pertinente, salvo que el convenio firmado con la Agencia establezca otra cosa.
+7. Los entes locales deben disponer de los recursos económicos y materiales suficientes para ejercer las competencias en materia de salud pública con eficacia y eficiencia, teniendo en cuenta la cooperación económica y técnica de los entes supralocales de acuerdo con lo establecido por la normativa de régimen local, sin perjuicio de los programas de colaboración financiera específica que, de acuerdo con la normativa de cooperación local, la Administración de la Generalidad establezca para actividades de salud pública.
+8. Las organizaciones asociativas de entes locales y la Agencia de Salud Pública de Cataluña deben suscribir un convenio marco de relaciones que establezca el régimen general de los compromisos que deben incluirse en los convenios suscritos entre los entes locales y la Agencia, así como los correspondientes mecanismos de seguimiento.
+9. El departamento competente en materia de salud debe garantizar la prestación de los servicios mínimos obligatorios de competencia local en los términos que se pacten en el convenio marco de relaciones entre la Agencia de Salud Pública de Cataluña y las organizaciones asociativas de entes locales.
+
+## TÍTULO IV
+
+De la intervención administrativa en materia de salud pública
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 54
+
+Artículo 54. Responsabilidad y autocontrol.
+1. Las personas, físicas o jurídicas, titulares de las instalaciones, los establecimientos, los servicios y las industrias en que se realizan actividades que inciden o pueden incidir en la salud de las personas son responsables de la higiene y de la seguridad sanitaria de los locales e instalaciones y de sus anexos, de los procesos y de los productos o sustancias que derivan de ellos, y deben establecer procedimientos de autocontrol eficaces para garantizar su seguridad sanitaria.
+2. Las administraciones públicas competentes en materia de higiene y seguridad sanitaria deben garantizar el cumplimiento de la obligación establecida por el apartado 1 mediante el establecimiento de sistemas de vigilancia y supervisión adecuados e idóneos.
+3. Las personas físicas son responsables de sus actos y de las conductas que influyen en la salud propia y ajena.
+
+### Artículo 55
+
+Artículo 55. Intervención administrativa en protección de la salud y prevención de la enfermedad.
+1. La autoridad sanitaria, mediante los órganos competentes, puede intervenir en las actividades públicas y privadas para proteger la salud de la población y prevenir la enfermedad. A tal fin, puede:
+a) Establecer sistemas de vigilancia, redes de comunicaciones y análisis de datos que permitan detectar y conocer, tan rápidamente como sea posible, la proximidad o presencia de situaciones que puedan repercutir negativamente en la salud individual o colectiva.
+b) Establecer la exigencia de registros, autorizaciones, comunicaciones previas o declaraciones responsables a instalaciones, establecimientos, servicios e industrias, productos y actividades, con sujeción a las condiciones establecidas por el artículo 61 y, en todo caso, de acuerdo con la normativa sectorial.
+c) Establecer prohibiciones y requisitos mínimos para la producción, la distribución, la comercialización y el uso de bienes y productos, y para las prácticas que comporten un perjuicio o una amenaza para la salud.
+d) Controlar la publicidad y propaganda de productos y actividades que puedan incidir en la salud, con la finalidad de ajustarlas a criterios de veracidad y evitar todo lo que pueda suponer un perjuicio para la salud.
+e) Establecer y controlar las condiciones higiénico-sanitarias, de funcionamiento y desarrollo de actividades que puedan repercutir en la salud de las personas.
+f) Adoptar las medidas cautelares pertinentes si se produce un riesgo para la salud individual o colectiva o si se sospecha razonablemente que puede haber uno, ante el incumplimiento de los requisitos y condiciones establecidos por el ordenamiento jurídico, así como en aplicación del principio de precaución. Estas medidas deben adoptarse de acuerdo con lo establecido por el artículo 63.
+g) Acordar la clausura o el cierre de las instalaciones, los establecimientos, los servicios o las industrias que no dispongan de las autorizaciones sanitarias o que no cumplan las obligaciones de comunicación previa o de declaración responsable, de acuerdo con la normativa sectorial aplicable.
+h) El decomiso y la destrucción de los bienes o productos deteriorados, caducados, adulterados o no autorizados, así como de los productos que, por razones de protección de la salud o prevención de la enfermedad, sea aconsejable destruir, reexpedir o destinar a otros usos autorizados.
+i) Requerir a los titulares de las instalaciones, los establecimientos, los servicios y las industrias que hagan modificaciones estructurales o que adopten medidas preventivas y correctoras para enmendar las deficiencias higiénicas y sanitarias.
+j) Adoptar medidas de reconocimiento médico, tratamiento, hospitalización o control si hay indicios racionales de la existencia de peligro para la salud de las personas a causa de una circunstancia concreta de una persona o un grupo de personas o por las condiciones en que se realiza una actividad. También pueden adoptarse medidas para el control de las personas que estén o hayan estado en contacto con los enfermos o los portadores. Estas medidas deben adoptarse en el marco de la Ley orgánica 3/1986, de 14 de abril, de medidas especiales en materia de salud pública, y de la Ley del Estado 29/1998, de 13 de julio, reguladora de la jurisdicción contenciosa administrativa, y de las disposiciones legales que las modifiquen o deroguen.
+k) En situaciones de pandemia o epidemia declaradas por las autoridades competentes, las autoridades sanitarias competentes podrán adoptar medidas de limitación a la actividad, del desplazamiento de las personas y la prestación de servicios en determinados ámbitos territoriales previstas en el anexo 3, de acuerdo con lo que dispone el artículo 55 bis.
+2. Las medidas a que se refiere el apartado 1 deben adoptarse respetando los derechos que la Constitución reconoce a los ciudadanos, especialmente el derecho a la intimidad personal, de acuerdo con lo establecido por la normativa de protección de datos de carácter personal y con los procedimientos que esta normativa y las demás normas aplicables hayan establecido, y disponiendo de las autorizaciones preceptivas.
+Se añade la letra k) al apartado 1 por el art. único.1 del Decreto-ley 27/2020, de 13 de julio. Ref. BOE-A-2020-9555#au
+ Se modifican los apartados 1.b) y g) por el art. 38.1 y 2 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 55 bis
+
+Artículo 55 bis. Procedimiento para la adopción de medidas en situación de pandemia declarada.(*)
+1. La adopción de las medidas a que hace referencia la letra k) del artículo anterior tienen por objeto garantizar el control de contagios y proteger la salud de las personas, adecuándose al principio de proporcionalidad.
+A estos efectos, la adopción de las medidas indicadas requerirá la emisión de un informe emitido por el director/a de la Agencia de Salud Pública, en los aspectos asistenciales a propuesta del Servicio Catalán de la Salud y en los aspectos epidemiológicos y de salud pública, a propuesta de la propia Agencia, el cual tendrá por objeto acreditar la situación actual de riesgo de contagio, la situación de control de la pandemia, la suficiencia de las medidas, y propondrá las medidas a adoptar.
+Los informes se ajustarán a los parámetros establecidos en los anexos del Decreto-ley 27/2020, de 13 de julio, de modificación de la Ley 18/2009, de 22 de octubre, de Salud Pública y de adopción de medidas urgentes para hacer frente al riesgo de brotes de la COVID-19.
+2. Siempre que sea posible, la resolución formulará recomendaciones a seguir para evitar riesgos de contagio. En caso de que se establezcan medidas de carácter obligatorio, se tiene que advertir expresamente de esta obligatoriedad, la cual estará fundamentada en los informes emitidos.
+La resolución indicará expresamente la existencia o no del mantenimiento de los servicios esenciales, entre los indicados en el anexo 2.
+3. La resolución que establezca las medidas indicará su duración, que en principio no tiene que ser superior a 15 días, excepción hecha que se justifique el necesario establecimiento de un plazo superior, sin perjuicio de que se pueda pedir la prórroga, justificando el mantenimiento de las condiciones que justificaron su adopción. En todo caso, se emitirán informes periódicos de los efectos de las medidas, así como un informe final, una vez agotadas estas.
+4. El establecimiento de las medidas mencionadas se tendrá que llevar a cabo teniendo en cuenta siempre a la menor afectación a los derechos de las personas, y siempre que sea posible, se tendrán que ajustar territorialmente al mínimo ámbito necesario para su efectividad.
+5. La resolución por la cual se adopten las medidas concretas podrá establecer mecanismos de graduación de las medidas en función de la evolución de los indicadores.
+(*)Véase, en relación a los indicadores citados, el Anexo I del Decreto-ley 27/2020, de 13 de julio. Ref. BOE-A-2020-9555#a1
+Se añade por el art. único.2 del Decreto-ley 27/2020, de 13 de julio. Ref. BOE-A-2020-9555#au
+
+### Artículo 56
+
+Artículo 56. Principios informadores de la intervención administrativa.
+Las medidas a que se refiere el presente título deben adoptarse respetando los siguientes principios:
+a) Es preferida la colaboración voluntaria con las autoridades sanitarias.
+b) No pueden ordenarse medidas que supongan un riesgo para la vida de las personas.
+c) Son preferidas las medidas que perjudican menos el principio de libre circulación de las personas y los bienes, la libertad de empresa y los demás derechos de la ciudadanía.
+d) La medida debe ser proporcional a las finalidades perseguidas y a la situación que la motiva.
+
+### Artículo 57
+
+Artículo 57. Colaboración con la Administración sanitaria.
+1. Las administraciones públicas, en el marco de sus competencias, así como las instituciones y entidades privadas y los particulares, tienen el deber de colaborar con las autoridades sanitarias y sus agentes si es preciso para la efectividad de las medidas adoptadas.
+2. La comparecencia de los ciudadanos ante las oficinas públicas, si es precisa para proteger la salud pública, es obligatoria. El requerimiento de comparecencia debe ser debidamente motivado.
+3. Los ciudadanos que voluntariamente participen en programas poblacionales de prevención de enfermedades tienen el derecho de tener toda la información relevante sobre las consecuencias potenciales de las actividades de estos programas, de acuerdo con el procedimiento que se establezca reglamentariamente.
+
+### Artículo 58
+
+Artículo 58. Información a la autoridad sanitaria.
+1. Si los titulares de instalaciones, establecimientos, servicios o industrias detectan la existencia de riesgos para la salud derivados de la actividad o de los productos respectivos, deben informar de ello inmediatamente a la autoridad sanitaria correspondiente y deben retirar, si procede, el producto del mercado o deben cesar la actividad, de la forma que se determine reglamentariamente.
+2. La Agencia de Salud Pública de Cataluña puede establecer los protocolos que deben regular los procedimientos de información a las autoridades competentes en materia de salud pública y el contenido de la comunicación correspondiente.
+
+## CAPÍTULO II
+
+Vigilancia y control
+
+### Artículo 59
+
+Artículo 59. Agentes de la autoridad sanitaria.
+1. Los funcionarios públicos de las administraciones competentes en materia de salud pública, debidamente acreditados, tienen la condición de agentes de la autoridad y, en el ejercicio de sus funciones, están autorizados a:
+a) Entrar libremente y sin notificación previa, en cualquier momento, en los centros, servicios, establecimientos o instalaciones sujetos a la presente ley.
+b) Hacer las pruebas, las investigaciones, la toma de muestras, los exámenes o los controles físicos, documentales y de identidad necesarios para comprobar el cumplimiento de las disposiciones vigentes en materia de salud pública. En cualquier caso, estas intervenciones están sujetas a autorización judicial en los casos en que sea exigible, salvo que la persona afectada haya dado su consentimiento.
+c) Hacer, en general, las actuaciones necesarias para cumplir las funciones de vigilancia y control sanitarios que les corresponden.
+d) Adoptar, en el marco de sus competencias, las medidas cautelares no expresamente reservadas por la normativa que desarrolla la presente ley a la autoridad sanitaria, si se produce un riesgo para la salud individual o colectiva, se sospecha razonablemente que puede existir uno o se constata que se han incumplido los requisitos y condiciones que establece el ordenamiento jurídico, de acuerdo con lo establecido por la presente ley. Tan pronto como sea posible, deben dar cuenta de la adopción de estas medidas al titular o la titular del centro directivo al que están adscritos.
+2. Los hechos constatados por agentes de la autoridad que se formalicen en documentos públicos, de acuerdo con los requisitos legales pertinentes, tienen valor probatorio, sin perjuicio de las pruebas que los administrados puedan aportar en defensa de sus derechos e intereses.
+
+### Artículo 60
+
+Artículo 60. Toma de muestras y control analítico.
+1. La toma de muestras debe ser practicada por personal funcionario de las administraciones sanitarias competentes en materia de salud pública, debidamente auxiliados para hacer las operaciones materiales, si procede.
+2. Los datos y circunstancias necesarios para identificar las muestras y sus características, así como las demás informaciones relevantes con relación a la toma de muestras, deben hacerse constar en un acta. Esta acta debe levantarse ante el titular o la titular de la empresa o el establecimiento sometido a inspección o ante su representante legal o persona responsable o, en su defecto, ante un empleado o empleada. Si estas personas se niegan a firmar el acta, esta debe levantarse ante un testigo o una testigo, siempre que eso sea posible.
+3. Las pruebas analíticas deben hacerse en establecimientos acreditados de la red de laboratorios de salud pública. Una vez hecho el control analítico, debe emitirse, tan pronto como sea técnicamente posible, un dictamen claro y preciso sobre la muestra analizada.
+4. La toma de muestras y su análisis deben seguir el siguiente procedimiento:
+a) Las muestras deben tomarse por triplicado, excepto que sea materialmente imposible, que la norma sectorial disponga lo contrario o que situaciones de riesgo para la salud justifiquen que se haga de otro modo. Las muestras deben precintarse, si procede. Una muestra, junto con una copia del acta, debe quedarse en la empresa o en el establecimiento sometido a inspección, que debe conservarla en depósito, en las condiciones debidas, para que pueda utilizarse en prueba contradictoria, si procede. La desaparición, la destrucción o el deterioro de esta muestra supone la aceptación del resultado del análisis inicial. Las otras dos muestras deben estar a disposición de la Administración, que ha de entregar una al laboratorio que debe hacer el análisis inicial. Si la empresa o el establecimiento inspeccionados actúan solo como distribuidores o comercializadores y no intervienen en la conservación del producto, la Administración puede quedarse las tres muestras y a la empresa o el establecimiento solo debe dársele una copia del acta. En este caso, la Administración debe enviar una copia del acta a la empresa o industria productora y poner a su disposición una de las muestras.
+b) Una vez se tenga el resultado del análisis inicial, la persona interesada, si no está de acuerdo, puede solicitar, si es materialmente posible, dentro de los cinco días siguientes a la notificación del dictamen, que se practique un análisis contradictorio, de acuerdo con una de las dos opciones siguientes:
+Primera.–La persona interesada debe designar un perito o perita de parte, que debe intervenir en la práctica de la prueba analítica contradictoria, la cual debe hacerse en el mismo laboratorio que haya hecho el análisis inicial, en las mismas condiciones y siguiendo las mismas técnicas.
+Segunda.–La persona interesada debe justificar que ha enviado su muestra a un establecimiento acreditado para que un facultativo o facultativa designado por el laboratorio realice el análisis contradictorio, utilizando las mismas técnicas utilizadas en el análisis inicial. El resultado analítico y, en su caso, el dictamen técnico complementario deben enviarse a la Administración en el plazo de un mes a partir de la solicitud de análisis contradictorio. Una vez transcurrido este plazo sin que se haya presentado el resultado analítico y, en su caso, el dictamen complementario, se entiende que la persona interesada acepta el resultado del análisis inicial.
+c) La renuncia expresa o tácita a practicar el análisis contradictorio o la no aportación de la muestra de la persona interesada supone la aceptación de los resultados y, en su caso, del dictamen del análisis inicial.
+d) Si existe discrepancia entre los resultados de los análisis inicial y contradictorio, el órgano competente debe dar la opción a la empresa o el establecimiento sometido a inspección para que escoja un laboratorio, siempre que sea posible, de entre tres acreditados de la red de laboratorios de salud pública propuestos por la Administración. El laboratorio escogido, teniendo en cuenta los antecedentes de las pruebas inicial y contradictoria, debe practicar con carácter urgente un tercer análisis, que es dirimente y definitivo. Si no es posible recorrer a otro laboratorio para hacer el tercer análisis, debe designarse el mismo que haya practicado el análisis inicial.
+5. Si se han tomado únicamente dos muestras, debe seguirse el procedimiento que el apartado 4 establece para la muestra inicial y la contradictoria. Si existe discrepancia entre el resultado analítico inicial y el contradictorio, es preciso atenerse al que establece el contradictorio.
+6. El funcionario público o funcionaria pública que haya efectuado la toma de muestras, si se ha tomado solo una, debe trasladarla, debidamente precintada, al laboratorio, junto con una copia del acta de inspección, en la que deben hacerse constar el laboratorio que debe practicar el análisis oficial y el día y la hora en que debe practicarse, así como la indicación de que, si la persona interesada lo considera conveniente, puede asistir con un perito o perita de parte, con competencia profesional suficiente en los procesos técnicos de análisis, y que la renuncia expresa o tácita a ir acompañado de un perito o perita de parte supone la aceptación de los resultados analíticos que se obtengan. El resultado del análisis debe comunicarse a la persona interesada y a la autoridad administrativa competente para que, si procede, se adopten las medidas pertinentes.
+7. Si existen suficientes indicios para considerar que la salud individual o colectiva está en peligro, en el caso de productos de conservación difícil o de productos alterables en general, o si las circunstancias lo aconsejan, los análisis deben hacerse notificándolo previamente a la persona interesada para que acuda asistida de un perito o perita con la titulación adecuada a fin de practicar en un solo acto las pruebas inicial y contradictoria necesarias. Si existe disconformidad respecto a los resultados, acto seguido, incluso sin solución de continuidad, un perito o perita independiente designado y convocado previamente por la Administración debe realizar un tercer examen, prueba o control.
+8. Los gastos derivados de los análisis iniciales corren a cargo de la Administración. Los gastos originados por la práctica de los análisis contradictorios corren a cargo de la persona interesada si el resultado es igual al inicial. Los gastos derivados de las pruebas analíticas dirimentes corren a cargo de la persona interesada o de la Administración, según si el resultado ratifica, respectivamente, el resultado inicial o el contradictorio.
+En caso de que la toma de muestras se realice por sospecha fundamentada de incumplimiento de la normativa sanitaria de aplicación, los gastos derivados de los análisis corren a cargo de la Administración, salvo que el resultado final confirme este incumplimiento. En este caso, todos los gastos de los análisis corren a cargo de la persona interesada.
+Se modifica el apartado 8 por el art. 217 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-29
+ Se modifica la opción segunda del apartado 4.b) por el art. 39 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 61
+
+Artículo 61. Autorizaciones y registros sanitarios.
+1. Las instalaciones, los establecimientos, los servicios y las industrias en que se lleven a cabo actividades que puedan tener incidencia en la salud pública están sujetos al trámite de autorización sanitaria de funcionamiento previa si la normativa sectorial aplicable lo establece. Deben regularse por reglamento el contenido de la autorización sanitaria correspondiente y los criterios y requisitos para su otorgamiento.
+La autoridad sanitaria puede establecer, de acuerdo con la normativa sectorial aplicable, la obligación de presentar una declaración responsable o una comunicación previa al inicio de la actividad para las instalaciones, los establecimientos, los servicios y las industrias que lleven a cabo actividades que pueden tener incidencia en la salud. Deben regularse por reglamento el régimen de comunicación previa o declaración responsable y los requisitos para acceder a la actividad y para ejercerla.
+2. La autorización sanitaria a que se refiere el apartado 1 debe ser otorgada por las administraciones sanitarias a que corresponde la competencia de control, de acuerdo con las competencias que les atribuyen la presente ley, los reglamentos que la desarrollan y el texto refundido de la Ley municipal y de régimen local de Cataluña. El régimen de intervención administrativa de las actividades económicas que la presente ley y la normativa sectorial en materia de salud pública atribuyen a los municipios y a otros entes locales se rige por esta normativa específica.
+3. Las administraciones sanitarias, de acuerdo con el ámbito competencial establecido y con lo que se establezca reglamentariamente, deben constituir los registros necesarios para facilitar las tareas de control sanitario de las instalaciones, los establecimientos, los servicios, las industrias, las actividades y los productos. Estos registros deben sujetarse a la normativa reguladora de protección de datos de carácter personal y deben ser establecidos y gestionados por las administraciones sanitarias a que corresponde la competencia de control, de acuerdo con el ámbito competencial atribuido a cada una.
+Se modifica el apartado 1 por el art. 40 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 62
+
+Artículo 62. Entidades colaboradoras de la Administración.
+1. Sin perjuicio de lo establecido por el presente capítulo, las actividades de inspección, vigilancia y control en materia de salud pública pueden encargarse a entidades debidamente autorizadas. En todo caso, las funciones establecidas por el artículo 59.1.d deben ser ejercidas por funcionarios públicos.
+2. Para el ejercicio de las actividades de inspección, vigilancia y control, las entidades deben acreditar que poseen los medios financieros y materiales y la competencia profesional pertinentes, así como que están dotadas de garantías de imparcialidad y objetividad.
+3. Los ámbitos de actuación de las entidades colaboradoras de la Administración, sus funciones y los requisitos y procedimiento para ser autorizadas, salvo los ámbitos en los que ya existe una normativa aplicable, deben establecerse reglamentariamente.
+4. Las actuaciones de una entidad pueden ser objeto de reclamación ante la propia entidad. Si no se atiende la reclamación, puede presentarse un recurso administrativo, de acuerdo con la legislación aplicable, ante la autoridad de salud pública competente, en los términos que se establezcan reglamentariamente.
+5. La Agencia de Salud Pública de Cataluña debe supervisar las entidades autorizadas y puede practicar las comprobaciones y evaluaciones que sean pertinentes sobre la actividad realizada.
+
+## CAPÍTULO III
+
+Medidas cautelares
+
+### Artículo 63
+
+Artículo 63. Medidas cautelares.
+1. Si, como consecuencia de las actividades de vigilancia y control, se comprueba que existe riesgo para la salud individual o colectiva o se observa el incumplimiento de los requisitos y condiciones establecidos por el ordenamiento vigente en materia de salud pública, o existen indicios razonables de ello, las autoridades sanitarias y, si procede, sus agentes, de acuerdo con lo establecido por la presente ley, deben adoptar las siguientes medidas cautelares:
+a) La inmovilización y, si procede, el decomiso de productos y sustancias.
+b) El cierre preventivo de las instalaciones, los establecimientos, los servicios y las industrias.
+c) La suspensión de la autorización sanitaria de funcionamiento o la suspensión o prohibición del ejercicio de actividades, o bien ambas medidas a la vez.
+d) La intervención de medios materiales o humanos.
+e) La determinación de condiciones previas en cualquier fase de la fabricación o comercialización de productos y sustancias, así como del funcionamiento de las instalaciones, los establecimientos, los servicios y las industrias, con la finalidad de que corrijan las deficiencias detectadas.
+f) Prohibir la comercialización de un producto u ordenar su retirada del mercado y, si es preciso, acordar su destrucción en condiciones adecuadas.
+g) Cualquier otra medida si existe riesgo para la salud individual o colectiva o si se observa el incumplimiento de los requisitos y condiciones establecidos por el ordenamiento vigente o si existen indicios razonables de ello.
+2. Las medidas cautelares a que se refiere el apartado 1 también pueden adoptarse en aplicación del principio de precaución. En este caso, con carácter previo a la resolución por la que se adopta la medida cautelar, se debe dar audiencia a las partes interesadas para que, en el plazo de diez días, puedan presentar las alegaciones y los documentos pertinentes.
+3. Si se produce un riesgo debido a la situación sanitaria de una persona o de un grupo de personas, las autoridades sanitarias competentes para garantizar la salud pública pueden adoptar cualquier medida de las establecidas por la legislación, de acuerdo con lo dispuesto por la Ley orgánica 3/1986 y la Ley del Estado 29/1998. Si la situación de riesgo que determina la adopción de la medida cautelar puede comprometer la salud de los trabajadores, la autoridad sanitaria debe comunicarlo al departamento competente en materia de trabajo y prevención de riesgos laborales a los efectos de lo establecido por el artículo 44 de la Ley del Estado 31/1995, de 8 de noviembre, de prevención de riesgos laborales.
+4. Las medidas cautelares, que no tienen carácter de sanción, deben mantenerse el tiempo que exija la situación de riesgo que las justifica.
+5. El Gobierno y los órganos competentes de los entes locales deben establecer, mediante un reglamento, los órganos competentes, en el ámbito de actuación respectivo, para imponer las medidas cautelares establecidas por la presente ley.
+
+### Artículo 64
+
+Artículo 64. Gastos.
+Los gastos que se deriven de la adopción de alguna de las medidas cautelares a que se refiere el artículo 63 corren a cargo de las personas físicas o jurídicas responsables, si procede.
+
+### Artículo 65
+
+Artículo 65. Multas coercitivas.
+1. Si se constata el incumplimiento de las medidas cautelares a que se refiere el artículo 63 o de los requerimientos a que se refiere el artículo 55.1.i, pueden imponerse multas coercitivas.
+2. Las multas coercitivas, que no pueden exceder los 6.000 euros, son impuestas mediante una resolución del mismo órgano que dictó la medida cautelar o el requerimiento que se ha incumplido.
+3. Las multas coercitivas pueden imponerse hasta un máximo de tres veces, no tienen carácter de sanción y son independientes de las que pueden imponerse como consecuencia de un procedimiento sancionador, con las cuales son compatibles.
+
+## TÍTULO V
+
+Régimen sancionador
+
+### Artículo 66
+
+Artículo 66. Las infracciones.
+Son infracciones en materia de salud pública las acciones u omisiones que vulneren lo establecido por la presente ley y las demás normas sanitarias aplicables. Las infracciones son objeto de las sanciones administrativas correspondientes, sin perjuicio de la responsabilidad civil, penal o de otro orden que concurra.
+
+### Artículo 67
+
+Artículo 67. Clasificación de las infracciones.
+Las infracciones se clasifican en leves, graves y muy graves.
+
+### Artículo 68
+
+Artículo 68. Infracciones leves.
+Son infracciones leves las siguientes:
+a) Las que reciben expresamente esta calificación en la normativa específica aplicable a cada caso.
+b) El incumplimiento de las prescripciones de la presente ley que los artículos 69 y 70 no califiquen de graves o muy graves, y el incumplimiento de los requisitos higiénicos y sanitarios y de las obligaciones o prohibiciones de otras normas sanitarias, si estos incumplimientos no tienen repercusión directa en la salud.
+c) Las irregularidades cometidas por simple negligencia, si la alteración producida ha tenido una incidencia escasa.
+
+### Artículo 69
+
+Artículo 69. Infracciones graves.
+Son infracciones graves las siguientes:
+a) Las que reciben expresamente esta calificación en la normativa específica aplicable a cada caso.
+b) Producir, distribuir o utilizar primeras materias o productos aditivos obtenidos mediante tecnologías o manipulaciones no autorizadas o utilizarlos en cantidades superiores a las autorizadas o para un uso diferente al que está establecido.
+c) Producir, distribuir o comercializar alimentos o productos alimentarios obtenidos a partir de animales o vegetales a los que se hayan administrado productos zoosanitarios, fitosanitarios o plaguicidas autorizados en cantidad superior a la establecida o con finalidades diferentes a las permitidas o a los que no se haya suprimido su administración en los plazos establecidos.
+d) Hacer funcionar instalaciones, establecimientos, servicios e industrias o ejercer actividades sin la pertinente autorización sanitaria o, si procede, hacer una producción por encima de los límites establecidos por la correspondiente autorización sanitaria, así como hacer una modificación no autorizada por la autoridad competente de las condiciones técnicas o estructurales expresas sobre las que se otorgó la correspondiente autorización.
+Asimismo, hacer funcionar instalaciones, establecimientos, servicios e industrias o ejercer actividades incumpliendo lo establecido por la normativa sectorial aplicable en cuanto a las obligaciones de comunicación previa o de declaración responsable, si la infracción no es leve porque no tiene una repercusión directa en la salud pública.
+e) La puesta en funcionamiento de aparatos o instalaciones o la realización de cualquier actividad de los que la autoridad competente haya establecido el precintado, la clausura, la suspensión o la limitación en el tiempo, si sucede por primera vez y no pone en riesgo la salud de las personas.
+f) Dificultar o impedir la tarea de inspección por acción u omisión.
+g) Negarse o resistirse a proporcionar la información requerida por las autoridades sanitarias o sus agentes, o a colaborar con estos, o proporcionarles información inexacta o documentación falsa.
+h) La coacción, la amenaza, la represalia, el desacato o cualquier otra forma de presión ejercida sobre las autoridades sanitarias o sus agentes en el cumplimiento de sus funciones.
+i) Incumplir las medidas cautelares o definitivas establecidas por la presente ley y las disposiciones concordantes.
+j) Incumplir los requerimientos específicos que formulen las autoridades sanitarias o sus agentes, si este incumplimiento no comporta un daño grave para la salud.
+k) Distribuir productos sin las marcas sanitarias preceptivas o con marcas sanitarias que no se adecuen a las condiciones establecidas, y utilizar marcas sanitarias o etiquetas de otras industrias o productores.
+l) Distribuir, tener a la venta o vender productos una vez pasada la fecha de duración máxima o la fecha de caducidad indicada en las etiquetas, o manipular estas fechas.
+m) Presentar los productos alimentarios en el momento de su preparación, distribución, suministro o venta induciendo el consumidor o consumidora a confusión sobre las características nutricionales.
+n) Incurrir en irregularidades por falta de los controles y precauciones exigibles en la actividad, el servicio o la instalación, de acuerdo con lo establecido por la normativa de salud pública.
+o) No comunicar a la Administración sanitaria riesgos para la salud, en el caso en que, de acuerdo con la normativa vigente, sea obligatorio hacerlo.
+p) Reincidir en la comisión de infracciones leves en el periodo de los dos años anteriores.
+q) Las que concurran con otras infracciones leves o hayan servido para facilitarlas o encubrirlas.
+r) Las que, pese a ser calificadas de leves por la presente ley o por otras normas sanitarias, hayan puesto en riesgo la salud de las personas o les hayan producido daños leves.
+Se modifica la letra d) por el art. 41 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 70
+
+Artículo 70. Infracciones muy graves.
+Son infracciones muy graves las siguientes:
+a) Las que reciben expresamente esta calificación según la normativa específica aplicable a cada caso.
+b) Utilizar materiales, sustancias y métodos no autorizados con una finalidad diferente o en cantidades superiores a las autorizadas en los procesos de producción, elaboración, captación, tratamiento, transformación, conservación, envasado, almacenaje, transporte, distribución y venta de alimentos, bebidas y aguas de consumo.
+c) Preparar, distribuir, suministrar, promover o vender productos que contengan agentes físicos, químicos o biológicos no autorizados por la normativa vigente o en cantidades que superen los límites o la tolerancia establecidos reglamentariamente, o en una cantidad o unas condiciones suficientes para producir o transmitir enfermedades.
+d) Desviar para el consumo humano productos que no sean aptos o que se destinen específicamente a otros usos.
+e) Las que concurran con otras infracciones sanitarias graves o hayan servido para facilitarlas o encubrirlas.
+f) Las que producen un riesgo o un daño muy grave para la salud.
+g) Las que, pese a ser calificadas de leves o graves por la presente ley o por otras normas sanitarias, hayan producido riesgo o daños graves o muy graves en la salud de las personas.
+h) Reincidir en la comisión de infracciones graves en el periodo de los cinco años anteriores.
+i) Incumplir de forma reiterada requerimientos específicos que formulen las autoridades sanitarias o sus agentes, o incumplir un requerimiento si este incumplimiento ha comportado daños graves para la salud.
+
+### Artículo 71
+
+Artículo 71. Sanciones.
+1. Las infracciones en materia de salud pública se sancionan con las siguientes multas:
+a) Infracciones leves, hasta 3.000 euros.
+b) Infracciones graves, de 3.001 a 60.000 euros. El importe de las sanciones puede incrementarse hasta un importe que no debe superar el quíntuplo del valor de mercado de los productos o servicios objeto de la infracción.
+c) Infracciones muy graves, de 60.001 a 600.000 euros. El importe de las sanciones puede incrementarse hasta un importe que no debe superar el quíntuplo del valor de mercado de los productos o servicios objeto de la infracción.
+2. En el supuesto de infracciones muy graves, el Gobierno puede acordar el cierre temporal de la instalación, el establecimiento, el servicio o la industria por un plazo máximo de cinco años.
+3. El Gobierno puede revisar y actualizar periódicamente las cuantías de las sanciones, teniendo en cuenta, fundamentalmente, el índice de precios al consumo.
+4. La imposición de una sanción no es incompatible con la obligación del sujeto responsable de reponer la situación alterada a su estado originario ni con el pago de las correspondientes indemnizaciones.
+
+### Artículo 72
+
+Artículo 72. Graduación de las sanciones.
+Una vez calificadas las infracciones según la tipificación que hace la presente ley, debe imponerse la sanción en grado mínimo, medio o máximo, de acuerdo con los siguientes criterios:
+a) La negligencia e intencionalidad del sujeto infractor.
+b) El fraude.
+c) El riesgo para la salud.
+d) La cuantía del eventual beneficio obtenido.
+e) La gravedad de la alteración sanitaria y social producida.
+f) El incumplimiento de los requerimientos o advertencias previos por cualquier medio.
+g) La cifra de negocios de la empresa.
+h) El número de afectados.
+i) La duración de los riesgos.
+j) La existencia de reiteración o reincidencia.
+
+### Artículo 73
+
+Artículo 73. Concurrencia de sanciones.
+No pueden sancionarse los hechos que hayan sido sancionados penal o administrativamente en los casos en que se aprecie identidad de sujeto, hecho y fundamento.
+
+### Artículo 74
+
+Artículo 74. Responsabilidad.
+Son sujetos responsables las personas físicas o jurídicas que incurran en las acciones u omisiones tipificadas por el presente título como infracciones en materia de salud pública.
+
+### Artículo 75
+
+Artículo 75. Prescripción de las infracciones y de las sanciones.
+1. Las infracciones leves prescriben al cabo de un año; las graves, a los dos años, y las muy graves, a los cuatro años.
+2. El plazo de prescripción de las infracciones comienza a contar el día en que se ha cometido la infracción y se interrumpe con el inicio, con conocimiento de las personas interesadas, del procedimiento sancionador. Si el expediente permanece paralizado más de un mes por una causa inimputable al presunto responsable, se reanuda el cómputo del plazo. Si los actos u omisiones que constituyen una infracción administrativa son desconocidos por falta de firmas de manifestación externa, el plazo de prescripción comienza a contar el día en que estas firmas se manifiestan.
+3. Las sanciones impuestas por infracciones leves prescriben al cabo de un año; las impuestas por infracciones graves, a los dos años, y las impuestas por infracciones muy graves, a los tres años. El plazo de prescripción comienza a contar el día en que la resolución por la que se ha impuesto la sanción deviene firme, y se interrumpe con el inicio, con conocimiento de las personas interesadas, del procedimiento de ejecución. Si el expediente permanece paralizado más de un mes por una causa inimputable al infractor o infractora, se reanuda el cómputo del plazo.
+
+### Artículo 76
+
+Artículo 76. Procedimiento sancionador.
+1. El procedimiento sancionador en materia de salud pública debe ajustarse a las disposiciones legales y reglamentarias en materia de régimen jurídico y procedimiento administrativo para el ejercicio de la potestad sancionadora administrativa y a la normativa de desarrollo de la presente ley.
+2. El plazo para dictar y notificar la resolución de un expediente sancionador es de nueve meses.
+
+### Artículo 77
+
+Artículo 77. Órganos de la Generalidad competentes para imponer sanciones.
+En el ámbito de la Generalidad, el ejercicio de la potestad sancionadora que establece la presente ley, sin perjuicio de los regímenes sancionadores establecidos por la legislación sectorial, corresponde a los siguientes órganos:
+a) El Gobierno, para imponer las sanciones establecidas por la presente ley superiores a 450.000 euros.
+b) El consejero o consejera del departamento competente en materia de salud, para imponer las sanciones comprendidas entre 300.001 y 450.000 euros.
+c) El director o directora de la Agencia de Salud Pública de Cataluña, para imponer las sanciones comprendidas entre 100.001 y 300.000 euros.
+d) Los directores de los servicios regionales, en el ámbito territorial respectivo, para imponer sanciones de hasta 100.000 euros.
+Se modifica por la disposición final 5 de la Ley 5/2019, de 31 de julio. Ref. DOGC-f-2019-90528
+ Se mantiene la vigencia con rango reglamentario por el art. 163.5.f) de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se mantiene la vigencia con rango reglamentario por la disposición adicional 1.2 del Decreto-ley 5/2013, de 22 de octubre. Ref. BOE-A-2014-969.
+ Téngase en cuenta que, a causa de su no convalidación parlamentaria, este Decreto-ley queda derogado con fecha 9 de diciembre de 2013, por Resolución 477/X, de 13 de enero de 2014. Ref. DOGC-f-2014-90535 (DOGC núm. 6545, de 22 de enero de 2014)
+
+### Artículo 78
+
+Artículo 78. Competencias sancionadoras de los entes locales.
+1. Corresponde a los entes locales territoriales el ejercicio de la potestad sancionadora en el ámbito de las respectivas competencias, de acuerdo con los siguientes criterios:
+a) En el ámbito municipal, el alcalde es competente para imponer sanciones de hasta 100.000 euros, y el pleno de la corporación es competente para imponer sanciones de hasta 300.000 euros.
+b) En el ámbito comarcal, el presidente o presidenta del consejo comarcal es competente para imponer sanciones de hasta 100.000 euros, y el pleno del consejo comarcal es competente para imponer sanciones de hasta 300.000 euros.
+c) Los expedientes sancionadores incoados e instruidos por los entes locales de acuerdo con cuya propuesta de resolución corresponda imponer una sanción superior a 300.000 euros deben trasladarse al órgano competente en función de la cuantía para que los resuelva.
+2. Los entes locales pueden encargar a la Agencia de Salud Pública de Cataluña, mediante los convenios pertinentes, la gestión de la instrucción de expedientes sancionadores en el ámbito de sus competencias. La formalización de este encargo no altera, en ningún caso, la titularidad de la potestad sancionadora, que corresponde al órgano local competente en la materia.
+
+### Artículo 79
+
+Artículo 79. Competencias sancionadoras de la Agencia de Salud Pública y Medio Ambiente de Barcelona.
+1. El presidente o presidenta de la Agencia de Salud Pública y Medio Ambiente de Barcelona es competente para imponer sanciones de hasta 100.000 euros y la Junta de Gobierno de la Agencia de Salud Pública y Medio Ambiente es competente para imponer sanciones de hasta 300.000 euros.
+2. Los expedientes sancionadores incoados e instruidos por la Agencia de Salud Pública y Medio Ambiente de Barcelona en ejercicio de las funciones que la presente ley asigna a la Agencia de Salud Pública de Cataluña de acuerdo con cuya propuesta de resolución corresponda imponer una sanción superior a 300.000 euros deben trasladarse al órgano competente en función de la cuantía para que los resuelva.
+
+### Artículo 80
+
+Artículo 80. Competencias sancionadoras del Consejo General de Arán.
+1. El síndico o síndica del Consejo General de Arán es competente para imponer sanciones de hasta 300.000 euros, en ejercicio de las funciones que la presente ley asigna a la Agencia de Salud Pública de Cataluña.
+2. Los expedientes sancionadores incoados e instruidos por los órganos sanitarios del Consejo General de Arán en ejercicio de las funciones que la presente ley asigna a la Agencia de Salud Pública de Cataluña de acuerdo con cuya propuesta de resolución corresponda imponer una sanción superior a 300.000 euros deben trasladarse al órgano competente en función de la cuantía para que los resuelva.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Agencia de Salud Pública y Medio Ambiente de Barcelona.
+1. La Agencia de Salud Pública y Medio Ambiente de Barcelona asume las funciones de la Agencia de Salud Pública de Cataluña con relación a la ciudad de Barcelona.
+2. El Gobierno debe dictar las normas que hagan efectivo lo establecido por el apartado 1, especialmente con relación a la dotación de recursos materiales, humanos y económicos de la Agencia de Salud Pública y Medio Ambiente de Barcelona.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. El Consejo General de Arán.
+En el Valle de Arán, las funciones de salud pública, asumidas por la Agencia de Salud Pública de Cataluña, de acuerdo con la presente ley, son ejercidas por el Consejo General de Arán, en virtud del Decreto 354/2001, de 18 de diciembre, de transferencia de competencias de la Generalidad de Cataluña al Conselh Generau dera Val d'Aran en materia de sanidad, de acuerdo con la Ley 16/1990, de 13 de julio, sobre el régimen especial del Valle de Arán, o la disposición legal que la modifique o derogue.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Extensión del ámbito de actuación de los equipos territoriales de salud pública.
+(Derogada).
+Se deroga por el art. 42 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Compatibilidad del puesto de trabajo en la Agencia de Salud Pública de Cataluña con las funciones inherentes a la titularidad de una oficina de farmacia.
+Los funcionarios del Cuerpo de Farmacéuticos Titulares que, de acuerdo con lo establecido por la disposición transitoria tercera de la Ley 7/2003, de 25 de abril, de protección de la salud, opten por integrarse en la Agencia de Protección de la Salud, en el Cuerpo de Titulados Superiores de la Generalidad, Salud Pública, y el personal interino incluido en el ámbito de aplicación de la disposición transitoria novena de la Ley 7/2003, modificada por la Ley 8/2007, de 30 de julio, del Instituto Catalán de la Salud, que sean titulares de una oficina de farmacia pueden compatibilizar su puesto de trabajo en la Agencia de Salud Pública de Cataluña con las funciones inherentes a la titularidad de la oficina de farmacia, siempre y cuando garanticen la presencia y la actuación profesional de un farmacéutico colegiado o farmacéutica colegiada durante todo el horario de apertura del establecimiento farmacéutico, de acuerdo con lo establecido por el artículo 4 de la Ley 31/1991, de 13 de diciembre, de ordenación farmacéutica de Cataluña, y la normativa que la desarrolla.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Sustitución de la estructura y la organización territorial de la Agencia de Protección de la Salud.
+1. De acuerdo con lo establecido por la sección tercera del capítulo II del título III, la estructura y la organización territorial de la Agencia de Salud Pública de Cataluña está integrada por los servicios regionales y los sectores. Dichas estructura y organización sustituyen la estructura y la organización territorial de la Agencia de Protección de la Salud y se declaran definitivamente extinguidos los partidos médicos, farmacéuticos y veterinarios.
+2. El personal funcionario de los cuerpos de médicos, practicantes y farmacéuticos titulares que esté adscrito funcionalmente a la Agencia de Salud Pública de Cataluña cumple sus funciones en el ámbito territorial del sector, integrado en los equipos de salud pública.
+3. El personal funcionario de los cuerpos de médicos, practicantes y comadrones titulares que esté adscrito funcionalmente a las instituciones sanitarias del Instituto Catalán de la Salud cumple sus funciones en el ámbito territorial de la atención primaria o de la atención a la salud sexual y reproductiva, según proceda, de acuerdo con la estructura territorial propia del Instituto Catalán de la Salud.
+4. Las plazas de funcionarios de los cuerpos de médicos, farmacéuticos, practicantes y comadrones titulares deben amortizarse en el momento en que queden vacantes.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Supresión de las casas de socorro.
+Se suprimen las casas de socorro a que se refiere la disposición adicional tercera de la Ley 7/2003 y, en consecuencia, se amortizan automáticamente las plazas de funcionarios que están adscritas a estas.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Funciones de la Agencia de Protección de la Salud y de la Agencia Catalana de Seguridad Alimentaria.
+1. La Agencia de Salud Pública de Cataluña debe asumir sus funciones en un plazo de seis meses a contar de la entrada en vigor de sus estatutos.
+2. Los órganos y servicios correspondientes del departamento competente en materia de salud, de la Agencia de Protección de la Salud y de la Agencia Catalana de Seguridad Alimentaria deben continuar cumpliendo sus funciones mientras la Agencia de Salud Pública de Cataluña no asuma las funciones que la presente ley le encarga.
+3. En el momento en que la Agencia de Salud Pública de Cataluña asuma sus funciones, se extinguen la Agencia de Protección de la Salud, creada por la Ley 7/2003, y la Agencia Catalana de Seguridad Alimentaria, creada por la Ley 20/2002, de modo que la Agencia de Salud Pública de Cataluña se subroga en todos los derechos y deberes de las agencias extinguidas.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Adscripción de personal a la Agencia de Salud Pública de Cataluña.
+El personal funcionario, interino y laboral vinculado al departamento competente en materia de salud que cumpla funciones relacionadas con la salud pública o funciones coincidentes o vinculadas con las finalidades y los objetivos de la Agencia de Salud Pública de Cataluña, así como todo el personal de la Agencia de Protección de la Salud y de la Agencia Catalana de Seguridad Alimentaria, se adscriben a la Agencia de Salud Pública de Cataluña en las mismas condiciones que les son de aplicación en el momento de la entrada en vigor de la presente ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Procedimientos de la Ley 7/2003 con relación al personal que ejerce funciones en el ámbito de la salud pública.
+Las disposiciones transitorias de la Ley 7/2003, de protección de la salud, que han quedado excluidas del régimen de derogación, dado lo establecido por el apartado 1.c de la disposición derogatoria, continúan en vigor mientras no se agoten los procedimientos que regulan. En todos los casos, las referencias que estas disposiciones hacen a la Agencia de Protección de la Salud deben entenderse hechas a la Agencia de Salud Pública de Cataluña y deben aplicarse de acuerdo con las disposiciones de la presente ley.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Se derogan:
+a) Los artículos 27, 28, 29, 30, 31 y 32 de la Ley 15/1983, de 14 de julio, de la higiene y el control alimentarios.
+b) La Ley 20/2002, de 5 de julio, de seguridad alimentaria.
+c) La Ley 7/2003, de 25 de abril, de protección de la salud, salvo las disposiciones transitorias primera, segunda, octava y novena, en la redacción establecida por la disposición final primera de la Ley 8/2007, de 30 de julio, del Instituto Catalán de la Salud; las disposiciones transitorias tercera y séptima, la cual ha sido modificada por la presente ley, y la disposición transitoria segunda, modificada por la Ley 8/2007 y por la presente ley.
+2. Quedan derogadas todas las normas que se opongan a lo establecido por la presente ley, sin perjuicio de la vigencia de las siguientes disposiciones, cuya relación se hace a título enunciativo, o de las que las modifican o sustituyen, siempre y cuando no contradigan la presente ley y mientras no se aprueben las normas de desarrollo aplicables:
+a) El Decreto 272/2003, de 4 de noviembre, por el que se regulan en el ámbito del Departamento de Sanidad y Seguridad Social los órganos temporalmente competentes para imponer sanciones y los órganos competentes para adoptar medidas cautelares previstas en la Ley 7/2003, de 25 de abril, de protección de la salud, salvo el artículo 2, que continúa vigente mientras no se apruebe el reglamento establecido por el artículo 63.5 de la presente ley.
+b) El Decreto 128/2006, de 9 de mayo, por el que se aprueba el Estatuto de la Agencia de Protección de la Salud.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 20/1985.
+1. Se modifica el apartado 2 del artículo 15 de la Ley 20/1985, de 25 de julio, de prevención y asistencia en materia de sustancias que pueden generar dependencia, ya modificado por la Ley 10/1991, y se añade un apartado, el 3. Estos apartados quedan redactados del siguiente modo:
+«2. Se prohíbe la promoción de bebidas alcohólicas en establecimientos, locales y demás espacios autorizados para su suministro y consumo hecha mediante ofertas promocionales, premios, intercambios, sorteos, concursos, fiestas promocionales o rebajas de precios, que incluyen las ofertas que se anuncian con nombres como “barra libre”, “2 x 1”, “3 x 1” u otros parecidos.
+3. Se prohíbe la publicidad de las actividades promocionales a que se refiere el apartado 2 hecha por cualquier medio.»
+2. Se modifica el apartado 3 del artículo 48 de la Ley 20/1985, ya modificado por el artículo 18 de la Ley 10/1991, que queda redactado del siguiente modo:
+«3. Una vez transcurridos doce meses desde el acuerdo de incoación del procedimiento sancionador sin que se haya notificado la resolución, este procedimiento caduca, excepto en el caso de los procedimientos sancionadores abreviados, en que el plazo de caducidad es de seis meses.»
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación de la Ley 15/1990.
+Se modifica el apartado 3 del artículo 62 de la Ley 15/1990, de 9 de julio, de ordenación sanitaria de Cataluña, que queda redactado del siguiente modo:
+«3. El Plan de salud de Cataluña tiene un periodo de vigencia de cinco años.»
+
+### Disposición final tercera
+
+Disposición final tercera. Modificación de la Ley 7/2003.
+1. Se modifica la letra c de la disposición transitoria segunda de la Ley 7/2003, de 25 de abril, de protección de la salud, ya modificada por el apartado 2 de la disposición final primera de la Ley 8/2007, que queda redactada del siguiente modo:
+«c) Continuar cumpliendo las tareas propias de protección de la salud y ejercer las funciones asistenciales en el ámbito de la atención primaria. En cuanto a las tareas de protección de la salud, este personal queda adscrito funcionalmente a la Agencia de Protección de la Salud. Debe establecerse reglamentariamente el régimen de dedicación horaria a estas tareas, al margen de las previsiones establecidas con carácter general para las actividades inherentes a los equipos de atención primaria. Este personal debe continuar percibiendo las retribuciones que acreditaba hasta el momento de ejercer este derecho de opción.»
+2. Se modifica la disposición transitoria séptima de la Ley 7/2003, que queda redactada del siguiente modo:
+«1. Los funcionarios del Cuerpo de Comadrones Titulares deben optar por una de las siguientes alternativas:
+a) lntegrarse como personal estatutario de las instituciones sanitarias del Instituto Catalán de la Salud en la categoría de comadrón o comadrona, sujetándose al régimen jurídico que establezcan las normas vigentes en cada momento para los profesionales que prestan servicio como personal estatutario de los servicios de salud, ejerciendo las funciones que ejercían en el ámbito territorial propio de la atención a la salud sexual y reproductiva del Instituto Catalán de la Salud al que estaban adscritos. Este personal debe permanecer en la situación administrativa que legalmente corresponda con relación a su cuerpo de origen por razón de la integración voluntaria a que se refiere el presente apartado y debe percibir las retribuciones que le correspondan como personal estatutario, sin perjuicio de la percepción de un complemento personal, transitorio y absorbible, por la diferencia que se produzca si, en ocasión del ejercicio de este derecho de opción, se acredita una reducción de las retribuciones anuales.
+b) Continuar como funcionarios del Cuerpo de Comadrones Titulares ejerciendo las funciones que ejercían en el ámbito territorial propio de la atención a la salud sexual y reproductiva del Instituto Catalán de la Salud al que estaban adscritos. Este personal queda adscrito funcionalmente al Instituto Catalán de la Salud y debe continuar percibiendo las retribuciones que acreditaba en el momento de ejercer este derecho de opción.
+2. Debe establecerse el procedimiento para el ejercicio del derecho de opción a que se refiere el apartado 1 mediante una orden del consejero o consejera del departamento competente en materia de salud.
+3. Si las personas interesadas no manifiestan la opción escogida en los plazos fijados por el procedimiento establecido a tal efecto, se entiende que optan por la de la letra 1.b.
+4. Si se opta por la opción de la letra 1.a, la opción ejercida es irreversible.»
+
+### Disposición final cuarta
+
+Disposición final cuarta. Desarrollo reglamentario.
+1. El Gobierno, en el plazo de seis meses a contar de la entrada en vigor de la presente ley y en el marco de lo que esta establece, debe aprobar los Estatutos de la Agencia de Salud Pública de Cataluña, a propuesta del consejero o consejera del departamento al que está adscrita la Agencia. Los Estatutos deben regular la organización y el régimen de funcionamiento de la Agencia.
+2. El Gobierno debe aprobar el decreto de adaptación de la estructura de los servicios centrales y territoriales del departamento competente en materia de salud a lo establecido por la presente ley.
+3. El Gobierno debe adoptar las medidas pertinentes para homogeneizar las condiciones de trabajo entre los colectivos y las categorías profesionales diversas que integran la Agencia de Salud Pública de Cataluña, con motivo de la adscripción que debe producirse en virtud de lo establecido por la disposición transitoria segunda.
+4. Se autoriza al Gobierno para que dicte el resto de disposiciones necesarias para la aplicación y el desarrollo de la presente ley.
+
+### Disposición final quinta
+
+Disposición final quinta. Entrada en vigor.
+La presente ley entra en vigor al día siguiente de su publicación en el Diari Oficial de la Generalitat de Catalunya.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 22 de octubre de 2009.–El Presidente de la Generalidad de Cataluña, José Montilla i Aguilera.–La Consejera de Salud, Marina Geli i Fàbrega.

@@ -1,0 +1,1090 @@
+# Ley 4/2007, de 20 de abril, de coordinación de policías locales.
+
+- Identificador BOE: `BOE-A-2007-11323`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-11323
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+1
+La Constitución española, dentro del espíritu descentralizador que la inspira y que contempla su título VIII, en su artículo 148.1.22.ª determina, como una de las competencias que podrán asumir las comunidades autónomas, la coordinación y demás facultades relacionadas con las policías locales, en los términos que establezca una ley orgánica.
+La Ley orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad, promulgada a raíz del mandato constitucional, señala que corresponde a las comunidades autónomas, con arreglo a la misma ley y la de régimen local, coordinar las actuaciones de las policías locales dentro de su ámbito territorial.
+Con tal motivo se promulgó la Ley 3/1992, de 23 de marzo, de coordinación de las policías locales de Galicia, que tenía como objetivo la coordinación de las policías locales de su territorio, en los términos establecidos en el artículo 39 de la anterior ley orgánica.
+Sin duda, la evolución de los cuerpos de Policía local en Galicia corre pareja a la de las propias administraciones locales de que dependen, ya que los municipios desarrollan un importante papel en la vida del país gallego. Buen ejemplo de ello es que asumen un protagonismo cada vez más relevante en la lucha contra lo que podemos llamar la «delincuencia de proximidad». Así, nuestros ayuntamientos han ido adquiriendo, durante estos años, cada vez más competencias y responsabilidades, circunstancia en la que ha influido, además de otros factores, su condición de administración más próxima al ciudadano, y de la que la Policía local es un buen ejemplo.
+A partir de unos cuerpos de Policía local muchas veces reducidos y dedicados a tareas de carácter muy básico se ha ido evolucionando a plantillas de personal cada vez más completas, profesionalizadas y preparadas para atender a un creciente número de actuaciones, que ya poco tienen que ver con los tradicionales cometidos y que, en muchas ocasiones, implican una considerable complejidad.
+Así, los municipios gallegos han sido plenamente conscientes de esta evolución y de la necesidad de dar los pasos necesarios para adaptarse a la misma, dedicando cada vez un mayor número de recursos para proporcionar a sus vecinos un servicio de policía que, sin dejar de ser próximo, gane cada día en eficacia y eficiencia.
+En ello ha colaborado, sin duda, el intenso esfuerzo formativo llevado a cabo por la Academia Gallega de Seguridad Pública, que se une a la apuesta que también hace la Xunta de Galicia por la definitiva consolidación de este avance, mediante el impulso de un nuevo texto legal que, sirviendo de marco a un posterior desarrollo reglamentario, satisfaga las demandas de una seguridad pública municipal preparada para responder con garantías a las específicas condiciones de los municipios gallegos.
+2
+La ley se estructura en siete títulos, que tienen el siguiente contenido: título I: objeto y ámbito de aplicación de la ley; título II: de los cuerpos de la Policía local; título III: de la coordinación de las policías locales; título IV: de la creación, estructura y organización; título V: de la selección, promoción, movilidad y formación; título VI: del régimen estatutario; título VII: del régimen disciplinario; y título VIII: de los vigilantes municipales y auxiliares de la Policía local.
+El título I contiene el objeto de la ley y su ámbito de aplicación.
+El título II trata de los cuerpos de Policía local, y se divide en tres capítulos: el capítulo I define la finalidad, naturaleza y ámbito de actuación de los cuerpos de Policía local; el capítulo II contempla los principios y funciones propias; y el capítulo III trata de la uniformidad, la acreditación y los medios técnicos de que dispondrán los miembros de los cuerpos.
+El título III regula la coordinación de las policías locales.
+El título IV se refiere a la creación, estructura y organización, estableciendo cuatro escalas: superior, que comprende la categoría de superintendente; técnica, con las categorías de intendente principal e intendente; ejecutiva, con las categorías de inspector principal e inspector; y básica, con las categorías de oficial y policía.
+El título V regula la selección, promoción, movilidad y formación de los cuerpos de la Policía local y consta de dos capítulos: el capítulo I se dedica al ingreso, promoción y movilidad, y el capítulo II, a la formación.
+El título VI regula el régimen estatutario de los miembros de la Policía local de la Comunidad Autónoma de Galicia. Se divide, a su vez, en cinco capítulos: el capítulo I regula los derechos y deberes de los miembros de los cuerpos de la Policía local; el capítulo II se refiere a la jubilación y situaciones administrativas; el capítulo III regula una de estas situaciones, la denominada segunda actividad, que tiene por objeto garantizar una adecuada y permanente aptitud psicofísica de los integrantes de los cuerpos para el desempeño eficaz de sus funciones; y el capítulo IV se refiere a distinciones y recompensas.
+El título VII regula el régimen disciplinario.
+El título VIII se refiere a los vigilantes municipales y a los auxiliares de la Policía local.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.2.º del Estatuto de Galicia y con el artículo 24 de la Ley 1/1983, de 23 de febrero, reguladora de la Xunta y de su presidente, promulgo en nombre del Rey, la Ley de coordinación de policías locales.
+
+## TÍTULO I
+
+Objeto y ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Objeto.
+El objeto de la presente ley es regular la coordinación de las policías locales en el ámbito territorial de la Comunidad Autónoma de Galicia, sin perjuicio de su dependencia de las autoridades municipales, de conformidad con lo dispuesto en la legislación orgánica de fuerzas y cuerpos de seguridad, y con pleno respeto al principio de autonomía municipal.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. La presente ley es de aplicación a los cuerpos de Policía local de los diferentes municipios de la Comunidad Autónoma de Galicia y a su personal.
+2. En los municipios donde no exista cuerpo de Policía local, la coordinación se extenderá al personal que realice funciones propias de auxiliar de Policía local, que, a partir de la entrada en vigor de la presente ley, pasan a denominarse vigilantes municipales.
+
+### Artículo 3
+
+Artículo 3. Formación.
+Constituyen objetivos básicos de la coordinación la formación homogénea y el adecuado perfeccionamiento de los miembros de los cuerpos de Policía local y de los vigilantes municipales.
+
+## TÍTULO II
+
+De los cuerpos de la Policía local
+
+## CAPÍTULO I
+
+Finalidad, naturaleza y ámbito de actuación
+
+### Artículo 4
+
+Artículo 4. Finalidad.
+En el ejercicio de las competencias que corresponden a los ayuntamientos, los cuerpos de Policía local protegerán el libre ejercicio de los derechos y libertades y contribuirán a garantizar la seguridad ciudadana y la consecución del bienestar social, cooperando con otros agentes sociales, especialmente en los ámbitos preventivo, asistencial y de rehabilitación.
+
+### Artículo 5
+
+Artículo 5. Naturaleza jurídica y denominación.
+1. Los cuerpos de Policía local son institutos armados de naturaleza civil, con estructura y organización jerarquizada bajo la superior autoridad y dependencia directa del alcalde respectivo, o del concejal en que éste delegue.
+2. En los municipios en que existan policías locales, éstos se integrarán en un cuerpo propio y único, con la denominación genérica de cuerpo de Policía local. Sus dependencias se denominarán Jefatura de la Policía local.
+3. El mando inmediato y operativo de la Policía local corresponde al jefe del cuerpo.
+4. En el ejercicio de sus funciones, los miembros de los cuerpos de Policía local tienen, a todos los efectos legales, el carácter de agentes de la autoridad.
+5. Los policías locales son funcionarios de carrera de los respectivos ayuntamientos. Queda expresamente prohibida cualquier otra relación de prestación de servicios con la Administración local, salvo lo dispuesto para la contratación de auxiliares de Policía local en los términos contemplados en el artículo 95 de la presente ley.
+6. Los ayuntamientos habrán de ejercer directamente las funciones en el ejercicio de sus competencias en materia de mantenimiento de la seguridad, sin que puedan constituir entidades ni órganos especiales de administración o gestión, ni quepa, en ningún caso, la prestación del servicio mediante sistemas de gestión indirecta.
+
+### Artículo 6
+
+Artículo 6. Ámbito territorial de actuación.
+1. Los cuerpos de Policía local actuarán en el ámbito territorial de sus municipios. No obstante, sus miembros podrán actuar fuera de su término municipal cuando sean requeridos por la autoridad competente en situaciones de emergencia y previa autorización de los respectivos alcaldes. En estos casos, actuarán bajo la dependencia del alcalde del ayuntamiento que los requiera, y bajo el mandato del jefe del cuerpo de este municipio, sin perjuicio de las tareas de coordinación que correspondan a la consejería competente en materia de coordinación de policías locales y emergencias.
+2. Cuando ejerzan funciones de protección de autoridades de las corporaciones locales, podrán actuar fuera del término municipal según lo dispuesto en la legislación vigente.
+3. Eventualmente, cuando por la insuficiencia temporal de los servicios sea necesario reforzar la plantilla de personal del cuerpo de Policía local de algún ayuntamiento, su alcalde podrá llegar a acuerdos con otros ayuntamientos para que miembros de la Policía de estos últimos puedan actuar en el ámbito territorial del solicitante, por tiempo determinado y, si fuera preciso, en régimen de comisión de servicio, aceptado voluntariamente por el funcionario.
+4. A los efectos previstos en los apartados anteriores, podrá instarse la colaboración de la consejería competente en materia de seguridad, a la que, en todo caso, se dará cuenta de los acuerdos adoptados por los ayuntamientos, para su anotación en el Registro de Policías Locales de Galicia.
+
+## CAPÍTULO II
+
+Principios y funciones
+
+### Artículo 7
+
+Artículo 7. Principios básicos de actuación.
+Son principios básicos de actuación para los miembros de los cuerpos de Policía local, de acuerdo con el artículo 5 de la Ley orgánica 2/1986:
+a) Adecuación al ordenamiento jurídico, especialmente:
+1.º Ejercer sus funciones con absoluto respeto a la Constitución, al Estatuto de autonomía y al resto del ordenamiento jurídico.
+2.º Actuar, en el cumplimiento de sus funciones, con absoluta neutralidad política e imparcialidad y, en consecuencia, sin discriminación alguna por razón de raza, etnia, nacionalidad, ideología, religión o creencias personales, opinión, sexo, orientación sexual, lengua, lugar de vecindad, lugar de nacimiento o cualquier otra condición o circunstancia personal o social.
+3.º Actuar con integridad y dignidad, absteniéndose de todo acto de corrupción y oponiéndose a él resueltamente.
+4.º Sujetarse, en su actuación profesional, a los principios de jerarquía y subordinación. En ningún caso la obediencia debida podrá amparar órdenes que entrañen la ejecución de actos que manifiestamente constituyan delitos o sean contrarios a la Constitución o a las leyes.
+5.º Colaborarán con la Administración de justicia y la auxiliarán en los términos establecidos en la ley.
+b) En relación con la sociedad, singularmente:
+1.º Impedir, en el ejercicio de su actuación profesional, cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral, con especial atención a las derivadas de las desigualdades por razón de género.
+2.º Observar en todo momento un trato correcto y esmerado en sus relaciones con los ciudadanos, a los cuales procurarán auxiliar y proteger, siempre que las circunstancias lo aconsejen o fuesen requeridos para ello, en especial en todos los supuestos y manifestaciones de violencia de género, y proporcionarles información cumplida, y tan amplia como sea posible, sobre las causas y finalidad de todas sus intervenciones.
+3.º En el ejercicio de sus funciones, actuar con la decisión necesaria y sin demora cuando de ello dependa evitar un daño grave, inmediato o irreparable, rigiéndose, al hacerlo, por los principios de congruencia, oportunidad y proporcionalidad en la utilización de los medios a su alcance.
+4.º Usar armas solamente en las situaciones en que exista un riesgo racionalmente grave para su vida, su integridad física o las de terceras personas, o en aquellas circunstancias que puedan suponer un grave riesgo para la seguridad ciudadana, rigiéndose, al hacerlo, por los principios a que se refiere el apartado 3.º de esta letra.
+c) En relación con el tratamiento de detenidos, especialmente:
+1.º Los miembros de los cuerpos de la Policía local de la Comunidad Autónoma de Galicia deberán identificarse debidamente como tales en el momento de efectuar una detención.
+2.º Velarán por la vida y la integridad física de las personas a quienes detuviesen o que se encuentren bajo su custodia, respetando sus derechos, su honor y su dignidad.
+3.º Cumplirán y observarán con la debida diligencia los trámites, plazos y requisitos exigidos por el ordenamiento jurídico, cuando se proceda a la detención de una persona.
+d) En cuanto a la dedicación profesional, el deber de realizar sus funciones con total dedicación. Intervendrán siempre, en cualquier tiempo y lugar, estén o no de servicio, en defensa de la ley y la seguridad ciudadana.
+e) En relación con el secreto profesional, el deber de guardar riguroso secreto respecto a todas las informaciones que conozcan por razón o con ocasión del desempeño de sus funciones. No estarán obligados a revelar las fuentes de información, salvo que se lo imponga el ejercicio de sus funciones o las disposiciones legales.
+f) Respecto a la responsabilidad, serán responsables, personal y directamente, por los actos que en su actuación profesional llevasen a cabo infringiendo o vulnerando las normas legales o reglamentarias y los principios enunciados anteriormente, sin perjuicio de la responsabilidad patrimonial que pueda corresponder a las administraciones públicas de que dependan.
+
+### Artículo 8
+
+Artículo 8. Funciones de los cuerpos de Policía local.
+1. De acuerdo con lo dispuesto en el artículo 53 de la Ley de fuerzas y cuerpos de seguridad, son funciones de los cuerpos de la Policía local las que se indican:
+a) Proteger a las autoridades de las corporaciones locales y vigilar o custodiar sus edificios e instalaciones.
+b) Ordenar, regular, señalizar, denunciar infracciones y dirigir el tráfico en el ámbito de su competencia en el suelo urbano legalmente delimitado, de acuerdo con lo establecido en las normas de tráfico y seguridad viaria.
+c) Instruir atestados por accidentes de circulación en el ámbito de su competencia dentro del suelo urbano legalmente delimitado.
+d) Policía administrativa, en lo relativo a las ordenanzas, bandos y demás disposiciones municipales dentro del ámbito de su competencia.
+e) Participar en las funciones de la Policía judicial, en la forma establecida en la normativa vigente.
+f) La prestación de auxilio, en los casos de accidentes, catástrofe o calamidad pública, participando, en la forma prevista en las leyes, en cuanto a la ejecución de los planes de protección civil.
+g) Efectuar diligencias de prevención y cuantas actuaciones tiendan a evitar la comisión de actos delictivos en el marco de colaboración establecido en las juntas de seguridad.
+h) Vigilar los espacios públicos y colaborar con las fuerzas y cuerpos de seguridad del Estado y con la Policía de Galicia en la protección de las manifestaciones y el mantenimiento del orden en grandes concentraciones humanas, cuando sean requeridos para ello.
+i) Cooperar en la resolución de los conflictos privados cuando sean requeridos para ello.
+j) Cualesquiera otras funciones en materia de seguridad pública que, de acuerdo con la legislación vigente, les sean encomendadas.
+2. Las actuaciones que practiquen los cuerpos de Policía local en el ejercicio de las funciones contempladas en los apartados c) y g) deberán ser comunicadas a las fuerzas y cuerpos de seguridad del Estado y a la Policía de Galicia según corresponda, de conformidad con la legislación orgánica de fuerzas y cuerpos de seguridad.
+3. En virtud de convenio entre la Xunta de Galicia y los ayuntamientos, en el marco de las competencias de la Policía de Galicia, los cuerpos de Policía local también podrán ejercer, dentro de su término municipal, las siguientes funciones:
+a) Velar por el cumplimento de las disposiciones y órdenes singulares dictadas por los órganos de la comunidad autónoma, con especial atención a las materias relativas a la protección del menor, el medio ambiente, la salud y la mujer, sobre todo en el ámbito de la violencia de género.
+b) La vigilancia y protección de personas, órganos, edificios, establecimientos y dependencias de la comunidad autónoma y de sus entes instrumentales, garantizando el normal funcionamiento de las instalaciones y la seguridad de los usuarios de los servicios.
+c) La inspección de las actividades sometidas a la ordenación y disciplina de la comunidad autónoma, denunciando toda actividad ilícita.
+d) El uso de la coacción para la ejecución forzosa de los actos o disposiciones de la propia comunidad autónoma.
+
+## CAPÍTULO III
+
+Uniformidad, acreditación y medios técnicos
+
+### Artículo 9
+
+Artículo 9. Uniformidad.
+1. La uniformidad será común para todos los cuerpos de Policía local de Galicia e incorporará preceptivamente el escudo de Galicia, el del ayuntamiento respectivo y el número de identificación profesional del funcionario.
+2. Todos los miembros de los cuerpos de Policía local vestirán el uniforme reglamentario cuando estén de servicio, salvo en los casos de dispensa previstos en la Ley orgánica de cuerpos y fuerzas de seguridad y en aquellos casos excepcionales en que por órgano competente se autorice en contrario. En este supuesto deberán identificarse con el documento de acreditación profesional.
+3. El uso del uniforme y del material complementario está prohibido cuando se encuentren fuera de servicio, salvo en los casos excepcionales que, legal o reglamentariamente, se establezcan.
+4. Reglamentariamente se establecerán las prendas que constituyen el uniforme necesario para el desempeño de las diferentes funciones.
+5. Ningún Policía local uniformado podrá exhibir públicamente otros distintivos que no sean los fijados reglamentariamente.
+6. Para ocasiones especiales, cuando sea necesario por motivos de protocolo, representación o solemnidad, los miembros de los cuerpos de la Policía local podrán vestir el uniforme de gala que se determine reglamentariamente.
+
+### Artículo 10
+
+Artículo 10. Acreditación profesional.
+1. La acreditación profesional será común para todos los cuerpos y se establecerá reglamentariamente.
+2. Todos los miembros de los cuerpos de Policía local de Galicia estarán provistos del documento de acreditación profesional y la placa-emblema, que expedirá el ayuntamiento respectivo, según modelo homologado por la Xunta de Galicia, previo informe de la Comisión de Coordinación de las Policías Locales.
+En este documento constará al menos el nombre del ayuntamiento, el nombre y los apellidos y la fotografía del funcionario, su categoría, el número de identificación profesional, que será el mismo de la placa-emblema, y el número del documento nacional de identidad, firmado por el alcalde respectivo y con el sello del ayuntamiento.
+3. Tendrán la obligación de identificarse ante los ciudadanos o ciudadanas que así lo exijan, en caso de las actuaciones que les afectasen, directa o indirectamente.
+
+### Artículo 11
+
+Artículo 11. Medios técnicos.
+1. Los medios técnicos son los elementos, aparatos y sistemas que los cuerpos de la Policía local utilizan para poder cumplir con sus obligaciones. Las administraciones locales competentes tienen la obligación de proporcionárselos. Estos medios técnicos serán homogéneos para todos los cuerpos, según se establezca legal y reglamentariamente.
+2. Los policías locales, como integrantes de un instituto armado, llevarán el armamento reglamentario que se les asigne, de acuerdo con la normativa vigente en materia de armamento.
+3. El alcalde podrá decidir, de forma motivada, los servicios que se presten sin armas, siempre que no conlleven un riesgo racionalmente grave para la vida o la integridad física del funcionario o de terceras personas. No obstante, los servicios en la vía pública y los de custodia se prestarán siempre con armas.
+4. A estos efectos, los ayuntamientos que lo deseen podrán asociarse para construir y equipar una galería de tiro, a fin de hacer un uso conjunto de la misma.
+5. Los ayuntamientos habrán de disponer de lugares adecuados para la custodia del armamento asignado, con las condiciones que prevea la normativa aplicable. Los miembros de los cuerpos de Policía local, bajo su responsabilidad, podrán custodiar el armamento asignado.
+6. Los vigilantes municipales y los auxiliares de policía no podrán llevar armas.
+Se modifica el apartado 4 por el art. único.1 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+## TÍTULO III
+
+De la coordinación de las policías locales
+
+### Artículo 12
+
+Artículo 12. Concepto.
+1. A los efectos de la presente ley, se entiende por coordinación el conjunto de técnicas y medidas que posibiliten la unificación de los criterios de organización y actuación, la formación y perfeccionamiento uniforme del personal y la homogeneización de los recursos técnicos y materiales a su disposición, así como el establecimiento de información recíproca, asesoramiento y colaboración. Dichas técnicas y medidas irán dirigidas a obtener el funcionamiento homogéneo e integrado de los cuerpos de Policía local de Galicia, en orden a alcanzar una acción conjunta y eficaz en el sistema de seguridad pública.
+2. En los ayuntamientos donde no exista cuerpo de Policía local, la coordinación se hará extensiva a los vigilantes municipales.
+
+### Artículo 13
+
+Artículo 13. Funciones en materia de coordinación.
+La coordinación de la actuación de las policías locales de Galicia se hará respetando la autonomía local reconocida por la Constitución, así como las competencias estatales en materia de seguridad, y comprenderá el ejercicio de las siguientes funciones:
+a) Determinar las normas marco o criterios generales a que tendrán que ajustarse los reglamentos de las policías locales de Galicia.
+b) Establecer la homogeneización en materia de medios técnicos y de los distintivos externos de identificación y uniformidad, respetando en todo caso los emblemas propios de cada entidad local.
+c) Propiciar la homogeneización en materia de retribuciones.
+d) Fijar los criterios básicos de selección, formación, promoción y movilidad de los miembros de los cuerpos de las policías locales, atendiendo a lo dispuesto en el capítulo I, título II (sobre el acceso al empleo público gallego), de la Ley 7/2004, de 16 de julio, gallega para la igualdad de mujeres y hombres.
+e) Coordinar la formación profesional de los policías lo-cales, a través de la Academia Gallega de Seguridad Pública.
+f) Propiciar la homogeneización de la estructura, plantillas de personal, organización y funcionamiento de los cuerpos de la Policía local.
+g) Fijar el régimen jurídico (derechos, deberes y régimen disciplinario) de los miembros de los cuerpos de Policía local en el marco de la normativa aplicable.
+h) Proporcionar a los ayuntamientos que lo soliciten la información y asesoramiento necesarios en materia de seguridad pública.
+i) Disponer los instrumentos y medios materiales que posibiliten un sistema de información recíproca y de actuación conjunta y coordinada, en los términos que reglamentariamente se establezcan.
+j) Disponer los medios de información necesarios para garantizar la efectividad de la coordinación, mediante el establecimiento de una red de transmisiones que enlace los diferentes cuerpos de la Policía local y mediante la creación de un centro de coordinación y de un banco de datos, en los términos que reglamentariamente se establezcan.
+k) Regular la colaboración eventual entre los diversos ayuntamientos al objeto de atender sus necesidades en situaciones especiales o extraordinarias.
+l) Establecer planes conjuntos de actuación policial en previsión de circunstancias extraordinarias que así lo requieran.
+m) Cualesquiera otras que legalmente se les encomienden.
+
+### Artículo 14
+
+Artículo 14. Órganos de coordinación.
+1. Las competencias en materia de coordinación de las policías locales se ejercerán por:
+a) El Consello de la Xunta de Galicia.
+b) La consejería competente en materia de seguridad.
+c) La Comisión de Coordinación de las Policías Locales de Galicia.
+2. Sin perjuicio de los órganos citados, podrán constituirse otros con carácter asesor, de preparación o de ejecución de los trabajos que por éstos les sean encomendados.
+3. Las funciones a que se refiere la presente ley se realizarán, en todo caso, teniendo en cuenta las normas y procedimientos de colaboración entre las fuerzas y cuerpos de seguridad que se adopten en el seno de los distintos órganos de coordinación, en especial en las juntas locales de seguridad.
+
+### Artículo 15
+
+Artículo 15. Competencias del Consello de la Xunta de Galicia.
+Corresponde al Consello de la Xunta de Galicia, a propuesta de la consejería competente en materia de seguridad, dictar las normas generales de coordinación en el marco de la presente ley, previo informe de la Comisión de Coordinación de las Policías Locales de la Comunidad Autónoma de Galicia.
+
+### Artículo 16
+
+Artículo 16. Competencias de la consejería competente en materia de seguridad.
+Corresponde a la consejería competente en materia de seguridad:
+a) Establecer las medidas de control y seguimiento necesarias para garantizar que los ayuntamientos apliquen las normas de coordinación, así como determinar el sistema de información que asegure la efectividad de las mismas.
+b) Aprobar la programación de los cursos básicos, de promoción interna y de formación que se desarrollen en la Academia Gallega de Seguridad Pública.
+c) Prestar a los ayuntamientos la asistencia necesaria para la elaboración de los planes municipales de seguridad, cuando le sea solicitada por éstos.
+
+### Artículo 17
+
+Artículo 17. Competencias de la Comisión de Coordinación de las Policías Locales.
+1. La Comisión de Coordinación de las Policías Locales, como órgano consultivo y de participación en materia de coordinación, tendrá, entre otras, las siguientes funciones, que tienen carácter no vinculante para los órganos de resolución, excepto en los casos en que la legislación aplicable lo contemple expresamente:
+a) Emitir informe sobre los proyectos de disposiciones generales que, en materia de policía local, dicten los distintos órganos de la Xunta de Galicia y las corporaciones locales.
+b) Proponer a los órganos competentes en materia de Policía local de las distintas administraciones públicas la adopción de cuantas medidas estime oportunas para mejorar la prestación de los servicios policiales, la formación y el perfeccionamiento uniforme del personal y la homogeneización de los recursos técnicos y materiales a su disposición.
+c) Emitir informe sobre la homogeneización en materia de medios técnicos y distintivos externos de identificación y uniformidad.
+d) Emitir informe sobre criterios básicos de selección, formación, promoción y movilidad de los miembros de las policías locales, atendiendo a lo dispuesto en el capítulo I, título II, de la Ley 7/2004.
+e) Emitir informes sobre materias de retribución económica y homogeneización de retribuciones.
+f) Asesorar a la consejería competente en las materias objeto de coordinación de la presente ley, con los informes técnicos que le solicite, sobre la estructura, organización, funcionamiento y medios técnicos de la Policía local, o sobre cualquier otra materia relacionada.
+g) Emitir informe sobre la programación y homologación de los cursos básicos, de promoción interna y de formación que se realicen en la Academia Gallega de Seguridad Pública, a los efectos de la oportuna aprobación por la consejería competente.
+h) Emitir informe sobre los planes municipales de seguridad pública.
+i) Las demás que le atribuyan las disposiciones vigentes.
+2. Los informes a que se refiere el apartado anterior de este artículo no tendrán carácter vinculante para los órganos de resolución, salvo en los casos en que la legislación aplicable lo contemple expresamente.
+
+### Artículo 18
+
+Artículo 18. Composición de la Comisión de Coordinación.
+1. La Comisión de Coordinación de las Policías Locales de Galicia, adscrita a la consejería competente en materia de seguridad, estará constituida por los siguientes miembros:
+a) Presidente: el/la conselleiro/a competente en materia de seguridad.
+b) Vicepresidente: el/la director/a general con competencia en materia de seguridad.
+c) Vocales:
+1.º Cinco representantes de la Xunta de Galicia, designados por el conselleiro competente en materia de seguridad.
+2.º Cinco representantes de los ayuntamientos de más de 50.000 habitantes.
+3.º Cinco representantes de los ayuntamientos de menos de 50.000 habitantes.
+Los representantes de los ayuntamientos serán designados por la federación o federaciones de ayuntamientos gallegos legalmente constituidas.
+4.º Cuatro representantes de los miembros de los cuerpos de las policías locales designados por los sindicatos más representativos en el sector de la Administración local en el ámbito de la Comunidad Autónoma gallega.
+5.º Un representante de los miembros de los cuerpos de las policías locales designado por la asociación profesional de jefes de los cuerpos de Policía local que ostente la mayor representación de ellos.
+6.º Un representante designado por la asociación profesional de Policía local que acredite la mayor representación del personal funcionario de los cuerpos de Policía local.
+d) Secretario: un funcionario de la consejería competente en materia de seguridad, con categoría mínima de jefe de servicio, que actuará con voz pero sin voto.
+2. El presidente de la comisión podrá convocar, con voz y sin voto, a las reuniones de dicha comisión a representantes de otras administraciones públicas, a los efectos de facilitar las acciones de coordinación, así como a técnicos especialistas o asesores.
+3. La condición de los vocales representantes de los ayuntamientos y de los sindicatos policiales estará ligada a la representatividad que se ostente, perdiéndose al desaparecer ésta, por lo que deberán ser designados nuevamente después de cada proceso electoral, en función de los resultados. Esta circunstancia se notificará, en el plazo de un mes, al presidente de la comisión, sin perjuicio de que pueda proponerse su sustitución en otro momento y por otras razones.
+Se añade el apartado 1.c).6º por el art. único.2 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 19
+
+Artículo 19. Régimen de funcionamiento.
+1. La comisión se reunirá preceptivamente, con carácter ordinario, dos veces al año, y de forma extraordinaria a petición de un tercio de las personas que la integran o por disposición de la Presidencia.
+2. El quórum necesario para la constitución válida de la comisión será el de mayoría absoluta de sus miembros en primera convocatoria. En segunda convocatoria, que tendrá lugar media hora después, será suficiente la asistencia de un vocal por cada representación, además del presidente o vicepresidente (que lo sustituirá, en su caso) y el secretario.
+3. Los acuerdos se adoptarán por mayoría de los miembros presentes. Cuando en las votaciones se produzca un empate, decidirá el voto de calidad del presidente.
+4. En el seno de la comisión se podrán constituir grupos técnicos de trabajo con carácter permanente o puntual para un mejor desarrollo de sus funciones.
+5. En el primer trimestre de cada año, la comisión elevará a la Xunta de Galicia la memoria de las actividades de coordinación realizadas durante el ejercicio anterior.
+6. La Comisión de Coordinación se regirá en su funcionamiento, en lo no previsto por la presente ley, por lo dispuesto en el título II, capítulo II, de la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, sobre órganos colegiados.
+Se modifica el apartado 1 por el art. único.3 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 20
+
+Artículo 20. Gabinete Técnico.
+1. El Gabinete Técnico es el órgano adscrito a la consejería competente en materia de seguridad que intervendrá preceptivamente en la realización de los trabajos de documentación, preparación, asesoramiento, propuesta y demás actividades que se le encomienden por la consejería o por la Comisión de Coordinación.
+2. Su composición y régimen de funcionamiento se determinará por orden del conselleiro competente en esta materia, a quien corresponde la facultad de disponer el nombramiento y cese de sus miembros, de conformidad con lo previsto en la normativa aplicable en materia de función pública.
+
+### Artículo 21
+
+Artículo 21. El Registro de las Policías Locales de Galicia.
+1. Como instrumento a disposición de la consejería competente en materia de coordinación de policías locales para garantizar el cumplimento de las funciones de coordinación desarrolladas en la presente ley, se creará el Registro de miembros de los cuerpos de las policías locales de Galicia.
+2. En él se inscribirán preceptivamente todos los miembros pertenecientes a los cuerpos de Policía local y los vigilantes municipales.
+3. Reglamentariamente se determinará la información que habrá de figurar en él, referida exclusivamente a los datos profesionales, así como las cautelas necesarias para garantizar la confidencialidad de los datos en los términos que establece la normativa vigente sobre la materia.
+
+## TÍTULO IV
+
+De la creación, estructura y organización
+
+### Artículo 22
+
+Artículo 22. Creación del cuerpo de Policía local.
+1. Los ayuntamientos de la Comunidad Autónoma de Galicia podrán crear cuerpos de Policía local propios, siempre que lo estimen oportuno en función de sus necesidades, de acuerdo con lo previsto en la Ley orgánica de fuerzas y cuerpos de seguridad, la Ley reguladora de las bases de régimen local, la Ley de Administración local de Galicia, la presente ley y otras disposiciones que sean de aplicación.
+2. En los ayuntamientos de más de 5.000 habitantes la creación de este cuerpo corresponderá al pleno de la corporación. En los ayuntamientos de población inferior a 5.000, además del acuerdo de la corporación local, será necesario el informe preceptivo de la persona titular de la consejería competente en materia de seguridad.
+3. Los municipios que creen el cuerpo de Policía local, con independencia de otras limitaciones legales, habrán de cumplir las siguientes condiciones mínimas:
+a) Disponer de dependencias específicas y adecuadas a sus funciones, medios técnicos idóneos y suficiente dotación presupuestaria.
+b) Disponer de los medios humanos y materiales necesarios para garantizar la prestación de sus funciones de forma adecuada.
+
+### Artículo 22 bis
+
+Artículo 22 bis. Acuerdos de colaboración para la prestación de servicios de policía local.
+1. Cuando dos o más ayuntamientos gallegos limítrofes, cuya población no sobrepase en conjunto los 40.000 habitantes, no dispongan separadamente de recursos suficientes para prestar los servicios de policía local, podrán asociarse para la prestación de estos servicios, de acuerdo con lo establecido en la disposición adicional quinta de la Ley Orgánica 2/1986, de 13 de marzo, y normativa que la desarrolle.
+2. Para ello, los ayuntamientos interesados habrán de establecer un acuerdo de colaboración, en el cual constarán todos los aspectos determinados en la normativa de desarrollo de la citada ley orgánica.
+3. Con carácter previo a la celebración de este acuerdo, habrán de solicitar y obtener la autorización correspondiente del órgano competente.
+Se añade por el art. único.4 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 23
+
+Artículo 23. Organización.
+La Policía local de cada ayuntamiento se integrará en un cuerpo único, sin perjuicio de la organización interna que se adopte por reglamento, ajustándose a lo establecido en la presente ley y a las disposiciones reglamentarias que la desarrollen.
+
+### Artículo 24
+
+Artículo 24. Escalas y categorías.
+1. Los cuerpos de Policía local de Galicia se estructuran jerárquicamente en las siguientes escalas y categorías:
+a) Escala superior, que comprende la categoría de superintendente.
+b) Escala técnica, que comprende las categorías de intendente principal e intendente.
+c) Escala ejecutiva, que comprende las categorías de inspector principal e inspector.
+d) Escala básica, que comprende la categoría de oficial y policía.
+2. Cada escala corresponde con los siguientes grupos de clasificación:
+a) Las escalas superior y técnica: grupo A, subgrupo A1.
+b) La escala ejecutiva: grupo A, subgrupo A2.
+c) La escala básica: grupo C, subgrupo C1.
+3. La titulación exigible para cada grupo o subgrupo será la establecida en la legislación general sobre función pública.
+Se modifican los apartados 2 y 3 por el art. único.5 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 25
+
+Artículo 25. Funciones.
+1. Sin perjuicio de otras funciones que se les atribuyan, de acuerdo con las disposiciones vigentes, corresponderá a los funcionarios de cada escala, con carácter general, las siguientes:
+a) Escala superior: la organización, dirección, coordinación y supervisión de las distintas unidades y servicios del cuerpo.
+b) Escala técnica: la responsabilidad inmediata en la planificación y ejecución de los servicios.
+c) Escala ejecutiva: el mando operativo y la supervisión de las tareas ejecutivas de las unidades a su cargo.
+d) Escala básica: el cumplimiento de las funciones policiales propias del servicio. La realización de funciones planificadas por sus superiores.
+2. Corresponderá, en todo caso, al jefe del cuerpo las funciones atribuidas a la escala superior, que deberán adecuarse a las particularidades de organización y dimensionamiento de la plantilla de personal respectiva.
+
+### Artículo 26
+
+Artículo 26. Subescala facultativa.
+1. Los ayuntamientos podrán crear la subescala facultativa, a la cual corresponderá desempeñar tareas de cobertura y apoyo a las funciones policiales en las especialidades que se estimen oportunas, según sus peculiaridades propias de organización y funcionamiento.
+2. La provisión de estas plazas, en las diferentes categorías señaladas en el párrafo 1 del artículo 24, se producirá por el sistema de oposición libre, exigiéndose como requisitos de acceso, además de los genéricos para cada categoría, estar en posesión de la titulación académica o profesional exigible en cada caso.
+Además, los aspirantes que superen la oposición seguirán un curso en la Academia Gallega de Seguridad Pública, con la duración y contenido que reglamentariamente se determine y, que en todo caso, tendrá por objeto el conocimiento de la estructura, funciones y régimen estatutario de los cuerpos de Policía local de la Comunidad Autónoma de Galicia, así como la adecuación de los conocimientos propios de la especialidad de que se trate a las necesidades de la función policial.
+3. Sin perjuicio de lo dispuesto en el párrafo anterior, en cada convocatoria se reservará hasta un veinticinco por ciento de las plazas convocadas para su provisión por el sistema de concurso-oposición entre los miembros de los cuerpos de la Policía local de Galicia, siempre que cuenten con la titulación necesaria y con una experiencia de al menos cinco años en el ejercicio de la función policial.
+En este caso, los aspirantes que superen el concurso-oposición seguirán un curso en la Academia Gallega de Seguridad Pública, con la duración y contenido que reglamentariamente se determine y que, en todo caso, tendrá por objeto la adecuación de los conocimientos propios de la especialidad de que se trate a las necesidades de la función policial.
+
+### Artículo 27
+
+Artículo 27. Jefe del cuerpo de Policía local.
+1. El nombramiento del jefe del cuerpo de Policía local será efectuado por el alcalde por el sistema de libre designación, de acuerdo con los principios de igualdad, mérito y capacidad, previa convocatoria pública en que podrán participar funcionarios de carrera que tengan la máxima categoría de la plantilla de personal del cuerpo de Policía del ayuntamiento, o entre funcionarios de carrera de los cuerpos de Policía local de otros ayuntamientos de la Comunidad Autónoma de Galicia o de la Policía de Galicia, siempre y cuando pertenezcan a una categoría igual a la de la plaza que se va a proceder a cubrir y cumplan los requisitos del puesto de trabajo.
+2. El puesto de jefatura ejerce la máxima responsabilidad en la Policía local y ostenta el mando inmediato sobre todas las unidades, secciones y servicios en que se organiza el cuerpo, bajo la superior autoridad del alcalde o del concejal en quien delegue.
+3. Corresponde al jefe del cuerpo:
+a) Transformar en órdenes concretas las directrices recibidas del alcalde o del miembro de la corporación en quien aquél delegue.
+b) Dirigir, coordinar y supervisar los servicios operativos del cuerpo, así como las actividades administrativas relacionadas directamente con sus funciones, para asegurar su eficacia.
+c) Evaluar las necesidades de recursos humanos y materiales y formular las correspondientes propuestas.
+d) Informar al alcalde, o al cargo en quien éste delegue, del funcionamiento del servicio y del cumplimiento de los objetivos y órdenes recibidas.
+e) Cumplir cualquier otra función que le atribuya el reglamento del cuerpo de la Policía local.
+4. En casos de ausencia o enfermedad del funcionario titular, el alcalde podrá sustituirlo por otro funcionario del cuerpo de la misma categoría o, si no lo hay, de la inmediata inferior, atendiendo a los criterios de mérito y capacidad. Esta sustitución será siempre temporal.
+5. En caso de vacante, el alcalde cubrirá el puesto de forma inmediata por el procedimiento anterior y, en todo caso, en el plazo máximo de doce meses publicará la convocatoria pública del puesto.
+
+### Artículo 28
+
+Artículo 28. Creación de categorías.
+1. No se podrá crear una categoría sin que existan todas las inferiores y no podrá haber en la estructura de cada escala tres o más puestos de la misma categoría sin que exista la inmediata superior, aunque ésta esté compuesta por un solo integrante.
+2. La categoría de superintendente se podrá crear en los ayuntamientos de población superior a 75.000 habitantes y, asimismo, en los de inferior población si el número de miembros excede de 150, siendo obligatoria en los ayuntamientos de más de 150.000 habitantes o que cuenten con más de 200 efectivos en su plantilla de personal.
+3. La categoría de intendente principal se podrá crear en los ayuntamientos de población superior a 50.000 habitantes y, asimismo, en los de inferior población si el número de miembros del cuerpo excede de 100, siendo obligatoria en los ayuntamientos de más de 75.000 habitantes o que cuenten con más de 150 efectivos en su plantilla de personal.
+4. La categoría de intendente se podrá crear en los ayuntamientos de población superior a 25.000 habitantes y en los de inferior población si el número de miembros del cuerpo excede de 50, siendo obligatoria en los ayuntamientos con más de 50.000 habitantes o que cuenten con más de 100 efectivos en su plantilla de personal.
+5. La categoría de inspector principal se podrá crear en los ayuntamientos de población superior a 15.000 habitantes y en los de inferior población si el número de miembros del cuerpo excede de 25, siendo obligatoria en los ayuntamientos con más de 25.000 habitantes o que cuenten con más de 50 efectivos en su plantilla de personal.
+6. La categoría de inspector se podrá crear en los ayuntamientos de población superior a 10.000 habitantes y en los de inferior población si el número de miembros del cuerpo excede de 10, siendo obligatoria en los ayuntamientos con más de 15.000 habitantes o que cuenten con más de 25 efectivos en su plantilla de personal.
+7. Las categorías de oficial y policía serán obligatorias cuando esté creado el respectivo cuerpo de Policía local.
+
+### Artículo 29
+
+Artículo 29. Plantillas de personal.
+1. Corresponde a cada ayuntamiento aprobar la plantilla de personal del respectivo cuerpo de Policía local, en el cual se integrarán todos los puestos de trabajo correspondientes a cada escala y categorías previstas en la presente ley, con la determinación de los niveles respectivos.
+2. La aprobación de las plantillas de personal será comunicada a la consejería competente en materia de seguridad.
+
+### Artículo 30
+
+Artículo 30. Número mínimo de miembros.
+1. El número mínimo de efectivos con que contarán los cuerpos de Policía local será de dos policías y un oficial.
+2. El número máximo de vigilantes municipales que podrán tener los ayuntamientos que no tengan creado el cuerpo de Policía local será de dos.
+
+### Artículo 31
+
+Artículo 31. Dispensa de requisitos.
+1. La consejería competente en materia de seguridad, con carácter excepcional, podrá dispensar de los requisitos mínimos contemplados en los artículos anteriores, en cuanto a la estructura del respectivo cuerpo de Policía local, a aquellos ayuntamientos que lo solicitasen y justificasen la imposibilidad de su cumplimento, previo informe de la Comisión de Coordinación de las Policías Locales.
+2. Los ayuntamientos que se hallen en la situación anteriormente expuesta, en el plazo máximo de dos años desde la declaración de dispensa de requisitos, buscarán la fórmula de asociación para la prestación del servicio con ayuntamientos limítrofes para poder alcanzar los mínimos exigidos en la presente ley, contando a tal efecto con la asistencia de la consejería competente en materia de seguridad.
+Se añade el apartado 2 por el art. único.6 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+## TÍTULO V
+
+Selección, promoción, movilidad y formación
+
+## CAPÍTULO I
+
+Ingreso, promoción y movilidad
+
+### Artículo 32
+
+Artículo 32. Principios del sistema de selección.
+1. Los sistemas de selección para el acceso a las diferentes categorías de los cuerpos de Policía local serán acordes con los siguientes principios:
+a) Igualdad, con especial atención a la igualdad de oportunidades entre mujeres y hombres.
+b) Mérito y capacidad.
+c) Publicidad de las convocatorias y de sus bases.
+d) Transparencia y objetividad en el desarrollo de los procesos selectivos y en el funcionamiento de los órganos de selección.
+e) Imparcialidad y profesionalidad de los miembros de los órganos de selección.
+f) Independencia, confidencialidad y discrecionalidad técnica en la actuación de los órganos de selección.
+g) Adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar.
+h) Eficacia, eficiencia y agilidad, sin perjuicio de la objetividad, en el desarrollo de los procesos selectivos.
+2. Los procesos selectivos se iniciarán mediante convocatoria pública. Las bases de la convocatoria tendrán, como mínimo, el siguiente contenido:
+a) El número de plazas, el subgrupo o grupo de clasificación profesional, en caso de que este no tenga subgrupo, el cuerpo y, en su caso, la escala o categoría laboral.
+b) Las condiciones y requisitos que deben reunir las personas aspirantes.
+c) El sistema selectivo de aplicación, con indicación del tipo de pruebas concretas y los sistemas de calificación de los ejercicios o, en su caso, los baremos de puntuación de los méritos.
+d) El programa de las pruebas selectivas o la referencia de su publicación oficial.
+e) El orden de actuación de las personas aspirantes.
+f) El régimen de aplicación al órgano de selección.
+g) Las características, efectos y duración de los cursos y/o del período de prácticas que deban realizar, en su caso, las personas seleccionadas.
+A los efectos de lo previsto en el artículo 16.a), los ayuntamientos remitirán las bases de las convocatorias, con carácter previo a su aprobación definitiva, al centro directivo competente en materia de coordinación de policías locales para la emisión del correspondiente informe, que tendrá carácter preceptivo y será emitido en un plazo de 10 días, a contar desde el día siguiente al de la recepción de las bases por el centro directivo competente en materia de coordinación de policías locales.
+3. Las convocatorias y sus bases se publicarán en el boletín oficial de la provincia, así como un anuncio de las mismas en el “Diario Oficial de Galicia” y en el “Boletín Oficial del Estado”, en que aparecerá, en todo caso, el ayuntamiento convocante, el número de plazas que se convocan, la escala y categoría a que pertenecen, el sistema de acceso y una cita de los boletines oficiales en que figuren las bases correspondientes, que serán vinculantes para la Administración, los tribunales que evalúen las pruebas selectivas y las personas participantes.
+4. Las pruebas selectivas para ingresar en las escalas y categorías de los cuerpos de la Policía local de Galicia son de carácter teórico y práctico, pudiendo incluir pruebas de capacidad física, psicotécnicas, médicas y de conocimientos, que se fijarán en las bases de la convocatoria. Asimismo, se incluirá un examen de gallego, salvo para aquellas personas que acrediten el conocimiento de la lengua gallega con arreglo a la normativa vigente.
+5. Por vía reglamentaria se fijarán los programas de los temarios para el ingreso en la categoría de policía, los baremos de los concursos de méritos y los programas de los cursos selectivos que se desarrollen en la Academia Gallega de Seguridad Pública.
+6. Los ayuntamientos podrán solicitar a la consejería competente en materia de seguridad la colaboración en la realización de las pruebas de selección para el ingreso, ascenso o promoción a los cuerpos de Policía local en la forma que reglamentariamente se establezca.
+7. Asimismo, la Xunta de Galicia podrá asumir la convocatoria de las plazas vacantes y, en su caso, la formación y el periodo de prácticas en aquellos ayuntamientos que así lo acuerden mediante los oportunos convenios de colaboración.
+8. Pueden convocarse procesos selectivos conjuntos para el ingreso en diversos cuerpos o escalas del personal funcionario.
+Se modifica el apartado 2 por el art. 40.1 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica por el art. único.7 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 33
+
+Artículo 33. Requisitos para el acceso.
+1. Sin perjuicio de lo establecido en los artículos 37 a 42, ambos incluidos, los requisitos para el acceso a los cuerpos de policía local son los siguientes:
+a) Tener nacionalidad española.
+b) Tener cumplidos los 18 años y no exceder, en su caso, de la edad de jubilación forzosa.
+c) Estar en posesión de la titulación exigida o estar en condiciones de obtenerla.
+d) No padecer enfermedad o defecto físico que impida el desempeño de las correspondientes funciones.
+e) No haber sido separado mediante expediente disciplinario del servicio de cualquiera de las administraciones públicas o de los órganos constitucionales o estatutarios de las comunidades autónomas, ni hallarse en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial, cuando se trate de acceder al cuerpo o escala de personal funcionario del que la persona hubiese sido separada o inhabilitada.
+f) Carecer de antecedentes penales por delito doloso.
+g) Cualquier otro requisito específico de acceso que guarde relación objetiva y proporcionada con las funciones y tareas a desarrollar.
+2. Para el acceso a las categorías de policía, oficial, inspector, inspector principal, intendente, intendente principal y superintendente, reguladas en el artículo 35 y en los artículos 37 a 42, ambos incluidos, será condición necesaria la superación de los correspondientes cursos selectivos de carácter obligatorio en la Academia Gallega de Seguridad Pública.
+3. A efectos de lo previsto en los artículos 37.a), 38.a), 39.a), 40.a), 41.a) y 42.a) sobre el acceso mediante promoción interna, se exigirá que, además de los requisitos establecidos en los artículos referidos, el personal funcionario se encuentre en situación de servicio activo en el mismo cuerpo de policía local. En estos supuestos, los tres años de antigüedad mínima exigida en cada caso en la categoría inmediata inferior deben ser continuados y para su cómputo se tendrán en cuenta los periodos durante los cuales la persona funcionaria hubiese tenido la consideración de personal funcionario en prácticas, así como los periodos durante los cuales se hubiese encontrado en situación de segunda actividad por causa de embarazo o lactancia.
+Del mismo modo, en los supuestos previstos en los artículos 38.c), 39.c) y 40.c), para el cómputo de los seis años de antigüedad mínima exigidos en cada caso en las categorías establecidas en los referidos artículos, se tendrán en cuenta los periodos durante los cuales la persona funcionaria hubiese tenido la consideración de personal funcionario en prácticas, así como los periodos durante los cuales se hubiese encontrado en situación de segunda actividad por causa de embarazo o lactancia.
+Se modifica el apartado 3 por el art. 14.1 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica por el art. 40.2 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica por el art. único.8 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 34
+
+Artículo 34. Tribunales de selección.
+Los órganos de selección serán designados por la alcaldía correspondiente de acuerdo con los siguientes principios:
+1. Los órganos de selección serán colegiados y su composición habrá de ajustarse a los principios de imparcialidad y profesionalidad de las personas que los integren, tendiéndose, asimismo, a la paridad entre mujer y hombre.
+2. No podrá formar parte de los órganos de selección el personal de elección o de designación política, el personal interino o personal laboral temporal y el personal eventual, ni tampoco las personas que en los cinco años anteriores a la publicación de la convocatoria hubiesen realizado tareas de preparación de aspirantes a pruebas selectivas o hubiesen colaborado durante ese periodo con centros de preparación de opositores.
+3. La pertenencia a los órganos de selección será siempre a título individual, sin que pueda ostentarse esta en representación o por cuenta de nadie.
+4. Los órganos de selección estarán constituidos por cinco personas titulares y cinco suplentes, presidente/a, tres vocales y secretario/a.
+5. Los miembros de los órganos de selección deben pertenecer a un cuerpo, escala o categoría profesional para el ingreso en el cual se requiera una titulación de nivel igual o superior al exigido para participar en el proceso selectivo.
+Se modifica por el art. único.9 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 35
+
+Artículo 35. Ingreso en la categoría de policía.
+1. El ingreso en la categoría de policía se realiza por el sistema de oposición libre.
+2. El modo de ingreso por oposición libre requiere, además de la superación de las pruebas selectivas que establezca la convocatoria, aprobar un curso de formación en la Academia Gallega de Seguridad Pública y superar un periodo de prácticas. La evaluación del curso de formación y el periodo de prácticas debe restringirse a los méritos y capacidades profesionales.
+3. Las pruebas selectivas de ingreso en la categoría de policía serán de carácter teórico y práctico. En ellas se incluirá, en todo caso, un reconocimiento médico, un examen psicotécnico, pruebas de aptitud física y pruebas de capacitación de conocimientos, tanto generales como específicos, en materias relacionadas con el ejercicio profesional, así como la demostración del conocimiento de la lengua gallega, a través de la celebración de un examen, salvo para aquellas personas que acrediten el conocimiento de la lengua gallega conforme a la normativa vigente.
+4. Una vez superadas las pruebas selectivas, el curso de formación y el período de prácticas, los aspirantes serán nombrados funcionarios de carrera de la escala y categoría correspondiente.
+Se modifica el apartado 3 y 4 por el art. 40.3 y 4 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica el apartado 4 por el art. único.10 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+ Véase en cuanto al acceso a los cuerpos de Policía local del personal funcionario contemplado en el artículo 53.3 de la Ley Orgánica 2/1986, la disposición adicional 2 de la citada Ley.
+
+### Artículo 36
+
+Artículo 36. Funcionarios en prácticas.
+1. Durante el curso de formación y el periodo de prácticas, los aspirantes que no procedan de otros cuerpos de seguridad de la Comunidad Autónoma tendrán la consideración de funcionarios en prácticas. Durante este periodo los aspirantes percibirán las retribuciones que les correspondan de acuerdo con la legislación vigente. El nombramiento como funcionario de carrera se efectuará únicamente tras la superación del curso y el período de prácticas, de acuerdo con lo que se establezca en la correspondiente convocatoria.
+2. Con independencia de la prueba de reconocimiento médico que pueda establecer dicha convocatoria, en cualquier momento anterior a ser nombrados funcionarios de carrera los aspirantes podrán ser sometidos a las pruebas médicas que sean precisas para comprobar su idoneidad, de acuerdo con el cuadro de exclusiones médicas que se determinará reglamentariamente. Si de las pruebas practicadas se deduce la existencia de alguna de ellas, el órgano responsable podrá proponer la exclusión de la persona aspirante del proceso selectivo. En dicho caso, corresponde al órgano competente para efectuar el nombramiento adoptar la resolución que proceda, sin que en ningún caso se tenga derecho a indemnización.
+3. No obstante lo dispuesto en el apartado anterior, si la causa de exclusión a que se hace referencia en el apartado anterior sobrevino como consecuencia de lesiones sufridas en el ejercicio de sus cometidos como funcionario en prácticas, el órgano responsable propondrá su nombramiento como funcionario de carrera al órgano competente. En tal caso, debe asignarse a dicho funcionario un puesto de trabajo adecuado a sus capacidades.
+
+### Artículo 37
+
+Artículo 37. Acceso a la categoría de oficial.
+El acceso a la categoría de oficial se realizará:
+a) Por promoción interna, mediante concurso-oposición, entre el personal del cuerpo que tenga un mínimo de tres años de antigüedad en la categoría de policía y esté en posesión de la titulación académica de acceso a la categoría.
+b) (Sin contenido).
+c) De no cubrirse la plaza o plazas a través de la convocatoria establecida en la letra a) de este artículo y de no cubrirse mediante el procedimiento de provisión previsto en el artículo 43, podrán ser cubiertas, mediante concurso-oposición, por personal funcionario de otros cuerpos de policía local de Galicia con la categoría de policía, en posesión de la titulación académica de acceso y una antigüedad de cinco años en la categoría.
+Se deja sin contenido la letra b) y se modifica la letra c) por el art. 40.5 y 6 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica por el art. único.11 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 38
+
+Artículo 38. Acceso a la categoría de inspector.
+El acceso a la categoría de inspector se realizará:
+a) Por promoción interna, mediante concurso-oposición, entre el personal del cuerpo que tenga un mínimo de tres años de antigüedad en la categoría de oficial y posea la titulación académica de acceso a la categoría.
+b) (Sin contenido).
+c) De no cubrirse la plaza o plazas a través de la convocatoria establecida en la letra a) de este artículo y de no cubrirse mediante el procedimiento de provisión previsto en el artículo 43, podrán ser cubiertas mediante concurso-oposición, por promoción interna, entre el personal del cuerpo con la categoría de oficial y policía, en posesión de la titulación académica de acceso a la categoría y una antigüedad de seis años de servicio como personal funcionario de policía.
+d) De no cubrirse la plaza o plazas a través del sistema anterior, podrá/n ser cubierta/s, mediante concurso-oposición, por personal funcionario de otros cuerpos de Policía local de Galicia con la categoría de oficial, en posesión de la titulación académica de acceso y una antigüedad de seis años de servicio como personal funcionario de policía.
+Se deja sin contenido la letra b) y se modifica la letra c) por el art. 40.7 y 8 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica por el art. único.12 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 39
+
+Artículo 39. Acceso a la categoría de inspector principal.
+El acceso a la categoría de inspector principal se realizará:
+a) Por promoción interna, mediante concurso-oposición, entre el personal del cuerpo que tenga un mínimo de tres años de antigüedad en la categoría de inspector/a y posea la titulación académica de acceso a la categoría.
+b) (Sin contenido).
+c) De no cubrirse la plaza o plazas a través de la convocatoria establecida en la letra a) de este artículo y de no cubrirse mediante el procedimiento de provisión previsto en el artículo 43, podrán ser cubiertas mediante concurso-oposición, por promoción interna, entre el personal del cuerpo con la categoría de inspector/a y oficial, en posesión de la titulación académica de acceso a la categoría y una antigüedad de seis años de servicio como personal funcionario de policía.
+d) De no cubrirse la plaza o plazas a través del sistema anterior, podrá/n ser cubierta/s, mediante concurso-oposición, por personal funcionario de otros cuerpos de Policía local de Galicia con la categoría de inspector/a, en posesión de la titulación académica de acceso y una antigüedad de seis años de servicio como personal funcionario de policía.
+Se deja sin contenido la letra b) y se modifica la letra c) por el art. 40.9 y 10 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica por el art. único.13 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 40
+
+Artículo 40. Acceso a la categoría de intendente.
+El acceso a la categoría de intendente se realizará:
+a) Por promoción interna, mediante concurso-oposición, entre el personal del cuerpo que tenga un mínimo de tres años de antigüedad en la categoría de inspector/a principal y posea la titulación académica de acceso a la categoría.
+b) (Sin contenido).
+c) De no cubrirse la plaza o plazas a través de la convocatoria establecida en la letra a) de este artículo y de no cubrirse mediante el procedimiento de provisión previsto en el artículo 43, podrán ser cubiertas mediante concurso-oposición, por promoción interna, entre el personal del cuerpo con la categoría de inspector/a principal e inspector/a, en posesión de la titulación académica de acceso a la categoría y una antigüedad de seis años de servicio como personal funcionario de policía.
+d) De no cubrirse la plaza o plazas a través del sistema anterior, podrá/n ser cubierta/s, mediante concurso-oposición, por personal funcionario de otros cuerpos de Policía local de Galicia con la categoría de inspector/a principal, en posesión de la titulación académica de acceso a la categoría y una antigüedad de seis años de servicio como personal funcionario de policía.
+Se deja sin contenido la letra b) y se modifica la letra c) por el art. 40.11 y 12 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica por el art. único.14 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 41
+
+Artículo 41. Acceso a la categoría de intendente principal.
+El acceso a la categoría de intendente principal se realizará por promoción interna, mediante concurso, entre miembros del cuerpo que tengan un mínimo de tres años de antigüedad en la categoría de intendente.
+Se modifica por el art. 40.13 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica el apartado b) por el art. único. 15 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 42
+
+Artículo 42. Acceso a la categoría de superintendente.
+El acceso a la categoría de superintendente se realizará por promoción interna, mediante concurso, entre miembros del cuerpo que tengan un mínimo de tres años de antigüedad en la categoría de intendente principal.
+Se modifica por el art. 40.14 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Artículo 43
+
+Artículo 43. Movilidad.
+1. El personal funcionario de carrera de los cuerpos de policía local de Galicia perteneciente a las categorías de policía, oficial, inspector, inspector principal, intendente, intendente principal y superintendente podrá participar en los procesos de provisión de puestos vacantes de su misma categoría en otros cuerpos de policía local de la comunidad autónoma.
+2. A estos efectos, los ayuntamientos reservarán, como mínimo, un veinticinco por ciento de las plazas vacantes que se oferten para su cobertura por movilidad. Cuando no fuese posible cubrir las vacantes con el porcentaje señalado, las fracciones sobrantes se acumularán a la siguiente o siguientes convocatorias.
+3. La provisión por movilidad de puestos correspondientes a las distintas categorías de los cuerpos de Policía local de Galicia se llevará a cabo mediante el procedimiento de concurso, de acuerdo con el baremo establecido por el centro directivo competente en materia de coordinación de policías locales. En estos supuestos, el personal funcionario de carrera que ocupe con carácter definitivo un puesto por el sistema de movilidad debe permanecer en él un mínimo de tres años para poder participar en los concursos regulados en este artículo.
+4. Para participar en los procesos de movilidad a las plazas vacantes ofertadas, será necesario reunir los siguientes requisitos:
+a) Encontrarse en la situación administrativa de servicio activo en la categoría de la plaza ofertada.
+b) Tener una antigüedad mínima de tres años en la misma categoría.
+c) Llevar más de tres años de tiempo efectivo y continuado en el actual destino.
+d) No encontrarse en situación administrativa de segunda actividad, salvo los casos de segunda actividad por embarazo o lactancia.
+e) Estar en posesión de la titulación académica exigida para la categoría o estar en condiciones de obtenerla.
+f) Cualquier otro requisito específico que guarde relación objetiva y proporcionada con las funciones y tareas a desarrollar.
+5. A efectos de lo previsto en el artículo 16.a) los ayuntamientos remitirán las bases de las convocatorias, con carácter previo a su aprobación definitiva, al centro directivo competente en materia de coordinación de policías locales para la emisión del correspondiente informe, que tendrá carácter preceptivo y será emitido en un plazo de 10 días, a contar desde el día siguiente al de la recepción de las bases por el centro directivo competente en materia de coordinación de policías locales.
+6. Los destinos adjudicados en el concurso serán irrenunciables, salvo que con anterioridad a la finalización del plazo posesorio se haya obtenido otro destino mediante convocatoria pública. En este caso, se deberá optar y comunicar la opción elegida.
+7. El personal funcionario que ocupe plazas ofertadas por movilidad horizontal quedará en su administración de origen en la situación de servicios en otras administraciones públicas.
+8. La Xunta de Galicia podrá asumir la convocatoria de las plazas vacantes que se vayan a cubrir por el sistema de movilidad en aquellos ayuntamientos que así lo acuerden mediante los oportunos convenios de colaboración.
+Se modifica el apartado 3 por el art. 14.2 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica por el art. 40.15 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Artículo 44
+
+Artículo 44. Permutas.
+Los alcaldes, previo informe de los respectivos jefes de la Policía local, podrán autorizar la permuta de destinos entre los miembros correspondientes de los cuerpos de Policía local o agentes de policía en activo que sirvan en diferentes ayuntamientos, siempre y cuando cumplan los siguientes requisitos:
+a) Que ambos sean funcionarios de los cuerpos de Policía local.
+b) Que pertenezcan a la misma escala y categoría.
+c) Que a ninguna de las personas que pretendan la permuta le falten menos de cinco años para cumplir la edad de jubilación forzosa.
+d) Que a ninguno de los solicitantes se le esté incoando un expediente disciplinario.
+e) No podrá solicitar una nueva permuta ninguno de los permutantes hasta que transcurriesen cinco años desde la obtención de una anterior.
+Se modifica por el art. único.16 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+## CAPÍTULO II
+
+La formación
+
+### Artículo 45
+
+Artículo 45. Formación y capacitación profesional.
+1. Los miembros de los cuerpos de la Policía local de Galicia recibirán una formación y capacitación profesional con carácter permanente que garantice el apropiado cumplimento de sus funciones y asegure el mantenimiento y mejora de sus aptitudes y capacidad profesional, que comprenda necesariamente cursos de formación en igualdad de género y sobre la violencia contra las mujeres.
+2. La Academia Gallega de Seguridad Pública elaborará un plan de carrera profesional que incluya los cursos de ingreso, perfeccionamiento, especialización y promoción de los miembros de los cuerpos de la Policía local de Galicia. En su caso, para conseguir adecuadamente tales objetivos, la academia puede celebrar acuerdos o convenios con instituciones análogas o de otra naturaleza.
+3. La Academia Gallega de Seguridad Pública procurará la convalidación, por la administración competente, de los cursos que se impartan en sus centros y convalidará, a su vez, aquellos que hayan sido superados en otros centros oficiales, en la forma que se determine reglamentariamente.
+
+### Artículo 46
+
+Artículo 46. Cursos.
+1. La duración y contenido de los cursos y programas formativos se determinará reglamentariamente.
+2. La asistencia por parte de los miembros de las policías locales a cursos de formación y capacitación profesional habrá de ser autorizada por el alcalde, quien sólo podrá denegar la solicitud de forma motivada y por exigencia del servicio público.
+3. Durante su permanencia en la Academia Gallega de Seguridad Pública, los alumnos estarán sujetos a la presente ley y al reglamento de funcionamiento de esta institución.
+
+## TÍTULO VI
+
+Del régimen estatutario
+
+## CAPÍTULO I
+
+Derechos y deberes
+
+### Artículo 47
+
+Artículo 47. Principios generales.
+1. Los miembros de los cuerpos de la Policía local de Galicia y los vigilantes municipales tienen los derechos y deberes que les corresponden como funcionarios de la administración del ayuntamiento a que pertenezcan, en el marco de la especificidad de su función, de acuerdo con la legislación vigente.
+2. Los ayuntamientos protegerán a los funcionarios de los cuerpos de Policía local en el ejercicio de sus funciones, otorgándoles la consideración social debida a su jerarquía y a la dignidad del servicio policial.
+
+### Artículo 48
+
+Artículo 48. Retribuciones.
+1. Los funcionarios de los cuerpos de la Policía local tendrán derecho a una remuneración justa, que comprenderá las retribuciones básicas y las complementarias en el marco de la legislación de la función pública de Galicia.
+2. Las retribuciones básicas tendrán idéntica cuantía para todos los miembros de un mismo grupo.
+3. Las retribuciones complementarias se fijarán reglamentariamente, dentro de los límites fijados por la legislación vigente, de acuerdo con los siguientes criterios:
+a) Nivel de formación.
+b) Régimen de incompatibilidades.
+c) Movilidad por razón de servicio.
+d) Dedicación.
+e) Riesgo que conlleva su misión.
+f) Especificidad de los horarios de trabajo.
+g) Peculiar estructura.
+4. En el marco de la Comisión de Coordinación de Policías Locales de Galicia, se determinarán los conceptos retributivos que puedan ser comunes a todos los ayuntamientos, respetando la necesaria independencia de los entes locales.
+Se añade el apartado 4 por el art. único.17 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 49
+
+Artículo 49. Seguridad Social.
+Los funcionarios de los cuerpos de la Policía local de la Comunidad Autónoma de Galicia están acogidos al régimen general de la Seguridad Social, sin perjuicio de otros regímenes que les sean de aplicación y que se regirán por su normativa específica.
+
+### Artículo 50
+
+Artículo 50. Salud y seguridad laboral.
+Asimismo, tendrán derecho a la promoción de la seguridad y a la salud en el desarrollo de su función y a la prevención de riesgos laborales en los términos que establezca la legislación específica para el ámbito de las funciones públicas de policía y seguridad.
+
+### Artículo 51
+
+Artículo 51. Asistencia jurídica.
+1. Los miembros de los cuerpos de la Policía local recibirán asesoramiento jurídico en aquellas situaciones derivadas del servicio en que lo necesiten.
+2. Asimismo, tendrán derecho a ser representados y defendidos por los profesionales designados por el ayuntamiento de que dependen, y a cargo del mismo, en todas las actuaciones judiciales en que se les exijan responsabilidades por hechos cometidos en el ejercicio de sus funciones. En ningún caso tendrá derecho a la asistencia jurídica el funcionario que hubiese incurrido en dolo, negligencia grave o abuso de funciones.
+
+### Artículo 52
+
+Artículo 52. Derechos sindicales.
+Para la representación, defensa y promoción de sus intereses profesionales, económicos y sociales, los funcionarios de los cuerpos de la Policía local de Galicia podrán integrarse libremente en las organizaciones sindicales, separarse de ellas y constituir otras organizaciones, de acuerdo con el marco legal de aplicación.
+
+### Artículo 53
+
+Artículo 53. Limitación del derecho de huelga.
+Los funcionarios de los cuerpos de la Policía local, de acuerdo con lo establecido por la legislación orgánica de fuerzas y cuerpos de seguridad, no podrán ejercer en ningún caso el derecho de huelga ni acciones sustitutivas de éste o concertadas a fin de alterar el normal funcionamiento de los servicios.
+
+### Artículo 54
+
+Artículo 54. Deber de residencia.
+1. Los miembros de los cuerpos de la Policía local podrán residir fuera de la localidad donde trabajan, exceptuados los casos en que por razón del servicio sea necesario el deber de residencia en la propia localidad.
+2. Sin perjuicio de lo que se establece en el apartado 1, se determinará reglamentariamente la distancia máxima en kilómetros, respecto a la localidad de destino, a que están obligados a residir los miembros de los cuerpos de la Policía local.
+
+### Artículo 55
+
+Artículo 55. Jornada laboral y horario.
+1. Los miembros de los cuerpos de la Policía local cumplirán estrictamente la jornada y el horario de trabajo que se determinen por el órgano competente.
+2. En situaciones excepcionales, cuando se produzcan hechos o emergencias que así lo exijan, los funcionarios podrán ser requeridos para el servicio fuera de su jornada de trabajo.
+3. En caso de que las necesidades extraordinarias del servicio obligaran a prolongar su prestación, tendrán que cumplimentarse las órdenes referidas al respecto, sin perjuicio de la compensación que proceda por el exceso de jornada realizado en la forma que se determine reglamentariamente.
+
+### Artículo 56
+
+Artículo 56. Revisiones médicas.
+Los miembros de los cuerpos de la Policía local tienen derecho a una revisión médica anual.
+Reglamentariamente se determinarán las pruebas médicas que hayan de incluirse en la revisión anual.
+
+### Artículo 57
+
+Artículo 57. Medios e instalaciones.
+Los miembros de los cuerpos de la Policía local dispondrán de los medios e instalaciones apropiados para el cumplimento de sus funciones y para la atención adecuada a la ciudadanía.
+
+### Artículo 58
+
+Artículo 58. Incompatibilidades.
+Los miembros de los cuerpos de la Policía local no podrán ejercer ninguna otra actividad pública o privada, salvo las exceptuadas en el régimen general de incompatibilidades.
+
+### Artículo 59
+
+Artículo 59. Consumo de drogas, estupefacientes y sustancias psicotrópicas.
+1. Los miembros de los cuerpos de la Policía local no podrán consumir bebidas alcohólicas ni cualquier otra droga tóxica, estupefaciente o sustancia psicotrópica mientras estén de servicio o se encuentren en alguna dependencia policial. Tampoco podrán estar de servicio bajo la influencia de cualquiera de estas sustancias.
+2. Para verificar que un funcionario policial está bajo los efectos del alcohol o de alguna de las sustancias señaladas en el apartado anterior, podrán realizarse pruebas técnicas de comprobación. Tales pruebas deberán ser ordenadas de forma expresa por el superior responsable.
+3. A fin de adecuar el régimen de los servicios que se les asignen, los funcionarios que estén bajo tratamiento médico con alguna de las sustancias mencionadas estarán obligados a advertirlo, por escrito y con los oportunos informes médicos.
+
+## CAPÍTULO II
+
+Situaciones administrativas y jubilación
+
+### Artículo 60
+
+Artículo 60. Situaciones administrativas.
+1. Los funcionarios de los cuerpos de la Policía local de Galicia podrán encontrarse, además de en las situaciones contempladas en la legislación básica de la función pública, en la situación administrativa de segunda actividad.
+2. Dichas situaciones se regirán por lo dispuesto en la presente ley y en las normas que la desarrollen y, supletoriamente, por lo previsto en la legislación vigente en materia de función pública.
+
+### Artículo 61
+
+Artículo 61. Edad de jubilación.
+La jubilación forzosa del personal de los cuerpos de Policía local de Galicia se declarará de oficio al cumplir la edad legalmente establecida en el régimen de la Seguridad Social de aplicación para el acceso a la pensión de jubilación en su modalidad contributiva sin coeficiente reductor por razón de edad, siempre de acuerdo con lo que se disponga en la indicada legislación.
+Se modifica por el art. único.18 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+## CAPÍTULO III
+
+Segunda actividad
+
+### Artículo 62
+
+Artículo 62. Segunda actividad.
+La segunda actividad es una situación administrativa especial que tiene como objeto garantizar una adecuada aptitud psicofísica de los integrantes de los cuerpos de la Policía local de Galicia en tanto permanezcan en servicio activo, asegurando la eficacia del servicio.
+
+### Artículo 63
+
+Artículo 63. Causas.
+1. Se podrá pasar a la segunda actividad por:
+a) Cumplimiento de las edades que se determinan para cada escala.
+b) Disminución de las condiciones psicofísicas para el desempeño de la función policial.
+c) Embarazo y lactancia.
+2. En la situación de segunda actividad se permanecerá hasta el pase a la jubilación o a otra situación que no podrá ser la de servicio activo, salvo que la causa del pase a la situación de segunda actividad fuese por embarazo, lactancia o insuficiencia de las aptitudes psicofísicas y que tales circunstancias hubieran desaparecido. En el supuesto de disminución de las condiciones psicofísicas será el tribunal médico a que se refiere el artículo 73 de la presente ley el que aprecie que tal insuficiencia ha desaparecido.
+
+### Artículo 64
+
+Artículo 64. Por razón de edad.
+1. El pase a la segunda actividad por edad tendrá lugar al cumplirse las siguientes edades:
+a) Escala superior y técnica: a los 62 años de edad.
+b) Escala ejecutiva: a los 60 años de edad.
+c) Escala básica: a los 58 años de edad.
+2. Una vez oída la junta de personal, el ayuntamiento, motivadamente, a fin de optimizar sus recursos, y previo informe a la consejería competente en materia de seguridad, podrá limitar por cada año natural y categoría el número de funcionarios que puedan acceder a la situación de segunda actividad por razón de edad, prorrogando la permanencia en el servicio activo de los que, en el orden inverso a la fecha en que cumplan la edad, excedan del cupo así fijado.
+3. Asimismo, el ayuntamiento, previa comunicación a la consejería competente en materia de seguridad, podrá aplazar el pase a la situación de segunda actividad, por sucesivos periodos de un año, cuando exista solicitud expresa de la persona interesada, y siempre que se aportase informe médico favorable.
+Se modifica el apartado 3 por el art. único.19 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 65
+
+Artículo 65. Por disminución de aptitudes psicofísicas.
+1. Pasará a la situación de segunda actividad, sin la limitación de las edades determinadas en el artículo anterior, el personal funcionario de los cuerpos de la Policía local que tenga disminuidas las aptitudes físicas, psíquicas o sensoriales necesarias para el desempeño de la función policial, bien por incapacidad temporal, enfermedad o accidente, de origen común o laboral, y siempre que no constituya causa de incapacidad permanente absoluta. Dicho procedimiento podrá iniciarse de oficio o a solicitud de la persona interesada.
+2. La evaluación de la disminución habrá de ser dictaminada por el tribunal médico a que se refiere el artículo 73 de la presente ley.
+3. Podrá acordarse, de oficio o a solicitud del interesado, el reingreso en el servicio activo en caso de que hubieran desaparecido las causas que motivaron la disminución de aptitudes físicas, psíquicas o sensoriales, previo dictamen médico.
+4. En caso de que el pase a la segunda actividad sea motivado por accidente laboral o enfermedad profesional, el funcionario percibirá el cien por cien de las retribuciones que venía percibiendo en el momento de producirse el hecho causante del referido pase.
+Se modifica el apartado 1 por el art. único.20 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 66
+
+Artículo 66. Cuadro de aptitudes.
+Reglamentariamente se establecerá, para cada escala, el cuadro de causas de disminución de las aptitudes físicas, psíquicas o sensoriales que originen el pase a la situación de segunda actividad.
+
+### Artículo 67
+
+Artículo 67. Por razón de embarazo o lactancia.
+1. Las funcionarias de los cuerpos de Policía local podrán solicitar el pase a la segunda actividad en el destino más acorde con la situación de su embarazo, previo informe facultativo que lo acredite.
+2. Igualmente pueden permanecer en la segunda actividad durante el periodo de lactancia, previa solicitud y siempre que, según el informe facultativo, las condiciones de su puesto habitual de trabajo no sean las más adecuadas a su situación.
+
+### Artículo 68
+
+Artículo 68. Razones excepcionales.
+El alcalde podrá requerir, motivadamente, dando cuenta al responsable de la consejería en materia de seguridad, a los funcionarios de los cuerpos de la Policía local en situación de segunda actividad para el cumplimiento de funciones policiales, cuando concurran razones excepcionales de seguridad ciudadana que reglamentariamente se determinarán.
+
+### Artículo 69
+
+Artículo 69. Puestos de trabajo.
+La situación administrativa de segunda actividad se declarará con indicación de destino. A los funcionarios que pasen a dicha situación se les asignarán puestos de trabajo de esta naturaleza, bien dentro del mismo cuerpo policial o bien en otro puesto del ayuntamiento, que se corresponda con la categoría que se tenga, preferentemente en el área de seguridad y adecuado a su experiencia y capacidad.
+
+### Artículo 70
+
+Artículo 70. Catálogo de puestos de trabajo.
+1. El catálogo de puestos de trabajo de segunda actividad precisará los que pueden ser cubiertos con personal en esta situación.
+2. El catálogo determinará para cada puesto la función, el horario, la situación, el perfil necesario, la formación adecuada y cualquier otra circunstancia adecuada. Estas definiciones podrán cambiarse y adaptarse en función de las necesidades.
+3. El catálogo de puestos de trabajo de segunda actividad se aprobará con la relación de puestos de trabajo del ayuntamiento.
+
+### Artículo 71
+
+Artículo 71. Retribuciones en la segunda actividad.
+1. El pase a la segunda actividad no supondrá disminución de las retribuciones básicas y complementarias fijas y periódicas.
+2. El tiempo de permanencia en la situación de segunda actividad es computable a los efectos de perfeccionamiento de trienios y de derechos pasivos.
+
+### Artículo 72
+
+Artículo 72. Régimen jurídico.
+1. El pase a la situación de segunda actividad no conllevará la pérdida de la condición de agente de la autoridad.
+2. Los funcionarios en situación de segunda actividad estarán sujetos a idéntico régimen disciplinario y de incompatibilidad que en el servicio activo, salvo que desempeñen puestos de trabajo distintos a los de los cuerpos de Policía local. En este caso estarán sometidos al régimen general disciplinario de los funcionarios de la Administración local o al específico de aplicación al puesto que ocupen.
+3. En la situación de segunda actividad no se podrá participar en procedimientos de promoción interna o concursos de traslados, salvo cuando se hubiera accedido por causa de embarazo o lactancia.
+
+### Artículo 73
+
+Artículo 73. Tribunal médico.
+1. Reglamentariamente se determinará la composición de los tribunales médicos que dictaminarán si las afecciones o enfermedades físicas o psíquicas están incursas o no en el cuadro de incompatibilidades médicas para la prestación del servicio ordinario.
+2. El tribunal emitirá un dictamen médico y lo dirigirá al órgano competente para su resolución, en el cual propondrá el pase a la segunda actividad o que se tramite el correspondiente expediente de incapacidad o, si procede, de jubilación forzosa.
+
+## CAPÍTULO IV
+
+Distinciones y recompensas
+
+### Artículo 74
+
+Artículo 74. Distinciones y recompensas.
+1. Los miembros de los cuerpos de Policía local de Galicia pueden ser distinguidos o recompensados de acuerdo con lo que se determine reglamentariamente.
+2. Todas las distinciones y las recompensas otorgadas a los miembros de los cuerpos de Policía local de Galicia constarán en sus expedientes personales, valorándose como mérito en los concursos de provisión de puestos de trabajo. También podrán tenerse en cuenta en los procesos de provisión por el sistema de libre designación.
+
+## TÍTULO VII
+
+Del régimen disciplinario
+Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 75
+
+Artículo 75. Disposiciones generales.
+1. El régimen disciplinario de los cuerpos de la Policía local, sin perjuicio de la observancia de las garantías reconocidas en el ordenamiento jurídico, se inspirará en los principios básicos de actuación que se establecen en el capítulo II del título II de la presente ley.
+2. Sin perjuicio de las responsabilidades civiles y penales que pudiesen proceder, el régimen disciplinario de aplicación al personal de los cuerpos de la Policía local será el que se establece en la presente ley, en la Ley Orgánica 4/2010, en la Ley Orgánica 2/1986 y, en su defecto, en la legislación vigente en materia de función pública.
+Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 76
+
+Artículo 76. Ámbito de aplicación.
+1. La presente ley es de aplicación al personal funcionario de los cuerpos de Policía local que se halle en las situaciones de servicio activo y de segunda actividad ocupando destino en el cuerpo de Policía local.
+2. El personal funcionario en situación de segunda actividad sin ocupar destino en el cuerpo de Policía local estará sometido al régimen general disciplinario de la función pública.
+3. Aquel personal que se halle en situación distinta de las anteriores incurrirá en responsabilidad disciplinaria por las faltas previstas en la presente ley que pudiera cometer dentro de sus peculiares situaciones administrativas en razón de su pertenencia a un cuerpo de Policía local, siempre que no le sea de aplicación otro régimen disciplinario o que, de serlo, no estuviera prevista en el mismo aquella conducta.
+4. El personal en prácticas queda sometido a las normas de régimen disciplinario establecidas en el Reglamento de régimen interior de la Academia Gallega de Seguridad Pública y, con carácter supletorio para aquellos supuestos en que el hecho no constituyese falta de disciplina docente, a las normas de la presente ley que le sean de aplicación, sin perjuicio de las normas específicas que regulen su procedimiento de selección.
+Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 77
+
+Artículo 77. Personas responsables, obligación de comunicación de infracciones y extensión de responsabilidad.
+1. El personal de los cuerpos de la Policía local puede incurrir en responsabilidad disciplinaria por la comisión de las faltas que se tipifican en este título, desde el momento de la toma de posesión hasta el de jubilación o pérdida de la condición de personal funcionario.
+2. El personal de los cuerpos de Policía local tendrá la obligación de comunicar por escrito al mando superior inmediato los hechos de que tuviera conocimiento que estime constitutivos de faltas graves y muy graves, salvo cuando este mando superior sea la persona a denunciar, en cuyo caso la comunicación se efectuará al mando superior inmediato de aquella.
+3. Incurrirán en la misma responsabilidad prevista para las personas autoras de una falta aquellas que indujesen a su comisión.
+4. Asimismo, incurrirán en falta de inferior grado las personas que hayan encubierto la comisión de una falta muy grave o grave y los mandos que la tolerasen. Se entenderá por encubrimiento no dar cuenta al mando superior jerárquico competente, de forma inmediata, de los hechos constitutivos de falta muy grave o grave de que se tuviera conocimiento.
+Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 78
+
+Artículo 78. Faltas disciplinarias.
+Las faltas disciplinarias en que puede incurrir el personal de los cuerpos de Policía local podrán ser muy graves, graves o leves.
+Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 79
+
+Artículo 79. Faltas muy graves.
+Son faltas muy graves:
+a) El incumplimiento del deber de fidelidad a la Constitución y al Estatuto de autonomía en el ejercicio de sus funciones.
+b) Haber sido condenado/a en virtud de sentencia firme por un delito doloso relacionado con el servicio o que causase grave daño a la Administración o a las personas.
+c) El abuso de atribuciones que causase grave daño a la ciudadanía, al personal subordinado, a la Administración o a las entidades con personalidad jurídica.
+d) La práctica de tratos inhumanos, degradantes, discriminatorios o vejatorios a la ciudadanía que se encuentre bajo custodia policial.
+e) La insubordinación individual o colectiva, respecto a las autoridades o mandos de que dependan.
+f) El abandono de servicio, salvo que exista causa de fuerza mayor que impida comunicar al mando superior dicho abandono.
+g) La publicación o la utilización indebida de secretos oficiales, declarados así conforme a la legislación específica en la materia.
+h) La violación del secreto profesional cuando perjudicase el desarrollo de la labor policial, a la ciudadanía o a las entidades con personalidad jurídica.
+i) El incumplimiento de las normas sobre incompatibilidades cuando ello diese lugar a una situación de incompatibilidad.
+j) La participación en huelgas, en acciones sustitutivas de estas o en actuaciones concertadas con el fin de alterar el normal funcionamiento de los servicios.
+k) La falta de colaboración manifiesta con otro personal de las fuerzas y cuerpos de seguridad, cuando resultase perjudicado gravemente el servicio o se derivasen consecuencias graves para la seguridad ciudadana.
+l) Embriagarse o consumir drogas tóxicas, estupefacientes o sustancias psicotrópicas durante el servicio o realizarlo en estado de embriaguez o bajo los efectos manifiestos de los productos citados.
+m) La negativa injustificada a someterse a reconocimiento médico o a prueba de alcoholemia o de detección de drogas tóxicas, estupefacientes o sustancias psicotrópicas, legítimamente ordenados, con el fin de constatar la capacidad psicofísica para prestar el servicio.
+n) Toda actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual, sexo, lengua, opinión, lugar de nacimiento o vecindad, o cualquier otra condición o circunstancia personal o social.
+ñ) El acoso sexual y el acoso laboral, consistente este último en la realización reiterada, en el marco de una relación de servicio, de actos de acoso psicológico u hostilidad.
+o) La obstaculización grave al ejercicio de las libertades públicas y derechos sindicales.
+p) Las infracciones tipificadas como muy graves en la legislación sobre utilización de videocámaras por las fuerzas y cuerpos de seguridad en lugares públicos.
+Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 80
+
+Artículo 80. Faltas graves.
+Son faltas graves:
+a) La grave desconsideración con el personal de pertenencia al cuerpo o con la ciudadanía, en el ejercicio de sus funciones o cuando causase descrédito notorio a la institución policial.
+b) La desobediencia a los mandos superiores jerárquicos o responsables del servicio con motivo de las órdenes o instrucciones legítimas dadas por aquellos, salvo que constituyesen infracción manifiesta del ordenamiento jurídico.
+c) La omisión de la obligación de informar a la superioridad con la debida diligencia de todo asunto que, por su entidad, requiera su conocimiento o decisión urgente.
+d) La falta de presentación o puesta a disposición inmediata en la dependencia de destino o en la más próxima, en los casos de declaración de los estados de alarma, excepción o sitio o cuando así se disponga, en caso de alteración grave de la seguridad ciudadana.
+e) La tercera falta injustificada de asistencia al servicio en un periodo de tres meses cuando las dos anteriores hubiesen sido objeto de sanción firme por falta leve.
+f) No prestar servicio alegando supuesta enfermedad.
+g) La falta de rendimiento reiterada que ocasionase un perjuicio a la ciudadanía, a las entidades con personalidad jurídica o a la eficacia de los servicios.
+h) El abuso de atribuciones cuando no constituya infracción muy grave.
+i) La emisión de informes sobre asuntos de servicio que, sin faltar abiertamente a la verdad, la desnaturalicen, valiéndose de términos ambiguos, confusos o tendenciosos, o la alteren mediante inexactitudes, cuando se causase perjuicio a la Administración o a la ciudadanía, siempre que el hecho no constituyese delito o falta muy grave.
+j) La intervención en un procedimiento administrativo cuando concurra alguna de las causas legales de abstención.
+k) No portar durante el servicio el uniforme reglamentario, cuando su uso sea preceptivo, los distintivos de la categoría o cargo, el arma reglamentaria o los medios de protección o acción que se determinen, siempre que no mediase autorización en contra.
+l) Exhibir armas sin causa que lo justifique, así como utilizarlas en acto de servicio o fuera del mismo infringiendo las normas que regulan su empleo.
+m) Dar lugar al extravío, pérdida o sustracción por negligencia inexcusable de los distintivos de identificación o del arma reglamentaria.
+n) Asistir de uniforme a cualquier manifestación o reunión pública, salvo que se trate de actos de servicio u actos oficiales en que la asistencia de uniforme estuviera indicada o hubiese sido autorizada.
+ñ) Causar, por negligencia inexcusable, daños graves en la conservación de los locales, del material o de los demás elementos relacionados con el servicio o dar lugar al extravío, pérdida o sustracción de los mismos.
+o) Impedir, limitar u obstaculizar al personal subordinado el ejercicio de los derechos que tenga reconocidos, siempre que no constituyese falta muy grave.
+p) Embriagarse o consumir drogas tóxicas, estupefacientes o sustancias psicotrópicas fuera del servicio, cuando tales circunstancias tuvieran carácter habitual o afectasen a la imagen del cuerpo policial. Se entenderá que existe habitualidad cuando estuviesen acreditados tres o más episodios de embriaguez o consumo de las sustancias referidas en un periodo de un año.
+q) La tenencia de drogas tóxicas, estupefacientes o sustancias psicotrópicas, salvo que esa tenencia se derivase de actuaciones propias del servicio.
+r) Solicitar y obtener cambios de destino mediando cualquier recompensa o ánimo de lucro o falseando las condiciones que los regulan.
+s) Emplear o autorizar la utilización para usos no relacionados con el servicio o con ocasión del mismo, o sin que mediase causa justificada, de medios o recursos inherentes a la función policial.
+t) Las infracciones a lo dispuesto en la legislación sobre utilización de videocámaras por las fuerzas y cuerpos de seguridad en lugares públicos no constitutivas de falta muy grave.
+u) El incumplimiento de los plazos u otras disposiciones de procedimiento en materia de incompatibilidades, cuando no supongan mantenimiento de una situación de incompatibilidad.
+v) La violación del secreto profesional cuando no perjudicase el desarrollo de la labor policial, a las entidades con personalidad jurídica o a la ciudadanía.
+w) La falta de colaboración manifiesta con otro personal de los cuerpos y fuerzas de seguridad, siempre que no merezca la calificación de falta muy grave.
+x) La infracción de deberes u obligaciones legales inherentes al cargo o a la función policial, cuando se produzcan de forma grave y manifiesta.
+y) Haber sido condenado/a en virtud de sentencia firme por un delito doloso, siempre que no constituya infracción muy grave, o por una falta dolosa cuando la infracción penal cometida estuviera relacionada con el servicio.
+z) La no prestación de auxilio con urgencia en aquellos hechos o circunstancias graves en que sea obligada su actuación, salvo que constituya delito.
+z bis) La infracción de las normas de prevención de riesgos laborales que pusiera en grave riesgo la vida, la salud o la integridad física, propia o del demás personal del cuerpo de pertenencia.
+z ter) La negativa reiterada a tramitar cualquier solicitud, reclamación o queja relacionada con el servicio, siempre que no constituya falta leve.
+z quáter) Aquellas acciones u omisiones tipificadas como faltas muy graves que, de acuerdo con los criterios que se establecen en el artículo 82, merezcan la calificación de graves, y sin que estas, a su vez, puedan ser calificadas como faltas leves.
+Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 81
+
+Artículo 81. Faltas leves.
+Son faltas leves:
+a) El retraso o la negligencia en el cumplimiento de las funciones y órdenes recibidas.
+b) La incorrección con la ciudadanía, o con otro personal de los cuerpos y fuerzas de seguridad, siempre que no merezca una calificación más grave.
+c) La inasistencia al servicio que no constituya falta de mayor gravedad y el incumplimiento de la jornada de trabajo, así como las faltas repetidas de puntualidad, en los treinta días precedentes.
+d) El mal uso o el descuido en la conservación de los locales, del material o de los demás elementos de los servicios, así como el incumplimiento de las normas dadas en esta materia, cuando no constituya falta más grave.
+e) Dar lugar al extravío, pérdida o sustracción, por simple negligencia, de los distintivos de identificación, el arma reglamentaria u otros medios o recursos destinados a la función policial.
+f) La exhibición de los distintivos de identificación sin causa justificada.
+g) Prescindir del conducto reglamentario para formular cualquier solicitud, reclamación o queja relacionada con el servicio, así como no tramitarlas.
+Quedan exceptuadas del conducto reglamentario aquellas que sean formuladas por la representación de las organizaciones sindicales en el ejercicio de su actividad sindical.
+h) El descuido en el aseo personal y el incumplimiento de las normas sobre la uniformidad, siempre que no constituya falta grave.
+i) La ausencia injustificada de cualquier servicio, cuando no merezca calificación más grave.
+j) La omisión intencionada de saludo a un superior, que este no lo devuelva o infringir de otro modo las normas que lo regulan.
+k) Cualquier clase de juego que se lleve a cabo en las dependencias policiales, siempre que perjudicase la prestación del servicio o menoscabase la imagen policial.
+l) Portar insignias, condecoraciones u otros distintivos sin estar autorizado para ello, siempre que no merezca una calificación más grave.
+m) Haber sido condenado/a en virtud de sentencia firme por una falta dolosa cuando la infracción penal cometida causase daño a la Administración o a la ciudadanía.
+n) Aquellas acciones u omisiones tipificadas como faltas graves que, de acuerdo con los criterios que se establecen en el artículo 82, merezcan la calificación de leves.
+Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 82
+
+Artículo 82. Criterios de graduación de sanciones.
+Para la graduación de la sanción a imponer, y actuando bajo el principio de proporcionalidad, se tendrán en cuenta los siguientes criterios:
+a) La intencionalidad.
+b) La reincidencia. Existe reincidencia cuando la persona, al cometer la falta, ya hubiese sido anteriormente sancionada en resolución firme por otra falta de mayor gravedad o por dos de gravedad igual o inferior y que no hubiesen sido canceladas.
+A los efectos de la reincidencia, no se computarán los antecedentes disciplinarios cancelados o que hubieran debido serlo.
+c) El historial profesional, a estos efectos, solo podrá valorarse como circunstancia atenuante.
+d) La incidencia sobre la seguridad ciudadana.
+e) La perturbación en el normal funcionamiento de la Administración o de los servicios que le estuvieran encomendados.
+f) El grado de afectación a los principios de disciplina, jerarquía y subordinación.
+g) En el caso de los artículos 79.b) y 80.y) se valorará específicamente la cuantía o entidad de la pena impuesta en virtud de sentencia firme, así como la relación de la conducta delictiva con las funciones policiales.
+Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 83
+
+Artículo 83. Sanciones.
+1. Las sanciones que pueden imponerse por la comisión de faltas muy graves son:
+a) La separación del servicio.
+b) La suspensión de funciones desde tres meses y un día hasta un máximo de seis años.
+2. Por faltas graves podrá imponerse la sanción de suspensión de funciones desde cinco días a tres meses.
+3. Las sanciones que pueden imponerse por la comisión de faltas leves son:
+a) La suspensión de funciones de uno a cuatro días, que no supondrá la pérdida de antigüedad ni implicará la inmovilización en el escalafón.
+b) El apercibimiento.
+Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 84
+
+Artículo 84. Prescripción de las faltas.
+1. Las faltas muy graves prescribirán a los tres años; las graves, a los dos años; y las leves, al mes.
+2. El plazo de prescripción comenzará a contarse desde que la falta se haya cometido, salvo que esta se derivase de hechos que fueran objeto de condena por delito doloso, en cuyo caso el plazo comenzará a contar desde la fecha de firmeza de la sentencia condenatoria.
+3. La prescripción se interrumpirá por la iniciación del procedimiento; a estos efectos, la resolución por la que se acuerde su incoación deberá ser debidamente registrada y notificada a la persona expedientada o publicada, siempre que esta no fuese hallada. El plazo de prescripción se reanudará si el procedimiento hubiera permanecido paralizado durante más de seis meses por causa no imputable a la persona sometida a expediente.
+4. Cuando se inicie un procedimiento penal contra personal funcionario de policía, la prescripción de las infracciones disciplinarias que de los hechos pudiesen derivarse quedará suspendida por la incoación de aquel procedimiento, incluso cuando no se haya procedido disciplinariamente. En estos supuestos, el plazo volverá a contar desde la fecha de firmeza de la resolución judicial.
+Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 85
+
+Artículo 85. Prescripción de las sanciones.
+1. Las sanciones muy graves prescribirán a los tres años; las graves, a los dos años; y las leves, al mes. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que adquiriesen firmeza.
+2. En el supuesto de suspensión de sanciones, si estas son firmes, el plazo de prescripción se computará desde el día siguiente a aquel en que se llevó a efecto la suspensión.
+3. En caso de concurrencia de varias sanciones, el plazo de prescripción de las sanciones que sean firmes y estén pendientes de cumplimiento comenzará a contarse desde el día siguiente a aquel en que quedase extinguida la sanción que la preceda en el orden de cumplimiento o, en su caso, desde la fecha en que haya surtido eficacia la inejecución de la sanción.
+4. El cumplimiento de los plazos de prescripción de la sanción supone la cancelación de las correspondientes anotaciones en el expediente personal.
+Transcurrido el plazo para la prescripción de la sanción, el órgano competente lo acordará de oficio, notificándolo a las personas interesadas.
+Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 86
+
+Artículo 86. Cancelación.
+1. Las sanciones disciplinarias se anotarán en el registro de personal, con indicación de las faltas que las motivan.
+2. Transcurridos seis meses desde el cumplimiento de la sanción si se tratase de faltas leves, o dos y tres años, respectivamente, según se trate de faltas graves o muy graves no sancionadas con separación del servicio, se acordará de oficio la cancelación de aquellas anotaciones, siempre que durante aquel tiempo no hubiese sido sancionada la persona expedientada por hechos cometidos en esos mismos periodos.
+3. La cancelación surtirá el efecto de anular la anotación sin que pueda certificarse sobre ella, salvo cuando lo solicitasen las autoridades competentes para ello, haciéndose constar expresamente la cancelación, y a los solos efectos de su expediente personal.
+Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 87
+
+Artículo 87. Procedimiento.
+1. El procedimiento sancionador del personal de los cuerpos de Policía local se ajustará a los principios de legalidad, impulso de oficio, imparcialidad, agilidad, eficacia, publicidad, contradicción, irretroactividad, tipicidad, responsabilidad, proporcionalidad y concurrencia de sanciones, comprendiendo esencialmente los derechos a la presunción de inocencia, información, defensa y audiencia.
+2. Únicamente podrán imponerse sanciones disciplinarias en virtud de procedimiento disciplinario instruido al efecto, de acuerdo con lo que se determine reglamentariamente según la tipología de las faltas.
+3. La iniciación de un procedimiento penal contra el personal de los cuerpos de Policía local no impedirá la incoación de procedimientos disciplinarios por los mismos hechos. No obstante, su resolución definitiva solo podrá producirse cuando la sentencia dictada en el ámbito penal sea firme, vinculando la declaración de hechos probados que contenga a la Administración.
+4. Solo podrá recaer sanción penal y administrativa sobre los mismos hechos cuando no hubiese identidad de fundamento jurídico y bien jurídico protegido.
+5. En la resolución por la que se incoe el procedimiento sancionador se nombrará una persona instructora y una persona secretaria, a cuyo cargo estará la tramitación. El nombramiento de la persona instructora recaerá en personal funcionario perteneciente a la categoría o escala igual o superior al de la persona presuntamente infractora, y, en el supuesto de que sea igual, deberá ocupar un número anterior en el escalafón. En el supuesto de que exista personal funcionario de las escalas superior y técnica, se procurará que el nombramiento recaiga en personal funcionario perteneciente a las citadas escalas. En defecto de personal funcionario de categoría o escala igual o superior, se nombrará una persona funcionaria de la Administración local, de igual o superior grupo de clasificación. Podrá nombrarse como persona secretaria a cualquier personal funcionario municipal con la formación adecuada.
+Se añade el apartado 5 por el art. 40.16 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica por el art. único.21 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+## TÍTULO VIII
+
+Vigilantes municipales y auxiliares de la Policía local
+
+### Artículo 88
+
+Artículo 88. Vigilantes municipales.
+1. De acuerdo con lo dispuesto en la Ley orgánica de fuerzas y cuerpos de seguridad, en los ayuntamientos que no dispongan de cuerpo de Policía local podrán realizarse las funciones de custodia y vigilancia de bienes, servicios e instalaciones con personal funcionario de carrera, que recibirá la denominación de vigilantes municipales.
+2. Los ayuntamientos podrán crear un máximo de dos puestos de trabajo de vigilantes municipales. Si las necesidades del servicio demandasen un número mayor, los ayuntamientos podrán iniciar la creación del cuerpo de Policía local tal y como se establece en la presente ley.
+3. En los ayuntamientos en que ya exista el cuerpo de Policía local no podrán crearse plazas de vigilantes municipales.
+
+### Artículo 89
+
+Artículo 89. Funciones.
+1. Sin perjuicio de otras que puedan tener asignadas en los respectivos ayuntamientos, las funciones de carácter policial que podrán desempeñar los vigilantes municipales son las siguientes:
+a) Custodiar y vigilar bienes, servicios, instalaciones y dependencias municipales.
+b) Ordenar, señalizar y dirigir el tráfico en el suelo urbano legalmente delimitado, de acuerdo con las normas de circulación.
+c) Velar por el cumplimiento de las ordenanzas, bandos y demás disposiciones y actos municipales dentro de su ámbito de competencia.
+d) Participar en las tareas de auxilio al ciudadano y de protección civil, de acuerdo con lo dispuesto en las leyes.
+2. El ejercicio de las funciones de los apartados b)y c) del número 1 habrá de ajustarse a los principios básicos de actuación establecidos en la Ley orgánica de fuerzas y cuerpos de seguridad, y contemplados en el artículo 7 de la presente ley, ostentando en el ejercicio de sus competencias la condición de agentes de la autoridad.
+
+### Artículo 90
+
+Artículo 90. Ámbito de actuación.
+1. El ámbito de actuación de los vigilantes municipales será el del ayuntamiento a que pertenezcan, sin perjuicio de lo dispuesto en la legislación vigente en cada caso para los supuestos de catástrofe o calamidad pública.
+2. Los ayuntamientos que sólo dispongan de vigilantes municipales podrán acogerse a lo dispuesto en el artículo 6 de la presente ley, de modo que en fechas determinadas puedan atender las necesidades del servicio de seguridad del ayuntamiento con la actuación de miembros de las policías locales, o vigilantes municipales, en su caso, de otros ayuntamientos con los que previamente se hubiese celebrado el convenio oportuno.
+
+### Artículo 91
+
+Artículo 91. Organización y funcionamiento.
+1. Con carácter general, los vigilantes municipales estarán sometidos a las mismas normas de organización y funcionamiento que el resto de funcionarios del ayuntamiento.
+2. Donde exista cuerpo de Policía local y, por tanto, los vigilantes municipales sean una clase a extinguir, dependerán orgánica y funcionalmente del mismo, siéndoles de aplicación las normas comunes de funcionamiento y, asimismo, los deberes y derechos que no sean exclusivos del personal sometido al estatuto policial establecido por el propio reglamento.
+
+### Artículo 92
+
+Artículo 92. Ingreso.
+1. Las plazas de vigilante municipal serán ocupadas por funcionarios de carrera.
+2. La selección se hará por el procedimiento de oposición, siguiendo criterios semejantes a los fijados para los integrantes de los cuerpos de la Policía local, contemplados en el artículo 33 de la presente ley, adaptando las pruebas de conocimientos a la titulación correspondiente, siempre de acuerdo con la normativa aplicable a la selección de los funcionarios de la Administración local.
+3. Para el acceso a vigilante municipal se requerirá la certificación de haber superado la educación secundaria obligatoria, título de graduado escolar o equivalente, correspondiente al grupo C, subgrupo C2, del estatuto básico del empleado público.
+4. El acceso a la condición de vigilante municipal requerirá inexcusablemente que los aspirantes realicen y superen previamente un curso de formación programado por la Academia Gallega de Seguridad Pública y adaptado a las características de su función.
+Se modifica el apartado 3 por el art.único.22 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 93
+
+Artículo 93. Régimen estatutario.
+Sin perjuicio de lo dispuesto en la presente ley, los vigilantes municipales se regirán por el estatuto aplicable a los funcionarios de la Administración local.
+
+### Artículo 94
+
+Artículo 94. Uniformidad y medios técnicos.
+1. Los vigilantes municipales actuarán con el uniforme y distintivos propios de su clase, de conformidad con lo que se disponga reglamentariamente por la Xunta de Galicia en desarrollo de la presente ley.
+2. En todo caso, la uniformidad de los vigilantes municipales habrá de diferenciarse claramente de la que sea propia de los cuerpos de la Policía local.
+3. Los vigilantes municipales no podrán portar armas de fuego.
+
+### Artículo 95
+
+Artículo 95. Auxiliares de Policía local.
+1. En los ayuntamientos con aumento notorio de población en temporadas determinadas podrá incrementarse transitoriamente su plantilla de personal mediante la contratación de personal con funciones de auxiliar de policía. Dicho incremento no superará el cincuenta por ciento del personal funcionario de la Policía local, no pudiendo tampoco tener una duración de más de cuatro meses en periodo anual.
+2. El establecimiento del personal a que se refiere este apartado requerirá la tramitación por los respectivos ayuntamientos de un expediente motivado, del cual habrá de darse cuenta a la consejería competente en materia de seguridad de la Xunta de Galicia.
+3. Los auxiliares de Policía local desempeñarán las funciones de apoyo y de auxilio a los miembros del cuerpo de Policía local en el marco de lo dispuesto en la legislación de cuerpos y fuerzas de seguridad.
+4. La selección se hará siguiendo criterios semejantes a los fijados para los integrantes de los cuerpos de la Policía local, contemplados en el artículo 35 de la presente ley.
+5. Para la contratación como personal auxiliar de la Policía local se requerirá la certificación de haber superado la educación secundaria obligatoria, título de graduado escolar o equivalente, correspondiente al grupo C, subgrupo C2, del Estatuto básico del empleado público.
+6. Para poder ejercer estas funciones, los auxiliares tendrán que superar previamente un curso teórico-práctico en la Academia Gallega de Seguridad Pública.
+7. En determinados casos, debida y objetivamente justificados a la consejería competente, podrá permitirse la contratación a los ayuntamientos de un número de auxiliares superior al mencionado en el apartado 1 de este artículo, o por plazo de tiempo superior que no excederá, en todo caso, de los seis meses dentro del año natural.
+Se modifica el apartado 5 por el art.único.23 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Artículo 96
+
+Artículo 96. Uniformidad.
+Para el desempeño de sus funciones, los auxiliares de Policía local deberán vestir el uniforme correspondiente al cuerpo de Policía local en que presten temporalmente sus servicios, diferenciándose de aquéllos en las siguientes particularidades:
+a) No llevarán placa-emblema ni distintivo alguno en las hombreras y harán constar su condición con la leyenda de «Auxiliar de policía local».
+b) Irán provistos de un documento de acreditación semejante al de los miembros de los cuerpos de Policía local, en el cual se sustituirá la categoría de policía por «auxiliar de Policía local», y su número de identificación, dado por el ayuntamiento, irá precedido de una «A» mayúscula.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Reintegración de categorías de los cuerpos de la Policía local de Galicia.
+1. A partir de la entrada en vigor de la presente ley, las anteriores categorías de inspector, subinspector, oficial, suboficial, sargento, cabo y guardia pasarán a integrarse en las siguientes categorías: inspector en la de superintendente, subinspector en la de intendente principal, oficial en la de intendente, suboficial en la de inspector principal, sargento en la de inspector, cabo en la de oficial y guardia en la de policía.
+2. Donde no exista cuerpo de Policía local, los auxiliares de Policía local o los funcionarios con funciones semejantes, cualquiera que sea su denominación, pasarán a denominarse vigilantes municipales.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Integración de los vigilantes y auxiliares de policía o interinos en los cuerpos de Policía local.
+Los/Las vigilantes y auxiliares de policía y personal interino con una antigüedad mínima en estos puestos de tres años continuados en la respectiva entidad local y que en el momento de la entrada en vigor de la presente ley estén prestando servicios en el ayuntamiento de que se trate se integrarán en el cuerpo de Policía local ya existente o en el que se cree, previa superación, en un plazo de dos años desde la entrada en vigor de la presente ley y por un máximo de dos convocatorias, de un concurso-oposición con dispensa de los requisitos de edad y estatura.
+Se modifica por el art. único.24 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Disposición adicional segunda bis
+
+Disposición adicional segunda bis. Reglamentos.
+1. Los ayuntamientos podrán elaborar y aprobar un reglamento de organización y funcionamiento del cuerpo de Policía local, que habrá de ajustarse a lo establecido en la normativa de coordinación vigente, como normas marco de referencia.
+2. Este reglamento deberá contar con el informe favorable de la Comisión de Coordinación de Policías Locales de Galicia.
+3. En el mismo podrán contemplarse aquellos aspectos relacionados con la estructura del cuerpo, la creación de unidades funcionales y la provisión de puestos en ella y la definición y cobertura de los puestos de mando y de la jefatura del cuerpo en su caso, así como aquellas cuestiones relacionadas con la prestación del servicio por el personal en situación de segunda actividad.
+Se añade por el art. único.25 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Clasificación e integración de los funcionarios de la Policía local.
+1. En el plazo de tres años desde la entrada en vigor de la presente ley, los funcionarios de los cuerpos de Policía local de la escala básica, ejecutiva, técnica y superior se entenderán clasificados, únicamente a los efectos retributivos, en los grupos C, B y A, sin que este hecho pueda suponer necesariamente un incremento de gasto público ni modificación del cómputo anual de las retribuciones totales de los funcionarios de esas escalas y categorías.
+2. Transcurridos tres años, a contar desde la entrada en vigor de la presente ley, el personal funcionario que posea la titulación académica requerida para el acceso a las escalas y categorías en que es reclasificado quedará integrado, a todos los efectos, en las mismas. Por el contrario, aquel que careciese de la citada titulación académica quedará integrado, a todos los efectos, en las escalas y categorías en que es reclasificado, pero en este caso en la situación de «a extinguir», permaneciendo en ellas hasta que acreditase la obtención de los niveles de titulación académica exigidos en cada caso.
+3. Los trienios que se hayan perfeccionado en las escalas y categorías que estructuran la Policía local con anterioridad a la entrada en vigor de la Ley de Policía de la Comunidad Autónoma de Galicia se valorarán de acuerdo con el grupo de clasificación a que pertenecía el funcionario en el momento de su perfeccionamiento.
+4. La clasificación de los funcionarios de la Policía local prevista en la presente disposición se llevará a efecto de modo que no suponga necesariamente incremento en el cómputo conjunto de sus retribuciones. En estos casos percibirán el sueldo base y los trienios correspondientes al nuevo grupo de titulación, pero el exceso sobre el del grupo anterior se deducirá de sus retribuciones complementarias, preferentemente del concepto de productividad, si lo hay, referidas a catorce mensualidades al cómputo anual, de forma que se perciban idénticas remuneraciones globales respecto a la situación anterior.
+Se modifica el apartado 2 por el art. único.26 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Procedimientos selectivos en curso en los cuerpos de Policía local.
+Los procesos de selección convocados con anterioridad a la entrada en vigor de la presente ley se regirán, en cuanto a las titulaciones a exigir para el acceso al cuerpo, por la normativa anterior.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Segunda actividad.
+Los funcionarios que hayan cumplido, en el momento de la entrada en vigor de la presente ley, la edad mínima establecida en la misma para el pase a la situación de segunda actividad irán accediendo a esta última de manera gradual. Los ayuntamientos deberán regularizar la situación en el plazo de cinco años, a contar desde la entrada en vigor de la presente ley.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Queda derogada la Ley 3/1992, de 23 de marzo, de coordinación de las policías locales, y todas las disposiciones de igual o inferior rango en lo que se opongan o contradigan lo establecido en la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo normativo.
+Se faculta al Consello de la Xunta de Galicia para realizar el desarrollo reglamentario de la presente ley.
+El decreto de homologación de los distintivos de acreditación profesional y registro de policías locales se publicará en el plazo de seis meses desde la entrada en vigor de la presente ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Reglamento de la segunda actividad.
+Las circunstancias y condiciones de la situación administrativa de la segunda actividad no contempladas en la presente ley se determinarán reglamentariamente.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley entrará en vigor a los veinte días de su publicación en el Diario Oficial de Galicia.
+
+Santiago de Compostela, 20 de abril de 2007.
+El Presidente,
+Emilio Pérez Touriño.
+
+## [Información relacionada]
+
+Información relacionada
+ Véase las disposiciones adicionales 1 y 2 de la Ley 9/2016, de 8 de julio. Ref. BOE-A-2016-8269, sobre equivalencia de titulaciones y otros requisitos a los efectos del acceso a los cuerpos de Policía local del personal funcionario.

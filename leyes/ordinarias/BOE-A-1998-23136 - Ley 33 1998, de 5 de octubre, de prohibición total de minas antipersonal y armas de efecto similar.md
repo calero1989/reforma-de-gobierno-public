@@ -1,0 +1,146 @@
+# Ley 33/1998, de 5 de octubre, de prohibición total de minas antipersonal y armas de efecto similar.
+
+- Identificador BOE: `BOE-A-1998-23136`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-23136
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 33/1998, de 5 de octubre, de prohibición total de minas antipersonal, municiones en racimo y armas de efecto similar", según establece el art. único.1 de la Ley 27/2015, de 28 de julio . Ref. BOE-A-2015-8471.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+Esta Ley pretende contribuir al objetivo de salvar las vidas de miles de víctimas inocentes y es expresión de la solidaridad de España con todos los pueblos de La Tierra.
+El principio universalmente aceptado del derecho internacional humanitario, según el cual el derecho de las partes en un conflicto armado a elegir los métodos o medios de combate no es ilimitado, ha impulsado una serie de iniciativas a nivel internacional encaminadas a prohibir el empleo en los conflictos armados de armas, proyectiles, materiales y métodos de combate de naturaleza tal que causen daños superfluos o sufrimientos innecesarios, especialmente a la población civil.
+En el caso concreto de las minas antipersonal, su uso indiscriminado en algunos conflictos armados ha provocado una situación en la que millones de artefactos de este tipo se encuentran dispersos e incontrolados en extensas áreas de un gran número de países, dando lugar a diario a muertes, mutilaciones y sufrimientos de personas inocentes o indefensas, incluso niños.
+La comunidad internacional, liderada por Naciones Unidas, consciente de los desastres que el uso indiscriminado de estas armas provoca en las poblaciones de tantos países, convocó una conferencia internacional que finalizó con la aprobación de la Convención de 1980 sobre prohibiciones o restricciones del empleo de ciertas armas convencionales que puedan considerarse excesivamente nocivas o de efectos indiscriminados, cuyo Protocolo II trata precisamente de las minas antipersonal.
+En 1993, la Asamblea General de las Naciones Unidas aprobó una Resolución sobre «Suspensión de la exportación de minas antipersonal» en la que se exhortaba a los Estados a que «convengan en que se decrete una suspensión de la exportación de las minas antipersonal que entrañan graves peligros para las poblaciones civiles».
+Las disposiciones de la Convención de 1980 se hicieron más estrictas con la adopción del Protocolo II enmendado en la primera Conferencia de revisión de la Convención que finalizó el 31 de mayo de 1996. Sin embargo, los resultados derivados de la aprobación del nuevo texto no fueron suficientes. El movimiento de opinión a escala mundial, muestra de la toma de conciencia pública en el fomento de los principios humanitarios, ha cristalizado en las Declaraciones de Ottawa de 5 de octubre de 1996 y de Bruselas de 27 de junio de 1997, que instan a la comunidad internacional a negociar un acuerdo jurídicamente vinculante que prohíba el uso, almacenamiento, producción y transferencias de minas antipersonal. Por ello, en la Conferencia diplomática de Oslo, el 18 de septiembre de 1997, que preparó el texto del Acuerdo firmado en Ottawa en diciembre del mismo año, se acordó la prohibición del empleo, almacenamiento, producción y transferencia de minas antipersonal y la destrucción de todas las existencias que cada país parte de la Convención posea, ya sea en almacén o en zonas minadas bajo su jurisdicción o control.
+La actitud de España en esta cuestión ha sido siempre la de mantener una política activa de anticipación a la eventuales reformas de la Convención de 1980, adoptando moratorias unilaterales a la exportación y promoviendo, junto con otros gobiernos, la aprobación de resoluciones en Naciones Unidas que exhortan a que todos los países se sumen a este tipo de medidas. En este contexto figuran la moratoria española a la exportación de minas de febrero de 1994, renovada en febrero de 1995, la moratoria con carácter indefinido aprobada por el Gobierno español en mayo de 1996 y nuestra adhesión a la Acción Común de la Unión Europea de 28 de noviembre de 1997. Fiel exponente de esta actitud ha sido la participación española en tareas multinacionales de detección y limpieza de minas en los últimos años.
+En la misma línea mantenida hasta el momento, y en coincidencia con los términos de la proposición no de ley del Congreso de los Diputados de fecha 25 de febrero de 1997, el Gobierno español continuará las acciones ya emprendidas para lograr la universalidad de las medidas orientadas a la prohibición de empleo y eliminación de las minas antipersonal, promoviendo la adhesión a ellas de todos los países del mundo.
+También promoverá dicha universalidad en todos los foros internacionales pertinentes incluida, entre ellos, la Conferencia de Desarme de las Naciones Unidas.
+De la misma manera continuará impulsando las tareas humanitarias de limpieza de minas y las acciones multilaterales necesarias para lograr tecnologías de localización, desactivación y destrucción de las minas antipersonal actualmente desplegadas, así como para el apoyo y la asistencia destinada a la recuperación física y psicológica de sus innumerables víctimas.
+A dicho objetivo también responde esta Ley, que recoge y refleja nuestro apoyo financiero, técnico y humanitario a los programas de detección, desactivación y desmantelamiento de las minas existentes, a los de cooperación y asistencia a sus víctimas (concienciación, educación y rehabilitación de las poblaciones afectadas), así como al Fondo Fiduciario Internacional de Naciones Unidas para dichos fines.
+La presente Ley se dicta dentro del pleno apoyo que España ha venido demostrando a la eliminación total de las minas antipersonal, teniendo en cuenta los criterios establecidos en la Convención de Ottawa de 1997 y en respuesta a la proposición no de ley del Congreso de los Diputados anteriormente citada.
+
+### Artículo 1
+
+Artículo 1. Definiciones
+Por "mina antipersonal" se entiende toda mina concebida para que explosione por la presencia, la proximidad o el contacto de una persona, y que incapacite, hiera o mate a una o más personas. Las minas diseñadas para detonar por la presencia, la proximidad o el contacto de un vehículo y no de una persona, que estén provistas de un dispositivo antimanipulación, no son consideradas minas antipersonal por estar así constituidas.
+Por "mina" se entiende todo artefacto explosivo diseñado para ser colocado debajo, sobre o cerca de la superficie del terreno u otra superficie cualquiera y concebido para explosionar por la presencia, la proximidad o el contacto de una persona o vehículo.
+Por "dispositivo antimanipulación" se entiende un dispositivo destinado a proteger una mina y que forma parte de ella, que está conectado, fijado, o colocado bajo la mina, y que se activa cuando se intenta manipularla o activarla intencionadamente de alguna otra manera.
+Por "medios de lanzamiento o dispersión de minas" se entiende aquellos vectores o mecanismos específicamente concebidos como medio de lanzamiento o dispersión de minas antipersonal.
+Por "munición en racimo" se entiende una munición convencional que ha sido diseñada para dispersar o liberar submuniciones explosivas, cada una de ellas de un peso inferior a 20 kilogramos, y que incluye estas submuniciones explosivas. La definición no incluye:
+a) Una munición o submunición diseñada para emitir bengalas, humo, efectos de pirotecnia o contramedidas de radar ("chaff") o una munición diseñada exclusivamente con una función de defensa aérea.
+b) Una munición o submunición diseñada para producir efectos eléctricos o electrónicos.
+c) Una munición que, a fin de evitar efectos indiscriminados en una zona, así como los riesgos que entrañan las submuniciones sin estallar, reúne todas las características siguientes:
+i. Cada munición contiene menos de diez submuniciones explosivas.
+ii. Cada submunición explosiva pesa más de cuatro kilogramos.
+iii. Cada submunición explosiva está diseñada para detectar y atacar un objeto que constituya un blanco único.
+iv. Cada submunición explosiva está equipada con un mecanismo de autodestrucción electrónico.
+v. Cada submunición explosiva está equipada con un dispositivo de autodesactivación electrónico.
+Por "submunición sin estallar" se entiende una submunición explosiva que ha sido dispersada o liberada, o que se ha separado de otro modo, de una munición en racimo, y no ha estallado como se esperaba.
+Por "submunición explosiva" se entiende una munición convencional que, para desarrollar su función, es dispersada o liberada por una munición en racimo y está diseñada para funcionar mediante la detonación de una carga explosiva antes del impacto, de manera simultánea al impacto o con posterioridad al mismo.
+Por "munición en racimo fallida" se entiende una munición en racimo que ha sido disparada, soltada, lanzada, proyectada o arrojada de otro modo y que debería haber dispersado o liberado sus submuniciones explosivas pero no lo hizo.
+Por "municiones en racimo abandonadas" se entiende aquellas municiones en racimo o submuniciones explosivas que no han sido usadas y que han sido abandonadas o desechadas y ya no se encuentran bajo el control de la Parte que las abandonó o desechó. Pueden o no haber sido preparadas para su empleo.
+Por "bombeta explosiva" se entiende una munición convencional, de menos de 20 kilogramos de peso, que no es autopropulsada y que, para realizar su función, debe ser dispersada o liberada por un dispositivo emisor, y que está diseñada para funcionar mediante la detonación de una carga explosiva antes del impacto, de manera simultánea al impacto o con posterioridad al mismo.
+Por "dispositivo emisor" se entiende un contenedor que está diseñado para dispersar o liberar bombetas explosivas y que está fijado en una aeronave en el momento de la dispersión o liberación.
+Por "bombeta sin estallar" se entiende una bombeta explosiva que ha sido dispersada, liberada o separada de otro modo de un emisor y no ha estallado como se esperaba.
+Por "restos de municiones en racimo" se entiende municiones en racimo fallidas, municiones en racimo abandonadas, submuniciones sin estallar y bombetas sin estallar.
+Por "área contaminada con municiones en racimo" se entiende un área que se sabe o se sospecha que contiene restos de municiones en racimo.
+Por "mecanismo de autodestrucción" se entiende un mecanismo de funcionamiento automático incorporado que es adicional al mecanismo iniciador primario de la munición y que asegura la destrucción de la munición en la que está incorporado.
+Por "autodesactivación" se entiende el hacer inactiva, de manera automática, una munición por medio del agotamiento irreversible de un componente, como, por ejemplo, una batería, que es esencial para el funcionamiento de la munición.
+"Transferencia" supone, además del traslado físico de minas antipersonal y municiones en racimo dentro o fuera de un territorio nacional, la transferencia del dominio y control sobre las minas antipersonal y las municiones en racimo, pero no incluye la transferencia del territorio que contenga restos de las minas antipersonal y las municiones en racimo.
+Por "víctimas" se entiende todas las personas que han perdido la vida o han sufrido un daño físico o psicológico, una pérdida económica, marginación social o un daño sustancial en la realización de sus derechos debido al empleo de minas, municiones en racimo, armas trampa y otros artefactos. La definición incluye a aquellas personas directamente afectadas por estas armas, así como a los familiares y comunidades perjudicados.
+Se modifica por el art. único.2 de la Ley 27/2015, de 28 de julio. Ref. BOE-A-2015-8471.
+
+### Artículo 2
+
+Artículo 2. Prohibición total del empleo, almacenamiento, producción y transferencia.
+1. Queda prohibido el empleo, desarrollo, producción, adquisición de un modo u otro, almacenamiento, conservación, transferencia o exportación a cualquiera, directa o indirectamente, de las minas antipersonal, municiones en racimo, bombetas explosivas, armas de efecto similar y otros tipos de armas convencionales especificadas en los protocolos anejos de la Convención de 1980 sobre prohibiciones o restricciones del empleo de ciertas armas convencionales que puedan considerarse excesivamente nocivas o de efectos indiscriminados, así como de su tecnología y patentes.
+Asimismo, queda prohibida la financiación o la publicidad de este tipo de armas, y de los conceptos explicitados en el párrafo anterior, por cualquier medio.
+Igualmente, queda prohibido ayudar, alentar o inducir a cualquiera a participar en una actividad prohibida por esta ley o por las convenciones de las que España es parte.
+La infracción de esta ley será sancionada de conformidad con el Código Penal.
+2. La transferencia de minas antipersonal y de municiones en racimo está permitida cuando se realiza para su destrucción.
+3. No se interpretarán como actividades prohibidas en esta ley la cooperación militar y participación en operaciones militares por el Estado, su personal militar o sus nacionales con otros Estados que no sean parte de la Convención de municiones en racimo y utilicen este tipo de armas.
+No obstante, lo dispuesto anteriormente no autoriza a:
+a) Desarrollar, producir o adquirir de un modo u otro, minas antipersonal o municiones en racimo.
+b) Almacenar o transferir minas antipersonal o municiones en racimo.
+c) Utilizar minas antipersonal o municiones en racimo.
+d) Solicitar expresamente el uso de minas antipersonal o municiones en racimo en casos en los que la elección de las municiones utilizadas se encuentre bajo su control exclusivo.
+Se modifica por el art. único.3 de la Ley 27/2015, de 28 de julio. Ref. BOE-A-2015-8471.
+
+### Artículo 3
+
+Artículo 3. Destrucción de las minas antipersonal y municiones en racimo.
+1. El Estado se compromete a destruir o a garantizar la destrucción de todas las minas antipersonal y municiones en racimo, incluidas aquellas que pudieran ser descubiertas con posterioridad a la entrada en vigor de las convenciones y de haber destruido los arsenales existentes.
+El Ministerio de Defensa velará porque todas las minas antipersonal y municiones en racimo existentes bajo jurisdicción y control español sean destruidas en el plazo más breve posible y en todo caso dentro de los plazos estipulados en las respectivas convenciones (cuatro años para minas antipersonal y ocho años para municiones en racimo).
+La destrucción de las minas antipersonal y de las municiones en racimo se hará mediante procedimientos que cumplan las normas internacionales, europeas y nacionales aplicables para la protección de la salud pública y el medio ambiente, y así respeten las condiciones medioambientales de la zona en que se destruyan.
+2. Todas las empresas que hayan sido productoras de minas antipersonal y/o de municiones en racimo, u otras armas de efecto similar prohibidas por las convenciones citadas, así como cualquiera que pueda poseerlas con cualquier propósito, deberán informar al Ministerio de Defensa del total de estas armas que les pertenezcan o tengan, o que estén bajo su control, incluyendo un desglose del tipo, cantidad y, si fuera posible, los números de lote de cada tipo de arma y proceder a su destrucción lo antes posible y, en todo caso, dentro de los plazos que marcan las convenciones.
+Asimismo dichas empresas informarán sobre la situación y el avance de los programas de reconversión o cierre definitivo de las instalaciones de producción de las armas prohibidas en esta ley.
+3. El Gobierno informará a las Cortes Generales de los planes y plazos adecuados para proceder al cumplimiento efectivo de lo establecido en este artículo y de cuanto se dispone en el artículo 7 de la Convención sobre minas antipersonal y de la Convención sobre municiones en racimo, anualmente y hasta la efectiva y total destrucción de las minas antipersonal y municiones en racimo existentes en el territorio español.
+Se modifica por el art. único.4 de la Ley 27/2015, de 28 de julio. Ref. BOE-A-2015-8471.
+
+### Artículo 4
+
+Artículo 4. Prohibición de utilizar medios de lanzamiento o dispersión de minas antipersonal.
+Queda prohibido el empleo, desarrollo, producción, adquisición de un modo u otro, almacenamiento, conservación, transferencia o exportación a cualquiera, directa o indirectamente, de vectores específicamente concebidos como medio de lanzamiento o dispersión de minas antipersonal, y de armas de efecto similar especificadas en el Protocolo enmendado II de la Convención de 1980, así como de su tecnología.
+
+### Artículo 5
+
+Artículo 5. Excepciones.
+1. Sin perjuicio de lo establecido en el artículo 2 de esta ley, se permite al Ministerio de Defensa la retención o la transferencia de una cantidad de minas antipersonal y municiones en racimo para el desarrollo de técnicas de detección, limpieza o destrucción de estos artefactos y el adiestramiento en dichas técnicas. La cantidad de tales minas antipersonal y municiones en racimo no deberá exceder la cantidad mínima absolutamente necesaria para realizar los propósitos mencionados.
+La destrucción de las minas antipersonal y de las municiones en racimo, a la que hace referencia el artículo 3 de esta ley, no afectará a las que se mantengan a los efectos señalados en el párrafo anterior.
+2. De acuerdo con las previsiones establecidas por el artículo 3, apartado 3, de esta ley, el Gobierno informará a las Cortes Generales respecto de las cantidades mínimas imprescindibles destinadas al desarrollo de técnicas de detección, limpieza o destrucción de minas antipersonal y municiones en racimo, con especial detalle de las transferencias que hubieran podido ser realizadas con estos propósitos.
+3. El Gobierno remitirá a la Secretaría General de Naciones Unidas los informes de actualización de datos preceptivos, de conformidad con las convenciones de las que España es parte.
+4. El Gobierno modificará los documentos que contienen la doctrina de defensa española de acuerdo con las disposiciones y prohibiciones de esta ley.
+Se modifica por el art. único.5 de la Ley 27/2015, de 28 de julio. Ref. BOE-A-2015-8471.
+
+### Artículo 6
+
+Artículo 6. Cooperación y asistencia internacional.
+1. El Gobierno adoptará cuantas disposiciones fueren necesarias para seguir comprometiendo el apoyo financiero y la colaboración en programas y proyectos de ayuda humanitaria, en el marco de las campañas internacionales con este fin, tanto de carácter bilateral o multilateral, que requieran la contribución y apoyo por parte de España para la detección, desactivación y desmantelamiento de las minas y de los restos explosivos de guerra, en especial los restos de municiones en racimo, existentes en otros Estados.
+2. El Gobierno mantendrá la necesaria provisión de partidas presupuestarias anuales específicas en apoyo de los fondos fiduciarios internacionales y/o regionales, de Naciones Unidas y/o de organizaciones regionales existentes para dichos fines, para programas de desminado y de limpieza y destrucción de restos explosivos de guerra, incluidos los de municiones en racimo, así como una contribución tecnológica y de formación de equipos adecuados para contribuir a su total erradicación.
+3. El Gobierno adoptará cuantas disposiciones fueren necesarias para seguir comprometiendo el apoyo financiero y la colaboración de España en programas de cooperación y asistencia a las víctimas de minas antipersonal y restos explosivos de guerra, incluidos de municiones en racimo, a sus familias y sus comunidades de pertenencia, incluyendo atención médica, rehabilitación, apoyo psicológico, inclusión social y económica, concienciación, prevención de accidentes, educación y rehabilitación de las poblaciones afectadas.
+4. En los compromisos o acuerdos de cooperación para operaciones de desminado y de limpieza y destrucción de restos explosivos de guerra y de municiones en racimo que, por acuerdo bilateral o a solicitud de los organismos internacionales de los que forme parte el Reino de España, sean contraídos por el Gobierno español, el Ministerio de Defensa destacará en misiones específicas al personal militar profesional especialista en dichas técnicas, para realizar las correspondientes actuaciones de detección, limpieza y eliminación de las minas antipersonal y restos explosivos de guerra, en especial los derivados de la utilización de municiones en racimo.
+5. Se dedicará especial atención a la cooperación técnica y de formación a personal experto en técnicas de desminado y de desactivación de restos explosivos de guerra y de artefactos improvisados de países afectados, en especial en los centros especializados, entre ellos el Centro Internacional de Desminado del Ministerio de Defensa.
+Se modifica por el art. único.6 de la Ley 27/2015, de 28 de julio. Ref. BOE-A-2015-8471.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Financiación.
+1. Los gastos ocasionados por la destrucción de las minas antipersonal almacenadas serán financiados con los créditos correspondientes del Ministerio de Defensa.
+2. Los gastos derivados de la destrucción de las municiones en racimo serán asumidos por quien las posea. La Administración General del Estado tendrá derecho a ser resarcida por las empresas productoras o poseedoras incumplidoras de sus obligaciones, si tal incumplimiento derivara en responsabilidad exigible al Estado.
+Se modifica por el art. único.7 de la Ley 27/2015, de 28 de julio. Ref. BOE-A-2015-8471.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Sanciones.
+El incumplimiento de las obligaciones establecidas en la presente Ley será sancionable de acuerdo con la legislación sectorial correspondiente.
+El Gobierno adoptará todas las medidas legales, administrativas y de otra índole que procedan para prevenir y reprimir cualquier actividad prohibida por esta Ley.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Facultades de desarrollo y ejecución.
+Se autoriza al Consejo de Ministros para dictar las disposiciones necesarias en desarrollo de la presente Ley, a propuesta de los Ministros de Asuntos Exteriores, de Defensa y de Economía y Hacienda.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto, Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley.
+Madrid, 5 de octubre de 1998.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

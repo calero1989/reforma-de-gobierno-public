@@ -1,0 +1,432 @@
+# Ley 49/1960, de 21 de julio, sobre propiedad horizontal.
+
+- Identificador BOE: `BOE-A-1960-10906`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1960-10906
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Si en términos generales toda ordenación jurídica no puede concebirse ni instaurarse a espaldas de las exigencias de la realidad social a que va destinada, tanto más ha de ser así cuando versa sobre una institución que, como la propiedad horizontal, ha adquirido, sobre todo en los últimos años, tan pujante vitalidad, pese a no encontrar más apoyo normativo que el abiertamente insuficiente representado por el artículo trescientos noventa y seis del Código Civil. La presente ley pretende, pues, seguir la realidad social de los hechos. Pero no en el simple sentido de convertir en norma cualquier dato obtenido de la práctica, sino con un alcance más amplio y profundo. De un lado, a causa de la dimensión de futuro inherente a la ordenación jurídica, que impide entenderla como mera sanción de lo que hoy acontece y obliga a la previsión de lo que puede acontecer. Y de otro lado, porque si bien el punto de partida y el destino inmediato de las normas es regir las relaciones humanas, para lo cual importa mucho su adecuación a las concretas e históricas exigencias y contingencias de la vida, no hay que olvidar tampoco que su finalidad última, singularmente cuando se concibe el Derecho positivo en función del Derecho natural, es lograr un orden de convivencia presidido por la idea de la justicia, la cual, como virtud moral, se sobrepone tanto a la realidad de los hechos como a las determinaciones del legislador, que siempre han de hallarse limitadas y orientadas por ella.
+Hay un hecho social básico que en los tiempos modernos ha influido sobre manera en la ordenación de la propiedad urbana. Se manifiesta a través de un factor constante, cual es la insuprimible necesidad de las edificaciones, tanto para la vida de la persona y la familia como para el desarrollo de fundamentales actividades, constituidas por el comercio, la industria y, en general, el ejercicio de las profesiones. Junto a ese factor, que es constante en el sentido de ser connatural a todo sistema de vida y de convivencia dentro de una elemental civilización, se ofrece hoy, provocado por muy diversas determinaciones, otro factor que se exterioriza en términos muy acusados, y es el representado por las dificultades que entraña la adquisición, la disponibilidad y el disfrute de los locales habitables. La acción del Estado ha considerado y atendido a esta situación real en tres esferas, aunque diversas, muy directamente relacionadas: en la esfera de la construcción impulsándola a virtud de medidas indirectas e incluso, en ocasiones, afrontando de modo directo la empresa; en la esfera del arrendamiento, a través de una legislación frecuentemente renovada, que restringe el poder autónomo de la voluntad con el fin de asegurar una permanencia en el disfrute de las viviendas y los locales de negocio en condiciones económicas sometidas a un sistema de intervención y revisión, y en la esfera de la propiedad, a virtud principalmente de la llamada propiedad horizontal, que proyecta esta titularidad sobre determinados espacios de la edificación. La esencial razón de ser del régimen de la propiedad horizontal descansa en la finalidad de lograr el acceso a la propiedad urbana mediante una inversión de capital que, al poder quedar circunscrita al espacio y elementos indispensables para atender a las propias necesidades, es menos cuantiosa y, por lo mismo, más asequible a todos y la única posible para grandes sectores de personas. Siendo ello así, el régimen de la propiedad horizontal no sólo precisa ser reconocido, sino que además requiere que se le aliente y encauce, dotándole de una ordenación completa y eficaz. Y más aún si se observa que, por otra parte, mientras las disposiciones legislativas vigentes en materia de arrendamientos urbanos no pasan de ser remedios ocasionales, que resuelven el conflicto de intereses de un modo imperfecto, puesto que el fortalecimiento de la institución arrendaticia se consigue imponiendo a la propiedad una carga que difícilmente puede sobrellevar; en cambio, conjugando las medidas dirigidas al incremento de la construcción con un bien organizado régimen de la propiedad horizontal, se afronta el problema de la vivienda y los conexos a él en un plano más adecuado, que permite soluciones estables; y ello a la larga redundará en ventaja del propio régimen arrendaticio, que podrá, sin la presión de unas exigencias acuciantes, liberalizarse y cumplir normalmente su función económico-social.
+La ley representa, más que una reforma de la legalidad vigente, la ordenación «ex novo», de manera completa, de la propiedad por pisos. Se lleva a cabo mediante una ley de carácter general, en el sentido de ser de aplicación a todo el territorio nacional. El artículo trescientos noventa y seis del Código Civil, como ocurre en supuestos análogos, recoge las notas esenciales de este régimen de propiedad y, por lo demás, queda reducido a norma de remisión. El carácter general de la ley viene aconsejado, sobre todo, por la razón de política legislativa derivada de que la necesidad a que sirve se manifiesta por igual en todo el territorio; pero también se ha tenido en cuenta una razón de técnica legislativa, como es la de que las disposiciones en que se traduce, sin descender a lo reglamentario, son a veces de una circunstanciada concreción que excede de la tónica propia de un Código Civil.
+La propiedad horizontal hizo su irrupción en los ordenamientos jurídicos como una modalidad de la comunidad de bienes. El progresivo desenvolvimiento de la institución ha tendido principalmente a subrayar los perfiles que la independizan de la comunidad. La modificación que introdujo la Ley de 26 octubre 1939 en el texto del artículo trescientos noventa y seis del Código Civil ya significó un avance en ese sentido, toda vez que reconoció la propiedad privativa o singular del piso o local, quedando la comunidad, como accesoria, circunscrita a lo que se ha venido llamando elementos comunes. La ley –que recoge el material preparado con ponderación y cuidado por la Comisión de Códigos–, dando un paso más, pretende llevar al máximo posible la individualización de la propiedad desde el punto de vista del objeto. A tal fin, a este objeto de la relación, constituido por el piso o local, se incorpora el propio inmueble, sus pertenencias y servicios. Mientras sobre el piso «stricto sensu», o espacio, delimitado y de aprovechamiento independiente, el uso y disfrute son privativos, sobre el «inmueble», edificación, pertenencias y servicios –abstracción hecha de los particulares espacios– tales usos y disfrute han de ser, naturalmente, compartidos; pero unos y otros derechos, aunque distintos en su alcance, se reputan inseparablemente unidos, unidad que también mantienen respecto de la facultad de disposición. Con base en la misma idea se regula el coeficiente o cuota, que no es ya la participación en lo anteriormente denominado elementos comunes, sino que expresa, activa y también pasivamente, como módulo para cargas, el valor proporcional del piso y a cuanto él se considera unido, en el conjunto del inmueble, el cual, al mismo tiempo que se divide física y jurídicamente en pisos o locales se divide así económicamente en fracciones o cuotas.
+En este propósito individualizador no hay que ver una preocupación dogmática y mucho menos la consagración de una ideología de signo individualista. Se trata de que no olvidando la ya aludida función social que cumple esta institución, entender que el designio de simplificar y facilitar el régimen de la propiedad horizontal se realiza así de modo más satisfactorio. Con el alejamiento del sistema de la comunidad de bienes resulta, ya no sólo congruente, sino tranquilizadora la expresa eliminación de los derechos de tanteo y retracto, reconocidos, con ciertas peculiaridades, en la hasta ahora vigente redacción del mencionado artículo trescientos noventa y seis. Ahora bien: tampoco en este caso ha sido esa sola consideración técnica la que ha guiado la ley. Decisivo influjo han ejercido tanto la notoria experiencia de que actualmente se ha hecho casi cláusula de estilo la exclusión de tales derechos como el pensamiento de que no se persigue aquí una concentración de la propiedad de los pisos o locales, sino, por el contrario, su más amplia difusión.
+Motivo de especial estudio ha sido lo concerniente a la constitución del régimen de la propiedad horizontal y a la determinación del conjunto de deberes y derechos que lo integran. Hasta ahora, y ello tiene una justificación histórica, esta materia ha estado entregada casi de modo total, en defecto de normas legales, a la autonomía privada reflejada en los Estatutos. Estos, frecuentemente, no eran fruto de las libres determinaciones recíprocas de los contratantes, sino que, de ordinario, los dictaba, con sujeción a ciertos tipos generalizados por la práctica, el promotor de la empresa de construcción, limitándose a prestar su adhesión las personas que ingresaban en el régimen de la propiedad horizontal. La ley brinda una regulación que, por un lado, es suficiente por sí –con las salvedades dejadas a la iniciativa privada– para constituir, en lo esencial, el sistema jurídico que presida y gobierne esta clase de relaciones, y, por otro lado, admite que, por obra de la voluntad, se especifiquen, completen y hasta modifiquen ciertos derechos y deberes, siempre que no se contravengan las normas de derecho necesario, claramente deducibles de los mismos términos de la ley. De ahí que la formulación de Estatutos no resultará indispensable, si bien podrán éstos cumplir la función de desarrollar la ordenación legal y adecuarla a las concretas circunstancias de los diversos casos y situaciones.
+El sistema de derechos y deberes en el seno de la propiedad horizontal aparece estructurado en razón de los intereses en juego.
+Los derechos de disfrute tienden a atribuir al titular las máximas posibilidades de utilización, con el límite representado tanto por la concurrencia de los derechos de igual clase de los demás cuanto por el interés general, que se encarna en la conservación del edificio y en la subsistencia del régimen de propiedad horizontal, que requiere una base material y objetiva. Por lo mismo, íntimamente unidos a los derechos de disfrute aparecen los deberes de igual naturaleza. Se ha tratado de configurarlos con criterios inspirados en las relaciones de vecindad, procurando dictar unas normas dirigidas a asegurar que el ejercicio del derecho propio no se traduzca en perjuicio del ajeno ni en menoscabo del conjunto, para así dejar establecidas las bases de una convivencia normal y pacífica.
+Además de regular los derechos y deberes correspondientes al disfrute, la ley se ocupa de aquellos otros que se refieren a los desembolsos económicos a que han de atender conjuntamente los titulares, bien por derivarse de las instalaciones y servicios de carácter general, o bien por constituir cargas o tributos que afectan a la totalidad del edificio. El criterio básico tenido en cuenta para determinar la participación de cada uno en el desembolso a realizar es la expresada cuota o coeficiente asignado al piso o local, cuidándose de significar que la no utilización del servicio generador del gasto no exime de la obligación correspondiente.
+Una de las más importantes novedades que contiene la ley es la de vigorizar en todo lo posible la fuerza vinculante de los deberes impuestos a los titulares, así por lo que concierne al disfrute del apartamento, cuanto por lo que se refiere al abono de gastos. Mediante la aplicación de las normas generales vigentes en la materia, el incumplimiento de las obligaciones genera la acción dirigida a exigir judicialmente su cumplimiento, bien de modo específico, esto es, imponiendo a través de la coacción lo que voluntariamente no se ha observado, o bien en virtud de la pertinente indemnización. Pero esta normal sanción del incumplimiento puede no resultar suficientemente eficaz en casos como los aquí considerados, y ello por diversas razones: una es la de que la inobservancia del deber trae repercusiones sumamente perturbadoras para grupos extensos de personas, al paso que dificulta el funcionamiento del régimen de propiedad horizontal; otra razón es la de que, en lo relativo a los deberes de disfrute, la imposición judicial del cumplimiento específico es prácticamente imposible por el carácter negativo de la obligación, y la indemnización no cubre la finalidad que se persigue de armonizar la convivencia. Por eso se prevé la posibilidad de la privación judicial del disfrute del piso o local cuando concurran circunstancias taxativamente señaladas, y por otra parte se asegura la contribución a los gastos comunes con una afectación real del piso o local al pago de este crédito considerado preferente.
+La concurrencia de una colectividad de personas en la titularidad de derechos que, sin perjuicio de su sustancial individualización, recaen sobre fracciones de un mismo edificio y dan lugar a relaciones de interdependencia que afectan a los respectivos titulares, ha hecho indispensable en la práctica la creación de órganos de gestión y administración. La ley, que en todo momento se ha querido mostrar abierta a las enseñanzas de la experiencia, la ha tenido muy especialmente en cuenta en esta materia. Y fruto de ella, así como de la detenida ponderación de los diversos problemas, ha sido confiar normalmente el adecuado funcionamiento del régimen de propiedad horizontal a tres órganos: la Junta, el Presidente de la misma y el Administrador. La Junta, compuesta de todos los titulares, tiene los cometidos propios de un órgano rector colectivo, ha de reunirse preceptivamente una vez al año, y para la adopción de acuerdos válidos se requiere, por regla general, el voto favorable tanto de la mayoría numérica o personal cuanto de la económica, salvo cuando la trascendencia de la materia requiera la unanimidad, o bien cuando, por el contrario por la relativa importancia de aquélla, y para que la simple pasividad de los propietarios no entorpezca el funcionamiento de la institución, sea suficiente la simple mayoría de los asistentes. El cargo de Presidente, que ha de ser elegido del seno de la Junta, lleva implícita la representación de todos los titulares en juicio y fuera de él, con lo que se resuelve el delicado problema de legitimación que se ha venido produciendo. Y, finalmente, el Administrador, que ha de ser designado por la Junta y es amovible, sea o no miembro de ella, ha de actuar siempre en dependencia de la misma, sin perjuicio de cumplir en todo caso las obligaciones que directamente se le imponen.
+Por otra parte se ha dado a esto una cierta flexibilidad para que el número de estas personas encargadas de la representación y gestión sea mayor o menor según la importancia y necesidad de la colectividad.
+Por último, debe señalarse que la economía del sistema establecido tiene interesantes repercusiones en cuanto afecta al Registro de la Propiedad y exige una breve reforma en la legislación hipotecaria. Se ha partido, en un afán de claridad, de la conveniencia de agregar dos párrafos al artículo octavo de la vigente Ley Hipotecaria, el cuarto y el quinto, que sancionan, en principio, la posibilidad de la inscripción del edificio en su conjunto, sometido al régimen de propiedad horizontal, y al mismo tiempo la del piso o local como finca independiente, con folio registral propio.
+El número cuarto del mencionado artículo octavo prevé la hipótesis normal de constitución del régimen de propiedad horizontal, es decir, la construcción de un edificio por un titular que lo destine precisamente a la enajenación de pisos, y el caso, menos frecuente, de que varios propietarios de un edificio traten de salir de la indivisión de mutuo acuerdo, o construyan un edificio con ánimo de distribuirlo, «ab initio», entre ellos mismos, transformándose en propietarios singulares de apartamento o fracciones independientes. A título excepcional, con el mismo propósito de simplificar los asientos, se permite inscribir a la vez la adjudicación concreta de los repetidos apartamentos a favor de sus respectivos titulares, siempre que así lo soliciten todos ellos.
+Y el número quinto del mismo artículo octavo permite crear el folio autónomo e independiente de cada piso o local, siempre que consten previamente inscritos el inmueble y la constitución del régimen de propiedad horizontal.
+En su virtud, y de conformidad con la propuesta elaborada por las Cortes Españolas,
+D I S P O N G O :
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo primero
+
+Artículo primero.
+La presente Ley tiene por objeto la regulación de la forma especial de propiedad establecida en el artículo 396 del Código Civil, que se denomina propiedad horizontal.
+A efectos de esta Ley tendrán también la consideración de locales aquellas partes de un edificio que sean susceptibles de aprovechamiento independiente por tener salida a un elemento común de aquél o a la vía pública.
+Se modifica por el art. 1 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Artículo segundo
+
+Artículo segundo.
+Esta Ley será de aplicación:
+a) A las comunidades de propietarios constituidas con arreglo a lo dispuesto en el artículo 5.
+b) A las comunidades que reúnan los requisitos establecidos en el artículo 396 del Código Civil y no hubiesen otorgado el título constitutivo de la propiedad horizontal.
+Estas comunidades se regirán, en todo caso, por las disposiciones de esta Ley en lo relativo al régimen jurídico de la propiedad, de sus partes privativas y elementos comunes, así como en cuanto a los derechos y obligaciones recíprocas de los comuneros.
+c) A los complejos inmobiliarios privados, en los términos establecidos en esta Ley.
+d) A las subcomunidades, entendiendo por tales las que resultan cuando, de acuerdo con lo dispuesto en el título constitutivo, varios propietarios disponen, en régimen de comunidad, para su uso y disfrute exclusivo, de determinados elementos o servicios comunes dotados de unidad e independencia funcional o económica.
+e) A las entidades urbanísticas de conservación en los casos en que así lo dispongan sus estatutos.
+Se añaden las letras d) y e) por la disposición final 1.1 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+ Se modifica por el art. 2 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+## CAPÍTULO II
+
+Del régimen de la propiedad por pisos o locales.
+Se modifica la rúbrica por el art. 3 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Artículo tercero
+
+Artículo tercero.
+En el régimen de propiedad establecido en el artículo 396 del Código Civil corresponde a cada piso o local:
+a) El derecho singular y exclusivo de propiedad sobre un espacio suficientemente delimitado y susceptible de aprovechamiento independiente, con los elementos arquitectónicos e instalaciones de todas clases, aparentes o no, que estén comprendidos dentro de sus límites y sirvan exclusivamente al propietario, así como el de los anejos que expresamente hayan sido señalados en el título, aunque se hallen situados fuera del espacio delimitado.
+b) La copropiedad, con los demás dueños de pisos o locales, de los restantes elementos, pertenencias y servicios comunes.
+A cada piso o local se atribuirá una cuota de participación con relación al total del valor del inmueble y referida a centésimas del mismo. Dicha cuota servirá de módulo para determinar la participación en las cargas y beneficios por razón de la comunidad. Las mejoras o menoscabos de cada piso o local no alterarán la cuota atribuida, que sólo podrá variarse de acuerdo con lo establecido en los artículos 10 y 17 de esta Ley.
+Cada propietario puede libremente disponer de su derecho, sin poder separar los elementos que lo integran y sin que la transmisión del disfrute afecte a las obligaciones derivadas de este régimen de propiedad.
+Se modifica por la disposición final 1.2 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+
+### Artículo cuarto
+
+Artículo cuarto.
+La acción de división no procederá para hacer cesar la situación que regula esta ley. Sólo podrá ejercitarse por cada propietario proindiviso sobre un piso o local determinado, circunscrita al mismo, y siempre que la proindivisión no haya sido establecida de intento para el servicio o utilidad común de todos los propietarios.
+
+### Artículo quinto
+
+Artículo quinto.
+El título constitutivo de la propiedad por pisos o locales describirá, además del inmueble en su conjunto, cada uno de aquéllos al que se asignará número correlativo. La descripción del inmueble habrá de expresar las circunstancias exigidas en la legislación hipotecaria y los servicios e instalaciones con que cuente el mismo. La de cada piso o local expresará su extensión, linderos, planta en la que se hallare y los anejos, tales como garaje, buhardilla o sótano.
+En el mismo título se fijará la cuota de participación que corresponde a cada piso o local, determinada por el propietario único del edificio al iniciar su venta por pisos, por acuerdo de todos los propietarios existentes, por laudo o por resolución judicial. Para su fijación se tomará como base la superficie útil de cada piso o local en relación con el total del inmueble, su emplazamiento interior o exterior, su situación y el uso que se presuma racionalmente que va a efectuarse de los servicios o elementos comunes.
+El título podrá contener, además, reglas de constitución y ejercicio del derecho y disposiciones no prohibidas por la ley en orden al uso o destino del edificio, sus diferentes pisos o locales, instalaciones y servicios, gastos, administración y gobierno, seguros, conservación y reparaciones, formando un estatuto privativo que no perjudicará a terceros si no ha sido inscrito en el Registro de la Propiedad.
+En cualquier modificación del título, y a salvo lo que se dispone sobre validez de acuerdos, se observarán los mismos requisitos que para la constitución.
+
+### Artículo sexto
+
+Artículo sexto.
+Para regular los detalles de la convivencia y la adecuada utilización de los servicios y cosas comunes, y dentro de los límites establecidos por la Ley y los estatutos, el conjunto de propietarios podrá fijar normas de régimen interior que obligarán también a todo titular mientras no sean modificadas en la forma prevista para tomar acuerdos sobre la administración.
+
+### Artículo séptimo
+
+Artículo séptimo.
+1. El propietario de cada piso o local podrá modificar los elementos arquitectónicos, instalaciones o servicios de aquél cuando no menoscabe o altere la seguridad del edificio, su estructura general, su configuración o estado exteriores, o perjudique los derechos de otro propietario, debiendo dar cuenta de tales obras previamente a quien represente a la comunidad.
+En el resto del inmueble no podrá realizar alteración alguna y si advirtiere la necesidad de reparaciones urgentes deberá comunicarlo sin dilación al administrador.
+2. Al propietario y al ocupante del piso o local no les está permitido desarrollar en él o en el resto del inmueble actividades prohibidas en los estatutos, que resulten dañosas para la finca o que contravengan las disposiciones generales sobre actividades molestas, insalubres, nocivas, peligrosas o ilícitas.
+El presidente de la comunidad, a iniciativa propia o de cualquiera de los propietarios u ocupantes, requerirá a quien realice las actividades prohibidas por este apartado la inmediata cesación de las mismas, bajo apercibimiento de iniciar las acciones judiciales procedentes.
+Si el infractor persistiere en su conducta el Presidente, previa autorización de la Junta de propietarios, debidamente convocada al efecto, podrá entablar contra él acción de cesación que, en lo no previsto expresamente por este artículo, se sustanciará a través del juicio ordinario.
+Presentada la demanda, acompañada de la acreditación del requerimiento fehaciente al infractor y de la certificación del acuerdo adoptado por la Junta de propietarios, el juez podrá acordar con carácter cautelar la cesación inmediata de la actividad prohibida, bajo apercibimiento de incurrir en delito de desobediencia. Podrá adoptar asimismo cuantas medidas cautelares fueran precisas para asegurar la efectividad de la orden de cesación. La demanda habrá de dirigirse contra el propietario y, en su caso, contra el ocupante de la vivienda o local.
+Si la sentencia fuese estimatoria podrá disponer, además de la cesación definitiva de la actividad prohibida y la indemnización de daños y perjuicios que proceda, la privación del derecho al uso de la vivienda o local por tiempo no superior a tres años, en función de la gravedad de la infracción y de los perjuicios ocasionados a la comunidad. Si el infractor no fuese el propietario, la sentencia podrá declarar extinguidos definitivamente todos sus derechos relativos a la vivienda o local, así como su inmediato lanzamiento.
+3. El propietario de cada vivienda que quiera realizar el ejercicio de la actividad a que se refiere la letra e) del artículo 5 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, en los términos establecidos en la normativa sectorial turística, deberá obtener previamente la aprobación expresa de la comunidad de propietarios, en los términos establecidos en el apartado 12 del artículo diecisiete de esta Ley.
+El presidente de la comunidad, a iniciativa propia o de cualquiera de los propietarios u ocupantes, requerirá a quien realice la actividad del apartado anterior, sin que haya sido aprobada expresamente, la inmediata cesación de las mismas, bajo apercibimiento de iniciar las acciones judiciales procedentes, siendo de aplicación lo dispuesto en el apartado anterior.
+Téngase en cuenta que este apartado 3, añadido por la disposición final 4.1 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-4, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+Se añade el apartado 3, con efectos de 3 de abril de 2025 por la disposición final 1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-4
+ Se modifica el párrafo tercero del apartado 2 por la disposición final 1 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323
+ Se modifica por el art. 4 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Artículo octavo
+
+Artículo octavo.
+(Derogado).
+Se deroga por la disposición derogatoria única.1ª de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+
+### Artículo noveno
+
+Artículo noveno.
+1. Son obligaciones de cada propietario:
+a) Respetar las instalaciones generales de la comunidad y demás elementos comunes, ya sean de uso general o privativo de cualquiera de los propietarios, estén o no incluidos en su piso o local, haciendo un uso adecuado de los mismos y evitando en todo momento que se causen daños o desperfectos.
+b) Mantener en buen estado de conservación su propio piso o local e instalaciones privativas, en términos que no perjudiquen a la comunidad o a los otros propietarios, resarciendo los daños que ocasione por su descuido o el de las personas por quienes deba responder.
+c) Consentir en su vivienda o local las reparaciones que exija el servicio del inmueble y permitir en él las servidumbres imprescindibles requeridas para la realización de obras, actuaciones o la creación de servicios comunes llevadas a cabo o acordadas conforme a lo establecido en la presente Ley, teniendo derecho a que la comunidad le resarza de los daños y perjuicios ocasionados.
+d) Permitir la entrada en su piso o local a los efectos prevenidos en los tres apartados anteriores.
+e) Contribuir, con arreglo a la cuota de participación fijada en el título o a lo especialmente establecido, a los gastos generales para el adecuado sostenimiento del inmueble, sus servicios, cargas y responsabilidades que no sean susceptibles de individualización.
+Los créditos a favor de la comunidad derivados de la obligación de contribuir al sostenimiento de los gastos generales correspondientes a las cuotas imputables a la parte vencida de la anualidad en curso y los tres años anteriores tienen la condición de preferentes a efectos del artículo 1.923 del Código Civil y preceden, para su satisfacción, a los citados en los números 3.º, 4.º y 5.º de dicho precepto, sin perjuicio de la preferencia establecida a favor de los créditos salariales en el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo.
+El adquirente de una vivienda o local en régimen de propiedad horizontal, incluso con título inscrito en el Registro de la Propiedad, responde con el propio inmueble adquirido de las cantidades adeudadas a la comunidad de propietarios para el sostenimiento de los gastos generales por los anteriores titulares hasta el límite de los que resulten imputables a la parte vencida de la anualidad en la cual tenga lugar la adquisición y a los tres años naturales anteriores. El piso o local estará legalmente afecto al cumplimiento de esta obligación.
+En el instrumento público mediante el que se transmita, por cualquier título, la vivienda o local el transmitente, deberá declarar hallarse al corriente en el pago de los gastos generales de la comunidad de propietarios o expresar los que adeude. El transmitente deberá aportar en este momento certificación sobre el estado de deudas con la comunidad coincidente con su declaración, sin la cual no podrá autorizarse el otorgamiento del documento público, salvo que fuese expresamente exonerado de esta obligación por el adquirente. La certificación será emitida en el plazo máximo de siete días naturales desde su solicitud por quien ejerza las funciones de secretario, con el visto bueno del presidente, quienes responderán, en caso de culpa o negligencia, de la exactitud de los datos consignados en la misma y de los perjuicios causados por el retraso en su emisión.
+f) Contribuir, con arreglo a su respectiva cuota de participación, a la dotación del fondo de reserva que existirá en la comunidad de propietarios para atender las obras de conservación, de reparación y de rehabilitación de la finca, la realización de las obras de accesibilidad recogidas en el artículo diez.1.b) de esta ley, así como la realización de las obras de accesibilidad y eficiencia energética recogidas en el artículo diecisiete.2 de esta ley.
+El fondo de reserva, cuya titularidad corresponde a todos los efectos a la comunidad, estará dotado con una cantidad que en ningún caso podrá ser inferior al 10 por ciento de su último presupuesto ordinario.
+Con cargo al fondo de reserva la comunidad podrá suscribir un contrato de seguro que cubra los daños causados en la finca o bien concluir un contrato de mantenimiento permanente del inmueble y sus instalaciones generales.
+g) Observar la diligencia debida en el uso del inmueble y en sus relaciones con los demás titulares y responder ante éstos de las infracciones cometidas y de los daños causados.
+h) Comunicar a quien ejerza las funciones de secretario de la comunidad, por cualquier medio que permita tener constancia de su recepción, el domicilio en España a efectos de citaciones y notificaciones de toda índole relacionadas con la comunidad. En defecto de esta comunicación se tendrá por domicilio para citaciones y notificaciones el piso o local perteneciente a la comunidad, surtiendo plenos efectos jurídicos las entregadas al ocupante del mismo.
+Si intentada una citación o notificación al propietario fuese imposible practicarla en el lugar prevenido en el párrafo anterior, se entenderá realizada mediante la colocación de la comunicación correspondiente en el tablón de anuncios de la comunidad, o en lugar visible de uso general habilitado al efecto, con diligencia expresiva de la fecha y motivos por los que se procede a esta forma de notificación, firmada por quien ejerza las funciones de secretario de la comunidad, con el visto bueno del presidente. La notificación practicada de esta forma producirá plenos efectos jurídicos en el plazo de tres días naturales.
+i) Comunicar a quien ejerza las funciones de secretario de la comunidad, por cualquier medio que permita tener constancia de su recepción, el cambio de titularidad de la vivienda o local.
+Quien incumpliere esta obligación seguirá respondiendo de las deudas con la comunidad devengadas con posterioridad a la transmisión de forma solidaria con el nuevo titular, sin perjuicio del derecho de aquél a repetir sobre éste.
+Lo dispuesto en el párrafo anterior no será de aplicación cuando cualquiera de los órganos de gobierno establecidos en el artículo 13 haya tenido conocimiento del cambio de titularidad de la vivienda o local por cualquier otro medio o por actos concluyentes del nuevo propietario, o bien cuando dicha transmisión resulte notoria.
+2. Para la aplicación de las reglas del apartado anterior se reputarán generales los gastos que no sean imputables a uno o varios pisos o locales, sin que la no utilización de un servicio exima del cumplimiento de las obligaciones correspondientes, sin perjuicio de lo establecido en el artículo 17.4.
+Se modifica la letra f) del apartado 1 por el art. 2.1 de la Ley 10/2022, de 14 de junio de 2022. Ref. BOE-A-2022-9838#a2
+ Se modifica el apartado 1.f) por el art. 2.1 del Real Decreto-ley 7/2019, de 1 de marzo. Ref. BOE-A-2019-3108#as
+ Téngase en cuenta, en relación al plazo de adaptación de la cuantía del fondo de reserva, la disposición transitoria 2 del citado Real Decreto-ley. Ref. BOE-A-2019-3108#dt-2
+ Se deja sin efecto la modificación de la letra f) del apartado 1 por Resolución de 22 de enero de 2019 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2019-799
+ Se modifica la letra f) del apartado 1 por el art. 2.1 del Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2018-17293#as
+ Téngase en cuenta para su aplicación la disposición transitoria segunda del citado Real Decreto-ley.
+ Se modifican las letras letras c), e) y f) del apartado 1 y el apartado 2 por la disposición final 1.3 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+ Se modifica por el art. 5 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+ Se añade el último párrafo a la obligación 5 por el art. único.2 de la Ley 2/1988, de 23 de febrero. Ref. BOE-A-1988-4823
+
+### Artículo diez
+
+Artículo diez.
+1. Tendrán carácter obligatorio y no requerirán de acuerdo previo de la Junta de propietarios, impliquen o no modificación del título constitutivo o de los estatutos, y vengan impuestas por las Administraciones Públicas o solicitadas a instancia de los propietarios, las siguientes actuaciones:
+a) Los trabajos y las obras que resulten necesarias para el adecuado mantenimiento y cumplimiento del deber de conservación del inmueble y de sus servicios e instalaciones comunes, incluyendo en todo caso, las necesarias para satisfacer los requisitos básicos de seguridad, habitabilidad y accesibilidad universal, así como las condiciones de ornato y cualesquiera otras derivadas de la imposición, por parte de la Administración, del deber legal de conservación.
+b) Las obras y actuaciones que resulten necesarias para garantizar los ajustes razonables en materia de accesibilidad universal y, en todo caso, las requeridas a instancia de los propietarios en cuya vivienda o local vivan, trabajen o presten servicios voluntarios, personas con discapacidad, o mayores de setenta años, con el objeto de asegurarles un uso adecuado a sus necesidades de los elementos comunes, así como la instalación de rampas, ascensores u otros dispositivos mecánicos y electrónicos que favorezcan la orientación o su comunicación con el exterior, siempre que el importe repercutido anualmente de las mismas, una vez descontadas las subvenciones o ayudas públicas, no exceda de doce mensualidades ordinarias de gastos comunes. No eliminará el carácter obligatorio de estas obras el hecho de que el resto de su coste, más allá de las citadas mensualidades, sea asumido por quienes las hayan requerido.
+También será obligatorio realizar estas obras cuando las ayudas públicas a las que la comunidad pueda tener acceso alcancen el 75% del importe de las mismas.
+c) La ocupación de elementos comunes del edificio o del complejo inmobiliario privado durante el tiempo que duren las obras a las que se refieren las letras anteriores.
+d) La construcción de nuevas plantas y cualquier otra alteración de la estructura o fábrica del edificio o de las cosas comunes, así como la constitución de un complejo inmobiliario, tal y como prevé el artículo 17.4 del texto refundido de la Ley de Suelo, aprobado por el Real Decreto Legislativo 2/2008, de 20 de junio, que resulten preceptivos a consecuencia de la inclusión del inmueble en un ámbito de actuación de rehabilitación o de regeneración y renovación urbana.
+e) Los actos de división material de pisos o locales y sus anejos para formar otros más reducidos e independientes, el aumento de su superficie por agregación de otros colindantes del mismo edificio, o su disminución por segregación de alguna parte, realizados por voluntad y a instancia de sus propietarios, cuando tales actuaciones sean posibles a consecuencia de la inclusión del inmueble en un ámbito de actuación de rehabilitación o de regeneración y renovación urbanas.
+2. Teniendo en cuenta el carácter de necesarias u obligatorias de las actuaciones referidas en las letras a) a d) del apartado anterior, procederá lo siguiente:
+a) Serán costeadas por los propietarios de la correspondiente comunidad o agrupación de comunidades, limitándose el acuerdo de la Junta a la distribución de la derrama pertinente y a la determinación de los términos de su abono.
+b) Los propietarios que se opongan o demoren injustificadamente la ejecución de las órdenes dictadas por la autoridad competente responderán individualmente de las sanciones que puedan imponerse en vía administrativa.
+c) Los pisos o locales quedarán afectos al pago de los gastos derivados de la realización de dichas obras o actuaciones en los mismos términos y condiciones que los establecidos en el artículo 9 para los gastos generales.
+3. Estarán sujetas al régimen de autorización administrativa que corresponda:
+a) La constitución y modificación del complejo inmobiliario a que se refiere el artículo 26.6 del texto refundido de la Ley de Suelo y Rehabilitación Urbana, aprobado por el Real Decreto Legislativo 7/2015, de 30 de octubre, en sus mismos términos.
+b) Cuando así se haya solicitado, y de acuerdo con el régimen establecido en la legislación de ordenación territorial y urbanística, previa aprobación por la mayoría de propietarios que en cada caso proceda de acuerdo con esta Ley, la división material de los pisos o locales y sus anejos, para formar otros más reducidos e independientes, el aumento de su superficie por agregación de otros colindantes del mismo edificio o su disminución por segregación de alguna parte, la construcción de nuevas plantas y cualquier otra alteración de la estructura o fábrica del edificio, incluyendo el cerramiento de las terrazas y la modificación de la envolvente para mejorar la eficiencia energética, o de las cosas comunes.
+En estos supuestos deberá constar el consentimiento de los titulares afectados y corresponderá a la Junta de Propietarios, de común acuerdo con aquéllos, y según la mayoría de los propietarios que en cada caso proceda de acuerdo con esta Ley, la determinación de la indemnización por daños y perjuicios que corresponda. La fijación de las nuevas cuotas de participación, así como la determinación de la naturaleza de las obras que se vayan a realizar, en caso de discrepancia sobre las mismas, requerirá la adopción del oportuno acuerdo de la Junta de Propietarios, por idéntica mayoría. A este respecto también podrán los interesados solicitar arbitraje o dictamen técnico en los términos establecidos en la Ley.
+Se modifica el apartado 3 por la disposición final 5.1 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#df-5
+ Se modifica el apartado 1.b) por el art. 2.2 del Real Decreto-ley 7/2019, de 1 de marzo. Ref. BOE-A-2019-3108#as
+ Se deja sin efecto la modificación de la letra b) del apartado 1 por Resolución de 22 de enero de 2019 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2019-799
+ Se modifica la letra b) del apartado 1 por el art. 2.2 del Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2018-17293#as
+ Se modifica por la disposición final 1.4 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+ Se modifica el apartado 2 por el art. 15.1 de la Ley 26/2011, de 1 de agosto. Ref. BOE-A-2011-13241.
+ Se modifica por la disposición adicional 3.1 de la Ley 51/2003, de 2 de diciembre. Ref. BOE-A-2003-22066
+ Se modifica por el art. 6 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Artículo once
+
+Artículo once.
+(Derogado).
+Se deroga por la disposición derogatoria única.1ª de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+ Se modifica el apartado 3 por el art. 15.2 de la Ley 26/2011, de 1 de agosto. Ref. BOE-A-2011-13241.
+ Se modifica por la disposición adicional 3.2 de la Ley 51/2003, de 2 de diciembre. Ref. BOE-A-2003-22066
+ Se modifica por el art. 7 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Artículo doce
+
+Artículo doce.
+(Derogado).
+Se deroga por la disposición derogatoria única.1ª de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+ Se modifica por el art. 8 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Artículo trece
+
+Artículo trece.
+1. Los órganos de gobierno de la comunidad son los siguientes:
+a) La Junta de propietarios.
+b) El presidente y, en su caso, los vicepresidentes.
+c) El secretario.
+d) El administrador.
+En los estatutos, o por acuerdo mayoritario de la Junta de propietarios, podrán establecerse otros órganos de gobierno de la comunidad, sin que ello pueda suponer menoscabo alguno de las funciones y responsabilidades frente a terceros que esta Ley atribuye a los anteriores.
+2. El presidente será nombrado, entre los propietarios, mediante elección o, subsidiariamente, mediante turno rotatorio o sorteo. El nombramiento será obligatorio, si bien el propietario designado podrá solicitar su relevo al juez dentro del mes siguiente a su acceso al cargo, invocando las razones que le asistan para ello. El juez, a través del procedimiento establecido en el artículo 17.7.ª, resolverá de plano lo procedente, designando en la misma resolución al propietario que hubiera de sustituir, en su caso, al presidente en el cargo hasta que se proceda a nueva designación en el plazo que se determine en la resolución judicial.
+Igualmente podrá acudirse al juez cuando, por cualquier causa, fuese imposible para la Junta designar presidente de la comunidad.
+3. El presidente ostentará legalmente la representación de la comunidad, en juicio y fuera de él, en todos los asuntos que la afecten.
+4. La existencia de vicepresidentes será facultativa. Su nombramiento se realizará por el mismo procedimiento que el establecido para la designación del presidente.
+Corresponde al vicepresidente, o a los vicepresidentes por su orden, sustituir al presidente en los casos de ausencia, vacante o imposibilidad de éste, así como asistirlo en el ejercicio de sus funciones en los términos que establezca la Junta de propietarios.
+5. Las funciones del secretario y del administrador serán ejercidas por el presidente de la comunidad, salvo que los estatutos o la Junta de propietarios por acuerdo mayoritario, dispongan la provisión de dichos cargos separadamente de la presidencia.
+6. Los cargos de secretario y administrador podrán acumularse en una misma persona o bien nombrarse independientemente.
+El cargo de administrador y, en su caso, el de secretario-administrador podrá ser ejercido por cualquier propietario, así como por personas físicas con cualificación profesional suficiente y legalmente reconocida para ejercer dichas funciones. También podrá recaer en corporaciones y otras personas jurídicas en los términos establecidos en el ordenamiento jurídico.
+7. Salvo que los estatutos de la comunidad dispongan lo contrario, el nombramiento de los órganos de gobierno se hará por el plazo de un año.
+Los designados podrán ser removidos de su cargo antes de la expiración del mandato por acuerdo de la Junta de propietarios, convocada en sesión extraordinaria.
+8. Cuando el número de propietarios de viviendas o locales en un edificio no exceda de cuatro podrán acogerse al régimen de administración del artículo 398 del Código Civil, si expresamente lo establecen los estatutos.
+Se modifica el apartado 2 por la disposición final 2 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dfsegunda.
+ Se modifica por el art. 9 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Artículo catorce
+
+Artículo catorce.
+Corresponde a la Junta de propietarios:
+a) Nombrar y remover a las personas que ejerzan los cargos mencionados en el artículo anterior y resolver las reclamaciones que los titulares de los pisos o locales formulen contra la actuación de aquéllos.
+b) Aprobar el plan de gastos e ingresos previsibles y las cuentas correspondientes.
+c) Aprobar los presupuestos y la ejecución de todas las obras de reparación de la finca, sean ordinarias o extraordinarias, y ser informada de las medidas urgentes adoptadas por el administrador de conformidad con lo dispuesto en el artículo 20.c).
+d) Aprobar o reformar los estatutos y determinar las normas de régimen interior.
+e) Conocer y decidir en los demás asuntos de interés general para la comunidad, acordando las medidas necesarias o convenientes para el mejor servicio común.
+Se modifica por el art. 10 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Artículo quince
+
+Artículo quince.
+1. La asistencia a la Junta de propietarios será personal o por representación legal o voluntaria, bastando para acreditar ésta un escrito firmado por el propietario.
+Si algún piso o local perteneciese «pro indiviso» a diferentes propietarios éstos nombrarán un representantes para asistir y votar en las juntas.
+Si la vivienda o local se hallare en usufructo, la asistencia y el voto corresponderá al nudo propietario, quien, salvo manifestación en contrario, se entenderá representado por el usufructuario, debiendo ser expresa la delegación cuando se trate de los acuerdos a que se refiere la regla primera del artículo 17 o de obras extraordinarias y de mejora.
+2. Los propietarios que en el momento de iniciarse la junta no se encontrasen al corriente en el pago de todas las deudas vencidas con la comunidad y no hubiesen impugnado judicialmente las mismas o procedido a la consignación judicial o notarial de la suma adeudada, podrán participar en sus deliberaciones si bien no tendrán derecho de voto. El acta de la Junta reflejará los propietarios privados del derecho de voto, cuya persona y cuota de participación en la comunidad no será computada a efectos de alcanzar las mayorías exigidas en esta Ley.
+Se modifica por el art. 11 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+ Se modifica el párrafo segundo por el art. único.1 de la Ley 2/1988, de 23 de febrero. Ref. BOE-A-1988-4823
+
+### Artículo dieciséis
+
+Artículo dieciséis.
+1. La Junta de propietarios se reunirá por lo menos una vez al año para aprobar los presupuestos y cuentas y en las demás ocasiones que lo considere conveniente el presidente o lo pidan la cuarta parte de los propietarios, o un número de éstos que representen al menos el 25 por 100 de las cuotas de participación.
+2. La convocatoria de las Juntas la hará el presidente y, en su defecto, los promotores de la reunión, con indicación de los asuntos a tratar, el lugar, día y hora en que se celebrará en primera o, en su caso, en segunda convocatoria, practicándose las citaciones en la forma establecida en el artículo 9. La convocatoria contendrá una relación de los propietarios que no estén al corriente en el pago de las deudas vencidas a la comunidad y advertirá de la privación del derecho de voto si se dan los supuestos previstos en el artículo 15.2.
+Cualquier propietario podrá pedir que la Junta de propietarios estudie y se pronuncie sobre cualquier tema de interés para la comunidad; a tal efecto dirigirá escrito, en el que especifique claramente los asuntos que pide sean tratados, al presidente, el cual los incluirá en el orden del día de la siguiente Junta que se celebre.
+Si a la reunión de la Junta no concurriesen, en primera convocatoria, la mayoría de los propietarios que representen, a su vez, la mayoría de las cuotas de participación se procederá a una segunda convocatoria de la misma, esta vez sin sujeción a "quórum".
+La Junta se reunirá en segunda convocatoria en el lugar, día y hora indicados en la primera citación, pudiendo celebrarse el mismo día si hubiese transcurrido media hora desde la anterior. En su defecto, será nuevamente convocada, conforme a los requisitos establecidos en este artículo, dentro de los ocho días naturales siguientes a la Junta no celebrada, cursándose en este caso las citaciones con una antelación mínima de tres días.
+3. La citación para la Junta ordinaria anual se hará, cuando menos, con seis días de antelación, y para las extraordinarias, con la que sea posible para que pueda llegar a conocimiento de todos los interesados. La Junta podrá reunirse válidamente aun sin la convocatoria del presidente, siempre que concurran la totalidad de los propietarios y así lo decidan.
+Se modifica por el art. 12 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+ Se modifica el párrafo primero de la norma 1 por el art. único de la Ley 3/1990, de 21 de junio. Ref. BOE-A-1990-14415
+ Se modifica el párrafo segundo de la norma 2 por el art. único.1 de la Ley 2/1988, de 23 de febrero. Ref. BOE-A-1988-4823
+
+### Artículo diecisiete
+
+Artículo diecisiete.
+Los acuerdos de la Junta de propietarios se sujetarán a las siguientes reglas:
+1. La instalación de las infraestructuras comunes para el acceso a los servicios de telecomunicación regulados en el Real Decreto-ley 1/1998, de 27 de febrero, sobre infraestructuras comunes en los edificios para el acceso a los servicios de telecomunicación, o la adaptación de los existentes, así como la instalación de sistemas comunes o privativos, de aprovechamiento de energías renovables, incluyendo la aerotermia y geotermia, o de las infraestructuras necesarias para acceder a nuevos suministros energéticos colectivos, podrá ser acordada, a petición de cualquier propietario, por un tercio de los integrantes de la comunidad que representen, a su vez, un tercio de las cuotas de participación.
+La comunidad no podrá repercutir el coste de la instalación o adaptación de dichas infraestructuras comunes, ni los derivados de su conservación y mantenimiento posterior, sobre aquellos propietarios que no hubieren votado expresamente en la Junta a favor del acuerdo. No obstante, si con posterioridad solicitasen el acceso a los servicios de telecomunicaciones o a los suministros energéticos, y ello requiera aprovechar las nuevas infraestructuras o las adaptaciones realizadas en las preexistentes, podrá autorizárseles siempre que abonen el importe que les hubiera correspondido, debidamente actualizado, aplicando el correspondiente interés legal.
+No obstante lo dispuesto en el párrafo anterior respecto a los gastos de conservación y mantenimiento, la nueva infraestructura instalada tendrá la consideración, a los efectos establecidos en esta Ley, de elemento común.
+2. Sin perjuicio de lo establecido en el artículo 10.1.b), la realización de obras o el establecimiento de nuevos servicios comunes que tengan por finalidad la supresión de barreras arquitectónicas que dificulten el acceso o movilidad de personas con discapacidad y, en todo caso, el establecimiento de los servicios de ascensor, incluso cuando impliquen la modificación del título constitutivo, o de los estatutos, requerirá el voto favorable de la mayoría de los propietarios, que, a su vez, representen la mayoría de las cuotas de participación.
+Cuando se adopten válidamente acuerdos para la realización de obras de accesibilidad, la comunidad quedará obligada al pago de los gastos, aun cuando su importe repercutido anualmente exceda de doce mensualidades ordinarias de gastos comunes.
+La realización de obras o actuaciones que contribuyan a la mejora de la eficiencia energética acreditables a través de certificado de eficiencia energética del edificio o la implantación de fuentes de energía renovable de uso común, incluyendo en su caso la modificación de la envolvente del edificio, así como la solicitud de ayudas y subvenciones, préstamos o cualquier tipo de financiación por parte de la comunidad de propietarios a entidades públicas o privadas para la realización de tales obras o actuaciones, requerirá el voto favorable de la mayoría simple de los propietarios, que, a su vez, representen la mayoría simple de las cuotas de participación, siempre que su importe repercutido anualmente, una vez descontadas las subvenciones o ayudas públicas y aplicada en su caso la financiación, no supere la cuantía de doce mensualidades ordinarias de gastos comunes. El propietario disidente no tendrá el derecho reconocido en el apartado 4 de este artículo y el coste de estas obras, o las cantidades necesarias para sufragar los préstamos o financiación concedida para tal fin, tendrán la consideración de gastos generales a los efectos de la aplicación de las reglas establecidas en la letra e) del artículo noveno.1 de esta ley.
+3. El establecimiento o supresión de los servicios de portería, conserjería, vigilancia u otros servicios comunes de interés general, supongan o no modificación del título constitutivo o de los estatutos, requerirán el voto favorable de las tres quintas partes del total de los propietarios que, a su vez, representen las tres quintas partes de las cuotas de participación.
+Idéntico régimen se aplicará al arrendamiento de elementos comunes que no tengan asignado un uso específico en el inmueble y el establecimiento o supresión de equipos o sistemas, no recogidos en el apartado 1, que tengan por finalidad mejorar la eficiencia energética o hídrica del inmueble. En éste último caso, los acuerdos válidamente adoptados con arreglo a esta norma obligan a todos los propietarios. No obstante, si los equipos o sistemas tienen un aprovechamiento privativo, para la adopción del acuerdo bastará el voto favorable de un tercio de los integrantes de la comunidad que representen, a su vez, un tercio de las cuotas de participación, aplicándose, en este caso, el sistema de repercusión de costes establecido en dicho apartado.
+4. Ningún propietario podrá exigir nuevas instalaciones, servicios o mejoras no requeridos para la adecuada conservación, habitabilidad, seguridad y accesibilidad del inmueble, según su naturaleza y características.
+No obstante, cuando por el voto favorable de las tres quintas partes del total de los propietarios que, a su vez, representen las tres quintas partes de las cuotas de participación, se adopten válidamente acuerdos, para realizar innovaciones, nuevas instalaciones, servicios o mejoras no requeridos para la adecuada conservación, habitabilidad, seguridad y accesibilidad del inmueble, no exigibles y cuya cuota de instalación exceda del importe de tres mensualidades ordinarias de gastos comunes, el disidente no resultará obligado, ni se modificará su cuota, incluso en el caso de que no pueda privársele de la mejora o ventaja. Si el disidente desea, en cualquier tiempo, participar de las ventajas de la innovación, habrá de abonar su cuota en los gastos de realización y mantenimiento, debidamente actualizados mediante la aplicación del correspondiente interés legal.
+Sin perjuicio de lo dispuesto en los apartados anteriores, estarán sujetas al voto favorable de las tres quintas partes del total de los propietarios que, a su vez, representen las tres quintas partes de las cuotas de participación, la división material de los pisos o locales y sus anejos, para formar otros más reducidos e independientes; el aumento de su superficie por agregación de otros colindantes del mismo edificio o su disminución por segregación de alguna parte; la construcción de nuevas plantas y cualquier otra alteración de la estructura o fábrica del edificio, incluyendo el cerramiento de las terrazas o la modificación de las cosas comunes.
+No podrán realizarse innovaciones que hagan inservible alguna parte del edificio para el uso y disfrute de un propietario, si no consta su consentimiento expreso.
+5. La instalación de un punto de recarga de vehículos eléctricos para uso privado en el aparcamiento del edificio, siempre que éste se ubique en una plaza individual de garaje, sólo requerirá la comunicación previa a la comunidad. El coste de dicha instalación y el consumo de electricidad correspondiente serán asumidos íntegramente por el o los interesados directos en la misma.
+6. Los acuerdos no regulados expresamente en este artículo, que impliquen la aprobación o modificación de las reglas contenidas en el título constitutivo de la propiedad horizontal o en los estatutos de la comunidad, requerirán para su validez la unanimidad del total de los propietarios que, a su vez, representen el total de las cuotas de participación.
+7. Para la validez de los demás acuerdos bastará el voto de la mayoría del total de los propietarios que, a su vez, representen la mayoría de las cuotas de participación. En segunda convocatoria serán válidos los acuerdos adoptados por la mayoría de los asistentes, siempre que ésta represente, a su vez, más de la mitad del valor de las cuotas de los presentes.
+Cuando la mayoría no se pudiere lograr por los procedimientos establecidos en los apartados anteriores, el Juez, a instancia de parte deducida en el mes siguiente a la fecha de la segunda Junta, y oyendo en comparecencia los contradictores previamente citados, resolverá en equidad lo que proceda dentro de veinte días, contados desde la petición, haciendo pronunciamiento sobre el pago de costas.
+8. Salvo en los supuestos expresamente previstos en los que no se pueda repercutir el coste de los servicios a aquellos propietarios que no hubieren votado expresamente en la Junta a favor del acuerdo, o en los casos en los que la modificación o reforma se haga para aprovechamiento privativo, se computarán como votos favorables los de aquellos propietarios ausentes de la Junta, debidamente citados, quienes una vez informados del acuerdo adoptado por los presentes, conforme al procedimiento establecido en el artículo 9, no manifiesten su discrepancia mediante comunicación a quien ejerza las funciones de secretario de la comunidad en el plazo de 30 días naturales, por cualquier medio que permita tener constancia de la recepción.
+9. Los acuerdos válidamente adoptados con arreglo a lo dispuesto en este artículo obligan a todos los propietarios.
+10. En caso de discrepancia sobre la naturaleza de las obras a realizar resolverá lo procedente la Junta de propietarios. También podrán los interesados solicitar arbitraje o dictamen técnico en los términos establecidos en la Ley.
+11. Las derramas para el pago de mejoras realizadas o por realizar en el inmueble serán a cargo de quien sea propietario en el momento de la exigibilidad de las cantidades afectas al pago de dichas mejoras.
+12. El acuerdo expreso por el que se apruebe, limite, condicione o prohíba el ejercicio de la actividad a que se refiere la letra e) del artículo 5 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, en los términos establecidos en la normativa sectorial turística, suponga o no modificación del título constitutivo o de los estatutos, requerirá el voto favorable de las tres quintas partes del total de los propietarios que, a su vez, representen las tres quintas partes de las cuotas de participación. Asimismo, esta misma mayoría se requerirá para el acuerdo por el que se establezcan cuotas especiales de gastos o un incremento en la participación de los gastos comunes de la vivienda donde se realice dicha actividad, siempre que estas modificaciones no supongan un incremento superior al 20 %. Estos acuerdos no tendrán efectos retroactivos.
+Se modifica el primer párrafo del apartado 1 por la disposición final 1 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#df
+ Se deja sin efecto la modificación del primer párrafo del apartado 1 por Resolución de 22 de julio de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2025, de 24 de junio. Ref. BOE-A-2025-15313
+ Se modifica el primer párrafo del apartado 1 por el art. 27 del Real Decreto-ley 7/2025, de 24 de junio. Ref. BOE-A-2025-12857#a2-9
+ Se modifica el apartado 12, con efectos de 3 de abril de 2025, por la disposición final 4.2 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-4
+ Se modifican los apartados 2 y 4 por la disposición final 5.2 y 3 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#df-5
+ Se modifica el apartado 2 por el art. 2.2 de la Ley 10/2022, de 14 de junio de 2022. Ref. BOE-A-2022-9838#a2
+ Se modifica el apartado 2 por el art. 2 del Real Decreto-ley 19/2021, de 5 de octubre. Ref. BOE-A-2021-16230#a2
+ Se añade el apartado 12 por el art. 2.3 del Real Decreto-ley 7/2019, de 1 de marzo. Ref. BOE-A-2019-3108#as
+ Se deja sin efecto la incorporación del apartado 12 por Resolución de 22 de enero de 2019 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2019-799
+ Se añade el apartado 12 por el art. 2.3 del Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2018-17293#as
+ Se modifica por la disposición final 1.5 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+ Se modifica y reenumera el apartado 3 como 4 y se añade un nuevo apartado 3 por el art. 3 de la Ley 19/2009, de 23 de noviembre. Ref. BOE-A-2009-18733
+ Se modifica la norma 1ª por la disposición adicional 3.3 de la Ley 51/2003, de 2 de diciembre. Ref. BOE-A-2003-22066
+ Se modifica por el art. 13 de la Ley 8/1999, de 6 abril. Ref. BOE-A-1999-7858
+ Se modifica por la disposición final 2 de la Ley 10/1992, de 30 de abril. Ref. BOE-A-1992-9548
+
+### Artículo dieciocho
+
+Artículo dieciocho.
+1. Los acuerdos de la Junta de Propietarios serán impugnables ante los tribunales de conformidad con lo establecido en la legislación procesal general, en los siguientes supuestos:
+a) Cuando sean contrarios a la ley o a los estatutos de la comunidad de propietarios.
+b) Cuando resulten gravemente lesivos para los intereses de la propia comunidad en beneficio de uno o varios propietarios.
+c) Cuando supongan un grave perjuicio para algún propietario que no tenga obligación jurídica de soportarlo o se hayan adoptado con abuso de derecho.
+2. Estarán legitimados para la impugnación de estos acuerdos los propietarios que hubiesen salvado su voto en la Junta, los ausentes por cualquier causa y los que indebidamente hubiesen sido privados de su derecho de voto. Para impugnar los acuerdos de la Junta el propietario deberá estar al corriente en el pago de la totalidad de las deudas vencidas con la comunidad o proceder previamente a la consignación judicial de las mismas. Esta regla no será de aplicación para la impugnación de los acuerdos de la Junta relativos al establecimiento o alteración de las cuotas de participación a que se refiere el artículo 9 entre los propietarios.
+3. La acción caducará a los tres meses de adoptarse el acuerdo por la Junta de propietarios, salvo que se trate de actos contrarios a la ley o a los estatutos, en cuyo caso la acción caducará al año. Para los propietarios ausentes dicho plazo se computará a partir de la comunicación del acuerdo conforme al procedimiento establecido en el artículo 9.
+4. La impugnación de los acuerdos de la Junta no suspenderá su ejecución, salvo que el juez así lo disponga con carácter cautelar, a solicitud del demandante, oída la comunidad de propietarios.
+Se modifica por el art. 14 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Artículo diecinueve
+
+Artículo diecinueve.
+1. Los acuerdos de la Junta de propietarios se reflejarán en un libro de actas diligenciado por el Registrador de la Propiedad en la forma que reglamentariamente se disponga.
+2. El acta de cada reunión de la Junta de propietarios deberá expresar, al menos, las siguientes circunstancias:
+a) La fecha y el lugar de celebración.
+b) El autor de la convocatoria y, en su caso, los propietarios que la hubiesen promovido.
+c) Su carácter ordinario o extraordinario y la indicación sobre su celebración en primera o segunda convocatoria.
+d) Relación de todos los asistentes y sus respectivos cargos, así como de los propietarios representados, con indicación, en todo caso, de sus cuotas de participación.
+e) El orden del día de la reunión.
+f) Los acuerdos adoptados, con indicación, en caso de que ello fuera relevante para la validez del acuerdo, de los nombres de los propietarios que hubieren votado a favor y en contra de los mismos, así como de las cuotas de participación que respectivamente representen.
+3. El acta deberá cerrarse con las firmas del presidente y del secretario al terminar la reunión o dentro de los diez días naturales siguientes. Desde su cierre los acuerdos serán ejecutivos, salvo que la Ley previere lo contrario.
+El acta de las reuniones se remitirá a los propietarios de acuerdo con el procedimiento establecido en el artículo 9.
+Serán subsanables los defectos o errores del acta siempre que la misma exprese inequívocamente la fecha y lugar de celebración, los propietarios asistentes, presentes o representados, y los acuerdos adoptados, con indicación de los votos a favor y en contra, así como las cuotas de participación que respectivamente suponga y se encuentre firmada por el presidente y el secretario. Dicha subsanación deberá efectuarse antes de la siguiente reunión de la Junta de propietarios, que deberá ratificar la subsanación.
+4. El secretario custodiará los libros de actas de la Junta de propietarios. Asimismo deberá conservar, durante el plazo de cinco años, las convocatorias, comunicaciones, apoderamientos y demás documentos relevantes de las reuniones.
+Se modifica por el art. 15 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Artículo veinte
+
+Artículo veinte.
+1. Corresponde al administrador:
+a) Velar por el buen régimen de la casa, sus instalaciones y servicios, y hacer a estos efectos las oportunas advertencias y apercibimientos a los titulares.
+b) Preparar con la debida antelación y someter a la Junta el plan de gastos previsibles, proponiendo los medios necesarios para hacer frente a los mismos.
+c) Atender a la conservación y entretenimiento de la casa, disponiendo las reparaciones y medidas que resulten urgentes, dando inmediata cuenta de ellas al presidente o, en su caso, a los propietarios.
+d) Ejecutar los acuerdos adoptados en materia de obras y efectuar los pagos y realizar los cobros que sean procedentes.
+e) Actuar, en su caso, como secretario de la Junta y custodiar a disposición de los titulares la documentación de la comunidad.
+f) Todas las demás atribuciones que se confieran por la Junta.
+Se modifica por el art. 16 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+ Se modifica por el art. único.1 de la Ley 2/1988, de 23 de febrero. Ref. BOE-A-1988-4823
+
+### Artículo veintiuno
+
+Artículo veintiuno. Impago de los gastos comunes, medidas preventivas de carácter convencional, reclamación judicial de la deuda y mediación y arbitraje.
+1. La junta de propietarios podrá acordar medidas disuasorias frente a la morosidad por el tiempo en que se permanezca en dicha situación, tales como el establecimiento de intereses superiores al interés legal o la privación temporal del uso de servicios o instalaciones, siempre que no puedan reputarse abusivas o desproporcionadas o que afecten a la habitabilidad de los inmuebles. Estas medidas no podrán tener en ningún caso carácter retroactivo y podrán incluirse en los estatutos de la comunidad. En todo caso, los créditos a favor de la comunidad devengarán intereses desde el momento en que deba efectuarse el pago correspondiente y éste no se haga efectivo.
+2. La comunidad podrá, sin perjuicio de la utilización de otros procedimientos judiciales, reclamar del obligado al pago todas las cantidades que le sean debidas en concepto de gastos comunes, tanto si son ordinarios como extraordinarios, generales o individualizables, o fondo de reserva, y mediante el proceso monitorio especial aplicable a las comunidades de propietarios de inmuebles en régimen de propiedad horizontal. En cualquier caso, podrá ser demandado el titular registral, a efectos de soportar la ejecución sobre el inmueble inscrito a su nombre. El secretario administrador profesional, si así lo acordare la junta de propietarios, podrá exigir judicialmente la obligación del pago de la deuda a través de este procedimiento.
+3. Para instar la reclamación a través del procedimiento monitorio habrá de acompañarse a la demanda un certificado del acuerdo de liquidación de la deuda emitido por quien haga las funciones de secretario de la comunidad con el visto bueno del presidente, salvo que el primero sea un secretario-administrador con cualificación profesional necesaria y legalmente reconocida que no vaya a intervenir profesionalmente en la reclamación judicial de la deuda, en cuyo caso no será precisa la firma del presidente. En este certificado deberá constar el importe adeudado y su desglose. Además del certificado deberá aportarse, junto con la petición inicial del proceso monitorio, el documento acreditativo en el que conste haberse notificado al deudor, pudiendo también hacerse de forma subsidiaria en el tablón de anuncios o lugar visible de la comunidad durante un plazo de, al menos, tres días. Se podrán incluir en la petición inicial del procedimiento monitorio las cuotas aprobadas que se devenguen hasta la notificación de la deuda, así como todos los gastos y costes que conlleve la reclamación de la deuda, incluidos los derivados de la intervención del secretario administrador, que serán a cargo del deudor.
+4. Cuando el deudor se oponga a la petición inicial del proceso monitorio, la comunidad podrá solicitar el embargo preventivo de bienes suficientes de aquél, para hacer frente a la cantidad reclamada, los intereses y las costas.
+El tribunal acordará, en todo caso, el embargo preventivo sin necesidad de que el acreedor preste caución. No obstante, el deudor podrá enervar el embargo prestando las garantías establecidas en la Ley procesal.
+5. Cuando en la solicitud inicial del proceso monitorio se utilizaren los servicios profesionales de abogado y/o procurador para reclamar las cantidades debidas a la Comunidad, el deudor deberá pagar, con sujeción en todo caso a los límites establecidos en el apartado tercero del artículo 394 de la Ley de Enjuiciamiento Civil, los honorarios y derechos que devenguen ambos por su intervención, tanto si aquél atendiere el requerimiento de pago como si no compareciere ante el tribunal, incluidos los de ejecución, en su caso. En los casos en que exista oposición, se seguirán las reglas generales en materia de costas, aunque si la comunidad obtuviere una sentencia totalmente favorable a su pretensión se deberán incluir en ellas los honorarios del abogado y los derechos del procurador derivados de su intervención, aunque no hubiera sido preceptiva.
+6. La reclamación de los gastos de comunidad y del fondo de reserva o cualquier cuestión relacionada con la obligación de contribuir en ellos, también podrá ser objeto de mediación-conciliación o arbitraje, conforme a la legislación aplicable.
+Se modifica por el art. 2.3 de la Ley 10/2022, de 14 de junio de 2022. Ref. BOE-A-2022-9838#a2
+ Se modifica por la disposición final 1 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323
+ Se modifica por el art. 17 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+ Téngase en cuenta para su aplicación la disposición transitoria única.
+
+### Artículo veintidós
+
+Artículo veintidós.
+1. La comunidad de propietarios responderá de sus deudas frente a terceros con todos los fondos y créditos a su favor. Subsidiariamente y previo requerimiento de pago al propietario respectivo, el acreedor podrá dirigirse contra cada propietario que hubiese sido parte en el correspondiente proceso por la cuota que le corresponda en el importe insatisfecho.
+2. Cualquier propietario podrá oponerse a la ejecución si acredita que se encuentra al corriente en el pago de la totalidad de las deudas vencidas con la comunidad en el momento de formularse el requerimiento a que se refiere el apartado anterior.
+Si el deudor pagase en el acto de requerimiento, serán de su cargo las costas causadas hasta ese momento en la parte proporcional que le corresponda.
+Se añade por el art. 18 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Artículo veintitrés
+
+Artículo veintitrés.
+El régimen de propiedad horizontal se extingue:
+Primero. Por la destrucción del edificio, salvo pacto en contrario. Se estimará producida aquélla cuando el coste de la reconstrucción exceda del cincuenta por ciento del valor de la finca al tiempo de ocurrir el siniestro, a menos que el exceso de dicho coste esté cubierto por un seguro.
+Segundo. Por conversión en propiedad o copropiedad ordinarias.
+Se añade por el art. 19 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+ Su anterior numeración era art. 21.
+
+### CAPITULO III
+
+CAPÍTULO III
+Del régimen de los complejos inmobiliarios privados
+Se añade por el art. 20 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Artículo veinticuatro
+
+Artículo veinticuatro.
+1. El régimen especial de propiedad establecido en el artículo 396 del Código Civil será aplicable aquellos complejos inmobiliarios privados que reúnan los siguientes requisitos:
+a) Estar integrados por dos o más edificaciones o parcelas independientes entre sí cuyo destino principal sea la vivienda o locales.
+b) Participar los titulares de estos inmuebles, o de las viviendas o locales en que se encuentren divididos horizontalmente, con carácter inherente a dicho derecho, en una copropiedad indivisible sobre otros elementos inmobiliarios, viales, instalaciones o servicios.
+2. Los complejos inmobiliarios privados a que se refiere el apartado anterior podrán:
+a) Constituirse en una sola comunidad de propietarios a través de cualquiera de los procedimientos establecidos en el párrafo segundo del artículo 5. En este caso quedarán sometidos a las disposiciones de esta Ley, que les resultarán íntegramente de aplicación.
+b) Constituirse en una agrupación de comunidades de propietarios. A tal efecto, se requerirá que el título constitutivo de la nueva comunidad agrupada sea otorgado por el propietario único del complejo o por los presidentes de todas las comunidades llamadas a integrar aquélla, previamente autorizadas por acuerdo mayoritario de sus respectivas Juntas de propietarios. El título constitutivo contendrá la descripción del complejo inmobiliario en su conjunto y de los elementos, viales, instalaciones y servicios comunes. Asimismo fijará la cuota de participación de cada una de las comunidades integradas, las cuales responderán conjuntamente de su obligación de contribuir al sostenimiento de los gastos generales de la comunidad agrupada. El título y los estatutos de la comunidad agrupada serán inscribibles en el Registro de la Propiedad.
+3. La agrupación de comunidades a que se refiere el apartado anterior gozará, a todos los efectos, de la misma situación jurídica que las comunidades de propietarios y se regirá por las disposiciones de esta Ley, con las siguientes especialidades:
+a) La Junta de propietarios estará compuesta, salvo acuerdo en contrario, por los presidentes de las comunidades integradas en la agrupación, los cuales ostentarán la representación del conjunto de los propietarios de cada comunidad.
+b) La adopción de acuerdos para los que la ley requiera mayorías cualificadas exigirá, en todo caso, la previa obtención de la mayoría de que se trate en cada una de las Juntas de propietarios de las comunidades que integran la agrupación.
+c) Salvo acuerdo en contrario de la Junta no será aplicable a la comunidad agrupada lo dispuesto en el artículo 9 de esta Ley sobre el fondo de reserva.
+La competencia de los órganos de gobierno de la comunidad agrupada únicamente se extiende a los elementos inmobiliarios, viales, instalaciones y servicios comunes. Sus acuerdos no podrá menoscabar en ningún caso las facultades que corresponden a los órganos de gobierno de las comunidades de propietarios integradas en la agrupación de comunidades.
+4. A los complejos inmobiliarios privados que no adopten ninguna de las formas jurídicas señaladas en el apartado 2 les serán aplicables, supletoriamente respecto de los pactos que establezcan entre sí los copropietarios, las disposiciones de esta Ley, con las mismas especialidades señaladas en el apartado anterior.
+Se añade por el art. 20 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Dispoosición adicional 
+
+Disposición adicional.
+1. Sin perjuicio de las disposiciones que en uso de sus competencias adopten las Comunidades Autónomas, la constitución del fondo de reserva regulado en el artículo 9.1.f) se ajustará a las siguientes reglas:
+a) El fondo deberá constituirse en el momento de aprobarse por la Junta de propietarios el presupuesto ordinario de la comunidad correspondiente al ejercicio anual inmediatamente posterior a la entrada en vigor de la presente disposición.
+Las nuevas comunidades de propietarios constituirán el fondo de reserva al aprobar su primer presupuesto ordinario.
+b) En el momento de su constitución el fondo estará dotado con una cantidad no inferior al 2,5 por 100 del presupuesto ordinario de la comunidad. A tal efecto, los propietarios deberán efectuar previamente las aportaciones necesarias en función de su respectiva cuota de participación.
+c) Al aprobarse el presupuesto ordinario correspondiente al ejercicio anual inmediatamente posterior a aquel en que se constituya el fondo de reserva, la dotación del mismo deberá alcanzar la cuantía mínima establecida en el artículo 9.
+2. La dotación del fondo de reserva no podrá ser inferior, en ningún momento del ejercicio presupuestario, al mínimo legal establecido.
+Las cantidades detraídas del fondo durante el ejercicio presupuestario para atender los gastos de las obras o actuaciones incluidas en el artículo 10 se computarán como parte integrante del mismo a efectos del cálculo de su cuantía mínima.
+Al inicio del siguiente ejercicio presupuestario se efectuarán las aportaciones necesarias para cubrir las cantidades detraídas del fondo de reserva conforme a lo señalado en el párrafo anterior.
+Se modifica el apartado 2 por la disposición final 1.6 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+ Se añade por el art. 21 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Sin perjuicio de las disposiciones que en uso de sus competencias adopten las Comunidades Autónomas, la constitución del fondo de reserva regulado en el artículo 9.1.f) se ajustará a las siguientes reglas:
+a) El fondo deberá constituirse en el momento de aprobarse por la Junta de propietarios el presupuesto ordinario de la comunidad correspondiente al ejercicio anual inmediatamente posterior a la entrada en vigor de la presente disposición.
+Las nuevas comunidades de propietarios constituirán el fondo de reserva al aprobar su primer presupuesto ordinario.
+b) En el momento de su constitución el fondo estará dotado con una cantidad no inferior al 2,5 por 100 del presupuesto ordinario de la comunidad. A tal efecto, los propietarios deberán efectuar previamente las aportaciones necesarias en función de su respectiva cuota de participación.
+c) Al aprobarse el presupuesto ordinario correspondiente al ejercicio anual inmediatamente posterior a aquel en que se constituya el fondo de reserva, la dotación del mismo deberá alcanzar la cuantía mínima establecida en el artículo 9.
+2. La dotación del fondo de reserva no podrá ser inferior, en ningún momento del ejercicio presupuestario, al mínimo legal establecido.
+Las cantidades detraídas del fondo durante el ejercicio presupuestario para atender los gastos de las obras o actuaciones incluidas en el artículo 10 se computarán como parte integrante del mismo a efectos del cálculo de su cuantía mínima.
+Al inicio del siguiente ejercicio presupuestario se efectuarán las aportaciones necesarias para cubrir las cantidades detraídas del fondo de reserva conforme a lo señalado en el párrafo anterior.
+Se numera como primera al añadirse una segunda por la disposición final 4.3 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-4
+ Anteriormente era la disposición adicional.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Aquel propietario de una vivienda que esté ejerciendo la actividad a que se refiere la letra e) del artículo 5 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, con anterioridad a la entrada en vigor de la Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia, que se haya acogido previamente a la normativa sectorial turística, podrá seguir ejerciendo la actividad con las condiciones y plazos establecidos en la misma.
+Téngase en cuenta que esta disposición, añadida por la disposición final 4.3 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-4, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+Se añade, con efectos de 3 de abril de 2025, por la disposición final 4.3 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-4
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+La presente ley regirá todas las comunidades de propietarios, cualquiera que sea el momento en que fueron creadas y el contenido de sus estatutos, que no podrán ser aplicados en contradicción con lo establecido en la misma.
+En el plazo de dos años, a contar desde la publicación de esta ley en el «Boletín Oficial del Estado», las comunidades de propietarios deberán adaptar sus estatutos a lo dispuesto en ella en lo que estuvieren en contradicción con sus preceptos.
+Transcurridos los dos años, cualquiera de los propietarios podrá instar judicialmente la adaptación prevenida en la presente disposición por el procedimiento señalado en el número segundo del artículo dieciséis.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En los actuales estatutos reguladores de la propiedad por pisos, en los que esté establecido el derecho de tanteo y retracto en favor de los propietarios, se entenderán los mismos modificados en el sentido de quedar sin eficacia tal derecho, salvo que, en nueva junta, y por mayoría que represente, al menos, el 80 por 100 de los titulares, se acordaré el mantenimiento de los citados derechos de tanteo y retracto en favor de los miembros de la comunidad.
+
+### Disposición final
+
+Disposición final.
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en esta ley.
+
+Dada en el Palacio de El Pardo a veintiuno de julio de mil novecientos sesenta.
+FRANCISCO FRANCO

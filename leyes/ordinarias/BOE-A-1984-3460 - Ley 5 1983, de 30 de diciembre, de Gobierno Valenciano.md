@@ -1,0 +1,1103 @@
+# Ley 5/1983, de 30 de diciembre, de Gobierno Valenciano.
+
+- Identificador BOE: `BOE-A-1984-3460`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1984-3460
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 5/1983, de 30 de diciembre, del Consell", según establece el art. 4.1 de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley:
+PREÁMBULO
+I
+El marco estatutario
+El Estatuto de Autonomía de la Comunitat Valenciana, aprobado por Ley Orgánica 5/1982, de 1 de julio, establece en su artículo 17, en apartado 2.°, que las funciones, composición, forma de nombramiento y cese de los miembros del Consell serán regulados por Ley de Les Corts. Para dar cumplimiento a este mandato estatutario se ha elaborado la presente norma, que constituye un paso más hacia la completa implantación del sistema institucional de la Comunitat Valenciana previsto por el Estatuto de Autonomía.
+II
+Los principios básicos
+El carácter de desarrollo estatutario del presente texto normativo hace que el mismo descanse bajo los principios institucionales básicos que el Estatuto establece en materia de Gobierno y Administración de la Comunitat Valenciana. La filosofía de esta Ley no es otra, pues, que la precisión y desarrollo de los principios establecidos en el Estatuto de Autonomía, proyectando el esquema organizativo que en él se contiene respecto de todas las instituciones, en concreto a las instituciones del Consell y la Administración de la Generalitat.
+Esta Ley, por tanto, desarrolla el perfil de los distintos órganos del Consell de la Generalitat según las líneas maestras establecidas en el Estatuto de Autonomía.
+El perfil de los órganos de la Generalitat que precisa esta Ley se realiza en base a la configuración, de un lado, de las características de estos órganos y, de otro, mediante la atribución de las competencias que corresponden a cada uno de ellos. Fijado el carácter de cada uno de los órganos que integran el Consell y su Administración, así como atribuidas las competencias que le corresponden, se establecen las relaciones interorgánicas que han de resultar de su normal actuación y funcionamiento.
+La configuración de los órganos de Consell y la Administración de la Generalitat se completa con el establecimiento de cuáles son las bases organizativas de la Administración de esta Generalitat que bajo su dependencia ha de llevar a la práctica las decisiones del Consell. Delimitado el conjunto del Consell y la Administración en estos términos y fijado su régimen de funcionamiento, la Ley ha de regular necesariamente las relaciones del conjunto del Consell y la Administración de la Generalitat con el resto de las instituciones y, especialmente, sus relaciones con Les Corts; ello en especial en lo que se refiere a la responsabilidad del Consell frente al Parlamento y al sistema y forma de elección del President de la Generalitat. Partiendo de estos supuestos, se desarrolla la regulación de las distintas relaciones que se van a producir entre los distintos órganos y la Administración del Consell y Les Corts, a las que deben su confianza y han de prestar la más adecuada atención en función de su responsabilidad política estatutariamente establecida.
+III
+La estructura del texto dispositivo
+La estructura de la Ley se desarrolla desde los principios y perspectivas que constituyen su filosofía y que se acaban de exponer en torno a cinco títulos que recogen los puntos básicos de su texto normativo.
+A) Los dos primeros títulos van dedicados a los órganos básicos del Consell. En primer lugar se estudia y regula la figura del President de la Generalitat dentro de la más pura línea de aplicación de los principios y contenidos estatutarios. De esta manera se describe la elección del President de la Generalitat y su estatuto personal, para después acabar de perfilar su figura con la precisión de sus atribuciones y competencias. Las atribuciones y competencias del President de la Generalitat se estudian separadamente en cuanto a sus funciones propias de más alto representante de la Comunitat Valenciana; de una parte, y de otra, sus funciones como President del Consell y, por tanto, responsable de la dirección y coordinación de sus actuaciones.
+B) El segundo de los órganos básicos que se estudian en la Ley y que corresponde al título segundo de la misma es el Consell. El Consell se perfila desde la proyección de su definición estatutaria, descomponiendo su regulación en diversos campos o materias. Así se estudia la composición del Consell, las distintas atribuciones que le corresponden, su régimen de funcionamiento, con especial mención del régimen de sesiones, así como la delimitación básica de sus departamentos ejecutivos o Consejerías y el estatuto personal de los Consejeros. Dentro de este, título se reserva un último capítulo para el estudio de la potestad reglamentaria del Consell, ya que se considera que ésta es una materia lo suficientemente importante como para que quede reflejada en forma separada y aislada del conjunto de los distintas competencias y atribuciones de este órgano colegiado al que compete el Gobierno de la Comunitat Valenciana.
+C) Los tres títulos restantes van dirigidos a precisar, respectivamente, las relaciones entre Les Corts y el Consell en primer lugar; en segundo lugar, el régimen organizativo de la Administración Pública de la Comunitat Valenciana, bajo la dependencia, por tanto, de la Generalitat, y, por último, el sistema de responsabilidad para los miembros y autoridades del Consell y la Administración de la Generalitat.
+
+## TÍTULO I
+
+Del President de la Generalitat
+Se modifica por el art. 4.5 de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+
+## CAPÍTULO I
+
+De la elección y el estatuto personal
+
+### Art 1
+
+Art. 1.
+El President de la Generalitat, que también lo es del Consell, dirige la acción del Consell, coordina las funciones de éste y ostenta la más alta representación de la Comunitat Valenciana, así como la ordinaria del Estado en ésta.
+Se modifica por el art. 1.I de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+
+### Art 2
+
+Art. 2.
+1. El President de la Generalitat será elegido por Les Corts de entre sus miembros y nombrado por el Rey. En todo momento se atenderá para su elección a lo que regula el Estatut d’Autonomia, la presente Ley y el Reglamento de Les Corts.
+2. Después de cada renovación de Les Corts, y en los otros casos en los que así proceda, el Presidente de Les Corts, previa consulta con los representantes designados por los grupos políticos con representación parlamentaria, propondrá un candidato a la presidencia de la Generalitat, dando prioridad a aquel que en las consultas realizadas haya obtenido mayor apoyo por parte de los grupos políticos.
+3. El candidato propuesto, conforme a lo previsto en el apartado anterior, expondrá ante Les Corts el programa político de gobierno del Consell que pretende formar y solicitará la confianza de la Cámara. El debate se desarrollará en la forma que determine el Reglamento de Les Corts.
+4. Para la elección hace falta la mayoría absoluta de los miembros de derecho de Les Corts en primera votación. Si no se logra esta mayoría, la votación se repetirá cuarenta y ocho horas después y será suficiente la mayoría simple para ser elegido.
+5. Si efectuadas las mencionadas votaciones no se otorgara la confianza para la investidura, se tramitarán sucesivas propuestas en la forma prevista en los apartados anteriores, atendiendo al resto de los candidatos presentados y a los criterios establecidos en el apartado 2 de este artículo. El Presidente de Les Corts podrá, en su caso, retomar la ronda de consultas.
+6. Si, transcurrido el plazo de dos meses a partir de la primera votación de investidura, ningún candidato obtuviera la confianza de Les Corts, el Presidente de Les Corts, por acuerdo de la Mesa, disolverá la Cámara y el President de la Generalitat en funciones convocará nuevas elecciones.
+7. Se procederá nuevamente a la elección del President de la Generalitat de acuerdo con el procedimiento establecido por el presente artículo en los casos de renuncia, dimisión, incapacidad, defunción o pérdida de la cuestión de confianza.
+Se renumera como art. 2 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 3.
+
+### Art 3
+
+Art. 3.
+Elegido el President de la Generalitat, el Presidente de Les Corts lo comunicará al Rey, a los efectos de su nombramiento. Dicho nombramiento se publicará en el «Boletín Oficial del Estado» y en el «Diari Oficial de la Comunitat Valenciana» en el plazo de diez días.
+Se modifica y se renumera como art. 3 por el art. 1.II y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 4.
+ Se modifica por el art. único.1 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 4
+
+Art. 4.
+El President electo comenzará a ejercer sus funciones a partir del día de la publicación en el «Boletín Oficial del Estado» de su nombramiento por el Rey.
+Se renumera como art. 4 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 5.
+ Se modifica por el art. único.2 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 5
+
+Art. 5.
+El President de la Generalitat deberá prometer o jurar acatar la Constitución y el Estatuto de Autonomía de la Comunitat Valenciana en las primeras Corts a celebrar en Valencia tras su nombramiento por el Rey. En las mismas efectuará una «Proposición» de su programa de gobierno sin que el mismo sea objeto de debate.
+Se renumera como art. 5 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 6.
+ Se modifica por el art. único.3 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 6
+
+Art. 6.
+El cargo de President de la Generalitat es incompatible con el ejercicio de cualquier otra función pública que no derive del ejercicio de su cargo, excepto la de Diputado de Les Corts; también es incompatible con cualquier actividad profesional o mercantil.
+Se renumera como art. 6 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 10.
+ Se modifica por el art. único.4 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 7
+
+Art. 7.
+El President de la Generalitat es responsable políticamente ante Les Corts.
+Se renumera como art. 7 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 11.
+ Se suprime por el art. único.5 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 8
+
+Art. 8.
+El President de la Generalitat cesa por las siguientes causas:
+a) Por renovación de Les Corts a consecuencia de unas elecciones autonómicas.
+b) En los casos de aprobación de una moción de censura.
+c) En los casos de denegación de una cuestión de confianza.
+d) Por dimisión o renuncia,
+e) Por pérdida de la condición de Diputado de Les Corts.
+f) Por incompatibilidad declarada por Les Corts y no subsanada en el plazo de diez días.
+g) Por incapacidad permanente declarada por Les Corts.
+h) Por fallecimiento.
+El President de la Generalitat continuará sus funciones hasta que, producida la nueva elección estatutaria del President, se publique su nombramiento por el Rey en el «Boletín Oficial del Estado».
+En los supuestos de incapacidad y fallecimiento asumirá las funciones del President de la Generalitat, en cuanto más alto representante de la Comunitat Valenciana y ordinaria del Estado, el Presidente de Les Corts, y en cuanto President del Consell, los Vicepresidentes según su orden o, en su defecto, según su antigüedad ininterrumpida en el cargo. Si no hubiera Vicepresidentes, asumirá las funciones de President del Consell el Conseller más antiguo.
+Se renumera como art. 8 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 12.
+ Se suprime por el art. único.5 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 9
+
+Art. 9.
+El President de la Generalitat gozará de las siguientes prerrogativas:
+a) Tratamiento de muy honorable.
+b) Que le sean rendidos los honores que, en razón a la dignidad de su cargo, le corresponda, con arreglo a lo que establezcan las normas vigentes en la materia.
+c) Presidir todos los actos celebrados en el territorio de la Comunitat Valenciana a los que concurra, salvo lo dispuesto en la legislación del Estado.
+d) Utilizar la bandera de la Comunitat Valenciana como guión.
+Se renumera como art. 9 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 13.
+ Se suprime por el art. único.5 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+## CAPÍTULO II
+
+De las atribuciones del President
+
+### Art 10
+
+Art. 10.
+Al President de la Generalitat, como más alto representante de la Comunitat Valenciana, le corresponden las siguientes funciones:
+a) La representación legal de la Comunitat Valenciana, sin perjuicio de las facultades conferidas por las normas a otros órganos de la Generalitat.
+b) Mantener las relaciones con las otras Instituciones del Estado, sin perjuicio de las facultades atribuidas al respecto a los consellers.
+c) Firmar los Convenios y Acuerdos de cooperación con la Administración del Estado y las demás Comunidades Autónomas.
+d) Nombrar los altos cargos de la Comunitat Valenciana que las Leyes determinen.
+e) Solicitar de las Cortes Generales, previo acuerdo de Les Corts, la facultad de dictar normas legislativas en materias de competencia estatal, de conformidad con el artículo 150.1 de la Constitución y el artículo 60.1 del Estatut d’Autonomia de la Comunitat Valenciana.
+f) Solicitar de la Administración del Estado, previo acuerdo del Consell, la transferencia o delegación de competencias previstas en los apartados 2 y 3 del artículo 60 del Estatut d’Autonomia de la Comunitat Valenciana.
+g) Fomentar las peculiaridades del pueblo valenciano y solicitar la participación de los valencianos en la vida política, económica, cultural y social.
+h) Designar representante de la Comunitat Valenciana en el Patronato del Archivo de la Corona de Aragón.
+i) Representar a la Comunitat Valenciana en el Comité de las Regiones de la Unión Europea, de conformidad con lo previsto en el artículo 61.3.c) del Estatut d’Autonomia.
+Se renumera como art. 10 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 14.
+
+### Art 11
+
+Art. 11.
+Corresponde al President de la Generalitat, en su condición de representante ordinario del Estado en la Comunitat Valenciana, promulgar, en nombre del Rey, las Leyes de la Generalitat y disponer lo necesario para su publicación en el «Diari Oficial de la Comunitat Valenciana», en el plazo de quince días de su aprobación, y en el «Boletín Oficial del Estado».
+Se renumera como art. 11 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 15.
+
+### Art 12
+
+Art. 12.
+1. El President de la Generalitat dirige y coordina las acciones del Consell, sin perjuicio de las atribuciones y responsabilidad de cada Conseller en su gestión; a tal efecto le corresponde:
+a) Establecer las directrices generales de la acción del Consell.
+b) Crear, modificar y suprimir las Consellerías y las Secretarías Autonómicas..
+c) Nombrar y separar a los Vicepresidentes y Consellers.
+d) Convocar al Consell, fijar el orden del día, presidir sus reuniones, dirigir sus deliberaciones y levantar sus sesiones.
+e) Nombrar representantes del Consell en las instituciones y entidades que legalmente corresponda.
+f) Coordinar el programa legislativo del Consell.
+g) Firmar los decretos del Consell.
+h) Coordinar la ejecución de los acuerdos del Consell.
+i) Resolver la sustitución de los miembros del Consell en los casos de ausencia o enfermedad.
+j) Resolver los conflictos de atribuciones entre las distintas Consellerías.
+k) Impartir instrucciones a los miembros del Consell.
+l) Previa deliberación del Consell, plantear ante Les Corts, en escrito motivado, la cuestión de confianza sobre su programa, una decisión política o un proyecto de Ley, conforme se establece en el artículo 30 del Estatut d’Autonomia.
+m) Disolver Les Corts y convocar elecciones a las mismas, previo acuerdo del Consell.
+n) Proponer, en el marco de la legislación estatal, la celebración de consultas populares en el ámbito de la Comunitat Valenciana, sobre cuestiones de interés general en materias autonómicas o locales.
+o) Ejercer cuantas otras facultades y atribuciones le correspondan con arreglo a las disposiciones vigentes, así como aquellas que no vengan expresamente atribuidas a otros órganos o instituciones, sin perjuicio de lo dispuesto en el artículo 25 de la presente Ley.
+2. El President de la Generalitat podrá asignarse aquellas materias que considere oportuno, pudiendo disponer de la estructura orgánica adecuada para el desarrollo de sus funciones.
+En el supuesto en que el President nombre Vicepresidente o Vicepresidentes del Consell sin Conselleria asignada o Consellers sin cartera, éstos se integrarán en la estructura de la Presidencia, pudiéndoles ser adscritas las Secretarías Autonómicas y centros directivos que se consideren oportunos para llevar a cabo sus funciones.
+Se renumera como art. 12 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 16.
+
+## TÍTULO II
+
+Del Consell
+
+## CAPÍTULO I
+
+Del Consell y su composición
+
+### Art 13
+
+Art. 13.
+El Consell es el órgano colegiado que ostenta la potestad ejecutiva y reglamentaria y dirige la Administración de la Generalitat.
+Se renumera como art. 13 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 17.
+
+## CAPÍTULO II
+
+De las atribuciones del Presidente
+
+### Art 14
+
+Art. 14.
+1. El Consell se compone del President de la Generalitat, del Vicepresidente o Vicepresidentes, en su caso, y de los Consellers.
+2. A las reuniones del Consell podrán asistir los Secretarios Autonómicos cuando sean convo­cados.
+Se modifica y se renumera como art. 14 por los arts. 1.III y 2.1 y 2 y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 18.
+
+### Art 15
+
+Art. 15.
+1. El President de la Generalitat podrá nombrar o cesar uno o varios Vicepresidentes del Consell, que llevarán a cabo las funciones de máximo apoyo y asesoramiento en las tareas desempeñadas por el President.
+Los Vicepresidentes podrán ser titulares de uno de los Departamentos en los que se divida la Administración Autonómica, en cuyo caso ostentarán, además, la condición de Conseller, o bien no tener ningún Departamento asignado, en cuyo caso no tendrán funciones ejecutivas propias.
+Los Vicepresidentes, como miembros del Consell, asumirán las funciones de la Presidencia del Consell en caso de ausencia, vacante o enfermedad del President, según su orden.
+Cuando no existan Vicepresidentes, será sustituido por el Conseller que el President designe expresamente, y en su defecto, por el Conseller que más tiempo lleve ininterrumpidamente en el cargo, y en caso de igualdad, según el orden de precedencia de las Consellerías establecido en el Decreto de creación de las mismas.
+Los Vicepresidentes, como órganos de apoyo y asesoramiento del President, ejercerán las funciones que les encomiende o delegue el President.
+Asimismo, el President podrá asignarles las funciones de dirección, impulso y coordinación política de aquellas materias que considere oportunas.
+Las ausencias temporales del President de la Generalitat, superiores a un mes, se comunicarán a Les Corts.
+2. El President podrá nombrar uno o varios Consellers sin cartera.
+3. El President de la Generalitat nombrará, entre los Vicepresidentes o los Consellers, un Secretario del Consell, para que ejerza las funciones establecidas en esta Ley.
+El President podrá designar de entre los miembros del Consell un portavoz.
+Se renumera como art. 15 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 19.
+
+## CAPÍTULO II
+
+De las atribuciones del Consell
+
+### Art 16
+
+Art. 16.
+En materia de política general de la Generalitat corresponden al Consell las siguientes competencias:
+a) Determinar las directrices de la acción de Gobierno, de acuerdo con lo que establezca al respecto el President de la Generalitat.
+b) La planificación y desarrollo de la política valenciana.
+c) El ejercicio de las facultades que el Estatuto de Autonomía o Ley de Les Corts le atribuya en lo que se refiere a la actividad de las Diputaciones Provinciales y demás entes locales.
+d) Ejercer las competencias en materia de acción exterior atribuidas por el artículo 62 del Estatut d’Autonomia.
+Se modifica y se renumera como art. 16 por el art. 1.IV y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 20.
+ Se añade el apartado 2 por el art. único.1 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+ Se modifica la letra k) por el art. único.6 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+ Se renombra la letra l) como m) y se añade una nueva letra l) por el art. único de la Ley 8/1990, de 27 de diciembre. Ref. BOE-A-1991-5637.
+
+## TÍTULO II
+
+Del Consejo
+
+## CAPÍTULO I
+
+Del Consejo y su composición
+
+### Art 17
+
+Art. 17.
+En uso de sus funciones ejecutivas y administrativas, compete al Consell:
+a) Nombrar y separar a los altos cargos de la Administración de la Generalitat, a propuesta del Conseller correspondiente.
+b) Designar o proponer, en su caso, al Gobierno del Estado las personas que han de formar parte de los órganos de la Administración de las Empresas públicas u otras Instituciones de carácter económico o financiero de titularidad estatal implantadas en el ámbito territorial de la Generalitat, así como designar a dichos representantes en este tipo de Empresas o Instituciones dependientes de la Comunitat Valenciana, salvo que por la Ley se atribuya la designación a otro órgano.
+c) Reglamentar e inspeccionar el funcionamiento de las Diputaciones Provinciales, Organismos e Instituciones y demás entes locales, en cuanto que ejecuten competencias delegadas de la Generalitat.
+d) Aprobar las directrices de coordinación que habrán de aplicar las Diputaciones Provinciales en las materias declaradas de interés general para la Comunitat Valenciana, así como atribuir a los distintos órganos de la Administración de la Generalitat el ejercicio de las competencias de información, comprobación y control que de aquéllas se deriven.
+e) Proponer a Les Corts, para su debate y aprobación, los convenios y acuerdos de colaboración con el estado y las demás comunidades autónomas en materia de competencia exclusiva de la Generalitat, de acuerdo con lo establecido en el Reglamento de Les Corts.
+f) Suscribir convenios y acuerdos de cooperación con el estado, otras comunidades autónomas e instituciones públicas sin perjuicio de su debate y previa aprobación por Les Corts y autorización de las Cortes Generales en los casos en que ésta procediera.
+g) Proponer a Les Corts la creación de personas jurídicas públicas y privadas o, en su caso, crearlas, para el ejercicio de competencias de la Generalitat.
+h) Proponer ante el órgano competente la convocatoria de concursos y oposiciones para cubrir plazas vacantes de Magistrados, Jueces, Secretarios judiciales y demás personal al servicio de la Administración de Justicia.
+i) Participar en la fijación de demarcaciones correspondientes a los Registros de la Propiedad y Mercantiles, demarcaciones notariales y número de Notarios, así como de las oficinas liquidadoras con cargo a los Registradores de la Propiedad, Mercantiles y de Bienes Muebles, de acuerdo con lo que prevén las leyes del Estado. Nombrar a los Notarios y Registradores de la Propiedad, Mercantiles y de Bienes Muebles, de conformidad con las leyes del Estado.
+Se renumera como art. 17 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 21.
+
+### Art 18
+
+Art. 18.
+Las funciones del Consell en materia normativa se concretan en las siguientes competencias:
+a) Proponer a Les Corts la reforma del Estatut d’Autonomia de la Comunitat Valenciana.
+b) La iniciativa legislativa, mediante la aprobación de los proyectos de ley para su remisión a Les Corts acompañados de una exposición de motivos y de los antecedentes necesarios para poder pronunciarse sobre ellos. El Consell podrá retirar el proyecto de ley en cualquier momento de su tramitación ante Les Corts, siempre que no hubiere recaído acuerdo final de éstas.
+c) Dictar decretos legislativos en los términos y con las formalidades previstas en la presente Ley. Para el control de esta legislación delegada por Les Corts, se estará a lo dispuesto en su Reglamento.
+d) Dictar decretos-leyes, conforme a lo establecido en el artículo 44.4 del Estatut d’Autonomia.
+e) Elaborar los proyectos de ley de presupuestos de la Generalitat para ser presentados a Les Corts al menos con dos meses de antelación al comienzo del correspondiente ejercicio. A esta competencia se añaden las demás facultades estatutarias en materia presupuestaria.
+f) Ejercer la potestad reglamentaria, de acuerdo con la Constitución Española, el Estatut d’Autonomia de la Comunitat Valenciana y las Leyes.
+g) Emitir deuda pública para gastos de inversión, previo acuerdo de Les Corts.
+Se modifica y se renumera como art. 18 por el art. 1.V y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 22.
+ Se modifica por el art. único.2 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+### Art 19
+
+Art. 19.
+En relación con la actividad parlamentaria, el Consell tiene las siguientes atribuciones:
+a) Proponer a Les Corts, a través de su President, la celebración de sesiones extraordinarias. En esta petición deberá figurar el orden del día que se propone para la sesión extraordinaria solicitada.
+b) Deliberar sobre la cuestión de confianza que pueda plantear el President de la Generalitat a Les Corts sobre su programa, una decisión política o un proyecto de Ley.
+c) Adoptar el previo acuerdo sobre la disolución de Les Corts que pueda plantear el President de la Generalitat, según el artículo 28.4 del Estatut d’Autonomia.
+Se renumera como art. 19 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 23.
+ Se modifica por el art. único.3 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+## CAPÍTULO II
+
+De las atribuciones del Consejo
+
+### Art 20
+
+Art. 20.
+En relación con las competencias del Estado y otras Comunidades Autónomas el Consell podrá:
+a) Acordar la interposición de recursos de inconstitucionalidad.
+b) Plantear conflictos de competencia en oposición al Estado o a otra Comunidad Autónoma ante el Tribunal Constitucional,
+c) Acordar la comparecencia y personación en los recursos y en las cuestiones de inconstitucionalidad que afecten a la Comunitat Valenciana.
+d) Comparecer en los conflictos de competencias a que se refiere el apartado c) del artículo 161 de la Constitución cuando así lo determinen, por mayoría absoluta, Les Corts.
+Se modifica y se renumera como art. 20 por el art. 1.VI y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 24.
+ Se modifica la letra a) por el art. único.4 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+### Art 21
+
+Art. 21.
+Corresponde al Consell el ejercicio de las competencias estatutarias y legales de carácter ejecutivo y reglamentario que vengan atribuidas a la Generalitat o a la Comunitat Valenciana y no estén expresamente atribuidas a otros órganos o Instituciones de las mismas.
+Se modifica y se renumera como art. 21 por el art. 1.VII y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 25.
+ Se modifican las letras e) y f) por el art. único.7 y 8 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+## CAPÍTULO III
+
+Del funcionamiento del Consell
+
+### Art 22
+
+Art. 22.
+El Secretario levantará acta de los acuerdos del Consell.
+Se modifica y se renumera como art. 22 por el art. 1.VIII y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 28.
+ Se modifican las letras b), c) y d) por el art. único.9 a 11 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 23
+
+Art. 23.
+Las sesiones del Consell tendrán carácter reservado; sólo se hará público el contenido de los acuerdos. Los documentos que se elevan a la consideración del Consell tendrán carácter reservado hasta que se adopte acuerdo sobre los mismos.
+Se modifica y se renumera como art. 23 por el art. 1.IX y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 29.
+ Se modifica la letra a) por el art. único.12 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 24
+
+Art. 24.
+1. El Consell podrá constituir Comisiones Delegadas, de carácter permanente o temporal, que estudiarán y resolverán materias de interés común a algunos Departamentos.
+2. La composición, funciones y materias sobre las que versará se determinarán en sus Decretos de creación. Su régimen de funcionamiento se ajustará, en todo caso, a los criterios que rigen para el Consell en cuanto a la convocatoria y carácter de las sesiones.
+3. Podrán formar parte de las Comisiones Delegadas del Consell el President, los Vicepresidentes y los Consellers. Asimismo, los Secretarios autonómicos podrán integrarse en estas Comisiones en aquellos supuestos en los que, por razón de la materia objeto de estudio, se considere oportuno.
+Se renumera como art. 24 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 30.
+ Se añade la letra d) por el art. único.13 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 25
+
+Art. 25.
+El Consell podrá crear Comisiones interdepartamentales integradas por altos cargos de la Administración valenciana para el estudio, coordinación, programación y, en su caso, propuestas de resolución de la actividad interdepartamental en materias sectoriales comunes. Estas Comisiones tendrán las facultades que les atribuya su Decreto de creación. Su funcionamiento se regulará también por Decreto.
+Se renumera como art. 25 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 31.
+
+## CAPÍTULO III
+
+Del funcionamiento del Consejo
+
+### Art 26
+
+Art. 26.
+1.El Consell podrá crear la Comisión de Secretarios autonómicos y Subsecretarios para preparar las reuniones del Consell y tratar otras cuestiones de interés común que no sean competencia de las Comisiones Delegadas o de las Comisiones Interdepartamentales.
+2. Dicha Comisión estará integrada, en todo caso, por los Subsecretarios y por los Secretarios autonómicos que, por sus funciones o asuntos a tratar, así se requiera, en los términos que se establezca en la norma de creación.
+3. La Comisión será presidida por el miembro del Consell que ostente la condición de Secretario del Consell.
+Se renumera como art. 26 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 32.
+
+## CAPÍTULO IV
+
+De la Conselleria y de los Consellers
+
+### Art 27
+
+Art. 27.
+La Administración de la Generalitat Valenciana se organiza en Consellerías o Departamentos, al frente de los cuales habrá un Conseller, miembro del Consell con funciones ejecutivas, sin perjuicio de lo dispuesto en el artículo 12.2.
+Se renumera como art. 27 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 33.
+
+### Art 28
+
+Art. 28.
+Los Consellers, como miembros del Consell y Jefes de Departamento, tienen las siguientes funciones:
+a) Asistir a las reuniones del Consell.
+b) Proponer al Consell el nombramiento y cese de altos cargos de su Departamento.
+c) Preparar y presentar al Consell los anteproyectos de Ley, propuestas de acuerdo y proyectos de Decreto relativos a las cuestiones propias de su Departamento, y refrendar estos últimos una vez aprobados.
+d) Formular motivadamente el anteproyecto de Presupuesto de la Conselleria.
+e) Ejercer la potestad reglamentaria en las materias propias de su Conselleria, en forma de Órdenes de la Conselleria.
+f) Proponer al Consell, para su aprobación, la estructura y organización de sus respectivas Consellerias.
+g) Ejecutar los acuerdos del Consell en el marco de sus competencias.
+h) Resolver en vía administrativa los recursos que se interpongan contra las Resoluciones de los Organismos o autoridades de su Consellería que no estén adscritos a una Secretaría Autonómica, o los de ésta cuando no agoten la vía administrativa, salvo las excepciones que establezcan otras leyes.
+i) Resolver los conflictos de atribuciones que surjan entre distintos órganos y autoridades de su Conselleria.
+j) Ejercer la dirección, iniciativa e inspección de todos los servicios del Departamento y la alta inspección y demás funciones que les correspondan respecto a los Organismos Autónomos adscritos al mismo.
+k) Disponer los gastos propios de los servicios de su Conselleria dentro de los límites legales y presupuestarios y la ordenación de pagos correspondientes.
+l) Ejercer las facultades ordinarias en materia de contratación administrativa dentro de los límites legales presupuestarios.
+ll) Y cuales otras facultades que les atribuyeren las Leyes, los Reglamentos, el Consell o el President de la Generalitat.
+Se modifica y se renumera como art. 28 por el art. 3.2 y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 35.
+ Se modifica el apartado 1 por el art. único.5 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+## CAPÍTULO V
+
+Del Estatuto personal de los Consellers
+
+### Art 29
+
+Art. 29.
+1. Los Consellers son nombrados y separados por el President de la Generalitat.
+2. Los Consellers cesan en sus funciones:
+a) Por cese del President de la Generalitat, si bien continuarán en sus funciones hasta la toma de posesión del nuevo Consell.
+b) Por dimisión aceptada por el President.
+c) Por separación de su cargo, decidida libremente por el President.
+d) Por incompatibilidad sobrevenida.
+e) Por fallecimiento.
+Se renumera como art. 29 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 36.
+
+### Art 30
+
+Art. 30.
+1. Los Consellers están sometidos al régimen de incompatibilidades que el artículo 6 establece para el President de la Generalitat.
+2. Los Consellers tienen tratamiento de honorable señor.
+Se renumera como art. 30 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 37.
+ Se modifica por el art. único.6 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+## CAPÍTULO VI
+
+De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Consell
+
+### Art 31
+
+Art. 31.
+El Consell ejerce la potestad reglamentaria de acuerdo con la Constitución, el Estatuto de Autonomía y las Leyes.
+Se renumera como art. 31 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 38.
+
+### Art 32
+
+Art. 32.
+Las normas que sean consecuencia del ejercicio de la potestad reglamentaria se ajustan a la siguiente jerarquía:
+1. Decretos del Consell.
+2. Decretos del President.
+3. Órdenes de las Comisiones Delegadas del Consell.
+4. Órdenes de Consellerias.
+5. Disposiciones de órganos inferiores por el orden de su jerarquía.
+Se renumera como art. 32 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 39.
+ Se modifica por el art. único.7 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+## CAPÍTULO IV
+
+De la Consejería y de los Consejeros
+
+### Art 33
+
+Art. 33.
+Adoptarán la forma de Decreto del Consell:
+1. Las disposiciones de carácter general emanadas del Consell.
+2. Los actos singulares emanados del Consell, cuando así lo exija una norma legal o reglamentaria, o lo disponga el propio Consell.
+Los Decretos del Consell serán firmados por el President y refrendados por el Conseller o Consellers correspondientes.
+Se renumera como art. 33 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 40.
+ Se modifica por el art. único.8 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+### Art 34
+
+Art. 34.
+Adoptarán la forma de Decreto del President:
+1. Las disposiciones de carácter general que dicte en el ejercicio de sus competencias.
+2. Los actos singulares cuando lo exija alguna disposición legal o reglamentaria o lo disponga el propio President, y en especial los referidos a ceses y nombramientos y asignación de funciones a los distintos Consellers.
+Se renumera como art. 34 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 41.
+
+### Art 35
+
+Art. 35.
+Las disposiciones y resoluciones que adopten la forma de Decreto se publicarán en el «Diari Oficial de la Comunitat Valenciana».
+Se modifica y se renumera como art. 35 por el art. 3.1 y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 42.
+ Se modifica la letra h) por el art. único.9 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+## CAPÍTULO V
+
+Del Estatuto personal de los Consejeros
+
+### Art 36
+
+Art. 36.
+Adoptarán la forma de Órdenes de las Comisiones Delegadas del Consell las disposiciones de carácter general emanadas de las mismas en los términos de sus Decretos constitutivos. Serán firmadas por el Presidente de la Comisión y refrendadas por el Secretario de la misma.
+Se renumera como art. 36 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 43.
+
+### Art 37
+
+Art. 37.
+Adoptarán la forma de Orden de Conselleria las disposiciones consecuencia del ejercicio de la potestad reglamentaria de los titulares de las mismas, que quedará circunscrita a las materias de su departamento.
+Se renumera como art. 37 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 44.
+
+## CAPÍTULO VI
+
+De la iniciativa legislativa, de los Decretos Legislativos y de la potestad reglamentaria del Gobierno
+Se modifica su denominación por el art. único.10 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+### Art 38
+
+Art. 38.
+Los Secretarios autonómicos y los órganos directivos de la Administración Valenciana, en cuanto se refiere a organización interna de sus propios servicios, podrán dictar instrucciones y órdenes de servicio.
+Se renumera como art. 38 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 45.
+
+### Art 39
+
+Art. 39.
+En el ejercicio de la potestad reglamentaria no se podrá:
+1. Establecer penas ni imponer exacciones, tasas parafiscales y otras cargas similares.
+2. Imponer sanciones ni multas, salvo en los casos expresamente autorizados por una Ley.
+3. Restringir derechos individuales, salvo en el marco de las Leyes.
+Se renumera como art. 39 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 46.
+
+### Art 40
+
+Art. 40.
+Son nulos de pleno derecho los preceptos de las disposiciones generales:
+1. Que se opongan a lo establecido por la Constitución, el Estatuto de Autonomía y las Leyes.
+2. Que infrinjan los de otras de jerarquía superior.
+3. Regulen materias reservadas a la Ley, salvo autorización expresa de la misma.
+4. Que contravengan las limitaciones establecidas en el artículo 39.
+Se renumera como art. 40 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 47.
+
+### Art 41
+
+Art. 41.
+Las resoluciones administrativas de carácter singular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas tengan grado igual o superior a éstas.
+Se renumera como art. 41 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 48.
+
+### Art 42
+
+Art. 42.
+1. De conformidad con lo dispuesto en el artículo 26.1 del Estatut d’Autonomia de la Comunitat Valenciana, corresponderá al Consell ejercer la iniciativa legislativa mediante la elaboración, aprobación y posterior remisión de los proyectos de Ley a Les Corts.
+2. La Consellería competente elaborará el correspondiente anteproyecto de Ley. En el caso de que la materia objeto de regulación afecte a varias Consellerías, el Consell podrá designar de su seno el miembro del mismo que asuma la coordinación.
+El anteproyecto irá acompañado de los estudios e informes que justifiquen su necesidad y oportunidad, así como de una memoria económica sobre la estimación del coste previsto.
+3. Será preceptivo, en todo caso, el informe del subsecretario o subsecretarios competentes.
+Igualmente, se requerirá el informe preceptivo de la Abogacía General de la Generalitat
+4. El Conseller elevará el anteproyecto alConsell para que éste decida sobre los trámites posteriores.
+El Consell determinará las consultas y dictámenes que resulte conveniente solicitar, sin perjuicio de los que sean legalmente preceptivos.
+5. Cumplidos los trámites anteriores, el Conseller competente, o aquel que haya asumido la coordinación, lo elevará de nuevo al Consell para su aprobación como proyecto de Ley, acompañándolo de la documentación prevista en los apartados precedentes.
+6. El Consell podrá prescindir de los trámites previstos en el apartado 4 del presente artículo, con excepción de aquéllos que tengan carácter preceptivo, cuando razones de urgencia así lo aconsejen. En este caso, aprobará directamente el proyecto de Ley y lo remitirá a Les Corts.
+7. Los proyectos de Decreto Legislativo serán elaborados siguiendo los trámites establecidos en el presente artículo, debiendo respetarse en todo caso las directrices y límites dispuestos por Les Corts en la correspondiente Ley de Bases, en caso de formación de textos articulados, o Ley Ordinaria, cuando se trate de refundir varios textos legales en uno sólo.
+Se modifica el apartado 3 por el art. 89 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663.
+ Se renumera como art. 42 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 49.
+
+### Art 43
+
+Art. 43.
+1. En la elaboración de los Reglamentos se seguirán los trámites siguientes:
+a) El órgano competente formulará el proyecto de disposición, debiéndose incorporar al expediente un informe sobre la necesidad y oportunidad del proyecto, así como una memoria económica sobre la estimación del coste previsto que pueda incidir en la administración.
+b) Una copia del expediente se remitirá, en su caso, a la Presidencia y Consellerías en cuyo ámbito pudiera incidir, con el fin de que, en el plazo máximo de diez días, emitan informe.
+c) Cuando el proyecto normativo afecte a la esfera de derechos e intereses legítimos de los ciudadanos, se dará audiencia al objeto de que en el plazo de quince días puedan presentar cuantas alegaciones consideren oportunas. No obstante, cuando el grupo de personas a las que pueda afectar el contenido de la disposición esté representada por organizaciones o asociaciones legalmente constituidas que tengan encomendada la defensa de sus intereses, se entenderá cumplido el presente trámite con la consulta a dichas entidades.
+Los plazos indicados en el apartado precedente podrán ser reducidos a siete días por razones de urgencia.
+No obstante, en los supuestos en que hayan participado en el proceso de elaboración del Reglamento las organizaciones o asociaciones que ostenten la representación de colectivos o intereses sociales que puedan verse afectados por la disposición, así como en aquéllos en que graves razones de interés público, apreciadas por el órgano competente para la tramitación, así lo aconsejen, se podrá omitir el trámite de audiencia regulado en el presente apartado, dejando constancia de todo ello debidamente en el expediente.
+d) Durante la tramitación del procedimiento, se recabarán todos aquellos informes que se consideren necesarios, así como las autorizaciones y dictámenes previos que sean preceptivos en relación con el objeto del Reglamento.
+e) Con anterioridad a la aprobación definitiva del proyecto, éste deberá ser remitido a la subsecretaría del departamento, la cual solicitará el informe de la Abogacía General de la Generalitat.
+f) Emitido el informe al que se refiere el párrafo anterior, el expediente será remitido al Consell Jurídico Consultivo de la Comunitat Valenciana para que evacue el pertinente dictamen en aquellos supuestos previstos legalmente.
+g) Concluida la tramitación del expediente, éste será remitido al Conseller para su aprobación, o bien para su elevación al Pleno del Consell cuando sea éste el órgano competente.
+2. En aquellos Reglamentos que versen exclusivamente sobre materias organizativas de la Presidencia y las Consellerías, no serán preceptivos los trámites previstos en los apartados c), e) y f) del epígrafe anterior.
+3. Las disposiciones de carácter general entrarán en vigor el día siguiente al de su publicación en el «Diari Oficial de la Comunitat Valenciana», salvo que en las mismas se disponga otra cosa.
+Se modifica la letra e) del apartado 1 por el art. 90 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663.
+ Se renumera como art. 43 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 49 bis.
+ Se modifica por el art. único.11 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+## TÍTULO III
+
+De las relaciones entre el Consell y Les Corts
+
+## CAPÍTULO I
+
+Del impulso y control de la acción del Consell
+
+### Art 44
+
+Art. 44.
+1. El Consell, a través del President, realizará ante Les Corts, en el primer pleno del primer período ordinario de sesiones anual en el mes de septiembre, una declaración de política general, que será seguida de debate y que podrá concluir con la aprobación de resoluciones.
+Los años en que se celebre debate de investidura bien por la celebración de elecciones a Les Corts, bien por cualquier otra causa, no tendrá lugar el debate de política general.
+2. Igualmente, el Pleno puede celebrar debates generales sobre la acción política y de gobierno a iniciativa del President del Consell o por acuerdo de Les Corts. Estos debates, de conformidad con lo que establezca el Reglamento de Les Corts, pueden también concluir con la aprobación de resoluciones.
+Se renumera como art. 44 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 50.
+
+### Art 45
+
+Art. 45.
+1. Los miembros del Consell, a petición propia o por acuerdo de Les Corts, deberán comparecer ante el Pleno o cualquiera de sus Comisiones para informar de la política del Consell en materias de su Departamento, de aspectos parciales de la misma o de un asunto determinado y para atender los ruegos, preguntas, interpelaciones y mociones que se formulen en los términos que prevea el Reglamento de Les Corts.
+2. El Consell proporcionará a Les Corts los datos, informes o documentos que éstas precisen a través de la Presidencia de Les Corts. El Consell deberá facilitar la información o documentación solicitada en un plazo no superior a treinta días o manifestar las razones fundadas en derecho que lo impidan.
+3. Los miembros del Consell tienen acceso a las sesiones de Les Corts y la facultad de hacerse oír en ellas. Asimismo, a petición propia o cuando así se solicite por Les Corts, deberán comparecer ante las mismas para informar sobre un asunto determinado o celebrar una sesión informativa.
+4. La relación ordinaria entre el Consell y Les Corts se canalizará a través de la Presidencia de la Generalitat y del representante del Consell en la Junta de Portavoces.
+5. Los Secretarios autonómicos podrán comparecer ante las Comisiones, a iniciativa propia y siempre por requerimiento de la Comisión, para informar de la materia objeto de debate y para responder preguntas en la forma que establezca el Reglamento de Les Corts.
+Se renumera como art. 45 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 51.
+ Se modifica por el art. único.12 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+### Art 46
+
+Art. 46.
+El Consell responde solidariamente de su gestión política ante Les Corts, sin perjuicio de la responsabilidad directa de sus miembros por su gestión. La responsabilidad del Consell es exigible por medio de la moción de censura y de la cuestión de confianza.
+Se renumera como art. 46 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 52.
+
+## CAPÍTULO II
+
+De la moción de censura
+
+### Art 47
+
+Art. 47.
+Les Corts pueden exigir la responsabilidad política del President de la Generalitat mediante la adopción de una moción de censura, conforme a lo dispuesto en artículo 28.2 y 3 del Estatut d’Autonomia.
+Se renumera como art. 47 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 53.
+
+### Art 48
+
+Art. 48.
+La moción deberá ser propuesta, al menos, por la quinta parte de los Diputados en escrito motivado y habrá de incluir un candidato a la Presidencia de la Generalitat que haya aceptado la candidatura. Admitida a trámite, la Mesa de Les Corts dará cuenta de su presentación al President de la Generalitat y a los síndicos de los grupos parlamentarios.
+Se renumera como art. 48 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 54.
+
+### Art 49
+
+Art. 49.
+1. Dentro de los dos días siguientes a la presentación de la moción de censura podrán presentarse mociones alternativas que deberán reunir los mismos requisitos que la moción de censura inicial, y éstas quedarán sometidas a los mismos trámites señalados para aquélla.
+2. La moción de censura no podrá ser votada hasta que transcurran como mínimo cinco días desde su presentación.
+3. El debate y votación de la moción de censura se ajustará a lo establecido en el Reglamento de Les Corts.
+4. Si se aprobase una moción de censura, para la que se requiere el voto favorable de la mayoría absoluta de los miembros de Les Corts, no se someterán a votación las restantes que se hubieran presentado como mociones alternativas.
+Se modifica y se renumera como art. 49 por el art. 2.3 y por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 55.
+ Se modifica el apartado 3 por la disposición adicional 4.1 de la Ley 10/2005, de 9 de diciembre. Ref. BOE-A-2006-680.
+ Se modifica por el art. único.13 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+### Art 49 bis
+
+Art. 49 bis.
+1. En la elaboración de los Reglamentos se seguirán los trámites siguientes:
+a) El órgano competente formulará el proyecto de disposición, debiéndose incorporar al expediente un informe sobre la necesidad y oportunidad del proyecto, así como una memoria económica sobre la estimación del coste previsto que pueda incidir en la administración.
+b) Una copia del expediente se remitirá, en su caso, a la Presidencia y Consellerías en cuyo ámbito pudiera incidir, con el fin de que, en el plazo máximo de diez días, emitan informe.
+c) Cuando el proyecto normativo afecte a la esfera de derechos e intereses legítimos de los ciudadanos, se dará audiencia al objeto de que en el plazo de quince días puedan presentar cuantas alegaciones consideren oportunas. No obstante, cuando el grupo de personas a las que pueda afectar el contenido de la disposición esté representada por organizaciones o asociaciones legalmente constituidas que tengan encomendada la defensa de sus intereses, se entenderá cumplido el presente trámite con la consulta a dichas entidades.
+Los plazos indicados en el apartado precedente podrán ser reducidos a siete días por razones de urgencia.
+No obstante, en los supuestos en que hayan participado en el proceso de elaboración del Reglamento las organizaciones o asociaciones que ostenten la representación de colectivos o intereses sociales que puedan verse afectados por la disposición, así como en aquéllos en que graves razones de interés público, apreciadas por el órgano competente para la tramitación, así lo aconsejen, se podrá omitir el trámite de audiencia regulado en el presente apartado, dejando constancia de todo ello debidamente en el expediente.
+d) Durante la tramitación del procedimiento, se recabarán todos aquellos informes que se consideren necesarios, así como las autorizaciones y dictámenes previos que sean preceptivos en relación con el objeto del Reglamento.
+e) Con anterioridad a la aprobación definitiva del proyecto, éste deberá ser remitido a la subsecretaría del departamento, la cual solicitará el informe de la Abogacía General de la Generalitat en el departamento cuando no fuera preceptivo el dictamen del Consejo Jurídico Consultivo de la Comunidad Valenciana.
+f) Emitido el informe al que se refiere el párrafo anterior, el expediente será remitido al Consell Jurídico Consultivo de la Comunidad Valenciana para que evacue el pertinente dictamen en aquellos supuestos previstos legalmente.
+g) Concluida la tramitación del expediente, éste será remitido al Conseller para su aprobación, o bien para su elevación al Pleno del Consell cuando sea éste el órgano competente.
+2. En aquellos Reglamentos que versen exclusivamente sobre materias organizativas de la Presidencia y las Consellerías, no serán preceptivos los trámites previstos en los apartados c), e) y f) del epígrafe anterior.
+3. Las disposiciones de carácter general entrarán en vigor el día siguiente al de su publicación en el «Diari Oficial de la Generalitat Valenciana», salvo que en las mismas se disponga otra cosa.
+Se modifica la letra e) del apartado 1 por la disposición adicional 4.2 de la Ley 10/2005, de 9 de diciembre. Ref. BOE-A-2006-680.
+ Se añade por el art. único.14 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+## TÍTULO III
+
+De las relaciones entre el Consejo y las Cortes Valencianas
+
+## CAPÍTULO I
+
+Del impulso y control de la acción de gobierno
+
+### Art 50
+
+Art. 50.
+1. Cuando la Cámara aprobase una moción de censura, el candidato incluido en la misma se entenderá investido de la confianza de la Cámara, hecho que el Presidente de Les Corts debe comunicar al Rey a los efectos de su nombramiento.
+2. Si la moción de censura o cualquiera de sus alternativas, no fuese aprobada por Les Corts, sus signatarios no podrán presentar otra durante el mismo período de sesiones.
+Se renumera como art. 50 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 56.
+ Se modifica por el art. único.14 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+ Se modifica por el art. único de la Ley 6/1987, de 23 de septiembre. Ref. BOE-A-1987-26090.
+
+## CAPÍTULO III
+
+De la cuestión de confianza
+
+### Art 51
+
+Art. 51.
+1. El President de la Generalitat, previa deliberación del Consell, puede plantear ante Les Corts la cuestión de confianza sobre su programa, una decisión política o un proyecto de Ley, conforme se establece en el artículo 30 del Estatut d’Autonomia.
+2. La cuestión de confianza se presentará, en escrito motivado, ante la Mesa de Les Corts acompañada del correspondiente certificado del Consell.
+3. Finalizado el debate de la cuestión de confianza, de acuerdo con lo establecido en el Reglamento de Les Corts, ésta será sometida a votación transcurridas al menos veinticuatro horas desde su presentación. La confianza se entenderá otorgada cuando obtenga el voto de la mayoría simple de los diputados. Si la cuestión versare sobre un proyecto de ley, éste se entenderá aprobado según el texto enviado por el Consell, excepto en los casos en los que, para su aprobación, se requiera mayoría cualificada.
+Se renumera como art. 51 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 57.
+ Se añade el apartado 5 por el art. único.15 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+ Se modifican los apartados 2 y 3 por el art. único.15 y 16 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 52
+
+Art. 52.
+Si Les Corts negaran su confianza, se procederá a la elección del nuevo President de la Generalitat de acuerdo con lo establecido en el artículo 2 de la presente Ley.
+Se renumera como art. 52 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 58.
+ Se modifica por el art. único.16 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+## CAPÍTULO II
+
+De la moción de censura
+
+## CAPÍTULO IV
+
+De la legislación delegada y de la legislación de urgencia
+Se modifica la rúbrica por el art. 1.XII de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+
+### Art 53
+
+Art. 53.
+Les Corts podrán delegar en el Consell la potestad de dictar normas con rango de Ley, denominadas Decretos Legislativos, con las excepciones siguientes:
+a) Las que afecten al desarrollo de los derechos fundamentales y de las libertades públicas.
+b) Las que afecten al ordenamiento institucional básico de la Comunitat Valenciana o al régimen jurídico de su Administración Pública.
+c) Las que afecten al régimen electoral.
+d) Las que requieran de una mayoría cualificada para su aprobación.
+En ningún caso procederá la subdelegación legislativa.
+Se modifica y se renumera como art. 53 por el art. 2.4 y por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 59.
+ Se modifica por el art. único.17 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 54
+
+Art. 54.
+La delegación legislativa habrá de conferirse al Consell de forma expresa para materia concreta y con fijación de plazo para su ejercicio.
+La delegación se agota al hacer uso de ella el Consell mediante la publicación del correspondiente Decreto legislativo.
+La delegación no podrá entenderse concedida de modo implícito o por tiempo indeterminado.
+Se renumera como art. 54 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 60.
+ Se modifica por el art. único.18 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 55
+
+Art. 55.
+1. La delegación legislativa deberá otorgarse mediante una Ley de bases cuando su objeto sea la formación de textos articulados. Las Leyes de bases delimitarán con precisión el objeto y alcance de la delegación legislativa y los principios y criterios que han de seguirse en su ejercicio. En ningún caso podrán autorizar la modificación de la propia Ley de bases ni facultar para dictar normas con carácter retroactivo.
+2. La delegación legislativa deberá otorgarse por una Ley ordinaria cuando se trate de refundir varios textos legales en uno sólo. Dicha Ley habrá de determinar el ámbito normativo a que se refiere el contenido de la delegación, expresando si se circunscribe a la mera formulación de un texto único o si alcanza a la facultad de regularizar, aclarar y armonizar los textos legales que han de ser refundidos.
+Se renumera como art. 55 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 61.
+ Se modifica por el art. único.19 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 56
+
+Art. 56.
+Las Leyes de delegación pueden establecer en cada caso mecanismos adicionales de control parlamentario, sin perjuicio de las competencias propias de los Tribunales de Justicia.
+El Consell, tan pronto como hubiere hecho uso de la delegación legislativa, dirigirá a Les Corts la correspondiente comunicación, que contendrá el texto articulado o refundido objeto de aquélla.
+Se renumera como art. 56 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 62.
+ Se modifica por el art. único.20 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+## CAPÍTULO III
+
+De la cuestión de confianza
+
+### Art 57
+
+Art. 57.
+Cuando una proposición de Ley o una enmienda fueren contrarias a una delegación legislativa en vigor, el Consell está facultado para oponerse a su tramitación.
+En todo caso puede presentarse una proposición de Ley para la derogación total o parcial de la Ley de delegación.
+Se modifica y se renumera como art. 57 por los arts. 2.5, 1.X y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 63.
+ Se modifica por el art. único.21 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+### Art 58
+
+Art. 58.
+1. De conformidad con la habilitación conferida por el artículo 44.4 del Estatut d’Autonomia, en casos de extraordinaria y urgente necesidad, el Consell podrá dictar disposiciones legislativas provisionales, que adoptarán la forma de decretos-leyes y que no podrán afectar al ordenamiento de las instituciones básicas de la Generalitat, a los derechos, deberes y libertades de los ciudadanos establecidos en la Constitución Española y en el Estatut d’Autonomia y al régimen electoral de la Comunitat Valenciana.
+2. Los decretos-leyes deberán ser inmediatamente sometidos al debate y votación de totalidad en Les Corts sobre su convalidación o derogación, dentro del plazo de los treinta días siguientes a su promulgación.
+3. En el plazo establecido en el número anterior, Les Corts podrán acordar la tramitación de los decretos-leyes como proyectos de ley por el procedimiento de urgencia.
+4. La convalidación, derogación o tramitación como proyectos de ley de los decretos-leyes aprobados por el Consell se regirá por lo que disponga el Reglamento de Les Corts.
+Se modifica y se renumera como art. 58 por el art. 1.XI y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 63 bis.
+ Se modifica por el art. único.22 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+## CAPÍTULO IV
+
+De la legislación delegada y de la legislación de urgencia
+Se modifica la rúbrica por el art. 1.XII de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+
+## CAPÍTULO V
+
+De la expiración del mandato
+
+### Art 59
+
+Art. 59.
+De acuerdo con lo establecido en el artículo 23 del Estatut d’Autonomia de la Comunitat Valenciana, el President de la Generalitat declarará disueltas Les Corts y convocará elecciones. En el decreto de convocatoria se especificará el número de diputados a elegir en cada circunscripción, de forma que el número total de diputados a elegir sea 99 o el superior que, en su caso, establezca la Ley Electoral Valenciana, duración de la campaña electoral, día de la votación, así como el lugar, día y hora de constitución de Les Corts; todo ello de acuerdo con la Ley Electoral Valenciana.
+Se renumera como art. 59 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 64.
+
+## TÍTULO IV
+
+De la Administración Pública de la Generalitat
+
+## CAPÍTULO I
+
+Principios generales
+
+### Art 60
+
+Art. 60.
+La Administración Pública de la Generalitat se organiza y actúa con personalidad jurídica única, conforme a criterios de eficacia, publicidad, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al derecho, dentro de la mayor economía de medios que permita la obtención de los fines que tiene encomendados.
+Se renumera como art. 60 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 65.
+
+### Art 61
+
+Art. 61.
+De acuerdo con lo establecido en los artículos 44 al 48 del Estatut d’Autonomia de la Comunitat Valenciana, el Consell reglamentará lo necesario para adaptar las normas de la Administración del Estado a la organización peculiar de la Generalitat.
+Se modifica y se renumera como art. 61 por el art. 4.8 y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 66.
+
+### Art 62
+
+Art. 62.
+La creación de todo órgano administrativo que suponga un incremento del gasto público irá precedido por un estudio económico del coste de su funcionamiento y del rendimiento o utilidad de sus servicios, así como de la posibilidad de aprovechamiento de los medios de otras Administraciones, en evitación de un incremento injustificado del gasto público.
+Se renumera como art. 62 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 67.
+
+### Art 63
+
+Art. 63.
+1. El ejercicio de las competencias propias de cada órgano podrá ser delegado por éste en el órgano jerárquico inmediato inferior, salvo que por la aplicación del principio de eficacia sea aconsejable atribuirlo a otro órgano, sin que quepa la delegación de competencias delegadas.
+2. Las competencias propias del Consell son delegables en cualquier caso en las Comisiones Delegadas del Consell.
+3. No son delegables las siguientes competencias:
+a) Las que procedan de una atribución expresa del Estatuto de Autonomía.
+b) Las que correspondan a los Consellers en su condición de miembros del Consell.
+c) Las que correspondan a relaciones con órganos del Estado, de otras Comunidades Autónomas o Les Corts.
+4. Las delegaciones realizadas por órganos del nivel administrativo requerirán autorización previa del Conseller.
+5. Las delegaciones podrán ser revocadas en cualquier momento por el órgano delegante.
+6. Las delegaciones y sus renovaciones deberán ser publicadas en el «Diari Oficial de la Comunitat Valenciana, y en las resoluciones adoptadas por la delegación deberá hacerse constar este extremo.
+Se renumera como art. 63 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 68.
+
+### Art 63 bis
+
+Art. 63 bis.
+1. De conformidad con la habilitación conferida por el artículo 44.4 del Estatut d’Autonomia, en casos de extraordinaria y urgente necesidad, el Consell podrá dictar disposiciones legislativas provisionales, que adoptarán la forma de decretos-leyes y que no podrán afectar al ordenamiento de las instituciones básicas de la Generalitat, a los derechos, deberes y libertades de los ciudadanos establecidos en la Constitución Española y en el Estatut d’Autonomia y al régimen electoral de la Comunitat Valenciana.
+2. Los decretos-leyes deberán ser inmediatamente sometidos al debate y votación de totalidad en Les Corts sobre su convalidación o derogación, dentro del plazo de los treinta días siguientes a su promulgación.
+3. En el plazo establecido en el número anterior, Les Corts podrán acordar la tramitación de los decretos-leyes como proyectos de ley por el procedimiento de urgencia.
+4. La convalidación, derogación o tramitación como proyectos de ley de los decretos-leyes aprobados por el Consell se regirá por lo que disponga el Reglamento de Les Corts.
+Se añade por el art. 1.XII de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+
+## CAPÍTULO V
+
+De la expiración del mandato
+
+## CAPÍTULO II
+
+De la organización, competencias y estructura
+
+### Art 64
+
+Art. 64.
+Se aprobará por el Consell un Reglamento orgánico de cada Conselleria a propuesta del Conseller respectivo.
+Se modifica y se renumera como art. 64 por el art. 1.XIII y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 70.
+ Se modifica por el art. único.23 de la Ley 6/1995, de 3 de abril. Ref. BOE-A-1995-11585.
+
+## TÍTULO IV
+
+De la Administración Pública de la Generalidad Valenciana
+
+## CAPÍTULO I
+
+Principios generales
+
+### Art 65
+
+Art. 65.
+La Presidencia de la Generalitat y los Consellers desarrollarán orgánicamente su propia Consellería o Departamento en los términos de su Reglamento orgánico y demás normas reglamentarias que apruebe el Consell.
+Se renumera como art. 65 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 71.
+
+### Art 66
+
+Art. 66.
+La organización de las Consellerías se estructura en tres niveles: Órganos superiores, nivel directivo y nivel administrativo.
+Se modifica y se renumera como art. 66 por el art. 2.6 y la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 72.
+
+### Art 67
+
+Art. 67.
+Los órganos superiores del Departamento son el Conseller y los Secretarios autonómicos.
+El nivel directivo lo integran los Subsecretarios, Directores generales y demás altos cargos que ostenten el rango de Director general.
+Se renumera como art. 67 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 73.
+
+### Art 68
+
+Art. 68.
+1. Bajo la dependencia del President, Vicepresidentes y Consellers, se podrán crear Secretarías Autonómicas.
+2. Los Secretarios autonómicos dirigen y coordinan los Centros Directivos que se adscriben bajo su dependencia y responden, ante el titular del que dependan, de la gestión de aquellas materias que les sean atribuidas.
+3. Los Secretarios autonómicos llevan a cabo las siguientes funciones ejecutivas:
+a) Ejercer las facultades inherentes al sector o actividad de la competencia material que tengan atribuida por la norma de creación del órgano.
+b) Impulsar y coordinar la consecución de los programas y la ejecución de los proyectos que desempeñen los Centros Directivos que estén bajo su dependencia, controlando y supervisando el cumplimiento de los objetivos que fijen el President, Vicepresidentes o Conseller competente.
+c) Resolver los recursos que se interpongan contra las Resoluciones de los Centros Directivos que estén bajo su dependencia y cuyos actos no agoten la vía administrativa.
+d) Cualesquiera otras que les atribuya la vigente legislación, o se les asigne reglamentariamente.
+Se renumera como art. 68 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 74.
+
+## CAPÍTULO II
+
+De la organización, competencias y estructura
+
+### Art 69
+
+Art. 69.
+1.Bajo la directa dependencia del President y de cada Conseller, se creará la Subsecretaría, que llevará a cabo la inspección de todos los servicios de su ámbito, ostentando la jefatura de todo el personal de la misma.
+2. Asimismo, los Subsecretarios tienen competencia respecto a los servicios comunes, la supervisión y recopilación de documentos, y asistencia en las materias propias de cada Consellería, especialmente en orden a:
+a) Elaborar proyectos o planes de actuación y programas de necesidades de la Consellería.
+b) Prestar asistencia técnica al Conseller, Secretario autonómico y Directores generales en todo lo que se requiera.
+c) Informar al personal directivo de cada Consellería de la procedencia legal y viabilidad económica de sus programas de actuaciones.
+d) Informar los asuntos que cada Conseller deba someter al Pleno del Consell o al President.
+e) Proponer la reforma que se encamine a mejorar y perfeccionar los servicios de los distintos Centros de la Consellería, y preparar lo relativo a su organización y método de trabajo, atendiendo principalmente a sus costos y rendimientos.
+f) Proponer normas generales sobre adquisición de material y cuantas disposiciones afecten al funcionamiento de los servicios.
+g) Preparar compilaciones de las disposiciones vigentes que afecten al Consell, proponer las refundiciones y revisiones de textos legales que se consideren oportunas y cuidar de las publicaciones técnicas, periódicas o no, de cada Consellería.
+h) Dirigir y facilitar la formación de estadísticas acerca de las materias de competencia del Consell, en lo que afecte a cada Consellería, en colaboración con el Instituto Valenciano de Estadística y el Instituto Nacional de Estadística u otros Organismos que se consideren convenientes.
+i) Dirigir y supervisar la gestión de la Secretaría General Administrativa.
+j) Cualquier otra competencia que sea inherente a los servicios comunes de la Consellería o Presidencia, según los casos, y las que le sean atribuidas por la normativa vigente.
+3. No obstante lo dispuesto en el apartado 1 del presente artículo, en aquellas Consellerías que tengan asignadas competencias en materia sanitaria y educativa, podrán crearse reglamentariamente Centros Directivos cuyos titulares ostentarán la jefatura del Personal sanitario y docente, llevando a cabo además la inspección de las respectivas unidades.
+Asimismo, en la Consellería que tenga asignada la materia de Justicia, se podrá crear reglamentariamente un Centro Directivo cuyo titular ostentará las competencias en materia del personal al servicio de la Administración de Justicia que correspondan a la Generalitat Valenciana.
+Se renumera como art. 69 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 75.
+
+### Art 70
+
+Art. 70.
+Son funciones de los Directores generales:
+1. Disponer cuanto concierne al régimen interno de los servicios de su dirección y resolver los respectivos expedientes, cuando no sea facultad privativa del Conseller, Secretario autonómico o Subsecretario.
+2. Dirigir y gestionar los servicios y resolver los asuntos que le asigne el Reglamento orgánico de la Consellería o que el Conseller o el Secretario autonómico encomiende a su incumbencia.
+3. Vigilar, fiscalizar y supervisar el funcionamiento de todas las dependencias a su cargo.
+4. Proponer a sus órganos superiores la resolución que estime procedente en asuntos que sean de su competencia y cuya tramitación corresponde a la Dirección General.
+5. Establecer el régimen interno de las oficinas de ellos dependientes.
+6. Elevar anualmente a sus órganos superiores un informe acerca del funcionamiento, coste y rendimiento de los servicios a su cargo, proponiendo las modificaciones que le asignen las Leyes, Reglamentos u órganos superiores.
+Se renumera como art. 70 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 76.
+
+### Art 71
+
+Art. 71.
+El nivel administrativo está integrado por el resto de unidades bajo la dependencia de las anteriores o directamente del Conseller con carácter excepcional.
+Se renumera como art. 71 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 77.
+ Se modifica por el art. único.17 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+### Art 72
+
+Art. 72.
+El nivel administrativo se organizará en subdirecciones generales, servicios, secciones, unidades y negociados, pudiendo establecerse otras unidades cuando así fuese necesario.
+Se modifica por la disposición final 1 de la Ley 10/2010, de 9 de julio. Ref. BOE-A-2010-12629.
+ Se renumera como art. 72 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 78.
+ Se modifica por el art. único.18 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+### Art 73
+
+Art. 73.
+1. En todas las Consellerías, y en la Presidencia, en su caso, como máximo órgano de nivel administrativo de cada una de ellas, existirá una única Secretaría General Administrativa, dependiente de la Subsecretaría.
+2. Son funciones de la Secretaría General Administrativa prestar apoyo directo al titular de la Subsecretaría, y bajo su autoridad atender todos los servicios generales del Departamento.
+Se renumera como art. 73 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 79.
+ Se modifica por el art. único.19 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+## CAPÍTULO III
+
+De la organización territorial de las Consellerias
+
+### Art 74
+
+Art. 74.
+Territorialmente, la organización de las Consellerias se estructura en servicios centrales, regulados en el capítulo anterior, y en servicios periféricos.
+Los servicios periféricos serán la expresión organizativa del principio de desconcentración que ha de regir en la actividad de la Administración de la Generalitat.
+Se renumera como art. 74 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 80.
+ Se modifica por el art. único.20 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+### Art 75
+
+Art. 75.
+Los servicios centrales tienen competencia sobre todo el territorio de la Comunitat Valenciana.
+Se renumera como art. 75 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 81.
+ Se modifica por el art. único.21 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+### Art 76
+
+Art. 76.
+Los servicios periféricos tienen competencia sólo en su propio ámbito territorial, en los términos establecidos en los artículos 65 y 66 del Estatut d’Autonomia de la Comunitat Valenciana.
+Se renumera como art. 76 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 82.
+ Se modifican los apartados 1, 2, 4 y 6 por el art. único.22 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+## TÍTULO V
+
+De la responsabilidad de los miembros del Consell y de la Administración Pública de la Generalitat
+
+### Art 77
+
+Art. 77.
+La responsabilidad penal y civil del President de la Generalitat y de los miembros del Consell se exigirá ante el Tribunal Superior de Justícia de la Comunitat Valenciana o, en su caso, ante el Tribunal Supremo.
+Se renumera como art. 77 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 83.
+
+### Art 78
+
+Art. 78.
+Las responsabilidades de orden penal y civil de las autoridades y funcionarios de la Generalitat serán exigidas de acuerdo con lo previsto en las disposiciones generales del Estado en la materia, con la salvedad de que las referencias al Tribunal Supremo se entenderán hechas al Tribunal Superior de Justicia Valenciano.
+Se renumera como art. 78 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 84.
+ Se modifica por el art. único.23 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+### Art 79
+
+Art. 79.
+La responsabilidad patrimonial de la Administración Pública de la Generalitat será exigible por toda lesión que, como consecuencia del funcionamiento de los servicios públicos, sufran los ciudadanos en cualquiera de sus bienes y derechos, salvo casos de fuerza mayor.
+Se renumera como art. 79 por la disposición adicional única de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+ Su anterior numeración era art. 85.
+ Se modifica por el art. único.24 de la Ley 1/2002, de 26 de febrero. Ref. BOE-A-2002-5573.
+
+## CAPÍTULO III
+
+De la organización territorial de las Consejerías
+
+### Art 80
+
+Art. 80.
+Territorialmente, la organización de las Consejerías se estructura en servicios centrales, regulados en el capítulo anterior, y en servicios periféricos.
+Los servicios periféricos serán la expresión organizativa del principio de desconcentración que ha de regir en la actividad de la Administración de la Generalidad Valenciana.
+
+### Art 81
+
+Art. 81.
+Los servicios centrales tienen competencia sobre todo el territorio de la Comunidad Valenciana.
+
+### Art 82
+
+Art. 82.
+Los servicios periféricos tienen competencia sólo en su propio ámbito territorial, en los términos establecidos en los artículos 65 y 66 del Estatut d’Autonomia de la Comunitat Valenciana.
+Se modifica por el art. 2.7 de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+
+## TÍTULO V
+
+De la responsabilidad de los miembros del Consejo y de la Administración Pública de la Generalidad Valenciana
+
+### Art 83
+
+Art. 83.
+La responsabilidad penal y civil del President de la Generalitat y de los miembros del Consell se exigirá ante el Tribunal Superior de Justícia de la Comunitat Valenciana o, en su caso, ante el Tribunal Supremo.
+Se modifica por el art. 1.XIV de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+
+### Art 84
+
+Art. 84.
+Las responsabilidades de orden penal y civil de las autoridades y funcionarios de la Generalidad Valenciana serán exigidas de acuerdo con lo previsto en las disposiciones generales del Estado en la materia, con la salvedad de que las referencias al Tribunal Supremo se entenderán hechas al Tribunal Superior de Justicia Valenciano.
+
+### Art 85
+
+Art. 85.
+La responsabilidad patrimonial de la Administración Pública de la Generalidad Valenciana será exigible por toda lesión que, como consecuencia del funcionamiento de los servicios públicos, sufran los ciudadanos en cualquiera de sus bienes y derechos, salvo casos de fuerza mayor.
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera.
+Quedan derogadas cuantas normas de igual o inferior rango se opongan a la presente.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda.
+Queda expresamente derogado el Reglamento de Régimen Interior del Consell de la Generalitat, aprobado por Decreto de 3 de diciembre de 1982.
+Se modifica por el art. 4.3 de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consell para adoptar cuantas disposiciones reglamentarias precise la aplicación y desarrollo de lo dispuesto en la presente Ley.
+Se modifica por el art. 4.2 de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Para lo no previsto en esta Ley será de aplicación las disposiciones legales del Estado en la materia, equiparándose los órganos por analogía de sus funciones.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor el día de su publicación en el «Diari Oficial de la Comunitat Valenciana».
+Se modifica por el art. 4.7 de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.
+
+Por tanto, ordeno que todos los ciudadanos, Tribunales, autoridades y poderes públicos a los que corresponda observen y hagan cumplir esta Ley.
+Valencia, 30 de diciembre de 1983.
+JOAN LERMA I BLASCO,
+Presidente de la Generalidad Valenciana
+
+## [INFORMACIÓN RELACIONADA]
+
+Información relacionada
+ Téngase en cuenta que en todo el texto de esta ley las siguientes expresiones se sustituyen, según lo establecido en el art. 4.2 a 7 de la Ley 12/2007, de 20 de marzo. Ref. BOE-A-2007-8281.:
+ - "Gobierno", "Gobierno Valenciano" o "Consell" se sustituyen por "el Consell".
+ - "la Generalidad" y "la Generalidad Valenciana" se sustituyen por "la Generalitat"
+ - "las Cortes" o "las Cortes Valencianas" se sustituyen por "Les Corts"
+ - "el Presidente" o "el Presidente de la Generalidad" se sustituyen por "el President de la Generalitat"
+ - "Comunidad Valenciana", "Comunidad Autónoma" o "Comunidad Autónoma Valenciana" se sustituyen por "Comunitat Valenciana"
+ - "Diario Oficial de la Generalidad Valenciana" se sustituye por "Diari Oficial de la Comunitat Valenciana"

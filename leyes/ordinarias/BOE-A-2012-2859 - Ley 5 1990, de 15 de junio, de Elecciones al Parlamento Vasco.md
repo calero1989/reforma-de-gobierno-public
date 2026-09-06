@@ -1,0 +1,1961 @@
+# Ley 5/1990, de 15 de junio, de Elecciones al Parlamento Vasco.
+
+- Identificador BOE: `BOE-A-2012-2859`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-2859
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Se hace saber a todos los ciudadanos de Euskadi que el Parlamento Vasco ha aprobado la siguiente Ley 5/1990, de 15 de junio, de Elecciones al Parlamento Vasco.
+EXPOSICIÓN DE MOTIVOS
+I
+Toda sociedad democrática debe garantizar la participación de todos los ciudadanos en las elecciones por las que se proceda libremente a la elección de sus representantes.
+El artículo 10.3 del Estatuto de Autonomía del País Vasco atribuye a la Comunidad Autónoma competencia exclusiva en materia de «legislación electoral interior que afecte al Parlamento Vasco». En el desarrollo de esta previsión estatutaria se enmarca la presente Ley de Elecciones al Parlamento Vasco.
+Transcurridos cinco años desde la entrada en vigor de la Ley 28/1983 de Elecciones al Parlamento Vasco, y como consecuencia de la promulgación de la Ley Orgánica 5/1985 de 19 de junio, del Régimen Electoral General, que derogó toda la normativa electoral anteriormente existente, es decir, el Real Decreto Ley 20/1977, la Ley 39/1978, la Ley Orgánica 6/1983 y la Ley 14/1980, se ha producido en estos últimos años una fragmentación normativa que hacía necesario proceder a la reforma de la citada Ley Electoral. Si además tenemos en cuenta que el 21 de julio de 1988 el Tribunal Constitucional dictó sentencia sobre el recurso de inconstitucionalidad interpuesto por el Gobierno del Estado en 1984, declarando nulos determinados artículos de la referida Ley 28/1983, resulta absolutamente imprescindible el adecuar la normativa electoral vasca mediante la presente Ley.
+Esta situación puede generar un factor de inseguridad jurídica o, cuando menos, elementos que pueden provocar dudas, consultas, quejas, recursos y reclamaciones de las fuerzas políticas que concurren al proceso electoral y de los electores ya habituados a un determinado sistema.
+Todo ello plantea, de un lado, la necesidad de reformar la Ley 28/1983 de Elecciones al Parlamento Vasco, estableciéndose unos criterios homogéneos y uniformes en la interpretación de las normas para clarificar el conjunto normativo electoral, eliminando así los graves riesgos de la inseguridad jurídica existente. De otro lado, la reforma requiere introducir las mejoras técnicas y correcciones necesarias que redunden en un mejor funcionamiento del sistema electoral en su conjunto.
+Por ello, se sustituyen y modifican aquellos artículos de la citada Ley 28/1983 que son contradictorios con lo preceptuado por la Ley Orgánica 5/1985 del Régimen Electoral General y el contenido de la citada sentencia del Tribunal Constitucional, por otros preceptos que, adaptándose a la situación de la normativa actual, tengan en cuenta tanto la naturaleza y el ámbito de la consulta electoral al Parlamento Vasco, como las mejoras técnicas que se requieren para un perfeccionamiento de la consulta electoral, mediante una serie de cambios y modificaciones en aras de mantener procedimientos electorales homogéneos, creando por tanto confianza y seguridad, componentes indispensables de la seguridad jurídica necesaria para la eficacia del proceso electoral.
+Finalmente, esta Ley introduce igualmente determinados temas no contemplados en la Ley Orgánica del Régimen Electoral General y que suponen una serie de mejoras en la calidad del proceso electoral.
+Teniendo en cuenta la índole de las modificaciones y mejoras técnicas introducidas en la presente Ley de Elecciones al Parlamento Vasco, que afectan de manera importante a la casi totalidad de los artículos que configuraban la estructura de la anterior Ley Electoral vasca, se ha utilizado la técnica legislativa más adecuada, en función de una mayor claridad y de un fácil manejo del texto. La nueva Ley Electoral no se plantea como una modificación parcial del articulado, sino como una revisión integral, que contempla en su conjunto la generalidad de la regulación del régimen electoral para las elecciones al Parlamento Vasco.
+II
+La presente Ley se estructura en siete títulos, cinco disposiciones adicionales, dos disposiciones transitorias, tres disposiciones finales y una disposición derogatoria.
+III
+El Título Primero, de disposiciones generales, trata de la delimitación del ámbito de la Ley, de la condición de elector, de la condición de elegible, de las inelegibilidades e incompatibilidades.
+La condición de elector se ha regulado con el carácter más amplio posible, haciéndola coincidir con la mayoría de edad, la inscripción en el Censo Electoral vigente y el no estar privado del ejercicio del derecho de sufragio activo.
+La condición de elegible va unida a la cualidad de elector que posea la condición política de vasco según lo previsto en el artículo 7 del Estatuto de Autonomía del País Vasco.
+Las causas de inelegibilidad se orientan a garantizar con nitidez, en primer lugar, el principio de separación de poderes entendido en un doble sentido. Por un lado, como separación de poderes entre el Ejecutivo y el Legislativo vasco; por otro, como separación entre poderes vascos y poderes estatales. En segundo lugar, se establecen inelegibilidades encaminadas a garantizar la transparencia y objetividad del proceso electoral.
+En lo referente a las incompatibilidades de los parlamentarios, éstas se refieren a las causas que originan situaciones incompatibles, cuya regulación corresponde a la legislación electoral por mandato del artículo 26.5 del Estatuto de Autonomía del País Vasco.
+IV
+El Título Segundo trata del sistema electoral.
+El mencionado título fija, en primer lugar, el mismo número de 25 parlamentarios a elegir por circunscripción electoral.
+La elección se verificará en cada territorio histórico atendiendo a criterios de representación proporcional, estableciéndose el porcentaje del 5% de votos válidos emitidos para acceder al reparto de escaños.
+Asimismo, se establece que en los casos de fallecimiento, renuncia o incapacidad del candidato electo el escaño será atribuido al candidato siguiente incluido en la misma lista proclamada, por el orden de colocación en que aparezca.
+V
+El Título Tercero regula la Administración electoral.
+El referido título en su Capítulo Primero, de disposiciones generales, define la organización electoral, que se estructura en Juntas y Secciones Electorales, quedando integrada la Administración electoral vasca en tres tipos de Juntas Electorales: la Junta Electoral de la Comunidad Autónoma, cuya jurisdicción comprende toda la Comunidad Autónoma, la Junta Electoral de Territorio Histórico, cuya jurisdicción abarca a cada circunscripción electoral, y la Junta Electoral de Zona, con competencias circunscritas a los partidos judiciales.
+Asimismo, el Gobierno Vasco, en el ámbito de sus competencias, contribuye a garantizar el ejercicio del derecho al voto de los ciudadanos y a su participación en las elecciones, siendo el Departamento de Interior el órgano competente en materia electoral para que con carácter permanentemente efectivo sirva, en el proceso electoral, de eficaz apoyo a las Juntas Electorales que dirigen dicho proceso.
+El Capítulo Segundo del citado Título Tercero trata de las Juntas Electorales, regulándose su composición y competencias y su organización y funcionamiento.
+En cuanto a la composición de las Juntas Electorales, se establece el sistema de Juntas Electorales presididas por miembros del poder judicial y formadas por magistrados, jueces y juristas o profesionales del derecho, fijándose, pues, una representación netamente político-judicial.
+En este mismo orden de cosas, la Ley asegura el funcionamiento realmente permanente de la Junta Electoral de la Comunidad Autónoma, garantizándose el funcionamiento de las Juntas Electorales de Territorio Histórico y de Zona hasta cien días después de las elecciones. Además se regula el régimen de sustituciones de los miembros de las Juntas Electorales y se fija el principio de inamovilidad de los componentes de las referidas Juntas.
+Las competencias de las Juntas Electorales en materia del Censo Electoral se establecen de conformidad con la sentencia del Tribunal Constitucional de 21 de julio de 1988.
+El Capítulo Tercero del Título Tercero trata de las Secciones y Mesas Electorales.
+La organización electoral en torno a la fijación y publicación del número y límites de las Secciones, Mesas y Colegios Electorales corresponde a las Delegaciones de la Oficina del Censo Electoral en la Comunidad Autónoma vasca.
+Las Mesas Electorales se componen de un Presidente y dos Vocales, designados mediante sorteo efectuado en los Ayuntamientos bajo la supervisión de las Juntas Electorales de Zona, descargando así a estas Juntas de un trabajo administrativo que pasa a los Ayuntamientos con las máximas garantías de imparcialidad.
+VI
+El Título Cuarto trata de la convocatoria de las elecciones, que deberá hacerse, en congruencia con la vigente Ley de Gobierno, mediante Decreto del Lehendakari, estableciéndose que las elecciones se celebrarán entre el quincuagésimo cuarto y el sexagésimo día desde la fecha de publicación del Decreto de convocatoria en el «Boletín Oficial del País Vasco».
+VII
+El Título Quinto regula todo lo concerniente al procedimiento electoral, en nueve Capítulos con sus correspondientes Secciones.
+En el Capítulo Primero que trata de la presentación y proclamación de candidatos, se regulan las figuras del representante general y el de la candidatura como colaboradores de la Administración electoral en sus relaciones con la misma.
+La presentación de candidatos, tratándose de un sistema proporcional en circunscripciones plurinominales, se atribuye a los partidos políticos, federaciones, coaliciones y agrupaciones electorales, regulándose específicamente estos dos últimos supuestos.
+La regulación de coaliciones prohíbe presentar listas propias a los partidos o federaciones que concurren en coalición. Igualmente se prohíbe a las fuerzas políticas que concurren al proceso electoral presentar más de una candidatura en una misma circunscripción. Se trata de garantizar el principio de igualdad de quienes concurren al proceso electoral, principio de igualdad que se vería dañado de no existir la prohibición, dado que las prestaciones públicas que corresponden se conceden en consideraciones a cada candidatura.
+La regulación de agrupaciones, exigiendo al menos la firma del 1 por 100 de los inscritos en el Censo Electoral de la circunscripción, tiene por finalidad evitar candidaturas que busquen, al amparo de las prestaciones públicas, un altavoz para pretensiones minoritarias que deben tener medios propios de defensa de sus intereses pero que no deben contribuir a desorientar a los ciudadanos, perturbando un proceso que tiene por finalidad presentar programas de gobierno para que entre ellos puedan optar los electores.
+Se establece la prohibición de formar parte de más de una lista electoral y, en congruencia, se requiere en la presentación de candidaturas, además de acreditar la aceptación por cada candidato, que éste declare que sólo concurre en una lista electoral. Asimismo, se prevé la posibilidad de ser candidato sin figurar inscrito en las listas del Censo Electoral, siempre que se posea la vecindad administrativa en cualquiera de los municipios de la Comunidad Autónoma.
+En esta fase del proceso electoral, la función fundamental de las Juntas es comprobar que los candidatos reúnen los requisitos exigidos de elegibilidad y que las candidaturas están realizadas de acuerdo con las normas que se establecen, normas que se encaminan a garantizar la seguridad jurídica de los electores, que deben saber que cada candidato sólo figura una vez en las listas y que éstas tienen un orden claro y cierto. Por ello mismo, salvo casos de renuncia, fallecimiento o aparición de condición de inelegibilidad, el orden de las listas, una vez proclamadas definitivamente, no puede ser modificado, siendo el orden de sustitución el de ordenación de suplentes. Junto a la subsanación de oficio, se regulan las impugnaciones que puedan hacer los representantes de otras candidaturas con el mismo objetivo de garantizar la seguridad jurídica y la claridad y transparencia del proceso electoral.
+La improcedencia de la proclamación se regula diferenciando entre vicios que afectan a la candidatura en cuanto tal y aquéllos que sólo afectan a candidatos individuales, señalando distintas consecuencias en cada caso, por entender que los vicios de presentación de candidatos en concreto no deben afectar necesariamente a toda la candidatura.
+Proclamadas las candidaturas, se regula el recurso contra la proclamación de candidaturas y candidatos ante el Juzgado de lo Contencioso Administrativo.
+Asimismo, y en orden a evitar posibles fraudes electorales o abusos de derecho, se regulan las sanciones que pueden imponer las Juntas Electorales de Territorio Histórico a los partidos políticos y, en su caso, a los candidatos cuando, una vez proclamadas las candidaturas, procedan a la retirada en bloque de las listas electorales.
+La regulación de la campaña electoral se estructura en el Capítulo Segundo del citado Título Quinto de la Ley.
+Las disposiciones generales de la Sección Primera establecen el plazo de campaña electoral en quince días, y regulan la campaña de propaganda institucional del Gobierno Vasco.
+En la Sección Segunda del citado Capítulo Segundo se regula la precampaña a efectos de propaganda electoral, evitando así la existencia de lagunas jurídicas que motivan interpretaciones causantes de conflictos electorales, y, asimismo, se fija quiénes no pueden difundir propaganda electoral. Por último, se establece el derecho de las candidaturas a contratar la inserción de publicidad en la prensa y medios de difusión privados durante la campaña electoral, no pudiéndose contratar espacios de publicidad electoral en las emisoras de TV privadas.
+La Sección Tercera trata del uso gratuito por las candidaturas de locales y espacios públicos durante la campaña electoral, estableciéndose, bajo los principios de equidad y de igualdad de oportunidades para todas las candidaturas, un procedimiento diferente de asignación de dichos locales y espacios a través de las Juntas Electorales de Zona. De otro lado, se determina la responsabilidad de las infracciones o daños producidos por las fuerzas políticas, así como la sanción por colocar propaganda gráfica fuera de los lugares autorizados y la obligación de retirar la propaganda electoral luego de finalizadas las elecciones.
+Se regula igualmente, en la Sección Cuarta, el derecho al uso de espacios gratuitos en los medios de comunicación pública, otorgándose éstos en función del número total de votos obtenidos por cada partido político en las anteriores elecciones al Parlamento Vasco. De la misma manera, se regula el Comité de Radio y Televisión, para efectuar la propuesta de distribución de los espacios gratuitos a la Junta Electoral de la Comunidad Autónoma.
+Asimismo, se reconoce la competencia de la Junta Electoral de la Comunidad Autónoma para distribuir los espacios gratuitos de propaganda electoral en los medios públicos de Radio y TV, y se fija el baremo para distribuir el tiempo gratuito de los espacios de propaganda electoral junto con las reglas para determinar el momento y el orden de emisión de los mismos.
+La Sección Quinta recoge el derecho de rectificación.
+Por último, en la Sección Sexta se regula el régimen de publicación de encuestas y sondeos electorales, resaltando la prohibición de difundir sondeos electorales o resultados provisionales antes de las veinte horas del día de la votación.
+Los Capítulos restantes del Título Quinto de la Ley desarrollan en sus distintas fases el proceso que se desenvuelve desde el momento de la apertura del Colegio Electoral hasta el escrutinio general y la proclamación de parlamentarios electos.
+VIII
+El Título Sexto de la Ley desarrolla la forma de presentación y libramiento de documentos, así como las reclamaciones electorales, estableciéndose, en cuanto al procedimiento administrativo, un sistema simplificado y rápido en su resolución.
+IX
+El Título Séptimo regula los ingresos, gastos y subvenciones electorales.
+El Capítulo Primero del Título Séptimo establece la figura del administrador electoral responsable de la contabilidad electoral.
+El Capítulo Segundo se refiere a las cuentas electorales y a la contabilidad detallada.
+La regulación de los ingresos electorales y las fuentes de aportación se determina en el Capítulo Tercero, estableciéndose la posibilidad de conceder un adelanto, por parte del Gobierno Vasco, a cuenta de las subvenciones públicas de gastos electorales a los partidos políticos.
+El Capítulo Cuarto limita los gastos electorales, fijándose un límite para cada circunscripción electoral, resultado de multiplicar por treinta y cinco pesetas el número de habitantes correspondientes a la población de derecho de las circunscripciones donde presenten las candidaturas, pudiendo incrementarse dicha cantidad en diecisiete millones por circunscripción.
+En el Capítulo Quinto se regula el procedimiento de control de la contabilidad electoral a través de la Junta Electoral de la Comunidad Autónoma y las Juntas Electorales de Territorio Histórico, con la intervención del Tribunal Vasco de Cuentas Públicas.
+Las reglas para fijar las subvenciones públicas de gastos electorales se regulan en el Capítulo Sexto.
+Por último, el Capítulo Séptimo se refiere a las sanciones a imponer por la infracción de lo previsto en los capítulos referentes a los ingresos y gastos electorales.
+X
+La Disposición Final Primera de la Ley se configura como una cláusula de remisión a las normas vigentes en la legislación sobre régimen electoral general, y en especial a las previstas para las elecciones de diputados a Cortes Generales, que serán de aplicación en todo lo no previsto en la presente Ley.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley tiene por objeto regular las elecciones al Parlamento Vasco.
+
+### Artículo 2
+
+Artículo 2.
+1. Serán electores todas las personas que ostentando la condición política de vascos, gocen del derecho de sufragio activo.
+2. Para el ejercicio del sufragio será indispensable estar inscrito en el Censo Electoral.
+
+### Artículo 3
+
+Artículo 3.
+1. Carecerán de derecho de sufragio:
+a) Los condenados por sentencia judicial firme a la pena principal o accesoria de privación del derecho de sufragio durante el tiempo de su cumplimiento.
+b) Los declarados incapaces en virtud de sentencia judicial firme, siempre que la misma declare expresamente la incapacidad para el ejercicio del derecho de sufragio.
+c) Los internados en un hospital psiquiátrico con autorización judicial durante el periodo que dure su internamiento, siempre que en la autorización el Juez declare expresamente la incapacidad para el ejercicio del derecho de sufragio.
+2. A los efectos previstos en este artículo, los Jueces y Tribunales que entiendan de los procedimientos de incapacitación o internamiento deberán pronunciarse expresamente sobre la incapacidad para el ejercicio del sufragio. En el supuesto de que ésta sea apreciada, lo comunicarán al Registro Civil para que se proceda a la anotación correspondiente.
+
+### Artículo 4
+
+Artículo 4.
+1. Serán elegibles los ciudadanos que, reuniendo los requisitos establecidos en el artículo 7.º del Estatuto de Autonomía, tengan la condición de electores y no se encuentren incursos en las causas de inelegibilidad que se establecen en la presente Ley.
+2. No serán elegibles los miembros de la Familia Real Española incluidos en el Registro Civil que regula el Real Decreto 2917/1981, de 27 de noviembre, así como sus cónyuges.
+3. Será causa de inelegibilidad el desempeño de las siguientes funciones:
+a) En el sector público de la Comunidad Autónoma del País Vasco:
+1) Titulares de viceconsejerías, secretarías generales, direcciones y equiparados a estos en la Administración general.
+2) Titulares de la presidencia, direcciones generales, secretarías generales, gerencias o cualquier otro cargo de libre designación con funciones ejecutivas asimilables a los cargos anteriores, de la Administración institucional y el resto de entes del sector público definitivo al que se refiere el artículo 7 del Decreto Legislativo 1/1997, de 11 de noviembre, por el que se aprueba el texto refundido de la Ley de Principios Ordenadores de la Hacienda General del País Vasco. Sin embargo, los miembros del Parlamento Vasco podrán formar parte de los órganos colegiados de dirección o consejos de administración de organismos, entes públicos o sociedades con participación pública, directa o indirecta, cuando su elección corresponda al Parlamento Vasco.
+3) Ararteko o adjunto o adjunta al Ararteko; titular de la presidencia o vocales del Tribunal Vasco de Cuentas Públicas; titular de la presidencia o vocales de la Comisión Arbitral.
+4) Director o directora general del ente público Radio Televisión Vasca, directores o directoras de las sociedades públicas que lo integran, y quienes ostenten el cargo de directores o directoras de los medios de comunicación encuadrados orgánicamente en ellas.
+b) En el sector público del Estado:
+1) Titular de la presidencia o vocales del Consejo General del Poder Judicial, juez o jueza, magistrada o magistrado o fiscal en activo, fiscal general del Estado.
+2) Titulares de la Presidencia del Gobierno, ministerios o secretarías de Estado, así como cualquier otro cargo de libre designación en la Administración central; quien ostente la titularidad de la Delegación y subdelegaciones del Gobierno en Euskadi, y las autoridades similares con distinta competencia territorial; titular de la presidencia, direcciones generales o secretarías generales, o cualquier otro cargo de libre designación con funciones ejecutivas asimilables a los cargos anteriores, en entidades de derecho público, en organismos autónomos, en entes públicos de derecho privado o en sociedades públicas estatales o con participación estatal, directa o indirecta. Titulares de jefaturas de misión acreditados, con carácter de residentes, ante un estado extranjero u organismo internacional. Titulares del gobierno y subgobierno del Banco de España; los cargos titulares de presidencia y direcciones del Instituto de Crédito Oficial y de las demás entidades oficiales de crédito. Titular de la dirección de la Oficina del Censo Electoral y los cargos titulares de la presidencia, las consejerías y la secretaría general del Consejo General de Seguridad Nuclear.
+3) Quienes ejerzan la función de mayor nivel de cada ministerio en las distintas demarcaciones territoriales de ámbito inferior al estatal; quienes ostenten la titularidad de la presidencia, direcciones y cargos asimilados de entidades autónomas de competencia territorial limitada, así como los cargos de delegados o delegadas del Gobierno en las mismas; los cargos de delegadas o delegados territoriales de la corporación RTVE; quienes figuren como titulares de la presidencia y direcciones de los órganos periféricos de las entidades gestoras de la Seguridad Social; los secretarios o secretarias generales de las delegaciones y subdelegaciones del Gobierno; las delegadas o delegados provinciales de la Oficina del Censo Electoral, todos ellos por las circunscripciones electorales comprendidas en todo o en parte en el ámbito territorial de su jurisdicción.
+4) Titular de la presidencia o magistrados o magistradas del Tribunal Constitucional, titular de la presidencia o consejeros o consejeras del Consejo de Estado o del Tribunal de Cuentas, presidenta o presidente del consejo a que hace referencia en artículo 131.2 de la Constitución.
+5) Defensor o Defensora del Pueblo y sus adjuntos o adjuntas.
+c) En el sector público de otras Comunidades Autónomas:
+– Miembro de las Asambleas de otras Comunidades Autónomas o miembro de las instituciones autonómicas que deban ser elegidos por dichas Asambleas.
+– Miembro de los Consejos de Gobierno de otras Comunidades Autónomas, así como los cargos de libre designación de dichos Consejos.
+d) En el sector público de la Comunidad Europea:
+– Presidente, Comisario, Secretario General o Director General de la Comisión.
+– Presidente, miembro, Secretario General o Director General del Consejo.
+– Presidente, Juez, Abogado General o Secretario General del Tribunal de Justicia.
+– Altos cargos de los órganos consultivos y auxiliares de la Comisión, el Consejo o el Parlamento Europeo.
+e) En el sector público de los territorios históricos y de las Administraciones locales:
+1) Titulares de direcciones generales o cargo asimilable en la Administración pública de los territorios históricos. Y quienes sean titulares de la presidencia, direcciones generales, gerencias o cualquier otro cargo asimilado a estos de organismos autónomos forales, entidades públicas empresariales forales, entes públicos forales de derecho privado, sociedades mercantiles forales y sociedades públicas forales.
+2) Titulares de la presidencia, direcciones generales, gerencias o cualquier otro cargo asimilado a estos de organismos autónomos locales, sociedades mercantiles locales de capital público, y entidades públicas empresariales locales o participadas mayoritariamente por ellos.
+3) No obstante, serán elegibles quienes ostenten el cargo diputado o diputada general o foral, alcalde o alcaldesa, concejal o concejala y sean por ello miembros de los organismos, entes, entidades o sociedades mencionados en los apartados 1.° y 2.° con carácter nato, por estar expresamente previsto en los estatutos de dichas organizaciones.
+f) La de miembro de cualquier órgano de la Administración Electoral, así como los Secretarios de los Ayuntamientos como Delegados de las Juntas Electorales de Zona.
+g) Igualmente son inelegibles quienes presten servicio en los Cuerpos y Fuerzas de Seguridad del Estado, Ertzaintza, Policías Forales o Municipales, así como los militares, profesionales y de complemento, en activo.
+4. El régimen de inelegibilidades aplicable a la presidencia, dirección general, secretaría general, gerencia o cualquier otro cargo asimilado a estos en organismos autónomos, entes públicos de derecho privado o sociedades citadas en las letras a), b) y e) del apartado 3 de este artículo, cuyo capital social está participado por diferentes administraciones públicas, será el que corresponda a la administración que ostente el mayor número de acciones o participaciones. En caso de empate, quien ostente la representación territorial de la candidatura será el que decida el régimen de inelegibilidad que deba aplicarse.
+5. Quienes vengan desempeñando un cargo o función de los enumerados en el apartado 3 de este artículo y sean presentados como candidatos o candidatas deberán acreditar de modo fehaciente, ante la junta electoral correspondiente, haber renunciado o cesado en el cargo o función que genera la inelegibilidad.
+La comunicación a la junta electoral competente de la renuncia o cese en el cargo o función constitutivos de un supuesto de inelegibilidad, podrá efectuarse, entre otros medios, mediante presentación de certificación en tal sentido emitida por el organismo afectado, o aportando copia del escrito presentado ante el mismo.
+6. Quienes, formando parte de una candidatura, accedieran a un cargo o función declarado inelegible deberán comunicar dicha situación a la correspondiente junta electoral, que declarará la exclusión de la candidata o candidato de la lista presentada.
+7. Por último, serán inelegibles:
+a) Quienes sean condenados por sentencia firme a pena privativa de libertad, en el periodo que dure la pena.
+b) Las personas condenadas por sentencia, aunque no sea firme, por los delitos y en las condiciones establecidas en el artículo 6.2.b de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+Se modifica por el art. único.1 a 7 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica el apartado 3.f) por el art. 1.1 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 5
+
+Artículo 5.
+1. Todas las causas de inelegibilidad lo serán también de incompatibilidad.
+2. Además, serán causas de incompatibilidad el desempeño de las siguientes funciones o cargos:
+a) En el sector público de la Comunidad Autónoma:
+1) Titular de la presidencia, secretaría general, vocales o cualquier otro cargo del Consejo Económico y Social, Consejo de Relaciones Laborales, Consejo Vasco de Bienestar Social, Consejo Superior de Cooperativas y órganos consultivos de naturaleza semejante, con excepción de quienes siendo miembros del Parlamento hubieren sigo designados por éste para el desempeño de dichas funciones.
+2) Personal al servicio de la Administración pública de la Comunidad Autónoma o de cualquiera de los órganos e instituciones de la misma, sea cual fuere el régimen en que dichos servicios se presten, con excepción del personal docente, sanitario o investigador que no realice tareas de dirección, gestión o mera administración.
+b) En el sector público estatal:
+– Diputada o diputado al Congreso.
+c) En el sector público de la Unión Europea:
+– Diputada o diputado al Parlamento Europeo.
+Se modifica por el art. único.8 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se añade apartado 2.c) por el art. 1.2 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 6
+
+Artículo 6.
+Los miembros del Parlamento Vasco podrán desarrollar actividades en el sector privado, con las siguientes excepciones:
+a) Actividades de gestión, defensa, dirección o asesoramiento ante la Administración pública de la Comunidad Autónoma, tanto general como institucional, de asuntos que hayan de resolverse por ella, que afecten directamente a la realización de algún servicio público o que estén encaminadas a la obtención de subvenciones o avales públicos. No se comprenden en el ámbito de esta norma las actividades particulares que, en ejercicio de un derecho reconocido, realicen los directamente interesados, así como las subvenciones o avales cuya concesión se derive de la aplicación reglada de lo dispuesto en una norma de carácter general.
+b) Actividades de contratista o fiador de obras, servicios y suministros públicos que se paguen con fondos de la Comunidad Autónoma, o el desempeño de cargos que lleven anejas funciones de dirección, representación o asesoramiento en compañías o empresas que se dediquen a tales actividades.
+c) Celebración, con posterioridad a la fecha de su elección como parlamentario y mientras conserve esta condición, de conciertos de prestación de servicios de asesoramiento o de cualquier otra índole, con titularidad individual o compartida, en favor de la Administración pública de la Comunidad Autónoma.
+d) Participación superior al 10 por 100, adquirida en todo o en parte con posterioridad a la fecha de la elección, salvo que fuere por herencia, en empresas o sociedades que tengan conciertos, servicios o suministros con entidades del sector público de la Comunidad Autónoma.
+e) Funciones de Presidente del Consejo de Administración, Consejero, Administrador, Director General, Gerente o cargos equivalentes en empresas o sociedades que tengan un objeto fundamentalmente financiero y hagan apelación pública al ahorro y al crédito.
+
+### Artículo 7
+
+Artículo 7.
+En cualquier caso, los miembros del Parlamento Vasco no podrán recibir más de una remuneración con cargo a los Presupuestos públicos de cualquier ámbito institucional, ni optar por percepciones correspondientes a funciones incompatibles, sin perjuicio de las dietas e indemnizaciones que en cada caso corresponda por las compatibles.
+
+### Artículo 8
+
+Artículo 8.
+Los miembros del Parlamento Vasco estarán obligados a formular declaración de todas las actividades que puedan constituir causa de incompatibilidad de las enumeradas en esta Ley y de cualesquiera otras actividades que les proporcionen o puedan proporcionar ingresos económicos o ventajas patrimoniales, así como de sus bienes. Dicha declaración deberá presentarse ante la Cámara tanto al adquirir la condición de parlamentarios como cuando se modifiquen sus circunstancias.
+Dichas declaraciones de actividades y bienes se inscribirán en un Registro de Intereses, que se custodiará por el Presidente del Parlamento y que se regirá por las normas de régimen interior que establezca la Cámara.
+
+## TÍTULO II
+
+Sistema electoral
+
+### Artículo 9
+
+Artículo 9.
+Para las elecciones al Parlamento Vasco la circunscripción electoral será el territorio histórico.
+
+### Artículo 10
+
+Artículo 10.
+Se elegirán veinticinco parlamentarios por circunscripción electoral.
+
+### Artículo 11
+
+Artículo 11.
+1. Para poder acceder al reparto de escaños será requisito que la candidatura haya obtenido, al menos, el 3 por ciento del total de votos válidos emitidos en la respectiva circunscripción.
+2. Se considerarán como votos válidos emitidos los votos obtenidos por las candidaturas y los votos en blanco.
+Se modifica el apartado 1 por el art. único de la Ley 6/2000, de 4 de octubre. Ref. BOE-A-2011-19448.
+
+### Artículo 12
+
+Artículo 12.
+1. La atribución de escaños a cada partido o candidatura en la circunscripción electoral respectiva se hará de conformidad con las siguientes reglas:
+a) Las listas de candidatos que se presenten en cada circunscripción serán cerradas y bloqueadas.
+b) Tras el escrutinio de los votos, se ordenarán las listas de mayor a menor número de votos obtenidos por cada una.
+c) Se dividirá el total de votos válidos obtenidos por cada lista por uno, dos, tres, etcétera.
+d) Los escaños se atribuirán a las listas a las que correspondan los mayores cocientes, siguiendo un orden decreciente en la atribución de aquéllos.
+Cuando en la asignación de un determinado puesto coincidan los cocientes de dos o más candidaturas, el desempate se determinará sacando decimales, en cuyo caso se atribuirá el escaño a aquella candidatura que obtenga decimales más altos.
+e) En caso de mantenerse la igualdad luego de aplicar la regla del apartado anterior, se atribuirá el escaño a la lista más votada en su conjunto.
+f) Si el empate se produjera en el cociente luego de aplicada la regla de la letra d, y en el número total de votos, el primer escaño se atribuirá por sorteo y los siguientes en forma alternativa.
+g) Una vez fijado el número de escaños que están atribuidos a cada lista, la adjudicación a los candidatos se hará por orden estricto de colocación en que aparezcan.
+2. Si se produjera el fallecimiento, incapacidad o renuncia de un candidato proclamado electo, el escaño será atribuido al candidato siguiente incluido en la misma lista proclamada, por el orden de colocación en que aparezca.
+3. Las sustituciones serán posibles a lo largo de toda la legislatura.
+
+## TÍTULO III
+
+Administración Electoral
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 13
+
+Artículo 13.
+1. La Administración electoral tendrá por finalidad garantizar, en los términos de la presente Ley, la transparencia y objetividad del proceso electoral y el principio de igualdad en el acceso a los cargos públicos, sin perjuicio de las competencias que correspondan a los Tribunales.
+2. Sin perjuicio de las competencias reservadas a la Junta Electoral Central, dichas funciones corresponderán a los órganos que componen la Administración electoral vasca.
+3. Integrarán la Administración electoral vasca las Juntas Electorales de Comunidad Autónoma, de Territorio Histórico, de Zona, así como las mesas electorales.
+
+### Artículo 14
+
+Artículo 14.
+1. La organización electoral se estructurará en Juntas Electorales y Secciones Electorales.
+2. Las Juntas Electorales celebrarán sus sesiones en sus propios locales y, en su defecto, en aquéllos donde ejerzan sus cargos los respectivos Secretarios.
+
+### Artículo 15
+
+Artículo 15.
+Todas las autoridades públicas, en el ámbito de sus respectivas competencias, tendrán el deber de colaborar con la Administración electoral para el correcto desempeño de sus funciones.
+
+### Artículo 16
+
+Artículo 16.
+1. El Gobierno y la Administración de la Comunidad Autónoma, en el ámbito de sus competencias, contribuirán a garantizar el ejercicio del derecho al voto de los ciudadanos y su participación en las elecciones.
+2. El Departamento de Interior será el órgano de la Administración de la Comunidad Autónoma competente en materia electoral, y llevará a cabo, con carácter permanente, las siguientes funciones de apoyo al proceso electoral:
+a) Asesorar a las Juntas Electorales para garantizar la debida ejecución técnica del proceso electoral.
+b) Poner a disposición de las Juntas Electorales los medios personales y materiales necesarios para el ejercicio de sus funciones.
+c) Proponer al Consejo de Gobierno para su aprobación las dietas y gratificaciones correspondientes a los miembros de las Juntas Electorales y al personal puesto a su servicio, así como las dietas que, en su caso, procedan para los Presidentes y Vocales de las Mesas Electorales.
+d) Planificar, gestionar y ejecutar todas las acciones técnicas necesarias para que el proceso electoral se lleve a cabo según lo establecido en la presente Ley.
+e) Participar y ser oído, en su caso, en la elaboración de todas las normas de desarrollo de la presente Ley o de sus reglamentos.
+f) Cuantas otras funciones le encomiende la presente Ley.
+3. Las funciones a que se refieren los párrafos anteriores se entienden sin perjuicio del régimen previsto en esta Ley para la Junta Electoral de la Comunidad Autónoma y de las funciones y competencias que corresponden a los órganos de la Administración Electoral.
+
+### Artículo 17
+
+Artículo 17.
+1. Los cargos de Presidente, Vocal y Secretario de las Juntas Electorales, así como el de miembro de las Mesas Electorales, serán obligatorios.
+2. Será incompatible la condición de miembro de una Junta Electoral con la misma condición en otra.
+3. Cuando se produzca el supuesto anterior, la función a desempeñar se realizará en la de superior jerarquía o, en caso de igual nivel, en aquélla por la que opte.
+4. Los miembros de las Juntas Electorales no podrán ser designados para desempeñar funciones de interventor o apoderado.
+
+## CAPÍTULO II
+
+Las Juntas Electorales
+
+## Sección Primera
+
+Sección Primera. Composición de las Juntas
+
+### Artículo 18
+
+Artículo 18.
+1. La Junta Electoral de la Comunidad Autónoma será un órgano permanente y estará compuesta por:
+a) El Presidente del Tribunal Superior de Justicia del País Vasco.
+b) Cinco Vocales Magistrados del Tribunal Superior de Justicia, designados por insaculación por la Sala de Gobierno de dicho Tribunal.
+c) Cinco Vocales Catedráticos, Profesores Titulares de Derecho o de Ciencias Políticas y de Sociología en activo o juristas de reconocido prestigio residentes en la Comunidad Autónoma, designados por el Parlamento Vasco a propuesta conjunta de los partidos, federaciones, coaliciones o agrupaciones de electores con representación en el Parlamento.
+2. Las designaciones a que se refiere el número anterior deberán realizarse en los noventa días siguientes a la sesión constitutiva del Parlamento Vasco. Cuando la propuesta de las personas previstas en el apartado 1.c) no tenga lugar en dicho plazo, la Mesa del Parlamento, oída la Junta de Portavoces, procederá a su designación en consideración a la representación existente en dicha Cámara.
+3. El Presidente de la Junta Electoral de la Comunidad Autónoma estará exclusivamente dedicado a las funciones propias de la Junta Electoral desde la convocatoria de un proceso electoral hasta la proclamación de electos y, en su caso, hasta la ejecución de las sentencias de los procedimientos contenciosos, incluido el recurso de amparo previsto en la legislación sobre régimen electoral general, a los que haya dado lugar el proceso electoral.
+4. El Presidente y los Vocales designados serán nombrados por Decreto del Gobierno Vasco, y continuarán en su mandato hasta la toma de posesión de la nueva Junta Electoral de Comunidad Autónoma al inicio de la siguiente Legislatura, siempre y cuando se consideren, por el Presidente de la Junta, finalizadas las actividades electorales correspondientes.
+5. En el plazo de tres días desde el Decreto de convocatoria de las elecciones, se procederá a reinsertar en el «Boletín Oficial del País Vasco» la composición de la Junta Electoral de la Comunidad Autónoma durante el proceso electoral.
+Se modifican los apartados 1.c) y 3, pasando 3 y 4 a ser 4 y 5 por el art. 1.3, 4 y 5 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 19
+
+Artículo 19.
+1. El cargo de Presidente de la Junta Electoral de la Comunidad Autónoma corresponderá al Presidente del Tribunal Superior de Justicia.
+2. El cargo de Vicepresidente recaerá en el magistrado con mayor antigüedad en la carrera. En caso de igualdad, lo será el de mayor edad.
+3. El Secretario de la Junta Electoral de la Comunidad Autónoma será el Letrado Mayor del Parlamento Vasco.
+
+### Artículo 20
+
+Artículo 20.
+1. La Junta Electoral de la Comunidad Autónoma tendrá su sede en el Parlamento Vasco.
+2. El Parlamento Vasco pondrá a disposición de la Junta Electoral de la Comunidad Autónoma todos los medios necesarios para el ejercicio de sus funciones.
+3. Las dietas y gratificaciones de los miembros de la Junta Electoral de la Comunidad Autónoma y del personal a su servicio se fijarán por el Gobierno Vasco, a propuesta de la Mesa del Parlamento.
+4. Los letrados y letradas así como el servicio informático del Parlamento Vasco desempeñarán la función de asesoramiento jurídico y técnico necesario para el cumplimiento de las tareas encomendadas a la Junta Electoral de la Comunidad Autónoma.
+Se modifica el apartado 4 por el art. único.9 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica el apartado 2 por el art. 1.6 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 21
+
+Artículo 21.
+1. La Junta Electoral de Territorio Histórico estará compuesta por:
+a) Tres Vocales, Magistrados de la Audiencia Provincial correspondiente, designados mediante insaculación por el Consejo General del Poder Judicial. Cuando no hubiere en la Audiencia de que se trate el número de Magistrados suficiente se designará a titulares de órganos jurisdiccionales personales de la capital de la provincia.
+b) Dos Vocales nombrados por la Junta Electoral Central, a propuesta de la Junta Electoral de la Comunidad Autónoma, entre Catedráticos, Profesores Titulares de Derecho o de Ciencias Políticas y de Sociología o juristas de reconocido prestigio residentes en el Territorio Histórico. La designación de estos Vocales tendrá lugar una vez proclamadas las candidaturas. A este fin, los representantes territoriales de las candidaturas presentadas en la circunscripción propondrán conjuntamente las personas que hayan de desempeñar estos cargos. Si dicha propuesta no tiene lugar antes del comienzo de la campaña electoral, la Junta Electoral de la Comunidad Autónoma propondrá su nombramiento.
+2. Los Vocales mencionados en el apartado 1.a) de este artículo elegirán de entre ellos al Presidente de la Junta.
+3. Los Presidentes de las Juntas Electorales de Territorio Histórico estarán exclusivamente dedicados a las funciones propias de sus respectivas Juntas Electorales desde la convocatoria de las elecciones hasta la proclamación de electos y, en su caso, hasta la ejecución de las sentencias de los procedimientos contenciosos, incluido el recurso de amparo previsto en la legislación sobre régimen electoral general, a los que haya dado lugar el proceso electoral en sus correspondientes circunscripciones, entendiéndose prorrogado, si a ello hubiere lugar, el plazo previsto en el artículo 23.2 de esta Ley.
+4. El Secretario de la Junta de Territorio Histórico será el Secretario de la Audiencia respectiva, y si hubiere varios el más antiguo.
+Se modifican los apartados 1.b) y 3, y pasa a ser apartado 4 el actual 3 por el art. 1.7, 8 y 9 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 22
+
+Artículo 22.
+1. La Junta Electoral de Zona estará compuesta por:
+a) Tres Vocales, Jueces de Primera Instancia o Instrucción, designados mediante insaculación por la Sala de Gobierno del Tribunal Superior de Justicia del País Vasco. Cuando no hubiere en el partido de que se trate el número suficiente de Jueces, se designará por insaculación a Jueces de Paz del mismo partido judicial.
+b) Dos Vocales designados por la Junta Electoral de Territorio Histórico, entre licenciados en Derecho o en Ciencias Políticas y en Sociología residentes en el partido judicial. La designación de estos Vocales tendrá lugar una vez proclamadas las candidaturas. A este fin, los representantes territoriales de las candidaturas designadas en la circunscripción correspondiente propondrán conjuntamente las personas que hayan de desempeñar estos cargos. Cuando la propuesta no tenga lugar antes del comienzo de la campaña electoral, la Junta Electoral de Territorio Histórico procederá a su nombramiento.
+2. Los Vocales mencionados en el apartado 1.a) de este artículo elegirán de entre ellos al Presidente de la Junta Electoral de Zona.
+3. El Secretario de la Junta Electoral de Zona será el Secretario del Juzgado de Primera Instancia correspondiente, y, si hubiera varios, el del Juzgado Decano.
+4. Los Secretarios de los Ayuntamientos serán Delegados de las Juntas Electorales de Zona y actuarán bajo la estricta dependencia de las mismas.
+Se modifica el apartado 1.b) por el art.1.10 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 23
+
+Artículo 23.
+1. Las Juntas Electorales de Territorio Histórico tendrán su sede en las capitales de territorios históricos, y las de Zona en las localidades cabeza de los partidos judiciales.
+2. El mandato de las Juntas Electorales de Territorio Histórico y de Zona concluirá cien días después de las elecciones.
+3. Si durante su mandato se convocasen otras elecciones, la competencia de las Juntas se entenderá prorrogada hasta cien días después de la celebración de aquéllas.
+
+### Artículo 24
+
+Artículo 24.
+1. La Administración de la Comunidad Autónoma nombrará un Delegado que asistirá a las reuniones de la Junta Electoral de la Comunidad Autónoma, a los efectos previstos en el artículo 16, apartado 1 de esta Ley. Este Delegado nombrará a los delegados de la Administración en las Juntas Electorales de los Territorios Históricos, que igualmente deberán ser convocados a las reuniones de dichas Juntas. En todos los casos, la participación será con voz, pero sin voto.
+2. Asimismo, un representante de la Oficina del Censo Electoral en el País Vasco participará con voz y sin voto en la Junta Electoral de la Comunidad Autónoma.
+
+### Artículo 25
+
+Artículo 25.
+1. Los Secretarios de las Juntas Electorales tendrán voz, pero no voto en sus deliberaciones.
+2. Corresponderá a los Secretarios el desempeño de las funciones que a los mismos atribuye la Ley de Procedimiento Administrativo en relación a los órganos colegiados. Particularmente, conservarán y custodiarán la documentación correspondiente a la Junta, incluso una vez disuelta la misma, quedando ésta depositada en los locales donde la Junta tenga su sede.
+
+### Artículo 26
+
+Artículo 26.
+En los casos previstos en los artículos 27 y 28 y 31.2 de la presente Ley, así como en los de renuncia justificada y aceptada por el Presidente, se procederá a la sustitución de los miembros de las Juntas Electorales conforme a las siguientes reglas:
+a) El Presidente de la Junta Electoral de la Comunidad Autónoma será sustituido por el Vicepresidente, procediéndose en este caso a la elección de un Vocal de origen judicial, salvo en el supuesto de nombramiento de nuevo Presidente del Tribunal Superior de Justicia, en cuyo caso se aplicará lo dispuesto en el artículo 19.1.
+b) Los Vocales de la Junta Electoral de la Comunidad Autónoma y los Presidentes y Vocales de las restantes Juntas Electorales serán sustituidos por los mismos procedimientos previstos para su designación.
+c) El Letrado Mayor del Parlamento Vasco será sustituido por otro Letrado del Parlamento Vasco atendiendo al criterio de antigüedad.
+d) Los secretarios de las Juntas Electorales de Territorio Histórico y de Zona serán sustituidos atendiendo al criterio de antigüedad.
+
+### Artículo 27
+
+Artículo 27.
+1. Los miembros de las Juntas Electorales serán inamovibles. Sólo podrán ser suspendidos por delitos o faltas electorales previo expediente abierto por la Junta Superior, mediante el acuerdo de la mayoría absoluta de sus componentes, sin perjuicio del procedimiento judicial correspondiente.
+2. Los miembros de la Junta Electoral de la Comunidad Autónoma sólo podrán ser suspendidos mediante expediente incoado por la propia Junta en virtud de acuerdo de la mayoría absoluta de sus componentes, sin perjuicio del procedimiento judicial correspondiente.
+
+### Artículo 28
+
+Artículo 28.
+El régimen de sustitución de los miembros de las Juntas Electorales previsto en el artículo 26 de la presente Ley, durante el proceso electoral, se producirá en los cuatro días siguientes al fallecimiento, cese de su condición o cambio de destino o cualquier otra causa que determine impedimento, prohibición o incompatibilidad para formar parte de las Juntas. Fuera del proceso electoral, los miembros de la Junta Electoral de la Comunidad Autónoma afectados por alguna de las causas anteriores serán sustituidos en el plazo máximo de quince días desde que el Presidente de la Junta tuviera conocimiento de la misma.
+
+## Sección Segunda
+
+Sección Segunda. Competencias de las Juntas
+
+### Artículo 29
+
+Artículo 29.
+Corresponderá a la Junta Electoral de la Comunidad Autónoma:
+a) Garantizar el ejercicio de las libertades públicas durante el proceso electoral.
+b) Aplicar y garantizar el derecho al uso gratuito de espacios en los medios de comunicación pública dependientes de las instituciones de la Comunidad Autónoma y del Estado limitados al ámbito de emisión territorial de la Comunidad Autónoma y su distribución durante el proceso electoral.
+c) Resolver con carácter vinculante las consultas que le eleven las Juntas Electorales de Territorio Histórico y dictar instrucciones de obligado cumplimiento a las mismas en materia de su competencia.
+d) Revocar de oficio en cualquier tiempo, o a instancia de parte interesada dentro de los plazos previstos en el artículo 134 de esta Ley, las decisiones de las Juntas Electorales de Territorio Histórico, cuando se opongan a la interpretación de la normativa electoral realizada por la Junta Electoral de la Comunidad Autónoma.
+e) Unificar los criterios interpretativos de las juntas electorales de territorio histórico y de zona en la aplicación de la normativa electoral.
+f) Aprobar, a propuesta del Departamento de Interior del Gobierno Vasco, los modelos de actas de constitución, de escrutinio y de la sesión, tanto de las Mesas como de las Juntas Electorales de Territorio Histórico, así como el acta de proclamación de electos. Tales modelos deberán permitir la expedición instantánea de copias de las actas, mediante documentos autocopiativos u otros procedimientos análogos.
+g) Supervisar el manual de instrucciones para los miembros de las Mesas Electorales.
+h) Resolver las quejas, reclamaciones y recursos que se le dirijan de acuerdo con las presentes normas o con cualesquiera otras disposiciones que le atribuyan esa competencia.
+i) Ejercer jurisdicción disciplinaria sobre todas las personas que intervengan con carácter oficial en las operaciones electorales.
+j) Corregir las infracciones que se produzcan, siempre que no estén reservadas a los tribunales, e imponer las multas que estime pertinentes hasta la cantidad de 2.700 euros, salvo lo dispuesto en los artículos 87.7, 132 y 132 sexies de esta ley.
+k) Expedir las credenciales a los parlamentarios vascos, en caso de vacante por incapacidad, renuncia o fallecimiento, una vez transcurridos cien días de la celebración de las elecciones, según lo dispuesto en el artículo 12.2 de la presente Ley.
+l) Las demás funciones que le encomiende la Ley y otro tipo de normas en materia electoral.
+Se modifican las letras e) y j) por el art. único.10 y 11 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica por el art. 1.11 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 30
+
+Artículo 30.
+1.Las Juntas Electorales de Territorio Histórico y de Zona tendrán, dentro de su ámbito territorial, las competencias siguientes:
+a) Garantizar el ejercicio de las libertades públicas durante el proceso electoral.
+b) Resolver las quejas, reclamaciones y recursos que les dirijan de acuerdo con las presentes normas o con cualesquiera otras disposiciones que les atribuyan esa competencia.
+c) Ejercer jurisdicción disciplinaria sobre todas las personas que intervengan con carácter oficial en las operaciones electorales.
+d) Corregir las infracciones que se produzcan, siempre que no estén reservadas a los tribunales, e imponer sanciones hasta 1.200 euros por parte de las juntas electorales de territorio histórico y hasta una cuantía de 600 euros por las juntas electorales de zona. Si dichas juntas conocieran de conductas que, por su gravedad, son acreedoras de sanción superior a la de su competencia, podrán elevar el conocimiento de las mismas a la junta jerárquicamente superior, salvo lo dispuesto en los artículos 66, 87.7, 132 y 132 sexies de la presente ley.
+En caso de impago de las multas referidas anteriormente, la junta electoral correspondiente remitirá al órgano competente de la diputación foral que corresponda certificación del descubierto para la exacción de la multa por la vía de apremio.
+e) Las demás funciones expresamente mencionadas en la Ley.
+2. Las Juntas Electorales de Territorio Histórico, atendiendo siempre al superior criterio de la Junta Electoral de la Comunidad Autónoma, podrán además:
+a) Cursar instrucciones de obligado cumplimento a las Juntas Electorales de Zona en cualquier materia electoral.
+b) Resolver de forma vinculante las consultas que le eleven las Juntas Electorales de Zona.
+c) Revocar de oficio en cualquier tiempo, o a instancia de parte interesada dentro de los plazos previstos en el artículo 134 de esta Ley, las decisiones de las Juntas Electorales de Zona cuando se opongan a la interpretación realizada por la Junta Electoral de Territorio Histórico.
+d) Unificar los criterios interpretativos de las Juntas Electorales de Zona en cualquier materia electoral.
+3. La Junta Electoral de Zona garantizará la existencia en cada Mesa Electoral de los medios y elementos materiales de la votación.
+Se modifica el apartado 1.d) por el art. único.12 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica por el art. 1.12 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+## Sección Tercera
+
+Sección Tercera. Organización y Funciones
+
+### Artículo 31
+
+Artículo 31.
+1. Las Juntas Electorales de Territorio Histórico y de Zona se constituirán inicialmente con los Vocales judiciales en el tercer día siguiente a la convocatoria de elecciones.
+2. Si alguno de los designados para formar parte de estas Juntas pretendiese concurrir a las elecciones lo comunicará al respectivo Secretario en el momento de la constitución inicial a efecto de su sustitución, que se producirá en el plazo máximo de cuatro días.
+3. Efectuadas, en su caso, las sustituciones a que se refiere el número anterior, se procederá a la elección de Presidente. Al día siguiente, los Presidentes de las Juntas de Territorio Histórico y de Zona harán insertar en el Boletín Oficial de Territorio Histórico respectivo la resolución correspondiente por la que se hace pública la constitución y composición de la Junta, debiéndose especificar la razón por la que forma parte de la misma cada uno de sus miembros.
+4. La convocatoria de las sesiones constitutivas de estas Juntas se hará por sus Secretarios. A tal efecto, el Consejo General del Poder Judicial y, en su caso, el Presidente de la Audiencia, notificará a cada uno de aquéllos la relación de los miembros de las Juntas respectivas.
+
+### Artículo 32
+
+Artículo 32.
+La organización y funcionamiento de los órganos de la Administración electoral vasca se regirá por lo previsto en la presente Ley y, en su defecto, por lo prevenido en la Ley de Procedimiento Administrativo para los órganos colegiados.
+
+### Artículo 33
+
+Artículo 33.
+1. Las sesiones de las Juntas Electorales serán convocadas por sus respectivos Presidentes de oficio o a petición de dos Vocales. El Secretario sustituirá al Presidente en el ejercicio de dicha competencia cuando éste no pueda actuar por causa justificada.
+2. Para que cualquier reunión se celebre válidamente será indispensable que concurran al menos tres de los miembros de las Juntas de Territorio Histórico y de Zona. En el caso de la Junta Electoral de la Comunidad Autónoma, se requerirá la presencia de seis de sus miembros.
+3. Todas las citaciones se harán por cualquier medio que permita tener constancia de la recepción, de la fecha, del orden del día y demás circunstancias de la sesión a que se cita. La asistencia a las sesiones será obligatoria para los miembros de la Junta debidamente convocados, quienes incurrirán en responsabilidad si dejan de asistir sin haberse excusado y justificado oportunamente.
+4. No obstante lo dispuesto en los números anteriores, la Junta se entenderá convocada y quedará válidamente constituida para tratar cualquier asunto siempre que estén presentes todos los miembros y acepten por unanimidad su celebración.
+5. Los acuerdos se adoptarán por mayoría de votos de los miembros presentes, siendo de calidad el voto del Presidente.
+
+### Artículo 34
+
+Artículo 34.
+1. Los electores deberán formular las consultas a la Junta de Zona que corresponda a su lugar de residencia.
+2. Los partidos políticos, coaliciones o federaciones y agrupaciones de electores podrán elevar consultas a la Junta Electoral de la Comunidad Autónoma cuando se trate de cuestiones de carácter general que puedan afectar a más de una circunscripción electoral. En los demás casos, elevarán las consultas a la Junta de Territorio Histórico o a la Junta Electoral de Zona correspondiente, siempre que a su respectiva jurisdicción corresponda el ámbito de competencia del consultante.
+3. Las autoridades y corporaciones públicas podrán consultar directamente a la Junta a cuya jurisdicción corresponda el ámbito de competencia del consultante.
+
+### Artículo 35
+
+Artículo 35.
+1. Las consultas se formularán por escrito y se resolverán por la Junta a la que se dirijan, salvo que ésta, por la importancia de la misma según su criterio, o por estimar conveniente que se resuelva con un criterio de carácter general, decida elevarlo a una Junta Superior.
+2. La Junta Electoral de la Comunidad Autónoma deberá comunicar a las de Territorio Histórico, a fin de unificar criterios, todas las consultas que resuelva y que se refieran a materias que pueden incidir en el ámbito de las consultas de las Juntas Electorales de Territorio Histórico.
+3. Cuando la urgencia de la consulta no permita proceder a la convocatoria de la Junta Electoral, y en todos los casos en que existan resoluciones anteriores y concordantes de la propia Junta o de Junta superior, los Presidentes podrán, bajo su responsabilidad, dar una respuesta provisional, sin perjuicio de su ratificación o modificación en la primera sesión que celebre la Junta.
+
+### Artículo 36
+
+Artículo 36.
+1. Las Juntas Electorales deberán proceder a publicar sus resoluciones o el contenido de las consultas evacuadas, por orden de su Presidente, cuando el carácter general de las mismas lo haga conveniente. En todo caso se publicarán las que emanen de la Junta Electoral de la Comunidad Autónoma y hayan sido comunicadas a las de los Territorios Históricos.
+2. La publicación se hará en el «Boletín Oficial del País Vasco» en todos los casos, y además en el Boletín Oficial del Territorio Histórico respectivo en el caso de acuerdos de las Juntas Electorales de Territorio Histórico o de Zona.
+3. En cualquier caso, los acuerdos de la Junta Electoral de la Comunidad Autónoma, redactados en euskera y castellano, se incluirán en una página web que se habilitará a estos efectos.
+Se añade el apartado 3 por el art. único.13 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+## CAPÍTULO III
+
+Las Secciones y Mesas Electorales
+
+## Sección Primera
+
+Sección Primera. Las Secciones Electorales
+
+### Artículo 37
+
+Artículo 37.
+1. Dentro de cada circunscripción electoral, los electores se organizarán en Secciones Electorales, a efectos de emisión del voto.
+2. Cada Sección incluirá un máximo de dos mil electores y un mínimo de quinientos. En cada municipio existirá, al menos, una Sección electoral.
+3. Ninguna Sección comprenderá áreas pertenecientes a distintos términos municipales.
+4. Los electores de una misma Sección se hallarán ordenados en las listas electorales por orden alfabético.
+
+### Artículo 38
+
+Artículo 38.
+1. La relación del número, los límites de las Secciones Electorales, sus Locales y las Mesas correspondientes debe ser publicada en el Boletín Oficial del Territorio Histórico respectivo, el sexto día posterior a la convocatoria por las Delegaciones de la Oficina del Censo Electoral, oídos los Ayuntamientos.
+2. En los seis días siguientes, los electores podrán presentar reclamaciones contra la delimitación efectuada ante la Junta Electoral de Territorio Histórico, que resolverá en firme sobre ellas en un plazo de cinco días. Resolución que deberá ser publicada en el Boletín Oficial de Territorio Histórico en el plazo de cuarenta y ocho horas.
+3. La publicación, en euskera y castellano, de la relación definitiva de las secciones, mesas y locales electorales se efectuará según lo previsto en el artículo 24.4 de la Ley Orgánica del Régimen Electoral General.
+Se modifica el apartado 3 por el art. único. 14 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifican los apartados 1 y 3 por el art. 1.13 y 14 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 39
+
+Artículo 39.
+Los Ayuntamientos deberán señalizar convenientemente la localización de los locales correspondientes a cada Sección y Mesa Electoral.
+
+## Sección Segunda
+
+Sección Segunda. Las Mesas Electorales
+
+### Artículo 40
+
+Artículo 40.
+Será función de las Mesas Electorales presidir y ordenar la votación, realizar el escrutinio y cuidar del cumplimiento de la Ley Electoral en el día de la votación.
+
+### Artículo 41
+
+Artículo 41.
+1. En cada Sección Electoral habrá una Mesa Electoral, formada por un Presidente y dos Vocales.
+2. No obstante, cuando el número de electores de una Sección o la diseminación de la población lo haga aconsejable, la Delegación de la Oficina del Censo Electoral, a propuesta del Ayuntamiento correspondiente, podrá disponer la formación de otras Mesas y distribuir entre ellas el electorado de la Sección. Para el primer supuesto, el electorado de la Sección se distribuirá por orden alfabético entre las Mesas, que deberán situarse preferentemente en habitaciones separadas dentro de la misma edificación. Para el caso de población diseminada, la distribución se realizará atendiendo a la menor distancia entre el domicilio del elector y la correspondiente Mesa. En ningún caso el número de electores adscritos a cada Mesa podrá ser inferior a doscientos.
+
+### Artículo 42
+
+Artículo 42.
+1. Los cargos de Presidencia y Vocal de las Mesas Electorales serán obligatorios.
+2. No podrán formar parte de las Mesas Electorales:
+a) Quienes formen parte de las Juntas Electorales.
+b) Quienes concurran a las elecciones como candidatos.
+c) Los cargos públicos de elección o libre designación.
+d) Quienes no se encuentren en pleno disfrute de sus derechos civiles y políticos.
+3. Podrán dispensar su asistencia como titulares y suplentes de las mesas electorales, previa justificación documentada o, en su caso, certificación médica:
+a) Las personas que se encuentren enfermas y las hospitalizadas.
+b) Quienes residan fuera de la circunscripción electoral.
+c) El personal embarcado.
+d) Las personas que tengan la condición de inelegibles de acuerdo con lo dispuesto en esta ley.
+e) Las mujeres en estado de gestación a partir de los seis meses y las que se encuentren en periodo de descanso maternal.
+f) Las mujeres que se encuentran en periodo de lactancia hasta los nueve meses.
+g) Las personas de sesenta y cinco o más años.
+h) Cualquier otra persona siempre que tenga causa justificada y documentada.
+4. Si alguno de los enumerados en los apartados anteriores fuere designado miembro de Mesa, lo comunicará al Presidente de la Junta de Zona respectiva para que proceda a su sustitución.
+Se modifica por el art. único.15 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 43
+
+Artículo 43.
+1. La formación de las Mesas competerá a los Ayuntamientos bajo la supervisión de las Juntas Electorales de Zona.
+2. La presidencia y las vocalías de cada mesa son designadas por sorteo público entre la totalidad de las personas incluidas en la lista de electores y electoras de la mesa correspondiente que sepan leer y escribir y sean menores de setenta años, si bien a partir de los sesenta y cinco años podrán manifestar su renuncia en el plazo de siete días. La persona titular de la presidencia deberá tener el título de Bachiller o el de Formación Profesional de Segundo Grado, o subsidiariamente el de Graduado Escolar o equivalente.
+3. Se procederá en la misma forma al nombramiento de dos suplentes para cada uno de los miembros de la Mesa.
+4. Los sorteos arriba mencionados se realizarán entre los días vigésimo quinto y vigésimo noveno posteriores a la convocatoria.
+Se modifica el apartado 2 por el art. único.16 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 44
+
+Artículo 44.
+1. En los tres días posteriores a la designación, esta deberá ser notificada a las personas interesadas. Con la notificación, se entregará a los miembros de las mesas un manual de instrucciones sobre sus funciones en euskera y castellano. Las personas designadas presidente o presidenta y vocal de las mesas electorales dispondrán de un plazo de siete días para alegar ante la junta electoral de zona la causa justificada y documentada que les impide la aceptación del cargo. La junta resolverá sin ulterior recurso en el plazo de cinco días, y comunicará en su caso la sustitución producida a la persona suplente primera. Las juntas electorales de zona deberán motivar de forma resumida las causas de denegación de las excusas alegadas para no formar parte de las mesas.
+2. Si posteriormente cualquiera de los designados estuviera en imposibilidad de acudir al desempeño de su cargo, deberá comunicarlo a la Junta de Zona al menos setenta y dos horas antes del acto al que debiera concurrir, aportando las justificaciones pertinentes. Si el impedimento sobreviniera después de ese plazo, el aviso a la Junta habrá de realizarse de manera inmediata y, en todo caso, antes de la hora de la constitución de la Mesa. En tales casos, la Junta comunicará la sustitución al correspondiente suplente, si hubiera tiempo para hacerlo, y procederá a nombrar a otro si fuera preciso.
+3. A efectos de lo establecido en el artículo 122.2 de la presente Ley, las Juntas Electorales de Zona comunicarán a los Jueces correspondientes, antes del día de la votación, los datos de identificación de las personas que, en calidad de titulares y suplentes, forman las Mesas Electorales.
+Se modifica el apartado 1 por el art. único.17 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica el apartado 1 por el art. 1.15 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 45
+
+Artículo 45.
+Los trabajadores por cuenta ajena y los funcionarios nombrados Presidentes o Vocales de las Mesas Electorales tendrán derecho a un permiso retribuido de jornada completa durante el día de la votación, si es laboral. En todo caso, tendrán derecho a una reducción de su jornada de trabajo de cinco horas el día inmediatamente posterior.
+
+## TÍTULO IV
+
+Convocatoria de elecciones
+
+### Artículo 46
+
+Artículo 46.
+1. El Decreto de convocatoria será dictado por el Lehendakari, de acuerdo con lo establecido en la vigente Ley de Gobierno.
+2. Salvo en los supuestos de disolución anticipada del Parlamento Vasco expresamente previstos en la vigente Ley de Gobierno, el Decreto de convocatoria de elecciones se expedirá el día vigésimo quinto anterior a la expiración del mandato del Parlamento Vasco, entendiéndose ésta a los cuatro años de la fecha de la última votación electoral equivalente, y se publicará al día siguiente en el «Boletín Oficial del País Vasco».
+3. En el decreto se fijará el día de la votación, que habrá de celebrarse el quincuagésimo cuarto día posterior a la publicación de la convocatoria en el "Boletín Oficial del País Vascoˮ.
+4. El decreto de convocatoria para las elecciones entrará en vigor el mismo día de su publicación.
+Se modifica el apartado 3 y se añade el apartado 4 por el art. único.18 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica el apartado 3 por el art. 1.16 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 47
+
+Artículo 47.
+1. Sólo podrán tener lugar elecciones parciales en aquella o aquellas Mesas Electorales afectadas por irregularidades invalidantes, cuando se declaren nulas mediante sentencia firme las elecciones en una o varias Mesas o Secciones Electorales. No obstante, la nulidad de la votación en alguna Mesa, Sección o Secciones Electorales no comportará nueva convocatoria electoral en las mismas, cuando su resultado no altere la atribución de escaños en la circunscripción correspondiente.
+2. La convocatoria de elecciones parciales deberá ser realizada mediante Decreto, acordado en la primera sesión del Consejo de Gobierno luego que éste tuviera conocimiento de la sentencia firme. Las elecciones parciales, que podrán limitarse al acto de la votación, se celebrarán dentro del plazo de tres meses a partir de la fecha de la sentencia firme.
+Se modifica por el art. 1.17 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+## TÍTULO V
+
+Procedimiento electoral
+
+## CAPÍTULO I
+
+Presentación y proclamación de candidatos
+
+## Sección Primera
+
+Sección Primera. Representantes ante la Administración electoral
+
+### Artículo 48
+
+Artículo 48.
+1. Los partidos, federaciones, coaliciones y agrupaciones que pretendan concurrir a las elecciones al Parlamento Vasco designarán a las personas que deban representarlos ante la Administración electoral.
+2. Los representantes generales actuarán en nombre de los partidos, federaciones y coaliciones concurrentes ante la Junta Electoral de la Comunidad Autónoma. Los promotores de las agrupaciones de electores serán los representantes generales de las citadas agrupaciones, y actuarán en su nombre ante la Junta Electoral de la Comunidad Autónoma.
+3. Los representantes territoriales de las candidaturas lo serán de los candidatos incluidos en ellas, y tendrán el derecho y el deber, en nombre de la candidatura, de atender todas las indicaciones de la Junta Electoral de Territorio Histórico y de colaborar con la misma para subsanar todos los errores o deficiencias que se adviertan, recibiendo de los candidatos, por la sola aceptación de la candidatura, un apoderamiento para actuar en el procedimiento judicial en materia electoral. Las decisiones de los representantes vincularán jurídicamente a la candidatura.
+4. Cada uno de los partidos y federaciones designarán, por escrito, ante la Junta Electoral de la Comunidad Autónoma, un representante general y un suplente, dentro de los ocho días siguientes a la convocatoria de elecciones. Las coaliciones lo harán dentro de los diez días siguientes a dicha convocatoria. El mencionado escrito deberá expresar la aceptación de las personas designadas. El suplente sólo podrá actuar en los casos de renuncia, ausencia, muerte o incapacidad del representante general.
+5. Cada uno de los representantes generales designará, por escrito, dentro de los diez días siguientes a la convocatoria, ante la Junta Electoral de la Comunidad Autónoma, a los representantes territoriales de las candidaturas que su partido, federación y coalición presente en cada una de las circunscripciones electorales, con mención a sus respectivos suplentes. El mencionado escrito deberá expresar la aceptación de las personas designadas. Los suplentes sólo podrán actuar en los casos de renuncia, ausencia, muerte o incapacidad de los representantes territoriales de las candidaturas. Estos representantes y sus suplentes habrán de tener domicilio en la circunscripción en la que se presenta la candidatura.
+6. En el plazo de dos días, la Junta Electoral de la Comunidad Autónoma comunicará a las Juntas Electorales de Territorio Histórico los nombres de los representantes territoriales de las candidaturas correspondientes a su circunscripción.
+7. Los promotores de las agrupaciones de electores designarán a los representantes territoriales de sus candidaturas y sus suplentes, en el momento de la presentación de las mismas ante las Juntas Electorales de Territorio Histórico. Dicha designación debe ser aceptada en ese acto.
+8. Los representantes territoriales de las candidaturas podrán designar, por escrito, un comisionado, y un máximo de dos suplentes, ante las Juntas Electorales de Zona, hasta el mismo día séptimo anterior al día de la votación. El mencionado escrito deberá expresar la aceptación de los comisionados y suplentes designados.
+Los comisionados tendrán ante la Junta Electoral de Zona respectiva las mismas facultades que el representante territorial de la candidatura.
+
+## Sección Segunda
+
+Sección Segunda. Presentación de candidaturas
+
+### Artículo 49
+
+Artículo 49.
+1. Podrán concurrir a las elecciones al Parlamento Vasco, previa presentación de candidatos o listas de candidatos:
+a) Los partidos políticos y federaciones inscritos en el Registro que al efecto contempla la legislación sobre partidos políticos.
+b) Las coaliciones con fines electorales de los partidos y federaciones a que se refiere el apartado anterior.
+c) Las agrupaciones de electores de una circunscripción electoral.
+2. Los partidos y federaciones que establezcan un pacto de coalición para concurrir conjuntamente a las elecciones al Parlamento Vasco deberán comunicarlo a la Junta Electoral de Territorio Histórico en los diez días siguientes a la convocatoria. En la referida comunicación se deberá hacer constar la denominación de la coalición, las normas por las que se rige y las personas titulares de sus órganos de dirección o coordinación. Si la coalición presenta candidaturas en más de un Territorio Histórico, la comunicación deberá efectuarse ante la Junta Electoral de la Comunidad Autónoma.
+
+### Artículo 50
+
+Artículo 50.
+1. Las listas de candidatos se presentarán por los representantes territoriales de las candidaturas o por los promotores, en el caso de agrupaciones electorales, ante la Junta Electoral de Territorio Histórico en el plazo comprendido entre el decimoquinto y el vigésimo día, ambos inclusive, desde la publicación del Decreto de convocatoria en el «Boletín Oficial del País Vasco».
+2. En el escrito de presentación se hará constar:
+a) Denominación, siglas y símbolo de identificación, que no podrán ser modificados durante el proceso electoral. No serán aceptadas las denominaciones, siglas o símbolos que:
+– induzcan a confusión con los pertenecientes o usados habitualmente por otros partidos legalmente constituidos;
+– reproduzcan o imiten el escudo, la bandera, los logotipos y otros emblemas del País Vasco, de los territorios históricos, de los municipios o de sus instituciones u organismos.
+b) Nombre y apellidos de las personas candidatas y suplentes y, en su caso, el seudónimo o apodo, domicilio exacto, así como su orden de colocación dentro de cada lista. En el caso de federaciones o coaliciones electorales, podrá figurar, luego del nombre del candidato o candidata, la identificación específica del partido o federación al que pertenece, si el mismo no concurre con lista propia a las elecciones dentro de la misma circunscripción. Junto al nombre de las personas candidatas podrá hacerse constar su condición de independiente.
+c) Nombre y apellidos del representante territorial de la candidatura con domicilio en la capital del territorio histórico. Las Juntas Electorales de Territorio Histórico entenderán exclusivamente con el representante todas las notificaciones.
+d) Documento acreditativo de la aceptación de candidatura suscrito por cada candidato y suplente, así como declaración de que sólo forma parte en una lista dentro de toda la Comunidad Autónoma y que reúne los demás requisitos de elegibilidad. La declaración irá acompañada de fotocopia del carnet de identidad.
+e) Certificación de que el candidato se encuentra inscrito en el Censo Electoral vigente de la Comunidad Autónoma del País Vasco. En el caso de no figurar incluido en las listas del mencionado Censo, se hará constar documento acreditativo de la vecindad administrativa en cualquiera de los municipios de la Comunidad Autónoma. Y, para los comprendidos en el apartado 2 del artículo 7 del Estatuto de Autonomía, declaración de que reúnen los restantes requisitos que confieren la condición política de vasco.
+3. Las listas presentadas por partidos políticos, federaciones y coaliciones deberán ir suscritas por sus representantes territoriales. En el caso de agrupaciones electorales, por sus promotores.
+4. Las candidaturas que presenten los partidos políticos, federaciones, coaliciones o agrupaciones de personas electoras estarán integradas por al menos un 50% de mujeres. Se mantendrá esa proporción en el conjunto de la lista de candidatos y candidatas y en cada tramo de seis nombres. Las juntas electorales del territorio histórico competentes sólo admitirán aquellas candidaturas que cumplan lo señalado en este artículo tanto para las personas candidatas como para las suplentes.
+5. Respecto de lo señalado en el apartado anterior, las listas de las candidaturas forman una continuidad y las personas suplentes conforman, junto con el miembro titular número 25 de la lista, un nuevo tramo de seis nombres como máximo, dependiendo del número de suplentes incluidos por cada candidatura, al que, al igual que a los anteriores tramos, debe aplicarse la cuota del 50%.
+Se modifica el apartado 2.b) y se añade el apartado 5 por el art. único.20 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se añade apartado 4 por la disposición final 4 de la Ley 4/2005, de 18 de febrero. Ref. BOE-A-2011-17779.
+
+### Artículo 51
+
+Artículo 51.
+1. Ningún candidato o suplente podrá formar parte de más de una lista o presentarse en más de una circunscripción.
+2. Ningún partido político, federación, coalición o agrupación electoral podrá presentar más de una lista de candidatos en la misma circunscripción.
+3. Ningún grupo federado o coligado podrá presentar lista de candidatos propia en la circunscripción en que lo haga la federación o coalición de la que forme parte.
+
+### Artículo 52
+
+Artículo 52.
+Las listas deberán contener el número exacto de escaños a cubrir y, además, un número de suplentes no inferior a tres ni superior a cinco. No se admitirá ninguna lista que no cumpla este requisito.
+
+### Artículo 53
+
+Artículo 53.
+1. Las agrupaciones de electores se constituirán dentro de cada circunscripción electoral. Sólo podrán hacer campaña electoral conjunta con otras agrupaciones electorales de distintas circunscripciones.
+2. La constitución de una agrupación electoral requerirá de un número no inferior al uno por ciento de firmas de electores censados en la respectiva circunscripción. Cada elector sólo podrá apoyar una agrupación electoral.
+3. El número de firmas legalmente exigido y la identidad de los firmantes se acreditará ante la Junta Electoral de Territorio Histórico mediante documento de adhesión otorgado ante fedatario público.
+4. Las agrupaciones de electores no podrán utilizar símbolos o identificaciones propios de los partidos políticos o federaciones.
+
+### Artículo 54
+
+Artículo 54.
+1. Toda la documentación referente a esta Sección Segunda se presentará en original.
+2. Las Juntas Electorales de Territorio Histórico realizarán una copia de la documentación para su remisión a la Junta Electoral de la Comunidad Autónoma. El original de la documentación quedará depositado bajo la custodia de las Juntas Electorales de Territorio Histórico.
+Se modifica el apartado 2 por el art. 1.18 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 55
+
+Artículo 55.
+1. En las elecciones al Parlamento Vasco, la publicación en el “Boletín Oficial del País Vasco” de las candidaturas presentadas y, en su caso, proclamadas se producirá atendiendo al número de votos obtenidos por los partidos, federaciones y coaliciones en las últimas elecciones al Parlamento Vasco en la circunscripción correspondiente, siendo la primera la que más votos haya obtenido y última la que menos haya obtenido. Las candidaturas de agrupaciones de electores, así como las de los partidos, federaciones o coaliciones que no hayan concurrido en las anteriores elecciones al Parlamento Vasco, aparecerán a continuación en el orden que se determine por sorteo en cada circunscripción.
+2. Las candidaturas presentadas y las candidaturas proclamadas de todas las circunscripciones se publicarán en el “Boletín Oficial del País Vasco”, en el orden establecido en el apartado anterior.
+3. El orden así resultante se guardará por la junta electoral del territorio histórico en todas las publicaciones oficiales y en la documentación de cada una de las juntas electorales de cada territorio histórico.
+4. La secretaría de la junta electoral del territorio histórico extenderá diligencia haciendo constar la fecha y hora de presentación de las candidaturas, y expedirá recibo de la misma.
+Se modifica por el art. único de la Ley 2/2026, de 23 de abril. Ref. BOE-A-2026-11704
+
+## Sección Tercera
+
+Sección Tercera. Publicidad de las candidaturas
+
+### Artículo 56
+
+Artículo 56.
+1. Al día siguiente de finalizado el plazo de presentación de candidaturas el Presidente de la Junta Electoral del Territorio Histórico ordenará su publicación en el «Boletín Oficial del País Vasco», y remitirá, en el mismo plazo, una copia de la documentación a la Junta Electoral de la Comunidad Autónoma.
+2. Las listas de candidatos de todas las circunscripciones electorales se publicarán al segundo día siguiente al de finalización del plazo de presentación de candidaturas. Se publicarán el mismo día en el «Boletín Oficial del País Vasco».
+3. Toda la documentación de las distintas candidaturas se encontrará, al día siguiente del vencimiento del plazo de presentación de candidaturas, en las dependencias donde lleven a cabo sus funciones las Juntas Electorales de Territorio Histórico, para conocimiento y, en su caso, impugnación por los representantes territoriales de las candidaturas que concurran al proceso electoral.
+Se modifica el apartado 1 por el art. 1.19 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+## Sección Cuarta
+
+Sección Cuarta. Subsanación de errores e impugnaciones
+
+### Artículo 57
+
+Artículo 57.
+1. En los cuatro días siguientes a la finalización del plazo de presentación de candidaturas la Junta Electoral de la Comunidad Autónoma celebrará reunión, a efectos de comprobar que ningún candidato o suplente se presenta por más de una circunscripción, y comunicará, en su caso, dicha circunstancia al interesado, según lo previsto en el artículo 59 de la presente Ley.
+2. Las Juntas Electorales de Territorio Histórico celebrarán sesión al día siguiente de finalizado el plazo de presentación de candidaturas para examinar la documentación presentada. Las irregularidades advertidas se comunicarán al representante territorial de la candidatura en el plazo de dos días, contados a partir de la publicación de las candidaturas. El representante dispondrá de dos días de plazo para recurrir o subsanar los errores.
+
+### Artículo 58
+
+Artículo 58.
+1. Los representantes territoriales de las candidaturas que concurran a las elecciones podrán impugnar las listas en el plazo de dos días desde la publicación en el «Boletín Oficial del País Vasco».
+2. La Junta Electoral de Territorio Histórico dará traslado de la denuncia, dentro de dicho plazo, al representante de la candidatura impugnada para que alegue lo que entienda pertinente. El representante territorial de la candidatura impugnada dispondrá de un plazo de subsanación de dos días.
+
+### Artículo 59
+
+Artículo 59.
+1. Cuando un candidato o suplente apareciere en listas de varias circunscripciones, la Junta Electoral de la Comunidad Autónoma, de oficio o a instancia de parte, se dirigirá al interesado personalmente y le solicitará que opte por una sola de ellas. En el caso de que figurase en más de una lista de una circunscripción, la Junta Electoral de Territorio Histórico correspondiente actuará de igual modo.
+2. Si la opción no se produce antes de la proclamación definitiva se procederá a eliminarle de la lista o listas en que figure como suplente. Si figura en más de una lista como candidato, se le eliminará de todas las listas.
+
+## Sección Quinta
+
+Sección Quinta. Proclamación de candidatos
+
+### Artículo 60
+
+Artículo 60.
+Las Juntas Electorales de Territorio Histórico procederán a la proclamación de candidatos el vigésimo séptimo día siguiente a la fecha de publicación de la convocatoria.
+
+### Artículo 61
+
+Artículo 61.
+1. Las Juntas Electorales no procederán a la proclamación de candidaturas cuando concurran algunas de las circunstancias siguientes:
+a) Ser presentadas fuera de plazo.
+b) No contener el número exigido de candidatos.
+c) Incumplir cualquiera de los requisitos establecidos en la Sección Segunda del presente Título.
+2. Si los vicios no subsanados sólo afectan a candidatos, procederá la proclamación de la lista una vez eliminados éstos, a no ser que a consecuencia de dicha eliminación se produzca el supuesto de la letra b) del apartado anterior, en cuyo caso no procederá la proclamación de la candidatura.
+
+### Artículo 62
+
+Artículo 62.
+Las listas proclamadas por la Junta Electoral del Territorio Histórico serán publicadas al día siguiente en el «Boletín Oficial del País Vasco».
+
+### Artículo 63
+
+Artículo 63.
+1. No se admitirán modificaciones del orden de las listas una vez de proclamadas definitivamente. La modificación, para que surta efecto, deberá ser comunicada al que suscribe la candidatura.
+2. Los candidatos podrán renunciar a formar parte de la candidatura hasta el comienzo de la campaña electoral. La renuncia será publicada en el «Boletín Oficial del País Vasco».
+
+### Artículo 64
+
+Artículo 64.
+1. El documento de renuncia se dirigirá a la Junta Electoral del Territorio Histórico.
+2. Será presentado personalmente por quien la hace, acompañando al escrito de renuncia documento acreditativo de haberla notificado fehacientemente al representante territorial de la candidatura o, en su caso, acudirá acompañado del representante territorial de la candidatura.
+3. El documento de renuncia será entregado al Secretario de la Junta.
+
+### Artículo 65
+
+Artículo 65.
+1. Procederá sustitución:
+a) Por fallecimiento.
+b) Por renuncia.
+c) Por inelegibilidad sobrevenida entre la proclamación y el día de votación.
+d) Por subsanación de error que conlleve eliminación de un candidato.
+2. En los casos de sustitución, la baja producida en la lista será cubierta por el candidato o suplente siguiente, en el orden de colocación en que aparezca.
+
+### Artículo 66
+
+Artículo 66.
+Las juntas electorales de territorio histórico impondrán sanciones de hasta 2.700 euros a los partidos, federaciones, coaliciones y agrupaciones electorales y, en su caso, a las candidatas o candidatos cuando, una vez proclamadas las candidaturas, procedan a la retirada en bloque de las listas electorales.
+Se modifica por el art. único.22 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+## Sección Sexta
+
+Sección Sexta. Recurso contra la proclamación de candidaturas y candidatos
+
+### Artículo 67
+
+Artículo 67.
+1. A partir de la proclamación, cualquier candidato excluido y los representantes territoriales de las candidaturas proclamadas o cuya proclamación hubiera sido denegada dispondrán de un plazo de dos días para interponer recurso contra los acuerdos de proclamación de las Juntas Electorales de Territorio Histórico, ante el Juzgado de lo Contencioso-Administrativo. En el mismo acto de interposición deberán presentar las alegaciones que estimen pertinentes, acompañadas de los elementos de prueba oportunos.
+2. El plazo para interponer el recurso previsto en el párrafo anterior discurrirá a partir de la publicación de los candidatos proclamados, sin perjuicio de la preceptiva notificación al representante de aquél o aquéllos que hubieran sido excluidos.
+3. La resolución judicial, que habrá de dictarse en los dos días siguientes a la interposición del recurso, tendrá carácter firme e inapelable, sin perjuicio del procedimiento de amparo ante el Tribunal Constitucional, a cuyo efecto, con el recurso regulado en el presente artículo, se entenderá cumplido el requisito establecido en el artículo 44.1.a) de la Ley Orgánica del Tribunal Constitucional.
+4. El amparo deberá solicitarse en el plazo de dos días, y el Tribunal Constitucional deberá resolver sobre el mismo en los tres días siguientes.
+
+## CAPÍTULO II
+
+Campaña electoral
+
+## Sección Primera
+
+Sección Primera. Disposiciones generales
+
+### Artículo 68
+
+Artículo 68.
+1. La campaña electoral es el conjunto de actividades lícitas en orden a la captación del voto. Sólo los candidatos, partidos, federaciones, coaliciones o agrupaciones de electores podrán llevar a cabo estas actividades.
+2. La campaña electoral tendrá una duración de quince días y deberá terminar a las cero horas del día inmediato anterior a la elección.
+3. El Gobierno Vasco podrá realizar durante el proceso electoral una campaña de carácter institucional destinada a informar a la ciudadanía sobre la fecha y lugar de la votación, la condición de electora o elector, el procedimiento para votar y los requisitos y trámite del voto por correo, sin influir, en ningún caso, en la orientación del voto del electorado. La publicidad de la campaña institucional, en la que se garantizará el uso de las dos lenguas oficiales, se llevará a cabo en espacios gratuitos de los medios de comunicación social de titularidad pública dependientes de la Comunidad Autónoma y de los de titularidad estatal limitados al ámbito territorial de la Comunidad.
+4. Salvo lo dispuesto en el apartado anterior, ninguna persona jurídica distinta de las mencionadas en el apartado 1 podrá realizar campaña electoral a partir de la fecha de convocatoria de las elecciones, sin perjuicio de lo establecido en el artículo 20 de la Constitución.
+Se modifica el apartado 3 por el art. único.23 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica el apartado 3 por el art. 1.20 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 68 bis
+
+Artículo 68 bis.
+1. En el periodo comprendido entre la convocatoria de elecciones y la celebración de estas, los poderes públicos y las entidades previstas en el artículo 2 de la Ley 6/2010, de 23 de diciembre, de Publicidad y Comunicación Institucional de Euskadi, no podrán realizar ni difundir campañas de publicidad y de comunicación institucional, excepto las referidas en el artículo 68.3 de la presente ley y las que puedan resultar imprescindibles para la salvaguarda del interés público o para el correcto desenvolvimiento de los servicios públicos. Igualmente se prohíbe cualquier actuación o evento organizado o financiado por los poderes públicos que haga alusión a las realizaciones o a los logros conseguidos, o que emplee imágenes, expresiones o logotipos coincidentes o similares a los utilizados en la campaña electoral por las candidaturas proclamadas para las elecciones.
+2. Asimismo, durante el mismo periodo no se permitirá la realización o difusión de cualquier acto de inauguración, presentación o exposición de obras o servicios públicos o proyectos de estos, sin perjuicio de que dichas obras o servicios puedan entrar en funcionamiento en el referido periodo.
+3. La infracción de las prohibiciones previstas en este artículo será sancionadas por la Administración electoral con una multa, que en el caso de la Junta Electoral de la Comunidad Autónoma será de 2.700 euros y en el de las juntas electorales de territorio histórico de 1.200 euros.
+Se añade por el art. único.24 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+## Sección Segunda
+
+Sección Segunda. Propaganda electoral
+
+### Artículo 69
+
+Artículo 69.
+Se prohíbe a todo miembro en activo de la Ertzaintza, del Cuerpo de Miñones, de las Policías Municipales, de las Fuerzas Armadas o de los Cuerpos y Fuerzas de Seguridad del Estado, así como a los Jueces, Magistrados y Fiscales en activo y a los miembros de las Juntas Electorales, difundir propaganda electoral o llevar a cabo otras actividades de campaña electoral.
+
+### Artículo 70
+
+Artículo 70.
+1. La propaganda electoral no podrá estar sometida a control administrativo alguno, ni siquiera por las Juntas Electorales.
+2. Las posibles infracciones que deriven de delitos o faltas de opinión o expresión serán conocidas exclusivamente por la Jurisdicción competente.
+
+### Artículo 71
+
+Artículo 71.
+1. No puede difundirse propaganda electoral ni realizarse acto alguno de campaña electoral una vez que ésta haya legalmente terminado. La obtención gratuita de medios proporcionados por la Administración pública de la Comunidad Autónoma del País Vasco quedará limitada al periodo estricto de campaña electoral. Las limitaciones anteriores se establecen sin perjuicio de las actividades realizadas por los partidos, coaliciones y federaciones en el ejercicio de sus funciones constitucionalmente reconocidas y, en particular, en el artículo 20 de la Constitución.
+2. No obstante, desde la convocatoria de las elecciones hasta el inicio legal de la campaña, queda prohibida la realización de publicidad o propaganda electoral mediante carteles, soportes comerciales o inserciones en prensa, radio u otros medios digitales, no pudiendo justificarse dichas actuaciones por el ejercicio de las actividades ordinarias de los partidos, coaliciones o federaciones.
+3. En consecuencia, durante el referido periodo, las formaciones políticas y las candidaturas no podrán contratar directamente ni a través de tercero, espacios, soportes o sitios para la difusión de publicidad o propaganda electoral, ya se realice en lugares, públicos (jardines, plazas, parques, etc.), ya en soportes comerciales de cualquier tipo, sean vallas, muebles urbanos para la presentación de información ("mupis"), objetos publicitarios iluminados ("opis"), cabinas, medios de transporte o similares. Tampoco está permitida la inserción de anuncios en prensa o revistas, o en cuñas radiofónicas, o en formatos publicitarios en Internet ("banners"), o en canales comerciales de televisión, o en otros soportes en medios digitales.
+4. Tampoco se considera permitido en el periodo indicado en el apartado 2 anterior el reparto con fines de propaganda de material diverso como llaveros, bolígrafos, mecheros, pins u otros objetos similares, que incluyan el nombre o la foto de los miembros de las candidaturas o la denominación o siglas de la formación política, ni la exhibición de fotos de los candidato y candidatas o de carteles con la denominación, siglas o símbolos de una formación política en el exterior de domicilios privados.
+5. En el supuesto de que en el momento de la convocatoria electoral hubiese propaganda electoral difundida con anterioridad a ésta, deberá ser inmediatamente retirada, siendo, en todo caso, responsable a efectos de la Administración electoral la persona candidata o la formación política a la que se refiera la propaganda.
+6. Durante el proceso electoral señalado en el apartado 2, los miembros de las candidaturas y los representantes de las formaciones políticas que concurran a las elecciones no incurrirán en las prohibiciones contenidas en los números anteriores, siempre que no se incluya una petición expresa de voto, entre otros, en los siguientes casos:
+a) La información sobre los trámites para el voto por correo.
+b) La realización o participación en mítines y actos destinados a presentar las candidaturas o el programa electoral. Para ello, las formaciones políticas y los candidatos y candidatas podrán dar a conocer estos actos por cualquier medio de difusión.
+c) La intervención de los miembros de las candidaturas y de los representantes de las formaciones políticas que concurran a las elecciones en entrevistas o debates en los medios de comunicación de titularidad pública o privada, difusión de artículos o informaciones sobre sus miembros y su programa electoral.
+d) La realización y distribución de folletos, cartas o panfletos, o el reparto de soportes electrónicos, en los que se den a conocer a los candidatos y candidatas o el programa electoral.
+e) La utilización de vehículos particulares con fotos de las candidatas y candidatos o la denominación, siglas o símbolos de una formación política, para dar a conocer a los miembros de las candidaturas o informar sobre los actos públicos de presentación de estas o del programa electoral, siempre que no suponga contratación alguna para su realización.
+f) La exhibición de fotos de las candidatas y candidatos o de la denominación, siglas o símbolos de una formación política en la fachada exterior de los lugares en que radiquen las sedes y locales de ésta.
+g) El envío de correos electrónicos o de mensajes sms, o la distribución de contenidos por radiofrecuencia para dar a conocer a las candidatas y candidatos o el programa electoral, siempre que no implique la contratación de un tercero para su realización.
+h) La creación o utilización de páginas web o sitios web de recopilación de textos o artículos (blogs) de las formaciones políticas o de las candidatas y candidatos, o la participación en redes sociales, siempre que no suponga ningún tipo de contratación comercial para su realización.
+7. Los miembros de las candidaturas, partidos políticos, federaciones, coaliciones o agrupaciones electorales no podrán realizar, en el día de la votación ni en el inmediato anterior, ningún tipo de manifestación ni declaración pública en los medios de comunicación social relativas a la captación del sufragio.
+Se modifica por el art. único.25 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 72
+
+Artículo 72.
+(Suprimido).
+Se suprime por el art. único.26 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica por el art. 1.21 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+## Sección Tercera
+
+Sección Tercera. Uso de locales y espacios públicos
+
+### Artículo 73
+
+Artículo 73.
+1.Los Ayuntamientos tendrán elaborados y puestos al día con carácter permanente los catálogos de:
+a) Locales oficiales y abiertos al uso público, los cuales se habilitarán para la celebración de actos electorales. Para ello realizarán las gestiones oportunas con los organismos titulares de dichos locales para la cesión de su uso, especificando el calendario de días y horas habilitadas para su utilización.
+b) Lugares especiales reservados donde se puede ubicar propaganda gráfica gratuita, como postes, farolas, cabinas y demás lugares de titularidad pública.
+2. Se prohíbe toda clase de pintadas fuera de los emplazamientos y espacios asignados a los que se refiere la letra b) del apartado anterior.
+Asimismo, no podrán colocarse:
+– Banderines, cintas y otros elementos semejantes.
+– Pegatinas en señales de tráfico u otros elementos de señalización urbana.
+– Cualquier elemento de propaganda gráfica instalada en o sobre vallas, balaustradas, muros, jardines, etc., ni carteles, fuera de los lugares señalados por el Ayuntamiento.
+– Trípodes o similares elementos apoyados en el suelo.
+– Tampoco podrán colocarse banderolas ni pancartas.
+Por último, se prohíbe también el lanzamiento de octavillas.
+Se añade apartado 2 por el art. 1.22 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 74
+
+Artículo 74.
+1. La celebración de actos públicos de campaña electoral se regirá por lo dispuesto en la legislación reguladora del derecho de reunión. Las atribuciones encomendadas en esta materia a la autoridad gubernativa se entenderán asumidas por las Juntas Electorales de Territorio Histórico.
+2. Se mantendrán, en todo caso, las atribuciones de la autoridad gubernativa respecto al orden público, y, con este fin, las Juntas deberán informar a la indicada autoridad de las reuniones cuya convocatoria les haya sido comunicada.
+
+### Artículo 75
+
+Artículo 75.
+1. Aparte de los lugares reservados para la ubicación de propaganda gráfica gratuita indicados en el artículo 73.1.b) de la presente Ley, los partidos políticos, federaciones, coaliciones y agrupaciones electorales sólo podrán colocar carteles y otras formas de propaganda electoral en los espacios comerciales autorizados.
+2. El gasto de las candidaturas en este tipo de publicidad no podrá exceder del 20% del límite de gasto previsto en el artículo 147.2 de esta ley.
+3. A los efectos de lo dispuesto en el artículo 73, los Ayuntamientos, dentro de los siete días siguientes a la convocatoria, comunicarán los emplazamientos disponibles para la colocación gratuita de carteles a la correspondiente Junta Electoral de Zona.
+4. Ésta distribuirá equitativamente los lugares mencionados, de forma que todas las candidaturas dispongan de igual superficie y análoga utilidad en cada uno de los emplazamientos disponibles.
+5. El segundo día posterior a la proclamación de candidatos, la Junta comunicará al representante territorial de la candidatura solicitante o a su comisionado los lugares reservados para sus carteles.
+Se modifica el apartado 2 por el art. único.27 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica por el art. 1.23 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 76
+
+Artículo 76.
+1. A los efectos de lo dispuesto en el artículo 74, los Ayuntamientos, dentro de los diez días siguientes al de la convocatoria, comunicarán a la correspondiente Junta Electoral de Zona, que a su vez lo pondrá en conocimiento de la Junta Electoral de Territorio Histórico, los locales oficiales y lugares públicos que se reservan para la realización gratuita de actos de campaña electoral.
+2. Dicha relación habrá de contener la especificación de los días y horas en que cada uno sea utilizable y deberá ser publicada en el Boletín Oficial de Territorio Histórico, dentro de los quince días siguientes a la convocatoria. A partir de entonces, los representantes territoriales de las candidaturas o sus comisionados podrán solicitar ante las Juntas Electorales de Zona la utilización de los locales y lugares mencionados.
+3. El cuarto día posterior a la proclamación de candidatos, las Juntas de Zona atribuirán los locales y lugares disponibles en función de las solicitudes, y, cuando varias sean coincidentes, atendiendo al criterio de igualdad de oportunidades y, subsidiariamente, a las preferencias de los partidos, federaciones o coaliciones con mayor número de votos en las últimas elecciones al Parlamento Vasco en la misma circunscripción. Las Juntas Electorales de Zona comunicarán al representante territorial de cada candidatura o a su comisionado los locales y lugares asignados.
+
+### Artículo 77
+
+Artículo 77.
+Si una candidatura infringiera grave o reiteradamente los acuerdos de distribución elaborados por la Junta Electoral de Zona correspondiente, podrá ser excluida del reparto de locales y lugares de colocación gratuita de propaganda gráfica, mediante acuerdo adoptado al efecto dentro de las cuarenta y ocho horas siguientes a la infracción. La exclusión será independiente de las responsabilidades civiles y administrativas que pudieran derivarse.
+
+### Artículo 78
+
+Artículo 78.
+1. Los partidos políticos, federaciones y coaliciones serán civilmente responsables, sin perjuicio de las responsabilidades administrativas en que incurran, de los daños causados a los inmuebles por cualquier tipo de propaganda gráfica.
+2. Los firmantes de las agrupaciones electorales responderán solidariamente.
+
+### Artículo 79
+
+Artículo 79.
+La colocación por las candidaturas de cualquier tipo de propaganda gráfica y la realización de impresiones en lugares no autorizados será sancionada por el ayuntamiento hasta la cuantía de 6.000 euros, mediante expediente instruido al efecto y previa audiencia de la persona interesada.
+Se modifica por el art. único.28 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 80
+
+Artículo 80.
+1. Los partidos políticos, federaciones, coaliciones o agrupaciones electorales deberán proceder a retirar la propaganda gráfica de los lugares en los que la colocaron, dentro de los quince días siguientes a la celebración de las elecciones.
+2. Cuando se hubiera superpuesto propaganda gráfica de distintas fuerzas políticas, corresponderá retirarla a la última que la hubiera colocado.
+3. Si no se cumpliera lo prevenido en los apartados anteriores, procederán a retirar la propaganda gráfica los Ayuntamientos. Los gastos devengados en dicha operación e imputables a aquellas candidaturas infractoras con derecho a subvención pública electoral podrán librarse al Departamento responsable de Hacienda del Gobierno Vasco, que descontará, en igual cuantía a la desembolsada, de las subvenciones que correspondieran, para su posterior reembolso a los Ayuntamientos. Si las fuerzas políticas infractoras no hubiesen alcanzado subvención, los Ayuntamientos procederán a su reclamación por la cuantía que corresponda. Caso de no ser atendida, podrán reclamarlos ante los Tribunales por la vía de apremio.
+
+## Sección Cuarta
+
+Sección Cuarta. Utilización de medios de comunicación en la campaña electoral
+Se modifica la rúbrica por el art. único.29 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 81
+
+Artículo 81.
+1. Las candidaturas tendrán derecho, durante la campaña electoral, a contratar la inserción de publicidad en la prensa periódica y en las emisoras de radio de titularidad privada, sin que los gastos realizados en esa publicidad puedan superar el 20% del límite de gasto previsto para los partidos, federaciones, coaliciones y agrupaciones electorales en el artículo 147.2 de la presente ley.
+2. Las tarifas para esta publicidad electoral no serán superiores a las vigentes para la publicidad comercial, y no podrá producirse discriminación alguna entre las candidaturas en cuanto a la inclusión, tarifas y ubicación de estos espacios de publicidad electoral, en los que deberá constar expresamente su condición.
+3. No podrán contratarse espacios de publicidad electoral en los medios de comunicación de titularidad pública ni en las emisoras de televisión privada.
+4. Durante la campaña electoral, los partidos políticos, federaciones, coaliciones y agrupaciones que concurran a las elecciones al Parlamento Vasco tendrán derecho al uso gratuito de espacios en los medios de comunicación públicos dependientes de la Comunidad Autónoma y en los de titularidad estatal limitados al ámbito territorial de la Comunidad.
+5. La distribución de dichos espacios se hará en función del número total de votos obtenidos por cada partido, federación, coalición o agrupación en las anteriores elecciones al Parlamento Vasco.
+6. En los medios de comunicación públicos dependientes del Gobierno Vasco se emitirá al menos un debate sobre política general en cada una de las lenguas oficiales, en el que intervendrán candidatos y candidatas de todas las formaciones políticas que hubieran obtenido representación en las anteriores elecciones al Parlamento Vasco.
+Igualmente, se emitirá en tales medios una entrevista en cada una de las lenguas oficiales a la candidata o candidato designado por las formaciones anteriormente señaladas.
+Se modifica por el art. único.30 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica el apartado 2 por el art. 1.24 de la Ley de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 82
+
+Artículo 82.
+1. La Junta Electoral de la Comunidad Autónoma será la autoridad competente para distribuir los espacios gratuitos de propaganda electoral que se emiten por los medios de comunicación públicos, cualquiera que sea el titular de los mismos. Bajo la dirección de la Junta Electoral de la Comunidad Autónoma, existirá un Comité de Radio y Televisión para efectuar la propuesta de distribución de los espacios citados.
+2. El Comité será designado por la Junta Electoral de la Comunidad Autónoma dentro de las setenta y dos horas siguientes a la proclamación de las candidaturas y estará integrado por un representante de cada partido, federación, coalición o agrupación que, concurriendo a las elecciones convocadas, contase con representación en el momento de la constitución del Parlamento Vasco en la legislatura inmediata anterior. Dichos representantes votarán ponderadamente de acuerdo con la composición inicial de la legislatura precedente del Parlamento Vasco.
+3. La Junta Electoral de la Comunidad Autónoma elegirá también al Presidente del Comité de entre los representantes nombrados conforme al apartado anterior.
+
+### Artículo 83
+
+Artículo 83.
+1. La distribución de tiempo gratuito de propaganda electoral en cada medio de radio y televisión de titularidad pública, y en los distintos ámbitos de programación que éstos tengan, se efectuará conforme al siguiente baremo:
+a) Diez minutos para los partidos, federaciones, coaliciones y agrupaciones electorales que no concurrieron o no obtuvieron representación en las anteriores elecciones al Parlamento Vasco y para aquellos que, habiéndola obtenido, no hubieran alcanzado el 5 por 100 del total de votos válidos emitidos en la Comunidad Autónoma.
+b) Veinte minutos para los partidos, federaciones, coaliciones y agrupaciones electorales que, habiendo obtenido representación en las anteriores elecciones al Parlamento Vasco, hubieran alcanzado entre el 5 y el 20 por 100 del total de votos a que se hace referencia en el párrafo a).
+c) Treinta minutos para los partidos, federaciones, coaliciones y agrupaciones electorales que, habiendo obtenido representación en las anteriores elecciones al Parlamento Vasco, hubieran alcanzado, al menos, un 20 por 100 del total de votos a que hace referencia el apartado a).
+2. El derecho a los tiempos de emisión gratuita de propaganda electoral en los medios de titularidad pública enumerados en el apartado anterior corresponderá a aquellos partidos, federaciones, coaliciones y agrupaciones electorales federadas que presenten candidaturas en las tres circunscripciones de la Comunidad Autónoma del País Vasco.
+3. Los partidos, federaciones, coaliciones y agrupaciones de electores que presenten candidaturas sólo en una o dos circunscripciones tendrán derecho a tiempo gratuito de propaganda electoral, de acuerdo con el baremo establecido en el apartado 1 de este artículo, en aquellos medios de radio y televisión de titularidad pública cuyo ámbito territorial o el de su programación no exceda del de la circunscripción en que se presenten. Para el cómputo de los votos obtenidos en las anteriores elecciones se atenderá, en este caso, a cada circunscripción electoral.
+4. A los efectos del cómputo del porcentaje del total de votos válidos emitidos a que hace referencia el apartado primero del presente artículo, cuando se trate de un partido político que, concurriendo a las elecciones, hubiese estado integrado en coaliciones o federaciones en las anteriores elecciones al Parlamento Vasco, el reparto de votos se hará proporcionalmente al número de parlamentarios que cada partido de dicha coalición o federación hubiese obtenido en el momento de la constitución del Parlamento Vasco en la legislatura inmediata anterior.
+
+### Artículo 84
+
+Artículo 84.
+Antes del comienzo de la campaña electoral, la Junta Electoral de la Comunidad Autónoma determinará el momento y el orden de emisión de los espacios de propaganda electoral a que tienen derecho los partidos políticos, federaciones, coaliciones y agrupaciones federadas que se presenten a las elecciones, teniendo en cuenta las preferencias de aquéllos, en función del número total de votos que obtuvieron en las anteriores elecciones al Parlamento Vasco.
+
+### Artículo 85
+
+Artículo 85.
+1. La organización de los medios de comunicación de titularidad pública garantizará la igualdad, proporcionalidad y neutralidad informativa y el respeto al pluralismo político y social de dichos medios en todos sus espacios informativos, sin perjuicio del debido respeto a la libertad informativa. En todo caso, las decisiones de los órganos de administración de los referidos medios en dicho periodo electoral son recurribles ante la Junta Electoral de la Comunidad Autónoma.
+2. Durante el periodo electoral las emisoras de titularidad privada deberán respetar los principios de pluralismo e igualdad. Asimismo, en dicho periodo, las televisiones privadas deberán respetar también los principios de proporcionalidad y neutralidad informativa en los debates y entrevistas electorales, así como en la información relativa a la campaña electoral, de acuerdo a las instrucciones que, a tal efecto, elabore la junta electoral competente.
+Se modifica por el art. único.31 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica por el art. 1.25 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+## Sección Quinta
+
+Sección Quinta. Derecho de rectificación
+
+### Artículo 86
+
+Artículo 86.
+Cuando por cualquier medio de comunicación social se difundan hechos que aludan a candidatos o dirigentes de los partidos, federaciones, coaliciones o agrupaciones que concurran a la elección, que éstos consideren inexactos y cuya divulgación pueda causarles perjuicio, podrán ejercitar el derecho de rectificación, de conformidad con lo establecido en la Ley Orgánica 2/1984, de 26 de marzo, con las siguientes especialidades:
+a) Si la información que se pretende rectificar se hubiera difundido en una publicación cuya periodicidad no permita divulgar la rectificación en los tres días siguientes a su recepción, el director del medio de comunicación deberá hacerla publicar a su costa dentro del plazo indicado en otro medio de la misma zona y de similar difusión.
+b) El juicio verbal regulado en el párrafo 2 del artículo 5 de la mencionada Ley Orgánica se celebrará dentro de los cuatro días siguientes al de la petición.
+
+## Sección Sexta
+
+Sección Sexta. Encuestas electorales
+
+### Artículo 87
+
+Artículo 87.
+Entre el día de la convocatoria y el de la celebración de las elecciones al Parlamento Vasco se aplicará el siguiente régimen de publicación de encuestas electorales:
+1. Los realizadores de todo sondeo o encuesta deberán, bajo su responsabilidad, acompañarlos de las siguientes especificaciones, que asimismo deberá incluir toda publicación de las mismas:
+a) Denominación y domicilio del organismo o entidad, pública o privada, o de la persona física que haya realizado el sondeo, así como de la que haya encargado su realización.
+b) Características técnicas del sondeo, que incluyan necesariamente los siguientes extremos: sistema de muestreo, tamaño de la muestra, margen de error de la misma, nivel de representatividad, procedimiento de selección de los encuestados y fecha de realización del trabajo de campo.
+c) Texto íntegro de las cuestiones planteadas y número de personas que no han contestado a cada una de ellas.
+2. La Junta Electoral de la Comunidad Autónoma velará porque los datos e información de los sondeos publicados no contengan falsificaciones, ocultaciones o modificaciones deliberadas, así como por el correcto cumplimiento de las especificaciones a que se refiere el párrafo anterior y por el respeto a la prohibición establecida en el apartado 7 de este artículo, sin perjuicio de las competencias de la Junta Electoral Central.
+3. De conformidad con lo previsto en el apartado anterior, la Junta Electoral de la Comunidad Autónoma podrá recabar de quien haya realizado un sondeo o encuesta publicado la información técnica complementaria que juzgue oportuno al objeto de efectuar las comprobaciones que estime necesarias.
+Esta información no podrá extenderse al contenido de los datos sobre las cuestiones que, conforme a la legislación vigente, sean de uso propio de la empresa o su cliente.
+4. Los medios informativos que hayan publicado o difundido un sondeo violando las disposiciones de la presente Ley estarán obligados a publicar y difundir en el plazo de tres días las rectificaciones requeridas por la Junta Electoral de la Comunidad Autónoma, anunciando su procedencia y el motivo de la rectificación, y programándose o publicándose en los mismos espacios o páginas que la información rectificada.
+5. Si el sondeo o encuesta que se pretende modificar se hubiera difundido en una publicación cuya periodicidad no permite divulgar la rectificación en los tres días siguientes a su recepción, el director del medio de comunicación deberá hacerla publicar a su costa indicando esta circunstancia, dentro del plazo indicado, en otro medio de la misma zona y de similar difusión.
+6. Las resoluciones de la Junta sobre materia de encuestas y sondeos serán notificadas a los interesados y publicadas. Dichas resoluciones serán recurribles ante la Junta Electoral Central, en la forma prevista en el artículo 134 de la presente Ley.
+Las resoluciones de la Junta Electoral Central podrán ser objeto de recurso ante la Jurisdicción Contencioso-Administrativa, en la forma prevista en su Ley Reguladora y sin que sea preceptivo el recurso previo de reposición.
+7. Durante los cinco días anteriores al de la votación quedará prohibida la publicación y difusión o reproducción de sondeos electorales por cualquier medio de comunicación, incluidos los digitales.
+El día de la votación quedará también prohibida la publicación y difusión o reproducción de sondeos o de resultados provisionales, antes de las veinte horas, en cualquier medio de comunicación.
+En ambos supuestos, en los casos de incumplimiento se impondrá una sanción de 3.000 a 30.000 euros por la junta electoral competente.
+8. Si en el plazo comprendido desde la convocatoria de elecciones hasta el quinto día anterior al de la votación algún organismo dependiente de las Administraciones Públicas realiza encuestas sobre intención de voto o sondeos electorales, los resultados de las mismas deberán ser puestos a disposición de las entidades políticas concurrentes en el plazo de cuarenta y ocho horas desde la solicitud. A tal efecto, el referido organismo dará cuenta del hecho de la existencia de la encuesta o sondeo a la Junta Electoral de la Comunidad Autónoma, para que ésta comunique dicha circunstancia a los representantes generales de las candidaturas, a fin de que dichos representantes puedan solicitar las encuestas o sondeos del organismo autor de las mismas.
+Se modifica el apartado 7 por el art. único.32 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica el apartado 8 por el art. 1.26 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+## CAPÍTULO III
+
+Papeletas y sobres electorales
+
+### Artículo 88
+
+Artículo 88.
+1. El Gobierno, mediante Decreto, determinará el modelo oficial y las características a que habrán de ajustarse las papeletas y sobres de votación, así como las urnas, cabinas y demás documentos previstos en esta Ley. En el Decreto se establecerán las condiciones de impresión, confección y entrega de las papeletas, sobres y resto de la documentación electoral.
+2. Las Juntas Electorales de Territorio Histórico aprobarán el modelo oficial de las papeletas correspondientes a su circunscripción, de acuerdo con los criterios establecidos en la presente Ley y los que se determinen en el Decreto previsto en el apartado anterior.
+
+### Artículo 89
+
+Artículo 89.
+1. Las Juntas Electorales de Territorio Histórico verificarán que las papeletas y sobres de votación confeccionados por los grupos políticos que concurran a las Elecciones al Parlamento Vasco se ajustan al modelo oficial que se determina en el Decreto a que hace referencia el artículo anterior.
+2. Dentro del período de campaña electoral, los partidos políticos, federaciones, coaliciones y agrupaciones electorales podrán imprimir y distribuir entre los electores papeletas y sobres de votación que serán válidos a efectos de ejercer el derecho de sufragio. Queda prohibido el reparto de papeletas en los Colegios Electorales el día de votación.
+
+### Artículo 90
+
+Artículo 90.
+1. El Gobierno Vasco, a través del Departamento de Interior, garantizará la disponibilidad de las papeletas, sobres de votación y demás documentación electoral en número suficiente, asegurando su entrega en las Juntas Electorales de Zona, para su posterior envío a las Mesas Electorales, en el momento y en las condiciones que fije el Decreto previsto en el artículo 88 de la presente Ley.
+2. La confección de las papeletas se iniciará inmediatamente después de la proclamación de candidatos. Las primeras papeletas confeccionadas se destinarán para el voto por correo de los residentes ausentes en el extranjero.
+3. Si se hubieren interpuesto recursos contra la proclamación de candidatos, de conformidad con lo establecido en el artículo 67 de esta Ley, la confección de las papeletas correspondientes se pospondrá, en la circunscripción electoral donde hubieren sido interpuestos, hasta la resolución de dichos recursos.
+
+### Artículo 91
+
+Artículo 91.
+1. Los textos que figuren en las papeletas, sobres de votación y demás documentación electoral, se imprimirán en las dos lenguas oficiales de la Comunidad Autónoma.
+2. Las papeletas electorales deberán expresar las indicaciones siguientes:
+a) La denominación, siglas y símbolo de la candidatura.
+b) Los nombres de los candidatos según el orden de colocación establecido en la candidatura, sin incluir los suplentes.
+
+## CAPÍTULO IV
+
+Interventores y Apoderados
+
+### Artículo 92
+
+Artículo 92.
+1. El representante territorial de cada candidatura o sus comisionados en la Junta Electoral de Zona correspondiente podrán nombrar dos Interventores por Mesa Electoral que, estando presentes en la misma, comprueben que la votación se desarrolla conforme a las normas establecidas.
+2. Podrá desempeñar las funciones de interventor o interventora cualquier persona mayor de edad y que se halle en pleno uso de sus derechos civiles y políticos, aunque no tenga la condición de electora, según lo señalado en el artículo 2 de la presente ley. En este caso, no tendrá derecho a voto en la elección.
+Si la interventora o interventor pertenece como elector a la circunscripción electoral en que se encuentra la Mesa en la que vaya a desempeñar sus funciones, podrá votar en la misma.
+3. El nombramiento se hará mediante la expedición de credenciales talonarias con la fecha y firma al pie del nombramiento.
+4. El nombramiento de Interventores se podrá realizar hasta el mismo día tercero anterior al de la fecha de celebración de las elecciones.
+5. Las hojas talonarias por cada interventor o interventora habrán de estar divididas en cuatro partes: una como matriz, para conservarla el representante o su comisionado o comisionada; la segunda la entregará al interventor o interventora como credencial; la tercera será remitida a la junta electoral de zona correspondiente, para que la haga llegar a la mesa electoral de la que forma parte; la cuarta será remitida a dicha junta electoral, solo en el caso de que la interventora o interventor sea elector en la circunscripción en la que actúe como tal, para enviarla a la mesa en la que tenga derecho a votar para su exclusión de la lista electoral.
+6. Las credenciales de nombramiento de Interventores se presentarán en la Junta Electoral de Zona por el representante o su comisionado a partir del segundo día desde la proclamación de candidaturas hasta las cuarenta y ocho horas anteriores al día de la votación.
+7. Al efecto de que la Junta Electoral de Zona pueda comprobar que la interventora o interventor es elector en la circunscripción electoral en la que ejerce sus funciones, dispondrá de una copia utilizable del censo electoral del territorio histórico correspondiente.
+8. La remisión por la Junta Electoral de Zona a las Mesas Electorales de la tercera o cuarta hoja talonaria se hará de modo que obren en su poder en el momento de constituirse las mismas el día de votación.
+9. Para integrarse en la Mesa el día de la votación, el Presidente y los Vocales deberán comprobar que la credencial es conforme con la hoja talonaria que se halla en poder de la Mesa. Si no fuere así o no existiere hoja talonaria podrá dárseles posesión aunque consignando tal incidencia en el Acta.
+10. Cuando un interventor o interventora se presente ante la Mesa Electoral acreditando su condición mediante credencial, el Presidente o Presidenta le autorizará a integrarse en la Mesa, aun cuando ésta no hubiera recibido de la Junta de Zona la hoja talonaria. En este caso, aunque la interventora o interventor fuera elector en la circunscripción en la que ejerce sus funciones, no podrá votar en la Mesa en la que estuviera acreditado.
+Si el interventor o interventora concurriere sin su credencial, habiendo recibido la Mesa la hoja talonaria, comprobada su identidad le permitirá integrarse en la Mesa. En este caso, si la interventora o interventor fuera elector en la circunscripción en la que actúa como tal, tendrá derecho a votar en la Mesa en la que estuviera acreditado.
+11. Si el interventor o interventora se presentase en la Mesa después de las ocho treinta horas, una vez confeccionada el acta de constitución de la misma, el Presidente o Presidenta no le dará posesión de su cargo, y únicamente en el caso de que la interventora o interventor sea elector en la circunscripción en la que ejerce sus funciones podrá votar en dicha Mesa.
+Se modifica el apartado 5 por el art. único.33 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifican los apartados 2, 5, 7, 10 y 11 por el art. 1 de la Ley 1/2003, de 28 de marzo. Ref. BOE-A-2011-18544.
+ Se modifica el apartado 5 y 7 por el art. 1.27 y 28 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 93
+
+Artículo 93.
+1. Los Interventores podrán asistir a la Mesa electoral, participando en sus deliberaciones con voz pero sin voto y colaborando en el buen funcionamiento del proceso de votación y escrutinio, velando con el Presidente y los Vocales para que los actos electorales se realicen de acuerdo con la Ley.
+2. Los Interventores podrán, de acuerdo con la Ley:
+a) Solicitar certificaciones del Acta de Constitución de la Mesa, del escrutinio y del Acta General de la Sesión o de un extremo determinado de ellas. No se expedirá más de una certificación por candidatura.
+b) Reclamar sobre la identidad de un elector, lo que deberán realizar públicamente.
+c) Anotar, si lo desean, el nombre y número de orden en que emiten sus votos los electores.
+d) Pedir, durante el escrutinio, la papeleta leída por el Presidente para su examen.
+e) Cursar las protestas y reclamaciones que estimen oportunas sobre cualquier acto y operación electoral que debieran resolverse por la Mesa o que entienden mal resueltos, teniendo derecho a que se haga constar su protesta o reclamación en el Acta General de la Sesión.
+3. Los trabajadores por cuenta ajena y los funcionarios que acrediten su condición de Interventores tendrán derecho a un permiso retribuido de jornada completa durante el día de la votación, si es laboral. En todo caso, tendrán derecho a una reducción de su jornada de trabajo de cinco horas el día inmediatamente posterior.
+
+### Artículo 94
+
+Artículo 94.
+1. Todas las fuerzas políticas que concurran a las elecciones podrán designar, hasta el mismo día de la votación, por medio del representante territorial de la candidatura y mediante poder otorgado al efecto, Apoderados que ostenten la representación de la candidatura en los actos y operaciones electorales.
+2. Las funciones de apoderado o apoderada podrán ser desempeñadas por cualquier persona mayor de edad y que se halle en pleno uso de sus derechos civiles y políticos.
+3. El apoderamiento se formalizará mediante instrumento notarial o ante el Secretario o Secretaria de la Junta Electoral de la Comunidad Autónoma, de Territorio Histórico o de Zona si, respectivamente, el apoderado o apoderada va a desempeñar sus funciones en más de una circunscripción electoral, en Secciones correspondientes a más de una Junta Electoral de Zona o en Secciones de una sola Junta Electoral de Zona. La Junta Electoral expedirá la correspondiente credencial, conforme al modelo oficialmente establecido.
+4. Los Apoderados tendrán las mismas facultades que los Interventores. El Presidente podrá requerir su identificación y la exhibición de sus credenciales. Votarán en la Sección y Mesa que les corresponda conforme a su inscripción en el Censo.
+5. Los trabajadores por cuenta ajena y los funcionarios que acrediten su condición de Apoderados tendrán derecho a un permiso retribuido durante el día de la votación.
+Se modifican los apartados 2 y 3 por el art. 2 de la Ley 1/2003, de 28 de marzo. Ref. BOE-A-2011-18544.
+ Se modifica el apartado 3 por el art.1.29 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 95
+
+Artículo 95.
+Los Interventores y Apoderados podrán utilizar emblemas o adhesivos de tamaño máximo de 10 x 10 cms., con la denominación, siglas y símbolo de la formación política a la que representan, además de la palabra Artekaria-Interventor o en su caso Ahalduna-Apoderado, a los meros efectos de identificación.
+Queda prohibido el día de la elección la utilización por los mismos de leyendas, símbolos o lemas distintos a los señalados en el párrafo anterior, y en especial aquellos que puedan ser constitutivos de propaganda electoral.
+Se añade el párrafo 2 por el art. único.34 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 96
+
+Artículo 96.
+Durante la votación, en cada mesa electoral, no podrán ejercer las funciones de interventor o apoderado más de tres personas por candidatura.
+
+## CAPÍTULO V
+
+Constitución de las Mesas Electorales
+
+### Artículo 97
+
+Artículo 97.
+1. El Presidente, los dos Vocales, sus respectivos suplentes y los Interventores se reunirán a las ocho de la mañana en el local asignado a la Mesa.
+2. No se podrá proceder a constituir la Mesa sin la presencia de un Presidente y dos Vocales.
+
+### Artículo 98
+
+Artículo 98.
+1. Los designados serán sustituidos, en su caso, por los siguientes, de acuerdo con el orden de éstos.
+2. Si el Presidente no hubiera acudido le sustituirá su primer suplente. En caso de faltar también éste, le sustituirá un segundo suplente, y si éste tampoco hubiera acudido tomará posesión como Presidente el primer Vocal, o el segundo Vocal, por este orden. Los Vocales que no han acudido o que toman posesión como Presidente serán sustituidos por sus suplentes.
+3. En caso de incomparecencia que impida constituir la Mesa, los Interventores o las personas que se hallaren presentes lo pondrán en conocimiento inmediatamente de la Junta Electoral de Zona, que designará un representante. Este acudirá a la Sección Electoral para designar entre los presentes los nuevos componentes de la Mesa. En todo caso, la Junta informará al Ministerio Fiscal de lo sucedido para el esclarecimiento de la posible responsabilidad penal de los miembros de la Mesa o de sus suplentes que no comparecieron.
+4. Si a pesar de lo establecido en el párrafo anterior no pudiera constituirse la Mesa dos horas después de la legalmente establecida para el inicio de la votación, el representante designado en el párrafo tercero de este artículo comunicará esta circunstancia a la Junta Electoral de Zona, que convocará para nueva votación en la Mesa, dentro de los dos días siguientes. Una copia de la convocatoria se fijará inmediatamente en la puerta del local electoral, y la Junta procederá de oficio al nombramiento de los miembros de la nueva Mesa.
+5. La presidencia y las vocalías de las mesas electorales no podrán portar o utilizar leyendas, símbolos, emblemas o lemas que directa o indirectamente puedan ser constitutivos de propaganda electoral.
+Se añade el apartado 5 por el art. único.35 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 99
+
+Artículo 99.
+1. En cada Mesa electoral existirá una urna.
+2. En el mismo local en que esté situada cada Mesa electoral existirá una cabina, adosada a la pared, que permita al elector aislarse.
+3. Asimismo deberá disponer de un número suficiente de sobres y papeletas de cada candidatura situados en la cabina.
+4. Si faltase cualquiera de estos elementos en el local electoral, a la hora señalada para la constitución de la Mesa o en cualquier momento posterior, el Presidente de la Mesa lo comunicará inmediatamente a la Junta de Zona, que proveerá su suministro.
+
+### Artículo 100
+
+Artículo 100.
+1. El Presidente, antes de la hora de comienzo de la votación, extenderá el Acta de Constitución de la Mesa, que deberá ir firmada por el mismo, los Vocales y los Interventores con credencial autentificadas.
+2. El Acta contendrá obligatoriamente:
+a) Nombres e identificación del Presidente y los Vocales.
+b) Interventores presentes y candidatura a la que pertenecen.
+c) Otras incidencias.
+3. El Presidente entregará obligatoriamente un certificado del Acta, por candidatura, al Interventor o Apoderado que la reclamare.
+4. Si no entregare el Presidente el preceptivo certificado o demorare su entrega, los representantes o el representante afectado podrá levantar protesta mediante escrito duplicado. Una copia se adjuntará al expediente electoral, y la otra será elevada por el representante a la Junta Electoral de Territorio Histórico.
+
+## CAPÍTULO VI
+
+Votación
+
+### Artículo 101
+
+Artículo 101.
+1. La votación se celebrará en el día fijado, entre las nueve y las veinte horas sin interrupción.
+2. Durante el desarrollo de las operaciones de votación, el Presidente y los Vocales podrán ausentarse transitoriamente y por causas justificadas de la Mesa Electoral, que en todo caso deberá contar con la presencia de dos de sus miembros.
+3. El Presidente de la Mesa Electoral deberá interrumpir la votación cuando advierta la ausencia de papeletas de alguna candidatura y no pueda suplirla mediante papeletas suministradas por los apoderados o interventores de la correspondiente candidatura. En tal caso dará cuenta a la Junta Electoral de zona de su decisión para que ésta provea su suministro. La votación se reanudará a continuación, prorrogándose ésta solamente si la interrupción de la misma durase más de una hora, en cuyo caso el Presidente, oída la Mesa, decidirá el tiempo en que haya de prorrogarse la votación.
+
+### Artículo 102
+
+Artículo 102.
+1. Sólo por causa de fuerza mayor podrá no iniciarse o suspenderse el acto de votación.
+La no iniciación o suspensión deberá resolverse siempre por escrito razonado del Presidente de la Mesa, quien elevará inmediatamente copia del escrito a la Junta Electoral de Territorio Histórico, que deberá comprobar los motivos alegados, exigir en su caso las responsabilidades que se derivaren del acuerdo adoptado y, si hubiere lugar, elevar el tanto de culpa a los Tribunales.
+2. Si se suspendiera la votación, los votos emitidos serán destruidos.
+3. La Junta de Territorio Histórico convocará para nueva votación al segundo día siguiente y adoptará las previsiones necesarias a fin de evitar que se reproduzcan incidencias.
+
+### Artículo 103
+
+Artículo 103.
+La votación dará comienzo, una vez constituida la mesa, diciendo en voz alta el presidente o presidenta: "bozketa hasten da", o bien, "empieza la votación".
+Se modifica por el art. único.36 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 104
+
+Artículo 104.
+1. El voto será secreto.
+2. El elector podrá pasar, si lo desea, por la cabina, recogerá la papeleta de la candidatura elegida, la introducirá en un sobre y procederá a la votación.
+3. Las personas electoras que no supieren leer o que por discapacidad física estuvieren impedidas para elegir la papeleta o entregarla a la presidencia, podrán servirse de una persona de su confianza. No obstante, el Gobierno Vasco aplicará el procedimiento previsto en las elecciones al Congreso de Diputados y al Senado para las personas ciegas o con discapacidad visual que les permita ejercer su derecho de sufragio, garantizando el secreto del voto, de modo que puedan votar de forma personal y accesible.
+Se modifica el apartado 3 por el art. único.37 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 105
+
+Artículo 105.
+1. El derecho a votar se acreditará por la inscripción en los ejemplares certificados de las listas del censo o por la certificación censal específica y, en ambos casos, por la demostración de la identidad del elector, que se realizará mediante Documento Nacional de Identidad, Pasaporte o permiso de conducir en que aparezca la fotografía del titular.
+2. Los electores y electoras sólo podrán votar una vez. La votación se realizará en la Sección y en la Mesa que corresponda, con la única salvedad de las interventoras e interventores que sean electores de la circunscripción a la que pertenece la Mesa en la que ejerzan sus funciones, debidamente acreditados, que sólo podrán votar en esta última.
+3. Los ejemplares certificados de las listas del censo electoral a los que se refiere el apartado 1 de este artículo contendrán exclusivamente los electores mayores de edad en la fecha de votación.
+4. Asimismo, podrán votar quienes acrediten su derecho a estar inscritos en el Censo de la Sección mediante la exhibición de la correspondiente sentencia judicial.
+Se modifica el apartado 2 por el art. 3 de la Ley 1/2003, de 28 de marzo. Ref. BOE-A-2011-18544.
+ Se modifican los apartados 1 y 3 por el art. 1.30 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 106
+
+Artículo 106.
+1. Los electores se acercarán uno por uno a la Mesa, manifestando su nombre y apellidos. Los Vocales e Interventores podrán examinar el ejemplar certificado de la lista del Censo, comprobando si figura el nombre del votante y su identidad, que se justificará mediante la exhibición del Documento Nacional de Identidad o de alguno de los documentos previstos en el artículo 105.1 de esta Ley.
+2. Si en el trámite de identificación del votante se observase cualquier disparidad entre los nombres y apellidos contenidos en la lista del censo y los que obren en el documento de identidad respectivo como consecuencia de su expresión conforme a la ortografía vasca, la Mesa deberá cerciorarse de la identidad del votante.
+3. Cuando surgiera duda sobre la identidad del elector o reclamación de un Interventor, Apoderado u otro elector, decidirá la Mesa por mayoría. Para la decisión se tendrán en cuenta los documentos acreditativos y el testimonio que puedan presentar los electores presentes en el momento de la votación, y de todo ello se levantará oportuna Acta si así lo requiriese algún representante de la candidatura. En todo caso, se mandará pasar tanto de culpa al Tribunal competente para que exija la responsabilidad del que aparezca usurpador de nombre ajeno o del que lo haya negado falsamente.
+4. Ante las reclamaciones de las personas interventoras y apoderadas sobre cualquier acto de la votación que suponga la privación del ejercicio del derecho de sufragio activo de las personas electoras, la mesa decidirá por mayoría, haciendo constar en el acta de la sesión el acuerdo de la mesa, su motivación, y el motivo de la reclamación.
+Se modifica el apartado 4 por el art. único.38 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se añade apartado 4 por el art. 1.31 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 107
+
+Artículo 107.
+1. El elector o electora, por su propia mano, entregará el sobre de votación a la presidencia de la mesa. A continuación esta, sin ocultarlo en ningún momento a la vista del público, manifestará en voz alta el nombre y apellidos de la persona electora, y, añadiendo "vota", entregará el sobre a la persona electora, que lo depositará en la urna.
+2. Introducido el sobre en la urna, los Vocales y, en su caso, los Interventores que lo deseen anotarán, cada cual en una lista numerada, el nombre y apellidos de los votantes por el orden en que emitan su voto, expresando el número con que figuran en la lista del Censo Electoral.
+3. Todo elector tendrá derecho a examinar si ha sido bien anotado su nombre y apellidos en la lista numerada de votantes que forme la Mesa.
+Se modifica el apartado 1 por el art. único.39 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 108
+
+Artículo 108.
+1. El voto constituye un derecho y es libre. Nadie podrá ser obligado ni condicionado a votar en un determinado sentido.
+2. El Presidente de la Mesa, y en su ausencia el Vocal que ocupe la presidencia, tendrá dentro del local de la Mesa Electoral autoridad exclusiva para conservar el orden, asegurar la libertad de los electores y mantener la observancia de la Ley. Adoptará igualmente las medidas necesarias para garantizar la libertad del voto. Las Fuerzas de Policía prestarán al Presidente los auxilios que éste les requiera.
+El Presidente cuidará de que la entrada al local se conserve libre y expedita a las personas que se enumeran en el artículo siguiente.
+3. Nadie podrá entrar en el local de la Sección Electoral con armas ni instrumentos susceptibles de ser usados como tales. El Presidente ordenará la inmediata expulsión de quienes infrinjan este precepto.
+4. Cualquier incidente que hubiere afectado al orden en los locales de las Secciones, así como el nombre y apellidos de quienes lo hubieran provocado, serán reseñados en el Acta General de la Sesión.
+5. Ninguna autoridad podrá detener a los Presidentes, Vocales e Interventores de las Mesas durante las horas de la elección en que deban desempeñar sus funciones, salvo en caso de flagrante delito.
+6. Los notarios podrán dar fe de los actos relacionados con la elección, incluso fuera de su demarcación, pero siempre dentro del mismo territorio histórico y sin necesidad de autorización especial. Durante el día de la votación los notarios deberán encontrarse a disposición de los partidos, coaliciones, federaciones y agrupaciones en su domicilio o en el lugar donde habitualmente desarrollen su función.
+
+### Artículo 109
+
+Artículo 109.
+Solo tendrán entrada en los locales de las secciones los electores o electoras de las mismas, los representantes territoriales de las candidaturas y quienes formen parte de ellas, sus apoderados y apoderadas o interventores e interventoras; los notarios y las notarias, para dar fe de cualquier acto relacionado con la elección que no se oponga al secreto de la votación; los miembros de las juntas electorales y los jueces y juezas de instrucción y sus delegados o delegadas, siempre que lo exija el ejercicio de su cargo; los agentes de la autoridad que la presidencia requiera; las personas designadas por la Administración vasca para entre otras funciones recabar información electoral; los acompañantes de personas enfermas, impedidas y de quienes no sepan leer ni escribir y los y las responsables del mantenimiento de material electoral en los citados locales.
+Se modifica por el art. único.40 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 110
+
+Artículo 110.
+El tiempo necesario para el ejercicio de derecho de voto por los trabajadores se regulará conforme a lo que establece la legislación general aplicable en la materia.
+
+### Artículo 111
+
+Artículo 111.
+Durante el día de la votación, ni en los locales de las Secciones ni en las inmediaciones de los mismos podrá realizarse propaganda de ningún género a favor de los candidatos, ni interrogar a los electores sobre el sentido de su voto antes del ejercicio del mismo. Tampoco podrán formarse grupos susceptibles de entorpecer, de cualquier manera que sea, el acceso a los locales, ni se admitirá la presencia en las proximidades de quien o quienes puedan dificultar o coaccionar el libre ejercicio del derecho de voto. El Presidente de la Mesa tomará a este respecto todas las medidas que estime convenientes.
+Se modifica por el art. 1.32 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 112
+
+Artículo 112.
+1. A las veinte horas, dirá en voz alta el presidente o presidenta "bozketa bukatzera doa", o bien, "se va a concluir la votación", y no permitirá entrar a nadie más en el local. La presidenta o el presidente preguntará si alguna de las personas electoras presentes no ha votado todavía, y se admitirán los votos que se den a continuación.
+2. Concluido el plazo de votación pública, el Presidente procederá a introducir en la urna los sobres que contengan las papeletas de voto por correo.
+3. A continuación votarán quienes integren la mesa y las interventoras e interventores que ostenten la condición de electoras o electores en la circunscripción en la que actúan como tales, especificándose en este caso, en la lista numerada de votantes, la mesa electoral de los interventores e interventoras que no figuren en el censo de la mesa.
+4. Finalmente se firmarán por los Vocales e Interventores las listas numeradas de votantes al margen de todos los pliegos e inmediatamente debajo del último nombre escrito.
+Se modifican los apartados 1 y 3 por el art. único.41 y 42 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica el apartado 3 por el art. 3 de la Ley 1/2003, de 28 de marzo. Ref. BOE-A-2011-18544.
+
+### Artículo 113
+
+Artículo 113.
+La Mesa no admitirá el voto por correo en los siguientes casos:
+a) Cuando el votante por correo no esté inscrito en la lista del Censo Electoral.
+b) Cuando en el sobre dirigido a la Mesa no se acompañe el impreso de certificación expedido por la Delegación de la Oficina del Censo Electoral.
+c) Cuando no figure anotado, en la lista del Censo, su solicitud de voto por correo.
+
+### Artículo 114
+
+Artículo 114.
+1. La impugnación de los votos por correo deberá hacerse voto por voto, no admitiéndose la impugnación de la totalidad del voto por correo. La Mesa Electoral deberá decidir por mayoría si admite o no la impugnación mencionada.
+2. Si no admitiese la impugnación, el Presidente introducirá en la urna el voto por correo, haciéndose constar en el Acta General de la Sesión el acuerdo de la Mesa y el motivo de la impugnación.
+3. Si la Mesa admitiese la impugnación, el Presidente no introducirá el voto por correo en la urna, remitiéndose el voto por correo impugnado con el resto de la documentación electoral, a la Junta Electoral de Territorio Histórico.
+
+## CAPÍTULO VII
+
+Escrutinio en las Mesas Electorales
+
+### Artículo 115
+
+Artículo 115.
+Será voto nulo:
+a) El voto emitido en sobre o papeleta diferente del modelo oficial, así como el emitido en papeleta sin sobre, o en sobre que contenga más de una papeleta de diferente candidatura. Si hubiera un sobre con más de una papeleta de la misma candidatura, se computará como un solo voto.
+b) El voto emitido en papeleta en la que se hubieran modificado, añadido o tachado nombres de las personas candidatas incluidas en ella o alterado su orden de colocación. No obstante, será válido el voto emitido en papeleta en la que se hubiera introducido alguna señal o marca, siempre que no genere dudas acerca del sentido del voto del elector o electora.
+c) El voto en el que se contengan insultos o cualquiera otra expresión o leyenda ajena al voto, o en el que se produzca cualquier alteración de carácter voluntario o intencionado.
+d) El voto emitido en papeleta correspondiente a una circunscripción electoral diferente a la que pertenece la mesa.
+e) Cuando los sobres lleven signos exteriores de reconocimiento.
+Se modifica por el art. único.43 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se deroga el apartado e) por el art. 1.33 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 116
+
+Artículo 116.
+Se computarán como votos en blanco, pero válidos, los correspondientes a sobres que no contienen papeleta. Así como el voto emitido en papeleta de una candidatura legalmente retirada de la circunscripción electoral.
+Se modifica por el art. 1.34 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 117
+
+Artículo 117.
+1. La operación de escrutinio será pública y podrán asistir todas las personas que lo deseen, siempre que, a juicio del Presidente, tengan cabida en el local donde se realiza.
+2. El Presidente, si entendiera que el orden es alterado de tal manera que no va a poder realizarse o no es posible realizar el escrutinio, podrá ordenar el desalojo del local. En este caso sólo tendrán derecho a permanecer, además de la Mesa, los representantes territoriales de las candidaturas, los Interventores y Apoderados, los notarios, los agentes de la autoridad que el Presidente requiera, los miembros de las Juntas Electorales y los Jueces de Instrucción o sus delegados.
+
+### Artículo 118
+
+Artículo 118.
+1. El Presidente inmediatamente después del cierre de la votación procederá a iniciar el escrutinio, extrayendo de la urna, uno por uno, los sobres. Abriéndolos leerá en voz alta la denominación de la candidatura votada. El Presidente mostrará la papeleta a los Vocales, a los Interventores y a los Apoderados presentes.
+2. El escrutinio debe desarrollarse sin interrupción.
+El lugar en el que se efectúa deberá estar dispuesto de tal manera que los presentes puedan circular alrededor.
+3. Al finalizar el recuento se confrontará el número total de sobres extraídos de la urna con el de votantes registrados en la lista numerada de la Mesa electoral.
+4. En todo momento del escrutinio, si algún notario en ejercicio de sus funciones, representante o miembro de una candidatura, tuviera dudas sobre el contenido de la papeleta leída por el Presidente, podrá examinarla.
+5. Finalizado el recuento de votos, el Presidente preguntará si hay alguna protesta al escrutinio. Las protestas se resolverán por mayoría de la Mesa.
+
+### Artículo 119
+
+Artículo 119.
+1. El Presidente anunciará en alta voz el resultado del escrutinio dando los siguientes datos:
+a) Número de electores que consten en el Censo Electoral de la Mesa.
+b) Número de votantes registrados en la Lista Numerada de la Mesa.
+c) Número de votos nulos.
+d) Número total de votos válidos emitidos.
+e) Número de votos en blanco.
+f) Número de votos de cada candidatura.
+2. Inmediatamente de realizada esta operación, y previamente a realizar los actos a que se refieren los artículos siguientes, la Mesa elaborará una Notificación Provisional del escrutinio que será entregada a la persona designada por la Administración vasca, previa acreditación de su representación, a los solos efectos de la información pública provisional de los resultados para el Gobierno Vasco.
+Idéntica Notificación se fijará sin demora en la entrada del local, debiéndose entregar otra, finalmente, a los Interventores, Apoderados o candidatos que la reclamen. No se expedirá más de una Notificación por candidatura.
+
+### Artículo 120
+
+Artículo 120.
+1. Concluidas las operaciones anteriores, el Presidente, los Vocales y los Interventores de la Mesa firmarán el Acta de la Sesión, en la cual se expresarán detalladamente los siguientes extremos:
+a) Número de electores que consten en el Censo Electoral de la Mesa.
+b) Número de votantes registrados en la Lista Numerada de la Mesa.
+c) Número de votos nulos.
+d) Número total de votos válidos emitidos.
+e) Número de votos en blanco.
+f) Número de votos de cada candidatura.
+g) Número de los Interventores que hubieren votado no figurando en la lista de la Sección.
+h) Consignación sumaria de las protestas y reclamaciones formuladas, con determinación de la persona que las hizo.
+i) Resoluciones motivadas de la Mesa sobre las protestas y reclamaciones formuladas y votos particulares, si los hubiere.
+j) Consignación del número de sobres extraídos de la urna y el de votantes registrados, cuando ambos no coincidan.
+k) Consignación de cualquier incidente o incidencia que sea de interés.
+l) Número de certificaciones censales específicas aportadas, que sean altas en el censo electoral.
+m) Número de sentencias judiciales aportadas.
+2. Todos los representantes y miembros de las candidaturas, así como Apoderados e Interventores, tendrán derecho a que se les expida gratuita e inmediatamente certificación del Acta de la Sesión o de cualquier extremo de ella, no pudiendo las Mesas excusarse del cumplimiento de esa obligación.
+3. Las papeletas a las que se hubiere negado validez o las que hubieren sido objeto de reclamación o duda se incorporarán al Acta, rubricadas por los miembros de la Mesa, y se archivarán con el Acta. El resto de las papeletas serán destruidas por cualquier medio en presencia de los concurrentes.
+4. Igualmente se adjuntarán al Acta de la Sesión las hojas talonarias de designación de Interventores recibidas por el Presidente y, en su defecto, las credenciales entregadas por los Interventores.
+Se añaden los apartados 1.l) y 1m) por el art. 1.35 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 121
+
+Artículo 121.
+Con posterioridad, la Mesa procederá a la preparación de la documentación electoral, que se distribuirá en cuatro sobres separados de la siguiente forma:
+a) El sobre número uno contendrá los siguientes documentos:
+– Original del Acta de Constitución de la Mesa.
+– Original del Acta de la Sesión.
+– Lista certificada del Censo Electoral.
+– Lista numerada de votantes.
+– Papeletas de votación reservadas según lo dispuesto en el artículo 120.3.
+b) Los sobres números dos, tres y cuatro contendrán la siguiente documentación:
+– Copia literal del Acta de Constitución de la Mesa.
+– Copia literal del Acta de la Sesión.
+Ambas copias estarán firmadas por el Presidente, los Vocales y los Interventores presentes.
+c) Una vez cerrados todos los sobres, el Presidente, los Vocales y los Interventores presentes firmarán en ellos, de forma que crucen la parte del cierre.
+
+### Artículo 122
+
+Artículo 122.
+1. Cumplimentada la documentación anterior, el Presidente y los Vocales, así como los Interventores que lo deseen, se desplazarán inmediatamente a la Sede del Juzgado de Primera Instancia o de Paz para hacer entrega de los cuatro sobres.
+2. El Juez de Primera Instancia o de Paz procederá a la identificación del Presidente, Vocales e Interventores mediante la presentación del Documento Nacional de Identidad y de los documentos acreditativos de su condición de miembros de la Mesa. Cumplido este requisito, el Juez pondrá su firma en los sobres, de forma que cruce la parte del cierre.
+El Juez extenderá al Presidente de la Mesa recibo de la documentación entregada, en la que se hará mención del día y de la hora en que se produjo la entrega.
+
+### Artículo 123
+
+Artículo 123.
+1. La Junta Electoral de Territorio Histórico, reunida al efecto siete días antes de la celebración de la votación, designará un mínimo de cinco funcionarios de la Administración de Justicia, al efecto de realizar las funciones que se les asignan en el presente artículo.
+2. Los citados funcionarios, acompañados por dos miembros de la Ertzaintza y en coche patrulla de la misma, repartidos por zonas según criterio que determine la Junta Electoral de Territorio Histórico, recorrerán todos los municipios de la circunscripción electoral recogiendo los sobres que obren en poder del Juez respectivo.
+El funcionario de la Administración de Justicia extenderá al Juez un recibo de la documentación entregada, previa comprobación de que externamente se encuentra en orden.
+3. La Junta Electoral de Territorio Histórico, previa reunión a efectos de coordinación con el responsable o responsables del Departamento de Interior del Gobierno Vasco, fijará el número de patrullas, la adscripción de los funcionarios a las mismas y el itinerario que han de seguir para recoger la documentación electoral.
+4. La recogida de documentación electoral tendrá lugar a partir de las nueve horas del día siguiente a la celebración de las elecciones.
+5. Desde la entrega de la documentación electoral al Juez hasta la recogida de ésta por los compromisarios de la Junta, aquél será responsable de la custodia y posterior entrega de la misma.
+6. El Juez de Primera Instancia o de Paz hará entrega al funcionario de la Administración de Justicia de los sobres números uno, dos y tres, quedando archivado el sobre número cuatro en el Juzgado de Primera Instancia o de Paz correspondiente.
+7. Una vez recogidos los sobres, el funcionario de la Administración de Justicia, acompañado siempre por dos miembros de la Ertzaintza, se dirigirá al local de la Junta Electoral de Territorio Histórico donde hará entrega de la documentación recibida.
+8. Los sobres números uno y dos se quedarán en la Junta Electoral de Territorio Histórico, y el número tres se remitirá por ésta inmediatamente, adoptando las medidas que estime oportunas, al Departamento de Interior del Gobierno Vasco a efectos de su conocimiento e información del desarrollo del acto de votación.
+
+## CAPÍTULO VIII
+
+Escrutinio general
+
+### Artículo 124
+
+Artículo 124.
+1. El acto de escrutinio general se verificará por la Junta Electoral de Territorio Histórico el quinto día hábil siguiente al de la votación y deberá concluir no más tarde del noveno día posterior a las elecciones.
+2. El escrutinio general es un acto único y será público.
+
+### Artículo 124 bis
+
+Artículo 124 bis.
+1. El día del escrutinio general, y antes de proceder al mismo, cada junta electoral de territorio histórico se constituirá en mesa electoral, a las ocho horas de la mañana, con los interventores e interventoras que a tal efecto designen las candidaturas concurrentes.
+2. A continuación, la presidencia de la citada junta electoral introducirá en la urna o urnas los sobres de votación de las personas residentes ausentes que viven en el extranjero recibidos hasta ese día, y la secretaria o secretario anotará los nombres de las personas votantes en la correspondiente lista.
+3. Acto seguido, la junta escrutará todos estos votos e incorporará los resultados al escrutinio general.
+Se modifica por el art. único.44 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 125
+
+Artículo 125.
+1. Cada Junta Electoral de Territorio Histórico se reúne, con los representantes de las candidaturas o sus Apoderados que se presenten, en la sede del local donde ejerce sus funciones el Secretario. El Presidente extiende el Acta de Constitución de la Junta, firmada por él mismo, los Vocales y el Secretario, así como por los representantes de las candidaturas o sus Apoderados debidamente acreditados.
+2. Para la realización del escrutinio general deberán estar presentes, al menos, el Presidente y la mitad más uno de los Vocales.
+3. En el caso de que no se cumpliera el quórum anterior se demorará el escrutinio por dos horas, y si tampoco existiere el número exigido el Presidente convocará la sesión para el siguiente día hábil, notificándolo así a los presentes y a la Junta Electoral de Comunidad Autónoma.
+4. La nueva sesión tendrá lugar sea cual fuere el número de miembros de la Junta asistentes.
+5. Ambas sesiones comenzarán a las diez horas de la mañana.
+Se añade nuevo apartado pasando a cambiar la enumeración por el art. 1.36 y 37 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 126
+
+Artículo 126.
+1. El escrutinio general se realizará Mesa por Mesa.
+2. Primero se examinará la integridad de los sobres número uno pertenecientes a las Mesas antes de proceder a su apertura. Con posterioridad, se procederá a la apertura de los sobres Mesa por Mesa, supervisando si contienen toda la documentación exigida. Si faltase el sobre número uno de alguna Mesa o si su contenido fuera incompleto, se suplirá con el sobre número dos correspondiente.
+3. Si faltase el Acta de alguna sesión, podrá suplirse con el certificado de la misma que presente en forma un representante de candidatura o apoderado suyo, remitiéndose acto seguido oficio al Juez donde estaba ubicada la Mesa, al efecto de que presente, en el plazo más breve de tiempo, el sobre número cuatro de documentación que se le entregó, para comprobar si el Acta de Sesión que contiene se adecua a la presentada por algún representante de candidatura o para suplir este defecto. Si se presentasen certificados contradictorios por parte de los representantes o apoderados, no se computará ninguno de ellos, consignándose en el Acta la diferente votación de cada uno. En cualquier caso, el cómputo de esos votos será provisional hasta que se acredite fehacientemente que la documentación se ajusta a lo previsto en la Ley.
+4. El Secretario dará cuenta de los resúmenes de votación de cada Mesa.
+5. Uno de los Vocales de la Junta tomará las anotaciones pertinentes para el cómputo global de votos y el ulterior reparto de escaños.
+6. A medida que se vayan examinando las actas, los representantes de las candidaturas o sus apoderados no podrán presentar reclamación ni protesta alguna, excepto aquellas observaciones puntuales que se refieran a la exactitud de los datos leídos.
+7. La Junta no podrá anular ningún Acta ni voto. Sus atribuciones se limitarán a verificar el recuento de los votos admitidos en cada Mesa, según se derive de las resoluciones de las Mesas y así obren en las Actas o, en su defecto, en los certificados de dichas Actas, salvo en los casos previstos en el artículo siguiente, pudiendo tan sólo subsanar los meros errores materiales o de hecho y los aritméticos.
+Se modifica el apartado 7 por el art. 1.38 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 127
+
+Artículo 127.
+1. Si existieran actas dobles y diferentes en alguna Mesa, firmadas y rubricadas por los componentes de la misma, la Junta no hará cómputo alguno de ellas.
+2. La Junta tampoco computará los votos en el caso de que éstos excedan del número de electores asignados a la Mesa por el censo electoral, incrementado en su caso por las certificaciones censales o sentencias judiciales aportadas, con la excepción del voto emitido por los Interventores y salvo que existiera error material o de hecho o aritmético, en cuyo caso procederá a su subsanación.
+3. El escrutinio no se interrumpirá salvo transcurridas diez horas de sesión, en cuyo caso habrá de finalizarse el cómputo de los votos de la Sección que en ese momento se esté examinando. La continuación del escrutinio tendrá lugar el día siguiente a la hora que determine el Presidente.
+Se modifica el apartado 2 por el art. 1.39 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 128
+
+Artículo 128.
+1. Finalizado el escrutinio general, la Junta Electoral de Territorio Histórico extenderá un Acta de Escrutinio de la circunscripción electoral correspondiente, que contendrá mención expresa de los datos siguientes:
+a) Número de electores que haya en las Mesas según las listas del censo electoral.
+b) Número de certificaciones censales específicas aportadas que sean altas en el censo electoral.
+c) Número de sentencias judiciales aportadas.
+d) Número de votantes.
+e) Número de votos nulos.
+f) Número de votos en blanco.
+g) Número de votos obtenidos por cada candidatura.
+1.bis. El acta de escrutinio de la circunscripción electoral correspondiente será entregada en soporte digital a los representantes de las candidaturas ante la junta electoral de territorio histórico.
+2. Concluida la operación anterior, se extenderá también un Acta de la Sesión, en la que se hará constar todas las incidencias acaecidas durante el escrutinio general. El Acta de Sesión y la de Escrutinio serán firmadas por el Presidente, los Vocales y el Secretario de la Junta Electoral y por los representantes de las candidaturas o sus Apoderados debidamente acreditados.
+3. Una vez concluido el escrutinio, los representantes y sus Apoderados dispondrán de un plazo de un día para presentar las reclamaciones y protestas, que sólo podrán referirse a incidencias recogidas en las Actas de la Sesión de las Mesas Electorales o en el Acta de la Sesión del escrutinio general de la Junta Electoral. La Junta Electoral de Territorio Histórico resolverá sobre las mismas en el plazo de dos días.
+4. La resolución a que hace referencia al apartado anterior podrá ser recurrida por los representantes de las candidaturas o sus Apoderados ante la propia Junta Electoral de Territorio Histórico en el plazo de un día. Al día siguiente de haberse interpuesto un recurso, la Junta Electoral remitirá el expediente, con su informe, a la Junta Electoral de la Comunidad Autónoma. La resolución que ordena la remisión se notificará, inmediatamente después de su cumplimento, a los representantes de las candidaturas concurrentes en la circunscripción, emplazándoles para que puedan comparecer ante la Junta Electoral de la Comunidad Autónoma dentro del día siguiente. La Junta Electoral de la Comunidad Autónoma, previa audiencia de las partes por plazo no superior a dos días, resolverá el recurso dentro del día siguiente, dando traslado de dicha resolución a la Junta Electoral de Territorio Histórico correspondiente, para que efectúe la proclamación de electos.
+Se añade el apartado 1.bis por el art. único.45 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Redactado conforme a la corrección de errores publicada en el BOPV núm. 13, de 21 de enero de 2016.
+ Se modifica por el art. 1.40 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 129
+
+Artículo 129.
+1. Transcurridos los plazos previstos en los párrafos tercero y cuarto del artículo anterior sin que se produzcan reclamaciones o protestas contra el escrutinio general, o resueltas las mismas por la Junta Electoral de Comunidad Autónoma, las Juntas Electorales de Territorio Histórico realizarán la proclamación de electos, no más tarde del día vigésimo posterior a las elecciones, procediendo al reparto de escaños por candidatura según las reglas de atribución previstas en los artículos 11 y 12 de la presente Ley.»
+2. La Junta Electoral de Territorio Histórico, finalizadas las operaciones anteriores, extenderá un Acta de Proclamación por duplicado, que suscribirán el Presidente y el Secretario, así como los representantes de las candidaturas presentes en el acto o sus Apoderados.
+3. Uno de los ejemplares del Acta quedará archivado en la Junta Electoral con el expediente abierto al efecto, remitiéndose el original a la Junta Electoral de la Comunidad Autónoma.
+4. El Acta de Proclamación contendrá los siguientes datos:
+a) Número de electores.
+b) Número de votantes.
+c) Número de votos nulos.
+d) Número de votos válidos.
+e) Número de votos en blanco.
+f) Número total de votos a las candidaturas.
+g) Número de votos y escaños obtenidos por cada candidatura.
+h) Relación nominal de electos proclamados.
+5. En el Acta de Proclamación se harán constar tanto las reclamaciones como las protestas producidas y las resoluciones adoptadas sobre ellas, el recurso ante la Junta Electoral de Comunidad Autónoma, si lo hubiere, y su correspondiente resolución.
+6. Del acta de proclamación se expedirán copias certificadas en soporte papel y en formato digital a los representantes de las candidaturas o a sus apoderados y apoderadas o interventoras e interventores que lo soliciten. No se podrá expedir más de un acta o certificación por candidatura.
+7. También se expedirá a los candidatos proclamados credencial expresiva de su proclamación, que servirá para efectuar su presentación en el Parlamento.
+8. La Junta Electoral podrá acordar que dichas certificaciones y credenciales sean remitidas a los interesados, a través del representante de la candidatura, dentro de las cuarenta y ocho horas siguientes al acto de escrutinio general.
+9. Asimismo, la junta expedirá copia del acta al representante de la Administración vasca presente en el acto, a los simples efectos de conocimiento e información y difusión pública.
+Se modifican los apartados 6 y 9 por el art. único.46 y 47 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica por el art. 1.41, 42 y 43 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 130
+
+Artículo 130.
+Inmediatamente, la presidencia de la Junta Electoral de la Comunidad Autónoma remitirá al Parlamento la relación de parlamentarias y parlamentarios proclamados en las circunscripciones electorales de la Comunidad Autónoma.
+Se modifica por el art. único.48 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 131
+
+Artículo 131.
+1. La Junta Electoral de la Comunidad Autónoma deberá publicar en el "Boletín Oficial del País Vascoˮ, en el plazo de siete días después de efectuada la proclamación de electos y electas, los resultados de cada candidatura por territorio histórico, junto con los escaños adjudicados en su caso. Asimismo, se deberán publicar en dicho boletín oficial los resultados generales obtenidos por cada candidatura en el conjunto de la Comunidad Autónoma, así como el total de escaños adjudicados en su caso a cada una de ellas, todo ello sin perjuicio de los recursos contenciosos electorales contra la proclamación de electos.
+2. Cada junta electoral de territorio histórico deberá publicar en el boletín oficial del territorio histórico respectivo, en el plazo de siete días después de efectuada la proclamación de electos y electas, los resultados de cada candidatura por municipios y por territorio histórico, así como los escaños adjudicados en su caso a cada una de ellas, todo ello sin perjuicio de los recursos contencioso electorales contra la proclamación de electos.
+Se modifica por el art. único.49 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+## CAPÍTULO IX
+
+Infracciones electorales
+
+### Artículo 132
+
+Artículo 132.
+Toda infracción de las normas electorales imperativas y prohibitivas que no constituya delito será sancionada por la junta electoral competente, de conformidad con lo previsto en los artículos 29.j y 30.1.d de la presente ley. La multa será de 300 a 3.000 euros si se trata de autoridades o personal funcionario y de 100 a 1.000 euros si se realiza por particulares, salvo que en esta ley se establezca una cuantía superior.
+Se modifica por el art. único. 50 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica por el art. 1.44 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### CAPITULO X
+
+Procedimiento de la votación electrónica.
+
+### Artículo 132 bis
+
+Artículo 132 bis. Elementos del voto electrónico, atribuciones de las Juntas Generales y del Gobierno Vasco y participación de los partidos, federaciones, coaliciones y agrupaciones.
+I. El sistema de voto electrónico incluye los siguientes elementos:
+a) La tarjeta con banda magnética de votación.
+b) La urna electrónica.
+c) La pantalla de votar.
+d) La cabina electoral.
+e) El software o programa informático electoral.
+II.
+1. El software electoral de la urna electrónica y de la pantalla de votar es el conjunto de programas informáticos que permiten realizar, conforme a lo previsto en la presente Ley, la apertura y cierre de la urna, la votación con tarjetas con banda magnética validadas por la Mesa, el control del número de tarjetas con banda magnética registradas en la urna, el escrutinio y la transmisión de los resultados electorales de la Mesa.
+2. Además, para cada circunscripción electoral el software electoral deberá contener los datos referentes a las especificaciones siguientes:
+a) Fecha del proceso electoral.
+b) Denominación y, en su caso, sigla y símbolo de cada candidatura proclamada, así como la opción de voto en blanco y de voto nulo, en el orden y modo indicado en el artículo 132 quáter.I.2 de esta Ley.
+c) Nombres de los candidatos según el orden de colocación establecido en la candidatura proclamada, sin incluir los suplentes.
+3. Asimismo, para las Mesas Electorales contendrá la identificación y ubicación de cada una de ellas, mediante las indicaciones siguientes: Territorio Histórico, Municipio, Distrito, Sección y Mesa, así como los términos referentes al número total de electores, número de votantes, número de votos nulos, número de votos en blanco y número de votos obtenidos por cada candidatura, según el orden de proclamación, figurando la denominación y siglas de cada una.
+III.
+1. En aras de garantizar en el software electoral del voto electrónico la transparencia y objetividad de la votación y del escrutinio de cada Mesa Electoral, corresponderá a la Junta Electoral de la Comunidad Autónoma:
+a) Aprobar la validez de funcionamiento del software electoral citado en el artículo 132 Septies I.a) de esta Ley, en lo concerniente a las especificaciones previstas en el anterior artículo 132 bis.II.1 y 3.
+b) Elaborar para cada una de las Mesas Electorales la personalización del software electoral aprobado, señalado en la letra anterior.
+c) Garantizar la disponibilidad y entrega a las Juntas Electorales de Zona y a las Mesas del software electoral personalizado referido anteriormente, en soporte magnético y en número de copias suficientes, a fin de que se cumpla lo previsto en el artículo 132 ter.II.1 de la presente Ley.
+d) Recepcionar después de las elecciones los soportes magnéticos del software electoral, garantizando la destrucción final de los mismos.
+e) Las demás funciones que le encomiende la Ley u otro tipo de disposiciones en materia de software electoral.
+2. Las Juntas Electorales de Territorio Histórico aprobarán la validez del software electoral correspondiente a su circunscripción, en lo que concierne a las especificaciones previstas en el artículo 132 bis.II.2 de la presente Ley, así como el modelo oficial de tarjeta con banda magnética de votación, de acuerdo con los criterios fijados en el Decreto señalado en el apartado IV, siguiente.
+3. Para llevar a cabo las funciones descritas en los números 1 y 2 anteriores, las Juntas Electorales contarán con el auxilio del Servicio Informático del Parlamento Vasco, como órgano de apoyo y asesoramiento.
+A tal fin, en la Junta Electoral de la Comunidad Autónoma participará en sus reuniones, con voz y sin voto, el responsable del Servicio Informático del Parlamento Vasco. Asimismo, las Juntas Electorales de Territorio Histórico podrán solicitar cuando lo consideren oportuno la participación en sus reuniones, con voz y sin voto, del responsable del Servicio antes citado, o en su defecto de la persona en quien delegue.
+4. El representante general de cada candidatura proclamada, por sí mismo o mediante un representante experto en informática nombrado por él, podrá recabar de la Junta Electoral de la Comunidad Autónoma, con carácter previo a su aprobación definitiva, información sobre el correcto funcionamiento del software electoral regulado en el artículo 132 bis.II de esta ley. Dicha Junta Electoral determinará el procedimiento adecuado al efecto.
+IV.
+1. El Gobierno Vasco, mediante Decreto, determinará el modelo oficial, las características técnicas y condiciones generales de homologación y entrega a que habrán de ajustarse todos los elementos citados en el apartado I de este artículo y dispositivos de equipamiento necesarios para la votación electrónica, fijando aquellos de que deban disponer las Mesas Electorales, de tal modo que cumplan los requisitos de fiabilidad, seguridad y secreto del voto establecidos en esta ley.
+Asimismo, en el Decreto se establecerán las características de las cabinas electorales y los modelos, condiciones de impresión, confección y entrega de la documentación electoral prevista en esta ley.
+2. Corresponderá al Gobierno, a través del Departamento de Interior, asegurar la disponibilidad y entrega de la urna electrónica, de la pantalla de votar y de la cabina electoral en cada Mesa Electoral, al menos una hora antes del momento en que deba iniciarse la votación.
+3. El Departamento de Interior confeccionará y distribuirá con carácter exclusivo las tarjetas con banda magnética de votación, la documentación electoral y cualquier otro elemento necesario, excepción hecha del software electoral, en el momento y en las condiciones que fije el Decreto citado en el número 1 anterior, asegurando su entrega a las Juntas Electorales de Zona para su posterior envío a las Mesas Electorales.
+V. El texto de los mensajes contenidos en el software electoral de la urna electrónica y de las pantallas de votar de una Mesa Electoral, así como en la documentación electoral, figurará en las dos lenguas oficiales de la Comunidad Autónoma.
+Se añade por el art. 2 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 132 ter
+
+Artículo 132 ter. Medios materiales de las Mesas y operaciones previas a la votación electrónica.
+I.
+1. A los efectos de lo previsto en este precepto y en los artículos 38.1, 132 quáter y 132 quinques de la Ley 5/1990, de Elecciones al Parlamento Vasco, se entenderá como local electoral el recinto reservado en un Colegio Electoral donde se ubica solamente una Mesa Electoral.
+2. Cada Mesa Electoral tendrá dos urnas, una electrónica y otra para el voto por correo con papeletas y sobres de votación, y al menos una cabina electoral o, en su defecto, un espacio reservado que permita al elector aislarse, equipados con una pantalla de votar.
+3. La Mesa Electoral deberá disponer, además de todos los elementos y dispositivos de equipamiento necesarios para realizar la votación electrónica, de las actas y demás documentación que se precise, así como de la lista certificada del censo electoral.
+4. Si faltase cualquiera de estos medios en el local electoral, a la hora señalada para la constitución de la Mesa o en cualquier momento posterior, el Presidente de la Mesa lo comunicará inmediatamente a la Junta de Zona, que proveerá su suministro.
+5. A los meros efectos informativos, cada Colegio Electoral tendrá a la vista de los electores un ejemplar del Boletín Oficial con las listas de las candidaturas y los candidatos proclamados en la circunscripción electoral correspondiente.
+II.
+1. Antes del comienzo de la votación, el Presidente de cada Mesa Electoral recibirá el software electoral y los elementos necesarios para realizar la apertura de la votación electrónica, en un sobre precintado que llevará impresa la identificación de la Mesa correspondiente y será entregado contra recibo del Presidente de la Mesa.
+Si, a pesar de la falta de algún elemento, se pudiera iniciar la votación, el Presidente dará comienzo a la misma, debiendo comunicar esta circunstancia a la Junta Electoral de Zona para que provea su reposición.
+2. Acto seguido, el Presidente de la Mesa abrirá la urna electrónica y comprobará que el recipiente de la urna destinado a contener las tarjetas con banda magnética está vacío, precintando o bloqueando el dispositivo de apertura de la urna.
+3. A continuación, el Presidente realizará las operaciones de apertura activando la urna electrónica y las pantallas de votar, quedando todo disponible para el inicio de la votación.
+Se añade por el art. 2 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 132 quáter
+
+Artículo 132 quáter. Votación electrónica.
+I.
+1. Los electores se acercarán uno por uno a la Mesa Electoral que les corresponda y uno de los Vocales de la Mesa les entregará una tarjeta con banda magnética de votación validada.
+2. A continuación, el elector deberá entrar en la cabina electoral e introducir en la pantalla de votar la tarjeta con banda magnética de votación, para efectuar la selección de la opción deseada. A estos efectos, figurarán las denominaciones, siglas y símbolos de las candidaturas en la circunscripción electoral correspondiente, colocadas por filas de izquierda a derecha según el orden de proclamación de las mismas, así como la opción de voto en blanco y de voto nulo en últimos lugares.
+3. Inmediatamente de realizada la selección, la pantalla de votar mostrará, en su caso, la candidatura escogida con sus candidatos proclamados y el elector deberá confirmar su opción elegida. Caso de no desear confirmarla, el elector tendrá la posibilidad de realizar una nueva selección.
+Una vez confirmada su elección, la opción de voto elegida se grabará en la tarjeta con banda magnética, quedando ésta liberada de la pantalla de votar para ser recogida por el elector.
+4. Seguidamente, el elector deberá dirigirse a la urna electrónica manifestando al Presidente de la Mesa su nombre y apellidos. Los Vocales y los Interventores podrán examinar el ejemplar certificado de la lista del censo o las certificaciones censales aportadas, comprobando si figura el nombre del votante y su identidad, que se justificará mediante la exhibición del documento nacional de identidad o de alguno de los documentos previstos en el artículo 105 de la Ley 5/1990, de Elecciones al Parlamento Vasco.
+5. Acto seguido, el elector, por su propia mano, entregará la tarjeta con banda magnética de votación al Presidente de la Mesa, quien a la vista del público dirá "botoa ematen du", o bien "vota", e introducirá la tarjeta con banda magnética en la urna electrónica, donde permanecerá tras el registro de la información que lleva en el software electoral en soporte magnético. La secuencia de estos registros se determina por un procedimiento aleatorio.
+6. Depositada la tarjeta con banda magnética en la urna, los Vocales anotarán en la lista certificada del censo electoral de la Mesa la circunstancia de haber votado. Todo elector tendrá derecho a examinar si ha sido correctamente anotado el hecho de haber votado, que se reflejará en la mencionada lista certificada.
+7. En un anexo a la lista certificada del censo electoral de la Mesa se anotará en su caso, a los electores que, aun no estando inscritos en el Censo de la Mesa, hayan votado en la misma, aportando certificación censal específica o sentencia judicial.
+8. Ningún elector podrá ausentarse del local de la Mesa Electoral en posesión de la tarjeta con banda magnética de votación sin contar con el permiso de la Mesa.
+II. El elector que por dificultades personales no pueda grabar su voto en la tarjeta con banda magnética de votación o entregar dicha tarjeta al Presidente de la Mesa podrá servirse de una persona de su confianza, en los casos siguientes:
+a) Cuando no supiera leer.
+b) Cuando por limitación física estuviera impedido para realizar alguna de las operaciones del voto electrónico.
+c) Cuando sea mayor de setenta años.
+No obstante, la citada persona de confianza que ayude a un elector no podrá auxiliar, salvo a consanguíneos en línea recta de primer grado y colaterales de segundo grado, a ningún otro ni en la misma ni en ninguna otra Mesa Electoral.
+III.
+1. Cuando el Presidente de la Mesa advierta la falta o no funcionamiento de las tarjetas con banda magnética de votación o de alguno de los elementos e instrumentos del voto electrónico previstos en el artículo 132 bis.I de esta Ley requerirá la presencia del responsable del mantenimiento de material del voto electrónico designado a tal efecto, para que, una vez analizada la situación, y oída la opinión del referido técnico, el Presidente decida si se puede continuar la votación mientras se subsana el problema o, por el contrario, interrumpir la votación. En tal caso, dará cuenta a la Junta Electoral de Zona de su decisión para que ésta provea su suministro o subsanación. La votación se reanudará a continuación, prorrogándose ésta según la duración de la interrupción en el tiempo que decida el Presidente, oída la Mesa. En todo caso, la prórroga se hará pública en la entrada del local de la Mesa.
+2. Cuando la anomalía sea debida al no funcionamiento del software electoral en soporte magnético introducido en la urna y deba reinicializarse la urna electrónica, se realizarán las operaciones de vaciado y extracción de las tarjetas con banda magnética de votación existentes en el recipiente de la urna hasta el momento de la interrupción de la votación, para la introducción y nuevo registro de las mismas en la urna. Por último, el Presidente de la Mesa ordenará la reanudación de la votación, según lo señalado en el número anterior.
+IV. Si se suspendiera la votación, el Presidente de la Mesa no podrá realizar el escrutinio, procediendo a la destrucción de todas las tarjetas con banda magnética contenidas o no en el recipiente de la urna y extrayendo de la misma el software electoral en soporte magnético, que, junto con el resto del material y documentación electoral, deberá ser remitido a la Junta Electoral de Territorio Histórico correspondiente.
+V. Si por cualquier motivo a un elector le resulta imposible el registro por la pantalla de votar o por la urna electrónica de la Mesa de una tarjeta con banda magnética de votación, la Mesa destruirá la misma en el acto, e invitará al elector a repetir de nuevo su voto mediante la entrega de una nueva tarjeta validada.
+VI.
+1. Si durante el trámite de votación los miembros de la Mesa observan mala fe por parte del elector que no ejerce su derecho al voto, a pesar de la reiterada entrega por la Mesa de nuevas tarjetas con banda magnética de votación validadas, el Presidente de la Mesa tomará todas las medidas que estime convenientes para impedir actuaciones que persigan poner impedimento o entorpecer el normal desarrollo de la votación. En este caso, las tarjetas con banda magnética de votación entregadas al elector y no utilizadas deberán ser inmediatamente destruidas por la Mesa.
+2. En el caso de que un elector, una vez recibida de la Mesa la tarjeta con banda magnética de votación, decida voluntariamente no ejercer el derecho de sufragio, lo comunicará al Presidente, que le pedirá la devolución de la referida tarjeta que será destruida en el acto por la Mesa.
+VII.
+1. Finalizada la votación pública, el Presidente procederá a introducir en la urna dispuesta para el voto por correo los sobres que contengan las papeletas de votación.
+2. Una vez terminada la introducción de los sobres de votación, el Presidente de la Mesa extraerá de la urna uno a uno dichos sobres. Abriéndolos leerá en voz alta la denominación de la candidatura votada, mostrando la papeleta a los Vocales, a los Interventores y a los Apoderados presentes.
+3. A continuación, el Presidente anunciará en voz alta el número total de sobres de votación extraídos de la urna, a fin de que uno de los Vocales de la Mesa entregue al Presidente un número de tarjetas con banda magnética de votación validadas igual al número antes anunciado.
+4. Acto seguido, el Presidente, en presencia de los Vocales, de los Interventores y de los Apoderados concurrentes, grabará en la pantalla de votar la tarjeta con banda magnética con la opción contenida en cada papeleta de votación. Seguidamente, introducirá dicha tarjeta grabada en la urna electrónica, procediendo a continuación a destruir la papeleta de votación correspondiente, salvo las declaradas nulas de acuerdo con el número 5 siguiente. Estas operaciones se realizarán sucesivamente con cada una de las tarjetas y de las papeletas del voto por correo.
+5. Las papeletas que fueran declaradas nulas por la Mesa, según lo dispuesto en el artículo 115 de la Ley 5/1990, de Elecciones al Parlamento Vasco, habrán de ser rubricadas por los miembros de la Mesa y archivadas en el Acta de la Sesión junto con el resto de la documentación electoral de la Mesa.
+VIII. Una vez efectuadas las operaciones anteriores, podrán votar los Interventores, especificándose en un anexo a la lista certificada del censo electoral el nombre y apellidos y su condición de interventores, siempre que no figuren inscritos como electores en el censo de la Mesa. Seguidamente podrán votar los miembros de la Mesa, y el Presidente votará en último lugar. La tarjeta con banda magnética de votación del Presidente la introducirá en la urna uno de los Vocales.
+Se añade por el art. 2 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 132 quinques
+
+Artículo 132 quinques. Escrutinio electrónico en las Mesas Electorales y escrutinio general.
+I. Será voto nulo:
+a) El voto emitido en tarjeta con banda magnética grabada con la opción de voto nulo.
+b) El voto emitido en tarjeta con banda magnética sin tener grabada opción alguna, por no haber sido utilizada la misma en la pantalla de votar.
+II.
+1. Será voto en blanco:
+a) El voto emitido en tarjeta con banda magnética grabada con la opción de voto en blanco.
+b) El voto emitido en tarjeta con banda magnética grabada con la opción correspondiente a una candidatura legalmente retirada de la circunscripción electoral.
+2. En el escrutinio de la Mesa, los votos emitidos a favor de una candidatura legalmente retirada se computarán automáticamente a dicha candidatura retirada y de la misma forma figurarán en el Acta de Escrutinio de la Mesa. Posteriormente, en el Escrutinio General, la Junta Electoral de Territorio Histórico correspondiente considerará dichos votos como votos en blanco.
+III.
+1. El Presidente, inmediatamente después de la votación de los miembros de la Mesa, dará por finalizada la votación, precintando la ranura de la urna electrónica que quedará inoperativa para posteriores votos.
+2. Acto seguido, el Presidente realizará sin interrupción las operaciones de cierre y cómputo de todos los votos registrados en la urna electrónica para obtener el escrutinio electoral de la Mesa.
+3. El Presidente leerá en alta voz de la pantalla de la urna electrónica el resultado del escrutinio de la votación, dando los siguientes datos:
+a) Número de electores que consten en el censo electoral de la Mesa, según la Delegación de la Oficina del Censo Electoral.
+b) Número de votantes registrados en la urna electrónica.
+c) Número de votos nulos.
+d) Número de votos en blanco.
+e) Número de votos a cada candidatura.
+4. A continuación, el Presidente cumplimentará el impreso del Acta de Escrutinio de la Mesa, copiando de la pantalla los datos antes mencionados. Se verificará que los datos copiados han sido correctamente transcritos.
+5. A los solos efectos de la información pública provisional de los resultados de las elecciones, estos datos serán transmitidos al Gobierno Vasco, y en ningún caso se posibilitará la comunicación de datos entre la Mesa Electoral correspondiente y el ordenador central antes de finalizar el escrutinio. Asimismo, dichos datos se pondrán a disposición de los partidos, federaciones, coaliciones y agrupaciones electorales con representación parlamentaria, con la máxima celeridad y transparencia. A tal efecto, el Gobierno Vasco instalará los correspondientes terminales en las sedes de éstos.
+6. Seguidamente, el Presidente preguntará si hay alguna protesta o reclamación contra el escrutinio, consignándose las mismas en el Acta de la Sesión. Finalmente, el Presidente, los Vocales y los Interventores de la Mesa firmarán el Acta de Escrutinio.
+7. Inmediatamente de realizada esta operación, se fijará sin demora una copia del Acta de Escrutinio en la entrada del local. Idéntica copia será entregada a la persona designada por la Administración vasca a los solos efectos de informar sobre los resultados de las elecciones. Asimismo, se facilitarán copias a los Interventores, Apoderados o candidatos que la reclamen. No se expedirá más de una copia por candidatura.
+IV.
+1. Si, una vez precintada la ranura de la urna electrónica e iniciadas las operaciones de escrutinio señaladas anteriormente, se produce una incidencia que impida la cumplimentación del Acta de Escrutinio de la Mesa Electoral, el Presidente, los Vocales y los Interventores y Apoderados que lo deseen deberán comunicar y trasladar inmediatamente a la Junta Electoral de Territorio Histórico correspondiente la urna electrónica ya precintada junto con la documentación electoral de la Mesa, consignando tal incidencia en el Acta de la Sesión. En este caso, el Presidente de la Mesa podrá solicitar a la Policía Autónoma vasca para que acompañe y facilite el desplazamiento, así como la custodia tanto de la urna como de la documentación electoral, hasta su entrega a la Junta Electoral.
+2. La Junta Electoral de Territorio Histórico recepcionará la urna electrónica y la documentación electoral referida, procediendo lo antes posible, en presencia de los componentes de la Mesa y de los Interventores y Apoderados que lo deseen, a realizar las operaciones necesarias a fin de obtener el escrutinio de la Mesa. Seguidamente se cumplimentará el Acta de Escrutinio de la Mesa según lo establecido en el artículo 132 quinques.III.3 y siguientes de esta Ley.
+V.
+1. Concluidas las operaciones del escrutinio antes descritas, el Presidente, los Vocales y los Interventores de la Mesa cumplimentarán y firmarán el Acta de la Sesión, en la cual se expresarán detalladamente los datos e incidencias siguientes:
+a) Número de certificaciones censales específicas aportadas, que sean altas en el censo electoral.
+b) Número de sentencias judiciales aportadas.
+c) Número de los Interventores que hubieren votado en la Mesa no figurando en las listas del censo de la misma.
+d) Consignación sumaria de las protestas y reclamaciones formuladas, con determinación de la persona que las hizo.
+e) Resoluciones motivadas de la Mesa sobre las protestas y reclamaciones formuladas y votos particulares, si los hubiere.
+f) Consignación de cualquier incidente o incidencia que sea de interés.
+2. Finalmente, todas las tarjetas con banda magnética de votación contenidas o no en el recipiente de la urna electrónica serán recogidas por el responsable del mantenimiento de material del voto electrónico, para su posterior borrado y posible reutilización, a cargo del Departamento de Interior con la supervisión del Servicio Informático del Parlamento Vasco.
+VI.
+1. El sobre de documentación electoral número uno contendrá lo siguiente:
+– El original del Acta de Constitución de la Mesa.
+– El original del Acta de Escrutinio.
+– El original del Acta de la Sesión.
+– Los soportes magnéticos del software electoral de la Mesa Electoral.
+– La lista certificada del censo electoral.
+– Las certificaciones censales y sentencias judiciales aportadas.
+– Las papeletas del voto por correo a las que se les hubiera negado validez o que hubieran sido objeto de reclamación o duda.
+– Cualquier otra documentación de la Mesa Electoral.
+2. Los sobres número dos, tres y cuatro contendrán la documentación siguiente:
+– Copia literal del Acta de Constitución de la Mesa.
+– Copia literal del Acta de Escrutinio.
+Ambas copias estarán firmadas por el Presidente, los Vocales y los Interventores presentes.
+VII. La Junta Electoral de Territorio Histórico deberá enviar los soportes magnéticos de cada Mesa Electoral contenidos en el sobre de documentación número uno al Servicio Informático del Parlamento Vasco, órgano de apoyo de la Junta Electoral de la Comunidad Autónoma, a los efectos de lo previsto en el artículo 132 bis.III.1.d) de la presente Ley. De igual manera procederán las Juntas Electorales de Zona con las copias del software electoral no utilizadas en la jornada electoral.
+VIII. Una vez examinado el contenido del sobre número uno de documentación electoral de cada Mesa, si faltase el Acta de Escrutinio de alguna Mesa, podrá suplirse con la copia del Acta de Escrutinio que presente en forma un representante de candidatura o apoderado suyo, remitiéndose acto seguido oficio al Juez donde estaba ubicada la Mesa al efecto de que presente, en el plazo más breve de tiempo, el sobre numero cuatro de documentación que se le entregó para comprobar si la copia del Acta de Escrutinio que contiene se adecua a la presentada por algún representante de candidatura o para suplir este defecto. Si se presentasen copias contradictorias por parte de los representantes o apoderados, no se computará ninguna de ellas, consignándose en el Acta de Sesión del Escrutinio General la diferente votación de cada uno. En cualquier caso, el cómputo de esos votos será provisional hasta que se acredite fehacientemente que la documentación se ajusta a lo previsto en la Ley.
+Se añade por el art. 2 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 132 sexies
+
+Artículo 132 sexies. Infracciones electorales en materia de voto electrónico.
+La Junta Electoral competente impondrá multas de 20.000 a 200.000 pesetas si se trata de autoridades o funcionarios y de 5.000 a 100.000 si se realiza por particulares, salvo que en la Ley 5/1990, de Elecciones al Parlamento Vasco, se establezca una cuantía superior, a los que realicen, sin constituir delito electoral, alguna de las siguientes infracciones relacionadas con el procedimiento del voto electrónico:
+a) La voluntaria alteración, manipulación o inutilización física o mecánica de los elementos técnicos e instrumentos electrónicos necesarios para el funcionamiento y utilización del sistema de voto electrónico.
+b) La realización de conductas dirigidas a alterar los programas electrónicos de recuento de tarjetas con banda magnética de votación en la Mesa Electoral.
+c) La fabricación, distribución, comercialización y uso indebido de tarjetas con banda magnética de votación, fuera de los supuestos expresamente autorizados por la presente Ley.
+d) La destrucción de tarjetas con banda magnética en cualquier momento de la votación y escrutinio de la Mesa, salvo lo previsto en el artículo 132 quáter, apartados IV, V y VI, de esta Ley.
+e) La sustitución de la tarjeta con banda magnética de votación validada por otra diferente de la entregada por el Presidente de la Mesa.
+f) La manipulación de la tarjeta con banda magnética de votación, ya validada, que imposibilite el voto del elector con la misma.
+g) Ausentarse del local de la Mesa Electoral en posesión de una tarjeta con banda magnética de votación validada sin permiso de la Mesa, según lo dispuesto en el artículo 132 quáter.I.8 de la presente Ley.
+h) La realización del escrutinio de la Mesa Electoral, en el caso de la suspensión de la votación de acuerdo con lo previsto en el artículo 132 quáter.IV de esta Ley, y en cualquier momento anterior a las veinte horas del día de la votación.
+Se añade por el art. 2 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 132 septies
+
+Artículo 132 septies. Últimas disposiciones.
+I. El Departamento de Interior, como órgano de la Administración de la Comunidad Autónoma competente en materia electoral, tendrá las siguientes funciones de apoyo:
+a) Elaborar y entregar a la Junta Electoral de la Comunidad Autónoma, después de la proclamación de candidatos, el software electoral del voto electrónico de cada circunscripción electoral, sin la personalización del mismo para cada una de las Mesas electorales.
+b) Informar y educar a los ciudadanos en los nuevos procedimientos de votación automatizados, con carácter previo a la convocatoria electoral.
+c) Formar a los miembros de las Mesas Electorales sobre el procedimiento de la votación electrónica. A estos efectos, dichos miembros deberán asistir a la sesión informativa que se disponga.
+II. Si se hubieren interpuesto recursos contra la proclamación de candidatos, de conformidad con lo establecido en el artículo 67 de la Ley 5/1990, de Elecciones al Parlamento Vasco, la entrega del software electoral citado en el apartado I.a) anterior se pospondrá, en la circunscripción electoral donde hubieran sido interpuestos, hasta la resolución de dichos recursos.»
+Se añade por el art. 2 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### CAPITULO XI
+
+CAPÍTULO XI
+Voto por correspondencia y de residentes en el extranjero
+Se modifica por el art. único.51 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Redactado conforme a la corrección de errores publicada en el BOPV núm. 13, de 21 de enero de 2016.
+ Se añade por el art. 3 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 132 octies
+
+Artículo 132 octies.
+1.–Los electores o electoras que prevean que en la fecha de la votación no se hallarán en la localidad donde les corresponde ejercer su derecho de voto o que no puedan personarse, pueden emitir su voto por correo, de acuerdo con lo dispuesto en los artículos 72 y 73 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+2.–Quienes se encuentren temporalmente en el extranjero entre la convocatoria de las elecciones y su celebración, pueden votar por correo, con plenas garantías, de acuerdo con lo establecido en el artículo 74 de la citada ley orgánica y con el procedimiento dispuesto en la vigente normativa electoral de desarrollo.
+Se modifica por el art. único.52 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Redactado conforme a la corrección de errores publicada en el BOPV núm. 13, de 21 de enero de 2016.
+ Se añade por el art. 3 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 132 nonies
+
+Artículo 132 nonies.
+Las personas electoras que figuran inscritas en el censo electoral de residentes ausentes que vivan en el extranjero, podrán ejercer anticipadamente el derecho de sufragio de forma presencial depositando el voto y la documentación necesaria en la urna instalada a tal efecto en las dependencias o secciones consulares, o votando por correo, de acuerdo con lo establecido en el artículo 75 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+Se añade por el art. único.53 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Redactado conforme a la corrección de errores publicada en el BOPV núm. 13, de 21 de enero de 2016.
+
+## TÍTULO VI
+
+Reglas generales de procedimiento en materia electoral y recurso contencioso electoral
+
+## CAPÍTULO I
+
+Presentación de documentos y reclamaciones electorales
+
+### Artículo 133
+
+Artículo 133.
+1. Estarán exentos del impuesto sobre actos jurídicos documentados, se extenderán en papel común y serán gratuitos:
+a) Todas las solicitudes, actas, certificaciones y diligencias referentes a la formación, revisión e inscripción en el Censo Electoral.
+b) Cuantos documentos pueda necesitar el elector para acreditar su capacidad o la capacidad o la incapacidad de otros electores, cuando en este caso ostente interés indirecto. Estos documentos no podrán tener otra aplicación, bajo pena de ser considerados los infractores como defraudadores del tributo que corresponda.
+c) Las protestas, quejas, certificaciones, instancias, solicitudes, reclamaciones y recursos y cualesquiera otros trámites y documentos electorales, así como los expedientes y actuaciones a que den lugar y su tramitación en todas las instancias, incluidos los documentos de carácter notarial.
+2. El funcionario público que deba recibir algún documento o comunicación de otro, si no lo obtuviese tan pronto como haya de llegar a su poder, dispondrá, bajo su personal responsabilidad, que inmediatamente se recoja por persona especialmente habilitada al efecto y a costa del que hubiera debido enviarlo.
+3. Las copias que deben expedirse de documentos electorales podrán realizarse por cualquier medio de reproducción mecánica, pero sólo surtirán efecto cuando en ellas se estampen las firmas y sellos exigidos para los originales.
+
+## CAPÍTULO II
+
+Procedimiento en vía administrativa
+
+### Artículo 134
+
+Artículo 134.
+1. Siempre que en esta ley no se establezca un recurso o vía de impugnación judicial y salvo lo previsto en el artículo 44.1 de esta ley, los acuerdos de las juntas electorales serán recurribles ante la junta de superior categoría, que deberá resolver durante el período electoral en el plazo de cinco días y, fuera de él en el de diez días, en ambos casos a contar desde la interposición del recurso.
+2. La interposición tendrá lugar dentro de las veinticuatro horas siguientes a la notificación del acuerdo y ante la junta que lo hubiera dictado, la cual, con su informe, habrá de remitir el expediente en el plazo de cuarenta y ocho horas a la junta que deba resolver. Contra la resolución de esta última no cabe recurso administrativo alguno.
+Se modifica por el art. único.54 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+### Artículo 135
+
+Artículo 135.
+La Ley de Procedimiento Administrativo tendrá carácter supletorio respecto de las normas de procedimiento electoral.
+
+### Artículo 136
+
+Artículo 136.
+1. Las Juntas Electorales, al resolver un recurso, no podrán agravar las sanciones impuestas por las resoluciones recurridas.
+2. Se exceptúa de lo previsto en el apartado anterior lo dispuesto en el artículo 30.1.d) de la presente Ley y el caso de recurso frente a sanciones impuestas por infracción de lo previsto en los artículos 152 y 153, cuando apareciesen nuevos ingresos no comunicados o nuevas partidas de gastos realizadas.
+Se modifica por el art. 1.45 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+## CAPÍTULO III
+
+Recurso contencioso electoral
+
+### Artículo 137
+
+Artículo 137.
+Será competente para conocer los recursos contencioso electorales, en primera y única instancia, la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia del País Vasco.
+
+## TÍTULO VII
+
+Ingresos, gastos y subvenciones electorales
+
+## CAPÍTULO I
+
+Los administradores electorales
+
+### Artículo 138
+
+Artículo 138.
+1. Toda candidatura que se presente a las elecciones al Parlamento Vasco deberá tener a nivel de territorio histórico un administrador territorial de candidatura y un suplente, responsable ante las Juntas Electorales de Territorio Histórico de sus ingresos y gastos y de su contabilidad electoral.
+2. Los partidos, federaciones o coaliciones que presenten candidatura en más de un territorio histórico deberán tener para todas ellas un administrador general electoral y un suplente.
+3. El administrador general podrá acumular esta condición con la de administrador territorial de las candidaturas que el mismo partido, federación o coalición presente en uno o más territorios históricos.
+4. El administrador territorial de la agrupación electoral o del partido político, federación o coalición que se presente a las elecciones en un solo territorio histórico deberá acumular esta condición con la de administrador general electoral.
+5. El administrador general responderá ante la Junta Electoral de la Comunidad Autónoma de todos los ingresos y gastos electorales realizadas por el partido, federación, coalición o agrupación y por todas sus candidaturas, así como de la correspondiente contabilidad que deberá contener como mínimo las especificaciones previstas en el apartado 1 del artículo 140 de la presente Ley.
+6. Los administradores territoriales de todas las candidaturas que un mismo partido, federación o coalición presente en distintos territorios históricos actuarán bajo la responsabilidad del administrador general.
+7. Los suplentes de los administradores electorales sólo podrán actuar en los casos de renuncia, ausencia, muerte o incapacidad de los citados administradores.
+Se modifica el apartado 5 por el art. 1.46 de la lEY 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 139
+
+Artículo 139.
+1. Podrá ser designado administrador electoral cualquier ciudadano, mayor de edad, en pleno uso de sus derechos civiles y políticos.
+2. Los representantes territoriales de las candidaturas y los representantes generales de los partidos, federaciones, coaliciones o agrupaciones podrán acumular la condición de administrador electoral.
+3. Los candidatos no podrán ser administradores electorales.
+4. Los administradores generales y sus suplentes deberán contar con poder bastante, otorgado por sus respectivos partidos políticos, federaciones, coaliciones o agrupaciones, y su designación será comunicada por escrito ante la Junta Electoral de la Comunidad Autónoma por sus respectivos representantes generales antes del undécimo día posterior a la convocatoria de elecciones. El mencionado escrito deberá expresar la aceptación de las personas designadas.
+5. La designación de los administradores territoriales electorales y sus suplentes será comunicada por escrito ante la Junta Electoral de Territorio Histórico correspondiente por sus respectivos representantes generales o territoriales de candidatura, en el acto de presentación de dichas candidaturas. El mencionado escrito deberá expresar la aceptación de las personas designadas. Las Juntas Electorales de Territorio Histórico comunicarán a la Junta Electoral de la Comunidad Autónoma los administradores territoriales electorales y sus suplentes designados en su circunscripción.
+
+## CAPÍTULO II
+
+Las cuentas electorales
+
+### Artículo 140
+
+Artículo 140.
+1. Toda candidatura presentada deberá llevar a través de su administrador general, a partir de la fecha de su nombramiento, una contabilidad detallada que se ajustará en todo caso a los principios generales contenidos en el vigente Plan General Contable, en la que constarán obligatoriamente los siguientes extremos:
+a) Nombre de la candidatura y circunscripción o circunscripciones en las que se presenta.
+b) Ingresos y fuentes de aportación convenientemente individualizados.
+c) Gastos efectuados, según lo previsto en el artículo 146 de la presente Ley, individualizando su objeto y día en que se realizaron.
+2. Los administradores generales reflejarán debidamente todas las operaciones e incidencias económicas de las actividades producidas por las candidaturas desde el día de la convocatoria hasta el de la celebración de las elecciones.
+3. En relación con los ingresos y fuentes de aportación, la contabilidad deberá contener, como mínimo, las siguientes especificaciones:
+a) Número de orden: reflejará el orden cronológico de las operaciones que den lugar a los ingresos y fuentes de aportación, con independencia del lugar en que se hubieran intervenido. Esta numeración será coincidente con la de los documentos que sirvan de soporte y justificación de las anotaciones en el libro.
+b) Fecha: reflejará el día en que se han producido las operaciones que den lugar a los ingresos y fuentes de financiación, con independencia de que se hubieren realizado a través de caja o de cuenta bancaria.
+c) Importe: reflejará el importe exacto de la operación de que se trate.
+d) Concepto: reflejará una sucinta descripción de cada operación, la persona a quien deba atribuirse con independencia de la identidad de la que materialmente la realice, y si se ha realizado a través de caja o de cuenta bancaria; en el supuesto de haberse realizado a través de caja, se señalará la radicación de ésta y las personas responsables de la misma, y en caso de haberse realizado a través de cuenta bancaria, se señalará el número de ésta u otros elementos para su identificación, personas autorizadas para disponer de la misma, entidad bancaria y establecimiento concreto de ésta a que corresponda.
+4. En relación con los gastos, la contabilidad deberá contener, como mínimo, las mismas especificaciones señaladas en el apartado anterior para los ingresos, con absoluta separación respecto a las de éstos.
+5. Al cierre de contabilidad se adjuntará documento explicativo que ponga de manifiesto la diferencia entre los saldos contables y los saldos según extractos bancarios, documento justificativo del arqueo de caja y relaciones nominales que componen los distintos saldos deudores y acreedores del balance.
+Se modifica el apartado 1 por el art. 1.47 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 141
+
+Artículo 141.
+1. Los administradores generales y los territoriales de las candidaturas deberán comunicar a la Junta Electoral de la Comunidad Autónoma y a las Juntas Electorales de Territorio Histórico, respectivamente, las cuentas abiertas o habilitadas para la recaudación de fondos, en las veinticuatro horas siguientes a su apertura o habilitación.
+2. Para el caso de partidos políticos, federaciones, coaliciones o agrupaciones que por disponer de números de cuentas conocidos por sus afiliados y simpatizantes desearan habilitar para la recaudación de fondos cuentas abiertas con anterioridad, será preceptivo que las mismas presenten saldo cero de forma previa a la comunicación a que hace referencia el párrafo anterior.
+3. La apertura de cuentas podrá realizarse, en cualquier entidad bancaria o caja de ahorros, a partir de la fecha de nombramiento de los administradores electorales.
+4. Si las candidaturas presentadas no fueran proclamadas o renunciasen a concurrir a la elección, las imposiciones realizadas por terceros en estas cuentas les deberán ser restituidas por los partidos, federaciones, coaliciones o agrupaciones que las promovieron.
+
+### Artículo 142
+
+Artículo 142.
+1. Todos los fondos destinados a sufragar los gastos electorales, cualquiera que sea su procedencia, deberán ingresarse en las mencionadas cuentas, y todos los gastos deberán pagarse con cargo a las mismas.
+2. Los administradores electorales y las personas por ellos autorizadas para disponer de los fondos de las cuentas serán responsables de las cantidades ingresadas y de su aplicación a los fines señalados.
+3. Terminada la campaña electoral, sólo se podrá disponer de los saldos de estas cuentas para pagar, en los noventa días siguientes al de la votación, gastos electorales previamente contraídos.
+4. Toda reclamación por gastos electorales que no sea notificada a los correspondientes administradores electorales en los sesenta días siguientes al de la votación se considerará nula y no pagadera. A estos efectos, los administradores electorales deberán comunicar por escrito, quince días antes de finalizar el plazo de reclamación, la existencia de este precepto de la presente Ley a los proveedores que no hubieren efectuado dicha reclamación. Cuando exista causa justificada, las Juntas Electorales de Territorio Histórico, o, en su caso, la Junta Electoral de la Comunidad Autónoma, podrán admitir excepciones a esta regla.
+
+### Artículo 143
+
+Artículo 143.
+1. Quienes aporten fondos a las cuentas electorales referidas en los artículos anteriores harán constar en el acto de la imposición su nombre, domicilio y el número de su Documento Nacional de Identidad o Pasaporte, que será exhibido al correspondiente empleado de la entidad depositaria.
+2. Cuando se aporten cantidades por cuenta y en representación de otra persona física o jurídica, se hará constar el nombre de ésta.
+3. Cuando las imposiciones se efectúen por partidos se hará constar la procedencia de los fondos que se depositan, figurando en su caso el número de la cuenta bancaria que cede los fondos así como su titularidad.
+Se modifica el apartado 3 por el art. 1.49 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+## CAPÍTULO III
+
+Ingresos electorales y fuentes de aportación
+
+### Artículo 144
+
+Artículo 144.
+1. El Gobierno Vasco concederá dos adelantos de las subvenciones públicas electorales, uno antes del primer día de la campaña y otro después de la votación.
+2. El Gobierno Vasco concederá adelantos de las subvenciones electorales a los partidos políticos, federaciones, coaliciones o agrupaciones electorales que hubieran obtenido representantes en las últimas elecciones al Parlamento Vasco. La cantidad adelantada no podrá exceder del 30 por 100 de la subvención percibida por el mismo partido político, federación, coalición o agrupación electoral en las últimas elecciones al Parlamento Vasco.
+3. Los adelantos podrán solicitarse entre los días vigésimo primero y vigésimo tercero posteriores a la convocatoria, ante la Junta Electoral de la Comunidad Autónoma por los respectivos administradores generales.
+4. A partir del vigésimo noveno día posterior a la convocatoria, el Departamento responsable de Hacienda del Gobierno Vasco, previa autorización de la Junta Electoral de la Comunidad Autónoma, pondrá a disposición de los administradores generales los adelantos correspondientes.
+5. Los adelantos concedidos se descontarán del importe de la subvención electoral que finalmente haya correspondido a cada partido político, federación, coalición o agrupación electoral por el Departamento responsable de Hacienda del Gobierno Vasco.
+6. Los adelantos se devolverán, después de las elecciones, en la cuantía en que superen el importe de la subvención que finalmente haya correspondido a cada partido político, federación, coalición o agrupación electoral.
+7. Después de celebradas las elecciones, y en el plazo de quince días a contar desde la finalización del período para la presentación de la contabilidad electoral ante la Junta Electoral de la Comunidad Autónoma a que hace referencia el artículo 149 de esta Ley, el Departamento responsable de Hacienda entregará a los administradores generales en calidad de segundo adelanto el equivalente al 90 por 100 del importe de las subvenciones que correspondan a las candidaturas en función de los resultados electorales por ellas obtenidas, publicados en el "Boletín Oficial del País Vasco", descontado, en su caso, el anticipo a que se refiere el apartado 2 de este artículo.
+8. El segundo adelanto deberá solicitarse ante el Departamento responsable de Hacienda por los respectivos administradores generales y se descontará del importe de la subvención electoral que finalmente haya correspondido a cada partido político, federación, coalición o agrupación electoral. En la solicitud, los partidos, coaliciones y federaciones deberán presentar para poder percibir este adelanto aval bancario por el 10 por 100 del total de la subvención anticipada en los adelantos, con la finalidad de responder ante los posibles descuentos a los que tengan que hacer frente en función de lo previsto en el capítulo V de este título y en los artículos 80.3 y 154 de la presente Ley.
+9. Para poder percibir el segundo adelanto previsto en el apartado 7 de este artículo, si así lo acuerda la Junta Electoral de la Comunidad Autónoma, los partidos políticos, federaciones, coaliciones o agrupaciones electorales deberán presentar ante el departamento responsable de hacienda certificación expedida por la Mesa del Parlamento Vasco que acredite fehacientemente la adquisición por el cargo electo perteneciente a dichas formaciones políticas de la condición plena de miembro del Parlamento Vasco y el ejercicio efectivo del cargo para el que hubiese sido elegido y por cuya elección se devenga el citado adelanto.
+Se añade el apartado 9 por el art. unico.55 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se añaden los apartados 1, 7 y 8 por el art. 1.50, 51 y 52 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 145
+
+Artículo 145.
+Queda prohibido:
+1. La aportación a las cuentas electorales de fondos provenientes de cualquier Administración o corporación pública, organismo autónomo o entidad paraestatal, de las empresas del sector público cuya titularidad corresponde al Estado, a las Comunidades Autónomas, a las provincias o a los municipios y de las empresas de economía mixta, así como de las empresas que, mediante contrato vigente, prestan servicios o realizan suministros u obras para alguna de las Administraciones públicas.
+2. La aportación de fondos procedentes de entidades o personas extranjeras o con domicilio fuera de la Comunidad Autónoma.
+3. Los ingresos procedentes de actividades ilícitas.
+4. La aportación de más de 10.000 euros, por cualquier persona física, a las cuentas abiertas por un mismo partido, federación, coalición o agrupación electoral para recaudar fondos en las elecciones convocadas.
+Se modifica el apartado 4 por el art. único.56 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+## CAPÍTULO IV
+
+Gastos electorales
+
+### Artículo 146
+
+Artículo 146.
+Se considerarán gastos electorales los que realicen los partidos, federaciones, coaliciones o agrupaciones participantes en las elecciones al Parlamento Vasco desde el día de la convocatoria hasta el de la proclamación de electos por los siguientes conceptos:
+a) Confección de sobres y papeletas electorales.
+b) Propaganda y publicidad directa o indirectamente dirigida a promover el voto a sus candidaturas, sea cual fuere la forma y el medio que se utilice.
+c) Alquiler de locales para la celebración de actos de tipo electoral.
+d) Remuneraciones o gratificaciones al personal no permanente que presta sus servicios a las candidaturas.
+e) Medios de transporte y gastos de desplazamiento de los candidatos, de los dirigentes de los partidos, federaciones, coaliciones o agrupaciones, y del personal al servicio de la candidatura.
+f) Correspondencia y franqueo.
+g) Intereses de los créditos recibidos para la campaña electoral, devengados hasta la fecha de percepción de la subvención correspondiente.
+h) Cuantos sean necesarios para la organización y funcionamiento de las oficinas para las elecciones, así como las encuestas y sondeos electorales como servicios precisos entre otros para las elecciones.
+Se modifica la letra h) por el art. único.57 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica por el art. 1.53 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 147
+
+Artículo 147.
+1. Ningún partido, federación, coalición o agrupación de electores podrá realizar gastos electorales que superen los límites establecidos en el apartado siguiente.
+2. En las elecciones al Parlamento Vasco, el límite de los gastos electorales será el que resulte de multiplicar por 0,42 euros el número de habitantes correspondientes a la población de derecho de las circunscripciones donde cada partido, federación, coalición o agrupación presente sus candidaturas. La cantidad resultante de la operación anterior podrá incrementarse en razón de 202.400 euros por cada circunscripción donde aquellos presenten sus candidaturas.
+Se modifica el apartado 2 por el art. único.58 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+
+## CAPÍTULO V
+
+Control de la contabilidad electoral
+
+### Artículo 148
+
+Artículo 148.
+1. La Junta Electoral de la Comunidad Autónoma y las Juntas Electorales de Territorio Histórico velarán por el cumplimiento de las normas establecidas en los artículos del presente título. A estos efectos, corresponde a la Junta Electoral de la Comunidad Autónoma el control de la contabilidad electoral y de la función fiscalizadora, con el apoyo del Tribunal Vasco de Cuentas Públicas.
+Las Juntas Electorales de Territorio Histórico podrán informar, en su caso, dentro de los cien días posteriores a las elecciones, a la Junta Electoral de la Comunidad Autónoma del cumplimiento de las normas establecidas en este título.
+2. La Junta Electoral de la Comunidad Autónoma, a propuesta del Tribunal Vasco de Cuentas Públicas, podrá dictar los procedimientos de control y de justificación documental a seguir por las candidaturas que concurran a las elecciones, así como determinar los criterios contables de aplicación dentro de los principios generales del Plan General Contable.
+La Junta Electoral de la Comunidad Autónoma deberá resolver por escrito las consultas que los administradores generales de las candidaturas planteen.
+3. El Tribunal Vasco de Cuentas Públicas en su función fiscalizadora podrá recabar de los administradores generales de las candidaturas las informaciones contables o sobre actividades electorales que considere necesarias.
+4. Las entidades públicas y privadas deberán facilitar al Tribunal Vasco de Cuentas Públicas los datos que pueda requerir para el cumplimiento de su labor fiscalizadora.
+5. La Junta Electoral de la Comunidad Autónoma podrá abrir investigaciones sobre la autenticidad de los datos aportados por los administradores generales de las candidaturas, pudiendo actuar de igual manera el Tribunal Vasco de Cuentas Públicas bajo la autorización de la Junta Electoral de la Comunidad Autónoma.
+6. Si de las investigaciones de la Junta Electoral de la Comunidad Autónoma o del Tribunal Vasco de Cuentas Públicas sobre las contabilidades electorales resultasen indicios de conductas constitutivas de delitos electorales, lo comunicarán al Ministerio Fiscal para el ejercicio de las acciones oportunas.
+Se modifica por el art. 1.54 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 149
+
+Artículo 149.
+1. El administrador general de las candidaturas que hubieren obtenido escaño o que hubieren solicitado adelantos de las subvenciones electorales presentará, dentro de los sesenta días posteriores al de la votación, en la sede de la Junta Electoral de la Comunidad Autónoma, la contabilidad detallada y documentada.
+La Junta Electoral de la Comunidad Autónoma remitirá una copia de esta información al Tribunal Vasco de Cuentas Públicas.
+2. El Tribunal Vasco de Cuentas Públicas dispondrá de un plazo de sesenta días para examinar la documentación presentada, pudiendo requerir al administrador general de las candidaturas para que justifique documentalmente cualquier extremo de la documentación o información contable aportada, así como el cumplimiento de lo dispuesto en el artículo 142.3 y 4 de esta Ley.
+Igualmente, el Tribunal Vasco de Cuentas Públicas podrá requerir a los terceros que hubieren tenido relación económica con las candidaturas para que confirmen o completen la información.
+3. Dentro de los ciento veinte días posteriores a las elecciones, el Tribunal Vasco de Cuentas Públicas emitirá dictamen motivado sobre las contabilidades electorales y sobre la justificación de los ingresos y gastos en ellas incluidos, donde expondrá que en las cuentas electorales la relación de ingresos y gastos se encuentra justificada. O que hay partidas de ingresos no justificadas o partidas de gastos reducidas, en cuyo caso resolverá que ha existido infracción de las normas electorales, pudiendo proponer la no adjudicación o reducción de la subvención electoral al partido, federación, coalición o agrupación de que se trate, según lo previsto en el capítulo VII del presente título.
+4. El Tribunal Vasco de Cuentas Públicas comunicará el dictamen a que hace referencia el epígrafe anterior al administrador general de cada candidatura, concediéndole un plazo de quince días para la formulación de alegaciones.
+Se modifica por el art. 1.55 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Artículo 150
+
+Artículo 150.
+1. El dictamen anterior, junto a las alegaciones y propuestas correspondientes, será remitido por el Tribunal Vasco de Cuentas Públicas a la Junta Electoral de la Comunidad Autónoma.
+2. Una vez resueltas las alegaciones del administrador general por la Junta Electoral de la Comunidad Autónoma y antes de los ciento ochenta días posteriores a las elecciones, ésta determinará y hará públicas las cuantías de las subvenciones electorales que corresponden a las candidaturas que hubieren obtenido escaño, de conformidad con lo previsto en el artículo siguiente de la presente Ley.
+3. Publicadas en el "Boletín Oficial del País Vasco" las subvenciones electorales, el Gobierno Vasco, a través del Departamento responsable de Hacienda, entregará, sin perjuicio de lo previsto en los artículos 80.3, 144.5 y 8 y 154, el importe de dichas subvenciones a los administradores generales de las candidaturas que deban percibirlas.
+Téngase en cuenta que las cuantías establecidas en este artículo se actualizan periódicamente por Orden publicada en el Boletín Oficial del País Vasco.
+Se modifica por el art. 1.56 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+## CAPÍTULO VI
+
+Subvención pública de gastos electorales
+
+### Artículo 151
+
+Artículo 151.
+1. La Comunidad Autónoma Vasca subvencionará los gastos electorales de los partidos políticos, federaciones, coaliciones o agrupaciones electorales de acuerdo con las siguientes reglas:
+a) 26.761,89 euros por cada escaño obtenido en el Parlamento Vasco.
+b) 0,90 euros por cada uno de los votos obtenidos por cada candidatura, siempre que al menos uno de sus miembros haya obtenido escaño en la circunscripción correspondiente.
+c) 44.603,13 euros por circunscripción electoral, a quienes obtengan al menos un escaño por circunscripción electoral.
+2. Además de las subvenciones a las que se refiere el apartado anterior, se subvencionarán los gastos electorales originados por el envío directo y personal al electorado de propaganda, sobres y papeletas o cualesquiera otros elementos de publicidad electoral, de conformidad con lo siguiente:
+a) Se abonarán 0,23 euros por elector o electora en cada una de aquellas circunscripciones en las que la candidatura de referencia haya presentado lista y hubiera obtenido un escaño.
+b) La cantidad subvencionada no estará incluida dentro del límite previsto en el artículo 147 de esta ley, siempre que se haya justificado la relación efectiva de la actividad a que se refiere este apartado.
+3. Tanto el devengo como el pago a las fuerzas políticas de las subvenciones electorales que se citan en los dos apartados anteriores de este artículo, se condicionará, si así lo acuerda la Junta Electoral de la Comunidad Autónoma, a la justificación de la adquisición de la condición plena de miembro del Parlamento Vasco y al ejercicio efectivo del cargo para el que hubiese sido elegido. La comprobación y certificación de estos supuestos corresponderá al órgano de gobierno del Parlamento Vasco.
+4. El importe de las subvenciones electorales correspondientes a cada grupo político no podrá sobrepasar la cifra de gastos electorales declarados justificados por el Tribunal Vasco de Cuentas Públicas.
+Téngase en cuenta que las cantidades establecidas en este artículo se actualizan periódicamente por Orden publicada únicamente en el "Boletín Oficial del País Vasco", según se establece en la disposición adicional 4.
+Se modifica por el art. único.59 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica por el art. 1.57 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+## CAPÍTULO VII
+
+Sanciones
+
+### Artículo 152
+
+Artículo 152.
+1. Sin perjuicio de la responsabilidad penal o de las responsabilidades que pudieran resultar de la aplicación de la legislación que regula la actividad de los organismos y entidades a que se refiere el artículo 145 de la presente Ley, la comprobación de haber ingresado fondos prohibidos llevará aparejada la pérdida total de las subvenciones a que pudiere haber lugar y una sanción de hasta el triple de la cantidad ingresada con tal carácter de fondo prohibido.
+2. Esta sanción será acumulable a la establecida en el artículo siguiente.
+
+### Artículo 153
+
+Artículo 153.
+1. Cuando se comprobare la existencia de ingresos no justificados o de partidas de gastos reducidas, la sanción podrá elevarse al triple de lo no justificado o de lo reducido. La responsabilidad será del partido político, coalición o agrupación, sin perjuicio de que éstos puedan proceder contra los responsables de la gestión de las cuentas electorales.
+2. En el supuesto anterior, la subvención pública, cuando hubiere derecho, se reducirá en el importe de la sanción. Si no hubiere lugar a subvención o esta fuere inferior a la sanción, el importe será efectivo, por la totalidad o por el resto, en metálico, pudiéndose ejecutar a través de los medios admitidos en Derecho.
+
+### Artículo 154
+
+Artículo 154.
+Para la efectividad de lo prevenido en los artículos anteriores, las sanciones deberán ser comunicadas por la Junta Electoral de la Comunidad Autónoma o las Juntas Electorales de Territorio Histórico al Departamento responsable de Hacienda del Gobierno Vasco, que acusará recibo.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Todos los gastos que comporte el proceso electoral serán a cargo de los Presupuestos Generales de la Comunidad Autónoma, sin perjuicio de la financiación de los mismos en base a lo dispuesto en el Capítulo II de la Ley 12/1981 por la que se aprueba el Concierto Económico en la Comunidad Autónoma del País Vasco. Se incluirán en dichos gastos los de funcionamiento de las Juntas Electorales, y el que genere el personal técnico o auxiliar, distinto del que presta sus servicios en las Secretarías de las Juntas, de que precisen dotarse para el mejor desempeño de sus funciones. En lo posible, y siempre que no pueda condicionar la objetividad del funcionamiento de las Juntas, dicho personal técnico o auxiliar será personal que presta sus servicios en la Administración de la Comunidad Autónoma, con excepción del régimen previsto en esta Ley para la Junta Electoral de la Comunidad Autónoma.
+2. La percepción de las dietas y gratificaciones correspondientes a los miembros de las Juntas Electorales y personal a su servicio será en todo caso compatible con la de sus haberes, siendo su control financiero con arreglo a la legislación vigente.
+3. Los gastos generados en función de lo previsto en los artículos 20.3 y 132 bis.III se financiarán con cargo al estado de gastos de la sección presupuestaria del Parlamento Vasco.
+Se añade apartado 3 por el art. 1.58 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+A los efectos previstos en el artículo 23.1 de la presente Ley, los ámbitos territoriales de las Juntas Electorales de Zona serán los de los partidos judiciales.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Los artículos de esta Ley que reproducen total o parcialmente los preceptos a los que se refiere la Disposición Adicional Primera, número 2, de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, se han incorporado a este texto por razones de sistemática legislativa; en consecuencia, se entenderán modificados en el momento en que se produzca la revisión de aquéllos en la Ley Orgánica mencionada.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Las cuantías previstas en la presente ley se refieren a euros constantes. Por orden del departamento responsable de hacienda del Gobierno Vasco, se actualizarán dichas cuantías en los siete días siguientes a la convocatoria de elecciones.
+Se modifica por el art. único.60 de la Ley 11/2015, de 23 de diciembre. Ref. BOE-A-2016-1009.
+ Se modifica por el art. 1.59 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2011-20658.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+El régimen de incompatibilidades previsto en esta Ley será aplicable a los parlamentarios elegidos conforme a lo dispuesto en la misma.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. La primera designación de los Vocales de la Junta Electoral de la Comunidad Autónoma deberá realizarse, según el procedimiento del artículo 18, dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley.
+2. El Presidente del Tribunal Superior de Justicia y el del Parlamento Vasco comunicarán al Gobierno Vasco las designaciones efectuadas, a fin de que se proceda a su nombramiento y a la publicación de la composición de la Junta Electoral de la Comunidad Autónoma en el «Boletín Oficial del País Vasco», procediéndose a su constitución a la mayor brevedad posible.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Mientras mantenga su vigencia el artículo 8.6 de la Ley Orgánica del Régimen Electoral General, los ámbitos territoriales de las Juntas Electorales de Zona coincidirán con los establecidos para las Elecciones Locales de 1979.
+
+### Disposición final primera
+
+Disposición final primera.
+En lo no previsto en esta Ley serán de aplicación con carácter general las normas vigentes en la legislación sobre régimen electoral general, y especialmente las previstas para las elecciones de diputados a Cortes Generales, con las adaptaciones derivadas del carácter y ámbito de la consulta electoral, entendiéndose las referencias a organismos estatales a los que correspondan de la Administración de la Comunidad Autónoma del País Vasco, en el ámbito de sus competencias.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Para el cómputo de los plazos y términos a que se refiere la presente Ley, los días se entenderán siempre como días naturales, salvo que se disponga otra cosa expresamente.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del País Vasco».
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+Se faculta al Gobierno Vasco para dictar las disposiciones necesarias en el desarrollo de esta Ley.
+Se añade por el art. 1.60 de la Ley 15/1998, de 19 de junio. Ref. BOE-A-2012-2859.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+A la entrada en vigor de esta Ley, quedarán derogadas la Ley 8/1981, de 30 de junio, «Reguladora de la sustitución de los Parlamentarios vascos»; la Ley 28/1983, de 25 de noviembre, «por la que se regulan las Elecciones al Parlamento Vasco», el Decreto 274/1983, de 19 de diciembre, «por el que se determinan los modelos oficiales a que se ajustarán las urnas, cabinas, papeletas de votación, sobres y demás documentación a utilizar en las Elecciones al Parlamento Vasco 1984»; el Decreto 15/1984, de 16 de enero, «de desarrollo del art. 5 de la Ley 28/1983, de 25 de noviembre»; el Decreto 31/1984, de 23 de enero, «del Comité para Radio y Televisión»; el Decreto 42/1984, de 30 de enero, «sobre el libro de contabilidad de las candidaturas que concurran a las elecciones al Parlamento Vasco»; el Decreto 40/1984, de 6 de febrero, «de la Cesión de Espacios Gratuitos en los medios de Comunicación Públicos»; el Decreto 47/1984, de 13 de febrero, «por el que se da nueva redacción al artículo 3.2 del Decreto 31/1984, de 23 de enero, del Comité para Radio y Televisión»; el Decreto 48/1984, de 13 de febrero, «por el que se modifica la redacción del artículo 3 del Decreto 40/1984, de 6 de febrero, de cesión de espacios gratuitos en los Medios de Comunicación Públicos»; el Decreto 204/1986, de 25 de septiembre, «por el que se determinan los modelos oficiales a que se ajustan las urnas, cabinas, papeletas de votación, sobres y demás documentación a utilizar en las elecciones al Parlamento Vasco» y cuantas disposiciones se opongan a lo establecido en la presente Ley.
+
+Por consiguiente, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades que la guarden hagan guardarla.
+Vitoria-Gasteiz, 2 de julio de 1990.
+El Lehendakari, José Antonio Ardanza Garro.

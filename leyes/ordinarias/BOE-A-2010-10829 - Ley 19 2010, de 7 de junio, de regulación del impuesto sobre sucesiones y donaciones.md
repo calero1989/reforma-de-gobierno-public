@@ -1,0 +1,1176 @@
+# Ley 19/2010, de 7 de junio, de regulación del impuesto sobre sucesiones y donaciones.
+
+- Identificador BOE: `BOE-A-2010-10829`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2010-10829
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Norma derogada, con efectos de 15 de marzo de 2024, salvo la disposición adicional 4, por la disposición derogatoria.12 del Decreto Legislativo 1/2024, de 12 de marzo. Ref. BOE-A-2024-6951#dd
+Incluye las correcciones de errores publicadas en DOGC núm. 5669, de 13 de julio de 2010 y núm. 5716, de 16 de septiembre de 2010.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 65 del Estatuto de Autonomía de Cataluña, promulgo la siguiente Ley 19/2010, de 7 de junio, de regulación del impuesto sobre sucesiones y donaciones.
+PREÁMBULO
+I
+El impuesto sobre sucesiones y donaciones es un tributo estatal directo de carácter personal que grava el incremento de patrimonio de las personas físicas derivado de la recepción de una herencia, de la aceptación de una donación o de la percepción de una cantidad proveniente de un seguro de vida.
+El sistema tributario vigente, que se fundamenta en los principios constitucionales de igualdad y de progresividad y que no puede tener alcance confiscatorio, impone que todo el mundo contribuya al sostenimiento de los gastos públicos en función de su capacidad económica. El impuesto sobre sucesiones y donaciones, junto con el impuesto sobre la renta de las personas físicas –del que es complementario, tal y como lo determina la Ley del Estado 29/1987, de 18 de diciembre, del impuesto sobre sucesiones y donaciones–, constituye un elemento importante para garantizar la progresividad de dicho sistema, contribuyendo al mismo tiempo a la redistribución de la riqueza, puesto que detrae de cada adquisición gratuita una cantidad a favor del tesoro público.
+Sin embargo, la aprobación de determinadas reducciones y, sobre todo, la tendencia en determinadas comunidades autónomas del Estado a reducir al máximo las cuotas tributarias resultantes, hasta la práctica supresión del impuesto para muchos contribuyentes, tanto en la modalidad de sucesiones como en la de donaciones, han provocado cierta tendencia a percibir este tributo como un impuesto que grava en exceso las herencias bajas y medias y han hecho que se cuestione y se debata su utilidad y su pervivencia.
+Conocedor de esta situación, el legislador ha impulsado la reforma del impuesto, con la voluntad de mantener su posición dentro del sistema tributario, pero, a la vez, corrigiendo las inequidades subyacentes. Así, mediante la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas, el Parlamento aprobó nuevos importes sensiblemente más altos para las reducciones personales, y estableció una nueva reducción para la gente de la tercera edad y una reducción adicional aplicable al exceso de base imponible. Este conjunto de modificaciones supusieron la exclusión de tributación para un número elevado de contribuyentes. Asimismo, el Parlamento aprobó una nueva tarifa más simple, con menos tramos, y mantuvo los coeficientes multiplicadores más bajos para cada grupo de parentesco.
+La misma Ley 26/2009, sin embargo, dispone que la reforma del impuesto no debe limitarse a la aprobación de unas normas reguladoras de los aspectos cuantitativos más relevantes, y en este sentido ordena al Gobierno que presente un nuevo proyecto de ley que aborde una regulación completa del impuesto. La presente ley, pues, da cumplimiento a este mandato, dentro del marco de las competencias normativas que tiene hoy reconocidas la Generalidad a través de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las comunidades autónomas de régimen común y ciudades con estatuto de autonomía y se modifican determinadas normas tributarias.
+Al mismo tiempo, la ley presente reúne en un solo texto y sistematiza, si procede con una redacción más comprensible, la normativa propia vigente, que se hallaba dispersa en varias leyes de acompañamiento de los presupuestos, con lo que se contribuye a una mayor seguridad jurídica, con el objetivo de que la regulación sea tan completa como sea posible, e incorpora y mejora, si procede, las normas estatales vigentes en Cataluña.
+Los objetivos de esta Ley, pues, son tres:
+Reforzar la seguridad jurídica, con una nueva sistematización y redacción y con la incorporación al texto de normas que precisan o aclaran conceptos.
+Reunir en un solo texto todas las normas vigentes en distintos textos legales y, a la vez, introducir nuevas normas, relativas a ámbitos hasta ahora no regulados por normativa propia de Cataluña, con la clara voluntad de enfrentar una regulación completa e integral del impuesto, dentro de los márgenes de capacidad normativa que permite el vigente sistema de cesión de tributos.
+Simplificar y mejorar la gestión del impuesto.
+II
+La Ley contiene un total de setenta y cinco artículos, agrupados en seis títulos, cuatro disposiciones adicionales, dos disposiciones transitorias, una disposición derogatoria y dos disposiciones finales.
+El título I contiene las disposiciones referidas a las adquisiciones por causa de muerte, y regula, concretamente, las reducciones aplicables a la base imponible del tributo. En este primer bloque se recogen las reducciones ya existentes, con incremento de los importes de la reducción por discapacidad y por seguros de vida, y, además, se eleva hasta el 97% el porcentaje de reducción en caso de adquisición de participaciones en sociedades laborales.
+Por otro lado, se crea como propia la reducción por la adquisición de bienes y derechos afectos a una actividad económica o de participaciones en entidades por parte de personas que, si bien no tienen relación de parentesco con el causante, sí que tienen determinados vínculos laborales o profesionales con la entidad y una antigüedad que las hace merecedoras de disfrutar del beneficio fiscal, siempre y cuando mantengan los bienes y la actividad empresarial o profesional durante un plazo mínimo de cinco años. Es en este sentido que la ampliación del alcance de la reducción llamada «de la empresa familiar» persigue también la finalidad primera y última del beneficio fiscal, que no es otra que la pervivencia del tejido empresarial productivo del país en su tránsito intergeneracional. Hay, pues, una voluntad patente de incentivar esta fuente de riqueza y empleo.
+Con relación a las reducciones para la empresa familiar, cabe destacar que la Ley, a la luz de la experiencia de la gestión tributaria en la aplicación de estas reducciones incorpora ciertos preceptos provenientes de otras normas tributarias, con el objetivo de aumentar la precisión y la seguridad jurídica de la normativa reguladora de este tributo. Se trata de puntualizaciones totalmente ajustadas a la finalidad propia de estas reducciones, que no es otra que la de favorecer la transmisión del tejido empresarial de generación en generación, minorando sensiblemente el coste fiscal que la grava.
+Así, el artículo 7 de la Ley, sin perjuicio de un futuro despliegue reglamentario más exhaustivo, incorpora el concepto de actividad empresarial o profesional que rige en la Ley del impuesto sobre la renta de las personas físicas. Con estos mismos alcance y origen, el artículo 8 introduce una primera noción de bienes afectos. Y, en el ámbito de la reducción por la adquisición de participaciones, el artículo 12, relativo al concepto de entidad que gestiona un patrimonio mobiliario o inmobiliario, acoge el concepto proveniente de la normativa del impuesto sobre sociedades.
+En este mismo ámbito, y en cuanto a los beneficios fiscales que se otorgan a la empresa familiar, es preciso remarcar que la Ley, igual que las regulaciones anteriores, excluye de las reducciones aquellas estructuras que, más o menos organizadas bajo la apariencia de empresa, acogen en realidad meros patrimonios personales.
+El título II regula las reducciones de la base imponible aplicables a las adquisiciones lucrativas. Ésta es una de las principales novedades de la Ley, que incorpora y mejora la normativa estatal, ampliándola con nuevas normas y reglas, con el objetivo de garantizar una mayor seguridad jurídica en la aplicación de esta normativa.
+La Ley también crea tres nuevas reducciones: en primer lugar, la reducción por la donación de dinero a descendientes para constituir o adquirir una empresa individual o un negocio profesional o para adquirir participaciones en entidades; en segundo lugar, la reducción por la donación a terceras personas sin vínculo de parentesco con el donante de bienes y derechos afectos a una actividad económica o de participaciones en entidades, y finalmente la reducción por aportaciones a patrimonios protegidos.
+El título III, dedicado a la deuda tributaria, regula la tarifa y la cuota tributaria de las dos modalidades del impuesto. Mantiene la tarifa para las donaciones entre las personas de los grupos I y II y la estructura y los importes de la tarifa general para el resto de hechos imponibles, y mantiene también la supresión de los coeficientes por patrimonio preexistente que había aprobado la Ley 26/2009.
+El título IV se ocupa, en relación con las disposiciones comunes aplicables a las adquisiciones por causa de muerte y a las adquisiciones lucrativas entre vivos, del tratamiento fiscal de las parejas estables, de las relaciones paternofiliales de hecho y de los acuerdos de valoración previa vinculantes.
+Finalmente, los títulos V y VI, que incorporan normas relativas a obligaciones formales y a la aplicación del tributo, cierran esta regulación básica y completa del impuesto sobre sucesiones y donaciones.
+
+## TÍTULO I
+
+Adquisiciones por causa de muerte
+
+## CAPÍTULO I
+
+Reducciones de la base imponible
+
+## Sección preliminar
+
+Sección preliminar. Régimen general
+
+### Artículo 1
+
+Artículo 1. Base liquidable.
+1. En las adquisiciones por causa de muerte, incluidas las que correspondan a los beneficiarios de pólizas de seguros de vida y las de bienes del causante adquiridos con pacto de supervivencia, la base liquidable se obtiene de resultas de aplicar a la base imponible las reducciones que establece el presente capítulo, que sustituyen a las reducciones análogas aprobadas por la normativa estatal.
+2. Las reducciones establecidas en los preceptos enumerados seguidamente mejoran las reducciones análogas del Estado:
+Artículo 2 (reducción por parentesco).
+Artículo 3 (reducción por discapacidad).
+Sección segunda (reducción por seguros).
+Sección tercera (reducción por la adquisición de bienes y derechos afectos a una actividad económica).
+Sección cuarta (reducción por la adquisición de participaciones en entidades).
+Sección sexta (reducción por la adquisición de la vivienda habitual del causante).
+Sección séptima (reducción por la adquisición de determinadas fincas rústicas de dedicación forestal).
+Sección novena (reducción por la adquisición de bienes del patrimonio cultural).
+Sección undécima (reducción por sobreimposición decenal).
+3. Las reducciones establecidas en los preceptos enumerados a continuación son reducciones propias:
+Artículo 4 (reducción para personas de la tercera edad)
+Sección quinta (reducción por adquisición de participaciones por personas con vínculos laborales)
+Sección octava (reducción por bienes utilizados en la explotación agraria del causahabiente)
+Sección décima (reducción por bienes del patrimonio natural).
+4. No puede aplicarse en ningún caso sobre un mismo bien, o sobre la misma porción de un bien, más de una de las reducciones que establece el presente capítulo, ni pueden añadirse a la reducción que se aplique otros beneficios fiscales que hayan establecido la normativa catalana o la normativa estatal precisamente en consideración a la naturaleza del bien bonificado.
+Se modifica el apartado 3 por el art. 122.1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+## Sección primera
+
+Sección primera. Reducciones por circunstancias personales
+
+### Artículo 2
+
+Artículo 2. Reducción por parentesco.
+En las adquisiciones por causa de muerte, se aplica la reducción que corresponda, entre las siguientes, por razón del grado de parentesco entre el adquiriente y el causante:
+a) Grupo I (adquisiciones por descendientes menores de veintiún años): 100.000, más 12.000 euros por cada año de menos de veintiuno que tenga el causahabiente, hasta un límite de 196.000 euros.
+b) Grupo II (adquisiciones por descendientes de veintiún años o más, cónyuges y ascendientes):
+– Cónyuge: 100.000 euros.
+– Hijo: 100.000 euros.
+– Resto de descendientes: 50.000 euros.
+– Ascendientes: 30.000 euros.
+c) Grupo III (adquisiciones por colaterales de segundo y tercer grado y por ascendientes y descendientes por afinidad): 8.000 euros.
+d) Grupo IV (adquisiciones por colaterales de cuarto grado o de grados más distantes y por extraños): no se aplica ninguna reducción por razón de parentesco.
+Se modifica por el art. 122.2 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 3
+
+Artículo 3. Reducción por discapacidad.
+Junto con las reducciones que puedan corresponder en función del grado de parentesco entre el adquirente y el causante, en las adquisiciones por causa de muerte por parte de personas con disminución física, psíquica o sensorial, con un grado de minusvalía igual o superior al 33 %, se aplica una reducción de 275.000 euros. Si el grado de minusvalía es igual o superior al 65 %, la reducción es de 650.000 euros. A tales efectos, los grados de minusvalía son los que se establezcan de acuerdo con el baremo a que se refiere el artículo 148 del texto refundido de la Ley general de la Seguridad Social, aprobado por el Real decreto legislativo 1/1994, de 20 de junio.
+
+### Artículo 4
+
+Artículo 4. Reducción para personas de la tercera edad.
+1. En las adquisiciones por causa de muerte por personas del grupo II de setenta y cinco años o más se aplica una reducción de 275.000 euros.
+2. Esta reducción es incompatible con la reducción por discapacidad que establece el artículo 3.
+Se modifica el apartado 1 por el art. 122.3 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+## Sección segunda
+
+Sección segunda. Reducciones por seguros de vida
+
+### Artículo 5
+
+Artículo 5. Reducción por seguros de vida.
+1. En las adquisiciones por causa de muerte, se aplica una reducción del 100 %, con un límite de 25.000 euros, de las cantidades percibidas por los beneficiarios de contratos de seguros de vida, si su parentesco con el contratante muerto es el de cónyuge, de descendiente o de ascendiente. En caso de seguros colectivos o contratados por las empresas a favor de sus trabajadores, debe tenerse en cuenta el grado de parentesco entre el asegurado y el beneficiario.
+2. La reducción por seguros de vida es única por sujeto pasivo, independientemente del número de contratos de seguro de vida de los que sea beneficiario. En caso de que tenga derecho al régimen de bonificaciones y reducciones que establece la disposición transitoria cuarta de la Ley del Estado 29/1987, de 18 de diciembre, del impuesto sobre sucesiones y donaciones, el sujeto pasivo puede optar entre aplicar este régimen o aplicar la reducción establecida en el presente artículo.
+
+## Sección tercera
+
+Sección tercera. Reducción por la adquisición de bienes y derechos afectos a una actividad económica
+
+### Artículo 6
+
+Artículo 6. Supuestos de aplicación.
+1. En las adquisiciones por causa de muerte que correspondan al cónyuge, a los descendientes, a los ascendientes o a los colaterales hasta el tercer grado del causante, tanto por consanguinidad o adopción como por afinidad, puede aplicarse a la base imponible una reducción del 95 % del valor neto de los elementos patrimoniales afectos a una actividad empresarial o profesional del causante.
+2. La reducción establecida en el apartado 1 también se aplica respecto a los bienes del causante utilizados en el desarrollo de la actividad empresarial o profesional ejercida por el cónyuge superviviente, cuando éste sea el adjudicatario de los bienes en la partición hereditaria o el causante se los haya atribuido.
+3. También pueden disfrutar de la reducción establecida en el apartado 1 las personas que, sin tener la relación de parentesco que en el mismo se especifica, y sin perjuicio de que deban cumplir los demás requisitos y condiciones que determina la presente sección, cumplan en la fecha de la muerte del causante los siguientes requisitos:
+a) Tener una vinculación laboral o de prestación de servicios con la empresa o el negocio profesional del causante, con una antigüedad mínima acreditada de diez años.
+b) Tener encomendadas tareas de responsabilidad en la gestión o dirección de la empresa o el negocio profesional del causante, con una antigüedad mínima de cinco años en el ejercicio de estas tareas. Se entiende que tiene encomendadas estas tareas si acredita la categoría laboral correspondiente a los grupos 1 y 2 de cotización del régimen general de la Seguridad Social o si el causante le había otorgado un apoderamiento especial para llevar a cabo las actuaciones habituales de gestión de la empresa.
+
+### Artículo 7
+
+Artículo 7. Concepto de actividad empresarial o profesional.
+1. A efectos de la aplicación de la reducción que establece la presente sección, tiene la consideración de actividad empresarial o profesional aquella actividad que, a través del trabajo personal o de la participación en el capital, o de ambos factores conjuntamente, supone la ordenación, por cuenta propia, de medios de producción o de recursos humanos, o de unos y otros a la vez, con la finalidad de intervenir en la producción o la distribución de bienes y servicios. En particular, tienen tal consideración las actividades extractivas, de fabricación, de comercio o de prestación de servicios, incluidas las de artesanía, agrícolas, forestales, ganaderas, pesqueras, de construcción o mineras, y el ejercicio de profesiones liberales, artísticas y deportivas.
+2. Deben determinarse por reglamento las condiciones y los requisitos de acreditación de una actividad empresarial o profesional a efectos de lo establecido en el apartado 1.
+3. Sin perjuicio de lo dispuesto por el apartado anterior, se entiende que el arrendamiento de inmuebles se realiza como actividad empresarial cuando para la ordenación de la actividad se tiene empleada como mínimo una persona con contrato laboral y a jornada completa.
+Se añade el apartado 3 por el art. 143.1 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-54
+
+### Artículo 8
+
+Artículo 8. Bienes afectos.
+1. A efectos de la aplicación de la reducción que establece la presente sección, tienen la consideración de elementos patrimoniales afectos a una actividad económica:
+a) Los bienes inmuebles en los que se realiza la actividad.
+b) Los bienes destinados a la oferta de servicios económicos y socioculturales para el personal al servicio de la actividad, salvo aquellos bienes destinados al ocio o tiempo libre o, en general, aquellos bienes de uso particular del titular de la actividad económica.
+c) Los demás elementos patrimoniales que sean necesarios para obtener los rendimientos de la actividad; en ningún caso tienen esta consideración los activos representativos de la participación en fondos propios de una entidad ni los activos representativos de la cesión de capital a terceros.
+2. Si los elementos patrimoniales a que se refiere el apartado 1 sirven tan solo parcialmente al objeto de la actividad económica, se entiende que la afectación se limita a la parte de estos elementos que realmente se utilice en la actividad de que se trate; en ningún caso son susceptibles de afectación parcial los elementos patrimoniales indivisibles.
+3. Deben determinarse por reglamento, con carácter exhaustivo, las condiciones y los requisitos que deben cumplir los elementos patrimoniales para ser considerados afectos a la actividad económica a efectos de la reducción establecida en la presente sección.
+
+### Artículo 9
+
+Artículo 9. Regla de mantenimiento.
+El disfrute definitivo de la reducción establecida en la presente sección queda condicionado al mantenimiento del ejercicio de la actividad empresarial o profesional durante los cinco años siguientes a la muerte del causante, salvo que el adquirente fallezca en este plazo, así como al mantenimiento en el patrimonio del adquirente, durante el mismo plazo y con la misma excepción, de los mismos bienes y derechos, o de bienes y derechos subrogados de valor equivalente, y de su afectación a la actividad.
+
+## Sección cuarta
+
+Sección cuarta. Reducción por la adquisición de participaciones en entidades
+
+### Artículo 10
+
+Artículo 10. Supuesto de aplicación.
+1. En las adquisiciones por causa de muerte que correspondan al cónyuge, a los descendientes, a los ascendientes o a los colaterales hasta el tercer grado del causante, tanto por consanguinidad o adopción como por afinidad, puede aplicarse a la base imponible una reducción del 95 % del valor de las participaciones en entidades, con cotización o sin cotización en mercados organizados, por la parte que corresponda en razón de la proporción existente entre los activos necesarios para el ejercicio de la actividad empresarial o profesional, minorados en el importe de las deudas derivadas de la misma, y el valor del patrimonio neto de cada entidad. Dichas reglas se aplican asimismo a la valoración de la participación en entidades participadas para determinar el valor de las participaciones de la entidad tenedora.
+2. En caso de adquisición de participaciones en sociedades laborales, la reducción establecida en el apartado 1 es del 97 %.
+3. La reducción establecida en la presente sección no se aplica en ningún caso a las participaciones en instituciones de inversión colectiva.
+
+### Artículo 11
+
+Artículo 11. Requisitos.
+1. Para poder disfrutar de la reducción establecida en la presente sección, deben cumplirse los siguientes requisitos:
+a) Que la entidad no tenga como actividad principal, en los términos que establece el artículo 12, la gestión de un patrimonio mobiliario o inmobiliario.
+b) Que la participación del causante en el capital de la entidad constituya al menos el 5% del mismo, computado individualmente, o el 20 %, computado conjuntamente con el cónyuge, los descendientes, los ascendientes o los colaterales hasta el tercer grado del causante, tanto por consanguinidad o adopción como por afinidad.
+c) Que el causante haya ejercido efectivamente funciones de dirección en la entidad y haya percibido por esta tarea una remuneración que constituya al menos el 50% de la totalidad de los rendimientos de actividades económicas y del trabajo personal, en los términos establecidos en el apartado 2.
+Si la participación en la entidad era conjunta con alguna o algunas de las personas a las que se refiere la letra b), al menos una de las personas de este grupo de parentesco debe cumplir los requisitos relativos a las funciones de dirección y a las remuneraciones derivadas de las mismas.
+2. A efectos de lo establecido en la letra c) del apartado 1, no deben computarse entre los rendimientos de actividades económicas y del trabajo personal los rendimientos de la actividad económica a que se refiere el artículo 7. Si el causante era titular de participaciones en varias entidades y desarrollaba en las mismas tareas directivas retribuidas, y siempre y cuando se cumplan los requisitos que establecen las letras a) y b) del apartado 1, en el cálculo del porcentaje que representa la remuneración por las funciones de dirección ejercidas en cada entidad respecto a la totalidad de los rendimientos del trabajo y de actividades económicas no deben computarse los rendimientos derivados del ejercicio de las funciones de dirección en las demás entidades.
+3. Deben desarrollarse por reglamento los requisitos determinados en el apartado 1.
+Se modifica por el art. 143.2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-54
+
+### Artículo 12
+
+Artículo 12. Concepto de entidad que gestiona un patrimonio mobiliario o inmobiliario.
+1. A efectos de la aplicación de la reducción establecida en la presente sección, tiene la consideración de entidad que gestiona un patrimonio mobiliario o inmobiliario aquella entidad en la cual, durante más de noventa días del año natural inmediatamente anterior a la fecha de la muerte del causante, más de la mitad del activo estuviera constituido por valores o más de la mitad del activo no estuviera afecto a actividades económicas.
+2. Únicamente a efectos de determinar si se dan los requisitos para considerar que una entidad gestiona un patrimonio mobiliario o inmobiliario, el valor del activo y el valor de los elementos patrimoniales no afectos a actividades económicas son los que se deducen de la contabilidad, siempre y cuando esta refleje fielmente la verdadera situación patrimonial de la entidad.
+3. Para determinar, a efectos de lo establecido en el apartado 2, la parte del activo que está constituida por valores o elementos patrimoniales no afectos:
+a) No se computan los siguientes valores:
+Los valores que se poseen en cumplimiento de obligaciones legales y reglamentarias.
+Los valores que incorporan derechos de crédito nacidos de relaciones contractuales establecidas como consecuencia del desarrollo de actividades económicas.
+Los valores poseídos por sociedades de valores como consecuencia del ejercicio de la actividad constitutiva de su objeto.
+Los valores que otorguen al menos el 5 % de los derechos de voto y se posean con la finalidad de dirigir y gestionar la participación, siempre y cuando se disponga a tales efectos de la correspondiente organización de medios materiales y personales y la entidad participada no tenga la consideración, de acuerdo con el apartado 1, de entidad que gestiona un patrimonio mobiliario o inmobiliario.
+b) No se computan como valores ni como elementos no afectos a actividades económicas los valores o elementos cuyo precio de adquisición no supere el importe de los beneficios no distribuidos obtenidos por la entidad, siempre y cuando provengan de la realización de sus actividades económicas, con el límite del importe de los beneficios obtenidos tanto durante el año en curso como durante los diez años anteriores. A tales efectos, se asimilan a los beneficios procedentes de actividades económicas los dividendos que procedan de los valores a que se refiere el último inciso de la letra a, si al menos el 90 % de los ingresos obtenidos por la entidad participada proceden de la realización de actividades económicas.
+
+### Artículo 13
+
+Artículo 13. Actividad económica y bienes afectos.
+Para determinar, al efecto de la reducción establecida en la presente sección, si se desarrolla una actividad económica, o si esta actividad tiene elementos patrimoniales afectos, es preciso atenerse, respectivamente, a las reglas que determinan los artículos 7 y 8, excepto en relación con los activos a que se refiere el último inciso de la letra c del artículo 8.1, los cuales pueden estar afectos a la actividad económica.
+
+### Artículo 14
+
+Artículo 14. Regla de mantenimiento.
+El disfrute definitivo de la reducción establecida en la presente sección queda condicionado al mantenimiento de los elementos adquiridos en el patrimonio del adquirente durante los cinco años siguientes a la muerte del causante, salvo que el adquirente fallezca en este plazo.
+
+## Sección quinta
+
+Sección quinta. Reducción por la adquisición de participaciones en entidades por parte de personas con vínculos laborales o profesionales
+
+### Artículo 15
+
+Artículo 15. Supuesto de aplicación.
+1. En las adquisiciones por causa de muerte, los causahabientes que, sin tener la relación de parentesco determinada en el artículo 10, adquieren participaciones en entidades, con cotización o sin cotización en mercados organizados, pueden disfrutar de la reducción del 95 % del valor de las participaciones adquiridas por la parte que corresponda en razón de la proporción existente entre los activos necesarios para el ejercicio de la actividad empresarial o profesional, minorados en el importe de las deudas derivadas de la misma, y el valor del patrimonio neto de cada entidad. Dichas reglas se aplican asimismo a la valoración de las participaciones de entidades participadas para determinar el valor de las participaciones de la entidad tenedora.
+2. La reducción establecida en la presente sección no se aplica en ningún caso a las participaciones en instituciones de inversión colectiva.
+
+### Artículo 16
+
+Artículo 16. Requisitos.
+1. Para poder disfrutar de la reducción establecida en la presente sección, es preciso que se cumplan los siguientes requisitos:
+a) Los establecidos en el artículo 11.1.
+b) El causahabiente debe tener en la fecha de la muerte del causante una vinculación laboral o de prestación de servicios con la entidad cuyas participaciones son objeto de adquisición gratuita, con una antigüedad mínima de diez años, y debe haber ejercido funciones de dirección en la misma como mínimo los cinco años anteriores a dicha fecha.
+c) La participación del causahabiente en el capital de la entidad resultante de la adquisición por causa de muerte debe ser de más del 50 %; si se trata de sociedades laborales, la participación debe ser de más del 25 %.
+2. Los requisitos y las condiciones que determinan los artículos 12, 13 y 14 se aplican también a la reducción establecida en la presente sección.
+
+## Sección sexta
+
+Sección sexta. Reducción por la adquisición de la vivienda habitual del causante
+
+### Artículo 17
+
+Artículo 17. Supuesto de aplicación.
+En las adquisiciones por causa de muerte que correspondan al cónyuge, a los descendientes, a los ascendientes o a los colaterales del causante, puede aplicarse a la base imponible una reducción del 95 % del valor de la vivienda habitual del causante, con un límite de 500.000 euros por el valor conjunto de la vivienda, que debe prorratearse entre los sujetos pasivos en proporción a su participación; en cualquier caso, el límite individual resultante del prorrateo entre los sujetos pasivos no puede ser menor de 180.000 euros.
+
+### Artículo 18
+
+Artículo 18. Requisitos.
+1. A efectos de la aplicación de la reducción establecida en la presente sección, tiene la consideración de vivienda habitual la vivienda que cumple los requisitos y se ajusta a la definición establecidos en la normativa reguladora del impuesto sobre la renta de las personas físicas, sin perjuicio de que puedan considerarse como vivienda habitual, conjuntamente con esta vivienda, un trastero y hasta dos plazas de aparcamiento, pese a no haber sido adquiridos simultáneamente en unidad de acto, si están ubicados en el mismo edificio o complejo urbanístico y si en la fecha de la muerte del causante se hallaban a su disposición, sin haberse cedido a terceros.
+2. Los parientes colaterales del causante, para poder disfrutar de la reducción establecida en el apartado 1, han de ser mayores de sesenta y cinco años y han de haber convivido con el mismo como mínimo los dos años anteriores a su muerte.
+3. Si el causante, en la fecha de su muerte, tenía su residencia efectiva en un domicilio del que no era titular, tiene la consideración de vivienda habitual, en los términos establecidos en el apartado 1, la vivienda que tenía esta consideración hasta cualquier día de los diez años anteriores a la fecha de la muerte, no aplicándose dicha limitación de diez años si el causante ha tenido el último domicilio en un centro residencial o socio-sanitario. En el supuesto que regula el presente apartado, no rige la prohibición de cesión a terceros establecida en el apartado 1.
+
+### Artículo 19
+
+Artículo 19. Regla de mantenimiento.
+1. El disfrute definitivo de la reducción establecida en la presente sección queda condicionado al mantenimiento de la vivienda, o de la vivienda subrogada de valor equivalente que pase a ser vivienda habitual del causahabiente, en el patrimonio del adquirente durante los cinco años siguientes a la muerte del causante, salvo que el adquirente fallezca en este plazo.
+2. El supuesto de subrogación a que se refiere el apartado 1 se aplica tanto si el importe resultante de la transmisión de la vivienda habitual del causante se ha destinado a adquirir la vivienda habitual del causahabiente como si se ha destinado a amortizar el préstamo o crédito hipotecario concedido al causahabiente para la adquisición de su vivienda habitual. La subrogación debe producirse en ambos casos en el plazo de seis meses desde la fecha de transmisión de la vivienda habitual del causante.
+
+## Sección séptima
+
+Sección séptima. Reducción por la adquisición de determinadas fincas rústicas de dedicación forestal
+
+### Artículo 20
+
+Artículo 20. Supuesto de aplicación.
+1. En las adquisiciones por causa de muerte que correspondan al cónyuge, a los descendientes, a los ascendientes o a los colaterales hasta el tercer grado del causante, puede aplicarse a la base imponible una reducción del 95 % del valor de las fincas rústicas de dedicación forestal, si cumplen alguno de los siguientes requisitos:
+a) Disponer de un instrumento de ordenación forestal que haya sido aprobado por el departamento competente o que se apruebe en el plazo voluntario de presentación de la autoliquidación.
+b) Ser gestionadas en el marco de un convenio, acuerdo o contrato de gestión forestal formalizado con la Administración forestal.
+c) Estar ubicadas en terrenos que han sufrido incendios forestales en los veinticinco años anteriores a la fecha de la muerte del causante o que, de conformidad con la normativa forestal, han sido declarados zona de actuación urgente debido a los incendios que han sufrido.
+2. La base sobre la que se aplica esta reducción comprende tanto el valor del terreno como, en su caso, el de las construcciones ubicadas en la finca forestal y que sean para utilidad exclusiva de la misma.
+Se modifica por el art. 21.1 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+### Artículo 21
+
+Artículo 21. Regla de mantenimiento.
+El disfrute definitivo de la reducción establecida en la presente sección queda condicionado al mantenimiento de la finca rústica de dedicación forestal en el patrimonio del adquirente durante los diez años siguientes a la fecha de la muerte del causante, salvo que el adquirente fallezca en este plazo.
+
+## Sección octava
+
+Sección octava. Reducción por la adquisición de bienes del causante utilizados en la explotación agraria del causahabiente
+
+### Artículo 22
+
+Artículo 22. Supuestos de aplicación.
+1. En las adquisiciones por causa de muerte que correspondan al cónyuge, a los descendientes, a los ascendientes o a los colaterales hasta el tercer grado del causante, tanto por consanguinidad o adopción como por afinidad, puede aplicarse a la base imponible una reducción del 95 % del valor neto de los elementos patrimoniales utilizados en una explotación agraria de la cual sea titular el causahabiente que resulte adjudicatario de los bienes por razón de la partición hereditaria o por atribución del causante.
+2. La reducción establecida en el apartado 1 se aplica asimismo en caso de que la explotación agraria esté a cargo de cualquiera de las personas jurídicas a que se refiere el artículo 6 de la Ley del Estado 19/1995, de 4 de julio, de modernización de las explotaciones agrarias, si participa en la misma el causahabiente que resulte adjudicatario de los mencionados bienes.
+3. También pueden disfrutar de la reducción establecida en el apartado 1 las personas que, sin tener la relación de parentesco que en el mismo se especifica, y sin perjuicio de que deban cumplir los demás requisitos y condiciones determinados en la presente sección, mantengan en la fecha de la muerte del causante una relación laboral dentro de la explotación agraria, con una antigüedad mínima acreditada de diez años, o sean los titulares de la actividad agraria, con la misma antigüedad mínima acreditada.
+
+### Artículo 23
+
+Artículo 23. Requisitos.
+1. Para poder disfrutar de la reducción establecida en la presente sección, es preciso que se cumplan los siguientes requisitos:
+a) El causahabiente debe ostentar la condición de agricultor profesional, conforme a la Ley del Estado 19/1995. En caso de desmembramiento del dominio, para que tanto el nudo propietario como el usufructuario puedan disfrutar de la reducción, es preciso que la condición de agricultor profesional la cumpla, al menos, el nudo propietario.
+b) La persona jurídica a que se refiere el artículo 22.2 debe tener por objeto exclusivamente el ejercicio de la actividad agraria y, si se trata de una sociedad anónima, debe cumplir, además, el requisito de participación determinado en el artículo 6 de la Ley del Estado 19/1995.
+2. Deben determinarse por reglamento los medios de acreditación de la afección del uso de tierras y demás bienes del causante a la explotación agraria a efectos de lo establecido en el apartado 1.
+
+### Artículo 24
+
+Artículo 24. Regla de mantenimiento.
+El disfrute definitivo de la reducción establecida en la presente sección queda condicionado al mantenimiento de los bienes adquiridos, o de bienes subrogados de valor equivalente, en el patrimonio del adquirente durante los cinco años siguientes a la fecha de la muerte del causante, salvo que el adquirente fallezca en este plazo, así como a la utilización exclusiva de estos bienes en la explotación agraria, durante el mismo plazo y con la misma excepción, quedando también condicionado a que el causahabiente mantenga durante este plazo su condición de agricultor profesional.
+
+## Sección novena
+
+Sección novena. Reducción por la adquisición de bienes del patrimonio cultural
+
+### Artículo 25
+
+Artículo 25. Supuestos de aplicación.
+En las adquisiciones por causa de muerte que correspondan al cónyuge, a los descendientes, a los ascendientes o a los colaterales hasta el tercer grado del causante, puede aplicarse a la base imponible una reducción del 95 % del valor de los bienes culturales de interés nacional y de los bienes muebles catalogados que hayan sido calificados e inscritos de acuerdo con la Ley 9/1993, de 30 de septiembre, del patrimonio cultural catalán, una reducción del 95 % del valor de los bienes integrantes del patrimonio histórico o cultural de otras comunidades autónomas que hayan sido calificados e inscritos de acuerdo con la correspondiente normativa específica, una reducción del 95 % del valor de los bienes a que se refieren los apartados 1 y 3 del artículo 4 de la Ley del Estado 19/1991, de 6 de junio, del impuesto sobre el patrimonio, y una reducción del 95 % del valor de la obra propia de los artistas a que se refiere el artículo 4.3.b) de la citada Ley del Estado 19/1991, si el causante es el mismo artista.
+
+### Artículo 26
+
+Artículo 26. Regla de mantenimiento.
+El disfrute definitivo de la reducción establecida por la presente sección queda condicionado al mantenimiento de los bienes adquiridos en el patrimonio del adquirente durante los cinco años siguientes a la muerte del causante, salvo que dentro de este plazo fallezca el adquirente o los bienes sean adquiridos a título gratuito por la Generalidad o por un ente local territorial de Cataluña.
+Se modifica por el art. 89.1 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+## Sección décima
+
+Sección décima. Reducción por la adquisición de bienes del patrimonio natural
+
+### Artículo 27
+
+Artículo 27. Supuestos de aplicación.
+En las adquisiciones por causa de muerte que correspondan al cónyuge, a los descendientes, a los ascendientes o a los colaterales hasta el tercer grado del causante, puede aplicarse a la base imponible una reducción del 95 % del valor de las fincas rústicas de dedicación forestal ubicadas en terrenos incluidos en un espacio integrado en el Plan de espacios de interés natural o en un espacio integrado en la red Natura 2000.
+
+### Artículo 28
+
+Artículo 28. Regla de mantenimiento.
+El disfrute definitivo de la reducción establecida en la presente sección queda condicionado al mantenimiento del bien en el patrimonio del adquirente durante los diez años siguientes a la fecha de la muerte del causante, salvo que el adquirente fallezca en este plazo.
+
+## Sección undécima
+
+Sección undécima. Reducción por sobreimposición decenal
+
+### Artículo 29
+
+Artículo 29. Supuestos y régimen de aplicación.
+1. Si unos mismos bienes o derechos son objeto, en un periodo máximo de diez años, de dos o más transmisiones por causa de muerte a favor del cónyuge, de los descendientes o de los ascendientes, en la segunda y ulteriores transmisiones debe practicarse en la base imponible, con carácter alternativo, la reducción que resulte más favorable entre las dos reducciones siguientes:
+a) Una reducción de cuantía equivalente al importe de las cuotas del impuesto sobre sucesiones y donaciones satisfechas por razón de las precedentes transmisiones por causa de muerte.
+b) La reducción que resulte de la aplicación de la siguiente escala:
+Primero.–Una reducción del 50% del valor real de los bienes y derechos si la transmisión se produce en el año natural siguiente a la fecha de la anterior transmisión.
+Segundo.–Una reducción del 30% del valor real de los bienes y derechos si la transmisión se produce tras transcurrir un año natural y antes de transcurrir cinco años naturales desde la fecha de la anterior transmisión.
+Tercero.–Una reducción del 10% del valor real de los bienes y derechos si la transmisión se produce tras transcurrir cinco años naturales desde la fecha de la anterior transmisión.
+2. En caso de que las reducciones a que se refiere el apartado 1.b recaigan sobre bienes y derechos a los que les sea de aplicación alguna de las otras reducciones establecidas en el presente capítulo, el porcentaje de reducción sólo se aplica al remanente del valor del bien o derecho que no es objeto de las mismas.
+3. La aplicación de las reducciones de este artículo queda condicionada al hecho de que, por razón de la primera adquisición por causa de muerte o la anterior, se haya producido una tributación efectiva en concepto del impuesto sobre sucesiones y donaciones, y se entiende sin perjuicio de las reducciones que procedan. En cualquier caso, se admite la subrogación de bienes o derechos siempre y cuando se acredite de modo fehaciente.
+Se añade el apartado 3 por el art. 54 de Ley 7/2011, de 27 de julio. Ref. BOE-A-2011-13896.
+
+## Sección duodécima
+
+Sección duodécima. Reducción adicional
+
+### Artículo 30
+
+Artículo 30. Régimen de aplicación.
+(Derogado)
+Se deroga por el art. 122.4 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+## Sección decimotercera
+
+Sección decimotercera. Derecho de opción en la reducción por parentesco y en la reducción adicional
+
+### Artículo 31
+
+Artículo 31. Régimen de aplicación.
+(Derogado)
+Se deroga por el art. 122.4 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+## Sección decimocuarta
+
+Sección decimocuarta. Disposiciones comunes para las reducciones establecidas en las secciones tercera a décima
+
+### Artículo 32
+
+Artículo 32. Ámbito de aplicación.
+Las reducciones establecidas en las secciones tercera a décima se aplican tanto en caso de adquisición de la plena propiedad o de la nuda propiedad como en caso de adquisición de cualquier otro derecho sobre los bienes afectados.
+
+### Artículo 33
+
+Artículo 33. Base de las reducciones.
+Los porcentajes de reducción que establecen las secciones tercera a décima se aplican sobre el importe resultante de haber deducido del valor de los bienes o derechos que son objeto de la reducción el importe de las cargas y los gravámenes que establece el artículo 12 de la Ley del Estado 29/1987. El valor así determinado, sin prorrateo del importe de las deudas y gastos generales legalmente deducibles, constituye la base de cálculo de la reducción. La aplicación de la regla de cálculo establecida en el párrafo precedente no puede determinar en ningún caso bases liquidables negativas.
+Se modifica por el art. 61 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+
+### Artículo 34
+
+Artículo 34. Bienes comunes de los cónyuges.
+Las reducciones establecidas en las secciones tercera a décima, si los bienes o derechos que son objeto de la reducción han formado parte de la sociedad de gananciales regulada en el artículo 1344 del Código civil o de otros regímenes económicos matrimoniales análogos, y con independencia de las adjudicaciones concretas que resulten de la liquidación del régimen económico matrimonial, sólo pueden afectar a la mitad del valor de cada bien o derecho adquirido, o a la parte que corresponda en razón de la participación del causante en la comunidad matrimonial.
+
+### Artículo 35
+
+Artículo 35. Regla de mantenimiento de los bienes o derechos adquiridos.
+1. En las adquisiciones por causa de muerte, el causahabiente no puede realizar actos de disposición ni operaciones societarias que, directa o indirectamente, puedan dar lugar a una minoración sustancial del valor de los bienes o derechos adquiridos o, en caso de subrogación, de los bienes o derechos subrogados.
+2. En caso de incumplimiento de lo dispuesto en el apartado 1 o de las reglas de mantenimiento fijadas en los artículos 9, 14, 19, 21, 24, 26 y 28, el sujeto pasivo debe pagar, dentro del plazo voluntario de presentación de la autoliquidación correspondiente a los actos de transmisión entre vivos, la parte del impuesto que había dejado de ingresar como consecuencia de la reducción aplicada, junto a los intereses de demora que se hayan devengado.
+3. Se entiende que el incumplimiento a que se refiere el apartado 2 no se produce si el bien ha sido objeto de expropiación forzosa, se ha perdido en virtud de resolución judicial o disposición legal o se ha perdido o ha sido destruido por causa de fuerza mayor.
+
+## CAPÍTULO II
+
+Otras normas en relación con las adquisiciones por causa de muerte
+
+### Artículo 36
+
+Artículo 36. Relaciones de convivencia de ayuda mutua.
+1. En las adquisiciones por causa de muerte entre miembros de una relación de convivencia de ayuda mutua, los adquirentes quedan asimilados al resto de descendientes del grupo II que define el artículo 2, al efecto de la aplicación de las reducciones que establecen las secciones primera y sexta y al efecto de la aplicación del coeficiente multiplicador para la determinación de la cuota tributaria.
+2. Para poder disfrutar de la reducción establecida en el apartado 1, el conviviente o convivientes supervivientes deben acreditar la existencia de la relación de convivencia de ayuda mutua mediante la escritura pública de formalización de la relación, otorgada como mínimo dos años antes de la muerte del causante, o bien mediante una acta de notoriedad que demuestre un periodo mínimo de dos años de convivencia.
+Se modifica el apartado 1 por el art. 122.5 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+## TÍTULO II
+
+Adquisiciones lucrativas entre vivos
+
+## CAPÍTULO ÚNICO
+
+Reducciones de la base imponible
+
+## Sección preliminar
+
+Sección preliminar. Régimen general
+
+### Artículo 37
+
+Artículo 37. Base liquidable.
+1. En las adquisiciones lucrativas entre vivos, la base liquidable se obtiene de resultas de aplicar a la base imponible las reducciones establecidas en el presente capítulo.
+2. Las reducciones establecidas en las secciones enumeradas seguidamente mejoran las reducciones análogas del Estado:
+Sección primera (reducción por donación del negocio empresarial o profesional).
+Sección segunda (reducción por donación de participaciones en entidades).
+Sección quinta (reducción por donación de bienes del patrimonio cultural).
+3. Las reducciones establecidas en las secciones enumeradas a continuación son reducciones propias:
+– Sección tercera (reducción por la donación de participaciones en entidades a personas con vínculos laborales o profesionales).
+– Sección cuarta (reducción por la donación de dinero para constituir o adquirir una empresa individual o un negocio profesional o para adquirir participaciones en entidades).
+– Sección quinta bis (reducción por la donación de determinadas fincas rústicas de dedicación forestal).
+– Sección séptima (reducción por la donación de una vivienda que ha de constituir la primera vivienda habitual o por la donación de dinero destinado a la adquisición de dicha primera vivienda habitual).
+– Sección octava (reducción por aportaciones a patrimonios protegidos de discapacitados).
+4. Las reducciones establecidas en el presente capítulo son de aplicación a las donaciones por causa de muerte reguladas en el capítulo II del título III de la Ley 10/2008, de 10 de julio, del libro cuarto del Código civil de Cataluña, relativo a las sucesiones, en las que se pacte la transmisión inmediata de la propiedad de la cosa dada sujeta a condición resolutoria de revocación o premoriencia del donatario. Las reducciones que establece el capítulo I del título I de la presente ley no pueden aplicarse a las mencionadas donaciones por causa de muerte, que se asimilan a tal efecto a las adquisiciones lucrativas entre vivos.
+Se modifica el apartado 3 por el art. 21.2 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+## Sección primera
+
+Sección primera. Reducción por donación de un negocio empresarial o profesional
+
+### Artículo 38
+
+Artículo 38. Supuestos de aplicación.
+1. En las donaciones o cualquier otro negocio jurídico gratuito equiparable entre vivos a favor del cónyuge, de los descendientes, de los ascendientes o de los colaterales hasta el tercer grado del donante, tanto por consanguinidad o adopción como por afinidad, puede aplicarse a la base imponible una reducción del 95 % del valor neto de la totalidad de los elementos afectos a una actividad empresarial o profesional del donante.
+2. También pueden disfrutar de la reducción establecida en el apartado 1 aquellas personas que, sin tener la relación de parentesco que en el mismo se especifica, y sin perjuicio de que deban cumplir los demás requisitos y condiciones determinados en la presente sección, cumplan en la fecha de la donación los siguientes requisitos:
+a) Tener una vinculación laboral o de prestación de servicios con la empresa o el negocio profesional del donante, con una antigüedad mínima de diez años
+b) Tener encomendadas tareas de responsabilidad en la gestión o dirección de la empresa o negocio profesional del donante, con una antigüedad mínima de cinco años en el ejercicio de dichas tareas. Se entiende que tiene encomendadas dichas tareas si acredita la categoría laboral correspondiente a los grupos 1 y 2 de cotización del régimen general de la Seguridad Social o si el donante le ha otorgado un apoderamiento especial para realizar las actuaciones habituales de gestión de la empresa.
+
+### Artículo 39
+
+Artículo 39. Requisitos.
+1. Para poder disfrutar de la reducción establecida en la presente sección, es preciso que se cumplan los siguientes requisitos:
+a) Que la actividad sea ejercida por el donante de forma habitual, personal y directa, en los términos establecidos en el apartado 2.
+b) Que el donante haya cumplido sesenta y cinco años, o cese anticipadamente en una actividad agraria, en los términos establecidos en el Reglamento (CE) 1257/1999 del Consejo, o se halle en situación de incapacidad permanente absoluta o de gran invalidez.
+c) Que los rendimientos derivados del ejercicio de la actividad empresarial o profesional cuyos elementos patrimoniales afectos son objeto de donación constituyan al menos el 50 % de la totalidad de los rendimientos del trabajo personal, del capital mobiliario e inmobiliario y de las actividades económicas a efectos del impuesto sobre la renta de las personas físicas del donante, en los términos establecidos en el apartado 3.
+d) Que en la fecha de la donación el donante cese en la actividad empresarial o profesional y deje de percibir rendimientos de la misma.
+2. A efectos de la aplicación de la reducción establecida en la presente sección:
+Se entiende que el donante ha ejercido la actividad de forma habitual si lo ha hecho con vocación de perdurabilidad y continuidad personal en el tiempo.
+Se entiende que el donante ha ejercido la actividad de forma personal si la ha desarrollada por sí mismo.
+Se entiende que el donante ha ejercido la actividad de forma directa si él mismo ha ejercido el control de la misma sin intermediario y ha tenido a su cargo las funciones y facultades de gestión y organización de la actividad.
+3. A efectos de lo establecido en la letra c) del apartado 1:
+No deben computarse como rendimientos del trabajo personal las remuneraciones por la participación del donante en las entidades que son objeto de la reducción establecida en la sección segunda.
+No deben computarse como rendimientos de actividades económicas los rendimientos derivados del ejercicio de otras actividades empresariales o profesionales del donante, siempre y cuando la suma de la totalidad de los rendimientos de actividades económicas constituya al menos el 50 % de la totalidad de los rendimientos del trabajo personal, del capital mobiliario e inmobiliario y de actividades económicas, y tampoco los rendimientos derivados de la participación del donante en las entidades que son objeto de la reducción que establece la sección segunda.
+4. Para determinar, a efectos de la reducción establecida en la presente sección, si se desarrolla una actividad empresarial o profesional, o si tal actividad tiene bienes afectos, es preciso atenerse a las reglas determinadas en la sección tercera del capítulo I del título I.
+5. Deben determinarse por reglamento las condiciones y requisitos de acreditación de una actividad empresarial o profesional a efectos de lo establecido en el apartado 1.
+
+### Artículo 40
+
+Artículo 40. Regla de mantenimiento.
+El disfrute definitivo de la reducción establecida en la presente sección queda condicionado al mantenimiento del ejercicio de la actividad empresarial o profesional durante los cinco años siguientes a la donación, o al negocio jurídico equiparable, salvo que el donatario fallezca en este plazo, así como al mantenimiento en el patrimonio del donatario, durante el mismo plazo y con la misma excepción, de los elementos que han sido objeto de la donación, o de los elementos subrogados, y de su afectación a la actividad empresarial o profesional.
+
+## Sección segunda
+
+Sección segunda. Reducción por donación de participaciones en entidades
+
+### Artículo 41
+
+Artículo 41. Supuesto de aplicación.
+1. En las donaciones o cualquier otro negocio jurídico gratuito equiparable entre vivos a favor del cónyuge, de los descendientes, de los ascendientes o de los colaterales hasta el tercer grado del donante, tanto por consanguinidad o adopción como por afinidad, puede aplicarse a la base imponible una reducción del 95 % del valor de las participaciones en entidades, con cotización o sin cotización en mercados organizados, por la parte que corresponda en razón de la proporción existente entre los activos necesarios para el ejercicio de la actividad empresarial o profesional, minorados en el importe de las deudas derivadas de la misma, y el valor del patrimonio neto de cada entidad. Dichas reglas se aplican asimismo en la valoración de las participaciones de entidades participadas para determinar el valor de las participaciones de la entidad tenedora.
+2. En caso de donación de participaciones en sociedades laborales, la reducción establecida en el apartado 1 es del 97%.
+3. La reducción establecida en la presente sección no se aplica en ningún caso a las participaciones en instituciones de inversión colectiva.
+
+### Artículo 42
+
+Artículo 42. Requisitos.
+1. Para poder disfrutar de la reducción establecida en la presente sección, deben cumplirse los siguientes requisitos:
+a) Que el donante haya cumplido sesenta y cinco años, o se halle en situación de incapacidad permanente absoluta o de gran invalidez.
+b) Que la entidad no tenga como actividad principal, en los términos establecidos en el artículo 12, la gestión de un patrimonio mobiliario o inmobiliario.
+c) Que la participación del donante en el capital de la entidad sea al menos del 5%, computado individualmente, o del 20%, computado conjuntamente con el cónyuge, los descendientes, los ascendientes o los colaterales hasta el tercer grado del donante, tanto por consanguinidad o adopción como por afinidad.
+d) Que el donante haya ejercido efectivamente funciones de dirección en la entidad y haya percibido por esta tarea una remuneración que constituya al menos el 50% de la totalidad de los rendimientos de actividades económicas y del trabajo personal, en los términos establecidos en el apartado 2.
+Si la participación en la entidad es conjunta con alguna o algunas de las personas a las que se refiere la letra c de este apartado, al menos una de las personas de este grupo de parentesco debe cumplir los requisitos relativos a las funciones de dirección y a las remuneraciones derivadas de las mismas.
+e) Que el donante, en la fecha de la donación, si ejerce funciones de dirección en la entidad, deje de ejercerlas y deje de percibir las correspondientes remuneraciones.
+2. A efectos de lo establecido en la letra d del apartado 1:
+a) No deben computarse como rendimientos del trabajo personal los rendimientos derivados del ejercicio de funciones de dirección en otras entidades, siempre y cuando se cumplan los requisitos establecidos en las letras b y c del apartado 1.
+b) No deben computarse como rendimientos de actividades económicas los rendimientos derivados del ejercicio de otras actividades empresariales o profesionales del donante, siempre y cuando la suma de la totalidad de los rendimientos de actividades económicas constituya al menos el 50% de la totalidad de los rendimientos del trabajo personal, del capital mobiliario e inmobiliario y de actividades económicas, con la misma excepción que establece la letra a en cuanto a los rendimientos derivados del ejercicio de funciones de dirección.
+3. Deben desarrollarse por reglamento los requisitos determinados en el apartado 1.
+Se modifica por el art. 143.3 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-54
+
+### Artículo 43
+
+Artículo 43. Regla de mantenimiento.
+El disfrute definitivo de la reducción establecida en la presente sección queda condicionado al mantenimiento en el patrimonio del donatario, durante los cinco años siguientes a la donación, o al negocio jurídico equiparable, y salvo que el donatario fallezca en este plazo, de los elementos que han sido objeto de la donación, así como al cumplimiento, durante el mismo plazo y con la misma excepción, de los requisitos que establecen para la entidad participada y para el donante las letras b, c y d del artículo 42.1.
+
+## Sección tercera
+
+Sección tercera. Reducción por la donación de participaciones en entidades a personas con vínculos laborales o profesionales
+
+### Artículo 44
+
+Artículo 44. Supuesto de aplicación.
+1. En las donaciones o cualquier otro negocio jurídico gratuito equiparable entre vivos a favor de personas que, sin tener la relación de parentesco especificada en el artículo 41, adquieren participaciones en entidades, con cotización o sin cotización en mercados organizados, puede aplicarse a la base imponible una reducción del 95% del valor de las participaciones adquiridas, por la parte que corresponda en razón de la proporción existente entre los activos necesarios para el ejercicio de la actividad empresarial o profesional, minorados en el importe de las deudas derivadas de la misma, y el valor del patrimonio neto de cada entidad. Dichas reglas se aplican asimismo a la valoración de las participaciones de entidades participadas para determinar el valor de las participaciones de la entidad tenedora.
+2. La reducción establecida en la presente sección no se aplica en ningún caso a las participaciones en instituciones de inversión colectiva.
+
+### Artículo 45
+
+Artículo 45. Requisitos.
+Para poder disfrutar de la reducción establecida en la presente sección, es preciso que se cumplan los siguientes requisitos:
+a) Los establecidos en el artículo 42.1.
+b) Que el donatario tenga una vinculación laboral o de prestación de servicios con la entidad cuyas participaciones son objeto de adquisición gratuita, con una antigüedad mínima de diez años, y que haya ejercido funciones de dirección en la misma como mínimo los cinco años anteriores a esta fecha.
+c) Que la participación del donatario en el capital de la entidad resultante de la donación sea de más del 50 %.
+
+### Artículo 46
+
+Artículo 46. Regla de mantenimiento.
+El disfrute definitivo de la reducción establecida en la presente sección queda condicionado a los siguientes requisitos:
+a) El donatario debe mantener en su patrimonio, durante los cinco años siguientes a la donación, o al negocio jurídico equiparable, y salvo que fallezca en este plazo, los elementos que han sido objeto de la donación, y debe continuar ejerciendo en la entidad, durante el mismo plazo y con la misma excepción, funciones de dirección.
+b) La entidad no puede tener como actividad principal, en los términos establecidos en el artículo 12, la gestión de un patrimonio mobiliario o inmobiliario.
+
+## Sección cuarta
+
+Sección cuarta. Reducción por la donación de dinero para constituir o adquirir una empresa o un negocio profesional o para adquirir participaciones en entidades.
+Se modifica la rúbrica por el art. 143.4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-54
+
+### Artículo 47
+
+Artículo 47. Supuesto de aplicación.
+1. En las donaciones de dinero a favor de descendientes para constituir o adquirir un negocio profesional o una empresa o para adquirir participaciones, siempre y cuando la empresa, el negocio o la entidad tengan el domicilio social y fiscal en Cataluña, puede aplicarse a la base imponible una reducción del 95 % del importe dado, con una reducción máxima de 200.000 euros, límite que se fija en 400.000 euros para los donatarios que tengan un grado de discapacidad igual o superior al 33 %.
+2. Los importes máximos fijados en el apartado 1 se aplican tanto en caso de una única donación de dinero como en caso de donaciones sucesivas o simultáneas, que a tal efecto son acumulables, tanto si provienen del mismo ascendiente como si provienen de distintos ascendientes. En caso de donaciones sucesivas, solo puede aplicarse la reducción, con los mencionados límites, a las que se hayan realizado en los seis meses anteriores a la constitución o la adquisición de la empresa o negocio o a la adquisición de las participaciones, de acuerdo con lo establecido por la letra b del artículo 48.
+Se modifica por el art. 21.3 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+ Se modifica el apartado 1 por el art. 143.5 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-54
+
+### Artículo 48
+
+Artículo 48. Requisitos.
+Para poder disfrutar de la reducción establecida por la presente sección, es preciso que se cumplan los siguientes requisitos:
+a) La donación debe formalizarse en escritura pública, otorgada en el plazo de un mes a contar de la fecha de entrega del dinero. Debe hacerse constar de forma expresa en la escritura que el donatario destina el dinero dado exclusivamente a la constitución o adquisición de su primera empresa o de su primer negocio profesional o a la adquisición de sus primeras participaciones en entidades que cumplen los requisitos que determina el presente artículo.
+b) La constitución o la adquisición de la empresa o el negocio profesional o la adquisición de las participaciones debe producirse en el plazo de seis meses a contar desde la fecha de formalización de la donación.
+c) El patrimonio neto del donatario en la fecha de formalización de la donación no puede ser superior a 500.000 euros.
+d) La empresa, el negocio o la entidad no pueden tener como actividad principal, en los términos establecidos en el artículo 12, la gestión de un patrimonio mobiliario o inmobiliario.
+e) En caso de adquisición de una empresa o un negocio o de adquisición de participaciones en entidades, no puede haber ninguna vinculación entre la empresa, el negocio o la entidad y el donatario, en los términos establecidos por el artículo 18 de la Ley 27/2014, de 27 de noviembre, del impuesto sobre sociedades.
+f) En el caso de adquisición de una empresa o un negocio, el importe de la cifra de negocios neto del último ejercicio cerrado antes de la fecha de adquisición no puede superar los siguientes límites:
+– Tres millones de euros, en caso de adquisición de una empresa.
+– Un millón de euros, en caso de adquisición de un negocio profesional.
+g) En caso de adquisición de participaciones en una entidad, exceptuando las empresas de economía social, las cooperativas de trabajo asociado y las sociedades laborales, además de los límites del importe de la cifra de negocio neto que establece la letra f, es preciso cumplir los siguientes requisitos:
+– Las participaciones adquiridas por el donatario deben constituir al menos el 50 % del capital social de la entidad.
+– El donatario debe ejercer efectivamente funciones de dirección en la entidad.
+Se modifica por el art. 21.4 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+ Se modifican las letras a), c) y g) por el art. 143.6 a 8 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-54
+
+### Artículo 49
+
+Artículo 49. Regla de mantenimiento.
+El disfrute definitivo de la reducción establecida en la presente sección queda condicionado al hecho de que el donatario continúe ejerciendo funciones de dirección en la entidad durante los cinco años siguientes a la donación, o al negocio jurídico equiparable, salvo que el donatario fallezca en este plazo, así como al mantenimiento en el patrimonio del donatario, durante el mismo plazo y con la misma excepción, de los bienes resultantes de la donación, o de bienes subrogados de valor equivalente.
+
+## Sección quinta
+
+Sección quinta. Reducción por la donación de bienes del patrimonio cultural
+
+### Artículo 50
+
+Artículo 50. Supuestos de aplicación.
+En las donaciones o cualquier otro negocio jurídico gratuito equiparable entre vivos a favor del cónyuge o los descendientes, puede aplicarse a la base imponible una reducción del 95 % del valor de los bienes culturales de interés nacional y de los bienes muebles catalogados que hayan sido calificados e inscritos de acuerdo con la Ley 9/1993, de 30 de septiembre, del patrimonio cultural catalán, una reducción del 95 % del valor de los bienes integrantes del patrimonio histórico o cultural de otras comunidades autónomas que hayan sido calificados e inscritos de acuerdo con la normativa específica correspondiente y una reducción del 95 % del valor de los bienes a que se refieren los apartados 1 y 3 del artículo 4 de la Ley del Estado 19/1991, de 6 de junio, del impuesto sobre el patrimonio.
+
+### Artículo 51
+
+Artículo 51. Regla de mantenimiento.
+El disfrute definitivo de la reducción establecida en la presente sección queda condicionado al mantenimiento de los bienes objeto de la donación en el patrimonio del donatario durante los cinco siguientes años a la donación, o al negocio jurídico equiparable, salvo que en este plazo fallezca el donatario o los bienes sean adquiridos a título gratuito por la Generalidad o por un ente local territorial de Cataluña.
+Se modifica por el art. 143.9 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-54
+
+## Sección quinta bis
+
+Sección quinta bis. Reducción por la donación de determinadas fincas rústicas de dedicación forestal
+Se añade por el art. 21.5 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+### Artículo 51 bis
+
+Artículo 51 bis. Supuesto de aplicación.
+1. En las donaciones o cualquier otro negocio jurídico gratuito equiparable entre vivos a favor del cónyuge, a los descendientes, a los ascendientes o a los colaterales hasta el tercer grado del donante, puede aplicarse a la base imponible una reducción del 95 % del valor de las fincas rústicas de dedicación forestal, si cumplen alguno de los siguientes requisitos:
+a) Disponer de un instrumento de ordenación forestal que haya sido aprobado por el departamento competente o que se apruebe en el plazo voluntario de presentación de la autoliquidación.
+b) Ser gestionadas en el marco de un convenio, acuerdo o contrato de gestión forestal formalizado con la Administración forestal.
+c) Estar ubicadas en terrenos que han sufrido incendios forestales en los veinticinco años anteriores a la fecha de la donación o que, de conformidad con la normativa forestal, han sido declarados zona de actuación urgente debido a los incendios que han sufrido.
+2. La base sobre la que se aplica esta bonificación comprende tanto el valor del terreno como, en su caso, el de las construcciones ubicadas en la finca forestal y que sean para utilidad exclusiva de la misma.
+Se añade por el art. 21.5 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+### Artículo 51 ter
+
+Artículo 51 ter. Regla de mantenimiento.
+El disfrute definitivo de la reducción establecida en la presente sección queda condicionado al mantenimiento de la finca rústica de dedicación forestal en el patrimonio del adquirente durante los diez años siguientes a la fecha de la donación o cualquier otro negocio jurídico gratuito equiparable entre vivos, salvo que el adquirente fallezca dentro de este plazo.
+Se añade por el art. 21.5 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+## Sección sexta
+
+Sección sexta. Disposiciones comunes para las reducciones establecidas en las secciones primera a quinta bis.
+Se modifica el título por el art. 21.6 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+### Artículo 52
+
+Artículo 52. Ámbito de aplicación.
+Las reducciones establecidas en las secciones primera a quinta bis se aplican tanto en caso de adquisición de la plena propiedad o de la nuda propiedad como en caso de adquisición de cualquier otro derecho sobre los bienes afectados.
+Se modifica por el art. 21.7 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+### Artículo 53
+
+Artículo 53. Regla de mantenimiento de los bienes o derechos objeto de la donación.
+1. En las adquisiciones lucrativas entre vivos, el donatario no puede hacer actos de disposición ni operaciones societarias que, directa o indirectamente, puedan dar lugar a una minoración sustancial del valor de los bienes o derechos objeto de la donación.
+2. En caso de incumplimiento de lo dispuesto en el apartado 1 o de las reglas de mantenimiento fijadas por los artículos 40, 43, 46, 49, 51 y 51 ter, el sujeto pasivo debe pagar, dentro del plazo voluntario de presentación de la autoliquidación correspondiente a los actos de transmisión entre vivos, la parte del impuesto que había dejado de ingresar como consecuencia de la reducción aplicada, junto con los intereses de demora que se hayan devengado.
+3. Se entiende que el incumplimiento a que se refiere el apartado 2 no se produce si los bienes y derechos han sido objeto de expropiación forzosa, se han perdido en virtud de resolución judicial o de disposición legal o se han perdido o han sido destruidos por causa de fuerza mayor.
+Se modifica el apartado 2 por el art. 21.8 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+## Sección séptima
+
+Sección séptima. Reducción por la donación de una vivienda que debe constituir la primera vivienda habitual o por la donación de dinero destinado a la adquisición de dicha primera vivienda habitual
+Se modifica por el art. 21.9 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+### Artículo 54
+
+Artículo 54. Supuesto de aplicación.
+1. En las donaciones a descendientes de una vivienda que debe constituir su primera vivienda habitual o de dinero destinado a la adquisición de dicha primera vivienda habitual, puede aplicarse una reducción del 95 % del valor de la vivienda o el importe dados, con una reducción máxima de 60.000 euros, límite que se fija en 120.000 euros para los donatarios que tengan un grado de discapacidad igual o superior al 65 %. También se aplica la reducción en caso de que la donación sea de un terreno o de dinero para adquirirlo para que, en ambos casos, el descendiente construya en el mismo su primera vivienda habitual.
+2. Los importes máximos que fija el apartado 1 se aplican tanto en caso de una única donación como en caso de donaciones sucesivas o simultáneas, que a tal efecto son acumulables, tanto si son exclusivamente dinerarias como si combinan donación de vivienda o terreno y donación de dinero, y tanto si provienen del mismo ascendiente como si provienen de diferentes ascendientes. En las donaciones de dinero, la reducción solo puede aplicarse, con los límites mencionados, a las que se han hecho dentro de los tres meses anteriores a la adquisición de la vivienda o terreno, de acuerdo con lo establecido por la letra d del artículo 55.1.
+Se modifica por el art. 21.9 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+### Artículo 55
+
+Artículo 55. Requisitos.
+1. Para poder disfrutar de la reducción establecida por la presente sección, es necesario que se cumplan los siguientes requisitos:
+a) La donación debe formalizarse en escritura pública, en la que debe hacerse constar de manera expresa la finalidad, en cada caso, de la donación:
+– Que la vivienda constituirá la primera vivienda habitual del donatario.
+– Que el terreno se destinará a la construcción de esta primera vivienda habitual.
+– Que el dinero recibido se destinará a la adquisición del terreno o de la primera vivienda habitual del donatario. En caso de donación dineraria, la escritura pública debe otorgarse en el plazo de un mes a contar desde la entrega del dinero.
+b) El donatario no puede tener más de treinta y seis años, salvo que tenga un grado de discapacidad igual o superior al 65 %.
+c) La suma de las bases imponibles general y del ahorro de la última declaración del impuesto sobre la renta de las personas físicas presentada por el donatario no puede ser superior, restando los mínimos personal y familiar, a 36.000 euros.
+d) En caso de donaciones de dinero, el donatario debe adquirir la vivienda en el plazo de tres meses a contar desde la fecha de la donación o, si hay donaciones sucesivas, a contar desde la fecha de la primera donación.
+2. A efectos de la aplicación de la reducción establecida en la presente sección:
+a) Se considera vivienda habitual tanto la vivienda como un trastero y hasta dos plazas de aparcamiento, que hayan sido adquiridos simultáneamente en unidad de acto o estén situados en el mismo edificio o complejo urbanístico, y siempre que, en ambos casos, en el momento de la transmisión se encuentren a disposición del donante, sin haber sido cedidos a terceras personas.
+b) Para considerar que la vivienda constituye la vivienda habitual del contribuyente debe haber sido habitada de forma efectiva y permanente por el contribuyente en el plazo de doce meses contados a partir de la fecha de adquisición de la vivienda o de finalización de las obras de construcción. En este último caso, las obras deben finalizar dentro de un plazo de tres años a contar desde la donación.
+c) Se considera vivienda habitual la vivienda en la que el contribuyente resida durante un plazo continuado de tres años. Se entiende que la vivienda tuvo también este carácter cuando, a pesar de no haber transcurrido el plazo de tres años, concurran circunstancias que necesariamente exijan el cambio de vivienda, tales como celebración de matrimonio, separación matrimonial, constitución de pareja estable, extinción de pareja estable, traslado laboral, obtención de primer empleo o de empleo más ventajoso u otras análogas.
+d) Si la vivienda ha sido habitada de forma efectiva y permanente por el contribuyente en el plazo de doce meses, contados a partir de la fecha de adquisición o de finalización de las obras, el plazo de tres años al que se refiere la letra c se computa desde esta última fecha.
+e) Se considera adquisición de la primera vivienda habitual la adquisición en plena propiedad de la totalidad de la vivienda o, en caso de cónyuges o futuros contrayentes, de una parte indivisa de la vivienda.
+3. Esta reducción se entiende concedida con carácter provisional y está condicionada al cumplimiento de los requisitos temporales establecidos por las letras b, c y d del apartado 2.
+Se modifica por el art. 21.9 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+## Sección octava
+
+Sección octava. Reducción por aportaciones a patrimonios protegidos de discapacidades
+
+### Artículo 56
+
+Artículo 56. Supuesto de aplicación.
+1. En la parte de las aportaciones a patrimonios protegidos de discapacitados que, en tanto que exceda el importe máximo fijado por ley para tener la consideración de rendimientos del trabajo del discapacitado, quede gravada por el impuesto sobre sucesiones y donaciones como transmisión lucrativa entre vivos, puede aplicarse en la base imponible una reducción del 90 % del importe excedente, siempre que las aportaciones cumplan los requisitos y las formalidades que determina la Ley del Estado 41/2003, de 18 de noviembre, de protección patrimonial de las personas con discapacidad y de modificación del Código civil, de la Ley de enjuiciamiento civil y de la normativa tributaria con esta finalidad.
+2. La misma reducción es aplicable, en los términos establecidos en el apartado 1, en el caso de que las aportaciones se realicen a favor de patrimonios protegidos constituidos al amparo de la Ley 25/2010, de 29 de julio, del libro segundo del Código civil de Cataluña, relativo a la persona y la familia.
+Se modifica por el art. 2.1 de la Ley 2/2016, de 2 de noviembre. Ref. BOE-A-2016-11020.
+
+## Sección novena
+
+Sección novena. Donaciones realizadas por entidades sin ánimo de lucro
+Se añade por el art. 89.2 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+### Artículo 56 bis
+
+Artículo 56 bis. Supuesto de aplicación.
+1. En las donaciones, y en el resto de transmisiones lucrativas entre vivos que sean equiparables, recibidas de fundaciones y asociaciones que cumplen finalidades de interés general, hayan sido o no declaradas de utilidad pública, inscritas en los registros de fundaciones y asociaciones adscritos a la Dirección General de Derecho y de Entidades Jurídicas del Departamento de Justicia, o en registros análogos de otras administraciones públicas, el contribuyente puede aplicar a la base imponible una reducción del 95 %. A efectos de esta reducción, se consideran asociaciones que cumplen fines de interés general las que han sido declaradas de utilidad pública y todas las que promueven actividades cuyo beneficio no esté restringido exclusivamente a sus asociados.
+2. Quedan excluidas de la aplicación de la reducción a la que se refiere el apartado 1:
+a) Las donaciones recibidas de las entidades inscritas en el censo de asociaciones y fundaciones vinculadas a partidos políticos vinculado al registro mencionado en el apartado 1 y de entidades análogas inscritas en otras administraciones públicas.
+b) Las donaciones recibidas de partidos políticos, de asociaciones religiosas o deportivas y de las organizaciones empresariales y sindicales inscritas en registros específicos de la Generalidad o de otras administraciones públicas.
+c) Las donaciones recibidas de asociaciones que queden excluidas de la concesión de ayudas públicas en virtud de lo establecido en el artículo 4 de la Ley Orgánica reguladora del derecho de asociación.
+d) Las donaciones de bienes inmuebles.
+Se añade por el art. 89.2 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+### Artículo 56 ter
+
+Artículo 56 ter. Requisitos.
+1. Para poder disfrutar de la reducción establecida por la presente sección, es necesario que se cumplan los siguientes requisitos:
+a) La entidad donante debe estar inscrita en el registro correspondiente con una antelación mínima de dos años a la realización de la donación y estar operativa desde su constitución. Además, las fundaciones y las asociaciones declaradas de utilidad pública deben estar al corriente de la presentación de las cuentas anuales en los registros correspondientes.
+b) La donación debe realizarse dentro del marco de los fines propios de la entidad donante y debe formalizarse en documento público o privado, otorgado por el donante y el donatario, en el plazo de un mes a contar desde la entrega de la cosa o cantidad. Este documento debe contener, como mínimo, la siguiente información:
+1.º La identificación de la entidad donante (denominación, NIF, domicilio social y número en el correspondiente registro de entidades).
+2.º La identificación del donatario (nombre y apellidos, NIF o NIE y domicilio fiscal).
+3.º El ámbito de actuación o fines de la entidad, de acuerdo con sus estatutos.
+4.º La cosa o cantidad objeto de la donación.
+5.º El motivo de la donación y los fines o usos a los que el donatario debe aplicar la cosa o cantidad.
+6.º La previsión expresa, en su caso, de la reversión parcial del exceso no aplicado por el donatario al fin o uso mencionados en el punto 5.º
+c) Si se trata de una donación de dinero, la entrega debe realizarse por una de las dos siguientes vías:
+1.º Por transferencia bancaria a una cuenta nominativa del donatario, que debe destinar la totalidad de la donación a los fines establecidos en el documento al que se refiere la letra b, en el plazo de seis meses a contar desde la fecha de este documento, ampliable por otros seis meses por causa justificada y debidamente acreditada.
+2.º Por transferencia directa de la entidad donante a la cuenta bancaria del acreedor del donatario por la prestación de servicios o entrega de bienes de los que este haya sido beneficiario que queden amparados en el documento de la donación a la que se refiere la letra b).
+2. Salvo en el supuesto establecido por el párrafo siguiente, el incumplimiento por parte del donatario de la aplicación de la cosa o cantidad recibida a los fines o usos recogidos en el documento al que se refiere la letra b conlleva la pérdida total de la reducción, con aplicación de los intereses de demora correspondientes y sin perjuicio de los recargos y las sanciones que puedan resultar aplicables de acuerdo con la normativa tributaria general.
+Si una vez efectuada la donación resulta que es excesiva, en términos cuantitativos o temporales, y el donatario devuelve este exceso a la entidad donante porque así lo establece expresamente el documento de donación al que se refiere el punto 6.º de la letra b), el contribuyente puede solicitar la rectificación de la autoliquidación con devolución, si procede, de la parte de la cuota que representa este exceso, previa acreditación del retorno a la entidad de este exceso por cualquier medio de prueba admitido en derecho.
+3. El plazo para presentar e ingresar la autoliquidación del impuesto es de un mes a contar desde la fecha de entrega de la cosa o cantidad.
+Se añade por el art. 89.2 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+## TÍTULO III
+
+Deuda tributaria
+
+### Artículo 57
+
+Artículo 57. Tarifa.
+1. La cuota íntegra del impuesto sobre sucesiones y donaciones en las transmisiones lucrativas entre vivos a favor de contribuyentes de los grupos I y II que define el artículo 2 se obtiene como resultado de aplicar a la base liquidable la siguiente escala:
+Base liquidable
+ –
+ Hasta euros
+ Cuota íntegra
+ –
+ Euros
+ Resto base liquidable
+ –
+ Hasta euros
+ Tipo
+ –
+ Porcentaje
+ 0,00
+ 0,00
+ 200.000,00
+ 5
+ 200.000,00
+ 10.000,00
+ 600.000,00
+ 7
+ 600.000,00
+ 38.000,00
+ En adelante
+ 9
+2. Para poder aplicar la tarifa que establece el apartado 1, la donación entre vivos, o el negocio jurídico equiparable, debe haberse formalizado en escritura pública o sentencia judicial. Si la escritura no es requisito de validez, es necesario que el otorgante o otorgantes la eleven a público:
+a) En el plazo de un mes a contar desde la fecha de entrega del bien.
+b) En el caso del negocio jurídico equiparable, en el plazo de un mes a contar desde la celebración del negocio.
+La tarifa establecida por el apartado 1 no es aplicable a los negocios jurídicos a los que se refiere la letra e del artículo 12 del Real decreto 1629/1991, de 8 de noviembre, por el que se aprueba el Reglamento del impuesto sobre sucesiones y donaciones.»
+3. La cuota íntegra del impuesto sobre sucesiones y donaciones en las demás transmisiones aparte de las que regula el apartado 1 se obtiene como resultado de aplicar a la base liquidable la siguiente escala:
+Base liquidable
+ –
+ Hasta euros
+ Cuota íntegra
+ –
+ Euros
+ Resto base liquidable
+ –
+ Hasta euros
+ Tipo
+ –
+ Porcentaje
+ 0,00
+ 0,00
+ 50.000,00
+ 7
+ 50.000,00
+ 3.500,00
+ 150.000,00
+ 11
+ 150.000,00
+ 14.500,00
+ 400.000,00
+ 17
+ 400.000,00
+ 57.000,00
+ 800.000,00
+ 24
+ 800.000,00
+ 153.000,00
+ En adelante
+ 32
+Se modifica el apartado 2 por el art. 89.3 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Se modifica el apartado 2 por el art. 143.10 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-54
+
+### Artículo 58
+
+Artículo 58. Cuota tributaria.
+La cuota tributaria por el impuesto sobre sucesiones y donaciones se obtiene aplicando a la cuota íntegra el coeficiente multiplicador que corresponda de los que se indican a continuación, establecidos en función del patrimonio preexistente del contribuyente y del grupo, según el grado de parentesco señalado en el artículo 2:
+Patrimonio preexistente (euros)
+ Grupos de parentesco
+ I y II
+ III
+ IV
+ De 0 a 500.000.
+ 1,0000
+ 1,5882
+ 2,0000
+ De 500.000,01 a 2.000.000,00.
+ 1,1000
+ 1,5882
+ 2,0000
+ De 2.000.000,01 a 4.000.000,00.
+ 1,1500
+ 1,5882
+ 2,0000
+ Más de 4.000.000,00.
+ 1,2000
+ 1,5882
+ 2,0000»
+Se modifica por el art. 89.4 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+### Artículo 58 bis
+
+Artículo 58 bis. Bonificación de la cuota tributaria.
+1. Los cónyuges pueden aplicar una bonificación del 99% de la cuota tributaria del impuesto sobre sucesiones en las adquisiciones por causa de muerte, incluidas las cantidades percibidas por los beneficiarios de seguros de vida que se acumulan al resto de bienes y derechos que integran su porción hereditaria.
+2. El resto de contribuyentes de los grupos I y II pueden aplicar la bonificación en el porcentaje medio ponderado que resulte de la aplicación para cada tramo de base imponible de los siguientes porcentajes:
+a) Para los contribuyentes del grupo I:
+Base imponible
+ Bonificación
+ ( %)
+ Resto base imponible
+ Bonificación marginal ( %)
+ 0,00
+ 0,00
+ 100.000,00
+ 99,00
+ 100.000,00
+ 99,00
+ 100.000,00
+ 97,00
+ 200.000,00
+ 98,00
+ 100.000,00
+ 95,00
+ 300.000,00
+ 97,00
+ 200.000,00
+ 90,00
+ 500.000,00
+ 94,20
+ 250.000,00
+ 80,00
+ 750.000,00
+ 89,47
+ 250.000,00
+ 70,00
+ 1.000.000,00
+ 84,60
+ 500.000,00
+ 60,00
+ 1.500.000,00
+ 76,40
+ 500.000,00
+ 50,00
+ 2.000.000,00
+ 69,80
+ 500.000,00
+ 40,00
+ 2.500.000,00
+ 63,84
+ 500.000,00
+ 25,00
+ 3.000.000,00
+ 57,37
+ en adelante
+ 20,00
+b) Para el resto de contribuyentes del grupo II:
+Base imponible
+ Bonificación
+ ( %)
+ Resto base imponible
+ Bonificación marginal ( %)
+ 0,00
+ 0,00
+ 100.000,00
+ 60,00
+ 100.000,00
+ 60,00
+ 100.000,00
+ 55,00
+ 200.000,00
+ 57,50
+ 100.000,00
+ 50,00
+ 300.000,00
+ 55,00
+ 200.000,00
+ 45,00
+ 500.000,00
+ 51,00
+ 250.000,00
+ 40,00
+ 750.000,00
+ 47,33
+ 250.000,00
+ 35,00
+ 1.000.000,00
+ 44,25
+ 500.000,00
+ 30,00
+ 1.500.000,00
+ 39,50
+ 500.000,00
+ 25,00
+ 2.000.000,00
+ 35,88
+ 500.000,00
+ 20,00
+ 2.500.000,00
+ 32,70
+ 500.000,00
+ 10,00
+ 3.000.000,00
+ 28,92
+ en adelante
+ 0,00
+3. En caso de desmembramiento del dominio, la base imponible a la que se refiere el apartado 2 es la base imponible teórica.
+4. Los contribuyentes de los grupos I y II a los que se refiere el apartado 2 no tienen derecho a la bonificación en caso de que opten por aplicar cualquiera de las siguientes reducciones y exenciones:
+a) Las reducciones establecidas por las secciones tercera a décima, salvo la reducción por vivienda habitual establecida por la sección sexta, que es aplicable en todos los casos.
+b) Las exenciones y reducciones reguladas por la Ley del Estado 19/1995, de 4 de julio, de modernización de las explotaciones agrarias.
+c) Cualquier otra reducción de la base imponible o exención que requiera que el contribuyente la solicite y que dependa de la concurrencia de determinados requisitos cuyo cumplimiento corresponda exclusivamente a la voluntad del contribuyente
+5. El porcentaje medio ponderado resultante debe tener solamente dos decimales, de modo que se aproximan las milésimas a la centésima más próxima: si la milésima es igual o inferior a 5, se mantiene la centésima; si es superior a 5, se aproxima a la centésima superior.
+6. La opción a la que se refiere el apartado 4 se entiende ejercida con la presentación de la autoliquidación. Si durante el plazo voluntario de presentación de la autoliquidación el contribuyente manifiesta opciones distintas, se entiende que vale la opción manifestada en último lugar.
+El derecho de opción no se rehabilita si, como resultado de la comprobación administrativa, se constata que no se pueden aplicar una o más de una de las reducciones o exenciones especificadas por el apartado 4. Tampoco se rehabilita si se incumplen las reglas de mantenimiento a las que está condicionado el disfrute definitivo de las reducciones o exenciones mencionadas.
+Se modifican los apartados 2 y 4 por el art. 89.5 y 6 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Se modifica por el art. 122.6 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se añade por el art. 1 de la Ley 3/2011, de 8 de junio. Ref. BOE-A-2011-10974.
+
+## TÍTULO IV
+
+Disposiciones comunes aplicables a las adquisiciones por causa de muerte y a las adquisiciones lucrativas entre vivos
+
+### Artículo 59
+
+Artículo 59. Tratamiento fiscal de las parejas estables.
+1. Los miembros de las parejas estables quedan asimilados a los cónyuges, a efectos del impuesto sobre sucesiones y donaciones, dentro del ámbito de competencias asumidas por la Generalidad en el marco de la Ley del Estado 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las comunidades autónomas de régimen común y ciudades con estatuto de autonomía y se modifican determinadas normas tributarias.
+2. Para poder disfrutar de la asimilación que establece el apartado 1, el sujeto pasivo debe acreditar la convivencia en pareja estable, de acuerdo con los requisitos que se establezcan a tal efecto por la normativa reguladora de dichas uniones.
+
+### Artículo 60
+
+Artículo 60. Relaciones entre un cónyuge o un conviviente en pareja estable y los hijos de su cónyuge o del otro miembro de la pareja.
+Las relaciones entre un cónyuge o un conviviente en pareja estable y los hijos de su cónyuge o del otro miembro de la pareja quedan asimiladas, a efectos del impuesto sobre sucesiones y donaciones, a las relaciones entre ascendientes e hijos, dentro del ámbito de competencias asumidas por la Generalidad en el marco de la Ley del Estado 22/2009, de 18 de diciembre.
+
+### Artículo 60 bis
+
+Artículo 60 bis. Acogimiento.
+1. A efectos de este impuesto y dentro del ámbito de competencias asumidas por la Generalidad en el marco de la Ley del Estado 22/2009, de 18 de diciembre, las relaciones entre una persona que esté o haya estado en acogimiento y la persona o personas acogedoras, quedan asimiladas a las relaciones entre hijos y ascendientes.
+2. Para poder disfrutar de los beneficios que comporta la asimilación establecida por el apartado 1, el acogimiento debe haberse acordado de conformidad con lo establecido en la Ley 14/2010, de 27 de mayo, de los derechos y oportunidades en la infancia y la adolescencia.
+Se añade por el art. 37 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+
+### Artículo 61
+
+Artículo 61. Acuerdos de valoración previa vinculante.
+1. De acuerdo con lo establecido por el artículo 91 de la Ley del Estado 58/2003, de 17 de diciembre, general tributaria, los contribuyentes por el impuesto sobre sucesiones y donaciones pueden solicitar a la Administración tributaria que determine, con carácter previo y vinculante, la valoración de rentas, productos, bienes, gastos y otros elementos del hecho imponible, a efectos de este impuesto.
+2. Los obligados tributarios deben presentar la solicitud por escrito antes de que se produzca el hecho imponible y adjuntar, además del justificante del pago de la tasa correspondiente, una propuesta de valoración motivada, firmada por un técnico con la titulación adecuada según la naturaleza del bien valorado, en la cual debe describirse de forma detallada el bien y sus características.
+3. La Administración puede comprobar los elementos de hecho y las circunstancias declaradas por los contribuyentes, a quienes puede requerir los documentos y los datos que considere pertinentes a fin de identificar y valorar correctamente los bienes.
+4. La Administración debe dictar el acuerdo de valoración por escrito en el plazo de tres meses a contar desde la solicitud. El acuerdo debe indicar el bien valorado, el carácter vinculante de la valoración y el impuesto en el cual tiene efectos. La falta de respuesta de la Administración en el plazo indicado implica la aceptación de los valores propuestos por el contribuyente.
+5. El acuerdo de valoración tiene un plazo de vigencia de dieciocho meses desde la fecha en que se notifica. La Administración tributaria debe aplicar al contribuyente los valores establecidos en dicho acuerdo, salvo que se modifique la legislación o que cambien de forma significativa las circunstancias económicas que lo fundamentan.
+6. En el supuesto de realización del hecho imponible antes de la finalización del plazo de tres meses que establece el apartado 4 y sin que la Administración tributaria haya dictado el acuerdo de valoración, hay que considerar que el contribuyente ha desistido de la solicitud de valoración previa.
+7. Contra el acuerdo de valoración no puede interponerse ningún recurso, sin perjuicio que los contribuyentes puedan hacerlo contra las liquidaciones que, si procede, se emitan posteriormente.
+8. El Gobierno debe regular por reglamento las normas de procedimiento, las condiciones y los requisitos necesarios para el cumplimento de lo establecido en el presente artículo.
+
+## TÍTULO V
+
+Obligaciones formales
+
+### Artículo 62
+
+Artículo 62. Aplicación de las normas sobre obligaciones formales.
+En todo aquello que no se regula en el presente título en lo referente a las obligaciones formales con relación al impuesto sobre sucesiones y donaciones, así como en lo referente a los efectos del incumplimiento de tales obligaciones, se aplica la normativa estatal en esta materia.
+
+### Artículo 63
+
+Artículo 63. Obligación de declarar y autoliquidar.
+1. Los contribuyentes están obligados a presentar y suscribir la declaración del impuesto sobre sucesiones y donaciones, firmada por ellos mismos o por sus representantes, dentro de los plazos y en los términos y las condiciones que se determinen por reglamento.
+2. Al presentar la declaración a que se refiere el apartado 1, los contribuyentes deben determinar la deuda tributaria correspondiente, que deben ingresar en el lugar, la forma y los plazos que se determinen por reglamento.
+3. La presentación de los documentos comprensivos de los hechos imponibles del impuesto sobre sucesiones y donaciones, así como, si procede, el pago de la autoliquidación correspondiente, pueden hacerse por vía telemática. La presentación telemática sólo es posible si el notario autorizante ha remitido previamente, también por vía telemática, la declaración informativa de la escritura correspondiente, de acuerdo con el artículo 67 y la normativa de despliegue reglamentario correspondiente.
+
+### Artículo 64
+
+Artículo 64. Obligación de presentar otros documentos además de la declaración y la autoliquidación en las transmisiones por causa de muerte.
+1. En las transmisiones por causa de muerte, junto con la declaración y la autoliquidación a que se refiere el artículo 63, el sujeto pasivo debe aportar los documentos que se determinen por reglamento. En todo caso, si solicita la aplicación de las reducciones que establece el capítulo I del título I, el sujeto pasivo debe adjuntar los documentos que justifiquen el cumplimiento de los requisitos fijados para cada supuesto. Se pueden determinar por reglamento los documentos que como mínimo resulten exigibles a tal efecto.
+2. Sin perjuicio de la obligación del contribuyente de aportar la documentación a que se refiere el apartado 1, la Administración puede pedir, en ejercicio de sus facultades de comprobación e investigación, en el curso del correspondiente procedimiento de gestión o de inspección, cualquier otra documentación que estime necesaria.
+
+### Artículo 65
+
+Artículo 65. Obligación de presentar otros documentos además de la declaración y la autoliquidación en las transmisiones lucrativas entre vivos.
+1. En las transmisiones lucrativas entre vivos, junto con la declaración y la autoliquidación a que se refiere el artículo 63, el sujeto pasivo, si solicita la aplicación de las reducciones que establece el título II, debe adjuntar los documentos que justifiquen el cumplimiento de los requisitos fijados para cada supuesto. Se pueden determinar por reglamento los documentos que como mínimo resulten exigibles a tal efecto.
+2. Sin perjuicio de la obligación del contribuyente de aportar la documentación a que se refiere el apartado 1, la Administración puede pedir, en ejercicio de sus facultades de comprobación e investigación, en el curso del correspondiente procedimiento de gestión o de inspección, cualquier otra documentación que estime necesaria.
+
+### Artículo 66
+
+Artículo 66. Incumplimiento de la obligación de presentar documentos.
+En el supuesto de que la autoliquidación a que se refiere el artículo 63 no vaya acompañada de todos los documentos exigidos por reglamento, se considera que se ha presentado de forma incompleta. La Administración tributaria, sin perjuicio de las sanciones que sean procedentes, debe requerir al obligado tributario que enmiende la omisión. Si los documentos no presentados son necesarios para verificar la procedencia de una reducción, la Administración debe advertir al contribuyente que, si no atiende el requerimiento, se denegará la aplicación de la reducción correspondiente.
+
+### Artículo 67
+
+Artículo 67. Obligación de los notarios de remitir por vía telemática los documentos que autoricen.
+1. En relación con los documentos a que hace referencia el artículo 32.3 de la Ley del Estado 29/1987, y con el fin de cumplir las obligaciones tributarias de los contribuyentes y facilitar la incorporación telemática de los documentos a los registros públicos, los notarios que con destino en el territorio de Cataluña deben remitir por vía telemática, con la colaboración del Consejo General del Notariado, junto con la copia de las escrituras que autoricen, una declaración informativa notarial de los elementos básicos de las escrituras mencionadas, de conformidad con lo dispuesto en la legislación notarial.
+2. Cualquier información de contenido tributario que deba facilitarse en cumplimiento de un mandato legal debe remitirse por vía telemática o presentarse en un soporte directamente legible por ordenador, de acuerdo con las condiciones y el diseño que apruebe una orden de la persona titular del departamento competente en materia de finanzas, la cual, además, puede establecer las circunstancias y los plazos de presentación obligatoria de esta información.
+
+## TÍTULO VI
+
+Normas de aplicación del tributo
+
+## CAPÍTULO I
+
+Liquidación del impuesto
+
+### Artículo 68
+
+Artículo 68. Competencia.
+La competencia en materia de gestión, liquidación, inspección y recaudación del impuesto sobre sucesiones y donaciones corresponde a la Agencia Tributaria de Cataluña y, en los términos que se establezcan en la normativa vigente y en el convenio firmado a tal efecto, a las oficinas liquidadoras de los registros de distrito hipotecario.
+
+### Artículo 69
+
+Artículo 69. Plazo de resolución en los procedimientos de gestión tributaria propios del impuesto.
+1. En los procedimientos de gestión tributaria relativos al impuesto sobre sucesiones y donaciones, el deber de notificación y el cómputo del plazo de resolución se rigen por las reglas que determina el artículo 104.2 de la Ley 58/2003, de 17 de diciembre, general tributaria.
+2. El plazo de resolución de los procedimientos de gestión tributaria propios del impuesto sobre sucesiones y donaciones es de doce meses.
+3. El plazo de resolución que establece el apartado 2 puede ampliarse, con el alcance y los requisitos que se determinen por reglamento, por un nuevo periodo de como máximo doce meses, si se produce alguna de las circunstancias siguientes:
+a) Si las actuaciones revisten una especial complejidad.
+b) Si en el curso de las actuaciones se constata que ha habido ocultación de bienes por parte del obligado tributario.
+c) Si en el curso de las actuaciones se inicia un procedimiento de comprobación de valores.
+4. La especial complejidad a que se refiere la letra a del apartado 3 se determina atendiendo:
+a) El número de causahabientes o donatarios o la existencia de desavenencias entre ellos, si inciden en la tramitación del procedimiento.
+b) El número de bienes transmitidos respeto a los cuales los obligados tributarios soliciten la aplicación de la reducción correspondiente entre las que establecen los títulos I y II, especialmente en caso de las participaciones en entidades y de la actividad empresarial o profesional del transmitente.
+c) La dispersión geográfica de los bienes o las actividades del transmitente, especialmente en caso de bienes situados fuera del territorio de Cataluña.
+d) Las demás circunstancias que se establezcan por reglamento.
+5. El acuerdo de ampliación a que se refiere el apartado 3 debe adoptarse en todo caso por medio de resolución motivada, que debe exponer los hechos e indicar los fundamentos de derecho.
+
+### Artículo 70
+
+Artículo 70. Autoliquidaciones parciales a cuenta.
+1. Los interesados en una sucesión hereditaria pueden hacer una autoliquidación parcial del impuesto sobre sucesiones y donaciones, con el único objeto de cobrar seguros sobre la vida, créditos del causante o haberes devengados y no percibidos por éste, retirar bienes, valores, efectos o dinero del causante que se encuentren en depósito y otros supuestos análogos. La forma y el plazo de presentación de esta autoliquidación y los requisitos para que los interesados puedan cobrar las cantidades o retirar los bienes en depósito deben regularse por reglamento.
+2. Les autoliquidaciones parciales tienen el carácter de ingresos a cuenta de la autoliquidación o liquidación definitiva correspondiente.
+
+## CAPÍTULO II
+
+Pago del impuesto
+
+## Sección primera
+
+Sección primera. Normas generales
+
+### Artículo 71
+
+Artículo 71. Pago del impuesto mediante la entrega de bienes culturales.
+El pago de la deuda tributaria por el impuesto de sucesiones y donaciones puede hacerse mediante la entrega de bienes culturales de interés nacional, bienes culturales de interés local y bienes muebles catalogados que hayan sido calificados e inscritos de acuerdo con la Ley 9/1993, de 30 de septiembre, del patrimonio cultural catalán; bienes integrantes del patrimonio histórico o cultural de otras comunidades autónomas que hayan sido calificados e inscritos de acuerdo con la normativa específica correspondiente, y bienes integrantes del patrimonio histórico español que hayan sido inscritos en el Inventario general de bienes muebles o en el Registro general de bienes de interés cultural, de acuerdo con el artículo 69.2 de la Ley del Estado 16/1985, de 25 de junio, del patrimonio histórico español.
+
+## Sección segunda
+
+Sección segunda. Aplazamiento y fraccionamiento del pago
+
+### Artículo 72
+
+Artículo 72. Norma general.
+El aplazamiento y el fraccionamiento del pago del impuesto sobre sucesiones y donaciones se rigen por las normas que establece la normativa general sobre recaudación vigente en Cataluña, sin perjuicio de lo dispuesto en los artículos 73 a 75.
+
+### Artículo 73
+
+Artículo 73. Aplazamiento y fraccionamiento por los órganos de gestión.
+1. Los órganos de la Agencia Tributaria de Cataluña competentes en materia de gestión del impuesto sobre sucesiones y donaciones pueden acordar, a solicitud del contribuyente, un aplazamiento de hasta un año del pago de las liquidaciones practicadas por causa de muerte, siempre y cuando el inventario de la herencia no comprenda suficiente dinero efectivo o bienes fácilmente realizables para pagar las cuotas liquidadas y siempre que el aplazamiento se solicite antes de que finalice el plazo reglamentario de pago. La concesión del aplazamiento implica la obligación de satisfacer el correspondiente interés de demora.
+En los mismos supuestos y condiciones, se puede acordar el fraccionamiento del pago, en un máximo de cinco anualidades, siempre y cuando se constituya garantía que cubra el pago de la obligación tributaria principal y de los intereses de demora, más un 25% de la suma de ambos conceptos.
+En los supuestos a los que se refiere este apartado, a solicitud de la persona interesada, y siempre y cuando lo autorice la dirección general competente en materia de patrimonio, previo informe favorable del departamento o la entidad competente en función del uso del bien inmueble que se ofrece, los mencionados órganos de gestión pueden acordar que el pago se realice mediante bienes inmuebles constitutivos de la herencia.
+2. En las mismas condiciones que establece el apartado 1, y en los términos y con los requisitos que se fijen por reglamento, los órganos de gestión competentes pueden acordar el aplazamiento del pago de las liquidaciones practicadas por causa de muerte hasta que se hayan conocido los causahabientes de la sucesión, siempre y cuando aporten un compromiso de constitución de aval.
+3. Los órganos de gestión a que se refiere el apartado 1 pueden conceder el aplazamiento y el fraccionamiento de las autoliquidaciones o liquidaciones practicadas por herencia o legado en nuda propiedad, en los términos y con las condiciones que se establezcan por reglamento.
+Véase, en cuanto al aplazamiento excepcional del impuesto de sucesiones y donaciones concedido por los órganos de gestión en virtud del apartado 1, la disposición final 1 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+Véase, en cuanto al aplazamiento excepcional del impuesto de sucesiones y donaciones concedido por los órganos de gestión en virtud del apartado 1, la disposición final 1 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+ Véase, en cuanto al aplazamiento excepcional del impuesto sobre sucesiones y donaciones concedido por los órganos de gestión en virtud del apartado 1, el art. 36 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Se modifica el apartado 1 por el art. 143.11 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-54
+ Se modifica el apartado 1 por el art. 122.7 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 74
+
+Artículo 74. Fraccionamiento de la liquidación por seguros que se perciben en forma de renta.
+1. El pago del impuesto correspondiente a los seguros sobre la vida cuyo importe deba percibirse en forma de renta, tanto si el causante es el contratante del seguro como si se trata de un seguro colectivo, puede fraccionarse en el número de años de percepción de la pensión, si la renta es temporal, o en un número máximo de quince años, si la renta es vitalicia. Este fraccionamiento no comporta la constitución de ningún tipo de caución ni devenga ningún tipo de interés.
+2. El fraccionamiento a que se refiere el apartado 1 queda anulado si el beneficiario ejerce el derecho de rescate, caso en que le son exigibles los pagos pendientes.
+3. En el supuesto de que la pensión a que se refiere el apartado 1 se extinga durante el periodo de fraccionamiento del pago del impuesto, los pagos pendientes dejan de ser exigibles.
+4. El procedimiento para aplicar las disposiciones del presente artículo debe determinarse por reglamento.
+
+### Artículo 75
+
+Artículo 75. Otros supuestos especiales.
+En los términos y con las condiciones que se establezcan por reglamento, puede acordarse el fraccionamiento o el aplazamiento del pago de las autoliquidaciones y liquidaciones practicadas a raíz de la transmisión por herencia, legado o donación de los bienes a qué hacen referencia las secciones tercera a décima del capítulo I del título I y las secciones primera, segunda, tercera y quinta del capítulo único del título II.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Tratamiento del género en las denominaciones referidas a personas.
+En la presente ley, se entiende que las denominaciones en género masculino referidas a personas incluyen mujeres y hombres, salvo que el contexto indique lo contrario.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Alcance de determinados conceptos.
+Las referencias que contiene la presente ley a los ascendientes y a los descendientes se aplican indistintamente, y con los mismos efectos, a los que lo son por naturaleza y a los que lo son por adopción.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Impuesto sobre la renta de las personas físicas.
+1. Con efectos a partir del 1 de enero de 2010, y en el marco de competencias normativas que define el artículo 46.1 de la Ley del Estado 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las comunidades autónomas de régimen común y ciudades con estatuto de autonomía y se modifican determinadas normas tributarias, se aprueba la siguiente escala autonómica del impuesto sobre la renta de las personas físicas:
+Base liquidable
+ –
+ Hasta euros
+ Cuota íntegra
+ –
+ Euros
+ Resto base liquidable
+ –
+ Hasta euros
+ Tipo aplicable
+ –
+ Porcentaje
+ 0,00
+ 0,00
+ 17.707,20
+ 12
+ 17.707,20
+ 2.124,86
+ 15.300,00
+ 14
+ 33.007,20
+ 4.266,86
+ 20.400,00
+ 18,5
+ 53.407,20
+ 8.040,86
+ En adelante
+ 21,5
+Se deroga el apartado 2, con efectos desde el 1 de enero de 2013, por el art. 119.1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Modificación del título XXVI del texto refundido de la Ley de tasas y precios públicos de la Generalidad de Cataluña.
+Se modifican la rúbrica y los artículos 26.2-1, 26.2-4, 26.2-5 y 26.2-6 del capítulo II del título XXVI de la Ley de tasas y precios públicos de la Generalidad de Cataluña, añadido al texto refundido de la Ley (aprobado por el Decreto Legislativo 3/2008, de 25 de junio) por el artículo 17 de la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas. La rúbrica y los artículos mencionados quedan redactados del siguiente modo:
+«CAPÍTULO II
+Tasa por la tramitación de las autorizaciones de trabajo para las personas extranjeras
+Artículo 26.2.1 Hecho imponible.
+Constituye el hecho imponible de la tasa la tramitación de la autorización administrativa inicial para trabajar, así como las modificaciones que se hagan.
+Artículo 26.2.4. Acreditación.
+La tasa se acredita cuando se solicita la autorización inicial de trabajo o cuando se solicita su modificación. El sujeto pasivo está obligado a practicar la autoliquidación de la tasa correspondiente.
+Artículo 26.2.5 Cuota.
+Las cuotas por la tramitación de las autorizaciones iniciales de trabajo por un periodo superior a seis meses y de las modificaciones que se hagan son las siguientes:
+1. Autorizaciones de trabajo por cuenta ajena:
+1.1 Autorización inicial de trabajo por cuenta ajena:
+1.1.1 Retribución inferior a dos veces el sueldo mínimo interprofesional: 188,25 euros.
+1.1.2 Retribución igual o superior a dos veces el sueldo mínimo interprofesional: 376,54 euros.
+1.2 Modificación de autorizaciones de trabajo por cuenta ajena: 75,30 euros.
+2. Autorizaciones de trabajo por cuenta propia:
+2.1 Autorización inicial: 188,25 euros.
+2.2 Modificación: 75,30 euros.
+3. Autorizaciones de trabajo para trabajadores transfronterizos:
+3.1 Autorización inicial de trabajo por cuenta ajena:
+3.1.1 Retribución inferior a dos veces el sueldo mínimo interprofesional: 188,25 euros.
+3.1.2 Retribución igual o superior a dos veces el sueldo mínimo interprofesional: 376,54 euros.
+3.2 Autorización inicial de trabajo por cuenta propia: 188,25 euros.
+4. Otras autorizaciones de trabajo:
+4.1 Autorización de trabajo para titulares de autorización de estancia por estudios:
+4.1.1 Concesión inicial de duración inferior a seis meses: gratuita.
+4.1.2 Concesión inicial de duración superior a seis meses: 112,95 euros.
+4.1.3 Modificación: 37,64 euros.
+4.2 Autorizaciones de trabajo para titulares de autorizaciones de residencia por circunstancias excepcionales.
+4.2.1 Retribución inferior a dos veces el sueldo mínimo interprofesional: 188,25 euros.
+4.2.2 Retribución igual o superior a dos veces el sueldo mínimo interprofesional: 376,54 euros.
+Artículo 26.2.6 Pago.
+El sujeto pasivo debe entregar al órgano administrativo competente para tramitar la autorización de trabajo una copia del modelo oficial de autoliquidación en que quede justificado el ingreso. Este justificante de pago también debe presentarse en el momento de solicitar la tarjeta de identidad de extranjero al organismo competente.»
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Aplicación de la normativa sobre gestión del impuesto.
+1. Mientras no se aprueben los despliegues reglamentarios pertinentes, se aplican las normas reglamentarias vigentes, de ámbito catalán o estatal, en todo aquello que no se oponga a la presente ley o la contradiga.
+2. Mientras no se aprueben por reglamento los plazos de presentación a que se refiere el artículo 63, se aplican los plazos que establece el artículo 14 de la Ley 12/2004, de 27 de diciembre, de medidas financieras.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Aplazamiento excepcional del impuesto sobre sucesiones y donaciones por los órganos de gestión.
+Con carácter excepcional, el aplazamiento que concedan los órganos de gestión de la Administración tributaria en virtud del artículo 73.1 puede ser de hasta dos años en el caso de las cuotas del impuesto sobre sucesiones y donaciones correspondientes a hechos imponibles devengados en el período que va del 1 de agosto de 2009 al 31 de diciembre de 2017.
+Se modifica por el art. 2.2 de la Ley 2/2016, de 2 de noviembre. Ref. BOE-A-2016-11020.
+ Se modifica por el art. 122.8 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se modifica por la disposición adicional 18 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Se derogan:
+a) El artículo 31 de la Ley 25/1998, de 31 de diciembre, de medidas administrativas, fiscales y de adaptación al euro.
+b) Los artículos 2, 3 y 4 de la Ley 21/2001, de 28 de diciembre, de medidas fiscales y administrativas.
+c) Los artículos 3, 4, 5, 6, 8, 9, 28 y 34 de la Ley 31/2002, de 30 de diciembre, de medidas fiscales y administrativas.
+d) Los apartados 1.b) y 2 del artículo 17 de la Ley 18/2003, de 4 de julio, de apoyo a las familias.
+e) El artículo 11 y, a reserva de lo dispuesto en el apartado 2 de la disposición transitoria primera de la presente ley, el artículo 14 de la Ley 12/2004, de 27 de diciembre, de medidas financieras.
+f) El artículo 16 de la Ley 5/2007, de 4 de julio, de medidas fiscales y financieras.
+g) Los artículos 9, 10, 11, 12, 13, 14 y 16 de la Ley 17/2007, de 21 de diciembre, de medidas fiscales y financieras.
+h) Los artículos 35 y 36 de la Ley 16/2008, de 23 de diciembre, de medidas fiscales y financieras.
+i) Los artículos 22, 23, 24, 25, 26, 27, 28, 29 y 32 y las disposiciones adicionales séptima y octava de la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas.
+2. Se derogan todas las disposiciones de rango igual o inferior al de la presente ley que la contradigan, se opongan o resulten incompatibles.
+
+### Disposición final primera
+
+Disposición final primera. Entrada en vigor.
+1. La presente ley entra en vigor al día siguiente de haber sido publicada en el Diari Oficial de la Generalitat de Catalunya, si bien se aplica, salvando lo establecido en la disposición transitoria segunda, a los hechos imponibles devengados a partir del 1 de enero de 2010, y, en lo dispuesto por los artículos 19, 35.3, 40, 43, 51, 53.3 y 73.1, también a los hechos imponibles devengados antes de esta fecha.
+2. Los importes de la reducción por parentesco y los importes máximos de la reducción adicional de la base imponible del impuesto sobre sucesiones y donaciones entran en vigor gradualmente, en función de la fecha de devengo del hecho imponible:
+a) Para los hechos imponibles devengados entre el 1 de enero de 2010 y el 30 de junio de 2010, se aplica el 25% de los importes que establecen los artículos 2 y 30.
+b) Para los hechos imponibles devengados entre el 1 de julio de 2010 y el 31 de diciembre de 2010, se aplica el 62,5% de los importes que establecen los artículos 2 y 30.
+c) Para los hechos imponibles devengados a partir del 1 de enero de 2011, se aplica el 100% de los importes que establecen los artículos 2 y 30.
+Se modifica el apartado 1 y se deroga el 1 bis por el art. 122.9 y 10 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se añade el apartado 1 bis y se modifica el apartado 2 por el art. 2.1 y 2 de la Ley 3/2011, de 8 de junio. Ref. BOE-A-2011-10974.
+
+### Disposición final segunda
+
+Disposición final segunda. Despliegue reglamentario.
+El Gobierno debe aprobar antes del 1 de noviembre de 2011 el decreto que dé cumplimiento a los mandatos expresos de desarrollo reglamentario que contiene la presente ley.
+Se modifica por el art. 3 de la Ley 3/2011, de 8 de junio. Ref. BOE-A-2011-10974.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir
+Palacio de la Generalidad, 7 de junio de 2010.–El Presidente de la Generalidad de Cataluña, José Montilla i Aguilera.–El Consejero de Economía y Finanzas, Antoni Castells i Oliveres.

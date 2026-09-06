@@ -1,0 +1,477 @@
+# Real Decreto-ley 17/1977, de 4 de marzo, sobre relaciones de trabajo.
+
+- Identificador BOE: `BOE-A-1977-6061`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1977-6061
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La regulación de las relaciones de trabajo en nuestro Derecho vigente, responde a una concepción política intervencionista que, evidentemente, ha propiciado toda una larga etapa de importantes avances sociales. El nuevo marco político hacia el que aceleradamente discurre la Nación, aconseja una profunda reforma normativa, inspirada en el principio de liberalización de las relaciones de trabajo, en consonancia con los sistemas jurídicos imperantes en los países de Europa Occidental de nuestro mismo contexto cultural. A ello obedece el conjunto de normas que integran el presente Real Decreto-ley, que aborda los aspectos institucionales de inaplazable actualización, sin desconocer la necesidad de completar su configuración en consonancia con el desarrollo del proceso de reforma de las estructuras sindicales.
+I. La Huelga.
+El Decreto-ley cinco/mil novecientos setenta y cinco, de veintidós de mayo, sobre regulación de los Conflictos Colectivos de Trabajo, supuso una etapa importante en la evolución histórica de la legislación laboral, en cuanto que consagró la legitimidad del recurso a la huelga, siempre que se observaran los requisitos de fondo y de forma que el propio texto legal contenía.
+La huelga, como fenómeno social, que durante años había constituido delito, pasaba a una etapa de libertad. La trascendencia del nuevo sistema aconsejaba, por razones de elemental prudencia, tanto el establecimiento de un procedimiento riguroso para la legítima utilización de tal recurso, como la fijación de determinadas limitaciones. Así la huelga ni podía exceder el ámbito de la Empresa, ni podía tener lugar, por razones de solidaridad, ni afectar a Empresas encargadas de la prestación de servicios públicos o de reconocida e inaplazable necesidad.
+Los presupuestos indicados y la dinámica social, acentuada como consecuencia de los cambios políticos últimamente experimentados, ponen de relieve la necesidad de sustitución de las normas vigentes por otras en las que quede consagrada la huelga como derecho, se aligere el procedimiento para su ejercicio y se fijen sus límites en las fronteras que marque la salvaguardia de los intereses superiores de la comunidad.
+Congruentemente con ello se suprime en la nueva regulación la fase previa de obligatoria y oficial negociación; son los trabajadores quienes podrán decidir, sin necesidad de apurar otras instancias, el cuándo de la cesación concertada de trabajo, subsistiendo, como es obvio, la necesidad del preaviso.
+En el aspecto sustantivo se resaltan como modificaciones más trascendentes:
+– El reconocimiento de la posibilidad de huelga de Empresas encargadas de servicios públicos, lo que conlleva la necesaria modificación del artículo doscientos venintidós del Código Penal.
+– Al enunciar taxativamente los supuestos de ilicitud, se presupone, salvo en ellos, la licitud de la huelga.
+– El reconocimiento del Comité de huelga como órgano de representación de los trabajadores en conflicto.
+– La regulación de los efectos de la huelga en la relación jurídica de la Seguridad Social.
+– El cierre patronal, sólo válido el de respuesta, no precisa de autorización administrativa, lo que supone la atribución a la jurisdicción laboral del enjuiciamiento de la licitud o ilicitud del mismo y de sus efectos.
+II. Conflictos Colectivos.
+El reconocimiento del derecho de huelga y la agilización del procedimiento para su ejercicio, suprimiendo el trámite previo de oficial y necesaria negociación, conlleva la total derogación del Decreto-ley cinco/mil novecientos setenta y cinco, de veintidós de mayo, sobre regulación de los Conflictos Colectivos de Trabajo, que contiene no sólo la normativa aplicable a la huelga laboral en el mismo consagrada, sino también el procedimiento de solución, por arbitraje estatal, de los Conflictos Colectivos de Trabajo. Ello aconseja la autónoma regulación de este último procedimiento, el que debe mantenerse cuando las partes deseen utilizar tal medio de solución.
+III. Convenios Colectivos de Trabajo.
+El reconocimiento del derecho de huelga impone la aprobación simultánea de determinadas modificaciones en la vigente Ley dieciocho/mil novecientos setenta y tres, de diecinueve de diciembre, de Convenios Colectivos Sindicales de Trabajo, con el fin de armonizar sus disposiciones con la nueva situación creada.
+La legitimación de la huelga como acción de apoyo a reivindicaciones colectivas laborales y la concepción del Convenio como auténtico instrumento de paz social, obliga de una parte, a consagrar, con carácter general, la imposibilidad de establecer nuevo Convenio, vigente otro del mismo o distinto ámbito; así como a permitir la huelga, sin perjuicio de otros cauces de solución previstos en la presente disposición, durante la negociación; eliminar la Decisión Arbitral Obligatoria, liberalizando el marco de las relaciones colectivas laborales, y suprimir el incremento automático en las prórrogas por falta de denuncia.
+IV. Limitación de la regulación estatal por ramas de actividad de las condiciones mínimas de trabajo.
+La necesidad, cada vez más ineludible, de agilizar el régimen de las relaciones plurales de trabajo y de potenciar la relación jurídica colectiva en cuanto fuente de producción del Derecho Laboral, aconseja suprimir el dualismo sobre fijación de condiciones mínimas de trabajo por actividades económicas o por Empresas, que se contiene en la Ley de Convenios Colectivos Sindicales de Trabajo y en la de Reglamentaciones Laborales, reduciendo por tanto la utilización del procedimiento de la Ley de dieciséis de octubre de mil novecientos cuarenta y dos, a aquellos sectores de producción y demarcaciones territoriales en los que no existen Convenios Colectivos.
+Es de señalar que este cambio en el sistema normativo de las condiciones mínimas de trabajo por ramas o sectores de actividad no comporta la derogación de las Reglamentaciones y Ordenanzas Laborales en vigor, que han de subsistir hasta que en los nuevos Convenios Colectivos que se concierten en el sector o rama de que se trate con posterioridad a la fecha de iniciación de los efectos de este Real Decreto-ley, se sustituya lo dispuesto en aquéllas.
+V. El despido.
+La necesidad de llevar a efecto una acomodación conjunta y correlativa del contenido de las normas sobre relaciones colectivas de trabajo que establece el presente Real Decreto-ley, con el despido individual, aconseja una nueva regulación del mismo, siguiendo los criterios señalados al respecto por la O.I.T. y teniendo en cuenta los imperantes en los países de la Comunidad Económica Europea.
+Se contemplan dos tipos diferenciados del despido individual: El de carácter disciplinario y el derivado de la capacidad profesional del trabajador o de necesidades de funcionamiento de la Empresa. Con respecto al primero, se ha estimado oportuno mantener, en su actual redacción, las causas justas que enumera el artículo setenta y siete de la Ley de Contrato de Trabajo, si bien excluyendo la ineptitud que, por no llevar aparejada culpabilidad, se incluye como causa suficiente del segundo. Se regula para éste la institución del preaviso y se consagra, para ambos, las garantías en favor de los representantes del personal, cuya readmisión, en el supuesto de improcedencia, se impone con carácter forzoso.
+La nueva regulación del despido consagra, en todo caso, el carácter causal del mismo, con rechazo, por tanto, del despido libre.
+VI. Reestructuración de plantillas.
+La liberalización de las relaciones colectivas de trabajo, con la consiguiente potenciación de la negociación colectiva, hace conveniente permitir, como contenido de la misma, la fijación de nuevos procedimientos, cuantía de indemnización y prelaciones en la reestructuración de plantillas por causas económicas o tecnológicas y asimismo la agilización del procedimiento establecido reglamentariamente cuando exista acuerdo entre las partes.
+En su virtud, a propuesta del Consejo de Ministros en su reunión del día cuatro de marzo de mil novecientos setenta y siete, en uso de la autorización que me confiere el artículo trece de la Ley Constitutiva de las Cortes, texto refundido de las Leyes Fundamentales, aprobado por Decreto setecientos setenta y nueve/mil novecientos sesenta y siete, de veinte de abril y oída la Comisión a que se refiere el apartado primero del artículo doce de la citada Ley,
+D I S P O N G O :
+
+## TÍTULO I
+
+El derecho de huelga
+
+## CAPÍTULO I
+
+La huelga
+
+### Artículo uno
+
+Artículo uno.
+El derecho de huelga, en el ámbito de las relaciones laborales, podrá ejercerse en los términos previstos en este Real Decreto-ley.
+
+### Artículo dos
+
+Artículo dos.
+Son nulos los pactos establecidos en contratos individuales de trabajo que contengan la renuncia o cualquier otra restricción al derecho de huelga.
+
+### Artículo tres
+
+Artículo tres.
+Uno. La declaración de huelga, cualquiera que sea su ámbito, exige, en todo caso, la adopción de acuerdo expreso, en tal sentido, en cada centro de trabajo.
+Dos. Están facultados para acordar la declaración de huelga:
+a) Los trabajadores, a través de sus representantes. El acuerdo será adoptado, en reunión conjunta de dichos representantes, por decisión mayoritaria de los mismos. De la reunión, a la que habrán de asistir al menos el setenta y cinco por ciento de los representantes, se levantará acta, que deberán firmar los asistentes.
+b) Directamente los propios trabajadores del centro de trabajo, afectados por el conflicto, cuando el veinticinco por ciento de la plantilla decida se someta a votación dicho acuerdo. La votación habrá de ser secreta y se decidirá por mayoría simple. El resultado de ésta se hará constar en acta.
+Tres. El acuerdo de declaración de huelga habrá de ser comunicado al empresario o empresarios afectados y a la autoridad laboral por los representantes de los trabajadores.
+La comunicación de huelga deberá hacerse por escrito y notificada con cinco días naturales de antelación, al menos, a su fecha de iniciación. Cuando el acuerdo de declaración de huelga lo adopten directamente los trabajadores mediante votación, el plazo de preaviso comenzará a contarse desde que los representantes de los trabajadores comuniquen al empresario la celebración de la misma. La comunicación de huelga habrá de contener los objetivos de ésta, gestiones realizadas para resolver las diferencias, fecha de su inicio y composición del comité de huelga.
+Se declara la inconstitucionalidad de las exigencias establecidas en los incisos destacados por Sentencia del TC 11/1981, de 8 de abril. Ref. BOE-T-1981-9433.
+Se declara la inconstitucionalidad de las exigencias establecidas en los incisos destacados de los apartados 1 y 2 por Sentencia del TC 11/1981, de 8 de abril. Ref. BOE-T-1981-9433.
+
+### Artículo cuatro
+
+Artículo cuatro.
+Cuando la huelga afecte a empresas encargadas de cualquier clase de servicios públicos, el preaviso del comienzo de huelga al empresario y a la autoridad laboral habrá de ser, al menos, de diez días naturales. Los representantes de los trabajadores deberán dar a la huelga, antes de su iniciación, la publicidad necesaria para que sea conocida por los usuarios del servicio.
+
+### Artículo cinco
+
+Artículo cinco.
+Sólo podrán ser elegidos miembros del comité de huelga trabajadores del propio centro de trabajo afectados por el conflicto.
+La composición del comité de huelga no podrá exceder de doce personas.
+Corresponde al comité de huelga participar en cuantas actuaciones sindicales, administrativas o judiciales se realicen para la solución del conflicto.
+El fallo de la Sentencia del TC 11/1981 Ref. BOE-T-1981-9433 establece:
+ "Que el apartado 1.º del artículo 5.º no es inconstitucional referido a huelgas cuyo ámbito no exceda de un solo Centro de trabajo, pero que lo es, en cambio, cuando las huelgas comprendan varios Centros de trabajo."
+Se declara la inconstitucionalidad del párrafo 1, cuando las huelgas comprendan varios centros de trabajo, por Sentencia del TC 11/1981, de 8 de abril. Ref. BOE-T-1981-9433.
+
+### Artículo seis
+
+Artículo seis.
+Uno. El ejercicio del derecho de huelga no extingue la relación de trabajo, ni puede dar lugar a sanción alguna, salvo que el trabajador, durante la misma, incurriera en falta laboral.
+Dos. Durante la huelga se entenderá suspendido el contrato de trabajo y el trabajador no tendrá derecho al salario.
+Tres. El trabajador en huelga permanecerá en situación de alta especial en la Seguridad Social, con suspensión de la obligación de cotización por parte del empresario y del propio trabajador. El trabajador en huelga no tendrá derecho a la prestación por desempleo, ni a la económica por incapacidad laboral transitoria.
+Cuatro. Se respetará la libertad de trabajo de aquellos trabajadores que no quisieran sumarse a la huelga.
+Cinco. En tanto dure la huelga, el empresario no podrá sustituir a los huelguistas por trabajadores que no estuviesen vinculados a la empresa al tiempo de ser comunicada la misma, salvo caso de incumplimiento de las obligaciones contenidas en el apartado número siete de este artículo.
+Seis. Los trabajadores en huelga podrán efectuar publicidad de la misma, en forma pacífica, y llevar a efecto recogida de fondos sin coacción alguna.
+Siete. El Comité de huelga habrá de garantizar durante la misma la prestación de los servicios necesarios para la seguridad de las personas y de las cosas, mantenimiento de los locales, maquinaria, instalaciones, materias primas y cualquier otra atención que fuese precisa para la ulterior reanudación de las tareas de la empresa. Corresponde al empresario la designación de los trabajadores que deban efectuar dichos servicios.
+El fallo de la Sentencia del TC 11/1981, de 8 de abril, Ref. BOE-T-1981-9433. establece:
+ "Que es inconstitucional el apartado 7.º del artículo 6.º en cuanto atribuye de manera exclusiva al empresario la facultad de designar los trabajadores que durante la huelga deban velar por el mantenimiento de los locales, maquinaria e instalaciones."
+Se declara la inconstitucionalidad del apartado 7, en cuanto atribuye de manera exclusiva al empresario la facultad de designar los trabajadores que deban efectuar dichos servicios, por Sentencia del TC 11/1981, de 8 de abril. Ref. BOE-T-1981-9433.
+
+### Artículo siete
+
+Artículo siete.
+Uno. El ejercicio del derecho de huelga habrá de realizarse, precisamente, mediante la cesación de la prestación de servicios por los trabajadores afectados y sin ocupación por los mismos del centro de trabajo o de cualquiera de sus dependencias.
+Dos. Las huelgas rotatorias, las efectuadas por los trabajadores que presten servicios en sectores estratégicos con la finalidad de interrumpir el proceso productivo, las de celo o reglamento y, en general, cualquier forma de alteración colectiva en el régimen de trabajo distinta a la huelga, se considerarán actos ilícitos o abusivos.
+
+### Artículo ocho
+
+Artículo ocho.
+Uno. Los Convenios Colectivos podrán establecer normas complementarias relacionadas con los procedimientos de solución de los conflictos que den origen a la huelga, así como la renuncia, durante su vigencia, al ejercicio de tal derecho.
+Dos. Desde el momento del preaviso y durante la huelga, el Comité de huelga y el empresario, y en su caso los representantes designados por los distintos Comités de huelga y por los empresarios afectados, deberán negociar para llegar a un acuerdo, sin perjuicio de que en cualquier momento los trabajadores puedan dar por terminada aquélla. El pacto que ponga fin a la huelga tendrá la misma eficacia que lo acordado en Convenio Colectivo.
+
+### Artículo nueve
+
+Artículo nueve.
+La Inspección de Trabajo podrá ejercer su función de mediación desde que se comunique la huelga hasta la solución del conflicto.
+
+### Artículo diez
+
+Artículo diez.
+El Gobierno, a propuesta del Ministerio de Trabajo, teniendo en cuenta la duración o las consecuencias de la huelga, las posiciones de las partes y el perjuicio grave de la economía nacional, podrá acordar la reanudación de la actividad laboral en el plazo que determine, por un período máximo de dos meses o, de modo definitivo, mediante el establecimiento de un arbitraje obligatorio. El incumplimiento de este acuerdo podrá dar lugar a la aplicación de lo dispuesto en los artículos 15 y 16.
+Cuando la huelga se declare en empresas encargadas de la prestación de cualquier género de servicios públicos o de reconocida e inaplazable necesidad y concurran circunstancias de especial gravedad, la Autoridad gubernativa podrá acordar las medidas necesarias para asegurar el funcionamiento de los servicios. El Gobierno, asimismo, podrá adoptar a tales fines las medidas de intervención adecuadas.
+El fallo de la Sentencia del TC 11/1981, de 8 de abril, Ref. BOE-T-1981-9433. establece:
+ "Que es inconstitucional el párrafo 1.º del artículo 10 en cuanto faculta al Gobierno para imponer la reanudación del trabajo, pero no en cuanto le faculta para instituir un arbitraje obligatorio, siempre que en él se respete el requisito de imparcialidad de los árbitros."
+ "Que no es inconstitucional el párrafo 2.º del artículo 10 que atribuye a la autoridad gubernativa la potestad de dictar las medidas necesarias para determinar el mantenimiento de los servicios esenciales a la comunidad, en cuanto que el ejercicio de esta potestad está sometido a la jurisdicción de los Tribunales de justicia y al recurso de amparo ante este Tribunal."
+Se declara la inconstitucionalidad del párrafo 1, en cuanto faculta al Gobierno para imponer la reanudación del trabajo, pero no en cuanto le faculta para instituir un arbitraje obligatorio, siempre que en él se respete el requisito de imparcialidad de los árbitros por Sentencia del TC 11/1981, de 8 de abril. Ref. BOE-T-1981-9433.
+
+### Artículo once
+
+Artículo once.
+La huelga es ilegal:
+a) Cuando se inicie o se sostenga por motivos políticos o con cualquier otra finalidad ajena al interés profesional de los trabajadores afectados.
+b) Cuando sea de solidaridad o apoyo, salvo que afecte directamente al interés profesional de quienes la promuevan o sostengan.
+c) Cuando tenga por objeto alterar, dentro de su período de vigencia, lo pactado en un Convenio Colectivo o lo establecido por laudo.
+d) Cuando se produzca contraviniendo lo dispuesto en el presente Real Decreto-ley, o lo expresamente pactado en Convenio Colectivo para la solución de conflictos.
+Se declara inconstitucional el inciso destacado del apartado b) por Sentencia del TC 11/1981, de 8 de abril. Ref. BOE-T-1981-9433.
+Se declara la inconstitucionalidad del inciso destacado del apartado b) por Sentencia del TC 11/1981, de 8 de abril. Ref. BOE-T-1981-9433.
+
+## CAPÍTULO II
+
+Cierre patronal
+
+### Artículo doce
+
+Artículo doce.
+Uno. Los empresarios sólo podrán proceder al cierre del centro de trabajo en caso de huelga o cualesquiera otra modalidad de irregularidad colectiva en el régimen de trabajo, cuando concurra alguna de las circunstancias que siguen:
+a) Existencia de notorio peligro de violencia para las personas o de daños graves para las cosas.
+b) Ocupación ilegal del centro de trabajo o de cualquiera de sus dependencias, o peligro cierto de que ésta se produzca.
+c) Que el volumen de la inasistencia o irregularidades en el trabajo impidan gravemente el proceso normal de producción.
+Dos. El cierre patronal, efectuado dentro de los términos establecidos en el presente Real Decreto-ley, producirá respecto al personal afectado los efectos previstos en los párrafos uno, dos y tres del artículo seis del mismo.
+
+### Artículo trece
+
+Artículo trece.
+Uno. El empresario que al amparo de lo prevenido en el artículo anterior procediera al cierre del centro de trabajo, deberá ponerlo en conocimiento de la Autoridad laboral en el término de doce horas.
+Dos. El cierre de los centros de trabajo se limitará al tiempo indispensable para asegurar la reanudación de la actividad de la empresa, o para la remoción de las causas que lo motivaron.
+
+### Artículo catorce
+
+Artículo catorce.
+El empresario que hubiera acordado el cierre del centro de trabajo al amparo de lo prevenido en el artículo doce y que no lo hubiera reabierto a iniciativa propia o a instancia de los trabajadores, deberá hacerlo, dando opción a su personal a reintegrarse a la actividad laboral, cuando fuera requerido a tales fines por la Autoridad laboral, en el plazo que establezca el propio requerimiento, incurriendo en caso contrario en las sanciones previstas en el artículo quince.
+
+## CAPÍTULO III
+
+Sanciones
+
+### Artículo quince
+
+Artículo quince.
+El empresario que procediera al cierre del centro de trabajo, salvo en los supuestos previstos en el artículo doce, será sancionado en la forma y por los órganos que establece el artículo treinta y tres de la Ley de Relaciones Laborales.
+Las sanciones que establece dicho artículo se entienden sin perjuicio de la obligación empresarial de reabrir el centro de trabajo ilícitamente cerrado y de abono a los trabajadores que hayan dejado de prestar sus servicios como consecuencia del cierre del centro de trabajo los salarios devengados durante el período de cierre ilegal.
+
+### Artículo dieciséis
+
+Artículo dieciséis.
+Uno. Los trabajadores que participaren en huelga ilegal o cualquier otra forma de alteración colectiva en el régimen normal de trabajo, incurrirán en la falta prevista en el apartado j) del artículo treinta y tres de este Real Decreto-ley.
+Dos. Los trabajadores que, de acuerdo con el artículo seis, párrafo siete, fuesen designados para el mantenimiento de los servicios previstos y se negasen a ello, incurrirán en la causa justa de despido establecida en el apartado k) del artículo treinta y tres del presente Real Decreto-ley, sin perjuicio de las demás responsabilidades que procedieran.
+
+## TÍTULO II
+
+Conflictos colectivos de trabajo
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo diecisiete
+
+Artículo diecisiete.
+Uno. La solución de situaciones conflictivas que afecten a intereses generales de los trabajadores podrá tener lugar por el procedimiento de Conflicto Colectivo de Trabajo que se regula en este título.
+Dos. Cuando los trabajadores utilicen el procedimiento de Conflicto Colectivo de Trabajo no podrán ejercer el derecho de huelga.
+Tres. Declarada la huelga, podrán, no obstante, los trabajadores desistir de la misma y someterse al procedimiento de Conflicto Colectivo de Trabajo.
+
+### Artículo dieciocho
+
+Artículo dieciocho.
+Uno. Sólo podrán instar la iniciación de Conflicto Colectivo de Trabajo:
+a) Los representantes de los trabajadores en el ámbito correspondiente al conflicto, por iniciativa propia o a instancia de sus representados.
+b) Los empresarios o sus representantes legales, según el ámbito del conflicto.
+Dos. Cuando el procedimiento de conflicto colectivo se inicie a instancia de los empresarios, y los trabajadores ejerzan el derecho de huelga, se suspenderá dicho procedimiento, archivándose las actuaciones.
+
+### Artículo diecinueve
+
+Artículo diecinueve.
+La competencia para conocer de los Conflictos Colectivos de Trabajo corresponde, según su naturaleza:
+a) Al Delegado de Trabajo de la provincia en que se plantea el conflicto. La Dirección General de Trabajo será competente en los conflictos colectivos laborales que afecten a trabajadores de varias provincias.
+b) Al Orden Jurisdiccional Laboral, de acuerdo con lo establecido en esta disposición y en la Ley de Procedimiento Laboral.
+
+### Artículo veinte
+
+Artículo veinte.
+No podrá plantearse Conflicto Colectivo de Trabajo para modificar lo pactado en Convenio Colectivo o establecido por laudo.
+
+## CAPÍTULO II
+
+Procedimiento
+
+### Artículo veintiuno
+
+Artículo veintiuno.
+El planteamiento de Conflicto Colectivo de Trabajo se formalizará por escrito, firmado y fechado, en el que consten nombre, apellidos, domicilio y carácter de las personas que lo plantean y determinación de los trabajadores y empresarios afectados; hechos sobre los que verse el conflicto, peticiones concretas que se formulen, así como los demás datos que procedan.
+
+### Artículo veintidós
+
+Artículo veintidós.
+El escrito a que se refiere el artículo anterior habrá de presentarse ante la Delegación de Trabajo de la provincia en que se plantee el conflicto. Cuando el conflicto afecte a trabajadores de varias provincias, dicho escrito será presentado ante la Dirección General de Trabajo.
+
+### Artículo veintitrés
+
+Artículo veintitrés.
+En las veinticuatro horas siguientes al día de la presentación del escrito citado en el artículo veintiuno, la Autoridad laboral remitirá copia del mismo a la parte frente a la que se plantee el conflicto y convocará a las partes de comparecencia ante ella, la que habrá de tener lugar dentro de los tres días siguientes.
+
+### Artículo veinticuatro
+
+Artículo veinticuatro.
+En la comparecencia, la Autoridad laboral intentará la avenencia entre las partes. Los acuerdos serán adoptados por mayoría simple de las representaciones de cada una de las mismas. Dicho acuerdo tendrá la misma eficacia que lo pactado en Convenio Colectivo.
+Las partes podrán designar a uno o varios Arbitros. En tal caso éstos, que cuando sean varios habrán de actuar conjuntamente, deberán dictar su laudo en el término de cinco días. La decisión que adopten tendrá la misma eficacia que si hubiera habido acuerdo entre las partes.
+
+### Artículo veinticinco
+
+Artículo veinticinco.
+Si las partes no llegaran a un acuerdo, ni designaren uno o varios Arbitros, la Autoridad laboral procederá del siguiente modo:
+a) Si el conflicto derivara de discrepancias relativas a la interpretación de una norma preexistente, estatal o convenida colectivamente, remitirá las actuaciones practicadas, con su informe, a la Magistratura de Trabajo, que procederá conforme a lo dispuesto en la Ley de Procedimiento Laboral.
+b) Si el conflicto se planteara para modificar las condiciones de trabajo, la Autoridad laboral dictará laudo de obligado cumplimiento resolviendo sobre todas las cuestiones planteadas.
+Se declara inconstitucional el apartado b) por Sentencia del TC 11/1981, de 8 de abril. Ref. BOE-T-1981-9433.
+Se declara la inconstitucionalidad del apartado b) por Sentencia del TC 11/1981, de 8 de abril. Ref. BOE-T-1981-9433.
+
+### Artículo veintiséis
+
+Artículo veintiséis.
+Los laudos de obligado cumplimiento, que habrán de ser dictados en el término de los cinco días siguientes a la fecha de comparecencia adoptarán la forma de resolución fundada y decidirán de modo claro y preciso, tanto respecto de las cuestiones que se hubiesen planteado en el escrito inicial como de las suscitadas en la comparecencia de las partes relacionadas con el conflicto. Estos laudos tendrán fuerza ejecutiva inmediata. Podrán ser recurridos en alzada ante la Autoridad laboral de grado superior, de conformidad con el artículo ciento veintidós, de la Ley de Procedimiento Administrativo. Una vez agotada la vía gubernativa podrán ser impugnados ante la jurisdicción competente.
+Se declara inconstitucional por Sentencia del TC 11/1981, de 8 de abril. Ref. BOE-T-1981-9433.
+Se declara la inconstitucionalidad por Sentencia del TC 11/1981, de 8 de abril. Ref. BOE-T-1981-9433.
+
+## TÍTULO III
+
+Convenios Colectivos
+
+### Artículo veintisiete
+
+Artículo veintisiete.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+## TÍTULO IV
+
+Limitación de la Regulación Estatal, por ramas de actividad, de las condiciones mínimas de trabajo
+
+### Artículo veintiocho
+
+Artículo veintiocho.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Artículo veintinueve
+
+Artículo veintinueve.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+## TÍTULO V
+
+El despido
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo treinta
+
+Artículo treinta.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Artículos treinta a cuarenta y cuatro
+
+Artículos treinta a cuarenta y cuatro.
+(Derogados)
+Se derogan por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Artículo treinta y uno
+
+Artículo treinta y uno.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Artículo treinta y dos
+
+Artículo treinta y dos.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+## CAPÍTULO II
+
+Despido disciplinario
+
+### Artículo treinta y tres
+
+Artículo treinta y tres.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Artículo treinta y cuatro
+
+Artículo treinta y cuatro.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Artículo treinta y cinco
+
+Artículo treinta y cinco.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+ Se deroga en lo que se refiere a la supresión de la concilicación obligatoria, por disposición final 1 del Real Decreto-Ley 5/1979, de 26 de enero. Ref. BOE-A-1979-3393.
+
+### Artículo treinta y seis
+
+Artículo treinta y seis.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Artículo treinta y siete
+
+Artículo treinta y siete.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Artículo treinta y ocho
+
+Artículo treinta y ocho.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+## CAPÍTULO III
+
+Despido por circunstancias objetivas derivadas de la capacidad del trabajador o necesidades de funcionamiento de la empresa
+
+### Artículo treinta y nueve
+
+Artículo treinta y nueve.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Artículo cuarenta
+
+Artículo cuarenta.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Artículo cuarenta y uno
+
+Artículo cuarenta y uno.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Artículo cuarenta y dos
+
+Artículo cuarenta y dos.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Artículo curenta y tres
+
+Artículo curenta y tres.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Artículo cuarenta y cuatro
+
+Artículo cuarenta y cuatro.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+## TÍTULO VI
+
+Reestructuración de plantillas
+
+### Artículo cuarenta y cinco
+
+Artículo cuarenta y cinco.
+(Derogado)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Disposición final primera
+
+Disposición final primera.
+Quedan derogados el Decreto-ley cinco/mil novecientos setenta y cinco, de veintidós de mayo, sobre regulación de los Conflictos Colectivos de Trabajo; el artículo setenta y siete de la Ley de Contrato de Trabajo; el artículo diez del Real Decreto-ley dieciocho/mil novecientos setenta y seis, de ocho de octubre, sobre Medidas Económicas; el artículo treinta y cinco de la Ley dieciséis/mil novecientos setenta y seis, de ocho de abril, de Relaciones Laborales, y cuantas Leyes y disposiciones se opongan a lo establecido en este Real Decreto-ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+(Derogada)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Disposición final tercera
+
+Disposición final tercera.
+(Derogada)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+(Derogada)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Lo dispuesto en el presente Real Decreto-ley en materia de huelga no es de aplicación al personal civil dependiente de establecimientos militares.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Se mantendrán la actual procedencia del recurso de casación respecto de las sentencias dictadas en procesos por despido de trabajadores que ostenten cargos electivos de representación sindical.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+(Derogada)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+El artículo doscientos veintidós del Código Penal queda redactado en los siguientes términos:
+«Artículo doscientos veintidós.
+Serán considerados como reos de sedición:
+Primero. Los funcionarios, encargados de la prestación de todo género de servicios públicos o de reconocida e inaplazable necesidad que, suspendiendo su actividad, ocasionen trastornos a los mismos, o, de cualquier forma, alteren su regularidad.
+Segundo. Los patronos y obreros que, con el fin de atentar contra la seguridad del Estado, perjudicar su autoridad, o perturbar su normal actividad, suspendieren o alteraren la regularidad del trabajo.»
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+(Derogada)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Derogada)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+(Derogada)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+(Derogada)
+Se deroga por la disposición final 3 de la Ley 8/1980, de 10 de marzo. Ref. BOE-A-1980-5683.
+
+Dado en Madrid a cuatro de marzo de mil novecientos setenta y siete.
+JUAN CARLOS
+El Presidente del Gobierno,
+ADOLFO SUÁREZ GONZÁLEZ

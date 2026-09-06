@@ -1,0 +1,991 @@
+# Real Decreto Legislativo 1/1993, de 24 de septiembre, por el que se aprueba el Texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+
+- Identificador BOE: `BOE-A-1993-25359`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1993-25359
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La autorización concedida al Gobierno por la disposición adicional novena de la Ley 29/1991, de 16 de diciembre, de adecuación de determinados conceptos impositivos a las Directivas y Reglamentos de las Comunidades Europeas, para elaborar y aprobar, durante el año 1992, un nuevo Texto refundido del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, ha sido prorrogada para el año 1993 por la disposición adicional tercera de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido que, al mismo tiempo, extiende la autorización a regularizar, aclarar y armonizar las disposiciones legales relativas al Impuesto.
+En cumplimiento de este mandato se ha redactado el presente Texto refundido, en el que se recogen los preceptos del aprobado por el Real Decreto Legislativo 3.050/1980, de 30 de diciembre, con las modificaciones que en el mismo se han ido introduciendo por las distintas Leyes de Presupuestos Generales del Estado, por la Ley 14/1985, de 29 de mayo, de Régimen Fiscal de Determinados Activos Financieros, por la Ley 30/1985, de 2 de agosto, del Impuesto sobre el Valor Añadido, por la Ley 25/1986, de 24 de diciembre, de Supresión de Tasas Judiciales, por el Real Decreto-ley 1/1986, de 14 de marzo, de medidas urgentes administrativas, financieras, fiscales y laborales, por la Ley 29/1987, de 18 de diciembre del Impuesto sobre Sucesiones y Donaciones y por la citada Ley 29/1991. Del mismo modo, el nuevo texto incorpora otras disposiciones que, especialmente en materia de beneficios fiscales, afectaban a la regulación del Texto refundido hasta ahora vigente, armonizando su contenido.
+En su virtud, a propuesta del Ministro de Economía y Hacienda, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 24 de septiembre de 1993,
+DISPONGO:
+
+### Artículo único
+
+Artículo único.
+Se aprueba el presente Texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+
+Dado en Madrid a 24 de septiembre de 1993.
+JUAN CARLOS R.
+El Ministro de Economía y Hacienda,
+PEDRO SOLBES MIRA
+
+## TEXTO
+
+TEXTO REFUNDIDO DE LA LEY DEL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y ACTOS JURÍDICOS DOCUMENTADOS
+
+## TÍTULO PRELIMINAR
+
+Naturaleza y contenido
+
+### Artículo 1
+
+Artículo 1.
+1. El Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados es un tributo de naturaleza indirecta que, en los términos establecidos en los artículos siguientes, gravará:
+1.º Las transmisiones patrimoniales onerosas.
+2.º Las operaciones societarias.
+3.º Los actos jurídicos documentados.
+2. En ningún caso, un mismo acto podrá ser liquidado por el concepto de transmisiones patrimoniales onerosas y por el de operaciones societarias.
+
+### Artículo 2
+
+Artículo 2.
+1. El impuesto se exigirá con arreglo a la verdadera naturaleza jurídica del acto o contrato liquidable, cualquiera que sea la denominación que las partes le hayan dado, prescindiendo de los defectos, tanto de forma como intrínsecos, que puedan afectar a su validez y eficacia.
+2. En los actos o contratos en que medie alguna condición, su calificación se hará con arreglo a las prescripciones contenidas en el Código Civil. Si fuere suspensiva no se liquidará el impuesto hasta que ésta se cumpla, haciéndose constar el aplazamiento de la liquidación en la inscripción de bienes en el registro público correspondiente. Si la condición fuere resolutoria, se exigirá el impuesto, desde luego, a reserva, cuando la condición se cumpla, de hacer la oportuna devolución según las reglas del artículo 57.
+
+### Artículo 3
+
+Artículo 3.
+Para la calificación jurídica de los bienes sujetos al impuesto por razón de su distinta naturaleza, destino, uso o aplicación, se estará a lo que respecto al particular dispone el Código Civil o, en su defecto, el Derecho Administrativo.
+Se considerarán bienes inmuebles, a efectos del impuesto, las instalaciones de cualquier clase establecidas con carácter permanente, siquiera por la forma de su construcción sean transportables, y aun cuando el terreno sobre el que se hallen situadas no pertenezca al dueño de los mismos.
+
+### Artículo 4
+
+Artículo 4.
+A una sola convención no puede exigírsele más que el pago de un solo derecho, pero cuando un mismo documento o contrato comprenda varias convenciones sujetas al impuesto separadamente, se exigirá el derecho señalado a cada una de aquéllas, salvo en los casos en que se determine expresamente otra cosa.
+
+### Artículo 5
+
+Artículo 5.
+1. Los bienes y derechos transmitidos quedarán afectos, cualquiera que sea su poseedor, a la responsabilidad del pago de los impuestos que graven tales transmisiones, salvo que aquél resulte ser un tercero protegido por la fe pública registral o se justifique la adquisición de los bienes con buena fe y justo título en establecimiento mercantil o industrial en el caso de bienes muebles no inscribibles. La afección la harán constar los notarios por medio de la oportuna advertencia en los documentos que autoricen. No se considerará protegido por la fe pública registral el tercero cuando en el Registro conste expresamente la afección.
+2. Siempre que la Ley conceda una exención o reducción cuya definitiva efectividad dependa del ulterior cumplimiento por el contribuyente de cualquier requisito por aquélla exigido, la oficina liquidadora hará figurar en la nota en que el beneficio fiscal se haga constar el total importe de la liquidación que hubiere debido girarse de no mediar la exención o reducción concedida.
+Los Registradores de la Propiedad o Mercantiles harán constar por nota marginal la afección de los bienes transmitidos, cualquiera que fuese su titular, al pago del expresado importe, para el caso de no cumplirse en los plazos señalados por la Ley que concedió los beneficios, los requisitos en ella exigidos para la definitiva efectividad de los mismos.
+3. Igualmente harán constar, por nota marginal, en los casos de desmembración del dominio, la afección de los bienes al pago de la liquidación que proceda por la extinción del usufructo, a cuyo efecto las oficinas liquidadoras consignarán la que provisionalmente, y sin perjuicio de la rectificación, procediere, según las bases y tipos aplicables en el momento de la constitución del usufructo.
+
+## Ámbito
+
+Ámbito de aplicación territorial del impuesto
+
+### Artículo 6
+
+Artículo 6.
+1. El impuesto se exigirá:
+A) Por las transmisiones patrimoniales onerosas de bienes y derechos, cualquiera que sea su naturaleza, que estuvieran situados, pudieran ejercitarse o hubieran de cumplirse en territorio español o en territorio extranjero, cuando, en este último supuesto, el obligado al pago del impuesto tenga su residencia en España. No se exigirá el impuesto por las transmisiones patrimoniales de bienes y derechos de naturaleza inmobiliaria, sitos en territorio extranjero, ni por las transmisiones patrimoniales de bienes y derechos, cualquiera que sea su naturaleza que, efectuadas en territorio extranjero, hubieren de surtir efectos fuera del territorio español.
+B) Por las operaciones societarias realizadas por entidades en las que concurra cualquiera de las siguientes circunstancias:
+a) Que tengan en España la sede de dirección efectiva, entendiéndose como tal el lugar donde esté centralizada de hecho la gestión administrativa y la dirección de los negocios.
+b) Que tengan en España su domicilio social, siempre que la sede de dirección efectiva no se encuentre situada en un Estado miembro de la Comunidad Económica Europea o, estándolo, dicho Estado no grave la operación societaria con un impuesto similar.
+c) Que realicen en España operaciones de su tráfico, cuando su sede de dirección efectiva y su domicilio social no se encuentren situados en un Estado miembro de la Comunidad Económica Europea o, estándolo, estos Estados no graven la operación societaria con un impuesto similar.
+C) Por los actos jurídicos documentados que se formalicen en territorio nacional y por los que habiéndose formalizado en el extranjero surtan cualquier efecto, jurídico o económico, en España.
+2. Lo dispuesto en este artículo se entenderá sin perjuicio de los regímenes forales de Concierto y Convenio Económico vigentes en los Territorios históricos del País Vasco y en la Comunidad Foral de Navarra, respectivamente, y de lo dispuesto en los Tratados o Convenios Internacionales que hayan pasado a formar parte del ordenamiento interno.
+3. La cesión del impuesto a las Comunidades Autónomas se regirá por lo dispuesto en las normas reguladoras de la Cesión de Tributos del Estado a las Comunidades Autónomas, y tendrá el alcance y condiciones que para cada una de ellas establezca su específica Ley de Cesión.
+Se añade el apartado 3 por el art. 30.1 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118
+
+## TÍTULO I
+
+Transmisiones patrimoniales
+
+## Hecho imponible
+
+### Artículo 7
+
+Artículo 7.
+1. Son transmisiones patrimoniales sujetas:
+A) Las transmisiones onerosas por actos «inter vivos» de toda clase de bienes y derechos que integren el patrimonio de las personas físicas o jurídicas.
+B) La constitución de derechos reales, préstamos, fianzas, arrendamientos, pensiones y concesiones administrativas, salvo cuando estas últimas tengan por objeto la cesión del derecho a utilizar infraestructuras ferroviarias o inmuebles o instalaciones en puertos y en aeropuertos.
+Se liquidará como constitución de derechos la ampliación posterior de su contenido que implique para su titular un incremento patrimonial, el cual servirá de base para la exigencia del tributo.
+2. Se considerarán transmisiones patrimoniales a efectos de liquidación y pago del impuesto:
+A) Las adjudicaciones en pago y para pago de deudas, así como las adjudicaciones expresas en pago de asunción de deudas. Los adjudicatarios para pago de deudas que acrediten haber transmitido al acreedor en solvencia de su crédito, dentro del plazo de dos años, los mismos bienes o derechos que les fueron adjudicados y los que justifiquen haberlos transmitido a un tercero para este objeto, dentro del mismo plazo, podrán exigir la devolución del impuesto satisfecho por tales adjudicaciones.
+B) Los excesos de adjudicación declarados, salvo los que surjan de dar cumplimiento a lo dispuesto en los artículos 821, 829, 1.056 (segundo) y 1.062 (primero) del Código Civil y Disposiciones de Derecho Foral, basadas en el mismo fundamento.
+En las sucesiones por causa de muerte se liquidarán como transmisiones patrimoniales onerosas los excesos de adjudicación cuando el valor comprobado de lo adjudicado a uno de los herederos o legatarios exceda del 50 por 100 del valor que les correspondería en virtud de su título, salvo en el supuesto de que los valores declarados sean iguales o superiores a los que resultarían de la aplicación de las reglas del Impuesto sobre el Patrimonio.
+C) Los expedientes de dominio, las actas de notoriedad, las actas complementarias de documentos públicos a que se refiere el Título VI de la Ley Hipotecaria y las certificaciones expedidas a los efectos del artículo 206 de la misma Ley, a menos que se acredite haber satisfecho el impuesto o la exención o no sujeción por la transmisión, cuyo título se supla con ellos y por los mismos bienes que sean objeto de unos u otras, salvo en cuanto a la prescripción cuyo plazo se computará desde la fecha del expediente, acta o certificación.
+D) Los reconocimientos de dominio en favor de persona determinada, con la misma salvedad hecha en el apartado anterior
+3. Las condiciones resolutorias explícitas de las compraventas a que se refiere el artículo 11 de la Ley Hipotecaria se equipararán a las hipotecas que garanticen el pago del precio aplazado con la misma finca vendida. Las condiciones resolutorias explícitas que garanticen el pago del precio aplazado en las transmisiones empresariales de bienes inmuebles sujetas y no exentas al Impuesto sobre el Valor Añadido no tributarán ni en este Impuesto ni en el de Transmisiones Patrimoniales. El mismo régimen se aplicará a las hipotecas que garanticen el precio aplazado en las transmisiones empresariales de bienes inmuebles constituidas sobre los mismos bienes transmitidos.
+4. A los efectos de este impuesto, los contratos de aparcería y los de subarriendo se equipararán a los de arrendamiento.
+5. No estarán sujetas al concepto «transmisiones patrimoniales onerosas» regulado en el presente Título las operaciones enumeradas anteriormente cuando, con independencia de la condición del adquirente, los transmitentes sean empresarios o profesionales en el ejercicio de su actividad económica y, en cualquier caso, cuando constituyan entregas de bienes o prestaciones de servicios sujetas al Impuesto sobre el Valor Añadido. No obstante, quedarán sujetos a dicho concepto impositivo las entregas o arrendamientos de bienes inmuebles, así como la constitución y transmisión de derechos reales de uso y disfrute que recaigan sobre los mismos, cuando gocen de exención en el Impuesto sobre el Valor Añadido. También quedarán sujetas las entregas de aquellos inmuebles que estén incluidos en la transmisión de un patrimonio empresarial o profesional, cuando por las circunstancias concurrentes la transmisión de este patrimonio no quede sujeta al Impuesto sobre el Valor Añadido.
+Se modifica el apartado 5 por el art. 6.1 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#as-2
+ Se modifica la letra B) del apartado 1 por el art. 6.1 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se modifica la letra A) del apartado 2 por el art. 7 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
+
+## Sujeto pasivo
+
+### Artículo 8
+
+Artículo 8.
+Estará obligado al pago del Impuesto a título de contribuyente, y cualesquiera que sean las estipulaciones establecidas por las partes en contrario:
+a) En las transmisiones de bienes y derechos de toda clase, el que los adquiere.
+b) En los expedientes de dominio, las actas de notoriedad, las actas complementarias de documentos públicos y las certificaciones a que se refiere el artículo 206 de la Ley Hipotecaria, la persona que los promueva, y en los reconocimentos de dominio hechos a favor de persona determinada, ésta última.
+c) En la constitución de derechos reales, aquél a cuyo favor se realice este acto.
+d) En la constitución de préstamos de cualquier naturaleza, el prestatario.
+e) En la constitución de fianzas, el acreedor afianzado.
+f) En la constitución de arrendamientos, el arrendatario.
+g) En la constitución de pensiones, el pensionista.
+h) En la concesión administrativa, el concesionario; en los actos y contratos administrativos equiparados a la concesión, el beneficiario.
+
+### Artículo 9
+
+Artículo 9.
+1. Serán subsidiariamente responsables del pago del impuesto:
+a) En la constitución de préstamos, el prestamista si percibiera total o parcialmente los intereses o el capital o la cosa prestada, sin haber exigido al prestatario justificación de haber satisfecho este impuesto.
+b) En la constitución de arrendamientos, el arrendador, si hubiera percibido el primer plazo de renta sin exigir al arrendatario igual justificación.
+2. Asimismo, responderá del pago del impuesto de forma subsidiaria el funcionario que autorizase el cambio de sujeto pasivo de cualquier tributo estatal, autonómico o local, cuando tal cambio suponga directa o indirectamente una transmisión gravada por el presente impuesto y no hubiera exigido previamente la justificación del pago del mismo.
+
+## Base imponible
+
+### Artículo 10
+
+Artículo 10.
+1. La base imponible está constituida por el valor del bien transmitido o del derecho que se constituya o ceda. Únicamente serán deducibles las cargas que disminuyan el valor de los bienes, pero no las deudas aunque estén garantizadas con prenda o hipoteca.
+A efectos de este impuesto, salvo que resulte de aplicación alguna de las reglas contenidas en los apartados siguientes de este artículo o en los artículos siguientes, se considerará valor de los bienes y derechos su valor de mercado. No obstante, si el valor declarado por los interesados, el precio o contraprestación pactada o ambos son superiores al valor de mercado, la mayor de esas magnitudes se tomará como base imponible.
+Se entenderá por valor de mercado el precio más probable por el cual podría venderse, entre partes independientes, un bien libre de cargas.
+2. En el caso de los bienes inmuebles, su valor será el valor de referencia previsto en la normativa reguladora del catastro inmobiliario, a la fecha de devengo del impuesto.
+No obstante, si el valor del bien inmueble declarado por los interesados, el precio o contraprestación pactada, o ambos son superiores a su valor de referencia, se tomará como base imponible la mayor de estas magnitudes.
+Cuando no exista valor de referencia o este no pueda ser certificado por la Dirección General del Catastro, la base imponible, sin perjuicio de la comprobación administrativa, será la mayor de las siguientes magnitudes: el valor declarado por los interesados, el precio o contraprestación pactada o el valor de mercado.
+3. El valor de referencia solo se podrá impugnar cuando se recurra la liquidación que en su caso realice la Administración Tributaria o con ocasión de la solicitud de rectificación de la autoliquidación, conforme a los procedimientos regulados en la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Cuando los obligados tributarios consideren que la determinación del valor de referencia ha perjudicado sus intereses legítimos, podrán solicitar la rectificación de la autoliquidación impugnando dicho valor de referencia.
+4. Cuando los obligados tributarios soliciten una rectificación de autoliquidación por estimar que la determinación del valor de referencia perjudica a sus intereses legítimos o cuando interpongan un recurso de reposición contra la liquidación que en su caso se le practique, impugnando dicho valor de referencia, la Administración Tributaria resolverá previo informe preceptivo y vinculante de la Dirección General del Catastro, que ratifique o corrija el citado valor, a la vista de la documentación aportada.
+La Dirección General del Catastro emitirá informe vinculante en el que ratifique o corrija el valor de referencia cuando lo solicite la Administración Tributaria encargada de la aplicación de los tributos como consecuencia de las alegaciones y pruebas aportadas por los obligados tributarios.
+Asimismo, emitirá informe preceptivo, corrigiendo o ratificando el valor de referencia, cuando lo solicite la Administración Tributaria encargada de la aplicación de los tributos, como consecuencia de la interposición de reclamaciones económico-administrativas.
+En los informes que emita la Dirección General del Catastro, el valor de referencia ratificado o corregido será motivado mediante la expresión de la resolución de la que traiga causa, así como de los módulos de valor medio, factores de minoración y demás elementos precisos para su determinación aprobados en dicha resolución.
+5. En particular, serán de aplicación las normas contenidas en los apartados siguientes:
+a) El valor del usufructo temporal se reputará proporcional al valor total de los bienes, en razón del 2 por 100 por cada período de un año, sin exceder del 70 por 100.
+En los usufructos vitalicios se estimará que el valor es igual al 70 por 100 del valor total de los bienes cuando el usufructuario cuente menos de veinte años, minorando, a medida que aumenta la edad, en la proporción de un 1 por 100 menos por cada año más con el límite mínimo del 10 por 100 del valor total.
+El usufructo constituido a favor de una persona jurídica si se estableciera por plazo superior a treinta años o por tiempo indeterminado se considerará fiscalmente como transmisión de plena propiedad sujeta a condición resolutoria.
+El valor del derecho de nuda propiedad se computará por la diferencia entre el valor del usufructo y el valor total de los bienes. En los usufructos vitalicios que, a su vez, sean temporales, la nuda propiedad se valorará aplicando, de las reglas anteriores, aquella que le atribuya menor valor.
+b) El valor de los derechos reales de uso y habitación será el que resulte de aplicar al 75 por 100 del valor de los bienes sobre los que fueron impuestos, las reglas correspondientes a la valoración de los usufructos temporales o vitalicios, según los casos.
+c) Las hipotecas, prendas y anticresis se valorarán en el importe de la obligación o capital garantizado, comprendiendo las sumas que se aseguren por intereses, indemnizaciones, penas por incumplimiento u otro concepto análogo. Si no constare expresamente el importe de la cantidad garantizada, se tomará por base el capital y tres años de intereses.
+d) Los derechos reales no incluidos en apartados anteriores se imputarán por el capital, precio o valor que las partes hubiesen pactado al constituirlos, si fuere igual o mayor que el que resulte de la capitalización al interés básico del Banco de España de la renta o pensión anual, o éste si aquél fuere menor.
+e) En los arrendamientos servirá de base la cantidad total que haya de satisfacerse por todo el período de duración del contrato; cuando no constase aquél, se girará la liquidación computándose seis años, sin perjuicio de las liquidaciones adicionales que deban practicarse, caso de continuar vigente después del expresado período temporal; en los contratos de arrendamiento de fincas urbanas sujetas a prórroga forzosa se computará, como mínimo, un plazo de duración de tres años.
+f) La base imponible de las pensiones se obtendrá capitalizándolas al interés básico del Banco de España y tomando del capital resultante aquella parte que, según las reglas establecidas para valorar los usufructos, corresponda a la edad del pensionista, si la pensión es vitalicia, o a la duración de la pensión si es temporal. Cuando el importe de la pensión no se cuantifique en unidades monetarias, la base imponible se obtendrá capitalizando el importe anual del salario mínimo interprofesional.
+g) En las transmisiones de valores que se negocien en un mercado secundario oficial, el valor de cotización del día en que tenga lugar la adquisición o, en su defecto, la del primer día inmediato anterior en que se hubiesen negociado, dentro del trimestre inmediato precedente.
+h) En las actas de notoriedad que se autoricen para inscripción de aguas destinadas al riego, tanto en el Registro de la Propiedad como en los Administrativos, servirá de base la capitalización al 16 por 100 de la riqueza imponible asignada a las tierras que con tales aguas se beneficien.
+i) En los contratos de aparcería de fincas rústicas, servirá de base el 3 por 100 del valor catastral asignado en el Impuesto sobre Bienes Inmuebles a la finca objeto del contrato, multiplicado por el número de años de duración del contrato.
+j) En los préstamos sin otra garantía que la personal del prestatario, en los asegurados con fianza y en los contratos de reconocimiento de deudas y de depósito retribuido, el capital de la obligación o valor de la cosa depositada. En las cuentas de crédito, el que realmente hubiese utilizado el prestatario. En los préstamos garantizados con prenda, hipoteca o anticresis, se observará lo dispuesto en el párrafo c) de este artículo.
+Se modifica el apartado 1, se añaden el 2, 3 y 4 y se renumera el actual apartado 2 como 5 por el art. 6.2 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#as-2
+
+## Cuota tributaria
+
+### Artículo 11
+
+Artículo 11.
+1. La cuota tributaria se obtendrá aplicando sobre la base liquidable los siguientes tipos, sin perjuicio de lo establecido en el artículo siguiente:
+a) Si se trata de la transmisión de bienes muebles o inmuebles, así como la constitución y cesión de derechos reales que recaigan sobre los mismos, excepto los derechos reales de garantía, con el tipo que, conforme a lo previsto en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, haya sido aprobado por la Comunidad Autónoma.
+Si la Comunidad Autónoma no hubiese aprobado el tipo a que se refiere el párrafo anterior, se aplicará el 6 por 100 a la transmisión de inmuebles, así como la constitución y cesión de derechos reales sobre los mismos, excepto los derechos reales de garantía, y el 4 por 100, si se trata de la transmisión de bienes muebles y semovientes, así como la constitución y cesión de derechos reales sobre los mismos, excepto los derechos reales de garantía. Este último tipo se aplicará igualmente a cualquier otro acto sujeto no comprendido en las demás letras de este apartado.
+La transmisión de valores tributará, en todo caso, conforme a lo dispuesto en el apartado 3 del artículo 12 de esta Ley.
+b) El 1 por 100, si se trata de la constitución de derechos reales de garantía, pensiones, fianzas o préstamos, incluso los representados por obligaciones, así como la cesión de créditos de cualquier naturaleza.
+2. Cuando un mismo acto o contrato comprenda bienes muebles e inmuebles sin especificación de la parte de valor que a cada uno de ellos corresponda, se aplicará el tipo de gravamen de los inmuebles.
+Se modifica por el art. 60.1 de la Ley 21/2001, de 27 de diciembre.Ref. BOE-A-2001-24962
+ Se modifica por el art. 30.2 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118
+
+### Artículo 12
+
+Artículo 12.
+1. La cuota tributaria de los arrendamientos se obtendrá aplicando sobre la base liquidable la tarifa que fije la Comunidad Autónoma.
+Si la Comunidad Autónoma no hubiese aprobado la tarifa a que se refiere el párrafo anterior, se aplicará la siguiente escala:
+Euros
+ Hasta 30,05 euros
+ 0,09
+ De 30,06 a 60,10
+ 0,18
+ De 60,11 a 120,20
+ 0,39
+ De 120,21 a 240,40
+ 0,78
+ De 240,41 a 480,81
+ 1,68
+ De 480,82 a 961,62
+ 3,37
+ De 961,63 a 1.923,24
+ 7,21
+ De 1.923,25 a 3.846,48
+ 14,42
+ De 3846,49 a 7.692,95
+ 30,77
+ De 7.692,96 en adelante, 0,024040 euros por cada 6,01 o fracción.
+Podrá satisfacerse la deuda tributaria mediante la utilización de efectos timbrados en los arrendamientos de fincas urbanas, según la escala anterior.
+2. El impuesto se liquidará en metálico cuando en la constitución de arrendamientos no se utilicen efectos timbrados para obtener la cuota tributaria.
+3. La transmisión de valores tributará según la siguiente escala:
+:
+Euros
+ Hasta 60,10 euros
+ 0,06
+ De 60,11 a 180,30
+ 0,18
+ De 180,31 a 450,76
+ 0,48
+ De 450,77 a 901,52
+ 0,96
+ De 901,53 a 1.803,04
+ 1,98
+ De 1.803,05 a 6.010,12
+ 7,21
+ De 6.010,13 a 12.020,24
+ 14,42
+ Exceso: 0,066111 euros por cada 60,10 o fracción.
+Se modifica por el art. 60.2 de la Ley 21/2001, de 27 de diciembre.Ref. BOE-A-2001-24962
+ Se convierten a euros las cuantías contempladas en los apartados 1 y 3 por el apartado 5 de la Resolución de 27 de abril de 2001. Ref. BOE-A-2001-8543
+
+## Reglas especiales
+
+### Artículo 13
+
+Artículo 13.
+1. Las concesiones administrativas tributarán con el tipo que, conforme a lo previsto en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, haya sido aprobado por la Comunidad Autónoma.
+Si la Comunidad Autónoma no hubiese aprobado el tipo a que se refiere el párrafo anterior, las concesiones administrativas tributarán como constitución de derechos, al tipo de gravamen establecido en el artículo 11.a) para los bienes muebles o semovientes, cualesquiera que sean su naturaleza, duración y los bienes sobre los que recaigan.
+2. Se equipararán a las concesiones administrativas, a los efectos del impuesto, los actos y negocios administrativos, cualquiera que sea su modalidad o denominación, por lo que, como consecuencia del otorgamiento de facultades de gestión de servicios públicos o de la atribución del uso privativo o del aprovechamiento especial de bienes de dominio o uso público, se origine un desplazamiento patrimonial en favor de particulares.
+3. Como norma general, para determinar la base imponible, el valor del derecho originado por la concesión se fijará por la aplicación de la regla o reglas que, en atención a la naturaleza de las obligaciones impuestas al concesionario, resulten aplicables de las que se indican a continuación:
+a) Si la Administración señalase una cantidad total en concepto de precio o canon que deba satisfacer el concesionario, por el importe de la misma.
+b) Si la Administración señalase un canon, precio, participación o beneficio mínimo que deba satisfacer el concesionario periódicamente y la duración de la concesión no fuese superior a un año, por la suma total de las prestaciones periódicas. Si la duración de la concesión fuese superior al año, capitalizando, según el plazo de la concesión, al 10 por 100 la cantidad anual que satisfaga el concesionario.
+Cuando para la aplicación de esta regla hubiese que capitalizar una cantidad anual que fuese variable como consecuencia, exclusivamente, de la aplicación de cláusulas de revisión de precios que tomen como referencia índices objetivos de su evolución, se capitalizará la correspondiente al primer año. Si la variación dependiese de otras circunstancias, cuya razón matemática se conozca en el momento del otorgamiento de la concesión, la cantidad a capitalizar será la media anual de las que el concesionario deba de satisfacer durante la vida de la concesión.
+c) Cuando el concesionario esté obligado a revertir a la Administración bienes determinados, se computará el valor neto contable estimado de dichos bienes a la fecha de reversión, más los gastos previstos para la reversión. Para el cálculo del valor neto contable de los bienes se aplicarán las tablas de amortización aprobadas a los efectos del Impuesto sobre Sociedades en el porcentaje medio resultante de las mismas.
+4. En los casos especiales en los que, por la naturaleza de la concesión, la base imponible no pueda fijarse por las reglas del apartado anterior, se determinará ajustándose a las siguientes reglas:
+a) Aplicando al valor de los activos fijos afectos a la explotación, uso o aprovechamiento de que se trate, un porcentaje del 2 por 100 por cada año de duración de la concesión, con el mínimo del 10 por 100 y sin que el máximo pueda exceder del valor de los activos.
+b) A falta de la anterior valoración, se tomará la señalada por la respectiva Administración pública.
+c) En defecto de las dos reglas anteriores, por el valor declarado por los interesados, sin perjuicio del derecho de la Administración para proceder a su comprobación por los medios del artículo 52 de la Ley General Tributaria.
+Se modifica el apartado 3 por el art. 6.3 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#as-2
+ Se modifica el apartado 3 por el art. 7.1 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Se modifica el párrafo c) del apartado 3 por el art. 8 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica por el art. 60.3 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962
+ Se modifica el apartado 1 por el art. 30.3 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118
+
+### Artículo 14
+
+Artículo 14.
+1. Al consolidarse el dominio, el nudo propietario tributará por este impuesto atendiendo al valor del derecho que ingrese en su patrimonio.
+2. Las promesas y opciones de contratos sujetos al impuesto serán equiparadas a éstos, tomándose como base el precio especial convenido, y a falta de éste, o si fuere menor, el 5 por 100 de la base aplicable a dichos contratos.
+3. En las transmisiones de bienes y derechos con cláusula de retro, servirá de base el precio declarado si fuese igual o mayor que los dos tercios del valor comprobado de aquéllos. En la transmisión del derecho a retraer, la tercera parte de dicho valor, salvo que el precio declarado fuese mayor. Cuando se ejercite el derecho de retracto servirá de base las dos terceras partes del valor comprobado de los bienes y derechos retraídos, siempre que sea igual o mayor al precio de la retrocesión.
+4. En la constitución de los censos enfitéuticos y reservativos, sin perjuicio de la liquidación por este concepto, se girará la correspondiente a la cesión de los bienes por el valor que tengan, deduciendo el capital de aquéllos.
+5. En las transacciones se liquidará el impuesto según el título por el cual se adjudiquen, declaren o reconozcan los bienes o derechos litigiosos, y si aquél no constare, por el concepto de transmisión onerosa.
+6. Cuando en las cesiones de bienes a cambio de pensiones vitalicias o temporales, la base imponible a efectos de la cesión sea superior en más del 20 por 100 y en 2.000.000 de pesetas a la de la pensión, la liquidación a cargo del cesionario de los bienes se girará por el valor en que ambas bases coincidan y por la diferencia se le practicará otra por el concepto de donación.
+7. Cuando en las transmisiones onerosas por actos «inter vivos» de bienes y derechos, el valor comprobado a efectos de la modalidad de «transmisiones patrimoniales onerosas» exceda del consignado por las partes en el correspondiente documento en más del 20 por 100 de éste y dicho exceso sea superior a 2.000.000 de pesetas, éste último sin perjuicio de la tributación que corresponda por la modalidad expresada, tendrá para el transmitente y para el adquirente las repercusiones tributarias de los incrementos patrimoniales derivados de transmisiones a título lucrativo.
+Se declara la inconstitucionalidad y nulidad del aparatado 7 por Sentencia del TC 194/2000, de 19 de julio. Ref. BOE-T-2000-15261
+
+### Artículo 15
+
+Artículo 15.
+1. La constitución de las fianzas y de los derechos de hipoteca, prenda y anticresis, en garantía de un préstamo, tributarán exclusivamente por el concepto de préstamo.
+2. Se liquidarán como préstamos personales las cuentas de crédito, el reconocimiento de deuda y el depósito retribuido.
+
+### Artículo 16
+
+Artículo 16.
+La subrogación en los derechos del acreedor prendario, hipotecario o anticrético se considerará como transmisión de derechos y tributará por el tipo establecido en la letra b) del número 1 del artículo 11.
+Se modifica por el art. 60.4 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962
+
+### Artículo 17
+
+Artículo 17.
+1. En la transmisión de créditos o derechos mediante cuyo ejercicio hayan de obtenerse bienes determinados y de posible estimación se exigirá el impuesto por iguales conceptos y tipos que las que se efectúen de los mismos bienes y derechos. Sin embargo, en el caso de inmuebles en construcción, la base imponible estará constituida por el valor del bien en el momento de la transmisión del crédito o derecho, sin que pueda ser inferior al importe de la contraprestación satisfecha por la cesión.
+2. Las transmisiones de valores, admitidos o no a negociación en un mercado secundario oficial, que queden exentas de tributar como tales, bien en el Impuesto sobre el Valor Añadido o bien en la modalidad de «transmisiones patrimoniales onerosas» del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, así como su adquisición en los mercados primarios como consecuencia del ejercicio de los derechos de suscripción preferente y de conversión de obligaciones en acciones, tributarán por la citada modalidad, como transmisiones onerosas de bienes inmuebles, en los casos y con las condiciones que establece el artículo 108 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+Se modifica el apartado 1 por el art. 6.4 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#as-2
+ Se modifica el apartado 1 por el art. 7.2 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+
+### Artículo 18
+
+Artículo 18.
+1. Todas las transmisiones empresariales de bienes inmuebles sujetas y no exentas al Impuesto sobre el Valor Añadido, se liquidarán sin excepción por dicho tributo, sin perjuicio de lo previsto en el artículo 27 respecto al gravamen sobre Actos Jurídicos Documentados.
+Lo dispuesto anteriormente será aplicable cuando se renuncie a la aplicación de la exención en el Impuesto sobre el Valor Añadido, conforme a lo previsto en este Impuesto.
+2. Si a pesar de lo dispuesto en el número anterior se efectuara la autoliquidación por la modalidad de «transmisiones patrimoniales onerosas» del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, ello no eximirá en ningún caso a los sujetos pasivos sometidos al Impuesto sobre el Valor Añadido, de sus obligaciones tributarias por este concepto, sin perjuicio del derecho a la devolución de los ingresos indebidos a que hubiese lugar, en su caso, por la referida modalidad de «transmisiones patrimoniales onerosas».
+
+## TÍTULO II
+
+Operaciones societarias
+
+## Hecho imponible
+
+### Artículo 19
+
+Artículo 19.
+1. Son operaciones societarias sujetas:
+1.º La constitución de sociedades, el aumento y disminución de su capital social y la disolución de sociedades.
+2.º Las aportaciones que efectúen los socios que no supongan un aumento del capital social.
+3.º El traslado a España de la sede de dirección efectiva o del domicilio social de una sociedad cuando ni una ni otro estuviesen previamente situados en un Estado miembro de la Unión Europea.
+2. No estarán sujetas:
+1.º Las operaciones de reestructuración.
+2.º Los traslados de la sede de dirección efectiva o del domicilio social de sociedades de un Estado miembro de la Unión Europea a otro.
+3.º La modificación de la escritura de constitución o de los estatutos de una sociedad y, en particular, el cambio del objeto social, la transformación o la prórroga del plazo de duración de una sociedad.
+4.º La ampliación de capital que se realice con cargo a la reserva constituida exclusivamente por prima de emisión de acciones.
+Se modifica por el art. 7.3 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+
+### Artículo 20
+
+Artículo 20.
+1. Las entidades que realicen, a través de sucursales o establecimientos permanentes, operaciones de su tráfico en territorio español y cuyo domicilio social y sede de dirección efectiva se encuentren en países no pertenecientes a la Unión Europea vendrán obligadas a tributar, por los mismos conceptos y en las mismas condiciones que las españolas, por la parte de capital que destinen a dichas operaciones.
+2. Las entidades cuyo domicilio social y sede de dirección efectiva se encuentren en un Estado miembro de la Unión Europea distinto de España no estarán sujetas a la modalidad de operaciones societarias cuando realicen, a través de sucursales o establecimientos permanentes, operaciones de su tráfico en territorio español. Tampoco estarán sujetas a dicho gravamen por tales operaciones las entidades cuya sede de dirección efectiva se encuentre en países no pertenecientes a la Unión Europea si su domicilio social está situado en un Estado miembro de la Unión Europea distinto de España.
+Se modifica por el art. 7.4 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+
+### Artículo 21
+
+Artículo 21.
+A los efectos del gravamen sobre operaciones societarias tendrán la consideración de operaciones de reestructuración las operaciones de fusión, escisión, aportación de activos y canje de valores definidas en el artículo 83, apartados 1, 2, 3 y 5, y en el artículo 94 del Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
+Se modifica por el art. 7.5 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+
+### Artículo 22
+
+Artículo 22.
+A los efectos de este Impuesto se equipararán a sociedades:
+1.º Las personas jurídicas no societarias que persigan fines lucrativos.
+2.º Los contratos de cuentas en participación.
+3.º La copropiedad de buques.
+4.º La comunidad de bienes, constituida por «actos inter vivos», que realice actividades empresariales, sin perjuicio de lo dispuesto en la Ley del Impuesto sobre la Renta de las Personas Físicas.
+5.º La misma comunidad constituida u originada por actos «mortis causa», cuando continúe en régimen de indivisión la explotación del negocio del causante por un plazo superior a tres años. La liquidación se practicará, desde luego, sin perjuicio del derecho a la devolución que proceda si la comunidad se disuelve antes de transcurrir el referido plazo.
+
+## Sujeto pasivo
+
+### Artículo 23
+
+Artículo 23.
+Estará obligado al pago del impuesto a título de contribuyente y cualesquiera que sean las estipulaciones establecidas por las partes en contrario:
+a) En la constitución de sociedades, aumento de capital, traslado de sede de dirección efectiva o domicilio social y aportaciones de los socios que no supongan un aumento del capital social, la sociedad.
+b) En la disolución de sociedades y reducción de capital social, los socios, copropietarios, comuneros o partícipes por los bienes y derechos recibidos.
+Se modifica por el art. 7.6 de la Ley 4/2008, de 23 de diciembre.Ref. BOE-A-2008-20802
+
+### Artículo 24
+
+Artículo 24.
+Serán subsidiariamente responsables del pago del impuesto en la constitución de sociedades, aumento y reducción de capital social, aportaciones de los socios que no supongan un aumento del capital social, disolución y traslado de la sede de dirección efectiva o del domicilio social de sociedades, los promotores, administradores, o liquidadores de las mismas que hayan intervenido en el acto jurídico sujeto al impuesto, siempre que se hubieran hecho cargo del capital aportado o hubiesen entregado los bienes.
+Se modifica por el art. 7.7 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+
+## Base imponible
+
+### Artículo 25
+
+Artículo 25.
+1. En la constitución y aumento de capital de sociedades que limiten de alguna manera la responsabilidad de los socios, la base imponible coincidirá con el importe nominal en que aquél quede fijado inicialmente o ampliado con adición de las primas de emisión, en su caso, exigidas.
+2. Cuando se trate de operaciones realizadas por sociedades distintas de las anteriores y en las aportaciones de los socios que no supongan un aumento del capital social, la base imponible se fijará en el valor neto de la aportación, entendiéndose como tal el valor de los bienes y derechos aportados minorado por las cargas y gastos que fueren deducibles y por el valor de las deudas que queden a cargo de la sociedad con motivo de la aportación, determinado de acuerdo con lo dispuesto en el artículo 10 de este texto refundido.'
+3. En los traslados de sede de dirección efectiva o de domicilio social, la base imponible coincidirá con el haber líquido que la sociedad, cuya sede de dirección efectiva o domicilio social se traslada, tenga el día en que se adopte el acuerdo.
+4. En la disminución de capital y en la disolución, la base imponible coincidirá con el valor de los bienes y derechos entregados a los socios, sin deducción de gastos y deudas, determinado de acuerdo con lo dispuesto en el artículo 10 de este texto refundido.
+Se modifican los apartados 2 y 4 por el art. 6.5 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#as-2
+ Se modifica por el art. 7.8 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+
+## Cuota tributaria
+
+### Artículo 26
+
+Artículo 26.
+La cuota tributaria se obtendrá aplicando a la base liquidable el tipo de gravamen del 1 por 100.
+
+## TÍTULO III
+
+Actos jurídicos documentados
+
+## Principios generales
+
+### Artículo 27
+
+Artículo 27.
+1. Se sujetan a gravamen, en los términos que se previenen en los artículos siguientes:
+a) Los documentos notariales.
+b) Los documentos mercantiles.
+c) Los documentos administrativos.
+2. El tributo se satisfará mediante cuotas variables o fijas, atendiendo a que el documento que se formalice, otorgue o expida, tenga o no por objeto cantidad o cosa valuable en algún momento de su vigencia.
+3. Los documentos notariales se extenderán necesariamente en papel timbrado.
+
+## Documentos notariales
+
+## Hecho imponible
+
+### Artículo 28
+
+Artículo 28.
+Están sujetas las escrituras, actas y testimonios notariales, en los términos que establece el artículo 31.
+
+## Sujeto pasivo
+
+### Artículo 29
+
+Artículo 29.
+Será sujeto pasivo el adquirente del bien o derecho y, en su defecto, las personas que insten o soliciten los documentos notariales, o aquellos en cuyo interés se expidan.
+Cuando se trate de escrituras de préstamo con garantía hipotecaria, se considerará sujeto pasivo al prestamista.
+Se modifica por el art. único.1 del Real Decreto-ley 17/2018, de 8 de noviembre, aplicándose a los hechos imponibles devengados a partir de la entrada en vigor del citado real decreto-ley. Ref. BOE-A-2018-15344
+
+## Base imponible
+
+### Artículo 30
+
+Artículo 30.
+1. En las primeras copias de escrituras públicas que tengan por objeto directo cantidad o cosa valuable servirá de base el valor declarado, sin perjuicio de la comprobación administrativa. La base imponible en los derechos reales de garantía y en las escrituras que documenten préstamos con garantía estará constituida por el importe de la obligación o capital garantizado, comprendiendo las sumas que se aseguren por intereses, indemnizaciones, penas por incumplimiento u otros conceptos análogos. Si no constare expresamente el importe de la cantidad garantizada, se tomará como base el capital y tres años de intereses.
+En la posposición y mejora de rango de las hipotecas o de cualquier otro derecho de garantía, la base imponible estará constituida por la total responsabilidad asignada al derecho que empeore de rango. En la igualación de rango, la base imponible se determinará por el total importe de la responsabilidad correspondiente al derecho de garantía establecido en primer lugar.
+Cuando la base imponible se determine en función del valor de bienes inmuebles, el valor de estos no podrá ser inferior al determinado de acuerdo con lo dispuesto en el artículo 10 de este texto refundido.
+2. En las actas notariales se observará lo dispuesto en el apartado anterior, salvo en las de protesto, en las que la base imponible coincidirá con la tercera parte del valor nominal del efecto protestado o de la cantidad que hubiese dado lugar al protesto.
+3. Se entenderá que el acto es de objeto no valuable cuando durante toda su vigencia, incluso en el momento de su extinción, no pueda determinarse la cuantía de la base. Si ésta no pudiese fijarse al celebrarse el acto, se exigirá el impuesto como si se tratara de objeto no valuable, sin perjuicio de que la liquidación se complete cuando la cuantía quede determinada.
+Se modifica el apartado 1 por el art. 6.6 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#as-2
+ Se modifica por el art. 5.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+## Cuota tributaria
+
+### Artículo 31
+
+Artículo 31.
+1. Las matrices y las copias de las escrituras y actas notariales, así como los testimonios, se extenderán, en todo caso, en papel timbrado de 0,30 euros por pliego o 0,15 euros por folio, a elección del fedatario. Las copias simples no estarán sujetas al impuesto.
+2. Las primeras copias de escrituras y actas notariales, cuando tengan por objeto cantidad o cosa valuable, contengan actos o contratos inscribibles en los Registros de la Propiedad, Mercantil, de la Propiedad Industrial y de Bienes Muebles no sujetos al Impuesto sobre Sucesiones y Donaciones o a los conceptos comprendidos en los números 1 y 2 del artículo 1 de esta Ley, tributarán, además, al tipo de gravamen que, conforme a lo previsto en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, haya sido aprobado por la Comunidad Autónoma.
+Si la Comunidad Autónoma no hubiese aprobado el tipo a que se refiere el párrafo anterior, se aplicará el 0,50 por 100, en cuanto a tales actos o contratos.
+3. Por el mismo tipo a que se refiere el apartado anterior y mediante la utilización de efectos timbrados tributarán las copias de las actas de protesto.
+Se modifica el apartado 2 por el art. 5.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se modifica por el art. 60.5 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962
+ Se modifica por el art. 30.4 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118
+
+### Artículo 32
+
+Artículo 32.
+Lo dispuesto en el artículo 31.1, será de aplicación a la segunda y sucesivas copias expedidas a nombre de un mismo otorgante.
+
+## Documentos mercantiles
+
+## Hecho imponible
+
+### Artículo 33
+
+Artículo 33.
+1. Están sujetas las letras de cambio, los documentos que realicen función de giro o suplan a aquéllas, los resguardos o certificados de depósitos transmisibles, así como los pagarés, bonos, obligaciones y demás títulos análogos emitidos en serie, por plazo no superior a dieciocho meses, representativos de capitales ajenos por los que se satisfaga una contraprestación establecida por diferencia entre el importe satisfecho por la emisión y el comprometido a reembolsar al vencimiento.
+2. Se entenderá que un documento realiza función de giro cuando acredite remisión de fondos o signo equivalente de un lugar a otro, o implique una orden de pago, aun en el mismo en que ésta se haya dado, o en él figure la cláusula «a la orden».
+
+## Sujeto pasivo
+
+### Artículo 34
+
+Artículo 34.
+1. Estará obligado al pago el librador, salvo que la letra de cambio se hubiese expedido en el extranjero, en cuyo caso lo estará su primer tenedor en España.
+2. Serán sujetos pasivos del tributo que grave los documentos de giro o sustitutivos de las letras de cambio, así como los resguardos de depósito y pagarés, bonos, obligaciones y títulos análogos emitidos en serie, las personas o entidades que los expidan.
+
+### Artículo 35
+
+Artículo 35.
+Será responsable solidario del pago del impuesto toda persona o entidad que intervenga en la negociación o cobro de los efectos a que se refiere el artículo anterior.
+
+## Base imponible
+
+### Artículo 36
+
+Artículo 36.
+1. En la letra de cambio servirá de base la cantidad girada, y en los certificados de depósito, su importe nominal.
+2. Cuando el vencimiento de las letras de cambio exceda de seis meses, contados a partir de la fecha de su emisión, se exigirá el impuesto que corresponda al duplo de la base.
+Si en sustitución de la letra de cambio que correspondiere a un acto o negocio jurídico se expidiesen dos o más letras, originando una disminución del impuesto, procederá la adición de las bases respectivas, a fin de exigir la diferencia. No se considerará producido el expresado fraccionamiento cuando entre las fechas de vencimiento de los efectos exista una diferencia superior a quince días o cuando se hubiere pactado documentalmente el cobro a plazos mediante giros escalonados.
+3. Las reglas fijadas anteriormente serán asimismo de aplicación a los documentos que realicen función de giro o suplan a las letras de cambio, con excepción de la recogida en el primer párrafo del apartado 2 de este artículo.
+4. En los pagarés, bonos, obligaciones y demás títulos análogos, emitidos en serie, representantivos de capitales ajenos, por los que se satisfaga una contraprestación establecida por la diferencia entre el importe satisfecho en la emisión y el comprometido a reembolsar al vencimiento, la base estará constituida por el importe del capital que la emisora se compromete a reembolsar.
+
+## Cuota tributaria
+
+### Artículo 37
+
+Artículo 37.
+1. Las letras de cambio se extenderán necesariamente en el efecto timbrado de la clase que corresponda a su cuantía. La extensión de la letra en efecto timbrado de cuantía inferior privará a estos documentos de la eficacia ejecutiva que les atribuyen las leyes. La tributación se llevará a cabo conforme a la siguiente escala:
+Euros
+ Hasta 24,04 euros
+ 0,06
+ De 24,05 a 48,08
+ 0,12
+ De 48,09 a 90,15
+ 0,24
+ De 90,16 a 180,30
+ 0,48
+ De 180,31 a 360,61
+ 0,96
+ De 360,62 a 751,27
+ 1,98
+ De 751,28 a 1.502,53
+ 4,21
+ De 1.502,54 a 3.005,06
+ 8,41
+ De 3.005,07 a 6.010,12
+ 16,83
+ De 6.010,13 a 12.020,24
+ 33,66
+ De 12.020,25 a 24.040,48
+ 67,31
+ De 24.040,49 a 48.080,97
+ 134,63
+ De 48.080,98 a 96.161,94
+ 269,25
+ De 96.161,95 a 192.323,87
+ 538,51
+Por lo que exceda de 192.323,87 euros, a 0,018 euros por cada 6,01 o fracción, que se liquidará siempre en metálico. La falta de presentación a liquidación dentro del plazo implicará también la pérdida de la fuerza ejecutiva que les atribuyen las leyes.
+2. Los documentos que realicen una función de giro o suplan a las letras de cambio y los certificados de depósito tributarán por la anterior escala de gravamen, mediante el empleo de timbre móvil.
+3. El Ministerio de Economía y Hacienda podrá autorizar el pago en metálico, en sustitución del empleo de efectos timbrados, cuando las características del tráfico mercantil, o su proceso de mecanización, así lo aconsejen, adoptando las medidas oportunas para la perfecta identificación del documento y del ingreso correspondiente al mismo, sin que ello implique la pérdida de su eficacia ejecutiva.
+4. Los pagarés, bonos, obligaciones y demás títulos análogos, emitidos en serie por plazo no superior a dieciocho meses, representativos de capitales ajenos, por los que se satisfaga una contraprestación establecida por la diferencia entre el importe satisfecho en la emisión y el comprometido a reembolsar al vencimiento, tributarán al tipo de tres pesetas por cada mil o fracción, que se liquidará en metálico.
+Se convierten a euros las cuantías contempladas en el apartado 1 por el apartado 5.3 de la Resolución de 27 de abril de 2001. Ref. BOE-A-2001-8543
+
+### Artículo 38
+
+Artículo 38.
+El Reglamento establecerá la forma, estampación, especie, características y numeración de los efectos timbrados, los casos y el procedimiento de obtener su timbrado directo, las condiciones para el canje de tales efectos, el modo de efectuar la inutilización de los mismos y el empleo de máquinas de timbrar.
+
+### Artículo 39
+
+Artículo 39.
+1. El pago del impuesto en la expedición de los documentos mercantiles cubre todas las cláusulas en ellos contenidas, en cuanto a su tributación por este concepto.
+2. Las letras de cambio expedidas en el extranjero que surtan cualquier efecto jurídico o económico en España se reintegrarán a metálico por su primer tenedor en ella.
+
+## Documentos administrativos
+
+## Hecho imponible
+
+### Artículo 40
+
+Artículo 40.
+Están sujetas:
+1. La rehabilitación y transmisión de grandezas y títulos nobiliarios.
+2. Las anotaciones preventivas que se practiquen en los Registros públicos, cuando tengan por objeto un derecho o interés valuable y no vengan ordenadas de oficio por la autoridad judicial o administrativa competente.
+Se modifica el apartado 2 por el art. 13 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+
+## Sujeto pasivo
+
+### Artículo 41
+
+Artículo 41.
+Estarán obligados al pago, en calidad de contribuyentes:
+a) En las grandezas y títulos nobiliarios, sus beneficiarios.
+b) En las anotaciones, la persona que las solicite.
+
+## Base imponible
+
+### Artículo 42
+
+Artículo 42.
+Servirá de base en las anotaciones preventivas, el valor del derecho o interés que se garantice, publique o constituya.
+
+## Cuota tributaria
+
+### Artículo 43
+
+Artículo 43.
+La rehabilitación y transmisión, sea por vía de sucesión o cesión, de grandezas y títulos nobiliarios, así como el reconocimiento de uso en España de títulos extranjeros, satisfarán los derechos consignados en la escala adjunta.
+Se considerarán transmisiones directas las que tengan lugar entre ascendientes y descendientes o entre hermanos cuando la grandeza o el título haya sido utilizado por alguno de los padres.
+Se considerarán transmisiones transversales las que tengan lugar entre personas no comprendidas en el párrafo anterior.
+Se gravará la rehabilitación siempre que haya existido interrupción en la posesión de una grandeza o título, cualquiera que sea la forma en que se produzca, pero sin que pueda liquidarse en cada supuesto más que un solo derecho al sujeto pasivo. Por esta misma escala tributará el derecho a usar en España títulos pontificios y los demás extranjeros.
+Escala
+ Transmisiones directas
+ –
+ Euros
+ Transmisiones transversales
+ –
+ Euros
+ Rehabilitaciones y reconocimiento de títulos extranjeros
+ –
+ Euros
+ 1.º Por cada título con grandeza.
+ 2.922
+ 7.325
+ 17.561
+ 2.º Por cada grandeza sin título.
+ 2.089
+ 5.237
+ 12.539
+ 3.º Por cada título sin grandeza.
+ 833
+ 2.089
+ 5.027
+Se actualiza la escala por el art. 83 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-5
+ Se actualiza la escala por el art. 65 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#a6-7
+ Se actualiza la escala por el art. 71 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a7-3
+ Se actualiza la escala por el art. 80 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-74
+ Se actualiza la escala, con efectos desde el 1 de enero de 2016, por el art. 71 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
+ Se actualiza la escala por el art. 63 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612#a63
+ Se actualiza la escala por el art. 80 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se actualiza la escala por el art. 70 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+ Se actualiza la escala, con efectos desde el 1 de julio de 2012, por el art. 70 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se actualiza la escala, con efectos desde el 1 de enero de 2011, por el art. 80 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+ Se actualiza la escala, con efectos desde el 1 de enero de 2010, por el art. 80 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
+ Se actualiza la escala por el art. 73 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744
+ Se actualiza la escala por el art. 72 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295
+ Se actualiza la escala por el art. 66 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865
+ Se actualiza la escala por el art. 64 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+ Se actualiza la escala por el art. 61 de la Ley 61/2003, de 30 de diciembre. Ref. BOE-A-2003-23935
+ Se actualiza la escala por el art. 61 de la Ley 52/2002, de 30 de diciembre. Ref. BOE-A-2002-25411
+ Se modifica por el art. 63 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964
+ Se actualiza la escala por el art. 64 de la Ley 13/2000, de 28 de diciembre. Ref. BOE-A-2000-24265
+ Se actualiza la escala por el art. 72 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785
+ Se actualiza la escala por el art. 69 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154
+ Se actualiza la escala por el art. 69 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052
+ Se actualiza la escala por el art. 63 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116
+ Se actualiza la escala por el art. 27 del Real Decreto-ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Se actualiza la escala por el art. 77 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+ Se actualiza la escala por el art. 74 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087
+
+### Artículo 44
+
+Artículo 44.
+Las anotaciones preventivas que se practiquen en los Registros públicos tributarán al tipo de gravamen del 0,50 por 100, que se liquidará a metálico.
+
+## TÍTULO IV
+
+Disposiciones comunes
+
+## Beneficios fiscales
+
+### Artículo 45
+
+Artículo 45.
+Los beneficios fiscales aplicables en cada caso a las tres modalidades de gravamen a que se refiere el artículo 1 de la presente Ley serán los siguientes:
+I. A) Estarán exentos del impuesto:
+a) El Estado y las Administraciones públicas territoriales e institucionales y sus establecimientos de beneficencia, cultura, Seguridad Social, docentes o de fines científicos.
+Esta exención será igualmente aplicable a aquellas entidades cuyo régimen fiscal haya sido equiparado por una Ley al del Estado o al de las Administraciones públicas citadas.
+b) Las entidades sin fines lucrativos a que se refiere artículo 2 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo, que se acojan al régimen fiscal especial en la forma prevista en el artículo 14 de dicha Ley.
+A la autoliquidación en que se aplique la exención se acompañará la documentación que acredite el derecho a la exención.
+c) Las cajas de ahorro y las fundaciones bancarias, por las adquisiciones directamente destinadas a su obra social.
+d) La Iglesia Católica y las iglesias, confesiones y comunidades religiosas que tengan suscritos acuerdos de cooperación con el Estado español.
+e) El Instituto de España y las Reales Academias integradas en el mismo, así como las instituciones de las Comunidades Autónomas que tengan fines análogos a los de la Real Academia Española.
+f) Los partidos políticos con representación parlamentaria.
+g) La Cruz Roja Española y la Organización Nacional de Ciegos Españoles.
+h) La Obra Pía de los Santos Lugares.
+B) Estarán exentas:
+1. Las transmisiones y demás actos y contratos en que la exención resulte concedida por Tratados o Convenios Internacionales que hayan pasado a formar parte del ordenamiento interno.
+2. Las transmisiones que se verifiquen en virtud de retracto legal, cuando el adquirente contra el cual se ejercite aquél hubiere satisfecho ya el impuesto.
+3. Las aportaciones de bienes y derechos verificados por los cónyuges a la sociedad conyugal, las adjudicaciones que a su favor y en pago de las mismas se verifiquen a su disolución y las transmisiones que por tal causa se hagan a los cónyuges en pago de su haber de gananciales.
+4. Las entregas de dinero que constituyan el precio de bienes o se verifiquen en pago de servicios personales, de créditos o indemnizaciones. Las actas de entrega de cantidades por las entidades financieras, en ejecución de escrituras de préstamo hipotecario, cuyo impuesto haya sido debidamente liquidado o declarada la exención procedente.
+5. Los anticipos sin interés concedidos por el Estado y las Administraciones Públicas, Territoriales e Institucionales.
+6. Las transmisiones y demás actos y contratos a que dé lugar la concentración parcelaria, las de permuta forzosa de fincas rústicas, las permutas voluntarias autorizadas por el Instituto de Reforma y Desarrollo Agrario, así como las de acceso a la propiedad derivadas de la legislación de arrendamientos rústicos y las adjudicaciones del Instituto de Reforma y Desarrollo Agrario a favor de agricultores en régimen de cultivo personal y directo, conforme a su legislación específica.
+7. Las transmisiones de terrenos que se realicen como consecuencia de la aportación a las Juntas de Compensación por los propietarios de la unidad de ejecución y las adjudicaciones de solares que se efectúen a los propietarios citados, por las propias Juntas, en proporción a los terrenos incorporados.
+Los mismos actos y contratos a que dé lugar la reparcelación en las condiciones señaladas en el párrafo anterior.
+Esta exención estará condicionada al cumplimiento de todos los requisitos urbanísticos.
+8. Los actos relativos a las garantías que presten los tutores en garantía del ejercicio de sus cargos.
+9. Las transmisiones de valores, admitidos o no a negociación en un mercado secundario oficial, de conformidad con lo dispuesto en el artículo 108 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+10. Las operaciones societarias a que se refieren los apartados 1.º, 2.º y 3.º del artículo 19.2 y el artículo 20.2 anteriores, en su caso, en cuanto al gravamen por las modalidades de transmisiones patrimoniales onerosas o de actos jurídicos documentados.
+11. La constitución de sociedades, el aumento de capital, las aportaciones que efectúen los socios que no supongan aumento de capital y el traslado a España de la sede de dirección efectiva o del domicilio social de una sociedad cuando ni una ni otro estuviesen previamente situados en un Estado miembro de la Unión Europea.
+12.a) La transmisión de terrenos y solares y la cesión del derecho de superficie para la construcción de edificios en régimen de viviendas de protección oficial. Los préstamos hipotecarios solicitados para la adquisición de aquellos, en cuanto al gravamen de actos jurídicos documentados.
+b) Las escrituras públicas otorgadas para formalizar actos o contratos relacionados con la construcción de edificios en régimen de «viviendas de protección oficial», siempre que se hubiera solicitado dicho régimen a la Administración competente en dicha materia.
+c) Las escrituras públicas otorgadas para formalizar la primera transmisión de viviendas de protección oficial, una vez obtenida la calificación definitiva.
+d) La constitución de préstamos hipotecarios para la adquisición exclusiva de viviendas de protección oficial y sus anejos inseparables, con el límite máximo del precio de la citada vivienda, y siempre que este último no exceda de los precios máximos establecidos para las referidas viviendas de protección oficial.
+e) La constitución de sociedades y la ampliación de capital, cuando tengan por exclusivo objeto la promoción o construcción de edificios en régimen de protección oficial.
+Para el reconocimiento de las exenciones previstas en las letras a) y b) anteriores bastará que se consigne en el documento que el contrato se otorga con la finalidad de construir viviendas de protección oficial y quedará sin efecto si transcurriesen tres años a partir de dicho reconocimiento sin que obtenga la calificación o declaración provisional o cuatro años si se trata de terrenos. La exención se entenderá concedida con carácter provisional y condicionada al cumplimiento que en cada caso exijan las disposiciones vigentes para esta clase de viviendas. En el supuesto de las letras a) y b) de este apartado, el cómputo del plazo de prescripción previsto en el artículo 67 de la Ley 58/2003, de 17 de diciembre, General Tributaria, comenzará a contarse una vez transcurrido el plazo de tres o cuatro años de exención provisional.
+Las exenciones previstas en este número se aplicarán también a aquéllas que, con protección pública, dimanen de la legislación propia de las Comunidades Autónomas, siempre que los parámetros de superficie máxima protegible, precio de la vivienda y límite de ingresos de los adquirentes no excedan de los establecidos en la norma estatal para las viviendas de protección oficial.
+13. Las transmisiones y demás actos y contratos cuando tengan por exclusivo objeto salvar la ineficacia de otros actos anteriores por los que se hubiera satisfecho el impuesto y estuvieran afectados de vicio que implique inexistencia o nulidad.
+14. En las ciudades de Ceuta y Melilla se mantendrán las bonificaciones tributarias establecidas en la Ley de 22 de diciembre de 1955.
+15. Los depósitos en efectivo y los préstamos, cualquiera que sea la forma en que se instrumenten, incluso los representados por pagarés, bonos, obligaciones y títulos análogos. La exención se extenderán a la transmisión posterior de los títulos que documenten el depósito o el préstamo, así como el gravamen sobre actos jurídicos documentados que recae sobre pagarés, bonos, obligaciones y demás títulos análogos emitidos en serie, por plazo no superior a dieciocho meses, representativos de capitales ajenos por los que se satisfaga una contraprestación por diferencia entre el importe satisfecho en la emisión y el comprometido a reembolsar al vencimiento, incluidos los préstamos representados por bonos de caja emitidos por los bancos industriales o de negocios.
+16. Las transmisiones de edificaciones a las empresas que realicen habitualmente las operaciones de arrendamiento financiero a que se refiere la disposición adicional séptima de la Ley 26/1988, de 29 de julio, para ser objeto de arrendamiento con opción de compra a persona distinta del transmitente, cuando dichas operaciones estén exentas del Impuesto sobre el Valor Añadido.
+Será requisito imprescindible para poder disfrutar de este beneficio que no existan relaciones de vinculación directas o indirectas, conforme a lo previsto en el artículo 16 de la Ley 61/1978, de 27 de diciembre, del Impuesto sobre Sociedades, entre transmitente, adquirente o arrendatario.
+17. Las transmisiones de vehículos usados con motor mecánico para circular por carretera, cuando el adquirente sea un empresario dedicado habitualmente a la compraventa de los mismos y los adquiera para su reventa.
+La exención se entenderá concedida con carácter provisional y para elevarse a definitiva deberá justificarse la venta del vehículo adquirido dentro del año siguiente a la fecha de su adquisición.
+18. Las primeras copias de escrituras notariales que documenten la cancelación de hipotecas de cualquier clase, en cuanto al gravamen gradual de la modalidad "Actos Jurídicos Documentados" que grava los documentos notariales.
+19. Las escrituras que contengan quitas o minoraciones de las cuantías de préstamos, créditos u otras obligaciones del deudor que se incluyan en los acuerdos de refinanciación o en los acuerdos extrajudiciales de pago establecidos en la Ley 22/2003, de 9 de julio, Concursal, siempre que, en todos los casos, el sujeto pasivo sea el deudor.
+20.1 Las operaciones de constitución y aumento de capital de las sociedades de inversión de capital variable reguladas en la Ley de Instituciones de Inversión Colectiva, así como las aportaciones no dinerarias a dichas entidades, quedarán exentas en la modalidad de operaciones societarias del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+2. Los fondos de inversión de carácter financiero regulados en la ley citada anteriormente gozarán de exención en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados con el mismo alcance establecido en el apartado anterior.
+3. Las instituciones de inversión colectiva inmobiliaria reguladas en la Ley citada anteriormente que, con el carácter de instituciones de inversión colectiva no financieras, tengan por objeto social exclusivo la adquisición y la promoción, incluyendo la compra de terrenos, de cualquier tipo de inmueble de naturaleza urbana para su arrendamiento, tendrán el mismo régimen de tributación que el previsto en los dos apartados anteriores.
+Del mismo modo, dichas instituciones gozarán de una bonificación del 95 por ciento de la cuota de este impuesto por la adquisición de viviendas destinadas al arrendamiento y por la adquisición de terrenos para la promoción de viviendas destinadas al arrendamiento, siempre que, en ambos casos, cumplan los requisitos específicos sobre mantenimiento de los inmuebles establecidos en las letras c) y d) del artículo 28.5 del Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, salvo que, con carácter excepcional, medie la autorización expresa de la Comisión Nacional del Mercado de Valores.
+4. Los fondos de titulización hipotecaria, los fondos de titulización de activos financieros, y los fondos de capital riesgo estarán exentos de todas las operaciones sujetas a la modalidad de operaciones societarias.
+21. Las aportaciones a los patrimonios protegidos de las personas con discapacidad regulados en la Ley de protección patrimonial de las personas con discapacidad, de Modificación del Código Civil, de la Ley de Enjuiciamiento Civil y de la Normativa Tributaria con esta finalidad.
+22. Las operaciones de constitución y aumento de capital de las Sociedades de Inversión en el Mercado Inmobiliario reguladas en la Ley 11/2009, por la que se regulan las Sociedades Anónimas Cotizadas de Inversión en el Mercado Inmobiliario, así como las aportaciones no dinerarias a dichas sociedades, quedarán exentas en la modalidad de operaciones societarias del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+Asimismo, gozarán de una bonificación del 95 por ciento de la cuota de este impuesto por la adquisición de viviendas destinadas al arrendamiento y por la adquisición de terrenos para la promoción de viviendas destinadas al arrendamiento, siempre que, en ambos casos, cumplan el requisito específico de mantenimiento establecido en el apartado 3 del artículo 3 de la Ley 11/2009.
+23. Las escrituras de formalización de las novaciones contractuales de préstamos y créditos hipotecarios que se produzcan al amparo del Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, y del nuevo Código de Buenas Prácticas que se introduce con el Real Decreto-ley 19/2022, de 22 de noviembre, por el que se establece un Código de Buenas Prácticas para aliviar la subida de los tipos de interés en préstamos hipotecarios sobre vivienda habitual, se modifica el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, y se adoptan otras medidas estructurales para la mejora del mercado de préstamos hipotecarios, quedarán exentas de la cuota gradual de documentos notariales de la modalidad de actos jurídicos documentados de este Impuesto.
+24. Las transmisiones de activos y, en su caso, de pasivos, así como la concesión de garantías de cualquier naturaleza, cuando el sujeto pasivo sea la Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria, regulada en la Disposición adicional séptima de la Ley 9/2012, de 14 de noviembre, de reestructuración y resolución de Entidades de Crédito, por cualquiera de sus modalidades.
+Las transmisiones de activos o, en su caso, pasivos efectuadas por la Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria a entidades participadas directa o indirectamente por dicha Sociedad, en al menos el 50 por ciento del capital, fondos propios, resultados o derechos de voto de la entidad participada en el momento inmediatamente anterior a la transmisión, o como consecuencia de la misma.
+Las transmisiones de activos y pasivos realizadas por la Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria, o por las entidades constituidas por esta para cumplir con su objeto social, a los Fondos de Activos Bancarios, a que se refiere la disposición adicional décima de la citada Ley 9/2012, de 14 de noviembre.
+Las transmisiones de activos y pasivos realizadas por los Fondos de Activos Bancarios, a otros Fondos de Activos Bancarios.
+Las operaciones de reducción del capital y de disolución de la Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria, de sus sociedades participadas en al menos el 50 por ciento del capital, fondos propios, resultados o derechos de voto de la entidad participada en el momento inmediatamente anterior a la transmisión, o como consecuencia de la misma, y de disminución de su patrimonio o disolución de los Fondos de Activos Bancarios.
+El tratamiento fiscal previsto en los párrafos anteriores respecto a las operaciones entre los Fondos de Activos Bancarios resultará de aplicación, solamente, durante el período de tiempo de mantenimiento de la exposición del Fondo de Reestructuración Ordenada Bancaria a los citados fondos, previsto en el apartado 10 de la disposición adicional décima de esta Ley.
+25. Las escrituras de préstamo con garantía hipotecaria en las que el prestatario sea alguna de las personas o entidades incluidas en la letra A) anterior.
+26. Los arrendamientos de vivienda para uso estable y permanente a los que se refiere el artículo 2 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos.
+27. La constitución, disolución y las modificaciones consistentes en aumentos y disminuciones de los fondos de pensiones regulados en el texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, aprobado por el Real Decreto Legislativo 1/2002, de 29 de noviembre.
+28. Las escrituras de formalización de las novaciones contractuales de préstamos y créditos hipotecarios que se produzcan al amparo del Real Decreto-ley 8/2020, de 17 de marzo, de medidas urgentes extraordinarias para hacer frente al impacto económico y social del COVID-19, quedarán exentas de la cuota gradual de documentos notariales de la modalidad de actos jurídicos documentados de este Impuesto, siempre que tengan su fundamento en los supuestos regulados en los artículos 7 a 16 del citado real decreto-ley, referentes a la moratoria de deuda hipotecaria para la adquisición de vivienda habitual.
+29. Las escrituras de formalización de las moratorias previstas en artículo 13.3 del Real Decreto-ley 8/2020, de 17 de marzo, de medidas urgentes extraordinarias para hacer frente al impacto económico y social del COVID-19, así como en el artículo 24.2 del Real Decreto-ley 11/2020, de 31 de marzo, por el que se adoptan medidas urgentes complementarias en el ámbito social y económico para hacer frente al COVID-19, y de las moratorias convencionales concedidas al amparo de Acuerdos marco sectoriales adoptados como consecuencia de la crisis sanitaria ocasionada por el COVID-19 previstas en el artículo 7 del Real Decreto-ley 19/2020, de 26 de mayo.
+30. Las escrituras de formalización de las moratorias de préstamos y créditos hipotecarios y de arrendamientos, préstamos, leasing y renting sin garantía hipotecaria que se produzcan en aplicación de la moratoria hipotecaria para el sector turístico, regulada en los artículos 3 a 9 del Real Decreto-ley 25/2020, de 3 de julio, de medidas urgentes para apoyar la reactivación económica y el empleo, y de la moratoria para el sector del transporte público de mercancías y discrecional de viajeros en autobús, regulada en los artículos 18 al 23 del Real Decreto-ley 26/2020 de 7 de julio, de medidas de reactivación económica para hacer frente al impacto del COVID-19 en los ámbitos de transportes y vivienda.
+31. Cuando exista garantía real inscribible, las escrituras de formalización de la extensión de los plazos de vencimiento de las operaciones de financiación que han recibido aval público previstos en el artículo 7 del Real Decreto-ley 5/2021, de 12 de marzo, de medidas extraordinarias de apoyo a la solvencia empresarial en respuesta a la pandemia de la COVID-19, quedarán exentas de la cuota gradual de documentos notariales de la modalidad de actos jurídicos documentados de este impuesto.
+32. Las escrituras de formalización de las moratorias de préstamos y créditos hipotecarios o sin garantía hipotecaria que se produzcan en aplicación de la suspensión de las obligaciones de pago de intereses y principal conforme a los artículos 15 a 21 del Real Decreto-ley 20/2021, de 5 de octubre, por el que se adoptan medidas urgentes de apoyo a los afectados para la reparación de los daños ocasionados por las erupciones volcánicas y para la reconstrucción económica y social de la isla de La Palma.
+33. 1. La emisión, transmisión y amortización de los bonos garantizados y participaciones hipotecarias y certificados de transmisión de hipoteca regulados en el Real Decreto-ley 24/2021, de 2 de noviembre, de transposición de directivas de la Unión Europea en las materias de bonos garantizados, distribución transfronteriza de organismos de inversión colectiva, datos abiertos y reutilización de la información del sector público, ejercicio de derechos de autor y derechos afines aplicables a determinadas transmisiones en línea y a las retransmisiones de programas de radio y televisión, exenciones temporales a determinadas importaciones y suministros, de personas consumidoras y para la promoción de vehículos de transporte por carretera limpios y energéticamente eficientes, así como su reembolso.
+2. Las transmisiones de activos para constituir el patrimonio separado previsto para el caso de concurso de la entidad emisora y la transmisión de préstamos a otra entidad de crédito para la financiación conjunta de las emisiones, de acuerdo con lo previsto en el artículo 14 del Real Decreto-ley 24/2021, de 2 de noviembre, de transposición de directivas de la Unión Europea en las materias de bonos garantizados, distribución transfronteriza de organismos de inversión colectiva, datos abiertos y reutilización de la información del sector público, ejercicio de derechos de autor y derechos afines aplicables a determinadas transmisiones en línea y a las retransmisiones de programas de radio y televisión, exenciones temporales a determinadas importaciones y suministros, de personas consumidoras y para la promoción de vehículos de transporte por carretera limpios y energéticamente eficientes.
+34. Las transmisiones por cualquier título de bienes o derechos efectuadas en pago de indemnizaciones, en la cuantía judicialmente reconocida, en beneficio de las hijas, hijos y menores o personas incapacitadas sujetas a tutela o guarda y custodia de mujeres fallecidas como consecuencia de violencia contra la mujer, en los términos en que se defina por la ley o por los instrumentos internacionales ratificados por España.
+35. El contrato de aval suscrito con la Sociedad Anónima Estatal de Caución Agraria S.M.E.
+36. Las escrituras de formalización de las moratorias de préstamos y créditos hipotecarios o sin garantía hipotecaria que se produzcan en aplicación de la suspensión de las obligaciones de pago de intereses y principal conforme a los artículos 31 a 40 del Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.
+37. Las transmisiones de ahorros energéticos en el marco del Sistema de Certificados de Ahorro Energético regulado en el Real Decreto 36/2023, de 24 de enero, por el que se establece un sistema de Certificados de Ahorro Energético.
+C) Con independencia de las exenciones a que se refieren los apartados A) y B) anteriores, se aplicarán en sus propios términos y con los requisitos y condiciones en cada caso exigidos, los beneficios fiscales que para este impuesto establecen las siguientes disposiciones:
+1.ª La Ley Orgánica 7/1980, de 5 de julio, de Libertad Religiosa.
+2.ª El Real Decreto-ley 12/1980, de 26 de septiembre, sobre actuaciones del Estado en materia de Viviendas de Protección Oficial.
+3.ª La Ley 55/1980, de 11 de noviembre, de Montes Vecinales en Mano Común.
+4.ª La Ley 82/1980, de 30 de diciembre, sobre Conservación de la Energía.
+5.ª La Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario.
+6.ª La Ley 49/1981, de 24 de diciembre, del Estatuto de la Explotación Familiar Agraria y de los Agricultores Jóvenes.
+7.ª La Ley 45/1984, de 17 de diciembre, de Reordenación del Sector Petrolero, con las especificaciones introducidas por la Ley 15/1992, de 5 de junio, sobre Medidas Urgentes para la Progresiva Adaptación del Sector Petrolero al Marco Comunitario.
+8.ª(Derogado).
+9.ª La Ley 49/1984, de 26 de diciembre, sobre Explotación Unificada del Sistema Eléctrico Nacional, por lo que se refiere a la cancelación de garantías constituidas al amparo del apartado 2 de su artículo 6.
+10.ª La Ley Orgánica 5/1985, de 19 de junio, de Régimen General Electoral.
+11.ª Las operaciones de constitución y aumento de capital de las Entidades de Capital-Riesgo en los términos establecidos en la Ley Reguladora de las Entidades de Capital-Riesgo y de sus sociedades gestoras.
+12.ª La Ley 15/1986, de 26 de abril, de Sociedades Anónimas Laborales, con la modificación introducida por la disposición adicional cuarta de la Ley 29/1991, de 16 de diciembre.
+13.ª (Derogado).
+14.ª La Ley 10/1990, de 15 de octubre, del Deporte.
+15.ª La Ley 20/1990, de 19 de diciembre, sobre Régimen Fiscal de las Cooperativas.
+16.ª La Ley 12/1991, de 29 de abril, de Agrupaciones de Interés Económico.
+17.ª La Ley 19/1992, de 7 de julio, sobre Régimen de Sociedades y Fondos de Inversión Inmobiliaria y sobre Fondos de Titulación Hipotecaria.
+18.ª La Ley 24/1992, de 10 de noviembre, por la que se aprueba el Acuerdo de Cooperación del Estado con la Federación de Entidades Religiosas Evangélicas de España.
+19.ª La Ley 25/1992, de 10 de noviembre, por la que se aprueba el Acuerdo de Cooperación del Estado con la Federación de Comunidades Israelitas de España.
+20.ª La Ley 26/1992, de 10 de noviembre, por la que se aprueba el Acuerdo de Cooperación con la Comisión Islámica de España.
+21.ª La Ley 31/1992, de 26 de noviembre, de Incentivos Fiscales aplicables a la realización del Proyecto Cartuja 93.
+22.ª La Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, para la constitución y ampliaciones de capital de las sociedades que creen las Administraciones y entes públicos para llevar a cabo la enajenación de acciones representativas de su participación en el capital social de sociedades mercantiles.
+23ª. Los Fondos de Garantía de Depósitos en establecimientos bancarios, en Cajas de Ahorro y en Cooperativas de Crédito continuarán disfrutando en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados de la exención establecida en el Real Decreto-ley 4/1980, de 28 de marzo, y en el Real Decreto-ley 18/1982, de 24 de septiembre, por razón de su constitución, de su funcionamiento y de los actos y operaciones que realicen en el cumplimiento de sus fines.
+23ª. La Ley 2/1994, de 30 de marzo, sobre subrogación y modificación de préstamos hipotecarios.
+II. Los beneficios fiscales no se aplicarán, en ningún caso, a las letras de cambio, a los documentos que suplan a éstas o realicen función de giro, ni a escrituras, actas o testimonios notariales gravados por el artículo 31, apartado primero.
+Los beneficios fiscales y exenciones subjetivas concedidos por esta u otras leyes en la modalidad de cuota variable de documentos notariales del impuesto sobre actos jurídicos documentados no serán aplicables en las operaciones en las que el sujeto pasivo se determine en función del párrafo segundo del artículo 29 del Texto Refundido, salvo que se dispusiese expresamente otra cosa.
+Se añade el apartado 37 al epígrafe I.B) por la disposición final 3 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#df-3
+ Se añade el apartado 36 al epígrafe I.B) por la disposición final 2 del Real Decreto-ley 6/2024, de 5 de noviembre. Ref. BOE-A-2024-22928#df-2
+ Se añade el apartado 35 al epígrafe I.B) por la disposición adicional 6.1 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#da-6
+ Téngase en cuenta, sobre beneficios fiscales, lo previsto en la disposición adicional 6.2 del citado Real Decreto-ley.
+ Se modifica el apartado 23 del epígrafe I.B) por el art. 9 del Real Decreto-ley 19/2022, de 22 de noviembre. Ref. BOE-A-2022-19403#a9
+ Se añade el apartado 34 al epígrafe I.B) por el art. 4 de la Ley Orgánica 2/2022, de 21 de marzo. Ref. BOE-A-2022-4516 #ac
+ Redactado conforme a la corrección de errores publicada en BOE núm. 95, de 21 de abril de 2022. Ref. BOE-A-2022-6497
+ Se añade el apartado 33 al epígrafe I.B) por la disposición final 2 del Real Decreto-ley 24/2021, de 2 de noviembre de 2021. Ref. BOE-A-2021-17910#df-2
+ Se añade el apartado 32 al epígrafe I.B) por la disposición final 1 del Real Decreto-ley 20/2021, de 5 de octubre de 2021. Ref. BOE-A-2021-16231#df
+ Se añade el apartado 31 al epígrafe I.B) por la disposición final 1 del Real Decreto-ley 5/2021, de 12 de marzo. Ref. BOE-A-2021-3946#df
+ Se modifica el apartado 30 del epígrafe I.B) por la disposición final 2 del Real Decreto-ley 30/2020, de 29 de septiembre. Ref. BOE-A-2020-11416#df-2
+ Se deja sin efecto la modificación del apartado 30 del epígrafe I.B) por Resolución de 10 de septiembre de 2020 que publica el Acuerdo del Congreso de los Diputados por el que deroga el Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-10491
+ Se modifica el apartado 30 del epígrafe I.B) por la disposición final 2 del Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-9131#df-2
+ Se añade el apartado 30 al epígrafe I.B) por la disposición final 1 del Real Decreto-ley 25/2020, de 3 de julio. Ref. BOE-A-2020-7311#df
+ Se añade el apartado 29 al epígrafe I.B) por la disposición final 1 del Real Decreto-ley 19/2020, de 26 de mayo. Ref. BOE-A-2020-5315#df
+ Se añade el apartado 28 al epígrafe I.B), con efectos de 18 de marzo de 2020, por la disposición final 1 del Real Decreto-ley 8/2020, de 17 de marzo, en la redacción dada por la disposición final 1 del Real Decreto-ley 11/2020, de 31 de marzo. Ref. BOE-A-2020-4208
+ Se añade el apartado 28 al epígrafe I.B) por la disposición final 1 del Real Decreto-ley 8/2020, de 17 de marzo. Ref. BOE-A-2020-3824#df
+ Redactado conforme a la corrección de errores publicada en BOE núm. 82, de 25 de marzo de 2020. Ref. BOE-A-2020-4026
+ Se añade el apartado 27 al epígrafe I.B) y se deroga el I.C).13 por la disposición final 3 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#df-3
+ Se añade el último párrafo por la disposición final 2 de la Ley 5/2019, de 15 de marzo. Ref. BOE-A-2019-3814#df-2
+ Se añade el punto 26 al apartado I.B) por el art. 5 del Real Decreto-ley 7/2019, de 1 de marzo. Ref. BOE-A-2019-3108#aq
+ Se deja sin efecto la incorporación del punto 26 al apartado I.B) por Resolución de 22 de enero de 2019 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2019-799
+ Se añade el punto 26 al apartado I.B) por el art. 5 del Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2018-17293#aq
+ Se añade el punto 25 al apartado I.B) por el art. único.2 del Real Decreto-ley 17/2018, de 8 de noviembre, aplicándose a los hechos imponibles devengados a partir de la entrada en vigor del citado real decreto-ley. Ref. BOE-A-2018-15344
+ Se modifica el apartado I.B).20.4 por el art. 64 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612#a64
+ Se modifica el apartado I.B).19 por la disposición final 3 de la Ley 17/2014, de 30 de septiembre. Ref. BOE-A-2014-9896.
+ Se modifica el apartado I.B).19 por la disposición final 3 del Real Decreto-ley 4/2014, de 7 de marzo. Ref. BOE-A-2014-2485.
+ Se modifica el apartado I.A) por la disposición final 3 de la Ley 26/2013, de 27 de diciembre. Ref. BOE-A-2013-13723.
+ Se añade el apartado I.B).24 por la disposición final 15 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
+ Se modifica el apartado I.B) por el art. 8 del Real Decreto-ley 6/2012 de 9 de marzo. Ref. BOE-A-2012-3394.
+ Se modifica el apartado I.B).11 por el art. 3 del Real Decreto-ley 13/2010, de 3 de diciembre. Ref. BOE-A-2010-18651.
+ Se modifica el apartado 20.3 y se añade el 22 en el apartado I.B) por la disposición final 2ª de la Ley 11/2009, de 26 de octubre. Ref. BOE-A-2009-17000
+ Se modifican los apartados 10, 12 y 20 del apartado I.B) por el art. 7.9, 10 y 11 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Se añade una letra al apartado I.A, como letra e) debe querer decir h), por la disposición adicional 5ª de la Ley Orgánica 8/2007, de 4 de julio. Ref. BOE-A-2007-13022
+ El apartado 19 del apartado I.B pasa a ser 20, el actual 20 pasa a 21 y se modifica el párrafo 3 del apartado I.B.20 por el art. 3 de la Ley 23/2005, de 18 de noviembre. Ref. BOE-A-2005-19004
+ Se añade un apartado 20 a la letra B) del apartado I, con efectos de 1 de enero de 2004, por el art. 17 de la Ley 41/2003, de 18 de noviembre. Ref. BOE-A-2003-21053
+ Se deroga el número 8 de la letra C) del apartado I por la disposición derogatoria única y se añade el número 19 a la letra B) del apartado I por la disposición final 1ª de la Ley 35/2003, de 4 de noviembre. Ref. BOE-A-2003-20331
+ Se añade el número 19 en la letra B) del apartado I por la disposición final 12ª.1 de la Ley 22/2003, de 9 de julio. Ref. 200/13813
+ Se modifica la letra A) del apartado I por la disposición adicional 3ª de la Ley 49/2002, de 23 de diciembre. Ref. BOE-A-2002-25039
+ Se añade el apartado 18 a la letra B) del número I por el art. 6.2 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se modifica el número 11 del apartado I.C por la disposición adicional 2ª de la Ley 1/1999, de 5 de enero. Ref. BOE-A-1999-214
+ Se modifica el punto 15 del apartado I.B por la disposición adicional 7ª de la Ley 25/1998, de 13 de julio. Ref. BOE-A-1998-16714
+ Se declara nulo el apartado 1.B), en cuanto no contiene el apartado 9º del art. 48.1.B) del anterior texto refundido de este impuesto, por sentencia del TS de 3 de octubre de 1997, publicada por Resolución de 5 de mayo de 1998. Ref. BOE-A-1998-12014.
+ Se añade un párrafo al apartado I.C por la disposición adicional 3ª de la Ley 2/1994, de 30 de marzo.Ref. BOE-A-1994-7556
+ Se añade la disposición 23ª al apartado I.C por la disposición adicional 27 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087
+
+## Comprobación de valores
+
+### Artículo 46
+
+Artículo 46.
+1. La Administración podrá comprobar el valor de los bienes y derechos transmitidos o, en su caso, de la operación societaria o del acto jurídico documentado, salvo que, en el caso de inmuebles, la base imponible sea su valor de referencia o magnitud superior, de acuerdo con lo dispuesto en el artículo 10 de este texto refundido.
+2. La comprobación se llevará a cabo por los medios establecidos en el artículo 57 de la Ley General Tributaria.
+Si de la comprobación resultasen valores superiores a los declarados por los interesados, éstos podrán impugnarlos en los plazos de reclamación de las liquidaciones que hayan de tener en cuenta los nuevos valores. Cuando los nuevos valores puedan tener repercusiones tributarias para los transmitentes se notificarán a éstos por separado para que puedan proceder a su impugnación en reposición o en vía económico-administrativa o solicitar su corrección mediante tasación pericial contradictoria y, si la reclamación o la corrección fuesen estimadas en todo o en parte, la resolución dictada beneficiará también a los sujetos pasivos del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.'
+3. Cuando el valor declarado por los interesados fuese superior al resultante de la comprobación, aquél tendrá la consideración de base imponible. Si el valor resultante de la comprobación o el valor declarado resultase inferior al precio o contraprestación pactada, se tomará esta última magnitud como base imponible.
+4. Si el valor obtenido de la comprobación fuese superior al que resultase de la aplicación de la correspondiente regla del Impuesto sobre el Patrimonio, surtirá efecto en relación con las liquidaciones a practicar a cargo del adquirente por dicho Impuesto por la anualidad corriente y las siguientes.
+5. Se considerará que el valor fijado en las resoluciones del juez del concurso para los bienes y derechos transmitidos corresponde a su valor, no procediendo en consecuencia comprobación de valores, en las transmisiones de bienes y derechos que se produzcan en un procedimiento concursal, incluyendo las cesiones de créditos previstas en el convenio aprobado judicialmente y las enajenaciones de activos llevadas a cabo en la fase de liquidación.
+Se modifican los apartados 1, 2 y 5 por el art. 6.7 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#as-2
+ Se modifica el apartado 3 por el art. 7.12 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Se añade el apartado 5 por la disposición final 12.2 de la Ley 22/2003, de 9 de julio. Ref. BOE-A-2003-13813
+ Se deroga el apartado 5 por la disposición derogatoria única de la Ley 25/1998, de 13 de julio. Ref. BOE-A-1998-16714
+
+### Artículo 47
+
+Artículo 47.
+1. En corrección del resultado obtenido en la comprobación de valores los interesados podrán promover la práctica de la tasación pericial contradictoria mediante solicitud presentada dentro del plazo de la primera reclamación que proceda contra la liquidación efectuada sobre la base de los valores comprobados administrativamente.
+2. En el supuesto de que la tasación pericial fuese promovida por los transmitentes como consecuencia de lo dispuesto en el apartado 2 del artículo anterior, el escrito de solicitud deberá presentarse dentro de los quince días siguientes a la notificación separada de los valores resultantes de la comprobación.
+
+### Artículo 48
+
+Artículo 48.
+La presentación de la solicitud de tasación pericial contradictoria en caso de notificación conjunta de los valores y de las liquidaciones que los hayan tenido en cuenta determinará la suspensión del ingreso de las liquidaciones practicadas y de los plazos de reclamación contra las mismas.
+
+## Devengo y prescripción
+
+### Artículo 49
+
+Artículo 49.
+1. El impuesto se devengará:
+a) En las transmisiones patrimoniales, el día en que se realice el acto o contrato gravado.
+b) En las operaciones societarias y actos jurídicos documentados, el día en que se formalice el acto sujeto a gravamen.
+2. Toda adquisición de bienes cuya efectividad se halle suspendida por la concurrencia de una condición, un término, un fideicomiso o cualquiera otra limitación, se entenderá siempre realizada el día en que dichas limitaciones desaparezcan.
+
+### Artículo 50
+
+Artículo 50.
+1. La prescripción, salvo lo dispuesto en el apartado siguiente, se regulará por lo previsto en los artículos 64 y siguientes de la Ley General Tributaria.
+2. A los efectos de prescripción, en los documentos que deban presentarse a liquidación, se presumirá que la fecha de los privados es la de su presentación, a menos que con anterioridad concurra cualquiera de las circunstancias previstas en el artículo 1.227 del Código Civil, en cuyo caso se computará la fecha de la incorporación, inscripción, fallecimiento o entrega, respectivamente. En los contratos no reflejados documentalmente, se presumirá, a iguales efectos, que su fecha es la del día en que los interesados den cumplimiento a lo prevenido en el artículo 51. La fecha del documento privado que prevalezca a efectos de prescripción, conforme a lo dispuesto en este apartado, determinará el régimen jurídico aplicable a la liquidación que proceda por el acto o contrato incorporado al mismo.
+3. En el supuesto de escrituras autorizadas por funcionarios extranjeros, el plazo de prescripción se computará desde la fecha de su presentación ante cualquier Administración española, salvo que un Tratado, Convenio o Acuerdo Internacional, suscrito por España, fije otra fecha para el inicio de dicho plazo.
+Se modifica el apartado 2 por el art. 7.13 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Se añade un párrafo 4, debe querer decir 3, por el art. 5.3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+## Obligaciones formales
+
+### Artículo 51
+
+Artículo 51.
+1. Los sujetos pasivos vendrán obligados a presentar los documentos comprensivos de los hechos imponibles a que se refiere la presente Ley y, caso de no existir aquéllos, una declaración en los plazos y en la forma que reglamentariamente se fijen.
+2. La calificación y sanción de las infracciones tributarias de este impuesto se efectuarán con arreglo a la Ley General Tributaria.
+
+### Artículo 52
+
+Artículo 52.
+Los órganos judiciales remitirán a las oficinas liquidadoras de su respectiva jurisdicción relación mensual de los fallos ejecutoriados o que tengan el carácter de sentencia firme por los que se transmitan o adjudiquen bienes o derechos de cualquier clase, excepto cantidades en metálico que constituyan precio de bienes, de servicios personales, de créditos o indemnizaciones.
+Los notarios están obligados a remitir a las oficinas liquidadoras del impuesto, dentro de la primera quincena de cada trimestre, relación o índice comprensivo de todos los documentos por ellos autorizados en el trimestre anterior, con excepción de los actos de última voluntad, reconocimiento de hijos y demás que determine el Reglamento. También están obligados a remitir, dentro del mismo plazo, relación de los documentos privados comprensivos de contratos sujetos al pago del impuesto que les hayan sido presentados para conocimiento o legitimación de firmas. Asimismo, consignarán en los documentos sujetos entre las advertencias legales y de forma expresa, el plazo dentro del cual están obligados los interesados a presentarlos a la liquidación, así como la afección de los bienes al pago del impuesto correspondiente a transmisiones que de ellos se hubiera realizado, y las responsabilidades en que incurran en el caso de no efectuar la presentación.
+Lo prevenido en este artículo se entiende sin perjuicio del deber general de colaboración establecido en la Ley General Tributaria.
+
+### Artículo 53
+
+Artículo 53.
+Los órganos judiciales, bancos, cajas de ahorro, asociaciones, sociedades, funcionarios, particulares y cualesquiera otras entidades públicas o privadas, no acordarán las entregas de bienes a personas distintas de su titular sin que se acredite previamente el pago del impuesto, su exención o no sujeción, salvo que la Administración lo autorice.
+
+### Artículo 54
+
+Artículo 54.
+1. Ningún documento que contenga actos o contratos sujetos a este impuesto se admitirá ni surtirá efecto en Oficina o Registro Público sin que se justifique el pago de la deuda tributaria a favor de la Administración Tributaria competente para exigirlo, conste declarada la exención por la misma, o, cuando menos, la presentación en ella del referido documento. De las incidencias que se produzcan se dará cuenta inmediata a la Administración interesada. Los Juzgados y Tribunales remitirán a la Administración tributaria competente para la liquidación del impuesto copia autorizada de los documentos que admitan en los que no conste la nota de haber sido presentados a liquidación en dicha Administración.
+La justificación del pago o, en su caso, de la presentación del referido documento se hará mediante la aportación en cualquier soporte del original acreditativo del mismo o de copia de dicho original.
+2. No será necesaria la presentación en las oficinas liquidadoras de:
+a) Los documentos por los que se formalice la transmisión de efectos públicos, acciones, obligaciones y valores negociables de todas clases, intervenidos por corredores oficiales de comercio y por sociedades y agencias de valores.
+b) Los contratos de arrendamiento de fincas urbanas cuando se extiendan en efectos timbrados.
+c) Las copias de las escrituras y actas notariales que no tengan por objeto cantidad o cosa valuable y los testimonios notariales de todas clases, excepto los de documentos que contengan actos sujetos al impuesto si no aparece en tales documentos la nota de pago, de exención o de no sujeción.
+d) Las letras de cambio y actas de protesto.
+e) Cualesquiera otros documentos referentes a actos y contratos para los cuales el Ministerio de Economía y Hacienda acuerde el empleo obligatorio de efectos timbrados como forma de exacción del impuesto.
+3. En los procedimientos administrativos de apremio seguidos para la efectividad de descubiertos por razón del impuesto podrá autorizarse la inscripción del derecho del deudor en los términos y por los trámites señalados en el Reglamento General de Recaudación.
+4. Los contratos de ventas de bienes muebles a plazo y los de préstamo, prevenidos en el artículo 22 de la Ley 50/1965, de 17 de julio, tendrán acceso al Registro a que se refiere el artículo 23 de la misma Ley, sin necesidad de que conste en aquéllos nota administrativa sobre su situación fiscal.
+Se modifica el apartado 1 por el art. 7.14 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+
+### Artículo 55
+
+Artículo 55.
+No podrá efectuarse, sin que se justifique previamente el pago del impuesto correspondiente o su exención, el cambio de sujeto pasivo de cualquier tributo estatal, autonómico o local cuando tal cambio suponga, directa o indirectamente, una transmisión de bienes, derechos o acciones gravada por esta Ley.
+
+## Gestión y liquidación del Impuesto
+
+### Artículo 56
+
+Artículo 56.
+1. La competencia para la gestión y liquidación del impuesto corresponderá a las Delegaciones y Administraciones de la Agencia Estatal de Administración Tributaria y, en su caso, a las oficinas con análogas funciones de las Comunidades Autónomas que tengan cedida la gestión del tributo.
+2. Las Comunidades Autónomas podrán regular los aspectos sobre la gestión y liquidación de este impuesto, según lo previsto en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía. Cuando la Comunidad Autónoma no hubiese regulado dichos aspectos, se aplicarán las normas establecidas en esta Ley.
+3. El pago de los impuestos regulados en esta Ley queda sometido al régimen general sobre plazos de ingreso establecido para las deudas tributarias.
+4. La competencia para la aplicación del impuesto y el ejercicio de la potestad sancionadora corresponderá a la Administración tributaria de la Comunidad Autónoma o del Estado a la que se atribuya su rendimiento de acuerdo con los puntos de conexión aplicables según las normas reguladoras de la cesión de impuestos a las Comunidades Autónomas.
+5. En las transmisiones de inmuebles, los contribuyentes no residentes en España tendrán su domicilio fiscal, a efectos del cumplimiento de sus obligaciones tributarias por este impuesto, en el domicilio de su representante, que deben designar según lo previsto en el artículo 9 de la Ley 41/1998, de 9 de diciembre, del Impuesto sobre la Renta de no Residentes y Normas Tributarias. Dicho nombramiento deberá ser comunicado a la Administración tributaria competente en el plazo de dos meses desde la fecha de adquisición del inmueble.
+Cuando no se hubiese designado representante o se hubiese incumplido la obligación de comunicar dicha designación, se considerará como domicilio fiscal del contribuyente no residente el inmueble objeto de la transmisión.
+Se modifica el apartado 4 por el art. 7.15 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Se declara la inconstitucionalidad y nulidad del apartado 4 por Sentencia del TC 113/2006, de 5 de abril. Ref. BOE-T-2006-8143
+ Se añade un apartado 5 por el art. 5.4 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se modifica por el art. 60.6 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962
+
+## Devoluciones
+
+### Artículo 57
+
+Artículo 57.
+1. Cuando se declare o reconozca judicial o administrativamente, por resolución firme, haber tenido lugar la nulidad, rescisión o resolución de un acto o contrato, el contribuyente tendrá derecho a la devolución de lo que satisfizo por cuota del Tesoro, siempre que no le hubiera producido efectos lucrativos y que reclame la devolución en el plazo de prescripción previsto en el artículo 64 de la Ley General Tributaria, a contar desde que la resolución quede firme.
+2. Se entenderá que existe efecto lucrativo cuando no se justifique que los interesados deben llevar a cabo las recíprocas devoluciones a que se refiere el artículo 1295 del Código Civil.
+3. Si el acto o contrato hubiere producido efecto lucrativo, se rectificará la liquidación practicada, tomando al efecto por base el valor del usufructo temporal de los bienes o derechos transmitidos.
+4. Aunque el acto o contrato no haya producido efectos lucrativos, si la rescisión o resolución se declarase por incumplimiento de las obligaciones del contratante fiscalmente obligado al pago del impuesto no habrá lugar a devolución alguna.
+5. Si el contrato queda sin efecto por mutuo acuerdo de las partes contratantes, no procederá la devolución del impuesto satisfecho y se considerará como un acto nuevo sujeto a tributación. Como tal mutuo acuerdo se estimarán la avenencia en acto de conciliación y el simple allanamiento a la demanda.
+6. Cuando en la compraventa con pacto de retro se ejercite la retrocesión, no habrá derecho de devolución del impuesto.
+7. Reglamentariamente se determinarán los supuestos en los que se permitirá el canje de los documentos timbrados o timbres móviles o la devolución de su importe, siempre que aquéllos no hubiesen surtido efecto.
+Se modifica el apartado 1 por el art. 6.3 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+
+### Artículo 57 bis
+
+Artículo 57 bis. Bonificación de la cuota en Ceuta y Melilla.
+1. La cuota gradual de documentos notariales del gravamen de actos jurídicos documentados se bonificará en un 50 por 100 cuando el Registro en el que se deba proceder a la inscripción o anotación de los bienes o actos radique en Ceuta o Melilla.
+2. Se bonificará en un 50 por 100 la cuota que corresponda al gravamen de operaciones societarias cuando concurra cualquiera de las siguientes circunstancias:
+a) Que la entidad tenga en Ceuta o Melilla su domicilio fiscal.
+b) Que la entidad tenga en dichas Ciudades con Estatuto de Autonomía su domicilio social, siempre que la sede de dirección efectiva no se encuentre situada en el ámbito territorial de otra Administración tributaria de un Estado miembro de la Unión Europea o, estándolo, dicho Estado no grave la operación societaria con un impuesto similar.
+c) Que la entidad realice en las mencionadas Ciudades con Estatuto de Autonomía operaciones de su tráfico, cuando su sede de dirección efectiva y su domicilio social no se encuentren situados en el ámbito territorial de otra Administración tributaria de un Estado miembro de la Unión Europea o, estándolo, estos Estados no graven la operación societaria con un impuesto similar.
+3. Las cuotas derivadas de la aplicación de la modalidad de transmisiones patrimoniales onerosas tendrán derecho a la aplicación de una bonificación del 50 por 100 en los siguientes casos:
+a) Transmisiones y arrendamiento de inmuebles situados en Ceuta o Melilla y constitución o cesión de derechos reales, incluso de garantía sobre los mismos. Se considerará transmisión de bienes inmuebles los supuestos previstos en el artículo 108 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, pudiéndose aplicar la bonificación cuando los inmuebles integrantes del activo de la entidad cuyos valores se transmitan estén radicados en cualquiera de las dos Ciudades con Estatuto de Autonomía.
+b) Constituciones de hipotecas mobiliarias o prendas sin desplazamiento o se refiera a buques y aeronaves, que deban inscribirse en los Registros que radiquen en Ceuta o Melilla.
+c) Transmisiones de bienes muebles, semovientes o créditos, constitución y cesión de derechos reales sobre los mismos, cuyos adquirentes tengan su residencia habitual, si es persona física o domicilio fiscal, si es persona jurídica, en las citadas Ciudades con Estatuto de Autonomía.
+d) Transmisiones de valores que se formalicen en Ceuta y Melilla.
+e) Constitución de préstamos simples, fianzas, arrendamientos no inmobiliarios y pensiones cuyos sujetos pasivos tengan su residencia habitual o domicilio fiscal, según se trate de personas físicas o jurídicas, en Ceuta y Melilla.
+f) Concesiones administrativas de bienes, ejecuciones de obras o explotaciones de servicios que radiquen, se ejecuten o se presten en las citadas Ciudades con Estatuto de Autonomía. Asimismo, se aplicará la bonificación a los actos y negocios administrativos que tributen por equiparación a las concesiones y cumplan las condiciones anteriores. En el supuesto de concesiones o de actos o negocios administrativos equiparados a las mismas, que excedan el ámbito territorial de Ceuta o Melilla, se aplicará la bonificación sobre la parte de la cuota que, de acuerdo con las reglas previstas en el artículo 25.2.C).6.a de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, correspondiera atribuir a los territorios de Ceuta y Melilla.
+g) Anotaciones preventivas que se produzcan en un órgano registral que tenga su sede en Ceuta o Melilla.
+4. Para la aplicación de estas bonificaciones, se tendrán en cuenta las normas establecidas sobre residencia habitual y puntos de conexión en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía.
+Se añade por el art. 5.5 de la Ley 53/2002, de 30 de diciembre.Ref. BOE-A-2002-25412
+
+### Artículo 58
+
+Artículo 58. Deducciones y bonificaciones.
+De acuerdo con lo previsto en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, las Comunidades Autónomas podrán aprobar las deducciones y bonificaciones que estimen convenientes en este impuesto en aquellas materias sobre las que ostenten capacidad normativa en materia de tipos de gravamen.
+En todo caso, resultarán compatibles con las deducciones y bonificaciones establecidas en la normativa estatal reguladora del impuesto sin que puedan suponer una modificación las mismas. Estas deducciones y bonificaciones autonómicas se aplicarán con posterioridad a las reguladas por la normativa del Estado.
+Se añade por el art. 60.7 de la Ley 21/2001, de 27 de diciembre.Ref. BOE-A-2001-24962
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Ministro de Economía y Hacienda podrá acordar el empleo obligatorio de efectos timbrados como forma de exacción del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, exigible a los actos y contratos sujetos al mismo, excepto en aquellos casos en que la presente Ley imponga el pago a metálico.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Las Comunidades Autónomas que se hayan hecho cargo por delegación del Estado de la gestión y liquidación del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados podrán, dentro del marco de sus atribuciones, encomendar a las Oficinas de Distrito Hipotecario, a cargo de Registradores de la Propiedad, funciones de gestión y liquidación de este Impuesto.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Las referencias que contiene la normativa del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados al Impuesto sobre el Valor Añadido se entenderán hechas al Impuesto General Indirecto Canario, en el ámbito de su aplicación.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Quedan sin efecto cuantas exenciones y bonificaciones no figuren mencionadas en este texto refundido, sin perjuicio de los derechos adquiridos al amparo de las disposiciones anteriormente en vigor, sin que la mera expectativa pueda reputarse derecho adquirido.
+Lo señalado anteriormente no afectará a las sociedades o entidades que tengan reconocidos beneficios fiscales por pactos solemnes con el Estado, mientras que no se alteren las condiciones de los mismos.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Durante el año 1993 y en relación con el cumplimiento de los planes y programas de actividades establecidos por el Consejo Jacobeo 1993, se aplicará una bonificación del 95 por 100 de la cuota del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, en las adquisiciones de bienes y derechos que se destinen, directa y exclusivamente, por el sujeto pasivo a la realización de las inversiones con derecho a deducción en las cuotas del Impuesto sobre Sociedades o del Impuesto sobre la Renta de las Personas Físicas o cuando los adquieran para donarlos, en un plazo máximo de seis meses, al «Consello Jacobeo 1993».
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+La «Sociedad Estatal para la Exposición Universal de Sevilla 92, Sociedad Anónima», mantendrá los beneficios fiscales previstos en las Leyes 12/1988, de 25 de mayo; 5/1990, de 29 de junio, y en el Real Decreto 219/1989, de 3 de marzo, referidos, exclusivamente, a las actividades derivadas de la liquidación de bienes, derechos y obligaciones relacionados directamente con la Exposición Universal de Sevilla.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Hasta que por el Gobierno, al hacer uso de las facultades a que se refiere la disposición final tercera, no se disponga otra cosa, seguirán en vigor las normas sobre honorarios de liquidación incorporadas a los artículos 90 y 91 del Reglamento aprobado por Real Decreto 3494/1981, de 29 de diciembre.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+En tanto no se disponga otra cosa por el Ministro de Economía y Hacienda, las Administraciones de la Agencia Estatal de Administración Tributaria limitarán su actuación en la gestión y liquidación del impuesto a la admisión de documentos y declaraciones tributarias, que deberán remitir a la Delegación de la que dependan para su ulterior tramitación.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Las Oficinas Liquidadoras de Distrito Hipotecario, a cargo de Registradores de la Propiedad, liquidarán en el ámbito de sus competencias los documentos o declaraciones del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados presentados en las mismas hasta el día 31 de diciembre de 1991.
+Los documentos o declaraciones referentes a dicho impuesto que deban presentarse con posterioridad lo serán en las Oficinas a que se refiere el artículo 56 de este texto refundido, sin perjuicio de lo establecido en la disposición adicional segunda del mismo.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+En Ceuta y Melilla, en tanto continúe en vigor el Impuesto General sobre el Tráfico de las Empresas, seguirán aplicándose las normas del texto refundido del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por Real Decreto legislativo 3050/1980, de 30 de diciembre, que, con relación a aquel Impuesto, establecían sus respectivos ámbitos de aplicación o fijaban reglas especiales sobre delimitación del hecho imponible, de la base imponible o, en general, sobre relaciones entre ambos impuestos. En este sentido, seguirán siendo aplicables:
+a) El artículo 7.1.B), en cuanto incluía en el hecho imponible el otorgamiento de concesiones administrativas que tuviesen por objeto la cesión del derecho a utilizar inmuebles e instalaciones en puertos y aeropuertos.
+b) El artículo 7.3, en cuanto declaraba la no sujeción en el Impuesto General sobre el Tráfico de las Empresas y en el de Transmisiones Patrimoniales de las condiciones resolutorias explícitas de las compraventas que garantizasen el precio aplazado en las transmisiones empresariales de bienes inmuebles.
+c) El artículo 7.5, en cuanto declaraba la no sujeción de las entregas de bienes, prestaciones de servicios y operaciones en general que constituyesen actos habituales del tráfico de las empresas o explotaciones que las realizasen.
+d) El artículo 10.2 h), en cuanto fijaba la base imponible en la transmisión a título oneroso de los derechos que a favor del adjudicatario de un contrato de obras, servicios o suministros deriven del mismo.
+e) El artículo 10.2 j), en cuanto fijaba la base imponible de las aparcerías referentes a establecimientos fabriles o industriales.
+f) Cualesquiera otros que respondan a la finalidad expresada, aunque ya no sean aplicables en el resto del territorio como consecuencia de la entrada en vigor en el mismo del Impuesto sobre el Valor Añadido.
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera.
+Quedan derogados los preceptos anteriores que se opongan a lo dispuesto en el presente Texto refundido.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda.
+En particular quedarán derogados, en razón a su incorporación al mismo:
+1.º La Ley 32/1980, de 21 de junio, del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, así como el texto refundido aprobado por Real Decreto legislativo 3050/1980, de 30 de diciembre, sin perjuicio de lo que establece la disposición transitoria séptima.
+2.º La disposición adicional cuarta de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos.
+3.º El artículo 25, la disposición adicional octava y las disposiciones transitorias segunda y tercera de la Ley 29/1991, de 16 de diciembre, de adecuación de determinados conceptos impositivos a las Directivas y Reglamentos de las Comunidades Europeas.
+
+### Disposición final primera
+
+Disposición final primera.
+Las disposiciones contenidas en este texto refundido se aplicarán desde el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+### Disposición final segunda
+
+Disposición final segunda.
+Las Leyes que contengan los Presupuestos Generales del Estado, atendidas las razones socioeconómicas concurrentes, podrán modificar las tarifas y las exenciones de este impuesto.
+
+### Disposición final tercera
+
+Disposición final tercera.
+El Gobierno dictará las disposiciones necesarias para el desarrollo y aplicación del presente Texto refundido. Hasta que ello tenga lugar, se seguirá aplicando lo dispuesto en el Real Decreto 3494/1981, de 29 de diciembre, que aprueba el Reglamento del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, en lo que no se oponga a lo dispuesto en el presente texto refundido.

@@ -1,0 +1,547 @@
+# Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado.
+
+- Identificador BOE: `BOE-A-2013-12888`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2013-12888
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye corrección de errores publicada en BOE núm. 85, de 8 de abril de 2014. Ref. BOE-A-2014-3716.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+PREÁMBULO
+I
+La unidad de mercado constituye un principio económico esencial para el funcionamiento competitivo de la economía española. El principio de unidad de mercado tiene su reflejo en el artículo 139 de la Constitución que expresamente impide adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español.
+Con el fin de hacer efectivo el principio de unidad de mercado, en las últimas décadas se han llevado a cabo importantes esfuerzos. Sin embargo, y a pesar de las medidas adoptadas, la fragmentación subsiste en el mercado español, lo que se traduce en un elevado coste que dificulta de forma considerable la actividad de las empresas. La necesidad de eliminar este coste así como los obstáculos y trabas derivados del crecimiento de la regulación ha sido una de las principales demandas que los operadores económicos han venido trasladando en los últimos años.
+Esta fragmentación del mercado nacional dificulta la competencia efectiva e impide aprovechar las economías de escala que ofrece operar en un mercado de mayores dimensiones, lo que desincentiva la inversión y, en definitiva, reduce la productividad, la competitividad, el crecimiento económico y el empleo, con el importante coste económico que supone en términos de prosperidad, empleo y bienestar de los ciudadanos.
+En el contexto actual, esta Ley busca establecer los principios y normas básicas que, con pleno respeto a las competencias de las Comunidades Autónomas y de las Entidades Locales, garanticen la unidad de mercado para crear un entorno mucho más favorable a la competencia y a la inversión, facilitando que los agentes económicos puedan beneficiarse de las ganancias de una mayor dimensión en términos de productividad y costes, en favor de la creación de empleo y de crecimiento, y en beneficio último de los consumidores y usuarios que tendrán un mayor acceso a productos y servicios de calidad. Todas las Administraciones Públicas observarán los principios recogidos en esta Ley, en todos sus actos y disposiciones y para todas las actividades económicas, y especialmente en aquellas actividades que, bien por su carácter estratégico (telecomunicaciones, energía, transportes) bien por su potencial para la dinamización y el crecimiento económico (distribución comercial, turismo, construcción, industrias creativas y culturales, alimentación, sector inmobiliario, infraestructuras) resultan de especial relevancia para la economía.
+En la elaboración de esta Ley se ha tenido en cuenta la experiencia recabada durante el proceso de transposición de la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, también conocida como «Directiva de Servicios», proceso en el que se incorporaron al ordenamiento jurídico español, a través de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, una serie de principios básicos para la libre circulación, en especial el principio de eficacia nacional de los medios de intervención administrativa. La Ley 17/2009, de 23 de noviembre, sienta un precedente en materia de unidad de mercado para el sector servicios que se considera debe extenderse a todas las actividades económicas. Así, esta Ley se aplicará también a los sectores expresamente excluidos de la Directiva de Servicios (como por ejemplo las comunicaciones electrónicas; el transporte, las empresas de trabajo temporal, la seguridad privada, etc.) y a la circulación de productos. Asimismo, se ha tenido en cuenta la profusa jurisprudencia del Tribunal de Justicia de la Unión Europea sobre los principios básicos establecidos en esta Ley. En particular, en relación con los principios de necesidad y proporcionalidad, el principio de eficacia nacional y el principio de no discriminación.
+A diferencia del proceso de construcción del Mercado Interior de la Unión Europea que se ha desarrollado a lo largo de los últimos veinte años, esta norma pretende garantizar la unidad del mercado nacional español cuya existencia es ya una premisa básica de partida de la Constitución Española, evitando o minimizando las distorsiones que puedan derivarse de nuestra organización administrativa territorial. Esto no puede sino afectar positivamente a la propia construcción del mercado interior a nivel europeo, dado que es indudable que un mejor funcionamiento del mercado único español tendrá un efecto positivo sobre el desarrollo del Mercado Interior de la Unión Europea.
+En particular, las obligaciones que el Estado asume respecto a los operadores de otros Estados miembros, entre ellas las derivadas de la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, y de la Directiva 2005/36/CE del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, relativa al reconocimiento de cualificaciones profesionales, quedan totalmente cubiertas por la aplicación de la normativa específica de transposición de dichas directivas. No obstante, además del cumplimiento de la normativa de la Unión Europea, los operadores de otros Estados miembros de la Unión establecidos o que deseen establecerse en España podrán también beneficiarse de un régimen más favorable en otras muchas actividades económicas más allá del ámbito de la Directiva de Servicios, mientras que los operadores de otros Estados miembros que ofrezcan sus servicios en España en libre prestación, seguirán disfrutando del marco establecido por la Directiva de Servicios, por la Ley 17/2009, de 23 de noviembre, y por la normativa sectorial de la Unión en tanto que estén legalmente establecidos en otros Estados miembros.
+Sin perjuicio de las competencias que en cada caso corresponden al Estado, las Comunidades Autónomas o las Entidades Locales, con esta Ley se dota de eficacia en todo el territorio nacional a las decisiones tomadas por la autoridad competente de origen, basadas en un criterio de confianza mutua, y se aplican principios comunes como el principio de eficacia en todo el territorio nacional de las actuaciones administrativas en la libre iniciativa económica, lo que implica el reconocimiento implícito de actuaciones de las autoridades competentes de otras Administraciones Públicas. La Ley no tiene como finalidad uniformar los ordenamientos jurídicos puesto que, como ya ha señalado el Tribunal Constitucional en numerosas ocasiones, unidad no significa uniformidad, ya que la misma configuración territorial del Estado español y la existencia de entidades con autonomía política, como son las Comunidades Autónomas, supone una diversidad de regímenes jurídicos.
+Para alcanzar la aplicación uniforme de los anteriores principios y el logro de los objetivos perseguidos con esta Ley, se opta por un modelo de refuerzo de la cooperación entre el Estado, las Comunidades Autónomas y las Entidades Locales. En este sentido un elemento importante de esta Ley es el aprovechamiento de las estructuras de cooperación existentes para impulsar todo el proceso. Además, se prevé la creación de un Consejo para la Unidad de Mercado como órgano de cooperación administrativa para el seguimiento de la aplicación de esta Ley.
+Asimismo, con objeto de mantener los niveles de calidad de los productos y servicios, en la Ley se refuerzan los mecanismos de cooperación y colaboración entre las distintas autoridades competentes para la supervisión de los operadores económicos y se establecen procedimientos de alerta en la cooperación para el control de la provisión de bienes y servicios, para evitar perjuicios sobre la salud o seguridad de las personas o sobre el medio ambiente y facilitar la adopción de las medidas que resulten necesarias. En esta línea, la Ley sigue contribuyendo a mejorar los niveles de calidad y seguridad de los productos y servicios por encima de las exigencias normativas mediante el impulso del uso voluntario de normas de calidad en beneficio último de los consumidores y usuarios.
+Por otro lado, se establecen canales de comunicación entre la Administración y con el sector privado para permitir a los agentes económicos y a las empresas transmitir a las Administraciones Públicas situaciones y obstáculos concretos que fragmentan el mercado nacional con objeto de que puedan ser resueltos de forma ágil.
+Finalmente, esta Ley aprovecha para seguir impulsando un marco regulatorio eficiente para las actividades económicas que simplifique la legislación existente, elimine regulaciones innecesarias, establezca procedimientos más ágiles y minimice las cargas administrativas. La mayor parte de las barreras y obstáculos a la unidad de mercado se eliminan adoptando criterios de buena regulación económica. Es importante mantener la regulación bajo un proceso de revisión constante basado en los principios de buena regulación y de unidad de mercado nacional.
+Así pues, partiendo del artículo 38 de la Constitución Española, que reconoce la libertad de empresa en el marco de la economía de mercado debiendo los poderes públicos garantizar y proteger su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general, esta reforma constituye un elemento central del objetivo del establecimiento de un entorno económico y regulatorio que favorezca el emprendimiento, la expansión empresarial, la actividad económica y la inversión, en beneficio de los destinatarios de bienes y servicios, operadores económicos y de los consumidores y usuarios.
+El Tribunal Constitucional ha considerado en múltiples ocasiones que en Estados como el nuestro, de estructura territorial compleja, la exigencia de que los principios básicos del orden económico sean unos y los mismos en todo el ámbito nacional es una proyección concreta del más general principio de unidad. Así, ha considerado el Tribunal Constitucional que el funcionamiento de la actividad económica exige la existencia de unos principios básicos del orden económico que han de aplicarse con carácter unitario y general a todo el territorio nacional.
+II
+La Ley consta de veintiocho artículos agrupados en siete capítulos, diez disposiciones adicionales, una disposición derogatoria, siete disposiciones finales y un anexo.
+El Capítulo I, «Disposiciones generales», incluye las disposiciones que regulan el objeto y el ámbito de aplicación. En concreto, se determina un ámbito de aplicación amplio que incluye el acceso y ejercicio de actividades económicas en condiciones de mercado y, en consecuencia, a todos los actos y disposiciones de las diferentes Administraciones Públicas que afecten al acceso y ejercicio de las mencionadas actividades económicas.
+El Capítulo II, «Principios de garantía de la libertad de establecimiento y la libertad de circulación», desarrolla los principios generales necesarios para garantizar la unidad de mercado. En concreto el principio de no discriminación, el principio de cooperación y confianza mutua, el principio de necesidad y proporcionalidad de las actuaciones de las autoridades competentes, el principio de eficacia de las mismas en todo el territorio nacional, el principio de simplificación de cargas, el principio de transparencia y la garantía de las libertades de los operadores económicos en aplicación de estos principios.
+El Capítulo III, «Garantía de la cooperación entre las Administraciones Públicas», crea el Consejo para la Unidad de Mercado, asistido por una secretaría de carácter técnico, como órgano de cooperación administrativa para el seguimiento e impulso de la aplicación de la Ley. Asimismo, este Capítulo incluye preceptos referentes a la cooperación en el marco de las conferencias sectoriales y en la elaboración de proyectos normativos. Por otro lado, se establece un mandato para mantener una evaluación constante de las normas de las diferentes administraciones.
+El Capítulo IV, «Garantías al libre establecimiento y circulación», partiendo del principio de libre iniciativa económica, regula la instrumentación del principio de necesidad y proporcionalidad. Las autoridades podrán elegir entre una comunicación, una declaración responsable o una autorización, en función del interés general a proteger, de los requisitos que, en su caso, se exijan para la salvaguarda de dicho interés general y en atención a la naturaleza de la actividad y de si el medio de intervención se dirige a la propia actividad o a la infraestructura física. La autorización es el medio de intervención que más limita el acceso a una actividad económica y su ejercicio. Por ello, desde la perspectiva de los operadores económicos, se consideran motivos que habilitan para exigir autorización administrativa, la existencia de razones de seguridad pública, salud pública, protección del medio ambiente en el lugar concreto donde se realiza la actividad y el orden público, dentro del cual se incluyen, entre otras, la prudencia y la garantía de la estabilidad financieras. Pero aunque exista alguno de esos motivos, siempre deberá valorarse que la exigencia de, o bien una declaración responsable o bien una comunicación, no sea suficiente para garantizar el objetivo perseguido, de acuerdo con el principio de proporcionalidad. Por ejemplo, en aplicación del principio de necesidad por salud pública, es posible que deban regularse varias actividades que se ofrecen en condiciones de mercado en el marco de la planificación sanitaria. A algunas de estas actividades se les exigirá autorización y a otras una declaración responsable o una comunicación, en función de si es necesaria una verificación previa de los requisitos exigidos.
+Por otro lado, la autorización será el instrumento adecuado para garantizar la concurrencia competitiva en los casos donde existe una limitación del número de operadores en el mercado por la escasez de recursos naturales, el uso del dominio público, las limitaciones técnicas de esa actividad o por la prestación de servicios públicos sometidos a tarifas reguladas, incluidos aquellos cuya prestación necesita la utilización del dominio público o porque se trate de servicios que puedan poner en riesgo su adecuada prestación, como sucede, por ejemplo, con el ejercicio de las actividades desarrolladas por el taxi y el arrendamiento de vehículos con conductor, con las concesiones demaniales o con las oficinas de farmacia que se consideran incluidas en las previsiones del artículo 17.1 de esta Ley.
+Es importante subrayar que el artículo 17 debe entenderse sin perjuicio del principio de eficacia de las actuaciones de las autoridades competentes en todo el territorio nacional. Así una vez que los operadores han obtenido una autorización o presentado una declaración responsable o comunicación para acceder a una actividad o incluso si han accedido a la misma sin necesidad de realizar ningún trámite previo, ésta podrá ser ejercida en todo el territorio nacional, sin que quepa, por ejemplo, la exigencia de una nueva autorización, declaración responsable o comunicación excepto para determinadas actuaciones para las que se limita este principio de eficacia nacional.
+Igualmente se determinan las actuaciones que limitan las libertades de establecimiento y de circulación debiendo las autoridades competentes asegurarse de que sus actuaciones no tengan como efecto la creación de un obstáculo o barrera a la unidad de mercado.
+El Capítulo V, «Principio de eficacia en todo el territorio nacional», desarrolla las disposiciones relativas a este principio, que constituye uno de los elementos centrales de esta Ley. De acuerdo con este principio, basado en la confianza mutua, cualquier operador legalmente establecido, o cualquier bien legalmente producido y puesto en circulación, podrá ejercer la actividad económica o circular en todo el territorio nacional sin que quepa en principio exigirles nuevas autorizaciones o trámites adicionales de otras autoridades competentes diferentes. Se regulan con detalle diferentes supuestos de acreditaciones, reconocimientos, calificaciones, certificaciones y cualificaciones y actos de habilitación y la previsión expresa en la normativa autonómica o local de la validez del régimen aplicable a los operadores establecidos en otros lugares del territorio. Este principio de eficacia no es, sin embargo, aplicable a determinadas actuaciones relacionadas con las instalaciones o infraestructuras físicas, con la ocupación del dominio público o con la prestación de servicios públicos sometidos a tarifas reguladas que, por su propia naturaleza, resultan vinculados con un ámbito territorial determinado, como nuevamente sucede con las actividades desarrolladas por el taxi y el arrendamiento de vehículos con conductor, con las concesiones demaniales o con las oficinas de farmacia, que se consideran incluidas en las previsiones del segundo párrafo del artículo 20.4 de esta Ley.
+El Capítulo VI, «Supervisión de los operadores económicos», determina las autoridades competentes para la supervisión y control del acceso y ejercicio a la actividad económica. La supervisión y control por parte de las autoridades designadas está respaldada por la necesaria comunicación e intercambio de información entre autoridades regulada en este Capítulo. Asimismo se prevé la integración de la información obrante en los registros sectoriales.
+Por último, el Capítulo VII, «Mecanismos de protección de los operadores económicos en el ámbito de la libertad de establecimiento y de la libertad de circulación», establece y regula los mecanismos para la defensa de los intereses de los operadores económicos, proporcionando una solución ágil de obstáculos y barreras a la unidad de mercado detectadas por los operadores económicos.
+Por ello, con el fin de garantizar los derechos de los ciudadanos y procurar la agilidad necesaria en la aplicación de esta Ley, se han previsto los oportunos procedimientos, por los que puede optar el interesado como alternativa al tradicional sistema de recursos.
+Estos procedimientos permitirán que, en aquellas situaciones en que el interés general representado por la unidad de mercado pueda verse vulnerado por la actuación pública, el interesado pueda utilizar, si lo tiene por conveniente, el sistema administrativo de recursos, pero pueda también acudir a esta nueva alternativa que se configura.
+En esta vía se pretende que, en el ámbito de aplicación de esta Ley, se resuelvan los conflictos con la prontitud necesaria para evitar que la protección efectiva de la unidad de mercado y de los derechos de los ciudadanos y las empresas pueda resultar menoscabada, permitiendo al mismo tiempo el acceso a la vía judicial para todas las partes con la misma amplitud que hoy tiene.
+Las disposiciones adicionales regulan una serie de aspectos complementarios necesarios para la aplicación e impulso de lo dispuesto en esta Ley.
+Así, se prevé que cuando, por razones de orden público que, de acuerdo con la interpretación de las instituciones de la Unión Europea, incluye la lucha contra el fraude y la garantía de la estabilidad financiera, que fundamentaría la necesidad de intervención en los sectores bancario, financiero y de seguros, el medio de intervención corresponde al Estado, la eficacia en el territorio nacional queda garantizada por la propia intervención estatal. Asimismo, se recoge una excepción a lo dispuesto en el artículo 19.2 para determinados productos regulados; se modifica la denominación de la Plataforma de Contratación del Estado que pasará a denominarse la Plataforma de Contratación del Sector Público recogiendo además la obligatoriedad de publicación de las convocatorias de licitaciones públicas y sus resultados; se realiza un mandato a las Administraciones Públicas para promover el uso voluntario de normas de calidad; se prevé la acción popular y el derecho de petición; se encarga a la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios la evaluación periódica de la implementación y los efectos de la Ley, se prevé la presentación a la Comisión Delegada del Gobierno para Asuntos Económicos de un Plan de trabajo y seguimiento con carácter anual, se recoge el plan de trabajo de las conferencias sectoriales y se establece el plazo máximo de remisión de la información para la integración en los registros sectoriales y de la puesta en funcionamiento del sistema de intercambio electrónico de información.
+La disposición derogatoria y las disposiciones finales primera y segunda, efectúan las derogaciones y modificaciones de las normas con rango de Ley que resultan afectadas por la entrada en vigor de esta norma. En particular se modifica la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, para regular los nuevos procedimientos para solucionar posibles vulneraciones a la unidad de mercado. Por su parte, las otras disposiciones finales incluyen una modificación de la Ley 12/2012, de 26 de diciembre, de medidas urgentes de liberalización del comercio y de determinados servicios, las previsiones relacionadas con el título competencial, la adaptación de las disposiciones con rango legal y reglamentario, la habilitación normativa y la entrada en vigor de la Ley.
+Finalmente, en el anexo se recogen determinadas definiciones a los efectos de esta Ley.
+Esta Ley se dicta al amparo del artículo 149 1.ª, 6.ª, 13.ª y 18.ª de la Constitución Española que establece que el Estado tiene competencia exclusiva sobre las siguientes materias: regulación de condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y el cumplimiento de los deberes constitucionales, así como sobre la legislación mercantil y procesal, las bases y la coordinación de la planificación general de la actividad económica, las bases del régimen jurídico de las Administraciones Públicas y la legislación básica sobre contratos administrativos.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. Esta Ley tiene por objeto establecer las disposiciones necesarias para hacer efectivo el principio de unidad de mercado en el territorio nacional. En particular, tiene por objeto garantizar la integridad del orden económico y facilitar el aprovechamiento de economías de escala y alcance del mercado mediante el libre acceso, ejercicio y la expansión de las actividades económicas en todo el territorio nacional garantizando su adecuada supervisión, de conformidad con los principios contenidos en el artículo 139 de la Constitución.
+2. La unidad de mercado se fundamenta en la libre circulación y establecimiento de los operadores económicos, en la libre circulación de bienes y servicios por todo el territorio español, sin que ninguna autoridad pueda obstaculizarla directa o indirectamente, y en la igualdad de las condiciones básicas de ejercicio de la actividad económica.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. Esta ley será de aplicación al acceso a actividades económicas que se prestan en condiciones de mercado y su ejercicio por parte de operadores legalmente establecidos en cualquier lugar del territorio nacional.
+2. Quedan excluidas del ámbito de aplicación de esta ley las materias del ámbito tributario.
+Se modifica por el art. 6.1 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+## CAPÍTULO II
+
+Principios de garantía de la libertad de establecimiento y la libertad de circulación
+
+### Artículo 3
+
+Artículo 3. Principio de no discriminación.
+1. Todos los operadores económicos tendrán los mismos derechos en todo el territorio nacional y con respecto a todas las autoridades competentes, sin discriminación alguna por razón del lugar de residencia o establecimiento.
+2. Ninguna disposición de carácter general, actuación administrativa o norma de calidad que se refiera al acceso o al ejercicio de actividades económicas podrá contener condiciones ni requisitos que tengan como efecto directo o indirecto la discriminación por razón de establecimiento o residencia del operador económico.
+
+### Artículo 4
+
+Artículo 4. Principio de cooperación y confianza mutua.
+Con el fin de garantizar la aplicación uniforme de los principios recogidos en este capítulo y la supervisión adecuada de los operadores económicos, las autoridades competentes cooperarán en el marco de los instrumentos establecidos en el capítulo III.
+Las autoridades competentes, en sus relaciones, actuarán de acuerdo con el principio de confianza mutua, respetando el ejercicio legítimo por otras autoridades de sus competencias, reconociendo sus actuaciones y ponderando en el ejercicio de competencias propias la totalidad de intereses públicos implicados y el respeto a la libre circulación y establecimiento de los operadores económicos y a la libre circulación de bienes y servicios por todo el territorio nacional.
+Cuando, en relación con una actividad económica concreta, existan normas que, no obstante sus posibles diferencias técnicas o metodológicas, fijen un estándar de protección equivalente en diferentes lugares del territorio español, las autoridades competentes velarán por que un operador económico legalmente establecido en cualquier parte del territorio español pueda ejercer su actividad económica en todo el territorio nacional.
+Se modifica por el art. 6.2 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Artículo 5
+
+Artículo 5. Principio de necesidad y proporcionalidad de las actuaciones de las autoridades competentes.
+1. Las autoridades competentes que en el ejercicio de sus respectivas competencias establezcan límites al acceso a una actividad económica o su ejercicio, o exijan el cumplimiento de requisitos para el desarrollo de una actividad, motivarán su necesidad en la salvaguarda de alguna razón imperiosa de interés general de entre las comprendidas en el artículo 3.11 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+2. Cualquier límite o requisito establecido conforme al apartado anterior, deberá guardar relación con la razón imperiosa de interés general invocada, y habrá de ser proporcionado de modo tal que no exista otro medio menos restrictivo o distorsionador para la actividad económica.
+3. La necesidad y proporcionalidad de los límites o requisitos relacionados con el acceso y el ejercicio de las profesiones reguladas se evaluará de conformidad con el Real Decreto 472/2021, de 29 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva (UE) 2018/958, del Parlamento Europeo y del Consejo, de 28 de junio de 2018, relativa al test de proporcionalidad antes de adoptar nuevas regulaciones de profesiones.
+Se modifica por el art. 6.3 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Artículo 6
+
+Artículo 6. Principio de eficacia de las actuaciones de las autoridades competentes en todo el territorio nacional.
+(Anulado).
+Se declara inconstitucional y nulo por Sentencia del TC 110/2017, de 5 de octubre. Ref. BOE-A-2017-12202
+
+### Artículo 7
+
+Artículo 7. Principio de simplificación de cargas.
+La intervención de las distintas autoridades competentes garantizará que no genera un exceso de regulación o duplicidades y que la concurrencia de varias autoridades en un procedimiento no implica mayores cargas administrativas para el operador que las que se generarían con la intervención de una única autoridad.
+
+### Artículo 8
+
+Artículo 8. Principio de transparencia.
+Todas las autoridades competentes actuarán con transparencia para la correcta aplicación de esta Ley y la detección temprana de obstáculos a la unidad de mercado. Asimismo, cada autoridad competente se asegurará de que las disposiciones y actos recogidos en el artículo 9.2 de esta Ley son fácilmente accesibles, y cumplen lo dispuesto en la Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno.
+
+### Artículo 9
+
+Artículo 9. Garantía de las libertades de los operadores económicos.
+1. Todas las autoridades competentes velarán, en las actuaciones administrativas, disposiciones y medios de intervención adoptados en su ámbito de actuación, por la observancia de los principios de no discriminación, cooperación y confianza mutua, necesidad y proporcionalidad de sus actuaciones, simplificación de cargas y transparencia.
+2. En particular, garantizarán que las siguientes disposiciones y actos cumplen los principios citados en el apartado anterior:
+a) Las disposiciones de carácter general que regulen una determinada actividad económica o incidan en ella.
+b) Las autorizaciones, licencias y concesiones administrativas, así como los requisitos para su otorgamiento, los exigibles para el ejercicio de las actividades económicas, para la producción o distribución de bienes o para la prestación de servicios y aquellas materias que versen sobre el ejercicio de la potestad sancionadora o autorizadora en materia económica.
+c) La documentación relativa a los contratos públicos, incluidos los pliegos y cláusulas de los contratos públicos.
+d) Los actos dictados en aplicación de las disposiciones, requisitos y condiciones mencionados en las letras anteriores, así como los procedimientos asociados a los mismos.
+e) Los estándares de calidad emanados de normas o consejos reguladores, así como los actos que acrediten el cumplimiento de estos estándares de calidad.
+f) Cualesquiera otros actos, resoluciones y procedimientos administrativos que afecten a los operadores económicos.
+Se modifica el apartado 1 por el art. 6.4 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+## CAPÍTULO III
+
+Garantía de la cooperación entre las Administraciones Públicas
+
+### Artículo 10
+
+Artículo 10. Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios.
+1. La Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios es el órgano de cooperación administrativa encargado del seguimiento de la aplicación del contenido de esta ley.
+2. La Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios estará presidida por la persona titular del Ministerio de Asuntos Económicos y Transformación Digital y contará con la presencia de las personas titulares de la Secretaría de Estado de Economía y Apoyo a la Empresa y la Secretaría de Estado de Política Territorial, los Consejeros de las Comunidades Autónomas y de las ciudades de Ceuta y Melilla competentes en materia de economía y un representante de la Administración local.
+3. La Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios contará con una Secretaría, que será designada por la presidencia de la Conferencia, y que asumirá, además, las funciones de la Secretaría para la Unidad de Mercado de conformidad con esta ley.
+4. La Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios tiene las siguientes funciones:
+a) Análisis y evaluación de la situación de la unidad de mercado en el territorio nacional.
+b) Seguimiento de la adaptación de la normativa del conjunto de las autoridades competentes a los principios de esta ley.
+c) Impulso de los cambios normativos necesarios para la eliminación de obstáculos a la unidad de mercado en los marcos jurídicos correspondientes.
+d) Seguimiento de los mecanismos de cooperación establecidos en esta ley. En particular seguimiento del cumplimiento del principio de cooperación y confianza mutua del artículo 4 en relación con las posibles barreras a la libre circulación de bienes y la libre prestación de servicios.
+e) Coordinación de la actividad desarrollada por las conferencias sectoriales en materia de unidad de mercado.
+f) Seguimiento de los mecanismos de protección de los operadores económicos previstos en el capítulo VII así como de sus resultados.
+g) Aprobación del informe a que se refiere la letra g) del artículo 11.
+h) Impulso de las tareas de cooperación en la elaboración de proyectos normativos establecidas en el artículo 14.
+i) Impulso y revisión de los resultados de la evaluación periódica de la normativa a que se refiere el artículo 15.
+Se modifica por el art. 6.5 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Artículo 11
+
+Artículo 11. Funciones de la Secretaría para la Unidad de Mercado.
+La Secretaría para la Unidad de Mercado es el órgano técnico de coordinación y cooperación continua con las autoridades competentes para la aplicación de esta ley y tendrá las siguientes funciones:
+a) Supervisión continua de la aplicación de esta ley y de la adaptación de la normativa del conjunto de las autoridades competentes.
+b) Gestión del Observatorio de Buenas Prácticas Regulatorias.
+c) Difusión de la doctrina y jurisprudencia en aplicación de esta ley a través de una página web creada al efecto.
+d) Gestión de los mecanismos de protección de los operadores económicos en el ámbito de la unidad de mercado en el marco de lo previsto en el capítulo VII.
+e) Realización de actuaciones de carácter formativo sobre la aplicación de esta ley.
+f) Articulación de acciones de cooperación y actividades conjuntas entre autoridades competentes.
+g) Elaboración de un informe sobre las letras anteriores con conclusiones y, en su caso, recomendaciones para la revisión o reforma de marcos jurídicos. En particular, elaboración de una memoria a incluir en dicho informe sobre la unidad de mercado con base en los resultados de los mecanismos de protección de los operadores económicos. Este informe deberá ser aprobado por la Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios.
+h) Elaboración, en colaboración con los puntos de contacto de unidad de mercado, de directrices o guías en relación con la aplicación de esta ley y, especialmente respecto a la evaluación del impacto sobre la unidad de mercado de las medidas incluidas en los proyectos normativos.
+i) Elaboración de una memoria anual sobre la unidad de mercado de España en el período correspondiente.
+Se modifica por el art. 6.6 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Artículo 12
+
+Artículo 12. Cooperación en el marco de las conferencias sectoriales.
+1. A través de las conferencias sectoriales, las diferentes autoridades competentes analizarán y propondrán las modificaciones normativas necesarias para cumplir con los principios recogidos en esta ley y establecer marcos regulatorios adaptados a sus principios y disposiciones. El trabajo de estas conferencias sectoriales podrá contar con la contribución de los operadores económicos que, a través de una consulta a sus entidades representativas, participarán, en su caso, en la detección de las distorsiones que se producen en la unidad de mercado y de los ámbitos que requieren un análisis de la normativa vigente, en línea con lo establecido en esta ley.
+2. En particular, las conferencias sectoriales analizarán las condiciones y requisitos requeridos para el acceso y ejercicio de la actividad económica, así como los relativos a la distribución y comercialización de productos, e impulsarán los cambios normativos y reformas que podrán consistir, entre otros, en:
+a) Propuestas de modificación, derogación o refundición de la normativa existente, con el fin de eliminar los obstáculos identificados o hacer compatibles con esta ley aquellas normas que incidan en la libertad de establecimiento y de libre circulación de bienes y servicios.
+b) Adopción de acuerdos que establezcan estándares de regulación sectorial, en materias que son competencia autonómica y local de acuerdo con los principios contenidos en esta ley. En particular, adopción de estándares consolidados equivalentes a los efectos de que los operadores económicos legalmente establecidos en cualquier parte del territorio español puedan ejercer su actividad económica en todo el territorio nacional.
+c) Adopción de otras medidas, tales como planes de actuación que versen sobre las materias analizadas con el fin de eliminar los obstáculos identificados de acuerdo con los principios de esta ley.
+3. Sin perjuicio del resto de funciones que tiene establecidas en esta ley, la Secretaría para la Unidad de Mercado colaborará con las secretarías de las conferencias sectoriales en aplicación de lo establecido en este artículo. En particular colaborará para la difusión de los obstáculos identificados en el marco de los mecanismos previstos en los artículos 26 y 28.
+4. La cooperación en el marco de las conferencias sectoriales se llevará a cabo de conformidad con lo establecido en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y según lo dispuesto en el reglamento interno de cada conferencia sectorial.
+Se modifica por el art. 6.7 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Artículo 13
+
+Artículo 13. Información a la Comisión Delegada del Gobierno para Asuntos Económicos.
+Los Ministerios de Política Territorial y de Asuntos Económicos y Transformación Digital informarán a la Comisión Delegada del Gobierno para Asuntos Económicos sobre el desarrollo y aplicación de esta ley y acerca de los trabajos realizados en el seno de la Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios y de las conferencias sectoriales.
+Se modifica por el art. 6.8 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Artículo 14
+
+Artículo 14. Cooperación en la elaboración de proyectos normativos.
+1. La red de puntos de contacto para la unidad de mercado establecida en el artículo 26.4 podrá intercambiar información relativa a los proyectos normativos que puedan tener incidencia en la unidad de mercado.
+2. De acuerdo con el artículo 148.2.a) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las conferencias sectoriales serán informadas sobre los anteproyectos de leyes y los proyectos de reglamentos del Gobierno o de los Consejos de Gobierno de las Comunidades Autónomas cuando afecten de manera directa al ámbito competencial de las otras Administraciones Públicas o cuando así esté previsto en la normativa sectorial aplicable, bien a través de su pleno o bien a través de la comisión o el grupo de trabajo que corresponda. En especial, serán informadas cuando dichos anteproyectos de leyes o proyectos de reglamentos puedan afectar a la unidad de mercado de conformidad con lo establecido en esta ley.
+3. La publicación de los proyectos normativos por las diferentes Administraciones públicas se hará de conformidad con el artículo 7 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+4. Las memorias de análisis de impacto de los proyectos normativos de conformidad con el artículo 26 de la Ley 50/1997, de 27 de noviembre, del Gobierno, recogerán una valoración del impacto de unidad de mercado conforme al cumplimiento de los principios recogidos en esta ley, en particular al principio de necesidad y proporcionalidad del artículo 5. Esta valoración deberá realizarse sobre las diferentes previsiones regulatorias incluidas en los proyectos normativos que contengan requisitos o limitaciones al acceso o ejercicio de una actividad económica.
+5. En los procedimientos de consulta pública y de audiencia e información pública de las leyes y disposiciones normativas de carácter general, los operadores económicos o sus asociaciones representativas y los colegios profesionales y sus respectivos Consejos Generales podrán pronunciarse sobre el impacto de la normativa en la unidad de mercado.
+Se modifica por el art. 6.9 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Artículo 15
+
+Artículo 15. Evaluación periódica de la normativa.
+1. De acuerdo con el artículo 130 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones Públicas revisarán periódicamente su normativa vigente para adaptarla a los principios de buena regulación y para comprobar la medida en que las normas en vigor han conseguido los objetivos previstos y si estaba justificado y correctamente cuantificado el coste y las cargas impuestas en ellas.
+2. En el marco de dichas evaluaciones las autoridades competentes analizarán su normativa al objeto de valorar el impacto de la misma en la unidad de mercado de conformidad con lo establecido en esta ley.
+3. Sin perjuicio de la evaluación establecida en el apartado anterior, las conferencias sectoriales impulsarán la evaluación periódica en las materias de su competencia, así como los cambios normativos que puedan proceder, en el marco de lo establecido en el artículo 12.
+4. Asimismo, la Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios podrá impulsar la evaluación del marco jurídico vigente en un sector económico determinado, cuando se hayan detectado obstáculos a la unidad de mercado, conforme a lo establecido en el artículo 10.
+Se modifica por el art. 6.10 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+## CAPÍTULO IV
+
+Garantías al libre establecimiento y circulación
+
+### Artículo 16
+
+Artículo 16. Libre iniciativa económica.
+El acceso a las actividades económicas y su ejercicio será libre en todo el territorio nacional y sólo podrá limitarse conforme a lo establecido en esta Ley y a lo dispuesto en la normativa de la Unión Europea o en tratados y convenios internacionales.
+
+### Artículo 17
+
+Artículo 17. Instrumentación del principio de necesidad y proporcionalidad.
+1. Se podrá establecer la exigencia de una autorización siempre que concurran los principios de necesidad y proporcionalidad, que habrán de motivarse suficientemente en la ley que establezca dicho régimen. Asimismo, los requisitos para la obtención de dicha autorización deberán ser coherentes con las razones que justifican su exigencia. Cuando el régimen de autorización se exija por norma comunitaria o tratado internacional, las autorizaciones podrán estar previstas en una norma de rango inferior a la Ley. Se considerará que concurren los principios de necesidad y proporcionalidad para la exigencia de una autorización:
+a) Cuando esté justificado por razones de orden público, seguridad pública, salud pública o protección del medio ambiente en el lugar concreto donde se realiza la actividad, y estas razones no puedan salvaguardarse mediante la presentación de una declaración responsable o de una comunicación.
+b) Respecto a las instalaciones, bienes o infraestructuras físicas necesarias para el ejercicio de actividades económicas, cuando sean susceptibles de generar daños sobre el medio ambiente y el entorno urbano, la seguridad o la salud pública y el patrimonio histórico-artístico, y estas razones no puedan salvaguardarse mediante la presentación de una declaración responsable o de una comunicación.
+c) Cuando por la escasez de recursos naturales, la utilización de dominio público, la existencia de inequívocos impedimentos técnicos o en función de la existencia de servicios públicos sometidos a tarifas reguladas, el número de operadores económicos del mercado sea limitado.
+d) Cuando así lo disponga la normativa de la Unión Europea o tratados y convenios internacionales, incluyendo la aplicación, en su caso, del principio de precaución.
+Las inscripciones en registros con carácter habilitante que no sean realizadas de oficio por las autoridades competentes tendrán a todos los efectos el carácter de autorización.
+2. Se considerará que concurren los principios de necesidad y proporcionalidad para exigir la presentación de una declaración responsable para el acceso a una actividad económica o su ejercicio, o para las instalaciones o infraestructuras físicas para el ejercicio de actividades económicas, cuando en la normativa se exija el cumplimiento de requisitos justificados por alguna razón imperiosa de interés general y sean proporcionados.
+3. Las autoridades competentes podrán exigir la presentación de una comunicación cuando, por alguna razón imperiosa de interés general tales autoridades precisen conocer el número de operadores económicos, las instalaciones o las infraestructuras físicas en el mercado.
+4. Las autoridades competentes velarán por minimizar las cargas administrativas soportadas por los operadores económicos, de manera que, una vez aplicado el principio de necesidad y proporcionalidad de acuerdo con los apartados anteriores, elegirán un único medio de intervención, bien sea la presentación de una comunicación, de una declaración responsable o la solicitud de una autorización.
+Se modifica por el art. 6.11 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Artículo 18
+
+Artículo 18. Actuaciones que limitan la libertad de establecimiento y la libertad de circulación.
+1. Cada autoridad competente se asegurará de que cualquier medida, límite o requisito que adopte o mantenga en vigor no tenga como efecto la creación o el mantenimiento de un obstáculo o barrera a la unidad de mercado.
+2. Las autoridades competentes no podrán realizar actuaciones que limiten el libre establecimiento y la libre circulación por no cumplir los principios recogidos en el Capítulo II. No cumplen los principios recogidos en el capítulo II los actos, disposiciones y medios de intervención de las autoridades competentes que contengan o apliquen:
+a) Requisitos discriminatorios para el acceso a una actividad económica o su ejercicio o para la adjudicación de contratos públicos, basados directa o indirectamente en el lugar de residencia o establecimiento del operador. Entre estos requisitos se incluyen, en particular:
+1.º Que el establecimiento o el domicilio social se encuentre en el territorio de la autoridad competente, o que disponga de un establecimiento físico dentro de su territorio.
+2.º Que el operador haya residido u operado durante un determinado periodo de tiempo en dicho territorio.
+3.º Que el operador haya tenido que estar inscrito en un registro de dicho territorio durante un determinado periodo de tiempo.
+4.º Que su personal, los que ostenten la propiedad o los miembros de los órganos de administración, control o gobierno residan en dicho territorio o reúnan condiciones que directa o indirectamente discriminen a las personas procedentes de otros lugares del territorio.
+5.º Que el operador deba realizar un curso de formación dentro del territorio de la autoridad competente.
+b) Requisitos para la obtención de ventajas económicas que sean discriminatorios excepto que exista una razón imperiosa de interés general que lo justifique y sea proporcionado. La obligación de operar en el territorio de la autoridad competente o de generar actividad económica en el mismo para la obtención de ventajas económicas vinculadas a las políticas de fomento desarrolladas por dicha autoridad no se considerará un requisito discriminatorio, sin perjuicio del cumplimiento del principio de no discriminación e igualdad de trato establecido en el derecho de la Unión Europea.
+c) Requisitos de seguros de responsabilidad civil o garantías equivalentes o comparables en lo esencial en cuanto a su finalidad y a la cobertura que ofrezca en términos de riesgo asegurado, suma asegurada o límite de la garantía, adicionales a los establecidos en la normativa del lugar de origen, o que la obligación de que la constitución o el depósito de garantías financieras o la suscripción de un seguro deban realizarse con un prestador u organismo del territorio de la autoridad competente.
+d) Requisitos de naturaleza económica o intervención directa o indirecta de competidores en la concesión de autorizaciones, en los términos establecidos en las letras e) y f) del artículo 10 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+e) Requisitos que contengan la obligación de haber realizado inversiones en el territorio de la autoridad competente.
+Se modifica por el art. 6.12 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+ Se declaran inconstitucionales y nulas las letras b), c) y e) del apartado 2 por Sentencia del TC 79/2017, de 22 de junio. Ref. BOE-A-2017-8464
+
+## CAPÍTULO V
+
+Principio de eficacia en todo el territorio nacional
+
+### Artículo 19
+
+Artículo 19. Libre iniciativa económica en todo el territorio nacional.
+(Anulado).
+Se declara inconstitucional y nulo por Sentencia del TC 79/2017, de 22 de junio. Ref. BOE-A-2017-8464
+
+### Artículo 20
+
+Artículo 20. Eficacia en todo el territorio nacional de las actuaciones administrativas.
+(Anulado).
+Se declara inconstitucional y nulo por Sentencia del TC 79/2017, de 22 de junio. Ref. BOE-A-2017-8464
+
+## CAPÍTULO VI
+
+Supervisión de los operadores económicos
+
+### Artículo 21
+
+Artículo 21. Autoridad competente en la supervisión de los operadores.
+1. Las autoridades competentes supervisarán el ejercicio de las actividades económicas garantizando la libertad de establecimiento y la libre circulación y el cumplimiento de los principios recogidos en esta Ley.
+2. Cuando la competencia de supervisión y control no sea estatal:
+a) Las autoridades de origen serán las competentes para la supervisión y control de los operadores respecto al cumplimiento de los requisitos de acceso a la actividad económica.
+b) Las autoridades de destino serán las competentes para la supervisión y control del ejercicio de la actividad económica.
+c) (Anulada).
+3. En caso de que, como consecuencia del control realizado por la autoridad de destino, se detectara el incumplimiento de requisitos de acceso a la actividad de operadores o de normas de producción o requisitos del producto, se comunicará a la autoridad de origen para que ésta adopte las medidas oportunas, incluidas las sancionadoras que correspondan.
+Se declara inconstitucional y nulo el apartado 2.c) por Sentencia 111/2017, de 5 de octubre. Ref. BOE-A-2017-12203
+
+### Artículo 22
+
+Artículo 22. Integración de la información obrante en los registros sectoriales.
+(Suprimido)
+Se suprime por el art. 6.13 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Artículo 23
+
+Artículo 23. Sistema de intercambio electrónico de información.
+(Suprimido)
+Se suprime por el art. 6.13 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Artículo 24
+
+Artículo 24. Intercambio de información en el ejercicio de funciones de supervisión.
+(Suprimido)
+Se suprime por el art. 6.13 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Artículo 25
+
+Artículo 25. Intercambio de información por razones imperiosas de interés general.
+(Suprimido)
+Se suprime por el art. 6.13 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+## CAPÍTULO VII
+
+Mecanismos de protección de los operadores económicos en el ámbito de la libertad de establecimiento y de la libertad de circulación
+
+### Artículo 26
+
+Artículo 26. Procedimiento en defensa de la libertad de establecimiento y de circulación por las autoridades competentes.
+1. Cuando exista alguna disposición de carácter general, acto, actuación, inactividad o vía de hecho que pueda ser incompatible con la libertad de establecimiento o de circulación, en los términos previstos en esta ley, cualquier persona física o jurídica podrá dirigir reclamación a la Secretaría para la Unidad de Mercado en el plazo de un mes, a través de la ventanilla que al efecto se establezca. En el caso de actuaciones constitutivas de vía de hecho, el plazo será de veinte días contados desde aquel en que se iniciaron.
+En concreto, podrá dirigirse la reclamación regulada por este artículo frente a toda actuación que, agotando o no la vía administrativa, sea susceptible de recurso administrativo ordinario. También podrá dirigirse frente a las disposiciones de carácter general y demás actuaciones que, de conformidad con lo dispuesto por el capítulo I del título III de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, puede ser objeto de recurso contencioso-administrativo.
+No podrá interponerse esta reclamación contra actuaciones que sean susceptibles de recurso administrativo especial en materia de contratación o en el caso de que los interesados hayan manifestado su conformidad con una resolución sancionadora.
+2. Las organizaciones representativas de los operadores económicos y de los consumidores y usuarios, incluidas las Cámaras Oficiales de Comercio y las asociaciones profesionales y empresariales, podrán acudir al procedimiento previsto en el apartado anterior en defensa de los intereses colectivos que representan.
+3. El procedimiento previsto en este artículo tiene carácter alternativo de manera que no se podrá hacer uso de este procedimiento cuando se hayan interpuesto los recursos administrativos o jurisdiccionales que procedan contra la disposición, acto o actuación de que se trate.
+4. Para la resolución de esta reclamación, las autoridades competentes actuarán y cooperarán a través de la red de puntos de contacto para la unidad de mercado. Serán puntos de contacto:
+a) La Secretaría para la Unidad de Mercado.
+b) La Comisión Nacional de los Mercados y la Competencia.
+c) Cada departamento ministerial.
+d) La autoridad que designe cada Comunidad Autónoma o Ciudad con Estatuto de Autonomía.
+5. La Secretaría revisará la reclamación para comprobar que se trata de una actuación que pueda ser analizada en aplicación de lo establecido en esta ley, pudiendo inadmitirla cuando no concurriesen tales requisitos. En cualquier caso, el inicio del procedimiento por parte de la Secretaría no supondrá una predeterminación en relación con el fondo de la cuestión, ni será interpretado como un indicio de afectación a la libertad de establecimiento o circulación. Una vez iniciado el procedimiento, la remitirá al punto de contacto correspondiente a la autoridad competente afectada. A estos efectos se considerará autoridad competente:
+a) Cuando se trate de disposiciones de carácter general y actuaciones que pongan fin a la vía administrativa, la autoridad que la haya adoptado.
+b) Cuando se trate de actuaciones que no pongan fin a la vía administrativa, aquella que, de no aplicarse el procedimiento previsto en este artículo, hubiera conocido del recurso contra la actuación objeto de reclamación. En estos casos, dicha autoridad solicitará del órgano administrativo autor del acto la remisión del expediente administrativo, así como de un informe sobre la reclamación en un plazo de cinco días.
+Asimismo, la reclamación será distribuida entre todos los puntos de contacto, que podrán remitir al punto de contacto de la autoridad competente afectada, informando a la Secretaría para la Unidad de Mercado, las aportaciones que consideren oportunas en el plazo de cinco días. La Secretaría deberá elaborar un informe de valoración sobre la reclamación recibida en un plazo de diez días. Este informe no vinculante deberá ser tenido en cuenta por la autoridad competente a la hora de decidir. Los informes emitidos y remitidos al punto de contacto de la autoridad competente afectada se incorporarán al expediente administrativo.
+6. Los informes elaborados en el marco de este procedimiento podrán hacerse públicos. Ello sin perjuicio de lo establecido en las normas de protección de datos de carácter personal.
+7. Transcurridos quince días desde la presentación de la reclamación, el punto de contacto correspondiente a la autoridad competente afectada informará de la resolución adoptada por esta a la Secretaría para la Unidad de Mercado y a la red de puntos de contacto, indicando las medidas que se hayan adoptado para dar solución a la reclamación.
+De no adoptarse resolución en el citado plazo, se entenderá desestimada por silencio administrativo negativo y que, por tanto, la autoridad competente mantiene su criterio respecto a la actuación objeto de la reclamación.
+8. La Secretaría notificará al interesado la resolución adoptada, así como los demás informes emitidos, dentro del día hábil siguiente a la recepción de la resolución. La autoridad competente afectada podrá igualmente comunicar la resolución adoptada al interesado. No obstante, el inicio del cómputo de los plazos a los que se refieren los apartados 9, 10 y 11 se producirá desde la notificación efectuada por la Secretaría para la Unidad de Mercado.
+9. Si a la vista de la decisión de la autoridad competente, el interesado no considerase satisfechos sus derechos o intereses legítimos, podrá dirigir su solicitud a la Comisión Nacional de los Mercados y la Competencia, conforme a lo establecido en el artículo siguiente en un plazo de cinco días.
+10. Cuando existiesen motivos de impugnación distintos de la vulneración de la libertad de establecimiento o de circulación, los interesados que hayan presentado la reclamación regulada en este artículo podrán hacerlos valer, de forma separada, a través de los recursos administrativos o jurisdiccionales que procedan frente a la disposición o actuación de que se trate. No obstante, el plazo para su interposición se iniciará cuando se produzca la inadmisión por parte de la Secretaría para la Unidad de Mercado o la notificación por parte de dicha Secretaría de la eventual desestimación de la reclamación por la autoridad competente.
+11. Cuando se trate de actuaciones administrativas que no agoten la vía administrativa, la conclusión de este procedimiento pondrá fin a dicha vía. El plazo para la interposición de los recursos jurisdiccionales que procedan se iniciará cuando se produzca la inadmisión por parte de la Secretaría para la Unidad de Mercado o la notificación por parte de dicha Secretaría de la eventual desestimación de la reclamación por la autoridad competente.
+Se modifica por el art. 6.14 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+ Se declara que el inciso «que deberá ser tenido en cuenta por la autoridad competente a la hora de decidir» del último párrafo del apartado 5 b) es conforme con la Constitución interpretado en los términos señalados en el fundamento jurídico 15, por Sentencia del TC 79/2017, de 22 de junio. Ref. BOE-A-2017-8464 y Sentencia del TC 110/2017, de 5 de octubre. Ref. BOE-A-2017-12202
+
+### Artículo 27
+
+Artículo 27. Legitimación de la Comisión Nacional de los Mercados y la Competencia.
+1. La Comisión Nacional de los Mercados y la Competencia está legitimada para la interposición de recurso contencioso-administrativo frente a cualquier disposición de carácter general, acto, actuación, inactividad o vía de hecho que se considere contraria, en los términos previstos en esta ley, a la libertad de establecimiento o de circulación procedente de cualquier autoridad competente, de acuerdo con el procedimiento previsto en el capítulo IV del título V de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+2. La Comisión Nacional de los Mercados y la Competencia podrá actuar de oficio o a petición de los interesados, que podrán dirigirse a la misma antes de iniciar un procedimiento contencioso-administrativo.
+3. Presentada una petición, la Comisión Nacional de los Mercados y la Competencia, teniendo en cuenta el informe que haya emitido la Secretaría para la Unidad de Mercado sobre la reclamación, la viabilidad de la acción y su especial trascendencia, que se apreciará atendiendo a su importancia para la interpretación de esta ley, para su aplicación o para su general eficacia, valorará en el plazo de veinte días si procede la interposición de recurso contencioso-administrativo, informando al operador de su decisión.
+4. La Comisión Nacional de los Mercados y la Competencia informará al Ministerio de Asuntos Económicos y Transformación Digital y a la Secretaría para la Unidad de Mercado de los recursos interpuestos y de las peticiones y denuncias recibidas. A su vez, la Secretaría para la Unidad de Mercado informará de los recursos interpuestos por la Comisión Nacional de los Mercados y la Competencia al punto de contacto de unidad de mercado competente desde un punto de vista territorial y por razón de la materia.
+5. En el caso de la acción popular y el derecho de petición previstos en la disposición adicional quinta de esta ley, la legitimación para la interposición del recurso contencioso-administrativo corresponderá en exclusiva a la Comisión Nacional de los Mercados y la Competencia sin perjuicio del derecho de personación regulado en el artículo 127 ter de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+Se modifica por el art. 6.15 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Artículo 28
+
+Artículo 28. Mecanismos adicionales de eliminación de obstáculos o barreras detectados por los operadores económicos, los consumidores y los usuarios.
+1. Fuera de los supuestos previstos en el artículo 26 de esta ley, los operadores económicos, los consumidores y usuarios, así como las organizaciones que los representan u otros interesados, podrán informar a la Secretaría para la Unidad de Mercado, en cualquier momento y a través de la ventanilla a la que se refiere el artículo 26, sobre cualesquiera obstáculos o barreras relacionadas con la aplicación de esta ley. En particular, podrá informarse a través de este procedimiento de posibles incumplimientos del principio de cooperación y confianza mutua establecido en el artículo 4.
+Cuando los operadores económicos, los consumidores y usuarios, así como las organizaciones que los representan u otros interesados informen de obstáculos o barreras relacionadas con la aplicación de esta ley que hayan recurrido en vía administrativa, no se iniciará este mecanismo hasta que se resuelva el recurso en cuestión y el interesado manifieste su interés en ello.
+2. Se podrá solicitar informe de valoración a la Secretaría para la Unidad de Mercado por obstáculos o barreras previstos en proyectos normativos que se encuentren en fase de tramitación administrativa. Este informe podrá solicitarse respecto de proyectos normativos que hayan sido o estén siendo sometidos al trámite de audiencia e información pública y será enviado al punto de contacto competente para su remisión al órgano proponente del proyecto en cuestión para su consideración.
+3. Cuando la Secretaría para la Unidad de Mercado tenga constancia de la posible existencia de obstáculos o barreras relacionadas con la aplicación de esta ley podrá iniciar de oficio el mecanismo previsto en este artículo. El resto de los puntos de contacto para la unidad de mercado podrán solicitar a la Secretaría para la Unidad de Mercado el inicio de este mecanismo. La Secretaría para la Unidad de Mercado tendrá en consideración variables como la viabilidad de la actuación y la especial transcendencia del caso en cuestión para la valoración del inicio del procedimiento conforme a este apartado.
+4. La Secretaría para la Unidad de Mercado procederá a recabar informes de los puntos de contacto de acuerdo con lo establecido en el apartado 4 del artículo 26, en los que se podrán incluir propuestas de actuación. Asimismo, elaborará el correspondiente informe de valoración.
+5. Los informes emitidos y remitidos al punto de contacto de la autoridad competente afectada se incorporarán al expediente administrativo. Asimismo, la Secretaría para la Unidad de Mercado remitirá dichos informes al operador económico, al consumidor o usuario o a la organización que los representan incluyendo, en su caso, la posible solución alcanzada.
+6. La Secretaría para la Unidad de Mercado informará puntualmente a las conferencias sectoriales y a la Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios sobre los obstáculos y barreras detectadas por los operadores, consumidores o usuarios u organizaciones que los representan, así como sobre las soluciones alcanzadas y resultados obtenidos, a efectos de impulsar los sistemas de cooperación previstos en el artículo 12.2. Asimismo, la Secretaría para la Unidad de Mercado realizará un seguimiento periódico de los compromisos alcanzados o soluciones propuestas en el marco de este mecanismo.
+7. Los informes elaborados en el marco de este mecanismo podrán hacerse públicos. Ello sin perjuicio de lo establecido en las normas de protección de datos de carácter personal.
+8. Cuando los operadores económicos, los consumidores y usuarios, así como las organizaciones que los representan u otros interesados hayan recurrido ante la jurisdicción contencioso-administrativa sin haber hecho uso de este mecanismo o del procedimiento previsto por el artículo 26, podrán solicitar, en el curso del procedimiento contencioso-administrativo, informe a la Secretaría para la Unidad de Mercado.
+9. La Secretaría para la Unidad de Mercado podrá dar por no iniciadas aquellas solicitudes de inicio de este procedimiento que sean presentadas por un mismo interesado, ante una misma autoridad competente y que versen sobre un mismo supuesto de hecho en el que la Secretaría ya se ha pronunciado con anterioridad. Asimismo, se podrán dar por no iniciados aquellos procedimientos en los que no exista una posible afectación clara a los principios establecidos en esta ley, en los que no se haya proporcionado información suficiente y fehaciente para su valoración o en los que haya previstos otros procedimientos o mecanismos especiales o extraordinarios de resolución. Las consultas en relación con la aplicación de normativa no serán consideradas solicitudes de inicio de este procedimiento.
+Se modifica por el art. 6.16 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Disposición adicional primera
+
+Disposición adicional primera. Actuaciones estatales.
+Cuando por razones de orden público, incluidas la lucha contra el fraude, la contratación pública y la garantía de la estabilidad financiera, el medio de intervención, incluidas la regulación, supervisión y control para el acceso o ejercicio de una actividad económica corresponda al Estado, la eficacia en el territorio nacional quedará garantizada por la intervención estatal.
+Se modifica por el art. 6.17 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Productos regulados.
+La puesta en el mercado de los productos estancos, explosivos, gasóleo profesional y mercancías peligrosas deberá respetar las condiciones de venta establecidas en la normativa estatal aplicable.
+Se modifica por el art. 6.18 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Plataforma de Contratación del Sector Público.
+La Plataforma de Contratación del Estado regulada en el artículo 334 del texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre, pasará a denominarse Plataforma de Contratación del Sector Público.
+En la Plataforma se publicará, en todo caso, bien directamente por los órganos de contratación o por interconexión con dispositivos electrónicos de agregación de la información de las diferentes administraciones y entidades públicas, la convocatoria de licitaciones y sus resultados de todas las entidades comprendidas en el apartado 1 del artículo 3 del texto refundido de la Ley de Contratos del Sector Público.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Uso voluntario de normas de calidad.
+Preferentemente, y en particular cuando la razón imperiosa de interés general, de acuerdo con el apartado 11 del artículo 3 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, sea la protección de los derechos, la seguridad y la salud de los consumidores, las autoridades competentes promoverán el uso voluntario de normas de calidad por parte de los operadores que mejoren los niveles de calidad y seguridad de los productos y servicios.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Acción popular y derecho de petición.
+Será pública la acción para exigir ante los órganos administrativos y, a través de la Comisión Nacional de los Mercados y la Competencia, ante los Tribunales, el cumplimiento de lo establecido en esta ley y en las disposiciones que se dicten para su desarrollo y ejecución, para la defensa de la unidad de mercado.
+En particular, se reconoce la acción popular para el inicio de los procedimientos establecidos en los artículos 26 y 28 y la legitimación de las corporaciones de derecho público, asociaciones y grupos de afectados para ejercer el derecho de petición a que se refiere el artículo 27 y para personarse en el procedimiento para la garantía de la unidad de mercado regulado en el capítulo IV del título V de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+Se modifica por el art. 6.19 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Evaluación normativa de unidad de mercado.
+Aquellos proyectos normativos elaborados de conformidad con el artículo 26 de la Ley 50/1997, de 27 de noviembre, del Gobierno, que tengan efectos significativos sobre la unidad de mercado deberán someterse a un análisis sobre los resultados de su aplicación. Dicho análisis se realizará de conformidad con el artículo 3 del Real Decreto 286/2017, de 24 de marzo, por el que se regulan el Plan Anual Normativo y el Informe Anual de Evaluación Normativa de la Administración General del Estado y se crea la Junta de Planificación y Evaluación Normativa.
+Se modifica por el art. 6.20 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Plan anual de trabajo y seguimiento.
+A efectos de lo previsto en el artículo 15 de esta Ley, se presentará a la Comisión Delegada del Gobierno para Asuntos Económicos un Plan de trabajo y seguimiento, que defina con carácter anual objetivos, prioridades y plazos de ejecución, para el continuo seguimiento y evaluación de la normativa sobre las actividades económicas a la luz de los principios y mecanismos establecidos en esta Ley.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Plan de trabajo de las conferencias sectoriales.
+Con el fin de garantizar la cooperación en el marco de las conferencias sectoriales, éstas serán convocadas en el plazo de tres meses desde la entrada en vigor de esta Ley para que analicen la normativa estatal y autonómica y, en su caso, local, reguladora de los correspondientes sectores económicos y elaboren una propuesta de cambios normativos para cumplir con los principios recogidos en esta Ley.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Creación del Observatorio de Buenas Prácticas Regulatorias.
+Se crea el Observatorio de Buenas Prácticas Regulatorias en el marco de la Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios.
+Este órgano estará gestionado por la Secretaría para la Unidad de Mercado y será el encargado de desempeñar las siguientes funciones:
+a) Identificación y seguimiento de las buenas prácticas regulatorias de las diferentes Administraciones.
+b) Elaboración y actualización continua de un Catálogo de buenas prácticas regulatorias que deberá ser aprobado por la Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios. En particular, este Catálogo contendrá buenas prácticas en relación con la aplicación del principio de cooperación y confianza mutua del artículo 4.
+c) Impulso de actuaciones de formación, comunicación, difusión e información de las buenas prácticas identificadas.
+d) Seguimiento y difusión de las directrices de la Unión Europea en esta materia.
+Se modifica por el art. 6.21 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Disposición adicional décima
+
+Disposición adicional décima. Determinación de la autoridad de origen.
+(Anulada).
+Se declara inconstitucional y nula por Sentencia del TC 79/2017, de 22 de junio. Ref. BOE-A-2017-8464
+
+### Disposición adicional décimoprimera
+
+Disposición adicional decimoprimera. Plazo para formular requerimientos previos a la interposición de recurso contencioso-administrativo.
+Cuando la Comisión Nacional de los Mercados y la Competencia, en uso de la legitimación prevista en el artículo 27 de esta ley y en el artículo 5.4 de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, interponga recurso contencioso-administrativo contra cualquier Administración, podrá requerirla previamente, en el plazo de dos meses previsto en el artículo 44.2 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+Se añade por el art. 6.22 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+A la entrada en vigor de esta Ley quedan derogadas cuantas normas de igual o inferior rango se opongan a lo dispuesto en ella.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
+La Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa, queda modificada en los siguientes términos:
+Uno. Se modifica el artículo 11.1 añadiéndose una letra h) con el siguiente tenor:
+«h. De los recursos interpuestos por la Comisión Nacional de los Mercados y de la Competencia en defensa de la unidad de mercado.»
+Dos. El apartado 1 del artículo 110 queda redactado como sigue:
+«1. En materia tributaria, de personal al servicio de la Administración pública y de unidad de mercado, los efectos de una sentencia firme que hubiera reconocido una situación jurídica individualizada a favor de una o varias personas podrán extenderse a otras, en ejecución de la sentencia, cuando concurran las siguientes circunstancias:
+a) Que los interesados se encuentren en idéntica situación jurídica que los favorecidos por el fallo.
+b) Que el juez o tribunal sentenciador fuera también competente, por razón del territorio, para conocer de sus pretensiones de reconocimiento de dicha situación individualizada.
+c) Que soliciten la extensión de los efectos de la sentencia en el plazo de un año desde la última notificación de ésta a quienes fueron parte en el proceso. Si se hubiere interpuesto recurso en interés de ley o de revisión, este plazo se contará desde la última notificación de la resolución que ponga fin a éste.»
+Tres. Se añade un nuevo Capítulo IV al Título V con la siguiente redacción:
+«CAPÍTULO IV
+Procedimiento para la garantía de la unidad de mercado
+Artículo 127 bis.
+1. Cuando la Comisión Nacional de los Mercados y la Competencia considere que una disposición, acto, actuación, inactividad o vía de hecho procedente de cualquier Administración pública sea contraria a la libertad de establecimiento o de circulación en los términos previstos en la Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado, podrá presentar el recurso contencioso-administrativo regulado en este Capítulo.
+2. El plazo para interponer el recurso contencioso-administrativo para la garantía de la unidad de mercado será de dos meses conforme a lo previsto en los apartados 1 a 3 del artículo 46. Cuando el recurso se interponga a solicitud de un operador económico el plazo de dos meses se computará desde la presentación de la solicitud ante la Comisión Nacional de los Mercados y la Competencia.
+Artículo 127 ter.
+1. En el mismo día de la interposición del recurso por la Comisión Nacional de los Mercados y la Competencia en garantía de la unidad de mercado o en el siguiente, el Secretario judicial requerirá con carácter urgente al órgano administrativo correspondiente, acompañando copia del escrito de interposición, para que en el plazo máximo de cinco días a contar desde la recepción del requerimiento remita el expediente acompañado de los informes y datos que se soliciten en el recurso, con apercibimiento de cuanto se establece en el artículo 48.
+2. La falta de envío del expediente administrativo dentro del plazo previsto en el apartado anterior no suspenderá el curso de los autos.
+3. El Secretario judicial pondrá de manifiesto al recurrente el expediente y demás actuaciones para que en el plazo improrrogable de diez días pueda formalizar la demanda y acompañar los documentos oportunos. Si el expediente administrativo se recibiese una vez formalizada la demanda, se concederá un trámite adicional de alegaciones a las partes.
+4. Formalizada la demanda, el Secretario judicial dará traslado de la misma a las partes demandadas para que, a la vista del expediente, presenten contestación en el plazo común e improrrogable de diez días y acompañen los documentos que estimen oportunos.
+5. Evacuado el trámite de contestación, el órgano jurisdiccional decidirá en el siguiente día sobre el recibimiento a prueba, con arreglo a las normas generales establecidas en la presente Ley, y sin perjuicio de lo dispuesto en el artículo 57. El período de práctica de prueba no será en ningún caso superior a veinte días.
+6. Conclusas las actuaciones, el órgano jurisdiccional dictará sentencia en el plazo de cinco días. La sentencia estimará el recurso cuando la disposición, la actuación o el acto incurrieran en cualquier infracción del ordenamiento jurídico que afecte a la libertad de establecimiento o de circulación, incluida la desviación de poder.
+Conforme a lo dispuesto en el artículo 71, la sentencia que estime el recurso implicará la corrección de la conducta infractora, así como el resarcimiento de los daños y perjuicios, incluido el lucro cesante, que dicha conducta haya causado.
+Cuando se trate de asuntos en los que no quepa ulterior recurso, el órgano jurisdiccional podrá convocar a las partes a una comparecencia con la finalidad de dictar su sentencia de viva voz, exponiendo verbalmente los razonamientos en que sustente su decisión, resolviendo sobre los motivos que fundamenten el recurso y la oposición y pronunciando su fallo, de acuerdo con lo dispuesto en los artículos 68 a 71.
+La no comparecencia de todas o alguna de las partes no impedirá el dictado de la sentencia de viva voz.
+En cuanto se refiere a la grabación de la comparecencia y a su documentación, serán aplicables las disposiciones contenidas en el artículo 63.
+Caso de haberse dictado la Sentencia de forma oral, el Secretario judicial expedirá certificación que recoja todos los pronunciamientos del fallo, con expresa indicación de su firmeza y de la actuación administrativa a que se refiera. Dicha certificación será expedida en el plazo máximo de cinco días notificándose a las partes.
+La anterior certificación se registrará e incorporará al Libro de Sentencias del órgano judicial. El soporte videográfico de la comparecencia quedará unido al procedimiento.
+7. Durante la tramitación del procedimiento, podrá solicitar su intervención, como parte recurrente, cualquier operador económico que tuviere interés directo en la anulación del acto, actuación o disposición impugnada y no la hubiera recurrido de forma independiente.
+La solicitud del operador se resolverá por medio de auto, previa audiencia de las partes personadas, en el plazo común de cinco días.
+Admitida la intervención, no se retrotraerán las actuaciones, pero el interviniente será considerado parte en el proceso a todos los efectos y podrá defender las pretensiones formuladas o las que el propio interviniente formule, si tuviere oportunidad procesal para ello.
+El interviniente podrá utilizar los recursos que procedan contra las resoluciones que estime perjudiciales para su interés, aunque las consienta la Comisión Nacional de los Mercados y la Competencia o las demás partes personadas.
+8. La Sala de lo Contencioso-Administrativo de la Audiencia Nacional acordará la acumulación al promovido por la Comisión Nacional de los Mercados y la Competencia de todo procedimiento que, iniciado por un operador económico ante el mismo u otro órgano jurisdiccional, se dirija frente a la misma disposición o actuación y se funde en la vulneración de la libertad de establecimiento o de circulación conforme a lo previsto en esta Ley.
+9. A todos los efectos, la tramitación de estos recursos tendrá carácter preferente.
+10. El procedimiento para la garantía de la unidad de mercado, en lo no dispuesto en este Capítulo, se regirá por las normas generales de la presente Ley.
+Artículo 127 quáter.
+1. La Comisión Nacional de los Mercados y la Competencia podrá solicitar en su escrito de interposición la suspensión de la disposición, acto o resolución impugnados, así como cualquier otra medida cautelar que asegure la efectividad de la sentencia.
+2. Solicitada la suspensión de la disposición, acto o resolución impugnados, la misma se producirá de forma automática, una vez admitido el recurso y sin exigencia de afianzamiento de los posibles perjuicios de cualquiera naturaleza que pudieran derivarse. La Administración cuya actuación se haya recurrido podrá solicitar el levantamiento de la suspensión en el plazo de tres meses desde su adopción, siempre que acredite que de su mantenimiento pudiera seguirse una perturbación grave de los intereses generales o de tercero que el tribunal ponderará en forma circunstanciada.
+Formulada la solicitud se dará traslado de la misma a la Comisión Nacional de los Mercados y la Competencia para que, en el plazo de diez días, alegue lo procedente en orden al mantenimiento o el levantamiento de la suspensión en orden a los intereses en conflicto.
+Evacuado el anterior trámite, el tribunal resolverá lo que estime procedente mediante auto en los cinco días siguientes.
+3. La solicitud de cualquier otra medida cautelar se tramitará en la forma prevista en el Capítulo II del Título VI.»
+Téngase en cuenta que se declara inconstitucional y nulo el apartado 2 del art. 127 quáter de la Ley 29/1998, de 13 de julio, en la redacción dada por el punto tres, únicamente en su aplicación a actos o disposiciones de las Comunidades Autónomas, por Sentencia del TC 79/2017, de 22 de junio. Ref. BOE-A-2017-8464 y Sentencia 111/2017, de 5 de octubre. Ref. BOE-A-2017-12203
+Se declara inconstitucional y nulo el apartado 2 del art. 127 quáter de la Ley 29/1998, de 13 de julio, en la redacción dada por el punto tres, únicamente en su aplicación a actos o disposiciones de las Comunidades Autónomas, por Sentencia del TC 79/2017, de 22 de junio. Ref. BOE-A-2017-8464 y Sentencia 111/2017, de 5 de octubre. Ref. BOE-A-2017-12203
+ Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 85, de 8 de abril de 2014. Ref. BOE-A-2014-3716.
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+La Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, queda modificada en los siguientes términos:
+Uno. La letra b) del artículo 5 queda redactada en los siguientes términos:
+«b) Necesidad: que el régimen de autorización esté justificado por razones de orden público, seguridad pública, salud pública, protección del medio ambiente, o cuando la escasez de recursos naturales o la existencia de inequívocos impedimentos técnicos limiten el número de operadores económicos del mercado.»
+Dos. El apartado 3 del artículo 7 queda redactado del siguiente modo:
+«3. La realización de una comunicación o una declaración responsable o el otorgamiento de una autorización permitirá al prestador acceder a la actividad de servicios y ejercerla en la totalidad del territorio español, incluso mediante el establecimiento de sucursales.
+Los medios de intervención que se apliquen a los establecimientos físicos respetarán las siguientes condiciones:
+a) Podrá exigirse una autorización para cada establecimiento físico cuando sea susceptible de generar daños sobre el medio ambiente y el entorno urbano, la seguridad o la salud pública y el patrimonio histórico-artístico, evaluándose este riesgo de acuerdo con las características de las instalaciones.
+b) Podrá exigirse una declaración responsable para cada establecimiento físico cuando en la normativa se exija el cumplimiento de requisitos justificados por una razón imperiosa de interés general.
+c) Podrá exigirse una comunicación cuando, por razones imperiosas de interés general, éstas deban mantener un control sobre el número o características de las instalaciones o de infraestructuras físicas en el mercado.
+El medio de intervención deberá resultar proporcionado y no discriminatorio. Cuando el prestador de servicios ya esté establecido en España y ejerza legalmente la actividad, estas autorizaciones o declaraciones responsables no podrán contemplar requisitos que no estén ligados específicamente al establecimiento físico a partir del cual pretende llevar a cabo dicha actividad.»
+Tres. El apartado 2 del artículo 11 queda redactado en los siguientes términos:
+«2. No obstante, excepcionalmente se podrá supeditar el acceso a una actividad de servicios o a su ejercicio al cumplimiento de alguno de los requisitos del apartado anterior cuando no sean discriminatorios, estén justificados por una razón imperiosa de interés general y sean proporcionados.
+En todo caso, la concurrencia de estas condiciones deberá ser notificada a la Comisión Europea según lo dispuesto en la disposición adicional cuarta y deberá estar suficientemente motivada en la normativa que establezca tales requisitos.»
+Cuatro. La letra a) del apartado dos del artículo 25 queda redactada del siguiente modo:
+«a) Las profesiones reguladas, en la medida en que sea necesario para garantizar el cumplimiento de requisitos deontológicos distintos e incompatibles debidos al carácter específico de cada profesión, siempre que los mismos estén justificados por una razón imperiosa de interés general, sean proporcionados y no discriminatorios.»
+
+### Disposición final tercera
+
+Disposición final tercera. Modificación de la Ley 12/2012, de 26 de diciembre, de medidas urgentes de liberalización del comercio y de determinados servicios.
+Uno. Se modifica el apartado 1 del artículo 2, que queda redactado como sigue:
+«Artículo 2. Ámbito de aplicación.
+1. Las disposiciones contenidas en el Título I de esta Ley se aplicarán a las actividades comerciales minoristas y a la prestación de determinados servicios previstos en el anexo de esta Ley, realizados a través de establecimientos permanentes, situados en cualquier parte del territorio nacional, y cuya superficie útil de exposición y venta al público no sea superior a 750 metros cuadrados.»
+Dos. Se modifica la Disposición final décima, que queda redactada del siguiente modo:
+«Disposición final décima. Ampliación por las Comunidades Autónomas del umbral de superficie, del catálogo de actividades y otros supuestos de inexigibilidad de licencias.
+Las Comunidades Autónomas, en el ámbito de sus competencias, podrán ampliar el umbral de superficie y el catálogo de actividades comerciales y servicios, previstos en el Título I y en el anexo de esta Ley, así como determinar cualesquiera otros supuestos de inexigibilidad de licencias. Asimismo, podrán establecer regulaciones sobre estas mismas actividades con menor intervención administrativa, incluyendo la declaración de inocuidad.»
+
+### Disposición final cuarta
+
+Disposición final cuarta. Título competencial.
+1. Esta ley se dicta en ejercicio de las competencias exclusivas del Estado para la regulación de la condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, legislación procesal, en materia de bases y coordinación de la planificación general de la actividad económica, así como sobre las bases del régimen jurídico de las Administraciones Públicas y la legislación básica sobre contratos administrativos, recogidas respectivamente en las materias del artículo 149.1.1.ª, 6.ª, 13.ª y 18.ª de la Constitución.
+2. No tiene carácter básico y se aplica exclusivamente a la Administración General del Estado y al sector público estatal lo previsto en:
+a) El apartado 4 del artículo 14 y el artículo 15 del capítulo III relativos a la valoración del impacto de unidad de mercado en las memorias de análisis de impacto normativo y a la evaluación periódica de la normativa respectivamente.
+b) La disposición adicional sexta relativa a la evaluación normativa de unidad de mercado.
+Se modifica por el art. 6.23 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
+
+### Disposición final quinta
+
+Disposición final quinta. Adaptación de la normativa vigente.
+En el plazo de seis meses a partir de la entrada en vigor de esta Ley, se procederá a la adaptación de las disposiciones vigentes con rango legal y reglamentario a lo dispuesto en la misma.
+
+### Disposición final sexta
+
+Disposición final sexta. Desarrollo normativo.
+El Gobierno podrá aprobar las normas de rango reglamentario que resulten necesarias para el desarrollo de lo previsto en esta Ley. Asimismo se autoriza a los Ministros de Hacienda y Administraciones Públicas y de Economía y Competitividad en el ámbito de sus respectivas competencias para dictar las disposiciones necesarias para la aplicación y desarrollo de lo previsto en esta Ley.
+
+### Disposición final séptima
+
+Disposición final séptima. Entrada en vigor.
+1. Esta Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+2. No obstante, el artículo 20, los apartados 2 y 3 del artículo 21 y el artículo 26 entrarán en vigor a los tres meses de la publicación de esta Ley excepto para aquellos servicios regulados en la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 9 de diciembre de 2013.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+MARIANO RAJOY BREY
+
+## ANEXO
+
+Definiciones
+A efectos de esta Ley, se entenderá por:
+a) Acreditación: declaración por un organismo de acreditación de que un organismo de evaluación de la conformidad cumple los requisitos fijados con arreglo a normas armonizadas, y cuando proceda, otros requisitos adicionales, incluidos los establecidos en los esquemas sectoriales pertinentes, para ejercer actividades específicas de evaluación de la conformidad.
+b) Actividad económica: Cualquier actividad de carácter empresarial o profesional que suponga la ordenación por cuenta propia de los medios de producción, de los recursos humanos, o ambos, con la finalidad de intervenir en la producción o distribución de bienes o en la prestación de servicios. No se incluyen dentro de este concepto las actividades relativas a la reserva o al ejercicio de potestades públicas, jurisdiccionales o administrativas ni la regulación de las relaciones laborales por cuenta ajena o asalariadas.
+c) Autoridad competente: Cualquier organismo o entidad que lleve a cabo la regulación, ordenación o control de las actividades económicas o que adjudique contratos de conformidad con la normativa de contratación pública, o cuya actuación afecte al acceso a una actividad económica o a su ejercicio y, en particular, las autoridades administrativas estatales, autonómicas o locales y los colegios profesionales y, en su caso, consejos generales y autonómicos de colegios profesionales.
+d) Autoridad de origen: autoridad competente del lugar del territorio nacional donde el operador esté establecido legalmente para llevar a cabo una determinada actividad económica. Se entenderá que un operador está establecido legalmente en un territorio cuando en ese lugar se acceda a una actividad económica y a su ejercicio.
+e) Autoridad de destino: autoridad competente del lugar del territorio nacional donde un operador legalmente establecido en otro lugar del territorio nacional lleva a cabo una actividad económica, mediante establecimiento o sin él.
+f) Autorización o licencia: Cualquier acto expreso o tácito de la autoridad competente que se exija a un operador económico con carácter previo para el acceso a una actividad económica o su ejercicio.
+g) Establecimiento: el acceso a una actividad económica no asalariada y su ejercicio, así como la constitución y gestión de empresas y especialmente de sociedades, en las condiciones fijadas por la legislación, por una duración indeterminada, en particular por medio de una infraestructura estable.
+h) Operador económico: cualquier persona física o jurídica o entidad que realice una actividad económica en España.
+i) Normas de calidad: las disposiciones aprobadas por un organismo reconocido o acreditado nacional o internacionalmente, que proporcionan reglas, directrices o características dirigidas al desarrollo de las actividades económicas o a la calidad de sus resultados.
+Se modifican las letras b), c) y f) por el art. 6.24 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6

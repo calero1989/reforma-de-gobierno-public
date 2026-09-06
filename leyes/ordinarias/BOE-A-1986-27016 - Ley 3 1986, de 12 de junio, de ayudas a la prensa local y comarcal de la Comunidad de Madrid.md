@@ -1,0 +1,114 @@
+# Ley 3/1986, de 12 de junio, de ayudas a la prensa local y comarcal de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1986-27016`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-27016
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Aprobada por la Asamblea de Madrid la Ley 3/1986, publicada en el «Boletín Oficial de la Comunidad de Madrid» número 149, de fecha 25 de junio de 1986, se inserta a continuación el texto correspondiente.
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber: Que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo.
+EXPOSICIÓN DE MOTIVOS
+1. Las instituciones de la Comunidad de Madrid son plenamente conscientes no sólo de la necesidad de una prensa local y comarcal, sino también del estímulo a la aparición de dicha prensa, que representa todo sistema político descentralizado. Son conscientes, asimismo, de las dificultades económicas que en su nacimiento y crecimiento encuentra una prensa local y comarcal, la cual surge, generalmente, con escasos medios económicos. Por lo tanto, conocedores de la necesidad de esta prensa y persuadidos del papel de la misma en el marco de la comunicación social, con relación al artículo 31, apartado 2, del Estatuto de Autonomía de la Comunidad de Madrid y la Resolución aprobada por la Asamblea de Madrid el 5 de diciembre de 1985, exime un propósito definido de estimular la diversidad y el pluralismo de la prensa local y comarcal, básicos para el conocimiento y toma de conciencia autonómica de los madrileños, facilitando a aquellos medios de comunicación el apoyo efectivo de la Comunidad de Madrid.
+2. El deseo manifestado por todos los grupos parlamentarios de la Asamblea de Madrid, mediante la Aprobación de la Resolución 52/1, sobre ayudas a la prensa local y comarcal, así como la voluntad del Consejo de Gobierno, hacen aconsejable, en este caso, regular la mencionadas ayudas mediante Ley.
+Con el fin de no interferir en absoluto en la libertad de información y lograr la máxima objetividad posible en la concesión de ayudas, la Ley intenta armonizar la actuación pública con los intereses de los sectores sociales afectados. Así, existirá informe previo empresarial, y también sindical, en relación con el procedimiento que contempla la presente Ley. Por último, esta Ley viene a cubrir las necesidades específicas de la prensa comarcal y local no contempladas en la Ley de las Cortes Generales 29/1984, de 2 de agosto, de ayudas a Empresas periodísticas y Agencias informáticas.
+
+### Artículo 1
+
+Artículo 1.
+Es objeto de la presente Ley la regulación de las ayudas económicas dirigidas al fomento de la actividad de Empresas periodísticas domiciliadas en la Comunidad de Madrid que editen publicaciones de información de carácter regional y local, de periodicidad no diaria ni superior a la mensual. Dichas publicaciones deberán tener difusión, fundamentalmente, en el ámbito de la Comunidad de Madrid, a la que también debe circunscribirse, esencialmente, su información.
+
+### Artículo 2
+
+Artículo 2.
+Con el fin de garantizar la independencia y el pluralismo informativo, quedan excluidas de estas ayudas las publicaciones dependientes de partidos políticos, sindicatos, organizaciones empresariales, boletines internos de instituciones, órganos de instituciones públicas o publicaciones profesionales. Asimismo, las de consumo y las de distribución gratuita y aquellas que tuvieran fines publicitarios.
+
+### Artículo 3
+
+Artículo 3.
+1. Las ayudas tendrán, ordinariamente, el carácter de subvención. La Comunidad de Madrid podrá aplicarlas directamente en todo o en parte al pago de deudas vencidas, líquidas y exigibles, que las Empresas periodísticas tengan contraídas con entes de naturaleza pública.
+2. La Comunidad propiciará mecanismos que incentiven a la colaboración, la distribución común, la coproducción y la cooperación publicitaria entre medios competitivos.
+
+### Artículo 4
+
+Artículo 4.
+El importe global de las ayudas monetarias se consignará anualmente en la Ley de Presupuestos de la Comunidad, por lo que su aplicación estará sujeta al control financiero, de acuerdo con la legislación presupuestaria vigente.
+
+### Artículo 5
+
+Artículo 5.
+Las solicitudes se formalizarán mediante instancia dirigida al Consejero de la Presidencia de la Comunidad de Madrid, del 1 de enero al 15 de febrero de cada año natural, con expresión del tipo de ayudas que se soliciten, y a las que se adjuntarán los documentos justificativos o, cuando ello no sea posible, declaración jurada de que se cumplen los siguientes requisitos:
+a) Poseer la nacionalidad española.
+b) Tener su domicilio en el ámbito territorial de la Comunidad de Madrid.
+c) En el caso de Sociedades, los títulos representativos del capital han de ser nominativos. Este requisito se extiende a la Sociedades que tengan la cualidad de socio de la peticionaria.
+d) Figurar inscritos en un Registro administrativo de Empresas periodísticas, a los exclusivos efectos de la concesión de ayudas. Este Registro será independiente de cualquier otro en que puedan figurar inscritas dichas Empresas, y no surtirá más efecto que los señalados.
+e) Acreditar la adecuada constitución de la Empresa. En este sentido, la personas jurídicas acompañarán copia completa de los datos registrales. Las personas físicas adjuntarán fotocopia del documento acreditativo de identidad, si actúan en nombre propio, y si lo hicieran en nombre ajeno, acompañarán, además, el documento que acredite el apoderamiento y la identificación del poderdante.
+f) Publicar en el propio medio la composición de los órganos gestores y propietarios de más de un 10 por 100 del capital social de la Sociedad, referida a 31 de diciembre.
+g) Carecer de intereses económicos en Empresas publicitarias.
+h) Asumir el compromiso de entregar el número de ejemplares de cada publicación que reglamentariamente se determine a la Comunidad de Madrid con posterioridad a su difusión, con la finalidad de tener constancia del cumplimiento del fin de la presente Ley.
+i) Haber consultado previamente a los representantes de los trabajadores, en el caso de que la Empresa solicite ayuda por reconversión tecnológica, notificándoles la solicitud a los efectos de que aquéllos puedan ser oídos en el procedimiento.
+j) Adjuntar el balance y cuenta de resultados del ejercicio anterior o, en su caso, el avance de los resultados económicos.
+k) Aportar copia del recibo de la licencia fiscal.
+l) Acreditar la difusión de las publicaciones.
+m) Declarar de forma detallada cualesquiera otras ayudas recibidas o solicitadas.
+
+### Artículo 6
+
+Artículo 6.
+Las falsedades u omisiones en los documentos o declaración jurada previstos en el artículo anterior serán causa de denegación o revocación de la ayuda sin perjuicio de las demás responsabilidades a que pudiera dar lugar.
+
+### Artículo 7
+
+Artículo 7.
+Los criterios para otorgar la ayuda deberán atender a consideraciones objetivas, como son, básicamente:
+a) La tirada y venta de la publicación, que habrá de valorarse teniendo en cuenta la población potencialmente destinataria de la misma.
+b) La asignación eficaz de los recursos de la Empresa y la viabilidad económica de ésta.
+c) El volumen de información regional, comarcal o local.
+d) La creación de puestos de trabajo y su impresión en imprentas sitas en la Comunidad de Madrid.
+e) El contenido publicitario, que en ningún caso puede superar el 50 por 100 de la publicación.
+f) El grado de participación de los redactores o colaboradores habituales en la línea informativa.
+g) Que la estructura organizativa de la Entidad fomente la participación social.
+h) El apoyo a las Empresas que inicien su actividad editorial en el marco de la presente Ley.
+i) Otras ayudas percibidas.
+j) Que la Empresa las solicite con arreglo a un plan para poder llegar escalonadamente a la situación ideal de autofinanciación.
+
+### Artículo 8
+
+Artículo 8.
+1. La Administración remitirá inmediatamente las solicitudes y los expedientes normalizados a la Asamblea de Madrid y a las Entidades más representativas de los empresarios y de los trabajadores. La representatividad de estas Entidades podrá ser fijada objetivamente por Decreto del Consejo de Gobierno, oída la Comisión de Presidencia y Gobernación.
+2. La Comisión correspondiente de la Asamblea de Madrid, dentro de los quince días siguientes a la recepción de las solicitudes y la documentación a que se hace referencia en el número anterior, procederá a recabar informe de las Entidades representativas de los empresarios y trabajadores, así como de una Comisión de expertos en periodismo, publicidad e impresión, informes todos ellos que tendrán carácter preceptivo y que habrán de ser emitidos en un plazo no superior a quince días. La composición y funcionamiento de esta Comisión de expertos se determinará reglamentariamente.
+3. La Comisión de la Asamblea de Madrid, a la vista de los anteriores informes, redactará, en otro plazo no superior a quince días, un informe preceptivo y determinante, que elevará al Consejero como propuesta de resolución motivada, resolviendo definitivamente éste en el plazo de diez días.
+4. La resolución del Consejero, que pone fin a la vía administrativa, habrá de adoptarse dentro de los tres meses siguientes al término de la recepción de las solicitudes, salvo la interrupción que pudiera producirse en el cómputo de los plazos como consecuencia del carácter determinante de la propuesta a evacuar por la Comisión de la Asamblea. La falta de resolución expresa implicará la desestimación de la solicitud.
+5. El Consejero de la Presidencia dará cuenta a la Asamblea de Madrid, a través de la Comisión de Presidencia y Gobernación, de la cuantía y tipo de ayudas concedidas en el primer período de sesiones de cada año.
+Téngase en cuenta que este artículo podrá ser modificado por Decreto publicado únicamente en el "Boletín Oficial de la Comunidad de Madrid"
+Se modifican los apartados 2 a 4 por la disposición adicional 1 del Decreto 76/1993, de 26 de agosto.Ref. BOE-A-1993-25504.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Consejo de Gobierno, a propuesta del Consejero de la Presidencia, dictará cuantas disposiciones sean precisas para el desarrollo y ejecución de la presente Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+De las ayudas previstas en esta Ley quedarán excluidas las publicaciones patrocinadas por la Comunidad de Madrid, los Ayuntamientos y Entidades públicas de la Comunidad de Madrid.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Las ayudas para el ejercicio presupuestario de 1986 serán modificadas en el plazo de un mes, a contar desde la entrada en vigor de la presente Ley.
+
+### Disposición final
+
+Disposición final.
+Esta Ley entrará en vigor el mismo día de su publicación en el «Boletín Oficial de la Comunidad de Madrid» debiendo también ser publicada en el «Boletín Oficial del Estado».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y autoridades que corresponda la guarden y la hagan guardar.
+Madrid, 12 de junio de 1986.
+JOAQUÍN LEGUINA HERRÁN,
+Presidente de la Comunidad

@@ -1,0 +1,307 @@
+# Ley 10/2000, de 30 de noviembre, del Consejo Económico y Social de las Illes Balears.
+
+- Identificador BOE: `BOE-A-2001-476`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-476
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 27.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+El artículo 9.2 de la Constitución Española señala como uno de los deberes de los poderes públicos el facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.
+El Estatuto de Autonomía de las Illes Balears establece en el artículo 9 que las instituciones de autogobierno, en cumplimiento de las finalidades que les son propias, promoverán la libertad, la justicia y el progreso socioeconómico entre todos los ciudadanos de las Illes Balears, como principios de la Constitución, así como su participación en la vida política, cultural, económica y social.
+El artículo 10.18 del mismo texto legal establece como competencia exclusiva de la Comunidad Autónoma el fomento del desarrollo económico de la Comunidad, de acuerdo con las bases y la coordinación general de la actividad económica.
+El artículo 11.8 del Estatuto atribuye a la Comunidad Autónoma, en el marco de la legislación básica del Estado y, cuando corresponda, en los términos que ésta establezca, el desarrollo legislativo y la ejecución en materia de ordenación y planificación de la actividad económica de la Comunidad en el ejercicio de las competencias asumidas en el marco del Estatuto.
+Por otra parte, el artículo 42 del Estatuto de Autonomía de las Illes Balears, introducido mediante la reforma realizada por la Ley Orgánica 3/1999, de 8 de enero, dispone que el Consejo Económico y Social de las Illes Balears es el órgano colegiado de participación, estudio, deliberación, asesoramiento y propuesta en materia económica y social, y deja la regulación de su composición, la designación de sus miembros, su organización y sus funciones a una Ley posterior, y con esto se cumple lo que establece en la norma institucional básica de la Comunidad. Por otra parte, la profunda imbricación entre el sistema productivo de Baleares y la problemática ecológica y ambiental, aconseja la incorporación de esta perspectiva a los criterios de composición del grupo III del Plan, de las comisiones de trabajo que en su momento se han de crear y, en definitiva, de los propios informes y trabajo del Consejo.
+Es, pues, un deber de los poderes públicos facilitar instrumentos y reforzar, institucionalmente, las vías de comunicación y participación de los ciudadanos a través de las organizaciones y asociaciones representativas de intereses económicos y sociales.
+Conscientes de ello, se crea, mediante esta Ley, el Consejo Económico y Social de las Illes Balears como marco estable y permanente de comunicación y diálogo, tanto de los agentes económicos y sociales entre sí, como de éstos con la Administración Autonómica, sin olvidar su configuración como órgano de consenso y refuerzo de la participación de estos agentes en la toma de decisiones. Responde, pues, a la legítima aspiración de los agentes económicos y sociales para que sus opiniones y planteamientos sean tenidos en cuenta a la hora de adoptar decisiones que puedan afectar a los intereses que les son propios.
+La Ley atribuye al Consejo Económico y Social un conjunto de funciones que se adecuan a la finalidad y a los objetivos que al crearlo se persiguen, y se le dota de personalidad jurídica y organización propia y de un régimen de funcionamiento diferenciado, todo ello para garantizar la imparcialidad de este órgano en el ejercicio de sus funciones.
+Las características básicas que informan sobre esta Ley son: La independencia y la imparcialidad, la variedad y la pluralidad en relación con el origen de sus miembros, una función consultiva amplia, que se materializa mediante la emisión de dictámenes en relación con la actividad normativa del Gobierno en materia socioeconómica y laboral y, para acabar, una capacidad de autonomía y de organización amplias, que se concretan en la elaboración de su Reglamento de organización y funcionamiento y en la previsión de un régimen presupuestario propio.
+La regulación actual, en el marco expuesto anteriormente, supone la creación y la puesta en funcionamiento de un órgano consultivo, cuya máxima virtud reside en configurar una plataforma de encuentro y de diálogo con los agentes económicos y sociales que contribuya a la búsqueda de soluciones positivas para los intereses de toda la sociedad de las Illes Balears.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Naturaleza y régimen jurídico.
+1. El Consejo Económico y Social de las Illes Balears es un órgano colegiado de carácter consultivo, de participación, estudio, deliberación, asesoramiento y propuesta en materia económica y social de las Illes Balears.
+2. El Consejo Económico y Social se configura como ente de derecho público, dotado de personalidad jurídica propia y plena capacidad de actuar, que dispone de autonomía orgánica y funcional para cumplir sus finalidades. En cualquier caso, las relaciones entre éste y el Gobierno y la Administración de la Comunidad Autónoma se articularán a través de la Consejería competente en materia de trabajo.
+3. Su sede está en la ciudad de Palma, sin perjuicio de que pueda realizar sesiones en cualquier otra localidad de las Illes Balears.
+
+### Artículo 2
+
+Artículo 2. Funciones.
+1. Corresponden al Consejo Económico y Social de las Illes Balears las siguientes funciones:
+a) Emitir dictamen con carácter preceptivo y no vinculante, en relación con las materias siguientes:
+Primero.- Anteproyectos de ley, salvo el anteproyecto de ley de presupuestos generales, así como proyectos de decreto legislativo, de decreto del Gobierno de las Illes Balears y de reglamento de los consejos insulares, independientemente de la denominación que adopten, siempre y cuando los mencionados anteproyectos y proyectos regulen de forma directa y estructural materias socioeconómicas, laborales y de empleo.
+Segundo.- Anteproyectos de Ley o proyectos de disposiciones administrativas que afecten sustancialmente la organización, las competencias o el funcionamiento del Consejo Económico y Social.
+Tercero.- Cualquier otra materia sobre la cual, de acuerdo con lo establecido en una Ley, sea obligatorio consultarlo.
+b) Emitir dictamen con carácter facultativo y no vinculante, en relación con las materias siguientes:
+Primero.- Proyectos de orden de las consejeras y de los consejeros del Gobierno de las Illes Balears y de disposiciones reglamentarias de los consejos insulares, no incluidos en el apartado a), inciso primero, de este artículo, que regulen materias socioeconómicas, laborales y de empleo.
+Segundo.- Cualquier otro asunto, cuando así lo soliciten el Gobierno o las entidades y las organizaciones que integran el Consejo, en la forma que se determine en el Reglamento de organización y funcionamiento.
+c) Elaborar dictámenes, informes o estudios, a solicitud del Gobierno, de los consejos insulares o a iniciativa propia, sobre cuestiones sociales, económicas y laborales de interés para las Illes Balears, respecto de las materias previstas en este artículo.
+d) Emitir un informe anual, con carácter previo a la aprobación del anteproyecto de Ley de Presupuestos generales, donde se incluirán propuestas y recomendaciones en relación con su contenido.
+e) Elaborar y remitir anualmente al Gobierno, en el primer semestre de cada año, una Memoria, en la cual dará cuenta de las actividades realizadas y podrá exponer las sugerencias y las observaciones que considere oportunas en relación con la situación socioeconómica y laboral de las Illes Balears.
+f) Elaborar su Reglamento de organización y funcionamiento.
+g) Elaborar anualmente la propuesta de presupuestos del Consejo Económico y Social.
+h) Promover y llevar a cabo iniciativas relacionadas con el estudio y la difusión de materias socioeconómicas, laborales y de empleo.
+i) Cualquier otra asignada por Ley.
+2. El Consejo Económico y Social, a través de su Presidencia, puede solicitar toda la información complementaria sobre los asuntos que se le sometan a consulta, siempre que esta información sea necesaria para que se emita el dictamen. Asimismo, puede solicitar la opinión de instituciones, de entidades o de personas con notoria competencia técnica en las materias relacionadas con los asuntos sometidos a consulta.
+3. Con carácter previo a la emisión de dictámenes, informes o estudios el Consejo Económico y Social podrá abrir un trámite de audiencia para que participen, según la materia tratada, las organizaciones sindicales y empresariales que no formen parte del Consejo y que sean representativas en un sector productivo o laboral específico en el ámbito de las Illes Balears, ya que superan el 10 por 100 de los Delegados sindicales o de la representatividad empresarial. Este trámite será preceptivo en los supuestos previstos en las letras b) y c) del apartado 1 de este artículo.
+4. Al efecto de determinar las materias socioeconómicas, laborales y de empleo, que integran el ámbito material de las funciones del Consejo Económico y Social, se entienden incluidas todas aquéllas que son propias de las organizaciones más representativas de los trabajadores y de los empresarios y que afecten, entre otros, al desarrollo regional, la economía y los sectores productivos, la fiscalidad, las relaciones laborales y la seguridad y la salud laboral, la responsabilidad, la investigación, la economía social, la educación, las competencias y la formación profesional, la sanidad y el consumo, la vivienda, el medio ambiente, la ordenación territorial, los servicios sociales y la familia.
+5. Queda excluido el dictamen preceptivo respecto de los anteproyectos de ley, proyectos de decreto legislativo y de decreto del Gobierno de las Illes Balears, así como de reglamento de los consejos insulares, independientemente de la denominación que adopten, que traten sobre materias socioeconómicas, laborales y de empleo en los siguientes casos:
+a) Cuando se trate de disposiciones normativas que no regulen de manera directa y estructural materias socioeconómicas, laborales y de empleo, siempre y cuando no afecten directamente a las instituciones y a los órganos en los que se ejerce el derecho a la participación institucional de las organizaciones empresariales y sindicales más representativas.
+b) Cuando se trate de disposiciones reglamentarias excluidas del trámite de audiencia por razones que deben hacerse constar a lo largo del proceso de elaboración de la norma por parte del órgano que la impulse.
+c) Cuando supongan la modificación o la reforma puntual, indirecta y no estructural de normas que hayan sido sometidas a dictamen preceptivo del Consejo Económico y Social.
+Se modifican los apartados 1.a), b), c) y se añaden el 4 y el 5 por el art. 1 de la Ley 5/2009, de 17 de junio. Ref. BOE-A-2009-11934
+
+### Artículo 3
+
+Artículo 3. Plazo de evacuación de dictámenes.
+1. El Consejo Económico y Social emitirá los dictámenes previstos en las letras a), b) y c) del artículo 2.1 en el plazo de un mes. En caso de que en la remisión del expediente se haga constar de manera expresa y razonada la urgencia, el plazo para evacuarlos será de diez días hábiles desde su recepción. Transcurrido el correspondiente plazo sin que se haya emitido el dictamen, se entenderá evacuado con los efectos que legal o reglamentariamente sean procedentes.
+Los dictámenes relativos a proyectos de disposiciones generales, de rango legal o reglamentario, se solicitarán y evacuarán en la fase procedimental establecida en la ley reguladora del Gobierno de las Illes Balears.
+2. Cuando un proyecto o un asunto de los contemplados en este artículo deba ser sometido al dictamen del Consejo Consultivo de las Illes Balears, el expediente incluirá el dictamen correspondiente del Consejo Económico y Social, si lo hubiera.
+Se modifica por la disposición final 2 de la Ley 1/2019, de 31 de enero. Ref. BOE-A-2019-2862#df-2
+ Se modifica el apartado 1 por la disposición final 2.1 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se modifica el apartado 1 por el art. 2 de la Ley 5/2009, de 17 de junio. Ref. BOE-A-2009-11934
+
+## TÍTULO II
+
+Composición del Consejo Económico y Social
+
+### Artículo 4
+
+Artículo 4. Composición.
+El Consejo Económico y Social está integrado por un total de treinta y siete miembros, que deben tener la condición política de ciudadanas o ciudadanos de las Illes Balears, de acuerdo con la siguiente distribución:
+a) El presidente o la presidenta.
+b) El grupo I está integrado por doce miembros en representación de las organizaciones empresariales más representativas en el ámbito de la comunidad autónoma.
+c) El grupo II está integrado por doce miembros en representación de las organizaciones sindicales más representativas en el ámbito de la comunidad autónoma.
+d) El grupo III está integrado por doce miembros que se distribuyen de la siguiente manera:
+Una persona representante del sector agrario.
+Una persona representante del sector pesquero.
+Una persona representante del sector de economía social.
+Una persona representante de las asociaciones de personas consumidoras y usuarias.
+Una persona representante de la Universidad de las Illes Balears.
+Una persona representante de las organizaciones representativas de los intereses de las entidades locales.
+Una persona representante de las asociaciones y organizaciones que tengan como finalidad principal la protección del medio ambiente.
+Cinco personas expertas en materia económica y social y medioambiental, elegidas entre personas con especial preparación y de prestigio reconocido en el ámbito correspondiente: cuatro a propuesta de los consejos insulares y una a propuesta del Gobierno de las Illes Balears.
+Se modifica por el art. 3 de la Ley 5/2009, de 17 de junio. Ref. BOE-A-2009-11934
+
+### Artículo 5
+
+Artículo 5. Designación y nombramiento.
+1. Los miembros del Consejo Económico y Social representantes del grupo serán designados por las organizaciones empresariales más representativas en el ámbito de las Illes Balears, en proporción a su representatividad, de acuerdo con lo que establece la disposición adicional sexta del Real Decreto Legislativo 1/1995, por el cual se aprueba el texto refundido del Estatuto de los Trabajadores.
+2. De la misma manera, se designarán a los miembros integrantes del grupo II, que corresponderá a las organizaciones sindicales más representativas, de conformidad con lo que disponen los artículos 6.2 y 7.1 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.
+3. Los miembros del grupo III serán designados por el Gobierno de las Illes Balears, habiendo consultado las instituciones, entidades y asociaciones de relevancia en cada sector.
+3 bis. La designación de los miembros del Consejo Económico y Social debe reflejar una presencia equilibrada de mujeres y hombres y de representantes de las cuatro islas en cada uno de los tres grupos.
+4. El Consejo de Gobierno de las Illes Balears, después de haber recibido las propuestas y las designaciones correspondientes, les nombrará mediante Decreto.
+Se añade el apartado 3 bis por el art. 4 de la Ley 5/2009, de 17 de junio. Ref. BOE-A-2009-11934
+
+### Artículo 6
+
+Artículo 6. Mandato.
+1. El mandato de los miembros del Consejo Económico y Social será de cuatro años, a partir de su nombramiento, y será renovable por períodos de la misma duración.
+2. Habiendo expirado el período del mandamiento correspondiente, los miembros del Consejo Económico y Social seguirán en funciones hasta la toma de posesión de los nuevos miembros.
+
+### Artículo 7
+
+Artículo 7. Cese.
+1. Los miembros del Consejo Económico y Social cesarán en sus funciones por alguna de las causas siguientes:
+a) Expiración del plazo de su nombramiento.
+b) A propuesta de las organizaciones o instituciones que promovieron su nombramiento.
+c) Renuncia expresa, aceptada por la Presidencia del Consejo Económico y Social y, en caso de renunciar el Presidente o la Presidenta, por el Gobierno.
+d) Incapacidad declarada por decisión judicial firme.
+e) Condena por delito doloso, en virtud de sentencia firme.
+f) Por incumplimiento del deber de reserva que comporta el ejercicio del cargo.
+g) Por incompatibilidad sobrevenida.
+h) Por pérdida de la condición política de ciudadano de las Illes Balears.
+i) Por la votación en contra de los dos tercios del Pleno del Consejo, sólo en lo referente a la Presidencia, en una votación realizada a este efecto.
+j) Por defunción.
+2. El cese se acordará por Decreto del Consejo de Gobierno. En los casos previstos en los apartados f) y g) se requerirá la audiencia de la persona interesada y el informe del Pleno del Consejo Económico y Social.
+3. Cualquier vacante anticipada, que no sea por finalización de mandato, será cubierta por la organización, asociación o institución que corresponda, en la forma establecida para la designación o propuesta respectivas. El mandato del nuevo miembro finalizará al mismo tiempo que el del resto de los componentes del Consejo Económico y Social.
+
+### Artículo 8
+
+Artículo 8. Incompatibilidades.
+La condición de miembro del Consejo Económico y Social es incompatible con el ejercicio de los cargos o de las funciones siguientes:
+a) Diputado del Parlamento de las Illes Balears.
+b) Miembro del Congreso de los Diputados, del Senado o del Parlamento Europeo.
+c) Miembro del Gobierno, alto cargo político o cualquier otro cargo que implique mandato representativo del Estado, de las Comunidades Autónomas, de los Consejos Insulares o de las entidades locales.
+d) Se mantienen en servicio activo las personas que son funcionarios públicos y tienen la condición de miembros del Consejo, si han optado por esta situación. Los miembros del Consejo y las personas que ocupen la Presidencia o la Secretaría General, que sean funcionarios y que, por su dedicación especial, no puedan optar por seguir en servicio activo, pasarán a la situación de servicios especiales.
+e) Se presumirá que todos los miembros del Consejo Económico y Social son compatibles y, en el momento de la toma de posesión, se ha de realizar la declaración jurada correspondiente de compatibilidad o, si es procedente, la renuncia expresa al cargo.
+
+## TÍTULO III
+
+Órganos y funcionamiento del Consejo Económico y Social
+
+### Artículo 9
+
+Artículo 9. De los órganos del Consejo Económico y Social.
+El Consejo Económico y Social se estructura en órganos unipersonales y en órganos colegiados.
+1. Son órganos unipersonales los siguientes:
+a) El Presidente.
+b) Los Vicepresidentes.
+c) El Secretario general.
+2. Son órganos colegiados los siguientes:
+a) El Pleno.
+b) La Comisión Permanente.
+c) Las Comisiones de Trabajo.
+
+### Artículo 10
+
+Artículo 10. Presidente.
+1. El Presidente del Consejo Económico y Social será nombrado por Decreto del Consejo de Gobierno, a propuesta conjunta de los Consejeros competentes en materia económica y de trabajo, habiendo consultado previamente con los grupos de representación que integran el Consejo. En cualquier caso, la propuesta debe ser apoyada, como mínimo, por los dos tercios de las personas miembros del Consejo.
+2. Corresponderá al Presidente del Consejo Económico y Social el ejercicio de las siguientes funciones:
+a) La dirección y representación de la institución.
+b) Convocar las sesiones de los órganos colegiados, presidirlas cuando corresponda y moderar su desarrollo.
+c) Fijar el orden del día de las sesiones del Pleno y de las Comisiones.
+d) Ejercer el voto de calidad en caso de empate en las votaciones.
+e) Visar las actas, ordenar la publicación de los acuerdos y disponer su cumplimiento.
+f) Las funciones que se le atribuyan reglamentariamente.
+3. La persona titular de la Presidencia del Consejo Económico y Social tiene la consideración orgánica de alto cargo de la Administración de la comunidad autónoma de las Illes Balears.
+Se añade el apartado 3 por el art. 5 de la Ley 5/2009, de 17 de junio. Ref. BOE-A-2009-11934
+
+### Artículo 11
+
+Artículo 11. Vicepresidentes.
+1. El Consejo Económico y Social tendrá dos Vicepresidentes elegidos por el Pleno, por mayoría simple en votación secreta, a propuesta, cada uno de ellos, de los miembros representantes de las organizaciones empresariales y de los representantes de las organizaciones sindicales, respectivamente.
+2. Esta elección será notificada al Consejo de Gobierno de las Illes Balears.
+3. Los Vicepresidentes substituirán al Presidente, por el orden de prelación que fije el Pleno, en los supuestos de vacante, ausencia o enfermedad, y podrán ejercer, además, las funciones que expresamente les delegue el Presidente.
+
+### Artículo 12
+
+Artículo 12. Secretaría General.
+1. La Secretaría General es el órgano de asistencia técnica y de administración del Consejo Económico y Social y el depositario de la fe pública en relación con sus acuerdos.
+2. El titular de la Secretaría, que no tiene calidad de miembro del Consejo Económico y Social, será nombrado y separado del cargo libremente por el Consejo de Gobierno, a propuesta presentada, conjuntamente, por los Consejeros con competencias en materia económica y de trabajo.
+3. Las funciones de la Secretaría General son las siguientes:
+a) Asistir, con voz y sin voto, a las sesiones del Pleno, de la Comisión Permanente y de las Comisiones de Trabajo.
+b) Redactar las actas de las sesiones, autorizarlas con su firma y el visto bueno del Presidente y cursar los acuerdos que en ellas se adopten.
+c) Custodiar la documentación.
+d) Expedir certificado de las actas, de los acuerdos, de los dictámenes, de los votos particulares y de otros documentos confiados a su custodia.
+e) Dirigir la gestión de los medios personales y materiales.
+f) Despachar los asuntos ordinarios y aquellos otros que se le encomienden especialmente.
+g) Notificar a los miembros del Consejo Económico y Social las convocatorias correspondientes para las sesiones de los órganos colegiados.
+h) Dejar constancia, mediante diligencia autenticada con su firma y la del Presidente, de que no se lleven a cabo las sesiones debidamente convocadas, así como de las causas que motivan esta situación y del nombre de las personas que, no obstante, están presentes en el lugar y a la hora previstos para el inicio de la sesión no llevada a cabo.
+i) Cualquier otra función que le sea asignada por delegación expresa del Pleno y todas aquellas que, sin ser particularizadas, sean inherentes a la condición de Secretario.
+4. La persona titular de la Secretaría General tiene la consideración orgánica de alto cargo de la Administración de la comunidad autónoma de las Illes Balears.
+Se añade el apartado 4 por el art. 6 de la Ley 5/2009, de 17 de junio. Ref. BOE-A-2009-11934
+
+### Artículo 13
+
+Artículo 13. Del Pleno del Consejo Económico y Social.
+1. El Pleno es el órgano superior de decisión y formación de la voluntad del Consejo Económico y Social y está integrado por la totalidad de sus miembros, bajo la dirección del Presidente y asistido por el Secretario general.
+2. Son competencias del Pleno:
+a) Elaborar y aprobar el Reglamento interno de organización y funcionamiento por mayoría de dos tercios de sus miembros y remitirlo al Consejo de Gobierno para que lo apruebe y lo publique.
+b) Elaborar y aprobar la propuesta de presupuestos del Consejo Económico y Social.
+c) Adoptar los acuerdos que correspondan respecto del ejercicio de las funciones que tiene atribuidas el Consejo Económico y Social.
+d) Pronunciarse sobre la ratificación y la separación del Presidente del Consejo, de acuerdo con lo que disponen los artículos 7.1 y 10.1 de esta Ley.
+e) Aprobar la Memoria anual.
+f) Elegir a los Vicepresidentes.
+g) Aquellas otras que no estén asignadas de manera expresa a otros órganos del Consejo Económico y Social.
+
+### Artículo 14
+
+Artículo 14. Funcionamiento del Pleno.
+1. El Pleno se reúne en sesión ordinaria, como mínimo, una vez cada semestre. Asimismo, se puede reunir con carácter extraordinario a iniciativa del presidente o la presidenta de la Comisión Permanente o de un número de miembros que representen un tercio del total.
+2. El Pleno del Consejo Económico y Social quedará válidamente constituido, en primera convocatoria, cuando asistan, como mínimo, dos tercios de sus miembros, incluido el Presidente. En segunda convocatoria, será suficiente la asistencia de la mitad más uno de sus miembros.
+Si no estuviese presente el Secretario general, el Presidente designará, de entre todos los miembros presentes, la persona que deba realizar las funciones de Secretario en aquella sesión.
+3. Los acuerdos del Pleno se adoptarán por mayoría de sus miembros, excepto en los casos en que, de acuerdo con esta Ley, se exija una mayoría especial.
+4. El Presidente deshará los empates mediante su voto de calidad.
+5. Los miembros presentes que discrepen de la decisión mayoritaria pueden formular votos particulares que, habiéndolos firmado, se unirán al acuerdo adoptado.
+6. Las sesiones del Pleno no tienen carácter público, sin perjuicio de que, en determinados casos o circunstancias, pueda darse audiencia a los grupos representativos de actividades económicas o sociales de acuerdo con lo que dispone el artículo 2.3 de esta Ley.
+7. Las opiniones del Consejo se expresan bajo la denominación de Dictamen del Consejo Económico y Social de las Illes Balears y no son vinculantes. La emisión de los dictámenes se realiza de acuerdo con lo que dispone esta Ley.
+8. El Reglamento de organización y funcionamiento desarrollará la manera en que el Consejo Económico y Social documentará cada uno de sus dictámenes.
+Se modifica el apartado 1 por la disposición final 2.1 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 15
+
+Artículo 15. La Comisión Permanente.
+1. La Comisión Permanente, bajo la dirección del Presidente y asistida por el Secretario general, tendrá las competencias que se determinen reglamentariamente y aquellas que le correspondan por delegación del Pleno.
+2. La Comisión Permanente estará integrada por el Presidente y dos Vocales por cada uno de los grupos que componen el pleno, elegidos por mayoría simple por el Pleno, a propuesta de cada uno de los grupos respectivos.
+
+### Artículo 16
+
+Artículo 16. Las Comisiones de Trabajo.
+1. Las Comisiones de Trabajo son grupos de estudio para elaborar informes, proyectos o propuestas para someterlos al Pleno del Consejo Económico y Social.
+2. El Pleno puede constituir las Comisiones de Trabajo que crea oportunas y determinará su composición y duración. En la composición de las Comisiones de Trabajo que se creen debe respetarse la proporcionalidad de los diferentes grupos que integran el Consejo Económico y Social.
+3. Cuando deban tratarse cuestiones que afecten específicamente a los sectores correspondientes, pueden intervenir en las sesiones de las Comisiones de Trabajo, en los términos previstos en el Reglamento de organización y funcionamiento, los representantes de las entidades representativas de intereses económicos o sociales que no formen parte de esta institución.
+
+## TÍTULO IV
+
+Régimen económico financiero y de personal del Consejo Económico y Social
+
+### Artículo 17
+
+Artículo 17. Régimen económico.
+1. El Consejo Económico y Social contará, para el cumplimiento de sus fines, con los recursos económicos que a este efecto se le asignen en los Presupuestos Generales de la Comunidad Autónoma de las Illes Balears.
+2. El Consejo elaborará y aprobará su propuesta anual de presupuestos, que remitirá al Gobierno con los efectos previstos en la Ley 1/1986, de 5 de febrero, de Finanzas de la Comunidad Autónoma de las Illes Balears.
+3. El Consejo Económico y Social queda sometido a la fiscalización y al control presupuestario de la Intervención General de las Illes Balears.
+4. La actuación del Consejo Económico y Social en materia de contratación debe regirse por los principios de publicidad, concurrencia y transparencia, y ajustarse a las disposiciones de la Ley 30/2007, de 30 de octubre, de contratos del sector público, y a su normativa de desarrollo.
+Se añade el apartado 4 por el art. 7 de la Ley 5/2009, de 17 de junio. Ref. BOE-A-2009-11934
+
+### Artículo 18
+
+Artículo 18. Régimen de personal.
+1. El personal al servicio del Consejo Económico y Social, de acuerdo con lo que establezca la correspondiente relación de puestos de trabajo, podrá estar vinculado mediante una relación sujeta a derecho laboral.
+2. Los funcionarios de cualquier administración pública podrán ocupar, por cualquiera de los sistemas previstos legalmente, los puestos de trabajo del Consejo Económico y Social reservados a funcionarios, de acuerdo con lo que establezca la correspondiente relación de puestos de trabajo.
+3. La selección del personal y la provisión de los puestos de trabajo deberán realizarse mediante convocatoria pública y deberán sujetarse a los principios de mérito y capacidad.
+Se modifica por la disposición adicional 3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 19
+
+Artículo 19. Indemnizaciones.
+Los miembros del Consejo Económico y Social tienen derecho a la percepción, en su caso, de indemnizaciones por gastos de desplazamiento, de estancia y de asistencia a las sesiones que se realicen, de acuerdo con lo que dispongan el Reglamento de organización y funcionamiento y otras disposiciones dictadas en aplicación de esta Ley.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se añade al artículo 2.2 de la Ley 2/1996, de 19 de noviembre, de Incompatibilidades de los Miembros del Gobierno y Altos Cargos de la Comunidad Autónoma de las Illes Balears, el apartado que se relaciona a continuación con el contenido literal siguiente:
+«j) El Presidente y los Vicepresidentes del Consejo Económico y Social de las Illes Balears, cuando estos cargos sean retribuidos.»
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Cuando alguna de las organizaciones representadas en el Consejo Económico y Social sufriera alteración de su representatividad, de conformidad con la normativa en cada caso aplicable, el Consejo Económico y Social adaptará la configuración al nuevo estado en el plazo de dos meses, contados a partir de la acreditación de esta circunstancia.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. En el plazo de los treinta días siguientes a la entrada en vigor de esta Ley, se designarán los miembros del Consejo Económico y Social.
+2. Habiéndose realizado las designaciones, el Consejo de Gobierno, en los treinta días siguientes, los nombrará y convocará la sesión constitutiva. En esta sesión, y mientras no se nombren el Presidente y el Secretario, ocuparán estos cargos los miembros de mayor y menor edad, respectivamente.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Se autoriza al Gobierno a efectuar las dotaciones necesarias en los Presupuestos Generales de la Comunidad Autónoma de las Illes Balears, para el funcionamiento del Consejo hasta que se apruebe su presupuesto.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+El Reglamento de organización y funcionamiento se ha de redactar en el plazo máximo de seis meses, contados a partir de la entrada en vigor de esta Ley.
+Mientras no se apruebe el Reglamento de organización y funcionamiento del Consejo Económico y Social, le será de aplicación directa la regulación contenida en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999.
+
+### Disposición final primera
+
+Disposición final primera.
+El Gobierno de las Illes Balears puede dictar las normas reglamentarias y las disposiciones administrativas que sean necesarias para el desarrollo y la aplicación de esta Ley.
+Los Consejeros de Interior y de Hacienda y Presupuestos habilitarán los medios necesarios para dotar al Consejo Económico y Social de los medios personales y materiales necesarios para su funcionamiento.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Esta Ley entrará en vigor al día siguiente de su publicación en el «Butlletí Oficial de las Illes Balears».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que correspondan la hagan guardar.
+Palma, 30 de noviembre de 2000.–El Consejero de Trabajo y Formación Eberhard Grosske Fiol.–El Presidente Francesc Antich I Oliver,
+
+## [Información relacionada] 
+
+Información relacionada
+ Téngase en cuenta que se deja sin efecto las suspensiones de la Ley 16/2012, de 27 de diciembre Ref. BOE-A-2013-632, por Acuerdo de 29 de abril de 2016. Ref. BOIB-i-2016-90557
+ Se suspende la vigencia de esta norma, con efectos de 30 de diciembre de 2012, por la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2013-632

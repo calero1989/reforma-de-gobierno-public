@@ -1,0 +1,633 @@
+# Ley 8/2014, de 1 de agosto, del juego y las apuestas en las Illes Balears.
+
+- Identificador BOE: `BOE-A-2014-8888`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2014-8888
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 48.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+I
+El sector del juego tiene una elevada transcendencia tanto desde el punto de vista económico como social en las Illes Balears. Una muestra de ello es el elevado número de empresas operadoras, fabricantes, titulares de salones y establecimientos de juego existentes, así como de casinos, bingos y salas de juego ubicados en nuestro territorio. Todo este entramado genera no solo una actividad económica dinámica y activa, con más de cuatro mil puestos de trabajo en el sector, sino también un volumen de ingresos por tasas fiscales y administrativas de aproximadamente 32 millones de euros.
+El artículo 30.29 del Estatuto de Autonomía, según la redacción dada por la Ley Orgánica 1/2007, de 28 de febrero, de reforma del Estatuto de Autonomía de las Illes Balears, atribuye a esta comunidad autónoma la competencia exclusiva en materia de casinos, juegos y apuestas, con exclusión de las apuestas mutuas deportivo-benéficas.
+En virtud del Real Decreto 123/1995, de 27 de enero, se traspasan las funciones y los servicios en materia de casinos, juegos y apuestas de la Administración General del Estado a la comunidad autónoma de las Illes Balears.
+A pesar de que la citada competencia ha sido ejercida por esta comunidad autónoma mediante la aprobación de un importante número de decretos y órdenes, incluyendo determinados artículos en leyes transversales, hasta la fecha no se había abordado la elaboración de una norma jurídica con rango de ley en materia de juego.
+Asimismo, la publicación de la Ley 13/2011, de 27 de mayo, de regulación del juego, a nivel estatal, ha supuesto un hecho clave para decidir la remodelación de la normativa autonómica, empezando por la elaboración de una ley moderna que constituya un marco de referencia y soporte legal a la normativa existente hasta ahora.
+La necesidad de que esta comunidad autónoma se dotara de una ley sobre el juego y las apuestas era sentida desde tiempo atrás por los diversos agentes que intervienen en la actividad del juego. Incluso el Consejo Consultivo en varias ocasiones se ha pronunciado en el sentido de manifestar en sus dictámenes (86/2001, 70/2002, 105/2004, 16/2005, 17/2005, 96/2009 y 31/2012) sobre normas reglamentarias en materia de juego su preocupación en relación con la reserva de ley en materia de juego, insistiendo en la necesidad de dar cobertura legal a toda la relación de disposiciones reglamentarias existente en la materia.
+La carencia de una norma con rango de ley, suplida hasta el momento mediante la publicación de disposiciones reglamentarias, ha generado que este último cuerpo normativo se halle huérfano de un marco legal común de referencia.
+En consecuencia, la presente ley surge bajo el imperativo de dotar de coherencia el ordenamiento propio de ese sector, de cumplir con los mandatos constitucionales de reserva de ley en algunas parcelas, como la sancionadora, y de proporcionar a las potenciales personas usuarias, a las personas trabajadoras y a las personas empresarias del sector, así como a la misma administración pública gestora, un marco de actuación con las debidas garantías. El establecimiento de unas líneas básicas en política de juego y apuestas configura la seguridad jurídica necesaria del sector.
+La práctica del juego de azar es una conducta como tal susceptible de crear adicción (ludopatía y/o juego patológico), por lo que las ludopatías (catalogadas como adicciones psicológicas y/o sin sustancia), así como las drogodependencias, están reguladas en la Ley 4/2005, de 29 de abril, sobre drogodependencias y otras adicciones en las Illes Balears.
+Esta ley constituye un marco de referencia que, con vocación de permanencia en el tiempo, regule los principios y los aspectos básicos del juego y las apuestas en nuestro territorio, que se adapte a las nuevas disposiciones comunitarias en relación con determinadas máquinas recreativas y otras modalidades de juego, y que dé un mínimo soporte normativo a la nueva realidad impuesta por los avances electrónicos y telemáticos en este sector.
+Se trata de llevar a cabo una regulación sucinta que haga posible el cumplimiento de unos objetivos mínimos, como son los de hacer visible la competencia de la comunidad autónoma en relación con la actividad del juego y las apuestas, y la exigencia de autorización administrativa para estas actividades.
+La Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, excluye de su ámbito de aplicación el juego por dinero que implique apuestas de valor monetario en juegos de azar, incluidas las loterías, el juego en los casinos y las apuestas, habida cuenta de la especificidad de dichas actividades, que entrañan por parte de los estados la aplicación de políticas relacionadas con el orden público y la protección de los consumidores.
+La Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado (en adelante, LGUM), establece una serie de principios sobre el libre acceso a las actividades de servicios y su ejercicio, que deben aplicarse a cualquier actividad económica a desarrollar en el territorio nacional.
+En concreto, el régimen de intervención mediante autorizaciones para el acceso y ejercicio de actividades económicas en materia de juego y apuestas que ahora se regula podría afectar al principio de necesidad y proporcionalidad de las actuaciones, recogido en el artículo 5 de la LGUM. Dicho artículo recoge la excepcionalidad a esta intervención, que debe motivarse en la salvaguarda de alguna razón imperiosa de interés general de entre las comprendidas en el artículo 3.11 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio: el orden público, la seguridad pública, la protección civil, la salud pública, la preservación del equilibrio financiero del régimen de seguridad social, la protección de los derechos, la seguridad y la salud de los consumidores, de los destinatarios de servicios y de los trabajadores, las exigencias de la buena fe en las transacciones comerciales, la lucha contra el fraude, la protección del medio ambiente y del entorno urbano, la sanidad animal, la propiedad intelectual e industrial, la conservación del patrimonio histórico y artístico nacional, y los objetivos de la política social y cultural.
+Es decir, los conceptos de orden público, salud pública, protección de los derechos, seguridad y salud de los consumidores y de los destinatarios de servicios, así como el de lucha contra el fraude son definidos como razones imperiosas de interés general. En este caso, las características intrínsecas del sector del juego y las apuestas generan la necesidad de establecer especiales mecanismos de regulación que den seguridad jurídica a operadores y participantes en los diferentes juegos, y que garanticen la imprescindible protección de los menores de edad y de las personas que hayan solicitado voluntariamente la no participación, y del orden público en el desarrollo del juego. La práctica del juego de azar es una conducta como tal susceptible de crear adicción y, por lo tanto, con esta nueva regulación se tiene que asegurar una mayor eficacia en el cumplimiento de los objetivos ineludibles de tutela y protección social de los menores y de los participantes en los juegos.
+La intervención pública en materia de juego, tanto desde el punto de vista histórico como desde la perspectiva del derecho comparado, se ha justificado siempre con el objetivo de evitar fraudes, adicciones o, en definitiva, consagrar una adecuada protección del jugador ante posibles abusos por parte de las personas que se dedican profesionalmente a esta actividad con carácter lucrativo.
+Dada esta especial protección a consumidores y destinatarios del sector, así como la obligación de garantizar el orden público en el desarrollo del juego y la salud pública, que se tienen que dar en esta norma, se ha considerado que se dan «razones imperiosas de interés general» que justifican mantener dicho régimen de intervención mediante autorizaciones para el acceso y ejercicio de actividades económicas en materia de juego. En cuanto al resto de principios establecidos en la LGUM, están recogidos en el artículo 8.4, en la disposición adicional segunda, así como en el resto del articulado.
+Estas mismas razones imperiosas son las que justifican los efectos desestimatorios del silencio administrativo en lo que se refiere al régimen de las autorizaciones en materia de juego y apuestas regulado en la ley.
+La publicación de la Ley 8/2012, de 19 de julio, del turismo de las Illes Balears, ha introducido conceptos, clasificaciones y categorías de las empresas turísticas distintos a los existentes con la normativa turística anterior. Así, se han utilizado en el articulado de la Ley del Juego los conceptos y las clasificaciones actuales con relación a los establecimientos que pueden ser autorizados para la práctica de juegos y apuestas.
+Los principios de simplificación administrativa y de cargas, el de simplificación documental de los procedimientos administrativos, el de comunicación y tramitación de expedientes por medios telemáticos e interactivos, todos ellos recogidos en nuestro Decreto 6/2013, de 8 de febrero, rigen el espíritu de la presente ley.
+II
+La ley consta de 38 artículos (distribuidos en seis títulos), seis disposiciones adicionales, tres transitorias, una derogatoria y tres finales.
+El título I (artículos 1 a 7) se dedica a las disposiciones generales sobre la materia, el ámbito de aplicación, la distribución de competencias y los criterios o principios que vertebran la actividad del sector. El título II (artículos 8 a 16) prevé la regulación de los establecimientos y las modalidades de juego y apuestas. El título III (artículos 17 a 22) recoge las empresas de juego. El título IV (artículos 23 y 24) trata de los derechos y las obligaciones de las personas usuarias, así como de las prohibiciones de acceso de estas a los establecimientos. El título V (artículos 25 y 26) dispone las normas básicas sobre inspección y control. Finalmente, el título VI (artículos 27 a 38) regula el régimen sancionador.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación de la ley.
+1. Esta ley tiene por objeto regular, en el ámbito territorial de la comunidad autónoma de las Illes Balears, las actividades relativas al juego y las apuestas en sus distintas modalidades y denominaciones.
+2. Se incluye en el objeto de esta ley la regulación de:
+a) Todas aquellas actividades en las que se arriesguen cantidades de dinero u objetos económicamente evaluables en cualquier forma, sobre resultados futuros e inciertos, y que permitan su transferencia entre las personas participantes, con independencia de que predomine en ellos el grado de destreza de las personas jugadoras o sean exclusiva o primordialmente de suerte, envite o azar, y tanto si se desarrollan a través de actividades humanas como mediante la utilización de máquinas automáticas, canales electrónicos, informáticos, telemáticos o interactivos, incluyendo los establecimientos donde se realice la gestión y explotación del juego y las apuestas.
+b) Las empresas dedicadas a la gestión y explotación de juegos y de apuestas, a la fabricación de materiales de juego y actividades conexas.
+c) Los locales donde se realizan la gestión y explotación de juegos y de apuestas, así como aquellos donde se producen los resultados condicionantes.
+d) Las personas que intervengan en la gestión, explotación y práctica de los juegos y apuestas.
+e) La advertencia y prevención de posibles repercusiones en las personas usuarias, sus familias y la sociedad por el uso abusivo del juego.
+3. Quedan excluidos del ámbito de aplicación de esta ley:
+a) Los juegos o competiciones de puro pasatiempo o recreo en los que no concurra el requisito de explotación lucrativa y las transferencias producidas no vayan más allá de los usos sociales de carácter tradicional, familiar o amistoso. Todo ello, sin perjuicio de lo establecido en la disposición adicional cuarta de esta ley.
+b) Las máquinas recreativas o de tipo A, así como los salones recreativos en los que solo se instalen este tipo de máquinas. Igualmente, se excluyen las empresas que exclusivamente tengan por objeto la explotación de estas máquinas o salones, por lo que no requieren de la autorización administrativa prevista en esta ley para su instalación y funcionamiento así como tampoco de la homologación e inscripción en los registros de modelos y de empresas regulados reglamentariamente.
+c) Las apuestas mutuas deportivo-benéficas y los juegos y las apuestas de ámbito estatal.
+
+### Artículo 2
+
+Artículo 2. Principios generales de ordenación.
+1. La regulación, organización, explotación y práctica del juego y de las apuestas en la comunidad autónoma de las Illes Balears se tiene que inspirar en políticas de juego responsable, y debe observar en todo momento los siguientes principios:
+a) La transparencia, la salvaguarda del orden y la seguridad en el desarrollo de los juegos y las apuestas.
+b) La diversificación empresarial del juego y las apuestas, favoreciendo la transparencia en el mercado y la concurrencia en condiciones de igualdad de las personas físicas y jurídicas dedicadas a la explotación de los juegos y las apuestas.
+c) La prevención de perjuicios a terceras personas, especialmente a los sectores más vulnerables como menores de edad o personas imposibilitadas.
+d) La prevención y la prohibición de actividades monopolísticas y oligopolísticas así como de prácticas fraudulentas en el desarrollo de los juegos y las apuestas, y en la actividad de personas empresarias y jugadoras.
+e) La garantía del pago de premios.
+2. La comunicación y la tramitación de expedientes podrá realizarse por medios telemáticos e interactivos, en la forma y conforme a los procedimientos que establezca la comunidad autónoma de las Illes Balears.
+
+### Artículo 3
+
+Artículo 3. Autorizaciones.
+1. La realización de cualquier actividad incluida en el ámbito de esta ley requiere la previa autorización administrativa.
+En ningún caso se podrán otorgar nuevas autorizaciones para instalar establecimientos específicos de juego (salones de juego, locales específicos de apuestas, casinos, bingos) en una zona inferior a quinientos metros medidos radialmente desde el límite más cercano a toda edificación que albergue centros de personas tratadas o en tratamiento por juego patológico, centros de enseñanza de personas menores de edad, zonas de ocio para personas menores de edad y centros permanentes de atención a las personas menores de edad. Tampoco se podrá autorizar la instalación de salones de juego cuando haya otro, ya autorizado, a una distancia inferior a quinientos metros. Estas limitaciones operan tanto respecto a otros salones del mismo término municipal del solicitado, como respecto a salones existentes en otros términos limítrofes.
+A los efectos de la presente ley, se consideran centros de enseñanza a personas menores de edad todos aquellos centros autorizados de enseñanza de personas menores de edad, de acuerdo con la normativa sectorial educativa, y los centros de atención a los menores con edades comprendidas entre 0 y 3 años.
+A los efectos de la presente ley, se consideran zonas de ocio para personas menores de edad aquellas áreas recreativas infantiles ubicadas en parques públicos y todas las zonas deportivas destinadas a la infancia y la juventud incluidas en el planeamiento municipal.
+A los efectos de la presente ley, se consideran centros de atención permanente a las personas menores de edad todos los centros incluidos en la Ley 9/2019, de 19 de febrero, de la atención y los derechos de la infancia y la adolescencia de las Illes Balears.
+A los efectos de la presente ley, se consideran centros de personas tratadas o en tratamiento por juego patológico aquellos centros que tienen por finalidad la rehabilitación de los usuarios.
+2. Las autorizaciones y los permisos se otorgarán cuando se cumplan los requisitos establecidos en la ley y en las disposiciones reglamentarias que la desarrollen. En todo caso, las personas titulares de las autorizaciones deben estar al corriente en el cumplimiento de las obligaciones tributarias y de la Seguridad Social.
+En los casos de necesidad de movilidad de algún establecimiento por razón de alquiler o similar, y siempre que la autorización siga vigente, podrá desplazarse siempre respetando las distancias establecidas, mientras dure la autorización todavía vigente, previas comunicación y autorización.
+3. Las autorizaciones tendrán carácter temporal, y han de señalar de forma explícita a sus titulares, el tiempo por el que se conceden, las actividades autorizadas y las condiciones, y los lugares en los que pueden ser practicadas, indicando las características que estos deben poseer. Asimismo, serán renovables cuando así se determine reglamentariamente.
+En cualquier caso, la renovación de las autorizaciones lleva aparejado el cumplimiento de las condiciones y los requisitos exigidos en la autorización inicial y/o en las modificaciones autorizadas posteriormente.
+4. Para desarrollar la actividad de juego y apuestas en un determinado establecimiento se requiere la obtención previa de la autorización o licencia o comunicación exigida en la normativa sectorial correspondiente, que se debe acreditar según se determine reglamentariamente.
+5. Las autorizaciones podrán revocarse si durante su período de vigencia se pierden las condiciones o se incumplen las obligaciones que se deriven de su otorgamiento o modificación posterior autorizada y, así mismo, por incumplimiento de las obligaciones tributarias en materia de juego. El órgano competente en materia de juego podrá de oficio recabar de la Agencia Tributaria de las Illes Balears y de las personas titulares de las autorizaciones el cumplimiento de dichas obligaciones tributarias.
+También podrán revocarse las autorizaciones cuando no se constituyan las fianzas correspondientes, no se actualicen o no se repongan en plazo.
+6. Los efectos del silencio en materia de juego y apuestas son siempre desestimatorios.
+7. Las autorizaciones serán transmisibles en los casos y las condiciones que reglamentariamente se determinen, siempre previo conocimiento de la Administración.
+8. No pueden ser titulares de las autorizaciones necesarias para la organización y explotación de los juegos o las apuestas reguladas por esta ley las personas físicas y jurídicas que se encuentren en alguna de las siguientes circunstancias:
+a) Haber sido condenadas dentro de los cinco años anteriores a la fecha de la solicitud mediante sentencia firme por delito de falsedad, contra las personas, contra la salud pública, contra la propiedad, contra la hacienda pública o contra la Seguridad Social.
+b) Haber sido declaradas insolventes en cualquier procedimiento, hallarse declaradas en concurso salvo que en este haya adquirido eficacia un convenio con los acreedores, o estar sujetas a intervención judicial.
+c) Haber sido sancionadas mediante resolución firme por tres o más infracciones muy graves en los últimos cinco años por incumplimiento de la normativa de juego, o haber sido sancionadas mediante resolución firme por dos o más infracciones tributarias graves, en los últimos cinco años, por tributos sobre el juego y las apuestas.
+d) Haber sido condenadas, mediante resolución firme, a penas o sanciones que lleven aparejada la privación de derechos o que supongan la inhabilitación absoluta o la especial para empleo, profesión, oficio, industria o comercio.
+La incursión en alguna de las circunstancias mencionadas con posterioridad al otorgamiento de la autorización llevará aparejada la revocación inmediata de ésta y no podrá volver a solicitarse durante un período de cinco años desde la revocación.
+9. Las prohibiciones establecidas en el apartado anterior son de aplicación a las personas físicas y jurídicas que sean socias, directivas o administradoras de otras entidades siempre que:
+a) Tengan una participación superior al 50%.
+b) Tengan poder de dirección, gestión o control de la entidad titular de la autorización.
+Se modifican los apartados 1 y 2 por el art. único.1 y 2 de la Ley 9/2023, de 3 de abril. Ref. BOE-A-2023-13803
+
+### Artículo 4
+
+Artículo 4. Competencias de los órganos de la comunidad autónoma.
+1. Al Consejo de Gobierno le corresponden las siguientes competencias en materia de juego:
+a) Aprobar la planificación general del sector, teniendo en cuenta la realidad y la incidencia social del juego y de las apuestas y sus repercusiones económicas y tributarias.
+b) Aprobar las normas necesarias para el control y dirección de los juegos y apuestas.
+c) Fomentar una política integral del juego responsable para sensibilizar, informar y difundir las buenas prácticas del juego, todo ello con la necesaria colaboración de las empresas y los sectores afectados.
+2. A la persona titular de la consejería competente en materia de juegos y apuestas:
+a) Conceder las autorizaciones necesarias para organizar, gestionar y explotar los juegos y las apuestas.
+b) Aprobar el Catálogo de Juegos y Apuestas y, en su caso, las modalidades y los tipos.
+c) Ordenar y ejercer la inspección, la comprobación, la vigilancia y el control de las actividades relacionadas con los juegos y las apuestas.
+d) Regular el régimen de publicidad del juego y las apuestas, de acuerdo con la realidad e incidencia social de la actividad, sus repercusiones económicas y tributarias, y la necesidad de reducir, diversificar y no fomentar el hábito, e impedir su gestión en situaciones de monopolio.
+e) Regular y gestionar el Registro General del Juego.
+f) Fijar y homologar las características técnicas de los elementos e instrumentos de los juegos y las apuestas.
+g) Incoar los expedientes sancionadores e imponer sanciones en los supuestos previstos en esta ley.
+Se modifica la letra a) del apartado 1 por el art. único.3 de la Ley 9/2023, de 3 de abril. Ref. BOE-A-2023-13803
+
+### Artículo 5
+
+Artículo 5. Catálogo de Juegos y Apuestas.
+1. El Catálogo de Juegos y Apuestas es el instrumento básico de ordenación de los juegos de suerte, envite y azar, constituyendo el inventario de aquellos cuya práctica puede ser autorizada, con sujeción a los restantes requisitos reglamentariamente establecidos. Este catálogo, que se aprobará por el consejero o la consejera competente, contiene la denominación, las modalidades posibles, los elementos y las personas necesarias para practicar los juegos autorizables, las reglas básicas y los límites de cada uno de ellos.
+2. En dicho catálogo se incluirán, en todo caso, los siguientes juegos y apuestas:
+a) Las loterías.
+b) Los boletos.
+c) El bingo, en sus distintas modalidades.
+d) Los exclusivos de los casinos de juego.
+e) Los juegos colectivos de dinero y azar.
+f) Los que se desarrollen mediante el empleo de máquinas recreativas con premio y máquinas de azar.
+g) Las rifas, las tómbolas y las combinaciones aleatorias.
+h) Las apuestas sobre acontecimientos deportivos, sobre carreras en que intervengan animales en hipódromos y canódromos o sobre acontecimientos de otro carácter previamente determinados.
+3. Tendrán la consideración de juegos exclusivos de los casinos de juego los siguientes:
+a) Ruleta francesa.
+b) Ruleta americana.
+c) Bola o boule.
+d) Veintiuno o blackjack.
+e) Treinta y cuarenta.
+f) Punto y banca.
+g) Ferrocarril, bacará o chemin de fer en sus distintas modalidades.
+h) Dados.
+i) Póquer, en sus distintas modalidades.
+j) Los desarrollados mediante máquinas de azar o de tipo C.
+k) Otros que puedan autorizarse reglamentariamente.
+4. Los juegos o las apuestas desarrollados mediante el empleo de máquinas o terminales telemáticos deben ser igualmente catalogados.
+5. Se consideran prohibidos aquellos juegos y apuestas no incluidos en el Catálogo. Igual consideración tendrán aquellos que, aun estando incluidos en el referido catálogo, se realicen sin las preceptivas autorizaciones o con incumplimiento de las condiciones y los requisitos exigidos en ellas.
+6. La autorización de un juego o apuesta, o una modalidad, implicará de manera automática su inclusión en el Catálogo de Juegos y Apuestas.
+
+### Artículo 6
+
+Artículo 6. Registro General del Juego de las Illes Balears.
+1. El Registro General del Juego de las Illes Balears, como instrumento de publicidad y control de las actividades relacionadas con el juego y las apuestas, recoge los datos relativos a:
+a) Las personas físicas o jurídicas que se dediquen a la explotación u organización de cualquier juego o apuesta, y a la fabricación, la importación, la comercialización o el mantenimiento de las máquinas o de cualquier material relacionado con el juego.
+b) Las personas con prohibiciones de acceso.
+c) Los establecimientos autorizados para la práctica del juego y las apuestas.
+d) Las máquinas de juego, modelos, sistemas de interconexión, datos de identificación e instalación y los permisos de explotación.
+e) Cualesquiera otros datos de interés relativos a la actividad de juego, así como cualquier modificación que se produzca en ellos.
+2. La inscripción en el Registro se tiene que hacer de oficio, y es requisito indispensable para el desarrollo de la actividad de juego o apuesta en el territorio de las Illes Balears.
+3. Reglamentariamente se regulará la organización, el funcionamiento y el acceso público a los datos del Registro, que debe tener carácter público, con las limitaciones previstas en la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal, a los efectos de la transparencia de la actividad.
+
+### Artículo 7
+
+Artículo 7. Publicidad y promoción.
+1. Se prohíbe cualquier tipo de publicidad, promoción, patrocinio y cualquier forma de comunicación comercial, incluida aquella que se realice telemáticamente a través de las redes de comunicación social, referidas a las actividades del juego en el ámbito de la comunidad autónoma de las Illes Balears.
+Para los casinos, podrá autorizarse excepcionalmente la elaboración de folletos publicitarios y publicidad dinámica del casino y de sus servicios complementarios, que podrán depositarse en establecimientos turísticos en general, aeropuertos y puertos.
+2. Se prohíben los actos de promoción, los obsequios y las invitaciones de naturaleza dineraria o en forma de vales de descuento o tokens y fichas de apuesta dotadas de valor canjeable por moneda de curso legal de cualquier cuantía que puedan ofrecerse a los jugadores, tanto dentro como fuera de los locales específicos y las zonas de apuestas, los salones de juego, los casinos y los bingos, que tengan por finalidad invitar a jugar sin coste para el usuario o dar a conocer la actividad del juego y de las apuestas en particular.
+3. No se considera publicidad de juego, a los efectos previstos en la presente ley, aquella que se limite a informar de los siguientes aspectos:
+a) Nombre, razón social, domicilio, teléfono, sitio web y dirección de correo electrónico de la empresa de juego y, en su caso, del establecimiento destinado a la práctica de juego.
+b) Horario de apertura y cierre.
+c) Servicios complementarios que preste el establecimiento destinado a la práctica de juego y horario de su prestación.
+4. En la fachada de los establecimientos de juego –incluidas cristaleras, ventanas y puertas– sólo podrá colocarse el nombre comercial, la marca del establecimiento y el anuncio o la expresión «salón de juego», «local específico de apuestas», «zona de apuestas», «bingo» o «casino», sin ningún otro tipo de rotulación o de imágenes que hagan referencia al tipo de establecimiento de que se trate, y, en ningún caso, sin ninguna expresión que pueda incitar al juego.
+5. Se prohíben en las fachadas de los locales de juego y apuestas –incluidas cristaleras, ventanas y puertas– las imágenes que inciten al juego o de elementos de juego, elementos lumínicos que no sirvan de señalización de entradas o de salidas o que no se ajusten a la preceptiva normativa municipal al respecto.
+Se modifica por el art. único.4 de la Ley 9/2023, de 3 de abril. Ref. BOE-A-2023-13803
+
+## TÍTULO II
+
+Establecimientos y modalidades de juego y apuestas
+
+### Artículo 8
+
+Artículo 8. Establecimientos.
+1. Los juegos y apuestas deben practicarse única y exclusivamente en los establecimientos que, reuniendo los requisitos exigidos en esta ley y en las disposiciones que la desarrollen, sean autorizados expresamente para ello.
+2. Pueden ser autorizados para la práctica de juegos y apuestas los siguientes establecimientos:
+a) Casinos de juego.
+b) Salas de bingo.
+c) Salones de juego.
+d) Locales de apuestas.
+e) Hoteles, hoteles de ciudad, hoteles-apartamentos, alojamientos de turismo interior, restaurantes, bares-cafeterías, salas de fiesta, salones de baile, discotecas, cafés-concierto.
+f) En los términos en que se determine reglamentariamente, se pueden autorizar, según cada modalidad de juego y apuesta, otros establecimientos abiertos al público.
+En los términos, las condiciones y los requisitos que reglamentariamente se prevean, las agrupaciones o uniones de empresas titulares de autorizaciones de juego presencial, o estas individualmente, pueden desarrollar de forma remota a través de medios telemáticos, interactivos o de comunicación a distancia, las actividades de juego y apuestas incluidas en el Catálogo de Juegos y Apuestas que tengan autorizadas, excepto en los establecimientos recogidos en el apartado 2.e) de este artículo.
+2. bis. La ampliación de la superficie de un establecimiento de juego autorizado deberá solicitar una nueva autorización, de acuerdo con el apartado 1 de este artículo.
+3. La capacidad y la superficie de los establecimientos, así como las condiciones de funcionamiento, se tienen que determinar reglamentariamente.
+4. La apertura de establecimientos abiertos al público en los que pretendan desarrollar actividades de juegos y apuestas los operadores autorizados por otras administraciones, así como la instalación de equipos que permitan la participación en los citados juegos y apuestas, requieren la obtención previa de la autorización otorgada por el titular del órgano competente en materia de juego de la comunidad autónoma de las Illes Balears, sin perjuicio de lo establecido en la disposición adicional segunda de esta ley.
+5. En los establecimientos autorizados para la práctica de juegos y apuestas tiene que haber un libro u hojas de reclamaciones a disposición de las personas jugadoras y de la Administración. Reglamentariamente se tiene que regular su tramitación a través de medios informáticos o telemáticos.
+Se añade el apartado 2 bis por el art. único.5 de la Ley 9/2023, de 3 de abril. Ref. BOE-A-2023-13803
+
+### Artículo 9
+
+Artículo 9. Casinos de juego.
+1. Tienen la consideración de casinos de juego los establecimientos que, reuniendo los requisitos exigidos, hayan sido autorizados para la práctica de los juegos que, en el Catálogo de Juegos y Apuestas de las Illes Balears, se recojan como «exclusivos de los casinos de juego», u otros que puedan autorizarse reglamentariamente.
+2. La autorización de instalación de un casino se tiene que hacer mediante un concurso público en el que se tienen que valorar, entre otros, el número de puestos de trabajo fijo, el interés turístico del proyecto, la solvencia de las personas promotoras, la experiencia en el sector, el programa de inversiones y el cumplimiento de las condiciones concretas de la convocatoria. La concesión de la autorización no excluye la obtención de las licencias preceptivas.
+3. La autorización se concederá por un período mínimo de diez años.
+4. Las características de todo orden de los establecimientos a que se refiere este precepto, así como los servicios complementarios que puedan establecerse, tienen que ser determinados en la reglamentación correspondiente. Tienen la consideración de servicios complementarios, los de restaurante, cafetería, auditorio, salas de fiesta, aparcamientos y otros servicios.
+5. Pueden autorizarse la apertura y el funcionamiento de una sala accesoria para cada casino autorizado siempre que, constituyendo una unidad de explotación y formando parte de este, cumpla los requisitos y las condiciones que se establezcan reglamentariamente.
+
+### Artículo 10
+
+Artículo 10. Salas de bingo.
+1. Tienen la consideración de salas de bingo los establecimientos que hayan sido autorizados para la práctica del juego del bingo en sus distintas modalidades.
+2. En las salas de bingo pueden instalarse máquinas de tipo B en función de la capacidad del local y en los términos que se determinen reglamentariamente.
+Asimismo, pueden practicarse, previa autorización por el órgano competente en materia de juego, otros juegos de los incluidos en el Catálogo de Juegos y Apuestas de las Illes Balears, siempre que no sean exclusivos de otro tipo de establecimientos.
+3. Las salas de bingo deben disponer, como mínimo, de un área de recepción y una sala de juegos.
+La capacidad, la superficie, el funcionamiento y los servicios mínimos a prestar al público de las salas de bingo han de ser determinados reglamentariamente.
+4. Las autorizaciones para la explotación de salas de bingo se concederán por un período de diez años.
+
+### Artículo 11
+
+Artículo 11. Salones de juego.
+1. Tienen la consideración de salones de juego aquellos establecimientos específicamente autorizados para instalar máquinas de tipo B. Asimismo, pueden practicarse, previa autorización, otros juegos de los incluidos en el Catálogo de Juegos y Apuestas de las Illes Balears que no sean exclusivos de otro tipo de establecimiento.
+2. Las condiciones, el número de máquinas y las obligaciones de las personas titulares se establecerán reglamentariamente.
+3. Podrán explotarse en estos establecimientos máquinas recreativas o actividades de puro entretenimiento.
+
+### Artículo 12
+
+Artículo 12. Locales de apuestas.
+1. Son aquellos establecimientos en los que se desarrolla una actividad de juego en la que se arriesgan cantidades de dinero sobre los resultados de un acontecimiento previamente determinado cuyo desenlace es incierto y ajeno a las personas participantes, y se determina la cuantía del premio que se otorga en función de las cantidades arriesgadas u otros factores fijados previamente en la regulación de la concreta modalidad de apuesta.
+2. Las empresas que exploten locales de apuestas deberán cumplir los requisitos que se determinen reglamentariamente.
+
+### Artículo 13
+
+Artículo 13. Máquinas de juego.
+1. Son máquinas de juego a los efectos de la presente ley los aparatos manuales o automáticos que, a cambio de un precio fijo, ofrecen a la persona usuaria entretenimiento con la posibilidad de obtener un premio.
+2. Las máquinas de juego se clasifican en los siguientes grupos:
+a) Máquinas de tipo B o recreativas con premio programado son las que, a cambio del precio de la partida o jugada, conceden a la persona usuaria un tiempo de uso o de juego y, eventualmente, un premio en metálico, de acuerdo con el programa de juego.
+b) Máquinas de tipo C o de azar son las que a cambio del precio de la partida o jugada conceden a la persona usuaria un tiempo de juego y eventualmente pueden ofrecer un premio que siempre dependerá del azar.
+c) Máquinas de tipo D, llamadas máquinas con premio en especie, grupo que engloba las llamadas grúas y aquellas otras expendedoras que incluyan algún elemento de juego adicional. Reglamentariamente se establecerán los requisitos de homologación, explotación e instalación, y su régimen administrativo general.
+3. Quedan excluidas de la presente ley las máquinas expendedoras que se limiten a efectuar mecánicamente venta de productos y mercancías, siempre que el valor del dinero depositado en las máquinas corresponda al valor en mercado de los productos que entreguen, así como las máquinas de tocadiscos o videodiscos y las máquinas o aparatos de competencia pura o deporte en donde el juego se realice sin la ayuda directa de componentes electrónicos.
+4. Quedan excluidas de la presente ley las máquinas de tipo A o recreativas, entendiéndose por tales las siguientes:
+a) Las que, a cambio de un precio, ofrecen al jugador o jugadora un tiempo de utilización, sin que haya ningún tipo de premio o compensación en metálico, en especie o en forma de puntos canjeables, salvo la posibilidad de continuar jugando por el mismo importe inicial.
+b) Las denominadas de realidad virtual, simulación y análogas, siempre y cuando la persona usuaria intervenga en el desarrollo de los juegos.
+c) Las de competencia pura o deportiva cuyos componentes electrónicos no tengan influencia decisiva en el desarrollo del juego.
+d) Los juegos recreativos sin premio desarrollados a través de ordenadores y otros soportes informáticos, tales como los videojuegos u otros programas informáticos de juego recreativo, practicados en locales abiertos al público, explotados lucrativamente a cambio de un precio mediante su instalación bien en la memoria misma del ordenador personal o de otros soportes informáticos, bien en una red de área local, o bien en otras redes informáticas de telecomunicaciones o análogas de carácter externo, sin perjuicio de lo dispuesto en la normativa sobre propiedad intelectual.
+No obstante, lo dispuesto en este apartado se debe entender sin perjuicio de la necesidad de cumplimiento por tales máquinas de la normativa vigente dirigida a la protección de personas menores de edad a quienes les sea de aplicación, así como de la que regule específicamente el contenido de los juegos o soportes a través de los que se practican.
+5. Las máquinas reguladas en la presente ley no podrán situarse en:
+a) Los bares de centros y áreas comerciales, así como en estaciones de transporte público, si el local no se encuentra perfectamente aislado de la zona de paso.
+b) Los bares que sean dependencias complementarias de otros locales y establecimientos destinados a espectáculos públicos y otras actividades deportivas o recreativas.
+c) Establecimientos de restauración situados en centros de enseñanza de personas menores de edad, zonas de ocio infantil y centros permanentes de atención a personas menores de edad.
+d) Terrazas públicas y privadas y otros espacios ubicados en zonas que sean de ocupación de vías públicas.
+6. Las máquinas de tipo B y demás elementos de juego instalados en establecimientos de hostelería y análogos dispondrán de una pantalla previa al uso de la máquina, en la cual el usuario deberá responder una serie de cuestiones relativas a la edad y la responsabilidad para con el juego, donde tras las preceptivas respuestas, dependiendo de éstas, se iniciará o se cancelará la partida automáticamente. Mientras ningún cliente del establecimiento haga uso de la máquina de juego de tipo B, ésta permanecerá sin emitir estímulos sonoros o lumínicos, salvo el de un mensaje impreso aconsejando acerca de un entorno seguro del juego y las apuestas.
+7. No podrán ser homologados los modelos de máquinas de juego de tipo B cuya utilización implique el uso de imágenes, mensajes u objetos que puedan perjudicar la formación de la infancia y de la juventud, que directa o indirectamente sean contrarios a la vigente ordenación jurídica, y en especial aquellos que inciten a la violencia y a las actividades delictivas o a cualquier forma de discriminación, y los que contengan elementos racistas, sexistas o pornográficos. Se entenderán por elementos racistas, sexistas o pornográficos a los efectos de esta ley, aquellos que expongan o inciten a exponer de manera ofensiva la raza, el color, la ascendencia o el origen étnico o nacional, el cuerpo de la mujer y de las personas menores de edad, o cualquier otro elemento gráfico, tipográfico o sonoro que incite a la violencia y a las actividades delictivas o a cualquier forma de discriminación.
+Se modifica el apartado 5 y se añaden los 6 y 7 por el art. único.6 y 7 de la Ley 9/2023, de 3 de abril. Ref. BOE-A-2023-13803
+
+### Artículo 14
+
+Artículo 14. Apuestas.
+Se entiende por apuesta, cualquiera que sea su modalidad, aquella actividad de juego en la que se arriesgan cantidades de dinero sobre los resultados de un acontecimiento previamente determinado cuyo desenlace es incierto y ajeno a las personas participantes, y se determina la cuantía del premio que se otorga en función de las cantidades arriesgadas u otros factores fijados previamente en la regulación de la concreta modalidad de apuesta.
+Quedan prohibidas las apuestas que, por sí mismas o por razón de los acontecimientos sobre los que se formalizan, atentan contra los derechos y las libertades, en particular, contra la dignidad de las personas, el derecho al honor, a la intimidad personal y familiar y a la propia imagen, así como contra la protección de la juventud y de la infancia; y aquellas otras que se fundamentan en la comisión de delitos, faltas o infracciones administrativas, en acontecimientos prohibidos por la legislación vigente o en acontecimientos de carácter político o religioso. Las apuestas deben hacerse sobre acontecimientos reales y, por tanto, quedan prohibidas las apuestas sobre acontecimientos simulados o virtuales.
+
+### Artículo 15
+
+Artículo 15. Loterías.
+Se entiende por loterías las actividades de juego en las que se otorgan premios en los casos en que el número o la combinación de números o signos, expresados en el boleto o en su equivalente electrónico, coinciden en todo o en parte con el determinado mediante un sorteo o evento celebrado en una fecha previamente determinada o en un programa previo, en el caso de las instantáneas o presorteadas. Las loterías se comercializan en boletos o cualquier otra forma de participación cuyo soporte sea material, informático, telemático, telefónico o interactivo.
+
+### Artículo 16
+
+Artículo 16. Rifas y tómbolas.
+1. Se entiende por rifa aquella modalidad de juego consistente en la adjudicación de uno o varios premios mediante la celebración de un sorteo o selección por azar, entre las personas que adquieran boletos, papeletas u otros documentos o soportes de participación, diferenciados entre sí, ya sean de carácter material, informático, telemático o interactivo, en una fecha previamente determinada, y siempre que para participar sea preciso realizar una aportación económica. El objeto de la rifa puede ser un bien mueble, inmueble, semoviente o derechos ligados a los mismos, siempre que no sean premios dinerarios.
+2. Se entiende por tómbola aquella modalidad de juego en la que el jugador o jugadora participa en el sorteo de diversos objetos expuestos al público, mediante la adquisición de boletos o papeletas cerrados que contienen, en su caso, la indicación del premio que se puede obtener, que ha de ser en todo caso en especie.
+
+## TÍTULO III
+
+Empresas de juego
+
+### Artículo 17
+
+Artículo 17. Empresas de juego.
+1. Se consideran empresas de juego aquellas personas físicas o jurídicas que, previas autorización e inscripción en el Registro General del Juego de las Illes Balears, realizan actividades incluidas en el ámbito de aplicación de esta ley.
+2. Queda prohibido el ejercicio empresarial de actividades relacionadas con juegos y apuestas que no cuente con inscripción previa en el Registro General del Juego o que se desarrolle sin autorización administrativa previa o al margen de los requisitos y condiciones establecidos reglamentariamente, con las excepciones previstas en la presente ley.
+
+### Artículo 18
+
+Artículo 18. Fianzas.
+1. Las empresas y las personas empresarias que realicen actividades relacionadas con el juego deben constituir a favor de la hacienda de la comunidad autónoma de las Illes Balears, una fianza en los términos, las formas y las cuantías previstos en la normativa vigente. Tales garantías quedan afectas al cumplimiento por estas entidades y personas de sus obligaciones, derivadas de la presente ley, y especialmente al abono de los premios, a las responsabilidades derivadas del régimen sancionador, así como al cumplimiento de las obligaciones derivadas de los tributos específicos sobre el juego y las apuestas.
+2. Las obligaciones a que se refiere el apartado 1 pueden hacerse efectivas de oficio contra las fianzas depositadas.
+3. La fianza debe mantenerse actualizada en la cuantía exigida reglamentariamente. Si se produjese, por cualquier circunstancia, una disminución de su cuantía, la persona o entidad que la hubiera constituido deberá completarla en la cuantía obligatoria en el plazo que en cada caso se establezca reglamentariamente o, en su defecto, en el plazo de dos meses que se contarán desde la fecha de su disminución.
+4. Las fianzas se extinguen si desaparecen las causas que motivaron su constitución, si no hay responsabilidades pendientes o si ha transcurrido el plazo máximo de prescripción de dichas responsabilidades, en cuyos casos deben ser devueltas, a petición de la persona interesada, previa liquidación, si procede.
+
+### Artículo 19
+
+Artículo 19. Empresas titulares de casinos.
+1. Pueden ser titulares de autorizaciones de casinos de juego las personas jurídicas que cumplan los siguientes requisitos:
+a) Haberse constituido como sociedad anónima y ostentar la nacionalidad española o de un estado miembro de la Unión Europea.
+b) Tener un capital social mínimo, suscrito y totalmente desembolsado en la cuantía que se determinará reglamentariamente.
+c) Su objeto social único y exclusivo ha de ser la explotación del casino de juego y, en su caso, de las instalaciones y los servicios complementarios o accesorios relacionados con la explotación de este.
+d) Las acciones representativas del capital deben ser nominativas.
+e) La participación directa o indirecta de capital extranjero no puede exceder de los límites establecidos en el régimen especial para las inversiones extranjeras en España.
+f) La sociedad debe tener administración colegiada. Las personas administradoras han de ser personas físicas.
+2. Reglamentariamente se determinarán el resto de requisitos para la obtención de la autorización de instalación y explotación de casinos de juego.
+
+### Artículo 20
+
+Artículo 20. Empresas titulares de salones de juego.
+1. Pueden ser titulares de autorizaciones de salones de juego las personas jurídicas que cumplan los siguientes requisitos:
+a) Haberse constituido bajo la forma de sociedad mercantil.
+b) Tener el capital social mínimo exigido en cada caso por la normativa específica que le sea de aplicación, que ha de estar totalmente desembolsado y representado por acciones o participaciones nominativas.
+c) Tener por objeto social la explotación de máquinas recreativas en salones así como la realización de las actividades preparatorias, necesarias, accesorias, complementarias o relacionadas con estos.
+2. Reglamentariamente se determinarán el resto de requisitos para la obtención de la autorización para ser empresa titular de salones de juego.
+
+### Artículo 21
+
+Artículo 21. Empresas operadoras de máquinas.
+1. Pueden ser empresas operadoras de máquinas las personas físicas y jurídicas que cumplan los siguientes requisitos:
+a) Haberse constituido bajo cualquiera de las modalidades de sociedad mercantil admitidas.
+b) Contar con el capital social mínimo exigido en cada caso por la normativa mercantil vigente, representado por acciones o participaciones.
+La participación de capital extranjero debe ajustarse a la vigente normativa sobre inversiones extranjeras.
+2. En todo caso, las empresas de máquinas recreativas deben estar inscritas en la sección correspondiente del Registro General del Juego, autorizadas a este efecto para la realización de las actividades de fabricación, importación, exportación, comercialización o distribución e instalación o explotación de máquinas recreativas.
+3. Reglamentariamente se determinarán el resto de requisitos para la obtención de la autorización para ser empresa operadora de máquinas.
+
+### Artículo 22
+
+Artículo 22. Titulares de salas de bingo.
+1. Pueden ser titulares de empresas de bingo las personas jurídicas que reúnan los siguientes requisitos:
+a) Haberse constituido como sociedad anónima y ostentar la nacionalidad española o de un estado miembro de la Unión Europea.
+b) Tener un capital social mínimo, suscrito y totalmente desembolsado.
+c) Las acciones representativas del capital deben ser nominativas.
+d) Tener por objeto social única y exclusivamente la explotación de salas de bingo y sus servicios complementarios, y otros juegos que pudieran autorizarse en dichas salas siempre que no sean de carácter exclusivo de otro tipo de establecimiento.
+e) La sociedad debe tener administración colegiada.
+2. Reglamentariamente se determinarán el resto de requisitos para la obtención de la autorización de instalación y explotación de las salas de bingo.
+
+## TÍTULO IV
+
+Personas usuarias
+
+### Artículo 23
+
+Artículo 23. Las personas usuarias.
+1. Las personas usuarias, las jugadoras o participantes en los juegos y las apuestas tienen los siguientes derechos:
+a) A la práctica, al uso o a la participación en el juego durante el tiempo correspondiente a la partida de que se trate.
+b) Al cobro de los premios que les pudieran corresponder, de conformidad con el reglamento específico de cada juego.
+c) A ser tratadas con respeto y cortesía y a obtener información sobre las reglas del juego o la apuesta.
+d) A formular las quejas y las reclamaciones que estimen oportunas y a obtener la debida respuesta a estas.
+e) A utilizar los medios administrativos establecidos en esta ley y en los reglamentos que la desarrollen que las protegen para asegurar un juego responsable.
+f) Cualquier otro que se determine en los correspondientes reglamentos.
+2. Por otra parte, las personas jugadoras deben respetar en todo momento las reglas del juego, el uso adecuado de los aparatos y las máquinas, así como mantener el orden en los establecimientos.
+3. Estará prohibido el acceso y no permitida la entrada en los casinos, bingos, locales, establecimientos o salas dedicadas exclusivamente al juego y a las apuestas:
+a) A las personas con síntomas de estar bajo los efectos del alcohol, intoxicación por otras drogas tóxicas, estupefacientes o sustancias psicotrópicas, o de encontrarse en situación de enajenación mental.
+b) A las personas menores de edad.
+c) A las personas imposibilitadas judicialmente.
+d) A las personas incluidas en la sección de Prohibiciones de Accesos del Registro General del Juego, que será gestionada por el órgano competente en materia de juego e incluirá:
+a’) Las personas sancionadas por infracciones graves o muy graves en aplicación de las disposiciones de esta ley o de los reglamentos que la desarrollen que comporten esta sanción.
+b’) Las que lo soliciten voluntariamente por considerar que necesitan dicha previsión administrativa, mientras no soliciten su exclusión.
+c’) Las que así lo ordene una resolución judicial.
+De acuerdo con la legislación en materia de protección de datos, esta información se facilitará a las personas titulares de los establecimientos solamente al efecto de prohibir el acceso a las personas inscritas en el registro antes citado.
+La organización y el funcionamiento de esta sección del Registro General del Juego, así como las normas de acceso a los establecimientos de juego, se desarrollarán reglamentariamente.
+4. Las reglamentaciones específicas podrán establecer otras limitaciones especiales de acceso y práctica de juegos y apuestas.
+5. Las personas titulares de los establecimientos donde se practiquen los juegos pueden ejercer el derecho de admisión de acuerdo con la normativa vigente en la comunidad autónoma de las Illes Balears.
+6. En los establecimientos de juego donde se realicen apuestas debe exponerse de forma visible al público información de los siguientes aspectos:
+a) Acontecimiento o acontecimientos objeto de las apuestas.
+b) Normas y funcionamiento de las apuestas.
+c) Cuantías mínimas y máximas de las apuestas.
+
+### Artículo 24
+
+Artículo 24. Limitaciones a la participación en los juegos y las apuestas.
+No pueden participar en los juegos y las apuestas:
+a) Las personas menores de edad y las incapacitadas legalmente o por resolución judicial firme.
+b) Las personas que voluntariamente han solicitado que les esté prohibido el acceso a los establecimientos de juego, mediante la inscripción en la sección de Prohibiciones de Accesos del Registro General del Juego.
+c) Las personas accionistas, partícipes o titulares de las empresas dedicadas a la organización y comercialización de las apuestas, su personal, directivo o empleado, así como las personas cónyuges, ascendientes y descendientes hasta el primer grado.
+d) Las personas deportistas, entrenadoras o demás participantes directas en el acontecimiento objeto de las apuestas.
+e) El personal directivo de las entidades participantes en el acontecimiento objeto de las apuestas.
+f) Las personas jueces o árbitros que ejerzan sus funciones en el acontecimiento objeto de las apuestas así como las personas que resuelvan los recursos contra las decisiones de aquéllas.
+g) El personal funcionario del Gobierno de las Illes Balears que tenga atribuidas las funciones de inspección y control en materia de juego y apuestas.
+h) Las personas sancionadas por infracciones graves o muy graves en aplicación de las disposiciones de esta ley o de los reglamentos que la desarrollen que comporten esta sanción.
+
+## TÍTULO V
+
+Inspección y control
+
+### Artículo 25
+
+Artículo 25. Inspección del juego.
+1. La inspección, vigilancia y control de lo regulado en esta ley corresponde al órgano que tenga atribuidas las funciones en materia de juego, quien las tiene que desarrollar con medios propios a través del personal funcionario con competencias inspectoras o específicamente designado para el ejercicio de la función inspectora, y/o con la colaboración de la Administración General del Estado prestada por el personal funcionario designado a tal efecto en el convenio correspondiente.
+2. Este personal funcionario tendrá la consideración de agente de la autoridad y gozará como tal de la protección que le dispensa la legislación vigente.
+Asimismo estará facultado para acceder y examinar los establecimientos, material de juego, documentos, bases de datos y todo lo que pueda servir de información para el mejor cumplimiento de sus funciones.
+3. En los términos regulados en el artículo 38 de la presente ley, el personal funcionario que intervenga podrá, por sí mismo, adoptar, en el supuesto de infracciones que puedan calificarse de muy graves, la medida cautelar urgente de precintar, confiscar y depositar máquinas de juego, materiales y elementos utilizados para la práctica de juegos y apuestas no autorizados o sin haber cumplido el requisito de la declaración responsable, cuando sea aplicable, así como el producto obtenido por la persona infractora.
+4. Las personas físicas o jurídicas titulares de la autorización correspondiente, sus representantes legales y el personal que, en su caso, se encuentre en la actividad en el momento de la inspección, tendrán la obligación de facilitar a dicho personal funcionario el acceso a sus establecimientos, locales y dependencias, y el examen de los libros, documentos y registros preceptivos que lleven con motivo de la actividad o los hechos objeto de la inspección.
+5. Con carácter previo al ejercicio de sus funciones, y en todos los casos en que se lo requieran las personas interesadas, el personal inspector deberá acreditar, mediante la exhibición del documento correspondiente, su condición de tal.
+6. A efectos del control de juegos y apuestas pueden establecerse, reglamentariamente, las medidas de control que se estimen necesarias para garantizar el cumplimiento de las normas establecidas en la presente ley, así como en su normativa de desarrollo y, en particular, podrá establecerse una conexión informática en línea entre el órgano administrativo competente en materia de juego y los sistemas de procesos de datos de los juegos y apuestas para los que se prevea, sin perjuicio de lo establecido en la legislación vigente en materia de protección de datos.
+
+### Artículo 26
+
+Artículo 26. Actas de la inspección del juego.
+1. Los hechos constatados por el personal funcionario en ejercicio de competencias inspectoras se deben formalizar en el acta correspondiente, la cual será remitida al órgano competente a fin de que inicie, en su caso, el oportuno expediente.
+2. Dicha acta, en todo caso, debe ser levantada por el personal funcionario interviniente ante la persona titular del establecimiento sometido a inspección o, en su defecto, ante el representante legal de este o, en último orden, ante la persona empleada o que se halle al frente del establecimiento en que se practique o, de no encontrarse, ante cualquier persona empleada, quienes deben firmar el acta.
+3. En el acta se tienen que consignar íntegramente los datos y las circunstancias precisos para la mejor y más completa expresión de los hechos, y asimismo se tienen que consignar las circunstancias personales y el número del documento nacional de identidad de las personas firmantes.
+4. En el supuesto de que la persona ante quien se levante el acta se niegue a firmar, se tiene que hacer constar en el acta, especificando las circunstancias del intento de notificación, y se le tiene que entregar, en todo caso, la copia de esta. Si se niega a recibirla, se le enviará por alguno de los medios previstos en las disposiciones vigentes.
+5. La firma del acta no implica la aceptación de su contenido ni de la responsabilidad en la que pudiera haber incurrido la presunta persona infractora, salvo cuando así lo hubiera reconocido expresamente en el acta. La falta de firma del acta no exonera de responsabilidad ni destruye la presunción de veracidad de su contenido.
+6. El acta levantada y firmada por el personal funcionario en ejercicio de competencias inspectoras, y formalizada en documento público, observando los requisitos legales pertinentes, goza de valor probatorio, sin perjuicio de las pruebas que en defensa de sus derechos e intereses puedan aportar las personas administradas.
+
+## TÍTULO VI
+
+Régimen sancionador
+
+### Artículo 27
+
+Artículo 27. Régimen de las infracciones.
+1. Son infracciones administrativas en materia de juego las acciones u omisiones tipificadas como tales en la presente ley, incluso a título de simple negligencia, que pueden ser especificadas en los reglamentos que la desarrollen o que regulen las distintas actividades de juego.
+2. No puede ser considerado constitutivo de infracciones administrativas diferentes un mismo hecho en el que se aprecie identidad de sujeto y fundamento.
+3. Las infracciones se clasifican en muy graves, graves y leves.
+4. Cuando las acciones u omisiones denunciadas cometidas por un mismo infractor son constitutivas de varios tipos de infracción, el órgano competente debe imponer la sanción que corresponda al tipo de infracción más grave y considerar las demás infracciones como circunstancias agravantes para la graduación de la sanción a imponer.
+
+### Artículo 28
+
+Artículo 28. Infracciones muy graves.
+Son infracciones muy graves:
+1. Organizar, instalar, gestionar, explotar juegos y apuestas, así como permitir estas actividades, sin haber obtenido la correspondiente autorización administrativa, así como la celebración de estas fuera de los establecimientos o recintos permitidos o en condiciones distintas a las autorizadas, o la utilización de medios, modos o formas no permitidos o prohibidos en los reglamentos específicos de los diferentes juegos.
+2. Fabricar, comercializar o explotar elementos de juego incumpliendo la normativa aplicable, así como utilizar material de juego no homologado o con elementos, mensajes o contenidos expresamente prohibidos y la sustitución o la manipulación fraudulenta del material de juego.
+3. Utilizar o aportar datos no conformes con la realidad o documentos falsos o falseados para obtener permisos, autorizaciones e inscripciones o para atender requerimientos efectuados por la administración competente en materia de juego.
+4. La transmisión o cesión de las autorizaciones concedidas, incumpliendo las condiciones o los requisitos establecidos en esta ley y demás normas que la desarrollen o complementen.
+5. Participar directamente como persona jugadora o por medio de terceras personas, el personal empleado, titular, directivo, accionista o partícipe de las empresas dedicadas a la gestión, la organización y la explotación del juego, así como sus cónyuges, ascendientes y descendientes de primer grado, en los juegos que gestionen o exploten dichas empresas.
+6. Admitir apuestas o conceder premios que excedan de los máximos permitidos para cada actividad de juego.
+7. El impago total o parcial a las personas jugadoras o apostantes de las cantidades con las que hubieran sido premiadas.
+8. Utilizar fichas, cartones, boletos u otros elementos de juego que sean falsos.
+9. Vender cartones de juego de bingo, boletos o billetes de juego, apuestas, rifas o tómbolas, por un precio diferente del autorizado.
+10. El no funcionamiento o funcionamiento deficiente del sistema de admisión y control, así como la ausencia de personal para el control de admisión y la falta de actualización del Registro de Personas Excluidas de Acceso al Juego, en los términos previstos en esta ley y en las disposiciones reglamentarias de desarrollo.
+11. Permitir la práctica de juegos, así como el acceso a los establecimientos de juego autorizados, a las personas que lo tengan prohibido en virtud de esta ley y de los reglamentos que la desarrollen.
+12. Carecer de un sistema de control y vigilancia específico para controlar el acceso de las personas en aquellos establecimientos o zonas de juego y en los canales de juego a través de medios electrónicos, informáticos, telemáticos o interactivos, en los que venga exigido en esta ley o en disposiciones reglamentarias de desarrollo.
+13. Modificar unilateralmente cualquiera de las condiciones esenciales en virtud de las cuales se concedieron las preceptivas autorizaciones o, en su caso, que alteren el contenido de la comunicación o la declaración responsable.
+14. Vulnerar los requisitos y las condiciones exigidos por la normativa vigente, en virtud de los cuales se concedieron las preceptivas autorizaciones.
+15. Conceder préstamos o créditos, directamente o por medio de terceras personas, a los jugadores o apostantes, en los lugares donde se practique el juego, por parte de los titulares o empleados de las empresas organizadoras o explotadoras de actividades del juego, o del establecimiento, así como de sus cónyuges, y ascendientes y descendientes en primer grado.
+16. Obstaculizar o impedir las funciones de control y vigilancia en el ámbito de la inspección.
+17. Efectuar publicidad de los juegos y las apuestas o de los establecimientos en que se practiquen, sin la debida autorización, contraviniendo la normativa aplicable o al margen de los límites fijados en esta.
+18. Ejercer coacción o intimidación sobre los jugadores en caso de protesta o reclamación.
+19. Realizar obras de reforma en los diferentes establecimientos de juego sin haber obtenido autorización administrativa previa, cuando su obtención sea preceptiva a tenor de las disposiciones reglamentarias vigentes.
+20. La instalación y explotación de máquinas con premio de tipo B y C o máquinas auxiliares de apuestas sin permiso de explotación en vigor o sin el documento de comunicación de emplazamiento debidamente registrado, o su interconexión sin que ésta haya sido autorizada o con un número de máquinas diferente al autorizado.
+Se modifica por el art. único.8 de la Ley 9/2023, de 3 de abril. Ref. BOE-A-2023-13803
+
+### Artículo 29
+
+Artículo 29. Infracciones graves.
+Son infracciones graves:
+1. No exhibir en el establecimiento de juego, y también en las máquinas autorizadas, el documento acreditativo de la autorización establecida por esta ley, y también aquellos documentos que en el desarrollo de esta norma y en las disposiciones de desarrollo se establezcan.
+2. No exhibir de forma visible, en las entradas de público a los establecimientos de juego o en las páginas web de inicio de los canales de juego telemático, la indicación de prohibición de entrada a las personas menores de edad y las restricciones y condiciones de acceso.
+3. No disponer de las preceptivas hojas de reclamaciones, ficheros electrónicos o registros contables exigidos en la correspondiente normativa de juego, o mantenerlos de manera incorrecta.
+4. La falta de delimitación física de la zona del bar y de las zonas de apuestas en aquellos establecimientos donde sea obligatoria dicha delimitación, de acuerdo con las normas reglamentarias de desarrollo de esta ley; así como la modificación de cualquiera de ellas sin la previa autorización administrativa.
+5. Dejar fuera de funcionamiento las máquinas de juego y auxiliares de apuestas durante el horario autorizado para el establecimiento en que se hallen instaladas sin estar averiadas. No es de aplicación en el supuesto de máquinas instaladas en establecimientos de hostelería.
+6. La instalación de máquinas de juego o auxiliares de apuestas en cualquier establecimiento de juego de manera que obstaculicen los pasillos y las vías de evacuación existentes.
+7. Retirar las máquinas de juego y auxiliares de apuestas sin la autorización previa del órgano competente en materia de juego.
+8. Perturbar el orden en las salas de juego o cometer, en general, cualquier tipo de irregularidad en la práctica del juego por parte de las personas jugadoras o colaboradoras.
+9. En general, el incumplimiento de los requisitos y las condiciones contenidos en la presente ley, en los términos establecidos en esta y en la normativa reglamentaria de desarrollo, siempre que no tengan la condición de infracción muy grave y hayan ocasionado fraude a la persona usuaria, beneficio para la persona infractora o perjuicio para los intereses de la comunidad autónoma de las Illes Balears.
+Se modifica por el art. único.9 de la Ley 9/2023, de 3 de abril. Ref. BOE-A-2023-13803
+
+### Artículo 30
+
+Artículo 30. Infracciones leves.
+Son infracciones leves:
+1. Colocar la documentación que ha de llevar incorporada la máquina de manera que se dificulte su visibilidad, o la no adopción de las medidas necesarias para impedir su deterioro o manipulación.
+2. La conducta desconsiderada hacia las personas jugadoras o apostantes, tanto durante el desarrollo del juego o de la apuesta, como en el caso de protestas o reclamaciones de éstas.
+3. No remitir o comunicar en el plazo previsto reglamentariamente a los órganos competentes de juego la información y los datos exigidos por la normativa.
+Se modifica por el art. único.10 de la Ley 9/2023, de 3 de abril. Ref. BOE-A-2023-13803
+
+### Artículo 31
+
+Artículo 31. Sanciones.
+Las infracciones tipificadas en los artículos anteriores serán sancionadas con admonición o multa en las siguientes cuantías:
+a) Las muy graves, multa de 30.001 hasta 450.000 euros.
+b) Las graves, multa de 3.001 hasta 30.000 euros.
+c) Las leves, se sancionarán con una admonición/advertencia, o multa de 100 hasta 3.000 euros.
+Todo ello sin perjuicio de las sanciones accesorias previstas para las infracciones graves y muy graves.
+
+### Artículo 32
+
+Artículo 32. Graduación de las sanciones.
+1. Para la graduación de las sanciones dentro de cada categoría, se tienen que ponderar la naturaleza de los hechos constitutivos de la infracción y las circunstancias personales o materiales que concurran en el caso y, especialmente, la intencionalidad de la persona infractora, el daño producido a terceras personas o a la Administración, la naturaleza de los perjuicios causados, la peligrosidad de la conducta, la trascendencia social y económica de la acción u omisión, la reincidencia o reiteración si las hubiera, y se tiene que aplicar en todo caso el criterio de proporcionalidad entre la infracción cometida y la cuantía y los efectos de la sanción, y el beneficio obtenido.
+En ningún caso la cuantía de esta puede ser inferior al quíntuplo de las cantidades defraudadas.
+2. Las sanciones, que en todos los casos deben ser proporcionales a la infracción, llevan implícita la devolución de los beneficios ilícitamente obtenidos a la Administración o a las personas perjudicadas que sean identificadas.
+Se derogan los apartados 3 y 4 por la disposición derogatoria única.c) de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+
+### Artículo 33
+
+Artículo 33. Sanciones accesorias.
+1. En los casos de infracciones muy graves, y en atención a las circunstancias que concurran, pueden imponerse, además de la multa, las siguientes sanciones accesorias:
+a) La revocación de las autorizaciones obtenidas por la persona infractora.
+b) El cierre o la clausura definitiva de locales o establecimientos utilizados para la práctica del juego y las apuestas.
+c) La suspensión temporal de autorizaciones obtenidas por la persona infractora para la explotación de juegos o apuestas o para la apertura de locales de juego o de apuestas, por un período máximo de cinco años.
+d) La inhabilitación temporal para ser titular de autorizaciones para la organización y explotación del juego y las apuestas, por un período máximo de cinco años.
+e) El cierre temporal del local o establecimiento utilizado para la práctica del juego y las apuestas, por un período máximo de cinco años.
+f) La inhabilitación temporal hasta cinco años para ejercer la actividad profesional en empresas, lugares, locales y establecimientos dedicados al juego y las apuestas.
+g) La inhabilitación definitiva para el desarrollo de actividades de juego o apuestas, solo en caso de reincidencia.
+h) El decomiso, el depósito, y cuando la sanción sea firme, la destrucción o inutilización de las máquinas, los materiales o los elementos de juego objeto de la infracción.
+2. En los casos de infracciones graves y en atención igualmente a las circunstancias que concurran, podrán imponerse, además de la multa, las siguientes sanciones accesorias:
+a) La suspensión temporal de autorizaciones obtenidas por la persona infractora para la explotación de juegos o apuestas o para la apertura de locales de juego o de apuestas, por un período máximo de un año.
+b) La inhabilitación temporal para ser titular de autorizaciones para la organización y explotación del juego y las apuestas por un período máximo de un año.
+c) El cierre temporal del local o establecimiento utilizado para la práctica del juego y las apuestas, por un período máximo de un año.
+d) La inhabilitación temporal hasta un año para ejercer su actividad profesional en empresas, lugares, locales y establecimientos dedicados al juego y las apuestas.
+e) La prohibición temporal de acceso a los locales de juego por un período máximo de un año.
+f) El decomiso, el depósito, y cuando la sanción sea firme, la destrucción o inutilización de las máquinas, los materiales o los elementos de juego objeto de la infracción.
+3. No podrá acordarse la clausura de un establecimiento cuando la actividad principal que allí se ejerza no sea la de juego, si bien en este supuesto podrán imponerse la sanción de inhabilitación y la consiguiente prohibición de la celebración y práctica en él de juegos y apuestas con las condiciones y plazos señalados en este artículo.
+
+### Artículo 34
+
+Artículo 34. Responsables.
+1. Son responsables de las infracciones tipificadas en la presente ley las personas físicas o jurídicas que las cometan, aun a título de simple negligencia.
+2. De las infracciones cometidas en materia de juego por personas directivas, administrativas y empleadas en general de establecimientos de juego o de locales con máquinas de juego, deben responder solidariamente, asimismo, las personas o entidades para quienes aquellas presten sus servicios.
+3. Serán responsables los representantes legales o miembros de los órganos directivos de las personas jurídicas que hayan cometido la infracción cuando estos hayan intervenido en el acuerdo o decisión de cometer la infracción.
+
+### Artículo 35
+
+Artículo 35. Prescripción.
+1. Las infracciones leves prescribirán a los seis meses, las graves al año y las muy graves a los dos años.
+2. Las sanciones impuestas por faltas leves prescribirán al año, las impuestas por faltas graves a los dos años y las impuestas por faltas muy graves a los tres años.
+3. El plazo de prescripción de las infracciones comienza a contar desde el día en que se hayan cometido.
+Interrumpe la prescripción la iniciación, con conocimiento o notificación por cualquiera de los medios previstos en la legislación de procedimiento administrativo común, del procedimiento sancionador, y vuelve a transcurrir de nuevo el plazo de prescripción desde que el expediente sancionador esté paralizado por más de un mes por causa no imputable al presunto responsable.
+4. El plazo de prescripción de las sanciones comienza a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+Interrumpe la prescripción la iniciación, con conocimiento o notificación por cualquiera de los medios previstos en la legislación de procedimiento administrativo común, del procedimiento de ejecución, y vuelve a transcurrir el plazo si aquel está paralizado durante más de un mes por causa no imputable a la persona infractora.
+
+### Artículo 36
+
+Artículo 36. Caducidad.
+El plazo máximo para acordar y notificar la resolución del procedimiento sancionador iniciado es de un año desde la fecha del acuerdo de iniciación de éste. El vencimiento del plazo anterior sin que se haya dictado y notificado resolución expresa produce la caducidad del procedimiento, salvo que dicha dilación esté causada, directa o indirectamente, por acciones u omisiones imputables a las personas interesadas; todo ello sin perjuicio del mantenimiento de la potestad sancionadora de la administración sobre dichos hechos si la infracción no ha prescrito.
+Se modifica por el art. único.11 de la Ley 9/2023, de 3 de abril. Ref. BOE-A-2023-13803
+
+### Artículo 37
+
+Artículo 37. Potestad sancionadora y órganos sancionadores.
+1. La potestad sancionadora en materia de juego y apuestas corresponde a la Administración de la comunidad autónoma de las Illes Balears.
+2. El procedimiento sancionador se tiene que ajustar a lo establecido en la normativa de procedimiento administrativo común así como en el Reglamento de la comunidad autónoma de las Illes Balears sobre el procedimiento sancionador, con las particularidades que se establezcan para cada régimen sancionador en las reglamentaciones específicas.
+3. La iniciación del procedimiento sancionador y la imposición de las sanciones corresponde al órgano competente de la Administración de la comunidad autónoma de las Illes Balears que tenga atribuida la competencia en materia de juegos y apuestas.
+4. La imposición de sanciones corresponde:
+a) Al director o a la directora general que tenga atribuidas las competencias en materia de juego, en las infracciones leves.
+b) A la persona titular de la consejería competente en materia de juego, en las infracciones graves y muy graves, y en todo tipo de medidas cautelares.
+
+### Artículo 38
+
+Artículo 38. Medidas cautelares.
+1. En los supuestos de infracciones graves o muy graves, el órgano competente puede ordenar con carácter cautelar el precinto del material afectado o prohibir la práctica del juego en los establecimientos donde se haya cometido la infracción, hasta que se dicte la resolución que ponga fin al procedimiento.
+2. En los casos de infracciones muy graves, el personal funcionario con competencias inspectoras, al levantar acta por dichas infracciones, puede adoptar las medidas cautelares necesarias para impedir que aquellas se sigan cometiendo en perjuicio de los intereses públicos y descrédito de la norma sancionadora. La notificación a la persona interesada de la adopción de dichas medidas se entiende realizada a través de la misma acta. En estos casos, el órgano competente para resolver el expediente debe confirmar o levantar las medidas cautelares adoptadas en el plazo máximo de quince días, y quedan sin efecto aquéllas si, vencido dicho plazo, no se han ratificado.
+Corresponde al órgano competente en materia de juego la adopción de la medida cautelar consistente en la clausura o cierre de casinos de juego.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Régimen aplicable a las actividades desarrolladas a través de medios informáticos, telemáticos, interactivos o de comunicación a distancia.
+1. La homologación de los sistemas técnicos de las actividades de juego que se desarrollen por medios informáticos, interactivos o de comunicación a distancia se rige por la normativa estatal que regula el régimen de la homologación preliminar y definitiva de dichos sistemas, en tanto no se apruebe normativa específica propia de la comunidad autónoma de las Illes Balears.
+2. La autorización para el ejercicio de estas actividades de juego, otorgada tras la homologación preliminar, quedará condicionada a la obtención de la homologación definitiva del sistema técnico de juego, de conformidad con lo establecido en el apartado anterior.
+3. La Unidad Central y la réplica que integren el sistema técnico de juego deberán poder ser monitorizadas desde el territorio de la comunidad autónoma de las Illes Balears por el órgano competente en materia de ordenación y gestión del juego, con independencia de su ubicación.
+4. La práctica de los juegos desarrollados a través de medios informáticos, interactivos o de comunicación a distancia se rige por la normativa estatal, en tanto no se apruebe normativa específica propia de la comunidad autónoma de las Illes Balears para estos juegos.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Autorizaciones concedidas por otras administraciones públicas.
+Las homologaciones y las certificaciones emitidas por laboratorios autorizados y validadas por los órganos competentes del Estado o de otras comunidades autónomas respecto de la concesión de autorizaciones y permisos de ámbito autonómico, pueden tener efectos en el territorio de la comunidad autónoma de las Illes Balears
+Las autorizaciones en materia de juego concedidas a las empresas por el Estado u otras comunidades autónomas, e inscritas debidamente en los registros de juego, pueden tener efectos en la comunidad autónoma de las Illes Balears siempre que no supongan el incumplimiento de normas de orden público de esta comunidad autónoma.
+En todo caso, tanto las homologaciones como las autorizaciones a que se refieren los párrafos anteriores se concederán siempre que cumplan con los requisitos previstos en esta ley.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Modificaciones de las reglas de juego.
+Las modificaciones no sustanciales de las reglas de juego establecidas en la normativa reglamentaria reguladora de cada modalidad de juego o apuesta, pueden llevarse a cabo mediante resolución de la persona titular de la consejería competente en materia de juego de las Illes Balears.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Autorización puntual de partidas de bingo.
+Reglamentariamente se establecerán los requisitos y las condiciones para la autorización puntual de partidas de bingo tradicional (Navidad y fiestas patronales, quinas), así como la autorización de partidas de bingo en establecimientos de hostelería y asociaciones de la tercera edad.
+Asimismo podrá autorizarse, de manera puntual, la realización de partidas de bingo a entidades benéficas, deportivas, culturales o sociales, sin ánimo de lucro, siempre que cumplan con los requisitos y las condiciones establecidos reglamentariamente.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Régimen de explotación de apuestas hípicas.
+Las entidades titulares o gestoras de los hipódromos que a la entrada en vigor de la presente disposición legal vengan desarrollando la organización, la explotación y la gestión de las apuestas internas podrán explotar provisionalmente y en sus distintas modalidades las apuestas externas que se formalicen en o desde el territorio de la comunidad autónoma de las Illes Balears hasta que se produzca su desarrollo reglamentario.
+Dicha explotación provisional no conferirá méritos ni ningún tipo de derecho preferente para la adquisición definitiva de la apuesta externa.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Comisión del Juego de las Illes Balears.
+1. Se creará una Comisión del Juego de las Illes Balears, adscrita al departamento competente en la materia, como órgano consultivo, de estudio, de asesoramiento y de coordinación de las actividades relacionadas con el juego y las apuestas en el ámbito territorial de las Illes Balears.
+2. La organización y el funcionamiento de dicha comisión, así como el nombramiento de las personas que la integran, se determinarán reglamentariamente.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Planificación del número de establecimientos de juego y locales específicos de apuestas.
+1. Se limita a tres el número de casinos de juego en el ámbito territorial de la comunidad autónoma de las Illes Balears. No se otorgarán nuevas autorizaciones para salas accesorias de casinos en las Illes Balears.
+2. El número de autorizaciones en vigor para la instalación de salones de juego o de locales específicos de apuestas en el territorio de las Illes Balears se limita a 75 por cada millón de habitantes empadronados en la comunidad autónoma, según las cifras oficiales proporcionadas por el Instituto Nacional de Estadística a 1 de enero del año en curso y el listado autonómico de autorizaciones en vigor de salones de juego y locales específicos de apuestas. En el supuesto de que la ratio de autorizaciones vigentes sea superior en el momento de la entrada en vigor de la presente reforma operará de manera automática una moratoria de concesión de nuevas autorizaciones para la instalación de salones de juego o de locales específicos de apuestas hasta que, por la acumulación de extinciones o renuncias a las autorizaciones vigentes, su número no supere las 75 licencias por cada millón de habitantes empadronados en la comunidad autónoma.
+3. Se limita a cuatro el número de salas de bingo en el ámbito territorial de la comunidad autónoma de las Illes Balears.
+Se añade por el art. único.12 de la Ley 9/2023, de 3 de abril. Ref. BOE-A-2023-13803
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Normativa aplicable a los procedimientos en tramitación a la entrada en vigor de esta ley.
+Los procedimientos en tramitación a la entrada en vigor de la presente ley continuarán tramitándose con arreglo a la normativa vigente en el momento de presentar la solicitud, en el supuesto de que la presente ley siga requiriendo autorización administrativa.
+En caso de procedimientos sancionadores se seguirá aplicando la normativa anterior para aquellas infracciones cometidas antes de la entrada en vigor de esta ley, salvo que el nuevo régimen sea más favorable a la persona infractora.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Régimen transitorio de las autorizaciones concedidas de acuerdo con la normativa anterior.
+Las autorizaciones concedidas al amparo de la normativa anterior mantendrán su vigencia durante el plazo para el que fueron concedidas, y su posterior renovación se someterá al cumplimiento de los requisitos establecidos en esta ley y en sus normas de desarrollo.
+Las limitaciones contenidas en el artículo 3.1 de la presente ley no serán de aplicación para la renovación de las autorizaciones concedidas con anterioridad a la vigencia de esta ley y respecto a las cuales no se exigía el cumplimiento de dichas limitaciones.
+Se modifica por el art. único.13 de la Ley 9/2023, de 3 de abril. Ref. BOE-A-2023-13803
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Fianzas.
+Las fianzas constituidas con anterioridad a la entrada en vigor de la presente ley se entienden vigentes y tienen que responder de las obligaciones contenidas en el artículo 18 de esta ley.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Normas que se derogan.
+Quedan derogadas todas las disposiciones de rango igual o inferior en lo que contradigan, se opongan o sean incompatibles con lo que dispone esta ley, y en especial:
+a) El artículo 2; las disposiciones adicionales primera, segunda, tercera y cuarta, y las disposiciones finales primera y segunda de la Ley 4/2012, de 30 de abril, por la que se establece el régimen sancionador en diversas materias en el ámbito de la comunidad autónoma de las Illes Balears y se fijan medidas administrativas urgentes en materia de juego.
+b) El apartado tercero del artículo 3, y el artículo 28 de la Ley 20/2001, de 21 de diciembre, de medidas tributarias, administrativas y de función pública.
+c) El artículo 14 de la Ley 11/2002, de 23 de diciembre, de medidas tributarias y administrativas de las Illes Balears.
+d) La disposición adicional tercera de la Ley 12/2012, de 26 de septiembre, de medidas tributarias para la reducción del déficit de la comunidad autónoma de las Illes Balears.
+e) Los artículos 4.2 y 5.3 del Decreto 108/2001, de 3 de agosto, por el que se regulan las apuestas hípicas y otros juegos de promoción del trote, así como todas las referencias al juego de promoción del trote que se contienen en el citado decreto.
+f) El título III y los artículos 1.5 y 3.2 de la Orden del consejero de Interior de la comunidad autónoma de las Illes Balears de 9 de abril de 2002, así como todas las referencias al juego de promoción del trote que se contienen en dicha orden.
+g) El apartado 15 del Catálogo de Juegos de la comunidad autónoma de las Illes Balears, aprobado por la Orden del consejero de Interior de 30 de diciembre de 2005.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+Se autoriza al Gobierno de las Illes Balears a dictar cuantas disposiciones sean necesarias para el desarrollo de la presente ley. En tanto no haga uso de sus facultades reglamentarias para el desarrollo de esta ley se tienen que aplicar las disposiciones autonómicas vigentes y, en su defecto, las disposiciones generales del Estado en todo aquello que no se oponga a lo dispuesto en esta ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación del Decreto 103/2006, de 1 de diciembre, sobre medidas técnicas de máquinas de juego de tipo B.
+Las letras a), b) y d) del apartado segundo del artículo 1 del Decreto 103/2006, de 1 de diciembre, sobre medidas técnicas de máquinas de juego de tipo B, quedan modificadas de la siguiente manera:
+«a) El precio máximo de la partida es de 0,20 euros, sin perjuicio de que puedan hacerse simultáneamente un número acumulado de partidas que en conjunto no superen el valor de cinco veces el precio máximo de la partida.»
+«b) El premio máximo que estas máquinas pueden conceder es de 500 veces el precio de la partida simple o, en su caso, de la partida simultánea. El programa de juego no puede provocar ningún tipo de encadenamiento o secuencia de premios el resultado de los cuales sea la obtención de una cantidad de dinero superior al premio máximo establecido.»
+«d) La duración media de la partida no ha de ser inferior a 3 segundos, sin que puedan hacerse más de 600 partidas en 30 minutos.»
+A efectos de la duración, la realización de partidas simultáneas se tiene que contabilizar como si se tratase de una partida simple.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el «Butlletí Oficial de les Illes Balears».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que corresponda la hagan guardar.
+Palma, 1 de agosto de 2014.–El Presidente, José Ramón Bauzá Díaz.

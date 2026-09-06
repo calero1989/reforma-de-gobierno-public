@@ -1,0 +1,938 @@
+# Ley 3/2005, de 14 de marzo, de Ordenación de la actividad comercial y las actividades feriales en la Comunidad Autónoma de La Rioja.
+
+- Identificador BOE: `BOE-A-2005-5660`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2005-5660
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA RIOJA
+Sepan todos los ciudadanos que el Parlamento de La Rioja ha aprobado, y yo, en nombre de su Majestad el Rey y de acuerdo con el que establece la Constitución y el Estatuto de Autonomía, promulgo la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+1
+El Estatuto de Autonomía de La Rioja, aprobado por Ley Orgánica 3/1982, de 9 de junio, modificado por Ley Orgánica 2/1999, de 7 de enero, atribuye a La Rioja competencia exclusiva para el ejercicio de la potestad legislativa, potestad reglamentaria y la función ejecutiva en materia de «comercio interior, sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio del Estado y de la legislación sobre defensa de la competencia» y en materia de «régimen de ferias y mercados interiores» (artículo 8. uno, ordinales 6 y 7). En consecuencia, con fundamento en los mencionados títulos habilitantes queda fuera de toda duda la competencia de la Comunidad Autónoma de La Rioja para establecer y promulgar mediante Ley el régimen jurídico administrativo de ordenación del comercio interior y el de las ferias y mercados que se desarrollan dentro de su territorio.
+No basta, sin embargo, con que la Constitución y su Estatuto de Autonomía faculten a una Comunidad Autónoma para legislar en una determinada materia para justificar cualquier iniciativa de carácter normativo. La procedencia y la oportunidad de una norma en materia de comercio interior vienen exigidas por otras razones y, por lo que a La Rioja hace referencia, por las tres siguientes.
+En primer lugar, la propia actuación normativa del Estado en esta materia que ha concebido la Ley 7/1996, de 15 de enero, de ordenación del comercio minorista, en aquellas materias que no son de su exclusiva competencia, como una legislación de aplicación supletoria en defecto de las normas dictadas por las Comunidades Autónomas en ejercicio de sus competencias.
+En segundo lugar, por la existencia de distintas instancias con competencia para dictar normas en materia de comercio interior (Unión Europea, Estado, Comunidades Autónomas, Corporaciones locales) que hacen necesaria, no solo una coordinación y cooperación entre las mismas para evitar contradicciones y unificar políticas de actuación, sino la existencia de concretos poderes dentro de las Administraciones Públicas para llevar a cabo las funciones de ejecución en esta materia, reglamentando, fomentando, controlando y, en su caso, sancionando las actuaciones de los operadores económicos que ponen en el mercado bienes a disposición de los consumidores y usuarios.
+Y, en tercer lugar, por la existencia en la Comunidad Autónoma de La Rioja de un sector comercial que presenta unas características propias, motivadas no solo por causas que tienen su origen en las circunstancias concretas que se dan en esta Comunidad, como la densidad de población, las estructuras de consumo sino también, por el grado de dotación comercial existente.
+Estas tres razones son las que, principalmente, justifican la promulgación de esta Ley.
+2
+En cuanto al contenido de la Ley, la misma –como reza su propio título– pretende ordenar y fomentar la actividad comercial y las actividades feriales que se desarrollan en el ámbito de La Rioja. Se trata, en consecuencia, de una norma de carácter administrativo que se limita a establecer el marco jurídico dentro del cual debe desarrollarse la actividad comercial, los principios ordenadores de dicha actividad y la actuación de las distintas Administraciones Públicas en sus funciones de regulación, fomento y disciplina. Necesariamente, por tanto, quedan fuera del ámbito objetivo de esta Ley la regulación de las relaciones entre los sujetos protagonistas del mercado interior: los empresarios y los consumidores o usuarios. Dichas relaciones, por exigencias, fundamentalmente, de los números 6.º y 8.º del artículo 149.1 de la Constitución, son de competencia exclusiva del Estado; junto con otras que encuentran su fundamento en el número 13.º del mismo precepto constitucional que también deja en las exclusivas manos de aquél «las bases y coordinación de la planificación general de la actividad económica».
+Por otra parte, esta Ley también debe responder al principio de protección de los consumidores como expreso mandato constitucional.
+Dentro de estos límites, impuestos por la propia Constitución, la presente Ley, que se estructura en seis títulos, integrados por setenta y siete artículos, dos Disposiciones Adicionales, dos Disposiciones Transitorias, una Disposición Derogatoria y tres Disposiciones Finales, se sistematiza en torno a los tres tipos básicos en que se divide la acción administrativa: la acción reguladora de ordenación de las actividades, la de fomento y la de disciplina o control.
+Obedeciendo a esta sistemática, el Título I define el objeto y ámbito de aplicación de la Ley y distingue entre las distintas clases de actividad comercial.
+El Título II está consagrado al establecimiento del régimen administrativo de la actividad comercial y, dentro del mismo, crea y regula dos piezas básicas para una ordenación racional y moderna de la misma: el Registro de Comerciantes y Actividades Comerciales y el Consejo Riojano de Comercio. Se trata de dos piezas básicas para la ordenación de la actividad comercial por cuanto el Registro va a permitir la elaboración y actualización permanente de un censo comercial en La Rioja que, por una parte, contribuirá a la definición de las políticas de ayudas públicas al sector comercial y, por otra, facilitará el ejercicio de las funciones de control y tutela de los intereses públicos en el ámbito de la actividad comercial.
+El Consejo Riojano de Comercio, como órgano colegiado de participación de los sectores interesados en la ordenación de la actividad comercial, será el instrumento que garantizará y defenderá los intereses generales que han de presidir la acción administrativa en materia de política comercial en aspectos de tanta trascendencia para el sector como las solicitudes de licencia comercial para el establecimiento o modificación de grandes establecimientos comerciales, los proyectos normativos de ordenación del comercio y de la actividad comercial y, en general, cualquier proyecto de las Administraciones Públicas destinado al fomento y mejora del sector comercial.
+Este Título regula, asimismo, materias de tanta relevancia para el comercio interior como el régimen de los precios y el de los horarios comerciales, dentro de los límites constitucionales y estatutarios que configuran las competencias en la materia.
+A la regulación de los equipamientos comerciales se dedica el Título III de la Ley en el que, tras definirse lo que se entiende por establecimiento comercial, se aborda uno de los puntos más debatidos en la materia: el régimen legal de los grandes establecimientos, especialmente en lo que se refiere a la concesión de licencias para su apertura. La Ley, sigue lo establecido en la normativa estatal sobre la materia, pero completa dicho régimen con la previsión de un Plan General de Equipamientos Comerciales que, tiene por objeto establecer las directrices para adecuar el equipamiento comercial en las poblaciones a las necesidades de consumo y compra que permita lograr un nivel adecuado de equipamiento comercial y una correcta distribución territorial de los establecimientos comerciales, la introducción progresiva y armónica de los nuevos sistemas de venta y que contribuya a la creación de nuevos empleos alternativos en el sector de comercio y al mantenimiento de los existentes, adaptándolos a las nuevas estructuras de distribución comercial y a las exigencias sociales, con las reformas que puedan proceder en el comercio tradicional y su papel en el mantenimiento y conservación de núcleos urbanos tradicionales.
+El Título IV de la Ley está dedicado a la regulación de las modalidades específicas de venta. En este punto la norma, a diferencia de las promulgadas por otras Comunidades Autónomas, se limita a definir dichas modalidades remitiéndose en punto a su regulación a las normas estatales sobra la materia dado que, excepto en lo que hace referencia al deber de registro de los empresarios que las realizan, el régimen jurídico de dichas ventas se encuadra dentro de la legislación civil o mercantil, espacios que, salvo excepciones, le están vedados al legislador autonómico por imperativo constitucional.
+El Título V de la Ley se dedica a establecer la ordenación de las actividades feriales y su funcionamiento que, no obstante su papel esencial en la promoción del comercio, no habían merecido hasta ahora la atención del legislador. En este punto la Ley, siguiendo las elaboradas en otras Comunidades Autónomas con una mayor tradición que la nuestra en la materia, define qué se entiende por actividades feriales, lleva a cabo una clasificación de las mismas y establece la categoría de «Ferias y Exposiciones Oficiales de La Rioja», calificación que la Comunidad Autónoma otorgará a aquellos certámenes que se celebren en recintos de carácter permanente, dispongan de un reglamento interno de participación de los expositores y superen unos determinados niveles en cuanto a concurrencia y superficie ocupada.
+El Título VI de la Ley se dedica a la regulación de la actuación pública de fomento de la actividad comercial estableciéndose los principios que han de inspirar la acción administrativa en la materia: el respeto a los principios de libre y leal competencia y de defensa de los consumidores y usuarios, por una parte, y el desarrollo de una política de reforma de las estructuras comerciales encaminada a la modernización y racionalización del sector.
+Por último, el mismo Título VI de la Ley regula la inspección y el régimen de infracciones y sanciones en materia de comercio interior y de ferias y mercados interiores tratando de coordinar los principios que en el mismo se establecen con los ya existentes en materia de consumo, dadas las indudables relaciones entre ambas materias.
+La Ley concluye con las correspondientes Disposiciones adicionales, transitorias y finales, entre las cuales merecen destacarse las siguientes.
+En primer lugar, se crea la Tasa por tramitación de la licencia comercial específica para contribuir a los gastos extras que la prestación de este servicio origina a la Administración.
+Y en segundo lugar, el establecimiento de una vacatio prudente, que se ha estimado en el plazo de seis meses, para la entrada en vigor de la Ley; período de tiempo que ha de permitir no solo que la Administración se prepare para poder aplicar y desarrollar la norma y dictar las disposiciones necesarias para su ejecución, sino también para que los sectores interesados puedan conocer el nuevo marco normativo al que van a quedar sometidos.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Objeto y ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto establecer el marco jurídico administrativo para el desarrollo de la actividad comercial y las actividades feriales en el ámbito territorial de la Comunidad Autónoma de La Rioja, con la finalidad de fomentar, ordenar y modernizar estas actividades, obteniendo modelos comerciales basados en la diversidad y pluralidad de su oferta en el territorio en el que se desarrollan, en el marco de la libertad de establecimiento y libertad de prestación de servicios y con las excepciones que los intereses generales demanden en el establecimiento de régimen de autorización.
+Se modifica por el art. 44.1 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. Quedan sometidos a la presente Ley las personas físicas y jurídicas que de forma habitual realizan actividades de mediación entre la producción y el consumo en el mercado así como las entidades organizadoras de actividades feriales y las manifestaciones comerciales realizadas por las mismas.
+2. Asimismo se incluye en el ámbito de aplicación de la presente Ley la venta realizada por los artesanos, de sus productos, en su propio taller.
+3. Quedan excluidas del ámbito de la presente Ley, aquellas actividades comerciales que, en razón de su objeto o naturaleza, se encuentren reguladas por una legislación específica.
+4. La presente Ley tendrá, en todo caso, carácter supletorio para aquellas actividades comerciales y feriales que se hallen reguladas por normativa específica.
+
+## CAPÍTULO II
+
+De la actividad comercial
+
+### Artículo 3
+
+Artículo 3. Concepto.
+A los efectos de esta Ley, se entiende por actividad comercial la llevada a cabo por personas físicas o jurídicas, públicas o privadas, que actúen tanto por cuenta propia como ajena, con la finalidad de poner a disposición de los consumidores y usuarios productos susceptibles de tráfico comercial.
+
+### Artículo 4
+
+Artículo 4. Actividad comercial mayorista.
+1. A los efectos de esta Ley, se entiende por actividad comercial de carácter mayorista el ejercicio habitual de la actividad de adquisición de productos y la venta de éstos a otros comerciantes, mayoristas o minoristas que no constituyan consumidores finales de los mismos.
+2. La actividad comercial mayorista no podrá ejercerse simultáneamente con la minorista en un mismo establecimiento, salvo que se mantengan debidamente diferenciadas y se respeten las normas específicas aplicables a cada una de estas modalidades de distribución.
+
+### Artículo 5
+
+Artículo 5. Actividad comercial minorista.
+1. A los efectos de esta Ley, se entiende por actividad comercial de carácter minorista o detallista, el ejercicio profesional y con ánimo de lucro de la actividad de adquisición de productos para su venta al consumidor final.
+2. La actividad comercial minorista debe, salvo los supuestos especiales previstos en esta Ley, desarrollarse en establecimientos fijos y permanentes por cualesquiera de los métodos de venta admitidos por la práctica comercial.
+
+### Artículo 6
+
+Artículo 6. Prohibiciones y restricciones al ejercicio de la actividad comercial.
+1. No podrán ejercer la actividad comercial, además de las personas físicas y jurídicas a las que les esté específicamente prohibido por la normativa vigente, aquellas otras a las que su normativa específica les exija dedicación exclusiva a la actividad que desarrollan.
+2. Se prohíbe expresamente la exposición y venta de productos al comprador cuando provengan de personas cuya actividad sea distinta a la comercial y, como consecuencia de la actividad que les es propia, tengan como finalidad principal la realización de préstamos, depósitos u operaciones de análoga naturaleza, incorporadas a la oferta comercial de la mercancía, de tal manera que una no pudiese hacerse efectiva sin la otra.
+En todo caso, se presumirá la existencia de estas actuaciones en el supuesto de que el comprador pudiera realizar pedidos o adquirir productos en los establecimientos de aquéllas.
+
+### Artículo 7
+
+Artículo 7. Cooperativas de consumidores y usuarios.
+1. Las cooperativas de consumidores y usuarios, así como cualesquiera otras que suministren bienes y servicios a sus socios y a terceros, deberán limitar su actividad exclusivamente a sus socios; cualquier otra actividad dirigida al público en general, deberá estar debidamente diferenciada y se regirá por las normas generales que afecten al comercio minorista.
+2. Los economatos y, en general, cualquier tipo de establecimiento que, de acuerdo con la legislación vigente, suministren productos exclusivamente a una colectividad de empleados, beneficiarios o socios y que reciban para esta finalidad cualquier tipo de ayuda o subvención no podrán en ningún caso suministrar dichos productos al público en general. Fuera de este caso, podrán suministrar productos al público en general, siempre y cuando estén efectivamente diferenciadas las zonas en que se efectúe el comercio dirigido a empleados, beneficiarios o socios y al público en general y se sometan a las normas generales del comercio minorista.
+
+## TÍTULO II
+
+Régimen administrativo de la actividad comercial
+
+## CAPÍTULO I
+
+Del ejercicio de la actividad comercial
+
+### Artículo 8
+
+Artículo 8. De los principios aplicables al ejercicio de la actividad comercial.
+El ejercicio de la actividad comercial se desarrollará de acuerdo con los principios de libertad de empresa, libre competencia y las exigencias de la economía general, en el marco de la economía de mercado, y conforme a la legislación vigente en la materia.
+
+### Artículo 9
+
+Artículo 9. De las condiciones administrativas para el ejercicio de la actividad comercial.
+1. Podrán ejercer la actividad comercial las personas físicas y jurídicas que de conformidad con la legislación vigente posean la capacidad jurídica necesaria según lo establecido en la legislación mercantil y cumplan los requisitos establecidos por esta Ley.
+2. Son requisitos generales para el ejercicio de cualquier actividad comercial:
+a) Estar dado de alta, cuando proceda, en el epígrafe o epígrafes correspondientes al Impuesto de Actividades Económicas y al corriente del pago, así como, satisfacer todos los tributos que para el ejercicio de la actividad comercial establezca cualquier Administración Pública.
+b) Estar dado de alta en el Régimen de la Seguridad Social que le corresponda y encontrarse al corriente del pago de las cotizaciones que procedan.
+c) Disponer de las autorizaciones autonómicas y municipales correspondientes, que han de estar en el lugar donde se lleve a cabo la actividad comercial.
+3. El ejercicio de ventas a distancia, venta a domicilio, venta automática y venta en pública subasta requerirá comunicación a la Administración pública competente en comercio interior en las condiciones y plazos que legal o reglamentariamente se determinen. La Consejería con competencias en materia de Comercio podrá determinar los tipos de ventas especiales o de actividades de promoción de ventas que deberán ser sometidas a régimen de comunicación. Corresponde a los ayuntamientos otorgar las autorizaciones para el ejercicio de la venta ambulante y mercados de ocasión en sus respectivos términos municipales, de acuerdo con lo dispuesto en el artículo 35.2 de esta ley
+Se modifica el apartado 3 por el art. 44.2 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 10
+
+Artículo 10. Oferta comercial y prohibición de limitar la adquisición de artículos.
+1. El ejercicio de la actividad comercial estará sujeto a las condiciones que integren la oferta de bienes en el mercado y a la normativa reguladora de la presentación y etiquetado de los mismos. Los productos deberán llevar incorporados en lengua castellana cuanta información sea legalmente exigible y apropiada para el conocimiento de los mismos, los riesgos de su utilización y, en su caso, las condiciones especiales para su adquisición.
+2. Los comerciantes no podrán limitar la cantidad de artículos que puedan ser adquiridos por cada comprador, ni establecer precios más elevados o suprimir reducciones o incentivos, para las compras que superen un determinado volumen. En el caso de que en un establecimiento abierto al público no se dispusiera de existencias para cubrir la demanda se atenderá a la prioridad temporal en las solicitudes, debiendo proceder en todo caso a poner en conocimiento de los consumidores el agotamiento de las existencias.
+3. Solo excepcionalmente la Administración Pública competente en la materia y siempre por motivos de interés público, podrá limitar la cantidad de artículos que pueden ser adquiridos por cada comprador.
+
+## CAPÍTULO II
+
+Registro de Comerciantes y Actividades Comerciales de La Rioja
+
+### Artículo 11
+
+Artículo 11. Registro de Comerciantes y Actividades Comerciales de La Rioja.
+1. Se crea el Registro de Comerciantes y Actividades Comerciales de La Rioja, adscrito a la Dirección General que tenga atribuidas competencias en materia de comercio interior, sin que la inscripción en el mismo por el comerciante, ya sea persona física o jurídica, constituya requisito previo para el ejercicio de la actividad comercial, con las excepciones que legalmente se puedan establecer en función del interés general a proteger.
+2. Los objetivos del registro en La Rioja son:
+a) Permitir la elaboración y permanente actualización del censo comercial.
+b) Servir de instrumento estadístico y disponer de información adecuada sobre su estructura comercial para la elaboración y definición de las políticas públicas en el desarrollo y consolidación del sector comercial y en las de calidad de los servicios y atención de los derechos e intereses de los consumidores y usuarios.
+c) Facilitar el ejercicio de las funciones de control y tutela de los intereses públicos en el sector comercial y la leal competencia en el ejercicio de la actividad comercial.
+d) Mantener una información actualizada que permita el conocimiento público del sector comercial de La Rioja, mediante la utilización de las tecnologías adecuadas, en relación con los sectores de actividad comercial, sus productos y ubicación de los puntos de venta en el territorio.
+Se modifica por el art. 44.3 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 12
+
+Artículo 12. Inscripción en el Registro de Comerciantes y Actividades Comerciales de La Rioja.
+La inscripción en el registro será gratuita y se podrá realizar, de acuerdo con lo que al efecto se establezca reglamentariamente:
+a) De oficio, partiendo de los censos comerciales que se realicen, de la información derivada de las solicitudes de ayudas presentadas ante la Administración Pública, así como por la aplicación de instrumentos de colaboración con otras administraciones públicas.
+b) A instancia de parte, mediante comunicación voluntaria del comerciante o asociaciones comerciales debidamente autorizadas a estos efectos.
+Se modifica por el art. 44.4 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 13
+
+Artículo 13. Funcionamiento del Registro de Comerciantes y Actividades Comerciales de La Rioja.
+1. La estructura, organización y funcionamiento del Registro de Comerciantes y Actividades Comerciales de La Rioja se determinará reglamentariamente y será público, sin que pueda contener datos de carácter personal no relacionados con la actividad comercial que se desarrolle o se pretenda desarrollar.
+2. El órgano o unidad administrativa responsable del fichero automatizado que contenga el registro, adoptará las medidas de organización y gestión que aseguren la confidencialidad, seguridad e integridad de los datos, así como aquellas que garanticen las obligaciones y derechos reconocidos en la legislación de aplicación de protección de datos de carácter personal, para ejercer el derecho de acceso, rectificación, cancelación y oposición.
+Se modifica por el art. 44.5 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+## CAPÍTULO III
+
+De los precios y horarios comerciales
+
+## Sección 1
+
+Sección 1.ª Precios
+
+### Artículo 14
+
+Artículo 14. De los precios.
+1. Los comerciantes tendrán libertad para fijar los precios de los productos, sin perjuicio de las limitaciones establecidas por la legislación vigente en materia de precios y márgenes comerciales y de protección de la libre competencia.
+2. En todo caso, los precios de los productos, así como su exhibición al público, deberán cumplir lo dispuesto en la normativa dictada para la protección de los consumidores y usuarios.
+3. El precio de venta anunciado se entenderá como el total del producto adquirido al contado, incluido todo impuesto o gravamen que recaiga sobre el mismo.
+
+### Artículo 15
+
+Artículo 15. Ventas a pérdida.
+1. No obstante lo dispuesto en el artículo anterior, se considerará venta a pérdida, aquella actividad comercial que se realiza cuando el precio de venta practicado por el comerciante de cualquier producto, es inferior a su precio de compra. La venta a pérdida solo se podrá ofertar y efectuar en la venta en liquidación, en la venta de saldos, o cuando se trate de productos perecederos en fechas próximas a su inutilización comercial, a menos que quien la realice tenga por objetivo alcanzar los precios de uno o varios competidores con capacidad para afectar, significativamente, a sus ventas.
+2. A efectos de lo dispuesto en el apartado 1 de este artículo se considerará que existe venta con pérdida, cuando el precio aplicado a un producto sea inferior al de adquisición según factura, deducida la parte proporcional a los descuentos que figuren en la misma, o al de reposición si éste fuera inferior a aquél o al coste efectivo de producción si el artículo hubiese sido fabricado por el propio comerciante, incrementados en las cuotas de los impuestos que graven la operación. No se computarán, las retribuciones o las bonificaciones de cualquier tipo que signifiquen compensación por los servicios prestados. En ningún caso, podrán utilizarse las ofertas conjuntas o los obsequios a los compradores para evitar lo dispuesto en el presente artículo.
+3. Las facturas se entenderán aceptadas en todos sus términos y reconocidas por sus destinatarios, cuando no hayan sido objeto de reparo en el plazo de los veinticinco días siguientes a su remisión. En el caso de que no sean conformes se dispone sobre la anterior de un plazo adicional de diez días para su subsanación y nueva remisión de la correspondiente factura rectificada. A los efectos de lo dispuesto en este artículo, no se tendrán en cuenta las modificaciones contenidas en facturas rectificativas emitidas en fecha posterior a los plazos indicados.
+
+### Artículo 16
+
+Artículo 16. Información sobre los precios y medios de pago.
+1. Los comerciantes están obligados a exhibir al público en los escaparates y vitrinas de sus establecimientos el precio de las mercancías que se encuentren expuestas al público. Esta información obligatoria se expondrá de forma claramente legible para el público en general.
+2. Reglamentariamente se establecerán las condiciones especiales en la información de precios por motivo de seguridad, de homogeneidad o de la naturaleza del producto.
+3. El precio de venta al público se hará constar precedido de las siglas P.V.P. y se expresará por unidad de medida y de forma inequívoca, fácilmente identificable y claramente legible.
+4. El comerciante deberá informar por escrito en su establecimiento y de forma visible de todos los medios de pago que admita, así como de la posibilidad en su caso, de devolución del producto, y de las condiciones para dicha devolución, cuando se derive, exclusivamente, del interés o conveniencia del comprador.
+5. Si en el marcaje del precio de un producto existiesen dos o más precios diferentes, el comerciante estará obligado a vender al precio más bajo de los exhibidos.
+6. En aquellos productos que habitualmente se vendan a granel y se presenten a la venta en cantidades o volúmenes preestablecidos, los mismos se expondrán a la venta con indicación del precio por unidad de medida habitual, indicando, además, la medida del producto y el precio resultante.
+7. En las ventas a plazos, el comerciante deberá en todos los casos, incluida la publicidad, informar al comprador del importe de cada plazo, el número de ellos, la periodicidad de los pagos y el precio total resultante. En los supuestos en los que ello implique la concertación de un crédito, el tipo de interés aplicado se expresará de acuerdo con lo dispuesto en la legislación correspondiente.
+8. Siempre que la entrega total o parcial de productos o la prestación de servicios complementarios sea diferida a un momento posterior a la estipulación del contrato, el comerciante deberá extender factura o documento sustitutivo, haciendo constar las prestaciones debidas y la parte del precio que haya recibido.
+
+### Artículo 17
+
+Artículo 17. Indicación de precios en los productos ofrecidos a distancia.
+En aquellos supuestos en los que la venta de un producto sea ofrecida al comprador o usuario a través de una técnica cualquiera de comunicación a distancia y dentro de un sistema de contratación a distancia organizado por el vendedor, la información deberá incluir, además del precio, incluidos todos los impuestos, el importe de los gastos de entrega y transporte y de los posibles gastos de devolución, en su caso. Asimismo, se informará al usuario de la forma de pago y sistema de reembolso.
+
+### Artículo 18
+
+Artículo 18. Exigibilidad de los precios anunciados.
+Los precios anunciados serán exigibles por los usuarios aún cuando no se correspondan con los que figuren en el contrato celebrado o en la factura o comprobante recibido, no pudiendo ser aplicado un precio superior al anunciado.
+
+## Sección 2
+
+Sección 2.ª Horarios comerciales
+
+### Artículo 19
+
+Artículo 19. De los horarios comerciales.
+1. Sin perjuicio de la normativa básica del Estado, esta materia se regirá por las reglas que se establecen a continuación.
+2. El horario global en que los comercios podrán desarrollar su actividad durante el conjunto de días laborables de la semana, en la Comunidad Autónoma de La Rioja, será como máximo, de noventa horas.
+3. Los domingos y festivos en que los comercios podrán permanecer abiertos al público serán determinados por la Consejería competente en materia de comercio, previa consulta al Consejo Riojano de Comercio, en atención a las necesidades comerciales de La Rioja, de acuerdo con lo establecido en la legislación básica estatal.
+4. El horario de apertura, dentro de los días laborables de la semana, será libremente decidido por cada comerciante, respetando siempre el límite máximo del horario global. También será libremente determinado el horario correspondiente a los domingos o días festivos de cada actividad autorizada.
+5. Los establecimientos dedicados principalmente a la venta de pastelería y repostería, pan, platos preparados, prensa, combustibles y carburantes, floristerías y plantas, y las denominadas tiendas de conveniencia, así como las instaladas en estaciones de transporte y en zonas y municipios de gran afluencia turística tendrán plena libertad para determinar los días y horas en que permanecerán abiertos al público.
+Se entenderá por tiendas de conveniencia aquellas que, con una superficie útil para la exposición y venta no superior a 500 metros cuadrados, permanezcan abiertas al público al menos dieciocho horas al día y distribuyan su oferta en forma similar, entre libros, periódicos y revistas, artículos de alimentación, discos, vídeos, juguetes, regalos y artículos varios.
+6. Por la Consejería competente en materia de turismo se determinarán las zonas y municipios turísticos, así como los períodos a que se contrae la aplicación de la libertad de apertura de las mismas, previo informe de la Consejería competente en materia de Comercio.
+7. También tendrán plena libertad para determinar los días y horas en que permanecerán abiertos al público los establecimientos de venta de reducida dimensión distintos de los anteriores, que dispongan de una superficie útil para la exposición y venta al público inferior a 300 metros cuadrados, excluidos los pertenecientes a empresas o grupos de distribución que no tengan la consideración de pequeña y mediana empresa según la legislación vigente o que operen bajo el mismo nombre comercial de dichos grupos o empresas.
+8. (Suprimido)
+9. Por razones de orden público, los Ayuntamientos podrán acordar el cierre, de manera singularizada, de establecimientos que vendan bebidas alcohólicas.
+Se suprime el apartado 8 por el art. 86.1 de la Ley 7/2012, de 21 de diciembre. Ref. BOE-A-2013-452.
+
+### Artículo 20
+
+Artículo 20. De la información sobre los horarios comerciales.
+Los titulares de establecimientos comerciales sometidos a la presente Ley, estarán obligados a exponer en sus escaparates o en cualquier otro lugar de su establecimiento legible desde el exterior el horario de apertura y cierre que tengan establecido.
+
+## CAPÍTULO IV
+
+Del Consejo Riojano de Comercio
+
+### Artículo 21
+
+Artículo 21. Consejo Riojano de Comercio.
+1. Se creará el Consejo Riojano de Comercio, como órgano colegiado de participación en la ordenación de la actividad comercial, que, con carácter consultivo, garantice y defienda los intereses generales en la misma.
+2. El Consejo Riojano de Comercio, adscrito a la Consejería competente en materia de comercio interior, no participa en la estructura jerárquica de la Administración Pública Autonómica, si bien forma parte de dicha Administración.
+
+### Artículo 22
+
+Artículo 22. Funciones del Consejo Riojano de Comercio.
+1. Emitir informe preceptivo y no vinculante sobre:
+a) Los anteproyectos o proyectos normativos de ordenación del comercio y de la actividad comercial, incluidos las referentes a horarios comerciales, festivos hábiles comercialmente y periodos temporales de realización de actividades de promoción de ventas.
+b) Los planes o directrices de ordenación territorial que afecten al sector comercial, con los objetivos de atender a necesidades colectivas de la población y equilibrar y armonizar el desarrollo y ordenación territorial sectorial, en el marco de la libertad de establecimiento y prestación de servicios y una libre y leal competencia y calidad de los servicios.
+2. Formular cuantas propuestas de actuación estime convenientes para el fomento de la eficiencia de las estructuras y equipamientos comerciales que, partiendo de los principios de un desarrollo sostenible, la innovación tecnológica y la protección del medio ambiente y entorno urbano, en el marco de las peculiaridades propias de los asentamientos de poblaciones en La Rioja, atiendan a las necesidades de los consumidores con el mejor nivel de servicios.
+Se modifica por el art. 44.6 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 23
+
+Artículo 23. Composición y funcionamiento.
+Reglamentariamente se determinará la composición del Consejo Riojano de Comercio, en el que deberán figurar, al menos, la representación de los agentes económicos y sociales, la representación de las asociaciones de consumidores, la representación de las Corporaciones Locales de La Rioja y se determinará su régimen de funcionamiento, así como las condiciones de nombramiento, sustitución y cese de sus miembros.
+
+## TÍTULO III
+
+Concepto de establecimiento comercial y régimen de autorización de grandes establecimientos comerciales
+Se modifica por el art. 44.7 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+## CAPÍTULO I
+
+De los establecimientos comerciales
+Se modifica por el art. 44.7 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 24
+
+Artículo 24. Concepto de establecimiento comercial.
+1. Tendrán la consideración de establecimientos comerciales los locales, construcciones e instalaciones de carácter fijo y permanente, cubiertos o sin cubrir, exentos o no, exteriores o interiores, con escaparates o sin ellos, así como cualquiera otros que legal o reglamentariamente reciban tal calificación, destinados al ejercicio efectivo y regular de actividades comerciales, ya sea en forma individual o en espacio colectivo, e independientemente de que se realice de forma continuada o en días o temporadas determinadas.
+Quedan incluidos en la definición anterior los quioscos y en general las instalaciones de cualquier clase que cumplan con la finalidad señalada en el apartado anterior, siempre que tengan el carácter de inmueble de acuerdo con lo dispuesto en el artículo 334 del Código Civil.
+2. Los establecimientos comerciales podrán tener carácter individual o colectivo. Los de carácter colectivo son los integrados por un conjunto de puntos de venta instalados en el interior de un mismo recinto, en el que se ejercerán las respectivas actividades de forma empresarialmente independiente.
+Reglamentariamente podrán determinarse las definiciones y clasificaciones de los establecimientos comerciales en atención a los productos que se ofrezcan a la venta, su forma de presentación y la superficie útil de venta y exposición.
+Se modifica por el art. 44.7 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 25
+
+Artículo 25. Instalación de establecimientos comerciales.
+Con carácter general y salvo las excepciones que se establezcan y definan legalmente, basadas en razones de interés general, la instalación de establecimientos comerciales no estará sujeta a régimen de autorización comercial.
+Se modifica por el art. 44.7 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+## CAPÍTULO II
+
+De los grandes establecimientos comerciales
+Se modifica por el art. 44.7 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 26
+
+Artículo 26. Concepto de gran establecimiento comercial minorista.
+1. A los efectos de lo dispuesto en esta ley, tendrán la consideración de grandes establecimientos comerciales minoristas los establecimientos individuales o colectivos que, destinándose al comercio minorista de cualquier clase de artículos, tengan una superficie comercial útil para la exposición y venta al público de acuerdo a los siguientes parámetros:
+a) En municipios con menos de 10.000 habitantes, los que tengan una superficie comercial superior a 1.000 metros cuadrados.
+b) En municipios que tengan entre 10.000 y 25.000 habitantes, los que tengan una superficie comercial superior a 1.500 metros cuadrados.
+c) En municipios con 25.000 o más habitantes, los que tengan una superficie comercial superior a 2.500 metros cuadrados.
+2. Se exceptúan de lo dispuesto en el apartado anterior para su consideración como gran establecimiento comercial los viveros de venta al por menor.
+Las dimensiones señaladas en los párrafos a) y b) del apartado anterior no serán de aplicación a la superficie destinada a la venta de los parques temáticos ni a los establecimientos dedicados a la venta de muebles, maquinaria, automóviles y otros artículos de grandes dimensiones, que requieran de un gran espacio físico, que tengan una superficie comercial no superior a los 2.500 metros cuadrados.
+3. Se consideran grandes establecimientos comerciales minoristas colectivos:
+a) Los parques comerciales, integrados por un conjunto de edificaciones de uso comercial o industrial y ubicados en una misma área o recinto común urbanizado, que tengan una superficie comercial definida en el número 1 del presente artículo.
+b) Los centros comerciales integrados por un conjunto de establecimientos comerciales independientes, pertenecientes a una o varias empresas, con gestión unitaria y coordinada en relación con los servicios comunes del propio centro, y que ofrezcan una única imagen como centro comercial.
+4. Los mercados municipales, ubicados en inmuebles demaniales destinados a la prestación del servicio público de mercado a la población, en puestos y espacios gestionados por el comerciante adjudicatario y que ofrecen mayoritaria y esencialmente productos de alimentación, no tendrán la consideración de gran establecimiento comercial, aunque superen la superficie comercial señalada en el apartado 1 de este artículo.
+5. No precisarán licencia comercial aquellos proyectos que supongan la ampliación de establecimiento en explotación, autorizados como gran establecimiento, siempre que la superficie de venta en que se vaya a incrementar no exceda del 20% de la superficie inicial autorizada. No obstante, la ejecución de estos proyectos deberá comunicarse a la Consejería competente en materia de Comercio, a través del procedimiento que reglamentariamente se determine.
+6. El Gobierno de La Rioja podrá desarrollar reglamentariamente el régimen de excepciones a lo establecido en el apartado primero del presente artículo, delimitando zonas del territorio y establecimientos a los que afecten razones de interés supramunicipal.
+Se modifica por el art. 44.7 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 27
+
+Artículo 27. Del régimen de autorización de grandes establecimientos comerciales.
+1. La instalación o ampliación de la superficie comercial de un gran establecimiento comercial minorista estará sometida, salvo la excepción prevista en párrafo 5 del artículo 26 de la Ley, a régimen de autorización administrativa, que, como licencia comercial, en su caso, se otorgará mediante resolución de la Consejería con competencias en materia de Comercio Interior del Gobierno de La Rioja.
+Igualmente estará sometida a licencia comercial la ampliación o modificación de un establecimiento comercial preexistente, cuando a consecuencia de aquellas accediera a la condición de gran establecimiento comercial.
+El régimen de autorización y su procedimiento, así como las condiciones para su concesión será desarrollado reglamentariamente en el marco del ordenamiento jurídico comunitario, estatal y autonómico que se determina en la presente norma y las normas reglamentarias que en su desarrollo dicte el Gobierno de La Rioja.
+2. El establecimiento del régimen de autorización de los grandes establecimientos comerciales y las condiciones a valorar en el procedimiento de concesión se fundamentarán en la protección de los siguientes intereses generales:
+a) La protección del entorno urbano, en atención a su ubicación en el territorio del término municipal correspondiente y la clasificación urbanística del suelo donde pretenda instalarse, con la incidencia sobre los servicios públicos que sobre el citado entorno pueda tener su construcción y explotación.
+A estos efectos, las condiciones del régimen de autorización valorarán positivamente la ubicación del gran establecimiento en perímetros urbanos consolidados en cada municipio y que coadyuven a la revitalización social y urbanística de los mismos.
+b) La conservación, protección y mejora de la calidad ambiental y la utilización prudente y racional del suelo, teniendo en cuenta el impacto ambiental que pueda producir la totalidad de la superficie construida, su sostenibilidad ambiental y las actuaciones de transformación urbanística que provoquen en relación con la ampliación y reforzamiento de los servicios o infraestructuras públicas preexistentes, incluidas las que afectan a la red viaria de comunicación y transporte, sin perjuicio de las obligaciones que como promotor de la transformación urbanística le correspondan legalmente al promotor.
+c) La protección del patrimonio histórico, cultural y natural.
+d) La incidencia de la explotación del proyecto en la calidad del empleo, con valoración positiva de la contratación indefinida, de las condiciones de trabajo y la incorporación al mercado laboral de colectivos con dificultades de inserción.
+e) La protección de los derechos e intereses de los consumidores y usuarios con la implantación de códigos de buenas prácticas y resolución extrajudicial de conflictos.
+f) Las características comerciales del proyecto, con la finalidad de obtener la mayor calidad posible de los servicios, incluyendo mecanismos de control y certificación de la misma.
+g) La promoción de las nuevas tecnologías de la comunicación.
+h) La inversión en energías renovables.
+Se modifica por el art. 44.7 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 27 bis
+
+Artículo 27 bis. Procedimiento de concesión de la licencia comercial.
+1. El procedimiento administrativo de concesión de licencia comercial de un gran establecimiento comercial se iniciará previa solicitud de la persona física o jurídica promotora del proyecto acompañada de la documentación que se determine reglamentariamente en forma impresa o electrónica, de conformidad con los procedimientos, instrumentos y garantías que reglamentariamente se habiliten al efecto.
+2. La solicitud y documentación correspondiente se dirigirá a la Consejería con competencias en comercio interior, pudiendo solicitar que de la misma se dé traslado al ayuntamiento en cuyo término municipal pretenda ubicarse para el inicio y realización de los trámites que a la Administración municipal correspondan sobre la actividad proyectada.
+3. La Administración municipal deberá formalizar informe debidamente motivado, que será vinculante si fuere desfavorable, sobre el proyecto presentado, en el plazo de un mes desde la fecha de recepción del expediente, entendiendo que, transcurrido el plazo citado sin emisión y puesta en conocimiento del órgano responsable de la tramitación, es positivo.
+La solicitud del informe interrumpe el plazo para dictar resolución. Solicitada la emisión del informe municipal, quedará en suspenso el plazo máximo para dictar resolución en el procedimiento, al considerase el citado informe preceptivo y determinante, debiendo comunicarse al interesado.
+El cómputo del plazo expresado para la emisión del informe municipal podrá ser objeto de suspensión, si a criterio municipal fuera necesario requerir al peticionario la subsanación sobre la documentación presentada, comunicándolo simultáneamente al órgano responsable de la gestión del expediente en la Administración General de la Comunidad Autónoma.
+4. El informe municipal deberá pronunciarse al menos sobre los siguientes extremos en relación con el proyecto presentado:
+a) Aptitud del uso proyectado del suelo al planeamiento urbanístico municipal vigente o la necesidad de su modificación.
+b) Impacto en la red viaria, infraestructuras y servicios públicos municipales.
+c) Efectos sociales en el entorno urbano.
+d) Cualquier otro efecto del proyecto que considere de interés.
+5. Simultáneamente a la tramitación municipal expresada en los apartados anteriores, el órgano responsable de la gestión del expediente de la Administración autonómica procederá en las condiciones que reglamentariamente se determinen a realizar las siguientes actuaciones:
+a) Solicitar informe de impacto del proyecto a la autoridad autonómica competente en protección del medio ambiente, ordenación territorial, calidad ambiental y medio natural, si el proyecto pretende ubicarse en suelo no urbanizable, susceptible de cambio de uso mediante la transformación urbanística consecuente.
+b) Solicitar informe del proyecto a la autoridad autonómica competente en materia de patrimonio histórico-artístico si el proyecto es susceptible de afectar a un bien jurídico protegido en esa materia.
+El proyecto deberá ser sometido a información pública conforme a las disposiciones contenidas en el artículo 86 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico y Procedimiento Administrativo Común de las Administraciones Públicas. Este trámite podrá ser realizado por la Administración municipal correspondiente, dando conocimiento de su resultado a la Administración autonómica competente en materia de comercio interior o, en su defecto, será realizado por esta última Administración.
+6. Reglamentariamente, se regulará la tramitación telemática del procedimiento, atendiendo a las disposiciones de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
+7. El órgano responsable de la tramitación y gestión del expediente será la Dirección General con competencia en Comercio Interior, que elaborará la propuesta de resolución correspondiente, que necesariamente deberá aludir a la resolución municipal de actividad clasificada que pueda exigirse.
+8. El plazo máximo para la resolución del expediente será de seis meses a contar desde la fecha de presentación de toda la documentación completa del expediente, incluido el informe o resolución municipal ante el órgano gestor de la Administración autonómica. No obstante, el cómputo del plazo podrá interrumpirse de acuerdo con lo establecido en el presente artículo y las leyes de aplicación. La suspensión del plazo para dictar resolución será puesto en conocimiento del interesado.
+Transcurrido el plazo determinado sin resolución expresa, se entenderá que la licencia comercial ha sido concedida. En ningún caso podrá entenderse adquirida por silencio positivo licencia comercial si el proyecto de establecimiento incurriese en infracción de la normativa de ordenación de los recursos naturales, territorial, urbanística o sectorial aplicable, en cuyo caso no se entenderán adquiridas las facultades para las que habilita la licencia comercial.
+Excepcionalmente, podrá acordarse por el órgano gestor la ampliación, por una sola vez, del plazo máximo de resolución y notificación, debidamente motivada.
+9. La licencia comercial concedida tendrá vigencia indefinida, sin perjuicio de la caducidad de la misma por causa imputable al interesado, previo procedimiento contradictorio, en los siguientes supuestos:
+a) Cuando transcurrido el plazo determinado en la licencia urbanística de obras, las mismas no se hayan comenzado en forma regular o no hayan finalizado, sin perjuicio de las prórrogas que puedan proceder.
+b) Transcurridos tres años desde la fecha de concesión de la licencia de actividad comercial, sin que la misma se haya hecho efectiva en los términos de la autorización concedida.
+Igualmente y mediante procedimiento contradictorio se podrá revocar la licencia por el órgano que la concedió, por causa imputable al interesado, sin que la misma comporte indemnización alguna, cuando se incumplan las condiciones establecidas en la propia licencia.
+10. La transmisión de la titularidad del establecimiento sometido a licencia comercial requerirá su previa comunicación al órgano competente para su concesión.
+Se modifican los apartados 5 y 10 por el art. 38.1 y 2 de la Ley 7/2011, de 22 de diciembre. Ref. BOE-A-2012-1142.
+ Se añade por el art. 44.7 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+## CAPÍTULO III
+
+Planes territoriales especiales de grandes establecimientos comerciales
+Se modifica por el art. 44.7 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 28
+
+Artículo 28. Objetivo.
+El objetivo de los planes territoriales especiales de grandes establecimientos comerciales será el de propiciar la utilización adecuada, racional y equilibrada del territorio para usos comerciales, en cuanto recurso natural no renovable y soporte obligado para el ejercicio de las actividades de los agentes económicos, cuando se puedan ver afectados intereses supramunicipales.
+Las propuestas que se elaboren podrán servir como instrumentos para el desarrollo de un urbanismo comercial, de conformidad con lo dispuesto en el capítulo III del título I de la Ley 5/2006, de 2 de mayo, de Ordenación del Territorio y Urbanismo de La Rioja sobre:
+a) Sistema viario afectado, previsión de conexión y accesos, y los efectos en la movilidad de las personas y de los medios de transporte.
+b) Obras de infraestructuras y servicios públicos afectados.
+c) Contaminación atmosférica y lumínica.
+d) Conservación de espacios naturales de La Rioja.
+Se modifica por el art. 44.7 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+## CAPÍTULO IV
+
+De los mercadillos y mercados de ocasión
+
+### Artículo 29
+
+Artículo 29. De los mercadillos.
+1. Son mercadillos aquellas superficies de venta, previamente acotadas por la autoridad municipal, en las que se instalan, normalmente con periodicidad previamente establecida, puestos de venta, de carácter no permanente, destinados a la venta de determinados productos.
+2. Los Ayuntamientos podrán autorizar las ventas en mercadillos, determinando el número de puestos de cada uno y el tipo de productos que pueden ser vendidos de conformidad con lo establecido en esta Ley y en el resto de la legislación en vigor en materia de ventas fuera del establecimiento comercial.
+
+### Artículo 30
+
+Artículo 30. De los mercados de ocasión.
+1. Se entienden por mercados de ocasión, a efectos de lo dispuesto en esta Ley, aquellos lugares o establecimientos en los que se llevan a cabo transacciones de productos que, por ser de segunda mano, se realizan en condiciones más ventajosas para los compradores que en los establecimientos habituales. Queda prohibida la venta en dichos mercados de productos distintos de los enunciados en este apartado, así como de productos alimenticios.
+2. La autorización para vender productos en los mercados de ocasión quedará sujeta a los mismos requisitos exigidos para la venta ambulante, indicados en esta Ley. Respecto de los lugares en los que podrán instalarse los mercados de ocasión, cuando no radiquen en establecimientos permanentes, será aplicable lo establecido en el artículo 34 de esta Ley y en la normativa reguladora del ejercicio de determinadas modalidades de venta fuera de un establecimiento comercial permanente.
+
+### Artículo 31
+
+Artículo 31. Información sobre mercadillos.
+1. Sin menoscabo de las competencias municipales en materia de mercadillos y mercados de ocasión, para facilitar el cumplimiento de las funciones estadísticas y, en general, para el fomento y una más racional distribución de los mercadillos de productos típicos y artesanales, los Ayuntamientos remitirán a la Consejería competente en materia de comercio, con periodicidad anual, relación completa de los mercadillos y mercados de ocasión que se celebren en su término municipal, indicando los lugares en que se instalan, la superficie de venta, el número de puestos, las fechas en que tienen lugar y los productos autorizados para cada uno de ellos.
+2. Asimismo, y a efectos informativos, será remitida dicha documentación a la Cámara Oficial de Comercio e Industria de La Rioja y al Consejo Riojano de Comercio.
+
+## TÍTULO IV
+
+Modalidades específicas de venta
+
+## CAPÍTULO I
+
+Disposición general
+
+### Artículo 32
+
+Artículo 32. Modalidades específicas de venta.
+Se consideran modalidades específicas de venta, a los efectos de esta Ley, tanto las ventas especiales como las promociones de venta.
+
+## CAPÍTULO II
+
+De las ventas especiales
+
+### Artículo 33
+
+Artículo 33. Principio general.
+Toda actividad comercial debe, salvo los supuestos especialmente previstos en esta Ley, desarrollarse en el propio establecimiento permanente del vendedor y por cualesquiera de los métodos de venta admitidos por la práctica comercial.
+
+### Artículo 34
+
+Artículo 34. Concepto.
+1. Se consideran ventas especiales aquéllas no celebradas en un establecimiento comercial abierto al público de manera permanente, y especialmente, las ventas a distancia, la venta ambulante, las ventas automáticas, las ventas domiciliarias y las ventas en subasta pública.
+2. Los comerciantes que se dediquen a la realización de cualquiera de las modalidades de venta señaladas en el número anterior deberán comunicarlo en la forma y plazo que se determine reglamentariamente al órgano de la Administración competente en materia de comercio interior, quien procederá de oficio a su inscripción en el Registro de Comerciantes y Actividades Comerciales de La Rioja, sin perjuicio de las obligaciones de inscripción en otros registros sectoriales o de carácter nacional.
+Se modifica el apartado 2 por el art. 44.8 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+## Sección 1
+
+Sección 1.ª Ventas ambulantes o no sedentarias
+
+### Artículo 35
+
+Artículo 35. Concepto.
+1. Son ventas ambulantes o no sedentarias las realizadas por los comerciantes fuera de un establecimiento comercial permanente, en puestos o instalaciones desmontables (transportables o móviles), ubicados en solares y espacios abiertos o en la vía pública, en lugares y fechas variables. Dichos puestos o instalaciones no podrán situarse en los accesos a lugares comerciales o industriales, ni a sus escaparates o exposiciones, ni a edificios de uso público.
+2. Corresponde a los ayuntamientos otorgar las autorizaciones para el ejercicio de la venta ambulante en sus respectivos términos municipales, de acuerdo con sus normas específicas y las contenidas en la legislación vigente. En todo caso, los comerciantes que se dediquen a este tipo de venta deberán estar identificados en el puesto de venta para que los destinatarios de los productos y oferta de venta puedan conocer en forma directa los datos de titularidad y el domicilio del comerciante.
+El número de autorizaciones para la venta ambulante podrá ser limitado por los ayuntamientos en función del espacio y las ubicaciones de suelo o instalaciones públicas de que dispongan para este tipo de venta.
+La duración de las licencias para este tipo de venta no podrá concederse por tiempo indefinido, debiendo permitir en todo caso la amortización de las inversiones y la obtención de los rendimientos económicos de los capitales invertidos.
+En cualquier caso, el procedimiento de selección entre los solicitantes, si exceden del número de puestos, garantizará la transparencia y la imparcialidad y, en concreto, la publicidad adecuada sobre el inicio, desarrollo y finalización del proceso de selección.
+3. En ningún caso podrán ser objeto de venta ambulante o no sedentaria los bienes o productos cuya propia normativa lo prohiba, especialmente los de carácter alimenticio y aquellos otros que, por razón de su presentación u otros motivos, no cumplan la normativa técnico-sanitaria y de seguridad.
+Se modifica el apartado 2 por el art. 44.9 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 36
+
+Artículo 36. Modalidades de venta ambulante o no sedentaria.
+1. A efectos de esta Ley se entiende por:
+a) Venta ambulante o no sedentaria en mercados fijos: aquella que se autoriza en lugares determinados, anejos a los mercados que tienen sede permanente en las poblaciones.
+b) Venta ambulante o no sedentaria en mercados periódicos: aquella que se autoriza en los mercados que se celebran en las poblaciones, en lugares establecidos, con una periodicidad habitual y determinada.
+c) Venta ambulante o no sedentaria en mercados ocasionales: aquella que se autoriza en mercados esporádicos que tienen lugar con motivo de fiestas o acontecimientos populares.
+d) Venta ambulante o no sedentaria de productos de naturaleza estacional en lugares instalados en la vía pública: aquella que, con criterios restrictivos y excepcionales, puede autorizarse una vez fijados el número de puestos y su emplazamiento o las zonas determinadas donde debe realizarse.
+e) Venta ambulante o no sedentaria mediante vehículos-tiendas: la realizada de forma habitual, ocasional, periódica o continuada, por personas autorizadas, en vehículos-tiendas en las fechas, el calendario y los itinerarios aprobados previamente por los Ayuntamientos.
+2. En todas las modalidades de venta ambulante o no sedentaria, los comerciantes deberán informar a los consumidores de la dirección donde se atenderán, en su caso, sus reclamaciones. Dicha dirección figurará, igualmente, en la factura o en el comprobante de venta.
+
+## Sección 2
+
+Sección 2.ª Ventas a domicilio
+
+### Artículo 37
+
+Artículo 37. Concepto.
+1. Se consideran ventas domiciliarias aquellas formas de distribución comercial ejercidas por comerciantes que ofrecen sus productos y proponen o concluyen los contratos en el domicilio particular o en el lugar de trabajo del comprador, en el que se personan el vendedor, sus empleados o sus representantes. Los comerciantes que se dediquen a este tipo de venta deberán comunicarlo a la Administración competente en materia de Comercio en la forma y plazo que se determine reglamentariamente, que procederá de oficio a su inscripción en el Registro de Comerciantes y Actividades Comerciales de La Rioja.
+2. Se asimilarán a las ventas a domicilio y quedan sometidas a su mismo régimen:
+a) Las denominadas ventas en reuniones, en las que la oferta de las mercancías se efectúa mediante demostración practicada ante un grupo de personas, en reunión ocasionalmente organizada por una de ellas en su propio domicilio o a petición del vendedor.
+b) Las realizadas durante una excursión organizada por el comerciante.
+3. No se consideran comprendidos en dicho concepto los repartos a domicilio de mercancías adquiridas en establecimientos permanentes ni las entregas a domicilio de mercancías basadas en la existencia de un contrato de suministro entre el cliente y quien realiza el reparto o su principal.
+4. En ningún caso podrán venderse a domicilio bebidas, productos alimenticios ni cualesquiera otros a los que su normativa reguladora prohiba expresamente su puesta en el mercado mediante este sistema de venta, así como los que, por su forma de presentación o por otras circunstancias, no cumplan las normas técnico-sanitarias o de seguridad que les sean aplicables.
+5. La publicidad de la oferta, que deberá ser entregada al consumidor, incluirá la identificación de la empresa vendedora, los datos esenciales del producto de forma que permitan su identificación inequívoca en el mercado y el precio, forma y condiciones de pago, gastos y plazo de envío.
+6. El vendedor está obligado a poner en conocimiento del consumidor, por escrito, el derecho que le asiste de disponer de un período de reflexión, no inferior a siete días, durante el cual puede decidir la devolución del producto de que se trate y recibir las cantidades que haya entre­gado, de conformidad con lo establecido en la Ley 26/1991, de 21 de noviembre, de protección de los consumidores en el caso de contratos celebrados fuera de los establecimientos mercantiles.
+Se modifica el apartado 1 por el art. 44.10 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+## Sección 3
+
+Sección 3.ª Ventas a distancia
+
+### Artículo 38
+
+Artículo 38. Concepto.
+1. A los efectos de esta Ley, se consideran ventas a distancia las celebradas sin la presencia física simultánea del comprador y del vendedor, siempre que su oferta y aceptación se realicen de forma exclusiva a través de una técnica cualquiera de comunicación a distancia, y dentro de un sistema de contratación a distancia organizado por el vendedor.
+2. Las ventas a distancia se regirán por la presente Ley, por la legislación estatal y, cuando la contratación se lleve a cabo a través de medios electrónicos, se aplicará la normativa específica sobre servicios de la sociedad de la información y comercio electrónico.
+
+## Sección 4
+
+Sección 4.ª Ventas automáticas
+
+### Artículo 39
+
+Artículo 39. Concepto.
+1. Es venta automática, a los efectos de esta Ley, aquella en la cual el comprador adquiere la mercancía de que se trate directamente de una máquina preparada a tal efecto y mediante la introducción en la misma del importe requerido.
+2. No privará a una venta de su condición de automática el hecho de que la máquina vendedora se encuentre instalada en el mismo establecimiento del vendedor.
+3. En el caso de productos alimenticios, únicamente están autorizados para su venta automática los que estén envasados, los cuales llevarán la identificación que esté prescrita por la normativa vigente en materia de etiquetaje y de comercialización.
+4. Las máquinas destinadas a este tipo de venta deberán reunir los requisitos que reglamentariamente se determinen y, en todo caso, los siguientes:
+a) Haber sido homologadas por la autoridad administrativa competente.
+b) Incluir las instrucciones para la obtención del producto de que se trate.
+c) Contener un sistema, también automático, de recuperación de monedas y/o billetes para los supuestos de error, inexistencia de mercancías o mal funcionamiento de la máquina.
+d) Llevar claramente expuesto el precio exacto del producto que vendan, los tipos de monedas que admiten para la obtención de aquéllos y el nombre y domicilio del empresario a quien pertenecen, así como un número de teléfono al que se puedan cursar avisos en los supuestos de avería.
+
+## Sección 5
+
+Sección 5.ª Ventas en pública subasta
+
+### Artículo 40
+
+Artículo 40. Concepto.
+1. Son ventas en pública subasta aquellas consistentes en la oferta pública e irrevocable de un bien a los efectos de la adjudicación del producto, mediante el sistema de pujas y dentro del plazo concedido al efecto, al oferente que proponga un mejor precio en el curso de una sesión pública convocada al efecto.
+2. Quedan fuera del ámbito de aplicación de las presentes normas las subastas judiciales o administrativas, las que se lleven a cabo en lonjas y lugares similares y las subastas de títulos valores.
+3. La venta en pública subasta realizada en forma ocasional deberá ser comunicada en las condiciones que reglamentariamente se determinen, con una antelación mínima de diez días a la fecha de realización, al ayuntamiento en cuyo ámbito territorial vaya a realizarse.
+Se modifica el apartado 3 por el art. 44.11 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+## CAPÍTULO III
+
+De las ventas promocionales
+
+## Sección 1
+
+Sección 1.ª Conceptos generales
+
+### Artículo 41
+
+Artículo 41. Definición general.
+1. Son ventas promocionales aquellas en las que las ofertas de productos hechas por el vendedor a los compradores se realizan en condiciones más ventajosas que las habituales.
+2. Se consideran ventas promocionales: las ventas con obsequio, las ventas en rebajas, las ventas en liquidación, las ventas de saldo y las ventas con descuento.
+3. Toda venta promocional que, aún anunciándose con distinta denominación, reúna las características de cualquiera de las modalidades previstas en esta Ley, se entenderá asimilada a la misma y quedará sujeta a su regulación específica.
+4. Las ventas promocionales solo serán lícitas cuando respeten lo dispuesto en los artículos siguientes y demás legislación vigente que les sea de aplicación.
+
+### Artículo 42
+
+Artículo 42. Requisitos generales.
+1. En todo momento, de oficio o a instancia de parte interesada, la Dirección General competente en materia de comercio podrá requerir a los comerciantes que practiquen cualquier modalidad de venta promocional, la información necesaria para apreciar el cumplimiento de lo dispuesto en esta Ley.
+2. Los consumidores podrán utilizar para sus compras los mismos medios de pago que admita habitualmente el comerciante, así como exigir la contraprestación promocional que se desprenda de la oferta y de la publicidad realizada.
+3. Se entenderá por precio anterior o habitual, aquel que hubiese sido aplicado sobre productos idénticos durante un período continuado de al menos treinta días, en el curso de los seis meses precedentes.
+4. En cada uno de los artículos que se dispongan para la venta con reducción de precio, deberá constar con claridad el precio anterior junto con el precio reducido, salvo que se trate de artículos puestos a la venta por primera vez. En el caso de productos expuestos de forma conjunta, se podrá exhibir un solo anuncio en el que se especifique el precio anterior y el precio reducido o, en su caso, el porcentaje de descuento aplicable sobre los mismos.
+
+### Artículo 43
+
+Artículo 43. Publicidad.
+1. La publicidad de las ventas promocionales deberá ir acompañada de información suficiente y clara sobre las condiciones de venta, precio habitual y reducido o el porcentaje de descuento sobre el precio habitual, las características de las ofertas, de los productos que se incluyen y del período de vigencia de la promoción, con fechas concretas de inicio y finalización de la misma.
+2. La duración de la publicidad no excederá de la disponibilidad de existencias de los productos ofertados.
+3. Se prohíbe la realización de cualquier tipo de promoción comercial que, por las circunstancias en que se practica, genere confusión con otra modalidad de promoción distinta y sea susceptible objetivamente, de provocar el hecho de eludir las normas aplicables, así como aquella que no disponga de existencias suficientes para afrontar la oferta.
+Si llegaran a agotarse durante la promoción las existencias de alguno de los productos ofertados, el comerciante podrá prever el compromiso de la reserva del producto seleccionado durante un plazo determinado, en las mismas condiciones y precio de la oferta. No obstante, si el comprador no estuviese conforme con dicha medida, o transcurriese el plazo de la reserva sin que el comerciante hubiese podido atender la demanda, el producto solicitado deberá sustituirse por otro de similares condiciones y características.
+
+### Artículo 44
+
+Artículo 44. Artículos promocionados.
+1. El comerciante no podrá limitar el número de unidades del producto o productos promocionados que pueda adquirir cada comprador ni aplicar precios mayores o menores descuentos a medida que sea mayor la cantidad adquirida.
+2. Cuando la oferta no sea suficiente para satisfacer toda la demanda, no se podrán establecer criterios discriminatorios de preferencias entre los compradores.
+3. Cuando las promociones no alcancen a la mitad del inventario no podrán anunciarse como una medida general.
+4. Las actividades de promoción de ventas podrán simultanearse en un mismo establecimiento comercial, excepto en los supuestos de venta en liquidación, siempre y cuando los artículos promocionados estén claramente delimitados y anunciados visiblemente por separado del resto de los artículos y del resto de las promociones que puedan concurrir en el establecimiento.
+Se modifica por el art. 86.3 de la Ley 7/2012, de 21 de diciembre. Ref. BOE-A-2013-452.
+
+## Sección 2
+
+Sección 2.ª Ventas con obsequio
+
+### Artículo 45
+
+Artículo 45. Ventas con obsequio.
+A los efectos de la presente Ley, se consideran ventas con obsequio aquellas en las que el comerciante utiliza concursos, sorteos, regalos, vales, premios o similares, vinculados a la oferta, promoción o venta de determinados productos.
+
+### Artículo 46
+
+Artículo 46. Requisitos.
+1. Durante el período de duración de la oferta con obsequio, queda prohibido modificar el precio o la calidad del producto principal al que aquélla acompaña.
+2. Las bases por las que se regirán los concursos, sorteos o similares, deberán constar en el envase o envoltorio del producto de que se trate o, en su defecto, estar debidamente registradas ante Notario, siendo obligatoria la difusión de los ganadores de los premios, vinculados a la oferta en un plazo máximo de un mes tras terminar la misma. En la comunicación a cualquier persona de que ha sido agraciada con un premio, se deberá señalar clara y expresamente que no se encuentra condicionada a la adquisición de ningún producto o servicio.
+3. Los bienes o servicios en que consistan los objetos o incentivos promocionales deberán entregarse al comprador en el momento de la compra, o bien, en un plazo máximo de dos meses, a contar desde que el comprador reúna los requisitos exigidos. Todo sorteo, apuesta o concurso en que se exija al participante un desembolso inicial estará sujeto a la legislación del juego, salvo que el sorteo o concurso se ofrezca como obsequio con la compra de productos.
+4. Las ventas con obsequio se ajustarán, en cuanto a los casos en que procedan, sus formas, duración, efectos y garantías, a lo dispuesto en la Ley 26/1984, de 19 de julio, general para la Defensa de los Consumidores y Usuarios y en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista.
+
+### Artículo 47
+
+Artículo 47. Legislación aplicable en materia de sorteos.
+Todos los sorteos destinados a premiar la participación de los consumidores, deberán realizarse conforme a lo dispuesto en la Ley 5/1999, de 13 de abril, reguladora del Juego y Apuestas de la Comunidad Autónoma de La Rioja y en su normativa de desarrollo.
+
+## Sección 3
+
+Sección 3.ª Ventas en rebajas
+
+### Artículo 48
+
+Artículo 48. Ventas en rebajas.
+1. A los efectos de esta ley, se considera venta en rebajas aquella en la que los artículos objeto de la misma se ofertan en el establecimiento donde se ejerce habitualmente la actividad comercial, a un precio inferior al fijado con anterioridad, con la duración que decida libremente cada comerciante.
+2. Las ventas en rebajas podrán tener lugar en los periodos estacionales de mayor interés comercial según el criterio de cada comerciante.
+3. Queda prohibida la utilización de la denominación de venta en rebajas en relación con artículos deteriorados, artículos adquiridos para esta finalidad y artículos que no estuvieran incluidos con anterioridad en la oferta habitual de ventas del establecimiento.
+Se modifica por el art. 86.3 de la Ley 7/2012, de 21 de diciembre. Ref. BOE-A-2013-452.
+
+### Artículo 49
+
+Artículo 49. Condiciones.
+1. En las ventas en rebajas, los comerciantes están obligados a aceptar los mismos medios de pago que admiten habitualmente.
+2. La duración de la venta anunciada y la importancia de la publicidad estará en relación con el stock de artículos en rebaja.
+
+### Artículo 50
+
+Artículo 50. Información.
+1. Tanto en la publicidad como en la información ofrecida a los consumidores sobre las ventas en rebaja, se indicarán las fechas de comienzo y final de las mismas en sitio legible al público, incluso cuando los establecimientos permanezcan cerrados.
+2. Las rebajas solo podrán ser anunciadas por el comerciante, con ocho días de antelación como máximo al inicio de las mismas. Únicamente durante los diez últimos días de las ventas en rebaja, las empresas o establecimientos podrán utilizar expresiones publicitarias que hagan referencia concreta a la oferta final de la venta de rebajas.
+
+### Artículo 51
+
+Artículo 51. Separación de los productos rebajados.
+1. En el supuesto de que las ventas con rebajas no afecten a la totalidad de los productos comercializados, los rebajados estarán debidamente identificados y diferenciados del resto.
+2. En el caso que se efectúen al mismo tiempo y en el mismo local ventas en rebajas y de saldos, deberán aparecer debidamente separadas con diferenciación de los espacios dedicados a cada una de ellas y anunciarse de manera precisa y ostensible cuando se trate de "venta de saldos".
+Se modifica por el art. 86.4 de la Ley 7/2012, de 21 de diciembre. Ref. BOE-A-2013-452.
+
+## Sección 4
+
+Sección 4.ª Venta en liquidación
+
+### Artículo 52
+
+Artículo 52. Ventas en liquidación.
+1. Se entiende por venta en liquidación la venta de carácter excepcional y de finalidad extintiva de determinadas existencias de productos que, anunciada con esta denominación u otra equivalente, tiene lugar en ejecución de una decisión judicial o administrativa, o es llevada a cabo por el comerciante o por el adquirente por cualquier título del negocio de aquél en alguno de los casos siguientes:
+a) El cese total o parcial de la actividad comercial. En el supuesto de que una empresa sea titular de diversos establecimientos comerciales de la misma actividad, el cese total o parcial de la actividad de comercio deberá ser de todos los de una misma ciudad. El cierre total o parcial de un solo punto de venta no tendrá la consideración de cese total o parcial sino de cambio de local. En el supuesto de cese parcial tendrá que indicarse la clase de mercancías objeto de la liquidación.
+b) Cambio de ramo de comercio o modificación sustancial en la orientación del negocio.
+c) Cambio de local o realización de obras de importancia en el mismo.
+d) Cualquier supuesto de fuerza mayor que cause grave obstáculo al normal desarrollo de la actividad comercial.
+2. En el curso de los tres años siguientes a la finalización de una venta en liquidación, el vendedor no podrá ejercer el comercio en la misma localidad, sobre productos similares a los que hubiesen sido objeto de liquidación, por cualquiera de los motivos establecidos en las letras a) y b) del apartado 1 del presente artículo.
+3. Tampoco podrá proceder a una nueva liquidación en el mismo establecimiento, excepto cuando esta última tenga lugar en ejecución de decisión judicial o administrativa, por cesación total de la actividad o por causa de fuerza mayor.
+
+### Artículo 53
+
+Artículo 53. Requisitos de las ventas en liquidación.
+1. Los productos objeto de las ventas en liquidación deberán formar parte de las existencias del establecimiento y haber integrado la oferta comercial ordinaria del establecimiento.
+2. Para que pueda tener lugar una liquidación será preciso que, con quince días de antelación, se comunique dicha decisión a la consejería competente en materia de Comercio, precisando la causa de la misma, fecha de comienzo, duración de la misma y relación de mercancías.
+3. La duración máxima de la venta en liquidación será de un año.
+4. Los anuncios de las ventas en liquidación deberán indicar la causa de esta y la fecha de inicio y finalización.
+Se modifica por el art. 86.5 de la Ley 7/2012, de 21 de diciembre. Ref. BOE-A-2013-452.
+
+## Sección 5
+
+Sección 5.ª Ventas de saldo
+
+### Artículo 54
+
+Artículo 54. Ventas de saldo.
+1. Se considera venta de saldos la de productos cuyo valor de mercado aparezca manifiestamente disminuido a causa del deterioro, desperfecto, desuso u obsolescencia de los mismos, sin que un producto tenga esta consideración por el solo hecho de ser un excedente de producción o de temporada.
+2. No cabe calificar como venta de saldos la de aquellos productos que no se venden realmente por precio inferior al habitual ni la de aquellos productos cuya venta bajo tal régimen implique riesgo o engaño para el comprador, estando el comerciante obligado a advertir al comprador por escrito y en lugar visible de las circunstancias concretas que concurran en los mismos.
+3. La venta de saldos no podrá prolongarse una vez agotado el stock, debiendo cesar inmediatamente la publicidad al respecto.
+Se modifica por el art. 86.6 de la Ley 7/2012, de 21 de diciembre. Ref. BOE-A-2013-452.
+
+### Artículo 55
+
+Artículo 55. Diferenciación de mercancías en ventas de saldo.
+La venta de saldos podrá practicarse tanto en establecimientos comerciales dedicados a ventas no promocionales como en establecimientos comerciales o puestos de venta no sedentaria dedicados exclusivamente a esta finalidad. En el primero de los supuestos, los productos objeto de la venta de saldo deberán estar claramente diferenciados del resto de los productos.
+
+### Artículo 56
+
+Artículo 56. Requisitos de los comerciantes dedicados a ventas de saldos.
+Los comerciantes que deseen dedicarse exclusivamente a la venta de artículos de saldo, deberán cumplir las siguientes condiciones:
+a) Rotular de manera clara el establecimiento o puesto de venta en que vayan a efectuar la oferta de ventas en saldo con el indicativo venta de saldos exclusivamente.
+b) Comunicar a la Consejería competente en materia de comercio el tipo de artículos a ofertar y los lugares en que vaya a realizarse la oferta.
+
+## Sección 6
+
+Sección 6.ª Ventas con descuento
+
+### Artículo 57
+
+Artículo 57. Ventas con descuento.
+1. Se consideran ventas con descuento las que se realicen por precio inferior o en condiciones más favorables que las habituales con objeto de dar a conocer un nuevo producto, potenciar las ventas de los existentes o desarrollar uno o varios establecimientos.
+2. Los productos con descuento podrán adquirirse para este exclusivo fin, no podrán estar deteriorados ni tampoco ser de peor calidad que los mismos productos que vayan a ser objeto de futura oferta a precio normal.
+3. El comerciante deberá disponer de existencias suficientes para hacer frente a la oferta, durante al menos un día. Si llegaran a agotarse durante la promoción las existencias de algunos de los productos ofertados, el comerciante podrá prever el compromiso de la reserva del producto seleccionado durante un plazo determinado en las mismas condiciones y precio de la oferta. No obstante, si el comprador no estuviese conforme con dicha medida, o transcurriese el plazo de la reserva sin que el comerciante hubiese podido atender la demanda, el producto solicitado deberá sustituirse por otro de similares condiciones y características.
+Se modifica por el art. 86.7 de la Ley 7/2012, de 21 de diciembre. Ref. BOE-A-2013-452.
+
+## TÍTULO V
+
+De las actividades feriales
+
+### Artículo 58
+
+Artículo 58. Concepto.
+1. Se consideran actividades feriales, a efectos de la presente Ley, las manifestaciones comerciales que tienen por objeto la exposición de bienes o la oferta de servicios para favorecer su conocimiento y difusión, promover contactos e intercambios comerciales, lograr mayor transparencia en el mercado y acercar la oferta de las distintas ramas de la actividad económica a la demanda, siempre que reúnan las siguientes características:
+a) Tener una duración limitada en el tiempo.
+b) Reunir a una pluralidad de expositores.
+2. No tendrán la consideración de actividades feriales, a los efectos de la aplicación de la presente Ley:
+a) Las exposiciones universales que se rigen por la Convención de París de 22 de noviembre de 1928.
+b) Las exposiciones que persigan fines de interés cultural, artístico, científico, cívico o social.
+c) Las actividades promocionales de cualquier tipo organizadas por los establecimientos comerciales.
+d) Los mercados dirigidos al público en general cuya finalidad exclusiva o principal sea la venta directa con retirada de mercancía, aunque reciban la denominación tradicional de feria.
+e) Los mercados populares o certámenes promovidos para la exposición o comercialización de animales vivos de cualquier naturaleza, así como los concursos de ganado, que se regirán, asimismo, por la normativa específica en materia de protección animal.
+
+### Artículo 59
+
+Artículo 59. Clasificación de actividades feriales.
+1. Las actividades feriales se clasifican de la siguiente forma:
+a) Ferias comerciales, aquellas actividades feriales dirigidas principalmente al público profesional que se celebren con una periodicidad establecida.
+b) Exposiciones comerciales o muestras, aquellas actividades feriales que no tienen una periodicidad establecida.
+c) Ferias-mercados, aquellas actividades feriales celebradas con carácter periódico dirigidas al público en general en las que se admite eventualmente la venta directa con retirada de mercancía.
+2. Las actividades feriales deberán celebrarse en recintos o instalaciones destinados a dicha finalidad. Asimismo, podrán celebrarse en edificios o instalaciones abiertos al público destinados también a otros usos, siempre que garanticen los servicios y cumplan con los requisitos que se establezcan por vía reglamentaria.
+3. Tanto en las Ferias comerciales como en las Exposiciones comerciales pueden admitirse pedidos y pueden perfeccionarse contratos de compraventa, pero no pueden realizarse en las mismas ventas directas con retirada de mercancía durante el período en el cual se celebren.
+
+### Artículo 60
+
+Artículo 60. Ferias y exposiciones oficiales.
+1. La Administración de la Comunidad Autónoma de La Rioja otorgará, dentro del ámbito de sus competencias, mediante Resolución del Consejero competente en materia de comercio, la calificación de feria o exposición oficial de la Comunidad de La Rioja a aquellas actividades feriales que reúnan como mínimo los siguientes requisitos:
+a) Celebrarse en recintos o instalaciones públicas de carácter permanente.
+b) Disponer de un reglamento interno de participación de los expositores.
+c) Superar el número de expositores y la superficie neta ocupada que reglamentariamente se determinen.
+2. Reglamentariamente se establecerá el procedimiento para otorgar la calificación de feria oficial, la duración y periodicidad de los certámenes, las condiciones de participación de los expositores, la composición de los Comités organizadores de cada Feria o Exposición y la información que deberán facilitar éstos a la Administración de la Comunidad Autónoma de La Rioja para valorar su gestión.
+
+### Artículo 61
+
+Artículo 61. Calendario.
+La Administración de la Comunidad Autónoma de La Rioja podrá publicar con carácter anual un calendario de las ferias y exposiciones oficiales que tengan lugar en su territorio, sin perjuicio de las atribuciones que en materia de ferias comerciales internacionales tiene reservadas la Administración del Estado.
+
+### Artículo 62
+
+Artículo 62. Entidades organizadoras.
+1. Las actividades feriales podrán ser organizadas por:
+a) Instituciones feriales.
+b) Cualesquiera otras entidades, públicas o privadas, válidamente constituidas y dotadas de personalidad jurídica, las cuales podrán integrar como miembros no promotores a entidades de carácter mercantil.
+2. Reglamentariamente se establecerán las obligaciones que recaen sobre las entidades organizadoras en cuanto a las autorizaciones que deben solicitar, las garantías que deben prestar y, en general, los requisitos que deben cumplir para la organización de cada certamen.
+
+### Artículo 63
+
+Artículo 63. Instituciones feriales de la Comunidad de La Rioja.
+1. Son instituciones feriales de la Comunidad de La Rioja aquellas entidades con personalidad jurídica propia, sin ánimo de lucro y legalmente constituidas, con el exclusivo objeto de organizar y gestionar en la Comunidad de La Rioja ferias y exposiciones como medio de promoción comercial de las distintas ramas de la actividad económica.
+2. Las instituciones feriales de la Comunidad de La Rioja se rigen por sus estatutos, que deberán regular todo lo referente a su constitución, composición, administración y disolución, así como las facultades de los órganos de gobierno, en los que deberán estar representadas las entidades públicas que, en su caso, las promuevan.
+3. La promoción de instituciones feriales de la Comunidad de La Rioja queda reservada a las Administraciones Públicas y a otras entidades y asociaciones sin ánimo de lucro, cuyo objeto esté relacionado con la promoción de actividades feriales en cualquiera de sus manifestaciones.
+4. Las instituciones feriales de la Comunidad de La Rioja deberán disponer de patrimonio propio cuyo rendimiento será destinado exclusiva e íntegramente al cumplimiento de sus fines y garantizar la disposición con carácter permanente de recintos o instalaciones adecuados a las actividades feriales que se promuevan por las mismas.
+5. La denominación de «Institución ferial de la Comunidad de La Rioja», únicamente podrá ser utilizada por las entidades reconocidas con arreglo a esta Ley y las normas que la desarrollen.
+
+### Artículo 64
+
+Artículo 64. Régimen de comunicación previa de las actividades feriales.
+1. La realización de las actividades feriales a las que se refiere esta ley, excepto las ferias mercado de ámbito exclusivamente local, deberán ser comunicadas a la Dirección General con competencias en materia de Comercio, con el objeto de obtener la adecuada información y coordinación en relación con su objeto y la planificación temporal en su realización, así como su correspondiente inscripción en el registro de actividades feriales.
+2. Las comunicaciones se presentarán por las entidades promotoras con una antelación mínima de dos meses a la fecha de la primera actividad anual, con la actualización que pueda proceder posteriormente, en las condiciones y con la documentación que se establezca reglamentariamente.
+Las comunicaciones deberán contener al menos la siguiente información:
+a) Identificación de la entidad organizadora.
+b) Denominación de la actividad ferial, fecha y lugar de la celebración.
+c) Sector comercial al que afecta.
+3. La realización de ferias mercado de ámbito territorial exclusivamente local se comunicará previamente al ayuntamiento en cuyo término municipal pretenda celebrarse. Los ayuntamientos deberán comunicar la realización de esta actividad a la Dirección General con competencias en materia de Comercio, al objeto de su inscripción en el registro oficial correspondiente.
+Se modifica por el art. 44.12 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 65
+
+Artículo 65. Registro Oficial de Actividades Fe­riales.
+1. En la Consejería con competencias en materia de Comercio se creará un Registro Oficial de Actividades Feriales en el que se inscribirán de oficio las actividades feriales previamente comunicadas y las instituciones y entidades feriales que las organicen.
+2. En el Registro Oficial de Actividades Feriales será público en los términos y con las limitaciones previstas en la normativa vigente en la ma­teria.
+3. Reglamentariamente se desarrollarán el contenido del Registro, su organización y las normas de su funcionamiento.
+Se modifica el apartado 1 por el art. 44.13 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 66
+
+Artículo 66. Promoción de actividades feriales.
+1. Al objeto de promocionar las actividades feriales y las de las entidades organizadoras que persigan el mismo objetivo, la Administración de la Comunidad Autónoma de La Rioja concederá ayudas económicas en concepto de subvenciones y prestará la asistencia técnica precisa, en la forma y con los requisitos que reglamentariamente se determinen.
+2. Para poder acogerse a dichas ayudas deberá acreditarse la inscripción en el Registro Oficial de Actividades Feriales de la actividad para la cual se solicita subvención y del cumplimiento de los demás requisitos exigidos en la presente Ley y en las disposiciones específicas que la desarrollen.
+3. La Administración de la Comunidad Autónoma de La Rioja podrá promocionar y fomentar la asistencia de las empresas riojanas a ferias o exposiciones que se celebren fuera de su ámbito territorial, siempre que tales certámenes tengan especial interés para la comercialización o difusión de productos, técnicas o servicios característicos de dichas empresas o sean de especial interés para la región.
+
+## TÍTULO VI
+
+De la actuación pública sobre la actividad comercial
+
+## CAPÍTULO I
+
+Instituciones y medios de fomento de la actividad comercial
+
+### Artículo 67
+
+Artículo 67. Promoción de la actividad comercial.
+El Gobierno de La Rioja, a través de los correspondientes programas de actuación, promoverá la actividad comercial a través de la Consejería competente en materia de comercio.
+
+### Artículo 68
+
+Artículo 68. Principios ordenadores.
+La acción administrativa se orientará de acuerdo con los principios de libre y leal competencia y la defensa de los legítimos intereses de los consumidores y usuarios, arbitrándose cuantas medidas procuren la racionalización y modernización de la actividad comercial y la transparencia del mercado.
+
+## CAPÍTULO II
+
+De la reforma de las estructuras comerciales
+
+### Artículo 69
+
+Artículo 69. Reforma de las estructuras comer­ciales.
+1. El Gobierno de La Rioja desarrollará una política de reforma de las estructuras comerciales encaminada a la modernización y racionalización del sector.
+2. Dicha política tendrá como principales líneas de actuación las siguientes:
+a) Proporcionar una formación y actualización continuada a los comerciantes para lograr una mayor productividad y eficacia en su gestión.
+b) Apoyar técnica y financieramente los proyectos de reforma, modernización y reconversión de las estructuras comerciales existentes, así como de los proyectos de reagrupación de las pequeñas y medianas empresas.
+c) Ayudar a las pequeñas y medianas empresas del comercio instaladas en La Rioja, potenciando su capacidad financiera.
+d) La recuperación, mantenimiento y promoción de los comercios tradicionales fomentando la constitución de centros comerciales abiertos.
+e) La mejora del comercio de proximidad en el medio rural, especialmente en zonas de baja densidad de población.
+
+## CAPÍTULO III
+
+De la función inspectora y del régimen de infracciones y sanciones
+
+## Sección 1
+
+Sección 1.ª De la inspección
+
+### Artículo 70
+
+Artículo 70. Órganos competentes.
+Corresponde al Gobierno de La Rioja a través de la Consejería competente en materia de comercio, el ejercicio de la función inspectora para garantizar el cumplimiento de esta Ley.
+
+### Artículo 71
+
+Artículo 71. Del personal de la inspección.
+1. Los inspectores en el ejercicio de la función inspectora, tendrán carácter de autoridad y podrán solicitar la cooperación de las Fuerzas y Cuerpos de seguridad del Estado y de la Policía Local.
+2. El personal de la inspección estará provisto de la documentación que acredite su condición y tendrá la obligación de exhibirla cuando ejerza sus funciones.
+3. La actuación inspectora tendrá carácter confidencial, estando obligados los inspectores a cumplir, de forma estricta, el deber de secreto profesional.
+4. Reglamentariamente se determinará el procedimiento de la inspección y el contenido de las actas de inspección.
+
+## Sección 2
+
+Sección 2.ª De las infracciones
+
+### Artículo 72
+
+Artículo 72. Infracciones.
+1. Sin perjuicio de las responsabilidades que de otro orden pudieran derivarse, constituyen infracciones administrativas de la ordenación de la actividad comercial y de las instituciones y actividades feriales las acciones u omisiones de los sujetos responsables tipificadas y sancionadas en la presente Ley.
+2. Las infracciones no podrán ser objeto de sanción sin previa instrucción del oportuno expediente, que será iniciado de oficio, conforme a lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. Las infracciones a que se refiere la presente Ley prescribirán por el transcurso de tres años para el caso de las infracciones muy graves, a los dos años en el caso de las infracciones graves, y a los seis meses en el caso de las infracciones leves. El plazo de prescripción de las infracciones comenzará a contarse desde el día en que la infracción se hubiera cometido. En el caso de infracciones continuadas el plazo de prescripción comenzará a la terminación del período de comisión. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable.
+4. Las sanciones impuestas por infracciones muy graves prescribirán a los tres años; las impuestas por infracciones graves, a los dos años, y las impuestas por infracciones leves, a los seis meses. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causa no imputable al infractor.
+5. La tramitación de un expediente de infracción se sujetará a las normas establecidas en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, lo dispuesto en la Ley 3/1995, de 8 de marzo, de Régimen Jurídico del Gobierno y la Administración Pública de la Comunidad Autónoma de La Rioja y supletoriamente, en el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del Procedimiento de Ejercicio de la Potestad Sancionadora.
+
+### Artículo 73
+
+Artículo 73. Tipificación de las infracciones.
+1. A los efectos de la presente Ley se consideran infracciones en materia de comercio interior y de ordenación de las instituciones y actividades feriales el incumplimiento de las obligaciones o prohibiciones establecidas en esta Ley a continuación y en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista.
+2. Las infracciones previstas en esta Ley tendrán la consideración de infracciones leves, graves y muy graves según lo dispuesto en el artículo siguiente.
+
+### Artículo 74
+
+Artículo 74. Calificación y graduación de las infracciones.
+Las infracciones tipificadas por la presente Ley pueden considerarse leves, graves o muy graves, en función de los siguientes criterios:
+1. Se consideran infracciones leves las siguientes actuaciones:
+a) El incumplimiento de las obligaciones de información a los compradores previstas en esta Ley.
+b) La realización de actividades o prácticas comerciales por personas que tuvieran prohibido el ejercicio del comercio conforme al artículo 6 de la presente Ley.
+c) El incumplimiento de los deberes de información y comunicación a la Administración sobre la actividad comercial desarrollada en los supuestos previstos en la Ley.
+d) La realización de la actividad comercial con incumplimiento de los horarios máximos que se hayan establecido.
+e) La venta de productos no autorizados para una específica modalidad de venta.
+f) El incumplimiento de los períodos y ubicación autorizados para el desarrollo de las distintas modalidades de venta.
+g) No exhibir la necesaria autorización, homologación o comunicación en la forma legal o reglamentariamente establecida.
+h) El incumplimiento de las condiciones para llevar a cabo actividades de promoción de venta salvo que esté tipificado como grave conforme al apartado 2 siguiente.
+i) El incumplimiento de las obligaciones de comunicar el ejercicio de actividad comercial o ferial en el plazo que se determine reglamentariamente y la actualización temporal de datos que proceda, incluido el cese de la actividad.
+2. Se consideran infracciones graves las siguientes conductas:
+a) La realización de actividades comerciales con incumplimiento de los requisitos generales para el ejercicio de la actividad comercial así como ejercer la actividad comercial sin la obtención de la licencia comercial específica en los casos en que sea preceptiva.
+b) Realizar ventas con pérdida fuera de los casos establecidos en la Ley.
+c) Exigir precios superiores a aquellos que hubiesen sido objeto de fijación administrativa.
+d) El incumplimiento de las obligaciones formales en las transacciones económicas con los compradores, en lo relativo a la falta de emisión de facturas o documento sustitutivo en los casos en que sea preceptiva su entrega o sea solicitada por el consumidor.
+e) La realización de actividades comerciales en domingos o festivos en los casos de prohibición de apertura.
+f) La realización por parte de las entidades mencionadas en el artículo 7 de la Ley, de operaciones de venta con personas distintas a sus socios o beneficiarios fuera de los casos permitidos por la Ley.
+g) La falta de veracidad en los anuncios de prácticas promocionales calificando indebidamente las correspondientes ventas u ofertas.
+h) El anuncio o realización de operaciones de ventas promocionales con incumplimiento de los requisitos establecidos al respecto.
+i) El incumplimiento de las obligaciones que la regulación de la venta a distancia impone en materia de información y documentación que se debe enviar al consumidor; de los plazos de ejecución y de devolución de las cantidades abonadas; el envío con pretensión de cobro de artículos no solicitados por el consumidor; y el uso de técnicas de comunicación que requieran consentimiento previo o falta de oposición del consumidor, cuando no concurra la circunstancia correspondiente.
+j) La resistencia, negativa u obstrucción a la acción comprobadora o inspectora de las administraciones competentes, así como la aportación de información falsa.
+k) El incumplimiento del régimen establecido sobre entrega y canje de los obsequios promocionales así como modificar el precio o la calidad del producto principal durante el período de duración de la oferta con obsequio.
+l) La reincidencia en la comisión de más de una infracción leve de la misma naturaleza en el período de un año.
+m) El incumplimiento por parte de las personas franquiciadoras de la obligación de inscripción en el Registro previsto en el artículo 11 de la presente Ley.
+3. Se consideran infracciones muy graves la realización de las siguientes actuaciones:
+a) La reincidencia en la comisión de más de una infracción grave de la misma naturaleza en un período de un año, siempre que no se produzcan a su vez como consecuencia de la reincidencia en infracciones leves.
+b) La realización de cualquiera de las actuaciones calificadas de infracciones graves cuando el precio de los artículos ofertados o el volumen de la facturación realizada a que se refiere la infracción supere los 600.000 euros.
+Se modifica el apartado 1.i) por el art. 44.14 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+## Sección 3
+
+Sección 3.ª De las sanciones
+
+### Artículo 75
+
+Artículo 75. De las sanciones.
+1. Las infracciones tipificadas legalmente serán sancionadas del siguiente modo:
+a) Las infracciones leves, desde apercibimiento hasta 6.000 euros de multa.
+b) Las infracciones graves, con multa desde 6.001 hasta 25.000 euros.
+c) Las infracciones muy graves se sancionarán con multa desde 25.001 hasta 600.000 euros.
+2. El Gobierno de La Rioja, mediante Decreto, podrá actualizar el importe de las sanciones previstas en el apartado anterior en función a las variaciones que experimente el índice de precios al consumo.
+3. La cuantía de la sanción se graduará teniendo en cuenta las siguientes circunstancias:
+a) La reparación de los defectos derivados de la infracción de la presente Ley, siempre que de dicho incumplimiento no se hayan derivado perjuicios directos a terceros.
+b) La incidencia de la conducta infractora en el mercado y el número de consumidores y usuarios afectados.
+c) La cuantía del beneficio ilícito obtenido, en su caso.
+d) Plazo de tiempo durante el cual se haya venido cometiendo la infracción.
+e) El grado de intencionalidad.
+f)   El volumen de la facturación al que afecte la infracción.
+g) La gravedad de los efectos socioeconómicos que la comisión de la infracción haya producido.
+h) La reincidencia.
+4. Aquellas infracciones muy graves, que supongan un grave perjuicio económico o tengan importante repercusión social podrán ser sancionadas con el cierre temporal del establecimiento comercial en el que se haya producido la infracción. En el caso de producirse reincidencia se podrá proceder a la clausura definitiva del mismo.
+Se modifica el apartado 1 por el art. 44.16 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Artículo 76
+
+Artículo 76. Competencia para imponer sanciones.
+En el ámbito de la Administración Pública de la Comunidad Autónoma de La Rioja, los órganos competentes para la imposición de sanciones son:
+a) El Gobierno de La Rioja, para imponer sanciones por infracciones calificadas como muy graves.
+b) El Consejero competente en materia de ordenación de la actividad comercial y ferial, para imponer sanciones por infracciones calificadas como graves.
+c) El Director General competente en materia de ordenación de la actividad comercial y ferial, para imponer sanciones por infracciones calificadas como leves.
+
+### Artículo 77
+
+Artículo 77. Publicidad y ejecución de las san­ciones.
+1. Siempre que concurra alguna de las circunstancias de riesgo para la salud o seguridad de los consumidores, reincidencia en infracciones de naturaleza análoga o acreditada intencionalidad en la infracción, la autoridad que resuelva el expediente podrá acordar la publicación, a cargo del infractor, de las sanciones impuestas como consecuencia de lo establecido en esta Ley, cuando hayan adquirido firmeza en vía administrativa, así como los nombres, apellidos, denominación o razón social de los responsables y la índole o naturaleza de las infracciones en el Boletín Oficial de La Rioja y su difusión a través de los medios de comunicación social que se consideren oportunos.
+2. Las resoluciones sancionadoras que pongan fin a la vía administrativa serán inmediatamente ejecutivas.
+3. Todas las Administraciones Públicas competentes en la materia prestarán la debida colaboración para hacer efectiva la exacta ejecución de las sanciones.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se autoriza al Gobierno de la Comunidad Autónoma de La Rioja para que, en el marco de lo establecido en la Ley 1/2002, de 21 de febrero, de Coordinación de las Competencias del Estado y las Comunidades Autónomas en materia de defensa de la competencia, pueda celebrar convenios de colaboración con el Servicio de Defensa de la Competencia y el Tribunal de Defensa de la Competencia para la resolución de los procedimientos que tengan por objeto conductas que sean competencia de la Comunidad Autónoma y para la instrucción y resolución de conductas que sean competencia tanto del Estado como de esta última.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Se crea la tasa 05.13 y se añade al Anexo de la Ley 6/2002, de 18 de octubre, de Tasas y Precios Públicos de la Comunidad Autónoma de La Rioja en los siguientes términos:
+«Tasa 05.13. Tasa por tramitación administrativa de licencia comercial específica.
+Hecho imponible:
+Constituye el hecho imponible de la tasa la prestación del servicio de tramitación de la solicitud de licencia comercial específica para la instalación, traslado o modificación de grandes establecimientos comerciales.
+Sujetos pasivos:
+Son sujetos pasivos de la tasa las personas naturales o jurídicas que soliciten la concesión de la licencia comercial específica.
+Devengo:
+La tasa se devengará cuando se realicen las correspondientes actuaciones administrativas. No obstante, su pago se exigirá por anticipado en el momento en que se formule la solicitud.
+Tarifa:
+La cuantía de la tasa será de 6.024 euros.»
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+La Consejería competente en la materia regulada en esta ley impulsará la simplificación administrativa en esta materia, sin menoscabo de las garantías y respetando las obligaciones y derechos establecidos en ella, de forma que se agilice la tramitación de los procedimientos administrativos que se establezcan. A estos efectos:
+a) Facilitará a través de manuales o guías, que expresen en forma transparente y accesible, los criterios aplicables y la totalidad de los trámites de los procedimientos de comunicación de actividad, sus modificaciones y del régimen de autorización de la licencia comercial de los grandes establecimientos comerciales.
+b) Establecerá un procedimiento simplificado que facilite que los interesados puedan presentar las solicitudes de autorización o comunicaciones que se requieran para el ejercicio de la actividad y su tramitación simultánea, sin perjuicio de las competencias que las administraciones tengan atribuidas en cuanto a la resolución que proceda.
+Se modifica por el art. 44.16 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+La concesión de las Licencias Comerciales Específicas que se soliciten antes de que esté aprobado el Plan General de Equipamientos Comerciales de La Rioja, quedará supeditada a las conclusiones del informe técnico específico que se emita, incluyendo un estudio específico de impacto sobre la estructura comercial, que vaya a producir la nueva implantación, quedando incluidas sus conclusiones en el futuro Plan General de Equipamientos Comerciales.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La inscripción en el Registro de Comerciantes y Actividades Comerciales de La Rioja de las personas físicas o jurídicas que ya ejerzan la actividad comercial en el territorio de la Comunidad Autónoma de La Rioja en el momento de la entrada en vigor de esta Ley, se realizará de oficio por la Dirección General competente en materia de Comercio.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+1. Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a lo dispuesto en esta Ley, y en concreto:
+La Ley 1/1995, de 2 de febrero, de Infracciones y Sanciones en materia de horarios para apertura y cierre de establecimientos comerciales en la Comunidad Autónoma de La Rioja.
+El Decreto 58/1996, de 18 de diciembre, sobre Regulación de Horarios Comerciales, salvo su artículo 4 que se mantiene vigente en tanto no se disponga otra cosa.
+2. Se mantiene hasta el desarrollo de esta Ley y en todo lo que no se oponga a la misma, la siguiente norma:
+El Decreto 20/1997, de 26 de marzo, por el que se regula la Licencia Comercial Específica para la apertura de grandes establecimientos comerciales.
+
+### Disposición final primera
+
+Disposición final primera.
+El Gobierno elaborará, en un plazo no superior a un año, los Reglamentos de desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+El Gobierno aprobará, en un plazo no superior a dos años, el Plan General para el Equipamiento Comercial de La Rioja.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor a los seis meses de su publicación en el Boletín Oficial de La Rioja.
+
+Por tanto, ordeno a todos los ciudadanos cumplan y cooperen al cumplimiento de la presente Ley y a los Tribunales y Autoridades la hagan cumplir.
+Logroño, 14 de marzo de 2005.
+PEDRO SANZ ALONSO,
+Presidente

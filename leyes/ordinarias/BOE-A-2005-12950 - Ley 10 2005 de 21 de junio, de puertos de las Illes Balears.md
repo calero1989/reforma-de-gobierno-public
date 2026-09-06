@@ -1,0 +1,2007 @@
+# Ley 10/2005 de 21 de junio, de puertos de las Illes Balears.
+
+- Identificador BOE: `BOE-A-2005-12950`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2005-12950
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de erratas publicada en el BOIB núm. 111, de 26 de julio de 2005. Ref. BOIB-i-2005-90266
+
+## Preámbulo
+
+EL PRESIDENTE DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 27.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+En el estadio actual del desarrollo del sistema autonómico de las Illes Balears, constituye una tarea inaplazable la regulación integral de los puertos y de otras instalaciones portuarias y marítimas mediante una norma con rango de ley que se ocupe de los aspectos fundamentales de su régimen jurídico. En el archipiélago balear la materia portuaria presenta lógicamente un relieve notorio, que va más allá de los aspectos estrictamente geográficos o de comunicaciones, ya que se trata de un sector de perfiles propios en el que confluyen elementos procedentes de la ordenación territorial y de las legislaciones medioambiental, turística y de transportes. Por todo eso, no es exagerado calificar este sector de estratégico para el desarrollo económico y social de esta comunidad autónoma.
+Es precisamente esta dimensión la que justifica la singularidad de algunas de las soluciones adoptadas en la ley, entre las que son particularmente destacables las relativas a la planificación y la ordenación portuarias, a la creación de una administración portuaria potente, a la dinamización de los servicios portuarios y a la regulación de la actividad privada de explotación de los bienes y los servicios portuarios. Este planteamiento no puede desvincularse de la necesidad de poner en marcha una política portuaria que se inscriba claramente en las estrategias fundamentales para el progreso de las Illes Balears y que sea armónica con otras políticas sectoriales: compensación de la insularidad, desarrollo sostenible, gestión racional de los recursos y modelo turístico de calidad en el que la oferta de servicios ligados a la navegación deportiva o de ocio sea un componente esencial.
+Referido a este último concepto, resulta muy necesaria la mención de la figura de la estación náutica, como instrumento de potenciación del sector náutico en su innegable aportación a la hora de concretar un verdadero modelo turístico de calidad. En esta misma línea, dicha iniciativa deberá encajar con el necesario cumplimiento del artículo 8 de la Ley 30/1998, de 29 de julio, del régimen especial de las Illes Balears, referido al sector náutico, que establece que se constituirá una comisión mixta comunidad autónoma de las Illes Balears y Administración del Estado, cuya misión será analizar las potencialidades del sector náutico balear y desarrollar un plan de medidas al efecto.
+II
+Esta ley se dicta en desarrollo del artículo 10.5 del Estatuto de Autonomía de las Illes Balears, que confiere a las instituciones de la comunidad autónoma la competencia exclusiva en materia de puertos no calificados de interés general por el Estado y de puertos de refugio y deportivos. No obstante, en consideración a las ideas expuestas, este título de competencias es complementado, en aspectos determinados, por otros preceptos estatutarios. En este sentido, tienen que tenerse en cuenta cuando menos los apartados 3, 4, 6, 11, 12 y 18 del artículo 10 del Estatuto, cuya virtualidad se traduce en una ampliación del campo de innovación legislativa.
+Siguiendo estas coordenadas, la ley aparece como la primera disposición legal que prevé un tratamiento completo de los puertos de competencia autonómica. Hasta ahora, la materia sólo había sido objeto de atención parcial en las Directrices de Ordenación Territorial, en diversos instrumentos de planificación sectorial y en algunas disposiciones reglamentarias.
+III
+El articulado de la ley se ordena en seis títulos, uno de ellos preliminar, y diversas disposiciones adicionales, transitorias, derogatoria y finales, además de un anexo. El título preliminar concreta el objeto de regulación; los objetivos de política legislativa que se persiguen, expresados en coherencia con el carácter poliédrico y complejo de la materia portuaria; la delimitación de las instalaciones y los puertos sobre los que la Administración de la comunidad autónoma de las Illes Balears puede ejercer sus competencias, y también se recogen definiciones de carácter técnico que facilitan la tarea hermenéutica al aplicador de la norma.
+El título I, que se dedica al régimen jurídico de los puertos, se abre con un primer capítulo que identifica los elementos integrantes del dominio público portuario, delimitados por la zona de servicio del puerto. El régimen de estos bienes es el establecido, con carácter general, por su legislación específica, si bien se tienen en cuenta las particularidades de su uso para finalidades de interés general o social.
+El capítulo II, que se titula «Planificación y ordenación de los puertos», regula los planes directores como figuras de ordenación de los puertos y de otras instalaciones portuarias y marítimas, que principalmente han de contener los elementos propios de los antiguos planes de usos y sustituyen a los planes especiales como figuras de ordenación de los accesos, las edificaciones y los espacios de los puertos. Aunque el procedimiento especial de elaboración de estos instrumentos queda incluido en la esfera reglamentaria, la ley garantiza una adecuada participación institucional y social, con la voluntad inequívoca de llevar a cabo una política portuaria atenta a los intereses de la ciudadanía.
+El capítulo II se completa con disposiciones que pretenden coordinar la aplicación de las figuras antes mencionadas con el urbanismo municipal, buscando una delimitación precisa de las competencias que corresponden a cada nivel administrativo y fortaleciendo el papel de la administración portuaria en la ordenación de los usos que tienen lugar en la zona de servicio de cada puerto. Finalmente, la ley dedica un espacio de regulación a las condiciones para la promoción de nuevos puertos y la ampliación sustancial de los existentes, materia en la que se conceden funciones de relieve especial a los consejos insulares.
+El título II constituye un hito indiscutible en la configuración de los servicios que la Administración de la comunidad autónoma de las Illes Balears ha ido poniendo al servicio de la materia portuaria, ya que da carta de naturaleza a Puertos de las Illes Balears, la entidad pública que ha de asumir las funciones ejecutivas en esta materia, incluidas las potestades de carácter autorizador, las de recaudación tributaria y la sancionadora. En este título, se describen los rasgos esenciales de la organización del ente, que tienen que plasmarse en los estatutos que apruebe el Gobierno. Esta estructuración perfila un esquema basado en criterios de profesionalidad y eficacia, sin minimizar la participación de los agentes económicos y sociales.
+Los servicios que se prestan en los puertos son objeto de regulación en el título III, en el que se refleja un esquema conceptual próximo a la legislación estatal más reciente en la materia. En él se recoge una clasificación ya conocida, que distingue entre servicios portuarios (generales y básicos) y servicios comerciales. Particularmente destacable es el capítulo IV, dedicado a los servicios que necesariamente tienen que prestarse en las dársenas y los puertos deportivos, y que constituyen sin duda un estándar de calidad necesario en la oferta de servicios tanto a los ciudadanos residentes como a los aficionados al turismo náutico y deportivo.
+El extenso título IV se refiere a la gestión del dominio público portuario. Se inicia con un capítulo dedicado al régimen de utilización, en el que destacan las prescripciones generales sobre usos permitidos y prohibidos y las reglas generales sobre autorizaciones y concesiones. En materia de autorizaciones se recoge una regulación que sintoniza claramente con la legislación comparada y se incorpora un conjunto de preceptos específicos para el uso de puestos de amarre de embarcaciones de recreo. Estos preceptos hacen posible un régimen temporal más amplio y un control más intenso de la administración portuaria sobre las transmisiones de derechos de uso en las dársenas y los puertos gestionados en régimen de concesión. A este efecto se crea el Registro General de usuarios de amarres en el cual tienen que inscribirse los titulares de los derechos mencionados.
+La ley se ocupa de las concesiones con un cierto detenimiento, adoptando soluciones extraídas del derecho autonómico comparado, simplificando el procedimiento de otorgamiento e incorporando la novedad que supone la concesión de obra pública portuaria. En relación con el procedimiento, se prevé la iniciación de oficio, mediante la convocatoria del concurso correspondiente, o a solicitud de cualquier persona interesada. Asimismo, la ley trata con detalle la regulación de los trámites correspondientes a la tramitación y aprobación de los proyectos técnicos de ejecución y explotación. Finalmente, se incluyen reglas específicas para la prolongación de la explotación en las concesiones en las que ya hayan transcurrido dos terceras partes del plazo correspondiente. En el capítulo V, y principalmente en relación con las concesiones, se regulan los diversos tipos de fianzas con la finalidad de proporcionar las garantías más adecuadas para los intereses confiados a la tutela de la administración portuaria.
+Dos partes bien delimitadas aparecen en el título V. Por una parte, el régimen sancionador; por otra, la regulación de la denominada policía portuaria. El primer bloque contiene un catálogo específico de infracciones y sanciones y una regulación mínima del ejercicio de la potestad sancionadora en consonancia con los planteamientos predominantes en nuestro derecho público. El segundo bloque, integrado por el capítulo IV, define el ámbito material para el ejercicio de las funciones de policía y recoge las técnicas jurídicas adecuadas para que se ejerzan adecuadamente.
+Las disposiciones adicionales incorporan a la ley algunas decisiones fundamentales sobre la Red de Infraestructuras y de Instalaciones Portuarias, que es objeto del anexo, y sobre la modificación de la Ley 6/1999, de 3 de abril, sobre las Directrices de Ordenación Territorial.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Constituyen el objeto de esta ley las siguientes cuestiones:
+a) La ordenación de los puertos y de las instalaciones portuarias y marítimas de competencia de la Administración de la comunidad autónoma de las Illes Balears, como también la regulación de la planificación, la construcción, la organización, la gestión, el régimen económico financiero y el de policía administrativa.
+b) La limpieza y la vigilancia de las aguas costeras definidas por la legislación estatal de aguas, en los términos previstos en esta ley y en el ámbito de competencias de la comunidad autónoma de las Illes Balears.
+Se modifica por el art. 20.1 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a2-2
+ Se modifica por el art. 19.1 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a1-11
+
+### Artículo 2
+
+Artículo 2. Objetivos fundamentales.
+En el marco de lo que dispone el artículo anterior, la administración autonómica se propone los objetivos fundamentales siguientes:
+a) Ordenar el sistema portuario de las Illes Balears, de acuerdo con los principios rectores de las políticas económicas y territoriales.
+b) Establecer el régimen jurídico de los puertos y de las instalaciones portuarias y marítimas.
+c) Organizar y regular la administración portuaria de la comunidad autónoma con criterios de eficacia y de eficiencia.
+d) Armonizar el sistema portuario con la planificación territorial y urbanística y la preservación del litoral, en consonancia con sus valores culturales, patrimoniales, paisajísticos y medioambientales.
+e) Asegurar la protección y la defensa del dominio público portuario de titularidad autonómica.
+f) Regular las actividades que se desarrollan en el ámbito portuario, garantizando a los usuarios una prestación adecuada de los servicios portuarios de acuerdo con criterios de calidad.
+g) Introducir un régimen específico de infracciones y sanciones en las materias reguladas en esta ley.
+h) Prevenir, limpiar, preservar y mejorar la calidad de las aguas costeras y su vigilancia, inspección y gestión, en los términos previstos en esta ley y en el ámbito de competencias de la comunidad autónoma de las Illes Balears.
+Se modifica la letra h) por el art. 20.2 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a2-2
+ Esta letra h) fue añadida por el Decreto-ley 3/2024, de 24 de mayo.
+ Se añade la letra h) por el art. 19.2 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a1-11
+
+### Artículo 3
+
+Artículo 3. Puertos de competencia autonómica.
+1. Son competencia de la Administración autonómica de las Illes Balears:
+a) Los puertos, las marinas y las instalaciones portuarias y marítimas adscritos a la comunidad autónoma que permitan la realización de operaciones de tránsito portuario y presten servicios a las actividades pesqueras, deportivas o náutico-recreativas, siempre que no sean declarados de interés general del Estado.
+b) Los puertos con calificación de interés general cuando el Estado no se reserve su gestión y se produzca la adscripción a la Administración de la comunidad autónoma de las Illes Balears, así como aquellos que determine el Estado por cualquier forma jurídica.
+c) En todo caso, los puertos y las instalaciones delimitados en los planos que acompañan al Real Decreto 450/1985, de 20 de febrero, de traspaso de funciones y servicios del Estado en materia de puertos a la comunidad autónoma de las Illes Balears, y posteriores planos y actos de adscripción.
+2. La presente ley es también aplicable a la ordenación y gestión de los servicios portuarios que se prestan en aguas, infraestructuras e instalaciones adscritas a la Administración de la comunidad autónoma que no estén incluidas expresamente en la declaración de puertos de interés general.
+3. Quedan excluidos del ámbito de aplicación de esta ley los puertos y las instalaciones marítimas cuya competencia exclusiva corresponda al Estado.
+Se modifica por la disposición adicional 9.1 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 4
+
+Artículo 4. Definiciones.
+1. A los efectos de esta ley, se definen los conceptos siguientes:
+a) Litoral: Todas aquellas zonas comprendidas en los límites determinados por la legislación estatal de costas.
+b) Puerto: El conjunto de infraestructuras, instalaciones, espacios terrestres y aguas marítimas adscritas, que permita la realización de las actividades de tráfico portuario y la prestación de los servicios correspondientes.
+c) Zona de servicio del puerto: Zona formada por las superficies de tierra y agua, así como la de reserva necesarias para llevar a cabo las actividades propias y complementarias del puerto y delimitada como tal. La zona de servicio se divide en:
+Zona I, o interior de las aguas portuarias, que comprende los espacios incluidos dentro de los diques de abrigo y, en su defecto, las zonas necesarias para las maniobras de atraque y de revirada.
+Zona II, o exterior de las aguas portuarias, que comprende las zonas de entrada, maniobra y posible fondeo, subsidiarias del puerto correspondiente y sujetas a control tarifario.
+d) Dársena: El conjunto de superficies de tierra y agua incluidas en la zona de servicio de un puerto preexistente y destinadas preferentemente a dar servicio a la flota mercante, pesquera o deportiva o a las actividades turísticas o recreativas complementarias.
+e) Instalación portuaria: Las obras civiles de infraestructura y las de edificación o superestructura, como también las instalaciones mecánicas y las redes técnicas de servicio, construidas o ubicadas en el ámbito portuario y destinadas a realizar o a facilitar el tráfico portuario.
+f) Instalación marítima: Toda obra fija o instalación desmontable que, sin reunir los requisitos necesarios para ser considerada como puerto o dársena, ocupa espacios de dominio público marítimo-terrestre no incluidos en la zona de servicio del puerto, y se destina, exclusivamente o principalmente, al uso de embarcaciones de pesca, deportiva, de recreo o tráfico turístico.
+2. El Plan general de puertos de las Illes Balears establecerá la clasificación de los tipos de puertos y de instalaciones portuarias y marítimas, así como las características y los servicios que corresponden a cada categoría.
+Se modifica el apartado 2 por el art. único.1 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+
+## TÍTULO I
+
+Régimen jurídico de los puertos
+
+## CAPÍTULO I
+
+El dominio público portuario
+
+### Artículo 5
+
+Artículo 5. Bienes demaniales.
+Integran el dominio público portuario de titularidad de la comunidad autónoma las superficies de tierra, las obras y las instalaciones que la consejería competente afecte a usos o servicios portuarios, así como las obras e instalaciones realizadas sobre el dominio público marítimo-terrestre adscrito para finalidades portuarias.
+Se modifica por la disposición adicional 9.2 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 6
+
+Artículo 6. Zona de servicio del puerto.
+1. Para todos los puertos y las instalaciones que son competencia de la Administración de la comunidad autónoma, en el correspondiente plan de uso y gestión del puerto se delimitará una zona de servicio, en la cual se incluirán los espacios, las superficies y las láminas de agua necesarios por la ejecución de las actividades portuarias, así como los espacios de reserva que garanticen la posibilidad de desarrollo o de ampliación de la actividad portuaria.
+2. La aprobación de la delimitación de la zona de servicio lleva implícita la declaración de utilidad pública, a los efectos previstos en la legislación de expropiación forzosa, de los bienes de propiedad privada, como también la afectación al uso público portuario de los bienes patrimoniales o de dominio público de la Administración de la comunidad autónoma que sean de interés para el puerto.
+3. Antes de la aprobación de la delimitación de la zona de servicio será necesario contar con el informe favorable de adscripción previsto en la legislación de costas en el supuesto de afectación de nuevo dominio público marítimo-terrestre.
+Se modifica el apartado 1 por el art. único.2 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+
+### Artículo 7
+
+Artículo 7. Uso de los bienes demaniales.
+1. La utilización del dominio público portuario se regirá por lo que establece esta ley, las normas reglamentarias que la desarrollen y el Plan general de puertos y planes de uso y gestión de los puertos, de acuerdo con la legislación reguladora del dominio público marítimo terrestre cuando así corresponda.
+2. La gestión de los bienes de dominio público incluidos en la zona de servicio del puerto y afectos al servicio público portuario corresponde a Puertos de las Illes Balears, entidad que asume todas las facultades administrativas sobre estos bienes.
+3. Puertos de las Illes Balears puede autorizar el uso de dominio público portuario a los órganos de la Administración de la comunidad autónoma a otras administraciones públicas, sin límite de tiempo, siempre que:
+a) La utilización de los bienes se solicite para finalidades de interés general que sean compatibles con la exploración del puerto.
+b) Se formalice el convenio correspondiente, en el cual se determinen las condiciones de utilización, así como las tasas y los gastos que debe asumir el organismo autorizado.
+4. Puertos de las Illes Balears puede ceder el uso del dominio público portuario a las entidades sin ánimo de lucro que lo soliciten para finalidades de interés social, con las mismas condiciones establecidas en el apartado anterior.
+5. Los campos de boyas y fondeos ordenados, gestionados por la administración o mediante concesión, situados en zonas de servicio portuario, cuya función sea ordenar y proveer capacidad de estancia o de hibernación para embarcaciones, conforme a la planificación del Plan general de puertos, serán considerados infraestructuras portuarias esenciales a los efectos de esta ley. Estos espacios serán susceptibles de adscripción al dominio público portuario.
+6. La gestión y el mantenimiento de la red de rampas públicas para la puesta al agua de embarcaciones y sus aparcamientos asociados, definidas en el Plan general de puertos, constituyen un servicio esencial del sistema portuario para garantizar el acceso universal al mar.
+Se añaden los apartados 5 y 6 por el art. único.1 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+ Se modifica el apartado 1 por el art. único.3 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+
+## CAPÍTULO II
+
+Planificación y ordenación de los puertos
+
+## Sección 1
+
+Sección 1.ª Plan general de puertos
+Se modifica por el art. único.4 de Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+
+### Artículo 8
+
+Artículo 8. Naturaleza y objetivos.
+1. El Plan general de puertos es el documento que recoge la ubicación y la clasificación de todas las instalaciones portuarias de las Illes Balears, con criterios de sostenibilidad medioambiental y de equilibrio territorial entre todas las zonas del territorio de las Illes Balears, cuidando las interrelaciones de las zonas costeras con las de interior, coordinando estas instalaciones con las redes de transporte terrestre y dando respuesta a las necesidades comerciales, industriales, pesqueras y deportivas del sistema portuario de las Illes Balears.
+2. El Plan general de puertos establecerá las bases para el desarrollo de unas infraestructuras que posibiliten un transporte marítimo de acuerdo con la situación de pluriinsularidad de esta comunidad autónoma.
+En este sentido, desarrollará y potenciará las bases para la implantación de un sistema de transporte marítimo de personas y mercancías que garanticen, por un lado, una correcta vertebración del territorio de la comunidad autónoma, y, por otro, una óptima posición para el transporte marítimo entre las Illes Balears y el continente, mediante una distribución territorial de las instalaciones adecuada para ambos fines.
+3. Desde un estricto punto de vista medioambiental y, por ende, con criterios de aprovechamiento óptimo de los espejos de agua disponibles, el Plan general de puertos dará respuesta a la necesidad de amarres y de servicios complementarios del sector náutico, con prioridad de la flota pesquera y las actividades comerciales relacionadas con el turismo náutico y, en general, de todas aquellas actividades de carácter lúdico y deportivo, cuidando muy especialmente de un mejor reparto territorial de las instalaciones.
+Con el fin de ahorrar ocupaciones de lámina de agua y evitar su consiguiente impacto medioambiental, el Plan general de puertos preverá una red de marinas secas, fijando su ubicación con criterios de proporcionalidad territorial, situándolas adecuadamente en función de la demanda previsible en cada zona y con criterios de preservación medioambiental, mediante la adecuada integración en cada entorno. Asimismo, el Plan general de puertos regulará el servicio de mantenimiento de embarcaciones en varaderos que resulte proporcional a la capacidad de la infraestructura en la que estos se ubiquen, con especial referencia a las medidas preventivas, correctoras y de control medioambientales que se deberán cumplir en la gestión de los referidos servicios.
+4. El Plan general de puertos establecerá los criterios generales de la ordenación portuaria a los que deberán ajustarse los diferentes planes de uso y gestión, fijando las prioridades del sistema portuario y de sus usos, los modelos de equipamientos y servicios portuarios así como las normas generales de coordinación de los planes de uso y gestión con los instrumentos propios de la ordenación territorial y las normas urbanísticas.
+Se modifica por el art. único.4 de Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Se modifica la letra b) del apartado 3 por el art. 8.1 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487
+
+### Artículo 9
+
+Artículo 9. Composición.
+El Plan general de puertos de las Illes Balears se divide en cuatro secciones: la sección de Mallorca, la de Menorca, la de Ibiza y la de Formentera. Cada sección recogerá todas las instalaciones portuarias, dársenas e instalaciones marítimas de las cuatro islas principales y, si corresponde, de las islas o los islotes adyacentes.
+Se modifica por el art. único.4 de Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+
+### Artículo 10
+
+Artículo 10. Categorías.
+Se establecen cuatro categorías de puertos, con independencia de la administración de la que dependan:
+Categoría A. Puertos comerciales con uso y tráfico integral, que son aquellos aptos para albergar todo tipo de tráfico, interinsular y con el continente, así como usos comerciales, industriales, pesqueros, deportivos y mixtos.
+Categoría B. Puertos comerciales, industriales, pesqueros y deportivos con tráfico interinsular.
+Categoría C. Puertos deportivos, pesqueros o mixtos.
+Categoría D. Instalaciones marítimas.
+Las marinas secas y las naves de hibernación interior reconocidas en el Plan general de puertos se considerarán, a todos los efectos funcionales y de planificación, como una extensión operativa de almacenamiento de la capacidad de amarraje del sistema portuario, y adquirirán un papel equivalente en la planificación a las instalaciones de la lámina de agua.
+Se añade el párrafo final por el art. único.2 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+ Se modifica por el art. único.4 de Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+
+### Artículo 11
+
+Artículo 11. Contenido.
+El Plan general de puertos contendrá las siguientes determinaciones en cada una de sus secciones:
+Categoría 1. Número de puertos y localización de estos.
+Categoría 2. Categoría de cada puerto y especificaciones sobre los usos y tráfico de estos.
+Categoría 3. Tamaño previsto: extensión de sus láminas de agua, número y tipos de amarres, varaderos y marinas secas asociadas así como capacidad de estas.
+Categoría 4. Datos relativos a las edificaciones y su tipología. Extensión de las zonas de servicio en tierra.
+Categoría 5. Previsión de enlaces con la red de carreteras.
+Categoría 6. Número y tipo de instalaciones marítimas y superficie de estas.
+Categoría 7. Número de dársenas y superficie de estas.
+Se modifica por el art. único.4 de Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Se añade el apartado 4 por la disposición adicional 9.3 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+## Sección 2
+
+Sección 2.ª Coordinación con el planeamiento urbanístico
+
+### Artículo 12
+
+Artículo 12. Procedimiento de aprobación y modificación.
+1. La elaboración y la tramitación del Plan general de puertos le corresponde a Puertos de las Illes Balears, de acuerdo con el procedimiento y el contenido que reglamentariamente se determinen, y con independencia de la administración de la que dependan los puertos que en dicho plan general se incluyan.
+2. En todo caso, este procedimiento deberá garantizar la participación de las administraciones con competencias afectadas y, en particular, la del ministerio con competencias en materia de costas, sin que este obvie el informe vinculante relativo a la adscripción del dominio público marítimo terrestre en los supuestos establecidos por la legislación específica.
+3. El proyecto de Plan general de puertos que elabore Puertos de las Illes Balears deberá someterse a información pública por un plazo no inferior a un mes así como a la tramitación medioambiental recogida por la legislación sectorial vigente, mediante la evaluación de los impactos que se prevean.
+4. La aprobación definitiva corresponde al Consejo de Gobierno, que lo aprobará mediante decreto.
+5. Las modificaciones del Plan general de puertos serán tramitadas y aprobadas siguiendo el mismo procedimiento.
+Se modifica por el art. único.4 de Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+
+## Sección 2
+
+Sección 2.ª Los planes de uso y gestión
+Se modifica y se renumera por el art. único.5 de Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era sección 1.
+
+### Artículo 13
+
+Artículo 13. Naturaleza y contenido
+1. Las directrices sobre el uso y la gestión de los puertos y de las instalaciones marítimas reguladas en esta ley se reserva a los planes de uso y gestión de los puertos, en el marco del Plan general de puertos de las Illes Balears. La asignación de los usos portuarios en el litoral que establezcan estos planes prevalecerá sobre cualquier otra norma o instrumento urbanístico o de ordenación territorial.
+2. En los términos que reglamentariamente se establezcan, los planes de uso y gestión podrán incluir directrices sobre uno o más puertos e instalaciones marítimas contiguos que se encuentren fuera de la zona de servicio de los puertos y que deban adscribirse formalmente a uno de los puertos que son competencia de la comunidad autónoma.
+3. Los planes de uso y gestión incluirán las determinaciones relativas a:
+a) La delimitación de la zona de servicio, incluyendo las adscripciones de dominio público correspondientes y dividiendo las aguas portuarias en zona 1 y zona 2.
+b) La asignación de usos en el ámbito portuario y la justificación de su necesidad o conveniencia, de acuerdo con criterios objetivos, transparentes y no discriminatorios, así como las medidas dirigidas a satisfacer adecuadamente la prestación de los servicios portuarios y a garantizar su seguridad.
+c) Los criterios de ordenación, uso y gestión de las edificaciones, las instalaciones y los espacios portuarios, de acuerdo con las especificaciones generales marcadas por el Plan general de puertos.
+d) Los planes de uso tendrán que delimitar zonas de gestión reservadas a entidades náutico-deportivas sin ánimo de lucro siempre que la naturaleza del puerto lo haga posible.
+4. Asimismo, siguiendo las pautas reguladas por el Plan general, los referidos planes tienen que contener las previsiones de desarrollo del puerto y la conexión con las redes de transporte terrestre y de servicios, la ordenación de las edificaciones de acuerdo con el entorno urbano próximo al puerto, incluyendo determinaciones sobre usos urbanísticos tales como tipología, altura, volumen, ocupación y aparcamientos, así como las medidas relativas a protección medioambiental y patrimonial y los planes de emergencias.
+Se añade la letra d) al apartado 3 por el art. único.3 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+ Se modifica y se renumera por el art. único.7 de Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 8.
+
+### Artículo 14
+
+Artículo 14. Procedimiento de aprobación.
+1. La elaboración de los planes de uso y gestión de nuevos puertos y de ampliaciones de los existentes, promovidos por una iniciativa particular, corresponderá a esta, que deberá presentar la correspondiente propuesta de plan junto con el proyecto básico y la memoria de la instalación.
+2. La elaboración de los planes de uso y gestión en los restantes supuestos corresponde a Puertos de las Illes Balears.
+3. La tramitación y la aprobación inicial de los planes corresponden, en todos los casos, a Puertos de las Illes Balears, de acuerdo con el procedimiento reglamentario, que tiene que garantizar la intervención suficiente de las administraciones públicas con competencias afectadas y, en particular, la del ministerio con competencia en materia de costas, así como el trámite de información pública por un plazo no inferior a un mes y el de la evaluación adecuada del impacto medioambiental.
+4. La aprobación definitiva corresponde al consejero competente en materia de puertos mediante orden.
+Se modifica y se renumera por el art. único.8 de Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 9.
+
+### Artículo 15
+
+Artículo 15. Obras urgentes o excepcionales.
+1. Sólo pueden autorizarse obras no previstas en el plan de uso y gestión del puerto en casos de urgencia acreditada o de interés público excepcional. Oído el ayuntamiento correspondiente, estas circunstancias tienen que ser apreciadas por el Consejo de Gobierno.
+2. Una vez aprobada la ejecución de las obras, tiene que iniciarse el procedimiento de revisión o modificación del plan vigente.
+Se modifica y se renumera por el art. único.6 y 9 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 10.
+
+## Sección 3
+
+Sección 3.ª Promoción de nuevos puertos y de ampliaciones sustanciales
+
+### Artículo 16
+
+Artículo 16. Modificación de los planes.
+1. Las modificaciones del Plan de uso y gestión de los puertos que tengan carácter sustancial se someterán al procedimiento de aprobación indicado en el artículo 9. Cuando la modificación no tenga este carácter será aprobada por Puertos de las Illes Balears, oído el ayuntamiento correspondiente. Previamente se abrirá un trámite de información pública por un plazo de 30 días.
+2. A estos efectos, tendrá carácter de modificación sustancial la ampliación superior a un 30% de la superficie ocupada en el mar con obras de infraestructura o de la superficie terrestre de la zona de servicio.
+3. La aprobación inicial del proyecto de modificación podrá suponer la suspensión total o parcial del Plan de uso y gestión del puerto.
+4. Las modificaciones del Plan director sectorial precisarán informe del ministerio con competencias en materia de costas.
+Se modifica y se renumera por el art. único.6 y 10 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 11.
+
+## Sección 3
+
+Sección 3.ª Coordinación con el planeamiento urbanístico
+Se modifica y se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era sección 2.
+
+### Artículo 17
+
+Artículo 17. Principios.
+1. La ordenación urbanística de los puertos tiene que procurar su conexión e integración en el entorno urbano y la creación de las condiciones adecuadas para el desarrollo eficaz de las actividades portuarias.
+2. Los instrumentos urbanísticos de planeamiento general calificarán la zona de servicio de los puertos como sistema general portuario y no podrán incluir determinaciones que supongan una interferencia o perturbación en la explotación portuaria.
+3. Sin perjuicio de que los instrumentos de planeamiento general deban adaptarse al Plan general de puertos y planes de uso y gestión de los puertos, éstos podrán prever el régimen de ordenación que se aplicará mientras no se produzca la adaptación.
+Se modifica y se renumera por el art. único.6 y 11 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 12.
+
+## TÍTULO II
+
+Organización administrativa
+
+## CAPÍTULO I
+
+La administración portuaria
+
+### Artículo 18
+
+Artículo 18. Informe de la administración portuaria.
+1. En el procedimiento de elaboración de los instrumentos de ordenación urbanística que afecten a los puertos y a las instalaciones reguladas en esta ley, las administraciones competentes deberán recabar en todo caso el informe de Puertos de las Illes Balears.
+2. El informe al cual se refiere el apartado anterior deberá remitirse en un plazo máximo de dos meses y tiene carácter vinculante en lo que respecta a la ordenación de la zona de servicio de los puertos.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 13.
+
+### Artículo 19
+
+Artículo 19. Control urbanístico.
+1. Son obras públicas de interés general y, por lo tanto, no sujetas a los actos de control preventivo municipal, las siguientes:
+a) Las que se realicen en la zona de servicio del puerto.
+b) Las que sean necesarias para la conexión del puerto con la red viaria y con los sistemas generales y locales.
+2. Los actos de edificación y de uso de suelo que se lleven a cabo en la zona de servicio del puerto, quedan sometidos al expediente de autorización de Puertos de las Illes Balears. En dicho expediente se incorporará, preceptivamente, el informe urbanístico del municipio, que se debe emitir en el plazo de un mes. Dicho informe no será preceptivo en el caso de obras exclusivamente portuarias y que no tengan carácter sustancial, según lo previsto en el artículo 86.2 de la Ley 10/2005, de 21 de junio, de puertos de las Illes Balears.
+Se modifica el apartado 2 por el art. único.4 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+ Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 14.
+
+### Artículo 20
+
+Artículo 20. Obras que afectan a la zona de servicio.
+1. Las obras a realizar en edificios colindantes con la zona de servicio del puerto no pueden ser autorizadas por las administraciones públicas competentes sin que se haya solicitado previamente un informe a Puertos de las Illes Balears.
+2. El informe al cual se refiere el apartado anterior, que tiene carácter vinculante en lo que concierne a los aspectos relacionados directamente con la protección del dominio público portuario y la viabilidad de las actividades portuarias, tiene que emitirse en el plazo de un mes. Transcurrido el mencionado plazo sin que se haya emitido, se entenderá favorable.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 15.
+
+## Sección 4
+
+Sección 4.ª Promoción de nuevos puertos y de ampliaciones sustanciales
+Se añade por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era sección 3.
+
+## CAPÍTULO II
+
+El ente público Puertos de les Illes Balears
+
+## Sección 1
+
+Sección 1.ª Naturaleza y régimen jurídico
+
+### Artículo 21
+
+Artículo 21. Iniciativa.
+1. La iniciativa para la promoción de la construcción de nuevos puertos y para la ampliación sustancial de los existentes, corresponde a Puertos de las Illes Balears o a las personas físicas o jurídicas que estén interesadas.
+2. A estos efectos, tendrá carácter de modificación sustancial la ampliación superior a un 30% de la superficie ocupada en el mar con obras de infraestructura o de la superficie terrestre de la zona de servicio.
+3. La iniciativa particular ha de llevarse a cabo mediante una solicitud dirigida a Puertos de las Illes Balears que deberá ir acompañada, en los términos que reglamentariamente se determinen, de la propuesta de Plan de uso y gestión de la instalación resultante, de una memoria y de un proyecto básico en el que se describan el emplazamiento y las características esenciales de las nuevas infraestructuras o instalaciones.
+4. Si el promotor del proyecto presentado, en caso de que haya habido concurso, no resulta adjudicatario de la concesión que finalmente se otorgue, tiene derecho a la compensación económica de los gastos que haya asumido.
+Se modifica y se renumera por el art. único.6 y 12 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anteior numeración era artículo 16.
+
+### Artículo 22
+
+Artículo 22. Tramitación y aprobación de los planes de uso y gestión y de los proyectos básicos.
+1. En el caso de que Puertos de las Illes Balears considere conveniente la instalación que se presente, revisará y modificará, si procede, la propuesta de Plan de uso y gestión presentada, velando por su correcta adaptación a lo dispuesto por el Plan general de puertos, y la someterá acto seguido a la tramitación que corresponda conforme a la presente ley.
+2. Aprobado definitivamente el Plan de uso y gestión, si el proyecto básico se considera adecuado por Puertos de las Illes Balears, se someterá este, antes de su aprobación, a informe del ministerio con competencia en materia de costas, a los efectos previstos en el artículo 49.2 de la Ley 22/1988, de 28 de julio, de costas, y a informe del órgano competente del consejo insular correspondiente, de carácter vinculante cuando se refiera a la promoción de nuevos puertos, informe que deberá emitirse en el plazo de un mes. Transcurrido dicho plazo sin que el consejo insular lo haya remitido, se considerará favorable. Asimismo, se solicitará informe del ayuntamiento correspondiente, que no tendrá carácter vinculante y que deberá igualmente emitirse en el plazo de un mes.
+3. Si el informe que debe emitir el consejo insular corresponde a un proyecto de ampliación sustancial, no tendrá carácter vinculante.
+Si el informe fuera desfavorable, Puertos de las Illes Balears abrirá un período de consultas con los representantes de esa institución por un plazo mínimo de un mes.
+Una vez transcurrido el trámite sin acuerdo, Puertos de las Illes Balears podrá aprobar el proyecto básico, el cual servirá de base al procedimiento para el otorgamiento de la concesión por concurso, de conformidad con lo establecido en el capítulo IV del título IV de esta ley.
+4. Cuando la iniciativa sea de Puertos de las Illes Balears, el proyecto básico deberá someterse a las mismas tramitación y aprobación.
+5. El acta de aprobación tiene que notificarse al solicitante y, si procede, a los titulares de concesiones y autorizaciones administrativas que tengan la condición de interesados, así como a las administraciones territoriales afectadas.
+Se modifica y se renumera por el art. único.13 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 17.
+
+## TÍTULO II
+
+Organización administrativa
+
+## CAPÍTULO I
+
+La administración portuaria
+
+### Artículo 23
+
+Artículo 23. Concepto.
+1. La administración portuaria regulada en esta ley está integrada por la consejería competente en materia de puertos, la entidad Puertos de las Illes Balears y los entes que dependan de ella.
+2. En el marco de la dirección superior del Gobierno, corresponde a la administración portuaria el ejercicio de las competencias atribuidas a la Administración de la comunidad autónoma de las Illes Balears en materia de puertos e instalaciones portuarias y marítimas.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 18.
+ Se modifica por la disposición adicional 8.1 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Artículo 24
+
+Artículo 24. Principios de actuación.
+La administración portuaria tiene que ajustar su actuación a los principios siguientes:
+a) La utilización racional del litoral y de los recursos naturales.
+b) La protección, el mantenimiento y la defensa del dominio público portuario.
+c) El fomento de la participación de los agentes económicos y sociales en el diseño y la ejecución de la política portuaria.
+d) La coordinación y la colaboración leal con el resto de administraciones públicas con competencias o intereses concurrentes en materia portuaria.
+e) La organización y el funcionamiento de los servicios públicos de acuerdo con criterios de eficacia, eficiencia y buena administración.
+f) La calidad en la prestación de servicios a los usuarios, garantizándoles un estatuto adecuado.
+g) La eficiencia en la gestión económica, procurando la obtención de ingresos suficientes para financiar los gastos ordinarios y las inversiones propuestas.
+h) La garantía de la seguridad de las empresas y los usuarios.
+i) Facilitar el mantenimiento de las instalaciones portuarias de los bienes que tengan un valor patrimonial consolidado.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 19.
+
+### Artículo 25
+
+Artículo 25. Funciones de la consejería competente en materia de puertos.
+1. La consejería competente en materia de puertos desarrolla la política del Gobierno en este sector de la actividad pública, orienta y controla la actuación de los entes que dependen de ella y ejerce las competencias que le atribuye esta ley.
+2. Corresponde, en todo caso, al titular de esta consejería, además de lo previsto en la ley:
+a) Elevar al Consejo de Gobierno los proyectos de decreto que tengan que dictarse en ejecución de esta ley.
+b) Aprobar definitivamente los planes de uso y gestión de puertos.
+c) Orientar y controlar la actuación de Puertos de las Illes Balears mediante la fijación de criterios y directrices de política portuaria.
+d) Aprobar, mediante orden, los pliegos de condiciones generales para el otorgamiento de concesiones para la ocupación del dominio público portuario.
+e) Elevar al Consejo de Gobierno la propuesta de Plan general de puertos para su aprobación.
+Se modifica y se renumera por el art. único.6, 14 y 15 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 20.
+
+## CAPÍTULO II
+
+El ente público Puertos de les Illes Balears
+
+## Sección 1
+
+Sección 1.ª Naturaleza y régimen jurídico
+
+## Sección 2
+
+Sección 2.ª Organización
+
+### Artículo 26
+
+Artículo 26. Naturaleza jurídica.
+1. Se crea el ente Puertos de las Illes Balears como ente de derecho público, de los previstos en el párrafo 1 del artículo 1.b) de la Ley 3/1989, de 29 de marzo, de entidades autónomas y empresas públicas y vinculadas, con personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de los fines que la ley atribuye. El ente se adscribe a la consejería competente en materia de puertos.
+2. Puertos de las Illes Balears tiene encomendado, en los términos que prevé esta ley, el ejercicio de las competencias ejecutivas de la administración autonómica en materia de puertos y de instalaciones portuarias y marítimas y de otras atribuidas por esta ley u otra, entre otras las aguas costeras definidas en la legislación estatal de aguas, la prevención, la limpieza, la preservación y la mejora de la calidad de las aguas costeras y su vigilancia, inspección y gestión, en los términos previstos en esta ley y en el ámbito de competencias de la comunidad autónoma de las Illes Balears.
+3. Para el cumplimiento más eficaz de sus funciones, y previa autorización del Consejo de Gobierno, Puertos de las Illes Balears puede crear sociedades mercantiles, agrupaciones de interés económico, consorcios, fundaciones o cualquier otra forma de personificación admitida en derecho, así como participar en las que ya estén constituidas.
+Se modifica el apartado 2 por el art. 20.3 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a2-2
+ Se modifica el apartado 2 por el art. 19.3 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a1-11
+ Se modifica el apartado 2 por la disposición final 23.11 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-23
+ Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 21.
+
+### Artículo 27
+
+Artículo 27. Funciones.
+Para cumplir su finalidad institucional, Puertos de las Illes Balears ejerce las siguientes funciones:
+a) La gestión, la protección, el mantenimiento y la defensa del dominio público portuario que se adscriba y el que pudiera afectar a la comunidad autónoma de las Illes Balears.
+b) La participación en la planificación portuaria y en los procedimientos de elaboración de las disposiciones reglamentarias que se tengan que dictar en ejecución de esta ley.
+c) La aprobación de los pliegos de condiciones generales para otorgar autorizaciones de ocupación del dominio público portuario, como también de las ordenanzas reguladoras de los servicios portuarios.
+d) La aprobación técnica de los proyectos para construir o modificar y explotar los puertos, las dársenas y el resto de instalaciones y obras portuarias que sean competencia de la Administración de la comunidad autónoma de las Illes Balears, así como su proyección, construcción y explotación cuando sean de gestión directa.
+e) La tramitación y la aprobación inicial del Plan general de puertos y los planes de uso y gestión de los puertos.
+f) El fomento de la actividad económica de los puertos y la optimización de la gestión económica y la rentabilización del patrimonio y de los recursos que tenga asignados.
+g) La colaboración, la cooperación y la participación en la preservación y la mejora medioambiental de las aguas costeras definidas en la legislación estatal de aguas, así como en la prevención, la limpieza, la preservación y la mejora de la calidad de las aguas costeras, en el ámbito de competencias de la comunidad autónoma de las Illes Balears.
+h) Las relativas a las autorizaciones, las concesiones y las licencias reguladas en esta ley.
+i) La gestión de los servicios portuarios, como también de las actividades complementarias o vinculadas.
+j) La realización, la autorización, el fomento y el control de las operaciones marítimas y terrestres relacionadas con el tráfico y el tránsito portuarios y de las destinadas a garantizar la seguridad de las empresas y los usuarios.
+k) La gestión, la administración y el control de subvenciones y ayudas cuando, por razón de la materia, lo decida la consejería competente en materia de puertos.
+l) El establecimiento de las tarifas reguladas en esta ley para prestar los servicios portuarios que corresponda aprobar a la administración portuaria.
+m) La recaudación del canon establecido por utilizar el dominio público portuario, del resto de tasas previstas en esta ley y de cualquier otro ingreso que le corresponda.
+n) La policía portuaria.
+o) La potestad sancionadora, en los términos que prevé esta ley.
+p) La colaboración con la consejería a que esté adscrito en las relaciones institucionales con otras administraciones y organismos que actúan en materia de puertos.
+q) La propuesta de los bienes y derechos que deben ser objeto de expropiación forzosa.
+r) La elaboración de planes de prevención, seguridad y emergencias en cada uno de los puertos, de acuerdo con la normativa vigente.
+s) La colaboración con entidades que se dedican a la protección del patrimonio marítimo del ámbito de las Illes Balears.
+t) La elaboración y la aprobación de los proyectos, como también la instalación, la ejecución, la gestión, el mantenimiento y la explotación de los campos de boyas previstos en la normativa autonómica sobre la conservación de la posidonia oceánica, u otros que se pudieran establecer para la protección ambiental del entorno marino y las aguas costeras, en los términos previstos en esta ley y en el ámbito de competencias de la comunidad autónoma de las Illes Balears, sin perjuicio de los títulos habilitantes para ocupar el dominio público marítimo-terrestre y de las competencias de la consejería competente en materia de medio ambiente.
+u) La colaboración, la cooperación y la participación en la vigilancia, la inspección y la gestión de las competencias ejecutivas de la administración autonómica relacionadas con las aguas costeras, en los términos previstos en esta ley y sin perjuicio de las competencias de la consejería competente en materia de medio ambiente.
+v) La suscripción de convenios y acuerdos de colaboración con administraciones y entidades públicas o privadas para llevar a cabo actuaciones relacionadas con sus funciones, así como para gestionar instalaciones portuarias o marítimas no incluidas en el dominio público portuario autonómico.
+w) El resto de funciones que le asigna esta ley y los estatutos de la entidad, así como las que le atribuyan el Gobierno y la Administración de la comunidad autónoma.
+Se modifica por el art. 20.4 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a2-2
+ Se modifica por el art. 19.4 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a1-11
+ Se añade la letra u) por la disposición final 23.12 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-23
+ Se modifica y se renumera por el art. único.6 y 16 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 22.
+
+### Artículo 28
+
+Artículo 28. Derecho aplicable.
+1. Puertos de las Illes Balears ha de someterse, en cuanto a su actividad, al ordenamiento jurídico privado. No obstante lo anterior, ha de someterse a las normas administrativas en los siguientes aspectos:
+a) Las relaciones con la Administración de la comunidad autónoma y otros entes públicos.
+b) El régimen de funcionamiento de los órganos colegiados.
+c) Las relaciones jurídicas que impliquen el ejercicio de potestades públicas y, en especial, las de carácter demanial, la de policía, la sancionadora y la tributaria.
+d) Las actuaciones de carácter presupuestario.
+e) Cualquier otra función que esté prevista en normas legales o reglamentarias.
+2. La actividad contractual de Puertos de las Illes Balears se regirá, según los casos, por la legislación de contratos de las administraciones públicas o del sector público, por la Ley de contratación en los sectores del agua, la energía, los transportes y las telecomunicaciones, o por el derecho privado. En este último caso, deben aplicarse los principios de publicidad, libre concurrencia y salvaguarda del interés público.
+3. El régimen patrimonial de Puertos de las Illes Balears será el previsto en la legislación de patrimonio de la comunidad autónoma de las Illes Balears, sin perjuicio de las especialidades previstas en la presente ley.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 23.
+ Se modifica la letra d) del apartado 1 por el art. 21.1 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Artículo 29
+
+Artículo 29. Impugnación de actos.
+1. Los actos administrativos dictados por el consejo de administración de Puertos de las Illes Balears agotan la vía administrativa y contra ellos puede interponerse recurso contencioso administrativo de acuerdo con la legislación reguladora de esta jurisdicción.
+2. Contra los actos administrativos dictados por otros órganos de Puertos de las Illes Balears puede interponerse recurso de alzada ante el consejo de administración de acuerdo con la legislación de régimen jurídico de las administraciones públicas.
+3. La impugnación de los actos de carácter económico tributario se rige por la legislación reguladora de las reclamaciones económicas administrativas.
+4. Los actos sujetos a los ordenamientos civil, mercantil y laboral se discuten ante la jurisdicción competente, previa reclamación que tiene que resolver el consejo de administración de acuerdo con la legislación de régimen jurídico de las administraciones públicas.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 24.
+
+### Artículo 30
+
+Artículo 30. Responsabilidad patrimonial.
+El consejo de administración de Puertos de las Illes Balears debe resolver las reclamaciones de responsabilidad patrimonial por el funcionamiento de los servicios públicos dependientes de la administración portuaria.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 25.
+ Se modifica el párrafo primero del apartado 2 y se añaden las letras j) y k) por el art. 21.2 y 3 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+## Seccción 2
+
+Sección 2.ª Organización
+
+## Sección 3
+
+Sección 3.ª Recursos económicos y humanos
+
+### Artículo 31
+
+Artículo 31. Estructura básica.
+1. Puertos de las Illes Balears se organiza, en los términos que prevean los estatutos de la entidad, de acuerdo con la estructura básica siguiente:
+a) El presidente, el vicepresidente y el Consejo de Administración son los órganos de gobierno.
+b) El director gerente y el resto de órganos dependientes son los órganos de gestión.
+c) El Consejo Asesor es el órgano de consulta y participación.
+2. El Gobierno, a propuesta del Consejo de Administración, aprueba y modifica los estatutos mediante decreto.
+Se modifica y se renumera por el art. único.17 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 26.
+
+### Artículo 32
+
+Artículo 32. Presidencia y Vicepresidencia.
+1. La Presidencia de Puertos de las Illes Balears la ocupa la persona titular de la consejería competente en materia de puertos, a la cual corresponden la representación y la dirección superior de la entidad.
+2. La Vicepresidencia la ocupa la persona titular de la dirección general competente en materia de puertos. Ejerce las funciones que le asignan los estatutos y las que le delega la Presidencia de la entidad.
+Se modifica y se renumera por el art. único.18 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 27.
+
+### Artículo 33
+
+Artículo 33. Consejo de administración.
+1. El consejo de administración es el órgano colegiado al cual corresponde el establecimiento de las líneas generales de actuación de la entidad y la coordinación de sus órganos, servicios y dependencias. Adopta, asimismo, las decisiones fundamentales en las materias atribuidas a la competencia de la entidad y ejerce, en todo caso, las funciones siguientes:
+a) Aprobar el proyecto de estatutos y sus modificaciones.
+b) Aprobar los anteproyectos de presupuestos y los planes de actuación de la entidad.
+c) Aprobar las tarifas para la prestación de servicios y proponer la fijación y la revisión del canon para el aprovechamiento del dominio público y del resto de tasas en lo referente a esta ley.
+d) Otorgar los títulos jurídicos, las concesiones, licencias y autorizaciones para la ocupación del dominio público portuario y para la prestación de los servicios en los puertos, sin perjuicio de que el otorgamiento de concesiones para la construcción y/o explotación de puertos y dársenas deba ser ratificada por el Consejo de Gobierno.
+e) Organizar y dirigir la gestión y la recaudación de los tributos y del resto de ingresos públicos previstos en esta ley.
+f) Autorizar las inversiones y las operaciones financieras de la entidad, como también la constitución de sociedades o de otras entidades y la participación en las constituidas.
+g) Aprobar el balance, la cuenta de pérdidas y ganancias, la memoria explicativa de la gestión anual y el plan de empresa.
+h) Aprobar la plantilla laboral y las actuaciones relativas a su selección y retribución.
+i) Aprobar los convenios y los contratos, cuando no corresponda a otros órganos.
+j) Realizar los actos de gestión, disposición y administración del patrimonio de la entidad de acuerdo con los estatutos.
+k) Decidir sobre el ejercicio de las acciones y los recursos que corresponden a la entidad para la defensa de sus intereses.
+l) La realización de planes de prevención, seguridad y emergencias en cada uno de los puertos, de acuerdo con la normativa vigente.
+m) Ejercer el resto de funciones que le atribuyen esta ley y sus estatutos.
+n) En su caso, establecer los convenios de colaboración que correspondan con entidades relacionadas con la protección del patrimonio marítimo para la consecución de sus objetivos.
+2. Los estatutos determinan la composición del Consejo de Administración, de acuerdo con las siguientes normas:
+a) Son miembros natos el presidente, que también preside el Consejo de Administración, el vicepresidente y el director gerente de Puertos de las Illes Balears.
+b) Los miembros designados, en un número no inferior a 12 ni superior a 25, son nombrados por acuerdo del Consejo de Gobierno por un periodo de cuatro años.
+c) Al menos la mitad de los miembros designados lo deben ser de acuerdo con criterios de competencia profesional.
+d) La composición del Consejo de Administración debe respetar el principio de representación equilibrada de mujeres y hombres, excepto por razones fundamentadas y objetivas debidamente motivadas. Se entenderá por representación equilibrada la presencia de mujeres y hombres de manera que ningún sexo supere el 60 % del conjunto de personas a las cuales se refiere.
+e) Formarán parte del consejo de administración los representantes de las asociaciones más representativas del sector.»
+3. Reglamentariamente se determina el régimen de incompatibilidades de los miembros del consejo de administración y el resto de aspectos que conforman su estatuto personal.
+Se añade la letra e) al apartado 2 por el art. único.5 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+ Se modifica el apartado 2 por el art. 20.5 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a2-2
+ Se modifica el apartado 2 por el art. 19.5 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a1-11
+ Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 28.
+
+### Artículo 34
+
+Artículo 34. Director gerente.
+1. El director gerente es el órgano unipersonal al cual corresponde la dirección inmediata de los servicios y las dependencias de la entidad, como también la coordinación directa de los órganos y las unidades que dependan de ésta.
+2. El director gerente es nombrado por el consejero competente en materia de puertos, atendiendo a criterios de competencia profesional.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 29.
+
+### Artículo 35
+
+Artículo 35. Consejo asesor.
+1. Como órgano de consulta y participación, se constituye un consejo asesor con funciones de estudio, propuesta e informe, que deberá ser consultado sobre aquellas materias que se establezcan reglamentariamente.
+2. La composición y el régimen de funcionamiento del órgano se regulan en sus estatutos que fijarán un número no superior a 40, debiéndose establecer la representación, como mínimo, de los sectores siguientes:
+a) Los consejos insulares y los municipios donde se ubiquen instalaciones portuarias.
+b) La administración portuaria del Estado.
+c) Las cámaras de comercio, industria y navegación.
+d) Las cofradías de pescadores.
+e) Las organizaciones empresariales y sindicales representativas en el ámbito portuario.
+f) Las asociaciones de puertos deportivos y los clubes náuticos deportivos.
+g) Las entidades dedicadas al fomento y a la promoción del turismo.
+h) Capitanía Marítima.
+i) La Federación Balear de Vela.
+j) Asociaciones vinculadas a la defensa del medio ambiente.
+k) Asociaciones vinculadas a la protección y a la conservación del patrimonio marítimo.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 30.
+
+## Sección 3
+
+Sección 3.ª Recursos económicos y humanos
+
+## TÍTULO III
+
+Prestación de servicios en los puertos
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 36
+
+Artículo 36. Régimen patrimonial.
+1. El patrimonio propio de Puertos de las Illes Balears está constituido por los bienes y los derechos que la Administración de la comunidad autónoma de las Illes Balears le atribuya como propios, por los que adquiera por cualquier título, así como por los que le sean adscritos, incluidos los procedentes de la reversión de las concesiones.
+2. La gestión del patrimonio propio y adscrito se ajusta a las normas específicas contenidas en esta ley. Corresponde en todo caso a Puertos de las Illes Balears ejercer todos los derechos y las prerrogativas que atribuye a la Administración de la comunidad autónoma la Ley 6/2001, de 11 de abril, de patrimonio de la comunidad autónoma de las Illes Balears, a los efectos de la conservación, administración, defensa y recuperación de oficio del patrimonio propio y adscrito, y la Ley 22/1988, de 28 de julio, de costas, cuando sea de aplicación.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 31.
+
+## CAPÍTULO II
+
+Servicios portuarios
+
+## Sección 1
+
+Sección 1.ª Concepto y tipología
+
+### Artículo 37
+
+Artículo 37. Financiación.
+1. Constituyen los recursos económicos de Puertos de las Illes Balears:
+a) Las asignaciones establecidas en las leyes de presupuestos generales.
+b) Los productos, las rentas o los incrementos derivados de la gestión patrimonial.
+c) Los ingresos de las tasas y las tarifas que se establezcan por la ocupación y aprovechamiento del dominio público portuario y por la prestación de servicios en los puertos.
+d) Las participaciones o los ingresos que provengan de convenios o contratos suscritos por cualquier otro organismo, empresa o persona física o jurídica.
+e) El producto de las multas impuestas de acuerdo con esta ley.
+f) Cualquier otro admitido por el ordenamiento jurídico.
+2. Los recursos tributarios recaudados por Puertos de las Illes Balears se han de afectar al cumplimiento de la finalidad institucional que esta ley le confía.
+3. La programación de las inversiones tiene que incluir, siempre que lo permita el resultado del ejercicio económico precedente, la ejecución de actuaciones dirigidas a la protección y conservación del litoral.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 32.
+
+## Sección 2
+
+Sección 2.ª Los servicios portuarios generales
+
+### Artículo 38
+
+Artículo 38. Régimen de personal.
+1. El personal de Puertos de las Illes Balears puede ser:
+a) Personal laboral propio.
+b) Personal funcionario de la Administración de la comunidad autónoma o de los organismos autónomos que le sean adscritos. El desarrollo de las funciones que impliquen la participación en el ejercicio de potestades administrativas corresponderá exclusivamente a este tipo de personal.
+c) Personal funcionario de cualquier administración pública que se incorpore por cualquier procedimiento de provisión u ocupación de puestos de trabajo, de acuerdo con la normativa de función pública de la comunidad autónoma de las Illes Balears.
+2. El personal laboral propio del ente se rige, además de por las disposiciones contenidas en el Estatuto básico del empleado público que le sean de aplicación y por el resto de las normas laborales y convencionales aplicables al personal de esta naturaleza, por las normas del sector público y por las normas de ocupación pública de la comunidad autónoma de las Illes Balears que lo dispongan expresamente.
+3. El personal funcionario del ente Puertos de las Illes Balears se rige por la normativa de función pública de la comunidad autónoma.
+4. Personal directivo profesional:
+a) Bajo la dependencia del órgano superior de dirección del ente, puede haber puestos de trabajo de personal directivo profesional, con funciones de dirección técnica, programación, coordinación, impulso y evaluación de las actuaciones propias del ente Puertos de las Illes Balears.
+b) Con carácter general, el personal directivo profesional estará sometido a la relación laboral de alta dirección, su selección debe ceñirse a los principios de mérito y capacidad, así como a los criterios de idoneidad, competencia profesional y experiencia, y su contratación se debe llevar a cabo mediante procedimientos que garanticen la publicidad y la concurrencia.
+c) En el caso de que tengan atribuidas funciones que impliquen la participación en el ejercicio de potestades administrativas, los puestos de trabajo del personal directivo tendrán naturaleza funcionarial y quedarán sometidos a la normativa de función pública de la comunidad autónoma.
+d) El personal directivo profesional se regirá, además de por las disposiciones contenidas en el Estatuto básico del empleado público que le sean de aplicación y por el resto de normas laborales y convencionales aplicables al personal de esta naturaleza, por las normas del sector público y por las normas de ocupación pública de la comunidad autónoma de las Illes Balears que lo dispongan expresamente.
+Se modifica y se renumera por el art. único.19 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 33.
+
+### Artículo 39
+
+Artículo 39. Régimen presupuestario y de control.
+1. Puertos de las Illes Balears elaborará anualmente un anteproyecto de presupuesto de explotación y capital, así como un programa de actuación que ha de ajustarse a los objetivos establecidos por la consejería competente en materia de puertos. El anteproyecto y el programa deben elevarse a la consejería competente en materia de puertos para su tramitación.
+2. Esta entidad debe llevar a cabo su contabilidad de acuerdo con la normativa vigente que le es de aplicación, y se somete al régimen de control económico y financiero de conformidad con lo que establecen las disposiciones reguladoras del sector público de la administración autonómica.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 34.
+
+## Sección 3
+
+Sección 3.ª Los servicios portuarios básicos
+
+### Artículo 40
+
+Artículo 40. Régimen tributario.
+Puertos de las Islas está sometido al mismo régimen tributario que corresponde a la Administración de la comunidad autónoma de las Illes Balears y goza de idénticas exenciones y beneficios fiscales de acuerdo con la normativa específica que le sea aplicable.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 35.
+
+## TÍTULO III
+
+Prestación de servicios en los puertos
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 41
+
+Artículo 41. Servicios prestados en los puertos.
+1. De acuerdo con lo que prevé esta ley, la prestación de servicios en los puertos de la comunidad autónoma se realizará, según proceda, por Puertos de las Illes Balears o por los particulares que tengan la licencia o la autorización correspondiente.
+2. Los servicios se clasifican en:
+a) Servicios portuarios, que pueden ser generales y básicos.
+b) Servicios comerciales y otras actividades.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 36.
+
+## CAPÍTULO II
+
+Servicios portuarios
+
+## Seccion 1
+
+Sección 1.ª Concepto y tipología
+
+### Artículo 42
+
+Artículo 42. Concepto, normas generales y tipología.
+1. Son servicios portuarios las actividades de prestación dirigidas a garantizar y satisfacer las operaciones y las necesidades náuticas y portuarias de acuerdo con lo que prevé esta ley y las normas que la desarrollan.
+2. El establecimiento, la gestión y la prestación de los servicios portuarios se llevan a cabo de acuerdo con lo que establecen las ordenanzas reguladoras.
+3. Los servicios se prestarán en los espacios y con las infraestructuras de competencia de la Administración de la comunidad autónoma de acuerdo con criterios de objetividad. Sólo podrán limitarse o denegarse en los casos en que los usuarios no reúnan las condiciones establecidas en esta ley, en las ordenanzas reguladoras o en el título correspondiente.
+4. La información sobre los servicios y las condiciones de prestación ha de realizarse de acuerdo con la legislación que protege a los consumidores y usuarios.
+5. Los servicios portuarios se clasifican en servicios generales, cuya prestación se reserva a Puertos de las Illes Balears, y en servicios básicos, que se prestan en régimen de competencia.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 37.
+
+## Seccion 2
+
+Sección 2.ª Los servicios portuarios generales
+
+### Artículo 43
+
+Artículo 43. Concepto y delimitación de los servicios portuarios generales.
+1. Son servicios generales del puerto aquellos servicios comunes que son titularidad de Puertos de las Illes Balears de los cuales se benefician los usuarios del puerto sin necesidad de solicitud y, en todo caso, los siguientes:
+a) El servicio de ordenación, coordinación y control del tráfico portuario, tanto marítimo como terrestre.
+b) El servicio de coordinación y control de las operaciones asociadas a los servicios portuarios básicos, a los comerciales y a otras actividades.
+c) Los servicios de señalización, balizamiento y otras ayudas a la navegación sin perjuicio de las competencias que correspondan a otras administraciones.
+d) Los servicios de prevención, vigilancia, seguridad y policía, sin perjuicio de las competencias que correspondan a otras administraciones.
+e) El servicio de alumbrado de las zonas comunes.
+f) El servicio de limpieza de las zonas comunes de tierra y agua.
+g) La colaboración con las administraciones competentes en la prevención y el control de emergencias, incluidos los servicios de protección civil, prevención y extinción de incendios y lucha contra la contaminación.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 38.
+
+### Artículo 44
+
+Artículo 44. Prestación de servicios generales.
+1. Los servicios generales son gestionados por Puertos de las Illes Balears.
+2. Estos servicios tienen que ser prestados por el personal del ente público de acuerdo con las normas y los criterios técnicos que se prevén en las ordenanzas respectivas, sin perjuicio de que puedan encomendarse a terceros en determinados casos cuando no se ponga en riesgo la seguridad o cuando no impliquen ejercicio de autoridad.
+3. En los puertos deportivos y en las restantes instalaciones gestionadas en régimen de concesión administrativa, los servicios generales pueden ser prestados por el concesionario si así lo prevé el título correspondiente.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 39.
+
+## Seccion 3
+
+Sección 3.ª Los servicios portuarios básicos
+
+### Artículo 45
+
+Artículo 45. Concepto y delimitación de los servicios portuarios básicos.
+1. Son servicios portuarios básicos aquellas actividades comerciales que permiten la realización de operaciones de tráfico portuario.
+2. Son servicios básicos los siguientes:
+a) El practicaje.
+b) El remolque portuario.
+c) El amarre, el desamarre y la botadura de embarcaciones.
+d) El embarque y desembarque de pasajeros.
+e) La carga y la descarga de equipajes y vehículos en régimen de pasaje.
+f) El depósito y el transporte horizontal de mercancías.
+g) El suministro de agua y de energía eléctrica a las embarcaciones.
+h) La recepción de residuos generados por las embarcaciones, incluyendo los artículos pirotécnicos caducados o inservibles.
+i) El muelle de espera y la superficie de amarre para embarcaciones transeúntes.
+j) El balizamiento.
+k) Los medios de izada de embarcaciones y de reparación.
+l) El equipo de intervención rápida de extinción de incendios y de control de vertidos.
+m) La recogida y el tratamiento de basuras y sistemas de depuración de aguas residuales.
+n) El sistema higiénico sanitario.
+o) El sistema de gestión de calidad ambiental.
+p) El plan de emergencias y seguridad.
+q) Servicio de radiocomunicación y los servicios telefónicos, telemático y de VHF, así como el de información meteorológica.
+r) El sistema de bombeo y almacenaje que permita la extracción de las aguas aceitosas de las sentinas de las embarcaciones y el sistema de filtración y decantación de las aguas procedentes de las áreas donde se realizan actividades potencialmente contaminantes.
+s) El resto de servicios no incluidos en los apartados anteriores cuando así lo dispongan las ordenanzas correspondientes.
+Se modifica y se renumera por el art. único.6 y 20 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 40.
+
+## CAPÍTULO III
+
+Servicios comerciales y otras actividades
+
+### Artículo 46
+
+Artículo 46. Normas generales.
+1. Los servicios básicos están sujetos a las obligaciones de servicio público previstas en esta ley, las cuales se desarrollarán en las ordenanzas reguladoras de los servicios correspondientes con la finalidad de garantizar su prestación en condiciones razonables de seguridad, continuidad, regularidad, cobertura, calidad y precio y de respeto al medio ambiente.
+2. Corresponde a Puertos de las Illes Balears adoptar las medidas que sean precisas para garantizar una cobertura adecuada de las necesidades de servicios básicos en los puertos, asumiendo la gestión directa de los servicios cuando sea necesario.
+3. El consejo de administración de Puertos de las Illes Balears autorizará, cuando sea procedente, la autoprestación en los términos y en las condiciones que reglamentariamente se establezcan.
+4. En caso de impago del servicio por parte de los usuarios, Puertos de las Illes Balears puede autorizar a los prestadores a suspender temporalmente el servicio, hasta que se efectúe su pago o hasta que se garantice de forma suficiente la deuda que generó la suspensión.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 41.
+ Se modifica el apartado 2 por el art. 8.2 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487
+
+### Artículo 47
+
+Artículo 47. Obligaciones de servicio público.
+1. Son obligaciones de servicio público, que tienen que ser aceptadas por todos los prestadores de servicios básicos en los términos en que lo concreten los títulos habilitantes respectivos, las siguientes:
+a) Mantener la continuidad y la regularidad de los servicios en función de las características de la demanda, excepto causa de fuerza mayor, haciendo frente a las circunstancias adversas que puedan producirse con las medidas exigibles a un empresario diligente. Para garantizar la continuidad en la prestación del servicio, Puertos de las Illes Balears podrá establecer servicios mínimos de carácter obligatorio.
+b) Cooperar en los trabajos de salvamento, extinción de incendios y lucha contra la contaminación, así como en la prevención y el control de las emergencias, tal como indique su plan de autoprotección. Asimismo, informar de aquellas incidencias que puedan afectar a cualquiera de estas materias o a la seguridad marítima en general.
+c) Someterse, cuando proceda, a la potestad tarifaria en las condiciones establecidas en las prescripciones particulares por las cuales se rige el título habilitante.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 42.
+ Se modifica el apartado 3 y las letras d) y f) del apartado 4 por el art. 8.3 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487
+
+### Artículo 48
+
+Artículo 48. Prestación de los servicios básicos.
+1. Los servicios básicos se prestan a solicitud de los usuarios por las empresas autorizadas.
+2. En los puertos deportivos y en las restantes instalaciones gestionadas en régimen de concesión administrativa, la prestación de los servicios portuarios básicos corresponde a los concesionarios de acuerdo con el título concesional.
+3. Reglamentariamente se establecen los supuestos y las circunstancias en que Puertos de las Illes Balears puede imponer la obligatoriedad de estos servicios.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 43.
+
+## CAPÍTULO IV
+
+Prestación de servicios en puertos deportivos
+
+### Artículo 49
+
+Artículo 49. Títulos habilitantes.
+1. Para la prestación de los servicios básicos es necesario obtener la licencia correspondiente de Puertos de las Illes Balears.
+2. Las condiciones para ser titular de las licencias, los requisitos y el procedimiento para otorgarlas, su contenido y el régimen jurídico, se establecen reglamentariamente.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 44.
+
+## CAPÍTULO V
+
+Régimen económico
+
+### Artículo 50
+
+Artículo 50. Registro de Prestadores de Servicios Portuarios Básicos.
+1. Puertos de las Illes Balears gestiona el Registro de Prestadores de Servicios Portuarios Básicos, que tiene carácter público y al cual acceden de oficio los títulos habilitantes correspondientes.
+2. La organización, el funcionamiento y el régimen de inscripción de este registro se regularán por orden del titular de la consejería competente en materia de puertos, a propuesta del consejo de administración de Puertos de las Illes Balears.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 45.
+
+## CAPÍTULO III
+
+Servicios comerciales y otras actividades
+
+## TÍTULO IV
+
+Gestión del dominio público portuario
+
+## CAPÍTULO I
+
+Régimen de utilización
+
+### Artículo 51
+
+Artículo 51. Ámbito de aplicación.
+1. Son servicios comerciales las actividades de prestación portuarias o no portuarias de naturaleza comercial que, sin tener el carácter de servicios portuarios, están permitidas en el dominio público portuario, de acuerdo con lo que prevé esta ley.
+2. Los servicios comerciales se prestan en régimen de competencia. La administración portuaria adoptará medidas dirigidas a fomentar la competencia en la prestación de estos servicios.
+3. El desarrollo de actividades industriales, artesanas o de naturaleza similar en el dominio público portuario, está sometido al régimen jurídico previsto en esta ley para los servicios comerciales.
+4. Cuando en los puertos y en las dársenas deportivos definidos en esta ley, además de prestarse servicios generales y básicos, se presten otros servicios complementarios o actividades, comerciales o no, que ligados a la navegación deportiva o de ocio se dirijan como componente esencial a la desestacionalización del turismo náutico, se calificarán complementariamente como estación náutica.
+5. La estación náutica se desarrollará como instrumento de potenciación del sector náutico, en aras de la implantación de un modelo turístico-náutico de calidad. La comisión mixta que se cree en desarrollo del artículo 8 de la Ley 30/1998, de 29 de julio, del régimen especial de las Illes Balears, deberá incorporar este instrumento en el plan de medidas que se dicte para la implantación de este modelo de calidad.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 46.
+
+### Artículo 52
+
+Artículo 52. Prestación de servicios comerciales y otras actividades por parte de terceros.
+1. La prestación de servicios comerciales y el desarrollo de actividades mencionadas en el artículo anterior, por parte de terceros, requerirá la obtención de autorización. El plazo de vigencia de la autorización será el que determine el título correspondiente y podrá tener carácter indefinido excepto cuando vaya vinculada a la ocupación del dominio público. En este último supuesto, el plazo será el mismo que el que habilita la ocupación.
+2. Las actividades y los servicios comerciales directamente relacionados con la actividad portuaria tienen que ajustarse a los pliegos de condiciones generales que tiene que aprobar Puertos de las Illes Balears, con el objeto de garantizar que se realizan de forma compatible con los usos portuarios y con el funcionamiento operativo del puerto, en condiciones de seguridad y de calidad ambiental.
+3. A fin de que Puertos de las Illes Balears resuelva sobre una autorización de prestación de servicio o de actividad, la persona interesada tendrá que formular una solicitud que incluya:
+a) Datos identificativos del solicitante o, en su caso, de los partícipes a la comunidad o entidad sin personalidad jurídica.
+b) Descripción de la actividad a desarrollar y, en su caso, plazo de la misma.
+c) Declaración de estar al corriente en el cumplimiento de las obligaciones de carácter fiscal, laboral y social impuestas por la legislación vigente y, en su caso, información económico-financiera de la actividad a desarrollar.
+d) Otros documentos y justificantes que Puertos de las Illes Balears considere necesarios, la exigencia de los cuales esté justificada por razón imperiosa de interés general.
+Previa tramitación del procedimiento, corresponde al Consejo de Administración de Puertos de las Illes Balears el otorgamiento, con carácter reglado, de las autorizaciones cuyo plazo sea superior a un año, y al director gerente, el de aquéllas que no excedan este plazo.
+4. Las autorizaciones tienen que incluir, como mínimo, las condiciones relativas a los aspectos siguientes:
+a) Objeto del servicio o de la actividad.
+b) Plazo de vigencia.
+c) Tasa por aprovechamiento especial del dominio público en el ejercicio de actividades comerciales, industriales y de servicios.
+d) Garantías que hayan de constituirse, incluidas las necesarias para cubrir los posibles riesgos para la seguridad de terceros o medio ambientales, o la suscripción de un seguro de responsabilidad civil.
+e) Condiciones y medios para garantizar la seguridad y la calidad ambiental del servicio o de la actividad.
+f) Otras condiciones que se consideren pertinentes y estén justificadas por razones imperiosas de interés general.
+5. Cuando el desarrollo de una actividad o de un servicio requiera la ocupación de bienes de dominio público portuario, se tramitará en un solo expediente, otorgándose un título administrativo único en el cual se autorice la actividad y la ocupación del dominio público portuario para el mismo plazo.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 47.
+
+### Artículo 53
+
+Artículo 53. Servicios comerciales prestados por Puertos de las Illes Balears.
+La prestación de servicios comerciales por parte de Puertos de las Illes Balears estará limitada a aquellas actividades directamente relacionadas con la actividad portuaria que sean necesarias para el cumplimiento de sus funciones y, además, para atender las posibles deficiencias de la iniciativa privada.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 48.
+
+## CAPÍTULO IV
+
+Prestación de servicios en puertos deportivos
+
+### Artículo 54
+
+Artículo 54.
+1. La prestación de servicios en las dársenas y en los puertos deportivos gestionados en régimen de concesión se realizará por el mismo concesionario o por terceros que cuenten con el título correspondiente.
+2. En las dársenas y en los puertos deportivos tienen que prestarse los servicios siguientes:
+a) Amarre, desamarre y botadura de embarcaciones.
+b) Muelle de espera y superficie de amarre para embarcaciones transeúntes.
+c) Balizamiento.
+d) Medios de izada de las embarcaciones y de reparación.
+e) Suministro de carburante.
+f) Servicio de radiocomunicación y servicios telefónico, telemático y de VHF, como también de información meteorológica.
+g) Equipo de intervención rápida de extinción de incendios y de control de vertidos.
+h) Servicios comerciales directamente vinculados a la funcionalidad de la instalación.
+i) Recogida y tratamiento de basuras y sistemas de depuración de aguas residuales.
+j) Sistema de bombeo y almacenaje que permita la extracción de las aguas aceitosas de las sentinas de las embarcaciones y sistema de filtrado y decantación de las aguas procedentes de las áreas donde se realizan actividades potencialmente contaminantes.
+k) Sistema de bombeo, tratamiento y/o evacuación de las aguas grises y residuales de las embarcaciones.
+l) Sistema de almacenaje cubierto.
+m) Superficies para aparcamiento de vehículos y remolques.
+n) Edificio social y cantina.
+o) Sistema higiénico sanitario.
+p) Servicio de suministro de hielo.
+q) Instalaciones aptas para la enseñanza náutica y la realización de prácticas de actividades vinculadas a los puertos.
+r) Equipo de apoyo para salvamento marítimo.
+s) Accesos aptos para discapacitados.
+t) Sistema de gestión de calidad ambiental.
+u) Capitanía del puerto.
+v) Plan de emergencias y seguridad.
+w) Servicio de rampa para embarcaciones a remolque.
+3. Por orden del consejero competente en materia de puertos se regularán la implantación de los servicios enunciados en el apartado anterior, los regímenes específicos de prestación y las posibles exenciones según las características de cada puerto.
+4. A las dársenas y a los puertos deportivos gestionados tanto en régimen de concesión como en régimen de gestión directa, se tienen que prestar los siguientes servicios:
+a) Establecimiento de una zona de embarque y desembarco de usuarios, abastecimientos y residuos.
+b) En aquellas instalaciones en que haya varaderos y/o rampas de varadura, estas tendrán que estar disponibles para uso público, con horarios y tarifas, debidamente publicadas al tablón de anuncios y en la página web correspondiente.
+Los servicios que prevé este apartado son aplicables cuando se aprueben las normas de uso por acuerdo del Consejo de Administración de Puertos IB, donde se fije la tasa o tarifa correspondiente.
+Se añade el apartado 4 por el art. único.6 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+ Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 49.
+
+## CAPÍTULO V
+
+Régimen económico
+
+## CAPÍTULO II
+
+Disposiciones comunes relativas a concesiones y autorizaciones
+
+### Artículo 55
+
+Artículo 55. Tarifas.
+1. Como contraprestación de los servicios establecidos de acuerdo con esta ley, Puertos de las Illes Balears o la entidad que los preste, exige el pago de las tarifas correspondientes, de conformidad con la legislación que sea aplicable según su naturaleza jurídica.
+2. Las tarifas a que se refiere el punto anterior que no tengan el carácter de tasa son aprobadas por el consejo de administración de Puertos de las Illes Balears. Su establecimiento tiene que guiarse por criterios de rentabilidad.
+3. En el establecimiento de las tarifas portuarias pueden introducirse, en las condiciones establecidas en las ordenanzas correspondientes, tratamientos más favorables en relación con los titulares de embarcaciones tradicionales, las empresas dedicadas al transporte interinsular y las de pesca artesana o de litoral.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 50.
+
+## TÍTULO IV
+
+Gestión del dominio público portuario
+
+## CAPÍTULO I
+
+Régimen de utilización
+
+### Artículo 56
+
+Artículo 56. Formas de gestión demanial.
+1. Puertos de las Illes Balears gestiona el dominio público portuario que es competencia de la Administración de la comunidad autónoma de las Illes Balears a través de cualquiera de las formas previstas en el ordenamiento jurídico, de acuerdo con criterios de eficacia y eficiencia, y en consonancia con los objetivos económicos, sociales y medioambientales de la política portuaria.
+2. La gestión del dominio público portuario comprende la ejecución de obras, el otorgamiento de autorizaciones y concesiones, la prestación de servicios, la adopción de medidas de preservación y defensa del demanial y cualquiera otra función o actuación regulada en esta ley.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 51.
+
+### Artículo 57
+
+Artículo 57. Usos permitidos.
+En la zona de servicio de los puertos podrán autorizarse aquellas actividades, instalaciones y construcciones previstas en el plan director del puerto y, en todo caso:
+a) Las que tengan por objeto atender las funciones y los usos propios de cada puerto, así como también las que sean instrumentales o complementarias de las actividades anteriores.
+b) Las de carácter comercial, cultural, deportivo, recreativo o similar que sean necesariamente complementarias de la actividad portuaria o marítima, y que favorezcan el equilibrio económico y social del puerto.
+La superficie máxima permitida para los usos comerciales y de restauración previstos en el apartado anterior deberá cumplir las siguientes condiciones:
+– Será inferior al 16 % de la lámina de agua comprendida por los diques del puerto.
+– Será inferior al 10 % de la superficie de tierra del puerto.
+– Será inferior a 20 metros cuadrados por amarre.
+c) La realización y la difusión de publicidad por cualquier medio, siempre que sean autorizadas de acuerdo con lo que se establece en el plan director respectivo.
+Se modifica por el art. único.7 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+ Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 52.
+
+## CAPÍTULO III
+
+Autorizaciones
+
+## Sección 1
+
+Sección 1.ª Disposiciones Generales
+
+### Artículo 58
+
+Artículo 58. Usos prohibidos.
+En la zona de servicio de los puertos quedan prohibidos, en todo caso:
+a) El tendido aéreo de líneas eléctricas y telefónicas.
+b) Los vertidos contaminantes y aquéllos que no sean autorizados.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 53.
+
+### Artículo 59
+
+Artículo 59. Utilización del dominio público portuario por parte de terceros.
+1. La utilización por parte de terceros del dominio público portuario para usos en los que concurran circunstancias especiales de exclusividad, de intensidad, de peligrosidad o de rentabilidad, o que comporten la ejecución de obras o de instalaciones, requiere el otorgamiento de la preceptiva autorización o concesión administrativa, según corresponda.
+2. Las autorizaciones y las concesiones otorgadas según esta ley no eximen a sus titulares de obtener los permisos, las licencias y, en general, las autorizaciones que sean exigibles por otras disposiciones legales. En el supuesto de que estas autorizaciones se obtengan antes del otorgamiento del título administrativo exigible para la ocupación del dominio, su eficacia quedará condicionada al otorgamiento de aquél.
+3. Las solicitudes de autorizaciones y de concesiones para el uso del dominio público portuario se resuelven con carácter discrecional. Los actos desestimatorios tienen que estar debidamente motivados.
+4. Puertos de las Illes Balears conserva, en todo momento, las facultades de tutela y policía sobre el dominio público objeto de concesión o autorización.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 54.
+
+## CAPÍTULO II
+
+Disposiciones comunes relativas a concesiones y autorizaciones
+
+### Artículo 60
+
+Artículo 60. Procedimiento de otorgamiento.
+1. El procedimiento para el otorgamiento de las autorizaciones y concesiones reguladas en este título se inicia de oficio, mediante la convocatoria de un concurso, o a solicitud de persona interesada, y se resuelve por el consejo de administración de Puertos de las Illes Balears.
+2. Los pliegos de condiciones generales para el otorgamiento de concesiones se aprueban por orden de consejero competente en materia de puertos, y los relativos a autorizaciones los aprueba Puertos de las Illes Balears.
+3. Si, durante la tramitación de una solicitud de concesión o autorización, Puertos de las Illes Balears convoca un concurso, el solicitante que desista y que participe en el concurso, sin resultar ganador, tendrá derecho a recuperarse de los gastos del proyecto a cargo del adjudicatario.
+4. El concurso podrá declararse desierto si ninguna de las ofertas presentadas reúne las condiciones adecuadas.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 55.
+ Se añade un parrafo al apartado 2 por el art. 8.4 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487
+
+### Artículo 61
+
+Artículo 61. Contenido del título.
+1. El título autorizador o concesional incluye, como mínimo, las condiciones de utilización del dominio público siguientes:
+a) El objeto y el alcance de la ocupación o la utilización del dominio público portuario.
+b) Las obras o las instalaciones que, si procede, tiene que ejecutar el adjudicatario, de acuerdo con el proyecto constructivo, como también los plazos de comienzo y de finalización de las obras.
+c) El plazo de duración y, si procede, la posibilidad de prórroga.
+d) Las fianzas que deban constituirse.
+e) El canon de aprovechamiento del dominio público portuario.
+f) Las condiciones de uso de los espacios portuarios.
+g) Las condiciones, si procede, de prestación de los servicios, así como las tarifas o los precios máximos que deben percibirse de los usuarios, en los que serán repercutibles los gastos de mantenimiento y conservación así como los gastos generales necesarios, con el detalle de los factores constitutivos como base de futuras revisiones.
+h) La obligación del adjudicatario de facilitar la información que le solicite la administración en relación a los resultados económicos de la explotación.
+i) La obligación de mantener en buen estado el dominio público, las obras y las instalaciones, y de hacer, por su cuenta, las reparaciones que sean necesarias.
+j) Las facultades de auxilio y cooperación que asume el concesionario en materia de policía portuaria.
+k) Las causas generales y específicas que determinen su extinción.
+l) La declaración de que la administración portuaria no asume ninguna obligación laboral o económica del titular de la concesión o autorización en caso de extinción.
+2. Asimismo, el título tiene que incluir las medidas específicas que, en su caso, sean necesarias para preservar el medio ambiente y garantizar la calidad de las aguas marítimas en el interior del recinto portuario y sus alrededores.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 56.
+
+### Artículo 62
+
+Artículo 62. Modificación, revisión y extinción de autorizaciones y concesiones.
+1. Las autorizaciones y concesiones se modifican, se extinguen y se revisan por las causas establecidas en la legislación reguladora del dominio público marítimo terrestre, sin perjuicio de las señaladas en esta ley.
+2. El incumplimiento sustancial de las cláusulas o de las condiciones del título por causas imputables al titular puede determinar, con la audiencia previa de éste, la extinción de la autorización o de la concesión, sin perjuicio del procedimiento sancionador que se pueda incoar.
+3. Cuando la extinción del título derive del incumplimiento imputable al titular, tiene que ir acompañada de la exigencia de indemnización de daños y perjuicios causados a la administración, la pérdida de las garantías constituidas y la imposición de las sanciones correspondientes.
+4. Una vez iniciado un procedimiento de caducidad del título habilitante, Puertos de las Illes Balears puede ordenar, con la audiencia previa del titular, la paralización de las obras o la suspensión de los usos o de la explotación de las instalaciones para asegurar la efectividad de la resolución que tenga que dictarse.
+5. La renuncia al título lleva implícita, en todo caso, la pérdida de la fianza definitiva que se haya constituido.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 57.
+
+## CAPÍTULO III
+
+Autorizaciones
+
+## Seccion 1
+
+Sección 1.ª Disposiciones Generales
+
+## Sección 2
+
+Sección 2.ª Disposiciones específicas para el uso de puestos de amarre de embarcaciones de recreo
+
+### Artículo 63
+
+Artículo 63. Reglas generales.
+1. Quedan sujetos a la autorización previa de Puertos de las Illes Balears:
+a) Las actividades que se desarrollen en el espacio portuario que no requieran la ejecución de obras, como también la ocupación del dominio público portuario con instalaciones desmontables o bienes muebles por un periodo de hasta 4 años.
+b) La utilización de instalaciones portuarias fijas para los buques, el pasaje y las mercancías.
+c) El desarrollo en el ámbito portuario de actividades industriales, comerciales o de servicios, de acuerdo con el título III de esta ley.
+2. En los casos previstos en el punto c) del apartado anterior, la autorización incluirá los aspectos relativos al aprovechamiento del dominio público.
+Se modifica la letra a) del apartado 1 por la disposición final 23.8 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-23
+ Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 58.
+
+### Artículo 64
+
+Artículo 64. Naturaleza.
+Las autorizaciones se otorgan a título de precario, con carácter personal e intransferible, por un período máximo de cuatro años, transcurrido el cual no pueden prorrogarse, salvo lo que se dispone en esta ley para el amarre de las embarcaciones de recreo en puertos y dársenas de gestión pública.
+Se modifica y se renumera por el art. único.6 y 21 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 59.
+
+### Artículo 65
+
+Artículo 65. Procedimiento.
+1. Reglamentariamente se establece el procedimiento para el otorgamiento de las autorizaciones reguladas en este capítulo, el cual, con carácter general, se inicia por solicitud de la persona interesada.
+2. Si la solicitud se opone de manera notoria a los instrumentos de ordenación portuaria o a la normativa vigente, no se admitirá y se archivará sin más trámite que la audiencia previa al interesado.
+Se podrá proceder de igual manera en los casos en que su otorgamiento pudiera originar dentro del puerto situaciones de dominio del mercado susceptibles de afectar a la libre competencia en la prestación de los servicios portuarios básicos o a las actividades y los servicios comerciales directamente relacionados con la actividad portuaria.
+3. El plazo máximo para dictar y notificar la resolución que ponga fin al procedimiento es de seis meses, transcurrido el cual, sin que haya recaído resolución expresa, la solicitud correspondiente se entenderá desestimada.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 60.
+
+### Artículo 66
+
+Artículo 66. Revocación.
+1. La Administración portuaria puede revocar las autorizaciones, mediante resolución motivada y con la audiencia previa del titular, en los casos siguientes:
+a) Cuando sean incompatibles con obras, normativas o planes aprobados con posterioridad al otorgamiento.
+b) Cuando sean un obstáculo para la explotación portuaria.
+c) Cuando impidan la utilización del espacio portuario para actividades de más interés público.
+2. La revocación, en las circunstancias indicadas en el apartado anterior, no da derecho a indemnización.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 61.
+
+## CAPÍTULO IV
+
+Concesiones
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 67
+
+Artículo 67. Efectos de la extinción.
+1. Una vez extinguida la autorización, el titular tiene derecho a retirar los materiales, los equipos y las instalaciones de su propiedad, y tiene la obligación de hacerlo cuando lo disponga la administración portuaria. En este último caso, si la retirada no se lleva a cabo en el plazo y en las condiciones prescritas, ésta se realizará subsidiariamente por la administración a cargo del obligado.
+2. En cualquier caso, el titular tiene la obligación de restaurar la realidad física alterada y de dejar el dominio público en el estado anterior a su ocupación.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 62.
+
+## Seccion 2
+
+Sección 2.ª Disposiciones específicas para el uso de puestos de amarre de embarcaciones de recreo
+
+### Artículo 68
+
+Artículo 68. Principios generales.
+1. El otorgamiento de las autorizaciones de uso de amarres para embarcaciones de recreo no profesionales corresponde a Puertos de las Illes Balears, de acuerdo con los criterios y el procedimiento que se establecen reglamentariamente, y según los principios siguientes:
+a) La gestión unificada de la demanda de amarres.
+b) El establecimiento de regímenes específicos según el tipo de embarcación y los periodos de utilización efectiva de amarres.
+c) El favorecimiento de la utilización de las dársenas de dique seco.
+d) El fomento de los usos a tiempo compartido.
+e) La implantación efectiva de medidas de control y calidad medioambiental.
+2. Puertos de las Illes Balears garantizará una oferta adecuada de los amarres para embarcaciones transeúntes en cada puerto en los términos que reglamentariamente se determinen.
+3. En las instalaciones gestionadas en régimen de concesión, el ente público podrá fijar, con criterios objetivos, oído el concesionario y atendiendo al título concesional, el porcentaje mínimo de amarres destinados a esta finalidad.
+4. Puertos de las Illes Balears garantizará un porcentaje mínimo de amarres públicos para las embarcaciones tradicionales con valor histórico y patrimonial que hayan sido declaradas Bien de Interés Cultural.
+Se modifica y se renumera por el art. único.6 y 22 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 63.
+
+## Sección 2
+
+Sección 2.ª Procedimiento de otorgamiento
+
+### Artículo 69
+
+Artículo 69. Características de las autorizaciones.
+1. Las autorizaciones de uso de amarres se otorgan con carácter personal e intransferible, para un solo titular y para una embarcación determinada.
+2. Excepcionalmente, se admite, por una sola vez y para la misma embarcación, la transmisión por causa de muerte de la autorización otorgada a una persona física a favor del derechohabiente, en el supuesto de la muerte de la persona titular de la autorización, por un plazo máximo de dos años, a contar desde la finalización del año natural en que ésta se ha producido. Una vez transcurrido este plazo, queda sin efecto la autorización, y la embarcación debe abandonar el lugar.
+3. El plazo de vigencia de la autorización temporal es el que determina el título administrativo, el cual tiene que contar a partir del día siguiente de la notificación con carácter general, y no puede ser superior a cuatro años.
+4. No obstante lo dispuesto en el punto 1 del presente artículo, los titulares de autorizaciones de uso de amarres tienen la obligación de comunicar a Puertos de las Illes Balears las ausencias de la embarcación autorizada superiores a cuarenta y ocho horas, durante las cuales el referido amarre quedará asignado a la oferta de amarres para embarcaciones transeúntes regulada en el artículo anterior.
+Se modifica el apartado 3 por la disposición final 23.9 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-23
+ Se modifica y se renumera por el art. único.6 y 23 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 64.
+
+### Artículo 70
+
+Artículo 70. Cesiones de derechos en puertos gestionados en régimen de concesión.
+1. Las cesiones de los derechos de uso de amarres en los puertos gestionados en régimen de concesión se otorgarán con carácter personal a un solo titular para una embarcación de medidas adecuadas al amarre.
+2. Los derechos de uso de los amarres no perduran en ningún caso más allá del plazo correspondiente al título concesional.
+3. Las cesiones a que hace referencia el apartado 1 quedan condicionadas al cumplimiento de los requisitos siguientes:
+a) La cesión tiene que instrumentarse en documento público o privado y debe comunicarse a Puertos de las Illes Balears, con copia cotejada del contrato, a efectos de registro.
+b) (Sin contenido)
+c) Tienen que liquidarse con carácter previo los impuestos correspondientes ante la hacienda de la comunidad autónoma.
+4. Los concesionarios de puertos deportivos tienen derecho a exigir del cedente hasta un 1% del precio del contrato.
+5. Las cesiones de derechos de uso de amarres en los puertos deportivos gestionados en régimen de concesión estarán sujetas al devengo de una tasa.
+Se deja sin contenido la letra b) del apartado 3 por el art. único.8 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+ Se modifica y se renumera por el art. único.6 y 24 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 65.
+ Se modifica el apartado 1 por el art. 8.5 de la Ley 12/2010, de 12 de noviembre. Ref. BOE-A-2010-19487
+
+### Artículo 71
+
+Artículo 71. Registro de usuarios de amarres.
+1. Los puertos en concesión deberán llevar un registro electrónico de los usuarios de los amarres al que deberá tener acceso la entidad Puertos de las Illes Balears. Reglamentariamente se fijarán la estructura y el contenido de dichos registros, así como los efectos de la inscripción.
+2. La entidad Puertos de las Illes Balears podrá inspeccionar la existencia y la veracidad de dichos registros.
+Se modifica por el art. único.9 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+ Se modifica y se renumera por el art. único.6 y 25 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 66.
+
+## CAPÍTULO IV
+
+Concesiones
+
+## Seccion 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 72
+
+Artículo 72. Ámbito de aplicación.
+1. Está sometida a concesión administrativa toda ocupación del dominio público portuario con obras o instalaciones no desmontables o con usos que requieran un plazo superior a cuatro años.
+2. Toda ocupación del dominio público portuario tiene que ser compatible con la planificación y la ordenación portuarias y congruente con la finalidad y los usos propios de aquél.
+3. Toda concesión se entiende otorgada sin perjuicio de terceros y salvando los derechos preexistentes.
+Se modifica el apartado 1 por la disposición final 23.10 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-23
+ Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 67.
+
+### Artículo 73
+
+Artículo 73. Plazo de las concesiones.
+1. La ocupación del dominio público portuario con obras o instalaciones fijas, así como cualquier tipo de ocupación por plazo superior a cuatro años, estará sujeto a concesión.
+2. El título de otorgamiento determinará el plazo de la concesión y sus posibles prórrogas, sin que el plazo total pueda exceder los 50 años.
+Para la fijación del mismo se tendrán en cuenta los siguientes criterios:
+a) Vinculación del objeto de la concesión a la actividad portuaria.
+b) Disponibilidad de espacio del dominio público portuario.
+c) Volumen de inversión y estudio económico-financiero.
+d) Plazo de ejecución de las obras contenidas en el proyecto.
+e) Adecuación a la planificación y a la gestión portuarias.
+f) Incremento de actividad que genere el puerto y creación de empleo consecuencia de dicho incremento.
+g) Vida útil de la inversión a realizar por el concesionario.
+h) Compromiso de mejora medioambiental en el puerto y su entorno durante la concesión.
+3. El plazo de la concesión será improrrogable, excepto cuando en el título de otorgamiento se haya previsto expresamente o, de no haberse previsto, el concesionario lleve a cabo una inversión adicional relevante no prevista en la concesión que sea superior al 20 % del valor actualizado de la inversión inicialmente prevista en el título concesional.
+El plazo de cada una de las prórrogas que se otorguen en este supuesto no podrá ser superior a la mitad del plazo inicial, y la suma de los plazos de estas no podrá ser superior a una vez y media el plazo inicial de la concesión.
+El plazo inicial, unido al de las prórrogas, no podrá superar el plazo máximo de 50 años.
+4. A la petición de prórroga deberá adjuntarse la siguiente documentación:
+a) Documento técnico que describa las características de las obras o la debida referencia al mismo, en caso de que este obrase en Puertos de las Illes Balears, así como la documentación o los estudios necesarios para la obtención del instrumento de prevención y control ambiental a que se encuentre sometido.
+b) Estudio económico-financiero de viabilidad de la concesión, que justifique la necesidad de la prórroga y los nuevos compromisos que se pretenden cumplir, entre los que constarán la previsión de la creación de empleo y la metodología utilizada para dicha estimación.
+c) Documentación acreditativa de las inversiones, tanto de las inicialmente previstas en la concesión, como de las ejecutadas posteriormente con autorización de Puertos de las Illes Balears.
+d) Cuentas anuales aprobadas y, en su caso, depositadas en el Registro Mercantil o registro oficial en el que el empresario deba estar inscrito y, en todo caso, por firma auditora externa de los tres últimos ejercicios.
+e) Dictamen emitido por una auditoría técnica externa e independiente, que verifique el cumplimiento de sus obligaciones de mantenimiento de las obras e instalaciones de la infraestructura necesaria para la prestación de los servicios portuarios que constituyen el soporte material de la concesión.
+f) Propuesta de Reglamento de explotación y tarifas máximas.
+g) Certificado de encontrarse al corriente de las obligaciones tributarias y con la Seguridad Social.
+h) Declaración responsable de no estar incurso en incapacidad o prohibición para contratar.
+5. Sin perjuicio del cumplimiento de los requisitos expresados en los apartados anteriores, en el caso de los clubes náuticos, se valorará la aportación de un plan deportivo.
+El plan deportivo tendrá que estar dirigido a todos sus usuarios residentes y a todas las escuelas de su entorno y a la creación y al mantenimiento de equipos de competición en las diferentes modalidades de deportes del mar, cuya ejecución suponga una inversión igual o superior al 15 % del presupuesto anual de la entidad.
+En el plan deportivo, sin perjuicio de que reglamentariamente se establezca su contenido, tendrá que adjuntarse la siguiente documentación:
+a) Documento técnico que describa las características del plan o de los planes deportivos a llevar a cabo.
+b) Estudio económico-financiero de viabilidad de dicho plan.
+c) Certificado emitido por las federaciones baleares de Vela y/o Piragüismo que acredite la idoneidad del plan deportivo y su contenido económico.
+d) En su caso, certificado emitido por algún organismo público competente que acredite la idoneidad, la autenticidad y el contenido económico de los proyectos culturales, patrimoniales o medioambientales relacionados con la actividad náutica.
+e) Certificado emitido por las federaciones baleares de Vela y/o Piragüismo que acredite que el concesionario está dado de alta y ejerce una actividad deportiva pública y continuada.
+f) Certificado emitido por Registro de entidades deportivas que acredite que la entidad concesionaria lleva de alta ininterrumpida desde el otorgamiento de la concesión objeto de prórroga y que no se halla incursa en ningún procedimiento de liquidación o disolución.
+6. En todos los supuestos será necesario que el concesionario se encuentre al corriente del cumplimiento de las obligaciones derivadas de la concesión.
+La prórroga de la concesión determinará la aprobación del Reglamento de explotación y tarifas máximas.
+7. Para el otorgamiento de cada prórroga será necesario que haya transcurrido, al menos, la tercera parte del plazo de vigencia de la concesión, salvo por circunstancias excepcionales debidamente apreciadas por Puertos de las Illes Balears.
+Se modifica por el art. único.10 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+ Se modifica y se renumera por el art. único.6 y 26 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 68.
+
+## Seccion 2
+
+Sección 2.ª Procedimiento de otorgamiento
+
+### Artículo 74
+
+Artículo 74. Iniciación.
+El procedimiento de otorgamiento de una concesión puede iniciarse a solicitud de la persona interesada o por concurso convocado por Puertos de las Illes Balears.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 69.
+
+### Artículo 75
+
+Artículo 75. Solicitudes.
+1. La solicitud para la obtención de una concesión tiene que ir acompañada de la documentación siguiente:
+a) Datos identificativos del solicitante o, en su caso, de los partícipes en la comunidad o entidad sin personalidad jurídica.
+b) Acreditación de solvencia económica y técnica para atender a las obligaciones resultantes de la concesión.
+c) Proyectos básico y de explotación suscritos por un técnico competente y adaptados al correspondiente Plan general de puertos, con detalle de posibles efectos medioambientales y, en su caso, estudio de impacto ambiental. Los proyectos deben contener la descripción de las actividades a desarrollar, las características de las obras e instalaciones a ejecutar conformes con el Plan general de puertos, la superficie a ocupar, el presupuesto estimado de las obras e instalaciones y otras especificaciones que determine Puertos de las Illes Balears.
+d) Memoria económico-financiera de la actividad a desarrollar.
+e) Justificación del cumplimiento de las condiciones específicas para el ejercicio de la actividad objeto de la concesión.
+f) Justificante de haber constituido la garantía provisional y, en su caso, seguro de responsabilidad civil.
+g) Otros documentos y justificaciones que sean pertinentes y cuya exigencia esté justificada por razón imperiosa de interés general.
+2. No se admitirán las solicitudes que se opongan de manera notoria al Plan de uso y gestión del puerto de que se trate, las cuales deben archivarse sin más trámite que la audiencia previa a la persona interesada.
+3. Las solicitudes de ampliación o modificación de los puertos deportivos, las dársenas o instalaciones marítimas que supongan una modificación de la distribución o de las características de los amarres de base existentes, deberán ser notificadas a los usuarios.
+Se modifica y se renumera por el art. único.6 y 27 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 70.
+
+## Sección 3
+
+Sección 3.ª Régimen específico
+
+### Artículo 76
+
+Artículo 76. Tramitación de los proyectos.
+Admitida la solicitud, tiene que seguirse el procedimiento que se establezca reglamentariamente, en el cual tienen que hacerse efectivos los trámites siguientes:
+a) Puertos de las Illes Balears procederá a la confrontación del proyecto sobre el terreno y los espacios de agua correspondientes con el fin de determinar su adecuación técnica.
+b) Debe abrirse un trámite de información pública por un plazo no inferior a veinte días. No se exige este trámite cuando la concesión tenga por objeto la utilización de edificios y construcciones existentes sin modificación de la estructura exterior.
+c) Tiene que solicitarse un informe a los organismos que reglamentariamente se determinen. Los informes tienen que emitirse en un plazo de un mes.
+d) El proyecto tiene que someterse a los controles adecuados de impacto ambiental.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 71.
+
+## Sección 4
+
+Sección 4.ª Régimen jurídico de las concesiones
+
+### Artículo 77
+
+Artículo 77. Aprobación de los proyectos.
+1. El Consejo de Administración de Puertos de las Illes Balears decide libremente sobre la aprobación de los proyectos de obras, instalaciones y explotación, sin perjuicio de lo que se prevé en los 21 y 22 de esta ley y en el marco del Plan general de puertos.
+2. El acuerdo de aprobación de los proyectos determina:
+a) La inclusión del ámbito del proyecto como sistema general portuario en el planeamiento general y territorial.
+b) La declaración de utilidad pública a los efectos de expropiación de los bienes de propiedad privada y el rescate de las concesiones que sean necesarias para la ejecución del proyecto, así como la afectación al uso portuario de los bienes de dominio público y de los bienes patrimoniales incluidos en la zona de servicio.
+c) El inicio de las actuaciones para obtener la adscripción de dominio público que corresponda.
+3. La aprobación de proyectos relativos a la construcción de nuevos puertos o a las ampliaciones de los existentes estará condicionada a la aprobación definitiva del plan de uso y gestión correspondiente, previa o simultánea.
+Se modifica y se renumera por el art. único.6 y 28 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 72.
+
+### Artículo 78
+
+Artículo 78. Condiciones de otorgamiento del título.
+1. Cuando se decida otorgar la concesión, se comunicarán al solicitante las condiciones particulares de otorgamiento, y se le concederá un plazo de diez días para que comunique si las acepta. Si no hiciera ninguna manifestación en este plazo, o no aceptara las condiciones ofrecidas, se declarará concluido el procedimiento por desistimiento del solicitante, con pérdida de la fianza constituida.
+2. Si las condiciones son aceptadas en el plazo concedido, Puertos de las Illes Balears resolverá discrecionalmente sobre el otorgamiento de la concesión. La resolución de otorgamiento, que permite la formalización del título concesional, tiene que publicarse en el Butlletí Oficial de les Illes Balears.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 73.
+
+### Artículo 79
+
+Artículo 79. Concursos.
+1. Puertos de las Illes Balears puede convocar concursos para el otorgamiento de las concesiones reguladas en esta ley, mediante una convocatoria que tiene que publicarse en el Butlletí Oficial de les Illes Balears.
+2. El concurso es preceptivo para el otorgamiento de concesiones administrativas que tengan por objeto la construcción o la explotación de puertos nuevos o la ampliación sustancial de estos, y para cuando se trate de supuestos de prolongación de la explotación de la concesión contemplados en esta ley.
+No será aplicable lo dispuesto en el párrafo anterior en los supuestos de concesiones de dársenas e instalaciones náutico-deportivas construidas o no por particulares, cuando el solicitante sea un club náutico u otra entidad deportiva sin fines lucrativos, siempre que las condiciones de la concesión establezcan como máximo un límite del 20 % para el número de atraques destinados a embarcaciones con eslora superior a 15 metros, en cuyo caso se abriría un trámite de competencia de proyectos de acuerdo con el apartado 6 siguiente.
+Podrá acudirse a la adjudicación directa cuando quien formula la solicitud sea un órgano o entidad de cualquier administración pública para el cumplimiento de las finalidades de su competencia, siempre que se trate de usos o actividades que, por su relación directa con la actividad portuaria, tengan que desarrollarse necesariamente dentro de dicho espacio o cuando la solicitud sea formulada por un club náutico u otra entidad deportiva sin fines lucrativos siempre que tenga la declaración de utilidad pública o siempre que las condiciones de la concesión establezcan una limitación de, al menos, un 80 % de los atraques disponibles para embarcaciones con eslora igual o inferior a 15 metros.
+3. Los pliegos generales que regulan los concursos para el otorgamiento de concesiones administrativas para la construcción, la ampliación y la explotación o sólo la explotación de puertos deportivos, dársenas e instalaciones marítimas deportivas, deberán contener necesariamente, como elemento a valorar, la condición relativa al volumen de inversión anual, espacio terrestre y espejo de agua que el licitante se compromete a dedicar a la promoción, la enseñanza y la práctica de actividades náutico-deportivas. Asimismo, cuando proceda, será un elemento a valorar la condición relativa a la oferta que los licitantes deberán hacer respecto al personal que formaba parte de la plantilla en el momento de la reversión, el cual deberá integrarse en su futura plantilla con el reconocimiento de la antigüedad con carácter general, para la prestación de servicios.
+4. La convocatoria del concurso supone el archivo de los expedientes de concesión en tramitación que se vean afectados y la atribución al solicitante del derecho a percibir los gastos del proyecto si no resultara adjudicatario del concurso.
+5. Los concursos regulados en este artículo tienen que desarrollarse de acuerdo con lo que reglamentariamente se determine, aplicándose subsidiariamente la legislación de contratos de las administraciones públicas.
+6. Presentada una solicitud que se refiera a alguno de los supuestos previstos en el apartado 2 anterior, Puertos de las Illes Balears deberá convocar concurso, siguiendo la tramitación prevista. En los demás casos, Puertos de las Illes Balears podrá convocar un concurso, o bien iniciar un trámite de competencia de proyectos, mediante anuncio, que se publicará en el “Butlletí Oficial de les Illes Balears”, donde se indicará la apertura de un plazo de un mes para la presentación de otras solicitudes que tengan, según se determine por Puertos de las Illes Balears, el mismo o distinto objeto que aquella, y que deberán reunir los requisitos previstos en el apartado 2 del presente artículo. En este trámite de competencia de proyectos, se respetará la confidencialidad de los proyectos y de la documentación aportada.
+Cuando en el trámite de competencia de proyectos se presenten varias solicitudes, el Consejo de Administración seleccionará aquella que, a su juicio, tenga mayor interés portuario, motivado en la captación de nuevos tráficos, compatibilidad con otros usos, inversión y rentabilidad, entre otros, y continuará la tramitación.
+En el caso de concesiones solicitadas por clubs náuticos o entidades deportivas sin fines lucrativos que se tramiten como competencia de proyectos, se deberá valorar los siguientes aspectos:
+a) Programa de actividades culturales y deportivas de interés social.
+b) Estructura tarifaria y tarifas máximas propuestas.
+c) Viabilidad, oportunidad y bondad del proyecto.
+d) Memoria económico-financiera.
+e) Propuesta de organización de los servicios. Memoria de explotación.
+f) Declaración de utilidad pública conforme al artículo 8 de la Ley 2/2023, de 7 de febrero, de la actividad física y el deporte de las Illes Balears. La consejería competente en materia de puertos deportivos podrá establecer, reglamentariamente, el procedimiento de declaración de utilidad pública de los clubs náuticos.
+Se modifica el apartado 2 y se añade el apartado 6 por el art. único.11 y 12 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+ Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 74.
+
+### Artículo 80
+
+Artículo 80. Resolución de los concursos.
+1. En el supuesto de que el ganador del concurso renuncie a la adjudicación de la concesión, la administración puede optar discrecionalmente entre declarar desierto el concurso o adjudicar el concurso al licitador siguiente en la valoración, de acuerdo con los que establezcan las condiciones de la concesión.
+2. El concurso podrá declararse desierto si ninguna de las ofertas presentadas tiene las condiciones adecuadas.
+3. Una vez resuelto el concurso, el ganador redactará el proyecto de ejecución, que deberá ser sometido a la aprobación de Puertos de las Illes Balears. Esta aprobación determinará la formalización del título concesional.
+Se modifica y se renumera por el art. único.6 y 29 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 75.
+
+## Seccion 3
+
+Sección 3.ª Régimen específico
+
+## Sección 5
+
+Sección 5.ª Modificación y extinción de las concesiones
+
+### Artículo 81
+
+Artículo 81. Concesiones de obra pública portuaria.
+1. Puertos de las Illes Balears podrá promover la construcción y la explotación o sólo la explotación de obras públicas portuarias en régimen de concesión administrativa.
+2. Los contratos de concesión de obras públicas tendrán por objeto la construcción y la explotación o sólo la explotación, siempre que se encuentren abiertas al uso público o al aprovechamiento general de:
+a) Un puerto existente, un nuevo puerto o la ampliación de un puerto existente que sea susceptible de explotación totalmente independiente.
+b) Infraestructuras portuarias e instalaciones náuticas deportivas.
+3. La construcción y la explotación o sólo la explotación de la obra pública portuaria objeto de la concesión se efectuará a riesgo y ventura del concesionario, quien asumirá los riesgos económicos derivados de su ejecución y explotación.
+4. En materia de obras públicas portuarias será de aplicación la legislación general reguladora del contrato de concesión de obras públicas, sin perjuicio de las previsiones contenidas en la presente ley y de su régimen de utilización del dominio público portuario.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 76.
+
+## Seccion 4
+
+Sección 4.ª Régimen jurídico de las concesiones
+
+### Artículo 82
+
+Artículo 82. Título concesional.
+1. El título concesional tiene que incorporar, además de las condiciones mínimas establecidas en el artículo 56, las determinaciones siguientes:
+a) Concreción de los terrenos, las obras o las instalaciones sujetas a reversión.
+b) Estudio acreditativo del equilibrio económico y financiero de la concesión.
+c) Fianzas que tiene que constituir y mantener el adjudicatario.
+2. Asimismo, la administración tiene que reservarse en el título la facultad de modificar, en su caso, las tarifas que puede percibir de los usuarios, como también la de imponer al concesionario la ejecución de obras a su cargo.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 77.
+
+### Artículo 83
+
+Artículo 83. Explotación y gestión.
+1. La explotación, la gestión y el mantenimiento de las obras y de las instalaciones han de ir a cargo del concesionario, el cual puede llevar a cabo estas actividades mediante cualquiera de las formas previstas en el ordenamiento jurídico.
+2. Los contratos entre el concesionario y otra persona natural o jurídica para la gestión total o parcial de la concesión, quedan sometidos a la previa aprobación de Puertos de las Illes Balears.
+3. La concesión no habilita por sí misma al concesionario a prestar servicios portuarios básicos, a menos que el título así lo prevea.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 78.
+
+### Artículo 84
+
+Artículo 84. Actos de transmisión y de gravamen.
+1. Las concesiones de dominio público portuario son transmisibles entre personas vivas previa autorización de Puertos de las Illes Balears.
+2. A estos efectos, tendrán la consideración de transmisión de la concesión las operaciones societarias que impliquen la alteración de la posición mayoritaria en el capital social, las fusiones, las absorciones y las adjudicaciones por impago, incluyendo los supuestos de remate judicial.
+3. Es necesaria, asimismo, la autorización previa de Puertos de las Illes Balears para la constitución de gravámenes sobre las concesiones y para la división de las concesiones otorgadas para una pluralidad de usos, que cuenten con instalaciones separables, cuando esta posibilidad esté expresamente reconocida en las condiciones del título.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 79.
+
+## CAPÍTULO V
+
+Fianzas y avales
+
+### Artículo 85
+
+Artículo 85. Publicidad registral.
+Las concesiones pueden inscribirse en el Registro de la Propiedad de conformidad con lo que disponga la normativa estatal de aplicación.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 80.
+
+## Seccion 5
+
+Sección 5.ª Modificación y extinción de las concesiones
+
+### Artículo 86
+
+Artículo 86. Modificación de las concesiones.
+1. Puertos de las Illes Balears puede autorizar a solicitud del interesado modificaciones de las condiciones de una concesión. Si la modificación es sustancial, la solicitud tiene que tramitarse como si se tratara de otorgar una nueva concesión.
+2. Se consideran modificaciones sustanciales las siguientes:
+a) La modificación del objeto de la concesión.
+b) La ampliación de la superficie de la concesión en más de un 30% respecto a la fijada en el acta de reconocimiento.
+c) La ampliación de la superficie o del volumen construidos autorizados en más de un 30%.
+d) La modificación de la ubicación de la concesión.
+3. Al computar los límites establecidos en el apartado anterior, tienen que tenerse en cuenta los valores acumulados de modificaciones anteriores.
+4. En los concursos que se convoquen para el supuesto de ampliación sustancial recogido en el artículo 74.2 de la presente ley, el concesionario que promueva la referida ampliación sustancial tendrá derecho de tanteo sobre el resultado del concurso, en los términos establecidos en el artículo 88.
+Se modifica y se renumera por el art. único.6 y 30 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 81.
+
+### Artículo 87
+
+Artículo 87. Extinción de las concesiones.
+1. El cumplimiento del plazo previsto en el título concesional supone la extinción de la concesión.
+2. Son causas de extinción anticipada de la concesión:
+a) El rescate de la concesión por parte de la administración.
+b) La declaración de quiebra o la extinción de la persona jurídica concesionaria.
+c) La declaración de un concurso de acreedores del concesionario, cuando ello imposibilite la realización de las obras previstas o la prestación de los servicios portuarios. No obstante, Puertos de las Illes Balears puede autorizar el mantenimiento de la concesión si considera que el concesionario ofrece las garantías suficientes, salvo que se reserve su gestión directa.
+d) El mutuo acuerdo entre la administración portuaria y el concesionario.
+e) La renuncia del concesionario.
+f) La revocación de la concesión por incumplimiento imputable al concesionario de las cláusulas establecidas en el pliego de condiciones.
+g) Cualquier otra que se establezca en el pliego de condiciones, de acuerdo con la legislación vigente.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 82.
+
+### Artículo 88
+
+Artículo 88. Prolongación de la explotación.
+1. El titular de una concesión que pretenda prolongar la explotación de un puerto deportivo o de una obra pública más allá del plazo concesional, puede solicitar a Puertos de las Illes Balears la adjudicación de una nueva concesión, una vez hayan transcurrido las dos terceras partes, y sin necesidad de aportar una fianza provisional con la solicitud.
+2. A este efecto, si se considera ventajoso para los intereses públicos, y siempre que el vencimiento de la concesión no tenga que producirse en los tres años siguientes, Puertos de las Illes Balears tramitará la solicitud publicando el anuncio correspondiente en el Butlletí Oficial de les Illes Balears, y abriendo un plazo no inferior a tres meses a fin de que, si hay otras personas interesadas en la gestión, puedan presentar las correspondientes solicitudes. Concluido dicho trámite, se convocará un concurso entre los interesados que hayan presentado la solicitud en plazo. Transcurrido dicho plazo sin que se hayan presentado otras solicitudes se tramitará la solicitud de prolongación de la explotación presentada por el titular de la concesión sin necesidad de concurso.
+3. En el pliego de condiciones generales que regule el concurso tiene que incluirse necesariamente el derecho de tanteo a favor del concesionario en activo, que éste puede ejercer siempre que no haya incumplido las cláusulas de la concesión, haya realizado la gestión de las instalaciones a satisfacción de Puertos de las Illes Balears y haya licitado el concurso.
+El pliego de condiciones generales del concurso establecerá los criterios y baremos según los cuales se podrá ejercer el derecho de tanteo, de acuerdo con la defensa del interés general.»
+4. En el caso de que el concesionario que ha promovido el procedimiento no resulte adjudicatario de la concesión por no haber ganado el concurso y no ejercitar el derecho de tanteo o, en su caso, por no aceptar las condiciones ofertadas por la administración en la tramitación de su solicitud, no mantendrá ningún derecho sobre la concesión y, a su vencimiento, los bienes y derechos revertirán a Puertos de les Illes Balears.
+5. En el supuesto de que el ganador del concurso renuncie al otorgamiento de la concesión y el antiguo concesionario no ejerza el derecho de tanteo, la administración podrá optar discrecionalmente entre declarar desierto el concurso u ofertar su adjudicación al siguiente clasificado en la valoración, y el antiguo concesionario podrá ejercer nuevamente su derecho de tanteo.
+6. Los concursantes no tendrán ningún derecho a resarcirse de los gastos que pueda haberles ocasionado su presentación al concurso, excepto en el supuesto de que el concesionario que ha promovido el procedimiento no resulte ganador del concurso y ejerza el derecho de tanteo. En este caso, el ganador del concurso tendrá derecho a percibir los gastos del proyecto que serán a cargo del que ha ejercido el derecho de tanteo.
+7. El concurso se declarará desierto por la administración en los siguientes supuestos:
+a) Cuando ninguna de las ofertas presentadas reúna las condiciones mínimas establecidas en el concurso.
+b) Discrecionalmente, cuando el ganador del concurso renuncie al otorgamiento de la concesión y el antiguo concesionario no ejerza el derecho de tanteo.
+c) Siempre, en su caso, cuando el segundo clasificado en el concurso no acepte las condiciones ofrecidas y el antiguo concesionario no ejerza el derecho de tanteo.
+8. El nuevo concesionario debe reintegrar o abonar al anterior titular las inversiones realizadas a lo largo del plazo concesional, que cuenten con la preceptiva autorización de Puertos de las Illes Balears y que no hubieran sido amortizadas al acabar la vigencia del título concesional de conformidad con el estudio económico financiero.
+9. Todas aquellas concesiones de explotación o de obra pública referidas a instalaciones que, con posterioridad a la entrada en vigor de la presente ley, fueran objeto de transferencia desde la Administración del Estado a la comunidad autónoma de las Illes Balears podrán acogerse a esta modalidad, rigiéndose dichos casos por el procedimiento regulado en el presente artículo.
+No obstante, en los referidos casos no serán necesarios ni el cumplimiento de las condiciones de que hubieran transcurrido las dos terceras partes de la concesión ni el hecho de que el vencimiento de esta se haya producido en los tres años siguientes.
+Se modifica y se renumera por el art. único.6, 31 y 32 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 83.
+
+## CAPÍTULO VI
+
+Régimen económico
+
+### Artículo 89
+
+Artículo 89. Reversión.
+1. Una vez extinguida la concesión, revierten a la administración portuaria los terrenos, las obras y las instalaciones señalados en el título de otorgamiento y sus modificaciones, que serán entregados en un estado adecuado de conservación y funcionamiento, y libres de cargas.
+2. La retirada de las obras y las instalaciones, y también la de los materiales y equipos, se hace a expensas del concesionario. Si éste no la efectúa en el plazo y con las condiciones establecidas, tiene que hacerlo la administración subsidiariamente a cargo del obligado.
+3. Mientras no se produzca la reversión de las instalaciones a la administración portuaria, el concesionario tendrá que continuar gestionándolas o explotándolas a precario, manteniéndose las obligaciones derivadas del título concesional, hasta que se produzca alguna de las siguientes circunstancias:
+a) La asunción efectiva de los servicios por parte de la administración portuaria.
+b) El otorgamiento de un nuevo título concesional.
+c) El transcurso de un año desde el vencimiento de la concesión, siempre que el titular haya manifestado con una antelación de 4 meses su intención de abandonar los espacios afectos a la concesión.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 84.
+
+## CAPÍTULO V
+
+Fianzas y avales
+
+## TÍTULO V
+
+Régimen de infracciones, sanciones y policía
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 90
+
+Artículo 90. Fianzas para autorizaciones.
+Las personas beneficiarias de las autorizaciones reguladas en esta ley sólo están obligadas a la constitución de fianzas cuando la ocupación del dominio público sea especialmente intensa y se establezca como condición en el título autorizador.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 85.
+
+## CAPÍTULO II
+
+Infracciones
+
+### Artículo 91
+
+Artículo 91. Fianza provisional.
+1. Los solicitantes de una concesión administrativa tienen que acreditar, en el momento de presentar el proyecto, la constitución de una fianza provisional por un importe del 2% del presupuesto de las obras o instalaciones.
+2. La fianza provisional tiene que constituirse de acuerdo con la normativa vigente, es irrevocable y es ejecutable automáticamente por resolución del órgano competente, el cual ordenará su devolución si la solicitud es desestimada por causas no imputables al solicitante.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 86.
+
+### Artículo 92
+
+Artículo 92. Fianza definitiva.
+1. Una vez otorgada la concesión, y en el plazo señalado en el título, el adjudicatario tiene que constituir una fianza definitiva incrementando la provisional hasta el 5% del presupuesto admitido por el órgano competente.
+2. Si el concesionario no constituye la fianza en el plazo establecido en el título administrativo, se entiende que renuncia al mismo. En este caso, el concesionario pierde la fianza constituida.
+3. Cuando la concesión se extingue por caducidad, se deducen de la fianza las cantidades que tengan que hacerse efectivas en concepto de indemnizaciones y de penalidades.
+4. Si se ejecuta total o parcialmente la garantía constituida, el concesionario estará obligado a completarla o restituirla en el plazo de un mes.
+5. La fianza se devolverá al concesionario en el plazo de tres meses desde la aprobación del acta de reconocimiento de las obras o instalaciones, con deducción, si procede, de las cuantías que tengan que hacerse efectivas en concepto de penalizaciones y responsabilidades.
+6. Previamente a la devolución de la fianza, tendrá que haberse constituido la garantía establecida en el artículo siguiente
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 87.
+ Se modifca la letra f) por el art. 21.5 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Artículo 93
+
+Artículo 93. Garantía de explotación.
+1. La garantía de explotación responde de todas las obligaciones derivadas del título habilitante, de las sanciones que puedan imponerse a su titular por incumplimiento de las condiciones del título y de los daños y perjuicios que este incumplimiento pueda ocasionar.
+2. Esta garantía se determinará en función del importe anual de las tasas que ha de abonar el concesionario, y se revisará cada cinco años, en función del importe de las tasas en la fecha de actualización.
+3. La garantía de explotación será devuelta cuando se extinga la concesión, con deducción de las cuantías que han de hacerse efectivas en concepto de penalización o de responsabilidades.
+4. La falta de constitución de esta garantía implica un incumplimiento de las obligaciones concesionales y habilita a Puertos de las Illes Balears para acordar la extinción anticipada de la concesión.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 88.
+ Se modifica el apartado 1 y el apartado 2, letra a) y se añade la letra k) por el art. 21.4, 6 y 7 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+## CAPÍTULO VI
+
+Régimen económico
+
+### Artículo 94
+
+Artículo 94. Canon de aprovechamiento.
+1. La utilización o el aprovechamiento especial del dominio público portuario en virtud de autorización o de concesión implica el deber de satisfacer el correspondiente canon en Puertos de las Illes Balears.
+2. El canon tiene la naturaleza de tasa de la Administración de la comunidad autónoma y es compatible con los cánones por ocupación de los bienes demaniales establecidos en la legislación sobre el dominio público marítimo-terrestre.
+3. El régimen jurídico del canon se establece en la legislación de tasas de la Administración de la comunidad autónoma.
+4. Los concesionarios que actúen de acuerdo con criterios de gestión sostenible y eficiente, tienen derecho a las bonificaciones que determine, a este efecto, la legislación de tasas de la Administración de la comunidad autónoma.
+5. En todo caso, las inversiones que se hayan acometido por los concesionarios de puertos deportivos e instalaciones marítimas, que hayan supuesto mejoras sustanciales de estas, tendrán una consideración limitada en los procesos de recálculo de canon a que hubiera lugar. Dicha limitación de la valoración se definirá reglamentariamente.
+Se modifica y se renumera por el art. único.6 y 33 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 89.
+ Se modifca el apartado 1 por el art. 21.8 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+## TÍTULO V
+
+Régimen de infracciones, sanciones y policía
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 95
+
+Artículo 95. Medidas administrativas.
+La actuación contraria a lo que dispone esta ley permite a la administración portuaria:
+a) Adoptar las medidas necesarias para el restablecimiento del régimen jurídico infringido en función de la naturaleza de los hechos.
+b) Imponer sanciones a los responsables, previa tramitación de un procedimiento sancionador.
+c) Exigir la reparación de los daños y perjuicios causados al dominio público y a otros bienes y derechos de la administración.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 90.
+
+## CAPÍTULO II
+
+Infracciones
+
+### Artículo 96
+
+Artículo 96. Concepto y clasificación.
+1. Constituyen infracciones administrativas en materia de puertos las acciones y omisiones tipificadas en esta ley.
+2. Las infracciones se clasifican en leves, graves y muy graves.
+3. Por disposiciones reglamentarias se pueden complementar o especificar las conductas tipificadas como infracciones, siempre que no se innove el cuadro de infracciones y de sanciones establecido en esta ley.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 91.
+
+## CAPÍTULO III
+
+Sanciones
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 97
+
+Artículo 97. Infracciones leves.
+Constituyen infracciones leves las acciones y omisiones tipificadas en alguno de los supuestos siguientes, siempre que por su trascendencia no tengan que calificarse como graves o muy graves:
+a) El uso de un amarre sin autorización y la negativa a abonar las tasas por la utilización de la rampa de usuarios de las instalaciones portuarias.
+b) El estacionamiento de vehículos, remolques, caravanas así como la acampada fuera de los espacios destinados para este uso, o con infracción de las condiciones o de la señalización que lo regula.
+c) El incumplimiento de las disposiciones establecidas en los reglamentos dictados en despliegue o aplicación de esta ley, como también el de las órdenes e instrucciones que emita Puertos de las Illes Balears en el ejercicio de sus competencias.
+d) La ejecución en la zona de servicio del puerto de acciones que pongan en peligro las obras, las instalaciones portuarias, las embarcaciones, las mercancías, los contenedores o las personas, siempre que no se impida la normal prestación del servicio.
+e) La utilización indebida, inadecuada o sin las condiciones de seguridad suficientes, de las instalaciones reguladas en esta ley.
+f) La ocupación con instalaciones desmontables o bienes muebles, el aprovechamiento y la prestación de servicios y la realización de actividades comerciales en el dominio público portuario sin el correspondiente título administrativo o sin ajustarse a sus determinaciones.
+g) La percepción, por parte del concesionario, de retribuciones o comisiones por la cesión de derechos sobre amarres de embarcaciones de recreo infringiendo lo que establece esta ley, siempre que la cantidad percibida sea inferior a 6.000 euros.
+h) La omisión o la aportación de forma defectuosa, voluntariamente o por negligencia inexcusable, de cualquier información que se tenga que suministrar a la administración portuaria por prescripción legal o reglamentaria.
+i) La publicidad exterior no autorizada mediante carteles, vallas, medios audiovisuales, así como la publicidad mediante páginas web de actividades no autorizadas dentro de las instalaciones portuarias.
+j) El incumplimiento de las prescripciones sobre limpieza de la zona de servicio del puerto.
+k) Cualquier otro incumplimiento de las obligaciones impuestas directamente por esta ley y por las disposiciones que la desarrollen, siempre que no estén tipificadas como infracción grave o muy grave.
+Se modifican las letras a), b) e i) por la disposición final 23.1 a 3 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-23
+ Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 92.
+
+### Artículo 98
+
+Artículo 98. Infracciones graves.
+1. Constituyen infracciones graves las tipificadas como leves cuando provoquen lesiones a las personas o cuando causen daños o perjuicios que impidan el normal funcionamiento de los bienes o de las instalaciones.
+2. Además, tienen la consideración de infracciones graves, las tipificadas en alguno de los supuestos siguientes:
+a) La ocupación con instalaciones desmontables o bienes muebles, el aprovechamiento y la prestación de servicios y la realización de actividades comerciales en el dominio público portuario sin el correspondiente título administrativo o sin ajustarse a sus determinaciones, siempre que se haya desatendido el requerimiento expreso dictado por la administración portuaria para el cese de la citada conducta.
+b) La transmisión parcial o total de concesiones, o la constitución de gravámenes sobre éstas, sin la autorización de la administración portuaria.
+c) La transmisión o cesión de derechos sobre los amarres sin cumplir los requisitos establecidos en esta ley.
+d) La percepción, por parte del concesionario, de retribuciones o comisiones por la cesión de derechos sobre amarres de embarcaciones de recreo infringiendo lo que establece esta ley, cuando no sea constitutivo de infracción leve.
+e) La omisión o aportación de forma defectuosa, voluntaria o por negligencia inexcusable, prevista en el apartado h) del artículo 97, cuando se haya hecho caso omiso al requerimiento de la administración. Así mismo, el falseamiento de cualquier información aportada a la administración portuaria en cumplimiento de una obligación legal o de un requerimiento de esta, así como la declaración de carga por parte del transportista a la naviera.
+f) La obstrucción al ejercicio de las funciones de control, vigilancia, y de policía que corresponden a la administración portuaria o la negativa a colaborar, así como las agresiones, vejaciones e insultos al personal portuario.
+g) La vulneración de las normas sobre prestación del servicio que afecten su normal recepción por parte de los usuarios.
+h) El vertido no autorizado de sustancias y de residuos en la zona de servicio del puerto.
+i) Cualquier otro tipo de actuación que perjudique el entorno terrestre o marino o el medio ambiente.
+j) El incumplimiento de la obligación de estar inscrito en el Registro General de usuarios de amarres.
+k) La ejecución no autorizada de obras o instalaciones fijas, así como el aumento de superficie, volumen o altura construidos sobre los autorizados.
+l) La reincidencia, por la comisión en el plazo de dos años, de más de una infracción de carácter leve cuando así haya sido declarado por resolución firme.
+Se modifican las letras e) y f) y se añade una l) al apartado 2 por la disposición final 23.4 a 6 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-23
+ Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 93.
+ Se modifca por el art. 21.9 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Artículo 99
+
+Artículo 99. Infracciones muy graves.
+1. Constituyen infracciones muy graves las tipificadas como leves o como graves cuando provoquen lesiones a las personas o cuando causen daños o perjuicios que impidan totalmente el funcionamiento o la utilización de los bienes o de las instalaciones.
+2. En todo caso, tendrán la consideración de infracción muy grave las referentes a cualquiera de los supuestos siguientes:
+a) El vertido de sustancias y residuos contaminantes en las aguas del puerto.
+b) Las acciones u omisiones con repercusiones especialmente relevantes para el entorno terrestre o marino o para el medio ambiente, como consecuencia de la trascendencia económica de los daños y perjuicios producidos o porque lesionan de forma irreversible el equilibrio del medio natural.
+c) Las acciones u omisiones que causen un daño importante o impliquen un riesgo muy grande para la salud o la seguridad de las personas, así como el transporte de mercancías peligrosas no autorizadas.
+d) La realización de obras, instalaciones o actividades en el dominio público portuario o de otras instalaciones sin el correspondiente título administrativo o sin ajustarse a sus condiciones, siempre que se hubiera desatendido el requerimiento expreso de la administración portuaria de cese de la actuación o cuando se persista en esta conducta una vez notificada la iniciación del correspondiente procedimiento sancionador.
+Se modifica la letra c) del apartado 2 por la disposición final 23.7 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-23
+ Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 94.
+
+### Artículo 100
+
+Artículo 100. Sujetos responsables.
+1. Son responsables de las infracciones administrativas en materia de puertos las personas físicas o jurídicas siguientes:
+a) Los autores de los hechos o las omisiones, sin perjuicio de la responsabilidad solidaria de la empresa con la cual éstos tengan una relación de dependencia, si la infracción se ha cometido en el ámbito propio de la actividad de la empresa.
+b) En caso de incumplimiento de las condiciones de un título administrativo o de un contrato con la administración portuaria, el adjudicatario del título o del contrato.
+c) En caso de infracciones relacionadas con las embarcaciones, los propietarios, los armadores y los consignatarios, con carácter solidario, y los patrones o los capitanes, con carácter subsidiario.
+d) En caso de infracciones relacionadas con obras, instalaciones y actividades no amparadas suficientemente por el título correspondiente, el promotor de la actividad, el empresario que las lleva a cabo y el director técnico, según corresponda.
+2. Si las infracciones son imputables a una persona jurídica, son consideradas responsables subsidiarias o solidarias las personas físicas que integran los órganos rectores o de dirección, salvo aquéllas que hayan disentido expresamente de los acuerdos adoptados.
+3. Las sanciones impuestas a diversos sujetos en razón de una misma infracción tienen entre sí carácter independiente.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 95.
+
+### Artículo 101
+
+Artículo 101. Prescripción.
+1. El plazo de prescripción de las infracciones es de cuatro años para las muy graves, de dos años para las graves y de un año para las leves, a partir de su total consumación.
+2. En el caso de infracciones continuadas, el plazo establecido en el apartado anterior se empieza a contar desde la finalización de la actividad o desde la fecha en que se ha realizado el último acto con el cual ha sido consumada.
+3. Si los hechos, los actos o las omisiones constitutivos de infracción son desconocidos por falta de signos externos, el plazo empieza a contar a partir de la fecha en que éstos se manifiesten o la administración tenga conocimiento.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 96.
+
+## CAPÍTULO III
+
+Sanciones
+
+## Seccion 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 102
+
+Artículo 102. Principios generales.
+1. Las acciones u omisiones constitutivas de infracción administrativa en materia portuaria son sancionadas de acuerdo con las disposiciones contenidas en esta ley.
+2. Si un mismo hecho u omisión fuera constitutivo de dos o más infracciones, se tomará en consideración únicamente aquélla que comporte la mayor sanción.
+3. Sin perjuicio de la sanción que se imponga, el infractor estará obligado a la restitución de las cosas y a la reposición a su estado anterior. En todo caso la restitución comporta la obligación de devolver a la administración la totalidad del beneficio ilícitamente obtenido.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 97.
+
+### Artículo 103
+
+Artículo 103. Tipología de sanciones.
+Las infracciones se sancionan en los siguientes términos:
+a) Las leves con multa de hasta 9.000,00 euros.
+b) Las graves con multa de hasta 200.000,00 euros.
+c) Las muy graves con multa de hasta 600.000,00 euros.
+Téngase en cuenta que el Gobierno podra actualizar por decreto, publicado únicamente en el "Boletín Oficial de las Islas Baleares", la cuantía de las sanciones de acuerdo con el índice de precios al consumo, según se establece en la disposición adicional 4 de la presente ley.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 98.
+
+## Sección 2
+
+Sección 2.ª Competencia y procedimiento
+
+### Artículo 104
+
+Artículo 104. Sanciones accesorias.
+En caso de infracciones graves o muy graves, la sanción de multa puede ir acompañada de alguna de las sanciones siguientes:
+a) Suspensión del ejercicio de las actividades empresariales o profesionales en la zona de servicio del puerto por un plazo no superior a dos años.
+b) Revocación de los títulos relativos al uso o al aprovechamiento del dominio público portuario.
+c) Inhabilitación del infractor para ser titular de autorizaciones, licencias y concesiones administrativas, o de contratos de gestión de servicios, por un plazo no superior a dos años en el caso de infracciones graves, o no superior a cuatro años en el caso de infracciones muy graves.
+d) Suspensión del derecho a obtener subvenciones o ayudas públicas de la Administración de la comunidad autónoma de las Illes Balears en materias relacionadas con el objeto de esta ley, por un plazo no superior a dos años en el caso de infracciones graves, o no superior a cuatro años en el caso de infracciones muy graves.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 99.
+ Se modifca por el art. 21.10 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Artículo 105
+
+Artículo 105. Gradación.
+Para la imposición de las sanciones previstas en el artículo anterior y para la determinación de su cuantía, tienen que considerarse las circunstancias del caso y, especialmente, las siguientes:
+a) La existencia de intencionalidad o de reiteración.
+b) La naturaleza de los perjuicios causados.
+c) La reincidencia.
+d) El lucro ilegal obtenido por el infractor y su capacidad económica.
+e) La enmienda voluntaria durante la tramitación del procedimiento de las irregularidades que originaron la actuación sancionadora.
+f) La relevancia externa de la conducta infractora.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 100.
+
+## CAPÍTULO IV
+
+Policía de puertos
+
+### Artículo 106
+
+Artículo 106. Reconocimiento voluntario de la responsabilidad.
+El reconocimiento voluntario de la propia responsabilidad por parte del infractor, comunicado a Puertos de las Illes Balears antes de la iniciación del procedimiento sancionador, o en cualquier momento de su tramitación anterior a la notificación de la propuesta de resolución, reduce en un 40% la cuantía de la multa en las infracciones leves, en un 30% en las graves y en un 20% en las muy graves.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 101.
+
+### Artículo 107
+
+Artículo 107. Prescripción.
+Las sanciones impuestas por infracciones leves prescriben al cabo de un año, las impuestas por infracciones graves al cabo de dos años, y las impuestas por infracciones muy graves al cabo de cuatro años.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 102.
+
+### Artículo 108
+
+Artículo 108. Responsabilidad por daños.
+Las responsabilidades administrativas que se deriven del procedimiento sancionador son compatibles con la exigencia a los infractores de restablecer la situación alterada por ellos, y con la obligación de indemnizar a la administración portuaria por los daños y perjuicios causados al dominio público portuario o a otros bienes y derechos de ésta.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 103.
+
+## Seccion 2
+
+Sección 2.ª Competencia y procedimiento
+
+### Artículo 109
+
+Artículo 109. Órganos competentes.
+La competencia para la imposición de las multas reguladas en la presente ley corresponderá a los siguientes órganos:
+a) Al director gerente, hasta 9.000,00 euros.
+b) Al Consejo de Administración de Puertos de las Illes Balears, de 9.000,00 euros hasta 100.000,00 euros.
+c) Al Consejo de Gobierno, cuando la cuantía sea igual o superior a 100.000,00 euros.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 104.
+
+### Artículo 110
+
+Artículo 110. Procedimiento.
+Para la imposición de las sanciones reguladas en esta ley, la administración portuaria adecuará su actuación a las normas generales dictadas por la Administración de la comunidad autónoma en materia de procedimiento sancionador.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 105.
+
+## CAPÍTULO IV
+
+Policía de puertos
+
+### Artículo 111
+
+Artículo 111. Funciones.
+1. Corresponde a Puertos de las Illes Balears el ejercicio de las funciones de policía administrativa de puertos reguladas en esta ley y, en particular las tareas siguientes:
+a) La inspección y vigilancia.
+b) La adopción de medidas cautelares.
+c) La adopción de las medidas dirigidas a garantizar el desarrollo de las actividades portuarias y la integridad del dominio público portuario.
+d) El control de las actuaciones que pueden afectar a los valores culturales, patrimoniales, paisajísticos y medioambientales de los espacios portuarios.
+2. En los puertos y las instalaciones gestionadas en régimen de concesión, el título correspondiente tiene que prever el ejercicio, por parte del concesionario, de funciones de auxilio y colaboración en materia de policía portuaria, las cuales en ningún caso constituyen ejercicio de autoridad.
+3. Los titulares de autorizaciones, licencias y concesiones están obligados a informar a Puertos de las Illes Balears de las incidencias que se produzcan en relación con el dominio público y a cumplir las órdenes que dicte la administración en el ejercicio de las funciones de policía portuaria.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 106.
+
+### Artículo 112
+
+Artículo 112. Inspección y vigilancia.
+1. La potestad de inspección y vigilancia se lleva a cabo mediante personal habilitado, que tendrá, en el ejercicio de sus funciones, la condición de agente de la autoridad.
+2. La potestad regulada en este artículo comprende las atribuciones necesarias para la verificación del cumplimiento de las exigencias legales y reglamentarias establecidas en relación con las construcciones, las instalaciones, las obras, los servicios y las actividades que se desarrollan en los puertos y en el resto de espacios regulados en esta ley, y también con respecto a los vehículos y las embarcaciones.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 107.
+
+### Artículo 113
+
+Artículo 113. Obras y actividades no amparadas por título habilitante.
+1. Puertos de las Illes Balears puede ordenar la paralización inmediata de las obras, así como la suspensión de las actividades que no tengan cobertura en el título administrativo correspondiente o que no se ajusten a las condiciones de éste.
+2. Asimismo, puede acordar cualquier otra medida admitida por el ordenamiento jurídico, y particularmente el precinto de obras o de instalaciones y la retirada de materiales, maquinaria o equipos que se utilicen en éstas, así como la inmovilización de embarcaciones y de vehículos.
+3. En el plazo establecido en la orden de suspensión, el interesado puede solicitar el otorgamiento del título preceptivo o, si procede, adecuar las obras o la actividad al título otorgado. Si transcurre este plazo sin que se haya realizado la conducta prescrita, Puertos de las Illes Balears puede adoptar las medidas adecuadas, incluido el desmontaje de las instalaciones o la demolición de las obras.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 108.
+
+### Artículo 114
+
+Artículo 114. Medidas de protección.
+1. Corresponde a Puertos de las Illes Balears la adopción de las medidas necesarias para garantizar el tráfico portuario, las actividades de explotación económica y la disponibilidad de los espacios portuarios, atraques y amarres.
+2. La potestad regulada en el apartado anterior permite en todo caso:
+a) La recuperación del dominio público portuario, particularmente en los casos de ocupación del dominio público por embarcaciones, vehículos, mercancías y cualquier otro elemento sin título suficiente o sin ajustarse a las normas sobre usos y servicios.
+b) La declaración de la situación de abandono de embarcaciones, vehículos y otros objetos.
+c) Las medidas de seguridad exigibles cuando una embarcación presente peligro de hundirse en el puerto, y el naviero o el consignatario no proceda a su reparación o a su traslado.
+Se renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 109.
+
+### Artículo 115
+
+Artículo 115. De los expedientes en materia de abandono de embarcaciones de recreo, vehículos y objetos en zonas portuarias de gestión indirecta.
+1. Ámbito de aplicación y legitimación.
+1.1 Serán aplicables las disposiciones contenidas en este artículo en los casos de abandono de embarcaciones de recreo, vehículos y objetos, y se tramitará el expediente ante notario hábil en el lugar en el que se encuentren.
+1.2 Estará legitimado para la iniciación del expediente, además de la administración portuaria, el titular de la instalación náutico-deportiva o el concesionario o titular de la autorización del amarre, el atraque o la instalación portuaria o terrestre donde se localice la embarcación, el vehículo o el objeto, susceptible de estar afectado por esta normativa.
+2. Solicitud.
+2.1 En la solicitud de declaración de abandono de una embarcación de recreo, vehículo u objeto, se acreditarán los siguientes extremos:
+a) Que la embarcación, el vehículo o el objeto ha permanecido, al menos, seis meses amarrado, atracado, fondeado o estacionado en un lugar dentro de un puerto, instalación náutico-deportiva o instalación terrestre.
+b) Que el propietario de la embarcación de recreo o del vehículo no ha abonado en el plazo de, al menos, seis meses las tasas o tarifas correspondientes al citado período, así como que no ha sido posible contactar durante ese plazo con el propietario, el armador o la persona autorizada en el lugar señalado por los mismos en la declaración de entrada de la embarcación o del vehículo en el puerto, la instalación náutico-deportiva o la instalación terrestre.
+2.2 La solicitud irá acompañada de la siguiente documentación:
+a) Copia de la documentación de la embarcación que haya sido entregada al solicitante en el momento de su entrada en el puerto u ocupación del punto de atraque, con identificación de un domicilio en España para notificaciones.
+b) Los documentos o las facturas que acrediten la suma a la que asciende la deuda con el solicitante de la iniciación del expediente, junto a la manifestación del acreedor legítimo o su representante de que tales facturas no se han satisfecho. La deuda pendiente debe extenderse necesariamente y como mínimo a un periodo de seis meses.
+c) Los justificantes de envío de comunicaciones e intentos de localización de su propietario, armador o persona autorizada en el domicilio designado por ellos y firmado en la declaración de entrada de la embarcación. Deben acreditarse, al menos, dos intentos de notificación en el plazo de seis meses.
+3. Procedimiento.
+3.1 El notario, comprobada la concurrencia de las circunstancias expresadas en la solicitud, iniciará el procedimiento para la declaración de abandono y llevará a cabo las siguientes actuaciones:
+a) Incorporará al acta la documentación aportada en la solicitud.
+b) Consultará la información relativa a esa embarcación que pueda constar en el Registro de bienes muebles, en el Registro de buques y empresas navieras y en el Registro público concursal.
+c) Requerirá a la menor brevedad el pago al propietario del vehículo o al armador de la embarcación de recreo o a la persona autorizada. Este requerimiento se llevará a cabo en el domicilio en España indicado en la solicitud, por cualquiera de los medios previstos en la legislación notarial, del cual se colocará una copia en el tablón de anuncios de la instalación donde se encuentre la embarcación abandonada.
+3.2 Si en el plazo de un mes el propietario del vehículo o de la embarcación de recreo no fuera hallado o bien no pagara o diera garantía suficiente de pago, el notario acordará la tasación y venta por persona o entidad especializada o en pública subasta de la embarcación, de acuerdo con la legislación notarial.
+3.3 Con el importe obtenido de la venta del vehículo o de la embarcación de recreo se atenderá en primer lugar al pago de los gastos ocasionados por la tasación y la venta, que no hayan sido provisionados. El remanente se destinará a satisfacer las deudas, debidamente acreditadas, de los acreedores que solicitaron el inicio del expediente. En el supuesto de que existan acreedores marítimos privilegiados o hipoteca naval, serán aplicables las preferencias establecidas en la Ley 14/2014, de 24 de julio, de navegación marítima.
+Satisfechas las deudas, la cantidad restante permanecerá en la cuenta de consignaciones del notario actuante durante un período de seis meses a disposición de quien fuera propietario de la embarcación abandonada. Transcurrido dicho plazo el notario transferirá esa cantidad a Puertos de las Illes Balears.
+Cuando los bienes señalados anteriormente tengan la consideración de residuo conforme a lo dispuesto en la Ley 8/2019, de 19 de febrero, de residuos y suelos contaminantes de las Illes Balears, no será necesaria la tramitación del expediente prevista en este artículo y podrán ser retirados previo informe emitido por la administración competente.
+Se modifica por el art. único.13 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+ Se añade y renumera por el art. único.6 y 34 a 36 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 110.
+
+### Artículo 115 bis
+
+Artículo 115 bis. Embarcaciones, vehículos y objetos abandonados en zonas portuarias de gestión directa.
+1. Corresponde a Puertos de las Illes Balears la propiedad de las embarcaciones, los vehículos y otros bienes abandonados en la zona de servicio del puerto, previa declaración adoptada de acuerdo con esta ley.
+2. A efectos de este artículo se consideran abandonados:
+a) Las embarcaciones, los vehículos y cualquier otro artefacto, mercancía u objeto que no tengan matrícula o los datos suficientes para la identificación de sus propietarios o consignatarios, que se encuentren en zona de servicio portuario sin la preceptiva autorización.
+b) Las embarcaciones, los vehículos y los objetos que permanezcan más de seis meses en la zona de servicio del puerto sin ninguna actividad apreciable exteriormente o sin que sus titulares hayan abonado las tasas o tarifas correspondientes.
+3. La declaración de abandono exigirá la tramitación del siguiente procedimiento:
+a) Se incoará de oficio por acuerdo de la Vicepresidencia Ejecutiva de Puertos de las Illes Balears.
+b) Anteriormente en el acuerdo de incoación, el órgano competente de Puertos emitirá informe con las circunstancias del caso concreto para determinar la concurrencia de las causas previstas en esta ley.
+c) El acuerdo se notificará al propietario titular, al armador o al consignatario o, si procede, se publicará en el “Butlletí Oficial de les Illes Balears”. En este acuerdo se indicará al interesado que dispone de un plazo de quince días para efectuar alegaciones y proponer la práctica de todas las pruebas que considere conveniente.
+d) El órgano instructor del procedimiento de Puertos de las Illes Balears podrá solicitar los informes que considere necesarios para la resolución del procedimiento.
+e) La resolución del procedimiento de declaración de abandono de embarcaciones, vehículos y objetos, corresponderá al vicepresidente ejecutivo de Puertos de las Illes Balears.
+f) De la resolución de inicio del procedimiento y de la resolución de la declaración de abandono se informará al Consejo de Administración de Puertos de las Illes Balears.
+4. Una vez declarado el abandono, se procederá a la venta del bien en subasta pública si de su valoración pericial se desprende que mantiene valor económico, salvo que sea procedente su destrucción. La cantidad que se obtenga por la alienación, el desguace o la destrucción de los objetos, vehículos o materiales abandonados, deducidos los gastos originados y las deudas existentes, quedará a disposición de quienes acrediten su titularidad o legítima posesión, durante el plazo de un año.
+5. Cuando los bienes señalados anteriormente tengan la consideración de residuo conforme a lo dispuesto en la Ley 8/2019, de 19 de febrero, de residuos y suelos contaminantes de las Illes Balears, no será necesaria la tramitación del expediente previsto en este artículo y podrán ser retirados previo informe emitido por la administración competente.
+Se añade por el art. único.13 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+
+### Artículo 116
+
+Artículo 116. Protección del medio ambiente y de los valores culturales y patrimoniales.
+1. Puertos de las Illes Balears, en el marco del correspondiente plan director del puerto, tiene que adoptar las medidas adecuadas para la preservación de los valores culturales, patrimoniales, paisajísticos y medioambientales de los espacios portuarios.
+2. Asimismo, cuando las circunstancias lo requieran, Puertos de las Illes Balears tiene que comunicar a los órganos competentes de la Administración de la comunidad autónoma y, si procede, a otras administraciones públicas, los hechos que puedan tener relevancia a los efectos de lo dispuesto en el apartado anterior. Cuando sea necesaria una actuación conjunta o concurrente de dos o más entes públicos, tienen que propiciarse las fórmulas adecuadas de coordinación.
+3. Puertos de las Illes Balears tiene que facilitar la práctica de actividades de investigación científica y técnica y de estudio en los puertos y las instalaciones de su competencia, así como también la práctica de actividades culturales, docentes y deportivas.
+Se añade y renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 111.
+
+### Artículo 117
+
+Artículo 117. Medidas contra deudores.
+1. La falta de pago de las tarifas por los servicios portuarios, en los términos que reglamentariamente se determinen, faculta a Puertos de las Illes Balears a suspender la prestación de los servicios portuarios a los deudores, y también a adoptar las medidas que impidan a éstos el uso de los espacios portuarios.
+2. Las medidas a que hace referencia el apartado anterior pueden incluir las previstas en el artículo 110 de esta ley.
+3. En los casos de embarcaciones con deudas impagadas a la administración portuaria, o que pertenezcan o sean utilizadas por usuarios que no tengan domicilio en Estado español, puede exigirse el pago previo de la tasa o la tarifa correspondiente antes de autorizarles la entrada al puerto o la utilización de los espacios y servicios portuarios. A este efecto, pueden requerirse, en los términos que reglamentariamente se determinen, las garantías suficientes.
+4. Las medidas fijadas en los apartados anteriores serán también de aplicación en las concesiones de gestión indirecta.
+Se añade y renumera por el art. único.6 y 37 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 112.
+
+### Artículo 118
+
+Artículo 118. Multas coercitivas.
+1. De acuerdo con la legislación de procedimiento administrativo, Puertos de las Illes Balears puede imponer multas coercitivas para la ejecución de los actos derivados de los procedimientos sancionadores y de aquéllos que sean dictados en el ejercicio de las funciones de policía portuaria.
+2. La competencia para fijar las multas es del mismo órgano que ha dictado la resolución ejecutable. Su imposición tiene que ir precedida de la advertencia correspondiente y puede reiterarse hasta la realización completa de la conducta exigida por la administración.
+3. El importe de cada una de las multas no puede superar el 10% de la cuantía de la sanción o del valor económico de las obras o actuaciones exigidas.
+Se añade y renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 113.
+
+### Artículo 119
+
+Artículo 119. Ejecución forzosa.
+Para la ejecución forzosa de sus actos administrativos, Puertos de las Illes Balears utiliza las vías establecidas a este efecto en la legislación de procedimiento administrativo aplicable a la Administración de la comunidad autónoma.
+Se añade y renumera por el art. único.6 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Su anterior numeración era artículo 114.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Red de Infraestructuras y de Instalaciones Portuarias.
+1. La Red de Infraestructuras y de Instalaciones Portuarias constituye el sistema que identifica, clasifica y ordena el conjunto de puertos y de instalaciones portuarias y marítimas que son competencia de la administración autonómica de las Illes Balears, relacionados en el anexo de esta ley.
+2. La creación de nuevas infraestructuras e instalaciones o la ampliación de las existentes, aprobada de acuerdo con esta ley, supondrá la inclusión automática en la Red.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Modificaciones de las Directrices de Ordenación Territorial.
+La Ley 6/1999, de 3 de abril, de las Directrices de Ordenación Territorial de las Illes Balears y de medidas tributarias, queda modificada de acuerdo con los puntos siguientes:
+Primero. Se suprime el punto 1 del artículo 57, titulado «Plan director sectorial de puertos deportivos e instalaciones náuticas», y el artículo 66.
+Segundo. El artículo 65 queda redactado en los términos siguientes:
+«1. Corresponde al Plan director sectorial de transportes de las Illes Balears concretar las medidas destinadas específicamente a proporcionar la suficiencia de recursos e instalaciones que permita la comunicación entre todas las islas, especialmente entre Ibiza y Formentera y con el exterior, asegurando las posibilidades de transporte de los residentes y de las mercancías, así como las modalidades de carácter turístico.
+ 2. Sin perjuicio de lo establecido en el punto anterior, la ordenación del sistema portuario se lleva a cabo a través de los instrumentos que establece la Ley de puertos de las Illes Balears.»
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Inscripciones en el Registro General de usuarios de amarres.
+(Sin contenido)
+Se deja sin contenido por el art. único.14 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Actualización de multas.
+El Gobierno puede actualizar por decreto la cuantía de las sanciones económicas previstas en esta ley de acuerdo con las variaciones que experimente el índice de precios al consumo.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Adaptación en materia de personal a las previsiones de la Ley 7/2010, de 21 de julio, del sector público instrumental de la Comunidad Autónoma de las Illes Balears.
+1. En cumplimiento de lo que disponen los artículos 23.3 y 44 de la Ley 7/2010, de 21 de julio, del sector público instrumental de la comunidad autónoma de las Illes Balears, el ente Puertos de las Illes Balears debe elaborar y aprobar sus relaciones de puestos de trabajo, ya sea de personal laboral o de personal funcionario, en las cuales deberán figurar todos los puestos de trabajo del ente.
+2. La selección del personal de Puertos de las Illes Balears se ajustará a los sistemas y procedimientos que se establecen en la Ley de función pública de las Illes Balears.
+3. El personal funcionario adscrito debe conservar las mismas condiciones y régimen jurídico, entendiéndose, a efectos de participación en concursos, comisiones de servicio y cualquier otro tipo de procedimiento en materia de función pública, del mismo modo que si prestase servicios en la consejería de adscripción.
+4. El personal funcionario adscrito, que continua bajo la dependencia orgánica del consejero competente en materia de función pública, debe prestar servicios bajo la dependencia funcional del titular de la consejería donde esté adscrito el ente Puertos de las Illes Balears y debe desarrollar sus funciones de acuerdo con las directrices establecidas por el director del ente, así como otros superiores jerárquicos que consten en la relación de puestos de trabajo, según establezcan las normas fijadas por el Consejo de Administración respecto de las funciones de cada puesto de trabajo.
+Se modifica por el art. único.38 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Exención de elaboración del plan de uso y gestión.
+En aquellos casos en los que la zona de gestión indirecta de un puerto o una instalación marítima sea significativamente menor que la zona de gestión directa y en todo caso cuando razones de interés público convenientemente motivadas así lo determinen, se podrá eximir a la iniciativa particular de la obligación de elaboración del plan de uso y gestión a que hace referencia el artículo 14 de esta ley.
+La exoneración deberá ser motivada en todos los casos y se acordará por el Consejo de Administración de Puertos de las Illes Balears.
+En aquellos supuestos en que convivan varias instalaciones de gestión indirecta dentro de un mismo puerto o instalación marítima, el coste de la elaboración del correspondiente plan de uso y gestión se repartirá entre estas proporcionalmente al tamaño de ocupación de cada una, bajo la coordinación de Puertos de las Illes Balears.
+Se modifica por el art.único.39 y 40 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Planes de utilización de espacios portuarios y proyectos de construcción o ampliación en tramitación.
+(Derogada).
+Se deroga por la disposición derogatoria única.3 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Disposición adicional octava
+
+Disposición adicional octava. Régimen de los plazos de las concesiones para la construcción o la explotación de puertos, dársenas, marinas e instalaciones náutico-deportivas y recreativas.
+1. Los concesionarios de concesiones para la construcción o la explotación de puertos, dársenas, marinas e instalaciones náutico-deportivas y recreativas que, a la entrada en vigor de la Ley 10/2005, de 21 de junio, de puertos de las Illes Balears, se hubieran adaptado, en virtud de lo establecido en su disposición transitoria cuarta, podrán solicitar, en el plazo de un año desde la entrada en vigor de esta disposición adicional, que su plazo de concesión sea de hasta treinta y cinco años a contar desde el otorgamiento de la nueva concesión ya adaptada.
+2. El plazo de la concesión de hasta treinta y cinco años será también de aplicación para aquellas concesiones para la construcción o la explotación de puertos, dársenas, marinas e instalaciones náutico-deportivas y recreativas que, siendo anteriores a la entrada en vigor de la Ley 10/2005 y habiendo solicitado en plazo la posibilidad de adaptación, finalmente se adapten en aplicación de la disposición transitoria cuarta del citado texto legal.
+3. El plazo de la concesión para aquellas otorgadas de acuerdo con la Ley 10/2005 podrán solicitar que su plazo de concesión sea de hasta treinta y cinco años, a contar des de el inicio del título concesional después de la solicitud previa en tal sentido del concesionario, en el plazo de un año desde la entrada en vigor de esta disposición adicional.
+4. En todos los supuestos de los apartados anteriores el canon se calculará o actualizará teniendo en cuenta el periodo resultante de la concesión.
+5. Puertos de las Illes Balears sólo podrá denegar las solicitudes de los apartados anteriores por razones de interés público debidamente motivadas.
+Se añade por el art.único.41 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+
+### Disposición adicional novena
+
+Disposición adicional novena. Salvaguarda de las competencias de la Administración del Estado, de los municipios de las Illes Balears y de la consejería competente en materia de medio ambiente del Gobierno de las Illes Balears.
+1. Las funciones que establece esta ley relativas a la limpieza y la vigilancia de las aguas costeras definidas en la legislación estatal de aguas se entienden sin perjuicio y salvaguardando, en todo caso, las competencias que corresponden a la Administración del Estado y a los municipios de las Illes Balears.
+2. Las funciones que establece esta ley se entienden sin perjuicio de las competencias que corresponden a la consejería competente en materia de medio ambiente.
+Se modifica por el art. 20.6 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a2-2
+ Esta disposición adicional novena fue añadida por el art. 19.6 del Decreto-ley 3/2024, de 24 de mayo.
+ Se añade por el art. 19.6 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a1-11
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Delimitaciones de la zona de servicio portuaria.
+Las delimitaciones de la zona de servicio de los puertos establecidas con anterioridad a la entrada en vigor de esta ley seguirán vigentes hasta que se proceda a su modificación de acuerdo con lo dispuesto en esta ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Obras.
+Mientras no entre en vigor el Plan general de puertos de las Illes Balears, Puertos de las Illes Balears puede autorizar en la zona de servicio portuaria las obras y los actos de edificación y uso del suelo en los mismos términos previstos en esta ley.
+Asimismo, podrán autorizarse obras en casos de urgencia acreditada o de interés público excepcional incluso cuando deban ejecutarse fuera de la zona de servicio portuaria, debiendo ser debidamente apreciadas estas circunstancias por el Consejo de Gobierno y previa emisión de los informes previstos en el artículo 17 de esta ley, en su caso.
+Se modifica el primer párrafo por el art.único.42 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Se añade el párrafo final por el art. 21.11 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Procedimientos administrativos en tramitación.
+Los procedimientos administrativos para el otorgamiento de autorizaciones y concesiones en el dominio público portuario, los de carácter sancionador y cualquier otro regulado en esta ley, iniciados con anterioridad a su entrada en vigor, se continuarán tramitando y se resolverán de conformidad con la normativa vigente en el momento en que se iniciaron.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Concesiones otorgadas.
+1. Los titulares de concesiones para la construcción o la explotación de puertos y dársenas, vigentes a la entrada en vigor de esta ley, continuarán sometidos al régimen administrativo y económico establecido en el título correspondiente, y tendrán derecho, además, a hacer uso de la posibilidad de prolongación de la explotación regulada en el artículo 83 de este texto legal.
+2. Los titulares mencionados en el apartado anterior pueden optar, en el plazo de un año contado a partir de la entrada en vigor de esta ley, entre mantener el régimen inicial o solicitar un nuevo título concesional adaptado a las determinaciones de esta ley, con las consecuencias siguientes:
+a) Si no se solicita la adaptación en el plazo indicado, o si, una vez solicitada, no se aceptan las condiciones de adaptación fijadas por Puertos de las Illes Balears, el concesionario mantendrá la situación a que hace referencia el apartado 1.
+b) Una vez solicitada la adaptación, la aceptación de las condiciones mencionadas en el apartado anterior supondrá el otorgamiento de un nuevo título concesional, que, en ningún caso, podrá prever un plazo superior a los treinta años fijado por la Ley 22/1988, de 28 de julio, de costas. El otorgamiento quedará condicionado a que la adaptación se realice en el plazo establecido por Puertos de las Illes Balears.
+c) La adaptación implicará necesariamente la modificación de las condiciones económicas de la concesión.
+En su caso, en la determinación de estas condiciones, se tomará en consideración el valor de la concesión existente, en función del número de años que le queden de acuerdo con lo que dispone esta ley y atendiendo a su valor de mercado.
+3. A los efectos de esta disposición, se entiende por adaptación a la ley la inclusión en el título concesional de la obligatoriedad de la prestación eficaz de los servicios enunciados en el artículo 49, en las condiciones que fije Puertos de las Illes Balears de acuerdo con criterios objetivos y en coherencia con las características del puerto deportivo.
+4. Los titulares de concesiones para la construcción o la explotación de dársenas y puertos en los cuales haya expirado el plazo previsto en el título a la entrada en vigor de esta ley, y con independencia de que se haya producido la reversión de los bienes a la administración portuaria, podrán acogerse al régimen establecido en el apartado 2, siempre que, en cumplimiento del artículo 29 de la Ley 10/2003, de 22 de diciembre, de medidas tributarias y administrativas, hayan continuado con la actividad de explotación del dominio público portuario y la administración no opte por la gestión directa.
+5. Todas aquellas concesiones de construcción o de explotación de puertos, dársenas o instalaciones marítimas o portuarias que, con posterioridad a la entrada en vigor de la presente ley, fueran objeto de transferencia desde la Administración del Estado a la comunidad autónoma de las Illes Balears podrán acogerse a lo dispuesto en la presente disposición transitoria. En este caso el plazo de un año de opción de los titulares de las concesiones regulado en el punto 2 lo será a contar desde la fecha en que la transferencia entre ambas administraciones sea efectiva.
+Se añade el apartado 5 por el art.único.43 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+ Se añade el párrafo final al apartado 2.c) por el art. 21.12 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Desistimiento en los procedimientos iniciados con anterioridad en la entrada en vigor de la ley.
+Sin pérdida de la fianza constituida, pueden formular el desistimiento en los procedimientos que, en la entrada en vigor de esta ley, estén pendientes de resolución, los que hubieran solicitado alguna autorización o concesión portuaria, o los que se encuentren participando en un procedimiento competitivo para la obtención de alguno de estos títulos.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Prestación de los servicios.
+Para los titulares de concesiones de puertos deportivos vigentes en la entrada en vigor de esta ley, la exigencia de licencia para la prestación de servicios portuarios no será efectiva hasta el día 31 de diciembre de 2005.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Extinción de concesiones vigentes.
+Las concesiones vigentes otorgadas con anterioridad a la entrada en vigor de la Ley 22/1988, de costas, vencerán de acuerdo con lo previsto en la disposición transitoria quinta de dicha ley y en la decimocuarta del Reglamento General para su desarrollo y ejecución.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Personal laboral existente.
+1. El personal laboral fijo que a la entrada en vigor del Estatuto básico del empleado público ejercía funciones de personal funcionario o pasó a ejercerlas en virtud de pruebas de selección o promoción convocadas con anterioridad podrá continuar ejerciéndolas.
+2. Asimismo, este personal laboral fijo podrá participar en los procesos selectivos de promoción interna convocados por el sistema de concurso oposición, de forma independiente o conjunta con los procesos selectivos de libre concurrencia, en aquellos cuerpos y escalas a los que figuren adscritos las funciones y los puestos que ejerza, siempre que tenga la titulación necesaria y cumpla el resto de requisitos exigidos. A tal efecto, se valorarán como mérito los servicios efectivos prestados como personal laboral fijo y las pruebas selectivas superadas para acceder a esta condición.
+Se añade por el art.único.44 de la Ley 6/2014, de 18 de julio. Ref. BOE-A-2014-8819
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Limitaciones de usos a concesiones ya otorgadas.
+Las limitaciones de usos previstas en el artículo 57 de esta ley no serán de aplicación a las concesiones ya otorgadas en puertos transferidos, y se estará a las previsiones contenidas en los respectivos títulos concesionales y en los proyectos aprobados en ejecución de los mismos a la entrada en vigor de la modificación de la Ley de puertos.
+No obstante, las modificaciones de los títulos concesionales ya otorgados no podrán exceder de los límites cuantitativos previstos en el citado artículo 57.
+Se añade por el art. único.15 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
+
+### Disposición derogatoria
+
+1. Quedan derogadas todas las disposiciones de rango igual o inferior que se opongan a lo que establece esta ley.
+2. Queda sin efecto la Norma territorial cautelar previa a la tramitación del Plan director sectorial de puertos deportivos e instalaciones náuticas de las Illes Balears, aprobada por acuerdo del Consejo de Gobierno de día 15 de noviembre de 2002.
+
+### Disposición final primera
+
+Disposición final primera. Constitución de la entidad Puertos de las Illes Balears.
+1. La constitución de la entidad Puertos de las Illes Balears tendrá lugar en el momento de la entrada en vigor de esta ley, si bien el inicio de su actividad se producirá con el nombramiento de un mínimo de diez de los miembros del consejo de administración y la formalización del acta constitutiva en la primera reunión de este órgano.
+2. A partir del día siguiente de la publicación en el Butlletí Oficial de les Illes Balears del acta mencionada en el apartado anterior, quedarán adscritos a Puertos de las Illes Balears los bienes y derechos titularidad de la Administración de la comunidad autónoma que estuvieran adscritos a la Dirección General de Puertos de la Consejería de Obras Públicas, Vivienda y Transportes.
+Se modifica el apartado 2 por la disposición adicional 8.2 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Disposición final segunda
+
+Disposición final segunda. Actividad normativa del Gobierno.
+1. Se autoriza el Gobierno de las Illes Balears a dictar las disposiciones que sean necesarias para el desarrollo y la aplicación de esta ley.
+2. En el plazo máximo de seis meses, contados desde la entrada en vigor de esta ley, el Gobierno tiene que aprobar los estatutos de la entidad Puertos de las Illes Balears y el Reglamento general de ejecución de la Ley de puertos. Éste tiene que incluir en un anexo las prescripciones relativas a la tipología y las características técnicas de las infraestructuras e instalaciones reguladas en esta ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+1. Esta ley entrará en vigor al día siguiente de su publicación en el Butlletí Oficial de les Illes Balears.
+2. No obstante, los preceptos de esta ley correspondientes al capítulo II del título I, a los títulos III y IV, a los capítulos II y III del título V, a la disposición adicional tercera y a las disposiciones transitorias segunda y tercera, entrarán en vigor a los tres meses de la publicación oficial mencionada.
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que correspondan la hagan guardar.
+Palma, 21 de junio de 2005.
+MARGARITA ISABEL CABRER GONZÁLEZ,
+ 
+ JAUME MATAS PALOU,
+ 
+ Consejera de Obras Públicas,
+ Vivienda y Transporte
+ 
+ Presidente
+
+## ANEXO
+
+Red de puertos, de instalaciones portuarias y de instalaciones complementarias que son competencia de la Administración Autonómica de las Illes Balears
+Relación de elementos que, a la entrada en vigor de la Ley de puertos de las Illes Balears, forman parte de la Red de puertos y de instalaciones portuarias de las Illes Balears.

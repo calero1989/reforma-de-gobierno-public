@@ -1,0 +1,123 @@
+# Ley 14/1988, de 28 de octubre, de Retribuciones de Altos Cargos.
+
+- Identificador BOE: `BOE-A-2012-3819`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-3819
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+### [firma]
+
+Se hace saber a todos los ciudadanos de Euskadi que el Parlamento Vasco ha aprobado la Ley 14/1988, de 28 de octubre, de Retribuciones de Altos Cargos. Por consiguiente, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades que la guarden y hagan guardarla.
+Vitoria-Gasteiz, 16 de noviembre de 1988.–El Vicepresidente, Ramón Jáuregui Atondo.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+Los preceptos de la Ley 7/1981, de 30 de junio, que regulan el estatuto de los Miembros del Gobierno y de los Altos Cargos de la Administración, y se ocupan del personal de confianza al servicio de la misma, constituyen las únicas referencias de dicha Ley al régimen retributivo de aquéllos. El incompleto tratamiento en alguno de sus extremos, el vacío existente en cuanto a la regulación de las retribuciones de los cargos directivos de las Sociedades Públicas y Entes Públicos de Derecho Privado y la experiencia acumulada desde la entrada en vigor de la referida norma legal, hacían precisa la adopción de las medidas tendentes tanto a suplir las actuales insuficiencias, como a introducir aquellos aspectos que la práctica ha demostrado convenientes.
+Sobre tal premisa, la Ley regula el régimen retributivo de los Miembros del Gobierno, Altos Cargos de la Administración y personal de confianza, estableciendo una retribución única, cuya cuantía, que habrá de fijarse por la Cámara Legislativa a través de las Leyes de Presupuestos, es comprensiva de la totalidad de los conceptos inherentes al cargo o puesto. Así mismo, contempla el régimen de derechos económicos derivados del cese, que se concretan en una indemnización única y, para los exclusivos supuestos de desempleo, en una prestación temporal, sometida a un riguroso régimen de incompatibilidades acorde con su finalidad.
+Finalmente, se establecen los criterios de retribución de los cargos directivos de las Sociedades y Entes Públicos, con las adecuadas fórmulas de control parlamentario.
+
+### Artículo 1
+
+Artículo 1.
+1. La presente ley tiene por objeto la regulación de las retribuciones durante el ejercicio del cargo, así como las indemnizaciones por cese, de los miembros del Gobierno, altos cargos de la Administración, personal de confianza al servicio de esta y demás cargos directivos de la Administración general e institucional de la Comunidad Autónoma.
+2. Ninguna otra contraprestación al margen de las señaladas en esta Ley podrá otorgarse con ocasión del cese o dimisión de las personas incluidas en el apartado anterior.
+Se modifica el apartado 1 por la disposición final 5.1 de la Ley 15/2022, de 23 de diciembre. Ref. BOE-A-2023-3620
+
+### Artículo 2
+
+Artículo 2.
+1. Los miembros del Gobierno y los Altos Cargos de la Administración, serán remunerados en el ejercicio de sus funciones mediante una única retribución, cuya cuantía anual para cada ejercicio se establecerá en la correspondiente Ley de Presupuestos, y por un solo concepto.
+A los efectos del apartado anterior, en relación con los Altos Cargos que son titulares de un órgano con sede en el extranjero, se considerará única retribución y un solo concepto la que corresponda a la aplicación a la cuantía anual establecida en aplicación de la correspondiente Ley de Presupuestos de un módulo que habrá de ser determinado para cada ejercicio por el Consejo de Gobierno y que permitirá la equiparación del poder adquisitivo y de las condiciones de vida en el país de residencia.
+2. El personal de confianza o eventual, que se regirá por lo dispuesto en el artículo 28 de la Ley 7/1981, de 30 de junio, y demás disposiciones que le fueran de aplicación, percibirá asimismo una única retribución.
+Los puestos de trabajo reservados al citado personal se determinarán por el Gobierno, y deberán figurar en la Ley de Presupuestos de cada ejercicio con especificación de la cuantía de su retribución, que en ningún caso podrá exceder de la señalada al cargo de Viceconsejero.
+3. La retribución a que se refiere el presente artículo comprenderá la totalidad de los conceptos inherentes al desempeño del cargo o puesto con excepción de los expresamente regulados en esta Ley, y se devengará y hará efectiva por mensualidades completas en proporción al tiempo de servicios prestados y previa retención de los importes que proceden en aplicación de las normas tributarias y sociales vigentes.
+4. Asimismo, los miembros del Gobierno, altos cargos de la Administración y el personal de confianza o eventual, además de la retribución prevista en los párrafos anteriores, tendrán derecho al percibo de retribuciones en concepto de antigüedad, con excepción de aquellas personas que tuvieran reconocida la percepción de trienios por su condición de personal funcionario, estatutario o laboral de cualquier administración pública.
+Esta retribución por antigüedad consistirá en una cantidad o trienio por cada tres años de servicio. A estos efectos, se computarán los servicios prestados en servicio activo como personal funcionario interino, estatutario de carácter temporal o personal laboral fijo o temporal en cualquier administración pública, o en una entidad dependiente de la misma. Asimismo, se reconocerá dicha retribución cuando se hubiere extinguido la condición previa por jubilación como funcionario de carrera, estatutario o personal laboral fijo, por el número de trienios consolidados a la fecha de la jubilación.
+Los trienios se devengarán y harán efectivos por la cuantía correspondiente al subgrupo de clasificación profesional en el que se hayan prestado los servicios como empleada o empleado público en las distintas administraciones públicas en el momento de su perfeccionamiento, de acuerdo con las retribuciones básicas que se fijen para cada ejercicio.
+Se añade el apartado 4 por la disposición final 4 de la Ley 13/2019, de 27 de diciembre. Ref. BOE-A-2020-617
+ Se modifica el apartado 1 por la disposición final 1.1 de la Ley 1/1995, de 12 de abril. Ref. BOE-A-2012-1243
+
+### Artículo 3
+
+Artículo 3.
+1. Los miembros del Gobierno, Altos Cargos de la Administración y, en su caso, el personal de confianza o eventual tendrán derecho a ser resarcidos de cuantos gastos se vean obligados a realizar por razón del servicio, previa justificación de los mismos.
+2. Así mismo, cuando tuvieran que trasladar su residencia a la sede habitual en que deban prestar sus funciones, percibirán una indemnización por traslado forzoso de domicilio, con sujeción a los mismos requisitos y condiciones que las fijadas para los funcionarios y empleados públicos. Igual derecho les asistirá al trasladar su residencia al término de sus funciones.
+
+### Artículo 4
+
+Artículo 4.
+1. Las retribuciones fijas y periódicas de los puestos directivos de las Sociedades Públicas y Entes Públicos de derecho privado de la Comunidad Autónoma se señalarán por los respectivos Consejos de Administración, y figurarán desglosadamente en la partida correspondiente dentro de la Ley de Presupuestos de cada ejercicio, sin que, en ningún caso, puedan exceder de las establecidas para el cargo de Viceconsejero.
+2. Así mismo, podrán establecerse incentivos de cuantía no garantizada, a percibir en atención a la consecución de objetivos o resultados en la gestión. Los criterios para su concesión deberán reflejarse en la Ley de Presupuestos de cada ejercicio, y de las cantidades devengadas por tal concepto se dará cuenta por el Gobierno al Parlamento.
+
+### Artículo 5
+
+Artículo 5.
+1. Los miembros del Gobierno, los Altos Cargos de la Administración y, en su caso, el personal de confianza o eventual, percibirán al cesar en sus cargos o puestos, cualquiera que fuera la causa y el tiempo de servicios prestados, una indemnización, por una sola vez, equivalente a una mensualidad de retribución.
+La indemnización prevista en el párrafo anterior no será de aplicación a los supuestos de cese o dimisión para ocupar otro cargo en cualquier Administración Pública que lleve aparejado dicho derecho, cuando entre la fecha de cese y la de nombramiento medie un plazo inferior al de un mes.
+2.(Suprimido).
+3. En relación con los efectos tributarios de las prestaciones previstas en los apartados anteriores, se estará a lo dispuesto en la legislación fiscal y social vigente en cada momento.
+Se suprime el apartado 2 por la disposición final 5.2 de la Ley 15/2022, de 23 de diciembre. Ref. BOE-A-2023-3620
+
+### Artículo 6
+
+Artículo 6.
+Las indemnizaciones que se establezcan en favor del personal directivo de Sociedades Públicas y Entes Públicos de derecho privado, se ajustarán en todo caso al régimen previsto en esta Ley o, si resultaran más beneficiosos, a los mínimos de derecho necesario contenidos en la legislación social que les fuera de aplicación.
+
+### Artículo 7
+
+Artículo 7.
+1. Para determinar el importe de las indemnizaciones y prestaciones económicas temporales a que se refiere el artículo quinto, se tomará como mensualidad la doceava parte de la retribución íntegra anual que corresponda al cargo o puesto desempeñado en el momento en que el derecho resulte efectivo, excluidos los incentivos regulados en el artículo 4.2 de esta Ley. Si se hubieran ocupado cargos o puestos con diferente retribución, se tomará la de aquel que resulte mayor.
+2. Para el cómputo del período de servicios determinante de la duración de la prestación económica temporal, se tomarán como fecha inicial y final, respectivamente, aquellas en que hayan surtido efectos los correspondientes nombramiento y cese en los cargos o puestos que den origen a tal derecho.
+El beneficiario vendrá obligado, cada vez que sea requerido para ello, a la acreditación fehaciente de los requisitos y condiciones establecidos para el devengo del derecho. El incumplimiento de tal obligación, salvo que mediara causa de fuerza mayor, dará lugar a la automática extinción del derecho, sin perjuicio en su caso, de la devolución de las cantidades indebidamente percibidas.
+3. Las indemnizaciones y prestaciones temporales se satisfarán sin necesidad de que medie requerimiento para ello, sin perjuicio de la previa acreditación, en el último caso, del supuesto personal en que se encuentre el afectado.
+En el caso de fallecimiento del titular, el pago se realizará a los herederos que resulten conforme a las normas de derecho sucesorio, previa instrucción del correspondiente procedimiento administrativo para su determinación.
+
+### Artículo 8
+
+Artículo 8.
+(Suprimido)
+Se suprime por la disposición final 5.3 de la Ley 15/2022, de 23 de diciembre. Ref. BOE-A-2023-3620
+
+### Disposición adicional
+
+Disposición adicional.
+Dentro de las categorías del personal de confianza o eventual, el Gobierno determinará expresamente las situaciones que podrán acogerse a lo establecido en los artículos 3.1 y 5 de la presente Ley.
+
+### Disposición transitoria
+
+Disposición transitoria.
+1. Los miembros del Gobierno, los Altos Cargos de la Administración y el personal de confianza que se hallara en activo a la entrada en vigor de esta Ley, o sus causahabientes en caso de fallecimiento, podrán optar en el momento en que tenga efectividad el cese, entre el régimen previsto en la misma o el establecido en aplicación del artículo 37 de la Ley 7/1981, de 30 de junio.
+2. En este último supuesto, para determinar la duración de la asignación económica sólo será computable el tiempo de servicios prestados con anterioridad a la entrada en vigor de esta Ley. De la duración así resultante se deducirán las mensualidades de retribución percibidas, en su caso, en concepto de indemnización o prestación análoga por cese en el desempeño de otros cargos públicos.
+La asignación resultará incompatible con el ejercicio de cualquier cargo público retribuido, electo o de designación, así como con la percepción de prestaciones por desempleo o de pensiones satisfechas con cargo a fondos públicos. Las causas de incompatibilidad citadas darán lugar a la automática extinción del derecho, y el interesado vendrá obligado a la devolución de las cantidades que, en su caso, le hubieran sido ya satisfechas por el cómputo del período de tiempo transcurrido desde el momento en que se produjo la concurrencia de cualquiera de aquéllas.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. Los miembros del Gobierno, los Altos Cargos de la Administración y el personal de confianza que se hallara en activo a la entrada en vigor de esta Ley, o sus causahabientes en caso de fallecimiento, podrán optar en el momento en que tenga efectividad el cese, entre el régimen previsto en la misma o el establecido en aplicación del artículo 37 de la Ley 7/1981, de 30 de junio.
+2. En este último supuesto, para determinar la duración de la asignación económica sólo será computable el tiempo de servicios prestados con anterioridad a la entrada en vigor de esta Ley. De la duración así resultante se deducirán las mensualidades de retribución percibidas, en su caso, en concepto de indemnización o prestación análoga por cese en el desempeño de otros cargos públicos.
+La asignación resultará incompatible con el ejercicio de cualquier cargo público retribuido, electo o de designación, así como con la percepción de prestaciones por desempleo o de pensiones satisfechas con cargo a fondos públicos. Las causas de incompatibilidad citadas darán lugar a la automática extinción del derecho, y el interesado vendrá obligado a la devolución de las cantidades que, en su caso, le hubieran sido ya satisfechas por el cómputo del período de tiempo transcurrido desde el momento en que se produjo la concurrencia de cualquiera de aquéllas.
+Se renumera por la disposición final 5.4 de la Ley 15/2022, de 23 de diciembre. Ref. BOE-A-2023-3620
+ Anteriormente era la disposición transitoria.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+El personal alto cargo y miembro del Gobierno que no hubiera cotizado por la contingencia de desempleo del Régimen General de la Sociedad Social por haber tenido derecho a la prestación económica temporal prevista por la Ley 14/1988, de 28 de octubre, de retribuciones de altos cargos, en su redacción original, y que, tras su cese, se encuentre en situación legal de desempleo percibirá, en tanto en cuanto se mantenga en dicha situación y una vez se acredite la finalización o inexistencia de la prestación por desempleo de acuerdo con la normativa de Seguridad Social, una cantidad equivalente a la que le hubiera correspondido percibir de haber cotizado durante el periodo completo del ejercicio del cargo por tal contingencia, incluida la correspondiente cotización a la Seguridad Social. A estos efectos, se tomará como referencia la normativa de Seguridad Social vigente en la fecha del cese.
+Se añade por la disposición final 5.4 de la Ley 15/2022, de 23 de diciembre. Ref. BOE-A-2023-3620
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogados los artículos 33, 35 y 37 de la Ley 7/1981, de 30 de junio, del Gobierno.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Gobierno para dictar cuantas disposiciones sean necesarias para el desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del País Vasco».

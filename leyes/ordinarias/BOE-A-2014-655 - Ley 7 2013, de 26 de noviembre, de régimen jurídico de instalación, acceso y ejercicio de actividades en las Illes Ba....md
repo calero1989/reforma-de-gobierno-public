@@ -1,0 +1,2328 @@
+# Ley 7/2013, de 26 de noviembre, de régimen jurídico de instalación, acceso y ejercicio de actividades en las Illes Balears.
+
+- Identificador BOE: `BOE-A-2014-655`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2014-655
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 48.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente ley:
+EXPOSICIÓN DE MOTIVOS
+I
+El artículo 30.31 del Estatuto de Autonomía de las Illes Balears, conforme a la redacción de la Ley Orgánica 1/2007, de 28 de febrero, atribuye la materia de espectáculos y actividades recreativas a la comunidad autónoma de las Illes Balears como competencia exclusiva, y el artículo 31.17 de esta norma le atribuye la materia de actividades clasificadas como competencia de desarrollo legislativo y de ejecución, también establece como competencias propias de los consejos insulares las actividades clasificadas (art. 70.7) y los espectáculos públicos y las actividades recreativas (art. 70.11), cuyo ejercicio se ajustará, entre otros preceptos, a lo dispuesto en los artículos 58 y 72.
+La publicación de la Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividades de las Illes Balears, supuso para la mayoría de ayuntamientos de esta comunidad la superación de una forma tradicional de instruir los procedimientos de las licencias de actividades: la simplificación administrativa que introducía, el esfuerzo por integrar actuaciones administrativas dispersas y el hecho de otorgar más importancia y responsabilidad al personal técnico redactor de los proyectos dio como resultado el aligeramiento de la carga burocrática, la agilización de los procedimientos y, en consecuencia, una mejora sustancial para los ciudadanos. Asimismo, otorgó a los ayuntamientos de más de 15.000 habitantes, con más capacidad de organización, competencias que antes compartían con los consejos insulares.
+Aunque no se hubiera completado con la publicación del correspondiente reglamento, la aplicación directa de la Ley 16/2006 puso en evidencia el acierto de haberla aprobado, lo que significó el inicio de un camino simplificador. Continuar en esta línea, en este momento, es una obligación con la entrada en vigor de la Directiva 2006/123/CE, de 12 de diciembre, del Parlamento Europeo y del Consejo, relativa a los servicios en el mercado interior, y la consiguiente publicación de normas estatales y autonómicas de transposición que han hecho más patente esta necesidad de simplificación y la obligación de controlar a posteriori la instalación y el funcionamiento de las diferentes actividades y servicios. La aplicación de la Ley 16/2006, de 17 de octubre, fue fácil y su aceptación fue generalizada, porque, quizás, satisfacía las aspiraciones de simplicidad administrativa de ayuntamientos y ciudadanos y apuntaba a otra forma de encarar la problemática de las licencias de actividad. Ante el proyecto técnico de actividades, la Ley 16/2006 optó por evitar en la medida de lo posible los controles previos sobre el papel y apostar tímidamente por un control posterior al establecimiento de la actividad.
+Cuando una norma es aceptada de manera casi general es porque satisface unas necesidades evidentes. Es cierto, también, que a su vez impone nuevas obligaciones suficientemente justificadas. Pero todavía es más cierto que el equilibrio entre satisfacción social, grado de intervención administrativa y número de obligaciones inherentes justifican en gran medida el grado de aceptación, de implantación de la norma jurídica, y, en consecuencia, su grado de cumplimiento real y efectivo.
+La Ley 16/2006 quedó a medio camino por la publicación de la Ley Orgánica 1/2007, de modificación del Estatuto de Autonomía de las Illes Balears, por una parte, y la Directiva 2006/123/CE, de 12 de diciembre, de servicios, por otra. Entre ambos hitos, la Ley 16/2006 no pudo ser más valiente. Así pues, con la normativa europea plenamente vigente y dada la experiencia adquirida con la Ley 16/2006, de 17 de octubre, es el momento oportuno para emprender la adecuación de la ley a las nuevas circunstancias, tanto desde el punto de vista normativo como desde el punto de vista económico: menos burocracia y más efectividad, mediante los controles posteriores, en la defensa del medio ambiente, la salubridad y la seguridad para las personas y los bienes y más calidad de vida.
+Se dio un paso importante, sobre todo en actividades permanentes y temporales, mediante la Ley 12/2010, de 12 de noviembre, de modificación de diferentes leyes para la transposición en las Illes Balears de la Directiva 2006/123/CE, de 12 de diciembre, del Parlamento Europeo y del Consejo, relativa a los servicios en el mercado interior, al imponer la declaración responsable de inicio y ejercicio de actividades; pese a ello, vista la complejidad de la materia, al tratarse de una norma horizontal que interacciona, condiciona y queda condicionada por otras autorizaciones, ahora se han emprendido los siguientes pasos, además de la simplificación en su sentido amplio, por una parte, la eliminación de la superposición de autorizaciones tal y como consagra el punto 3 del artículo 10 de la citada directiva, coordinando adecuadamente todas las administraciones que, desde el punto de vista del promotor, suponga conceptualmente una administración única y, por otra parte, adecuando todo el régimen de control posterior a la nueva realidad jurídica.
+Por motivos de urgencia, se publicó el Decreto Ley 7/2012, de 15 de junio, de medidas urgentes para la activación económica en materia de industria y energía, y otras actividades, modificado por la Ley 13/2012, de 20 de noviembre, de medidas urgentes para la activación económica en materia de industria y energía, nuevas tecnologías, residuos, aguas, otras actividades y medidas tributarias. La presente ley, así como debe ser, converge con los objetivos en materia de actividades y los incorpora a ella.
+Se ha considerado más recomendable redactar una nueva ley que recoja los principios de la directiva europea, al mismo tiempo que rectifique o elimine, aprovechando la ocasión, todo aquello que de superfluo e innecesario contiene la Ley 16/2006, de 17 de octubre. Ante la disyuntiva entre una reforma parcial del texto antiguo y la publicación de un nuevo texto, se ha optado por esta segunda vía porque la consulta es más fácil y sencilla. De esta forma, se aprovecha la ocasión para rectificar o eliminar directamente lo que se ha demostrado de aplicación más discutible, y, justo es decirlo, lo que no representaba mejora sustancial alguna respecto a la normativa anterior.
+II
+La ley consagra definitivamente, entre administración y ciudadano, el principio de buena fe, sin el cual no es posible ni la existencia misma del derecho, principio que consagran el Código Civil de manera general y la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, en las relaciones entre las administraciones públicas y entre éstas y los ciudadanos. Esta norma pretende que este principio general tenga una adecuada materialización y una aceptación en la tramitación para poder, por una parte, instalar y ejecutar las obras e instalaciones y, por otra, iniciar y ejercer la actividad.
+El principio del silencio administrativo positivo introducido en la Ley 16/2006, de 17 de octubre, se mantiene o se transforma en declaración responsable, vistas la filosofía y las exigencias de la directiva europea, todo ello obliga a adaptar con una nueva filosofía el apartado de infracciones y sanciones a fin de que quede una norma compensada y equilibrada. Dichos principios, respecto al ciudadano y a la seguridad jurídica, obligan a la administración a velar por los principios de eficacia y celeridad en el servicio a los ciudadanos.
+Puesto que la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación (IPPC) regula parcialmente la tramitación de las actividades sujetas al régimen de autorización ambiental integrado, esta ley es el escenario adecuado para acabar de definirlo y para crear un procedimiento aplicable a las actividades sujetas al régimen de autorizaciones ambientales integradas, de forma que se engloban en un solo texto todos los procedimientos de autorización.
+Al objeto de simplificar más la normativa, se eliminan de su ámbito de aplicación, entre otros, el régimen de inspección y sancionador de las actividades sujetas a IPPC que ya se reflejan en la Ley 16/2002, las instalaciones no vinculadas a una actividad, ya que existen procedimientos propios de otras administraciones, sobre todo en lo referente a la seguridad industrial, y otras actividades sencillas, dado que los ayuntamientos tienen otras herramientas jurídicas para actuar en caso de molestias, de falta de seguridad o de agresiones al medio ambiente.
+La normativa técnica actual dificulta el uso de soluciones alternativas y de nuevos sistemas nacidos de la evolución tecnológica que puedan alcanzar el mismo objetivo, por ello se crea un principio, que permitirá reducir costes a la actividad empresarial, así como llenar los vacíos legales a raíz de la derogación de cierta normativa técnica sectorial. Para facilitar actualmente este fin también se posibilita, en ciertos casos, solicitar un informe a los ayuntamientos sobre estas soluciones.
+Se ha querido evitar la duplicidad de competencias, por lo que se realiza una reordenación de las funciones de la administración en esta materia, donde queden bien claras las funciones de cada uno, pero de forma coordinada e integrada con la finalidad de producir una sinergia a favor del ciudadano. Por todo ello, por una parte, a causa de la concurrencia de la abundante normativa sectorial con la normativa básica local, la ley acoge el principio de no interferencia interadministrativa en el sentido de respetar absolutamente la competencia concurrente de otras administraciones, no solamente respecto a las autorizaciones sectoriales correspondientes para la autorización y el funcionamiento de las actividades, sino también respecto a las infracciones y las sanciones una vez iniciada la actividad; y, por otra parte, con respecto a las administraciones con competencias exclusivamente en actividades, el ayuntamiento es el único competente de todo lo que se realice dentro de su municipio, mientras que los consejos insulares tienen las competencias en actividades supramunicipales y la misión de colaborar con los consistorios que lo necesiten, y la Administración de la comunidad autónoma de las Illes Balears tiene la competencia de las actividades suprainsulares y la misión de coordinar, asesorar y analizar la realidad y establecer los mecanismos para mejorar la eficacia real del sistema. La Junta Autonómica de Actividades de las Illes Balears se ha convertido ya en herramienta imprescindible en este cometido.
+En cuanto a los seguros, se mantiene la obligación del titular de la actividad de contratar y mantener en vigor un seguro de responsabilidad civil; y dado que el Real Decreto 1000/2010, de 5 de agosto, sobre el visado colegial obligatorio, eliminó el visado en la elaboración de ciertos proyectos y documentación técnica, la ley regula un seguro profesional obligatorio para proteger al promotor y a los ciudadanos de posibles consecuencias derivadas del ejercicio de la profesión.
+Se ha eliminado la obligación de constituir una fianza en las actividades itinerantes y en las no permanentes por los posibles desperfectos en instalaciones de dominio público, ya que se trataba de un trámite complicado que se ha demostrado infructuoso y costoso.
+En las Illes Balears, por su situación socio-económica, la transmisión de las actividades ha sido y es unos de los puntos más conflictivos que ha motivado que se produjeran estancamientos o sobrecostes para iniciar la actividad en establecimientos que disponían de instalaciones y condiciones favorables. Para solucionarlo, se ha optado por indicar, de forma clara, que el permiso de instalación o comunicación previa tiene un carácter real y objetivo y, por lo tanto, se otorga en atención a las condiciones del local, sin perjuicio que para el inicio y el ejercicio de la actividad se puedan realizar tanto transmisiones como cambios de titular.
+La Ley 16/2006, de 17 de octubre, denominó a las actividades de espectáculos públicos y actividades recreativas como actividades catalogadas; tal denominación no fue muy afortunada en su regulación, ya que en lugar de simplificar, complicó innecesariamente su comprensión y, en consecuencia, en la práctica, su tramitación, y por lo tanto se retoma la nomenclatura clásica de espectáculos públicos y actividades recreativas, y se introducen los establecimientos públicos. También se determina un marco común sobre horarios para cubrir el actual vacío legal.
+La presente ley potencia la coordinación y la cooperación entre todas las administraciones, sin perjuicio de las competencias sectoriales encomendadas de manera específica a cada una de ellas. Por aplicación de la Directiva de servicios, en la mayoría de las autorizaciones sectoriales –que ahora son meras inscripciones en los correspondientes registros– el proyecto de actividades es único para todas las administraciones. Así, se crea una oficina virtual para que los titulares depositen los proyectos en ella, a la que podrá acceder cualquier administración. De esta manera, la coordinación y la cooperación son claves para la intervención de la administración que corresponda a consecuencia del resultado de un control o una inspección efectuados y que por razón de la materia sea competencia de otra administración.
+Teniendo en cuenta que la materia de actividades es horizontal, se han creado los registros de actividades con la finalidad de poderlos utilizar en la inspección y para realizar estudios estadísticos que ayuden a aumentar la eficacia de la administración, y que permitan interconectarlos con otras administraciones y evitar así las duplicidades.
+La Junta Autonómica de Actividades de las Illes Balears tiene, entre otros, el objetivo de alcanzar una doctrina común y pasar de un modelo rígido basado en la publicación de reglamentos, a un modelo flexible basado en los principios legales básicos, la doctrina, la normativa técnica básica y el espíritu que impregna el artículo 3 del Código Civil, por lo que establecerá los protocolos y las directrices de coordinación y cooperación, tanto horizontal como vertical, para conseguir una uniformidad básica entre administraciones en nuestras islas en materia de actividades.
+Con el afán de simplificar y eliminar duplicidades, la Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividad de las Illes Balears, integró en un solo texto y en el mismo procedimiento de autorización las actividades clasificadas y las actividades de espectáculos públicos y actividades recreativas. Esta iniciativa ha sido bien recibida y se ha reconocido su eficacia, pretendiendo ahora dar un paso más.
+III
+La licencia de obras y la licencia de actividades a menudo son procedimientos conectados indisolublemente, de tal modo que muchos trámites pueden ser –y deberán ser– comunes, dado que la resolución final está indisolublemente ligada a una y a otra. Mientras que en muchos países y comunidades autónomas se construye bajo un solo procedimiento, obras-actividades, con la finalidad de fiscalizar y controlar el derecho a la edificación y, también, para garantizar que sean seguras, salubres y compatibles con el medio ambiente, en las Illes Balears existe esta dualidad que provoca descoordinación, problemas de legalización y redundancia de trámites y de documentación que encarecen y retrasan la puesta en funcionamiento efectiva de la actividad y provocan sobrecostes económicos al promotor por no adaptarse la obra ejecutada a la actividad.
+Por todo ello, se unifica en un solo procedimiento la instalación y la obra, tal y como aconsejan la jurisprudencia y la técnica, ya que las medidas correctoras en materia de actividades suelen ser de obras e instalaciones o de carácter organizativo, de modo que con el mismo acto para la instalación, donde es preceptiva la participación de técnico o técnica competente, esta persona también se haga cargo de las obras de adecuación del establecimiento, al objeto de que las obras ejecutadas sean compatibles con la actividad; así se elimina una traba burocrática innecesaria que retrasa su puesta en funcionamiento. Todo ello, sin perder de vista que el objetivo fundamental de la Directiva de servicios es aumentar la competitividad de las empresas eliminando o reduciendo al máximo posible los costes ocasionados por las trabas burocráticas, no desde un punto de vista de una sola autorización concreta, sino de la coherencia global del conjunto de autorizaciones que intervienen en el proceso de puesta en funcionamiento de un servicio.
+Tanto la licencia de obras como la de la actividad son actos reglados y por lo tanto el derecho a edificar o ejercer la actividad al final sólo está limitado por la norma y no por la administración, por todo ello, en una autorización reglada donde participa un técnico o una técnica competente se considera que la autorización es un sobrecontrol que sólo puede estar justificado, para mayor eficiencia de la administración, en casos especialmente complicados que puedan ocasionar perjuicios económicos o riesgos graves en la seguridad de las personas o los bienes, o que exista materia que aunque esté prevista en la norma no está claramente determinada, que no suele ser la norma general en estos casos.
+Las dificultades económicas actuales nos han obligado a realizar una reflexión y un análisis de la realidad y se ha concluido que es necesario diseñar una ley con vocación de permanencia, que permita mejorar la relación eficacia-costes, y aumentar su eficiencia real.
+Por todo ello, por una parte, cuando se trate de la instalación de actividades de repercusión menor con ciertos tipos de obras, se ha regulado un procedimiento mediante comunicación previa y se elimina tanto la licencia de obras como la de actividad; y por otra parte, cuando se trate de ciertas obras de edificación o de actividades con una gran repercusión, será necesaria una autorización que integre de forma coordinada la obra y la instalación bajo el formato más amplio de permiso de instalación y obras, mejorando los plazos del conjunto de autorizaciones y evitando pérdidas a las inversiones por falta de coordinación real entre obras y actividades.
+Expresamente, en materia de obras, sólo se ha regulado la materia de coordinación entre ambas materias, obra y actividad, así como las condiciones para iniciar la obra. En cuanto a control administrativo, inspecciones, infracciones y sanciones, se estará a la vigente normativa urbanística, dando más flexibilidad a las corporaciones locales.
+En ambos casos, una vez ejecutadas las obras e instalaciones, para conseguir los niveles de seguridad, salubridad y medio ambiente, y cuando el establecimiento y la actividad cumplan todos los requisitos adecuados para desarrollar la actividad, será necesaria la declaración responsable de inicio y ejercicio de actividad e inscripción en el registro autonómico de actividades, que será una herramienta imprescindible para la inspección y el control.
+IV
+La nueva regulación que hace esta ley de la intervención administrativa en materia de obras y actividades es plenamente compatible con la Ley 12/2012, de 26 de diciembre, de medidas urgentes de liberalización del comercio y de determinados servicios, al tratarse de un régimen integrado de obras-actividades que, además, para estas actividades y por norma general, no necesitarán ningún tipo de autorización previa ni para ejecutar las obras ni para iniciar la actividad.
+Las actividades permanentes se clasifican en función de parámetros de riesgo objetivos, y no por su nomenclatura, ya que el progreso vertiginoso, la innovación empresarial y la tendencia a introducir las actividades multidisciplinares han desvirtuado la clasificación clásica, dado que ésta implica unos parámetros de tipo estándar que en ciertos casos puntuales pueden decaer. La actividad comercial en sí misma no conlleva ningún riesgo inherente, a pesar de ello, conforme a una configuración atípica de una actividad puede existir un riesgo por el hecho de que se superen los umbrales que se fijan en el título I del anexo I de la presente ley, lo que justifica la necesidad de un control administrativo previo, incluso cuando se traten actividades de comercio minorista incluidas en el ámbito de aplicación del Real Decreto Ley 19/2012, de 25 de mayo, y por lo tanto quedan sujetas al régimen de autorización que se regula en el capítulo II del título IV.
+Aunque las actividades se clasifican en mayores, menores, inocuas e infraestructuras comunes, conforme a los parámetros establecidos en el anexo I donde se tendrá en cuenta la globalidad de la actividad, en el caso de una modificación parcial necesitarán o no permiso de instalación y/o obra y se tramitarán según los parámetros de la parte modificada.
+El trámite de instalación y obra necesitará permiso, por una parte, cuando las obras sean importantes (las obras no están sujetas a la Directiva de servicios de conformidad al considerando 9 de dicha directiva) y, por otra parte, cuando en la actividad concurran alguna de las siguientes razones imperiosas de interés general: orden público, seguridad pública, salud pública y protección del medio ambiente y del entorno urbano. Por ello, se han establecido unos parámetros umbrales. Estos parámetros se establecen conforme a las siguientes premisas: 1) El umbral de superficie indicado en las actividades de carácter industrial, ya que la normativa, dependiendo del riesgo intrínseco de la actividad y la configuración del establecimiento, establece unas limitaciones de los sectores de incendios, que en el caso de un siniestro permiten confinar el fuego limitando sus consecuencias y controlando el incendio. 2) El umbral de superficie en el resto de actividades, con la misma filosofía del anterior apartado, se ha elegido porque es el sector máximo permitido en la mayoría de casos. 3) Si una mayoría de ocupantes necesita ayuda para evacuarlos en caso de emergencia, las personas implicadas tienen comprometida su seguridad y dependen de otras personas e instalaciones específicas que les permitan el traslado a zona segura. 4) La aglomeración de personas con una densidad elevada provoca embotellamientos en las vías de evacuación e incrementa el riesgo, asimismo, cuando el aforo es mayor, más riesgo existe. 5) La virulencia de un incendio está relacionada con la carga térmica ponderada y su superficie. 6) Se ha tenido en cuenta el aislamiento que los edificios deberían tener, así como los límites de emisión de ruido que dependen del momento del día, los cuales si se superan de forma acumulativa pueden provocar lesiones a la ciudadanía. 7) Actividades sujetas a declaración de impacto ambiental. Y 8) Se ha dejado una puerta abierta que tendrá que ser defendida y valorada por el técnico o la técnica de la parte interesada sobre otras cuestiones que pueden ser técnicamente una razón imperiosa de interés general en las que es aconsejable la intervención administrativa.
+La clasificación de las actividades es utilizada para determinar los seguros, las revisiones técnicas periódicas y la organización de las inspecciones.
+La jurisprudencia y la técnica aconsejan no realizar instalaciones y obras de uso indeterminado, ya que la normativa técnica a aplicar siempre es para unas actividades determinadas. No obstante, en ciertos casos se construye sin saber quién será el destinatario final y sin saber qué actividad se instalará; por ello, se conserva el espíritu del artículo 23 de la Ley 16/2006 y se amplía su ámbito, tanto para las naves de una sola planta donde sólo se comparta la pared medianera, como en la creación de proyectos de infraestructuras comunes en algunos casos más complicados.
+Antiguamente, las actividades estaban muy acotadas, definidas y simples, con un alto índice de estabilidad; la vida de la actividad con unas características concretas era estable y permanente en el tiempo. Hoy en día, las actividades son mucho más dinámicas y complejas, con una vida media de cinco a diez años, y, además, se modifican a menudo en un esfuerzo continuo de innovación y de adaptación al mercado. En este nuevo panorama se incluirá el aumento de las actividades multidisciplinares, ya sean de un titular o de diferentes titulares. Este hecho obliga a la administración a adecuar los procedimientos y a los técnicos a adaptar sus proyectos a esta realidad emergente, para conseguir que los procedimientos administrativos estén en consonancia con la flexibilidad del mercado y permitir que las inversiones se puedan planificar a más largo plazo.
+Por todo ello, se crea la figura de infraestructuras comunes, que pretenden ser centros donde diferentes espacios o establecimientos puedan coexistir. Por tanto, se indicarán las actividades o los establecimientos donde se predetermine un abanico de usos compatibles con la infraestructura, de forma que realizando un esfuerzo de planificación pueda garantizarse la instalación de futuras actividades con los usos predeterminados, con la finalidad de evitar perjuicios a terceras personas en un futuro y reducir costes con el uso de instalaciones centralizadas.
+Las edificaciones e instalaciones donde se desarrollan las actividades tienen una vida útil limitada y, además, las consideraciones de seguridad y de los materiales cambian con el paso del tiempo, de modo que una condición en el permiso de instalación para garantizar la seguridad, la salubridad y el medio ambiente puede dejar de ser válida por el simple paso del tiempo. Por esta razón imperiosa de interés general, se crean las revisiones técnicas de actividades permanentes que se subdividen en dos tipologías: las revisiones periódicas y las revisiones de actualización para actividades existentes.
+Las actividades temporales que han pasado a denominarse itinerantes han sido también objeto de reforma y simplificación, se ha eliminado su anterior clasificación de actividades temporales convalidables y no convalidables, y ahora son mayores o menores.
+La comprobación del uso urbanístico en actividades no permanentes e itinerantes una vez terminada la actividad en la que el suelo no haya sufrido obras o modificaciones en el terreno, ha sido causa de múltiples debates y discusiones. Sin embargo, el origen es distinto, la primera nace de la normativa de espectáculos públicos y actividades recreativas, y la segunda, además, de actividades clasificadas.
+Las actividades itinerantes puede considerarse que tienen, a nivel administrativo, un carácter más reglado, y que existe un derecho preexistente a favor del titular tanto si se desarrolla en dominio público como si no. Para conservar este carácter reglado, no se integra la concesión de dominio público en la declaración responsable de inicio y ejercicio de la actividad, y, por lo tanto, será un proceso anterior o simultáneo a ésta. En cuanto al uso urbanístico, a causa de la temporalidad en la ubicación, el impacto y la no necesidad de obras o infraestructuras de carácter permanente, hace que se considere que no quede alterado su uso urbanístico.
+La normativa técnica sobre seguridad de las actividades itinerantes es una materia vagamente regulada, puesto que están excluidas del ámbito de aplicación de la Directiva 2006/42/CE del Parlamento Europeo y del Consejo, de 17 de mayo de 2006, relativa a las máquinas y otras similares. Estas actividades itinerantes, en una gran mayoría atracciones, son técnicamente complejas (puesto que pueden llevar: mecánica, neumática, hidráulica, electricidad, electrónica, etc.), además son máquinas que suelen llevar movimiento, en las que, cada año, suele haber incidentes y accidentes que afectan a un sector sensible, como es el de la infancia y la juventud.
+Por ello se considera que existe una razón imperiosa de interés general, básicamente de seguridad pública que justifica la existencia del registro autonómico. El registro de estas actividades permitirá que la administración pueda revisar el proyecto antes de su puesta en marcha, sin perjuicio de su revisión una vez registrada.
+En el caso de actividades no permanentes, como la misma palabra indica, existen unas cláusulas accesorias que limitan el derecho que supone la pérdida del carácter absolutamente reglado del otorgamiento en favor de su naturaleza «negocial», y por lo tanto tienen un carácter discrecional, no arbitrario, las cuales se otorgarán considerando un interés público con criterios económicos y sociales, y se entenderá que son de carácter puntual, y sólo por el tiempo imprescindible necesario al interés público.
+Estos tipos de actividades son muy diferentes y, por lo tanto, es muy difícil realizar una clasificación simple y con unos requisitos concretos, por todo ello, se han integrado todos los casos que existían anteriormente con una casuística muy larga y engorrosa y se ha sustituido por una clasificación con dos tipologías más abiertas, ya que en todo caso la finalidad era análoga.
+En las actividades no permanentes mayores, a causa de su corta temporalidad y el gran impacto tanto a escala técnica como económica y social, se ha optado por un régimen de autorizaciones teniendo en cuenta las razones imperiosas de interés general de orden público, seguridad pública, salud pública, protección del medio ambiente y del entorno urbano, entre otros, y con silencio negativo, ya que si no se lleva a cabo un control previo o al instante es imposible realizar un control a posteriori. No obstante, en las actividades no permanentes menores, como el impacto es muy inferior, se ha optado por un silencio positivo, aunque se trate de una autorización de carácter discrecional, para forzar que la administración se pronuncie y cree criterios transparentes.
+V
+La ley ha realizado una transferencia de responsabilidad hacia los titulares y sus técnicos, y ha trasladado el control administrativo hacia la vigilancia e inspección de las actividades durante su inicio y funcionamiento, lo que implicará una nueva dinámica donde la inspección será el fundamento básico sobre el cual girarán las garantías legales y la seguridad jurídica. Todo ello repercutirá, a la larga, en la estructura orgánica de las administraciones, que adaptarán las funciones y las tareas de sus empleados públicos para cumplir con el nuevo reto.
+Como se ha facilitado el inicio y el ejercicio depositando la confianza en el titular y sus técnicos, se ha reforzado el capítulo de infracciones y sanciones, y se ha dotado de más autoridad a la administración para controlar la actividad y, si cabe, facilitar su paralización.
+Este principio no excluye la necesidad de la inspección municipal a posteriori, que se realizará obligatoriamente en muchos casos a consecuencia de la aplicación de la Directiva europea de servicios. Tanto es así, que la ley prevé la posibilidad de realizar campañas de inspección específicas por parte de la comunidad autónoma de las Illes Balears, y a los consejos insulares les encomienda dar apoyo a los ayuntamientos que lo necesiten. La simplificación administrativa previa en la tramitación de las licencias de obras y de actividades nos lleva, necesariamente, a la inspección in situ de la actividad. Las obligaciones que han alcanzar los interesados derivan de esta obligación impuesta a los ayuntamientos de comprobar, una vez iniciada la actividad, su legalidad y adecuación a los proyectos presentados.
+Para la mejora de la eficacia de la inspección y del procedimiento de infracción y sanción, la ley prevé: a) La obligación de la administración de promover la inspección para detectar actividades clandestinas, ya que hoy en día el método de control de la administración resulta perverso, tiene más probabilidades de que sea inspeccionado un titular que haya tramitado un expediente que un titular de una actividad totalmente clandestina. b) La creación de un plan de inspección, que será una herramienta que permita conseguir más calidad y rigor técnico, para que se garantice una actuación inspectora más uniforme, concreta, transparente y objetiva, de manera que se hagan más inspecciones y menos profundas. c) El análisis de las causas que provoquen más irregularidades. d) La realización por parte de la Administración de la comunidad autónoma de las Illes Balears de inspecciones por campañas de estas causas, con la remisión de las actas a la autoridad competente para provocar la dinamización de la labor inspectora municipal. e) La obligación de realizar inspecciones a nuevas actividades. f) La reducción de la cuantía de las sanciones, ya que las actuales, en la práctica, han cohibido la inspección a causa de sus consecuencias.
+Diferentes leyes han exonerado, por separado, de la obtención de la licencia de apertura y funcionamiento de forma heterogénea y confusa. En esta ley se ratifica esta exoneración para dar más seguridad jurídica, sin embargo, se crea un régimen especial común que permita estudiar la problemática real y que facilite la actividad inspectora.
+VI
+Entre otras singularidades de la ley, se prevé, a través de resolución del consejero competente en la materia, la publicación de modelos oficiales de documentos para la administración y los promotores, que permitirá, entre otras cosas, la mejora de su interpretación y aplicación, unificar criterios de funcionamiento de las administraciones y dar un paso más hacia la administración electrónica.
+Con la perspectiva que dan los años, por una parte, y las obligaciones impuestas por la Directiva 2006/123/CEE, de 12 de diciembre, por otra, la regulación de las actividades se ha simplificado de manera muy considerable en diferentes direcciones: otorgando a los ayuntamientos casi todas las competencias, integrando procedimientos, coordinando las actuaciones de la administración, evitando la dispersión de trámites hacia otras administraciones, reduciendo la casuística y, consecuentemente, eliminando y reduciendo procedimientos.
+La tramitación municipal para ejercer una actividad, sin eludir los objetivos fundamentales, que son la seguridad, la salubridad y el medio ambiente que repercuten en la calidad de vida, no puede convertirse en una carrera insalvable de obstáculos que durante años ha dificultado el desarrollo económico normal a causa principalmente de la disparidad de trámites de diferentes administraciones que son necesarios para ejercer la actividad. En todo caso, una norma que simplifica trámites y evita gastos e inconvenientes a los ciudadanos será siempre bienvenida. Lo importante, sin embargo, es que también las mismas administraciones actúen en consonancia, eliminen o simplifiquen la burocracia interna para que esta norma sea realmente efectiva.
+Se derogan la Ley 16/2006, parte de la Ley 12/2010, parte del Decreto Ley 7/2012 y la Ley 13/2012, para formar un único cuerpo legislativo compacto y único, tal y como aconseja la práctica jurídica.
+Como resumen final de esta exposición, la ley aspira a llegar a un equilibrio entre la libertad de establecimiento y la garantía que alcanza el objeto de la ley, dar una seguridad jurídica y económica al titular, en la que la tramitación genere normalmente las pruebas administrativas, para que en caso de conflicto entre titular, técnico, administración o ciudadanos, todos puedan ir ante los tribunales con las suficientes garantías. También se pretende llegar a un buen equilibrio sobre las responsabilidades de las partes, donde cada actor sea consecuente de sus actos, y en relación a las administraciones, salvaguardando su autonomía, se garantice la coordinación adecuada que provoque una sinergia a favor de la sociedad, por todo ello, se favorecen en esta ley los mecanismos para pasar de una administración pasiva e intervencionista a una administración activa y de servicios hacia los ciudadanos que cree un valor añadido a la sociedad y mejore su calidad de vida.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Disposiciones comunes
+
+### Artículo 1
+
+Artículo 1. Objeto de la ley.
+1. La presente ley regula el régimen jurídico y el procedimiento de intervención administrativa de las obras, la instalación, la apertura y el ejercicio de actividades, tanto de titularidad pública como privada, así como las condiciones de los establecimientos que acojan estas actividades.
+2. La intervención administrativa tiene como finalidad garantizar las condiciones de seguridad de personas y bienes, la salubridad, el desarrollo sostenible y la preservación del medio ambiente, el uso racional de los recursos, la prevención de riesgos laborales, así como la defensa de los intereses de la infancia, la juventud y la calidad de vida de todos los ciudadanos desde la solidaridad colectiva.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. Quedan sometidas a la presente ley todas las actividades y las infraestructuras comunes, de titularidad pública o privada, susceptibles de ocasionar molestias, alterar las condiciones de salubridad, causar daños al medio ambiente o producir riesgos para las personas o los bienes que se desarrollen o se ubiquen en las Illes Balears, independientemente de que las personas titulares o promotoras sean entidades públicas, personas físicas o jurídicas, y tengan o no finalidad lucrativa, se realicen en instalaciones fijas, portátiles, desmontables, de manera habitual o esporádica y en espacios abiertos o cerrados.
+2. Quedan excluidos del ámbito de aplicación de la presente ley:
+a) Las actividades expresamente excluidas por una ley estatal o autonómica.
+b) Las actividades afectas a la defensa nacional, a las fuerzas y a los cuerpos de seguridad del Estado, a los cuerpos de la policía autonómica, a los de la policía local, a instituciones penitenciarias y a las que acrediten documentalmente las normas o los tratados que amparan su derecho a la exclusión.
+c) Los aparcamientos vinculados a una única vivienda. No se excluyen del ámbito de aplicación los aparcamientos donde existan infraestructuras comunes.
+d) Las instalaciones técnicas no vinculadas a una actividad y las vinculadas a viviendas.
+e) La instalación de placas solares térmicas y fotovoltaicas, antenas de telefonía móvil, estaciones base de telefonía móvil y similares, excepto las situadas en edificios catalogados o que tengan impacto en el patrimonio histórico-artístico, y las que precisen una evaluación de impacto ambiental conforme a la Ley 11/2006, de 14 de septiembre.
+f) Estancias turísticas en viviendas.
+g) El transporte de viajeros y mercancías.
+h) Las actividades relacionadas con el destino o la naturaleza de las fincas referidas en el artículo 21 de la Ley 6/1997, de 8 de julio, del suelo rústico de las Illes Balears, que se regirán por su normativa específica, a menos de que se trate de actividades sujetas a una evaluación de impacto ambiental conforme a su normativa reguladora. La administración enviará las denuncias y cualesquiera otras actuaciones a la administración competente en materia de agricultura para su resolución.
+i) Las modalidades de venta ambulante, excepto los casos en que los bienes sean transformados o manipulados en la propia instalación.
+j) La instalación de puntos de recarga para vehículo eléctrico y su recarga energética, independientemente de su titularidad, tanto en nuevas actividades como en las ya existentes. No obstante, no exime del título habilitante la actividad que la contiene en caso necesario, ni de las autorizaciones sectoriales que correspondan.
+k) Las modalidades de turismo activo, excepto los establecimientos o las instalaciones que se utilicen para el desarrollo de la actividad.
+l) Oficinas administrativas de despachos profesionales que pertenezcan a la vivienda siempre que la oficina tenga menos de 50 m2 útiles afectos a la actividad. El titular de la oficina podrá realizar una comunicación ante el ayuntamiento a efectos de acreditar la realización de la actividad.
+m) Las actividades sujetas a autorización ambiental integrada, que se regirán por su normativa específica.
+3. (Derogado).
+4. No obstante lo dispuesto en el artículo 2.2.h), se aplicarán los procedimientos previstos en esta ley a las actividades relacionadas con el destino o la naturaleza de las fincas referidas en el artículo 2.1 de la Ley del suelo rústico cuando requieran una evaluación de impacto ambiental conforme a su norma reguladora.
+5. Sin perjuicio de cumplir con la normativa vigente en materia de orden público y de seguridad ciudadana, se excluyen del ámbito de aplicación de esta ley los actos esporádicos o eventuales, de carácter privado o familiar, siempre que no estén abiertos a pública concurrencia y que no tengan lugar en establecimientos físicos o espacios públicos. También se excluyen los actos esporádicos o eventuales de carácter educativo que se celebren en centros vinculados a la enseñanza.
+6. Igualmente, quedan excluidos del ámbito de aplicación de esta ley los actos que supongan el ejercicio de los derechos fundamentales consagrados en la Constitución Española, que se regularán por su normativa específica.
+Se deroga el apartado 3 y se añade la letra m) al apartado 2 por la disposición derogatoria única.a) y final 4, respectivamente, de la Ley 9/2022, de 23 de noviembre. Ref. BOE-A-2023-2978#dd
+ Se deroga la letra m) del apartado 2 por la disposición derogatoria única de la Ley 4/2021, de 17 de diciembre de 2021. Ref. BOE-A-2022-230
+ Se añade la letra m) al apartado 2 por la disposición final 2.1 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica el apartado 2 por el art. 1.1 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+ Se añade la letra j) al apartado 2 por la disposición final 8 de la Ley 4/2014, de 20 de junio. Ref. BOE-A-2014-7536
+
+### Artículo 3
+
+Artículo 3. Principios.
+Los principios en los que se fundamenta la presente ley y su aplicación, que rigen la actuación administrativa en materia de actividades, son los siguientes:
+1. El tracto sucesivo indefinido.
+El íter de una actividad empieza con la posibilidad de la instalación conforme a las previsiones del planeamiento, la redacción y la presentación de la documentación técnica. El uso y el mantenimiento de las condiciones previstas en el proyecto o la documentación técnica equivalente, de acuerdo con la normativa de aplicación, se garantizarán durante toda su existencia. La administración ejercerá el control y la inspección administrativa. Este íter finalizará con la comunicación de la baja de la actividad.
+2. La unidad.
+La actividad que se pretende desarrollar puede ser simple o multidisciplinar y, en cualquier caso, se considera única respecto a los titulares y el espacio físico, excepto los casos previstos en el artículo 48 de esta ley. Mediante el proyecto de actividad o documentación equivalente se coordinan todas las autorizaciones sectoriales, considerando el conjunto global, y deben tenerse en cuenta las medidas preventivas, correctoras y de control genéricas para la totalidad de la actividad, así como las específicas para cada una de las partes en concreto.
+3. La exclusividad.
+Cuando se inicie una nueva actividad que sustituye a una ya existente se producirá una novación de licencia y quedará sin efecto la anterior autorización, la comunicación previa o la declaración responsable de la actividad.
+En caso de querer realizar una modificación de la actividad existente se tendrán en cuenta las interacciones entre ésta y la parte modificada.
+Sólo puede limitarse el ejercicio de actividades multidisciplinares cuando concurran impedimentos técnicos para garantizar la seguridad, la salubridad, el medio ambiente y la protección de la infancia y la juventud.
+4. La normativa técnica por objetivos.
+Los reglamentos y las ordenanzas que desarrollen la presente ley se redactarán sobre la base de sistemas que puedan alcanzar unos objetivos determinados mediante parámetros mensurables, y podrán reglamentarse, excepcionalmente, otros métodos prescriptivos que permitan alcanzar los objetivos fijados.
+Se modifica el apartado 2 por el art. 2 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 4
+
+Artículo 4. Definiciones.
+A los efectos de esta ley se entiende por:
+1. Actividad: conjunto de operaciones o explotación de carácter agrario, industrial, minero, comercial, de servicio, ocio o similar que se lleva a cabo en un determinado establecimiento físico y que está integrado por una o más instalaciones técnicas. También tienen esta consideración las actividades itinerantes y las que se desarrollan de manera puntual en un establecimiento físico, al aire libre y/o abierto, y las que transcurran por un recorrido predeterminado.
+2. Actividades itinerantes: son las de entretenimiento y ocio o servicio que se hacen mediante instalaciones técnicas, aparatos, atracciones o similares, que son permanentes en el tiempo pero itinerantes en el espacio y que se ubican en diferentes emplazamientos, con una provisionalidad en cada uno de éstos inferior a tres meses.
+3. Actividades itinerantes mayores: son las que tienen elementos en movimiento que desplazan a los usuarios de la atracción mediante la aportación de energía externa a la misma persona usuaria, excepto que la aportación de energía provenga de una tercera persona.
+4. Actividades itinerantes menores: son las actividades itinerantes que no son actividades itinerantes mayores ni inocuas.
+5. Actividades itinerantes inocuas: son las actividades itinerantes autotransportables, que no necesitan acoplamiento de piezas, montajes exteriores ni anclajes, aunque requieran del despliegue de sus partes móviles, siempre que no se trate de actividades mayores.
+6. Actividades no permanentes: son las que se realizan de manera puntual en un establecimiento físico, lugar o recorrido concreto siempre que concurran algunos de los siguientes aspectos:
+a) Que se prevea una concurrencia de público superior a la ocupación habitual del lugar.
+b) Que la actividad que se quiere llevar a cabo no se corresponda con el uso habitual del establecimiento o lugar.
+c) Que el ejercicio de la actividad suponga una alteración del funcionamiento normal de las que se desarrollan habitualmente en el establecimiento, lugar o recorrido.
+En todo caso, la duración en el tiempo será la imprescindible para llevar a cabo la actividad. Estas actividades están excluidas de la evaluación de impacto ambiental.
+7. Actividades no permanentes mayores: son las que, por sus características, necesitan un control administrativo previo más estricto. Su régimen de autorización está motivado por una razón de interés general. Son las indicadas en el título IV del anexo I.
+8. Actividades no permanentes menores: son las actividades no permanentes que no son mayores ni inocuas, incluidas las que supongan la realización de recorridos, excepto las definidas en el apartado 10 de este artículo.
+9. Actividades no permanentes inocuas: son las indicadas en el título IV del anexo I y que por sus características no precisan aportar documentación técnica.
+10. Actividades no permanentes de recorrido: son las pruebas deportivas, marchas ciclistas y otros acontecimientos previstos en el Real decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos de motor y seguridad vial, aprobado por el Real decreto legislativo 339/1990, de 2 de marzo, o norma que lo sustituya, siempre que se lleven a cabo en vías públicas pavimentadas.
+11. Actividades permanentes: son las que se llevan a cabo con una duración indeterminada y que disponen de una infraestructura y un emplazamiento estables.
+12. Actividades permanentes mayores: se definen de acuerdo con los parámetros del conjunto de la actividad de conformidad con el título I del anexo I.
+13. Actividades permanentes menores: se definen de acuerdo con los parámetros del conjunto de la actividad de conformidad con el título II del anexo I.
+14. Actividades permanentes inocuas: se definen de acuerdo con los parámetros del conjunto de la actividad de conformidad con el título III del anexo I.
+15. Actividades permanentes multidisciplinares: son actividades permanentes distintas que se realizan de forma simultánea o no en un mismo espacio físico y que tienen el mismo titular.
+16. Actividades permanentes en espacio compartido: son actividades permanentes distintas e independientes que se realizan de forma simultánea o no en un mismo espacio físico y que tienen titulares diferentes.
+17. Actividades de concurrencia pública: se incluyen en este concepto las actividades de espectáculos públicos y actividades recreativas, así como otras destinadas a ocio, esparcimiento y recreo, restauración, reunión, deportivas, religiosas, culturales, sociales y las que congregan público o usuarios en general, siempre que no estén incluidas en otros usos definidos en la normativa técnica de la edificación.
+18. Actividades recreativas: son las que congregan público que acude con el objeto principal de utilizar o usar servicios, juegos, máquinas o aparatos, o para participar en las actividades que les ofrece una empresa con finalidades de ocio, entretenimiento, recreo o diversión, con o sin consumición de alimentos y bebidas, aisladamente o simultáneamente con otra actividad, siempre que tengan, además, carácter público.
+19. Actividades sujetas al régimen de autorización ambiental integrada: se definen de acuerdo con la normativa reguladora de la prevención y el control de la contaminación.
+20. Actividades supramunicipales no permanentes: son las que afectan a más de un municipio, porque se trata de actividades no permanentes de recorrido o porque están ubicadas en más de un municipio.
+21. Actividades supramunicipales permanentes: la instalación de la actividad permanente está ubicada en más de un municipio. El hecho de tener sucursales o servicios fuera del municipio no implica que se trate de actividades supramunicipales.
+22. Autorizaciones sectoriales: son las resoluciones, autorizaciones o inscripciones en un registro que están reguladas como requisito previo para iniciar una actividad de conformidad con su naturaleza y/o ubicación concretas. También tienen esta consideración las declaraciones responsables o comunicaciones previas necesarias para poner en funcionamiento instalaciones técnicas, así como las otras que estén reguladas por la normativa sectorial correspondiente y, si procede, las inspecciones técnicas reglamentarias hechas por los organismos de control acreditados.
+23. Capacidad acústica: nivel sonoro global correspondiente al período itinerante completo de evaluación.
+Donde:
+i representa cada una de las fases de ruido.
+Ti es la duración de la fase de ruido i, expresada en minutos. La suma de Ti debe ser T, donde T es la duración del período itinerante considerado.
+LAeq,Ti es el nivel de presión acústica continuo equivalente ponderado A, medido durante una fase de duración Ti.
+24. Centro colectivo: es el conjunto de edificaciones y equipamientos que está formado por infraestructuras comunes, establecimientos físicos y/o establecimientos físicos susceptibles de actividades por determinar, donde se ejerce o se explota una o más actividades.
+25. Encargado en caso de inspección: es la persona titular de la actividad, y, en caso de ausencia, quien la represente legalmente, el personal empleado debidamente autorizado o las personas que estén al frente de la actividad en el momento de una inspección.
+26. Espectáculos públicos: son los que congregan a público en general con el fin de presenciar actividades, representaciones, actuaciones, proyecciones, competiciones o exhibiciones de naturaleza artística, cultural o deportiva o actividades de otro tipo dirigidas al entretenimiento en tiempo libre ofrecidas por una empresa, una entidad o una institución y llevadas a cabo por artistas, deportistas o ejecutantes.
+27. Establecimiento físico: cualquier recinto, espacio o infraestructura estable, delimitado y diferenciado, a partir del cual se desarrollan unas o más actividades. Pueden tener también esta consideración vehículos, remolques y similares, debidamente adecuados a esta finalidad.
+28. Establecimiento físico susceptible de actividades por determinar: es el establecimiento en el cual el continente está técnicamente preparado para alojar diferentes actividades por determinar dentro de un abanico de usos permitidos por la normativa urbanística, los cuales pueden ser limitados por el promotor. En el proyecto deben determinarse las condiciones mínimas que debe tener el continente del establecimiento para que sea capaz de soportar el abanico de usos posibles determinados por el promotor. Para ello, debe preverse la reserva de los lugares, los espacios y las instalaciones técnicas comunes necesarios de manera que las actividades que se desarrollen a posteriori no puedan afectar negativamente a terceros ni estar condicionadas a la voluntad de terceros.
+29. Establecimientos públicos: son los establecimientos físicos destinados a ocio, esparcimiento y recreo, como restauración, reuniones, actividades deportivas, religiosas, culturales, sociales y las que congregan a público o usuarios en general y que no estén incluidas en otros usos definidos en la normativa técnica de la edificación.
+29 bis. Fiestas ilegales: son las reuniones o acontecimientos multitudinarios de ocio y entretenimiento que, con ánimo de lucro, se llevan a cabo en espacios que no tienen la consideración de establecimiento público y se organizan y comercializan fuera de los canales convencionales de la oferta legal. Es característico de estas fiestas, aunque no se dé en todos los casos, que impliquen una aglomeración de personas; que se lleven a cabo en una vivienda o en un espacio que no cuenta con las medidas legalmente exigibles para garantizar la seguridad de las personas y sus bienes; que se consuman bebidas alcohólicas; que ofrezcan actividad musical; que habitualmente haya servicios de transporte para los usuarios.
+30. Instalación: unidad o conjunto de equipamientos, maquinaria, infraestructuras y otros elementos físicos necesarios para llevar a cabo una actividad, incluidas las vías de evacuación.
+31. Infraestructuras comunes: son las instalaciones técnicas y las zonas de un edificio o de un conjunto de edificios que dan servicio a establecimientos físicos susceptibles de actividades por determinar o a actividades concretas. Las infraestructuras comunes condicionan en cada establecimiento físico el abanico de usos posibles y los parámetros o las características mínimas o máximas de las actividades que pueden ser soportadas, los cuales deben fijarse en el proyecto de actividad. La tramitación será la establecida en el capítulo II del título IV.
+32. Entidades colaboradoras en materia de actividades (ECAC): son las personas físicas y jurídicas que, reuniendo los requisitos legalmente establecidos, están facultadas para llevar a cabo los informes, las revisiones, las inspecciones y el resto de tareas que, en materia de actividades, prevé esta ley y la normativa que la desarrolle.
+33. Permiso de instalación: es el título habilitante que legitima la realización de obras e instalaciones para llevar a cabo una actividad o para modificar una ya existente, de acuerdo con esta ley.
+34. Personal del servicio de admisión y control de ambiente interno: es el personal encargado del control de acceso y permanencia de los usuarios en los espectáculos públicos y las actividades recreativas.
+35. Proyecto de actividad: conjunto de documentación técnica en la que se definen y determinan las exigencias técnicas requeridas para desarrollar la actividad. El proyecto de actividad debe justificar técnicamente las soluciones propuestas de acuerdo con las especificaciones requeridas por la normativa técnica aplicable y, si procede, las soluciones técnicas alternativas.
+36. Proyecto integrado: es el que incluye los preceptos por obras y actividades debidamente coordinados y que pueden superponerse entre sí.
+37. Proyecto preliminar de actividades: documentación técnica que acompaña al proyecto básico de edificación y en la que se definen las características que, si no se tienen en cuenta en el estadio del proyecto básico de edificación, pueden provocar una situación de imposibilidad material de llevar a cabo la actividad que se pretende desarrollar.
+38. Proyecto tipo para las actividades itinerantes: es el proyecto de actividad adaptado a una actividad itinerante que, al ser itinerante, debe recoger las medidas correctoras para una ubicación idónea y para la seguridad de las personas usuarias.
+39. Superficie computable: es uno de los parámetros para la clasificación de las actividades permanentes y corresponde a la suma de la superficie edificada más el 50% de la superficie al aire libre afecta a la actividad. No computarán la superficie con tierra natural ni las zonas complementarias ajardinadas exteriores al edificio.
+40. Riesgo grave e inminente: el que resulta probable racionalmente que se materialice en un futuro inmediato y que pueda suponer un daño grave para la salud de las personas o para el medio ambiente.
+41. Técnico o técnica competente: es la persona responsable con la titulación académica y profesional adecuada, de acuerdo con las normativas que regulan las competencias profesionales.
+42. Técnico o técnica de parte: es el técnico o la técnica contratado por la persona titular de una actividad.
+43. Técnico director o técnica directora: es la persona responsable, con la titulación académica y profesional adecuada, que forma parte de la dirección facultativa y que dirige el desarrollo de la instalación de actividad, incluidas en su caso las obras que se realicen, en los aspectos técnicos de seguridad, salubridad y medioambientales, de conformidad con el proyecto de actividades que la define, el permiso de inicio de instalación de la actividad y sus condicionantes, y de otras autorizaciones preceptivas, todo ello con el objetivo de asegurar la adecuación de la actividad a la finalidad propuesta. Bajo su dirección, puede coordinar a otros técnicos que gestionan proyectos parciales.
+44. Técnico redactor o técnica redactora: es la persona responsable, con la titulación académica y profesional adecuada, que redacta el proyecto de actividad y el resto de documentación técnica necesaria.
+45. Título habilitante: es el documento que habilita para iniciar y ejercer la actividad, o para instalar y ejecutar obras, como el permiso de instalación, la comunicación previa de instalación y obras, la declaración responsable de inicio y ejercicio de la actividad, la autorización de inicio y ejercicio de la actividad y similares.
+46. Titular: cualquier persona física o jurídica o entidad constituida de conformidad con la legislación de un estado miembro de la Unión Europea que lleve a cabo, ofrezca o promueva una actividad determinada. Se entiende que es el titular la persona que indique el título habilitante correspondiente o la que lo ha solicitado.
+Se modifica el apartado 3 por la disposición final 3.1 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-3
+ Se modifica el apartado 3 por la disposición final 3.1 del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#df-3
+ Se deja sin efecto la modificación del apartado 3 por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025. Ref. BOIB-i-2025-90242, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre.
+ Se modifica el apartado 3 por la disposición final 4.1 del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+ Se añade el apartado 29 bis por el art. único.1 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#au
+ Se modifica por el art. 3 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 5
+
+Artículo 5. Clasificación de actividades.
+1. A los efectos de esta ley se distinguirá entre las actividades sujetas al régimen de autorizaciones ambientales integradas y las que no lo están.
+2. Las actividades que no están sujetas al régimen de autorizaciones ambientales integradas, según sus características y los criterios de estabilidad en la ubicación y de permanencia en el tiempo y el espacio, pueden ser: actividades permanentes, actividades no permanentes y actividades itinerantes.
+a) Las actividades permanentes se pueden clasificar en:
+1. Actividades permanentes mayores, que incluyen las instalaciones de infraestructuras comunes y las destinadas a actividades en espacios compartidos.
+2. Actividades permanentes menores.
+3. Actividades permanentes inocuas.
+b) Las actividades no permanentes se pueden clasificar en:
+1. Actividades no permanentes mayores.
+2. Actividades no permanentes menores.
+3. Actividades no permanentes inocuas.
+4. Actividades no permanentes de recorrido.
+c) Las actividades itinerantes se pueden clasificar en:
+1. Actividades itinerantes mayores.
+2. Actividades itinerantes menores.
+3. Actividades itinerantes inocuas.
+3. Quedan expresamente prohibidas en toda clase de inmuebles y espacios, en toda clase de suelo, con independencia de su clasificación urbanística, la organización, la comercialización, la publicidad o la celebración de fiestas ilegales según la definición del apartado 29 bis del artículo anterior.
+Se añade el apartado 3 por el art. único.2 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#au
+ Se modifica el apartado 2 por el art. 4 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 6
+
+Artículo 6. Competencias de intervención sobre las actividades.
+1. Los ayuntamientos son las administraciones competentes para tramitar los expedientes, inspeccionar y ejercer la potestad sancionadora sobre las actividades sujetas a la presente ley que se desarrollen íntegramente dentro de sus municipios siempre y cuando no sean actividades incluidas en el punto 4 de este artículo.
+2. Los consejos insulares son las administraciones competentes para:
+a) Tramitar los expedientes, inspeccionar y ejercer la potestad sancionadora en actividades supramunicipales sujetas a esta ley y que se desarrollen íntegramente en su isla, siempre que no sean actividades incluidas en el punto 4 de este artículo. Son en todo caso competencia del consejo insular las actividades no permanentes que promueva u organice en el ámbito de su isla, sin perjuicio de la eventual colaboración que puedan prestar otras administraciones territoriales.
+b) Expedir y renovar las acreditaciones profesionales del personal del control de admisión y control de ambiente interno en las actividades de espectáculos públicos y recreativas, así como ejercer las potestades sancionadoras sobre esta materia.
+3. La comunidad autónoma de las Illes Balears, a través de la consejería competente en materia de actividades y espectáculos públicos, es la administración competente para:
+a) Tramitar los expedientes, inspeccionar y ejercer la potestad sancionadora sobre actividades suprainsulares sujetas a esta ley, siempre que no sean actividades incluidas en el apartado 4 de este artículo.
+b) Gestionar el Registro Autonómico de Actividades y el Registro de acreditación del personal de los servicios de admisión y control de ambiente interno en las actividades de espectáculos públicos y actividades recreativas.
+c) Inspeccionar y ejercer la potestad sancionadora sobre las atracciones o máquinas de actividades itinerantes en relación con su inscripción en el Registro Autonómico de Actividades, sin perjuicio de que la inspección y la potestad sancionadora de la instalación de estas actividades corresponda a los ayuntamientos.
+d) Inspeccionar cualquier actividad en la que sea de aplicación esta ley, siempre que se realicen mediante campañas de acuerdo con el artículo 90.2.
+4. La Comunidad Autónoma de las Illes Balears, a través de la consejería competente en materia de medio ambiente, es la administración competente para tramitar los expedientes, inspeccionar y ejercer la potestad sancionadora sobre actividades sujetas al régimen de autorización ambiental integrada. Es también la administración competente para la gestión del registro autonómico de actividades sujetas al régimen de autorización ambiental integrada.
+Se modifican los apartados 2 y 3 por el art. 5 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 7
+
+Artículo 7. Condiciones generales de funcionamiento de las actividades e instalaciones y de ejecución de proyectos.
+Las actividades objeto de esta ley y las instalaciones vinculadas a ellas serán proyectadas, instaladas, utilizadas, mantenidas y controladas de forma que se alcancen los objetivos de seguridad y calidad ambiental que determina la legislación vigente, y cumplirán las condiciones generales de funcionamiento establecidas en el permiso o en la licencia, así como el resto de la normativa sectorial de aplicación.
+
+### Artículo 8
+
+Artículo 8. Concurrencia de autorizaciones, acuerdos y/o informes.
+1. El cumplimiento de las medidas de prevención de seguridad, salubridad y medioambientales establecidas en la presente ley no exime de la obtención de otras autorizaciones, declaraciones responsables, acuerdos e informes pertinentes o comunicaciones exigibles conforme a la normativa sectorial.
+2. La normativa sectorial podrá justificarse en el proyecto o en la documentación técnica ante la administración competente en materia de actividades de la siguiente manera:
+a) En caso de actividades nuevas o existentes con instalaciones nuevas que necesiten autorizaciones sectoriales, se justificará mediante la previsión de estas autorizaciones sectoriales y la determinación de las condiciones de coordinación.
+b) En caso de actividades nuevas con instalaciones existentes que dispongan de autorización sectorial, bastará justificar que el uso, desde el punto de vista de la normativa sectorial, es el mismo que se autorizó y que no ha habido modificaciones posteriores que necesiten una nueva autorización sectorial.
+c) En caso de que no haya autorizaciones específicas, se justificará el cumplimiento de la normativa que corresponda en la documentación técnica.
+En el caso de instalaciones técnicas industriales, esta justificación puede sustituirse por una certificación de idoneidad de la instalación, acompañada de un esquema de principio, emitida por una entidad colaboradora de la administración o por una ECAC.
+En otros casos, excepcional y motivadamente, esta justificación puede substituirse por una certificación de idoneidad de la instalación, acompañada de un esquema de principio, emitida por una entidad colaboradora de la administración o por una ECAC.
+Esta documentación deberá contener el número y la fecha del registro de entrada de la Dirección General de Industria.
+3. En cualquier caso, para poder iniciar y ejercer una actividad será necesario disponer de las autorizaciones sectoriales exigibles.
+
+### Artículo 9
+
+Artículo 9. Documentación técnica.
+Una vez presentada ante la administración competente la solicitud, la comunicación previa o la declaración responsable que corresponda acompañada de la documentación técnica, ésta adquiere el carácter de documento oficial, y de la exactitud y de la veracidad de los datos técnicos consignados responde el técnico o la técnica que la suscribe. La persona titular responde del mantenimiento de las condiciones que en ella se imponen.
+
+### Artículo 10
+
+Artículo 10. Seguros.
+1. El titular debe contratar y mantener en vigor un seguro durante el ejercicio de la actividad en el establecimiento físico o en el lugar donde se desarrolle, que cubra la responsabilidad civil por daños corporales, materiales y las secuelas derivadas, ocasionados a terceras personas. Este seguro es obligatorio con carácter general para todas las actividades reguladas en esta ley, excepto para las permanentes inocuas, que es potestativo, sin perjuicio de que el seguro pueda venir exigido por la normativa específica de la actividad.
+Asimismo, cuando se trate de una actividad de espectáculo público o recreativa, el seguro no puede excluir de la responsabilidad civil de la actividad la derivada de los daños ocasionados al público asistente o a terceras personas a causa de incendio o explosión. En caso de actividades no permanentes menores o inocuas, el órgano competente, motivadamente, puede eximir del seguro, sin perjuicio de la responsabilidad que pueda derivarse.
+En caso de actividades no permanentes menores, el órgano competente, motivadamente, podrá eximir del seguro, sin perjuicio de la responsabilidad que se pueda derivar de ellas.
+2. Los técnicos titulados profesionales deberán cubrir, mediante un seguro, y por un período mínimo de dos años desde su última actuación, los riesgos de responsabilidad civil en que puedan incurrir a consecuencia de su ejercicio profesional en materia de actividades, sin perjuicio de la responsabilidad que se pueda derivar de ello.
+Esta obligación no será exigible cuando los derechos a terceros estén garantizados en virtud de otra legislación aplicable a la actividad de que se trate, o en virtud de un acuerdo de aplicación general con la misma finalidad.
+3. Las actividades de titularidad pública no necesitarán seguro. La responsabilidad de las Administraciones Públicas se exigirá conforme a lo previsto en el título X de la Ley 30/1992.
+Se modifica el apartado 1 por el art. 6 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 11
+
+Artículo 11. Modificaciones de las actividades.
+1. Las actividades existentes pueden ser objeto de modificaciones que deben tramitarse de acuerdo con lo establecido en esta ley.
+También pueden ser objeto de modificación las instalaciones que dan servicio al ejercicio de la actividad.
+2. Las modificaciones de las actividades pueden ser por la implantación de una nueva actividad o por la ampliación de la existente.
+Se considera ampliación de la actividad existente el aumento de la superficie afecta a la actividad o la ampliación en la capacidad en cuanto al número de usuarios siempre que supongan la ejecución de nuevas instalaciones o el cumplimiento de nuevas condiciones legalmente exigibles.
+El titular debe garantizar disponer de las instalaciones adecuadas y en buen estado de mantenimiento a fin de poder ejercer la actividad.
+3. Cuando la modificación de la actividad supone la implementación de una actividad diferente a la existente se produce la novación de la actividad, salvo que la nueva actividad conviva con la anterior, en cuyo caso la actividad en conjunto tiene el carácter de multidisciplinar.
+No tienen el carácter de multidisciplinares las actividades complementarias a una principal, como las actividades de servicios o recreo para los clientes o los trabajadores o las actividades complementarias previstas en la normativa turística, entre otras.
+Salvo que se trate de actividades complementarias, la implantación de una nueva actividad o la ampliación de la existente solo es posible si el uso urbanístico está permitido.
+4. Las instalaciones afectas a actividades pueden ser objeto de modificaciones que impliquen su ampliación, mejora, reparación o mantenimiento. Es responsabilidad del titular conservar las instalaciones y garantizar su adecuado funcionamiento.
+5. Deben tramitarse de conformidad con lo establecido en esta ley las modificaciones de las instalaciones que impliquen:
+a) Una nueva actividad, incluidas las complementarias, o la ampliación de la actividad existente.
+b) La alteración de las condiciones de la seguridad contra incendios o la nueva emisión de contaminantes o impactos que impliquen una molestia potencial al vecindario.
+El resto de actuaciones sobre las instalaciones no tienen la consideración de modificaciones a los efectos de la presente ley, sin perjuicio del cumplimiento de la normativa que les sea de aplicación y de tener que obtener el correspondiente título habilitante urbanístico cuando corresponda.
+6. Las modificaciones de las instalaciones reguladas en esta Ley deben ajustarse a lo previsto en la normativa sectorial vigente en el momento de obtener el título habilitante que legitime la modificación, si bien no requieren que se adapten a la normativa vigente las instalaciones existentes que no son objeto de la modificación, salvo que la normativa sectorial establezca expresamente lo contrario.
+La adaptación de las instalaciones a la normativa vigente debe hacerse de acuerdo con la normativa sectorial en cada caso para las instalaciones existentes. Cuando la aplicación de esta normativa resulte inviable técnica o económicamente, se deben permitir soluciones técnicas alternativas siempre que proporcionen un nivel de eficacia equivalente a fin de garantizar el objeto de la ley.
+Se modifica por la disposición final 3.2 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-3
+ Se modifica por la disposición final 3.2 del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#df-3
+ Se deja sin efecto la modificación de este artículo por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025. Ref. BOIB-i-2025-90242, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre.
+ Se modifica por la disposición final 4.2 del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+ Se modifican los apartados 1 y 2 por la disposición final 3.1 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+ Se modifica por el art. 7 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+ Téngase en cuenta, sobre la inscripción en el Registro Autonómico de actividades lo previsto en la disposición transitoria 1 de la citada Ley.
+
+### Artículo 12
+
+Artículo 12. Transmisión y cambio de titular.
+1. El permiso de instalación o la comunicación previa de inicio de instalación y obras tiene carácter real y objetivo y por lo tanto se otorga el permiso o se realiza la comunicación según las condiciones del establecimiento físico.
+2. La transmisión de una actividad se hará mediante una comunicación donde se indicarán los datos del nuevo titular y del antiguo y los de la actividad, y será firmada por ambas personas. Tras producirse la transmisión, el nuevo titular se subrogará en los derechos, las obligaciones y las responsabilidades que de ello se deriven.
+3. En caso de que no haya transmisor de la declaración responsable de inicio y ejercicio de la actividad, se podrá hacer un cambio de titular de la actividad mediante una nueva declaración responsable de inicio y ejercicio de la actividad, en la cual se acreditará que se dispone del uso y disfrute del establecimiento físico dónde se desarrolla la actividad, y se adjuntará un certificado técnico suscrito por un técnico o una técnica competente que acredite que se mantienen las condiciones del título habilitante. Este cambio de titular dejará sin efecto la responsabilidad del antiguo titular.
+4. La administración competente comunicará al nuevo titular el estado actual de la tramitación del expediente que se traspasa, así como las eventuales medidas de suspensión, las enmiendas y similares, en el plazo máximo de un mes.
+
+### Artículo 13
+
+Artículo 13. Caducidad del título habilitante.
+La administración competente en materia de actividades puede declarar la caducidad del título habilitante de una actividad permanente, previa audiencia del último titular, cuando la actividad no se haya ejercido durante el plazo de dos años.
+A instancias del titular de la actividad, la administración autonómica puede suspender la inscripción en el Registro de actividades itinerantes de las actividades itinerantes mayores por un periodo máximo de tres años. La suspensión de la inscripción de la actividad no interrumpe el plazo de presentación de la revisión periódica, pero sí exime al titular del deber de presentarla hasta que no se pida el levantamiento de la suspensión. Una vez transcurrido el plazo de tres años sin que se inste el levantamiento de la suspensión, la administración acordará la baja de la actividad, previa audiencia del titular.
+Se modifica por la disposición final 3.3 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-3
+ Se modifica por la disposición final 3.3 del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#df-3
+ Se deja sin efecto la modificación de este artículo por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025. Ref. BOIB-i-2025-90242, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre.
+ Se modifica por la disposición final 4.3 del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+
+### Artículo 14
+
+Artículo 14. Documentación de la cual se debe disponer obligatoriamente en el lugar donde se ejerce la actividad.
+El titular tendrá que disponer, en el lugar donde se ejerce la actividad, de los títulos habilitantes sobre la instalación y el funcionamiento, así como de la documentación técnica.
+Lo que establece el párrafo anterior no será necesario cuando la actividad esté inscrita en los registros de actividades y la documentación sea accesible por medios telemáticos.
+
+### Artículo 15
+
+Artículo 15. Vinculación obras-actividades en las actividades permanentes.
+1. Cuando la edificación de un inmueble se destine específicamente a una o varias actividades con unas características determinadas y uno o varios usos específicos, la obra y la actividad deben tramitarse en un único procedimiento para adecuarlas a los niveles de seguridad, salubridad y medio ambiente adecuados, y para garantizar el cumplimiento de la normativa urbanística. Este procedimiento puede constar de proyectos integrados o de proyecto de actividad y proyecto de obra debidamente coordinados, garantizando el cumplimiento de la normativa de actividades y urbanística.
+Cuando se trate de edificios con varias actividades o establecimientos físicos susceptibles de actividades por determinar o de un centro colectivo, el permiso de instalación debe incluir la realización de las obras y las infraestructuras comunes.
+2. En la construcción o reforma de edificios destinados a actividades o de edificios cuyo uso predominante sea el residencial y en los cuales se prevea la construcción de establecimientos físicos susceptibles de actividades, no se aportará ningún proyecto de actividades si la determinación de las actividades que se quieran llevar a cabo es desconocida. Para el otorgamiento de las licencias urbanísticas, el proyecto de obra que se presente incorporará el contenido que sobre estos tipos de actuación prevé el anexo II. Este contenido se puede presentar también como documentación técnica anexa al proyecto básico.
+3. Las obras de reforma, modernización o mantenimiento de los edificios destinados predominantemente o no al ejercicio de actividades, cuando estas obras no supongan la modificación de las condiciones de los títulos habilitantes de las actividades existentes, incluidas las infraestructuras comunes, no deben presentar ningún proyecto de actividad de acuerdo con esta ley.
+4. Para el otorgamiento de las licencias urbanísticas para la construcción de edificios cuyo uso predominante sea el residencial y donde se prevean aparcamientos, el proyecto de obra que se presente incorporará el contenido que sobre este tipo de actuación prevé el anexo II, que se puede presentar también como documentación técnica anexa al proyecto básico, salvo que se presente ya el proyecto de actividad del aparcamiento completo. Si no se ha presentado antes, el proyecto de actividad del aparcamiento se presentará junto con el de ejecución de la obra. Estos aparcamientos no tienen la condición de actividades a los efectos de esta ley y no deben presentar ninguna declaración responsable para el inicio y el ejercicio de la actividad de aparcamiento.
+5. Será nula de pleno derecho cualquier licencia urbanística otorgada en contra de lo previsto en los apartados anteriores.
+Se modifican los apartados 2, 3 y 4 por la disposición final 3.2 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+ Se modifica por el art. 8 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 16
+
+Artículo 16. Segregaciones.
+Las divisiones, segregaciones o cualquier otra operación o negocio jurídico que, directa o indirectamente, suponga un incremento del número de establecimientos con respecto a los autorizados deberán obtener la autorización correspondiente, de acuerdo con la normativa urbanística.
+Se modifica por el art. 9 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## TÍTULO II
+
+Disposiciones relativas a las actividades de espectáculos públicos y recreativas, y establecimientos públicos
+
+### Artículo 17
+
+Artículo 17. Procedimiento de instalación e inicio y ejercicio de actividades de espectáculos públicos y recreativas, y establecimientos públicos.
+El procedimiento para instalar, ejecutar obras, iniciar y ejercer las actividades de espectáculos públicos y recreativas, y establecimientos públicos se corresponderá, según sus parámetros, con los procedimientos previstos para las actividades permanentes o no permanentes.
+
+### Artículo 18
+
+Artículo 18. Placa exterior.
+Las actividades permanentes de espectáculos públicos y actividades recreativas dispondrán en la fachada, cerca de la entrada o las entradas, de forma visible y legible, de una placa en la que se indicará el aforo máximo permitido, el número de registro autonómico y los datos más importantes. Reglamentariamente, se determinarán las características y las condiciones de expedición de las placas.
+Se expondrá al público una copia del certificado de inscripción en el registro autonómico de actividades con un resumen de las características más relevantes.
+
+### Artículo 19
+
+Artículo 19. Derecho de admisión.
+1. El personal de las actividades de espectáculos públicos y recreativas, y establecimientos públicos ejercerá el derecho de admisión respetando la dignidad de las personas y sus derechos fundamentales y no podrá implicar ningún tipo de discriminación, tanto respecto al acceso como a la permanencia, así como al uso y disfrute de los servicios que presten.
+2. Los titulares de espectáculos públicos, actividades recreativas y establecimientos públicos regulados en la presente ley impedirán el acceso y la permanencia de personas cuando el aforo establecido esté completo, se sobrepase el horario de cierre reglamentario y cuando no tengan la edad mínima establecida para entrar en la actividad, según la normativa vigente, así como cuando manifiesten comportamientos violentos o produzcan molestias a otros espectadores y personas usuarias, que dificulten el normal desarrollo de la actividad, o que atenten contra algún derecho fundamental reconocido en la Constitución.
+3. Sin perjuicio de lo dispuesto en los anteriores apartados, los titulares podrán establecer condiciones de admisión y permanencia, así como instrucciones o normas particulares para el normal desarrollo de la actividad, las cuales estarán conformes con la legislación vigente. Un extracto de éstas deberá figurar de forma fácilmente legible en un lugar visible en la entrada y los puntos de venta de las entradas.
+
+### Artículo 20
+
+Artículo 20. Obligaciones de los titulares de las actividades de espectáculos públicos y recreativas, y establecimientos públicos.
+1. Los titulares de las actividades están obligados a:
+a) Adoptar las medidas de seguridad y salubridad dispuestas con carácter general o que se especifiquen en el correspondiente título habilitante y mantener en todo momento los establecimientos y las instalaciones en perfecto estado de funcionamiento.
+b) Realizar las comprobaciones periódicas que sean obligatorias según la normativa vigente.
+c) Permitir y facilitar las inspecciones que acuerden las administraciones competentes.
+d) Tener a disposición del público y de los servicios de inspección las hojas de reclamaciones y las instrucciones o normas particulares de admisión y permanencia.
+e) Permitir la entrada del público, excepto en los supuestos establecidos legal y reglamentariamente.
+f) Realizar la actividad conforme a las condiciones ofertadas, exceptuando casos de fuerza mayor.
+g) Establecer un servicio de admisión y control de ambiente interno y un servicio de vigilancia en los supuestos señalados reglamentariamente. En caso de que se trate de dos servicios independientes, si no se determina una única persona que asumirá in situ la seguridad de la actividad, responderán solidariamente los dos servicios. La dotación mínima será proporcional al aforo y a los riesgos existentes.
+h) Informar de las variaciones de orden, fecha o contenido de la actividad a llevar a cabo, en los lugares en que habitualmente se fije la propaganda y en los despachos de localidades.
+i) Concertar y mantener vigente el oportuno contrato de seguro en los términos que se determinen reglamentariamente.
+j) Conservar, en el local de emplazamiento de la actividad, una copia del título habilitante correspondiente, de la documentación técnica del expediente y de las autorizaciones sectoriales correspondientes.
+k) Cumplir todas las obligaciones que, además de las señaladas, imponga la normativa aplicable en esta materia.
+l) Mantener un domicilio en las Illes Balears donde poder ser notificado fehacientemente los días laborables o disponer de sede electrónica de acuerdo con el artículo 28 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos. Si no se indica ningún domicilio, se considerarán domicilios hábiles a efectos de notificaciones el de la actividad y el que figure en la solicitud de licencia.
+2. Los titulares de las actividades podrán delegar las funciones que tengan asignadas por la normativa vigente al personal del servicio de admisión y control de ambiente interno.
+
+### Artículo 21
+
+Artículo 21. Artistas o ejecutantes.
+1. Los artistas tienen la obligación de:
+a) Llevar a cabo su actuación conforme a las normas que la regulen en cada caso.
+b) Guardar el respeto que corresponde al público.
+2. La intervención de artistas menores de edad está sometida a las condiciones y a los permisos que establece la normativa laboral y de protección del menor.
+
+### Artículo 22
+
+Artículo 22. Derechos de los espectadores, de los asistentes, de los usuarios y del público en general.
+1. Los espectadores, los asistentes, los usuarios y el público en general de este tipo de actividades tienen, entre otros, los siguientes derechos:
+a) Que el titular de la actividad respete los términos contractuales derivados de la adquisición de las correspondientes localidades.
+b) Que el titular de la actividad les facilite las hojas de reclamaciones para hacer constar la reclamación que estimen pertinente.
+c) A ser informados a la entrada sobre las condiciones de admisión y a no recibir un trato desconsiderado ni discriminatorio.
+2. El personal del servicio de admisión y control de ambiente interno es el encargado de garantizar los derechos de los espectadores, de los asistentes, de los usuarios y del público en general.
+
+### Artículo 23
+
+Artículo 23. Obligaciones de los espectadores, de los asistentes, de los usuarios y del público en general.
+1. El público deberá:
+a) Ocupar sus localidades o permanecer en las zonas señaladas en cada caso por el titular de la actividad, sin invadir las zonas destinadas a otros fines.
+b) Abstenerse de llevar armas u otros objetos que puedan usarse como tales, y exhibir símbolos, ropas u objetos que inciten a la violencia o supongan apología de actividades contrarias a los derechos fundamentales reconocidos en la Constitución y en especial que inciten al racismo o a la xenofobia.
+c) Cumplir los requisitos o las normas de acceso y de admisión establecidos con carácter general por el titular de la actividad y dados a conocer mediante letreros visibles colocados en los lugares de acceso.
+d) Abstenerse de acceder al escenario o lugar de actuación de ejecutantes o artistas, a no ser que esté previsto en el desarrollo de la actividad.
+e) Cumplir las instrucciones y las normas particulares establecidas por el titular para el desarrollo de la actividad. El personal del servicio de admisión y control de ambiente interno será el responsable del cumplimiento de estos requisitos.
+f) Respetar el horario de cierre.
+g) Guardar el debido comportamiento y evitar acciones que puedan crear situaciones de peligro o incomodidad al público en general y al personal de la empresa, o dificultar el desarrollo de la actividad.
+2. El titular de la actividad puede adoptar sus propias medidas preventivas, en el marco de los derechos constitucionales, para asegurar el desarrollo correcto de la actividad o del uso del servicio en los términos establecidos en la presente ley. Cuando la empresa observe el incumplimiento de las prohibiciones y limitaciones expuestas, podrá solicitar el auxilio de los y las agentes de la autoridad, que dispondrán, si procede, el desalojo de las personas infractoras, sin perjuicio de las acciones legales que correspondan.
+
+### Artículo 24
+
+Artículo 24. Protección de los menores.
+1. Sin perjuicio de las prescripciones de la normativa en materia de menores, drogodependencia, trastornos adictivos o publicidad, se establecen las siguientes prohibiciones:
+a) Queda prohibida la entrada y la permanencia por razón de edad a los menores de dieciocho años en casinos de juego, salas de bingo y zonas de las salas de juego, de acuerdo con lo que establece la normativa vigente en materia de juego. Igualmente, tienen prohibida la entrada y la permanencia en los locales de espectáculos públicos eróticos.
+b) Queda prohibida la entrada y la permanencia de menores de dieciséis años en actividades recreativas musicales, como salas de fiesta, salas de baile, discotecas, cafés concierto y similares. Excepcionalmente y hasta las 2:00 horas, se permitirá la entrada y la permanencia de menores de edad de entre catorce y dieciséis años siempre que vayan acompañados de personas adultas autorizadas por los padres o tutores que velen por su integridad física y moral.
+Se excluyen de esta limitación las salas con autorización de sesiones para menores de edad o salas de juventud, donde se permitirá la entrada y la permanencia de mayores de catorce años y no mayores de dieciocho.
+c) Por lo que respecta a los espectáculos con animales, se estará a las previsiones de la Ley 1/1992, de 8 de abril, de protección de los animales, o a la normativa que la sustituya.
+d) No se pueden vender ni suministrar bebidas alcohólicas ni tabaco, y tampoco permitir su consumo en espectáculos públicos, actividades recreativas y establecimientos públicos a las personas menores de dieciocho años. Este punto se tiene que indicar de forma clara y legible.
+2. Asimismo, se tendrán que cumplir todas las disposiciones que sean de aplicación en materia de protección de menores. Las empresas quedan obligadas a la aplicación de medidas objetivas tendentes a la consecución de estas prescripciones.
+3. Sin perjuicio de lo que establece el artículo 45 de la Ley 17/2006, de 13 de noviembre, integral de la atención y de los derechos de la infancia y la adolescencia de las Illes Balears, la publicidad en espectáculos públicos, actividades recreativas y establecimientos públicos tiene que respetar los principios y las normas de la normativa vigente en materia de drogodependencia y trastornos adictivos, y evitar la difusión de ideas de inferioridad o superioridad de cualquier sexo, raza u origen étnico.
+4. Queda prohibida cualquier forma de promoción o publicidad que incite a las personas menores de manera directa o indirecta al consumo de bebidas alcohólicas o de tabaco.
+Se modifica el apartado 1.b) por el art. 10 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 25
+
+Artículo 25. Horario general de las actividades permanentes de espectáculos públicos, actividades recreativas y establecimientos públicos.
+1. Las administraciones públicas, en el ámbito de sus competencias, deberán adecuar su función de regulación de los horarios y de autorización y control de actividades a las disposiciones de la presente ley. En especial, las administraciones competentes velarán para evitar las molestias y los problemas de orden público que el funcionamiento de la actividad pueda producir en el exterior derivados de ruidos y vibraciones y de concentraciones humanas o de vehículos que puedan afectar a la seguridad o a la salud pública.
+2. Si no existen ordenanzas municipales o reglamentos insulares que regulen expresamente los horarios de actividades permanentes de espectáculos públicos, actividades recreativas y establecimientos públicos, éstas permanecerán cerradas:
+– Entre las 24.00 h y las 10.00 h en las zonas al aire libre con actividad musical.
+– Entre las 6.00 h y las 10.00 h en las zonas cerradas con actividad musical.
+3. Para poder ejercer la actividad entre las 24.00 h y las 8.00 h deberán adoptar medidas para intentar evitar el ruido y la aglomeración de personas en el exterior de la actividad que puedan provocar molestias al vecindario.
+4. A partir de la hora de cierre, las personas titulares o promotoras de las actividades de espectáculos públicos, recreativas y de establecimientos públicos deben cumplir las siguientes obligaciones:
+a) Dejar de servir bebidas y otros servicios.
+b) Parar la música.
+c) Impedir la entrada de usuarios.
+d) Pedir a los usuarios que abandonen el establecimiento en un plazo razonable que en ningún caso podrá ser superior a veinte minutos.
+e) Dejar de ejecutar cualquier espectáculo, juego o similar.
+f) Encender la iluminación.
+5. Cuando se trate de una zona de la actividad con horario distinto al del resto de la actividad, además de las obligaciones anteriores y una vez que la zona esté vacía de público, los titulares o promotores deberán cumplir con las siguientes obligaciones:
+a) Proceder al cierre efectivo o a la limitación física de la zona.
+b) Garantizar la ausencia de alumbrado en la zona, excepto el necesario para la señalización y la evacuación.
+6. El horario de la actividad estará señalizado en el acceso y en la taquilla.
+Se modifica el apartado 4 por el art. 11 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 26
+
+Artículo 26. Publicidad.
+La publicidad de la realización de estas actividades deberá contener la suficiente información de interés para el público y, como mínimo, la siguiente:
+a) Clase de actividad.
+b) Fecha, horario y lugar de las actuaciones, precios de las entradas y lugares de venta.
+c) Denominación y domicilio social de la empresa promotora.
+d) En su caso, extracto de las condiciones de admisión o las normas particulares o las instrucciones para el normal desarrollo de la actividad.
+
+### Artículo 27
+
+Artículo 27. Entradas.
+Las entradas para estas actividades deberán contener, como mínimo, la siguiente información:
+a) Número de orden.
+b) Identificación de la empresa titular y del domicilio social.
+c) Clase de actividad.
+d) Lugar, horario o fecha y hora de realización y, si procede, fecha de expedición de la entrada.
+e) Clase de localidad y número, en sesiones numeradas.
+f) Extracto de las condiciones de admisión, con la finalidad de que las personas usuarias conozcan siempre, por el hecho de estar impresos en el documento de la entrada, las normas de acceso y los derechos que tienen como público.
+
+## TÍTULO III
+
+Actuaciones de las administraciones públicas
+
+## CAPÍTULO I
+
+La cooperación
+
+### Artículo 28
+
+Artículo 28. Supuestos en los que procede la cooperación.
+1. Sin perjuicio de las normas reguladoras de los mecanismos de cooperación entre las distintas administraciones, si la administración competente correspondiente no dispone de personal calificado para emitir los informes jurídicos o administrativos o de personal técnico competente, puede solicitar la cooperación a la que se refiere este título para llevar a cabo las actuaciones siguientes:
+a) Informar sobre los procedimientos y las actuaciones administrativas de los permisos de inicio de instalación de las actividades, de las medidas preventivas, correctoras y de control complementarias.
+b) Practicar visitas de comprobación y de inspección.
+c) Practicar las actuaciones técnicas o jurídicas necesarias para tramitar los expedientes.
+2. Los consejos insulares desarrollarán reglamentariamente los supuestos de cooperación con los ayuntamientos.
+Se modifica el apartado 1 por el art. 12 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 29
+
+Artículo 29. Solicitudes de cooperación interadministrativa.
+La cooperación se deberá solicitar:
+a) Del correspondiente consejo insular cuando la administración actuante sea la municipal, excepto en los expedientes relativos a las actividades itinerantes.
+b) De la comunidad autónoma de las Illes Balears, por medio de la consejería competente en materia de actividades clasificadas y espectáculos públicos, en los supuestos en los que el consejo insular, como administración actuante o cooperadora, no disponga del personal competente para llevar a cabo la actuación concreta que el caso específico requiera.
+c) Del órgano competente de la administración que haya otorgado el permiso de instalación o equivalente en los términos que prevé la disposición adicional octava de esta ley.
+d) De la comunidad autónoma de las Illes Balears, por medio de la consejería competente, en el caso de actividades itinerantes, en los demás casos.
+e) Del órgano competente de la administración que haya otorgado la autorización sectorial pertinente.
+
+### Artículo 30
+
+Artículo 30. Procedimiento de cooperación.
+1. Procedimiento de cooperación en actividades permanentes:
+a) La cooperación se solicitará por cualquier medio de los establecidos en la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, a la administración que corresponda, a la que se adjuntarán los datos esenciales del expediente y en la que se concretará, con claridad y precisión, la actuación específica que se requiere.
+b) En un plazo no superior a diez días desde la recepción de la petición, el órgano competente de la administración requerida ordenará la práctica de la actuación pertinente y designará a este efecto al personal técnico competente, que podrá ser propio de la administración cooperante o designado mediante la contratación de los servicios correspondientes. Una vez practicada la actuación requerida, y en un plazo no superior a cinco días, se comunicará el resultado a la administración municipal solicitante, con indicación, en su caso, y cuando el ayuntamiento tenga más de 20.000 habitantes, del importe que se tiene que abonar y del plazo para hacer efectivo el pago.
+2. Procedimiento de cooperación en actividades no permanentes:
+a) Las solicitudes de cooperación formuladas en el seno de un expediente de actividad no permanente tendrán carácter preferente a los efectos de ser resueltas en el plazo más breve posible.
+b) La cooperación se solicitará por cualquier medio de los establecidos en la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, a la administración que corresponda, a la cual se adjuntarán los datos esenciales del expediente y en la que se concretará, con claridad y precisión, la actuación específica que se requiere. Vista la preferencia de los procedimientos de las actividades no permanentes, el ayuntamiento garantizará que la documentación del expediente se presente en el registro de la administración cooperante en un plazo máximo de 3 días a contar desde la fecha de entrada de la solicitud en el ayuntamiento, y que se comunique por cualquier medio al órgano competente de la administración cooperante.
+
+### Artículo 31
+
+Artículo 31. Análisis de expedientes.
+La Consejería competente en materia de actividades clasificadas y espectáculos públicos de la Administración de la comunidad autónoma de las Illes Balears y los consejos insulares correspondientes pueden solicitar a la administración competente datos de los expedientes tramitados y de las actas de las inspecciones efectuadas al objeto de realizar estadísticas para analizarlos y extraer conclusiones para mejorar la eficiencia y la eficacia en la aplicación de la ley y de los reglamentos que de ella puedan derivarse.
+
+## CAPÍTULO II
+
+Los registros y la Junta Autonómica de Actividades de las Illes Balears
+
+### Artículo 32
+
+Artículo 32. Registros de actividades de las Illes Balears.
+1. Se crean los siguientes registros administrativos:
+a) Registro de las entidades colaboradoras en materia de actividades.
+b) Registro autonómico de actividades itinerantes.
+c) (Derogada).
+2. Los registros mencionados en los apartados a), b) y c) anteriores quedan adscritos a la consejería competente en materia de actividades clasificadas y espectáculos públicos de la Comunidad Autónoma de las Illes Balears. En todo caso, se cumplirá el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos), la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, y el resto de la normativa aplicable.
+3. El registro autonómico de actividades será público y permitirá el acceso telemático. La información y la documentación que incluya podrán ser utilizadas por otras administraciones al objeto de simplificar y reducir trámites, y para planificar inspecciones y estudios estadísticos.
+4. En el Registro de las entidades colaboradoras en materia de actividades se inscribirán las entidades habilitadas de acuerdo con lo que establece esta ley.
+5. En la Sección II, de actividades itinerantes, del registro autonómico de actividades se inscribirán las actividades reguladas en el título V de la presente ley con los datos de identificación y el proyecto tipo para las actividades itinerantes.
+6. En el registro autonómico de acreditación del personal de los servicios de admisión y control de ambiente interno de los espectáculos públicos y las actividades recreativas se inscribirán los datos que reglamentariamente se determinen.
+7. Baja del Registro de actividades:
+a) El Registro de las entidades colaboradoras en materia de actividades: la administración competente procederá a la baja en el Registro cuando la entidad pierda la habilitación de acuerdo con lo que dispone la ley. También se dejará constancia en el Registro de la suspensión de la habilitación.
+b) El Registro de actividades itinerantes: la baja de las actividades que pertenecen a esta categoría solo la podrá realizar la persona en la cual concurran la titularidad de la actividad en cuestión y el pleno dominio de la atracción, o la realizará la administración competente de oficio con sanción firme. Asimismo, si de las comprobaciones hechas se desprende la falsedad, omisión o inexactitud esencial de los datos declarados, previa audiencia a las personas interesadas, se suspenderá la actividad o la instalación y se dictará una resolución por la cual se cancela la inscripción en el Registro, sin perjuicio de las responsabilidades penales, civiles o administrativas que esto pueda conllevar.
+8. La baja del registro de acreditación del personal de los servicios de admisión y control de ambiente interno de los espectáculos públicos y las actividades recreativas se podrá realizar a petición de la persona interesada o la llevará a cabo de oficio la administración competente en caso de revocación o suspensión de la acreditación profesional reglamentariamente determinada.
+9. (Derogado).
+10. La estructura, la función y la composición de estos registros se determinarán reglamentariamente.
+Se deroga el apartado 1.c) y el 9 por la disposición derogatoria única.a) de la Ley 9/2022, de 23 de noviembre. Ref. BOE-A-2023-2978#dd
+ Se modifican los apartados 1, 2, 4 y 7 por la disposición final 3.3 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+
+### Artículo 33
+
+Artículo 33. Interoperabilidad de datos.
+La consejería competente en materia de actividades clasificadas y espectáculos públicos impulsará una plataforma interadministrativa para garantizar la interoperabilidad de los datos de los registros municipales de actividades permanentes y facilitar el acceso público en los términos que se prevean reglamentariamente.
+Se modifica por la disposición final 3.4 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+
+### Artículo 34
+
+Artículo 34. Comisión Técnica de Actividades de las Illes Balears.
+1. La Comisión Técnica de Actividades de las Illes Balears (CTAIB) es el órgano consultivo de estudio, de coordinación y de asesoramiento de las administraciones autonómica, insular y local en la materia regulada por esta ley, adscrito a la comunidad autónoma de las Illes Balears a través de la consejería competente en materia de actividades clasificadas y espectáculos públicos.
+La estructura, el funcionamiento y la composición de la CTAIB, que como mínimo contará con representantes de la Administración de la comunidad autónoma de las Illes Balears, de los consejos insulares y de los municipios, se determina de acuerdo con las correspondientes disposiciones reglamentarias.
+2. Las atribuciones de la CTAIB son las siguientes:
+a) Emisión de informes sobre las disposiciones de carácter general específicas que deban dictarse en desarrollo de esta ley.
+b) Formulación de propuestas y de informes sobre interpretación, aplicación y modificación de las disposiciones que regulan las actividades.
+c) Elaboración de recomendaciones y guías de actuación para las administraciones públicas en relación con las competencias sobre actividades clasificadas y espectáculos públicos.
+d) Emisión de informes de acuerdo con la disposición transitoria novena de esta ley.
+Se modifica por el art. 13 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## TÍTULO IV
+
+Procedimiento aplicable a las actividades permanentes y a sus modificaciones
+Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO I
+
+Régimen general
+Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 35
+
+Artículo 35. Ejercicio de actividades permanentes.
+1. Para ejercer una actividad permanente de las que prevé esta ley es necesario:
+a) Disponer de las instalaciones necesarias para llevar a cabo la actividad, que deben cumplir lo que determina esta ley y el resto de normativa sectorial que sea aplicable. Estas instalaciones deberán estar reflejadas en un proyecto de actividad cuyo contenido forma parte del título habilitante y que se alterará o modificará en los términos y en la forma legalmente previstos para que esté siempre actualizado.
+b) Presentar una declaración responsable ante la administración competente, en los términos que prevén los artículos 42 a 44.
+2. Las declaraciones responsables reguladas en los artículos siguientes se acompañarán, si procede, con el documento acreditativo del pago de los tributos que se meriten.
+3. Las disposiciones de carácter general de ámbito municipal que desarrollen los procedimientos que regula este título no pueden exigir ninguna otra documentación adicional a la prevista en esta ley, sin perjuicio del deber del titular de disponer de la documentación que le exige la normativa que le sea aplicable y de ponerla a disposición del personal de la administración competente cuando actúe en ejercicio de su actividad inspectora.
+Se modifica el apartado 1 por la disposición final 3.5 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+ Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 35 bis
+
+Artículo 35 bis. Certificación de verificación documental.
+1. Con el fin de agilizar los procedimientos de obtención del permiso de instalación, con carácter previo a la presentación de la solicitud, el promotor podrá obtener un certificado emitido por los colegios profesionales u otras corporaciones de derecho público con quienes el ayuntamiento suscriba el correspondiente convenio, acreditativo de la verificación de la documentación.
+2. La verificación debe consistir en la revisión técnica, el informe y la validación del proyecto básico y el preliminar de la actividad y el resto de documentación que debe acompañar a la solicitud, la cual debe incluir, asimismo, la suficiencia y la idoneidad de la documentación, para los fines de la autorización y su adecuación a toda la normativa aplicable a la actividad a desarrollar.
+3. La solicitud del permiso de instalación que se acompañe del certificado regulado en este artículo, junto con el resto de documentación exigida, debe admitirse a trámite, y ello no impedirá que el órgano competente para la tramitación efectúe los requerimientos de subsanación que correspondan, si con posterioridad se detectaran insuficiencias o deficiencias que sean subsanables.
+4. El interesado puede optar por presentar la solicitud y la documentación exigida para la obtención del permiso de instalación sin acompañar el certificado regulado en el presente artículo, y en este caso la verificación debe efectuarse en el seno del procedimiento para la obtención de aquel, de acuerdo lo previsto en esta ley.
+Se añade por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO II
+
+Instalación de la actividad
+Se añade por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 36
+
+Artículo 36. Actividades que deberán disponer de un plan de autoprotección.
+Los titulares de actividades que tengan que disponer de un plan de autoprotección de acuerdo con la normativa de emergencias deberán presentar este plan, por medios telemáticos, al registro autonómico correspondiente, así como sus modificaciones y revisiones. A través de esta presentación el plan queda registrado a todos los efectos, sin perjuicio de las posteriores comprobaciones que pueda realizar la administración competente.
+Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO II
+
+Procedimiento para el inicio de instalación y ejecución de obras, si cabe, que requieren permiso de instalación o permiso de instalación y obras
+
+### Artículo 37
+
+Artículo 37. Actividades que requieren la ejecución de obras o instalaciones o implican un cambio de uso.
+1. La ejecución de obras e instalaciones o la modificación de actividades existentes requiere la presentación de una comunicación previa o la obtención de una licencia, de acuerdo con la normativa urbanística.
+Salvo que se trate de una actividad inocua, cuando sea necesario redactar un proyecto de obras, este debe incorporar el contenido del proyecto preliminar de actividades de acuerdo con lo establecido en el artículo 39 y en el anexo II de esta ley.
+Los títulos habilitantes mencionados en los párrafos anteriores habilitan para la implementación de instalaciones y el ejercicio de actividades siempre que se trate de usos permitidos en el planeamiento urbanístico, y tienen los efectos propios de la licencia de cambio de uso prevista en la normativa urbanística. En todo caso, el cambio de uso residencial a establecimiento físico y viceversa requiere el título habilitante que determina la normativa urbanística.
+2. Una vez finalizadas las obras y las instalaciones, y antes de hacer uso de ellas, se debe presentar, según corresponda, una declaración responsable o un certificado de acuerdo con los artículos 43 y 44 de esta ley.
+Se modifica por la disposición final 3.4 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-3
+ Se modifica por la disposición final 3.4 del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#df-3
+ Se deja sin efecto la modificación de este artículo por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025. Ref. BOIB-i-2025-90242, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre.
+ Se modifica por la disposición final 4.4 del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+ Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 38
+
+Artículo 38. Actividades que requieren la ejecución de instalaciones sin obras.
+Si no se requiere la ejecución de obras, las instalaciones para nuevas actividades o para actividades existentes pueden ejecutarse siempre que dispongan de las autorizaciones sectoriales y de la documentación técnica legalmente exigible, y solo es exigible presentar, según corresponda, una declaración responsable o un certificado de forma previa al uso de las nuevas instalaciones en los términos indicados en los artículos 43 y 44 de esta ley.
+Se modifica por la disposición final 3.5 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-3
+ Se modifica por la disposición final 3.5 del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#df-3
+ Se deja sin efecto la modificación de este artículo por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025. Ref. BOIB-i-2025-90242, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre.
+ Se modifica por la disposición final 4.5 del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+ Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 39
+
+Artículo 39. Documentación técnica.
+Para llevar a cabo las instalaciones necesarias para una actividad mayor o menor, el promotor presentará ante el ayuntamiento el proyecto de actividad con el contenido que, como mínimo, prevé el anexo II de esta ley.
+Cuando sea necesario obtener la correspondiente licencia urbanística, el promotor de la instalación puede optar entre presentar, con el proyecto básico de edificación, un proyecto preliminar de actividades de acuerdo con el anexo II de esta ley o integrar el contenido de este en el proyecto de obras. En cualquier caso, debe presentar el proyecto de actividades completo como máximo en el momento de presentar el proyecto de ejecución de obras.
+En el resto de casos, si es preceptiva la presentación de una comunicación previa para la realización de obras e instalaciones, se puede presentar el proyecto de actividad junto con esta o presentar una memoria descriptiva en la que se haga mención de las actividades e instalaciones a implantar, el presupuesto y, además, se justifique la ausencia de aquellos aspectos que pueden provocar una situación de imposibilidad material de llevar a cabo la actividad que se pretende desarrollar. En el supuesto de presentación de la memoria descriptiva, es preceptiva la presentación del proyecto de actividad a la administración competente antes de poder hacer uso de las nuevas instalaciones.
+En los casos de modificaciones de actividades existentes, el alcance del contenido del proyecto de actividad que debe aportarse dependerá del tipo de modificación de acuerdo con lo que fija el artículo 11.
+Es un deber del promotor disponer de las autorizaciones previas necesarias y de la documentación técnica pertinente a lo largo de la ejecución de las obras, y exhibirlas a los representantes de la administración competente que lo requieran en ejercicio de su actividad inspectora.
+Se modifica por la disposición final 3.6 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+ Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 40
+
+Artículo 40. Consulta sobre la normativa de aplicación en materia de actividades.
+Cualquier persona se puede dirigir a la administración competente para que esta le informe sobre la normativa municipal de aplicación, incluida también la urbanística, respecto a la instalación y el ejercicio de una o varias actividades en una determinada ubicación. Las consultas se responderán por escrito en un plazo máximo de un mes desde su solicitud y la respuesta tendrá una validez de seis meses, durante los que vincula al ayuntamiento, salvo que la normativa urbanística aplicable haya suspendido el otorgamiento de licencias.
+Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 41
+
+Artículo 41. Actividades en edificios existentes.
+1. En edificios existentes, incluidos los catalogados o protegidos por un instrumento de planeamiento general y que no se encuentren protegidos de conformidad con la legislación en materia de patrimonio, cuando las características arquitectónicas no permitan el cumplimiento pleno de las condiciones técnicas exigidas en la normativa vigente o resulten económicamente inviables, se pueden proponer y adoptar soluciones técnicas alternativas que garantizarán, además del objeto de la ley, los valores que han motivado su catalogación o protección cuando sea el caso.
+Estas soluciones técnicas alternativas se pueden proponer a la administración competente, la cual se deberá pronunciar sobre su viabilidad en el plazo de dos meses. La inviabilidad de estas soluciones solo se puede fundamentar en cuestiones de legalidad o para oponerse a lo establecido en los instrumentos de planeamiento urbanístico. El transcurso de los dos meses sin que la administración se oponga a la solución planteada supone la conformidad implícita a esta, siempre que no se oponga a lo que establecen los instrumentos de planeamiento urbanístico o que no se trate de edificios catalogados o protegidos.
+2. En los edificios existentes se pueden realizar instalaciones y ejercer actividades aunque se encuentren total o parcialmente en la situación de fuera de ordenación siempre que no sea necesaria la ejecución de obras en la parte del edificio afectada por esta situación.
+Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 42
+
+Artículo 42. Inicio y ejercicio de las actividades inocuas.
+El inicio y el ejercicio de una actividad inocua solo requieren la presentación al órgano competente de una declaración responsable del titular en la que se identifique la actividad que se realizará, declare que la actividad se encuentra comprendida dentro de las del título III del anexo de la ley y que se cumple con la normativa vigente que resulte de aplicación.
+Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ e modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 43
+
+Artículo 43. Declaración responsable de inicio y ejercicio de la actividad.
+1. El inicio y el ejercicio de una actividad mayor o menor en los casos que haya necesitado la realización de obras o instalaciones requieren la presentación al ayuntamiento de una declaración responsable del titular en la que se haga constar que las instalaciones ejecutadas cumplen la normativa que en cada caso les sea exigible y tienen las condiciones operativas adecuadas para apoyar la actividad que se desarrollará y que se ha presentado ante el ayuntamiento un proyecto de actividades redactado por un técnico o una técnica competente y al que se ajustan las instalaciones existentes en el establecimiento.
+La declaración responsable regulada en este apartado solo se deberá acompañar de la certificación de un técnico o una técnica competente que acredite que las instalaciones se ajustan al proyecto de actividades, así como la documentación gráfica mínima que las defina.
+2. El inicio y el ejercicio de una actividad mayor o menor en un establecimiento que no necesita la realización de obras o instalaciones requiere la presentación al órgano competente de una declaración responsable del titular en la cual se identifique la actividad que se tiene que llevar a cabo y el proyecto en el que se ampara. La declaración responsable deberá ir acompañada del certificado de un técnico competente en el que se declara que las instalaciones existentes son conformes al proyecto de la actividad y adecuadas para el ejercicio de la actividad que se quiere desarrollar.
+3. En los casos de actividades que se suspenden por un periodo no superior a nueve meses por razón de temporalidad de la actividad que realizan y que necesitan el desmontaje de las instalaciones, no es necesario presentar la declaración responsable prevista en este artículo para volverlas a montar y retomar la actividad, y es suficiente presentar una declaración responsable previa a la reapertura, siempre que no se haya producido ninguna modificación relevante respecto de la instalación inicial.
+4. La presentación de la declaración responsable prevista en este artículo y en el anterior sustituye la licencia urbanística de ocupación o primera utilización y la cédula de habitabilidad a los efectos de poder proceder a la contratación definitiva de servicios, sin perjuicio de la exigencia de otros documentos de acuerdo con la normativa que resulte aplicable.
+5. Es un deber del titular disponer en todo momento de una copia de la declaración responsable y de la documentación técnica preceptiva, en papel o en formato digital en el propio establecimiento o accesible de forma telemática a requerimiento de representantes de la administración competente en ejercicio de su actividad inspectora. Se entenderá cumplido este deber cuando el titular pueda poner la documentación a disposición de la autoridad o funcionario que la requiera en un plazo no superior a dos días hábiles.
+Se modifica el apartado 2 por la disposición final 3.7 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+ Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO III
+
+Procedimiento para el inicio y el ejercicio de la actividad en actividades que no precisan de permiso de instalación
+
+### Artículo 44
+
+Artículo 44. Modificación de las instalaciones.
+En el caso de modificaciones de instalaciones en actividades existentes que no implican el ejercicio de una nueva actividad, si no lo ha hecho antes, el titular debe presentar al ayuntamiento el proyecto de actividades y, además, un certificado de un técnico competente que acredite que las instalaciones se ajustan al proyecto de actividades modificado y que son adecuadas para el ejercicio de la actividad que se quiere desarrollar, todo ello antes de poder hacer uso de las instalaciones ejecutadas.
+Se modifica por la disposición final 3.6 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-3
+ Se modifica por la disposición final 3.6 del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#df-3
+ Se deja sin efecto la modificación de este artículo por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025. Ref. BOIB-i-2025-90242, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre.
+ Se modifica por la disposición final 4.6 del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+ Se modifica por la disposición final 3.8 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+ Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO III
+
+Inicio y ejercicio de la actividad
+Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 45
+
+Artículo 45. Efectos de la presentación de la declaración responsable.
+1. La presentación de la declaración responsable de acuerdo con lo previsto en el artículo 43 faculta para el inicio y el ejercicio de la actividad, sin perjuicio de lo que indica el apartado 4 del artículo 69 de la Ley 39/2015 o la norma que lo sustituya.
+En el caso de la presentación de la declaración responsable prevista en el artículo 44, esta faculta para el uso de las instalaciones ejecutadas y el ejercicio de la actividad que se vincula, también sin perjuicio de lo que indica el apartado 4 del artículo 69 de la Ley 39/2015 o la norma que lo sustituya.
+2. La inexactitud, la falsedad o la omisión, de carácter esencial, de cualquier dato o información que se incorpore a una declaración responsable determina la imposibilidad de continuar el ejercicio del derecho o la actividad afectada desde el momento en que se tenga constancia de estos hechos, sin perjuicio de las responsabilidades penales, civiles o administrativas que se detecten.
+No obstante, la administración competente debe resolver declarando la concurrencia de estas circunstancias que determinan la invalidez del título habilitante, previa audiencia del titular, al que debe otorgar un plazo no inferior a dos meses a fin de que pueda subsanar las deficiencias observadas.
+Con el acuerdo que inicia el procedimiento para determinar la eventual ineficacia del título habilitante, se puede ordenar el cierre total o parcial de la actividad siempre que se acredite un riesgo para las personas, sus bienes o el medio ambiente.
+La resolución que declare la ineficacia del título habilitante tiene los efectos previstos en los artículos 109 y 110 de esta ley.
+El impago de la tasa u otros tributos ligados al inicio o el ejercicio de la actividad o la falta de comunicación de transmisión o de cambio de titular no pueden dar lugar a la declaración de ineficacia del título habilitante.
+Se modifica el apartado 2 por la disposición final 3.7 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-3
+ Se modifica el apartado 2 por la disposición final 3.7 del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#df-3
+ Se deja sin efecto la modificación del apartado 2 por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025. Ref. BOIB-i-2025-90242, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre.
+ Se modifica el apartado 2 por la disposición final 4.7 del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+ Se modifica por la disposición final 3.9 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+ Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO IV
+
+Procedimiento de inicio y ejercicio de la actividad en actividades que han requerido permiso de instalación
+
+### Artículo 46
+
+Artículo 46. Autorizaciones provisionales de instalaciones imprescindibles para desarrollar la actividad principal.
+1. En caso de instalaciones complementarias que resulten imprescindibles o inescindibles para desarrollar la actividad principal, el ayuntamiento puede autorizar provisionalmente el uso de estas instalaciones siempre que se den las siguientes circunstancias:
+a) La actividad principal disponga de título habilitante con anterioridad a la entrada en vigor de esta ley.
+b) Se preste fianza suficiente sobre los daños que se puedan ocasionar en caso de denegación de la solicitud de legalización de las actividades complementarias.
+c) Se acredite que la autorización provisional no supone un riesgo para las personas y el medio ambiente.
+2. El plazo máximo de vigencia de esta autorización es de un año, con posibilidad de prorrogarse un año más.
+Se modifica por el art. 51 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a5-3
+ Se modifica por el art. 51 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a5-3
+ Se modifica por la disposición final 3.10 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+ Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO IV
+
+Supuestos especiales
+Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO II
+
+Supuestos especiales
+Se renumera por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Anteriormente numerado como IV.
+
+### Artículo 47
+
+Artículo 47. Instalación de infraestructuras comunes.
+1. En un establecimiento físico en el que se prevé la implantación de diferentes instalaciones para actividades específicas, solo se puede hacer el inicio de instalación de una actividad específica en el marco de una instalación de las infraestructuras comunes del establecimiento, que tendrá siempre la consideración de actividad mayor y que se ejecutará de forma previa o simultánea a la de la actividad específica.
+2. El inicio y el ejercicio de una actividad específica en el marco de unas infraestructuras comunes quedan condicionados a la adecuada finalización de las infraestructuras comunes, que se acredita a través de la presentación de una declaración responsable en los términos que prevé el artículo 43, y sin perjuicio del deber de presentar la declaración responsable pertinente para la actividad específica.
+Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO V
+
+Concordancia entre las infraestructuras comunes y las actividades
+
+### Artículo 48
+
+Artículo 48. Actividades en espacios compartidos.
+Las instalaciones para actividades en espacios compartidos deberán contar con el correspondiente título habilitante de acuerdo con esta ley, sin perjuicio de que las diferentes actividades que se puedan realizar puedan obtener su título de forma diferenciada, presentando la correspondiente declaración responsable de acuerdo con lo que establece esta ley.
+Se modifica por la disposición final 2.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO V
+
+Revisiones técnicas de actividades permanentes
+Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO III
+
+Revisiones técnicas de actividades permanentes
+Se renumera por la disposición final 2.2 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Este capítulo ya fue renumerado por el Decreto-ley 8/2020, de 13 de mayo.
+ Se renumera por la disposición final 2.3 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Anteriormente numerado como V
+
+## CAPÍTULO VI
+
+Revisiones técnicas de actividades permanentes
+
+### Artículo 49
+
+Artículo 49. Obligación de hacer revisiones técnicas periódicas en actividades permanentes.
+1. Sin perjuicio de las inspecciones a las que las administraciones competentes sometan las actividades en cualquier momento, los titulares de las actividades deben hacer una revisión técnica periódica en el plazo de diez años contados desde el inicio de la actividad y, sucesivamente, cada periodo de diez años contados desde la última revisión.
+2. Cuando se trate de actividades en espacios compartidos, es el titular de la instalación el obligado a realizar las revisiones periódicas previstas en la presente ley.
+Se modifica por la disposición final 3.8 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-3
+ Se modifica por la disposición final 3.8 del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#df-3
+ Se deja sin efecto la modificación de este artículo por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025. Ref. BOIB-i-2025-90242, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre.
+ Se modifica por la disposición final 4.8 del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+ Se modifica por la disposición final 3.11 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+ Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 50
+
+Artículo 50. Revisiones técnicas periódicas de actividades.
+1. La redacción del informe que resulte de la revisión técnica de la actividad debe llevarla a cabo una ECAC o un técnico o una técnica competente, y debe constar de:
+a) Descripción del estado actual acompañada de fotografías interiores y exteriores del establecimiento.
+b) Valoración del mantenimiento de las condiciones de la instalación de acuerdo con la normativa que resulte de aplicación. A tal efecto debe recoger las revisiones o inspecciones sectoriales a las que se haya sometido la actividad.
+c) Determinación de las situaciones o características que puedan implicar un riesgo grave para las personas o los bienes, o molestias a terceras personas, con indicación de las medidas correctoras que deben adoptarse.
+2. La revisión técnica debe presentarse a la administración competente, la cual, si es desfavorable, debe otorgar un plazo no inferior a dos meses para subsanar las deficiencias observadas o implementar las medidas indicadas en el informe, todo ello sin perjuicio de la responsabilidad del titular ante la posible comisión de infracciones evidenciadas por el informe. De la presentación del informe y de las ulteriores incidencias debe darse cuenta al Registro Autonómico de Actividades.
+3. El deber previsto en el artículo anterior debe entenderse plenamente cumplido con la presentación de una revisión técnica favorable en los términos indicados en los apartados anteriores.
+Se modifica por el art. 14 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## TÍTULO V
+
+Las actividades itinerantes
+Se modifica por el art. 15 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO I
+
+Disposiciones específicas para las actividades itinerantes
+Se modifica por el art. 15 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 51
+
+Artículo 51. Instalación de las actividades itinerantes.
+1. Las actividades itinerantes pueden ser:
+a) De entretenimiento y ocio, como las atracciones, juegos o similares.
+b) De servicio, entendiendo como tal cualquier servicio que se realice en un vehículo, remolque o similar, debidamente adaptado para esta finalidad, incluyendo la venta de productos que son objeto de transformación o manipulación en la propia instalación, como las comidas y supuestos análogos.
+2. Las actividades itinerantes requieren para su instalación el cumplimiento de lo dispuesto en este título y se podrán ubicar:
+a) En dominio público.
+b) En el marco de una actividad permanente cuyo proyecto de actividades no prevea estos tipos de instalaciones.
+c) En el marco de una actividad no permanente autorizada de acuerdo con esta ley.
+d) En el marco de actos de los previstos en el artículo 2.5.
+3. No tienen el carácter de actividades itinerantes:
+a) Las de comercio o servicios que no estén comprendidas en el apartado primero de este artículo.
+b) Los espectáculos musicales o de otro tipo.
+c) Las recreativas musicales o similares.
+d) Las atracciones o juegos que se instalan en el marco de una actividad permanente cuyo proyecto de actividades prevea estos tipos de instalaciones.
+Se modifica por el art. 15 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 52
+
+Artículo 52. Obligaciones del titular.
+La instalación y el ejercicio de actividades itinerantes requiere el cumplimiento de las siguientes obligaciones:
+a) El titular debe cumplir con lo establecido en este título y en el resto de normativa que sea de aplicación atendiendo al tipo de instalación.
+b) La instalación de una actividad itinerante en el territorio de las Illes Balears requiere la previa inscripción de esta en el Registro Autonómico de Actividades Itinerantes, en la forma que determina el artículo 54.
+c) De forma previa a la instalación de la actividad debe presentar una declaración responsable ante el ayuntamiento, en los términos previstos en el artículo 56.
+Se modifica por el art. 15 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 53
+
+Artículo 53. Marcado CE y normas UNE de aplicación.
+1. En caso de que haya apartados del proyecto tipo cubiertos por un marcado CE, el proyecto tipo puede justificar las condiciones que correspondan invocando la acreditación del marcado CE siempre que se justifiquen su idoneidad y ámbito de aplicación.
+2. En el caso de existir normas UNE que definan tanto la seguridad de la maquinaria o instalación como su explotación, el proyecto tipo puede sustituirse por una certificación del cumplimiento completo del contenido de la norma de referencia, emitida por un técnico o técnica competente y que no tenga una antigüedad superior a seis meses en la fecha de presentación de la declaración responsable prevista en el artículo 54.
+Se modifica por el art. 15 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO II
+
+El Registro Autonómico de Actividades Itinerantes
+Se modifica por el art. 15 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 54
+
+Artículo 54. Declaración responsable para inscribir la actividad itinerante en el Registro Autonómico de Actividades Itinerantes.
+1. El titular de la actividad itinerante debe instar la inscripción de la actividad itinerante en el Registro Autonómico de Actividades Itinerantes mediante la presentación ante la consejería competente en materia de actividades y espectáculos públicos de una declaración responsable en la que manifiesta que cumple los requisitos establecidos en la normativa vigente.
+2. La declaración responsable debe acompañarse de:
+a) La certificación prevista en el artículo 53.2 o, en su defecto, un ejemplar del proyecto tipo en formato digital, suscrito por el técnico redactor o técnica redactora, redactado según el anexo II de esta ley.
+b) Si procede, manual de la persona usuaria, de instalación o de mantenimiento del fabricante.
+c) En el caso de actividades itinerantes mayores, la certificación de la ECAC de acuerdo con lo previsto en el anexo II de esta ley.
+3. Cualquier modificación de la actividad debe comunicarse al Registro, aportando la documentación que resulte preceptiva de acuerdo con el alcance de la modificación y en los términos que prevén esta ley y la normativa de desarrollo.
+Se modifica por el art. 15 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 55
+
+Artículo 55. Inscripción en el Registro Autonómico de Actividades Itinerantes.
+La consejería competente en materia de actividades y espectáculos públicos del Gobierno de las Illes Balears, una vez presentada la declaración responsable, debe inscribir la actividad en la Sección II del Registro Autonómico de Actividades en un plazo máximo de quince días. A continuación, debe entregarse al titular una certificación acreditativa de la inscripción en el Registro, en la que debe figurar el número de la actividad y debe especificarse si se trata de una actividad mayor, menor o inocua.
+Si en este plazo se detectaran omisiones o inexactitudes en relación con la documentación presentada, debe requerirse al titular para que las subsane en un plazo máximo de diez días. Este requerimiento interrumpe el plazo para la inscripción. Si el titular no subsana las deficiencias detectadas en el plazo fijado, debe dictarse una resolución denegando la inscripción en el Registro.
+Se modifica por el art. 15 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO III
+
+Instalación, inicio y ejercicio de las actividades itinerantes
+Se modifica por el art. 15 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 56
+
+Artículo 56. Declaración responsable de instalación, inicio y ejercicio de la actividad itinerante.
+1. El titular que pretenda instalar e iniciar una actividad itinerante debe presentar ante el correspondiente ayuntamiento una declaración responsable de instalación, inicio y ejercicio de actividad en la cual identifique la actividad con el número de registro y declare lo siguiente:
+a) Cumplir los requisitos que establece la normativa vigente en las actividades itinerantes, especialmente que la actividad no ha sufrido ninguna modificación con relación al proyecto tipo inscrito y que dispone de la póliza de seguro.
+b) Mantener los requisitos y las condiciones de la letra anterior durante toda la vigencia y todo el ejercicio de actividad.
+c) Comunicar el lugar o lugares de instalación y las fechas de inicio y finalización de la actividad.
+d) Indicar, cuando sea necesario, la conexión de la actividad a servicios públicos, como electricidad o alcantarillado, y declarar que cumple con las especificaciones legalmente exigibles.
+e) Disponer de la autorización del organismo competente cuando se ubique en el dominio público.
+f) Cumplir con la normativa municipal.
+2. La presentación de la declaración responsable solo faculta para instalar la actividad. El inicio y el ejercicio de esta quedan condicionados a la presentación en el ayuntamiento de un certificado técnico final de montaje suscrito por un técnico o una técnica competente, que acredite que la instalación se ha hecho de acuerdo con el proyecto tipo, así como que se han adoptado todas las condiciones de seguridad según la normativa sectorial de aplicación. Deben hacerse constar en la certificación las particularidades en la instalación que difieran de las indicadas en el proyecto tipo, que en ningún caso pueden suponer una merma en las condiciones de seguridad.
+En el caso de las actividades itinerantes menores, no es necesario este certificado cuando se disponga de la acreditación profesional correspondiente o cuando se determine reglamentariamente, lo cual debe constar expresamente en el Registro Autonómico de Actividades Itinerantes.
+3. A los efectos previstos en el apartado anterior, la consejería competente en materia de actividades y espectáculos públicos puede regular el otorgamiento de la acreditación profesional en las actividades itinerantes menores, la cual facultará para instalar la actividad sin necesidad de un certificado suscrito por una técnica o un técnico competente.
+4. En el caso de las actividades itinerantes inocuas, la presentación de la declaración responsable prevista en el apartado primero faculta para la instalación, el inicio y el ejercicio de actividad.
+5. El ayuntamiento debe dejar constancia, por medios telemáticos y en un plazo máximo de tres días, de la presentación de las declaraciones responsables previstas en este artículo en el Registro Autonómico de Actividades Itinerantes, y debe hacerse mención del número de registro de la actividad, el lugar o lugares de instalación y las fechas de inicio y finalización.
+6. No es necesaria la presentación de la declaración responsable prevista en este artículo para la instalación de actividades itinerantes menores en el marco de actos de los previstos en el artículo 2.5, sin perjuicio del cumplimiento, por parte del titular, de la normativa que sea de aplicación, lo cual debe garantizarse además por la supervisión de un técnico o una técnica competente o un profesional acreditado o una profesional acreditada.
+Se modifica por el art. 15 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 57
+
+Artículo 57. Documentación de la cual debe disponerse obligatoriamente en el lugar donde se desarrolle la actividad itinerante.
+En el lugar donde esté emplazada la actividad itinerante debe disponerse de los siguientes documentos, a no ser que puedan consultarse telemáticamente en el Registro Autonómico de Actividades Itinerantes:
+1. Un ejemplar del proyecto tipo inscrito en el Registro Autonómico junto con la documentación acreditativa de la inscripción.
+2. La póliza de seguro de responsabilidad civil y el justificante de estar al corriente de pago.
+3. Las autorizaciones sectoriales pertinentes.
+4. Si procede, los manuales del usuario, de instalación y de mantenimiento.
+Se modifica por el art. 15 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 58
+
+Artículo 58. Revisiones de las actividades itinerantes.
+1. Sin perjuicio de las inspecciones a que se sometan las actividades itinerantes en cualquier momento, por parte de las administraciones competentes, los titulares de las actividades itinerantes deben realizar una revisión técnica que consistirá en la comprobación del cumplimiento completo de las normas UNE cuando resulte de aplicación lo previsto en el artículo 53, o bien en la acreditación del cumplimiento de los puntos que, a este efecto, prevé el anexo 2 de la ley.
+En el caso de las itinerantes mayores, la revisión debe acreditar también que no se han formado microfisuras estructurales u otros daños por la fatiga del material, el mal funcionamiento o por averías en las estructuras o los elementos en movimiento que desplacen usuarios o soporten estas estructuras. A este efecto, se deben realizar ensayos no destructivos de las piezas que puedan resultar claves para la estabilidad, como los elementos dentados, rodamientos, ejes, pasadores, pernos, soldaduras, perfiles, tubos de acero y similares.
+2. Las revisiones previstas en este artículo pueden ser realizadas por una ECAC y, en los casos de menores e inocuas, también un técnico o una técnica competente. Las revisiones deben presentarse en el Registro Autonómico de Actividades Itinerantes. La periodicidad de las revisiones debe ser la que indique el fabricante y como mínimo será cada seis años, en las menores e inocuas, y cada tres, en las mayores.
+En el caso de las atracciones, las revisiones previstas en el párrafo anterior podrá realizarlas también su fabricante.
+Se modifica por el art. 15 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## TÍTULO VI
+
+Disposiciones específicas y procedimiento aplicables a las actividades no permanentes
+
+## CAPÍTULO I
+
+Disposiciones específicas de las actividades no permanentes
+
+### Artículo 59
+
+Artículo 59. Naturaleza de la autorización y uso del suelo.
+1. La naturaleza de la autorización de actividad no permanente tiene un carácter discrecional, singular y puntual. Se deberá otorgar sólo por un interés público con criterios económicos y sociales, y garantizará el objeto de la presente ley.
+2. El uso urbanístico no queda afectado por el desarrollo de actividades no permanentes, cuando una vez desinstalada la actividad el suelo no haya sufrido obras o modificaciones en el terreno o en el espacio físico utilizado.
+Se modifica el apartado 2 por el art. 16 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 60
+
+Artículo 60. Ejecución de las actividades no permanentes.
+1. Las actividades no permanentes pueden ser mayores, menores, inocuas y de recorrido. Su ejecución requiere siempre la obtención previa de la autorización de la administración competente en los términos fijados en esta ley y sin perjuicio del resto de autorizaciones que resulten exigibles.
+Los plazos de antelación mínima de presentación de las solicitudes que prevén los artículos 67, 70 y 71 se pueden ampliar o reducir reglamentariamente o a través de ordenanzas municipales.
+2. Con respecto a las actividades no permanentes de recorrido, la administración competente puede, previa audiencia a las entidades interesadas y al público en general, aprobar un calendario de periodicidad anual en el cual se determinen las fechas o los períodos en los que se pueden desarrollar estas actividades. Cualquier solicitud que no se ajuste al calendario aprobado puede denegarse sin más trámite.
+Se modifica por el art. 17 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 61
+
+Artículo 61. Actividades no permanentes con procedimiento administrativo propio.
+Las actividades no permanentes que, conforme a la normativa sectorial, se encuentren sujetas a un procedimiento propio de autorización se tramitarán según las disposiciones contenidas a tal efecto en la presente ley y complementariamente según la normativa específica.
+
+### Artículo 62
+
+Artículo 62. Actividades no permanentes en establecimientos físicos donde se desarrollan actividades sin título habilitante.
+En los establecimientos donde se lleve a cabo una actividad que no disponga del título habilitante que la normativa le exige, no puede otorgarse la autorización de ninguna actividad no permanente, sin perjuicio de lo dispuesto en el título IX de esta ley.
+Se modifica por el art. 18 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 63
+
+Artículo 63. Efectos de la autorización.
+La eficacia de la resolución de autorización queda condicionada al hecho de que antes del inicio de la actividad deberán de estar suscritos los certificados, los contratos y las autorizaciones sectoriales preceptivos, las exenciones que pueda prever la normativa sectorial de aplicación y la póliza de seguro en vigor conforme a los términos previstos en la disposición adicional tercera de esta ley.
+
+### Artículo 64
+
+Artículo 64. Documentación de la cual debe disponerse obligatoriamente en el lugar donde se desarrolle la actividad no permanente.
+En el lugar donde se lleve a cabo la actividad debe exponerse al público una copia de la resolución de autorización. En las actividades de recorrido, la resolución debe llevarla la persona responsable. Esta persona asume, en el lugar donde se desarrolle la actividad, la responsabilidad sobre el control, y debe tener, a disposición de la inspección, copias del expediente, autorizaciones, contratos de terceros y certificados técnicos correspondientes.
+Se modifica por el art. 19 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 65
+
+Artículo 65. Actividades no permanentes organizadas o promovidas por la misma administración que tiene competencia para autorizarlas.
+1. En las actividades no permanentes organizadas por la misma administración que tiene competencia para autorizarlas, su ejecución requerirá del correspondiente acuerdo del órgano competente, sin perjuicio del cumplimiento de la normativa sectorial que resulte de aplicación.
+2. El acuerdo a que se refiere el párrafo anterior puede ser sobre una actividad determinada o sobre un conjunto de actividades en un período de tiempo, de forma que el ayuntamiento puede prever y programar diferentes actividades en su ámbito territorial a lo largo del año natural, como fiestas patronales, ferias periódicas, fiestas de barrio y similares. En este caso, será posible realizar una concreción genérica de los diferentes actos que se podrán hacer en el marco de cada uno de los acontecimientos, y se fijarán normas y parámetros técnicos a los cuales deberán adherirse, a través de una declaración responsable, las diferentes entidades o personas físicas y jurídicas que organicen los actos. Será en todo caso la administración competente la que deberá obtener las autorizaciones sectoriales que resulten preceptivas para cada caso.
+Se modifica por el art. 20 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 66
+
+Artículo 66. Actividades taurinas.
+La celebración de espectáculos taurinos es una actividad no permanente mayor. A pesar de esta consideración, cuando tales celebraciones se lleven a cabo en plazas de toros permanentes bastará que los promotores de la actividad presenten una declaración responsable de inicio y ejercicio del espectáculo ante el correspondiente ayuntamiento. En todo caso, estarán sujetos a la normativa técnica específica en materia taurina.
+
+## CAPÍTULO II
+
+Las actividades no permanentes mayores y menores
+Se modifica el epígrafe por el art. 21 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 67
+
+Artículo 67. Solicitud de autorización de la actividad no permanente mayor o menor.
+1. El titular que pretenda realizar una actividad no permanente mayor o menor, debe presentar a la administración competente la solicitud de autorización con una antelación mínima de treinta días a la fecha prevista de realización, con la siguiente documentación:
+a) Descripción de la actividad que debe llevarse a cabo, en la que se pondrá de manifiesto si esta se realiza en un establecimiento donde se desarrolla una actividad permanente.
+b) Petición o acreditación de exenciones, en su caso.
+c) Informe o autorización de las diferentes administraciones concurrentes afectadas por el desarrollo de la actividad, en su caso.
+d) Las fechas de inicio y finalización, el horario, el emplazamiento y el aforo previsto.
+e) La autorización de ocupación o la petición de ocupación en los términos reglamentados cuando se ubique en un dominio público, o la acreditación de que no está sujeta a ello porque no se ubica en un dominio público.
+f) Documentación técnica, que debe constar de planos y de una memoria que versará al menos sobre: higiene, sanidad pública, seguridad, evacuación, prevención de incendios y otros riesgos colectivos, seguridad ciudadana, protección de la infancia y la juventud, movilidad, defensa del público en general, molestias por bullicio, humos, olores y similares, así como protección del territorio. Debe indicar también qué autorizaciones sectoriales y concurrentes son necesarias. La documentación técnica y los planos deben estar suscritos por un técnico o una técnica competente.
+g) Indicación del nombre y de los datos de identificación de la persona o personas que asumirán in situ la responsabilidad sobre el control de la actividad que se debe llevar a cabo.
+h) Actuaciones, grupos y artistas que intervienen, si procede.
+i) Cuando se trate de actividades no permanentes mayores, debe presentar una copia del plan de autoprotección que se tramite en la administración competente en materia de emergencias.
+Todos y cada uno de los apartados anteriores deben justificarse y en caso de que no sean de aplicación debe indicarse este extremo en la solicitud.
+2. Si la actividad se repite anualmente, la documentación técnica continuará siendo válida siempre que se presente un certificado de un técnico o una técnica competente que indique que la actividad, las condiciones y la normativa no se han modificado con relación a la última autorización otorgada.
+3. El incumplimiento por parte del titular del plazo indicado en el punto 1 de este artículo puede ser motivo de denegación de la autorización, sin perjuicio de que se pueda otorgar la autorización de forma expresa.
+Se modifica el apartado 1 por el art. 22 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 68
+
+Artículo 68. Procedimiento de autorización.
+1. En el plazo máximo de cinco días desde la presentación de la solicitud de autorización a la que se refiere el artículo 67, la administración competente debe solicitar a las administraciones implicadas con competencias concurrentes el informe o la autorización correspondiente, en caso de que el titular no las pueda haber obtenido de acuerdo con la normativa que sea de aplicación en cada caso.
+2. Las administraciones con competencias concurrentes, en el plazo máximo de diez días, deben emitir el informe, la autorización o el título habilitante sobre la realización de la actividad, en el cual deben constatar si la documentación técnica aportada acredita el cumplimiento de la normativa de aplicación, indicar los condicionamientos que le sean aplicables y proponer motivadamente las medidas correctoras que consideren necesarias.
+3. Si por la funcionalidad o las características de la actividad no se puede cumplir alguna de las condiciones reglamentarias medioambientales o de seguridad, esta actividad solo se puede llevar a cabo con la acreditación previa de la exención correspondiente cuando la normativa sectorial así lo permita.
+4. Cuando se requiera la modificación del plan de autoprotección presentado, es responsabilidad del solicitante mantener actualizado el que figure en el correspondiente registro de la comunidad autónoma.
+Se modifica por el art. 23 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 69
+
+Artículo 69. Resolución.
+1. La resolución de la solicitud de autorización que dicte la administración competente puede autorizar o denegar la actividad, y también puede contener los condicionantes o las medidas correctoras que se consideren convenientes para el buen desarrollo de la actividad.
+2. Si una vez transcurrido el plazo de treinta días desde la presentación de la solicitud no se ha dictado y notificado la resolución, debe entenderse desestimada.
+Se modifica por el art. 24 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO III
+
+Actividades no permanentes inocuas
+Se modifica por el art. 25 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 70
+
+Artículo 70. Actividades no permanentes inocuas.
+1. El titular que pretenda hacer una actividad no permanente inocua debe presentar a la administración competente la solicitud de autorización con una antelación mínima de quince días a la fecha prevista de realización.
+2. La solicitud debe hacer una descripción de la actividad a realizar y el solicitante debe declarar que velará por el cumplimiento de la normativa sectorial, especialmente en lo que se refiere a higiene, sanidad pública, seguridad, evacuación, prevención de incendios y otros riesgos colectivos, seguridad ciudadana, protección de la infancia y la juventud, movilidad, defensa del público en general, molestias por bullicio, humos, olores y similares, así como protección del territorio.
+Asimismo, debe acompañar la solicitud con una copia de las autorizaciones sectoriales de las que disponga y debe indicar de las que debe disponer antes del inicio de la actividad. También puede contener, en su caso, la petición o acreditación de exenciones.
+3. La presentación de la solicitud con una antelación inferior a quince días en relación con el inicio de la actividad puede ser motivo de denegación de la autorización.
+4. La resolución de la solicitud de autorización que dicte la administración competente puede contener los condicionantes o las medidas correctoras que se consideren convenientes. Si una vez transcurrido el plazo de quince días desde la presentación de la solicitud no se ha dictado y notificado la resolución, esta debe entenderse estimada.
+Se modifica por el art. 26 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO IV
+
+Actividades de recorrido
+Se añade por el art. 27 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 71
+
+Artículo 71. Actividades no permanentes de recorrido.
+1. El titular que pretenda realizar una actividad no permanente de recorrido debe presentar a la administración competente la solicitud de autorización con una antelación mínima de treinta días a la fecha prevista de realización.
+2. La solicitud debe contener:
+a) Una descripción de la actividad a realizar que debe incluir, cuando se lleve a cabo exclusivamente en suelo urbano, la mención de las calles o los espacios públicos que deben utilizarse. Cuando se lleve a cabo en vías públicas ubicadas total o parcialmente en suelo rústico, debe incluir un plano a una escala adecuada para poder grafiar con suficiente nivel de detalle el trayecto de la actividad y la ubicación de los servicios vinculados a la misma.
+b) Una declaración del solicitante en la que se comprometa a velar por el cumplimiento de la normativa sectorial, especialmente en lo que se refiere a higiene, sanidad pública, seguridad, evacuación, prevención de incendios y otros riesgos colectivos, seguridad ciudadana, protección de la infancia y la juventud, movilidad, defensa del público en general, molestias por bullicio, humos, olores y similares, así como protección del territorio.
+Si se trata de una actividad que requiere de la elaboración de un plan de autoprotección de acuerdo con la normativa de emergencias, en la solicitud se debe aportar este plan y un técnico o una técnica competentes debe acreditar que se cumplen todos los aspectos descritos en el párrafo anterior. Esta acreditación se puede sustituir por un proyecto técnico redactado en los términos fijados en la letra g) del artículo 67.1.
+c) Una copia de las autorizaciones sectoriales de las que disponga, y debe indicar de cuáles debe disponer antes del inicio de la actividad.
+3. La presentación de la solicitud con una antelación inferior a treinta días en relación con el inicio de la actividad puede ser motivo de denegación de la autorización.
+4. La resolución de la solicitud de autorización que dicte la administración competente puede contener los condicionantes o las medidas correctoras que se consideren convenientes. Si una vez transcurrido el plazo de treinta días desde la presentación de la solicitud no se ha dictado y notificado la resolución, esta debe entenderse estimada.
+Se modifica por el art. 28 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## TÍTULO VII
+
+Disposiciones relativas a las actividades sujetas a autorización ambiental integrada
+Se deroga por la disposición derogatoria única.a) de la Ley 9/2022, de 23 de noviembre. Ref. BOE-A-2023-2978#dd
+ Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículos 72 a 82
+
+Artículos 72 a 82.
+(Derogados).
+Se derogan por la disposición derogatoria única.a) de la Ley 9/2022, de 23 de noviembre. Ref. BOE-A-2023-2978#dd
+
+## CAPÍTULO I
+
+Disposiciones comunes
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 72
+
+Artículo 72. Actividades sujetas a autorización ambiental integrada y normativa aplicable.
+1. Las actividades sujetas a autorización ambiental integrada son las actividades industriales incluidas en las categorías enumeradas en el anexo 1 del Real decreto legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación, o la norma que lo substituya.
+2. Las actividades sujetas a autorización ambiental integrada se rigen por:
+a) El Real decreto legislativo 1/2016 y la normativa reglamentaria de desarrollo y ejecución, aprobada por el Real decreto 815/2013, de 18 de octubre, que constituyen la legislación básica sobre protección del medio ambiente, o la norma o normas que los substituyan.
+b) Las disposiciones contenidas en este título constituyen legislación de desarrollo legislativo, con respecto al procedimiento.
+c) Supletoriamente, en relación con lo que no prevé la normativa básica de prevención y control de la contaminación, las disposiciones contenidas en esta ley relativas a inspección y régimen sancionador.
+3. La realización, en establecimientos donde desarrollan actividades sujetas a autorización ambiental integrada, de obras o instalaciones que no afecten a los términos y las condiciones de aquella autorización, deben regirse por lo dispuesto en el título IV de esta ley.
+4. Corresponde al ayuntamiento el control y el régimen sancionador en relación con:
+a) Las obras e instalaciones que se especifican en el apartado anterior.
+b) Los usos urbanísticos implementados.
+c) Los parámetros urbanísticos cuya determinación no sea objeto del contenido de la autorización ambiental integrada.
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 73
+
+Artículo 73. Títulos habilitantes.
+1. El inicio de la instalación y las obras de las actividades sujetas a la Ley de prevención y control integrados de la contaminación exige la autorización ambiental integrada que debe otorgar la consejería competente en materia de medio ambiente.
+2. El inicio y el ejercicio de la actividad, una vez otorgada la autorización ambiental integrada, requieren previamente la comprobación de que se cumplen las condiciones fijadas en la autorización, de acuerdo con la normativa de prevención y control de contaminación.
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO II
+
+Procedimiento de otorgamiento de una autorización ambiental integrada, o de modificación sustancial
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 74
+
+Artículo 74. Solicitud.
+La solicitud de la autorización ambiental integrada, o la modificación sustancial, debe presentarla el promotor o titular, con todos los datos identificativos, ante la consejería competente en materia de medio ambiente, y debe ir acompañada de la siguiente documentación:
+1. La documentación exigida en el artículo 12 del Real decreto legislativo 1/2016, y en el artículo 8 del Real decreto 815/2013 o en las normas que los substituyan, relativa a:
+a) Proyecto básico, con el contenido legal y reglamentario, incluida la documentación técnica necesaria para poder determinar las medidas relativas a las condiciones de explotación en situaciones distintas de las normales que puedan afectar al medio ambiente.
+b) Informe urbanístico municipal en el que se acredita que el proyecto se adecua al planeamiento urbanístico vigente o una copia de la solicitud del informe.
+c) Documentación exigida por la legislación de aguas para la autorización de vertidos en las aguas continentales e información específica sobre los vertidos, las emisiones y las pérdidas de sustancias consideradas como prioritarias en el ámbito de la normativa de aguas, siempre que la actividad implique la realización de vertidos, y por la legislación de costas para la autorización de vertidos desde tierra al mar, en su caso.
+d) Determinación de los datos que gozan de confidencialidad de acuerdo con las disposiciones vigentes, a criterio del solicitante.
+e) Documentación acreditativa del cumplimiento de los requisitos exigidos en la legislación sectorial, incluida la referida a fianzas y seguros obligatorios que sean exigibles de conformidad con esta legislación sectorial.
+f) Cualquier otra documentación e información que se determine en la normativa aplicable.
+g) Resumen no técnico de todas las indicaciones especificadas antes para facilitar su comprensión a efectos del trámite de información pública.
+h) Documentación necesaria, de acuerdo con lo previsto en la normativa de evaluación ambiental, con el fin de realizar las consultas previas y elaborar el documento de alcance previsto en el artículo 17 de la Ley 12/2016 o la norma que lo substituya.
+2. Justificante del pago de los tributos correspondientes, en su caso.
+3. Documentación acreditativa de las obras que deben hacerse.
+4. Documentación necesaria relativa a instalaciones y medidas correctoras bajo la perspectiva del proyecto de actividades.
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 75
+
+Artículo 75. Instrucción.
+1. Una vez presentada la documentación, la consejería competente en materia de medio ambiente debe hacer un análisis previo, de acuerdo con el artículo anterior, y puede pedir previamente, en su caso, informes de suficiencia e idoneidad de la documentación a las administraciones afectadas, las cuales deben pronunciarse en un plazo máximo de diez días hábiles.
+2. En caso de deficiencias en la documentación presentada o falta de documentación, debe requerirse al solicitante para que en el plazo de diez días subsane la falta o acompañe los documentos preceptivos, de acuerdo con lo previsto en el artículo 68 de la Ley 39/2015 o en la norma que lo substituya.
+3. Una vez subsanadas las deficiencias o presentada la documentación, deben llevarse a cabo las siguientes actuaciones:
+a) El proyecto debe estar sujeto, paralelamente a la tramitación sustantiva, al procedimiento de evaluación de impacto ambiental previsto en la normativa sobre evaluación de impacto ambiental, con la redacción y la presentación del estudio de impacto ambiental y el resto de trámites hasta la declaración de impacto ambiental. La evaluación ambiental suspende el plazo para resolver y notificar.
+b) Debe abrirse un período de información pública de acuerdo con el artículo 16 del Real decreto legislativo 1/2016 o la norma que lo substituya.
+4. Una vez concluido el período de información pública se solicitan los informes a los órganos de la administración que deben pronunciarse sobre las diferentes materias establecidas en el artículo 17 del Real decreto legislativo 1/2016 o en la norma que lo substituya, el informe del ayuntamiento del artículo 18 y el informe de la administración hidráulica del artículo 19. La emisión de estos informes debe realizarse en un plazo de treinta días.
+5. El órgano competente para otorgar la autorización ambiental integrada, después de la evaluación ambiental del proyecto, debe elaborar la propuesta de resolución, que debe ajustarse a lo previsto en el artículo 20 del Real decreto legislativo 1/2016 o en la norma que lo substituya, e incorporar las condiciones que resulten de los informes vinculantes emitidos, después de un trámite de audiencia a las personas interesadas, con aplicación, en su caso, de lo previsto en el artículo 20.2 del mismo Real decreto legislativo o en la norma que lo substituya.
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 76
+
+Artículo 76. Resolución.
+1. El plazo para dictar y notificar la resolución de otorgamiento de la autorización ambiental integrada es de diez meses desde la entrada de la solicitud y la documentación completa en el registro de la consejería competente en materia de medio ambiente.
+2. La resolución debe tener el contenido mínimo establecido en el artículo 22 del Real decreto legislativo 1/2016 o en la norma que lo substituya.
+3. Una vez transcurrido el plazo para resolver y notificar, sin resolución expresa, se debe entender desestimada la solicitud de autorización ambiental integrada por silencio administrativo y deben devolverse las tasas que hubiera pagado el solicitante.
+4. La resolución de otorgamiento de la autorización ambiental integrada habilita para iniciar la instalación y la obra de la actividad, sin perjuicio de otras licencias, autorizaciones o permisos que, en su caso, sean exigibles.
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 77
+
+Artículo 77. Modificación sustancial.
+La modificación sustancial de una actividad sujeta al régimen de autorizaciones ambientales integradas exige una nueva resolución de modificación de la autorización ambiental integrada, de acuerdo con el procedimiento establecido en los artículos 74, 75 y 76 anteriores.
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 78
+
+Artículo 78. Inicio y ejercicio de la actividad.
+1. El inicio y el ejercicio de la actividad, una vez otorgada la autorización ambiental integrada, requiere la comprobación previa del cumplimiento de las condiciones fijadas en la autorización.
+2. Para comprobar que se cumplen las condiciones, la persona titular de la actividad debe presentar ante la consejería competente en materia de medio ambiente, una vez ejecutadas, las actuaciones objeto de la solicitud, los datos y los siguientes documentos:
+a) La documentación de lo que realmente se ha ejecutado. Únicamente debe presentarse la documentación de las modificaciones que hayan podido darse en el transcurso de la ejecución de las obras.
+b) Si hay variaciones entre el proyecto o la memoria presentados en la solicitud y lo que realmente se ha ejecutado, un informe del técnico director o la técnica directora que justifique que las variaciones no implican una modificación sustancial de la autorización ambiental integrada. Estas variaciones pueden dar lugar a la tramitación de una modificación no sustancial de la autorización ambiental integrada.
+c) El certificado final de obra del técnico director o la técnica directora, en el que se acredite que se cumplen las condiciones indicadas en la autorización ambiental integrada, en su caso, y el resto de normativa sectorial que sea de aplicación.
+d) La documentación que la normativa urbanística exige en cada caso.
+e) La documentación que se especifique en la autorización ambiental integrada como condición para iniciar la actividad.
+f) El justificante de pago de los tributos correspondientes, en su caso.
+3. La consejería competente en materia de medio ambiente, con sus propios medios o a través de entidades colaboradoras certificadas, en el plazo máximo de un mes, debe llevar a cabo las siguientes actuaciones:
+a) Comprobar que la documentación es la exigida y que se ajusta a lo solicitado.
+b) Llevar a cabo la inspección para comprobar el cumplimiento de las prescripciones indicadas en la autorización ambiental integrada, y comunicarlo previamente al titular, siempre que así se especifique en la autorización ambiental integrada.
+c) Emitir un informe de cumplimiento de las condiciones de la autorización ambiental integrada.
+d) Inscribir la actividad en el Registro Autonómico de Actividades sujetas al régimen de autorizaciones ambientales integradas, cuando el informe de cumplimiento sea favorable. Si no es favorable, debe requerirse al interesado para que enmiende las deficiencias.
+4. Si una vez transcurrido el plazo de un mes no se ha emitido el informe de cumplimiento de las condiciones de la autorización ambiental integrada, debe entenderse emitido en sentido favorable y continuará la tramitación.
+5. Una vez emitido el informe favorable de cumplimiento de las condiciones de la autorización ambiental integrada, o si transcurrido el plazo de un mes no se ha emitido, la consejería competente en materia de medio ambiente debe registrar de oficio la actividad, de acuerdo con lo dispuesto en el artículo 32 de esta ley, y debe notificarlo a la persona interesada.
+6. La inscripción en el Registro habilita para el inicio y el ejercicio de la actividad.
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO III
+
+Procedimiento de otorgamiento de una modificación no sustancial de una autorización ambiental integrada
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 79
+
+Artículo 79. Solicitud.
+La solicitud de una modificación no sustancial de la autorización ambiental integrada debe presentarla el promotor o el titular, con todos los datos identificativos, ante la consejería competente en materia de medio ambiente, y debe ir acompañada de la siguiente documentación:
+a) Memoria justificativa que indique razonadamente, según los criterios que señala el artículo 10.2 del Real decreto legislativo 1/2016, o la norma que lo substituya, la consideración de modificación no sustancial. A esta memoria deben adjuntarse los documentos justificativos de las razones expuestas.
+b) Documentación acreditativa del objeto de la modificación no sustancial, que debe incluir la relación de obras que deben ejecutarse con la valoración económica y los planos justificativos, en su caso.
+c) Los datos o los documentos que se determinen reglamentariamente, incluso en la normativa sectorial.
+d) El justificante de pago de los tributos correspondientes, en su caso.
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 80
+
+Artículo 80. Instrucción.
+1. Una vez presentada la documentación, la consejería competente en materia de medio ambiente debe comprobar que la documentación presentada es conforme a la normativa de aplicación.
+2. En caso de deficiencias en la documentación presentada o falta de documentación, se debe requerir al solicitante a fin de que en un plazo de diez días las subsane, de acuerdo con lo previsto en el artículo 68 de la Ley 39/2015 o en la norma que lo substituya.
+3. El órgano instructor debe solicitar los informes a los órganos de la administración que deban pronunciarse sobre las materias que son de su competencia, los cuales deben pronunciarse en un plazo de diez días hábiles.
+4. El órgano competente para otorgar la autorización ambiental integrada, después de la evaluación ambiental de la documentación, debe elaborar la propuesta de resolución e incorporar las condiciones que resulten de los informes vinculantes emitidos.
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 81
+
+Artículo 81. Resolución.
+1. El plazo para dictar y notificar la resolución de modificación no sustancial de la autorización ambiental integrada es de un mes desde la presentación de la documentación.
+2. Si una vez transcurrido el plazo que establece el apartado 1 no se ha dictado ni notificado una resolución expresa a la persona interesada, debe entenderse estimada por silencio administrativo la solicitud de otorgamiento de la modificación no sustancial de la autorización ambiental integrada.
+3. La resolución habilita para iniciar la instalación y la obra de la actividad, sin perjuicio de otras licencias, autorizaciones o permisos que, en su caso, sean exigibles.
+4. El inicio de instalación y obras sin disponer de la resolución de modificación no sustancial de la autorización ambiental integrada, otorgada de forma expresa, se considerará instalación u obra clandestina.
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 82
+
+Artículo 82. Inicio y ejercicio de la actividad.
+1. Una vez ejecutadas las actuaciones objeto de la modificación no sustancial, el titular debe presentar una declaración responsable de inicio y ejercicio de la actividad ante la consejería competente en materia de medio ambiente, acreditativa de los siguientes extremos:
+a) Las obras realmente ejecutadas.
+b) Si es necesario, las variaciones entre el proyecto o la memoria presentada en la solicitud y lo que realmente se ha ejecutado. Las variaciones, en caso de haberlas, no deben implicar una modificación sustancial de la autorización ambiental integrada.
+2. La declaración responsable debe acompañarse con la siguiente documentación:
+a) El certificado final de obra del técnico director o la técnica directora, o memoria del constructor acreditativa del cumplimiento de las condiciones indicadas en la resolución de modificación no sustancial y, en su caso, de la normativa sectorial de aplicación.
+b) El justificante del pago de los tributos correspondientes, en su caso.
+c) La documentación que, en su caso, se especifique en la resolución de modificación no sustancial como necesaria para el inicio de la actividad.
+3. La presentación de la declaración responsable y de la documentación anexa faculta a la persona titular para el inicio y el ejercicio de la actividad, sin perjuicio de lo dispuesto en el apartado 4 del artículo 69 de la Ley 39/2015 o en la norma que lo substituya.
+4. La consejería competente en materia de medio ambiente, en el plazo de quince días hábiles desde la presentación de la declaración responsable y de la documentación anexa, debe realizar las siguientes actuaciones:
+a) Comprobar que la declaración responsable y la documentación anexa son conformes.
+b) Realizar, si lo estima adecuado, la inspección para comprobar el cumplimiento de las prescripciones de la resolución de la modificación no sustancial, con la comunicación previa al titular.
+c) Inscribir la modificación no sustancial en el Registro Autonómico de Actividades sujetas a autorizaciones ambientales integradas.
+Se modifica por el art. 29 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## TÍTULO VIII
+
+Inspecciones
+Se modifica por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO I
+
+Vigilancia, control e inspección
+Se modifica por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 83
+
+Artículo 83. Atribuciones en la vigilancia, el control y la inspección de las actividades.
+1. La persona titular debe vigilar y garantizar el cumplimiento de las determinaciones impuestas por la autorización y por la normativa vigente, así como evitar que las actividades produzcan molestias o que sean insalubres, nocivas, peligrosas o causen perjuicios al medio ambiente. En cualquier caso, está obligada a realizar todas las revisiones legalmente preceptivas, además de las previstas en los artículos 49 y 58 de esta ley.
+2. La administración competente, de acuerdo con el artículo 6 de esta ley, debe vigilar y controlar que el conjunto de actividades instaladas en su ámbito dispongan del correspondiente título habilitante y cumplan con las determinaciones que fija la normativa que les es de aplicación, sin perjuicio de las actuaciones que correspondan a las diferentes administraciones sectoriales en el ámbito de sus competencias.
+Se modifica por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 84
+
+Artículo 84. Facultades administrativas.
+1. Los órganos de las administraciones públicas, en el ámbito de las competencias correspondientes, deben velar por la observancia de la legislación reguladora de las actividades. Por ello, disponen de las siguientes facultades:
+a) Inspección y control de las actividades sujetas a esta ley.
+b) Control de la realización de actividades de espectáculos públicos y recreativas.
+c) Paralización, prohibición, suspensión y clausura de la actividad, de la instalación técnica o de la maquinaria o de una parte de la misma, y adopción de las medidas de seguridad que se consideren necesarias.
+d) Adopción de las medidas provisionales y cautelares oportunas.
+e) Sanción por la comisión de infracciones tipificadas en esta ley.
+f) Requerimiento al titular de una actividad para que envíe la documentación que corresponda a la administración competente.
+g) Incoación, tramitación y resolución de los procedimientos de modificación, caducidad, revocación y revisión de los títulos habilitantes de las actividades.
+h) Incoación, tramitación y resolución de los procedimientos de restablecimiento de la legalidad infringida y de la realidad física alterada.
+i) Decomiso de mercancías o de bienes falsificados, fraudulentos o delictivos y que puedan suponer riesgo para la salud.
+2. Las infracciones y deficiencias graves detectadas en el ejercicio de la actividad de inspección que incidan en el ámbito competencial de otros órganos, tanto de la misma administración como de otras administraciones públicas, deben comunicarse a estas administraciones. Igualmente, las administraciones sectoriales que detecten deficiencias graves que pueden dar lugar a infracciones en materia de actividades, deben comunicarlo a la administración competente.
+3. Cuando en el ejercicio de la actividad inspectora se detecten posibles infracciones en materia de acreditación profesional del personal de control de admisión y control de ambiente interno en las actividades de espectáculos públicos y recreativas, se debe dar traslado de estas circunstancias al consejo insular competente a fin de que pueda tramitar el correspondiente expediente sancionador.
+Se modifica por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 85
+
+Artículo 85. Inspección y control.
+1. Las actuaciones derivadas de las funciones inspectoras previstas en este título deben llevarlas a cabo los funcionarios que ocupen puestos de trabajo que tengan atribuidas funciones en materia de inspección de actividades y espectáculos públicos. Los inspectores tienen carácter de agente de la autoridad.
+2. En el ejercicio de sus funciones, los inspectores pueden ser auxiliados por personal funcionario.
+3. No obstante lo establecido en el apartado 1 anterior, las administraciones públicas competentes pueden encomendar el ejercicio de funciones de inspección y control a entidades colaboradoras debidamente habilitadas en los términos establecidos en esta ley y en la normativa que la desarrolle.
+Se modifica por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 86
+
+Artículo 86. Facultades y deberes del personal inspector.
+1. El personal inspector está facultado para:
+a) Exigir la exhibición de cualquier documentación referida a la actividad.
+b) Acceder directa y libremente, durante el tiempo necesario, sin aviso previo y con identificación previa, al establecimiento y a los lugares donde se desarrolla la actividad e inspeccionarlos. No obstante, cuando esté previsto expresamente en el protocolo específico y en las campañas, y cuando la finalidad de la inspección pueda frustrarse por el hecho de identificarse previamente, no será necesaria la identificación hasta que se haya constatado el hecho de la infracción.
+c) Proponer a la autoridad competente el inicio del procedimiento previsto en los artículos 109 y 110 de esta ley.
+d) Adoptar las medidas cautelares del artículo 111 y las medidas provisionalísimas del artículo 112.
+e) Proponer el inicio del expediente sancionador correspondiente en tanto que los hechos puedan ser constitutivos de infracciones tipificadas en esta ley.
+f) Proponer a la autoridad competente la modificación, la revisión o la revocación del permiso, la licencia o el título habilitante para el ejercicio de la actividad inspeccionada, así como la paralización o el precinto de la actividad o de parte de la misma, o de alguna instalación o maquinaria.
+g) Verificar los hechos causantes de reclamaciones y denuncias e investigar los que puedan ser constitutivos de infracción de la normativa de actividades.
+h) Levantar y tramitar las actas de inspección en el ejercicio de sus funciones.
+i) Efectuar cualquier otra actuación que, en relación con la protección de la seguridad de los usuarios y de la legalidad de la actividad, le sea atribuida legal o reglamentariamente.
+2. Los inspectores o las inspectoras, en el ejercicio de la actuación inspectora, tienen los siguientes deberes:
+a) Exhibir la acreditación de su condición al iniciar la actuación inspectora, salvo en los casos excepcionales debidamente acreditados en que la finalidad de la inspección pueda frustrarse por este motivo.
+b) Cumplir el deber de secreto profesional y mantener la confidencialidad de la actuación inspectora.
+c) Observar el respeto y la consideración debidos a las personas interesadas, e informarlas de sus derechos y deberes con el fin de facilitar su cumplimiento.
+d) Llevar a cabo la actuación inspectora con celeridad y discreción máximas, y procurar que tenga la mínima repercusión en la actividad de que se trate.
+e) Exigir la restauración de la legalidad.
+Se modifica la letra c) del apartado 1 por la disposición final 3.9 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-3
+ Se modifica la letra c) del apartado 1 por la disposición final 3.9 del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#df-3
+ Se deja sin efecto la modificación de la letra c) del aparado 1 por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025. Ref. BOIB-i-2025-90242, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre.
+ Se modifica la letra c) del apartado 1 por la disposición final 4.9 del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+ Se modifica por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 87
+
+Artículo 87. Actas.
+1. De cada actuación inspectora se puede levantar un acta que, en todo caso, es obligatoria cuando esté el encargado en caso de inspección y se detecte un posible incumplimiento. Una copia de dicha acta se debe entregar al encargado en caso de inspección, el cual puede hacer constar la disconformidad o hacer observaciones al contenido. Otro ejemplar del acta se debe enviar a la autoridad competente para que inicie el procedimiento sancionador, si procede.
+2. En el acta, con carácter general, deben figurar:
+a) Los datos de identificación del titular o representante legal, si procede, del encargado o la encargada en caso de inspección y de las personas que intervienen y forman parte del acta, así como del inspector o la inspectora y los datos de identificación de la actividad.
+b) El lugar, la fecha y la hora.
+c) El objeto de la inspección.
+d) La exposición de los hechos.
+e) Las circunstancias y los datos que contribuyan a determinar la posible existencia de una infracción administrativa, así como las otras circunstancias que concurran.
+f) La relación de los bienes decomisados, en su caso.
+g) Las manifestaciones que el compareciente quiera hacer constar.
+3. Las actas las debe firmar el inspector o la inspectora actuante y el encargado o la encargada en caso de inspección. La firma del encargado o la encargada en caso de inspección acredita la notificación y el conocimiento del acta y del contenido, pero no implica su aceptación. La negativa a firmar el acta se debe hacer constar y no supone la paralización o el archivo de las posibles actuaciones motivadas por el contenido. En todo caso, se debe entregar o enviar una copia del acta al encargado o la encargada en caso de inspección.
+4. El acta de inspección que se levante a raíz de un plan de inspección, una campaña o una denuncia, puede limitarse a recoger únicamente el alcance que se determine en el plan de inspección, en la campaña o en el hecho denunciado. En caso de que se haga mediante herramientas informáticas, deben determinar el alcance de la inspección.
+No obstante, el inspector o la inspectora puede recoger otros aspectos no previstos en el plan y que puedan ser constitutivos de infracción, y debe remitir la actuación al órgano competente.
+5. Las actas de inspección levantadas y firmadas por los inspectores o las inspectoras con competencia en materia de actividades, de acuerdo con los requisitos que establece la normativa aplicable, tienen presunción de certeza y valor probatorio de los hechos constatados, sin perjuicio de las pruebas que puedan aportar o señalar las personas interesadas en defensa de sus derechos e intereses.
+Se modifica por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 88
+
+Artículo 88. Control de las revisiones periódicas.
+1. La autoridad competente debe velar para que se presenten en el plazo legalmente exigible las revisiones obligatorias previstas en los artículos 50 y 58 y en la disposición transitoria undécima.
+2. Sin perjuicio de incurrir en alguna de las infracciones previstas en esta ley, la no presentación en plazo de la revisión dará lugar, en el caso de actividades permanentes, a la incoación de un expediente de caducidad del título habilitante de conformidad con lo previsto en esta ley.
+Cuando se trate de actividades itinerantes y previa audiencia a las personas interesadas, se debe dar de baja la actividad en el registro autonómico correspondiente.
+3. No obstante lo anterior, cuando el titular de una actividad permanente manifieste la necesidad de realizar modificaciones sustanciales con el fin de poder obtener una revisión favorable, la administración competente le puede otorgar un plazo para llevarlas a cabo, transcurrido el cual, si no se ha presentado la correspondiente revisión, se debe entender caducado el título habilitante de la actividad por ministerio de la ley. En este caso, el titular debe cerrar la actividad sin más trámite.
+La duración de este plazo debe ser la razonable atendiendo al tipo de obra o instalación y también a las necesidades de financiación para llevarlas a cabo. La resolución debe considerar, de forma motivada, la necesidad de implementar medidas correctoras provisionales o de suspender total o parcialmente la actividad si hay constancia de deficiencias graves que pueden suponer un riesgo para las personas o sus bienes.
+4. El ayuntamiento debe dar cuenta al Registro de Actividades de las Illes Balears del otorgamiento del plazo previsto en el apartado anterior, así como de la resolución de caducidad del título habilitante.
+5. Los órganos competentes, de oficio o a instancia de parte, pueden comprobar en cualquier momento, por sí mismos o a través de ECAC, el cumplimiento de las disposiciones y los requisitos de seguridad, de salubridad y medioambientales de las actividades, así como de la correcta elaboración de las revisiones realizadas.
+Se modifica por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 89
+
+Artículo 89. Derechos y deberes de la persona titular de la actividad, del personal empleado y de los técnicos o las técnicas de parte.
+1. Los derechos del titular de la actividad, del personal empleado y de los técnicos o las técnicas de parte son:
+a) Las personas titulares que proporcionen información a la administración inspectora pueden invocar el carácter confidencial en los aspectos relativos a los procesos fabriles y a cualesquiera otros cuya confidencialidad esté reconocida legalmente.
+b) Los técnicos o las técnicas de parte y las personas titulares pueden consultar a la administración competente las fechas de las revisiones periódicas que corresponden a su actividad por medios electrónicos.
+2. Los deberes de la persona titular de la actividad, el personal empleado y los técnicos o las técnicas de parte son:
+a) El encargado o la encargada, en caso de inspección, tiene el deber de facilitar a los inspectores o las inspectoras el acceso a las instalaciones y dependencias donde se desarrolle la actividad. Asimismo, debe facilitar tanto el examen de los documentos relacionados con la actividad proporcionando copias o reproducciones de la documentación, como la comprobación de todos los datos que sean necesarios para los fines de la inspección.
+b) Con el fin de proceder de la mejor manera posible en la actividad inspectora y de control, el personal del servicio de admisión y control de ambiente interno tiene el deber de colaborar con el personal inspector en el ejercicio de su función inspectora.
+Se modifica por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 90
+
+Artículo 90. Facultades de la consejería competente en materia de actividades y espectáculos públicos.
+1. La consejería competente en materia de actividades y espectáculos públicos debe hacer inspecciones de las actividades suprainsulares y las itinerantes, en este último caso en relación con su inscripción en el Registro Autonómico de Actividades. Asimismo, la consejería competente en materia de actividades y espectáculos públicos puede realizar campañas de inspección para detectar incumplimientos o deficiencias específicas en cualquier tipo de actividad, las cuales pueden hacerse en colaboración con los ayuntamientos o consejos insulares.
+2. Las campañas de inspección previstas en el apartado anterior serán:
+a) Estadísticas: con la finalidad de recoger datos para hacer estudios. De estas inspecciones, no se levantan actas.
+b) Correctoras: se levanta acta y se envía a la administración competente para que, si procede, incoe el expediente sancionador correspondiente.
+Se modifica por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO II
+
+Entidades colaboradoras en materia de actividades
+Se modifica por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 91
+
+Artículo 91. Régimen jurídico de las ECAC
+1. Las entidades colaboradoras en materia de actividades (ECAC) son entidades técnicas especializadas, públicas o privadas, con personalidad jurídica propia, que deben disponer de los medios materiales y personales, y también cumplir los requisitos de solvencia técnica y financiera establecidos por reglamento.
+2. Las ECAC actúan con imparcialidad, confidencialidad y responsabilidad, y se sujetan al régimen de incompatibilidades que establece la normativa sectorial, con la finalidad de garantizar su independencia en el ejercicio de las funciones encomendadas.
+3. Las ECAC están obligadas a suscribir pólizas de seguros que cubran los riesgos de su actividad en una cuantía mínima de dos millones de euros.
+4. La valoración del cumplimiento de los requisitos que establece este artículo se lleva a cabo mediante el sistema de habilitación previsto en el artículo siguiente.
+5. Para ser habilitado como ECAC se debe cumplir lo previsto en esta ley, además de tener la acreditación como organismo de control de acuerdo con la normativa estatal.
+No obstante lo anterior, los colegios profesionales cuyos colegiados tengan las competencias profesionales descritas en los apartados anteriores se pueden constituir como ECAC, aunque no estén acreditados como organismos de control, siempre que cumplan con el resto de requisitos que establece esta ley.
+6. Reglamentariamente se podrán regular los supuestos para la habilitación como ECAC de otras personas físicas o jurídicas que no estén acreditadas como organismo de control.
+Se modifica por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 92
+
+Artículo 92. Sistema de habilitación.
+1. La finalidad del sistema de habilitación es garantizar que las ECAC y su personal técnico cumplen los requisitos de capacidad, independencia, imparcialidad y responsabilidad, y también los otros requisitos que se puedan establecer por reglamento.
+2. Se entiende por habilitación la resolución administrativa dictada por la consejería competente en materia de actividades y espectáculos públicos por la cual se declara la aptitud y la capacidad de una ECAC, y de su personal técnico, para ejercer las funciones de inspección y control en un ámbito material que la legislación aplicable reserva a la administración pública. La habilitación otorga la condición de ECAC.
+Se modifica por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 92 bis
+
+Artículo 92 bis. Obligaciones de las entidades colaboradoras.
+Las obligaciones de las ECAC son:
+a) Cumplir y mantener los requisitos en función de los cuales se les ha otorgado la habilitación, y también informar al órgano administrativo competente de cualquier cambio en estos requisitos.
+b) Cumplir adecuadamente las funciones de inspección y control para las cuales se les ha otorgado la habilitación y garantizar la confidencialidad de la información que obtengan en el ejercicio de estas funciones.
+c) No subcontratar actuaciones vinculadas al ejercicio de las funciones de inspección y control para las cuales se les ha otorgado la habilitación.
+d) Someterse en cualquier momento a la supervisión del órgano competente en materia de habilitación.
+e) Entregar copia de las actas, los informes y las certificaciones emitidos, y también cualquier información que les sea solicitada, al órgano competente en materia de habilitación.
+f) Tener dependencias de atención al público, ya sea en sus oficinas o en sedes electrónicas.
+g) Tener un sistema de reclamaciones a disposición de las personas físicas y jurídicas que sean inspeccionadas o controladas.
+h) Estar acreditadas como entidad de inspección tipo A de conformidad con la norma UNE-EN ISO/IEC 17020 o norma que la sustituya.
+i) Disponer de un sistema de gestión de la calidad debidamente certificado que abarque la totalidad de su actividad.
+j) Cumplir cualquier otra obligación que imponga la normativa sectorial que les sea aplicable.
+Se añade por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 92 ter
+
+Artículo 92 ter. Actas, informes y certificaciones.
+1. Los hechos constatados por el personal técnico habilitado de las ECAC en el ejercicio de las funciones de inspección y control, y también cualquier actuación técnica que les sea encargada, se documentan en las actas, los informes y las certificaciones correspondientes, en los términos que fija esta ley y el resto de normativa sectorial. En todo caso se debe hacer constar expresamente la condición de ECAC.
+2. Las actas, los informes y las certificaciones emitidos por el personal técnico habilitado de las entidades colaboradoras en el ejercicio de las funciones de inspección y control tienen la misma validez jurídica que los emitidos por el personal de la administración encargado de estas funciones.
+Se añade por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 92 quater
+
+Artículo 92 quater. Supervisión administrativa.
+1. La consejería competente en materia de actividades y espectáculos públicos está facultada para supervisar las actuaciones de las entidades colaboradoras en el ejercicio de funciones de inspección y control, en los términos establecidos en esta ley y en el resto de normativa sectorial.
+2. Las personas afectadas por las actuaciones de las ECAC pueden presentar reclamaciones en caso de incumplimiento de las obligaciones establecidas en el artículo 92 bis. En los casos de resolución desfavorable o de falta de resolución dentro del plazo, las personas afectadas pueden trasladar la reclamación ante el órgano administrativo competente en materia de habilitación.
+Se añade por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 92 quinquies
+
+Artículo 92 quinquies. Suspensión y retirada de la habilitación.
+1. La constatación, como resultado de la supervisión administrativa establecida en el artículo anterior, del incumplimiento grave de las obligaciones en que están sujetas las entidades habilitadas o sus técnicos o técnicas faculta al órgano competente para acordar la suspensión o la retirada definitiva de la habilitación a la entidad colaboradora o, si procede, al personal técnico responsable, sin perjuicio del régimen sancionador que establecen esta ley y otras leyes sectoriales.
+2. El acuerdo de suspensión de la habilitación se dicta con la audiencia previa de la entidad colaboradora o del personal técnico afectado, y debe indicar los motivos y la duración, que en ningún caso puede ser superior a seis meses.
+3. El transcurso del plazo de suspensión de la habilitación sin que la entidad colaboradora o el personal técnico responsable hayan adoptado medidas correctoras del incumplimiento grave comporta la retirada definitiva de la habilitación, con la audiencia previa de la entidad o del personal técnico afectado.
+4. A los efectos de lo establecido en este artículo, se entiende por incumplimiento grave:
+a) La reiteración en el incumplimiento de las obligaciones a las que quedan sujetos las entidades y sus técnicos o técnicas habilitados.
+b) El incumplimiento de los requisitos preceptivos para la habilitación de la entidad o de sus técnicos o técnicas.
+Se añade por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 92 sexies
+
+Artículo 92 sexies. Suspensión y pérdida de la habilitación.
+1. Las ECAC deben solicitar la suspensión, parcial o total, de su habilitación cuando se modifiquen los requisitos que justificaron su otorgamiento.
+2. La suspensión se acuerda por resolución del órgano competente en materia de habilitación, al cual corresponde también levantar la suspensión a petición de la entidad colaboradora y con la comprobación previa de que han desaparecido las causas que la motivaron. La suspensión no puede tener una duración superior a un año.
+3. El transcurso del plazo de suspensión de la habilitación sin que la entidad colaboradora cumpla con los requisitos preceptivos supone la pérdida de la habilitación.
+Se añade por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## TÍTULO IX
+
+Infracciones y sanciones
+Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO I
+
+Régimen sancionador
+Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 93
+
+Artículo 93. Principios generales.
+El ejercicio de la potestad sancionadora, en el ámbito de esta ley, se rige por los principios de legalidad, irretroactividad, tipicidad, responsabilidad y proporcionalidad, de acuerdo con lo dispuesto en la normativa de régimen jurídico del sector público y en la del procedimiento administrativo.
+Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO II
+
+Planificación autonómica de inspecciones
+
+### Artículo 94
+
+Artículo 94. Procedimiento sancionador.
+1. Las infracciones en materia de actividades deben ser objeto de las sanciones administrativas correspondientes, con la instrucción previa del procedimiento administrativo oportuno tramitado de acuerdo con la normativa de procedimiento administrativo y de procedimiento sancionador.
+2. El procedimiento sancionador se debe resolver y notificar en el plazo máximo de un año desde su inicio. No obstante, el instructor o la instructora del expediente puede declarar la suspensión del plazo máximo para resolver cuando concurran circunstancias del artículo 22 de la Ley 39/2015, o de la norma que lo sustituya.
+Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 95
+
+Artículo 95. Acción pública.
+1. Debe ser pública la acción para exigir ante los órganos administrativos y los tribunales la observancia de las normas en materia de actividades reguladas en esta ley, y la adopción de las medidas de defensa de la legalidad, restauración de la realidad física alterada y sanción de las infracciones.
+2. Si a consecuencia del ejercicio de la acción pública se inicia un expediente sancionador, esta circunstancia se debe notificar al denunciante.
+3. Según la normativa general sobre protección de datos de carácter personal, la administración competente velará por la protección de la identidad del denunciante cuando sea una persona física, excepto que haya participado también en la comisión de la infracción.
+Se añade el apartado 3 por el art. único.3 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#au
+ Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## TÍTULO IX
+
+Infracciones y sanciones
+
+## CAPÍTULO I
+
+Régimen sancionador
+
+### Artículo 96
+
+Artículo 96. Delitos e infracciones administrativas.
+1. Cuando se aprecien indicios que determinados hechos pueden ser constitutivos de delito o falta, con motivo de la incoación del procedimiento sancionador, el órgano administrativo competente debe comunicarlo a la jurisdicción penal o al Ministerio Fiscal y se debe abstener de continuar el procedimiento administrativo mientras la autoridad judicial no se haya pronunciado.
+2. Si no se estima la existencia de delito o falta, el órgano administrativo competente debe continuar el expediente sancionador y quedará interrumpido, mientras duren las diligencias penales, el plazo para concluir el expediente administrativo sancionador.
+3. No pueden sancionarse los hechos que hayan sido sancionados penal o administrativamente, en los casos en los que se aprecie la identidad del sujeto, los hechos y el fundamento.
+En ningún caso se puede imponer más de una sanción por los mismos hechos, si bien se tendrán que exigir las otras responsabilidades que se deduzcan de otros hechos o de infracciones concurrentes.
+Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 97
+
+Artículo 97. Prescripción de infracciones.
+1. Las infracciones tipificadas en esta ley prescriben: las leves en el plazo de seis meses; las tipificadas como graves en el plazo de dos años; y las tipificadas como muy graves en el plazo de tres años.
+2. El plazo de prescripción empieza a contar desde que se comete la infracción. En las infracciones derivadas de una actividad continuada, la fecha inicial del cómputo es la de la finalización de la actividad o la del último acto en que la infracción se ha cometido.
+3. Interrumpe la prescripción la iniciación, con conocimiento de la persona interesada, del procedimiento sancionador, y se reanuda el plazo de prescripción si el expediente sancionador está paralizado durante más de un mes por causa no imputable a la persona presuntamente responsable.
+4. La tramitación de las diligencias penales interrumpe los plazos de prescripción de la infracción.
+Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 98
+
+Artículo 98. Prescripción de sanciones.
+1. Prescriben en el plazo de seis meses las sanciones impuestas por infracciones leves; a los dos años, las impuestas por infracciones graves; y a los tres años, las impuestas por infracciones muy graves.
+2. El plazo de prescripción de las sanciones empieza a contar desde el día siguiente al que adquiere firmeza la resolución por la que se impuso la sanción.
+3. Interrumpe la prescripción la iniciación, con conocimiento de la persona interesada, del procedimiento de ejecución, y se reanuda el plazo si está paralizado durante más de un mes por causa no imputable a la persona infractora.
+Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 99
+
+Artículo 99. Notificación a los colegios profesionales correspondientes.
+Las resoluciones firmes de los expedientes sancionadores en los que aparezca un técnico o una técnica deben notificarse al correspondiente colegio profesional a efectos de la depuración que corresponda según sus estatutos profesionales.
+Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 100
+
+Artículo 100. Concurrencia de la normativa de actividades con otras normativas.
+1. La realización de obras e instalaciones en el ámbito de esta ley se sancionará de acuerdo con lo que prevé la normativa urbanística, y se aplicarán las infracciones y sanciones previstas en esta ley de forma supletoria.
+Las legalizaciones y los procedimientos de restablecimiento de la legalidad infringida y de la realidad física alterada se realizarán de acuerdo con lo que prevé la normativa urbanística.
+2. Las infracciones que se detecten en actividades o instalaciones reguladas en esta ley solo se sancionarán de acuerdo con lo que prevé este título en ausencia de un régimen sancionador específico.
+Se modifica por la disposición final 2.3 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se modifica por la disposición final 2.4 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se deja sin contenido por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO II
+
+Tipificación de las infracciones
+Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 101
+
+Artículo 101. Infracciones.
+1. Constituyen infracciones administrativas las acciones u omisiones tipificadas como tales en los artículos siguientes.
+2. Las infracciones administrativas se clasifican en leves, graves y muy graves.
+Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO II
+
+Tipificación de las infracciones
+
+### Artículo 102
+
+Artículo 102. Infracciones leves.
+1. Se consideran infracciones leves:
+a) Cualquier infracción que suponga un incumplimiento de alguna de las prescripciones de esta ley y de la normativa en materia de actividades y espectáculos públicos que no tenga la consideración de grave o muy grave.
+b) Falta de limpieza o mal estado del establecimiento físico o de sus instalaciones en materia de sanidad y salubridad, de los cuales no se derive un riesgo para la integridad física o la salud de las personas.
+c) No disponer en el lugar donde se desarrolla la actividad de la documentación preceptiva.
+d) Insuficiencia del seguro de la actividad o del seguro del profesional en vigor en menos de un 50% de cualquiera de las condiciones de la disposición adicional tercera de esta ley.
+e) La falta de comunicación de la transmisión o del cambio de titularidad o de la baja de la actividad.
+2. En las actividades de espectáculos públicos y recreativas, y establecimientos públicos, además de las anteriores, son infracciones leves las siguientes:
+a) El incumplimiento de menos de quince minutos del horario general de apertura y de cierre.
+b) No tener expuesta en la fachada la placa exterior prevista en el artículo 18 de esta ley.
+c) Incumplimiento de identificación, de dotación o de ejercicio de funciones del personal de admisión y control de ambiente interno o de dotación del personal de vigilancia.
+d) Caducidad de la tarjeta de acreditación profesional del personal de admisión y control de ambiente interno o de la acreditación profesional prevista en el artículo 58 de esta ley.
+e) Incumplimiento del deber de disponer in situ de la tarjeta de acreditación profesional del personal de admisión y control de ambiente interno o de la tarjeta de acreditación profesional prevista en el mencionado artículo 58, o que no se lleve en un lugar visible cuando corresponda.
+f) La participación en fiestas ilegales, salvo que puedan tener la consideración de infracción grave.
+3. Con respecto a las entidades colaboradoras en materia de actividades, son infracciones leves:
+a) Utilizar de manera incorrecta la condición de entidad colaboradora de la administración pública.
+b) Emitir informes, certificaciones o actas con inexactitudes no sustanciales.
+c) No conservar los registros y datos de campo de manera trazable e inteligible, dificultando la supervisión administrativa establecida en el artículo 92 quater.
+d) No emitir las actas, los informes y los certificados exigibles dentro de los plazos legalmente establecidos y con el contenido y el formato y soporte que se haya determinado.
+Se añade el apartado 2.f) por el art. único.4 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#au
+ Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 103
+
+Artículo 103. Infracciones graves.
+1. Se consideran infracciones graves:
+a) La puesta en funcionamiento de una instalación o el ejercicio de una actividad de las reguladas en esta ley que, incumpliendo alguna sus prescripciones, suponga un riesgo grave pero no inminente para la seguridad, la salubridad o el medio ambiente, siempre que no tenga la consideración de infracción muy grave.
+b) La instalación, el inicio o el ejercicio de una actividad permanente menor o inocua, o su modificación, así como las actividades no permanentes menores, inocuas o de recorrido y las actividades itinerantes menores o inocuas, cuando no se hayan presentado o no hayan obtenido los títulos habilitantes pertinentes; no se haya presentado la documentación anexa que se debe presentar preceptivamente ante la administración; y cuando los títulos o la documentación mencionados contengan inexactitudes, falsedades u omisiones de carácter esencial o no se disponga de las autorizaciones sectoriales que sean preceptivas.
+c) El incumplimiento de las condiciones que establecen las autorizaciones administrativas que legitiman la instalación, el inicio o el ejercicio de actividades permanentes o no permanentes.
+d) Cualquier infracción que suponga un incumplimiento de alguna de las prescripciones de esta ley y de la normativa en materia de actividades y espectáculos públicos de la cual se derive una disminución de la seguridad de la actividad, siempre que no sea una infracción muy grave.
+e) Falta del seguro de la actividad o del seguro profesional.
+f) La insuficiencia del seguro de la actividad o del seguro del profesional en vigor en más de un 50% de las condiciones indicadas en la disposición adicional tercera de esta ley.
+g) La instalación de una actividad itinerante menor o inocua sin estar inscrita en el Registro de Actividades de las Illes Balears.
+h) Superar la capacidad máxima prevista en la normativa vigente, en el proyecto, en la documentación técnica o en la autorización, en un porcentaje de hasta el 20% en el establecimiento o la zona del establecimiento.
+i) No contratar el mantenimiento de las instalaciones que estén obligadas a ello o contratarlo con empresas no autorizadas, siempre que la legislación específica no establezca la infracción correspondiente.
+j) El incumplimiento del deber de presentar las revisiones obligatorias previstas en los artículos 49 y 58 y en la disposición transitoria undécima.
+k) Las deficiencias en el funcionamiento de los servicios básicos de alumbrado o cualquier otro incumplimiento de las normas que afecte a los aspectos constructivos o de instalaciones de los locales, que no signifiquen un riesgo para las personas.
+l) La omisión de medidas correctoras sobre condiciones de higiene de los locales donde se lleven a cabo las actividades establecidas en las normas generales o en las autorizaciones administrativas.
+m) Falta de limpieza o mal estado del establecimiento físico o de sus instalaciones en materia de sanidad y salubridad, de los cuales se derive un riesgo para la integridad física o la salud de las personas.
+n) En su caso, no haber presentado la comunicación con la documentación adecuada prevista en la disposición transitoria sexta de régimen especial de actividades exentas.
+o) La omisión de datos, la ocultación de informes o la obstrucción de la actividad inspectora de la administración que tenga carácter esencial y que pueda inducir a confusión o reducir la trascendencia de los riesgos para las personas o el impacto ambiental.
+2. En las actividades de espectáculos públicos y recreativas, y establecimientos públicos, además de las anteriores, son infracciones graves las siguientes:
+a) Consumir, despachar o permitir el consumo de bebidas alcohólicas cuando no esté permitido.
+b) Las explosiones de petardos, tracas o luces de bengala, antorchas, utilización de armas de fuego o de cualesquiera otros utensilios u objetos similares, fuera de las ocasiones previstas en el proyecto o en la normativa vigente.
+c) Las perturbaciones del orden en el local producidas por espectadores o usuarios.
+d) El ejercicio del derecho de admisión de forma discriminatoria, arbitraria o abusiva.
+e) Falta de servicio de admisión y control de ambiente interno, y del servicio de vigilancia cuando sea preceptivo.
+f) Permitir la entrada o la permanencia de menores en las actividades recreativas musicales previstas en la letra b) del artículo 24.1 fuera de los horarios permitidos.
+g) Ejercer como personal del servicio de admisión y control de ambiente interno sin la preceptiva acreditación.
+h) La instalación y puesta en funcionamiento de actividades itinerantes menores sin la supervisión de una persona que disponga de la acreditación profesional pertinente.
+i) El incumplimiento de más de quince minutos del horario general de apertura y de cierre.
+j) La organización, la comercialización, la publicidad o la celebración de fiestas ilegales, salvo que puedan tener la consideración de infracción muy grave.
+k) La participación en fiestas ilegales cuando se lleven a cabo en viviendas o en espacios naturales protegidos.
+3. Con respecto a las entidades colaboradoras en materia de actividades, son infracciones graves:
+a) Incumplir las condiciones que, si procede, establezca la resolución administrativa de habilitación.
+b) Incumplir las obligaciones a las que queda sujeta la entidad como entidad colaboradora habilitada.
+c) Ejercer como entidad colaboradora, habiendo modificado los requisitos preceptivos para la habilitación.
+d) Modificar los requisitos preceptivos para la habilitación sin comunicarlo al órgano competente en materia de habilitación.
+e) Realizar actuaciones como entidad colaboradora mediante personal técnico no habilitado o utilizando aparatos, medios, equipos o metodologías inadecuados.
+f) Emitir informes, certificaciones o actas que contengan falsedades o inexactitudes graves que den lugar a una interpretación confusa o errónea.
+g) Realizar actuaciones que vulneren los requisitos de confidencialidad, imparcialidad e independencia.
+h) Incumplir los requisitos de incompatibilidad establecidos por reglamento.
+i) No facilitar la información requerida por el órgano competente en materia de habilitación.
+Se añaden las letras j) y k) al apartado 2 por el art. único.5 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#au
+ Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 104
+
+Artículo 104. Infracciones muy graves.
+Se consideran infracciones muy graves:
+a) La puesta en funcionamiento de una instalación o el ejercicio de una actividad de las reguladas en esta ley que, incumpliendo alguna de sus prescripciones, suponga un riesgo grave inminente para la seguridad, la salubridad o el medio ambiente.
+b) La puesta en funcionamiento de una instalación o el ejercicio de una actividad permanente mayor que, incumpliendo alguna de las prescripciones establecidas en esta ley, suponga un riesgo grave para la seguridad, la salubridad o el medio ambiente.
+c) La instalación, el inicio o el ejercicio de una actividad permanente mayor, o su modificación, así como las actividades no permanentes mayores y actividades itinerantes mayores, cuando no se haya obtenido el correspondiente título habilitante o no se haya presentado la comunicación previa, la declaración responsable o la documentación anexa que se debe presentar preceptivamente ante la administración, o que contenga inexactitudes, falsedades u omisiones de carácter esencial o no se disponga de las autorizaciones sectoriales que sean preceptivas.
+d) Superar la capacidad máxima prevista en la normativa vigente, en el proyecto, en la documentación técnica o en la autorización, en un porcentaje de un 20% o más en el establecimiento o en la zona del establecimiento.
+e) Negar el acceso al local o al recinto a los agentes de la autoridad o al personal de inspección. Impedir u obstaculizar la inspección. La negativa a colaborar en la inspección o en los procedimientos de ejecución forzosa.
+f) El incumplimiento de las medidas cautelares previstas en el artículo 111 de esta ley.
+g) La cesión o el arrendamiento de terrenos o establecimientos físicos para realizar actividades no permanentes que no tengan la autorización preceptiva o que el arrendador anuncie la finalidad mencionada.
+h) La realización dentro del establecimiento de alguna actividad prohibida por ley.
+i) La realización de actividades de espectáculos públicos y recreativas, vinculadas o no a una actividad permanente, que se lleven a cabo sin la preceptiva autorización en suelo rústico protegido o en dominio público marítimo-terrestre.
+j) La rotura de precintos sin autorización.
+k) La falsificación de la tarjeta de acreditación profesional del personal del servicio de admisión y control de ambiente interno y de la acreditación profesional para la instalación y el funcionamiento de las actividades itinerantes menores.
+l) La expedición irregular de documentos, certificados técnicos o administrativos, que contengan inexactitudes, falsedades y omisiones de carácter esencial.
+m) Permitir la entrada a menores en los lugares donde no esté permitido.
+n) La instalación de una actividad itinerante mayor sin estar inscrita en el Registro de Actividades de las Illes Balears.
+o) Las deficiencias en el funcionamiento de los servicios básicos de alumbrado o cualquier otro incumplimiento de las normas que afecte a los aspectos constructivos o de instalaciones de los locales y que signifiquen un riesgo para las personas.
+p) La emisión por parte de una ECAC de informes, certificaciones o actas que contengan falsedades o inexactitudes graves de manera que el pronunciamiento resultante de la actuación sobre el cumplimiento de la normativa por parte de la actividad no se ajuste a la realidad.
+q) Obstaculizar las actuaciones de supervisión administrativa del órgano administrativo competente en materia de ECAC.
+r) La organización, la comercialización, la publicidad o la celebración de fiestas ilegales cuando se lleven a cabo en viviendas o en espacios naturales protegidos.
+Se añade la letra r) por el art. único.6 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#au
+ Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO III
+
+Personas responsables y determinación de las sanciones
+Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 105
+
+Artículo 105. Responsables.
+1. Son responsables de las infracciones administrativas en materia de actividades y espectáculos públicos las personas físicas y jurídicas públicas o privadas que incurran en las acciones u omisiones tipificadas en esta ley, y específicamente:
+a) El promotor o la promotora o la persona titular de la actividad, así como las personas que tengan atribuida capacidad decisoria sobre la ejecución o el desarrollo de actos que impliquen la comisión de infracciones previstas en esta ley.
+b) Los redactores o las redactoras de los proyectos técnicos, las personas encargadas de la dirección de la obra o la instalación, las personas que participan en la instalación, el mantenimiento, la utilización o la inspección de las instalaciones, cuando la infracción cometida sea consecuencia directa de su intervención.
+c) Las personas propietarias del inmueble en cuanto a la celebración de fiestas ilegales o de actividades no permanentes sin la autorización preceptiva. Se presume, salvo prueba en contra, que la persona propietaria del inmueble tiene conocimiento de las actividades que constituyen la infracción cuando por cualquier acto haya cedido el uso a la persona responsable directa de la infracción, incluida la simple tolerancia.
+d) Las ECAC y otros organismos de control, así como el personal técnico competente en la realización de inspecciones o revisiones técnicas, respecto a las infracciones cometidas en el ejercicio de su actividad.
+e) Los usuarios, los artistas, los espectadores o el público asistente son responsables en los casos que incumplan las obligaciones prescritas en esta ley.
+f) El personal de admisión y control de ambiente interno de las actividades de espectáculos públicos y recreativas es responsable respecto a las funciones atribuidas por la normativa vigente.
+g) Las personas adultas que acompañan a los menores, solidariamente con la persona titular de la actividad, sobre los incumplimientos de las obligaciones del artículo 24 de esta ley.
+h) Los profesionales o empresas que colaboren en la organización o celebración de una fiesta ilegal bien a través de la prestación de servicios artísticos o de entretenimiento, o bien suministrando infraestructuras y equipamientos como por ejemplo carpas, equipos de sonido, etc.
+i) En el supuesto de que la infracción sea imputada a una persona jurídica, son responsables solidarias las personas físicas que ocupan cargos de administración o de dirección que hayan cometido la infracción o que hayan colaborado activamente, que no acrediten haber hecho todo lo posible, en el marco de sus competencias, para evitarla, que la hayan consentido o que hayan adoptado acuerdos que la posibiliten, tanto si han cesado en su actividad como si no.
+2. La persona titular y los promotores o las promotoras de las actividades de espectáculos públicos y recreativas son responsables solidarios de las infracciones administrativas reguladas en esta ley cometidas por los que intervienen y por los que estén bajo su dependencia, cuando incumplan el deber de prevenir la infracción.
+3. La persona titular y los promotores o las promotoras de las actividades de espectáculos públicos y recreativas son responsables solidarios cuando, por acción u omisión, permitan o toleren la comisión de infracciones por parte del público o de los usuarios.
+4. La persona titular es responsable administrativamente de las infracciones cometidas por los trabajadores o por terceras personas que, sin tener vinculación laboral, realicen prestaciones incluidas en los servicios contratados por ésta.
+5. Cuando haya varias personas responsables a título individual y no sea posible determinar el grado de participación de cada una en la realización de la infracción, responderán todas de manera solidaria.
+6. La responsabilidad del personal funcionario y del personal al servicio de las administraciones públicas, si procede, será exigible de acuerdo con las normas que regulan su régimen disciplinario, sin perjuicio de la responsabilidad penal o civil en que se haya podido incurrir.
+Se modifica la letra c) y se añaden las letras h) e i) por el art. único.7 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#au
+ Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 106
+
+Artículo 106. Sanciones.
+Las infracciones se pueden sancionar por vía administrativa de conformidad con lo siguiente:
+a) Infracciones leves, con multa de 300 a 3.000 euros; no obstante, cuando no haya reincidencia y cuando no se trate de infracciones contra la seguridad, la salubridad o el medio ambiente, puede sustituirse por una admonición o advertencia.
+b) Infracciones graves, con multa de 3.001 a 30.000 euros, y se puede imponer la sanción accesoria de clausura total o parcial de la actividad de manera temporal hasta un máximo de dos años o inhabilitación para el ejercicio de la profesión en el ámbito de esta ley por un período máximo de un año. En el caso de las ECAC, además de la multa se puede imponer la suspensión de la habilitación de la entidad colaboradora o de su personal técnico infractor prevista en el artículo 92 quinquies.
+c) Infracciones muy graves, con multa de 30.001 a 300.000 euros, y se puede imponer la sanción accesoria de clausura total o parcial de la actividad de manera definitiva o temporal hasta un máximo de tres años o inhabilitación para el ejercicio de la profesión en el ámbito de esta ley por un período máximo de dieciocho meses. En el caso de las ECAC, además de la multa, se puede imponer la retirada de la habilitación de la entidad colaboradora o de su personal técnico infractor con la imposibilidad de volver a solicitarla en un período de dos años.
+La infracción prevista en la letra r) del artículo 104 se sancionará con multa de 100.000 a 300.000 euros. Además, cuando se lleve a cabo en una edificación que se comercialice como estancia turística en vivienda, se impondrá la sanción accesoria de la pérdida de los efectos de la declaración responsable de inicio de actividad turística para esta actividad, así como la prohibición de poder presentar un nueva declaración responsable de inicio de actividad turística para realizar la actividad de comercialización como estancia turística en vivienda hasta un plazo máximo de tres años.
+Se añade el segundo párrfo a la letra c) por el art. único.8 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#au
+ Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 107
+
+Artículo 107. Gradación de las sanciones.
+1. Las multas previstas en el artículo anterior, así como la duración de las sanciones accesorias, deben imponerse en el grado medio previsto en la escala correspondiente cuando no concurran circunstancias atenuantes, agravantes o mixtas de las previstas en el artículo 108.
+Cuando concurran algunas de estas circunstancias, las cuantías deben imponerse en la mitad superior o inferior de la escala, según corresponda, valorando la concurrencia de las diferentes circunstancias y su mayor o menor incidencia en la comisión de la infracción.
+2. Cuando el beneficio que resulte de cometer una infracción sea superior a la sanción que corresponda, la sanción será del 150% de la cuantía equivalente al beneficio obtenido.
+En los casos de actividad de concurrencia pública, el cálculo del beneficio obtenido se puede determinar a partir del número de personas contabilizadas o, si procede, a partir del cálculo del aforo máximo resultante de la aplicación de las ratios que figuran a este efecto en el Código Técnico de la Edificación o norma que lo sustituya.
+3. Si la comisión de la infracción ha ocasionado daños o perjuicios a las personas, a los bienes o al medio ambiente, deben ser evaluados, y la persona infractora, además de la sanción que corresponda en función de la gravedad de la infracción cometida, está obligada a reintegrar su cuantía económica a los particulares afectados o a las administraciones o, si procede, a proveer inmediatamente los medios para reparar los daños ocasionados y restablecer el equilibrio medioambiental.
+Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 108
+
+Artículo 108. Circunstancias agravantes, atenuantes y mixtas.
+1. Son circunstancias agravantes:
+a) Prevalecerse, para la comisión de la infracción, de la titularidad de un oficio o cargo público, a menos que el hecho constitutivo de esta haya sido realizado, precisamente, en el ejercicio del deber funcional propio del cargo u oficio.
+b) Cometer la infracción una persona a quien se haya impuesto con anterioridad una sanción firme por cualesquiera infracciones graves o muy graves de las que establece esta ley en los últimos seis años.
+c) No observar las medidas cautelares de suspensión ordenadas con motivo del ejercicio de la potestad de protección de la legalidad y de restablecimiento del orden jurídico perturbado.
+d) Obstaculizar la potestad inspectora, excepto en los casos previstos en el artículo 103.1.o).
+e) En el ámbito de las fiestas ilegales, la acreditación de molestias a los vecinos o problemas de orden público en el exterior derivados de ruidos y vibraciones y de concentraciones humanas o de vehículos que puedan afectar la movilidad, la seguridad pública, la salud de las personas o el medio ambiente.
+2. Son circunstancias atenuantes:
+a) No haber intención de causar un daño grave a los intereses públicos o privados afectados.
+b) Reparar voluntariamente el daño causado antes de la incoación de las actuaciones sancionadoras.
+c) Paralizar las obras o cesar la actividad o el uso, de manera voluntaria, antes de que la administración adopte la medida cautelar de suspensión.
+3. Son circunstancias que, según cada caso concreto, atenúan o agravan la responsabilidad:
+a) El grado de conocimiento de la normativa legal y de las reglas técnicas de observancia obligatoria en razón del oficio, de la profesión o de la actividad habitual.
+b) El beneficio obtenido de la infracción o, si procede, la comisión de esta sin considerar el beneficio económico posible.
+Se añade la letra e) al apartado 1 por el art. único.9 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#au
+ Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## CAPÍTULO IV
+
+Restablecimiento de la legalidad infringida y de la realidad física alterada
+Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 109
+
+Artículo 109. Clausura de actividades.
+1. Sin perjuicio de la incoación, si corresponde, del correspondiente expediente sancionador o de restablecimiento de la legalidad urbanística, el ejercicio de una actividad sin el correspondiente título habilitante o en contra de sus determinaciones comporta que la administración competente acuerde su clausura, previa audiencia de la persona interesada.
+2. Lo establecido en el apartado anterior es de aplicación también en las actividades que, a pesar de encontrarse amparadas por un título habilitante, supongan un riesgo para las personas y sus bienes o provoquen molestias en el entorno, debido a un mal funcionamiento de la actividad o a la falta de mantenimiento de las instalaciones.
+3. La clausura de la actividad puede ser total o parcial y tiene carácter indefinido, si bien la administración debe acordar su finalización cuando se legalice la actividad o desaparezcan las causas que originaron que se adoptase.
+Se modifica por la disposición final 3.10 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-3
+ Se añade por la disposición final 3.10 del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#df-3
+ Se deja sin efecto la modificación de este artículo por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025. Ref. BOIB-i-2025-90242, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre.
+ Se añade por la disposición final 4.10 del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+ Se deroga por la disposición derogatoria única.c) de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-5
+ Este artículo ya fue derogado por el Decreto-ley 8/2020, de 13 de mayo.
+ Se deroga por la disposición derogatoria única.c) del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#dd
+ Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 110
+
+Artículo 110. Procedimiento de clausura de actividades.
+1. La clausura de actividades prevista en el artículo anterior debe acordarse previa audiencia de la persona interesada. El plazo máximo para resolver el expediente es de seis meses.
+2. En el acuerdo de inicio del expediente y en cualquier otro momento previo a la resolución, el órgano competente para resolver puede acordar la adopción de las medidas cautelares previstas en el artículo 111 de esta ley.
+En cualquier caso, las personas que ejercen funciones inspectoras pueden acordar la adopción de medidas cautelares provisionalísimas en los términos previstos en el artículo 112 de esta ley.
+3. La resolución que determine la clausura total o parcial de la actividad debe fijar un plazo para ejecutarla. Si una vez superado este plazo el titular no paraliza la actividad, debe citarse a los responsables, por la vía de la ejecución forzosa, de acuerdo con lo dispuesto en la legislación general del procedimiento administrativo común, y deben precintarse la actividad o las instalaciones técnicas o los elementos auxiliares de la actividad, o parte de estos.
+Asimismo, en caso de peligro de la seguridad o la salud de las personas, se deben rendir cuentas del acuerdo de clausura a las empresas suministradoras de energía eléctrica, agua potable, telecomunicaciones y otras, para que interrumpan inmediatamente el suministro en el plazo máximo de 48 horas.
+4. El hecho de que la persona responsable incumpla el acuerdo de medida cautelar o el de clausura de la actividad, o rompa los precintos, obligará al órgano actuante a comunicarlo al Ministerio Fiscal con la finalidad de determinar las responsabilidades penales que pueda haber e, independientemente de ello, se iniciará el procedimiento sancionador que corresponda.
+Se modifica por la disposición final 3.11 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-3
+ Se añade por la disposición final 3.11 del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#df-3
+ Se deja sin efecto la modificación de este artículo por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025. Ref. BOIB-i-2025-90242, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre.
+ Se añade por la disposición final 4.11 del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+ Se deroga por la disposición derogatoria única.c) de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-5
+ Este artículo ya fue derogado por el Decreto-ley 8/2020, de 13 de mayo.
+ Se deroga por la disposición derogatoria única.c) del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#dd
+ Se modifica por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 111
+
+Artículo 111. Las medidas cautelares.
+1. El órgano competente para resolver el procedimiento sancionador previsto en esta ley puede adoptar, de forma motivada, las siguientes medidas cautelares:
+a) Suspensión o prohibición total o parcial de la actividad.
+b) Paralización, prohibición, suspensión y clausura de la actividad, de la instalación técnica o de la maquinaria o de parte de las mismas, así como adopción de las medidas de seguridad que se consideren necesarias.
+c) Decomiso de bienes o mercancías, presuntamente falsificados, fraudulentos o delictivos o que puedan suponer riesgo grave para la salud.
+d) Retirada de las entradas de la venta, de la reventa o de la venta ambulante.
+e) La suspensión de la habilitación de la ECAC o de su personal técnico presuntamente responsable de la infracción.
+f) Otras medidas que no causen perjuicios de reparación difícil o imposible a las personas interesadas o que impliquen violación de los derechos amparados por las leyes.
+Este acuerdo puede prever la posibilidad de comunicar la adopción de estas medidas a las empresas suministradoras de energía eléctrica, agua potable, telecomunicaciones y otros, para que interrumpan inmediatamente el suministro en el plazo máximo de 48 horas.
+2. Si una vez adoptado el acuerdo de medida cautelar de suspensión de la actividad el titular no paraliza la actividad en el plazo de 48 horas, se debe proceder, por vía de ejecución forzosa, de acuerdo con lo dispuesto en el artículo 100 de la Ley 39/2015 o en la norma que lo substituya, a la cita previa de sus responsables, y deben precintarse la actividad o las instalaciones técnicas o los elementos auxiliares de la actividad, o parte de los mismos.
+3. Las medidas cautelares acordadas se podrán levantar en cualquier momento si se aprecia que han desaparecido las circunstancias que las motivaron.
+4. Si la persona infractora incumple el acuerdo de medida cautelar de suspensión de la actividad o rompe los precintos obligará a que el órgano actuante lo comunique al Ministerio Fiscal con la finalidad de determinar las responsabilidades penales que pueda haber e, independientemente, se debe iniciar el procedimiento sancionador.
+Se modifica el apartado 1 por el art. único.10 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#au
+ Se añade por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Artículo 112
+
+Artículo 112. Las medidas provisionalísimas.
+1. De forma previa al acuerdo previsto en el apartado 1 del artículo anterior, los inspectores o las inspectoras en el ejercicio de sus funciones deben adoptar con carácter inmediato las medidas cautelares previstas en el artículo anterior cuando se observe que el ejercicio de la actividad pueda crear situaciones de peligro grave e inminente para los bienes o la seguridad y la integridad física de las personas. También se pueden adoptar estas medidas cuando se puede producir la desaparición del hecho que constituye el motivo de la infracción o se trate de actividades no permanentes sin la autorización preceptiva o de la instalación de itinerantes que no se encuentran inscritas en el registro autonómico preceptivo.
+2. Las medidas cautelares previstas en el apartado anterior deben recogerse en el acta de inspección con una motivación sucinta y deben comunicarse con la máxima celeridad al órgano competente, el cual las debe confirmar, modificar o levantar en el plazo de tres días. En el plazo máximo de quince días desde la fecha de su adopción, se debe iniciar el procedimiento de restablecimiento de la legalidad y de la realidad física alterada. En todo caso, quedarán sin efecto si no se confirman o se modifican en el plazo mencionado; asimismo también quedarán sin efecto si no se inicia el procedimiento de restablecimiento de la legalidad y de la realidad física alterada en el plazo máximo de quince días.
+Se añade por el art. 31 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Disposición adicional primera
+
+Disposición adicional primera. Actualización de las cuantías de las sanciones económicas.
+La cuantía de las sanciones económicas previstas en la presente ley se incrementará según el IPC y puede ser actualizada anualmente por acuerdo del Consejo de Gobierno de las Illes Balears.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Incorporación de medios técnicos.
+1. Las administraciones públicas deberán impulsar el uso y la aplicación de las técnicas y de los medios electrónicos, informáticos y telemáticos para el desarrollo de la actividad y ejercer sus propias competencias, con las limitaciones que para la utilización de estos medios establezca el ordenamiento jurídico.
+2. La Junta Autonómica de Actividades de las Illes Balears, mediante su página web, difundirá las normas de aplicación de la presente ley y los criterios de interpretación, que no tendrán carácter vinculante.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Características del seguro.
+1. El capital mínimo para asegurar es el que se indica en la siguiente tabla:
+Actividades
+ Capital mínimo asegurado (€)
+ Permanentes mayores.
+ 600.000
+ Permanentes menores.
+ 300.000
+ Permanentes inocuas.
+ 150.000, cuando sea obligatorio.
+ Permanentes de infraestructuras comunes.
+ 300.000
+ Permanentes en espacios compartidos.
+ 300.000, con respecto a las instalaciones; el seguro para el ejercicio de la actividad será potestativo, excepto en los casos que resulte legalmente preceptivo.
+ Permanentes de espectáculos públicos y recreativas.
+ Ver tabla, apartado 2.
+ Itinerantes mayores.
+ 600.000
+ Itinerantes menores.
+ 150.000
+ Itinerantes inocuas.
+ 150.000
+ No permanentes
+ Ver tabla, apartado 2.
+2. Tabla de capital mínimo por aforo, capacidad máxima autorizada o número de participantes:
+Número de personas
+ Capitales mínimos
+ –
+ Euros
+ a) Hasta 100
+ 300.000
+ b) De 101 a 250
+ 600.000
+ c) De 251 a 500
+ 900.000
+ d) De 501 a 1.000
+ 1.200.000
+ e) De 1.001 a 2.000
+ 1.600.000
+ f) De 2.001 a 3.000
+ 2.000.000
+ g) De 3.001 a 5.000
+ 3.000.000
+ h) Más de 5.000
+ 3.000.000 de euros, más 500.000 euros por cada 1.000 personas o fracción que sobrepase las 5.000 personas hasta un máximo de 10.000.000 €
+3. Todos los seguros deberán garantizar un capital mínimo por víctima de al menos 150.000 €.
+4. La franquicia no puede ser superior a 600 € por siniestro. No obstante, en actividades en las que el capital mínimo a asegurar sea superior a 600.000 € podrá ser del 1 por mil del capital mínimo asegurado.
+5. Se faculta a la consejería competente en materia de actividades clasificadas y espectáculos públicos para que, mediante orden, actualice periódicamente la cuantía mínima del seguro.
+6. Se permiten seguros colectivos:
+a) Entre 5 y 20 actividades afiliadas al seguro, el capital total que ha de asegurar el colectivo será el 50% de la suma del capital de cada una de ellas, y garantizará que se cubre individualmente el capital mínimo exigido en la presente ley.
+b) Para más de 20 actividades afiliadas al seguro, el capital total que ha de asegurar el colectivo será el 25% de la suma de capital de cada una de ellas, y garantizará que se cubre individualmente el capital mínimo exigido en la presente ley.
+7. Los seguros profesionales deben garantizar un capital mínimo de 600.000 euros para el caso de las actividades permanentes mayores; de 300.000 en el caso de permanentes menores, infraestructuras comunes y en espacios compartidos; y de 150.000 en el caso de las actividades inocuas y cuando sea obligatorio.
+Se modifican los apartados 1 y 7 por el art. 32 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Hojas de reclamaciones.
+Las hojas de reclamaciones que las personas titulares de actividades están obligadas a tener a disposición del público y del servicio de inspección son las reguladas en la legislación de defensa y protección del consumidor.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Modelos oficiales de documentos.
+La consejería competente en materia de actividades y espectáculos públicos debe aprobar mediante una resolución los modelos de declaración responsable, comunicación previa, certificado de ejecución de las instalaciones y medidas correctoras de las actividades, certificado final de montaje e instalación de las actividades itinerantes, ficha resumen, de inspecciones periódicas y otros modelos de documentos previstos en esta ley.
+Se modifican los apartados 1 y 7 por el art. 33 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Molestias y peligrosidad no reglamentadas, actividades singulares y soluciones alternativas.
+1. Los técnicos que redacten el proyecto o la documentación técnica y los directores de obra pueden adoptar, bajo su responsabilidad, soluciones técnicas alternativas siempre que estas soluciones se detallen exhaustivamente y se justifiquen en el proyecto o en la documentación técnica, previa autorización expresa de la propiedad, la cual se presentará en los términos que prescribe la presente ley, en los siguientes casos:
+a) Cuando la falta de adopción de medidas correctoras reglamentariamente determinadas pueda ocasionar que la actividad sea molesta, insalubre, nociva o incompatible con el medio ambiente.
+b) Cuando, por la singularidad de la actividad, no le sean aplicables soluciones convencionales.
+c) Cuando existan causas justificables que imposibiliten la aplicación de normativa de ámbito municipal o insular que haga referencia a instalaciones que sean necesarias para el desarrollo de una actividad.
+2. Sin embargo, la administración, en cualquier momento, de oficio y motivadamente, puede adoptar la medida cautelar de suspensión prevista en el artículo 90 de esta ley en caso de que se acredite que la solución alternativa adoptada no cumpla el objetivo a alcanzar.
+3. Sin perjuicio de lo establecido en los puntos anteriores, el proyectista, con el visto bueno de la persona titular, podrá solicitar a la administración competente un informe relativo a las medidas correctoras y las soluciones alternativas previstas. La administración dispondrá de un plazo de tres meses para evacuar el informe. Transcurrido el plazo sin que la administración haya resuelto y notificado a la persona interesada sobre esta cuestión, la solución alternativa propuesta se entenderá como válida.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Registros municipales de actividades permanentes y documentación in situ.
+1. Los ayuntamientos crearán un registro municipal de actividades permanentes de acuerdo con lo que reglamentariamente se determine, el cual garantizará la publicidad de los datos y su interoperabilidad con el resto de administraciones públicas de acuerdo con el artículo 33 de esta ley.
+2. No será preceptiva la presentación o la posesión de la documentación que prevé esta ley en el lugar donde se ejerce la actividad cuando esta se encuentre depositada en el Registro municipal de actividades y sea accesible por vía telemática.
+Se modifica por la disposición final 3.12 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+ Se modifica por el art. 34 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Disposición adicional octava
+
+Disposición adicional octava. Actividades con autorización previa de la administración autonómica u otras administraciones.
+Todas las actividades que requieren una autorización global previa de la administración autonómica o del Estado, que se haya tramitado con una documentación técnica que incluya el objeto propio de un permiso de instalación, no requieren la obtención del permiso previo de instalación, dado que se considera otorgado de forma presunta mediante dicha autorización global.
+Esta autorización será previa al otorgamiento de la licencia de obras, que se regirá por la normativa urbanística vigente.
+En caso de que sea obligatoria la inspección previa al inicio y al ejercicio de la actividad, se llevará a cabo por el órgano de la administración que ha autorizado su instalación.
+Para el inicio y el ejercicio de tales actividades se estará sujeto al procedimiento previsto en el capítulo III del título IV de la presente ley.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Ley de disciplina urbanística.
+1. En cuanto al inicio de obras destinadas a actividades, se estará sujeto a la presente ley y, complementariamente, a la normativa reguladora en materia de disciplina urbanística; en cuanto al resto, se estará a la presente ley. En todo caso, la materia de infracciones y sanciones se regula en la normativa reguladora de la disciplina urbanística.
+2. No es necesaria la licencia de modificación del uso cuando estén sujetos a los procedimientos establecidos en la presente ley en cuanto a instalación y funcionamiento.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Actividades supramunicipales.
+Cuando la actividad permanente se desarrolle en más de un término municipal, la normativa local aplicable en materia de edificación y actividades será la propia de los términos municipales donde se ubiquen la instalación y las edificaciones y se desarrolle la actividad.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Actividades en la vía pública complementarias a una actividad permanente.
+Las actividades que se realicen en la pública y sean complementarias de una actividad permanente, se regulan conforme a la normativa que regula la autorización de ocupación de la vía pública teniendo en cuenta las características de la actividad permanente.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Entidades colaboradoras de la administración existentes a la entrada en vigor de la ley.
+Las entidades colaboradoras en actividades clasificadas inscritas en el correspondiente registro autonómico de acuerdo con lo previsto en la Orden de la Consejería de Función Pública e Interior por la que se regulan las entidades colaboradoras en actividades clasificadas de 26 de junio de 1996, tendrán provisionalmente la consideración de ECAC a los efectos previstos en esta ley, si bien en el plazo de seis meses deben acreditar ante la consejería competente en materia de actividades el cumplimiento de los requisitos y las obligaciones previstos en esta ley. En el plazo de dos meses desde la presentación de esta acreditación, se debe dictar resolución en relación con la habilitación definitiva como ECAC.
+En caso de que transcurran los seis meses sin que se haya presentado la documentación que acredite el cumplimiento de los requisitos y las obligaciones que se prevén, queda sin efecto la habilitación de la entidad por ministerio de la ley, sin perjuicio de que posteriormente solicite la habilitación de acuerdo con lo previsto en los artículos 91 y siguientes.
+Se modifica por el art. 35 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Normativa técnica a aplicar.
+Mientras no se desarrolle reglamentariamente la presente ley, en materia de seguridad, salubridad y medio ambiente, se aplicará, en lo no opuesto o que no haya sido derogado por las vigentes normas, el título primero del Decreto 2414/1961, de 30 de noviembre, por el que se aprueba el Reglamento de actividades molestas, insalubres, nocivas y peligrosas (RAMINP), y el Real Decreto 2816/1982, de 27 de agosto, por el que se aprueba el Reglamento general de policía de espectáculos públicos y actividades recreativas.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Expedientes sancionadores en trámite.
+Los expedientes sancionadores incoados con anterioridad a la entrada en vigor de la presente ley continuarán tramitándose conforme a la normativa anterior. Las personas interesadas pueden solicitar la aplicación de la presente ley en los supuestos que entiendan que les resulta más favorable.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Permisos, autorizaciones y licencias en trámite.
+1. Las solicitudes de permisos, licencias o autorizaciones incoadas con anterioridad a la entrada en vigor de la presente ley continuarán tramitándose conforme a la anterior normativa. Las personas interesadas pueden solicitar la aplicación de la normativa posterior en los supuestos que entiendan que les resulte más favorable.
+2. Los informes de los expedientes iniciados antes de la entrada en vigor de la Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividad de las Illes Balears, que, conforme a la normativa de aplicación, estuvieran a cargo de los consejos insulares, deberán ser emitidos por los ayuntamientos.
+A partir del 1 de enero de 2015, los permisos, las autorizaciones y las licencias referidos en la presente disposición transitoria se tramitarán obligatoriamente conforme a lo dispuesto en la presente ley.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Régimen de equivalencia.
+Cuando se lleve a cabo el procedimiento de revisión técnica de actualización, la administración competente volverá a clasificar las actividades conforme a la nueva clasificación por parámetros establecida en la presente ley.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Actividades temporales no convalidables.
+Antes del 1 de enero de 2016, las actividades anteriormente clasificadas como temporales no convalidables con proyecto tipo y con fecha de visado anterior a la entrada en vigor de la presente ley que pretendan continuar con su actividad, se inscribirán en el Registro autonómico de actividades itinerantes. Si estas actividades, con la nueva clasificación, son actividades itinerantes mayores, no precisarán un informe favorable de una ECAC.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Régimen especial de actividades exentas.
+Las autorizaciones turísticas emitidas antes del 1 de enero de 1998, junto con su documentación, suplen a los títulos habilitantes de instalación e inicio y ejercicio de la actividad de los establecimientos turísticos abiertos al público a la entrada en vigor de esta ley. Si estos establecimientos turísticos realizaron modificaciones de la actividad antes de la entrada en vigor de la Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividad de las Illes Balears, la autorización turística en la que se recojan las modificaciones junto con su documentación también suple los títulos habilitantes de instalación e inicio y ejercicio de actividad.
+El ayuntamiento puede requerir a la consejería competente en materia de turismo una copia del expediente de autorización y de las inspecciones realizadas en la actividad turística, así como requerir al promotor la ficha resumen y la documentación técnica descriptiva del estado actual de la actividad para poder inscribirla en el registro autonómico y hacer su control administrativo correspondiente.
+Se modifica por el art. 36 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Regularización de las actividades existentes antes de la entrada en vigor de la Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividad de las Illes Balears, que no dispongan de licencia de apertura y funcionamiento y que no estén exentas de obtenerla por ley.
+1. Los titulares que no cuenten con la mencionada licencia de actividad y que acrediten el ejercicio de la actividad antes de la entrada en vigor de la Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividad de las Illes Balears, pueden regularizar su situación, en el plazo de dieciocho meses desde la fecha de entrada en vigor de la Ley 13/2012, de 20 de noviembre, de medidas urgentes para la activación económica en materia de industria y energía, y otras actividades, siempre que no hayan sido objeto de una sanción firme por falta de dicha licencia, mediante la presentación de la siguiente documentación:
+a) Declaración responsable del titular de inicio y ejercicio de actividad, en la que declare:
+1. Que cumple con los requisitos establecidos en la normativa vigente, si se trata de actividades mayores y menores y, si procede, también las condiciones impuestas en la concesión del permiso de instalación.
+2. Que mantiene los requisitos y las condiciones del punto 1 del presente artículo durante toda la vigencia y todo el ejercicio de la actividad.
+3. Que cuenta con la documentación que así lo acredita.
+4. Que indica la fecha de inicio de la actividad.
+5. Que posee póliza de responsabilidad civil vigente y al corriente de pago.
+b) Documentación técnica justificativa suscrita por un técnico o una técnica competente, que incluya el actual estado de las instalaciones e indique sus medidas de seguridad y salubridad y las condiciones medioambientales.
+c) Certificado expedido por una técnico o una técnica competente sobre el proyecto indicado en la letra anterior.
+d) Pago, si procede, de la correspondiente tasa municipal.
+2. La presentación de esta documentación habilita al titular para ejercer la actividad correspondiente, de la que se desprende que la actividad no vulnera el ordenamiento urbanístico ni el resto de normativa aplicable.
+3. Sin perjuicio de la regularización a la que se refiere el punto 1 de este artículo, las modificaciones de la actividad que tengan lugar con posterioridad a la publicación de la Ley 13/2012, de 20 de noviembre, de medidas urgentes para la activación económica en materia de industria y energía, y otras actividades, se someterán a los procedimientos de la normativa vigente en materia de actividad.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Registros autonómicos.
+1. El Registro Autonómico de Actividades creado en el artículo 32 de esta ley tendrá que ser objeto de desarrollo reglamentario y estar plenamente operativo en el plazo de un año desde que entre en vigor esta norma.
+2 y 3(Derogados)
+Se derogan los apartados 2 y 3 por la disposición derogatoria única del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#dd
+ Se modifica por el art. 37 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Incumplimiento generalizado de una norma sectorial.
+Si un ayuntamiento, en el ejercicio de sus competencias inspectoras en una materia regulada por la presente ley, detecta un grado de incumplimiento generalizado de una norma sectorial dictada por el Gobierno de las Illes Balears o el consejo insular, motivada por factores técnicos y económicos, podrá solicitar un informe a la Junta Autonómica de Actividades de las Illes Balears, que informará sobre la problemática y las recomendaciones, y lo comunicará al órgano competente para su conocimiento, y para que tome las medidas que considere adecuadas.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Inscripción en el Registro Autonómico de Actividades de las actividades permanentes existentes.
+(Derogada)
+Se deroga por la disposición derogatoria única del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#dd
+ Se modifica por el art. 38 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima. Revisiones técnicas de las actividades existentes.
+1. Los titulares de las actividades permanentes existentes a la entrada en vigor de esta ley presentarán a la administración competente una revisión técnica en los términos que regula el artículo 50. Esta revisión se realizará antes del 31 de diciembre de 2024, cuando se trata de actividades permanentes mayores, y antes del 31 de diciembre de 2026, en el resto de casos. Las sucesivas revisiones se realizarán cada diez años, de acuerdo con lo que dispone el artículo 49.
+A efectos de lo que prevé el párrafo anterior, la revisión técnica se entenderá también realizada cuando se lleven a cabo modificaciones sustanciales de las previstas en el artículo 11.
+2. Los titulares de las actividades itinerantes que a la entrada en vigor de esta ley se encuentren inscritas en el Registro Autonómico de Actividades Itinerantes deben presentar a la administración competente una revisión técnica en los términos que regula el artículo 58 de acuerdo con las siguientes reglas:
+a) Cuando la fecha de inscripción o, en el caso de que sea posterior a esta, la fecha del proyecto inscrito sea anterior al 1 de enero de 2016, esta revisión se debe hacer antes del 31 de diciembre de 2021, cuando se trata de actividades itinerantes mayores, y antes del 31 de diciembre de 2022, en el caso de las menores.
+b) Las actividades itinerantes no incluidas en la letra anterior, deben realizar esta revisión antes de cumplir los seis años a contar desde la fecha de inscripción o, en el caso de que sea posterior a esta, la fecha del proyecto inscrito, si se trata de mayores. En el caso de las menores el plazo será de siete años.
+3. La no presentación en plazo de las revisiones técnicas previstas en esta disposición dará lugar a la aplicación de lo previsto en el artículo 89 de esta ley.
+Se modifica el apartado 1 por la disposición final 3.13 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+ Se añade por el art. 39 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Disposición transitoria duodécima
+
+Disposición transitoria duodécima. Régimen transitorio de las actividades no permanentes de creación o producción audiovisual.
+Hasta que no se lleve a cabo el desarrollo reglamentario general de las previsiones de esta ley relativas a las actividades no permanentes, y en cuanto a las actividades específicas de creación o de producción audiovisual, se entiende que tienen carácter puntual o eventual siempre que no superen un plazo continuado de un máximo de tres meses en un periodo de doce meses de desarrollo efectivo de cada actividad, sin incluir el tiempo de montaje y desmontaje, previo y posterior a la actividad. Estas actividades de creación o de producción audiovisual de carácter no permanente, tanto si se llevan a cabo en suelo rústico como en suelo urbano, se pueden autorizar de manera reiterada y acumulativa en una misma ubicación, en sucesivas anualidades.
+La petición para su realización ante el correspondiente ayuntamiento se podrá hacer motivadamente aunque entre la solicitud y la realización haya un plazo inferior a un mes.
+Se añade por el art. 40 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas expresamente todas las disposiciones que se opongan a lo establecido en la presente ley y, en particular:
+a) La Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividad de las Illes Balears.
+b) Las disposiciones adicionales séptima y novena y la disposición transitoria primera de la Ley 12/2010, de 12 de noviembre.
+c) El Decreto Ley 7/2012, de 15 de junio, de medidas urgentes para la activación económica en materia de industria y energía, y otras actividades.
+d) El capítulo IV, la disposición adicional tercera y las disposiciones finales primera y cuarta de la Ley 13/2012, de 20 de noviembre, de medidas urgentes para la activación económica en materia de industria y energía, nuevas tecnologías, residuos, aguas, otras actividades y medidas tributarias.
+e) La disposición adicional tercera de la Ley 8/2012, de 19 de julio, del turismo.
+
+### Disposición final primera
+
+Disposición final primera. Despliegue reglamentario.
+Se autoriza al Gobierno de las Illes Balears, a los consejos insulares y a los ayuntamientos para dictar las disposiciones precisas para el desarrollo de esta ley, de acuerdo con el marco competencial previsto en el Estatuto de Autonomía de las Illes Balears.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente ley entrará en vigor a los tres meses de su publicación en el «Butlletí Oficial de les Illes Balears».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que corresponda la hagan guardar.
+Palma, 26 de noviembre de 2013.–El Presidente, José Ramón Bauzá Díaz.
+
+## ANEXO I
+
+Clasificación de las actividades y modificaciones
+Las actividades permanentes mayores, menores e inocuas y sus modificaciones se clasifican en función de varios parámetros o usos previstos en los títulos I, II y III de este anexo. Para determinar a qué categoría corresponde cada tipo de actividad o modificación, se debe comprobar en primer lugar si está incluida en el título I de este anexo; en caso de que no lo esté, se debe comprobar si está incluida en el título III de este anexo; y en caso contrario, se debe considerar incluida en el título II.
+TÍTULO I
+Parámetros de actividades mayores
+Son las actividades o modificaciones en las que concurren uno o más de uno de los siguientes puntos:
+1. Las industrias, los talleres industriales y las industrias agroalimentarias con más de 1.000 m2 de superficie computable.
+2. Las actividades con más de 2.500 m2 de superficie computable, excepto los aparcamientos al aire libre.
+3. Cuando los ocupantes necesiten ayuda para ser evacuados, como guarderías, hospitales, residencias de la tercera edad y similares.
+4. Cuando el aforo sea superior a 500 personas, o a 250 personas cuando la densidad de ocupación sea igual o superior a 1 persona/m2.
+5. Cuando la densidad de la carga de fuego ponderada y corregida de la actividad sea superior o igual a 400 Mcal/m2, o cuando sea superior o igual a 200 Mcal/m2 con una superficie construida superior a 300 m2.
+6. Cuando la previsión de la emisión de ruido medido a un metro de las maquinarias, aparatos o equipos sea superior o igual a:
+a) 90 dB (A) en el interior de edificios en período diurno o vespertino y a 80 dB (A) en período de noche.
+b) 65 dB (A) en zonas al aire libre o sin cierres en período diurno o vespertino, y a 55 dB (A) en período de noche.
+No se debe de tener en cuenta, en la previsión, la emisión de ruido que puedan producir los aparatos de audio autónomos como televisores o similares. Cuando se trate de zonas residenciales o que requieran una protección especial contra la contaminación acústica, los valores indicados deben reducirse en 5 dB.
+7. Las actividades definidas como tales por esta ley incluidas en los anexos I y II de la Ley 12/2016.
+8. Las actividades que manipulen, expidan o almacenen productos susceptibles de originar riesgos graves en personas y bienes por explosiones, combustiones, intoxicaciones, radiaciones y similares, así como humos, gases, olores, nieblas o polvo en suspensión que puedan producir molestias graves a los vecinos, siempre que no estén cubiertas por otras autorizaciones sectoriales.
+9. Las instalaciones de infraestructuras comunes y las de actividades en espacios compartidos.
+10. Las que se regulen reglamentariamente.
+TÍTULO II
+Parámetros de actividades menores
+Son todas las que no estén incluidas en los títulos I y III de este anexo.
+TÍTULO III
+Parámetros de actividades inocuas
+Son las siguientes:
+1. Los aparcamientos al aire libre de hasta 100 m2.
+2. Los despachos profesionales de hasta 50 m2 de superficie computable, que no pertenezcan a una vivienda.
+3. Las actividades de servicio que se lleven a cabo en dependencias de una vivienda sin que se superen los 50 m2 de superficie computable y siempre que para la instalación o para el ejercicio de la actividad no sea necesaria la obtención de ninguna autorización sectorial.
+4. Venta directa de los productos de segunda transformación de la propia explotación agraria.
+TÍTULO IV
+Actividades no permanentes
+1. Son actividades no permanentes mayores las que para su ejecución precisan disponer de un plan de autoprotección de conformidad con la normativa vigente en materia de emergencias.
+2. Son actividades no permanentes menores las que no son ni mayores ni inocuas.
+3. Son actividades no permanentes inocuas aquellas en las que concurren los siguientes puntos:
+a) Cuando el aforo no sea superior a 100 personas en el interior de edificios o a más de 500 al aire libre.
+b) Cuando la carga de fuego ponderada y corregida no sea superior o igual a 200 Mcal/m2.
+c) Que tengan una duración no superior a siete días.
+d) Que no se haga uso de material pirotécnico.
+Se modifica por el art. 41 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## ANEXO II
+
+Contenido mínimo de la documentación técnica
+Téngase en cuenta que el contenido de este anexo se puede modificar por orden de la persona titular de la consejería competente en materia de actividades del Gobierno de las Illes Balears que se publicará únicamente en el BOIB, según se establece en el punto 3 del mismo.
+Téngase en cuenta que se suprime la obligación de presentar la ficha resumen en los casos en los que no es preceptiva la redacción del proyecto de actividades que consta en este anexo II, y se suprime la mención en su punto 5 del contenido del proyecto de actividades relativa a la necesidad de incluir el plan de autoprotección, por la disposición final 2.4 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+1. Proyecto tipo de actividades permanentes
+El proyecto tipo de actividades permanentes debe contener como mínimo una estructura compuesta de: ficha resumen, memoria, presupuesto, planos, pliego de condiciones y otros.
+A continuación se establece una tabla para poder determinar de una manera sencilla los contenidos de los que debe disponer un proyecto de obras y actividades y un proyecto sólo de actividades. Las tablas se organizan en tres columnas: la primera es de información común que debe constar en cualquier tipo de proyecto, después en función del tipo de proyecto se añade el contenido de una columna o de las dos columnas restantes.
+La columna de datos comunes se debe enfocar desde el punto de vista del proyecto que se esté redactando. En el caso de un proyecto únicamente de actividades el enfoque que prioriza es el de describir adecuadamente la actividad y sus procesos siempre en el ámbito de la misma.
+Se pretende exponer de manera exhaustiva los siguientes puntos, así como resolverlos:
+– Seguridad en el ejercicio de la actividad.
+– Ruidos y vibraciones.
+– Emisión de contaminantes a la atmósfera.
+– Olores.
+– Residuos líquidos.
+– Residuos sólidos.
+– Otros impactos potenciales.
+Se ha seguido lo indicado para los proyectos de obra por el CTE y se ha complementado con lo que debería definir el proyecto de actividades para que quede determinado su ámbito, igual que la redacción de los proyectos integrales.
+Los proyectos que definan actividades dispondrán de una ficha resumen en la que se indicarán los datos más relevantes de la actividad. Esta ficha puede ser la misma portada del proyecto y debe contener la siguiente información:
+– Titular.
+– Tipo (menor, mayor) y clase (nueva, ampliación, reforma).
+– Descripción de la actividad.
+– Clasificación de la misma (dentro de los grupos que se definan).
+– Situación.
+– Superficie.
+– Capacidad (número de usuarios).
+– Potencia eléctrica.
+– Carga de fuego.
+– Si es especial como multidisciplinar o servicios comunes.
+Cuando se deban tramitar modificaciones para las que no se requiera proyecto, la ficha resumen se debe presentar como documento independiente y con la misma información indicada antes.
+Contenido del proyecto
+ Común
+ Obras
+ Actividades
+ I. Memoria
+ 1. Memoria descriptiva
+ Descriptiva y justificativa
+ 1.1 Agentes*
+ Promotor, proyectista, otros técnicos.
+ 1.2 Información previa*
+ Antecedentes y condicionantes de partida, datos del emplazamiento y entorno físico.
+ Otras normativas, en su caso.
+ Datos del edificio en caso de rehabilitación, reforma o ampliación. Informes realizados.
+ 
+ Relación de normas sectoriales aplicables que intervienen en la actividad, con indicación de aquellas previas a la licencia.
+ Ordenanzas municipales que son de aplicación a esta actividad, o que puedan generar limitaciones a los usos previstos en la edificación.
+ Afección del espacio donde se desarrolla la actividad afectada por limitaciones a causa de la protección como bien cultural o medioambiental.
+ 1.3 Descripción del proyecto*
+ Descripción general del edificio, programa de necesidades, uso característico del edificio y otros usos previstos, relación con el entorno.
+ Cumplimiento del CTE y otras normativas específicas, normas de disciplina urbanística, ordenanzas municipales, edificabilidad, funcionalidad, etc.
+ Descripción de la geometría del edificio, volumen, superficies útiles y construidas, accesos y evacuación.
+ Descripción general de los parámetros que determinan las previsiones técnicas que se deben considerar en el proyecto con respecto al sistema estructural (fundamentación, estructura portante y estructura horizontal), el sistema de compartición, el sistema envolvente, el sistema de acabados, el sistema de acondicionamiento ambiental y el de servicios.
+ Descripción detallada y clara del proceso de producción, de los servicios que se tienen que prestar o de cualquier otra circunstancia de la actividad.
+ Asimismo, descripción de las previsiones, necesidades y acondicionamientos para cumplir las normativas sectoriales que les afecten.
+ 1.4 Prestaciones del edificio (o actividad)*
+ Por requisitos básicos y en relación con las exigencias básicas del CTE. Se deben indicar en particular las acordadas entre promotor y proyectista que superen los umbrales establecidos en el CTE.
+ Deben establecerse las limitaciones de uso del edificio en su conjunto y de cada una de sus dependencias e instalaciones.
+ 
+ Plantilla y capacidad: se debe indicar el número de personas que prestan los servicios en la actividad y, cuando el caso lo requiera, el aforo máximo de público y la capacidad total.
+ Indicación expresa de las soluciones técnicas alternativas que se prevén adoptar, y justificación en el apartado correspondiente.
+ 1.5 Memoria urbanística
+ Memoria urbanística
+ 2. Memoria constructiva
+ Descripción de las soluciones adoptadas
+ 2.1 Sustentación del edificio *
+ 
+ Justificación de las características del suelo y parámetros que se deben considerar para calcular la parte del sistema estructural que corresponde a la fundamentación.
+ 2.2 Sistema estructural (fundamentación, estructura portante y estructura horizontal)
+ 
+ Se deben establecer los datos y las hipótesis de partida, el programa de necesidades, las bases de cálculo y los procedimientos o métodos que se han utilizado para todo el sistema estructural, así como las características de los materiales que intervienen.
+ 2.3 Sistema envolvente
+ Definición constructiva de los diferentes subsistemas del envolvente del edificio, con descripción de su comportamiento ante las acciones a las que se encuentra sometido (peso propio, viento, seísmo, etc.), ante el fuego, seguridad de uso, evacuación de agua y comportamiento ante la humedad, aislamiento acústico y sus bases de cálculo.
+ Aislamiento térmico de los mencionados subsistemas, la demanda energética máxima prevista del edificio para condiciones de verano y de invierno y su eficiencia energética en función del rendimiento energético de las instalaciones proyectado según el apartado 2.6.2.
+ 
+ La definición debe ser la precisa para el proyecto de actividades, en caso de que sea necesario.
+ 2.4 Sistema de compartimentación
+ Definición de los elementos de compartimentación con especificación del comportamiento ante el fuego y su aislamiento acústico y otras características que sean exigibles, en su caso.
+ 2.5 Sistemas de acabados
+ Se deben indicar las características y prescripciones de los acabados de los paramentos a fin de que se cumplan los requisitos de funcionalidad, seguridad y habitabilidad
+ 
+ Se deben indicar en cuanto a sus funciones de salubridad y limpieza.
+ 2.6 Sistemas de acondicionamiento e instalaciones
+ Se deben indicar los datos de partida, los objetivos que se deben cumplir, las prestaciones y las bases de cálculo para cada uno de los subsistemas siguientes:
+ 1. Protección contra incendios, anti-intrusión, pararrayos, electricidad, ascensores, transporte, fontanería, evacuación de residuos líquidos y sólidos, ventilación, telecomunicaciones, etc.
+ 2. Instalaciones térmicas del edificio proyectado y su rendimiento energético, suministro de combustibles, ahorro de energía e incorporación de energía solar, térmica o fotovoltaica y otras energías renovables.
+ 
+ En el proyecto de actividades se definirán exhaustivamente la totalidad de las instalaciones.
+ Combustibles: clases, cantidad, tipo, condiciones de suministro, almacenamiento y uso.
+ Estudio y medidas correctoras de la emisión de contaminantes a la atmósfera.
+ 2.7 Equipamiento
+ Definición de baños, cocinas y lavaderos, equipamiento industrial, etc.
+ 
+ Relación de la maquinaria y otros medios que intervienen en el proceso productivo de la actividad.
+ Posibles molestias, nocividad, peligrosidad o insalubridad que puedan producir las materias primas y los productos acabados o almacenados.
+ Emisión de contaminantes a la atmósfera.
+ 3. Cumplimiento del CTE
+ 3.1 Seguridad estructural
+ 3.2 Seguridad en caso de incendio *
+ 3.3 Seguridad de utilización y accesibilidad *
+ 3.4 Salubridad
+ 
+ 
+ Estudio de olores, residuos líquidos, residuos sólidos y otros impactos potenciales.
+ 3.5 Protección contra el ruido
+ 
+ 
+ Relación, estudio y soluciones a los ruidos y vibraciones.
+ 3.6 Ahorro de energía
+ 4. Cumplimiento de otros reglamentos y disposiciones
+ 
+ 
+ Se deben justificar los reglamentos y las disposiciones que sean de aplicación en la actividad proyectada.
+ Seguridad en el ejercicio de la actividad, y medidas correctoras que se han adoptado.
+ 5. Anexos a la memoria
+ Información geotécnica.
+ Cálculo de la estructura.
+ Protección contra incendio.
+ Instalaciones del edificio.
+ Eficiencia energética.
+ Estudio de impacto ambiental.
+ Plan de control de calidad.
+ Estudio de seguridad y salud o estudio básico, en su caso.
+ 
+ En caso de ser necesario según la legislación vigente de emergencias en las Illes Balears, se debe incluir un plan de autoprotección redactado de conformidad con la normativa mencionada.
+ II. Planos
+ El proyecto debe contener tantos planos como sean necesarios para la definición en detalle de las obras.
+ En caso de obras de rehabilitación, se deben incluir planos del edificio previos a la intervención.
+ 
+ En actividades de modificaciones, deben incluirse los planos del estado actual.
+ Plano de situación *
+ Referido al planeamiento vigente, con referencia a puntos localizables y con indicación del norte geográfico.
+ 
+ Debe indicar las zonas del planeamiento que afecten a actividades.
+ Plano de emplazamiento*
+ Justificación urbanística, alineaciones, retrocesos, etc.
+ Plano de urbanización*
+ Red vial, acometidas, etc.
+ Plantas generales*
+ Delimitadas, con indicación de escala y de usos, y especificando los elementos fijos y los de mobiliario cuando sea preciso para la comprobación de la funcionalidad de los espacios.
+ 
+ En caso de proyecto de actividades independientes, se pueden unificar estas con las de las instalaciones y agruparlas de forma coherente.
+ Planos de cubiertas*
+ Pendientes, puntos de recogida de aguas, etc.
+ 
+ Se debe reflejar la situación de maquinaria, salidas de humos y de otros elementos que puedan tener limitaciones con respecto a las alturas mínimas y las distancias a vecinos.
+ Alzados y secciones*
+ Delimitados, con indicación de la escala y cotas de altura de plantas, gruesos de forjado, alturas totales, para comprobar el cumplimiento de los requisitos urbanísticos y funcionales.
+ 
+ En los proyectos únicamente de actividades, las secciones deben estar orientadas básicamente al cumplimiento de los requisitos funcionales derivados de reglamentaciones específicas y de ordenanzas.
+ Planos de estructura
+ 
+ Descripción gráfica y dimensional de todo el sistema estructural (fundamentación, estructura portante y estructura horizontal). Con respecto a la fundamentación se debe incluir, además, su relación con el entorno inmediato y con el conjunto de la obra.
+ Planos de instalaciones
+ Descripción gráfica y dimensional de las redes de cada instalación, plantas, secciones y detalles.
+ 
+ En proyectos únicamente de actividades se debe otorgar el nivel de detalle adecuado a las instalaciones para que el proceso de instalación y construcción no pueda presentar dudas.
+ Planos de definición constructiva
+ 
+ Documentación gráfica de detalles constructivos.
+ En proyectos de actividades en los que sea necesario este nivel de detalle para que el proyecto quede definido adecuadamente.
+ Memorias gráficas
+ 
+ Indicación de soluciones concretas y elementos singulares: carpintería, cerrajería, etc.
+ III. Pliego de condiciones
+ 1. Pliego de cláusulas administrativas
+ Disposiciones generales.
+ Disposiciones facultativas.
+ Disposiciones económicas.
+ 2. Pliego de condiciones técnicas particulares
+ 2.1 Prescripciones sobre los materiales
+ Características técnicas mínimas que deben reunir los productos, equipos y sistemas que se incorporen a las obras, así como sus condiciones de suministro, recepción y conservación, almacenamiento y manipulación, las garantías de calidad y el control de recepción que se deba realizar incluyendo el muestreo del producto, los ensayos a realizar, los criterios de aceptación y rechazo, y las acciones a adoptar y los criterios de uso, conservación y mantenimiento.
+ Estas especificaciones pueden hacerse por referencia a pliegos generales que sean de aplicación, documentos reconocidos u otros que sean válidos a juicio del proyectista.
+ 2.2 Prescripciones en cuanto a la ejecución por unidades de obra
+ Características técnicas de cada unidad de obra; hay que indicar el proceso de ejecución, normas de aplicación, condiciones previas que se deben cumplir antes de su realización, tolerancias admisibles, condiciones de finalización, conservación y mantenimiento, control de ejecución, ensayos y pruebas, garantías de calidad, criterios de aceptación y rechazo, criterios de medición y valoración de unidades, etc.
+ Se necesitan las medidas para asegurar la compatibilidad entre los diferentes productos, elementos y sistemas constructivos.
+ 2.3 Prescripciones sobre verificaciones en el edificio acabado
+ Se indicarán las verificaciones y pruebas de servicio que se deban realizar para comprobar las prestaciones finales del edificio.
+ 
+ En los proyecto de actividades las verificaciones afectan a los elementos proyectados.
+ IV. Mediciones
+ Desarrollo por partidas, agrupadas en capítulos, que deben contener todas las descripciones técnicas necesarias para su especificación y valoración.
+ V. Presupuesto
+ 1. Presupuesto aproximado*
+ Valoración aproximada de la ejecución material de la obra proyectada por capítulos.
+ 2. Presupuesto detallado
+ Cuadro de precios agrupado por capítulos.
+ Resumen por capítulos, con expresión del valor final de ejecución y contrata.
+ Debe incluir el presupuesto del control de calidad.
+ Presupuesto del estudio de Seguridad y Salud.
+A los efectos previstos en esta ley, se define la figura del proyecto preliminar de actividades (PPA); es aquel cuyo contenido se indica en los apartados que disponen de asterisco (*). En los apartados mencionados se definen las características que, si no se tienen en cuenta en el estadio del proyecto básico de edificación, pueden provocar una situación de imposibilidad material de llevar a cabo la actividad. Específicamente, con respecto al apartado 3 (Cumplimiento del CTE), es suficiente que el PPA se limite a definir los aspectos de la edificación que condicionen las actividades que deban llevarse a cabo.
+Este PPA puede formar parte del mismo proyecto básico de edificación o presentarse como separata de actividades del mismo, tal y como indica el CTE.
+CONDICIONES TÉCNICAS QUE DEBE CONTENER EL PROYECTO BÁSICO DE OBRA PARA EDIFICIOS CON ESTABLECIMIENTOS SUSCEPTIBLES DE ACTIVIDADES POR DETERMINAR (ARTÍCULO 15.3)
+a) Determinación de la ubicación y el recorrido de todas las instalaciones exteriores hasta el local de la actividad (unidades exteriores de los aires acondicionados, placas solares y similares) según la tipología del edificio.
+b) Que los establecimientos físicos estén compartimentados con cierres de resistencia al fuego como mínimo de 120 minutos, cuando sean susceptibles de actividades que no estén sujetas al Real decreto 2267/2004, de 3 de diciembre, por el que se aprueba el Reglamento de seguridad contra incendios en los establecimientos industriales.
+c) Que se indique, en el caso de usos industriales, el riesgo intrínseco para el cual está preparado el establecimiento físico de acuerdo con la tipología de la configuración y su ubicación. Además, se debe especificar si es del tipo A, B o C, de acuerdo con las configuraciones definidas en el Real decreto 2267/2004. En todo caso, deben cumplirse las exigencias básicas.
+d) Que se determine al menos un acceso adaptado para las personas con discapacidades.
+e) Que se determine la ventilación para los lavabos.
+f) Que tenga, como mínimo, un conducto para la extracción de humos de sección mínima de 30 x 30 cm o una sección circular equivalente por cada 100 m2 construidos de local o fracción, que sea estanco y tenga un grado de reacción al fuego A1 o A2-s1,d0 (M0).
+g) Las que se determinen reglamentariamente.
+CONDICIONES TÉCNICAS QUE DEBE CONTENER EL PROYECTO BÁSICO DE OBRA PARA EDIFICIOS DE USO PREDOMINANTEMENTE RESIDENCIAL CON APARCAMIENTOS (ARTÍCULO 15.4)
+a) Determinación de las entradas y salidas de vehículos con las dimensiones y características de estas.
+b) Determinación de los elementos de evacuación de personas con sus características.
+c) Determinación de los elementos estructurales necesarios para los medios de extinción de incendios y para la ventilación y los exutorios de humo de acuerdo con la normativa que les sea de aplicación.
+2. Proyecto tipo de actividades itinerantes
+El proyecto de actividades itinerantes debe contener, como mínimo, una estructura compuesta de: memoria, planos, pliego de condiciones y otros.
+El proyecto de actividades itinerantes se debe basar principalmente en la descripción de las diferentes operativas, así como los condicionantes que se establecen y las medidas correctoras aplicadas en las operaciones de:
+– Montaje.
+– Desmontaje.
+– Operación de la atracción.
+– Mantenimiento.
+Siempre con el fin de evitar las posibles molestias, nocividad, insalubridad y peligrosidad.
+Contenido del proyecto
+ I. Memoria.
+ 1. Objeto del proyecto.
+ 1.1 Descripción de la actividad e identificación de la misma.
+ Debe contener la descripción clara del objeto de la actividad itinerante que se debe desarrollar, con la finalidad de evaluar las posibles causas de molestias, nocividad, insalubridad o peligrosidad, especialmente aquellas que pueden afectar tanto a usuarios o usuarias como a trabajadores o trabajadoras, o a terceras personas, y hay que indicar las medidas globales de la atracción, así como la superficie que ocupa.
+ En todos los casos se debe identificar la actividad de forma clara y precisa. Para que no dé lugar a dudas ni a equívocos su identificación, debe quedar asegurada la identidad de la actividad y por ello como mínimo, se debe acompañar de documentación fotográfica suficiente, así como los planos que aseguran su descripción e identificación, independientemente de otros métodos establecidos, como pueden ser números de bastidor, matrículas, etc.
+ Debe indicar el año de fabricación y las posibles reformas importantes efectuadas.
+ 1.2 Tramitación y clasificación de la actividad.
+ Se debe clasificar la actividad según la Ley 7/2013. Asimismo, se debe indicar qué infraestructuras y servicios son necesarios para su instalación.
+ 1.3 Normativa de obligado cumplimiento.
+ Se debe enunciar la normativa que afecta a la actividad itinerante.
+ 1.4 Emplazamiento.
+ a) Idoneidad de la ubicación.
+ Se deben justificar las condiciones y las características que debe reunir la ubicación:
+ – Distancias mínimas (a instalaciones eléctricas, arbolado, edificaciones y elementos similares).
+ – Necesidades de servicios (agua, alcantarillado, electricidad e infraestructuras similares).
+ – Acotamiento de zonas de la atracción y del público.
+ b) Resistencia del terreno.
+ Se deben justificar las condiciones físicas del terreno, y se deben indicar claramente las premisas mínimas y las condiciones de instalación en función del terreno.
+ c) Características del diseño.
+ Se deben describir detalladamente los diferentes mecanismos y elementos que integran la instalación, de manera tal que permitan asegurar las condiciones de seguridad, higiene y comodidad necesarias para los usuarios o usuarias y los espectadores o espectadoras.
+ d) En las atracciones en las que haya riesgo de proyección o de caída de usuarios o usuarias se debe indicar qué sistema de doble seguridad ha instalado para la sujeción de personas y cabinas, habitáculos o góndolas o hay que justificar la no necesidad.
+ 1.5 Condiciones generales para el desarrollo de la actividad.
+ a) Condiciones del público (peso máximo y mínimo, estatura, edad y cualquier otra condición física o psíquica que se considere oportuna).
+ b) Condiciones meteorológicas (viento, lluvia, nieve y circunstancias similares).
+ c) Condiciones y manual de uso (deben indicarse las normas de funcionamiento y de régimen interno de la actividad).
+ d) Ejercicio de la actividad. Es imprescindible la descripción detallada y clara del ciclo completo de la actividad y de los servicios que presta o de cualquier otra circunstancia significativa. Se deberán especificar las acciones que deben ejercerse por cada actor con todos los pasos que se deben realizar en la prestación del servicio. Se deben indicar los mecanismos de parada de emergencia.
+ e) Condiciones específicas para el montaje de la atracción fuera de un recinto ferial con servicios.
+ 1.6 Plantilla y capacidad.
+ La memoria debe indicar el número de personas que prestan sus servicios en la actividad y las funciones concretas que desarrollan. También se debe indicar:
+ – El aforo máximo de público.
+ – El número de cabinas, habitáculos o góndolas.
+ – La capacidad por cabinas, habitáculos o góndolas.
+ – La capacidad total.
+ También se deben detallar los medios de protección personal que en cada caso se requieran, así como el cumplimiento de la normativa vigente en salud laboral, y se deben indicar los acondicionamientos necesarios partiendo de las características propias de la actividad.
+ 1.7 Combustible y energía.
+ Clases, cantidad, tipo, condiciones de suministro, almacenamiento y uso.
+ Se deben que indicar en cada caso las autorizaciones específicas y/o sectoriales necesarias propias de la actividad y las derivadas de la instalación en el montaje y para su ejercicio.
+ 1.8 Instalaciones sanitarias, higiénicas y de agua potable.
+ Tanto para el montaje como para el ejercicio de la actividad se deben indicar, justificar y condicionar las previsiones al respecto. Se debe indicar, en su caso, las autorizaciones específicas y/o sectoriales necesarias, así como las tareas de higienización, mantenimiento, desinfección, etc.
+ Tanto para el montaje como para el ejercicio de la actividad se deben indicar, justificar y condicionar las previsiones que se refieren al suministro de agua. Se deben indicar, en su caso, las autorizaciones específicas y/o sectoriales necesarias.
+ 1.9 Electricidad e iluminación.
+ Tanto para el montaje como para el ejercicio de la actividad se deben describir claramente los medios de los que se dispone. Se deben indicar, en su caso, las autorizaciones específicas y/o sectoriales necesarias y las condiciones para el montaje de la actividad y para su ejercicio.
+ 1.10 Ventilación, climatización, calefacción y agua caliente sanitaria.
+ Tanto para el montaje como para el ejercicio de la actividad se deben describir claramente los medios de los que se dispone. Se deben indicar, en su caso, las autorizaciones específicas y/o sectoriales necesarias.
+ 1.11 Riesgo de incendio, de deflagración o de explosión.
+ Tanto para el montaje como para el ejercicio de la actividad, las medidas y los medios previstos para la prevención y la protección contra incendios hay que justificar la adecuación a las normas y a los reglamentos vigentes que sean de aplicación en la materia.
+ En todo caso, estos medios se deben describir claramente, y hay que indicar el tipo, el número, la capacidad y otras características; asimismo, se debe justificar el cumplimiento de la reglamentación específica.
+ Se debe justificar la evacuación de los usuarios y las usuarias indicando el tiempo requerido para ello, teniendo en cuenta la resistencia al fuego de los elementos estructurales y los medios necesarios.
+ 1.12 Seguridad laboral y otros riesgos colectivos.
+ Tanto para el montaje como para el ejercicio de la actividad se deben describir y se han de establecer las medidas preventivas, correctoras y de control. Se deben indicar en cada caso las autorizaciones específicas y/o sectoriales necesarias.
+ 1.13 Otras instalaciones.
+ Las que se prevean para el desarrollo de la actividad, ajustadas a la normativa legal aplicable.
+ 1.14 Plan de autoprotección.
+ En caso de ser necesario según la legislación vigente de emergencias en las Illes Balears, se incluirá un plan de autoprotección redactado de conformidad con la normativa mencionada.
+ 1.15 Mantenimiento.
+ Se deben indicar las condiciones de mantenimiento preventivo (plan de mantenimiento diario, semanal, mensual y anual).
+ Se debe incluir una relación de todos los pasos que se deben seguir para montar la atracción, para asegurar la seguridad estructural y mecánica adecuada a las condiciones del terreno que se puedan dar.
+ También se deben explicar detalladamente todas las tareas de mantenimiento de los elementos de la actividad una vez instalada.
+ Se deben indicar los plazos máximos para reemplazar las piezas que puedan sufrir desgaste o aquellas cuyas cualidades de resistencia, dureza, etc. disminuyan con el uso o cualquier otro factor.
+ 1.16 Elementos que puedan provocar molestias, insalubridades, nocividades e incidencias en el medio ambiente.
+ Se deben adaptar a la normativa vigente los siguientes apartados:
+ a) Ruidos y vibraciones. Se debe incluir un análisis de emisión y transmisión de ruidos y vibraciones, justificando las medidas preventivas, correctoras y de control adoptadas.
+ b) Emisión de contaminantes a la atmósfera. Se debe estudiar la producción de contaminantes y la emisión a la atmósfera y justificarla, y se deben consignar los niveles para cada tipo de contaminantes y las medidas preventivas, correctoras y de control adoptadas.
+ c) Olores. Cuando se prevé la producción de malos olores se deben indicar las medidas preventivas, correctoras y de control adoptadas para evitarlas.
+ d) Residuos líquidos. Se deben detallar la composición y las condiciones de los residuos líquidos y, en su caso, el sistema de depuración adoptado, el punto final de vertido y/o la necesidad de gestores autorizados, y la necesidad de red municipal de alcantarillado público.
+ e) Residuos sólidos. Se deben indicar la composición y la cantidad generada, además del sistema de recogida con indicación de la necesidad o no de gestores autorizados, así como su tratamiento y su eliminación.
+ f) Otros impactos potenciales. Se deben indicar, justificar y condicionar las previsiones al respecto.
+ 2. Anexos a la memoria.
+ – Plan de control de calidad y mantenimiento.
+ – Estudio de Seguridad y Salud o estudio básico, en su caso, que debe contener y establecer las medidas preventivas, correctoras y de control, tanto en el montaje como en la explotación de la actividad. Se deben indicar en cada caso las autorizaciones específicas y/o sectoriales necesarias.
+ II. Planos.
+ El proyecto debe contener tantos planos delimitados como sean necesarios para la definición de la actividad en detalle.
+ Plano de condiciones de emplazamiento.
+ Plano de las condiciones de emplazamiento de la actividad, con indicación de las superficies de seguridad y de las distancias a posibles elementos del entorno inmediato (líneas eléctricas, edificaciones, otras actividades, otras instalaciones y similares).
+ Plano de planta y sección.
+ Planos en planta y sección en las cuales se debe desarrollar la actividad que expresan la distribución de zonas. Asimismo, se deben indicar las diferentes instalaciones, la maquinaria y las medidas preventivas, correctoras y de control que se han previsto y que son necesarias para una valoración de los efectos de la actividad itinerante.
+ Plano de detalles de sistemas de seguridad.
+ Planos con los detalles de los sistemas de seguridad, en los que quede lo bastante claro su funcionamiento y montaje.
+ Planos de instalaciones.
+ Esquemas eléctricos y otras instalaciones (agua, gas, frigoríficas, combustibles, protección contra incendios y otros).
+ Planos de detalles.
+ Otros datos de detalle que el o la proyectista considere oportunos.
+ III. Pliego de Condiciones.
+ 1. Pliego de cláusulas administrativas.
+ Disposiciones generales.
+ 2. Pliego de condiciones técnicas particulares.
+ Descripción exhaustiva de los procesos de montaje y desmontaje que complementan el apartado 1.16 de la memoria, indicando las fases que se deben seguir, herramientas y personal mínimo adscrito para estas tareas, con protocolo de aseguramiento de cumplimiento de condiciones de instalación y protocolos en caso de superarse los parámetros de funcionamiento permitido. Se debe acreditar que en el montaje se cumple la Directiva 2009/104/CE del Parlamento Europeo y del Consejo, de 16 de septiembre de 2009, relativa a las disposiciones mínimas de seguridad y de salud para la utilización por los trabajadores en el trabajo de los equipos de trabajo (segunda Directiva específica de acuerdo con el artículo 16, apartado 1, de la Directiva 89/391/CEE).
+Reglas adicionales
+1. La ECAC debe certificar, como mínimo, los siguientes puntos:
+– Que la actividad cumple con la normativa que le sea de aplicación según el caso.
+– Que se garantiza la seguridad estructural de la actividad así como la seguridad de las personas en su operación y utilización.
+– Que el proyecto presentado para la inscripción corresponde efectivamente a la realidad de la actividad que se describe.
+– Que el proyecto presentado describe adecuadamente y cumple con la normativa en cuanto a las operaciones de:
+• Montaje.
+• Desmontaje.
+• Operación de la Atracción.
+• Mantenimiento.
+Y las medidas previstas para evitar las posibles molestias, nocividad, insalubridad y peligrosidad.
+2. En el caso de las actividades inocuas y menores, la certificación indicada en el apartado anterior podrá realizarla el técnico redactor o la técnica redactora del proyecto tipo o cualquier otro técnico o técnica competente.
+3. Las certificaciones anteriores no pueden tener una antigüedad superior a seis meses en la fecha de presentación en el Registro Autonómico de Actividades Itinerantes.
+3. Modificación del anexo
+El contenido de este anexo se puede modificar por orden de la persona titular de la consejería competente en materia de actividades del Gobierno de las Illes Balears con el fin de mantener un estándar en los contenidos de los proyectos de actividades.
+Se suprime la obligación de presentar la ficha resumen en los casos en los que no es preceptiva la redacción del proyecto de actividades que consta en este anexo II, y se suprime la mención en su punto 5 del contenido del proyecto de actividades relativa a la necesidad de incluir el plan de autoprotección, por la disposición final 2.4 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
+ Se suprime la obligación de presentar la ficha resumen en los casos en los que no es preceptiva la redacción del proyecto de actividades y la mención en su punto 5 del contenido del proyecto de actividades relativa a la necesidad de incluir el plan de autoprotección, por la disposición final 2.5 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
+ Se modifica por el art. 42 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que las referencias hechas en esta Ley a la Sección 1a (actividades permanentes) del Registro autonómico de actividades se entenderán realizadas a los registros municipales de actividades permanentes, según se establece en la disposición final 3.14 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
+ Téngase en cuenta que las referencias hechas al permiso de instalación se entenderán hechas al título urbanístico correspondiente, según se establece en la disposición final 2.5 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2 y 2.6 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2

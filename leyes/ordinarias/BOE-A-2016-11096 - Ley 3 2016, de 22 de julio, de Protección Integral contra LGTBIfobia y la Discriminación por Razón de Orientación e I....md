@@ -1,0 +1,730 @@
+# Ley 3/2016, de 22 de julio, de Protección Integral contra LGTBIfobia y la Discriminación por Razón de Orientación e Identidad Sexual en la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-2016-11096`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2016-11096
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denorminarse "Ley 3/2016, de 22 de julio, de protección, igualdad efectiva y no discriminación de las personas LGTBI de la Comunidad de Madrid", según establece el art. único.1 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+## Preámbulo
+
+LA PRESIDENTA DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo
+PREÁMBULO
+I
+La Constitución española de 1978 recoge en su artículo 9 la participación de todos los ciudadanos en la vida política, económica, cultural y social, al tiempo que obliga a los poderes públicos, tanto a facilitar esa participación, como a promover las condiciones para que la libertad e igualdad del individuo y de los grupos sociales en que se integra sean reales y efectivas, con remoción de los obstáculos que impidan su plenitud. Estos valores se explicitan en el artículo 10, al disponer que la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social. Además, en su artículo 14 reconoce que los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, religión, opinión o cualquier otra condición o circunstancia personal o social.
+La Constitución española pretende con ello una clara interdicción del mantenimiento de determinadas diferenciaciones arraigadas históricamente, tal y como ha reconocido el Tribunal Constitucional, y que han situado, a sectores de población en situaciones de desventaja y contrarias a la dignidad de la persona que reconoce el precitado Artículo 10 de la Constitución.
+Los principios de Yogyakarta, principios sobre la aplicación de la legislación internacional de derechos humanos en relación con la orientación sexual y la identidad de género, ampliamente utilizados por instituciones de todo el mundo con la finalidad de orientar la interpretación y aplicación de las normas del Derecho internacional de los derechos humanos, establecen unos estándares básicos, para evitar los abusos y dar protección a los derechos humanos de las personas lesbianas, gais, bisexuales y transexuales (LGTB) y marcan claramente como la legislación internacional de derechos humanos protege a las personas LGTB.
+En el ámbito de la Comunidad de Madrid, el artículo 1.3 del Estatuto de Autonomía de la Comunidad de Madrid, aprobado mediante la Ley Orgánica 3/1983, de 25 de febrero, proclama que «La Comunidad de Madrid, al facilitar la más plena participación de los ciudadanos en la vida política, económica, cultural y social, aspira a hacer realidad los principios de libertad, justicia e igualdad para todos los madrileños», y el Artículo 7.4 establece que «corresponde a los poderes públicos de la Comunidad de Madrid, en el ámbito de su competencia, promover las condiciones para la libertad y la igualdad del individuo y de los grupos en que se integran sean reales y efectivas, remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social».
+En el marco de lo previsto en estos artículos y en ejercicio de las competencias que la Comunidad de Madrid tiene atribuidas en virtud de lo dispuesto en los artículos 26.1.23, 27.4, 28.1, apartados 1 y 12, y 29, de su Estatuto de Autonomía, se ha elaborado la presente Ley, que tiene por objeto establecer un marco normativo adecuado para garantizar el derecho de toda persona en la Comunidad de Madrid a no ser discriminada por razón de su identidad o expresión de género, así como a proteger el derecho de cada persona a establecer con plena liberad los detalles de su identidad de ser humano.
+La presente Ley de «Protección integral contra la LGTBIfobia y la discriminación por razón de orientación e identidad sexual en la Comunidad de Madrid» tiene por objeto establecer un marco normativo adecuado para garantizar el derecho de toda persona en la Comunidad de Madrid a no ser discriminada por razón de su orientación sexual o identidad y/o expresión de género.
+Asimismo, la Ley garantizará una protección efectiva por parte de la Administración de la Comunidad de Madrid a personas que sean víctimas de discriminación y delitos de odio, o sufran trato discriminatorio, vejatorio o degradante por orientación sexual e identidad y/o expresión de género.
+Igualmente, no se puede dejar atrás a los más olvidados hasta ahora por la sociedad, los mayores LGBTI, que sufren mayor discriminación, por su edad y por pertenecer a un colectivo, el LGBTI, hostigado, criminalizado y marginado durante décadas.
+Las personas mayores transexuales tienen también características propias y sufren especialmente discriminación, de ahí que sea necesario establecer leyes en las que se incluyan la protección a las personas mayores LGBTI que nos antecedieron en el camino y que todavía siguen vivos. Personas que a lo largo de su vida no han contado con ninguna protección y siguen sin contar con el reconocimiento que sus especificidades presentan en este ámbito de actuación y que necesitan de un apoyo explícito de las instituciones públicas.
+II
+Durante la dictadura franquista y en el inicio de la actual democracia, las personas homosexuales y transexuales eran detenidas y encarceladas por su condición, si bien no existen cifras exactas de esta persecución, por cuanto muchas veces el motivo oficial de la encarcelación era el ejercicio de la prostitución. En el año 1954 se reformó la Ley de Vagos y Maleantes, equiparando a los homosexuales y sancionándoles como a los proxenetas, mendigos, enfermos mentales o lisiados. En el año 1970, la Ley de peligrosidad social, modificó el castigo por el denominado «tratamiento», que podía incluir lobotomía y descargas eléctricas. Esta última Ley no eliminó la mención a «los actos de homosexualidad» hasta enero del año 1979 y fue derogada completamente el 23 de noviembre de 1995. No obstante, se seguía persiguiendo a las personas LGTBI con la figura de la Ley de Escándalo Público, que no se modificó hasta el año 1983 y se derogó en 1989.
+En el momento actual asistimos a un profundo cambio social, con una mayor presencia y visibilidad en todas las esferas de la sociedad madrileña, de personas homosexuales, bisexuales, personas transexuales e intersexuales.
+La Ley de Protección integral contra la LGTBIfobia y la discriminación por razón de orientación e identidad sexual en la Comunidad de Madrid se suma a las numerosas leyes autonómicas elaboradas en nuestro país para garantizar los derechos de las personas LGTBI. Todas las personas, independientemente de su orientación sexual, diversidad sexual o identidad de género, tienen derecho a la igualdad de trato ante la ley y el derecho a ser protegidas contra la discriminación por orientación sexual y la identidad de género.
+Esta Ley es un logro colectivo: de las asociaciones, plataformas y fundaciones LGTBI madrileñas, de las instituciones que han participado en su elaboración, de los Grupos Parlamentarios de la Asamblea de Madrid y de la sociedad en su conjunto. Pero sobre todo es necesario reconocer el trabajo activista y comprometido de organizaciones y personas que durante muchos años, en circunstancias de gran persecución e incomprensión, han dedicado su vida a lograr el cambio social que permite en este momento la aprobación de la presente Ley.
+La Comunidad de Madrid desde el año 2002 cuenta con un Servicio público de atención a personas LGTBI. En este programa se presta orientación, información psicológica, social y jurídica a estos colectivos. Se trata de un programa puntero e innovador de colaboración entre la Administración Pública y la sociedad civil dedicado a realizar actuaciones de carácter formativo, informativo, de asesoramiento y sensibilización dirigidas tanto a profesionales como al conjunto de la población y que tiene por objeto la prestación de una atención integral y especializada tanto a las personas homosexuales y transexuales como a sus entornos familiares y relacionales, a través de la intervención de un equipo multiprofesional que actúa en las áreas social, psicológica, jurídica, de sensibilización y formación. El programa ha sido un éxito y es un referente a nivel nacional e internacional, pero igualmente se encuentra sometido a una provisionalidad indeseable que hace necesaria la garantía del servicio o su transformación en un servicio de asesoramiento multidisciplinar y con funciones de intervención con el fin de ofrecer apoyo y asesoría a uno de los colectivos más vulnerables del entramado social.
+En el programa han sido atendidas no solo personas residentes en la Comunidad de Madrid, sino también personas procedentes de otros territorios en los que sufren procesos de discriminación por su orientación o identidad sexual.
+A pesar de los avances, queda mucho por hacer. El informe de delitos de odio en España sitúa los incidentes que tienen que ver con la orientación sexual y/o expresión de género de la víctima a la cabeza del ranking, por delante del racismo o la xenofobia.
+Las organizaciones de la sociedad civil madrileña, asociaciones y fundaciones LGTBI por su parte han sido pioneras en la defensa y atención de las personas LGTB, atendiendo a miles de personas LGTB y a la ciudadanía madrileña (profesionales, instituciones, estudiantes, etcétera) pasando de una realidad en que la libre orientación sexual y afectiva y la libre expresión de género estaban penalizadas a otra donde se han producido importantes avances legislativos y sociales, aunque aún quede mucho camino por recorrer. También han sido actores importantes de los avances que se han producido en España en su conjunto, manteniéndose además solidarios con aquellas personas LGTB que siguen siendo perseguidas en cualquier parte del mundo.
+III
+En el artículo 2 de la Declaración Universal de Derechos Humanos se reconoce que todas las personas tienen los mismos derechos y libertades. En el elenco de derechos se afirma que la condición sexual no pude suponer distinción alguna en el uso y disfrute de los derechos.
+Por su parte, el Consejo de Derechos Humanos, en su Resolución 17/19 de 2011 condena formalmente cualquier acto de violencia o discriminación por orientación sexual e identidad de género en cualquier parte del mundo. También prohíbe esa discriminación el artículo 21 de la Carta de Derechos Fundamentales de la Unión Europea.
+En este sentido, las resoluciones del Parlamento Europeo de 8 de febrero de 1994, de 18 de enero de 2006 y de 24 de mayo de 2012, se centran en garantizar la igualdad de derechos de lesbianas y gays y en la lucha contra la discriminación y la homofobia en el acceso al empleo.
+En aplicación de los preceptos constitucionales, la legislación española ha ido evolucionando para recoger una serie de cambios y de avances en materia de igualdad de sexos, y después a aspectos referentes a las parejas de hecho de personas del mismo sexo, o el matrimonio entre personas del mismo sexo, así como del ejercicio de los derechos relacionados con estas figuras jurídicas.
+El 30 de junio de 2005 se aprobó una importante y trascendental modificación del Código Civil que permitió el matrimonio de personas del mismo sexo, y como consecuencia de ello, otros derechos de envergadura como la adopción conjunta, la herencia y la pensión. La Ley fue publicada el 2 de julio de 2005, convirtiéndose España en el tercer país del mundo en legalizar el matrimonio igualitario después de los Países Bajos y Bélgica, y en el primer país del mundo en legalizarlo de forma plena, pues en esa fecha los Países Bajos sólo permitían la adopción de niños y niñas de nacionalidad holandesa, y Bélgica no permitía la adopción por parte de parejas homosexuales casadas.
+El 26 de mayo de 2006, el Gobierno español, modificó la ley de reproducción asistida, permitiendo a la madre no biológica reconocer legalmente como hijos a los niños nacidos en el matrimonio entre dos mujeres.
+La Ley 3/2007, de 15 de marzo, reguladora de la rectificación registral de la mención relativa al sexo de las personas, supuso un avance en la consolidación de derechos de las personas transexuales mayores de edad, pues les permitía corregir la asignación registral de su sexo contradictoria con su identidad, sin necesidad de someterse a un procedimiento quirúrgico de reasignación de sexo y sin procedimiento judicial previo.
+La legislación española ha evolucionado para recoger una serie de cambios y de avances en materia de igualdad de las personas LGTBI, también en el ámbito autonómico. Varias leyes autonómicas promulgan la igualdad en relación con la orientación sexual e identidad de género y promueven medidas para hacerla posible. El detalle del elenco de estas normas es el siguiente: Ley Foral 12/2009, de 19 de noviembre, de no discriminación por motivos de identidad de género y de reconocimiento de los derechos de las personas transexuales de Navarra. Ley 14/2012, de 28 de junio, de no discriminación por motivos de identidad de género y de reconocimiento de los derechos de las personas transexuales del País Vasco. Ley 2/2014, de 14 de abril, por la igualdad de trato y la no discriminación de lesbianas, gays, transexuales, bisexuales e intersexuales de Galicia. Ley 2/2014, de 8 de julio, integral para la no discriminación por motivos de identidad de género y reconocimiento de los derechos de las personas transexuales de Andalucía. Ley 11/2014, de 10 de octubre, para garantizar los derechos de lesbianas, gais, bisexuales, transgéneros e intersexuales y para erradicar la homofobia, la bifobia y la transfobia, de Cataluña. Ley 8/2014, de 28 de octubre, de no discriminación por motivos de identidad de género y de reconocimiento de los derechos de las personas transexuales de Canarias. Finalmente, la Ley 12/2015, de 8 de abril, de Igualdad Social de Lesbianas, Gais, Bisexuales, Transgéneros, Transexuales e Intersexuales, y de políticas públicas contra la discriminación por homofobia y transfobia en la Comunidad Autónoma de Extremadura.
+IV
+La Ley se compone de una parte dispositiva, conformada por 76 artículos, distribuidos en un Título Preliminar, en el que se recogen las disposiciones generales, un Título I, relativo a las medidas en materia de no discriminación por razón de orientación e identidad sexual o por expresión de género, que se divide en dieciséis capítulos en los que se reflejan medidas en los ámbitos social, justicia, Administración, rural, estadístico, familiar, educativo, salud, laboral, derecho de admisión, juventud y mayores, cultura, deporte, de ocio y tiempo libre, inmigración y cooperación al desarrollo; el Título II materializa distintas medidas de protección de las víctimas de discriminación por motivo de su orientación sexual, que se divide en 4 capítulos relativos al apoyo a las víctimas, medidas de prevención, medidas de formación y sensibilización y medidas de tutela administrativa; el Título III de la Ley establece los mecanismos de gestión y coordinación interdepartamental para una eficaz gestión de las intervenciones sociales en este ámbito; finalmente el Título IV de la Ley define un régimen sancionador con la tipificación de las acciones discriminatorias, las sanciones correspondientes y una escala en la gravedad de las mismas.
+Se suprime el tercer párrafo del apartado III por el art. único.2 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+La presente Ley, en el marco de sus competencias, tiene por objeto regular los principios, medidas, instrumentos y procedimientos para garantizar el derecho de toda persona en la Comunidad de Madrid a no ser discriminada por razón de su orientación o diversidad sexual o por su identidad o expresión de género, reales o percibidas, a no sufrir presiones, desprecio o discriminaciones por ello, así como el derecho a su integridad física y psíquica, en todas las fases de su vida y en todos los ámbitos de actuación, tanto públicos como privados.
+Todas las personas LGTBI tendrán derecho a ser tratadas en condiciones de igualdad en cualquier ámbito de la vida, en particular, en las esferas civil, laboral, social, sanitaria, educativa, económica y cultural, así como a una protección efectiva por parte de la Administración de la Comunidad de Madrid en aquellos supuestos que sean víctimas de discriminación y delitos de odio, o sufran trato discriminatorio, vejatorio o degradante por orientación sexual, identidad de género o expresión de género.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+El marco normativo, principios, medidas, instrumentos y procedimientos establecidos en la presente Ley será de aplicación a la Administración de la Comunidad de Madrid, a las entidades locales que la integran y a las entidades de derecho público o privado vinculadas o dependientes de las mismas, sin perjuicio de lo establecido por la legislación en materia de extranjería, los tratados internacionales aplicables y el resto de la legislación vigente.
+La presente Ley también será de aplicación a cualquier persona física o jurídica, pública o privada, cualquiera que sea su domicilio o residencia, que se encuentre o actúe en el ámbito territorial de la Comunidad de Madrid.
+
+### Artículo 3
+
+Artículo 3. Definiciones.
+A los efectos previstos en esta Ley, se tendrán en cuenta las siguientes definiciones:
+a) LGTBI: siglas que designan a personas Lesbianas, Gais, Trans, Bisexuales e Intersexuales.
+b) Persona Trans: toda aquella persona que se identifica con un género diferente o que expresa su identidad de género de manera diferente al género que le asignaron al nacer. El término trans ampara múltiples formas de expresión de la identidad de género o subcategorías como transexuales, transgénero, travestis, variantes de género, u otras identidades de quienes definen su género como «otro» o describen su identidad en sus propias palabras.
+c) LGTBIfobia: rechazo, miedo, repudio, prejuicio o discriminación hacia mujeres u hombres que se reconocen a sí mismos como LGTBI.
+d) Discriminación directa: hay discriminación directa cuando una persona haya sido, sea o pueda ser tratada de modo menos favorable que otra en situación análoga o comparable, por motivos de orientación sexual, expresión o identidad de género o pertenencia a grupo familiar en el que todos o alguno de sus componentes sea una persona LGTBI.
+e) Discriminación indirecta: hay discriminación indirecta cuando una disposición, criterio o práctica aparentemente neutros puedan ocasionar una desventaja particular a personas por motivos de orientación sexual, expresión o identidad de género o pertenencia a grupo familiar en el que todos o alguno de sus componentes sea una persona LGTBI.
+f) Discriminación múltiple: hay discriminación múltiple cuando además de discriminación por motivo de orientación sexual, expresión o identidad de género o pertenencia a grupo familiar, una persona sufre conjuntamente discriminación por otro motivo recogido en la legislación europea, nacional o autonómica. Específicamente se tendrá en cuenta que a la posible discriminación por expresión, identidad de género, orientación del deseo o pertenencia a un grupo familiar con presencia de personas LGTBI, se pueda sumar la pertenencia a colectivos como inmigrantes, minorías étnicas, personas con discapacidad, mujeres, etcétera.
+g) Discriminación por asociación: hay discriminación por asociación cuando una persona es objeto de discriminación como consecuencia de su relación con una persona, un grupo o familia que incluya a personas LGTBI.
+h) (Suprimida)
+i) Acoso discriminatorio: será acoso discriminatorio cualquier comportamiento o conducta que por razones de orientación sexual, expresión o identidad de género o pertenencia a grupo familiar, se realice con el propósito o el efecto de atentar contra la dignidad y de crear un entorno intimidatorio, hostil, degradante, ofensivo o segregado.
+j) Represalia discriminatoria: trato adverso o efecto negativo que se produce contra una persona como consecuencia de la presentación de una queja, una reclamación, una denuncia, una demanda o un recurso, de cualquier tipo, destinado a evitar, disminuir o denunciar la discriminación o el acoso al que está sometida o ha sido sometida.
+k) Victimización secundaria: perjuicio causado a las personas LGTBI que, siendo víctimas de discriminación, acoso, trato vejatorio o represalia, sufren las consecuencias de una mala o inadecuada atención por parte de representantes de instituciones públicas, policía o cualquier otro agente implicado.
+l) Violencia intragénero: se considera como tal a aquella que en sus diferentes formas se produce en el seno de relaciones afectivas y sexuales entre personas del mismo sexo, constituyendo un ejercicio de poder, siendo el objetivo de la persona que abusa, dominar y controlar a su víctima.
+m) Diversidad de género: comportamiento distinto respecto de las normas y roles de género impuestos socialmente para el sexo asignado de cada persona.
+n) Acciones afirmativas: se entienden así a aquellas acciones que pretenden dar a un determinado grupo social que históricamente ha sufrido discriminación un trato preferencial en el acceso a ciertos recursos o servicios, con la idea de mejorar su calidad de vida y compensar la discriminación de la que fueron víctimas.
+o) Terapia de aversión o de conversión de orientación sexual e identidad de género: Por este término se entienden todas las intervenciones médicas, psiquiátricas, psicológicas, religiosas o de cualquier otra índole que persigan la modificación de la orientación sexual o de la identidad de género de una persona.
+p) (Suprimida)
+q) Persona intersexual: persona que nace con una anatomía reproductiva o genital que no parece encajar en las definiciones típicas de masculino y femenino.
+Se suprimen las letras h), p) y r) por el art. único.3 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 4
+
+Artículo 4. Principios.
+La presente Ley se inspira en los siguientes principios fundamentales que regirán la actuación de las personas físicas o jurídicas, públicas o privadas incluidas en su ámbito de aplicación.
+1. El reconocimiento del derecho al disfrute de los derechos humanos: todas las personas, con independencia de su orientación sexual, expresión o identidad de género, tienen derecho al pleno disfrute de todos los derechos humanos, destacando especialmente:
+a) Igualdad y no discriminación: se prohíbe cualquier acto de discriminación directa o indirecta, por razón de orientación sexual, identidad de género, expresión de género o pertenencia a grupo familiar. La ley garantizará la protección efectiva contra cualquier discriminación.
+b) Reconocimiento de la personalidad: toda persona tiene derecho a construir para sí una autodefinición con respecto a su cuerpo, sexo, género y su orientación sexual. La orientación, sexualidad e identidad de género que cada persona defina para sí es esencial para su personalidad y constituye uno de los aspectos fundamentales de autodeterminación, dignidad y libertad. Ninguna persona podrá ser presionada para ocultar, suprimir, negar o modificar su orientación sexual, expresión o identidad de género.
+c) Prevención: se adoptarán las medidas de prevención necesarias para evitar conductas homófobas, lesbófobas, bífobas y/o tránsfobas, así como una detección temprana de situaciones conducentes a violaciones del derecho a la igualdad y la no discriminación de personas LGTBI.
+d) Integridad física y seguridad personal: se garantizará protección efectiva frente a cualquier acto de violencia o agresión contra la vida, la integridad física o psíquica o el honor personal que tenga causa directa o indirecta en la orientación sexual, identidad de género, expresión de género, diversidad corporal o pertenencia a grupo familiar.
+e) Protección frente a represalias: se adoptarán las medidas necesarias para la protección eficaz de toda persona frente a cualquier actuación o decisión que pueda suponer un trato desfavorable, como reacción al ejercicio o participación en el ejercicio de acción judicial o administrativa.
+f) Privacidad: todas las personas tienen derecho a la privacidad, sin injerencias arbitrarias o ilegales en su vida privada, incluyendo el derecho a optar por revelar o no la propia orientación sexual, diversidad corporal o identidad de género. Se adoptarán las medidas administrativas necesarias a fin de garantizar que en las menciones a las personas que accedan a servicios y prestaciones públicas y privadas, éstas reflejen la identidad de género manifestada, respetando la dignidad y privacidad de la persona concernida.
+2. Efectividad de derechos: las Administraciones públicas de la Comunidad de Madrid, en el ámbito de sus competencias, promoverán políticas para el fomento de la igualdad, la visibilidad y la no discriminación por motivos de orientación sexual, expresión o identidad de género en el acceso, la formación y promoción de los miembros de las distintos cuerpos de Policía Local de nuestra Comunidad, así como en la asistencia a víctimas por motivo de orientación sexual, identidad o expresión de género o pertenencia a grupo familiar.
+Asimismo, los poderes públicos y cualquiera que preste servicios en el ámbito de la función pública o en el ámbito de la empresa privada, promoverán y garantizarán el cumplimiento efectivo del principio de igualdad y no discriminación, ejerciendo cuantas acciones afirmativas sean necesarias para eliminar las situaciones de discriminación por razón de orientación sexual, identidad o expresión de género y pertenencia a grupo familiar, incluido el fomento de las denuncias a las fuerzas y cuerpos de seguridad y ante el órgano administrativo competente.
+3. Derecho a recursos y resarcimientos efectivos: se garantizará a las personas LGTBI la reparación de sus derechos violados por motivo de orientación sexual o identidad de género.
+Se suprime el apartado 1.g) por el art. único.4 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 5
+
+Artículo 5. Tutela Institucional.
+1. La Comunidad de Madrid, las entidades locales que la integran y las entidades de derecho público o privado vinculadas o dependientes de las mismas garantizarán el cumplimiento de la presente Ley y de sus normas de desarrollo, y promoverán las condiciones para hacerla efectiva en el ámbito de sus respectivas competencias.
+2. La Comunidad de Madrid, en el ámbito de las competencias que tiene atribuidas, garantizará en todas las etapas de su vida, los derechos de las personas LGTBI, sin perjuicio de lo establecido en la legislación en materia de extranjería, los tratados internacionales aplicables y demás legislación vigente.
+3. La Comunidad de Madrid promoverá una política activa e integral para la atención a las personas LGTBI, dotándola de los instrumentos y estructuras necesarias que garanticen su viabilidad. Dicha política incluirá, entre otras, las siguientes actuaciones, sin perjuicio de las que puedan establecerse reglamentariamente:
+a) Acciones formativas, divulgativas, de sensibilización y, en general, acciones positivas que permitan la igualdad real de las personas LGTBI y la plena inclusión social de las personas LGTBI en la sociedad.
+b) Mecanismos y procedimientos específicos de lucha contra la discriminación, tratos vejatorios o degradantes y, en general, conductas, LGTBIfóbicas, con el fin de eliminar los prejuicios y estereotipos imperantes.
+c) Programas de formación, capacitación y sensibilización al personal funcionario, laboral y estatutario de las Administraciones, organismos, sociedades y entes públicos de la Comunidad de Madrid.
+d) Participación de las entidades del Tercer Sector que trabajen por personas LGTBI.
+e) Promoción e impulso de la investigación científica, sociológica, cultural, deportiva y de ocio y, en general, de todas las manifestaciones de la vida relativas a la diversidad sexual y de género.
+f) Promoción de la participación social de las personas LGTBI y su integración en la vida cultural, deportiva y de ocio.
+g) Realización de campañas de visibilización y concienciación orientadas específicamente a mujeres bisexuales y lesbianas, personas trans y personas con pareja trans tanto en salud sexual como en atención sanitaria.
+
+### Artículo 6
+
+Artículo 6. Consejo LGTBI de la Comunidad de Madrid.
+(Suprimido)
+Se suprime por el art. único.5 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+## TÍTULO I
+
+Medidas en materia de no discriminación por razón de orientación e identidad sexual o por expresión de género
+
+## CAPÍTULO I
+
+Disposiciones generales en materia de no discriminación
+
+### Artículo 7
+
+Artículo 7. Igualdad de trato.
+1. Toda persona tiene derecho a ser tratada conforme a su orientación sexual e identidad o expresión de género, tanto en el ámbito público como privado, sin perjuicio de lo establecido en la normativa estatal o autonómica aplicable.
+Ninguna persona podrá ser presionada, coaccionada u obligada a ocultar, suprimir o negar su orientación sexual e identidad o expresión de género, así como someterse a tratamientos hormonales, quirúrgicos, psiquiátricos o de cualquier otro tipo con la finalidad de modificar su identidad o expresión de género, características sexuales u orientación sexual.
+2. En el Sistema Sanitario Público de la Comunidad de Madrid no se usarán terapias aversivas o cualquier otro procedimiento que suponga un intento de conversión, anulación o supresión de la orientación sexual, ni se practicará cirugía alguna tendente a modificar la anatomía sexual del recién nacido intersexual.
+3. Ninguna persona podrá ser requerida, en ningún ámbito de la vida, a someterse a pruebas o exámenes para determinar su orientación sexual e identidad o expresión de género y de cuyo resultado pretenda determinarse su acceso al empleo, a prestaciones, o a cualquier otro derecho, ya sea en el ámbito público o privado.
+4. Todas las personas independientemente de su orientación sexual, identidad o expresión de género tendrán derecho a la privacidad, sin que puedan ser objeto o víctimas de injerencias en su vida privada. A este respecto ninguna persona estará obligada a revelar su orientación sexual, identidad de género, expresión o comportamiento sexual.
+Se modifica el apartado 2 por el art. único.6 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 8
+
+Artículo 8. No discriminación por motivos de orientación sexual e identidad o expresión de género.
+La Comunidad de Madrid implementará una política proactiva de carácter transversal dirigida a la plena integración sociolaboral de las personas LGTBI destinando para ello los instrumentos y estructuras necesarias que garanticen su viabilidad. Dicha política prestará especial atención a aquellos casos en que puedan concurrir diversos factores de discriminación.
+
+## CAPÍTULO II
+
+Medidas en el ámbito social
+
+### Artículo 9
+
+Artículo 9. Apoyo y protección a personas LGTBI en situación de vulnerabilidad o exclusión social.
+1. La Comunidad de Madrid llevará a cabo medidas activas de prevención de la discriminación, promoción de la inclusión social y la visibilidad de las personas LGTBI que se encuentren en situación o riesgo de vulnerabilidad o exclusión social, tales como menores, jóvenes, personas mayores, personas con discapacidad, dependientes, etcétera, así como medidas de apoyo a las víctimas de la discriminación en el ámbito familiar, vecinal, educativo, laboral, residencial, entre otros.
+2. Se adoptarán medidas específicas de apoyo, mediación y protección a menores y jóvenes que estén sometidos a presión o maltrato psicológico y/o físico en el ámbito familiar, escolar o relacional por razón de su orientación sexual y/o identidad o expresión de género, garantizando en su caso un recurso residencial que les proporcione una vida digna, un normal desarrollo de su personalidad y evitar futuras situaciones de grave exclusión social.
+3. La Comunidad de Madrid adoptará las medidas necesarias para garantizar la protección de los derechos de las personas LGTBI con discapacidad, en situación de dependencia o especialmente vulnerables por razón de edad. Los centros, residencias y servicios de atención a estas personas, públicos o privados, adoptarán las medidas necesarias para que los espacios o equipamientos identificados en función de sexo puedan utilizarse sin que se produzca ningún tipo de discriminación.
+4. La Comunidad de Madrid garantizará en cualquier caso que en todos los ámbitos de aplicación de la presente Ley se proporcionarán a los profesionales las herramientas necesarias para la no discriminación y se contará con el personal especializado necesario en las diferentes materias, según se precise en los distintos protocolos y medidas a adoptar.
+5. La Comunidad de Madrid velará porque no se produzcan situaciones de discriminación de las personas LGTBI especialmente vulnerables por razón de edad, fomentando el respeto a la diversidad en lo relativo a la orientación sexual, la identidad de género o la expresión de género entre los usuarios de los servicios sociales. Las residencias de la tercera edad, tanto públicas como privadas, garantizarán el derecho a la no discriminación de personas LGTBI, ya sea tanto en su individualidad como en su relación sentimental. Así como la garantía de la continuidad de los tratamientos hormonales de las personas transexuales que así lo requieran.
+
+### Artículo 10
+
+Artículo 10. Apoyo y protección a personas LGTBI y su entorno familiar.
+1. La Comunidad de Madrid garantizará el Programa Madrileño de Información y Atención LGTBI, dependiente de la Consejería competente en materia de servicios sociales, así como la información, atención, formación, sensibilización y asesoramiento especializado con relación a las personas LGTBI, con especial atención a su entorno familiar y relacional. A través de dicho Programa se llevarán a cabo las siguientes funciones, sin perjuicio de las que puedan establecerse reglamentariamente:
+a) Prestar información, orientación y asesoramiento, incluido el legal y de asistencia psicológica y social a las personas LGTBI, en todas las etapas de su vida, con inclusión de sus familiares y personas allegadas en relación con las necesidades de apoyo específicamente ligadas a su orientación sexual.
+b) Formación, asesoramiento, sensibilización y orientación a profesionales de todos los ámbitos que trabajen o puedan trabajar sobre temática LGTBI, o cuyo ámbito de actuación profesional pueda afectar al libre ejercicio de los derechos de estas. A tal fin, desde el servicio público se elaborará anualmente un Plan de formación que sirva para capacitar a los diversos profesionales en lo que respecta a su intervención con las personas LGTBI.
+2. La Comunidad de Madrid realizará actuaciones de promoción y defensa de los derechos de las personas LGTBI, realizando a tal efecto campañas de sensibilización a la sociedad en general, y al tejido empresarial en particular, tendentes a lograr su plena igualdad y su acceso al mercado de trabajo y al resto de servicios, derechos y prestaciones, en condiciones de igualdad con el resto de la ciudadanía.
+3. La Comunidad de Madrid garantizará que todos los profesionales, públicos o privados, que trabajen dentro de su ámbito territorial, cumplan el principio de igualdad y no discriminación, y reciban la formación adecuada para el desarrollo de su actividad profesional con personas LGTBI, sus familiares o su entorno relacional.
+Se modifica por el art. único.7 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 11
+
+Artículo 11. Acción positiva.
+1. La Comunidad de Madrid adoptará medidas de acción positiva por razón de la orientación sexual y la identidad de género e impulsarán políticas de fomento de la igualdad de trato en las relaciones entre particulares.
+Para garantizar en la práctica la plena igualdad por razón de orientación sexual e identidad de género, el principio de igualdad de trato no impedirá que se mantengan o que se adopten medidas específicas a favor de lesbianas, gais, transexuales, transgéneros, bisexuales e intersexuales destinadas a prevenir o a compensar las desventajas que les afecten relativas a las materias incluidas en el ámbito de aplicación de este título.
+Al objeto de hacer efectivas las disposiciones contenidas en esta Ley, la Comunidad de Madrid deberá introducir en la elaboración de sus estudios, memorias o estadísticas, los indicadores y procedimientos que permitan el conocimiento de las causas, extensión, evolución, naturaleza y efectos de la discriminación.
+2. Las Administraciones públicas madrileñas, en todos y cada uno de los casos en que participen, obrarán teniendo en cuenta que las personas deben ser tratadas de acuerdo con la identidad de género sentida.
+3. La Comunidad de Madrid y los Ayuntamientos que la integran promoverán acciones formativas, divulgativas y, en general, acciones positivas que posibiliten la plena inclusión y participación en todos los ámbitos de la sociedad de las personas LGTBI. Todo ello sin perjuicio de que otras normas de rango estatal o autonómico establezcan condiciones más favorables por motivos de discriminación positiva.
+
+### Artículo 12
+
+Artículo 12. Medios de comunicación.
+(Suprimido)
+Se suprime por el art. único.8 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+## CAPÍTULO III
+
+Medidas en el ámbito policial y de la justicia
+
+### Artículo 13
+
+Artículo 13. Orden público y privación de libertad.
+En el ámbito del orden público y de la privación de libertad, el Gobierno debe:
+a) Establecer las medidas pertinentes para, en colaboración con los distintos cuerpos de policías locales, garantizar un trato y una estancia adecuados de las personas LGTBI en las dependencias policiales.
+b) Promover pautas de identificación y cacheo para personas transexuales de acuerdo con la identidad sentida. Ante la duda, se exigirá que el personal de la Administración madrileña se dirija a las personas transexuales y transgénero por sus apellidos, o preguntando cómo quieren que se dirijan a ellos.
+
+### Artículo 14
+
+Artículo 14. Acceso y promoción en los cuerpos y fuerzas de seguridad.
+En el acceso y promoción a los cuerpos y fuerzas de seguridad se tendrán en cuenta las previsiones contenidas en el Artículo 34 de la Ley 4/1992, de 8 de julio, de Coordinación de Policías Locales de la Comunidad de Madrid, o en cualquier otra normativa de referencia en la que se incluya el respeto al derecho constitucional a la igualdad.
+
+### Artículo 15
+
+Artículo 15. Formación de los cuerpos y fuerzas de seguridad.
+1. Los planes de formación de la Comunidad de Madrid, incluirán acciones formativas en las que específicamente se recoja el tratamiento del derecho a la igualdad y a la no discriminación de las personas LGTBI, en especial para personas transexuales.
+2. La Comunidad de Madrid deberá dar la correcta formación a las fuerzas de seguridad autonómicas y colaborar en la formación de las Policías Locales (y agentes de movilidad) de nuestra Comunidad, haciéndose cargo de su formación en nuestro territorio. Contará para ello con el desarrollo del protocolo de delitos de odio del Ministerio del Interior en la formación así como tener un diálogo fluido con las ONG de referencia en temática LGTBI para que puedan participar y explicar las necesidades del colectivo.
+3. En estas actividades podrán participar todos los colectivos relacionados con la seguridad pública o con las emergencias a los que se dirija la acción formativa.
+
+### Artículo 16
+
+Artículo 16. Medidas de asistencia.
+La Comunidad de Madrid establecerá medidas de apoyo, de conformidad con la legislación vigente, a las víctimas de violencia homofóbica, bífoba o tránsfoba, a los efectos de corregir la situación de discriminación y de minimizar o eliminar las consecuencias en la persona discriminada, a través de asistencia social, psicológica y/o médica y jurídica.
+Asimismo, siguiendo el sentido del Estatuto de la Víctima, se crea la figura del acompañante, para asistir en la denuncia a la víctima por delito de odio por orientación sexual, identidad de género o expresión de género.
+
+## CAPÍTULO IV
+
+Medidas de actuación en el ámbito de la Administración
+
+### Artículo 17
+
+Artículo 17. Documentación.
+1. Las Administraciones públicas de la Comunidad de Madrid, en el ámbito de sus competencias, deberán adoptar todas las medidas necesarias para que la documentación administrativa, en todas las áreas contempladas en la presente Ley, sean adecuadas a la diversidad sexual y afectiva de las personas LGTBI y a la heterogeneidad del hecho familiar. Asimismo, deberá garantizarse, en el acceso a los servicios y prestaciones públicas que las personas transexuales, transgénero e intersexuales puedan ser nombradas y tratadas de acuerdo con el género con el que se identifican.
+2. En virtud del principio de privacidad, se garantizará la confidencialidad sobre la identidad de género manifestada por las personas LGTBI.
+
+### Artículo 18
+
+Artículo 18. Contratación administrativa y subvenciones.
+1. Se podrá establecer, en los pliegos de cláusulas administrativas particulares, la preferencia en la adjudicación de los contratos para las proposiciones presentadas por aquellas empresas que, en el momento de acreditar su solvencia técnica, desarrollen medidas destinadas a lograr la igualdad de oportunidades.
+2. Asimismo, la Administración de la Comunidad de Madrid podrá incorporar a las bases reguladoras de las subvenciones públicas la valoración de actuaciones de efectiva consecución de la igualdad de las entidades solicitantes.
+
+### Artículo 19
+
+Artículo 19. Criterio de actuación de la Administración.
+La Administración autonómica adoptará las medidas necesarias para eliminar cualquier tipo de discriminación, directa o indirecta, por causa de orientación sexual, identidad o expresión de género que pueda presentarse en el acceso a los recursos y prestaciones de servicios.
+
+### Artículo 20
+
+Artículo 20. Formación y sensibilización.
+1. Las Administraciones públicas de la Comunidad de Madrid deben garantizar la formación y sensibilización adecuada de los profesionales que realizan tareas de prevención, detección, atención, asistencia y recuperación en los ámbitos de la salud, la educación, el mundo laboral, los servicios sociales, la justicia y los cuerpos de seguridad, el deporte y el tiempo libre, y la comunicación.
+2. Debe impulsarse la formación del personal, funcionario o laboral, no transferido de otras Administraciones públicas, mediante convenios de colaboración u otros instrumentos.
+
+### Artículo 21
+
+Artículo 21. Evaluación del impacto sobre orientación sexual e identidad de género.
+(Suprimido)
+Se suprime por el art. único.9 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+## CAPÍTULO V
+
+Medidas de apoyo y reconocimiento institucional
+
+### Artículo 22
+
+Artículo 22. Reconocimiento y apoyo institucional.
+(Suprimido)
+Se suprime por el art. único.9 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+## CAPÍTULO VI
+
+Apoyo al colectivo LGTBI en el ámbito rural
+
+### Artículo 23
+
+Artículo 23. Actuaciones.
+1. La Comunidad de Madrid será la encargada de velar porque todos los ayuntamientos de nuestro territorio puedan ofrecer servicios al colectivo LGTBI sin necesidad de que el propio ayuntamiento tenga que tener personal para ello en el caso de no ser posible.
+2. (Suprimido)
+Se suprime el apartado 2 por el art. único.10 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+## CAPÍTULO VII
+
+Centro de documentación y memoria histórica LGTBI
+
+### Artículo 24
+
+Artículo 24. Creación y funciones.
+(Suprimido)
+Se suprime por el art. único.10 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+## CAPÍTULO VIII
+
+Políticas en el ámbito de la juventud
+
+### Artículo 25
+
+Artículo 25. Protección de los jóvenes LGTBI.
+1. Desde la Consejería competente en juventud se promoverán acciones de asesoramiento e impulsará el respeto de la diversidad sexual e identidad de género, difundiendo las buenas prácticas realizadas para este respeto. Además se fomentará la igualdad de las personas jóvenes LGTBI con el resto de la ciudadanía, promoviendo el asociacionismo juvenil como herramienta para su inclusión y defensa de sus derechos.
+2. En los cursos de mediadores, monitores y formadores juveniles se incluirá formación sobre orientación sexual e identidad de género que les permita fomentar el respeto y proteger los derechos de las personas LGTBI en su trabajo habitual con los adolescentes y jóvenes de la Comunidad de Madrid.
+3. Todas las entidades juveniles y trabajadores de cualquier ámbito que realicen sus labores con la juventud promoverán y respetarán con especial cuidado la igualdad de las personas LGTBI.
+
+## CAPÍTULO IX
+
+Garantía estadística
+
+### Artículo 26
+
+Artículo 26. Garantía estadística
+1. La obtención de datos estadísticos oficiales para la elaboración de políticas públicas antidiscriminatorias en el ámbito LGTBI debe llevarse a cabo en el marco de la legislación madrileña en materia estadística, especialmente en lo relativo a la regulación del secreto estadístico, en los términos establecidos por la normativa madrileña de estadística vigente, la normativa vigente en materia de protección de datos de carácter personal y el resto de normativa aplicable.
+2. La Consejería responsable de coordinar las políticas LGTBI debe elaborar, encargar y publicar periódicamente, estadísticas y estudios cualitativos relativos especialmente a:
+a) Agresiones y discriminaciones contra personas LGTBI, y en el caso de delitos de odio teniendo en cuenta los datos aportados por el Punto de información y atención a víctimas de agresiones y delitos de odio.
+b) Denuncias presentadas en virtud de la presente Ley y denuncias penales presentadas por delitos en el ámbito de la discriminación o la violencia contra personas LGTBI.
+c) Resoluciones administrativas y sentencias judiciales, y el sentido de las mismas, relacionadas con el objeto de la presente Ley, en particular las que pueden probar la existencia de discriminaciones indirectas y ayudar a elaborar medidas para políticas públicas antidiscriminatorias.
+3. La Consejería responsable de coordinar las políticas LGTBI puede proponer el establecimiento de acuerdos y convenios con otras Administraciones e instituciones públicas y organizaciones para dar cumplimiento al apartado 2.
+
+## CAPÍTULO X
+
+Medidas en el ámbito familiar
+
+### Artículo 27
+
+Artículo 27. Protección de la diversidad familiar.
+1. Sin perjuicio de lo que disponga la legislación estatal aplicable, la presente Ley otorga plena protección jurídica frente a cualquier tipo de discriminación en la unión de personas del mismo sexo, uniones de hecho constituidas conforme a lo establecido en la normativa autonómica sobre uniones de hecho, en la relación de parentesco por filiación o afinidad, así como en las unidades monoparentales, con menores a su cargo.
+2. Los programas de apoyo a las familias, contemplarán de forma expresa medidas de apoyo, respeto y protección a los menores y jóvenes LGTBI, o que vivan en el seno de una familia con miembros LGTBI, en especial situación de vulnerabilidad y exclusión social, adoptando aquellas medidas preventivas que eviten comportamientos atentatorios contra la dignidad personal y su normal desarrollo, como consecuencia de situaciones familiares.
+3. La Administración autonómica, en el ámbito de sus competencias, desarrollará políticas activas de apoyo y visibilización de las asociaciones y organizaciones LGTBI legalmente constituidas que realicen actividades de promoción de la diversidad de las familias y el respeto a las familias homoparentales.
+4. El Consejo de atención a la Infancia y a la Adolescencia de la Comunidad de Madrid integrará representantes de entidades que trabajen con menores LGTBI, e incorporará en sus programas de actuación medidas de estudio, información, formación y divulgación de las realidades familiares de las personas LGTBI.
+
+### Artículo 28
+
+Artículo 28. Violencia en el ámbito familiar
+1. La Comunidad de Madrid, en el ámbito de sus competencias, promoverá acciones de prevención y lucha contra cualquier forma de violencia que se ejerza en el ámbito familiar por causa de la orientación sexual y/o identidad de género de cualquiera de sus miembros, y garantizará la protección de las personas LGTBI que sufran violencia en los ámbitos descritos.
+2. La Comunidad de Madrid adoptará medidas de atención, apoyo orientación y seguimiento a las víctimas de violencia en parejas del mismo sexo, que garanticen la protección de la persona acosada frente a la persona acosadora, proporcionando atención social, psicológica, legal facilitando la independencia física y económica de la víctima.
+3. Reglamentariamente se establecerán medidas específicas de protección a las víctimas de violencia intragénero, sin perjuicio de la protección que la normativa estatal y autonómica ofrece a las víctimas de violencia de género. A tal fin, se establecerán servicios de orientación jurídica especializados en materia de violencia intragénero.
+
+## CAPÍTULO XI
+
+Medidas en el ámbito educativo
+
+### Artículo 29
+
+Artículo 29. Plan integral sobre educación y diversidad.
+(Suprimido)
+Se suprime por el art. único.11 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 30
+
+Artículo 30. Combatir el acoso y favorecer la visibilidad.
+(Suprimido)
+Se suprime por el art. único.11 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 31
+
+Artículo 31. Planes y contenidos educativos.
+(Suprimido)
+Se suprime por el art. único.11 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 32
+
+Artículo 32. Inclusión de la realidad LGTBI en los planes de estudio.
+(Suprimido)
+Se suprime por el art. único.11 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 33
+
+Artículo 33. Universidades.
+1. Los principios de no discriminación y de respeto a la orientación sexual, la identidad de género o expresión de género son aplicables al ámbito universitario.
+2. La Comunidad de Madrid y las Universidades presentes en ella, respetando la libertad de cátedra y la autonomía universitaria, podrán promover conjuntamente medidas de protección, de apoyo y de investigación para la visibilidad de las personas LGTBI y el desarrollo de medidas para la no discriminación y sensibilización en el entorno universitario.
+3. Con esta finalidad, podrán elaborar un protocolo de no discriminación por razón de orientación sexual, identidad de género o expresión de género.
+4. Las Universidades con presencia en Madrid podrán contar con una figura que tenga encomendadas las labores de velar y asistir al colectivo LGTBI ante situaciones de discriminación.
+5. Las Universidades que tengan un ámbito de actuación en la Comunidad de Madrid podrán apoyar acciones de visibilidad del colectivo LGTBI dentro del ámbito universitario así como fomentar el surgimiento de asociaciones LGTBI dentro de la propia Universidad.
+
+### Artículo 34
+
+Artículo 34. Formación personal docente.
+(Suprimido)
+Se suprime por el art. único.11 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 35
+
+Artículo 35. Protección personal docente.
+La Administración Autonómica, en el ámbito de sus competencias y de lo establecido en la Ley 2/2010, de 15 de junio de Autoridad del Profesor, impulsará las medidas necesarias para garantizar el respeto y protección del personal docente de la Comunidad de Madrid en razón de su orientación sexual e identidad o expresión de género, garantizando en todo caso tanto su derecho a la intimidad como su visibilidad.
+
+## CAPÍTULO XII
+
+Medidas en el ámbito de la salud
+
+### Artículo 36
+
+Artículo 36. Protección del derecho a la salud física, mental, sexual y reproductiva
+1. Todas las personas tienen el derecho al más alto nivel de disfrute de la salud física y mental, incluida la salud sexual y reproductiva, sin discriminación alguna por razón de su orientación sexual, expresión o identidad de género.
+2. El sistema sanitario garantizará que la política sanitaria sea respetuosa hacia las personas LGTBI e incorporará servicios y programas específicos de promoción, prevención y atención que permitan a las mismas, así como a sus familiares, disfrutar del derecho a una atención sanitaria plena y eficaz que reconozca y tenga en cuenta sus necesidades particulares.
+3. La atención sanitaria del sistema público madrileño se adecuará a la identidad de género de la persona perceptora de la misma.
+4. La Consejería competente creará mecanismos de participación de las personas, entidades y asociaciones LGTBI en las políticas relativas a la salud sexual.
+
+### Artículo 37
+
+Artículo 37. Formación, protocolos e investigación en atención a personas LGTBI.
+1. La Consejería competente en materia de salud garantizará que los profesionales sanitarios, cuenten con la formación adecuada e información actualizada sobre homosexualidad, bisexualidad, transexualidad e intersexualidad.
+2. El sistema sanitario público de la Comunidad de Madrid, conformará un grupo coordinador de profesionales experimentados que promuevan la adopción de protocolos que garanticen el trato no discriminatorio a los usuarios de la sanidad por motivo de orientación sexual, identidad o expresión de género, con especial atención a las personas transexuales.
+3. La Consejería competente en materia de salud, promoverá la realización de estudios, investigación y desarrollo de políticas sanitarias que puedan atender correctamente las características que sean específicas de las personas LGTBI.
+
+### Artículo 38
+
+Artículo 38. Atención sanitaria a mujeres lesbianas, bisexuales, personas trans y/o sus parejas.
+1. El sistema sanitario público promoverá la formación del personal sanitario y llevará a cabo programas y protocolos específicos que den respuesta a las necesidades propias de las mujeres lesbianas, bisexuales, personas trans y personas con pareja trans, en particular sobre la salud sexual y reproductiva.
+2. Las mujeres lesbianas y bisexuales, personas trans y persona con pareja trans, tendrán garantizado el acceso a las técnicas de reproducción asistida en igualdad de condiciones que el resto de las mujeres, de acuerdo a los criterios médicos y siguiendo el protocolo establecido.
+3. Antes del inicio del tratamiento hormonal en personas transexuales, se les ofrecerá la posibilidad de congelación de tejido gonadal y células reproductivas para su futura recuperación.
+
+### Artículo 39
+
+Artículo 39. Protección frente a enfermedades de transmisión sexual.
+1. El sistema sanitario madrileño incluirá de forma expresa el aspecto y la realidad del colectivo LGTBI en las campañas de educación sexual y de prevención de enfermedades de transmisión sexual, con especial consideración al VIH en las relaciones sexuales. Se realizarán a tal efecto campañas de información de la profilaxis, especialmente entre la población juvenil.
+2. Se realizarán de manera gratuita campañas de detección precoz del VIH, especialmente en las zonas rurales.
+
+## CAPÍTULO XIII
+
+Medidas en el ámbito laboral
+
+### Artículo 40
+
+Artículo 40. Políticas de fomento de la igualdad y no discriminación en el empleo
+1. Ninguna persona podrá ser objeto de discriminación alguna en el acceso al mercado de trabajo basada exclusivamente en su diversidad sexual y de género.
+2. Ninguna persona podrá ser objeto de ningún tipo de discriminación por su orientación sexual e identidad o expresión de género en el ámbito laboral, ya sea por sus superiores o compañeros, ya sea referida al tratamiento, remuneración o categoría profesional.
+3. Las empresas que incumplan lo establecido en el apartado anterior podrán ser sancionadas conforme a lo establecido en la presente Ley. La aplicación de este principio de igualdad de trato debe hacerse compatible con otros valores o parámetros que tienen su origen en el principio de autonomía de la voluntad privada.
+4. En ningún caso podrán denegarse ayudas, subvenciones o prestaciones dirigidas a la inserción laboral o al emprendimiento, basadas en motivos de orientación sexual e identidad o expresión de género.
+
+### Artículo 41
+
+Artículo 41. Medidas y actuaciones.
+1. El departamento competente en materia de trabajo debe:
+a) Garantizar de un modo real y efectivo la no discriminación por razón de orientación sexual, identidad o expresión de género, así como el pleno ejercicio de los derechos de las personas LGTBI, en materia de contratación y ocupación, del personal funcionario y laboral.
+b) Impulsar actuaciones y medidas de difusión y sensibilización, así como códigos de conducta y protocolos de actuación, que garanticen estos derechos en las empresas, trabajando con empresarios y sindicatos con el fin de favorecer la inclusión de cláusulas antidiscriminatorias en los convenios colectivos.
+c) Fomentar la implantación progresiva de indicadores de igualdad que permitan medir la verdadera inclusión de las personas LGTBI en el sector público y el privado, de manera que se pueda reconocer a las empresas que destaquen por la aplicación de políticas de igualdad y no discriminación.
+d) Reconocer e incluir la heterogeneidad del hecho familiar en cualquier medida de conciliación y gestión del tiempo de trabajo.
+2. La Consejería competente en materia de trabajo incorporará en sus planes de formación materias sobre la igualdad de las personas LGTBI.
+3. La Administración autonómica promoverá la elaboración de estudios en los que se visibilice la situación de las personas LGTBI y en los que se garanticen la confidencialidad y la privacidad de los datos de las personas, a los efectos de conocer su situación laboral y las medidas que se deben adoptar para luchar contra su posible discriminación en el ámbito de las empresas públicas y privadas.
+4. La Comunidad de Madrid podrá establecer mecanismos de información y evaluación periódicos para prevenir, eliminar y corregir toda forma de discriminación en el ámbito del empleo.
+5. Los servicios públicos de empleo, sus entidades colaboradoras y las agencias de colocación autorizadas en el ámbito de la Comunidad Autónoma deberán velar específicamente por el respeto del derecho de igualdad de trato y no discriminación en el acceso al empleo, de conformidad con la legislación estatal competente en esta materia.
+6. En las bases reguladoras de las subvenciones públicas y en los pliegos de las contrataciones se podrá imponer, como condición especial de ejecución, el respeto de protocolos establecidos en el apartado anterior, de tal modo que su incumplimiento podrá llevar consigo el reintegro de la subvención o la resolución del contrato. La Comunidad de Madrid no contratará ningún servicio con empresas privadas condenadas por sentencia firme por ilícitos contra la orientación sexual e identidad de género, en los términos que establezca la Ley de Contratos del Sector Público.
+
+### Artículo 42
+
+Artículo 42. La realidad LGTBI en el ámbito de la responsabilidad social empresarial.
+1. La estrategia madrileña de responsabilidad social empresarial, incluirá medidas destinadas a promover la igualdad y la no discriminación por razón de orientación sexual, identidad o expresión de género.
+2. El sistema de evaluación por el que se crea el distintivo de Empresa Socialmente Responsable de la Comunidad de Madrid, con base en el Decreto 49/2015, de 14 de mayo, incorporará indicadores de igualdad que tengan en cuenta la realidad de las personas LGTBI.
+3. Asimismo, la Administración autonómica divulgará, a través de la Consejería competente en materia de asuntos sociales, las buenas prácticas realizadas por las empresas en materia de inclusión de colectivos LGTBI y de promoción y garantía de igualdad y no discriminación por razón de orientación sexual, identidad o expresión de género.
+
+### Artículo 43
+
+Artículo 43. Plan contra la discriminación en el ámbito laboral.
+1. Reglamentariamente se desarrollará un Plan contra la discriminación en el ámbito laboral, público y privado, que contemple medidas de igualdad y no discriminación, así como medidas de difusión e información de los derechos de las personas LGTBI. Dicho plan tendrá que ser participativo, contando con las organizaciones LGTBI, así como con las organizaciones sindicales y empresariales más significativas.
+2. La Comunidad de Madrid realizará campañas de difusión y sensibilización del tejido social y empresarial para lograr la plena integración laboral, por cuenta propia o ajena, de las personas LGTBI.
+Se modifica por el art. único.11 bis de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 44
+
+Artículo 44. Acoso laboral.
+Se establecerán mecanismos para la detección e intervención en casos de acoso laboral y discriminación por razón de la orientación sexual y/o identidad o expresión de género. Se establecerán medidas para prevenir y, en su caso, corregir y eliminar, estas conductas en los centros de trabajo.
+
+### Artículo 45
+
+Artículo 45. Políticas activas de empleo.
+1. La Comunidad de Madrid, en el ejercicio de sus competencias y en lo que no contravenga la normativa estatal, incluirá en los correspondientes Planes de Servicios Integrados para el Empleo así como, en su caso, en el Plan Anual de Formación para el Empleo previsto en el Artículo 3 de la Ley 5/2001, de 3 de julio, las medidas de formación, orientación, inserción, y prevención de la exclusión, encaminadas a la inserción y la sostenibilidad en el empleo de las personas con mayores dificultades de acceso al mercado de trabajo a causa de su identidad o expresión de género.
+2. Los convenios colectivos que se suscriban a partir de la entrada en vigor de la presente Ley incluirán la perspectiva de no discriminación por motivos de diversidad sexual y de género.
+3. En la elaboración y ejecución de dichas políticas se podrán establecer medidas de acción positiva para favorecer la inserción laboral de mujeres trans, así como de jóvenes víctimas de violencia, en su ámbito familiar, debida a su orientación sexual o identidad o expresión de género.
+4. El derecho a la igualdad de trato y no discriminación, así como las políticas activas de empleo y los planes contra la discriminación serán igualmente aplicables al trabajo por cuenta propia.
+
+## CAPÍTULO XIV
+
+Medidas en el ámbito ocio, cultura, turismo y deporte
+
+### Artículo 46
+
+Artículo 46. Promoción de la diversidad.
+(Suprimido)
+Se suprime por el art. único.12 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 47
+
+Artículo 47. Bibliotecas y fondo documental.
+(Suprimido)
+Se suprime por el art. único.12 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 48
+
+Artículo 48. Deporte, ocio y tiempo libre.
+La Comunidad de Madrid promoverá la práctica inclusiva del deporte, erradicando cualquier posible manifestación LGTBIfóbica en todos los eventos o espacios deportivos realizados en el territorio de la Comunidad Autónoma. Asimismo, se promoverán medidas de acción positiva hacia las personas mayores LGTBI de cara a la integración de la tercera edad en este sector.
+Los clubes deberán cumplir un protocolo de actuación ante discriminación LGTBI en el deporte que desarrollará la Consejería correspondiente.
+Se adoptarán las medidas precisas para garantizar que las actividades recreativas, de ocio y tiempo libre, se disfrutan en condiciones de igualdad y respeto a la realidad LGTBI, evitando cualquier acto de prejuicio.
+La Comunidad de Madrid, en la formación a monitores de tiempo libre tendrá que dotar de materiales y espacios para detectar y prevenir el acoso LGTBI, así como para concienciar del mismo.
+Se modifica por el art. único.13 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 49
+
+Artículo 49. Apoyo a las organizaciones deportivas LGTBI.
+La Administración Autonómica, en el ámbito de sus competencias, desarrollará políticas activas de apoyo y visibilización de las asociaciones y organizaciones deportivas LGTBI legalmente constituidas.
+
+### Artículo 50
+
+Artículo 50. Promoción del turismo LGTBI y apoyo a fechas conmemorativas.
+La Comunidad de Madrid promoverá el turismo LGTBI y prestará respaldo institucional en la celebración de fechas conmemorativas, actos y eventos que contribuyan a la igualdad social de las personas LGTBI.
+La Comunidad de Madrid adoptará las medidas e iniciativas necesarias para fomentar y apoyar el turismo orientado al público LGTBI dentro de su territorio, y en colaboración con sus municipios, en especial con la ciudad de Madrid como núcleo receptor principal del flujo turístico, con la finalidad de situar a la Comunidad como destino turístico de referencia para lesbianas, gais, transexuales, transgéneros, bisexuales e intersexuales.
+La Comunidad de Madrid incluirá el turismo LGTBI dentro de sus planes y proyectos de planificación, promoción y fomento del turismo, tanto en los planes parciales como en sus programas de actuación estratégicos, impulsando de manera especial la inclusión de este tipo de turismo en los programas de fomento del Turismo Rural.
+
+### Artículo 51
+
+Artículo 51. Apoyo al Orgullo LGTBI.
+La Comunidad de Madrid apostará por el apoyo a los actos del Orgullo LGTBI en diversos puntos de su territorio, dentro del Plan Estratégico de turismo de Madrid, o cualquier otro programa de fomento del Turismo, incentivando con ello la imagen de igualdad, libertad y pluralidad de la sociedad madrileña.
+
+## CAPÍTULO XV
+
+Derecho de admisión
+
+### Artículo 52
+
+Artículo 52. Derecho de admisión.
+1. El ejercicio del derecho de admisión no puede comportar en ningún caso discriminación por razón de orientación sexual, identidad de género o expresión de género.
+2. La prohibición de discriminación alcanza tanto a las condiciones de acceso como a la permanencia en los establecimientos, y el uso y disfrute de los servicios prestados en los mismos. Los criterios y las limitaciones de las condiciones, tanto de acceso como de permanencia, deben ser expuestos mediante carteles visibles colocados en los lugares de acceso y por otros medios que se determinen por reglamento.
+3. Los titulares de los establecimientos y espacios abiertos al público y los organizadores de espectáculos y actividades recreativas están obligados a impedir el acceso o a expulsar de los mismos a las siguientes personas, con el auxilio, si es necesario, de la fuerza pública:
+a) Las personas que violenten de palabra o de hecho a otras personas por razón de orientación sexual, identidad de género o expresión de género.
+b) Las personas que lleven y exhiban públicamente símbolos, indumentaria u objetos que inciten a la violencia, a la discriminación o a la homofobia, la bifobia o la transfobia.
+
+## CAPÍTULO XVI
+
+Medidas en el ámbito de la inmigración y la cooperación internacional al desarrollo
+
+### Artículo 53
+
+Artículo 53. Inmigración y asilo.
+1. La Comunidad de Madrid, como región de acogida de nacionales de terceros países, en el marco de las políticas públicas de integración de población extranjera salvo lo dispuesto en las leyes y tratados internacionales reguladores del derecho de asilo, incorporará medidas específicas de atención y apoyo a personas LGBTI de origen extranjero, encaminadas a garantizar su plena integración en la sociedad madrileña.
+2. La Administración Autonómica incluirá en los planes y estrategias destinados a favorecer la acogida e integración de la población extranjera en la región el reconocimiento de la diversidad LGTBI y de las necesidades específicas de este colectivo.
+3. La Comunidad de Madrid, en coordinación con el Estado y en el ámbito de sus competencias, favorecerá la adopción de acciones de acogida a solicitantes de asilo, refugiados y refugiados reasentados por motivos de orientación sexual e identidad o expresión de género.
+
+### Artículo 54
+
+Artículo 54. Cooperación internacional al desarrollo.
+La Comunidad de Madrid, salvo lo dispuesto en la normativa estatal y autonómica sobre Cooperación al desarrollo, impulsará de manera activa aquellos proyectos en materia de cooperación para el desarrollo que promuevan y defiendan el derecho a la vida, la igualdad, la libertad y la no discriminación de las personas LGBTI en aquellos países en que estos derechos sean negados o dificultados, legal o socialmente, por razón de orientación sexual, identidad o expresión de género, así como la protección de personas frente a las persecuciones y represalias.
+
+## TÍTULO II
+
+Medidas contra las agresiones y delitos de odio por orientación sexual e identidad o expresión de género
+
+## CAPÍTULO I
+
+Apoyo a las víctimas de agresiones y delitos de odio
+
+### Artículo 55
+
+Artículo 55. Protocolo de atención a las víctimas.
+1. Se establecerá un protocolo específico de atención a las víctimas de agresiones y de delitos de odio por orientación sexual, identidad de género o expresión de género.
+2. Este protocolo comprenderá una atención especializada y multidisciplinar. Las oficinas judiciales de la Comunidad de Madrid y en especial las oficinas especializadas en delitos de odio prestarán un especial cuidado a las víctimas de agresiones LGTBI.
+3. La Comunidad de Madrid realizará campañas de sensibilización y divulgación contra las agresiones basadas en la condición de persona LGTBI, promoviendo la denuncia de las mismas. En todo caso, el Programa Madrileño de Información y Atención LGTBI de la Comunidad de Madrid garantizará asistencia a las víctimas en aquellos aunque no se interponga denuncia.
+4. Los profesionales que realizan tareas de prevención, detección, atención, asistencia y recuperación en los ámbitos de la salud, la educación, el mundo laboral, los servicios sociales, la justicia y los cuerpos de seguridad, el deporte, el tiempo libre, y la comunicación, si tienen conocimiento de una situación de riesgo o tienen una sospecha fundamentada de discriminación o violencia por razón de orientación sexual, identidad de género o expresión de género, tienen el deber de comunicarlo a los cuerpos y fuerzas de seguridad y al órgano competente.
+
+### Artículo 56
+
+Artículo 56. Medidas específicas de apoyo a las víctimas.
+1. La Comunidad de Madrid, en el ámbito de sus competencias, prestará una atención integral real y efectiva a las personas víctimas de agresiones y de delitos de odio por su orientación sexual e identidad o expresión de género.
+2. Esta atención comprenderá la asistencia, asesoramiento jurídico, la asistencia sanitaria, incluyendo la atención especializada y medidas sociales tendentes a facilitar, si así fuese preciso, su recuperación integral. En todo caso se garantizará a las víctimas recursos residenciales y protección a su intimidad para evitar, en su caso, la divulgación de los datos personales de la víctima hasta la celebración del juicio. Se les suministrará asimismo información de las asociaciones LGTBI por si necesitasen de su atención primaria.
+3. Sin perjuicio del desarrollo reglamentario en medidas de protección a las víctimas, el Programa Madrileño de Información y Atención LGTBI de la Comunidad de Madrid trabajará de manera coordinada con las entidades LGTBI que actúen en el territorio de la Comunidad de Madrid para garantizar una efectiva protección a las víctimas.
+
+### Artículo 57
+
+Artículo 57. Punto de información y atención a víctimas de agresiones y de delitos de odio.
+La Comunidad de Madrid, en el ámbito de sus competencias, pondrá en marcha el Punto de información para realizar una atención y apoyo integral y multidisciplinar a las víctimas de agresiones y de delitos de odio por su orientación sexual e identidad o expresión de género.
+
+### Artículo 58
+
+Artículo 58. Protocolo de actuación en casos de acoso escolar.
+La Comunidad de Madrid, diseñará y pondrá en marcha en los centros escolares, integrado en el Plan de Convivencia de los centros docentes, un protocolo específico para la alerta, identificación, asistencia y protección en el caso de acoso escolar por motivos de orientación sexual, identidad o expresión de género, reales o supuestas.
+
+### Artículo 59
+
+Artículo 59. Actuación para víctimas de acoso a través de las nuevas tecnologías y redes sociales.
+Se prestará una atención particular al ciberacoso por motivos de orientación sexual e identidad o expresión de género. Esta atención deberá ser mayor en los casos de ciberacoso en redes sociales a los menores y jóvenes LGTBI.
+
+## CAPÍTULO II
+
+Medidas de prevención
+
+### Artículo 60
+
+Artículo 60. Protocolo de prevención de comportamientos y actitudes discriminatorias.
+La Administración Autonómica elaborará e implantará en todos los centros educativos un protocolo de prevención que evite actitudes o comportamientos LGTBIfóbicos y discriminatorios por orientación sexual, identidad de género o expresión de género.
+Este protocolo incorporará la coordinación entre las diferentes consejerías con el objeto de una rápida detección y actuación ante situaciones LGTBIfóbicas y discriminatorias.
+
+## CAPÍTULO III
+
+Medidas de formación y sensibilización
+
+### Artículo 61
+
+Artículo 61. Visibilidad de la diversidad.
+(Suprimido)
+Se suprime por el art. único.14 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 62
+
+Artículo 62. Plan de formación.
+La Administración Autonómica diseñará y pondrá en marcha un Plan de formación en materia de orientación sexual e identidad o expresión de género para los trabajadores de los distintos órganos de la Comunidad de Madrid.
+El plan de formación deberá incorporar medidas para favorecer la igualdad de trato, la lucha contra la discriminación por orientación sexual, identidad de género o expresión de género, medidas específicas para el tratamiento de personas transexuales, material específico para luchar contra la doble discriminación a mujeres bisexuales y lesbianas así como formación para eliminar prejuicios ante el trato a personas seropositivas.
+
+### Artículo 63
+
+Artículo 63. Promoción de la solidaridad.
+La Consejería competente diseñará y pondrá en marcha de forma periódica campañas de sensibilización y visibilidad de las personas LGTBI con el fin de lograr la plena implantación de la igualdad en la sociedad madrileña.
+Se modifica por el art. único.14 bis de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+## CAPÍTULO IV
+
+Medidas de tutela administrativa
+
+### Artículo 64
+
+Artículo 64. Disposiciones generales.
+La protección frente a cualquier violación del derecho de igualdad de las personas LGTBI comprenderá en su caso, la adopción de cuantas medidas sean necesarias para el cese inmediato en la conducta discriminatoria, adopción de medidas cautelares, prevención de violaciones inminentes o ulteriores, indemnización de daños y perjuicios y restablecimiento pleno de la persona perjudicada en el pleno ejercicio de sus derechos.
+
+### Artículo 65
+
+Artículo 65. Concepto de interesado.
+Tendrán la condición de interesados en el procedimiento administrativo:
+a) Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.
+b) Las asociaciones, entidades y organizaciones representativas de los colectivos LGTBI y aquellas que tengan por objeto la defensa y promoción de derechos humanos serán titulares de intereses legítimos colectivos. Estas últimas en caso de representar a una víctima o perjudicado en particular deberán contar con su permiso explícito.
+c) Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.
+d) (Anulado)
+Téngase en cuenta que se declara la inconstitucionalidad y nulidad del apartado d), en la redacción dada por el art. único.14 ter de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768, por Sentencia del TC 96/2025, de 9 de abril. Ref. BOE-A-2025-9640
+Se declara la inconstitucionalidad y nulidad del apartado d), en la redacción dada por el art. único.14 ter de la Ley 18/2023, de 27 de diciembre, por Sentencia del TC 96/2025, de 9 de abril. Ref. BOE-A-2025-9640
+ Se suspende la vigencia y aplicación del apartado d) desde el 26 de junio de 2024 para las partes legitimadas y desde el 22 de julio para los terceros, por providencia del TC de 16 de julio de 2024. Ref. BOE-A-2024-14995
+ Se modifica por el art. único.14 ter de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 66
+
+Artículo 66. Inversión de la carga de la prueba
+(Suprimido)
+Se suprime por el art. único.14 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+## TÍTULO III
+
+Comisión Interdepartamental de Seguimiento y Coordinación
+
+### Artículo 67
+
+Artículo 67. Creación.
+(Suprimido)
+Se suprime por el art. único.14 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+## TÍTULO IV
+
+Régimen sancionador
+Se modifica por el art. único.16 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+## CAPÍTULO I
+
+Infracciones y sanciones
+
+### Artículo 68
+
+Artículo 68. Sobre procedimiento sancionador.
+1. Las infracciones y sanciones relativas a esta ley serán las recogidas en la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI.
+2. La potestad sancionadora que corresponda según la normativa vigente se ejercerá de conformidad con lo que disponen la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común, y la Ley 40/2015, de 1 de octubre, del Régimen Jurídico de las Administraciones Públicas. Así mismo, y en tanto no resulte contrario a las anteriores, será de aplicación el Reglamento para el Ejercicio de la Potestad Sancionadora por la Administración de la Comunidad de Madrid, aprobado por el Decreto 245/2000, de 16 de noviembre.
+Se modifica por el art. único.16 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 69
+
+Artículo 69. Concurrencia con el orden jurisdiccional penal.
+(Suprimido)
+Se suprime por el art. único.15 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 70
+
+Artículo 70. Infracciones.
+(Suprimido)
+Se suprime por el art. único.15 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 71
+
+Artículo 71. Reincidencia.
+(Suprimido)
+Se suprime por el art. único.15 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 72
+
+Artículo 72. Sanciones.
+(Suprimido)
+Se suprime por el art. único.15 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 73
+
+Artículo 73. Graduación de las sanciones.
+(Suprimido)
+Se suprime por el art. único.15 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 74
+
+Artículo 74. Prescripción.
+(Suprimido)
+Se suprime por el art. único.15 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 75
+
+Artículo 75. Competencia.
+(Suprimido)
+Se suprime por el art. único.15 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Artículo 76
+
+Artículo 76. Procedimiento sancionador.
+(Suprimido)
+Se suprime por el art. único.15 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Disposición adicional primera
+
+Disposición adicional primera. Informe anual.
+(Suprimida)
+Se suprime por el art. único.15 de la Ley 18/2023, de 27 de diciembre. Ref. BOE-A-2024-10768
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Adaptación de la Ley.
+Las estipulaciones contempladas en la presente Ley, se adaptarán de forma necesaria y obligatoria, ante cualquier modificación o evolución de la normativa de ámbito nacional que tenga carácter de básica y que afecte de forma directa o indirecta a los derechos de las personas LGTBI.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas todas las normas de igual o inferior rango en la medida que se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+1. Se autoriza al Gobierno de la Comunidad de Madrid a dictar disposiciones reglamentarias de desarrollo de lo establecido en la presente Ley.
+2. En el plazo de seis meses desde su entrada en vigor, el Gobierno aprobará los protocolos previstos en la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entra en vigor al día siguiente de su publicación en el «Boletín Oficial de la Comunidad de Madrid».
+Los preceptos cuyo cumplimiento exige la realización de gasto con cargo a los presupuestos de la Comunidad de Madrid, tienen efecto a partir de la entrada en vigor de la Ley de Presupuestos correspondientes al ejercicio presupuestario inmediatamente posterior a la entrada en vigor de la presente Ley.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar.
+Madrid, 22 de julio de 2016.
+La Presidenta,
+Cristina Cifuentes Cuencas.

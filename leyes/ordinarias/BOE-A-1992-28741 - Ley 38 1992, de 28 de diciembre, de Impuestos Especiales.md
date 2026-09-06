@@ -1,0 +1,2320 @@
+# Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+
+- Identificador BOE: `BOE-A-1992-28741`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1992-28741
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 16, de 19 de enero de 1993. Ref. BOE-A-1993-1251
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+1
+Necesidad de la norma
+La configuración de la Comunidad Económica Europea como un mercado interior, establecida en el Acta Unica Europea, implica la libertad, entre otras, de la circulación de mercancías sin que se sometan a controles como consecuencia del cruce de las fronteras interiores, haciendo necesaria una profunda modificación de la imposición indirecta que venía respondiendo, en lo que a la circulación intracomunitaria se refiere, a un modelo basado precisamente en la realización de ajustes fiscales en las fronteras.
+Esta modificación afecta a los impuestos especiales de fabricación que constituyen, junto con el Impuesto sobre el Valor Añadido, las figuras básicas de la imposición indirecta y se configuran como impuestos sobre consumos específicos, gravando el consumo de unos determinados bienes, además de lo que lo hace el IVA en su condición de impuesto general. Este doble gravamen se justifica en razón a que el consumo de los bienes que son objeto de estos impuestos genera unos costes sociales, no tenidos en cuenta a la hora de fijar sus precios privados, que deben ser sufragados por los consumidores, mediante una imposición específica que grave selectivamente estos consumos, cumpliendo, además de su función recaudatoria, una finalidad extrafiscal como instrumento de las políticas sanitarias, energéticas, de transportes, de medio ambiente, etc.
+Esta adaptación de la imposición indirecta a la nueva configuración de la Comunidad como un espacio sin fronteras debe producirse de una forma armonizada para todos los Estados miembros, con el fin de que no se produzcan distorsiones a la competencia, se controlen sus efectos sobre otras políticas comunitarias y se haga posible que los impuestos se recauden por los Estados donde se produzca el consumo.
+Como consecuencia de todo lo anterior se ha aprobado un conjunto de Directivas que junto con las preexistentes 72/464/CEE y 79/32/CEE, debidamente modificadas,constituyen el marco definitivo de la imposición por Impuestos Especiales a nivel comunitario. En concreto, tales disposiciones son las siguientes:
+– Directiva 92/12/CEE del Consejo, de 25 de febrero de 1992, relativa al régimen general, tenencia, circulación y controles de los productos objeto de impuestos especiales.
+– Directiva 92/83/CEE del Consejo, de 19 de octubre de 1992, relativa a la armonización de las estructuras de los impuestos especiales sobre las bebidas alcohólicas y el alcohol.
+– Directiva 92/84/CEE del Consejo, de 19 de octubre de 1992, relativa a la aproximación de los tipos impositivos de los impuestos especiales sobre las bebidas alcohólicas y sobre el alcohol.
+– Directiva 92/81/CEE del Consejo, de 19 de octubre de 1992, relativa a la armonización de las estructuras del impuesto especial sobre los hidrocarburos.
+– Directiva 92/82/CEE del Consejo, de 19 de octubre de 1992, relativa a la aproximación de los tipos del impuesto especial sobre los hidrocarburos.
+– Directiva 72/464/CEE del Consejo, de 19 de diciembre de 1972, relativa a los impuestos distintos de los impuestos sobre el volumen de negocios que gravan el consumo de labores del tabaco.
+– Directiva 79/32/CEE del Consejo, de 18 de diciembre de 1978, relativa a los impuestos distintos de los impuestos sobre el volumen de negocios que gravan el consumo de labores del tabaco.
+– Directiva 92/78/CEE del Consejo, de 19 de octubre de 1992, que modifica las directivas 72/464/CEE y 79/32/CEE relativas a los impuestos distintos de los impuestos sobre el volumen de negocios que gravan el consumo de labores del tabaco.
+– Directiva 92/79/CEE del Consejo, de 19 de octubre de 1992, relativa a la aproximación de los tipos del impuesto especial sobre cigarrillos.
+– Directiva 92/80/CEE del Consejo, de 19 de octubre de 1992, relativa a la aproximación de los tipos del impuesto especial sobre las labores del tabaco distintas de los cigarrillos.
+Las profundas modificaciones que las mencionadas directivas implican respecto de la Ley 45/1985, de 23 de diciembre, hacen aconsejable promulgar una nueva ley reguladora de esta parte de la imposición indirecta que, adaptada a la nueva normativa comunitaria, respete en lo posible la estructura actual e introduzca todas las mejoras que la experiencia ha puesto de manifiesto, con el fin de que la gestión de estos impuestos produzca los menores costes indirectos posibles a los sectores afectados, al tiempo que asegure la eficacia de su gestión.
+2
+El ámbito de aplicación
+La presente Ley regula el conjunto de los impuestos especiales constituido, por un lado y de acuerdo con las disposiciones comunitarias armonizadoras, por los impuestos especiales de fabricación que gravan el consumo de los hidrocarburos, del alcohol y de las bebidas alcohólicas y de las labores del tabaco y, por otro, por un nuevo impuesto especial que se exigirá con ocasión de la matriculación de vehículos. Los citados impuestos especiales de fabricación deben establecerse obligatoriamente a nivel comunitario, sin que ello impida la introducción de otros gravámenes sobre determinadas prestaciones de servicios, siempre que no tengan el carácter de impuestos sobre el volumen de negocios y no den lugar, en el comercio intracomunitario, a formalidades relativas al cruce de fronteras. Al igual que en otros Estados miembros, se ha considerado adecuado establecer un impuesto sobre vehículos que, satisfaciendo las condiciones exigidas a nivel comunitario, compense la pérdida de recaudación que lleva consigo la desaparición del tipo impositivo incrementado en el Impuesto sobre el Valor Añadido y los costes sociales que su utilización comporta en materia de sanidad, circulación viaria, infraestructuras y medio ambiente.
+Por lo que se refiere al ámbito territorial de aplicación de la Ley, se ha mantenido el existente con anterioridad a su entrada en vigor para cada uno de los impuestos especiales. Con respecto a los impuestos especiales de fabricación, la exclusión del ámbito fiscal y aduanero comunitario de Ceuta y Melilla, así como la imposibilidad de mantener a las islas Canarias dentro de dicho ámbito, con tipos diferenciados respecto a los de la península e islas Baleares, no permiten la integración de las operaciones realizadas desde o con destino a estos territorios en el sistema de circulación intracomunitario, por lo que la aplicación de la Ley en Canarias, Ceuta y Melilla se realiza sin el carácter de norma armonizada a las directivas comunitarias, lo que a su vez exige una regulación especial de las operaciones realizadas entre estos territorios por un lado y la península e islas Baleares, o el resto de los Estados miembros, por otro.
+3
+Los impuestos especiales de fabricación
+Los impuestos especiales de fabricación se configuran como impuestos indirectos que recaen sobre el consumo de los bienes que se determinan en el ámbito objetivo de cada uno de ellos, gravando, en fase única, su fabricación o su importación en cualquier punto dentro del ámbito territorial comunitario. Para la concreción de este ámbito objetivo se utilizan las referencias a la nomenclatura combinada que, de acuerdo con la directiva marco, deben corresponder al texto de dicha nomenclatura en vigor el día 1 de enero de 1993.
+Los bienes pueden permanecer en régimen suspensivo mientras no salgan de la fábrica en que se han obtenido o del depósito fiscal en que se almacenan, así como durante el transporte entre fábricas y depósitos fiscales, aunque dicho transporte transcurra por Estados miembros distintos; la existencia de este régimen suspensivo evita la aparición de costes financieros como consecuencia del desfase temporal entre la realización del hecho imponible y el momento en que se produce la puesta a consumo. Igualmente se hace posible la circulación intracomunitaria en régimen suspensivo con destino a ciertos operadores con el fin de extender al máximo la libertad de adquisición en otros Estados comunitarios. Con el mismo fin, se permite la circulación intracomunitaria de productos objeto de los impuestos especiales de fabricación por los que ya se haya satisfecho el impuesto en un Estado miembro, gravándose en el Estado de destino y autorizándose la devolución en el de expedición. El devengo del impuesto se producirá al ultimarse el régimen suspensivo, dentro del ámbito territorial interno de aplicación, o con ocasión de la recepción de los productos con el impuesto pagado en otro Estado. La circulación y tenencia fuera de estos circuitos sin que se acredite haberse satisfecho los impuestos en España, a excepción de los productos que los particulares destinen para su consumo, constituirá infracción tributaria.
+La repercusión obligatoria del impuesto por parte de los sujetos pasivos produce el efecto deseado de que el gravamen sea realmente soportado por el consumidor. Con este fin, se dispone igualmente la devolución de los impuestos en determinados supuestos en que no se produce tal consumo, como ocurre con ocasión de la exportación o de la expedición de los productos a otro Estado miembro de la CEE, así como, para alguno de los impuestos, cuando los productos se devuelven a fábrica o depósito fiscal o se destruyen bajo control de la Administración tributaria. Con el fin de agilizar los procedimientos de devolución, se autoriza la práctica de liquidaciones provisionales, sin necesidad de esperar a que los hechos declarados por los solicitantes sean comprobados mediante actuaciones inspectoras.
+4
+La imposición sobre las bebidas alcohólicas
+Las directivas armonizadoras han obligado a introducir dos nuevos impuestos especiales: El Impuesto sobre el Vino y Bebidas Fermentadas y el Impuesto sobre Productos Intermedios. Por lo que se refiere al primero, se establece, sin embargo, un tipo impositivo cero sin hacer distinciones entre los vinos y las demás bebidas fermentadas ni, dentro de cada una de estas categorías, entre espumosas y tranquilas, con lo cual el establecimiento del tributo es meramente instrumental con objeto de posibilitar la utilización por los productores de vino y demás bebidas fermentadas del sistema intracomunitario de circulación.
+Los productos intermedios tributaban, antes de la entrada en vigor de esta Ley, por el alcohol añadido que contenían. Con el nuevo impuesto armonizado, la base estará constituida por el volumen de producto acabado, sin diferenciación en función de su contenido alcohólico, ni de la proporción que contienen de alcoholes obtenidos por destilación o por fermentación.
+En el Impuesto sobre la Cerveza se introduce un nuevo epígrafe, con un tipo sensiblemente reducido, que comprende la cerveza con un bajo contenido en alcohol.
+En relación con el Impuesto sobre el Alcohol y Bebidas Derivadas, su finalidad sigue siendo la de gravar el alcohol que se consume en forma de bebidas derivadas, por lo que el impuesto se estructura en forma tal que el alcohol que se destina a otros fines pueda beneficiarse, siempre que se cumplan los requisitos necesarios para asegurar el control, de la exención o devolución del impuesto, bien en razón del destino concreto que se va a dar al alcohol, o bien mediante la previa desnaturalización del mismo que, si bien lo hace impropio para su uso en bebidas, no afecta a su utilización en otros fines.
+El texto legal incorpora las exenciones correspondientes a las bebidas alcohólicas importadas por los viajeros procedentes de países terceros, así como de las que son objeto de pequeños envíos sin carácter comercial, tal como se aprobaron a nivel comunitario mediante las Directivas del Consejo 69/169/CEE, de 28 de mayo de 1969, y 78/1035/CEE, de 19 de diciembre de 1978.
+5
+El Impuesto sobre Hidrocarburos
+La adaptación del Impuesto sobre Hidrocarburos a las directivas comunitarias armonizadoras ha obligado a ampliar de forma importante el ámbito objetivo del impuesto, pero ello no implica que, en un orden práctico, vayan a gravarse consumos de productos que hoy no lo están; la estructuración jurídica del impuesto permite la desgravación, bien por exención o mediante devolución, de los productos que no se utilicen como carburante o combustible. Por otra parte, el número de beneficios fiscales se ha ampliado en forma notable con respecto a los reconocidos en la anterior Ley, como ocurre, por ejemplo, con los productos utilizados como lubricantes, el avituallamiento de los buques que realizan navegación de cabotaje, los combustibles empleados en la generación de electricidad o en la tracción de ferrocarriles, etc.
+6
+El Impuesto sobre las Labores del Tabaco
+El texto del Impuesto sobre las Labores del Tabaco presenta pocas modificaciones con respecto al contenido en la Ley que se deroga. Se ha reducido el número de labores objeto del impuesto al extraer de su ámbito el rapé y el tabaco para mascar y, por lo que se refiere al tabaco para fumar, se somete a un tipo diferenciado la picadura para liar. La tributación de los cigarrillos se irá ajustando al porcentaje mínimo establecido a nivel comunitario, en un período de dos años a partir de la entrada en vigor de esta Ley y los cigarros y cigarritos constituidos exclusivamente por tabaco natural disfrutarán de un tipo reducido durante un período de seis años.
+Por otra parte, se han establecido nuevos supuestos de exención y devolución del impuesto, como los relativos a la desnaturalización o a la destrucción de las labores bajo control de la Administración tributaria y se han incorporado al texto las franquicias fiscales aprobadas por las Directivas del Consejo 69/169/CEE y 78/1035/CEE, en relación con las labores del tabaco importadas por los viajeros procedentes de países terceros y los pequeños envíos sin carácter comercial.
+7
+Impuesto Especial sobre Determinados Medios de Transporte
+La creación de este impuesto deriva, inicialmente, de la propia armonización del Impuesto sobre el Valor Añadido que impone la supresión de los tipos incrementados hasta ahora existentes. La sujeción de determinados vehículos y medios de transporte a dicho tipo incrementado, no respondía exclusivamente al gravamen de la capacidad contributiva puesta de manifiesto en su adquisición, sino a la consideración adicional de las implicaciones de su uso en la producción de costes sociales específicos en el ámbito de la sanidad, las infraestructuras o el medio ambiente. De aquí la necesidad de articular un conjunto de figuras tributarias, dentro de las especificaciones comunitarias, para mantener la presión fiscal sobre estos medios de transporte en términos equivalentes a los actuales.
+Surge así el Impuesto Especial sobre Determinados Medios de Transporte, cuya característica esencial es la simplicidad de gestión, al estar ligada su autoliquidación con la primera matriculación de los medios de transporte en España, sean fabricados o importados, nuevos o usados y la determinación de su base imponible con las técnicas de valoración del Impuesto sobre el Valor Añadido y de los impuestos sobre transmisiones patrimoniales, «inter vivos» y «mortis causa».
+La principal diferencia con la situación actual, a la hora de configurar la estructura del impuesto, radica en la consideración de las situaciones empresariales en que anteriormente era posible deducir el Impuesto sobre el Valor Añadido y, en otro sentido, en la supresión del beneficio de que gozaban los vehículos tipo «jeep», como consecuencia de la radical alteración experimentada en su uso, claramente decantado hacia el de vehículos de turismo con afectación intensa del medio ambiente, si bien se prevé un período transitorio para permitir la progresiva adaptación a la nueva situación que la Ley establece.
+El impuesto será de aplicación en toda España, aunque para facilitar los ajustes necesarios en las figuras tributarias específicas existentes en Canarias, Ceuta y Melilla, se atribuya a dicha Comunidad Autónoma y ciudades el rendimiento derivado de este impuesto en su ámbito territorial.
+8
+Disposiciones transitorias
+La disposición transitoria primera incorpora al texto la excepción admitida a nivel comunitario con respecto a la exención que se concede, hasta el 30 de junio de 1999, a las adquisiciones efectuadas en las tiendas libres de impuestos, con ocasión de viajes intracomunitarios.
+La disposición transitoria segunda viene a hacer posible la vinculación al régimen suspensivo de los productos que son objeto de los impuestos especiales según lo establecido en esta Ley, aunque se hubiesen fabricado o importado con anterioridad a la entrada en vigor de la misma.
+Las disposiciones transitorias tercera y cuarta se refieren a determinadas cuestiones que pueden presentarse en cualquiera de los impuestos especiales, en relación con la aplicación de los supuestos de exención y devolución. Por lo que se refiere a los productos adquiridos sin pago del impuesto o con derecho a la devolución, según la normativa que se deroga, podrán consumirse con o sin liquidación del impuesto, según que el destino a dar a los productos haya dejado de ser o continúe siendo motivo de la aplicación de la exención o devolución, o puedan detentarse en régimen suspensivo de conformidad con la presente Ley.
+Con el fin de hacer posible la aplicación inmediata de las exenciones establecidas en la Ley, se establece un procedimiento simplificado válido durante los seis primeros meses de su vigencia, que incluye la utilización de las autorizaciones concedidas de acuerdo con la Ley anterior, cuando se trate de supuestos que también entonces originaban el derecho a la recepción sin pago del impuesto.
+Las disposiciones en relación con el Impuesto sobre el Alcohol y Bebidas Derivadas contenidas en la disposición transitoria quinta, atienden a las consecuencias que entraña el paso de una única categoría de alcohol desnaturalizado en la normativa anterior a la distinción que realiza la presente Ley entre alcohol total o parcialmente desnaturalizado, así como a la inclusión de tales alcoholes en el ámbito objetivo del impuesto, convirtiendo las operaciones que antes se consideraban como no sujetas en exentas.
+Por lo que se refiere al Impuesto sobre Hidrocarburos, la disposición transitoria sexta contempla la problemática que representa la desaparición de los gasóleos B y C como categorías fiscales y su sustitución por la aplicación de un tipo reducido al gasoleo que, incorporando los reglamentarios trazadores y marcadores, se utilice en los fines que se determinan. Por otra parte, se establece un procedimiento simplificado para la aplicación de los beneficios de exención y devolución a los avituallamientos de buques y aeronaves reconocido en la Ley y se retrasa, hasta el 1 de julio de 1993, la obligación de añadir trazadores y marcadores a determinados productos, como requisito necesario para la aplicación de los tipos reducidos establecidos en razón de su destino.
+La disposición transitoria séptima, relativa al Impuesto Especial sobre Determinados Medios de Transporte, establece las normas necesarias para el ajuste de este nuevo impuesto con el Impuesto sobre el Valor Añadido, valida las homologaciones que para determinados vehículos hubieran tenido lugar antes del 1 de enero de 1993, y fija un período transitorio para la aplicación paulatina del impuesto de los vehículos tipo «jeep».
+9
+Disposiciones derogatorias y finales
+Además de establecer la cláusula derogatoria general, se deroga expresamente la Ley 45/1985, de 23 de diciembre. Para facilitar la entrada en vigor de la nueva Ley se mantiene la vigencia de las normas reglamentarias hoy existentes, en tanto no sean contrarias a aquélla o a las normas de la Comunidad Económica Europea, hasta que se produzca su sustitución.
+La entrada en vigor de la Ley se fija para el 1 de enero de 1993, tal como establecen las directivas comunitarias armonizadoras.
+Finalmente, se encomienda a las sucesivas leyes de presupuestos la misión de mantener ajustado el texto de la Ley a las directivas comunitarias que componen el marco armonizador y, en concreto, la correspondencia entre las magnitudes monetarias expresadas en pesetas y en Ecus, como consecuencia de las variaciones del tipo de cambio y la adecuación de las referencias a la nomenclatura combinada, garantizando la perfecta correlación con los códigos que figuran en las directivas armonizadoras referidos a la versión de dicha nomenclatura en la fecha del 1 de enero de 1993; por otra parte, se establece que las leyes de presupuestos puedan, igualmente, modificar la estructura de las tarifas, los tipos impositivos, los supuestos de no sujeción y de exención y la cuantía de las sanciones. Con todo ello se cumple la condición exigida en el apartado 7 del artículo 134 de la Constitución.
+Se incluyen, por último, en el texto legal, través de la disposición adicional segunda y de la disposición derogatoria segunda, las previsiones normativas que permitan dar respuesta a las necesidades derivadas de la operativa de los procesos de enajenación de acciones representativas de la participación de las Administraciones y entes públicos en el capital social de sociedades mercantiles.
+Redactados los apartados 1, 2 y 9 conforme a la corrección de errores publicada en BOE núm.16, de 19 de enero de 1993. Ref. BOE-A-1993-1251
+
+## Título preliminar
+
+TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1. Naturaleza de los impuestos especiales.
+1. Los impuestos especiales son tributos de naturaleza indirecta que recaen sobre consumos específicos y gravan, en fase única, la fabricación, incluida la fabricación irregular, la importación, la entrada irregular y, en su caso, la introducción, en el ámbito territorial interno de determinados bienes, así como la matriculación de determinados medios de transporte, el suministro de energía eléctrica y la puesta a consumo de carbón, de acuerdo con las normas de esta Ley.
+2. Tienen la consideración de impuestos especiales los Impuestos Especiales de Fabricación, el Impuesto Especial sobre la Electricidad, el Impuesto Especial sobre Determinados Medios de Transporte y el Impuesto Especial sobre el Carbón.
+Se modifica el apartado 1 por el art. 40.1 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se modifica por el art. 3.1 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica por el art. 2.1 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+## Título I
+
+TÍTULO I
+Impuestos especiales de fabricación
+
+## Capítulo I
+
+CAPÍTULO I
+Disposiciones comunes
+
+### Artículo 2
+
+Artículo 2. Los impuestos especiales de fabricación.
+Tienen la consideración de impuestos especiales de fabricación:
+1. Los siguientes impuestos especiales sobre el alcohol y las bebidas alcohólicas:
+a) El Impuesto sobre la Cerveza.
+b) El Impuesto sobre el Vino y Bebidas Fermentadas.
+c) El Impuesto sobre Productos Intermedios.
+d) El Impuesto sobre el Alcohol y Bebidas Derivadas.
+2. El Impuesto sobre Hidrocarburos
+3. El Impuesto sobre las Labores del Tabaco.
+4. El Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco.
+Téngase en cuenta que el apartado 4, añadido por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que esta adición del apartado 4, efectuada por la disposición final 2.1 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se añade, con efectos desde el 1 de enero de 2025, el apartado 4, por la disposición final 2.1 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se deroga el apartado 4 por el art. 3.2 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica por el art. 7.1 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Artículo 3
+
+Artículo 3. Ambito territorial interno.
+1. Los impuestos especiales de fabricación se exigirán en todo el territorio español, a excepción de las islas Canarias, Ceuta y Melilla. No obstante, en las condiciones establecidas en la presente Ley, los Impuestos sobre la Cerveza, sobre Productos Intermedios y sobre el Alcohol y Bebidas Derivadas serán exigibles en las islas Canarias.
+2. Lo dispuesto en el apartado anterior se entenderá sin perjuicio de lo establecido en Convenios y Tratados Internacionales y de los regímenes tributarios especiales por razón del territorio.
+Se modifica el apartado 1 por el art. 3.3 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica el apartado 1 por el art. 7.2 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Se modifica el apartado 1 por el art. 68.4.a) de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29177
+
+### Artículo 4
+
+Artículo 4. Conceptos y definiciones.
+A efectos de este título, se entenderá por:
+1. "Ámbito territorial interno": El territorio en el que se exigirán los impuestos especiales de fabricación conforme a lo dispuesto en el artículo 3 de esta Ley.
+2. "Ámbito territorial de la Unión no interno": El territorio de la Unión excluido el ámbito territorial interno.
+3. "Autoconsumo": El consumo o utilización de los productos objeto de los impuestos especiales de fabricación efectuado en el interior de los establecimientos donde permanecen dichos productos en régimen suspensivo.
+4. "Aviación privada de recreo": La realizada mediante la utilización de una aeronave, que no sea de titularidad pública, por su propietario o por la persona que pueda utilizarla, mediante arrendamiento o por cualquier otro título, para fines no comerciales y, en particular, para fines distintos del transporte de pasajeros o mercancías o de la prestación de servicios a título oneroso.
+5. "Código Administrativo de Referencia": Número de referencia asignado por las autoridades competentes del Estado miembro de expedición al documento administrativo electrónico, una vez que los datos del borrador han sido validados. Las referencias a este código se harán mediante las siglas «ARC».
+6. "Códigos NC": Los códigos de la nomenclatura combinada establecida por el Reglamento (CEE) n.° 2658/87, de 23 de julio de 1987. Para la determinación del ámbito objetivo de aplicación de los impuestos especiales de fabricación, serán de aplicación, con carácter general, los criterios establecidos para la clasificación de mercancías en la nomenclatura combinada y, en particular, las reglas generales para la interpretación de la nomenclatura combinada, las notas de sección y de capítulo de dicha nomenclatura, las notas explicativas del sistema armonizado de designación y codificación de mercancías del Consejo de Cooperación Aduanera, los criterios de clasificación adoptados por dicho Consejo, y las notas explicativas de la nomenclatura combinada de la Unión Europea.
+No obstante, los códigos NC a que se hace referencia en los impuestos especiales sobre el alcohol y las bebidas alcohólicas se entenderán referidos a los códigos de la nomenclatura combinada contenida en el Reglamento de Ejecución (UE) 2018/1602 de la Comisión, por el que se modifica el anexo I del Reglamento (CEE) n.° 2658/87 del Consejo relativo a la nomenclatura arancelaria y estadística y al arancel aduanero común. Los códigos NC a que hace referencia el Impuesto sobre Hidrocarburos son los del Reglamento (CE) n.° 2031/2001 de la Comisión, de 6 de agosto de 2001, por el que se modifica el anexo I del Reglamento (CEE) n.° 2658/87 del Consejo relativo a la nomenclatura arancelaria y estadística y al arancel aduanero común.
+7. "Depositario autorizado": La persona o entidad a la que se refiere el apartado 4 del artículo 35 de la Ley 58/2003, de 17 de diciembre, General Tributaria, titular de una fábrica o de un depósito fiscal.
+8. "Depósito de recepción": El establecimiento del que es titular un destinatario registrado que no sea ocasional donde, en el ejercicio de su profesión y en virtud de la autorización concedida por las autoridades competentes del Estado miembro de destino, pueden recibirse productos objeto de los impuestos especiales que circulen en régimen suspensivo procedentes del territorio de otro Estado miembro.
+9. "Depósito fiscal": El establecimiento o la red de oleoductos o gaseoductos donde, en virtud de la autorización concedida y con cumplimiento de las condiciones y requisitos que se establezcan reglamentariamente, se almacenen, reciban, expidan y, en su caso, se transformen productos objeto de los impuestos especiales de fabricación en régimen suspensivo.
+10. "Destinatario certificado": Cualquier persona o entidad a la que se refiere el apartado 4 del artículo 35 de la Ley 58/2003, de 17 de diciembre, General Tributaria, registrada ante las autoridades competentes del Estado miembro de destino con el fin de recibir productos sujetos a impuestos especiales que, en el ejercicio de la profesión de dicha persona, hayan sido despachados a consumo en el territorio de un Estado miembro y posteriormente trasladados al territorio de otro Estado miembro.
+11. "Destinatario registrado": Cualquier persona o entidad a la que se refiere el apartado 4 del artículo 35 de la Ley 58/2003, de 17 de diciembre, General Tributaria, autorizada en el ejercicio de su profesión y en las condiciones que se establezcan reglamentariamente, a recibir, en un depósito de recepción del que será titular, productos sujetos a impuestos especiales que circulen en régimen suspensivo procedentes del territorio de otro Estado miembro. El destinatario registrado podrá ser autorizado, con cumplimiento de las condiciones y requisitos que se establezcan reglamentariamente, a recibir solo a título ocasional, en régimen suspensivo, una determinada expedición de productos objeto de los impuestos especiales de fabricación procedentes del territorio de otro Estado miembro. En este último caso, no será necesariamente titular de un depósito de recepción.
+12. "Entrega directa": La circulación de productos objeto de los impuestos especiales en régimen suspensivo hasta un lugar de entrega directa autorizado por las autoridades competentes del Estado miembro de destino, en las condiciones que reglamentariamente se establezcan, si dicho lugar ha sido designado por el depositario autorizado en ese Estado miembro o por el destinatario registrado.
+13. "Entrada irregular": La entrada en el territorio de la Unión de productos que no estén incluidos en el régimen de despacho a libre práctica con arreglo al artículo 201 del Reglamento (UE) n.° 952/2013 y con respecto a los que se haya contraído una deuda aduanera en virtud del artículo 79, apartado 1, de dicho Reglamento, o una deuda que se habría contraído si los bienes hubieran estado sometidos a derechos de aduana.
+14. "Envíos garantizados": El procedimiento de circulación intracomunitaria de productos objeto de los impuestos especiales de fabricación, por los que ya se ha devengado el impuesto en el territorio del Estado miembro de origen, con destino a un destinatario certificado en el Estado miembro de destino, con las restricciones que se establecen en el artículo 63 de esta Ley en cuanto a recepciones en el ámbito territorial interno, siempre que tales productos no sean expedidos o transportados, directa o indirectamente, por el expedidor o a cargo del mismo y que se cumplan las condiciones y requisitos que se establezcan reglamentariamente.
+15. "Expedidor certificado": Cualquier persona o entidad a la que se refiere el apartado 4 del artículo 35 de la Ley 58/2003, de 17 de diciembre, General Tributaria, registrada ante las autoridades competentes del Estado miembro de expedición con el fin de enviar productos sujetos a impuestos especiales que en el ejercicio de la profesión de dicha persona hayan sido despachados a consumo en el territorio de un Estado miembro y posteriormente trasladados al territorio de otro Estado miembro.
+16. "Expedidor registrado": Cualquier persona o entidad a la que se refiere el apartado 4 del artículo 35 de la Ley 58/2003, de 17 de diciembre, General Tributaria, autorizada por las autoridades competentes del Estado miembro de importación a expedir, en el ejercicio de su profesión y en las condiciones que fijen dichas autoridades, productos objeto de los impuestos especiales en régimen suspensivo solo desde el lugar de su importación en el momento de su despacho de aduana de conformidad con el artículo 201 del Reglamento (UE) n.º 952/2013.
+17. "Exportación": La salida del ámbito territorial interno de productos objeto de los impuestos especiales de fabricación con destino fuera del territorio de la Unión. No obstante, no se considerará exportación la salida del territorio de la Unión de los carburantes contenidos en los depósitos normales de vehículos y contenedores especiales y utilizados en el funcionamiento de los mismos con ocasión de su circulación de salida del referido ámbito.
+18. "Fábrica": El establecimiento donde, en virtud de la autorización concedida, con las condiciones y requisitos que se establezcan reglamentariamente, pueden extraerse, fabricarse, transformarse, almacenarse, recibirse y expedirse, en régimen suspensivo, productos objeto de los impuestos especiales de fabricación.
+19. "Fabricación": La extracción de productos objeto de los impuestos especiales de fabricación y cualquier otro proceso por el que se obtengan dichos productos a partir de otros, incluida la transformación, tal como se define en el apartado 34 de este artículo, todo ello sin perjuicio de lo establecido en el apartado 3 del artículo 15 de esta Ley.
+Tendrá la consideración de fabricación irregular la realizada sin cumplir las condiciones establecidas en esta Ley y en su normativa de desarrollo.
+20. "Importación": El despacho a libre práctica de conformidad con el artículo 201 del Reglamento (UE) n.° 952/2013.
+21. "Navegación marítima o aérea internacional": La realizada partiendo del ámbito territorial interno y que concluya fuera del mismo o viceversa. Asimismo, se considera navegación marítima internacional la realizada por buques afectos a la navegación en alta mar que se dediquen al ejercicio de una actividad industrial, comercial o pesquera, distinta del transporte, siempre que la duración de la navegación, sin escala, exceda de cuarenta y ocho horas.
+22. "Navegación privada de recreo": La realizada mediante la utilización de una embarcación, que no sea de titularidad pública, por su propietario o por la persona que pueda utilizarla, mediante arrendamiento o por cualquier otro título, para fines no comerciales y, en particular, para fines distintos del transporte de pasajeros o mercancías o de la prestación de servicios a título oneroso.
+23. "Productos de avituallamiento": Las provisiones de a bordo, los combustibles, carburantes, lubricantes y demás aceites de uso técnico.
+24. "Productos objeto de los impuestos especiales de fabricación": Los productos incluidos en el ámbito objetivo de cada uno de dichos impuestos.
+25. "Provisiones de a bordo": Los productos destinados exclusivamente al consumo de la tripulación y los pasajeros.
+26. "Régimen suspensivo": El régimen fiscal, consistente en la suspensión de impuestos especiales, aplicable a la fabricación, transformación, tenencia, almacenamiento o circulación de productos objeto de los impuestos especiales.
+27. "Representante fiscal": La persona o entidad designada por un expedidor dentro del sistema de ventas a distancia, establecido en el territorio de otro Estado miembro de la Unión y autorizada por la Administración Tributaria española, previo cumplimiento de los requisitos que se establezcan reglamentariamente, para garantizar el pago, así como para efectuarlo posteriormente, en lugar del expedidor, de los impuestos especiales de fabricación correspondientes a los productos expedidos por el expedidor que representa.
+28. "Terceros países": Todo Estado o territorio al que no se le apliquen los Tratados.
+29. "Terceros territorios":
+a) Los siguientes territorios comprendidos en el territorio aduanero de la Unión:
+1.° En el Reino de España: Islas Canarias.
+2.° Los territorios franceses a que se refieren los artículos 349 y 355, apartado 1, del Tratado de Funcionamiento de la Unión Europea.
+3.° En la República de Finlandia: Islas Aland.
+b) Los siguientes territorios no comprendidos en el territorio aduanero de la Unión:
+1.° En la República Federal de Alemania: Isla de Heligoland y el territorio de Büsingen.
+2.° En el Reino de España: Ceuta y Melilla.
+3.° En la República Italiana: Livigno.
+c) Los territorios comprendidos en el ámbito de aplicación del artículo 355, apartado 3, del Tratado de Funcionamiento de la Unión Europea.
+30. "Territorio de un Estado miembro": El territorio de uno de los Estados miembros a los que son aplicables los Tratados, conforme a lo previsto en los artículos 349 y 355 del Tratado de Funcionamiento de la Unión Europea, salvedad hecha de terceros territorios.
+31. "Territorio de la Unión": Los territorios de los Estados miembros.
+32. “Tiendas libres de impuestos”: Establecimientos situados en el recinto de un aeropuerto o de un puerto, en la zona bajo control aduanero destinada al embarque, tránsito o llegada del viajero una vez superado el control de seguridad y/o el control de pasaporte para su acceso, ubicados en el territorio español peninsular o en las Islas Baleares que, cumpliendo los requisitos establecidos reglamentariamente, efectúen entregas de bebidas alcohólicas o de labores del tabaco o de líquidos para cigarrillos electrónicos, o de las bolsas de nicotina, o de otros productos de nicotina, libres de impuestos, a viajeros que los transporten como equipaje personal, en un vuelo o travesía marítima, con destino a un tercer país o a un territorio tercero.
+Los establecimientos a que se refiere el párrafo anterior no podrán efectuar entregas de cerveza, productos intermedios y bebidas derivadas, libres de impuestos, a viajeros que las transporten como equipaje personal con destino a las Islas Canarias.
+También se consideran tiendas libres de impuestos los establecimientos situados en el recinto de un aeropuerto o de un puerto de las Islas Canarias que, cumpliendo los requisitos establecidos reglamentariamente, efectúen entregas de cerveza, productos intermedios y bebidas derivadas a viajeros que las transporten como equipaje personal, en un vuelo o en una travesía marítima, con destino fuera del ámbito territorial interno.
+Se asimilarán a entregas de productos efectuadas por tiendas libres de impuestos las efectuadas a bordo de una aeronave o de un buque durante un vuelo o una travesía marítima de las señaladas en los párrafos anteriores.
+33. "Transformación": Cualquier proceso de fabricación por el que se obtengan productos objeto de los impuestos especiales de fabricación a partir, total o parcialmente, de otros productos que también lo son y en el que concurra alguna de las siguientes circunstancias:
+a) El producto de partida y el producto obtenido se incluyen en ámbitos objetivos de impuestos especiales de fabricación diferentes.
+b) El producto de partida y el producto obtenido se incluyen en el ámbito objetivo del mismo impuesto especial de fabricación, pero el epígrafe o tipo impositivo aplicable es diferente.
+c) El producto de partida y el producto obtenido se incluyen en el ámbito objetivo del mismo impuesto especial de fabricación y en el mismo epígrafe o tipo impositivo aplicable, pero, como resultado del proceso, la cantidad de producto obtenido es mayor que la cantidad empleada de producto de partida.
+d) Se trate de una operación de desnaturalización o de adición de trazadores o marcadores.
+34. "Ventas a distancia": Sistema de circulación intracomunitaria de productos objeto de impuestos especiales de fabricación por los que ya se ha devengado el impuesto en el territorio de un Estado miembro de origen, que sean adquiridos por una persona distinta de un depositario autorizado, un destinatario registrado o un destinatario certificado establecida en otro Estado miembro, y que no ejerza actividades económicas independientes en relación con dichos productos, con las restricciones que se establecen en el artículo 63 de esta Ley, siempre que tales productos sean expedidos o transportados, directa o indirectamente, por un expedidor que ejerza una actividad económica independiente o por cuenta de este, y que se cumplan las condiciones y requisitos que se establezcan reglamentariamente.
+Téngase en cuenta que la actualización del apartado 32, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que esta modificación del apartado 32, efectuada por la disposición final 2.2 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica, con efectos desde el 1 de enero de 2025, el apartado 32, por la disposición final 2.2 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se modifica por el art. 40.2 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se modifica el apartado 10 por el art. 10.1 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad
+ Se modifican los apartados 7 y 30 por el art. 215 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-27
+ Se modifica por el art. 3.1 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Redactados los apartados 11, 15 y 25 conforme a la corrección de errores publicada en BOE núm. 128, de 26 de mayo de 2010.Ref. BOE-A-2010-8384
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+ Se modifican los apartados 7 y 8 por el art. 6.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se modifican los apartados 7 y 21 por el art. único .1 y 2 de la Ley 40/1995, de 19 de diciembre. Ref. BOE-A-1995-27373
+
+### Artículo 5
+
+Artículo 5. Hecho imponible.
+1. Están sujetas a los impuestos especiales de fabricación, la fabricación, la importación o la entrada irregular de los productos objeto de dichos impuestos dentro del territorio de la Unión.
+2. Lo dispuesto en el apartado anterior será de aplicación respecto de los productos que se encuentran en el ámbito territorial interno de cada uno de los impuestos.
+3. Lo establecido en los apartados anteriores se entiende sin perjuicio de lo dispuesto en los artículos 23, 40 y 64 bis de esta ley.
+Téngase en cuenta que la actualización del apartado 3, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que esta modificación del apartado 3, efectuada por la disposición final 2.3 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica, con efectos desde el 1 de enero de 2025, el apartado 3, por la disposición final 2.3 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se modifica el apartado 1 por el art. 40.3 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se modifica por el art. 3.2 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+
+### Artículo 6
+
+Artículo 6. Supuestos de no sujeción.
+No están sujetas en concepto de fabricación o importación:
+1. Las pérdidas parciales debidas a la naturaleza de los productos objeto de los impuestos especiales de fabricación, acaecidas en régimen suspensivo durante los procesos de fabricación, transformación, tenencia, almacenamiento y transporte, siempre que, de acuerdo con las normas que reglamentariamente se establezcan, no excedan de los porcentajes fijados y se cumplan las condiciones establecidas al efecto.
+No obstante, no serán de aplicación los porcentajes reglamentarios a las pérdidas parciales debidas a la naturaleza de los productos objeto de los impuestos especiales de fabricación, acaecidas en régimen suspensivo durante una circulación intracomunitaria, cuando las autoridades competentes prueben la existencia de fraude o irregularidad.
+Se entiende por irregularidad toda situación que se produzca durante la circulación de productos sujetos a impuestos especiales en régimen suspensivo, excepto las mencionadas en este apartado y en el siguiente, debido a la cual una circulación, o parte de esta, de productos sujetos a impuestos especiales, no haya finalizado conforme a lo previsto reglamentariamente.
+2. La destrucción total o la pérdida irremediable, total o parcial, de productos objeto de los impuestos especiales de fabricación, acaecidas en régimen suspensivo, por caso fortuito o de fuerza mayor, cuando no excedan de los porcentajes que se fijen reglamentariamente o, cuando excediendo de los mismos, se haya probado su existencia ante la Administración tributaria, por cualquiera de los medios de prueba admisibles en derecho.
+3. La destrucción total o pérdida irremediable, total o parcial, de los productos objeto de los impuestos especiales de fabricación como consecuencia de la autorización de las autoridades competentes del Estado miembro en el que dicha destrucción o pérdida se haya producido, siempre que los productos se encuentren en régimen suspensivo. Se considerará que los productos han sido destruidos totalmente o han sufrido una pérdida irremediable cuando no puedan utilizarse como productos sujetos a impuestos especiales y se demuestre a satisfacción de las autoridades competentes del Estado miembro en que se hayan producido o detectado.
+Se modifica por el art. 40.4 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se añade el apartado 3 por el art. 3.3 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+
+### Artículo 7
+
+Artículo 7. Devengo.
+1. Sin perjuicio de lo establecido en los artículos 23, 28, 37, 40 y 64 quater de esta ley, el Impuesto se devengará:
+a) En los supuestos de fabricación, en el momento de la salida de los productos objeto de los impuestos especiales de fabricación de la fábrica o depósito fiscal o en el momento de su autoconsumo.
+No obstante, se efectuará en régimen suspensivo la salida de los citados productos de fábrica o depósito fiscal cuando se destinen:
+1.° Directamente a otras fábricas, depósitos fiscales, a una entrega directa, a un destinatario registrado o a la exportación.
+2.° A la fabricación de productos que no sean objeto de los impuestos especiales de fabricación con destino a la exportación, siempre que se cumplan las condiciones que reglamentariamente se establezcan.
+3.° A uno de los destinatarios a los que se refiere el artículo 16.1, letra a), apartado iv), de la Directiva (UE) 2020/262 del Consejo, de 19 de diciembre de 2019, por la que se establece el régimen general de los impuestos especiales.
+4.° A la aduana de salida, cuando se prevea con arreglo al artículo 329, apartado 5, del Reglamento de Ejecución (UE) n.° 2015/2447, que sea al mismo tiempo la aduana de partida para el régimen de tránsito externo cuando así se prevea en virtud del artículo 189, apartado 4, del Reglamento Delegado (UE) n.° 2015/2446. En este supuesto el régimen suspensivo finalizará cuando los productos sean incluidos en el régimen de tránsito externo.
+b) En los supuestos de importación, en el momento de su despacho de aduana de conformidad con el artículo 201 del Reglamento (UE) n.° 952/2013. No obstante, cuando los productos importados se destinen directamente a su introducción en una fábrica o un depósito fiscal, a una entrega directa, cuando circulen con destino a un destinatario registrado, a un lugar donde se produzca la salida del territorio de la Unión de los productos sujetos a impuestos especiales o a uno de los destinatarios, situados en el ámbito territorial de la Unión no interno, a los que se refiere el artículo 16.1, letra a), apartado iv), de la Directiva (UE) 2020/262 del Consejo, de 19 de diciembre de 2019, o a la aduana de salida, cuando se prevea con arreglo al artículo 329, apartado 5, del Reglamento de Ejecución (UE) n.° 2015/2447, que sea al mismo tiempo la aduana de partida para el régimen de tránsito externo cuando así se prevea en virtud del artículo 189, apartado 4, del Reglamento Delegado (UE) n.° 2015/2446, la importación se efectuará en régimen suspensivo.
+c) En los supuestos de expediciones con destino a un destinatario registrado, en el momento de la recepción por este de los productos en el lugar de destino.
+d) En los supuestos de entregas directas, el devengo se producirá en el momento de la recepción de los productos sujetos en el lugar de su entrega directa.
+e) En el momento de producirse las pérdidas distintas de las que originan la no sujeción al impuesto o, en caso de no conocerse este momento, en el de la comprobación de tales pérdidas, en los supuestos de tenencia, almacenamiento o circulación en régimen suspensivo de los productos objeto de los impuestos especiales de fabricación.
+f) En los supuestos de ventas a distancia, en el momento de la entrega de los productos al destinatario.
+g) En los supuestos de expediciones con destino a un destinatario certificado, en el momento de la recepción por este de los productos en el lugar de destino.
+h) En el supuesto de irregularidades en la circulación en régimen suspensivo, en la fecha de inicio de la circulación, salvo que se pruebe cuándo fue cometida, en cuyo caso este será el momento del devengo.
+i) En el supuesto de irregularidades en la circulación intracomunitaria de productos sujetos a impuestos especiales de fabricación con el impuesto devengado en otro Estado miembro, en el momento de su comisión y, de no conocerse, en el momento de su descubrimiento.
+j) En el supuesto de no justificación del destino o uso indebido en la circulación de productos objeto de los impuestos especiales de fabricación que se han beneficiado de una exención o de la aplicación de un tipo reducido en razón de su destino, en el momento de su entrega al destinatario facultado para recibirlos, salvo prueba fehaciente de la fecha en la que se ha procedido a su uso indebido, en cuyo caso este será el momento del devengo. Cuando la entrega de estos productos fuese a un destinatario no facultado para recibirlos, en el momento de inicio de la circulación.
+k) En los supuestos a los que se refiere la letra h) del apartado 2 del artículo 8 de esta Ley, en el momento del devengo que corresponda de acuerdo con los apartados anteriores; en caso de no conocerse ese momento, en la fecha de adquisición o inicio de la posesión de los productos por el obligado y, en su defecto, el momento de su descubrimiento.
+l) En los supuestos de entrada irregular en el territorio de la Unión, en el momento del nacimiento de la deuda aduanera, a menos que la deuda aduanera se extinga en virtud del artículo 124, apartado 1, letras e), f), g) o k), del Reglamento (UE) n.° 952/2013.
+m) En los supuestos de expediciones desde el territorio de otro Estado miembro con destino a los destinatarios a los que se refiere el artículo 16.1, letra a), apartado iv), de la Directiva 2020/262 del Consejo, de 19 de diciembre de 2019, en el momento de su recepción.
+n) En los supuestos de fabricación irregular, en el momento en el que se tenga constancia de la obtención de los productos objeto de los impuestos especiales de fabricación.
+2. No obstante lo establecido en la letra a) del apartado 1 de este artículo, cuando los productos salidos de fábrica o depósito fiscal, fuera del régimen suspensivo, no hayan podido ser entregados al destinatario, total o parcialmente, por causas ajenas al depositario autorizado expedidor, los productos podrán volver a introducirse en los establecimientos de salida, siempre que se cumplan las condiciones que se establezcan reglamentariamente, considerándose que no se produjo el devengo del impuesto con ocasión de la salida.
+3. No obstante lo establecido en los apartados anteriores de este artículo, cuando la salida del gas natural de las instalaciones consideradas fábricas o depósitos fiscales se produzca en el marco de un contrato de suministro de gas natural efectuado a título oneroso, el devengo del Impuesto sobre Hidrocarburos se producirá en el momento en que resulte exigible la parte del precio correspondiente al gas natural suministrado en cada período de facturación. Lo anterior no será de aplicación cuando el gas natural sea enviado a otra fábrica, depósito fiscal o destinatario registrado, ni cuando el suministro se realice por medios diferentes a tuberías fijas.
+Para la aplicación de lo previsto en la letra a) del apartado 1 de este artículo, en relación con los suministros de gas natural distintos de aquellos a los que se refiere el párrafo anterior, los sujetos pasivos podrán considerar que el conjunto del gas natural suministrado durante períodos de hasta sesenta días consecutivos ha salido de fábrica o depósito fiscal el primer día del mes natural siguiente a la conclusión del referido período.
+Téngase en cuenta que la actualización del primer párrafo del apartado 1, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que esta modificación del primer párrafo del apartado 1, efectuada por la disposición final 2.4 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica, con efectos desde el 1 de enero de 2025, el primer párrafo del apartado 1, por la disposición final 2.4 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se modifica por el art. 40.5 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se deroga el apartado 13, con efectos de 1 de enero de 2019, por el art. 82.2.1 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-76
+ Se modifica el apartado 14 por el art. 3.4 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se añade el apartado 14 por el art. 28.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+ Se añade el apartado 13, con efectos desde el 1 de enero de 2013, por la disposición final 20.1 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se modifica por el art. 3.4 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+
+### Artículo 8
+
+Artículo 8. Obligados tributarios.
+1. A los efectos de esta Ley tendrán la consideración de obligados tributarios las personas físicas o jurídicas y entidades a las que la misma impone el cumplimiento de obligaciones tributarias.
+2. Son sujetos pasivos en calidad de contribuyentes:
+a) Los depositarios autorizados en los supuestos en que el devengo se produzca a la salida de una fábrica o depósito fiscal, o con ocasión del autoconsumo.
+b) El declarante, como se define en el artículo 5, punto 15, del Reglamento (UE) n.° 952/2013, o cualquier otra persona, a que se refiere el artículo 77, apartado 3, de dicho Reglamento, cuando el devengo se produzca con motivo de una importación.
+c) Los destinatarios registrados en relación con el impuesto devengado a la recepción de los productos.
+d) Los destinatarios certificados en relación con el impuesto devengado con ocasión de la recepción de los productos a ellos destinados.
+e) Los depositarios autorizados y los destinatarios registrados en los supuestos de entregas directas.
+f) Cualquier persona que realice o que participe en la entrada irregular de mercancías en el territorio de la Unión.
+g) Cualquier persona que realice o que participe en la fabricación irregular de productos objeto de los impuestos especiales de fabricación.
+h) Quienes posean, almacenen, utilicen, comercialicen o transporten productos objeto de los impuestos especiales de fabricación, fuera de los casos previstos en el artículo 16 de esta Ley, cuando no acrediten que tales impuestos han sido satisfechos con arreglo a las disposiciones aplicables del Derecho de la Unión y de la legislación nacional.
+3. Son sujetos pasivos, en calidad de sustitutos del contribuyente, los representantes fiscales a que se refiere el apartado 27 del artículo 4 de esta Ley.
+También son sujetos pasivos, en calidad de sustitutos del contribuyente, quienes realicen los suministros de gas natural a título oneroso en el supuesto previsto en el párrafo primero del apartado 3 del artículo 7 de esta Ley.
+4. Los depositarios autorizados estarán obligados al pago de la deuda tributaria en relación con los productos expedidos en régimen suspensivo a cualquier Estado miembro, que no hayan sido recibidos por el destinatario. A tal efecto prestarán una garantía en la forma y cuantía que se establezca reglamentariamente, con validez en toda la Unión Europea. Asimismo, los obligados tributarios de otros Estados miembros que presten en ellos la correspondiente garantía estarán obligados al pago en España de la deuda tributaria correspondiente a las irregularidades en la circulación intracomunitaria que se produzcan en el ámbito territorial interno respecto de los bienes expedidos por aquellos.
+Cuando el depositario autorizado y el transportista hubiesen acordado compartir la responsabilidad a que se refiere este apartado, la Administración Tributaria podrá dirigirse contra dicho transportista a título de responsable solidario.
+La responsabilidad cesará una vez que se pruebe que el destinatario se ha hecho cargo de los productos o que se ha realizado la exportación.
+5. En los supuestos de importaciones, responderán solidariamente del pago del impuesto las personas físicas o jurídicas y entidades que resulten obligadas solidariamente al pago de la deuda aduanera de acuerdo con la normativa vigente sobre la materia.
+6. En los supuestos de irregularidades a que se refiere el artículo 17 de esta Ley, responderán solidariamente del pago del impuesto las personas físicas o jurídicas y entidades obligadas a garantizarlo según la modalidad de circulación intracomunitaria en que se hayan producido las irregularidades.
+7. En los supuestos de irregularidades en relación con la circulación y la justificación del uso o destino dado a los productos objeto de los impuestos especiales de fabricación que se han beneficiado de una exención o de la aplicación de un tipo reducido en razón de su destino, estarán obligados al pago del Impuesto y de las sanciones que pudieran imponerse los expedidores, en tanto no justifiquen la recepción de los productos por el destinatario facultado para recibirlos; a partir de tal recepción, la obligación recaerá sobre los destinatarios.
+8. Cuando existan varios deudores para una misma deuda de impuestos especiales, estarán obligados al pago de dicha deuda con carácter solidario.
+9. Los expedidores registrados estarán obligados al pago de la deuda tributaria en relación con los productos expedidos en régimen suspensivo que no hayan sido recibidos por el destinatario. La responsabilidad cesará una vez que se pruebe que el destinatario se ha hecho cargo de los productos o que se ha realizado la exportación.
+Se modifican los apartados 2, 3, 4 y 8 por el art. 40.6 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se deroga el apartado 2.f), con efectos de 1 de enero de 2019, por el art. 82.2.1 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-76
+ Se modifica el apartado 3 por el art. 28.2 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 59, de 9 de marzo de 2013. Ref. BOE-A-2013-2602.
+ Se añade la letra f) al apartado 2, con efectos desde el 1 de enero de 2013, por la disposición final 20.2 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se modifica por el art. 3.5 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+
+### Artículo 9
+
+Artículo 9. Exenciones.
+1. Sin perjuicio de lo establecido en los artículos 21, 23, 42, 51, 61 y 64 octies de esta ley, estarán exentas, en las condiciones que reglamentariamente se establezcan, la fabricación e importación de productos objeto de los impuestos especiales de fabricación que se destinen:
+a) A ser entregados en el marco de las relaciones diplomáticas o consulares.
+b) A organizaciones internacionales reconocidas como tales en España y a los miembros de dichas organizaciones, dentro de los límites y en las condiciones que se determinen en los convenios internacionales constitutivos de dichas organizaciones o en los acuerdos de sede.
+c) A las fuerzas armadas de cualquier Estado, distinto de España, que sea parte del Tratado del Atlántico Norte y a las fuerzas armadas a que se refiere el artículo 1 de la Decisión 90/6407/CEE para uso de dichas fuerzas o del personal civil a su servicio o para el abastecimiento de sus comedores y cantinas.
+d) Al consumo en el marco de un acuerdo celebrado con países terceros u organizaciones internacionales, siempre que dicho acuerdo se admita o autorice en materia de exención del Impuesto sobre el Valor Añadido.
+e) Al avituallamiento de los buques siguientes excluidos, en todo caso, los que realicen navegación privada de recreo:
+1º. Los que realicen navegación marítima internacional.
+2º. Los afectos al salvamento o la asistencia marítima, con exclusión del suministro de provisiones de a bordo, cuando la duración de su navegación, sin escala, no exceda de cuarenta y ocho horas.
+f) Al avituallamiento de aeronaves que realicen navegación aérea internacional distinta de la aviación privada de recreo.
+g) A las fuerzas armadas de cualquier Estado miembro distinto de España, para uso de dichas fuerzas o del personal civil a su servicio, o para el abastecimiento de sus comedores o cantinas, siempre que dichas fuerzas estén afectadas a un esfuerzo de defensa realizado para llevar a cabo una actividad de la Unión en el ámbito de la política común de seguridad y defensa.
+2. Reglamentariamente podrá establecerse que las exenciones a que se refiere el apartado anterior se concedan mediante la devolución de los impuestos previamente satisfechos, así como que la cuota a devolver se determine como un porcentaje del precio de adquisición, en función de los valores alcanzados por tales cuotas y precios en períodos anteriores.
+Téngase en cuenta que la actualización del primer párrafo del apartado 1, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que esta modificación del primer párrafo del apartado 1, efectuada por la disposición final 2.5 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica, con efectos desde el 1 de enero de 2025, el primer párrafo del apartado 1, por la disposición final 2.5 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se añade la letra g) al apartado 1, con efectos desde el 1 de julio de 2022, por el art. 84.1 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-6
+
+### Artículo 10
+
+Artículo 10. Devoluciones.
+1. Sin perjuicio de lo establecido en los artículos 9, 17, 22, 23, 40, 43, 52, 62 y 64 nonies de esta ley, tendrán derecho a la devolución de los impuestos especiales de fabricación, en las condiciones que reglamentariamente se establezcan:
+a) Los exportadores de productos objeto de estos impuestos, o de otros productos que, aun no siéndolo, contengan otros que sí lo sean, por las cuotas previamente satisfechas correspondientes a los productos exportados.
+b) Los exportadores de productos que no sean objeto de estos impuestos ni los contengan, pero en los que se hubieran consumido para su producción, directa o indirectamente, otros que sí lo sean, por las cuotas que se pruebe haber satisfecho previamente, mediante repercusión o incorporadas en los precios de los productos empleados, correspondientes a los productos exportados. En ningún caso originarán derecho a devolución los productos empleados como combustibles o carburantes.
+c) Los empresarios que introduzcan productos objeto de los impuestos especiales de fabricación por los que se hubiera devengado el impuesto dentro del ámbito territorial interno, en una fábrica o en un depósito fiscal, con el fin de ser posteriormente enviados a otro Estado miembro de la Unión Europea. La devolución abarcará a las cuotas correspondientes a los productos introducidos y queda condicionada a que se acredite la recepción en el Estado de destino de acuerdo con las normas que regulan la circulación intracomunitaria en régimen suspensivo.
+d) Los expedidores certificados que entreguen productos objeto de los impuestos especiales de fabricación por los que se hubiera devengado el impuesto dentro del ámbito territorial interno a destinatarios certificados en otro Estado miembro de la Unión Europea. La devolución se extenderá a las cuotas correspondientes a los productos entregados y quedará condicionada al pago del impuesto en el Estado miembro de destino.
+e) Los empresarios que envíen o transporten, directa o indirectamente, ellos mismos o por su cuenta, productos objetos de los impuestos especiales de fabricación por los que ya se hubiera devengado el impuesto dentro del ámbito territorial interno, con destino a personas domiciliadas en otro Estado miembro, en el ámbito del sistema de circulación intracomunitaria de ventas a distancia. La devolución se extenderá a las cuotas correspondientes a los productos enviados o transportados y queda condicionada al pago del impuesto en el Estado de destino. Si los productos se enviaran desde una fábrica o depósito fiscal, la devolución podrá efectuarse mediante el procedimiento simplificado de compensación automática que se establezca reglamentariamente.
+2. En todos los supuestos de devolución reconocidos en esta Ley, el importe de las cuotas que se devuelvan será el mismo que el de las cuotas soportadas. No obstante, cuando no fuera posible determinar exactamente tal importe, las cuotas se determinarán aplicando el tipo vigente tres meses antes de la fecha en que se realiza la operación que origina el derecho a la devolución.
+3. La devolución del impuesto, en todos los supuestos contemplados en esta Ley, podrá autorizarse con carácter provisional. Las liquidaciones provisionales se convertirán en definitivas como consecuencia de la comprobación efectuada por la Inspección o bien cuando no hubieran sido comprobadas dentro del plazo de cinco años, contados a partir de la fecha en que se realiza la operación que origina el derecho a la devolución.
+Téngase en cuenta que la actualización del primer párrafo del apartado 1, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que esta modificación del primer párrafo del apartado 1, efectuada por la disposición final 2.6 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica, con efectos desde el 1 de enero de 2025, el primer párrafo del apartado 1, por la disposición final 2.6 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se modifican las letras c) y d) del apartado 1 por el art. 40.7 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+
+### Artículo 11
+
+Artículo 11. Ultimación del régimen suspensivo.
+Sin perjuicio de lo establecido en los artículos 23, 28 y 37, el régimen suspensivo se ultima, siempre que se cumplan las condiciones que se establezcan reglamentariamente:
+a. Por la realización de cualquiera de los supuestos que originan el devengo del impuesto.
+b. Mediante la exportación de los productos.
+Se modifica por el art. 3.6 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+
+### Artículo 12
+
+Artículo 12. Determinación de las bases.
+1. Sin perjuicio de lo establecido en el artículo 40 de esta Ley, la determinación de las bases imponibles se efectuará en régimen de estimación directa.
+2. La estimación indirecta de bases imponibles será aplicable a los supuestos y en la forma previstos en el artículo 50 de la Ley General Tributaria.
+
+### Artículo 13
+
+Artículo 13. Tipos impositivos.
+1. Los tipos impositivos aplicables serán los vigentes en el momento del devengo.
+2. No obstante lo dispuesto en el apartado anterior, en los supuestos a que se refiere el artículo 17.A).2 de esta Ley, el tipo aplicable será el vigente en el momento del envío de los productos.
+Se modifica el apartado 2 por el art. 3.7 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+
+### Artículo 14
+
+Artículo 14. Repercusión.
+1. Los sujetos pasivos deberán repercutir el importe de las cuotas devengadas sobre los adquirentes de los productos objeto de los impuestos especiales de fabricación, quedando éstos obligados a soportarlas.
+En los suministros de gas natural efectuados en los términos del artículo 50.4 de la Ley, los sujetos pasivos que hayan repercutido el importe de las cuotas devengadas en función de un porcentaje provisional comunicado por el consumidor final, deberán regularizar el importe de las cuotas repercutidas conforme al porcentaje definitivo de destino del gas natural, una vez conocido, mediante el procedimiento que se establezca reglamentariamente.
+2. Cuando la fabricación, la transformación o el almacenamiento en régimen suspensivo se realicen por cuenta ajena, el sujeto pasivo deberá repercutir el importe de las cuotas devengadas sobre aquel para el que realiza la operación.
+3. No procederá la repercusión de las cuotas resultantes en los supuestos de liquidación que sean consecuencia de actas de inspección y en los de estimación indirecta de bases.
+4. Los sujetos pasivos de los impuestos especiales de fabricación que hayan efectuado el ingreso de las correspondientes cuotas tributarias, gozarán de los mismos derechos y garantías que a la Hacienda Pública reconocen los artículos 77 y 79 de la Ley General Tributaria, frente a los obligados a soportar la repercusión de dichas cuotas tributarias y por el importe de estas integrado en los créditos vencidos y no satisfechos por tales obligados.
+Se modifica el párrafo segundo del apartado 1 por la disposición final 1.1 del Real Decreto-Ley 15/2018, de 5 de octubre. Ref. BOE-A-2018-13593#df
+ Se modifican los apartados 1 y 4 por el art. 6.1 de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+ Se modifica el apartado 4 por el art. 7.3.a) de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Téngase en cuenta para su aplicación lo dispuesto en el art. 7.3.b).
+ Se añade el apartado 4 por el art. único.3.a) de la Ley 40/1995, de 19 de diciembre. Ref. BOE-A-1995-27373
+ Téngase en cuenta para su aplicación lo dispuesto en el art. único. 3.b).
+
+### Artículo 15
+
+Artículo 15. Fabricación, transformación y tenencia.
+1. La fabricación de productos objeto de impuestos especiales de fabricación se realizará en fábricas, en régimen suspensivo.
+2. No obstante lo establecido en el apartado anterior, podrán efectuarse dentro de los depósitos fiscales las operaciones de desnaturalización o de adición de trazadores o marcadores, así como aquellas otras operaciones de transformación que se determinen reglamentariamente.
+3. No obstante lo establecido en los apartados anteriores, podrán efectuarse fuera de fábricas y depósitos fiscales, sin tener la consideración de fabricación a efectos de esta Ley, operaciones de transformación a partir de productos objeto de los impuestos especiales de fabricación por los que ya se haya devengado el impuesto, siempre que la suma de las cuotas correspondientes a los productos utilizados no sea inferior a la que correspondería al producto obtenido.
+4. Las actividades de fabricación, transformación, manipulación, almacenamiento o venta de los productos objeto de los impuestos especiales de fabricación, así como los establecimientos donde éstas se realicen, podrán ser sometidas a intervención de carácter permanente.
+5. Sin perjuicio de lo establecido en la letra c) del apartado 1 del artículo 10, en la letra c) del artículo 22, en el apartado 3 del artículo 40, en la letra d) del artículo 52, en la letra b) del artículo 62, y en la letra b) del artículo 64 nonies, en aquellos supuestos de reintroducción de productos en el establecimiento de origen que no hayan podido ser entregados al destinatario por causas ajenas al depositario autorizado expedidor y en aquellos casos en los que se produzca el cese de actividad del establecimiento donde los productos se encuentren con aplicación de una exención, no se permitirá la entrada en las fábricas y los depósitos fiscales de productos objeto de los impuestos especiales de fabricación por los que ya se hubiera devengado el impuesto.
+6. Las diferencias en menos, tanto en primeras materias como en productos acabados, que excedan de los porcentajes que se establezcan reglamentariamente, que resulten en las fábricas y depósitos fiscales, tendrán la consideración, a efectos de esta Ley, salvo prueba en contrario, de productos fabricados y salidos de fábrica o depósito fiscal, o autoconsumidos en dichos establecimientos.
+7. La circulación y tenencia de productos objeto de los impuestos especiales de fabricación, con fines comerciales, deberá estar amparada por los documentos establecidos reglamentariamente que acrediten haberse satisfecho el impuesto en España o encontrarse en régimen suspensivo, al amparo de una exención o de un sistema de circulación intracomunitaria o interna con impuesto devengado, sin perjuicio de lo establecido en el apartado 3 del artículo 44.
+Respecto de la acreditación del pago del impuesto en España, el requisito anterior no se considerará cumplido cuando la Administración tributaria acredite que el impuesto correspondiente no ha sido ingresado en la Hacienda Pública.
+8. Con objeto de determinar que los productos a que se refiere el apartado 7 de este artículo y el apartado 1 del artículo 16 están destinados a fines comerciales, se tendrán en cuenta, entre otros, los siguientes elementos:
+a) condición mercantil del tenedor de los productos sujetos a impuestos especiales y motivos por los que los tiene en su poder;
+b) lugar en que se encuentran dichos productos sujetos a impuestos especiales o, en su caso, modo de transporte utilizado;
+c) todo documento referente a los productos sujetos a impuestos especiales;
+d) naturaleza de los productos sujetos a impuestos especiales;
+e) cantidad de productos sujetos a impuestos especiales.
+9. Para la aplicación de la letra e) del apartado anterior, se considerará que los productos se tienen con fines comerciales, salvo prueba en contrario, cuando las cantidades excedan de las siguientes:
+a) Labores de tabaco:
+1.º Cigarrillos, 800 unidades.
+2.º Cigarritos, 400 unidades.
+3.º Cigarros, 200 unidades.
+4.º Las restantes labores del tabaco, 1 kilogramo.
+b) Bebidas alcohólicas:
+1.º Bebidas derivadas, 10 litros.
+2.º Productos intermedios, 20 litros.
+3.º Vinos y bebidas fermentadas, 90 litros.
+4.º Cervezas, 110 litros.
+c) Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco.
+1.º Líquidos para cigarrillos electrónicos: 40 mililitros.
+2.º Bolsas de nicotina: 400 unidades.
+3.º Otros productos de nicotina: 500 gramos.
+10. Con respecto a los productos objeto del Impuesto sobre Hidrocarburos, se considerará que se tienen con fines comerciales siempre que el transporte de dichos productos se efectúe mediante formas atípicas realizadas por particulares o por cuenta de estos. Se considerarán formas de transporte atípicas el transporte de carburantes que no se realice dentro del depósito de los vehículos ni en bidones de emergencia adecuados, así como el transporte de combustibles líquidos que no se realice en camiones cisterna utilizados por cuenta de operadores económicos.
+11. Cuando no se justifique el uso o destino dado a los productos objeto de los impuestos especiales de fabricación por los que se ha aplicado una exención o un tipo impositivo reducido en razón de su destino, se considerará que tales productos se han utilizado o destinado en fines para los que no se establece en esta Ley beneficio fiscal alguno.
+Téngase en cuenta que la actualización de los apartados 5 y 9, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que la modificación de los apartados 5 y 9, efectuada por la disposición final 2.7 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica el apartado 7 y con efectos desde el 1 de enero de 2025, los apartados 5 y 9, por la disposición final 2.7 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se modifican los apartados 8 y 10 por el art. 40.8 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se modifican los apartados 5 y 7 por el art. 9.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 16
+
+Artículo 16. Circulación intracomunitaria.
+1. Los productos objeto de los impuestos especiales de fabricación, adquiridos por particulares en el territorio de otro Estado miembro, dentro del territorio de la Unión, en el que se ha satisfecho el impuesto vigente en el mismo, para satisfacer sus propias necesidades y transportados por ellos mismos, no estarán sometidos al impuesto vigente en el ámbito territorial interno y su circulación y tenencia por dicho ámbito no estará sujeta a condición alguna, siempre que no se destinen a fines comerciales.
+2. La destrucción total o pérdida irremediable, total o parcial, de los productos sujetos a impuestos especiales, durante su transporte en el territorio de un Estado miembro distinto del Estado miembro en que se ha producido el devengo, por caso fortuito o fuerza mayor, o bien como consecuencia de la autorización de las autoridades competentes de dicho Estado miembro para destruir dichos productos, no producirá el devengo de los impuestos especiales en dicho Estado miembro.
+Los productos se considerarán totalmente destruidos o perdidos de forma irremediable cuando ya no puedan utilizarse como productos sujetos a impuestos especiales.
+En caso de pérdida parcial debida a la naturaleza de los productos que se produzca durante su transporte en el territorio de un Estado miembro distinto del Estado miembro en que se haya producido el devengo, el impuesto especial no será exigible en dicho Estado miembro cuando la cuantía de la pérdida se sitúe por debajo del porcentaje reglamentario establecido, a menos que las autoridades competentes del Estado miembro prueben la existencia de fraude o de irregularidad.
+3. Con independencia de los supuestos contemplados en el apartado 1 anterior, los productos objeto de impuestos especiales de fabricación con origen o destino en el territorio de otro Estado miembro circularán dentro del ámbito territorial interno, con cumplimiento de los requisitos que reglamentariamente se establezcan, al amparo de alguno de los siguientes procedimientos:
+a) En régimen suspensivo entre fábricas o depósitos fiscales.
+b) En régimen suspensivo con destino a un destinatario registrado.
+c) En régimen suspensivo desde un establecimiento del que es titular un depositario autorizado a todo lugar de salida del territorio de la Unión tal como está definido en el apartado 31 del artículo 4 de esta Ley.
+d) En régimen suspensivo desde el establecimiento de un depositario autorizado establecido en el territorio de un Estado miembro distinto del de la sede del beneficiario, a los destinos a los que se refiere el artículo 11.1 de la Directiva 2020/262 del Consejo, de 19 de diciembre de 2019, por la que se establece el régimen general de los impuestos especiales.
+e) En régimen suspensivo desde el establecimiento del que es titular un depositario autorizado a la aduana de salida, cuando se prevea con arreglo al artículo 329, apartado 5, del Reglamento de Ejecución (UE) 2015/2447, que sea al mismo tiempo la aduana de partida para el régimen de tránsito externo cuando así se prevea en virtud del artículo 189, apartado 4, del Reglamento Delegado (UE) n.° 2015/2446. En este supuesto el régimen suspensivo finalizará cuando los productos sean incluidos en el régimen de tránsito externo.
+f) En régimen suspensivo desde el lugar de importación, expedidos por un expedidor registrado, a un lugar en el que se haya autorizado la recepción de productos en este régimen. A efectos del presente artículo se entenderá por «lugar de importación» el sitio en el que los productos se despachen a libre práctica con arreglo al artículo 201 del Reglamento (UE) n° 952/2013.
+g) En régimen suspensivo, desde el establecimiento de un depositario autorizado a un lugar de entrega directa.
+h) Fuera de régimen suspensivo, con destino a un destinatario certificado.
+i) Fuera de régimen suspensivo, dentro del sistema de ventas a distancia.
+4. La circulación intracomunitaria en régimen suspensivo se realizará únicamente si tiene lugar al amparo de un documento administrativo electrónico tramitado de acuerdo con los requisitos que reglamentariamente se establezcan, sin perjuicio del inicio de la circulación en un documento de acompañamiento de emergencia en caso de indisponibilidad del sistema informatizado y con cumplimiento de las condiciones fijadas reglamentariamente.
+Se modifica por el art. 40.9 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se modifica por el art. 3.8 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+
+### Artículo 17
+
+Artículo 17. Irregularidades en la circulación intracomunitaria.
+Si en el curso de una circulación entre el territorio de dos Estados miembros, o entre el territorio de un Estado miembro y un tercer país o territorio tercero a través del territorio de otro Estado miembro, una expedición de productos objeto de impuestos especiales de fabricación, o parte de ella, no es recibida por el destinatario de los productos en el territorio de la Unión o no abandona efectivamente el territorio de la Unión, si su destino era la exportación, por causas distintas a las que dan lugar a la no sujeción a estos impuestos, de acuerdo con lo establecido en el artículo 6 o en el artículo 16, apartados 1 y 2, de esta Ley, se considerará producida una irregularidad.
+A) Circulación en régimen suspensivo.
+1. En el caso de que, en el curso de una circulación intracomunitaria de productos objeto de impuestos especiales de fabricación en régimen suspensivo:
+a) Se produzca una irregularidad en el ámbito territorial interno que dé lugar al devengo de los impuestos especiales de fabricación, dichos impuestos serán exigibles por la Administración Tributaria española.
+b) Se produzca una irregularidad que dé lugar al devengo de los impuestos especiales de fabricación, no sea posible determinar el Estado miembro en que se produjo y se detecte en el ámbito territorial interno, se considerará que la irregularidad se ha producido en dicho ámbito territorial y en el momento en que se ha observado, y los impuestos especiales serán exigibles por la Administración Tributaria española.
+2. Cuando los productos sujetos a impuestos especiales que circulen en régimen suspensivo desde el ámbito territorial interno no hayan llegado a destino y no se haya observado durante la circulación irregularidad alguna que entrañe el devengo de los impuestos especiales, se considerará que se ha producido una irregularidad en el Estado miembro de expedición, y los impuestos especiales serán exigibles por la Administración Tributaria española excepto si, en un plazo de cuatro meses a partir del inicio de la circulación, se aporta la prueba, a satisfacción de dicha Administración, de que los productos han sido entregados al destinatario o que la irregularidad ha tenido lugar fuera del ámbito territorial interno.
+3. En los supuestos contemplados en las letras a) y b) del apartado 1 anterior, la Administración Tributaria española informará, en su caso, a las autoridades competentes del Estado miembro de expedición.
+4. No obstante, si, en los supuestos contemplados en la letra b) del apartado 1 o en el apartado 2 anteriores, antes de la expiración de un período de tres años, a contar desde la fecha de comienzo de la circulación, llegara a determinarse el Estado miembro, distinto de España, en el que se ha producido realmente la irregularidad, los impuestos especiales serán exigibles por dicho Estado miembro. En ese caso, la Administración Tributaria española procederá a la devolución de los impuestos especiales percibidos, una vez que se aporten pruebas de la percepción de tales impuestos en el Estado miembro en el que realmente se produjo la irregularidad.
+5. Si, en supuestos similares a los que se ha hecho referencia en la letra b) del apartado 1 o en el apartado 2 anteriores, habiéndose presumido que una irregularidad ha tenido lugar en el ámbito territorial de la Unión no interno, antes de la expiración de un período de tres años a contar desde la fecha de comienzo de la circulación, llegara a determinarse que dicha irregularidad se había producido realmente dentro del ámbito territorial interno, los impuestos especiales serán exigibles por la Administración Tributaria española, que informará de ello a las autoridades competentes del Estado miembro en que inicialmente se hubieran percibido dichos impuestos.
+B) Circulación fuera del régimen suspensivo.
+1. En el caso de que, en el curso de una circulación intracomunitaria de productos objeto de impuestos especiales de fabricación por los que ya se haya devengado el impuesto en el Estado miembro de expedición situado en el ámbito territorial comunitario no interno:
+a) Se produzca una irregularidad en el ámbito territorial interno que dé lugar al devengo de los impuestos especiales de fabricación, dichos impuestos serán exigibles por la Administración Tributaria española.
+b) Se produzca una irregularidad que dé lugar al devengo de los impuestos especiales de fabricación, no sea posible determinar el Estado miembro en que se produjo y se observe en el ámbito territorial interno, se considerará que la irregularidad se ha producido en dicho ámbito territorial y los impuestos especiales serán exigibles por la Administración Tributaria española.
+2. No obstante, si, en el supuesto contemplado en la letra b) del apartado 1 anterior, antes de la expiración de un periodo de tres años, a contar desde la fecha de adquisición de los productos, llegara a determinarse el Estado miembro, distinto de España, en el que se ha producido realmente la irregularidad, los impuestos especiales serán exigibles por dicho Estado miembro. En ese caso, la Administración Tributaria española procederá a la devolución de los impuestos especiales percibidos, una vez que se aporten pruebas de la percepción de tales impuestos en el Estado miembro en el que realmente se produjo la irregularidad.
+3. En el caso de productos objeto de impuestos especiales de fabricación por los que ya se haya devengado el impuesto en el ámbito territorial interno que, habiendo sido expedidos desde dicho ámbito con destino al ámbito territorial de la Unión no interno, sean objeto de una irregularidad fuera del ámbito territorial interno que dé lugar a que los impuestos especiales sean percibidos en el Estado miembro en el que dicha irregularidad haya sido producida o comprobada, la Administración Tributaria española procederá a la devolución de los impuestos especiales percibidos, una vez que se aporten pruebas de la percepción de tales impuestos en dicho Estado miembro.
+Se modifica por el art. 40.10 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se modifica por el art. 3.9 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+
+### Artículo 18
+
+Artículo 18. Normas generales de gestión.
+1. Los sujetos pasivos y demás obligados al pago de los impuestos especiales de fabricación estarán obligados a presentar las correspondientes declaraciones tributarias y, en su caso, a practicar las autoliquidaciones que procedan, así como a prestar garantías para responder del cumplimiento de sus obligaciones tributarias.
+2. El Ministro de Hacienda y Administraciones Públicas procederá a la actualización formal de las referencias efectuadas a los códigos NC en el texto de esta Ley, si se produjeran variaciones en la estructura de la nomenclatura combinada.
+3. Cuando se almacenen conjuntamente productos fungibles objeto de los impuestos especiales de fabricación por los que se hayan satisfecho los impuestos correspondientes con aplicación de tipos impositivos diferentes, se considerará, salvo prueba en contrario, que los primeros productos entrados en el establecimiento son los primeros que salen del mismo.
+4. Salvo lo dispuesto en el apartado siguiente, los sujetos pasivos y demás obligados al pago de los impuestos especiales de fabricación deberán determinar e ingresar la deuda tributaria con el procedimiento, forma y plazos que establezca el Ministro de Hacienda y Administraciones Públicas.
+5. En las importaciones o entradas irregulares, el impuesto se liquidará en la forma prevista para la deuda aduanera según lo dispuesto en la normativa aduanera.
+6. Cuando los productos objeto de los impuestos especiales de fabricación sean vendidos en pública subasta, la adjudicación sólo podrá efectuarse en favor de las personas con aptitud legal para comerciar con ellos, de acuerdo con las condiciones que reglamentariamente se establezcan.
+7. Reglamentariamente se establecerán:
+a) La forma y cuantías en que los sujetos pasivos deberán prestar garantías.
+b) La forma en que se realizará el control, incluida la intervención permanente, de los establecimientos en que se fabriquen, transformen, reciban, almacenen, comercialicen y expidan productos objeto de los impuestos especiales de fabricación.
+c) Los requisitos exigibles en la circulación de estos productos y, en particular, las condiciones de utilización de cualquiera de los documentos que deban amparar la circulación intracomunitaria e interna.
+d) Los porcentajes admisibles de pérdidas, en régimen suspensivo, en los procesos de fabricación y transformación, así como durante el almacenamiento y el transporte.
+e) Los plazos en los que deberán presentarse las solicitudes de devolución de los impuestos especiales de fabricación.
+Se modifica el apartado 5 por el art. 40.11 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se modifican los apartados 1, 2, 4 y 7.c) por el art. 3.5 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se añade la letra e) al apartado 7 por la disposición final 38 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 16, de 19 de enero de 1993. Ref. BOE-A-1993-1251
+
+### Artículo 19
+
+Artículo 19. Infracciones y sanciones.
+1. El régimen de infracciones y sanciones en materia de impuestos especiales de fabricación se regirá por lo dispuesto en la Ley General Tributaria, en las normas específicas que para cada uno de estos impuestos se establecen en esta ley y en las contenidas en los siguientes apartados.
+En particular, cuando las sanciones impuestas de acuerdo con lo previsto en esta ley se deriven de la previa regularización de la situación tributaria del obligado, serán aplicables las reducciones reguladas en el apartado 1 del artículo 188 de la Ley General Tributaria.
+Las sanciones pecuniarias que se impongan de acuerdo con lo previsto en esta ley se reducirán conforme a lo dispuesto en el apartado 3 del artículo 188 de la Ley General Tributaria.
+2. En todo caso, constituyen infracciones tributarias graves:
+a) La fabricación e importación de productos objeto de los impuestos especiales de fabricación con incumplimiento de las condiciones y requisitos exigidos en esta Ley y su reglamento de desarrollo.
+b) La circulación de productos objeto de los impuestos especiales de fabricación con fines comerciales en el ámbito territorial interno cuando, debiendo estar amparada en un documento administrativo electrónico, carezca de un código administrativo de referencia asignado por las autoridades competentes para ello.
+c) La tenencia de productos objeto de los impuestos especiales de fabricación con fines comerciales sin acreditar el pago del impuesto devengado, la aplicación del régimen suspensivo o de un supuesto de exención.
+d) La existencia de diferencias en menos de materias primas, productos en curso de fabricación o productos terminados en fábricas y depósitos fiscales que excedan de los porcentajes autorizados reglamentariamente, puestas de manifiesto en recuentos de existencias practicados por la Administración.
+e) El incumplimiento por los obligados tributarios de los requisitos y condiciones establecidos en esta Ley y en su normativa de desarrollo necesarios para la aplicación de las exenciones o tipos reducidos previstos en aquélla, cuando no se justifique el uso o destino dado a los productos objeto de dichos beneficios.
+3. Las infracciones a las que se refieren las letras a), b) y c) del número anterior se sancionarán con multa pecuniaria proporcional del 100 por ciento de las cuotas que corresponderían a las cantidades de los productos, calculadas aplicando el tipo vigente en la fecha de descubrimiento de la infracción, con un mínimo de 1.200 euros.
+La infracción a la que se refiere la letra d) del número anterior se sancionará con multa pecuniaria del 50 por ciento de las cuotas del impuesto especial que corresponderían a los productos terminados sobre los que se haya comprobado la diferencia o a los productos terminados que se hubieran podido obtener a partir de los productos en curso o las materias primas respecto de los cuales se haya comprobado la diferencia, calculadas aplicando el tipo impositivo vigente en la fecha de descubrimiento de la infracción, con un mínimo de 300 euros.
+La infracción a que se refiere la letra e) del número anterior se sancionará con multa pecuniaria proporcional del 50 por ciento del beneficio fiscal aplicado a los productos respecto de los cuales se hayan incumplido los requisitos y condiciones establecidas legal o reglamentariamente.
+La sanción que corresponda conforme a lo señalado en las letras a), b), c) y e) se incrementará en el 25 por ciento cuando se produzca comisión repetida de infracciones tributarias. Esta circunstancia se apreciará cuando el infractor, dentro de los dos años anteriores a la comisión de la nueva infracción, hubiese sido sancionado por resolución firme en vía administrativa por infringir cualquiera de las prohibiciones establecidas en el número 2 anterior.
+4. Por la comisión de infracciones tributarias graves podrán imponerse, además, las siguientes sanciones:
+a) El cierre temporal de los establecimientos de los que sean titulares los infractores, por un periodo de seis meses, que será acordado, en su caso, por el Ministro de Hacienda, o el cierre definitivo de los mismos, que será acordado, en su caso, por el Consejo de Ministros. Podrá acordarse el cierre definitivo cuando el sujeto infractor hubiese sido sancionado por resolución firme en vía administrativa por la comisión de una infracción grave dentro de los dos años anteriores que hubiese dado lugar a la imposición de la sanción de cierre temporal del establecimiento.
+b) El precintado por un período de seis meses o la incautación definitiva de los aparatos de venta automática, cuando las infracciones se cometan a través de los mismos. Podrá acordarse la incautación definitiva cuando el sujeto infractor hubiese sido sancionado por resolución firme en vía administrativa por la comisión, por medio del aparato de venta automática, de una infracción grave dentro de los dos años anteriores que hubiera dado lugar a la imposición de la sanción de precintado de dicho aparato.
+A efectos de la imposición de las sanciones previstas en la presente letra, tendrán la consideración de sujetos infractores tanto el titular del aparato de venta automática como el titular del establecimiento donde se encuentra ubicado.
+Salvo en los casos establecidos en el párrafo c) siguiente, la imposición de estas sanciones será acordada por el órgano competente para la imposición de la sanción principal.
+c) No obstante, cuando la imposición de las sanciones previstas en el párrafo b) concurra con la imposición de las previstas en el párrafo a) anterior, procederá la incautación definitiva del aparato de venta automática siempre que se acuerde el cierre definitivo del establecimiento. En los casos en que se produzca esta concurrencia, la imposición de las sanciones será acordada por los órganos previstos en el párrafo a).
+5. Constituye infracción tributaria leve la circulación de productos objeto de los impuestos especiales de fabricación con fines comerciales en el ámbito territorial interno cuando, con relación a los documentos de circulación establecidos reglamentariamente para amparar esta circulación, existan omisiones o inadecuaciones con la realidad de datos esenciales del documento, y no constituya infracción tributaria grave. Esta infracción se sancionará con una multa pecuniaria proporcional del 10 por ciento de la cuota que correspondería a los productos en circulación, con un mínimo de 600 euros.
+Se consideran datos esenciales de los documentos de circulación los siguientes:
+1.º Los datos necesarios para la correcta identificación de la naturaleza y cantidad de la mercancía transportada.
+2.º Los datos necesarios para la correcta identificación del expedidor, destinatario o productos, incluido el número de documento de circulación.
+3.º En el caso de precintas de circulación, la numeración o capacidad de las mismas y su correspondencia con los recipientes sobre los que estén colocadas.
+4.º El dato relativo a la fecha del inicio de la expedición.
+6. Tendrá la calificación de infracción tributaria leve la tenencia, con fines comerciales, de bebidas alcohólicas o de labores del tabaco que no ostenten marcas fiscales o las ostenten sin cumplir los requisitos establecidos reglamentariamente al efecto, salvo cuando respecto de la misma conducta sea de aplicación lo establecido en el apartado 2. Esta infracción se sancionará:
+a) Con multa de 150 euros por cada 1.000 cigarrillos, con un importe mínimo de 600 euros por cada infracción.
+b) Con multa de 90 euros por cada kilogramo de picadura para liar, con un importe mínimo de 600 euros por cada infracción.
+c) Con multa de 10 euros por cada litro de bebidas, con un importe mínimo de 600 euros por cada infracción.
+Las sanciones establecidas en las letras a), b) y c) anteriores se graduarán incrementando el importe de la multa en un 25 por ciento en caso de comisión repetida de estas infracciones. La comisión repetida se apreciará cuando el sujeto infractor, dentro de los dos años anteriores a la comisión de la nueva infracción, hubiese sido sancionado en virtud de resolución firme en vía administrativa por la comisión de las infracciones contempladas en este número.
+7. Tendrá la calificación de infracción tributaria leve la tenencia de marcas fiscales falsas, regeneradas o recuperadas. Esta infracción se sancionará con multa pecuniaria fija de 10 euros por cada marca fiscal falsa, regenerada o recuperada.
+8. Constituye infracción tributaria leve el incumplimiento por los obligados tributarios de los requisitos y condiciones establecidos en esta Ley y en su normativa de desarrollo para la aplicación de un supuesto de exención o un tipo impositivo reducido en razón del destino de los productos objeto de los impuestos especiales, cuando no constituya infracción tributaria grave.
+La infracción tipificada en este apartado se sancionará con multa pecuniaria del 10 por ciento del beneficio fiscal aplicado a los productos respecto de los cuales se hayan incumplido los requisitos y condiciones establecidas legal o reglamentariamente.
+Se añaden las letras d) y e) al apartado 2, se modifican los apartados 3 y 6, y se añade un apartado 8 por el art. 10.2 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad
+ Se modifican los apartados 2, 3, 5 y 6 y se añade un nuevo apartado 7 por el art. 3.6 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica el apartado 5 por el art. 3.10 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+ Se modifica por la disposición final 6.1 de la Ley 58/2003, de 17 de diciembre. Ref. BOE-A-2003-23186
+ Se convierten a euros las cuantías contempladas en los apartados 6 y 7 por el apartado 5 y anexo de la Resolución de 20 de noviembre de 2001.Ref. BOE-A-2001-22447
+ Redactado el título conforme a la corrección de errores publicada en BOE núm. 2, de 2 de enero de 2002. Ref. BOE-A-2002-36
+
+## Capítulo II
+
+CAPÍTULO II
+Disposiciones comunes a todos los impuestos especiales sobre el alcohol y bebidas alcohólicas
+
+### Artículo 20
+
+Artículo 20. Conceptos y definiciones.
+A efectos de los impuestos especiales sobre el alcohol y las bebidas alcohólicas, se considerará:
+1. «Alcohol». El alcohol etílico o etanol clasificado en los códigos NC 2207 ó 2208.
+2. «Alcohol totalmente desnaturalizado». El alcohol que contenga, como mínimo en la proporción que se determine, las sustancias desnaturalizantes aprobadas por el Ministro de Economía y Hacienda que alteren, en forma claramente perceptible, sus caracteres organolépticos de olor, color y sabor, haciéndolo impropio para el consumo humano por ingestión.
+3. «Alcohol parcialmente desnaturalizado». El alcohol que contenga, como mínimo en la proporción que se determine, las sustancias desnaturalizantes aprobadas por el Ministro de Economía y Hacienda que lo hagan impropio para el consumo humano por ingestión y cuya utilización en un proceso industrial determinado haya sido previamente autorizada, en la forma y con las condiciones que se establezcan reglamentariamente.
+4. «Bebida analcohólica». Aquella cuyo grado alcohólico volumétrico adquirido no sea superior a 1,2 % vol.
+5. «Cosechero». La persona física que ejerza, en nombre propio, la actividad de elaborador de vino y sea propietario de las uvas a partir de cuyos orujos se obtiene un alcohol o bebida derivada.
+6. «Destilador artesanal». El fabricante de bebidas derivadas por destilación directa intermitente, mediante alambiques u otros aparatos de destilación similares, que obtenga una producción anual que no exceda de 10 hectolitros de alcohol puro.
+7. «Extracto seco primitivo del mosto original de la cerveza». La materia seca natural procedente de la molturación de la malta y de otros productos autorizados, molturados o no, que dan lugar por digestión enzimática al concentrado azucarado existente en un mosto del que se obtendría, mediante fermentación alcohólica, la cerveza.
+8. «Grado alcohólico volumétrico adquirido». El número de volúmenes de alcohol puro, a la temperatura de 20 Grad. C, contenido en 100 volúmenes del producto considerado a dicha temperatura.
+9. «Grado Plato». La cantidad en gramos de extracto seco primitivo del mosto original de la cerveza contenido en 100 gramos de dicho mosto a la temperatura de 20 Grad. C.
+
+### Artículo 21
+
+Artículo 21. Exenciones.
+Estarán exentas, además de las operaciones citadas en el artículo 9, las siguientes, siempre que se cumplan las condiciones que reglamentariamente se establezcan:
+1. La fabricación e importación de alcohol y de bebidas alcohólicas que se destinen a la producción de vinagre. Se entiende por vinagre el producto clasificado en el código NC 2209.
+La aplicación de la exención, en los casos de utilización de alcohol destilado de origen agrícola, queda condicionada a que dicho alcohol lleve incorporado, como marcador, vinagre de alcohol con cumplimento de las condiciones y en los porcentajes exigidos reglamentariamente.
+2. Las siguientes importaciones de bebidas alcohólicas:
+a) Las conducidas personalmente por los viajeros mayores de diecisiete años procedentes de terceros países, siempre que no superen los límites cuantitativos siguientes:
+1.° Un litro de alcohol o bebidas derivadas; o
+2.° Dos litros de productos intermedios o vinos espumosos y bebidas fermentadas, y
+3.° Cuatro litros de vino tranquilo y dieciséis litros de cerveza.
+b) Los pequeños envíos expedidos, con carácter ocasional, desde un tercer país, por un particular con destino a otro particular, sin que medie pago de ninguna clase y dentro de los siguientes límites cuantitativos:
+1.° Una botella con un contenido máximo de un litro de alcohol o bebidas derivadas; o
+2.° Una botella con un contenido máximo de un litro de productos intermedios o vinos o bebidas fermentadas espumosos, y
+3.° Dos litros de vinos y bebidas fermentadas tranquilos.
+3. Las bebidas alcohólicas destinadas a ser entregadas por tiendas libres de impuestos y transportadas en el equipaje personal de los viajeros que se trasladen, por vía aérea o marítima, a un tercer país o territorio tercero distinto de las Islas Canarias.
+Se modifica el apartado 2 por el art. 40.12 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se añade el apartado 3 por el art. 3.11 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+ Se modifica el apartado 2.a) por el art. 8.1 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Se añade el párrafo segundo al apartado 1 por el art. 6.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Artículo 22
+
+Artículo 22. Devoluciones.
+Se reconocerá el derecho a la devolución del impuesto, en las condiciones que reglamentariamente se establezcan, además de en los supuestos determinados en el artículo 10, en los siguientes:
+a) Cuando el alcohol o las bebidas alcohólicas se utilicen en la preparación de aromatizantes para la elaboración de productos alimenticios y bebidas analcohólicas.
+b) Cuando el alcohol o las bebidas alcohólicas se utilicen directamente, o como componentes de productos semielaborados, para la producción de alimentos rellenos u otros, siempre que el contenido de alcohol en cada caso no supere los 8,5 litros de alcohol puro por cada 100 kilogramos de producto, en el caso de los bombones, y 5 litros de alcohol puro por cada 100 kilogramos de producto, en el caso de otro tipo de productos.
+c) La devolución a fábrica o depósito fiscal, así como la destrucción bajo control de la Administración tributaria de bebidas alcohólicas que hayan dejado de ser adecuadas para el consumo humano.
+Se añade la letra c) por el art. 18.1 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+
+### Artículo 23
+
+Artículo 23. Disposiciones particulares en relación con Canarias.
+1. Sin perjuicio de lo establecido en el artículo 5, estará sujeta a los Impuestos sobre la Cerveza, sobre los Productos Intermedios y sobre el Alcohol y las Bebidas Derivadas, la introducción en las Islas Canarias de los productos comprendidos en los ámbitos objetivos de dichos impuestos, procedentes de otros Estados miembros de la Unión Europea.
+2. En el supuesto contemplado en el apartado anterior, los impuestos se devengarán en el momento de la entrada en el archipiélago canario. No obstante, cuando los productos introducidos se destinen directamente a una fábrica o depósito fiscal, la introducción se efectuará en régimen suspensivo.
+3. En el supuesto contemplado en el apartado 1 de este artículo, serán sujetos pasivos de los impuestos en el mismo citados las personas que introduzcan los productos objeto de dichos impuestos.
+4. El Impuesto sobre la Cerveza será exigible en Canarias a los tipos establecidos en el artículo 26 de esta Ley.
+5. El Impuesto sobre Productos Intermedios será exigible en Canarias a los siguientes tipos impositivos:
+a) Productos intermedios con un grado alcohólico volumétrico adquirido no superior al 15 por 100 vol.: 30,14 euros por hectolitro.
+b) Los demás productos intermedios: 50,21 euros por hectolitro.
+6. El Impuesto sobre el Alcohol y Bebidas Derivadas se exigirá en Canarias al tipo de 750,36 euros por hectolitro de alcohol puro, sin perjuicio de lo dispuesto en los artículos 40 y 41 de esta Ley.
+7. Los tipos a que se refieren los tres apartados anteriores se aplicarán igualmente a la cerveza, los productos intermedios y al alcohol y bebidas derivadas, respectivamente, que se envíen, fuera del régimen suspensivo, directamente desde fábricas o depósitos fiscales situados en la península e islas Baleares, con destino a Canarias.
+8. Cuando se introduzcan en la península e islas Baleares productos comprendidos en los ámbitos objetivos de los Impuestos sobre la Cerveza, sobre Productos Intermedios y sobre el Alcohol y Bebidas Derivadas por los que se hubiesen devengado tales impuestos en Canarias, se liquidarán e ingresarán por dichos conceptos las cuotas resultantes de aplicar la diferencia de tipos impositivos existentes entre dichos territorios en el momento de la introducción.
+9. Sin perjuicio de lo establecido en los artículos 9, 21 y 42, estarán exentas de los Impuestos sobre la Cerveza, sobre los Productos Intermedios y sobre el Alcohol y Bebidas Derivadas, en las condiciones que reglamentariamente se establezcan, las operaciones siguientes:
+a) Las relacionadas en los artículos 9, 21 y 42, cuando sean realizadas con productos introducidos en las Islas Canarias procedentes de otros Estados miembros de la Unión Europea.
+b) La expedición, desde Canarias a otros Estados miembros de la Unión Europea, de productos objeto de dichos impuestos que se encuentren en el archipiélago en régimen suspensivo, el cual se considerará así ultimado.
+10. Sin perjuicio de lo establecido en los artículos 10 y 43, tendrán derecho a la devolución, parcial o total, de las cuotas previamente satisfechas, siempre que se cumplan las condiciones que se establezcan reglamentariamente:
+a) Los expedidores, desde la península e Islas Baleares, de productos objeto de los Impuestos sobre Productos Intermedios y sobre el Alcohol y Bebidas Derivadas, con destino a Canarias, por el importe de las cuotas resultantes de aplicar la diferencia de tipos impositivos existentes entre dichos territorios en el momento del inicio de la expedición.
+b) Los expedidores, desde Canarias, de productos objeto de los Impuestos sobre la Cerveza, sobre los Productos Intermedios y sobre el Alcohol y Bebidas Derivadas, con destino a otro Estado miembro de la Unión Europea, por el importe total de las cuotas satisfechas correspondientes a los productos expedidos.
+11. Constituirá infracción tributaria grave:
+a) La introducción en Canarias de los productos a que se refiere el apartado 1 de este artículo, con incumplimiento de las condiciones y requisitos exigidos en esta Ley y en su reglamento. La infracción se sancionará con multa del tanto al triple de las cuotas que corresponderían a las cantidades de productos introducidos, calculadas aplicando los tipos a que se refieren los apartados 4, 5 y 6 de este artículo que estén vigentes en la fecha del descubrimiento de la infracción.
+b) La introducción en la península e islas Baleares de los productos a que se refiere el apartado 8 de este artículo con incumplimiento de las condiciones y requisitos exigidos en esta Ley y en su reglamento. La infracción se sancionará con multa del tanto al triple de las cuotas que corresponderían a las cantidades de productos introducidos, calculadas aplicando la diferencia de tipos impositivos existente entre dichos territorios en el momento del envío.
+12. No serán de aplicación, por lo que se refiere a las Islas Canarias, las siguientes disposiciones de esta Ley:
+a) Los apartados 8, 10, 11, 12, 14, 15, 16, 27 y 34 del artículo 4.
+b) Las letras d), e), g) y h) del apartado 1 del artículo 7.
+c) Las letras c), d) y e) del apartado 2 y los apartados 3, 6 y 9 del artículo 8.
+d) Los apartados c), d) y e) del apartado 1 del artículo 10.
+e) El apartado 2 del artículo 13.
+f) Los apartados 2, 3 y 4 del artículo 16.
+g) El artículo 17.
+h) El apartado 4 del artículo 8 y el apartado 7 del artículo 15, por lo que respecta exclusivamente, en ambos casos, a la circulación intracomunitaria.
+Se modifican los apartados 1, 9, 10 y 12 por el art. 40.13 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se modifican los apartados 5 y 6 por el art. 5.1 del Real Decreto-ley 3/2016, de 2 de diciembre. Ref. BOE-A-2016-11475#a5.
+ Se modifican los apartados 5 y 6 por el art. 1.1 del Real Decreto-ley 7/2013, de 28 de junio. Ref. BOE-A-2013-7062.
+ Se modifica el apartado 12 por el art. 3.12 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+ Se modifican los apartados 5 y 6 por el art. 2.1 del Real Decreto-Ley 12/2005, de 16 de septiembre. Ref. BOE-A-2005-15422
+ Se modifican los apartados 5 y 6, con efectos a partir del 1 de enero de 2005, por el art. 65.1 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+ Se modifican los apartados 5 y 6, con efectos a partir del 1 de enero de 2002, por los arts. 65.1 y 66.1 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964
+ Se modifica el apartado 5, con efectos a partir del 1 de enero de 1998, por el art. 71.1 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052
+ Se modifica el apartado 5 por el art. 65.1 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116
+ Se modifica el apartado 6 por el art. 8.1 del Real Decreto-Ley 12/1996, de 26 de julio. Ref. BOE-A-1996-17424
+ Se modifican los apartados 5 y 6 por el art. 30.1 y 31.1 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Se modifican los apartados 5 y 6, con efectos a partir del 1 de enero de 1995, por los arts. 80.1 y 81.1 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+ Se modifican los apartados 5 y 6, con efectos a partir del 1 de enero de 1994, por los arts. 77.1 y 78.1 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087
+ Redactado el apartado 10.a) conforme a la corrección de errores publicada en BOE núm. 16, de 19 de enero de 1993. Ref. BOE-A-1993-1251
+
+## Capítulo III
+
+CAPÍTULO III
+Impuesto sobre la Cerveza
+
+### Artículo 24
+
+Artículo 24. Ambito objetivo.
+1. El ámbito objetivo del Impuesto sobre la Cerveza está integrado por la cerveza y por los productos constituidos por mezclas de cerveza con bebidas analcohólicas, clasificados en el código NC 2206, siempre que, en ambos casos, su grado alcohólico volumétrico adquirido sea superior a 0,5 % vol.
+2. A efectos de la presente Ley se entenderá por cerveza todo producto clasificado en el código NC 2203.
+
+### Artículo 25
+
+Artículo 25. Base imponible.
+La base estará constituida por el volumen de productos comprendidos dentro del ámbito objetivo del impuesto, expresado en hectolitros de producto acabado a la temperatura de 20 Grad. C.
+
+### Artículo 26
+
+Artículo 26. Tipos impositivos.
+1. El impuesto se exigirá, con respecto a los productos comprendidos dentro de su ámbito objetivo, conforme a los siguientes epígrafes:
+Epígrafe 1.a). Productos con un grado alcohólico volumétrico adquirido no superior a 1,2 por 100 vol.: 0 euros por hectolitro.
+Epígrafe 1.b). Productos con un grado alcohólico adquirido superior a 1,2 por ciento vol. y no superior a 2,8 por 100 vol.: 2,75 euros por hectolitro.
+Epígrafe 2. Productos con un grado alcohólico volumétrico adquirido superior a 2,8 por 100 vol. y con un grado Plato inferior a 11: 7,48 euros por hectolitro.
+Epígrafe 3. Productos con un grado Plato no inferior a 11 y no superior a 15: 9,96 euros por hectolitro.
+Epígrafe 4. Productos con un grado Plato superior a 15 y no superior a 19: 13,56 euros por hectolitro.
+Epígrafe 5. Productos con un grado Plato superior a 19: 0,91 euros por hectolitro y por grado Plato.
+2. A los efectos de lo establecido en el apartado anterior, en la determinación del grado Plato se admitirá una tolerancia de hasta 0,2 grados.
+Se modifica por el art. 2.2 del Real Decreto-Ley 12/2005, de 16 de septiembre. Ref. BOE-A-2005-15422
+ Se modifica, con efectos a partir del 1 de enero de 2005, por el art. 65.2 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+ Se modifica el apartado 1, con efectos a partir del 1 de enero de 2002, por el art. 64 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964
+ Se modifica el apartado 1, con efectos a partir del 1 de enero de 1997, por el art. 64 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116
+ Se modifica el apartado 1 por el art. 29 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Se modifica el apartado 1, con efectos a partir del 1 de enero de 1995, por el art. 79 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+ Se modifica el apartado 1, con efectos a partir del 1 de enero de 1994, por el art. 76 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087
+
+## Capítulo IV
+
+CAPÍTULO IV
+Impuesto sobre el Vino y Bebidas Fermentadas
+
+### Artículo 27
+
+Artículo 27. Ambito objetivo.
+1. El ámbito objetivo del impuesto está integrado por el vino tranquilo, el vino espumoso, las bebidas fermentadas tranquilas y las bebidas fermentadas espumosas.
+2. A efectos de esta Ley tendrán la consideración de vinos tranquilos, todos los productos clasificados en los códigos NC 2204 y 2205, con excepción de los vinos espumosos, que tengan:
+a) Un grado alcohólico volumétrico adquirido superior al 1,2 % vol. e inferior o igual al 15 % vol., siempre que el alcohol contenido en el producto acabado proceda en su totalidad de fermentación, o
+b) Un grado alcohólico volumétrico adquirido superior al 15 % vol. e igual o inferior al 18 % vol., siempre que se hayan obtenido sin ningún aumento artificial de su graduación y que el alcohol contenido en el producto acabado proceda en su totalidad de fermentación.
+3. A efectos de esta Ley tendrán la consideración de vinos espumosos, todos los productos clasificados en los códigos NC 2204.10, 2204.21.06, 2204.21.07, 2204.21.08, 2204.21.09 y 2205, siempre que:
+a) Estén envasados en botellas con tapones en forma de champiñón sujetos por ataduras o ligaduras, o que tengan una sobrepresión debida al anhídrico carbónico disuelto igual o superior a 3 bares, y
+b) Tengan un grado alcohólico volumétrico adquirido superior al 1,2 % vol., e inferior o igual a 15 % vol., siempre que el alcohol contenido en el producto acabado proceda en su totalidad de fermentación.
+4. A efectos de esta Ley tendrán la consideración de bebidas fermentadas tranquilas todos los productos clasificados en los códigos NC 2204 y 2205 no comprendidos en los apartados 2 y 3 anteriores, así como los productos clasificados en el código NC 2206, a excepción de las bebidas fermentadas espumosas y de los productos incluidos en el ámbito objetivo del Impuesto sobre la Cerveza, que tengan:
+a) Un grado alcohólico volumétrico adquirido superior a 1,2 % vol., e inferior o igual a 5,5 % vol., o,
+b) Un grado alcohólico volumétrico adquirido superior a 5,5 % vol. e igual o inferior a 15 % vol., siempre que el alcohol contenido en el producto proceda en su totalidad de fermentación.
+5. A efectos de esta Ley tendrán la consideración de bebidas fermentadas espumosas todos los productos incluidos en los códigos NC 2206.00.31 y 2206.00.39, así como los productos incluidos en los códigos NC 2204.10, 2204.21.06, 2204.21.07, 2204.21.08, 2204.21.09, 2204.29.10 y 2205, que no estén comprendidos en los apartados 2 y 3 anteriores, siempre que:
+a) Estén envasados en botellas con tapones en forma de champiñón sujetos por ataduras o ligaduras, o que tengan una sobrepresión debida al anhídrido carbónico disuelto igual o superior a 3 bares, y
+b) Tengan un grado alcohólico volumétrico adquirido superior a 1,2 % vol. e inferior o igual a 8,5 % vol., o
+c) Tengan un grado alcohólico volumétrico adquirido superior a 8,5 % vol. e inferior o igual a 15 % vol., siempre que el alcohol contenido en el producto proceda en su totalidad de fermentación.
+Se modifica el primer párrafo de los apartados 3 y 5 por el art. 40.14 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se actualiza las primeras referencias a los códigos NC del apartado 5 por el apartado 1 de la Orden de 19 de diciembre de 1995. Ref. BOE-A-1995-27714.
+
+### Artículo 28
+
+Artículo 28. Devengo.
+No obstante lo establecido en los artículos 7 y 11 de esta Ley, el devengo del Impuesto sobre el Vino y Bebidas Fermentadas, con respecto al vino recibido en régimen suspensivo en las fábricas de productos intermedios y utilizado en la fabricación de los productos a que se refiere el artículo 32 de esta Ley, se producirá en el momento de la salida de fábrica de dichos productos intermedios, sin que el régimen suspensivo pueda continuarse mediante su introducción en otras fábricas o depósitos fiscales situados dentro del ámbito territorial interno.
+
+### Artículo 29
+
+Artículo 29. Base imponible.
+La base estará constituida por el volumen de productos comprendidos dentro del ámbito objetivo de este impuesto, expresado en hectolitros de producto acabado a la temperatura de 20 ºC.
+
+### Artículo 30
+
+Artículo 30. Tipos impositivos.
+El impuesto se exigirá conforme a los siguientes epígrafes:
+Epígrafe 1. Vinos tranquilos. 0 pesetas por hectolitro.
+Epígrafe 2. Vinos espumosos. 0 pesetas por hectolitro.
+Epígrafe 3. Bebidas fermentadas tranquilas. 0 pesetas por hectolitro.
+Epígrafe 4. Bebidas fermentadas espumosas. 0 pesetas por hectolitro.
+
+## Capítulo V
+
+CAPÍTULO V
+Impuesto sobre Productos Intermedios
+
+### Artículo 31
+
+Artículo 31. Ambito objetivo.
+A efectos de esta Ley, tendrán la consideración de productos intermedios todos los productos con un grado alcohólico volumétrico adquirido superior a 1,2 % vol., e inferior o igual a 22 % vol., clasificados en los códigos NC 2204, 2205 y 2206, y que no estén comprendidos dentro del ámbito objetivo del Impuesto sobre la Cerveza, ni en el del Impuesto sobre el Vino y Bebidas Fermentadas.
+
+### Artículo 32
+
+Artículo 32. Supuestos de no sujeción.
+Además de los supuestos determinados en el artículo 6 de esta Ley, no estará sujeta al Impuesto sobre Productos Intermedios, la fabricación de estos productos con las denominaciones de origen Moriles-Montilla, Tarragona, Priorato y Terra Alta, cuando la adición de alcohol se efectúe en una cuantía tal que su grado alcohólico volumétrico adquirido no aumente en más del 1 % vol., siempre que tal fabricación se realice con cumplimiento de las condiciones que se establezcan reglamentariamente.
+
+### Artículo 33
+
+Artículo 33. Base imponible.
+La base estará constituida por el volumen de productos comprendidos dentro del ámbito objetivo de este impuesto, expresado en hectolitros de producto acabado a la temperatura de 20 ºC.
+
+### Artículo 34
+
+Artículo 34. Tipo impositivo.
+Sin perjuicio de lo dispuesto en el artículo 23, el Impuesto se exigirá a los siguientes tipos impositivos:
+1. Productos intermedios con un grado alcohólico volumétrico adquirido no superior al 15 por 100 vol.: 38,48 euros por hectolitro.
+2. Los demás productos intermedios: 64,13 euros por hectolitro.
+Se modifica por el art. 5.2 del Real Decreto-ley 3/2016, de 2 de diciembre. Ref. BOE-A-2016-11475#a5.
+ Se modifica por el art. 1.2 del Real Decreto-ley 7/2013, de 28 de junio. Ref. BOE-A-2013-7062.
+ Se modifica por el art. 2.3 del Real Decreto-ley 12/2005, de 16 de septiembre. Ref. BOE-A-2005-15422
+ Se modifica, con efectos a partir del 1 de enero de 2005, por el art. 65.3 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+ Se modifica, con efectos a partir del 1 de enero de 2002, por el art. 65.2 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964
+ Se modifica, con efectos a partir del 1 de enero de 1998, por el art. 71.2 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052
+ Se modifica, con efectos a partir del 1 de enero de 1997, por el art. 65.2 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116
+ Se modifica por el art. 30.2 del Real Decreto-ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Se modifica, con efectos a partir del 1 de enero de 1995, por el art. 80.2 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+ Se modifica, con efectos a partir del 1 de enero de 1994, por el art. 77.2 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087
+
+### Artículo 35
+
+Artículo 35. Infracciones y sanciones.
+Constituyen infracciones tributarias graves:
+a) La existencia de diferencias en más en relación con el grado alcohólico volumétrico adquirido del vino o las bebidas fermentadas en existencias en una fábrica de productos intermedios o utilizados en la misma.
+La sanción consistirá en multa pecuniaria proporcional del 100 por ciento de la cuota que correspondería a la diferencia expresada en hectolitros de alcohol puro, aplicando el tipo impositivo establecido para el Impuesto sobre el Alcohol y Bebidas Derivadas.
+b) La existencia de diferencias en menos en relación con el grado alcohólico volumétrico adquirido de los productos intermedios en proceso de fabricación, en existencias en fábrica o salidos de ella.
+La sanción consistirá en multa pecuniaria proporcional del 100 por ciento de la cuota que correspondería a la diferencia expresada en hectolitros de alcohol puro, aplicando el tipo impositivo establecido para el Impuesto sobre el Alcohol y Bebidas Derivadas.
+c) La existencia de diferencia en más en primeras materias, distintas del alcohol y las bebidas derivadas, en fábricas de productos intermedios, que excedan de los porcentajes autorizados reglamentariamente.
+La sanción consistirá en multa pecuniaria proporcional del 100 por ciento de la cuota que correspondería a los productos intermedios a cuya fabricación fuesen a destinarse las primeras materias, presumiéndose que, salvo prueba en contrario, los productos intermedios a que iban a destinarse tendrían un grado alcohólico volumétrico adquirido superior al 15 por ciento vol.
+Se modifica por la disposición final 6.2 de la Ley 58/2003, de 17 de diciembre. Ref. BOE-A-2003-23186
+ Se modifican las letras a) y c) por el art. 6.3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+## Capítulo VI
+
+CAPÍTULO VI
+Impuesto sobre el Alcohol y Bebidas Derivadas
+
+### Artículo 36
+
+Artículo 36. Ambito objetivo.
+El ámbito objetivo del Impuesto sobre el Alcohol y Bebidas Derivadas estará integrado por:
+a) Todos los productos con un grado alcohólico volumétrico adquirido superior a 1,2 % vol. clasificados en los códigos NC 2207 y 2208, incluso cuando dichos productos formen parte de un producto clasificado en un capítulo de la nomenclatura combinada distinto del 22.
+b) Los productos clasificados en los códigos NC 2204, 2205 y 2206 con un grado alcohólico volumétrico adquirido superior al 22 % vol.
+c) El alcohol que contenga productos sólidos u otros productos vegetales en solución.
+Véase el apartado 2 de la Orden de 19 de diciembre de 1995. Ref. BOE-A-1995-27714., sobre referencia a códigos NC.
+
+### Artículo 37
+
+Artículo 37. Devengo.
+No obstante lo establecido en los artículos 7 y 11 de esta Ley, el devengo del Impuesto sobre el Alcohol y Bebidas Derivadas, con respecto al alcohol recibido en régimen suspensivo en las fábricas de productos intermedios y utilizado en la fábricación de los productos a que se refiere el artículo 32 de esta Ley, se producirá en el momento de la salida de fábrica de dichos productos intermedios, sin que el régimen suspensivo pueda continuarse mediante su introducción en otras fábricas o depósitos fiscales situados dentro del ámbito territorial interno.
+
+### Artículo 38
+
+Artículo 38. Base imponible.
+La base estará constituida por el volumen de alcohol puro, a la temperatura de 20 ºC., expresado en hectolitros, contenido en los productos objeto de impuesto.
+
+### Artículo 39
+
+Artículo 39. Tipo impositivo.
+El impuesto se exigirá al tipo de 958,94 euros por hectolitro de alcohol puro, sin perjuicio de lo dispuesto en los artículos 23, 40 y 41.
+Se modifica por el art. 5.3 del Real Decreto-ley 3/2016, de 2 de diciembre. Ref. BOE-A-2016-11475#a5.
+ Se modifica por el art. 1.3 del Real Decreto-ley 7/2013, de 28 de junio. Ref. BOE-A-2013-7062.
+ Se modifica por el art. 2.4 del Real Decreto-ley 12/2005, de 16 de septiembre. Ref. BOE-A-2005-15422
+ Se modifica, con efectos a patir del 1 de enero de 2005, por el art. 65.4 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+ Se modifica, con efectos a partir del 1 de enero de 2002, por el art. 66.2 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964
+ Se modifica por el art. 8.2 del Real Decreto-ley 12/1996, de 26 de julio. Ref. BOE-A-1996-17424
+ Se modifica por el art. 31.2 del Real Decreto-ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Se modifica, con efectos a partir del 1 de enero de 1995, por el art. 81.2 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+ Se modifica, con efectos a partir del 1 de enero de 1994, por el art. 78.2 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087
+
+### Artículo 40
+
+Artículo 40. Régimen de destilación artesanal.
+1. El régimen de destilación artesanal es un sistema simplificado de imposición por el Impuesto sobre el Alcohol y Bebidas Derivadas, al que pueden optar por acogerse, en las condiciones que reglamentariamente se determinen, los destiladores artesanales. Serán de aplicación a este régimen, en tanto no se opongan a lo establecido en este artículo, las disposiciones de los capítulos I, II y VI del Título primero de esta Ley.
+2. Tributación de las bebidas obtenidas.
+Las bebidas obtenidas en régimen de destilación artesanal estarán sometidas a las tarifas siguientes:
+a) Tarifa primera del régimen de destilación artesanal.
+1º. Hecho imponible. Está sujeta a esta tarifa la capacidad de utilización de los aparatos de destilación.
+2º. Devengo. El impuesto se devengará en el momento en que se solicite ante la Administración tributaria la correspondiente autorización para destilar.
+3º. Sujeto pasivo. Será sujeto pasivo, en calidad de contribuyente, el destilador artesanal.
+4º. Base imponible. La base imponible, expresada en hectolitros de alcohol puro, estará constituida por el resultado de multiplicar el número de litros que expresa la capacidad de la caldera del aparato de destilación por el coeficiente 0,016, por el grado alcohólico volumétrico adquirido de la primera materia que se va a destilar -expresado en tanto por uno- y por el número de días para los que se solicita la autorización para destilar.
+5.º Tipo de gravamen. El impuesto se exigirá al tipo de 839,15 euros por hectolitro de alcohol puro. Cuando el impuesto sea exigible en Canarias, el tipo será de 653,34 euros por hectolitro de alcohol puro. Lo dispuesto en este número se entiende sin perjuicio de lo establecido en el artículo 41.
+b) Tarifa segunda del régimen de destilación artesanal.
+1º. Hecho imponible. Estará sujeta a esta tarifa la fabricación de bebidas derivadas por destilación directa intermitente, efectuada por un destilador artesanal al amparo de este régimen, en cantidad que exceda de la que constituye la base imponible de su tarifa primera.
+2º. Devengo. El impuesto se devengará en el momento de la fabricación de las bebidas derivadas objeto de esta tarifa.
+3º. Sujeto pasivo. Será sujeto pasivo, en calidad de contribuyente, el destilador artesanal.
+4º. Base imponible. Estará constituida por el número de hectolitros de alcohol puro que exceda de la base imponible de la tarifa primera de este régimen.
+5.º Tipo de gravamen. El impuesto se exigirá al tipo de 839,15 euros por hectolitro de alcohol puro. Cuando el impuesto sea exigible en Canarias, el tipo será de 653,34 euros por hectolitro de alcohol puro. Lo dispuesto en este número se entiende sin perjuicio de lo establecido en el artículo 41.
+3. Devolución del impuesto.
+No obstante lo establecido en el apartado 5 del artículo 15 de esta Ley, los destiladores artesanales podrán destinar las bebidas por ellos producidas a otras fábricas de bebidas derivadas, teniendo derecho en estos supuestos a la devolución de las cuotas satisfechas correspondientes, siempre que se cumplan los requisitos establecidos reglamentariamente.
+4. Introducción de bebidas derivadas fabricadas en otros Estados miembros por pequeños destiladores.
+El tipo aplicable en relación con las bebidas derivadas fabricadas por productores independientes situados en otros Estados miembros que obtienen una producción anual que no exceda de 10 hectolitros de alcohol puro, será de 839,15 euros por hectolitro de alcohol puro. Cuando el impuesto sea exigible en Canarias, el tipo será de 653,34 euros por hectolitro de alcohol puro.
+5. Infracciones y sanciones.
+a) Constituirá infracción tributaria grave la utilización en el proceso de destilación de primeras materias con una graduación alcohólica superior a la declarada en la solicitud de autorización para destilar. La multa que se impondrá como sanción por esta infracción se determinará por el procedimiento establecido en la letra a) del artículo 35 y tendrá una cuantía mínima de 1.202,02 euros.
+b) La comisión repetida de infracciones tributarias graves o de aquellas infracciones que se penalizan con las sanciones especiales a que se refiere el artículo 45 de esta Ley, podrá sancionarse, además, con la prohibición de disfrutar del régimen de destilaciones artesanales, temporal o definitivamente.
+Se modifican los apartados 2.a).5º, 2.b).5º y 4 por el art. 5.4 del Real Decreto-ley 3/2016, de 2 de diciembre. Ref. BOE-A-2016-11475#a5.
+ Se modifican los apartados 2.a).5º, 2.b).5º y 4 por el art. 1.4 del Real Decreto-ley 7/2013, de 28 de junio. Ref. BOE-A-2013-7062.
+ Se modifican los apartados 2.a).5º, 2.b).5º y 4 por el art. 2.5 del Real Decreto-ley 12/2005, de 16 de septiembre. Ref. BOE-A-2005-15422
+ Se modifican los apartados 2.a).5º, 2.b).5º y 4, con efectos a partir del 1 de enero de 2005, por el art. 65.5 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+ Se modifican los apartados 2.a).5º, 2.b).5º y 4, con efectos a partir del 1 de enero de 2002, por el art. 66.3 y 4 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964
+ Se convierte a euros la cuantía contemplada en el apartado 5 por el apartado 5 y anexo de la Resolución de 20 de noviembre de 2001. Ref. BOE-A-2001-22447
+ Redactado el título conforme a la corrección de errores publicada en BOE núm. 2, de 2 de enero de 2002. Ref. BOE-A-2002-36
+ Se modifican los apartados 2.a).5º, 2.b).5º y 4 por el art. 8.3.a) y b) del Real Decreto-Ley 12/1996, de 26 de julio. Ref. BOE-A-1996-17424
+ Se modifican los apartados 2.a).5º, 2.b).5º y 4 por el art. 3.3, 4 y 5 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Se modifican los apartados 2.a).5º y 2.b).5º, con efectos a partir del 1 de enero de 1995, por el art. 81.3 y 4 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+ Se modifican los apartados 2.a).5º y 2.b).5º, con efectos a partir del 1 de enero de 1994, por el art. 78.3 y 4 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087
+
+### Artículo 41
+
+Artículo 41. Régimen de cosechero.
+Cuando las bebidas derivadas obtenidas en régimen de destilación artesanal se destinen directamente desde fábrica al consumo de los cosecheros, en la forma y con las condiciones que se establezcan reglamentariamente, el tipo impositivo aplicable será de 226,36 euros por hectolitro de alcohol puro. Cuando el impuesto sea exigible en Canarias, el tipo aplicable será de 175,40 euros por hectolitro de alcohol puro. La aplicación de estos tipos se limitará a la cantidad de bebida equivalente a 16 litros de alcohol puro por cosechero y año.
+Se modifica por el art. 5.5 del Real Decreto-ley 3/2016, de 2 de diciembre. Ref. BOE-A-2016-11475#a5.
+ Se modifica por el art. 1.5 del Real Decreto-ley 7/2013, de 28 de junio. Ref. BOE-A-2013-7062.
+ Se modifica por el art. 2.6 del Real Decreto-ley 12/2005, de 16 de septiembre. Ref. BOE-A-2005-15422
+ Se modifica, con efectos a patir del 1 de enero de 2005, por el art. 65.6 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+ Se modifica, con efectos a partir del 1 de enero de 2002, por el art. 66.5 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964
+ Se modifica por el art. 8.4 del Real Decreto-ley 12/1996, de 26 de julio. Ref. BOE-A-1996-17424
+ Se modifica por el art. 31.6 del Real Decreto-ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Se modifica, con efectos a partir del 1 de enero de 1995, por el art. 81.5 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+
+### Artículo 42
+
+Artículo 42. Exenciones.
+Estarán exentas, en las condiciones que reglamentariamente se establezcan, además de las operaciones a que se refieren los artículos 9 y 21, las siguientes:
+1. La fabricación e importación de alcohol que se destine a ser totalmente desnaturalizado, así como la importación de alcohol totalmente desnaturalizado, de acuerdo con el procedimiento que se establezca reglamentariamente o, en los supuestos de circulación intracomunitaria, de acuerdo con las disposiciones de otro Estado miembro de la Unión Europea.
+2. La fabricación e importación de alcohol que se destine a ser parcialmente desnaturalizado, así como la importación de alcohol parcialmente desnaturalizado, mediante el procedimiento que se establezca reglamentariamente, para ser posteriormente utilizado en un fin previamente autorizado distinto del consumo humano por ingestión.
+3. En los supuestos contemplados en los apartados anteriores, el beneficio de la exención quedará condicionado al cumplimiento de las obligaciones en materia de circulación y a la justificación del uso o destino dado al alcohol desnaturalizado.
+4. La fabricación e importación de alcohol que se destine a la fabricación de medicamentos a que se refieren la Directiva 2001/82/CE del Parlamento Europeo y del Consejo, de 6 de noviembre de 2001, por la que se establece un código comunitario sobre medicamentos veterinarios y la Directiva 2001/83/CE del Parlamento Europeo y del Consejo, de 6 de noviembre de 2001, por la que se establece un código comunitario sobre medicamentos para uso humano.
+5. La fabricación e importación de alcohol que se destine a su utilización en centros de atención médica.
+6. La importación de productos clasificados en un capítulo de la nomenclatura combinada distinto del 22 que contengan productos objeto del impuesto, cuando a su fabricación dentro del ámbito territorial interno le sea aplicable alguno de los supuestos de exención o de devolución establecidos en esta Ley.
+7. La fabricación de alcohol en centros oficialmente reconocidos, con fines exclusivamente docentes o científicos, siempre que no salga de los mismos.
+8. La fabricación e importación de alcohol que se destine, previa la correspondiente autorización, a la investigación científica.
+Se modifican los apartados 1 y 4 por el art. 40.15 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se modifica el apartado 6 por el art. único. 4 de la Ley 40/1995, de 19 de diciembre. Ref. BOE-A-1995-27373
+
+### Artículo 43
+
+Artículo 43. Devoluciones.
+Además de en los supuestos previstos en los artículos 10 y 22, se reconocerá el derecho a la devolución del Impuesto, en las condiciones que reglamentariamente se determinen, en los supuestos de utilización de alcohol en procesos de fabricación en los que no sea posible la utilización de alcohol desnaturalizado y siempre que el alcohol no se incorpore al producto resultante del proceso.
+Se modifica por el art. 18.2 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+
+### Artículo 44
+
+Artículo 44. Normas particulares de gestión.
+1. Queda prohibido el uso de aparatos portátiles para la fabricación de alcohol.
+2. Tendrán la consideración de artículos prohibidos, a efectos de lo previsto en el artículo 3 de la Ley Orgánica 7/1982, de 13 de julio, los aparatos aptos para la destilación o rectificación de alcohol, cuando no se cumplan los requisitos establecidos reglamentariamente para su fabricación, comercio, circulación y tenencia.
+3. No obstante lo establecido en el apartado 7 del artículo 15, la circulación y tenencia de especialidades farmacéuticas y de productos clasificados en un capítulo de la nomenclatura combinada distinto del 22, que contengan alcohol total o parcialmente desnaturalizado o alcohol que les haya sido incorporado con aplicación de alguno de los supuestos de exención o devolución previstos en los artículos 22 y 42, no estarán sometidas al cumplimiento de requisito formal alguno en relación con el impuesto.
+Se modifica el apartado 3 por el art. único.5 de la Ley 40/1995, de 19 de diciembre. Ref. BOE-A-1995-27373
+
+### Artículo 45
+
+Artículo 45. Infracciones y sanciones.
+1. En los supuestos que a continuación se indican, que tendrán el carácter de infracciones tributarias graves, se impondrán las sanciones especiales que para cada uno se detallan:
+a) La puesta en funcionamiento de los aparatos productores de alcohol incumpliendo los trámites reglamentariamente establecidos o expirado el plazo de trabajo declarado, se sancionará con multa pecuniaria proporcional del 150 por ciento de la cuota que resultaría de aplicar el tipo impositivo vigente en el momento del descubrimiento de la infracción al volumen de producción, expresado en hectolitros de alcohol puro a la temperatura de 20 oC, que pudiera obtenerse en trabajo ininterrumpido desde que expiró la última declaración de trabajo, si la hubiera, hasta la fecha del descubrimiento, con un máximo de tres meses.
+b) La rotura de precintos que posibilite el funcionamiento de los aparatos productores de alcohol o su extracción de depósitos precintados, se sancionará con multa pecuniaria proporcional del 100 por ciento de las cuotas calculadas según el apartado anterior o de la correspondiente a la capacidad total del depósito, respectivamente, salvo que de dicha rotura se haya dado conocimiento a la Administración con anterioridad a su descubrimiento por ésta.
+c) Las diferencias en más en primeras materias en fábricas de alcohol que excedan de los porcentajes autorizados reglamentariamente, se sancionarán con multa pecuniaria proporcional del 100 por ciento de la cuota que correspondería al alcohol puro que se pudiera fabricar utilizando dichas primeras materias.
+d) La falta de marcas fiscales o de reconocimiento, superior al 0,5 por 1.000 de las utilizadas, en los recuentos efectuados en los establecimientos autorizados para el embotellado de bebidas derivadas, se sancionará con multa pecuniaria proporcional del 150 por ciento de las cuotas que resultarían de aplicar el tipo impositivo vigente en el momento del descubrimiento de la infracción al volumen de alcohol puro correspondiente a la cantidad de bebidas derivadas cuya circulación pudiese haber sido amparada por dichas marcas, supuestas las bebidas con un grado alcohólico volumétrico adquirido de 40 por ciento vol. y embotelladas en los envases de mayor capacidad según tipo de marca.
+2. La regeneración de alcoholes total o parcialmente desnaturalizados constituirá infracción tributaria grave que se sancionará, sin perjuicio de la exigencia de la cuota tributaria, con multa pecuniaria proporcional del triple de la cuantía resultante de aplicar al volumen de alcohol regenerado, expresado en hectolitros de alcohol puro, a la temperatura de 20ºC, el tipo impositivo vigente en el momento del descubrimiento de la infracción, pudiendo imponerse, además, la sanción del cierre del establecimiento en que se produjo dicha regeneración, de acuerdo con lo previsto en el apartado 4 del artículo 19 de esta ley. Se considerará que el alcohol total o parcialmente desnaturalizado ha sido regenerado cuando no se justifique su uso o destino.
+Se modifica por la disposición final 6.3 de la Ley 58/2003, de 17 de diciembre. Ref. BOE-A-2003-23186
+
+## Capítulo VII
+
+CAPÍTULO VII
+Impuesto sobre Hidrocarburos
+
+### Artículo 46
+
+Artículo 46. Ambito objetivo.
+1. A los efectos de esta Ley, se incluyen en el ámbito objetivo del Impuesto sobre Hidrocarburos los siguientes productos:
+a) Los productos clasificados en los códigos NC 2705, 2706, 2707, 2709, 2710, 2711, 2712 y 2715.
+b) Los productos clasificados en los códigos NC 2901 y 2902.
+c) Los productos clasificados en el código NC 3403.
+d) Los productos clasificados en el código NC 3811.
+e) Los productos clasificados en el código NC 3817.
+f) El alcohol etílico producido a partir de productos agrícolas o de origen vegetal clasificado en el código NC 2207.20.00, cuando se destine a un uso como carburante, como tal o previa modificación o transformación química.
+g) Los productos que se indican a continuación cuando se destinen a un uso como combustible o como carburante:
+1.º El alcohol metílico clasificado en el código NC 2905.11.00 y obtenido a partir de productos de origen agrícola o vegetal, ya se utilice como tal o previa modificación o transformación química.
+2.º Los productos clasificados en los códigos NC 1507 a 1518, ya se utilicen como tales o previa modificación o transformación química, incluidos los productos clasificados en los códigos NC 2710.20, 3826.00.10 y 3826.00.90 obtenidos a partir de aquellos.
+2. Estarán también incluidos en el ámbito objetivo del impuesto los productos no comprendidos en el apartado anterior destinados a ser utilizados como carburante, como aditivos para carburantes o para aumentar el volumen final de determinados carburantes.
+3. Se comprenderán, igualmente, en el ámbito objetivo del impuesto aquellos hidrocarburos no previstos en el apartado 1 -a excepción del carbón, el lignito, la turba u otros hidrocarburos sólidos- destinados a ser utilizados como combustibles.
+Se actualizan las referencias al código NC del apartado 1.g) 2º por el art. único.1 de la Orden EHA/3567/2011, de 19 de diciembre. Ref. BOE-A-2011-20543.
+ Esta actualización surte efectos desde el 1 de enero de 2012, según establece la disposición final única.
+ Se actualiza la última referencia al código NC del apartado 1.g) 2º por el art. único de la Orden EHA/12/2008, de 10 de enero. Ref. BOE-A-2008-748.
+ Esta actualización surte efectos desde el 1 de enero de 2008, según establece la disposición final única.
+ Se actualiza la última referencia al código NC del apartado 1.g) 2º por el art. 12 de la Orden EHA/3929/2006, de 21 de diciembre. Ref. BOE-A-2006-22695.
+ Se modifica por el art. 2.2 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+ Se modifica el apartado 1 por el art. único.6 de la Ley 40/1995, de 19 de diciembre. Ref. BOE-A-1995-27373
+ Se añade un párrafo al apartado 1 por el art. único.1 del Real Decreto-Ley 13/1993, de 4 de agosto. Ref. BOE-A-1993-20608
+
+### Artículo 47
+
+Artículo 47. Supuestos de no sujeción.
+1. No estarán sujetas al impuesto las operaciones de autoconsumo que impliquen:
+a) La utilización de hidrocarburos que se encuentren en régimen suspensivo, en usos distintos de los de carburante o combustible.
+b) La utilización de hidrocarburos como combustible en el proceso de fabricación, en régimen suspensivo, de hidrocarburos.
+2. Los hidrocarburos ya puestos a consumo en el ámbito territorial comunitario no interno contenidos en los depósitos normales de vehículos automóviles comerciales y destinados a ser utilizados como carburantes de dichos vehículos, así como los contenidos en contenedores especiales y destinados al funcionamiento de los sistemas que equipan dichos contenedores en el curso del transporte, no estarán sometidos al Impuesto sobre Hidrocarburos en el ámbito territorial interno. A efectos de este precepto y de los apartados 5 y 6 del artículo 51, se consideran:
+a) "Depósitos normales":
+- Los depósitos fijados de manera permanente por el constructor en todos los medios de transporte del mismo tipo que el medio de transporte considerado y cuya disposición permanente permita el uso directo del carburante, tanto para la tracción de los vehículos como, en su caso, para el funcionamiento, durante el transporte, de los sistemas de refrigeración u otros sistemas. Se consideran igualmente como depósitos normales los depósitos de gas adaptados a medios de transporte que permitan la utilización directa del gas como carburante, así como los depósitos adaptados a otros sistemas de los que pueda estar equipado el medio de transporte.
+- Los depósitos fijados de manera permanente por el constructor en todos los contenedores del mismo tipo que el contenedor de que se trate y cuya disposición permanente permita el uso directo del carburante para el funcionamiento, durante el transporte, de los sistemas de refrigeración u otros sistemas de los que estén equipados los contenedores para usos especiales.
+b) "Contenedores especiales": los contenedores equipados de dispositivos especialmente adaptados para los sistemas de refrigeración, oxigenación, aislamiento térmico u otros sistemas.
+Se modifica por el art. único.7 de la Ley 40/1995, de 19 de diciembre. Ref. BOE-A-1995-27373
+ Se modifica por el art. único.2 del Real Decreto-Ley 13/1993, de 4 de agosto. Ref. BOE-A-1993-20608
+
+### Artículo 48
+
+Artículo 48. Base imponible.
+1. La base del impuesto estará constituida por el volumen de productos objeto del impuesto, expresados en miles de litros a la temperatura de 15 Grad. C. Sin embargo, para aquellos productos cuyo tipo impositivo se establece por referencia a unidades de peso o de energía, la base estará constituida por el peso del producto expresado en toneladas métricas, o por su poder energético expresado en gigajulios (GJ).
+2. La determinación del volumen en función de la temperatura se efectuará mediante las tablas de la Organización Internacional de Nomenclatura con la referencia ISO 91/1-1982.
+
+### Artículo 49
+
+Artículo 49. Conceptos y definiciones.
+1. A los efectos de este impuesto, se establecen las siguientes definiciones:
+a) Gasolina con plomo: los productos clasificados, con independencia de su destino, en los códigos NC 2710.12.31, 2710.12.51 y 2710.12.59.
+b) Gasolina sin plomo: los productos clasificados, con independencia de su destino, en los códigos NC 2710.12.41, 2710.12.45 y 2710.12.49.
+c) Los demás aceites ligeros: los productos clasificados en los códigos NC 2710.12.11 a 2710.12.90 que no sean gasolina con plomo o gasolina sin plomo. Cuando se trate de productos clasificados en los códigos NC 2710.12.21 y 2710.12.25, las disposiciones que se derivan de su inclusión en este apartado sólo serán aplicables a los movimientos comerciales al por mayor.
+d) Queroseno: los productos clasificados en los códigos NC 2710.19.21 y 2710.19.25.
+e) Los demás aceites medios: los productos clasificados en los códigos NC 2710.19.11 a 2710.19.29 que no sean queroseno. Cuando se trate de productos clasificados en el código NC 2710.19.29, las disposiciones que se derivan de su inclusión en este apartado solo serán aplicables a los movimientos comerciales al por mayor.
+f) Gasóleo: los productos clasificados en los códigos NC 2710.19.31 a 2710.19.48 y 2710.20.11 a 2710.20.19.
+g) Fuelóleo: los productos clasificados en los códigos NC 2710.19.51 a 2710.19.68 y 2710.20.31 a 2710.20.39.
+h) Gas licuado de petróleo (GLP): los productos clasificados en los códigos NC 2711.12.11 a 2711.19.00.
+i) Gas natural: los productos clasificados en los códigos NC 2711.11.00 y 2711.21.00.
+j) Bioetanol: los productos a que se refiere el artículo 46.1.f).
+k) Biometanol: los productos a que se refiere el artículo 46.1.g).1.º
+l) Biodiesel: los productos a que se refiere el artículo 46.1.g).2.º
+m) Biocarburantes: el biometanol y el biodiesel, cuando se utilicen como carburantes, y el bioetanol.
+n) Biocombustibles: el biometanol y el biodiesel cuando se utilicen como combustibles.
+ñ) Otros hidrocarburos sometidos a control: los productos clasificados en los códigos NC 2707.10, 2707.20, 2707.30, 2707.50, 2901.10, 2902.20, 2902.30, 2902.41, 2902.42, 2902.43 y 2902.44.
+o) Se considerará definido en este artículo cualquier otro producto al que, de acuerdo con lo dispuesto en el artículo 20.2 de la Directiva 2003/96/CE del Consejo, de 27 de octubre de 2003, por la que se reestructura el régimen comunitario de imposición de los productos energéticos y de la electricidad, resulten de aplicación las disposiciones de control y circulación previstas en la Directiva 2008/118/CE, del Consejo, de 16 de diciembre de 2008, relativa al régimen general de los impuestos especiales, y por la que se deroga la Directiva 92/12/CEE.
+2. A efectos de este impuesto se considerará:
+a) Uso como carburante: la utilización de un producto comprendido en el ámbito objetivo del Impuesto sobre Hidrocarburos con fines de combustión en cualquier tipo de motor.
+b) Uso como combustible: la utilización de un hidrocarburo mediante combustión con fines de calefacción, que no constituya uso como carburante.
+Se actualizan las referencias a los códigos NC letras a), b), c), f) y g) del apartado 1 por el art. único.2 de la Orden EHA/3567/2011, de 19 de diciembre. Ref. BOE-A-2011-20543.
+ Esta actualización surte efectos desde el 1 de enero de 2012, según establece la disposición final única.
+ Se modifica el apartado 1.o) por el art. 3.13 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+ Se modifica el apartado 1 por el art. 2.3 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+ Se actualizan las referencias a los códigos NC letras a) a g) del apartado 1 por el apartado 1 de la Orden de 28 de diciembre de 2001. Ref. BOE-A-2002-209.
+ Se modifica por el art. único.8 de la Ley 40/1995, de 19 de diciembre. Ref. BOE-A-1995-27373
+ Se actualizan las referencias a los códigos NC de los apartados 1, 2 y 4 por el apartado 1 de la Orden de 22 de febrero de 1993. Ref. BOE-A-1993-6360.
+
+### Artículo 50
+
+Artículo 50. Tipos impositivos.
+1. El tipo de gravamen aplicable se formará mediante la suma del tipo general y del tipo especial. Para los epígrafes en los que no se determinen un tipo general y un tipo especial, el tipo de gravamen será el establecido en el epígrafe. Dichos tipos son los que se indican en las tarifas y epígrafes que figuran a continuación:
+Tarifa 1.ª:
+Epígrafe 1.1 Gasolinas con plomo: 433,79 euros por 1.000 litros de tipo general y 72 euros por 1.000 litros de tipo especial.
+Epígrafe 1.2.1 Gasolinas sin plomo de 98 I.O. o de octanaje superior: 431,92 euros por 1.000 litros de tipo general y 72 euros por 1.000 litros de tipo especial.
+Epígrafe 1.2.2 Las demás gasolinas sin plomo: 400,69 euros por 1.000 litros de tipo general y 72 euros por 1.000 litros de tipo especial.
+Epígrafe 1.3 Gasóleos para uso general: 307 euros por 1.000 litros de tipo general y 72 euros por 1.000 litros de tipo especial.
+Epígrafe 1.4 Gasóleos utilizables como carburante en los usos previstos en el apartado 2 del artículo 54 y, en general, como combustible: 78,71 euros por 1.000 litros de tipo general y 18 euros por 1.000 litros de tipo especial.
+Epígrafe 1.5 Fuelóleos: 14 euros por tonelada de tipo general y 3 euros por tonelada de tipo especial.
+Epígrafe 1.6 GLP para uso general: 57,47 euros por tonelada.
+Epígrafe 1.8 GLP destinados a usos distintos a los de carburante: 15 euros por tonelada.
+Epígrafe 1.9 Gas natural para uso general: 1,15 euros por gigajulio.
+Epígrafe 1.10.1 Gas natural destinado a usos distintos a los de carburante, así como el gas natural destinado al uso como carburante en motores estacionarios: 0,65 euros por gigajulio.
+Epígrafe 1.10.2 Gas natural destinado a usos con fines profesionales siempre y cuando no se utilicen en procesos de cogeneración y generación directa o indirecta de energía eléctrica: 0,15 euros por gigajulio.
+A efectos de lo previsto en este Epígrafe se considera gas natural destinado a usos con fines profesionales los suministros de gas natural efectuados para su consumo en plantas e instalaciones industriales, con exclusión del que se utilice para producir energía térmica útil cuyo aprovechamiento final se produzca en establecimientos o locales que no tengan la condición de plantas o instalaciones industriales. Asimismo, tendrá la consideración de gas natural destinado a usos con fines profesionales el gas natural utilizado en cultivos agrícolas.
+Epígrafe 1.11 Queroseno para uso general: 306 euros por 1.000 litros de tipo general y 72 euros por 1.000 litros de tipo especial.
+Epígrafe 1.12 Queroseno destinado a usos distintos de los de carburante: 78,71 euros por 1.000 litros.
+Epígrafe 1.13 Bioetanol y biometanol para uso como carburante:
+a) Bioetanol y biometanol mezclado con gasolinas sin plomo de 98 I.O. o de octanaje superior: 431,92 euros por 1.000 litros de tipo general y 72 euros por 1.000 litros de tipo especial.
+b) Bioetanol y biometanol, mezclado con las demás gasolinas sin plomo o sin mezclar: 400,69 euros por 1.000 litros de tipo general y 72 euros por 1.000 litros de tipo especial.
+Epígrafe 1.14 Biodiésel para uso como carburante: 307 euros por 1.000 litros de tipo general y 72 euros por 1.000 litros de tipo especial.
+Epígrafe 1.15 Biodiésel para uso como carburante en los usos previstos en el apartado 2 del artículo 54 y, en general, como combustible, y biometanol para uso como combustible: 78,71 euros por 1.000 litros de tipo general y 18 euros por 1.000 litros de tipo especial.
+Epígrafe 1.16 (Suprimido).
+Epígrafe 1.17 (Suprimido).
+Téngase en cuenta que, durante los meses de julio, agosto y septiembre de 2026, los tipos impositivos regulados en la Tarifa 1.ª del apartado 1 serán los que establecen los arts. 5, 6 y 7, respectivamente, del Real Decreto-ley 18/2026, de 29 de junio. Ref. BOE-A-2026-14112#a5
+Tarifa 2.ª:
+Epígrafe 2.1. Alquitranes de hulla y demás productos clasificados en el código NC 2706: el tipo establecido para el epígrafe 1.5.
+Epígrafe 2.2. Benzoles y demás productos clasificados en los códigos NC 2707.10, 2707.20, 2707.30 y 2707.50: el tipo establecido para el epígrafe 1.1.
+Epígrafe 2.3. Aceites de creosota clasificados en el código NC 2707.91.00: el tipo establecido para el epígrafe 1.5.
+Epígrafe 2.4. Aceites brutos y demás productos clasificados en el código NC 2707 y no comprendidos en los epígrafes 2.2 y 2.3: el tipo establecido para el epígrafe 1.5.
+Epígrafe 2.5. Aceites crudos condensados de gas natural, clasificados en el código NC 2709, para uso general: el tipo establecido para el epígrafe 1.11.
+Epígrafe 2.6. Aceites crudos condensados de gas natural, clasificados en el código NC 2709, destinados a usos distintos a los de carburante: el tipo establecido para el epígrafe 1.12.
+Epígrafe 2.7. Los demás productos clasificados en el código NC 2709: el tipo establecido para el epígrafe 1.5.
+Epígrafe 2.8 Gasolinas especiales y demás productos clasificados, con independencia de su destino, en los códigos NC 2710.12.11, 2710.12.15, 2710.12.21, 2710.12.25, 2710.12.70 y 2710.12.90: el tipo establecido para el epígrafe 1.1.
+Epígrafe 2.9. Aceites medios distintos de los querosenos clasificados, con independencia de su destino, en los códigos NC 2710.19.11, 2710.19.15 y 2710.19.29, para uso general: el tipo establecido para el epígrafe 1.11.
+Epígrafe 2.10. Aceites medios distintos de los querosenos clasificados, con independencia de su destino, en los códigos NC 2710.19.11, 2710.19.15 y 2710.19.29 y destinados a usos distintos a los de carburante: el tipo establecido para el epígrafe 1.12.
+Epígrafe 2.11 Aceites pesados y preparaciones clasificados, con independencia de su destino, en los códigos NC 2710.19.71, 2710.19.75, 2710.19.81, 2710.19.83, 2710.19.85, 2710.19.87, 2710.19.91, 2710.19.93, 2710.19.99 y 2710.20.90: el tipo establecido para el epígrafe 1.5.
+Epígrafe 2.12. Hidrocarburos gaseosos clasificados en el código NC 2711.29.00 y productos clasificados en el código NC 2705, para uso general: el tipo establecido para el epígrafe 1.9.
+Epígrafe 2.13.1 Hidrocarburos gaseosos clasificados en el código NC 2711.29.00 y productos clasificados en el código NC 2705, así como el biogás, destinados a usos distintos a los de carburante, o a usos como carburante en motores estacionarios: el tipo establecido para el epígrafe 1.10.1.
+Epígrafe 2.13.2 Hidrocarburos gaseosos clasificados en el código NC 2711.29.00 y productos clasificados en el código NC 2705, así como el biogás, destinados a usos con fines profesionales siempre y cuando no se utilicen en procesos de generación y cogeneración eléctrica: el tipo establecido para el epígrafe 1.10.2.
+Para la aplicación de estos dos últimos epígrafes se considera "biogás" el combustible gaseoso producido a partir de la biomasa y/o a partir de la fracción biodegradable de los residuos y que puede ser purificado hasta alcanzar una calidad similar a la del gas natural, para uso como biocarburante, o el gas producido a partir de madera.
+Epígrafe 2.14. Vaselina y demás productos clasificados en el código NC 2712: el tipo establecido para el epígrafe 1.5.
+Epígrafe 2.15. Mezclas bituminosas clasificadas en el código NC 2715: el tipo establecido para el epígrafe 1.5.
+Epígrafe 2.16. Hidrocarburos de composición química definida, incluidos en el ámbito objetivo del impuesto y clasificados en los códigos NC 2901 y 2902: el tipo establecido para el epígrafe 1.1.
+Epígrafe 2.17. Preparaciones clasificadas en el código NC 3403: el tipo establecido para el epígrafe 1.5.
+Epígrafe 2.18. Preparaciones antidetonantes y aditivos clasificados en el código NC 3811: el tipo establecido para el epígrafe 1.1.
+Epígrafe 2.19. Mezclas de alquilbencenos y mezclas de alquilnaftalenos clasificadas en el código NC 3817: el tipo establecido para el epígrafe 1.5.
+Epígrafe 2.20 Desechos de aceites clasificados en los códigos NC 2710.91.00 y 2710.99.00: el tipo establecido para el epígrafe 1.5.
+2. A los productos comprendidos en los apartados 2 y 3 del artículo 46 se les aplicarán los tipos impositivos correspondientes a aquellos hidrocarburos comprendidos en la tarifa 1ª del impuesto cuya capacidad de utilización resulte equivalente, según se deduzca del expediente de autorización de utilización a que se refiere el apartado 1 del artículo 54 de esta Ley.
+3. Sin perjuicio de lo establecido en el apartado 7 del artículo 8, la aplicación de los tipos impositivos fijados en este artículo quedará condicionada al cumplimiento de los requisitos que se hayan previsto reglamentariamente, incluidos, en su caso, la adición de trazadores y marcadores, la utilización realmente dada a los productos o el empleo de medios de pago específicos.
+4. En los suministros de gas natural a instalaciones con un único punto de suministro y destinado a ser utilizado como combustible tanto a usos profesionales, como a otros usos, se aplicarán los tipos impositivos regulados en los epígrafes 1.10.1 y 1.10.2 del apartado 1 de este artículo en función del porcentaje utilizado en cada uno de los distintos usos, conforme al procedimiento que se establezca reglamentariamente.
+Véanse los arts. 5, 6 y 7 del Real Decreto-ley 18/2026, de 29 de junio, por los que se modifican los tipos impositivos regulados en la Tarifa 1.ª del apartado 1, durante los meses de julio, agosto y septiembre de 2026, respectivamente. Ref. BOE-A-2026-14112#a5
+ Véase el art. 38.uno del Real Decreto-ley 7/2026, de 20 de marzo, por el que se modifica la Tarifa 1.ª del apartado 1, con efectos desde el 22 de marzo de 2026 y vigencia hasta el 30 de junio de 2026. Ref. BOE-A-2026-6544#a3-10
+ Téngase en cuenta el apartado dos del citado art. 38 en cuanto a la aplicación de la modificación.
+ Se suprimen los epígrafes 1.16 y 1.17 de la Tarifa 1.ª del apartado 1 y se modifica el apartado 4 por la disposición final 1.2 y 3 del Real Decreto-Ley 15/2018, de 5 de octubre. Ref. BOE-A-2018-13593#df
+ Se modifican los apartados 3 y 4, con efectos de 1 de julio de 2018, y el primer párrafo y la Tarifa 1.ª del apartado 1, con efectos de 1 de julio de 2019, por el art. 82.1.1 y 2.2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-76
+ Se modifican los epígrafes 1.10, 2.8, 2.11, 2.13, se crea el 2.20 y se añade el apartado 4 por el art. 6.2 y 3 de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+ Se modifican los apartados 1 y 3 por el art. 28.3 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649. y la tarifa 1ª del apartado 1 por el art. 71 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651#a71.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 59, de 9 de marzo de 2013. Ref. BOE-A-2013-2602.
+ Se modifican los epígrafes 1.2.1 y 1.11 de la tarifa 1ª, con efectos desde el 1 de julio de 2012 y se da nueva redacción al art. completo con efectos desde el 1 de enero de 2013, por los arts. 71, 72 y disposición final 20.3 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se actualizan las referencias a los códigos NC de los epígrafes 2.8 y 2.9 de la tarifa 2ª del apartado 1 por el art. único.3 y 4 de la Orden EHA/3567/2011, de 19 de diciembre. Ref. BOE-A-2011-20543.
+ Esta actualización surte efectos desde el 1 de enero de 2012, según establece la disposición final única.
+ Se modifica el apartado 3 por el art. 3.14 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+ Se modifican los epígrafes 1.1 a 1.3 de la tarifa 1ª. por el art. 10 del Real Decreto-Ley 8/2009, de 12 de junio. Ref. BOE-A-2009-9836
+ Se modifica la tarifa 2ª del apartado 1, epígrafe 2.13, con efectos a partir del 1 de enero de 2008, por el art. 73 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295.
+ Se modifican los epígrafes 1.3 y 1.5 del apartado 1, con efectos a partir del 1 de enero de 2007, por el art. 68 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865
+ Se modifican los apartados 1 y 3 por el art. 2.4 y 5 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+ Se modifican los epígrafes 1.6 y 1.12 de la tarifa 1ª por el art. 6.4 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se actualizan las referencias a los códigos NC de los epígrafes 2.8 a 2.11 de la tarifa 2ª del apartado 1 por el apartado 2 de la Orden de 28 de diciembre de 2001. Ref. BOE-A-2002-209.
+ Se modifica el epígrafe 1.8 de la tarifa 1ª por el art. 4 del Real Decreto-Ley 15/1999, de 1 de octubre. Ref. BOE-A-1999-19686
+ Se modifica la tarifa 1ª del apartado 1, con efectos a partir del 1 de enero de 1999, por el art. 70 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154
+ Se modifica la tarifa 1ª del apartado 1, con efectos a partir del 1 de enero de 1998, por el art. 70 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052
+ Se modifica el epígrafe 1.2 de la tarifa 1ª, con efectos a partir del 1 de enero de 1997, por el art. 66 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116
+ Se modifica la tarifa 1ª del apartado 1 por el art. 32 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Se modifica la tarifa 1ª del apartado 1, con efectos a partir del 1 de enero de 1995, por el art. 82 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+ Se modifica el epígrafe 1.5 de la tarifa 1ª, con efectos a partir del 1 de enero de 1994, por el art. 79 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087
+ Se modifica la tarifa 1ª del apartado 1 por el art. único. 3 del Real Decreto-Ley 13/1993, de 4 de agosto. Ref. BOE-A-1993-20608
+ Se actualizan las referencias a los códigos NC de la Tarifa 2ª epígrafe 2.11 por el apartado 2 de la Orden de 22 de febrero de 1993. Ref. BOE-A-1993-6360.
+
+### Artículo 50 bis
+
+Artículo 50 bis. Tipos impositivos para biocarburantes y biocombustibles.
+1. Los biocarburantes y biocombustibles tributarán por este impuesto a los tipos impositivos establecidos en los epígrafes 1.13 a 1.15 de la tarifa 1.ª establecida en el apartado 1 del artículo 50 de esta Ley. Dichos tipos se aplicarán exclusivamente sobre el volumen de biocarburante o de biocombustible sin que puedan aplicarse sobre el volumen de otros productos con los que pudieran utilizarse mezclados.
+2. Siempre que la evolución comparativa de los costes de producción de los productos petrolíferos y de los biocarburantes y biocombustibles así lo aconseje, las Leyes de Presupuestos Generales del Estado podrán fijar el importe de los tipos impositivos previstos en los epígrafes 1.13 a 1.15 en atención a las referidas circunstancias estableciendo, en su caso, tipos de gravamen de importe positivo.
+Se modifica por el art. 2.6 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+ Se modifica el apartado 2.c) por el art. 9.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se añade por el art. 6.5 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Artículo 50 ter
+
+Artículo 50 ter. Tipo impositivo autonómico.
+(Derogado).
+Téngase en cuenta que esta derogación, establecida por el art. 82.2.1 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-76, tiene efectos desde el 1 de enero de 2019:
+ Redacción anterior:
+ "1. Las Comunidades Autónomas pueden establecer un tipo impositivo autonómico del Impuesto sobre Hidrocarburos para gravar suplementariamente los productos a los que resulten de aplicación los tipos impositivos comprendidos en los epígrafes 1.1, 1.2.1, 1.2.2, 1.3, 1.4, 1.5, 1.11, 1.13, 1.14 y 1.15 del apartado 1 del artículo 50 que se consuman en sus respectivos territorios. La aplicación del tipo impositivo autonómico se efectuará de acuerdo con lo establecido en esta Ley y con los límites y condiciones establecidos en la normativa reguladora de la financiación de las Comunidades Autónomas.
+ 2. El tipo impositivo autonómico a aplicar será el que corresponda a la Comunidad Autónoma en cuyo territorio se produzca el consumo final de los productos gravados. A efectos de lo establecido en este artículo, se entiende que los productos se consumen en el territorio de una Comunidad Autónoma cuando sean recibidos en alguno de los siguientes lugares:
+ a) Establecimientos de venta al público al por menor situados en su territorio. A estos efectos, se consideran establecimientos de venta al público al por menor los establecimientos que cuentan con instalaciones fijas para la venta al público para consumo directo de los productos y que, en su caso, están debidamente autorizadas conforme a la normativa vigente en materia de distribución de productos petrolíferos.
+ b) Establecimientos de consumo propio situados en su territorio, para ser consumidos en los mismos sin perjuicio de la aplicación, si procede, de lo establecido en el apartado 13.b) del artículo 7. A estos efectos, se consideran establecimientos de consumo propio los lugares o instalaciones en los que los productos se destinan al consumo y que cuentan con los elementos necesarios para su recepción y utilización así como, en su caso, con las autorizaciones administrativas que procedan.
+ c) Cualquier establecimiento situado en su territorio distinto de una fábrica o depósito fiscal con cualquier propósito, sin perjuicio de la aplicación, si procede, de lo establecido en el apartado 13.b) del artículo 7.
+ 3. Los sujetos pasivos a que se refiere el apartado 2.f) del artículo 8 tendrán derecho a deducir, de las cuotas que se devenguen por aplicación de lo establecido en el apartado 13.b) del artículo 7, aquellas cuotas correspondientes a la aplicación del tipo autonómico que previamente hayan soportado por repercusión o incorporadas en el precio. Cuando el importe de las cuotas deducibles exceda, en cada período impositivo, el de las devengadas, el sujeto pasivo tendrá derecho a la devolución o compensación de la diferencia en las condiciones que reglamentariamente se determinen.
+ 4. Cuando se cometa una irregularidad en el movimiento en régimen suspensivo entre el ámbito territorial comunitario no interno y el ámbito territorial interno, la responsabilidad de la persona que haya garantizado el pago, no comprenderá el pago del importe correspondiente al tipo impositivo autonómico, a menos que haya participado en la irregularidad o el delito."
+Se deroga, con efectos de 1 de enero de 2019, por el art. 82.2.1 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-76
+ Se añade, con efectos desde el 1 de enero de 2013, por la disposición final 20.4 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+
+### Artículo 51
+
+Artículo 51. Exenciones.
+Además de las operaciones a que se refiere el artículo 9 de esta Ley, estarán exentas, en las condiciones que reglamentariamente se establezcan y sin perjuicio de lo dispuesto en el apartado 4 del artículo 53, las siguientes operaciones:
+1. La fabricación e importación de gas natural y de productos incluidos en el ámbito objetivo del impuesto comprendidos en su tarifa 2.ª, que se destinen a ser utilizados en usos distintos a los de carburante o combustible.
+2. La fabricación e importación de productos incluidos en el ámbito objetivo del impuesto que se destinen a:
+a) Su utilización como carburante en la navegación aérea, con excepción de la aviación privada de recreo.
+b) Su utilización como carburante en la navegación, incluida la pesca, con excepción de la navegación privada de recreo.
+c) La producción de electricidad en centrales eléctricas o a la producción de electricidad o a la cogeneración de electricidad y de calor en centrales combinadas.
+A los efectos de la aplicación de esta exención se consideran:
+"Central eléctrica": La instalación cuya actividad de producción de energía eléctrica queda comprendida en el ámbito de aplicación de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, y cuyo establecimiento y funcionamiento hayan sido autorizados con arreglo a lo establecido en el título IV de dicha Ley.
+"Central combinada": La instalación cuya actividad de producción de electricidad o de cogeneración de energía eléctrica y calor útil para su posterior aprovechamiento energético queda comprendida en el ámbito de aplicación de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, y cuyo establecimiento y funcionamiento han sido autorizados con arreglo a lo establecido en el título IV de dicha Ley.
+La aplicación de esta exención deberá ser solicitada previamente a la oficina gestora por el titular de las centrales de producción eléctrica o de las centrales combinadas de cogeneración de electricidad y autorizada por dicha oficina.
+d) Su utilización como carburante en el transporte por ferrocarril.
+e) Su utilización en la construcción, modificación, pruebas y mantenimiento de aeronaves y embarcaciones.
+f) Su utilización en operaciones de dragado de vías navegables y puertos.
+g) Su inyección en altos hornos con fines de reducción química, añadidos al carbón que se utilice como combustible principal, incluso si de dicha inyección se deriva, secundariamente, una combustión aprovechada con fines de calefacción.
+La aplicación de la exención con respecto a la utilización de gasóleo en los supuestos a que se refiere el presente apartado 2 quedará condicionada, salvo en el supuesto de operaciones de autoconsumo sujetas, a que el gasóleo lleve incorporados los trazadores y marcadores exigidos reglamentariamente para la aplicación del tipo reducido.
+3. La fabricación o importación de biocarburantes o biocombustibles, en el campo de los proyectos piloto para el desarrollo tecnológico de productos menos contaminantes. La exención sólo alcanzará al biocarburante o al biocombustible sin que pueda aplicarse respecto de otros productos con los que pudieran utilizarse mezclados.
+A los efectos de este apartado y del artículo 52.c) de esta Ley, tendrán la consideración de «proyectos piloto para el desarrollo tecnológico de productos menos contaminantes» los proyectos de carácter experimental y limitados en el tiempo, relativos a la producción o utilización de los productos indicados y dirigidos a demostrar la viabilidad técnica o tecnológica de su producción o utilización, con exclusión de la ulterior explotación industrial de sus resultados. Podrá considerarse acreditado el cumplimiento de estas condiciones respecto de los proyectos que afecten a una cantidad reducida de productos que no exceda de la que se determine reglamentariamente.
+4. La fabricación e importación de los productos clasificados en el código NC 2705 y del biogás, que se destinen a la producción de electricidad o a la cogeneración de electricidad y calor o a su autoconsumo en las instalaciones donde se hayan generado.
+A los efectos de la aplicación de esta exención, la producción de electricidad o la cogeneración de electricidad y calor, deben realizarse en una instalación cuya actividad de producción de energía eléctrica o de cogeneración de energía eléctrica y calor útil para su posterior aprovechamiento energético queda comprendida en el ámbito de aplicación de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, y cuyo establecimiento y funcionamiento hayan sido autorizados con arreglo a lo establecido en el Título IV de dicha Ley.
+5. La importación de carburantes contenidos en los depósitos normales de los automóviles de turismo, así como el contenido en depósitos portátiles hasta un máximo de 10 litros por vehículo, sin perjuicio de la aplicación de la normativa vigente en materia de tenencia y transporte de carburantes.
+6. La importación de carburantes contenidos en los depósitos normales de vehículos automóviles comerciales y de contenedores especiales, con un máximo de 200 litros.
+Se añade la letra c) al apartado 2 por la disposición final 1.4 del Real Decreto-Ley 15/2018, de 5 de octubre. Ref. BOE-A-2018-13593#df
+ Se modifica el apartado 4, con efectos de 1 de julio de 2018, por el art. 82.1.2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-76
+ Se suprime el apartado 2.c) y se modifica el 4 por el art. 28.4 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+ Se deroga el apartado 4 por el art. 4.1 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843
+ Se modifican los apartados 1 y 3 por el art. 2.7 y 8 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+ Se modifica el apartado 3.c) por el art. 9.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el apartado 2.c) y 3 por el art. 6.6 y 7 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se modifica el apartado 2.c) por el art. 8 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+ Redactado conforme a la corrección de errores publicada en BOE núm. 124, de 24 de mayo de 2002. Ref. BOE-A-2002-9972
+ Se modifica por el art. único.9 de la Ley 40/1995, de 19 de diciembre. Ref. BOE-A-1995-27373
+ Se añaden los apartados 6 y 7 por el art. 19.1 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+ Se deroga el apartado 1 por el art. único.4 del Real Decreto-Ley 13/1993, de 4 de agosto. Ref. BOE-A-1993-20608
+
+### Artículo 52
+
+Artículo 52. Devoluciones.
+Se reconocerá el derecho a la devolución de las cuotas satisfechas por el impuesto, en las condiciones que se establezcan reglamentariamente, además de en los supuestos contemplados en el artículo 10, en los siguientes:
+a) El consumo, directo o indirecto, de productos objeto del impuesto a los que sean de aplicación los tipos establecidos en su tarifa 1.ª, excepto el gas natural, en usos distintos a los de combustible y carburante, por los titulares de explotaciones industriales.
+b) El avituallamiento de gasóleo a embarcaciones que realicen navegación distinta de la privada de recreo. La devolución queda condicionada a que el gasóleo suministrado lleve incorporados los trazadores y marcadores exigidos reglamentariamente para la aplicación del tipo reducido.
+c) La utilización de productos objeto del impuesto en proyectos piloto para el desarrollo tecnológico de productos menos contaminantes, en particular, de los combustibles y carburantes obtenidos a partir de recursos renovables.
+d) La devolución a fábrica o depósito fiscal de productos objeto del impuesto que accidentalmente hayan resultado mezclados con otros o contaminados.
+Se modifica la letra a) por el art. 2.9 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+ Se añade la letra d) por el art. 19.2 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+
+### Artículo 52 bis
+
+Artículo 52 bis. Devolución parcial por el gasóleo de uso profesional.
+1. Los titulares de los vehículos citados en el apartado 2 que cumplan los requisitos establecidos en el mismo tendrán derecho a una devolución parcial del Impuesto sobre Hidrocarburos satisfecho o soportado respecto del gasóleo de uso general que haya sido utilizado como carburante en el motor de aquéllos.
+2. Los vehículos a que se refiere el apartado 1 son los siguientes:
+a) Los vehículos de motor o conjuntos de vehículos acoplados destinados exclusivamente al transporte de mercancías por carretera, por cuenta ajena o por cuenta propia, y con un peso máximo autorizado igual o superior a 7,5 toneladas.
+b) Los vehículos de motor destinados al transporte de pasajeros, regular u ocasional, incluidos en las categorías M2 o M3 de las establecidas en la Directiva 70/156/CEE del Consejo, de 6 de febrero de 1970, relativa a la aproximación de las legislaciones de los Estados miembros sobre la homologación de los vehículos a motor y de sus remolques.
+c) Los taxis. A estos efectos se entiende por taxi el turismo destinado al servicio público de viajeros bajo licencia municipal y provisto de aparato taxímetro.
+3. Los titulares de los vehículos mencionados en el apartado anterior deberán hallarse en posesión del correspondiente título administrativo que, en su caso, habilite para el ejercicio de la actividad, de acuerdo con lo previsto en la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, y en su normativa de desarrollo. Igualmente, los indicados titulares deberán hallarse en posesión de los permisos y autorizaciones precisos para el ejercicio de su actividad que deban expedir las autoridades autonómicas o locales.
+Cuando se trate de titulares no residentes en territorio español con residencia o establecimiento permanente en el resto del territorio de la Unión Europea, deberán hallarse en posesión de las autorizaciones administrativas que establezca la normativa del respectivo Estado miembro para el ejercicio de la actividad correspondiente.
+4. La base de la devolución estará constituida por el volumen de gasóleo que haya sido adquirido por el interesado y destinado a su utilización como carburante en los vehículos mencionados en el apartado 2 anterior. La base así determinada se expresará en miles de litros.
+5. (Suprimida)
+6.a) El tipo estatal de la devolución, expresado en euros por 1.000 litros, será el importe positivo resultante de restar la cantidad de 306 euros del tipo general del epígrafe 1.3 y la cantidad de 48 euros del tipo especial, vigentes en el momento de generarse el derecho a la devolución.
+b) El tipo estatal de la devolución podrá ser modificado por la Ley de Presupuestos Generales del Estado.
+c) La cuantía máxima de la devolución a percibir no excederá de la que correspondería a 50.000 litros por vehículo y año, salvo que se trate de taxis, en cuyo caso la cuantía máxima de la devolución no excederá de la que correspondería a 5.000 litros por taxi y año. Por el Ministro de Hacienda y Función Pública se podrá disponer el fraccionamiento de estos límites para su aplicación en relación con períodos de tiempo inferiores al año.
+Téngase en cuenta que, desde el 1 de julio de 2026 y hasta el 30 de septiembre de 2026, el tipo de la devolución regulado en el apartado 6 será de cero euros, según establece el art. 8 del Real Decreto-ley 18/2026, de 29 de junio. Ref. BOE-A-2026-14112#a8
+7. El procedimiento para la práctica de la devolución se establecerá por el Ministro de Economía y Hacienda y podrá comprender, entre otros, los siguientes aspectos:
+a) La obligación de que los interesados se inscriban en un registro específico y de que presenten declaraciones tributarias comprensivas de los datos de su actividad que sean relevantes para la gestión y comprobación de la devolución.
+b) La obligación de que los interesados utilicen medios de pago específicos para la adquisición del gasóleo respecto del cual soliciten la devolución. En los casos en que se establezca, la utilización obligatoria de medios de pago específicos para la adquisición del gasóleo respecto del cual se solicite la devolución tendrá la consideración de declaración tributaria por medio de la cual se solicita la devolución.
+c) La obligación, para las entidades emisoras de los referidos medios de pago específicos y para los vendedores de gasóleo que los acepten, de proporcionar a la Administración Tributaria la información derivada de la utilización de éstos por los solicitantes de la devolución.
+8. La utilización de los medios de pago específicos a que se refiere el apartado 7 anterior con objeto de simular una adquisición de gasóleo que indebidamente generase el derecho a la devolución regulada en este artículo constituirá infracción tributaria grave y será sancionada con multa pecuniaria proporcional del triple del importe de la adquisición simulada, con un importe mínimo de 3.000 euros. A los efectos de la imputación de la responsabilidad por la comisión de estas infracciones, tendrán la consideración de autores los titulares de los referidos medios de pago, salvo en el caso de sustracción de los mismos debidamente denunciada.
+9. La utilización de gasóleo por el que se solicite la devolución regulada en este artículo en motores distintos de los de los vehículos mencionados en el apartado 2 está prohibida. La inobservancia de esta prohibición constituirá una infracción tributaria grave que será sancionada de acuerdo con lo previsto en el artículo 55.
+10. Lo establecido en el apartado anterior se entiende sin perjuicio de las responsabilidades en que incurran quienes suministren gasóleo por el que se solicite la devolución a personas no autorizadas para recibirlo. A efectos de la aplicación de lo previsto en los artículos 8.6 y 15.11, el gasóleo por el que se solicite la devolución tendrá la consideración de gasóleo al que se ha aplicado un tipo reducido en razón de su destino.
+Téngase en cuenta que, desde el 1 de julio de 2026 y hasta el 30 de septiembre de 2026, el tipo de la devolución regulado en el apartado 6 será de cero euros, según establece el art. 8 del Real Decreto-ley 18/2026, de 29 de junio. Ref. BOE-A-2026-14112#a8
+ Téngase en cuenta que, con efectos desde el 22 de marzo de 2026 y vigencia hasta el 30 de junio de 2026, el tipo de la devolución regulado en el apartado 6 será de cero euros, según establece el art. 39 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#a3-11
+ Se modifican los apartados 4 y 6, con efectos de 1 de enero de 2019, por el art. 82.2.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-76
+ Se modifica el apartado 4 y se suprime el 5 por el art. 28.5 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+ Se modifican los apartados 4 y 6, con efectos desde el 1 de enero de 2013, por la disposición final 20.5 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se modifica el apartado 6.a), con efectos de 1 de enero de 2012, por la disposición final 6 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
+ Se modifica el apartado 6.a), con efectos a partir del 1 de enero de 2010, por la disposición final 14.1 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
+ Se añade por el art. 4.2 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843
+
+### Artículo 52 ter
+
+Artículo 52 ter. Devolución parcial por el gasóleo empleado en la agricultura y ganadería.
+Uno. a) Se reconoce el derecho a la devolución de las cuotas del Impuesto sobre Hidrocarburos satisfechas o soportadas por los agricultores con ocasión de las adquisiciones de gasóleo que haya tributado al tipo de epígrafe 1.4 del artículo 50.1 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, que hayan efectuado durante el año natural anterior.
+b) El importe de las cuotas a devolver será igual al resultado de aplicar el tipo de 63,71 euros por 1.000 litros sobre una base constituida por el volumen de gasóleo efectivamente empleado en la agricultura, incluida la horticultura, ganadería y silvicultura durante el período indicado, expresado en miles de litros.
+Téngase en cuenta que, durante los meses de julio, agosto y septiembre de 2026, el importe de las cuotas a devolver regulado en la letra b) será el que establece el art. 9 del Real Decreto-ley 18/2026, de 29 de junio. Ref. BOE-A-2026-14112#a9
+Dos. A los efectos de esta devolución, se consideran agricultores las personas o entidades que, en el periodo indicado, hayan tenido derecho a la utilización de gasóleo que tributa al tipo del epígrafe 1.4 del artículo 50.1 de la Ley 38/1992 y que, efectivamente, lo hayan empleado como carburante en la agricultura, incluida la horticultura, ganadería y silvicultura, y que, además, hayan estado inscritos, en relación con el ejercicio de dichas actividades, en el Censo de Empresarios, Profesionales y Retenedores al que se refiere la disposición adicional quinta de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Tres. La devolución se llevará a cabo por el procedimiento que establezca el Ministro de Economía y Hacienda y podrá comprender la obligación de que los interesados presenten declaraciones tributarias, incluso de carácter censal.
+Véase el art. 9 del Real Decreto-ley 18/2026, de 29 de junio, por el que se modifica el importe de las cuotas a devolver regulado en la letra b) durante los meses de julio, agosto y septiembre de 2026. Ref. BOE-A-2026-14112#a9
+ Se modifica el apartado 1, con efectos desde el 1 de julio de 2016, por el art. 63 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+ Se modifica el apartado 1.b) por el art. 28.6 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+ Se añade, con efectos a partir del 1 de enero de 2010, por la disposición final 14.2 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
+
+### Artículo 53
+
+Artículo 53. Normas particulares de gestión.
+1. Sin perjuicio de lo establecido en el apartado 17 del artículo 4 de esta Ley, tendrán la consideración de fábrica:
+a) Los establecimientos en que se sometan los productos objeto del impuesto definidos en el apartado 1 del artículo 49 de esta Ley a un tratamiento definido, según el concepto establecido en la nota complementaria número 5 del capítulo 27 de la nomenclatura combinada.
+b) Siempre que lo soliciten sus titulares, los establecimientos en que se sometan productos objeto del impuesto, comprendidos en la tarifa 1.ª del mismo, a una transformación química. A estos efectos, se entenderá por “transformación química” cualquier operación que tenga por objeto la transformación molecular del producto que se somete a la misma.
+2. No obstante lo establecido en el apartado 18 del artículo 4 de esta Ley, no tendrán la consideración de fabricación las operaciones mediante las cuales el usuario de un producto objeto del impuesto vuelva a utilizarlo en el mismo establecimiento, siempre que el impuesto satisfecho por el mismo no sea inferior al que corresponda al producto reutilizado.
+3. No obstante lo establecido en el apartado 17 del artículo 4 de esta Ley, no tendrán la consideración de fábrica los establecimientos en los que se obtengan, de forma accesoria, pequeñas cantidades de productos objeto del impuesto. Reglamentariamente se establecerá un procedimiento simplificado para la liquidación y pago del impuesto en estos supuestos.
+4. La circulación, tenencia y utilización de gas natural y la de los productos incluidos en el ámbito objetivo del Impuesto sobre Hidrocarburos y no comprendidos en las definiciones del artículo 49.1 de esta Ley no estará sometida a requisitos formales específicos en relación con dicho impuesto, sin perjuicio de lo dispuesto en el apartado 6 y de la obligación de justificar su origen y procedencia por los medios de prueba admisibles en derecho.
+5. En relación con los productos comprendidos en la tarifa 2.ª y con el gas natural a los que se aplique la exención establecida en el artículo 51.1 de esta Ley, se observarán las siguientes reglas particulares:
+a) Sin perjuicio de lo dispuesto en el apartado 1.a) del presente artículo, no tendrá la consideración de fabricación la obtención de productos comprendidos en la tarifa 2.ª, a partir de otros igualmente incluidos en dicha tarifa por los que ya se hubiera ultimado el régimen suspensivo. Ello no obstará el cumplimiento de los requisitos que, en su caso, resulten exigibles en relación con la aplicación de la exención prevista en el artículo 51.1 de esta Ley.
+b) Cuando el gas natural o los productos comprendidos en la tarifa 2.ª a los que se refiere este apartado se destinen de forma sobrevenida a un uso como combustible o carburante, el impuesto será exigible a quien los destine o comercialice con destino a tales fines con arreglo al procedimiento que reglamentariamente se establezca.
+6. En los intercambios intracomunitarios de gas natural se observarán las siguientes reglas:
+a) No serán de aplicación los procedimientos a que se refieren los apartados 2, 3 y 4 del artículo 16 de esta Ley.
+b) Cuando la recepción, en el ámbito territorial interno, de gas natural procedente del ámbito territorial comunitario no interno se produzca directamente en un depósito fiscal, incluidos los gasoductos y redes de gasoductos de conformidad con lo establecido en el artículo 4.10, dicha recepción se entenderá efectuada en régimen suspensivo y serán de aplicación, con carácter general, las normas previstas en esta Ley para los productos objeto de los impuestos especiales de fabricación que se hallen al amparo de dicho régimen.
+c) En los supuestos, distintos de los señalados en la letra anterior, de recepción en el ámbito territorial interno de gas natural procedente del ámbito territorial comunitario no interno, los receptores estarán sometidos al mismo régimen que los destinatarios registrados a que se refiere el apartado 11 del artículo 4, sin perjuicio de lo establecido en el apartado 4 del presente artículo.
+d) En los envíos de gas natural efectuados desde el ámbito territorial interno con destino al ámbito territorial comunitario no interno, los expedidores deberán acreditar, cuando sean requeridos para ello, que el destinatario es una empresa registrada al efecto en el Estado miembro de destino de que se trate, con arreglo a la normativa que dicho Estado miembro establezca y que el gas natural ha sido recibido por el destinatario.
+7. A los efectos del artículo 8.2.h) de la Ley, cuando la posesión de hidrocarburos sea para su distribución o para el repostaje de vehículos destinados al transporte de mercancías o pasajeros, la factura o documento equivalente en el que conste la repercusión del impuesto o el correspondiente documento de circulación no será suficiente para acreditar el pago del Impuesto sobre Hidrocarburos en cualquiera de los siguientes supuestos:
+a) Cuando en dichos hidrocarburos se detecte la presencia de otros productos distintos de los marcadores o trazadores debidamente autorizados y de componentes admitidos en las especificaciones técnicas.
+b) Cuando hayan sido adquiridos a operadores que no figuren en el listado publicado por la Comisión Nacional de Energía conforme a lo dispuesto en el artículo 42.2 de la Ley 34/1998, de 7 de octubre, del sector de los hidrocarburos.
+Se añade el apartado 7, por la disposición final 2.8 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se modifica por el art. 3.15 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+ Se modifican los apartados 4 y 5 y se añade el apartado 6 por el art. 2.10 a 12 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+ Se modifica por el art. único.10 de la Ley 40/1995, de 19 de diciembre. Ref. BOE-A-1995-27373
+
+### Artículo 54
+
+Artículo 54. Prohibiciones y limitaciones de uso.
+1. La utilización como carburante de los productos a que se refiere el apartado 2 del artículo 46 de esta Ley, o como combustible de los hidrocarburos a que se refiere el apartado 3 de dicho artículo, está prohibida, salvo que haya sido expresamente autorizada por el Ministro de Economía y Hacienda como consecuencia de la resolución de un expediente que se iniciará a petición de los interesados y en el que se determinará cual es el hidrocarburo de los contenidos en la tarifa 1.ª del impuesto cuya utilización resulta equivalente a la del producto objeto del expediente.
+2. La utilización de gasóleo como carburante, con aplicación del tipo establecido en el epígrafe 1.4 de la tarifa 1.ª del impuesto, queda autorizada en todos los motores, excepto en los siguientes:
+a) Motores utilizados en la propulsión de artefactos o aparatos que hayan sido autorizados para circular por vías y terrenos públicos, aun cuando se trate de vehículos especiales.
+No obstante lo establecido en el párrafo anterior, podrá utilizarse gasóleo con aplicación del tipo establecido en el epígrafe 1.4 de la tarifa 1.ª del impuesto en los motores de tractores y maquinaria agrícola, autorizados para circular por vías y terrenos públicos, empleados en la agricultura, incluida la horticultura, la ganadería y la silvicultura.
+b) Motores utilizados en la propulsión de artefactos o aparatos que, por sus características y configuración objetiva, sean susceptibles de ser autorizados para circular por vías y terrenos públicos como vehículos distintos de los vehículos especiales, aunque no hayan obtenido efectivamente tal autorización.
+c) Motores utilizados en la propulsión de buques y embarcaciones de recreo.
+A los efectos de la aplicación de los casos previstos en las letras a) y b), se considerarán «vehículos» y «vehículos especiales» los definidos como tales en el anexo II del Reglamento General de Vehículos aprobado por el Real Decreto 2822/1998, de 23 de diciembre. A los mismos efectos, se considerarán «vías y terrenos públicos» las vías o terrenos a que se refiere el artículo 2 del Texto Articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990, de 2 de marzo.
+Fuera de los casos previstos en el artículo 51.2 y en el artículo 52.b) y de los autorizados conforme a este apartado, estará prohibida la utilización como carburante de gasóleo al que, conforme a lo que reglamentariamente se establezca, le hubieran sido incorporados los correspondientes trazadores y marcadores.
+3. La utilización de los fuelóleos como carburante estará limitada a los motores fijos y a los de embarcaciones y ferrocarriles.
+4. Estará prohibida la utilización como carburante del queroseno que lleve incorporados los trazadores y marcadores establecidos reglamentariamente para la aplicación del tipo reducido correspondiente a los epígrafes 1.12 de la tarifa 1.ª y 2.10 de la tarifa 2.ª previstos en el artículo 50.1 de esta Ley.
+5. (Suprimido).
+6. Las prohibiciones y limitaciones establecidas en este artículo se extienden a los productos cuya utilización resulte equivalente a la de los aceites minerales comprendidos en la tarifa 1.ª del impuesto, de acuerdo con lo establecido en el apartado 1 anterior.
+Se suprime el apartado 5 por la disposición final 1.5 del Real Decreto-Ley 15/2018, de 5 de octubre. Ref. BOE-A-2018-13593#df
+ Se renumera el apartado 5 como 6 y se añade un apartado 5 por el art. 28.7 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+ Se modifica por el art. 2.13 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+ Se añade el párrafo segundo al apartado 1 por el art. 9.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el apartado 2 por el art. 7.1 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se modifica el apartado 2 por el art. 6.1 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Se modifica el apartado 2 por el art. 19.3 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+
+### Artículo 55
+
+Artículo 55. Infracciones y sanciones.
+1. Constituirá infracción tributaria grave la inobservancia de las prohibiciones y limitaciones de uso que se establecen en el artículo 54 de esta ley. Dichas infracciones se sancionarán con arreglo a lo que se dispone en el presente artículo, con independencia de las sanciones que pudieran proceder, de acuerdo con lo dispuesto en el artículo 19 de esta ley, por la posible comisión de otras infracciones tributarias.
+2. A efectos de la imputación de la responsabilidad por la comisión de estas infracciones, tendrán la consideración de autores:
+a) Los que utilicen como combustible, sin la debida autorización, los hidrocarburos a que se refiere el apartado 3 del artículo 46 de esta Ley.
+b) Los titulares de vehículos autopropulsados, embarcaciones y maquinarias que utilicen o contengan en sus depósitos carburantes no autorizados expresamente para su funcionamiento, aun cuando los mismos no sean conducidos o patroneados por el propio titular, salvo en los supuestos contemplados en la letra siguiente de este apartado y en el apartado 3.
+c) Los arrendatarios de los vehículos y embarcaciones a que se refiere la letra anterior, cuando medie contrato de alquiler sin conductor o patrón, si la infracción se descubriere en el período comprendido entre la fecha del contrato y la devolución de la maquinaria, vehículo o embarcación a su titular.
+3. En los casos de sustracción, no serán imputables a los titulares de los vehículos o embarcaciones las infracciones descubiertas en el período que medie entre la fecha de la denuncia y su recuperación.
+4. La sanción que se imponga al autor o a cada uno de los autores consistirá:
+a) Cuando el motor del vehículo, artefacto o embarcación con el que se ha cometido la infracción tenga hasta 10 CV de potencia fiscal o hasta 220 kW en el caso del motor o motores de las embarcaciones, en multa pecuniaria fija de 1.200 euros.
+b) En motores de más de 10 hasta 25 CV de potencia fiscal o de más de 220 hasta 550 kW en el caso del motor o motores de las embarcaciones, en multa pecuniaria fija de 3.600 euros.
+c) En motores de más de 25 hasta 50 CV de potencia fiscal o de más de 550 hasta 1.100 kW en el caso del motor o motores de las embarcaciones, en multa pecuniaria fija de 7.200 euros.
+d) En motores de más de 50 CV de potencia fiscal o de más de 110 kW en el caso del motor o motores de las embarcaciones, en multa pecuniaria fija de 12.000 euros.
+e) En los supuestos contemplados en el párrafo a) del apartado 2 anterior, la sanción consistirá en multa pecuniaria fija de 1.200 euros.
+5. En los casos de comisión repetida de esta clase de infracciones se duplicarán los importes establecidos en el apartado anterior.
+Esta circunstancia se apreciará cuando el infractor, dentro de los dos años anteriores a la comisión de la nueva infracción, hubiera sido sancionado por resolución firme en vía administrativa por infringir cualquiera de las prohibiciones establecidas en el artículo anterior.
+6. En los suministros de gas natural realizados con aplicación del tipo impositivo establecido en el epígrafe 1.10.2 de la tarifa 1.ª, constituye infracción tributaria grave comunicar datos falsos o inexactos a los sujetos pasivos, cuando de ello se derive la repercusión de cuotas inferiores a las procedentes.
+La base de la sanción será la diferencia entre las cuotas que se hubieran debido repercutir y las efectivamente repercutidas.
+La sanción consistirá en multa pecuniaria proporcional del 50 por ciento.
+Se suprime la letra d) del apartado 2 por la disposición final 1.6 del Real Decreto-Ley 15/2018, de 5 de octubre. Ref. BOE-A-2018-13593#df
+ Se modifican los apartados 4 a 6 y se suprime el 7 por el art. 6.4 de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+ Se añade la letra d) al apartado 2 y se modifica el apartado 4.e) por el art. 28.8 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+ Se modifican los apartados 1, 4 y 5 por la disposición final 6.4 de la Ley 58/2003, de 17 de diciembre. Ref. BOE-A-2003-23186
+ Se convierten a euros las cuantías contempladas en los apartados 4 y 5 por el apartado 5 y anexo de la Resolución de 20 de noviembre de 2001. Ref. BOE-A-2001-22447
+ Redactado el título conforme a la corrección de errores publicada en BOE núm. 2, de 2 de enero de 2002. Ref. BOE-A-2002-36
+
+## Capítulo VIII
+
+CAPÍTULO VIII
+Impuesto sobre las Labores del Tabaco
+
+### Artículo 56
+
+Artículo 56. Ambito objetivo.
+A efectos de este impuesto tienen la consideración de labores del tabaco:
+1. Los cigarros y los cigarritos.
+2. Los cigarrillos.
+3. La picadura para liar.
+4. Los demás tabacos para fumar.
+
+### Artículo 57
+
+Artículo 57. Supuestos de no sujeción.
+Además de los supuestos contemplados en el artículo 6, no estará sujeta al impuesto la fabricación ni la importación de labores del tabaco que se destruyan bajo el control de la Administración tributaria, en la forma y con las condiciones que se establezcan reglamentariamente, en el interior de las fábricas y depósitos fiscales.
+
+### Artículo 58
+
+Artículo 58. Base imponible.
+1. La base estará constituida:
+a) Para la aplicación de los tipos proporcionales, por el valor de las labores, calculado según su precio máximo de venta al público, en expendedurías de tabaco y timbre situadas en la península o islas Baleares, incluidos todos los impuestos.
+b) Para la aplicación de los tipos específicos, por el número de unidades.
+2. A efectos de lo establecido en la letra a) del apartado anterior, los fabricantes e importadores comunicarán, en la forma que se establezca reglamentariamente, previamente a su comercialización, los precios máximos de venta al público por ellos establecidos para las distintas labores de tabaco, así como las modificaciones que en dichos precios introduzcan.
+
+### Artículo 59
+
+Artículo 59. Conceptos y definiciones.
+1. A efectos de este impuesto tendrán la consideración de cigarros o cigarritos, siempre que sean susceptibles de ser fumados sin transformación y estén destinados exclusivamente a ello, dadas sus propiedades y las expectativas normales de los consumidores:
+a) Los rollos de tabaco provistos de una capa exterior de tabaco natural.
+b) Los rollos de tabaco con una mezcla de tripa batida y provistos de una capa exterior de tabaco reconstituido del color normal de los cigarros que cubre íntegramente el producto, incluido el filtro si lo hubiera, pero no la boquilla en el caso de los cigarros con boquilla, cuando su masa unitaria sin filtro ni boquilla sea igual o superior a 2,3 gramos y no supere los 10 gramos y su perímetro, al menos en un tercio de su longitud, sea igual o superior a 34 milímetros.
+Estas labores tendrán la consideración de cigarros o cigarritos según que su peso exceda o no de 3 gramos por unidad.
+2. Tendrán igualmente la consideración de cigarros o cigarritos los productos constituidos parcialmente por sustancias distintas del tabaco, pero que respondan a los demás criterios del apartado anterior.
+3. A efectos de este impuesto se considerarán cigarrillos los rollos de tabaco que puedan fumarse en su forma original y que no sean cigarros ni cigarritos con arreglo a lo establecido en los apartados anteriores.
+Igualmente tendrán la consideración de cigarrillos los rollos de tabaco que mediante una simple manipulación no industrial se introducen en fundas de cigarrillos o se envuelven en hojas de papel de fumar.
+El rollo de tabaco a que refiere el párrafo anterior será considerado, a efectos de la aplicación del impuesto, como dos cigarrillos cuando tenga una longitud superior a 8 centímetros, sin sobrepasar los 11 centímetros, y como tres cigarrillos cuanto tenga un longitud superior a 11 centímetros, sin sobrepasar 14 centímetros, y así sucesivamente con la misma progresión.
+Para la medición de la longitud no se tendrá en cuenta ni el filtro ni la boquilla.
+4. A efectos de este impuesto tendrá la consideración de tabaco para fumar o picadura:
+a) El tabaco cortado o fraccionado de otro modo, hilado o prensado en plancha, no incluido en los apartados anteriores y que sea susceptible de ser fumado sin transformación industrial ulterior.
+b) Los desechos de tabaco acondicionado para la venta al por menor que no sean cigarros, cigarritos ni cigarrillos y que sean susceptibles de ser fumados. A estos efectos, se considerarán desechos de tabaco los restos de hojas de tabaco y los subproductos derivados del tratamiento del tabaco o de la fabricación de labores de tabaco.
+5. A efectos de este impuesto tendrá la consideración de picadura para liar el tabaco para fumar tal como se define en el apartado anterior, siempre que más del 25 por ciento en peso de las partículas de tabaco presenten un ancho de corte inferior a 1,5 milímetros.
+Tendrá igualmente la consideración de picadura para liar el tabaco para fumar en el que más del 25 por ciento en peso de las partículas de tabaco presenten un ancho de corte igual o superior a 1,5 milímetros, vendido o destinado a la venta para liar cigarrillos.
+6. Tendrán igualmente la consideración de cigarrillos y tabaco para fumar los productos constituidos exclusiva o parcialmente por sustancias de tráfico no prohibido que no sean tabaco pero que respondan a los restantes criterios establecidos en los apartados 3 y 4 anteriores. No obstante, los productos que no contengan tabaco no tendrán esta consideración cuando se justifique que tienen una función exclusivamente medicinal.
+7. A efectos de este impuesto tendrá la consideración de fabricante la persona que transforma el tabaco en labores del tabaco acondicionadas para su venta al público.
+Se modifica el apartado 5 por el art. 3.1 del Real Decreto-ley 12/2012, de 30 de marzo. Ref. BOE-A-2012-4441.
+ Se modifican los apartados 1 a 5, con efectos desde el 1 de enero de 2011, por el art. 81 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+ Se modifica el apartado 1 por el art. 6.8 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Artículo 60
+
+Artículo 60. Tipos impositivos.
+1. El impuesto se exigirá conforme a la siguiente tarifa:
+Epígrafe 1. Cigarros y cigarritos: excepto en los casos en que resulte aplicable el párrafo siguiente, los cigarros y cigarritos estarán gravados al tipo del 15,8 por 100.
+El importe del impuesto no puede ser inferior al tipo único de 47 euros por cada 1.000 unidades.
+Epígrafe 2. Cigarrillos: excepto en los casos en que resulte aplicable el último párrafo de este epígrafe, los cigarrillos estarán gravados simultáneamente a los siguientes tipos impositivos:
+a) Tipo proporcional: 48,5 por 100.
+b) Tipo específico: 33,50 euros por cada 1.000 cigarrillos.
+El importe del impuesto no puede ser inferior al tipo único de 150 euros por cada 1.000 cigarrillos.
+Epígrafe 3. Picadura para liar: excepto en los casos en que resulte aplicable el último párrafo de este epígrafe, la picadura para liar estará gravada simultáneamente a los siguientes tipos impositivos:
+a) Tipo proporcional: 37,68 por 100.
+b) Tipo específico: 33,4 euros por kilogramo.
+El importe del impuesto no puede ser inferior al tipo único de 112,5 euros por cada kilogramo.
+Epígrafe 4. Las demás labores del tabaco: 34 por 100.
+Las demás labores del tabaco estarán gravadas al tipo único de 30 euros por kilogramo cuando la cuota que resultaría de la aplicación del tipo establecido en el párrafo anterior sea inferior a la cuantía de este tipo único.
+2. A los efectos de este artículo, por precio de venta al público para cada epígrafe se entenderá el precio máximo de venta al público, en expendedurías de tabaco y timbre situadas en la Península o Islas Baleares, incluidos todos los impuestos.
+3. Las Leyes de Presupuestos Generales del Estado podrán actualizar el importe de los tipos únicos y de los precios de venta al público señalados en el apartado 1 de este artículo, en atención a la evolución del precio de venta al público de las distintas labores del tabaco.
+Se modifica, con efectos desde el 1 de enero de 2025, el apartado 1, por la disposición final 2.9 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se modifican los epígrafes 2 y 3 del apartado 1 por el art. 5.6 del Real Decreto-ley 3/2016, de 2 de diciembre. Ref. BOE-A-2016-11475#a5.
+ Se modifica el apartado 1 por el art. 1.6 del Real Decreto-ley 7/2013, de 28 de junio. Ref. BOE-A-2013-7062.
+ Los incrementos que se recogen en esta modificación se aplicaran con efectos desde el 5 de julio de 2013, según establece la disposición final 6.
+ Se modifica, con efectos desde el 1 de enero de 2013, por la disposición final 9 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica por el art. 24 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ La actualización del epígrafe 2 será aplicable desde el 1 de septiembre de 2012.
+ Se modifica por el art. 3.2 del Real Decreto-ley 12/2012, de 30 de marzo. Ref. BOE-A-2012-4441.
+ Se modifica por el art. 19 del Real Decreto-Ley 13/2010, de 3 de diciembre. Ref. BOE-A-2010-18651.
+ Se modifica por el art. 9 del Real Decreto-Ley 8/2009, de 12 de junio. Ref. BOE-A-2009-9836
+ Se modifica el epígrafe 5 por el art. único del Real Decreto-Ley 10/2006, de 10 de noviembre. Ref. BOE-A-2006-19622
+ Se modifica por el art. 1 del Real Decreto 2/2006, de 10 de febrero. Ref. BOE-A-2006-2300
+ Se modifica por el art. único del Real Decreto-Ley 1/2006, de 20 de enero. Ref. BOE-A-2006-929
+ Téngase en cuenta la Resolución de 9 de febrero de 2006 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el citado Real Decreto-ley. Ref. BOE-A-2006-2301
+ Se modifica por el art. 3 del Real Decreto-Ley 12/2005, de 16 de septiembre. Ref. BOE-A-2005-15422
+ Se modifica el epígrafe 2, con efectos a partir del 1 de enero de 2005, por el art. 65.7 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+ Se modifica por el art. 7 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+ Se modifica por el art. 8.5 del Real Decreto-Ley 12/1996, de 26 de julio. Ref. BOE-A-1996-17424
+ Se modifica por el art. 33 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Se modifica, con efectos a partir del 1 de enero de 1995, por el art. 83 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+ Se modifica, con efectos a partir del 1 de enero de 1994, por el art. 80 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087
+
+### Artículo 61
+
+Artículo 61. Exenciones.
+1. Estarán exentas, con las condiciones que se establezcan reglamentariamente, además de las operaciones a que se refiere el artículo 9 de esta Ley, la fabricación e importación de las labores del tabaco que se destinen a:
+a) Su desnaturalización en fábricas y depósitos fiscales para su posterior utilización en fines industriales o agrícolas.
+b) La realización de análisis científicos o relacionados con la calidad de las labores, desde fábricas o depósitos fiscales.
+2. Estarán igualmente exentas las siguientes importaciones de labores del tabaco:
+a) Las conducidas personalmente por los viajeros mayores de diecisiete años procedentes de terceros países, siempre que no superen los límites cuantitativos siguientes:
+1.° 200 cigarrillos, o
+2.° 100 cigarritos, o
+3.° 50 cigarros, o
+4.° 250 gramos de las restantes labores.
+b) Los pequeños envíos expedidos, con carácter ocasional, desde un tercer país por un particular con destino a otro particular, sin que medie pago de ninguna clase y dentro de los siguientes límites cuantitativos:
+1.° 50 cigarrillos, o
+2.° 25 cigarritos, o
+3.° 10 cigarros, o
+4.° 50 gramos de las restantes labores.
+3. Las labores del tabaco destinadas a ser entregadas por tiendas libres de impuestos y transportadas en el equipaje personal de los viajeros que se trasladen, por vía aérea o marítima, a un tercer país o territorio.
+Se modifica el apartado 2 por el art. 40.16 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Véase la disposición adicional 1 de la Ley Orgánica 6/2011, de 30 de junio, Ref. BOE-A-2011-11264#daprimera. en cuanto a la reducción de las exenciones fiscales previstas en el apartado 2.a) para los viajeros residentes y trabajadores fronterizos de la zona fronteriza con Gibraltar.
+ Se añade el apartado 3 por el art. 13.16 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+
+### Artículo 62
+
+Artículo 62. Devoluciones.
+Se reconocerá el derecho a la devolución de las cuotas previamente satisfechas por el Impuesto sobre las Labores del Tabaco, en la forma y con las condiciones que reglamentariamente se establezcan, además de en los supuestos a que se refiere el artículo 10 de esta Ley, en los siguientes:
+a) La destrucción de las labores del tabaco bajo control de la Administración tributaria.
+b) La devolución de las labores del tabaco a fábrica para su reciclado.
+
+### Artículo 63
+
+Artículo 63. Normas particulares de gestión.
+La recepción de labores del tabaco procedentes de otros Estados miembros de la Unión quedará restringida a los depositarios autorizados, destinatarios registrados, destinatarios certificados o destinatarios en el sistema de ventas a distancia que reúnan, en todos los casos, las condiciones previstas en la normativa reguladora del mercado de tabacos.
+Se modifica por el art. 40.17 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a4-2
+ Se modifica por el art. 3.17 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+
+### CAPÍTULO IX
+
+Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco
+Téngase en cuenta que la actualización del capítulo IX, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que la modificación del Capítulo IX, efectuada por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica, con efectos desde el 1 de enero de 2025, por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se deroga por el art. 3.7 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se añade por el art. 7.4 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Artículo 64
+
+Artículo 64. Ámbito objetivo.
+1. El ámbito objetivo del impuesto está constituido por los líquidos para cigarrillos electrónicos, las bolsas de nicotina, y otros productos de nicotina distintos de los comprendidos en el ámbito objetivo del Impuesto sobre las Labores del Tabaco, cuando no tengan la consideración de medicamentos.
+2. A efectos de este impuesto, se entenderá por líquidos para cigarrillos electrónicos los líquidos que, conteniendo o no nicotina, puedan utilizarse en cigarrillos electrónicos o dispositivos vaporizadores similares o para recargar cigarrillos electrónicos o dispositivos vaporizadores similares.
+3. Se entenderá por cigarrillo electrónico un producto que puede utilizarse para el consumo de vapor a través de una boquilla o cualquier componente de ese producto, incluidos un cartucho, un depósito y el dispositivo sin cartucho ni depósito, y que pueden ser desechables o recargables mediante recipiente de recarga o depósito, o recargables con cartuchos de un solo uso.
+4. Se entenderá por bolsas de nicotina los productos de administración oral que contienen nicotina, pero no tabaco, mezclados con fibras vegetales o sustrato equivalente, presentados en bolsita o bolsitas porosas o formato equivalente.
+5. A efectos de este impuesto, se entenderá por otros productos de nicotina los productos para consumo final que contienen nicotina, pero no tabaco, distintos de las bolsas de nicotina definidas en el apartado anterior y los líquidos para cigarrillos electrónicos tal y como se definen en el apartado 1.
+Téngase en cuenta que la actualización de este artículo, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que esta modificación, efectuada por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica, con efectos desde el 1 de enero de 2025, por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se deroga por el art. 3.7 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica por el art. 7.4 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Artículo 64 bis
+
+Artículo 64 bis. Hecho imponible.
+Además de lo establecido en el artículo 5, estará sujeta al Impuesto la introducción en el ámbito territorial interno de los productos comprendidos en el ámbito objetivo del impuesto desde el territorio de otros Estados miembros.
+La circulación y tenencia de los productos objeto del impuesto, desde el lugar de entrada en el ámbito territorial interno hasta el lugar de recepción por su destinatario, deberá estar amparada mediante un documento mercantil que identifique correctamente la fecha del inicio de la expedición, al expedidor, al destinatario, así como la naturaleza y cantidad de la mercancía transportada.
+Téngase en cuenta que la actualización de este artículo, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que esta modificación, efectuada por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica, con efectos desde el 1 de enero de 2025, por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se deroga por el art. 3.7 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica por el art. 3.18 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+ Se añade el apartado 6 a la letra A) por el art. 6.2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Se añade por el art. 7.4 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Artículo 64 ter
+
+Artículo 64 ter. No sujeción.
+No estará sujeta al impuesto la introducción en el ámbito territorial interno de líquidos para cigarrillos electrónicos, de bolsas de nicotina o de otros productos de nicotina en los supuestos regulados en el artículo 6 de esta ley.
+Téngase en cuenta que la actualización de este artículo, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que esta modificación, efectuada por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica, con efectos desde el 1 de enero de 2025, por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se deroga por el art. 3.7 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se añade por el art. 7.4 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Artículo 64 quáter
+
+Artículo 64 quáter. Devengo.
+Además de lo establecido en el artículo 7 de esta ley, el impuesto se devengará en el supuesto de introducción en el ámbito territorial interno de los productos sujetos al impuesto, en el momento de la recepción por su destinatario en dicho ámbito territorial. No obstante, cuando dichos productos se introduzcan directamente en una fábrica o depósito fiscal, la introducción se efectuará en régimen suspensivo.
+Téngase en cuenta que la actualización de este artículo, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que esta modificación, efectuada por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica, con efectos desde el 1 de enero de 2025, por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+ Se deroga por el art. 3.7 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica por el art. 2.14 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+ Se añade por el art. 7.4 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Artículo 64 quinto
+
+Artículo 64 quinto. Exenciones.
+(Derogado).
+Se deroga por el art. 3.7 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se añade el apartado 3, con efectos desde el 1 de enero de 2014, por el art. 6.5 de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+ Se añade por el art. 7.4 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Artículo 64 quinquies
+
+Artículo 64 quinquies. Contribuyentes.
+1. Además de lo establecido en el artículo 8 de esta ley, serán contribuyentes, en el supuesto de introducción de los productos objeto del impuesto en el ámbito territorial interno, los expedidores, salvo que dicha introducción sea con fines comerciales, en cuyo caso serán contribuyentes los destinatarios de los productos.
+En todo caso tendrán la consideración de expedidores los titulares de las plataformas electrónicas que faciliten la entrega de los productos objeto del impuesto en el ámbito territorial interno.
+2. También serán contribuyentes los viajeros procedentes del ámbito territorial comunitario no interno, por los productos sujetos al impuesto, que conduzcan personalmente.
+Téngase en cuenta que la actualización de este artículo, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que esta modificación, efectuada por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica, con efectos desde el 1 de enero de 2025, por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+
+### Artículo 64 sexto
+
+Artículo 64 sexto. Disposiciones especiales en relación con los intercambios intracomunitarios de energía eléctrica.
+(Derogado).
+Se deroga por el art. 3.7 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se modifica por el art. 3.19 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+ Se añade por el art. 7.4 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 157, de 2 de julio de 1998. Ref. BOE-A-1998-15586
+
+### Artículo 64 sexies
+
+Artículo 64 sexies. Base imponible.
+1. La base imponible estará constituida por el volumen, expresado en mililitros, para los líquidos para cigarrillos electrónicos y por el peso del contenido del producto, expresado en gramos, para las bolsas de nicotina y para los otros productos de nicotina.
+2. Si dicho volumen o peso está expresado en un número decimal se redondeará por exceso, al número siguiente, cuando la cifra del primer decimal sea igual o superior a cinco. Se redondeará por defecto en los demás casos.
+Téngase en cuenta que la actualización de este artículo, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que esta modificación, efectuada por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica, con efectos desde el 1 de enero de 2025, por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+
+### Artículo 64 septies
+
+Artículo 64 septies. Tipo impositivo.
+El impuesto se exigirá con arreglo a los siguientes tipos impositivos:
+Epígrafe 1: Líquido para cigarrillos electrónicos que no contenga nicotina o que contenga 15 miligramos de nicotina o menos, por mililitro de producto: 0,15 euros por mililitro.
+Epígrafe 2: Líquido para cigarrillos electrónicos que contenga más de 15 miligramos de nicotina por mililitro de producto: 0,20 euros por mililitro.
+Epígrafe 3: Bolsas de nicotina: 0,10 euros por gramo.
+Epígrafe 4: Otros productos de nicotina: 0,10 euros por gramo.
+Téngase en cuenta que este artículo, añadido por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que la adición de este artículo, efectuada por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se añade, con efectos desde el 1 de enero de 2025, por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+
+### Artículo 64 octies
+
+Artículo 64 octies. Exenciones.
+1. Además de lo establecido en el artículo 9 de esta ley, estarán exentas en las condiciones que, en su caso, reglamentariamente se establezcan:
+a) La importación o introducción en el ámbito territorial interno de los productos objeto del impuesto conducidos personalmente por los viajeros mayores de diecisiete años procedentes de territorios distintos del ámbito territorial interno, siempre que, tratándose de líquidos para cigarrillos electrónicos, no superen los 20 mililitros, o las 200 unidades si se trata de bolsas de nicotina o 200 gramos si se trata de otros productos de nicotina.
+b) La importación o introducción en el ámbito territorial interno de los productos objeto del impuesto expedidos, con carácter ocasional, desde un territorio distinto del ámbito territorial interno por un particular con destino a otro particular, sin que medie pago de ninguna clase, siempre que, tratándose de líquidos para cigarrillos electrónicos, no superen los 10 mililitros, o las 30 unidades si se trata de bolsas de nicotina o 150 gramos si se trata de otros productos de nicotina.
+c) La fabricación, importación o introducción en el ámbito territorial interno de productos objeto del impuesto que salgan desde dicho ámbito con destino al territorio de la Unión y que se encuentren en régimen suspensivo, el cual se considerará así ultimado.
+d) La fabricación, importación o introducción en el ámbito territorial interno de productos objeto del impuesto que se destinen a la realización de análisis científicos o relacionados con la calidad de los productos, desde fábricas o depósitos fiscales.
+2. También estará exenta la fabricación, importación o introducción en el ámbito territorial interno de los productos objeto del impuesto que se destinen a ser entregados por tiendas libres de impuestos y transportadas en el equipaje personal de los viajeros que se trasladen, por vía aérea o marítima, fuera del ámbito territorial interno.
+3. Estará exenta del impuesto la introducción en el ámbito territorial interno de los productos objeto del impuesto que se destinen a los usos previstos en el apartado 1 del artículo 9 de esta ley.
+Téngase en cuenta que este artículo, añadido por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que la adición de este artículo, efectuada por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se añade, con efectos desde el 1 de enero de 2025, por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+
+### Artículo 64 nonies
+
+Artículo 64 nonies. Devoluciones.
+Además de lo establecido en las letras a) y b) del apartado 1 del artículo 10 de esta ley, tendrán derecho a la devolución de las cuotas del impuesto, en la forma y con las condiciones que, en su caso, reglamentariamente se establezcan:
+a) Los propietarios de líquidos para cigarrillos electrónicos, bolsas de nicotina u otros productos de nicotina, que los destruyan bajo control de la Administración tributaria.
+b) Los propietarios de líquidos para cigarrillos electrónicos, bolsas de nicotina u otros productos de nicotina que los devuelvan a fábrica para su reciclado.
+c) Quienes expidan desde el ámbito territorial interno los productos objeto del Impuesto con destino al territorio de otros Estados miembros.
+Se presumirá, salvo prueba en contrario, que los productos han sido expedidos fuera del ámbito territorial interno cuando su entrega esté exenta del Impuesto sobre el Valor Añadido, por tratarse de una entrega intracomunitaria, de conformidad con lo previsto en la normativa de este último Impuesto.
+Téngase en cuenta que este artículo, añadido por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que la adición de este artículo, efectuada por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se añade, con efectos desde el 1 de enero de 2025, por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+
+### Artículo 64 decies
+
+Artículo 64 decies. Disposiciones especiales en relación con la circulación intracomunitaria.
+No serán de aplicación a este impuesto las siguientes disposiciones relativas a la circulación intracomunitaria contenidas en capítulo I del título I de esta ley. En particular:
+a) Los apartados 8, 10, 11, 12, 14, 15, 16, 27 y 34 del artículo 4.
+b) Las letras c), d), f), g), i) y m) del apartado 1 del artículo 7.
+c) Las letras c), d) y e) del apartado 2 y los apartados 3, 4, 6 y 9 del artículo 8.
+d) Las letras c), d) y e) del apartado 1 del artículo 10.
+e) El apartado 2 del artículo 13.
+f) El apartado 7 del artículo 15.
+g) Los apartados 2, 3 y 4 del artículo 16.
+h) El artículo 17.
+Téngase en cuenta que este artículo, añadido por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que la adición de este artículo, efectuada por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se añade, con efectos desde el 1 de enero de 2025, por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+
+## Título II
+
+TÍTULO II
+Impuesto Especial sobre Determinados Medios de Transporte
+
+### Artículo 65
+
+Artículo 65. Hecho imponible.
+1. Estarán sujetas al impuesto:
+a) La primera matriculación definitiva en España de vehículos, nuevos o usados, provistos de motor para su propulsión, excepto la de los que se citan a continuación:
+1.º Los vehículos comprendidos en las categorías N1, N2 y N3 establecidas en el texto vigente al día 30 de junio de 2007 del anexo II de la Directiva 70/156/CEE, del Consejo, de 6 de febrero de 1970, relativa a la aproximación de las legislaciones de los Estados miembros sobre la homologación de vehículos a motor y de sus remolques, que no estén incluidos en otros supuestos de no sujeción y siempre que, cuando se trate de los comprendidos en la categoría N1, se afecten significativamente al ejercicio de una actividad económica. La afectación a una actividad económica se presumirá significativa cuando, conforme a lo previsto en el artículo 95 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, el sujeto pasivo tuviera derecho a deducirse al menos el 50 por ciento de las cuotas del Impuesto sobre el Valor Añadido soportadas o satisfechas con ocasión de la adquisición o importación del vehículo, sin que a estos efectos sea relevante la aplicación de cualquier otra restricción en el derecho a la deducción derivada de las normas contenidas en dicha Ley.
+Cuando la matriculación se produzca en Canarias, se presumirá la afectación significativa a una actividad económica cuando no resulten aplicables a las cuotas soportadas del Impuesto General Indirecto Canario en la adquisición o importación del vehículo las exclusiones y restricciones del derecho a deducir previstas en el artículo 30 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, sin que a estos efectos sea relevante la aplicación de cualquier otra restricción en el derecho a la deducción derivada de las normas contenidas en dicha Ley.
+No obstante, estará sujeta al impuesto la primera matriculación definitiva en España de estos vehículos cuando se acondicionen para ser utilizados como vivienda.
+2.º Los vehículos comprendidos en las categorías M2 y M3 establecidas en el mismo texto al que se refiere el número 1.º anterior y los tranvías.
+3.º Los que, objetivamente considerados, sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica, siempre que sus modelos de serie o los vehículos individualmente hubieran sido debidamente homologados por la Administración tributaria. A estos efectos, se considerará que tienen exclusivamente alguna de estas aplicaciones los vehículos que dispongan únicamente de dos asientos (para el conductor y el ayudante), en ningún caso posean asientos adicionales ni anclajes que permitan su instalación y el espacio destinado a la carga no goce de visibilidad lateral y sea superior al 50 por ciento del volumen interior.
+4. Los ciclomotores de dos o tres ruedas y los cuadriciclos ligeros.
+5.º Las motocicletas y los vehículos de tres ruedas que no sean cuatriciclos siempre que, en ambos casos, su cilindrada no exceda de 250 centímetros cúbicos, si se trata de motores de combustión interna, o su potencia máxima neta no exceda de 16 kw, en el resto de motores.
+6.º Los vehículos para personas con movilidad reducida.
+7.º Los vehículos especiales, siempre que no se trate de los vehículos tipo «quad» definidos en el epígrafe 4.º del artículo 70.1.
+8.º Los vehículos mixtos adaptables cuya altura total desde la parte estructural del techo de la carrocería hasta el suelo sea superior a 1.800 milímetros, siempre que no sean vehículos todo terreno y siempre que se afecten significativamente al ejercicio de una actividad económica. La afectación a una actividad económica se presumirá significativa cuando, conforme a lo previsto en el artículo 95 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, el sujeto pasivo tuviera derecho a deducirse al menos el 50 por ciento de las cuotas del Impuesto sobre el Valor Añadido soportadas o satisfechas con ocasión de la adquisición o importación del vehículo, sin que a estos efectos sea relevante la aplicación de cualquier otra restricción en el derecho a la deducción derivada de las normas contenidas en dicha Ley.
+Cuando la matriculación se produzca en Canarias, se presumirá la afectación significativa a una actividad económica cuando no resulten aplicables a las cuotas soportadas del Impuesto General Indirecto Canario en la adquisición o importación del vehículo las exclusiones y restricciones del derecho a deducir previstas en el artículo 30 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, sin que a estos efectos sea relevante la aplicación de cualquier otra restricción en el derecho a la deducción derivada de las normas contenidas en dicha Ley.
+No obstante, estará sujeta al impuesto la primera matriculación definitiva en España de estos vehículos cuando se acondicionen para ser utilizados como vivienda.
+9.º Los destinados a ser utilizados por las Fuerzas Armadas, por los Cuerpos y Fuerzas de Seguridad del Estado, de las Comunidades Autónomas y de las Corporaciones Locales, así como por el Resguardo Aduanero, en funciones de defensa, vigilancia y seguridad.
+10.º Las ambulancias y los vehículos que, por sus características, no permitan otra finalidad o utilización que la relativa a la vigilancia y socorro en autopistas y carreteras.
+b) La primera matriculación de embarcaciones y buques de recreo o de deportes náuticos, nuevos o usados, que tengan más de ocho metros de eslora, en el registro de matrícula de buques, ordinario o especial o, en caso de no ser inscribibles en dicho registro, la primera matriculación en el registro de la correspondiente Federación deportiva. Estará sujeta en todo caso, cualquiera que sea su eslora, la primera matriculación de las motos náuticas definidas en el epígrafe 4.º del artículo 70.1.
+La eslora a considerar será la definida como tal en la versión vigente al día 30 de junio de 2007 del Real Decreto 544/2007, de 27 de abril, por el que se regula el abanderamiento y matriculación de las embarcaciones de recreo en la Lista séptima del Registro de matrícula de buques.
+Tienen la consideración de embarcaciones y buques de recreo o de deportes náuticos:
+1.º Las embarcaciones que se inscriban en las listas sexta o séptima del registro de matrícula de buques, ordinario o especial o, en su caso, en el registro de la correspondiente Federación deportiva.
+2.º Las embarcaciones distintas de las citadas en el párrafo l.º anterior que se destinen a la navegación privada de recreo, tal como se define en el apartado 13 del artículo 4 de esta Ley.
+c) La primera matriculación de aviones, avionetas y demás aeronaves, nuevas o usadas, provistas de motor mecánico, en el Registro de Aeronaves, excepto la de las que se citan a continuación:
+1.º Las aeronaves que, por sus características técnicas, sólo puedan destinarse a trabajos agrícolas o forestales o al traslado de enfermos y heridos.
+2.º Las aeronaves cuyo peso máximo al despegue no exceda de 1.550 kilogramos según certificado expedido por la Dirección General de Aviación Civil.
+d) Estará sujeta al impuesto la circulación o utilización en España de los medios de transporte a que se refieren los apartados anteriores, cuando no se haya solicitado su matriculación definitiva en España conforme a lo previsto en la disposición adicional primera, dentro del plazo de los 30 días siguientes al inicio de su utilización en España. Este plazo se extenderá a 60 días cuando se trate de medios de transporte que se utilicen en España como consecuencia del traslado de la residencia habitual de su titular al territorio español siempre que resulte de aplicación la exención contemplada en el apartado 1.n) del artículo 66.
+A estos efectos, se considerarán como fechas de inicio de su circulación o utilización en España las siguientes:
+1.º Si se trata de medios de transporte que han estado acogidos a los regímenes de importación temporal o de matrícula turística, la fecha de abandono o extinción de dichos regímenes.
+2.º En el resto de los casos, la fecha de la introducción del medio de transporte en España. Si dicha fecha no constase fehacientemente, se considerará como fecha de inicio de su utilización la que resulte ser posterior de las dos siguientes:
+1.º Fecha de adquisición del medio de transporte.
+2.º Fecha desde la cual se considera al interesado residente en España o titular de un establecimiento situado en España.
+2. a) La delimitación y determinación de los vehículos a que se refieren el apartado 1.a) anterior y el apartado 1 del articulo 70 se efectuará, en lo no previsto expresamente en dichos preceptos, con arreglo a las definiciones y categorías contenidas en la versión vigente al día 30 de junio de 2007 del Anexo II del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre.
+b) A efectos de esta Ley, se considerarán nuevos aquellos medios de transporte que tengan tal consideración de acuerdo con lo establecido en la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, aunque la primera matriculación se produzca en Canarias.
+c) La aplicación de los supuestos de no sujeción a que se refieren los números 9.º y 10.º del apartado 1.a) anterior, estará condicionada a su previo reconocimiento por la Administración Tributaria en la forma que se determine reglamentariamente. Cuando el hecho imponible sea la circulación o utilización de medios de transporte en España la aplicación de estos supuestos de no sujeción estará condicionada, además, a que la solicitud para el referido reconocimiento previo se presente dentro de los plazos establecidos en el artículo 65.1.d).
+En los demás supuestos de no sujeción será necesario presentar una declaración ante la Administración tributaria en el lugar, forma, plazo e impresos que determine el Ministro de Economía y Hacienda. Se exceptúan de lo previsto en este párrafo los vehículos homologados por la Administración tributaria.
+3. La modificación, antes de transcurridos cuatro años desde la realización del hecho imponible, de las circunstancias o requisitos determinantes de los supuestos de no sujeción o de exención previstos en la presente Ley, dará lugar a la autoliquidación e ingreso del impuesto especial con referencia al momento en que se produzca dicha modificación, salvo que tras la modificación resulte aplicable un supuesto de no sujeción o de exención de los previstos en esta Ley. Para que la transmisión del medio de transporte que en su caso se produzca surta efectos ante el órgano competente en materia de matriculación, será necesario, según el caso, acreditar ante dicho órgano el pago del impuesto, o bien presentar ante el mismo la declaración de no sujeción o exención debidamente diligenciada por el órgano gestor, o el reconocimiento previo de la Administración Tributaria para la aplicación del supuesto de no sujeción o de exención.
+El período al que se refiere el párrafo anterior de este apartado se reducirá a dos años cuando se trate de medios de transporte cuya primera matriculación definitiva hubiera estado exenta en virtud de lo dispuesto en las letras b) y c) del apartado 1 del artículo 66 de esta Ley.
+Asimismo, la autoliquidación e ingreso a que se refieren los párrafos anteriores de este apartado no será exigible cuando la modificación de las circunstancias consista en el envío del medio de transporte fuera del territorio de aplicación del impuesto con carácter definitivo, lo que se acreditará mediante la certificación de la baja en el registro correspondiente expedida por el órgano competente en materia de matriculación.
+La expedición de un permiso de circulación o utilización por el órgano competente en materia de matriculación para un medio de transporte que se reintroduzca en el territorio de aplicación del impuesto tras haber sido enviado fuera del mismo con carácter definitivo y acogido a lo dispuesto en el párrafo anterior o en el apartado 3 del artículo 66, tendrá la consideración de primera matriculación definitiva a efectos de este impuesto.
+4. El ámbito espacial de aplicación del impuesto es todo el territorio español, sin perjuicio de lo dispuesto en las normas reguladoras del Concierto y del Convenio Económico, en vigor, respectivamente, en los Territorios Históricos del País Vasco y en la Comunidad Foral de Navarra.
+5. No estará sujeta al impuesto la primera matriculación definitiva de los medios de transporte cuya circulación o utilización haya estado sujeta al impuesto con arreglo a lo establecido en la letra d) del apartado 1 del artículo 65 de esta Ley, siempre que dentro de los plazos establecidos:
+a) el impuesto correspondiente a esa sujeción haya sido objeto de autoliquidación e ingreso, o bien,
+b) el impuesto correspondiente a esa sujeción haya sido objeto de liquidación por parte de la Administración Tributaria e ingresado el importe correspondiente, o bien,
+c) la Administración Tributaria haya reconocido previamente la procedencia de la aplicación de un supuesto de no sujeción o de exención, en los casos en que así esté previsto, o bien,
+d) se haya presentado una declaración ante la Administración Tributaria relativa a una exención del impuesto, en los casos en que así esté previsto.
+Se modifica el apartado 1.d) por el art. 6.6 de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+ Se modifican los apartados 1.a).1º, 2.c) y 3 y se añade el apartado 5, con efectos desde el 1 de enero de 2011, por el art. 82.1 a 4 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+ Se modifica el apartado 1.a).4º por el art. 8.2 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Se modifican los apartados 1 y 2, con efectos a partir del 1 de enero de 2008, por la disposición adicional 8.1.1 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744. en la redacción dada por la disposición adicional 62 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295.
+ Se modifican los apartados 1 y 2, con efectos a partir del 1 de enero de 2008, por la disposición adicional 8.1.1 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744
+ Se modifica el apartado 3 por el art. 7.2 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se suprime el párrafo tercero del punto 2º del apartado 1.a) por el art. 6 bis de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Se modifica el apartado 1.a).4º por el art. 2 de la Ley 39/1997, de 8 de octubre. Ref. BOE-A-1997-21521
+ Se modifica el apartado 1.a).4º por el art. 2 del Real Decreto-Ley 6/1997 de 9 de abril. Ref. BOE-A-1997-7698
+ Se modifica el apartado 1.d), con efectos a partir del 1 de enero de 1997, por el art. 11.1 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Se modifica el apartado 3 por el art. 20.1 de la Ley 42/1994, de 30 de diciembre Ref. BOE-A-1994-28968 , y con entrada en vigor el 20 de enero de 1995 y efectos a partir del 1 de enero del 1995, el apartado 1.a).4º por el art. 84.3 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+ Se modifica el apartado 1.a).4º, con efectos a partir del 1 de enero de 1994, por el art. 81 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087
+
+### Artículo 66
+
+Artículo 66. Exenciones, devoluciones y reducciones.
+1. Estará exenta del impuesto la primera matriculación definitiva o, en su caso, la circulación o utilización en España, de los siguientes medios de transporte:
+a) Los vehículos automóviles considerados como taxis, autotaxis o autoturismos por la legislación vigente.
+b) Los vehículos automóviles que se afecten efectiva y exclusivamente al ejercicio de la actividad de enseñanza de conductores mediante contraprestación.
+c) Los vehículos automóviles que se afecten efectiva y exclusivamente al ejercicio de actividades de alquiler.
+A estos efectos no se entenderá que existe actividad de alquiler de automóviles respecto de aquéllos que sean objeto de cesión a personas vinculadas en los términos previstos en el artículo 79 de la Ley del Impuesto sobre el Valor Añadido, o por tiempo superior a tres meses a una misma persona o entidad, durante un periodo de doce meses consecutivos.
+A estos efectos, no tendrán la consideración de alquiler de automóviles los contratos de arrendamiento-venta y asimilados ni los de arrendamiento con opción de compra.
+d) Los vehículos automóviles matriculados a nombre de minusválidos para su uso exclusivo, siempre que concurran los siguientes requisitos:
+1.º) Que hayan transcurrido al menos cuatro años desde la matriculación de otro vehículo en análogas condiciones. No obstante, este requisito no se exigirá en supuestos de siniestro total de los vehículos, debidamente acreditado.
+2.º) Que no sean objeto de una transmisión posterior por actos «inter vivos» durante el plazo de los cuatro años siguientes a la fecha de su matriculación.
+e) Los vehículos que sean objeto de matriculación especial, en régimen de matrícula diplomática, dentro de los límites y con los requisitos que se determinen reglamentariamente, a nombre de:
+1.º Las Misiones diplomáticas acreditadas y con sede permanente en España, y de los agentes diplomáticos.
+2.º Las Organizaciones internacionales que hayan suscrito un Acuerdo de Sede con el Estado español y de los funcionarios de las mismas con estatuto diplomático.
+3.º Las Oficinas Consulares de carrera y de los funcionarios consulares de carrera de nacionalidad extranjera.
+4.º El personal técnico y administrativo de las Misiones diplomáticas y las Organizaciones internacionales así como de los empleados consulares de las Oficinas Consulares de carrera, siempre que se trate de personas que no tengan la nacionalidad española ni tengan residencia permanente en España.
+No obstante lo establecido en los números 2.º y 4.º anteriores, cuando los Convenios internacionales por los que se crean tales Organizaciones o los Acuerdos de sede de las mismas establezcan otros límites o requisitos, serán éstos los aplicables a dichas Organizaciones, a sus funcionarios con estatuto diplomático, y a su personal técnico-administrativo.
+f) Los vehículos automóviles matriculados en otro Estado miembro, puestos a disposición de una persona física residente en España por personas o entidades establecidas en otro Estado miembro, siempre que se cumplan los siguientes requisitos:
+1.º) Que la puesta a disposición se produzca como consecuencia de la relación laboral que se mantenga con la persona física residente, ya sea en régimen de asalariado o no.
+2.º) Que no se destine el vehículo a ser utilizado esencialmente en el territorio de aplicación del impuesto con carácter permanente.
+A estos efectos se considera que el vehículo no se destina a ser utilizado esencialmente en el territorio de aplicación del impuesto con carácter permanente cuando es puesto a disposición de un residente en España cuyo centro de trabajo está en otro Estado miembro limítrofe y lo utiliza para ir al mismo diariamente y volver, sin perjuicio de los periodos vacacionales.
+g) Las embarcaciones y los buques de recreo o de deportes náuticos, que se afecten efectiva y exclusivamente al ejercicio de actividades de alquiler.
+Esta exención quedará condicionada a las limitaciones y al cumplimiento de los requisitos establecidos para el alquiler de vehículos. En todo caso, se entenderá que no existe actividad de alquiler cuando la embarcación sea cedida por el titular para su arrendamiento, siempre que dicho titular o una persona a él vinculada reciba por cualquier título un derecho de uso total o parcial sobre la referida embarcación o sobre cualquier otra de la que sea titular el cesionario o una persona vinculada al cesionario. Para la aplicación de este párrafo se consideran personas vinculadas aquéllas en las que concurren las condiciones previstas en el artículo 79 de la Ley del Impuesto sobre el Valor Añadido.
+h) Las embarcaciones y los buques de recreo o de deportes náuticos cuya titularidad corresponda a escuelas deportivas náuticas reconocidas oficialmente por la Dirección General de la Marina Mercante y destinadas efectiva y exclusivamente al ejercicio de la actividad de enseñanza para el gobierno de las mismas.
+No obstante, no perderán el derecho a la exención las embarcaciones y los buques de recreo o de deportes náuticos que gozando de esta exención se destinen tanto a la actividad de enseñanza como a la de alquiler, siempre que se cumplan los requisitos establecidos en el segundo párrafo de la letra g) del apartado 1 de este artículo.
+i) Las embarcaciones que por su configuración solamente puedan ser impulsadas a remo o pala, así como los veleros de categoría olímpica.
+j) Las aeronaves matriculadas por el Estado, Comunidades Autónomas, Corporaciones locales o por empresas u organismos públicos.
+k) Las aeronaves cuya titularidad corresponda a escuelas reconocidas oficialmente por la Dirección General de Aviación Civil y destinadas efectiva y exclusivamente a la educación y formación aeronáutica de pilotos o a su reciclaje profesional.
+l) Las aeronaves cuya titularidad corresponda a empresas de navegación aérea, siempre que su utilización no pueda calificarse de aviación privada de recreo con arreglo a lo previsto en el número 4 del artículo 4 de esta Ley.
+En el caso de aeronaves arrendadas a empresas de navegación aérea, la exención no será aplicable cuando el arrendador o personas vinculadas a éste resulten en su conjunto usuarios finales de la aeronave en un porcentaje superior al 5 por 100 de las horas de vuelo realizadas por ésta durante un período de doce meses consecutivos. Para la aplicación de este párrafo se consideran personas vinculadas aquéllas en las que concurren las condiciones previstas en el artículo 79 de la Ley del Impuesto sobre el Valor Añadido.
+m) Las aeronaves matriculadas para ser cedidas en arrendamiento exclusivamente a empresas de navegación aérea siempre que su utilización no pueda calificarse de aviación privada de recreo con arreglo a lo previsto en el número 4 del artículo 4 de esta Ley.
+La exención no será aplicable cuando la persona a cuyo nombre se matricule la aeronave o las personas vinculadas a ella resulten en su conjunto usuarios finales de la aeronave en un porcentaje superior al 5 por 100 de las horas de vuelo realizadas por ésta durante un período de doce meses consecutivos. Para la aplicación de este párrafo se consideran personas vinculadas aquéllas en las que concurren las condiciones previstas en el artículo 79 de la Ley del Impuesto sobre el Valor Añadido.
+n) Los medios de transporte que se matriculen o se utilicen como consecuencia del traslado de la residencia habitual de su titular desde el extranjero al territorio español. La aplicación de la exención quedará condicionada al cumplimiento de los siguientes requisitos:
+1.º Los interesados deberán haber tenido su residencia habitual fuera del territorio español al menos durante los doce meses consecutivos anteriores al traslado.
+2.º Los medios de transporte deberán haber sido adquiridos o importados en las condiciones normales de tributación en el país de origen o procedencia y no se deberán haber beneficiado de ninguna exención o devolución de las cuotas devengadas con ocasión de su salida de dicho país.
+Se considerará cumplido este requisito cuando los medios de transporte se hubiesen adquirido o importado al amparo de las exenciones establecidas en los regímenes diplomático o consular o en favor de los miembros de los organismos internacionales reconocidos y con sede en el Estado de origen, con los límites y condiciones fijados por los convenios internacionales por los que se crean dichos organismos por los acuerdos de sede.
+3.º Los medios de transporte deberán haber sido utilizados por el interesado en su antigua residencia al menos seis meses antes de la fecha en que haya abandonado aquélla.
+4.º La matriculación deberá solicitarse en el plazo previsto en el artículo 65.1.d), de esta Ley.
+5.º Los medios de transporte a los que se aplique esta exención no deberán ser transmitidos durante el plazo de doce meses posteriores a la matriculación. El incumplimiento de este requisito determinará la exacción del impuesto referida a la fecha en que se produjera dicho incumplimiento.
+ñ) Los medios de transporte matriculados en otro Estado miembro y que sean alquilados a un proveedor de otro Estado miembro por personas o entidades residentes en España durante un periodo no superior a tres meses, siempre que no les resulte de aplicación la exención prevista en la letra c) de este apartado.
+2. La aplicación de las exenciones a que se refieren las letras a), b), c), d), f), g), h), k), m) y ñ) del apartado anterior estará condicionada a su previo reconocimiento por la Administración tributaria en la forma que se determine reglamentariamente. En particular, cuando se trate de la exención a que se refiere la letra d) será necesaria la previa certificación de la minusvalía o de la invalidez por el Instituto Nacional de Servicios Sociales o por las entidades gestoras competentes.
+La aplicación de la exención a que se refiere la letra e) del apartado anterior requerirá la previa certificación de su procedencia por el Ministerio de Asuntos Exteriores y de Cooperación.
+En los demás supuestos de exención será necesario presentar una declaración ante la Administración tributaria en el lugar, forma, plazo e impreso que determine el Ministro de Economía y Hacienda.
+Cuando el hecho imponible sea la circulación o utilización de medios de transporte en España, la aplicación de las exenciones establecidas en el apartado anterior estará condicionada a que la solicitud de su reconocimiento previo o la presentación de la correspondiente declaración se efectúe dentro de los plazos establecidos en el artículo 65.1.d) de esta Ley.
+3. Los empresarios dedicados profesionalmente a la reventa de medios de transporte tendrán derecho, respecto de aquéllos que acrediten haber enviado con carácter definitivo fuera del territorio de aplicación del impuesto antes de que hayan transcurrido cuatro años desde la realización del hecho imponible, a la devolución de la parte de la cuota satisfecha correspondiente al valor del medio de transporte en el momento del envío. El envío con carácter definitivo fuera del territorio de aplicación del Impuesto del medio de transporte se acreditará mediante la certificación de la baja en el registro correspondiente expedida por el órgano competente en materia de matriculación.
+En la devolución a que se refiere el párrafo anterior se aplicarán las siguientes reglas:
+a) El envío fuera del territorio de aplicación del impuesto habrá de efectuarse como consecuencia de una venta en firme.
+b) La base de la devolución estará constituida por el valor de mercado del medio de transporte en el momento del envío, sin que pueda exceder del valor que resulte de la aplicación de las tablas de valoración a que se refiere el apartado b) del artículo 69 de esta Ley.
+c) El tipo de la devolución será el aplicado en su momento para la liquidación del impuesto.
+d) El importe de la devolución no será superior, en ningún caso, al de la cuota satisfecha.
+e) La devolución se solicitará por el empresario revendedor en el lugar, forma, plazos e impresos que establezca el Ministro de Economía y Hacienda.
+4. La base imponible del impuesto, determinada conforme a lo previsto en el artículo 69, será objeto de una reducción del 50 por 100 de su importe respecto de los vehículos automóviles con una capacidad homologada no inferior a cinco plazas y no superior a nueve, incluida en ambos casos la del conductor, que se destinen al uso exclusivo de familias calificadas de numerosas conforme a la normativa vigente con los siguientes requisitos:
+a) La primera matriculación definitiva del vehículo deberá tener lugar a nombre del padre o de la madre de las referidas familias, o bien, a nombre de ambos conjuntamente.
+b) Deberán haber transcurrido al menos cuatro años desde la matriculación de otro vehículo a nombre de cualquiera de las personas citadas en la letra a) anterior y al amparo de esta reducción. No obstante, este requisito no se exigirá en supuestos de siniestro total de los vehículos debidamente acreditados.
+c) El vehículo automóvil matriculado al amparo de esta reducción no podrá ser objeto de una transmisión posterior por actos "inter vivos" durante el plazo de los cuatro años siguientes a la fecha de su matriculación.
+d) La aplicación de esta reducción está condicionada a su reconomiento previo por la Administración tributaria en la forma que se determine reglamentariamente. Será necesario, en todo caso, la presentación ante la Administración tributaria de la certificación acreditativa de la condición de familia numerosa expedida por el organismo de la Administración central o autonómica que corresponda.
+5. La base imponible del impuesto, determinada conforme a lo previsto en el artículo 69, será objeto de una reducción del 30 por ciento de su importe respecto de los siguientes vehículos:
+a) Vehículos definidos como «autocaravanas» en la versión vigente al día 30 de junio de 2007 del Anexo II del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre.
+b) Vehículos acondicionados para ser utilizados como vivienda a los que se refieren el último párrafo del número 1.º y el último párrafo del número 8.º, ambos del apartado 1.a) del artículo 65.
+Se añade la letra ñ) al apartado 1 y se modifica el apartado 2 por el art. 81.1 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se modifica y reordena el apartado 1 y se modifica el primer párrafo del apartado 2 por el art. 6.7 de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+ Se modifica y reordena el apartado 1 y se modifica el primer párrafo del apartado 2 por el art. 72 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651#a72.
+ Se modifican los apartados 1 a 3, con efectos desde 1 de enero de 2011, por el art. 82.5 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+ Se añade el apartado 5 por el art. 8.3 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Se modifican las letras f), j) y k) del apartado 1 por el art. 4.3 y 4 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843
+ Se modifica por el art. 7.3 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se añade la letra l) y se modifica la letra k) del apartado 1 por el art. 11.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Se modifica el título y se añade el apartado 3 por el art. 20.2 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+
+### Artículo 67
+
+Artículo 67. Sujetos pasivos.
+Serán sujetos pasivos del impuesto:
+a) Las personas o entidades a cuyo nombre se efectúe la primera matriculación definitiva del medio de transporte.
+b) En los casos previstos en la letra d) del apartado uno del artículo 65 de esta Ley, las personas o entidades a que se refiere la disposición adicional primera de esta Ley.
+c) En los casos previstos en el apartado 3 del artículo 65 de esta Ley, las personas o entidades a cuyo nombre se encuentre matriculado el medio de transporte.
+Se modifica la letra b) por el art. 11.3 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 68
+
+Artículo 68. Devengo.
+1. El impuesto se devengará en el momento en el que el sujeto pasivo presente la solicitud de la primera matriculación definitiva del medio de transporte.
+2. En los casos previstos en la letra d) del apartado 1 del artículo 65 de esta Ley, el impuesto se devengará el día siguiente a la finalización del plazo al que alude dicha letra.
+3. En los casos previstos en el apartado 3 del artículo 65 de esta Ley, el impuesto se devengará en el momento en que se produzca la modificación de las circunstancias o requisitos que motivaron la no sujeción o exención del impuesto.
+
+### Artículo 69
+
+Artículo 69. Base imponible.
+La base imponible estará constituida:
+a) En los medios de transporte nuevos, por el importe que con ocasión de la adquisición del medio de transporte se haya determinado como base imponible a efectos del Impuesto sobre el Valor Añadido, de un impuesto equivalente o, a falta de ambos, por el importe total de la contraprestación satisfecha por el adquirente, determinada conforme al artículo 78 de la Ley del Impuesto sobre el Valor Añadido. No obstante, en este último caso, no formarán parte de la base imponible las cuotas del Impuesto General Indirecto Canario satisfechas o soportadas directamente por el vendedor del medio de transporte.
+b) En los medios de transporte usados, por su valor de mercado en la fecha de devengo del impuesto.
+Cuando se trate de medios de transporte que hubieran estado previamente matriculados en el extranjero y que sean objeto de primera matriculación definitiva en España teniendo la condición de usados, del valor de mercado se minorará, en la medida en que estuviera incluido en el mismo, el importe residual de las cuotas de los impuestos indirectos que habrían sido exigibles, sin ser deducibles, en el caso de que el medio de transporte hubiera sido objeto de primera matriculación definitiva en España hallándose en estado nuevo. A estos efectos, el citado importe residual se determinará aplicando sobre el valor de mercado del medio de transporte usado en el momento del devengo un porcentaje igual al que, en su día, hubieran representado las cuotas de tales impuestos en el precio de venta, impuestos incluidos, del indicado medio de transporte en estado nuevo.
+Los sujetos pasivos podrán utilizar, para determinar el valor de mercado, los precios medios de venta aprobados al efecto por el Ministro de Economía y Hacienda que estuviesen vigentes en la fecha de devengo del impuesto. En los casos en que sea aplicable la minoración a que se refiere el párrafo anterior, el Ministro de Economía y Hacienda establecerá el procedimiento para determinar la parte de dichos precios medios que corresponde al importe residual de las cuotas de los impuestos indirectos soportadas.
+Cuando los sujetos pasivos declaren un valor de mercado determinado conforme a lo previsto en el párrafo anterior, la Administración tributaria no podrá comprobar por los otros medios previstos en el artículo 57 de la Ley General Tributaria el valor así declarado.
+Se modifica la letra b) por el art. 8.4 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Se modifica la letra a) por el art. 2.1 del Real Decreto-Ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663
+ Redactado conforme a la corrección de errores publicada en BOE núm. 16, de 19 de enero de 1993. Ref. BOE-A-1993-1251
+
+### Artículo 70
+
+Artículo 70. Tipo impositivo.
+1. Para la determinación de los tipos impositivos aplicables se establecen los siguientes epígrafes:
+Epígrafe 1.º
+a) Vehículos cuyas emisiones oficiales de CO2 no sean superiores a 120 g/km, con excepción de los vehículos tipo «quad» y de los vehículos comprendidos en los epígrafes 6.º, 7.º, 8.º y 9.º
+b) Vehículos provistos de un solo motor que no sea de combustión interna, con excepción de los vehículos tipo «quad».
+Epígrafe 2.º Vehículos cuyas emisiones oficiales de CO2 sean superiores a 120 g/km y sean inferiores a 160 g/km, con excepción de los vehículos tipo «quad» y de los vehículos comprendidos en el epígrafe 9.º
+Epígrafe 3.º Vehículos cuyas emisiones oficiales de CO2 no sean inferiores a 160 g/km y sean inferiores a 200 g/km, con excepción de los vehículos tipo «quad» y de los vehículos comprendidos en el epígrafe 9.º
+Epígrafe 4.º
+a) Vehículos cuyas emisiones oficiales de CO2 sean iguales o superiores a 200 g/km, con excepción de los vehículos tipo «quad» y de los vehículos comprendidos en el epígrafe 9.º
+b) Vehículos respecto de los que sea exigible la medición de sus emisiones de CO2, cuando estas no se acrediten.
+c) Vehículos comprendidos en las categorías N2 y N3 acondicionados como vivienda.
+d) Vehículos tipo «quad». Se entiende por vehículo tipo «quad» el vehículo de cuatro o más ruedas, con sistema de dirección mediante manillar en el que el conductor va sentado a horcajadas y que está dotado de un sistema de tracción adecuado a un uso fuera de carretera.
+e) Motos náuticas. Se entiende por «moto náutica» la embarcación propulsada por un motor y proyectada para ser manejada por una o más personas sentadas, de pie o de rodillas, sobre los límites de un casco y no dentro de él.
+Téngase en cuenta que, con efectos hasta el 31 de diciembre de 2021, se modifican los epígrafes 1.º, 2.º, 3.º y 4.º del apartado 1, por la disposición adicional 5 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#da-5, que quedan redactados en los siguientes términos:
+ «Epígrafe 1.º
+ a) Vehículos cuyas emisiones oficiales de CO2 no sean superiores a 144 g/km, con excepción de los vehículos tipo ''quad'' y de los vehículos comprendidos en los epígrafes 6.º, 7.º, 8.º y 9.º
+ b) Vehículos provistos de un solo motor que no sea de combustión interna, con excepción de los vehículos tipo ''quad''.
+ Epígrafe 2.º
+ Vehículos cuyas emisiones oficiales de CO2 sean superiores a 144 g/km y sean inferiores a 192 g/km, con excepción de los vehículos tipo ''quad'' y de los vehículos comprendidos en el epígrafe 9.º
+ Epígrafe 3.º
+ Vehículos cuyas emisiones oficiales de CO2 no sean inferiores a 192 g/km y sean inferiores a 240 g/km, con excepción de los vehículos tipo ''quad'' y de los vehículos comprendidos en el epígrafe 9.º
+ Epígrafe 4.º
+ a) Vehículos cuyas emisiones oficiales de CO2 sean iguales o superiores a 240 g/km, con excepción de los vehículos tipo ''quad'' y de los vehículos comprendidos en el epígrafe 9.º
+ b) Vehículos respecto de los que sea exigible la medición de sus emisiones de CO2, cuando estas no se acrediten.
+ c) Vehículos comprendidos en las categorías N2 y N3 acondicionados como vivienda.
+ d) Vehículos tipo ''quad''. Se entiende por vehículo tipo ''quad'' el vehículo de cuatro o más ruedas, con sistema de dirección mediante manillar en el que el conductor va sentado a horcajadas y que está dotado de un sistema de tracción adecuado a un uso fuera de carretera.
+ e) Motos náuticas. Se entiende por ''moto náutica'' la embarcación propulsada por un motor y proyectada para ser manejada por una o más personas sentadas, de pie o de rodillas, sobre los límites de un casco y no dentro de él.»
+Epígrafe 5.º
+a) Vehículos no comprendidos en los epígrafes 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º ó 9.º
+b) Embarcaciones y buques de recreo o de deportes náuticos, con excepción de las motos náuticas.
+c) Aviones, avionetas y demás aeronaves.
+Epígrafe 6.º Motocicletas no comprendidas en la letra c) del epígrafe 9.º cuyas emisiones oficiales de CO2 no sean superiores a 100 g/km.
+Epígrafe 7.º Motocicletas no comprendidas en la letra c) del epígrafe 9.º cuyas emisiones oficiales de CO2 sean superiores a 100 g/km y sean inferiores o iguales a 120 g/km.
+Epígrafe 8.º Motocicletas no comprendidas en la letra c) del epígrafe 9.º cuyas emisiones oficiales de CO2 sean superiores a 120 g/km y sean inferiores a 140 g/km.
+Epígrafe 9.º
+a) Motocicletas no comprendidas en la letra c) de este epígrafe cuyas emisiones oficiales de CO2 sean iguales o superiores a 140 g/km.
+b) Motocicletas no comprendidas en la letra c) de este epígrafe cuyas emisiones oficiales de CO2 no se acrediten.
+c) Motocicletas que tengan una potencia CEE igual o superior a 74Kw (100 cv) y una relación potencia neta máxima, masa del vehículo en orden de marcha, expresada en kw/kg igual o superior a 0,66, cualesquiera que sean sus emisiones oficiales de CO2.
+2. Los tipos impositivos aplicables serán los siguientes:
+a) Los tipos que, conforme a lo previsto en el artículo 43 de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, hayan sido aprobados por la Comunidad Autónoma.
+b) Si la Comunidad Autónoma no hubiese aprobado los tipos a que se refiere el párrafo anterior, se aplicarán los siguientes:
+Epígrafes
+ Península e Illes Balears
+ Canarias
+ 1.º y 6.º
+ 0,00 por 100
+ 0,00 por 100
+ 2.º y 7.º
+ 4,75 por 100
+ 3,75 por 100
+ 3.º y 8.º
+ 9,75 por 100
+ 8,75 por 100
+ 4.º y 9.º
+ 14,75 por 100
+ 13,75 por 100
+ 5.º
+ 12,00 por 100
+ 11,00 por 100
+c) En Ceuta y Melilla se aplicarán los siguientes tipos impositivos:
+Epígrafes
+ 0 por 100
+ 1.º y 6.º
+ 0 por 100
+ 2.º y 7.º
+ 0 por 100
+ 3.º y 8.º
+ 0 por 100
+ 4.º y 9.º
+ 0 por 100
+ 5.º
+ 0 por 100
+3. El tipo impositivo aplicable será el vigente en el momento del devengo.
+4. Cuando el devengo del impuesto haya tenido lugar en Ceuta y Melilla y el medio de transporte sea objeto de importación definitiva en la península e Illes Balears o en Canarias, se liquidará el impuesto a los tipos impositivos resultantes de multiplicar los tipos indicados en los párrafos a) o b) del apartado 2 anterior, según proceda, por los coeficientes siguientes:
+a) Si la importación definitiva tiene lugar dentro del primer año siguiente a la realización del hecho imponible: 1,00.
+b) Si la importación definitiva tiene lugar dentro del segundo año siguiente a la realización del hecho imponible: 0,67.
+c) Si la importación definitiva tiene lugar dentro del tercer o cuarto año siguientes a la realización del hecho imponible: 0,42.
+En los casos previstos en este apartado la base imponible estará constituida por el valor en aduana del medio de transporte.
+5. Cuando el medio de transporte por el que se haya devengado el impuesto en Canarias sea objeto de introducción, con carácter definitivo, en la península e Illes Balears, dentro del primer año siguiente a la realización del hecho imponible, el titular deberá autoliquidar e ingresar las cuotas correspondientes a la diferencia entre el tipo impositivo aplicable en la Comunidad Autónoma de Canarias y el tipo que corresponda aplicar en la Comunidad Autónoma en que sea objeto de introducción con carácter definitivo, sobre una base imponible que estará constituida por el valor del medio de transporte en el momento de la introducción.
+Lo dispuesto en el párrafo anterior de este apartado no será aplicable cuando, en relación con el medio de transporte objeto de la introducción, ya se hubiera exigido el impuesto en Canarias con aplicación de un tipo impositivo no inferior al vigente en las Comunidades Autónomas peninsulares o en la de llles Balears para dicho medio de transporte en el momento de la introducción.
+6. Las liquidaciones y autoliquidaciones que procedan en virtud de los apartados 4 y 5 de este articulo no serán exigibles en los casos de traslado de la residencia del titular del medio de transporte al territorio en el que tienen lugar, según el caso, la importación definitiva o la introducción definitiva. La aplicación de lo dispuesto en este apartado está condicionada al cumplimiento de los siguientes requisitos:
+a) Los interesados deberán haber tenido su residencia habitual en Ceuta y Melilla o en Canarias, según el caso, al menos durante los doce meses consecutivos anteriores al traslado.
+b) Los medios de transporte deberán haber sido adquiridos en las condiciones normales de tributación existentes, según el caso, en Ceuta y Melilla o en Canarias, y no se deberán haber beneficiado de ninguna exención o devolución con ocasión de su salida de dichos territorios.
+c) Los medios de transporte deberán haber sido utilizados por el interesado en su antigua residencia durante un período mínimo de seis meses antes de haber abandonado dicha residencia.
+d) Los medios de transporte a que se refiere el presente apartado no deberán ser transmitidos durante el plazo de los doce meses posteriores a la importación o introducción. El incumplimiento de este requisito determinará la práctica de la correspondiente liquidación o autoliquidación con referencia al momento en que se produjera dicho incumplimiento.
+7. Las emisiones oficiales de CO2 se acreditarán, en su caso, por medio de un certificado expedido al efecto por el fabricante o importador del vehículo excepto en los casos en que dichas emisiones consten en la tarjeta de inspección técnica o en cualquier otro documento de carácter oficial expedido individualmente respecto del vehículo de que se trate.
+Véase la disposición adicional 5 de la Ley 11/2021, de 9 de julio, por la que se modifican hasta el 31 de diciembre de 2021, los epígrafes 1.º, 2.º, 3.º y 4.º del apartado 1. Ref. BOE-A-2021-11473#da-5
+ Se modifican los apartados 4 y 5, con efectos desde el 1 de enero de 2011, por el art. 82.6 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+ Se modifica el apartado 1 por la disposición final 8 de la Ley 11/2009, de 26 de octubre. Ref. BOE-A-2009-17000.
+ Esta modificación será de aplicación para los períodos impositivos que se inicien a partir del 1 de enero de 2009, según se establece en la disposición final 12.
+ Se modifican los apartados 1 y 2 por el art. 8.5 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
+ Redactado conforme a la corrección de erratas publicada en BOE núm. 62, de 13 de marzo de 2009. Ref. BOE-A-2009-4207.
+ Se modifica, con efectos a partir del 1 de enero de 2008, por la disposición adicional 8.1.2 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744. en la redacción dada por la disposición adicional 62 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295.
+ Se modifica, con efectos a partir del 1 de enero de 2008, por la disposición adicional 8.1.2 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744
+ Se modifica por el art. 62 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962
+ Se añade el apartado 6 por el art. 11.4 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Se sustituye lo indicado por la disposición adicional única del Real Decreto-Ley 1/1996, de 19 de enero. Ref. BOE-A-1996-1496
+ Se modifica por el art. 34.1 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Téngase en cuenta que se declara este artículo inconstitucional y nulo, en lo referente a las Islas Canarias, con los efectos citados en el f.j.10, en la redacción dada por el art. 34.1 del Real Decreto-ley 12/1995, de 28 de diciembre, por Sentencia 137/2003, de 3 de julio. Ref. BOE-T-2003-15234
+ Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 16, de 18 de enero de 1996. Ref. BOE-A-1996-1219
+ Se modifica, con efectos a partir del 1 de enero de 1995, por el art. 84.1 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+
+### Artículo 70 bis
+
+Artículo 70 bis. Cuota del impuesto.
+1. La cuota tributaria será el resultado de aplicar a la base imponible los tipos impositivos regulados en el artículo 70.
+2. No obstante, la cuota tributaria se fijará por cada mes o fracción de mes que los medios de transporte se destinen a ser utilizados en el territorio de aplicación del impuesto en los siguientes supuestos:
+a) Cuando se trate de vehículos automóviles matriculados en otro Estado miembro, puestos a disposición de una persona física residente en España por personas o entidades establecidas en otro Estado miembro, siempre que se cumplan los siguientes requisitos:
+1.º Que la puesta a disposición se produzca como consecuencia de la relación laboral que se mantenga con la persona física residente, ya sea en régimen de asalariado o no.
+2.º Que se destine el vehículo a ser utilizado esencialmente en el territorio de aplicación del impuesto con carácter permanente.
+b) Cuando se trate de medios de transporte matriculados en otro Estado miembro y que sean alquilados a un proveedor de otro Estado miembro por personas o entidades residentes en España durante un periodo superior a tres meses.
+En concreto, la cuota tributaria será el resultado de multiplicar el importe determinado conforme al apartado 1 por los siguientes porcentajes:
+Los 12 primeros meses: 3 por 100.
+De los 13 a los 24 meses: 2 por 100.
+De los 25 meses en adelante: 1 por 100.
+El importe de la cuota tributaria determinada conforme a lo establecido en este apartado no podrá ser superior al importe de la misma calculada conforme al apartado 1.
+Se añade el artículo por el artículo 81.2 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se deroga, con efectos a partir del 1 de enero de 2008, por la disposición adicional 8.1.3 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744 en la redacción dada por la disposición adicional 62 de la Ley 51/207, de 26 de diciembre. Ref. BOE-A-2007-22295.
+ Se deroga, con efectos a partir del 1 de enero de 2008, por la disposición adicional 8.1.3 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744
+ Se deroga, con efectos a partir del 1 de enero de 2008, por la disposición derogatoria única 4.a) de la Ley 14/2000, de 29 de diciembre Ref. BOE-A-2000-24357en la redacción dada por la disposición derogatoria única del Real Decreto-Ley 13/2006, de 29 de diciembre y se modifica por su art. 1. Ref. BOE-A-2006-22953
+ Se deroga, con efectos a partir del 1 de enero de 2007, por la disposición derogatoria única.4.a) de la Ley 14/2000, de 29 de diciembre Ref. BOE-A-2000-24357en la redacción dada por la disposición derogatoria 2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el apartado 1 por el art. 6.9 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se deroga, con efectos a partir del 1 de enero de 2004, por la disposición derogatoria única.4.a) de la Ley 14/2000, de 29 de diciembre Ref. BOE-A-2000-24357
+ Se modifica el apartado 2.a) por el art. 8 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
+ Se añade por el art. 1.1 de la Ley 39/1997, de 8 de octubre. Ref. BOE-A-1997-21521
+ Téngase en cuenta que el artículo ya estaba añadido por el Real Decreto-Ley 6/1997, de 9 de abril.
+ Se añade por el art. 1.1 del Real Decreto-Ley 6/1997, de 9 de abril. Ref. BOE-A-1997-7698
+
+### Artículo 71
+
+Artículo 71. Liquidación y pago del impuesto.
+1. El impuesto deberá ser objeto de autoliquidación e ingreso por el sujeto pasivo en el lugar, forma, plazos e impresos que establezca el Ministro de Hacienda y Administraciones Públicas.
+Cuando la cuota tributaria se haya determinado conforme a lo establecido en el apartado 2 del artículo 70 bis, y los órganos de la Administración Tributaria lo consideren necesario, junto con la correspondiente autoliquidación se garantizará el importe restante que hubiese correspondido ingresar si la cuota tributaria se hubiese determinado conforme a lo establecido en el apartado 1 del artículo 70 bis, mediante aval solidario de entidad de crédito o sociedad de garantía recíproca o mediante certificado de seguro de caución.
+El importe de la garantía será devuelto cuando se acredite que el medio de transporte se ha enviado fuera del territorio de aplicación del impuesto.
+La utilización del medio de transporte dentro del territorio de aplicación del impuesto durante un periodo de tiempo superior al declarado sin que hubiera sido objeto de regularización por el sujeto pasivo, dará lugar a la liquidación de la cuota tributaria del impuesto calculada de acuerdo con lo establecido en el apartado 1 del artículo 70 bis minorada en el importe previamente ingresado.
+2. La autoliquidación deberá ser visada por la Administración Tributaria, en la forma que establezca el Ministro de Economía y Hacienda, con carácter previo a la matriculación definitiva ante el órgano competente. Cuando la cuota resultante de la autoliquidación sea inferior a la que resultaría de aplicar los precios medios de venta aprobados por el Ministro de Economía y Hacienda, la Administración Tributaria, con carácter previo al otorgamiento del visado, podrá proceder a la comprobación del importe o valor consignado como base imponible de acuerdo con lo previsto en el artículo 57 de la Ley 58/2003, de 17 de diciembre, General Tributaria. Los precios medios a considerar serán los vigentes en el momento en que el interesado solicite el visado ante la Administración Tributaria. También podrá procederse a la comprobación previa del importe o valor declarado cuando no exista precio medio de venta aprobado por el Ministro de Economía y Hacienda para el medio de transporte al que se refiera la autoliquidación presentada.
+El plazo máximo para efectuar la comprobación será de sesenta días contados a partir de la puesta a disposición de la documentación del medio de transporte ante la Administración Tributaria. El transcurso del citado plazo sin que se haya realizado la comprobación determinará el otorgamiento provisional del visado sobre la base del importe o valor declarado por el obligado tributario. A efectos del cómputo del plazo resultará de aplicación lo dispuesto en el apartado 2 del artículo 104 de la Ley General Tributaria. El visado podrá otorgarse con carácter provisional, sin previa comprobación del importe o valor, en el momento de la presentación de la autoliquidación, lo que podrá efectuarse mediante la emisión de un código electrónico.
+El otorgamiento del visado con carácter provisional no impedirá la posterior comprobación administrativa de la autoliquidación en todos sus elementos.
+3. Para efectuar la matriculación definitiva del medio de transporte, deberá acreditarse el pago del impuesto o, en su caso, el reconocimiento de la no sujeción o de la exención.
+Se modifica el apartado 1 por el artículo 81.3 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se modifica, con efectos a partir del 1 de enero de 2008, por la disposición adicional 8.1.4 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744. en la redacción dada por la disposición adicional 62 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295.
+ Se modifica, con efectos a partir del 1 de enero de 2008, por la disposición adicional 8.1.4 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744
+ Se modifica por el art. 4.5 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843
+
+### Artículo 72
+
+Artículo 72. Infracciones y sanciones.
+Las infracciones tributarias en este impuesto se calificarán y sancionarán conforme a lo establecido en la Ley General Tributaria y demás normas de general aplicación.
+
+### Artículo 73
+
+Artículo 73. Disposiciones particulares en relación con Ceuta y Melilla.
+El rendimiento derivado de este impuesto en el ámbito territorial de las ciudades de Ceuta y Melilla corresponderá a los respectivos Ayuntamientos, sin perjuicio de su gestión, liquidación, recaudación, inspección y revisión por los órganos competentes de la Administración tributaria del Estado.
+
+### Artículo 74
+
+Artículo 74. Disposiciones particulares en relación con el Régimen Económico Fiscal de Canarias.
+El rendimiento derivado de este impuesto en el ámbito de la Comunidad Autónoma de Canarias corresponderá a la Comunidad Autónoma, sin perjuicio de su gestión, liquidación, recaudación, inspección y revisión por los órganos competentes de la Administración tributaria del Estado. Respecto de la recaudación del impuesto, será de aplicación lo previsto en el artículo 64 y en la disposición adicional tercera de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias.
+
+## TITULO III
+
+TÍTULO III
+Impuestos Especiales sobre el Carbón y sobre la Electricidad
+Se modifica por el art. 3.8 de laLey 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+ Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre.Ref. BOE-A-2005-19003
+
+## Capítulo I
+
+CAPÍTULO I
+Impuesto Especial sobre el Carbón
+Se añade por el art. 3.8 de laLey 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 75
+
+Artículo 75. Ámbito objetivo.
+1. A los efectos de este impuesto, tienen la consideración de carbón los productos comprendidos en los códigos 2701, 2702, 2704, 2708, 2713 y 2714 de la nomenclatura arancelaria y estadística establecida por el Reglamento (CEE) n.º 2.658/87 del Consejo, de 23 de julio de 1987, en lo sucesivo «Nomenclatura combinada».
+2. Cuando se produzcan variaciones en la estructura de la Nomenclatura combinada, será de aplicación lo previsto en el artículo 18.2 de esta Ley.
+Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Artículo 76
+
+Artículo 76. Ámbito territorial de aplicación.
+1. El Impuesto Especial sobre el Carbón se exigirá en todo el territorio español, excepto en la Comunidad Autónoma de Canarias y en las Ciudades de Ceuta y Melilla.
+2. Lo dispuesto en el apartado anterior se entenderá sin perjuicio de lo establecido en convenios y tratados internacionales y de los regímenes tributarios especiales por razón del territorio.
+Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Artículo 77
+
+Artículo 77. Hecho imponible.
+1. Está sujeta al impuesto la puesta a consumo de carbón en su ámbito territorial.
+2. A los efectos de lo dispuesto en el apartado anterior, tienen la consideración de «puesta a consumo» las siguientes operaciones:
+a) La primera venta o entrega de carbón efectuada en el ámbito territorial tras la producción o extracción, importación o adquisición intracomunitaria de carbón. Tendrán, asimismo, la consideración de primera venta o entrega las ventas o entregas subsiguientes que realicen los empresarios que destinen el carbón a su reventa y les haya sido aplicable al adquirirlo la exención regulada en el artículo 79.1 de esta Ley.
+b) El autoconsumo de carbón. A los efectos de este precepto, tendrá la consideración de autoconsumo la utilización o consumo del carbón realizado por los productores o extractores, importadores, adquirentes intracomunitarios o empresarios a que se refiere la letra anterior.
+3. Se presumirá que el carbón ha sido objeto de puesta a consumo cuando los sujetos pasivos no justifiquen el destino dado al carbón producido, importado o adquirido.
+Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Artículo 78
+
+Artículo 78. Supuestos de no sujeción.
+1. No estarán sujetas al impuesto las ventas o entregas de carbón que impliquen su envío directo por el productor o extractor, importador o adquirente intracomunitario a un destino fuera del ámbito territorial de aplicación del impuesto.
+2. La efectividad de lo establecido en el apartado 1 quedará condicionada al cumplimiento de los siguientes requisitos:
+a) Si el envío tiene lugar con destino al “territorio de la Comunidad” definido en el apartado 7 del artículo 4 de esta Ley, distinto del ámbito territorial definido en el artículo 76 de esta Ley, el empresario remitente deberá acreditar, cuando sea requerido para ello, que el receptor del carbón es una empresa registrada al efecto en el Estado miembro de que se trate, con arreglo a la normativa que dicho Estado miembro establezca y que el carbón ha sido recibido por el destinatario. Los envíos de carbón con destino a la Comunidad Autónoma de Canarias se regirán por lo dispuesto en la letra siguiente.
+b) Si el envío tiene lugar con un destino fuera del ámbito territorial de aplicación del impuesto diferente del indicado en la letra anterior, el empresario remitente deberá acreditar la exportación del carbón mediante la correspondiente documentación aduanera o, en su caso, su envío a la Comunidad Autónoma de Canarias.
+3. No estará sujeto al impuesto el autoconsumo de carbón efectuado por sus productores o extractores dentro de las instalaciones de producción o extracción y directamente vinculado a la realización de estas actividades.
+Se modifica el apartado 2.a) por el art. 3.20 de la Ley 2/2010, de 1 de marzo. Ref. BOE-A-2010-3366
+ Esta modificación surtirá efectos desde el 1 de abril de 2010, según establece la disposición final 4.
+ Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Artículo 79
+
+Artículo 79. Exenciones.
+1. Estará exenta la primera venta o entrega efectuada a empresarios que destinen el carbón a su reventa en el ámbito territorial de aplicación del impuesto.
+2. Estará exenta la primera venta o entrega efectuada a empresarios que destinen el carbón adquirido a su envío con un destino fuera del ámbito territorial de aplicación del impuesto. La efectividad de esta exención quedará condicionada al cumplimiento de los requisitos establecidos en el artículo 78.2 de esta Ley.
+No obstante, si el carbón así adquirido fuera destinado a su consumo en el ámbito territorial de aplicación del impuesto, se considerará realizada la primera venta o entrega en el momento en que se efectúe la aplicación del carbón a ese destino.
+3. Estarán exentas del impuesto las operaciones que constituyan puesta a consumo de carbón cuando impliquen el empleo de este en los usos siguientes:
+a) (Suprimida)
+b) Reducción química y procesos electrolíticos y metalúrgicos.
+c) Procesos mineralógicos. Se consideran procesos mineralógicos los clasificados bajo el código DI 26, «industrias de otros productos minerales no metálicos», de la nomenclatura NACE, establecida por el Reglamento (CEE) n.º 3037/90 del Consejo, de 9 de octubre de 1990.
+d) Como combustible en el ámbito del consumo doméstico y residencial. Se presumirá que el carbón se destina a esta utilización cuando sea objeto de venta o entrega a consumidores finales no industriales.
+e) Cualquier uso que no suponga combustión.
+4. Sin perjuicio de lo establecido en el apartado 2, la aplicación de las exenciones recogidas en este artículo estará sujeta al cumplimiento de las condiciones que reglamentariamente se establezcan.
+Se añade el apartado 4, con efectos de 1 de julio de 2018, por el art. 83 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-77
+ Se suprime el apartado 3.a) por el art. 28.9 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+ Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Artículo 80
+
+Artículo 80. Devoluciones.
+1. Tendrán derecho a la devolución de las cuotas del Impuesto Especial sobre el Carbón previamente satisfechas los empresarios que envíen el carbón a un destino fuera del ámbito territorial de aplicación del impuesto.
+2. La aplicación de la devolución quedará condicionada al cumplimiento de los siguientes requisitos:
+a) La realidad del envío se acreditará conforme a lo dispuesto en el artículo 78.2 de esta Ley.
+b) El ingreso previo de las cuotas cuya devolución se reclama se acreditará con el ejemplar para el interesado de la correspondiente declaración liquidación. No obstante, cuando el empresario que realice el envío no tenga la condición de sujeto pasivo o responsable obligado al pago, dicho ingreso se acreditará por medio de la factura en la que conste la repercusión de las cuotas sobre el referido empresario.
+3. El importe de las cuotas que se devuelvan será el mismo que el de las cuotas soportadas. No obstante, cuando no fuera posible determinar exactamente tal importe, las cuotas se determinarán aplicando el tipo vigente tres meses antes de la fecha en que se realiza la operación que origina el derecho a la devolución.
+4. La devolución podrá autorizarse con carácter provisional. Las devoluciones provisionales se convertirán en definitivas como consecuencia de la comprobación efectuada por la Inspección de los Tributos o bien cuando no hubieran sido comprobadas dentro del plazo de cuatro años, contados a partir de la fecha en que se realiza la operación que origina el derecho a la devolución.
+Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Artículo 81
+
+Artículo 81. Sujetos pasivos.
+1. Son sujetos pasivos del impuesto los productores o extractores, importadores o adquirentes intracomunitarios de carbón y los empresarios revendedores que realicen las ventas o entregas o las operaciones de autoconsumo sujetas al impuesto.
+2. En los supuestos regulados en el segundo párrafo del artículo 79.2, serán sujetos pasivos los empresarios adquirentes de carbón que lo destinen a su consumo en el ámbito territorial de aplicación del impuesto.
+Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Artículo 82
+
+Artículo 82. Devengo.
+1. El impuesto se devengará en el momento de la puesta del carbón a disposición de los adquirentes o, en su caso, en el de su autoconsumo.
+2. En los supuestos previstos en el artículo 77.3, el impuesto se devengará en el momento en que se constate la falta de justificación del destino dado al carbón.
+3. En los supuestos regulados en el segundo párrafo del artículo 79.2, el impuesto se devengará en el momento en que se destine el carbón a su consumo en el ámbito territorial de aplicación del impuesto.
+Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Artículo 83
+
+Artículo 83. Base imponible.
+1. La base imponible del impuesto estará constituida por el poder energético del carbón objeto de las operaciones sujetas, expresado en gigajulios (GJ).
+2. La determinación de la base imponible se efectuará en régimen de estimación directa. La estimación indirecta de la base imponible será aplicable a los supuestos y en la forma previstos en la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Artículo 84
+
+Artículo 84. Tipos impositivos.
+1. El impuesto se exigirá con arreglo a los siguientes epígrafes:
+Epígrafe 1.1: Carbón destinado a usos con fines profesionales siempre y cuando no se utilice en procesos de cogeneración y generación directa o indirecta de energía eléctrica: 0,15 euros por gigajulio.
+A efectos de lo previsto en este Epígrafe se considera carbón destinado a usos con fines profesionales los suministros de carbón efectuados para su consumo en plantas e instalaciones industriales, con exclusión del que se utilice para producir energía térmica útil cuyo aprovechamiento final se produzca en establecimientos o locales que no tengan la condición de plantas o instalaciones industriales. Asimismo, tendrá la consideración de carbón destinado a usos con fines profesionales, el carbón utilizado en cultivos agrícolas.
+Epígrafe 1.2: Carbón destinado a otros usos: 0,65 euros por gigajulio.
+2. En los suministros de carbón destinado a ser utilizado en una planta de cogeneración de energía eléctrica y energía térmica útil, sujeta al requisito de acreditación del cumplimiento del rendimiento eléctrico equivalente a que se refiere la normativa de desarrollo de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, se aplicarán los tipos impositivos regulados en los Epígrafes 1.1 y 1.2 del apartado 1 de este artículo en función del porcentaje de carbón que corresponda imputar a la producción de electricidad medida en bornes de alternador y a la energía térmica útil, conforme al procedimiento que se establezca reglamentariamente.
+Se modifica por la disposición final 5.1 del Decreto-ley 9/2013, de 12 de julio. Ref. BOE-A-2013-7705.
+ Se modifica por el art. 28.9 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+ Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Artículo 85
+
+Artículo 85. Repercusión del impuesto.
+1. Los sujetos pasivos deberán, en su caso, repercutir el importe de las cuotas devengadas sobre los adquirentes de carbón, y estos quedarán obligados a soportarlas.
+En los suministros de carbón efectuados en los términos del artículo 84.2 de la ley, los sujetos pasivos que hayan repercutido el importe de las cuotas devengadas en función de un porcentaje provisional comunicado por los titulares de centrales de cogeneración de electricidad y energía térmica útil, deberán regularizar el importe de las cuotas repercutidas conforme al porcentaje definitivo de destino del carbón, una vez conocido, mediante el procedimiento que se establezca reglamentariamente.
+2. Cuando, con arreglo a la normativa vigente, la operación gravada deba documentarse en factura o documento equivalente, la repercusión de las cuotas devengadas se efectuará en dicho documento separadamente del resto de conceptos comprendidos en ella. Cuando se trate de operaciones no sujetas o exentas, se hará mención de dicha circunstancia en el referido documento, con indicación del precepto de esta Ley en que se basa la aplicación de tal beneficio.
+Se añade un párrafo al apartado 1 por la disposición final 5.2 del Real Decreto-ley 9/2013, de 12 de julio. Ref. BOE-A-2013-7705.
+ Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Artículo 86
+
+Artículo 86. Normas de gestión.
+1. Los sujetos pasivos estarán obligados a presentar trimestralmente una declaración-liquidación comprensiva de las cuotas devengadas, así como a efectuar, simultáneamente, el pago de la deuda tributaria. Esta obligación no será exigible cuando en el período de que se trate no resulten cuotas a ingresar.
+2. Los sujetos pasivos estarán obligados igualmente a presentar una declaración resumen anual de las operaciones realizadas en relación con los productos comprendidos en el ámbito objetivo del impuesto.
+3. El Ministro de Economía y Hacienda establecerá los modelos, plazos, requisitos y condiciones para la presentación de las declaraciones a que se refieren los apartados anteriores.
+Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Artículo 87
+
+Artículo 87. Infracciones y sanciones.
+1. En los suministros de carbón realizados con aplicación del tipo impositivo establecido en el Epígrafe 1.1 del artículo 84, constituye infracción tributaria grave comunicar datos falsos o inexactos a los sujetos pasivos, cuando de ello se derive la repercusión de cuotas inferiores a las procedentes.
+La base de la sanción será la diferencia entre las cuotas que se hubieran debido repercutir y las efectivamente repercutidas.
+La sanción consistirá en multa pecuniaria proporcional del 50 por ciento.
+2. Constituye infracción tributaria grave el incumplimiento por los sujetos pasivos del impuesto de los requisitos y condiciones establecidos en esta Ley y en su normativa de desarrollo necesarios para la aplicación de las exenciones o tipos reducidos previstos en aquélla, cuando no se justifique el uso o destino dado al carbón objeto de dichos beneficios.
+La base de la sanción será el importe del beneficio fiscal aplicado al carbón respecto del cual se hayan incumplido los requisitos y condiciones establecidas legal o reglamentariamente.
+La sanción consistirá en multa pecuniaria proporcional del 50 por ciento.
+3. Constituye infracción tributaria leve el incumplimiento por los sujetos pasivos del impuesto de los requisitos y condiciones establecidos en esta Ley y en su normativa de desarrollo necesarios para la aplicación de las exenciones o tipos reducidos previstos en aquélla, cuando no constituya infracción tributaria grave.
+La base de la sanción será el importe del beneficio fiscal aplicado al carbón respecto del cual se hayan incumplido los requisitos y condiciones establecidas legal o reglamentariamente.
+La sanción consistirá en multa pecuniaria proporcional del 10 por ciento.
+4. El resto de infracciones tributarias en este impuesto se calificarán y sancionarán conforme a lo dispuesto en la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Se modifica el apartado 2 y se añaden los apartados 3 y 4 por el art. 10.3 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad
+ Se modifica por la disposición final 5.3 del Real Decreto-ley 9/2013, de 12 de julio. Ref. BOE-A-2013-7705.
+ Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+### Artículo 88
+
+Artículo 88. Habilitación a la Ley de Presupuestos Generales del Estado.
+La Ley de Presupuestos Generales del Estado podrá modificar los supuestos de no sujeción, las exenciones y los tipos de gravamen del impuesto.
+Se añade por el art. 2.15 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+
+## Capítulo II
+
+CAPÍTULO II
+Impuesto Especial sobre la Electricidad
+Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 89
+
+Artículo 89. Naturaleza.
+El Impuesto Especial sobre la Electricidad es un tributo de naturaleza indirecta que recae sobre el consumo de electricidad y grava, en fase única, el suministro de energía eléctrica para consumo, así como el consumo por los productores de aquella electricidad generada por ellos mismos.
+Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 90
+
+Artículo 90. Ámbito objetivo.
+El ámbito objetivo del Impuesto Especial sobre la Electricidad está constituido por la energía eléctrica clasificada en el código NC 2716 de la nomenclatura arancelaria y estadística establecida por el Reglamento (CEE) n.º 2.658/87 del Consejo, de 23 de julio de 1987.
+Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 91
+
+Artículo 91. Ámbito de aplicación.
+1. El impuesto se aplicará en todo el territorio español.
+2. Lo dispuesto en el número anterior se entenderá sin perjuicio de los regímenes tributarios forales de concierto y convenio económico en vigor, respectivamente, en los territorios del País Vasco y en la Comunidad Foral de Navarra y de lo dispuesto en los tratados y convenios internacionales que hayan pasado a formar parte del ordenamiento interno, de conformidad con lo establecido en el artículo 96 de la Constitución Española.
+Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 92
+
+Artículo 92. Hecho imponible.
+1. Está sujeto al impuesto:
+a) El suministro de energía eléctrica a una persona o entidad que adquiere la electricidad para su propio consumo, entendiéndose por suministro de energía eléctrica tanto la prestación del servicio de peajes de acceso a la red eléctrica como la entrega de electricidad.
+A los efectos de este impuesto, siempre tendrán la condición de consumidores las personas físicas o jurídicas que adquieren la energía para la prestación de servicios de recarga energética de vehículos.
+b) El consumo por los productores de energía eléctrica de aquella electricidad generada por ellos mismos.
+2. Respecto a los conceptos y términos con sustantividad propia que aparecen en la Ley, salvo los definidos en ella, se estará a lo dispuesto en la normativa del sector eléctrico de carácter estatal.
+Se modifica la letra a) del apartado 1 por la disposición final 1.7 del Real Decreto-Ley 15/2018, de 5 de octubre. Ref. BOE-A-2018-13593#df
+ Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 93
+
+Artículo 93. Supuesto de no sujeción.
+No estará sujeto al impuesto el consumo por los generadores o conjunto de generadores de potencia total no superior a 100 kilovatios (kW) de la energía eléctrica producida por ellos mismos.
+Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 94
+
+Artículo 94. Exenciones.
+Estará exenta en las condiciones que reglamentariamente se establezcan:
+1. La energía eléctrica suministrada en el marco de las relaciones diplomáticas o consulares.
+2. La energía eléctrica suministrada a organizaciones internacionales reconocidas como tales en España y por los miembros de dichas organizaciones, dentro de los límites y en las condiciones que se determinen en los convenios internacionales constitutivos de dichas organizaciones o en los acuerdos de sede.
+3. La energía eléctrica suministrada a las fuerzas armadas de cualquier Estado, distinto de España, que sea parte del Tratado del Atlántico Norte o por el personal civil a su servicio, o en sus comedores y cantinas.
+4. La energía eléctrica suministrada en el marco de un acuerdo celebrado con países terceros u organizaciones internacionales, siempre que dicho acuerdo se admita o autorice en materia de exención del Impuesto sobre el Valor Añadido.
+5. La energía eléctrica consumida por los titulares de las instalaciones de producción de energía eléctrica de tecnología renovable, cogeneración y residuos cuya potencia instalada no supere los 50 megavatios (MW).
+6. La energía eléctrica consumida que haya sido generada por pilas de combustibles.
+7. La energía eléctrica consumida en las instalaciones de producción de electricidad para la realización de dicha actividad, así como la energía eléctrica suministrada a las instalaciones de producción, transporte y distribución de energía eléctrica para la realización en las mismas de estas actividades.
+8. La energía eléctrica consumida en las embarcaciones por haber sido generada a bordo de las mismas.
+9. La energía eléctrica suministrada que sea objeto de compensación con la energía horaria excedentaria, en la modalidad de autoconsumo con excedentes acogida a compensación, conforme a lo establecido en el Real Decreto 244/2019, de 5 de abril, por el que se regulan las condiciones administrativas, técnicas y económicas del autoconsumo de energía eléctrica.
+10. La energía eléctrica suministrada a las fuerzas armadas de cualquier Estado miembro distinto de España, para uso de dichas fuerzas o del personal civil a su servicio, o para el abastecimiento de sus comedores o cantinas, siempre que dichas fuerzas estén afectadas a un esfuerzo de defensa realizado para llevar a cabo una actividad de la Unión en el ámbito de la política común de seguridad y defensa.
+Se añade el apartado 10, con efectos desde el 1 de julio de 2022, por el art. 84.2 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a8-6
+ Se añade el apartado 8, con efectos de 1 de enero de 2015, y el apartado 9, con efectos de 1 de enero de 2021, por el art. 72.1 y 2 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a7-4
+ Se modifican los apartados 5 y 6, con efectos de 1 de julio de 2018, por el art. 84.1 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-78
+ Se modifica el apartado 7, con efectos de 1 de enero de 2015, por el art. 72 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644#a72.
+ Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 95
+
+Artículo 95. Devengo.
+El impuesto se devengará:
+a) En el supuesto previsto en la letra a) del apartado 1 del artículo 92, en el momento en que resulte exigible la parte del precio correspondiente a la energía eléctrica suministrada en cada período de facturación.
+b) En el supuesto previsto en la letra b) del apartado 1 del artículo 92, en el momento de su consumo.
+Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 96
+
+Artículo 96. Contribuyentes.
+1. Son contribuyentes del impuesto:
+a) En el supuesto previsto en la letra a) del apartado 1 del artículo 92, aquellos que, debidamente habilitados de acuerdo con lo dispuesto en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, realicen suministros de energía eléctrica al consumidor, sin perjuicio de lo establecido en el apartado 3 de este artículo.
+b) En el supuesto previsto en la letra b) del apartado 1 del artículo 92, aquellos que consuman la energía eléctrica generada por ellos mismos.
+2. En los supuestos de irregularidades en relación con la justificación del uso o destino dado a la electricidad que se ha beneficiado de una exención o de una reducción en razón de su destino, los suministradores estarán obligados al pago de la deuda tributaria del impuesto y de las sanciones que pudieran imponerse, en tanto no justifiquen que el suministro se efectuó a un consumidor autorizado por la oficina gestora o, en su caso, facultado para gozar de dichos beneficios fiscales.
+3. Sin perjuicio de lo establecido en el apartado siguiente de este artículo, en los suministros de electricidad realizados al amparo de una no sujeción, exención o de una reducción, tendrán la condición de contribuyentes, por la cantidad de electricidad recibida sin la correcta repercusión del impuesto, aquellos consumidores que, por no haber comunicado al suministrador los datos exactos de la regularización en los plazos y términos establecidos reglamentariamente, se hayan beneficiado indebidamente de dichos beneficios fiscales.
+4. En los suministros de energía eléctrica efectuados a consumidores con un único punto de suministro en los que una parte de la energía suministrada está exenta en virtud de lo establecido en el artículo 94.7 de esta Ley, tendrán la condición de contribuyentes los consumidores. También tendrán la condición de contribuyentes, aquellos a los que hace referencia la letra a) del apartado 1 de este artículo por la electricidad adquirida para su consumo.
+Se modifica el apartado 2, con efectos de 1 de julio de 2018, por el art. 84.2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-78
+ Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 97
+
+Artículo 97. Base imponible.
+Estará constituida por la base imponible que se habría determinado a efectos del Impuesto sobre el Valor Añadido, excluidas las cuotas del propio Impuesto sobre la Electricidad, para un suministro de energía eléctrica efectuado a título oneroso dentro del territorio de aplicación del Impuesto sobre el Valor Añadido entre personas no vinculadas, conforme a lo establecido en los artículos 78 y 79 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 98
+
+Artículo 98. Base liquidable.
+1. La base liquidable será el resultado de practicar, en su caso, sobre la base imponible una reducción del 85 por ciento que será aplicable, siempre que se cumplan los requisitos y condiciones que reglamentariamente se establezcan, sobre la cantidad de energía eléctrica que se destine a alguno de los siguientes usos:
+a) Reducción química y procesos electrolíticos.
+b) Procesos mineralógicos. Se consideran procesos mineralógicos los clasificados en la división 23 del Reglamento (CE) n.º 1893/2006 del Parlamento Europeo y del Consejo, de 20 de diciembre de 2006, por el que se establece la nomenclatura estadística de actividades económicas NACE Revisión 2 y por el que se modifica el Reglamento (CEE) n.º 3037/90 del Consejo y determinados Reglamentos de la CE sobre aspectos estadísticos específicos.
+c) Procesos metalúrgicos. Se consideran procesos metalúrgicos los relativos a la producción de metal y su preparación, así como, dentro de la producción de productos metálicos, la producción de piezas de forjado, prensa, troquelado y estiramiento, anillos laminados y productos de mineral en polvo, y tratamiento de superficies y termotratamiento de fundición, calentamiento, conservación, distensión u otros termotratamientos.
+d) Actividades industriales cuyo coste de electricidad represente más del 50 por ciento del coste de un producto.
+A estos efectos, el coste de un producto se define como la suma de las compras totales de bienes y servicios más los costes de mano de obra más el consumo del capital fijo. El coste se calcula por unidad en promedio.
+El coste de la electricidad se define como el valor de compra real de la electricidad o el coste de producción de electricidad, si se genera en la propia empresa, incluidos todos los impuestos, con la excepción del IVA deducible.
+e) Riegos agrícolas.
+f) Actividades industriales cuyas compras o consumo de electricidad representen al menos el 5 por ciento del valor de la producción.
+A estos efectos se entiende por:
+– ‘‘Compras o consumo de electricidad’’: el coste real de la energía eléctrica adquirida o consumida incluidos todos los impuestos, con la excepción del IVA deducible.
+– “Valor de la producción”: estará constituido por el importe de la cifra de negocios, al que se adicionará la variación de existencias, de productos en curso y de productos terminados.
+2. La base liquidable será el resultado de practicar, en su caso, sobre la base imponible una reducción del 100 por ciento que será aplicable, siempre que se cumplan los requisitos y condiciones que reglamentariamente se establezcan, sobre la cantidad de energía eléctrica suministrada a las embarcaciones atracadas en puerto que no tengan la condición de embarcaciones privadas de recreo.
+A estos efectos se entenderá por «embarcaciones privadas de recreo», las embarcaciones utilizadas por su propietario o por la persona física o jurídica que las pueda utilizar en virtud de arrendamiento o por cualquier otro medio, para fines no comerciales y, en particular, para fines distintos del transporte de pasajeros o mercancías o de la prestación de servicios a título oneroso, o que no se destinen a necesidades determinadas por las autoridades públicas.
+3. La base liquidable será el resultado de practicar, en su caso, sobre la base imponible una reducción del 100 por ciento que será aplicable, siempre que se cumplan los requisitos y condiciones que reglamentariamente se establezcan, sobre la cantidad de energía eléctrica suministrada o consumida en el transporte por ferrocarril.
+Se añade el apartado 3, con efectos de 1 de enero de 2021, por por el art. 72.2.2 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a7-4
+ Se modifica, con efectos de 1 de julio de 2018, por el art. 84.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-78
+ Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 99
+
+Artículo 99. Tipo impositivo.
+1. Sin perjuicio de lo establecido en el apartado 2 de este artículo, el impuesto se exigirá al tipo del 5,11269632 por ciento.
+2. Las cuotas íntegras resultantes de la aplicación del tipo impositivo fijado en el apartado 1 no podrán ser inferiores a las cuantías siguientes:
+a) 0,5 euros por megavatio-hora (MWh), cuando la electricidad suministrada o consumida se utilice en usos industriales, en embarcaciones atracadas en puerto que no tengan la condición de embarcaciones privadas de recreo o en el transporte por ferrocarril.
+b) 1 euro por megavatio-hora (MWh), cuando la electricidad suministrada o consumida se destine a otros usos.
+Cuando se incumpla la condición prevista en este apartado, las cuantías indicadas en las letras a) y b) tendrán la consideración de tipos impositivos aplicables en lugar del establecido en el apartado 1 y se aplicarán sobre el suministro o consumo total del periodo expresado en megavatio-hora (MWh).
+3. A efectos de lo previsto en el apartado 2, se consideran destinados a usos industriales:
+a) Los efectuados en alta tensión o en plantas e instalaciones industriales.
+b) Los efectuados en baja tensión con destino a riegos agrícolas.
+4. Lo dispuesto en el apartado 2 no será de aplicación para los supuestos previstos en las letras a), b), c) y d) del apartado 1 del artículo 98.
+Se modifica el apartado 2.a), con efectos de 1 de enero de 2021, por por el art. 72.2.3 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a7-4
+ Se modifica, con efectos de 1 de julio de 2018, por el art. 84.4 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-78
+ Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 100
+
+Artículo 100. Cuota íntegra.
+La cuota íntegra es la cantidad resultante de aplicar a la base liquidable el tipo impositivo que corresponda de acuerdo con el artículo anterior.
+Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 101
+
+Artículo 101. Repercusión.
+1. Los contribuyentes deberán repercutir íntegramente el importe del impuesto sobre aquel para quien realice la operación gravada, quedando este obligado a soportarla siempre que la repercusión se ajuste a lo dispuesto en esta Ley, cualesquiera que fueran las estipulaciones existentes entre ellos.
+Los contribuyentes que hayan repercutido el importe de las cuotas devengadas, en función de un porcentaje provisional comunicado por los beneficiarios de las reducciones a que hace referencia el artículo 98 de esta Ley o no hayan efectuado la repercusión del impuesto en función de los datos inicialmente comunicados por los beneficiarios de una no sujeción o exención, deberán regularizar, mediante el procedimiento que se establezca reglamentariamente, el importe de las cuotas repercutidas o que debieran haber repercutido, una vez le sean comunicados los datos exactos de dichos suministros conforme a lo establecido en el reglamento.
+2. La repercusión de las cuotas devengadas se efectuará en la factura separadamente del resto de conceptos comprendidos en ella. Cuando se trate de operaciones exentas o con reducción en la base liquidable, se hará mención de dichas circunstancias en el referido documento con indicación del precepto aplicable.
+3. No procederá la repercusión de las cuotas resultantes en los supuestos previstos en la letra b) del apartado 1 del artículo 92, cuando el consumidor tenga la condición de contribuyente, ni en los supuestos de liquidación que sean consecuencia de actas de inspección y en los de estimación indirecta de bases.
+Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 102
+
+Artículo 102. Normas de gestión.
+1. Los contribuyentes por este impuesto estarán obligados a presentar las correspondientes autoliquidaciones, así como a efectuar, simultáneamente, el pago de la deuda tributaria.
+El Ministro de Hacienda y Administraciones Públicas establecerá el procedimiento y plazo para la presentación de las autoliquidaciones a que se refiere el párrafo anterior.
+2. Los obligados a presentar autoliquidaciones por este impuesto, los representantes a los que hace referencia el apartado 4 de este artículo, así como los beneficiarios de las exenciones reguladas en los apartados 5, 6 y 7 del artículo 94 de esta Ley y de las reducciones a las que hace referencia el apartado 1 del artículo 98, deberán solicitar la inscripción en el registro territorial correspondiente a la oficina gestora de impuestos especiales del lugar donde radique el establecimiento donde ejerzan su actividad o, en su defecto, donde radique su domicilio fiscal.
+Por el Ministro de Hacienda y Función Pública se establecerá la estructura del censo de obligados tributarios por este impuesto, así como el procedimiento y plazo para la inscripción de estos en el registro territorial.
+3. No obstante lo establecido en los dos apartados anteriores, reglamentariamente se establecerán los requisitos y condiciones para la presentación de las declaraciones informativas que se consideren necesarias y para el cumplimiento de otras obligaciones de carácter formal.
+4. Los contribuyentes no establecidos en territorio español, de acuerdo con lo establecido en el artículo 358 de la Directiva 2006/112/CE del Consejo, de 28 de noviembre de 2006, relativa al sistema común del Impuesto sobre el Valor Añadido, vendrán obligados a nombrar una persona física o jurídica con residencia en España para que les represente ante la Administración tributaria en relación con sus obligaciones por este impuesto, y a realizar dicho nombramiento, debidamente acreditado, con anterioridad o, a más tardar, en el momento de realización del hecho imponible.
+Se modifica el apartado 2, con efectos de 1 de julio de 2018, por el art. 84.5 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-78
+ Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 103
+
+Artículo 103. Infracciones y sanciones.
+1. En los suministros de electricidad realizados con aplicación de una no sujeción, exención o de una reducción, constituye infracción tributaria grave no comunicar en los plazos establecidos reglamentariamente los datos exactos, cuando de ello se derive la no repercusión o la repercusión de cuotas inferiores a las procedentes.
+La base de la sanción será la diferencia entre las cuotas que se hubieran debido repercutir y las efectivamente repercutidas.
+La sanción consistirá en multa pecuniaria proporcional del 15 por ciento.
+En estos supuestos resultará de aplicación lo dispuesto en el artículo 188 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+La sanción establecida en este artículo no se aplicará cuando proceda la imposición de la sanción por la comisión de la infracción tributaria por dejar de ingresar la deuda tributaria que debiera resultar de una autoliquidación establecida en el artículo 191 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+2. El incumplimiento de la obligación a que se refiere el apartado 4 del artículo anterior constituirá una infracción tributaria grave y la sanción consistirá en multa pecuniaria fija de 1.000 euros.
+3. Constituye infracción tributaria grave el incumplimiento por los contribuyentes del impuesto de los requisitos y condiciones establecidos en esta Ley y en su normativa de desarrollo necesarios para la aplicación de las exenciones o reducciones en la base imponible previstas en aquélla, cuando no se justifique el uso o destino dado a la electricidad objeto de dichos beneficios.
+La base de la sanción será el importe del beneficio fiscal aplicado a la energía eléctrica respecto de la cual se hayan incumplido los requisitos y condiciones establecidas legal o reglamentariamente.
+La sanción consistirá en multa pecuniaria proporcional del 50 por ciento.
+4. Constituye infracción tributaria leve el incumplimiento por los contribuyentes del impuesto de los requisitos y condiciones establecidos en esta Ley y en su normativa de desarrollo necesarios para la aplicación de las exenciones o reducciones en la base imponible previstas en aquélla, cuando no constituya infracción tributaria grave.
+La base de la sanción será el importe del beneficio fiscal aplicado a la energía eléctrica respecto de la cual se hayan incumplido los requisitos y condiciones establecidas legal o reglamentariamente.
+La sanción consistirá en multa pecuniaria proporcional del 10 por ciento.
+5. Las demás infracciones tributarias relativas a este impuesto serán calificadas y sancionadas de conformidad con lo dispuesto en la Ley 58/2003, de 17 de diciembre, General Tributaria, sin perjuicio de lo establecido en el artículo anterior.
+Se modifica el apartado 3 y se añaden el 4 y el 5 por el art. 10.4 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad
+ Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Artículo 104
+
+Artículo 104. Habilitación a la Ley de Presupuestos Generales del Estado.
+La Ley de Presupuestos Generales del Estado podrá modificar las exenciones, la reducción y los tipos impositivos del impuesto
+Se añade por el art. 3.8 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Deberán ser objeto de matriculación definitiva en España los medios de transporte, nuevos o usados, a que se refiere la presente Ley, cuando se destinen a ser utilizados en el territorio español por personas o entidades que sean residentes en España o que sean titulares de establecimientos situados en España.
+2. Sin perjuicio de lo establecido en la normativa específica reguladora de la matriculación de medios de transporte, no será exigible el cumplimiento de la obligación prevista en el apartado anterior cuando, en relación con la exigencia del Impuesto Especial sobre Determinados Medios de Transporte establecida en la letra d) del número 1 del artículo 65 de esta Ley y dentro de los plazos establecidos en dicho precepto:
+a) se haya autoliquidado e ingresado el impuesto, o bien
+b) se haya solicitado de la Administración Tributaria el reconocimiento previo de la aplicación de un supuesto de no sujeción o de exención del impuesto, en los casos en que así esté previsto, o bien
+c) se haya presentado una declaración ante la Administración Tributaria relativa a una exención del impuesto.
+3. Sin perjuicio de lo establecido en la normativa específica reguladora de la matriculación de medios de transporte, tampoco será exigible el cumplimiento de la obligación prevista en el apartado 1 anterior cuando el impuesto correspondiente a esa sujeción haya sido objeto de liquidación por parte de la Administración Tributaria e ingresado el importe correspondiente.
+4. Cuando se constate el incumplimiento de la obligación a que se refieren los apartados anteriores, los órganos de la Administración tributaria o los órganos competentes en materia de tráfico, seguridad vial, navegación o navegación aérea darán al obligado tributario un plazo de cinco días para cumplirla o para presentar aval solidario de entidad de crédito o sociedad de garantía recíproca o certificado de seguro de caución que garantice el pago del Impuesto Especial sobre Determinados Medios de Transporte. Transcurrido ese plazo sin que se produzca la matriculación definitiva o sin que se presente dicho aval o certificado, dichos órganos procederán a la inmovilización del medio de transporte hasta que se acredite la regularización de su situación administrativa y tributaria. No obstante, la inmovilización será levantada en el caso de que el obligado tributario presente aval solidario o certificado de seguro en los términos indicados.
+Se modifica, con efectos desde 1 de enero de 2011, por el art. 82.7 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+ Se modifica el párrafo primero por el art. 2.2 del Real Decreto-Ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Se declaran exentas del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados la constitución y ampliaciones de capital de las sociedades que creen las Administraciones y entes públicos para llevar a cabo la enajenación de acciones representativas de su participación en el capital social de sociedades mercantiles.
+La constitución y ampliaciones de capital de las referidas sociedades gozarán del mismo régimen de bonificaciones que el Estado, en relación con los honorarios o aranceles que se devenguen por la intervención de Fedatarios públicos y Registradores mercantiles.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+La aplicación efectiva de lo establecido en el apartado 2 del artículo 98 quedará condicionada a su compatibilidad con el ordenamiento comunitario.
+Se añade, con efectos de 1 de julio de 2018, por el art. 84.6 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-78
+ Se deroga por la disposición derogatoria única del Real Decreto-Ley 7/1993, de 21 de mayo. Ref. BOE-A-1993-13663
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Procedimiento de reglamentaciones técnicas en el Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco.
+(Sin efecto)
+Se deja sin efecto esta disposición por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que la añadía. Ref. BOE-A-2025-1136
+ Se añade por el art. 13 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915#a1-5
+ Se deroga por la disposición derogatoria única de la Ley 40/1995, de 19 de diciembre. Ref. BOE-A-1995-27373
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Circulación intracomunitaria.
+1. Hasta el 30 de junio de 1999, los impuestos especiales de fabricación no serán exigibles respecto de las adquisiciones de productos gravados que, en una tienda libre de impuestos o a bordo de un avión o barco en vuelo o travesía intracomunitaria, efectúen los viajeros con ocasión de su desplazamiento de un Estado miembro a otro. Este beneficio se limita a los bienes así adquiridos que dichos viajeros transporten, como equipaje personal, en cantidades no superiores a las establecidas para las importaciones con exención de estos impuestos efectuadas por viajeros procedentes de países terceros.
+El mismo tratamiento se otorgará, con respecto a los productos adquiridos en los establecimientos de venta situados en el recinto de una de las dos terminales de acceso al túnel bajo el Canal de la Mancha, a viajeros que tengan en su poder un título de transporte válido para el trayecto efectuado entre ambas terminales.
+2. Los productos objeto de impuestos especiales que antes del día 1 de enero de 1993 se encontrasen bajo un régimen suspensivo de tránsito comunitario interno, continuarán bajo el mismo hasta su ultimación conforme a las normas que regulan dicho régimen.
+Se modifica el párrafo primero del apartado 1 por la disposición transitoria 13 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Hecho imponible.
+Para los productos objeto de los impuestos especiales de fabricación, tal como se configuran en la presente Ley, que hayan sido fabricados, importados o introducidos y que se encuentren en el interior de las fábricas y depósitos fiscales con anterioridad a la fecha de su entrada en vigor, estos impuestos serán exigibles al producirse el devengo de acuerdo con lo establecido en el artículo 7 de esta Ley, a los tipos vigentes en el momento de dicho devengo.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Exenciones.
+1. Los productos objeto de los impuestos especiales de fabricación adquiridos o importados sin pago de tales impuestos, con anterioridad a la entrada en vigor de la presente Ley, por haberse beneficiado de alguno de los supuestos de exención establecidos en la Ley 45/1985 en virtud de la finalidad a que se destinaban, podrán utilizarse o consumirse en tales fines siempre que los mismos puedan tenerse en régimen suspensivo u originen el derecho a la exención o a la devolución, de acuerdo con lo establecido en la presente Ley.
+2. Los industriales que habiendo gozado de exención con motivo de la fabricación o importación de productos objeto de los impuestos especiales de fabricación de acuerdo con la Ley 45/1985 y a los que no resulte de aplicación lo previsto en el apartado anterior deberán presentar, hasta el 31 de marzo de 1993, en la oficina gestora correspondiente al establecimiento en que se encuentran, una declaración-liquidación comprensiva de las existencias de tales productos, así como de los incorporados a otros en su poder en el momento de la entrada en vigor de esta Ley, ingresando las cuotas que correspondan a los tipos en ella establecidos.
+3. A partir de la entrada en vigor de esta Ley y hasta el 30 de junio de 1993, la adquisición e importación de productos objeto de los impuestos especiales de fabricación para alguno de los fines a los que en esta Ley se reconoce la exención del impuesto, se efectuará al amparo de las autorizaciones concedidas de acuerdo con la Ley 45/1985 que estén en vigor al 31 de diciembre de 1992, quedando prorrogada su vigencia hasta el 30 de junio de 1993. En el caso de nuevos supuestos de exención o cuando el adquirente o importador no hubiese estado previamente autorizado, la aplicación de la exención se efectuará sin más requisito que la presentación al vendedor o aduana importadora de un escrito, suscrito por el adquirente y previamente visado por la oficina gestora correspondiente al establecimiento en que se van a utilizar, en que se precise el supuesto de exención que considera aplicable y manifieste que el destino a dar a los productos a adquirir sin pago del impuesto será el que origina el derecho a tal beneficio. El adquirente será responsable de la indebida utilización de los productos recibidos.
+4. Para la adquisición en régimen suspensivo, basta con que se acredite ante el proveedor la condición de depositario autorizado; a estos efectos, las tarjetas de inscripción en registro expedidas con anterioridad a la fecha de entrada en vigor de esta Ley y que caduquen antes del 30 de junio de 1993, se considerarán en vigor hasta esta última fecha.
+5. Los operadores registrados, los operadores no registrados y los receptores autorizados que autoconsuman los productos recibidos en usos que originen el derecho a la exención según lo establecido en la presente Ley, podrán utilizarlos o consumirlos, hasta el 30 de junio de 1993, con aplicación de tal beneficio sin ningún requisito formal, siendo responsables de la utilización dada a los productos.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Devoluciones.
+1. Los productos objeto de los impuestos especiales de fabricación por los que se hubiera solicitado la devolución total o parcial de las cuotas satisfechas, de acuerdo con la Ley 45/1985, con anterioridad a la entrada en vigor de esta Ley, podrán consumirse o utilizarse en los fines que originaron el derecho a la devolución, efectuándose ésta conforme al procedimiento entonces vigente.
+2. En las exportaciones de productos que originen el derecho a la devolución de las cuotas devengadas por impuestos especiales con anterioridad a la entrada en vigor de esta Ley, la determinación del importe a devolver se efectuará de acuerdo con los tipos vigentes el 31 de diciembre de 1992.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Impuesto sobre el alcohol y bebidas derivadas.
+1. Las existencias de alcohol desnaturalizado conforme a la normativa que se deroga en esta Ley, en poder de almacenistas y detallistas de alcohol en la fecha de su entrada en vigor, tendrán la consideración de alcohol totalmente desnaturalizado hasta el 30 de junio de 1993, pudiendo comercializarse como tal hasta dicha fecha.
+2. Las autorizaciones para la recepción de alcohol desnaturalizado, en vigor hasta el 31 de diciembre de 1992, se considerarán válidas hasta el 30 de junio de 1993 por lo que respecta a la recepción de alcohol totalmente desnaturalizado.
+3. Hasta el 30 de junio de 1993, los detallistas de alcohol podrán recibir alcohol totalmente desnaturalizado, con exención del impuesto, sin más requisito que la petición por escrito al proveedor, suscrita por el adquirente, en la que haga constar su condición de titular de un establecimiento facultado, de acuerdo con la normativa vigente en materia del Impuesto sobre Actividades Económicas, para la venta al por menor de alcohol desnaturalizado. Estos detallistas no podrán realizar operaciones de venta en cantidad superior a cuatro litros de alcohol totalmente desnaturalizado, debiendo llevar un registro con los datos identificativos de las personas adquirentes y cantidades entregadas, como justificación del destino dado a dicho alcohol.
+4. Los establecimientos inscritos en los registros territoriales de las oficinas gestoras de los impuestos especiales como almacenes de alcohol tendrán, hasta el 30 de junio de 1993, la consideración de depósitos fiscales, únicamente en relación con el alcohol totalmente desnaturalizado.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Impuestos sobre hidrocarburos.
+1. Los gasóleos B y C en existencia a la entrada en vigor de esta Ley podrán utilizarse, hasta el 30 de junio de 1993, como carburante en los usos previstos en el apartado 2 del artículo 54, en el transporte por ferrocarril, en la navegación distinta de la privada de recreo y, en general, como combustible.
+2. La exención y devolución del impuesto con respecto al avituallamiento de buques afectos a la pesca se aplicarán hasta el 31 de diciembre de 1993, mediante el procedimiento vigente hasta la entrada en vigor de esta Ley.
+3. Para la aplicación de los supuestos de exención establecidos en las letras a), b) y f) del apartado 2 del artículo 51 y los de devolución establecidos en la letra b) del artículo 52, distintos de aquellos a que se refiere el apartado 2 de esta disposición, bastará, hasta el 30 de junio de 1993, con que en el documento comercial de entrega expedido por el suministrador, se hagan constar, al menos, los siguientes datos: Fecha del suministro, titular y matrícula del buque o de la aeronave suministrados, clase y cantidad de carburante entregado, así como una declaración del titular de la embarcación o aeronave, o de su representante legal, de la recepción conforme a bordo y de que la embarcación o aeronave no realiza navegación o aviación privada de recreo.
+4. El requisito establecido en el apartado 3 del artículo 50 no será exigible hasta el 1 de julio de 1993 por lo que se refiere a los epígrafes 1.7, 1.8, 1.10, 1.12, 2.10 y 2.13. En relación con el epígrafe 1.4, se admitirán durante dicho período los trazadores y marcadores autorizados hasta la entrada en vigor de esta Ley para los gasóleos B y C.
+5. A los efectos de lo establecido en el apartado 5 del artículo 55 de esta Ley, se tendrán también en cuenta las infracciones establecidas en el artículo 35 de la Ley 45/1985, de 23 de diciembre, de Impuestos Especiales.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Impuesto sobre Determinados Medios de Transporte.
+1. La primera matriculación de medios de transporte no estará sujeta al Impuesto Especial cuando el devengo del Impuesto sobre el Valor Añadido correspondiente a su entrega o importación se haya producido antes del día 1 de enero de 1993.
+No obstante lo dispuesto en el párrafo anterior, estará sujeta al Impuesto Especial sobre Determinados Medios de Transporte la primera transmisión que tenga lugar durante 1993 y 1994 de medios de transporte matriculados entre los días 23 de octubre de 1992 y 31 de diciembre de 1992, ambos inclusive, cuando el transmitente de dichos medios, habiendo soportado con ocasión de su adquisición el Impuesto sobre el Valor Añadido al tipo incrementado, tuviera derecho a la deducción de las cuotas de éste. Lo dispuesto en este párrafo no será de aplicación a los medios de transporte en los que, conforme a lo dispuesto en los artículos 65 y 66 de esta Ley, concurra algún supuesto de no sujeción o de exención, ni a aquellos medios de transporte que se envíen fuera del territorio nacional o se exporten y que no se reintroduzcan en el territorio nacional o se reimporten antes del 31 de diciembre de 1994.
+2. Los vehículos de exclusiva aplicación industrial, comercial, agraria, clínica o científica, cuyos modelos de serie hubiesen sido homologados por la Administración tributaria con anterioridad al 1 de enero de 1993, conservarán dicha homologación a efectos de lo previsto en el apartado 1.a).3.) del artículo 65 de la presente Ley.
+Se derogan los apartados 3 y 4, con efectos a partir del 1 de enero de 2008, por la disposición adicional 8.1.5 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744. en la redacción dada por la disposición adicional 62 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295.
+ Se derogan los apartados 3 y 4, con efectos a partir del 1 de enero de 2008, por la disposición adicional 8.1.5 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744
+ Se sustituye lo indicado por la disposición adicional única del Real Decreto-Ley 1/1996, de 19 de enero. Ref. BOE-A-1996-1496
+ Se modifican los apartados 3 y 4 por el art. 34.2 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Téngase en cuenta que se declaran inconstitucionales y nulos los apartados 3 y 4, en lo referente a las Islas Canarias, con los efectos citados en el f.j.10, en la redacción dada por el art. 34.2 del Real Decreto-ley 12/1995, de 28 de diciembre, por Sentencia 137/2003, de 3 de julio. Ref. BOE-T-2003-15234
+ Redactado conforme a la corrección de errores publicada en BOE núm. 16, de 18 de enero de 1996. Ref. BOE-A-1996-1219
+ Se modifica el apartado 3, con efectos a partir del 1 de enero de 1995, por el art. 84.2 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Inscripción en el registro territorial en el Impuesto Especial sobre la Electricidad.
+Los obligados a presentar autoliquidaciones por este impuesto, así como los beneficiarios de las exenciones y de la reducción establecidas en el mismo, que ya figuren inscritos en el correspondiente registro territorial por el Impuesto sobre la Electricidad, no deberán solicitar una nueva inscripción por este impuesto.
+Se añade por el art. 3.9 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Presentación de declaración informativa del Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco.
+Durante los 30 días siguientes a la entrada en vigor del impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco, quienes almacenen productos objeto del mismo con fines comerciales presentarán en la sede electrónica de la Agencia Estatal de Administración Tributaria una declaración informativa en la que se especificará la clase y cantidad de producto almacenada en el momento de la entrada en vigor del impuesto. En particular, en dicha declaración se deberá consignar la clasificación de los productos en función de los apartados correspondientes a los tipos impositivos regulados en el artículo 64 sexies de esta ley.
+Constituye infracción tributaria grave no presentar en plazo, o presentar de forma incompleta, inexacta o con datos falsos la declaración anterior. La sanción consistirá en multa pecuniaria fija de 500 euros y le será de aplicación lo dispuesto en el artículo 188 de la Ley 58/2003, de 17 de diciembre.
+Téngase en cuenta que esta disposición, añadida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que la adición de esta disposición, efectuada por la disposición final 2.11 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se añade, con efectos desde el 1 de enero de 2025, por la disposición final 2.11 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Regularización de los productos objeto del impuesto almacenados a la entrada en vigor del Impuesto sobre los Líquidos de Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco.
+Estará sujeta al Impuesto sobre los Líquidos de Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco la tenencia de los productos objeto del mismo que se encuentren almacenados con fines comerciales en el momento de la entrada en vigor de dicho Impuesto.
+Serán contribuyentes quienes posean dichos productos.
+El devengo se producirá el día de la entrada en vigor del impuesto, salvo que dichos productos se vinculen al régimen suspensivo en el interior de una fábrica o depósito fiscal.
+El tipo impositivo aplicable es el establecido en el artículo 64 septies.
+La autoliquidación se deberá presentar del 1 al 20 de abril de 2025, en las condiciones y empleando los modelos, que determine la persona titular del Ministerio de Hacienda.
+Se deja sin efecto la modificación por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2025-1136
+ Se modifica, con efectos de 1 de abril de 2025, por la disposición final 2.12 de la Ley 7/2024, de 20 de diciembre, Ref. BOE-A-2024-26694#df-2, en la redacción dada por el art. 10.1 y 2 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915#a1-2
+ Se añade, con efectos desde el 1 de enero de 2025, por la disposición final 2.12 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+
+### Disposición transitoria undécima 
+
+Disposición transitoria undécima. Plazo de presentación de la autoliquidación correspondiente al Impuesto sobre los Líquidos para Cigarrillos electrónicos y otros Productos relacionados con el Tabaco durante los tres primeros meses de 2025.
+Las autoliquidaciones correspondientes a los periodos de liquidación de los meses de enero, febrero y marzo de 2025, se deberán presentar del 1 al 20 de abril de 2025.
+Se deja sin efecto la modificación por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2025-1136
+ Se modifica, con efectos de 1 de abril de 2025, por la disposición final 2.13 de la Ley 7/2024, de 20 de diciembre, en la redacción dada por el art. 10.1 y 3 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915#a1-2
+ Se añade, con efectos desde el 1 de enero de 2025, por la disposición final 2.13 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera.
+1. Sin perjuicio de lo establecido en las disposiciones transitorias de esta Ley, a su entrada en vigor quedarán derogadas todas las disposiciones que se opongan a lo dispuesto en ella y, en particular, la Ley 45/1985, de 23 de diciembre, de Impuestos Especiales.
+2. En tanto que por el Gobierno no se aprueben las disposiciones reglamentariasde desarrollo de la presente Ley, continuarán vigentes las normas reglamentarias sobre los impuestos especiales vigentes el 31 de diciembre de 1992, en lo que no se oponga a la misma o a los reglamentos y directivas comunitarios vigentes en materia de impuestos especiales.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda.
+Queda derogado el apartado 2 del artículo cuarto de la Ley 38/1985, de 22 de noviembre, reguladora del Monopolio de Tabacos.
+Se deroga el párrafo segundo por la disposición derogatoria única de la Ley 13/1998, de 4 de mayo. Ref. BOE-A-1998-10407
+
+### Disposición final primera
+
+Disposición final primera. Entrada en vigor.
+La presente Ley entrará en vigor el día 1 de enero de 1993.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación a la Ley de Presupuestos.
+La estructura de las tarifas, los tipos impositivos, los supuestos de no sujeción, las exenciones y la cuantía de las sanciones establecidos en esta Ley podrán ser modificados por las Leyes de Presupuestos de cada año, que podrán igualmente proceder a la adaptación de los valores monetarios que figuran en la misma, en función de las variaciones del tipo de cambio del Ecu a la actualización de las referencias a los códigos NC y, en general, al mantenimiento del texto de esta Ley ajustado a la normativa comunitaria.
+Además, en relación con el Impuesto sobre los Líquidos de Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco, las Leyes de Presupuestos de cada año podrán modificar el ámbito objetivo, las definiciones de los productos gravados y los epígrafes en función de los cuales se determinan los tipos impositivos.
+Téngase en cuenta que la actualización de esta disposición, establecida por la Ley 7/2024, tiene efectos desde 1 de enero de 2025, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que modificaba los efectos. Ref. BOE-A-2025-1136
+ Téngase en cuenta que esta modificación, efectuada por la disposición final 2.14 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica, con efectos desde el 1 de enero de 2025, por la disposición final 2.14 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 28 de diciembre de 1992.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta sobre la interpretación de determinados preceptos de esta Ley, la Resolución 1/1994, de 10 de enero. Ref. BOE-A-1994-801

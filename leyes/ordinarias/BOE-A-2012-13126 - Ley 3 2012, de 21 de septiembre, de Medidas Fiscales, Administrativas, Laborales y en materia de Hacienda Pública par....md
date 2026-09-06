@@ -1,0 +1,539 @@
+# Ley 3/2012, de 21 de septiembre, de Medidas Fiscales, Administrativas, Laborales y en materia de Hacienda Pública para el reequilibrio económico-financiero de la Junta de Andalucía.
+
+- Identificador BOE: `BOE-A-2012-13126`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-13126
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+A todos los que la presente vieren, sabed que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley de Medidas Fiscales, Administrativas, Laborales y en materia de Hacienda Pública para el reequilibrio económico-financiero de la Junta de Andalucía.
+EXPOSICIÓN DE MOTIVOS
+I
+La Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, amplía las obligaciones de las Comunidades Autónomas respecto a las existentes hasta el momento. A partir de ahora, estas deben respetar no solo un límite máximo de déficit sino también un crecimiento limitado del gasto público y un objetivo de deuda. Todo ello acompañado de un detallado mecanismo sancionador en caso de incumplimiento.
+Bajo esta coyuntura, las Comunidades Autónomas han visto reducidos sus ingresos de forma notoria. Esta situación se ha agravado, además, por las restricciones para la obtención de recursos en los mercados financieros. A este respecto, debe recordarse que en esta difícil coyuntura las Comunidades Autónomas continúan prestando el grueso de los servicios públicos fundamentales.
+En el caso de Andalucía, el mantenimiento de la prestación de estos servicios públicos se ha conjugado con la realización de un gran esfuerzo para cumplir con los objetivos de consolidación fiscal exigidos a la Comunidad Autónoma. Un esfuerzo aún más meritorio si se tiene en cuenta la sustancial disminución de los ingresos como consecuencia de la aplicación de la modificación realizada en el sistema de financiación autonómica.
+El objetivo de consolidación fiscal impuesto a Andalucía ha marginado el principio de equidad, dejando a un lado tanto las circunstancias particulares de la Comunidad Autónoma como su trayectoria de cumplimiento y su reducido nivel de endeudamiento. El resultado es la fijación de un límite de déficit que otorga a Andalucía unos recursos por habitante significativamente inferiores a la media de las Comunidades Autónomas, media que ya es sensiblemente menor de la que le correspondería de tenerse en cuenta su peso sobre el gasto público total. Hay que señalar que la Administración General del Estado se reserva una mayor proporción del déficit total, exigiendo a las Comunidades Autónomas un mayor esfuerzo en la reducción del déficit.
+En este contexto, mediante el Acuerdo del Consejo de Política Fiscal y Financiera de 6 de marzo de 2012, se ha procedido a una nueva revisión del objetivo de estabilidad presupuestaria para Andalucía, situándolo en un -1,5% del PIB regional.
+Este nuevo objetivo de estabilidad presupuestaria requiere la necesaria adopción de medidas que afectan al Presupuesto de la Comunidad Autónoma de Andalucía para el presente año tanto en su escenario de gastos como en el de ingresos.
+En este sentido, el Consejo de Gobierno, el 15 de mayo de 2012, aprobó la Propuesta del Plan Económico-Financiero de Reequilibrio 2012-2014, en el que se incorporan las medidas de recorte del gasto, de obligado cumplimiento para las Comunidades Autónomas, decididas por la Administración General del Estado, así como las medidas que derivan de la rebaja en la cofinanciación de programas de gasto prevista en el Proyecto de Ley de Presupuestos Generales del Estado para 2012 que afectan al Presupuesto de Andalucía.
+La mencionada Propuesta del Plan Económico-Financiero de Reequilibrio 2012-2014 fue examinada para su aprobación en la sesión del Pleno del Consejo de Política Fiscal y Financiera celebrada el día 17 de mayo.
+Tras las debidas modificaciones introducidas como consecuencia de las observaciones puestas de manifiesto, el Consejo de Política Fiscal y Financiera ha considerado idóneas las medidas contenidas en la Propuesta del Plan Económico-Financiero de Reequilibrio 2012-2014 presentado por la Comunidad Autónoma de Andalucía y adecuadas sus previsiones a los objetivos fijados. Posteriormente, mediante Acuerdo de Consejo de Gobierno de 22 de mayo, se aprobó el referido Plan.
+El contenido de este Plan contempla las medidas que con carácter básico ha desarrollado la Administración General del Estado en materia de jornada laboral, educativa y sanitaria. En relación a la primera de ellas, la aplicación estricta del incremento a treinta y siete horas y media, en cómputo semanal, de la jornada del personal al servicio del sector público andaluz llevaría aparejada la destrucción de una cantidad de empleo equivalente. Para evitarlo, se prioriza el mantenimiento del empleo en el marco de la consolidación fiscal.
+La presente Ley es el instrumento jurídico adecuado para adoptar las medidas necesarias para asegurar el cumplimiento de los compromisos adquiridos por la Comunidad Autónoma de Andalucía, en el marco de las obligaciones asumidas por las distintas Administraciones públicas territoriales del Estado español, en materia de reducción del déficit público, al objeto de asegurar el cumplimiento del objetivo de estabilidad presupuestaria.
+II
+Las medidas que se adoptan se refieren a los ámbitos fiscal, administrativo, laboral y de hacienda pública. Como se indica en el artículo 1 de la Ley, único que integra el capítulo I de la misma, relativo a las disposiciones generales, tales medidas se disponen al amparo de las competencias que, en materia de autoorganización, política económica, hacienda pública autonómica y régimen de personal, tiene atribuidas la Comunidad Autónoma de Andalucía.
+Las medidas tributarias, que se contemplan en el capítulo II, están vinculadas, fundamentalmente, a aquellos tributos de tipo progresivo, más directamente relacionados con la capacidad económica de los contribuyentes, como son el Impuesto sobre la Renta de las Personas Físicas y el Impuesto sobre el Patrimonio.
+En relación con el Impuesto sobre la Renta de las Personas Físicas, se modifica, con efectos desde el día 1 de enero de 2012, la escala autonómica aplicable a la base liquidable general, lo que supone la sustitución de los actuales tres últimos tramos por dos nuevos tramos en dicha escala, aplicables a los contribuyentes con bases liquidables superiores a 60.000 euros.
+En relación con el Impuesto sobre el Patrimonio, con efectos de 1 de enero de 2012, se incrementa el tipo de gravamen actual del impuesto, multiplicando por el coeficiente 1,10 cada tramo de la escala.
+A su vez, se incrementa el tipo general de la modalidad de actos jurídicos documentados del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+Respecto de la tasa fiscal sobre los juegos de suerte, envite o azar, se establecen nuevas cuotas fijas para el caso de máquinas recreativas tipo «B» o recreativas con premio y tipo «C» o de azar.
+Por último, en relación con el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos, se establecen nuevos tipos de gravamen autonómicos, dentro de los límites legalmente establecidos.
+Debe indicarse que mediante la presente Ley se ejercen las competencias normativas que atribuye a la Comunidad Autónoma de Andalucía la Ley 18/2010, de 16 de julio, del régimen de cesión de tributos del Estado a la Comunidad Autónoma de Andalucía y de fijación del alcance y condiciones de dicha cesión, en los casos y condiciones que se prevé en la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
+Con respecto a las medidas en materia de personal en el sector público andaluz, recogidas en el capítulo III, se reducen las retribuciones de los altos cargos y personal de alta dirección de las entidades instrumentales y consorcios, así como del personal funcionario y laboral de todo el sector público andaluz.
+En este sentido, debe resaltarse que algunas de las medidas adoptadas en materia de personal tienen como objeto la armonización de las condiciones de trabajo de los empleados de las entidades instrumentales y consorcios con los de la Administración General de la Junta de Andalucía, tanto en el ámbito retributivo como respecto a las vacaciones y permisos.
+Con respecto a la jornada laboral del personal del sector público andaluz, se establece una jornada ordinaria de trabajo de treinta y siete horas y media semanales en cómputo anual. En relación con la jornada del personal docente no universitario, se aplica la medida establecida en el Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
+Se modifican las vacaciones y los permisos del personal funcionario y laboral del sector público andaluz y de los consorcios.
+Por último, se adoptan otras medidas relativas a la jubilación anticipada, acción social, sustituciones del profesorado, oferta de empleo público, crédito horario de los representantes sindicales y ayudas a organizaciones sindicales.
+En el capítulo IV, dedicado a las medidas en materia de hacienda pública, se modifica el texto refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, incorporándose una limitación en la adquisición de compromisos por parte de las agencias públicas empresariales y sociedades mercantiles sujetas a control financiero permanente. Se atribuye el control del cumplimiento de dicho límite a la Intervención General de la Junta de Andalucía, que se realizará en la forma que este mismo órgano acuerde.
+La Ley contiene también ocho disposiciones adicionales, dos disposiciones transitorias, una disposición derogatoria y cuatro disposiciones finales. Entre estas últimas, las dos primeras introducen sendas modificaciones en la Ley 4/1986, de 5 de mayo, del Patrimonio de Andalucía, y en la Ley 9/1983, de 1 de diciembre, del Defensor del Pueblo Andaluz.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Finalidad.
+1. Las medidas incluidas en la presente Ley se adoptan para el cumplimiento de los compromisos adquiridos por la Junta de Andalucía, en el marco de las obligaciones asumidas por las distintas Administraciones públicas territoriales del Estado español, en materia de reducción del déficit público, al objeto de cumplir el objetivo de estabilidad presupuestaria.
+2. Las disposiciones recogidas en la presente norma se dictan al amparo de las competencias que, en materia de autoorganización, política económica, hacienda pública autonómica y régimen de personal, tiene atribuidas la Junta de Andalucía en el marco de la legislación vigente.
+
+## CAPÍTULO II
+
+Medidas tributarias
+
+### Artículo 2
+
+Artículo 2. Modificación del texto refundido de las disposiciones dictadas por la Comunidad Autónoma de Andalucía en materia de tributos cedidos, aprobado por Decreto Legislativo 1/2009, de 1 de septiembre.
+Se modifica el texto refundido de las disposiciones dictadas por la Comunidad Autónoma de Andalucía en materia de tributos cedidos, aprobado por Decreto Legislativo 1/2009, de 1 de septiembre, en la forma que se indica a continuación:
+Uno. Se suprime, en el párrafo primero del artículo 15 bis, la expresión «Sociedad Anónima, Sociedad de Responsabilidad Limitada».
+Dos. Se añade un nuevo artículo 15 quáter, que queda redactado de la siguiente manera:
+«Artículo 15 quáter. Escala autonómica.
+Con efectos desde el día 1 de enero de 2012, la escala autonómica aplicable a la base liquidable general, a que se refiere el artículo 74 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, en redacción dada por la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias, será la siguiente:
+Base liquidable
+ –
+ Hasta euros
+ Cuota íntegra
+ –
+ Euros
+ Resto base liquidable
+ –
+ Hasta euros
+ Tipo aplicable
+ –
+ Porcentaje
+ 0,00
+ 0,00
+ 17.707,20
+ 12
+ 17.707,20
+ 2.124,86
+ 15.300,00
+ 14
+ 33.007,20
+ 4.266,86
+ 20.400,00
+ 18,50
+ 53.407,20
+ 8.040,86
+ 6.592,80
+ 21,50
+ 60.000,00
+ 9.458,31
+ 60.000,00
+ 23,50
+ 120.000,00
+ 23.558,31
+ En adelante
+ 25,50»
+Tres. Se modifica el artículo 16 bis, que queda redactado de la siguiente manera:
+«Artículo 16 bis. Tipo de gravamen.
+Con efectos desde el día 1 de enero de 2012, la cuota íntegra del impuesto regulada en el artículo 30 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio, se obtendrá aplicando a la base liquidable los tipos que se indican en la siguiente escala:
+Base liquidable
+ –
+ Hasta euros
+ Cuota íntegra
+ –
+ Euros
+ Resto base liquidable
+ –
+ Hasta euros
+ Tipo aplicable
+ –
+ Porcentaje
+ 0,00
+ 0,00
+ 167.129,45
+ 0,24
+ 167.129,45
+ 401,11
+ 167.123,43
+ 0,36
+ 334.252,88
+ 1.002,75
+ 334.246,87
+ 0,61
+ 668.499,75
+ 3.041,66
+ 668.499,76
+ 1,09
+ 1.336.999,51
+ 10.328,31
+ 1.336.999,50
+ 1,57
+ 2.673.999,01
+ 31.319,20
+ 2.673.999,02
+ 2,06
+ 5.347.998,03
+ 86.403,58
+ 5.347.998,03
+ 2,54
+ 10.695.996,06
+ 222.242,73
+ En adelante
+ 3,03»
+Cuatro. Se modifica el artículo 26, que queda redactado de la siguiente manera:
+«Artículo 26. Tipo de gravamen general para los documentos notariales.
+En la modalidad de actos jurídicos documentados del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, las primeras copias de escrituras y actas notariales, cuando tengan por objeto cantidad o cosa valuable, contengan actos o contratos inscribibles en los Registros de la Propiedad, Mercantil, de la Propiedad Industrial y de Bienes Muebles y no sujetos al Impuesto sobre Sucesiones y Donaciones o a los conceptos comprendidos en los números 1.º y 2.º del apartado 1 del artículo 1 del texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por Real Decreto Legislativo 1/1993, de 24 de septiembre, tributarán, además de por la cuota fija prevista en el artículo 31.1 de dicho texto refundido, al tipo de gravamen del 1,5 %, en cuanto a tales actos o contratos.»
+Cinco. Se modifican los apartados 2 y 4 del artículo 30, que quedan redactados de la siguiente manera:
+«2. Las cuotas fijas, en los casos de explotación de máquinas o aparatos automáticos aptos para la realización de los juegos, se determinarán en función de la clasificación de las máquinas realizada por la Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía, y disposiciones reglamentarias de desarrollo, conforme a las siguientes normas:
+a) Máquinas tipo «B» o recreativas con premio:
+Se aplicará una cuota semestral de 1.850 euros.
+Cuando se trate de máquinas o aparatos automáticos tipo «B» en los que puedan intervenir dos o más jugadores de forma simultánea, siendo el juego de cada uno de ellos independiente del realizado por otros jugadores, la cuota será la que resulte de incrementar la asignada a un solo jugador en un 10 % por cada nuevo jugador.
+b) Máquinas tipo «C» o de azar:
+Se aplicará una cuota semestral de 2.650 euros.»
+«4. En caso de modificación del precio máximo de 20 céntimos de euro de la partida en máquinas tipo «B» o recreativas con premio, la cuota tributaria de 1.850 euros se incrementará en 37,64 euros por cada cuatro céntimos de euro o fracción inferior en que el nuevo precio máximo establecido exceda de 20 céntimos de euro.
+El incremento de la cuota tributaria por modificación del precio máximo de la partida será calculado según lo previsto en el párrafo anterior aunque la autorización de la subida del precio tenga lugar con posterioridad a la fecha del devengo de la tasa.»
+Seis. Se modifica el artículo 49, que queda redactado de la siguiente manera:
+«Artículo 49. Tipo de gravamen autonómico.
+El tipo de gravamen autonómico en el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos es el siguiente:
+a) Gasolinas: 48 euros por 1.000 litros.
+b) Gasóleo de uso general: 48 euros por 1.000 litros.
+c) Gasóleo de calefacción: 6 euros por 1.000 litros.
+d) Fuelóleo: 2 euros por tonelada.
+e) Queroseno de uso general: 48 euros por 1.000 litros.»
+
+## CAPÍTULO III
+
+Medidas en materia de personal en el sector público andaluz
+Téngase en cuenta que para el ejercicio 2017, se prorrogan las medidas contenidas en los apartados 1 a 3, 8 y 9 del artículo 6 y en los artículos 12 a 22, 26 a 30, 32 y 33, según establece la disposición adicional 5 de la Ley 10/2016, de 27 de diciembre. Ref. BOE-A-2017-658
+Se prorrogan, para el ejercicio 2017, las medidas contenidas en los apartados 1 a 3, 8 y 9 del artículo 6 y en los artículos 12 a 22, 26 a 30, 32 y 33, según establece la disposición adicional 5 de la Ley 10/2016, de 27 de diciembre. Ref. BOE-A-2017-658
+ Se prorrogan, para el ejercicio 2016, las medidas contenidas en los apartados 1 a 3, 8 y 9 del artículo 6 y en los artículos 12 a 14, 16 a 22, 25 a 30, 32 y 33, según establece la disposición adicional 4 de la Ley 1/2015, de 21 de diciembre. Ref. BOE-A-2016-360
+ Se prorrogan, para el ejercicio 2015, las medidas contenidas en los apartados 1 a 3, 8 y 9 del artículo 6 y en los artículos 12 a 23, 25 al 30, 32 y 33, según establece la disposición adicional 4 de la Ley 6/2014, de 30 de diciembre. Ref. BOE-A-2015-680
+ Se prorrogan, para el ejercicio 2014, las medidas contempladas en este capítulo, según establece la disposición adicional 4 de la Ley 7/2013, de 23 de diciembre. Ref. BOE-A-2014-592
+
+## Sección 1
+
+Sección 1.ª Disposiciones comunes
+
+### Artículo 3
+
+Artículo 3. Ámbito subjetivo de aplicación.
+Las medidas contempladas en el presente capítulo serán de aplicación al personal del sector público andaluz que se indica a continuación:
+a) La Administración de la Junta de Andalucía, sus instituciones y agencias administrativas.
+A los efectos de esta Ley, se consideran instituciones el Consejo Consultivo de Andalucía, el Consejo Audiovisual de Andalucía y el Consejo Económico y Social de Andalucía.
+b) Las agencias de régimen especial.
+c) Las agencias públicas empresariales, sociedades mercantiles del sector público andaluz, y consorcios, fundaciones y demás entidades a que se refiere el artículo 5 del texto refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, aprobado por Decreto Legislativo 1/2010, de 2 de marzo.
+d) Las Universidades de titularidad pública competencia de la Comunidad Autónoma de Andalucía.
+e) El personal de los cuerpos de funcionarios al servicio de la Administración de Justicia competencia de la Comunidad Autónoma de Andalucía.
+
+### Artículo 4
+
+Artículo 4. Ámbito temporal.
+Las medidas en materia de personal contenidas en este capítulo tienen carácter excepcional y temporal, siendo de aplicación hasta el 31 de diciembre de 2013(*). Al término de esta fecha, se revisarán todas las medidas propuestas en esta Ley y se estudiará el levantamiento de la suspensión, en función de la garantía de estabilidad presupuestaria y la sostenibilidad financiera de la Comunidad Autónoma de Andalucía.
+(*) Véase la nota informativa que encabeza el capítulo III de esta ley, en cuanto a las diferentes prórrogas de aplicación de las medidas en materia de personal.
+
+### Artículo 5
+
+Artículo 5. Acuerdos, pactos y convenios colectivos.
+Los acuerdos y pactos firmados con las organizaciones sindicales, respecto del personal funcionario y estatutario, y las cláusulas contractuales o condiciones reguladas en convenios colectivos, respecto del personal laboral, permanecerán vigentes, si bien, atendiendo a la situación de excepcionalidad provocada por la alteración sustancial de las circunstancias económicas, se suspenden aquellas que contradigan lo dispuesto en la presente Ley.
+
+## Sección 2
+
+Sección 2.ª Medidas en materia de retribuciones
+
+### Artículo 6
+
+Artículo 6. Retribuciones de altos cargos.
+(Derogado).
+Se deroga por la disposición derogatoria única.e) de la Ley 7/2024, de 23 de diciembre. Ref. BOE-A-2025-413
+
+### Artículo 7
+
+Artículo 7. Retribuciones del personal funcionario, eventual, interino y laboral.
+1. Para el personal funcionario de carrera e interino y el personal eventual comprendido en las letras a) y b) del artículo 3, se reducen las retribuciones en una cuantía equivalente a la suma de las pagas adicionales del complemento específico correspondientes a los meses de junio y diciembre.
+Dicha reducción se hará efectiva en las pagas adicionales del complemento específico, percibiéndose únicamente el 1 % de las mismas en los meses de junio y diciembre. La cuantía correspondiente al 2 % resultante se descontará, prorrateándose, del complemento específico de las retribuciones mensuales de enero a diciembre.
+2. Para el personal laboral incluido en el VI Convenio Colectivo del Personal Laboral de la Administración de la Junta de Andalucía, se reducen las retribuciones en una cuantía equivalente a la suma de las pagas adicionales del complemento de convenio y del complemento de puesto de trabajo correspondientes a los meses de junio y diciembre.
+La reducción se realizará aplicando la regla establecida en el segundo párrafo del apartado 1.
+3. Para el personal laboral de las instituciones se aplicará una reducción en términos equivalentes a lo establecido en el apartado 2 del presente artículo.
+
+### Artículo 8
+
+Artículo 8. Retribuciones del profesorado de la enseñanza pública no universitaria.
+Para el personal docente de la enseñanza pública no universitaria, se reducen las retribuciones en una cuantía equivalente a la suma de las pagas adicionales de los meses de junio y diciembre, con todos los componentes que las integran, excepto los correspondientes a los sexenios primero y segundo en los cuerpos docentes de los grupos de clasificación profesional A, subgrupo A2.
+La reducción se realizará aplicando la regla establecida en el segundo párrafo del apartado 1 del artículo 7.
+
+### Artículo 9
+
+Artículo 9. Retribuciones del personal del Servicio Andaluz de Salud.
+1. Para el personal estatutario del Servicio Andaluz de Salud, se reducen las retribuciones en una cuantía equivalente a la suma de las pagas adicionales del complemento específico correspondientes a los meses de junio y diciembre.
+La reducción se realizará aplicando la regla establecida en el segundo párrafo del apartado 1 del artículo 7.
+2. En equivalencia con lo establecido en el apartado anterior, para el personal funcionario y laboral transferido de las Diputaciones Provinciales, así como de otro tipo de entidades públicas, que presta servicio en el Servicio Andaluz de Salud, se reducen las retribuciones íntegras anuales en un porcentaje del 5 %, que se aplicará a partes iguales en las pagas extraordinarias de los meses de junio y de diciembre.
+3. En equivalencia con lo establecido en el apartado 1, para el personal que percibe sus retribuciones por el sistema de cupo, que presta servicio en el Servicio Andaluz de Salud, se reducen las retribuciones íntegras anuales en un porcentaje del 5 %, que se aplicará a partes iguales en las pagas extraordinarias de los meses de junio y de diciembre.
+
+### Artículo 10
+
+Artículo 10. Retribuciones del personal de los cuerpos de funcionarios al servicio de la Administración de Justicia.
+Al personal de los cuerpos de funcionarios al servicio de la Administración de Justicia se le aplicará una reducción del complemento provisional específico creado en los Acuerdos Marco entre la Administración de la Junta de Andalucía y las organizaciones sindicales sobre condiciones de trabajo del personal funcionario al servicio de la Administración de Justicia de Andalucía, suscritos el 29 de julio de 2005 y el 22 de enero de 2008. Dicha reducción supondrá el 5 % de sus retribuciones periódicas brutas anuales, excluidas para este cálculo las retribuciones percibidas en concepto de antigüedad.
+La reducción se efectuará prorrateada en las retribuciones mensuales de enero a diciembre con cargo al citado complemento.
+
+### Artículo 11
+
+Artículo 11. Retribuciones del personal de las Universidades de titularidad pública competencia de la Comunidad Autónoma de Andalucía.
+1. Al personal docente e investigador y de administración y servicios de las Universidades públicas andaluzas se le aplicará una reducción del 5 % de sus retribuciones periódicas íntegras anuales, que se realizará sobre las retribuciones cuya regulación no sea de competencia estatal.
+2. Dicha reducción se llevará a cabo en la forma que se acuerde dentro del ámbito del ejercicio de la autonomía universitaria, y en el ámbito de competencias de la Comunidad Autónoma de Andalucía.
+
+### Artículo 12
+
+Artículo 12. Productividad, complementos variables y conceptos asimilables del personal de la Administración General de la Junta de Andalucía y de las instituciones, del personal docente no universitario, del personal que presta servicio en el Servicio Andaluz de Salud y del personal de los cuerpos de funcionarios al servicio de la Administración de Justicia.
+Las cuantías asignadas a la distribución de los conceptos retributivos variables por la consecución de objetivos, incentivos al rendimiento, complementos de productividad, complementos de atención continuada, complementos de carrera profesional o cualquier otro complemento de carácter variable, del personal de la Administración General de la Junta de Andalucía y de las instituciones, del personal docente no universitario, del personal que presta servicio en el Servicio Andaluz de Salud y del personal de los cuerpos de funcionarios al servicio de la Administración de Justicia se reducirán en un 10 %.
+
+### Artículo 13
+
+Artículo 13. Gratificaciones y horas extraordinarias de la Administración General de la Junta de Andalucía y de las instituciones, del personal docente no universitario, del personal que presta servicio en el Servicio Andaluz de Salud y del personal de los cuerpos de funcionarios al servicio de la Administración de Justicia.
+(Derogado).
+Se deroga por la disposición derogatoria única.e) de la Ley 7/2024, de 23 de diciembre. Ref. BOE-A-2025-413
+ Se modifica el apartado 3 por la disposición final 3.1 de la Ley 12/2023, de 26 de diciembre. Ref. BOE-A-2024-447
+
+### Artículo 14
+
+Artículo 14. Complemento por incapacidad temporal, embarazo, lactancia natural, maternidad, paternidad, adopción, acogimiento y violencia de género.
+1. Al personal referido en las letras a), b) y c) del artículo 3 que legal o convencionalmente tenga reconocido el derecho a la percepción de prestaciones complementarias en situación de incapacidad temporal, se le aplicará, mientras se encuentre en dicha situación, además de lo previsto en la legislación de Seguridad Social, un complemento consistente en un porcentaje sobre la diferencia entre las prestaciones económicas que reciba del régimen de Seguridad Social al que estuviera acogido y las retribuciones que viniera percibiendo en el mes anterior al de causarse la incapacidad, con las reglas siguientes:
+1.ª Se abonará el 100 % del complemento por incapacidad temporal en los supuestos en los que la incapacidad temporal se origine por contingencias profesionales y por contingencias comunes que generen hospitalización o intervención quirúrgica. Asimismo, se percibirá el 100 % de este complemento en el caso de enfermedad grave dentro de los supuestos que establece el Real Decreto 1148/2011, de 29 de julio, para la aplicación y desarrollo, en el sistema de la Seguridad Social, de la prestación económica por cuidado de menores afectados por cáncer u otra enfermedad grave.
+Se abonará igualmente el 100% del complemento en los supuestos de incapacidad temporal que tengan inicio durante el estado de gestación o lactancia, aun cuando no den lugar a una situación de riesgo. También se percibirá el 100% de este complemento en el supuesto de incapacidad temporal motivada por la situación física o psicológica derivada de la violencia de género sufrida por las empleadas públicas. La acreditación de la condición de víctima de violencia de género se verificará de conformidad con lo previsto en la normativa vigente.
+Sin perjuicio de lo dispuesto en los párrafos anteriores, con anterioridad a 1 de abril de 2015, la Consejería de Hacienda y Administración Pública, previa negociación con las organizaciones sindicales, establecerá los supuestos de enfermedad que por su especial naturaleza y gravedad darán lugar a la percepción del 100 por ciento del mencionado complemento.
+2.ª En los supuestos de incapacidad temporal por enfermedad común o accidente no laboral, el complemento se calculará:
+a) Desde el primer día de la situación de incapacidad temporal hasta el tercer día inclusive, se abonará el 50 % de las retribuciones que se vengan percibiendo en el mes anterior al de causarse la incapacidad.
+b) Desde el cuarto día de la incapacidad temporal hasta el vigésimo día inclusive, el complemento que se sume a la prestación económica reconocida por la Seguridad Social será tal que, sumadas ambas cantidades, sea equivalente al 75 % de las retribuciones que se vinieran percibiendo en el mes anterior al de causarse la incapacidad.
+c) A partir del día vigésimo primero inclusive, se abonará el 100 % del complemento.
+3.ª El personal que se halle en las situaciones de riesgo durante el embarazo, riesgo durante la lactancia natural, maternidad, paternidad, adopción y acogimiento percibirá el 100 % del complemento regulado en el presente artículo.
+4.ª Durante el periodo en que el personal se halle en incapacidad temporal por contingencias comunes, no se abonará complemento alguno para garantizar retribuciones de carácter variable, ni aquellas otras cuya percepción se encuentre condicionada por la efectiva prestación del servicio.
+2. Las previsiones contenidas en este artículo serán de aplicación en el plazo de tres meses desde la entrada en vigor de esta Ley.
+Se modifica el apartado 1.1ª por la disposición final 5 de la Ley 6/2014, de 30 de diciembre. Ref. BOE-A-2015-680
+ Se modifica el título y el apartado 1.1ª por la disposición final 5.1 y 2 de la Ley 7/2013, de 23 de diciembre. Ref. BOE-A-2014-592
+
+### Artículo 15
+
+Artículo 15. Reducción de la jornada de trabajo con efectos en las retribuciones.
+El personal funcionario de carrera, el personal estatutario fijo y el personal laboral fijo, así como el personal funcionario interino, el personal estatutario temporal, el personal laboral temporal y el personal laboral indefinido no fijo que haya sido declarado como tal por resolución judicial o administrativa, de la Administración de la Junta de Andalucía, agencias administrativas y agencias de régimen especial, podrá solicitar voluntariamente la reducción de su jornada diaria hasta un 10 por ciento, con la correspondiente reducción proporcional de retribuciones, teniendo en cuenta siempre las necesidades del servicio. La resolución de dicha solicitud de reducción corresponderá al órgano que desempeñe las competencias en materia de personal.
+Lo dispuesto en este artículo también será de aplicación al Consejo Consultivo de Andalucía, al Consejo Audiovisual de Andalucía, al Consejo Económico y Social de Andalucía y al Consejo de Transparencia y Protección de Datos de Andalucía.
+Se modifica por la disposición final 4 de la Ley 10/2016, de 27 de diciembre. Ref. BOE-A-2017-658
+
+### Artículo 16
+
+Artículo 16. Garantía de una retribución mínima.
+(Derogado).
+Se deroga por la disposición derogatoria única.e) de la Ley 7/2024, de 23 de diciembre. Ref. BOE-A-2025-413
+
+## Sección 3
+
+Sección 3.ª Armonización de las retribuciones del personal al servicio de las entidades instrumentales y de los consorcios
+
+### Artículo 17
+
+Artículo 17. Retribuciones del personal que ejerce funciones de alta dirección y del resto del personal directivo en las entidades instrumentales y en los consorcios.
+(Derogado).
+Se deroga por la disposición derogatoria única.e) de la Ley 7/2024, de 23 de diciembre. Ref. BOE-A-2025-413
+
+### Artículo 18
+
+Artículo 18. Adecuación del régimen económico del personal que ejerce funciones de alta dirección y del resto del personal directivo de las entidades del sector público andaluz.
+Mediante Acuerdo del Consejo de Gobierno se adecuarán, conforme a criterios objetivos, los conceptos retributivos y las percepciones económicas de cualquier naturaleza que resultan de aplicación:
+a) A las personas titulares de la Presidencia, Vicepresidencia y, en su caso, Direcciones Generales o Direcciones Gerencia y asimilados, cuando les corresponda el ejercicio de las funciones ejecutivas de máximo nivel, de las agencias públicas empresariales, de las agencias de régimen especial, de las sociedades mercantiles del sector público andaluz y de los consorcios, fundaciones y demás entidades a que se refieren las letras b) y c) del artículo 3 de esta Ley.
+b) Al resto de personal directivo de las entidades a que se hace referencia en el párrafo anterior.
+
+### Artículo 19
+
+Artículo 19. Antigüedad del personal al servicio de las entidades instrumentales y de los consorcios.
+1. El personal laboral de las entidades instrumentales y consorcios incluidos en las letras b) y c) del artículo 3, que tenga reconocido un complemento de antigüedad u otro de análoga naturaleza, percibirá dicho complemento por un importe y un número que no podrá superar el consignado para el grupo profesional de pertenencia del vigente Convenio Colectivo del Personal Laboral de la Administración de la Junta de Andalucía, y sin que en ningún caso pueda suponer un incremento del gasto.
+2. El personal directivo laboral de las entidades instrumentales y consorcios, recogidos en el apartado anterior, que tenga reconocido un complemento de antigüedad u otro de análoga naturaleza, percibirá dicho concepto por un importe que no podrá superar el consignado para el grupo profesional 1 del vigente Convenio Colectivo del Personal Laboral de la Administración de la Junta de Andalucía, y sin que en ningún caso pueda suponer un incremento del gasto.
+
+### Artículo 20
+
+Artículo 20. Productividad, complementos variables y conceptos asimilables del personal de las entidades instrumentales y de los consorcios.
+En relación con el personal de las entidades instrumentales, así como de los consorcios comprendidos en la letra c) del artículo 3, la cuantía asignada a la distribución de cualquier concepto retributivo variable por la consecución de objetivos, incentivos al rendimiento, complementos de productividad, complementos de atención continuada, complementos de carrera profesional, o cualquier otro complemento de carácter variable, se reducirá en un 10 %.
+
+### Artículo 21
+
+Artículo 21. Gratificaciones y horas extraordinarias de las entidades instrumentales y de los consorcios.
+(Derogado).
+Se deroga por la disposición derogatoria única.e) de la Ley 7/2024, de 23 de diciembre. Ref. BOE-A-2025-413
+ Se modifica el apartado 3 por la disposición final 3.2 de la Ley 12/2023, de 26 de diciembre. Ref. BOE-A-2024-447
+
+### Artículo 22
+
+Artículo 22. Indemnizaciones por razón del servicio del personal de las entidades instrumentales y de los consorcios.
+Las indemnizaciones por razón del servicio del personal incluido en las letras b) y c) del artículo 3 no podrán ser superiores a las establecidas en el Decreto 54/1989, de 21 de marzo, sobre indemnizaciones por razón del servicio de la Junta de Andalucía. En estos supuestos, se aplicará a aquel personal el resarcimiento de los gastos que se ocasionen por razón del servicio, en las circunstancias, condiciones y límites regulados en el mencionado Decreto.
+
+### Artículo 23
+
+Artículo 23. Reducción de la jornada de trabajo con efectos en las retribuciones.
+1. La jornada de trabajo del personal laboral temporal y del personal laboral indefinido no fijo que haya sido declarado como tal por resolución judicial o administrativa, incluidos en las letras b) y c) del artículo 3, se reduce en un 10 %, reduciéndose en el mismo porcentaje sus retribuciones fijas y periódicas.
+2. El personal laboral fijo podrá solicitar voluntariamente la reducción de su jornada diaria, con la correspondiente reducción proporcional de retribuciones, teniendo en cuenta siempre las necesidades del servicio.
+
+### Artículo 24
+
+Artículo 24. Retribuciones del personal de las entidades instrumentales y de los consorcios.
+1. La masa salarial del personal laboral de las entidades referidas en las letras b) y c) del artículo 3 experimentará una reducción del 5 %. La distribución definitiva de esta reducción se llevará a cabo en el correspondiente ámbito de la negociación colectiva.
+2. Se entenderá por masa salarial, a los efectos del apartado anterior, el conjunto de las retribuciones salariales, devengadas o presupuestadas para el personal laboral afectado, en términos de homogeneidad para los dos periodos objeto de comparación, una vez excluidas las correspondientes al abono de antigüedad o concepto equivalente, así como las relativas a productividad y complementos variables. En todo caso, quedan exceptuadas:
+a) Las prestaciones e indemnizaciones de la Seguridad Social.
+b) Las cotizaciones al sistema de la Seguridad Social a cargo del empleador o empleadora.
+c) Las indemnizaciones correspondientes a traslados, suspensiones o despidos.
+d) Las indemnizaciones o suplidos por gastos que hubiera realizado el trabajador o trabajadora.
+e) Las prestaciones derivadas de incapacidad temporal a cargo del empleador o empleadora.
+f) Las retribuciones extrasalariales.
+g) Los gastos de acción social.
+
+## Sección 4
+
+Sección 4.ª Jornada laboral, vacaciones y permisos
+
+### Artículo 25
+
+Artículo 25. Jornada laboral.
+1. La jornada ordinaria de trabajo del personal referido en las letras a), b) y c) del artículo 3 será como mínimo de treinta y siete horas y media semanales de promedio en cómputo anual. Todo ello sin perjuicio de las demás modalidades de jornada normativa o convencionalmente establecidas, que se adaptarán a esta jornada ordinaria en lo que fuere necesario.
+Se podrán establecer jornadas especiales a través de pactos con los representantes de los trabajadores.
+En todo caso, las modificaciones de jornada y demás extremos que se lleven a efecto como consecuencia del establecimiento de esta medida no supondrán incremento retributivo alguno.
+2. El personal funcionario de carrera, el personal estatutario fijo y el personal laboral fijo podrá optar voluntariamente por no incrementar la jornada conforme a lo dispuesto en el apartado 1, con la correspondiente reducción proporcional de retribuciones.
+3. La parte lectiva de la jornada semanal del personal docente que imparte las enseñanzas reguladas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en centros docentes públicos y privados sostenidos con fondos públicos será la establecida en el artículo 3 del Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
+4. El horario en el que se realizará la jornada ordinaria del personal estatutario y laboral de las instituciones sanitarias se aplicará en función de los turnos de trabajo diario que con la necesaria flexibilidad se establezcan a través de pactos con los representantes de los trabajadores y que se adaptarán a esta jornada ordinaria.
+Se declara la inconstitucionalidad y nulidad del Decreto-ley 5/2016, de 11 de octubre, por Sentencia 142/2017, de 12 de diciembre. Ref. BOE-A-2018-604
+ Se suspende la vigencia y aplicación de esta derogación efectuada por el Decreto-ley 5/2016, de 11 de octubre. Ref. BOJA-b-2016-90474, desde el 14 de julio de 2017 para las partes en el proceso y desde el 29 de julio de 2017 para los terceros, por providencia del TC de 18 de julio de 2017, que admite a trámite el recurso de inconstitucionalidad 5762/2002. Ref. BOE-A-2017-9009
+ Se deroga por la disposición derogatoria única del Decreto-ley 5/2016, de 11 de octubre. Ref. BOJA-b-2016-90474
+ Téngase en cuenta que el citado Decreto-ley es declarado inconstitucional y nulo por Sentencia 142/2017, de 12 de diciembre. Ref. BOE-A-2018-604
+
+### Artículo 26
+
+Artículo 26. Vacaciones y permisos.
+(Derogado).
+Se deroga por la disposición derogatoria única.e) de la Ley 7/2024, de 23 de diciembre. Ref. BOE-A-2025-413
+
+## Sección 5
+
+Sección 5.ª Otras medidas
+
+### Artículo 27
+
+Artículo 27. Jubilación anticipada.
+Se suspende la aplicación de los artículos 36.4 y 62 del VI Convenio Colectivo del Personal Laboral de la Administración de la Junta de Andalucía, relativos a la jubilación anticipada.
+
+### Artículo 28
+
+Artículo 28. Acción social y otras prestaciones.
+1. Para el personal referido en las letras a), b), c) y e) del artículo 3, se suspende la convocatoria de las ayudas que se deriven del concepto de acción social, quedando exceptuadas de la supresión referida las relativas a la atención a personas con discapacidad.
+2. En relación con el personal incluido en las letras a), b), c) y e) del artículo 3, no podrán realizarse aportaciones a planes de pensiones de empleo o contratos de seguros colectivos de cualquier naturaleza que incluyan la cobertura de la contingencia de jubilación.
+
+### Artículo 29
+
+Artículo 29. Indemnizaciones por extinción de contrato.
+1. El personal incluido en las letras b) y c) del artículo 3 de la presente Ley que ostente la condición de funcionario de carrera o personal laboral fijo de cualquiera de las Administraciones públicas, o mantenga una relación de carácter laboral con alguna entidad del sector público instrumental y cuente con reserva de puesto de trabajo, no tendrá derecho a indemnización alguna por la extinción de su contrato laboral por desistimiento del empresario.
+2. Esta medida será también de aplicación al personal cuyo contrato sea de alta dirección contemplado en el Real Decreto 1382/1985, de 1 de agosto, por el que se regula la relación laboral de carácter especial del personal de alta dirección, así como al personal que mantenga una relación laboral asimilada a la de alta dirección basada en la recíproca confianza de las partes y que no esté incluido en el ámbito del convenio colectivo de la entidad correspondiente.
+
+### Artículo 30
+
+Artículo 30. Sustituciones del profesorado.
+En los centros docentes públicos, el nombramiento de profesorado por sustitución transitoria del personal docente se realizará de acuerdo con lo establecido en el artículo 4 del Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
+
+### Artículo 31
+
+Artículo 31. Oferta de empleo público.
+A excepción de los procesos de promoción interna, se suspende la ejecución de las ofertas de empleo público vigentes cuyas convocatorias no hayan sido publicadas a la entrada en vigor del Decreto Ley 1/2012, de 19 de junio. Las ofertas de empleo público correspondientes al ejercicio 2013 no se entenderán suspendidas.
+Véase, en cuanto a la suspensión de la ejecución, el párrafo segundo de la disposición adicional 4 de la Ley 6/2014, de 30 de diciembre. Ref. BOE-A-2015-680
+ Se modifica por la disposición final 5.3 de la Ley 7/2013, de 23 de diciembre. Ref. BOE-A-2014-592
+
+### Artículo 32
+
+Artículo 32. Crédito horario de los representantes sindicales.
+(Derogado).
+Se deroga por la disposición derogatoria única.e) de la Ley 7/2024, de 23 de diciembre. Ref. BOE-A-2025-413
+ Se modifica por la disposición final 3.3 de la Ley 12/2023, de 26 de diciembre. Ref. BOE-A-2024-447
+
+### Artículo 33
+
+Artículo 33. Ayudas a organizaciones sindicales.
+Queda suspendida la vigencia de la Orden de la Consejería de Justicia y Administración Pública, de 2 de diciembre de 2009, por la que se establecen las bases reguladoras de los procedimientos para la concesión de subvenciones a organizaciones sindicales para la financiación de gastos corrientes.
+
+## CAPÍTULO IV
+
+Medidas en materia de Hacienda Pública
+
+### Artículo 34
+
+Artículo 34. Medidas en el ámbito del control financiero.
+Se modifica el texto refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, aprobado por Decreto Legislativo 1/2010, de 2 de marzo, en los siguientes términos:
+Uno. Se añade un apartado 4 al artículo 58, con la siguiente redacción:
+«4. Las agencias públicas empresariales y las sociedades mercantiles sometidas al control financiero permanente al que se refiere el artículo 94.5 de esta Ley no podrán adquirir compromisos de gastos corrientes o de inversión que superen los importes globales previstos en sus programas de actuación, inversión y financiación y en sus presupuestos de explotación y capital. A este efecto se creará un registro auxiliar donde habrán de consignarse todos los compromisos que se adquieran con terceros por las citadas entidades.»
+Dos. Se añade un apartado 5 al artículo 60, con la siguiente redacción:
+«5. Cuando se produzcan modificaciones presupuestarias, acuerdos de no disponibilidad u otras circunstancias que supongan una variación en las transferencias a recibir por las agencias públicas empresariales y las sociedades mercantiles sometidas al control financiero permanente al que se refiere el artículo 94.5 de esta Ley, así como cualquier alteración de los importes globales de las previsiones de los programas de actuación, inversión y financiación, y de las dotaciones de los presupuestos de explotación y capital, será necesaria la modificación de dichos programas y presupuestos mediante la aprobación de los órganos directores de la entidad, y con comunicación a la Consejería competente en materia de Hacienda.»
+Tres. Se añade un apartado 3 al artículo 93, con la siguiente redacción:
+«3. No obstante lo dispuesto en los apartados anteriores, la Intervención General podrá acordar que las propuestas de compromisos de gasto corriente o de inversión de las agencias públicas empresariales y las sociedades mercantiles sometidas a control financiero permanente a que se refiere el artículo 94.5 de esta Ley, en las que así se establezcan, se sometan a informe previo suspensivo. El referido acuerdo contendrá las condiciones de ejercicio de este procedimiento de control.»
+
+### Disposición adicional primera
+
+Disposición adicional primera. Retribuciones y sustitución del profesorado de los centros docentes privados sostenidos con fondos públicos.
+1. Las retribuciones del profesorado de los centros privados sostenidos con fondos públicos, salarios del personal docente, incluidas cargas sociales y gastos variables, serán, con efectos de 1 de enero, y hasta el 31 de diciembre de cada año, las establecidas en los módulos económicos de distribución de fondos públicos para sostenimiento de centros concertados, que se recogen anualmente en los Presupuestos Generales del Estado.
+En todo caso, se garantiza la equiparación de las retribuciones del profesorado incluido en el pago delegado de los centros concertados de Andalucía con las del profesorado de la enseñanza pública en los términos del Acuerdo de 2 de julio de 2008, sobre retribuciones del profesorado de la enseñanza concertada, formalizado por la Consejería de Educación, los sindicatos y las organizaciones patronales y de titulares de la enseñanza privada concertada. Dicha equiparación se aplicará en los complementos establecidos por la Comunidad Autónoma de Andalucía.
+2. El nombramiento de profesorado por sustitución transitoria del personal docente se realizará de acuerdo con lo establecido en el artículo 4 del Real Decreto 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
+Durante el ejercicio 2015, no será de aplicación lo dispuesto en el párrafo 2 del apartado 1, según establece la disposición adicional 6 de la Ley 6/2014, de 30 de diciembre. Ref. BOE-A-2015-680
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Horario en la Administración General de la Junta de Andalucía.
+El horario en el que se realizará la jornada ordinaria de los empleados públicos de la Administración General de la Junta de Andalucía estará comprendido:
+– Por la mañana, entre las 7:30 y 15:30 horas de lunes a viernes.
+– Por la tarde, los lunes, martes y jueves entre las 16:00 y 20:00 horas, salvo que por las singularidades del servicio, debidamente motivadas, se acuerde la elección de otros días para el horario de tarde.
+Todo ello sin perjuicio de las demás modalidades de jornada normativa o convencionalmente establecidas, que se adaptarán a esta jornada ordinaria en lo que fuere necesario.
+Se habilita a la persona titular de la Consejería competente en materia de Hacienda y Administración Pública para modificar mediante Orden lo establecido en la presente disposición adicional.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Personal en formación del Servicio Andaluz de Salud.
+No será de aplicación al personal en formación del Servicio Andaluz de Salud lo dispuesto en el artículo 23 de la presente Ley.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Modificación y resolución de contratos del sector público.
+1. A los efectos de lo dispuesto por la legislación de contratos del sector público, las modificaciones de contratos administrativos que se lleven a cabo durante el ejercicio presupuestario de 2012 derivadas de la aplicación de medidas de estabilidad presupuestaria se realizarán por razones de interés público.
+2. Los pliegos de cláusulas administrativas o el anuncio de las nuevas contrataciones deberán incorporar las previsiones requeridas por la legislación de contratos del sector público, respecto de la eventual modificación o resolución contractual con motivo de la aplicación de las medidas de estabilidad presupuestaria que correspondan.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Plazo para la efectiva reducción de la masa salarial en las entidades instrumentales y en los consorcios.
+En el plazo máximo de un mes desde la entrada en vigor de la presente Ley, para el personal laboral de las entidades referidas en las letras b) y c) del artículo 3, deberá llevarse a cabo la distribución definitiva de la reducción referida en el artículo 24, en el correspondiente ámbito de la negociación colectiva, sin perjuicio de lo establecido en el artículo 5.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Nuevos nombramientos o contratos temporales a jornada completa.
+Durante la vigencia de la presente Ley, cuando se formalicen nuevos nombramientos o contratos de carácter temporal a jornada completa, será de aplicación lo dispuesto en los artículos 15 y 23, reduciéndose por tanto la jornada y retribuciones en un 10 %; todo ello sin perjuicio de la posibilidad legal de realizar nombramientos a tiempo parcial en su caso.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Instituto de Enseñanzas a Distancia de Andalucía.
+Las enseñanzas a distancia impartidas por el Instituto de Enseñanzas a Distancia de Andalucía (IEDA) serán gratuitas para los niveles de Educación Secundaria Obligatoria y Educación Permanente de Personas Adultas.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Plan de Cultura Emprendedora.
+A partir del curso 2012-2013 se mantiene el Plan de Cultura Emprendedora, que se viene realizando en el ámbito de la Consejería de Economía, Innovación, Ciencia y Empleo, y la Consejería de Educación, ampliándose hasta 2017 sin incrementarse la dotación presupuestaria prevista para los años 2011-2015.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Aplicación en las retribuciones del año 2012.
+Para el ejercicio 2012, las modificaciones retributivas previstas en los artículos 6, 7, 8, 9, 10, 11, 17 y 24 de la presente Ley, se aplicarán conforme a lo dispuesto a continuación:
+1. Para el Presidente de la Junta de Andalucía, la reducción de la cuantía establecida en el artículo 6.1 se aplicará prorrateándose en las retribuciones mensuales de los meses de julio a diciembre. Para el Presidente del Consejo Consultivo de Andalucía, la cuantía de la reducción de las retribuciones durante el 2012 se aplicará de forma progresiva y acumulativa conforme a la siguiente regla. Con carácter mensual se descontará una sexta parte de la diferencia entre la cuantía de la retribución mensual establecida en el artículo 12 de la Ley 18/2011, de 23 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2012, y la cuantía a percibir de conformidad con lo dispuesto en el artículo 6.7. Este descuento se irá acumulando progresivamente durante las nóminas de julio a diciembre.
+2. Para los Consejeros y Consejeras del Consejo de Gobierno de la Junta de Andalucía, Viceconsejeros y Viceconsejeras, y asimilados, la reducción de las cuantías establecidas en el artículo 6, apartados 2 y 3, se aplicará suprimiendo la paga extraordinaria de diciembre. El resto hasta el total se descontará prorrateado de las retribuciones mensuales de los meses de julio a diciembre.
+La regla establecida en el párrafo anterior será de aplicación a las retribuciones de la persona titular de la Presidencia, Consejeros y Consejeras del Consejo Audiovisual de Andalucía.
+Para las Consejeras y Consejeros con dedicación exclusiva del Consejo Consultivo de Andalucía, la cuantía de la reducción de las retribuciones durante el 2012 se aplicará de forma progresiva y acumulativa conforme a la siguiente regla. Con carácter mensual se descontará una sexta parte de la diferencia entre la cuantía de la retribución mensual establecida en el artículo 12 de la Ley 18/2011, de 23 de diciembre, y la cuantía a percibir de conformidad con lo dispuesto en el artículo 6.7. Este descuento se irá acumulando progresivamente durante las nóminas de julio a diciembre.
+3. Para el ejercicio 2012, las retribuciones de las personas titulares de las Direcciones Generales, Delegaciones Provinciales y Territoriales, y asimilados, se reducen en una cuantía igual al 6 % del total de sus retribuciones íntegras anuales establecidas en la Ley 18/2011, de 23 de diciembre.
+Dicha reducción se aplicará suprimiendo en el mes de diciembre tanto la paga extraordinaria como la paga adicional del complemento específico o pagas adicionales equivalentes. El resto hasta alcanzar el 6% se descontará prorrateado de las retribuciones mensuales de los meses de julio a diciembre.
+4. Las retribuciones del personal referido en los artículos 7, 8, 9 y 11 del Decreto-ley 1/2012, de 19 de junio, para el ejercicio 2012, se ajustarán a lo establecido en el artículo 2, apartados 1, 2.1 y 2.2, del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+5. Las retribuciones del personal referido en el artículo 10 del Decreto-ley 1/2012, de 19 de junio, para el ejercicio 2012, se ajustarán a lo establecido en el artículo 3.3, de carácter básico, del Real Decreto-ley 20/2012, de 13 de julio.
+6. Las retribuciones del personal asimilado a titular de Dirección General y de Delegación Provincial o Delegación Territorial referido en el artículo 17 del Decreto-ley 1/2012, de 19 de junio, se reducirán, para el ejercicio 2012, en una cuantía igual al 6 % del total de sus retribuciones íntegras anuales. Dicha reducción se aplicará prorrateada en las retribuciones pendientes de percibir en el presente ejercicio a partir de la entrada en vigor del citado Decreto-ley.
+7. Las retribuciones del personal referido en el artículo 24 del Decreto-ley 1/2012, de 19 de junio, se ajustarán, para el ejercicio 2012, a lo establecido en el artículo 2, apartados 1, 2.2, 3 y 5, de carácter básico, del Real Decreto-ley 20/2012, de 13 de julio.
+8. Para las personas titulares de la Presidencia, Vicepresidencia y, en su caso, Direcciones Generales o Direcciones Gerencia, y asimilados, cuando les corresponda el ejercicio de funciones ejecutivas de máximo nivel, de las agencias públicas empresariales, de las agencias de régimen especial, de las sociedades mercantiles del sector público andaluz, y de los consorcios, fundaciones y demás entidades a que se refieren las letras b) y c) del artículo 3, la reducción establecida en el artículo 17 se calculará referida al 1 de enero de 2012, prorrateándose en las retribuciones mensuales de los meses de julio a diciembre.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Jubilación anticipada en el ejercicio 2012.
+Al personal laboral fijo que a la fecha de entrada en vigor del Decreto-ley 1/2012, de 19 de junio, se encuentre disfrutando del permiso establecido en el artículo 36.4 del VI Convenio Colectivo del Personal Laboral de la Administración de la Junta de Andalucía no le resultará de aplicación lo dispuesto en el artículo 27 de la presente Ley, a los únicos efectos de poder acceder a la jubilación anticipada, siempre que esta se produzca con anterioridad a 1 de enero de 2013.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 4/1986, de 5 de mayo, del Patrimonio de la Comunidad Autónoma de Andalucía.
+Se modifica la Ley 4/1986, de 5 de mayo, del Patrimonio de la Comunidad Autónoma de Andalucía, en la forma que se indica a continuación:
+Uno. El párrafo segundo del artículo 86 queda redactado en los siguientes términos:
+«Cuando el bien tenga la condición de dominio público deberá previamente desafectarse. No obstante, los expedientes de enajenación de bienes del patrimonio de la Comunidad Autónoma de Andalucía podrán tramitarse aun cuando los bienes se mantengan afectados a un uso o servicio público siempre que se proceda a su desafectación antes de dictar la resolución o acto aprobatorio de la enajenación.»
+Dos. La disposición adicional segunda queda redactada en los siguientes términos:
+«Se considerarán bienes de dominio público aquellos inmuebles que se destinen a oficinas o servicios administrativos de la Junta de Andalucía o de cualquiera de sus entidades instrumentales de Derecho Público.»
+
+### Disposición final segunda
+
+Disposición final segunda. Adjuntos del Defensor del Pueblo.
+1. Se modifica el artículo 8, apartado 1, de la Ley 9/1983, de 1 de diciembre, del Defensor del Pueblo Andaluz, que queda redactado como sigue:
+«1. El Defensor del Pueblo Andaluz estará auxiliado por tres Adjuntías en las que podrá delegar sus funciones y entre las que designará a quien le auxilie en el ejercicio de las funciones que le corresponden como Defensor del Menor de Andalucía.»
+2. La anterior modificación será de aplicación tras la toma de posesión del nuevo Defensor del Pueblo Andaluz elegido por el Parlamento con posterioridad a la entrada en vigor de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Desarrollo y ejecución.
+1. El desarrollo reglamentario de esta Ley se llevará a efecto de acuerdo con lo dispuesto en los artículos 112 y 119.3 del Estatuto de Autonomía para Andalucía y 44 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía.
+2. Se habilita a la persona titular de la Consejería competente en materia de Hacienda y Administración Pública para dictar las disposiciones y realizar cuantas actuaciones sean necesarias en desarrollo y ejecución de lo dispuesto en el artículo 6.6 de la presente Ley.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Junta de Andalucía».
+
+### [firma]
+
+Sevilla, 21 de septiembre de 2012.
+El Presidente de la Junta de Andalucía,
+José Antonio Griñán Martínez.

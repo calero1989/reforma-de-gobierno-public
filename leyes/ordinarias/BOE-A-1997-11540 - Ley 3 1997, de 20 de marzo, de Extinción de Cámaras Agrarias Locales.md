@@ -1,0 +1,81 @@
+# Ley 3/1997, de 20 de marzo, de Extinción de Cámaras Agrarias Locales.
+
+- Identificador BOE: `BOE-A-1997-11540`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1997-11540
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE EXTREMADURA
+Sea notorio a todos los ciudadanos que la Asamblea de Extremadura ha aprobado y yo, en nombre del Rey, de conformidad con lo establecido en el artículo 52.1 del Estatuto de Autonomía, vengo a promulgar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+Las Cámaras Agrarias, en su configuración actual, fueron creadas mediante Decreto 1336/1997, de 2 de junio, constituyéndose como órganos de consulta y colaboración con la Administración sobre temas de interés general agrario, eliminando su carácter sindical. Funciones éstas que, el creciente protagonismo de las organizaciones profesionales agrarias en la representación del sector, vienen asumiendo en la actualidad.
+La Ley 23/1986, de 24 de diciembre, de Bases del Régimen Jurídico de las Cámaras Agrarias, modificadas puntualmente por las Leyes 23/1991, de 15 de octubre, y 37/1994, de 27 de diciembre, faculta a las Comunidades Autónomas, que tengan atribuidas competencias sobre Cámaras Agrarias, a la extinción de las Cámaras Agrarias Locales, debiendo abordarse por ello, y entre otras cuestiones, la titularidad de los bienes y derechos que integran, en la actualidad, el patrimonio de las mismas, entre los que se encuentran los derivados de la incautación sufrida por las organizaciones sindicales o políticas, como consecuencia de la Guerra Civil Española.
+La Comunidad Autónoma de Extremadura, mediante el Real Decreto 1862/1995, de 17 de noviembre, ha recibido el traspaso de funciones en materia de Cámaras Agrarias.
+En base a todo ello y considerando que la Junta de Extremadura, directamente o mediante acuerdos con municipios u otros organismos, presta el servicio necesario al sector agrario, procede la extinción de las Cámaras Agrarias Locales.
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Es objeto de esta Ley:
+1. Declarar extinguidas las Cámaras Agrarias Locales.
+2. Fijar el destino del patrimonio y del personal funcionario y laboral transferido, así como del personal propio de las Cámaras Agrarias Locales.
+
+### Artículo 2
+
+Artículo 2. Patrimonio.
+1. El destino del patrimonio actual de las Cámaras Agrarias Locales se regirá por los siguientes criterios:
+a) En general, se garantiza la aplicación de éstos, a fines y servicios de interés general agrario. Se considerarán de aplicación a fines y servicios de interés general agrario, cualquiera que sea el fin a que hayan de destinarse, los bienes cedidos gratuitamente a las entidades locales de la región en las que la proporción de la población ocupada en el sector primario sea superior a la media nacional.
+b) Aquellos bienes que provengan del patrimonio incautado a las Organizaciones Sindicales o Políticas como consecuencia de la Guerra Civil Española, se reintegrarán en pleno dominio a las mismas, en tanto acrediten su condición de propietarias al momento de la incautación o su condición de legítimos herederos. En este supuesto, las expresadas organizaciones deberán tener en cuenta los fines señalados en la Ley 23/1986, de 24 de diciembre, de Bases del Régimen Jurídico de las Cámaras Agrarias. Cuando no fuera posible efectuar el reintegro en las condiciones señaladas en el párrafo anterior y la propia Cámara Agraria Local dispusiera de bienes inmuebles, la Junta de Extremadura podrá compensar dicho reintegro mediante la parte de los mismos equivalentes. Los procedimientos de reintegro del patrimonio histórico incautado, iniciados a instancias de las Organizaciones Sindicales o Políticas afectadas y aún no resueltos se regirán por lo que se dispone en el apartado anterior.
+c) Se creará una Comisión gestora cuyo funcionamiento se determinará reglamentariamente, y que estará compuesta por los siguientes miembros:
+El Consejero de Agricultura y Comercio de la Comunidad Autónoma o persona en quien delegue, que actuará como Presidente.
+Un representante de la Consejería de Presidencia y Trabajo.
+Un representante de la Consejería de Economía, Industria y Hacienda.
+Un representante de la Consejería de Obras Públicas y Transportes.
+Seis representantes de las organizaciones profesionales agrarias de la región, correspondiendo dos a cada una de las OPAS reconocidas por la Consejería de Agricultura y Comercio, y que son interlocutoras habituales de la misma.
+Dos representantes del movimiento cooperativo agrario de Extremadura.
+Dos representantes de la Federación de Municipio y Provincias de Extremadura.
+Esta Comisión gestora, con los votos favorables de los dos tercios, será la encargada de acordar y elevar las propuestas de cesiones de todos los bienes patrimoniales que corresponden a las extintas Cámaras Agrarias, para su posterior aprobación por el Consejo de Gobierno de la Junta de Extremadura.
+La Junta de Extremadura podrá reservarse el patrimonio que considere necesario, que no esté afecto a lo previsto en el apartado b) de este precepto, el cual será destinado, igualmente, a fines y servicios de interés general agrario. No obstante, dicha reserva de patrimonio deberá ser comunicada a la Comisión gestora.
+2. Las subrogaciones y adscripciones derivadas del punto anterior estarán exentas de los Impuestos de Transmisiones Patrimoniales y Actos Jurídicos Documentados; no constituirá causa de resolución de los contratos de arrendamiento ni de elevación de las rentas de los mismos.
+Se modifican las letras a) y b) del apartado 1 por la disposición adicional 9 de la Ley 12/2002, de 19 de diciembre. Ref. BOE-A-2003-1814
+
+### Artículo 3
+
+Artículo 3. Personal transferido.
+1. Se respetará al personal funcionario, transferido como consecuencia del Real Decreto 1862/1995, de 17 de noviembre, sobre traspaso de funciones y servicios de la Administración del Estado a la Comunidad Autónoma de Extremadura, en materia de Cámaras Agrarias, el grupo de procedencia y los derechos económicos inherente al grado personal que tengan reconocido. Dicho personal se integrará en los cuerpos y escalas de la Administración Autónoma de Extremadura determinados en el Decreto Legislativo 1/1990, de 26 de julio, por el que se aprueba el texto refundido de la Ley de la Función Pública de Extremadura, de acuerdo con los requisitos establecidos en materia de integración.
+2. El personal interino y contratado laboral, transferido como consecuencia del Real Decreto de transferencia, no variará su vinculación administrativa o laboral por tal motivo, respetándose sus derechos económicos reconocidos.
+3. La Junta de Extremadura podrán redistribuir el personal transferido adscrito a las Cámaras Agrarias que resulten extinguidas, como consecuencia de la aplicación de la presente Ley, con el fin de garantizar el adecuado funcionamiento de los servicios y sus necesidades.
+
+### Artículo 4
+
+Artículo 4. Personal propio de las Cámaras Agrarias Locales.
+1. El personal propio de las Cámaras Agrarias Locales que desarrolla su trabajo en dichas cámaras, se integrará en la Cámara Agraria Provincial, subrogándose la misma en todas las condiciones del régimen jurídico de éstos.
+Dicho personal, a propuesta de la Junta de Extremadura, podrá pasar a prestar servicio en los Ayuntamientos, mediante la firma de convenios, para desarrollar funciones de interés agrario. Una vez finalizada la vigencia del Convenio, el personal retornará a la Cámara Agraria Provincial correspondiente.
+2. El personal propio de las Cámaras Agrarias Locales que desarrolla habitualmente su labor en el Ayuntamiento, como consecuencia de Convenios firmados por la Junta de Extremadura, el Instituto de Relaciones Agrarias y el Ayuntamiento correspondiente, continuará en la misma situación mientras el citado Convenio esté en vigor.
+El citado personal, una vez finalizada la vigencia del Convenio, se incorporará a la Cámara Agraria Provincial, donde se establece que está integrado.
+3. La Junta de Extremadura subvencionará a las Cámaras Agrarias Provinciales y a los Ayuntamientos afectados para el pago del personal citado en los dos puntos anteriores del presente artículo.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+A partir de la entrada en vigor de la presente Ley quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a ella.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo de Gobierno de la Junta de Extremadura para dictar cuantas disposiciones fueran necesarias para el desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Diario Oficial de Extremadura».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos que sea de aplicación esta Ley, que cooperen a su cumplimiento, y a los Tribunales y Autoridades que corresponda la hagan cumplir.
+Mérida, 20 de marzo de 1997.
+JUAN CARLOS RODRÍGUEZ IBARRA,
+Presidente

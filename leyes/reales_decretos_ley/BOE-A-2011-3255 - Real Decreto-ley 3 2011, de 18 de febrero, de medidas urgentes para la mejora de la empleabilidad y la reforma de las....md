@@ -1,0 +1,335 @@
+# Real Decreto-ley 3/2011, de 18 de febrero, de medidas urgentes para la mejora de la empleabilidad y la reforma de las políticas activas de empleo.
+
+- Identificador BOE: `BOE-A-2011-3255`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2011-3255
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+I
+El desempleo constituye el problema más grave de la economía española. Mejorar la situación del empleo en nuestro país constituye un objetivo compartido e irrenunciable para el Gobierno, las Comunidades Autónomas y los Interlocutores Sociales. Para ello, es preciso seguir avanzando hacia un crecimiento económico robusto que se traduzca en un nivel de creación de empleo capaz de reducir el número de personas desempleadas, por lo que resulta urgente abordar una reforma de las políticas activas de empleo.
+En este marco, el 2 de febrero de 2011, el Gobierno y los Interlocutores Sociales han suscrito el Acuerdo Social y Económico para el crecimiento, el empleo y la garantía de las pensiones, que aborda, entre otras medidas, dicha reforma de las políticas activas de empleo, que contribuya a la mejora del mercado de trabajo y a la mayor empleabilidad de quienes buscan su empleo.
+Las líneas acordadas sobre esta reforma, y que son tenidas en cuenta en el presente real decreto-ley, tienen como principal objetivo mejorar la eficiencia de nuestras políticas de empleo, un objetivo que se manifiesta con mayor necesidad y urgencia de alcanzarlo en la coyuntura actual de la economía y el empleo dadas sus repercusiones en el funcionamiento y la situación del mercado de trabajo.
+II
+Asimismo, el proceso de destrucción de empleo en la economía española, que ha traído consigo la crisis económica y financiera, ha supuesto una mayor limitación en la efectividad de las actuales políticas activas de empleo y la necesidad urgente de una reforma en profundidad de las mismas, abordada en este real decreto-ley, con los objetivos irrenunciables y compartidos por todos los actores que intervienen en el mercado de trabajo de adaptarlas a la realidad del mercado laboral y a las características del territorio; aumentar su eficacia en la mejora de la empleabilidad y las posibilidades de inserción de las personas desempleadas, especialmente jóvenes y paradas de larga duración; responder mejor a las necesidades de las empresas para cubrir sus ofertas de empleo; y situar a los servicios de empleo entre los mejores instrumentos para la gestión del capital humano en el nuevo modelo económico más equilibrado y productivo.
+En el diseño y ejecución de las nuevas políticas activas de empleo habrán de estar presentes una serie de principios generales, de los que son de destacar el acceso en condiciones de igualdad a un servicio público y gratuito de toda la ciudadanía, la igualdad de oportunidades en el acceso al empleo y la prioridad en la ejecución de las políticas activas de empleo para colectivos que más la requieren: jóvenes, con especial atención a aquellos con déficit de formación, mayores de 45 años, personas con discapacidad y personas en paro de larga duración, con especial atención a la situación de las mujeres, así como las personas en desempleo procedentes del sector de la construcción, o personas en situación de exclusión social.
+El Gobierno quiere situar las necesidades y los servicios a las personas, especialmente a las desempleadas, y a las empresas como centro de gravedad de la reforma de las políticas activas de empleo. Los Servicios Públicos de Empleo deben dar respuestas eficaces y eficientes a las necesidades de las empresas para cubrir sus ofertas de empleo, así como en materia de formación de sus trabajadores, y deben estar muy próximos a las personas desempleadas, conocer mejor sus necesidades para mejorar su empleabilidad y prestarles apoyo desde que entran en el desempleo hasta que encuentran un empleo, ya sea por cuenta propia o ajena. Por tanto, ha de huirse de una visión muy a corto plazo, puesto que las políticas activas de empleo, por un lado, han de preparar a las personas desempleadas para volver al mercado de trabajo, siendo esta la urgencia de su reforma, pero, por otro lado, también han de contribuir a ir conformando el modelo económico y productivo más adecuado a las necesidades de la sociedad española. Por tanto, han de combinarse medidas que, con carácter inmediato, sirvan para atender a las personas desempleadas, procurarles una atención más personal y más profesional pero que, al mismo tiempo, vayan preparando a estas personas para un escenario distinto al actual por la eclosión de nuevos sectores de actividad productiva o la exigencia de una mayor cualificación profesional.
+Por otro lado, ha de procurarse un mejor encaje entre la competencia normativa sobre las políticas activas de empleo, que corresponde al Estado, con la de su ejecución, que corresponde a las Comunidades Autónomas, preservando, al mismo tiempo, la unidad en la atención de las personas en situación de desempleo, puesto que el tratamiento que reciban estas personas no debe ser sustancialmente diferente en función del ámbito territorial en el que viva. Esto puede lograrse con el establecimiento de un catálogo de servicios comunes, así como una Estrategia Española de Empleo que marque los objetivos a conseguir. En este contexto, se hace necesario que cada Comunidad Autónoma tenga libertad para fijar sus propios programas de política activa de empleo, de forma que se ajusten mejor a la realidad de las personas desempleadas y del tejido productivo de la misma.
+A esta finalidad se dirigen las medidas para la reforma de las políticas activas de empleo contenidas en este real decreto-ley, y que, a efectos de una mayor claridad y sistematización, han sido agrupadas en cuatro capítulos que orientan sobre las líneas básicas de la reforma.
+El capítulo I introduce modificaciones en las normas generales de la política de empleo, de la cual las políticas activas de empleo son un instrumento esencial, junto con la intermediación laboral y la relación de aquellas con las prestaciones del sistema de protección por desempleo. En concreto, se incorpora la elaboración de la Estrategia Española de Empleo, que garantizará la igualdad de acceso, la cohesión social y la complementariedad entre la unidad de mercado y la diversidad territorial, y del Plan Anual de Política de Empleo, en que se concretará anualmente. Se ven afectados por los cambios, los objetivos de la política de empleo, y la dimensión territorial de la misma.
+El capítulo II pone el acento en el fortalecimiento de los Servicios Públicos de Empleo en el marco del Sistema Nacional de Empleo. En este sentido, las medidas contenidas en este capítulo contribuirán al afianzamiento de los órganos de concertación territorial y de participación institucional del Sistema Nacional de Empleo, así como de sus instrumentos de coordinación, uno de los cuales es la Estrategia Española de Empleo. De otra parte, las medidas planteadas para el fortalecimiento de los Servicios Públicos de Empleo tienden a mejorar la planificación, gestión y evaluación de las políticas activas de empleo.
+Dentro del capítulo III se abordan dos líneas prioritarias del Gobierno en la reforma de las políticas activas de empleo. Por un lado, el establecimiento de un «catálogo de servicios a la ciudadanía», común para todos los Servicios Públicos de Empleo, de manera que se garantice en todo el Estado el acceso en condiciones de igualdad a un servicio público y gratuito de empleo y la igualdad de oportunidades en el acceso al mismo. Por otro lado, el desarrollo de un modelo de atención personalizada a las personas en situación de desempleo basado en un «itinerario individual y personalizado de empleo», de forma que cuenten con el apoyo y la atención de los Servicios Públicos de Empleo en su búsqueda de empleo. Junto a ello se establece una prioridad en la ejecución de las políticas activas de empleo para determinados colectivos que más la requieren.
+Por último, el capítulo IV focaliza sus medidas en la línea nuclear de la reforma, es decir, en la transformación en profundidad de los actuales programas de políticas activas de empleo y en la redefinición de su contenido y desarrollo para que sean más útiles para las personas desempleadas. Se avanza en la identificación de los diferentes ámbitos de políticas activas de empleo que habrán de cubrir las Comunidades Autónomas, con las actuaciones y medidas que ellas mismas establezcan, según las necesidades y circunstancias específicas de sus respectivos territorios, poniendo el énfasis tanto en los objetivos finales como en los instrumentos para alcanzarlos. Asimismo, se evoluciona desde el concepto de programas al de servicios a la ciudadanía y las empresas, superando la actual limitación de la gestión de las políticas activas a convocatorias de ayudas.
+La articulación de las medidas contenidas en cada uno de estos capítulos se ha realizado, fundamentalmente, mediante una modificación del principal marco regulador de las políticas activas de empleo, constituido por la Ley 56/2003, de 16 de diciembre, de Empleo. Complementando lo anterior, y en coherencia con determinados cambios introducidos en dicha Ley, se efectúa una modificación en el artículo 17 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por Real Decreto Legislativo 5/2000, de 4 de agosto.
+Por último, destaca una importante novedad que contiene esta norma, que es la constitución, en el seno del Servicio Público de Empleo Estatal, de un «Fondo de políticas de empleo», cuya finalidad es la de atender las necesidades futuras de financiación en la ejecución de las acciones y medidas que integran las políticas activas de empleo. La Disposición final primera regula su financiación y régimen de funcionamiento, creándose expresamente un Comité de Gestión de dicho fondo para procurar el debido control y ordenación de su gestión económica.
+III
+Resulta inaplazable la adopción de medidas para reformar las políticas activas de empleo; una reforma que, como se ha puesto de manifiesto con anterioridad, prepare a éstas para contribuir a la empleabilidad de las personas, a la mejor respuesta a las necesidades de las empresas para cubrir sus ofertas de empleo y a situar a los servicios de empleo entre los mejores instrumentos para la gestión del capital humano en el nuevo modelo productivo. El hecho de que estas medidas tengan un carácter estructural y una efectividad más prolongada en el tiempo, no resta fundamentos a la urgente necesidad de abordar la citada reforma en el contexto económico y laboral en que nos encontramos, máxime cuando en el desarrollo y aplicación de las políticas activas de empleo se procurará su relación con sectores emergentes, incluyendo aquellos con mayor capacidad de crecimiento en el medio rural, estratégicos e innovadores en el contexto de la nueva economía sostenible.
+Precisamente, entre los fines que se persiguen con esta reforma está el de contribuir a conformar el nuevo modelo económico y productivo, así como un mercado de trabajo más eficiente y de más calidad, algo sobre lo que existe una amplia coincidencia en señalar que sólo resulta posible implementando con urgencia reformas como la que se acomete con el presente real decreto-ley.
+Otros fines de la reforma, como mejorar la atención a las personas y su empleabilidad en el mercado de trabajo, así como a las empresas para la mejora de su competitividad, o fomentar la cultura emprendedora y el espíritu empresarial, así como mejorar la atención y acompañamiento a las personas emprendedoras en la puesta en marcha de su iniciativa empresarial, son fines que justifican, por sí mismos, esa urgente necesidad en la aprobación de la reforma, para acelerar los efectos potencialmente beneficiosos que, en términos de creación de empleo, podrán tener las nuevas medidas en un momento en que se vislumbra una cierta recuperación de la economía española.
+Finalmente, procede destacar la intensa participación que las Comunidades Autónomas y los Interlocutores Sociales han tenido, con sus aportaciones, en el establecimiento de las bases que han orientado las medidas contenidas en este real decreto-ley, y que forman parte esencial del Acuerdo Social y Económico suscrito entre el Gobierno y los Interlocutores Sociales el 2 de febrero de 2011 al que se ha hecho referencia anteriormente.
+Por consiguiente, la necesidad de que las Comunidades Autónomas puedan aplicar rápidamente las medidas que se adoptan, con el fin de dar inmediato cumplimiento a los fines expuestos, unida al compromiso de finalizar la elaboración de la primera Estrategia Española de Empleo, constituyen el hecho habilitante de extraordinaria y urgente necesidad que la Constitución exige en su artículo 86 para aprobar este real decreto-ley.
+En su virtud, en uso de la autorización contenida en el artículo 86 de la Constitución española, a propuesta del Ministro de Trabajo e Inmigración, y previa deliberación del Consejo de Ministros en su reunión del día 18 de febrero de 2011,
+DISPONGO:
+
+## CAPÍTULO I
+
+Normas generales de la política de empleo
+
+### Artículo 1
+
+Artículo 1. Objetivos de la política de empleo.
+Se añaden las letras h) e i), en el artículo 2 de la Ley 56/2003, de 16 de diciembre, de Empleo con la siguiente redacción:
+«h) Proporcionar servicios individualizados a la población activa dirigidos a facilitar su incorporación, permanencia y progreso en el mercado laboral, así como a las empresas para contribuir a la mejora de su competitividad.
+i) Fomentar la cultura emprendedora y el espíritu empresarial, así como mejorar la atención y acompañamiento a las personas emprendedoras en la puesta en marcha de su iniciativa empresarial.»
+
+### Artículo 2
+
+Artículo 2. La dimensión local de la política de empleo.
+Se modifica el artículo 4 de la Ley 56/2003, de 16 de diciembre, de Empleo, que queda redactado en los siguientes términos:
+«Artículo 4. La dimensión local de la política de empleo.
+Las políticas de empleo, en su diseño y modelo de gestión, deberán tener en cuenta su dimensión local para ajustarlas a las necesidades del territorio, de manera que favorezcan y apoyen las iniciativas de generación de empleo en el ámbito local.
+De conformidad con la Constitución, con los Estatutos de Autonomía y con la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, los Servicios Públicos de Empleo de las Comunidades Autónomas, en ejecución de las acciones y medidas de políticas activas, podrán establecer los mecanismos de colaboración oportunos con las entidades locales.
+Las entidades locales podrán participar en el proceso de concertación territorial de las políticas activas de empleo, mediante su representación y participación en los órganos de participación institucional de ámbito autonómico.
+Los Servicios Públicos de Empleo de las Comunidades Autónomas serán los responsables de trasladar al marco del Sistema Nacional de Empleo la dimensión territorial de las políticas activas de empleo y de determinar, en su caso, la representación de las entidades locales en los órganos de participación institucional de ámbito autonómico.»
+
+### Artículo 3
+
+Artículo 3. Estrategia Española de Empleo y Plan Anual de Política de Empleo.
+Uno. Se añade un artículo 4 bis, a la Ley 56/2003, de 16 de diciembre, de Empleo, con la siguiente redacción:
+«Artículo 4 bis. Estrategia Española de Empleo.
+1. En el ejercicio de las competencias definidas en el artículo 3.1, el Gobierno, a propuesta del Ministerio de Trabajo e Inmigración, aprobará la Estrategia Española de Empleo, que se elaborará en colaboración con las Comunidades Autónomas y con la participación de las organizaciones empresariales y sindicales más representativas, se informará por la Conferencia Sectorial de Empleo y Asuntos Laborales, y se someterá a consulta e informe del Consejo General del Sistema Nacional de Empleo.
+2. La Estrategia Española de Empleo incluirá los siguientes elementos:
+a) Análisis de la situación y tendencias del mercado de trabajo.
+b) Orientaciones y objetivos a alcanzar en materia de política de empleo para el conjunto del Estado y para cada una de las Comunidades Autónomas. Los objetivos en materia de política activa de empleo se referirán a los ámbitos definidos en el artículo 25.
+Asimismo, se identificarán aquellas acciones y medidas que sean de aplicación para el conjunto del Estado.
+c) Un sistema de indicadores cuantitativos y cualitativos que permitan el seguimiento de los objetivos y su grado de cumplimiento.
+d) Dotación presupuestaria indicativa que incluirá los fondos procedentes de los Presupuestos Generales del Estado, el Fondo Social Europeo y, en su caso, de otras fuentes de financiación.
+3. La Estrategia Española de Empleo, con el fin de reflejar de forma más completa todas las políticas activas de empleo que se desarrollan en el conjunto del Estado, incluirá la información correspondiente a las acciones y medidas de estas políticas que las Comunidades Autónomas realizan con recursos económicos propios.
+4. La Estrategia Española de Empleo tendrá carácter plurianual en los términos que se establezcan en la misma. Con el fin de conseguir su mejora permanente y, en su caso, su revisión o actualización, se someterá a una evaluación anual.»
+Dos. Se añade un artículo 4 ter, a la Ley 56/2003, de 16 de diciembre, de Empleo, con la siguiente redacción:
+«Artículo 4 ter. Plan Anual de Política de Empleo.
+1. El Plan Anual de Política de Empleo concretará, con carácter anual, los objetivos de la Estrategia Española de Empleo a alcanzar en el conjunto del Estado y en cada una de las distintas Comunidades Autónomas, así como los indicadores que se utilizarán para conocer el grado de cumplimiento de los mismos.
+Asimismo, para alcanzar estos objetivos, contendrá las acciones y medidas de políticas activas de empleo que se proponen llevar a cabo, tanto las Comunidades Autónomas en el ejercicio de sus competencias de ejecución de las políticas activas, como el Servicio Público de Empleo Estatal en ejecución de la reserva de crédito establecida en su presupuesto de gastos.
+2. El Plan Anual de Política de Empleo se elaborará, teniendo en cuenta las previsiones formuladas por las Comunidades Autónomas y el Servicio Público de Empleo Estatal, en el seno de la Conferencia Sectorial de Empleo y Asuntos Laborales, se informará por el Consejo General del Sistema Nacional de Empleo, regulado en el artículo 7.1.b), y se aprobará por el Consejo de Ministros junto con la formalización de los criterios objetivos de distribución de los fondos de empleo contemplados en el artículo 14.»
+
+## CAPÍTULO II
+
+Fortalecimiento de los Servicios Públicos de Empleo en el marco del Sistema Nacional de Empleo
+
+### Artículo 4
+
+Artículo 4. El Sistema Nacional de Empleo.
+Uno. Se añade la letra h), en el artículo 6, de la Ley 56/2003, de 16 de diciembre, de Empleo con la siguiente redacción:
+«h) Fortalecer los Servicios Públicos de Empleo y favorecer la colaboración público-privada en la intermediación laboral y el desarrollo de las políticas activas de empleo.»
+Dos. Se modifica el artículo 7, de la Ley 56/2003, de 16 de diciembre, de Empleo, que queda redactado en los siguientes términos:
+«Artículo 7. Órganos del Sistema Nacional de Empleo.
+Los órganos del Sistema Nacional de Empleo son:
+a) La Conferencia Sectorial de Empleo y Asuntos Laborales, que es el instrumento general de colaboración, coordinación y cooperación entre la Administración del Estado y la de las Comunidades Autónomas en materia de política de empleo y especialmente en lo relacionado con la Estrategia Española de Empleo y el Plan Anual de Política de Empleo.
+b) El Consejo General del Sistema Nacional de Empleo, que es el órgano consultivo de participación institucional en materia de política de empleo. El Consejo estará integrado por un representante de cada una de las Comunidades Autónomas y por igual número de miembros de la Administración General del Estado, de las organizaciones empresariales y de las organizaciones sindicales más representativas. Para la adopción de acuerdos se ponderarán los votos de las organizaciones empresariales y los de las organizaciones sindicales para que cada una de estas dos representaciones cuente con el mismo peso que el conjunto de los representantes de ambas Administraciones, manteniendo así el carácter tripartito del Consejo. Reglamentariamente se determinarán sus funciones, en consonancia con las atribuidas al Sistema Nacional de Empleo por el artículo 9 de esta Ley, entre las que se encuentra la de consulta e informe de la Estrategia Española de Empleo y del Plan Anual de Política de Empleo.»
+Tres. Se añade un nuevo artículo 7 bis, a la Ley 56/2003, de 16 de diciembre, de Empleo con la siguiente redacción:
+«Artículo 7 bis. Instrumentos de coordinación del Sistema Nacional de Empleo.
+La coordinación del Sistema Nacional de Empleo se llevará a cabo principalmente a través de los siguientes instrumentos:
+a) La Estrategia Española de Empleo, regulada en el artículo 4 bis.
+b) El Plan Anual de Política de Empleo, regulado en el artículo 4 ter.
+c) El Sistema de Información de los Servicios Públicos de Empleo, que se configura como un sistema de información común que se organizará con una estructura informática integrada y compatible, y será el instrumento técnico que integrará la información relativa a la intermediación laboral, a la gestión de las políticas activas de empleo, y de la protección por desempleo, que realicen los Servicios Públicos de Empleo en todo el territorio del Estado.
+Este sistema garantizará que se lleven a cabo de forma adecuada las funciones de intermediación laboral, sin barreras territoriales; el registro de las personas demandantes de empleo; la trazabilidad de las actuaciones seguidas por estas en su relación con los Servicios Públicos de Empleo; las estadísticas comunes; la comunicación del contenido de los contratos; el conocimiento de la información resultante, entre otros ámbitos, de la gestión de la formación para el empleo, la orientación profesional, las iniciativas de empleo y las bonificaciones a la contratación, así como las actuaciones de las agencias de colocación.
+También permitirá el seguimiento y control de la utilización de fondos procedentes de los Presupuestos Generales del Estado o de la Unión Europea para su justificación.»
+Cuatro. Se modifica el apartado 1, y se añaden dos nuevos apartados, el 7 y el 8, en el artículo 9, de la Ley 56/2003, de 16 de diciembre, de Empleo, con la siguiente redacción:
+«1. Aplicar y concretar la Estrategia Española de Empleo, a través del Plan Anual de Política de Empleo.»
+«7. Determinar y tener actualizado un catálogo de servicios a la ciudadanía, a prestar por los Servicios Públicos de Empleo, que garantice en todo el Estado el acceso, en condiciones de igualdad, a un servicio público y gratuito de empleo.»
+«8. Realizar el seguimiento del Fondo de políticas de empleo.»
+
+### Artículo 5
+
+Artículo 5. El Servicio Público de Empleo Estatal.
+Uno. Se modifican las letras d), e), f), g), h), i), y se añaden las letras j), k) y l) en el artículo 13, de la Ley 56/2003, de 16 de diciembre, de Empleo, quedando redactado como sigue:
+«d) Elaborar el proyecto de la Estrategia Española de Empleo y del Plan Anual de Política de Empleo en colaboración con las Comunidades Autónomas.
+Las organizaciones empresariales y sindicales más representativas participarán en la elaboración de dicha Estrategia y recibirán información periódica sobre su desarrollo y seguimiento.
+e) Coordinar las actuaciones conjuntas de los Servicios Públicos de Empleo en el desarrollo del Sistema de Información de los Servicios Públicos de Empleo.
+f) Potenciar el Observatorio de las Ocupaciones del Servicio Público de Empleo Estatal con una red en todo el territorio del Estado, que analice la situación y tendencias del mercado de trabajo, en coordinación con los distintos Observatorios que, en su caso, establezcan los Servicios Públicos de Empleo de las Comunidades Autónomas.
+g) Mantener las bases de datos generadas por los sistemas integrados de información del Sistema Nacional de Empleo y elaborar las estadísticas en materia de empleo, formación y protección por desempleo a nivel estatal.
+h) Gestionar las acciones y medidas financiadas con cargo a la reserva de crédito establecida en su presupuesto de gastos. Estas acciones y medidas serán:
+1. Acciones y medidas cuya ejecución afecte a un ámbito geográfico superior al de una Comunidad Autónoma, cuando estas exijan la movilidad geográfica de las personas desempleadas o trabajadoras participantes en las mismas a otra Comunidad Autónoma distinta a la suya, o a otro país y precisen de una coordinación unificada.
+2. Acciones y medidas dirigidas tanto a las personas demandantes de empleo como a las personas ocupadas, para la mejora de su ocupación mediante la colaboración del Servicio Público de Empleo Estatal con órganos de la Administración General del Estado o sus organismos autónomos, para la realización de acciones formativas, entre otras, aquellas que tengan como objetivo la generación de empleo de calidad y la mejora de oportunidades de las personas trabajadoras, en particular cuando se desarrollen en el marco de planes, estrategias o programas de ámbito estatal, y ejecución de obras y servicios de interés general y social relativas a competencias exclusivas del Estado.
+3. Acciones y medidas de intermediación y políticas activas de empleo cuyo objetivo sea la integración laboral de trabajadores inmigrantes, realizadas en sus países de origen, facilitando la ordenación de los flujos migratorios.
+4. Programas que se establezcan con carácter excepcional y duración determinada, cuya ejecución afecte a todo el territorio nacional, siendo imprescindible su gestión centralizada a los efectos de garantizar la efectividad de las mismas, así como idénticas posibilidades de obtención y disfrute a todos los potenciales beneficiarios.
+La reserva de crédito a que hace referencia este párrafo se dotará anualmente, previo informe de la Conferencia Sectorial de Empleo y Asuntos Laborales, por la Ley de Presupuestos Generales del Estado. De los resultados de las actuaciones financiadas con cargo a los mismos se informará anualmente a dicha Conferencia Sectorial.
+i) Llevar a cabo investigaciones, estudios y análisis sobre la situación del mercado de trabajo y los instrumentos para mejorarlo, en colaboración con las respectivas Comunidades Autónomas.
+j) La gestión y el control de las prestaciones por desempleo, sin perjuicio del cometido de vigilancia y exigencia del cumplimiento de las normas legales y reglamentarias sobre obtención y disfrute de las prestaciones del sistema de la Seguridad Social que el artículo 3 de la Ley 42/1997, de 14 de noviembre, Ordenadora de la Inspección de Trabajo y Seguridad Social, atribuye a los funcionarios del Cuerpo Superior de Inspectores de Trabajo y Seguridad Social y del Cuerpo de Subinspectores de Empleo y Seguridad Social. A los efectos de garantizar la coordinación entre políticas activas de empleo y prestaciones por desempleo, la gestión de esta prestación se desarrollará mediante sistemas de cooperación con los Servicios Públicos de Empleo de las Comunidades Autónomas. El Servicio Público de Empleo Estatal deberá colaborar con las Comunidades Autónomas que hayan asumido el traspaso de las competencias.
+k) Coordinar e impulsar acciones de movilidad en el ámbito estatal y europeo, así como ostentar la representación del Estado español en la red Eures.
+l) Cualesquiera otras competencias que legal o reglamentariamente se le atribuyan.»
+Dos. Se modifican los apartados 2 y 3 del artículo 14, de la Ley 56/2003, de 16 de diciembre, de Empleo, que queda redactado en los siguientes términos:
+«2. En la distribución de los fondos a las Comunidades Autónomas acordada en la Conferencia Sectorial de Empleo y Asuntos Laborales, se identificará aquella parte de los mismos destinada a políticas activas de empleo para los colectivos que específicamente se determinen de acuerdo con las prioridades de la Estrategia Española de Empleo y teniendo en cuenta las peculiaridades existentes en las diferentes Comunidades Autónomas, a fin a garantizar el cumplimiento de la misma.
+Será objeto de devolución al Servicio Público de Empleo Estatal los fondos con destino específico que no se hayan utilizado para tal fin, salvo que por circunstancias excepcionales, sobrevenidas y de urgente atención dichos fondos deban utilizarse para otros colectivos dentro de las finalidades presupuestarias específicas, precisando en otro caso informe del Ministerio de Economía y Hacienda. En todo caso, el Servicio Público de Empleo Estatal y el correspondiente órgano de la Comunidad Autónoma acordarán la reasignación de tales fondos, reasignación que en ningún caso dará lugar a la modificación del presupuesto de este Organismo.
+3. Del total de los fondos de empleo de ámbito nacional se establecerá una reserva de crédito, no sujeta a la distribución a que se hace referencia en los apartados anteriores, para gestionar por el Servicio Público de Empleo Estatal las acciones y medidas señaladas en el artículo 13.h).»
+
+### Artículo 6
+
+Artículo 6. Los Servicios Públicos de Empleo de las Comunidades Autónomas.
+Uno. Se modifican los apartados 2 y 3 y se añade un apartado 4, en el artículo 17, de la Ley 56/2003, de 16 de diciembre, de Empleo con la siguiente redacción:
+«2. Los Servicios Públicos de Empleo de las Comunidades Autónomas diseñarán y establecerán, en el ejercicio de sus competencias, las medidas necesarias para determinar las actuaciones de las entidades que colaboren con ellos en la ejecución y desarrollo de las políticas activas de empleo y la gestión de la intermediación laboral.
+3. Los Servicios Públicos de Empleo de las Comunidades Autónomas participarán en la elaboración de la Estrategia Española de Empleo y del Plan Anual de Política de Empleo.
+4. Las Comunidades Autónomas, en ejercicio de sus competencias de ejecución de las políticas activas de empleo, podrán elaborar sus propios Planes de Política de Empleo, de acuerdo con los objetivos del Plan Anual de Política de Empleo y en coherencia con las orientaciones y objetivos de la Estrategia Española de Empleo.»
+
+## CAPÍTULO III
+
+Establecimiento de un catálogo de servicios a la ciudadanía y desarrollo de un modelo de atención personalizada
+
+### Artículo 7
+
+Artículo 7. Personas y empresas usuarias de los servicios y catálogo de servicios.
+Uno. Se añade un nuevo Título I bis a la Ley 56/2003, de 16 de diciembre, de Empleo, con el siguiente enunciado:
+«TÍTULO I bis
+Servicios a la ciudadanía prestados por los Servicios Públicos de Empleo»
+Dos. Se añade un nuevo Capítulo I, al Título I bis, de la Ley 56/2003, de 16 de diciembre, de Empleo, con el siguiente contenido:
+«CAPÍTULO I
+Personas y empresas usuarias de los servicios
+Artículo 19 bis. Personas y empresas usuarias de los servicios.
+1. Los Servicios Públicos de Empleo prestarán servicios a las personas desempleadas, a las personas ocupadas y a las empresas. Estos servicios se definen en un catálogo.
+2. Además de los servicios recogidos en el catálogo, contemplados en el artículo 19 ter, los Servicios Públicos de Empleo facilitarán al conjunto de la ciudadanía información general sobre los servicios que se prestan y otros aspectos vinculados con el empleo.
+3. En la atención y, en su caso, inscripción de las personas y empresas usuarias de los Servicios Públicos de Empleo, se tendrán en cuenta, de forma diferenciada, las demandas y necesidades de cada una de ellas, a efectos de que se proporcionen los servicios que correspondan.
+Artículo 19 ter. Catálogo de servicios a la ciudadanía de los Servicios Públicos de Empleo.
+1. El catálogo de servicios a la ciudadanía de los Servicios Públicos de Empleo tiene por objeto garantizar, en todo el Estado, el acceso en condiciones de igualdad a un servicio público y gratuito de empleo, y la igualdad de oportunidades en el acceso al mismo, constituyendo un compromiso de los Servicios Públicos de Empleo con las personas y empresas usuarias de los mismos.
+2. El catálogo recoge los servicios comunes a prestar por los Servicios Públicos de Empleo a las personas, tanto desempleadas como ocupadas, y a las empresas, sin perjuicio de que cada Servicio Público de Empleo desarrolle y amplíe, en su ámbito territorial, esta oferta de servicios. A estos efectos, cada Servicio Público de Empleo podrá establecer su propia carta de servicios, atendiendo a la evolución de su mercado de trabajo, a las necesidades de las personas y empresas, a las prioridades establecidas en el marco del Sistema Nacional de Empleo y a los recursos disponibles.
+3. El acceso a determinados servicios del catálogo requerirá la inscripción como demandante de empleo tanto de las personas desempleadas como de las ocupadas.
+Artículo 19 quáter. Contenido del catálogo de servicios.
+1. Servicios destinados a las personas desempleadas:
+1.1 Diagnóstico individualizado sobre el perfil, las necesidades y expectativas de la persona desempleada mediante entrevistas personalizadas, para poder encontrar un empleo.
+1.2 Información y gestión de ofertas de empleo adecuadas, incluyendo las procedentes de los otros países de la Unión Europea, así como información sobre el mercado de trabajo, y los incentivos y medios disponibles para el fomento de la contratación y el apoyo a las iniciativas emprendedoras.
+1.3 Diseño, elaboración y realización de un itinerario individual y personalizado de empleo que podrá incluir servicios de orientación e información para el empleo y el autoempleo, de mejora de su cualificación profesional y de su empleabilidad, y contactos con las empresas, entidades y organismos públicos para facilitar su inserción laboral.
+1.4 Oferta de acciones de formación profesional para el empleo, con acreditación oficial a través del Repertorio de Certificados de Profesionalidad cuando estén vinculadas al Catálogo Nacional de Cualificaciones, así como la promoción de prácticas no laborales de la formación realizada.
+1.5 Evaluación y, en su caso, reconocimiento de las competencias adquiridas por la experiencia laboral mediante la acreditación oficial de su cualificación.
+1.6 Información, reconocimiento y pago de las prestaciones y subsidios por desempleo, impulsando y desarrollando su gestión por medios electrónicos.
+2. Servicios destinados a las personas ocupadas:
+2.1 Diagnóstico individualizado sobre el perfil, las necesidades y expectativas de la persona ocupada mediante entrevistas personalizadas para poder mantener el empleo o acceder a uno nuevo.
+2.2 Orientación e información sobre empleo, autoempleo y mercado de trabajo, incentivos y medios disponibles para el fomento de la contratación, el mantenimiento del empleo y el apoyo a las iniciativas emprendedoras, así como medidas para la mejora de su cualificación profesional.
+2.3 Información y gestión de ofertas de empleo adecuadas, incluyendo las procedentes de los otros países de la Unión Europea.
+2.4 Oferta de acciones de formación profesional para el empleo, con acreditación oficial a través del Repertorio de Certificados de Profesionalidad cuando están vinculadas al Catálogo Nacional de Cualificaciones, que favorezca la promoción profesional y desarrollo personal de las personas trabajadoras y su derecho a la formación a lo largo de toda la vida, con especial atención a los supuestos de riesgo de pérdida del empleo.
+2.5 Evaluación y, en su caso, reconocimiento de las competencias adquiridas por la experiencia laboral mediante la acreditación oficial de su cualificación.
+3. Servicios destinados a las empresas:
+3.1 Tratamiento de sus ofertas de empleo, incluyendo su difusión en el marco del Sistema Nacional de Empleo y a través de portales de empleo, preselección y envío de candidaturas, así como la colaboración en las entrevistas y/o procesos selectivos de difícil cobertura.
+3.2 Información y asesoramiento sobre el mercado de trabajo, medidas de fomento de empleo, acceso y tramitación de las mismas, modalidades y normas de contratación, diseño de planes formativos y ayudas para la formación de las personas trabajadoras.
+3.3 Comunicación telemática de la contratación laboral y de las altas, períodos de actividad y certificados de empresa a través del portal del Sistema Nacional de Empleo.
+3.4 Información, asesoramiento y tutorización para la creación, gestión y funcionamiento de empresas, por parte de emprendedores, trabajadores autónomos y otras empresas de la economía social.
+Artículo 19 quinquies. Actualización del catálogo de servicios a la ciudadanía.
+El catálogo de servicios a la ciudadanía se actualizará mediante orden del titular del Ministerio de Trabajo e Inmigración, previo acuerdo adoptado por la Conferencia Sectorial de Empleo y Asuntos Laborales.»
+
+### Artículo 8
+
+Artículo 8. Acceso de las personas usuarias a los servicios. El itinerario individual y personalizado de empleo.
+Se añade un nuevo Capítulo II, al Título I bis, de la Ley 56/2003, de 16 de diciembre, de Empleo, con el siguiente contenido:
+«CAPÍTULO II
+Acceso de las personas desempleadas a los servicios
+Artículo 19 sexies. Enfoque personalizado de los servicios.
+1. El acceso de las personas desempleadas a los Servicios Públicos de Empleo se efectuará mediante su inscripción y recogida de datos en una entrevista inicial que conllevará una valoración de los servicios que requiere para su inserción laboral. De acuerdo con ello, y en colaboración con las personas desempleadas, se determinará, si procede, el comienzo de un itinerario individual y personalizado de empleo en función del perfil profesional, necesidades y expectativas de la persona, junto a la situación del mercado de trabajo y a criterios vinculados con la percepción de prestaciones, la pertenencia a colectivos definidos como prioritarios y aquellos que se determinen en el marco del Sistema Nacional de Empleo.
+2. La articulación del itinerario individual y personalizado de empleo se configura como un derecho para las personas desempleadas y como una obligación para los Servicios Públicos de Empleo.
+Artículo 19 septies. Itinerario individual y personalizado de empleo.
+1. El itinerario individual y personalizado de empleo contemplará, a partir de una entrevista de diagnóstico individualizada, las acciones del catálogo de servicios, y servicios específicos, que ofrece el Servicio Público de Empleo a la persona demandante de empleo, acordes a sus necesidades, sus requerimientos y al objetivo a conseguir.
+2. Para la realización del itinerario individual y personalizado de empleo será necesaria la suscripción y firma de un acuerdo personal de empleo. Mediante este acuerdo, por una parte, la persona beneficiaria del itinerario se compromete a participar activamente en las acciones para la mejora de su empleabilidad y de búsqueda activa de empleo, o la puesta en marcha de una iniciativa empresarial, y, por otra parte, el Servicio Público de Empleo se compromete a la asignación y planificación de las acciones y medidas necesarias. En el caso de personas beneficiarias de prestaciones y subsidios por desempleo, este acuerdo personal de empleo formará parte del compromiso de actividad establecido en el artículo 27.
+3. El incumplimiento, por causas no justificadas, del Acuerdo Personal de Empleo dará lugar a las sanciones previstas en el texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por Real Decreto Legislativo 5/2000, de 4 de agosto. A estos efectos, los incumplimientos por parte de personas que sean beneficiarias de prestaciones y subsidios por desempleo supondrán un incumplimiento del compromiso de actividad suscrito por las mismas.
+4. Los Servicios Públicos de Empleo serán responsables de la realización, seguimiento, evaluación y posible redefinición de los itinerarios individuales y personalizados de empleo y, en su caso, derivarán la realización de las acciones a desarrollar por las personas demandantes de empleo a las entidades colaboradoras. En todo caso, se fijarán las actuaciones propias de los Servicios Públicos de Empleo y las que podrán ser concertadas.»
+
+### Artículo 9
+
+Artículo 9. Colectivos prioritarios.
+Se modifica y renumera el artículo 26 de la Ley 56/2003, de 16 de diciembre, de Empleo, quedando redactado en los siguientes términos:
+«Artículo 19 octies. Colectivos prioritarios.
+1. El Gobierno y las Comunidades Autónomas adoptarán, de acuerdo con los preceptos constitucionales y estatutarios, así como con los compromisos asumidos en el ámbito de la Unión Europea y en la Estrategia Española de Empleo, programas específicos destinados a fomentar el empleo de las personas con especiales dificultades de integración en el mercado de trabajo, especialmente jóvenes, con particular atención a aquellos con déficit de formación, mujeres, parados de larga duración, mayores de 45 años, personas con discapacidad o en situación de exclusión social, e inmigrantes, con respeto a la legislación de extranjería, u otros que se puedan determinar, en el marco del Sistema Nacional de Empleo.
+2. Teniendo en cuenta las especiales circunstancias de estos colectivos, los Servicios Públicos de Empleo asegurarán el diseño de itinerarios individuales y personalizados de empleo que combinen las diferentes medidas y políticas, debidamente ordenadas y ajustadas al perfil profesional de las personas que los integran y a sus necesidades específicas. Cuando ello sea necesario, los servicios públicos de empleo valorarán la necesidad de coordinación con los servicios sociales para dar una mejor atención a estas personas.»
+
+## CAPÍTULO IV
+
+Transformación de las políticas activas de empleo y redefinición de su contenido y desarrollo
+
+### Artículo 10
+
+Artículo 10. Concepto y principios generales de las políticas activas de empleo.
+Uno. Se modifican los apartados 1 y 3 del artículo 23, de la Ley 56/2003, de 16 de diciembre, de Empleo, que quedan redactados como sigue:
+«1. Se entiende por políticas activas de empleo el conjunto de acciones y medidas de orientación, empleo y formación dirigidas a mejorar las posibilidades de acceso al empleo, por cuenta ajena o propia, de las personas desempleadas, al mantenimiento del empleo y a la promoción profesional de las personas ocupadas y al fomento del espíritu empresarial y de la economía social.
+Las políticas definidas en el párrafo anterior deberán desarrollarse en todo el Estado, teniendo en cuenta la Estrategia Española de Empleo, las necesidades de los demandantes de empleo y los requerimientos de los respectivos mercados de trabajo, de manera coordinada entre los agentes de formación profesional para el empleo e intermediación laboral que realizan tales acciones, con objeto de favorecer la colocación de los demandantes de empleo.»
+«3. Los recursos económicos destinados a las políticas activas de empleo serán gestionados por los Servicios Públicos de Empleo, desarrollando para ello las acciones y medidas que consideren necesarias y que den cobertura a los ámbitos establecidos en el artículo 25.
+Estas acciones y medidas podrán ser gestionadas mediante la concesión de subvenciones públicas, contratación administrativa, suscripción de convenios, gestión directa o cualquier otra forma jurídica ajustada a derecho.»
+Dos. Se modifica íntegramente el artículo 24 de la Ley 56/2003, de 16 de diciembre, de Empleo, quedando redactado en los siguientes términos:
+«Artículo 24. Principios generales de las políticas activas de empleo.
+1. En el diseño y ejecución de las políticas activas de empleo han de estar presentes los siguientes principios generales:
+a) El tratamiento individualizado y especializado a las personas en situación de desempleo para mejorar su empleabilidad, así como a las personas ocupadas para contribuir a la calidad y mantenimiento de su empleo.
+b) La respuesta a las necesidades de las empresas en materia de capital humano, empleo y formación.
+c) El fomento del autoempleo y la iniciativa emprendedora, especialmente en el marco de la economía sostenible y de los nuevos yacimientos de empleo, incluyendo la atención y el acompañamiento a las personas emprendedoras en la puesta en marcha de su iniciativa empresarial.
+d) La igualdad de oportunidades y no discriminación en el acceso al empleo en los términos previstos en la letra a) del artículo 2 de esta Ley. En particular, se tendrá en cuenta de manera activa el objetivo de la igualdad de trato entre mujeres y hombres para garantizar en la práctica la plena igualdad por razón de sexo.
+e) La adecuación a las características del territorio, teniendo en cuenta la realidad del mercado de trabajo y las peculiaridades locales y sectoriales.
+2. Estos principios informarán, a su vez, todas las actuaciones de las entidades colaboradoras de los Servicios Públicos de Empleo.»
+
+### Artículo 11
+
+Artículo 11. Identificación y ámbitos de las políticas activas de empleo.
+Uno. Se modifica el artículo 25 de la Ley 56/2003, de 16 de diciembre, de Empleo, que queda redactado en los siguientes términos:
+«Artículo 25. Identificación y ámbitos de las políticas activas de empleo.
+1. El conjunto de acciones y medidas que integran las políticas activas de empleo cubrirán los siguientes ámbitos:
+a) Orientación profesional: acciones y medidas de información, acompañamiento, motivación y asesoramiento que, teniendo en cuenta las circunstancias personales y profesionales de la persona beneficiaria, le permiten determinar sus capacidades e intereses y gestionar su trayectoria individual de aprendizaje, la búsqueda de empleo o la puesta en práctica de iniciativas empresariales.
+b) Formación y recualificación: acciones y medidas de aprendizaje, formación, recualificación o reciclaje profesional incluidas en el subsistema de formación profesional para el empleo.
+c) Oportunidades de empleo y fomento de la contratación: acciones y medidas que tengan por objeto incentivar la contratación, la creación de empleo o el mantenimiento de los puestos de trabajo, ya sea con carácter general o dirigidas a sectores o colectivos específicos.
+d) Oportunidades de empleo y formación: acciones y medidas que impliquen la realización de un trabajo efectivo en un entorno real y permitan adquirir formación o experiencia profesional dirigidas a la cualificación o inserción laboral.
+e) Fomento de la igualdad de oportunidades en el empleo: acciones y medidas que promuevan la igualdad entre mujeres y hombres en el acceso al empleo, la permanencia en el mismo y la promoción profesional, así como la conciliación de la vida personal, familiar y laboral y la corresponsabilidad de hombres y mujeres en la asunción de las responsabilidades familiares.
+f) Oportunidades para colectivos con especiales dificultades: acciones y medidas de inserción laboral de colectivos que, de forma estructural o coyuntural, presentan especiales dificultades para el acceso y la permanencia en el empleo. A estos efectos, se tendrá especialmente en consideración la situación de las mujeres víctimas de violencia de género, de las víctimas de violencia doméstica y de las personas con discapacidad o en situación de exclusión social. En relación con las personas con discapacidad, se incentivará su contratación tanto en el empleo ordinario como en el empleo protegido a través de los Centros Especiales de Empleo.
+g) Autoempleo y creación de empresas: acciones y medidas dirigidas a fomentar las iniciativas empresariales mediante el empleo autónomo o la economía social.
+h) Promoción del desarrollo y la actividad económica territorial: acciones y medidas encaminadas a la generación de empleo, la creación de actividad empresarial y la dinamización e impulso del desarrollo económico local.
+i) Fomento de la movilidad (geográfica y/o sectorial): acciones y medidas que faciliten el desplazamiento o cambio de residencia para acceder a un puesto de trabajo o la recualificación a fin de promover la contratación en un sector de actividad diferente al que se ha trabajado habitualmente, especialmente cuando se trate de sectores emergentes o con alta empleabilidad.
+j) Proyectos integrados: acciones y medidas que combinen o conjuguen varios de los ámbitos definidos con anterioridad.
+2. Las acciones y medidas correspondientes a los ámbitos a que se refiere el apartado anterior, se diseñarán y desarrollarán por las Comunidades Autónomas en el ámbito de sus competencias.
+Asimismo, el Servicio Público de Empleo Estatal diseñará y desarrollará estas acciones y medidas en su ámbito competencial.»
+
+### Artículo 12
+
+Artículo 12. Formación profesional para el empleo.
+Se modifica, íntegramente, el artículo 26 de la Ley 56/2003, de 16 de diciembre, de Empleo, quedando redactado como sigue:
+«Artículo 26. Formación profesional para el empleo.
+1. El subsistema de formación profesional para el empleo está constituido por un conjunto de iniciativas, medidas e instrumentos que pretenden, a través de la formación de los trabajadores y de la acreditación de su cualificación, dar respuesta a sus necesidades personales y profesionales de inserción y reinserción en el sistema productivo y contribuir a la mejora de la competitividad de las empresas. Dicho subsistema, de acuerdo con lo previsto en la Ley Orgánica 5/2002, de las Cualificaciones y la Formación Profesional, se desarrollará en el marco del Sistema Nacional de Cualificaciones y Formación Profesional y del Sistema Nacional de Empleo, de acuerdo con sus principios, fines y objetivos y en especial:
+a) El derecho a la formación profesional para el empleo y la igualdad en el acceso de la población activa y las empresas a la formación y a las ayudas a la misma.
+b) La vinculación del subsistema de formación profesional para el empleo con el diálogo social como instrumento más eficaz, para dar respuesta a los cambios y requerimientos del sistema productivo.
+c) La participación de las organizaciones empresariales y sindicales más representativas en el diseño y planificación del subsistema de formación profesional para el empleo.
+d) La vinculación de la formación profesional para el empleo con la negociación colectiva, marco natural para el desarrollo de iniciativas y medidas que conduzcan a una mayor cualificación de las personas trabajadoras.
+2. Las acciones formativas del subsistema de formación para el empleo están dirigidas a la adquisición, mejora y actualización permanente de las competencias y cualificaciones profesionales, favoreciendo la formación a lo largo de toda la vida de la población activa, y conjugando las necesidades de las personas, de las empresas, de los territorios y de los sectores productivos.
+3. El Certificado de Profesionalidad es el instrumento de acreditación, en el ámbito de la Administración laboral, de las cualificaciones profesionales del Catálogo Nacional de Cualificaciones Profesionales adquiridas a través de procesos formativos o del proceso de reconocimiento de la experiencia laboral y de vías no formales de formación.
+El Repertorio Nacional de Certificados de Profesionalidad está constituido por el conjunto de los Certificados de Profesionalidad ordenados sectorialmente en familias profesionales y de acuerdo con los niveles de cualificación establecidos en el Catálogo Nacional de Cualificaciones. Estos certificados tienen carácter oficial, validez en todo el territorio nacional y permitirán su correspondencia con los títulos de formación profesional del sistema educativo.
+4. La oferta formativa vinculada a la obtención de los Certificados de Profesionalidad, estructurada en módulos formativos, facilitará la acreditación parcial acumulable para el reconocimiento de competencias profesionales en el marco del Sistema Nacional de las Cualificaciones y Formación Profesional.
+5. La oferta de acciones de formación profesional para el empleo referida al Catálogo Nacional de Cualificaciones permitirá el reconocimiento y capitalización de aprendizajes con la acreditación de la experiencia profesional y la formación profesional del sistema educativo, vinculada con el desarrollo del Sistema Nacional de Cualificaciones y Formación Profesional.
+6. Las acciones formativas del subsistema de formación profesional para el empleo que no sean objeto de acreditaciones oficiales serán reconocidas a través del correspondiente diploma acreditativo.
+7. Los Servicios Públicos de Empleo promoverán el funcionamiento de una red de Centros de Referencia Nacional, especializados por áreas y familias profesionales, que colaborarán en el desarrollo de acciones de carácter innovador, experimental y formativo en el ámbito de la formación profesional para el empleo, y en particular en actividades de mejora de la calidad dirigidas a la red de centros colaboradores y a los formadores. Para ello, estos Centros procurarán mantener relación con centros tecnológicos y otras redes de gestión del conocimiento, tanto nacionales como internacionales, en sus ámbitos sectoriales específicos.
+8. Los Servicios Públicos de Empleo promoverán el mantenimiento de una red de centros colaboradores, públicos y privados, que junto a sus centros, garantice una permanente oferta de formación para el empleo de calidad. Asimismo, en colaboración con el sistema educativo, promoverán una red de centros integrados.
+9. Los Servicios Públicos de Empleo impulsarán la colaboración y coordinación entre las Administraciones competentes para la mejora de la calidad, eficacia y eficiencia del subsistema de formación profesional para el empleo. Asimismo, impulsarán procesos de evaluación sistemáticos y periódicos, de acuerdo con los criterios aprobados por los instrumentos de participación del subsistema y con las directrices europeas en materia de calidad.»
+
+### Artículo 13
+
+Artículo 13. Modificación del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto.
+Se introduce una nueva letra c) en el apartado 1, del artículo 17 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, con la siguiente redacción:
+«c) No cumplir las exigencias del Acuerdo Personal de Empleo, salvo causa justificada, siempre que la conducta no esté tipificada como otra infracción leve o grave en este artículo.»
+
+### Disposición adicional primera
+
+Disposición adicional primera. Identificación de la Conferencia Sectorial de Empleo y Asuntos Laborales.
+(Derogada).
+Se deroga por la disposición derogatoria única.c) del Decreto Legislativo 3/2015, de 23 de octubre. Ref. BOE-A-2015-11431#ddunica.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Comunidades Autónomas del País Vasco y de Navarra.
+En las Comunidades Autónomas del País Vasco y de Navarra, la financiación de las políticas activas de empleo previstas en la presente norma se fijará en el marco del Concierto y del Convenio Económico, respectivamente.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Plazo para la elaboración de la Estrategia Española de Empleo.
+El Gobierno elaborará antes del 31 de octubre de 2011 la Estrategia Española de Empleo a que se refiere el artículo 4 bis de la Ley 56/2003, de 16 de diciembre, de Empleo.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Aplicación de los itinerarios individuales y personalizados de empleo.
+Los itinerarios individuales y personalizados de empleo se aplicarán gradualmente en tres fases:
+Durante el año 2011, su realización estará dirigida prioritariamente a los colectivos a que se refiere el Real Decreto-ley 1/2011, de 11 de febrero, de medidas urgentes para promover la transición al empleo estable y la recualificación profesional de las personas desempleadas.
+Durante el año 2012, la prioridad en la realización de los itinerarios se determinará en el Plan Anual de Política de Empleo para dicho ejercicio.
+Se deroga el último párrafo por la disposición derogatoria única.c) del Decreto Legislativo 3/2015, de 23 de octubre. Ref. BOE-A-2015-11431#ddunica.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Aplicación de normas derogadas.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.h) de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
+ Téngase en cuenta que esta disposición ya fue derogada por el Real Decreto-ley 3/2012, de 10 de febrero.
+ Se deroga por la disposición derogatoria única.1.h) del Real Decreto-ley 3/2012, de 10 de febrero. Ref. BOE-A-2012-2076.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.h) de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
+ Téngase en cuenta que esta disposición ya fue derogada por el Real Decreto-ley 3/2012, de 10 de febrero.
+ Se deroga por la disposición derogatoria única.1.h) del Real Decreto-ley 3/2012, de 10 de febrero. Ref. BOE-A-2012-2076.
+
+### Disposición final primera
+
+Disposición final primera. Fondo de políticas de empleo.
+(Derogada).
+Se deroga por la disposición derogatoria única.c) del Decreto Legislativo 3/2015, de 23 de octubre. Ref. BOE-A-2015-11431#ddunica.
+ Se modifica el apartado 11 por la disposición final 23 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se modifica el apartado 8 por el art. 2 del Real Decreto-Ley 14/2011, de 16 de septiembre. Ref. BOE-A-2011-14910.
+
+### Disposición final segunda
+
+Disposición final segunda. Título competencial.
+Este real decreto-ley se dicta al amparo de los títulos competenciales previstos en el artículo 149.1 de la Constitución, en sus apartados 7, 13 y 17.
+
+### Disposición final tercera
+
+Disposición final tercera. Ejecución y desarrollo.
+Se faculta a la persona titular del Ministerio de Trabajo e Inmigración, en el ámbito de sus competencias, para dictar cuantas disposiciones sean precisas para el desarrollo de este real decreto-ley.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+El presente real decreto-ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 18 de febrero de 2011.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

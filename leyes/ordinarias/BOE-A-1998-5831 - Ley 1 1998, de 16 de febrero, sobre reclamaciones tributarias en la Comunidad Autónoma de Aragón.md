@@ -1,0 +1,613 @@
+# Ley 1/1998, de 16 de febrero, sobre reclamaciones tributarias en la Comunidad Autónoma de Aragón.
+
+- Identificador BOE: `BOE-A-1998-5831`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-5831
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 1/1998, de 16 de febrero, de Revisión administrativa en materia de Tributos propios y otros Recursos de Derecho público de la Comunidad Autónoma de Aragón", según establece el art. 16.1 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+## Preámbulo
+
+En nombre del Rey y como Presidente de la Comunidad Autónoma de Aragón, promulgo la presente Ley, aprobada por las Cortes de Aragón, y ordeno se publique en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado», todo ello de conformidad con lo dispuesto en los artículos 20 y 21 del Estatuto de Autonomía.
+PREÁMBULO
+I
+La Constitución Española, en su artículo 149.1.14, reserva al Estado la competencia sobre la Hacienda pública general, atribuyéndole en el artículo 133 la potestad originaria para establecer tributos mediante ley. Pero también ese mismo artículo reconoce a las Comunidades Autónomas y a las Corporaciones Locales el derecho de establecer y exigir tributos de acuerdo con la Constitución y las leyes.
+El Estatuto de Autonomía de Aragón, antes y después de la reforma de 30 de diciembre de 1996, incluye en la Hacienda de la Comunidad Autónoma de Aragón, al lado del porcentaje de participación en la recaudación total de la Administración general del Estado, por impuestos no cedidos, y de los ingresos por los tributos cedidos, un segundo bloque de recursos constituidos por los rendimientos de los precios públicos, así como las tasas, contribuciones especiales e impuestos que establezca la Comunidad Autónoma de Aragón y demás ingresos de derecho público, de acuerdo con los principios de autonomía y solidaridad y en coordinación con la Hacienda general.
+II
+Nuestro ordenamiento jurídico atribuye el conocimiento de las reclamaciones tributarias presentadas por los ciudadanos a órganos administrativos incardinados en el Ministerio de Economía y Hacienda, concretamente, a los Tribunales Económico-Administrativos, regulados por la Ley General Tributaria, la Ley 39/1980, de 5 de julio, de Procedimiento de Reclamaciones Económico-Administrativas, y su Reglamento, de 1 de marzo de 1996.
+Los actos de gestión, inspección y recaudación tributaria, procedentes de la Administración, no ponen fin a la vía administrativa, y resulta preciso, para llegar a ello, el pronunciamiento de los Tribunales Económico-­Administrativos, locales, regionales o central. Sólo las resoluciones de éstos pueden ser objeto de control jurisdiccional, llevándose el conflicto ante la jurisdicción contencioso-administrativa.
+La Ley Orgánica de Financiación de las Comunidades Autónomas de 1980, modificada por Ley de 27 de diciembre de 1996 y complementada por la Ley 14/1996, de 30 de diciembre, de Cesión de Tributos del Estado a las Comunidades Autónomas, siguiendo el criterio del Real Decreto citado de 1 de marzo de 1996, rechazan expresamente que las reclamaciones en materia de tributos cedidos puedan ser conocidas y resueltas por órganos propios de la Comunidad Autónoma de Aragón, de manera que forzosamente habremos de aceptar que sigan atribuidos a los Tribunales Económico-Administrativos y, por tanto, a la Administración general del Estado.
+III
+Con la salvedad citada, señalaremos que, en nuestra Comunidad Autónoma, el conocimiento y resolución de las reclamaciones en materia tributaria, tanto tasas, contribuciones especiales como impuestos, estaba regulado por la Ley 5/1985, de 20 de noviembre, reguladora del Tribunal Económico-Administrativo de la Administración Autónoma de Aragón, que realmente no incorporaba una normativa propia en la materia objeto de la presente Ley y se limita a remitirse a la legislación general en la materia, ya que en aquellas fechas su número no podía ser abundante y significativo.
+Promulgada la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Publicas y del Procedimiento Administrativo Común ‒cuyo artículo 107.4 remite para las reclamaciones económico-administrativas a la legislación especifica‒ se ha aprobado por las Cortes de Aragón la Ley 11/1996, de 30 de diciembre, de la Administración de la Comunidad Autónoma de Aragón, cuyo artículo 57 establece que las reclamaciones económico-administrativas en tributos propios de la Comunidad Autónoma de Aragón se regularan por su legislación especifica.
+IV
+Parece necesario, en el momento actual, llegar a una ley especifica en la Comunidad Autónoma de Aragón. Lo aconsejan la complejidad de la materia, la inexistencia de una actualización de la Ley General Tributaria en lo relativo a procedimientos administrativos y el aumento de competencias que determinara un incremento en el número de recursos y reclamaciones.
+Existiendo, por tanto, fundadas razones de seguridad jurídica, parece necesario regular la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón, compuesta por un Presidente, dos Vocales y un Secretario, cuya competencia se extenderá a todo el territorio de nuestra Comunidad Autónoma. A ella le corresponderá tramitar y resolver en única instancia las reclamaciones económico-administrativas presentadas respecto de la gestión, inspección, recaudación en tributos propios y demás ingresos de derecho público de esta Comunidad Autónoma de Aragón, con exclusión de los tributos cedidos, en los que los recursos y reclamaciones se regirán por la normativa general.
+En tributos propios, sólo las resoluciones de la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón pondrán fin a la vía administrativa, y podrán impugnarse ante la Sala de lo Contencioso del Tribunal Superior de Justicia de Aragón.
+Tras regular en los títulos I y II el régimen jurídico aplicable a las reclamaciones y la composición y funciones de la Junta de Reclamaciones Económico-Administrativas, el título III estudia el procedimiento tributario en las reclamaciones económico-administrativas, detallando los distintos trámites en las fases de iniciación, instrucción y terminación.
+El título IV se dedica a la suspensión en la ejecución del acto impugnado, de acuerdo con las modernas orientaciones, regulando la constitución de garantías y evitando que el impago de la deuda tributaria pueda generar indefensión del ciudadano.
+A fin de completar sistemáticamente la normativa en la materia, se recogen, al lado de las reclamaciones económico-administrativas, las demás formas de impugnación de las resoluciones tributarias, tanto el recurso de reposición como el recurso de revisión.
+En definitiva, la presente Ley tiene como objetivo completar la Ley 11/1996, de 30 de diciembre de la Administración de la Comunidad Autónoma de Aragón, regulando el régimen jurídico de las reclamaciones en tributos propios de la Comunidad Autónoma de Aragón, y demás ingresos de derecho publico, concretando el órgano administrativo que los conocerá y resolverá ‒la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón‒, el procedimiento a seguir y la posible suspensión de la deuda tributaria. Se quiere evitar situaciones de indefensión, ofrecer suficientes garantías al ciudadano y alcanzar una plena seguridad jurídica, de acuerdo con los postulados de la Constitución vigente y de nuestro Estatuto de Autónoma.
+
+## TÍTULO I
+
+TÍTULO I
+Ámbito de aplicación
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. La presente Ley regula el régimen jurídico de los recursos y reclamaciones promovidos en vía económico-administrativa, o con carácter previo a la misma, contra los actos de aplicación de los tributos propios, de imposición de sanciones tributarias derivadas de los mismos y de recaudación de los demás ingresos de Derecho público de la Administración de la Comunidad Autónoma de Aragón y sus organismos públicos.
+2. Su ámbito de aplicación se extenderá, en única instancia, a los actos de gestión, liquidación, recaudación, inspección e imposición de sanciones tributarias, relativos a los impuestos propios, tasas, contribuciones especiales, precios públicos y, en general, a la recaudación de todos los ingresos de Derecho público que integran, como recursos, la Hacienda pública de la Comunidad Autónoma de Aragón.
+También alcanzará al reconocimiento o liquidación de las obligaciones derivadas de la emisión de Deuda Pública de la Comunidad Autónoma de Aragón, en los términos previstos por la Ley de Hacienda, y a cualquier otra materia para la que se establezca por precepto legal expreso.
+3. En lo no previsto por la presente Ley, se aplicarán las disposiciones de la legislación general tributaria y presupuestaria y sus normas reglamentarias o complementarias.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 2
+
+Artículo 2. Actos impugnables.
+1. Podrán interponer recursos o reclamaciones en vía económico-administrativa contra los actos siguientes:
+a) Los que provisional o definitivamente reconozcan o denieguen un derecho o declaren una obligación o un deber.
+b) Los de trámite que decidan, directa o indirectamente, el fondo del asunto o pongan término al procedimiento.
+2. En materia de aplicación de los tributos, son impugnables:
+a) Las liquidaciones provisionales o definitivas.
+b) Las resoluciones expresas o que deban entenderse desestimadas por silencio administrativo, derivadas de una solicitud de rectificación de una autoliquidación o de una comunicación de datos.
+c) Las comprobaciones de valor de rentas, productos, bienes, derechos y gastos, así como los actos de fijación de valores, rendimientos y bases, cuando la normativa lo establezca.
+d) Los actos que denieguen o reconozcan exenciones, beneficios e incentivos fiscales.
+e) Los actos dictados en el procedimiento de recaudación.
+f) Los actos que impongan sanciones tributarias.
+g) Las actuaciones u omisiones derivadas de las relaciones entre el sustituto y el sujeto pasivo.
+h) Los demás actos para los que así se establezca por la normativa tributaria.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 3
+
+Artículo 3. Actos y disposiciones no impugnables.
+No se admitirán recursos o reclamaciones en la vía económico-administrativa regulada en la presente Ley respecto de las siguientes materias:
+a) Los actos de aplicación de los tributos cedidos por el Estado a la Comunidad Autónoma de Aragón, de los recargos establecidos por ésta sobre los tributos estatales y la imposición de sanciones derivadas de unos y otros, que se regirán por lo previsto en la legislación general tributaria.
+b) Los actos que den lugar a reclamación en vía administrativa previa a la judicial, civil o laboral, o pongan fin a dicha vía, que se regirán por lo previsto en la legislación básica administrativa.
+c) Los actos dictados en procedimientos en los que esté reservada al Consejero competente en materia de Hacienda la resolución que ponga fin a la vía administrativa.
+d) Las disposiciones de carácter general dictadas por la Comunidad Autónoma de Aragón, que serán impugnables ante la Jurisdicción Contencioso-Administrativa.
+e) Los dictados en virtud de una Ley que los excluya de la reclamación económico-administrativa.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 4
+
+Artículo 4. Interesados.
+1. Estarán legitimados para interponer recursos o reclamaciones en vía económico-administrativa los siguientes interesados:
+a) Los obligados al pago de los tributos o ingresos de Derecho público del que deriva el acto cuestionado.
+b) Los infractores que hayan sido objeto de una sanción pecuniaria de naturaleza tributaria.
+c) Los titulares de derechos e intereses legítimos que pudieran resultar afectados por el acto cuestionado.
+Si éstos no promovieran el recurso o la reclamación, pero pudieran verse afectados por la resolución que hubiera de dictarse, podrán comparecer en el procedimiento, voluntariamente o por notificación del órgano instructor, al objeto de formular alegaciones.
+2. No estarán legitimados, con carácter general, los funcionarios y empleados públicos, salvo que inmediata o directamente se vulnere un derecho particular que les esté reconocido o resulten afectados sus intereses legítimos, los particulares que actúen por delegación, agencia o mandato de la Administración, los órganos y entidades que hayan dictado el acto cuestionado o sean destinatarios de los fondos gestionados por dicho acto. En ningún caso estarán legitimados los denunciantes.
+3. Los interesados podrán actuar en el procedimiento económico-administrativo por sí o por medio de representante. La representación deberá acreditarse por cualquier medio válido en Derecho que deje constancia fidedigna o mediante declaración en comparecencia personal del interesado ante el órgano competente. A estos efectos, también serán válidos los documentos normalizados de representación que apruebe la Administración.
+4. El documento que acredite la representación deberá acompañarse al primer escrito que no aparezca firmado por el interesado. No obstante, la falta o insuficiencia del poder no impedirá que se tenga por realizado el acto, siempre que el interesado acompañe aquél, subsane los defectos o ratifique las actuaciones realizadas en su nombre.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 5
+
+Artículo 5. Medios de impugnación.
+1. La impugnación de los actos en la materia objeto de la presente Ley podrá realizarse por alguno de los siguientes medios:
+a) Recurso potestativo de reposición.
+b) Reclamación económico-administrativa.
+c) Recurso extraordinario de revisión.
+2. Ello se entenderá sin perjuicio de las facultades de la Administración para la revisión de sus actos mediante los procedimientos especiales previstos en la Ley General Tributaria y conforme a las reglas contenidas en la Ley de la Administración de la Comunidad Autónoma de Aragón.
+3. Los actos dictados en la materia objeto de esta Ley no agotarán la vía administrativa, ni podrán ser impugnados ante la Jurisdicción Contencioso-Administrativa, si previamente no se ha promovido contra los mismos la correspondiente reclamación económico-administrativa.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+## TÍTIULO II
+
+Título II
+Recurso de reposición
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 6
+
+Artículo 6. Objeto y naturaleza.
+1. Los actos impugnables a que se refiere el artículo 2 de la presente Ley podrán ser objeto de recurso de reposición, con arreglo a lo dispuesto en este título.
+2. El recurso de reposición es potestativo y deberá interponerse, en su caso, con carácter previo a la correspondiente reclamación económico-administrativa.
+En tal caso, no podrá promoverse la reclamación económico-administrativa hasta que el recurso se haya resuelto de forma expresa o pueda considerarse desestimado por silencio administrativo.
+Cuando en el plazo establecido para recurrir se hubieran interpuesto recurso de reposición y reclamación económico-administrativa que tuvieran como objeto el mismo acto, se tramitará el presentado en primer lugar y se declarará inadmisible el segundo.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+ Se modifica el apartado 1 por el art. 27 de la Ley 19/2006, de 29 de diciembre. Ref. BOE-A-2007-4735
+
+### Artículo 7
+
+Artículo 7. Plazo.
+1. El plazo de interposición del recurso de reposición será de un mes contado a partir del día siguiente al de la notificación del acto recurrible o del siguiente a aquel en que se produzcan los efectos del silencio administrativo.
+En las deudas de vencimiento periódico y notificación colectiva, el plazo se computará a partir del día siguiente al de finalización del período voluntario de pago.
+2. La ejecución del acto quedará suspendida automáticamente en los supuestos y con los requisitos contemplados en el Título IV de la presente Ley.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 8
+
+Artículo 8. Iniciación y tramitación.
+1. El procedimiento se iniciará mediante escrito dirigido al órgano que haya dictado el acto recurrible y podrá solicitar que se tenga por interpuesto, identificando personalmente al interesado o a su representante, mediante la expresión del nombre y apellidos o razón social o denominación completa, número de identificación fiscal, el domicilio a efectos de notificaciones, las circunstancias de lugar y la fecha, la firma del recurrente, el acto contra el que se recurre, así como las alegaciones que el interesado formule sobre las cuestiones de hecho y de derecho en las que se fundamenta la impugnación
+2. Si el recurrente precisase examinar el expediente para formular sus alegaciones, deberá comparecer ante el órgano actuante a partir del día siguiente al de la notificación del acto impugnado y antes de que finalice el plazo de interposición del recurso.
+3. La interposición de recurso de reposición somete a conocimiento del órgano competente todas las cuestiones de hecho o de derecho que ofrezca el expediente, hayan sido o no planteadas en el recurso, sin que en ningún caso se pueda empeorar la situación inicial del recurrente.
+En tal caso, las cuestiones no planteadas por los interesados se expondrán a los mismos por el órgano competente, al objeto de que puedan formular las alegaciones que consideren convenientes.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 9
+
+Artículo 9. Resolución.
+1. Será competente para conocer y resolver el recurso de reposición el órgano que hubiera dictado el acto recurrido.
+2. La resolución será motivada y contendrá una exposición sucinta de los hechos y los fundamentos jurídicos que hayan servido para adoptar la decisión o el acuerdo.
+3. El plazo máximo para notificar la resolución será de un mes contado desde el día siguiente al de presentación del recurso.
+Los períodos de interrupción justificada y las dilaciones por causa no imputable a la Administración, previstos en la Ley General Tributaria y normas complementarias, no se incluirán en el cómputo del plazo anterior.
+4. Transcurrido el plazo de un mes desde la interposición, el interesado podrá considerar desestimado el recurso al objeto de interponer la reclamación económico-administrativa correspondiente.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+ Se modifica por el art. 28 de la Ley 19/2006, de 29 de diciembre. Ref. BOE-A-2007-4735
+
+### Artículo 10
+
+Artículo 10. Otras formas de terminación.
+Pondrán fin al procedimiento, además de la resolución contemplada en el artículo anterior, el desistimiento, la renuncia al derecho en que se fundamente el recurso, la imposibilidad material de continuarlo por causas sobrevenidas, la caducidad de la solicitud, la satisfacción extraprocesal de la pretensión del recurrente o cualquier otra causa prevista en el ordenamiento jurídico.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+## TÍTULO III
+
+Procedimiento Económico-Administrativo
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+## CAPÍTULO I
+
+Reclamación Económico-Administrativa
+Se añade por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 11
+
+Artículo 11. Objeto y naturaleza.
+1. Los actos impugnables a que se refiere el artículo 2 de la presente Ley podrán ser objeto de reclamación económico-administrativa, con arreglo a lo dispuesto en este capítulo.
+Si se hubiera interpuesto previamente recurso potestativo de reposición, no podrá promoverse la reclamación económico-administrativa hasta que el recurso se haya resuelto de forma expresa o pueda considerarse desestimado por silencio administrativo.
+2. El procedimiento se tramitará en única instancia.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 12
+
+Artículo 12. Plazo.
+1. La reclamación económico-administrativa se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado, desde el día siguiente a aquél en que se produzcan los efectos del silencio administrativo o de la sustitución derivada de las relaciones entre el sustituto y el sujeto pasivo.
+En las deudas de vencimiento periódico y notificación colectiva, el plazo se computará a partir del día siguiente al de finalización del período voluntario de pago.
+2. La ejecución del acto quedará suspendida automáticamente en los supuestos y con los requisitos contemplados en el Título IV de la presente Ley.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+## TÍTULO II
+
+TÍTULO II
+Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón: composición y funciones
+
+### Artículo 13
+
+Artículo 13. Iniciación.
+1. El procedimiento se iniciará mediante escrito dirigido al órgano que haya dictado el acto reclamable y podrá limitarse a solicitar que se tenga por interpuesta la reclamación, identificando al reclamante o a su representante, con expresión del nombre y apellidos o razón social o denominación completa, número de identificación fiscal, el domicilio a efectos de notificaciones, el acto contra el que se reclama y órgano ante el que se interpone, que será necesariamente la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón regulada en el Título V de esta Ley. Al escrito podrán acompañarse también las alegaciones en las que el reclamante fundamente su derecho o pretensión.
+2. Recibido el escrito de interposición, el órgano que dictó el acto lo remitirá a la Junta de Reclamaciones Económico-Administrativas en el plazo de un mes, junto con el expediente correspondiente, al que se podrá incorporar un informe sobre el asunto.
+Si el escrito de interposición incluyese alegaciones, y siempre que el interesado no hubiese interpuesto recurso de reposición previamente, el órgano competente podrá anular total o parcialmente el acto impugnado, en cuyo caso, se remitirá a la Junta el nuevo acto dictado junto con el escrito de interposición.
+3. Si el órgano administrativo no hubiese remitido el escrito de interposición a la Junta, el reclamante podrá presentar ante la misma copia sellada de aquél para que pueda iniciarse el procedimiento. Si el defecto de remisión alcanzase al expediente, el Secretario de la Junta lo reclamará del órgano competente.
+4. Cuando el escrito de interposición, o cualquiera de los actos de los interesados en el procedimiento, no reúna los requisitos exigidos, el Secretario de la Junta les requerirá para que, en el plazo de diez días, subsanen el defecto u omisión, con indicación de que, si no lo hicieran, se les tendrá por desistidos de su reclamación o perderán el derecho al trámite en cuestión.
+Si la inactividad de los interesados, por causa imputable a los mismos, produce la paralización del procedimiento, el Secretario de la Junta les advertirá que, transcurridos tres meses, se producirá la caducidad del mismo, procediéndose el archivo de las actuaciones.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 14
+
+Artículo 14. Tramitación.
+1. La Junta de Reclamaciones Económico-Administrativas, una vez recibido y completado, en su caso, el expediente, lo pondrá de manifiesto a los interesados que hubieran comparecido en la reclamación y no hubiesen formulado alegaciones en el escrito de interposición o que hubiesen solicitado expresamente este trámite.
+El plazo de puesta de manifiesto del expediente será de un mes, en el transcurso del cual los interesados podrán presentar por escrito las alegaciones y aportar las pruebas que consideren oportunas.
+2. La Junta podrá recabar informe del órgano que dictó el acto impugnado, dando traslado del mismo a los interesados para que puedan presentar alegaciones.
+3. La práctica de las pruebas no aportadas, que se consideren relevantes para la resolución del asunto, se formalizarán mediante acta notarial o ante el Secretario de la Junta, o funcionario en quien delegue, que extenderá el acta correspondiente.
+4. La Junta podrá prescindir de los trámites anteriores cuando:
+a) Resulten acreditados o ciertos todos los datos necesarios para resolver en función de las alegaciones formuladas o de los documentos aportados.
+b) Resulten evidentes motivos de inadmisibilidad.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 15
+
+Artículo 15. Notificaciones.
+1. El régimen de las notificaciones será el previsto en la legislación básica administrativa con las especialidades establecidas en la legislación general tributaria.
+2. Todos los actos y resoluciones que afecten a los interesados o que pongan término a una reclamación serán notificados a aquéllos en el domicilio señalado o, en su defecto, en la secretaría de la Junta de Reclamaciones Económico-Administrativas mediante entrega o depósito de la copia íntegra del texto.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 16
+
+Artículo 16. Acumulación de reclamaciones.
+1. Las reclamaciones económico-administrativas se acumularán, a efectos de su tramitación y resolución, en los siguientes casos:
+a) Las interpuestas por un mismo interesado relativas al mismo tributo o ingreso de Derecho público.
+b) Las interpuestas por varios interesados relativas al mismo tributo o ingreso de Derecho público, siempre que deriven de un mismo expediente o planteen las mismas cuestiones.
+c) Las interpuestas contra una sanción tributaria si también se hubiera presentado reclamación contra la deuda de la que derive.
+2. Los acuerdos sobre acumulación o desacumulación no serán recurribles.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 17
+
+Artículo 17. Extensión de la revisión.
+La interposición de reclamación económico-administrativa somete a conocimiento del órgano competente todas las cuestiones de hecho o de derecho que ofrezca el expediente, hayan sido o no planteadas en la reclamación, sin que en ningún caso se pueda empeorar la situación inicial del reclamante.
+En tal caso, las cuestiones no planteadas por los interesados se expondrán a los mismos por el órgano competente, al objeto de que puedan formular las alegaciones que consideren convenientes.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 18
+
+Artículo 18. Resolución.
+1. La resolución será motivada y deberá contener los antecedentes de hecho y los fundamentos de derecho en que se base, decidiendo todas las cuestiones que se susciten en el expediente, hayan sido o no planteadas por los interesados.
+La Junta de Reclamaciones Económico-Administrativas no podrá abstenerse de resolver ninguna reclamación sometida a su conocimiento, sin que pueda alegarse duda racional o deficiencia en los preceptos legales.
+2. La resolución podrá ser estimatoria, desestimatoria o declarar la inadmisiblidad por las causas previstas en la legislación general tributaria. La resolución estimatoria podrá anular total o parcialmente el acto impugnado por razones de derecho sustantivo o por defectos formales.
+3. La duración del procedimiento será de un año contado desde la interposición de la reclamación. Notificada la resolución en dicho plazo o transcurrido el mismo sin que se hubiera resuelto expresamente, en cuyo caso el interesado podrá considerar desestimada la reclamación, el cómputo de los plazos para interponer los recursos procedentes comenzará a partir del día siguiente al de la notificación o al de la finalización del plazo de un año a que se refiere este apartado.
+4. La resolución que, en su caso, se dicte tendrá plena eficacia respecto de los interesados a quienes se hubiese notificado la existencia de la reclamación.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+## TÍTULO III
+
+TÍTULO III
+Procedimiento en las reclamaciones económico-administrativas y recurso de revisión: Iniciación, instrucción y terminación
+
+### Artículo 19
+
+Artículo 19. Otras formas de terminación.
+Pondrán fin al procedimiento, además de la resolución a que se refiere el artículo anterior, la renuncia al derecho en que se fundamente la reclamación, el desistimiento, la caducidad de la solicitud, la satisfacción extraprocesal de las pretensiones del reclamante y cualquier otra causa prevista en el ordenamiento jurídico, en cuyo caso, la Junta de Reclamaciones Económico-Administrativas acordará motivadamente el archivo de las actuaciones.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+## CAPÍTULO II
+
+Recurso extraordinario de revisión
+Se añade por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 20
+
+Artículo 20. Objeto.
+El recurso extraordinario de revisión podrá interponerse por los interesados contra los actos firmes de la Administración de la Comunidad Autónoma de Aragón en la materia objeto de esta Ley y contra las resoluciones firmes de la Junta de Reclamaciones Económico-Administrativas, cuando concurra alguna de las siguientes circunstancias:
+a) Que aparezcan documentos de valor esencial para la decisión del asunto que fueran posteriores al acto o resolución recurridos o de imposible aportación al tiempo de dictarse los mismos y que evidencien el error cometido.
+b) Que al dictar el acto o la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme anterior o posterior a aquella resolución.
+c) Que el acto o resolución se hubiese dictado como consecuencia de prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible y se haya declarado así en virtud de sentencia judicial firme.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+ Se modifica el apartado 1, se renumera el apartado 2 como 3 y se añade un apartado 2, por el art. 29 de la Ley 19/2006, de 29 de diciembre. Ref. BOE-A-2007-4735
+
+### Artículo 21
+
+Artículo 21. Procedimiento.
+1. Será competente para conocer y resolver el recurso extraordinario de revisión la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón.
+2. El recurso se interpondrá en el plazo de tres meses a contar desde el conocimiento de los documentos o desde que adquirió firmeza la sentencia judicial.
+3. Serán aplicables las reglas sobre legitimación y tramitación de las reclamaciones económico-administrativas.
+4. La duración del procedimiento será de un año contado desde la interposición de la reclamación. Notificada la resolución en dicho plazo o transcurrido el mismo sin que se hubiera resuelto expresamente, en cuyo caso el interesado podrá considerar desestimada la reclamación, el cómputo de los plazos para interponer los recursos procedentes comenzará a partir del día siguiente al de la notificación o al de la finalización del plazo de un año a que se refiere este apartado.
+La Junta de Reclamaciones Económico-Administrativas deberá resolver expresa y motivadamente en todo caso.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+## CAPÍTULO III
+
+Recurso contencioso-administrativo
+Se añade por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 22
+
+Artículo 22. Recurso contencioso-administrativo.
+Las resoluciones de la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón pondrán fin a la vía administrativa y serán susceptibles de recurso contencioso-administrativo ante la Jurisdicción competente.
+Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+## TÍTIULO IV
+
+TÍTULO IV
+Suspensión de la ejecución del acto impugnado en la reclamación económico-administrativa
+Se modifica por el art. 21.1 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+
+## CAPÍTULO I
+
+Procedimiento general de la suspensión y constitución de garantías
+Se añade por el art. 21.1 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+
+### Artículo 23
+
+Artículo 23. Supuestos de suspensión.
+1. La mera interposición de una reclamación económico-administrativa no suspenderá la ejecución del acto impugnado, salvo que se haya interpuesto previamente un recurso de reposición en el que se haya acordado la suspensión con aportación de garantías cuyos efectos alcancen a la vía económico-administrativa.
+2. No obstante, a solicitud del interesado, se suspenderá la ejecución del acto impugnado en los siguientes supuestos:
+a) Cuando se aporte alguna de las garantías previstas en el artículo 26.2 de esta Ley, que dan derecho a la suspensión automática.
+b) Cuando se aporten otras garantías, en los términos previstos en el artículo 29.
+c) Con dispensa total o parcial de garantías, cuando la Junta de Reclamaciones Económico-Administrativas considere que la ejecución pudiera causar perjuicios de imposible o difícil reparación, en los términos previstos en el artículo 30.
+d) Sin necesidad de aportar garantía, cuando la Junta de Reclamaciones Económico-Administrativas aprecie que al dictarlo se ha podido incurrir en un error aritmético, material o de hecho, en los términos previstos en el artículo 30.
+e) Cuando se trate de actos que no tengan por objeto una deuda tributaria o una cantidad líquida, si la Junta de Reclamaciones Económico-Administrativas considera que la ejecución pudiera causar perjuicios de imposible o difícil reparación, en los términos previstos en el artículo 30.
+3. Tratándose de sanciones tributarias que hayan sido objeto de reclamación económico-administrativa, su ejecución quedará automáticamente suspendida en periodo voluntario, sin necesidad de aportar garantías, hasta que sean firmes en vía administrativa.
+4. La ejecución del acto o resolución impugnados mediante un recurso extraordinario de revisión no podrá suspenderse en ningún caso.
+Se modifica por el art. 21.1 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 24
+
+Artículo 24. Contenido de la solicitud de suspensión.
+La solicitud de suspensión deberá contener, al menos, los siguientes extremos:
+a) Nombre y apellidos o razón social o denominación completa, número de identificación fiscal y domicilio del interesado. En el caso de que se actúe por medio de representante, se deberá incluir su identificación completa.
+b) Órgano ante el que se formula la solicitud de suspensión.
+c) Identificación del acto cuya suspensión se pretende.
+d) Domicilio que el interesado señala a los efectos de notificaciones.
+e) Lugar, fecha y firma del escrito o la solicitud.
+Se modifica por el art. 21.1 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 25
+
+Artículo 25. Solicitud de suspensión.
+1. La suspensión podrá solicitarse al interponer la reclamación económico-administrativa o, en un momento posterior, ante el órgano que dictó el acto objeto de la reclamación económico-administrativa, que la remitirá al órgano competente para resolver dicha solicitud, que podrá ser, según los supuestos, el órgano de recaudación que se determine en las normas de organización específicas o la propia Junta de Reclamaciones Económico-Administrativas.
+En el caso de que la suspensión sea solicitada en los supuestos regulados en el artículo 30, sobre los que corresponde resolver a la Junta de Reclamaciones Económico-Administrativas, esta deberá remitir una copia de la solicitud al órgano competente de recaudación a los efectos de la suspensión cautelar regulada en dicho artículo.
+La solicitud de suspensión que no esté vinculada a una reclamación económico-administrativa anterior o simultánea a dicha solicitud carecerá de eficacia, sin necesidad de un acuerdo expreso de inadmisión.
+2. La suspensión deberá solicitarse en escrito independiente e ir acompañada por los documentos que el interesado estime procedentes para justificar la concurrencia de los requisitos necesarios para su concesión y de una copia de la reclamación económico-administrativa interpuesta.
+Deberá aportarse necesariamente la siguiente documentación:
+a) Cuando se solicite la suspensión automática, se adjuntará el documento en que se formalice la garantía.
+b) Cuando se solicite la suspensión con otras garantías distintas a las de la letra a), se deberá justificar la imposibilidad de aportar las garantías previstas para la suspensión automática. También se detallarán la naturaleza y las características de las garantías que se ofrecen, los bienes o derechos sobre los que se constituirá y su valoración realizada por perito con titulación suficiente.
+c) Cuando la solicitud se base en que la ejecución del acto podría causar perjuicios de difícil o imposible reparación, deberá acreditarse dicha circunstancia. En ese caso, de solicitarse la suspensión con dispensa parcial de garantías, se detallarán las que se ofrezcan conforme a lo dispuesto en la letra b) de este artículo.
+d) Cuando se solicite la suspensión sin garantía porque el acto recurrido incurra en un error aritmético, material o de hecho, se deberá justificar la concurrencia de dicho error.
+3. Examinada la solicitud, si esta no reúne los requisitos exigidos, y sin perjuicio de las normas especiales de subsanación contenidas en esta Ley, el órgano competente para conocer de la suspensión le requerirá al interesado para que en un plazo de diez días, contados a partir del día siguiente al de la notificación del requerimiento, subsane la falta o acompañe los documentos preceptivos, con indicación de que la falta de atención a dicho requerimiento determinará el archivo de las actuaciones y se tendrá por no presentada la solicitud de suspensión.
+Se modifica por el art. 21.1 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 26
+
+Artículo 26. Garantías de la suspensión.
+1. Las garantías quedarán, a los efectos de su eventual ejecución, a disposición del órgano competente para la recaudación del acto objeto de la reclamación económico-administrativa y deberán cubrir el importe de la obligación principal a que se refiere el acto impugnado, los intereses de demora que genere la suspensión y el recargo de apremio ordinario.
+Los intereses de demora serán los correspondientes al plazo de un año.
+2. Las garantías necesarias para obtener la suspensión automática serán exclusivamente las siguientes:
+a) Depósito de dinero o valores públicos.
+b) Aval o fianza de carácter solidario de entidad de crédito o sociedad de garantía reciproca o certificado de seguro de caución.
+c) Fianza personal y solidaria de otros contribuyentes de reconocida solvencia para los supuestos que se establezcan en la normativa tributaria.
+3. Cuando el interesado no pueda aportar las garantías necesarias para obtener la suspensión a que se refiere el apartado anterior, el órgano de recaudación podrá acordar la suspensión, previa prestación de otras garantías que se estimen suficientes.
+Se modifica por el art. 21.1 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 27
+
+Artículo 27. Efectos de la concesión o de la denegación de la suspensión.
+1. La concesión de la suspensión tendrá efectos desde la fecha de la solicitud.
+2. La denegación de la suspensión producirá los siguientes efectos:
+a) Si en el momento de solicitarse la suspensión la deuda se encontrara en periodo voluntario de ingreso, con la notificación de su denegación se iniciará el plazo previsto por la normativa tributaria para el ingreso en periodo voluntario.
+De realizarse el ingreso en dicho plazo, procederá la liquidación de los intereses de demora devengados a partir del día siguiente al del vencimiento del plazo de ingreso en periodo voluntario hasta la fecha del ingreso realizado durante el plazo abierto con la notificación de la denegación. De no realizarse el ingreso, los intereses se liquidarán hasta la fecha de vencimiento de dicho plazo, sin perjuicio de los que puedan devengarse con posterioridad.
+b) Si en el momento de solicitarse la suspensión la deuda se encontrara en periodo ejecutivo, la notificación de la denegación de la suspensión implicará que deba iniciarse el procedimiento de apremio, de no haberse iniciado con anterioridad a dicha notificación.
+Se modifica por el art. 21.1 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Se modifica por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+## TÍTULO V
+
+Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón
+Se añade por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+ Su anteror numeración era Título II.
+
+### Artículo 28
+
+Artículo 28. Suspensión automática.
+1. La solicitud de suspensión automática con aportación de las garantías a que se refiere el artículo 26.2 de esta Ley, suspenderá el procedimiento de recaudación relativo al acto recurrido.
+2. Será competente para tramitar y resolver la solicitud de suspensión el órgano competente para la recaudación del acto objeto de la reclamación económico-administrativa.
+3. La solicitud de suspensión deberá ir necesariamente acompañada del documento en que se formalice la garantía aportada. Cuando la solicitud no se acompañe de las citadas garantías, aquella no surtirá efectos suspensivos y se tendrá por no presentada a todos los efectos. En este supuesto se procederá al archivo de la solicitud.
+Si la solicitud adjunta una garantía bastante, la suspensión se entenderá acordada desde la fecha de la solicitud.
+4. Cuando sea necesaria la subsanación de defectos del documento en que se formalice la garantía y aquellos hayan sido subsanados, el órgano competente de recaudación acordará la suspensión con efectos desde la solicitud.
+Cuando no se entiendan subsanados los defectos observados, procederá la denegación de la suspensión.
+5. Contra la denegación de la suspensión podrá interponerse un incidente en la reclamación económico-administrativa interpuesta contra el acto cuya suspensión se solicitó, en el plazo de quince días contados a partir del día siguiente a aquel en el que se notificó la denegación de la suspensión. La Resolución que ponga término al incidente no será susceptible de recurso.
+6. Si se hubiese solicitado la suspensión al amparo del artículo 23.2.a) y la garantía aportada no fuera una de las previstas en el artículo 26.2, se aplicará lo dispuesto en los artículos siguientes, según corresponda.
+Se modifica por el art. 21.1 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Se modifica por el art. 16.3 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+ Su anterior numeración era art. 13.
+
+### Artículo 29
+
+Artículo 29. Suspensión con prestación de otras garantías.
+1. La solicitud de suspensión con prestación de otras garantías a la que se refiere el artículo 25.2.b) suspenderá cautelarmente el procedimiento de recaudación relativo al acto recurrido si la deuda se encontrase en periodo voluntario en el momento de presentarse la solicitud.
+Si la deuda se encontrara en periodo ejecutivo, la solicitud de suspensión no impedirá la continuación de las actuaciones, sin perjuicio de que proceda la anulación de las efectuadas con posterioridad a la fecha de solicitud si la suspensión fuese concedida finalmente.
+2. La competencia para tramitar y resolver la solicitud corresponderá al órgano de recaudación competente.
+3. Cuando sea necesaria la subsanación de defectos y aquellos hayan sido subsanados, la suspensión acordada producirá efectos desde la solicitud.
+Cuando no se entiendan subsanados los defectos observados, procederá la denegación de la suspensión.
+La Resolución en la que se conceda la suspensión detallará la garantía que debe ser constituida y el plazo en que debe constituirse.
+4. Contra la denegación podrá interponerse un incidente en la reclamación económico-administrativa interpuesta contra el acto cuya suspensión se solicitó, en el plazo de quince días contados a partir del día siguiente a aquel en el que se notificó la denegación de la suspensión.
+La Resolución que ponga término al incidente no será susceptible de recurso.
+Se modifica por el art. 21.1 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Se modifica por el art. 16.3 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+ Su anterior numeración era art. 14.
+
+## CAPÍTULO II
+
+Procedimiento de suspensión por la junta de reclamaciones económico-administrativas
+Se añade por el art. 21.1 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+
+### Artículo 30
+
+Artículo 30. Suspensión por la Junta de Reclamaciones Económico-Administrativas.
+1. La Junta de Reclamaciones Económico-Administrativas será competente para tramitar y resolver las peticiones de suspensión con dispensa total o parcial de garantías que se fundamenten en perjuicios de difícil o imposible reparación, tanto para los supuestos de deuda tributaria o cantidad líquida como en aquellos otros supuestos de actos que no tengan por objeto una deuda tributaria o cantidad líquida.
+También será competente para tramitar y resolver la petición de suspensión que se fundamente en error aritmético, material o de hecho.
+2. Si la deuda se encontrara en periodo voluntario en el momento de formular la solicitud de suspensión, se suspenderá cautelarmente el procedimiento de recaudación mientras la Junta de Reclamaciones Económico-Administrativas decida sobre la admisión o no a trámite de la solicitud de suspensión.
+Si la deuda se encontrara en periodo ejecutivo, la solicitud de suspensión no impedirá la continuación de las actuaciones, sin perjuicio de que proceda la anulación de las efectuadas con posterioridad a la fecha de la solicitud si finalmente llegase a producirse la admisión a trámite.
+3. Cuando sea necesaria la subsanación pero no se entiendan subsanados los defectos observados, se denegará la suspensión con las consecuencias previstas en el apartado siguiente.
+4. La Junta de Reclamaciones Económico-Administrativas decidirá sobre la concesión o denegación de la suspensión, y la denegará cuando no pueda deducirse de la documentación incorporada al expediente la existencia de indicios de los perjuicios de difícil o imposible reparación o la existencia de error aritmético, material o de hecho.
+La concesión producirá efectos suspensivos desde la presentación de la solicitud y será notificada al interesado y al órgano de recaudación competente.
+La denegación de la suspensión deberá notificarse al interesado y comunicarse al órgano de recaudación competente con indicación de la fecha de notificación al interesado.
+Se modifica por el art. 21.1 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Se modifica por el art. 16.3 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+ Su anterior numeración era art. 15.
+
+### Artículo 31
+
+Artículo 31. Tramitación y resolución por la Junta de Reclamaciones Económico-Administrativas de la solicitud de suspensión.
+1. En los supuestos en los que se solicite la suspensión con dispensa parcial de garantías, la Junta de Reclamaciones Económico-Administrativas podrá solicitar al órgano que fuese competente para la recaudación del acto reclamado un informe sobre la suficiencia jurídica y económica de las garantías ofrecidas, así como sobre la existencia de otros bienes susceptibles de ser prestados como garantía.
+2. En los supuestos en los que se solicite la suspensión con dispensa total de garantías, la Junta de Reclamaciones Económico-Administrativas podrá solicitar al órgano que fuese competente para la recaudación del acto reclamado un informe sobre la existencia de otros bienes susceptibles de ser prestados como garantía.
+3. En los dos supuestos de los apartados anteriores, el informe deberá emitirse por el órgano que fuese competente para la recaudación del acto reclamado en el plazo máximo de un mes.
+4. En los supuestos de suspensión con dispensa parcial, la Resolución especificará las garantías que deben constituirse y se notificará al interesado y al órgano de recaudación competente.
+5. Cuando se otorgue la suspensión con garantía parcial, esta deberá ser constituida ante el órgano competente para la recaudación del acto y se aplicará lo dispuesto en el artículo 29.
+Se modifica por el art. 21.1 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Se modifica por el art. 16.3 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+ Su anterior numeración era art. 16.
+
+## TÍTULO V
+
+Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón
+
+### Artículo 32
+
+Artículo 32. Competencias.
+El conocimiento y resolución de las reclamaciones económico-administrativas y del recurso extraordinario de revisión corresponden a la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón.
+Se modifica por el art. 21.2 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Su anterior numeración era art. 28.
+ Se modifica por el art. 16.3 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+ Su anterior numeración era art. 17.
+
+### Artículo 33
+
+Artículo 33. Composición.
+1. La Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón estará compuesta por un Presidente, dos Vocales y un Secretario, todos ellos con voz y voto.
+2. La Junta se adscribe al Departamento competente en materia de Hacienda.
+3. Se designará Presidente a alguno de los Directores generales del Departamento competente en materia de Hacienda.
+4. El nombramiento de los miembros de la Junta se realizará mediante Decreto del Gobierno de Aragón y, salvo en el caso del Presidente, los nombramientos deberán recaer en funcionarios del Grupo A que cuenten con especial capacidad técnica en procedimiento y gestión tributaria.
+5. El Presidente podrá convocar, a la sesión de la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón, a funcionarios que no sean Vocales, a fin de que informen sobre los extremos que se estimen convenientes, sin que puedan participar en las deliberaciones.
+Se modifica por el art. 21.2 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Su anterior numeración era art. 29.
+ Se modifica por el art. 16.3 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+ Su anterior numeración era art. 18.
+
+### Artículo 34
+
+Artículo 34. Presidente.
+1. Corresponde al Presidente de la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón la representación de la misma, la jefatura del personal adscrito, la convocatoria del órgano colegiado, la fijación del orden del día y la dirección y presidencia de las sesiones y deliberaciones, asumiendo todas las competencias no atribuidas especialmente a la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón o al Secretario.
+2. Sus funciones, en caso de ausencia, vacante o enfermedad, serán desempeñadas por quien el Presidente señale de los miembros de la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón.
+3. Anualmente, presentará al Consejero titular del Departamento al que está adscrita la Junta un estado acreditativo de las reclamaciones interpuestas, despachadas y pendientes, con expresión de las que lleven más de un año en tramitación, y las causas que justifiquen dicha demora.
+Se añade por el art. 21.2 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Su anterior numeración era art. 30.
+ Se deja sin contenido por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 35
+
+Artículo 35. Funciones del titular de la Secretaría de la Junta de Reclamaciones Económico-Administrativas.
+Corresponden al titular de la Secretaría de la Junta de Reclamaciones Económico-Administrativas las siguientes funciones:
+a) Impulsar la tramitación de los expedientes y participar en las deliberaciones de la Junta.
+b) Recibir los escritos de iniciación de las reclamaciones económico-administrativas y recursos extraordinarios de revisión, exigiendo, en su caso, los poderes acreditativos de la representación y la subsanación de los defectos procedimentales en que los interesados pudieran incurrir.
+c) Documentar el expediente administrativo y ponerlo de manifiesto a los interesados para que, en su caso, formulen alegaciones, con proposición y aportación de pruebas, acordando o denegando su práctica; ordenar la acumulación de reclamaciones económico-administrativas; impulsar de oficio el procedimiento en sus distintos trámites; y guardar en el despacho de los expedientes el correspondiente orden de registro, salvo excepción debidamente justificada.
+d) Efectuar la convocatoria de las sesiones de la Junta.
+e) Levantar acta de las sesiones de la Junta y archivarlas ordenadamente.
+f) Notificar las Resoluciones a los interesados que hubieren promovido la correspondiente reclamación económico-administrativa o recurso extraordinario de revisión y a aquellos que hubieren comparecido en el procedimiento, y enviar copia de la Resolución a los órganos afectados por el expediente.
+g) Llevar un registro en el que se anotarán todas las solicitudes, documentos y comunicaciones recibidos o remitidos por la Junta de Reclamaciones Económico-Administrativas.
+Se añade por el art. 21.3 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Su anterior numeración era art. 31.
+ Se deja sin contenido por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 36
+
+Artículo 36. Vocales.
+1. Corresponderá a los vocales la redacción de las ponencias de resolución y de los fallos, una vez haya recaído acuerdo aprobatorio de la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón.
+2. Los Vocales están obligados a asistir a las sesiones de la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón, participando en las deliberaciones previas a la adopción de las resoluciones.
+3. Atendiendo al volumen de las reclamaciones, podrá adscribirse a la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón, para la preparación de las ponencias y funciones de secretaría, a los funcionarios que se consideren necesarios, por resolución del Consejero de Presidencia.
+Se añade por el art. 21.2 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Su anterior numeración era art. 32.
+ Se deja sin contenido por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 37
+
+Artículo 37. Adopción de acuerdos.
+1. Para la válida constitución de la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón, será necesaria la asistencia del Presidente, del Secretario y, de al menos, uno de sus Vocales.
+2. Los acuerdos serán adoptados por la mayoría de asistentes, y dirimirá los empates el voto del Presidente.
+3. Ninguno de los miembros de la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón podrá abstenerse de votar, y el que disienta de la mayoría podrá formular voto particular por escrito, en el plazo de cuarenta y ocho horas, que se incorporará al expediente y al libro de votos reservados, pero del que no podrá hacerse mención alguna en la resolución.
+4. De cada sesión que celebren los órganos colegiados se levantará acta, que contendrá la indicación de los asistentes, lugar y tiempo de la reunión, mención de los expedientes vistos, resultado de las votaciones y sentido de los acuerdos.
+5. Los miembros de la Junta que hayan intervenido en el acto administrativo objeto de la reclamación no podrán participar en las deliberaciones ni tendrán derecho a voto.
+Se añade por el art. 21.2 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Su anterior numeración era art. 33.
+ Se deja sin contenido por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículos 38 a 45
+
+Artículos 38 a 45.
+(Sin contenido).
+Se dejan sin contenido por el art. 16.2 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Artículo 38
+
+Artículo 38.
+Las resoluciones dictadas por la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón agota la vía administrativa y serán recurribles ante la jurisdicción contencioso-administrativa.
+
+## TÍTULO IV
+
+Suspensión de la ejecución del acto impugnado
+
+### Artículo 39
+
+Artículo 39.
+1. La presentación de reclamación económico-administrativa no suspenderá la ejecución de los actos impugnados, por los que continuarán realizándose las actuaciones necesarias para la efectiva recaudación de las liquidación contra las que se reclama, junto con las sanciones y recargos procedentes.
+2. La falta de pago de las liquidaciones no paralizará la reclamación interpuesta.
+
+### Artículo 40
+
+Artículo 40.
+1. Se suspenderá la ejecución del acto administrativo impugnado si, al interponerse la reclamación, se garantiza el total importe de la deuda tributaria o derecho impugnado, más el interés de demora de un año en el porcentaje señalado en la Ley General Tributaria y en la Ley de Presupuestos Generales del Estado y un 5 por 100 más, por si se apreciara manifiesta mala fe o temeridad.
+2. La garantía a constituir será puesta a disposición de la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón y podrá consistir en:
+a) Consignación en dinero efectivo o en valores públicos de la Comunidad Autónoma en la Caja de Depósitos del Departamento de Economía, Hacienda y Fomento del Gobierno de Aragón.
+b) Aval o fianza de carácter solidario, prestado por banco, caja de ahorros o cooperativa de crédito.
+c) Fianza personal y solidaria prestada por dos contribuyentes de reconocida solvencia, acreditada fehacientemente, sólo para débitos que no excedan de la cuantía que se fije en las normas de desarrollo de esta Ley.
+
+### Artículo 41
+
+Artículo 41.
+La Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón podrá suspender la ejecución del acto recurrido sin necesidad de garantía cuando aprecie que al dictarlo se ha podido incurrir en error aritmético, material o de hecho, y, excepcionalmente, cuando considere que la ejecución de las resoluciones administrativas sobre requerimientos y deberes de colaboración pudieran causar daños de difícil o imposible reparación.
+
+### Artículo 42
+
+Artículo 42.
+1. Interpuesta la reclamación económico-administrativa con petición de suspensión, se examinará la garantía ofrecida y, si fuera suficiente, se dictará por el Secretario providencia acordando dejar en suspenso la ejecución.
+2. Si no se acompañara la garantía o ésta fuera insuficiente, no se verá afectada la ejecución del acto. No obstante, cuando la garantía fuera insuficiente, se concederá al interesado el plazo de diez días para subsanar los defectos de que adoleciera, y, a su término, el Secretario acordará lo que proceda.
+
+### Artículo 43
+
+Artículo 43.
+Cuando se ingrese la deuda tributaria o el derecho impugnado por haber sido desestimada la reclamación interpuesta, se satisfarán intereses de demora en la cuantía establecida en la legislación estatal básica, por todo el tiempo que durara la suspensión, más una sanción del 5 por 100 si la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón apreciara temeridad o mala fe.
+
+### Artículo 44
+
+Artículo 44.
+Sin perjuicio de lo señalado en el artículo 34, último párrafo, la garantía constituida se devolverá cuando, con estimación de la reclamación, se acuerde la anulación del acto o, si se desestima, cuando se pague la deuda con los intereses devengados durante la suspensión.
+
+### Artículo 45
+
+Artículo 45.
+1. Las resoluciones de la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón que afecten a la suspensión de la ejecución de los actos impugnados, se comunicarán inmediatamente al órgano que dictó el acto y al órgano competente para la recaudación.
+2. Igualmente, se comunicará, en su caso, la interposición de recurso contencioso-administrativo contra la resolución dictada y cualquier pronunciamiento administrativo o judicial, que afecte a la ejecución del acto impugnado, del que tenga conocimiento la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón.
+
+### Disposición adicional única
+
+Disposición adicional única. Procedimientos especiales de revisión.
+1. Los procedimientos especiales de revisión de los actos y actuaciones de aplicación de los tributos propios y los actos de imposición de sanciones tributarias se regirán por lo dispuesto en la Ley General Tributaria y en el Reglamento general en materia de revisión en vía administrativa dictado en desarrollo de la citada Ley, así como en sus normas complementarias.
+2. La revisión de actos susceptibles de ser declarados nulos de pleno derecho, cuando hayan puesto fin a la vía administrativa o no hayan sido impugnados en plazo, requerirá previo dictamen favorable del Consejo Consultivo de Aragón. La declaración de nulidad se realizará mediante Orden del Consejero titular del Departamento del que emane el acto o al que esté adscrito el organismo público que lo haya dictado.
+La resolución expresa o presunta o el acuerdo de inadmisión a trámite de las solicitudes de los interesados pondrán fin a la vía administrativa y serán susceptibles de impugnación ante la Jurisdicción Contencioso-Administrativa.
+3. La declaración de lesividad para el interés público por parte de la Administración Tributaria de sus actos y resoluciones favorables a los interesados que incurran en cualquier infracción del ordenamiento jurídico, a efectos de su impugnación ante la Jurisdicción Contencioso-Administrativa, se efectuará mediante Orden del Consejero titular del Departamento del que emane el acto o al que esté adscrito el organismo público que lo haya dictado.
+4. La revocación de los actos y resoluciones por parte de la Administración Tributaria en beneficio de los interesados, requerirá el informe del Servicio que tenga asignadas las funciones de asesoramiento jurídico en materia tributaria. La resolución se realizará mediante Orden del Consejero titular del Departamento competente, siempre que éste no haya dictado el acto revocado. En otro caso, el órgano competente para declararla será siempre distinto y superior del órgano que dictó el acto.
+La resolución que se dicte en este procedimiento pondrá fin a la vía administrativa y será susceptible de impugnación ante la Jurisdicción Contencioso-Administrativa.
+5. La rectificación de errores materiales, de hecho o aritméticos será efectuada, en cualquier momento antes del transcurso del plazo de prescripción, por los órganos competentes para instruir o resolver los correspondientes procedimientos.
+La resolución que se dicte en este procedimiento será susceptible de recurso de reposición y de reclamación económico-administrativa.
+Se añade por el art. 16.4 de Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En el plazo de un mes desde la entrada en vigor de esta Ley, se procederá al nombramiento de los miembros de la Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Supletoriamente, serán de aplicación la Ley 11/1996, de 30 de diciembre, de la Administración de la Comunidad Autónoma de Aragón, la Ley General Tributaria y normas que la complementan o desarrollen y la Ley 39/1980, de 5 de julio, de Procedimiento de Reclamaciones Económico-Administrativas y su Reglamento.
+
+### Disposición transitoria
+
+Disposición transitoria.
+(Derogada).
+Se deroga por la disposición derogatoria única.2.a) de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Queda derogada la Ley 5/1985, de 20 de noviembre, reguladora del Tribunal Económico-Administrativo de la Administración Autónoma de Aragón, y disposiciones complementarias que se han dictado para su ejecución.
+
+### Disposición final
+
+Disposición final.
+El Gobierno de Aragón queda autorizado para dictar las disposiciones reglamentarias necesarias en desarrollo de esta Ley.
+
+### Disposición final única
+
+Disposición final única. Habilitaciones.
+1. El Gobierno de Aragón podrá dictar las disposiciones reglamentarias necesarias para el desarrollo de la presente ley.
+2. No obstante, el Consejero competente en materia de hacienda podrá dictar, mediante Orden, las disposiciones necesarias para el desarrollo y ejecución de los Títulos IV y V de esta ley.
+Se añade por el art. 21.4 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+
+### [firma]
+
+Así lo dispongo a los efectos del artículo 9.1 de la Constitución y los correspondientes del Estatuto de Autonomía de Aragón.
+Zaragoza, 16 de febrero de 1998.
+SANTIAGO LANZUELA MARINA
+Presidente

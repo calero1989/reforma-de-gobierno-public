@@ -1,0 +1,467 @@
+# Ley 5/1996, de 10 de enero, de creación de determinadas entidades de derecho público.
+
+- Identificador BOE: `BOE-A-1996-754`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1996-754
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+Por Ley de 25 de septiembre de 1941, se creó el Instituto Nacional de Industria (INI), como entidad de derecho público, cuyo objetivo era «propulsar y financiar, en servicio de la Nación, la creación y resurgimiento de nuestras industrias...». El INI se configuró como un instrumento de apoyo a la política de autarquía económica impuesta por un Estado autoritario. El Instituto debía actuar en aquellos sectores en los que estaba ausente el empresario privado. Se adoptó, pues, un modelo de iniciativa pública basado en el principio de subsidiariedad que, combinado, posteriormente, con la nacionalización de empresas privadas no rentables, contribuyó a un crecimiento, indiscriminado y heterogéneo, del sector público en España.
+Años más tarde, y aun manteniendo los principios básicos de esa concepción de la empresa pública, el desarrollo económico y social experimentado por España y la consiguiente apertura al exterior obligó a modificar, progresivamente, el régimen jurídico del INI para adaptarlo a la nueva situación. A ello, respondió el Decreto-ley 20/1970, de 24 de diciembre.
+La promulgación de la Constitución y, consiguientemente, el establecimiento de un Estado social y democrático de Derecho determina la superación del modelo anterior. A tal efecto, el texto constitucional reconoce, en su artículo 128, la iniciativa pública en la actividad económica. Se trata de un reconocimiento que trae como inevitable consecuencia, una reformulación del papel de la empresa pública. Esta nueva concepción de la intervención pública en la economía es impulsada, asimismo, por la entrada de España en las Comunidades Europeas en 1986. A partir de este momento, el sector público inicia una adaptación progresiva al derecho comunitario, cuyos ejes son la mejora de la gestión y la adaptación a un entorno más competitivo.
+Como consecuencia de este nuevo marco jurídico se hace precisa una modificación de las normas aplicables al Instituto Nacional de Industria: es la establecida en el artículo 123 de la Ley 37/1988, de 28 de diciembre, de Presupuestos Generales del Estado para 1989.
+Sin embargo, la diversidad de situaciones en que se encontraban las empresas públicas del INI y, por consiguiente, las diferentes estrategias que exigía su actuación, unido a la necesidad de mejorar la gestión, determinó la conveniencia de proceder a una racionalización de las participaciones accionarias de que el Instituto era titular, diferenciando aquellas sociedades que eran susceptibles de ser gestionadas con criterios empresariales de aquellas otras sujetas en su actuación a regímenes especiales, derivados de su particular situación. A tal fin se decidió separar del conjunto de participaciones industriales del INI las referidas a sociedades que, en el futuro, por las exigencias del mercado único europeo debían desarrollar sus actividades en régimen de libre competencia, agrupándolas en una sociedad anónima, participada por el INI, desvinculada de los Presupuestos Generales del Estado: «Teneo, Sociedad Anónima». En cambio, se mantuvo la participación directa del INI en aquellas sociedades sujetas a planes de reestructuración o reconversión, que operaban en actividades específicamente reguladas por la Comunidad Europea.
+Con anterioridad a esta reordenación de participaciones públicas industriales, la crisis energética de finales de los años setenta, así como la necesidad de coordinar la gestión de un importante sector económico impuso una diversificación de actividades que aconsejó, por su singularidad, la segregación del INI de aquellas entidades mercantiles cuya actividad se desarrollaba en el sector de los hidrocarburos. A tal efecto, y en virtud de la Ley 45/1981, de 28 de diciembre, se creó el Instituto Nacional de Hidrocarburos (INH) también como entidad de derecho público que sujeta sus actividades al derecho privado. Al INH se encomendó la gestión de las actividades empresariales públicas en materia de hidrocarburos.
+También en este sector ha tenido lugar una reordenación de actividades, motivada principalmente por el fin del monopolio público derivado de la entrada de España en la Comunidad Europea. Ello ha tenido como resultado la conformación de un grupo empresarial: «Repsol, Sociedad Anónima». El INH ha cumplido, por consiguiente, los objetivos para los que fue creado.
+La racionalización del sector público es, pues, un proceso continuo cuyo fin último no es otro que la obtención de mayor eficiencia, por lo que no resulta justificable la pervivencia de dos institutos que, en la actualidad, han acabado teniendo como función esencial la de ser tenedores de participaciones accionariales. Este objetivo de eficiencia también exige distinguir, funcionalmente, las actividades sometidas a una regulación comunitaria específica de aquellas otras que actúan en mercados de libre competencia. Lejos, pues, de volver a concepciones ya superadas, se pretende configurar un sector público menos diversificado, que concentre sus esfuerzos en grupos industriales potentes de titularidad nacional y, sobre todo, más competitivo. Porque un sector público rentable económicamente, también lo es socialmente. Y la rentabilidad social de la empresa pública exige adoptar cuantas medidas favorezcan el aumento de su eficiencia y competitividad.
+La consecución de estos objetivos hace necesario, por tanto, completar definitivamente la reordenación de participaciones industriales tanto en el ámbito del INI como del INH. Frente al criterio sectorial que ha guiado la actuación de ambas entidades hasta la fecha, se impone ahora un criterio basado, más que en el sector de actividad, en el marco jurídico aplicable a las empresas públicas, como determinante más natural de su forma jurídica de actuación.
+Se trata, por consiguiente, de establecer una nueva ordenación institucional que permitirá racionalizar, globalmente, la gestión de las participaciones industriales de titularidad pública, coherente con las modificaciones que han conducido a la configuración del grupo INI/TENEO. A este fin se crean dos entidades de derecho público: la Agencia Industrial del Estado y la Sociedad Estatal de Participaciones Industriales.
+La Agencia Industrial del Estado agrupará las participaciones públicas en las entidades mercantiles sujetas a planes de reestructuración o reconversión industrial, así como a regímenes especiales derivados de su particular situación. Es un Ente público de los previstos en el artículo 6.5 del texto refundido de la Ley General Presupuestaria, con el que se pretende que la gestión de esas entidades se realice en un marco de mayor autonomía y agilidad.
+Por su parte, las participaciones de titularidad pública en las restantes entidades mercantiles se transferirán a una entidad de derecho público de las previstas en el artículo 6.1.b) del texto refundido de la Ley General Presupuestaria, que adopta la denominación de «Sociedad Estatal de Participaciones Industriales». Esta Sociedad Estatal tiene como objeto la tenencia de las participaciones públicas en las sociedades que se adscriben a la misma.
+Esta nueva ordenación institucional tiene una especial trascendencia presupuestaria. Así, a la desvinculación de los Presupuestos Generales del Estado, ya producida, de importantes grupos empresariales que se transferirán a la Sociedad estatal, debe añadirse que la creación de la Agencia y de la Sociedad estatal liberará fondos públicos, ya que, por un lado, se prevé la asignación de los recursos obtenidos por la Sociedad a la amortización de la deuda generada por el Instituto Nacional de Industria; y, por otro, se impide que la Agencia pueda endeudarse en el cumplimiento de sus funciones.
+La filosofía que inspira la creación de ambas entidades se completa permitiendo que las empresas adscritas a la Agencia Industrial del Estado puedan ser transferidas a la Sociedad Estatal de Participaciones Industriales cuando garanticen de manera estable su viabilidad. No sería, sin embargo, coherente con esa filosofía la transferencia de empresas desde la Sociedad Estatal a la Agencia, por cuanto que ello pondría en cuestión los principios básicos de un modelo organizativo, abierto y flexible, necesario como fundamento de políticas que consoliden la rentabilidad de la empresa pública.
+La urgencia de la medida viene dada por la creación de este nuevo marco institucional, que tendrá un efecto positivo en la reducción del déficit público, uno de los objetivos prioritarios de la política del Gobierno, al amortizar en el horizonte temporal previsto una deuda generada por el INI y valorada, aproximadamente, en 700.000.000 de pesetas. Asimismo, conviene iniciar cuanto antes el proceso de constitución de las nuevas entidades, con las consiguientes transferencias de activos, participaciones sociales y de los medios que corresponda.
+Asimismo, procede eliminar cualquier incertidumbre que la adopción de esta medida pudiera suscitar en los mercados, afectando a la confianza de las instituciones financieras y de los inversores en importantes grupos empresariales con participación pública.
+En fin, la presente disposición afecta a las empresas integrantes de dichos grupos en cuestiones relativas a su futuro empresarial y a sus líneas de actuación en el ámbito de las reglas de la Comunidad Europea por lo que se requiere una actuación urgente que asegure y confirme la concordancia de los planteamientos empresariales con la normativa comunitaria.
+
+## TÍTULO I
+
+De la supresión de determinadas entidades de derecho público
+
+### Artículo 1
+
+Artículo 1. Supresión del Instituto Nacional de Industria y del Instituto Nacional de Hidrocarburos.
+Quedan suprimidas las entidades de derecho público Instituto Nacional de Industria e Instituto Nacional de Hidrocarburos, en la forma y con los efectos prevenidos por la disposición transitoria primera de esta Ley.
+
+## TÍTULO II
+
+De la Agencia Industrial del Estado
+(Suprimido)
+Se suprime el ente de Derecho público Agencia Industrial del Estado, por el art. 1 del Real Decreto-Ley 15/1997, de 5 de Septiembre. Ref. BOE-A-1997-19424
+
+### Artículo 2
+
+Artículo 2. Creación y objetivos.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+
+### Artículo 3
+
+Artículo 3. Funciones de la Agencia.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+ Se modifica por el art. 152.1 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 4
+
+Artículo 4. Régimen patrimonial.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+ Se modifica el párrafo segundo del apartado 1 por el art. 152.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 5
+
+Artículo 5. Sociedades participadas por la Agencia.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+ Se modifican los apartados 2 y 3 por el art. 152.3 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 6
+
+Artículo 6. Régimen presupuestario.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+ Se modifica el apartado 3 por el art. 152.4 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 7
+
+Artículo 7. Tributación.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+
+### Artículo 8
+
+Artículo 8. Honorarios y tarifas de fedatarios públicos.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+
+### Artículo 9
+
+Artículo 9. Organización y personal.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+
+## TÍTULO III
+
+De la Sociedad Estatal de Participaciones Industriales
+
+### Artículo 10
+
+Artículo 10. Creación y objetivos.
+1. Se crea, con la denominación de «Sociedad Estatal de Participaciones Industriales», una Sociedad Estatal de las recogidas en el artículo 6.1 b) del texto refundido de la Ley General Presupuestaria, aprobado por el Real Decreto legislativo 1091/1988, de 23 de septiembre.
+La Sociedad Estatal de Participaciones Industriales estará adscrita al Ministerio de Industria y Energía, el cual ejercerá el control de eficacia sobre su actividad.
+Dicha Sociedad Estatal tendrá personalidad jurídica propia y plena capacidad y se regirá por lo dispuesto en la presente Ley y las disposiciones que la desarrollen.
+2. Corresponden a la Sociedad Estatal de Participaciones Industriales los siguientes objetivos generales bajo la dependencia y supervisión del Ministerio de Industria y Energía:
+a) La obtención de mayor rentabilidad de las acciones y participaciones que se le adjudiquen, de acuerdo con las estrategias industriales de las sociedades participadas por la Sociedad Estatal.
+b) La fijación de criterios para una gestión de las acciones y participaciones que se le adjudiquen acorde con el interés público.
+c) La gestión y amortización de la deuda generada por el Instituto Nacional de Industria.
+d) La ejecución en el ámbito de las empresas de que sea titular, de las directrices del Gobierno en materia de modernización y reestructuración industrial, los regímenes especiales y derogaciones parciales de las normas comunitarias sobre competencia, de acuerdo con lo previsto en el Tratado de la Unión Europea.
+3. A la Sociedad Estatal se le transfieren todas las participaciones accionarias que sean de titularidad pública a la fecha de entrada en vigor de esta Ley, incluidas en el anexo II de la misma, en los términos previstos en el artículo 12.2 y en la disposición transitoria primera de la presente Ley.
+4. De conformidad con lo previsto en el artículo 43.3 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, podrán adscribirse a la Sociedad Estatal de Participaciones Industriales otras entidades de Derecho público respecto de las cuales ejercerá las funciones previstas en esta Ley. A las entidades de Derecho público adscritas no les será de aplicación la limitación establecida en el artículo 12.4 de esta Ley.
+Se añade el apartado 4 por el art. 62 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se añade la letra d) al apartado 2 por el art. 2.1 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+ Se modifica el apartado 2.c) por el art. 151.1 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 11
+
+Artículo 11. Funciones de la Sociedad Estatal.
+Corresponden a la Sociedad Estatal de Participaciones Industriales las siguientes funciones para el cumplimiento de los objetivos señalados en el artículo anterior:
+a) Impulsar y coordinar las actividades de las sociedades de las que sea titular.
+b) Fijar la estrategia y supervisar la planificación de las sociedades que controle en los términos establecidos en la legislación mercantil aplicable y en aquellas en cuyo capital participe mayoritariamente de manera directa o indirecta, así como llevar a cabo el seguimiento de su ejecución, velando por el cumplimiento de los objetivos que respectivamente tengan señalados. La gestión ordinaria de las sociedades participadas corresponderá a sus propios órganos de administración y serán controladas de conformidad con lo establecido por el texto refundido de la Ley General Presupuestaria y demás disposiciones o mecanismos de control aplicables.
+c) La tenencia, administración, adquisición y enajenación de sus acciones y participaciones sociales.
+d) La realización de todo tipo de operaciones financieras pasivas, cualquiera que sea la forma en que se instrumente, incluso la emisión de obligaciones convertibles o no, bonos, pagarés y otros títulos análogos, así como otros instrumentos de gestión de tesorería y deuda. Igualmente, podrá garantizar operaciones concertadas por empresas participadas directa o indirectamente. Todo ello sin perjuicio de la obtención de las autorizaciones administrativas que, en su caso, fueren necesarias.
+e) La realización respecto de las sociedades participadas, directa o indirectamente, de todo tipo de operaciones financieras activas y pasivas.
+f) Las demás funciones que, a partir de la entrada en vigor de este Real Decreto-ley, le atribuya el Gobierno en materia de modernización del sector público empresarial del Estado.
+Se modifica por el art. 2.2 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+
+### Artículo 12
+
+Artículo 12. Régimen jurídico y patrimonio.
+1. La Sociedad Estatal de Participaciones Industriales se regirá, en todas sus actuaciones, por el ordenamiento jurídico privado, civil, mercantil y laboral, sin perjuicio de las materias en las que le sea aplicable el texto refundido de la Ley General Presupuestaria.
+En materia de contratación, la Sociedad Estatal de Participaciones Industriales regirá su actividad contractual por el derecho privado, con sujeción a los principios de publicidad y concurrencia, sin que le sea de aplicación la Ley 13/1995, de 18 de mayo, de Contratos de las Administraciones Públicas.
+2. La citada Sociedad Estatal tendrá un patrimonio propio distinto al del Estado, constituido por el conjunto de bienes, derechos, obligaciones y las participaciones accionariales de las que sea titular.
+La Sociedad Estatal registrará en su contabilidad el conjunto de bienes, derechos, obligaciones y participaciones, por su valor en libros de las entidades transferidas a la fecha de transmisión de las mismas, calculado de acuerdo con los criterios del Plan General de Contabilidad.
+3. Los recursos de la Sociedad Estatal estarán integrados por:
+a) Los bienes y valores que constituyan su patrimonio y los productos y rentas del mismo.
+b) Los ingresos generados por el ejercicio de sus actividades.
+c) Los procedentes de los créditos, préstamos y demás operaciones financieras que pueda concertar.
+d) Las aportaciones efectuadas con cargo a los Presupuestos Generales del Estado.
+e) Cualquier otro que le sea atribuido o que adquiera en el ejercicio legítimo de su actividad.
+4. La Sociedad Estatal de Participaciones Industriales y las sociedades participadas mayoritariamente, directa o indirectamente, por ésta podrán percibir transferencias, subvenciones, avales, subrogaciones de deuda, ampliaciones de capital y cualquier otro tipo de aportaciones equivalentes con cargo a los Presupuestos Generales del Estado, de las Comunidades Autónomas o de las Corporaciones Locales.
+5. Requerirá la autorización previa del Gobierno, a propuesta del Ministerio de Industria y Energía, previo informe a la Comisión Delegada del Gobierno para Asuntos Económicos, la realización por la SEPI de los siguientes negocios jurídicos:
+a) La adquisición o venta de acciones o participaciones de que sea titular en el capital social de las empresas participadas, cuando la operación exceda de 1.000.000.000 de pesetas.
+b) La adquisición o enajenación de acciones, derechos de suscripción preferente u otros valores que incorporen un derecho de participación en el capital de sociedades cuyas acciones se negocien en bolsa de valores cuando, tratándose de sociedades no participadas previamente, la Sociedad Estatal y sus entidades participadas adquieran, dentro de los doce meses siguientes a la primera compra, participaciones representativas de más de un 10 por 100 del capital de la compañía.
+c) Los actos de adquisición y pérdida de la participación mayoritaria de la Sociedad Estatal en las sociedades participadas directa o indirectamente por ésta.
+d) Los actos que impliquen adquisición o venta por parte de la Sociedad Estatal de Participaciones Industriales de un 10 por ciento o más del capital de una empresa, deberán ser comunicados a las Cortes Generales, a través de su Oficina Presupuestaria que pondrá dicha información a disposición de los Diputados, Senadores y las Comisiones parlamentarias.
+6. Los recursos obtenidos por la Sociedad Estatal de Participaciones Industriales en el ejercicio de sus cometidos deberán ser destinados preferentemente, y sin perjuicio de las obligaciones derivadas de las disposiciones de la Ley de Presupuestos Generales del Estado para cada ejercicio, a atender los vencimientos del principal y de los intereses, comisiones y otros gastos de operaciones financieras formalizadas hasta el día 31 de julio de 1995, por parte de los Institutos Nacionales de Industria e Hidrocarburos, así como de las que pudieran generarse en virtud de lo dispuesto en la disposición transitoria segunda de esta Ley.
+7. Las deudas que SEPI contraiga en la captación de fondos en los mercados nacionales o extranjeros, mediante la emisión y colocación de valores de renta fija, podrán gozar frente a terceros de la garantía del Estado. Esta garantía se prestará en los mismos términos que para las obligaciones de la Hacienda Pública y hasta el importe máximo que, al respecto, establezca la Ley de Presupuestos Generales del Estado para cada ejercicio. Dicho importe máximo se referirá, en todo momento, al importe vivo acumulado de la deuda de SEPI garantizada por el Estado.
+Se modifica el apartado 5.d) por la disposición final 7.1 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se modifican los apartados 3 y 4 y se añade el 7 por el art. 1 de la Ley 20/2006, de 5 de junio. Ref. BOE-A-2006-9961
+ Se modifican los apartados 1, 2, 4 y 5 por el art. 2.3 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición adicional 2.
+ Se modifican los apartados 5.a) y 6 por el art. 151.2 y 3 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 13
+
+Artículo 13. Capacidad de endeudamiento.
+1. La Sociedad Estatal podrá realizar todo tipo de operaciones financieras, en la forma señalada en el artículo 11 anterior, a cuyos efectos si la deuda se instrumenta en emisiones de valores negociables será admitida de oficio a la negociación en las Bolsas de Valores y otros mercados organizados.
+No será de aplicación a las emisiones de la Sociedad Estatal de Participaciones Industriales el régimen establecido en la Ley 211/1964, de 24 de diciembre, sobre regulación de la emisión de obligaciones por sociedades que no hayan adoptado la forma de anónimas, asociaciones u otras personas jurídicas.
+En la representación de valores de la Sociedad Estatal de Participaciones Industriales, por medio de anotaciones en cuenta, la publicación de las características de la emisión en el «Boletín Oficial del Estado», sustituirá a la escritura pública, de conformidad con lo establecido en el párrafo cuarto del artículo 6 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, en relación con el artículo 101 de la Ley 31/1990, de 27 de diciembre.
+2. En su endeudamiento, la Sociedad Estatal se sujetará a los límites que pueda establecer, en su caso, para cada ejercicio la Ley de Presupuestos Generales del Estado, teniendo dicho límite el carácter de neto, y siendo efectivo al término del ejercicio, sin que con cargo al mismo se computen las variaciones de pasivo circulante derivadas de operaciones de tesorería concertadas con las entidades filiales y empresas en que participa, directa o indirectamente, en forma mayoritaria.
+3. Las operaciones activas y pasivas de crédito a corto plazo y de tesorería con las entidades filiales y empresas en las que la Sociedad Estatal participa directa o indirectamente de forma mayoritaria, se ajustarán al límite fijado en su presupuesto anual.
+4. Las sociedades participadas mayoritariamente, directa o indirectamente, por la Sociedad Estatal de Participaciones Industriales podrán emitir acciones rescatables en los términos previstos en los artículos 92 bis y 92 ter del Texto Refundido de la Ley de Sociedades Anónimas.
+Se añade el apartado 4 por el art. 2 de la Ley 20/2006, de 5 de junio. Ref. BOE-A-2006-9961
+
+### Artículo 14
+
+Artículo 14. Régimen contable, presupuestario y fiscal.
+1. El régimen presupuestario, la contabilidad y el control financiero de la Sociedad Estatal de Participaciones Industriales serán los que correspondan de acuerdo con la naturaleza que le atribuye el artículo 10 de la presente Ley, con la salvedad de lo establecido en este precepto y en las disposiciones que lo desarrollen.
+En particular, y por lo que a la contabilidad se refiere le será de aplicación a la Sociedad Estatal el Plan General de la Contabilidad.
+2. La Sociedad Estatal de Participaciones Industriales y las sociedades residentes en territorio español que formen parte de su grupo en el sentido de los artículos 42 y siguientes del Código de Comercio, podrán sujetarse al régimen de tributación consolidada del Impuesto sobre Sociedades en tanto no se haya amortizado íntegramente la deuda generada por el Instituto Nacional de Industria. Lo dispuesto en este apartado se aplicará sin perjuicio de lo señalado en la disposición transitoria de esta Ley.
+3. Las sociedades integrantes del grupo consolidado referido en el apartado anterior que dejen de pertenecer al mismo por cualquier causa con anterioridad a que sea íntegramente amortizada la deuda del Instituto Nacional de Industria, no tendrán derecho a compensar en sus futuras declaraciones independientes la parte de sus bases imponibles individuales con las que hubieran contribuido a formar las bases imponibles negativas del grupo pendiente de compensar a esa fecha, ni la parte de las deducciones de la cuota aportadas y pendientes de aplicar por el citado grupo, correspondiendo tal derecho al grupo consolidado. No obstante, tal limitación sólo se aplicará a aquellas sociedades que hayan tenido bases imponibles negativas generadas durante los períodos impositivos que pertenecieron al grupo.
+Aquellos subgrupos de sociedades que, como consecuencia de procesos de desinversión, dejen de pertenecer al grupo fiscal SEPI, podrán consolidar fiscalmente a partir del ejercicio siguiente a aquel en que se produjo el abandono del grupo si reúnen las demás condiciones exigidas por la legislación fiscal para ello. En este caso, los acuerdos tomados por las sociedades para acogerse al régimen del grupo de sociedades, así como la comunicación de los mismos a la Administración, se efectuará dentro de los tres meses siguientes al día en que se produjo la salida del grupo al que pertenecían.
+4. Todas las transmisiones patrimoniales, operaciones societarias y actos derivados, directa o indirectamente de la aplicación de este Real Decreto-ley e, incluso, las aportaciones de fondos o ampliaciones de capital, que se ejecuten en el futuro para la reestructuración financiera de las empresas participadas por la Sociedad Estatal de Participaciones Industriales, estarán exentos de cualquier tributo estatal, autonómico o local, sin que proceda, en este último caso, la compensación a que se refiere el artículo 9.2 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.
+5. Los honorarios profesionales de fedatarios públicos y registradores de la propiedad y mercantiles aplicables a las operaciones de constitución, transformación, fusión, disolución, ampliaciones o reducciones de capital y adquisición y venta de acciones, participaciones, bienes o derechos de cualquier tipo, efectuadas por la Sociedad Estatal de Participaciones Industriales o sociedades participadas mayoritariamente por ésta, se calcularán en la medida normal establecida en las disposiciones en vigor, cuando el valor de la operación no supere los 3.005,060522 euros. Para las superiores a 3.005,060522 euros se reducirán en un 50 por 100 por la parte que exceda de aquella cantidad, sin llegar a 150.253,026096 euros; al 30 por 100 para la que exceda de los 150.253,026096 euros, sin rebasar los 601.012,104384 euros, y al 20 por 100 a la que supere esta cifra.
+Se modifica el apartado 2 por el art. 3 de la Ley 20/2006, de 5 de junio. Ref. BOE-A-2006-9961
+ Se convierte a euros por Instrucción de 22 de mayo de 2002. Ref. BOE-A-2002-12290.
+ Se modifica el apartado 3, con efectos desde el 1 de enero de 1997, por la disposición adicional 48 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Se modifica el apartado 4 y se añade el 5 por el art. 2.4 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+ Se modifica por el art. 151.4 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 15
+
+Artículo 15. Organos rectores y personal.
+1. Los órganos rectores de la Sociedad serán el Presidente y el Consejo de Administración.
+2. El Presidente y el Vicepresidente de la Sociedad, que tendrán la condición de alto cargo, serán nombrados por el Gobierno mediante Real Decreto, a propuesta del Ministro de Hacienda y Función Pública. Su retribución, por todos los conceptos, será fijada por el Ministro de Hacienda y Función Pública.
+El Vicepresidente de la Sociedad sustituirá al Presidente en los casos de vacante, ausencia o enfermedad y ejercerá aquellas funciones que el Presidente o el Consejo le deleguen.
+3. El Consejo de Administración estará formado por el Presidente y el Vicepresidente de la Sociedad Estatal, y un máximo de 14 Consejeros nombrados por el Ministro de Hacienda y Función Pública.
+4. El personal de la sociedad estatal estará vinculado a la misma por una relación sujeta a las normas de derecho privado que correspondan.
+5. El personal de alta dirección se regirá por lo dispuesto en el Real Decreto 1382/1985, de 1 de agosto.
+En cualquier caso, no se pactarán indemnizaciones por cese o extinción de dicha relación que excedan de los máximos previstos por el Gobierno.
+Se modifican los apartados 2 y 3 por la disposición final 7 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-8
+ Se modifica el apartado 3 por el art. 2.5 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+ Se modifica el apartado 4 y se añade el 5 por el art. 151.5 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 16
+
+Artículo 16. Información parlamentaria.
+1. El Presidente de la Sociedad Estatal de Participaciones Industriales y de los de las sociedades participadas mayoritariamente por ésta informarán a las Comisiones del Congreso y del Senado correspondientes cuando sean requeridos para ello.
+2. La Sociedad Estatal de Participaciones Industriales y las empresas que la integran deberán remitir a las Cortes Generales, a través de su Oficina Presupuestaria, la misma información y en los mismos plazos que la que las sociedades que cotizan en Bolsa están obligadas a presentar ante la Comisión Nacional del Mercado de Valores. La Oficina pondrá dicha información a disposición de los Diputados, Senadores y las Comisiones parlamentarias.
+Se modifica el apartado 2 por la disposición final 7.2 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se modifica por el art. 2.6 del Real Decreto-Ley 15/1997, de 5 de septiembre. Ref. BOE-A-1997-19424
+
+### Disposición adicional única
+
+Disposición adicional única. Continuidad de situaciones jurídicas.
+1. De conformidad con lo previsto en la disposición adicional única 1, del Real Decreto-ley 5/1995, de 16 de junio, de creación de determinadas entidades de derecho público, la Agencia Industrial del Estado se entiende subrogada, desde el día 1 de agosto de 1995, en la titularidad de los bienes, obligaciones y derechos, de que fuera titular el Instituto Nacional de Industria, respecto de las sociedades incluidas en el anexo I de la presente Ley, sin perjuicio de lo previsto en el apartado 3 de la presente disposición.
+2. De conformidad con lo previsto en la disposición adicional única 2, del Real Decreto-ley 5/1995, de 16 de junio, de creación de determinadas entidades de derecho público, la Sociedad Estatal de Participaciones Industriales se entiende subrogada, desde el día 1 de agosto de 1995, en la titularidad de los bienes, obligaciones y derechos, aunque no estén vencidos, ni sean líquidos o exigibles, de que fueran titulares los Institutos Nacionales de Industria y de Hidrocarburos, respecto de las sociedades incluidas en el anexo II de esta Ley.
+3. De conformidad con lo previsto en la disposición adicional única 3 del Real Decreto-ley 5/1995, de 16 de junio, de creación de determinadas Entidades de Derecho Público, la Sociedad Estatal de Participaciones Industriales se entiende subrogada, desde la citada fecha, en todas las operaciones financieras formalizadas hasta el 31 de julio, otorgadas a esta fecha por cualquiera de las entidades extinguidas, que no estén comprendidas en el apartado 5 siguiente. Estas obligaciones mantendrán la garantía del Estado en los mismos términos que las de la Hacienda Pública.
+4. La Sociedad Estatal de Participaciones Industriales mantendrá los derechos adquiridos por el Instituto Nacional de Industria, especialmente los derivados del régimen de tributación consolidada en el Impuesto sobre Sociedades.
+5. De conformidad con lo previsto en la disposición adicional única 5, del Real Decreto-ley 5/1995, de 16 de junio, de creación de determinadas entidades de derecho público, el Tesoro se entiende subrogado en los avales pendientes a 31 de julio de 1995 y otorgados por el extinguido Instituto Nacional de Industria en favor de las sociedades cuyas acciones se adjudiquen a la Agencia Industrial del Estado.
+6. De conformidad con lo previsto en la disposición adicional única 6, del Real Decreto-ley 5/1995, de 16 de junio, de creación de determinadas entidades de derecho público, la Sociedad Estatal de Participaciones Industriales se entiende subrogada en la titularidad de los bienes, derechos y obligaciones no mencionados en los apartados anteriores correspondientes al Instituto Nacional de Industria y al Instituto Nacional de Hidrocarburos, respectivamente, a 31 de julio de 1995.
+Se modifica el apartado 3 por el art. 151.6 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Régimen jurídico aplicable al Instituto Nacional de Industria y al Instituto Nacional de Hidrocarburos hasta el 31 de julio de 1995.
+De conformidad con lo previsto en el Real Decreto-ley 5/1995, de 16 de junio, de creación de determinadas entidades de derecho público, el Instituto Nacional de Industria y el Instituto Nacional de Hidrocarburos han quedado extinguidos con fecha 31 de julio de 1995.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Régimen jurídico aplicable a la Agencia Industrial del Estado y a la Sociedad Estatal de Participaciones Industriales.
+1. A los efectos previstos por la Ley 41/1994, de 30 de diciembre, de Presupuestos Generales del Estado para 1995, la capacidad de aval reconocida al Instituto Nacional de Industria, por un límite máximo de 300.000 millones de pesetas, a que se refiere el artículo 49 de dicha disposición, en la parte que no hubiera sido utilizada por el Instituto Nacional de Industria hasta el 31 de julio de 1995, se entiende asumida, según se preveía en la disposición transitoria segunda 1, del Real Decreto-ley 5/1995, de 16 de junio, de creación de determinadas entidades de derecho público, por el Tesoro, que deberá destinarla, dentro de ese mismo límite no dispuesto, para atender las necesidades de las empresas integradas en la Agencia Industrial del Estado.
+2. A los efectos previstos por la Ley 41/1994, de 30 de diciembre, de Presupuestos Generales del Estado para 1995, la capacidad de aval reconocida al Instituto Nacional de Hidrocarburos, por un límite máximo de 150.000.000.000 de pesetas, a que se refiere el artículo 49 de dicha disposición, en la parte que no hubiera sido utilizada por el Instituto Nacional de Hidrocarburos hasta el 31 de julio de 1995, se entiende transferida, según se preveía en la disposición transitoria segunda 2, del Real Decreto-ley 5/1995, de 16 de junio, de creación de determinadas entidades de derecho público, a la Sociedad Estatal de Participaciones Industriales para atender las necesidades de las empresas integradas en dicha Sociedad. Dichos avales tendrán las mismas condiciones de garantía que las correspondientes al Instituto Nacional de Industria.
+3. De igual manera y durante el ejercicio de 1995, la Sociedad Estatal de Participaciones Industriales podrá endeudarse, dentro de los límites que para las operaciones de crédito autoriza el artículo 44 de la Ley 41/1994, en relación con su anexo III, por una cantidad equivalente a aquélla que no hubiera sido utilizada por el Instituto Nacional de Industria a 31 de julio de 1995. Dichas operaciones tendrán las mismas condiciones de garantía que las correspondientes al citado Instituto.
+4. El personal que, a la entrada en vigor de la presente Ley, venga prestando sus servicios en «Teneo, Sociedad Anónima», en las áreas que afecten a la competencia y funciones de la Agencia, podrá integrarse en la misma, en el plazo máximo de noventa días desde la constitución de dicha Agencia.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Pago de deudas tributarias y de cuotas sociales.
+Dentro del Plan de Competitividad conjunto AHV-Ensidesa y en el marco de la Decisión de la Comisión de la Unión Europea de 12 de abril de 1994, relativa a las ayudas que España tiene previsto conceder a la empresa pública siderúrgica, Corporación de la Siderurgia Integral (hoy denominada «AHV-Ensidesa Capital, Sociedad Anónima»), las deudas tributarias que «Altos Hornos de Vizcaya, Sociedad Anónima», y la «Empresa Nacional Siderúrgica, Sociedad Anónima», tengan pendientes a la entrada en vigor de la presente Ley se satisfarán en los términos establecidos en los aplazamientos que se hayan concedido por la Agencia Estatal de Administración Tributaria.
+Asimismo, las cuotas de Seguridad Social que dichas empresas tengan pendientes, a la entrada en vigor de la presente Ley, se satisfarán en los términos establecidos en los aplazamientos que se concedan por la Tesorería General de la Seguridad Social. Tanto en estos aplazamientos como en los concedidos por la Agencia Estatal de Administración Tributaria, no serán exigibles los intereses de demora ni los recargos que ya se hubiesen devengado.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+En la forma, plazo y con los efectos que resultan del artículo 1 y de la disposición transitoria primera de esta Ley y, en todo caso, con fecha 31 de julio de 1995, quedarán derogadas cuantas disposiciones se opongan a lo previsto en esta Ley y, en particular, las siguientes:
+Ley de 25 de septiembre de 1941, de Creación del Instituto Nacional de Industria.
+Decreto-ley 20/1970, de 24 de diciembre.
+Ley 45/1981, de 28 de diciembre, de Creación del Instituto Nacional de Hidrocarburos.
+Artículo 123 de la Ley 37/1988, de 28 de diciembre, de Presupuestos Generales del Estado para 1989.
+
+### Disposición final primera
+
+Disposición final primera. Presupuestos de Explotación y Capital.
+Se aprueban los Presupuestos de Explotación y Capital de la Agencia Industrial del Estado y de la Sociedad Estatal de Participaciones Industriales para el período comprendido entre el 31 de julio y el 31 de diciembre de 1995, que figuran en el anexo III de la presente Ley.
+Asimismo, se autoriza al Ministerio de Economía y Hacienda para realizar las transferencias de crédito que sean necesarias, con objeto de aplicar a la Agencia Industrial del Estado la parte proporcional de las consignaciones presupuestarias previstas para el ejercicio de 1995, en favor del Instituto Nacional de Industria.
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo normativo.
+El Gobierno, a propuesta del Ministro de Industria y Energía, dictará las disposiciones necesarias para el desarrollo y ejecución de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 10 de enero de 1996.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ
+
+## ANEXO I
+
+Participaciones accionarias, derechos y obligaciones de titularidad pública que se transfieren a la Agencia Industrial del Estado
+Empresas
+ Porcentaje
+ Titularidad
+ Número de acciones
+ División de Construcción Naval, integrada por las siguientes empresas:
+ Astilleros Españoles, S. A. (AESA)
+ 100
+ INI
+ 2.000.000
+ Astilleros y Talleres del Noroeste, S. A. (ASTANO)
+ 100
+ INI
+ 100.000
+ Hijos de J. Barreras, S. A. (BARRERAS)
+ 99,99
+ INI
+ 10.191.589
+ E. Nacional Sta. Bárbara Indust. Milit., S. A. (ENSB)
+ 100
+ INI
+ 1.000.000
+ E. Nacional Bazán Construcc. Naval. Milit., S. A. (BAZAN)
+ 100
+ INI
+ 50.648
+ 2.531.600
+ Hulleras del Norte, S. A. (HUNOSA)
+ 100
+ INI
+ 150.000
+ 750.000
+ Minas de Figaredo, S. A. (FIGAREDO)
+ 100
+ INI
+ 100.000
+ Productos Tubulares, S. A.
+ 100
+ INI
+ 100.000
+ Prerreducidos Integr. Suroeste España, S. A. (PRESUR)
+ 99,5
+ INI
+ 3.831.000
+ Sidenor, S. A.
+ 50
+ INI
+ 3.450.002
+ CSI Corporación Siderúrgica, S. A.
+ 50
+ INI
+ 5.000.000
+ AHV-Ensidesa Capital, S. A.
+ 50
+ INI
+ 26.803.000
+ Altos Hornos del Mediterráneo, S. A. (AHM)
+ 100
+ INI
+ 2.188.000
+ Potasas de Navarra, S. A. (sociedad en liquidación)
+ -
+ -
+ -
+Obligaciones y derechos a que se refiere la disposición adicional trigésima de la Ley 42/1994, acuerdo de Consejo de Ministros de 24 de marzo de 1995 y contrato de 24 de abril de 1995 suscrito entre Instituto Nacional de Industria y «Altos Hornos de Vizcaya, Sociedad Anónima», y «Empresa Nacional Siderúrgica, Sociedad Anónima».
+Obligaciones y Derechos a que se refiere la Ley de 11 de mayo de 1942, que creó la «Empresa Nacional Bazán de Construcciones Navales Militares, Sociedad Anónima», modificada por la Ley 45/1966, de 23 de julio, y disposiciones complementarias.
+Obligaciones y derechos a que se refiere la Ley 44/1959, de 30 de julio, sobre reorganización de la industria militar y disposiciones complementarias.
+
+## ANEXO II
+
+Participaciones accionarias de titularidad pública que se transfieren a la Sociedad Estatal de Participaciones Industriales
+Empresas
+ Porcentaje
+ Titularidad
+ Número de acciones
+ Repsol, S. A.
+ 21,00
+ INH
+ 63.002.859
+ Enagás, S. A.
+ 9,00
+ INH
+ 1.893.162
+ Sagane, S. A.
+ 91,00
+ INH
+ 273.000
+ Gas Natural, Sdg., S. A.
+ 3,81
+ INH
+ 1.423.520
+ Newcomar, S. L.
+ 10,00
+ INH
+ 22
+ Euroforum-Escorial
+ 0,22
+ INH
+ 4.546
+ Teneo
+ 100,00
+ INI
+ 81.304.100
+ INI Finance BV
+ 100,00
+ INI
+ 4.000
+ Newcomar, S. L.
+ 10,00
+ INI
+ 22
+ Diques del Atlántico, S. A. (DIATLSANSA)
+ 45,00
+ INI
+ 153.000
+ Fundación Laboral de Servicios Asistenciales del INI
+ –
+ INI
+ –
+
+## ANEXO III
+
+Presupuesto de capital y explotación de la Agencia Industrial del Estado y de la Sociedad Estatal de Participaciones Industriales
+Presupuesto de explotación de la Agencia Industrial del Estado
+(Millones de pesetas)
+Debe:
+ Gastos de personal
+ 275
+ Otros gastos de explotación
+ 125
+ Total debe
+ 400
+ Haber:
+ Pérdida de las actividades ordinarias
+ 400
+ Total haber
+ 400
+Presupuesto de capital de la Agencia Industrial del Estado
+(Millones de pesetas)
+Origen:
+ Recursos generados por las operaciones
+ (400)
+ Total origen de fondos
+ (400)
+ Aplicación:
+ Inversión material
+ 50
+ Variación del capital circulante
+ (450)
+ Total aplicación de fondos
+ (400)
+Presupuesto de explotación de la Sociedad Estatal de Participaciones Industriales
+(Millones de pesetas)
+Intereses
+ 9.176
+ Total ingresos
+ 9.176
+ Gastos de personal
+ 55
+ Otros gastos de explotación
+ 350
+ Gastos financieros
+ 33.312
+ Total gastos
+ 33.717
+ Resultado de explotación
+ (24.541)
+ Resultados extraordinarios
+ 41.154
+ Resultado
+ 16.613
+Presupuesto de capital de la Sociedad Estatal de Participaciones Industriales
+(Millones de pesetas)
+Reembolsos de préstamos de empresas
+ 6.906
+ Endeudamiento
+ 209.500
+ Autofinanciación
+ 16.613
+ Total origen aplicación
+ 233.019
+ Reembolso de deuda
+ 68.374
+ Aportaciones a empresas desinvertidas
+ 2.747
+ Inversión en gastos amortizables
+ 633
+ Variación del fondo de maniobra
+ 161.265
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que la presente ley proviene de la tramitación como proyecto de ley del Real Decreto-ley 5/1995, de 16 de junio. Ref. BOE-A-1995-14891

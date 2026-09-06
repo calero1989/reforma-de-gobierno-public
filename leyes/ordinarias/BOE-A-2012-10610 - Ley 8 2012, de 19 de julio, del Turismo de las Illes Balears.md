@@ -1,0 +1,2619 @@
+# Ley 8/2012, de 19 de julio, del Turismo de las Illes Balears.
+
+- Identificador BOE: `BOE-A-2012-10610`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-10610
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 48.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente ley
+EXPOSICIÓN DE MOTIVOS
+I
+En el artículo 148.1.18.ª de la Constitución Española se establece que las comunidades autónomas puedan asumir las competencias en materia de promoción y ordenación del turismo en su ámbito territorial.
+El artículo 24 del Estatuto de Autonomía de las Illes Balears determina que los poderes públicos de la comunidad autónoma reconocerán la actividad turística como elemento económico estratégico de las Illes Balears, estableciendo que el fomento y la ordenación de la actividad turística se deben llevar a cabo con el objetivo de hacerla compatible con el respeto al medio ambiente, al patrimonio cultural y al territorio, así como con políticas generales y sectoriales de fomento y ordenación económica que tengan como finalidad favorecer el crecimiento económico a medio y a largo plazo.
+Igualmente, el artículo 30 del Estatuto de Autonomía de las Illes Balears establece como competencia exclusiva de la comunidad autónoma en materia de turismo la ordenación y la planificación del sector turístico, la promoción turística, la información turística, las oficinas de promoción turística en el exterior, la regulación y la clasificación de las empresas y los establecimientos turísticos, y la regulación de las líneas públicas propias de apoyo y promoción del turismo. El mismo artículo le atribuye competencias exclusivas en materia de fomento del desarrollo económico en el territorio de la comunidad autónoma, conforme a las bases y la coordinación general de la actividad económica.
+Desde que el Real Decreto 3401/1983, de 23 de noviembre, aprobó el traspaso de las funciones y los servicios en materia de turismo del Estado a las Illes Balears, la comunidad autónoma de las Illes Balears ha venido ejerciendo esta competencia sin otras limitaciones que las facultades reservadas al Estado por la Constitución.
+En el ámbito de las competencias enunciadas se incluye, sin duda, la potestad legislativa en materia de turismo, que da fundamento a la aprobación de esta ley.
+El artículo 70 del Estatuto de Autonomía de las Illes Balears determina como competencias propias de los consejos insulares la información turística, la ordenación y la promoción turística. Sin embargo, los medios necesarios para el ejercicio de estas competencias no han sido transferidos totalmente a los consejos insulares, por lo cual algunas competencias son desarrolladas por el Gobierno de las Illes Balears a través de la consejería que tiene atribuidas las competencias en materia de turismo.
+II
+El desarrollo de la industria del sector turístico en las Illes Balears se caracteriza por el hecho de que en la década de los años sesenta se procede a la construcción de una gran parte de la planta de los diferentes establecimientos que constituyen nuestro sector turístico sin que hubiera una pormenorizada planificación urbanística, ni regulación aplicable al sector, incluso hasta bien entrados los años setenta. Dicha construcción se lleva a cabo en las Illes Balears de forma desordenada, sobre la base de una normativa que ha resultado insuficiente.
+Es en la década de los años ochenta cuando ya hay una cierta planificación urbanística y se contempla la construcción de todos los establecimientos propios del sector turístico como una industria.
+En los años noventa se produce una proliferación normativa y es cuando se empiezan a regular todo tipo de aspectos complementarios a la mera edificación. En esta década de los noventa se concluye con una ley general turística, que ha regido hasta ahora.
+Como consecuencia de este desarrollo desacorde con la normativa, se produce el hecho de que la modernización de la planta de alojamiento turístico desarrollada en los años noventa no ha sido constante, y parte de lo que ha constituido la oferta denominada complementaria o constituye la oferta de restauración y de ocio se encuentra atrapada por un ámbito normativo que no le permite emprender ninguna actuación rentable que pueda ser competitiva en los niveles de prestación de servicio que se exigen en el siglo XXI. Se puede decir que la gran problemática radica en la aplicación de la normativa actual en edificios y construcciones que no se construyeron para dar cumplimiento a la normativa vigente, y al mismo tiempo no se ha facilitado, por no haber pensado en términos de rentabilidad, la renovación completa o la reconversión de la planta de establecimientos de alojamiento turístico y del resto de establecimientos turísticos.
+La realidad de los últimos años nos ha demostrado que la industria turística balear, aun cuando se trata de un destino ampliamente consolidado, se encuentra en una situación de pérdida de competitividad que requiere la adopción de medidas que afronten el problema, que debe considerarse como estructural y no meramente coyuntural.
+Otros países del entorno mediterráneo como Turquía, Grecia, Croacia, Marruecos, etc., han apostado por el turismo como fuente de ingresos y han desarrollado zonas turísticas con importantes incentivos fiscales a la inversión, lo cual ha facilitado la construcción de una nueva planta que compite claramente y en situación ventajosa con la industria de las Illes Balears tanto en calidad, por el hecho de ser más moderna, como en rentabilidad, porque tiene una estructura de costes y unos márgenes de beneficio más atractivos para la inversión.
+Además, ha habido una gran concentración de empresas turísticas emisoras en los últimos años, lo cual ha provocado que el mercado emisor (operadores turísticos) se encuentre concentrado en tres o cuatro grupos importantes a escala europea, lo que les da una posición de oligopolio ante la cual el mercado receptivo o de destino tiene poca capacidad de actuación, y el turismo y sus condiciones vienen más bien impuestos por el ramo emisor.
+La escasa competitividad de la industria turística de las Illes Balears se ha visto agravada por el hecho de que durante años el cumplimiento de la normativa que afectaba al sector encarecía enormemente la explotación de la industria turística, en un escenario en el cual los costes subían y los ingresos descendían, con unas perspectivas cada vez más inciertas, lo que incentivaba poco a la inversión.
+Todo ello llevó a que, de manera generalizada, para frenar la disminución del margen de beneficios, no se llevaran a cabo inversiones para mejoras y modernización en los diferentes establecimientos, hecho que, en definitiva, se ha manifestado en una reducción de la calidad y la imagen de parte de la planta turística, sobre todo en aquellas zonas turísticas maduras, que han visto agravada su situación todavía más, lo que hace que se deban adoptar medidas de carácter estructural y que incentiven la inversión en el sector de la industria del turismo balear, con la finalidad de recuperar la competitividad que requiere la principal fuente de ingresos de las Illes.
+III
+Durante todos estos años no se puede obviar cómo ha evolucionado la política europea del turismo, y en este sentido hay que destacar que el Tratado de Lisboa, por el que se modifican el Tratado de la Unión Europea y el Tratado constitutivo de la Comunidad Europea, que se llevó a cabo en la capital portuguesa el 13 de diciembre de 2007 (DOUE C 306, 17-12-2007), dedica el título XXII al «Turismo», y su artículo 195-TFUE establece que «la Unión complementará la acción de los estados miembros en el sector turístico, en particular promoviendo la competitividad de las empresas de la Unión en este sector», y con este fin la Unión tendrá los objetivos de «fomentar la creación de un entorno favorable al desarrollo de las empresas en este sector» y de «propiciar la cooperación entre estados miembros, en particular mediante el intercambio de buenas prácticas». Asimismo, se prevé que se puedan establecer (por el Parlamento Europeo y el Consejo, mediante el procedimiento legislativo ordinario) las medidas específicas destinadas a complementar las acciones de los estados miembros para conseguir los objetivos señalados, pero excluyendo toda armonización de las disposiciones legales y reglamentarias de los estados miembros.
+Además, debe tenerse en cuenta que la Comisión Europea estima que la política europea del turismo necesita un nuevo impulso, al estar enfrentada a retos que piden respuestas concretas y esfuerzos de adaptación, para hacer del turismo europeo una industria competitiva, moderna, sostenible y responsable, determinando las prioridades que aportan un verdadero valor añadido europeo. Asimismo, la Comisión entiende que el éxito de esta estrategia dependerá del compromiso del conjunto de las partes interesadas y de su capacidad de trabajar juntas para aplicarla.
+De conformidad con los tratados y en línea con lo acordado en la Conferencia de alto nivel y la reunión ministerial informal celebradas en Madrid los días 14 y 15 de abril de 2010, la política europea de turismo tiene por objetivo principal fomentar la competitividad del sector, sin olvidar que, a largo plazo, la competitividad está estrechamente relacionada con la sostenibilidad del modo de desarrollo; objetivo claramente relacionado con la nueva estrategia económica de la Unión, «Europa 2020», y más concretamente con iniciativas emblemáticas en materia industrial, de innovación, de ámbito digital o nuevas competencias y empleos; y resaltando, por otra parte, que la elaboración de una política más activa en materia de turismo, basada en particular en el pleno ejercicio de las libertades garantizadas por los tratados, puede contribuir significativamente al relanzamiento del mercado único.
+Para alcanzar estos objetivos, las acciones en favor del turismo se han establecido en cuatro ejes: a) fomentar la competitividad del sector turístico en Europa; b) promover la diversificación de la oferta turística; c) promover el desarrollo de un turismo sostenible, responsable y de calidad; y d) consolidar la imagen y la visibilidad de Europa como conjunto de destinos sostenibles y de calidad.
+A todas estas líneas de actuación marcadas por la política europea del turismo se pretende dar cumplimiento mediante la presente ley.
+Todas estas líneas de actuación se deben entender en el marco de los principios de la simplificación administrativa y la dinamización de la economía que resultan de la transposición de la Directiva 2006/123/CE, relativa a los servicios de mercado interno de la Unión Europea, denominada Bolkestein, que se basa en la sustitución de la autorización previa por la declaración responsable y la comunicación previa.
+IV
+La crisis económica internacional ha agravado la situación del sector turístico, lo que ha hecho que en los dos últimos años la sociedad haya tomado conciencia de la gravedad de la situación por la que atraviesa la principal industria de las Illes Balears, y que los poderes públicos hayan adoptado medidas de carácter legislativo que eran necesarias pero que resultan insuficientes, dada la envergadura del problema estructural de la industria del turismo balear.
+En efecto, en un primer momento se aprobó la Ley 4/2010, de 16 de junio, de medidas urgentes para la inversión en las Illes Balears; posteriormente, la Ley 10/2010, de 27 de julio, de medidas urgentes relativas a determinadas infraestructuras y equipamientos de interés general en materia de ordenación territorial, urbanismo y de impulso a la inversión, normas que han sido complementadas con el Decreto 13/2011, de 25 de febrero, por el que se establecen las disposiciones generales para facilitar la libertad de establecimiento y de prestación de servicios turísticos, la regulación de la declaración responsable y la simplificación de los procedimientos administrativos en materia turística; y el Decreto 20/2011, de 18 de marzo, por el que se establecen las disposiciones generales de clasificación de la categoría de los establecimientos de alojamiento turístico en hotel, hotel-apartamento y apartamento turístico de las Illes Balears.
+Por las razones globales de cuanto se viene exponiendo, se entiende que es necesaria una reforma más profunda que la mera adaptación de la Ley 2/1999, de 24 de marzo, general turística de las Illes Balears, y que resulta conveniente una integración de la normativa reguladora del sector. Por ello, se promulga la presente Ley del turismo de las Illes Balears con derogación de la anterior.
+V
+El turismo se configura como la actividad que mayor repercusión, en términos de renta, empleo y actividad, genera en las Illes Balears, constituyendo, sin ninguna duda, el principal recurso de estas islas y que por ello debe estar en constante transformación, innovación y desarrollo.
+La fuerte competencia internacional, en un escenario económico marcado por la globalización, que comprende la actividad turística, así como las nuevas tecnologías y las redes sociales aplicadas a las actividades productivas, y concretamente al turismo, requiere prestar mucha más atención al concepto de un turista mucho más exigente, más autónomo a la hora de confeccionar sus viajes y más interesado en la búsqueda de experiencias enriquecedoras. Por ello se deben posibilitar fórmulas que desarrollen al máximo las oportunidades que pueden ofrecer los recursos turísticos de las Illes Balears.
+En este escenario, es básico incentivar el desarrollo de modelos innovadores, creativos, competitivos, modernos, flexibles y sostenibles, que hagan atractiva la inversión en la industria del sector turístico, tan necesaria para la reconversión de un modelo que ha quedado obsoleto y que a su vez dinamice la economía de las Illes Balears.
+Sobre esta base es imprescindible afrontar retos con una perspectiva de altura de miras, a largo plazo, y con una cultura basada en el reconocimiento del desarrollo sostenible, la innovación, la calidad, la creatividad y la responsabilidad.
+La presente ley pretende abordar el problema de la estacionalidad apostando por la calidad, la innovación y la investigación, aprovechando los valores de una oferta turística diferenciada, dando cabida a nuevas fórmulas de explotación, en las que la creatividad, la calidad y la excelencia en el servicio marquen la diferencia frente a otros destinos turísticos, y recuperando para las Illes Balears el reconocimiento como destino turístico de referencia internacional.
+Igualmente, la presente ley apuesta por la cooperación entre las distintas administraciones de la comunidad autónoma de las Illes Balears, así como con los agentes sociales de mayor representatividad del sector, de forma que permite un marco normativo que haga posible la reconversión de la industria turística balear.
+Sin ninguna duda, uno de los pilares de la presente ley lo constituyen la ordenación, el fomento y la promoción del turismo, mediante la planificación, la formación, la innovación constante y la inversión en la reconversión y la rehabilitación de zonas turísticas saturadas o maduras, y por ello impone la modernización permanente y el control de la calidad.
+VI
+La presente ley se estructura en un título preliminar, dedicado a las disposiciones generales, y en cinco títulos. El título I se refiere a las competencias y la organización administrativa; el título II, a los derechos y deberes de los usuarios de los servicios turísticos y de las empresas turísticas; el título III, a la ordenación de la actividad turística; el título IV, al fomento y la promoción del turismo; y el título V, al control de la calidad turística.
+El título preliminar contiene disposiciones generales que deben tenerse en cuenta tanto para determinar cuál es el objeto y el ámbito de aplicación de la ley como para fijar cuáles son los principios y la finalidad que la inspiran y que deben tenerse en consideración para su interpretación.
+Igualmente incorpora el título preliminar un conjunto de definiciones que pretenden dar claridad a conceptos constantemente empleados por la ley y que en todo caso deben ser entendidos en un sentido amplio y no restrictivo.
+Se hace hincapié también en la ordenación de la oferta turística fijando tanto los planes de intervención en ámbitos turísticos como los instrumentos apropiados para ello y que vienen a sustituir los planes de ordenación de la oferta turística.
+Se pone de relieve la necesidad de que los planes de intervención en los ámbitos turísticos estén absolutamente coordinados con los planes territoriales insulares de cada una de las Illes. Esta acción es la base de lo que debe ser el Plan integral de turismo de las Illes Balears, donde deben confluir las acciones en las materias siguientes: territorio, producto, calidad, inteligencia de mercados, promoción y formación.
+El título I de la ley se refiere a las competencias y a la organización administrativa, debiéndose destacar en este aspecto que, si bien el régimen competencial se ajusta a lo establecido por el Estatuto de Autonomía, lo cierto es que los medios necesarios para el ejercicio de todas las competencias en materia de turismo no han sido transferidos a los consejos insulares, por lo que, hasta que no se realice dicha transferencia, dichas competencias se seguirán ejerciendo por la consejería del Gobierno de las Illes Balears que tenga atribuida la competencia en materia de turismo.
+Como elemento innovador cabe destacar la Mesa municipal del turismo, cuyo objetivo es la coordinación, la consulta y el asesoramiento de los distintos municipios de las Illes Balears, a fin de que se pueda hacer una aplicación de las normas más uniforme, tratando de eliminar la inseguridad jurídica en este sector.
+El título II va dedicado a los derechos y deberes de los usuarios de servicios turísticos y de las empresas turísticas pretendiendo establecer un régimen claro, de fácil acceso y que dé seguridad a las relaciones comerciales entre las empresas turísticas y sus clientes, tratando de reducir al máximo las situaciones conflictivas entre ambos, lo que sin ninguna duda redunda en la buena imagen de oferta turística segura que deben ofrecer las Illes Balears como destino turístico de referencia y calidad. Específicamente se regulan en este título los efectos y las consecuencias de la sobrecontratación, que, aun cuando se puede entender que se produzca en una industria tan estacionalizada, no impide que se deban adoptar medidas para reducirla al máximo y que garanticen la solución a los problemas que genera.
+En el título III se regula la ordenación de la actividad turística, lo que constituye el título más amplio de la ley, ya que comprende el régimen de establecimiento de las empresas turísticas, sus registros, las actividades ilegales, el régimen de las empresas turísticas de alojamiento —haciendo especial alusión a nuevos modelos o fórmulas de explotación—, la novedad de las empresas turístico-residenciales, las empresas comercializadoras de estancias turísticas en viviendas, las empresas de restauración y de intermediación turística, las empresas de actividades turísticas de entretenimiento, recreo, deportivas, culturales o lúdicas, y las actividades de información, orientación y asistencia turística.
+En este título interesa destacar la creación de oficinas únicas de la administración turística en cada una de las Illes, dependientes de la administración con competencias de ordenación turística, que tienen como objetivo facilitar la relación del ciudadano con la administración turística a los efectos de que cualquier gestión o consulta se pueda realizar ante un único interlocutor administrativo. De esta manera se agilizan las gestiones a realizar ante la Administración y se aumenta la seguridad jurídica en las relaciones que afectan al tráfico jurídico administrativo entre las diferentes administraciones y los particulares o las empresas turísticas.
+Se recoge también en este título la regulación de la declaración responsable de inicio de actividad turística, dando cumplimiento en este aspecto a la Directiva 2006/123/CE del Parlamento Europeo, relativa a los servicios en el mercado interior, materia que ya estaba incorporada a la legislación autonómica.
+Especial referencia merece la regulación de las dispensas recogidas en el artículo 25 de la ley, que tiene por objeto facilitar el análisis particular de determinadas situaciones que, por la rigidez en la aplicación de las normas, pueden llevar a situaciones absurdas y sin sentido que van contra el principio de favorecer la inversión para una mayor competitividad de la industria turística, fomentando un desarrollo sostenible. En definitiva, no se trata más que de invocar la equidad para aquellos supuestos particulares que se puedan encontrar atrapados por una legislación excesivamente rígida.
+De igual modo se pretende facilitar los proyectos de marcado interés y notoria conveniencia por el atractivo que puedan suponer para la comunidad balear.
+En lo que se refiere a las empresas de alojamiento, la principal y genérica novedad de la presente ley es la flexibilización de las clases y formas en que las empresas pueden desarrollar la actividad turística de alojamiento.
+Se mantienen los principios de uso exclusivo y de unidad de explotación, pero flexibilizándolos para que no se puedan hacer interpretaciones que impidan determinados usos complementarios o secundarios que pueden ser enormemente convenientes a las empresas turísticas de alojamiento y, sobre todo, permitiendo nuevas fórmulas de explotación de los establecimientos de alojamiento que vienen reclamándose hace tiempo y que en otros países eminentemente turísticos ya están en funcionamiento.
+Una de las principales novedades de esta ley es la regulación de los establecimientos de alojamiento turístico coparticipado, compartido u otras formas análogas de explotación de alojamiento turístico, en el bien entendido de que se consideran fórmulas esenciales para atraer la inversión, contribuir a la desestacionalización, mejorar la calidad de los establecimientos y de los servicios prestados en ellos, quedando expresamente manifestado que estas formas de explotación son incompatibles con el uso residencial en un mismo establecimiento. Se considera que estas nuevas formas de explotación constituyen una oportunidad para facilitar la actualización de la planta hotelera, y que genera empleo, tanto por la mejora de servicio y los servicios complementarios que se desarrollan en torno a estas nuevas formas de explotación como por la ocupación que genera la propia actualización, modernización y reconversión de nuestra industria turística, además del que se genera por el alargamiento de la temporada turística.
+En la ley también se establece, como novedad, la compatibilidad en el mismo inmueble de diferentes tipos o grupos de establecimientos y la explotación conjunta de distintos establecimientos, y también se regula la pensión completa integral tratando de sustituir el concepto de «todo incluido», cuya falta de regulación ha ocasionado situaciones conflictivas en la oferta turística.
+No se incluyen novedades en el concepto, la clasificación y las categorías de los establecimientos hoteleros y los apartamentos turísticos con relación a los que ya venían recogidos en la normativa autonómica anterior, máxime cuando está vigente el reciente Decreto 20/2011, de 18 de marzo, por el cual se establecen las disposiciones generales de clasificación de la categoría de los establecimientos de alojamiento turístico en hotel, hotel-apartamento y apartamento turístico de las Illes Balears, que deberá adaptarse a las disposiciones de esta ley.
+En lo que se refiere a los establecimientos de alojamiento de turismo rural, las principales novedades consisten en la modificación de las superficies requeridas por los hoteles rurales y los agroturismos y, por otra parte, en la flexibilización para las ampliaciones y la utilización de construcciones existentes y de la misma antigüedad para la prestación de todo tipo de servicios de estos establecimientos. Igualmente se permiten este tipo de establecimientos en cualquier clase de suelo rústico con independencia de su grado de protección, sin que sea necesaria la declaración de interés general.
+Se recogen en la ley por primera vez los albergues, los refugios y las hospederías, que, si bien existían, en este punto había un vacío legal en la ley anterior.
+Como gran novedad, en el capítulo III del título III se regulan las empresas turístico-residenciales, que, si bien están ampliamente expandidas en otros países con gran reconocimiento como destinos vacacionales, no se han desarrollado en esta comunidad autónoma por la rigidez de la legislación autonómica anterior. Se trata de que aquellas empresas turísticas de alojamiento puedan prestar también los mismos servicios que prestan en sus establecimientos de alojamiento, y en determinadas circunstancias, a unidades de alojamiento residencial.
+En relación con las empresas comercializadoras de estancias turísticas en viviendas, la ley pretende integrar, con pequeñas modificaciones, la Ley 2/2005, de 22 de marzo, de comercialización de estancias turísticas en viviendas.
+Las empresas turísticas de restauración tienen un régimen muy similar al que tenían hasta ahora, si bien se ha flexibilizado el ejercicio de actividades complementarias suprimiendo la necesaria obtención de una licencia de actividades para cada uno de los servicios complementarios que se pretendían desarrollar, e igualmente se ha suprimido la distinción entre bar y cafetería, pasando a llamarse ambos establecimientos bar-cafetería.
+Las agencias de viajes mantienen el mismo régimen que tenían en la ley anterior; los guías de turismo pasan a tener una regulación más acorde con la Directiva 2006/123/CE, relativa a los servicios de mercado interior de la Unión Europea, mientras que sí que se ha ampliado el concepto y el ámbito de actuación de la anteriormente denominada oferta complementaria, que ahora pasa a denominarse empresas de actividades turísticas, de entretenimiento, recreo, deportivas, culturales o lúdicas.
+El título IV de la ley regula el fomento y la promoción del turismo, y establece como principios generales la mejora de la competitividad mediante el desarrollo de un turismo sostenible, la necesidad de la planificación de la promoción y la calidad turística, el fomento de la desestacionalización, la necesidad de investigación, desarrollo, innovación y formación continua en turismo, considerando Mallorca, Menorca, Ibiza y Formentera marcas turísticas y estableciendo la posibilidad de las declaraciones de interés turístico. Se hace especial énfasis en la aprobación de los diferentes planes de desarrollo turístico, tanto insulares como municipales, que deberán adaptarse al Plan integral o estratégico de las Illes Balears, que a su vez debe incorporar los ejes y las directrices básicas del Plan nacional integral de turismo de carácter estatal. Estos planes, que irán destinados a mejorar la imagen y la competitividad del destino final del usuario, se convierten en herramientas fundamentales para el reposicionamiento de Mallorca, Menorca, Ibiza y Formentera a escala internacional.
+El capítulo II del título IV regula la inversión, la reconversión y la rehabilitación de las zonas turísticas, constituyendo una de las grandes apuestas de esta ley para regenerar y modernizar determinadas zonas. Para ello se permite en determinados casos, y tras un análisis de la idoneidad y la oportunidad, el cambio de uso. Los temores a afrontar esta medida, que no supone la generalización del cambio de uso, han hecho que durante años determinadas zonas turísticas se fueran degradando y degenerando simplemente porque no se daba una solución factible en términos de rentabilidad a los propietarios de edificios abandonados que la Administración no puede adquirir. Por ello se entiende que se deben posibilitar actuaciones concretas, que sean racionales desde el punto de vista de planeamiento urbanístico y que permitan atraer inversiones que redunden en la mejora de zonas turísticas maduras, saturadas o degradadas.
+En el capítulo III se han integrado los planes de mejora de las infraestructuras y de los establecimientos turísticos que venían regulados en la Ley 2/1999, de 24 de marzo, general turística, y en determinados preceptos de la Ley 4/2010, de 16 de junio, de medidas urgentes para la inversión en las Illes Balears, flexibilizando el régimen para facilitar y hacer más atractiva la inversión.
+El régimen de bajas de los establecimientos está regulado en el capítulo IV del título IV, manteniéndose el sistema de baja temporal y definitiva. En lo que sí hay algunas innovaciones es tanto en las excepciones a la disposición general de la baja definitiva como requisito para el inicio de actividad o para la ampliación de plazas, como en todo lo que se refiere al régimen de los establecimientos dados de baja definitiva, donde claramente se flexibilizan las posibilidades de reapertura de estos establecimientos que aumentan de categoría, superan los planes de modernización y, en definitiva, atraen la inversión mejorando la competitividad y generando empleo.
+Por último, el título V de la ley se refiere al control de la calidad turística, que contiene el régimen de la inspección turística, la tipificación de infracciones y sanciones, el procedimiento sancionador y el registro de infracciones.
+Se quiere destacar en este título el endurecimiento de las sanciones y la adopción de medidas contra la oferta ilegal, como son la colaboración y la transmisión de información de administraciones implicadas que detecten casos de oferta ilegal, así como los límites que se imponen para la gradación de las sanciones impuestas a infracciones por la comercialización de oferta ilegal.
+Entre las disposiciones que quedan derogadas interesa destacar los planes de ordenación de la oferta turística, que deberán ser sustituidos por los planes de intervención en ámbitos turísticos a que se refiere el artículo 5 de la presente ley. La razón de su derogación estriba en que, además de obsoletos, al implantarlos en los distintos planeamientos locales, han tenido un cumplimiento extremadamente bajo y una efectividad prácticamente nula. Además, la mayoría de parámetros recogidos en ellos están incluidos en los diferentes planes territoriales insulares.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y finalidad de la ley.
+1. El objeto de esta ley es la ordenación, la planificación, la promoción, el fomento y la disciplina del turismo y de la calidad en la prestación de servicios turísticos de las Illes Balears y el impulso del turismo sostenible y circular en el marco del Estatuto de Autonomía y del resto del ordenamiento jurídico.
+2. La presente ley tiene por finalidad:
+a) Impulsar el turismo sostenible como el principal sector estratégico de la economía de las Illes Balears, generador de empleo y de desarrollo económico.
+b) Promocionar las Illes Balears como destino turístico de referencia en el mar Mediterráneo, atendiendo a su singularidad insular y su realidad cultural, medioambiental, económica y social, impulsando la desestacionalización y potenciando los valores propios de identidad de cada una de las Illes.
+c) Promocionar Mallorca, Menorca, Ibiza y Formentera como marcas turísticas, garantizándoles un tratamiento que asegure su máxima difusión interior y exterior.
+d) Mejorar la competitividad del sector turístico mediante la incorporación de criterios de ordenación y planificación, de innovación, de profesionalización, de especialización y formación de los recursos humanos y de garantía de la calidad turística, que mejoren la rentabilidad de la industria turística balear sin desatender la sostenibilidad y la máxima protección medioambiental.
+e) Erradicar la competencia desleal y la oferta ilegal o clandestina.
+f) Fomentar la investigación, el desarrollo y la innovación tecnológica como prioridades que impulsen el progreso del sector turístico en la comunidad autónoma de las Illes Balears.
+g) Defender y proteger a los usuarios de los servicios turísticos.
+h) Fomentar la diversificación de la oferta turística.
+i) Mejorar la accesibilidad de los recursos y los servicios turísticos.
+j) Proteger, conservar y difundir los recursos turísticos de acuerdo con los principios de desarrollo sostenible y de calidad medioambiental.
+k) Impulsar la circularidad en el turismo de las Illes Balears.
+l) Impulsar un impacto regenerativo en nuestro territorio y nuestra sociedad.
+m) Impulsar la cohesión social en el turismo de las Illes Balears.
+Se modifica por el art. 2.1 y 2 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica el apartado 1 y se añaden las letras k) y l) al apartado 2 por el art. 2.1 y 2 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+Las disposiciones de la presente ley serán de aplicación a:
+a) Las administraciones públicas, los organismos públicos, los organismos de naturaleza privada de titularidad pública, los consorcios y otras entidades del sector público que ejerzan su actividad en el territorio de la comunidad autónoma de las Illes Balears en materia de turismo, sin perjuicio de las competencias de la Administración General del Estado.
+b) Los usuarios de las actividades y los servicios turísticos.
+c) Las empresas turísticas, las entidades turísticas no empresariales, los establecimientos turísticos y los trabajadores empleados en cualquiera de ellos.
+d) Las profesiones turísticas y las actividades de intermediación turística.
+e) Cualquier otra persona, ente o actividad directa o indirectamente relacionada con el sector turístico.
+
+### Artículo 3
+
+Artículo 3. Conceptos y definiciones.
+A los efectos de la presente ley se entiende por:
+a) Turismo: las actividades que realizan las personas durante sus viajes y estancias en lugares distintos a los de su entorno habitual, cualquiera que sea su finalidad y por periodos temporales determinados. Incluye la combinación de actividades, servicios e industrias que completan la experiencia turística, tales como transporte, alojamiento, establecimientos de restauración, tiendas, espectáculos, oferta de entretenimiento, ocio y recreo y otras instalaciones para actividades diversas.
+b) Actividad turística: la destinada a proporcionar a los usuarios los servicios de alojamiento, restauración, intermediación, información, asistencia u otras actividades de entretenimiento, recreo o deportivas y la prestación de cualquier otro servicio relacionado con el turismo.
+c) Sector turístico: el conjunto de personas físicas o jurídicas que desarrollan alguna forma de actividad turística o participan en ella.
+d) Recursos turísticos: cualquier bien, valor, elemento o manifestación de la realidad física, geográfica, natural, social, económica o cultural de las Illes Balears que sea susceptible de generar flujos o corrientes turísticas con repercusión en la realidad económica de la colectividad.
+e) Administración turística: los órganos o las entidades de naturaleza pública con competencias específicas sobre el turismo, la actividad turística o los recursos turísticos.
+f) Empresa turística: cualquier persona física o jurídica que, en nombre propio, de manera habitual y con ánimo de lucro, se dedica a la prestación de algún servicio turístico o a la explotación de algún recurso o establecimiento turístico.
+g) Servicio turístico: la actividad que tiene por objeto atender algún interés o necesidad de los usuarios de actividades identificables por separado cuando se venden a consumidores y a usuarios y que no están necesariamente ligadas con otros productos y servicios en el desarrollo de la actividad turística.
+h) Establecimientos turísticos: el conjunto de bienes inmuebles y muebles que formando una unidad funcional autónoma está ordenado, dirigido y dispuesto por su titular para la adecuada prestación de uno o varios servicios turísticos.
+i) Trabajadores del sector turístico: aquellas personas que prestan sus servicios retribuidos por cuenta ajena para una empresa turística o entidad turística no empresarial.
+j) Usuarios de servicios turísticos: las personas físicas que, estando o no desplazadas de su entorno habitual, son destinatarias finales de la prestación de servicios turísticos.
+k) Entidad turística no empresarial: aquella entidad que, sin ánimo de lucro, tiene por objeto promover de alguna forma el desarrollo del turismo o de actividades turísticas determinadas.
+l) Profesiones turísticas: las que realizan de manera habitual y retribuida actividades de orientación, información y asistencia en materia de turismo, así como todas aquellas que así se determinen reglamentariamente.
+m) Actividades de intermediación turística: aquellas que tienen por objeto el desarrollo de actividades de mediación u organización de servicios turísticos.
+n) Canales de oferta turística, por lo que se refiere a la comercialización de estancias turísticas en viviendas. Todo sistema mediante el cual las personas físicas o jurídicas, directamente o a través de terceros, comercializan, publicitan o facilitan, mediante enlace o alojamiento de contenidos, la reserva de estancias turísticas en viviendas, bien sea por plazos de días o semanas con el límite establecido en el artículo 50 de esta ley, bien sea con prestación de algunos de los servicios previstos en el artículo 51 de la misma.
+Entre otros, las agencias de viajes; las centrales de reserva; otras empresas de mediación u organización de servicios turísticos, incluidos los canales de intermediación a través de internet u otros sistemas de nuevas tecnologías de información y comunicación; las agencias inmobiliarias; así como la inserción de publicidad en medios de comunicación social, cualquiera que sea su tipo o soporte.
+o) Plazas adquiridas de manera onerosa: Aquellas plazas adquiridas de manera específica e independiente de un establecimiento que se dio de baja, o al organismo gestor de plazas o administración turística.
+p) Sobrecontratación: llevar a cabo la contratación de unidades o plazas de alojamiento que no puedan atenderse en las condiciones pactadas, en el sentido de que el alojamiento no pueda ponerse a disposición de los clientes en el establecimiento contratado.
+q) Sobreocupación: alojar en el establecimiento a más personas de las que permiten las plazas disponibles.
+Se añaden las letras p) y q) por el art. 2.3 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade la letra o) por el art. 1.1 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se añade la letra n) por el art. único.1 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 4
+
+Artículo 4. Principios y criterios de actuación administrativa.
+La política turística de las Illes Balears estará sometida a los siguientes principios y criterios de actuación:
+a) La ordenación de la oferta turística mediante la corrección de las deficiencias y los desequilibrios de la infraestructura turística, elevando la calidad de los servicios, las instalaciones, los establecimientos y los equipamientos.
+b) La armonización de la ordenación de la oferta turística y la normativa urbanística mediante la conservación del medio ambiente bajo los postulados del desarrollo sostenible.
+c) La configuración de un marco que potencie la mayor competitividad de las empresas turísticas y que sirva como instrumento en la lucha contra la competencia desleal u otras prácticas ilegales.
+d) La planificación de la oferta turística atendiendo las exigencias de la demanda actual y de futuro, impulsando la diversificación y la desestacionalización del sector.
+e) El impulso, el apoyo y la cooperación con los distintos agentes sociales y económicos del sector turístico.
+f) La consolidación, la estabilidad y el crecimiento del empleo en el sector turístico.
+g) La sensibilización de los ciudadanos sobre los beneficios del turismo y la importancia que tiene el trato respetuoso y amable con los turistas, así como la preservación de los valores y los recursos turísticos de las Illes Balears.
+h) El fomento de los estudios y las investigaciones relacionados con el sector turístico.
+i) La reducción de trámites y la simplificación de procedimientos como eje de la actuación de las administraciones turísticas.
+j) La formación, la investigación, el desarrollo y la innovación de todas las materias relacionadas con la industria turística.
+k) Adecuar la actividad turística a las recomendaciones de declaraciones internacionales en aquellos espacios de especial interés.
+
+### Artículo 5
+
+Artículo 5. Ordenación de la oferta turística.
+1. De conformidad con lo dispuesto en el capítulo III del título II de la Ley 14/2000, de 21 de diciembre, de ordenación territorial, los planes de intervención en ámbitos turísticos (PIAT) son planes directores sectoriales cuyo objeto es el de regular el planeamiento, la ejecución y la gestión de los sistemas generales de las infraestructuras, los equipamientos, los servicios y las actividades de explotación de recursos en el ámbito de la ordenación turística.
+2. Corresponderá a los consejos insulares respectivos, de acuerdo con el artículo 11.2 de la Ley 14/2000, de 21 de diciembre, de ordenación territorial, la elaboración y la aprobación de los planes de intervención en ámbitos turísticos (PIAT), que se coordinarán mediante los instrumentos de ordenación de carácter general y, más concretamente, mediante las directrices de ordenación territorial y los planes territoriales insulares.
+3. Los planes de intervención en ámbitos turísticos (PIAT) y, si procede, los planes territoriales insulares (PTI) pueden establecer la densidad global máxima de población, delimitar zonas y ámbitos turísticos y de protección, y fijar el tamaño y las características, así como establecer parámetros mínimos o máximos de superficie, volumetría, edificabilidad y equipamientos. También pueden delimitar las zonas turísticas saturadas o maduras, de acuerdo con los criterios establecidos en esta ley. Y asimismo, pueden señalar las excepciones que por la ubicación o las características especiales así lo aconsejen.
+Igualmente, pueden determinar estos parámetros respecto a las zonas residenciales lindantes con las turísticas.
+Asimismo, los PIAT y, si procede, los PTI, tienen que analizar, con respecto a cada una de las zonas, la incidencia de las figuras previstas en el artículo 37 y en el capítulo IV del título III de la presente ley. Estos instrumentos de ordenación territorial tienen que establecer los criterios para la delimitación de las zonas aptas para la comercialización de estancias turísticas en viviendas de uso residencial. Sobre la base de estos criterios, los ayuntamientos tienen que implantar las zonas aptas para la comercialización de estancias turísticas en viviendas residenciales incorporando la delimitación al planeamiento urbanístico respectivo mediante la correspondiente documentación cartográfica. Esta delimitación cartográfica no será considerada una modificación estructural del planeamiento.
+Los PIAT y, si procede, los PTI pueden determinar también el límite máximo por isla de plazas turísticas en alojamientos turísticos y el límite máximo de plazas en viviendas residenciales susceptibles de ser comercializadas turísticamente, en función de los recursos insulares existentes, las infraestructuras, las densidades de población y otros parámetros relevantes de su ámbito. En este supuesto, las bolsas de plazas se tienen que adaptar a esta cifra.
+Hasta que no se determine esta cifra o si no se considera necesario determinarla, el techo máximo de plazas por isla tiene que ser el determinado por las existentes legalmente más las que integren las bolsas gestionadas por los organismos gestores de plazas turísticas o las administraciones turísticas insulares, con las especificaciones previstas en el artículo 89 para la isla de Menorca.
+Los PIAT y, si procede, los PTI pueden determinar la existencia de dos bolsas de plazas: una relativa a alojamientos turísticos y la otra relativa a estancias turísticas en viviendas residenciales. Desde este momento las bolsas existentes se tienen que distribuir en el sentido indicado. Durante este período solamente existirá una bolsa de plazas común tanto para los alojamientos turísticos como para las estancias turísticas en viviendas residenciales.
+4. Estos instrumentos fijarán la ratio turística de acuerdo con las características especiales de las islas y de los municipios. Los municipios que no se hayan adaptado a los planes directores sectoriales de ordenación turística o, en su caso, a los planes territoriales insulares, deberán respetar una ratio mínima de 60 m2 de parcela por plaza hasta su adaptación a estos, y será exigible a los nuevos establecimientos de alojamiento turístico y a las ampliaciones del número de plazas de alojamiento de los ya existentes, excepto en las operaciones de reconversión.
+5. Los hoteles de ciudad, los establecimientos de turismo de interior y las hospederías están exonerados de la aplicación de la ratio turística a que se refiere el párrafo anterior.
+También lo están los albergues y refugios turísticos, si el desarrollo reglamentario habilita la posibilidad de apertura de estos.
+6. Los instrumentos de planeamiento general delimitarán zonas aptas para los usos turísticos y usos interrelacionados y se sujetarán a lo dispuesto en la presente ley.
+Se modifican los apartados 3 y 5 por el art. único.2 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+ Se modifican los apartados 3 y 5 por el art. 4 del Decreto-ley 3/2014, de 5 de diciembre. Ref. BOE-A-2015-1062
+
+## TÍTULO I
+
+Competencias y organización administrativa
+
+## CAPÍTULO I
+
+Competencias
+
+### Artículo 6
+
+Artículo 6. Competencias de la comunidad autónoma de las Illes Balears.
+1. De conformidad a lo dispuesto en los apartados 11, 21 y 47 del artículo 30, en el artículo 31.6 y en el apartado 3 del artículo 58 del Estatuto de Autonomía de las Illes Balears, corresponden a la Administración de la comunidad autónoma de las Illes Balears las siguientes competencias en relación con el turismo:
+a) La formulación y la aplicación de la política turística de la comunidad autónoma.
+b) La regulación de la actividad turística y de la prestación de servicios turísticos, incluyendo la fijación de los derechos y deberes de los usuarios de servicios turísticos.
+c) La potestad reglamentaria en materia turística dentro de su ámbito competencial.
+d) La cooperación en materia de turismo con otras administraciones públicas.
+e) (Derogada)
+f) La redacción del Plan integral de turismo.
+g) Cuantas otras competencias se le atribuyan en esta ley o en otra normativa de aplicación.
+2. En el ejercicio de las anteriores competencias, la Administración de la comunidad autónoma procurará, cuando sea preciso, la coordinación entre la Administración General del Estado, los consejos insulares y las entidades locales.
+Se deroga la letra e) del apartado 1 por la disposición derogatoria única.h) de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#dd
+ Téngase en cuenta que la letra e) ya fue derogada por el Decreto-ley 8/2025, de 5 de diciembre.
+ Se deroga la letra e) del apartado 1 por la disposición derogatoria única.h) del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#dd
+ Se deja sin efecto la derogación de la letra e) por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90242
+ Se deroga la letra e) del apartado 1 por la disposición derogatoria única.h) del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+
+### Artículo 7
+
+Artículo 7. Competencias de los consejos insulares.
+De conformidad a lo dispuesto en el artículo 70.3 del Estatuto de Autonomía de las Illes Balears, corresponden a los consejos insulares de Mallorca, de Menorca, de Ibiza y de Formentera, en relación con su propio ámbito territorial, las siguientes competencias:
+a) La ordenación y la planificación turística mediante, entre otras, la elaboración de los planes de intervención correspondientes en ámbitos turísticos, planes territoriales insulares y planes de desarrollo turístico insular.
+b) La administración y la gestión de los recursos turísticos.
+c) La potestad reglamentaria en materia turística dentro de su ámbito competencial.
+d) La ordenación y la gestión del Registro insular de empresas, actividades y establecimientos turísticos.
+e) La promoción interna y externa y la protección de la imagen turística de la isla sobre la que ejerzan sus competencias, fijando los criterios, la regulación de las condiciones y la ejecución o el control de las líneas públicas de ayuda y promoción del turismo.
+f) La potenciación de aquellas medidas y actuaciones que posibiliten el desarrollo y la implantación de políticas de calidad turística en los destinos, los recursos, los servicios y las empresas turísticas de su ámbito territorial.
+g) La protección y la preservación de los recursos turísticos.
+h) El asesoramiento y el apoyo técnico a los municipios de su ámbito territorial en cualquier aspecto que mejore su competitividad turística.
+i) El desarrollo de la política de infraestructuras turísticas y la coordinación de las acciones que en la materia realicen los municipios.
+j) El impulso y la coordinación de la información turística.
+k) Las declaraciones de interés turístico insular.
+l) La concesión de premios y distinciones turísticas.
+m) La inspección y la sanción en materia de turismo en los términos establecidos en esta ley.
+n) Llevar a cabo, como autoridad administrativa competente en materia de turismo, todas las actuaciones a las cuales habilitan el Reglamento (UE) 2022/2065 del Parlamento Europeo y del Consejo, relativo al mercado único de servicios digitales, por el cual se modifica la Directiva 2000/31/CE; la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, y, con carácter general, el resto de normas relativas a los servicios de la sociedad de la información cuando se refieran a autoridad competente en materia de turismo en el ámbito insular.
+o) Ordenar el cese inmediato e indefinido de la actividad turística realizada en inmuebles de uso residencial, tras la constatación en el expediente oportuno de que esta actividad se realiza sin contar con el preceptivo título administrativo habilitante a estos efectos.
+p) Imponer las multas coercitivas correspondientes en los términos del artículo 128 bis de esta ley y de la normativa básica estatal de aplicación, en los casos en que los servicios de inspección detecten el incumplimiento de la orden referida a la letra inmediatamente anterior, con traslado a la Fiscalía en caso de que, después de la notificación de al menos dos liquidaciones, no se lleve a cabo el cese efectivo de la actividad.
+q) Todas las otras competencias relacionadas con el turismo que se le atribuyan en esta ley o en otra normativa aplicable.
+Se modifica la letra p) por la disposición final 4.1 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-4
+ Se añaden las letras n), o) y p), pasando la actual letra n) a ser la letra q) por el art. 2.1 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+
+### Artículo 8
+
+Artículo 8. Competencias de los ayuntamientos.
+Los municipios de la comunidad autónoma de las Illes Balears, en su ámbito territorial, tienen las siguientes competencias en materia de turismo:
+a) La protección y la conservación de los recursos turísticos, así como la adopción de medidas tendentes a su efectiva utilización y disfrute.
+b) La promoción turística del municipio en el contexto de la promoción de cada una de las Illes Balears.
+c) El fomento de la actividad turística en su término municipal.
+d) La colaboración en materia de turismo con otras administraciones públicas.
+e) Las declaraciones de interés turístico municipal.
+f) La aprobación de los planes de desarrollo turístico municipal.
+g) Cualesquiera otras competencias que les sean atribuidas por ésta u otra ley, transferidas o delegadas de acuerdo con lo preceptuado en la legislación de régimen local.
+
+### Artículo 9
+
+Artículo 9. Relaciones interadministrativas.
+Las distintas administraciones de la comunidad autónoma con competencias en materia de turismo, dentro del ámbito de su autonomía, se ajustarán en sus relaciones recíprocas a los principios de información mutua, coordinación, colaboración, cooperación, con respecto a los ámbitos competenciales respectivos y ponderación de los intereses públicos implicados, primando la eficacia y la eficiencia administrativas.
+En aplicación de tales principios se podrán utilizar las técnicas previstas legalmente y, en especial, la suscripción de convenios y la celebración de conferencias sectoriales, la creación de comisiones interadministrativas o interinsulares, la creación de consorcios y la elaboración de instrumentos de planificación, especialmente en la redacción de los planes de intervención en ámbitos turísticos.
+
+## CAPÍTULO II
+
+Organización administrativa
+
+### Artículo 10
+
+Artículo 10. Organización de la administración turística.
+1. La Administración de la comunidad autónoma ejercerá sus competencias en materia de turismo a través de la consejería que las tenga atribuidas, sin perjuicio de las que correspondan al Consejo de Gobierno o a otras administraciones públicas.
+2. La consejería competente en materia de turismo contará con los siguientes órganos y entes:
+a) El Consejo Asesor de Turismo de las Illes Balears.
+b) La Comisión Interdepartamental de Turismo.
+c) La Mesa Municipal de Turismo.
+d) Los consorcios turísticos autonómicos.
+e) Cualesquiera otros que se puedan crear.
+3. Los consejos insulares y los municipios ejercerán sus competencias en materia de turismo a través de los órganos que las tengan atribuidas y podrán contar con cualesquiera otros órganos y entes instrumentales que puedan crear.
+
+### Artículo 11
+
+Artículo 11. Consejo Asesor de Turismo de las Illes Balears.
+El Consejo Asesor de Turismo de las Illes Balears es un órgano colegiado y consultivo de la administración turística del Gobierno de las Illes Balears, con las funciones, la composición y el régimen de funcionamiento que se determinen reglamentariamente. Entre sus miembros figurarán necesariamente representantes de los agentes sociales y del sector económico-empresarial, así como de los consejos insulares, de los ayuntamientos y de otros grupos o entidades de interés no productivos directa o indirectamente ligados con el turismo.
+
+### Artículo 12
+
+Artículo 12. Comisión Interdepartamental de Turismo.
+1. La Comisión Interdepartamental de Turismo es el órgano de coordinación y consulta interna del Gobierno de las Illes Balears en las materias con incidencia o repercusión en el sector turístico.
+2. La comisión actuará bajo la presidencia del presidente del Gobierno de las Illes Balears y la vicepresidencia del titular de la consejería que tenga atribuidas las competencias en materia de turismo, y en ella estarán representadas al menos las distintas consejerías cuyas materias tengan relación directa o indirecta con la ordenación, la promoción o la actividad turística.
+3. La Comisión Interdepartamental de Turismo tendrá la composición, las competencias y las funciones que se determinen reglamentariamente.
+
+### Artículo 13
+
+Artículo 13. La Mesa Municipal de Turismo.
+1. La Mesa Municipal de Turismo es el órgano de coordinación, debate, consulta y asesoramiento para facilitar la cooperación entre el Gobierno de las Illes Balears y los distintos municipios de las Illes Balears.
+2. La Mesa Municipal de Turismo actuará bajo la presidencia del presidente del Gobierno de las Illes Balears y la vicepresidencia del titular de la consejería competente en materia de turismo, y en ella estarán representados los consejos insulares y todos los municipios de las Illes Balears.
+3. La Mesa Municipal de Turismo tiene los siguientes objetivos:
+a) La planificación conjunta de la política turística de las Illes Balears.
+b) Facilitar y agilizar la coordinación de la gestión turística de los municipios.
+c) Optimizar los recursos.
+d) Mejorar la posición de las Illes Balears como destino turístico.
+e) Incrementar el nivel de calidad del destino turístico y renovar la imagen exterior de las Illes.
+f) Agilizar la tramitación administrativa para fomentar el desarrollo y la competitividad del sector turístico.
+4. Reglamentariamente se establecerá su estructura, su régimen de funcionamiento, su composición y sus funciones.
+5. Cada consejo insular podrá crear otra mesa municipal de turismo en su ámbito territorial.
+
+### Artículo 14
+
+Artículo 14. Los consorcios turísticos.
+Los consorcios turísticos son entes de encuentro, coordinación y trabajo en común de diferentes administraciones o entidades públicas o privadas, sin ánimo de lucro, del sector turístico. Tendrán personalidad jurídica propia y podrán ejecutar las competencias de turismo que las entidades públicas consorciadas determinen con sujeción a la legislación vigente.
+
+### Artículo 14 bis
+
+Artículo 14 bis. Comisión interinsular de Coordinación de la Ordenación Turística.
+1. Se crea la Comisión Interinsular de Coordinación de la Ordenación Turística, adscrita a la consejería competente en materia de turismo del Gobierno de las Illes Balears, que tiene como finalidad unificar los criterios de aplicación de la normativa turística vigente.
+2. La Comisión está compuesta por los miembros siguientes:
+a) El consejero o consejera competente en materia de turismo de Gobierno de las Illes Balears, que es el presidente o presidenta de la Comisión.
+b) Los consejeros o consejeras competentes en materia de turismo de cada uno de los cuatro consejos insulares.
+c) El secretario o secretaria general de la consejería competente en materia de turismo del Gobierno de las Illes Balears, que tiene que ejercer las funciones de secretario o secretaria de la Comisión, sin derecho a voto.
+3. La Comisión se tiene que reunir, como mínimo, una vez el año y cuando lo solicite al menos una de las instituciones representadas o así lo determine el presidente o presidenta.
+4. Los miembros de la Comisión pueden delegar en otras personas la asistencia a las reuniones y también pueden asistir en compañía del personal técnico que consideren oportuno, el cual tiene voz pero no voto.
+5. La Comisión puede establecer sus normas de funcionamiento.
+Se añade por el art. 2.2 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+
+## TÍTULO II
+
+Derechos y deberes de los usuarios de los servicios turísticos y de las empresas turísticas
+
+## CAPÍTULO I
+
+Derechos y deberes de los usuarios de los servicios turísticos
+
+### Artículo 15
+
+Artículo 15. Derechos de los usuarios de los servicios turísticos.
+Los usuarios de los servicios turísticos, sin perjuicio de lo establecido en la normativa sobre defensa y protección de los consumidores y usuarios o cualquier otra que resulte de aplicación, tienen derecho a:
+a) Recibir información suficiente, veraz, comprensible, eficaz, objetiva, inequívoca y completa sobre el precio, las condiciones y las características de los bienes y los servicios turísticos que se ofrecen antes de su contratación.
+b) Obtener todos los documentos que acrediten los términos de la contratación de los servicios turísticos y sus justificantes de pago.
+c) Recibir los servicios turísticos y la calidad de estos de acuerdo con la categoría de la empresa, el servicio o el establecimiento contratados.
+d) Acceder a los establecimientos turísticos abiertos al público y tener libre entrada y permanencia en las condiciones establecidas en la reserva o el contrato, sin más ni menos limitaciones que las que establece la normativa específica de cada actividad y el reglamento de régimen interior del establecimiento, sin que pueda haber discriminación por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra circunstancia personal o social, y ser tratados con corrección y respeto a la dignidad de la persona.
+En todo caso, las condiciones establecidas en la reserva o el contrato tendrán que respetar los derechos reconocidos legalmente a las personas usuarias y la normativa vigente en materia de defensa de las personas consumidoras y usuarias.
+e) Tener seguridad propia y de sus bienes, y recibir por parte del prestador de servicios turísticos información sobre cualquier riesgo que se pueda derivar del uso normal de las instalaciones, los recursos o los servicios, en función de la naturaleza y las características de la actividad y de las medidas de seguridad adoptadas.
+f) Disfrutar de la tranquilidad y la intimidad en los términos establecidos en la legislación vigente y ser informados de cualquier inconveniente coyuntural que pueda alterar la tranquilidad y el descanso. Asimismo tienen derecho a no ser perturbados por prácticas publicitarias contrarias a la normativa vigente.
+g) Identificar en el acceso principal, en un lugar de fácil visibilidad, los diferentes distintivos acreditativos de clasificación, categoría y especialización del establecimiento, así como los distintivos de calidad, capacidad máxima y cualquier otra información en lo referente al ejercicio de la actividad, de conformidad con la normativa correspondiente. Respecto al reglamento de régimen interior, tiene que estar en un lugar accesible al usuario en el momento de realizar la contratación, ya sea por canales directos o indirectos, presenciales o en línea.
+Los operadores turísticos intermediarios que comercialicen servicios de alojamiento tendrán que llevar a cabo la tarea de intermediación ofreciendo la debida información sobre las características y normas de régimen interior del servicio.
+h) Formular quejas y reclamaciones.
+i) Obtener de la administración turística información actualizada y detallada sobre los diferentes aspectos de la oferta y los recursos turísticos de las Illes Balears.
+j) Tener protegidos sus datos de carácter personal en los términos establecidos en el ordenamiento jurídico.
+k) Conocer el número de inscripción turística en el caso de publicidad o contratación de alojamientos turísticos o de comercialización de estancias turísticas en viviendas.
+Se modifican las letras d) y g) por la disposición final 4.2 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-4
+ Se modifican las letras g) y k) por el art. 2.4 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifican las letras g) y k) por el art. 2.3 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se añade la letra k) por el art. único.3 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 16
+
+Artículo 16. Deberes de los usuarios de los servicios turísticos.
+A los efectos de esta ley, y sin perjuicio de lo establecido en otra legislación que resulte aplicable, los usuarios de servicios turísticos tienen la obligación de:
+a) Respetar las normas de uso y de régimen interior de los establecimientos turísticos y las reglas particulares de los lugares objeto de visita y de las actividades turísticas; asimismo, tienen que respetar las normas básicas de convivencia y, con respecto a las viviendas objeto de comercialización turística, también los detalles de la convivencia y la adecuada utilización de los servicios y cosas comunes, y espacios en copropiedad determinados en las normas de régimen interior de las comunidades de propietarios de los edificios sometidos al régimen de propiedad horizontal.
+b) Observar las reglas de higiene, educación, convivencia social, vestimenta y de respeto a las personas, instituciones y costumbres para la utilización adecuada de los diferentes servicios turísticos.
+c) Abonar el precio del servicio contratado en el momento de la presentación de la factura o, en su caso, en el lugar, el tiempo y la forma convenidos, sin que en ningún caso la formulación de una queja o reclamación exima de la obligación al pago.
+d) Respetar el entorno medioambiental, el patrimonio histórico y cultural y los recursos turísticos de las Illes Balears.
+e) Respetar las instalaciones y los equipamientos de las empresas y establecimientos turísticos. En este sentido, se tiene que respetar el mobiliario, los enseres y las instalaciones de todo el establecimiento en general, y de la unidad de alojamiento asignada en particular, sin que esté permitido alterar de cualquier manera su contenido y estado.
+f) Cumplir el régimen de reservas de acuerdo con lo dispuesto en la normativa que resulte de aplicación y, en el caso de establecimientos de alojamiento, respetar la fecha pactada de salida dejando libre la unidad ocupada.
+g) Tratar con respeto y dignidad a las personas que trabajan en el desarrollo de la actividad turística.
+h) No ceder a terceros su derecho al uso de los servicios contratados, salvo que esté permitido por el ordenamiento jurídico.
+i) Disfrutar de su estancia en los establecimientos de alojamiento turístico respetando la prohibición de destinarlos a residencia habitual.
+Se modifica la letra e) y se añade la letra i) por la disposición final 4.3 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-4
+ Se modifica la letra a) por el art. único.4 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 17
+
+Artículo 17. Resolución de conflictos.
+Sin perjuicio de la libertad de los usuarios de servicios turísticos y de las empresas turísticas en la elección de la vía legal para la resolución de discrepancias y conflictos que se produzcan entre sí, la administración turística fomentará el arbitraje de consumo.
+
+## CAPÍTULO II
+
+Derechos y deberes de las empresas turísticas
+
+### Artículo 18
+
+Artículo 18. Derechos de las empresas turísticas.
+A los efectos de la presente ley, y sin perjuicio de lo previsto en otras disposiciones que sean de aplicación, son derechos de las empresas turísticas:
+a) Ejercer libremente su actividad sin más limitaciones que las previstas en el ordenamiento jurídico, estableciendo las normas de uso y régimen interior de sus establecimientos turísticos y ejercitando el derecho de admisión con el alcance y los términos recogidos en el título II de esta ley.
+b) Recibir de los órganos competentes en materia de turismo la información necesaria, con carácter previo al inicio de la actividad y durante su desarrollo, sobre el cumplimiento de los requisitos exigidos por la normativa turística.
+Este derecho comprende el acceso telemático tanto a la información sobre los procedimientos necesarios para el acceso a su actividad y el ejercicio de ésta, como la posibilidad de realizar los trámites preceptivos para ello, en los términos legalmente establecidos.
+c) Ser informadas de las medidas y actuaciones relevantes que en materia turística lleve a cabo la administración turística.
+d) Participar a través de sus organizaciones más representativas y organizaciones sectoriales en los procedimientos de adopción de decisiones públicas relevantes que, relacionados con el turismo, pudieran afectarlas.
+e) Mantener incluida la información de sus instalaciones, sus características y su oferta específica en los catálogos, las guías, los directorios y los sistemas informáticos de la administración turística, en función del recurso o producto turístico o del ámbito al que se extiendan dichos instrumentos de promoción.
+f) Obtener el reconocimiento de la administración turística competente de la clasificación administrativa de los establecimientos de su titularidad.
+g) Acceder a las actividades de promoción turística que realice la administración turística en las condiciones que fije.
+h) Impulsar, a través de sus organizaciones o asociaciones sectoriales e intersectoriales, la realización de estudios e investigaciones, el desarrollo y la ejecución de programas de cooperación pública y privada de interés general para el sector turístico, o cualquier otra actuación que contribuya al progreso, la competitividad y la dinamización del turismo de las Illes Balears.
+i) Solicitar subvenciones, ayudas y otros incentivos previstos para fomentar el desarrollo de su actividad.
+j) Impedir que permanezcan en los establecimientos turísticos las personas usuarias que incumplan alguno de los deberes que dispone el artículo 16 de esta ley.
+k) Solicitar el auxilio de las fuerzas y cuerpos de seguridad para desalojar de los establecimientos turísticos los usuarios que incumplan los deberes que dispone el artículo 16 de esta ley o a las personas que accedan o pretendan acceder o permanecer en los mismos con una finalidad diferente al uso normal del servicio.
+Se modifica la letra a) y se añaden las letras j) y k) por la disposición final 4.4 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-4
+
+### Artículo 19
+
+Artículo 19. Deberes de las empresas turísticas.
+Son obligaciones generales de las empresas turísticas, sin perjuicio de la normativa que les sea aplicable, las siguientes:
+a) Presentar ante la administración turística competente las declaraciones o comunicaciones y facilitar la información y la documentación que sea exigible, en virtud de lo dispuesto en esta ley u otras normas, para el desarrollo de su actividad.
+b) Mantener vigentes y actualizados los seguros de responsabilidad civil, las fianzas y otras garantías equivalentes, a los que les obliga la normativa que les es de aplicación.
+c) Exhibir en un lugar de fácil visibilidad los diferentes distintivos acreditativos de clasificación, categoría y especialización del establecimiento, así como los distintivos de calidad, aforo y cualquier otra información referida al ejercicio de la actividad, conforme a lo establecido por la normativa correspondiente.
+d) Ofrecer un producto adecuado a los objetivos y a las finalidades de la ley.
+e) Hacer públicos los precios finales completos de todos los servicios que ofrezcan, incluidos los impuestos, desglosando, en su caso, el importe de los incrementos o descuentos que sean aplicables a la oferta y los gastos adicionales que se repercutan al turista o usuario de los servicios turísticos.
+f) Expedir factura desglosada de los servicios prestados, de acuerdo con los precios pactados o convenidos.
+g) Cuidar del buen funcionamiento de los servicios y del mantenimiento correcto de las instalaciones y los equipamientos de los establecimientos mediante un seguimiento técnico periódico, e informar a los usuarios de los servicios turísticos de cualquier riesgo previsible que pudiera derivarse de la prestación de los servicios o del uso de las instalaciones, así como de las medidas de seguridad adoptadas.
+h) Velar por la seguridad, la tranquilidad, la comodidad y la intimidad de los usuarios de los servicios turísticos, garantizando un trato amable, cortés y respetuoso del personal empleado en la empresa.
+i) Permitir el acceso libre y la permanencia a los usuarios de los servicios turísticos, sin más restricciones que las que vengan establecidas por el sometimiento a la ley, a las prescripciones específicas que regulen la actividad y, en su caso, al reglamento de régimen interior que establezcan estas mismas empresas. Este reglamento no podrá contener preceptos discriminatorios por razón de nacimiento, raza, sexo, religión, opinión u otra circunstancia personal o social, excepto en aquellos casos en que el fin perseguido sea el de especialización del establecimiento.
+j) Tener a disposición de los usuarios de los servicios turísticos las hojas de quejas y reclamaciones oficiales y facilitárselas.
+k) Prestar los servicios de acuerdo con la categoría del establecimiento y con lo dispuesto reglamentariamente.
+l) Colaborar en la preservación del medio ambiente en el marco de sus políticas de responsabilidad empresarial.
+m) Impulsar el uso de productos de limpieza naturales y/o ecológicos con certificación, siempre que existan productos de estas características en el mercado.
+n) Identificar, siempre que sea posible, los productos utilizados en su actividad que constituyen las principales fuentes de residuos dispersos (también denominado littering), especialmente en el entorno natural y marino y adoptar las medidas adecuadas para prevenir y reducir la producción de estos residuos.
+o) Usar productos durables y fiables (también en términos de vida útil y ausencia de obsolescencia prematura), reparables, reutilizables y actualizables.
+p) Fomentar la reutilización de los productos y sus componentes, entre otros, mediante donación e implantación de sistemas que promuevan actividades de reparación, reutilización y actualización, muy especialmente para los aparatos eléctricos y electrónicos, pilas y acumuladores, textiles y mobiliario, envases y materiales y productos de construcción.
+Se modifica por el art. 2.5 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añaden las letra m) y n) por el art. único.5 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 20
+
+Artículo 20. Sobrecontratación.
+1. En cuanto a la sobrecontratación, las empresas titulares de establecimientos de alojamiento no pueden contratar unidades o plazas que no puedan atender en las condiciones pactadas, en el sentido de que no se pueda poner a disposición de los clientes el alojamiento en el establecimiento.
+2. Sin perjuicio de lo que se dispone en el punto anterior, las personas titulares de los establecimientos de alojamiento que hayan incurrido en sobrecontratación están obligadas a proporcionar alojamiento a las personas usuarias afectadas en un establecimiento de la misma zona, de categoría igual o superior y en condiciones de máxima similitud a las pactadas, sin que pueda suponer mayores repercusiones económicas para el cliente.
+3. La persona titular del establecimiento a que se refiere el punto anterior contratará el servicio de desplazamiento al nuevo establecimiento y asumirá de manera directa el pago de la diferencia de precio, en su caso, como también cualquier otro gasto originado por la sobrecontratación que no sea imputable a la actuación de la persona usuaria, hasta que no esté definitivamente alojada y sin que esta, por tanto, tenga que avanzar ningún pago. Todo ello, sin perjuicio de otros daños o perjuicios que pueda reclamar la persona usuaria y sin perjuicio de que el titular del establecimiento pueda repercutir los gastos contra la empresa causante de la sobrecontratación.
+Se modifica por el art. 2.6 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+
+## TÍTULO III
+
+Ordenación de la actividad turística
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 21
+
+Artículo 21. Libertad de establecimiento y libre prestación de servicios de la actividad turística.
+El ejercicio de la actividad turística es libre, sin más limitaciones que el cumplimiento de la legislación vigente que sea aplicable, de manera que cualquier persona interesada en la prestación de servicios relacionados con la actividad turística puede establecerse en las Illes Balears, previa presentación de la declaración responsable o de la comunicación y la obtención de la habilitación oportuna, en su caso, en los términos legalmente o reglamentariamente establecidos.
+
+### Artículo 22
+
+Artículo 22. La Oficina única de la administración turística.
+1. A los efectos de facilitar la libertad de establecimiento en el ejercicio de la actividad turística, se crea la Oficina única de la administración turística en cada uno de los ámbitos insulares, que permitirá realizar y formalizar todas las gestiones necesarias ante cualquier administración turística para hacer efectiva la libre prestación de servicios turísticos.
+2. La Oficina única de la administración turística permitirá el acceso telemático a toda la información y también el cumplimiento y la formalización de todos los trámites administrativos para el inicio, el establecimiento, el desarrollo y la participación en el sector turístico, y el acceso a ayudas y a subvenciones en el ejercicio de una actividad turística en cualquier municipio de las Illes Balears, sin perjuicio de la tramitación de los expedientes ante la administración competente.
+3. Reglamentariamente se establecerá su régimen de funcionamiento, estructura y composición.
+
+### Artículo 23
+
+Artículo 23. Declaración responsable de inicio de actividad turística.
+1. Se entiende por declaración responsable de inicio de actividad turística el documento suscrito por una persona interesada en el que manifiesta, bajo su responsabilidad, que, ya en el momento de presentarla, cumple todos los requisitos establecidos por la normativa vigente, sea turística o de cualquier otra índole, para iniciar el ejercicio de una de las actividades turísticas reguladas en la presente ley; que dispone de la documentación que lo acredita, y que se compromete a mantener su cumplimiento durante el plazo de tiempo inherente al ejercicio de la actividad.
+Los requisitos a que se refiere el párrafo anterior se recogerán de forma expresa y clara en la correspondiente declaración responsable de inicio de actividad turística, cuyo modelo debe aprobar la Administración turística competente.
+2. Para el acceso y el ejercicio de la actividad en el ámbito territorial de la comunidad autónoma de las Illes Balears, las empresas y actividades turísticas objeto de esta ley deberán presentar, con anterioridad al inicio de su actividad, la correspondiente declaración responsable de inicio de actividad turística en los términos establecidos en esta ley y en las normas que la desarrollen.
+3. La presentación de la declaración responsable de inicio de actividad, acompañada de la documentación exigida, habilita, excepto en los casos en que se requiera normativamente una autorización administrativa específica previa, desde el día en que se presenta, para el desarrollo de la actividad de que se trate con una duración indefinida, sin perjuicio del cumplimiento de las otras obligaciones exigidas en otras normas que sean aplicables y de las facultades de comprobación posterior que tengan atribuidas las administraciones competentes.
+Con el fin de cubrir los riesgos de la responsabilidad de la actividad turística, serán exigibles los seguros, las fianzas u otras garantías equivalentes que se dispongan en la normativa específica, que habrán de mantenerse en vigor durante todo el tiempo del desarrollo o ejercicio de la actividad.
+Reglamentariamente se podrá establecer que en la declaración responsable de inicio de actividad o en la comunicación previa a que se refiere el artículo siguiente de esta ley, se haga constar la clasificación y la categoría de los establecimientos, así como el cumplimiento de los requisitos que se determinen a tales efectos en las normas turísticas.
+4. La inexactitud, la falsedad o la omisión en cualquier dato, manifestación o documento de carácter esencial que se adjunte o incorpore a una declaración responsable de inicio de actividad implican la cancelación de la inscripción y, por tanto, la imposibilidad de continuar con el ejercicio de la actividad afectada, sin perjuicio de la responsabilidad legal en que pueda haberse incurrido, con instrucción previa del procedimiento correspondiente en el que se dará audiencia a la persona interesada.
+Asimismo, la administración turística competente que haya detectado la falsedad a que se refiere el párrafo anterior, impondrá la obligación al responsable de restituir la situación jurídica al momento previo al desarrollo o ejercicio de la actividad e incoará la instrucción del procedimiento sancionador. En caso de detectar la inexactitud, y sin perjuicio de imponer la restitución de la situación jurídica, la administración turística podrá incoar la instrucción del procedimiento sancionador.
+5. Las administraciones competentes y la Oficina única de la administración turística tendrán permanentemente publicados y actualizados los modelos de declaración responsable de inicio de actividad y de comunicación previa, que en todo caso se pueden presentar de manera telemática.
+6. La presentación de la declaración responsable de inicio de actividad debe tener como efecto inmediato la inscripción en el correspondiente registro insular de empresas, actividades y establecimientos turísticos. Las administraciones turísticas tienen que comunicar las inscripciones a las administraciones tributarias, a los ayuntamientos y al Registro de la Propiedad.
+7. Por lo que se refiere a la incorporación del número de inscripción turística a la publicidad de comercializaciones turísticas en viviendas y en tanto no se disponga de este número, se admitirá la incorporación del número de registro de entrada otorgado cuando se presentó la DRIAT en un registro público.
+8. Las medidas determinadas en el primer párrafo del apartado 4 se considerarán baja definitiva de oficio, e implicará que, en el caso de alojamientos turísticos o de viviendas objeto de comercialización turística, las plazas turísticas quedarán a disposición de la administración turística.
+Se modifica el apartado 4 por el art. 2.7 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifican los apartados 1 y 4 por la disposición final 4.1 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#df-4
+ Se añade el apartado 8 por el art. 1.2 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se modifica el apartado 6 y se añade el 7 por el art. único.6 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 24
+
+Artículo 24. Comunicación previa.
+1. Se entiende por comunicación previa el documento mediante el que las personas interesadas ponen en conocimiento de la administración turística competente hechos o elementos relativos al ejercicio de una actividad turística, indicando los aspectos que puedan condicionarla y adjuntando, si fuera el caso, todos los documentos que sean necesarios para su adecuado cumplimiento.
+2. Los titulares de los establecimientos y los de las actividades turísticas habilitados para el desarrollo de su actividad deberán comunicar cualquier modificación de los datos incluidos en la declaración responsable, y en los documentos adjuntos, las modificaciones o reformas sustanciales que afecten a la actividad, así como cuando se produzca su cese. Dichas comunicaciones deberán ir acompañadas de los documentos que, en su caso, determine la normativa que sea aplicable.
+3. La presentación de la comunicación previa tendrá como efecto inmediato la inscripción en el correspondiente registro insular de empresas, actividades y establecimientos turísticos.
+4. La inexactitud, falsedad u omisión en cualquier dato, manifestación o documento de carácter esencial, que se adjunte o incorpore a una comunicación previa, tendrán los mismos efectos que los previstos en el artículo 23 para estos casos en la declaración responsable de inicio de actividad turística.
+
+### Artículo 25
+
+Artículo 25. Dispensas.
+1. Excepcionalmente, y anteriormente a la presentación de la declaración responsable de inicio de actividad o comunicación previa, el interesado, podrá solicitar a la Administración turística la dispensa de alguno de los parámetros exigidos por la normativa turística. Cabe esta dispensa cuando tras una valoración conjunta de las instalaciones, los servicios y las mejoras introducidas en los proyectos, sea posible una compensación, de manera que se considere conveniente para el interés general.
+2. Para la valoración de las dispensas y el cumplimiento de los aspectos a que se refiere el apartado anterior se creará una comisión integrada dentro de cada una de las administraciones turísticas insulares, que emitirá informe preceptivo al respecto.
+3.(Derogado).
+4. Sin perjuicio de las competencias de los órganos correspondientes, la comisión prevista en este artículo no valorará dispensas de carácter medioambiental.
+5. El otorgamiento de dispensas previsto en este artículo también podrá ser aplicable a los efectos de conseguir el mantenimiento de la categoría a la que hace referencia el artículo 31.2 de la ley.
+Se añade el apartado 5 por la disposición final 4.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-4
+ Este apartado 5 ya fue añadido por el Decreto-ley 8/2020, de 13 de mayo.
+ Se añade el apartado 5 por la disposición final 4.1 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-4
+ Se deroga el apartado 3 por la disposición derogatoria única.1.a) de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+ Se modifica los apartados 1 y 2 por el art. 3.1 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225
+ Téngase en cuenta que la aplicación del apartado 3 queda suspendida por la disposición adicional única.4 del citado Decreto-ley.
+ Se añade el apartado 4 por el art. 5 del Decreto-ley 3/2014, de 5 de diciembre. Ref. BOE-A-2015-1062
+
+### Artículo 26
+
+Artículo 26. Clasificación de las empresas turísticas.
+1. Las empresas turísticas se clasifican en:
+a) Empresas turísticas de alojamiento.
+b) Empresas turístico-residenciales.
+c) Empresas comercializadoras de estancias turísticas en viviendas.
+d) Empresas turísticas de restauración.
+e) Empresas que tienen por objeto la actividad de intermediación turística.
+f) Empresas que tienen por objeto actividades de entretenimiento, recreativas, deportivas, culturales o lúdicas, o todas las que tengan una naturaleza complementaria al sector turístico.
+g) Empresas que tienen por objeto las actividades de información, orientación y asistencia turística.
+2. Las empresas mencionadas en el apartado anterior deberán presentar declaración responsable de inicio de actividad turística en los términos previstos reglamentariamente, sin perjuicio del cumplimiento del resto de normas que les sean aplicables, especialmente las de seguridad.
+3. Las empresas turísticas a que se refiere este artículo podrán ofrecer en el ejercicio de su actividad principal otros servicios complementarios a los usuarios de servicios turísticos.
+No será preceptiva una licencia de actividad para cada una de las actividades relativas a usos secundarios compatibles, sin perjuicio del cumplimiento de la normativa específica y sectorial aplicable a la actividad desarrollada en aplicación de los usos permitidos.
+
+### Artículo 27
+
+Artículo 27. Registros de empresas, actividades y establecimientos turísticos.
+1. En cada isla existirá un registro de empresas, actividades y establecimientos turísticos cuya organización corresponderá al consejo insular correspondiente.
+Estos registros se regirán por lo que dispone esta ley, sin perjuicio de lo que la administración turística competente establezca reglamentariamente con respecto a la estructura, la organización y el funcionamiento de estos registros.
+2. Existirá el Registro General de empresas, actividades y establecimientos turísticos de las Illes Balears cuya gestión corresponde a la consejería competente en materia de turismo del Gobierno de las Illes Balears.
+Los consejos insulares de Mallorca, de Menorca, de Ibiza y de Formentera comunicarán todos los datos de sus registros insulares que sean necesarios para la gestión y la continuidad del Registro General.
+3. Los registros de empresas, actividades y establecimientos turísticos tienen naturaleza administrativa, son públicos y gratuitos.
+4. La administración turística competente realizará de oficio la inscripción en los diferentes registros insulares de empresas, actividades y establecimientos turísticos, una vez presentada la declaración responsable de inicio de actividad o la comunicación previa.
+Las empresas, las actividades y los establecimientos turísticos cuya actividad se encuentre autorizada a la entrada en vigor de la presente ley serán inscritas de oficio en los registros de empresas, actividades y establecimientos turísticos que correspondan.
+5. También se deberán inscribir en los registros insulares las personas físicas o jurídicas que sean los titulares dominicales y de la explotación del inmueble en el que se desarrollan actividades turísticas, con independencia de quien sea la persona o entidad que explote el establecimiento turístico.
+6. En el caso en que se comunique el cese del titular de la explotación, la administración turística tendrá provisionalmente como explotador, hasta que no se comunique uno nuevo, al propietario.
+7. En cuanto a las empresas comercializadoras de estancias turísticas en viviendas, la administración turística inscribirá solo el nombre de uno de los explotadores, a efectos de una comunicación adecuada.
+Se modifica por el art. 2.8 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añaden los apartados 6 y 7 por el art. 2.4 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 28
+
+Artículo 28. Actividad clandestina, oferta ilegal, intrusismo y competencia desleal.
+1. La publicidad por cualquier medio de difusión o la realización efectiva de una actividad turística sin haber presentado la declaración responsable de inicio de actividad o, si se ha presentado, pero sin cumplir las exigencias legales para ejercerla, tiene la consideración de oferta ilegal o actividad clandestina, intrusismo y competencia desleal, e implica la incoación del expediente sancionador correspondiente con sujeción a lo dispuesto en esta ley.
+2. Los establecimientos turísticos solo pueden utilizar la denominación correspondiente a su grupo, clasificación, categoría o características de la actividad, sin que, por lo tanto, se pueda inducir a error al respeto.
+Se prohíbe que los alojamientos no definidos por la normativa turística o que no hayan presentado la declaración responsable de inicio de actividad turística (DRIAT), o que la hayan presentado sin cumplir los requerimientos normativos, utilicen las denominaciones de vacaciones, turística o similares, o que utilicen canales de oferta que empleen estos términos o de los cuales se desprenda una finalidad turística.
+3. Con respecto a la comercialización de estancias turísticas en viviendas, se consideran oferta ilegal y actividad clandestina, intrusismo y competencia desleal, respectivamente, y sin perjuicio de la infracción que implica el resto de incumplimientos normativos:
+a) La publicidad de viviendas que comercialicen estancias turísticas que no hayan presentado la DRIAT a la administración turística o que no cumplan los requisitos normativos para su comercialización. Es responsable de esta oferta ilegal tanto la persona titular del medio a través del cual se lleva a cabo la publicidad, en soporte de papel, página web o cualquier otro, en los términos de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, como la persona responsable de insertar la publicidad.
+Toda la publicidad de estas viviendas tiene que incorporar el número de inscripción turística de la vivienda.
+b) La comercialización de estancias turísticas en viviendas que no hayan presentado la DRIAT a la administración turística o que no cumplan los requisitos normativos exigidos para su comercialización.
+4. La actividad clandestina, la oferta ilegal, el intrusismo y la competencia desleal tienen que ser objeto de control, seguimiento y plan de acción, y se tiene que aplicar el artículo 9 de esta ley, sin perjuicio de la supervisión del resto de requerimientos normativos.
+Se modifican los apartados 1 y 2 por el art. 2.9 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifican los apartados 1 y 2 por el art. 2.5 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se modifica por el art. único.7 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 29
+
+Artículo 29. Venta ambulante.
+De conformidad a la normativa específica en la materia, se prohíbe la venta ambulante en los establecimientos turísticos. Será responsabilidad de las empresas explotadoras de estos establecimientos evitar que estas actividades se realicen. También serán responsables las agencias de viajes u otros intermediarios que, en las excursiones que organicen, incluyan paradas comerciales en que se realicen actividades de venta de cualquier tipo que no se ajuste a la normativa vigente.
+En circunstancias especiales, de manera puntual, y para realizar actos o exhibiciones en que pueda haber transacciones directas, se solicitará el permiso oportuno a la administración competente.
+
+### Artículo 29 bis
+
+Artículo 29 bis. Autodispensadores de bebidas alcohólicas.
+Se prohíben en los establecimientos turísticos los autodispensadores de bebidas alcohólicas. Los dispensadores de bebidas alcohólicas que pueda haber en los establecimientos únicamente pueden ser utilizados por el personal propio del establecimiento.
+Se modifica por el art. 2.10 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.6 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se añade por la disposición final 4.2 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-4
+ Este artículo ya fue añadido por el Decreto-ley 8/2020, de 13 de mayo.
+ Se añade por la disposición final 4.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-4
+
+## CAPÍTULO II
+
+Empresas turísticas de alojamiento
+
+### Artículo 30
+
+Artículo 30. Concepto.
+1. Se entienden por empresas turísticas de alojamiento aquellas que desarrollen una actividad consistente en la prestación de un servicio de alojamiento al público mediante precio, de forma profesional y habitual, bien sea de modo permanente como temporal, y con o sin la prestación de servicios complementarios.
+2. No se consideran empresas de alojamiento turístico las empresas de alojamiento que tengan finalidades institucionales, sociales, sanitarias, asistenciales, laborales, docentes o deportivas, ni las que se desarrollen en el marco de los programas de la administración dirigidos a la infancia, la juventud u otros colectivos necesitados de especial protección.
+Se modifica el apartado 2 por el art. 2.11 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica el apartado 2 por el art. 2.7 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 31
+
+Artículo 31. Clasificación de las empresas turísticas de alojamiento.
+1. Las empresas turísticas de alojamiento se consideran establecimientos públicos y desarrollan su actividad en alguno de los siguientes grupos:
+a) Establecimientos de alojamiento hotelero.
+b) Apartamentos turísticos.
+c) Alojamiento de turismo rural en sus diferentes clases.
+d) Albergues y refugios.
+e) Hospederías.
+f) Cualquier otro establecimiento de alojamiento turístico que se determine reglamentariamente.
+2. Los establecimientos destinados a la prestación de servicios de alojamiento turístico y los incluidos en la disposición adicional octava de esta ley, deberán cumplir los requisitos referidos a sus instalaciones, mobiliario, servicios y superficie de parcela que reglamentariamente se determinen, en función del grupo, la categoría, la modalidad y la especialidad a la que pertenezcan.
+El incumplimiento de estos requisitos determina, si procede, la posibilidad de que la administración turística fije la categoría, el grupo o la modalidad que corresponde realmente al establecimiento, mediante un procedimiento con audiencia de la persona interesada; y con independencia de la apertura del procedimiento sancionador que pueda ser pertinente.
+3. Los establecimientos dedicados a la actividad de alojamiento turístico no podrán utilizar clasificaciones ni categorías diferentes a las establecidas en la presente ley o en las disposiciones reglamentarias que la desarrollen.
+4. Por parte de la administración competente, para nuevos establecimientos, se podrán establecer requisitos mínimos adicionales en función del tipo, el grupo, la categoría, la modalidad y la especialidad a que pertenezcan.
+De manera específica, teniendo en cuenta la ubicación territorial de los establecimientos y respetando en todo caso las determinaciones de orden territorial y urbanístico, podrán establecerse requisitos consistentes en:
+a) La fijación de un parámetro superior al señalado en el artículo 5 de esta ley, expresado en metros cuadrados de parcela por cada plaza o unidad de alojamiento turístico.
+b) La determinación de la superficie de parcela mínima necesaria para su emplazamiento.
+5. Reglamentariamente se podrán establecer los requisitos exigibles para que pueda prestarse el servicio de alojamiento turístico en otros establecimientos distintos de los mencionados en el apartado primero anterior.
+Se modifica el primer párrafo del apartado 1 por la disposición final 4.5 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-4
+ Se modifica el apartado 2 por la disposición final 4.3 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-4
+
+### Artículo 32
+
+Artículo 32. Principio de uso exclusivo.
+1. Los establecimientos indicados en el artículo anterior están sujetos al principio de uso exclusivo.
+2. Se entiende por principio de uso exclusivo la sumisión del proyecto inicialmente autorizado, o sobre el que se ha presentado la declaración responsable de inicio de actividad o comunicación previa, al uso turístico solicitado, que incluirá los usos compatibles y secundarios declarados.
+3. A estos efectos no se permite el ejercicio de la actividad de alojamiento turístico que suponga dos o más grupos de alojamiento diferentes, sin perjuicio de lo dispuesto en el artículo 36 de esta ley para la explotación conjunta de establecimientos.
+4. Serán usos compatibles y secundarios al turístico, y que podrán recogerse en los diferentes instrumentos de planeamiento, los siguientes:
+a) Residencial exclusivamente para personal empleado y de dirección, así como para los propietarios acogidos a aquellas modalidades de propiedad turística establecidas en la ley, en establecimientos turísticos de alojamiento.
+b) De almacén.
+c) Comercial.
+d) De servicios.
+e) De establecimientos públicos.
+f) Sociocultural.
+g) Docente.
+h) Asistencial.
+i) Administrativo.
+j) Deportivo.
+k) Sanitario.
+l) Religioso.
+m) Recreativo o de entretenimiento.
+n) De actividades turísticas definidas en el artículo 61 de esta ley.
+o) Cualquier otro que suponga un incentivo al turismo no estacional y de calidad.
+Reglamentariamente se desarrollará el régimen de usos secundarios compatibles, atendiendo las limitaciones de tamaño, ubicación y usos específicos en los establecimientos.
+5. No supondrá infracción de este principio la comercialización de establecimientos en régimen de aprovechamiento por turnos, empresas turístico-residenciales ni establecimientos hoteleros en régimen coparticipado o compartido o cualquier otra forma de explotación análoga.
+6. Sin perjuicio de lo que establece el artículo 27.4 de esta ley, no supone infracción de este principio la coexistencia del uso turístico con cualquiera otro uso, en un mismo inmueble, si esta situación ya existía legalmente con anterioridad a la entrada en vigor de la Ley 2/1999, de 24 de marzo, general turística de las Illes Balears.
+Se modifica el apartado 6 por el art. 2.12 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica el apartado 6 por el art. 2.8 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se modifica el apartado 1 por el art. 7 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+
+### Artículo 33
+
+Artículo 33. Principio de unidad de explotación.
+1. Las empresas turísticas de alojamiento ejercerán su actividad bajo el principio de unidad de explotación.
+2. Se entiende por unidad de explotación el sometimiento de la actividad turística de alojamiento a una única titularidad de explotación ejercida en cada establecimiento.
+La unidad de explotación supone la afectación a la prestación del servicio de alojamiento turístico de todas las unidades de alojamiento integrantes de la edificación o las edificaciones y sus partes independientes y homogéneas ocupadas por cada establecimiento.
+3. Se prohíbe la existencia de unidades de alojamiento de uso turístico integrantes de alguna de las edificaciones del establecimiento de alojamiento turístico cuya explotación no corresponda al titular de la empresa explotadora del establecimiento de alojamiento turístico.
+El incumplimiento sobrevenido de la unidad de explotación por causa ajena a su titular y directamente imputable a un titular de unidades de alojamiento no supondrá la pérdida de la licencia o autorización que ampara la explotación unitaria de explotación del establecimiento.
+4. La empresa explotadora deberá poder acreditar fehacientemente ante la administración turística, en los términos dispuestos reglamentariamente, la titularidad de la propiedad u otros títulos jurídicos que la habiliten para la explotación de la totalidad de las unidades de alojamiento que constituyen el establecimiento.
+5. Conforme a lo dispuesto en el artículo 26.3 de esta ley, la actividad consistente en la explotación de un establecimiento de alojamiento turístico tendrá la consideración de actividad única, pudiéndose ofrecer en el ejercicio de dicha actividad servicios complementarios a los usuarios de servicios turísticos, sin que sea preceptiva la obtención de una licencia de actividades para cada uno de los servicios complementarios que se presten.
+Igualmente, en el desarrollo de la actividad de explotación de establecimientos de alojamiento turístico se podrán ofrecer servicios complementarios sin que sea precisa la intervención de empresas de intermediación, a excepción de los casos en que esté expresamente regulado.
+6. No obstante lo dispuesto en este artículo, las actividades correspondientes a usos secundarios compatibles con la actividad principal podrán ser desarrolladas por personas o entidades distintas del titular de la explotación de alojamiento turístico.
+Se modifica el apartado 3 por el art. 2.13 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+
+### Artículo 34
+
+Artículo 34. Régimen de aprovechamiento por turnos.
+1. Los establecimientos turísticos que quieran comercializar en régimen de aprovechamiento por turnos las unidades de alojamiento de cualquiera de los establecimientos de alojamiento turístico, conforme a lo que prevé el Real Decreto-ley 8/2012, de 16 de marzo, o la normativa que estuviere vigente sobre derechos de aprovechamiento por turno en establecimientos de alojamiento turístico, estarán sometidos en lo dispuesto sobre el principio de unidad de explotación y a las demás prescripciones de esta ley y su normativa de desarrollo, en función del tipo de establecimiento y de la clasificación que les corresponda.
+2. Reglamentariamente se podrán establecer las características, las condiciones, los requisitos y el periodo anual máximo de aprovechamiento, en función del tipo de establecimiento de alojamiento turístico.
+
+### Artículo 35
+
+Artículo 35. Establecimientos de alojamiento turístico coparticipados o compartidos u otras formas análogas de explotación de establecimientos de alojamiento turístico.
+1. Se podrán constituir en régimen de propiedad horizontal o figuras afines los establecimientos existentes o de nueva creación de alojamiento turístico con categoría mínima de tres estrellas superior o tres llaves, que estén abiertos al público como mínimo seis meses al año, quedando estrictamente sometidos a los principios de uso turístico exclusivo y unidad de explotación, con independencia del sistema de comercialización por el que opte el explotador.
+2. Los establecimientos que se hayan acogido a cualquier fórmula de transmisión de la propiedad de las distintas unidades de alojamiento tendrán que ofrecer a los propietarios adquirentes, en los periodos en que usen el derecho adquirido con el explotador, todos los servicios de alojamiento y los servicios complementarios propios del establecimiento de alojamiento de que se trate.
+3. Estos establecimientos deberán superar, en el transcurso de dos años desde la presentación de la declaración responsable de inicio de actividad bajo estas formas de explotación, los planes de modernización y de calidad a que se refiere el capítulo III del título IV de esta ley que estén vigentes, incluyendo, en su caso, la reforma integral del establecimiento.
+Si transcurrido el plazo a que se refiere el párrafo anterior no se hubieran superado los planes de modernización y calidad establecidos, se incoará el procedimiento para el restablecimiento a la modalidad de explotación que en un origen tenía el establecimiento afectado.
+4. Los establecimientos a los que se refiere este artículo deberán reunir las siguientes garantías:
+a) En el Registro de la Propiedad se hará constar mediante nota marginal la afección al uso turístico que recae sobre cada unidad de alojamiento y la cesión del uso de dicha unidad de alojamiento a favor de la empresa explotadora.
+b) Cada uno de los propietarios de las diferentes unidades de alojamiento se comprometerá a que el inmueble en conjunto, incluyendo las zonas comunes y todas las unidades de alojamiento, sea gestionado por una única empresa explotadora.
+5. La entidad explotadora deberá acreditar que está habilitada para la explotación de todo el establecimiento en conjunto o, en su caso, de la totalidad de los elementos o las unidades de alojamiento en los que se encuentre dividido, mediante la aportación del título jurídico en el que se soporte lo dispuesto en el apartado anterior.
+6. En ningún caso las personas propietarias o cesionarias podrán dar uso residencial a las distintas unidades de alojamiento.
+A los efectos de esta ley, se considera uso residencial el uso de la unidad de alojamiento por los propietarios o el reconocimiento por parte de la empresa explotadora a los diferentes propietarios de las unidades de alojamiento a una reserva de uso o un uso en condiciones ventajosas por un periodo superior a dos meses al año.
+7. Sin perjuicio de las obligaciones de información dispuestas en la normativa sobre defensa y protección de personas consumidoras y usuarias, las promotoras o vendedoras de inmuebles a las que se refiere el presente artículo deberán facilitar a las personas adquirentes de unidades de alojamiento, con carácter previo a la venta, un documento informativo con carácter vinculante en el que desde el respeto a la legislación civil y mercantil se consignará toda la información de manera exhaustiva sobre la afectación del inmueble al uso turístico, los riesgos asumidos por los adquirentes en los supuestos de incumplimiento o insolvencia de la empresa explotadora y la posible derivación de sus responsabilidades a los propietarios adquirentes, así como las demás condiciones establecidas en el presente artículo.
+8. Las empresas explotadoras de los mencionados establecimientos estarán obligadas a comunicar a la administración turística competente los cambios de titularidad de las distintas unidades de alojamiento.
+9. La afección de una unidad de alojamiento a un uso no permitido conforme a lo dispuesto en el presente artículo supondrá la aplicación del procedimiento para el restablecimiento de la legalidad del uso permitido y la incoación del correspondiente expediente sancionador.
+10. Reglamentariamente se podrá regular el régimen jurídico de los alojamientos turísticos coparticipados o compartidos y otras formas análogas de explotación.
+Téngase en cuenta que la aplicación de este artículo queda suspendida desde el 14 de enero de 2016, por la disposición adicional única.4 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225
+Se suspendió la aplicación de este artículo y posteriormente quedó levantada por cumplimento del plazo establecido en la disposición adicional única.4 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225
+
+### Artículo 36
+
+Artículo 36. Compatibilidad de distintos tipos o grupos de establecimientos y explotación conjunta de distintos establecimientos.
+1. Será compatible en uno o diversos inmuebles vinculados por su actividad la existencia de hoteles y hoteles-apartamentos, siempre que sean de la misma categoría.
+2. También será compatible en uno o varios inmuebles la existencia de hoteles y hoteles-apartamentos con establecimientos de apartamentos turísticos pertenecientes a un grupo de edificios o complejos, siempre que sean de similar categoría.
+3. Se podrán explotar conjuntamente diferentes establecimientos de alojamiento turístico, siempre y cuando reúnan las siguientes condiciones:
+a) Todos los establecimientos tienen que tener categoría similar aunque sean de diferente grupo.
+b) La explotación de todos los establecimientos que se realice conjuntamente tiene que ser desarrollada por una única empresa explotadora.
+c) La distancia máxima entre los establecimientos no podrá ser superior a 200 m y tendrá que ser practicable para personas con minusvalía.
+d) Deberán cumplirse las condiciones reglamentarias de comedores y salas para los establecimientos que se exploten conjuntamente.
+Reglamentariamente se podrán desarrollar el contenido, los requisitos y las condiciones mínimas para la explotación conjunta de establecimientos.
+
+### Artículo 37
+
+Artículo 37. Explotación de establecimientos de alojamiento turístico bajo la modalidad de pensión completa integral.
+1. Se entenderá que un establecimiento de alojamiento turístico se explota bajo la modalidad de pensión completa integral, si, dentro de un precio global ofrecido a todos o a parte de los usuarios, además del alojamiento, se incluyen los alimentos y las bebidas correspondientes en el desayuno, la comida y la cena, como también el consumo adicional de otros alimentos y bebidas en el establecimiento.
+2. Los establecimientos de alojamiento turístico que se exploten bajo la modalidad de pensión completa integral deberán adoptar cuantas medidas sean necesarias para impedir que usuarios de servicios turísticos extraigan alimentos y bebidas servidos en el establecimiento explotado bajo la modalidad de pensión completa integral para ser consumidos fuera del establecimiento que ofrece esta modalidad de explotación, sin perjuicio de que se puedan preparar paquetes de alimentos y bebidas destinados a ser consumidos en las excursiones organizadas.
+3. La empresa explotadora del establecimiento bajo la modalidad de pensión completa integral será responsable de la infracción que supone la extracción de alimentos y bebidas para ser consumidos fuera del establecimiento turístico, conforme a lo dispuesto en el capítulo II del título V de la presente ley. Se entenderá que se permite la extracción cuando no se disponga de todos los medios informativos suficientes para el conocimiento de la prohibición por parte del usuario de los servicios turísticos.
+4. Los establecimientos de alojamiento turístico que se exploten bajo la modalidad de pensión completa integral deberán superar un plan de calidad específico de dicha modalidad, que deberá integrarse en los planes de modernización previstos en el capítulo III del título IV de la presente ley.
+Se modifica el apartado 1 por el art. 2.14 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica el apartado 1 por el art. 2.9 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Redactado conforme a la corrección de errores publicada en el BOIB núm. 40, de 22 de marzo de 2022. Ref. BOIB-i-2022-90076
+
+### Artículo 37 bis
+
+Artículo 37 bis. Modernización e innovación en la higiene y la limpieza de los establecimientos de alojamiento.
+Los establecimientos de alojamiento de las Illes Balears que pertenecen al grupo de hoteles, hoteles de ciudad, hoteles apartamento, hoteles rurales, así como el resto de establecimientos de alojamiento que voluntariamente hayan obtenido una clasificación de estrellas, tienen la obligación de que la totalidad de las camas del establecimiento, salvo las supletorias, sean elevables mecánicamente o eléctricamente, de tal forma que permitan una mejor limpieza del suelo de la habitación o de los elementos sobre los cuales se asienta la cama.
+Se exceptúan de la obligación referida en el párrafo anterior los establecimientos, con un máximo de 30 habitaciones, que estén implantados en edificios que sean bienes de interés cultural, bienes catalogados, que posean una clasificación de protección singular o que estén situados en núcleo antiguo, siempre y cuando las camas y la estructura que las integra tengan una significación histórica y patrimonial, debidamente acreditada.
+Con carácter excepcional y exclusivo quedan exceptuados de la obligación de sustitución las camas y la estructura que las integra con una significación histórica, patrimonial y cultural, debidamente acreditada, con independencia de la clasificación del establecimiento de alojamiento.
+Sin perjuicio del resto de normativa aplicable, los equipos de elevación de las camas deben cumplir la Directiva 2006/42/CE del Parlamento Europeo y del Consejo, de 17 de mayo de 2006, relativa a las máquinas y por la que se modifica la Directiva 95/16/CE y la norma española de transposición del Real Decreto 1644/2008, de 10 de octubre, por el que se establecen las normas para la comercialización y puesta en servicio de las máquinas.
+Se modifica por el art. 2.15 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Téngase en cuenta que este artículo ya fue añadido por el Decreto-ley 3/2022, de 11 de febrero.
+ Se añade por el art. 2.10 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+## Sección 1
+
+Sección 1.ª Establecimientos de alojamiento hotelero
+
+### Artículo 38
+
+Artículo 38. Concepto.
+Los establecimientos hoteleros son instalaciones destinadas a dar servicio de alojamiento al público en general con o sin servicios complementarios y deberán cumplir los requisitos establecidos en esta ley y los que se establezcan reglamentariamente.
+
+### Artículo 39
+
+Artículo 39. Clasificación y categorías.
+1. Los establecimientos de alojamiento hotelero se clasifican en los grupos siguientes:
+a) Hoteles: son los establecimientos destinados a la prestación de un servicio de alojamiento turístico con o sin servicios complementarios que ocupan la totalidad o una parte independiente de un edificio o conjunto de edificios cuyas dependencias constituyen un todo homogéneo con entradas propias e independientes, y que cumplen, además, el resto de requisitos establecidos reglamentariamente. Los ascensores y las escaleras de que dispongan los hoteles tendrán que ser de uso exclusivo.
+b) Hoteles de ciudad: son los que, además de tener las características del punto anterior, cumplen alguna de las siguientes circunstancias:
+– Que estén instalados o que se instalen en zonas calificadas y ordenadas como núcleo antiguo por los instrumentos de planeamiento general.
+– Que estén instalados o que se instalen en edificios amparados por la legislación reguladora del patrimonio histórico o que estén catalogados por los instrumentos de planeamiento y situados en núcleo urbano.
+– Que estén instalados o que se instalen ajustándose a lo que disponen los instrumentos de ordenación y planeamiento, como aptos para su ubicación en suelo urbano.
+c) Hoteles apartamentos: son los establecimientos que, además de cumplir los requisitos establecidos para los hoteles, disponen de las instalaciones necesarias para la conservación, la elaboración y el consumo de alimentos y bebidas en el interior de alguna unidad de alojamiento, y se ajustan a los requisitos establecidos reglamentariamente.
+d) Alojamientos de turismo interior: son los establecimientos en los que se presta el servicio de alojamiento turístico en un edificio situado en el núcleo antiguo que tenga características similares a las de un hotel u hotel apartamento, que tiene que ser de construcción anterior al 1 de enero de 1940 o estar catalogado por sus valores patrimoniales histórico-artísticos. Estos alojamientos deben disponer de un mínimo de cinco unidades de alojamiento.
+Reglamentariamente, de manera justificada, podrán disponerse otras fechas de antigüedad o distancias con zonas turísticas.
+En este tipo de establecimientos estarán permitidas las ampliaciones que se ajusten a la normativa que les sea de aplicación, incluso mediante la adquisición de edificaciones limítrofes con el establecimiento originario, siempre que reúnan las condiciones expresadas en el primer párrafo del presente apartado.
+e) Hoteles de bienestar: son los establecimientos que, además de cumplir los requisitos establecidos para los hoteles, disponen de instalaciones que, aparte del servicio de alojamiento, ofrecen conjuntamente servicios de bienestar y belleza prestados por personal cualificado.
+Se entiende por servicio de bienestar aquel destinado a promover o mejorar la salud de las personas.
+Es obligatoria la prestación de uno o varios servicios relacionados con el bienestar y la belleza conjuntamente con el servicio de alojamiento.
+Estos establecimientos tendrán una categoría mínima de cuatro estrellas, y pueden disponer para la prestación de los servicios de bienestar y belleza de un máximo del 50 % de la superficie total del conjunto, incluyendo para el cómputo el uso de alojamiento turístico.
+2. En los términos establecidos reglamentariamente y en función de la tipología, las instalaciones, el equipamiento y la calidad de los servicios ofertados, entre otros aspectos, los establecimientos de alojamiento hotelero, exceptuando los alojamientos de turismo de interior, que tendrán su propia categoría, se clasificarán en categorías identificadas con estrellas, además de las que reglamentariamente se pudieran establecer.
+3. Reglamentariamente se podrán crear otros grupos de establecimientos hoteleros en función de los parámetros de calidad de las instalaciones y de los servicios ofertados.
+Se modifica la letra e) del apartado 1 por el art. 2.16 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade la letra e) al apartado 1 por el art. 2.11 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Redactado conforme a la corrección de errores publicada en el BOIB núm. 40, de 22 de marzo de 2022. Ref. BOIB-i-2022-90076
+ Se modifica el apartado 1.d) por el art. único.8 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 40
+
+Artículo 40. Especialización.
+Además de la correspondiente categoría, los hoteles y los hoteles-apartamentos podrán especializarse en función de la diferente temática o de la orientación hacia un determinado producto turístico, cultural, deportivo, artístico, gastronómico, de salud, de accesibilidad o de cualquier otro elemento conceptual que los especialice y diferencie, siempre que cumplan los requisitos y las condiciones establecidos en la presente ley y en su normativa de desarrollo.
+Se entenderá la especialización de los establecimientos como una actuación para el fomento de la desestacionalización.
+
+## Sección 2
+
+Sección 2.ª Apartamentos turísticos
+
+### Artículo 41
+
+Artículo 41. Concepto.
+1. Son apartamentos turísticos los establecimientos destinados a prestar un servicio de alojamiento turístico, que se publiciten como tales, compuestos por un conjunto de unidades de alojamiento que cuentan con mobiliario, instalaciones, servicios y equipo adecuados para la conservación, la elaboración y el consumo de alimentos y bebidas, y en condiciones que permitan su inmediata ocupación, cumpliendo las exigencias establecidas reglamentariamente.
+2. Las unidades de alojamiento que integran estos establecimientos podrán ser, según su tipología constructiva y configuración, bloques de apartamentos, villas, chalés, bungalós o cualquier otra construcción análoga que conformen un todo homogéneo e independiente.
+3. El uso de los apartamentos turísticos comprenderá, en su caso, el de los servicios y las instalaciones incluidos en el bloque o conjunto en el que se encuentren.
+Los apartamentos turísticos tendrán además la opción de ofrecer a sus clientes el servicio de comedor. En este caso, se comunicará a la administración turística en los términos establecidos en esta ley o reglamentariamente.
+4. Los apartamentos turísticos están sometidos al principio de unidad de explotación y uso exclusivo en los términos establecidos en la presente ley y reglamentariamente.
+
+### Artículo 42
+
+Artículo 42. Categorías.
+En los términos establecidos reglamentariamente, y en función de las instalaciones, el equipamiento y los servicios ofertados, entre otros aspectos, los apartamentos turísticos se clasificarán en categorías identificables por llaves, además de las que reglamentariamente se podrán establecer.
+Además de la respectiva categoría, los apartamentos turísticos podrán especializarse en función de la diferente temática o de la orientación hacia un determinado producto turístico, cultural, deportivo, artístico, gastronómico, de salud, de accesibilidad o de cualquier otro elemento conceptual que los especialice y diferencie, siempre que cumplan los requisitos y las condiciones establecidos en la presente ley y la normativa de desarrollo.
+Se entenderá la especialización de los establecimientos como una actuación para el fomento de la desestacionalización.
+
+## Sección 3
+
+Sección 3.ª Establecimientos de alojamiento de turismo rural
+
+### Artículo 43
+
+Artículo 43. Concepto.
+Se entiende por establecimientos de alojamiento de turismo rural los que, situados en edificaciones ubicadas en el medio rural y que cuentan con determinadas características de construcción, tipología, antigüedad e integración en el entorno, se destinan a la prestación de servicios de alojamiento turístico y se publicitan como tales, dando cumplimiento a la normativa reglamentaria que les sea de aplicación.
+
+### Artículo 44
+
+Artículo 44. Clasificación y categorías.
+1. Los establecimientos de alojamiento de turismo rural se clasifican en los tipos siguientes:
+a) Hoteles rurales: son los establecimientos que prestan el servicio de alojamiento turístico y están ubicados en edificaciones construidas antes del 1 de enero de 1940, situadas en suelo rústico y que disponen de una superficie mínima de terreno de 49.000 m2, que tiene que quedar vinculada a la actividad.
+b) Agroturismos: son los establecimientos que prestan el servicio de alojamiento turístico ubicados en edificaciones construidas antes del 1 de enero de 1960, situadas en suelo rústico y en una finca o fincas que tengan una superficie mínima de 21.000 m2 y que constituyan una explotación agraria, ganadera o forestal preferente.
+Los consejos insulares podrán establecer reglamentariamente otros parámetros de antigüedad o de superficie para los hoteles rurales y los agroturismos.
+2. Las construcciones y los anexos construidos legalmente antes de la fecha de entrada en vigor de esta ley, situados en parcelas vinculadas en los registros turísticos al establecimiento turístico, incluidos, los que tengan o hayan tenido un uso diferente del residencial, se podrán destinar a cualquier tipo de uso, incluido el de alojamiento, para el funcionamiento del establecimiento de turismo rural o para la prestación de servicios complementarios a usuarios de servicios turísticos.
+2 bis. En los establecimientos de alojamiento de turismo rural están permitidas las reformas, así como las ampliaciones, siempre que se ajusten a los parámetros establecidos en los instrumentos de ordenación territorial y en la normativa que les sea aplicable.
+Los consejos insulares podrán establecer los porcentajes máximos de cada uso que se deban implantar en las ampliaciones de estos establecimientos.
+3. En estos establecimientos estará permitida la existencia de dependencias destinadas a la vivienda del propietario del establecimiento, del personal empleado en este o del que desempeñe las funciones agropecuarias o forestales.
+4. (Derogado).
+5. Los establecimientos de alojamiento de turismo rural también se podrán establecer en elementos, construcciones o edificaciones catalogadas o protegidas, previo informe, favorable y vinculante, de la administración turística competente y de la administración insular o municipal competente en patrimonio.
+6. Reglamentariamente, en función de las instalaciones, la tipología, el equipamiento y los servicios ofrecidos, se establecerá la categorización específica dentro de cada tipo de establecimiento.
+Además de la respectiva categoría, los establecimientos de turismo rural podrán especializarse en función de la diferente temática o de la orientación hacia un determinado producto turístico, cultural, deportivo, artístico, gastronómico, de salud, de accesibilidad o de cualquier otro elemento conceptual que los especialice y diferencie, siempre que cumplan los requisitos y las condiciones establecidos en la presente ley y su normativa de desarrollo.
+Se entenderá la especialización de los establecimientos como una actuación para el fomento de la desestacionalización.
+7. Los Agroturismos, regulados en el artículo 44 de la Ley 8/2012, suscribirán una póliza de seguro que cubra la responsabilidad civil por los daños corporales y materiales que puedan sufrir los clientes y usuarios.
+Se modifica el apartado 1.b) por la disposición adicional 14 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#da-14
+ Se deroga el apartado 4 por la disposición derogatoria única.1.a) de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+ Se derogan los párrafos 2 y 3 del apartado 4 por la disposición derogatoria única.2.d) de la Ley 12/2016, de 17 de agosto. Ref. BOE-A-2016-8518#dd
+ Se modifica el apartado 2 bis. por el art. 3.2 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225
+ Téngase en cuenta que se suspendió la aplicación del apartado 4 y posteriormente quedó levantada por cumplimento del plazo establecido en la disposición adicional única.4 del citado Decreto-ley.
+ Se modifica el apartado 4 y se añade el 7 por los arts. 6 y 7.1 del Decreto-ley 3/2014, de 5 de diciembre. Ref. BOE-A-2015-1062
+ Se modifica el apartado 2 y se añade el 2 bis por el art. 8 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+
+## Sección 4
+
+Sección 4.ª Albergues, refugios y hospederías
+
+### Artículo 45
+
+Artículo 45. Albergues y refugios.
+Se entienden por albergues o refugios aquellos establecimientos que faciliten al público en general servicios de alojamiento en habitaciones de capacidad múltiple, con o sin otros servicios complementarios de manutención, y que pueden ofrecer la práctica de actividades de ocio, educativas de contacto con la naturaleza o deportivas.
+Reglamentariamente por parte de la administración competente se podrá regular la creación, la existencia, el funcionamiento y el régimen jurídico de los albergues y refugios.
+
+### Artículo 46
+
+Artículo 46. Hospederías.
+Se entiende por hospederías aquellos establecimientos que formando parte de una iglesia, capilla o santuario destinan algunas de sus dependencias al servicio de alojamiento al público en general.
+Reglamentariamente por parte de la administración competente se podrá regular la existencia, el funcionamiento y el régimen jurídico de las hospederías.
+
+## CAPÍTULO III
+
+Empresas turístico-residenciales
+
+### Artículo 47
+
+Artículo 47. Concepto.
+1. Son empresas turístico-residenciales a los efectos de esta ley aquellas que, además de cumplir los requisitos de las empresas de explotación de establecimientos de alojamiento turístico a partir de cinco estrellas o similar categoría, ofrecen los servicios de estos a los titulares de viviendas o unidades de alojamiento residencial pertenecientes al mismo complejo, que, por su proximidad al establecimiento de alojamiento turístico y por los demás elementos de hecho y de accesibilidad, permiten prestar los servicios ofertados en las mismas condiciones de calidad que se ofrecen en el establecimiento de alojamiento turístico.
+2. Reglamentariamente se podrá desarrollar el régimen jurídico de este tipo de complejos.
+
+### Artículo 48
+
+Artículo 48. Enajenación de unidades de alojamiento y obligatoriedad de prestación de servicios.
+En los establecimientos de alojamiento turístico a partir de cinco estrellas o similar categoría se podrán enajenar hasta el 50% de las unidades de alojamiento del establecimiento para destinarlas a residencias turísticas unifamiliares, siempre que no tengan una superficie inferior a 75 m2 construidos y tengan garantizadas la oferta y la prestación de todos los servicios en las mismas condiciones de calidad en que el establecimiento las ofrece a sus clientes.
+
+## CAPÍTULO IV
+
+Empresas comercializadoras de estancias turísticas en viviendas
+Téngase en cuenta que se suspende, hasta el 31 de diciembre de 2021, y en cuanto al ámbito territorial del municipio de Palma, la posibilidad de presentar declaraciones responsables de inicio de actividad turísticas relativas de la comercialización de estancias turísticas de viviendas a la que hace referencia en este capítulo IV, título III, según establece la disposición adicional 6 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#da-6
+Se suspende, hasta el 31 de diciembre de 2021, y en cuanto al ámbito territorial del municipio de Palma, la posibilidad de presentar declaraciones responsables de inicio de actividad turísticas relativas de la comercialización de estancias turísticas de viviendas a la que hace referencia en este capítulo IV, título III, según establece la disposición adicional 6 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#da-6
+ Este Capítulo fue suspendido por el Decreto-ley 8/2020, de 13 de mayo.
+ Se suspende, hasta el 31 de diciembre de 2021, y en cuanto al ámbito territorial del municipio de Palma, la posibilidad de presentar declaraciones responsables de inicio de actividad turísticas relativas de la comercialización de estancias turísticas de viviendas a la que hace referencia en este capítulo IV, título III, según establece la disposición adicional 6 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#da-6
+
+### Artículo 49
+
+Artículo 49. Concepto.
+Son empresas comercializadoras de estancias turísticas en viviendas las personas físicas o jurídicas que comercializan turísticamente la totalidad de una vivienda residencial, por periodos de corta duración, en condiciones de uso inmediato y con finalidad lucrativa, comercialización que se puede alternar con el uso propiamente de vivienda que las caracteriza.
+Se modifica por el art. 1 del Decreto-ley 3/2017, de 4 de agosto. Ref. BOE-A-2017-11003#a1
+
+### Artículo 50
+
+Artículo 50. Requisitos para la comercialización.
+1. Se pueden comercializar estancias turísticas de corta duración en viviendas de uso residencial siempre que lleve a cabo esta comercialización la persona propietaria o se haga por medio de operadores o cualquiera de los canales de comercialización turística, en los términos de esta ley y en los del desarrollo reglamentario.
+2. Sólo se puede llevar a cabo la actividad de comercialización de estancias turísticas en viviendas si se hace en viviendas residenciales que tengan la cédula de habitabilidad en vigor, el título de habitabilidad análogo expedido a este efecto por la administración insular competente o la licencia de ocupación o de primera utilización otorgada por el ayuntamiento cuando en esta conste el número de plazas. Están excluidas de esta exigencia las viviendas que la normativa exceptuó de esta necesidad.
+3. Solo se pueden presentar nuevas declaraciones responsables de inicio de actividad de comercialización de estancias turísticas en viviendas y, por lo tanto, llevar a cabo una nueva comercialización turística, si estas declaraciones se refieren a viviendas de uso residencial que estén ubicadas en las zonas declaradas aptas de manera expresa siguiendo el procedimiento previsto en el artículo 5 o delimitadas provisionalmente de acuerdo con lo que prevé el artículo 75, ambos de esta ley.
+En todos los casos, la presentación de la DRIAT que se refiera a estancias turísticas llevadas a cabo en viviendas residenciales sometidas al régimen de propiedad horizontal, o a las de las tipologías que se determinen reglamentariamente, habilita para el ejercicio de la actividad por el plazo que se fije reglamentariamente y que, por defecto, es de cinco años desde la presentación a la administración turística. Pasado el plazo establecido, se puede continuar con la comercialización turística solo si se siguen cumpliendo todos los requisitos determinados legalmente o reglamentariamente, incluido que la zona siga siendo apta, por periodos prorrogables del mismo plazo, con los condicionantes que se establecen en el párrafo siguiente.
+Durante el mes anterior a la finalización de cada periodo, si la vivienda sigue cumpliendo todos los requerimientos determinados legal o reglamentariamente, la persona propietaria de la vivienda, o la persona comercializadora, con el permiso expreso de esta, puede presentar a la administración turística una comunicación relativa al hecho de que se prorroga el plazo de comercialización por el mismo período, que sigue cumpliendo los requerimientos normativos y que tiene el certificado del órgano gestor de plazas o de la administración turística que acredita que puede disponer de manera temporal de las plazas por otro período. En caso de que se cumpla el plazo y no se haya producido esta comunicación o que la vivienda ya no cumpla los requerimientos normativos establecidos en aquel momento, incluidos los urbanísticos, tiene que cesar la actividad de comercialización de estancias turísticas, la vivienda tiene que pasar a situación de baja definitiva y las plazas tienen que retornar de manera automática a los organismos gestores de plazas o a la administración turística.
+4. No se pueden comercializar estancias turísticas en ninguna vivienda con respecto a la cual se imponga sanción firme por infracción grave o muy grave de la legalidad urbanística, mientras no se restituya esta legalidad.
+Las viviendas objeto de comercialización de estancias turísticas que hayan sido sancionadas por una resolución firme no podrán ser objeto de resolución de cambio de titularidad en tanto en cuánto la deuda existente con la administración turística sancionadora no haya sido liquidada previamente.
+5. Las viviendas residenciales objeto de comercialización turística tienen que acreditar la sostenibilidad mediante la obtención, previa a la comercialización, del certificado energético que se determine reglamentariamente. En defecto de reglamento, las calificaciones mínimas serán las siguientes:
+– Calificación F, para edificaciones anteriores al 31/12/2007.
+– Calificación D, para edificaciones posteriores al 01/01/2008.
+Este requisito no se tiene que exigir en las viviendas con respecto a las cuales la normativa de patrimonio u otra lo imposibilite, caso en que se tiene que obtener la máxima que al respecto posibilite la normativa.
+6. Las viviendas objeto de comercialización turística que presenten declaración responsable deben contar con los sistemas de control del consumo de agua que se determinen reglamentariamente. En defecto del reglamento, tienen que estar dotadas de medidores o contadores individuales de agua dados de alta con la empresa suministradora, cuando reciban este servicio a partir de una red pública de abastecimiento. Asimismo tienen que estar dotadas de contadores individuales con respecto a otros suministros energéticos vinculados a la vivienda, como electricidad o gas.
+Asimismo, tienen que cumplir la normativa de sostenibilidad y accesibilidad aplicable a las viviendas, de conformidad con lo que disponga la normativa específica y respetando la normativa relativa a patrimonio.
+7. No se pueden presentar declaraciones responsables para comercializar turísticamente viviendas sometidas al régimen de propiedad horizontal si lo impiden el título constitutivo o los estatutos de la comunidad de propietarios, en el sentido de que determinen la no posibilidad de uso para finalidades diferentes a las de vivienda. Para uso diferente del de vivienda se tiene que entender todo uso que permitiría una utilización diferente a la de satisfacer la necesidad permanente de vivienda. Para las modificaciones de estas previsiones se deberá estar al régimen determinado en el artículo 17.6 de la Ley 49/1960, de 21 de julio, de propiedad horizontal.
+Si el título constitutivo o los estatutos no impiden la comercialización turística de las viviendas en los términos expuestos en el párrafo anterior o en su defecto, es necesario, para llevar a cabo la comercialización turística, y solamente a este efecto, un acuerdo de la junta de propietarios en el que la mayoría de personas propietarias, que a la vez constituyen la mayoría de cuotas de propiedad, acepten expresamente la posibilidad de comercialización turística de las viviendas, acuerdo que la misma mayoría puede modificar. En este supuesto resulta de aplicación el régimen determinado en el artículo 17.7 de la Ley 49/1960, de 21 de julio, de propiedad horizontal. Este acuerdo se inscribirá en el Registro de la Propiedad, siempre que sea posible conforme a la normativa sectorial específica (a fin de informar a posibles terceras personas adquirientes de viviendas).
+Este acuerdo no es necesario si el título constitutivo o los estatutos ya admiten expresamente la posibilidad de comercialización turística de las viviendas. Para la modificación de estas previsiones se deberá estar al régimen determinado en el artículo 17.6 de la Ley 49/1960, de 21 de julio, de propiedad horizontal.
+Cuando el número de propietarios no exceda de cuatro la aceptación de la posibilidad de comercialización turística se podrá acordar por mayoría en la forma que determina el artículo 13.8 de la Ley 49/1960 en remisión al artículo 398 del Código Civil.
+En todos los casos, en el momento de cambios en los estatutos o acuerdos de la junta de propietarios que impidan la comercialización turística, esta tendrá que cesar en el plazo máximo de un año, siempre que no exceda el plazo máximo de cinco años o el que se determine reglamentariamente fijado por el punto 3 de este mismo artículo. Estos cambios se tienen que comunicar a la administración turística.
+8. No se puede comercializar turísticamente ningún tipo de vivienda residencial sometida o que haya sido sometida al régimen de protección oficial o a precio tasado.
+9. Se tienen que ofrecer los servicios turísticos contenidos en el artículo 51, así como cumplir el resto de requisitos determinados por esta ley y la normativa de desarrollo.
+10. La persona comercializadora tiene que cumplir todos los requerimientos normativos que exija la actividad, entre otros: los requerimientos que puedan ser exigibles para ejercer la actividad empresarial; los de la legislación laboral, si tiene personal contratado; y los requerimientos de carácter tributario contenidos en la normativa específica.
+11. La persona comercializadora de estancias turísticas tiene que remitir a la Dirección General de Policía la información relativa a la estancia de las personas que se alojen en ellas, de conformidad con la normativa de seguridad ciudadana.
+12. Las personas usuarias alojadas deben cumplir los usos de convivencia y orden público, así como, en los casos de propiedad horizontal, las normas de régimen interior de la comunidad de propietarios donde está ubicada la vivienda. La persona comercializadora hará constar en el contrato de alojamiento que se firme con las personas usuarias, de forma expresa, la prohibición de llevar a cabo fiestas u otros tipos de eventos que puedan ir contra las normas básicas de convivencia o las que puedan fijar los estatutos de la comunidad de propietarios en las viviendas sujetas al régimen de propiedad horizontal. En caso de que se produzcan estas alteraciones, la persona comercializadora de la vivienda, a partir de que tenga constancia de los hechos, requerirá que el abandono de la misma por el cliente se haga en un plazo máximo de veinticuatro horas. La presunción de conocimiento por parte del propietario únicamente será aplicable en cuanto haya evidencia clara de que el propietario fue informado o consintió la actividad ilícita.
+13. Las estancias que se comercializan turísticamente tienen que consistir en la cesión temporal del derecho de disponer de la totalidad de la vivienda por periodos de corta duración, entendidos como estancias por días o semanas, sin que una estancia pueda ser superior a un mes. A estos efectos se tiene que entender que se supera el mes cuando se superan las treinta noches.
+14. Se presume que hay comercialización de estancias turísticas si se comercializan en condiciones de uso inmediato, por periodos de corta duración y no se puede acreditar que la finalidad de la comercialización es diferente a la turística.
+15. Las estancias turísticas reguladas en este capítulo son incompatibles con la formalización de contratos por habitaciones o con la coincidencia en la misma vivienda de personas usuarias que hayan formalizado contratos diferentes, sin perjuicio de la regulación de estancias turísticas en habitaciones que se pueda establecer.
+16. Las empresas comercializadoras de estancias turísticas en viviendas residenciales tienen que suscribir una póliza de seguro que cubra la responsabilidad civil por los daños corporales o materiales que puedan sufrir las personas usuarias de las viviendas durante las estancias en estas y, asimismo, en el caso de viviendas sometidas al régimen de propiedad horizontal, que cubra los daños que eventualmente puedan ocasionar las personas usuarias a la comunidad de propietarios.
+17. Las viviendas residenciales respecto de las cuales se presente la declaración responsable con el fin de iniciar la actividad de comercialización de estancias turísticas deben tener la antigüedad mínima que se determine reglamentariamente, acreditable mediante la declaración de obra nueva o la licencia de primera ocupación, o mediante un certificado municipal emitido a este efecto. Durante este periodo el uso de la vivienda tiene que haber sido residencial privado. En defecto de reglamentación, la antigüedad mínima será de cinco años.
+18. No se permite el inicio de nuevas actividades de comercialización turística en viviendas residenciales situadas en suelo rústico protegido.
+No obstante, los PIAT o los PTI de cada isla pueden, de manera motivada, establecer otras previsiones con respecto al caso.
+19. Las viviendas en las cuales esté permitida la comercialización de estancias turísticas y estén ubicadas en las áreas de prevención de riesgos de incendios, también tienen que tomar las medidas previstas en el punto 1.a) de las normas específicas del anexo 1 de la Ley 6/1999, de 3 de abril, de directrices de ordenación territorial y medidas tributarias.
+20. Cuando la comercialización la lleven cabo personas físicas exclusivamente en una vivienda de su propiedad que sea la vivienda principal, independientemente de su tipología unifamiliar o plurifamiliar, por un plazo máximo de 60 días en un periodo de un año, la comercialización de estancias turísticas se puede llevar a cabo con la modalidad de alquiler de vivienda principal. Para llevar a cabo esta modalidad se cumplirán los mismos requisitos y obligaciones establecidos en este artículo o desarrollados reglamentariamente, con las particularidades anteriores y las que se mencionan a continuación.
+En el momento de presentar la declaración responsable la persona comercializadora acreditará que se trata de la vivienda principal de la forma que se determine reglamentariamente. También indicará, en la forma que se determine reglamentariamente, la distribución de los plazos de comercialización durante el año, que no pueden superar los 60 días.
+Asimismo, sólo se puede presentar la declaración si la vivienda está ubicada en una zona declarada apta de manera expresa para acoger esta modalidad por los consejos insulares o por el Ayuntamiento de Palma, de conformidad con lo que dispone el artículo 75 de esta ley.
+La declaración habilita para el ejercicio de la actividad por un plazo de cinco años, o lo que se determine reglamentariamente, con el mismo régimen y los mismos requisitos de autorización y renovación establecidos para las viviendas sometidas al régimen de propiedad horizontal en el apartado tercero anterior. Para la prórroga es necesario, además, acreditar que la vivienda sigue siendo la vivienda principal del comercializador.
+Excepcionalmente, en esta modalidad se permite la convivencia de las personas residentes en la vivienda con las personas usuarias, siempre que este hecho se indique claramente en toda la publicidad y el número total de personas no supere el número de plazas de la cédula de habitabilidad, del título de habitabilidad análogo de la vivienda o de la licencia de ocupación o de primera utilización cuando en esta conste el número de plazas.
+21. Reglamentariamente, o mediante los PIAT y, en su caso, los PTI, deben desarrollarse los requisitos, las condiciones, los límites y el contenido de la actividad de comercialización de estancias turísticas en viviendas de uso residencial.
+En este sentido, por razones de saturación, corrección de la estacionalidad, motivos de orden medioambiental y de limitación de recursos naturales, los señalados instrumentos de ordenación territorial o las disposiciones normativas de aplicación de esta ley pueden establecer cláusulas temporales que limiten o excluyan la comercialización de estancias turísticas en viviendas de uso residencial en determinadas zonas. Estas limitaciones temporales o estacionales tienen que ser proporcionadas y estar debidamente justificadas.
+22. Hasta que no se lleve a cabo un desarrollo reglamentario en los términos permitidos en esta ley:
+a) La distribución de los plazos de comercialización turística de los 60 días se tendrá que indicar en la DRIAT por meses completos. En caso de cambios, se tendrá que presentar comunicación en el mes de enero de cada año.
+b) No se permite la coincidencia en el inmueble de personas usuarias que hayan formalizado contratos diferentes.
+c) El plazo de cinco años aplicable a las viviendas sometidas al régimen de propiedad horizontal se aplicará en general a las viviendas ubicadas en edificios plurifamiliares, entendidos como aquellos integrados por dos o más viviendas que compartan accesos o elementos comunes.
+En general, las referencias hechas en esta ley a viviendas sometidas a propiedad horizontal se tienen que entender también hechas a viviendas ubicadas en edificios plurifamiliares.
+d) No se permite ofrecer servicios de restauración a las personas alojadas.
+e) Junto con la presentación de la declaración responsable de inicio de actividad turística, se tendrá que presentar la siguiente documentación: acreditación de la personalidad; certificado municipal acreditativo de estar en zona apta, y de que no se ha superado, en su caso, el número máximo de plazas en el municipio; certificado acreditativo de la adquisición de las plazas turísticas; certificado de empadronamiento del propietario en cuanto a las comercializaciones previstas en el punto 20; documentación acreditativa en los términos del punto 7 de que en la comunidad se permite la comercialización turística en cuanto a las viviendas sometidas a propiedad horizontal; anexo 6 del Decreto 20/2015 cumplimentado.
+23. De conformidad con el artículo 14.3 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común, tanto la persona comercializadora como la propietaria de la vivienda quedan obligadas a relacionarse por medios electrónicos con la Administración.
+Se modifica el apartado 12 por el art. único.1 de la Ley 1/2025, de 13 de junio. Ref. BOE-A-2025-14460
+ Se modifica el apartado 13 y se añade el apartado 23 por el art. 2.3 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifican los apartados 2 y 20 por el art. 47.1 y 2 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a4-9
+ Se modifican los apartados 2 y 20 por el art. 47.1 y 2 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a4-9
+ Se modifica el párrafo segundo del apartado 7 por el art. 2.17 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica el apartado 4 por la disposición final 4.14 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-4
+ Se modifica el apartado 7 y se añade el 22 por el art. 1.3 y 4 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se modifica por el art. único.9 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 51
+
+Artículo 51. Servicios turísticos.
+1. La persona comercializadora de estancias turísticas en viviendas de uso residencial tiene que garantizar, con el objeto de facilitar la estancia, la prestación directa o indirecta de los servicios turísticos siguientes:
+a) Limpieza periódica de la vivienda, antes de la entrada de los nuevos clientes o durante su estancia, según contrato.
+b) Suministro de ropa de cama, lencería, menaje de la casa en general y reposición de estos.
+c) Mantenimiento de las instalaciones.
+d) Cualquier otro que se pueda determinar reglamentariamente.
+En caso de contratarse personal para llevar a cabo los servicios mencionados, se tienen que cumplir las normas laborales, de seguridad social y de prevención de riesgos laborales aplicables a los trabajadores, así como el convenio colectivo que sea de aplicación.
+2. A los efectos de garantizar la efectividad de los servicios citados en el apartado anterior, la persona comercializadora de estancias turísticas en viviendas de uso residencial dispondrá, a partir del 1 de mayo de 2023, de un libro registro, habilitado por la administración turística insular, en el que se hará constar la fecha y la identificación de la persona física y/o jurídica que lleve a cabo las actividades descritas en el apartado anterior, incluso si se trata de la misma persona comercializadora y/o propietaria.
+El libro registro adoptará el modelo determinado por la administración turística insular, que puede ser electrónico siempre que quede garantizada su veracidad y comprobación de datos. La habilitación consiste en la verificación de que el libro se ajusta al modelo citado.
+En caso de solicitar la renovación del libro, la persona comercializadora de estancias turísticas en viviendas de uso residencial presentará el libro anterior para justificar la finalización de sus hojas o su deterioro.
+En caso de pérdida o destrucción del libro u otra circunstancia similar, se justificará mediante una declaración escrita de la persona comercializadora de estancias turísticas en viviendas de uso residencial comprensiva de la no presentación y las pruebas de que disponga, y esta circunstancia se hará constar en la diligencia de habilitación; posteriormente se reproducirán en el nuevo libro las anotaciones efectuadas en el anterior.
+El libro registro permanecerá actualizado durante los periodos de estancia turística, a disposición de los inspectores de la administración turística insular.
+3. Además de las obligaciones impuestas en el artículo 19 de la presente ley a todas las empresas turísticas, la persona o entidad comercializadora de estancias turísticas en viviendas de uso residencial tiene que posibilitar la asistencia telefónica al turista o usuario durante las veinticuatro horas. Este número y servicio también tiene que estar a disposición de la comunidad de propietarios a fin de poder comunicar incidencias graves que se puedan producir y que le afecten.
+Se modifica por el art. 2.18 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.12 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se modifica por el art. único.10 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+ Se añade el apartado 3 por el art. 7.2 del Decreto-ley 3/2014, de 5 de diciembre. Ref. BOE-A-2015-1062
+
+### Artículo 52
+
+Artículo 52. Capacidad, equipamiento mínimo y presentación de la DRIAT.
+1. Las viviendas de uso residencial pueden comercializar estancias turísticas por el número máximo de plazas que permita la cédula de habitabilidad, el título de habitabilidad análogo o la licencia de ocupación o de primera utilización cuando en esta conste el número de plazas.
+2. En defensa de las personas consumidoras y usuarias, las viviendas deben tener el equipamiento mínimo que se determine reglamentariamente. En defecto de reglamentación, tienen que disponer al menos de un cuarto de baño por cada cuatro plazas. En los casos de plazas que excedan el número de cuatro o de múltiplos de cuatro ya se exige un nuevo cuarto de baño.
+3. No se pueden comercializar estancias turísticas en viviendas que no cumplan todo lo que determinan esta ley y la normativa de desarrollo, así como la normativa urbanística en los términos de esta ley y que no hayan presentado la DRIAT a la administración competente.
+Se modifica el apartado 1 por el art. 47.3 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a4-9
+ Se modifica el apartado 1 por el art. 47.3 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a4-9
+ Se modifica por el art. único.11 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+ Se modifica por el art. único del Decreto-ley 6/2013, de 29 de noviembre. Ref. BOIB-i-2013-90261
+ Incluye corrección de errores establecida por Acuerdo del Consejo de Gobierno de 5 de diciembre de 2013 publicado en BOIB, núm. 169, de 7 de diciembre de 2013. Ref. BOIB-i-2013-90288
+
+## CAPÍTULO V
+
+Empresas turísticas de restauración
+
+### Artículo 53
+
+Artículo 53. Concepto.
+1. Se entiende por empresa turística de restauración toda aquella cuya actividad principal consiste en la prestación del servicio turístico de restauración.
+2. El servicio turístico de restauración consiste en el suministro de comidas o bebidas para ser consumidas en el mismo establecimiento abierto al público en general que cumpla las condiciones establecidas en esta ley, así como los requisitos de infraestructura, servicios, equipamiento y otras características que se determinen reglamentariamente.
+3. No tendrán la consideración de establecimientos que prestan servicios turísticos de restauración a los efectos de esta ley:
+a) Aquellos, cualquiera que sea su titular, en que el servicio de restauración se preste de forma gratuita o asistencial.
+b) Los que sirvan comidas o bebidas a colectivos particulares excluyendo al público en general, tales como comedores universitarios, escolares o de empresa.
+c) Los que hay en las empresas turísticas de alojamiento y en las empresas turísticas residenciales, siempre que estén estrictamente destinados a los usuarios del servicio turístico.
+d) Los que presten exclusivamente servicios de suministro de comidas y bebidas a domicilio.
+e) Los prestados en medios de transporte.
+f) Los prestados a través de máquinas expendedoras.
+g) Los que consistan en servir comidas o bebidas de manera ambulante, es decir, fuera de un establecimiento abierto al público, en puestos o instalaciones desmontables, así como en vehículos, y los que consistan en la venta de bebidas o comidas en instalaciones que se montan de forma ocasional con motivo de ferias, fiestas o mercados.
+4. Conforme a lo dispuesto en el artículo 26.3 de esta ley, la actividad consistente en la explotación de un establecimiento de restauración tendrá la consideración de actividad única, pudiéndose ofrecer en el ejercicio de dicha actividad servicios complementarios a los usuarios de servicios turísticos, sin que sea preceptiva la obtención de una licencia de actividades para cada uno de los servicios complementarios que se presten, sin perjuicio del cumplimiento de la normativa específica y sectorial de los servicios ofertados.
+Se modifican las letras c) y d) del apartado 3 por el art. 2.19 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifican las letras c) y d) del apartado 3 por el art. 2.13 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 54
+
+Artículo 54. Clasificación.
+1. Los establecimientos de restauración se clasifican en los siguientes grupos:
+a) Restaurante: se entiende por restaurante el establecimiento que dispone de cocina y servicio de comedor independiente en el cual se consumen los platos y las bebidas que son suministrados.
+b) Bar-cafetería: se entiende por bar-cafetería el establecimiento que sirve ininterrumpidamente durante su apertura comidas y bebidas para su consumo en barra o mesa del propio establecimiento.
+c) Clubes de playa: son los establecimientos que, situados en las zonas determinadas por el artículo 3.1 de la Ley 22/1988, de 28 de julio, de Costas, o en solares, terrenos o edificaciones situados frente al mar, siempre cumpliendo las determinaciones de la legislación de costas, ofrecen como actividad principal la de restauración, que se complementa con servicios de animación, venta de productos, alquiler de hamacas, así como otros servicios náuticos.
+d) Cualquier otro establecimiento de restauración que se determine reglamentariamente.
+Los servicios de restauración que se ofrezcan en discotecas, terrazas, salas de fiesta, locales destinados a juegos recreativos, de azar u otros análogos se incluirán en cualquiera de los grupos anteriores en función de las características de cada establecimiento y de los servicios que ofrezcan.
+Se modifica la letras c) y se añade la d) al apartado 1 por el art. 2.20 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+
+### Artículo 55
+
+Artículo 55. Especialización.
+Además de la correspondiente clasificación, los establecimientos de restauración podrán especializarse en función de la diferente temática o de la orientación hacia un determinado producto gastronómico, culinario o enológico, de la tipicidad, del origen o de cualquier otro elemento conceptual que los especialice y diferencie, siempre que cumplan los requisitos y las condiciones establecidos en la presente ley y en su normativa de desarrollo.
+
+## CAPÍTULO VI
+
+Empresas de intermediación turística
+
+### Artículo 56
+
+Artículo 56. Concepto.
+Se entienden por empresas de intermediación turística las que desarrollan actividades de mediación y organización de servicios turísticos de forma profesional a través de procedimientos de venta presencial o a distancia.
+
+### Artículo 57
+
+Artículo 57. Clasificación.
+1. Las actividades de intermediación turística se clasifican en los siguientes tipos:
+a) Agencias de viajes.
+b) Mediadores turísticos.
+c) Centrales de reservas.
+2. Reglamentariamente se establecerán los requisitos exigibles a las empresas de intermediación turística.
+
+### Artículo 58
+
+Artículo 58. Las agencias de viajes.
+1. Las agencias de viajes domiciliadas en la comunidad autónoma de las Illes Balears serán objeto de inscripción en los registros insulares correspondientes y en el Registro General de Empresas, Actividades y Establecimientos Turísticos, mediante la declaración responsable de inicio de actividad turística, en la que constará la declaración de tener constituida la garantía definida en este artículo, en cumplimiento de las exigencias contenidas en el Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley general para la defensa de los consumidores y usuarios, y en otras leyes complementarias, así como en la Directiva 2015/2302, del Parlamento Europeo y del Consejo.
+Las agencias de viajes establecidas en otra comunidad autónoma o en otro estado de la Unión Europea que quieran abrir un establecimiento en las Illes Balears también serán objeto de inscripción en los registros turísticos, previa presentación de la declaración responsable de inicio de actividad turística. En este caso, las administraciones turísticas competentes aceptarán toda protección constituida por el organizador o minorista conforme con la normativa del estado miembro o de la comunidad autónoma de su establecimiento.
+Las agencias de viajes establecidas fuera del ámbito de la Unión Europea que quieran abrir un establecimiento en las Illes Balears también presentarán a la administración turística la declaración responsable de inicio de actividad, que también incluirá la declaración de tener constituida la garantía exigida por la normativa de las Illes Balears, en sus términos.
+2. Son actividades de las agencias de viajes la organización o venta de viajes combinados, tal como se definen en la Directiva 90/314/CEE del Consejo, de 13 de junio de 1990, relativa a los viajes combinados, las vacaciones combinadas y los circuitos combinados; y en la Directiva 2015/2302, del Parlamento Europeo y del Consejo, que derogará la anterior a partir del 1 de julio de 2018; o tal como puedan ser definidos por la normativa de transposición estatal.
+3. Además de lo mencionado respecto a los viajes combinados, las agencias de viajes podrán ofrecer otros servicios, dentro del marco normativo europeo.
+4. Antes del ejercicio de la actividad, y durante este, es obligatorio mantener vigente por parte de las agencias de viajes la garantía mencionada en el apartado 1 de este artículo, para responder, con carácter general, del cumplimiento de las obligaciones derivadas de la prestación de sus servicios ante los contratantes de un viaje combinado y, especialmente, en caso de insolvencia, del reembolso efectivo de todos los gastos realizados por los viajeros o por un tercero en su nombre, en la medida en que no se hayan prestado los servicios correspondientes y, en el supuesto de que se incluya el transporte, de la repatriación efectiva de aquellos, sin perjuicio de que se pueda ofrecer la continuación del viaje.
+A estos efectos la insolvencia se entenderá producida tan pronto como, a consecuencia de los problemas de liquidez del organizador o del minorista, los servicios de viaje dejen de ejecutarse, no se tengan que ejecutar, o se tengan que ejecutar solo en parte, o cuando los prestadores de servicios exijan su pago a los viajeros. Producida la insolvencia, la garantía tendrá que estar disponible, pudiendo el viajero acceder fácilmente a la protección garantizada. Los reembolsos correspondientes a servicios de viaje no ejecutados se efectuarán en un plazo no superior a un mes previo requerimiento de la persona viajera.
+Esta garantía puede revestir tres formas:
+a) Garantía individual: mediante un seguro, un aval u otra garantía financiera. El importe de esta garantía tiene que ser equivalente, como mínimo, al 5% del volumen de negocio derivado de los ingresos por la organización o venta de viajes combinados a qué llegó la agencia de viajes en el ejercicio anterior, y en cualquier caso el importe no puede ser inferior a 100.000 euros.
+Esta cobertura tendrá que adaptarse en caso de que aumenten los riesgos, especialmente si se produce un incremento importante de la organización o venta de viajes combinados.
+Cuando se trate de agencias de viajes de nueva creación, durante el primer año de ejercicio de la actividad, esta garantía tiene que cubrir un importe mínimo de 100.000 euros. A partir del segundo año de ejercicio de la actividad se aplica lo dispuesto en el párrafo anterior.
+b) Garantía colectiva: las agencias de viajes pueden constituir una garantía colectiva a través de las asociaciones empresariales legalmente constituidas, mediante aportaciones a un fondo solidario de garantía. La cuantía de esta garantía colectiva será de un mínimo del 50% de la suma de las garantías que los organizadores o detallistas individualmente considerados tendrían que constituir de acuerdo con el apartado anterior. En ningún caso el importe global del fondo podrá ser inferior a 2.500.000 euros.
+c) Garantía por cada viaje combinado: el organizador o detallista podrá contratar un seguro para cada viaje combinado.
+En el momento en que el viajero lleve a cabo el primer pago por anticipado del precio del viaje combinado, el organizador o, si procede, el detallista, le facilitará un certificado que acredite la existencia y plena vigencia de la garantía, el derecho a reclamar directamente a la entidad garante, el nombre de esta y sus datos de contacto, así como el procedimiento y plazo para ejercitar la reclamación.
+Cuando la ejecución del viaje combinado se vea afectada por la insolvencia del organizador o minorista, la garantía se activará gratuitamente para las repatriaciones y, en caso necesario, para la financiación del alojamiento previo a la repatriación.
+A efectos de este artículo se entenderá por repatriación la vuelta del viajero al lugar de salida o a cualquiera otro lugar acordado por las partes contratantes.
+En caso de que una agencia de viajes no tenga vigente la garantía mencionada en este artículo, tiene que cesar en su actividad como tal. Si la agencia no ha cesado voluntariamente, la administración podrá decretar el cese mediante expediente administrativo al efecto, durante la tramitación del cual se podrá llevar a cabo una suspensión cautelar de la actividad.
+Con carácter general, en el supuesto de que las agencias de viajes sean sujetos de un expediente de renuncia, suspensión, cese o baja de su actividad, no podrá ser cancelada la garantía respecto a los viajes ya vendidos por la agencia.
+En el supuesto de que las agencias de viajes, en sus diferentes modalidades, cesen en su actividad, la garantía quedará afecta durante dos años al cumplimiento de las responsabilidades establecidas por los viajes combinados.
+Las cuantías determinadas en este punto pueden ser modificadas reglamentariamente.
+5. Asimismo, las agencias de viajes tienen que afianzar su responsabilidad mediante la suscripción de una póliza de seguro que garantice los posibles riesgos de su responsabilidad. La póliza de seguro para afianzar el desarrollo normal de la actividad que garantice los posibles riesgos de su responsabilidad tiene que ser directa o subsidiaria, según si se utilizan medios propios o no en la prestación del servicio. La póliza de seguro tiene que cubrir los tres bloques de responsabilidad siguientes:
+La responsabilidad civil de la explotación del negocio.
+La responsabilidad civil indirecta o subsidiaria.
+La responsabilidad por daños patrimoniales primarios.
+Estas coberturas incluyen toda clase de daños corporales, daños materiales y otros perjuicios económicos.
+La póliza tiene que cubrir siniestros, como mínimo, por valor de 450.000 euros, divididos en 150.000 euros para cada uno de los bloques. La póliza tiene que ir firmada por el tomador del seguro y por la entidad asegurada, acompañada del recibo acreditativo del pago. Las agencias de viajes están obligadas a mantener la vigencia de esta póliza.
+Las agencias de viajes ya establecidas en otra comunidad autónoma o en otro Estado miembro de la Unión Europea que abran un establecimiento en las Illes Balears tienen que acreditar que tienen constituida una póliza de seguro en los términos descritos y al menos por las cantidades indicadas antes.
+Las cuantías determinadas en este punto pueden ser modificadas reglamentariamente.
+Se modifica el apartado 1 por el art. 2.21 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica el apartado 1 por el art. 2.14 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se modifican los apartados 1 y 4 por la disposición final 3 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
+ Esta modificación entra en vigor el 16 de abril de 2019, según establece la disposición final 5 de la citada ley. Véase su disposición transitoria 4.
+ Se modifica por el art. 1.5 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+### Artículo 59
+
+Artículo 59. Mediadores turísticos y centrales de reservas.
+1. Se entiende por mediador turístico aquella persona física o jurídica que se dedica a la prestación de servicios turísticos que pueden ser ofertados por cualquiera de las empresas a que se refiere el artículo 26 de esta ley, consistentes en la organización de excursiones, visitas guiadas u otros servicios análogos que no tengan la consideración de viajes combinados.
+2. Se entiende por central de reserva a la persona física o jurídica que desarrolla la actividad de intermediación turística que consiste principalmente en reservar servicios turísticos de forma individualizada. Las centrales de reserva no tienen capacidad para organizar viajes combinados.
+Se deroga el segundo párrafo del apartado 1 por la disposición derogatoria del Decreto-ley 3/2014, de 5 de diciembre. Ref. BOE-A-2015-1062
+
+### Artículo 59 bis
+
+Artículo 59 bis. Garantía de los viajes vinculados.
+Los empresarios domiciliados en las Illes Balears o que abran establecimiento en estas, que comercialicen estos tipos de servicios, definidos por la Directiva UE 2015/2302, del Parlamento Europeo y del Consejo, relativa a los viajes combinados y a los servicios vinculados, están obligados a mantener una garantía para cubrir su responsabilidad en casos de insolvencia, de conformidad con la Directiva mencionada y la normativa de transposición estatal, así como en los términos que se desarrollen reglamentariamente.
+Se añade por el art. 1.6 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+## CAPÍTULO VII
+
+Empresas de actividades turísticas de entretenimiento, recreo, deportivas, culturales, lúdicas y de turismo activo
+
+### Artículo 60
+
+Artículo 60. Concepto y clasificación de las actividades turísticas de entretenimiento.
+1. Son establecimientos de oferta de entretenimiento aquéllos que, abiertos al público, se dedican a ofrecer servicios de entretenimiento. Se entienden por servicios de entretenimiento las actuaciones musicales, tanto en vivo como por medios mecánicos o electrónicos, las exhibiciones artísticas variadas, el baile público y en general todas aquellas que se llevan a cabo para entretener a los asistentes.
+2. Los establecimientos de oferta de entretenimiento se clasifican en:
+a) Salas de fiesta: son los establecimientos que ofrecen al público servicios consistentes en la presentación de espectáculos artísticos, de pequeño teatro, folclóricos, eróticos, coreográficos, humorísticos, audiovisuales, variedades y atracciones de cualquier tipo en escena o pista, baile público con participación de los asistentes, amenizados mediante la participación humana o medios mecánicos o electrónicos.
+b) Salas de baile: son los establecimientos que ofrecen servicio de baile público con participación de los asistentes, amenizado por participación humana o medios mecánicos o electrónicos.
+c) Discotecas: son los establecimientos que organizan baile público con participación de los asistentes, amenizado exclusivamente por medios mecánicos o electrónicos.
+d) Cafés concierto: son los establecimientos que ofrecen al público intervenciones musicales mediante participación humana o medios mecánicos o electrónicos sin que haya participación del público ni ningún tipo de baile ni espectáculo.
+e) (Derogada).
+f) Cualquier otro establecimiento de entretenimiento que se determine reglamentariamente.
+3. Los consejos insulares, en su ámbito territorial y en el marco de sus competencias, podrán regular, condicionar o prohibir, de manera debidamente motivada, las actividades turísticas contempladas en este artículo.
+La prohibición o el acondicionamiento de cualquiera de las actividades turísticas de entretenimiento reguladas en este artículo, deberá hacerse por acuerdo del pleno y previo informe del ayuntamiento en cuyo término se ubique la actividad en cuestión. El informe municipal será vinculante siempre que proponga una mayor restricción.
+Se deroga la letra e) del apartado 2 por la disposición derogatoria única.a) de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#dd
+ Se añade el apartado 3 por el art. único.12 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 61
+
+Artículo 61. Centros turísticos de recreo, deportivos, culturales, lúdicos y de turismo activo.
+1. Se entienden por centros turísticos recreativos o deportivos aquellos establecimientos que disponen de áreas en las que de forma integrada se sitúan las actividades propias de los parques temáticos, de atracciones o de carácter recreativo, cultural, deportivo o de esparcimiento, y otros usos complementarios, con los servicios correspondientes.
+2. Se entiende por empresa de turismo activo aquella que, con ánimo de lucro, se dedica a la prestación de servicios que permiten el desarrollo de actividades recreativas, deportivas y de aventura que se practican sirviéndose de los recursos que ofrece la naturaleza, ya sean en el medio aéreo, terrestre, subterráneo, acuático o subacuático, y en las que es necesario un cierto grado de esfuerzo físico, de destreza, de experimentación, o que implican un cierto riesgo controlado.
+También se consideran actividades de turismo activo aquellas que se fundamentan en el disfrute o la sensibilización del medio o de los recursos naturales.
+3. Tanto los centros turísticos recreativos como las actividades de turismo activo estarán sometidos a las disposiciones reglamentarias que los regulen, especialmente en lo relativo a la seguridad de las personas.
+4. Las empresas de turismo activo, reguladas en el artículo 61 de la Ley 8/2012, de 19 de julio, del Turismo de las Illes Balears, deberán suscribir una póliza de seguro para cubrir la responsabilidad civil derivada del desarrollo de sus actividades, que cubra a las personas practicantes o a terceros. Esta póliza deberá mantenerse en vigor durante todo el tiempo de prestación de las actividades.
+5. En el caso de que la actividad concreta de turismo activo requiera titulación oficial por la normativa sectorial, el personal responsable y monitor debe estar en posesión de esta titulación. En el caso en que no se exija titulación oficial se tendrá una calificación adecuada para ejercer la actividad.
+6. En la declaración responsable relativa a una empresa de turismo activo se indicará claramente el tipo de actividades a desarrollar, el lugar o lugares en que se llevará a cabo, así como la calificación adecuada del personal.
+Se modifica el apartado 2 y se añaden los apartados 5 y 6 por el art. 2.22 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade el apartado 4 por el art. 7.3 del Decreto-ley 3/2014, de 5 de diciembre. Ref. BOE-A-2015-1062
+ Incluye la corrección de errores establecida por Acuerdo del Consejo de Gobierno de 12 de diciembre de 2014, publicado en BOIB, núm. 171, de 13 de diciembre de 2014. Ref. BOIB-i-2014-90528
+
+### Artículo 62
+
+Artículo 62. Especialización.
+Además de la correspondiente clasificación, los establecimientos de entretenimiento y los centros turísticos recreativos o deportivos y las actividades de turismo activo podrán especializarse en función de la diferente temática o de la orientación hacia un determinado espectáculo, producto musical, deportivo, o por su tipicidad, origen o cualquier otro elemento conceptual que los especialice y diferencie, siempre que cumplan los requisitos y las condiciones establecidos en la presente ley y en su normativa de desarrollo.
+
+## CAPÍTULO VIII
+
+Empresas de actividades de información, orientación y asistencia turística
+
+### Artículo 63
+
+Artículo 63. Información y orientación turística.
+1. Toda administración turística utilizará todos los medios y sistemas de información oportunos con el objeto de proporcionar y optimizar el conocimiento de la oferta y la demanda turísticas, así como para garantizar la atención de peticiones de información externas.
+2. La administración turística competente fomentará el uso de las tecnologías de la información y de la comunicación, tanto en la difusión de los recursos turísticos de las Illes Balears como en las relaciones entre la Administración, las empresas turísticas y los usuarios de servicios turísticos.
+
+### Artículo 64
+
+Artículo 64. Oficinas de turismo.
+1. Se consideran oficinas de turismo aquellas dependencias abiertas al público que con carácter habitual facilitan a cualquier persona usuaria asistencia, información u orientación turística y que pueden prestar otros servicios turísticos complementarios.
+2. Las oficinas de turismo cuya titularidad ejerza cada uno de los consejos insulares integrarán las redes de oficinas de turismo de Mallorca, Menorca, Eivissa o Formentera y podrán adherirse a cada una de estas cuatro redes aquellas otras oficinas de titularidad pública que voluntariamente lo soliciten.
+3. Se entiende por red de oficinas de turismo la que está integrada por el conjunto de oficinas de titularidad pública que, de forma homogénea y bajo una señalización común, prestan los servicios que les son propios.
+4. Reglamentariamente se establecerán los servicios comunes de las redes, los requisitos de integración en cada una de ellas y el distintivo o la placa oficial de las oficinas de turismo integradas en éstas.
+5. Para que las oficinas de turismo ajenas a la Administración puedan recibir subvenciones, ayudas o colaboración técnica y material será obligatoria su integración en la red de oficinas de turismo de la isla que les corresponda.
+Se modifican los apartados 2 y 3 por el art. 2.23 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+
+### Artículo 65
+
+Artículo 65. Los guías de turismo.
+1. La profesión de guía turístico consiste en la actividad que realizan las personas que se dedican profesionalmente con carácter habitual y retribuido a la prestación de servicios de información e interpretación del patrimonio histórico y natural, de los bienes de interés cultural, de los bienes catalogados y del resto de los recursos turísticos de las Illes Balears a los turistas y visitantes, tanto en las dos lenguas oficiales de las Illes Balears como en cualquier otra lengua extranjera, que en todo caso tendrá que ser acreditada.
+2. El ejercicio de la actividad de guía turístico en las Illes Balears requerirá la obtención de la correspondiente habilitación, otorgada por la administración turística en los términos que se determinen reglamentariamente.
+3. Para poder acceder a la profesión de guía turístico se ha de tener acreditada la calificación profesional legalmente requerida, que en todo caso tendrá que satisfacer los requerimientos consignados en el Catálogo nacional de calificaciones profesionales.
+4. Los beneficiarios del reconocimiento de sus cualificaciones profesionales tendrán que poseer los conocimientos lingüísticos de las lenguas catalana y castellana necesarios para el ejercicio de la profesión en las Illes Balears.
+
+### Artículo 66
+
+Artículo 66. Desarrollo de la prestación de servicios turísticos de información.
+Las personas físicas y jurídicas, públicas o privadas, que organicen actividades de información, orientación o asistencia propias de la profesión de guía de turismo, deberán llevarlas a cabo mediante personal que haya obtenido la correspondiente habilitación y, en su caso, que haya presentado la correspondiente declaración responsable.
+
+### Artículo 67
+
+Artículo 67. Señalización turística.
+El consejo insular competente establecerá una señalización turística homogénea que facilite la accesibilidad y el conocimiento de los diferentes recursos y destinos turísticos.
+Toda la señalización turística estará en las dos lenguas oficiales de la comunidad autónoma de las Illes Balears y en las dos lenguas extranjeras que mayoritariamente sean empleadas por los turistas que acuden a cada una de las islas, siempre que sea compatible con las características del soporte utilizado.
+Reglamentariamente se determinará la señalización turística que deba ser utilizada por las administraciones públicas y por los empresarios para identificar e informar sobre los recursos y los establecimientos turísticos, debiendo simplificarse ésta al máximo mediante el uso del lenguaje iconográfico.
+
+## TÍTULO IV
+
+Fomento y promoción del turismo
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 68
+
+Artículo 68. Mejora de la competitividad mediante el desarrollo del turismo sostenible.
+La actividad turística de la comunidad autónoma de las Illes Balears se dirigirá hacia la mejora de la competitividad del sector turístico mediante el desarrollo del turismo sostenible atendiendo principalmente a la preservación y la conservación de los recursos turísticos, procurando un correcto y proporcionado aprovechamiento de estos, que garantice la perdurabilidad, la conservación y el mantenimiento del legado natural, cultural, artístico y social de las Illes, y que contribuya de forma equitativa al crecimiento económico y al bienestar general.
+
+### Artículo 69
+
+Artículo 69. Mallorca, Menorca, Ibiza/Eivissa y Formentera como marcas turísticas de las Illes Balears.
+En el marco que se establece en materia de publicidad institucional, cada uno de los consejos insulares tendrá la marca turística global, según le corresponda, de Mallorca, Menorca, Eivissa y Formentera para la promoción y la proyección interior y exterior de los recursos y productos turísticos de cada una de las islas.
+Cada uno de los consejos insulares y en relación con la isla en la que ejerza sus competencias puede declarar obligatoria la inclusión de los nombres de “Mallorca”, “Menorca»” “Ibiza”, “Eivissa-Ibiza” o “Eivissa”, y “Formentera” en las campañas de promoción que se establezcan. Esta obligación puede incluir la inserción de los logotipos que se acuerden.
+Se modifica por el art. 2.24 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+
+### Artículo 70
+
+Artículo 70. Planificación turística.
+1. El Gobierno de las Illes Balears aprobará el Plan integral de turismo de las Illes Balears, que deberá contener, en su caso, los ejes de acción del Plan integral de turismo nacional. Este plan constituirá el instrumento básico y esencial en la ordenación de los recursos turísticos de las Illes Balears, por lo que cualquier instrumento de planeamiento y promoción deberá ajustarse a las directrices que se establezcan en él.
+2. Cada uno de los consejos insulares y de los ayuntamientos, en el ámbito de sus competencias, aprobará los planes de desarrollo turístico de cada una de sus islas y municipios, que tendrán entre otros los siguientes objetivos:
+a) Definir el modelo y la estrategia de desarrollo turístico de cada una de las islas o municipios.
+b) Determinar las principales necesidades, objetivos, prioridades y programas de acción.
+c) Impulsar los recursos turísticos de cada isla o municipios.
+d) Adoptar cuantas medidas sean necesarias para diversificar la oferta turística y reducir al máximo la estacionalidad.
+e) Establecer medidas que impulsen la competitividad del sector turístico y permitan un desarrollo turístico sostenible y compatible con la protección del entorno, el medio ambiente y los recursos turísticos.
+f) Establecer las medidas que sean necesarias para lograr un incremento de la calidad turística.
+Reglamentariamente se definirá el contenido de los planes de desarrollo turístico insular y municipal diferenciando también el contenido del Plan de la ciudad de Palma.
+En todo caso, los planes de desarrollo turístico municipal deberán contemplar los principios y las directrices en materia de estética en zonas turísticas, de obras y construcción, de ruidos y horarios y de zonas comerciales saturadas.
+3. Los planes turísticos podrán ser revisados en función de la evolución del sector turístico y de la aparición de circunstancias que no hubieran podido ser tenidas en cuenta en el momento de su elaboración.
+4. En el marco de los planes establecidos en este artículo se podrán elaborar planes encaminados al desarrollo de productos específicos.
+5. Cada uno de los consejos insulares promoverá la colaboración con otras administraciones públicas y, en las condiciones fijadas en la Constitución Española y en el Estatuto de Autonomía, con otros países o regiones extranjeras, priorizando aquéllas que mayor flujo turístico aportan a cada isla.
+6. Los ayuntamientos podrán instar al Gobierno de las Illes Balears a ser declarados municipio turístico.
+Reglamentariamente se determinarán el contenido y los requisitos para la dicha declaración.
+
+### Artículo 71
+
+Artículo 71. Calidad turística y objetivos.
+1. La administración turística competente impulsará una estrategia de actuación en materia de calidad turística orientada a la óptima y homogénea atención de los usuarios de servicios turísticos, a la satisfacción de sus expectativas y a su fidelización, a través de la mejora continuada de los productos o servicios de que hacen uso.
+2. Las actuaciones a desarrollar en el ámbito de la estrategia de calidad turística se articularán mediante las disposiciones reglamentarias, sin perjuicio de lo dispuesto en el correspondiente plan sobre esta materia.
+
+### Artículo 72
+
+Artículo 72. Fomento de la desestacionalización.
+1. Todas las administraciones impulsarán la realización de actividades, planes e iniciativas que redunden en la dinamización del sector turístico en temporada baja y las que contribuyan al alargamiento de la temporada alta. Deberán elaborar programas de desarrollo incluidos en el plan de turismo correspondiente, de sectores específicos de sol y playa, culturales, de reuniones, deportes y cualesquiera otros que puedan tener interés turístico.
+2. Los consejos insulares podrán aprobar cuantas medidas consideren procedentes y en especial las de promoción de sus respectivas islas destinadas a efectuar actuaciones preferentes que contribuyan a la desestacionalización del sector turístico en las Illes Balears.
+3. Cuando los órganos competentes en materia de turismo establezcan líneas de ayuda o subvenciones, tendrán preferencia las que tengan por objeto el apoyo a empresas turísticas que se mantengan abiertas y en funcionamiento un mínimo de ocho meses al año.
+4. Las distintas administraciones deberán adoptar las medidas de índole normativa y de gestión, liquidación y recaudación de ingresos de derecho público que vayan encaminadas al reconocimiento de beneficios fiscales y otro tipo de incentivos a las empresas turísticas que acrediten estar contribuyendo a la desestacionalización.
+Se entenderá, a todos los efectos, que una empresa turística contribuye a la desestacionalización cuando acredita un periodo de apertura de más de ocho meses el año, sin perjuicio de los otros criterios que puedan ser empleados para entender que una empresa contribuye a ello.
+En el caso de las empresas turísticas y establecimientos comerciales ubicados en zonas turísticas declaradas maduras, este período de apertura será a partir de seis meses.
+Se añade el último párrafo por el art. 8 del Decreto-ley 3/2014, de 5 de diciembre. Ref. BOE-A-2015-1062
+
+### Artículo 73
+
+Artículo 73. Formación e innovación en turismo.
+1. La administración autonómica promoverá la adaptación de la formación en turismo a las necesidades de las empresas turísticas establecidas en las Illes Balears y a la transformación continua del sector turístico, fomentando una formación profesional, tanto inicial como para la ocupación, que se adapte a los nuevos requerimientos y competencias del sector en cada una de las islas y que sea la punta de lanza para seguir avanzando en la competitividad del sector turístico. En este sentido, la administración turística procurará un desarrollo territorial suficiente de los centros integrados de formación profesional de la familia profesional de hostelería y turismo, de forma que se garantice la capacidad de cualificación y recualificación de los trabajadores y trabajadoras.
+2. Igualmente, la administración turística apoyará la innovación y la modernización tecnológica de las empresas, los establecimientos y los servicios turísticos, y las fomentará e impulsará con la adopción de todas aquellas medidas y a través de los instrumentos que sean necesarios, como la compra pública innovadora, para incrementar la competitividad y la sostenibilidad y circularidad del sector turístico, así como la mejora de las condiciones de trabajo de los trabajadores y las trabajadoras.
+3. La administración turística promoverá la implantación de la formación en turismo en la elaboración de los distintos planes de educación, fomentando la enseñanza del hecho turístico desde la educación primaria, facilitando para ello los recursos materiales y personales necesarios para alcanzar este objetivo.
+4. La administración turística adoptará cuantas medidas sean necesarias para la mejora y el desarrollo en la formación, el ejercicio y el perfeccionamiento de las profesiones turísticas, fomentando el impulso a la investigación, el desarrollo y la innovación en todas aquellas materias que puedan redundar en beneficio del sector turístico y sus profesionales.
+Se modifican los apartados 1 y 2 por el art. 2.25 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifican los apartados 1 y 2 por el art. 2.15 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 74
+
+Artículo 74. Declaraciones de interés turístico.
+1. Con la finalidad de impulsar la inversión en complejos, servicios e infraestructuras turísticas que favorezcan la desestacionalización y la mejora de la oferta turística, el consejo insular correspondiente o cualquier ayuntamiento pueden, en el ámbito de sus competencias, declarar el interés turístico de las iniciativas, las propuestas y los proyectos presentados.
+2. Estas declaraciones se pueden acordar en cualquier momento de la tramitación administrativa, pero solo tendrán efecto desde la fecha en la que se declare el interés turístico de la inversión.
+3. Las inversiones declaradas de interés turístico deben tener en su tramitación un impulso preferente y rápido de las administraciones que así lo hayan declarado.
+4. Las ferias, los itinerarios, las rutas, las publicaciones, los acontecimientos, las tradiciones o cualquier otro recurso turístico pueden ser declarados de interés turístico de Mallorca, Menorca, Ibiza o Formentera.
+5. Reglamentariamente deben fijarse los supuestos, condiciones, clase de suelo y procedimiento a seguir para obtener la declaración de interés turístico y los efectos de esta declaración.
+Se modifica por la disposición final 4.6 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-4
+ Se modifica por la disposición final 4.1 del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#df-4
+ Se deja sin efecto la modificación de este artículo por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90242
+ Se modifica por la disposición final 5.1 del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+
+### Artículo 75
+
+Artículo 75. Ordenación territorial de los recursos turísticos.
+1. La ordenación territorial de los recursos turísticos de cada una de las islas se tiene que hacer de conformidad con lo que dispone esta Ley, de acuerdo con las normas de ordenación del territorio y de vivienda, y los instrumentos de planeamiento aplicables.
+2. A los efectos de esta Ley, tiene la consideración de zona apta para la comercialización de estancias turísticas en viviendas de uso residencial aquella en que, motivadamente, con las medidas correctoras que se puedan establecer y cumpliendo las previsiones establecidas legalmente o reglamentariamente en materia de vivienda, la administración competente para llevar a cabo la zonificación considere que esta utilización extraordinaria de las viviendas residenciales resulta compatible con el uso ordinario de vivienda que las caracteriza. Si lo considera conveniente, la administración para llevar a cabo la zonificación puede solicitar informe a las consejerías competentes en las materias afectadas, el cual deberá ser emitido en el plazo de un mes. En el caso de que no se emita en el plazo mencionado, la administración competente para llevar a cabo la zonificación podrá adoptar las determinaciones que considere oportunas.
+3. Mientras los consejos insulares no desarrollen mediante los PIAT o, si procede, los PTI, la previsión del artículo 5.3 de esta ley, con relación a la delimitación de las zonas aptas para la comercialización de estancias turísticas en viviendas de uso residencial, los entes insulares podrán declarar y delimitar provisionalmente mediante acuerdo del pleno las zonas aptas para la comercialización de estancias turísticas en viviendas de uso residencial, que pueden diferenciar por tipologías edificatorias. Este acuerdo se tiene que publicar en el Butlletí Oficial de les Illes Balears y regirá hasta que los ayuntamientos establezcan la delimitación respectiva en el planeamiento urbanístico municipal.
+Este procedimiento se tiene que someter a las siguientes determinaciones:
+a) Previamente a la declaración, hay que someter la propuesta redactada por el consejo a trámite de información pública por un plazo no inferior a treinta días hábiles a fin de que se puedan hacer alegaciones.
+b) Se tiene que solicitar el informe a los ayuntamientos, que lo tienen que emitir en el plazo máximo de un mes, en el cual pueden proponer alternativas razonadas. Asimismo, pueden manifestar la no admisión de comercialización de estancias turísticas en viviendas en todo o en parte de su término municipal, sea con respecto a todas las tipologías edificatorias o a algunas, aspecto que tiene que ser vinculante. En caso de que algún ayuntamiento no emita el informe en el plazo mencionado, el consejo insular puede tomar las determinaciones urbanísticas que considere respecto de la comercialización turística de viviendas en el municipio y, si procede, respecto de la zonificación.
+Los consejos insulares se pueden separar de los criterios contenidos en los informes por causas justificadas relativas al control de legalidad y a la ordenación urbanística y territorial de cariz supramunicipal o insular, en la cual se incluyen aspectos relativos a infraestructuras, a equipamientos, a servicios y, en general, a actividades de explotación de recursos en el ámbito de la ordenación turística insular.
+c) También se tiene que elaborar, en caso de que se prevean efectos significativos sobre el medio ambiente, una memoria-análisis de los posibles efectos significativos sobre el medio ambiente, que se tiene que incorporar al trámite de información pública y de consulta a las administraciones públicas previsto en los apartados a) y b) anteriores, y solicitar una declaración ambiental estratégica a la Comisión Balear de Medio Ambiente, antes de la aprobación definitiva, que se tramitará de acuerdo con el artículo 13 de la Ley 12/2016, de 17 de agosto, de evaluación ambiental de las Illes Balears.
+La propuesta de declaración y los informes citados en los apartados anteriores podrán pronunciarse también sobre la admisión o no de la modalidad de alquiler de la vivienda principal en las zonas delimitadas.
+Con respecto al municipio de Palma, la delimitación de las zonas aptas a que se refiere este punto tiene que llevarla a cabo el pleno del ayuntamiento, con los mismos requerimientos procedimentales mencionados antes: propuesta del ayuntamiento, con la solicitud del informe al Consejo Insular de Mallorca, que lo tiene que emitir en el plazo máximo de un mes y al que se puede oponer por las mismas causas expuestas en el segundo párrafo de la letra b) anterior. En el caso de no emitir el informe, se tiene que considerar aceptada la propuesta del ayuntamiento.
+Estas delimitaciones se pueden modificar mediante el mismo procedimiento.
+Dadas las singularidades geográficas y administrativas de Formentera, de conformidad con el Estatuto de Autonomía de las Illes Balears, el Consejo Insular de Formentera, como órgano de administración de la isla y del municipio de Formentera, ejercerá todas las competencias a que se refieren los puntos anteriores de este artículo, en el marco de la disposición adicional novena de la Ley 2/2014, de 25 de marzo, de ordenación y uso del suelo, sobre régimen específico de la isla de Formentera y legislación concordante.
+4. Reglamentariamente se pueden establecer condiciones urbanísticas específicas para el ejercicio de esta actividad en cada una de las zonas aptas declaradas, así como criterios de sostenibilidad para la incorporación en los planeamientos territoriales o urbanísticos.
+5. En todos los casos y al margen de la zonificación preceptiva para poder llevar a cabo la comercialización turística de estancias en viviendas de uso residencial, los instrumentos de ordenación territorial, urbanística, de vivienda o ambiental pueden imponer otras condiciones.
+Se modifica por el art. 2 del Decreto-ley 3/2017, de 4 de agosto. Ref. BOE-A-2017-11003#a2
+ Se modifica por el art. único.13 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+## CAPÍTULO II
+
+Inversión, reconversión y rehabilitación de zonas turísticas
+
+### Artículo 76
+
+Artículo 76. Inversión pública en zonas afectadas por la estacionalidad.
+Las diferentes administraciones, sobre la base del principio de mejora de la calidad turística y la mejora continua del producto y el destino turísticos, en el ámbito de sus competencias, deberán planificar las inversiones y las actuaciones de mantenimiento, reparación y reposición en las zonas turísticas que padecen grandes diferencias de densidad poblacional afectadas por la estacionalidad.
+Estas actuaciones deberán realizarse atendiendo, entre otros parámetros, a los ingresos que estas zonas generan a las administraciones competentes.
+
+### Artículo 77
+
+Artículo 77. Zonas turísticas saturadas o de reconversión.
+1. Se puede declarar la existencia de zonas turísticas de reconversión, saturadas y saturadas y de reconversión:
+a) Se considera zona turística de reconversión aquel ámbito turístico que presenta una situación de obsolescencia de la mayor parte de las infraestructuras vinculadas a la actividad turística, que se han degradado o que experimentan desequilibrios estructurales que impiden o dificultan un desarrollo competitivo y sostenible de la industria del sector turístico en la zona.
+b) Se considera zona turística saturada aquel ámbito turístico en el cual se sobrepasa el límite de oferta turística máxima que determinen los consejos insulares o que registra una demanda que causa problemas medioambientales.
+c) Se considera zona turística saturada y de reconversión aquel ámbito turístico en que concurren de manera acumulativa las características de zona turística saturada y de zona turística de reconversión, y de sobrecarga o sobreexplotación urbanística, ambiental y de recursos.
+2. Cada consejo insular puede declarar, mediante acuerdo del pleno, las zonas turísticas de reconversión, saturadas o saturadas y de reconversión referidas a su ámbito insular.
+2. bis. Previamente a la declaración de una zona turística como zona de reconversión, saturada o saturada y de reconversión, los entes promotores que la soliciten han de elaborar un documento estratégico que cuente con la consulta a los agentes sociales, económicos y empresariales, a los ciudadanos afectados, y al resto de administraciones que puedan estar implicadas.
+Este documento estratégico tiene carácter de acto preparatorio de las declaraciones que, si procede, adopte el consejo insular correspondiente y tiene que contener los aspectos que se consideren relevantes para la toma de decisión del consejo insular, los cuales, como mínimo, tienen que ser: una justificación detallada de los motivos que conducirían a la declaración; una previsión de los objetivos, acciones urbanísticas y tipos de proyectos de mejora requeridos en el ámbito; una previsión de los recursos financieros para afrontar las actuaciones, y una previsión respecto de las fases requeridas de actuación.
+3. El consejo insular correspondiente podrá aprobar planes de rehabilitación turística integral tendentes a la mejora, la recalificación, la revalorización, la rehabilitación o la reconversión de la zona, sin necesidad de que el planeamiento de los municipios en que se encuentren estas zonas esté adaptado al plan territorial insular correspondiente.
+4. El procedimiento para la redacción, la tramitación y la aprobación de los planes de rehabilitación turística integral se determinará reglamentariamente y se iniciará de oficio o a instancia de los municipios interesados. Mientras no se haya aprobado el reglamento que los regule, se tramitarán como planes especiales.
+5. (Sin contenido)
+6. Cuando se declare una zona turística como saturada o de reconversión, se entienden declarados de interés estratégico insular todos los planes, proyectos o actuaciones que tienden a la mejora, la recalificación, la revalorización, la rehabilitación o la reconversión de esta zona. Previamente a la declaración como zona turística saturada o de reconversión se debe solicitar un informe preceptivo y vinculante al ayuntamiento afectado, y este debe definir los aspectos mínimos a desarrollar mediante los instrumentos correspondientes a las siguientes materias:
+a) Suelo.
+b) Edificación turística de alojamiento y no alojamiento, residencial, de equipamiento y comercial.
+c) Movilidad, transporte público y ruido.
+d) Consumo de agua y materiales.
+e) Biodiversidad.
+f) Desestacionalización.
+g) Nuevas tecnologías.
+7. Los particulares pueden instar la declaración de zona turística de reconversión referida a ámbitos urbanos funcionalmente coherentes superiores a una parcela, en los cuales la delimitación resulta necesaria para llevar a cabo una actuación de reconversión turística, siempre que se acredite la titularidad de los terrenos que conforman la zona de la declaración que se pretende. A estos efectos, se tiene que presentar una propuesta que contenga, además de lo que indica el punto anterior, como mínimo, los aspectos siguientes:
+– Renovación de la planta turística.
+– Reordenación urbanística, si procede.
+– Creación y mejora de equipaciones turísticas y producto turístico.
+8. Las zonas turísticas de reconversión tienen carácter de estratégicas a los efectos de priorizar las ayudas de las diferentes administraciones en la rehabilitación de cualquier tipo de edificación y uso.
+9. El Gobierno de las Illes Balears procurará, en colaboración con los consejos insulares y ayuntamientos afectados, elaborar un programa plurianual de inversiones y/o actuaciones públicas en las áreas turísticas incluidas en las declaraciones de zona turística madura.
+10. La declaración de zona turística madura implicará la necesidad de tramitar un Plan de Reforma Integral de la zona.
+Se deja sin contenido el apartado 5 y se modifica el 6 por la disposición final 4.7 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-4
+ Téngase en cuenta que ya se dejó sin contenido el apartado 5 por Decreto-ley 8/2025, de 5 de diciembre.
+ Se deja sin contenido el apartado 5 y se modifica el 6 por la disposición final 4.2 del Decreto-ley 8/2025, de 5 de diciembre. Ref. BOE-A-2026-487#df-4
+ Se deja sin efecto la derogación del apartado 5 y la modificación del 6 por Resolución del Parlamento de las Illes Balears de 2 de octubre de 2025, por la que se deroga el Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90242
+ Se deja sin contenido el apartado 5 y se modifica el 6 por la disposición final 5.2 del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+ Se modifica el título, los apartados 1, 2, 6, 7 y 8 y se añade el apartado 2 bis por el art. 2.4 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se añaden los apartados 7 a 10 por el art. 9 del Decreto-ley 3/2014, de 5 de diciembre. Ref. BOE-A-2015-1062
+ Se añade el apartado 6 por el art. 2 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+ Téngase en cuenta la disposición adicional del citado Decreto-ley.
+
+### Artículo 78
+
+Artículo 78. Reconversión y cambio de uso a residencial.
+1. En los establecimientos de alojamiento turístico o parcelas no edificadas de uso turístico en los que, por razones de incompatibilidad del uso turístico con la zona en la que se han situado, por tener condiciones o elementos de hecho que justifiquen la inviabilidad turística y económica, especialmente en las zonas definidas en los planes de intervención en ámbitos turísticos, o por su notoria obsolescencia cuando no estén ubicados en zonas turísticas, podrá instarse el cambio de uso a residencial ante la administración urbanística competente, la cual tramitará y resolverá el expediente administrativo, previo informe de la administración turística, donde quedarán justificadas dichas condiciones y convenientemente valoradas la oportunidad e idoneidad del cambio de uso. El cambio de uso se entenderá referido a la totalidad de la parcela, incluidas sus edificaciones y/o construcciones.
+2. También podrá plantearse el cambio de uso de aquellos establecimientos de alojamiento turístico y aquellas parcelas no edificadas de uso turístico en los que sean igualmente valoradas la oportunidad e idoneidad de dicho cambio. También será igualmente de aplicación a los edificios en los que exista un uso plurifamiliar no incorporado a la ordenación y el planeamiento no lo contemple.
+3. La densidad máxima será de una vivienda por cada 60 m² de superficie edificable destinada a usos residenciales y la propuesta contemplará un mínimo del 10 % de la edificación destinada a usos diferentes del residencial entre los siguientes: establecimiento público, administrativo, comercial, deportivo, docente o sociocultural.
+Excepcionalmente, mediante la tramitación de un expediente administrativo específico e individual por proyecto, la administración urbanística competente podrá dispensar del cumplimiento de la dimensión mínima de vivienda autorizable mediante resolución motivada, determinándose en el citado expediente la dimensión mínima de vivienda que se autorizará, que deberá cumplir con la normativa de habitabilidad, y el porcentaje de edificación destinada a otros usos. Cuando el cambio de uso se produzca sobre una parcela no edificada, los parámetros urbanísticos que se aplicarán serán los de su calificación urbanística en el momento de la solicitud del cambio de uso.
+4. A los efectos de esta ley, se entiende que un establecimiento está obsoleto cuando puedan acreditarse elementos fácticos que pongan de manifiesto la falta de competitividad de este establecimiento en condiciones normales de explotación y mercado.
+El establecimiento se dará de baja definitivamente con liquidación efectiva de todas las responsabilidades empresariales, laborales, contractuales y el resto que resulte de aplicación.
+5. Cuando por las características técnicas, constructivas o edificatorias de un edificio en situación de inadecuación no resulte viable técnicamente o económicamente la rehabilitación integral del edificio, a instancia de los titulares podrá acordarse la demolición del mismo para reconstruirlo adaptándose a los parámetros urbanísticos de edificabilidad, ocupación y altura máxima que tenía el edificio sobre el que procede el cambio de uso.
+6. En todos los casos en los que sea procedente el cambio de uso, el titular del establecimiento deberá abonar a la administración municipal competente, en concepto de monetización de la cesión de aprovechamiento, el 5 % del presupuesto de ejecución material de la rehabilitación integral o reconstrucción del edificio en el que se haya formalizado el cambio de uso. Este valor de cesión solo se aplicará sobre la superficie construida correspondiente al nuevo uso. Estos ingresos se destinarán a actuaciones e inversiones en la zona donde se ha realizado el cambio de uso, tras el informe previo y vinculante de la administración turística competente.
+7. Los establecimientos turísticos en los que se hayan ejecutado obras de acuerdo con las licencias otorgadas al amparo de este artículo quedarán legalmente incorporados al planeamiento como edificios adecuados y su calificación urbanística se corresponderá con su volumetría específica.
+8. La documentación a aportar a la administración urbanística deberá ser suficiente para valorar todos los aspectos necesarios para adoptar la resolución debiendo incluir, como mínimo, una exposición de los antecedentes y la situación urbanística, los documentos gráficos y la justificación del cumplimiento de los requisitos expuestos en este artículo, así como de la solución presentada. Asimismo, la administración urbanística someterá la propuesta de resolución a audiencia pública durante el plazo mínimo de un mes, a los efectos de que puedan presentarse sugerencias o alegaciones.
+9. Los promotores de la reconversión de establecimientos turísticos en viviendas deberán reservar al menos un 30 % de las nuevas viviendas a jóvenes menores de 35 años.
+10. Las nuevas viviendas resultantes de la aplicación de esta disposición tendrán la condición de vivienda de precio limitado.
+Se modifica por el art. 47.4 de la Ley 7/2024, de 11 de diciembre, Ref. BOE-A-2025-720#a4-9 y por el art. 9.1 del Decreto-ley 5/2024, de 13 de diciembre Ref. BOE-A-2025-721, publicados en los BOIB núms. 162 y 163, respectivamente, del día 13 de diciembre de 2024.
+ Se modifica por la disposición adicional 3.1 de la Ley 3/2024, de 3 de mayo. Ref. BOE-A-2024-15575#da-3
+ Téngase en cuenta para los expedientes que se estén tramitando bajo la redacción anterior, lo indicado en la disposición transitoria única de la citada Ley.
+ Se modifica por la disposición adicional 3.1 del Decreto-ley 6/2023, de 2 de octubre. Ref. BOE-A-2023-24418#da-3
+ Téngase en cuenta para los expedientes que se estén tramitando bajo la redacción anterior, lo indicado en la disposición transitoria única del citado Decreto-ley.
+ Se añade por el art. 2.26 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se deroga por la disposición derogatoria única.1.a) de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+ Se suspendió la aplicación de este artículo y posteriormente quedó levantada por cumplimento del plazo establecido en la disposición adicional única.4 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225
+ Se añade el apartado 10 por el art. 9 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+
+## CAPÍTULO III
+
+Planes de mejora de las infraestructuras y de los establecimientos turísticos
+
+### Artículo 79
+
+Artículo 79. Plan de modernización permanente.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#dd
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 3/2022, de 11 de febrero.
+ Se deroga por la disposicion derogatoria única.a) del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 80
+
+Artículo 80. Plan de modernización de los establecimientos turísticos.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#dd
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 3/2022, de 11 de febrero.
+ Se deroga por la disposicion derogatoria única.a) del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 81
+
+Artículo 81. Contenido de los planes de calidad.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#dd
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 3/2022, de 11 de febrero.
+ Se deroga por la disposicion derogatoria única.a) del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 82
+
+Artículo 82. Superación y seguimiento de los planes.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#dd
+ Téngase en cuenta que este artículo ya fue derogado por el Decreto-ley 3/2022, de 11 de febrero.
+ Se deroga por la disposicion derogatoria única.a) del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 83
+
+Artículo 83. Fomento del acceso a las subvenciones estatales.
+La Oficina única de la administración turística a que se refiere el artículo 22 de esta ley facilitará el acceso a los propietarios o titulares de los establecimientos turísticos a las subvenciones o ayudas para la rehabilitación y la mejora que establece el Plan estatal de renovación de instalaciones turísticas y la presentación de las solicitudes para la regularización sectorial de plazas turísticas.
+
+### Artículo 84
+
+Artículo 84. Suplemento autonómico de las subvenciones estatales.
+El Gobierno de las Illes Balears y cada uno de los consejos insulares podrán establecer ayudas o subvenciones complementarias a las estatales a que se refiere el artículo anterior.
+
+## CAPÍTULO IV
+
+Bajas de los establecimientos de alojamiento turístico y de las viviendas objeto de comercialización turística
+Se modifica por el art. único.14 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+## Sección 1
+
+Sección 1.ª Clases de bajas
+
+### Artículo 85
+
+Artículo 85. Bajas de los establecimientos de alojamiento turístico y de las viviendas objeto de comercialización turística.
+1. Las personas propietarias de los establecimientos de alojamiento turístico o las personas explotadoras con el consentimiento expreso de las personas propietarias tienen que comunicar la baja temporal o definitiva de la actividad a la administración competente, que la debe inscribir en el correspondiente registro insular de empresas, actividades y establecimientos turísticos.
+Las personas propietarias de las viviendas objeto de comercialización turística o las personas comercializadoras con el consentimiento expreso de las personas propietarias tienen que comunicar la baja definitiva de la actividad a la administración turística competente, que la debe inscribir en el registro correspondiente. El régimen de baja temporal no se aplica a las viviendas objeto de comercialización turística.
+2. La administración turística competente también puede disponer de oficio las bajas temporales o definitivas, tras la instrucción del correspondiente expediente y la notificación de la resolución a la persona titular de la propiedad y de la explotación, según el caso, en los términos y las condiciones previstos en la presente ley y reglamentariamente.
+Con respecto a las viviendas objeto de comercialización turística, la administración turística también puede acordar su baja definitiva si hay un cese de la comercialización turística durante tres años consecutivos.
+3. Con respecto a las viviendas objeto de comercialización turística sometidas al régimen de propiedad horizontal y a las de las tipologías que se hayan determinado reglamentariamente, la baja definitiva se produce de manera automática una vez que se cumplen cinco años o el plazo que se haya fijado reglamentariamente, desde la presentación de la DRIAT, si no se comunica la prórroga en las condiciones mencionadas en esta ley. Esta misma previsión será de aplicación a las viviendas comercializadas con la modalidad de alquiler de la vivienda principal.
+Se modifica por el art. único.15 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 86
+
+Artículo 86. Baja temporal.
+1. Los establecimientos podrán estar en situación de baja temporal durante el plazo máximo de tres años, de conformidad con el procedimiento que se determine reglamentariamente. En caso de que no se comunique la reapertura de los establecimientos antes de la expiración de este plazo, la administración turística competente pasará de oficio el establecimiento a la situación de baja definitiva, previa audiencia de la persona interesada.
+2. La reapertura de establecimientos en situación de baja temporal sólo podrá instarse mediante la oportuna comunicación, antes de la expiración del plazo máximo previsto en el apartado 1 anterior y siempre que haya superado el plan de modernización correspondiente.
+
+### Artículo 87
+
+Artículo 87. Baja definitiva.
+1. La baja definitiva de un establecimiento de alojamiento turístico o de una vivienda objeto de comercialización turística tiene que comprender la de la autorización turística sectorial otorgada en su momento o la pérdida de efectos de la declaración responsable de inicio de actividad turística o comunicación previa presentada, así como la de la totalidad de las plazas del establecimiento o de la vivienda. No obstante, se pueden dar de baja definitiva un número determinado de plazas turísticas en el supuesto de reformas del establecimiento o la vivienda, que no tienen que computar a efectos del intercambio previsto en el apartado 1 del artículo siguiente.
+2. En todos los casos, la baja definitiva implica la revocación de las autorizaciones turísticas del establecimiento o de la vivienda o la pérdida de efectos de la declaración responsable y la cancelación de la inscripción en los registros turísticos.
+Se modifica por el art. único.16 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+## Sección 2
+
+Sección 2.ª Baja definitiva como requisito para el inicio de una actividad turística referida a establecimiento de alojamiento turístico o vivienda residencial objeto de comercialización turística y para la ampliación de plazas
+Se modifica por el art. único.17 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 88
+
+Artículo 88. Disposición general.
+1. La eficacia de una declaración responsable de inicio de actividad turística o de la comunicación previa de ampliación, referida a un establecimiento de alojamiento turístico o a una vivienda residencial que se comercialice turísticamente, y la inscripción en el registro insular de empresas, actividades y establecimientos turísticos correspondiente, están condicionadas a aportar, como mínimo, el mismo número de plazas que vayan a comercializarse y a inscribirse, obtenidas de las bolsas de plazas gestionadas por los organismos gestores o las administraciones turísticas, en la medida de su disponibilidad.
+También se pueden obtener las plazas directamente de otros alojamientos turísticos u otras viviendas objeto de comercialización turística que se den de baja definitiva y que hayan sido adquiridas en su momento de manera onerosa y no provisional, cosa que se tiene que acreditar por cualquier medio admisible en derecho, salvo que se aporten en aplicación del artículo 78 de esta ley, caso en que pueden proceder de establecimientos que no hayan tenido que aportar plazas o que sí hayan tenido que aportar. Asimismo, en el caso de viviendas objeto de comercialización turística, las plazas pueden proceder de una vivienda comercializada turísticamente o de una vivienda turística de vacaciones, independientemente de si había tenido que aportar o no plazas, dada de baja definitiva, y que traslada las plazas a otra vivienda del mismo propietario; siempre que la vivienda dada de baja cumpliera los requerimientos normativos del momento del inicio de la actividad y la vivienda dada de alta cumpla los requerimientos normativos vigentes, incluido que las plazas turísticas de la nueva vivienda sean iguales o inferiores a las de la vivienda dada de baja definitiva.
+Las plazas turísticas quedan vinculadas al inmueble hasta la baja definitiva.
+Es requisito imprescindible para la eficacia de las declaraciones responsables de inicio de actividades turísticas y comunicaciones, así como la posterior inscripción, que las plazas citadas en los párrafos anteriores provengan de la misma isla.
+Las plazas utilizadas para ampliar o abrir nuevos alojamientos turísticos procederán de otros alojamientos turísticos, sin que puedan proceder de viviendas objeto de comercialización turística, y viceversa.
+2. Al margen de las consideraciones generales contenidas en el punto anterior, con respecto a la comercialización de estancias turísticas en viviendas sometidas al régimen de propiedad horizontal y a las de las tipologías que se hayan determinado reglamentariamente, las plazas necesarias tienen que ser adquiridas a los organismos gestores de plazas o a la administración turística de cada isla, en la medida de la disponibilidad y de manera provisional por un plazo de cinco años, o por el plazo que se haya fijado reglamentariamente, prorrogables en los términos establecidos en esta ley. Esta misma previsión será de aplicación a las viviendas comercializadas con la modalidad de alquiler de la vivienda principal.
+3. La administración turística competente podrá utilizar los establecimientos turísticos dados de baja definitiva de oficio para permitir nuevos establecimientos hoteleros a partir de cuatro estrellas o la ampliación de los ya existentes de estas categorías.
+4. Igualmente, la administración turística competente determinará reglamentariamente las condiciones en que se pueden inscribir los establecimientos mencionados.
+A estos efectos, podrán tener en cuenta índices de congestión de la zona en que se quiera ubicar el nuevo establecimiento, derivados de parámetros tales como la densidad de la población en relación con los metros cuadrados de playas, espacios libres públicos y equipamientos deportivos públicos y privados.
+Periódicamente se publicará en el Butlletí Oficial de les Illes Balears una lista actualizada con el número de plazas existentes en su ámbito insular.
+En todo caso, los establecimientos que se acojan a este supuesto tendrán un orden de preferencia, de acuerdo con los criterios siguientes:
+a) Superior categoría del establecimiento.
+b) Ofertas que presenten un mayor número de metros construidos por plaza.
+c) Mayor proporción de trabajadores fijos.
+d) Contribución a la desestacionalización, para lo que se tendrá en cuenta la dotación de climatización o calefacción, piscina climatizada y todas las instalaciones y los elementos que permitan y posibiliten la apertura del establecimiento durante todo el año.
+e) Instalaciones y espacios deportivos.
+f) Ubicación del establecimiento en municipios o zonas de crecimiento negativo o en declive de manera que se contribuya a desarrollarlos económicamente.
+g) Factores ambientales y calidad de los espacios turísticos.
+5. (Derogado).
+6. (Derogado).
+7. El cómputo del número de plazas para nuevos establecimientos de alojamiento y para las ampliaciones de los existentes, por redistribución de unidades o plazas, así como para nuevas comercializaciones o ampliaciones de estancias turísticas en viviendas, se tiene que hacer de la siguiente manera:
+a) Para los apartamentos turísticos, dos plazas por estudio proyectado y tres plazas por apartamento de un dormitorio, en más de dos plazas más por cada dormitorio que se proyecte.
+b) Para los hoteles, hoteles de ciudad, hoteles apartamentos, hoteles rurales, alojamientos de turismo de interior y hospederías, dos plazas por habitación. Se puede computar hasta el 10 % de las habitaciones de que se disponga como individuales. Las unidades de alojamiento con sala de estar se tienen que computar como dos plazas por cada baño de que dispongan.
+No computan a los efectos de este artículo y a los efectos del cómputo global de los alojamientos turísticos las camas supletorias destinadas a menores de quince años, con un máximo de dos por unidad de alojamiento. Los establecimientos que dispongan de habitaciones individuales pueden mantener este cómputo sin necesidad de identificar cuáles son las unidades individuales, siempre que el dormitorio tenga más de 10 m2 útiles y no se incurra en sobreocupación del establecimiento.
+c) Para las viviendas objeto de comercialización turística, hay que atender al cómputo que determine la cédula de habitabilidad, en aplicación del Decreto 145/1997, de 21 de noviembre, por el cual se regulan las condiciones de medición, higiene e instalaciones para el diseño y la habitabilidad de viviendas, así como la expedición de cédulas de habitabilidad, o la licencia de ocupación o de primera utilización, cuando en esta conste el número de plazas. Estas viviendas no pueden disponer de camas supletorias.
+En las islas donde los consejos insulares admitan el título de habitabilidad específico y análogo mencionado en el artículo 50 de esta ley, hay que atender al cómputo que este determine.
+Se modifica el segundo párrafo del apartdo 1 por el art. 2.5 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifica el apartado 7.c) por el art. 47.5 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a4-9
+ Se modifica el apartado 7 por el art. 47.4 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a4-9
+ Se modifica el apartado 1 por el art. 2.27 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica el apartado 7 por la disposición final 4.4 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-4
+ Se modifica el apartado 7 por la disposición final 4.4 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-4
+ Se modifican los apartados 1, 2 y 7 y se derogan los apartados 5 y 6 por el art. único.18 y 19 y la disposición derogatoria única.1.a) de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+ Se modifica la letra b) del apartado 7 por el art. 10 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+
+### Artículo 89
+
+Artículo 89. Excepción a la disposición general.
+Mientras el PIAT, el PTI o un acuerdo del Pleno del Consejo Insular fundamentado en un estudio de la capacidad de carga turística de la isla de Menorca no determine el techo máximo de plazas, las viviendas objeto de comercialización de estancias turísticas, los establecimientos de alojamiento de turismo rural, los de turismo de interior, los hoteles de ciudad, las hospederías y los establecimientos de alojamiento ubicados en las zonas turísticas de la isla que se determinan en las normas de ordenación territorial correspondientes, tienen que continuar excluidos de lo que dispone el artículo 88 anterior, relativo a la baja definitiva como requisito para el inicio de una actividad turística, y de lo que dispone el artículo 5.3, ambos de esta ley, en cuanto al techo máximo por isla.
+Téngase en cuenta que se suspende la aplicación de este artículo, mientras estén en vigor las bolsas temporales previstas en la disposición transitoria 3, según determina la disposición transitoria 4 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462.
+Se modifica por el art. 2.6 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Téngase en cuenta que se suspende la aplicación de este artículo, mientras estén en vigor las bolsas temporales previstas en la disposición transitoria 3, según determina la disposición transitoria 4 del citado Decreto-ley.
+ Se modifica por el art. 1.7 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se modifica por el art. único.20 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+ Se modifica el apartado 1.c) por el art. 10 del Decreto-ley 3/2014, de 5 de diciembre. Ref. BOE-A-2015-1062
+
+### Artículo 90
+
+Artículo 90. Régimen de los establecimientos dados de baja definitiva.
+Los establecimientos dados de baja definitiva pueden acogerse a cualquiera de las siguientes posibilidades:
+a) La solicitud de incoación del procedimiento para el cambio de uso del inmueble, de conformidad con el artículo 78 de esta ley y cumpliendo los requisitos que se establecen.
+b) La demolición del inmueble y que la parcela pase a formar parte del sistema de espacios libres públicos o sea calificada de manera que implique su inedificabilidad.
+c) La demolición del inmueble y su posterior reconstrucción de acuerdo con los parámetros urbanísticos vigentes en la zona de que se trate.
+d) El destino del inmueble a un uso que esté permitido y que la edificación se adecúe a la indicada por el planeamiento en la zona en que se ubica.
+Se modifica por el art. 2.28 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por la disposición final 4.5 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-4
+ Téngase en cuenta, en relación con los establecimientos de alojamientos turísticos de baja definitiva, la disposición transitoria 2 de citada ley. Ref. BOE-A-2020-14467#dt-2
+ Se modifica por la disposición final 4.5 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-4
+ Se deroga el apartado 1.b) por la disposición derogatoria única.1.a) de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+ Se modifica el apartado 1.a) y e) por el art. 3.3 y 4 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225
+ Téngase en cuenta que se suspendió la aplicación del apartado 1.b) y posteriormente quedó levantada por cumplimento del plazo establecido en la disposición adicional única.4 del citado Decreto-ley.
+
+### Artículo 91
+
+Artículo 91. Gestión de las plazas dadas de baja definitiva.
+1. En cada uno de los cuatro ámbitos insulares (Mallorca, Menorca, Ibiza y Formentera) se puede crear un organismo con participación de la administración turística competente, del sector empresarial de alojamientos turísticos y de comercialización de estancias turísticas, y de los agentes sociales más representativos, que tiene que gestionar respecto de cada isla: las plazas turísticas correspondientes a alojamientos turísticos y las plazas correspondientes a estancias turísticas llevadas a cabo en viviendas de uso residencial.
+En la isla de Mallorca tiene que participar también el Consejo Insular de Mallorca.
+2. Las administraciones competentes en materia de ordenación turística de cada isla tienen que poner a disposición del organismo gestor, con carácter gratuito y de manera periódica:
+a) Las plazas correspondientes a establecimientos o viviendas residenciales objeto de comercialización turística dadas de baja definitiva por las personas titulares voluntariamente y no transmitidas a un tercero, de conformidad con la disposición adicional decimocuarta de esta ley.
+b) Las plazas correspondientes a establecimientos turísticos o viviendas residenciales objeto de comercialización turística dadas de baja definitiva de oficio por la administración competente.
+c) Las plazas correspondientes a establecimientos turísticos o a viviendas objeto de comercialización turística dadas de baja definitiva y no utilizadas en la totalidad por las personas interesadas que presenten la declaración responsable de inicio de actividad turística correspondiente a un establecimiento de alojamiento turístico o a una vivienda objeto de comercialización turística.
+No se tienen que entender comprendidas en los apartados anteriores, y por lo tanto no se tienen que integrar en las bolsas de plazas, las correspondientes a alojamientos turísticos o viviendas comercializadas turísticamente que, al amparo del Decreto 9/1998, de 23 de enero, de aprobación de medidas transitorias relativas al procedimiento de expedición de autorización previa y de apertura de construcciones, obras e instalaciones de empresas y actividades turísticas, de la Ley 2/1999, de 24 de marzo, general turística de las Illes Balears, de la Ley 2/2005, de 22 de marzo, de comercialización de estancias turísticas en viviendas, o de la Ley 8/2012, de 19 de julio, del turismo de las Illes Balears, no hayan tenido que aportar plazas en el momento de la apertura.
+3. La persona interesada en presentar la declaración responsable de inicio o de ampliación de un establecimiento de alojamiento turístico o de una vivienda residencial objeto de comercialización turística puede obtener las plazas de alojamientos turísticos o viviendas de uso residencial comercializadas turísticamente de la isla que se den de baja definitiva y las hayan adquirido de manera onerosa, o de este organismo, en la medida en que no las haya agotado, lo cual se tiene que acreditar mediante un certificado expedido a este efecto. Si no se ha creado el organismo, las puede adquirir de la administración turística insular, para lo cual se tienen que aplicar en general las disposiciones contenidas en este artículo.
+4. En caso de que el organismo gestor exija una contraprestación económica por las plazas, el precio de estas tiene que ser determinado por el mismo organismo o por la administración turística en consideración a criterios objetivos de valoración y se le tiene que dar publicidad.
+En todos los casos, el precio de las plazas correspondientes a las viviendas de uso residencial objeto de comercialización de estancias turísticas puede ser diferente al de las plazas turísticas correspondientes a alojamientos turísticos. Asimismo, respecto de los primeros, se tiene que diferenciar también entre las plazas objeto de transmisión permanente y las plazas objeto de transmisión provisional para las viviendas sujetas al régimen de propiedad horizontal o para las de las tipologías que se hayan determinado reglamentariamente. También se establecerá un precio diferenciado e inferior para las plazas comercializadas con la modalidad de alquiler de la vivienda principal.
+Asimismo, para las plazas correspondientes a viviendas de uso residencial podrá establecerse un precio mayor y progresivo para las plazas correspondientes a la segunda y sucesiva vivienda comercializada por una misma empresa.
+5. Reglamentariamente se tienen que establecer el procedimiento, las condiciones y los requisitos de desarrollo de lo que dispone este artículo.
+6. En los casos determinados en las letras a), b) y c) de este artículo, las plazas no serán reembolsadas, incluso si hubieran sido adquiridas con anterioridad al organismo gestor o a la administración turística. No obstante lo anterior, en el caso de la letra b) las administraciones turísticas podrán valorar, en función de las circunstancias concurrentes, entre las cuales habrá el tiempo de explotación irregular de las plazas, un retorno total o parcial del precio, siempre que se hubieran adquirido a la administración turística o a los organismos gestores.
+7. Los organismos gestores o las administraciones turísticas pueden determinar mecanismos para permitir reservar plazas cuando se presente un proyecto de obra relativo a un alojamiento turístico o un proyecto de obra de reforma de una vivienda objeto de comercialización turística, aceptando un pago parcial y fijando un plazo máximo para presentar la DRIAT. En caso de que no se respete el plazo, las plazas volverían de oficio al organismo gestor o a la administración turística y el pago avanzado no sería devuelto. Asimismo, pueden determinar mecanismos para asegurar que la adquisición de plazas para alojamientos turísticos o viviendas objeto de comercialización turística implique la presentación de la DRIAT en un plazo máximo. En caso de que no se respetara el plazo las plazas volverían de oficio al organismo gestor.
+8. En el caso de bajas voluntarias de viviendas objeto de comercialización turística o viviendas turísticas de vacaciones, de las previstas para viviendas en el último párrafo del punto 2 de este artículo, se permite que el propietario pueda designar, en el momento de la baja ante la administración turística, un nuevo propietario a los efectos de que este pueda adquirir estas plazas a los órganos gestores o administraciones turísticas, para ir destinadas a una nueva vivienda objeto de comercialización turística, caso en que la persona designada dispondrá del plazo máximo de un mes desde la baja para adquirir las plazas al organismo gestor o administración turística, y de tres meses desde la baja para presentar la declaración responsable de inicio de actividad o comunicación de ampliación. Este derecho no es transmisible a terceros.
+Este supuesto no resulta de aplicación cuando la declaración responsable de inicio de actividad presentada en su momento y de la que derive la baja definitiva, incurra en el supuesto del punto 4 del artículo 23 de esta ley. Los consejos insulares podrán dictar las instrucciones oportunas a los efectos de comprobar el cumplimiento de lo establecido en este párrafo.
+Las plazas mencionadas en este punto sí integran las bolsas de plazas hasta el momento de su adquisición, salvo que la persona designada no las adquiera o posteriormente no presente la declaración responsable o comunicación en los plazos indicados.
+9. Se reserva un 25 % de las plazas de que disponga la bolsa de plazas de alojamientos turísticos para ser destinadas a alojamientos que se implanten en edificios que sean bienes de interés cultural o catalogados y estén situados en una zona clasificada como urbana o rústica.
+Por resolución del consejero insular competente en materia de turismo o por acuerdo del órgano gestor de plazas, se podrá modificar este porcentaje.
+Se modifican los apartados 7, segundo párrafo del 8 y se añade el 9 por la disposición final 4.8 a 10 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-4
+ Se deroga el apartado 2.d) y se añade el apartado 8 por la disposición derogatoria única y el art. 2.7 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se añaden los apartados 6 y 7 por el art. 1.8 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se modifica por el art. único.21 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 92
+
+Artículo 92. Tratamiento de la bolsa de plazas, fondos recaudados, destino.
+1. Los ingresos obtenidos mediante la gestión de la bolsa de plazas se tienen que destinar a realizar, en exclusiva y en el ámbito insular respectivo en cada una de las islas, las actuaciones que determine el organismo gestor de la bolsa de plazas turísticas y que tengan por objeto:
+a) Rehabilitar zonas turísticas mediante operaciones de esponjamiento, entre otras.
+b) Incentivar la reconversión de establecimientos de alojamiento turístico obsoletos en proyectos sociales, culturales, educativos o lúdicos y deportivos que, en todo caso, tiene que preservar el medio ambiente.
+c) Fomentar de manera directa e indirecta cualquier actividad que persiga la competitividad, la sostenibilidad, la diversificación y la desestacionalización de la oferta turística de cada una de las islas.
+d) Desarrollar proyectos para incrementar la calidad de la oferta turística.
+e) Impulsar proyectos de investigación científica, desarrollo e innovación tecnológica (I+D+i) que tengan relación con el ámbito turístico.
+f) Llevar a cabo cualesquiera otras actividades con los objetivos de mejorar la calidad de las infraestructuras turísticas, su competitividad y su capacidad de diversificar y desestacionalizar la oferta y de consolidar la posición de liderazgo en materia turística.
+2. La preselección de actividades y proyectos se iniciará durante la tramitación de las regularizaciones mediante un informe relativo a su viabilidad técnica y económica.
+3. A medida que se recauden los fondos procedentes del procedimiento descrito en los artículos anteriores, el organismo gestor seleccionará y ejecutará definitivamente los proyectos viables que se ajusten a la recaudación obtenida.
+Se modifican las letras c) y f) del apartado 1 por el art. 2.29 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+
+## TÍTULO V
+
+Medidas de economía circular
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+## CAPÍTULO I
+
+Principios y objetivos de la circularidad
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 93
+
+Artículo 93. Definiciones.
+A los efectos de este título se entiende por:
+a) Economía circular: modelo de producción y consumo, fuertemente fundamentado en la optimización de procesos y el rediseño de productos y servicios, que persigue, a través de ciclos biológicos y/o técnicos, mantener el valor funcional de los productos y de los materiales durante el mayor tiempo posible, con una clara vocación de minimizar tanto la presión sobre los recursos como la generación de residuos.
+b) Residuo: cualquier sustancia u objeto que su poseedor rechace o tenga la intención o la obligación de rechazar. Sin perjuicio de todo ello, se tendrán presentes las definiciones previstas en la Ley 8/2019, de 19 de febrero, de residuos y suelos contaminados de las Illes Balears.
+c) Recurso: conjunto de materias primas, bienes y servicios que se usan para producir otros bienes y servicios destinados al consumo o a la producción de nuevos bienes y servicios. También reciben el nombre de factores productivos.
+d) Estrategia de circularidad: procedimiento por el cual una empresa fija la motivación, la visión y los objetivos (alcance y escala) en materia de circularidad. La estrategia circular se plasmará en un documento llamado plan de circularidad.
+e) Plan de circularidad: documento que recoge las prioridades y líneas de acción que debe llevar a cabo una empresa para integrar pautas de planificación, consumo y producción y compromiso circular en su estrategia de negocio, sus procesos internos y las relaciones con sus principales grupos de interés. El plan de circularidad hará especial mención a las áreas que se designen prioritarias de acción e incluirá, a la vez, todos los elementos necesarios para una correcta planificación y evaluación circular.
+f) Áreas prioritarias: ámbitos que se establecen, sin perjuicio de la estrategia de circularidad que fije cada compañía, como estratégicos para orientar las líneas de acción que incluye el plan de circularidad. Concretamente: agua, energía, alimentos, materiales y residuos.
+g) Planificación circular: relación y periodificación de tareas y acciones, dotación de recursos, inversiones, protocolos y cualquiera otro medio humano, material y económico necesario para garantizar la ejecución de las líneas de acción incluidas en el plan de circularidad.
+h) Evaluación circular: sistema orientado a medir el progreso circular y facilitar en última instancia la retroalimentación de su visión estratégica y la revisión y/o fijación de nuevas líneas de acción.
+i) Impacto regenerativo: capacidad de restaurar el daño ecológico ocasionado.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 94
+
+Artículo 94. Principios de la circularidad.
+Son principios generales de este título:
+a) La preservación y la mejora del capital natural, desde una utilización de los recursos naturales (renovables) cada vez más eficiente.
+b) La optimización del uso de los recursos, desde una mayor rotación de los bienes y servicios (y sus componentes), consiguiendo un ciclo de utilización y, por lo tanto, un ciclo de vida mayor.
+c) El fomento de la eficacia del sistema, desde la reducción de las externalidades negativas asociadas a la utilización de recursos y el fomento de sinergias entre los diferentes agentes que intervienen en este proceso.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 95
+
+Artículo 95. Objetivos.
+Son objetivos generales de este título:
+a) Elevar la sostenibilidad, económica, ambiental y social, al máximo nivel.
+b) Contribuir desde el ecodiseño de productos y servicios, la adopción de nuevas tecnologías limpias y/o la optimización de los procesos de producción y consumo, a la regeneración del ecosistema y del sistema económico y social.
+c) Adoptar un compromiso de incremento permanente de eficiencia en la gestión de los recursos, para desvincular su uso y consumo del crecimiento económico.
+d) Aumentar la competitividad turística desde una reducción de los costes operativos, la oferta de productos y servicios ecoinnovadores, la captación de talento, el fortalecimiento de las relaciones con los grupos de interés y/o la fidelidad de la marca.
+e) Impulsar la diferenciación ante la competencia, siendo líderes sectoriales. El objetivo es que las Illes Balears sean el primer destino circular.
+f) Favorecer la desestacionalización de la actividad turística para incrementar la rentabilidad económica y social del turismo.
+g) Reducir la huella ambiental de la actividad turística (huella de carbono, hídrica y de consumo de energía).
+h) Mitigar los riesgos asociados a una economía lineal: escasez de recursos y volatilidad de precios, entre otros.
+i) Reducir las pérdidas y el desperdicio de alimentos y materiales en las cadenas de producción y consumo.
+j) Minimizar los riesgos para la salud humana y el medio ambiente.
+k) Dar cumplimiento a las normativas sectoriales relacionadas con la economía circular, como por ejemplo la Ley 8/2019, de 19 de febrero, de residuos y suelos contaminados de las Illes Balears.
+l) En consonancia con la Ley 8/2019, de 19 de febrero, de residuos y suelos contaminados de las Illes Balears, reducir el consumo de materiales que no se pueden reciclar y planificar la eliminación de los que no se pueden valorizar.
+m) Reducir el consumo energético en toda la cadena de valor del sistema turístico.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se modifica el apartado 1 por la disposición final 12 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+
+## CAPÍTULO II
+
+Estrategia de circularidad
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 96
+
+Artículo 96. Aplicación de la estrategia.
+Los establecimientos turísticos de las Illes Balears que pertenecen a los grupos de alojamiento hotelero (hoteles, hoteles de ciudad, hoteles apartamento y alojamientos de turismo de interior), apartamentos turísticos y alojamientos de turismo rural (hoteles rurales y agroturismos) aplicarán la estrategia de circularidad de acuerdo con lo que se establece en este capítulo.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se modifica por la disposción final 4.10 y 11 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-4
+
+### Artículo 97
+
+Artículo 97. Integración de la circularidad en el alojamiento turístico.
+La estrategia de circularidad que se debe desarrollar en el seno de las empresas de alojamiento turístico se integrará en su sistema general de gestión, comprenderá tanto el conjunto de las actividades como todos sus niveles jerárquicos y se hará efectiva a través de la elaboración y la aplicación de un plan de circularidad, con estructura y contenido de acuerdo con el que establecen los artículos 99 y 100 de esta ley.
+La integración de la circularidad en el conjunto de actividades de la empresa de alojamiento se proyectará a:
+a) Las decisiones de inversión y gobernanza de la compañía, a través de pautas de planificación circular.
+b) Los procesos operativos de dotación de activos, aprovisionamientos y prestación de servicios, a través de pautas de producción y consumo circular.
+c) La organización del trabajo y en las relaciones con sus proveedores y clientes, a través de pautas de compromiso circular.
+Todos los niveles jerárquicos de la empresa tienen la obligación de incluir y asumir la circularidad en las actividades que puedan estar afectadas por el plan de circularidad.
+De acuerdo con lo anterior, los establecimientos turísticos referidos en el artículo anterior, a la hora de definir su actividad y adoptar decisiones, valoran los beneficios, las externalidades y los indicadores económicos, sociales y medioambientales; por tanto, con el objetivo de conseguir que la actividad turística tenga un impacto regenerativo en nuestro territorio y en nuestra sociedad, estos aspectos también serán considerados a la hora de elaborar e implantar la estrategia y el plan de circularidad.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se añade el apartado 4 por la disposición final 4.9 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-4
+
+### Artículo 98
+
+Artículo 98. Áreas prioritarias.
+El desarrollo de la estrategia de circularidad, sin perjuicio de las especificidades que fije cada compañía, para favorecer la interrelación de las líneas de acción incluidas en el plan de circularidad, se hará a partir de su aplicación en las siguientes áreas prioritarias: agua, energía, alimentos, materiales y residuos.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se modifica la letra a) por la disposición final 4.6 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-4
+ Se modifica la letra a) por la disposición final 4.6 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-4
+
+### Artículo 99
+
+Artículo 99. Contenido esencial y formato del plan de circularidad.
+1. El plan de circularidad consta de dos elementos esenciales: la planificación circular, orientada a trazar líneas de acción y hacerlas operativas, y la evaluación circular, orientada a medir el progreso de la estrategia de circularidad.
+Para la planificación y la evaluación circular se pueden usar marcos estratégicos y aplicaciones de autodiagnóstico reconocidas por el sector turístico y el Gobierno de las Illes Balears, orientadas a asegurar y facilitar a las empresas la implementación de buenas prácticas circulares.
+2. El plan de circularidad, así como su modificación, revisión y/o renovación, se reflejará en un documento en formato físico o electrónico que estará a disposición de los inspectores de la administración turística y de los representantes legales de las personas trabajadoras. El plan de circularidad incluirá, con la amplitud adecuada a la dimensión y las características de cada alojamiento turístico y al margen del resto de elementos mencionados en esta sección, los aspectos siguientes:
+a) La identificación del alojamiento turístico y la empresa a la cual pertenece.
+b) La estructura organizativa del alojamiento turístico, identificando los responsables de las diferentes líneas de acción que prevé el plan.
+c) El compromiso con los requisitos legales y otros compromisos y objetivos que la empresa subscribe para hacer efectiva la integración de pautas de planificación, consumo y producción y compromiso circular en su estrategia de negocio, en sus procesos internos y en las relaciones con sus principales grupos de interés.
+d) La duración prevista del plan.
+e) La relación de líneas de acción y buenas prácticas que llevará a cabo la empresa en materia de circularidad, en especial en las áreas de acción prioritarias definidas en esta norma.
+f) La metodología y las herramientas que, como sistema integrado de vigilancia, permitan seguir y evaluar el progreso de la estrategia de circularidad.
+3. Sin perjuicio de la aplicación y la vigencia de los artículos referentes al plan de circularidad, se habilita la consejería competente en materia de turismo para desplegar reglamentariamente el contenido del plan de circularidad.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 100
+
+Artículo 100. Implantación y renovación del plan de circularidad.
+1. La empresa explotadora de cada alojamiento turístico elaborará un plan de circularidad, que será asumido por toda su estructura organizativa, comprenderá todos sus niveles jerárquicos y será conocido por todos sus trabajadores y trabajadoras.
+2. El plan de circularidad tendrá una vigencia máxima de cinco años, por lo cual se tendrá que renovar periódicamente por los mismos periodos.
+3. Para elaborar el primer plan de circularidad se llevará a cabo una evaluación circular inicial, teniendo en cuenta sus características particulares, especialmente en cuanto a la posibilidad de adoptar determinadas medidas en materia de circularidad, como la programación de instalaciones de energías renovables de manera preferente en cuanto al consumo de energía o de captación y utilización de aguas pluviales, entre otros.
+Asimismo, con posterioridad, cada año se llevará a cabo una evaluación circular del plan de circularidad ya elaborado, del cual formará parte.
+Tanto la primera como las siguientes evaluaciones, que también se documentarán en un informe y se conservarán para que estén a disposición de la inspección turística y de la representación legal de las personas trabajadoras, sin perjuicio del cumplimiento de la normativa específica que regula cada materia, se llevarán a cabo en base a las áreas prioritarias definidas en el artículo 98 de esta ley:
+a) Área prioritaria de energía:
+– Huella de carbono anual por pernoctación, de conformidad con lo que pueda determinar la normativa específica.
+– Certificación de eficiencia energética del edificio.
+– Capacidad de autoabastecimiento de energía: expresada como porcentaje de la energía autogenerada/autoconsumida de fuentes renovables respecto al total de energía consumida al año en el establecimiento.
+– Potencia renovable instalada, expresada en kW.
+– Capacidad de almacenamiento, expresada en kWh.
+b) Área prioritaria de agua:
+– Capacidad de autoabastecimiento de agua: expresada como el porcentaje que el volumen de agua autocaptada y/o depurada representa sobre el consumo total de agua en los establecimientos y las instalaciones del establecimiento.
+– Consumo anual de agua: cantidad total de agua consumida, expresada en litros, proveniente de la red pública.
+c) Área prioritaria de materiales y residuos:
+– Reciclaje de residuos de obras, reformas y demoliciones: expresado como el porcentaje total de residuos de construcciones y demoliciones generados durante el último ejercicio, o, en su defecto, durante el último proyecto de obra.
+– Recogida selectiva de residuos: estimación anual del volumen de residuos por pernoctación recogidos selectivamente, correspondientes a la suma de las fracciones papel y cartón, vidrio y envases, entre otros.
+d) Área prioritaria de alimentos:
+– Consumo de productos de kilómetro cero: expresado como porcentaje sobre el total de gasto en alimentos y bebidas del establecimiento.
+– Cesta de la compra que minimiza el uso de envases: porcentaje que los productos a granel y/o con envases reutilizables/biodegradables representan sobre el total de partidas de gasto de aprovisionamientos del establecimiento.
+Adicionalmente, la planificación y la evaluación circular preverán:
+– Fracción de la inversión vinculada a buenas prácticas circulares hecha por el establecimiento: inversión hecha en infraestructuras y equipos, formación de trabajadores y equipos e integración tecnológica vinculada a la implementación de buenas prácticas circulares en el establecimiento. Expresado en porcentaje sobre la inversión total de los últimos tres ejercicios.
+– Periodo de apertura y actividad del alojamiento turístico.
+– Plantilla que ha recibido formación relacionada con circularidad: expresado como porcentaje de trabajadores que han recibido algún tipo de formación en circularidad en el último ejercicio.
+– Proveedores que operan con un código de conducta circular: porcentaje del total de proveedores que operan bajo prácticas circulares.
+– Breve recopilación de acciones hechas sobre el uso circular a los clientes: comunicaciones hechas a los clientes con recomendaciones o guías en materia de ahorro de energía, iluminación, climatización, ahorro de agua, servicio de bufés, separación de residuos en las habitaciones y recambio de toallas o sábanas, entre otras pautas.
+Sin perjuicio de esto, la empresa puede incorporar los otros indicadores que estime oportunos en consideración a las características del alojamiento turístico, que se harán constar en la evaluación.
+4. En el plan de circularidad se harán constar la metodología, la aplicación de diagnóstico, el marco estratégico o el procedimiento utilizado para hacer la evaluación circular.
+5. Los métodos o criterios de evaluación, que estarán identificados en el plan, se pueden amparar en:
+– Normas UNE.
+– Normas nacionales.
+– Normas internacionales o guías técnicas publicadas por entidades de prestigio reconocido en materia de circularidad.
+– Certificaciones expedidas por entidades de prestigio reconocido en la materia u otros métodos o criterios profesionales descritos documentalmente que ofrezcan confianza sobre su resultado.
+– Marcos estratégicos y aplicaciones de autodiagnóstico reconocidas por el sector turístico y Gobierno de las Illes Balears.
+6. De conformidad con los resultados de la evaluación, la empresa elaborará la planificación circular para un periodo no superior a cinco años, que comprenderá: las actividades, las inversiones, las acciones y los protocolos necesarios para conseguir los objetivos fijados en las líneas de acción incluidas en el plan de circularidad y su periodificación; los medios humanos y materiales necesarios; y la asignación de los recursos económicos necesarios para la consecución de los objetivos propuestos.
+La empresa priorizará, en tanto sea posible, las acciones de circularidad en las áreas donde los indicadores clave muestren un peor rendimiento o una mayor ineficiencia circular.
+7. La planificación circular se elaborará sin perjuicio del cumplimiento de la normativa específica que pueda regular cada materia de las establecidas como indicadores de la evaluación.
+8. La empresa explotadora se asegurará de la efectiva ejecución de las actividades, las acciones, los protocolos y los procedimientos estipulados en la planificación de circularidad, y efectuará para ello un seguimiento periódico, asegurando la asignación necesaria de recursos humanos y materiales para la consecución de los objetivos.
+9. Para renovar en un plazo máximo de cinco años el plan de circularidad, la empresa se atenderá a las evaluaciones anuales llevadas a cabo, y especialmente a la del año en que elabore el plan.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 101
+
+Artículo 101. Certificado de empresa con estrategia de circularidad.
+Todas las empresas turísticas de alojamiento de las Illes Balears se pueden comercializar o anunciar como empresa circular, que aplica estrategias de economía circular, o análogas, solo si disponen de etiqueta ecológica de la UE, de acuerdo con el Reglamento (CE) núm. 66/2010 del Parlamento Europeo y del Consejo; de un sistema EMAS, de acuerdo con el Reglamento CE 1221/2009 del Parlamento Europeo y del Consejo; o de certificación emitida por entidades debidamente acreditadas para otorgarla, de conformidad con el Real decreto 1715/2010, de 17 de diciembre, por el cual se designa la Entidad Nacional de Acreditación (ENAC) como organismo nacional de acreditación de acuerdo con lo que establece el Reglamento (CE) núm. 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el cual se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el cual se deroga el Reglamento (CEE) núm. 339/93.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se añade el segundo párrafo al apartado 2 por el art. 6 del Decreto-ley 14/2020, de 9 de diciembre. Ref. BOE-A-2021-906
+
+## CAPÍTULO II
+
+Infracciones y sanciones
+
+## CAPÍTULO III
+
+Medidas adicionales en materia de circularidad
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 102
+
+Artículo 102. Medidas ambientales y de eficiencia en el uso de los recursos.
+1. Los establecimientos turísticos de las Illes Balears pertenecientes a los grupos de alojamiento hotelero (hoteles, hoteles de ciudad, hoteles apartamento y alojamientos de turismo de interior); apartamentos turísticos; alojamientos de turismo rural (hoteles rurales y agroturismos); y las viviendas objeto de comercialización turística o viviendas turísticas vacacionales correspondientes a las tipologías constructivas unifamiliar aislada, unifamiliar entre medianeras y pareadas:
+a) Tienen que eliminar las instalaciones térmicas que funcionan con fuel o gasóleo, y sustituirse por otros que empleen fuentes de energía que reduzcan el impacto ambiental, salvo imposibilidad debidamente acreditada, a juicio de la administración insular competente en ordenación turística.
+b) Los establecimientos mencionados en este punto, así como todas las tipologías constructivas de viviendas comercializadas turísticamente o viviendas turísticas vacacionales, como también los establecimientos de restauración y entretenimiento definidos por la normativa turística, dispondrán de doble pulsador o pulsador con interrupción de la descarga en las cisternas de los váteres. Asimismo, dispondrán de dispositivos de ahorro de agua a los grifos de lavabos, bañeras y duchas: difusores y aireadores.
+c) No pueden poner a disposición de los clientes artículos de cortesía de baño de un solo uso (entre otros, maquinillas de afeitar, cepillo de dientes, hilo dental, lima de uñas, espuma de afeitar, champú, crema hidratante para la piel, esponja para limpiar los zapatos, peines, acondicionador para los cabellos, aceite corporal, gorros de ducha), excepto a petición individual del cliente y siempre que los recipientes, embalajes, componentes y/o productos sean reutilizables, reciclables, biodegradables o compostables.
+Esta medida también será de aplicación a todas las tipologías de viviendas comercializadas turísticamente o viviendas turísticas vacacionales, en el caso de que se dejen a disposición a la entrada de los clientes.
+Se presumirá el cumplimiento de lo que prevé esta letra cuando el establecimiento disponga de protocolos internos de entrega a petición del cliente y los artículos se suministren exclusivamente bajo petición individual, sin perjuicio de las facultades de comprobación, inspección y control de la administración turística.
+2. Todas las empresas y los establecimientos turísticos regulados por la Ley 8/2012, de 19 de julio, en caso de que entre en el ámbito de su actividad:
+a) No podrán usar especies marinas incluidas en los anexos II y IV de la Directiva 92743/CEE, en el anexo del Real decreto 139/2011, de 4 de febrero, para el desarrollo del Listado de Especies Silvestres en Régimen de Protección Especial y del Catálogo Español de Especies Amenazadas y el anexo del Real decreto 630/2013, de 2 de agosto, por el que se regula el Catálogo español de especies exóticas invasoras. Sin perjuicio de lo anterior, en cuanto a las especies autóctonas de las Illes Balears, rige con carácter exclusivo el Catálogo de Especies Amenazadas de las Illes Balears, vigente en cada momento, creado por el Decreto 75/2005, de 8 de julio, por el que se crean el Catálogo Balear de Especies Amenazadas y de Especial Protección, las Áreas Biológicas y el Consejo Asesor de Fauna y Flora de las Illes Balears.
+b) Indicarán de manera clara y diferenciada en la carta, el menú, bufé o similar, puesto a disposición de los clientes, los productos de origen balear ya sean agrícolas, ganaderos y pesqueros o bebidas, y deberán poder garantizar y acreditar su veracidad y comprobación de los datos mediante la documentación que les proporcionarán los proveedores de los productos (factura, albarán o similar). Esta indicación se hará también respecto a los productos baleares certificados con las denominaciones de origen, indicaciones geográficas protegidas o cualquier sello distintivo o marca de calidad reconocidos, emitidos y publicados en las Illes Balears por la consejería competente en materia agroalimentaria y otras instituciones de ámbito supramunicipal que desarrollen distintivos de apoyo a la economía circular. Además, respecto a los productos de pescado y marisco indicarán el arte de pesca utilizada, de acuerdo con la documentación que les proporcionarán los proveedores del producto (factura, albarán o similar).
+c) Sin perjuicio del cumplimiento de la normativa laboral y de protección de los usuarios y consumidores, ajustarán las temperaturas y el uso de las instalaciones térmicas a lo que prevé el Real decreto 1027/2007, de 20 de julio, por el cual se aprueba el Reglamento de instalaciones térmicas en los edificios, así como a las normas aprobadas por la Asociación Española de Normalización y a los documentos inscritos en el Registro general de documentos reconocidos del Reglamento de instalaciones térmicas en los edificios dependiente del Ministerio de Industria, Comercio y Turismo.
+Se modifica la letra a) y se añade un párrafo a la letra c) del apartado 1 por la disposición final 4.11 y 12 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-4
+ Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 102 bis
+
+Artículo 102 bis. Compromiso de consumo de productos de alimentación y bebidas de proximidad.
+1. Todas las empresas y los establecimientos turísticos regulados por la Ley 8/2012, de 19 de julio, en caso de que entre en el ámbito de su actividad, garantizarán un mínimo del 3% de consumo de productos frescos agrarios, ganaderos y pesqueros que tengan su origen en las Illes Balears. En caso de productos agroalimentarios transformados, las materias primas esenciales del producto también tendrán su origen en las Illes Balears. En este porcentaje se computan también los productos amparados por cualquier marca de calidad, sean denominaciones de origen, indicaciones geográficas protegidas o cualquier sello distintivo o marca de calidad reconocidos y publicados en las Illes Balears por la consejería competente en materia agroalimentaria y otras instituciones de ámbito supramunicipal que desarrollen distintivos de apoyo a la economía circular.
+En el caso de los establecimientos de alojamiento hotelero clasificados con cuatro y cinco estrellas, el porcentaje de producto de origen de las Illes Balears referido en el primer párrafo será del 4 %.
+En cuanto a los establecimientos clasificados como agroturismos, el porcentaje de producto de origen de las Illes Balears será del 5 %.
+2. El porcentaje de producto de origen de las Illes Balears se calcula en los términos de la letra d) del punto 3 del artículo 100 anterior, referido en el plan de circularidad.
+3. Las empresas y los establecimientos turísticos de las Illes Balears que garanticen como mínimo un porcentaje del 10 % de consumo de productos de origen balear de acuerdo con el establecido en este artículo:
+– Obtienen el distintivo de «Establecimiento Turístico Comprometido con la Producción Local», que será desarrollado por la consejería competente en materia agroalimentaria.
+– Tienen acceso a una promoción prioritaria en materia de turismo sostenible y responsable.
+Se añade por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+
+## CAPÍTULO IV
+
+Procedimiento para la implantación de las medidas en materia de circularidad
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 103
+
+Artículo 103. Instalaciones o construcciones indispensables.
+1. Las instalaciones o construcciones indispensables para implementar los planes de circularidad o las medidas ambientales determinadas en este título, que se implanten en los establecimientos a que hacen referencia los artículos 96 y 102 de esta ley, no computan urbanísticamente en ocupación, en edificabilidad, en distancia a umbrales ni en altura.
+A este efecto, se consideran instalaciones o construcciones indispensables las instalaciones para aprovechar aguas grises y pluviales, las instalaciones de eficiencia energética, todos los elementos y equipamientos integrantes de las infraestructuras para recargar vehículos eléctricos y de energías renovables, las instalaciones para la adecuada recogida selectiva y la monitorización de los residuos, las instalaciones para la adecuación de la estrategia de alimentos u otros de naturaleza y finalidad análogas.
+2. La persona interesada tiene que solicitar a la administración competente en ordenación turística autorización previa en cuya tramitación se tendrá que emitir informe sobre el carácter de indispensable y la adecuación de las instalaciones o construcciones que pretende. Esta autorización previa se tiene que emitir en el plazo máximo de tres meses. En caso de no emisión de la resolución de autorización en este plazo, se considerará otorgada la autorización.
+Se consideran adecuadas las instalaciones o construcciones si la propuesta tiene relación directa y proporcionada con su finalidad, si cumple con el artículo 100.6 y si queda justificado que no hay ubicación alternativa ajustada al planeamiento.
+3. A fin de cumplir las previsiones que se establecen en este título, los establecimientos a que hace referencia el artículo 96 de esta ley, con licencia de actividad turística o que dispongan de la habilitación preceptiva, tienen que llevar a cabo las obras o instalaciones descritas en el apartado 1 de este artículo, con autorización previa del órgano competente en materia de ordenación turística.
+Una vez obtenida la autorización a que hace referencia el apartado anterior, el procedimiento puede continuar, con las previsiones establecidas en este capítulo, por el régimen de declaración responsable, si procede.
+Se modifican los apartados 2 y 3 por el art. 2.8 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifica el párrafo segundo del apartado 1 por el art. 47.6 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a4-9
+ Se modifica el párrafo segundo del apartado 1 por el art. 47.5 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a4-9
+ Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Redactado conforme a la corrección de errores publicada en el BOIB núm. 40, de 22 de marzo de 2022. Ref. BOIB-i-2022-90076
+ Se modifica el apartado 4 por la disposición final 4.12 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-4
+ Se añade el apartado 4 por el art. único.22 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 104
+
+Artículo 104. Régimen del procedimiento para la implantación de las medidas en materia de circularidad.
+1. Para la implementación de las instalaciones o construcciones mencionadas en el artículo anterior, las personas interesadas pueden acogerse al régimen de declaración responsable previsto en este capítulo. El proyecto técnico o la documentación gráfica que se presente a tramitación grafiará las circunstancias mencionadas a efectos de su comprobación técnica y constatación en el expediente municipal.
+2. El régimen de declaración responsable no es aplicable:
+a) A las obras, a los actos y a las instalaciones previstos en el artículo 11.4 del Real Decreto Legislativo 7/2015, de 30 de octubre, por el cual se aprueba el texto refundido de la Ley de suelo y rehabilitación urbana, u otras obras que una normativa sectorial estatal someta al régimen de licencia previa.
+b) En la zona de servidumbre de protección de costa.
+c) A las obras o intervenciones que se hagan en edificios o construcciones que sean bienes de interés cultural o catalogados.
+d) A los actos sujetos al régimen de comunicación previa, los cuales continúan sometidos al procedimiento establecido en el artículo 153 de la Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears.
+3. A efectos de esta ley, la declaración responsable es el documento mediante el cual su promotor manifiesta, bajo su exclusiva responsabilidad, que los actos a los cuales se refiere cumplen las condiciones prescritas en la normativa aplicable, que posee la documentación técnica exigible que así lo acredita, y que se compromete a mantener su cumplimiento en el tiempo que dure el ejercicio de los actos a los cuales se refiere.
+4. A tal efecto, el interesado que quiera acogerse al régimen de declaración responsable previsto en esta ley la presentará subscrita por la persona promotora y dirigida al ayuntamiento correspondiente, en la forma establecida en este capítulo.
+5. La formalización de la declaración responsable no prejuzga ni perjudica derechos patrimoniales del promotor ni de terceros, y solo produce efectos entre el ayuntamiento y el promotor. Tampoco puede ser invocada para excluir o disminuir la responsabilidad civil o penal en qué pueda incurrir su promotor en el ejercicio de los actos a los cuales se refiera.
+6. La declaración responsable faculta para llevar a cabo la actuación urbanística pretendida en la solicitud, siempre que se adjunte la documentación requerida en cada caso, y sin perjuicio de las facultades de comprobación, control e inspección posterior que correspondan.
+7. Con arreglo a la legislación básica en materia de suelo, en ningún caso se pueden entender adquiridas por declaración responsable facultades en contra de la legislación o el planeamiento urbanístico de aplicación.
+8. El régimen aplicable al final de obras, primera ocupación o utilización de los edificios y las instalaciones no queda afectado por el régimen de declaración responsable establecido en este capítulo y, en consecuencia, se requerirán las actuaciones, las licencias y los actos que establece la Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears, para el tipo de obras e instalaciones que se hayan ejecutado.
+9. A efectos de lo que dispone esta ley, solo se puede presentar una declaración responsable sobre una misma edificación o vivienda una vez cada seis meses, sin perjuicio de la posibilidad de acogerse al régimen previsto en el artículo 156 de la Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears, para las modificaciones durante la ejecución de las obras.
+10. En todo lo que no disponga explícitamente esta ley, se estará al régimen general de intervención preventiva del título VII de la Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se añade la letra t) por el art. 11 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+
+### Artículo 105
+
+Artículo 105. Requisitos y forma de presentación de la documentación.
+1. La declaración responsable se presentará con una antelación mínima de quince días hábiles respecto a la fecha en que se pretende iniciar la realización de la actuación.
+En todo caso, la ejecución de las obras o instalaciones se iniciará en el plazo máximo de cuatro meses desde la presentación de la declaración responsable al ayuntamiento. En caso contrario, la declaración responsable perderá la vigencia y será necesario presentar una nueva.
+La declaración responsable fijará el plazo para la ejecución de la actuación, que en ningún caso podrá ser superior a dos años. Este plazo se podrá prorrogar en los mismos términos previstos para las licencias.
+2. El inicio de cualquier obra o instalación al amparo de la declaración responsable se comunicará al ayuntamiento.
+3. La declaración responsable subscrita por la persona promotora y dirigida al ayuntamiento correspondiente se presentará junto con un proyecto técnico de los que prevé el artículo 152.1 de la Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears, e incluirá una motivación expresa de no incurrir en ninguno de los supuestos excluidos de declaración responsable previstos en el apartado 2 del artículo 104, y el justificante de pago de los tributos correspondientes si, de acuerdo con la legislación de haciendas locales y, si procede, con la ordenanza fiscal respectiva, se establece que le es aplicable el régimen de autoliquidación. En caso de exoneración de parámetros urbanísticos se presentará también el informe a que hace referencia el artículo 103.2 de esta ley.
+En todo caso, el proyecto será completo de la actuación prevista, con suficiente definición de los actos que se pretenden llevar a cabo, y tendrá preceptivamente el grado de detalle y el contenido establecidos en los apartados segundo y tercero del artículo 152 de la Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears. Deberá identificar las instalaciones y construcciones a que se refiere el artículo 12.1 en relación con los parámetros que se tengan que considerar exonerados.
+El proyecto técnico se ajustará también a las condiciones establecidas en el Código técnico de la edificación, lo redactará personal técnico competente y será visado por el colegio profesional competente según lo que establezca la normativa estatal vigente. También concretará las medidas de garantía suficientes para la realización adecuada de la actuación, y definirá los datos necesarios para que el órgano municipal competente pueda valorar si se ajusta a la normativa aplicable. Una vez presentado ante el ayuntamiento el proyecto técnico, adquirirá el carácter de documento oficial, y de la exactitud y la veracidad de los datos técnicos que se consignan responderá la persona autora con carácter general.
+Cuando las actuaciones requieran alguna autorización previa o algún informe administrativo previo para el ejercicio del derecho conforme a la normativa sectorial de aplicación, no se podrá presentar la declaración responsable sin que estos se adjunten o, si procede, se adjunte el certificado administrativo del silencio producido, cuando esta normativa prevea su obtención previa a cargo de la persona interesada.
+Asimismo, cuando el acto suponga la ocupación o la utilización del dominio público, se aportará la autorización o la concesión de la administración titular de este.
+Cuando la normativa sectorial que los prevé impida que la solicitud y la obtención previa de los informes y las autorizaciones sean a cargo de la persona interesada, el órgano municipal los solicitará de oficio a las otras administraciones en el plazo máximo de cinco días desde la presentación de la documentación completa de la declaración responsable. En este caso, el órgano municipal comunicará de manera inmediata las actuaciones hechas a la persona interesada, con la indicación que no puede iniciar los actos sujetos a la declaración responsable hasta que el órgano sectorial competente no comunique la emisión del informe o el otorgamiento de la autorización.
+4. La presentación de la declaración responsable, si no se adjunta toda la documentación preceptiva, no tiene los efectos previstos en esta ley.
+5. La declaración responsable de las obras ligadas a la instalación o la adecuación de actividades permanentes o a infraestructuras comunes vinculadas a éstas se rige por lo que prevé la legislación reguladora de actividades.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se añaden las letras ad) y ae) por el art. 1.9 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se modifican las letras g) y x) y se añade la ac) por el art. único.23 a 25 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+ Se deja sin contenido la letra b) por el art. 11 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+
+### Artículo 106
+
+Artículo 106. Comprobaciones y cumplimiento del procedimiento.
+1. Una vez recibida la declaración responsable, el órgano competente hará las comprobaciones pertinentes para verificar la conformidad de los datos declarados así como la documentación presentada y, si de las comprobaciones efectuadas se desprende la falsedad o la inexactitud de aquellos, con la audiencia previa de la persona interesada, podrá suspender la ejecución de las obras o instalaciones, sin perjuicio que, si corresponde, se pueda incoar un procedimiento de enmienda de deficiencias o, si procede, un procedimiento sancionador. Si hay riesgo para las personas o las cosas, la suspensión se puede adoptar de manera cautelar e inmediata, mediante una resolución motivada, que puede adoptar las medidas oportunas para garantizar la seguridad.
+2. Por resolución de la administración pública competente se declarará la imposibilidad de continuar la actuación, sin perjuicio de las responsabilidades penales, civiles o administrativas que correspondan al hecho, desde el momento en que se tenga constancia de alguna de las circunstancias siguientes:
+a) La inexactitud, la falsedad o la omisión de carácter esencial en cualquier dato, manifestación o documento que se adjunte o incorpore a la declaración responsable.
+b) La no presentación, ante la administración competente, de la declaración responsable de la documentación requerida, si procede, para acreditar el cumplimiento de lo que se ha declarado.
+c) La inobservancia de los requisitos impuestos por la normativa aplicable.
+3. Las actuaciones que, pudiéndose acoger al régimen de declaración responsable de este capítulo, se lleven a cabo sin haberla presentado o que excedan las declaradas se considerarán actuaciones sin licencia con carácter general, y se les aplicará el mismo régimen de protección de la legalidad y sancionador que a las obras y los usos sin licencia.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.16 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se añade la letra h bis) por la disposición final 4.13 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-4
+ Se modifica la letra i) por el art. 1.10 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se añade la i) por el art. único.26 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+## TÍTULO VI
+
+Control de calidad turística
+Se añade por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Téngase en cuenta que este título VI ya fue añadido por el Decreto-ley 3/2022, de 11 de febrero.
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era Título V
+
+## CAPÍTULO I
+
+La inspección de turismo
+Se añade por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Téngase en cuenta que este capítulo I ya fue añadido por el Decreto-ley 3/2022, de 11 de febrero.
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 107
+
+Artículo 107. Ejercicio de la inspección de turismo.
+Las facultades de control y verificación del cumplimiento de lo establecido en esta ley y en las disposiciones que la desarrollen corresponden a la administración turística competente, que ejercerá la función inspectora en materia de turismo en el ámbito insular que le corresponde a través de la inspección de turismo.
+Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 93.
+
+### Artículo 108
+
+Artículo 108. Funciones de la inspección de turismo.
+La inspección en materia de turismo tendrá las funciones siguientes:
+a) Llevar a cabo la comprobación y el control del cumplimiento de la normativa turística aplicable, especialmente en la persecución de las actividades clandestinas y la oferta ilegal.
+b) Velar por el respecto a los derechos de los usuarios de servicios turísticos.
+c) Verificar los hechos causantes de reclamaciones y denuncias que puedan ser constitutivos de infracción de la normativa turística de acuerdo con lo establecido en la normativa turística.
+d) Comprobar la existencia de las infraestructuras y los servicios obligatorios impuestos por la legislación turística.
+e) Emitir informes en materia de su competencia.
+f) Informar y asesorar a las personas interesadas, cuando así lo requieran, sobre sus derechos y deberes así como sobre el cumplimiento y la aplicación de la normativa turística vigente.
+g) Levantar y tramitar las actas de inspección extendidas en el ejercicio de la función inspectora.
+h) Intervenir en la clausura o la suspensión de la actividad turística, participando en ella y llevándola a cabo directamente, si son adoptadas como medida provisional por los inspectores de turismo, en los supuestos regulados por la normativa turística.
+i) Cualquier otra función inspectora que le venga atribuida por una norma de rango legal o reglamentario.
+j) En el marco de lo que se dispone en el artículo 28.4 de esta ley, los servicios de inspección tienen que prestar una especial atención a la detección de la oferta ilegal respecto de las viviendas objeto de comercialización turística, con la inclusión de un punto específico en el plan anual de inspección.
+k) Colaborar en las tareas de difusión e información de nuevas disposiciones normativas en materia turística o de la modificación de las existentes y de la aplicación de estas por las personas destinatarias.
+Se añaden las letras j) y k) por el art. 2.9 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 94.
+
+### Artículo 109
+
+Artículo 109. Los servicios de la inspección de turismo.
+1. Las funciones inspectoras en el ámbito insular correspondiente serán ejercidas por la administración turística competente a la que se adscriban los correspondientes servicios de inspección, que tendrán la estructura que se determine reglamentariamente.
+Los servicios de inspección y control de empresas y actividades turísticas deberán disponer de personal suficiente para una adecuada supervisión y control de las plazas turísticas existentes y de la oferta ilegal. En particular, la plantilla de inspectores de estos servicios deberá ser, como mínimo, de un funcionario por cada veinte mil plazas turísticas inscritas. A tal efecto, los órganos competentes deberán aprobar las modificaciones de las relaciones de puestos de trabajo necesarias, y deberán dotar presupuestariamente las plazas correspondientes de la plantilla, antes del 31 de diciembre de 2022.
+2. El personal funcionario de los servicios de inspección, en el ejercicio de su cometido en materia turística, tendrá la consideración de agente de la autoridad, con la protección y las facultades que le atribuya la normativa vigente. A estos efectos, contará con la correspondiente acreditación, que deberá exhibir en el ejercicio de sus funciones.
+3. En el ejercicio de sus funciones inspectoras, el personal inspector tendrá total independencia, sin perjuicio de la dependencia a sus superiores jerárquicos a cuyas instrucciones ha de dar cumplimiento.
+4. La administración turística competente garantizará la formación continuada y específica del personal de la inspección de turismo, en todas las materias relacionadas con el ejercicio de sus funciones.
+Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 95.
+ Se modifica el apartado 2 por el art. 1.11 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se modifica el apartado 2 y se añade el 5 por el art. único.27 y 28 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Artículo 110
+
+Artículo 110. Deber de colaboración con la inspección de turismo.
+1. Los titulares de las empresas turísticas y los representantes o encargados de cada establecimiento, así como toda persona que desarrolle la actividad turística o preste servicios turísticos, y asociaciones o colectivos profesionales e inmobiliarios, tienen la obligación de colaborar con el personal inspector y de permitirle y facilitarle la visita a las dependencias y a las instalaciones, el control de los servicios y, en general, todo lo que proporcione un conocimiento y una calificación mejores y más ajustados de la situación y de los hechos inspeccionados.
+2. En el transcurso de los procedimientos inspectores y sancionadores contra actividades de ámbito turístico supuestamente ilegales o no regladas, el personal inspector podrá requerir a las partes cuánta información y documentación considere adecuada para efectuar las comprobaciones necesarias incluyendo la identificación de las personas físicas o jurídicas que sean parte en este procedimiento.
+Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 96.
+
+### Artículo 111
+
+Artículo 111. Facultades de los inspectores de turismo.
+1. Los inspectores de turismo, en el cumplimiento de sus funciones, podrán recabar el auxilio de las fuerzas y los cuerpos de seguridad del Estado y de la policía local, de acuerdo con la legislación aplicable.
+2. Los inspectores de turismo están facultados para acceder y permanecer libremente por el tiempo necesario en los establecimientos turísticos y en el lugar de desarrollo de las actividades turísticas para el ejercicio de sus funciones.
+3. Los inspectores de turismo pueden requerir motivadamente la comparecencia de las personas interesadas en las dependencias administrativas, haciendo constar expresamente el objeto de la citación, de acuerdo con la legislación reguladora del procedimiento administrativo.
+4. El personal de la inspección de turismo, en sus actuaciones inspectoras, puede efectuar reservas y/o contrataciones en orden a la constatación de la realización de la actividad clandestina, a la comprobación de las posibles infracciones y/o a la correcta identificación de las personas (físicas o jurídicas) que son responsables, sin tener que comunicar previamente que se llevan a cabo aquellas actuaciones inspectoras ni proceder obligatoriamente a su previa identificación como miembro de la inspección de turismo.
+Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 97.
+
+## CAPÍTULO III
+
+Procedimiento sancionador y competencia
+
+### Artículo 112
+
+Artículo 112. Deberes de los inspectores de turismo.
+Los inspectores de turismo, en el ejercicio de la actuación inspectora, tendrán los siguientes deberes:
+a) Exhibir la acreditación de su condición al iniciar la actuación inspectora, salvo que la identificación pueda interferir en esta actuación. También pueden adquirir bienes o servicios para obtener pruebas sin necesidad de identificación.
+b) Cumplir con el deber de secreto profesional y mantener la confidencialidad de la actuación inspectora.
+c) Observar el respeto y la consideración debidos a las personas interesadas, informándolas de sus derechos y deberes a fin de facilitarles su cumplimiento.
+d) Realizar la actuación inspectora con la máxima celeridad y discreción, procurando que tenga la mínima repercusión en la actividad turística de que se trate.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 98.
+ Se modifica por el art. 1.12 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+### Artículo 113
+
+Artículo 113. Deberes del titular de la actividad turística y personal empleado.
+Los titulares de la actividad turística, sus representantes legales, el personal empleado debidamente autorizado o, en su defecto, las personas que se encuentran al frente de la actividad en el momento de la inspección, tendrán el deber de facilitar a los inspectores de turismo el acceso a las instalaciones y dependencias donde se desarrolle la actividad. Asimismo, deberán facilitarles tanto el examen de los documentos relacionados con la actividad turística proporcionando la obtención de copias o reproducciones de dicha documentación, como la comprobación de cuantos datos sean precisos para los fines de la inspección.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 99.
+
+### Artículo 114
+
+Artículo 114. Coordinación interadministrativa.
+Las infracciones y deficiencias detectadas en el ejercicio de la actividad de inspección turística que incidan en el ámbito competencial de otros órganos, tanto de la misma administración como de otras administraciones públicas, serán comunicadas a estos órganos, especialmente las relacionadas con las administraciones competentes en materia de urbanismo, licencias de actividades e inspección y gestión tributaria, sin perjuicio de la realización de inspecciones conjuntas. Igualmente, dichos órganos deberán poner en conocimiento de los órganos competentes en materia de turismo las infracciones y las deficiencias turísticas que detecten en el ejercicio de sus funciones.
+Lo dispuesto en el párrafo anterior se aplicará especialmente a las infracciones que cualquier administración detecte en materia de oferta ilegal y clandestina, respecto de las cuales todas las administraciones adoptarán, dentro del ámbito de su competencia, cuantas medidas cautelares, provisionales o definitivas, sean necesarias para erradicar dicha oferta ilegal o clandestina.
+Se modifica por el art. 2.30 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 100.
+
+### Artículo 114 bis
+
+Artículo 114 bis. Colaboración interadministrativa en las tareas de inspección turística.
+Las administraciones turísticas insulares competentes pueden subscribir los instrumentos jurídicos adecuados con la Administración del Estado o los ayuntamientos de su ámbito insular para que la Policía Nacional, la Guardia Civil o la Policía Local puedan colaborar materialmente en las tareas de inspección turística.
+En el marco de los referidos instrumentos, se tiene que incluir una referencia específica al intercambio de información entre las administraciones que conduzca a la detección de conductas ilícitas y a la identificación de los responsables, a los únicos efectos de incorporar estos datos a los expedientes sancionadores que se tramiten por presunta infracción de la normativa turística.
+Se añaden por el art. 2.10 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+
+### CAPÍTULO IV
+
+Registro de infracciones
+
+### Artículo 115
+
+Artículo 115. Actas de inspección.
+1. De cada inspección practicada, el personal inspector actuante levantará un acta que recogerá el resultado de la inspección y que se ajustará al modelo oficial que se determine reglamentariamente.
+2. En el acta deberán figurar los datos de identificación personal del titular de la actividad turística, de quien lo represente legalmente o del personal empleado debidamente autorizado o, en su defecto, de las personas que se encuentren al frente de la actividad en el momento de una inspección y, en su caso, los datos de identificación fiscal, el lugar y la hora, la identificación de las personas comparecientes y la exposición de los hechos. Asimismo, se harán constar, en su caso, las circunstancias y los datos que contribuyan a determinar la posible existencia de una infracción administrativa, así como las demás circunstancias concurrentes.
+El acta ha de identificar al inspector actuante mediante el código de identificación que consta en el carné profesional.
+3. Las actas podrán ser de constancia de hechos, de obstrucción, de conformidad o de infracción.
+4. Las actas de infracción siempre deberán reflejar los preceptos que el inspector considere infringidos, sin que esto suponga un pronunciamiento definitivo de la Administración sobre los cargos imputados.
+5. Las actas deberán ser firmadas por el inspector actuante y por el titular de la actividad turística o, en su defecto, por quien lo represente legalmente o por el personal empleado debidamente autorizado. En su defecto, la firma corresponderá a las personas que se encuentren al frente de la actividad en el momento de la inspección. La firma acreditará la notificación, el conocimiento del acta y de su contenido pero no implicará su aceptación. La negativa a firmar el acta se hará constar en ésta y no supondrá la paralización o el archivo de las posibles actuaciones siguientes motivadas por el contenido del acta. En todo caso, se entregará o remitirá una copia del acta a la persona interesada.
+6. Las actas de inspección levantadas y firmadas por los inspectores de turismo, de acuerdo con los requisitos establecidos en la normativa aplicable, tienen presunción de certeza y valor probatorio de los hechos constatados, sin perjuicio de las pruebas que las personas interesadas puedan aportar o señalar en defensa de sus derechos e intereses.
+Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 101.
+
+## CAPÍTULO II
+
+Infracciones y sanciones
+Se añade por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Téngase en cuenta que este capítulo II ya fue añadido por el Decreto-ley 3/2022, de 11 de febrero.
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 116
+
+Artículo 116. Infracciones administrativas y clases.
+1. Se consideran infracciones administrativas en materia de turismo las acciones u omisiones tipificadas en la presente ley.
+2. Reglamentariamente, dentro del marco establecido en esta ley, se podrá complementar o especificar el contenido de las conductas constitutivas de infracción administrativa en materia de turismo.
+3. Las infracciones administrativas en materia de turismo se clasifican en leves, graves y muy graves.
+4. La comisión de una infracción administrativa en materia de turismo dará lugar a la tramitación del correspondiente expediente sancionador, conforme a lo establecido en el presente capítulo.
+Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 102.
+
+### Artículo 117
+
+Artículo 117. Personas responsables.
+1. Son responsables de las infracciones administrativas en materia de turismo las personas físicas y jurídicas públicas o privadas que incurran en las acciones u omisiones tipificadas como tales en la presente ley.
+2. El titular de la explotación, empresa o actividad turística será responsable administrativamente de las infracciones que cometan los trabajadores empleados o terceras personas que, sin tener vinculación laboral, realicen prestaciones comprendidas en los servicios contratados por este.
+3. Los titulares de la explotación, empresa o actividad a los que se hubiera impuesto una sanción como consecuencia de la infracción cometida por el personal empleado o terceras personas que prestasen los servicios contratados por este, podrán ejercitar las acciones de repetición que les correspondan contra los autores materiales de la infracción que ocasione la sanción.
+4. En cuanto a la comercialización de estancias turísticas en viviendas, son responsables de las infracciones las personas propietarias del inmueble junto con las personas o entidades comercializadoras, así como con las personas que sean arrendatarias del inmueble, salvo prueba en contrario. La presentación de contratos de arrendamiento o subarriendo no constituye causa exculpatoria suficiente si se prueba que lo son en fraude de ley.
+5. Si dos o más personas son responsables de una infracción y no se puede determinar su grado de participación, estas personas son solidariamente responsables a los efectos de las sanciones que se deriven.
+6. Las personas titulares de los canales de publicidad o comercialización, cuando estén sometidos a la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y comercio electrónico, serán responsables conforme a sus términos.»
+Se modifica el apartado 4 y se añaden los apartados 5 y 6 por el art. 2.11 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 103.
+
+### Artículo 118
+
+Artículo 118. Infracciones leves.
+Se consideran infracciones leves:
+a) La inexactitud en el cumplimiento de las obligaciones de comunicación o de información con la administración turística competente en la materia o a los usuarios de servicios turísticos.
+b) La falta de hojas oficiales de reclamación a disposición del cliente.
+c) La no exhibición de los distintivos acreditativos del grupo, la clasificación y, en su caso, la categoría.
+d) La exhibición de distintivos acreditativos del grupo, de la clasificación o, en su caso, de la categoría, que no cumplan las formalidades exigidas.
+e) No dar publicidad a cuantos aspectos fueran exigibles por la normativa turística.
+f) No poner los precios a disposición de los usuarios de servicios turísticos o no darles la obligada publicidad.
+g) (Derogada)
+h) No prestar o prestar deficientemente los servicios debidos cuando no se cause perjuicio a los clientes.
+i) (Derogada)
+j) El trato incorrecto o descortés, así como las deficiencias en la prestación del servicio por parte del personal empleado en cuanto a la atención y el trato debidos con los clientes.
+k) La inexactitud, la falsedad o la omisión de cualquier dato, manifestación o documento que se acompañe o incorpore a la declaración responsable o a la comunicación previa que no esté tipificada como infracción grave o muy grave.
+l) El otorgamiento de contratos sin hacer constar el número de registro del establecimiento o la empresa contratada.
+m) La falta continuada de actividad turística durante más de tres meses en las agencias de viajes o durante más de un año en el resto de establecimientos turísticos, sin haber comunicado la inactividad o la baja temporal.
+n) El incumplimiento de las disposiciones relativas al régimen de reservas y cancelaciones.
+o) El incumplimiento de lo dispuesto en la normativa turística sobre el periodo de apertura.
+p) El incumplimiento de las obligaciones formales establecidas por la legislación turística relativas a documentación, libros o registros, así como la no conservación de la documentación obligatoria durante el tiempo establecido reglamentariamente.
+q) La negativa, después de haber sido requerido para ello, a facilitar al cliente las hojas de reclamación o, en su caso, a facilitarle los datos del establecimiento.
+r) La obstaculización a la labor inspectora cuando no llegue a imposibilitarla.
+s) Cualquier otro incumplimiento de los requisitos, las prohibiciones y las obligaciones establecidos en la normativa turística que no esté tipificado como infracción grave o muy grave en esta ley.
+t) La falta de comunicación a la administración turística competente del cambio de titularidad en la propiedad o en la explotación del establecimiento.
+u) No indicar de manera diferenciada en la carta, el menú, el bufé o similar, puesto a disposición de los clientes, los productos de origen balear, sean agrícolas, ganaderos y pesqueros o bebidas, así como los productos baleares certificados con las denominaciones de origen, indicaciones geográficas protegidas o cualquier sello distintivo o marca de calidad reconocidos, emitidos y publicados en las Illes Balears por la consejería competente en materia agroalimentaria y otras instituciones de ámbito supramunicipal que desarrollen distintivos de apoyo a la economía circular; así como no poder garantizar y acreditar su veracidad y la comprobación de los datos comunicados en la carta, el menú, el bufé o similar, mediante la documentación que les proporcionarán los proveedores de los productos.
+Así como no indicar el arte de pesca utilizada en relación a los productos de pescado y marisco de origen balear, de acuerdo con la documentación proporcionada por los proveedores del producto.
+Se derogan las letras g) e i) por la disposición derogatoria única del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifica por el art. 1.13 de la Ley 6
+ Se modifica por el art. 2.31 y 2.32 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.17 y 18 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 104.
+
+### Artículo 119
+
+Artículo 119. Infracciones graves.
+Se consideran infracciones graves:
+a) El incumplimiento de las obligaciones de comunicación o de información con la administración turística competente o con los usuarios de servicios turísticos.
+b) (Sin contenido).
+c) La utilización de denominación, grupo, categorías o clasificaciones diferentes a las establecidas en esta ley o en las disposiciones que la desarrollen.
+d) La utilización de denominaciones para una actividad turística que puedan inducir a error sobre la clasificación, la categoría o las características de aquélla.
+e) La publicidad, la contratación o la comercialización de estancias turísticas en viviendas que no cumplan los requisitos o las condiciones establecidos en el capítulo IV del título III de esta ley y en la normativa de desarrollo de esta, incluido el número máximo de plazas, salvo que implique infracción muy grave.
+f) Permitir en una vivienda de su propiedad que no se cumplan los requisitos o las condiciones establecidos en el capítulo IV del título III de esta ley y en la normativa de desarrollo de la oferta o la comercialización de estancias turísticas.
+g) La publicidad, la contratación, la comercialización o el desarrollo de la actividad o prestación de servicios por los establecimientos, actividades o empresas que no hayan presentado la correspondiente declaración responsable de inicio de actividad turística o la comunicación previa, si son exigibles por la normativa turística y, asimismo, si las han presentado y no se cumplen los requerimientos normativos para su ejercicio, salvo que suponga falsedad, omisión o alteración de los aspectos sustanciales en los términos del artículo 120 siguiente o que implique otra infracción muy grave.
+h) La realización o la prestación de servicios de actividades turísticas por quien no tenga la preceptiva habilitación exigida por las normas en vigor, o que no haya presentado la declaración responsable de inicio de actividad turística o la comunicación previa, siempre que cumpla todos los requisitos necesarios para poder obtenerla.
+i) Difundir a través de Internet u otros medios de comunicación información o expresiones que puedan inducir a error sobre los elementos esenciales de la actividad turística y sobre los precios.
+j) No prestar o prestar deficientemente los servicios debidos cuando cause perjuicio a los usuarios de servicios turísticos.
+k) Que cualquier establecimiento de alojamiento turístico explotado bajo la modalidad de pensión completa integral permita la extracción de alimentos o bebidas de dicho establecimiento para ser consumidos fuera de este, salvo que sean paquetes de excursiones organizadas.
+l) La realización de modificaciones no sustanciales en los establecimientos que supongan disminución de la calidad, sin la declaración responsable de inicio de actividad o la comunicación previa.
+m) El incumplimiento de los términos fijados en los contratos para la prestación de servicios turísticos, si redundan en fraude o engaño en relación con los aspectos esenciales y notorios de estos servicios.
+n) La reserva confirmada de plazas de alojamiento en un número superior a las disponibles, siempre que se produzca una sobreocupación efectiva.
+o) El cobro de precios superiores a los contratados.
+p) Instalar o superar unidades de acampada distintas a las previstas por la normativa turística.
+q) No mantener vigentes los seguros, las fianzas u otras garantías equivalentes en las cuantías exigidas por la normativa turística.
+r) Organizar actividades de información o asistencia propias de la profesión de guía de turismo mediante personal que no esté habilitado.
+s) La admisión en los campings o campamentos de turismo de personas que acampan con carácter permanente o residencial.
+t) El incumplimiento de la oferta sobre viaje combinado recogida en el folleto informativo, siempre que cause perjuicio a los clientes.
+u) La publicidad que pueda producir engaño sobre los elementos esenciales, las prestaciones o los servicios que integren el paquete turístico o el servicio combinado y que figuren en catálogos, folletos, publicidad u ofertas específicas de las empresas y actividades turísticas.
+v) Incumplir el régimen previsto en la normativa reguladora de viajes combinados para los supuestos de no confirmación de la reserva, modificación de los elementos esenciales o de resolución de contrato.
+w) Incumplir el régimen de entrada y permanencia en los establecimientos turísticos.
+x) La realización de actividades en dependencias de los establecimientos turísticos o en viviendas residenciales objeto de comercialización turística que infrinjan la normativa turística.
+y) La utilización del solar, inmueble o establecimiento afectado para una finalidad distinta de la recogida en el proyecto autorizado o en la declaración responsable de inicio de actividad turística o la comunicación previa.
+z) Las infracciones leves cuando, doce meses antes de cometerlas, el responsable de estas haya sido sancionado mediante resolución definitiva por la misma infracción tipificada como leve.
+aa) Permitir la venta ambulante en los establecimientos turísticos u organizar paradas en viajes o excursiones donde se practique la venta ambulante.
+ab) La negativa u obstrucción a la actuación de los servicios de inspección cuando esta impida el ejercicio de las funciones que legalmente o reglamentariamente les estén atribuidas.
+ac) No hacer constar en el contrato de alojamiento las prohibiciones citadas en el punto 12 del artículo 50 de esta ley, o no adoptar las medidas adecuadas para que sus clientes no lleven a cabo comportamientos graves contrarios a las normas de régimen interno en los establecimientos turísticos o a las básicas de la convivencia o a lo que fijen los estatutos de la comunidad de propietarios en las viviendas sujetas al régimen de propiedad horizontal, si estos comportamientos producen molestias o perjuicios graves al resto de clientes o a la vecindad.
+ad) La utilización por parte de alojamientos no definidos en la normativa turística, o bien que no hayan presentado la declaración responsable o la hayan presentado sin cumplir los requerimientos normativos, de los términos vacaciones, turística o similares, o bien que usen canales de oferta que empleen estos términos o de los cuales se desprenda una finalidad turística.
+ae) No haberse adaptado al cumplimiento de los requisitos y las condiciones de la autoevaluación establecidos reglamentariamente en la fecha máxima que la normativa determine.
+af) No cumplir los establecimientos y las viviendas mencionadas en la disposición adicional sexta las obligaciones que se establecen o, en general, las deficiencias en condiciones de limpieza; en el funcionamiento de instalaciones, o en el mobiliario o los enseres que formen parte de la explotación de la actividad turística.
+ag) No disponer del libro registro de conformidad con el artículo 51.2 de esta ley.
+ah) El incumplimiento de los porcentajes o de las fechas establecidas en la disposición transitoria décima de esta ley, relativas a la instalación de camas elevables, cuando no tengan la consideración de muy graves.
+ai) El incumplimiento de la obligación de disponer del plan de circularidad y de llevar a cabo las evaluaciones anuales.
+aj) Disponer de un plan de circularidad o evaluaciones periódicas cuyo contenido no se ajuste a las exigencias establecidas en esta norma o no disponer de toda la documentación acreditativa de la elaboración del plan de circularidad.
+ak) No disponer de doble pulsador o pulsador con interrupción de la descarga en las cisternas de los váteres, difusores y aireadores en los grifos de lavabos, bañeras y duchas.
+al) Incumplir la prohibición de poner a disposición de los clientes artículos de gentileza de baño de un solo uso, excepto que se demuestre que ha estado a petición individual del cliente y siempre que los recipientes, embalajes, componentes y/o productos sean reutilizables, reciclables, biodegradables o compostables.
+am) Utilizar especies clasificadas como introducidas, invasoras o protegidas prohibidas en los términos del artículo 102.2.a) de esta ley.
+an) Incumplir la obligación de ajustar las temperaturas y el uso de las instalaciones térmicas conforme a lo que prevé el Real decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de instalaciones térmicas en los edificios, así como a las normas aprobadas por la Asociación Española de Normalización y a los documentos inscritos en el Registro general de documentos reconocidos del Reglamento de instalaciones térmicas en los edificios, dependiente del Ministerio de Industria, Comercio y Turismo.
+ao) Anunciarse o comercializarse como empresa circular, que aplica estrategias de economía circular o análogas, sin disponer de etiqueta ecológica de la UE, de acuerdo con el Reglamento (CE) núm. 66/2010 del Parlamento Europeo y del Consejo; de un sistema EMAS, de acuerdo con el Reglamento CE 1221/2009 del Parlamento Europeo y del Consejo; o de certificación emitida por entidades debidamente acreditadas para otorgarla, de conformidad con el Real decreto 1715/2010, de 17 de diciembre, por el cual se designa la Entidad Nacional de Acreditación (ENAC) como organismo nacional de acreditación de acuerdo con lo que establece el Reglamento (CE) núm. 765/2008 del Parlamento Europeo y el Consejo, de 9 de julio de 2008, por el cual se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el cual se deroga el Reglamento (CEE) núm. 339/93.
+ap) El incumplimiento de la obligación de garantizar el porcentaje mínimo de consumo de producto de origen de las Illes Balears en los términos del artículo 102 bis de esta ley.
+aq) No expedir o expedir incorrectamente las facturas o los recibos de las cantidades abonadas por los servicios contratados y, asimismo, la negativa, tras haber sido requerido para hacerlo, a facilitar a la clientela las hojas de reclamación o, si procede, a facilitarle los datos del establecimiento, como también la negativa a facilitar a la persona usuaria que lo solicite la documentación acreditativa de los términos de contratación.
+ar) Haberse acogido a la disposición adicional cuarta y no cumplir dentro de plazo con las determinaciones de la disposición adicional cuarta bis, referida a la acreditación de estar certificado en uno de los sistemas de calidad que indica o a la obtención de la homologación de un sistema de calidad propio por la Agencia de Estrategia Turística de las Illes Balears.
+Se modifica la letra ac) por el art. único.2 de la Ley 1/2025, de 13 de junio. Ref. BOE-A-2025-14460
+ Se modifican las letras e), g) y af) y se añaden las letras aq) y ar) por el art. 2.12 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifica por el art. 2.31 y 2.33 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.17 y 19 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 105.
+ Redactado conforme a la corrección de errores publicada en el BOIB núm. 40, de 22 de marzo de 2022. Ref. BOIB-i-2022-90076
+
+### Artículo 120
+
+Artículo 120. Infracciones muy graves.
+Se consideran infracciones muy graves:
+a) La falsedad, la omisión o la alteración de los aspectos sustanciales para el otorgamiento de la autorización o el título en los datos incluidos en la declaración responsable de inicio de actividad turística o en la comunicación previa, que se regulan en el capítulo IV del título V de esta ley.
+b) La realización de la actividad turística sin haber presentado la correspondiente declaración responsable de inicio de actividad turística o la comunicación previa.
+c) No prestar o prestar deficientemente los servicios debidos siempre que se cause un perjuicio grave a los usuarios de servicios turísticos.
+d) La realización de obras en los establecimientos sin la comunicación correspondiente si estas obras suponen modificación sustancial referente a la calidad, el número de plazas o las condiciones determinantes en la clasificación o capacidad.
+e) La prestación de servicios, incumpliendo la normativa en vigor, en condiciones que puedan afectar a la seguridad de las personas.
+f) La emisión o el vertido de cualquier clase a la atmósfera, al suelo, a la playa o a las aguas terrestres o marítimas por parte de las instalaciones de los establecimientos turísticos que supongan daños graves a los recursos naturales o al medio ambiente.
+g) Cualquier actuación discriminatoria por razón de nacionalidad, raza, sexo, religión, orientación sexual, discapacidad, opinión o cualquier otra circunstancia social o personal, o la falta de respeto a la dignidad de la persona y a sus derechos fundamentales en el acceso y la participación en la actividad turística.
+h) Las infracciones graves cuando, doce meses antes de cometerlas, el responsable de estas haya sido sancionado, mediante resolución definitiva, por infracción tipificada como grave.
+i) La publicidad, la contratación o la comercialización de estancias turísticas en viviendas de uso residencial cuya tipología no permita la presentación de la declaración responsable de inicio de actividad turística, se trate de viviendas situadas en zonas no aptas para la comercialización de estancias turísticas en viviendas residenciales o no se hayan adquirido las plazas turísticas.
+j) Llevar a cabo por parte de las personas físicas o jurídicas que sean titulares o explotadoras de los canales de comercialización turística definidos en el artículo 3 de esta ley la comercialización, la publicidad o la facilitación mediante enlace o alojamiento de contenidos de reservas, relativas a estancias turísticas en viviendas ubicadas en cualquier isla de las Illes Balears que no hayan presentado la declaración responsable de inicio de actividad turística o sin hacer constar el número de inscripción turística.
+k) El incumplimiento muy grave de las obligaciones que se contienen en el artículo 37 bis de esta ley, relativas a la instalación de camas elevables, en los términos establecidos en la disposición transitoria décima.
+l) El incumplimiento de la obligación de eliminar las instalaciones térmicas que funcionan con fueloil o gasoil, sustituyéndolas por otras que empleen fuentes de energía que reduzcan el impacto medioambiental, salvo imposibilidad técnica debidamente acreditada.
+m) La negativa o el comportamiento omisivo a la cesión de datos por parte de las personas físicas o jurídicas a que se refiere la letra j) anterior, a las administraciones competentes en materia de ordenación turística en virtud del artículo 15.2 de la Directiva 2000/31/CE del Parlamento Europeo y del Consejo, de 8 de junio de 2000, relativa a determinados aspectos jurídicos de los servicios de la sociedad de la información, en particular, el comercio electrónico en el mercado interior (Directiva sobre el comercio electrónico).
+n) Acogerse a las posibilidades previstas en el artículo 78 de esta ley y no dar cumplimiento a lo que se dispone en el mencionado artículo.
+Se modifican las letras a) e i) y se añade la letra n) por el art. 2.13 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifica por el art. 2.31 y 2.34 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade la letra m) por la disposición final 4.2 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#df-4
+ Se añade por el art. 2.17 y 20 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 106.
+
+### Artículo 121
+
+Artículo 121. Prescripción de las infracciones.
+1. Las infracciones previstas en esta ley prescribirán en los siguientes plazos: las infracciones muy graves, a los tres años; las graves, a los dos años; y las leves, al año.
+2. El plazo de prescripción de las infracciones se computará desde el día en que se hubieran cometido. No obstante, cuando se trate de infracciones continuadas, el plazo de prescripción comenzará a contar desde el día en que se realizó el último hecho constitutivo de la infracción. Cuándo se trate de infracciones permanentes dicho plazo comenzará a contar desde el momento en que se eliminó la situación ilícita.
+3. La prescripción de las infracciones se interrumpe por la iniciación con conocimiento de la persona interesada del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente sancionador estuviera paralizado más de un mes por causa no imputable al presunto responsable.
+Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 107.
+
+### Artículo 122
+
+Artículo 122. Clases de sanciones.
+Las infracciones de la normativa turística darán lugar a la imposición de las sanciones siguientes:
+a) Apercibimiento.
+b) Multa.
+c) Cambio de categoría del establecimiento a una categoría inferior a la que posea.
+d) Suspensión temporal, hasta un máximo de doce meses, de la actividad de la empresa o del ejercicio profesional individual.
+e) Revocación de la habilitación o la autorización otorgada por la administración turística competente, o pérdida de los efectos de la declaración responsable de inicio de actividad turística o la comunicación previa presentadas.
+f) Clausura temporal o definitiva del establecimiento o de la vivienda de uso turístico o residencial del que lleve causa la infracción.
+Se modifica la letra f) por el art. 9.2 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721
+ Se modifica la letra f) por el art. 47.6 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a4-9
+ Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica la letra f) por la disposición final 4.3 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#df-4
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 108.
+
+### Artículo 123
+
+Artículo 123. Sanciones.
+1. Las infracciones calificadas como leves tienen que ser sancionadas con advertencia o multa de hasta 5.000 euros.
+La advertencia es procedente en los casos de infracciones leves cuando no haya reincidencia y, dadas las circunstancias y el criterio de proporcionalidad, cuando no se considere conveniente la imposición de multa.
+2. Las infracciones cualificadas como graves tienen que ser sancionadas con multa de 5.001 a 50.000 euros.
+Sin embargo, las infracciones previstas en la letra e) del artículo 119 de esta ley se tienen que sancionar con multa de entre 30.001 y 50.000 euros.
+También se tiene que sancionar con multa de entre 30.001 y 50.000 euros cuando la infracción prevista en la letra g) del artículo 119 se refiera a la publicidad, la contratación o la comercialización de estancias turísticas en viviendas de uso residencial que no hayan presentado la declaración responsable de inicio de actividad turística o comunicación previa y no se haya incardinado en una infracción muy grave.
+Como sanción accesoria se puede imponer la suspensión temporal de la actividad de la empresa o del ejercicio profesional, o la clausura temporal del establecimiento.
+La infracción tipificada en la letra ah) del artículo 119 se tiene que sancionar con multa de 500 euros por cada cama elevable no instalada en el plazo establecido, con el límite total fijado para las faltas graves.
+3. Las infracciones cualificadas como muy graves tienen que ser sancionadas con multa de 50.001 a 500.000 euros.
+Sin embargo, la infracción tipificada en la letra l) del artículo 120 de esta ley se tiene que sancionar con multa de 100.000 euros.
+Asimismo, la infracción tipificada en la letra k) del artículo 120 se tiene que sancionar con multa de 500 euros por cada cama elevable no instalada en el plazo establecido, con el límite total fijado para las faltas muy graves.
+Como sanciones accesorias se puede imponer la suspensión temporal del ejercicio de la actividad de la empresa o del ejercicio profesional; la revocación de la habilitación otorgada por la Administración turística; la pérdida de los efectos de la declaración responsable de inicio de actividad turística, o la clausura temporal o definitiva del establecimiento.
+4. La revocación de subvenciones o la suspensión al derecho a obtenerlas se podrá imponer como sanción accesoria a las que sean procedentes en los casos de infracciones graves o muy graves.
+5. Las multas fijadas por este artículo se reducirán en un 80 % del importe correspondiente, si se acredita durante la tramitación del expediente el reconocimiento de la responsabilidad y la cesión de la vivienda para la finalidad de alquiler a precio limitado o social, o para otras finalidades de interés general, en el marco de las competencias de los ayuntamientos, los consejos insulares y la comunidad autónoma, durante un mínimo de cinco años, en el caso de sanciones relacionadas con la comercialización turística de la vivienda.
+El organismo oficial o la administración pública que sea competente en la gestión del programa de alquiler social será beneficiario de las rentas provenientes de dicho alquiler social.
+Por otra parte, las multas fijadas por este artículo se reducirán en un 60 % del importe correspondiente, si se acredita durante la tramitación del expediente el reconocimiento de la responsabilidad y la cesión de la vivienda en programas públicos que tengan por objeto estimular la salida al mercado de viviendas vacías, permitiendo poner a disposición de los ciudadanos residentes en las Illes Balears viviendas en régimen de alquiler a un precio asequible y garantizando el cobro de las cuotas de alquiler al propietario, en el marco de las competencias de los ayuntamientos, los consejos insulares y la comunidad autónoma, durante un mínimo de siete años, en el caso de sanciones relacionadas con la comercialización turística de la vivienda.
+El infractor propietario del inmueble será el beneficiario de las rentas provenientes de este alquiler a precio asequible una vez descontada, en su caso, la reducción de la que se beneficien los arrendatarios de acuerdo con el programa correspondiente.
+En la cuantía de la sanción resultante de aplicar las reducciones previstas en el presente apartado, habrá que aplicar también, en su caso, la reducción por pronto pago prevista en el artículo 85 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+6. En el caso de la infracción prevista en la letra a) del artículo 120, se puede imponer, como sanción accesoria, la no posibilidad de presentar nueva declaración responsable de inicio de actividad o de comunicación previa, referida a la misma actividad, hasta un máximo de un año desde la firmeza de la resolución administrativa sancionadora.
+Se modifica el apartado 5 por la disposición final 4.13 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-4
+ Se modifican los apartados 1, 2, 3 y 5 y se añade el apartado 6 por el art. 2.14 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifica por el art. 2.31 y 2.35 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.17 y 21 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 109.
+
+### Artículo 124
+
+Artículo 124. Gradación de las sanciones.
+1. Las sanciones que se impongan por la comisión de las infracciones tipificadas serán graduadas teniendo en cuenta la naturaleza de la infracción y las circunstancias concurrentes, atendiendo especialmente a los criterios siguientes:
+a) La existencia de intencionalidad.
+b) La subsanación durante la tramitación del procedimiento sancionador de las anomalías que dieron origen a su incoación o a la reparación de los perjuicios causados.
+c) La naturaleza de los perjuicios causados, así como el riesgo generado para la salud o la seguridad de las personas.
+d) El número de personas afectadas.
+e) La reincidencia, cuando no haya sido tenida en cuenta para tipificar la infracción.
+f) El beneficio obtenido como consecuencia de la infracción.
+g) La posición del infractor en el mercado.
+h) La categoría del establecimiento o las características de la actividad.
+i) La trascendencia del daño o el perjuicio causado a la imagen o a los intereses turísticos públicos o privados.
+j) Las repercusiones para el resto del sector turístico.
+k) Que la actividad se desarrolle en suelo rústico protegido.
+l) La reiteración.
+m) La publicidad, la contratación o la comercialización de estancias turísticas en viviendas de uso residencial sometidas a limitación de precio.
+2. Se entiende por reincidencia la comisión en el plazo de dos años de más de una infracción de la misma naturaleza cuando así haya sido declarada por resolución firme en vía administrativa.
+Se entiende por reiteración la comisión en el plazo de dos años de dos o más infracciones de cualquier carácter relativas a la normativa turística y que hayan sido declaradas por resolución firme en vía administrativa.
+3. La aplicación de la sanción deberá ser proporcionada a la gravedad de la conducta infractora y asegurará que la comisión de infracciones no resulte más beneficiosa para la persona infractora que el cumplimiento de las normas infringidas. Solo a estos efectos podrán incrementarse las cuantías de las multas previstas en el artículo anterior hasta el triple del precio de los servicios afectados por la infracción.
+Se añaden las letras k), l) y m) al apartado 1 y se modifica el apartado 2 por el art. 2.15 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 110.
+
+### Artículo 125
+
+Artículo 125. Prescripción de las sanciones.
+1. Las sanciones previstas en la presente ley prescribirán en los siguientes plazos:
+a) Las impuestas por infracciones leves, al año.
+b) Las impuestas por infracciones graves, a los dos años.
+c) Las impuestas por infracciones muy graves, a los tres años.
+2. El plazo de prescripción de las sanciones se computará desde el día siguiente a aquél en que la resolución por la que se imponga la sanción adquiera firmeza.
+3. La prescripción de las sanciones quedará interrumpida por la iniciación del procedimiento de ejecución, reanudándose el plazo de prescripción si el procedimiento estuviera paralizado más de un mes por causa no imputable a la persona infractora.
+Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 111.
+
+## CAPÍTULO III
+
+Procedimiento sancionador y competencia
+Se añade por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Téngase en cuenta que este capítulo III ya fue añadido por el Decreto-ley 3/2022, de 11 de febrero.
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 126
+
+Artículo 126. Órganos competentes.
+El titular competente en materia de turismo de cada uno de los consejos insulares, en el ámbito territorial respectivo, o la persona o las personas en quien este delegue, son competentes para imponer las sanciones correspondientes a todas las infracciones.
+En la isla de Mallorca la competencia será de la persona titular de la consejería competente en materia de turismo o la persona en quien delegue, en tanto no se lleve a cabo la transferencia de las funciones y de los servicios de ordenación turística al Consejo Insular de Mallorca.
+Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 112.
+
+### Artículo 127
+
+Artículo 127. Procedimiento.
+El procedimiento administrativo para la imposición de las sanciones establecidas en esta ley y el ejercicio de la potestad sancionadora se tienen que llevar a cabo de conformidad con los principios contenidos en la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público, y de acuerdo con lo que dispone el Decreto 1/2024, de 5 de enero, por el cual se aprueba el procedimiento sancionador de la Administración de la Comunidad Autónoma de las Illes Balears, o norma que lo sustituya. El término de caducidad de los procedimientos sancionadores es de un año para resolver y notificar.
+Se modifica por el art. 2.16 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 113.
+
+### Artículo 128
+
+Artículo 128. Medidas provisionales.
+1. Cuando se considere necesario para asegurar la eficacia de la resolución, por motivos de urgencia, o para una protección provisional de los intereses implicados, las acciones u omisiones tipificadas como infracción en la presente ley podrán dar lugar a las medidas provisionales establecidas en el artículo 56 de la Ley 39/2015, de 1 de octubre, de Régimen Jurídico del Procedimiento Administrativo de las Administraciones Públicas, así como a las siguientes medidas provisionales:
+a) La suspensión temporal de los efectos de la declaración responsable de inicio de actividad turística, de la comunicación previa o la suspensión de los títulos, licencias, autorizaciones o habilitaciones en virtud de los cuales se ejerza la actividad.
+b) La clausura temporal del establecimiento o de la vivienda de uso turístico o residencial del cual lleve causa la infracción o la suspensión del ejercicio de la actividad.
+c) La suspensión temporal, parcial o total de las actividades de intermediación turística y otras actividades no vinculadas a un establecimiento físico.
+d) La suspensión temporal del ejercicio de la profesión de guía turístico.
+2. Una vez iniciado el procedimiento, el órgano competente para resolver puede adoptar medidas provisionales para asegurar la eficacia de la resolución. También las puede adoptar antes del inicio del procedimiento en casos de urgencia y para la protección provisional de los intereses implicados, todo ello en los términos de los artículos 56.1 y 56.2 de la Ley 39/2015, de 1 de octubre.
+3. Las medidas provisionales se adoptarán, previa audiencia a las personas interesadas, en el plazo máximo de siete días, para que puedan aportar todas las alegaciones, documentos e informaciones que consideren convenientes. No obstante, cuando las medidas provisionales se adopten antes de la iniciación del procedimiento sancionador, serán confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento tras la audiencia a las personas interesadas.
+4. La orden de suspensión o de clausura del establecimiento se puede notificar, indistintamente, a la persona que lleve a cabo la actividad, a la propietaria del inmueble en el cual se ejerce o a la persona arrendataria.
+El incumplimiento de la orden de suspensión da lugar, mientras persista, a la imposición, tras advertencia previa, de sucesivas multas coercitivas por periodos mínimos de quince días y por importes mínimos de 6.000 euros cada una.
+En el caso de persistir en el incumplimiento, se tiene que dar traslado al ministerio fiscal a los efectos de exigir la responsabilidad penal que pueda corresponder.
+Se modifican los apartados 1.b), 2 y se añade el apartado 4 por el art. 2.17 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifican los apartados 1.b) y 3 por el art. 9.4 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721
+ Se modifican los apartados 1.b) y 3 por el art. 47.7 y 8 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a4-9
+ Se modifica el apartado 1.b) por la disposición adicional 3.2 de la Ley 3/2024, de 3 de mayo. Ref. BOE-A-2024-15575#da-3
+ Se modifica el apartado 1.b) por la disposición adicional 3.2 del Decreto-ley 6/2023, de 2 de octubre. Ref. BOE-A-2023-24418#da-3
+ Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica el apartado 1 por la disposición final 4.4 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#df-4
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 114.
+
+### Artículo 128 bis
+
+Artículo 128 bis. Multas coercitivas.
+1. El órgano competente, previa constatación de que la persona o la entidad obligada con esta finalidad no ha ejecutado en sus términos los actos o las resoluciones administrativas destinados al cumplimiento de lo que determina esta ley y otras disposiciones relativas al sector turístico, puede imponer multas coercitivas, previa advertencia a los interesados.
+2. La advertencia a que hace referencia el apartado anterior comunicará a la persona o a la entidad interesada el plazo de que dispone para cumplir y la cuantía de la multa que, en caso de incumplimiento, se le pueda imponer. La cuantía de la multa a imponer será de entre 500 euros y 5.000 euros diarios y, en todo caso, su cálculo deberá ser proporcional a la gravedad del incumplimiento o la infracción cometida, de conformidad con esta ley.
+3. En caso de que la persona interesada comunique de manera fehaciente al órgano competente para la imposición de estas multas y en el plazo otorgado para el cumplimiento, que ha procedido a ejecutar en sus términos el acto o resolución que motiva la imposición de la multa coercitiva, esta no se impondrá, siempre que la administración lleve a cabo la constatación de la realidad de lo manifestado, y, en este caso, dictará resolución que declare debidamente ejecutado el acto o la resolución en cuestión.
+4. Si la persona interesada no comunica de manera fehaciente al órgano competente para la imposición de las multas coercitivas que ha procedido a ejecutar en sus términos el acto o la resolución que motiva la imposición de la multa en los términos del apartado 3 anterior, la administración competente procederá a liquidar periódicamente el importe de la multa impuesta, y dará traslado a la persona interesada para la satisfacción de la misma.
+5. Si, después de la imposición de una multa coercitiva en los términos señalados, la persona o la entidad interesada comunica al órgano que impuso la multa coercitiva la ejecución en sus términos de los actos y las resoluciones administrativas que motivaron esta imposición, comprobada administrativamente la realidad de estas manifestaciones, se liquidará la multa correspondiente desde su imposición o desde la última liquidación practicada, según proceda en cada caso, y dará traslado a la persona interesada para la satisfacción de la cantidad liquidada, al mismo tiempo que se dictará resolución que declare debidamente ejecutado el acto o la resolución en cuestión.
+6. Después de la notificación de, al menos, dos liquidaciones de las señaladas en los párrafos anteriores, el órgano competente, de manera motivada, dará traslado a la Fiscalía, en los términos de la letra p) del artículo 7 de esta ley.
+7. Las multas coercitivas son independientes de las que se pueden imponer en concepto de sanción y son compatibles con estas.
+Se modifica por la disposición final 4.14 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-4
+ Se modifica el apartado 2 por el art. 2.18 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se añade por la disposición final 4.5 del Decreto-ley 5/2022, de 16 de mayo. Ref. BOE-A-2022-13797#df-4
+
+## CAPÍTULO IV
+
+Registro de infracciones
+Se añade por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Téngase en cuenta que este capítulo IV ya fue añadido por el Decreto-ley 3/2022, de 11 de febrero.
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Artículo 129
+
+Artículo 129. Anotación, cancelación y publicidad de las sanciones.
+1. Las sanciones definitivas, sea cual fuere su clase y naturaleza, serán anotadas en el registro insular de empresas, actividades y establecimientos turísticos correspondiente.
+2. Las anotaciones se cancelarán de oficio o a instancia de parte transcurridos uno, dos o tres años, según se trate de sanciones por infracciones leves, graves o muy graves, desde su imposición con carácter definitivo o cuando la resolución sancionadora sea anulada por una sentencia firme en vía contencioso-administrativa.
+3. Se expedirá certificado de las sanciones anotadas a las personas interesadas que lo soliciten.
+Se modifica por el art. 2.31 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.17 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Su anterior numeración era art. 115.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Se faculta al Consejo de Gobierno para que, en el ámbito de sus competencias, dicte las disposiciones necesarias para ejecutar y desarrollar lo que se dispone en esta ley.
+2. Se facultan a los consejos insulares para que, en el ámbito de sus competencias, dicten las disposiciones necesarias para ejecutar y desarrollar la presente ley.
+3. Se faculta al Consejo de Gobierno para que, mediante decreto, actualice periódicamente la cuantía de las multas comprendidas en la presente ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Los locales existentes en establecimientos turísticos o en parcelas vinculadas con autorización de la administración turística correspondiente anteriormente a la Ley 2/1999, de 24 de marzo, general turística de las Illes Balears, y que tengan acceso único e independiente desde la vía pública, podrán mantener su actividad y ser objeto de cambio de uso y de obras de conservación, mantenimiento y reforma sin que les sean de aplicación los principios de uso exclusivo y unidad de explotación dispuestos en los artículos 32 y 33 de esta ley.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+(Derogada).
+Se deroga por la disposición derogatoria única.e) de la Ley 7/2013, de 26 de noviembre. Ref. BOE-A-2014-655
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Régimen extraordinario de mejora de establecimientos turísticos en zonas turísticas de reconversión.
+1. Las solicitudes de modernización de establecimientos turísticos existentes en los ámbitos declarados como zona turística de reconversión o saturada y de reconversión, de conformidad con el artículo 77 de la Ley 8/2012, de 19 de julio, del turismo de las Illes Balears, que se presenten ante la administración turística competente antes del 1 de junio de 2029, quedan excepcionalmente excluidas de los parámetros de planeamiento territorial, urbanísticos y turísticos que impidan su ejecución, siempre que tengan por objeto la mejora de instalaciones o de servicios en la línea de potenciar la desestacionalización, la búsqueda o la consolidación de nuevos segmentos del mercado o la mejora de las instalaciones, la calidad, la oferta, la seguridad, la accesibilidad o la sostenibilidad medioambiental de los establecimientos turísticos.
+Se entienden como establecimientos turísticos, a los efectos de esta disposición, aquellos que lo sean de alojamiento, turístico-residenciales, de restauración y de entretenimiento.
+Se entienden por mejora de instalaciones del establecimiento, a título enunciativo y no exclusivo, las actuaciones destinadas a eliminar barreras arquitectónicas, instalar escaleras de emergencia o ascensores exteriores, evitar contaminación acústica, o cerrar balcones, porches o distribuidores dentro de un proyecto de remodelación integral de fachadas y el establecimiento de medidas de protección medioambiental relativas al consumo de agua y energía o a la mejora del tratamiento y la reducción de residuos, todas las relacionadas con la climatización de los edificios y las de adaptación al código técnico de la edificación.
+Por otro lado, se entienden por mejora de los servicios aquellas encaminadas a potenciar la desestacionalización, la investigación o la consolidación de nuevos segmentos del mercado o mejorar la calidad o la oferta y se permiten la reordenación o reubicación de volúmenes existentes o el aprovechamiento del subsuelo en los establecimientos salvo para usos de alojamiento.
+2. La administración turística competente tiene que emitir un informe preceptivo y vinculante para la obtención de licencia municipal de obras o la presentación de la declaración responsable, si procede, o bien para obtener la legalización, en relación con las finalidades relativas a la mejora de las instalaciones o de los servicios. También tiene que comprobar si se refiere a un establecimiento turístico inscrito en los registros turísticos.
+3. Ante el supuesto de que la persona interesada haya realizado la modernización con anterioridad a la entrada en vigor de esta disposición, con fecha de inicio de las obras siempre después del 21 de julio de 2012, y cumpla los requisitos y las condiciones indicados en el punto 1, puede acogerse a esta disposición y el establecimiento puede ser objeto de informe previo para tramitar el correspondiente expediente de legalización de estas obras mediante la presentación del proyecto en que se deje constancia de las mejoras en instalaciones o servicios realizadas en el establecimiento.
+4. En los establecimientos a que se refiere esa disposición y que estén implantados en cualquier tipo de suelo, se puede hacer tanto un incremento relativo de la superficie edificada como de la ocupación, con el límite que se indica a continuación:
+El incremento relativo de la superficie edificada y de la ocupación no puede exceder un 10 % de las legalmente construidas o permitidas si estas fueran superiores ni suponer menoscabo de los servicios y las instalaciones ya implantados. El citado porcentaje pude ser incrementado hasta un máximo del 20 % por acuerdo del Pleno del ayuntamiento respectivo.
+5. De acuerdo con las previsiones de los apartados anteriores, se pueden hacer obras, ampliaciones, reformas, demoliciones y reconstrucciones parciales o totales en los edificios efectivamente destinados a cualquier tipo de explotación turística siempre que:
+a) No supongan unos incrementos superiores a los fijados en el apartado anterior respecto de la superficie edificada y de la ocupación en cuanto a la legalmente construida o permitida si fuera superior, y tampoco que no ocupen la separación mínima en deslindes exigida actualmente, salvo las reformas.
+b) No supongan un aumento de la altura máxima existente o permitida si esta fuera mayor por cada uno de los edificios, excepto en lo estrictamente necesario para la instalación de equipamiento de ascensor o ascensores, escaleras de emergencia, climatización, telecomunicaciones, eficiencia energética y homogeneización de elementos a cubiertas.
+c) En el caso de demolición total, la persona propietaria o titular del establecimiento turístico puede reconstruir el establecimiento y se tiene que ajustar a las disposiciones vigentes en materia de seguridad, calidad, accesibilidad e instalaciones.
+6. La persona propietaria o titular del establecimiento queda obligada a abonar a la administración municipal competente el 5 % del valor del presupuesto de ejecución material en el momento de la solicitud de la parte resultante que exceda de la legalmente construida y la máxima permitida. El pago se puede fraccionar en un plazo de cuatro años.
+Las cantidades ingresadas por este concepto serán destinadas por la administración municipal a la mejora del entorno turístico del municipio, en un plazo máximo de tres años.
+Anualmente los ayuntamientos tienen que informar a los consejos de las cantidades recaudadas por este concepto y del destino concreto de este.
+7. Los establecimientos turísticos que hayan ejecutado o legalizado obras de acuerdo con lo que establece esta disposición y cumplan los requisitos que se establecen quedan legalmente incorporados al planeamiento municipal como edificios adecuados y su calificación urbanística se tiene que corresponder con su volumetría específica y su uso.
+La legalización de las eventuales partes no legales del establecimiento anteriores a la entrada en vigor de la Ley 8/2012, de 19 de julio, diferentes de las citadas en los puntos 3, 4 y 5 de esta disposición, puede tramitarse junto con las licencias necesarias para llevar a cabo la actuación pretendida o con posterioridad, atendiendo a lo indicado en el párrafo anterior.
+8. En el supuesto de que la ampliación de los establecimientos se produzca por agregación o agrupación de parcelas contiguas con uso turístico o adecuado al uso del establecimiento que se acoja a la disposición, la edificabilidad de la parcela agregada o agrupada incrementa la de la parcela resultante y puede destinarse a cualquier tipo de uso turístico, incluido el de alojamiento, si procede.
+En ningún caso puede llevarse a cabo este supuesto con parcelas por agregar que estén clasificadas como espacio libre, equipamientos públicos o suelo rústico.
+En el supuesto de que la parcela agregada con uso turístico o adecuado al uso del establecimiento que se acoja a la disposición no sea limítrofe y esté situada a una distancia máxima de 100 metros desde el acceso principal del establecimiento, se puede llevar a cabo una transferencia de edificabilidad entre parcelas. En la parcela agregada se pueden ubicar servicios propios no destinados a uso de la clientela, habitaciones de personal y otras instalaciones complementarias que puedan ser de uso de la clientela pero que no sean requisitos mínimos de la categoría establecida o pretendida. En este último caso, tiene que disponer de un itinerario de conexión accesible o de una opción alternativa de desplazamiento a disposición de la clientela.
+Lo indicado en el punto 7 afecta a ambas parcelas, que quedan vinculadas al establecimiento con su uso y tienen que cumplir con el principio de uso exclusivo establecido en el artículo 32.
+9. El incremento de edificabilidad y ocupación, y el aprovechamiento del subsuelo también pueden ser aprovechado por los nuevos establecimientos turísticos, si los fines consisten en las mejoras a que hace referencia esta disposición.
+10. Las actuaciones realizadas al amparo de esta disposición en edificios que sean bienes de interés cultural o catalogados tienen que observar en todos los casos la normativa de patrimonio histórico que les sea aplicable y obtener informe favorable de la administración competente insular o municipal.
+11. Únicamente en relación con la modernización de establecimientos turísticos prevista en esta disposición y durante el plazo establecido en el apartado 1 quedan sin efecto las limitaciones de obras que se pueden llevar a cabo en edificaciones inadecuadas o fuera de ordenación determinadas en el artículo 129 de la Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears, excepto en los edificios que están sujetos a protección en aplicación de la normativa sobre patrimonio histórico y los edificios que la normativa de planeamiento haya declarado expresamente fuera de ordenación.
+12. Las ampliaciones permitidas por este artículo no son aplicables una vez agotados los límites de superficie edificada y de ocupación mencionados ni en los establecimientos que ya hayan hecho ampliaciones por aplicación del artículo 17 del Decreto-ley 1/2009, de 30 de enero, de medidas urgentes para el impulso de la inversión en las Illes Balears; del artículo 17 de la Ley 4/2010, de 16 de junio, de medidas urgentes para el impulso de la inversión en las Illes Balears; de la disposición adicional cuarta de la Ley 8/2012, de 19 de julio, del turismo de las Illes Balears; de la disposición adicional tercera de la Ley 6/2017, de 31 de julio, de modificación de la Ley 8/2012, de 19 de julio, del turismo de las Illes Balears, relativa a la comercialización de estancias turísticas en viviendas, o del artículo 7 del Decreto-ley 8/2020, de 13 de mayo, de medidas urgentes y extraordinarias para el impulso de la actividad económica y la simplificación administrativa en el ámbito de las administraciones públicas de las Illes Balears para paliar los efectos de la crisis ocasionada por la COVID, así como del artículo 7 de la Ley 2/2020, de 15 de octubre con el mismo título, cuando hayan supuesto un agotamiento del límite fijado en el punto 5 de esa disposición.
+Tampoco son aplicables las ampliaciones permitidas por esta disposición cuando los límites de superficie edificada y de ocupación se han agotado mediante las obras a que se refiere el punto 3 de esa disposición.
+13. En el mismo trámite se puede redistribuir el número de plazas autorizadas conforme a lo que dispone la presente ley. En ningún caso la mejora de servicios e instalaciones puede suponer el aumento de plazas.
+14. Las previsiones contenidas en este artículo son también de aplicación a todos los hostales, hostales residencia, pensiones, posadas, casas de huéspedes, campamentos de turismo y campings, viviendas turísticas vacacionales y cualquier otro tipo de alojamiento establecido legalmente no incluido en el artículo 31 de la Ley 8/2012, de 19 de julio, del turismo de las Illes Balears, siempre que los proyectos de modernización tengan por finalidad cambiar de grupo y aumentar la categoría, y que el establecimiento quede encuadrado en uno de los grupos previstos en este artículo 31 para las empresas turísticas de alojamiento turístico.
+15. Para el desarrollo y la aplicación de este artículo es aplicable la disposición transitoria octava del Decreto 20/2015, de 17 de abril, de principios generales y directrices de coordinación en materia turística, de regulación de órganos asesores, de coordinación y de cooperación del Gobierno de las Illes Balears, y de regulación y clasificación de las empresas y de los establecimientos turísticos.
+Se modifica por el art. 2.19 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifica el apartado 6 según la redacción dada por el art. 3.8 del Decreto-ley 1/2016, de 12 de enero, por art. 2.4 del Decreto-ley 2/2016, de 22 de enero. Ref. BOE-A-2016-2226
+ Se modifican los apartados 1 a 3, 6 y 8 y se añade el 15 por el art. 3.5 a 10 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225
+ Téngase en cuenta que se suspendió la aplicación de los apartados 5, 9 y 14 y posteriormente quedó levantada por cumplimento del plazo establecido en la disposición adicional única.4 del citado Decreto-ley.
+ Se añade el apartado 14 por el art. 12 del Decreto-ley 3/2014, de 5 de diciembre. Ref. BOE-A-2015-1062
+ Se modifica por el art. 3 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+
+### Disposición adicional cuarta bis
+
+Disposición adicional cuarta bis. Sistema de calidad de los establecimientos adheridos a la disposición adicional cuarta.
+1. Los establecimientos que se acojan a la disposición adicional cuarta de esta ley, quedan obligados, en un plazo máximo de dos años desde que hayan solicitado la licencia municipal de obras o la legalización de las actuaciones llevadas a cabo, o bien desde la presentación de la declaración responsable al ayuntamiento, si procede, a obtener de la Agencia de Estrategia Turística de las Illes Balears (AETIB) una resolución por la cual se reconozca que el establecimiento está certificado en uno de los sistemas de calidad que se indican a continuación, o bien a presentar un plan de calidad propio que sea homologado por la AETIB, también en los términos que se indican a continuación:
+a) Sistemas de calidad:
+UNE-ISO 22483 Hoteles (Q del ICTES).
+SICTED Sistema Integral de Calidad Turística Española en Destinos.
+UNE 167013 Restauración (Q del ICTES).
+ISO 9001.
+Esta relación de certificados puede ser actualizada anualmente mediante resolución motivada del director gerente de la AETIB.
+Adicionalmente, los establecimientos de restauración y entretenimiento tienen que disponer de un manual de gestión ambiental, el cual tiene que cubrir, como mínimo, los aspectos siguientes: clasificación de residuos, mejora de la eficiencia energética y reducción de consumos y emisiones; o bien, tienen que disponer de un certificado ISO 14.001 o EMAS,S SOSTENIBILIDAD (ICTES); o bien tienen que presentar a la AETIB un plan de circularidad emitido en los términos de la Ley 3/2022, de 15 de junio, de medidas urgentes para la sostenibilidad y la circularidad del turismo de las Illes Balears.
+En cuanto a los establecimientos de alojamiento, estos quedan excluidos de la necesidad de presentar el manual de gestión ambiental, pero tienen que presentar a la AETIB el plan de circularidad en los términos previstos en la Ley 3/2022.
+b) Plan de calidad propio:
+Todos los establecimientos que se acojan a la disposición adicional cuarta pueden optar por presentar a la AETIB, en el plazo máximo de seis meses desde que hayan solicitado la licencia municipal de obras o la legalización de las actuaciones llevadas a cabo o bien desde la presentación de la declaración responsable, si procede, un plan de calidad propio, que tiene que ser homologado por la AETIB mediante resolución y que tiene que tener el contenido mínimo siguiente:
+1.º Documento acreditativo del cumplimiento de la legislación que sea de aplicación.
+2.º Existencia de los procedimientos básicos de funcionamiento de la empresa, tanto en cuanto a servicios como instalaciones.
+3.º Existencia de, al menos, los planes documentados siguientes: plan de limpieza del establecimiento, plan de mantenimiento preventivo, plan de formación, plan de funciones y responsabilidades de todo el personal y plan de atención a la clientela.
+4.º Documento anual que refleje que la opinión de la clientela y del personal de la empresa se utiliza para la mejora continua del establecimiento.
+5.º Sistema de control de proveedores.
+6.º Sistema de control de seguridad alimentaria.
+7.º Manual de gestión medioambiental que cubra, como mínimo, los aspectos siguientes: clasificación de los residuos, mejora de la eficiencia energética y reducción de consumos y emisiones, o certificado ISO 14.001 o EMAS,S Sostenibilidad (ICTES), o bien plan de circularidad, en los términos que determina la Ley 3/2022, de 15 de junio, de medidas urgentes para la sostenibilidad y la circularidad del turismo de las Illes Balears.
+c) Procedimiento:
+En los supuestos de la letra a), se tiene que presentar a la AETIB una solicitud junto con la acreditación de que se dispone del sistema de calidad y de los aspectos adicionales. En el supuesto de la letra b), se tiene que presentar una solicitud junto con el plan de calidad propio.
+La AETIB tiene que emitir resolución en el periodo máximo de seis meses desde la presentación de la acreditación o del plan de calidad propio.
+En cuanto al plan de calidad propio, en caso de que no se acepte la homologación, la persona interesada puede presentar un sistema de calidad de los mencionados en la letra a), o bien volver a iniciar un procedimiento para la homologación de un plan de calidad propio.
+d) Actualización y pago:
+Los establecimientos quedan obligados a actualizar anualmente el sistema de calidad por el cual hayan optado (certificados o propios), para lo cual tienen que remitir solicitud anual a la AETIB.
+Para la revisión de los certificados y para la homologación de los planes propios, así como para las revisiones anuales, los establecimientos tienen que abonar los precios establecidos por la AETIB.
+e) Remisión de información:
+La AETIB tiene que enviar, con una periodicidad mínima semestral, a las diferentes administraciones insulares competentes en ordenación turística, una relación de los establecimientos turísticos que han acreditado uno de los sistemas de calidad mencionados o han obtenido la homologación de un plan de calidad conforme a lo dispuesto en este punto.
+Se añade por el art. 2.20 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+
+### Disposición adicional cuarta ter
+
+Disposición adicional cuarta ter. Especificidades de la aplicación de la disposición adicional cuarta en la isla de Menorca.
+En el caso de la isla de Menorca, las posibilidades mencionadas en la disposición adicional cuarta se refieren a los establecimientos turísticos existentes situados en suelo urbano o rústico común o protegido, salvo parques naturales y áreas de prevención de riesgos.
+Se añade por el art. 2.21 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+1. Se establece un procedimiento de carácter extraordinario para la regularización de las plazas turísticas de que dispongan las empresas turísticas de alojamiento situadas en el territorio de las Illes Balears que estén inscritas en el Registro General de Empresas, Actividades y Establecimientos Turísticos antes del 1 de enero de 2012 y se encuentren en alguna o algunas de las siguientes situaciones:
+a) Incremento de unidades o plazas de alojamiento en relación con las autorizadas.
+b) Modificación de la superficie del suelo tenida en cuenta para el cumplimiento de la superficie mínima del solar por plaza según el proyecto y la parcela en virtud de la cual se otorgó la autorización.
+c) Adaptación referente al cómputo del número de plazas en relación con la situación de hecho que reflejen una discrepancia entre la capacidad real y la autorizada de las unidades de alojamiento.
+d) Edificios independientes de un establecimiento existente, situados en parcelas colindantes o no colindantes pero situadas en una distancia máxima de 200 m y que hayan sido explotados como parte de este, con independencia del uso del suelo.
+2. La regularización se efectuará mediante operaciones de adquisición de las plazas necesarias, de acuerdo con lo que establece el artículo 88 de esta ley, practicadas a través del organismo gestor de las plazas turísticas previsto en el artículo 91.
+3. El resultado de la regularización no podrá suponer que la relación entre los metros cuadrados de superficie de solar y el número de plazas resultante sea inferior al 75 % de la legalmente autorizada, excepto en el supuesto definido en la letra d del apartado 1.
+4. En el plazo de tres años, a contar desde la fecha de entrada en vigor de esta ley, los titulares de la explotación o los propietarios, indistintamente, de los establecimientos turísticos afectados presentarán la solicitud de autorización de las plazas turísticas, a la cual se adjuntará una declaración responsable que incluya una memoria descriptiva del estado actual del establecimiento.
+5. Atendiendo al carácter extraordinario del procedimiento, durante su tramitación, la administración turística competente únicamente comprobará el cumplimiento de los requisitos que establece el apartado 4 de esta disposición y también las normas referidas a la clasificación del establecimiento. En este último caso, puede dispensar de determinados requisitos de clasificación a los establecimientos, ponderando las características especiales o las circunstancias concurrentes.
+6. El plazo para resolver este procedimiento es de seis meses. Una vez transcurrido este plazo la solicitud se entenderá desestimada.
+7. El Consejo de Gobierno podrá, excepcionalmente y de forma motivada, ampliar el plazo establecido en el apartado 4 de esta Disposición Adicional. Dicha facultad se podrá ejercer una sola vez.
+Se añade el apartado 7 por el art. 13 del Decreto-ley 3/2014, de 5 de diciembre. Ref. BOE-A-2015-1062
+ Téngase en cuenta el Acuerdo del Consejo de Gobierno de 17 de julio de 2015, publicado en BOIB núm. 108, de 17 de julio de 2015, por el que se amplía el plazo previsto en el apartado 4 en seis meses.
+ Se modifica por el art. 12 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Condiciones de los establecimientos turísticos.
+En defensa de las personas consumidoras y usuarias, todos los hostales, hostales residencia, pensiones, posadas, casas de huéspedes, campamentos de turismo y campings, viviendas turísticas vacacionales y, en general, todos los alojamientos turísticos y las viviendas objeto de comercialización turística, así como el resto de establecimientos turísticos que se hayan abierto de conformidad con la normativa turística ya derogada o la vigente, tienen que mantener unas óptimas condiciones de higiene y limpieza, y también tienen que mantener el perfecto funcionamiento y la actualización de los mecanismos, equipos, menajes e instalaciones de que dispongan. Asimismo, tienen que mantener un buen estado de conservación de los elementos muebles o inmuebles del establecimiento, como por ejemplo, a título enunciativo no exclusivo: el mobiliario, la pintura de las paredes, las barandillas, el suelo, el cortinaje o la ropa de cama.
+Las referencias a higiene, limpieza, mantenimiento y actualización, así como de estado de conservación, aplicables a todos los establecimientos mencionados son, a todos los efectos y con las adecuaciones necesarias, si procede, las que se derivan del Decreto 20/2015, de 17 de abril, de principios generales y directrices de coordinación en materia turística; de regulación de órganos asesores, de coordinación y de cooperación del Gobierno de las Illes Balears, y de regulación y clasificación de las empresas y de los establecimientos turísticos, dictado en desarrollo de la Ley 8/2012, de 19 de julio, del turismo de las Illes Balears, o bien de los estándares ordinarios del ámbito turístico.
+El cumplimiento de esta disposición tiene que ser objeto de seguimiento como mínimo con periodicidad bienal por la inspección turística y de apertura de expediente sancionador, si procede.
+Se modifica por el art. 2.22 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifica por el art. 2.36 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se modifica por el art. 2.22 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Se modifica por el art. 4 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+A partir de la entrada en vigor de la presente ley, y respecto a los alojamientos turísticos configurados dentro del grupo de alojamiento hotelero por el artículo 39, y del grupo apartamentos turísticos por el artículo 41, solo se podrán inscribir nuevos establecimientos que sean apartamentos con categoría mínima de tres llaves o bien establecimientos hoteleros de categoría mínima de cuatro estrellas, los hoteles de ciudad de tres estrellas, los hoteles de interior, y cualquier otro grupo que pudiera crearse reglamentariamente.
+Sí podrán inscribirse las empresas comercializadoras de estancias turísticas en viviendas, el resto de establecimientos de alojamiento turístico, las empresas turístico-residenciales y aquellos hoteles, hoteles-apartamento y apartamentos turísticos existentes que aumenten de categoría o cambien de grupo manteniendo una categoría similar, aunque no lleguen a la categoría de cuatro estrellas y de tres llaves.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+Los hostales, los hostales-residencia, las pensiones, las posadas, las casas de huéspedes, los campamentos de turismo o los campings, las viviendas turísticas de vacaciones, las viviendas objeto de comercialización de estancias turísticas y cualquier otro tipo de alojamiento establecido legalmente y existente en el momento de la entrada en vigor de la presente ley, podrán mantener su categoría o convertirse en otras empresas de alojamiento turístico siempre que reúnan los requisitos exigidos en esta ley y en la normativa que les sea de aplicación para adquirir dicha condición, debiendo superar los planes de modernización existentes o que se establezcan.
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+(Derogada).
+Se deroga por la disposición derogatoria única.1.a) de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+ Se suspendió la aplicación de esta disposición y posteriormente quedó levantada por cumplimento del plazo establecido en la disposición adicional única.4 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225
+
+### Disposición adicional décima
+
+Disposición adicional décima.
+El uso turístico estará permitido en los edificios catalogados y ubicados en cualquier tipo de suelo, previo informe, favorable y vinculante, de la administración competente en materia turística y de la administración competente en materia de patrimonio.
+También estará permitido, en los términos previstos en la normativa estatal y resto de normativa que pueda ser de aplicación, el uso turístico en edificaciones que tengan o hayan tenido uso militar o en espacios de dominio público portuarios afectos al servicio de señalización marítima, siempre que conserven sus valores patrimoniales, de acuerdo con el informe que emitan las administraciones competentes.
+Téngase en cuenta que se suspende la aplicación de esta disposición desde el 14 de enero de 2016, por la disposición adicional única.4 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225
+Se suspendió la aplicación de esta disposición y posteriormente quedó levantada por cumplimento del plazo establecido en la disposición adicional única.4 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225
+ Se modifica por el art. 14 del Decreto-ley 3/2014, de 5 de diciembre. Ref. BOE-A-2015-1062
+
+### Disposición adicional undécima
+
+Disposición adicional undécima.
+Cualquier persona o empresa interesada podrá pedir del ayuntamiento un informe sobre la viabilidad jurídica o técnica de un proyecto de actividad o establecimiento turístico de los regulados en esta ley.
+Este informe será emitido en el plazo máximo de dos meses, previa consulta a la administración turística competente, y únicamente tendrá que expresar el punto de vista correspondiente en cuanto a la adecuación del proyecto a la legislación turística.
+Se modifica por el art. 2.37 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima.
+Para la tramitación de cualquier autorización o informe, regulado en la presente ley, que sea necesario para la posterior obtención de una licencia municipal de obras o de actividades, deberá presentarse la documentación preceptiva, redactada por técnico competente.
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera.
+Cualquier referencia que en la legislación de las Illes Balears se haga a los planes directores insulares de ordenación de la oferta turística se entenderá hecha, desde la entrada en vigor de la presente ley, a los planes de intervención en ámbitos turísticos.
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Transmisión de plazas turísticas.
+1. En el caso de que las personas propietarias de los establecimientos turísticos, sean alojamientos turísticos, o sean viviendas objeto de comercialización turística, que hayan adquirido las plazas turísticas de manera onerosa y no provisional, quieran darlas de baja definitiva de manera voluntaria y tengan intención de transmitir las plazas turísticas a una tercera persona, tienen que comunicarlo a la Administración turística en el momento de proceder a la baja.
+La nueva persona propietaria de las plazas dispondrá del plazo de tres meses des de la fecha de la citada baja para presentar a la Administración turística el documento acreditativo de la adquisición.
+El periodo máximo para presentar declaraciones responsables de inicio de actividad o comunicaciones de ampliación para hacer uso de estas plazas ha de ser de tres años cuando se refiera a un establecimiento de alojamiento turístico o de seis meses cuando se refiera a una vivienda comercializada turísticamente, computado desde la baja definitiva.
+2. En el caso de transmisión de plazas entre viviendas de un mismo propietario, este debe comunicar este supuesto a la administración turística en el momento de proceder a la baja definitiva, y dispondrá de seis meses para presentar la nueva declaración responsable de inicio de actividad turística, que deberá respetar la normativa vigente.
+3. En caso de que no se cumplan estos plazos, salvo causa justificada no imputable al interesado, las plazas pasarán a integrar las bolsas de plazas, de conformidad con lo que dispone el artículo 91.
+Se modifica por el art. 2.23 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
+ Se modifica por el art. 1.13 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se modifica por el art. único.29 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta.
+Cuando las disposiciones de esta ley afecten a bienes integrantes del patrimonio cultural o declarados bienes de interés cultural o catalogados será de aplicación preferente la legislación específica de patrimonio cultural.
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta.
+Las estaciones náuticas se configuran como elementos potenciadores de la desestacionalización del turismo náutico, y su régimen jurídico será lo establecido en el capítulo III del título IV de la Ley 10/2005, de 21 de junio, de puertos de las Illes Balears, o la normativa que la sustituya.
+
+### Disposición adicional decimoséptima
+
+Disposición adicional decimoséptima.
+En el plazo máximo de un año desde la aprobación definitiva del Plan integral de turismo de las Illes Balears los consejos insulares y los municipios deberán iniciar la tramitación de la aprobación de sus planes de desarrollo turístico y, en su caso, las ordenanzas municipales necesarias para su ejecución.
+
+### Disposición adicional decimoctava
+
+Disposición adicional decimoctava.
+Los guías de turismo que aporten un certificado de competencia o un título de formación exigido por otro estado de la Unión Europea válido para acceder a la profesión de guía turístico o para ejercerla, o que se encuentren en las situaciones que se regulan en los puntos 3, 4 o 6 del artículo 21 del Real Decreto 1837/2008, pueden acceder a la profesión de guía turístico en las Illes Balears y ejercerla. No obstante lo anterior, las personas interesadas que se encuentren en la situación que establece el artículo 22 del Real Decreto 1837/2008 han de escoger entre realizar un periodo de prácticas o superar una prueba de aptitud, de acuerdo con la regulación que el órgano competente en materia de turismo establezca respecto de esto mediante la correspondiente orden de desarrollo.
+
+### Disposición adicional decimonovena
+
+Disposición adicional decimonovena.
+(Derogada).
+Se deroga por la disposición derogatoria única.1.a) de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+ Se suspendió la aplicación de esta disposición y posteriormente quedó levantada por cumplimento del plazo establecido en la disposición adicional única.4 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225
+ Véase la disposición transitoria 1 del citado Decreto-ley.
+
+### Disposición adicional vigésima
+
+Los proyectos de mejora de establecimientos turísticos a los que se refiere la disposición adicional cuarta de esta ley pueden obtener la licencia municipal de edificación y uso del suelo con anterioridad al permiso de instalación, siempre que se incorpore al procedimiento un certificado acreditativo de que, según la normativa territorial y urbanística, el uso turístico resulta admitido en la parcela.
+Se añade por el art. 13 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+
+### Disposición adicional vigésimo primera
+
+Disposición adicional vigésimo primera. Acreditación de calidad derivada de la Ley 2/2005, de 22 de marzo, de comercialización de estancias turísticas.
+En cuanto a las viviendas objeto de comercialización turística inscritas de conformidad con la derogada Ley 2/2005, de 22 de marzo, de comercialización de estancias turísticas, se continuará con el sistema de acreditación de calidad que implantó la ley mencionada, y en este sentido se mantendrá la vigencia máxima de seis años, así como la obligatoriedad de renovación de las acreditaciones de calidad por parte del órgano insular competente en materia de análisis de calidad del sector turístico, que puede mantener o modificar su contenido mediante una resolución.
+Se modifica por el art. 2.38 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.23 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Disposición adicional vigésimo segunda
+
+Disposición adicional vigésimo segunda. Regulación reglamentaria de los albergues como empresas turísticas de alojamiento.
+1. Se regularán reglamentariamente los requisitos de apertura y funcionamiento de los albergues como empresas turísticas de alojamiento. No se podrá iniciar ninguna actividad de este tipo hasta la entrada en vigor del citado reglamento, salvo en los supuestos establecidos en los puntos 2, 3 y 4 de la presente disposición.
+2. Pasados seis meses desde la publicación de la Ley 10/2022, de 23 de diciembre, del tiempo libre educativo para la infancia y la juventud de las Illes Balears, en el “Boletín Oficial de las Illes Balears”, las instalaciones que se indican a continuación, y no cumplan los requisitos para ser albergues para el ocio, quedarán sometidas a la normativa turística, con el régimen específico establecido en las letras a) hasta g) siguientes.
+Las instalaciones afectadas por este punto son:
+i) las que, de acuerdo con la Ley 10/2006, de 26 de julio, integral de la juventud, y su normativa de desarrollo, sean consideradas albergues juveniles de gestión o titularidad privada y se encuentren en funcionamiento desde antes del 18 de junio de 2022.
+ii) las que hayan presentado una solicitud completa de ampliación de plazas como albergue juvenil o solicitado licencia de obras o reformas, en edificio existente, para el inicio de la actividad de albergue juvenil, ante la administración municipal competente, antes de la entrada en vigor del Decreto-ley 3/2022, de 11 de febrero, de medidas urgentes para la sostenibilidad y la circularidad del turismo de las Illes Balears, siempre que el cómputo total de plazas del albergue resultante respete el límite máximo de plazas aplicable de acuerdo con el régimen jurídico vigente y que corresponda.
+El régimen específico para estas instalaciones es el siguiente:
+a) Deberán presentar la declaración responsable de inicio de actividad ante la correspondiente administración turística, que se inscribirá en los registros turísticos con el código ABT.
+b) No les es de aplicación el artículo 88 de la Ley 8/2012, de 19 de julio, del Turismo de las Illes Balears, sin perjuicio de que las plazas de los albergues no pueden ser objeto de intercambio entre particulares. No obstante lo anterior, las plazas de los mencionados albergues computarán a los efectos del límite máximo por isla de plazas turísticas en alojamientos turísticos referido en el artículo 5.3 de la Ley 8/2012, de 19 de julio, del Turismo de las Illes Balears.
+c) Quedan sometidas al ámbito de aplicación de la Ley 2/2016, de 30 de marzo, del impuesto sobre estancias turísticas en las Illes Balears y de medidas de impulso del turismo sostenible.
+d) El número máximo de plazas turísticas de estos establecimientos es de 150 en la isla de Mallorca, 80 en las islas de Menorca e Ibiza, y 60 en la isla de Formentera. Mediante resolución del consejero insular competente en turismo, los consejos insulares respectivos podrán elevar este número, que en ningún caso podrá superar el número de plazas que el establecimiento tenía habilitadas cuando era albergue juvenil.
+e) Se pueden aumentar plazas, siempre de conformidad con la normativa turística de aplicación.
+f) Quedan sometidas a las obligaciones y a los deberes generales de las empresas turísticas determinados en la Ley 8/2012, de 19 de julio, del Turismo de las Illes Balears, y en la normativa de desarrollo.
+g) Sin perjuicio de lo anterior, y hasta la entrada en vigor del reglamento mencionado en el punto 1 de esta disposición final, también quedan sometidas a los requisitos y a las condiciones establecidos en el artículo 57, en los artículos 68 a 70 del capítulo IV y en la sección primera del capítulo V (artículos 71 a 74) del Decreto 23/2018, de 6 de julio, por el que se desarrollan varios aspectos de la normativa de juventud y de ocio.
+3. También se pueden acoger al régimen específico previsto en el apartado anterior, sin necesidad que transcurran los seis meses del apartado anterior, las instalaciones consideradas albergues juveniles que ya se encuentren en funcionamiento al amparo de la Ley 10/2006, de 26 de julio, integral de la juventud, y de su normativa de desarrollo, y así lo deseen. En este caso, tienen que comunicar la baja del Censo de Instalaciones juveniles del territorio respectivo y presentar la declaración responsable de inicio de actividad ante la administración turística.
+4. Los establecimientos que, en la fecha de entrada en vigor de la Ley 3/2022, de 15 de junio, de medidas urgentes para la sostenibilidad y circularidad del turismo de las Illes Balears, operan como albergues juveniles sin cumplir los requisitos esenciales para ejercer como tales, quedan inmediatamente comprendidos en el ámbito de aplicación de la Ley 8/2012, de 19 de julio, del turismo de las Illes Balears, con el régimen específico previsto a partir del segundo párrafo del apartado 2 anterior, sin que se establezca ningún periodo transitorio y sin que los consejos insulares puedan incrementar el número de plazas.
+5. El reglamento a que hace referencia el apartado 1 anterior tiene que determinar las concretas exenciones que se tienen que aplicar a los albergues de esta disposición en cuanto a determinados requisitos de elementos estructurales y de otro tipo que se establezcan. En todo el resto, el reglamento que regule los requisitos de apertura y funcionamiento de los albergues como empresas turísticas de alojamiento les es totalmente aplicable.
+6. Tanto los establecimientos del apartado 4, como los de los apartados 2 y 3 que pasen a ser turísticos, tienen que dar cumplimiento a la normativa turística de aplicación, sin perjuicio del régimen específico establecido en esta disposición, dado que dejan de regirse por la normativa de juventud. En caso de que no se adapten a la normativa turística de aplicación, la administración competente en ordenación turística puede declarar el cese de su actividad.
+7. Los albergues afectados por esta disposición quedan sometidos al régimen de control, inspección y sanción establecido en la normativa turística, siendo el órgano competente la administración turística.
+Se modifican los apartados 1, 2.d), y 4 por la disposición final 4.15 a 17 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-4
+ Se modifica el apartado 2 por la disposición final 7.1 del Decreto-ley 2/2023, de 6 de marzo. Ref. BOE-A-2023-13968
+ Se modifica, con efectos desde el 29 de enero de 2023, por la disposición final 5 de la Ley 10/2022, de 23 de diciembre. Ref. BOE-A-2023-2979#df-5
+ Se modifica por el art. 2.39 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.24 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+
+### Disposición adicional vigésimo tercera
+
+Disposición adicional vigésimo tercera. Definición del concepto “imposibilitado”.
+(Derogada)
+Se deroga por la disposición derogatoria única.k) de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#dd
+ Se añade por el art. 2.40 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+
+### Disposición adicional vigésimo cuarta
+
+Disposición adicional vigésimo cuarta. Programa de formación e información en materia de circularidad.
+La consejería competente en materia de turismo elaborará y ejecutará un programa de formación e información en materia de circularidad con el objetivo de facilitar la elaboración y la aplicación de las estrategias y los planes de circularidad en la comunidad autónoma de las Illes Balears, definidos en el título V de la Ley 8/2012. El programa formativo comprenderá, entre otros aspectos, la publicación de una guía para la elaboración de los planes de circularidad y de herramientas de cálculo de la huella de carbono.
+Se añade por el art. 2.41 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+
+### Disposición adicional vigésimo quinta
+
+Disposición adicional vigésimo quinta. Circularidad y derroche alimentario.
+El Gobierno de las Illes Balears, en el plazo de un año desde la publicación de esta disposición adicional, a través de las consejerías competentes por razones de las materias afectadas, ofrecerá formación, información y asesoramiento a las empresas, a través de guías y protocolos, en relación al concepto de “derroche alimentario” y su vinculación con la circularidad al sector turístico y al resto de sectores económicos en que sea de aplicación por razón de la actividad.
+Se añade por el art. 2.42 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+
+### Disposición adicional vigésimo sexta
+
+Disposición adicional vigésimo sexta. Consumo de producto local.
+El porcentaje de consumo de producto de origen balear establecido en el artículo 102 bis se podrá revisar al alza mediante resolución de la consejería competente en materia de turismo previa consulta a la Consejería de Agricultura y Pesca, a partir del 1 de mayo de 2025, previo análisis de la situación del sector agrario y agroalimentario de las Illes Balears, del impacto generado tanto en el sector turístico como en el sector agrario y agroalimentario, así como de las posibilidades de suministro por parte del sector primario de las Illes Balears.
+Asimismo, la consejería competente en materia de turismo, previa consulta a la Consejería de Agricultura y Pesca emitirá una instrucción en relación a la imposibilidad de garantizar los porcentajes del artículo 102 bis cuando existan razones de carencia de producción y disponibilidad de producto local, debidamente acreditadas y constatadas.
+Para la definición y la puesta en marcha del distintivo de “Establecimiento Turístico Comprometido con la Producción Local” y el acceso a la promoción prioritaria en materia de turismo sostenible y responsable, a que hace referencia el apartado tercero del artículo 102 bis, se creará una mesa de trabajo formada por las consejerías competentes en materia de turismo y agricultura y pesca, y por los agentes sociales y económicos del sector turístico y el sector agrario y agroalimentario de las Illes Balears. En esta mesa se podrán estudiar otras iniciativas vinculadas al mayor consumo de producto local en los establecimientos turísticos.
+Se añade por el art. 2.43 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+
+### Disposición adicional vigésimo séptima
+
+Disposición adicional vigesimo séptima. Protocolo de colaboración entre la autoridad turística y las policías locales.
+Los consejos insulares y los ayuntamientos podrán establecer protocolos de colaboración y de intercambio de información para la más eficaz prevención de la realización de actividades molestas en viviendas objeto de comercialización turística. Estos protocolos podrán establecer la comunicación periódica a las policías locales de los datos de las empresas comercializadoras de las estancias turísticas para que aquellas dispongan de la información y la identificación de los responsables de estas. Igualmente, podrán contemplar la comunicación a la autoridad turística de las actividades llevadas a cabo y de las denuncias presentadas por actividades molestas en viviendas objeto de comercialización turística.
+Se añade por el art. único.3 de la Ley 1/2025, de 13 de junio. Ref. BOE-A-2025-14460
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Hasta que no se desarrolle reglamentariamente esta ley, será de aplicación la normativa turística vigente en todo aquello que no la contradiga.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+A las ampliaciones o a los nuevos establecimientos de alojamiento hotelero de cuatro y cinco estrellas, que en el plazo de cuatro años desde la entrada en vigor de esta ley requieran adquirir plazas turísticas y acudan al organismo gestor establecido en su artículo 91, se les reducirá el 50% de su coste, exceptuando aquellas regularizaciones realizadas en aplicación de la disposición adicional quinta de la presente ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+1. Todas las autorizaciones previas otorgadas antes de la entrada en vigor del Decreto 60/2009, de 25 de septiembre, por el cual se establecen la unificación de los procedimientos y la simplificación de los trámites en materia turística, y también la declaración responsable de inicio de las actividades turísticas, que por problemas de gestión urbanística o viabilidad económica no hayan sido desarrolladas, podrán ejecutarse en el plazo de dos años desde la entrada en vigor de la presente ley.
+2. A dichas actuaciones les será de aplicación la normativa actual sobre intercambio de plazas o la que estuviera vigente en el momento en que se solicitó la autorización previa, y en ningún caso deberán aportarse plazas turísticas que en su momento ya se aportaron, salvo que el proyecto que se pretenda ejecutar prevea un número superior de plazas al inicialmente previsto.
+3. Los proyectos que se acojan a esta disposición se desarrollarán de acuerdo con las normas que les sean de aplicación en el momento de su ejecución, salvo lo establecido en el apartado anterior.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Hasta que los planes territoriales insulares de Mallorca y de Ibiza y Formentera se adapten a la presente ley, en los ámbitos delimitados como zona turística, el planeamiento se sujetará al régimen siguiente transitorio:
+1. En suelo urbano y urbanizable con plan parcial definitivamente aprobado, excepto para las operaciones de reconversión previstas en esta ley y para los planes especiales o de revalorización de las zonas turísticas y en los otros supuestos articulados en la presente ley, el planeamiento deberá mantener como máximo las densidades de población previstas en el momento de la aprobación definitiva de los POOT. A estos efectos, el cambio de calificación de una parcela que tenga asignado sólo el uso turístico por otra que comporte el uso residencial deberá fijar un índice de intensidad de uso que garantice que no se producirá incremento de población.
+2. La normativa reguladora prohibirá la implantación de los usos que se consideren incompatibles por su carácter molesto y perturbador con el de las zonas para alojamientos turísticos y residenciales.
+3. Exceptuando las zonas delimitadas como aptas para hoteles de ciudad y lo dispuesto en el artículo 48 de presente ley, no se admite el uso de alojamiento turístico y el residencial como compatibles en una misma parcela.
+4. En suelo urbano, urbanizable o, justificadamente, en un área de transición en suelo rústico, se podrán delimitar zonas de reserva y dotacionales para corregir las carencias dotacionales de la zona turística o aportar suelo para operaciones de intercambio de aprovechamiento (residencial o turístico) o de reconversión.
+5. Con el fin de valorar la afección a la actividad turística de una zona, será preceptivo el informe previo de la administración turística para cualquier obra, instalación o actividad que se sitúe en el suelo rústico incluido en el área de protección posterior de los POOT, recogida en los planeamientos territoriales o urbanísticos.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Hasta la aprobación de la disposición reglamentaria que lo regule, será de aplicación lo dispuesto en el artículo 32 de esta ley, siempre que el uso compatible y secundario no esté expresamente prohibido por el instrumento de planeamiento correspondiente y cuya superficie edificada no supere el 30% de la total del establecimiento.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Régimen aplicable a los proyectos urbanísticos de agroturismo en tramitación o ejecución a la entrada en vigor de la Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears.
+La exigencia de que se trate de una explotación agraria, ganadera o forestal de carácter preferente, introducida por la Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears, cuando modificó el concepto de agroturismo del artículo 44 de la Ley 8/2012, de 19 de julio, de turismo de las Illes Balears, no será de aplicación a los proyectos urbanísticos de agroturismos en tramitación o ejecución que demuestren que a la entrada en vigor de aquella norma ya habían solicitado a la administración urbanística la licencia de obras para llevar a cabo el proyecto, o que ya la habían obtenido.
+Tampoco lo es a aquellos proyectos de agroturismo que ya hubieran presentado en forma a la administración turística la solicitud de informe preceptivo y vinculante de la disposición adicional cuarta de la Ley 8/2012, siempre que respeten los plazos establecidos en la disposición transitoria cuarta de la Ley 6/2017.
+Se añade por el art. 1.14 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se deroga por la disposición derogatoria única.1.a) de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
+ Se suspendió la aplicación de esta disposición y posteriormente quedó levantada por cumplimento del plazo establecido en la disposición adicional única.4 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225
+ Se añade por el art. 14 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Cumplimiento de los requisitos y las condiciones de la autoevaluación.
+(Derogada)
+Se deroga por la disposición derogatoria única.f) de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#dd
+ Esta disposicón ya fue derogada por el Decreto-ley 8/2020, de 13 de mayo.
+ Se deroga por la disposición derogatoria única.f) del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#dd
+ Se añade por el art. 1.14 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Habilitación de guías turísticos en la isla de Mallorca.
+En cuanto a la isla de Mallorca, y en tanto no se lleve a cabo la transferencia efectiva de las funciones y los servicios en ordenación turística al consejo insular, el Gobierno de las Illes Balears podrá ordenar que se lleve a cabo la convocatoria de las pruebas por habilitación de guías turísticos mediante resolución de la persona titular de la Consejería de Innovación, Investigación y Turismo.
+Se añade por el art. 1.14 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Adecuación de las agencias de viajes.
+Las agencias de viajes tienen que adecuar en forma la garantía a las modificaciones introducidas por esta ley antes de día 31 de diciembre de 2018.
+Se añade por el art. 1.14 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Calendario.
+1. Las medidas contenidas en el artículo 37 bis de esta Ley, relativas a la obligatoriedad de disponer y tener instaladas camas elevables, estarán implantadas en fecha 1 de mayo de cada año, de conformidad con el calendario y los porcentajes siguientes:
+a) Establecimientos de alojamiento de cinco estrellas: el 30% en 2023, el 50% en 2024, el 60% en 2025, el 75% en 2026 y el 100% en 2027.
+b) Establecimientos de alojamiento de cuatro estrellas superior: el 25% en 2023, el 40% en 2024, el 50% en 2025, el 75% en 2026 y el 100% en 2027.
+c) Establecimientos de alojamiento de cuatro estrellas: el 20% en 2023, el 30% en 2024, el 40% en 2025, el 60% en 2026, el 75% en 2027 y el 100% en 2028.
+d) Establecimientos de alojamiento de una, dos y tres estrellas, incluidos los hoteles rurales que no dispongan de clasificación: el 15% en 2024, el 30% en 2025, el 50% en 2026, el 75% en 2027 y el 100% en 2028.
+Sin perjuicio de ello, las empresas titulares de la explotación de más de un establecimiento de alojamiento así como los diferentes establecimientos de alojamiento que se comercialicen bajo una misma marca o nombre comercial, pueden optar por aplicar los referidos porcentajes al conjunto de camas de que dispone la empresa y, por lo tanto, podrán seleccionar el establecimiento donde instalarlas con independencia de su categoría. En este caso, el porcentaje de camas elevables que deben estar instaladas cada año tiene que ser el que corresponda al establecimiento con la categoría de estrellas más alta.
+Asimismo, las empresas titulares de la explotación de establecimientos de alojamiento que durante los años 2019, 2020 y 2021 hayan realizado reformas con un porcentaje mínimo de cambio de camas de las unidades de alojamiento de al menos un 50% podrán optar por iniciar la instalación de las camas elevables en el establecimiento concreto en 2027, con un porcentaje del 50% de las mismas instaladas el 1 de mayo, y en 2028 el otro 50% en fecha 1 de mayo, o bien llevar a cabo la instalación del 100% de las camas elevables desde enero de 2028 con fecha límite el 1 de mayo del mismo año.
+Si, cumplidas las mencionadas fechas límite, no se ha podido dar cumplimiento a la obligación de instalación por problemas derivados de producción y logística de los proveedores, la obligación se entenderá cumplida mediante un documento certificado que valide y acredite la adquisición de las camas.
+2. Las medidas previstas en el título V de esta ley, relativas a la elaboración del primer plan de circularidad, se llevarán a cabo en los plazos máximos siguientes:
+a) Los alojamientos turísticos con categorías mínimas de cuatro estrellas o de cuatro llaves: 1 de mayo de 2023.
+b) El resto de los alojamientos turísticos sujetos: 1 de enero de 2024.
+3. La obligatoriedad de sustitución de las instalaciones térmicas que funcionan con fuel o gasóleo prevista en el artículo 102.1.a) de esta ley tiene como plazo máximo de ejecución el 1 de mayo de 2030.
+Sin perjuicio de ello, los establecimientos turísticos de nueva construcción en 2019, 2020 o 2021, o los que durante estos años hayan realizado reformas con cambio de las instalaciones térmicas, tienen como plazo máximo de ejecución el 1 de mayo de 2031.
+4. La obligatoriedad de aplicar las medidas de ahorro de agua previstas en el artículo 102.1.b) de esta norma tiene como plazo máximo:
+a) Para los alojamientos turísticos con categorías mínimas de cuatro estrellas o cuatro llaves, el día 1 de mayo de 2023.
+b) Para el resto de los alojamientos turísticos, viviendas y establecimientos de restauración y entretenimiento obligados por la norma, hasta el día 1 de mayo de 2024.
+5. Las medidas previstas en el artículo 102.1.c) de esta norma relativas a la no posibilidad de hacer uso de artículos de gentileza de baño desechable serán aplicables desde su entrada en vigor, salvo los que ya hayan sido adquiridos, siempre que se pueda acreditar documentalmente.
+6. Las medidas previstas en el artículo 102.2.a), relativas a la prohibición de hacer uso de especies clasificadas como categorías invasoras, introducidas y protegidas, se aplicarán a partir de la publicación de esta ley, salvo los productos que ya se hayan adquirido antes, siempre que se pueda acreditar su adquisición previa documentalmente.
+7. Las medidas previstas en el artículo 102.2.b) de esta norma, relativas a la necesidad de indicar de manera diferenciada en la carta, el menú, el bufé o similar, puesto a disposición de los clientes, los productos de origen balear, sean agrícolas, ganaderos y pesqueros o bebidas, así como los productos baleares certificados con las denominaciones de origen, indicaciones geográficas protegidas o cualquier sello distintivo o marca de calidad reconocidos, emitidos y publicados en las Illes Balears por la consejería competente en materia agroalimentaria y otras instituciones de ámbito supramunicipal que desarrollen distintivos de apoyo a la economía circular, y el arte de pesca utilizada en relación a los productos de pescado y marisco de origen balear, serán de aplicación a partir del día 1 de mayo de 2023.
+8. Las medidas previstas en el artículo 102.bis de esta norma, relativa a garantizar un porcentaje mínimo de consumo de producto de origen de las Illes Balears, serán de aplicación a partir del día 1 de julio de 2023.
+Se modifica el apartado 3 por la disposición final 4.18 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-4
+ Se modifica el apartado 1 por la disposición final 7.2 del Decreto-ley 2/2023, de 6 de marzo. Ref. BOE-A-2023-13968
+ Se modifica por el art. 2.44 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+ Se añade por el art. 2.25 del Decreto-ley 3/2022, de 11 de febrero. Ref. BOE-A-2022-9388
+ Redactado conforme a la corrección de errores publicada en el BOIB núm. 40, de 22 de marzo de 2022. Ref. BOIB-i-2022-90076
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima. Cambio de uso residencial en parcelas de uso turístico y reconversión y cambio de uso de establecimientos de alojamiento turístico en Menorca.
+El cambio de uso residencial en parcelas de uso de establecimientos de alojamiento turístico regulado en el artículo 78 de esta ley, únicamente será de aplicación en Menorca si así lo permite y en los términos que determine el plan de intervención en ámbito turístico –PIAT– o, en su defecto, el plan territorial insular –PTI– que determine el número total de plazas turísticas que se pueden comercializar en Menorca.
+Se añade por el art. 2.45 de la Ley 3/2022, de 15 de junio. Ref. BOE-A-2022-13846#a2
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Quedan derogadas:
+a) La Ley 2/1999, de 24 de marzo, general turística de las Illes Balears.
+b) La Ley 2/2005, de 22 de marzo, de comercialización de estancias turísticas en viviendas.
+c) Los artículos 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, la disposición adicional tercera y la disposición final segunda de la Ley 4/2010, de 16 de junio, de medidas urgentes para el impulso de la inversión en las Illes Balears.
+d) El artículo 15 y la disposición adicional de la Ley 10/2010, de 27 de julio, de medidas urgentes relativas a determinadas infraestructuras y equipamientos de interés general en materia de ordenación territorial, urbanismo y de impulso a la inversión.
+e) El artículo 5 de la Ley 12/2010, de 12 de noviembre, de modificación de diversas leyes para la transposición en las Illes Balears de la Directiva 2006/123/CE, de 12 de diciembre, del Parlamento Europeo y del Consejo, relativa a los servicios al mercado interior.
+f) El Decreto 54/1995, de 6 de abril, por el que se aprueba el Plan director sectorial de ordenación de la oferta turística de la isla de Mallorca.
+g) El Decreto 42/1997, de 14 de marzo, por el que se aprueba el Plan director sectorial de ordenación de la oferta turística de las islas de Ibiza y Formentera.
+2. Quedan también derogados:
+a) El apartado 8 del artículo 106 del Decreto 20/2015, de 17 de abril, de principios generales y directrices de coordinación en materia turística, de regulación de órganos asesores, de coordinación y de cooperación del Gobierno de las Illes Balears, y de regulación y clasificación de las empresas y de los establecimientos turísticos, dictado en desarrollo de la Ley 8/2012, de 19 de julio, del turismo de las Illes Balears.
+b) El apartado 2 del artículo 115 del Decreto 20/2015, de 17 de abril, de principios generales y directrices de coordinación en materia turística, de regulación de órganos asesores, de coordinación y de cooperación del Gobierno de las Illes Balears, y de regulación y clasificación de las empresas y de los establecimientos turísticos, dictado en desarrollo de la Ley 8/2012, de 19 de julio, del turismo de las Illes Balears.
+c) El apartado 1 de la disposición transitoria primera del Decreto 20/2015, de 17 de abril, de principios generales y directrices de coordinación en materia turística, de regulación de órganos asesores, de coordinación y de cooperación del Gobierno de las Illes Balears, y de regulación y clasificación de las empresas y de los establecimientos turísticos, dictado en desarrollo de la Ley 8/2012, de 19 de julio, del turismo de las Illes Balears.
+3. Igualmente quedan derogadas todas las disposiciones de rango igual o inferior que se opongan a lo que disponga la presente ley, la contradigan o sean incompatibles.
+Se modifica el apartado 2 y se renumera el anterior como 3 por el art. 1.15 y 16 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+### Disposición final primera
+
+Disposición final primera.
+Esta ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial de les Illes Balears.
+
+### Disposición final segunda
+
+Disposición final segunda.
+El Gobierno de las Illes Balears adoptará cuantas medidas sean necesarias para que la Oficina única de la administración turística entre en funcionamiento en el plazo de dos años desde la entrada en vigor de esta ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+En el plazo máximo de seis meses desde la entrada en vigor de la presente ley, la administración turística competente aprobará la norma de desarrollo reglamentario de la comercialización de estancias turísticas en viviendas.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+En el plazo máximo de seis meses desde la entrada en vigor de la presente ley, los consejos insulares de las Illes Balears deberán iniciar la tramitación para la adaptación de sus respectivos planes territoriales insulares a las disposiciones de la presente ley.
+Los consejos insulares deberán iniciar la redacción de los planes de intervención en ámbitos turísticos en el plazo máximo de dieciocho meses desde la entrada en vigor de esta ley.
+Se modifica por el art. 15 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+
+### Disposición final quinta
+
+Disposición final quinta.
+La administración turística competente aprobará las normas por las que se adapten el Decreto 13/2011, de 25 de febrero, por el que se establecen las disposiciones generales necesarias para facilitar la libertad de establecimiento y de prestación de servicios turísticos, la declaración responsable y la simplificación de los procedimientos administrativos en materia turística, y el Decreto 20/2011, de 18 de marzo, por el cual se establecen las disposiciones generales de clasificación de la categoría de los establecimientos de alojamiento turístico en hotel, hotel-apartamento y apartamento turístico de las Illes Balears, a las disposiciones de la presente ley, en el plazo máximo de seis meses desde su entrada en vigor.
+
+### Disposición final sexta
+
+Disposición final sexta.
+1. En las zonas turísticas declaradas maduras, las diferentes administraciones dispondrán de un plazo de seis meses desde la fecha de su declaración para realizar las actuaciones y medidas del artículo 72 de esta ley.
+2. En las zonas turísticas declaradas maduras, las diferentes administraciones dispondrán de un plazo de seis meses desde la fecha de su declaración para realizar la planificación de inversiones y actuaciones a la que se refiere el artículo 76 de esta ley.
+Se añade por el art. 5 del Decreto-ley 1/2013, de 7 de junio. Ref. BOIB-i-2013-90017
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que correspondan la hagan guardar.
+Palma, 19 de julio de 2012.–El Presidente, José Ramón Bauzá Díaz.–El Consejero de Turismo y Deportes, Carlos Delgado Truyols.
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta sobre la limitación del número de autorizaciones de comercialización de estancias turísticas en viviendas de un mismo propietario y las declaraciones responsables de inicio de actividad, lo establecido en la disposición adicional 8 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539#da-8

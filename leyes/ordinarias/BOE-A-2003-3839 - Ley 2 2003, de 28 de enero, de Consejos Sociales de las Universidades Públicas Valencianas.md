@@ -1,0 +1,333 @@
+# Ley 2/2003, de 28 de enero, de Consejos Sociales de las Universidades Públicas Valencianas.
+
+- Identificador BOE: `BOE-A-2003-3839`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-3839
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley.
+PREÁMBULO
+La Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, se plantea como propósitos generales el impulso en la vertebración y cohesión del sistema universitario, la profundización de las competencias de las Comunidades Autónomas en materia de enseñanza superior, el incremento del grado de autonomía de las universidades y el establecimiento de los cauces necesarios para fortalecer las relaciones y vinculaciones recíprocas entre universidad y sociedad.
+Entre las competencias asignadas por dicha Ley Orgánica a las Comunidades Autónomas figura, en lugar destacado, la de regular la composición y funciones del Consejo Social y la designación de los miembros no académicos del mismo de entre personalidades de la vida cultural, profesional, económica, laboral y social. Dicho órgano universitario se configura como un nexo de unión entre la universidad y la sociedad que es necesario intensificar como el marco más adecuado para una fructífera vinculación entre autonomía universitaria y rendición de cuentas a la sociedad que la impulsa y la financia.
+La universidad es patrimonio del conjunto de la sociedad que la sustenta y constituye un auténtico servicio público referido a los intereses generales de toda la comunidad nacional y de sus respectivas Comunidades Autónomas. A ello responde la existencia de un Consejo Social, que, inserto en la estructura universitaria, establece la participación en su gobierno de una representación de la sociedad y que el control del rendimiento, la supervisión económica de la universidad y de la adecuación de sus actividades al interés social, que dicho Consejo Social debe realizar, constituyan un factor de equilibrio en el ejercicio de la autonomía que la Constitución española garantiza a las universidades. El Consejo Social debe ser también el instrumento para promover la colaboración de la sociedad en la financiación de la universidad, y las relaciones entre ésta y su entorno cultural, profesional, económico y social al servicio de la calidad de la actividad universitaria.
+Al ser la universidad una institución realmente básica para toda la ciudadanía, la Comunidad Valenciana, en virtud de las competencias plenas asumidas por nuestro Estatuto de Autonomía en materia de educación, debe incrementar su protagonismo en el proceso de configuración y de adopción de decisiones que afecten al sistema educativo universitario. Los órganos institucionales de la Generalidad Valenciana encarnan y aglutinan la voluntad democrática de la sociedad valenciana y los intereses generales de la misma pero dicho interés se expresa también por medio de las distintas entidades y corporaciones de la sociedad civil, que deben ser copartícipes en la alta responsabilidad que la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, encomienda a los Consejos Sociales. Debido a la importante función que corresponde a los mismos, en el proceso de elaboración de la presente norma, se ha procedido a recabar la opinión de los diferentes sectores de la comunidad universitaria, del Consejo Interuniversitario de la Comunidad Valenciana y del Comité Económico y Social.
+La presente Ley pretende establecer un equilibrio fructífero entre la representación del interés social mayoritario de la Comunidad Valenciana cuya legitimidad reside en les Corts Valencianes y el Consell de la Generalidad, y la representación de los legítimos intereses sectoriales y corporativos que, en conjunto coadyuvan a la vertebración del interés general en un estado social y democrático de derecho. Ese equilibrio se complementa en el seno del Consejo Social con la representación académica que la Ley Orgánica 6/2001, de 21 de diciembre, de universidades, otorga a las universidades al establecer que el Rector o Rectora, las personas que ostenten la titularidad de la gerencia y de la Secretaría General y otros tres miembros del Consejo de Gobierno de la Universidad deberán formar parte de dicho órgano de participación social.
+Por lo que se refiere a las competencias del Consejo Social y a las funciones derivadas de las mismas, cuya regulación corresponde a la Comunidad Autónoma, la presente Ley perfila y detalla dichas funciones diferenciando aquéllas que corresponden al ámbito de la supervisión económica conectadas con la aprobación del presupuesto de la universidad y su programación plurianual, de aquellas otras que se refieren al ámbito de la supervisión del rendimiento académico.
+Por último, y de acuerdo con lo establecido en el artículo 14.4 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, se dota a los Consejos Sociales con una estructura de apoyo y con los recursos necesarios para el adecuado ejercicio de sus funciones. Con tal objetivo se potencia la figura del Secretario o la Secretaria del Consejo Social, con funciones de dirección de las dependencias administrativas y del personal adscrito a las mismas, agrupado en un servicio económico-presupuestario y otro de régimen jurídico y administrativo.
+Con el eficaz cumplimiento de los fines del Consejo Social y de la responsabilidad y el compromiso de sus miembros con los intereses de la sociedad y con el servicio público de calidad que la universidad debe prestar a la misma, se alcanzarán los mayores beneficios y logros, tanto para la sociedad valenciana como para sus universidades.
+
+## TÍTULO I
+
+El Consejo Social: Fines y competencias
+
+### Artículo 1
+
+Artículo 1. Del Consejo Social.
+1. El Consejo Social es el órgano colegiado universitario de participación de la sociedad valenciana en la universidad, y un espacio de colaboración y rendición de cuentas en el que se interrelacionan con la universidad las instituciones, las organizaciones sociales y el tejido productivo de la Comunitat Valenciana.
+2. En cada una de las universidades públicas de la Comunidad Valenciana se constituirá un Consejo Social.
+Se modifica el apartado 1 por el art. único.1 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Artículo 2
+
+Artículo 2. Fines.
+Corresponde al Consejo Social:
+1. Fomentar y apoyar la colaboración entre la sociedad y la universidad, y en especial promover las relaciones entre la universidad y su entorno cultural, profesional, económico y social, al servicio de la calidad de la actividad universitaria.
+2. Promover la adecuación de la oferta de enseñanzas universitarias y de las actividades culturales, científicas y de investigación a las necesidades de la sociedad, y fortalecer las actividades de formación permanente que desarrollan las universidades.
+3. Promover la captación de recursos económicos y la colaboración de la sociedad en la financiación de la universidad, canalizando y adoptando, en el marco de la legislación vigente, las iniciativas de apoyo económico y mecenazgo a la universidad por parte de personas físicas y entidades de carácter público y privado, procedentes de los diversos ámbitos sociales, empresariales e institucionales locales, nacionales e internacionales.
+4. Impulsar la cultura del emprendimiento en el ámbito universitario, promoviendo la vinculación de las enseñanzas, de la investigación y la innovación, a las capacidades creativas y emprendedoras que enriquezcan el tejido social y productivo de la Comunitat Valenciana.
+Se modifican los apartados 2 y 3 por el art. único.2 y 3 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+ Se añade el apartado 4 por la disposición final 5.1 de la Ley 2/2012, de 14 de junio. Ref. BOE-A-2012-9062#dfquinta
+ Téngase en cuenta que este apartado ya fue añadido por el Decreto-ley 2/2012, de 13 de enero.
+ Se añade el apartado 4 por la disposición final 5.1 del Decreto-ley 2/2012, de 13 de enero. Ref. DOGV-r-2012-90009
+
+### Artículo 3
+
+Artículo 3. Competencias y funciones de índole económica.
+Le corresponden las siguientes:
+a) Conocer, con anterioridad a su aprobación por el Consejo de Gobierno, los criterios básicos previstos para la elaboración del presupuesto de la universidad, y formular propuestas al respecto.
+b) Aprobar, a propuesta del Consejo de Gobierno y a la vista de las previsiones contenidas en el plan trienal de actuaciones, el presupuesto anual de la universidad con sus modificaciones, y deberá ser informado periódicamente del estado de ejecución del mismo.
+c) Conocer, con carácter previo a su aprobación por el órgano que proceda, el presupuesto anual de las entidades que dependan de la universidad y de aquellas en que la universidad tenga participación mayoritaria en su capital o fondo patrimonial equivalente, y formular propuestas al respecto, sin perjuicio de la legislación mercantil u otra a la que dichas entidades puedan estar sometidas en función de su personalidad jurídica.
+d) Aprobar, a propuesta del Consejo de Gobierno, el plan plurianual de financiación de la universidad y realizar su seguimiento. Al respecto, deberá ser informado durante la elaboración de las líneas de planificación estratégica de la universidad con el objeto de que sus sugerencias puedan ser oídas.
+e) Aprobar, con carácter previo al trámite de rendición de cuentas ante la Intervención General de la Generalitat Valenciana, o ante la Sindicatura de Cuentas u otro órgano que se establezca, las cuentas anuales de la universidad. En caso de liquidación del presupuesto con remanente no afectado negativo se procederá de conformidad con lo dispuesto en el artículo 57 apartado 8 de la Ley orgánica del sistema universitario.
+f) Aprobar las cuentas anuales de las entidades que dependan de la universidad y de aquellas otras en que la universidad tenga participación mayoritaria en su capital o fondo patrimonial equivalente, sin perjuicio de la legislación mercantil u otra a la que dichas entidades puedan estar sometidas en función de su personalidad jurídica.
+g) Ser informado por el Consejo de Gobierno de la plantilla de personal respecto de la relación de puestos de trabajo del personal docente e investigador y del personal técnico, de gestión y de administración y servicios de la universidad, así como de sus modificaciones.
+h) Supervisar las funciones ordinarias de control interno de las cuentas de la institución. A tal efecto, la intervención de la universidad, comisión de control de cuentas u órgano equivalente que ejerza las funciones de control del gasto en la misma, informará anualmente al Consejo Social de sus actuaciones, así como del plan anual de actuación. Asimismo, el Consejo Social podrá recabar la realización de auditorías de las cuentas de la universidad y de las entidades que de ella puedan depender, y de aquellas en que la universidad tenga participación mayoritaria en su capital o fondo patrimonial equivalente, sin perjuicio de la legislación mercantil u otra a la que dichas entidades puedan estar sometidas en función de su personalidad jurídica. La persona responsable de la intervención de la universidad, comisión de control de cuentas u órgano equivalente que ejerza las funciones de control del gasto en la misma, será nombrada por el rector o la rectora, oído el Consejo Social, a propuesta del Consejo de Gobierno o del órgano colegiado que determinen los estatutos de la universidad. Dicha persona desempeñará sus funciones con autonomía respecto de los órganos cuya actividad está sujeta a control.
+i) Acordar, en el marco de las normas reglamentarias y los límites que al efecto apruebe el Consell de la Generalitat, a propuesta del Consejo de Gobierno, la asignación con carácter individual de conceptos retributivos adicionales a los establecidos con carácter general para el profesorado universitario.
+j) Fijar las tasas académicas y demás derechos correspondientes a los estudios que no impliquen la expedición de títulos oficiales, los precios públicos por la prestación de servicios no académicos por parte de la universidad o por el uso o cesión de instalaciones universitarias, así como determinar el régimen retributivo del profesorado que imparta seminarios, cursos y enseñanzas no conducentes a la obtención de un título universitario oficial.
+k) Ser informado periódicamente de cuantos contratos se celebren al amparo de lo establecido en el artículo 60 de la Ley orgánica del sistema universitario.
+l) Informar con carácter previo los convenios, no incluidos en el apartado anterior, a suscribir por la institución con personas físicas o jurídicas, públicas o privadas, de los que se deriven obligaciones económicas a la universidad cuya cuantía supere la que al efecto acuerde el Consejo Social.
+m) Proponer a los órganos competentes de la Generalitat para su aprobación cualquier operación de endeudamiento de la universidad o de las entidades que de ella dependan o de aquellas en las que la universidad tenga participación mayoritaria en su capital o fondo patrimonial equivalente, sin perjuicio de la legislación mercantil u otra a la que dichas entidades puedan estar sometidas en función de su personalidad jurídica.
+n) Fijar las directrices o líneas generales, con pleno respeto a los principios de publicidad, mérito y capacidad, de la política de becas, ayudas, exenciones y créditos al estudio y a la investigación que en su caso otorguen las universidades con cargo a sus recursos ordinarios. Reglamentariamente se establecerá la forma de participación del Consejo Social en las comisiones que se constituyan a efectos de ejecutar las citadas políticas.
+o) Coordinar y supervisar la concesión de las ayudas sociales financiadas con cargo a los recursos ordinarios de la universidad que se destinen al personal de la misma.
+p) Aprobar, a propuesta del Consejo de Gobierno, las concesiones de crédito extraordinario o suplemento de crédito, siempre que deba efectuarse un gasto que no pueda ser aplazado al ejercicio siguiente y para el cual no exista crédito consignado en los presupuestos o el existente sea insuficiente y tenga el carácter de no ampliable.
+q) Autorizar las transferencias de gastos de capital a cualquier otro capítulo del presupuesto de gastos de la universidad.
+r) Autorizar al órgano competente, previa propuesta motivada de este, para adquirir bienes inmuebles, enajenar o disponer de los bienes patrimoniales de la institución y de los bienes muebles de extraordinario valor, y de aquellos que se afecten al cumplimiento de sus fines, así como para desafectar los bienes de dominio público de la universidad. A tal fin, el Consejo Social recibirá en el primer trimestre de cada año natural una relación actualizada al 31 de diciembre del ejercicio anterior del inventario de los bienes que integran el patrimonio de la entidad.
+s) Aprobar, a propuesta del Consejo de Gobierno, los reglamentos internos que regulen, en el marco de la normativa de contratación y de patrimonio aplicable a la administración de la Generalitat, la gestión contractual y patrimonial de la universidad.
+t) En general, supervisar las actividades de carácter económico de la universidad y evaluar el rendimiento de los servicios, pudiendo recabar del resto de los órganos de la universidad, así como de los servicios, centros y departamentos, la información que considere precisa para el ejercicio de sus funciones. Asimismo, le corresponde analizar y valorar el rendimiento de las actividades académicas y proponer acciones de mejora. El Reglamento de organización y funcionamiento del Consejo Social determinará los cauces y la periodicidad de recepción por este órgano de las informaciones, datos e indicadores necesarios para el correcto ejercicio de esta función.
+u) Informar los convenios colectivos del personal laboral de la universidad previamente a su formalización.
+Se modifica por el art. único.4 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Artículo 4
+
+Artículo 4. Competencias y funciones relativas al rendimiento de los servicios universitarios.
+Le corresponden las siguientes:
+a) Emitir informe sobre la creación, modificación y supresión de centros propios y de centros en el extranjero, y ser informado sobre la propuesta de adscripción de centros docentes a la universidad.
+b) Informar, con carácter previo a su aprobación, la oferta de titulaciones oficiales y de formación permanente. Dicho informe versará sobre la adecuación de la propuesta a las exigencias y previsiones de la programación presupuestaria, y su adecuación tanto a los recursos materiales y humanos existentes como a las necesidades sociales del entorno socioeconómico de cada universidad.
+c) Informar las normas que regulen el progreso y la permanencia en la universidad del estudiantado. En todo caso, el Consejo Social recibirá información periódica sobre el progreso y permanencia de los estudiantes, como un indicador básico de rendimiento académico de la universidad cuya supervisión le corresponde.
+d) Promover la participación de profesionales y sectores sociales en la elaboración y reforma del contenido de los planes de estudio, a fin de adecuar la oferta de los estudios universitarios a las necesidades sociales, e informar la valoración económica de los planes de estudios que la universidad ponga en conocimiento de la Generalitat, a los efectos establecidos en el artículo 8 de la Ley orgánica del sistema universitario.
+e) Promover el establecimiento de convenios entre la universidad y entidades públicas y privadas orientadas a completar la formación de los estudiantes y facilitar su empleo.
+f) Impulsar y, en su caso, coordinar con las asociaciones correspondientes las actuaciones destinadas a establecer relaciones entre la universidad y sus antiguos estudiantes, a fin de mantener los vínculos afectivos y de potenciar las acciones de mecenazgo en favor de la institución académica.
+g) Tramitar las reclamaciones que se le presenten relativas al funcionamiento de los servicios universitarios cuando tengan por objeto asuntos cuya supervisión corresponda al Consejo Social, pudiendo solicitar del rector o de la rectora o, en su caso, de la administración la realización de las actuaciones que procedan.
+h) Autorizar la utilización del procedimiento negociado sin publicidad para la adquisición de bienes de equipo afectos a la investigación.
+i) Formular sugerencias y propuestas al Consejo de Gobierno de la universidad tendentes a mejorar el funcionamiento de las actividades universitarias en sus distintos aspectos, y sobre todo de la calidad en la docencia y la investigación. A tal efecto el Consejo Social podrá recabar la realización de auditorías o solicitar informes e inspecciones de los órganos externos competentes para evaluar la calidad y el rendimiento de los servicios universitarios, incluida la docencia.
+j) Acordar con el rector o la rectora el nombramiento y la revocación del gerente, atendiendo a criterios de competencia profesional y experiencia en la gestión.
+k) Informar, con carácter previo a la remisión al Consell de la Generalitat para su aprobación, los proyectos de concierto de colaboración entre la universidad y las instituciones sanitarias.
+l) Autorizar la creación por la universidad, y también su participación en sociedades civiles, mercantiles, fundaciones, consorcios y otras entidades con personalidad jurídica propia.
+m) Conocer todos los acuerdos que adopten el claustro y el Consejo de Gobierno, y aquellos del rector o la rectora de los que se deriven obligaciones económicas.
+n) Conocer, en su caso, las actividades del defensor universitario u órgano equivalente de la universidad realizadas en el ejercicio de las funciones que tiene encomendadas, para lo cual este presentará al Consejo Social de la universidad un informe anual.
+o) Conocer los informes de evaluación de la calidad de la universidad, de sus centros o titulaciones, que al efecto emitan la Agencia Nacional de Evaluación de la Calidad y Acreditación y la Agencia Valenciana de Evaluación y Prospectiva.
+p) Designar y cesar, como miembros del Consejo de Gobierno de la universidad, a los tres miembros del Consejo Social, por el procedimiento establecido en el artículo 19.2.
+q) Promover vínculos de colaboración entre la universidad e instituciones y entidades sociales representativas. A estos efectos, corresponde al Consejo Social crear, de acuerdo con el Consejo de Gobierno de la universidad, comisiones conjuntas para promover, desplegar y evaluar iniciativas tendentes a reforzar el papel de la universidad en el entorno social. Al respecto, el Consejo Social elaborará, aprobará y evaluará un plan trienal de actuaciones dirigido prioritariamente a fomentar las interrelaciones y la cooperación entre la universidad, su antiguo alumnado y su entorno cultural, profesional, científico, empresarial, social y territorial, así como su desarrollo institucional. Se realizará anualmente una sesión conjunta del Consejo Social y del Consejo de Gobierno de cada universidad a fin de realizar el seguimiento del plan y, en su caso, establecer las modificaciones necesarias.
+r) Establecer programas para facilitar la inserción profesional de los titulados universitarios, promoviendo acciones que orienten la actividad universitaria a las demandas del marco laboral.
+s) Realizar estudios sobre materias de su competencia y, especialmente, sobre la adecuación de la oferta de titulaciones y contenidos de los planes de estudios a las necesidades sociales, la situación laboral de las personas con título universitario y la demanda social de nuevas enseñanzas.
+t) Promover la creación de convenios entre las universidades y las entidades públicas y privadas orientadas a especializar la formación de los estudiantes y a facilitar su incorporación al mundo laboral.
+u) Impulsar las iniciativas emprendedoras y la actividad investigadora de la universidad y, en especial, promoviendo la vinculación a los sectores productivos de su entorno, propiciando proyectos emprendedores, de investigación y desarrollo compartidos entre la universidad y las empresas o instituciones.
+v) Otorgar ayudas, premios, distinciones o reconocimientos dentro del ámbito de sus competencias.
+w) Impulsar las actividades que permitan un acercamiento del alumnado universitario a las demandas de trabajo de las empresas, de la administración y de las instituciones para favorecer la inserción profesional de los titulados universitarios y tituladas universitarias.
+x) Velar por el cumplimiento de los principios éticos y de integridad académica, así como de las directrices antifraude, que deben guiar la función docente y la investigación, en colaboración con los organismos y planes de los que, a estos efectos, disponga cada universidad. Para ello será informado del proceso de elaboración de la normativa específica de la universidad sobre la materia. Si no existe dicha normativa específica, o si la que hay se encuentra obsoleta, el Consejo Social deberá impulsar su elaboración, revisión o adaptación.
+y) Ser informado e impulsar las estrategias de la universidad sobre transformación digital, internacionalización, transferencia e intercambio del conocimiento, todo ello sin perjuicio de lo señalado en el inciso final del artículo 3.d.
+z) Cuantas otras competencias se le atribuyan por esta ley y el ordenamiento jurídico vigente.
+Se modifica por el art. único.5 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+ Se modifica la letra w) por la disposición final 5.2 de la Ley 2/2012, de 14 de junio. Ref. BOE-A-2012-9062#dfquinta
+ Se modifica la letra w) por la disposición final 5.2 del Decreto-ley 2/2012, de 13 de enero. Ref. DOGV-r-2012-90009
+
+## TÍTULO II
+
+Composición del Consejo Social
+
+### Artículo 5
+
+Artículo 5. Composición.
+1. El Consejo Social de cada una de las universidades públicas de la Comunitat Valenciana estará integrado por su presidente o presidenta, cinco vocales en representación del Consejo de Gobierno de la universidad, uno en representación del Consejo de Estudiantes de la universidad, y los vocales que, de acuerdo con lo dispuesto en esta ley, se designen en representación de los intereses sociales de la Comunitat Valenciana.
+2. La persona titular de la presidencia del Consejo Social será designada por Les Corts a propuesta del presidente o la presidenta de la Generalitat, oído el rector o rectora de la universidad. Aprobada la designación por Les Corts, su nombramiento formal se efectuará por decreto del Consell de la Generalitat y será publicado en el “Diari Oficial de la Generalitat Valenciana”. En caso de que la persona propuesta no obtuviera el respaldo parlamentario, la Presidencia de Les Corts requerirá al presidente o presidenta de la Generalitat una nueva propuesta que será remitida a Les Corts en el plazo de quince días hábiles, tras lo cual se procederá a una nueva votación.
+3. En representación del Consejo de Gobierno de la universidad serán vocales natos del Consejo Social: el rector o rectora y las personas que ostenten la titularidad de la Secretaría General y de la Gerencia de la universidad. En calidad de electos serán designados por el Consejo de Gobierno entre sus componentes y dos más, uno del personal docente e investigador y otro en representación del personal técnico, de gestión y de administración y servicios. También será miembro nato del Consejo Social un representante del Consejo de Estudiantes, elegido por este consejo entre sus miembros. Todos ellos con voz y voto.
+4. La representación de los intereses sociales de la Comunitat Valenciana estará formada por personas propuestas por los diferentes sectores representativos de la vida económica, social y cultural del entorno, conocedoras de la actividad y dinámicas universitarias, sin conflicto de intereses con la universidad y que no formen parte de la propia comunidad universitaria de la siguiente forma:
+a) Dos a propuesta de les Corts.
+b) Cuatro a propuesta de la persona que ostente la titularidad de la conselleria competente en materia de universidades.
+c) Una a propuesta del ayuntamiento en cuyo término municipal se encuentre ubicada la sede de la universidad.
+d) Una a propuesta de la diputación provincial de la provincia donde radique la universidad.
+e) Tres a propuesta de las organizaciones sindicales más representativas en el ámbito de la Comunitat Valenciana.
+f) Tres a propuesta de las organizaciones empresariales más representativas en la Comunitat Valenciana.
+g) Una a propuesta del Consejo de Cámaras Oficiales de Comercio, Industria y Navegación de la Comunitat Valenciana.
+h) Una a propuesta de los colegios profesionales de la Comunitat Valenciana a través de la organización intercolegial que congregue el mayor número de colegios profesionales de la provincia donde radique la universidad.
+i) Dos a propuesta del presidente o presidenta del Consejo Social entre miembros pertenecientes a entidades legalmente constituidas que representen los intereses profesionales, económicos, financieros, culturales, educativos, artísticos, científicos, técnicos o de antiguos estudiantes.
+Se modifica por el art. único.6 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+## TÍTULO III
+
+Estatuto de los Miembros del Consejo Social
+
+### Artículo 6
+
+Artículo 6. Procedimiento de nombramiento de los vocales.
+1. Los vocales representantes de los intereses sociales de la Comunitat Valenciana serán nombrados por Les Corts a propuesta motivada de los sectores representativos de la vida económica, social y cultural del entorno, conocedores de la actividad y dinámica universitarias.
+2. La conselleria competente en materia de universidades, en coordinación con las secretarías de los consejos sociales de las universidades públicas valencianas, se dirigirá a las personas e instituciones señaladas en las letras c a i del artículo 5.4 con el fin de que le presenten las propuestas indicadas en dicho precepto. El requerimiento se llevará a cabo con tres meses de antelación a la finalización del mandato de los vocales de los consejos sociales que se encuentren desempeñando sus funciones.
+3. Las personas e instituciones señaladas en las letras c a i del artículo 5.4 presentarán sus propuestas mediante escrito dirigido a la conselleria competente en materia de universidades en el plazo de un mes desde la recepción del requerimiento señalado en el apartado anterior. Al escrito se acompañará un breve currículo de las personas propuestas, del que resulte su conocimiento de la actividad y dinámica universitarias, así como la ausencia de conflicto de intereses con la universidad correspondiente. A estas propuestas se unirán las de la propia conselleria, de acuerdo con el artículo 5.4.b.
+4. De las propuestas mencionadas se dará traslado al rector o rectora de la universidad y al presidente o presidenta del Consejo Social correspondiente para que en el plazo de diez días manifiesten lo que estimen oportuno.
+5. Las propuestas se trasladarán por la conselleria competente en materia de universidades a Les Corts, quienes designarán a las personas propuestas, así como a las que corresponden según el artículo 5.4.a. En caso de que alguna de las personas propuestas no obtuviera el respaldo parlamentario, la Presidencia de Les Corts requerirá de la conselleria competente en materia de universidades que recabe de la institución u organización correspondiente una nueva propuesta que será remitida a Les Corts en el plazo de quince días hábiles, tras lo cual se procederá a una nueva votación.
+6. Aprobada la designación por Les Corts, su nombramiento formal se efectuará por resolución del titular de la conselleria competente en materia de universidades y será publicado en el “Diari Oficial de la Generalitat Valenciana”.
+7. Los nombramientos de los miembros no natos del Consejo Social en representación del Consejo de Gobierno y del Consejo de Estudiantes también serán publicados en el “Diari Oficial de la Generalitat Valenciana”.
+Se modifica por el art. único.7 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Artículo 7
+
+Artículo 7. Mandato de los vocales.
+1. El mandato de los vocales del Consejo Social que representen los intereses sociales tendrá una duración de cuatro años, a contar desde la publicación de su nombramiento en el “Diari Oficial de la Generalitat Valenciana”, pudiendo ser nuevamente designados por otro periodo consecutivo, por una sola vez.
+2. Los vocales que representen los intereses sociales perderán su condición por fallecimiento o declaración de incapacidad, renuncia, revocación por el órgano o entidad que los designó o apreciación por parte del Consejo Social de causa de incompatibilidad.
+3. Los miembros natos del Consejo Social cesarán en dicho órgano cuando pierdan la condición o cargo que conlleve su pertenencia a aquel.
+4. Si en el plazo de dos meses desde que se produzca una vacante entre los vocales que representan los intereses sociales no se hubiera efectuado la nueva designación, la persona que ostente la titularidad de la conselleria competente en materia de universidades podrá nombrar provisionalmente a quien considere más idóneo para ostentar la representación correspondiente.
+5. La sustitución de los miembros del Consejo Social designados por el Consejo de Gobierno y el Consejo de Estudiantes de la universidad se efectuará en los términos que establezcan los estatutos de la universidad.
+6. Transcurrido el plazo de vigencia del cargo de vocal en representación de los intereses sociales, representante no nato del Consejo de Gobierno o representante del Consejo de Estudiantes, este permanecerá en funciones en el cargo hasta que se designe su sustituto y su nombramiento se publique en el “Diari Oficial de la Generalitat Valenciana”.
+Se modifica por el art. único.8 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Artículo 8
+
+Artículo 8. Incompatibilidades.
+1. La condición de miembro del Consejo Social será incompatible con la pertenencia a órganos rectores o con el desempeño de cargos de todo orden, por sí o mediante sustitución, en empresas o sociedades que contraten con la universidad la ejecución de obras, la gestión de servicios, la realización de suministros o trabajos de consultoría y asistencia o de servicios, así como con la participación superior al diez por ciento en el capital social de las mismas, excepto en los casos a que se refiere el artículo 60 de la Ley orgánica del sistema universitario.
+2. La condición de miembro del Consejo Social será incompatible con la pertenencia a órganos rectores y con el desempeño de cargos o funciones de todo orden por sí o por persona interpuesta, en universidades privadas.
+3. Ninguno de los miembros del Consejo Social nombrados en representación de los intereses sociales podrá ser miembro en activo de la comunidad universitaria correspondiente, ni formar parte de más de un Consejo Social de las universidades de la Comunidad Valenciana.
+Se modifica el apartado 1 por el art. único.9 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Artículo 9
+
+Artículo 9. Facultades de los miembros del Consejo Social.
+1. En el ejercicio de las competencias atribuidas al Consejo Social por la presente ley, sus miembros podrán presentar propuestas al pleno o a las comisiones. El presidente o la presidenta, el secretario-director o la secretaria-directora y el resto de los miembros del Consejo Social tendrán la facultad de obtener cuanta información y documentación precisen de los servicios y dependencias universitarias para el cumplimiento de las funciones asignadas al Consejo Social.
+2. Los miembros del Consejo Social que representen los intereses sociales percibirán una indemnización, por la asistencia a las sesiones del Consejo o de las Comisiones del mismo, en los términos que establezca el reglamento del Consejo Social.
+Se modifica el apartado 1 por el art. único.10 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Artículo 10
+
+Artículo 10. Obligaciones de los miembros del Consejo Social.
+Los miembros del Consejo Social están obligados a:
+a) Asistir a las sesiones del Pleno y de aquellas Comisiones para las que hayan sido designados, así como a los actos institucionales cuando le haya sido expresamente delegada la representación del Consejo Social.
+b) Observar las normas sobre incompatibilidades que, de acuerdo con esta Ley, pudieran afectarles, así como comunicar al Consejo toda circunstancia, inicial o sobrevenida, de la que pudiera derivarse una situación de incompatibilidad.
+c) Cumplir individualmente cuantos cometidos les sean encomendados por los órganos del Consejo.
+d) Guardar la debida reserva y confidencialidad respecto a las Deliberaciones de las sesiones del Consejo Social, tanto del Pleno como de las Comisiones a las que pertenezcan, así como de las gestiones que lleven a cabo por encargo de los órganos del Consejo.
+e) No utilizar los documentos que les sean facilitados para fines distintos de aquellos para los que les fueron entregados.
+
+## TÍTULO IV
+
+De la Organización del Consejo Social y su régimen jurídico
+
+### Artículo 11
+
+Artículo 11. Estructura orgánica.
+El Consejo Social de la universidad se organiza en:
+a) El Pleno.
+b) El Presidente o la Presidenta.
+c) Las Comisiones que, en su caso, se creen.
+d) El secretario-director o la secretaria-directora.
+Se modifica la letra d) por el art. único.11 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Artículo 12
+
+Artículo 12. El Pleno.
+El Pleno del Consejo Social está integrado por el Presidente o la Presidenta y los Vocales, y al mismo corresponde la adopción de acuerdos relativos a las competencias incluidas en los artículos 3 y 4 de la presente Ley, sin perjuicio de las que reglamentariamente se atribuyan a los restantes órganos del Consejo Social.
+
+### Artículo 13
+
+Artículo 13. Las Comisiones.
+1. Sin perjuicio de las ponencias o grupos de trabajo de carácter sectorial o de naturaleza ocasional que se designen por el Pleno, de acuerdo con lo que disponga el reglamento de organización y funcionamiento del Consejo Social, podrán crearse Comisiones, a las que el Pleno adscribirá Vocales, respetando, en todo caso, las proporciones plenarias.
+2. Las Comisiones del Consejo Social únicamente emitirán o elevarán al Pleno informes, dictámenes o propuestas, sin que puedan adoptar acuerdos ejecutivos, salvo delegación por parte de éste. En tal caso, la delegación expresa del Pleno podrá otorgar a la Comisión de que se trate atribuciones específicas o genéricas, y con carácter habitual para ciertas materias, o concreto para un asunto determinado.
+
+### Artículo 14
+
+Artículo 14. El Presidente o la Presidenta.
+1. El Presidente o la Presidenta del Consejo Social ostenta la máxima representación del mismo, convoca, preside y dirige el Consejo, vela por el cumplimiento de sus acuerdos, y ejerce cualesquiera otras atribuciones que le sean encomendadas legal o reglamentariamente.
+2. El Presidente o la Presidenta del Consejo Social puede invitar a asistir a las reuniones, con voz y sin voto, a las personas expertas que considere oportuno, de acuerdo con la naturaleza de los asuntos a tratar.
+3. El mandato del Presidente o la Presidenta del Consejo Social será de cuatro años, pudiendo ser nuevamente designado por otro período igual consecutivo, por una sola vez.
+4. Es de aplicación al Presidente o la Presidenta del Consejo Social lo previsto en el título III de esta Ley sobre duración del cargo e incompatibilidades de los Vocales que representen los intereses sociales del órgano.
+
+### Artículo 15
+
+Artículo 15. El Vicepresidente o la Vicepresidenta.
+1. El Presidente o la Presidenta del Consejo Social podrá designar hasta dos Vicepresidentes de entre los Vocales que representen los intereses sociales, indicando el orden de prelación de los mismos a los efectos de sustitución del Presidente o la Presidenta.
+2. El vicepresidente o la vicepresidenta sustituirá al presidente o la presidenta en caso de fallecimiento, vacante, ausencia, renuncia o cese. En su defecto, sustituirá al presidente o la presidenta el vocal representante de los intereses sociales que goce de mayor antigüedad en el órgano de entre los indicados en el artículo 5.4 apartado b y en el caso de que, entre estos, existan dos o más con la misma antigüedad ejercerá las funciones de la Presidencia, el de mayor edad.
+3. El Presidente o la Presidenta del Consejo Social podrá revocar de su cargo a los Vicepresidentes dando cuenta al Consejo Social.
+Se modifica el apartado 2 por el art. único.12 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Artículo 16
+
+Artículo 16. El secretario-director o la secretaria-directora del Consell.
+1. El Consejo Social dispondrá de una Secretaría dotada de los medios materiales y personales suficientes y adecuados para el cumplimiento de los fines y el desarrollo y ejecución de las competencias de este órgano.
+2. Al frente de la Secretaría estará el secretario-director o la secretaria-directora del Consejo Social, que será nombrado y separado por la persona que ostente la titularidad de la conselleria competente en materia de universidades, a propuesta del presidente o la presidenta del Consell. La designación recaerá en una persona que no sea vocal del Consejo Social, y actuará con voz, pero sin voto. El nombramiento y cese del secretario-director o la secretaria-directora será publicado en el “Diari Oficial de la Generalitat Valenciana”.
+3. Al secretario-director o la secretaria-directora corresponde la dirección de las dependencias administrativas del Consejo Social y del personal adscrito al mismo, la preparación de estudios e informes, la función de dar fe de lo acordado, la custodia de los libros de actas, la potestad de certificación y cuantas atribuciones le encomiende el reglamento de dicho Consejo.
+4. En caso de vacante o ausencia ejercerá accidentalmente las funciones de secretario-director o secretaria-directora del Consejo Social el vocal que designe el presidente o 1a presidenta, en cuyo caso actuará con voz y voto.
+5. El secretario-director o la secretaria-directora del Consejo tendrá el siguiente régimen:
+a) Si ostenta la condición de funcionario de los cuerpos docentes universitarios o profesor permanente laboral adscrito a la universidad correspondiente, percibirá un complemento retributivo y tendrá una dedicación docente iguales a los que correspondan al secretario o la secretaria general de la universidad.
+b) En el resto de los supuestos, deberá contar con titulación universitaria superior y percibirá unas retribuciones equivalentes a las del personal al servicio de la Generalitat correspondiente al subgrupo A1, complemento de destino 30 y el complemento específico máximo que corresponda al régimen de dedicación exclusiva, sin perjuicio de que reglamentariamente se establezca cualquier otra retribución complementaria. En el supuesto de que el secretario-director o la secretaria-directora sea funcionario público en activo, durante su permanencia en el cargo, quedará en situación de servicios especiales, y, en su caso, devengará un complemento retributivo equivalente a su grado de carrera profesional adquirido.
+Se modifica por el art. único.13 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Artículo 17
+
+Artículo 17. Delegación.
+No obstante la obligatoriedad establecida para los miembros del Consejo Social de asistir a las reuniones del órgano, si existe causa justificada cualquiera de aquéllos podrá delegar su asistencia a favor de otro componente del Consejo asistente a la reunión de que se trate, siempre que se haga por escrito firmado por el consejero delegante en el que se haga constar el motivo que impide su asistencia a la sesión, pudiendo concederse la delegación de forma genérica o expresando el sentido del voto para los diversos puntos del orden del día. El reglamento del Consejo Social establecerá el número máximo de delegaciones por miembros del Consejo Social.
+
+### Artículo 18
+
+Artículo 18. Reglamento de organización y funcionamiento.
+1. El Consejo Social elaborará su Reglamento de organización y funcionamiento que se someterá a la aprobación del Consell de la Generalidad.
+2. El Reglamento del Consejo Social regulará, necesariamente, el número y la periodicidad de las sesiones ordinarias y las extraordinarias del Pleno del Consejo Social, y el quórum o régimen de mayorías requeridas para adoptar acuerdos.
+3. El Consejo Social establecerá en su Reglamento un procedimiento para que, en caso de reiterado incumplimiento de sus obligaciones en el cargo por alguno de sus miembros, se proponga razonadamente su sustitución a quien lo hubiere designado.
+
+### Artículo 19
+
+Artículo 19. Quórum y régimen de votación.
+1. Para la válida constitución del pleno del Consejo Social se requiere la asistencia del presidente o la presidenta y secretario-director o secretaria-directora, o de quienes legalmente les sustituyan, y de la mitad de los vocales.
+2. La designación de representantes del Consejo Social en el Consejo de Gobierno se efectuará por votación de los miembros designados en representación de los intereses sociales y recaerá en aquellos que obtengan mayor número de votos.
+3. En caso de empate en las votaciones, decidirá el voto de calidad del Presidente o la Presidenta, excepto en las votaciones para la elección de miembros del Consejo Social en otros órganos o instituciones, en cuyo caso, será designado el de mayor antigüedad en el cargo.
+Se modifica el apartado 1 por el art. único.14 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Artículo 20
+
+Artículo 20. Régimen jurídico-administrativo de los acuerdos.
+Los acuerdos del Pleno y los adoptados por delegación de éste agotan la vía administrativa, siendo directamente impugnables ante el orden jurisdiccional contencioso-administrativo, sin perjuicio de los recursos administrativos previos que el ordenamiento jurídico establezca.
+
+### Artículo 21
+
+Artículo 21. Ejecución y publicación de los acuerdos.
+1. Corresponde al rector o la rectora de la universidad la ejecución de los acuerdos adoptados por el Consejo Social. A tal fin, el secretario-director o la secretaria-directora del órgano remitirá al rectorado, con el visto bueno del presidente o la presidenta del Consejo Social, certificación de los acuerdos adoptados.
+2. El Rector o la Rectora ordenará la publicación en el «Diario Oficial de la Generalidad Valenciana» de aquellos acuerdos que, de conformidad con la normativa vigente, requieran publicidad y de aquellos otros cuya publicación se estime conveniente a criterio del propio Consejo Social.
+Se modifica el apartado 1 por el art. único.15 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Artículo 22
+
+Artículo 22. Presupuesto del Consejo Social.
+1. El Consejo Social de la universidad anualmente propondrá al Consejo de Gobierno su propio presupuesto para su inclusión en los presupuestos de la universidad en un programa específico que comprenderá el crédito necesario para atender las necesidades de personal y medios materiales que demande el correcto funcionamiento de sus servicios en cada ejercicio.
+2. Los gastos de personal de los Consejos Sociales correspondientes a la estructura mínima establecida en la presente Ley, serán financiados mediante las dotaciones que con tal finalidad se consignen en los presupuestos de la Generalidad Valenciana.
+
+### Artículo 23
+
+Artículo 23. Medios al servicio del Consell.
+1. El reglamento del Consejo Social fijará la organización administrativa y de servicios necesarios para su adecuado funcionamiento, que estará bajo la dirección del secretario-director o la secretaria-directora, y que deberá contar con las unidades administrativas necesarias para posibilitar el efectivo ejercicio de las funciones que esta ley atribuye al Consejo Social, que como mínimo serán las siguientes:
+Un servicio económico-presupuestario.
+Un servicio de régimen jurídico y administrativo.
+2. La relación de puestos de trabajo de la universidad incluirá los correspondientes a la organización administrativa y de servicios del Consejo Social, y cuya clasificación deberá realizarse de acuerdo con el mismo.
+3. El personal de administración y servicios adscrito a los puestos de trabajo incluidos en la organización administrativa del Consejo Social dependerá funcionalmente del Presidente o la Presidenta.
+Se modifica el apartado 1 por el art. único.16 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Cada Consejo Social, con 10 días de antelación a la fecha prevista de aprobación de la propuesta de presupuesto de la universidad para cada ejercicio, la remitirá a la conselleria competente en materia de universidades, junto con la plantilla del personal de todas las categorías de la universidad, en la que se relacionarán debidamente clasificadas todas las plazas y puestos de trabajo, especificando la totalidad de los costes de la misma, y podrá recabar información sobre las dotaciones que, en el programa presupuestario destinado a universidades y estudios superiores del proyecto de ley de presupuestos de la Generalitat para el ejercicio de que se trate, están previstas tanto para cada universidad, como para el conjunto de ellas, cuando dicho importe no se encuentre distribuido, a los efectos de prever con la mayor aproximación posible los ingresos procedentes de la Generalitat con cargo al referido programa presupuestario.
+Se modifica por el art. 76 de la Ley 16/2008, de 22 de diciembre. Ref. BOE-A-2009-1603
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+A los efectos de las precedencias protocolarias reguladas por el Decreto 235/1999, de 23 de diciembre, del gobierno valenciano, por el que se regula el régimen de precedencias en el ámbito de la Comunitat Valenciana, se considerará al presidente o la presidenta de cada Consejo Social de las universidades públicas valencianas incluido en el número 13 del artículo 3 del citado decreto.
+Se modifica por el art. único.17 y 18 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+ Su anterior numeración era disposición adicional tercera.
+ Se deroga por la disposición derogatoria de la Ley 4/2007, de 9 de febrero. Ref. BOE-A-2007-6118#dd
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+A los efectos de las precedencias protocolarias reguladas por el Decreto 235/1999, de 23 de diciembre, del Gobierno Valenciano, por el que se regula el régimen de precedencias en el ámbito de la Comunidad Valenciana, se considerará al Presidente o la Presidenta de cada Consejo Social de las Universidades Públicas Valencianas incluido en el número 13 del artículo 3 del citado Decreto.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Aquellas personas que, en el momento de la entrada en vigor de la presente ley, ostenten la condición de miembro del Consejo Social, permanecerán en dicha condición hasta la finalización de su mandato. Aquellos que estuvieran en su primer mandato de cuatro años, podrán ser nuevamente designados por otro periodo consecutivo, por una sola vez. En el caso de aquellos que estuvieran en su segundo mandato, conforme a lo dispuesto en el artículo 7.1 de esta misma ley, no podrán optar a una nueva designación.
+Se modifica por el art. único.19 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Los consejos sociales de las universidades públicas valencianas, en el plazo máximo de un año desde la aprobación de esta ley, adecuarán su Reglamento de organización y funcionamiento. En tanto no se produzca la aprobación del nuevo Reglamento de organización y funcionamiento, mantendrá su vigencia el actual en cuanto no se oponga a lo dispuesto en esta ley.
+Se modifica por el art. único.20 de la Ley 7/2024, de 30 de diciembre. Ref. BOE-A-2025-716
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Queda derogada la Ley 4/1985, de 16 de marzo, del Consejo Social de las Universidades de la Comunidad Valenciana, así como cuantas disposiciones de igual o inferior rango se opongan o contradigan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consell de la Generalidad a dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de lo dispuesto en la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el mismo día de su publicación en el «Diario Oficial de la Generalidad Valenciana».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 28 de enero de 2003.
+JOSÉ LUIS OLIVAS MARTÍNEZ,
+Presidente

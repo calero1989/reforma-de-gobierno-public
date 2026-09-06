@@ -1,0 +1,340 @@
+# Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria.
+
+- Identificador BOE: `BOE-A-1998-10407`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-10407
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La Ley 38/1985, de 22 de noviembre, del Monopolio Fiscal de Tabacos, dictada con motivo de la incorporacion de España a las Comunidades Europeas, debe ser reformada para aplicar en el sector tabaquero español el principio de «libertad de empresa», consagrado en el artícu lo 38 de la Constitución, a las actividades de elaboración, importación y venta al por mayor de los productos del tabaco. La liberalización de dichas actividades se produce tanto porque no subsisten razones para seguir aplicando en esas fases la excepción autorizada por el artículo 128.2 de la Constitución Española al principio general de libertad de la iniciativa privada que predica el artículo 38 de la propia Constitución, como por ser coherente con la introducción de elementos liberalizadores de la economía que comporta el proceso de privatización de empresas públicas en curso. Ello supone extender la aplicación a los elaborados del tabaco originarios de terceros países del régimen existente para los productos comunitarios desde 1986.
+Se trata, por tanto, de sustituir para las repetidas fases la intervención del Estado en el mercado del tabaco por una nueva actividad meramente reguladora o de vigilancia que salvaguarde la aplicación de los criterios de neutralidad y las condiciones de libre competencia efectiva, de tal forma que, dejando actuar a todos los sujetos que lo deseen, se supervise por un órgano estatal el correcto desenvolvimiento de tal actividad empresarial. En consecuencia, la nueva Ley suprime los actuales monopolios de fabricación, de importación y de comercio al por mayor para las labores de tabaco no procedentes de los Estados miembros de la Unión Europea.
+La nueva normativa mantiene, en cambio, siguiendo la jurisprudencia comunitaria y su reciente sentencia del Tribunal de Justicia de las Comunidades Europeas de 14 de diciembre de 1995 (asunto C-387/93 «Caso Banchero»), el monopolio del comercio al por menor de labores de tabaco a favor del Estado a través de la Red de Expendedurías de Tabaco y Timbre. El mantenimiento de la titularidad del Estado en el monopolio de comercio al por menor de labores de tabaco, que continúa revis tiendo el carácter de servicio público, constituye un instrumento fundamental e irrenunciable del Estado para el control de un producto estancado como es el tabaco, con notable repercusión aduanera y tributaria. Por añadidura, la continuidad de la amplia red minorista de Expendedurías de Tabaco y Timbre, con garantía probada de neutralidad, evita la aparición de oligopolios que podrían afectar negativamente a dicha neutralidad, recortar el derecho de opción del consumidor y promocionar el consumo de tabaco, garantiza al adquirente la regularidad en el abastecimiento y la legalidad y adecuada conservación de los productos, asegura la venta de efectos timbrados y signos de franqueo en todo el territorio nacional y propicia una más amplia vinculación con la red de establecimientos de Loterías, Apuestas y Juegos del Estado.
+Se recoge asimismo la prohibición de realizar actividades promocionales por parte de fabricantes, importadores o mayoristas, a los expendedores de tabaco y timbre o a los puntos autorizados para la venta con recargo, por cuanto tales prácticas podrían alterar los principios de neutralidad y de igualdad de la red minorista, evitando, de este modo, cualquier tipo de presión de forma contraria a los principios sanitarios que presiden la lucha contra el tabaquismo.
+Se establece que el acceso a la titularidad de una expendeduría se realizará previa convocatoria de un procedimiento de subasta, en la que se adjudicará al mejor precio ofertado y referida a zonas o polígonos definidos con criterios comerciales, de rentabilidad, de servicio público, de distancias entre expendedurías y de población. A la mencionada subasta podrán concurrir quienes con plena capacidad de obrar acrediten unos criterios de selección mínimos determinados reglamentariamente tales como la solvencia técnica y económica, las características del local, del entorno y de distancias entre expendedurías que se especifiquen, entre otros. Las condiciones de ejercicio de tal actividad se configurarán en el Estatuto Concesional que aprobará el Gobierno, en el cual se potenciará el carácter comercial de las expendedurías para la mejor atención del servicio público en el tiempo y el espacio.
+La Ley crea el Comisionado para el Mercado de Tabacos como Organismo autónomo que sustituirá a la Delegación del Gobierno en el Monopolio de Tabacos. El Comisionado se regirá por la presente Ley, las disposiciones del Título III de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, y los Estatutos que apruebe el Gobierno. Las funciones del Organismo se centran en las de índole reguladora o de vigilancia para salvaguardar de manera neutral la aplicación de las condiciones de libre competencia efectiva por parte de los operadores en el mercado de tabacos; el Comisionado constituirá, asimismo, el órgano de interlocución y relación con los distintos operadores del mercado de tabacos y las organizaciones que les representen.
+Como garantía de la aplicación de los preceptos de la presente Ley, se tipifican las infracciones por violación de las reglas de ordenación del mercado de tabacos que la misma establece, sin incidir en las ya contempladas en otras normas legales de distinto carácter aplicables al sector, y se establecen las pertinentes sanciones para los infractores.
+Esta Ley también consagra la doctrina del principio de la libertad de circulación dentro de la Unión Europea en materia de venta minorista por parte de los expendedores consagrada en este caso por la Sentencia del Tribunal de Justicia de la Unión Europea, de 26 de abril de 2012, dictada en el Asunto C-456/10, y por la Sentencia del Tribunal Supremo, de 8 de noviembre de 2012, dictada en el recurso contencioso-administrativo número 1/59/2007.
+Cabe resaltar, por último, que la presente norma legal no comporta alteraciones de las actuales restricciones sanitarias en materia de publicidad y venta de tabacos, ni supone modificación alguna de la Ley Orgánica 12/1985, de 12 de diciembre, de Represión del Contrabando.
+Se añade el penúltimo párrafo por la disposición final 1.1 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+ Se modifica el párrafo 5 por la disposición final 8.1 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+
+### Artículo 1
+
+Artículo 1. Liberalización del mercado de tabacos.
+Uno. Se liberaliza el mercado de tabacos, con las limitaciones establecidas en la presente Ley, y, en consecuencia, se declaran extinguidos en el territorio peninsular, islas Baleares, Ceuta y Melilla el monopolio de fabricación y el monopolio de importación y de comercialización al por mayor de labores de tabaco manufacturado no comunitarias, contenidos en la Ley 38/1985, de 22 de noviembre, del Monopolio Fiscal de Tabacos.
+Dos. Cualquier persona física o jurídica con capacidad legal para el ejercicio del comercio podrá realizar las actividades enunciadas en el apartado uno, en la forma y con las condiciones que se establecen en los artículos 2 y 3 de la presente Ley. No obstante, no podrán desarrollar tales actividades las que estén incursas, o incurran, en alguna de las siguientes situaciones:
+a) Estar declarada en quiebra o suspensión de pagos en España o situaciones equivalentes en su país de origen, o incursa en procedimiento de apremio como deudora de cualquier Administración pública.
+b) Haber sido condenada o sancionada mediante sentencia firme o resolución administrativa de igual carácter por delito o infracción administrativa de contrabando o por delito contra la Hacienda Pública.
+c) Ser titular de una expendeduría de tabaco y timbre, de una autorización de punto de venta con recargo, o de una expendeduría de tabacos de régimen especial de las previstas en la disposición adicional séptima de la presente Ley. Esta limitación no regirá en el caso de introducción en el territorio de aplicación de esta Ley por los titulares de expendedurías de tabaco y timbre de labores de tabaco que tengan la condición de mercancías comunitarias según el artículo 4.7 Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992, por el que se aprueba el Código aduanero comunitario procedentes de otros Estados de la Unión Europea, sin perjuicio del cumplimiento de la normativa fiscal aplicable.
+Tres. Para la comercialización al por menor de las labores de tabaco en España, con excepción de las islas Canarias, se estará a lo dispuesto en el artículo 4 de la presente Ley.
+Se modifica el apartado 2.c) por la disposición final 1.2 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+
+### Artículo 2
+
+Artículo 2. Régimen jurídico de la fabricación de labores de tabaco.
+Uno. La instalación de nuevos centros fabriles para la producción de labores de tabaco será libre, siempre que se cumplan los requisitos generales establecidos en las normas para la apertura de centros fabriles y los demás exigidos por la legislación vigente.
+Dos. Además de lo anterior, el establecimiento de nuevos fabricantes en el ámbito territorial a que se refiere el artículo 1, apartado uno, requerirá la presentación de una declaración responsable ante el Comisionado para el Mercado de Tabacos, que en el plazo máximo de quince días desde su presentación podrá acordar motivadamente la no eficacia de la misma, previa verificación de la idoneidad de las condiciones de almacenamiento de las labores producidas, en los términos que reglamentariamente se establezcan.
+Tres. Los fabricantes y, en su caso, los importadores deberán garantizar que sus productos lleguen a todo el ámbito territorial a que se refiere el artículo 1, apartado uno, siempre que exista demanda de los mismos.
+Se modifica el apartado 2 por el art. 43.1 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se añade el apartado 3 por el art. 42.1 del Real-Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Artículo 3
+
+Artículo 3. Régimen jurídico de la importación y distribución al por mayor de labores de tabaco.
+Uno. Será libre la importación y distribución al por mayor de labores de tabaco, cualquiera que sea su procedencia, sin más requisito que la presentación de una declaración responsable ante el Comisionado para el Mercado de Tabacos, que en el plazo máximo de quince días desde su presentación podrá acordar motivadamente su ineficacia, previa verificación del requisito establecido en los apartados dos y tres siguientes.
+Dos. La importación en territorio peninsular español, Islas Baleares, Ceuta y Melilla de labores de tabaco conllevará el control por parte del Comisionado para el Mercado de Tabacos de la disponibilidad de almacenes, propios o contratados, que permitan el correcto almacenamiento, y en condiciones de seguridad, de los productos así como la fácil comprobación por la Administración de las labores almacenadas, su origen y sus movimientos, salvo que el importador asegure la remisión directa del producto al almacén de cualquiera de los fabricantes o mayoristas registrados en el Comisionado para el Mercado de Tabacos.
+Tres. La distribución mayorista, en el ámbito territorial a que se refiere el artículo 1, apartado uno, conllevará el control por parte del Comisionado para el Mercado de Tabacos de la disponibilidad de almacenes, propios o contratados, que permitan el correcto almacenamiento, y en condiciones de seguridad, de los productos así como la fácil comprobación por la Administración de las labores almacenadas, su origen y sus movimientos.
+Cuatro. Los mayoristas sólo podrán suministrar tabaco elaborado a los expendedores de tabaco y timbre y no podrán remunerar a éstos más que con la retribución establecida por esta ley. Los plazos de pago, y cualesquiera otras condiciones de crédito y distribución al expendedor, se establecerán libremente por el mayorista, previa comunicación al Comisionado, en los términos que reglamentariamente se señalen, y serán homogéneas para todo el territorio a que se refiere el artículo 1, apartado uno, de modo que se garantice la neutralidad del suministro.
+Cinco. El mayorista suministrará los productos cuya distribución realice con regularidad y con garantía de cobertura de los suministros, en similares condiciones de servicio y plazos de entrega para todos los expendedores. Se entenderá por regularidad, a los efectos de este artículo, el suministro al menos con la periodicidad que se fije en las normas reglamentarias y, además, siempre que el pedido alcance el mínimo que aquéllas establezcan aunque no hubiera transcurrido el período máximo de suministro.
+Seis. Los fabricantes, importadores y mayoristas no podrán financiar, directa o indirectamente, a las organizaciones representativas de los expendedores y de los autorizados para la venta con recargo. Cualquier acuerdo, con o sin contenido económico, relacionado con el tabaco o ajeno a él, deberá someterse a la aprobación del Comisionado, que resolverá en el plazo de un mes.
+Se modifica por el art. 43.2 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifican los apartados 3 y 4 por el art. 18 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+ Se modifica la letra c) del apartado 3 y el apartado 5 por el art. 42 del Real-Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+### Artículo 4
+
+Artículo 4. Del comercio al por menor de labores de tabaco.
+Uno. El comercio al por menor de labores de tabaco en España, con excepción de las islas Canarias, se mantiene en régimen de monopolio del que es titular el Estado, que lo ejerce a través de la Red de Expendedurías de Tabaco y Timbre.
+Dos. Los precios de venta al público de los distintos tipos, marcas y modalidades de tabaco destinados a ser comercializados en España, con excepción de las islas Canarias, se determinarán por los fabricantes o, en su caso, sus representantes o mandatarios en la Unión Europea, en el caso de los producidos dentro de ella, de acuerdo con lo establecido en el artículo 9, apartado 1, segundo párrafo, de la Directiva 95/59/CE del Consejo, de 27 de noviembre de 1995. En el supuesto de los elaborados fuera de dicho territorio se determinarán por su importador. Los fabricantes e importadores pondrán los precios en conocimiento tanto del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria a los efectos prevenidos en la normativa reguladora de los Impuestos Especiales, como del Organismo autónomo Comisionado para el Mercado de Tabacos a efectos de su publicación, en el plazo máximo de un mes, en el «Boletín Oficial del Estado» para su publicidad y eficacia general.
+Tres.Los expendedores de tabaco y timbre, que habrán de ser necesariamente personas físicas, nacionales de cualquiera de los Estados de la Unión Europea, se configuran como concesionarios del Estado. Los expendedores no podrán estar incursos, ni incurrir, en ninguna de las situaciones previstas en las letras a) y b), del apartado Dos, del artículo 1 de esta Ley, no podrán ser titulares de otra expendeduría o de un punto de venta con recargo, ni podrán tener vinculación profesional o laboral con cualquiera de los importadores, fabricantes o distribuidores al por mayor del mercado de tabaco, salvo que dicha vinculación finalice antes de la adjudicación definitiva de la expendeduría. No obstante, los titulares de expendedurías de tabaco y timbre podrán mantener una vinculación laboral o profesional con otros operadores mayoristas a los exclusivos efectos de realizar la introducción de labores de tabaco prevista en el artículo 1.Dos.c) de la presente Ley.
+Cuatro. La concesión de expendedurías se realizará previa convocatoria de un procedimiento de subasta, en la que se adjudicará al mejor precio ofertado, y referida a zonas o polígonos definidos con criterios comerciales, de rentabilidad, de servicio público, de distancias entre expendedurías y de población. La subasta se convocará por el Ministerio de Hacienda y Administraciones Públicas, al que corresponderá igualmente, en su caso, su revocación, previo informe en ambos supuestos del Comisionado para el Mercado de Tabacos.
+A la mencionada subasta podrán concurrir quienes con plena capacidad de obrar acrediten unos criterios de selección mínimos determinados reglamentariamente tales como la solvencia técnica y económica, las características del local, del entorno y de distancias entre expendedurías que se especifiquen, entre otros.
+La concesión tendrá una duración de veinticinco años. Vencido el plazo de vigencia, se convocará subasta para la provisión de nuevas expendedurías. Hasta la nueva adjudicación, el anterior concesionario podrá seguir prestando el servicio previa autorización del Comisionado para el Mercado de Tabacos.
+Dentro del plazo de concesión, las expendedurías pueden ser transmitidas a cualquier persona física que reúna los requisitos exigidos para ser concesionario, previa autorización del Comisionado para el Mercado de Tabacos.
+No podrán solicitar la transmisión ni participar en subastas aquellos titulares de expendedurías que hayan sido sancionados por una infracción muy grave en los últimos cinco años, o dos graves, en los últimos tres años, siempre que sean firmes en vía administrativa.
+Asimismo, tampoco podrán solicitar la transmisión aquellos titulares de expendedurías que se encuentren incursos en procedimientos sancionadores en materia de mercado de tabacos hasta su resolución y archivo.
+Cinco. No obstante lo previsto en el apartado cuatro anterior, corresponde al Comisionado para el Mercado de Tabacos otorgar autorizaciones de puntos de venta con recargo de labores de tabaco a personas o entidades en las condiciones que reglamentariamente se fijen, que deberán respetar los principios de publicidad y concurrencia y las limitaciones y prohibiciones que establece la legislación en materia de venta, suministro, consumo y publicidad de los productos del tabaco.
+Los titulares de autorización para la venta con recargo deberán abastecerse necesariamente a los precios de tarifa, en la expendeduría del término municipal de que se trate, de entre las tres expendedurías más próximas al lugar cuyo servicio se pretende atender, tratándose de cigarros la elección podrá hacerse entre las tres expendedurías más próximas que dispongan de las instalaciones adecuadas para su conservación, con diversidad de vitolas, y que garanticen un suministro inmediato. La expendeduría asignada, seleccionada por el titular de dicha autorización, será comunicada al Comisionado para el Mercado de Tabacos y figurará en la autorización otorgada.
+Seis. La concesión se instrumentará con arreglo a un pliego concesional que establecerá las condiciones del contrato, incluido el canon o prestación patrimonial de carácter público a satisfacer por el concesionario de expendedurías de tabaco y timbre en el ámbito del monopolio de tabacos. El importe del canon, basado en criterios de población y de volumen de negocios, se determinará en las Leyes anuales de Presupuestos Generales del Estado. Las bases de la subasta, las cláusulas-tipo de los pliegos concesionales, las condiciones y requisitos para ser concesionario, los requisitos para la transmisión de la concesión, las causas de revocación de la misma, las obligaciones del expendedor y, en general, todo lo relativo al estatuto concesional serán objeto de desarrollo por vía reglamentaria.
+Siete. Se fija en el 8,5 por ciento sobre el precio de venta al público el margen de los expendedores por sus ventas de labores de tabaco. Dichas labores obligatoriamente habrán de ser adquiridas de alguno de los distribuidores habilitados, cualesquiera que sea el precio o clase de éstas, su origen o el comerciante mayorista que las suministre, sin perjuicio de la posibilidad de introducción directa por los titulares de expendedurías de tabaco y timbre de labores de tabaco prevista en el artículo 1.Dos.c) de la presente Ley, para lo que les será de aplicación el régimen general de los operadores mayoristas. No obstante lo anterior, la venta de cigarros, en todo caso, supondrá para el expendedor un margen del 9 por ciento.
+Ocho. Las expendedurías no podrán identificarse externamente con elementos propios logotipos o rótulos de ningún fabricante, marquista, o distribuidor concreto, o de cualquier otro operador en el mercado distinto de las propias expendedurías. Habrán de actuar con criterios eminentemente comerciales orientados a la mejor atención del servicio al público en cuanto a días y horario de apertura y cierre y a la suficiente y adecuada localización geográfica de las expendedurías, con arreglo a lo que disponga el estatuto concesional y las normas reglamentarias.
+Nueve. Se prohíbe la venta y suministro de productos de tabaco por cualquier otro método que no sea la venta directa personal o a través de máquinas expendedoras que guarden las condiciones señaladas en el artículo 4 de la Ley 28/2005, de 26 de diciembre, de medidas sanitarias frente al tabaquismo y reguladora de la venta, el suministro, el consumo y la publicidad de los productos del tabaco.
+Se modifica el apartado 9 por la disposición final 1 del Real Decreto-ley 17/2017, de 17 de noviembre. Ref. BOE-A-2017-13277
+ Se modifican los apartados 3, 4, 5, 7 y se añade el 9 por la disposición final 1. 3 a 8 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+ Se modifican los apartados 4 y 6 por la disposición final.8.2 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+ Se deroga el apartado 9 por la disposición derogatoria única. a) de la Ley 28/2005, de 26 de diciembre. Ref. BOE-A-2005-21261
+ Se modifican los apartados 4, 5 y 6 por el art. 19 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+
+### Artículo 5
+
+Artículo 5. Del Organismo autónomo Comisionado para el Mercado de Tabacos.
+Uno. Se crea el Comisionado para el Mercado de Tabacos, que tendrá la naturaleza de Organismo autónomo de los comprendidos en los artículos 45 y siguientes de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+Dos. El Organismo autónomo Comisionado para el Mercado de Tabacos tendrá personalidad jurídica propia, plena capacidad pública y patrimonio propio, actuará en régimen de Derecho Administrativo y estará adscrito al Ministerio de Economía y Hacienda a través de la Secretaría de Estado de Hacienda. Se regirá por lo dispuesto en la presente Ley y disposiciones que la desarrollen; por la Ley 6/1997, de 4 de abril, de Organización y Funcionamiento de la Administración General del Estado; por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en el ejercicio de las funciones públicas que en la presente Ley se le atribuyen; por el Real Decreto legislativo 1091/1988, de 23 de septiembre, de aprobación del texto refundido de la Ley General Presupuestaria, y por la Ley 13/1995, de 18 de mayo, de Contratos de las Administraciones Públicas.
+Tres. Sin perjuicio de las competencias que por esta Ley se reserva el Estado y que correspondan a órganos de la Administración General, el Comisionado para el Mercado de Tabacos ejercerá las de carácter regulador y de vigilancia para salvaguardar la aplicación de los criterios de neutralidad y las condiciones de libre competencia efectiva en el mercado de tabacos en todo el territorio nacional.
+En todo caso, las funciones del Comisionado no interferirán en los ámbitos competenciales que, en materia tributaria, aduanera, de represión del contrabando, sanitaria, agraria o de supervisión de la publicidad, correspondan a otros órganos o Departamentos de las Administraciones públicas.
+Cuatro. En particular el Organismo autónomo Comisionado para el Mercado de Tabacos desarrollará las siguientes funciones en los términos que reglamentariamente se determinen:
+a) Actuar como órgano de interlocución y relación con los distintos operadores del mercado de tabacos, ya fueren fabricantes, importadores, mayoristas, expendedurías de tabaco y timbre o puntos autorizados para la venta con recargo, y con las organizaciones que les representen.
+b) Vigilar para que los diversos operadores, incluidos los minoristas, en el mercado de tabacos actúen en el marco que respectivamente les corresponde según la presente Ley y su desarrollo reglamentario, ejerciendo a tal fin las facultades de inspección que sean precisas.
+c) Vigilar la calidad de los productos ofertados, de los utilizados en su elaboración y de los aditivos o sustancias incorporados, sin perjuicio del respeto al secreto de la producción industrial. Igualmente, corresponderá al Comisionado la comprobación del contenido y presupuestos de las actividades promocionales y publicitarias.
+d) Emitir informes sobre el cumplimiento de los requisitos previstos en los artículos 2, apartado dos; 3, apartados dos y tres, de esta Ley, para el establecimiento de nuevos fabricantes, importadores o mayoristas, y de los contemplados en los apartados tres y cuatro del artículo 4, para el otorgamiento y revocación de expendedurías de tabaco y timbre.
+e) Autorizar el establecimiento, en lugares distintos de expendedurías, de puntos de venta al público con recargo, a tenor de lo establecido en el artículo 4, apartado cinco.
+f) Ejercer la actividad de mantenimiento de la Red de Expendedurías de Tabaco y Timbre en materia de cambios y modificaciones de emplazamiento, licenciamiento de almacenes y otras actuaciones conexas que sean encomendadas al Comisionado por vía reglamentaria.
+g) Vigilar la efectiva aplicación de los criterios sanitarios sobre publicidad, consumo y calidad del tabaco, en colaboración con las demás Administraciones públicas competentes salvo en lo que sea competencia exclusiva de tales Administraciones.
+h) Desarrollar las funciones a que se refiere el artícu- lo 6, apartado dos, de la presente Ley.
+i) Almacenar y custodiar las labores de tabaco aprehendidas o decomisadas en procedimientos de contrabando y proceder a su destrucción.
+j) Ejercer las funciones de arbitraje en los conflictos entre operadores que las partes le encomienden, en cuanto no correspondan a otro órgano de la Administración.
+k) Recibir las denuncias que se presenten por presunta violación de los principios y de las reglas de libre competencia en el mercado de tabacos y remitirlas a los órganos competentes para su tramitación y resolución.
+l) Ejercer la potestad sancionadora en los términos previstos en el artículo 7 de esta Ley.
+ll) Elaborar estadísticas, preparar informes y formular propuestas en materias del ámbito de sus competencias.
+m) Gestionar los recursos adscritos al Comisionado a que se refiere el apartado ocho del presente artículo.
+n) Cualquiera otra que se le atribuya legal o reglamentariamente por no estar encomendada a otro órgano de las Administraciones públicas.
+Cinco. El Presidente del Organismo autónomo Comisionado para el Mercado de Tabacos será nombrado y separado por el Ministro de Economía y Hacienda. Le corresponderá la representación legal y la dirección del Organismo.
+Seis. El personal del Organismo autónomo Comisionado para el Mercado de Tabacos será funcionario o laboral, en los mismos términos que los establecidos para la Administración General del Estado.
+Siete. 1. Existirá un Comité Consultivo del Comisionado con funciones de asistencia y asesoramiento en el que estarán representados los operadores de cada una de las fases del proceso de producción y distribución de elaborados del tabaco, los consumidores y las Administraciones aduanera, tributaria, comercial, agroalimentaria y sanitaria en la forma que determine el Estatuto del Comisionado. Especialmente deberá emitir su informe en los supuestos previstos en el apartado cuatro, letra d), de este mismo artículo.
+2. Asimismo se crea una Comisión Asesora de la Producción, dentro del Comisionado, integrada por los sectores productor y de elaboración de tabaco, importadores y exportadores, con funciones asesoras, en los términos que reglamentariamente se señalen.
+Ocho. Anualmente el Comisionado elaborará su proyecto de presupuestos, que será objeto de integración en el anteproyecto de Ley de Presupuestos Generales del Estado. Los ingresos del Comisionado para el Mercado de Tabacos podrán provenir de las siguientes fuentes:
+a) La tasa que perciba por la realización de actividades que comporten prestaciones de servicios, conforme a lo previsto en el anexo a la presente Ley.
+b) Los productos y rentas de los bienes y valores que constituyan su patrimonio.
+c) El importe de las multas impuestas por infracción de lo prevenido en la presente Ley.
+d) Las consignaciones específicas que, en su caso, le sean asignadas en los Presupuestos Generales del Estado.
+e) Las transferencias corrientes o de capital que procedan de las Administraciones o entidades públicas.
+f) Cualquier otro recurso que pudiera serle atribuido.
+Nueve. El Gobierno aprobará el Estatuto del Comisionado que, de conformidad con lo previsto en la presente Ley y en la Ley 6/1997, de 14 de abril, regulará el régimen jurídico del Organismo, de sus órganos de dirección y de su personal, desarrollará sus funciones, las normas de régimen interior y las de funcionamiento, regulará el patrimonio y recursos económicos del Organismo, así como el régimen patrimonial y de contratación del mismo, y establecerá las disposiciones de carácter presupuestario, contable y de control que le serán de aplicación.
+Diez. El Presidente del Comisionado para el Mercado de Tabacos, respetando el deber de sigilo o secreto impuesto en las leyes, podrá recabar de los operadores del mercado de tabacos los datos y documentación que precise para el ejercicio de las funciones encomendadas a dicho Organismo autónomo por la presente Ley.
+Específicamente, el Comisionado para el Mercado de Tabacos, para poder ejercitar adecuadamente la competencia de supervisión establecida en el apartado Cuatro "b" de este artículo, podrá recabar de los expendedores de tabaco y timbre la información desglosada de las ventas diarias de labores de tabaco realizadas a puntos de venta con recargo y a particulares. A tal fin, podrá bien requerir la remisión de la citada información, dando un plazo de diez días para su remisión, bien obtener directamente, en el transcurso de la inspección a las expendedurías, una copia del archivo informático que contenga dicha información actualizada a esa fecha. Esta última previsión sólo afectará a los expendedores que dispongan de medios informáticos.
+La no remisión de la información requerida en el citado plazo o su no aportación en el momento de la inspección, tendrán la consideración de infracción grave conforme a lo dispuesto en el artículo 7 Tres 2 "d" de la presente Ley. En tales supuestos, y en caso de existir además desviaciones significativas entre las ventas efectuadas por la expendeduría y las que corresponderían a la normal demanda de la zona, el Comisionado podrá adoptar, en el acuerdo de inicio del correspondiente procedimiento sancionador, la medida de carácter provisional consistente en contingentar el suministro de labores de tabaco, limitando sus compras a la media de las registradas por las expendedurías de la misma localidad en el año anterior, si se tratara de expendedurías generales, o a la media provincial, si se tratara de expendedurías complementarias, al ser estas normalmente únicas en su respectiva localidad.
+Se modifican los apartados 4.l) y 10 por la disposición final 1.9 y 10 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+
+### Artículo 6
+
+Artículo 6. De la actividad promocional y de la publicidad.
+Uno. Los operadores en el mercado de tabacos sólo podrán desarrollar las actividades promocionales y publicitarias previstas por la Ley 26/1984, de 19 de julio, General de Publicidad, y por otras leyes y reglamentos, con las limitaciones establecidas por la normativa sanitaria.
+No obstante, para preservar el principio de igualdad de los expendedores en la retribución establecida en la Ley y el principio de neutralidad en la red minorista, no se podrá realizar, en ningún caso, actividad promocional de labores de tabaco destinada a los expendedores y titulares de autorización de punto de venta con recargo, ni utilizar a éstos o aquéllos como vía o instrumento para la entrega de incentivos dirigidos al público, con excepción de la información en la red, evitando, de este modo, cualquier tipo de presión de forma contraria a los principios sanitarios que presiden la lucha contra el tabaquismo.
+Dos. Las campañas y planes de publicidad de labores de tabaco se comunicarán antes de su inicio al Orga nismo autónomo Comisionado para el Mercado de Tabacos, quien, en el plazo de siete días siguientes a la comunicación, podrá, si considera fundadamente que no se ajustan a los principios generales establecidos en las leyes, suspender su desarrollo, dando traslado de las actuaciones al órgano competente en materia sanitaria o, en su caso, al órgano administrativo o jurisdiccional que proceda.
+
+### Artículo 7
+
+Artículo 7. De las infracciones y sanciones.
+Uno. Constituyen infracciones, a los efectos de esta Ley, los actos u omisiones de los sujetos que intervengan en el mercado de tabacos que supongan una vulneración sancionable del régimen jurídico de las actividades reguladas en la presente Ley.
+Dos. La competencia para la instrucción de los expedientes de infracción y para la imposición de las sanciones correspondientes se regirá por las siguientes reglas:
+a) La iniciación de los expedientes sancionadores se realizará, de oficio o a instancia de parte, por los servicios del Organismo autónomo Comisionado para el Mercado de Tabacos.
+b) La instrucción de los expedientes corresponderá igualmente a los servicios del Comisionado, dándose previa audiencia al interesado antes de formular la propuesta de resolución que proceda.
+c) La imposición de las correspondientes sanciones corresponderá al Presidente del Organismo autónomo Comisionado para el Mercado de Tabacos, excepto en los casos de sanciones por infracciones muy graves, en que será competente el Subsecretario de Economía.
+Tres. 1. Constituyen infracciones muy graves:
+a) El abandono por los expendedores de su actividad, la cesión de la expendeduría en forma ilegal, la aceptación de retribuciones no autorizadas legalmente, la venta a precios distintos de los fijados legalmente, el traslado del lugar de venta sin la debida autorización, el suministro por el expendedor a diez o más puntos de venta con recargo no asignados, así como la comisión de dos o más infracciones graves por el suministro o transporte por el expendedor a un punto de venta con recargo no asignado.
+b) La aceptación de retribuciones no autorizadas en los puntos de venta con recargo.
+c) El ofrecimiento por los fabricantes, importadores, marquistas y distribuidores mayoristas, por sí o mediante sus agentes o representantes o por terceros, a los expendedores, o a los puntos de venta con recargo, o la aceptación por estos dos últimos, de un margen, directo o indirecto, distinto al fijado por la Ley.
+d) El ofrecimiento por los fabricantes, importadores, marquistas o mayoristas, por sí o mediante sus agentes o representantes, a las organizaciones representativas de los expendedores o autorizados para la venta con recargo, de retribuciones, convenios o acuerdos, que pretendan influir en su obligada neutralidad.
+2. Constituyen infracciones graves:
+a) El incumplimiento por los expendedores de las obligaciones que en su estatuto concesional hagan referencia a los días y al horario de apertura del establecimiento, a la obligatoriedad de gestión personal directa y de residencia en el lugar, a la tenencia del nivel mínimo de existencias reclamado por el servicio público, la inobservancia de las condiciones de suministro a particulares y de suministro a los puntos de venta con recargo, así como el transporte a un punto de venta con recargo no asignado.
+b) La discriminación por los expendedores en vitrinas o escaparates de productos, marcas o fabricantes, así como la identificación externa mediante logotipos, rótulos o elementos identificativos de fabricantes, marquistas o distribuidores concretos y la publicidad en el exterior del establecimiento de sus marcas o productos.
+c) La ausencia reiterada, en los puntos de venta con recargo, de existencias de las labores más demandadas, la venta a precios distintos de los establecidos en los puntos de venta con recargo, así como la identificación en el exterior del establecimiento en que se encuentre sito el punto de venta mediante logotipos, rótulos o elementos identificativos de fabricantes, marquistas o distribuidores y la publicidad en el exterior del establecimiento de sus marcas o productos.
+d) El falseamiento o la falta de comunicación injustificada, dentro de los plazos que fije el Presidente del Comisionado para el Mercado de Tabacos, de los documentos, datos o informaciones que deban proporcionar los operadores para los fines propios del Comisionado, a tenor de lo establecido en el artículo 5, apartado diez, o de los proyectos de campañas y planes de publicidad a que se refiere el artículo 6, apartado dos, o de la documentación y presupuestos de las promociones realizadas, previstos en el artículo 5, apartado cuatro, letra c).
+e) La negativa de los distribuidores mayoristas a suministrar labores de tabaco en los términos dispuestos en los apartados cuatro y cinco del artículo 3, salvo causa justificada. A estos efectos, se considera causa justificada, entre otras que pudieran acreditarse ante el Comisionado para el Mercado de Tabacos, la existencia reiterada de pagos pendientes al distribuidor, por importe superior a la media mensual del total de las ventas realizadas por el expendedor en el año inmediatamente anterior.
+f) La resistencia, negativa u obstrucción a la acción inspectora del Comisionado para el Mercado de Tabacos respecto al cumplimiento por los sujetos intervinientes en el sector de las obligaciones que les impone la presente Ley.
+g) La obtención o suministro de labores de tabaco por proveedores distintos de los autorizados cuando tales acciones no sean calificadas por los órganos competentes como delitos o infracciones de contrabando.
+3. Constituyen infracciones leves:
+a) El incumplimiento por los expendedores de las normas sobre atención al público establecidas en el Estatuto Concesional de la Red de Expendedurías de Tabaco y Timbre.
+b) La ausencia de exhibición en sitio visible, por parte de los expendedores y de las personas o entidades autorizadas para la venta con recargo, de las tarifas oficiales de precios o de los documentos acreditativos de la concesión o la autorización.
+c) Cualquier otra infracción del régimen jurídico de la actividad de venta al por menor tipificada en el Estatuto Concesional como actuación negligente en la prestación del servicio y no configurada como infracción muy grave o grave.
+d) Cualquier otra infracción de lo previsto en esta Ley por cualquiera de los operadores en el mercado de tabacos no tipificada como infracción grave o muy grave.
+e) Igualmente se considerará infracción de este carácter la venta de tabaco sin la debida autorización administrativa, cuando no constituya delito o infracción administrativa de contrabando según su legislación específica. Se entenderá también incluido en este supuesto el almacenamiento no autorizado de labores de tabaco con destino a su venta. Se presumirá que tal destino existe cuando las labores estuvieran situadas en un establecimiento mercantil abierto al público o de la actitud y conducta de su poseedor se dedujese patentemente el ofrecimiento al público para su venta.
+Cuatro. Las infracciones a que se refiere esta Ley serán sancionadas en la forma siguiente:
+a) Las infracciones muy graves, con la revocación de la concesión a los expendedores y de la autorización a los puntos de venta con recargo, o con la extinción de la habilitación a los fabricantes, importadores o distribuidores mayoristas, o con multa entre 120.202,42 y 300.506,05 €, con la excepción establecida en la letra d) siguiente.
+b) Las infracciones graves, con suspensión temporal del ejercicio de la concesión o de la autorización de venta con recargo, por plazo de hasta seis meses, o con multa desde 12.020,24 y hasta 120.202,42 €, con la salvedad establecida en la letra d) siguiente.
+c) Las infracciones leves, con multa de hasta 12.020,24 €, con la excepción establecida en la letra d) siguiente.
+d) En el caso de los establecimientos autorizados para la venta con recargo, las multas serán de hasta 601,01 €, entre 601,01 y hasta 3.005,06 €, o entre 3.005,06 y hasta 12.020,24 €, según se trate respectivamente de infracciones calificadas de leves, graves o muy graves.
+e) Las infracciones a que se refiere la letra e) del apartado 3 del número tres del presente artículo se sancionarán con multa de hasta 3.005,06 €, respondiendo solidariamente, junto con el sujeto infractor, el titular del establecimiento en que la infracción se realizase si aquel fuese su empleado o dependiente o si se cometiese con su conocimiento.
+Cinco. Las sanciones económicas se graduarán atendiendo a la transcendencia económica y social de las infracciones cometidas, al ánimo de prevalerse de ventajas competitivas frente a otro sujeto del sector, al lucro obtenido con la acción infractora y a la previa comisión de una o más infracciones a esta Ley.
+Se modifica el apartado 3.1 y 2 por la disposición final 1.11 a 13 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+ Se modifica el apartado 4 por la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se modifican las letras a) de los apartados 3.1 y 3.2 por el art. 20 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+ Se convierten a euros las cuantías contempladas en el apartado 4 por la Resolución de 28 de septiembre de 2001. Ref. BOE-A-2001-18591
+ Se modifica el apartado 2.c) por el art. 64 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se modifican los apartados 3.2.b) y c), y se añaden las letras e) en los apartados 3.3 y 4 por la disposición adicional 20 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+A partir de la entrada en vigor de esta Ley, se extinguirá la Delegación del Gobierno en el Monopolio de Tabacos y, simultáneamente, se constituirá el Organismo autónomo denominado Comisionado para el Mercado de Tabacos. Las competencias de carácter regulador que actualmente ostenta la Delegación del Gobierno en el Monopolio, con las adaptaciones requeridas por la presente Ley, se asignarán al Comisionado del Mercado de Tabacos; las funciones administrativas que subsistan se atribuirán a los órganos del Ministerio de Economía y Hacienda que se determine reglamentariamente. Producida la sustitución de dichos órganos, toda referencia legal o reglamentaria a la Delegación del Gobierno en el Monopolio de Tabacos se entenderá hecha al Comisionado para el Mercado de Tabacos.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El personal que preste sus servicios en la Delegación del Gobierno en el Monopolio de Tabacos al aprobarse la presente Ley, se integrará automáticamente en el Comisionado para el Mercado de Tabacos si ya tuviera carácter laboral; el personal funcionario, igualmente, se integrará en el citado Organismo autónomo en puesto inicial de cometido análogo y remuneración similar al hasta ahora desempeñado, quedando en la situación de servicio activo en su Cuerpo o Escala de procedencia.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+La estructura organizativa inicial del Comisionado para el Mercado de Tabacos estará constituida por la establecida en la relación de puestos de trabajo y catálogo de personal laboral de la Delegación del Gobierno en el Monopolio de Tabacos en el momento de la entrada en vigor de la presente Ley.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Las subastas que se convoquen para la adjudicación de expendedurías a partir de la entrada en vigor de la presente Ley se ajustarán a los criterios establecidos en los apartados Tres, Cuatro y Seis del artículo 4.
+Se modifica por la disposición final 8.3 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+El procedimiento sancionador de las infracciones previstas en esta Ley se regirá, en tanto no sea objeto de desarrollo reglamentario, por lo dispuesto en el Real Decreto 1394/1993, de 4 de agosto, de Procedimiento Sancionador, en lo que no se oponga a la presente Ley.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+1. «Tabacalera, Sociedad Anónima» continuará gestionando el monopolio de distribución al por mayor del Timbre del Estado y Signos de Franqueo durante el plazo de cuatro años a partir de la fecha de entrada en vigor de la presente Ley, manteniéndose la comisión de «Tabacalera, Sociedad Anónima», en el 6 por 100 de la venta de estos efectos, en el que se incluye la comisión de los expendedores de tabaco y timbre, que ascenderá al 4 por 100 del referido importe. Transcurrido el plazo de cuatro años, se encomendará por el Consejo de Ministros, a propuesta del Ministro de Economía y Hacienda, a una entidad pública o privada la administración del monopolio de distribución al por mayor de Signos de Franqueo o de Efectos Timbrados, o de ambos, estando obligado quien resulte adjudicatario del contrato de distribución a garantizar el regular y suficiente suministro a las expendedurías de tabaco y timbre.
+2. A la entrada en vigor de la presente Ley, se entenderán otorgadas a «Tabacalera, Sociedad Anónima», las licencias para el desarrollo de las actividades de fabricación, importación y distribución al por mayor de elaborados de tabaco.
+3. Se entenderán también otorgadas tales licencias de importación y distribución al por mayor a las entidades que dispongan de ellas en la fecha de entrada en vigor de la presente Ley.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+1. Continuarán subsistentes las autorizaciones y concesiones de expendedurías de régimen especial, otorgadas al amparo de la normativa anterior o aduanera, así como las otorgadas a establecimientos autorizados para la venta de labores de tabaco libre de impuestos existentes al tiempo de la entrada en vigor de esta Ley aunque pierdan con posterioridad este carácter. Asimismo, podrán concederse nuevas autorizaciones para la venta de labores de tabaco, en el régimen fiscal que corresponda, a establecimientos que pudieran ser de este tipo, preexistentes o no, que no contasen con las oportunas autorizaciones a la entrada en vigor de esta Ley. El Gobierno, a propuesta del Ministro de Hacienda y Administraciones Públicas, desarrollará dicho régimen y, en su caso, introducirá las modificaciones del mismo que resulten necesarias.
+2. La concesión de las expendedurías de tabaco y timbre de los centros penitenciarios se entenderá otorgada, por ministerio de la Ley, al Organismo autónomo Trabajo y Prestaciones Penitenciarias o al Organismo autonómico competente al que se atribuya la gestión pública de este tipo de establecimientos. Reglamentariamente se establecerá el régimen de esta modalidad concesional.
+Se modifica el apartado 1 por la disposición final 2 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+El Ministerio de Economía y Hacienda elaborará, en el plazo de doce meses a contar desde la entrada en vigor de esta Ley, un informe sobre el ciclo completo del contrabando de labores de tabaco, que comprenderá, entre otros aspectos, el análisis de su origen, incluso la producción del tabaco, fabricación de las labores de tabaco, autorización, en su caso, para el uso de marcas determinadas, distribución mayorista y transporte, ya fuere en circuitos legales o ilícitos, los sujetos intervinientes, los cauces y mecanismos utilizados, beneficios obtenidos y por quiénes, así como los efectos e incidencias de dicho contrabando en el ámbito a que se refiere la presente Ley y en el marco de competencias del Ministerio de Economía y Hacienda, incluidas las vertientes aduanera y tributaria. El informe contendrá expresa formulación de conclusiones y propuestas concretas de medidas de toda índole y en relación con cualquier tipo de sujeto actuante en el mercado de tabacos, a adoptar para hacer frente al contrabando de labores de tabaco con la mayor eficacia. Como uno de los medios de allegar datos para la redacción del referido informe, se constituirá en el Comisionado para el Mercado de Tabacos un grupo de trabajo permanente que, incorporando representantes de los fabricantes de tabaco nacionales y extranjeros, analice las medidas y acciones más eficaces para la erradicación del contrabando, utilizando al efecto cuantos datos y antecedentes puedan ser solicitados en relación con los productos aprehendidos y con los circuitos comerciales utilizados como vía de penetración de los productos de contrabando. El citado grupo de trabajo, que podrá requerir el concurso de los demás sujetos intervinientes en el mercado de tabacos, independientemente de constituirse con carácter permanente, con objeto de promover la colaboración de los fabricantes en la lucha contra el contrabando, emitirá sus primeras conclusiones y dará traslado al Ministerio de Economía y Hacienda de las mismas y de los compromisos adoptados en el plazo de seis meses a partir de la entrada en vigor de esta Ley. La falta de colaboración por parte de los sujetos requeridos al efecto por el Comisionado será sancionada como infracción grave, de acuerdo con lo previsto en el artículo 7, tres, 2, letra d), de la presente Ley.
+Por el Ministerio de Sanidad y Consumo se elaborará, en igual plazo, un informe relativo a los aspectos sanitarios de las labores de tabaco de contrabando.
+De ambos informes se dará cuenta a la Comisión de Economía, Comercio y Hacienda del Congreso de los Diputados.
+
+### Disposición adicional novena
+
+La autoridad judicial o administrativa de todo el territorio nacional a cuya disposición se encuentran las labores de tabaco aprehendidas o decomisadas, en procedimiento de delito o infracción administrativa de contrabando, así como aquéllas que hayan sido objeto de abandono expreso o tácito a favor de la Hacienda Pública, ordenará que sean puestas a disposición del Comisionado para el Mercado de Tabacos a fin de que se proceda a su destrucción. En todo caso, la autoridad correspondiente extenderá la oportuna diligencia haciendo constar en las actuaciones la naturaleza y características de las labores de tabaco puestas a disposición del Comisionado.
+No obstante lo anterior, transcurrido un año desde la aprehensión o decomiso, el Comisionado para el Mercado de Tabacos procederá, previa comunicación a la autoridad judicial y administrativa correspondiente, a la destrucción de las labores de tabaco aprehendidas o decomisadas. La destrucción se podrá realizar en un plazo inferior cuando dichas labores no sean aptas para el consumo humano. En todo caso, si en el plazo de 15 días desde la comunicación a la autoridad administrativa o judicial competente, ésta no se pronunciase sobre la necesidad de conservación íntegra de las labores, el Comisionado para el Mercado de Tabacos conservará muestras suficientes a los efectos procesales o administrativos oportunos.
+Se modifica el primer párrafo por la disposición final 1.14 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+ Se modifica por el art. 22 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+ Véase también la disposición transitoria de la Ley 24/2005, de 18 de noviembre.
+ Se añade por el art. 64.2 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2005-19005
+
+### Disposición adicional décima
+
+Disposición adicional décima. Adaptación de los medios informáticos de los expendedores.
+Los expendedores que dispusiesen de medios informáticos deberán adecuarlos en el plazo de tres meses a partir de 1 de enero de 2014 a lo previsto en el apartado Diez del artículo 5 de esta Ley en el sentido de crear un archivo específico con la información a que se refiere dicho apartado a disposición inmediata y permanente del Comisionado y sus agentes.
+Se añade por la disposición final 1.15 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Quienes sean titulares de una expendeduría de tabacos y efectos timbrados a la entrada en vigor de la presente Ley deberán acomodar su actuación a lo que se establezca en el Estatuto Concesional que apruebe el Gobierno, sin que les sea de aplicación, en cambio, el canon que se disponga, con arreglo a lo establecido en el artículo 4, apartado seis, para las futuras concesiones, salvo en los casos de cambio o modificación de emplazamiento y, en general, de novación de la concesión.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Los acuerdos o convenios a que se refiere el apartado seis del artículo 3, vigentes a la entrada en vigor de la presente Ley, deberán someterse a la aprobación del Comisionado en el plazo máximo de tres meses a contar de la entrada en vigor de esta Ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Hasta que no se constituya el Comisionado para el Mercado de Tabacos y su Comité Consultivo, a que se refiere el artículo 5 de esta Ley, mantendrá su composición y competencias la Comisión Asesora regulada en el apartado 3 del artículo 16 del Real Decreto 2738/1986, de 12 de diciembre, y sus normas de desarrollo.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Pasados seis meses desde la entrada en vigor de esta Ley, y a los efectos de la tipificación de la infracción prevista en el artículo 7, apartado tres, punto 2, letra c), consistente en la inclusión por los puntos de venta con recargo de logotipos, rótulos o elementos identificativos de fabricantes, marquistas o distribuidores concretos, el mantenimiento de los logotipos, rótulos o elementos indentificativos referidos, equivaldrá, a todos los efectos, a su inclusión.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Transmisión y vigencia de las concesiones administrativas existentes con anterioridad a 1 de enero de 2013.
+Todas aquellas concesiones existentes que con anterioridad a 1 de enero de 2013 tuvieran un plazo de vigencia inferior a veinticinco años, por haber sido transmitidas en aplicación de lo dispuesto en el artículo 21 de la Ley 24/2005, de 18 de noviembre, de reformas para el impulso de la productividad, prorrogarán su vigencia otros cinco años más a contar desde el día de su extinción.
+Asimismo, todas aquellas concesiones existentes con anterioridad a 1 de enero de 2013 sin plazo de vigencia limitada, por no haber sido objeto de transmisión al amparo de la autorización concedida en el artículo 21 de la Ley 24/2005, de 18 de noviembre, de reformas para el impulso de la productividad, tendrán una vigencia temporal de 30 años a contar desde la fecha de la primera transmisión que se produzca a partir de 1 de enero de 2013.
+Vencido el plazo de treinta años, en ambos casos referidos en los dos párrafos anteriores las nuevas concesiones de expendeduría se convocarán, en su caso, mediante el procedimiento de subasta. Hasta la nueva adjudicación, el anterior concesionario podrá seguir prestando el servicio previa autorización del Comisionado para el Mercado de Tabacos.
+No podrán solicitar la transmisión ni participar en subastas aquellos titulares de expendedurías que hayan sido sancionados por una infracción muy grave en los últimos cinco años, o dos graves en los últimos tres años, siempre que sean firmes en vía administrativa. Asimismo, tampoco podrán solicitar la transmisión aquellos titulares de expendedurías que se encuentren incursos en procedimientos sancionadores en materia de mercado de tabacos hasta su resolución y archivo.
+Las concesiones administrativas existentes cuyo titular sea una persona jurídico privada tendrán una vigencia de treinta años desde el 19 de noviembre de 2005.
+Se modifica el penúltimo párrafo por la disposición final 1.16 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+ Se modifica por la disposición final.8.4 de la ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+ Se añade por el art. 21 de la Ley 24/2005, de 18 de noviembre.Ref. BOE-A-2005-19005
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas la Ley 38/1985, de 22 de noviembre, del Monopolio Fiscal de Tabacos; el segundo párrafo de la disposición derogatoria segunda de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y las demás que se opongan a lo dispuesto en la presente.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno para dictar las disposiciones reglamentarias precisas para el desarrollo de esta Ley y para actualizar la cuantía de las sanciones, así como para establecer el Estatuto del Comisionado para el Mercado de Tabacos y el Estatuto Concesional de la Red de Expendedurías de Tabaco y Timbre. En tanto ello no se produzca, seguirán en vigor las disposiciones reglamentarias dictadas con anterioridad a la fecha de entrada en vigor de la presente Ley.
+El primer desarrollo reglamentario y el establecimiento de los estatutos, a que se refiere el párrafo anterior, deberá efectuarse por el Gobierno en el plazo máximo de seis meses, desde la entrada en vigor de esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se autoriza al Ministro de Economía y Hacienda para adscribir al Organismo autónomo Comisionado para el Mercado de Tabacos los bienes patrimoniales que resul ten precisos, así como para acordar las modificaciones presupuestarias que se deriven de lo dispuesto en la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley no comportará por sí misma modificación alguna de lo establecido en la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando, ni de las actuales restricciones sanitarias en materia de publicidad y venta de tabacos.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+1. Esta Ley entrará en vigor a los veinte días de su completa publicación en el «Boletín Oficial del Estado».
+2. La prohibición contenida en el artículo 6, apartado nueve, relativa a la comercialización de labores de tabaco, en cualquier forma, en los locales y lugares donde exista la prohibición de fumar, entrará en vigor con el primer desarrollo reglamentario de esta Ley, y en cualquier caso, a los seis meses de su vigencia.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 4 de mayo de 1998.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ
+
+## ANEXO
+
+Tasa a la que se refiere el artículo 5, ocho, a), de la Ley de Ordenación del Mercado de Tabacos
+1. Hecho imponible:
+La exigencia de la tasa viene determinada por la prestación a los operadores del mercado de tabacos de los servicios siguientes:
+a) La comprobación del cumplimiento de las condiciones requeridas para el otorgamiento de la concesión de expendedurías de tabaco y timbre a que se refiere el artículo 4, apartado cuatro, de la Ley.
+b) La comprobación del cumplimiento de las condiciones requeridas para la obtención de la autorización de cada punto de venta con recargo de labores de tabaco a que se refiere el artículo 4, Cinco, de la Ley, así como la revisión de dichas condiciones en las sucesivas renovaciones de la autorización.
+c) El reconocimiento y homologación de locales y almacenes con ocasión del cambio o modificación de emplazamiento, ya sean definitivos o temporales, de expendedurías y la revisión de instalaciones para el caso de transmisión de su titularidad, según se establezca, a tenor del artículo 4, apartado seis, de la Ley, en el Estatuto Concesional, así como en los supuestos de realización de obras y autorización de almacenes.
+2. Sujetos pasivos:
+2. Serán sujetos pasivos:
+a) Los solicitantes que concurran a las subastas para la adjudicación de expendedurías de tabaco y timbre.
+b) Las personas físicas y jurídicas a cuyo favor se otorguen las autorizaciones de venta con recargo o sus renovaciones.
+c) Los concesionarios que insten el obligatorio reconocimiento, homologación y revisión de locales y almacenes con ocasión del cambio o modificación de emplazamiento, transmisión de expendedurías y autorización de obras o almacenes.
+3. Tarifas:
+La tasa por prestación de servicios a los operadores del mercado de tabacos se exigirá con arreglo a las tarifas siguientes:
+Tarifa 2. Solicitud de concesión de expendedurías de tabaco y timbre: Cuota de clase única:
+a. Situadas en municipios de más de 100.000 habitantes y capitales de provincia: 180,30 €.
+b. En municipios de más de 10.000 y menos de 100.000 habitantes:120,20 €.
+c. En municipios hasta 10.000 habitantes: 90,15 €.
+Tarifa 3. Concesión y renovación de autorizaciones de venta con recargo: Cuota clase única: 180,30 € por cada período trienal de autorización o renovación.
+Tarifa 4. Traslados, transmisiones, modificaciones, reconocimientos, revisiones y autorizaciones de o en expendedurías:
+Clase 1. Reconocimiento de locales en caso de cambios de emplazamiento o modificación de expendedurías, impliquen o no transmisión de la titularidad:
+a. Situadas en municipios de más de 100.000 habitantes y capitales de provincia: 360,61 €.
+b. En municipios de hasta 100.000 habitantes: 300,51 €.
+c. De expendedurías complementarias, en todo caso, 180,30 €.
+Clase 2. Revisión de instalaciones en caso de transmisión de titularidad que no implique cambio de emplazamiento. Reconocimiento de locales en caso de cambio o modificación temporal de emplazamiento. Autorización de obras o almacenes: Cuota de clase única: 150,25 €.»
+4. Devengo:
+Las tasas se devengarán, según los casos, en el momento de depositar las instancias para la subasta de concesión de expendedurías, de presentarse la solicitud de autorización o renovación de la actividad de venta con recargo o de dictarse el acto de homologación de las instalaciones.
+5. Destino:
+El importe de lo recaudado por esta tasa formará parte del Presupuesto de Ingresos del Comisionado para el Mercado de Tabacos.
+6. Órgano gestor:
+La administración, liquidación y notificación de la tasa se ejercerá por el Comisionado para el Mercado de Tabacos, correspondiendo las demás funciones relativas a su gestión y recaudación a los órganos competentes del Ministerio de Economía y Hacienda, sin perjuicio de las competencias de las Comunidades Autónomas que llevan a efecto estos servicios.
+7. Revisión del importe de la tasa:
+La cuantía de las tarifas previstas en esta Ley podrá ser modificada por las Leyes anuales de Presupuestos Generales del Estado.
+8. Normativa supletoria:
+Serán de aplicación a la tasa, en todo lo no previsto en la presente Ley, los preceptos de la Ley 230/1963, de 28 de diciembre, General Tributaria, y de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, que resulten procedentes.
+Se modifican los apartados 1.b) y 4 por la disposición final 1 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
+ Se modifican los apartados 2 y 4 por la disposición final 8.5 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+ Se modifican los apartados 1 a 4 por el art. 43 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+ Se convierten a euros las cuantías del punto 3 por el apartado 5 de la Resolución 2/2001, de 22 de octubre. Ref. BOE-A-2001-21036

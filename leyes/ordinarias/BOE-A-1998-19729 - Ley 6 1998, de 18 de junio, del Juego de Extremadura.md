@@ -1,0 +1,726 @@
+# Ley 6/1998, de 18 de junio, del Juego de Extremadura.
+
+- Identificador BOE: `BOE-A-1998-19729`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-19729
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE EXTREMADURA
+Sea notorio a todos los ciudadanos que la Asamblea de Extremadura ha aprobado y yo, en nombre del Rey, de conformidad con lo establecido en el artículo 52.1 del Estatuto de Autonomía, vengo a promulgar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La Comunidad Autónoma de Extremadura asume, en virtud del artículo 7 del Estatuto de Autonomía, competencia exclusiva sobre casinos, juegos y apuestas, con la única exclusión de las apuestas mutuas deportivo-benéficas.
+La presente Ley regula la actividad del Juego con una pretensión globalizadora y de generalidad, recogiendo las peculiaridades y realidad social del ámbito territorial de la Comunidad Autónoma de Extremadura.
+El rango de Ley viene justificado por dos motivos fundamentales: en primer lugar, por afectar a un derecho fundamental, como es la libertad de empresa, reconocido en el artículo 38 de la Constitución, conjuntamente con los artículos 128 y 131 de la norma de cabecera estatal, que lo contempla como materia reservada a la Ley según el artículo 53.1 del citado texto legal; en segundo lugar, por establecer una tipificación de infracciones y previsión de sanciones en materia de juego, cuestiones afectadas, igualmente, por el principio de reserva de Ley.
+El objetivo primordial de la Ley consiste en establecer unas reglas que ofrezcan a los ciudadanos la seguridad jurídica debida y, por otra parte, permita la adecuación normativa mediante desarrollo reglamentario, de una materia sujeta a innovación permanente.
+Se agrupa el articulado de la Ley en siete capítulos, dedicados, respectivamente, a establecer los principios básicos del sistema, configurar las distintas modalidades y establecimientos de Juego y Apuestas, las personas y empresas intervinientes, los usuarios, las competencias de los órganos de la Administración y, finalmente, establece las normas necesarias para garantizar su cumplimiento o, lo que es lo mismo, articular la condición de su eficacia a través del régimen sancionador.
+Las actuaciones administrativas en relación con esta materia no quedan modificadas con la asunción competencial por parte de nuestra Comunidad.
+En este sentido, en primer lugar, se mantiene la posibilidad que, desde el Ejecutivo, se establezca la planificación de la actividad del juego, utilizándose la distribución de autorizaciones concretas por lo que respecta a aquellos juegos, empresas y locales en que, por la importancia económica o la incidencia social, resulte aconsejable hacerlo.
+Por último, la intervención administrativa se extiende también al material del juego. Esta intervención se desarrolla en tres niveles: con respecto a la fabricación, la reglamentación de las características técnicas de las máquinas y del material del juego en general, y a la homologación del material.
+Por lo que se refiere a las infracciones administrativas, y dentro del marco que las transferencias permiten, se hace una detallada regulación de las mismas. Pues, al desaparecer la configuración de determinados juegos como constitutivos de delito, y reconocerse su realidad como una situación de hecho, se hace necesario, por las implicaciones que tiene, un adecuado control por parte de los poderes públicos competentes.
+Se trata, pues, en resumen, de una ley no excesivamente extensa, para reservar su ulterior concreción a normas reglamentarias, que posibilita, por otra parte, el ejercicio de las competencias estatutarias en la materia, y busca claridad y solidez de sus principios para permitir desarrollar una actividad consentida por la sociedad y, al mismo tiempo, desde el punto de vista administrativo, armonizar los plurales intereses puestos en juego. Todo ello sin regular en este texto los aspectos tributarios que la actividad puede entrañar, salvo lo dispuesto en las disposiciones adicionales primera y segunda.
+La misma pretende regular una realidad compleja, sin entrar en valoraciones éticas, pero sin olvidar las repercusiones sociales del abuso del juego en la familia y en la sociedad.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. La presente Ley tiene por objeto la regulación, en el ámbito territorial de la Comunidad Autónoma de Extremadura, de todas las actividades relativas a los casinos, juegos y apuestas, según lo dispuesto en el artículo 7 del Estatuto de Autonomía.
+2. Se incluyen, en particular, en el objeto de la presente Ley la regulación de:
+a) Las actividades de juego y apuestas, entendiéndose como tales, a los efectos de esta Ley, aquellas en las que se arriesgan, entre partes a ganar o perder, cantidades de dinero o cualquier clase de bienes susceptibles de valoración económica, sobre el resultado de un acontecimiento futuro e incierto, ya intervenga la habilidad o destreza de los participantes o exclusivamente la suerte o el azar, ya se produzca el resultado mediante la utilización de aparatos automáticos o con la única intervención de la actividad humana.
+b) Las empresas dedicadas a la gestión y explotación de juegos y de apuestas, a la fabricación de materiales de juego y actividades conexas.
+c) Los locales donde se realizan la gestión y explotación de juegos y de apuestas, así como aquéllos donde se producen los resultados condicionantes.
+d) Las personas que intervengan en la gestión, explotación y práctica de los juegos y apuestas.
+e) La advertencia y prevención de posibles repercusiones en los usuarios, sus familias y la sociedad, por el uso abusivo del juego.
+3. Quedan excluidos del ámbito de aplicación de esta Ley los juegos y apuestas de ocio y recreo constitutivos de usos sociales de carácter tradicional o familiar, siempre que no sean objeto de explotación lucrativa. Quedan también excluidas las máquinas recreativas o de tipo A, así como los salones recreativos en los que sólo se instalen este tipo de máquinas. Igualmente, se excluyen las empresas que exclusivamente tengan por objeto la explotación de estas máquinas o salones, por lo que no requerirán autorización administrativa para su instalación y funcionamiento así como tampoco la homologación e inscripción en los registros de modelos y de empresas regulados reglamentariamente.
+4. Igualmente, quedan excluidos del objeto de la presente Ley los Juegos y Apuestas de ámbito estatal, así como los aspectos tributarios de los Juegos y las Apuestas.
+Se modifica el apartado 3 por el art. 68.1 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+### Artículo 2
+
+Artículo 2. Prohibiciones.
+Queda prohibida la práctica de todos los juegos y apuestas que, siendo objeto del ámbito de regulación de esta Ley, no estén incluidos en el Catálogo de Juegos y Apuestas de Extremadura. La infracción de este precepto dará lugar a la imposición de sanciones previstas en el capítulo VII de esta Ley y el material utilizado en ello será objeto de comiso.
+
+### Artículo 3
+
+Artículo 3. Autorizaciones.
+1. La realización de cualquier actividad incluida en el ámbito de esta ley requiere la previa autorización administrativa.
+En los términos, condiciones y requisitos que reglamentariamente se prevean, las asociaciones de empresas titulares de autorizaciones de juego presencial, o éstas individualmente, podrán desarrollar de forma remota a través de medios telemáticos, interactivos o de comunicación a distancia, determinadas actividades de juego y apuestas incluidas en el Catálogo de Juegos y Apuestas, con independencia de los juegos que amparen dichas autorizaciones, y previa la obtención de los correspondientes permisos.
+2. Las autorizaciones y permisos se otorgarán cuando se cumplan los requisitos establecidos en la Ley y en los reglamentos, salvo que razones excepcionales de interés social o económico justifiquen su denegación. Si se limitase el número de autorizaciones a través de la correspondiente planificación, se otorgarán aquellas mediante concurso público.
+La solicitud para la obtención de permisos de juego remoto que pudieran presentar las empresas que vayan a asociarse en los subsectores de casinos, bingos o máquinas, se realizará en virtud del número de autorizaciones de juego presencial existentes en cada momento referidas a establecimientos en casinos o bingos, o referidas al número de máquinas, y se presentará, al menos, por un 68 por ciento en los subsectores de casinos o bingos, o por un 26 por ciento en el subsector de máquinas, y si la presentación de la solicitud se realizara por empresas pertenecientes a distintos subsectores, exigirá que, al menos, cada uno aporte un mínimo del 10 por ciento en su correspondiente subsector y la suma de porcentajes de todos ellos acumule un 68 por ciento.
+Reglamentariamente se determinará el régimen aplicable a los permisos de juego remoto que pudieran otorgarse para las solicitudes que formulen otras empresas no pertenecientes a los subsectores citados que, ocasionalmente, cuenten con autorizaciones de juego presencial.
+3. Las autorizaciones señalarán de forma explícita sus titulares, el tiempo por el que se conceden, las actividades autorizadas y condiciones, y los lugares en los que pueden ser practicadas indicando las características que éstos deben poseer.
+4. La autorización para la actividad de juego y apuestas en un determinado establecimiento requerirá la previa obtención de la correspondiente licencia o comunicación exigida en la normativa sectorial correspondiente, según se determine reglamentariamente.
+5. Podrán ser revocadas las autorizaciones si desaparecen todas o algunas de las circunstancias que motivaron su otorgamiento y quedarán sin efecto si se incumplieren las condiciones a que estuvieren subordinadas.
+6. Las autorizaciones serán transmisibles en los casos y condiciones que reglamentariamente se determinen, siempre previo conocimiento de la Administración. No serán transmisibles aquellas en cuyo otorgamiento se haya tenido en cuenta las circunstancias personales del titular.
+7. Podrán ser titulares de las autorizaciones necesarias para la organización y explotación de los juegos o las apuestas regulados por esta Ley quienes no se encuentren en alguna de las siguientes circunstancias:
+a) Haber sido condenados dentro de los cinco años anteriores a la fecha de la solicitud mediante sentencia firme por delito de falsedad, contra las personas, contra la propiedad o contra la Hacienda Pública.
+Esta previsión alcanzará a las personas jurídicas en las que algunos de sus directivos o miembros de los órganos de gobierno se encuentren incursos en dicho supuesto.
+b) Los quebrados no rehabilitados y quienes, habiéndose declarado en estado legal de suspensión de pagos o concurso de acreedores, hayan sido declarados insolventes o no hayan cumplido totalmente las obligaciones adquiridas.
+c) Haber sido sancionados mediante resolución firme por dos o más infracciones tributarias graves, en los últimos cinco años, por tributos sobre el juego y apuestas.
+La incursión en alguna de las circunstancias mencionadas con posterioridad al otorgamiento de la autorización llevará aparejada la pérdida de ésta, y no podrá volver a solicitarse durante un período de cinco años.
+8. En ningún caso se podrán otorgar autorizaciones para instalar establecimientos específicos de juego en la zona de influencia de centros de enseñanza, la cual será determinada reglamentariamente.
+Se modifica por el art. 68.2 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+ Se modifica el apartado 1 por la disposición final 1 de la Ley 19/2010, de 28 de diciembre. Ref. BOE-A-2011-1144
+
+### Artículo 4
+
+Artículo 4. Catálogo de juegos y apuestas.
+1. El Consejo de Gobierno aprobará mediante Decreto el Catálogo de Juegos y Apuestas de la Comunidad Autónoma de Extremadura. De cada juego y apuesta incluido en dicho Catálogo se especificarán las diferentes denominaciones, las modalidades posibles, los elementos necesarios para practicarlo.
+Las reglas esenciales que es preciso aplicar en los Juegos y Apuestas incluidas en el Catálogo, se regularán mediante Orden de la Consejería de Economía, Industria y Hacienda.
+2. Los Juegos y Apuestas no incluidos en el Catálogo, o no amparados por el Estado, tendrán la consideración legal de prohibidos a todos los efectos.
+
+### Artículo 5
+
+Artículo 5. Material de juego.
+1. La práctica de los juegos y apuestas a los que se refiere la presente Ley, sólo podrá efectuarse con el material ajustado a los modelos homologados, que tendrá la consideración de material de comercio restringido.
+2. El material no homologado que se use en la práctica de los juegos y apuestas que se regulan en esta Ley se reputará material clandestino y será objeto de comiso.
+3. La fabricación, comercialización, distribución y mantenimiento del material de juego y apuestas requerirá autorización administrativa previa, en los términos previstos en los reglamentos específicos.
+4. La Junta de Extremadura acreditará los centros de homologación y las condiciones técnicas del material de juego.
+
+### Artículo 6
+
+Artículo 6. Publicidad, promoción, patrocinio e información comercial.
+1. La publicidad, promoción, patrocinio y cualquier forma de comunicación comercial de las actividades de juego se efectuará, en los términos y condiciones que reglamentariamente se determinen. La actividad publicitaria, de patrocinio y de promoción de la práctica del juego y de las apuestas, de los establecimientos dedicados a su práctica y de las empresas del sector del juego y de las apuestas, estará autorizada sólo a aquellas empresas que cuenten con la correspondiente autorización administrativa para la práctica de juegos o apuestas en el respectivo subsector, o a sus asociaciones.
+2. La publicidad, de cualquier modalidad de juego regulado en esta ley, deberá ajustarse a la normativa específica sobre la publicidad y no contendrá, en ningún caso, gráficos, textos o imágenes xenófobas, sexistas, que fomenten comportamientos compulsivos o cualquier trato discriminatorio o contrario a la Constitución o al Estatuto de Autonomía.
+3. La publicidad y promoción deberán respetar, en todo caso, la normativa sobre protección de las personas menores de edad.
+4. Las disposiciones acerca de la publicidad ilícita, contenidas en la legislación general sobre publicidad, serán aplicables a la publicidad de las actividades de juegos así como de las empresas y establecimientos autorizados.
+5. La publicidad y la promoción deberán ser acordes a lo establecido en la normativa que regule la información, comercio electrónico y comunicación audiovisual.
+6. La publicidad y promoción respetarán los principios básicos sobre juego responsable y deberán contener la advertencia de que la práctica de los juegos puede producir ludopatía y de que dicha práctica está prohibida a las personas menores de edad.
+7. Se promoverá la elaboración de los mecanismos necesarios que prohíba la publicidad en equipaciones, instalaciones, patrocinios o similares de todo tipo de apuestas deportivas. Dicha prohibición afectará a todas las categorías deportivas.
+8. Las disposiciones de esta Ley son aplicables a cualquier persona física o jurídica que a través de cualquier medio, físico, on line o electrónico, realizara acciones de publicidad.
+Se modifica por el art. único.1 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+ Se modifica por el art. 68.3 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+## CAPÍTULO II
+
+De los establecimientos y modalidades de juego
+
+### Artículo 7
+
+Artículo 7. Establecimientos.
+1. Los juegos y apuestas podrán practicarse exclusivamente en los establecimientos que, reuniendo los requisitos exigidos en esta Ley y en las disposiciones que la desarrollen, sean autorizados expresamente para ello.
+2. Podrán ser autorizados para la práctica de juegos y apuestas los siguientes establecimientos:
+a) Casinos de juego.
+b) Salas de bingo.
+c) Salones de juego.
+d) Cafeterías, restaurantes, bares, discotecas, pubs y karaokes, bares especiales, cafés teatro y cafés cantante, boleras, centros de ocio o recreo familiar, campings, recintos feriales, hoteles y demás establecimientos análogos.
+De igual forma, se podrán autorizar, según cada modalidad de juego y apuesta, otros establecimientos abiertos al público.
+3. Corresponde a la Administración de la Comunidad Autónoma de Extremadura autorizar la instalación y explotación de las máquinas de juego o apuestas y demás terminales y aparatos auxiliares necesarios para la práctica del juego de boletos, loterías o similares, cualesquiera que sea su titularidad pública o privada, que se emplacen en los establecimientos de hostelería destinados a bares, cafeterías, restaurantes o similares y en los recintos o espacios habilitados para la celebración de juegos, apuestas, rifas o tómbolas y combinaciones lucrativas.
+4. El aforo y superficie de los establecimientos, así como las condiciones de funcionamiento se determinarán reglamentariamente.
+5. La apertura de establecimientos abiertos al público en los que pretendan desarrollarse actividades de juegos y apuestas por parte de los operadores autorizados por otras Administraciones, requerirán la previa obtención de titulo habilitante otorgado por el Director General competente en materia de juego de la Comunidad Autónoma de Extremadura.
+De igual forma, también se precisará la obtención de titulo habilitante por parte del Director General competente en materia de juego de la Comunidad Autónoma de Extremadura para la instalación de equipos que permitan la participación en los citados juegos y apuestas, en cualquier establecimiento abierto al público.
+6. En los establecimientos autorizados para la práctica de juegos y apuestas existirá un Libro de Reclamaciones a disposición de los jugadores y de la Administración.
+Se modifica por el art. 68.4 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+ Se modifica el apartado 3 por la disposición adicional 13 de la Ley 1/2012, de 24 de enero. Ref. BOE-A-2012-1794
+
+### Artículo 8
+
+Artículo 8. Casinos de juego.
+1. Tendrán la consideración legal de Casinos de juego los establecimientos que, reuniendo los requisitos exigidos, hayan sido autorizados para la práctica de los juegos que, en el Catálogo de Juegos y Apuestas de Extremadura, se recojan como «exclusivos de los Casinos de juego».
+2. Podrán también practicarse en los Casinos, previa autorización específica, los juegos autorizables a las entidades gestoras de juegos colectivos de dinero y azar y Salones de Juego.
+3. La autorización de instalación de un Casino se hará mediante concurso público en el que se valorará, entre otros, el número de puestos de trabajo fijo, el interés turístico del proyecto, la solvencia de los promotores, la experiencia en el sector, el programa de inversiones y el cumplimiento de las condiciones concretas de la convocatoria. La concesión no excluye la obtención de las licencias preceptivas.
+4. En la Comunidad Autónoma podrá autorizarse un casino de juego por cada medio millón de residentes o fracción, siempre que ésta supere los 250.000 habitantes determinados de acuerdo con los datos oficiales del censo.
+5. Las características de todo orden de los establecimientos a que se refiere este precepto, así como servicios complementarios que puedan establecerse, serán determinados en la reglamentación correspondiente. Tendrán la consideración de servicios complementarios, los de restaurante, cafetería, auditorio, salas de fiesta, aparcamientos y otros servicios.
+6. La autorización se concederá por un período mínimo de diez años sin perjuicio del régimen sancionador en caso de infracción.
+
+### Artículo 9
+
+Artículo 9. Salas de bingo.
+1. Tendrán la consideración de salas de bingo los establecimientos que hayan sido autorizados para la práctica del juego del bingo en sus distintas modalidades.
+2. En las salas de bingo podrán instalarse máquinas de tipo «B» en función del aforo del local y en los términos que se determinen reglamentariamente.
+Asimismo, podrán practicarse, previa autorización, otros juegos de los incluidos en el Catálogo.
+3. Las salas de bingo deberán disponer, como mínimo, de un área de recepción y una sala de juegos.
+4. Las autorizaciones para la explotación de salas de bingo se concederán por un período de diez años y podrán ser renovadas.
+Se modifica por el art. 68.5 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+### Artículo 10
+
+Artículo 10. Salones de juego y otros establecimientos.
+1. Tendrán la consideración de salones de juego aquellos establecimientos específicamente autorizados para instalar máquinas de tipo «B». Asimismo, podrán practicarse, previa autorización, otros juegos de los incluidos en el Catálogo.
+2. En los establecimientos dedicados a la actividad de restaurante cafetería, bar, discoteca, pub y karaoke, bar especial, café teatro y café cantante, bolera, y análogos, podrá autorizarse la instalación de un máximo de dos máquinas, y en los establecimientos habilitados en recintos feriales, hoteles, campings y centros de ocio y recreo familiar, o similares, el número de máquinas estará en función de su superficie útil, según se determine reglamentariamente.
+No obstante, en los establecimientos citados en el anterior párrafo que tengan una superficie igual o superior a 60 metros cuadrados de zona de concurrencia o uso público, excluidos los aseos, podrá autorizarse la instalación de una máquina más, que deberá ser de las previstas en la letra c) del apartado 2 del artículo 12 de esta Ley, según se determine reglamentariamente.
+Las obligaciones de los titulares de los establecimientos respecto del uso de las máquinas se establecerán reglamentariamente.
+Se modifica por el art. 68.6 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+### Artículo 11
+
+Artículo 11. Máquinas recreativas y comerciales.
+(Sin contenido).
+Se suprime por el art. 68.7 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+### Artículo 12
+
+Artículo 12. Máquinas de juego.
+1. Son máquinas de juego a los efectos de la presente Ley, los aparatos manuales o automáticos que, a cambio de un precio fijo, ofrecen al usuario el mero entretenimiento o la posibilidad de obtener un premio.
+2. Las máquinas de juego se clasifican en los siguientes grupos:
+a) Máquinas tipo «B» o recreativas con premio, son las que a cambio del precio de la partida o jugada conceden al usuario un tiempo de uso o de juego y, eventualmente, un premio en metálico, de acuerdo con el programa de juego.
+Solo podrá autorizarse la instalación de máquinas de tipo «B» en los establecimientos dedicados a la actividad de restaurante cafetería, bar, discoteca, pub y karaoke, bar especial, café teatro y café cantante, bolera, y análogos, salas de bingo, salones de juego y casinos de juego.
+b) Máquinas tipo «C», son las que a cambio del precio de la partida o jugada conceden al usuario un tiempo de juego y eventualmente pueden ofrecer un premio que siempre dependerá del azar.
+Sólo podrá autorizarse la instalación de máquinas de tipo «C», en los casinos de juego.
+c) Aquellas otras máquinas, manuales o automáticas, que permitan la obtención de premios combinando modalidades, elementos o mecanismos de diferentes juegos regulados en esta Ley y que no estén contempladas en los tipos anteriores, podrán clasificarse como tipo diferenciado y la reglamentación específica determinará su régimen jurídico.
+3. Quedan excluidas de la presente Ley las máquinas expendedoras que se limiten a efectuar mecánicamente venta de productos y mercancías, siempre que el valor del dinero depositado en las máquinas corresponda al valor en mercado de los productos que entreguen, así como las máquinas tocadiscos o vídeo-discos y las máquinas o aparatos de competencia pura o deporte en donde el juego se realice sin la ayuda directa de componentes electrónicos.
+Quedan también excluidas de la presente Ley las máquinas tipo A o recreativas, entendiéndose por tales las siguientes:
+a) Aquellas que, a cambio de un precio, ofrecen al jugador un tiempo de utilización, sin que haya ningún tipo de premio o compensación en metálico, en especie o en forma de puntos canjeables, salvo la posibilidad de continuar jugando por el mismo importe inicial.
+b) Las denominadas de realidad virtual, simulación y análogas, siempre y cuando el usuario intervenga en el desarrollo de los juegos.
+c) Las de competencia pura o deportiva cuyos componentes electrónicos tengan influencia decisiva en el desarrollo del juego.
+d) Los juegos recreativos sin premio desarrollados a través de ordenadores y otros soportes informáticos, tales como los videojuegos u otros programas informáticos de juego recreativo, practicados en locales abiertos al público, explotados lucrativamente a cambio de un precio mediante su instalación bien en la propia memoria del ordenador personal o de otros soportes informáticos, bien en una red de área local, o bien en otras redes informáticas de telecomunicaciones o análogas de carácter externo, sin perjuicio de lo dispuesto en la normativa sobre propiedad intelectual.
+No obstante, lo dispuesto en este apartado se entenderá sin perjuicio de la necesidad de cumplimiento por tales máquinas de la normativa vigente dirigida a la protección de menores que les sea de aplicación así como la que regule específicamente el contenido de los juegos o soportes a través de los cuales se practican.
+4. Las máquinas reguladas en la presente Ley no podrán situarse en terrazas y zonas que sean de ocupación de vías públicas. Tampoco podrían instalarse máquinas de tipo «B» en los bares de centros y áreas comerciales o estaciones de transporte público si el local no se encuentra aislado de la zona de paso, en los bares que sean dependencias complementarias de otros locales y establecimientos destinados a espectáculos públicos y otras actividades recreativas o deportivas.
+Se modifica por el art. 68.8 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+## CAPÍTULO III
+
+De las loterías y apuestas
+
+### Artículo 13
+
+Artículo 13. Apuestas.
+1. Las apuestas debidamente autorizadas podrán ser practicadas en el interior de los establecimientos y recintos destinados a la celebración de determinadas actividades deportivas o de competición y en otros lugares y establecimientos que se determinarán reglamentariamente, con exclusión expresa de los establecimientos de hostelería.
+2. Se entiende por apuesta, a los efectos de esta Ley, cualquier actividad en la que se arriesga dinero u objetos económicamente evaluables sobre el resultado de un acontecimiento determinado, de desenlace incierto y ajeno a las partes intervinientes.
+Se modifica por el art. 68.9 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+### Artículo 14
+
+Artículo 14. Loterías.
+1. El juego de lotería es aquel que mediante la prestación de un precio determinado se adquiere una opción para obtener, en su caso, un premio en dinero previamente contenido en la parte oculta del soporte empleado y que descubre el jugador (lotería presorteada) o, en otros casos, para obtenerlo tras un sorteo posterior (lotería postsorteada).
+2. En todos los casos, el jugador, o bien recibe un soporte acreditativo de la participación en el que figuran los requisitos para obtener el premio (billete o boleto) o bien el juego se ejecuta directamente a través de una terminal conectada a una red informática.
+Dichos soportes acreditativos de la participación tendrán la consideración de efectos estancados.
+3. La organización de Loterías, ya sean presorteadas o postsorteadas, corresponderá a la Junta de Extremadura. Su explotación sólo podrá realizarse a través de una empresa pública o una sociedad mixta de capital público, o bien autorizarse mediante concurso a empresa privada, con los controles y finalidades de carácter social que pudieran establecerse.
+
+### Artículo 15
+
+Artículo 15. Rifas, tómbolas y combinaciones aleatorias.
+1. Podrá autorizarse la celebración de rifas, tómbolas y combinaciones aleatorias en las condiciones y requisitos que se establezcan reglamentariamente.
+Igualmente podrá autorizarse la celebración de rifas y tómbolas cuyo beneficio se destinará íntegramente a la financiación de fiestas populares, actividades culturales y deportivas y recuperación de arte y tradiciones populares.
+2. Los premios de las rifas y tómbolas necesariamente tendrán que ser en especie y no canjeables en dinero. Las combinaciones aleatorias tendrán que tener una finalidad publicitaria.
+
+## CAPÍTULO IV
+
+De las personas y empresas intervinientes en el juego
+
+### Artículo 16
+
+Artículo 16. Empresas de juego.
+1. La realización de las actividades incluidas en el ámbito de esta Ley por cualquier persona física o jurídica requerirá la previa autorización e inscripción en el Registro de juegos y apuestas de Extremadura.
+2. Las empresas de juego y apuestas deberán constituir a disposición de la Comunidad Autónoma de Extremadura fianzas, las cuales estarán afectas a las responsabilidades en que puedan incurrir como consecuencia del incumplimiento de las obligaciones previstas en esta Ley y sus normas de desarrollo.
+3. La Junta de Extremadura bien directamente, bien a través de empresas públicas o sociedades mixtas de capital público mayoritario, podrá asumir la realización de juegos y apuestas.
+Asimismo, la organización, explotación y gestión de esos juegos y apuestas podrán estar a cargo de una entidad contratada que, bajo la supervisión de la Administración de la Comunidad Autónoma de Extremadura, tenga por objeto su exclusiva explotación, en los términos, condiciones y requisitos que se establezcan reglamentariamente.
+4. Los empresarios de juego y apuestas están obligados a facilitar a la Administración Autonómica la información que ésta solicite a fin de cumplir las funciones de control y a efectos estadísticos.
+5. La transmisión de acciones o participaciones de las entidades dedicadas a la organización y explotación de juegos y apuestas requerirá, en todo caso, comunicación previa a la Administración, quien comprobará la concurrencia de los requisitos del nuevo socio, en su caso.
+6. Reglamentariamente podrá limitarse la participación de personas físicas o jurídicas en diferentes empresas o entidades dedicadas a la explotación del juego y las apuestas.
+7. Lo dispuesto en este artículo será de aplicación a quienes esporádica o eventualmente sean autorizados para la organización y explotación de alguna modalidad de juego.
+Se modifica por el art. 68.10 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+### Artículo 17
+
+Artículo 17. Registro de juegos y apuestas de Extremadura.
+1. Las personas físicas o jurídicas que pretendan dedicarse a la explotación u organización de cualquier juego o apuesta, a la distribución y mantenimiento del material o de las máquinas, y a su fabricación, deberán inscribirse en el Registro de Juegos y Apuestas de Extremadura.
+2. La inscripción en el Registro será requisito indispensable para el desarrollo de la actividad de juego o apuesta en la Comunidad Autónoma de Extremadura.
+3. En el Registro se anotarán los establecimientos autorizados para la práctica del juego y las apuestas, las máquinas de juego, sus modelos y sus datos de identificación e instalación, los permisos de explotación y otros datos de interés relativos a la actividad de juego, así como cualquier modificación que se produzca en ellos.
+4. Reglamentariamente se determinará la estructura del Registro, las condiciones y requisitos necesarios para la inscripción o anotación.
+Se modifica por el art. 68.11 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+### Artículo 18
+
+Artículo 18. Fianzas.
+1. Las empresas y empresarios que realicen actividades relacionadas con el juego deberán constituir fianza en los términos, formas y cuantías que se prevean en los reglamentos de desarrollo. Tales afianzamientos quedarán afectos al cumplimiento por tales entidades y personas de sus obligaciones derivadas de los regímenes fiscal y sancionador, así como a la entrega de premios.
+Los depósitos que se constituyan en entidades públicas o privadas expresamente afectos al pago de los premios derivados de las actividades lúdicas a que se refiere esta Ley, serán inembargables, salvo lo establecido en los párrafos siguientes.
+2. Las obligaciones a que se refiere el apartado 1 deberán hacerse efectivas de oficio contra las fianzas depositadas, una vez transcurrido el periodo voluntario de pago.
+3. Una vez ejecutada una fianza, la persona o entidad que la haya constituido dispondrá del plazo previsto reglamentariamente para reponerla íntegramente; si no lo hiciere, se suspenderá la correspondiente autorización hasta que la fianza haya sido totalmente repuesta.
+4. Si una fianza fuere insuficiente para satisfacer las obligaciones que hayan de hacerse efectivas, deberá indicarse el cobro por vía de apremio de la parte pendiente de la deuda, previo requerimiento.
+5. Las fianzas se extinguirán si desapareciesen las causas que motivaron su constitución si no hubieren responsabilidades pendientes o si hubiera transcurrido el plazo máximo de prescripción de dichas responsabilidades, en cuyos casos deberán ser devueltas, previa liquidación, si procede.
+
+### Artículo 19
+
+Artículo 19. Empresas gestoras de casinos.
+Las empresas titulares de autorizaciones de casinos de juego deberán reunir los siguientes requisitos mínimos:
+a) Deberán constituirse como sociedad anónima, tener un capital social suscrito y totalmente desembolsado de 100.000.000 de pesetas.
+b) Tener órgano de administración en forma colegiada con tres o más administradores.
+c) Deberán constituir ante la Administración garantías en forma de hipotecas, prendas, avales o pólizas de caución por importe de 100.000.000 de pesetas, valoradas de conformidad con las normas tributarias.
+
+### Artículo 20
+
+Artículo 20. Entidades gestoras de salas de juegos colectivos de dinero y de azar.
+Las empresas titulares de tales salas deberán reunir los siguientes requisitos mínimos:
+a) Deberán constituirse como sociedad anónima o sociedad limitada, y tener un capital social suscrito y totalmente desembolsado de 20.000.000 de pesetas.
+b) Tener órgano de administración en forma colegiada.
+c) Deberán constituir ante la Administración garantías en forma de hipotecas, prendas, avales o pólizas de caución por importe de 25.000.000 de pesetas, valoradas de conformidad con las normas tributarias.
+
+### Artículo 21
+
+Artículo 21. Empresas titulares de salones de juego.
+Podrán ser titulares de salones de juego las personas físicas o jurídicas, estableciéndose reglamentariamente las condiciones que debe reunir, la cuantía del afianzamiento que en su caso deban constituir, el número de máquinas Tipo B a instalar, el aforo y superficie permitidos.
+
+### Artículo 22
+
+Artículo 22. Empresas operadoras de máquinas de juego.
+1. La explotación de máquinas de juego en locales autorizados sólo podrá llevarse a cabo por empresas operadoras.
+2. Tendrán tal consideración las personas físicas o jurídicas que previamente autorizadas sean inscritas en el correspondiente Registro de la Comunidad Autónoma de Extremadura.
+3. En el caso de entidades jurídicas constituidas bajo formas societarias su capital social mínimo será de 15.000.000 de pesetas, que deberán estar enteramente suscritos y desembolsados, al menos en sus dos terceras partes.
+4. En el caso de que la titularidad corresponda a personas físicas éstas deberán constituir ante la Administración garantías en forma de hipotecas, prendas, avales o pólizas de caución por importe de 15.000.000 de pesetas, valoradas de conformidad con las normas tributarias.
+5. La autorización de empresa operadora se concederá por un período de ocho años renovables.
+6. Las entidades titulares de casinos de juego, cuando recojan todos y cada uno de los juegos que en el Catálogo de Juegos y Apuestas de Extremadura se recogen como «exclusivos de los Casinos de Juego», tendrán la condición de empresa operadora.
+7. Sin perjuicio de lo establecido en el párrafo primero de este artículo, los titulares de entidades gestoras de juegos colectivos de dinero y azar y salones de juego, podrán explotar directamente las máquinas de juego instaladas en sus establecimientos de juego, previa autorización administrativa. Reglamentariamente se establecerán los requisitos necesarios para la concesión de dicha autorización y la constitución de las garantías pertinentes.
+
+### Artículo 23
+
+Artículo 23. Empresas concesionarias de loterías y sorteos.
+1. La explotación de loterías y sorteos podrá efectuarse en lugares autorizados por empresas de loterías y sorteos constituidas y autorizadas al efecto.
+2. Las entidades a que se refiere el presente precepto deberán tener un capital social suscrito y totalmente desembolsado de 200.000.000 de pesetas. Reglamentariamente se establecerán los términos en los que se constituirán ante la Administración, garantías en forma de hipotecas, prendas, avales o pólizas de caución por importe equivalente valoradas de conformidad con las normas tributarias.
+3. Las empresas dedicadas a esta actividad habrán de tener, asimismo, administración colegiada.
+
+### Artículo 24
+
+Artículo 24. Personal empleado.
+1. Reglamentariamente se determinará qué personas deberán estar en posesión del documento profesional para prestar servicios en empresas dedicadas a la gestión y explotación de juegos y apuestas, así como las condiciones para obtenerlo.
+En todo caso, deberán cumplir los siguientes requisitos:
+a) No encontrarse incurso en alguna de las circunstancias previstas en el artículo 3.7. a) de esta Ley.
+b) No haber sido sancionado en los dos últimos años mediante resolución firme por infracción muy grave o en el último año por infracción grave en esta materia.
+2. La imposición de una sanción por falta grave o muy grave anula el documento profesional del sancionado.
+3. Los documentos profesionales serán expedidos por un plazo de cinco años y podrán ser renovados por idéntico período.
+Se modifica por el art. 68.12 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+## CAPÍTULO V
+
+De los usuarios
+
+### Artículo 25
+
+Artículo 25. Derechos y deberes de las personas participantes en los juegos.
+1. Las personas participantes en los juegos tienen los siguientes derechos:
+a) A ser tratado respetuosamente y conforme a las reglas de cortesía.
+b) A obtener información clara, veraz y suficiente, sobre las reglas que han de regir el juego.
+c) Al tiempo de uso correspondiente al precio de la partida de que se trate.
+d) Al cobro de los premios que les pudiera corresponder de conformidad con la normativa específica de cada juego.
+e) A jugar libremente, sin coacciones o amenazas, así como el derecho a que el juego se desarrolle de manera limpia y con sujeción a la normativa legal.
+f) A recibir información en los establecimientos de juego sobre la práctica de juego responsable.
+g) A formular las quejas y reclamaciones que estimen oportunas.
+h) A que la identificación de la persona usuaria se realice de manera segura, mediante la exhibición del documento nacional de identidad, pasaporte o documento equivalente o sistema de firma electrónica reconocida, con sujeción a las disposiciones relativas a la protección de datos de carácter personal previstas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+i) A conocer la identidad de la empresa de gestión y explotación de juegos, especialmente, los desarrollados por medios electrónicos, informáticos, telemáticos o interactivos.
+2. Las personas usuarias o participantes en los juegos tienen las siguientes obligaciones:
+a) Identificarse ante las empresas de gestión y explotación de juegos a efectos de acceso y participación en ellos.
+b) Cumplir las normas y reglas de los juegos en los que participen.
+c) No alterar el normal desarrollo de los juegos.
+d) Respetar el derecho de admisión de locales y salas de juego.
+e) Hacer un uso adecuado de los aparatos y máquinas y mantener una actitud respetuosa hacia el personal de los locales y el resto de jugadores.
+Se modifica por el art. único.2 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+ Se modifica por el art. 68.13 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+### Artículo 25 bis
+
+Artículo 25 bis. Prohibiciones de participar en los juegos y de acceso a locales y portales web del juego.
+1. No podrán participar en los juegos:
+a) Las personas menores de edad.
+b) Las personas que figuren en el Registro de Limitaciones de Acceso de la Comunidad Autónoma de Extremadura o, en otros Registros equivalentes de ámbito nacional.
+c) Las personas directivas, accionistas y partícipes en sus propias empresas de juego.
+d) Las personas directivas de las entidades deportivas, participantes u organizadores, árbitros, así como otros colectivos de personas que pudieran determinarse reglamentariamente, respecto de acontecimientos o actividades deportivas sobre las que se realicen apuestas.
+e) Las personas directivas, titulares o empleadas de los establecimientos donde se encuentren instaladas máquinas de tipo B y C y máquinas auxiliares de apuestas en calidad de persona jugadora o apostante.
+f) Los funcionarios que tengan por objeto el control e inspección de los juegos y las apuestas.
+2. Las personas organizadoras de juegos y responsables de establecimientos de juegos, deberán impedir la entrada a los locales o salas de juego o, en su caso, la estancia en el mismo:
+a) A las personas menores de edad.
+b) A quienes pretendan entrar portando armas u objetos que puedan utilizarse como tales, o a quienes, una vez dentro de los establecimientos de juego y apuestas, alteren de cualquier forma el orden público.
+c) A cualquier persona que presente síntomas de embriaguez, intoxicación por drogas o enajenación mental.
+d) A las personas que figuren en el Registro de Limitaciones de Acceso de la Comunidad Autónoma de Extremadura o en otros equivalentes de ámbito nacional. No se permitirá la apertura y registro de una cuenta de persona jugadora en páginas web, a las personas que figuren en tales registros de exclusión.
+3. La prohibición de acceso a las personas menores de edad, deberá constar de forma clara y visible en la entrada del local y en el portal de la página web.
+Se añade por el art. único.3 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+
+### Artículo 26
+
+Artículo 26. Registro de Limitaciones de Acceso de la Comunidad Autónoma de Extremadura.
+1. El Registro de Limitaciones de Acceso de la Comunidad Autónoma de Extremadura tiene el objetivo de impedir la participación en las actividades de juego a las personas que voluntariamente soliciten su inscripción y las que deban serlo en virtud de resolución judicial o administrativa.
+2. Reglamentariamente se establecerá el contenido, organización y funcionamiento del citado registro, que no incluirá más datos que los estrictamente necesarios para el cumplimiento de las finalidades previstas en esta ley. La difusión de los datos incluidos en éstos servirá, únicamente, al cumplimiento de las finalidades legalmente previstas.
+Se modifica por el art. único.4 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+
+## CAPÍTULO VI
+
+De los órganos competentes en materia de juegos y apuestas
+
+### Artículo 27
+
+Artículo 27. Competencias del Consejo de Gobierno.
+Corresponde al Consejo de Gobierno, a propuesta del Consejero de Economía, Industria y Hacienda:
+a) La aprobación del Catálogo de Juegos y Apuestas de la Comunidad Autónoma de Extremadura.
+b) Aprobar la planificación general del sector, teniendo en cuenta la realidad y la incidencia social del juego y de las apuestas, sus repercusiones económicas y tributarias y la necesidad de diversificar el juego, dando cuenta a la Asamblea de Extremadura.
+c) El desarrollo reglamentario general de esta Ley.
+d) Cualesquiera otras competencias que le asigne la presente Ley.
+
+### Artículo 28
+
+Artículo 28. Competencias de la Consejería de Economía, Industria y Hacienda.
+Corresponde a la Consejería de Economía, Industria y Hacienda:
+a) La elaboración de las normas necesarias para el control y dirección de los juegos y apuestas.
+b) La concesión de las autorizaciones necesarias para realizar las actividades relacionadas con los juegos y apuestas.
+c) La vigilancia y control de las actividades relacionadas con los juegos y apuestas.
+d) Las reglas esenciales que es preciso aplicar en los Juegos y Apuestas incluidas en el Catálogo.
+e) Cualesquiera otras competencias que le asigne la presente Ley.
+
+### Artículo 29
+
+Artículo 29. Comisión del Juego de Extremadura.
+1. La Comisión del Juego de Extremadura, dependiente de la Consejería de Economía, Industria y Hacienda, es el órgano consultivo, de estudio y asesoramiento de las actividades relacionadas con el juego y apuestas que se desarrollen en el ámbito territorial de la Comunidad Autónoma de Extremadura.
+2. En el plazo máximo de tres meses desde la entrada en vigor de la presente Ley, el Consejo de Gobierno determinará reglamentariamente su organización, funcionamiento y composición, en la que estarán al menos representadas la Administración regional, las organizaciones sindicales y empresariales más representativas, así como las asociaciones de carácter regional de ludópatas que existan en Extremadura.
+
+## CAPÍTULO VII
+
+Del régimen sancionador
+
+### Artículo 30
+
+Artículo 30. Infracciones administrativas.
+1. Son infracciones administrativas en materia de juego las acciones u omisiones tipificadas en la presente Ley y especificadas en las disposiciones reglamentarias que la desarrollen.
+2. Las infracciones administrativas en materia de juego se clasifican en muy graves, graves y leves.
+
+### Artículo 31
+
+Artículo 31. Infracciones muy graves.
+1. Constituyen infracciones muy graves:
+a) La organización, instalación, gestión o explotación de juegos y apuestas, así como permitir estas actividades, sin haber obtenido la correspondiente autorización o inscripción o los documentos exigidos en las normas, o con incumplimiento de los requisitos y condiciones en ellas establecidos.
+b) La realización o consentimiento de las actividades mencionadas en el apartado anterior con elementos de juego o máquinas superiores en número al autorizado o previsto por las normas, así como su realización o consentimiento en establecimientos, recintos, lugares o por personas no autorizados.
+c) La fabricación, importación, comercialización, distribución y explotación de máquinas o elementos de juego no homologados.
+d) La utilización de datos o aportación de documentos no conformes con la realidad para obtener los permisos, autorizaciones o inscripciones.
+e) La modificación unilateral de cualesquiera de las condiciones esenciales en virtud de las cuales se concedieron las preceptivas autorizaciones.
+f) La cesión de las autorizaciones otorgadas, incumpliendo las condiciones o requisitos establecidos reglamentariamente.
+g) La manipulación de los juegos y apuestas o del material.
+h) La admisión de apuestas o la concesión de premios que excedan de los máximos previstos en cada actividad de juego.
+i) El impago total o parcial a los apostantes o jugadores de las cantidades ganadas.
+j) La concesión de préstamos directamente, o por medio de terceras personas a los jugadores o apostantes, en los lugares donde se practique el juego, realizada por parte de los titulares o empleados de las empresas organizadoras, explotadoras o del establecimiento, así como sus cónyuges, ascendientes y descendientes en primer grado.
+k) La participación como jugadores de las personas señaladas en el apartado anterior, directamente o por medio de terceras personas, en los juegos o apuestas que gestionen o exploten dichas empresas o se desarrollen en sus establecimientos.
+l) La participación directa en el desarrollo de los juegos y apuestas de los propietarios, accionistas o partícipes de las empresas de juego, así como sus cónyuges, ascendientes y descendientes hasta el primer grado.
+m)   La obstaculización e impedimento de las funciones de control y vigilancia en el ámbito de la inspección.
+n) La venta de cartones de juego de bingo, boletos o billetes de juego, apuestas, rifas, tómbolas, a precio diferente del autorizado.
+ñ) La contratación de personal que no disponga del documento profesional.
+o) Permitir la práctica de juego o el acceso a los establecimientos de juego y apuestas, a las personas que lo tengan prohibido en virtud de esta Ley.
+p) Efectuar publicidad de los juegos y apuestas o de los establecimientos en que se practiquen, sin la debida autorización o al margen de los límites fijados.
+q) Ejercer coacción o intimidación sobre los jugadores en caso de protesta o reclamación.
+r) La reincidencia, por la comisión de una segunda infracción grave en el plazo de un año.
+s) Reducir el capital social de las Sociedades de las empresas de juego, por debajo de los límites legales establecidos, o proceder a cualquier transferencia no autorizada de las acciones o participaciones, así como incumplir las prescripciones de la normativa de juego relativas a las modificaciones del capital social.
+t) Utilizar fichas, cartones, boletos u otros elementos de juego que sean falsos.
+u) La utilización o aportación de datos, no conformes con la realidad, o de documentos falsos o falseados para obtener permisos, autorizaciones e inscripciones o para atender requerimientos efectuados por la administración competente en materia de juego.
+v) Carecer de un sistema de control y vigilancia específico para controlar el acceso de las personas en aquellos locales o zonas de juego y en los canales de juego a través de medios electrónicos, informáticos, telemáticos o interactivos, en los que venga exigido en esta ley y disposiciones que la desarrollen.
+w) La falta de funcionamiento o funcionamiento deficiente del sistema de admisión y control así como, la ausencia de personal para el control de admisión y la falta de actualización del Registro de Limitaciones de Acceso de la Comunidad Autónoma de Extremadura.
+x) El desarrollo y comercialización de juegos autorizados por medios electrónicos, informáticos, telemáticos o interactivos sin disponer de cuenta de juego, o admitir saldos o realizar ingresos de premios en ella por cuantía superior a los límites establecidos reglamentariamente y que, los juegos no sean realizados en el sitio web específico bajo dominio ''.es''.
+2. También constituyen infracciones muy graves las conductas descritas en el apartado anterior, entendiendo incluidas las especificaciones que resulten necesarias para la determinación de las conductas que pudieran corresponder a la explotación y comercialización de los juegos desarrollados de forma remota, a través de medios telemáticos, interactivos o de comunicación a distancia.
+Se añaden las letras s), t), u), v), w) y x) al apartado 1 por el art. único.5 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+ Se modifica por el art. 68.14 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+### Artículo 32
+
+Artículo 32. Infracciones graves.
+1. Constituyen infracciones graves:
+a) La práctica de juegos y apuestas en establecimientos públicos, círculos tradicionales, clubs privados o públicos, que no tengan tales actividades en sus previsiones estatutarias, siempre que cada jugada o apuesta supere la cuarta parte del salario mínimo interprofesional mensual o cuando el total de las jugadas o apuestas de cada participante alcance o supere, en un período de 24 horas, el salario mínimo interprofesional mensual.
+b) No tener o llevar incorrectamente los libros, hojas de reclamaciones o registros exigidos en la presente Ley o en la correspondiente reglamentación de juego, negarse a ponerlos a disposición de quien los reclame, así como no dar curso a las reclamaciones formuladas.
+c) No remitir en plazo a los órganos competentes la información y datos que la normativa exija.
+d) No exhibir en el establecimiento de juego o, en su caso, en las máquinas, el documento acreditativo de la correspondiente autorización, así como aquellos otros documentos que en desarrollo de esta Ley se exijan.
+e) La conducta desconsiderada hacia los jugadores o los apostantes, tanto durante el desarrollo del juego o de la apuesta, como en el caso de protestas o reclamaciones de éstos.
+f) La transferencia de acciones o participaciones sociales sin notificarlo previamente.
+g) El incumplimiento de las normas técnicas previstas en el reglamento de cada juego o apuesta.
+h) La reincidencia, por la comisión de una tercera infracción leve en el plazo de un año.
+i) La conducta de los jugadores y visitantes que consista en la participación en juegos y apuestas clandestinos o ilegales, la manipulación de máquinas o elementos de juego, la perturbación del orden en las salas dedicadas a juego y apuestas, la omisión de la colaboración debida a los agentes de la autoridad y, en general, cualquier comportamiento que suponga incumplimiento de los requisitos o prohibiciones establecidos en la normativa vigente.
+j) No exhibir de forma visible, en las entradas de público a los locales de juego o en las páginas web de inicio de los canales de juego telemático, la indicación de prohibición de entrada a las personas menores de edad y las restricciones y condiciones de acceso.
+k) Sobrepasar los límites horarios establecidos para los establecimientos de juego.
+l) No renovar las correspondientes autorizaciones en los plazos establecidos reglamentariamente.
+2. También constituyen infracciones graves las conductas descritas en el apartado anterior, entendiendo incluidas las especificaciones que resulten necesarias para la determinación de las conductas que pudieran corresponder a la explotación y comercialización de los juegos desarrollados de forma remota, a través de medios telemáticos, interactivos o de comunicación a distancia.
+Se añaden las letras j), k) y l) al apartado 1 por el art. único.6 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+ Se modifica por el art. 68.15 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+### Artículo 33
+
+Artículo 33. Infracciones leves.
+1. Constituyen infracciones leves:
+a) No disponer de fichero de visitantes en los establecimientos autorizados para el juego, tenerlos incompletos o inexactos, de acuerdo con lo que se determine reglamentariamente.
+b) La exhibición de la documentación preceptiva de manera que dificulte su visibilidad, o la no adopción de las medidas necesarias para impedir su deterioro o manipulación.
+c) Cualquier acción u omisión que suponga el incumplimiento de los requisitos o prohibiciones establecidas en esta Ley no señaladas como faltas graves o muy graves.
+2. También constituyen infracciones leves las conductas descritas en el apartado anterior, entendiendo incluidas las especificaciones que resulten necesarias para la determinación de las conductas que pudieran corresponder a la explotación y comercialización de los juegos desarrollados de forma remota, a través de medios telemáticos, interactivos o de comunicación a distancia.
+Se modifica por el art. 68.16 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+### Artículo 34
+
+Artículo 34. Responsables.
+1. Son responsables de las infracciones las personas físicas o jurídicas que realicen acciones u omisiones tipificadas como tales infracciones y los inductores.
+2. Asimismo, son responsables de las infracciones los titulares de las autorizaciones administrativas, si se trata de sujetos distintos cuando los toleren.
+3. Asimismo, son responsables de las infracciones los titulares de las autorizaciones administrativas, sus gerentes y directivos o los encargados o responsables de un local donde se practique el juego cuando también la comisión reiterada de actividades de juego irregular, o cuando no siendo reiterada resulte evidente la contravención.
+Los reglamentos de desarrollo graduarán esta responsabilidad.
+
+### Artículo 35
+
+Artículo 35. Responsabilidad de los jugadores.
+1. Son infracciones cometidas por jugadores y visitantes de locales donde se practica el juego:
+a) Entrar en el local o participar en el juego teniéndolo prohibido.
+b) Utilizar fichas, cartones u otros elementos de juego que sean falsos conociendo su irregularidad.
+c) Manipular máquinas o elementos de juego.
+d) Participar en juegos y apuestas clandestinas o ilegales.
+e) Interrumpir sin causa justificada una partida o un juego.
+f) Impedir la colaboración debida a los agentes de la autoridad.
+g) Perturbar el orden en las salas de juego.
+h) Cometer, en general, cualquier tipo de irregularidad en la práctica del juego.
+2. Estas infracciones podrán ser graves o leves, atendiendo al lucro obtenido, desorden provocado, reiteración y, en general, daños.
+
+### Artículo 36
+
+Artículo 36. Sanciones administrativas.
+Las infracciones serán sancionadas del siguiente modo:
+1. Por infracciones calificadas como muy graves podrán imponerse las siguientes sanciones:
+a) Multa entre 6.001 y 600.000 euros.
+b) Suspensión de la autorización y cierre del local por un plazo de hasta cinco años.
+c) Revocación de la autorización y cierre definitivo del local.
+d) Inhabilitación para ser titular de la autorización por plazo máximo de cinco años para actividades de juego.
+2. Por la comisión de una infracción calificada como grave se podrán imponer las siguientes sanciones:
+a) Multa entre 601 y 6.000 euros.
+b) Suspensión temporal de la autorización por un período máximo de un año.
+c) Cierre del local por plazo máximo de un año.
+d) Inhabilitación para ser titular de la autorización por un período máximo de un año para actividades de juego.
+3. Por la comisión de infracciones administrativas calificadas como leves podrá sancionarse con multa entre 150 y 600 euros.
+4. El dinero recaudado por las sanciones estará afectado a la prevención, asistencia y demás actuaciones que se desarrollen en materia de juego patológico por parte de la Consejería competente en materia de adicciones.
+5. En todo caso, además de las sanciones pecuniarias previstas en este artículo, las infracciones podrán ser castigadas con las siguientes sanciones accesorias:
+a) En el caso de infracciones por falta de autorización para la organización o explotación de juegos, así como cuando se imponga sanción de revocación o suspensión de la autorización, se podrá imponer con carácter accesorio el decomiso, el depósito, y cuando la sanción sea firme, la destrucción o inutilización de las máquinas o elementos de juego objeto de la infracción.
+b) En el caso de infracciones cometidas por las personas jugadoras o visitantes, en atención a las circunstancias que concurran y la trascendencia de la infracción, podrán imponerse como sanción accesoria, la prohibición de entrada en los establecimientos de juego, por un plazo máximo de dos años.
+6. En todo caso, las sanciones conllevan la obligación de las personas sancionadas de devolver los beneficios ilícitamente obtenidos, tanto a la Administración, por los tributos no satisfechos, como a las personas perjudicadas e identificadas, por cantidades defraudadas.
+7. Cuando la actividad principal real que se ejerza en un establecimiento no sea de juego, no podrá ser clausurado el mismo, si bien podrá acordarse la prohibición de instalación y realización de actividades de juego.
+8. Las sanciones accesorias serán impuestas por el órgano competente para la imposición de las sanciones principales.
+9. Durante el plazo de suspensión de una autorización, cierre o inhabilitación temporal de un local, no podrán concederse nuevas autorizaciones a la empresa o persona sancionada, ni podrá autorizarse a otras empresas a desarrollar actividades relacionadas con juegos o apuestas en el local en que se haya producido la infracción.
+10. Asimismo, atendiendo a la naturaleza de la infracción, el órgano sancionador podrá ordenar el decomiso de las apuestas habidas y de los beneficios ilícitos obtenidos, cuyo importe se ingresará en la Hacienda Pública de la Junta de Extremadura.
+11. Para determinar la graduación de las sanciones deberán tenerse en cuenta los siguientes criterios:
+a) El grado de culpabilidad o la existencia de intencionalidad.
+b) La continuidad o persistencia en la conducta infractora.
+c) La naturaleza de los perjuicios causados.
+d) La reincidencia, por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme en vía administrativa.
+e) La trascendencia económica y social de la infracción.
+f) El beneficio obtenido.
+12. El órgano que resuelva el expediente podrá acordar, por razones de ejemplaridad y siempre que se trate de infracciones muy graves y cuando hayan adquirido firmeza en vía administrativa, la publicidad de las sanciones impuestas y nombre y apellidos de las personas físicas o razón social de la personas jurídicas responsables, así como también la naturaleza de la infracción, en las publicaciones oficiales correspondientes.
+Se modifica por el art. único.7 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+ Se modifica por el art. 68.17 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+### Artículo 37
+
+Artículo 37. Órgano sancionador.
+1. Los expedientes de infracción serán incoados por resolución del Director general competente en la materia y tramitados por el personal funcionario de él dependiente.
+2. Concluso el procedimiento se elevarán las actuaciones con propuesta de resolución al Consejero de Economía, Industria y Hacienda si se hubiese tipificado la infracción como falta grave o muy grave, o al Director general si fuese leve.
+3. Las resoluciones de ambas autoridades agotan la vía administrativa.
+
+### Artículo 38
+
+Artículo 38. Medidas cautelares.
+1. Cuando existan indicios de infracción grave o muy grave se podrá acordar como medida cautelar, previa audiencia del interesado, la suspensión de las autorizaciones, la clausura de los establecimientos en que se organice o practique el juego y apuestas sin estar autorizados, así como el comiso, precinto y depósito de las máquinas, material, elementos de juego y apuesta y del dinero obtenido, para asegurar la eficacia de la resolución que pudiera recaer, si existen elementos de juicio suficientes para ello.
+2. Los agentes de la autoridad, en el momento de levantar acta por presuntas infracciones muy graves, podrán acordar como medidas cautelares el precinto y depósito de las máquinas de juego y de otros materiales utilizados para la práctica del juego y apuestas, así como del dinero obtenido. En este caso, el órgano competente para iniciar el expediente deberá confirmar o levantar la medida cautelar adoptada en el plazo máximo de veinte días, previa audiencia al interesado, vencido el cual, si no ha sido ratificada, quedará sin efecto.
+Se modifica por el art. 68.18 de la Ley 2/2012, de 28 de junio. Ref. BOE-A-2012-9283#a6-10
+
+### Artículo 39
+
+Artículo 39. Prescripción.
+Las infracciones leves prescribirán a los seis meses, las graves a los dos años y las muy graves a los tres años. Las sanciones impuestas por infracciones muy graves prescribirán a los tres años, las impuestas por infracciones graves a los dos años y las impuestas por faltas leves al año.
+El término de la prescripción comenzará a contar desde el día en que se hubiere cometido la infracción.
+Esta prescripción se interrumpirá desde que el procedimiento se dirija contra el infractor, volviendo a correr de nuevo el tiempo de la prescripción desde que aquél termine sin sanción o se paralice el procedimiento durante más de tres meses, si no es por causa imputable al interesado.
+El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+
+### Artículo 40
+
+Artículo 40. Procedimiento sancionador.
+1. El procedimiento sancionador se ajustará a lo previsto en la Ley de Procedimiento Administrativo Común, así como por el Reglamento de la Comunidad Autónoma de Extremadura sobre procedimientos sancionadores seguidos en la misma.
+2. Reglamentariamente podrán establecerse disposiciones que regulen especificaciones por razón de la materia.
+
+## CAPÍTULO VIII
+
+De la ordenación del juego responsable
+Se añade por el art. único.8 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+
+### Artículo 41
+
+Artículo 41. Autorización de apertura de locales e instalaciones.
+1. Sin perjuicio de lo previsto en el resto de esta Ley, en los términos, condiciones y requisitos establecidos en la misma y en sus disposiciones reglamentarias de desarrollo, la apertura de locales presenciales abiertos al público y la instalación de equipos en todos los locales de pública concurrencia, que permitan la participación en juegos a través de canales electrónicos, informáticos, telemáticos e interactivos autorizados por la Administración del Estado, exigirá, en todo caso, autorización administrativa, previa, del órgano competente en materia de juego en la Comunidad Autónoma de Extremadura.
+No resulta exigible la autorización mencionada, en los supuestos previstos en el apartado quinto de la disposición adicional primera de la Ley 13/2011, de 27 de mayo, de Regulación del Juego.
+2. Las empresas o agentes que desarrollen la actividad del juego, no podrán conceder préstamos ni cualquier otra modalidad de crédito o asistencia financiera a las personas participantes ni conceder bonificaciones, partidas gratuitas, o elementos canjeables por dinero a las personas usuarias del juego.
+Se añade por el art. único.8 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+
+### Artículo 42
+
+Artículo 42. Principios rectores del juego responsable.
+1. Las actuaciones en materia de juego atenderán a los principios de:
+a) Protección de las personas menores de edad y de quienes tengan reducidas sus capacidades intelectuales y volitivas, o se encuentren incapacitados legal o judicialmente, impidiendo su acceso a la práctica y a los establecimientos de juego en cualquiera de sus modalidades.
+b) Transparencia en el desarrollo de los juegos en sus distintas modalidades.
+c) Garantía del pago de los premios y de que no se produzcan fraudes en el desarrollo de los juegos.
+d) Prevención de los perjuicios a las personas usuarias y en especial a los colectivos necesitados de mayor protección.
+e) Posibilidad de intervención y control por parte de la Administración.
+f) Respeto a las reglas básicas de una política de juego responsable.
+g) Colaboración en el cumplimiento de la legislación de prevención de blanqueo de capitales.
+h) Seguridad jurídica de las empresas operadoras y de quienes participen en juegos.
+i) Fomento de empleo estable y de calidad en el sector.
+2. En todo caso, en la ordenación del juego, se tendrá en cuenta su realidad e incidencia social, sus repercusiones económicas, la diversificación empresarial del juego, en sus distintas modalidades, favoreciendo la concurrencia en condiciones de igualdad, no fomentando el hábito del juego y reduciendo sus efectos negativos. Para ello la Administración deberá velar por la aplicación de los principios rectores y las empresas deberán colaborar en este objetivo.
+Se añade por el art. único.8 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+
+### Artículo 43
+
+Artículo 43. Políticas de juego responsable.
+1. Corresponde a la Consejería competente en materia de juego y a las propias empresas autorizadas, velar por la efectividad de las políticas del juego responsable.
+2. En todo caso, y por lo que se refiere a la protección de las personas consumidoras, esas medidas incluirán las siguientes acciones:
+a) Prestar la debida atención a los grupos en riesgo.
+b) Proporcionar al público la información necesaria para que pueda hacer una selección consciente de las actividades de juego y su actitud ante el juego sea moderada, no compulsiva y responsable.
+c) Informar, de acuerdo con la naturaleza y medios utilizados en cada juego, de la prohibición de participar a las personas menores de edad o a las personas incluidas en el Registro de Limitaciones de Acceso al juego.
+Se añade por el art. único.8 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+
+### Artículo 44
+
+Artículo 44. Prohibiciones de organización de juegos no responsables.
+Además de las prohibiciones contenidas en el artículo 2 de esta Ley, está prohibida la organización de apuestas sobre acontecimientos que atenten contra la dignidad de las personas, el derecho a la intimidad, el honor y la propia imagen, o el bienestar de los animales, se basen en la comisión de delitos o faltas o en acontecimientos políticos o religiosos, o en eventos prohibidos por la legislación vigente así como las realizadas al margen de las autorizaciones y requisitos establecidos en esta Ley y en los reglamentos que las desarrollen.
+Se añade por el art. único.8 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+
+### Artículo 45
+
+Artículo 45. Distancias mínimas de establecimientos de juegos y apuestas.
+1. En ningún caso se podrán otorgar autorizaciones para instalar establecimientos específicos de juego a menor distancia de 300 metros de los accesos normales de entrada o salida a centros públicos o privados de educación preescolar y centros públicos o privados que impartan enseñanzas oficiales, tanto universitarias como no universitarias.
+2. Tampoco se autorizará cuando en el núcleo urbano exista otro establecimiento de juego ya autorizado a una distancia inferior a 250 metros del que se pretende instalar. Si hubiera varias solicitudes en tramitación será de aplicación lo previsto en el artículo 71.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, a los efectos de aplicar la exigencia anterior.
+3. Para la medición de distancias se partirá del eje de la vía pública a la que dé frente cada una de las puertas de acceso al establecimiento de juego, tomando tal eje desde la perpendicular trazada desde el centro de aquellas puertas de acceso, siguiéndose luego el vial más corto que utilicen los peatones y que tenga la consideración legal de dominio público.
+Se añade por el art. único.8 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+
+### Artículo 46
+
+Artículo 46. Locales específicos de apuestas y zonas de apuestas en recintos deportivos.
+1. Se entiende por locales específicos de Apuestas aquellos establecimientos abiertos al público que, bajo las condiciones reglamentarias establecidas, hayan sido autorizados de forma exclusiva para la formalización de apuestas.
+La autorización tendrá el mismo periodo de vigencia que el concedido a la empresa operadora de las apuestas.
+2. Son zonas de apuestas las áreas determinadas al efecto dentro de los recintos donde se celebren acontecimientos deportivos.
+La autorización tendrá el mismo periodo de vigencia que el concedido a la empresa operadora de las apuestas y también podrá autorizarse la instalación de una zona de apuestas para un período determinado de tiempo dentro de un mismo recinto.
+Reglamentariamente se determinarán los requisitos de funcionamiento de las zonas de apuestas en recintos deportivos.
+Se añade por el art. único.8 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+
+### Artículo 47
+
+Artículo 47. Control de admisión en locales de juego y en el juego realizado por medios electrónicos, informáticos, telemáticos o interactivos.
+1. Los establecimientos autorizados para la práctica de juegos y apuestas, casinos, salas de bingo, salones de juego, locales específicos de apuestas, zonas de apuestas en recintos deportivos y otros espacios deberán tener obligatoriamente a la entrada del local un servicio de admisión que controlará el acceso al local de todos los jugadores o visitantes.
+En el juego practicado a través de canales electrónicos, informáticos, telemáticos o interactivos la comprobación se realizará cada vez que el jugador se identifique en el sistema de juego.
+2. La utilización de dicho sistema de identificación estará sujeto a las prescripciones de la normativa de protección de datos de carácter personal.
+3. Reglamentariamente se establecerán el contenido, organización y funcionamiento del control de admisión.
+4. Las empresas que exploten modalidades de juego por medio de canales telemáticos dispondrán de un sistema que permita identificar a la persona jugadora y comprobar que no está incursa en las prohibiciones para jugar.
+Se añade por el art. único.8 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+
+### Artículo 48
+
+Artículo 48. La Inspección, vigilancia y control.
+1. La inspección, vigilancia y control de las actividades de juego, corresponde a la Consejería competente en materia de juego, quien las desarrollará con medios propios a través de funcionarios de la Junta de Extremadura titulares de puestos que tengan encomendadas dichas tareas, así como por los miembros de los cuerpos y fuerzas de seguridad del Estado y policía local.
+2. El personal encargado de la inspección tendrá las siguientes funciones:
+a) Vigilar e inspeccionar el cumplimiento de la normativa.
+b) Investigar y perseguir el juego clandestino.
+c) Elaborar informes y asesoramiento, en materia de juego.
+d) Las demás funciones que reglamentariamente se determinen.
+3. Las personas que ejerzan las funciones de inspección, podrán entrar libremente en cualquier momento y sin previo aviso en todo establecimiento de juego y apuestas, así como en aquellos locales, recintos, lugares o inmuebles abiertos al público, en los que se desarrolle actividad de juego.
+4. El personal de la inspección del juego tendrá la consideración de personal agente de la autoridad en el ejercicio de sus funciones, gozando como tal de la protección que le dispensa la legislación vigente y estará facultado para acceder y examinar las máquinas, material de juego, documentos y todos los demás elementos que puedan servir de información para el mejor cumplimiento de sus funciones.
+5. Las personas representantes legales o que se encuentren al frente de los locales donde se desarrollen los juegos, tendrán la obligación de facilitar a la Inspección, en el ejercicio de sus funciones, el acceso y comprobación de los locales o establecimientos y de proporcionar a la inspección la información y documentación relativa a la actividad de juego.
+6. En el caso de existir fundadas sospechas de que en inmuebles no abiertos al público, pudieren desarrollarse juegos no autorizadas, la Inspección podrá solicitar el consentimiento expreso de la persona titular de aquel o su representante legal para acceder al mismo o bien, mediante informe razonado, podrá instar de la titular del órgano directivo, competente en materia de juego, que se solicite autorización judicial de entrada en el correspondiente inmueble, a los efectos del ejercicio de las funciones inspectoras.
+7. Al efectuar una visita de inspección, el personal funcionario actuante, deberá identificarse y comunicar su presencia a la persona responsable del establecimiento, local o recinto.
+8. La inspección podrá requerir información sobre cualquier asunto relativo a la actividad del juego, así como a exigir la identificación de las personas que se encuentren en el establecimiento, local, recinto, lugar o inmueble inspeccionado, sean trabajadores, propietarios o clientes. Igualmente podrá exigir que se les facilite el examen de las hojas de reclamaciones, documentos y registros preceptivos que se lleven con motivo de la actividad o los hechos objeto de la inspección.
+9. Los hechos constatados por la inspección deberán reflejarse en el acta correspondiente. En ella se consignarán las circunstancias que sean precisas para la mejor expresión de los hechos objeto de la inspección y será firmada por las personas comparecientes ante quienes se formalice, entregándoles una copia. La firma del acta no implicará, salvo manifestación expresa de la persona interesada, la aceptación de su contenido. Las personas reseñadas anteriormente podrán hacer constar en el acta las observaciones que deseen formular en relación con su contenido. La negativa de la firma por parte de la persona o personas comparecientes no invalidará el acta.
+10. Lo reflejado en el Acta tendrá presunción de veracidad salvo prueba en contrario, en los términos previstos en la normativa básica en materia de procedimiento administrativo, y deberá ser remitida al órgano competente en la materia, a fin de que, en su caso, se incoe el oportuno expediente o se adopten las medidas que sean procedentes.
+Se añade por el art. único.8 del Decreto-ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-8428
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Reglamentariamente se determinarán las condiciones técnicas de las máquinas de tipo «A» y «A1» definidas en esta Ley, velando especialmente por la protección de los menores y de los jóvenes.
+La expedición de la guía de circulación en el territorio de la Comunidad Autónoma de Extremadura de las máquinas de tipo «A» y A1» estará sujeta al pago de la tasa por prestación del correspondiente servicio.
+La guía de circulación de las máquinas de tipo «A» y «A1» habilitará a la empresa operadora para su explotación indefinida, hasta tanto no se produzca la extinción y revocación de la autorización de explotación por las causas establecidas reglamentariamente.
+2. Explotar máquinas sin la guía de circulación, transmitirlas sin notificar tal hecho a la Administración, o utilizarla para juegos o utilidades distintas para el que fueron concedidas será sancionado como infracción grave salvo que de acuerdo con la presente ley corresponda otra mayor, siendo responsable quien aparezca como poseedor de la máquina y, subsidiariamente, el titular eventual.
+3. No se exigirá afianzamiento para la explotación de tales máquinas, pero quien lo tuviese constituido podrá continuar con su actual régimen salvo que opte por acomodarse al nuevo.
+Se deroga el apartado 4 por la disposición derogatoria única de la Ley 5/2008, de 26 de diciembre. Ref. BOE-A-2009-872 y se modifica el apartado 1 por la disposición adicional 1.1 de la Ley 6/2008, de 26 de diciembre. Ref. BOE-A-2009-873
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+(Derogada).
+Se deroga por la disposición derogatoria única.2 de la Ley 7/2003, de 19 de diciembre. Ref. BOE-A-2004-1979
+ Véase, sobre la cuantía del recargo para 2002, la disposición adicional 2.1 de la Ley 20/2001, de 20 de diciembre. Ref. BOE-A-2002-2417
+ Se modifica el párrafo tercero por la disposición adicional 3 de la Ley 5/2000, de 21 de diciembre. Ref. BOE-A-2001-3068
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Sin perjuicio de lo dispuesto en el artículo 4 de esta Ley, se establece con carácter indicativo la siguiente lista de juegos:
+a) Ruleta francesa.
+b) Ruleta americana.
+c) Veintiuna o Black Jack.
+d) Bola o Boule.
+e) Treinta y cuarenta.
+f) Punto y banca.
+g) Ferrocarril, bacarrá o chemin de fer.
+h) Bacarrá a dos paños.
+i) Máquinas recreativas con premio y de azar.
+j) Rifas, tómbolas y combinaciones aleatorias, así como apuestas sobre acontecimientos deportivos o de otro carácter previamente determinados.
+k) Loterías y sorteos.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Los establecimientos de juego en grandes instalaciones de ocio que cuenten con la Calificación de Gran Instalación de Ocio en los términos establecidos en la legislación especial al respecto, se someterán al régimen jurídico especial allí previsto, sin que les sean de aplicación los procedimientos de autorización previstos en el articulado de esta Ley. Tampoco le serán de aplicación los límites previstos en el artículo 8 de esta Ley. En el resto de cuestiones, se aplicará esta Ley con carácter supletorio.
+Se añade por la disposición adicional 1 de la Ley 7/2018, de 2 de agosto. Ref. BOE-A-2018-11905#da
+ Se deroga por la disposición derogatoria única.1 de la Ley 19/2010, de 28 de diciembre. Ref. BOE-A-2011-1144
+ Se añade por la disposición adicional 15 de la Ley 11/1998, de 16 de diciembre. Ref. BOE-A-1999-1369
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+(Derogada).
+Se deroga por la disposición derogatoria única.2 de la Ley 7/2003, de 19 de diciembre. Ref. BOE-A-2004-1979
+ Se añade por la disposición adicional 2.2 de la Ley 20/2001, de 20 de diciembre. Ref. BOE-A-2002-2417
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+1. Se prohíbe en el territorio de la Comunidad Autónoma de Extremadura la práctica de la modalidad de juego mediante máquinas del tipo grúa salvo en la fiestas municipales y en los recintos feriales con ocasión de las mismas.
+2. Las máquinas actualmente en explotación deberán ser objeto de retirada por las empresas explotadoras antes del día 1 de julio de 2002. Las que después de esa fecha no hayan sido retiradas, serán objeto de inmovilización y comiso por la Administración.
+3. Los explotadores de estas máquinas que hubieren satisfecho alguna tasa a la Hacienda Regional podrán solicitar antes del 31 de julio de 2002 la devolución de la proporción de la misma por el tiempo que quede por explotar hasta un máximo de diez años, siempre que acrediten además de los extremos que se establezcan reglamentariamente, la destrucción de las máquinas o su ubicación fuera del territorio extremeño mediante certificación administrativa o acta de notoriedad.
+Se añade por la disposición adicional 2.3 de la Ley 20/2001, de 20 de diciembre. Ref. BOE-A-2002-2417
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Autorizaciones de explotación de las máquinas de tipo “A” vigentes a 1 de enero de 2008.
+Las autorizaciones de explotación de las máquinas de tipo “A” que a 1 de enero de 2008 contaran con la correspondiente guía de circulación en vigor, quedarán renovadas automáticamente con carácter indefinido.
+Se añade por la disposición adicional 1.2 de la Ley 6/2008, de 26 de diciembre. Ref. BOE-A-2009-873
+
+### Disposición adicional octava
+
+Disposición adicional octava. Organización, celebración y desarrollo de combinaciones aleatorias con fines publicitarios o promocionales.
+No se exigirá la autorización administrativa previa para la organización, celebración y desarrollo de combinaciones aleatorias con fines publicitarios o promocionales, cualquiera que sea la fórmula de loterías o juegos promocionales que revistan, incluidos los establecidos en el artículo 20 de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, siempre que la participación del público en estas actividades sea gratuita y en ningún caso exista sobre precio o tarificación adicional alguna cualquiera que fuere el procedimiento o sistema a través del que se realice.
+Se añade por la disposición adicional 8 de la Ley 8/2009, de 28 de diciembre. Ref. BOE-A-2010-1086
+
+### Disposición adicional novena
+
+Disposición adicional novena. Suspensión de las autorizaciones de explotación de las máquinas recreativas de juego y de azar.
+Reglamentariamente se establecerán los requisitos para proceder a la suspensión, a solicitud de las empresas operadoras, de la explotación de una máquina recreativa o de azar, sin que tal situación pueda exceder de un periodo de 24 meses.
+La suspensión de la autorización de explotación por razones técnicas, organizativas o económicas debidamente justificadas no llevará aparejada la inutilización, desguace o destrucción de la máquina.
+Se añade por el art. 29 de la la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Hasta que los distintos órganos de la Comunidad Autónoma de Extremadura no hagan uso de las facultades reglamentarias que les concede la presente Ley, serán de aplicación directa las disposiciones generales de la Administración del Estado y de la Comunidad Autónoma en materia de juego.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Las autorizaciones de carácter temporal concedidas con anterioridad a la entrada en vigor de esta Ley se considerarán válidas y en vigor hasta la conclusión del plazo indicado en las mismas.
+Las autorizaciones de entidades gestoras de juegos colectivos de dinero y azar vigentes en la actualidad concedidas a entidades sin ánimo de lucro, podrán renovarse sin necesidad de constituirse en forma societaria mercantil.
+Sus renovaciones se llevarán a cabo de acuerdo con las prescripciones de la presente Ley y las normas que las desarrollen o complementen.
+Las autorizaciones sin plazo de vigencia deberán renovarse, al menos, en el plazo de cinco años a contar desde la entrada en vigor de la presente Ley.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo de Gobierno de la Junta de Extremadura para que dicte las disposiciones necesarias para el desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Diario Oficial de Extremadura».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos que sea de aplicación esta Ley que cooperen a su cumplimiento, y a los Tribunales y Autoridades que corresponda la hagan cumplir.
+Mérida, 18 de junio de 1998.–El presidente, Juan Carlos Rodríguez Ibarra.

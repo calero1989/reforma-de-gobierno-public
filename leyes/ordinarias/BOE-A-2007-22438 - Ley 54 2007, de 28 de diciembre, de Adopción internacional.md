@@ -1,0 +1,513 @@
+# Ley 54/2007, de 28 de diciembre, de Adopción internacional.
+
+- Identificador BOE: `BOE-A-2007-22438`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-22438
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presenten vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+I
+Las circunstancias económicas y demográficas de determinados países, en los que muchos niños no han podido encontrar un ambiente propicio para su desarrollo, unido al descenso de la natalidad en España, han originado que en los últimos años el número de menores extranjeros adoptados por españoles o residentes en España se haya incrementado notablemente. En dicha situación surgen nuevas necesidades y demandas sociales de las que se han hecho eco numerosas instituciones tanto públicas como privadas, que han trasladado al Gobierno la necesidad de adecuar el ordenamiento jurídico a la realidad social actual.
+El aumento de adopciones constituidas en el extranjero supone, a su vez, un desafío jurídico de grandes proporciones para el legislador, que debe facilitar los instrumentos normativos precisos para que la adopción tenga lugar con las máximas garantías y respeto a los intereses de los menores a adoptar, posibilitando el desarrollo armónico de la personalidad del niño en el contexto de un medio familiar propicio. Todo ello en el marco de la más escrupulosa seguridad jurídica que redunda siempre en beneficio de todos los participantes en la adopción internacional, especialmente y en primer lugar, en beneficio del menor adoptado. El transcurso de los años ha proporcionado perspectiva suficiente para apreciar la oportunidad de una Ley que pusiera fin a la dispersión normativa característica de la legislación anterior y reuniera una regulación completa de las cuestiones de derecho internacional privado necesariamente presentes en todo proceso de adopción internacional.
+II
+La presente Ley conjuga los principios y valores de nuestra Constitución con las disposiciones de los instrumentos internacionales en materia de adopción que son parte de nuestro ordenamiento jurídico. En especial, es preciso poner de manifiesto la trascendencia que tienen en esta nueva ordenación los principios contenidos en el Convenio de las Naciones Unidas sobre los derechos del niño, de 20 de noviembre de 1989, en la Declaración de Naciones Unidas sobre los principios sociales y jurídicos aplicables a la protección y al bienestar de los niños, considerados sobre todo desde el ángulo de las prácticas en materia de adopción y de colocación familiar en los planos nacional e internacional (Resolución de la Asamblea General 41/1985, de 3 de diciembre de 1986), en el Convenio relativo a la protección del niño y a la cooperación en materia de adopción internacional, hecho en La Haya el 29 de mayo de 1993, ratificado por España mediante Instrumento de 30 de junio de 1995.
+Un referente de gran importancia en España ha sido el trabajo llevado a cabo en la Comisión del Senado sobre adopción internacional, cuyas conclusiones, elaboradas con las aportaciones de autoridades y expertos en la materia, han marcado una línea y camino a seguir en el enfoque de este fenómeno social.
+En aplicación de la Constitución y de los instrumentos legales internacionales en vigor para España, esta nueva norma concibe la adopción internacional como una medida de protección de los menores que no pueden encontrar una familia en sus países de origen y establece las garantías necesarias y adecuadas para asegurar que las adopciones internacionales se realicen, ante todo, en interés superior del niño y con respeto a sus derechos. Asimismo, se pretende evitar y prevenir la sustracción, la venta o el tráfico de niños, asegurando al mismo tiempo la no discriminación del menor por razón de nacimiento, nacionalidad, raza, sexo, deficiencia o enfermedad, religión, lengua, cultura, opinión o cualquier otra circunstancia personal, familiar o social.
+Cabe añadir que la presente Ley debe ser siempre interpretada con arreglo al principio del interés superior de los menores, que prevalecerá sobre cualquier otro interés legítimo que pudiera concurrir en los procesos de adopción internacional.
+III
+La Ley tiene por objeto una regulación normativa sistemática, coherente y actualizada que permite dar respuesta al fenómeno de la adopción internacional en España.
+El articulado se divide en tres Títulos. Bajo la rúbrica «Disposiciones generales», el Título I establece el ámbito de aplicación y la intervención de las Entidades Públicas competentes en materia de protección de menores, con especial detenimiento en la especificación de las funciones que desarrollan las Entidades Colaboradoras en la adopción internacional.
+Así, en el Capítulo I se establece el ámbito de aplicación de la norma, el objetivo pretendido por esta Ley de establecimiento de garantías de las adopciones tomando siempre como guía el interés superior de los menores, y se señala cuáles son los principios que informan la adopción internacional en consonancia con la Convención de los Derechos del Niño de 20 de noviembre de 1989 y el Convenio de La Haya de 29 de mayo de 1993 sobre la protección de los derechos del niño y cooperación en materia de adopción internacional. Cierra este Capítulo la determinación de las circunstancias que impiden la adopción, en esa línea de procurar que las adopciones tengan lugar únicamente cuando existen las garantías mínimas suficientes.
+En el Capítulo II se recoge la intervención de las Entidades Públicas de Protección de Menores en el procedimiento de adopción y las funciones de intermediación que únicamente podrán llevarse a cabo por Entidades Colaboradoras previamente acreditadas por la Entidad Pública española competente y por la autoridad correspondiente del país de origen de los menores.
+La función intermediadora que se atribuye en exclusiva a estas Entidades Colaboradoras ha impuesto al legislador la tarea de configurar un marco jurídico que conjugue la prestación integral del servicio que tienen encomendado con unos mecanismos básicos para su acreditación y control, que deberá ser ejercido por las Entidades Públicas competentes.
+En este marco relativo a la acreditación, seguimiento y control de las Entidades Colaboradoras, se aborda otra serie de cuestiones como la posibilidad de formalizar acuerdos de cooperación entre estas entidades ante situaciones especiales, la posibilidad de establecer la coordinación entre las Entidades Públicas de Protección de Menores competentes, la decisión sobre el número de Entidades Colaboradoras de Adopción Internacional en países concretos, los supuestos de suspensión o retirada de la acreditación a Entidades Colaboradoras acreditadas en varias Comunidades Autónomas, la concreción del carácter de la relación de las Entidades Colaboradoras con sus representantes en el país de origen de los menores y la responsabilidad de aquéllas por los actos que éstos realicen en las funciones de intermediación.
+Por otra parte, el Capítulo III regula la idoneidad de los adoptantes partiendo de la definición de su concepto, de la determinación de las cuestiones y aspectos a que debe referirse y del establecimiento de su plazo máximo de vigencia.
+También en este Capítulo se impone a los adoptantes una serie de obligaciones postadoptivas y se reconoce el derecho de los adoptados a conocer sus orígenes biológicos. Consciente el legislador de la trascendencia de esta cuestión desde la perspectiva del libre desarrollo de la personalidad de las personas adoptadas, se ha conjugado el ejercicio de este derecho con las necesarias cautelas para proteger la intimidad de las personas afectadas. De esta forma se establecen dos limitaciones fundamentales: por una parte, la legitimación restringida a la persona del adoptado una vez alcanzada la mayoría de edad o bien con anterioridad si está representada por sus padres y, por otra parte, el asesoramiento e intervención necesaria de las Entidades Públicas competentes para facilitar el acceso a los datos requeridos.
+Concluye el Capítulo con un precepto específicamente destinado a la protección de los datos de carácter personal, de conformidad con el informe de la Agencia Española de Protección de Datos.
+La segunda parte de la Ley se destina a regular las normas de Derecho Internacional Privado relativas a la adopción internacional. Así, el Título II consta de tres partes bien diferenciadas.
+En primer lugar, ofrece una regulación completa de la competencia de las autoridades españolas para la constitución, modificación, conversión y declaración de nulidad de la adopción internacional. Inspirada en el principio de «conexión mínima», una autoridad española no debe proceder a la constitución, modificación o declaración de nulidad de una adopción internacional si el supuesto no aparece mínimamente conectado con España. De ese modo, se evita la penetración de foros exorbitantes en la legislación española, foros que pueden provocar la constitución de adopciones válidas en España pero ineficaces o inexistentes en otros países, especialmente en el país de origen del menor.
+En segundo lugar, la Ley regula la legislación aplicable a la constitución de la adopción internacional por autoridades españolas, así como a la conversión, modificación y declaración de nulidad de la misma. Con el fin de lograr una mejor sistemática, el Capítulo relativo a la «Ley aplicable a la adopción» distingue dos supuestos. Cuando el adoptando posea su residencia habitual en España o la vaya a adquirir próximamente, se opta por disponer la aplicación de la ley española a la constitución de la adopción. Sin embargo, cuando el adoptando no resida habitualmente en España, ni vaya a ser trasladado a España para establecer en España su centro social de vida, se ha preferido que la adopción se rija por la ley del país en cuya sociedad va a quedar integrado. En ambos casos, la Ley incorpora las necesarias cautelas y se otorga en el segundo un margen de discrecionalidad judicial más amplio para dar entrada puntual a otras leyes estatales diferentes y procurar la mayor validez internacional de la adopción constituida en España.
+En tercer lugar, contiene una regulación exhaustiva de los efectos jurídicos que pueden surtir en España las adopciones constituidas ante autoridades extranjeras competentes. Estas disposiciones revisten una importancia particular, visto que el número de adopciones constituidas en el extranjero por ciudadanos residentes en España es, en la actualidad, manifiestamente superior al número de adopciones constituidas en España. En este punto, la Ley arranca del necesario respeto al entramado legal, compuesto por los Tratados y Convenios internacionales y otras normas internacionales de aplicación para España, que resultan aplicables para concretar los efectos legales que surten en España las adopciones constituidas en el extranjero.
+Con base en lo anterior, la Ley establece un régimen para el reconocimiento en España de las adopciones constituidas por autoridades extranjeras en defecto de normativa internacional aplicable. Dicho régimen gira en torno a una idea elemental: la adopción sólo será reconocida en España si se ha constituido válidamente en el Estado de origen y si, además, satisface determinadas exigencias de regularidad jurídica o que giren en torno al interés del adoptando. De ese modo, se evita que una adopción que no haya sido regularmente constituida en un país extranjero, pueda desplegar efectos legales en España y que las adopciones constituidas sin un respeto suficiente a los mínimos niveles de justicia, con especial atención al interés del menor, surtan efectos en España.
+A tal efecto, las autoridades españolas y en especial, los Encargados del Registro Civil, deberán controlar, en todo caso, que la adopción haya sido constituida por autoridad extranjera competente, que dicha autoridad respetó sus propias normas de Derecho Internacional Privado y constituyó, por tanto, una adopción válida en dicho país. Deberá constatar asimismo que la adopción constituida en país extranjero surte, según la ley aplicada a su constitución, los mismos efectos sustanciales que la adopción regulada en la legislación española, que los adoptantes han sido declarados idóneos para adoptar, y que, en el caso de adoptando español, se haya emitido el consentimiento de la Entidad Pública correspondiente a la última residencia del adoptando en España y, finalmente, que el documento presentado en España y que contiene el acto de adopción constituida ante autoridad extranjera, reúna las suficientes garantías formales de autenticidad.
+La Ley incorpora igualmente, una regulación, hasta ahora inexistente en nuestro Derecho positivo, relativa a los efectos en España de la adopción simple o menos plena legalmente constituida por autoridad extranjera, así como la posibilidad de conversión en una adopción con plenitud de efectos, estableciendo los factores que deben concurrir en cada caso para que la autoridad española competente acuerde la transformación.
+Concluye el articulado de la Ley con un Título III en el que se regula el régimen jurídico-privado de los casos internacionales de acogimiento familiar y otras medidas de protección de menores.
+IV
+Se completa la Ley con la modificación de determinados artículos del Código Civil. En primer lugar, la que impone el contenido del Título II de la Ley en el artículo 9.5 del Código Civil, que pasa a cumplir una mera función de remisión a la Ley de adopción internacional.
+Por otro lado se aprovecha el evidente vínculo que une la adopción con la protección de los menores para abordar la reforma de los artículos 154, 172, 180 y 268 del Código Civil. Además de mejorarse la redacción de estos preceptos, se da respuesta de este modo a los requerimientos del Comité de Derechos del Niño, que ha mostrado su preocupación por la posibilidad de que la facultad de corrección moderada que hasta ahora se reconoce a los padres y tutores pueda contravenir el artículo 19 de la Convención sobre los Derechos del Niño de 20 de noviembre de 1989.
+Estas reformas serán de aplicación supletoria respecto del derecho propio de aquellas Comunidades Autónomas que lo posean.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación de la ley.
+1. La presente ley regula la intervención de la Administración General del Estado, de las Entidades Públicas y de los organismos acreditados para la adopción internacional, la capacidad y requisitos que deben reunir las personas que se ofrecen para adoptar, así como las normas de Derecho internacional privado relativas a la adopción y otras medidas de protección internacional de menores en los supuestos en que exista algún elemento extranjero.
+2. A los efectos del título I de esta ley se entiende por adopción internacional aquella en la que un menor considerado adoptable por la autoridad extranjera competente y con residencia habitual en el extranjero, es o va a ser desplazado a España por adoptantes con residencia habitual en España, bien después de su adopción en el Estado de origen, bien con la finalidad de constituir tal adopción en España.
+Se modifica por el art. 3.1 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 2
+
+Artículo 2. Objeto y finalidad de la Ley.
+1. La presente Ley establece el marco jurídico y los instrumentos básicos para garantizar que todas las adopciones internacionales tengan lugar en consideración al interés superior del menor.
+2. La finalidad de esta ley es proteger los derechos de los menores que van a ser adoptados, considerando también los de las personas que se ofrecen para la adopción y demás personas implicadas en el proceso de adopción internacional.
+Se modifica el apartado 2 por el art. 3.2 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 3
+
+Artículo 3. Principios informadores.
+La regulación contenida en esta ley, así como en el resto de normas del ordenamiento jurídico español relativas a la adopción y otras medidas de protección internacional de menores, respetarán los principios inspiradores de la Convención de Derechos del Niño, de 20 de noviembre de 1989, del Convenio de La Haya, de 29 de mayo de 1993, relativo a la protección de derechos del niño y a la cooperación en materia de adopción internacional, del Convenio de La Haya, de 19 de octubre de 1996, relativo a la competencia, la ley aplicable, el reconocimiento, la ejecución y la cooperación en materia de responsabilidad parental y de medidas de protección de los niños, del Convenio del Consejo de Europa en materia de adopción de menores hecho en Estrasburgo el 27 de noviembre de 2008, y del Reglamento (CE) n.º 2201/2003 del Consejo, de 27 de noviembre de 2003, relativo a la competencia, el reconocimiento y la ejecución de resoluciones judiciales en materia matrimonial y de responsabilidad parental.
+El Estado, en la medida de lo posible, incluirá los estándares y salvaguardas previstos en dichos instrumentos en los acuerdos o Convenios bilaterales relativos a la adopción y protección internacional de menores que suscriba con Estados no contratantes u obligados por los mismos.
+Se modifica por el art. 3.3 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 4
+
+Artículo 4. Política Exterior.
+1. La Administración General del Estado, en colaboración con las Entidades Públicas, determinará la iniciación de la tramitación de adopciones con cada país de origen de los menores, así como la suspensión o paralización de la misma.
+2. No se tramitarán ofrecimientos para la adopción de menores nacionales de otro país o con residencia habitual en otro Estado en las siguientes circunstancias:
+a) Cuando el país en que el menor adoptando tenga su residencia habitual se encuentre en conflicto bélico o inmerso en un desastre natural.
+b) Si no existe en el país una autoridad específica que controle y garantice la adopción y que remita a las autoridades españolas la propuesta de asignación con información sobre la adoptabilidad del menor y el resto de la información recogida en el párrafo e) del artículo 5.1.
+c) Cuando en el país no se den las garantías adecuadas para la adopción y las prácticas y trámites de la misma no respeten el interés del menor o no cumplan los principios éticos y jurídicos internacionales referidos en el artículo 3.
+3. La Administración General del Estado, en colaboración con las Entidades Públicas, determinará en cada momento qué países están incursos en alguna de las circunstancias previstas en el apartado anterior a efectos de decidir si procede iniciar o suspender la tramitación de adopciones en ellos.
+4. La tramitación de ofrecimientos para la adopción de aquellos menores extranjeros que hayan sido desplazados a España en programas humanitarios de estancia temporal por motivo de vacaciones, estudios o tratamiento médico, requerirá que tales estancias hayan finalizado y que en su país de origen hayan sido declarados adoptables.
+5. La Administración General del Estado, en colaboración con las Entidades Públicas, establecerá el número de expedientes de adopción internacional que remitirá anualmente a cada país de origen de los menores, teniendo en cuenta la media de adopciones constituidas en los últimos dos años y el número de expedientes que se encuentran pendientes de asignación de un menor.
+A tal efecto, no podrá tramitarse con cada país un número de expedientes superior a tres veces la media de adopciones constituidas en dicho periodo, salvo que los cambios de legislación, prácticas y políticas sobre adopción internacional de los países de origen lo justifiquen.
+En el supuesto de inicio de la tramitación con un nuevo país, se fijará este número en función de la información disponible sobre expectativas de adopción con ese país.
+La distribución de este número máximo entre comunidades autónomas y organismos acreditados se fijará por acuerdo con las Entidades Públicas.
+No se establecerá cupo alguno para la tramitación de adopciones de menores con necesidades especiales, salvo que existan circunstancias que lo justifiquen.
+Lo dispuesto en el presente apartado se realizará con los criterios y con el procedimiento que reglamentariamente se determinen.
+6. La Administración General del Estado, antes de determinar la iniciación, suspensión o paralización de la tramitación de adopciones con cada país de origen de los menores, recabará información de los organismos acreditados, si los hubiera. También podrá recabar información de aquellos terceros países que hayan iniciado, suspendido o paralizado la tramitación de adopciones con el citado país de origen, así como con la Oficina Permanente de la Conferencia de La Haya de Derecho Internacional Privado.
+Se modifica por el art. 3.4 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+## CAPÍTULO II
+
+Entidades Públicas y organismos acreditados
+Se modifica la rúbrica por el art. 3.5 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 5
+
+Artículo 5. Intervención de las Entidades Públicas.
+1. En materia de adopción internacional corresponde a las Entidades Públicas:
+a) Organizar y facilitar la información sobre legislación, requisitos y trámites necesarios en España y en los países de origen de los menores, velando para que esa información sea lo más completa, veraz y actualizada posible y de libre acceso para las familias interesadas y por los organismos acreditados.
+b) Facilitar a las familias la formación necesaria a lo largo de todo el proceso que les permita comprender y afrontar las implicaciones de la adopción internacional, preparándolas para el adecuado ejercicio de sus responsabilidades parentales una vez constituida aquélla. Podrán delegar esta función en organismos acreditados o en instituciones o entidades debidamente autorizadas.
+c) Recibir los ofrecimientos para la adopción en todo caso, y su tramitación, ya sea directamente o a través de organismos acreditados.
+d) Expedir, en todo caso, los certificados de idoneidad, previa elaboración, bien directamente o a través de instituciones o entidades debidamente autorizadas, del informe psicosocial de las personas que se ofrecen para la adopción, y, cuando lo exija el país de origen del adoptando, el compromiso de seguimiento.
+e) Recibir la asignación del menor de las autoridades competentes del país de origen en la que figure información sobre su identidad, su adoptabilidad, su medio social y familiar, su historia médica y necesidades particulares; así como la información relativa al otorgamiento de los consentimientos de personas, instituciones y autoridades requeridas por la legislación del país de origen.
+f) Dar la conformidad respecto a la adecuación de las características del menor asignado por el organismo competente del país de origen con las que figuren en el informe psicosocial que acompaña al certificado de idoneidad.
+g) Ofrecer a lo largo del proceso de adopción internacional apoyo técnico dirigido a los menores y a las personas que se ofrecen para la adopción, prestándose particular atención a las personas que vayan a adoptar o hayan adoptado menores con características o necesidades especiales. Durante la estancia de los adoptantes en el extranjero podrán contar con la colaboración del Servicio Exterior.
+h) Realizar los informes de los seguimientos requeridos por el país de origen del menor, que podrán encomendarse a los organismos acreditados o a otras entidades autorizadas.
+i) Establecer recursos cualificados de apoyo postadoptivo y de mediación para la búsqueda de orígenes, para la adecuada atención de adoptados y adoptantes, que podrán encomendarse a organismos acreditados o a entidades autorizadas.
+j) Informar preceptivamente a la Administración General del Estado sobre la acreditación de los organismos, así como controlar, inspeccionar y elaborar las directrices de seguimiento de los organismos que tengan su sede en su ámbito territorial para aquellas actividades de intermediación que se lleven a cabo en su territorio.
+2. En sus actuaciones en materia de adopción internacional, las Entidades Públicas promoverán medidas para lograr la máxima coordinación y colaboración entre ellas. En particular, procurarán la homogeneización de procedimientos, plazos y costes.
+3. Las Entidades Públicas facilitarán a la Administración General del Estado información estadística sobre la tramitación de expedientes de adopción internacional.
+Se modifica por el art. 3.6 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 6
+
+Artículo 6. La actividad de intermediación en la adopción internacional.
+1. Se entiende por intermediación en adopción internacional toda actividad que tenga por objeto intervenir poniendo en contacto o en relación a las personas que se ofrecen para la adopción con las autoridades, organizaciones e instituciones del país de origen o residencia del menor susceptible de ser adoptado y prestar la asistencia suficiente para que la adopción se pueda llevar a cabo.
+2. La función de intermediación en la adopción internacional podrá efectuarse por las entidades Públicas directamente con las autoridades centrales en los países de origen de los menores que hayan ratificado el Convenio de La Haya, de 29 de mayo de 1993, relativo a la protección del niño y a la cooperación en materia de adopción internacional, siempre que en la fase de tramitación administrativa en el país de origen no intervenga persona física o jurídica u organismo que no haya sido debidamente acreditado.
+La función de intermediación en la adopción internacional podrá efectuarse por los organismos debidamente acreditados.
+Ninguna otra persona o entidad podrá intervenir en funciones de intermediación para adopciones internacionales.
+No obstante, la Administración General del Estado, en colaboración con las Entidades Públicas, podrá establecer que, con respecto a un determinado Estado, únicamente se tramiten ofrecimientos de adopción internacional a través de organismos acreditados o autorizados por las autoridades de ambos Estados.
+3. Las funciones que deben realizar los organismos acreditados para la intermediación serán las siguientes:
+a) Información a los interesados en materia de adopción internacional.
+b) Asesoramiento, formación y apoyo a las personas que se ofrecen para la adopción en el significado e implicaciones de la adopción, en los aspectos culturales relevantes y en los trámites que necesariamente deben realizar en España y en los países de origen de los menores.
+c) Intervención en la tramitación de expedientes de adopción ante las autoridades competentes, tanto españolas como extranjeras.
+d) Intervención en la tramitación y realización de las gestiones correspondientes para el cumplimiento de las obligaciones postadoptivas establecidas para los adoptantes en la legislación del país de origen del menor adoptado, que les serán encomendadas en los términos fijados por la Entidad Pública española donde resida la familia que se ofrece para la adopción.
+4. Los organismos acreditados intervendrán en los términos y con las condiciones establecidas en esta ley y en las normas de las comunidades autónomas.
+5. Los organismos acreditados podrán establecer entre ellos acuerdos de cooperación para solventar situaciones sobrevenidas o para un mejor cumplimiento de sus fines.
+6. En las adopciones internacionales nunca podrán producirse beneficios financieros distintos de aquellos que fueran precisos para cubrir estrictamente los gastos necesarios de la intermediación y aprobados por la Administración General del Estado y por las Entidades Públicas.
+Se modifica por el art. 3.7 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 7
+
+Artículo 7. Acreditación, seguimiento y control de los organismos acreditados.
+1. Sólo podrán ser acreditadas para la adopción internacional las entidades sin ánimo de lucro inscritas en el registro correspondiente, que tengan como finalidad en sus estatutos la protección de menores, dispongan en territorio nacional de los medios materiales y equipos pluridisciplinares necesarios para el desarrollo de las funciones encomendadas y estén dirigidas y administradas por personas cualificadas por su integridad moral, por su formación y por su experiencia en el ámbito de la adopción internacional.
+2. (Párrafo primero anulado)
+Se declara la inconstitucionalidad y nulidad, con los efectos establecidos en el fundamento jurídico 16, del párrafo primero del apartado 2, por Sentencia del TC 36/2021, de 18 de febrero. Ref. BOE-A-2021-4511
+ Téngase en cuenta que, según el fundamento jurídico 16, no afectará a las situaciones jurídicas consolidadas y se difieren los efectos de la nulidad por el plazo de un año a partir de la publicación de esta Sentencia.
+ Redacción anulada:
+ "Competerá a la Administración General del Estado, en los términos y con el procedimiento que reglamentariamente se establezca, la acreditación de los organismos anteriormente referenciados, previo informe de la Entidad Pública en cuyo territorio tengan su sede, así como su control y seguimiento respecto a las actividades de intermediación que vayan a desarrollar en el país de origen de los menores."
+En la Administración General del Estado existirá un registro público nacional específico de organismos acreditados, cuyo funcionamiento será objeto de desarrollo reglamentario.
+3. El control, inspección y seguimiento de estos organismos con respecto a las actividades que se vayan a desarrollar en el territorio de cada comunidad autónoma corresponderá a la Entidad Pública competente en cada una de ellas, de acuerdo con la normativa autonómica aplicable.
+Las Entidades Públicas competentes procurarán la mayor homogeneidad posible en los requisitos básicos para la realización de esa actividad de control, inspección y seguimiento.
+4. Los organismos acreditados designarán a la persona que actuará como su representante y de las familias ante la autoridad del país de origen del menor. Los profesionales empleados por los organismos acreditados en los países de origen de los menores se considerarán personal adscrito al organismo, que será responsable de los actos de dichos profesionales en el ejercicio de sus funciones de intermediación. Estos profesionales deberán ser evaluados por la Administración General del Estado, previa información de las Entidades Públicas.
+5. En el supuesto de que el país extranjero para el que se prevé la autorización fije un número limitado de organismos acreditados, la Administración General del Estado, en colaboración con las Entidades Públicas y con las autoridades de dicho país, determinará cuáles son los organismos que deben ser acreditados para actuar en el mismo.
+Si algún país de origen de menores susceptibles de adopción estableciera un límite en el número de expedientes a tramitar por cada organismo acreditado y resultase que alguno de ellos con cupo asignado no tuviera expedientes que tramitar en dicho país, los mismos podrán tramitar, previa autorización de la Administración General del Estado en colaboración con las Entidades Públicas y con el consentimiento de las personas que se ofrecen para la adopción, expedientes que estuvieran tramitándose por otros organismos acreditados.
+6. La Administración General del Estado, en colaboración con las Comunidades Autónomas, podrá establecer un número máximo de organismos acreditados para intermediación en un país concreto, en función de las necesidades de adopción internacional en ese país, las adopciones constituidas u otras cuestiones sobre la previsión de posibilidades de adopción internacional en el mismo.
+7. La Administración General de Estado, a iniciativa propia o a propuesta de las Entidades Públicas en su ámbito territorial, podrá suspender o retirar, mediante expediente contradictorio, la acreditación concedida a aquellos organismos que dejen de cumplir las condiciones que motivaron su concesión o que infrinjan en su actuación el ordenamiento jurídico. Esta suspensión o retirada de la acreditación podrá tener lugar con carácter general para todos los países autorizados o sólo para algún país concreto. En estos casos se podrá determinar, si procede, la necesaria finalización de los expedientes pendientes por parte del organismo acreditado objeto de pérdida de habilitación.
+Téngase en cuenta que se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 7, con los efectos establecidos en el fundamento jurídico 16, por Sentencia del TC 36/2021, de 18 de febrero. Ref. BOE-A-2021-4511
+8. Para el seguimiento y control de los organismos acreditados se establecerá la correspondiente coordinación de la Administración General del Estado con las Entidades Públicas.
+9. Los organismos acreditados facilitarán a la Administración General del Estado información estadística sobre la tramitación de expedientes de adopción internacional.
+10. La Administración General del Estado ejercerá las competencias previstas en los apartados 2, 4, 5, 6, 7 y 8 del presente artículo, en los términos y con el procedimiento que reglamentariamente se determinen.
+Se declara la inconstitucionalidad y nulidad del párrafo primero del apartado 2, y del inciso destacado del apartado 7, con los efectos establecidos en el fundamento jurídico 16, por Sentencia del TC 36/2021, de 18 de febrero. Ref. BOE-A-2021-4511
+ Se modifica por el art. 3.8 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 8
+
+Artículo 8. Relación de las personas que se ofrecen para la adopción y los organismos acreditados.
+1. Las personas que se ofrecen para la adopción podrán contratar los servicios de intermediación de cualquier organismo que se encuentre acreditado por la Administración General del Estado.
+Téngase en cuenta que se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 1, con los efectos establecidos en el fundamento jurídico 16, por Sentencia del TC 36/2021, de 18 de febrero. Ref. BOE-A-2021-4511
+2. El organismo y las personas que se ofrecen para la adopción formalizarán un contrato referido exclusivamente a las funciones de intermediación que aquélla asume con respecto a la tramitación del ofrecimiento de adopción.
+El modelo básico de contrato ha de ser previamente homologado por la Administración General del Estado y las Entidades Públicas, en la forma en que se determine reglamentariamente.
+3. Para el exclusivo cumplimiento de las competencias establecidas en los artículos 5.1.j) y 7.2, la Administración General del Estado y las Entidades Públicas llevarán un registro de las reclamaciones y de incidencias sobre procesos de adopción internacional, cuyo funcionamiento será objeto de desarrollo reglamentario.
+4. Los organismos acreditados deberán llevar un registro único de procedimientos de adopción en el que figuren todas aquellas personas que se ofrecen para la adopción para cuya tramitación tengan firmado un contrato, independientemente de cual sea la comunidad autónoma de residencia.
+Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 1, con los efectos establecidos en el fundamento jurídico 16, por Sentencia del TC 36/2021, de 18 de febrero. Ref. BOE-A-2021-4511
+ Se modifica por el art. 3.9 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 9
+
+Artículo 9. Comunicación entre autoridades competentes españolas y autoridades competentes de otros Estados.
+La comunicación entre las autoridades centrales españolas competentes y las autoridades competentes de otros Estados se coordinará de acuerdo con lo previsto en el Convenio de La Haya, de 29 de mayo de 1993, relativo a la protección del niño y a la cooperación en materia de adopción internacional, aunque no sean parte del mismo.
+Se modifica por el art. 3.10 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+## CAPÍTULO III
+
+Capacidad y requisitos para la adopción internacional
+
+### Artículo 10
+
+Artículo 10. Idoneidad de los adoptantes.
+1. Se entiende por idoneidad la capacidad, aptitud y motivación adecuadas para ejercer la responsabilidad parental, atendiendo a las necesidades de los menores a adoptar, y para asumir las peculiaridades, consecuencias y responsabilidades que conlleva la adopción.
+2. A tal efecto, la declaración de idoneidad requerirá una valoración psicosocial sobre la situación personal, familiar y relacional de las personas que se ofrecen para la adopción, su capacidad para establecer vínculos estables y seguros, sus habilidades educativas y su aptitud para atender a un menor en función de sus particulares circunstancias, así como cualquier otro elemento útil relacionado con la singularidad de la adopción internacional. Asimismo, en dicha valoración psicosocial se deberá escuchar a los hijos de quienes se ofrecen para la adopción, de conformidad con lo establecido en el artículo 9 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
+Las Entidades Públicas procurarán la necesaria coordinación con el fin de homogeneizar los criterios de valoración de la idoneidad.
+3. La declaración de idoneidad y los informes psicosociales referentes a la misma tendrán una vigencia máxima de tres años desde la fecha de su emisión por la Entidad Pública, siempre que no se produzcan modificaciones sustanciales en la situación personal y familiar de las personas que se ofrecen para la adopción que dieron lugar a dicha declaración, sujeta a las condiciones y a las limitaciones establecidas, en su caso, en la legislación autonómica aplicable en cada supuesto.
+4. Corresponde a las Entidades Públicas la declaración de idoneidad de las personas que se ofrecen para la adopción a partir de la valoración psicosocial a la que se refiere el apartado 2, que estará sujeta a las condiciones, requisitos y limitaciones establecidos en la legislación correspondiente.
+5. Las personas que se ofrecen para la adopción podrán ser valoradas y, si corresponde, ser declaradas idóneas simultáneamente para la adopción nacional y la adopción internacional, siendo compatible la tramitación de su ofrecimiento para los dos ámbitos.
+Se modifica por el art. 3.11 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 11
+
+Artículo 11. Obligaciones preadoptivas y postadoptivas de los adoptantes.
+1. Las personas que se ofrecen para la adopción deben asistir a las sesiones informativas y de preparación organizadas por la Entidad Pública o por el organismo acreditado con carácter previo y obligatorio a la solicitud de la declaración de idoneidad.
+2. Los adoptantes deberán facilitar, en el tiempo previsto, la información, documentación y entrevistas que la Entidad Pública, organismo acreditado o entidad autorizada precisen para la elaboración de los informes de seguimiento postadoptivo exigidos por la Entidad Pública o por la autoridad competente del país de origen. La no colaboración de los adoptantes en esta fase podrá dar lugar a sanciones administrativas previstas en la legislación autonómica y podrá ser considerada causa de no idoneidad en un proceso posterior de adopción.
+3. Los adoptantes deberán cumplir en el tiempo previsto los trámites postadoptivos establecidos por la legislación del país de origen del menor adoptado, recibiendo para ello la ayuda y asesoramiento preciso por parte de las Entidades Públicas y los organismos acreditados.
+Se modifica por el art. 3.12 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 12
+
+Artículo 12. Derecho a conocer los orígenes biológicos.
+Las personas adoptadas, alcanzada la mayoría de edad o durante su minoría de edad a través de sus representantes legales, tendrán derecho a conocer los datos que sobre sus orígenes obren en poder de las Entidades Públicas, sin perjuicio de las limitaciones que pudieran derivarse de la legislación de los países de procedencia de los menores. Este derecho se hará efectivo con el asesoramiento, la ayuda y mediación de los servicios especializados de la Entidad Pública, los organismos acreditados o entidades autorizadas para tal fin.
+Las Entidades Públicas competentes asegurarán la conservación de la información de que dispongan relativa a los orígenes del niño, en particular la información respecto a la identidad de sus progenitores, así como la historia médica del niño y de su familia.
+Los organismos acreditados que hubieran intermediado en la adopción deberán informar a las Entidades Públicas de los datos de los que dispongan sobre los orígenes del menor.
+Se modifica por el art. 3.13 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 13
+
+Artículo 13. Protección de datos de carácter personal.
+1. El tratamiento y la cesión de datos derivados del cumplimiento de las previsiones de la presente ley se encontrarán sometidos a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+2. Los datos obtenidos por las Entidades Públicas o por los organismos acreditados únicamente podrán ser tratados para las finalidades relacionadas con el desarrollo, en cada caso, de las funciones descritas para cada una de ellas en los artículos 5 y 6.3 de la presente ley.
+3. La transferencia internacional de los datos a autoridades extranjeras de adopción únicamente se efectuará en los supuestos expresamente previstos en esta ley y en el Convenio de La Haya, de 29 de mayo de 1993, relativo a la protección del niño y a la cooperación en materia de adopción internacional y demás legislación internacional.
+Se modifica por el art. 3.14 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+## TÍTULO II
+
+Normas de Derecho Internacional Privado relativas a la adopción internacional
+
+## CAPITULO I
+
+Competencia para la constitución de la adopción internacional
+
+### Artículo 14
+
+Artículo 14. Competencia judicial internacional para la constitución de adopción en supuestos internacionales.
+1. Con carácter general, los Juzgados y Tribunales españoles serán competentes para la constitución de la adopción en los siguientes casos:
+a) Cuando el adoptando sea español o tenga su residencia habitual en España.
+b) Cuando el adoptante sea español o tenga su residencia habitual en España.
+2. La nacionalidad española y la residencia habitual en España se apreciarán, en todo caso, en el momento de la presentación del ofrecimiento para la adopción a la Entidad Pública.
+Se modifica el apartado 2 por el art. 3.15 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 15
+
+Artículo 15. Competencia judicial internacional para la declaración de nulidad o conversión en adopción plena de una adopción no plena en supuestos internacionales.
+1. Los Juzgados y Tribunales españoles serán competentes para la declaración de nulidad de una adopción en los siguientes casos:
+a) Cuando el adoptado sea español o tenga su residencia habitual en España en el momento de presentación de la solicitud.
+b) Cuando el adoptante sea español o tenga su residencia habitual en España en el momento de presentación de la solicitud.
+c) Cuando la adopción haya sido constituida por autoridad española.
+2. Si la ley aplicada a la adopción prevé la posibilidad de adopción simple, los Juzgados y Tribunales españoles serán competentes para la conversión de adopción simple en adopción plena en los casos señalados en el apartado anterior.
+3. A efectos de lo establecido en esta ley, se entenderá por adopción simple o no plena aquella constituida por autoridad extranjera competente cuyos efectos no se correspondan sustancialmente con los previstos para la adopción en la legislación española.
+Se modifica la rúbrica, se suprime el apartado 3 y se renumera el 4 como 3 por el art. 3.16 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 16
+
+Artículo 16. Competencia objetiva y territorial del órgano jurisdiccional.
+1. La determinación del concreto órgano jurisdiccional competente objetiva y territorialmente para la constitución de la adopción internacional se llevará a cabo con arreglo a las normas de la jurisdicción voluntaria.
+2. En el caso de no poder determinarse la competencia territorial con arreglo al párrafo anterior, ésta corresponderá al órgano judicial que los adoptantes elijan.
+
+### Artículo 17
+
+Artículo 17. Competencia de los cónsules en la constitución de adopciones internacionales.
+1. Siempre que el Estado local no se oponga a ello ni lo prohíba su legislación, de conformidad con los Tratados internacionales y otras normas internacionales de aplicación, los Cónsules podrán constituir adopciones en el caso de que el adoptante sea español, el adoptando tenga su residencia habitual en la demarcación consular correspondiente y no sea necesaria la propuesta previa de la Entidad Pública de acuerdo con lo establecido en las circunstancias 1.ª, 2.ª y 4.ª del artículo 176.2 del Código Civil. La nacionalidad del adoptante y la residencia habitual del adoptando se determinarán en el momento de inicio del expediente de adopción.
+2. En la tramitación y resolución de este expediente de adopción será de aplicación la legislación sobre jurisdicción voluntaria.
+Se modifica por el art. 3.17 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+## CAPÍTULO II
+
+Ley aplicable a la adopción
+
+## Sección 1
+
+Sección 1.ª Adopción regida por la ley española
+
+### Artículo 18
+
+Artículo 18. Ley aplicable a la constitución de la adopción.
+La constitución de la adopción por la autoridad competente española se regirá por lo dispuesto en la ley material española en los siguientes casos:
+a) Cuando el adoptando tenga su residencia habitual en España en el momento de constitución de la adopción.
+b) Cuando el adoptando haya sido o vaya a ser trasladado a España con la finalidad de establecer su residencia habitual en España.
+Se modifica por el art. 3.19 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 19
+
+Artículo 19. Capacidad del adoptando y consentimientos necesarios.
+1. La capacidad del adoptando y los consentimientos necesarios de todos los sujetos intervinientes en la adopción, se regirán por la ley nacional del adoptando y no por la ley sustantiva española, en los siguientes casos:
+a) Si el adoptando tuviera su residencia habitual fuera de España en el momento de la constitución de la adopción.
+b) Si el adoptando no adquiere, en virtud de la adopción, la nacionalidad española, aunque resida en España.
+2. La aplicación de la ley nacional del adoptando prevista en el párrafo primero de este artículo procederá, únicamente, cuando la autoridad española competente estime que con ello se facilita la validez de la adopción en el país correspondiente a la nacionalidad del adoptando.
+3. No procederá la aplicación de la ley nacional del adoptando prevista en el párrafo primero de este artículo cuando se trate de adoptandos apátridas o con nacionalidad indeterminada.
+4. En el caso de menores cuya ley nacional prohíba o no contemple la adopción se denegará la constitución de la adopción, excepto cuando el menor se encuentre en situación de desamparo y tutelado por la Entidad Pública.
+Se añade el apartado 4 por el art. 3.20 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 20
+
+Artículo 20. Consentimientos, audiencias y autorizaciones.
+Sin perjuicio de lo establecido en el artículo 18, la autoridad española competente para la constitución de la adopción podrá exigir, además, los consentimientos, audiencias o autorizaciones requeridas por la ley nacional o por la ley de la residencia habitual del adoptante o del adoptando, siempre que concurran estas circunstancias:
+a) Que la exigencia de tales consentimientos, audiencias o autorizaciones repercuta en interés del adoptando. Se entenderá que concurre «interés del adoptando», particularmente, si la toma en consideración de las leyes extranjeras facilita, según criterio judicial, la validez de la adopción en otros países conectados con el supuesto y sólo en la medida en que ello sea así.
+b) Que la exigencia de tales consentimientos, audiencias o autorizaciones sea solicitada por el adoptante o por el Ministerio Fiscal.
+
+## Sección 2
+
+Sección 2.ª Adopción regida por una ley extranjera
+
+### Artículo 21
+
+Artículo 21. Ley aplicable a la constitución de la adopción.
+(Suprimido)
+Se suprime por el art. 3.21 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+## Sección 3
+
+Sección 3.ª Disposiciones comunes
+
+### Artículo 22
+
+Artículo 22. Ley aplicable a la conversión y nulidad de la adopción.
+La ley aplicable a la conversión de la adopción no plena en plena y a la nulidad de la adopción será la aplicada para su constitución.
+Se modifica por el art. 3.22 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 23
+
+Artículo 23. Orden público internacional español.
+En ningún caso procederá la aplicación de una ley extranjera cuando resulte manifiestamente contraria al orden público internacional español. A tal efecto se tendrá en cuenta el interés superior del menor y los vínculos sustanciales del supuesto con España. Los aspectos de la adopción que no puedan regirse por un Derecho extranjero al resultar éste contrario al orden público internacional español, se regirán por el Derecho sustantivo español.
+
+### Artículo 24
+
+Artículo 24. Cooperación internacional de autoridades.
+Cuando la autoridad extranjera que va a constituir la adopción, siendo el adoptante español y residente en dicho país, solicite información sobre él a las autoridades españolas, el Cónsul podrá recabarla de las autoridades del último lugar de residencia en España, o facilitar la información que obre en poder del Consulado o pueda obtener por otros medios.
+Se modifica por el art. 3.23 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+## CAPÍTULO III
+
+Efectos en España de la adopción constituida por autoridades extranjeras
+
+### Artículo 25
+
+Artículo 25. Normas internacionales.
+La adopción constituida por autoridades extranjeras será reconocida en España con arreglo a lo establecido en los Tratados y Convenios internacionales y otras normas de origen internacional en vigor para España, y, en especial, con arreglo al Convenio de La Haya de 29 de mayo de 1993, relativo a la protección del niño y a la cooperación en materia de adopción internacional. Tales normas prevalecerán, en todo caso, sobre las reglas contenidas en esta Ley.
+
+### Artículo 26
+
+Artículo 26. Requisitos para la validez en España de adopciones constituidas por autoridades extranjeras en defecto de normas internacionales.
+1. En defecto de Tratados y Convenios internacionales y otras normas de origen internacional en vigor para España que resulten aplicables, la adopción constituida por autoridades extranjeras será reconocida en España como adopción si se cumplen los siguientes requisitos:
+1.º Que haya sido constituida por autoridad extranjera competente. Se considerará que la autoridad extranjera es competente si el supuesto presenta vínculos razonables con el Estado extranjero cuyas autoridades la han constituido. Se presumirá, en todo caso, que son competentes aplicando de forma recíproca las normas de competencia previstas en el artículo 14 de esta Ley.
+2.º Que la adopción no vulnere el orden público.
+A estos efectos se considerará que vulneran el orden público español aquellas adopciones en cuya constitución no se ha respetado el interés superior del menor, en particular cuando se ha prescindido de los consentimientos y audiencias necesarios, o cuando se constate que no fueron informados y libres o se obtuvieron mediante pago o compensación.
+2. Cuando el adoptante o el adoptado sea español, la adopción constituida por autoridad extranjera debe surtir los efectos jurídicos que se corresponden, de modo sustancial, con los efectos de la adopción regulada en Derecho español.
+Será irrelevante el nombre legal de la institución en el Derecho extranjero.
+En particular, las autoridades españolas controlarán que la adopción constituida por autoridad extranjera produzca la extinción de vínculos jurídicos sustanciales entre el adoptado y su familia anterior, que haga surgir los mismos vínculos de filiación que los de la filiación por naturaleza y que sea irrevocable por los adoptantes.
+Cuando la ley extranjera admita que la adopción constituida a su amparo pueda ser revocada por el adoptante, será requisito indispensable que éste, antes del traslado del menor a España, renuncie al ejercicio de la facultad de revocarla. La renuncia deberá formalizarse en documento público o mediante comparecencia ante el Encargado del Registro Civil.
+3. Cuando el adoptante sea español y residente en España, la Entidad Pública española competente deberá declarar su idoneidad previamente a la constitución de la adopción por el órgano competente extranjero. No se exigirá dicha declaración de idoneidad en los casos en los que de haberse constituido la adopción en España no se hubiera requerido la misma.
+4. Si el adoptando fuera español en el momento de constitución de la adopción ante la autoridad extranjera competente, será necesario el consentimiento de la Entidad Pública correspondiente a la última residencia del adoptando en España.
+5. El documento en el que conste la adopción constituida ante autoridad extranjera deberá reunir los requisitos formales de autenticidad consistentes en la legalización o apostilla y en la traducción a idioma oficial español. Se exceptúan los documentos eximidos de legalización o traducción en virtud de otras normas vigentes.
+Se modifica el apartado 1 por el art. 3.24 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 27
+
+Artículo 27. Control de la validez de la adopción constituida por autoridad extranjera.
+La autoridad pública española ante la que se suscite la validez de una adopción constituida por autoridad extranjera y, en especial, el Encargado del Registro Civil en el que se inste la inscripción de la adopción constituida en el extranjero para su reconocimiento en España, controlará, incidentalmente, la validez de dicha adopción en España con arreglo a las normas contenidas en el Convenio de La Haya, de 29 de mayo de 1993, relativo a la protección del niño y a la cooperación en materia de adopción internacional, a través de la presentación del certificado de conformidad con lo previsto en su artículo 23 y de que no se ha incurrido en la causa de no reconocimiento prevista en el artículo 24 de dicho Convenio.
+En los casos de menores que provengan de países no signatarios del mismo, el Encargado del Registro Civil realizará dicho control incidental verificando si la adopción reúne las condiciones de reconocimiento previstas en los artículos 5.1.e), 5.1.f) y 26.
+Se modifica por el art. 3.25 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 28
+
+Artículo 28. Requisitos para la validez en España de decisiones extranjeras de conversión o nulidad de una adopción.
+Las decisiones de la autoridad pública extranjera en cuya virtud se establezca la conversión o nulidad de una adopción surtirán efectos legales en España con arreglo a las exigencias recogidas en el artículo 26.
+Se modifica por el art. 3.26 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 29
+
+Artículo 29. Inscripción de la adopción en el Registro Civil.
+Cuando la adopción internacional se haya constituido en el extranjero y los adoptantes tengan su residencia habitual en España deberán solicitar la inscripción de nacimiento del menor y de adopción conforme a las normas contenidas en la Ley de Registro Civil para que la adopción se reconozca en España.
+Se modifica por el art. 3.27 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 30
+
+Artículo 30. Adopción simple o no plena legalmente constituida por autoridad extranjera.
+1. La adopción simple o no plena constituida por autoridad extranjera surtirá efectos en España, como adopción simple o no plena, si se ajusta a la ley designada por el artículo 9.4 del Código Civil.
+2. La ley designada por el artículo 9.4 del Código Civil determinará la existencia, validez y efectos de tales adopciones, así como la atribución de la patria potestad.
+3. La adopción simple o no plena no será objeto de inscripción en el Registro Civil español como adopción ni comportará la adquisición de la nacionalidad española con arreglo al artículo 19 del Código Civil.
+4. La adopción simple o no plena constituida por autoridad extranjera competente podrá ser convertida en la adopción regulada por el Derecho español cuando se den los requisitos previstos para ello, a través de un expediente de jurisdicción voluntaria. La conversión se regirá por la ley determinada con arreglo a la ley de su constitución.
+Para instar el correspondiente expediente judicial no será necesaria la propuesta previa de la Entidad Pública competente.
+En todo caso, para la conversión de una adopción simple o no plena en una adopción plena el Juez competente deberá examinar la concurrencia de los siguientes extremos:
+a) Que las personas, instituciones y autoridades cuyo consentimiento se requiera para la adopción hayan sido convenientemente asesoradas e informadas sobre las consecuencias de su consentimiento, sobre los efectos de la adopción y, en concreto, sobre la extinción de los vínculos jurídicos entre el menor y su familia de origen.
+b) Que tales personas hayan manifestado su consentimiento libremente, en la forma legalmente prevista y que este consentimiento haya sido prestado por escrito.
+c) Que los consentimientos no se hayan obtenido mediante pago o compensación de clase alguna y que tales consentimientos no hayan sido revocados.
+d) Que el consentimiento de la madre, cuando se exija, se haya prestado tras el nacimiento del menor.
+e) Que, teniendo en cuenta la edad y el grado de madurez del menor, éste haya sido convenientemente asesorado e informado sobre los efectos de la adopción y, cuando se exija, de su consentimiento a la misma.
+f) Que, teniendo en cuenta la edad y el grado de madurez del menor, éste haya sido oído.
+g) Que, cuando haya de recabarse el consentimiento del menor en la adopción, se examine que éste lo manifestó libremente, en la forma y con las formalidades legalmente previstas, y sin que haya mediado precio o compensación de ninguna clase.
+Se modifica por el art. 3.28 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 31
+
+Artículo 31. Orden público internacional.
+En ningún caso procederá el reconocimiento de una decisión extranjera de adopción simple o no plena si produce efectos manifiestamente contrarios al orden público internacional español. A tal efecto, se tendrá en cuenta el interés superior del menor.
+Se modifica por el art. 3.29 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+## TÍTULO III
+
+Otras medidas de protección de menores
+
+## CAPÍTULO I
+
+Competencia y ley aplicable
+
+### Artículo 32
+
+Artículo 32. Competencia para la constitución de otras medidas de protección de menores.
+La competencia para la constitución de las demás medidas de protección de menores se regirá por los criterios recogidos en los Tratados y Convenios internacionales y otras normas de origen internacional en vigor para España, en particular por el Reglamento (CE) n.º 2201/2003 del Consejo, de 27 de noviembre de 2003, relativo a la competencia, el reconocimiento y la ejecución de resoluciones judiciales en materia matrimonial y de responsabilidad parental, y por el Convenio de La Haya, de 19 de octubre de 1996, relativo a la competencia, la ley aplicable, el reconocimiento, la ejecución y la cooperación en materia de responsabilidad parental y de medidas de protección de los niños.
+Se modifica por el art. 3.30 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Artículo 33
+
+Artículo 33. Ley aplicable a otras medidas de protección de menores.
+La ley aplicable a las demás medidas de protección de los menores se determinará con arreglo a los Tratados y Convenios internacionales y otras normas de origen internacional en vigor para España, en particular por el Convenio de La Haya, de 19 de octubre de 1996, relativo a la competencia, la ley aplicable, el reconocimiento, la ejecución y la cooperación en materia de responsabilidad parental y de medidas de protección de los niños.
+Se modifica por el art. 3.31 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+## CAPÍTULO II
+
+Efectos de las decisiones extranjeras en materia de protección de menores.
+
+### Artículo 34
+
+Artículo 34. Efectos legales en España de las decisiones relativas a instituciones de protección de menores que no produzcan vínculos de filiación acordadas por autoridades extranjeras.
+1. Las instituciones de protección de menores constituidas por autoridad extranjera y que, según la ley de su constitución, no determinen ningún vínculo de filiación se equipararán al acogimiento familiar o, en su caso, a una tutela, regulados en el derecho español, si concurren los requisitos siguientes:
+1.º Que los efectos sustanciales de la institución extranjera sean equivalentes a los del acogimiento familiar o, en su caso, a los de una tutela, previstos por la ley española.
+2.º Que las instituciones de protección hayan sido acordadas por autoridad extranjera competente, sea judicial o administrativa. Se considerará que la autoridad extranjera que constituyó la medida de protección era internacionalmente competente si el supuesto presenta vínculos razonables con el Estado extranjero cuyas autoridades la han constituido.
+No obstante lo establecido en la regla anterior, en el caso de que la institución de protección no presentare conexiones razonables de origen, de antecedentes familiares o de otros órdenes similares con el país cuya autoridad ha constituido esa institución se estimará que la autoridad extranjera carecía de competencia internacional.
+3.º Que los efectos de la institución de protección extranjera no vulneren el orden público español atendiendo al interés superior del menor.
+4.º Que el documento en el que consta la institución constituida ante autoridad extranjera reúna los requisitos formales de autenticidad consistentes en la legalización o apostilla y en la traducción al idioma español oficial. Se exceptúan los documentos eximidos de legalización o traducción en virtud de otras normas vigentes.
+2. La autoridad pública española ante la que se suscite la cuestión de la validez de una medida de protección constituida por autoridad extranjera y, en especial, el Encargado del Registro Civil en el que se inste la anotación de la medida de protección constituida en el extranjero para su reconocimiento en España, controlará, incidentalmente, la validez de dicha medida en España con arreglo a este artículo.
+Se modifica por el art. 3.32 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Disposición adicional única
+
+Disposición adicional única. Entidades Públicas de Protección de Menores.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Ley Orgánica de Protección Jurídica del Menor.
+Queda derogado el artículo 25 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor y de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de determinados artículos del Código Civil.
+Uno. El apartado 5 del artículo 9 queda redactado en los siguientes términos:
+«La adopción internacional se regirá por las normas contenidas en la Ley de Adopción Internacional. Igualmente, las adopciones constituidas por autoridades extranjeras surtirán efectos en España con arreglo a las disposiciones de la citada Ley de Adopción Internacional.»
+Dos. El artículo 154 queda redactado en los siguientes términos:
+«Los hijos no emancipados están bajo la potestad de los padres.
+La patria potestad se ejercerá siempre en beneficio de los hijos, de acuerdo con su personalidad, y con respeto a su integridad física y psicológica.
+Esta potestad comprende los siguientes deberes y facultades:
+1.º Velar por ellos, tenerlos en su compañía, alimentarlos, educarlos y procurarles una formación integral.
+2.º Representarlos y administrar sus bienes.
+Si los hijos tuvieren suficiente juicio deberán ser oídos siempre antes de adoptar decisiones que les afecten.
+Los padres podrán, en el ejercicio de su potestad, recabar el auxilio de la autoridad.»
+Tres. Se modifican los apartados 3 y 6 y se adicionan dos nuevos apartados séptimo y octavo al artículo 172, que pasan a tener la siguiente redacción:
+«3. La guarda asumida a solicitud de los padres o tutores o como función de la tutela por ministerio de la ley, se realizará mediante el acogimiento familiar o el acogimiento residencial. El acogimiento familiar se realizará por la persona o personas que determine la Entidad Pública. El acogimiento residencial se ejercerá por el Director del centro donde se ha acogido al menor.
+Los padres o tutores del menor podrán oponerse en el plazo de dos meses a la resolución administrativa que disponga el acogimiento cuando consideren que la modalidad acordada no es la más conveniente para el menor o si existieran dentro del círculo familiar otras personas más idóneas a las designadas.
+6. Las resoluciones que aprecien el desamparo y declaren la asunción de la tutela por ministerio de la ley serán recurribles ante la jurisdicción civil en el plazo y condiciones determinados en la Ley de Enjuiciamiento Civil, sin necesidad de reclamación administrativa previa.
+7. Durante el plazo de dos años desde la notificación de la resolución administrativa por la que se declare el desamparo, los padres que continúen ostentando la patria potestad pero la tengan suspendida conforme a lo previsto en el número 1 de este artículo, están legitimados para solicitar que cese la suspensión y quede revocada la declaración de desamparo del menor, si por cambio de las circunstancias que la motivaron entienden que se encuentran en condiciones de asumir nuevamente la patria potestad.
+Igualmente están legitimados durante el mismo plazo para oponerse a las decisiones que se adopten respecto a la protección del menor.
+Pasado dicho plazo decaerá su derecho de solicitud u oposición a las decisiones o medidas que se adopten para la protección del menor. No obstante, podrán facilitar información a la entidad pública y al Ministerio Fiscal sobre cualquier cambio de las circunstancias que dieron lugar a la declaración de desamparo.
+8. La entidad pública, de oficio, o a instancia del Ministerio Fiscal o de persona o entidad interesada, podrá en todo momento revocar la declaración de desamparo y decidir la vuelta del menor con su familia si no se encuentra integrado de forma estable en otra familia o si entiende que es lo más adecuado en interés del menor. Dicha decisión se notificará al Ministerio Fiscal.»
+Cuatro. Se adiciona un nuevo número al artículo 180 que queda redactado en los siguientes términos:
+«5.º Las personas adoptadas, alcanzada la mayoría de edad o durante su minoría de edad representadas por sus padres, tendrán derecho a conocer los datos sobre sus orígenes biológicos. Las Entidades Públicas españolas de protección de menores, previa notificación a las personas afectadas, prestarán a través de sus servicios especializados el asesoramiento y la ayuda que precisen los solicitantes para hacer efectivo este derecho.»
+Cinco. El artículo 268 queda redactado en los siguientes términos:
+«Los tutores ejercerán su cargo de acuerdo con la personalidad de sus pupilos, respetando su integridad física y psicológica.
+Cuando sea necesario para el ejercicio de la tutela podrán recabar el auxilio de la autoridad.»
+
+### Disposición final segunda
+
+Disposición final segunda. Se modifican determinados artículos de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+Uno. Se añade un nuevo artículo 141 bis a la Ley de Enjuiciamiento Civil con el siguiente texto:
+«141 bis.
+En los casos previstos en los dos artículos anteriores, en las copias simples, testimonios y certificaciones que expidan los Secretarios Judiciales, cualquiera que sea el soporte que se utilice para ello, cuando sea necesario para proteger el superior interés de los menores y para preservar su intimidad, deberán omitirse los datos personales, imágenes, nombres y apellidos, domicilio, o cualquier otro dato o circunstancia que directa o indirectamente pudiera permitir su identificación.»
+Dos. Se añade un nuevo párrafo final al artículo 164 de la Ley de Enjuiciamiento Civil con el siguiente texto:
+«Artículo 164.
+En todo caso en la comunicación o publicación a que se refieren los párrafos anteriores, en atención al superior interés de los menores y para preservar su intimidad, deberán omitirse los datos personales, nombres y apellidos, domicilio, o cualquier otro dato o circunstancia que directa o indirectamente pudiera permitir su identificación.»
+Tres. El artículo 779 queda redactado en los siguientes términos:
+«Artículo 779. Carácter preferente del procedimiento. Competencia.
+Los procedimientos en los que se sustancie la oposición a las resoluciones administrativas en materia de protección de menores tendrán carácter preferente.
+Será competente para conocer de los mismos el Juzgado de Primera Instancia del domicilio de la entidad protectora y, en su defecto, o en los supuestos de los artículos 179 y 180 del Código Civil, la competencia corresponderá al tribunal del domicilio del adoptante.»
+Cuatro. El apartado 1 del artículo 780 queda redactado en los siguientes términos:
+«1. No será necesaria la reclamación previa en vía administrativa para formular oposición, ante los tribunales civiles, a las resoluciones administrativas en materia de protección de menores.
+La oposición a la resolución administrativa por la que se declare el desamparo de un menor podrá formularse en el plazo de tres meses desde su notificación, y en el plazo de dos meses la oposición a las restantes resoluciones administrativas que se dicten en materia de protección de menores.»
+Cinco. El apartado primero del artículo 781 queda redactado en los siguientes términos:
+«1.º Los padres que pretendan que se reconozca la necesidad de su asentimiento para la adopción podrán comparecer ante el tribunal que esté conociendo del correspondiente expediente y manifestarlo así. El tribunal, con suspensión del expediente, señalará el plazo que estime necesario para la presentación de la demanda, que no podrá ser superior a veinte días. Presentada la demanda, se tramitará con arreglo a lo previsto en el artículo 753 de esta Ley.»
+
+### Disposición final tercera
+
+Disposición final tercera. Ley de Demarcación y de Planta Judicial.
+El primer inciso del artículo 25 de la Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial queda redactado de la forma siguiente:
+«En el Ministerio de Justicia, con la adscripción que determine su Reglamento Orgánico, podrán existir hasta diez plazas servidas por jueces o magistrados, diez por fiscales, diez por secretarios judiciales y dos por médicos forenses.»
+
+### Disposición final cuarta
+
+Disposición final cuarta. Ley del Registro Civil.
+Se modifica el apartado 2 del artículo 63 de la Ley de 8 de junio de 1957, del Registro Civil, que tendrá la siguiente redacción:
+«2. Las autoridades competentes para la tramitación y resolución de las solicitudes de adquisición de la nacionalidad por residencia, para la exclusiva finalidad de resolver la solicitud presentada por el interesado, recabarán de oficio de las Administraciones Públicas competentes cuantos informes sean necesarios para comprobar si los solicitantes reúnen los requisitos exigidos en el artículo 22 del Código Civil, sin que sea preciso el consentimiento de los interesados.»
+
+### Disposición final quinta
+
+Disposición final quinta. Título competencial.
+1. Los artículos 5, 6, 7, 8, 10, 11 y la disposición final primera se dictan al amparo de la competencia exclusiva del Estado en materia de legislación civil reconocida por el artículo 149.1.8.ª de la CE, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan y de las normas aprobadas por éstas en ejercicio de sus competencias en esta materia.
+2. El artículo 12 se dicta al amparo de lo dispuesto en el artículo 149.1.1.ª de la Constitución española. Los restantes artículos de esta Ley se dictan al amparo de las competencias exclusivas del Estado en materia de relaciones internacionales, administración de justicia y legislación civil reconocidas por el artículo 149.1.3.ª, 5.ª y 8.ª de la Constitución Española.
+
+### Disposición final sexta
+
+Disposición final sexta. Entrada en vigor.
+1. La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+2. Se habilita al Gobierno para la aprobación de las normas reglamentarias necesarias para su aplicación.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 28 de diciembre de 2007.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

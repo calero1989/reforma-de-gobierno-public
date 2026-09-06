@@ -1,0 +1,220 @@
+# Ley de 18 de junio de 1870 estableciendo reglas para el ejercicio de la gracia de indulto.
+
+- Identificador BOE: `BOE-A-1870-4759`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1870-4759
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en la Gaceta de Madrid núm. 177, de 26 de junio de1870. Ref. BOE-A-1870-4837.
+
+## CAPÍTULO I
+
+De los que pueden ser indultados
+
+### Art 1
+
+Art. 1.
+Los reos de toda clase de delitos podrán ser indultados, con arreglo a las disposiciones de esta Ley, de toda o parte de la pena en que por aquéllos hubiesen incurrido.
+
+### Art 2
+
+Art. 2.
+Se exceptúan de lo establecido en el artículo anterior:
+1.º Los procesados criminalmente que no hubieren sido aún condenados por sentencia firme.
+2.º Los que no estuvieren a disposición del Tribunal sentenciador para el cumplimiento de la condena.
+3.º Los reincidentes en el mismo o en otro cualquiera delito por el cual hubiesen sido condenados por sentencia firme. Se exceptúa, sin embargo, el caso en que, a juicio del Tribunal sentenciador hubiera razones suficientes de justicia, equidad o conveniencia pública para otorgarle la gracia.
+Se modifica el punto 3 por el art. 3.6 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
+
+### Art 3
+
+Art. 3.
+Lo dispuesto en el artículo anterior no será aplicable a los penados por delitos comprendidos en el capítulo I, secciones primera y segunda del capítulo II, y en los capítulos III, IV y V, todos del título II del libro II del Código Penal.
+Se modifica por el art. 2 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
+ Redactado conforme a la corrección de errores publicada en la Gaceta de Madrid núm. 177, de 26/06/1870. Ref. BOE-A-1870-4837.
+
+## CAPÍTULO II
+
+De las clases y efectos del indulto
+
+### Art 4
+
+Art. 4.
+El indulto podrá ser total o parcial.
+Será indulto total la remisión de todas las penas a que hubiese sido condenado y que todavía no hubiese cumplido el delincuente.
+Será indulto parcial la remisión de alguna o algunas de las penas impuestas, o de parte de todas en que hubiese incurrido y no hubiese cumplido todavía el delincuente.
+Se reputará también indulto parcial la conmutación de la pena o penas impuestas al delincuente en otras menos graves.
+
+### Art 5
+
+Art. 5.
+Será nula y no producirá efecto ni deberá ejecutarse por el Tribunal a quien corresponda la concesión del indulto en que no se hiciese mención expresa a lo menos de la pena principal sobre que recaiga la gracia.
+
+### Art 6
+
+Art. 6.
+El indulto de la pena principal llevará consigo el de las accesorias que con ella se hubiesen impuesto al penado, a excepción de las de inhabilitación para cargos públicos y derechos políticos y sujeción a la vigilancia de la Autoridad, las cuales no se tendrán por comprendidas si de ellas no se hubiese hecho mención especial en la concesión.
+Tampoco se comprenderá nunca en ésta la indemnización civil.
+
+### Art 7
+
+Art. 7.
+Podrá concederse indulto de las penas accesorias, con exclusión de las principales y viceversa, a no ser de aquellas que sean inseparables por su naturaleza y efectos.
+
+### Art 8
+
+Art. 8.
+El indulto de pena pecuniaria eximirá al indultado del pago de la cantidad que aún no hubiese satisfecho, pero no comprenderá la devolución de la ya pagada, a no ser que así se determine expresamente.
+
+### Art 9
+
+Art. 9.
+El indulto no se extenderá a las costas procesales.
+Se modifica por el art. 2 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
+
+### Art 10
+
+Art. 10.
+Si el penado hubiere fallecido al tiempo o después de existir causas bastantes para la concesión de su indulto, podrá relevarse a sus herederos de la pena accesoria de multa, con arreglo a lo dispuesto en los artículos 8.º y 9.º
+
+### Art 11
+
+Art. 11.
+El indulto total se otorgará a los penados tan sólo en el caso de existir a su favor razones de justicia, equidad o utilidad pública, a juicio del Tribunal sentenciador.
+Se modifica por el art. 3.7 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
+
+### Art 12
+
+Art. 12.
+En los demás casos se concederá tan sólo el parcial, y con preferencia la conmutación de la pena impuesta en otra menos grave dentro de la misma escala gradual.
+Sin embargo, de lo dispuesto en el párrafo anterior, podrá también conmutarse la pena en otra de distinta escala cuando haya méritos suficientes para ello, a juicio del Tribunal sentenciador o del Consejo de Estado, y el penado además se conformare con la conmutación.
+
+### Art 13
+
+Art. 13.
+Conmutada la pena principal, se entenderán también conmutadas las accesorias por las que correspondan, según las prescripciones del Código, a la que hubiere de sufrir el indultado.
+Se exceptúa, sin embargo, el caso en que se hubiese dispuesto otra cosa en la concesión de la gracia.
+
+### Art 14
+
+Art. 14.
+La conmutación de la pena quedará sin efecto desde el día en que el indultado deje de cumplir, por cualquiera causa dependiente de su voluntad, la pena a que por la conmutación hubiere quedado sometido.
+
+### Art 15
+
+Art. 15.
+Serán condiciones tácitas de todo indulto:
+1.ª Que no cause perjuicio a tercera persona, o no lastime sus derechos.
+2.ª Que haya sido oída la parte ofendida, cuando el delito por que hubiese sido condenado el reo fuere de los que solamente se persiguen a instancia de parte.
+Se suprime el inciso final por el art. 3.4 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
+ Se modifica por el art. único del Real Decreto-ley 1526/1927, de 6 de septiembre. Ref. BOE-A-1927-8592.
+
+### Art 16
+
+Art. 16.
+Podrán, además, imponerse al penado en la concesión de la gracia las demás condiciones que la justicia, la equidad o la utilidad pública aconsejen.
+
+### Art 17
+
+Art. 17.
+El Tribunal sentenciador no dará cumplimiento a ninguna concesión de indulto cuyas condiciones no hayan sido previamente cumplidas por el penado; salvo las que por su naturaleza no lo permitan.
+
+### Art 18
+
+Art. 18.
+La concesión del indulto es por su naturaleza irrevocable con arreglo a las cláusulas con que hubiere sido otorgado.
+
+## CAPÍTULO III
+
+Del procedimiento para solicitar y conceder la gracia del indulto
+
+### Art 19
+
+Art. 19.
+Pueden solicitar el indulto los penados, sus parientes o cualquiera otra persona en su nombre, sin necesidad de poder escrito que acredite su representación.
+
+### Art 20
+
+Art. 20.
+Puede también proponer el indulto el Tribunal sentenciador, o el Tribunal Supremo, o el Fiscal de cualquiera de ellos, con arreglo a lo que se dispone en el párrafo tercero, art. 2.º del Código Penal, y se disponga además en las Leyes de procedimientos y casación criminal.
+La propuesta será reservada hasta que el Ministro de Justicia en su vista, decrete la formación del oportuno expediente.
+Se modifica el párrafo segundo por el art. 3.1 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
+
+### Art 21
+
+Art. 21.
+Podrá también el Gobierno mandar formar el oportuno expediente, con arreglo a las disposiciones de esta Ley, para la concesión de indultos que no hubiesen sido solicitados por los particulares ni propuestos por los Tribunales de Justicia.
+
+### Art 22
+
+Art. 22.
+Las solicitudes de indultos se dirigirán al Ministro de Justicia por conducto del Tribunal sentenciador, del Jefe del Establecimiento o del Gobernador de la provincia en que el penado se halle cumpliendo la condena, según los respectivos casos.
+Se modifica por el art. 3.1 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
+
+### Art 23
+
+Art. 23.
+Las solicitudes de indulto, inclusas las que directamente se presentaren al Ministro de Justicia, se remitirán a informe del Tribunal sentenciador.
+Se modifica por el art. 3.1 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
+
+### Art 24
+
+Art. 24.
+Este pedirá, a su vez, informe sobre la conducta del penado al Jefe del establecimiento en que aquél se halle cumpliendo la condena, o al Gobernador de la provincia de su residencia, si la pena no consistiese en la privación de libertad, y oirá después al Fiscal y a la parte ofendida si la hubiere.
+Se modifica por el art. 3.2 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
+
+### Art 25
+
+Art. 25.
+El Tribunal sentenciador hará constar en su informe, siendo posible, la edad, estado y profesión del penado, su fortuna si fuere conocida, sus méritos y antecedentes, si el penado fue con anterioridad procesado y condenado por otro delito, y si cumplió la pena impuesta o fue de ella indultado, por qué causa y en qué forma, las circunstancias agravantes o atenuantes que hubiesen concurrido en la ejecución del delito, el tiempo de prisión preventiva que hubiese sufrido durante la causa, la parte de la condena que hubiere cumplido, su conducta posterior a la ejecutoria, y especialmente las pruebas o indicios de su arrepentimiento que se hubiesen observado, si hay o no parte ofendida, y si el indulto perjudica el derecho de tercero, y cualesquiera otros datos que puedan servir para el mejor esclarecimiento de los hechos, concluyendo por consignar su dictamen sobre la justicia o conveniencia y forma de la concesión de la gracia.
+
+### Art 26
+
+Art. 26.
+El Tribunal sentenciador remitirá con su informe al Ministro de Justicia la hoja histórico-penal y el testimonio de la sentencia ejecutoria del penado, con los demás documentos que considere necesarios para la justificación de los hechos.
+Se modifica por el art. 3.1 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
+
+### Art 27
+
+Art. 27.
+Los Tribunales Supremo o sentenciador que de oficio propongan al Gobierno el indulto de un penado, acompañarán desde luego con la propuesta el informe y documentos a que se refieren los artículos anteriores.
+
+### Art 28
+
+Art. 28.
+Los expedientes que se formen al amparo del párrafo segundo del artículo 2.º del Código Penal se tramitarán en turno preferente cuando los informes del Ministerio Fiscal y del Establecimiento Penitenciario y del ofendido, en su caso, no se opusieran a la propuesta del Tribunal.
+También se tramitarán en turno preferente los expedientes calificados de especial urgencia o importancia.
+Se modifica por el art. 1 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
+
+### Art 29
+
+Art. 29.
+Sin embargo de lo dispuesto en los artículos anteriores, podrá concederse la conmutación de la pena de muerte y las impuestas por los delitos comprendidos en los capítulos 1.° y 2.°, tít. 2.°, libro 2.°, y capítulos 1.°, 2.° y 3.°, tít. 3.° del mismo, libro del Código penal últimamente reformado, sin oir previamente al Tribunal sentenciador.
+Se modifica por el art. 3.8 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
+ Redactado conforme a la corrección de errores publicada en la Gaceta de Madrid núm. 177, de 26/06/1870. Ref. BOE-A-1870-4837.
+
+### Art 30
+
+Art. 30.
+La concesión de los indultos, cualquiera que sea su clase, se hará en Real Decreto, que se insertará en el «Boletín Oficial del Estado».
+Se modifica por el art. 3.3 de la Ley 1/1988, de 14 de enero. Ref. BOE-A-1988-874.
+
+### Art 31
+
+Art. 31.
+La aplicación de la gracia habrá de encomendarse indispensablemente al Tribunal sentenciador.
+
+### Art 32
+
+Art. 32.
+La solicitud o propuesta de indulto no suspenderá el cumplimiento de la sentencia ejecutoria, salvo el caso en que la pena impuesta fuese la de muerte, la cual no se ejecutará hasta que el Gobierno haya acusado el recibo de la solicitud o propuesta al Tribunal sentenciador.
+
+### Disposición adicional
+
+El Gobierno remitirá semestralmente al Congreso de los Diputados un informe sobre la concesión y denegación de indultos. Para la presentación de los datos contenidos en el citado informe, y previa revisión del mismo, un alto cargo del Ministerio de Justicia solicitará su comparecencia ante la Comisión de Justicia del Congreso de los Diputados.
+Se añade por la disposición final 1 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439#dfprimera
+
+Palacio de las Cortes, veinticuatro de Mayo de mil ochocientos setenta.–Manuel Ruiz Zorrilla, Presidente.–Manuel de Llano y Persi, Diputado Secretario.–Julián Sánchez Ruano, Diputado Secretario.–Francisco Javier Carratalá, Diputado Secretario.–Mariano Rius, Diputado Secretario.
+Madrid diez y ocho de Junio de mil ochocientos setenta.
+El Ministro de Gracia y Justicia,
+EUGENIO MONTERO RÍOS

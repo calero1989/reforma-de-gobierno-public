@@ -1,0 +1,620 @@
+# Ley 21/2018, de 16 de octubre, de mancomunidades de la Comunitat Valenciana.
+
+- Identificador BOE: `BOE-A-2018-16341`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2018-16341
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el DOGV núm. 8432, de 27 de noviembre de 2018. Ref. BOE-A-2019-282
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos y todas las ciudadanas que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del rey, promulgo la siguiente Ley:
+PREÁMBULO
+La Constitución española garantiza a los entes locales, en el marco de la organización territorial general, su propia autonomía para la gestión de sus respectivos intereses.
+La Ley Orgánica 5/1982, de 1 de julio, de Estatuto de autonomía de la Comunitat Valenciana, establece en su artículo 49.1.8 que la Generalitat tiene competencia exclusiva, entre otras materias, sobre régimen local, sin perjuicio de lo que dispone el número 18 del apartado 1 del artículo 149 de la Constitución española.
+La Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local, incluye expresamente, en su artículo tercero, las mancomunidades de municipios en la condición de entidades locales y, en su artículo 44, reconoce a los municipios el derecho a asociarse con otros en mancomunidades para la ejecución en común de obras y servicios determinados de su competencia.
+Por su parte, la Ley 8/2010, de 23 de junio, de régimen local de la Comunitat Valenciana, cumple con el mandato estatutario y configura un modelo de administración local basado en una serie de principios recogidos en dicho Estatuto de autonomía, así como en la Constitución española de 1978 y en la Carta europea de la autonomía local.
+El objetivo de esta ley es fomentar el desarrollo de las mancomunidades y de los municipios, configurando a estas como un eje básico en la prestación de servicios a los ciudadanos, mediante el desarrollo de una auténtica cultura asociativa como base para incrementar la eficiencia y eficacia de dicha prestación y como una referencia básica para las políticas de la Generalitat y el resto de las administraciones de la Comunitat Valenciana.
+Se pretende dotar a las mancomunidades de un régimen jurídico más completo y, partiendo de la heterogeneidad en su composición, llevar a cabo una regulación más detallada en cuanto a su diferente catalogación, atendiendo a su capacidad de gestión, y la adecuación de su ámbito territorial a la demarcación territorial correspondiente.
+La diversidad de tipología de los diferentes entes locales de la Comunitat Valenciana es una de nuestras características distintivas y, por ello, la legislación debe adecuarse a esta situación con el objeto de fomentar la eficacia de los recursos públicos desde una perspectiva más adaptada a la realidad.
+La ley se estructura en 51 artículos, distribuidos en diez títulos, dos disposiciones transitorias, cuatro disposiciones adicionales, una disposición derogatoria y tres disposiciones finales.
+El título preliminar, de disposiciones generales, aborda el ámbito objetivo y subjetivo de la ley, y configura las mancomunidades como una pieza básica en una doble vertiente: por un lado, como estructura asociativa estable y sólida para la mejora de los servicios ofrecidos a la ciudadanía y de su participación en los asuntos públicos y, por otro lado, la de convertirlas en la referencia básica para la implementación de las políticas y servicios del resto de administraciones públicas de la Comunitat Valenciana.
+Esta ley entiende que el modelo de organización territorial debe ser plenamente respetuoso con el carácter asociativo reconocido por nuestro ordenamiento jurídico. Por ello, la naturaleza de las mancomunidades viene marcada por el carácter de voluntariedad, otorgando a los municipios la libertad de elección y adaptación a dicho modelo.
+El título I, del régimen jurídico general de las mancomunidades, regula el derecho de los municipios a mancomunarse, el contenido competencial y funcional de las mancomunidades, su duración y simbología.
+El título II, de creación y constitución de las mancomunidades, regula el proceso constitutivo de las mancomunidades con una doble finalidad. Por una parte, pretende dotar de la máxima seguridad jurídica al procedimiento de constitución y, por otra, establecer una tramitación simplificada –pero clara– que posibilite un proceso ágil. En este mismo sentido, se regulan también la naturaleza y contenido de los estatutos de la mancomunidad, en coherencia con el resto del articulado de la ley que mantiene, como uno de los principales objetivos, la flexibilización del régimen de las mancomunidades, de tal modo que sean estas, a través de sus estatutos, las que puedan llegar al máximo nivel de autonomía en la adaptación de dicho régimen a sus necesidades.
+El título IV, del gobierno y régimen de funcionamiento de las mancomunidades, se estructura en tres capítulos y entre sus principales rasgos resulta destacable que se mantiene el objetivo de no restringir la capacidad de autorregulación de las propias mancomunidades a través de sus estatutos, otorgándoles el máximo ámbito de decisión.
+El título V, sobre el personal al servicio de las mancomunidades, regula en dos artículos las específicas particularidades del personal de estas entidades, puesto que su regulación completa se encuentra en la regulación general en materia de función pública.
+El título VI, bajo la denominación de recursos y régimen económico, adapta la legislación básica en materia de recursos económicos de las mancomunidades, ordenanzas, aportaciones económicas de los miembros, apoyo económico por otras administraciones y presupuesto.
+El título VII, de la incorporación y separación de municipios, determina los procedimientos para la adhesión de municipios a las mancomunidades, y distingue el régimen de separación entre las causas voluntarias y la forzosa.
+El título VIII prevé la modificación de estatutos, flexibilizando el procedimiento de modificación dentro de los límites definidos por la legislación básica, regulando por separado dos procedimientos distintos conforme a la naturaleza u objeto de las modificaciones: el procedimiento de modificación constitutiva para los supuestos enumerados en la norma y el procedimiento de modificación para el resto de las causas.
+El título IX, de la disolución de mancomunidades, regula las causas de disolución de mancomunidades y el procedimiento, con la finalidad de dotar de mayores garantías jurídicas a las partes afectadas en este tipo de procesos.
+El título X, sobre las relaciones interadministrativas, pretende regular esta materia en consonancia con el nuevo régimen jurídico del sector público. Así, se regulan medidas de coordinación y fomento de las mancomunidades con las demás administraciones públicas.
+Se regulan también las peculiaridades en materia de convenios de cooperación, complementando el régimen jurídico general del sector público en esta materia, que delimita los convenios como el instrumento básico de colaboración entre administraciones públicas.
+La presente norma se adapta a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica y transparencia y está incluida en el Plan normativo de la administración de la Generalitat para 2017.
+Se modifica por el art. 51 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Esta ley tiene por objeto establecer un marco legal para las mancomunidades de municipios constituidas o que se constituyan en el ámbito territorial de la Comunitat Valenciana, y definir el régimen jurídico que regule la creación, los órganos de gobierno, las normas de organización y funcionamiento, el régimen económico y el procedimiento para la supresión de dichas mancomunidades.
+
+### Artículo 2
+
+Artículo 2. Concepto y naturaleza jurídica de las mancomunidades.
+1. Las mancomunidades son asociaciones voluntarias de municipios que se constituyen para gestionar o ejecutar planes, realizar proyectos y obras o prestar servicios de su competencia a los ciudadanos, acercándoles la administración y potenciando un desarrollo social y económico sostenible, equilibrado e igualitario de estos municipios y sus respectivos territorios.
+2. Las mancomunidades son entidades locales territoriales y, para el cumplimiento de los fines que les son propios, tienen personalidad jurídica y capacidad de obrar plena e independiente de la de los municipios que las integran.
+Se modifica por el art. 52 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica el apartado 3 por el art. 56 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a5-8
+
+## TÍTULO I
+
+Régimen jurídico general
+
+### Artículo 3
+
+Artículo 3. Derecho de los municipios a mancomunarse.
+1. Los municipios podrán asociarse voluntariamente en mancomunidades con el fin de servirse de ellas para la prestación en común de servicios y la ejecución de obras de su competencia.
+2. Los municipios mancomunados podrán participar en alguna o todas las actividades que constituyen el objeto de la mancomunidad, siempre que las obras o servicios sean independientes y ello no afecte a la eficaz actuación de la misma.
+3. Salvo en el caso de las mancomunidades de ámbito comarcal, se podrán integrar en las mancomunidades municipios entre los que no exista continuidad territorial, que pertenezcan a distintas provincias e, incluso, a distintas comunidades autónomas. Serán entidades locales de la Comunitat Valenciana aquellas cuya capitalidad social esté en un municipio de la Comunitat Valenciana y, por tanto, se sometan a la legislación autonómica valenciana y estén inscritas en el Registro de Entidades Locales de la Comunitat Valenciana.
+4. Asimismo, las entidades locales menores podrán formar parte de las mancomunidades, si, para ello, cuentan con la autorización de la iniciativa por el municipio matriz al cual estén adscritas, que únicamente podrá denegarse por razones justificadas en la prestación del servicio público y su eficacia.
+Para la organización y el funcionamiento de las mancomunidades, todas las referencias efectuadas en esta ley y en los estatutos a los alcaldes y plenos municipales deben entenderse también referidas, respectivamente, a los presidentes y las juntas vecinales de las entidades locales menores.
+5. En los municipios que funcionen en régimen de concejo abierto, las referencias al pleno hechas en los estatutos se entiende que se refieren a la asamblea vecinal.
+6. Las mancomunidades podrán asumir competencias delegadas por otras administraciones públicas.
+
+### Artículo 4
+
+Artículo 4. Prerrogativas, competencias y potestades de las mancomunidades.
+1. Corresponde a las mancomunidades de municipios, para la prestación de los servicios o la ejecución de las obras de su competencia, de conformidad con la normativa básica de régimen local, las potestades contempladas en la misma que determinen sus estatutos. En defecto de previsión estatutaria, le corresponderán todas las enumeradas en dicha normativa siempre que sean precisas para el cumplimiento de su finalidad y de acuerdo con la legislación aplicable a cada una de dichas potestades.
+2. Dentro de su ámbito de competencias y respeto a las previsiones contenidas en sus estatutos y en la normativa sectorial y de régimen local que resulte de aplicación, las mancomunidades de la Comunitat Valenciana podrán adquirir, poseer, reivindicar, permutar, gravar o enajenar toda clase de bienes; establecer y explotar las obras, servicios e instalaciones mancomunadas; obligarse; interponer los recursos establecidos y ejecutar acciones previstas en las leyes y, en especial, suscribir convenios, contratos, acuerdos y formar consorcios con el Estado, la comunidad autónoma, la provincia, los municipios, otras mancomunidades y con las demás entidades de derecho público o privado, para la realización de las funciones que les son propias, así como regular la colaboración con dichas entidades para la prestación de los servicios y el logro de los fines que dependan de estas y que sean de interés para la mancomunidad y las entidades locales que la integren.
+3. Aunque no exista previsión estatutaria que atribuya a la mancomunidad alguna competencia, potestad o prerrogativa, se entenderá que le corresponde siempre que sea precisa para el cumplimiento de los fines recogidos en sus estatutos y conforme con lo establecido por la legislación básica aplicable.
+4. Las potestades financiera y tributaria estarán limitadas al establecimiento y ordenación de tasas por prestación de servicios o realización de actividades, imposición de contribuciones especiales y fijación de tarifas y precios públicos.
+5. Entre la mancomunidad y los municipios asociados se podrá acordar la encomienda de gestión de determinadas actividades de carácter material, técnico o de servicios a realizar por el personal de la administración encomendada. A tal efecto, las partes deberán suscribir convenio regulador de esta encomienda, debiendo contener en todo caso la referencia a la actividad que es objeto de la misma, su alcance, descripción del sistema de desempeño de las actividades, contraprestación económica a satisfacer por la parte beneficiada, así como su plazo de vigencia.
+
+### Artículo 5
+
+Artículo 5. Duración y vigencia de las mancomunidades.
+A menos que sus estatutos dispongan otra cosa, la duración y vigencia de las mancomunidades sería indefinida.
+
+### Artículo 6
+
+Artículo 6. Símbolos de las mancomunidades.
+Las mancomunidades de la Comunitat Valenciana podrán adoptar escudo, bandera y otros símbolos representativos, previa instrucción del correspondiente procedimiento tramitado de conformidad con las normas reglamentarias reguladoras de la materia.
+
+## TÍTULO II
+
+Creación y constitución de las mancomunidades
+
+### Artículo 7
+
+Artículo 7. Voluntad de mancomunarse. La comisión promotora.
+1. Cada una de las alcaldías de los municipios que tenga voluntad de mancomunarse deberá adoptar la correspondiente resolución en tal sentido y, conjuntamente, constituirse en comisión promotora.
+2. La comisión así formada, en la que cada miembro tendrá un voto, impulsará la constitución de la mancomunidad proyectada en sus distintas fases y abordará los trabajos de redacción del proyecto de sus estatutos y de la memoria justificativa.
+3. Las alcaldesas y alcaldes que forman parte de la comisión podrán delegar sus atribuciones en ella en concejalas y concejales que pertenezcan a sus respectivas corporaciones municipales.
+4. La presidencia de la comisión designará a una funcionaria o funcionario de habilitación nacional de los municipios partícipes para que desempeñe las funciones de la secretaría.
+5. La comisión promotora podrá convocar a sus reuniones a personas expertas, a los solos efectos de recabar su opinión acerca de asuntos concretos de su especialidad.
+
+### Artículo 8
+
+Artículo 8. Convocatoria de la sesión constitutiva.
+Terminada la redacción del proyecto de estatutos por la comisión promotora, la presidencia convocará a la totalidad de los concejales y concejalas de los municipios interesados a una asamblea para la aprobación provisional de la propuesta de creación de la mancomunidad, la memoria justificativa y el proyecto de sus estatutos. La presidencia de la comisión adjuntará a la convocatoria la memoria justificativa y el texto del proyecto de estatutos que se someta a la deliberación y, en su caso, aprobación por la asamblea.
+
+### Artículo 9
+
+Artículo 9. Procedimiento de constitución de las mancomunidades.
+1. Para la válida constitución de la asamblea de aprobación provisional de estatutos, será necesaria la asistencia de la mitad más uno del número total de sus miembros en primera convocatoria y de los que asistan en segunda, siempre que en ambos casos se encuentre presente al menos un representante de cada uno de los municipios interesados en mancomunarse. No obstante, si se produjere la ausencia de la representación de alguno de los municipios, podrá constituirse válidamente la sesión en segunda convocatoria, si bien los efectos del acuerdo que se adopte se extenderán exclusivamente a los municipios o entidades locales presentes, salvo que los mismos fueran objeto de ratificación por las representaciones ausentes en un plazo no superior a veinte días; en cuyo caso los citados acuerdos alcanzarán plenos efectos respecto de todos los promotores y partícipes.
+2. En la misma sesión de constitución se procederá a la elección de la presidencia y, en su caso, de la vicepresidencia o vicepresidencias de la mancomunidad. Además, se adoptarán los demás acuerdos necesarios para el inicio del funcionamiento de la mancomunidad.
+3. Aprobada la memoria justificativa y el proyecto de estatutos por mayoría absoluta del número legal de miembros de la asamblea, se abrirá un período de información pública en los ayuntamientos de todos los municipios promotores de la mancomunidad durante un mes, así como su publicación en el boletín oficial de la provincia.
+4. Se dará traslado del expediente a la diputación o diputaciones provinciales afectadas y al departamento o departamentos autonómicos competentes en materia de administración local para que emitan informe sobre todos los aspectos que consideren relevantes.
+5. La aprobación definitiva requiere acuerdo favorable, adoptado por mayoría absoluta del número legal de miembros del pleno de cada uno de los municipios promotores de la mancomunidad.
+6. La presidencia de la asamblea de concejales remitirá el expediente al órgano de la Generalitat competente en materia de administración local, que emitirá la resolución de publicación de los estatutos de la mancomunidad en el «Diari Oficial de la Generalitat Valenciana».
+7. Posteriormente, dicha presidencia convocará a las personas representantes de los ayuntamientos mancomunados a la sesión constitutiva del pleno de la mancomunidad, dentro del mes siguiente a la publicación de los estatutos en el «Diari Oficial de la Generalitat Valenciana».
+
+### Artículo 10
+
+Artículo 10. Naturaleza de los estatutos de la mancomunidad.
+1. Los estatutos constituyen la norma reguladora básica de la mancomunidad, tienen la naturaleza jurídica de disposición reglamentaria y a ellos estarán sometidos la propia mancomunidad y los municipios que la integren.
+2. Serán nulas las previsiones estatutarias que se opongan a la legislación básica en la materia, al Estatuto de autonomía de la Comunitat Valenciana, a la presente ley y a las normas reglamentarias que en el futuro la desarrollen.
+3. A falta de la regulación expresada en los apartados anteriores, se aplicará la normativa de régimen local aplicable los ayuntamientos.
+
+### Artículo 11
+
+Artículo 11. Contenido mínimo de los estatutos.
+Los estatutos de las mancomunidades deberán contener necesariamente al menos las siguientes determinaciones:
+a) Denominación de la mancomunidad, que deberá ser única y no podrá dar lugar a confusión con las otras mancomunidades preexistentes.
+b) Relación de municipios que la integran.
+c) Objeto, competencias, potestades y prerrogativas.
+d) Órganos de gobierno y administración, composición y atribuciones respectivas. En todo caso, los órganos de gobierno y administración serán representativos de los ayuntamientos mancomunados mediante la participación de la alcaldesa o el alcalde y del resto de sus representantes. Los estatutos deberán garantizar los derechos de participación de las distintas formaciones y agrupaciones políticas presentes en el pleno de la mancomunidad, en sus comisiones informativas, comisión especial de cuentas y cualquier otro órgano complementario que puedan constituir
+e) Sede de los órganos de gobierno y administración.
+f) Forma de designación y cese de los miembros de los órganos de gobierno.
+g) Normas de funcionamiento interno y organización complementaria de la mancomunidad.
+h) Régimen económico-financiero y criterios para las aportaciones y compromisos de los municipios miembros, las normas reguladoras de su cumplimiento, así como, en su caso, el régimen de constitución y ejecución de avales para garantizar las aportaciones de los municipios
+i) Régimen jurídico del personal.
+j) Causas determinantes de la separación forzosa de sus miembros.
+k) Supuestos de disolución de la mancomunidad.
+l) Normas sobre la liquidación de la mancomunidad.
+m) Procedimiento de modificación de los estatutos cuando no sea consecuencia de la modificación de la mancomunidad, de acuerdo con lo dispuesto en la presente ley.
+
+## TÍTULO III
+
+Calificación y pérdida del reconocimiento del carácter de ámbito comarcal de las mancomunidades
+Se suprime por el art. 53 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 12
+
+Artículo 12. Calificación como mancomunidad de ámbito comarcal.
+(Suprimido)
+Se suprime por el art. 54 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 56 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a5-8
+ Redactado el apartado 2.d) conforme a la corrección de errores publicada en el DOGV núm. 8432, de 27 de noviembre de 2018. Ref. DOGV-r-2018-90478
+
+### Artículo 13
+
+Artículo 13. Solicitud de calificación de mancomunidad de ámbito comarcal.
+(Suprimido)
+Se suprime por el art. 55 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 14
+
+Artículo 14. Resolución de la calificación.
+(Suprimido)
+Se suprime por el art. 56 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 15
+
+Artículo 15. Publicación y registro.
+(Suprimido)
+Se suprime por el art. 57 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 16
+
+Artículo 16. Causas de la pérdida de la calificación de ámbito comarcal de una mancomunidad.
+(Suprimido)
+Se suprime por el art. 58 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 17
+
+Artículo 17. Procedimiento de pérdida de la calificación de ámbito comarcal de una mancomunidad.
+(Suprimido)
+Se suprime por el art. 59 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## TÍTULO IV
+
+Gobierno y régimen de funcionamiento de las mancomunidades
+
+## CAPÍTULO I
+
+Organización de la mancomunidad
+
+### Artículo 18
+
+Artículo 18. Régimen de organización y funcionamiento de las mancomunidades.
+Las mancomunidades regularán en sus estatutos su régimen propio de organización y funcionamiento, respetando el régimen básico de la normativa estatal de régimen local y la autonómica.
+
+### Artículo 19
+
+Artículo 19. El gobierno y los órganos de la mancomunidad.
+1. El gobierno y la administración de la mancomunidad corresponden al pleno, integrado por todos los representantes de los municipios mancomunados, y a su presidencia.
+2. Las mancomunidades de la Comunitat Valenciana, en ejercicio de su autonomía organizativa y mediante la aprobación de sus estatutos y de sus reglamentos orgánicos, establecerán la estructura de su propia organización y régimen de funcionamiento.
+3. Las mancomunidades deberán contar, en todo caso, con una presidencia, una o más vicepresidencias, una junta de gobierno y un pleno, así como una comisión especial de cuentas y, en sus estatutos, podrán prever otros órganos unipersonales o colegiados. Los estatutos deberán prever la composición y funcionamiento de todos estos órganos.
+4. Los estatutos de las mancomunidades podrán prever la existencia de comisiones informativas y regular su composición y funcionamiento. Podrán existir otros órganos complementarios que determine la mancomunidad en los estatutos que, en cualquier caso, deberán regular la constitución y el funcionamiento y adaptarlos a las peculiaridades y a las necesidades de la mancomunidad sin otro límite que el respeto a lo que dispone la legislación básica estatal, las normas contenidas en esta ley y los principios de eficacia, economía organizativa y participación ciudadana.
+
+## CAPÍTULO II
+
+Órganos colegiados
+
+### Artículo 20
+
+Artículo 20. Miembros de los órganos colegiados.
+1. El nombramiento, el cese y la renuncia de la condición de miembro de los órganos colegiados de la mancomunidad se realizarán en los términos que fijen los estatutos de la mancomunidad.
+2. Cada municipio estará representado en el pleno de la mancomunidad por el alcalde o la alcaldesa y otro concejal o concejala, elegido por el pleno correspondiente y que se mantendrá hasta que no lo revoque el pleno que lo eligió o pierda la condición de concejal. El voto será emitido individualmente por cada uno de los representantes.
+3. La pérdida de la condición de alcalde o alcaldesa o de titular de la concejalía comporta, en todo caso, el cese como representante del ayuntamiento en la mancomunidad, cuyas funciones serán asumidas por quien los sustituya. Cuando la pérdida de la condición de concejal o concejala se produzca por extinción del mandato, continuarán en funciones solamente para la administración ordinaria hasta la toma de posesión de sus sucesores. El mismo criterio se aplicará en caso de renuncia de la condición de miembro representante de la correspondiente mancomunidad.
+Se modifica por el art. 60 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica las letras a) y b) del apartado 4 por el art. 56 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a5-8
+
+### Artículo 21
+
+Artículo 21. Sesiones de los órganos colegiados.
+1. Los órganos colegiados de las mancomunidades funcionan en régimen de sesiones ordinarias y extraordinarias, pudiendo estas últimas ser, en su caso, urgentes.
+2. El régimen de sesiones de los órganos colegiados podrá ser regulado por los estatutos de la mancomunidad o, en su caso, por acuerdo plenario aprobado por mayoría absoluta y, en su defecto, lo previsto para los municipios en la legislación de régimen local.
+
+### Artículo 22
+
+Artículo 22. Constitución tras las elecciones.
+1. Finalizado el mandato de los ayuntamientos, los órganos de la mancomunidad continúan en funciones para la administración ordinaria de los asuntos hasta la constitución de los nuevos órganos, sin que en ningún caso puedan adoptar acuerdos para los que se requiera mayoría cualificada.
+2. Tras cada proceso electoral municipal y una vez que los ayuntamientos hayan comunicado a la mancomunidad su representación en ésta, la presidencia en funciones convocará la sesión plenaria para la constitución y la elección de los órganos de gobierno, todo ello, de conformidad con lo que establecen los estatutos. Esta sesión tendrá lugar dentro de los tres meses siguientes a la constitución de los ayuntamientos. Si no se convoca dentro del plazo señalado, quedará automáticamente convocada a las doce horas del primer sábado posterior al último día hábil del mencionado plazo, en el lugar donde habitualmente se celebren las sesiones constitutivas.
+Se modifica el apartado 2 por el art. 56 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a5-8
+
+### Artículo 23
+
+Artículo 23. Pleno de la mancomunidad.
+1. El pleno de la mancomunidad estará integrado por representantes designados por los municipios mancomunados y presidido por la presidencia de la mancomunidad.
+2. En el pleno de las mancomunidades, a cada uno de los miembros le corresponde un voto con el mismo valor.
+3. El resto de aspectos relativos al régimen de funcionamiento y competencias de los órganos de la mancomunidad se ajustará a lo que establecen los correspondientes estatutos y reglamentos orgánicos, en su caso, y, supletoriamente, a lo establecido para los ayuntamientos en la normativa de régimen local.
+4. Corresponderán al pleno las atribuciones que le confieran sus estatutos y la normativa que le sea de aplicación. En todo caso, tendrá asignadas las siguientes atribuciones:
+a) Elegir los órganos unipersonales de la mancomunidad.
+b) Proponer las modificaciones de los estatutos.
+c) Aprobar y modificar las ordenanzas de la mancomunidad y sus reglamentos orgánicos.
+d) Proponer el cambio de denominación de la mancomunidad y la adopción o modificación de sus símbolos o enseñas.
+e) Aprobar los presupuestos y la cuenta general de la mancomunidad.
+f) Proponer la incorporación de nuevos miembros a la mancomunidad y comprobar la concurrencia de los presupuestos necesarios para la separación voluntaria de miembros de la mancomunidad y, cuando proceda, acordar su separación obligatoria.
+g) Proponer la disolución de la mancomunidad.
+h) Aquellas otras competencias que deban corresponder al pleno por exigir su aprobación una mayoría especial.
+5. Corresponde igualmente al pleno la votación sobre la moción de censura de la presidencia de la mancomunidad y sobre la cuestión de confianza planteada por la misma. Serán públicas y se realizarán mediante llamamiento nominal, en todo caso, y se regirán por lo dispuesto en la legislación electoral general.
+
+### Artículo 24
+
+Artículo 24. Junta de gobierno.
+1. La junta de gobierno local es un órgano de asistencia al pleno, a la presidencia, a las vicepresidencias y al resto de órganos, y de gestión de la mancomunidad, cuya existencia deberá preverse en los correspondientes estatutos, y estará integrada por la presidencia, vicepresidencias y un número de representantes de los municipios mancomunados integrantes del pleno nunca superior a un tercio del número de miembros del pleno.
+2. Los estatutos aprobados por la mancomunidad garantizarán la presidencia de la junta de gobierno por la presidenta o presidente de la mancomunidad.
+3. Las atribuciones de la junta de gobierno serán las establecidas en los estatutos de la mancomunidad, correspondiéndole, en todo caso:
+a) Asistir a la presidencia y al resto de órganos de la mancomunidad en sus atribuciones.
+b) Ejercer las competencias que la presidencia u otro órgano de la mancomunidad le hayan delegado.
+Se modifica el apartado 2 por el art. 56 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a5-8
+
+### Artículo 25
+
+Artículo 25. Comisiones informativas.
+1. Las comisiones informativas que en su caso pudieran establecerse son órganos complementarios de la mancomunidad sin atribuciones resolutorias que tienen por función el estudio, información, consulta previa de los expedientes y asuntos que hayan de ser sometidos a la decisión del pleno o de la junta de gobierno, cuando esta actúa con competencias delegadas por el pleno, salvo cuando hayan de adoptarse acuerdos declarados urgentes.
+2. La composición, funcionamiento y régimen de sesiones de las comisiones informativas serán regulados por los estatutos y reglamentos orgánicos de la mancomunidad.
+3. Los estatutos y los reglamentos orgánicos deberán garantizar que la composición de las comisiones informativas se acomode a la proporcionalidad existente entre las distintas formaciones y/o agrupaciones políticas presentes en el pleno de la mancomunidad.
+Se modifica el apartado 1 por el art. 61 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 26
+
+Artículo 26. Comisión especial de cuentas.
+1. Corresponde a la comisión especial de cuentas el examen, estudio e informe de las cuentas, presupuestarias y extrapresupuestarias, que deba aprobar el pleno de la mancomunidad y, en especial, de la cuenta general que han de rendir las mancomunidades.
+2. Para el ejercicio de sus funciones, la comisión podrá requerir, a través de la presidencia de la mancomunidad, la documentación complementaria necesaria y la presencia de los miembros de la mancomunidad y su personal relacionados con las cuentas que se analicen.
+3. La comisión especial de cuentas deberá reunirse necesariamente antes del 1 de junio de cada año para examinar e informar las cuentas generales de la mancomunidad.
+4. Además de lo anterior, puede celebrar reuniones preparatorias, si la presidencia lo decide o si lo solicita una cuarta parte, al menos, del número legal de miembros de la mancomunidad.
+5. La comisión especial de cuentas podrá actuar como comisión informativa para el informe o el dictamen de los asuntos relativos a economía y hacienda de la mancomunidad, si así lo prevé el reglamento orgánico o lo acuerda el pleno.
+Se modifica el apartado 3 por el art. 62 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## CAPÍTULO III
+
+Órganos unipersonales
+
+### Artículo 27
+
+Artículo 27. Presidencia de la mancomunidad.
+1. La presidencia de la mancomunidad será elegida por el pleno, de entre sus miembros y por mayoría absoluta en primera vuelta o simple en segunda, conforme a lo dispuesto en los estatutos de la mancomunidad y, supletoriamente, conforme a lo previsto en la legislación de régimen local.
+2. La pérdida de la condición de concejal o concejala en el municipio mancomunado será causa de cese en la titularidad de la presidencia.
+3. La persona titular de la presidencia podrá renunciar voluntariamente a la titularidad de dicho órgano manifestándolo por escrito.
+
+### Artículo 28
+
+Artículo 28. Atribuciones de la presidencia de la mancomunidad.
+1. La persona titular de la presidencia de la mancomunidad ejercerá la presidencia de todos sus órganos colegiados y ostentará las atribuciones que le atribuyan sus estatutos y la normativa que le sea de aplicación. En todo caso, corresponde a la presidencia de la mancomunidad el ejercicio de las siguientes atribuciones:
+a) Representar a la mancomunidad.
+b) Dirigir el gobierno y la administración mancomunada.
+c) Convocar y presidir las sesiones del pleno, de la junta de gobierno y de cualesquiera órganos colegiados de la mancomunidad.
+d) Ejercer la jefatura del personal al servicio de la mancomunidad.
+2. La presidencia podrá delegar el ejercicio de sus atribuciones, salvo las de decidir los empates con el voto de calidad y aquellas expresamente previstas en la normativa que le sea de aplicación.
+
+### Artículo 29
+
+Artículo 29. Vicepresidencia de la mancomunidad.
+1. Las mancomunidades tendrán, por lo menos, una vicepresidencia, y hasta un máximo de tres, en los términos que establezcan sus estatutos respectivos.
+2. La elección de la titularidad de la vicepresidencia o vicepresidencias de las mancomunidades se realizará conforme al procedimiento y en la forma establecida por los propios estatutos de cada mancomunidad.
+3. La titularidad de la vicepresidencia se pierde por las causas determinadas en los estatutos de la mancomunidad y, en particular, por renuncia expresa manifestada por escrito y por pérdida de la condición de concejal del municipio mancomunado.
+
+### Artículo 30
+
+Artículo 30. Atribuciones de la vicepresidencia de la mancomunidad.
+Corresponde a la vicepresidencia de la mancomunidad sustituir en la totalidad de sus funciones a la presidencia en los casos de ausencia, enfermedad o impedimento que la imposibilite para el ejercicio de sus atribuciones, así como desempeñar las funciones de la presidencia en los supuestos de vacante y todas aquellas que le sean atribuidas en virtud de los estatutos de la mancomunidad.
+
+## TÍTULO V
+
+Personal al servicio de las mancomunidades
+
+### Artículo 31
+
+Artículo 31. El régimen del personal.
+1. Las mancomunidades, para el desarrollo de sus fines, podrán disponer de personal propio en los términos establecidos en la normativa aplicable, en sus estatutos y en sus reglamentos orgánicos.
+2. Podrán prestar servicios en las mancomunidades los empleados públicos de las entidades locales que las integren, siempre de forma expresa y de conformidad con la normativa básica y autonómica en materia de función pública, y también el de otras administraciones públicas, en los términos de las relaciones de cooperación y colaboración que en cada caso se establezcan. La integración en la mancomunidad de personal funcionario y laboral en virtud de procesos de trasferencias de funciones y servicios, se realizará de conformidad con las normas de función pública aplicables, y con lo que se establezca, en su ámbito, en las mesas de negociación previstas en las leyes de función pública.
+3. El personal que esté al servicio de una mancomunidad, en caso de disolución, quedará incorporado a las entidades locales que formaron parte de la mancomunidad, de acuerdo con lo que prevén sus estatutos. Asimismo, los estatutos y los reglamentos orgánicos aprobados por la mancomunidad deberán regular la situación en que quedará el personal de la mancomunidad afectado en supuestos de separación de municipios, debiendo quedar garantizados sus derechos, todo ello, de conformidad con lo que establece la legislación en materia de función pública.
+En todo caso, la cesión o el traspaso del personal por parte de los municipios adheridos a la mancomunidad comporta la obligación del ayuntamiento de reincorporar a este personal, en caso de que el servicio mancomunado se haya extinguido o finalizado.
+4. La selección del personal de la mancomunidad, tanto funcionario como laboral, se realizará de acuerdo con la oferta de empleo, mediante convocatoria pública y a través de los sistemas legalmente previstos en los que se garanticen, en todo caso, los principios de igualdad, publicidad, mérito y capacidad.
+5. Las mancomunidades aprobarán anualmente, junto con el presupuesto, la plantilla y la relación de puestos de trabajo existentes en su organización, que debe comprender todos los puestos de trabajo reservados a personal funcionario y laboral y el resto de personal. Respecto de este último, se establecerá lo que dispone el artículo 104 bis, punto 2, de la ley de bases de régimen local.
+6. Las mancomunidades, en función de sus necesidades de personal, harán públicas sus ofertas de empleo de acuerdo con los criterios fijados por la normativa de función pública que resulte de aplicación.
+7. La mancomunidad podrá autorizar la aplicación o la utilización de las bolsas de trabajo temporal que esta tenga aprobadas y en vigor por cualquier ayuntamiento integrante o por cualquier otra entidad pública en que tenga participación estatutaria, siempre que así haya sido acordado en el ámbito de negociación de la entidad solicitante.
+8. (Suprimido)
+9. (Suprimido)
+Se suprimen los apartados 8 y 9 por el art. 63 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 32
+
+Artículo 32. Funcionarios con habilitación de carácter nacional.
+1. En todas las mancomunidades deberá existir, al menos, un puesto de trabajo al que corresponderá el desempeño de las funciones públicas necesarias previstas en la legislación básica de régimen local.
+En tanto se cree y clasifique por el órgano autonómico competente el citado puesto, dichas funciones pueden ser desempeñadas por algún funcionario o funcionaria con habilitación de carácter nacional de alguno de los municipios que integran la mancomunidad o en su defecto funcionario con habilitación nacional de una entidad local no integrante de la misma, previa designación por el pleno de la misma.
+2. La creación y clasificación de los puestos reservados a funcionarios con habilitación de carácter nacional en las mancomunidades de municipios corresponderá al órgano autonómico competente en materia de administración local, que la realizará a propuesta de la entidad interesada.
+3. Si se estima que el volumen de servicios o recursos de la mancomunidad es insuficiente para el mantenimiento del puesto de habilitado nacional, se podrá, de conformidad con la normativa aplicable, solicitar la exención de la obligación de mantenerlo, en los términos previstos para los ayuntamientos.
+En ese supuesto, y una vez concedida la citada exención, las funciones reservadas a habilitados nacionales se ejercerán preferentemente mediante acumulación de funciones a un funcionario con esta habilitación de alguno de los municipios que integran la mancomunidad. Si ello no fuera posible, dichas funciones reservadas se ejercerán mediante su acumulación a un funcionario o funcionaria con habilitación de carácter nacional de otras entidades locales o por los servicios de asistencia de las diputaciones provinciales, previa conformidad de estas.
+Excepcionalmente, en defecto de estas formas de provisión, las funciones reservadas podrán ser desempeñadas por una persona funcionaria de la mancomunidad, o de alguno de los municipios que la integran, que estuviese en posesión de la titulación requerida para el acceso al puesto de habilitado que hubiese correspondido de no declararse exenta la mancomunidad de esta obligación por el órgano competente del Consell. La persona funcionaria será designada por la junta de gobierno de la mancomunidad.
+Este nombramiento se comunicará al órgano que hubiese autorizado la exención, que deberá autorizarlo de forma expresa cuando la duración del ejercicio de sus funciones se prevea que pueda exceder de tres meses.
+4. En las mancomunidades cuya secretaría esté clasificada como de clase tercera el desempeño de las funciones de tesorería y recaudación se ajustará a lo dispuesto en la normativa básica estatal.
+Se modifica el apartado 3 por el art. 64 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## TÍTULO VI
+
+Recursos y régimen económico
+
+### Artículo 33
+
+Artículo 33. Recursos económicos de las mancomunidades.
+1. La hacienda de las mancomunidades estará constituida por los siguientes recursos:
+a) Aportaciones de los municipios, de acuerdo con lo establecido en los estatutos.
+b) Ingresos procedentes de su patrimonio y otros de derecho privado.
+c) Tasas y precios públicos por la prestación de servicios o realización de actividades de su competencia.
+d) Contribuciones especiales para la ejecución de obras o para el establecimiento, ampliación o mejora de servicios.
+e) Participaciones en los tributos de la Generalitat que, en su caso, se puedan establecer a su favor.
+f) Recargos sobre impuestos de la Generalitat, o de otras entidades locales, que procedan.
+g) Participar en los fondos de cooperación o instrumentos similares de financiación incondicionada que se determinen.
+h) Subvenciones y otros ingresos de derecho público.
+i) Ingresos procedentes de operaciones de crédito.
+j) Multas y sanciones en el ámbito de su competencia.
+k) Cualquier otro que legalmente pueda establecerse.
+2. Las operaciones de crédito que pueda concertar una mancomunidad para financiar la realización de fines de su competencia podrán ser avaladas por los municipios que la integran, por la conselleria con competencias en materia de régimen local o por la diputación provincial correspondiente, cuando el patrimonio propio de la mancomunidad o sus recursos ordinarios no sean suficientes para garantizar esta operación, de conformidad con la normativa básica que se aplique.
+3. Será de aplicación a las mancomunidades lo dispuesto en la normativa de régimen local respecto de los recursos de los municipios, con las especialidades que procedan en cada caso.
+
+### Artículo 34
+
+Artículo 34. Las ordenanzas.
+Para el establecimiento, ordenación, liquidación y recaudación de los recursos expresados en los apartados c, d y i del número 1 del artículo 33, la mancomunidad aprobará las correspondientes ordenanzas.
+
+### Artículo 35
+
+Artículo 35. Aportaciones económicas de los miembros de la mancomunidad.
+1. Los ayuntamientos deberán consignar en sus presupuestos las cantidades necesarias para atender en los sucesivos ejercicios económicos las obligaciones derivadas de los compromisos contraídos con la mancomunidad a la que pertenezcan.
+2. Las aportaciones de los municipios a las mancomunidades tienen la consideración de pagos obligatorios y preferentes para las entidades mancomunadas. El ingreso de tales aportaciones se realizará de la forma y en los plazos que se determinen en las bases de ejecución de los presupuestos anuales de la mancomunidad.
+3. Una vez transcurrido el plazo establecido para efectuar el abono sin que por el municipio se haya hecho efectivo, para la cobranza de estas aportaciones la mancomunidad ostentará las prerrogativas establecidas legalmente para la hacienda del Estado, y actuará, en su caso, conforme a los procedimientos administrativos correspondientes.
+4. Las aportaciones a la mancomunidad vencidas, líquidas y exigibles podrán ser objeto de retención, una vez transcurrido el plazo de pago previsto en los estatutos y previa solicitud de la propia mancomunidad y audiencia al municipio afectado, respecto de las que tengan pendientes de percibir de la Generalitat o de las diputaciones provinciales.
+
+### Artículo 36
+
+Artículo 36. Apoyo económico por otras administraciones.
+1. La Generalitat y las diputaciones provinciales deberán integrar necesariamente a las mancomunidades en sus planes estratégicos de subvenciones, incluyéndolas en todas las líneas y programas, tanto de carácter general como sectorial, que les puedan afectar, siempre de conformidad con la normativa general de subvenciones.
+2. Las mancomunidades participarán en las convocatorias autonómicas y provinciales de ayudas y subvenciones dirigidas a los municipios, a excepción que se prevea expresamente lo contrario en las convocatorias, y se beneficiarán del máximo nivel de las ayudas.
+3. (Suprimido)
+4. A todos estos efectos, la Generalitat podrá condicionar la aplicación de todos o de parte de dichos beneficios a que el ámbito y los fines de la mancomunidad se ajusten a las directrices y planes directores correspondientes.
+5. A los efectos previstos en este artículo, en todos los casos en que pueda beneficiarle, se entenderá como población de la mancomunidad la totalidad de los habitantes de derecho de los municipios que la integren.
+6. (Suprimido)
+7. Las diputaciones provinciales colaborarán y auxiliarán a las mancomunidades en el ejercicio de sus actuaciones tendentes a materializar sus competencias y potestades en materia tributaria y otros ingresos de derecho público, ya sea con carácter puntual y específico o con carácter genérico, en particular, los referentes a la recaudación y ejecución de estos derechos.
+8. (Suprimido)
+Se suprimen los apartados 3, 6 y 8 por el art. 65 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se declara la no inconstitucionalidad del apartado 8, siempre que se interprete conforme al fundamento jurídico 6.e), por Sentencia 105/2019, de 19 de septiembre. Ref. BOE-A-2019-14726
+
+### Artículo 37
+
+Artículo 37. Presupuesto de la mancomunidad.
+1. Los presupuestos constituyen la expresión cifrada, conjunta y sistemática de las obligaciones que las mancomunidades, como máximo, pueden reconocer y de los derechos que se prevean liquidar durante el correspondiente ejercicio económico.
+2. Se incluirán en el presupuesto las inversiones que se puedan realizar, sus fuentes de financiación, así como el conjunto de obligaciones derivadas del ordenamiento jurídico.
+3. Las mancomunidades de la Comunitat Valenciana aprobarán cada año natural sus respectivos presupuestos, de conformidad con lo dispuesto al efecto en la legislación de régimen local vigente.
+
+### Artículo 38
+
+Artículo 38. Racionalización técnica de la contratación.
+(suprimido)
+Se suprime por el art. 66 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 39
+
+Artículo 39. Suficiencia de las haciendas de las mancomunidades.
+Las haciendas de las mancomunidades deben disponer de recursos económicos suficientes para la prestación de los servicios que se les asignen.
+
+## TÍTULO VII
+
+Incorporación y separación de municipios
+
+### Artículo 40
+
+Artículo 40. Adhesión de municipios.
+1. Para la adhesión de uno o varios municipios a la mancomunidad con posterioridad a su constitución será necesario:
+a) La solicitud del pleno de la corporación municipal interesada, por mayoría absoluta del número legal de sus miembros.
+b) La aprobación por el pleno de la mancomunidad de que se trate, por mayoría absoluta del número legal de votos.
+2. El acuerdo de adhesión del nuevo municipio deberá ser publicado por la mancomunidad en el «Diari Oficial de la Generalitat Valenciana» y deberá inscribirse en el registro de entidades locales autonómico.
+
+### Artículo 41
+
+Artículo 41. Adhesión de municipios a mancomunidades de ámbito comarcal.
+(suprimido)
+Se suprime por el art. 67 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 42
+
+Artículo 42. Separación voluntaria.
+1. Los municipios podrán separarse en cualquier momento de la mancomunidad, previo el cumplimiento de los siguientes requisitos:
+a) Acuerdo del pleno municipal, siempre adoptado con el voto favorable de la mayoría absoluta de los miembros de la corporación.
+b) Hallarse al corriente en el pago de sus aportaciones a la mancomunidad.
+c) Que haya transcurrido, en su caso, el periodo mínimo de pertenencia estatutariamente establecido.
+d) Abono de todos los gastos que se originen con motivo de la separación, así como la parte del pasivo contraído por la mancomunidad a su cargo, de acuerdo con los términos previstos en los estatutos de la mancomunidad.
+e) Que se notifique el acuerdo de separación a la mancomunidad con la antelación mínima prevista en los estatutos de la mancomunidad.
+2. Cumplidos los requisitos anteriores, la mancomunidad deberá aceptar la separación del municipio interesado mediante acuerdo por mayoría absoluta de su pleno, al que se dará publicidad por la mancomunidad a través del «Diari Oficial de la Generalitat Valenciana» y será objeto de inscripción en el registro de entidades locales autonómico.
+
+### Artículo 43
+
+Artículo 43. Separación obligatoria.
+1. Las mancomunidades podrán acordar la separación obligatoria de los municipios en los términos previstos en los estatutos y, en todo caso, en los siguientes supuestos:
+a) El reiterado incumplimiento del pago de sus aportaciones.
+b) El incumplimiento de aquellas otras actuaciones necesarias para el correcto desenvolvimiento de la mancomunidad a las que venga obligado por los estatutos.
+c) La no aprobación por el pleno de alguno de los municipios integrantes de la mancomunidad de la modificación constitutiva de sus estatutos.
+2. El procedimiento de separación se iniciará de oficio por la mancomunidad mediante acuerdo por mayoría absoluta de su pleno.
+3. Acordada la iniciación del procedimiento de separación, se concederá al municipio el plazo de audiencia por un mes.
+4. Vistas las alegaciones presentadas por el municipio, el pleno de la mancomunidad podrá acordar la separación obligatoria mediante acuerdo favorable de la mayoría absoluta de sus miembros legales.
+5. La mancomunidad dará publicidad al acuerdo de separación obligatoria del municipio mediante su publicación en el «Diari Oficial de la Generalitat Valenciana» y procederá a su inscripción en el registro de entidades locales autonómico.
+Se modifica el apartado 1 por el art. 38 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 44
+
+Artículo 44. Efectos de la separación.
+1. La separación de una mancomunidad de uno o varios de los municipios que la integran no implicará, necesariamente, la obligación de proceder a la liquidación de aquella, quedando esta operación diferida al momento de su disolución. No obstante, en el caso de que el municipio o municipios separados de la mancomunidad hayan aportado a esta bienes afectos a servicios propios, se practicará, salvo acuerdo con los municipios interesados, una liquidación parcial a fin de que esos elementos les sean reintegrados, sin perjuicio de los derechos que puedan asistirles en el momento de la liquidación definitiva por haber aportado elementos de otra naturaleza.
+2. No obstante lo anterior, a la vista de las circunstancias concurrentes apreciadas por la mancomunidad y debidamente justificadas, se podrá anticipar total o parcialmente el importe de su participación a los municipios separados, adjudicándose aquellos elementos o instalaciones establecidos para el servicio exclusivo de los mismos.
+
+## TÍTULO VIII
+
+Modificación de estatutos
+
+### Artículo 45
+
+Artículo 45. Régimen de modificación.
+Tras su aprobación inicial, los estatutos de las mancomunidades podrán ser objeto de modificación por sus plenos de conformidad con las previsiones contenidas en ellos y con respeto a las reglas previstas en este capítulo.
+
+### Artículo 46
+
+Artículo 46. Procedimientos de modificación.
+1. La modificación de los estatutos de las mancomunidades podrá tener carácter constitutivo o no constitutivo.
+2. La modificación constitutiva de los estatutos de las mancomunidades se referirá, exclusivamente, a los siguientes aspectos:
+a) Objeto competencial.
+b) Sistema de representación de los municipios.
+c) Supuestos de disolución de la mancomunidad.
+d) Los que, al margen de los anteriores, establezcan los estatutos de la mancomunidad.
+3. Las modificaciones constitutivas se ajustarán al procedimiento siguiente:
+a) Aprobación inicial por el pleno de la mancomunidad, por mayoría absoluta del número legal de votos.
+b) Apertura de un plazo de información pública durante un mes, en los tablones de anuncios de los ayuntamientos mancomunados y de la propia mancomunidad, con indicación de la forma, el lugar y plazo de consulta y formulación de alegaciones por los interesados.
+c) Emisión de los informes de la diputación provincial o, en su caso, diputaciones provinciales interesadas y del departamento del Consell con competencias en materia de administración local.
+d) Resolución por el pleno de la mancomunidad, en su caso, de las alegaciones u objeciones que se formulen.
+e) Aprobación por los plenos de los municipios afectados, por mayoría absoluta del número legal de miembros.
+f) Publicación de la modificación en el «Diari Oficial de la Generalitat Valenciana».
+4. Las restantes modificaciones estatutarias tendrán carácter no constitutivo y tan solo requerirán el acuerdo aprobatorio del pleno de la mancomunidad, por mayoría absoluta de votos, con audiencia previa a los municipios integrantes de la mancomunidad, y su publicación íntegra por la mancomunidad en el «Diari Oficial de la Generalitat Valenciana».
+5. Las modificaciones estatutarias consistentes en la adhesión y separación de municipios se regirán por lo dispuesto en el título VII de la ley.
+
+## TÍTULO IX
+
+Disolución de mancomunidades
+
+### Artículo 47
+
+Artículo 47. Causas de disolución de la mancomunidad.
+Las mancomunidades deberán disolverse cuando concurran, además de las causas previstas en sus estatutos, alguna de las siguientes:
+a) Porque así lo dispongan las leyes.
+b) Porque se hayan cumplido o hayan desaparecido todos sus objetivos.
+c) Porque así lo acuerden los municipios que las integran.
+
+### Artículo 48
+
+Artículo 48. Procedimiento de disolución.
+1. Cuando concurra alguna de las causas de disolución, deberá iniciarse de oficio el procedimiento de disolución por la mancomunidad o a instancia de cualquiera de sus miembros.
+2. El procedimiento de disolución de las mancomunidades requerirá:
+a) Acuerdo de la disolución de la entidad por el pleno de la mancomunidad, por mayoría absoluta legal del número de votos, y su comunicación al departamento del Consell competente en materia de administración local.
+b) El sometimiento a información pública durante un mes en todos los ayuntamientos mancomunados.
+c) Los informes de la diputación provincial y del departamento del Consell competente en materia de administración local.
+d) La aprobación de los ayuntamientos mancomunados, por mayoría absoluta del número legal de sus miembros. El trámite continuará siempre que quede acreditada la aprobación por las dos terceras partes de las entidades locales integrantes de la mancomunidad a favor de la disolución propuesta.
+e) La aprobación por el pleno de la mancomunidad, por mayoría absoluta de sus votos, de la propuesta efectuada por la comisión liquidadora.
+f) Remisión al departamento del Consell competente en materia de administración local que procederá a publicar la disolución en el «Diari Oficial de la Generalitat Valenciana,» procediendo a dar de baja la mancomunidad en el Registro de Entidades Locales de la Comunitat Valenciana.
+3. Aprobada la disolución de una mancomunidad por parte de los plenos municipales y antes de su remisión a la Generalitat, se deberá crear una comisión liquidadora compuesta, al menos, por la presidencia de la mancomunidad de que se trate y dos vocales. En ella se integrará, para cumplir sus funciones asesoras, el personal que tenga atribuidas las funciones reservadas a habilitados nacionales. Podrá igualmente convocar a sus reuniones a expertos determinados, a los solos efectos de oír su opinión o preparar informes o dictámenes en temas concretos de su especialidad.
+4. La comisión, en un plazo no superior a tres meses, hará un inventario de bienes, servicios y derechos de la mancomunidad a disolver, cifrará sus recursos, cargas y débitos y relacionará a su personal, procediendo más tarde a proponer al pleno de la entidad su oportuna distribución en los ayuntamientos mancomunados.
+5. La propuesta, para ser aprobada válidamente, requerirá el voto favorable de la mayoría absoluta de los votos del pleno de la entidad. Una vez aprobada, la propuesta será vinculante para los ayuntamientos mancomunados.
+6. Tras la disolución de una mancomunidad, la misma mantendrá su personalidad jurídica en tanto no sea adoptado por el pleno el acuerdo de liquidación y distribución de su patrimonio, del que deberán dar publicidad en el «Diari Oficial de la Generalitat Valenciana».
+
+## TÍTULO X
+
+Relaciones interadministrativas
+
+### Artículo 49
+
+Artículo 49. Coordinación del ejercicio de las competencias de las mancomunidades de ámbito comarcal mediante planes sectoriales.
+(Suprimido)
+Se suprime por el art. 68 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 50
+
+Artículo 50. Medidas de coordinación y fomento.
+1. Las mancomunidades podrán celebrar convenios de cooperación o asumir funciones en coordinación con otras administraciones públicas, orientadas exclusivamente a la realización de obras y la prestación de los servicios públicos que, estando incluidos dentro de su objeto y fines, sean necesarios para que los municipios puedan ejercer las competencias o prestar los servicios previstos en la legislación de régimen local vigente.
+2. (Suprimido)
+3. (Suprimido)
+4. Las inversiones propuestas por las mancomunidades que supongan ejecución de obras y servicios en beneficio de varios municipios tendrán carácter prioritario en los planes provinciales de obras y servicios, así como dentro de los programas y planes de inversiones de los distintos departamentos de la Generalitat. A estos efectos, dichos planes y programas deberán contar con un apartado destinado a obras y servicios de interés intermunicipal que sean realizados o prestados por las citadas entidades.
+Se declara la no inconstitucionalidad del apartado 4, siempre que se interprete conforme al fundamento jurídico 7.c), por Sentencia 105/2019, de 19 de septiembre. Ref. BOE-A-2019-14726
+5. La Generalitat y las diputaciones provinciales fomentarán que se dé participación a las mancomunidades en los programas y actuaciones que hayan de realizarse en su ámbito.
+6. Otras administraciones públicas podrán delegar en las mancomunidades la ejecución de obras y prestación de servicios que estén incluidos dentro de su objeto y fines, siempre que la delegación venga acompañada de la completa financiación necesaria para su ejecución o prestación, y de acuerdo con lo contemplado en la legislación básica de régimen local.
+Se modifica el apartado 5 y se suprimen el 2 y 3 por el art. 69 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se declara la no inconstitucionalidad del apartado 4, siempre que se interprete conforme al fundamento jurídico 7.c), por Sentencia 105/2019, de 19 de septiembre. Ref. BOE-A-2019-14726
+
+### Artículo 51
+
+Artículo 51. Convenios de cooperación.
+1. Las mancomunidades podrán celebrar convenios de cooperación con la administración general del Estado, la Generalitat, con las diputaciones provinciales, con otras mancomunidades, con otras administraciones públicas y con municipios no pertenecientes a ellas, para la más eficaz gestión y prestación de servicios de su competencia. Los convenios deberán tener una duración determinada, que no podrá ser superior a seis años.
+2. A través de los convenios de cooperación, las partes podrán coordinar sus políticas de fomento dirigidas a un mismo sector o población, ejecutar puntualmente obras o servicios de la competencia de una de las partes, compartir las sedes, locales o edificios que sean precisos para el desarrollo de competencias concurrentes o propias, ceder y aceptar la cesión de uso de bienes patrimoniales, desarrollar actividades de carácter prestacional y adoptar las medidas oportunas para alcanzar cualquier otra finalidad competencia de las partes.
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+Las mancomunidades de municipios existentes a la entrada en vigor de la presente ley dispondrán de un período de un año para adaptar sus estatutos a las determinaciones de la misma.
+La solicitud de calificación como mancomunidad de ámbito comarcal regulada en el título III de la presente ley, por parte de las mancomunidades de municipios ya existentes, no estará sometida a plazo limitativo alguno.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las mancomunidades de municipios existentes a la entrada en vigor de la presente ley dispondrán de un período de un año para adaptar sus estatutos a las determinaciones de la misma.
+Se modifica por el art. 70 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se numera como disposición transitoria primera por el art. 56 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a5-8
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Régimen transitorio.
+1. A partir de la entrada en vigor de la presente ley no se podrá solicitar la calificación de mancomunidad de ámbito comarcal.
+2. Las mancomunidades que a la entrada en vigor de la presente ley hubieran sido calificadas de ámbito comarcal por el departamento del Consell competente en materia de administración local mantendrán su personalidad jurídica y la condición de mancomunidad comarcal de conformidad con lo establecido en sus estatutos. Estas mancomunidades continuarán rigiéndose por la regulación aplicable con carácter previo a la entrada en vigor de la presente modificación legislativa.
+En lo relativo a puestos reservados a funcionarios con habilitación de carácter nacional estas mancomunidades se regirán por lo dispuesto en la redacción del artículo 32 dada por la presente ley y demás normativa aplicable.
+3. Las mancomunidades que en el momento de la entrada en vigor de la presente ley se encuentren tramitando el procedimiento para su calificación de ámbito comarcal podrán optar por desistir o por continuar la tramitación conforme a la regulación aplicable con carácter previo a la entrada en vigor de la presente modificación legislativa.
+Se modifica por el art. 71 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se añade por el art. 56 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a5-8
+
+### Disposición adicional primera
+
+Disposición adicional primera. Suspensión del procedimiento de creación o constitución de una mancomunidad.
+En el caso de que durante la tramitación de un procedimiento de creación o constitución de una mancomunidad se celebraran elecciones municipales, este quedará en suspenso hasta tanto sean designados los nuevos representantes de los municipios que resulten del proceso electoral.
+Se modifica por el art. 72 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Competencias en materia de policía local.
+En los supuestos en los que dos o más municipios limítrofes, pertenecientes a la Comunitat Valenciana, no dispongan separadamente de recursos suficientes para la prestación de los servicios de policía local, podrán asociarse para la ejecución de las funciones asignadas a dichas policías de acuerdo con los términos dispuestos en la Disposición Adicional Quinta de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
+Se modifica por el art. 24 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Al amparo de los artículos 64.2 y 66.2 del Estatuto de autonomía de la Comunitat Valenciana, se autoriza al Consell para delegar el ejercicio de las funciones y las potestades que correspondan a la administración de la Generalitat en materia de turismo, espectáculos públicos, establecimientos públicos y actividades recreativas, en aquellas entidades locales que por sus medios puedan asumirlas, asegurando la debida coordinación y eficacia en su ejercicio.
+Esta delegación requerirá aceptación por parte de la entidad local interesada, y se articulará, previa solicitud de esta, mediante una resolución de la persona titular del departamento competente del Consell, o mediante la suscripción de un convenio de colaboración entre la administración de la Generalitat y la entidad local solicitante, en los que se fijarán los términos en que se deba efectuar el ejercicio de la competencia. En estos instrumentos se concretará el alcance, contenido, condiciones y duración de esta, que no podrá ser inferior a cinco años, así como el control de eficiencia que se reserva la Generalitat y los medios que esta asigne, sin que pueda suponer mayor gasto de las administraciones públicas.
+Esta delegación irá acompañada de los suficientes recursos económicos para que sea efectiva y que garanticen el equilibrio financiero de la entidad receptora.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+El fondo de financiación de las entidades locales de la Comunitat Valenciana o los instrumentos de financiación incondicionada de las entidades locales que normativamente se habiliten, deberán incorporar entre sus beneficiarios a las mancomunidades de municipios.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación expresa.
+Quedan derogadas cuantas disposiciones normativas anteriores adoptadas por la Generalitat se opongan a las previsiones de esta ley, y específicamente los artículos 91 a 107 del capítulo II del título VI de la Ley 8/2010, de régimen local de la Comunitat Valenciana.
+
+### Disposición final primera
+
+Disposición final primera. Título competencial.
+Esta ley se dicta al amparo de lo dispuesto en el artículo 49.1.8.ª del Estatuto de autonomía de la Comunitat Valenciana.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación para el desarrollo reglamentario.
+Se habilita al Consell para el desarrollo reglamentario de esta ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+Esta ley entrará en vigor el día siguiente al de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+Renumerada conforme a la corrección de errores publicada en el DOGV núm. 8432, de 27 de noviembre de 2018. Ref. DOGV-r-2018-90478
+ Su anterior numeración era disposición final cuarta.
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos y todas las ciudadanas, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+València, 16 de octubre de 2018.–El President de la Generalitat, Ximo Puig i Ferrer.
+
+## ANEXO
+
+(Suprimido)
+Se suprime por el art. 73 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959

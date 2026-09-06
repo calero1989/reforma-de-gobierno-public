@@ -1,0 +1,123 @@
+# Ley Foral 8/1987, de 21 de abril, de creación de la Universidad Pública de Navarra.
+
+- Identificador BOE: `BOE-A-1987-13786`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-13786
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el BON núm. 58, de 11 de mayo de 1987. Ref. BON-n-1987-90253
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente
+LEY FORAL DE CREACION DE LA UNIVERSIDAD PUBLICA DE NAVARRA
+La Institución Universitaria desempeña un papel fundamental en el desarrollo de la sociedad no sólo por ser la Entidad a la que se le confía el servicio público de la educación superior sino también por tratarse del foco emisor por excelencia de propuestas intelectuales y de aportaciones técnicas y científicas necesarias para el progreso de los pueblos.
+No es la Universidad, por consiguiente, una Entidad ajena a los intereses de la comunidad; antes al contrario, adquiere su verdadera dimensión en el equilibrio entre la Universidad de su función y la precisa adecuación de su actividad a las necesidades de la sociedad donde se inserta.
+La Universidad Pública de Navarra nace, en primer lugar, como instrumento al servicio de la Comunidad Foral, con vocación de contribuir al avance cultural, científico y técnico de ésta, tanto mediante la docencia como mediante la actividad investigadora; tacto a través de la formación de titulados como en la práctica de extensión universitaria que la haga presente en la vida social; tanto proporcionando estudios a todos aquellos ciudadanos con mérito suficiente que los deseen interviniendo en los proyectos de desarrollo que hagan aconsejable su participación.
+Pero nace asimismo decididamente identificada con el principio de autonomía consagrado por la Constitución y, por consiguiente facultada para regir su propia actividad desde perspectivas estrictamente universitarias. Entre éstas, son sin duda las libertades de cátedra, investigación y estudio las que más relevancia adquieren en la configuración de una Universidad pública de nuestro tiempo, sea cual fuere el territorio en que se ubique.
+Para servir a estos fines, previo informe favorable del Consejo de Universidades, se aprueba esta ley Foral, en desarrollo de la competencia plena reconocida a Navarra por el artículo 47 de la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral.
+
+### Artículo 1
+
+Artículo 1.
+Se crea la Universidad Publica de Navarra, Entidad a la que se encomienda el servicio publico de la educación superior de Navarra, mediante el ejercicio de la docencia, el estudio y la investigación.
+
+### Artículo 2
+
+Artículo 2.
+La Universidad Pública de Navarra se regirá por lo establecido en la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, y, en lo no previsto en la misma, por lo establecido en esta Ley Foral.
+
+### Artículo 3
+
+Artículo 3.
+La Universidad Pública de Navarra, sin perjuicio de la creación de nuevos Centros previo informe del Consejo de Universidades, consta inicialmente de los siguientes:
+– Facultad de Ciencias Humanas y Sociales.
+– Facultad de Ciencias Económicas y Empresariales.
+– Escuela Técnica Superior de Ingenieros Agrónomos.
+– Escuela Técnica Superior de Ingenieros Industriales y de Telecomunicaciones.
+– Escuela Universitaria de Estudios Sanitarios.
+– Centro de Estudios de Planificación Territorial.
+
+### Artículo 4
+
+Artículo 4.
+El Gobierno de Navarra iniciará los trámites y adoptará las medidas oportunas que legalmente procedan en orden a la integración en la Universidad Pública de Navarra de las enseñanzas y de los medios personales y materiales correspondientes a la Escuela Universitaria de Formación del Profesorado de Enseñanza General Básica «Huarte de San Juan», y a la Escuela Universitaria de Estudios Empresariales de Pamplona.
+
+### Artículo 5
+
+Artículo 5.
+El Gobierno de Navarra adoptará las medidas oportunas para la integración en la Universidad Pública de Navarra de las enseñanzas correspondientes a la Escuela Universitaria de Ingeniería Técnica Agrícola de Villava, la Escuela Universitaria de Enfermería del Hospital de Navarra y la Escuela Universitaria de Trabajo Social de Pamplona. El personal docente e investigador de estas Escuelas Universitarias pasará a prestar servicios en la Universidad Pública de Navarra en las condiciones que legalmente procedan.
+
+### Artículo 6
+
+Artículo 6.
+La Universidad Pública de Navarra iniciará sus actividades académicas en función del desarrollo de los planes de infraestructura y de dotación material y de personal que el Gobierno de Navarra establezca. A tal fin, el Gobierno de Navarra aprobará, antes del mes de julio de 1988, los correspondientes proyectos técnicos y remitirá al Parlamento de Navarra un proyecto de ley foral para financiación de los mismos.
+
+### Artículo 7
+
+Artículo 7.
+1. Los Estatutos de la Universidad deberán aprobarse en el plazo de cinco años a partir del inicio de las actividades académicas.
+2. Mientras no se aprueben dichos Estatutos, las competencias que atribuye a las Universidades la legislación vigente serán ejercidas por el Gobierno de Navarra, sin perjuicio de las que correspondan a la Comisión Gestora y de las que resulten de las normas estatutarias provisionales previstas en la disposición transitoria segunda de la presente Ley Foral.
+
+### Artículo 8
+
+Artículo 8.
+A los efectos previstos en el artículo anterior, se creará una Comisión Gestora que desempeñará las funciones de gobierno y administración necesarias para el comienzo y desarrollo de las actividades de la nueva Universidad y las conducentes al ejercicio por la misma de la autonomía configurada por la Ley de Reforma Universitaria. El Presidente de la Comisión Gestora y el resto de los miembros de la misma serán designados por el Gobierno de Navarra de entre responsables de la Administración educativa técnicos y personal docente universitario. De dicha Comisión Gestora podrá formar parte un representante del Ministerio de Educación y Ciencia, designado por el mismo.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En el plazo de cuatro años, a partir el comienzo de las actividades académicas, el Gobierno de Navarra remitirá al Parlamento el proyecto de Ley Foral del Consejo Social de la Universidad Publica de Navarra.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. Se aprueba un crédito extraordinario por importe de 75.000.000 de pesetas destinado a subvencionar los gastos iniciales de funcionamiento de la Universidad Publica de Navarra. El citado importe se aplicará a la partida de nueva creación 41400-4812-4224, denominada «Subvención a la Universidad Pública de Navarra».
+2. La financiación de este crédito se realizará con cargo a mayores ingresos previstos de la partida« Subvención del Estado por disminución de créditos del Fondo de Compensación Interterritorial».
+Redactado el apartado 1 conforme a la corrección de errores publicada en el BON núm. 58, de 11 de mayo de 1987. Ref. BON-n-1987-90253
+
+### Disposición adicional
+
+Disposición adicional [sic].
+En el marco de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, y de las decisiones que a tal fin adopten el Parlamento de Navarra y el Gobierno de Navarra, la Universidad Pública de Navarra procederá, en el plazo de dos años a partir de la entrada en vigor de esta Ley Foral, a establecer en la ciudad de Tudela los estudios presenciales oficiales de la Universidad Pública de Navarra, preferentemente de nivel de Escuela Universitaria, adecuados para completar su oferta de titulaciones y para satisfacer las necesidades educativas de la sociedad navarra, así como para potenciar el desarrollo socioeconómico de la zona.
+Se añade por el art. único de la Ley Foral 25/2002, de 2 de julio. Ref. BOE-A-2002-16667
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En el plazo de seis meses, a partir de la entrada en vigor de la presente Ley Foral, el Gobierno de Navarra establecerá la composición de la Comisión Gestora, regulará sus funciones y atribuciones, así como las de su Presidente, y adoptará las medidas necesarias para su constitución.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En el plazo de seis meses, a partir de su constitución, la Comisión gestora elaborará y someterá a la aprobación del Gobierno de Navarra unas normas estatutarias provisionales por las que se habrá de regir la Universidad en tanto no se aprueben los Estatutos.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+1. En el plazo comprendido entre los y los cuatro años a partir del inicio de actividades académicas, la Universidad Pública de Navarra procederá a la elección del Claustro Universitario Constituyente. Este Claustro elegirá Rector y, a continuación y en el plazo máximo de un año a partir de su constitución, elaborará los Estatutos de la Universidad y los someterá la aprobación del Gobierno de Navarra.
+2. En todo caso, si transcurridos cinco años a partir del inicio de las actividades académicas la Universidad no hubiere sometido sus Estatutos a la aprobación del Gobierno de Navarra, éste promulgará unos Estatutos provisionales.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+En el plazo de un año, a partir de la aprobación de los Estatutos, la Universidad ajustará su estructura departamental a lo dispuesto en la legislación vigente.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno de Navarra a dictar cuantas disposiciones sean necesarias para la aplicación de la presente Ley Foral.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Esta Ley Foral entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Navarra».
+
+### [firma]
+
+Yo en cumplimiento de lo dispuesto en el articulo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S. M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra», y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 21 de abril de 1987.
+GABRIEL URRALBURU TAINTA
+Presidente del Gobierno de Navarra

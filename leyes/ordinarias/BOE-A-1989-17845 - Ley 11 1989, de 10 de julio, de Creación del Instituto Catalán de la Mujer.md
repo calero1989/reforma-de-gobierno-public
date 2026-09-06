@@ -1,0 +1,197 @@
+# Ley 11/1989, de 10 de julio, de Creación del Instituto Catalán de la Mujer.
+
+- Identificador BOE: `BOE-A-1989-17845`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1989-17845
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 11/1989, de 10 de julio, de creación del Instituto Catalán de las Mujeres", según establece el art. 62.1 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de Autonomía de Cataluña, promulgo la siguiente
+LEY 11/1989, DE 10 DE JULIO, DE CREACIÓN DEL INSTITUTO CATALÁN DE LA MUJER
+De conformidad con lo establecido en el artículo, 9.27 del Estatuto de Autonomía de Cataluña, y dando cumplimiento a la Resolución 81/II del Parlamento fue creada por Decreto 25/1987, de 29 de enero, la Comisión Interdepartamental de Promoción de la Mujer, con el objetivo de promover la igualdad de derechos y la no discriminación entre hombres y mujeres, y la participación equitativa de la mujer en la vida social, cultural, económica y política.
+La experiencia de funcionamiento de esta Comisión Interdepartamental demuestra que es totalmente necesario que continúe existiendo como órgano de coordinación e impulso de las actuaciones que, siendo adecuadas a la promoción de la mujer, sean competencia de cada uno de los Departamentos de la Generalidad. Esta experiencia, no obstante, ha puesto de manifiesto que el progreso en la igualdad mujer-hombre requiere una prestación de servicios que no encuentra un adecuado encaje en una Comisión Interdepartamental.
+Es por ello que la presente Ley establece la creación de un Organismo ejecutivo especializado, el Instituto Catalán de la Mujer, con la finalidad, de prestar servicios y crear los canales más adecuados para la participación activa de las Entidades de mujeres de Cataluña consideradas más significativas y representativas.
+
+### Artículo 1
+
+Artículo 1.
+1. Se crea el Instituto Catalán de las Mujeres, que tiene naturaleza de Organismo Autónomo de carácter administrativo de la Generalidad, con personalidad jurídica, patrimonio propio y plena capacidad de obrar para el cumplimiento de sus fines.
+2. El Instituto Catalán de las Mujeres se regirá por la presente Ley, las normas que la desarrollen y la legislación general sobre Entidades autónomas que le sea de aplicación.
+3. Para facilitar y reforzar el papel de garante del cumplimiento de la Ley para la igualdad efectiva de mujeres y hombres y de la aplicación de su transversalidad, el Instituto Catalán de las Mujeres queda adscrito al departamento competente en materia de igualdad y feminismos.
+Se modifica el apartado 3 por el art. 62.2 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953.
+ Se añade el apartado 3 por la disposición final 1.1 de la Ley 17/2015, de 21 de julio. Ref. BOE-A-2015-9676#dfprimera
+ Se modifica por el art. 7 de la Ley 11/2005, de 7 de julio. Ref. BOE-A-2005-14081.
+
+### Artículo 2
+
+Artículo 2.
+El objetivo del Instituto Catalán de las Mujeres será elaborar y ejecutar todos los proyectos y propuestas relativos a la promoción de la mujer, para hacer efectivo el principio de igualdad dentro del ámbito de las competencias de la Generalidad, para cumplir y desarrollar lo dispuesto por el artículo 8.2 del Estatuto de Autonomía de Cataluña y los principios constitucionales.
+Se modifica por el art. 7 de la Ley 11/2005, de 7 de julio. Ref. BOE-A-2005-14081.
+
+### Artículo 3
+
+Artículo 3.
+Corresponde al Instituto Catalán de las Mujeres:
+a) Garantizar, en colaboración con los departamentos afectados, la prestación de servicios específicos a favor de las mujeres.
+b) Fomentar y coordinar la prestación de servicios de todo tipo a las mujeres, mediante el establecimiento de convenios con entidades públicas y privadas.
+c) Elaborar y promover informes, estudios y análisis de investigación sobre materias relacionadas con la problemática actual de las mujeres en Cataluña.
+d) Diseñar, coordinar e impulsar la elaboración del Plan estratégico de políticas de igualdad de género del Gobierno de la Generalidad, y llevar a cabo también su seguimiento y evaluación.
+e) Impulsar la elaboración de los planes de políticas de igualdad de género de las administraciones locales.
+f) Elaborar, con la colaboración de los distintos departamentos implicados, el informe anual de ejecución de la transversalidad de la perspectiva de género en la Administración de la Generalidad.
+g) Elaborar y emitir los informes de impacto de género y, en todo caso, los informes a que se refieren los artículos 36.3. b y 37.2 de la Ley 13/2008, de 5 de noviembre, de la presidencia de la Generalidad y del Gobierno, y el artículo 64.3.d de la Ley 26/2010, de 3 de agosto, de régimen jurídico y de procedimiento de las administraciones públicas de Cataluña.
+h) Elaborar los programas de intervención integral contra la violencia machista del Gobierno con la periodicidad establecida por el artículo 84 de la Ley 5/2008, de 24 de abril, del derecho de las mujeres a erradicar la violencia machista.
+i) Elaborar los protocolos para una intervención coordinada contra la violencia machista de acuerdo con lo establecido por el artículo 85 de la Ley 5/2008.
+j) Promover y liderar la investigación en materia de violencia machista y establecer los acuerdos de colaboración necesarios en el ámbito universitario y especializado para llevarla a cabo.
+k) Diseñar, impulsar y coordinar las políticas contra la violencia machista.
+l) Divulgar las actividades, servicios y tareas llevados a cabo por el Instituto o por las asociaciones y entidades colaboradoras, mediante la organización de ferias, congresos o por cualquier otro medio.
+m) Potenciar la participación de las mujeres en las decisiones y medidas que las afectan, y fomentar el asociacionismo para la defensa de sus intereses.
+n) Recopilar información y documentación sobre la situación actual de las mujeres en Cataluña.
+o) Velar por el cumplimiento de los convenios y acuerdos internacionales en lo que afecta a la promoción de las mujeres, posibilitando su participación en los foros internacionales en que se trate su problemática.
+p) Velar por la adecuación de las disposiciones para el logro de la igualdad efectiva de mujeres y hombres del ordenamiento jurídico a las características concretas de cada territorio, con el fin de corregir desequilibrios e impulsar las medidas más adecuadas a las necesidades de los diversos entornos que configuran la población de Cataluña y su distribución territorial.
+q) Llevar a cabo la asistencia técnica especializada a las administraciones públicas catalanas para incorporar la dimensión de género en el desarrollo de las políticas públicas.
+r) Promover los espacios de diálogo y cooperación institucionales y, concretamente, promover la cooperación interinstitucional con las diversas administraciones locales a través de espacios de diálogo con representantes territoriales, con el objetivo de sumar recursos y conseguir más impacto de las políticas de igualdad de género, y promover la cooperación interinstitucional con las universidades catalanas mediante espacios para compartir y crear conocimiento en materia de perspectiva de género.
+s) (Derogado).
+t) (Derogado).
+u) Asumir las demás competencias que le sean encomendadas por el Gobierno o le sean asignadas por las leyes.
+Se derogan las letras s) y t) por la disposición derogatoria 2.b) de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+ Se modfica por la disposición final 1.2 de la Ley 17/2015, de 21 de julio. Ref. BOE-A-2015-9676#dfprimera
+ Se modifica por el art. 7 de la Ley 11/2005, de 7 de julio. Ref. BOE-A-2005-14081
+
+### Artículo 4
+
+Artículo 4.
+1. El Instituto Catalán de las Mujeres se rige por los órganos siguientes:
+a) La Presidencia
+b) La Dirección Ejecutiva.
+c) La Comisión Interdepartamental para la Igualdad Efectiva de Mujeres y Hombres.
+2. El Instituto Catalán de las Mujeres puede crear órganos de asesoramiento, coordinación y participación. En todo caso, tienen este carácter los siguientes órganos:
+a) La Comisión Nacional para una Intervención Coordinada contra la Violencia Machista.
+b) El Centro de Estudios, Investigación y Capacitación sobre Violencia Machista.
+c) El Consejo Nacional de las Mujeres de Cataluña.
+3. La Presidencia y la Dirección Ejecutiva son nombradas por el Gobierno y tienen la consideración de altos cargos.
+Se modifica por la disposición final 1.3 de la Ley 17/2015, de 21 de julio. Ref. BOE-A-2015-9676#dfprimera
+ Redactado conforme a la corrección de erratas publicada en el DOGC núm.6931, de 10 de agosto de 2015. Ref. DOGC-f-2015-90691
+ Se modifica por la disposición adicional 9.1 de la Ley 5/2008, de 24 de abril. Ref. BOE-A-2008-9294#danovena
+ Se modifica por el art. 7 de la Ley 11/2005, de 7 de julio. Ref. BOE-A-2005-14081.
+ Se modifica por el art. 30.1 de la Ley 7/2004, de 16 de julio. Ref. BOE-A-2004-16713
+
+### Artículo 4 bis
+
+Artículo 4 bis.
+1. Corresponden a la Comisión Interdepartamental para la Igualdad Efectiva de Mujeres y Hombres las siguientes funciones:
+a) Coordinar la actuación de los departamentos de la Administración de la Generalidad en materia de políticas de igualdad de género.
+b) Establecer criterios y marcar pautas para la intervención operativa en esta materia de acuerdo con la presente ley.
+c) Aprobar el informe anual de ejecución de la transversalidad de la perspectiva de género en la Administración de la Generalidad.
+d) Establecer anualmente las prioridades del Gobierno en políticas de igualdad de género.
+e) Impulsar y coordinar los programas operativos sectoriales.
+f) Resolver las cuestiones técnicas que eleve la Comisión Técnica Interdepartamental de la Igualdad Efectiva de Mujeres y Hombres.
+g) Cumplir cualquier otra función que tenga atribuida por reglamento.
+2. La Comisión Interdepartamental para la Igualdad Efectiva de Mujeres y Hombres lleva a cabo las tareas de apoyo técnico a través de la Comisión Técnica Interdepartamental de la Igualdad Efectiva de Mujeres y Hombres.
+Se añade por la disposición final 1.4 de la Ley 17/2015, de 21 de julio. Ref. BOE-A-2015-9676#dfprimera
+
+### Artículo 4 ter
+
+Artículo 4 ter.
+1. El Gobierno debe constituir por decreto, integrada en la Comisión Interdepartamental para la Igualdad Efectiva de Mujeres y Hombres, la Comisión Técnica Interdepartamental de la Igualdad Efectiva de Mujeres y Hombres como interlocutora técnica de apoyo técnico y operativo, acompañamiento y canalización de las políticas de igualdad de género de los departamentos de la Administración de la Generalidad y de las demás instituciones con que se relaciona.
+2. El régimen de funcionamiento, competencias y composición de la Comisión Técnica Interdepartamental de la Igualdad Efectiva de Mujeres y Hombres han de establecerse por reglamento.
+Se añade por la disposición final 1.5 de la Ley 17/2015, de 21 de julio. Ref. BOE-A-2015-9676#dfprimera
+
+### Artículo 4 quáter
+
+Artículo 4 quáter.
+1. La Comisión Nacional para una Intervención Coordinada contra la Violencia Machista es el órgano de coordinación institucional del Instituto Catalán de las Mujeres en materia de violencia machista.
+2. Corresponden a la Comisión Nacional para una Intervención Coordinada contra la Violencia Machista las funciones de impulso, seguimiento, control y evaluación de las actuaciones de la Administración en el tratamiento de la violencia machista, sin perjuicio de las competencias de los departamentos de la Generalidad en este sentido.
+Se añade por la disposición final 1.6 de la Ley 17/2015, de 21 de julio. Ref. BOE-A-2015-9676#dfprimera
+
+### Artículo 4 quinquies
+
+Artículo 4 quinquies.
+El Centro de Estudios, Investigación y Capacitación sobre Violencia Machista, creado por el artículo 81 de la Ley 5/2008, de 24 de abril, del derecho de las mujeres a erradicar la violencia machista, es el órgano del Instituto Catalán de las Mujeres encargado de elaborar los estudios de investigación sobre violencia machista y de formar a los profesionales en contacto con el tratamiento de dicho tipo de violencia.
+Se añade por la disposición final 1.7 de la Ley 17/2015, de 21 de julio. Ref. BOE-A-2015-9676#dfprimera
+ Redactado conforme a la corrección de erratas publicada en el DOGC núm.6931, de 10 de agosto de 2015. Ref. DOGC-f-2015-90691
+
+### Artículo 5
+
+Artículo 5.
+(Suprimido).
+Se suprime por la disposición final 1.8 de la Ley 17/2015, de 21 de julio. Ref. BOE-A-2015-9676#dfprimera
+ Suprimido conforme a la corrección de erratas publicada en el DOGC núm.6931, de 10 de agosto de 2015. Ref. DOGC-f-2015-90691
+ Se modifica por la disposición adicional 9.2 de la Ley 5/2008, de 24 de abril. Ref. BOE-A-2008-9294#danovena
+ Se modifica el apartado 1 por el art. 30.2 de la Ley 7/2004, de 16 de julio. Ref. BOE-A-2004-16713
+
+### Artículo 6
+
+Artículo 6.
+El Consejo Nacional de las Mujeres de Cataluña es el órgano participativo y consultivo del Instituto Catalán de las Mujeres para debatir y hacer propuestas y recomendaciones sobre las cuestiones vinculadas al Plan de actuación del Gobierno de la Generalidad en materia de políticas de igualdad de género en los ámbitos cultural, político, económico y social.
+Se modifica por la disposición final 1.9 de la Ley 17/2015, de 21 de julio. Ref. BOE-A-2015-9676#dfprimera
+ Redactado conforme a la corrección de erratas publicada en el DOGC núm.6931, de 10 de agosto de 2015. Ref. DOGC-f-2015-90691
+ Se modifica por el art. 7 de la Ley 11/2005, de 7 de julio. Ref. BOE-A-2005-14081.
+
+### Artículo 7
+
+Artículo 7.
+1. En el Consejo Nacional de las Mujeres de Cataluña se integran las representaciones de las entidades, asociaciones, grupos y consejos de mujeres del territorio catalán que trabajan específicamente en programas en favor de la igualdad y de la promoción de las mujeres.
+2. El Consejo Nacional de las Mujeres de Cataluña se estructura en asambleas territoriales.
+3. Los criterios de constitución del Consejo Nacional de las Mujeres de Cataluña y las formas de participación se determinan por reglamento.
+Se modifica por la disposición final 1.10 de la Ley 17/2015, de 21 de julio. Ref. BOE-A-2015-9676#dfprimera
+ Redactado conforme a la corrección de erratas publicada en el DOGC núm.6931, de 10 de agosto de 2015. Ref. DOGC-f-2015-90691
+
+### Artículo 7 bis
+
+Artículo 7 bis.
+1. El Gobierno de la Generalidad debe promover la participación del Consejo Nacional de las Mujeres de Cataluña en la elaboración y evaluación de las políticas públicas y, a tal efecto, ha de potenciar los mecanismos para que pueda llevar a cabo eficazmente su labor en estos ámbitos.
+2. El Instituto Catalán de las Mujeres debe potenciar la presencia de la diversidad del movimiento de mujeres en el Consejo Nacional de las Mujeres de Cataluña.
+Se modifica por la disposición final 1.11 de la Ley 17/2015, de 21 de julio. Ref. BOE-A-2015-9676#dfprimera
+ Redactado conforme a la corrección de erratas publicada en el DOGC núm.6931, de 10 de agosto de 2015. Ref. DOGC-f-2015-90691
+
+### Artículo 8
+
+Artículo 8.
+Los recursos económicos del Instituto Catalán de las Mujeres serán:
+a) Las transferencias y subvenciones que se consignen en los Presupuestos de la Generalidad.
+b) Las tasas de los servicios que preste el Instituto.
+c) Las subvenciones donaciones, herencias, legados y premios procedentes de personas físicas y jurídicas públicas o privadas.
+d) Las rentas, frutos, intereses y productos de su patrimonio.
+e) El producto de los ingresos generados por la venta de sus publicaciones.
+f) Cualquier otro recurso autorizado por la ley.
+Se modifica por el art. 7 de la Ley 11/2005, de 7 de julio. Ref. BOE-A-2005-14081.
+
+### Artículo 9
+
+Artículo 9.
+Contra los actos del Instituto sujetos a derecho administrativo podrán interponerse los recursos administrativos correspondientes de acuerdo con la legislación vigente.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. Se crea en el Presupuesto del Departamento de Presidencia la aplicación presupuestaria 02.01.422.01 «Transferencias corrientes a la Entidad Autónoma Instituto Catalán de las Mujeres». La dotación inicial para el ejercicio de 1989 se nutre de los remanentes de la partida 02.01 480 18 «Ayudas a la Comisión Interdepartamental de la Mujer», que haya a la entrada en vigor de la presente Ley.
+2. Se autoriza al Consejo Ejecutivo para que desglose esta dotación inicial a los efectos de la gestión presupuestaria del Instituto.
+Se modifica por el art. 7 de la Ley 11/2005, de 7 de julio. Ref. BOE-A-2005-14081.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La Comisión Interdepartamental de la Mujer mantendrá sus competencias en tanto no sean asumidas por el Instituto Catalán de las Mujeres.
+Se modifica por el art. 7 de la Ley 11/2005, de 7 de julio. Ref. BOE-A-2005-14081.
+
+### Disposición final primera
+
+Disposición final primera.
+Corresponde al Gobierno de la Generalidad dictar las disposiciones necesarias para desarrollar y ejecutar la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Esta Ley entrará en vigor al día siguiente de su publicación en el «Diario Oficial de la Generalidad de Cataluña».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los Tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 10 de julio de 1989.
+JORDI PUJOL,
+Presidente de la Generalidad de Cataluña

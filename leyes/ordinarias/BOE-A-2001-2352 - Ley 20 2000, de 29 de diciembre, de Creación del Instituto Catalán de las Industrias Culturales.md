@@ -1,0 +1,199 @@
+# Ley 20/2000, de 29 de diciembre, de Creación del Instituto Catalán de las Industrias Culturales.
+
+- Identificador BOE: `BOE-A-2001-2352`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-2352
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+###  
+
+Téngase en cuenta que se modifica la denominación del «Instituto Catalán de las Industrias Culturales» que pasa a denominarse «Instituto Catalán de las Empresas Culturales», por el art. 131.1 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de Autonomía de Cataluña, promulgo la siguiente Ley 20/2000, de 29 de diciembre, de Creación del Instituto Catalán de las Industrias Culturales.
+PREÁMBULO
+Las industrias culturales de un país son percibidas hoy no sólo como un factor de progreso económico, sino también como la vía para garantizar la presencia de productos culturales propios, es decir, de presentar la creatividad y el punto de vista propios en el mercado cultural universal. Cataluña tiene un alto nivel de consumo de productos culturales y cuenta con una industria cultural importante, aunque repartida de manera desigual entre los diversos sectores. Mientras en determinados sectores la industria catalana tiene un buen nivel de desarrollo, en otros campos hay que hacer un esfuerzo para incrementar el potencial de nuestra producción industrial. Por otra parte, las transformaciones tecnológicas que impactan en las industrias culturales justifican también la adopción de políticas públicas que, respetando la normativa europea sobre libre competencia, promuevan la consolidación de la industria catalana en los sectores donde está bien desarrollada y faciliten su fortalecimiento en los ámbitos en que haga falta.
+El Instituto Catalán de las Industrias Culturales debe ser el organismo mediante el cual la Generalidad de Cataluña, con la participación de los sectores culturales implicados, lleve a cabo las políticas de apoyo a las empresas culturales destinadas a reforzar el tejido industrial de Cataluña en este ámbito. Por medio de este nuevo organismo, deben coordinarse las políticas que la Generalidad ya lleva a cabo con estos mismos objetivos y deben destinarse nuevos esfuerzos y recursos para ampliarlas y profundizarlas. El objetivo de dar apoyo a las industrias culturales, que debe coordinarse con las políticas de apoyo a la creación cultural y llegar a ser un elemento más, también debe llevarlo a cabo el Departamento de Cultura de la Generalidad. El ámbito de actuación del Instituto es el de las industrias culturales en conjunto, incluyendo, por lo tanto, la actividad industrial en el sector audiovisual, en el de las editoriales, en el de la prensa, en el multimedia, en el discográfico y musical y en el de las artes escénicas y visuales, además de dar apoyo a las empresas que se dedican a otros ámbitos de producción y difusión artística y cultural. El Instituto debe centralizar las políticas en relación a estas industrias que se llevan a cabo desde los diferentes Departamentos de la Generalidad. La presente Ley precisa y desarrolla las funciones del Instituto y establece que, para llevarlas a cabo, éste puede formalizar convenios con otras entidades, constituir o participar en sociedades mercantiles y conceder ayudas públicas. En la regulación de los órganos de gobierno del Instituto Catalán de las Industrias Culturales, la presente Ley establece la participación de los diferentes Departamentos de la Administración que tienen relación con las industrias culturales, y también de los diferentes sectores que integran estas industrias. Con ello se pretende asegurar la participación de los diferentes agentes implicados, garantizando la preeminencia de los representantes públicos.
+Cataluña tiene los dos elementos básicos que son necesarios para hacer un salto adelante en el terreno de las industrias culturales: creatividad cultural y tejido industrial. El Instituto que ahora se crea debe constituir un instrumento que, partiendo de esta realidad ya existente, ayude a reforzarla y a proyectarla hacia el futuro.
+
+### Artículo 1
+
+Artículo 1. Naturaleza y régimen jurídico.
+1. El Instituto Catalán de las Industrias Culturales es una entidad de derecho público, con personalidad jurídica propia, de las reguladas por el apartado primero de la letra b) del artículo 1 de la Ley 4/1985, de 29 de marzo, del estatuto de la Empresa Pública Catalana. El Instituto ajustará su actividad al derecho privado, sin perjuicio de los ámbitos en que, según la legislación vigente, deba someterse al derecho público.
+2. El Instituto Catalán de las Industrias Culturales se adscribe al Departamento de Cultura.
+
+### Artículo 2
+
+Artículo 2. Objeto.
+1. El Instituto Catalán de las Empresas Culturales tiene por objeto impulsar la creatividad artística y la producción, distribución y difusión de contenidos culturales, mediante el desarrollo de las empresas culturales, así como fomentar el consumo cultural y la ampliación de mercados para la cultura catalana.
+2. A los efectos de la presente ley, se entiende por empresas culturales las personas físicas o jurídicas dedicadas a la actividad económica de los contenidos culturales en cualquier tipo de soporte, así como las dedicadas a la producción, distribución o comercialización de espectáculos en vivo.
+Se modifica por el art. 54 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 3
+
+Artículo 3. Funciones.
+1. Las funciones del Instituto Catalán de las Empresas Culturales son las siguientes:
+a) Impulsar el desarrollo del talento cultural y de las empresas y entidades que lo desarrollan, apoyando la creación y su producción y difusión.
+b) Interactuar con los sectores y agentes vinculados a la creación cultural y a las empresas culturales estableciendo y gestionando programas orientados a la prestación de apoyo técnico y al fomento de la actividad económica y ocupacional en el ámbito de la cultura.
+c) Impulsar la colaboración entre las empresas y los creadores artísticos y culturales.
+d) Fomentar el desarrollo de las empresas culturales y ayudar a las nuevas a implantarse.
+e) Promover el talento, la innovación y la investigación de ofertas de calidad de nuevas estéticas y nuevos lenguajes.
+f) Promover la creación, producción y distribución en el ámbito de las tecnologías digitales.
+g) Impulsar el consumo cultural interno promoviendo circuitos nacionales y colaborar en la exportación de productos culturales en circuitos estatales e internacionales, especialmente de los expresados en lengua catalana u occitana aranesa, impulsando la presencia de empresas y creadores culturales en el exterior.
+h) Colaborar con las entidades sin ánimo de lucro que promueven el desarrollo de las empresas culturales y de la creación artística y cultural, y apoyar sus iniciativas.
+i) Facilitar las relaciones entre las empresas culturales y las administraciones públicas.
+j) Realizar estudios estructurales y prospecciones sobre las empresas culturales.
+k) Difundir la información relativa a las ayudas y los servicios que los organismos de cualquier ámbito territorial destinan a la creación artística y cultural y a las empresas culturales.
+l) Fomentar las acciones formativas de interés para el desarrollo de las empresas culturales.
+m) Promover y ejecutar cualquier otra actividad dirigida a desarrollar la creación artística y cultural y las empresas culturales.
+n) Velar por el cumplimiento de la normativa de promoción de la lengua y la cultura catalanas y de la lengua y la cultura occitanas aranesas.
+o) Velar por las relaciones entre la cultura, el desarrollo económico y el fomento del empleo.
+2. El Instituto Catalán de las Empresas Culturales, para cumplir sus funciones, puede:
+a) Establecer convenios con entidades públicas y privadas, especialmente con las que puedan coadyuvar a la consecución de los objetivos del Instituto. Previa aprobación del Gobierno, el Instituto puede participar en consorcios con otras entidades públicas o con entidades privadas sin finalidad de lucro.
+b) Constituir sociedades mercantiles, o participar en estas, previa obtención de las autorizaciones legalmente establecidas, para llevar a cabo cualquier actividad económica relacionada con las funciones establecidas por la presente ley.
+c) Participar en operaciones de capital riesgo y en entidades de esta naturaleza.
+d) Conceder ayudas a las empresas culturales y facilitar su acceso a líneas especiales de crédito.
+e) Establecer formas de colaboración con los entes locales, la Administración de la Generalidad y demás administraciones con relación al talento y las empresas de la cultura.
+f) Coproducir productos culturales de todo tipo con entidades públicas o privadas.
+3. El Instituto Catalán de las Empresas Culturales, en aplicación de las acciones de fomento establecidas por el apartado 2.d, debe sujetarse a criterios de publicidad, concurrencia y objetividad y debe ajustarse a la normativa de la Unión Europea en materia de ayudas públicas a empresas, así como al marco legal vigente en Cataluña en materia de lengua.
+4. El Instituto Catalán de las Empresas Culturales puede impulsar líneas de ayudas que tengan la doble modalidad de aportaciones reintegrables y subvenciones, para el desarrollo de las empresas culturales, con las siguientes características:
+a) Las aportaciones reintegrables deben reintegrarse en su totalidad.
+b) Sin perjuicio de las causas de reintegro establecidas por la normativa de subvenciones, las subvenciones deben reintegrarse totalmente o parcialmente en función de los rendimientos de explotación o de otros indicadores de éxito del proyecto, en los términos que determinen las bases reguladoras.
+Se añade el apartado 4 por el art. 180 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-91
+ Se modifica por el art. 55 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 4
+
+Artículo 4. Órganos de gobierno.
+Los órganos de gobierno del Instituto Catalán de las Industrias Culturales son el Consejo General, el Consejo de Administración y el Director o Directora.
+
+### Artículo 5
+
+Artículo 5. El Consejo General.
+1. El Consejo General del Instituto Catalán de las Empresas Culturales está integrado por 25 miembros, como máximo, según la composición que se determine por Reglamento, con los criterios siguientes:
+a) Es presidido por el Consejero o Consejera de Cultura.
+b) Los representantes públicos deben tener mayoría.
+c) Debe haber vocalías, como mínimo, en representación de los departamentos competentes en materia de cultura, lengua, industria, comercio, economía, nuevas tecnologías y radiodifusión y televisión; del Consejo Nacional de la Cultura y de las Artes; de la Corporación Catalana de Medios Audiovisuales; de las entidades representativas de los entes locales, y de organizaciones representativas de los diversos sectores de la creación y de las empresas culturales, incluidas las de los trabajadores.
+d) La representación de los sectores de la creación y de las empresas culturales no puede ser inferior a dos quintas partes de los miembros del Consejo.
+2. El Consejo General del Instituto Catalán de las Empresas Culturales tiene las funciones siguientes:
+a) Fijar las directrices generales de la actuación del Instituto.
+b) Aprobar anualmente las cuentas y la Memoria del ejercicio precedente y el plan de actuación del ejercicio siguiente.
+c) Aprobar el anteproyecto de presupuesto anual y elevarlo al Consejero o Consejera de Cultura.
+d) Aprobar la participación del Instituto en sociedades mercantiles, sin perjuicio de las autorizaciones legalmente establecidas.
+e) Nombrar al director o directora del centro Arts Santa Mònica, que se vincula a esta entidad en virtud de un contrato laboral de alta dirección.
+Se modifica por el art. 131 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Se modifica el apartado 1.c) por el art. 2 de la Ley 8/2019, de 28 de noviembre. Ref. BOE-A-2019-17794
+ Se modifican las letras c) y d) del apartado 1 por el art. 56 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 6
+
+Artículo 6. El Consejo de Administración.
+1. El Consejo de Administración del Instituto Catalán de las Empresas Culturales está integrado por catorce miembros, de acuerdo con la composición que se determine por reglamento.
+a) Está presidido por el secretario o secretaria general de Cultura.
+b) Debe haber ocho vocalías en representación de los departamentos de la Administración de la Generalidad, una vocalía en representación del Consejo Nacional de la Cultura y de las Artes, una vocalía en representación de la Corporación Catalana de Medios Audiovisuales y tres vocalías en representación de los diversos sectores de la creación y de las empresas culturales.
+c) Las personas que ocupan las vocalías del Consejo de Administración deberán ser ratificadas por el Consejo General.
+2. El Consejo de Administración del Instituto Catalán de las Industrias Culturales tiene las funciones siguientes:
+a) Elevar al Consejo General las cuentas, la Memoria de gestión, el plan de actuación y el anteproyecto de presupuesto de cada ejercicio.
+b) Dirigir la actuación del Instituto.
+c) Supervisar la gestión del Director o Directora.
+d) Aprobar la plantilla y el régimen retributivo del personal.
+e) Aprobar los precios de los servicios que preste el Instituto.
+f) Aprobar los contratos de un importe superior al 5 por 100 del presupuesto del Instituto y los que impliquen un gasto plurianual de carácter no recurrente.
+g) Aprobar la adquisición de bienes inmuebles.
+h) Aprobar la solicitud de créditos o préstamos.
+i) Aprobar las bases reguladoras de las subvenciones del Instituto.
+j) Establecer convenios con entidades públicas y privadas para alcanzar los fines del Instituto.
+3. Corresponden a la presidencia del Consejo de Administración del Instituto Catalán de las Empresas Culturales, además de las funciones propias de la presidencia de un órgano colegiado, las siguientes:
+a) Efectuar las convocatorias públicas de ayudas, de acuerdo con las bases reguladoras aprobadas por el Consejo de Administración.
+b) Resolver las ayudas del Instituto, a propuesta del director o directora.
+Estas funciones pueden delegarse en el director o directora.
+Se modifica el apartado 1 por el art. 3 de la Ley 8/2019, de 28 de noviembre. Ref. BOE-A-2019-17794
+ Se modifica la letra b) del apartado 1 y se añade el apartado 3 por los arts. 57 y 58 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+ Se modifica la letra a) del apartado 1 por el art. 26 de la Ley 7/2004, de 16 de julio. Ref. BOE-A-2004-16713.
+
+### Artículo 7
+
+Artículo 7. El director o directora.
+1. El director o directora del Instituto Catalán de las Empresas Culturales es nombrado por el consejero o consejera del departamento competente en materia de cultura, después de escuchar al Consejo General.
+2. El director o directora del Instituto Catalán de las Empresas Culturales tiene las siguientes funciones:
+a) Ejecutar los acuerdos del Consejo de Administración y suscribir los convenios necesarios para su ejecución.
+b) Dirigir, coordinar y supervisar todos los servicios del Instituto.
+c) Ejercer la dirección del personal.
+d) Representar judicial y extrajudicialmente al Instituto en las actuaciones propias de su administración.
+e) Elevar la propuesta de resolución de los procedimientos de concesión de las ayudas del Instituto a la presidencia del Consejo de Administración.
+f) Ejercer cualquier otra función necesaria para la dirección de la administración del Instituto y las que le deleguen el Consejo de Administración y la presidencia del Consejo de Administración.
+Se modifica por el art. 59 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 8
+
+Artículo 8. Régimen financiero.
+Los recursos económicos del Instituto Catalán de las Industrias Culturales están constituidos por:
+a) Las dotaciones que se consignen en los presupuestos de la Generalidad de Cataluña.
+b) Los rendimientos de los bienes que le sean adscritos y de los que adquiera en el ejercicio de sus funciones.
+c) Los ingresos que obtenga por la prestación de sus servicios.
+d) Las subvenciones, aportaciones y donaciones que le concedan las personas o entidades, públicas o privadas.
+e) Los créditos y los préstamos que le sean concedidos.
+f) Cualquier otro recurso que permita la Ley.
+
+### Artículo 9
+
+Artículo 9. Patrimonio.
+El Instituto Catalán de las Industrias Culturales, para cumplir sus funciones, tiene un patrimonio propio integrado por los bienes, derechos y obligaciones que adquiera mediante cualquier título.
+
+### Artículo 10
+
+Artículo 10. Recursos humanos.
+1. El personal del Instituto se rige por el derecho laboral.
+2. La selección del personal se efectuará conforme a los principios de mérito y capacidad y, salvo el personal directivo y de confianza, mediante publicidad.
+
+### Artículo 11
+
+Artículo 11. Plan director.
+El departamento competente en materia de cultura y el Instituto Catalán de las Empresas Culturales deben establecer un plan director que debe incluir, como mínimo, la definición anual de los objetivos, la previsión de resultados y los instrumentos de seguimiento y control y de evaluación a que la actividad de la entidad deba someterse durante la vigencia del contrato.
+Se añade por el art. 60 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Los miembros del Gobierno pueden ser miembros del Consejo General y del Consejo de Administración del Instituto aunque tengan la condición de Diputados del Parlamento de Cataluña.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El Instituto Catalán de las Industrias Culturales debe presentar al Parlamento de Cataluña, en el plazo de un año, un libro blanco sobre las industrias culturales en Cataluña.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Régimen de recursos.
+Contra los actos sujetos a derecho administrativo de los órganos del Instituto Catalán de las Empresas Culturales puede interponerse un recurso de alzada ante el consejero o consejera del departamento competente en materia de cultura.
+Se añade por el art. 61 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Disposición transitoria
+
+Disposición transitoria.
+1. El personal laboral que, en la fecha de entrada en vigor de la presente Ley, preste servicios en el Departamento de Cultura o en una entidad dependiente del Departamento de Cultura y que esté adscrito a funciones que, de acuerdo con la presente Ley y con la normativa que la desarrolle, sean asumidas por el Instituto Catalán de las Industrias Culturales, se integrará en el Instituto por aplicación del mecanismo de sucesión de empresa.
+2. El personal funcionario que, en la fecha de entrada en vigor de la presente Ley, preste servicios en el Departamento de Cultura o en una entidad dependiente del Departamento de Cultura y que esté adscrito a funciones que, de acuerdo con la presente Ley y con la normativa que la desarrolle, sean asumidas por el Instituto Catalán de las Industrias Culturales, puede optar por:
+a) Integrarse en el Instituto como personal laboral, con reconocimiento a todos los efectos de la antigüedad reconocida en la Administración de la Generalidad y quedar en ésta en situación de excedencia voluntaria por incompatibilidad.
+b) Mantener su condición de funcionario o funcionaria en el Instituto y ocupar un puesto a extinguir. Este puesto quedará extinguido cuando el funcionario o funcionaria obtenga otra plaza con carácter definitivo o cuando el puesto quede vacante por cualquier otra causa que no comporte reserva del puesto.
+
+### Disposición final primera
+
+Disposición final primera.
+En el plazo de un año desde la entrada en vigor de la presente Ley, el Gobierno debe presentar ante el Parlamento de Cataluña un proyecto de Ley de modificación o derogación de la Ley 8/1981, de 2 de noviembre, que crea la Entidad Autónoma de Organización de Espectáculos y Fiestas, a fin de evitar la coincidencia de funciones entre la mencionada entidad autónoma y el Instituto Catalán de las Empresas Culturales.
+Se modifica por el art. 131.1 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se faculta al Consejero o Consejera de Economía, Finanzas y Planificación para que haga las adaptaciones presupuestarias necesarias para dotar al Instituto Catalán de las Empresas Culturales de recursos económicos.
+Se modifica por el art. 131.1 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 29 de diciembre de 2000.
+JORDI VILAJOANA I ROVIRA,
+ JORDI PUJOL,
+ Consejero de Cultura
+ Presidente

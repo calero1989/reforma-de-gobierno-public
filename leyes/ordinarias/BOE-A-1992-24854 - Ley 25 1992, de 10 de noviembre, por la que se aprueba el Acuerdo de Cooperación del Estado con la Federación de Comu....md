@@ -1,0 +1,209 @@
+# Ley 25/1992, de 10 de noviembre, por la que se aprueba el Acuerdo de Cooperación del Estado con la Federación de Comunidades Israelitas de España.
+
+- Identificador BOE: `BOE-A-1992-24854`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1992-24854
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta Ley pasa a denominarse "Ley 25/1992, de 10 de noviembre, por la que se aprueba el Acuerdo de Cooperación del Estado con la Federación de Comunidades Judías de España", según establece la disposición final 6.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfsexta.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+Exposición de motivos
+Con fecha 28 de abril de 1992, el Ministro de Justicia habilitado al efecto por el Consejo de Ministros, suscribió el Acuerdo de Cooperación del Estado con la Federación de Comunidades Israelitas de España (FCI), que ha de regir las relaciones de cooperación del Estado con las Comunidades de confesión judía establecidas en España, integradas en dicha Federación e inscritas en el Registro de Entidades Religiosas.
+Las expresadas relaciones deben regularse por Ley aprobada por las Cortes Generales, a tenor de lo dispuesto en el artículo 7.1 de la Ley Orgánica 71/1980, de 5 de julio, de Libertad religiosa.
+
+### Artículo único
+
+Artículo único.
+Las relaciones de cooperación del Estado con la Federación de Comunidades Israelitas de España se regirá por lo dispuesto en el Acuerdo de Cooperación que se incorpora como anexo a la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Gobierno para que, a propuesta del Ministro de Justicia, y, en su caso, conjuntamente con los Ministros competentes por razón de la materia, dicte las disposiciones necesarias para el desarrollo y ejecución de lo dispuesto en la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 10 de noviembre de 1992.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ
+
+## ANEXO
+
+Acuerdo de Cooperación del Estado español con la Federación de Comunidades Israelitas de España
+Exposición de motivos
+La Constitución española de 1978, al configurar un Estado democrático y pluralista, ha supuesto un profundo cambio en la tradicional actitud del Estado ante el hecho religioso, consagrando como fundamentales los derechos de igualdad y libertad religiosa, cuyo ejercicio garantiza con la mayor amplitud permitida por las exigencias derivadas del mantenimiento del orden público protegido por la Ley y por el respeto debido a los derechos fundamentales de los demás.
+Estos derechos, concebidos originariamente como derechos individuales de los ciudadanos, alcanzan también, por derivación, a las Comunidades o Confesiones en que aquéllos se integran para el cumplimiento comunitario de sus fines religiosos, sin necesidad de autorización previa, ni de su inscripción en ningún registro público.
+Desde el respeto más profundo a estos principios, el Estado, también por imperativo constitucional, viene obligado, en la medida en que las creencias religiosas de la sociedad española lo demanden, al mantenimiento de relaciones de cooperación con las diferentes Confesiones o Comunidades religiosas, pudiendo hacerlo en formas diversas con las Confesiones inscritas en el Registro de Entidades Religiosas.
+La Ley Orgánica de Libertad Religiosa establece la posibilidad de que el Estado concrete su cooperación con las Confesiones o Comunidades religiosas, mediante la adopción de Acuerdos o Convenios de Cooperación, cuando aquéllas, debidamente inscritas en el Registro de Entidades Religiosas hayan alcanzado en la sociedad española además un arraigo que, por el número de sus creyentes y por la extensión de su credo, resulte evidente o notorio. En este caso se encuentra la religión judía, de tradición milenaria en nuestro país, integrada por distintas Comunidades de dicha confesión inscritas en el Registro de Entidades Religiosas, que han constituido la Federación de Comunidades Israelitas de España, como órgano representativo de las mismas ante el Estado para la negociación, firma y ulterior seguimiento de los Acuerdos adoptados.
+Dando respuesta a los deseos formulados por la Federación de Comunidades Israelitas de España, y tras las oportunas negociaciones, se llegó a la conclusión del presente Acuerdo de Cooperación, en el que se abordan asuntos de gran importancia para los ciudadanos de religión judía: Estatuto de los ministros de culto judío, con determinación de los específicos derechos que se derivan del ejercicio de su ministerio, situación personal en ámbitos de tanta importancia como la Seguridad Social y forma de cumplimiento de sus deberes militares; protección jurídica de los lugares de culto; atribución de efectos civiles al matrimonio celebrado según el rito judío; asistencia religiosa en centros o establecimientos públicos; enseñanza religiosa judía en los centros docentes, beneficios fiscales aplicables a determinados bienes y actividades de las Comunidades pertenecientes a la Federación de Comunidades Israelitas de España; conmemoración de festividades religiosos judías; y finalmente colaboración del Estado con la Federación de Comunidades Israelitas de España en orden a la conservación y fomento del Patrimonio Histórico y Artístico español, de origen judío.
+Se ha procurado siempre tener el más escrupuloso respeto a la voluntad negociadora de los interlocutores religiosos, como la mejor expresión de los contenidos doctrinales específicos judíos y de las peculiares exigencias de conciencia de ellos derivadas, para hacer así posible que sea real y efectivo el ejercicio del derecho de libertad religiosa de los creyentes judíos.
+
+### Artículo 1
+
+Artículo 1.
+1. Los derechos y obligaciones que se deriven de la Ley por la que se apruebe el presente Acuerdo serán de aplicación a las Comunidades Israelitas que, figurando inscritas en el Registro de Entidades Religiosas, formen parte o posteriormente se incorporen a la Federación de Comunidades Israelitas de España, mientras su pertenencia a la misma figure inscrita en el mencionado Registro.
+2. La incorporación de las Comunidades a la Federación, a los efectos de su constancia en el mencionado Registro, se acreditará mediante certificación expedida por la Secretaría General de la Federación de Comunidades Israelitas de España, firmada por un Vicesecretario de la misma con la conformidad del Secretario. La anotación en el Registro de su baja o exclusión se practicará a instancia de la Comunidad afectada o de la Secretaría General de la referida Federación.
+3. La certificación de fines religiosas, que exige el Real Decreto 142/1981, de 9 de enero, para la inscripción de las entidades asociativas religiosas que se constituyan como tales, de acuerdo al ordenamiento de las Comunidades Israelitas, podrá ser expedida por la Secretaría General de la Federación de Comunidades Israelitas de España.
+
+### Artículo 2
+
+Artículo 2.
+1. A todos los efectos legales, son lugares de culto de las Comunidades pertenecientes a la Federación de Comunidades Israelitas de España los edificios o locales que estén destinados de forma permanente y exclusiva a las funciones de culto, formación o asistencia religiosa, cuando así se certifique por la Comunidad respectiva con la conformidad de la Secretaría General de la FCI.
+2. Los lugares de culto de las Comunidades pertenecientes a la FCI gozan de inviolabilidad en los términos establecidos en las leyes.
+3. En caso de expropiación forzosa, deberá ser oída previamente la Secretaría General de la FCI.
+4. Los lugares de culto de las Comunidades pertenecientes a la FCI no podrán ser demolidos sin ser previamente privados de su carácter sagrado, con excepción de los casos previstos en las leyes por razón de urgencia o peligro.
+5. Los lugares de culto podrán ser objeto de anotación en el Registro de Entidades Religiosas.
+6. Los cementerios judíos gozarán de los beneficios legales que este artículo establece para los lugares de culto. Se reconoce a las Comunidades Israelitas, pertenecientes a la FCI, el derecho a la concesión de parcelas reservadas para los enterramientos judíos en los cementerios municipales, así como el derecho de poseer cementerios judíos privados, con sujeción a lo dispuesto en la legislación de régimen local y de sanidad. Se adoptarán las medidas oportunas para la observancia de las reglas tradicionales judías, relativas a inhumaciones, sepulturas y ritos funerarios, que se realizarán con intervención de la Comunidad judía local. Se reconoce el derecho a trasladar a los cementerios pertenecientes a las Comunidades Israelitas, de los cuerpos de los difuntos judíos, tanto de los actualmente inhumados en cementerios municipales como de aquéllos cuyo fallecimiento se produzca en localidad en la que no exista cementerio judío.
+
+### Artículo 3
+
+Artículo 3.
+1. A todos los efectos legales son ministros de culto de las Comunidades pertenecientes a la Federación de Comunidades Israelitas de España las personas físicas que, hallándose en posesión de la titulación de Rabino, desempeñen sus funciones religiosas con carácter estable y permanente y acrediten el cumplimiento de estos requisitos mediante certificación expedida por la Comunidad a que pertenezcan, con el visado de la Secretaría General de la FCI. Esta certificación de la FCI podrá se incorporada al Registro de Entidades Religiosas.
+2. Los ministros de culto de las Comunidades pertenecientes a la FCI no estarán obligados a declarar sobre hechos que les hayan sido revelados en el ejercicio de funciones de culto o de asistencia religiosa.
+
+### Artículo 4
+
+Artículo 4.
+1. Los ministros de culto de las Comunidades pertenecientes a la Federación de Comunidades Israelitas de España estarán sujetos a las disposiciones generales del Servicio Militar. Si lo solicitaren, se les podrán asignar misiones de asistencia religiosa en las Fuerzas Armadas u otras que sean compatibles con su Ministerio.
+2. Los estudios que se cursen en los seminarios de formación rabínica que designe la Federación de Comunidades Israelitas de España darán derecho a prórroga de incorporación a filas de segunda clase, en los términos establecidos en la vigente legislación del Servicio Militar.
+Para la solicitud de dicha prórroga deberán acreditarse los mencionados estudios mediante certificación expedida por el centro docente correspondiente.
+
+### Artículo 5
+
+Artículo 5.
+De acuerdo con lo dispuesto en el artículo 1.º del Real Decreto 2398/1977, de 27 de agosto, los ministros de culto de las Comunidades pertenecientes a la Federación de Comunidades Israelitas de España que reúnan los requisitos expresados en el artículo 3 del presente Acuerdo, quedarán incluidos en el Régimen General de la Seguridad Social. Serán asimilados a trabajadores por cuenta ajena en las mismas condiciones que la legislación vigente establece para los clérigos de la Iglesia Católica, con extensión de la protección a su familia. Las Comunidades respectivas asumirán los derechos y obligaciones establecidos para los empresarios en el Régimen General de la Seguridad Social.
+
+### Artículo 6
+
+Artículo 6.
+A todos los efectos legales, se consideran funciones propias de la religión judía las que lo sean con arreglo a la Ley y a la tradición judía, entre otras las de religión que se derivan de la función rabínica, del ejercicio del culto, de la prestación de servicios rituales, de la formación de rabinos, de la enseñanza de la religión judía y de la asistencia religiosa.
+
+### Artículo 7
+
+Artículo 7.
+1. Se reconocen los efectos civiles del matrimonio celebrado según la propia normativa formal israelita ante los ministros de culto de las Comunidades pertenecientes a la Federación de Comunidades Israelitas de España. Para el pleno reconocimiento de tales efectos, será necesaria la inscripción del matrimonio en el Registro Civil.
+2. Las personas que deseen contraer matrimonio en la forma prevista en el párrafo anterior promoverán acta o expediente previo al matrimonio ante el Secretario judicial, Notario, Encargado del Registro Civil o funcionario diplomático o consular Encargado del Registro Civil correspondiente conforme a la Ley del Registro Civil.
+3. Cumplido este trámite, el encargado del Registro Civil expedirá, por duplicado, certificación acreditativa de la capacidad matrimonial de los contrayentes, que éstos deberán entregar al ministro de culto encargado de la celebración del matrimonio.
+4. Para la validez civil del matrimonio, el consentimiento habrá de prestarse ante el ministro de culto oficiante de la ceremonia y, al menos, dos testigos mayores de edad antes de que hayan transcurrido seis meses desde la expedición de la certificación de capacidad matrimonial.
+5. Una vez celebrado el matrimonio, el ministro de culto oficiante extenderá certificación expresiva de la celebración del mismo, con los requisitos necesarios para su inscripción y las menciones de identidad de los testigos y de las circunstancias del expediente acta previa que necesariamente incluirán el nombre y apellidos del Secretario judicial, Notario, Encargado del Registro Civil o funcionario diplomático o consular que la hubiera extendido, la fecha y número de protocolo en su caso. Esta certificación se remitirá por medios electrónicos, en la forma que reglamentariamente se determine, junto con la certificación acreditativa de la condición de ministro de culto, dentro del plazo de cinco días al Encargado del Registro Civil competente para su inscripción. Igualmente extenderá en las dos copias del acta o resolución previa de capacidad matrimonial diligencia expresiva de la celebración del matrimonio entregando una a los contrayentes y conservará la otra como acta de la celebración en el archivo del oficiante o de la entidad religiosa que representa como ministro de culto.
+6. Sin perjuicio de las responsabilidades a que haya lugar y de los derechos adquiridos de buena fe por terceras personas, la inscripción podrá ser promovida en cualquier tiempo, mediante presentación de la certificación diligenciada a que se refiere el número anterior.
+7. Las normas de este artículo relativas al procedimiento para hacer efectivo el derecho que en el mismo se establece, se ajustarán a las modificaciones que en el futuro se produzcan en la legislación del Registro Civil, previa audiencia de la Federación de Comunidades Israelitas de España.
+Téngase en cuenta que esta última actualización de los apartados 2 y 5, establecida por la disposición final 6.2 de la Ley 15/2015, de 2 de julio, entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil Ref. BOE-A-2011-12628#dfdecima, según establece la disposición final 21.4 de la Ley 15/2015, en la redacción dada por la Ley 4/2017, de 28 de junio Ref. BOE-A-2017-7483, siendo aplicable hasta entonces la redacción anterior, conforme establece la disposición transitoria 5.2 de la Ley 15/2015, de 2 de julio.Ref. BOE-A-2015-7391.
+ Redacción anterior.
+ "2. Las personas que deseen contraer matrimonio en la forma prevista en el párrafo anterior promoverán el expediente previo al matrimonio, ante el encargado del Registro Civil correspondiente."
+ "5. Una vez celebrado el matrimonio, el ministro de culto oficiante extenderá certificación expresiva de la celebración del mismo, con los requisitos necesarios para su inscripción y las menciones de identidad de los testigos y de las circunstancias del expediente que necesariamente incluirán el nombre y apellidos del Encargado del Registro Civil o funcionario diplomático o consular que la hubiera extendido. Esta certificación se remitirá por medios electrónicos, en la forma que reglamentariamente se determine, junto con la certificación acreditativa de la condición de ministro de culto, dentro del plazo de cinco días al Encargado del Registro Civil competente para su inscripción. Igualmente extenderá en las dos copias de la resolución previa de capacidad matrimonial diligencia expresiva de la celebración del matrimonio entregando una a los contrayentes y conservará la otra como acta de la celebración en el archivo del oficiante o de la entidad religiosa que representa como ministro de culto."
+Se modifican los apartados 2 y 5 por la disposición final 6.2 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391.
+ Esta modificación entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil Ref. BOE-A-2011-12628#dfdecima, según establece la disposición final 21.4 de la Ley 15/2015, en la redacción dada por la Ley 4/2017, de 28 de junio Ref. BOE-A-2017-7483, con la excepción indicada en la disposición transitoria 5.2.
+
+### Artículo 8
+
+Artículo 8.
+1. Se reconoce el derecho de los militares judíos, sean o no profesionales, y de cuantas personas de dicha religión presten servicio en las Fuerzas Armadas, a recibir asistencia religiosa y a participar en actividades y ritos propios de la religión judía, previa la oportuna autorización de sus Jefes, que procurarán que aquéllos sean compatibles con las necesidades del servicio, facilitando los lugares y medios adecuados para su desarrollo.
+2. Los militares judíos que no puedan cumplir las obligaciones religiosas por no haber Sinagoga en el lugar de su destino, podrán ser autorizados para el cumplimiento de aquéllas en la Sinagoga de la localidad más próxima, cuando las necesidades del servicio lo permitan.
+3. La asistencia religiosa será dispensada por ministros de culto designados por las Comunidades pertenecientes a la Federación de Comunidades Israelitas de España y autorizados por los Mandos del Ejército que prestarán la colaboración precisa para que puedan desempeñar sus funciones en iguales condiciones que los ministros de culto de otras Iglesias, Confesiones y Comunidades que tengan concertados Acuerdos de Cooperación con el Estado.
+4. Las autoridades correspondientes comunicarán el fallecimiento de los militares judíos, acaecido durante la prestación del servicio militar, a las familias de los fallecidos, a fin de que puedan recibir las honras fúnebres y ser enterrados según el rito judío.
+
+### Artículo 9
+
+Artículo 9.
+1. Se garantiza el ejercicio del derecho a la asistencia religiosa de los internados en centros penitenciarios, así como en establecimientos hospitalarios, asistenciales y otros análogos del sector público, proporcionada por los ministros de culto que designen las Comunidades Israelitas pertenecientes a la Federación de Comunidades Israelitas, con la conformidad de ésta. Su designación deberá ser autorizada por los organismos administrativos competentes. Las direcciones de los centros y establecimientos públicos estarán obligados a transmitir a la Comunidad Israelita correspondiente las solicitudes de asistencia espiritual recibidas de los internos o de sus familiares, si los propios interesados no estuvieran en condiciones de hacerlo.
+2. El acceso de tales ministros a los referidos centros será, a tal fin, libre y sin limitación de horario, y la asistencia religiosa se prestará con el debido respeto al principio de libertad religiosa y con observancia de las normas de organización y régimen interno de los centros. Por lo que se refiere a los establecimientos penitenciarios, la asistencia religiosa se realizará de acuerdo con lo dispuesto en la legislación penitenciaria.
+La asistencia religiosa prevista en este artículo comprenderá la que se dispense a los moribundos, así como las honras fúnebres del rito judío.
+3. Los gastos que origine el desarrollo de la mencionada asistencia espiritual serán sufragados por las Comunidades respectivas, sin perjuicio de la utilización de los locales que, a tal fin, existan en el correspondiente centro.
+
+### Artículo 10
+
+Artículo 10.
+1. A fin de dar efectividad a lo dispuesto en el artículo 27.3 de la Constitución, así como en la Ley Orgánica 8/1985, de 3 de julio, Reguladora del Derecho a la Educación, y en la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, se garantiza a los alumnos judíos, a sus padres y a los órganos escolares de gobierno que lo soliciten, el ejercicio del derecho de los primeros a recibir enseñanza religiosa judía en los centros docentes públicos y privados concertados, siempre que, en cuanto a estos últimos, el ejercicio de aquel derecho no entre en contradicción con el carácter propio del centro, en los niveles de educación infantil, educación primaria y educación secundaria.
+2. La enseñanza religiosa judía será impartida por profesores designados por las Comunidades pertenecientes a la Federación de Comunidades Israelitas, con la conformidad de ésta.
+3. Los contenidos de la enseñanza religiosa judía, así como los libros de texto relativos a la misma, serán señalados por las Comunidades respectivas con la conformidad de la Federación de Comunidades Israelitas.
+4. Los centros docentes públicos y los privados concertados a que se hace referencia en este artículo deberán facilitar los locales adecuados para el ejercicio de aquel derecho sin que pueda perjudicar el desenvolvimiento de las actividades lectivas.
+5. Las Comunidades pertenecientes a la Federación de Comunidades Israelitas podrán, de acuerdo con las autoridades académicas organizar cursos de enseñanza religiosa en los centros universitarios públicos, pudiendo utilizar los locales y medios de los mismos.
+6. Las Comunidades pertenecientes a la Federación de Comunidades Israelitas podrán establecer y dirigir centros docentes de los niveles educativos que se mencionan en el número 1 de este artículo, así como centros universitarios y seminarios de carácter religioso con sometimiento a la legislación general vigente en la materia.
+
+### Artículo 11
+
+Artículo 11.
+1. Las Comunidades pertenecientes a la Federación de Comunidades Israelitas pueden recabar libremente de sus fieles prestaciones, organizar colectas públicas y recibir ofrendas y liberalidades de uso.
+2. Tendrán la consideración de operaciones no sujetas a tributo alguno:
+a) Además de los conceptos mencionados en el número 1 de este artículo, la entrega de publicaciones de carácter religioso, realizada directamente a sus miembros por las Comunidades pertenecientes a la Federación de Comunidades Israelitas, siempre que sea gratuita.
+b) La actividad de enseñanza religiosa en centros de formación de las Comunidades pertenecientes a la Federación de Comunidades Israelitas destinadas a la formación de ministros de culto y a impartir exclusivamente enseñanzas propias de formación rabínica.
+3. Las Comunidades pertenecientes a la Federación de Comunidades Israelitas estarán exentas:
+A) Del Impuesto sobre Bienes Inmuebles y de las contribuciones especiales que, en su caso, correspondan, por los siguientes bienes inmuebles de su propiedad.
+a) Los lugares de culto y sus dependencias o edificios y locales anejos, destinados al culto o a la asistencia religiosa.
+b) Los locales destinados a oficinas de las Comunidades pertenecientes a la Federación de Comunidades Israelitas.
+c) Los centros destinados a la formación de ministros de culto, cuando impartan unicamente enseñanzas propias de su misión rabínica.
+B) Del Impuesto sobre Sociedades, en los términos previstos en los números dos y tres del artículo 5 de la Ley 61/1978, de 27 de diciembre, reguladora de aquél.
+Asimismo, estarán exentos del Impuesto sobre Sociedades los incrementos de patrimonio a título gratuito que obtengan las Comunidades pertenecientes a la Federación de Comunidades Israelitas, siempre que los bienes y derechos adquiridos se destinen a actividades religiosas y asistenciales.
+C) Del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, siempre que los respectivos bienes o derechos adquiridos se destinen a actividades religiosas y asistenciales, en los términos establecidos en el Texto Refundido de la Ley del Impuesto, aprobado por Real Decreto Legislativo 3050/1980, de 30 de diciembre, y su Reglamento, aprobado por Real Decreto 3494/1981, de 29 de diciembre, en orden a los requisitos y procedimientos para el disfrute de esta exención.
+4. Sin perjuicio de lo previsto en los números anteriores, las Comunidades pertenecientes a la Federación de Comunidades Israelitas tendrán derecho a los demás beneficios fiscales que el ordenamiento jurídico tributario del Estado español prevea en cada momento para las entidades sin fin de lucro y, en todo caso, a los que se concedan a las entidades benéficas privadas.
+5. Las asociaciones y entidades creadas y gestionadas por las Comunidades pertenecientes a la Federación de Comunidades Israelitas y que se dediquen a actividades religiosas, benéfico-docentes, médicas u hospitalarias o de asistencia social, tendrán derecho a los beneficios fiscales que el ordenamiento jurídico-tributario del Estado prevea en cada momento para las entidades sin fin de lucro y, en todo caso, a los que se concedan a las entidades benéficas privadas.
+6. La normativa del Impuesto sobre la Renta de las Personas Físicas regulará el tratamiento tributario aplicable a los donativos que se realicen a las Comunidades pertenecientes a la Federación de Comunidades Israelitas, con las deducciones que, en su caso, pudieran establecerse.
+
+### Artículo 12
+
+Artículo 12.
+1. El descanso laboral semanal, para los fieles de Comunidades Israelitas pertenecientes a la FCI, podrá comprender, siempre que medie acuerdo entre las partes, la tarde del viernes y el día completo del sábado, en sustitución del que establece el artículo 37.1 del Estatuto de los Trabajadores como regla general.
+2. Las festividades que a continuación se expresan, que según la Ley y la tradición judías, tienen el carácter de religiosas, podrán sustituir a las establecidas con carácter general por el Estatuto de los Trabajadores, en su artículo 37.2, con el mismo carácter de retribuidas y no recuperables, a petición de las personas a que se refiere el número anterior, y en los términos previstos en el mismo.
+– Año Nuevo (Rosh Hashaná), 1.º y 2.º día.
+– Día de Expiación (Yon Kippur).
+– Fiesta de las Cabañas (Succoth), 1.º, 2.º, 7.º y 8.º día.
+– Pascua (Pesaj), 1.º, 2.º, 7.º y 8.º día.
+– Pentecostés (Shavuot), 1.º y 2.º día.
+3. Los alumnos judíos que cursen estudios en centros de enseñanza públicos y privados concertados, estarán dispensados de la asistencia a clase y de la celebración de exámenes, en el día de sábado y en las festividades religiosas expresadas en el número anterior, a petición propia o de quienes ejerzan la patria potestad o tutela.
+4. Los exámenes, oposiciones o pruebas selectivas, convocadas para el ingreso en las Administraciones Públicas, que hayan de celebrarse en sábado y en las festividades religiosas anteriormente expresadas, serán señalados, para los judíos que lo soliciten, en una fecha alternativa, cuando no haya causa motivada que lo impida.
+
+### Artículo 13
+
+Artículo 13.
+El Estado y la Federación de Comunidades Israelitas de España colaborarán en la conservación y fomento del patrimonio histórico, artístico y cultural judío, que continuará al servicio de la sociedad, para su contemplación y estudio.
+Dicha colaboración se extenderá a la realización del catálogo e inventario del referido patrimonio, así como a la creación de Patronatos, Fundaciones u otro tipo de instituciones de carácter cultural.
+
+### Artículo 14
+
+Artículo 14.
+1. De acuerdo con la dimensión espiritual y las particularidades específicas de la tradición judía, las denominaciones «Casher» y sus variantes, «Kasher», «Kosher», «Kashrut» y éstas asociadas a los términos «U», «K» o «Parve», son las que sirven para distinguir los productos alimentarios y cosméticos elaborados de acuerdo con la Ley judía.
+2. Para la protección del uso correcto de estas denominaciones, la FCI deberá solicitar y obtener del Registro de la Propiedad Industrial los registros de marca correspondientes, de acuerdo con la normativa legal vigente.
+Cumplidos los requisitos anteriores, estos productos, a efectos de comercialización, importación y exportación tendrán la garantía de haber sido elaborados con arreglo a la Ley y a la tradición judía, cuando lleven en sus envases el correspondiente distintivo de la FCI.
+3. El sacrificio de animales que se realice de acuerdo con las leyes judías, deberá respetar la normativa sanitaria vigente.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Gobierno pondrá en conocimiento de la Federación de Comunidades Israelitas de España, para que ésta pueda expresar su parecer, las iniciativas legislativas que afecten al contenido del presente Acuerdo.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El presente Acuerdo podrá ser denunciado por cualquiera de las partes que lo suscriben, notificándolo a la otra con seis meses de antelación.
+Asimismo, podrá ser objeto de revisión, total o parcial, por iniciativa de cualquiera de ellas, sin perjuicio de su ulterior tramitación parlamentaria.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Se constituirá una Comisión Mixta Paritaria con representación de la Administración del Estado y de la Federación de Comunidades Israelitas de España para la aplicación y seguimiento del presente Acuerdo.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Denominación de la Federación.
+Por acuerdo de las partes se procede a sustituir el nombre de Federación de Comunidades Israelitas de España por el de Federación de Comunidades Judías de España, que será utilizado en lo sucesivo.
+Las referencias realizadas a la Federación de Comunidades Israelitas de España en este Acuerdo de Cooperación del Estado con la Federación de Comunidades Israelitas de España, así como las que figuren en otras normas deberán entenderse hechas a la Federación de Comunidades Judías de España.
+Se añade por la disposición final 6.3 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391.
+
+### Disposición final única
+
+Disposición final única.
+Se faculta al Gobierno para que, a propuesta del Ministro de Justicia, y, en su caso, conjuntamente con los Ministros competentes por razón de la materia, dicte las disposiciones necesarias para el desarrollo y ejecución de lo dispuesto en el presente Acuerdo.

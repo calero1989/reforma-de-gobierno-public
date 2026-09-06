@@ -1,0 +1,384 @@
+# Ley 1/1991, de 14 de marzo, por la que se crea y regula la Comarca de El Bierzo.
+
+- Identificador BOE: `BOE-A-1991-9704`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-9704
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOCL núm. 59 de 26 de marzo de 1991. Ref. BOCL-h-1991-90257
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado, y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 14.3 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICION DE MOTIVOS
+Aun cuando la Constitución de 1978 establece una organización territorial del Estado en la que no figuran mencionadas expresamente las comarcas, dos preceptos de la misma, los artículos 141.3 y 152.3, se refieren a ellas sin nombrarlas.
+Por su parte, el Estatuto de Autonomía de Castilla y León en su artículo 19.3 dispone que «por las correspondientes Leyes de las Cortes de Castilla y León, específicas para cada supuesto, se podrán reconocer comarcas, mediante la agrupación de municipios limítrofes, atendiendo al informe previo de los municipios afectados y a sus características geográficas, económicas, sociales e históricas, para la gestión en común de sus servicios o la colaboración en el ejercicio de sus competencias».
+Esta habilitación estatutaria para que el legislador autonomico pueda reconocer comarcas aparece enmarcada, no obstante, por dos requisitos. El primero de ellos, de carácter formal, se concreta en la necesidad de atender al informe previo de los municipios afectados. El segundo, de carácter material, aparece precisado en la necesidad de atender a las características geográficas, económicas, sociales e históricas.
+Ambas exigencias se cumplen con el presente texto. Solicitado en su día por la Junta de Castilla y León el informe de los municipios que la Comarca de El Bierzo agrupa, ninguno de ellos se opuso a la pretendida comarcalización. Antes y al contrario, todas las Corporaciones que se pronunciaron al respecto, si bien formularon observaciones diversas al anteproyecto elaborado por el Gobierno regional, mostraron un unánime deseo de dotar a la Comarca de un estatuto. En todo caso, se ha respetado esta primera exigencia formulada en términos negativos en la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local, cuando en su artículo 42 afirma que no podrá crearse la comarca si a ello se oponen expresamente las dos quintas partes de los municipios que debieran agruparse en ella, siempre que, en este caso, tales municipios representen, al menos, la mitad del censo electoral del territorio correspondiente.
+En cuanto al segundo de los requisitos, la concurrencia de unas características geográficas, sociales, históricas y económicas en la Comarca de El Bierzo, que la singularizan de cualquier otro territorio castellano-leonés, evidencia también su cumplimiento.
+Esta singularidad de la que la Comarca de El Bierzo aparece revestida, se pone de relieve tanto desde el punto de vista hidrográfico como orográfico. Se dibuja en los 3.000 kilómetros cuadrados sobre los que se proyecta la Comarca una cadena de estribaciones montañosas que bordean su perímetro, y valles por donde discurren numerosos ríos que nutren la cuenca del Sil, constituyendo de esta manera un marco natural sobre el que se asientan sus 141.000 habitantes.
+Asimismo, el punto de vista histórico dota de características propias a la Comarca de El Bierzo, pues, aun dependiendo del antiguo reino de León o del castellano-leonés, según las vicisitudes, El Bierzo conservó durante decenios el carácter de territorio autónomo al frente del cual un poder señorial tenía la encomienda real de su administración. Incluso once años antes de que Javier de Burgos llevase a cabo la división provincial integrando la Comarca de El Bierzo en la actual provincia de León, aquélla llegó a tener una cierta personalidad administrativa.
+El Gobierno regional, en suma, se halla habilitado formal y materialmente en su pretensión de dar una investidura político-administrativa a El Bierzo, reconociendo su carácter de entidad local con personalidad jurídica propia, lo que se lleva a cabo con el presente texto articulado.
+Por lo demás, se trata de dar cumplida respuesta a una aspiración largamente sentida por los municipios a cuyo ámbito territorial se extiende el presente proyecto de Ley, cuya regulación no es, ni mucho menos, agotadora, limitándose a recoger aquellos aspectos cuya determinación viene impuesta por el artículo 42.3 de la Ley reguladora de las Bases de Régimen Local: Ambito territorial de la comarca, composición y funcionamiento de sus órganos de gobierno, así como las competencias y los recursos económicos.
+El ámbito territorial se aborda en el primero de los cuatro capítulos en que se estructura el proyecto de Ley, regulándose en el segundo de ellos el aspecto competencial, donde no sólo prevé que, tanto la propia Comunidad Autónoma como los Ayuntamientos y la Diputación puedan transferir o delegar en la comarca la titularidad o el ejercicio de sus propias competencias, sino que se trata de asegurar ab initio una participación en determinadas materias como ordenación del territorio y urbanismo, sanidad, minería o medio ambiente.
+Un aspecto controvertido que se regula en el capítulo III es el relativo a la organización y a la representatividad que hayan de tener los municipios agrupados en el Ente que se crea. En este sentido, dado que la comarca aglutina a 37 Ayuntamientos, no se ha creiío afortunado trasladar al Pleno Comarcal la representatividad política existente en cada uno de ellos para no dar a aquél un carácter asambleario, a pesar de lo cual, y como consecuencia de la representación que se da a todos los Ayuntamientos, dicho Pleno se integra por 51 miembros, cifra ésta lo suficientemente alta que obliga de alguna manera al establecimiento de otro órgano que, aunque de carácter colegiado también, sea más reducido y por tanto más operativo.
+Dicho órgano es la Comisión de Gobierno, la cual se configura con el límite de que su composición no podrá ser superior al tercio de la que tenga el Pleno, además del Presidente, preservándose en dicha composición la representatividad que los grupos políticos tengan en aquél.
+Dentro del aspecto organizativo se contempla también la figura del Gerente, si bien con carácter facultativo, encomendando al Pleno Comarcal su creación si la gestión técnica y administrativa de la Comarca así lo aconseja.
+Finalmente, el proyecto apodera al Pleno del Consejo para que la organización que aquél establece pueda ser completada por éste en los términos previstos en la legislación de régimen local.
+Se ha creído oportuno, asimismo, que funciones particularmente relevantes como son las de fe pública y asesoramiento legal preceptivo estén desempeñadas por funcionarios de Administración Local con habilitación de carácter nacional, así como también las de control y fiscalización, contabilidad, tesorería y recaudación en determinados supuestos.
+En el cuarto y último capítulo, relativo a la financiación, el proyecto, además de recoger aquellos recursos que pueden integrar la Hacienda Comarcal, respetando las limitaciones impuestas por el artículo 136 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, asegura, en todo caso, a la comarca una participación en el Fondo de Cooperación Local.
+
+## CAPITULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+1. Por la presente ley se crea como entidad local la Comarca de El Bierzo, con personalidad jurídica, demarcación territorial propia y autonomía para el cumplimiento de sus fines y se regula su régimen general, las competencias, la organización y la hacienda.
+2. La Comarca de El Bierzo está integrada por los municipios siguientes: Arganza, Balboa, Barjas, Bembibre, Benuza, Berlanga del Bierzo, Borrenes, Cabañas Raras, Cacabelos, Camponaraya, Candín, Carracedelo, Carucedo, Castropodame, Congosto, Corullón, Cubillos del Sil, Fabero, Folgoso de la Ribera, Igüeña, Molinaseca, Noceda del Bierzo, Oencia, Palacios del Sil, Páramo del Sil, Peranzanes, Ponferrada, Priaranza del Bierzo, Puente de Domingo Flórez, Sancedo, Sobrado, Toral de los Vados, Toreno, Torre del Bierzo, Trabadelo, Vega de Espinareda, Vega de Valcarce y Villafranca del Bierzo.
+3. Su ámbito territorial es el delimitado por los términos municipales que la integran.
+4. En la Comarca de El Bierzo gozará de respeto y protección la lengua gallega en los lugares en los que habitualmente se utilice.
+La Comunidad de Castilla y León facilitará la participación de la Comarca de El Bierzo en las actuaciones que realice para la promoción de la lengua gallega en su ámbito territorial.
+Se modifica por el art. único.1 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+ Redactado conforme a la corrección de errores publicada en BOCL núm. 59 de 26 de marzo de 1991. Ref. BOCL-h-1991-90257
+
+### Artículo 2
+
+Artículo 2.
+1. La Comarca de El Bierzo, en el ámbito de sus competencias, tendrá plena capacidad jurídica para adquirir, poseer, reivindicar, permutar, gravar o enajenar toda clase de bienes y derechos, celebrar contratos, establecer y explotar obras y servicios públicos, obligarse, interponer los recursos establecidos y ejercitar las acciones previstas en las leyes.
+2. En ningún caso el ejercicio de sus competencias podrá suponer la pérdida por los municipios de la competencia para prestar los servicios e intervenir en aquellas materias que enumere la normativa básica estatal en materia de régimen local.
+Se modifica por el art. único.2 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 3
+
+Artículo 3.
+En el ejercicio de sus competencias, la Comarca de El Bierzo tendrá todas las potestades reconocidas a las entidades locales de carácter territorial en la legislación en materia de régimen local.
+No obstante, la potestad tributaria, en el marco de la legislación vigente, se ejercerá en los términos y en relación a los recursos que constituyen la hacienda de la Comarca de El Bierzo de conformidad con lo establecido en el Capítulo IV de esta ley.
+Se modifica por el art. único.3 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+## CAPITULO II
+
+Competencias de la comarca
+
+### Artículo 4
+
+Artículo 4.
+La Comarca de El Bierzo ejercerá, en todo caso, competencias, en los términos que establezcan la legislación básica y autonómica sobre régimen local, y las leyes reguladoras de los distintos sectores de acción pública, en las siguientes materias:
+a) Ordenación del territorio.
+b) Urbanismo.
+c) Salud pública.
+d) Asistencia social, servicios sociales y desarrollo comunitario.
+e) Familia, juventud y mujer.
+f) Cultura.
+g) Deporte.
+h) Prevención y protección del medio ambiente.
+i) Turismo.
+j) Artesanía.
+k) Agricultura y ganadería.
+l) Montes.
+m) Energía y minas.
+n) Industria.
+o) Ferias y mercados comarcales.
+p) Enseñanza.
+q) Defensa de los consumidores y usuarios.
+r) Protección civil.
+Se modifica por el art. único.4 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 5
+
+Artículo 5.
+1. La Comarca de El Bierzo podrá realizar las obras y prestar los servicios siguientes:
+a) Los de interés comarcal.
+b) Los complementarios de los municipales.
+c) Los de competencia municipal cuando su realización o prestación resulte imposible o muy difícil para el municipio y razones de economía y eficacia así lo aconsejen.
+2. En todo caso, los servicios que la Comarca de El Bierzo preste podrán alcanzar a todo su ámbito territorial o a una parte del mismo.
+
+### Artículo 6
+
+Artículo 6.
+1. La titularidad o ejercicio de competencias y funciones de la Comunidad Autónoma no atribuidas a la Comarca de El Bierzo por la legislación sectorial podrán ser objeto de transferencia o delegación a favor de la Comarca de El Bierzo en los términos previstos en la normativa reguladora de régimen local de Castilla y León.
+2. El desarrollo competencial de la Comarca de El Bierzo mediante transferencia o delegación tendrá como antecedente un convenio cuatrienal entre la Administración Autonómica y la Comarca de El Bierzo, que delimitará las funciones objeto de futuro traspaso a la Comarca.
+3. El traspaso de competencias a la Comarca se realizará bajo los principios de eficacia, eficiencia y suficiencia.
+4. En aquellas funciones compartidas en las que intervengan distintas Administraciones en el ejercicio de sus competencias, la transferencia o delegación a la Comarca de El Bierzo requerirá la solicitud previa de la Administración que tenga la iniciativa a todas las demás, y la voluntad concurrente y expresa favorable de las mismas, entendiéndose desestimada la solicitud si no existiese contestación en el plazo de tres meses.
+Se modifica por el art. único.5 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 7
+
+Artículo 7.
+Los municipios, cuya agrupación constituye la Comarca de El Bierzo, podrán delegar en esta las funciones que tengan atribuidas por el ordenamiento jurídico, con las limitaciones establecidas en la legislación básica sobre régimen local, previo acuerdo del Consejo Comarcal.
+Asimismo, podrán establecerse entre la Comarca de El Bierzo y los municipios que la integren convenios para la cooperación técnica, económica y administrativa.
+Se modifica el párrafo primero por el art. único.6 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 8
+
+Artículo 8.
+1. La Comarca de El Bierzo, por acuerdo del Pleno Comarcal y, en su caso, en colaboración con la Diputación Provincial de León, podrá crear un servicio de cooperación y asistencia municipales encargado del asesoramiento y asistencia técnica, jurídica y económica a los municipios incluidos en su ámbito territorial.
+Serán funciones del Servicio de Asistencia a Municipios de la Comarca las siguientes:
+a) Asesoramiento jurídico a las Entidades Locales de la Comarca de El Bierzo, referido especialmente a las siguientes materias: Obras y Servicios de competencia local, Licencias urbanísticas, Haciendas locales, tramitación de expedientes y Secretaría-Intervención de los municipios eximidos de mantener este puesto.
+b) Asesoramiento técnico, referido especialmente a las siguientes materias: informes técnicos urbanísticos, informes técnicos sobre obras y servicios de competencia municipal, informática municipal, informes económicos sobre coste de los servicios, redacción de memorias valoradas y redacción de inventarios de las entidades locales.
+c) Ayudas económicas a pequeñas obras y servicios vecinales.
+2. Asimismo, la Comarca de El Bierzo podrá garantizar, si no lo hiciera la Diputación Provincial y con carácter subsidiario, el ejercicio en las corporaciones municipales de las funciones públicas de secretaría, control y fiscalización reservados a los funcionarios con habilitación de carácter estatal.
+Se modifica por el art. único.7 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 9
+
+Artículo 9.
+La Diputación Provincial de León podrá delegar en la Comarca de El Bierzo las funciones que tuviera atribuidas por el ordenamiento jurídico, con las limitaciones establecidas en la legislación básica estatal, previo acuerdo de aceptación del Consejo Comarcal, y en especial las siguientes:
+a) La gestión del plan provincial de obras y servicios dentro del ámbito comarcal.
+b) La asistencia y cooperación técnica, jurídica y económica a los municipios, en los términos indicados en el apartado 1 del artículo 8.
+Se modifica por el art. único.8 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+## CAPITULO III
+
+Organización comarcal
+
+### Artículo 10
+
+Artículo 10.
+1. El Gobierno y la administración de la Comarca de El Bierzo corresponden al Consejo Comarcal, integrado por el Presidente y los Consejeros.
+2. Son órganos del Consejo Comarcal el Pleno, el Presidente, los Vicepresidentes, si los hubiera, y la Junta de Gobierno. Existirá, asimismo, una Asamblea de Ediles como órgano de asesoramiento al Consejo Comarcal.
+3. El Consejo Comarcal, mediante la aprobación de un reglamento orgánico comarcal, que requerirá el voto favorable de la mayoría absoluta, podrá regular los órganos complementarios que considere necesarios y entre ellos la comisión especial de cuentas, así como la estructura administrativa del ente comarcal y las relaciones entre los órganos comarcales y los municipios respectivos.
+Se modifica por el art. único.9 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 11
+
+Artículo 11.
+1. Son inelegibles para el cargo de Consejero Comarcal los que lo son de acuerdo con lo previsto en la legislación de régimen electoral general para las entidades locales.
+2. Las causas de inelegibilidad a que se refiere el apartado anterior lo son también de incompatibilidad. Son también incompatibles:
+a) Los abogados y procuradores que dirijan o representen a partes en procedimientos judiciales o administrativos contra la Corporación, con excepción de las acciones a que se refiere el artículo 63.1.b) de la Ley Reguladora de las Bases de Régimen Local.
+b) Los directores de servicios, funcionarios o el resto del personal en activo al servicio del Consejo Comarcal y de las entidades y establecimientos dependientes de él.
+c) Los directores generales o asimilados de las cajas de ahorro que actúen en la Comarca.
+d) Los contratistas o subcontratistas de contratos cuya financiación total o parcial corra a cargo del Consejo Comarcal o de establecimientos de ella dependientes.
+3. Cuando se produzca una situación de incompatibilidad, los afectados deberán optar entre la renuncia al puesto de Consejero Comarcal o el abandono de la situación que, de acuerdo con lo establecido en el apartado anterior, dé origen a la referida incompatibilidad.
+4. Cuando la causa de incompatibilidad sea la contenida en el punto b) del apartado 2, el funcionario o empleado que opte por el cargo de Consejero Comarcal pasará a la situación de servicios especiales o, subsidiariamente, a la prevista en su respectivo convenio, que en todo caso ha de suponer reserva de su puesto de trabajo.
+Se modifica por el art. único.10 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 12
+
+Artículo 12.
+1. El número de Consejeros correspondiente al Consejo Comarcal es veintisiete.
+2. La Junta Electoral Provincial reparte, proporcionalmente y atendiendo al número de residentes, los puestos correspondientes a cada zona geográfica, en el décimo día posterior a la convocatoria de elecciones locales atendiendo a las siguientes reglas:
+a) Todas las zonas cuentan, al menos, con un consejero.
+b) Ninguna zona puede contar con más de un tercio del número total de consejeros.
+c) Las fracciones iguales o superiores a 0,50 que resulten del reparto proporcional se corrigen por exceso y las inferiores por defecto.
+d) Si como consecuencia de las operaciones anteriores resultase un número total que no coincida, por exceso, con el número total de consejeros, se sustraen los puestos necesarios a las zonas cuyo número de residentes por consejero sea menor. Si, por el contrario, el número no coincide por defecto, se añaden puestos a las zonas cuyo número de residentes por consejero sea mayor.
+3. A los efectos previstos en este capítulo, las zonas geográficas son las siguientes:
+Ancares-Sil: comprende los municipios de Candín, Peranzanes, Palacios del Sil, Páramo del Sil, Fabero, Berlanga del Bierzo, Vega de Espinareda y Toreno.
+Bierzo Alto: comprende los municipios de Noceda del Bierzo, Igüeña, Folgoso de la Ribera, Bembibre, Castropodame, Congosto, Molinaseca y Torre del Bierzo.
+Bierzo Central: comprende los municipios de Arganza, Cabañas Raras, Cacabelos, Camponaraya, Carracedelo, Cubillos del Sil, Sancedo y Toral de los Vados.
+Cabrera-Suroeste: comprende los municipios de Sobrado, Borrenes, Priaranza del Bierzo, Carucedo, Puente de Domingo Flórez y Benuza.
+Bierzo Oeste: comprende los municipios de Balboa, Barjas, Corullón, Trabadelo, Oencia, Vega de Valcarce y Villafranca del Bierzo.
+Ponferrada: comprende el municipio de Ponferrada.
+Se modifica por el art. único.11 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 13
+
+Artículo 13.
+1. Constituidos todos los ayuntamientos de la Comarca, la Junta Electoral Provincial procede inmediatamente a formar una relación de todos los partidos políticos, coaliciones, federaciones y de cada una de las agrupaciones de electores que hayan obtenido algún concejal dentro de cada zona geográfica, ordenándolos en orden decreciente al de los votos obtenidos por cada uno de ellos.
+2. A los efectos previstos en el párrafo anterior, en los municipios de menos de 250 habitantes a que se refiere el artículo 184 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, el número de votos a tener en cuenta por cada candidatura se obtiene dividiendo la suma de los votos obtenidos por cada uno de sus componentes entre el número de candidatos que formaban la correspondiente lista hasta un máximo de cuatro. Se corrigen por defecto las fracciones resultantes.
+3. Realizada esta operación, la Junta Electoral procede a distribuir los puestos que corresponden a los partidos, coaliciones, federaciones y a cada una de las agrupaciones de electores en cada zona geográfica mediante la aplicación del procedimiento previsto en el artículo 180 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, según el número de votos obtenidos por cada grupo político o cada agrupación de electores.
+4. Si en aplicación de los párrafos anteriores se produjera coincidencia de cocientes entre distintos partidos, coaliciones, federaciones y agrupaciones, la vacante se atribuye al que mayor número de votos ha obtenido, y en caso de empate, al de mayor número de concejales en la zona geográfica correspondiente.
+Subsidiariamente, se resolverá el empate por sorteo.
+Se modifica por el art. único.12 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 14
+
+Artículo 14.
+1. Realizada la asignación de puestos de consejeros, conforme a los artículos anteriores, la Junta Electoral convocará, para cada una de las zonas delimitadas anteriormente y por separado, dentro de los cinco días siguientes, a los concejales de los partidos políticos, coaliciones, federaciones y agrupaciones que hayan obtenido puestos de consejeros, para que elijan de entre las listas de candidatos avaladas, al menos por un tercio de dichos concejales, a quienes hayan de ser proclamados consejeros, eligiendo, además, tres suplentes para cubrir por su orden las eventuales vacantes.
+2. Efectuada la elección, la Junta Electoral proclama los consejeros electos y los suplentes, expide las credenciales correspondientes y remite al Consejo Comarcal certificaciones de los consejeros electos en la zona geográfica.
+3. La duración del mandato de los miembros del Consejo Comarcal coincidirá con la de la Corporación municipal a la que pertenecen. Una vez finalizado el mandato, los miembros del Consejo Comarcal continuarán en funciones, únicamente para la administración ordinaria, hasta la toma de posesión de sus sucesores. En ningún caso podrán adoptar acuerdos para los cuales sea legalmente necesaria una mayoría cualificada.
+4. La pérdida de la condición de concejal determinará también la pérdida de la condición de miembro del Consejo Comarcal.
+Se modifica por el art. único.13 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 15
+
+Artículo 15.
+1. La sesión constitutiva del Pleno del Consejo Comarcal, que tendrá lugar el primer día hábil después de transcurridos quince días naturales, contados a partir del día siguiente al acto de proclamación de los miembros electos, estará presidida por una Mesa de edad, integrada por los electos de mayor y menor edad presentes en el acto, actuando como Secretario el que lo sea de la Corporación Comarcal.
+2. La Mesa comprobará la coincidencia de las credenciales presentadas con las certificaciones que la Junta Electoral Provincial hubiera remitido al Consejo Comarcal y las acreditaciones de la personalidad de los electos.
+3. Realizada la operación anterior, la Mesa declarará constituida la Corporación si concurren la mayoría absoluta de los concejales electos. En caso contrario se celebrará sesión dos días después, quedando constituida la Corporación cualquiera que fuera el número de electos presentes.
+
+### Artículo 16
+
+Artículo 16.
+1. En la misma sesión constitutiva del Pleno del Consejo Comarcal se procederá a la elección del Presidente.
+2. Para ser elegido Presidente se requiere obtener la mayoría absoluta de los votos de los miembros del Pleno. Si nadie alcanzase dicha mayoría se repetirá la elección entre los dos candidatos que mayor número de votos hayan obtenido, resultando elegido el candidato que obtenga la mayoría simple. En caso de empate se repetirá la votación, y si el empate persistiera se considerará elegido el candidato del partido, coalición, federación o agrupación de electores que hubiese obtenido mayor número de votos en la Comarca.
+3. El Presidente podrá ser destituido del cargo mediante moción de censura o pérdida de una cuestión de confianza, en la forma prevista en la Ley Orgánica del Régimen Electoral General. A estos efectos podrá ser candidato al cargo de Presidente cualquiera de los Consejeros.
+Se añade el apartado 3 por el art. único.14 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 17
+
+Artículo 17.
+1. La Junta de Gobierno estará integrada por el Presidente y un número de miembros del Pleno no superior al tercio de los que integren éste ni inferior a siete.
+2. La determinación del número de miembros que hayan de integrar la Junta de Gobierno corresponde al Presidente, siendo nombrados y separados libremente por éste dando cuenta al Pleno.
+Se modifica por el art. único.15 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 18
+
+Artículo 18.
+El Pleno del Consejo Comarcal puede complementar esta organización en los términos previstos en la legislación de régimen local, ya sea mediante acuerdo plenario o mediante la aprobación del correspondiente Reglamento Orgánico Comarcal.
+
+### Artículo 19
+
+Artículo 19.
+El personal al servicio de la Comarca de El Bierzo estará integrado por funcionarios de carrera e interinos, por personal laboral, ya sea fijo, por tiempo indefinido o temporal, y por personal eventual para el desempeño de puestos de confianza o asesoramiento especial, en los términos previstos en la legislación de régimen local y de empleo público.
+Se modifica por el art. único.16 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 20
+
+Artículo 20.
+1. El Presidente ostenta las siguientes atribuciones:
+a) Dirigir el gobierno y la administración comarcal.
+b) Representar al Consejo Comarcal.
+c) Convocar y presidir las sesiones del Pleno, salvo los supuestos previstos en la ley, y la de los demás órganos colegiados, y decidir los empates con votos de calidad.
+d) Dirigir, inspeccionar e impulsar los servicios y obras comarcales.
+e) Desarrollar la gestión económica de acuerdo con el Presupuesto aprobado, disponer gastos dentro de los límites de su competencia, concertar operaciones de crédito, con exclusión de las contempladas en la Ley Reguladora de las Haciendas Locales y en la legislación estatal básica, siempre que aquellas estén previstas en el Presupuesto y su importe acumulado dentro de cada ejercicio económico no supere el 10 por 100 de sus recursos ordinarios, salvo las de tesorería que le corresponderán cuando el importe acumulado de las operaciones vivas en cada momento no supere el 15 por 100 de los ingresos corrientes liquidados en el ejercicio anterior, ordenar pagos y rendir cuentas.
+f) Aprobar la oferta de empleo público de acuerdo con el Presupuesto y la plantilla aprobados por el Pleno, aprobar las bases de las pruebas para la selección del personal y para los concursos de provisión de puestos de trabajo, y distribuir las retribuciones complementarias que no sean fijas y periódicas. Estas atribuciones se entenderán sin perjuicio de lo dispuesto en la legislación aplicable a los funcionarios de Administración Local con habilitación de carácter estatal.
+g) Desempeñar la jefatura superior de todo el personal y acordar su nombramiento y sanciones, incluida la separación del servicio de los funcionarios de la corporación y el despido del personal laboral. En estos dos últimos casos, dará cuenta al pleno en la primera sesión que se celebre. Esta atribución se entenderá sin perjuicio de lo dispuesto en la legislación aplicable a los funcionarios de Administración Local con habilitación de carácter estatal.
+h) Ejercer las acciones judiciales y administrativas y la defensa del Consejo Comarcal en las materias de su competencia, incluso cuando las haya delegado en otro órgano, y, en caso de urgencia, en materias de la competencia del Pleno. En este último supuesto se dará cuenta al mismo en la primera sesión que celebre para su ratificación.
+i) Tomar la iniciativa para proponer al Pleno la declaración de lesividad en materia de la competencia de la Presidencia.
+j) Actuar como órgano de contratación, de conformidad con lo establecido en la legislación básica en materia de contratos del sector público.
+k) Aprobar los proyectos de obras y de servicios cuando sea competente para su contratación o concesión y estén previstos en el presupuesto.
+l) Adjudicar concesiones sobre los bienes de la Comarca de El Bierzo y adquirir bienes inmuebles y derechos sujetos a la legislación patrimonial, así como enajenar patrimonio, de conformidad con lo establecido en la legislación básica patrimonial.
+m) Ordenar la publicación, ejecución y hacer cumplir los acuerdos del Consejo Comarcal.
+n) Las demás que expresamente le atribuyan las leyes y aquellas que la legislación del Estado o de la Comunidad Autónoma asignen a la Comarca y no atribuyan a otros órganos comarcales.
+2. El presidente puede delegar el ejercicio de sus atribuciones en los miembros de la Junta de Gobierno, salvo las de convocar y presidir las sesiones del Pleno, de la Junta de Gobierno y de la Asamblea de Ediles, la decisión sobre los empates con el voto de calidad, la concertación de operaciones de crédito, la jefatura superior de todo el personal, la separación del servicio de los funcionarios y el despido del personal laboral, y las enunciadas en los párrafos a), h) e i) del apartado 1 de este artículo, así como cuantas sean indelegables en virtud de norma básica estatal.
+3. Corresponde, asimismo, al presidente el nombramiento, de entre los miembros de la Junta de Gobierno, de los vicepresidentes, cuyo número no podrá ser superior a tres.
+Los vicepresidentes sustituyen, por el orden de su nombramiento, al presidente en los casos de vacante, ausencia o enfermedad.
+Se modifica por el art. único.17 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 21
+
+Artículo 21.
+1. Corresponden al Pleno del Consejo Comarcal las siguientes atribuciones:
+a) El control y la fiscalización de los órganos de gobierno.
+b) La aprobación del reglamento orgánico y de las ordenanzas.
+c) La elección del Presidente del Consejo.
+d) La determinación de los recursos propios de carácter tributario, la aprobación y modificación de los presupuestos, la disposición de gastos en materia de su competencia y la aprobación de las cuentas; todo ello de acuerdo con lo dispuesto en la Ley Reguladora de las Haciendas Locales.
+e) La determinación de las formas de gestión de los servicios.
+f) La aceptación de la delegación de competencias hecha por otras administraciones públicas.
+g) El planteamiento de conflictos de competencias a otras entidades locales y demás administraciones públicas.
+h) La aprobación de la plantilla de personal y de la relación de puestos de trabajo, la fijación de la cuantía de las retribuciones complementarias fijas y periódicas de los funcionarios y el número y régimen del personal eventual.
+i) El ejercicio de las acciones judiciales y administrativas y la defensa del Consejo Comarcal en las materias de competencia plenaria, sin perjuicio de lo previsto en el artículo 20.1.h).
+j) La declaración de lesividad de los actos del Consejo Comarcal.
+k) La concertación de operaciones de crédito cuya cuantía acumulada, dentro de cada ejercicio económico, exceda el 10 por 100 de sus recursos ordinarios de su Presupuesto, salvo las de tesorería, que le corresponderán cuando el importe acumulado de las operaciones vivas en cada momento supere el 15 por 100 de los ingresos corrientes liquidados en el ejercicio anterior; todo ello de conformidad con lo dispuesto en la Ley Reguladora de las Haciendas Locales y en la legislación estatal básica.
+l) El ejercicio como órgano de contratación respecto de los contratos en los que el presidente no sea competente de conformidad con lo establecido en la legislación básica en materia de contratos del sector público.
+m) La aprobación de los proyectos de obras y servicios cuando sea competente para su contratación o concesión, y cuando aún no estén previstos en los presupuestos.
+n) La adjudicación de concesiones sobre los bienes de la Comarca de El Bierzo y la adquisición de bienes inmuebles y derechos sujetos a la legislación patrimonial, así como la enajenación del patrimonio, cuando las actuaciones mencionadas no estén atribuidas al presidente.
+ñ) Aquellas otras que deban corresponder al Pleno por exigir su aprobación una mayoría especial, de acuerdo con la normativa básica estatal en materia de régimen local, y sean acordes con la naturaleza propia del ente comarcal.
+o) Las demás que expresamente le confieran las leyes.
+2. Corresponde igualmente al pleno la votación sobre la moción de censura al presidente y sobre la cuestión de confianza planteada por él mismo, que serán públicas y se realizarán mediante llamamiento nominal, de conformidad con la legislación electoral.
+3. El Pleno podrá delegar el ejercicio de sus atribuciones en el presidente y en la Junta de Gobierno, salvo las enumeradas en el apartado 1, párrafos a), b), c), d) e), f), g), h), k) y ñ), y en el apartado 2 de este artículo, así como cuantas sean indelegables en virtud de norma básica estatal.»
+4. El alcalde, o concejal que designe, tendrá derecho a asistir con voz pero sin voto a las sesiones del Pleno, siempre que en las mismas haya de debatir algún asunto que afecte exclusivamente a su municipio.
+Para el ejercicio de este derecho deberá ser citado a la reunión del Pleno y podrá consultar la documentación pertinente.
+Se modifica por el art. único.18 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 22
+
+Artículo 22.
+Corresponde a la Junta de Gobierno:
+a) La asistencia al presidente en el ejercicio de sus atribuciones.
+b) Las atribuciones delegadas por otros órganos del Consejo Comarcal.
+Se modifica por el art. único.19 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 23
+
+Artículo 23.
+1. Se crea la Asamblea de Ediles, como órgano de estudio, asesoramiento y participación del Consejo Comarcal, constituida por un representante de cada uno de los municipios que integran la Comarca de El Bierzo, designado por el Pleno del Ayuntamiento, que ostente la condición de alcalde o concejal y no sea miembro del Pleno Comarcal.
+2. El ejercicio de sus funciones las realizará mediante la toma de razón, previa a la aprobación por el Pleno, de los siguientes acuerdos comarcales:
+a) Presupuesto económico anual.
+b) Reglamento orgánico.
+c) Ordenanzas.
+d) Planes comarcales plurianuales de especial interés municipal.
+e) Fijación de criterios para determinar las aportaciones de los municipios.
+3. El presidente de la Asamblea de Ediles será el presidente del Consejo Comarcal que la convocará y presidirá; actuará como secretario el de ese mismo organismo.
+Se modifica por el art. único.20 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 24
+
+Artículo 24.
+El régimen de funcionamiento y el procedimiento de adopción de acuerdos de los órganos comarcales será el establecido en la legislación de régimen local.
+
+### Artículo 25
+
+Artículo 25.
+En la plantilla del Consejo Comarcal existirán puestos de trabajo reservados a funcionarios de Administración Local con habilitación de carácter estatal para el ejercicio de las funciones que tienen atribuidas legalmente.
+Se modifica por el art. único.21 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+## CAPITULO IV
+
+Hacienda Comarcal
+
+### Artículo 26
+
+Artículo 26.
+1. La Hacienda de la Comarca de El Bierzo estará integrada por los siguientes recursos:
+a) Los ingresos procedentes de su patrimonio y demás de derecho privado.
+b) Tasas y precios públicos por la prestación de servicios o realización de actividades de su competencia.
+c) Contribuciones especiales.
+d) Las subvenciones y demás ingresos de Derecho Público.
+e) Los procedentes de operaciones de crédito.
+f) El producto de las multas y sanciones impuestas en el ámbito de sus competencias.
+g) Cualquier otro recurso o aportación procedentes de otras administraciones públicas en los términos y con las limitaciones establecidas en la Ley reguladora de las Haciendas Locales.
+2. Para la cobranza de los tributos y de las cantidades que como ingresos de derecho público debe percibir la Hacienda de la Comarca de El Bierzo, de conformidad con lo previsto en el apartado anterior; dicha Hacienda ostentará las prerrogativas establecidas legalmente para la Hacienda del Estado, y actuará, en su caso, conforme a los procedimientos administrativos correspondientes.
+
+### Artículo 27
+
+Artículo 27.
+El Pleno del Consejo Comarcal establecerá los criterios para determinar las aportaciones de los municipios. Dichas aportaciones, que se revisarán anualmente, serán en todo caso proporcionales al número de habitantes y al aprovechamiento de los servicios que la Comarca preste, sin perjuicio de que puedan introducirse índices correctores como el nivel de renta y riqueza de los municipios.
+
+### Artículo 28
+
+Artículo 28.
+1.–Dentro de los recursos previstos en el apartado 1. g) del artículo 26, se incluye, en todo caso, la aportación destinada a gastos corrientes del Consejo Comarcal, que se contemplará nominativamente en el Capítulo IV de los Presupuestos Generales de la Comunidad de Castilla y León con cargo a la consejería competente en materia de Administración Local.
+El importe anual correspondiente a estos recursos se librará a la Comarca de El Bierzo trimestralmente.
+2. Dentro de los recursos previstos en el apartado 1. g) del artículo 26, se incluye, en todo caso, la aportación destinada a la realización de inversiones de carácter general del Consejo Comarcal, que se contemplará nominativamente en el Capítulo VII de los Presupuestos Generales de la Comunidad de Castilla y León con cargo a la consejería competente en materia de Administración Local.
+Aquellas otras inversiones de carácter sectorial que acometa la Administración de la Comunidad de Castilla y León deberán ser financiadas íntegramente por ésta mientras que el Consejo Comarcal de El Bierzo carezca de capacidad impositiva, salvo que una norma estatal o europea exija cofinanciación, o esta sea aceptada voluntariamente por dicho Consejo.
+3. El objeto, las cuantías y, en su caso, las actualizaciones de los anteriores recursos se podrán concretar en el convenio cuatrienal previsto en el artículo 6.2. sin perjuicio de que la voluntad de las partes en el convenio no puede vincular al legislativo ni a la realización de las inversiones que puedan contener los planes regionales sectoriales aprobados por decreto de la Junta de Castilla y León.
+En todo caso, con el objeto de garantizar la eficacia en la aplicación de los fondos a que se refiere el apartado anterior, dentro del mes siguiente al de finalización del ejercicio presupuestario la Comarca de El Bierzo remitirá a cada consejería competente por razón de la materia una memoria anual de gestión relativa a las inversiones y actuaciones realizadas, que incluya los niveles y calidad de los servicios prestados.
+4. Dentro de los recursos previstos en el apartado 1 del artículo 26, se incluyen, en todo caso, las aportaciones destinadas a gastos corrientes y a la realización de inversiones del Consejo Comarcal que se puedan contemplar en los Presupuestos de los Ayuntamientos de la Comarca y de la Diputación Provincial de León.
+Se modifica por el art. único.22 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Artículo 29
+
+Artículo 29.
+Los municipios que integran la Comarca de El Bierzo podrán delegar en la misma sus facultades tributarias de gestión, recaudación, inspección y revisión, sin perjuicio de las delegaciones y demás fórmulas de colaboración que puedan establecerse con otras Administraciones Públicas.
+
+### Artículo 30
+
+Artículo 30.
+El régimen financiero, presupuestario, de intervención y contabilidad de la Comarca de El Bierzo será el establecido en la legislación de régimen local.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Si como consecuencia de un procedimiento de creación o supresión de municipios resultara afectada la delimitación territorial de la Comarca de El Bierzo, los municipios resultantes, mediante acuerdo del Pleno de la corporación, podrán solicitar motivadamente a la Junta de Castilla y León su integración o salida del ente comarcal durante el plazo de un año desde la publicación de la resolución del procedimiento correspondiente.
+La Junta de Castilla y León, oído el Consejo Comarcal, resolverá en el plazo de seis meses, debiendo entenderse estimada la solicitud si no hay resolución expresa en dicho plazo.
+2. Si, como consecuencia de un procedimiento de creación por fusión de municipios o de un procedimiento de supresión por fusión y por incorporación de un municipio a otro limítrofe, no resultara afectada la delimitación territorial de la Comarca de El Bierzo, los municipios resultantes quedarán integrados en el ente comarcal desde la publicación de la resolución del procedimiento correspondiente.
+Si, como consecuencia de un procedimiento de creación por segregación de otro municipio, no resultara afectada la delimitación territorial de la Comarca de El Bierzo, este nuevo municipio deberá expresar su voluntad de formar parte o no de ella en el plazo de un año desde la publicación de la resolución del procedimiento correspondiente entendiéndose positiva a su integración de no efectuarse en dicho plazo.
+Se modifica por el art. único.23 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Se faculta a la Junta de Castilla y León para dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de la presente Ley.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+En lo no dispuesto en esta ley en relación con el régimen electoral de la Comarca de El Bierzo, será de aplicación la Ley Orgánica de Régimen Electoral General.
+Se añade por el art. único.24 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### Disposición transitoria
+
+Disposición transitoria.
+(Sin contenido).
+Se deja sin contenido por el art. único.25 de la Ley 17/2010, de 20 de diciembre. Ref. BOE-A-2011-403
+
+### [firma]
+
+Por tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan y a los Tribunales y autoridades que corresponda que la hagan cumplir.
+Valladolid, 14 de marzo de 1991.
+JESUS POSADA MORENO,
+Presidente de la Junta de Castilla y León,

@@ -1,0 +1,244 @@
+# Ley 10/1989, de 10 de julio, del Patronato de la Montaña de Montserrat.
+
+- Identificador BOE: `BOE-A-1989-17844`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1989-17844
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado, y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de Autonomía de Cataluña, promulgo la siguiente:
+LEY 10/1989, DE 10 DE JULIO, DEL PATRONATO DE LA MONTAÑA DE MONTSERRAT
+El Patronato de la Montaña de Montserrat fue creado por Decreto ley de 16 de octubre de 1950, el cual fundamentó su necesidad, por una parte, en la importancia religiosa y cultural del monasterio y del santuario y en la belleza y singularidad del lugar, que lo han convertido en un centro turístico internacional, y, por otra, en que las actuaciones de los poderes públicos que exigen dichas circunstancias no pueden ser ejercidas por los Entes locales que se reparten el territorio de la montaña. La montaña de Montserrat, de hecho ha llegado a ser un territorio de interés general de todo el ámbito de Cataluña.
+Las funciones iniciales del Patronato de la Montaña de Montserrat —forestales, urbanísticas, culturales y turísticas— fueron posteriormente ampliadas por el Decreto del Ministerio de Educación y Ciencia 1225/1975, de 24 de abril, que declaraba la montaña paraje pintoresco y por el Decreto del Gobierno de la Generalidad, 59/1987, de 29 de enero, que declaraba la montaña parque natural y designaba al Patronato como órgano gestor del Parque.
+Todo ello obliga a revisar la vigente regulación del Patronato para acomodarla a la realidad actual de las funciones, facultades y obligaciones asumidas últimamente, aparte de que la dispersión de la normativa vigente dificulta su correcta aplicación. Hemos de añadir, además que las actuales disposiciones de régimen local y la distribución de la normativa desde un punto de vista técnico e incluso, de los principios del ordenamiento jurídico vigente recomiendan insertar en una Ley formal algunas disposiciones del Decreto 319/1983, de 21 de julio por el que la Generalidad asumió el Patronato cómo Entidad autónoma de Cataluña, y las demás disposiciones de tipo reglamentario dictadas por la Generalidad en estos últimos años.
+La complejidad de las funciones que tiene asignadas ahora el Patronato obliga, además, a revisar la composición y la estructura de sus órganos de gobierno y ejecutivos En este sentido, la Ley establece la continuidad de la Junta del Patronato, que a partir de ahora se denominará, más propiamente, Pleno del Patronato en el que estarán representadas, de forma equilibrada todas las instituciones que por un título u otro deberán intervenir en la deliberación y toma de decisiones; la reorganización de la Comisión Ejecutiva para hacer más eficiente y ágil la administración ordinaria del Patronato; la legalización de la figura del Gerente que deberá llevar la administración diaria e inmediata, y la regulación en términos generales de los órganos administrativos y técnicos.
+La presente Ley también regula las formas de gestión de los servicios del Patronato la realización de las obras públicas y las relaciones de la entidad con las demás Administraciones Públicas.
+En cuanto a las fuentes de financiación, la Ley modifica el régimen establecido por el Decreto-ley del año 1950 adaptándolo a las necesidades derivadas de las funciones actuales del Patronato.
+Finalmente, se incluyen en el texto de la presente Ley las disposiciones que según el ordenamiento jurídico vigente son objeto de reserva de Ley formal y las que deben contribuir a configurar la regulación sustantiva de la Entidad y se dejan para las disposiciones reglamentarias aquellas otras cuestiones de tipo más adjetivo o detallado que en buena técnica jurídica, deberán serles atribuidas.
+
+## CAPÍTULO PRIMERO
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. El Parque Natural.
+La montaña de Montserrat, que tiene la condición de parque natural en virtud del Decreto 59/1987, de 29 de enero se sujetará a la Ley 12/1985, de 13 de junio, de Espacios Naturales, en los términos de la presente Ley.
+
+### Artículo 2
+
+Artículo 2. Finalidades del Patronato.
+El Patronato de la Montaña de Montserrat llevará la gestión del Parque Natural y realizará las demás actuaciones que exija el interés general.
+
+### Artículo 3
+
+Artículo 3. Naturaleza jurídica.
+El Patronato es una Entidad autónoma de carácter administrativo de la Generalidad adscrita al Departamento de Presidencia. Gozará de personalidad jurídica y tendrá patrimonio propio para el cumplimiento de sus fines.
+
+### Artículo 4
+
+Artículo 4. Entidades representadas.
+Estarán representadas en el Patronato las siguientes instituciones y entidades:
+a) La Generalidad de Cataluña.
+b) Los Ayuntamientos de El Bruc, Collbató, Monistrol de Montserrat y Marganell.
+c) Los Consejos Comarcales de Anoia, Bages y Baix Llobregat.
+d) Las Diputaciones de Barcelona, Girona, Lleida y Tarragona.
+e) La Administración Central del Estado.
+f) El Monasterio de Santa María de Montserrat.
+
+### Artículo 5
+
+Artículo 5. Ámbito territorial.
+5.1 El Patronato ejerce sus competencias dentro del ámbito territorial establecido en el correspondiente decreto de delimitación territorial del Parque Natural de la Montaña de Montserrat.
+5.2 En cuanto a la zona de protección del entorno del Parque, corresponderá al Patronato realizar las actuaciones administrativas que establezca la normativa pertinente.
+Se modifica el apartado 1 por el art. 47 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737.
+
+### Artículo 6
+
+Artículo 6. La sede del Patronato.
+La sede del Patronato estará en el Palacio de la Generalidad.
+
+## CAPÍTULO II
+
+Competencias del Patronato
+
+### Artículo 7
+
+Artículo 7. Enumeración de competencias.
+Corresponderán al Patronato de la Montaña de Montserrat las siguientes competencias:
+a) Realizar las actuaciones necesarias para conservar y restaurar la montaña de Montserrat; para proteger la singularidad de su relieve y preservar sus valores naturales –geológicos, de vegetación, fauna y paisaje–; para preservar también la estructura funcional de los ecosistemas del área para salvaguardar los valores históricos arqueológicos, monumentales y artísticos que atesora Montserrat, sin perjuicio de facilitar los usos tradicionales y el disfrute público de forma ordenada, en tanto sean compatibles con las finalidades primordiales de la declaración de parque natural.
+b) Gestionar el Parque Natural de Montserrat, de conformidad con la normativa vigente y los planes especiales aprobados por los órganos competentes de la Administración de la Generalidad, y formular los programas anuales de actuación, que hayan de someterse a aprobación de los órganos de la Administración de la Generalidad que sean competentes.
+c) Prestar los servicios públicos exigidos por las necesidades del lugar. Los servicios que deban prestarse en el interior de la zona urbana propiedad del Monasterio serán a cargo de éste en los términos de los convenios suscritos con el Patronato.
+d) Implantar, regular y vigilar los medios de acceso y circulación de la montaña, y establecer y gestionar las zonas de aparcamiento.
+e) Fomentar el turismo mediante la propaganda nacional e internacional adecuada y crear circuitos turísticos en la montaña.
+f) Realizar las obras públicas correspondientes a las anteriores competencias, especialmente en lo referente a la conservación y mejora de monumentos de edificios artísticos e históricos.
+g) Velar porque sea guardado el debido respeto a la montaña-santuario.
+h) Emitir informe previo de los anteproyectos de ley y de los proyectos de disposiciones de carácter general que afecten a su organización y régimen jurídico.
+Se añade la letra h) por el art. 7.1 de la Ley 25/1998, de 31 de diciembre. Ref. BOE-A-1999-2521.
+
+### Artículo 8
+
+Artículo 8. Potestades.
+Para el ejercicio de sus competencias, el Patronato podrá:
+a) Hacer cumplir las prescripciones de las normas del Parque Natural y del Plan Especial de Protección, en especial las prohibiciones y limitaciones de usos, la concesión o denegación de las autorizaciones necesarias y la entrega de los informes previos vinculantes.
+b) Requerir a los propietarios de fincas en la montaña para que realicen aquellas obras de repoblación forestal que ordenen los programas de actuación y, en caso de incumplimiento, promover la expropiación total o parcial de los inmuebles, con sujeción a las normas vigentes.
+c) Adquirir para el patrimonio público zonas forestales y ejercer los derechos de tanteo, retracto y expropiación en los términos de los artículos 32 y 33 de la Ley 12/1985 (citada), de Espacios Naturales, y disposiciones complementarias, por el procedimiento regulado por esta normativa.
+d) Conceder subvenciones y ayudas para favorecer la repoblación forestal, conservar los edificios históricos y rurales y estimular las iniciativas culturales y científicas relacionadas con la montaña de Montserrat.
+e) Establecer contraprestaciones para la utilización de los servicios públicos que se instalen en ella, con sujeción, en cada caso, a las normas y procedimientos establecidos.
+f) Requerir, cuando sea necesario para el cumplimiento de las funciones del Patronato, de acuerdo con la legislación vigente, la intervención de las fuerzas de seguridad y vigilancia que presten servicio en el territorio de jurisdicción del Patronato.
+
+### Artículo 9
+
+Artículo 9. Gestión de las competencias.
+9.1 El Patronato podrá realizar las obras y prestar los servicios que sean de su competencia por gestión directa o indirecta, con sujeción a la normativa general que lo regule.
+9.2 La Administración de la Generalidad deberá llevar a cabo, a su cargo, las obras y actuaciones incluidas en el programa anual que correspondan a sus competencias y que contribuyan a conservar y mejorar el Parque Natural y el patrimonio histórico artístico de Cataluña, sin perjuicio de la colaboración del Patronato y demás órganos o corporaciones públicas o privadas.
+9.3 Corresponderá al Patronato coordinar todas las actuaciones públicas que realicen otros organismos o Entidades en el territorio de su jurisdicción.
+
+## CAPÍTULO III
+
+Organización
+
+### Artículo 10
+
+Artículo 10. Los órganos del Patronato.
+Los órganos del Patronato serán:
+a) La Presidencia.
+b) Las Vicepresidencias.
+c) El Pleno.
+d) La Comisión Ejecutiva.
+
+### Artículo 11
+
+Artículo 11. La Presidencia.
+El presidente o presidenta del Patronato es el presidente o presidenta de la Generalidad de Cataluña.
+Se modifica por el art. 7.2 de la Ley 25/1998, de 31 de diciembre. Ref. BOE-A-1999-2521.
+ Se modifica por el art. 9.1 de la Ley 17/1997, de 24 de diciembre. Ref. BOE-A-1998-2988.
+
+### Artículo 12
+
+Artículo 12. Vicepresidencias.
+El padre abad del monasterio de Santa María de Montserrat es el vicepresidente primero del Patronato y el consejero o consejera de la Presidencia de la Generalidad de Cataluña es el vicepresidente o vicepresidenta segundo.
+Se modifica por el art. 7.3 de la Ley 25/1998, de 31 de diciembre. Ref. BOE-A-1999-2521.
+
+### Artículo 13
+
+Artículo 13. Composición del Pleno.
+El Pleno estará formado por el Presidente, el Vicepresidente o Vicepresidentes y los siguientes vocales:
+a) Los consejeros de los departamentos competentes en las materias de turismo, cultura, territorio, seguridad y medio natural.
+b) Los Alcaldes de los municipios de El Bruc, Collbató, Monistrol de Montserrat y Marganell.
+c) Los Presidentes de los Consejos Comarcales de Anoia, Bages y Baix Llobregat.
+d) Los Presidentes de las Diputaciones de Barcelona, Girona, Lleida y Tarragona.
+e) El Delegado del Gobierno en Cataluña, de acuerdo con lo establecido por el Real Decreto 2837/1982 de 15 de octubre.
+f) Tres personas nombradas por el Padre Abad del Monasterio de Santa María de Montserrat.
+g) El Presidente de la Comisión Ejecutiva.
+Se modifica la letra a) por el art. 91 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+
+### Artículo 14
+
+Artículo 14. Delegación de funciones.
+14.1 El Presidente podrá delegar sus funciones en los Vicepresidentes.
+14.2 Los miembros del Pleno podrán delegar la asistencia a las reuniones y el voto en la persona que según las disposiciones aplicables, pueda sustituirlos.
+
+### Artículo 15
+
+Artículo 15. Composición de la Comisión Ejecutiva y designación de sus miembros.
+La Comisión Ejecutiva estará formada por los siguientes miembros:
+a) El presidente o presidenta, nombrado libremente por el presidente o presidenta del Patronato de la Montaña de Montserrat.
+b) Cinco personas en representación de la Generalidad designadas, respectivamente, por los consejeros de los departamentos competentes en las materias de turismo, cultura, territorio, seguridad y medio natural.
+c) Un representante de la Diputación de Barcelona escogido por la misma.
+d) Un representante de los municipios de El Bruc, Collbató, Monistrol de Montserrat y Marganell, cuyo nombramiento y renovación corresponderá, mediante acuerdo entre ellos, a los cuatro Ayuntamientos.
+e) Un representante de la Administración del Estado designado por la misma.
+f) Dos representantes del Monasterio de Santa María de Montserrat designados por el Padre Abad.
+Se modifica el apartado b) por el art. 92 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+ Se modifica el apartado a) por el art. 7.4 de la Ley 25/1998, de 31 de diciembre. Ref. BOE-A-1999-2521.
+ Se modifica el apartado a) por el art. 9.2 de la Ley 17/1997, de 24 de diciembre. Ref. BOE-A-1998-2988.
+
+### Artículo 16
+
+Artículo 16. Funciones de los órganos del Patronato.
+16.1 Corresponderán al Pleno de alta dirección y el gobierno del Patronato en el cumplimiento de los fines que tenga asignados.
+16.2 La Comisión Ejecutiva asumirá las funciones de dirección inmediata y administración ordinaria en todo aquello que corresponda a las competencias y potestades del Patronato.
+16.3 El Estatuto de organización y funcionamiento del Patronato deberá especificar la distribución de funciones y normas de funcionamiento de los órganos del Patronato.
+
+### Artículo 17
+
+Artículo 17. El Gerente.
+El Patronato tendrá un Gerente que será nombrado y destituido por la Comisión Ejecutiva, a propuesta de su Presidente.
+
+### Artículo 18
+
+Artículo 18. Funciones del Gerente.
+El Gerente tendrá a su cargo la tramitación administrativa de las actuaciones del Patronato, la ejecución de los acuerdos del Pleno y de la Comisión Ejecutiva, cuando no se la reserven, el seguimiento de las obras y de la prestación de los servicios y el mando del personal del Patronato.
+
+### Artículo 19
+
+Artículo 19. La secretaría.
+La secretaría de actas de los órganos colegiados del Patronato será desempeñada por un funcionario de la Generalidad titulado superior que será nombrado por el Presidente del Patronato oída la Comisión Ejecutiva.
+
+## CAPÍTULO IV
+
+Régimen económico
+
+### Artículo 20
+
+Artículo 20. Recursos financieros.
+20.1 El Patronato, para el cumplimiento de los fines que tiene atribuidos y para el ejercicio de sus competencias, tendrá los siguientes ingresos:
+a) Las rentas y productos que obtenga de los bienes que posea.
+b) El producto de las contraprestaciones que perciba legalmente y cualesquiera otros ingresos consiguientes a la prestación de servicios.
+c) Los créditos consignados en los presupuestos de las instituciones y demás organismos públicos.
+d) Las subvenciones y ayudas que reciba de los organismos oficiales en los términos señalados por la legislación de espacios naturales.
+e) Las donaciones, herencias y legados procedentes de particulares y entidades privadas.
+20.2 El Patronato tendrá derecho a participar en las subvenciones y ayudas que otorguen las administraciones públicas para realizar obras y prestar servicios de carácter local.
+
+### Artículo 21
+
+Artículo 21. Los presupuestos.
+21.1 Los ingresos y gastos anuales del Patronato serán objeto del correspondiente presupuesto, que será formulado y liquidado siguiendo las normas de la Ley de Finanzas Públicas de Cataluña, y como anexo al del Departamento de Presidencia de la Generalidad.
+21.2 El Patronato podrá elaborar, con los mismos requisitos, presupuestos extraordinarios para la realización de obras e infraestructura que constituyan inversiones en capital. Dichos presupuestos podrán corresponder a más de una anualidad y deberán ser nivelados con ingresos sobrantes de los presupuestos ordinarios, con crédito público y otras fuentes de financiación.
+
+## CAPÍTULO V
+
+Disposiciones finales
+
+### Artículo 22
+
+Artículo 22. Sustitución de las Diputaciones catalanas.
+Cuando Cataluña se constituya como Comunidad Autónoma uniprovincial o cuando las Diputaciones catalanas dejen de tener las competencias de que disponen en las materias propias del Patronato las plazas que ocupen sus representantes en el Pleno y en la Comisión Ejecutiva corresponderán a los organismos que pasen a ejercer dichas competencias.
+
+### Artículo 23
+
+Artículo 23. Disposiciones transitorias.
+23.1 Hasta que el Consejo Ejecutivo no dicte el Estatuto de organización y Funcionamiento del Patronato, seguirá aplicándose el Decreto 319/1983, de 21 de julio, en todo aquello que no sea regulado por la presente Ley.
+23.2 En el plazo de dos meses a partir de la entrada en vigor de la presente Ley deberán designarse los miembros de la Comisión Ejecutiva. En tanto no se produzcan dichos nombramientos, seguirán en funciones los actuales miembros.
+
+### Artículo 24
+
+Artículo 24. Desarrollo reglamentario.
+En el plazo de seis meses a partir de la entrada en vigor de la presente Ley, el Consejo Ejecutivo deberá revisar el Estatuto de organización y funcionamiento del Patronato.
+
+### Artículo 25
+
+Artículo 25. Disposición derogatoria.
+Quedan derogadas las disposiciones de rango igual o inferior que se opongan a la presente Ley en las materias que regula.
+
+### Artículo 26
+
+Artículo 26. Entrada en vigor.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Diari Oficial de la Generalitat de Catalunya».
+
+Por tanto ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 10 de julio de 1989.
+AGUSTÍ BASSOLS I PARES,
+ JORDI PUJOL,
+ Consejero de Justicia
+ Presidente de la Generalidad de Cataluña
+(Publicado en el «Diario Oficial de la Generalidad de Cataluña» número 1.167, de 12 de junio de 1989)
+
+## ANEXO
+
+Delimitación del territorio sobre el que ejerce sus competencias el Patronato de la Montaña de Montserrat
+(Derogado).
+Se deroga por la letra g) de la disposición derogatoria de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737.

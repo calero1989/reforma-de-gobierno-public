@@ -1,0 +1,328 @@
+# Ley 10/2003, de 8 de abril, de creación del servicio público de empleo de Castilla y León.
+
+- Identificador BOE: `BOE-A-2003-8798`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-8798
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 16.4 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley
+PREÁMBULO
+El Título I de la Constitución Española de 1978, en su Capítulo III, denominado «de los principios rectores de la política social y económica», dispone en su artículo 40 que los poderes públicos realizarán una política orientada al pleno empleo y garantizarán la formación y readaptación profesional.
+En relación con este mandato, el artículo 148.1.13 de la Constitución establece que las Comunidades Autónomas podrán asumir competencias en materia de fomento de su desarrollo económico, dentro de los objetivos marcados por la política económica nacional. Finalmente, el artículo 149.1.13 de la Constitución establece la competencia exclusiva del Estado sobre las bases y la coordinación de la planificación general de la actividad económica.
+Por otra parte, el artículo 32.1.21.ª del Estatuto de Autonomía de Castilla y León establece que, dentro de los objetivos marcados por la política económica general, corresponde a la Comunidad Autónoma de Castilla y León, la competencia exclusiva del fomento del desarrollo económico y la planificación de la actividad económica de la Comunidad. Y el artículo 40.1 del Estatuto dispone que la Comunidad Autónoma de Castilla y León queda facultada para dotarse de instrumentos que fomenten la plena ocupación, la formación profesional y el desarrollo económico y social para el mejor ejercicio de sus competencias.
+Por el Real Decreto 148/1999, de 29 de enero, tuvo lugar el traspaso de la gestión de la formación profesional ocupacional a la Comunidad Autónoma de Castilla y León, y el Decreto 85/1999, de 22 de abril, asignó a la Consejería de Industria, Comercio y Turismo las funciones y los servicios transferidos a la Comunidad Autónoma en materia de gestión de la formación ocupacional.
+Por el Real Decreto 1187/2001, de 2 de noviembre, se hizo efectiva la transferencia a la Comunidad Autónoma de Castilla y León de la gestión ejercida por el Instituto Nacional de Empleo (INEM) en el ámbito del trabajo, el empleo y la formación. En este sentido, la Comunidad Autónoma de Castilla y León asumió las funciones y servicios que, en materia de intermediación en el mercado de trabajo, gestión y control de políticas de empleo y Centros Nacionales de Formación Profesional Ocupacional hasta el momento había ejercido la Administración del Estado, funciones que fueron asignadas mediante el Decreto 288/2001, de 13 de diciembre, a la Consejería de Industria, Comercio y Turismo.
+El traspaso a la Comunidad Autónoma de Castilla y León de las políticas activas que desarrollaba el Instituto Nacional de Empleo (INEM), en el ámbito de la Comunidad de Castilla y León, ha agrupado en la Administración Laboral de la misma un conjunto de responsabilidades en materia de empleo que ha determinado la creación de la Viceconsejería de Trabajo, por Decreto 279/2001, de 7 de diciembre, como órgano del gobierno autonómico encargado de la coordinación de la política en relación con el fomento del empleo, la intermediación en el mercado de trabajo, la formación profesional ocupacional, las condiciones de trabajo, las relaciones laborales, la economía social, la orientación e inserción laboral y la seguridad en el trabajo.
+En el momento actual, estando a punto de culminar el proceso de reorganización interna iniciado simultáneamente a la asunción de las competencias transferidas, procede poner en marcha el Servicio Público de Empleo de Castilla y León, como instrumento que asista a la Consejería que tenga encomendadas las funciones de gestión en el ámbito del trabajo, el empleo y la formación, en sus funciones de intermediación en el mercado de trabajo y de orientación laboral, así como las políticas de empleo y de formación, para facilitar la ejecución de estas funciones con la agilidad y la eficacia que demanda la sociedad castellana y leonesa, al tiempo que cuente con las garantías legales suficientes que el ordenamiento jurídico requiere.
+Esta Ley tiene presente la asunción de los objetivos europeos del empleo. En este sentido, en el ámbito de la Unión Europea, ha quedado patente que un agente esencial para llevar a cabo la Estrategia Europea por el Empleo y un elemento clave para las instituciones europeas son los servicios públicos de empleo, ya que son los responsables de prestar un conjunto de servicios coherentes con los objetivos y los métodos comunes, de conformidad con los cuatro pilares de la Estrategia Europea por el Empleo: mejora de la capacidad de empleabilidad e inserción profesional, fomento del espíritu empresarial, fomento de la capacidad de adaptación de las empresas y los trabajadores y refuerzo de la igualdad de oportunidades entre hombres y mujeres.
+En este sentido, se acuerda crear a través de la presente Ley un organismo autónomo de la Comunidad de Castilla y León denominado Servicio Público de Empleo de Castilla y León, de conformidad con lo previsto en los artículos 86 a 89 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, encargado de poner en conexión la oferta y la demanda de trabajo, de facilitar el apoyo a los desempleados en su búsqueda de empleo, de la gestión de programas para la inserción laboral de los desempleados y de la formación ocupacional y, en general, de la realización de actividades orientadas a posibilitar la colocación de los trabajadores que demandan empleo. Todo ello atendiendo, entre otros, a los principios de autonomía funcional del organismo, igualdad de oportunidades y unicidad del mercado de trabajo, equidad y gratuidad, participación de los Agentes Económicos y Sociales, la coordinación con otros órganos administrativos y cooperación con los diferentes centros colaboradores y asociados que presten sus servicios en el ámbito de la intermediación y orientación laboral, que preferiblemente carezcan de ánimo de lucro, y partiendo de la actual red de centros que han venido colaborando con el Servicio Regional de Colocación.
+En las materias propias de su competencia, se da entrada en el Servicio Público de Empleo a la Federación Regional de Municipios y Provincias como órgano supremo que aglutina los intereses de la Administración Local a nivel autonómico.
+Se crea el Servicio Público de Empleo de Castilla y León, fruto del consenso alcanzado entre los interlocutores sociales y la Administración Regional, al amparo del Acuerdo sobre la creación y estructura del Servicio Público de Empleo de Castilla y León, firmado el 29 de enero de 2003.
+El Servicio Público de Empleo de Castilla y León se adscribirá a la Consejería que tenga atribuidas las competencias en materia de trabajo, integrando en su organización las Oficinas de Empleo y Centros de Formación Ocupacional transferidos, y promoverá una atención integral a sus usuarios, procurando una atención personalizada y una modernización en el sistema a través de la incorporación de las nuevas tecnologías de la información y la comunicación, y dotándole de los recursos humanos y técnicos que permitan la inserción laboral de los demandantes de empleo.
+
+## CAPÍTULO I
+
+Disposiciones Generales
+
+### Artículo 1
+
+Artículo 1. Creación, naturaleza y régimen jurídico.
+1. Se crea el Servicio Público de Empleo de Castilla y León como organismo autónomo, con personalidad jurídica propia y plena capacidad de obrar, de conformidad con lo previsto en los artículos 86 a 89 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León.
+2. Su naturaleza jurídica, funciones, composición, estructura y régimen económico-financiero serán los determinados por la presente Ley.
+3. El Servicio Público de Empleo se adscribe a la Consejería que tenga atribuidas las competencias en materia laboral.
+4. El Servicio Público de Empleo de Castilla y León dispone, para el cumplimiento de sus fines, de patrimonio propio y de los recursos humanos, financieros y materiales necesarios.
+5. El Servicio Público de Empleo de Castilla y León se rige por lo establecido en esta Ley, sus normas de desarrollo y demás disposiciones que sean de aplicación.
+
+### Artículo 2
+
+Artículo 2. Fines.
+1. El Servicio Público de Empleo de Castilla y León se constituye para la realización, orientada al pleno empleo estable y de calidad, de aquellas actividades de fomento del empleo, formación para el empleo, orientación y de intermediación en el mercado de trabajo que se le atribuyan, en el ámbito territorial de la Comunidad de Castilla y León, dirigidas a facilitar a los trabajadores demandantes de empleo la obtención de un puesto de trabajo adecuado, y a facilitar a los empleadores la contratación de trabajadores con formación y experiencia adecuada a sus necesidades de producción de bienes y servicios.
+2. El Servicio Público de Empleo de Castilla y León incorporará las tecnologías de la información y de la comunicación que sean necesarias para la consecución de los fines indicados y la modernización de los métodos de atención a los usuarios del sistema.
+
+### Artículo 3
+
+Artículo 3. Principios de organización y funcionamiento.
+En su organización y funcionamiento, así como en el ejercicio de sus competencias, el Servicio Público de Empleo de Castilla y León se ajustará a los siguientes principios:
+a) Colaboración y coordinación con el resto de organismos similares de ámbito local, regional, nacional o europeo y Administraciones Públicas, en especial con el Servicio Público de Empleo Estatal, de acuerdo con el principio de subsidiariedad.
+b) Descentralización y desconcentración en la gestión.
+c) Eficiencia en la gestión de los recursos.
+d) Participación de los Agentes Sociales y Económicos.
+e) Carácter gratuito y acceso universal.
+f) Transparencia y publicidad en la actuación administrativa.
+g) Respeto de los principios de igualdad de oportunidades y no discriminación.
+h) Respeto de los principios de libre circulación de los trabajadores y la unidad del mercado de trabajo.
+i) Calidad del servicio que se presta mediante una atención personalizada y especializada tanto a trabajadores como a empresarios.
+j) Evaluación permanente del funcionamiento del Servicio Público de Empleo de Castilla y León.
+k) Cohesión social y territorial.
+l) Fomento de la conciliación de la vida familiar y laboral y de la investigación en materia laboral.
+m) Participación de las Corporaciones Locales.
+n) Diseño de programas de empleo en función de las características de los colectivos sociales.
+o) Mantenimiento de la necesaria coordinación con las competencias en materia de trabajo que no se integren en el Servicio Público de Empleo.
+p) Adaptabilidad profesional y geográfica.
+
+### Artículo 4
+
+Artículo 4. Funciones.
+Son funciones del Servicio Público de Empleo de Castilla y León, dentro del ámbito competencial de la Comunidad Autónoma de Castilla y León, las siguientes:
+1. En materia de orientación laboral e intermediación en el mercado de trabajo:
+a) Las funciones de ejecución, en materia de intermediación laboral, y, en especial, las contempladas en los apartados 2 y 3 del artículo 42 de la Ley 51/1980, de 8 de octubre, Básica de Empleo, sobre inscripción y registro de los demandantes de empleo, y la obligación de los trabajadores y empresarios de comunicar la terminación del contrato de trabajo.
+b) Las funciones de ejecución relativas a la obligación de los empresarios de registrar o, en su caso, comunicar los contratos laborales y sus prórrogas, establecidas en el artículo 16.1 del Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores.
+c) La autorización de las agencias de colocación, cuyo ámbito de actuación no supere el territorio de la Comunidad de Castilla y León, en los términos previstos en el artículo 16.2 del Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores y el Real Decreto 735/1995, de 5 de mayo, por el que se regulan las agencias de colocación sin fines lucrativos y los servicios integrados para el empleo.
+d) Recibir información y efectuar el seguimiento referidos a las Empresas de Trabajo Temporal.
+e) Las funciones del INEM, en el territorio de la Comunidad de Castilla y León, relativas a las actividades de las EURES (European Employment Services), definidas en la Decisión de la Comisión Europea de 23 de diciembre de 2002.
+f) La elaboración, planificación, gestión y evaluación de los programas de ayuda a la búsqueda de empleo, de mejora del empleo o del reciclaje profesional, así como las relativas al asesoramiento y orientación profesional y laboral.
+2. En relación con la gestión de políticas de empleo:
+a) La elaboración y gestión de programas de inserción laboral y fomento de empleo.
+b) La elaboración y gestión de los programas de escuelas-taller, casas de oficio y talleres de empleo.
+c) Las funciones asumidas por la Comunidad Autónoma relativas a los fondos de promoción de empleo.
+d) La elaboración y gestión de Convenios de Colaboración y Programas de Empleo con Corporaciones Locales y Entidades sin ánimo de lucro para la contratación de desempleados.
+e) La elaboración y gestión de programas de ayudas para la contratación de los agentes de empleo local y los programas «I+E» y de desarrollo local.
+f) Los programas de renta activa de inserción.
+g) La extensión al conjunto de la Comunidad de las políticas de empleo, y en particular al ámbito rural.
+h) La elaboración de programas específicos dirigidos a personas con especiales dificultades de inserción.
+3. En relación con la formación profesional ocupacional:
+a) La elaboración y gestión de las acciones del Plan Nacional de Formación e Inserción Profesional y del Plan de Formación Ocupacional de la Comunidad de Castilla y León.
+b) La suscripción de Convenios y Contratos-Programa con las empresas para la realización de prácticas y contratación de alumnos procedentes de acciones de formación profesional ocupacional.
+c) La gestión del Registro de Centros y Especialidades formativas que reglamentariamente se creen.
+d) La suscripción de Convenios y Programas con las Entidades Locales.
+e) La elaboración de programas específicos de formación dirigidos a personas con especiales dificultades de inserción.
+4. Asimismo, le corresponderá con carácter general:
+a) Elaborar propuesta sobre los criterios de reconocimiento y homologación de los Centros y Entidades Colaboradoras del Servicio Público de Empleo de Castilla y León, así como la supervisión y control de su funcionamiento.
+b) Participar en la elaboración del Plan Regional de Empleo.
+c) Elaborar la Memoria Anual de Actividades.
+d) (Sin contenido).
+e) La elaboración y gestión de programas que favorezcan la inserción laboral de la población inmigrante.
+f) La aportación de datos estadísticos e informes para la elaboración de los Planes Regionales de Empleo.
+g) La elaboración y gestión de Programas e Iniciativas Comunitarias en materia de acciones integradas de orientación, inserción, formación y empleo.
+h) La elaboración y aprobación del Anteproyecto de Presupuesto del organismo y de propuestas de modificación de crédito y de liquidación de dicho presupuesto, así como de su ejecución, de acuerdo con lo que establezcan la Ley de la Hacienda de la Comunidad de Castilla y León, Ley 7/1986, de 23 de diciembre, y la Ley de Presupuestos Generales de la Comunidad Autónoma de Castilla y León.
+i) La gestión de la contabilidad del organismo, con sujeción al régimen de contabilidad pública, en los términos previstos por la Ley de la Hacienda de la Comunidad de Castilla y León.
+j) La gestión de recursos económicos y realización de pagos correspondientes a Tesorería.
+k) La implementación de los instrumentos necesarios para la utilización por vía telemática de los servicios prestados por el Servicio Público de Empleo a trabajadores, empresarios y usuarios en general, garantizando el respeto de los principios inspiradores del funcionamiento del mismo.
+l) La gestión de programas de empleo relativos al fomento de la vocación empresarial.
+m) La salvaguarda de la unidad del mercado de trabajo y el derecho a la libre circulación de trabajadores.
+n) Cualesquiera otras funciones que, en materia de empleo, formación e intermediación en el mercado de trabajo, correspondan a la Comunidad Autónoma de Castilla y León, y sean expresamente atribuidas al Servicio Público de Empleo por la Junta de Castilla y León, entre otras, la gestión de las funciones de formación continua que pueda asumir la Comunidad, en coordinación con los órganos paritarios que se constituyan.
+Se deja sin contenido el apartado 4.d) por el art. 26.1 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+### Artículo 5
+
+Artículo 5. Cooperación.
+1. El Servicio Público de Empleo de Castilla y León articulará los mecanismos de cooperación necesarios con el Servicio Público de Empleo Estatal y con los de las Comunidades Autónomas.
+2. El Servicio Público de Empleo de Castilla y León, en los términos previstos en la legislación vigente, podrá formalizar acuerdos de colaboración y cooperación con personas jurídicas, públicas o privadas, cuyos objetivos y actividades sean de interés para aquél, potenciando la colaboración y participación de los Agentes Sociales y Económicos en estos ámbitos.
+3. Tendrán preferencia los Agentes Económicos y Sociales más representativos y aquellas entidades colaboradoras que actúen en las áreas del Servicio Público de Empleo susceptibles de mejora y potenciación, que realicen varias acciones integradas, que tengan medios humanos y técnicos suficientes y que garanticen inserción laboral con la formación profesional.
+4. Los centros colaboradores y asociados con los que se establezcan líneas de cooperación serán preferentemente entidades que carezcan de ánimo de lucro, haciéndose ello extensivo a las Corporaciones Locales en los programas en los que las mismas intervengan.
+5. Los centros colaboradores prestarán un servicio de apoyo y complementario al Servicio Público de Empleo, sin integrar la estructura organizativa del mismo.
+
+### Artículo 6
+
+Artículo 6. Extinción.
+1. La extinción del Organismo Autónomo se efectuará en los términos previstos en la legislación vigente y requerirá informe previo del órgano colegiado previsto en el artículo 14 de esta ley en los términos establecidos reglamentariamente.
+2. La norma correspondiente establecerá las medidas aplicables al personal del organismo en el marco de su legislación reguladora.
+3. Extinguido el Servicio Público de Empleo de Castilla y León, su patrimonio se incorporará al de la Administración General de la Comunidad.
+Se modifica el apartado 1 por el art. 26.2 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+ Se modifica el apartado 3 por la disposición final 4 de la Ley 11/2006, de 26 de octubre. Ref. BOE-A-2006-21908#df-4
+
+## CAPÍTULO II
+
+Organización
+
+### Artículo 7
+
+Artículo 7. Órganos de dirección y gestión
+1. Órganos de dirección.
+a) El Presidente.
+b) El Vicepresidente.
+c) El Gerente.
+2. Órganos de gestión.
+a) Las Secretarías Técnicas.
+b) Las Gerencias Provinciales.
+Se modifica por el art. 26.3 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+### Artículo 8
+
+Artículo 8. El Presidente.
+1. Será Presidente del Servicio Público de Empleo el titular de la Consejería a la que se halle adscrito el mismo.
+2. El Presidente del Servicio Público de Empleo de Castilla y León ostenta la representación institucional del mismo.
+3. Sus funciones serán:
+a) Suscribir convenios en las materias competencia del Servicio Público de Empleo y ser su órgano de contratación.
+b) Las que se establezcan en el Reglamento del Servicio Público de Empleo.
+Se modifica el apartado 3 por el art. 26.4 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+### Artículo 9
+
+Artículo 9. El Vicepresidente.
+El Vicepresidente del Servicio Público de Empleo de Castilla y León será nombrado por la Junta de Castilla y León, a propuesta del Consejero con competencias atribuidas en materia de trabajo, y ostentará las siguientes funciones:
+a) Sustituir al Presidente en casos de ausencia, vacante, enfermedad y en cualquier otra circunstancia que le impida ejercer sus funciones.
+b) Cuantas otras le sean atribuidas en el Reglamento del Servicio Público de Empleo.
+
+### Artículo 10
+
+Artículo 10. El Gerente.
+1. El Gerente ostenta las funciones ejecutivas del Servicio Público de Empleo, y éstas serán:
+– Asumir la representación ordinaria del organismo.
+– Dirigir, coordinar, planificar y controlar las actividades del Servicio Público de Empleo, necesarias para el cumplimiento de los fines y funciones atribuidas al organismo.
+– Elaborar el borrador de Anteproyecto de Presupuesto del Servicio Público de Empleo.
+– Tramitar los acuerdos de los órganos colegiados previstos en el artículo 14 de esta ley.
+– La resolución de los recursos interpuestos sobre materias de su competencia.
+– Ejercer la jefatura del personal del Servicio Público de Empleo.
+– Contratar personal laboral temporal.
+– Autorizar los gastos, ejecutar las disposiciones, contraer obligaciones y ordenar pagos, dentro de los límites fijados por la normativa vigente en materia presupuestaria, sin perjuicio de las facultades de contratación del Presidente.
+– Aquellas otras que se le asignen en el Reglamento del Servicio Público de Empleo.
+2. El Gerente será nombrado por la Junta de Castilla y León, a propuesta del Consejero con competencias atribuidas en materia de trabajo, tendrá rango de, al menos, Director General, y dependerá jerárquicamente del Presidente del Servicio Público de Empleo.
+Se modifica el apartado 1 por el art. 26.5 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+### Artículo 11
+
+Artículo 11. Organización del Servicio Público de Empleo de Castilla y León.
+1. El Servicio Público de Empleo se estructurará en Secretarías Técnicas, jerárquicamente dependientes del Gerente.
+2. La composición, funcionamiento y estructura organizativa se regulará en el Reglamento del Servicio Público de Empleo.
+Se modifica el apartado 1 por el art. 26.6 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+### Artículo 12
+
+Artículo 12. El Observatorio Regional de Empleo.
+(Sin contenido).
+Se deja sin contenido por el art. 26.7 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+### Artículo 13
+
+Artículo 13. Las Gerencias Provinciales.
+1. En el ámbito provincial, la gestión del Servicio Público de Empleo se realizará a través de las correspondientes Gerencias Provinciales, que asumirán las competencias que se les atribuyan reglamentariamente.
+2. Las Gerencias Provinciales ostentarán la representación del Servicio Público de Empleo en el ámbito de su demarcación y velarán por el cumplimiento de los fines de la misma.
+3. Su estructura y funcionamiento se regulará en el Reglamento del Servicio Público de Empleo.
+
+### Artículo 14
+
+Artículo 14. Órganos colegiados de participación en materia de empleo.
+1. En la Administración de la Comunidad de Castilla y León existirán órganos colegiados de participación en materia de empleo, adscritos a la consejería competente en esta materia.
+2. Su composición, organización y funcionamiento se regularán reglamentariamente.
+3. Ejercerán las funciones y competencias que se les atribuyan por las disposiciones legales y reglamentarias, así como las que se le encomienden o deleguen.
+Se modifica por el art. 26.8 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+### Artículo 15
+
+Artículo 15. Las Comisiones Ejecutivas Provinciales.
+(Sin contenido).
+Se deja sin contenido por el art. 26.9 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+## CAPÍTULO III
+
+Personal
+
+### Artículo 16
+
+Artículo 16. Recursos Humanos.
+1. La clasificación y régimen del personal del Servicio Público de Empleo se regirá por las disposiciones que regulan la Función Pública en la Administración de la Comunidad Autónoma de Castilla y León.
+2. Los funcionarios que presten servicios en órganos de la Administración de la Comunidad de Castilla y León, cuyas funciones pasen a ser desempeñadas por el Servicio Público de Empleo, se integrarán en el organismo en los términos previstos por la legislación vigente, manteniendo su naturaleza funcionarial y la totalidad de sus derechos.
+3. El personal laboral que preste servicios en órganos de la Administración de la Comunidad de Castilla y León, cuyas funciones pasen a ser desempeñadas por el Servicio Público de Empleo, se integrarán en el organismo en los términos previstos por la legislación vigente, conservando la totalidad de los derechos laborales que tuviera reconocidos, incluida la antigüedad.
+4. La integración se producirá de conformidad con lo que se establezca en la correspondiente relación de puestos de trabajo.
+5. También pasa a ser personal del Servicio Público de Empleo el personal de nuevo ingreso y el personal de la Administración General e Institucional que por cualquier forma de provisión de puestos de trabajo se incorpore al mismo de acuerdo con la normativa vigente.
+
+## CAPÍTULO IV
+
+Régimen económico-financiero
+
+### Artículo 17
+
+Artículo 17. Recursos económicos.
+Constituyen los recursos económicos del Servicio Público de Empleo:
+a) Los que le sean asignados con cargo a los Presupuestos Generales de la Comunidad de Castilla y León, en los que se incluirán las consignaciones para el cumplimiento de los fines que la presente Ley atribuye al mismo.
+b) Los productos y rentas de toda índole procedente de sus bienes y derechos, excluyendo expresamente la percepción de tasas o precios públicos a los desempleados.
+c) Los ingresos ordinarios y extraordinarios que legalmente esté autorizado a percibir.
+d) Las subvenciones, donaciones y aportaciones voluntarias de entidades y particulares que le sean otorgadas.
+e) Cualesquiera otros recursos que le puedan ser atribuidos.
+
+### Artículo 18
+
+Artículo 18. Patrimonio.
+1. El Servicio Público de Empleo, para el cumplimiento de sus funciones, tendrá un patrimonio propio, integrado por los bienes y derechos que se le adscriban, los que adquiera por cualquier título y los que están afectos a los servicios y funciones del Servicio Público de Empleo.
+2. La gestión del patrimonio se ajustará a lo dispuesto por la normativa de patrimonio de la Comunidad de Castilla y León.
+
+### Artículo 19
+
+Artículo 19. Presupuesto.
+1. El Presupuesto del Servicio Público de Empleo se incluirá en los Presupuestos Generales de la Comunidad Autónoma de Castilla y León de forma diferenciada; y el procedimiento de elaboración, aprobación, ejecución, modificación y liquidación, así como su estructura, se regirá por lo establecido en las Leyes de la Hacienda y de Presupuestos de la Comunidad Autónoma de Castilla y León y demás normas de aplicación en materia presupuestaria.
+2. (Derogado).
+Se deroga el apartado 2 por la disposición derogatoria de la Ley 5/2008, de 25 de septiembre. Ref. BOE-A-2008-16664#dd
+
+### Artículo 20
+
+Artículo 20. Régimen de contratación.
+El régimen de contratación del Servicio Público de Empleo será el establecido por la normativa general de contratación que se aplique a la Administración de Castilla y León y sus Organismos Autónomos.
+
+### Artículo 21
+
+Artículo 21. Intervención.
+La Intervención Delegada del Servicio Público de Empleo ejercerá, en el ámbito central de la misma, las funciones previstas en las normas de la Comunidad reguladoras del control interno y aquellas que le delegue el Interventor General.
+
+### Artículo 22
+
+Artículo 22. Tesorería.
+1. El Servicio Público de Empleo dispondrá de un sistema de Tesorería que gestione los recursos económicos y realice los pagos.
+2. La Tesorería del Servicio Público de Empleo estará sometida al régimen de intervención y contabilidad pública, y en ella se unificarán todos los recursos financieros que se destinen para el cumplimiento de sus fines, en los términos que se dispone en la Ley de la Hacienda de la Comunidad Autónoma de Castilla y León.
+3. La indicada Tesorería, en los términos previstos en la Ley de la Hacienda de la Comunidad, podrá solicitar la apertura y cancelación de cuentas bancarias en entidades financieras para el funcionamiento de los servicios, atendiendo a la especial naturaleza de sus operaciones y al lugar en que hayan de realizarse.
+
+## CAPÍTULO V
+
+Régimen jurídico
+
+### Artículo 23
+
+Artículo 23. Servicio Jurídico.
+El Servicio Público de Empleo de Castilla y León dispondrá de una Asesoría Jurídica a la que corresponderán las funciones que, para las Asesorías Jurídicas de las Consejerías, determinan las normas reguladoras de los Servicios Jurídicos.
+Dichas funciones serán desempeñadas por los Letrados de los Servicios Jurídicos de la Comunidad en la forma y términos establecidos por estas normas.
+
+### Artículo 24
+
+Artículo 24. Actos y recursos administrativos.
+1. El régimen jurídico de los actos emanados del Servicio Público de Empleo será el establecido en la presente Ley y en la normativa específica de la Comunidad Autónoma de Castilla y León, sin perjuicio de la aplicación de las normas sobre el procedimiento común a todas las Administraciones Públicas.
+2. Los actos y resoluciones del Gerente del Servicio Público de Empleo sujetos al Derecho administrativo no agotarán la vía administrativa y serán susceptibles de recurso de alzada ante el Presidente del Servicio Público de Empleo.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La efectiva puesta en funcionamiento del Servicio Público de Empleo estará condicionada a la entrada en vigor de su Reglamento.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Desde la entrada en vigor del Reglamento del Servicio Público de Empleo, éste asumirá plenamente las funciones que sean propias de dicho Organismo según la presente Ley. La Junta de Castilla y León adscribirá los recursos humanos, financieros y materiales precisos para el cumplimiento de los fines del Servicio Público de Empleo de Castilla y León.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+En el plazo de doce meses desde la entrada en vigor de esta Ley se extinguirá el Servicio Regional de Colocación.
+
+### Disposición final primera
+
+Disposición final primera.
+La Junta de Castilla y León aprobará, en el plazo de seis meses desde la entrada en vigor de la Ley, el Reglamento del Servicio Público de Empleo de Castilla y León, previa participación y consulta del proyecto de Reglamento con las Organizaciones Sindicales y Empresariales más representativas de Castilla y León, sometiéndose a un proceso previo de negociación tripartito con los Agentes Sociales y Económicos más representativos de la Comunidad de Castilla y León.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se faculta a la Junta de Castilla y León para dictar las disposiciones necesarias para el desarrollo y ejecución de lo dispuesto en esta Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La Junta de Castilla y León modificará la estructura orgánica y las funciones de la Consejería que tenga atribuidas las competencias en materia laboral para cumplir lo establecido por la presente Ley.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+La Consejería de Economía y Hacienda realizará las modificaciones presupuestarias necesarias para habilitar los créditos necesarios para la puesta en funcionamiento del Servicio Público de Empleo y el cumplimiento de esta Ley.
+
+### Disposición final quinta
+
+Disposición final quinta.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de Castilla y León».
+
+### [firma]
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan y a todos los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 8 de abril de 2003.
+JUAN VICENTE HERRERA CAMPO,
+Presidente

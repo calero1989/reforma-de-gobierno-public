@@ -1,0 +1,80 @@
+# Ley 8/1989, de 13 de julio, de creación del Cuerpo de Agentes de Medio Ambiente de la Comunidad Autónoma de Canarias.
+
+- Identificador BOE: `BOE-A-1989-21041`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1989-21041
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTONOMA DE CANARIAS
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado, y yo, en nombre del Rey, y de acuerdo con lo que establece el Estatuto de Autonomía, promulgo y ordeno la publicación de la Ley de Creación del Cuerpo de Agentes de Medio Ambiente de la Comunidad Autónoma de Canarias.
+PREAMBULO
+El artículo 23 de la Ley Territorial 2/1987, de 30 de marzo, de la Función Pública Canaria, justifica la agrupación del personal estatutario de la Administración Autonómica en cuerpos funcionariales en razón del carácter homogéneo de las funciones a desarrollar y precisa que la finalidad de esta agrupación es completar los objetivos ordenadores de las relaciones de puestos de trabajo a efectos de la racionalización de las pruebas de acceso, de la determinación de la carrera administrativa y de la promoción interna.
+Esa homogeneidad de funciones, que debe atender al carácter específico de las mismas, se da con toda evidencia en los funcionarios que ocupan puestos tradicionalmente denominados de guardería forestal, en su mayor parte procedentes de la Administración del Estado en virtud de las correspondientes transferencias.
+La legislación de función pública Canaria no ha tenido en cuenta, sin embargo, las circunstancias especiales de este colectivo de funcionarios, tanto por lo que se refiere a sus cometidos particulares como a las singularidades que éstos comportan en su régimen estatutario. Por ello, en consideración a que se dan las circunstancias que motivan la creación de un cuerpo especial, la presente Ley lo habilita especificando los elementos diferenciales de la relación de servicios y remitiendo a una ulterior reglamentación el desarrollo de este tratamiento, con salvaguarda de las situaciones de los funcionarios transferidos.
+
+### Artículo 1
+
+Artículo 1.
+Se crea el Cuerpo de Agentes de Medio Ambiente de la Comunidad Autónoma de Canarias, que queda integrado en el grupo C de la clasificación de la disposición adicional primera de la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria.
+
+### Artículo 2
+
+Artículo 2.
+1. Serán funciones propias de dicho Cuerpo:
+a) Custodia, protección y vigilancia de la riqueza forestal, espacios naturales, flora, fauna y paisaje del Archipiélago Canario.
+b) Participación en las tareas relacionadas con el uso social, recreativo y didáctico de los espacios naturales.
+c) Vigilancia y prevención de los incendios forestales, participando en las tareas de extinción, coordinando y asesorando al personal que tome parte en las mismas.
+d) Inspección, supervisión y control de los trabajos realizados por el personal obrero en materia de conservación, aprovechamientos, mejoras y repoblación de montes.
+e) Inspección y policía relacionada con la normativa sobre evaluaciones del impacto ecológico o ambiental.
+f) Participación en las tareas de inspección y control de vertidos de residuos y contaminación de las aguas y atmósfera, fuera del medio urbano, que le sean encomendadas.
+g) Podrán contribuir a la vigilancia del patrimonio cultural en el medio rural, con especial interés a los valores arqueológicos e históricos.
+h) Cualquier otra que se le encomiende legalmente.
+2. Las relaciones de puestos de trabajo determinarán los puestos que se reservan a los funcionarios del Cuerpo.
+
+### Artículo 3
+
+Artículo 3.
+1. Para ingresar en el Cuerpo de Agentes de Medio Ambiente se exigirá estar en posesión del título de bachiller o técnico.
+2. El sistema de ingreso será el de concurso-oposición. En la fase de concurso se valorarán los méritos académicos. La fase de oposición constará de una prueba de conocimientos específicos, otra práctica y de un examen de aptitud física.
+Se modifica el apartado 1 por la disposición final 2 de la Ley 2/2025, de 26 de junio. Ref. BOE-A-2025-15655#df-2
+ Se modifica el apartado 1 por la disposición final 2 del Decreto-ley 7/2024, de 31 de julio. Ref. BOE-A-2024-23637
+ Se modifica por la disposición adicional 1 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La plantilla del Cuerpo no será inferior a 130 plazas para el ejercicio de 1990.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+(Derogada).
+Se deroga por la disposición derogatoria única de Ley 6/1994, de 20 de julio . Ref. BOE-A-1994-19701
+ Se mantiene la suspensión de la vigencia y aplicación de las letras a) a c), por Auto del TC de 27 de marzo de 1990. Ref. BOE-A-1990-8427
+ Téngase en cuenta que se declara el desistimiento en el recurso de inconstitucionalidad núm. 2011/1989, por Auto de 4 de julio de 1995. Ref. BOE-A-1995-17205
+ Se suspende la vigencia y aplicación de las letras a) a c) desde el 30 de octubre de 1989 para las partes en el proceso y desde el 8 de noviembre de 1989 para los terceros, por providencia del TC de 30 de octubre de 1989 que admite a trámite el recurso de inconstitucionalidad núm. 2011/1989. Ref. BOE-A-1989-26220
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Los Agentes, que pertenecientes al Cuerpo Especial de Agentes Forestales a que se refiere el Real Decreto 2711/1982, de 24 de septiembre, que en el momento de materializarse la transferencia a la Comunidad Autónoma de Canarias venían desempeñando en el territorio de la Comunidad puestos de carácter administrativo, pasarán a constituir un escalafón a extinguir de personal administrativo adscrito a la Consejería de Política Territorial, reduciéndose la plantilla de Agentes en el número de plazas que se incluyan en el nuevo escalafón y autorizándose a la Consejería de Hacienda a realizar las transferencias de crédito que sean precisas. No obstante, aquellos Agentes que vienen desempeñando funciones distintas a las propias de su Cuerpo, en otras Consejerías de la Comunidad Autónoma de Canarias diferentes a las de Política Territorial, seguirán cumpliendo tales funciones hasta que dejen de estar en situación de servicio activo o se produzca la jubilación gozando de todos los derechos, prerrogativas y obligaciones propias de su Cuerpo.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Gobierno para el desarrollo reglamentario de esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de Canarias».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, cooperen en su cumplimiento y que los Tribunales y Autoridades a los que corresponda la cumplan y hagan cumplir.
+Santa Cruz de Tenerife, 13 de julio de 1989.
+LORENZO OLARTE CULLEN,
+Presidente del Gobierno

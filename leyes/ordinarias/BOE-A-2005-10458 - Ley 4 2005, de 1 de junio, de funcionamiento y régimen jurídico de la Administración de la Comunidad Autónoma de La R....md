@@ -1,0 +1,1082 @@
+# Ley 4/2005, de 1 de junio, de funcionamiento y régimen jurídico de la Administración de la Comunidad Autónoma de La Rioja.
+
+- Identificador BOE: `BOE-A-2005-10458`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2005-10458
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA RIOJA
+Sepan todos los ciudadanos que el Parlamento de La Rioja ha aprobado, y yo, en nombre de su Majestad el Rey y de acuerdo con el que establece la Constitución y el Estatuto de Autonomía, promulgo la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+1
+El Estatuto de Autonomía de la Comunidad Autónoma de La Rioja señala que corresponde a la Comunidad Autónoma la creación y estructuración de su propia Administración Pública dentro de los principios generales y normas básicas del Estado.
+En efecto, en el artículo 149.1.18, la Constitución Española de 1978 enumera entre las materias en las que tiene competencia exclusiva el Estado, la relativa a las bases del régimen jurídico de las Administraciones Públicas, garantizando un tratamiento común de los Administrados ante ellas, habilitando para ello al establecimiento de un procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas.
+En desarrollo de la previsión estatutaria del artículo 26 del Estatuto de Autonomía de La Rioja, aprobado por la Ley Orgánica 3/1982, de 9 de junio, la Ley 3/1995, de 8 de marzo, de Régimen Jurídico del Gobierno y la Administración Pública de la Comunidad Autónoma de La Rioja establecía en el ámbito de nuestra Comunidad las especialidades propias de nuestra organización dentro de la normativa básica estatal.
+Por otro lado, nuestra norma estatutaria, diferencia en su articulado la Administración Pública, a la que dedica su Título III, y la organización institucional, integrada por el Parlamento, el Gobierno y su Presidente, regulada en el Título II. Respecto de esta última, el artículo 8 atribuye a la Comunidad Autónoma de La Rioja la competencia exclusiva para la organización, estructura, régimen y funcionamiento de sus instituciones de autogobierno.
+La Ley 3/1995, de 8 de marzo, de Régimen Jurídico del Gobierno y la Administración Pública de la Comunidad Autónoma de La Rioja, al margen ahora de otros precedentes anteriores, no se limitaba al desarrollo estatutario de la Administración Pública, sino que se refería igualmente a la organización, estructura, régimen y funcionamiento de las instituciones de autogobierno de la Comunidad Autónoma de La Rioja. Como señala su Exposición de Motivos, su principal característica es la regulación conjunta de la Administración Pública de la Comunidad y los aspectos básicos del Gobierno ya que ambas, si bien tienen una naturaleza conceptualmente diferente, directiva el uno y vicaria la otra, se encuentran íntimamente relacionados en su régimen funcional.
+2
+El enfoque integrador que inspiró la norma de 1995 ha quedado superado por la evolución legislativa posterior, en una primera instancia como consecuencia de la diferenciación sustantiva entre Gobierno y Administración Pública, apuntada como hemos dicho en el propio Estatuto de Autonomía, y en segunda instancia como consecuencia de la diferenciación normativa de los aspectos relativos a la organización interna de la Administración Pública y su Sector Público, frente a la regulación del régimen jurídico y funcionamiento de la Administración Pública.
+Esta distinción fue asumida, en lo que se refiere a la normativa estatal, por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y consagrada definitivamente, por lo que se refiere al Estado, en la regulación de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, y de la Ley 50/1997, de 27 de noviembre, del Gobierno.
+Esta doble diferenciación entre Gobierno y Administración, de un lado, y organización del sector público y el régimen jurídico y funcionamiento de la Administración Pública, de otro, ha inspirado igualmente las recientes reformas plasmadas en el ámbito de la Comunidad Autónoma de La Rioja, y presiden el contenido de la presente Ley.
+Al amparo de la competencia estatutaria para regular la organización, estructura, régimen y funcionamiento de sus instituciones de autogobierno y en lógico desarrollo de la diferenciación contenida en los Títulos II y III del Estatuto, se han aprobado las Leyes 3/2003, de 3 de marzo, de Organización del Sector Público de la Comunidad Autónoma de La Rioja y la 8/2003, de 28 de octubre, del Gobierno e Incompatibilidades de sus miembros. Sus ámbitos temáticos, debidamente actualizados, se han segregado de esta forma de la Ley 3/1995, de 8 de marzo.
+Como puede deducirse de lo expuesto, resta por completar en este nuevo planteamiento normativo una parte de los contenidos previstos en la Ley 3/1995, y que corresponden con la regulación del funcionamiento y régimen jurídico de la Administración General de la Comunidad Autónoma de La Rioja.
+3
+La presente Ley nace con la finalidad que acaba de describirse, y bajo el concepto superador de la vigente regulación que resultaba, en algunos casos, insuficiente; en otros, deficiente; y en general, obsoleta. Insuficiente para hacer frente a las necesidades y retos derivados del extraordinario desarrollo organizativo y competencial que ha experimentado la Comunidad Autónoma de La Rioja desde aquella fecha; deficiente, como ocurría en particular, con el procedimiento de elaboración de reglamentos.
+Teniendo en cuenta el reparto competencial establecido en nuestra Constitución, la Ley regula aquellos aspectos específicos del régimen jurídico y de funcionamiento de la Administración de la Comunidad Autónoma de La Rioja necesitados de concreción mediante un pronunciamiento expreso del legislador autonómico. La presente norma parte para ello del establecimiento de una serie de disposiciones generales que, recogiendo la esencia de los últimos procesos de mejora de nuestra organización, responden a la conveniencia de concretar los principios y valores que rigen el comportamiento de la Administración Pública de la Comunidad Autónoma de La Rioja en el contexto actual.
+En cuanto a la regulación de los aspectos comunes al resto de Administraciones, se opta en numerosos casos por la remisión a la legislación básica estatal, como ocurre, en particular, con las materias relativas al régimen de los actos administrativos, la revisión de actos o la responsabilidad patrimonial.
+No obstante, no debe olvidarse el carácter tributario de esta norma respecto de la normativa elaborada en 1995, especialmente patente al tratarse de la norma de cierre del nuevo esquema normativo iniciado con la aprobación de la citada Ley 3/2003. Este carácter tributario explica la inclusión en esta norma de algunos aspectos que sin ser estrictamente coincidentes con la finalidad de la norma tal y como se describe en su propio título deben ser regulados para evitar la aparición de vacíos normativos no deseados.
+En este sentido es oportuno aclarar algunas de las materias reguladas y excluidas de la presente Ley. Comenzando por estas últimas, quedan excluidas las cuestiones relacionadas con la organización administrativa en sentido estricto, reguladas en la Ley 3/2003, así como las referidas al Tribunal Económico Administrativo de La Rioja y al control interno de carácter económico financiero que deberán ser objeto de regulación específica en la normativa relativa a la Hacienda Pública de nuestra Comunidad, únicamente con este carácter transitorio se declaran vigentes los Capítulos I y III del Título VIII de la Ley 3/1995.
+En el capítulo de las materias reguladas en la presente Ley, y sin entrar en lo que podríamos denominar su contenido natural, destaca la inclusión de dos materias al considerarlas conveniente, dada su estrecha relación con el objeto de la norma, y teniendo en cuenta que la especificidad de las mismas no hace previsible que sean merecedoras de un desarrollo legal autónomo. Se trata en concreto de las cuestiones relativas a la Asistencia Jurídica en el ámbito de la Administración General de la Comunidad Autónoma de La Rioja y su sector público, y de las relativas a la contratación administrativa que tratan de recoger exclusivamente las especificidades que se consideran necesarias a la vista de amplia normativa básica estatal.
+4
+La presente Ley estructura su articulado en cinco Títulos, a los que se suman diez Disposiciones Adicionales, una Transitoria, una Derogatoria y dos Disposiciones Finales.
+En cuanto a las materias reguladas, el Título I, relativo al funcionamiento de la Administración, establece el objeto y ámbito de aplicación de la Ley, sus potestades y prerrogativas, los principios y reglas que deben inspirar su funcionamiento, con referencia expresa a algunos aspectos novedosos en nuestra legislación como son los relativos a la programación y racionalización administrativa. El Título I se completa con el marco jurídico que rige las relaciones de nuestra Administración con otras Administraciones o entidades, públicas o privadas, dando cabida a nuevos instrumentos provenientes de la normativa básica estatal como son los planes y programas de actuación.
+El Título II, relativo al ejercicio de sus competencias por los órganos de la Administración, reitera el principio clásico de irrenunciabilidad de la competencia y de dirección e impulso mediante instrucciones, circulares y órdenes del servicio, así como el de colaboración entre las distintas Consejerías. Además, concreta los aspectos organizativos relacionados con las técnicas relativas al ejercicio de las competencias administrativas, transferencia, delegación, avocación, encomienda de gestión, etc., estableciendo finalmente el marco para la resolución de los conflictos de atribuciones que se produzcan.
+El Título III, relativo al régimen jurídico de la actuación de la Administración de la Comunidad Autónoma, es el más extenso y el que por su contenido, resulta nuclear en la estructura de la Ley.
+El Capítulo I de este Título III está dedicado a los Reglamentos, regulando las disposiciones generales relativas a la competencia para dictarlos, a su concepto y la forma que adoptarán, y entrando en detalle en la concreción del iter procedimental que ha seguirse para su elaboración y aprobación, superando de esta forma las deficiencias existentes en el régimen jurídico anterior.
+Entre las novedades relativas a la elaboración y aprobación de los reglamentos, destaca la diferenciación clara entre los trámites de audiencia a los interesados y el de información pública, la participación de las Entidades Locales en el proceso de elaboración de los reglamentos, la ordenación de los trámites y documentación que deben seguir y acompañar a los distintos borradores y, de manera especial, obliga a la Administración a valorar las observaciones, alegaciones e informes emitidos y a justificar las propuestas concretas incluidas finalmente. La finalidad de estas previsiones es realzar la importancia otorgada a los mecanismos de participación e informe como garantías esenciales del procedimiento de elaboración de reglamentos.
+El Capítulo II está dedicado a los actos administrativos y concreta, dentro de las previsiones ya recogidas en la normativa básica estatal, la importante cuestión práctica de los actos que ponen fin a la vía administrativa.
+El Capítulo III está dedicado al Registro de documentos, dando entrada al uso de las tecnologías de la información que deberán redundar en una mayor accesibilidad de los ciudadanos y eficacia de la acción administrativa.
+El Capítulo IV está dedicado a la revisión de los reglamentos y actos administrativos, en el que se concretan los aspectos derivados de las peculiaridades derivadas de la organización propia de la Administración. Como novedad merece destacarse la regulación de la sustitución de los recursos administrativos por reclamaciones que resolverán comisiones técnicas especializadas, posibilidad que deberá ser objeto de desarrollo reglamentario.
+El Capítulo V, dedicado a la potestad sancionadora, viene motivado por las decisiones del legislador básico estatal. La Sección 1.ª establece la competencia para sancionar y la Sección 2.ª formaliza un procedimiento sancionador, que será el aplicable con carácter general por la Administración de la Comunidad Autónoma de La Rioja, salvo procedimiento específico expreso.
+Finalmente, el Capítulo VI regula la responsabilidad patrimonial, limitada a concretar los órganos competentes para instruir y resolver los procedimientos, dado que en cuanto a la regulación sustantiva remite, como no podía ser de otra forma, a la legislación común en la materia.
+El Título IV, relativo a la Asistencia Jurídica de la Administración de la Comunidad Autónoma en el marco de lo previsto en el artículo 551.3 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y cuyo contenido mejora sustancialmente la regulación anterior a partir de la experiencia acumulada en estos años. Su Capítulo I atribuye esta asistencia jurídica a los Servicios Jurídicos, y en particular, a los letrados adscritos a la Dirección General de los Servicios Jurídicos. El Capítulo II regula el régimen de actuación de los Servicios Jurídicos en las funciones consultivas y en las contenciosas, así como otros aspectos conexos de dicha actividad.
+Por último, el Título V, referido a la contratación administrativa, concreta aquellas peculiaridades derivadas de la organización propia en materia de contratación, tales como los órganos de contratación propios o el registro de contratos.
+Se cierra la norma con un conjunto de Disposiciones Adicionales, Transitorias y Finales.
+
+## TÍTULO I
+
+Del funcionamiento de la Administración de la Comunidad Autónoma de La Rioja
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. La presente Ley tiene por objeto regular el funcionamiento y régimen jurídico de la Administración General de la Comunidad Autónoma de La Rioja.
+2. Los organismos públicos con personalidad jurídica propia, vinculados o dependientes de la Administración General de la Comunidad Autónoma de La Rioja, sujetarán su actividad a la presente Ley cuando ejerzan potestades administrativas, sometiéndose en el resto de su actividad a lo que dispongan sus normas de creación.
+
+### Artículo 2
+
+Artículo 2. Potestades y prerrogativas.
+1. La Administración General de la Comunidad Autónoma de La Rioja, de acuerdo con el artículo 31 del Estatuto de Autonomía, gozará en el ejercicio de sus competencias de las potestades y prerrogativas que el ordenamiento jurídico reconoce a la Administración General del Estado.
+2. A los organismos públicos les corresponderá, dentro de su esfera de competencia, las potestades administrativas necesarias para el cumplimiento de sus fines, en los términos que prevean sus estatutos, salvo la potestad expropiatoria.
+
+### Artículo 3
+
+Artículo 3. Principios de funcionamiento.
+1. La Administración General de la Comunidad Autónoma de La Rioja y sus organismos públicos ajustarán su actividad a los siguientes principios:
+a) Colaboración mutua y lealtad institucional en sus relaciones con los demás Poderes y Administraciones Públicas.
+b) Colaboración y coordinación entre sus distintos órganos y organismos públicos.
+c) Eficacia en el cumplimiento de los objetivos institucionales.
+d) Eficiencia en la asignación y en la utilización de los recursos públicos.
+e) Planificación, gestión por objetivos y control de los resultados.
+f) Responsabilidad por la gestión pública.
+g) Racionalización de los procedimientos administrativos y de las actividades materiales de gestión.
+h) Servicio efectivo y proximidad de la Administración a los ciudadanos.
+i) Transparencia y publicidad, que garanticen la efectividad de los derechos reconocidos a los ciudadanos, con las excepciones que la Ley establezca.
+j) Buena fe y confianza legítima.
+2. La Administración General de la Comunidad Autónoma de La Rioja, impulsará de manera especial la prestación de servicios de asistencia y cooperación a los municipios de su ámbito territorial, como Administraciones más próximas a los ciudadanos.
+
+### Artículo 4
+
+Artículo 4. Derechos de los ciudadanos.
+Los ciudadanos gozarán, en sus relaciones con la Administración General de la Comunidad Autónoma de La Rioja y sus organismos públicos, de los derechos reconocidos con carácter general en la legislación básica del régimen jurídico de las Administraciones Públicas y de cuantos estén establecidos en las disposiciones aplicables en cada caso.
+
+### Artículo 5
+
+Artículo 5. Derecho de información.
+1. Sin perjuicio del derecho que asiste a los interesados en un procedimiento de conocer en cualquier momento el estado de su tramitación, la Administración General de la Comunidad Autónoma de La Rioja y sus organismos públicos contarán con los instrumentos de información que garanticen a los ciudadanos el efectivo conocimiento por parte de éstos del procedimiento a seguir para las solicitudes o actuaciones que se propongan realizar ante aquélla. Reglamentariamente se determinará la articulación de los instrumentos de información a que se refiere este artículo.
+2. La información sobre el estado o el contenido de los procedimientos en tramitación y la identificación de las autoridades y de los funcionarios bajo cuya responsabilidad se tramiten los procedimientos, sólo podrá facilitarse a quienes tengan la condición de interesado en el procedimiento o a sus representantes acreditados formalmente por cualquier medio válido en derecho que deje constancia fidedigna o mediante declaración en comparecencia personal del interesado. Corresponderá a las diferentes unidades de gestión de la Administración de la Comunidad Autónoma facilitar esta información.
+3. Los órganos administrativos establecerán las garantías necesarias respecto a la esfera privada de los administrados y el control y el tratamiento de los datos obtenidos por cualquier medio.
+
+### Artículo 6
+
+Artículo 6. Programación de la gestión administrativa.
+1. La Administración General de la Comunidad Autónoma establecerá programas plurianuales y anuales en los que se definirán objetivos concretos, las actividades y los medios necesarios para llevarlos a cabo, así como el tiempo estimado para su consecución. Estos programas se basarán en los objetivos políticos y en los plazos fijados por el Gobierno de La Rioja y determinarán los responsables de su ejecución.
+2. El grado de cumplimiento de los objetivos fijados en los programas a los que se refieren los apartados anteriores será evaluado periódicamente por los órganos con competencia específica para ello en el ámbito de la Administración General de la Comunidad Autónoma.
+
+### Artículo 7
+
+Artículo 7. Racionalización de los procedimientos.
+Corresponderá a los órganos competentes de cada Consejería y organismos públicos de la Comunidad Autónoma racionalizar y simplificar sus procedimientos y actividades de gestión, bien a iniciativa propia, bien a propuesta de la Consejería competente en materia de organización administrativa.
+
+### Artículo 8
+
+Artículo 8. Medios informáticos y telemáticos.
+1. La tramitación de los procedimientos administrativos se apoyará en la utilización de medios electrónicos, informáticos y telemáticos, con respeto de las garantías y cumplimiento de los requisitos previstos en cada caso por el ordenamiento jurídico.
+2. La introducción de medios informáticos y telemáticos en la gestión administrativa estará presidida por los principios de eficiencia y proporcionalidad de las inversiones realizadas, y se ajustará a los criterios establecidos, en su caso, por la Consejería competente en materia de Tecnologías de la Información en la Administración Pública.
+
+### Artículo 9
+
+Artículo 9. Control de eficacia y de eficiencia.
+1. Los órganos administrativos de la Administración General de la Comunidad Autónoma se someterán periódicamente a controles, auditorías o inspecciones para evaluar su eficacia en el cumplimiento de los objetivos que les hayan sido asignados, así como su eficiencia en la utilización de los recursos disponibles.
+2. El control al que se refiere el apartado anterior se realizará con arreglo a los criterios y directrices que se dicten por la Consejería competente en materia de organización administrativa, y se entenderá sin perjuicio del control que le corresponde a la Intervención General.
+
+## CAPÍTULO II
+
+De las relaciones de la Administración de la Comunidad Autónoma
+
+### Artículo 10
+
+Artículo 10. Instrumentos de colaboración y cooperación.
+Para hacer efectivos los principios generales que rigen las relaciones interadministrativas, la Administración de la Comunidad Autónoma utilizará los instrumentos y técnicas de colaboración y cooperación previstos en la legislación básica del Estado y en el resto de normas del ordenamiento jurídico.
+Se modifica por el art. 13.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 11
+
+Artículo 11. Convenios.
+1. La Administración general de la Comunidad Autónoma de La Rioja, sus organismos públicos y entidades de derecho público vinculados o dependientes podrán celebrar convenios con otros sujetos de derecho público para fines de interés común en el ejercicio de competencias propias o delegadas, o con entidades privadas para la consecución de fines de interés público.
+2. La Administración general podrá celebrar convenios con sus organismos públicos y otros entes integrantes de su sector público.
+3. La Comunidad Autónoma de La Rioja podrá celebrar convenios y acuerdos de cooperación con otras comunidades autónomas o territorios de régimen foral para la gestión y prestación de los servicios propios de su competencia, de acuerdo con lo establecido por la Constitución y por el artículo 14 del Estatuto de Autonomía.
+Se modifica por el art. 13.2 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 12
+
+Artículo 12. Contenido y requisitos de los convenios.
+Los instrumentos de formalización de los convenios incluirán:
+a) Sujetos que suscriben el convenio y la capacidad jurídica con que actúa cada una de las partes.
+b) La competencia en la que se fundamenta la actuación de la Administración Pública, de los organismos públicos y las entidades de derecho público vinculados o dependientes de ella o de las Universidades públicas.
+c) Objeto del convenio y actuaciones a realizar por cada sujeto para su cumplimiento, indicando, en su caso, la titularidad de los resultados obtenidos. Los convenios no podrán tener por objeto prestaciones propias de los contratos.
+d) Obligaciones y compromisos económicos asumidos por cada una de las partes, si los hubiera, indicando su distribución temporal por anualidades y su imputación concreta al presupuesto correspondiente de acuerdo con lo previsto en la legislación presupuestaria.
+e) Consecuencias aplicables en caso de incumplimiento de las obligaciones y compromisos asumidos por cada una de las partes y, en su caso, los criterios para determinar la posible indemnización por el incumplimiento.
+f) Mecanismos de seguimiento, vigilancia y control de la ejecución del convenio y de los compromisos adquiridos por los firmantes. Este mecanismo resolverá los problemas de interpretación y cumplimiento que puedan plantearse respecto de los convenios.
+g) El régimen de modificación del convenio. A falta de regulación expresa, la modificación del contenido del convenio requerirá acuerdo unánime de los firmantes.
+h) Plazo de vigencia del convenio teniendo en cuenta las siguientes reglas:
+1.º Los convenios deberán tener una duración determinada, que no podrá ser superior a cuatro años, salvo que normativamente se prevea un plazo superior.
+2.º En cualquier momento antes de la finalización del plazo previsto en el apartado anterior, los firmantes del convenio podrán acordar unánimemente su prórroga por un periodo de hasta cuatro años adicionales o su extinción.
+Esta prórroga deberá ser comunicada al Registro Electrónico de Convenios.
+Se modifica por el art. 13.3 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 13
+
+Artículo 13. Requisitos de validez y eficacia de los convenios.
+1. La Administración general y sus organismos públicos y entidades de derecho público vinculados o dependientes, en el ámbito de sus respectivas competencias, podrán suscribir convenios con sujetos de derecho público y privado, sin que ello pueda suponer cesión de la titularidad de la competencia.
+2. La suscripción de convenios deberá mejorar la eficiencia de la gestión pública, facilitar la utilización conjunta de medios y servicios públicos, contribuir a la realización de actividades de utilidad pública y cumplir con la legislación de estabilidad presupuestaria y sostenibilidad financiera.
+3. La gestión, justificación y resto de actuaciones relacionadas con los gastos derivados de los convenios que incluyan compromisos financieros para la Administración Pública o cualquiera de sus organismos públicos o entidades de derecho público vinculados o dependientes que lo suscriban, así como con los fondos comprometidos en virtud de dichos convenios, se ajustarán a lo dispuesto en la legislación presupuestaria.
+4. Los convenios que incluyan compromisos financieros deberán ser financieramente sostenibles, debiendo quienes los suscriban tener capacidad para financiar los asumidos durante la vigencia del convenio.
+5. Las aportaciones financieras que se comprometan a realizar los firmantes no podrán ser superiores a los gastos derivados de la ejecución del convenio.
+6. Cuando el convenio instrumente una subvención deberá cumplir con lo previsto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y en el Decreto 14/2006, de 16 de febrero, regulador del régimen jurídico de las subvenciones en el Sector Público de la Comunidad Autónoma de La Rioja.
+Asimismo, cuando el convenio tenga por objeto la delegación de competencias en una entidad local, deberá cumplir con lo dispuesto en la legislación de régimen local.
+7. Los convenios tendrán efecto entre las partes a partir de la firma, salvo que en ellos se disponga otra cosa. En el caso de los convenios firmados con la Administración general del Estado, se estará a lo que dispone el artículo 48.8 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+8. Las normas del presente capítulo no serán de aplicación a las encomiendas de gestión ni a los acuerdos de terminación convencional de los procedimientos administrativos.
+Se modifica por el art. 13.4 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 14
+
+Artículo 14. Gestión de los Convenios.
+Cuando la gestión de un convenio haga necesario crear una organización común, ésta podrá adoptar la forma de consorcio con personalidad jurídica propia o sociedad mercantil.
+
+### Artículo 15
+
+Artículo 15. Registro y publicidad.
+Todos los convenios que se suscriban deberán ser inscritos en el Registro Electrónico de Convenios, que dependerá de la consejería con competencias en materia de Secretariado de Gobierno, y que se declara de acceso público y gratuito a través del Portal del Gobierno de La Rioja. También se dará publicidad de los mismos convenios en el «Boletín Oficial de La Rioja», serán publicados en el Portal de la Transparencia y se comunicarán al Parlamento de La Rioja.
+Se modifica por el art. 13.5 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 16
+
+Artículo 16. Protocolos generales de actuación.
+Los protocolos generales de actuación que apruebe la Administración de la Comunidad Autónoma, de acuerdo con la legislación básica del Régimen Jurídico de las Administraciones Públicas, se regirán, en lo referente a su contenido y a sus efectos, por la normativa básica del Estado, y por lo establecido para los convenios en el presente capítulo en todo aquello que les sea de aplicación.
+Se modifica por el art. 13.6 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+## TÍTULO II
+
+Del ejercicio de sus competencias por los órganos de la Administración de la Comunidad Autónoma
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 17
+
+Artículo 17. Irrenunciabilidad de la competencia.
+Las competencias otorgadas por el ordenamiento jurídico son irrenunciables y serán ejercidas por el órgano administrativo que las tenga atribuidas como propias, salvo los supuestos de delegación o avocación, realizadas de acuerdo con la Ley.
+
+### Artículo 18
+
+Artículo 18. Instrucciones, circulares y órdenes de servicio.
+1. Los órganos de la Administración impulsarán y dirigirán la actividad de los órganos y unidades administrativas mediante instrucciones, circulares y órdenes de servicio.
+2. Las instrucciones establecen pautas o criterios de actuación por la que han de regirse los órganos y las unidades administrativas dependientes del órgano que las dicta.
+3. Las circulares tienen como finalidad recordar la aplicación de determinadas disposiciones legales o establecer la interpretación adecuada al espíritu y principios de tales disposiciones al objeto de garantizar su aplicación homogénea.
+4. Las órdenes de servicio son aquellas reglas de actuación o normas específicas dadas a un órgano o a unidades administrativas jerárquicamente dependientes, para un supuesto determinado.
+5. Cuando una disposición así lo establezca o en aquellos casos en que se considere conveniente su conocimiento por los ciudadanos o por el resto de los órganos de la Administración de la Comunidad Autónoma, el órgano que las dictó podrá ordenar la publicación de las instrucciones, circulares y órdenes de servicio en el Boletín Oficial de La Rioja.
+
+### Artículo 19
+
+Artículo 19. Colaboración entre Consejerías.
+Los titulares de las Consejerías podrán suscribir entre sí acuerdos de colaboración para la realización de actuaciones administrativas en ejercicio de sus competencias, con el fin de hacer efectivos los principios de eficacia, eficiencia y colaboración mutua.
+
+## CAPÍTULO II
+
+De la transferencia de la titularidad de la competencia
+
+### Artículo 20
+
+Artículo 20. Desconcentración.
+1. El Gobierno y los Consejeros pueden desconcentrar las competencias propias en los órganos administrativos jerárquicamente dependientes de ellos. La desconcentración afectará tanto a la titularidad como al ejercicio de la competencia.
+2. La desconcentración debe respetar tanto las previsiones de la Ley, cuando ésta haya atribuido la competencia, como las limitaciones previstas para la delegación de competencias.
+3. Las competencias desconcentradas podrán ser delegadas de acuerdo con lo previsto en esta Ley.
+
+## CAPÍTULO III
+
+De la delegación de competencias y otras formas de ejercicio de las competencias
+
+### Artículo 21
+
+Artículo 21. Delegación de competencias.
+1. El ejercicio de las competencias asignadas a los diversos órganos administrativos, podrá ser delegado en otros órganos, aunque no sean jerárquicamente dependientes de aquéllos, o de los organismos públicos vinculados o dependientes, cuando concurran circunstancias que lo hagan conveniente.
+2. La delegación de las competencias de carácter administrativo de los órganos del Gobierno y de sus miembros se regirá además de por lo dispuesto en esta Ley, por lo dispuesto en su legislación específica.
+
+### Artículo 22
+
+Artículo 22. Régimen jurídico de la delegación.
+1. La delegación de competencias se efectuará mediante resolución del órgano delegante. Cuando la delegación se realice a favor de órganos no jerárquicamente dependientes, será preceptivo el informe previo favorable del titular de la Consejería o Consejerías de que dependan.
+2. La delegación de competencias y su revocación deberán publicarse en el Boletín Oficial de La Rioja.
+3. En ningún caso podrán ser objeto de delegación las materias previstas en el artículo 9.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. Salvo autorización legal expresa, tampoco podrán delegarse las competencias que se ejerzan por delegación.
+4. Las resoluciones administrativas que se adopten por delegación indicarán expresamente esta circunstancia y se considerarán dictadas por el órgano delegante.
+5. La delegación de competencias atribuidas a órganos colegiados para cuyo ejercicio ordinario se requiera un quórum especial, deberá adoptarse observando, en todo caso, dicho quórum.
+Se modifican los apartados 3 y 4 por el art. 13.7 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 23
+
+Artículo 23. Avocación.
+1. Los órganos administrativos podrán, en cualquier momento, avocar para sí el conocimiento de un asunto cuya resolución corresponda, ordinariamente o por delegación, a sus órganos administrativos dependientes, cuando concurran razones de interés público que lo justifiquen.
+2. En los supuestos de delegación de competencias en órganos jerárquicamente no dependientes, la avocación sólo podrá efectuarse por el órgano que realizó la delegación.
+3. La avocación se producirá mediante acuerdo motivado que deberá ser notificado a los interesados en el procedimiento, antes de la resolución final.
+4. Contra el acuerdo de avocación no cabrá recurso alguno, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución final.
+
+### Artículo 24
+
+Artículo 24. Encomienda de gestión.
+1. La encomienda de gestión a un órgano de la misma consejería, o a un organismo público dependiente o adscrito, se instrumentará mediante resolución del titular de la misma. La validez de tal resolución exige expresa mención de la actividad o actividades a las que afecten, el plazo de vigencia y la naturaleza y alcance de la gestión encomendada.
+2. La encomienda de gestión a un órgano dependiente de otra consejería, o a un organismo público dependiente o adscrito a otra consejería, requerirá la conformidad de las consejerías afectadas y se instrumentará mediante acuerdo del Consejo de Gobierno, que incluirá al menos el mismo contenido previsto en el apartado anterior.
+3. La encomienda de gestión a un órgano u organismo público de otras Administraciones o la asunción mediante esta figura de cometidos propios de las mismas requerirá la firma del correspondiente convenio, que deberá ser autorizado por el Consejo de Gobierno, u órgano en que delegue, en los términos previstos en la legislación reguladora del Gobierno, y sin perjuicio del régimen establecido para las entidades locales o encomiendas realizadas a favor de las entidades locales de la Comunidad Autónoma de La Rioja, que se sujetarán al régimen establecido en su legislación específica.
+4. En todo caso, el instrumento de formalización de la encomienda de gestión y su resolución deberá ser publicado en el “Boletín Oficial de La Rioja” para su eficacia.
+5. En todo caso, la entidad u órgano encomendado tendrá la condición de encargado del tratamiento de los datos de carácter personal a los que pudiera tener acceso en ejecución de la encomienda de gestión, siéndole de aplicación lo dispuesto en la normativa de protección de datos de carácter personal.
+Se modifica por el art. 13.8 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 25
+
+Artículo 25. Delegación de firma.
+1. Los titulares de los órganos administrativos podrán delegar la firma de las resoluciones y actos administrativos de su competencia en los titulares de los órganos y unidades administrativas que de ellos dependan, dentro de los límites señalados para la delegación de competencia en la presente Ley.
+2. En las resoluciones y actos que se firmen por delegación, se hará constar la denominación del órgano autorizante y a continuación, precedido por la expresión «por autorización», o su forma usual de abreviatura, la denominación del órgano en cuyo favor se haya conferido la delegación de firma.
+3. La delegación de firma no supondrá, en ningún caso, alteración de la competencia ni precisará publicación oficial.
+4. No cabrá la delegación de firma en las resoluciones de carácter sancionador.
+
+### Artículo 26
+
+Artículo 26. Suplencia.
+1. Los titulares de los órganos administrativos podrán ser sustituidos provisionalmente en el ejercicio de sus funciones, en los casos de vacante, ausencia, enfermedad, por quien designe el órgano competente para su nombramiento.
+2. Si no se designa suplente, la competencia del órgano administrativo se ejercerá por quien designe el órgano administrativo inmediato de quien dependa.
+3. La suplencia no supone alteración de la competencia.
+
+## CAPÍTULO IV
+
+De los conflictos de atribuciones
+
+### Artículo 27
+
+Artículo 27. Órganos.
+1. Los conflictos de atribuciones que se susciten entre las Consejerías de la Administración General de la Comunidad Autónoma los resolverá el Presidente del Gobierno previo dictamen del Consejo Consultivo de La Rioja.
+2. Los conflictos de atribuciones que se susciten entre órganos de una Consejería que no estén relacionados jerárquicamente los resolverá el titular de la Consejería.
+
+### Artículo 28
+
+Artículo 28. Procedimiento.
+1. El conflicto de atribuciones podrá plantearse a partir de una decisión positiva o negativa sobre el cono-cimiento y la resolución de un determinado asunto que manifiesten los órganos afectados, de oficio o a instancia de los interesados en el procedimiento.
+2. Una vez que los órganos que planteen el conflicto fijen su posición, el que estuviere conociendo del asunto suspenderá su tramitación, lo notificará a los interesados y elevará las actuaciones al órgano que, de acuerdo con lo dispuesto en el artículo anterior, sea competente para resolver.
+3. El conflicto se resolverá y notificará dentro del plazo máximo de quince días contados a partir de aquél en el que se eleven las actuaciones al órgano competente para resolver.
+4. Si no se resuelve expresamente, la competencia corresponderá al órgano que conoció inicialmente del asunto, aunque hubiere declinado su competencia. En ese supuesto, los interesados podrán reclamar que prosigan las actuaciones, sin perjuicio de la reserva de recursos y acciones para cuando procediere su ejercicio.
+
+## TÍTULO III
+
+Del régimen jurídico de la actuación de la Administración de la Comunidad Autónoma
+
+## CAPÍTULO I
+
+De la iniciativa legislativa y la potestad reglamentaria
+Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 28 bis
+
+Artículo 28 bis. Principios de buena regulación.
+1. En el ejercicio de la iniciativa legislativa y la potestad reglamentaria, la Administración autonómica actuará de acuerdo con los siguientes principios de buena regulación:
+a) Principio de necesidad y eficacia, en virtud del cual la iniciativa normativa debe estar justificada por una razón de interés general, tener los objetivos identificados y ser el instrumento más adecuado para garantizar su consecución.
+b) Principio de proporcionalidad, en virtud del cual la iniciativa deberá contener la regulación imprescindible para atender sus objetivos, tras constatar que no existen otras medidas menos restrictivas de derechos o que impongan menos cargas y obligaciones a las personas destinatarias.
+c) Principio de seguridad jurídica, que implica garantizar la coherencia de la norma con el resto del ordenamiento jurídico autonómico, nacional y de la Unión Europea.
+d) Principio de transparencia, que permite el acceso de la ciudadanía al procedimiento de elaboración de las normas, posibilitando su participación.
+e) Principio de accesibilidad, que implica que la norma sea clara, comprensible y conocida por las personas destinatarias.
+f) Principio de eficiencia, en virtud del cual la iniciativa normativa debe evitar trámites administrativos innecesarios o accesorios y racionalizar en su aplicación la gestión de los recursos públicos.
+2. Cuando la iniciativa normativa afecte a los gastos o ingresos públicos presentes o futuros, se deberán cuantificar y valorar sus repercusiones y efectos y supeditarse al cumplimiento de los principios de estabilidad presupuestaria y sostenibilidad financiera.
+3. Para garantizar la aplicación de los principios de buena regulación, el proceso de creación y tramitación de las normas se encauzará a través de la Memoria de Análisis de Impacto Normativo.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se añade por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 28 ter
+
+Artículo 28 ter. Memoria de Análisis de Impacto Normativo.
+1. La Memoria de Análisis de Impacto Normativo (en adelante, MAIN) tiene una doble finalidad:
+a) Evaluar los efectos de la norma antes de su aprobación, estructurando la información necesaria para la valoración y toma de decisiones basada en la evidencia.
+b) Garantizar la calidad de la norma, incorporando las aportaciones de los procesos de participación y las declaraciones de juicio emitidas por los órganos informantes.
+2. La MAIN se redactará de forma simultánea a la elaboración del borrador y será actualizada durante el transcurso del procedimiento.
+3. La MAIN contendrá los siguientes extremos:
+a) Oportunidad de la propuesta de norma que, en todo caso, incluirá:
+1.º Identificación clara de los fines y objetivos perseguidos.
+2.º Fundamentación de su adecuación a los principios de buena regulación y, especialmente:
+a. Justificación de la razón de interés general que justifique la aprobación de la norma y que esta es el instrumento más adecuado para garantizar su consecución.
+b. Explicación de su adecuación al principio de proporcionalidad, de forma que la iniciativa contenga la regulación imprescindible para atender la necesidad a cubrir, tras constatar que no existen otras medidas menos restrictivas de derechos o que impongan menos obligaciones a los destinatarios.
+c. Análisis de alternativas estudiadas y la justificación de la necesidad de la nueva norma frente a la alternativa de no aprobar ninguna regulación.
+b) Contenido y análisis jurídico, que incluirá los siguientes extremos:
+1.º Análisis sobre la adecuación de la propuesta de norma al orden de distribución de competencias, precisando el título o títulos competenciales en el que se basa.
+2.º La justificación sobre el rango del proyecto normativo, resumen de las principales novedades introducidas y su debida coherencia con el resto del ordenamiento jurídico. Contendrá el listado pormenorizado de las normas que quedarán derogadas como consecuencia de la entrada en vigor de la misma.
+3.º Estudios e informes previos que le sirvan de fundamento, y breve descripción de los trámites seguidos en el procedimiento de elaboración de la propuesta, de la participación de agentes y sectores interesados y del resultado de la consulta pública y de la audiencia pública, en su caso.
+4.º Cuando se trate de la creación de nuevos órganos y unidades, la acreditación de la no coincidencia de sus funciones y atribuciones con la de otros órganos y unidades existentes.
+5.º La relación de los informes o trámites que se consideran necesarios en la tramitación del procedimiento.
+c) Análisis de simplificación administrativa. Cuando se regule un procedimiento administrativo o se impongan cargas a la ciudadanía, se incluirán:
+1.º Análisis de diseño funcional de simplificación y digitalización.
+2.º Los factores tenidos en cuenta para fijar el plazo máximo de duración y su justificación si el mismo es superior a tres meses.
+3.º Efectos del silencio y su justificación cuando se establezca efecto desestimatorio.
+4.º Cuando se establezcan nuevos trámites o se incorporen nuevos documentos en los procedimientos administrativos, adicionales o distintos a los previstos en la legislación del procedimiento administrativo común y de la legislación autonómica de simplificación, se justificará que son eficaces, proporcionados y necesarios para la consecución de los fines propios del procedimiento.
+d) Análisis de los impactos económicos y sociales:
+1.º El impacto económico.
+2.º El impacto presupuestario.
+3.º El impacto presupuestario en las entidades locales de La Rioja, en su caso.
+4.º Los impactos sociales por razón de género, en la infancia y adolescencia, en la familia, discapacidad y los demás tipos de impactos exigidos por normas con rango de ley o el resto de la normativa básica.
+e) Análisis de impacto en la protección de datos.
+f) Evaluación ex post, que incluirá la procedencia o no de la evaluación posterior de la norma y, en caso de que proceda, el plazo y la forma en la que se analizarán los resultados de su aplicación.
+g) Una descripción del procedimiento seguido desde que se declare formado el expediente hasta su finalización, en la que se recogerán las novedades más significativas que se produzcan, los trámites practicados y su resultado, las modificaciones introducidas en el texto del anteproyecto como consecuencia del trámite de audiencia, en su caso, e informes preceptivos, así como una exposición motivada de aquellas observaciones y propuestas que hayan sido rechazadas.
+4. Cuando el órgano proponente estime que de la propuesta normativa no se derivan impactos económicos, presupuestarios, sociales, sobre las cargas administrativas o cualquier otro análogo, o estos no sean significativos, podrá realizarse una memoria abreviada en la que se prescinda de determinados análisis, justificando por qué no se aprecian los impactos en cada ámbito.
+5. El órgano proponente elaborará y actualizará la Memoria en los apartados a) a f). La secretaría general técnica competente para la tramitación del proyecto normativo elaborará y actualizará el contenido del apartado g) de la Memoria. Una vez finalizado el procedimiento, la MAIN final será suscrita por la secretaría general técnica.
+Se añade por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+
+### Artículo 29
+
+Artículo 29. Competencia.
+La iniciativa legislativa y la potestad reglamentaria se ejercerán por los órganos que la tienen reconocida de acuerdo con el Estatuto de Autonomía y la legislación reguladora en el ámbito del Gobierno y de la Administración General de la Comunidad Autónoma de La Rioja.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 30
+
+Artículo 30. Concepto y forma de las disposiciones reglamentarias.
+1. A los efectos de esta ley, se entiende por reglamento toda disposición de carácter general de rango inferior a la ley dictada por cualquiera de los órganos que tienen atribuida expresamente competencia para ello.
+2. No tendrán la consideración de disposiciones de carácter general:
+a) Los actos administrativos generales que tengan como destinatarios una pluralidad indeterminada de destinatarios y su contenido se agote con su sola aplicación o requieran actos de ejecución cuyo contenido esté predeterminado por aquellos, que adoptarán la forma de resolución.
+b) Los actos administrativos generales mediante los que se haga público a las personas interesadas el inicio de los plazos para presentar solicitudes en procedimientos selectivos y de concurrencia competitiva, que adoptarán, igualmente, la forma de resolución.
+c) Los planes, programas, calendarios y otros instrumentos de carácter organizativo que despliegan su eficacia en el ámbito interno de la Administración, aun cuando alguna norma requiera su aprobación bajo la forma de decreto u orden.
+3. Los reglamentos adoptarán la forma de decreto si son aprobados por el Consejo de Gobierno y de orden si son aprobados por la persona titular de la consejería.
+4. Los decretos serán firmados por la Presidencia del Gobierno. Las órdenes serán firmadas por la persona titular de la consejería competente.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 31
+
+Artículo 31. Principio de jerarquía e inderogabilidad singular de los reglamentos.
+1. Los reglamentos se ajustarán a la siguiente jerarquía normativa:
+a) Decretos, aprobados por el Consejo de Gobierno.
+b) Órdenes, por la persona titular de la consejería.
+2. Los reglamentos no podrán contener preceptos opuestos a la Constitución, al Estatuto de Autonomía y a las leyes u otras disposiciones administrativas de rango superior, ni regular materias reservadas a la ley, ni establecer la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.
+3. Son nulos de pleno derecho los reglamentos que infrinjan lo establecido en el apartado anterior.
+4. Los actos administrativos no podrán vulnerar lo establecido en un reglamento, aunque procedan de un órgano de igual o superior rango a aquel que dictó el reglamento.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 32
+
+Artículo 32. Publicidad y control.
+1. Las leyes y los reglamentos entrarán en vigor a los veinte días de su publicación en el «Boletín Oficial de La Rioja», salvo que en ellos se establezca otro plazo distinto.
+2. Contra las disposiciones reglamentarias, sea cual fuere el órgano del que emanen, no procede ningún recurso administrativo, siendo susceptibles de recurso contencioso-administrativo de acuerdo con la legislación procesal aplicable.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+## Sección 2
+
+Sección 2.ª Elaboración de leyes y reglamentos
+Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 32 bis
+
+Artículo 32 bis. Consulta previa.
+(Suprimido)
+Se suprime por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se añade por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 33
+
+Artículo 33. Actuaciones previas y estructura del procedimiento.
+Con carácter general, y sin perjuicio de las especialidades que pudieran derivarse, el procedimiento para la elaboración de disposiciones normativas de carácter general se estructura en los siguientes trámites:
+a) Resolución de inicio.
+b) Consulta previa, en su caso.
+c) Elaboración del proyecto normativo y Memoria de Análisis de Impacto Normativo (MAIN).
+d) Formación del expediente.
+e) Trámite de audiencia, en su caso.
+f) Informes preceptivos.
+g) Informe de la Dirección General de los Servicios Jurídicos.
+h) Dictamen del Consejo Consultivo, en su caso.
+i) Aprobación por el órgano competente.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 33 bis
+
+Artículo 33 bis. Resolución de inicio.
+1. El procedimiento para la elaboración de las leyes se iniciará siempre mediante resolución de la persona titular de la consejería competente por razón de la materia.
+2. El procedimiento para la elaboración de los reglamentos podrá iniciarse en cualquier caso mediante resolución de la persona titular de la consejería competente por razón de la materia. También podrá iniciarse mediante resolución de la persona titular de la dirección general competente por razón de la materia o, en el caso de que la norma afecte a competencias de varias direcciones generales, de la persona titular de su secretaría general técnica.
+3. La resolución de inicio expresará sucintamente el objeto y finalidad de la norma, las normas legales que, en su caso, deba desarrollar, así como el fundamento jurídico relativo a la competencia ejercida. La resolución podrá señalar la unidad administrativa a la que se encomiende la elaboración del borrador o constituir un grupo de trabajo con ese fin, designando a los miembros que lo integrarán.
+Se añade por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+
+### Artículo 33 ter
+
+Artículo 33 ter. Consulta previa.
+1. Las iniciativas normativas deben ser sometidas, con carácter previo a su elaboración, a un proceso de consulta, a través del portal web del Gobierno de La Rioja, para recabar la opinión de los sujetos y de las organizaciones más representativas potencialmente afectados por la futura norma acerca de:
+a) Los problemas que se pretenden solucionar con la iniciativa.
+b) La necesidad y oportunidad de su aprobación.
+c) Los objetivos de la norma.
+d) Las posibles soluciones alternativas regulatorias y no regulatorias.
+2. No será exigible el trámite de consulta previa:
+a) En el caso de normas presupuestarias.
+b) En el supuesto de normas organizativas, salvo que se regule la participación de la ciudadanía o de sus organizaciones y asociaciones representativas en el ejercicio de sus funciones u órganos.
+3. Podrá prescindirse de trámite de consulta previa:
+a) Cuando concurran graves razones de interés público que lo justifiquen.
+b) Si carece de impacto significativo en la actividad económica.
+c) Si no impone obligaciones relevantes para sus destinatarios.
+d) Cuando regule aspectos parciales de una materia.
+4. La concurrencia de una o varias de las causas enunciadas en el apartado anterior será apreciada por el centro directivo proponente y se justificará en la MAIN.
+5. El plazo de consulta debe ser adecuado a la naturaleza de la disposición, y no inferior a quince días, salvo declaración de urgencia.
+Se añade por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+
+### Artículo 34
+
+Artículo 34. Elaboración del borrador inicial y Memoria de Análisis de Impacto Normativo.
+1. El borrador inicial será redactado por el órgano proponente o, en su caso, por la unidad administrativa o grupo de trabajo designado en la resolución de inicio, y estará integrado por una parte expositiva y por el texto articulado del proyecto de ley o del reglamento, que incluirá, en su caso, una disposición derogatoria de las normas anteriores que resulten afectadas.
+2. El borrador inicial irá acompañado de la Memoria Inicial de Análisis de Impacto Normativo. La MAIN se redactará de forma simultánea a la elaboración del borrador y será actualizada durante el transcurso del procedimiento.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 35
+
+Artículo 35. Formación del expediente.
+1. El órgano proponente remitirá el borrador, la MAIN y la documentación complementaria, en su caso, a su secretaría general técnica.
+2. La secretaría general técnica, en el ejercicio de su función de tramitación, informe y elaboración de los proyectos de disposiciones de carácter general, revisará el texto del borrador y la MAIN en cuanto a:
+a) La calidad técnica y el rango de la propuesta normativa.
+b) El contenido preceptivo de la MAIN.
+c) Su adecuación a los deberes, principios y criterios previstos en la legislación autonómica en materia de simplificación y a la legislación sectorial reguladora de la valoración de los impactos.
+3. El resultado de la revisión se hará constar en la MAIN, en la que se reflejarán, en su caso, las modificaciones que se hayan introducido en el texto del borrador y su justificación.
+4. Cuando se observasen defectos en la formación del expediente, la secretaría general técnica podrá devolverlo al centro directivo que lo remitió a efectos de que se proceda a su subsanación.
+5. Finalizada la revisión de forma favorable, la secretaría general técnica declarará formado el expediente del anteproyecto, determinará los trámites e informes que resulten necesarios para garantizar el acierto y legalidad de la disposición y ordenará la continuación del procedimiento por la propia secretaría general técnica. De todo ello quedará reflejo en la MAIN.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 36
+
+Artículo 36. Trámite de audiencia.
+1. Cuando la disposición afecte a los derechos e intereses legítimos de las personas, se publicará el texto en el portal web del Gobierno de La Rioja, con el objeto de dar audiencia a la ciudadanía afectada y recabar cuantas aportaciones adicionales puedan hacerse por otras personas o entidades.
+El trámite de audiencia podrá iniciarse por el centro directivo proponente en fase de elaboración del borrador inicial o por la secretaría general técnica en fase de tramitación del anteproyecto.
+Asimismo, podrá también recabarse directamente la opinión de las organizaciones o asociaciones reconocidas por ley que agrupen o representen a las personas cuyos derechos o intereses legítimos se vieren afectados por la norma y cuyos fines guarden relación directa con su objeto.
+2. No será exigible el trámite de audiencia:
+a) En el caso de normas presupuestarias.
+b) En el supuesto de normas organizativas, salvo que se regule la participación de la ciudadanía o de sus organizaciones y asociaciones representativas en el ejercicio de sus funciones u órganos.
+c) Cuando se trate de disposiciones que tengan por objeto exclusivo la regulación de los tributos o ingresos de derecho público.
+d) Cuando se trate de disposiciones en materia de función pública sometidas a negociación colectiva.
+3. Podrá prescindirse del trámite de audiencia cuando concurran razones graves de interés público que lo justifiquen y que queden acreditadas en la MAIN.
+4. El plazo de la audiencia debe ser adecuado a la naturaleza de la disposición y no inferior a quince días.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 37
+
+Artículo 37. Intervención de los entes locales.
+El órgano responsable de la tramitación adoptará las medidas que hagan posible la participación de los entes locales de la Comunidad Autónoma de La Rioja en el procedimiento cuando el anteproyecto de disposición afecte a las competencias de estos.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 38
+
+Artículo 38. Informes y dictámenes preceptivos.
+1. Los informes preceptivos y los dictámenes de los órganos consultivos se solicitarán en el momento y en la forma que determinen sus disposiciones reguladoras. El plazo para su emisión será el previsto en ellas y, a falta de previsión expresa, el de diez días.
+En el momento de solicitarse el primero de los informes o dictámenes preceptivos se procederá a publicar en el Portal de Transparencia el anteproyecto como norma en tramitación.
+2. De no emitirse el informe en el plazo señalado, y sin perjuicio de las responsabilidades en que incurra el responsable de la demora, se podrán proseguir las actuaciones, cualquiera que sea el carácter del informe solicitado, excepto en los supuestos de informes preceptivos que sean determinantes para la tramitación de la norma, en cuyo caso podrá interrumpirse la misma en tanto no se emitan e incorporen al expediente. El plazo de espera no podrá exceder en ningún caso de tres meses, salvo disposición legal que determine un plazo menor o establezca otros efectos ante la falta de emisión.
+3. El anteproyecto será informado por la Dirección General de los Servicios Jurídicos una vez cumplimentados todos los trámites y previamente a la emisión de los dictámenes que, en su caso, resulten procedentes.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 39
+
+Artículo 39. Integración del expediente y finalización del procedimiento.
+1. Concluidas las actuaciones de instrucción y con carácter previo a la solicitud del dictamen del Consejo Consultivo de La Rioja que en su caso deba emitirse, la secretaría general técnica competente actualizará la MAIN con todo lo actuado, incluyendo un pronunciamiento sobre la adecuación a la legalidad del proyecto de disposición.
+2. El expediente se ordenará a partir de la resolución de inicio seguido del anteproyecto y documentación correspondiente, así como de los estudios y consultas evacuados y demás actuaciones practicadas. En el caso de que la resolución de inicio se apruebe como consecuencia de la petición razonada de otros órganos, el expediente se ordenará a partir de la documentación que integre dicha petición.
+3. En el caso de que el procedimiento no precise dictamen del Consejo Consultivo, la secretaría general técnica declarará finalizada la MAIN y así quedará reflejado en la misma.
+4. En aquellos casos en que proceda la emisión de dictamen por el Consejo Consultivo, una vez recibido el mismo, la secretaría general técnica incorporará las modificaciones que procedan en el texto del anteproyecto y actualizará la MAIN, declarándola finalizada.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 40
+
+Artículo 40. Redacción y aprobación del anteproyecto de ley o del proyecto de reglamento.
+1. Una vez declarada la finalización de la MAIN por la secretaría general técnica, se redactará el proyecto de reglamento o la versión final del anteproyecto de ley.
+2. La aprobación del anteproyecto de ley corresponde al titular de consejería.
+3. La aprobación del proyecto de reglamento corresponderá al titular de la consejería en aquellos casos en que la norma deba adoptar la forma de decreto, y a la secretaría general técnica en los restantes casos.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 41
+
+Artículo 41. Aprobación y publicación.
+1. Los proyectos de reglamento serán sometidos a la aprobación del Consejo de Gobierno o de la persona titular de la consejería, según proceda, adoptando el reglamento desde el momento de su aprobación la forma de decreto o la de orden, respectivamente.
+2. Una vez aprobados los reglamentos, serán publicados en el «Boletín Oficial de La Rioja». Tras la publicación del reglamento en el «Boletín Oficial de La Rioja», su expediente de elaboración será publicado en el Portal del Gobierno de La Rioja.
+3. Los anteproyectos de disposiciones con rango de ley se elevarán al Consejo de Gobierno para su aprobación como proyecto de ley. Una vez aprobados, en su caso, se acordará la remisión del proyecto al Parlamento de La Rioja, junto con toda la documentación que conforme el expediente de elaboración del texto normativo.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 41 bis
+
+Artículo 41 bis. Tramitación urgente de iniciativas normativas.
+1. En la resolución de inicio el órgano competente podrá acordar, de forma motivada, la tramitación urgente del procedimiento de elaboración y aprobación de anteproyectos y proyectos de normas con rango de ley y proyectos de disposiciones reglamentarias en los siguientes supuestos:
+a) Cuando concurran circunstancias extraordinarias que, no habiendo podido preverse con anterioridad, exijan la aprobación urgente de la norma.
+b) Cuando fuere necesario para que la norma entre en vigor en el plazo exigido para la transposición de directivas comunitarias o el establecido en otras leyes o normas de derecho de la Unión Europea.
+2. La tramitación por la vía de urgencia implicará que:
+a) Los plazos previstos para la realización de los trámites, informes y dictámenes se reducirán a la mitad.
+b) En cuanto a los trámites de consulta pública previa y de audiencia, sus plazos se reducirán a siete días hábiles.
+3. Cuando las circunstancias que justifiquen la urgencia sean sobrevenidas una vez iniciado el procedimiento, deberá dictarse una resolución posterior para la declaración de urgencia.
+Se añade por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+
+### Artículo 42
+
+Artículo 42. Evaluación y revisión normativa.
+1. Cada consejería deberá evaluar las normas sobre las materias de su competencia para comprobar en qué medida se han conseguido los objetivos previstos. La evaluación se realizará conforme a los plazos y criterios previstos en las respectivas MAIN, en su caso. El resultado de la evaluación se plasmará en un informe.
+2. La consejería competente en materia de organización de los servicios públicos elaborará, cada dos años, el Plan de Calidad y Simplificación Normativa, y lo elevará al Consejo de Gobierno para su aprobación mediante acuerdo. Este plan tendrá como objetivo la revisión, simplificación y, en su caso, propuesta de refundición normativa de las disposiciones vigentes en la legislación autonómica.
+3. La revisión será realizada por el grupo de trabajo de simplificación, auxiliado por el responsable de simplificación de cada consejería. Para la revisión se tendrán en cuenta los resultados de las evaluaciones de cada norma.
+4. El resultado del plan se plasmará en un informe que se hará público en el Portal del Gobierno de La Rioja, así como por los medios que se estimen pertinentes.
+Se modifica por el art. 61 de la Ley 2/2026, de 28 de abril. Ref. BOE-A-2026-10117#a6-3
+ Se modifica por el art. 13.9 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+## CAPÍTULO II
+
+De los actos administrativos
+
+### Artículo 43
+
+Artículo 43. Actos administrativos.
+1. Los actos administrativos se producirán por el órgano que tenga atribuida la competencia y de acuerdo con el procedimiento establecido.
+2. Los actos administrativos que pongan fin al procedimiento adoptarán la forma de Resolución cuando se dicten por órganos unipersonales o la de Acuerdos cuando se adopten por órganos colegiados.
+
+### Artículo 44
+
+Artículo 44. Actos de trámite cualificados.
+Tendrán la consideración de actos de trámite cualificados aquellos que decidan directa o indirectamente el fondo del asunto, determinen la imposibilidad de continuar el procedimiento, produzcan indefensión o perjuicio irreparable a derechos e intereses legítimos.
+
+### Artículo 45
+
+Artículo 45. Actos que ponen fin a la vía administrativa.
+1. Ponen fin a la vía administrativa los actos enumerados en el artículo 114.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y además:
+a) Los del presidente del Gobierno.
+b) Los del Consejo de Gobierno.
+c) Los de las comisiones delegadas del Gobierno.
+d) Los de los vicepresidentes.
+e) Los de los consejeros, salvo que por ley se otorgue expresamente recurso ante el Consejo de Gobierno.
+f) Los de los órganos de las consejerías, en los casos en que resuelvan por delegación de otro órgano cuyas resoluciones pongan fin a la vía administrativa.
+g) Los dictados por los secretarios generales técnicos en relación con las competencias que tengan atribuidas en materia de personal.
+2. En los organismos públicos ponen fin a la vía administrativa los actos emanados de los máximos órganos de dirección, unipersonales o colegiados, de acuerdo con lo que establezcan sus estatutos, salvo que su ley de creación establezca otra cosa.
+Se modifica por el art. 13.10 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+## CAPÍTULO III
+
+Del registro de documentos
+
+### Artículo 46
+
+Artículo 46. Registro.
+1. Para la debida constancia de las solicitudes, escritos y comunicaciones oficiales que los particulares presenten o se reciban en los órganos de la Administración general de la Comunidad Autónoma y sus organismos públicos, existirá un Registro electrónico general único, interoperable e interconectable electrónicamente con otras administraciones públicas, el cual permitirá la recepción y remisión de solicitudes, escritos y comunicaciones durante las veinticuatro horas de todos los días del año.
+2. El Registro anotará también las salidas de las solicitudes, escritos y comunicaciones que los órganos y organismos públicos de la Comunidad Autónoma de La Rioja dirijan a otras Administraciones Públicas y particulares.
+3. El Registro será único para la Administración general y sus organismos públicos.
+4. Los interesados podrán presentar solicitudes, escritos y comunicaciones, así como los documentos que los acompañen, a través del Registro electrónico general o en cualquiera de las oficinas de asistencia en materia de registro en los términos establecidos en el artículo siguiente, o en cualquiera de los otros puntos previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Se anotará como fecha de entrada la de su presentación o recepción en cualquiera de ellos.
+Se modifica por el art. 13.11 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 47
+
+Artículo 47. Asistencia al ciudadano en materia de registro.
+1. El Gobierno de La Rioja garantizará la asistencia a los ciudadanos en el uso de medios electrónicos, de acuerdo con lo dispuesto en la normativa básica del Estado, a través de las oficinas de asistencia en materia de registro y de los mecanismos que reglamentariamente se determinen.
+2. Las personas no obligadas al uso de medios electrónicos para relacionarse con la Administración autonómica ni con otras Administraciones Públicas podrán presentar los documentos que dirijan a las mismas a través de las oficinas de asistencia en materia de registro, que digitalizarán dicha documentación para incorporarla al expediente administrativo de que se trate, devolviendo los originales al interesado, salvo que estos deban obrar en poder de la Administración.
+Se modifica por el art. 13.12 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+ Se suprime el apartado 2 y se añade el 5 por el art. 43 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657.
+
+## CAPÍTULO IV
+
+De la revisión de los reglamentos y de los actos en vía administrativa
+
+## Sección 1
+
+Sección 1.ª Revisión de reglamentos y de actos administrativos
+
+### Artículo 48
+
+Artículo 48. Revisión de oficio de reglamentos y actos nulos.
+1. La revisión de oficio de los actos administrativos y reglamentos se realizará en los supuestos previstos en la legislación del procedimiento común de acuerdo con las siguientes reglas:
+a) Los procedimientos de revisión de actos nulos se iniciarán por el órgano autor del acto o a solicitud de persona interesada. En el caso de reglamentos, la revisión se iniciará por el órgano autor de los mismos.
+b) Cuando se trate de actos nulos, la declaración de nulidad se efectuará por:
+Los Consejeros, previo dictamen favorable del Consejo Consultivo de La Rioja, si se trata de actos provenientes de órganos inferiores, así como los dictados por los órganos interiores de los organismos públicos.
+El Consejo de Gobierno, en el caso de que se trate de actos provenientes del Consejo de Gobierno, de los Consejeros o de actos dictados por el máximo órgano rector de los organismos públicos.
+Asimismo, en cualquier momento, el Consejo de Gobierno o los Consejeros, previo dictamen favorable del Consejo Consultivo de La Rioja, podrán declarar la nulidad de los reglamentos que hayan aprobado en los supuestos previstos en la legislación del procedimiento común.
+2. El órgano competente para la revisión de oficio podrá acordar motivadamente la inadmisión a trámite de las solicitudes formuladas por los interesados, sin necesidad de recabar dictamen del Consejo Consultivo, cuando las mismas no se basen en alguna de las causas de nulidad de pleno derecho o carezcan manifiestamente de fundamento, así como en el supuesto de que se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales.
+
+### Artículo 49
+
+Artículo 49. Declaración de lesividad de actos anulables.
+1. La Administración General de la Comunidad Autónoma de La Rioja podrá declarar lesivos para el interés público los actos favorables para los interesados que sean anulables a fin de proceder a su ulterior impugnación ante el orden jurisdiccional contencioso-administrativo.
+2. La declaración de lesividad se efectuará mediante Resolución del Consejero titular de la Consejería de la que emane el acto o al que esté adscrito el organismo público que lo haya dictado o, en su caso, mediante Acuerdo del Consejo de Gobierno cuando el acto provenga de este último o del titular de la Consejería.
+3. La declaración de lesividad no podrá adoptarse una vez transcurridos 4 años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo.
+
+### Artículo 50
+
+Artículo 50. Revocación de actos administrativos.
+1. La Administración general de la Comunidad Autónoma y sus organismos públicos podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos desfavorables o de gravamen, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes o sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.
+2. El órgano competente para la revocación será el que dictó el acto que se pretenda revocar.
+Se modifica el apartado 1 por el art. 13.13 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 51
+
+Artículo 51. Rectificación de errores materiales o aritméticos.
+Los órganos competentes para instruir o resolver en los procedimientos administrativos podrán, en cualquier momento, de oficio o a instancia del interesado, rectificar los errores materiales, de hecho o aritméticos que se hayan producido.
+La rectificación señalada en el párrafo anterior deberá ser objeto de publicación o notificación en los mismos términos que los actos que hayan sido objeto de rectificación.
+
+## Sección 2
+
+Sección 2.ª Recursos administrativos
+
+### Artículo 52
+
+Artículo 52. Recursos contra actos que no agotan la vía administrativa.
+1. Contra los actos de los órganos administrativos que no pongan fin a la vía administrativa y contra los actos de trámite cualificados podrá interponerse por los interesados el recurso de alzada regulado en la legislación del procedimiento común.
+2. La oposición a los restantes actos de trámite podrá alegarse por los interesados para su consideración en la resolución que ponga fin al procedimiento.
+3. El órgano competente para resolver el recurso de alzada será el superior jerárquico del órgano que dictó el acto recurrido.
+
+### Artículo 53
+
+Artículo 53. Recurso de reposición.
+1. Los actos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado, conforme a lo establecido en la legislación del procedimiento común.
+2. Tratándose de actos dictados por delegación, el recurso de reposición se resolverá por el órgano delegante.
+Se modifica el apartado 2 por el art. 13.14 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 54
+
+Artículo 54. Recurso extraordinario de revisión.
+El recurso extraordinario de revisión se interpondrá, en los supuestos y plazos previstos en la legislación del procedimiento común, ante el Consejero competente por razón de la materia, a quien corresponderá su resolución, incluidos los que se interpongan contra actos de organismos públicos dependientes o adscritos a su Consejería, salvo que se trate de actos del Consejo de Gobierno, en cuyo caso será éste el competente para resolverlos.
+
+## Sección 3
+
+Sección 3.ª Reclamaciones administrativas previas al ejercicio de las acciones civiles y laborales
+(Suprimida).
+Se suprime por el art. 13.15 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 55
+
+Artículo 55. Reclamación administrativa previa a la vía judicial civil.
+(Derogado).
+Se deroga por el art. 13.15 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 56
+
+Artículo 56. Reclamación administrativa previa a la vía judicial laboral.
+(Derogado).
+Se deroga por el art. 13.15 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+## Sección 4
+
+Sección 4.ª Sustitución de los recursos administrativos
+
+### Artículo 57
+
+Artículo 57. Criterios generales.
+1. El recurso de alzada o el de reposición podrán ser sustituidos por una reclamación que resolverán comisiones técnicas no sometidas a instrucciones jerárquicas, en supuestos o ámbitos sectoriales determinados, de acuerdo con lo establecido en la legislación del procedimiento común.
+2. La comisión, una vez conocido el contenido de la reclamación y el expediente administrativo, resolverá lo que en Derecho proceda.
+3. El procedimiento administrativo de actuación de estas comisiones deberá respetar los principios, las garantías y los plazos que la legislación básica reconoce a los interesados en todo procedimiento administrativo.
+4. En todo caso, la reclamación deberá presentarse dentro del mismo plazo establecido para la interposición de los correspondientes recursos administrativos, junto con los documentos requeridos por el ordenamiento jurídico para dicha interposición.
+
+## CAPÍTULO V
+
+De la potestad sancionadora
+
+## Sección 1
+
+Sección 1.ª Competencia para sancionar
+
+### Artículo 58
+
+Artículo 58. Ejercicio de la potestad sancionadora.
+1. La potestad sancionadora de la Administración General de la Comunidad Autónoma de La Rioja y de sus organismos públicos se ejercerá de acuerdo con los principios de legalidad, irretroactividad, tipicidad, responsabilidad, proporcionalidad y respeto de los plazos de prescripción y no duplicidad de sanciones, establecidos en la legislación del procedimiento común.
+2. No podrán imponerse sanciones administrativas sino en virtud de previo procedimiento administrativo que garantizará el derecho de audiencia y de defensa de los interesados.
+
+### Artículo 59
+
+Artículo 59. Órganos competentes.
+1. El ejercicio de la potestad sancionadora corresponde a los órganos administrativos que la tengan expresamente atribuida, por disposición de rango legal o reglamentario.
+2. La competencia para resolver los procedimientos sancionadores corresponde a los órganos que la tengan expresamente atribuida en las normas sancionadoras. Cuando dichas normas no atribuyan la competencia para ordenar el inicio del procedimiento ésta corresponderá al órgano competente para resolver.
+3. Los órganos competentes para el inicio del procedimiento sancionador lo serán también para:
+a) Ordenar la práctica de informaciones previas.
+b) Designar instructor.
+4. De conformidad con lo dispuesto en los artículos 72 y 136 de la Ley 30/1992, de 30 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, el órgano competente para resolver podrá adoptar en cualquier momento, mediante acuerdo motivado, las medidas de carácter provisional que resulten necesarias para asegurar la eficacia de la resolución que pudiera recaer, el buen fin del procedimiento, evitar el mantenimiento de los efectos de la infracción y las exigencias de los intereses generales.
+
+## Sección 2
+
+Sección 2.ª Especialidades en el procedimiento sancionador
+Se modifica por el art. 13.16 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 60
+
+Artículo 60. Procedimiento aplicable.
+Las especialidades en el procedimiento sancionador reguladas en la presente ley serán aplicables a las infracciones tanto en materias de competencia exclusiva de la Comunidad Autónoma de La Rioja como en las de desarrollo legislativo y ejecución de la legislación básica del Estado, sin perjuicio de los procedimientos específicos que puedan establecerse y de la aplicación de las normas estatales en materia de procedimiento común.
+Se modifica por el art. 13.17 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+ Se modifica por el art. 48 de la Ley 3/2017, de 31 de marzo. Ref. BOE-A-2017-4394
+
+### Artículo 61
+
+Artículo 61. Iniciación.
+1. El procedimiento se iniciará de oficio mediante resolución del órgano competente para ello, dictado bien por iniciativa propia o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia.
+2. Este órgano podrá acordar con anterioridad al inicio la instrucción de una información previa, con el objeto de disponer la iniciación del procedimiento o, en su caso, el archivo de las actuaciones. Las actuaciones previas se orientarán a determinar, con la mayor precisión posible, los hechos susceptibles de motivar la incoación del procedimiento, la identificación de la persona o personas que pudieran resultar responsables y las circunstancias relevantes que concurran en unos y otros.
+3. Las actuaciones previas serán realizadas por los órganos que tengan atribuidas las funciones de investigación, averiguación e inspección en la materia y, en defecto de estos, por la persona u órgano administrativo que se determine por el órgano competente para la iniciación o resolución del procedimiento.
+4. La orden superior expresará, en la medida de lo posible, la persona o personas presuntamente responsables, las conductas o hechos que pudieran constituir infracción administrativa y su tipificación, así como el lugar, la fecha, fechas o periodo de tiempo continuado en que los hechos se produjeron.
+5. La petición razonada de otros órganos no vincula al órgano titular de la potestad sancionadora, si bien deberá comunicar al que la hubiere realizado la decisión adoptada sobre la apertura o no del procedimiento.
+6. La denuncia no convierte, por sí sola, al denunciante en interesado en el procedimiento sancionador. Salvo que tenga la condición de interesado por otro concepto, el denunciante no tendrá más participación en el procedimiento que el derecho a recibir comunicación del órgano competente sobre la apertura o no del procedimiento.
+7. Cuando el denunciante haya participado en la comisión de una infracción de esta naturaleza y existan otros infractores, el órgano competente para resolver el procedimiento deberá eximir al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario cuando sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, siempre y cuando en el momento de aportarse aquellos no se disponga de elementos suficientes para ordenar la misma y se repare el perjuicio causado.
+Asimismo, el órgano competente para resolver deberá reducir el importe del pago de la multa que le correspondería o, en su caso, la sanción de carácter no pecuniario cuando, no cumpliéndose alguna de las condiciones anteriores, el denunciante facilite elementos de prueba que aporten un valor añadido significativo respecto de aquellos de los que se disponga.
+En ambos casos será necesario que el denunciante cese en la participación de la infracción y no haya destruido elementos de prueba relacionados con el objeto de la denuncia.
+8. La resolución que declare iniciado el procedimiento se referirá, como mínimo, a los siguientes extremos:
+a) Identificación de la persona o personas que considere presuntamente responsables.
+b) Relación de hechos que motivan la incoación.
+c) Infracciones que se consideran cometidas.
+d) Sanciones que, en su caso, pueden imponerse, que incluirán mención expresa a las reducciones que resulten aplicables a las sanciones pecuniarias en los supuestos previstos en el artículo 64.
+e) Identidad del instructor y, en su caso, del secretario del procedimiento, con expresa indicación del régimen de recusación.
+f) Órgano competente para imponer la sanción y norma que atribuye tal competencia, indicando la posibilidad de que el presunto responsable pueda reconocer voluntariamente su responsabilidad, con los efectos previstos en el artículo 64.
+g) Medidas de carácter provisional que se hayan acordado por el órgano competente para iniciar el procedimiento sancionador, sin perjuicio de las que se puedan adoptar durante el mismo o, en su caso, confirmación, modificación o levantamiento de las medidas provisionales adoptadas antes del inicio del procedimiento sancionador.
+9. Los hechos constatados por funcionarios a los que se les reconoce la condición de autoridad, y que se formalicen en documento en el que se observen los requisitos legales pertinentes, tendrán valor probatorio, sin perjuicio de las pruebas que en defensa de los respectivos derechos o intereses puedan señalar o aportar los propios administrados.
+10. Excepcionalmente, cuando en el momento de dictar el acuerdo de iniciación no existan elementos suficientes para la calificación inicial de los hechos que motivan la incoación del procedimiento, la citada calificación podrá realizarse en una fase posterior mediante la elaboración de un pliego de cargos, que deberá ser notificado a los interesados.
+Se modifica por el art. 13.18 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 62
+
+Artículo 62. Instrucción.
+1. El acuerdo de iniciación del procedimiento sancionador se comunicará al instructor y se notificará a la persona presuntamente responsable y demás interesados, concediéndosele un plazo de quince días para que presente las alegaciones y documentos que considere convenientes a su defensa. En la notificación se advertirá que, si no presentaran alegaciones, la iniciación podrá ser considerada propuesta de resolución cuando contenga un pronunciamiento preciso acerca de la responsabilidad imputada y de la sanción que corresponda.
+En el trámite de alegaciones, la persona presuntamente responsable y demás interesados podrán solicitar la práctica de las pruebas que considere necesarias.
+2. Presentadas las alegaciones o transcurrido el plazo establecido para ello, el instructor podrá acordar la apertura de un período de prueba cuando lo haya solicitado cualquiera de los interesados o lo considere necesario para el esclarecimiento de los hechos y la determinación de las personas responsables, practicándose las que se consideren pertinentes en un plazo no superior a treinta días ni inferior a diez.
+3. Finalizado el período de prueba o, en su defecto, el plazo de alegaciones contra la resolución de iniciación del procedimiento se pondrá de manifiesto a la persona presuntamente responsable y demás interesados para que, en el plazo de diez días, presenten las alegaciones y documentos que estimen pertinentes.
+4. Podrá prescindirse del trámite de audiencia cuando no figuren en el procedimiento o no sean tenidos en cuenta en la resolución del mismo, otros hechos, alegaciones y pruebas que las aportadas por los interesados.
+5. Cumplimentados los trámites señalados, el instructor elaborará la propuesta de resolución en la que fijará con precisión los hechos que se consideren probados y su calificación jurídica, la infracción que constituyan, la persona o personas que resulten responsables y la sanción que corresponda de acuerdo con la normativa que resulte de aplicación, con referencia concreta a los artículos infringidos de la misma. Si el instructor concluyera que los hechos probados no constituyen infracción, propondrá el archivo de las actuaciones.
+6. La propuesta de resolución se notificará a los interesados, para que en el plazo de quince días presenten ante el instructor las alegaciones pertinentes, que se unirán a las actuaciones.
+En la notificación se comunicará a los interesados que, durante dicho plazo, se les pondrá de manifiesto el expediente a fin de que puedan examinarlo y obtener copias de los documentos que obren en el mismo.
+7. La propuesta de resolución se remitirá al órgano competente para resolver el procedimiento, junto con todos los documentos que integren el expediente formado.
+8. Los hechos declarados probados por resoluciones judiciales penales firmes vincularán a las Administraciones Públicas respecto de los procedimientos sancionadores que substancien.
+Se añade el apartado 8 por el art. 13.19 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 63
+
+Artículo 63. Actuaciones complementarias.
+1. Antes de dictar la resolución, el órgano competente para resolver podrá acordar, motivadamente, la realización de las actuaciones complementarias que considere precisas para la adecuada resolución del procedimiento.
+2. Las actuaciones complementarias se dictarán por el instructor en un plazo no superior a quince días.
+3. Realizadas las actuaciones complementarias, se pondrá de manifiesto su resultado a la persona presuntamente responsable y demás interesados, a fin de que aleguen lo que consideren pertinente en el plazo de siete días.
+4. El plazo máximo para resolver y notificar el procedimiento sancionador quedará suspendido desde la fecha en que se notifique a los interesados el acuerdo motivado que disponga la realización de actuaciones complementarias hasta la de conclusión del trámite establecido en el apartado precedente.
+Se modifican los apartados 2 a 4 por el art. 13.20 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 63 bis
+
+Artículo 63 bis. Propuesta de resolución.
+1. El órgano instructor resolverá la finalización del procedimiento, con archivo de las actuaciones, sin que sea necesaria la formulación de la propuesta de resolución, cuando en la instrucción del procedimiento se ponga de manifiesto que concurre alguna de las siguientes circunstancias:
+a) La inexistencia de los hechos que pudieran constituir la infracción.
+b) Cuando los hechos no resulten acreditados.
+c) Cuando los hechos probados no constituyan, de modo manifiesto, infracción administrativa.
+d) Cuando no exista o no se haya podido identificar a la persona o personas responsables, o bien aparezcan exentas de responsabilidad.
+e) Cuando se concluyera, en cualquier momento, que ha prescrito la infracción.
+2. Una vez concluida la instrucción del procedimiento, el órgano instructor formulará una propuesta de resolución que deberá ser notificada a los interesados. La propuesta de resolución deberá indicar la puesta de manifiesto del procedimiento y el plazo para formular alegaciones y presentar los documentos e informaciones que se estimen pertinentes.
+3. En la propuesta de resolución se fijarán de forma motivada los hechos que se consideren probados y su exacta calificación jurídica, se determinará la infracción que, en su caso, aquellos constituyan, la persona o personas responsables y la sanción que se proponga, la valoración de las pruebas practicadas, en especial aquellas que constituyan los fundamentos básicos de la decisión, así como las medidas provisionales que, en su caso, se hubieran adoptado. Cuando la instrucción concluya la inexistencia de infracción o responsabilidad y no se haga uso de la facultad prevista en el apartado 1 de este artículo, la propuesta declarará esa circunstancia.
+Se añade por el art. 13.21 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 64
+
+Artículo 64. Terminación.
+1. Iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción que proceda.
+2. Remitida la propuesta de resolución, junto con la documentación que integre el expediente, y practicadas, en su caso, las actuaciones complementarias a que se refiere el artículo 63, el órgano competente dictará la resolución que ponga fin al procedimiento.
+3. La resolución será motivada e incluirá la valoración de las pruebas practicadas, en especial aquellas que constituyan los fundamentos básicos de la decisión, fijará los hechos y, en su caso, la persona o personas responsables, la infracción o infracciones cometidas y la sanción o sanciones que se imponen, o bien la declaración de no existencia de infracción o responsabilidad.
+4. La resolución no aceptará hechos distintos de los determinados en el curso del procedimiento, con independencia de su diferente valoración jurídica. No obstante, cuando el órgano competente para resolver considere que la infracción o la sanción revisten mayor gravedad que la determinada en la propuesta de resolución, se notificará al inculpado para que aporte cuantas alegaciones estime convenientes en el plazo de quince días.
+5. Cuando la sanción tenga únicamente carácter pecuniario o bien quepa imponer una sanción pecuniaria y otra de carácter no pecuniario pero se ha justificado la improcedencia de la segunda, el pago voluntario por el presunto responsable, en cualquier momento anterior a la resolución, implicará la terminación del procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción.
+Si se da el reconocimiento de responsabilidad previsto en el apartado 1 de este artículo, o el pago voluntario anterior a la resolución previsto en este apartado, cuando la sanción tenga únicamente carácter pecuniario, el órgano competente para resolver el procedimiento aplicará reducciones de, al menos, el 20% sobre el importe de la sanción propuesta, siendo estos acumulables entre sí. Las citadas reducciones deberán estar determinadas en la notificación de iniciación del procedimiento y su efectividad estará condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción. El porcentaje de reducción previsto en este apartado podrá ser incrementado reglamentariamente.
+6. La resolución decidirá sobre las medidas provisionales que hayan podido adoptarse en la instrucción y sobre las medidas cautelares precisas para garantizar su eficacia en tanto no sea ejecutiva.
+7. La resolución será ejecutiva cuando no quepa contra ella ningún recurso ordinario en vía administrativa.
+Cuando la resolución sea ejecutiva, se podrá suspender cautelarmente si el interesado manifiesta a la Administración su intención de interponer recurso contencioso-administrativo contra la resolución firme en vía administrativa. Dicha suspensión cautelar finalizará cuando:
+a) Haya transcurrido el plazo legalmente previsto sin que el interesado haya interpuesto recurso contencioso-administrativo.
+b) Habiendo el interesado interpuesto recurso contencioso-administrativo:
+1.º No se haya solicitado en el mismo trámite la suspensión cautelar de la resolución impugnada.
+2.º El órgano judicial se pronuncie sobre la suspensión cautelar solicitada, en los términos previstos en ella.
+8. Cuando las conductas sancionadas hubieran causado daños o perjuicios a las Administraciones y la cuantía destinada a indemnizar estos daños no hubiera quedado determinada en el expediente, se fijará mediante un procedimiento complementario, cuya resolución será inmediatamente ejecutiva. Este procedimiento será susceptible de terminación convencional, pero ni esta ni la aceptación por el infractor de la resolución que pudiera recaer implicarán el reconocimiento voluntario de su responsabilidad. La resolución del procedimiento pondrá fin a la vía administrativa.
+9. El plazo máximo para resolver y notificar los procedimientos sancionadores será de seis meses a contar desde la fecha del acuerdo de inicio, salvo que una norma con rango de ley establezca otra cosa o así venga previsto en la normativa comunitaria europea.
+Se modifica por el art. 13.22 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+## CAPÍTULO VI
+
+De la responsabilidad patrimonial de la Administración de la Comunidad Autónoma de La Rioja
+
+### Artículo 65
+
+Artículo 65. Principios generales.
+1. La responsabilidad patrimonial de la Administración de la Comunidad Autónoma de La Rioja por los daños ocasionados a los particulares y entidades en cualquiera de sus bienes y derechos como consecuencia del funcionamiento normal o anormal de los servicios públicos, se regirá por la legislación básica del Estado en la materia y por las disposiciones de desarrollo que la Comunidad Autónoma dicte en el ejercicio de sus propias competencias.
+2. La competencia para resolver los procedimientos de responsabilidad patrimonial corresponderá al titular de la Consejería a cuya actividad se le impute el daño hasta el límite establecido para la contratación y al Consejo de Gobierno cuando excedan de esa cantidad o cuando una Ley expresamente lo prevea.
+3. En el caso de los organismos públicos dependientes de la Comunidad Autónoma de La Rioja, serán órganos competentes para resolver los procedimientos, los que determine su Ley de creación. En su defecto, será competente el titular de la Consejería a la que estuvieren adscritos.
+4. Los procedimientos de responsabilidad patrimonial de la Comunidad Autónoma de La Rioja se tramitarán de acuerdo con la normativa básica estatal en la materia, sin perjuicio de las especialidades derivadas de la propia organización.
+Las reclamaciones de responsabilidad patrimonial derivadas de un procedimiento administrativo en el que la instrucción hubiera correspondido a una consejería, y la resolución del mismo a otra consejería distinta o al Consejo de Gobierno, serán tramitadas desde la consejería que lo instruyó.
+La cuantía fijada para que los dictámenes del Consejo Consultivo de La Rioja resulten preceptivos será la que fije el Estado con carácter general en dicha normativa básica.
+5. El órgano competente para resolver podrá declarar motivadamente la inadmisión de las reclamaciones formuladas por los interesados, sin necesidad de instrucción, cuando la competencia material para su resolución competa a otra Administración Pública, debiendo indicar en el acuerdo de inadmisión cuál es la Administración a la que ha de dirigir su reclamación.
+Se modifica el apartado 4 por el art. 7 de la Ley 6/2024, de 27 de diciembre. Ref. BOE-A-2025-1480
+ Se modifica el apartado 4 por el art. 45 de la Ley 7/2011, de 22 de diciembre. Ref. BOE-A-2012-1142.
+
+## TÍTULO IV
+
+De la asistencia jurídica
+
+## CAPÍTULO I
+
+Del servicio jurídico
+
+### Artículo 66
+
+Artículo 66. Principios generales.
+1. La asistencia jurídica a la Administración General de la Comunidad Autónoma de La Rioja y sus organismos públicos, consistente en el asesoramiento en derecho y la representación y defensa en juicio de sus intereses ante cualquier órgano y jurisdicción, corresponde a los Servicios Jurídicos de la Comunidad Autónoma de La Rioja.
+2. Para que los Servicios Jurídicos de la Comunidad Autónoma de La Rioja asuman la asistencia jurídica de las sociedades mercantiles, fundaciones, consorcios y otros entes integrantes de su sector público deberá suscribirse el oportuno convenio en el que se determinará, en su caso, la compensación económica que haya de abonarse a la Hacienda Pública de la Comunidad Autónoma.
+
+### Artículo 67
+
+Artículo 67. Dirección y organización.
+1. El ejercicio de las funciones de asistencia jurídica se efectuará, con carácter exclusivo, a través de los Letrados adscritos a la Dirección General de los Servicios Jurídicos del Gobierno de La Rioja, a quien corresponde la dirección y coordinación de dicha asistencia jurídica.
+2. Reglamentariamente se regulará la organización, funcionamiento y sistema de coordinación de la Dirección General de los Servicios Jurídicos del Gobierno de La Rioja.
+
+## CAPÍTULO II
+
+Del régimen de actuación
+
+### Artículo 68
+
+Artículo 68. Funciones consultivas.
+1. Corresponde a los Servicios Jurídicos de la Comunidad Autónoma de La Rioja, a través de los Letrados adscritos a la Dirección General, asesorar en derecho al Gobierno de La Rioja, a su Presidente, a la Administración General de la Comunidad Autónoma, a sus organismos públicos y, en su caso, a los demás entes integrantes de su sector público.
+2. La función consultiva se ejercerá a través de informes o dictámenes no vinculantes, salvo los casos en que la norma aplicable les atribuya otro carácter, con sujeción a los principios de constancia oficial y legalidad, excluyéndose de tal función cualquier valoración de oportunidad no fundada en criterios jurídicos. Los informes o dictámenes emitidos pasarán a formar parte del expediente.
+3. El Gobierno de La Rioja, su Presidente, los Consejeros, Viceconsejeros, Secretarios Generales Técnicos, Directores Generales y Subdirectores Generales, así como los titulares de los órganos de gobierno de los organismos públicos y, en su caso, de los demás entes integrantes del Sector Público, podrán solicitar asesoramiento de los Servicios Jurídicos sobre cualquier cuestión jurídica relacionada con asuntos de su competencia, precisando el extremo o extremos objeto de consulta.
+
+### Artículo 69
+
+Artículo 69. Funciones contenciosas.
+1. Corresponde a los Servicios Jurídicos de la Comunidad Autónoma de La Rioja, a través de los Letrados adscritos a la Dirección General, la representación y defensa en juicio de la Administración General de la Comunidad Autónoma de La Rioja, de sus organismos públicos y, en su caso, de los demás entes integrantes de su sector público, ante los Tribunales y Juzgados nacionales, de cualquier orden, grado y jurisdicción; ante el Tribunal Constitucional y Tribunal de Cuentas, conforme a lo establecido en sus disposiciones reguladoras; y ante los órganos jurisdiccionales en el ámbito de la Unión Europea o de cualquier otra jurisdicción extranjera.
+2. Los Servicios Jurídicos de la Comunidad Autónoma de La Rioja podrán intervenir también en los procedimientos arbitrales, previa autorización del Consejo de Gobierno.
+3. Sin perjuicio de lo dispuesto en el artículo 66, el Consejo de Gobierno, en supuestos excepcionales y motivadamente, podrá encomendar la defensa legal a abogados ajenos a la Dirección General de los Servicios Jurídicos, correspondiendo a esta última realizar el seguimiento de los asuntos encomendados.
+4. La representación de la Administración General de la Comunidad Autónoma y de sus organismos públicos, podrá corresponder, asimismo, a procuradores de los Tribunales especialmente designados al efecto.
+5. Las autoridades, funcionarios y demás personal al servicio de la Administración General de la Comunidad Autónoma de La Rioja, de sus organismos públicos, y en su caso, de los demás entes integrantes del sector público, contra los que se inicie un procedimiento judicial en razón de actos u omisiones realizados en el ejercicio de sus cargos, siempre que se hayan sujetado a las disposiciones legales vigentes o hayan actuado en cumplimiento de orden de la autoridad competente y no exista colisión de intereses con la Administración autonómica, podrán ser representados y defendidos por un Letrado de la Dirección General de los Servicios Jurídicos, aunque aquellos hubieran cesado en sus funciones al tiempo de iniciarse la tramitación del proceso respectivo.
+
+### Artículo 70
+
+Artículo 70. Ejercicio de acciones.
+1. El ejercicio de acciones en vía jurisdiccional en nombre de la Administración General de la Comunidad Autónoma habrá de ser autorizado por el Consejo de Gobierno. En caso de urgencia o necesidad, el Consejero competente por razón de la materia o el que tenga atribuidas las competencias en materia de asistencia jurídica, podrá autorizar provisionalmente el ejercicio de acciones, dando cuenta inmediatamente al Consejo de Gobierno, para su ratificación si procede.
+2. Los allanamientos a las pretensiones de contrario, las transacciones sobre cuestiones litigiosas y los desistimientos de acciones iniciadas o de recursos interpuestos requerirán autorización del Consejo de Gobierno.
+3. En los organismos públicos las autorizaciones señaladas se otorgarán por su máximo órgano rector.
+
+### Artículo 71
+
+Artículo 71. Especialidades procesales.
+1. La Comunidad Autónoma de La Rioja, cuando actúe en juicio a través de sus Letrados, lo hará con las mismas especialidades procesales que el Estado, de acuerdo con lo previsto en el Estatuto de Autonomía y en la legislación básica.
+2. Las notificaciones, citaciones, emplazamientos y demás actos de comunicación procesal, así como la exención de depósitos y cauciones, tasación de costas, suspensión del curso de los autos y fuero territorial de los entes públicos se regirán por lo dispuesto en la legislación básica del Estado.
+3. En particular, los actos de comunicación procesal se practicarán directamente en la sede oficial de los Servicios Jurídicos de la Comunidad Autónoma de La Rioja, en el domicilio y población que a estos efectos se señalen.
+
+### Artículo 72
+
+Artículo 72. Letrados de la Dirección General de los Servicios Jurídicos.
+1. Los Letrados adscritos a la Dirección General de los Servicios Jurídicos actuarán en el ejercicio de sus funciones de acuerdo con los principios de legalidad, diligencia, profesionalidad, imparcialidad y defensa de los derechos e intereses de la Comunidad Autónoma de La Rioja.
+2. Los Letrados, por el hecho de su nombramiento y toma de posesión en el destino, quedan habilitados para el ejercicio de todas las funciones y para el desempeño de todos los servicios propios de su cargo.
+3. Todos los Letrados estarán sometidos en su actuación a la dirección y coordinación del Director General de los Servicios Jurídicos, que a tal efecto podrá dictar las instrucciones oportunas.
+
+### Artículo 73
+
+Artículo 73. Deber de colaboración.
+Los órganos, autoridades, funcionarios y demás personal al servicio de la Administración autonómica prestarán la colaboración necesaria a la Dirección General de los Servicios Jurídicos para el mejor ejercicio de sus funciones de asistencia jurídica.
+
+## TÍTULO V
+
+De la contratación administrativa
+
+### Artículo 74
+
+Artículo 74. Régimen.
+Los contratos que celebre la Comunidad Autónoma se regirán por la legislación básica del Estado y por la normativa autonómica propia sobre la materia.
+
+### Artículo 75
+
+Artículo 75. Órganos de contratación.
+1. Los Consejeros son los órganos de contratación de la Administración General de la Comunidad Autónoma de La Rioja, sin perjuicio de las facultades que en esta materia tiene atribuidas el Consejo de Gobierno, y firmarán los contratos administrativos en nombre de ésta.
+2. La Ley de creación de los organismos públicos determinará los órganos de contratación de sus respectivos entes. La normativa vigente en materia de Hacienda Pública en el ámbito de la Comunidad Autónoma de La Rioja podrá determinar los supuestos en los cuales será necesaria autorización previa del Consejo de Gobierno, o del titular de la Consejería a la que estén adscritos para la celebración de contratos.
+3. Sin perjuicio de lo anterior podrán constituirse Juntas de Contratación en las Consejerías y en los organismos públicos, que actuarán como órganos de contratación, con los límites que establezca el titular de la Consejería o el órgano designado por la Ley de creación del correspondiente organismo público para los contratos que reglamentariamente se determinen.
+
+### Artículo 76
+
+Artículo 76. Autorización del Consejo de Gobierno.
+1. Será necesaria la autorización del Consejo de Gobierno para celebrar el contrato en aquellos casos en que el gasto derivado del mismo, por su cuantía, carácter plurianual u otras circunstancias que determinen las leyes de presupuestos u otras normas aplicables, también requiera autorización del Consejo.
+2. En los contratos que, de acuerdo con lo previsto en el apartado anterior, requieran la autorización del Consejo de Gobierno, esta se producirá con carácter previo a la aprobación del expediente de contratación, que, al igual que la aprobación del gasto, corresponderá al órgano de contratación.
+3. La autorización del Consejo de Gobierno para la aprobación del gasto, según la legislación presupuestaria y de Hacienda Pública, implicará también la autorización para contratar.
+4. La autorización que otorgue el Consejo de Gobierno será genérica, sin que en ningún caso implique una validación de los trámites realizados por el órgano de contratación, ni exima de la responsabilidad que corresponda a este respecto de la tramitación y aprobación de los distintos documentos que conformen los expedientes de contratación y de gasto.
+5. El Consejo de Gobierno podrá reclamar discrecionalmente el conocimiento y autorización de cualquier otro contrato. Igualmente, el órgano de contratación podrá elevar un contrato no comprendido en los supuestos precedentes a la consideración del Consejo de Gobierno.
+6. Cuando el Consejo de Gobierno autorice la celebración del contrato, deberá autorizar igualmente su modificación y resolución, así como su prórroga, salvo que esta última no suponga incremento de gasto.
+Se modifica por el art. 9.1 de la Ley 2/2020, de 30 de enero. Ref. BOE-A-2020-1939
+
+### Artículo 77
+
+Artículo 77. Garantías.
+La prestación de garantías por los licitadores y adjudicatarios de los contratos se realizará en las formas previstas en la legislación de contratos de las Administraciones Públicas, y se constituirán en la Tesorería de la Comunidad Autónoma de La Rioja, que actuará como caja general de depósitos y garantías a estos efectos, y a disposición de ésta.
+
+### Artículo 78
+
+Artículo 78. Registro público de contratos y licitadores.
+La consejería competente en materia de Hacienda llevará un registro público de los contratos que celebre el sector público de la Comunidad Autónoma de La Rioja.
+La misma consejería ejercerá las competencias en el ámbito territorial de La Rioja en materia de inscripción de licitadores en el Registro Oficial de Licitadores y Empresas Clasificadas del Estado.
+Se modifica por el art. 13.23 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 79
+
+Artículo 79. Prerrogativas de la Administración.
+1. Corresponde al órgano de contratación dentro de los límites y con sujeción a los requisitos y efectos señalados en la legislación básica sobre contratación administrativa, la prerrogativa de interpretar los contratos administrativos, resolver las dudas que ofrezca su cumplimiento, modificarlos por razones de interés público, acordar su resolución y determinar los efectos de ésta.
+2. En el correspondiente expediente se dará audiencia al contratista.
+3. Los acuerdos correspondientes pondrán fin a la vía administrativa y serán inmediatamente ejecutivos.
+4. Los acuerdos a que se refieren los apartados anteriores deberán ser adoptados previo informe de la Dirección General de los Servicios Jurídicos.
+
+### Artículo 80
+
+Artículo 80. Mesa de Contratación.
+1. Existirá una Mesa de Contratación común para la Administración general de la Comunidad Autónoma de La Rioja, que, como órgano de asistencia técnica especializada de los órganos de contratación, ejercerá las funciones que le encomiende la legislación de contratos del sector público en los procedimientos en ella establecidos.
+2. La Mesa de Contratación común estará constituida por cuatro miembros: un presidente, dos vocales y un secretario, todos ellos funcionarios de la Administración general de la Comunidad Autónoma de La Rioja con experiencia en materia de contratación pública.
+En ningún caso podrán formar parte de las mesas de contratación ni emitir informes de valoración de las ofertas los altos cargos y el personal eventual incluidos en la disposición adicional segunda de la Ley 8/2003, de 28 de octubre, del Gobierno e Incompatibilidades de sus miembros. Podrá formar parte de la mesa personal funcionario interino únicamente cuando no existan funcionarios de carrera suficientemente cualificados y así se acredite en el expediente. Tampoco podrá formar parte de las mesas de contratación el personal que haya participado en la redacción de la documentación técnica del contrato de que se trate.
+Entre los vocales deberán figurar necesariamente:
+a) Un letrado adscrito a la Dirección General de los Servicios Jurídicos.
+b) Un interventor o un funcionario de la Intervención General que tenga atribuidas funciones de control económico-presupuestario.
+El presidente deberá ser funcionario de Administración general, perteneciente al grupo A1 y ocupar un puesto de Jefatura de Servicio. El secretario deberá ser funcionario de Administración general perteneciente a los grupos A1 o A2, adscrito al servicio con funciones en materia de coordinación de la contratación y contratación centralizada de la consejería con competencias en materia de coordinación de la contratación.
+La válida constitución de la Mesa exigirá la presencia de todos sus miembros.
+El secretario asistirá a las reuniones con voz y voto.
+El presidente tendrá voto de calidad en caso de empate.
+3. El nombramiento de los miembros, tanto titulares como suplentes, de la Mesa de Contratación común se realizará por el titular del órgano que tenga atribuida la competencia de coordinación de la contratación pública de la Comunidad Autónoma de La Rioja, a propuesta, en el caso de los vocales, del director general de los Servicios Jurídicos y del interventor general.
+En el nombramiento se designarán un titular y dos suplentes de cada uno de los miembros de la mesa común.
+Tras el nombramiento, la composición de la mesa común se publicará en la Plataforma de Contratación de la Comunidad Autónoma de La Rioja.
+4. La Mesa de Contratación podrá solicitar el asesoramiento de personal de la Administración general con conocimientos acreditados en las materias relacionadas con el objeto del contrato y que no haya participado en la redacción de la documentación técnica del mismo ni haya emitido el informe de valoración de los criterios sujetos a juicio de valor. Si la Mesa precisa del asesoramiento de técnicos o expertos independientes con conocimientos acreditados en las materias relacionadas con el contrato que no pertenezcan a la Administración general, precisará de la autorización del órgano de contratación. En cualquier caso, quedará constancia de su identidad en las actas de las sesiones de la Mesa a las que asistan, que se publicarán en la Plataforma de Contratación de la Comunidad Autónoma de La Rioja.
+5. Los organismos públicos se sujetarán a las prescripciones establecidas en la legislación de contratos del sector público sobre la Mesa de Contratación.
+6. Para asistir al órgano de contratación en los procedimientos de diálogo competitivo o de asociación para la innovación, se constituirá para cada contrato una Mesa de seis miembros constituida por un presidente, cuatro vocales y un secretario, todos ellos personal de la Administración general de la Comunidad Autónoma de La Rioja con experiencia en materia de contratación pública y con las mismas limitaciones que las establecidas en el apartado 2 para la Mesa de Contratación común. El presidente y el secretario deberán pertenecer al cuerpo de funcionarios del Cuerpo Técnico de Administración general, y el presidente deberá ocupar puesto de jefe de Servicio. Entre los vocales deberá figurar necesariamente un letrado adscrito a la Dirección General de los Servicios Jurídicos y un interventor o funcionario de la Intervención General que tenga atribuidas funciones de control económico-presupuestario. A esta Mesa se incorporarán personas especialmente cualificadas en la materia sobre la que verse el diálogo o la asociación para la innovación. El número de estas personas será igual o superior a un tercio de los componentes de la Mesa y participarán en las deliberaciones con voz y voto. Los miembros de la Mesa y los especialistas serán designados por el órgano de contratación.
+Se modifica por el art. 4 de la Ley 17/2022, de 29 de diciembre. Ref. BOE-A-2023-1959
+ Se modifica por el art. 9.2 de la Ley 2/2020, de 30 de enero. Ref. BOE-A-2020-1939
+
+### Artículo 81
+
+Artículo 81.
+Los expedientes de resolución contractual de los contratos administrativos de la Administración general de la Comunidad Autónoma de La Rioja, de sus organismos autónomos y de los demás entes pertenecientes al sector público de la comunidad deberán ser instruidos y resueltos en el plazo máximo de ocho meses.
+Se añade por la disposición adicional única.1 de la Ley 17/2022, de 29 de diciembre. Ref. BOE-A-2023-1959
+
+### Disposición adicional primera
+
+Disposición adicional primera. Reclamaciones por daños y perjuicios derivados de asistencia sanitaria prestada por las entidades previstas en el artículo 3 del Real Decreto 29/2000, de 14 de enero, sobre nuevas formas de gestión del INSALUD.
+La iniciación, instrucción y resolución de los procedimientos relativos a las reclamaciones previstas en el artículo 35 del Real Decreto 29/2000, de 14 de enero, sobre nuevas formas de gestión del INSALUD, corresponderá a la Consejería competente en materia de Salud, cuando tengan por objeto el resarcimiento de los daños y perjuicios causados por o con ocasión de la asistencia sanitaria prestada en el ámbito de la Comunidad Autónoma de La Rioja a través de las entidades recogidas en el artículo 3 de dicho Real Decreto que actúen bajo su tutela y control.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Modificación de la Ley 3/2001, de 31 de mayo, del Consejo Consultivo de La Rioja.
+1. Se da nueva redacción al apartado 2 del artículo 3, con el siguiente contenido:
+«2. Los miembros del Consejo serán nombrados por un período de cinco años, pudiendo ser reelegidos hasta un máximo de tres períodos, y se renovarán a razón de uno por año.»
+2. Se suprime el apartado 3 del artículo 3 de la Ley 3/2001, de 31 de mayo, del Consejo Consultivo de La Rioja.
+3. Se da la nueva redacción siguiente al artículo 11.g) de la Ley 3/2001, de 31 de mayo, del Consejo Consultivo de La Rioja:
+«g) Reclamaciones de cuantía indeterminada o superiores a 600 euros que, en concepto de daños y perjuicios, se formulen ante la Administración Pública.»
+4. Se sustituye el actual apartado d) del artículo 12, que pasará a ser el e), por el siguiente:
+«Artículo 12.
+d) Reclamaciones inferiores a 600 euros que, en concepto de daños y perjuicios, se formulen ante la Administración Pública, cuando el órgano que haya de resolver considere conveniente conocer la doctrina del Consejo.»
+5. Se sustituye el contenido de la Disposición Transitoria. Única de la Ley 3/2001, de 31 de mayo del Consejo Consultivo de La Rioja por el siguiente:
+«Disposición transitoria única.
+Con objeto de posibilitar la aplicación a los actuales miembros del Consejo Consultivo de lo dispuesto en el artículo 3.2 de esta Ley, se observarán las siguientes reglas:
+1.ª Los actuales miembros del Consejo Consultivo continuarán en sus cargos hasta la finalización del mandato de cinco años a que se refiere al artículo 3.2 de esta Ley.
+2.ª Su renovación se realizará a razón de uno por año a medida que vayan cumpliéndose los cinco desde su respectiva toma de posesión.
+3.ª El año en que procediera renovar a más de un Consejero, se renovará sólo al de mayor edad; el año siguiente, al de menor edad de ambos; y, en los años sucesivos, a los restantes Consejeros, a razón de uno por año, comenzando siempre por el de fecha de nombramiento más antigua.
+4.ª Una vez concluido este período transitorio, proseguirán las renovaciones anuales al artículo 3.2 de la presente Ley.»
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Modificación de la Ley 3/1990, de 29 de junio, de la Función Pública de la Comunidad Autónoma de La Rioja.
+Se da la siguiente nueva redacción al apartado 3 de la disposición adicional sexta de la Ley 3/1990, de 29 de junio, de la Función Pública de la Comunidad Autónoma de La Rioja:
+«3. En el Cuerpo Facultativo Superior de Administración Especial se crea la Escala de Letrados de la Comunidad Autónoma de La Rioja.
+Esta Escala tiene por competencia la prestación de cualesquiera servicios de asistencia jurídica propios de la profesión de abogado y de procurador de los tribunales, y especialmente los de asesoramiento en Derecho, representación y defensa en juicio de la Administración General de la Comunidad Autónoma de La Rioja y de sus Organismos Públicos, así como, en su caso, de los demás entes integrantes del Sector Publico de la Comunidad Autónoma, en los términos establecidos en las Leyes vigentes.
+Se integran en esta Escala los funcionarios titulares de la Escala de Asesores Jurídicos del Cuerpo Facultativo Superior de Administración Especial.
+También se integrarán, cuando fueran transferidos, los funcionarios titulares de los siguientes Cuerpos:
+Cuerpo de Abogados del Estado.
+Cuerpo Superior de Letrados de la Administración de la Seguridad Social.»
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Modificación de la Ley 3/2003, de 3 de marzo, de organización del Sector Público de la Comunidad Autónoma de La Rioja.
+1. Se da la siguiente nueva redacción al apartado 2 del artículo 39 de la Ley 3/2003, de 3 de marzo, de organización del Sector Público de la Comunidad Autónoma de La Rioja:
+«2. Las reclamaciones previas al ejercicio de acciones fundadas en Derecho privado o laboral serán resueltas por el máximo órgano rector del Organismo autónomo.»
+2. Se da la siguiente nueva redacción al apartado 2 del artículo 47 de la Ley 3/2003, de 3 de marzo, de organización del Sector Público de la Comunidad Autónoma de La Rioja:
+«2. Las reclamaciones previas al ejercicio de acciones fundadas en Derecho privado o laboral serán resueltas por el máximo órgano rector de la entidad pública empresarial.»
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Boletín Oficial de La Rioja.
+El Boletín Oficial de La Rioja será el medio oficial de publicación de las disposiciones generales y actos administrativos de la Comunidad Autónoma de La Rioja así como de los que proceda publicar en el ámbito de La Rioja. Corresponde al Consejo de Gobierno regular su funcionamiento.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Declaración de utilidad pública.
+1. En los proyectos de obras de infraestructura, de instalaciones deportivas, educativas, socioculturales, telecomunicaciones, sanitarias, sociosanitarias y centros de internamiento de reforma, aprobados o que se aprueben, financiados con cargo a los créditos de inversión, se entenderá implícita la declaración de utilidad pública de los bienes y adquisición de derechos correspondientes, a fines de expropiación, de ocupación temporal o de imposición de servidumbres.
+2. La declaración de utilidad pública hará referencia, asimismo, a los bienes y derechos comprendidos en el replanteo del proyecto y en las modificaciones de obras que pudieran aprobarse posteriormente.
+3. A los efectos indicados en los números anteriores, los proyectos de obras y sus modificaciones deberán comprender la definición del trazado de las mismas y la determinación de los terrenos, construcciones y otros bienes o derechos que se estime preciso ocupar o adquirir para la realización de los mismos.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Procedimientos administrativos en materia tributaria.
+1. Los procedimientos tributarios y la aplicación de los tributos se regirán por la Ley General Tributaria, por las Leyes propias de los tributos y las demás normas dictadas en su desarrollo y aplicación. En defecto de norma tributaria aplicable, regirán supletoriamente las disposiciones de la presente Ley.
+En todo caso, en los procedimientos tributarios, los plazos máximos para dictar resoluciones, los efectos de su incumplimiento, así como, en su caso, los efectos de la falta de resolución serán los previstos en la normativa tributaria.
+2. La revisión de actos en vía administrativa en materia tributaria se ajustará a lo dispuesto en los artículos 213 y siguientes de la Ley 58/2003, de 17 de diciembre, General Tributaria y disposiciones dictadas en desarrollo y aplicación de la misma.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Requerimientos previos a la vía judicial contencioso-administrativa.
+Corresponde a los titulares de las Consejerías resolver los requerimientos fundamentados en el artículo 44 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Órgano consultivo en materia de contratación administrativa.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 17/2022, de 29 de diciembre. Ref. BOE-A-2023-1959
+
+### Disposición adicional décima
+
+Disposición adicional décima. Reclamaciones económico-administrativas.
+Las reclamaciones económico-administrativas contra actos de gestión, liquidación, recaudación e inspección de los tributos propios de la Comunidad Autónoma y de otros ingresos de Derecho público de la misma, así como los de reconocimiento o liquidación de obligaciones y cuestiones relacionadas con operaciones de pago con cargo a la Tesorería de la Comunidad Autónoma se presentarán ante el Tribunal Económico-Administrativo de la Comunidad Autónoma de La Rioja, de acuerdo con su legislación específica.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Procedimientos iniciados antes de la entrada en vigor de esta Ley.
+1. Los procedimientos de elaboración de disposiciones de carácter general iniciados con anterioridad a la entrada en vigor de la presente Ley se tramitarán, hasta su conclusión, de acuerdo con la normativa anterior.
+2. Los procedimientos sancionadores iniciados con anterioridad a la entrada en vigor de la presente Ley se tramitarán hasta su resolución de acuerdo con la normativa anterior.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley y, en particular:
+La Ley 3/1995, de 8 de marzo, de Régimen Jurídico del Gobierno y de la Administración Pública de la Comunidad Autónoma de La Rioja, salvo los Capítulos I y III de su Título VIII.
+Las disposiciones adicionales primera y segunda de la Ley 3/2003, de 3 de marzo, de organización del Sector Público de la Comunidad Autónoma de La Rioja.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+Se habilita al Gobierno de La Rioja para dictar cuantas disposiciones reglamentarias sean precisas para el desarrollo y aplicación de esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor a los tres meses de su publicación en el Boletín Oficial de La Rioja.
+
+Por tanto, ordeno a todos los ciudadanos cumplan y cooperen al cumplimiento de la presente Ley y a los Tribunales y Autoridades la hagan cumplir.
+Logroño, 1 de junio de 2005.
+PEDRO SANZ ALONSO,
+Presidente.

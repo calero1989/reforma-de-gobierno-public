@@ -1,0 +1,68 @@
+# Ley 4/1983, de 4 de agosto, reguladora del procedimiento de designación de Senadores por el Principado de Asturias.
+
+- Identificador BOE: `BOE-A-1983-26187`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1983-26187
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL PRINCIPADO
+Sea notorio que la Junta General del Principado ha aprobado y yo, en nombre de Su Majestad El Rey y de acuerdo con lo dispuesto en el artículo 31.2 del Estatuto de Autonomía para Asturias, vengo en promulgar la siguiente Ley reguladora del procedimiento de designación de Senadores por el Principado de Asturias:
+EXPOSICIÓN DE MOTIVOS
+El artículo 69 de la Constitución Española de 27 de diciembre de 1978, establece en su apartado 5 que las Comunidades Autónomas designarán un Senador y otro más por cada millón de habitantes de su respectivo territorio, correspondiendo la designación a la Asamblea legislativa, de acuerdo con lo que establezcan los Estatutos que asegurarán, en todo caso. la adecuada representación proporcional.
+Por su parte, el Estatuto de Autonomía para Asturias, aprobado por Ley Orgánica 7/1981, de 30 de diciembre, en concordancia con el artículo citado de la Constitución, refiere, en su artículo 24.2, a la Junta General del Principado la competencia para regular mediante Ley la designación de los Senadores representantes de la Comunidad Autónoma.
+El presente proyecto de Ley tiene por finalidad regular el citado procedimiento para designar a los Senadores por el Principado de Asturias.
+
+### Artículo 1
+
+Artículo 1.
+La designación de los Senadores que corresponde al Principado de Asturias, de conformidad con lo que determina el artículo 69.5 de la Constitución Española de 27 de diciembre de 1978, se efectuará de acuerdo con el procedimiento que se establece en la presente Ley.
+
+### Artículo 2
+
+Artículo 2.
+Podrán ser designados por el Principado de Asturias los ciudadanos españoles que, además de reunir las condiciones generales exigidas en las leyes electorales para ser elegibles como Senadores, gocen de la condición política de asturianos, conforme a lo dispuesto en el artículo 70.1 del Estatuto de Autonomía para Asturias y declaren, formalmente, su aceptación del cargo caso de resultar designados.
+Los Senadores designados por el Principado de Asturias estarán afectados por las causas de incompatibilidad establecidas en las leyes electorales generales. La aceptación por los mismos de cualquier cargo o función declarado incompatible, llevará consigo la simultánea renuncia al correspondiente escaño.
+
+### Artículo 3
+
+Artículo 3.
+El procedimiento para la designación de los Senadores por el Principado de Asturias, será el siguiente:
+a) Dentro de Ios quince días siguientes al cumplimiento del plazo previsto en el apartado 1 del artículo 13 del Reglamento de la Junta General del Principado, la Mesa de la Cámara, de acuerdo con la Junta de Portavoces fijará el número de Senadores que corresponde a cada Grupo Parlamentario y el plazo en el que los representantes de los distintos Grupos deberán proponer sus candidatos.
+La designación se hará aplicando el sistema de mayor media o D’Hont al número de miembros de los Grupos Parlamentarios. Si coincidieran dos cocientes para la atribución del último puesto de Senador, el escaño se atribuirá al Grupo Parlamentario cuya lista haya obtenido mayor número de votos en las elecciones regionales y, si persistiese el empate, será resuelto por sorteo.
+b) Finalizado el plazo de presentación, la Mesa de la Junta dará traslado inmediato a la Comisión de Reglamento de la relación de candidatos propuestos, así como de la documentación recibida de los Grupos Parlamentarios proponentes.
+c) La Comisión de Reglamento verificará si los candidatos propuestos reúnen los requisitos exigidos en el artículo segundo de la presente Ley, pudiendo recabar de los Grupos Parlamentarios, cuando lo considere necesario, la documentación complementaria oportuna. En el dictamen que la Comisión de Reglamento emita. se determinarán los candidatos propuestos en quienes concurran las condiciones para ser designados.
+d) Evacuado el trámite parlamentario señalado en el apartado anterior, será convocado el Pleno de la Junta que se pronunciará sobre la existencia o no de causas de incompatibilidad en los candidatos propuestos y, en su caso, procederá a la designación de los Senadores.
+En los casos de declaración de incompatibilidad de alguno de los candidatos, el Grupo afectado formulará nueva propuesta que seguirá la tramitación establecida en los apartados precedentes.
+
+### Artículo 4
+
+Artículo 4.
+El Presidente de la Junta General proclamará Senadores por la Comunidad Autónoma Principado de Asturias a los que resultaren designados por el procedimiento del artículo anterior.
+La Mesa de la Junta hará entrega a los mismos de las credenciales acreditativas de la designación.
+
+### Artículo 5
+
+Artículo 5.
+El mandato de los Senadores designados por el Principado de Asturias en cada legislatura terminará una vez que, en la siguiente, se produzca la designación de los nuevos Senadores y en los demás supuestos previstos en el ordenamiento jurídico.
+Cuando el mandato de los Senadores finalice en los supuestos de término de la legislatura del Senado por cualquiera de las causas establecidas en la Constitución, una vez constituido el nuevo Senado, la Junta conferirá mandato a las mismas personas que hubieran resultado designadas en la Legislatura.
+Se modifica por el art. único de la Ley 3/1990, de 19 de diciembre. Ref. BOE-A-1991-3216.
+
+### Artículo 6
+
+Artículo 6.
+Las vacantes de Senadores que pudieran producirse durante una misma legislatura de la Junta, serán cubiertas mediante el procedimiento establecido en la presente Ley, el cual deberá iniciarse dentro de los quince días siguientes a la fecha en que la vacante se produzca.
+No obstante, la provisión de una vacante no deberá alterar la relación de proporcionalidad existente entre los Grupos Parlamentarios conforme al apartado a) del artículo 3.
+
+### DISPOSICIÓN TRANSITORIA
+
+En el término de los treinta días siguientes a la entrada en vigor de la presente Ley, se iniciará el procedimiento para la designación de los Senadores por el Principado de Asturias, correspondientes a la actual legislatura.
+
+### DISPOSICIÓN FINAL
+
+La presente Ley entrará en vigor el día de su publicación en el "Boletín Oficial del Principado de Asturias" y de la Provincia.
+
+Por tanto, ordeno a todos los ciudadanos a quienes sea de aplicación esta Ley coadyuven a su cumplimiento, así como a todos los Tribunales y Autoridades que la guarden y la hagan guardar.
+Oviedo, a cuatro de agosto de mil novecientos ochenta y tres.—Pedro de Silva Cienfuegos-Jovellanos.

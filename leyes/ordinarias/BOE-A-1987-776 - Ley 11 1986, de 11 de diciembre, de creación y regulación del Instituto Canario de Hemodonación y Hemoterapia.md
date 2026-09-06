@@ -1,0 +1,204 @@
+# Ley 11/1986, de 11 de diciembre, de creación y regulación del Instituto Canario de Hemodonación y Hemoterapia.
+
+- Identificador BOE: `BOE-A-1987-776`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-776
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE CANARIAS
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo en nombre del Rey y de acuerdo con lo que establece el artículo 11.7 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+PREÁMBULO
+Como consecuencia de la situación actual de la hemodonación y hemoterapia en España se hace preciso la elaboración de un nuevo marco legal que trate de corregirla propiciando una reordenación de estas actividades en beneficio de la sociedad. El Real Decreto 1945/1985, de 9 de octubre, trata de regular la donación de sangre humana y sus componentes, los bancos de sangre y sus actividades. El citado Real Decreto regula en sus artículos 8 al 16 la creación por las Comunidades Autónomas de los diversos tipos de bancos de sangre previstos en el artículo 9 del mismo, permitiendo su concesión a Entidades con fines sanitarios, públicos o privados, sin ánimo de lucro.
+La situación de dispersión descrita es más grave en Canarias que en el resto del Estado, como consecuencia de su propia estructura geográfica insular. Esta realidad ha originado unas condiciones deficientes en los bancos de sangre existentes que exigirá de inmediata puesta en marcha de las previsiones del Real Decreto 1945/1985, creando Centros comunitarios de transfusion, bancos de sangre provinciales o de área y bancos hospitalarios. A tal efecto se crea una Entidad pública, el Instituto Canario de Hemodonación y Hemoterapia que constituida como Entidad titular de los Bancos de Sangre que se puedan crear, gestione con la suficiente agilidad la actividad de los mismos en la Comunidad Autónoma de Canarias.
+
+### Artículo 1
+
+Artículo 1.
+1. Por la presente Ley se crea el Instituto Canario de Hemodonación y Hemoterapia (ICHH), como Organismo autónomo de los previstos en el articulo 4. de la Ley 7/1984, de 11 de diciembre, de la Hacienda publica de la Comunidad Autónoma de Canarias.
+2. El ICHH goza de personalidad jurídica propia y distinta de la atribuida a la Administración de la Comunidad Autónoma y queda adscrito a la Consejeria de Trabajo, Sanidad y Seguridad Social.
+
+### Artículo 2
+
+Artículo 2.
+1. El ICHH tendrá por objeto el ejercicio de las actividades atribuidas por el Real Decreto 1945/1986, de 9 de octubre, a los Centros Comunitarios de transfusión, bancos de sangre provinciales o de área y bancos hospitalarios que, creados por la Administración de la Comunidad Autónoma de Canarias, le sean atribuidos de acuerdo con lo previsto en el artículo 8.2 del citado Real Decreto.
+2. En el ejercicio de su actividad propia, que no tendrá animo de lucro, el ICHH se ajustará a lo previsto en la legislación del Estado sobre la materia, rigiéndose, en su actuación comercial, por las normas propias del Derecho Privado.
+
+### Artículo 3
+
+Artículo 3.
+1. El ámbito de actuación del ICHH será la región canaria y su Dirección tendrá la sede en las Palmas de Gran Canaria.
+2. El ICHH contará al menos con dos bancos provinciales o de área en función de la demanda y de las necesidades de la población, sin perjuicio de la apertura de otros establecimientos o bancos que en el futuro se hagan necesarios.
+3. El ICHH podrá designar para cada isla un responsable insular, cuya función será la coordinación de la ejecución de sus políticas y actividades de hemodonación y hemoterapia.
+
+### Artículo 4
+
+Artículo 4.
+El ICHH estara regido por:
+a) El Consejo.
+b) El Presidente del Instituto.
+
+### Artículo 5
+
+Artículo 5.
+El Consejo del Instituto Canario de Hemodonación y Hemoterapia tiene la composición siguiente:
+a) Presidencia: la persona titular de la consejería competente en materia de sanidad.
+b) Vicepresidencia primera: la persona titular de la Dirección del Servicio Canario de la Salud.
+c) Vicepresidencia segunda: la persona titular de la Presidencia del Instituto.
+d) Vocales:
+– La persona titular de la Secretaría General Técnica de la consejería competente en materia de sanidad.
+– La persona titular de la Dirección Técnica del Centro Canario de Transfusión.
+– Una persona en representación de los Servicios de Transfusión Hospitalarios de titularidad Pública pertenecientes a la Red Transfusional Canaria, designada por el consejero o consejera competente en materia de sanidad.
+– Una persona en representación de los Servicios de Transfusión Hospitalarios de titularidad privada pertenecientes a la Red Transfusional Canaria, designada por el consejero o consejera competente en materia de sanidad, a propuesta de los mismos.
+e) Secretaria: la persona designada por la Presidencia del Instituto de entre el personal al servicio del Instituto Canario de Hemodonación y Hemoterapia, con voz y sin voto.
+Se modifica por el art. 3 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282.
+
+### Artículo 6
+
+Artículo 6.
+El Presidente del ICHH, con rango de Director general, será nombrado por el Gobierno de Canarias, a propuesta del Consejo de Trabajo, Sanidad y Seguridad Social.
+
+### Artículo 7
+
+Artículo 7.
+Son funciones del Consejo:
+1. Aprobar el proyecto de presupuestos del ICHH.
+2. Nombrar a los Directores de los bancos de sangre que le sean atribuidos.
+3. Adoptar las directrices previas para coordinar la actuación de los bancos de sangre de los que sea titular del Instituto.
+4. Autorizar los gastos que excedan de 10 millones de pesetas.
+5. Supervisar la actuación del presidente del ICHH.
+6. Proponer la creación o supresión de Centros de hemodonación y hemoterapia.
+7. Elaborar las normas que garanticen su funcionamiento y actuación, que habran de ser aprobados por el Consejo de Gobierno de Canarias.
+8. Las demás que les atribuya ésta u otra disposición.
+
+### Artículo 8
+
+Artículo 8.
+Son funciones del Presidente:
+1. Representar al ICHH en juicio y fuera de él.
+2. Contratar al personal al servicio del ICHH y ejercer sobre el mismo los poderes de dirección previstos por la legislación laboral.
+3. Elaborar el anteproyecto de presupuestos del ICHH.
+4. Elaborar las relaciones de puestos de trabajo del Instituto e intervenir en la confección de las relaciones de puestos de trabajo de los Centros.
+5. Ejecutar los acuerdos del Consejo.
+6. Autorizar las operaciones de compra y venta propias de la actividad del Instituto, así como disponer los gastos y firmar los contratos del Instituto Canario de Hemodonación y Hemoterapia.
+7. Las demás atribuidas por las leyes.
+Se modifica el apartado 6 por el art. 14.1 de la Ley 2/2000, de 17 de julio. Ref. BOE-A-2000-15425.
+
+### Artículo 9
+
+Artículo 9.
+1. El Patrimonio del ICHH está constituido por los bienes y derechos que le pertenezcan.
+2. Los bienes que la Comunidad Autónoma de Canarias, los Cabildos Insulares, el INSALUD, u otras Administraciones o instituciones privadas adscriban al ICHH para el cumplimiento de sus fines, conservarán su calificación jurídica ordinaria sin integrarse en el patrimonio del Instituto.
+
+### Artículo 10
+
+Artículo 10.
+1. Los Presupuestos del ICHH serán aprobados por el Parlamento de Canarias, integrándose en los Presupuestos Generales de la Comunidad Autónoma conforme a lo dispuesto en el artículo 30.4 c) de la Ley 7/1984, de 11 de diciembre, de la Hacienda Pública de la Comunidad Autónoma de Canarias.
+2. El presupuesto, que será anual y coincidirá con el año natural, conllevara:
+a) Un estado de recursos, con las correspondientes estimaciones para el ejercicio.
+b) Un estado de dotaciones, con la evolución de las necesidades del ejercicio y que podrán ser:
+Estimativas, si recogen variaciones de activo y de pasivo y las existencias en almacenes.
+Limitativas, si se destinan a remunerar al personal y si consisten en subvenciones corrientes o gastos de capital.
+Ampliables, si se determinan en función de los recursos efectivamente obtenidos.
+
+### Artículo 11
+
+Artículo 11.
+Son ingresos del ICHH:
+1. Los productos y ventas de su patrimonio.
+2. Las subvenciones que le fueran concedidas.
+3. Los ingresos procedentes de su actividad de gestión de los bancos de sangre que le sean atribuidos.
+4. Las aportaciones voluntarias de Entidades o particulares.
+5. Cualquier otro recurso que le pudiera ser atribuido.
+Se modifica por el art. 10.1 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712.
+ Se modifica por el art. 14.2 de la Ley 2/2000, de 17 de julio. Ref. BOE-A-2000-15425.
+
+### Artículo 12
+
+Artículo 12.
+El importe de los ingresos derivados de la actividad propia del Instituto Canario de Hemodonación y Hemoterapia, relativa a la gestión de los bancos de sangre, podrá destinarse a la financiación de los gastos derivados de la compra de bienes y servicios corrientes y de inversiones reales necesarias para la captación, extracción, procesamiento, distribución y promoción de la donación de la sangre dentro del ámbito territorial de la Comunidad Autónoma de Canarias.
+En los presupuestos de la Comunidad Autónoma se garantizará el adecuado funcionamiento de los bancos que se creen en razón a la demanda y necesidades de los mismos.
+Se modifica por el art. 10.2 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712.
+
+### Artículo 13
+
+Artículo 13.
+1. La intervención del ICHH se ejercerá:
+a) Respecto a las dotaciones limitativas, por la Intervención General de la Comunidad Autónoma de Canarias.
+b) Respecto a las demás dotaciones, por sus propios órganos.
+2. El control de las dotaciones no limitativas del ICHH por la Intervención General de la Comunidad Autónoma se ejercerá mediante procedimientos de auditoría y a través de las respectivas cuentas justificativas.
+
+### Artículo 14
+
+Artículo 14.
+1. Los actos, contratos y negocios jurídicos que celebre el ICHH se regirán por las normas del Derecho Privado.
+2. Sin embargo, el ICHH podrá establecer convenio de colaboración con las Administraciones Públicas para el mejor cumplimiento de sus fines comunes.
+
+### Artículo 15
+
+Artículo 15.
+1. El personal al servicio del ICHH se regirá por la legislación laboral, pudiendo prestar sus funciones, bien en los órganos centrales del instituto, bien en los establecimientos abiertos por este para la gestión de los bancos de sangre que le sean atribuidos.
+2. Además del personal laboral propio, podrá prestar sus servicios en el instituto o en los bancos de sangre de su titularidad, el personal dependiente de la Administración de la Comunidad Autónoma o de otras entidades, públicas o privadas, que sea adscrito al mismo con arreglo a su propia legislación.
+3. La selección del personal propio del ICHH se realizará mediante concurso público.
+4. Las retribuciones del personal propio de ICHH se regularán por medio de la negociación colectiva dentro de los límites del presupuesto del instituto.
+5. La contratación de personal laboral sustituto, para cubrir necesidades urgentes e inaplazables del instituto, sólo requerirá la autorización del titular del departamento, previa acreditación de la disponibilidad presupuestaria, sin perjuicio de su inmediata comunicación a las direcciones generales de la Función Pública y de Planificación, Presupuesto y Gasto Público a los efectos procedentes.
+6. Las condiciones de trabajo del personal laboral del ICHH se regirán por lo establecido en el Estatuto de los Trabajadores y en los convenios colectivos que, en aplicación de lo dispuesto en su título III, acuerden suscribir los representantes del organismo y de los trabajadores o en aquellos a los que acuerden adherirse. En su defecto será de aplicación el convenio colectivo vigente para el personal laboral de la Comunidad Autónoma de Canarias.
+Se modifica por la disposición final 15 de la Ley 7/2022, de 28 de diciembre. Ref. BOE-A-2023-5961
+ Se añade el apartado 5 por el art. 14.3 de la Ley 2/2000, de 17 de julio. Ref. BOE-A-2000-15425.
+
+### Artículo 16
+
+Artículo 16.
+El ICHH se extinguirá por Ley del Parlamento de Canarias cuando no resulte preciso para el cumplimiento de los fines previstos en el articulo 2 de esta Ley.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El ICHH se constituirá en el plazo máximo de dos meses contados a partir de la entrada en vigor de esta Ley, mediante la designación de su Presidente y de los vocales electivos de su Consejo.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. En lo no previsto por esta ley, el ICHH se regirá por la Ley de la Hacienda Pública de la Comunidad Autónoma de Canarias y supletoriamente, hasta tanto no se regulen los Organismos autónomos de la Comunidad, por la Ley de Entidades Estatales Autónomas.
+2. La gestión por el ICHH de los Bancos de Sangre que les sean atribuidos se regirá por el Real Decreto 1945/1985, de 9 de octubre, y por las disposiciones del Estado y de la Comunidad Autónoma de Canarias que complementen o desarrollen aquel.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Cuando se produzca la transferencia a la Comunidad Autónoma de Canarias de los bienes y servicios actualmente administrados por el INSALUD en la región, los representantes del Insalud en el Consejo, a que se refiere el artículo 5.2 de esta Ley, serán designados por el Organismo de la Comunidad Autónoma que asuma las funciones transferidas.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Se aprueba el presupuesto del ICHH para el año 1987.
+Estado de recursos
+Pesetas
+ Subvención del Gobierno de Canarias
+ 90.000.000
+ Subvención Cabildo Insular de Gran Canaria
+ 22.000.000
+ Ingresos procedentes de su actividad
+ 10.000.000
+ Otros ingresos
+ 13.000.000
+ Total
+ 135.000.000
+ Estado de dotaciones
+ Estimativas:
+ Adquisición de material
+ 5.000.000
+ Limitativas:
+ Gastos de personal
+ 50.000.000
+ Inversiones
+ 10.000.000
+ Ampliables:
+ Gastos de funcionamiento
+ 70.000.000
+
+Por tanto ordeno a todos los ciudadanos a los que sea de aplicacion esta ley cooperen en su cumplimiento y que los Tribunales y Autoridades a los que corresponda la hagan cumplir.
+En Las Palmas de Gran Canaria a 11 de diciembre de 1986.
+JERÓNIMO SAAVEDRA ACEVEDO
+Presidente del Gobierno,

@@ -1,0 +1,279 @@
+# Ley 1/1991, de 27 de febrero, reguladora del régimen sancionador en materia de juego.
+
+- Identificador BOE: `BOE-A-1991-7867`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-7867
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de Autonomía de Cataluña, promulgo la siguiente
+LEY 1/1991, DE 27 DE FEBRERO, REGULADORA DEL RÉGIMEN SANCIONADOR EN MATERIA DE JUEGO
+I
+En desarrollo de la competencia exclusiva en materia de casinos, juegos y apuestas que el artículo 9.32 del Estatuto de Autonomía reconoce a la Generalidad, se aprobó la Ley 15/1984, de 20 de marzo, del Juego, que fue la primera norma legal autonómica dictada en la materia.
+El objetivo primordial de dicha Ley era permitir al Poder Ejecutivo de la Generalidad el desarrollo de una política sobre el juego adaptada a las circunstancias de cada momento, garantizando, sin embargo, la seguridad jurídica de los ciudadanos mediante el establecimiento de unas reglas terminantes.
+El plazo transcurrido desde la aprobación de la Ley del Juego y la aplicación práctica que se ha hecho de ella evidencian la necesidad de revisar la actual legislación catalana con el fin de cubrir lagunas, sobre todo en lo referente al régimen sancionador y, especialmente, a la tipificación de las infracciones, la tipología y cuantía de las sanciones y demás aspectos anexos de esta función ejecutiva.
+En este sentido, se ha optado, por un lado, por elaborar un texto específico que regule la potestad sancionadora y establezca la obligación de constituir fianzas y, por otro lado, por mantener la vigencia del resto de disposiciones normativas de la Ley 15/1984, a fin de conseguir una regulación global de los distintos aspectos que inciden en el ámbito del juego.
+La elaboración de una norma especial ofrece como principal ventaja la posibilidad de dar un tratamiento normativo completo y detallado del ámbito que se regula e incluir aspectos no legislados antes. Así pues, la actualización de la tipología de las infracciones y sanciones y la regulación de todos los aspectos que condicionan el ejercicio de la potestad sancionadora de la Administración de la Generalidad son los dos objetivos básicos que la presente Ley pretende alcanzar.
+II
+Por lo que se refiere a su estructura, la Ley consta de un total de veinte artículos, dos disposiciones adicionales, una derogatoria y dos finales. Siguiendo las pautas que marcan las tendencias actuales sobre técnica legislativa, cada uno de estos preceptos recibe el título identificativo correspondiente.
+Asimismo, como toda disposición legal que debe incidir en situaciones futuras, puede verse afectada por modificaciones organizativas o bien por la alteración del equilibrio económico de las sanciones y, por tanto, se introducen cláusulas que permitan actualizar su contenido sin que sea preciso modificarla.
+Como novedades más destacadas de la presente Ley, respecto al contenido de la Ley 15/1984, pueden señalarse distintos aspectos.
+Se hace una regulación más completa y específica del régimen y procedimiento sancionador, con el establecimiento de sanciones accesorias y medidas colaterales y cautelares, y de otros aspectos como la responsabilidad subsidiaria de las empresas y la prescripción de las infracciones.
+Por lo que se refiere a las infracciones, se define y establece un catálogo detallado, esencialmente de las muy graves y de las graves, de acuerdo con la experiencia conseguida por la Administración de la Generalidad desde el año 1984 y la contrastación de otras normas similares.
+En cuanto a las sanciones, se amplía su régimen, con un límite mucho más elevado para las económicas y un régimen más completo por lo que se refiere a la suspensión o revocación de autorizaciones y al cierre temporal o definitivo de los locales. También se suprimen los límites mínimos en las cuantías de las sanciones económicas, medida que permite mayor flexibilidad al imponerlas, con el fin de garantizar su proporcionalidad.
+Por otro lado, se establece un régimen de fianzas obligatorias para las Empresas dedicadas a actividades de juego, en orden a garantizar las responsabilidades que puedan derivarse de dichas actividades, y se prevé su desarrollo reglamentario.
+Finalmente, se regulan las funciones inspectoras de la Generalidad y las obligaciones de los titulares del juego hacia los funcionarios inspectores y se prevé que determinadas tareas inspectoras sean realizadas por Entidades concesionarias de la Administración, si así lo aconseja su grado de especialización técnica.
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+La presente Ley tiene por objeto regular la potestad sancionadora de la Administración de la Generalidad y las condiciones para ejercerla en las actividades relativas a casinos, juegos y apuestas.
+
+### Artículo 2
+
+Artículo 2. Tipificación y clases de infracciones.
+1. Serán infracciones administrativas en materia de juego las acciones y omisiones tipificadas como tales en la presente Ley, que pueden ser completadas y especificadas en los Reglamentos que la desarrollen o que, en general, regulen las distintas actividades de juego.
+2. Cuando un mismo hecho, cometido por un mismo sujeto, puede ser considerado como constitutivo de infracciones administrativas diferentes, sólo se impone la sanción que corresponde al tipo de infracción más grave y las otras infracciones se considerarán como circunstancias agravantes para hacer su graduación, excepto que haya infracción administrativa tributaria.
+3. Las infracciones se clasifican en muy graves, graves y leves.
+Se modifica el apartado 2 por el art. 56.1 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
+
+### Artículo 3
+
+Artículo 3. Infracciones muy graves.
+Tendrán la consideración de faltas muy graves las siguientes infracciones:
+a) Organizar, gestionar o explotar un juego sin disponer de las autorizaciones o los documentos exigidos por la presente Ley y por los Reglamentos específicos o incumpliendo los requisitos y condiciones que prevén, así como organizar, gestionar o explotar un juego en locales o recintos no autorizados, incluidos los espacios públicos, o efectuarlo personas no autorizadas.
+b) Hacer actividades de juego autorizadas o explotar elementos de juego autorizados sin haber satisfecho la tasa correspondiente, utilizar esta para hacer una actividad o explotar unos elementos diferentes de los que le corresponden, o realizar la actividad del juego sin haber satisfecho el resto de tributos que la gravan.
+c) Incumplir las medidas cautelares adoptadas por la Administración en los procedimientos sancionadores.
+d) No disponer de las hojas o libros de control y de contabilidad de cada juego determinados por el respectivo Reglamento.
+e) Utilizar máquinas o elementos de juego no homologados o no autorizados previamente por el Organismo competente y alterar o modificar total o parcialmente los elementos de juego.
+f) Importar, fabricar, distribuir, vender, instalar o explotar, de la forma que sea, máquinas o elementos de juego destinados a ser utilizados en el territorio de Cataluña que no hayan sido previamente inscritos en el Registro de Modelos, que estén inscritos en otra forma o que correspondan a inscripciones canceladas, o realizar dichas actividades persona distinta de la autorizada.
+g) Autorizar o permitir a los menores de edad o a personas sujetas a prohibición la entrada en locales donde la tengan prohibida o la práctica de juegos de suerte, envite o azar.
+h) Utilizar documentos y aportar datos no conformes con la realidad para obtener permisos o autorizaciones así como, los titulares de autorizaciones administrativas, expedir documentos o aportar datos no conformes con la realidad.
+i) Admitir apuestas o conceder premios que excedan de los máximos previstos.
+j) Negarse a mostrar a los agentes de la autoridad la documentación de las máquinas o a abrirles y mostrarles los elementos de juego y no facilitarles la debida colaboración, en los términos previstos en la presente Ley.
+k) Asociarse con otras personas para fomentar la práctica de los juegos de suerte, envite o azar al margen de las normas establecidas o de las autorizaciones concedidas.
+l) Tolerar, los directivos y empleados de Empresas dedicadas al juego, cualquier actividad ilícita o ilegal, sin perjuicio de las responsabilidades que se deriven de esta actividad.
+m) Otorgar préstamos no autorizados por el respectivo Reglamento a los jugadores o apostantes en los lugares donde se practican juegos autorizados así como, los titulares de las autorizaciones, permitir a terceros que otorguen dichos préstamos.
+n) Modificar unilateralmente o incumplir cualquiera de las condiciones en función de las cuales han sido concedidas las autorizaciones preceptivas o específicas.
+o) Fomentar y practicar juegos o apuestas al margen de las autorizaciones concedidas o de las normas establecidas.
+p) Reducir por debajo del límite previsto en los Reglamentos específicos el capital de las Sociedades o las fianzas de las Empresas dedicadas al juego o transferir acciones o participaciones sin la pertinente autorización.
+q) Ejercer coacción o intimidación sobre los jugadores, en caso de protesta o reclamación.
+r) Manipular los juegos en perjuicio de los jugadores, de los apostantes o del tesoro de la Generalidad.
+s) No pagar, total o parcialmente, los premios o cantidades ganados por los apostantes.
+t) Vender a precio distinto al autorizado cartones de juego del bingo, boletos, billetes de las loterías o cualquier otro título semejante.
+u) Participar como jugador, directamente o por medio de terceros, en juegos y apuestas organizados, gestionados o explotados por empresas de las que se sea empleado, directivo, accionista o partícipe.
+v) Instalar o explotar materiales o salas de juego, directamente o por medio de terceros, en un número que exceda al autorizado. En este caso, la infracción será imputable a todas las personas que han intervenido en la instalación o explotación.
+w) Tener material de juego en sitios no autorizados.
+x) Contratar personal que no disponga del documento profesional o que lo tenga caducado.
+y) Ceder, mediante cualquier título, autorizaciones para la explotación o práctica de juegos incumpliendo las condiciones y requisitos establecidos en la normativa vigente.
+z) Gestionar y explotar juegos mediante actividades monopolistas.
+Se modifica la letra b) por el art. 8.1 del Decreto-ley 12/2019, de 9 de julio. Ref. DOGC-f-2019-90518
+ Se modifican las letras c) y n) por el art. 56.2 y 3 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
+
+### Artículo 4
+
+Artículo 4. Infracciones graves.
+Tendrán la consideración de faltas graves las siguientes infracciones:
+a) Realizar acciones publicitarias de juego que contravengan la normativa establecida. En este caso, la infracción será imputable solidariamente al titular de la autorización, a la Entidad o al particular anunciante, a la agencia que gestione o efectúe la publicidad y al medio publicitario que la difunda.
+b) Realizar promociones de venta no autorizadas mediante actividades análogas a las de los juegos incluidos en el catálogo.
+c) Practicar juegos de azar en establecimientos públicos o en círculos tradicionales que no tengan el juego entre sus actividades estatutarias, si la suma total de apuestas en cada jugada iguala o supera el 50 por 100 del importe mensual del salario mínimo interprofesional, o si el total de las apuestas admitidas a un jugador en un periodo de veinticuatro horas iguala o supera el 100 por 100 de dicho salario.
+d) No remitir a la autoridad aquellas informaciones y documentación que solicite con respecto a las Empresas y actividades relacionadas con el juego.
+e) No exhibir en los establecimientos y en las máquinas de juego los documentos acreditativos de la correspondiente autorización o los demás documentos cuya exhibición sea exigida reglamentariamente.
+f) No disponer o no hacer uso de los sistemas de control y de seguridad de los juegos exigidos reglamentariamente.
+g) No disponer de registros de visitantes y de personas que tienen prohibido el acceso en los locales autorizados para el juego, o tenerlos incompletos o inexactos, de acuerdo con lo que se establezca por reglamento.
+h) No disponer del libro o de hojas de reclamaciones en los locales autorizados para el juego, negarse a ponerlos a disposición de quien los reclame, así como no tramitar en el plazo previsto las reclamaciones formuladas.
+i) Incumplir las normas técnicas previstas en el reglamento de cada juego.
+j) Tener una conducta desconsiderada hacia los jugadores o los apostantes, tanto durante el desarrollo del juego como en caso de protestas o reclamaciones.
+k) Servir bebidas alcohólicas en salones recreativos y en dependencias anexas de servicio al público.
+Se modifica la letra g) por el art. 56.4 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
+
+### Artículo 5
+
+Artículo 5. Infracciones leves.
+Tienen la consideración de faltas leves las infracciones que supone el incumplimiento, por acción o por omisión, de las obligaciones, los requisitos o las prohibiciones establecidos por esta Ley y por las normas reglamentarias que la desarrollen y concreten, cuando no estén tipificadas como faltas muy graves o graves.
+Se modifica por el art. 56.5 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
+
+### Artículo 6
+
+Artículo 6. Sanciones administrativas.
+1. Las infracciones muy graves pueden ser sancionadas conjunta o alternativamente con:
+a) Una multa de hasta 100.000.000 de pesetas.
+b) La suspensión de la autorización concedida, el cierre del local o la inhabilitación de éste para actividades de juego, con carácter temporal, por un período máximo de cinco años.
+c) La revocación de la autorización, el cierre del local o la inhabilitación de éste, con carácter definitivo.
+2. Las infracciones graves pueden ser sancionadas conjunta o alternativamente con:
+a) Una multa de hasta 5.000.000 de pesetas.
+b) La suspensión de la autorización, por un período máximo de doce meses.
+c) El cierre del local o la inhabilitación de éste para actividades de juego, con carácter temporal, por un periodo máximo de doce meses.
+3. Las infracciones leves pueden ser sancionadas conjunta o alternativamente con:
+a) Una multa de hasta quinientas mil pesetas.
+b) La suspensión de la autorización, por un período máximo de un mes.
+c) El cierre del local o la inhabilitación de éste para actividades de juego, con carácter temporal, por un período máximo de un mes.
+
+### Artículo 7
+
+Artículo 7. Competencia para imponer las sanciones.
+1. Corresponderá al Consejero de Gobernación la imposición de sanciones por faltas muy graves, salvo que la multa supere la cantidad de 30.000.000 de pesetas, en cuyo caso la imposición de la sanción corresponde al Gobierno.
+2. Corresponderá al Director General del Juego y de Espectáculos la imposición de sanciones por faltas graves, si superan la cantidad de 1.000.000 de pesetas o exceden los seis meses de suspensión de la autorización o de cierre o inhabilitación del local.
+3. Corresponderá a los delegados territoriales del Gobierno la imposición de sanciones por faltas graves, si no superan la cantidad de 1.000.000 de pesetas o no exceden los seis meses de suspensión de la autorización o de cierre o inhabilitación del local, y las sanciones por faltas leves.
+
+### Artículo 8
+
+Artículo 8. Graduación de las sanciones.
+1. Para determinar la graduación de las sanciones deberán tenerse en cuenta las circunstancias personales y materiales que concurren en los hechos y, especialmente:
+a) La intencionalidad del infractor.
+b) Los perjuicios producidos directamente a terceros y a la Administración.
+c) La reincidencia o reiteración en la comisión de una infracción.
+d) La trascendencia económica y social de la infracción.
+e) El cumplimiento espontáneo de las obligaciones o deberes formales del infractor por iniciativa propia, en cualquier momento del procedimiento administrativo sancionador, si todavía no se ha dictado resolución firme.
+2. Para determinar la graduación de las sanciones deberán tenerse en cuenta en cualquier caso el principio de proporcionalidad entre la infracción cometida y la cuantía y efectos de la sanción.
+3. La cuantía de una multa no podrá ser en ningún caso inferior al quíntuple de la cantidad defraudada.
+
+### Artículo 9
+
+Artículo 9. Revocación de autorizaciones.
+1. La autoridad administrativa competente para el otorgamiento de autorizaciones en materia de juego podrá acordar su revocación, mediante un procedimiento sumario, con audiencia de los titulares de las autorizaciones, en los siguientes supuestos:
+a) Si deja de cumplirse alguno de los requisitos esenciales exigidos por la normativa para la concesión de la autorización.
+b) Si los locales autorizados dejan de funcionar durante un tiempo superior a la mitad del periodo anual de apertura autorizado o deja de ejercerse la actividad autorizada durante el mismo tiempo, salvo que los Reglamentos específicos determinen para este supuesto un período distinto.
+c) Si se produce un incumplimiento de las medidas de seguridad que determine el cierre definitivo de los locales de acuerdo con la normativa sobre espectáculos y actividades recreativas.
+d) Si no se constituyen en los plazos previstos las fianzas a que se refiere el artículo 18.
+2. Incurrir en alguna de las circunstancias de incompatibilidad recogidas por el artículo 3 de la Ley de modificación de la Ley 2/1989, de 16 de febrero, sobre centros recreativos turísticos, y de establecimiento de normas en materia de tributación, comercio y juego, es causa de revocación de la autorización para las actividades de juego y apuestas en los centros recreativos turísticos.
+Se añade el apartado 2 y se numera el apartado 1, por el art. 16.1 y 2 de la Ley 6/2014, de 10 de junio. Ref. BOE-A-2014-6666.
+
+### Artículo 10
+
+Artículo 10. Responsables.
+1. Son responsables de las infracciones las personas físicas o jurídicas que realicen acciones u omisiones tipificadas como tales infracciones.
+2 Asimismo son responsables de las infracciones los titulares de las autorizaciones administrativas, si se trata de sujetos distintos.
+3. Los titulares de autorizaciones administrativas son subsidiariamente responsables de las infracciones cometidas por el personal de cualquier calificación a su servicio o contratado por ellos.
+
+### Artículo 11
+
+Artículo 11. Sanciones accesorias.
+1. Durante el plazo de suspensión de una autorización o de cierre o inhabilitación temporal de un local no podrán concederse nuevas autorizaciones a la Empresa sancionada ni puede autorizarse a otras Empresas a desarrollar actividades relacionadas con el juego en el local o locales en que se ha producido la infracción. En el caso de revocación de una autorización o de cierre o inhabilitación de un local con carácter definitivo, impuestos como sanción, no podrá concederse, en un plazo de cinco años, contado a partir de la fecha de imposición de la sanción, ninguna autorización para el establecimiento afectado relacionada con la actividad que en él se desarrollaba.
+2. Podrá acordarse asimismo como sanción accesoria la suspensión de la vigencia de los documentos profesionales de los empleados, directivos y socios de las empresas dedicadas al juego que hayan intervenido directamente en la comisión de una infracción muy grave o grave y podrá prohibirse que obtengan nuevos documentos.
+3. Las sanciones accesorias deberán ser impuestas por el órgano competente para la imposición de las sanciones principales.
+
+### Artículo 12
+
+Artículo 12. Comisión de los elementos de juego y de los beneficios ilícitos.
+1. En caso de que falte la autorización para la organización, explotación o gestión de un juego, o de que haya sido revocada o suspendida, la autoridad sancionadora podrá acordar el comiso y destrucción de las máquinas o elementos de juego objeto de la infracción. Asimismo, atendiendo a la naturaleza de la infracción, la autoridad sancionadora podrá ordenar el comiso de las apuestas percibidas y de los beneficios ilícitos obtenidos, cuyo importe deberá ingresarse en el Tesoro de la Generalidad; en dicho caso, los particulares perjudicados podrán comparecer ante el órgano incoador del expediente y solicitar que les sea entregada la parte de los beneficios obtenida a su costa, siempre que sean identificados en el expediente como tales perjudicados.
+2. Las sanciones implican en cualquier caso el comiso de los beneficios ilícitamente obtenidos, cuyo importe deberá ingresarse en el Tesoro de la Generalidad.
+
+### Artículo 13
+
+Artículo 13. Infracciones cometidas por jugadores y visitantes.
+1. Son infracciones cometidas por jugadores y visitantes de locales donde se practica el juego:
+a) Entrar en el local o participar en el juego teniéndolo prohibido.
+b) Utilizar fichas, cartones u otros elementos de juego que sean falsos conociendo su irregularidad.
+c) Manipular máquinas o elementos de juego.
+d) Participar en juegos y apuestas clandestinos o ilegales.
+e) Interrumpir sin causa justificada una partida o un juego.
+f) Omitir la colaboración debida a los agentes de la autoridad.
+g) Perturbar el orden en las salas de juego.
+h) Cometer, en general, cualquier tipo de irregularidad en la práctica del juego.
+2. Las infracciones a que se refiere el apartado 1 pueden ser sancionadas con una multa de hasta 1.000.000 de pesetas y con la prohibición de entrada en un casino o sala de juego por un máximo de cinco años y comportarán en cualquier caso el comiso de los beneficios ilícitos obtenidos, de acuerdo con lo previsto en el artículo 12.2.
+3. Corresponderá al director general del Juego y de Espectáculos la imposición de las sanciones previstas en el apartado 2, ateniéndose a los criterios previstos en el artículo 8.
+
+### Artículo 14
+
+Artículo 14. Prescripción de las infracciones.
+1. Las infracciones leves y las infracciones a que se refiere el artículo 13 prescriben a los seis meses, las infracciones graves prescriben al año y las infracciones muy graves prescriben a los dos años, contando a partir del día en que la infracción ha sido cometida.
+2. El plazo de prescripción se interrumpe en el momento en que se inicia el procedimiento y vuelve a iniciarse si éste se paraliza por más de seis meses, por causa no imputable al interesado, o acaba sin sanción.
+
+### Artículo 15
+
+Artículo 15. Procedimiento sancionador.
+La imposición de las sanciones previstas en esta Ley se regirá por la normativa vigente en materia de procedimiento sancionador de aplicación a los ámbitos de competencia de la Generalitat.
+Se modifica por el art. 7 del Decreto Legislativo 13/1994, de 26 de julio. Ref. DOGC-f-1994-90015.
+
+### Artículo 16
+
+Artículo 16. Medidas cautelares.
+1. Si hay indicios racionales de infracción grave o muy grave, el órgano competente para la resolución del expediente sancionador podrá acordar como medida cautelar, previa o simultáneamente a la instrucción del expediente, el precinto y depósito de las máquinas, material y elementos de juego y la suspensión de las autorizaciones.
+2. El órgano competente, sin perjuicio de las sanciones que procedan, podrá acordar, en cualquier caso, el cierre inmediato de los establecimientos en que se organice o practique el juego sin estar autorizado y podrá acordar también el comiso de los materiales y el dinero relacionados con las actividades de juego utilizados para practicarlo así como de las apuestas realizadas.
+3. Los agentes de la autoridad, en el momento de levantar acta de las infracciones, podrán adoptar directamente las medidas cautelares a que se refieren los apartados 1 y 2 y proceder al precinto y depósito de las máquinas, material y elementos de juego. En este caso, el órgano competente para la resolución del expediente deberá confirmar o levantar las medidas cautelares adoptadas en el plazo de un mes, vencido el cual, si no han sido ratificadas, quedarán sin efecto, sin perjuicio de la prosecución del expediente sancionador.
+
+### Artículo 17
+
+Artículo 17. Régimen de recursos.
+1. Contra las resoluciones de los delegados del Gobierno se puede interponer recurso de alzada ante el director o directora general del Juego y de Espectáculos.
+2. Contra las resoluciones del director o directora general del Juego y de Espectáculos, excepto en las resolutorias de recurso, se puede interponer recurso de alzada ante el consejero o consejera de Interior.
+3. Las resoluciones del consejero o consejera de Interior y las del Gobierno, que agotan la vía administrativa, pueden ser impugnadas de acuerdo con lo que establece la legislación de la jurisdicción contenciosa administrativa.
+Se modifica por el art. 56.6 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
+ Se modifica por el art. 7 del Decreto Legislativo 13/1994, de 26 de julio. Ref. DOGC-f-1994-90015.
+
+### Artículo 18
+
+Artículo 18. Fianzas.
+1. Las empresas que hacen actividades relacionadas con el juego tienen que constituir fianzas, en los términos y con las cuantías establecidas por reglamento, que restan afectos a las responsabilidades económicas y al cumplimiento de las obligaciones que derivan del régimen sancionador establecido por esta Ley y, en general, al cumplimiento de las obligaciones derivadas en cada caso de la normativa específica.
+Las fianzas también responden de las deudas derivadas de la tributación sobre el juego, que las empresas tengan con la Administración tributaria de la Generalidad de Cataluña.
+2. Las obligaciones a que se refiere el apartado 1 deberán hacerse efectivas de oficio contra las fianzas depositadas, una vez transcurrido el periodo voluntario de pago. La Administración tendrá preferencia por el importe de las fianzas sobre cualquier otro acreedor.
+3. Una vez ejecutada una fianza, la persona o entidad que la haya constituido dispondrá del plazo previsto reglamentariamente para reponerla íntegramente; si no lo hiciere, se suspenderá la correspondiente autorización hasta que la fianza haya sido totalmente repuesta. Si la fianza se ejecuta por deudas tributarias de la persona o entidad que la ha constituido, se suspenderá la correspondiente autorización hasta que se acredite la extinción de la deuda tributaria o el acuerdo del aplazamiento o fraccionamiento del pago, en los términos del artículo 59 y concordantes de la Ley del Estado 58/2003, de 17 de diciembre, general tributaria.
+4. Si una fianza fuere insuficiente para satisfacer las obligaciones que hayan de hacerse efectivas, deberá iniciarse el cobro por vía de apremio de la parte pendiente de la deuda.
+5. Las fianzas se extinguirán si desapareciesen las causas que motivaron su constitución, si no hubieren responsabilidades pendientes o si hubiera transcurrido el plazo máximo de prescripción de dichas responsabilidades, en cuyos casos deberán ser devueltas, previa liquidación, si procede.
+Se modifica el apartado 1 por el art. 8.2 del Decreto-ley 12/2019, de 9 de julio. Ref. DOGC-f-2019-90518
+ Se modifica el apartado 3 por la disposición modificativa de la Ley 15/2014, de 4 de diciembre. Ref. BOE-A-2014-13366.
+
+### Artículo 19
+
+Artículo 19. Suspensión del procedimiento sancionador en caso de infracciones penales.
+Si durante la tramitación de un expediente sancionador se constatare la existencia de hechos que pudieren ser constitutivos de delito o falta, deberán ponerse estos hechos en conocimiento de la autoridad judicial y deberá suspenderse el procedimiento administrativo en tanto no se dicte sentencia firme o resolución que ponga fin al procedimiento penal. Si la sentencia o resolución estimasen que no ha habido delito ni falta, se reanudará la tramitación del expediente sancionador, tomando como base, en su caso, los hechos que los Juzgados y Tribunales hayan declarado probados.
+
+### Artículo 20
+
+Artículo 20. Inspección de las actividades relacionadas con el juego.
+1. Los funcionarios de la Administración de la Generalidad a quienes se asigne el control e inspección de las actividades relacionadas con el juego en el territorio de Cataluña tendrán la consideración de agentes de la autoridad y tendrán atribuida, como tales, la protección que les otorga la legislación vigente, con las facultades establecidas reglamentariamente.
+2. Los funcionarios adscritos a la inspección del juego estarán facultados para examinar los locales, máquinas, documentos y todo cuanto pueda servir de información para el mejor cumplimiento y ejecución de su labor.
+3. La inspección y el control técnico de las instalaciones, elementos y material de juego podrán ser realizados directamente por funcionarios adscritos a la inspección del juego o por medio de entidades concesionarias que asuman su ejecución, cuyos certificados tendrán idéntica validez que los emitidos por la Administración. Las entidades concesionarias deberán remitir copia de cada certificado que emitan al Servicio de Inspección del Juego.
+4. Las inspecciones podrán iniciarse de oficio o a instancia de parte y las resoluciones correspondientes deberán notificarse a los interesados, de conformidad con lo previsto en la presente Ley y en la normativa reguladora del procedimiento administrativo.
+5. El Gobierno deberá regular las condiciones que deben cumplir en materia de inspección del juego las Entidades concesionarias y el personal a su servicio.
+6. Los titulares de las autorizaciones o de establecimientos donde se practica el juego, sus representantes legales y los responsables de las actividades en el momento de la inspección tendrán la obligación de facilitar a los inspectores y a las entidades concesionarias el acceso a los locales y a las distintas dependencias, así como el examen de los libros, registros y documentos que necesiten para la inspección.
+7. En caso de que de la inspección de un local resulten indicios de infracción, deberá levantarse acta de la entrada en el local y de la inspección que se haya llevado a cabo, firmada por el personal a que se refiere el apartado 3 y por el responsable o uno de los ocupantes del local, si lo acepta. Dicho personal deberá entregar una copia del acta a la persona que haya autorizado la entrada en el local y, en caso de que haya sido preciso un mandato judicial, al Juez.
+8. Los resultados de una inspección podrán comportar las correspondientes sanciones previstas por la presente Ley o bien la apertura de un plazo para proceder a las modificaciones requeridas, transcurrido el cual, si no hubiesen sido realizadas, deberá sancionarse la infracción de conformidad con lo previsto en la presente Ley.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Gobierno podrá modificar por Decreto la asignación orgánica de las atribuciones para la imposición de sanciones y de medidas cautelares por infracciones graves o leves, salvo en el caso de aquellas atribuciones que, de conformidad con lo dispuesto en la presente Ley, corresponden al propio Gobierno.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La cuantía económica de las sanciones previstas por la presente Ley podrá ser modificada anualmente por la Ley de presupuestos de la Generalidad a fin de adaptarla a la coyuntura económica.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Todas las referencias que esta Ley hace al Departamento de Gobernación o al consejero o consejera de Gobernación, se deben entender referidas al Departamento de Interior o al consejero o consejera de Interior.
+Se añade por el art. 56.7 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Se prevé la cesión de datos a las empresas titulares de autorizaciones en materia de casinos y bingos de la base de datos de la Dirección General del Juego y de Espectáculos, relativa a las personas que tienen prohibida la entrada a bingos y casinos, según establecen el artículo 30 del Decreto 147/2000, de 11 de abril, y el artículo 21 del Decreto 204/2001, de 24 de julio.
+Se añade por el art. 56.8 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogados los artículos 11 y 12 de la Ley 15/1984, de 20 de marzo, del Juego, y las demás normas y disposiciones de igual o inferior rango que se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno y al Consejero de Gobernación a dictar las disposiciones necesarias para el desarrollo y ejecución de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día siguiente de su publicación en el «Diario Oficial de la Generalitat de Catalunya».
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los Tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 27 de febrero de 1991.
+JOSEP GOMIS I MARTI
+ JORDI PUJOL
+ Consejero de Gobernación
+ Presidente de la Generalidad de Cataluña

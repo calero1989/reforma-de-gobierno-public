@@ -1,0 +1,73 @@
+# Real Decreto-ley 8/1995, de 4 de agosto, por el que se adoptan medidas urgentes de mejora del aprovechamiento del trasvase Tajo-Segura.
+
+- Identificador BOE: `BOE-A-1995-18965`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-18965
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La prolongada sequía que de forma continuada persiste en gran parte del territorio español y especialmente en sus regiones centrales y meridionales, así como en los archipiélagos balear y canario, está afectando de modo especial a la zona de los Montes Universales, cabecera de las cuencas de los ríos Tajo y Júcar. Como efecto directo de esa situación, se presenta una situación sin antecedentes en cuanto al nivel de las reservas hídricas de los embalses de Entrepeñas, Buendía y Bolarque de los que se alimenta el acueducto Tajo-Segura, infraestructura básica para el suministro hídrico a importantes aprovechamientos en el sudeste español. Esta situación extrema es fuente de problemas territoriales que pueden y deben evitarse, mediante la adopción de determinadas medidas de mejora en el régimen de uso del mencionado acueducto.
+Por otra parte, la complejidad del proceso de planificación hidrológica y las prescripciones contenidas en las mociones aprobadas por las Cortes Generales (Acuerdos del Congreso de los Diputados de 22 de marzo de 1994 y del Senado de 28 de septiembre de 1994), han exigido un análisis más profundo del futuro Plan Hidrológico Nacional, pero también ha demorado su aprobación definitiva. Este retraso en la promulgación de la norma legal que aprobará aquél, hace necesario afrontar con carácter de urgencia la regulación de determinadas actuaciones y medidas para la mejora de la utilización del acueducto Tajo-Segura mediante una normativa específica.
+La potencialidad del acueducto Tajo-Segura como vertebrador territorial del centro y el sudeste de la península debe ser reforzada, no sólo para superar la situación coyuntural de sequía, sino para paliar parte del problema estructural de desequilibrio hídrico. En este sentido, la Comisión de Infraestructuras y Medio Ambiente del Congreso de los Diputados adoptó una resolución por unanimidad, el pasado 14 de marzo, en la que se solicitaba expresamente del Gobierno la presentación de un proyecto de ley para mejorar la explotación del acueducto Tajo-Segura. La evidente urgencia en la adopción de las medidas adecuadas para obtener esta mejora, incrementada por la extrema sequía que en estos momentos padecen las zonas afectadas, hace necesario un Real Decreto-ley para conseguir un acortamiento, vital en estos momentos, del tiempo que ha de transcurrir hasta la promulgación de la norma.
+Con las medidas establecidas en el presente Real Decreto-ley se pretende incrementar el rendimiento de las insfraestructuras existentes con su utilización para resolver los graves problemas de abastecimiento urbano y mejorar al mismo tiempo el sistema de aporte al Parque Natural de la Tablas de Daimiel desde el acueducto Tajo-Segura. De este modo, con la presente norma se posibilita el trasvase a La Mancha de hasta 50 hectómetros cúbicos anuales y se crea una reserva de hasta 3 hectómetros cúbicos por año para atender demandas de abastecimiento menores en las inmediaciones del acueducto Tajo-Segura.
+Todo ello exige la modificación parcial de la normativa reguladora del acueducto Tajo-Segura sin alterar los 600 hectómetros cúbicos de volumen máximo anual trasvasable de una cuenca a otra, fijados por las normas en vigor, y exige asimismo el establecimiento del régimen económico aplicable al uso de las nuevas infraestructuras.
+El instrumento normativo necesario y adecuado para el cumplimiento de todos estos objetivos es el Real Decreto-ley. Por una parte, esa norma tiene el rango legal adecuado y preciso para articular esas importantes medidas, entre las que se incluye la modificación de disposiciones con rango de ley formal. Por otra parte, concurren en este caso las circunstancias de extraordinaria y urgente necesidad a que se refiere el artículo 86 de la Constitución Española como justificativas de la utilización excepcional del Real Decreto-ley, sin que se dé ninguno de los supuestos que el mismo artículo del texto constitucional considera excluidos de regulación a través de este instrumento normativo.
+En su virtud, en uso de la autorización contenida en el artículo 86 de la Constitución, a propuesta del Ministro de Obras Públicas, Transportes y Medio Ambiente y previa deliberación del Consejo de Ministros en su reunión del día 4 de agosto de 1995,
+DISPONGO:
+
+### Artículo 1
+
+Artículo 1. Derivación de recursos del acueducto Tajo-Segura a la cuenca del Guadiana.
+1. Se autoriza la derivación de recursos hídricos del acueducto Tajo-Segura para el abastecimiento de la cuenta alta del río Guadiana. El volumen medio anual derivado, computado sobre un período máximo de diez años, no será mayor de 50 hectómetros cúbicos.
+2. Dentro de esta cuantía máxima de 50 hectómetros cúbicos se consideran incluidas las dotaciones previstas para el Parque Natural de las Tablas de Daimiel en la Ley 13/1987, de 17 de julio, y en los Reales Decretos-leyes 6/1990, de 28 de diciembre, y 5/1993, de 16 de abril, que prorrogaron sus efectos, dotaciones que en lo sucesivo pasarán a tener carácter permanente.
+3. Corresponderá a la Comisión Central de Explotación del acueducto Tajo-Segura la adopción de las decisiones de derivación de agua del acueducto Tajo-Segura para las finalidades especificadas en los apartados 1 y 2.
+
+### Artículo 2
+
+Artículo 2. Reserva para abastecimientos.
+Se establece una reserva de 3 hectómetros cúbicos por año para asignar al abastecimiento de los núcleos de población inmediatos al trazado del acueducto Tajo-Segura, en las cuencas de los ríos Guadiana y Júcar, sin que ello implique la modificación del volumen máximo trasvasable autorizado por la normativa reguladora del acueducto Tajo-Segura.
+
+### Artículo 3
+
+Artículo 3. Aprovechamiento hidroeléctrico.
+1. El aprovechamiento hidroeléctrico de las derivaciones de caudal autorizadas en los artículos 1 y 2 de este Real Decreto-ley podrá destinarse a compensar los costes que, deban sufragar los usuarios de dichas derivaciones.
+2. A los efectos anteriores, se entiende por usuarios los destinatarios de los caudales que en cada casa puedan ser objeto realmente de aprovechamiento hidroeléctrico.
+3. Las concesiones o autorizaciones de aprovechamiento hidroeléctrico de caudales circulantes por el acueducto Tajo-Segura, procedentes del sistema de Entrepeñas-Buendía, que estén en vigor en la fecha de aprobación del presente Real Decreto-ley no amparan el aprovechamiento hidroeléctrico de las derivaciones de caudal autorizadas en este Real Decreto-ley.
+
+### Artículo 4
+
+Artículo 4. Declaración de interés general de las obras a realizar y evaluación de su impacto ambiental.
+Se declaran de interés general las obras de infraestructura a que se refieren los artículos 1 y 2 de este Real Decreto-ley, quedando sometidas, asimismo, al procedimiento de evaluación de impacto ambiental regulado en el Real Decreto 1131/1988, de 30 de septiembre.
+
+### Artículo 5
+
+Artículo 5. Régimen económico y financiero de explotación del acueducto Tajo-Segura.
+1. Los beneficiarios de las infraestructuras necesarias para llevar a cabo las derivaciones de caudal autorizadas en los artículos 1 y 2 de este Real Decreto-ley sufragarán los costes correspondientes de amortización, explotación y conservación de las mismas.
+2. El Gobierno desarrollará por Real Decreto el régimen económico y financiero por el que se ejecutarán, explotarán y conservarán las infraestructuras anteriores.
+3. Los beneficiarios de las aguas derivadas a la cuenca alta del Guadiana, a través del acueducto Tajo-Segura, satisfarán las tarifas correspondientes por el uso del tramo que utilicen de dicha infraestructura. Las tarifas comprenderán los tres conceptos establecidos en el artículo séptimo, uno, de la Ley 52/1980, de 16 de octubre, para las aguas trasvasadas a la cuenca del Segura.
+Para el cálculo del valor anual del concepto a) de la tarifa, correspondiente a la amortización del coste de las obras, aplicable a las aguas destinadas a abastecimientos, se considerará el tres por ciento de la inversión total en el tramo de acueducto que utilicen, actualizada según lo previsto en el artículo decimocuarto de la Ley 52/1980, de 16 de octubre, iniciándose el periodo de amortización con la puesta en servicio de los mismos. Dicha cantidad se afectará del coeficiente cero coma cero ocho y el valor así obtenido se incrementará en la cuantía fija, no computable a efectos de amortización de las obras, de dos pesetas por metro cúbico.
+Las aguas derivadas para usos medioambientales al Parque Nacional de las Tablas de Daimiel quedan exentas de contribuir por el concepto a), amortización del coste de las obras.
+Para el cálculo del valor anual de los conceptos b) y c) de las tarifas de las aguas que se deriven al Alto Guadiana a través del Acueducto Tajo-Segura, se estará a lo establecido en el artículo séptimo, apartados dos y tres de la Ley 52/1980.
+Se añade el apartado 3 por el art. 90 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogados, en cuanto se opongan a lo establecido en este Real Decreto-ley, la Ley 13/1987, de 17 de julio, sobre derivación de volúmenes de agua de la cuenca alta del Tajo a través del acueducto Tajo-Segura, con carácter experimental, con destino al Parque Nacional de las Tablas de Daimiel, y los Reales Decretos-leyes 6/1990, de 28 de diciembre, y 5/1993, de 16 de abril, que prorrogaron sus efectos, así como cualquier otra norma que contradiga lo dispuesto en el mismo.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Ministro de Obras Públicas, Transportes y Medio Ambiente para dictar las normas y arbitrar las medidas precisas para el desarrollo de lo establecido en este Real Decreto-ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+El presente Real Decreto-ley entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a 4 de agosto de 1995.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

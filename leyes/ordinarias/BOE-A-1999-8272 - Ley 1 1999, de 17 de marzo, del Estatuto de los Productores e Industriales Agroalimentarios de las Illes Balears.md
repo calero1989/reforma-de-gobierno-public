@@ -1,0 +1,462 @@
+# Ley 1/1999, de 17 de marzo, del Estatuto de los Productores e Industriales Agroalimentarios de las Illes Balears.
+
+- Identificador BOE: `BOE-A-1999-8272`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-8272
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 27.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley del Estatuto de los Productores e Industriales Agroalimentarios de las Illes Balears.
+EXPOSICIÓN DE MOTIVOS
+I. La Directiva 89/397/CEE del Consejo, de 14 de junio de 1989, establece los principios generales para la realización del control oficial de los productos alimenticios. En el apartado 2 del artículo 1 define las tres finalidades del control: Prevenir los riesgos para la salud pública, proteger los intereses de los consumidores y garantizar la lealtad de las transacciones comerciales. En el Estado español mediante la Ley general de Sanidad; la Ley 26/1984, de 19 de julio, general para la Defensa de los Consumidores y Usuarios, y la Ley 1/1998, de 10 de marzo, del Estatuto de los Consumidores y Usuarios de la Comunidad Autónoma de las Illes Balears se creó el marco normativo para el cumplimiento de las dos primeras finalidades citadas en la Directiva 89/397/CEE.
+II. El apartado 3 del artículo 1 de la Ley general para la Defensa de los Consumidores y Usuarios establece que no tendrán la consideración de consumidores o usuarios quienes, sin constituirse en destinatarios finales, adquieran, almacenen, utilicen o consuman bienes o servicios, con el fin de integrarlos en procesos de producción, transformación, comercialización o prestación a terceros. Así productores e industriales agroalimentarios no tendrán la consideración de consumidores en la adquisición de los medios de producción, sin embargo es necesario proteger los intereses de estas personas en el ejercicio de su actividad productiva.
+III. El marco legal que regula los aspectos relacionados con la protección de los intereses de productores e industriales agroalimentarios, así como el control para garantizar la lealtad de las transacciones comerciales de los alimentos es poco claro y confuso. Algunos aspectos se prevén en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria.
+IV. Los profundos cambios que han experimentado la producción y la comercialización agroalimentaria, la incorporación de nuevas tecnologías y formas de comercialización y de venta, el incremento de los intercambios de medios de producción y alimentos entre regiones y Estados, hacen necesario adaptar la normativa a la nueva situación y establecer medidas que permitan controlar con la misma atención los productos alimenticios destinados o provenientes de la Comunidad Autónoma o de otra región o Estado de la Unión Europea.
+V. En los últimos años las referencias en el etiquetado de los productos alimenticios sobre la zona de producción y elaboración del producto y/o de alguno de sus ingredientes, o el sistema de producción y elaboración, se utilizan para diferenciar determinados alimentos de otros alimentos semejantes. Un inadecuado uso de estas referencias puede dar lugar a la competencia desleal e incluso al descrédito del producto. Es por ello que se ha aprovechado la elaboración de la norma para clarificar los términos en que puede hacerse referencia a la zona y/o al sistema de producción y elaboración.
+VI. El artículo 38 de la Constitución reconoce la libertad de empresa en el marco de la economía de mercado y establece que los poderes públicos deben garantizar y proteger su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general y, en su caso, de la planificación. Para garantizar la lealtad de las transacciones agroalimentarias, en el marco de la economía de mercado, es necesaria su regulación mediante una norma de rango legal.
+VII. De acuerdo con el Estatuto de Autonomía de las Illes Balears corresponde a la Comunidad Autónoma la competencia exclusiva en materia de agricultura y ganadería.
+
+## TÍTULO I
+
+Principios generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+1. Esta Ley tiene por objeto garantizar la lealtad de las transacciones comerciales agroalimentarias y la protección de los derechos y los legítimos intereses de los productores agrarios y de los industriales agroalimentarios en el territorio de las Illes Balears.
+2. Constituirán infracción administrativa en materia de producción y comercialización agroalimentaria toda acción u omisión tipificada como tal en esta Ley, en las disposiciones legales o reglamentarias de la Comunidad Autónoma de las Illes Balears, del Estado español o de la Unión Europea, que hayan sido publicados en los respectivos boletines oficiales.
+
+### Artículo 2
+
+Artículo 2. Ámbito.
+La presente Ley se aplicará a todas las infracciones administrativas que en materia de producción y comercialización agroalimentaria se cometan en el territorio de las Illes Balears, independientemente del domicilio social o de la ubicación del centro productor, elaborador, envasador o importador.
+
+### Artículo 3
+
+Artículo 3. Definiciones.
+1. A los efectos de la presente Ley se considerarán productores agrarios todas las personas físicas o jurídicas que desarrollen la actividad agraria profesionalmente y con ánimo de lucro.
+2. A los efectos de la presente Ley se considerarán industriales agroalimentarios todas las personas físicas o jurídicas que desarrollen profesionalmente y con ánimo de lucro la actividad de transformación, elaboración y/o envasado de productos agrarios o medios de producción.
+3. Se entenderán por materias y elementos necesarios para la producción agroalimentaria, los alimentos, los productos, los útiles, las instalaciones, las actividades y los servicios.
+4. Se entenderán por medios de producción: Las semillas, los abonos, los piensos, los alimentos, los aditivos, las vitaminas, las sales minerales, los oligoelementos y los restantes productos de adición utilizados en la producción agroalimentaria. No tendrán la consideración de medios de producción los productos fitosanitarios o zoosanitarios.
+
+## TÍTULO II
+
+De los derechos y deberes
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 4
+
+Artículo 4. Derechos.
+Son derechos básicos de los productores agrarios e industriales agroalimentarios:
+a) La protección de sus legítimos intereses económicos.
+b) El uso en el etiquetado, rotulado y publicidad del nombre de la Comunidad Autónoma, de la isla, de la comarca, de la localidad o del término donde se haya producido o elaborado el producto agroalimentario.
+c) La indemnización o reparación de los daños o perjuicios sufridos si hubiere sido declarado por la Administración.
+d) La información correcta sobre los diferentes medios de producción.
+e) La audiencia previa en el procedimiento de elaboración de las disposiciones generales, que les afectan directamente y la representación de sus intereses. Todo ello a través de las asociaciones, agrupaciones o confederaciones de productores agrarios o industriales agroalimentarios.
+f) La protección jurídica, administrativa y técnica en las situaciones de inferioridad, subordinación o indefensión.
+
+### Artículo 5
+
+Artículo 5. Irrenunciabilidad de los derechos.
+La renuncia previa al ejercicio de los derechos reconocidos en esta Ley y normas complementarias, los actos en fraude de ley y los pactos que tengan por objeto la exclusión de su aplicación, son nulos de pleno derecho, de acuerdo con la legislación civil.
+
+### Artículo 6
+
+Artículo 6. Deberes.
+Las personas dedicadas a la producción y/o comercialización de medios de producción y productos agroalimentarios quedarán sujetos a los requisitos, condiciones, obligaciones y prohibiciones determinados en esta Ley, y deberán evitar y denunciar cualquier forma de fraude, contaminación, alteración, adulteración, abuso o negligencia que perjudique o ponga en riesgo los intereses generales, económicos o sociales del sector agroalimentario.
+
+## CAPÍTULO II
+
+Derecho a la protección de los intereses económicos
+
+### Artículo 7
+
+Artículo 7. Marco legal de protección.
+Los legítimos intereses económicos y sociales de los productores e industriales agroalimentarios deberán ser respetados en los términos establecidos en esta Ley y en la legislación general sobre producción y comercialización agroalimentaria.
+
+### Artículo 8
+
+Artículo 8. Protección contra la competencia desleal.
+Las Administraciones Públicas velarán y adoptarán las medidas que sean de su competencia para conseguir el cumplimiento de la legislación vigente con la finalidad de que los productores e industriales agroalimentarios estén protegidos contra la competencia desleal.
+
+### Artículo 9
+
+Artículo 9. Prohibición de la venta con pérdida.
+Se prohíbe la venta de medios de producción y productos agroalimentarios a un precio inferior al de coste. Reglamentariamente se establecerá el sistema para establecer el precio de coste.
+No obstante lo anterior, la Administración o las Administraciones excepcionalmente y mientras persistan circunstancias que aconsejen la intervención podrá comprar o autorizar la venta a precio inferior al de coste que tendrán como objetivo garantizar la estabilidad de los mercados.
+
+## CAPÍTULO III
+
+De la indicación de la zona y/o del sistema de producción y elaboración
+
+### Artículo 10
+
+Artículo 10. De los nombres geográficos.
+(Derogado).
+Se deroga por la disposición derogatoria única.3 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919
+
+### Artículo 11
+
+Artículo 11. De las denominaciones de calidad.
+Queda prohibida la utilización de nombres y marcas que por su similitud fonética, gráfica u ortográfica con denominaciones de calidad reconocidas por la Administración puedan inducir a confusión sobre el origen del producto.
+
+### Artículo 12
+
+Artículo 12. De los nombres de sistemas de producción y/o de elaboración.
+Queda prohibida la utilización de nombres y marcas que por su similitud fonética, gráfica u ortográfica puedan inducir a confusión sobre el sistema o la técnica de producción y/o de elaboración.
+
+## CAPÍTULO IV
+
+Del derecho a la protección jurídica y a la reparación de los daños y perjuicios sufridos
+
+### Artículo 13
+
+Artículo 13. Derecho a reclamar y a resarcirse por los daños y perjuicios sufridos.
+1. Los productores e industriales agroalimentarios tienen derecho, de conformidad con la legislación vigente, al resarcimiento de los daños y perjuicios que puedan sufrir como consecuencia de la adquisición o utilización de medios de producción y productos agroalimentarios.
+2. Sin perjuicio del derecho a acudir directamente a la vía judicial, los productores e industriales agroalimentarios podrán dirigirse a la Administración autonómica, a fin de ser atendidos, en el marco de sus competencias, en relación a la información y protección de sus derechos e intereses.
+
+## CAPÍTULO V
+
+Del derecho a la información del productor e industrial agroalimentarios
+
+### Artículo 14
+
+Artículo 14. Información sobre los medios de producción.
+Los medios de producción puestos a disposición de los productores e industriales agroalimentarios, deberán llevar consigo o permitir de forma cierta y objetiva una información veraz, completa y eficaz sobre sus características esenciales.
+
+### Artículo 15
+
+Artículo 15. Contenido mínimo de la información.
+(Derogado).
+Se deroga por la disposición derogatoria única.3 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919
+
+### Artículo 16
+
+Artículo 16. Control de la actividad publicitaria.
+La actividad publicitaria se desarrollará de conformidad con los principios de objetividad, veracidad y autenticidad, en el marco de la legislación general sobre publicidad. Los poderes públicos harán uso de los mecanismos que establezca la legislación vigente para obtener el cese o la rectificación de la publicidad ilícita.
+
+### Artículo 17
+
+Artículo 17. Valor de la oferta, la promoción y la publicidad.
+1. La oferta, la promoción y la publicidad de los productos, de las actividades o de los servicios, se ajustarán a su naturaleza, características, condiciones, utilidad o finalidad, sin perjuicio de lo establecido en las disposiciones de publicidad.
+2. La Administración Pública adoptará las medidas oportunas para que las prestaciones propias de cada medio de producción ofrecido a los productores e industriales agroalimentarios se ajusten a la oferta de promoción y publicidad, aun cuando no figuren expresamente en el contrato firmado o en el documento o comprobante recibido.
+3. No obstante, si el contrato firmado estableciese cláusulas más beneficiosas, éstas prevalecerán sobre el contenido de la oferta, la promoción o la publicidad.
+
+## TÍTULO III
+
+De la actuación administrativa en materia de inspección
+
+## CAPÍTULO I
+
+De la inspección de fraudes agroalimentarios
+
+### Artículo 18
+
+Artículo 18. De las actuaciones.
+1. La Administración autonómica desarrollará actuaciones de control y de inspección sobre los medios de producción y productos alimenticios a fin de comprobar su adecuación a las normas vigentes en materia de producción y comercialización agroalimentarias.
+2. Las actuaciones de inspección tendrán como objetivo preferente el control:
+a) De la calidad y publicidad de los medios de producción y productos agroalimentarios, de la idoneidad de los establecimientos donde se elaboren, manipulen, envasen, almacenen o expendan y de los medios en que se transporten.
+b) Del adecuado uso de las denominaciones de calidad y de las referencias a zonas o sistemas de producción o de elaboración.
+3. La Administración autonómica procurará que los productos destinados a ser expedidos a otras regiones de la Unión Europea sean controlados con el mismo cuidado que los destinados a ser comercializados en su propio territorio.
+4. La Administración autonómica actuará tal como prescribe el apartado anterior, con los productos destinados a la exportación fuera de la Unión Europea.
+5. Reglamentariamente, la Comunidad Autónoma establecerá programas de previsión en los cuales se definirán el carácter y las frecuencias que deberán realizarse de forma regular durante un período determinado.
+
+### Artículo 19
+
+Artículo 19. Del ámbito.
+1. La inspección se extenderá a todas las fases de la producción, fabricación, elaboración, tratamiento, almacenamiento, transporte, distribución y comercio de medios de producción y productos agroalimentarios.
+2. Estarán sometidos a la inspección:
+a) El estado y el uso que se haga, en las diferentes fases mencionadas en el apartado 1 de este artículo de los terrenos, locales, oficinas, instalaciones y su entorno, medios de transporte, equipos y materiales.
+b) Los medios de producción, los productos semiacabados y los productos acabados dispuestos para la venta.
+c) Las materias primas, los ingredientes, los auxiliares tecnológicos y demás productos utilizados para la preparación y producción de productos alimenticios.
+d) Los materiales y objetos destinados a entrar en contacto con los medios de producción y los productos alimenticios.
+e) Los productos y procedimientos de limpieza, desinfección, desinsectación, desratización y de cualquier otro plaguicida y el mantenimiento.
+f) Los procedimientos utilizados para la fabricación o el tratamiento de medios de producción y productos alimenticios.
+g) El etiquetado y la presentación de los medios de producción y productos alimenticios.
+h) Los medios de conservación.
+
+### Artículo 20
+
+Artículo 20. Del acto de la inspección.
+1. La inspección consistirá en una o varias de las operaciones siguientes: Inspección, toma de muestras y análisis, examen del material escrito y documental, examen de los sistemas de verificación aplicados por los inspeccionados y de los resultados que se desprendan de los mismos.
+2. El Inspector podrá examinar el material escrito y documental en posesión de las personas físicas y jurídicas en las diferentes fases mencionadas en el apartado 1 del artículo 19.
+3. Asimismo, el Inspector podrá hacer copias o extractos del material escrito, informático y documental sometido a su examen.
+4. Las operaciones mencionadas en el apartado 1 podrán completarse, en caso necesario, mediante:
+a) La audiencia del responsable de la empresa sometida a inspección y de las personas que trabajan por cuenta de dicha empresa.
+b) La lectura de los valores registrados por los instrumentos de medida utilizados por la empresa.
+c) Los controles, realizados por el Inspector con sus propios instrumentos, de las mediciones efectuadas con los instrumentos instalados por la empresa.
+5. La actuación inspectora se ajustará a las prescripciones establecidas legal y reglamentariamente.
+6. La detección por parte de la inspección de acciones u omisiones que no causen un perjuicio directo al sector agroalimentario, que dan lugar a simples irregularidades subsanables a requerimiento de la inspección, darán lugar a la apertura de un procedimiento de vigilancia y, eventualmente, a una amonestación al responsable de las mismas.
+
+### Artículo 21
+
+Artículo 21. Del personal inspector.
+Los Inspectores de defensa contra fraudes tendrán carácter de autoridad en el ejercicio de sus funciones. Para el desarrollo de su actuación inspectora podrán solicitar la ayuda que resulte precisa de cualquier otra autoridad o sus agentes, que deberán prestársela.
+
+### Artículo 22
+
+Artículo 22. Valor probatorio de los hechos.
+De conformidad con lo dispuesto en el artículo 137 de la Ley 30/1992, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, los hechos constatados por los Inspectores de defensa contra fraudes agroalimentarios que se formalicen en acta, tendrán valor probatorio, sin perjuicio de las pruebas que en defensa de los respectivos derechos o intereses puedan señalar o aportar los propios administrados.
+
+### Artículo 23
+
+Artículo 23. Obligaciones de los inspeccionados.
+Las personas físicas y jurídicas titulares de los establecimientos susceptibles de inspección están obligadas a:
+a) Consentir y facilitar las visitas de inspección.
+b) Suministrar toda clase de información sobre instalaciones, productos, equipos o servicios, entre ellas las autorizaciones, permisos y licencias necesarios para el ejercicio de la actividad, permitiendo que el personal inspector compruebe directamente los datos aportados.
+c) Tener a disposición de la inspección la documentación que sirva de justificación de las transacciones efectuadas, tales como los contratos, las facturas, los albaranes, las guías sanitarias y demás documentos exigidos legalmente, así como aquellos que sean necesarios para determinar las responsabilidades pertinentes.
+d) Facilitar la obtención de copia o reproducción de la documentación citada en los puntos anteriores.
+e) Permitir que se practique la toma de muestras o que se efectúe cualquier tipo de control o ensayo sobre los productos y bienes en cualquier fase de producción, elaboración, envasado, transporte, almacenamiento o comercialización.
+
+### Artículo 24
+
+Artículo 24. Derechos de los inspeccionados.
+Los inspeccionados tienen derecho a poder recurrir de forma eventual a un contraperitaje de las pruebas o muestras tomadas en la inspección.
+
+### Artículo 25
+
+Artículo 25. Formación y recursos de la inspección.
+La Administración autonómica deberá velar para que la dotación de recursos de la inspección de defensa contra fraudes sea la adecuada a la función a realizar y, en especial, para la formación continuada del personal inspector.
+
+## CAPÍTULO II
+
+Medidas cautelares y preventivas
+
+### Artículo 26
+
+Artículo 26. Adopción de medidas cautelares.
+1. En aquellos supuestos en que existan claros indicios de infracción en materia de producción y comercialización agroalimentaria, el Inspector si lo estima conveniente y necesario podrá adoptar motivadamente cuantas medidas cautelares o preventivas considere oportunas en aras de evitar daños y perjuicios. En particular en los siguientes supuestos:
+a) Cuando se vulneren de forma generalizada los legítimos intereses económicos y sociales del sector agroalimentario.
+b) Cuando se use inadecuadamente el nombre de la zona o sistema de producción o elaboración.
+c) Si se comprueba que se transportan o comercializan medios de producción o productos alimenticios, para los que se haya prescrito un documento de acompañamiento, y éste no se acompaña o contiene indicaciones falsas, erróneas o incompletas.
+d) Cuando existan indicios de riesgo para la salud y la seguridad de las personas.
+
+### Artículo 27
+
+Artículo 27. Tipos de medidas cautelares.
+1. Las medidas cautelares a adoptar podrán consistir en:
+a) La inmovilización de productos.
+b) La paralización de los vehículos destinados al transporte de la mercancía.
+c) La retirada de productos del mercado.
+d) La suspensión de funcionamiento de área o de elemento de la explotación, del establecimiento o del servicio.
+e) El cierre de un establecimiento o la paralización de una actividad.
+f) La información pública en la forma reglamentaria establecida.
+2. Las medidas cautelares y preventivas deberán ser proporcionadas a la irregularidad detectada y mantenerse el tiempo estrictamente necesario para la realización de las diligencias oportunas o el que los interesados inviertan en la subsanación del problema o completa eliminación del hecho que motivó la actuación, lo que habrá de ser convenientemente verificada por la autoridad que ordenó la medida. Cuando la irregularidad sea subsanable podrá comercializarse el producto previa subsanación de aquélla.
+
+### Artículo 28
+
+Artículo 28. Procedimiento de actuación.
+1. De adoptarse las medidas citadas en el artículo anterior antes de la iniciación del procedimiento sancionador, en el acto de notificación de las mismas se fijará un plazo máximo de audiencia al interesado de cinco días hábiles, debiendo dictar resolución sobre la medida adoptada, la autoridad competente, en el término de diez días hábiles a contar desde la fecha de la adopción de la medida.
+2. En el caso de productos alimenticios de difícil conservación en su estado inicial o de productos perecederos la autoridad competente en materia de producción y comercialización agroalimentaria podrá ordenar la venta en pública subasta del producto retenido. El importe de la venta se depositará en una cuenta a disposición de la autoridad competente. Cuando en la resolución se indicase la inexistencia de infracción se devolverá el producto al interesado o su valor en el caso de haber sido subastado.
+3. Si la mercancía no es susceptible de comercialización y es perecedera, se destruirá. En el supuesto de que no haya infracción, la propia autoridad competente procederá a indemnizar al interesado, previa declaración de responsabilidad de la Administración.
+4. La autoridad competente podrá autorizar el retorno a origen de las mercancías intervenidas, previa constitución de una fianza suficiente que cubra la responsabilidad civil y la posible infracción.
+
+## TÍTULO IV
+
+De la potestad sancionadora
+
+### Artículo 29
+
+Artículo 29. Atribución de la potestad sancionadora.
+1. Corresponde a la Administración de la Comunidad Autónoma de las Illes Balears la potestad sancionadora en materia de producción y comercialización agroalimentaria, ejerciéndose por los órganos administrativos de la misma que la tengan atribuida.
+2. El órgano competente, previa tramitación del procedimiento sancionador correspondiente, sancionará las infracciones en materia de producción y comercialización agroalimentaria cometidas en el ámbito territorial de las Illes Balears.
+
+### Artículo 30
+
+Artículo 30. Tipificación de infracciones.
+Las infracciones administrativas en materia de producción y comercialización agroalimentaria se clasifican en antirreglamentarias, por clandestinidad, económicas, por fraude y por obstrucción de la inspección.
+1. Se consideran infracciones antirreglamentarias:
+a) La no presentación del certificado acreditativo de las inscripciones oficiales de la empresa o del producto cuando se esté obligado a su exhibición en el local correspondiente en la forma establecida.
+b) El incumplimiento en la remisión dentro de los plazos establecidos de las declaraciones previstas en la normativa agroalimentaria o la presentación de documentos defectuosos, cuando estos sean obligatorios.
+c) La falta de talonarios matrices de facturas de venta, libros de movimientos o todos los documentos que las disposiciones vigentes obliguen a llevar.
+d) La falta de inscripción o de comunicación de las modificaciones de los datos declarados al organismo administrativo correspondiente, de las explotaciones y las industrias agroalimentarias, según las normas en vigor.
+e) La paralización de las actividades de las industrias agrarias y alimentarias sin haberlo comunicado al organismo administrativo correspondiente, de acuerdo con la legislación vigente.
+f) El incumplimiento de las instrucciones sobre la actividad y la competencia emanadas de las administraciones competentes en materia agroalimentaria, siempre que se trate de infracciones meramente formales no previstas en los siguientes apartados.
+g) Cometer inexactitudes, errores u omisiones en los datos o la información en el etiquetado, los documentos de acompañamiento, los documentos comerciales, los registros, la rotulación, la presentación y el embalaje de los productos agroalimentarios o de las materias y los elementos para la producción y la comercialización agroalimentaria.
+h) No tener o no llevar un sistema de autocontrol y de trazabilidad interna, cuando se tenga la obligación de hacerlo, porque así lo indica una normativa sectorial específica.
+i) No disponer de alguno de los elementos reglamentarios en el sistema de garantía de la trazabilidad, como la identificación de las existencias, los registros o la documentación de acompañamiento de los productos, o no disponer de los sistemas o procedimientos de trazabilidad que sean adecuados y comprensibles.
+j) Inexactitudes y errores en los registros de trazabilidad, en las declaraciones o en los documentos, cuando la diferencia entre la cantidad consignada y la real sea inferior al 15 %.
+2. Son infracciones por clandestinidad:
+a) La tenencia en explotaciones agrarias o establecimientos agroalimentarios o en locales anejos, de sustancias no autorizadas por la legislación específica para la producción o elaboración de los productos.
+b) La elaboración, distribución o venta de productos, de materias o de elementos y/o para el sector agroalimentario sin que el titular responsable o el local posea la preceptiva autorización cuando legalmente fuera exigible dicho requisito.
+c) La falta de inscripción de dichos productos, materias o elementos en la forma que para cada uno de ellos se hubiera establecido.
+d) La tenencia o venta de productos a granel sin estar autorizados para ello, o la circunstancia de no reunir los envases los requisitos exigidos por las disposiciones correspondientes.
+e) La falta de etiquetas o rotulación indeleble, que fuesen preceptivas, o el no ajustarse las mismas a la forma o condiciones establecidas para dichos productos.
+f) El suministro, sin ajustarse a la realidad, de cuantos datos sean normativamente exigibles.
+g) La posesión de maquinaria o útiles sin la preceptiva inscripción de la misma en los registros normativamente establecidos, así como no darlas de baja en dichos registros cuando por cualquier causa dejen de utilizarse de una manera permanente.
+h) La plantación o el cultivo no autorizado de especies o variedades de plantas que estén sujetas a normativas específicas o la multiplicación, sin la autorización del obtentor, de variedades registradas.
+i) La instalación o modificación de las industrias agrarias y alimentarias con incumplimiento de las disposiciones vigentes en materia de regulación de dichas industrias.
+j) El ejercicio de actividades en las industrias agrarias y alimentarias sin estar inscritas en el correspondiente registro o cuando aquellas actividades no estén previstas en dicha inscripción o ésta haya sido cancelada.
+k) El ejercicio de actividades agroalimentarias sin disponer o utilizar los equipos técnicamente adecuados.
+l) La transferencia de las autorizaciones para la instalación o modificación de industrias agrarias y alimentarias no liberalizadas sin permiso expreso de la Administración competente, así como el incumplimiento de las cláusulas de la autorización o de los requisitos exigibles, y el incumplimiento de los plazos previstos en dicha autorización, o, en su caso, en las prórrogas otorgadas para realizar las instalaciones o las modificaciones autorizadas.
+m) Y, en general, toda actuación que con propósito de lucro, tienda a eludir la efectividad de las normas y medidas de vigilancia o intervención establecidas en las materias a que se refiere este apartado 2.
+3. Son infracciones en materia económica:
+a) La venta de medios de producción o productos agroalimentarios por debajo del precio de coste.
+b) La aportación de datos falsos que puedan inducir a cualquier Administración a otorgar ayudas, subvenciones o beneficios de cualquier índole, sin que se cumplan los requisitos o se reúnan las condiciones previamente establecidas a partir del momento en que se conceda la subvención o el beneficio.
+c) La no expedición de facturas comerciales, la omisión en las mismas o la deficiente extensión de algunos de los datos exigidos por la legislación vigente.
+d) Y, en general, toda actuación que con propósito de lucro tienda a eludir la efectividad de las normas y medidas de vigilancia o intervención establecidas en las materias a que se refiere este apartado 3.
+4. Son infracciones por fraude:
+a) La elaboración de medios de producción, productos agrarios y alimentarios mediante tratamientos o procesos que la normativa vigente no autorice, así como la adición o sustracción de sustancias o elementos que modifiquen la composición con fines fraudulentos.
+b) Las defraudaciones en la naturaleza, composición, calidad, riqueza, peso, exceso de humedad o cualquier otra discrepancia que haya entre las características reales de la materia o del elemento de que se trate, y las ofrecidas por el productor, fabricante o vendedor, así como todo acto voluntario de naturaleza similar que suponga transgresión o incumplimiento de lo que dispone la normativa vigente.
+c) La utilización en el etiquetado, en la información alimentaria, en el comercio electrónico, en las redes sociales o en Internet de indicaciones de procedencia, de sistemas de producción o de elaboración, de razas, variedades, denominaciones de calidad, categorías y marcas que no se correspondan con el producto o que induzcan a confusión.
+d) El uso, tanto directo como indirecto, de indicaciones falsas o engañosas relacionadas con indicaciones geográficas protegidas (denominaciones de origen protegidas, indicaciones geográficas y especialidades tradicionales garantizadas) en productos que no estén amparados, y la imitación o evocación de estas indicaciones.
+e) La falsificación de productos agroalimentarios y la venta de productos falsificados.
+f) Inexactitudes y errores en los registros de trazabilidad, en las declaraciones o en los documentos, cuando la diferencia entre la cantidad consignada y la real sea igual o superior al 15 %.
+g) En general, el incumplimiento de los requisitos, obligaciones o prohibiciones que tienda a eludir la efectividad de las normas relacionadas con la producción y la comercialización agroalimentaria, incluido el transporte.
+5. Son infracciones por obstrucción a la inspección:
+a) La obstrucción o negativa a facilitar las funciones de inspección, vigilancia o información, así como a suministrar datos a los Inspectores, y, en especial, la negativa encaminada a evitar las tomas de muestras o a hacer ineficaz la inspección; así como el suministro de información inexacta en la documentación falsa.
+b) La resistencia, coacción, amenaza, represalia o cualquier otra forma de presión a los funcionarios encargados de las funciones a que se refiere la presente Ley o contra las empresas, los particulares o las asociaciones de consumidores que hayan iniciado o pretendan iniciar cualquier clase de acción legal, denuncia o participación en procedimientos ya iniciados; así como la tentativa de ejercitar tales actos.
+c) El incumplimiento de los requerimientos efectuados por los órganos administrativos, encaminados al esclarecimiento de los hechos y a la averiguación de las responsabilidades susceptibles de sanción.
+d) El incumplimiento de las medidas cautelares y preventivas adoptadas por la autoridad competente y cualquier conducta tendente a ocultar o manipular las mercancías obtenidas.
+Se modifican los apartados 1 y 4 por la disposición final 53.1 y 2 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-53
+ Se añaden las letras g), h) e i) al apartado 1 por la disposición final 3.1 de la Ley 3/2019, de 31 de enero. Ref. BOE-A-2019-3911#df-3
+
+### Artículo 31
+
+Artículo 31. Responsabilidad de las infracciones.
+1. Serán responsables de las infracciones tipificadas en esta Ley las personas físicas o jurídicas que por acción u omisión hubieren participado en las mismas.
+2. El fabricante, importador, vendedor o suministrador de los medios de producción o de materias y de elementos necesarios para la producción agroalimentaria responden del origen, identidad e idoneidad de los mismos, y de las infracciones comprobadas en ellos.
+3. De los productos a granel o envasados sin etiqueta, o cuando en la etiqueta no figure ninguna firma o razón social, será responsable el tenedor de los mismos, sin perjuicio de que se pueda identificar y probar la responsabilidad del anterior tenedor o proveedor.
+4. En el supuesto de productos envasados, etiquetados o cerrados con cierre íntegro, responde la firma o razón social que figure en la etiqueta, la presentación o la publicidad. Podrá eximirse de esa responsabilidad probando su falsificación o incorrecta manipulación por terceros, que serán los responsables. Asimismo, también será responsable el que comercialice y envase dichos productos.
+5. Cuando una infracción sea imputada a una persona jurídica también se considerarán responsables las personas físicas que integren sus órganos rectores o de dirección, así como los técnicos responsables de la elaboración y del control.
+6. El transportista que lleve la mercancía sin la documentación adecuada, cuando se pruebe la connivencia.
+7. Si en la comisión de la infracción concurriesen varias personas, responderán solidariamente de ella.
+
+### Artículo 32
+
+Artículo 32. Calificación de las infracciones.
+1. Las infracciones en materia de producción y comercialización agroalimentaria se califican como leves, graves o muy graves.
+2. Se califican como leves las infracciones descritas en el artículo 30 anterior que no estén calificadas como graves.
+3. Se califican como graves las infracciones tipificadas en el artículo 30.1.h), 30.3, 30.4.a), 30.4.b), 30.4.d), 30.4.f), 30.4.g), 30.4.i), 30.5.a), 30.5.b) y 30.5.d) de esta ley, cuando las infracciones se cometan en el origen de la producción o en la distribución, de manera consciente y deliberada o por falta de los controles o precauciones exigibles en la actividad.
+4. Se califica como muy grave cualquier infracción de las que se tipifican como graves en el apartado 3 anterior cuando concurra alguna de las siguientes circunstancias:
+a) Que la infracción implique la extensión de la alteración, adulteración, falsificación o fraude a terceras personas a las que se faciliten productos, informes, medios o procedimientos.
+b) Que la infracción, en todo o en parte, sea concurrente con infracciones sanitarias muy graves o haya servido para facilitarlas o encubrirlas.
+Se modifica por la disposición final 53.3 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-53
+ Se modifica por la disposición final 3.2 de la Ley 3/2019, de 31 de enero. Ref. BOE-A-2019-3911#df-3
+
+### Artículo 33
+
+Artículo 33. Cuantías de las sanciones.
+1. La comisión de infracciones en materia de producción y comercialización agroalimentaria puede dar lugar a las siguientes sanciones:
+a) Infracciones leves: advertencia o multa de hasta 3.000 euros.
+b) Infracciones graves: multa comprendida entre 3.001 y 60.000 euros.
+c) Infracciones muy graves: multa comprendida entre 60.001 y 600.000 euros.
+2. El Consejo de Gobierno puede actualizar la cuantía de las sanciones cuando las circunstancias económicas y sociales lo requieran.
+Se modifica por la disposición final 53.4 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-53
+ Se modifican las letras b) y c) del apartado 1 por el art. 14.1 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se modifica por la disposición final 3.3 de la Ley 3/2019, de 31 de enero. Ref. BOE-A-2019-3911#df-3
+
+### Artículo 34
+
+Artículo 34. Multas coercitivas.
+1. De acuerdo con el artículo 103 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la autoridad competente, independientemente de las sanciones a que se refiere el artículo anterior, puede imponer a los agentes económicos, a las empresas, a las asociaciones, a las uniones o agrupaciones de empresas multas coercitivas de 100 a 10.000 euros, reiteradas por los lapsos de tiempos que sean suficientes para cumplir lo que se ordena para obligarlas al cese de una acción prohibida, de acuerdo con lo que dispone esta ley, o a la remodelación de los efectos de una infracción.
+2. Una vez cumplida la resolución, se podrá reducir la cuantía de la multa resultante de la decisión inicial, de acuerdo con las circunstancias concurrentes.
+Se modifica por la disposición final 53.5 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-53
+
+### Artículo 35
+
+Artículo 35. Criterios de graduación de las sanciones.
+1. Una vez calificadas las infracciones como leves, graves o muy graves, se graduarán las sanciones en grado mínimo, medio o máximo. En la graduación de las sanciones deberán observarse los siguientes criterios:
+a) El fraude, la culpa, o la simple inobservancia.
+b) La naturaleza de los perjuicios causados a los productores y/o industriales agroalimentarios.
+c) La amonestación previa.
+d) El volumen de ventas.
+e) La cuantía del beneficio ilícito obtenido.
+f) El reconocimiento y la subsanación de las infracciones antes de que se resuelva el correspondiente procedimiento sancionador.
+2. De acuerdo con estos criterios, las sanciones pecuniarias se impondrán motivadamente en los grados mínimo, medio y máximo, entre los límites que se indican a continuación:
+a) Sanción pecuniaria por infracción leve:
+Grado mínimo: hasta 1.000 €
+Grado medio: de 1.001 a 2.000 €
+Grado máximo: de 2.001 a 3.000 €
+b) Sanción pecuniaria por infracción grave:
+– Grado mínimo: De 3.001 a 6.000 euros.
+– Grado medio: De 6.001 a 20.000 euros.
+– Grado máximo: De 20.001 a 60.000 euros.
+c) Sanción pecuniaria por infracción muy grave:
+– Grado mínimo: De 60.001 a 200.000 euros.
+– Grado medio: De 200.001 a 400.000 euros.
+– Grado máximo: De 400.001 a 600.000 euros.
+Se modifican las letras b) y c) del apartado 2 por el art. 14.2 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se modifican las letras b) y c) del apartado 2 por el art. 13 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a1-5
+ Se modifica por la disposición final 3.4 de la Ley 3/2019, de 31 de enero. Ref. BOE-A-2019-3911#df-3
+
+### Artículo 36
+
+Artículo 36. Reincidencia.
+1. La comisión de sucesivas infracciones administrativas en materia de producción y/o comercialización agroalimentarias durante el período de dos años, se sancionará incrementando el importe de la multa correspondiente:
+a) En un 50 por 100 cuando se trate de una segunda infracción al mismo precepto reglamentario, y en un 100 por 100 cuando la infracción se cometa por tercera o más veces consecutivas.
+b) En un 25 por 100 cuando se trate de infracción distinta a la anteriormente sancionada, y en un 50 por 100 la tercera y siguientes infracciones que no violen el mismo precepto reglamentario.
+2. Cuando la infracción anterior sea de las consideradas muy graves, la nueva sanción por el mismo concepto se incrementará, en todo caso, en el 100 por 100 de su importe, pudiendo ser suspendido, en este caso, el responsable de la infracción del ejercicio de la actividad de producción y/o comercialización agroalimentarias por un tiempo no superior a un año ni inferior a tres meses.
+
+### Artículo 37
+
+Artículo 37. Principios de proporcionalidad y efectividad de las sanciones.
+La imposición de las sanciones pecuniarias se hará de manera que la comisión de las infracciones no resulte más beneficiosa para el infractor que el cumplimiento de las normas infringidas. Siempre de acuerdo con el principio de proporcionalidad, y con la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción a imponer.
+
+### Artículo 38
+
+Artículo 38. Otras sanciones.
+1. La autoridad a la que corresponda resolver el expediente podrá acordar, previa propuesta del instructor y como sanción, el decomiso de la documentación de presentación del producto así como de la mercancía adulterada, falsificada, fraudulenta o no identificada y de aquella que pueda suponer un riesgo para las personas, los animales o los vegetales, siendo de cuenta del infractor los gastos que originen las operaciones de intervención, depósito, decomiso y destrucción de la mercancía.
+2. Por razones de ejemplaridad y siempre que concurra alguna de las circunstancias de riesgo o daño efectivo para los intereses económicos del sector agroalimentario, reincidencia en infracciones graves o muy graves, o acreditada intencionalidad en la comisión de las infracciones, la autoridad que adopte la resolución del procedimiento sancionador podrá acordar que se dé publicidad de las sanciones impuestas acompañadas del nombre de la empresa y de las personas naturales o jurídicas responsables, con expresa indicación de las infracciones cometidas. Dichos datos se publicarán en el «Boletín Oficial de las Illes Balears», en el boletín del municipio en el cual se halla radicada la empresa, en el «Boletín Oficial del Estado», si la empresa infractora es de ámbito estatal o internacional y, en los medios de comunicación que se consideren oportunos.
+3. También se impondrá como sanción accesoria el pago de los análisis necesarios para comprobar la infracción investigada, cuando éstos fueran necesarios, a la empresa responsable de la misma.
+4. Además, podrá procederse al cierre temporal del establecimiento, la instalación o el servicio donde se cometió la infracción, por el plazo máximo de cinco años, en aquellos casos en los que se cometió una falta muy grave. No tendrá carácter de sanción la clausura o el cierre de las instalaciones que no tengan las autorizaciones o los registros preceptivos, o la suspensión de su funcionamiento mientras que no se cumplan los requisitos exigidos.
+
+### Artículo 39
+
+Artículo 39. Prescripción y caducidad.
+1. Las infracciones en materia de producción y comercialización agroalimentarias prescriben a los cinco años. El plazo de prescripción comienza a contar desde el día de la comisión de la infracción, y se interrumpe en el momento en que el procedimiento se dirige contra el presunto infractor.
+2. La acción para perseguir las infracciones caducará cuando, conocida por la Administración competente para sancionar la existencia de una infracción y finalizadas las diligencias dirigidas al esclarecimiento de los hechos, o finalizados los análisis iniciales, transcurran seis meses sin que el órgano competente de aquélla ordene iniciar el procedimiento sancionador.
+3. Las solicitudes de análisis contradictorios y dirimentes que fuesen necesarios interrumpirán los plazos de prescripción de la acción de persecución de la infracción, o de caducidad del procedimiento ya iniciado, hasta que se practiquen.
+4. Las sanciones reguladas en esta Ley prescribirán a los tres años de haber adquirido firmeza, salvo las muy graves que prescribirán a los cinco años.
+
+### Artículo 40
+
+Artículo 40. Procedimiento sancionador.
+1. Las infracciones tipificadas en esta Ley serán sancionadas previa tramitación del procedimiento sancionador de carácter general, reglamentariamente establecido por el Gobierno de las Illes Balears, respetando las peculiaridades específicas que para esta materia se regulen.
+2. El plazo máximo en el cual debe notificarse la resolución expresa que finalice el procedimiento será de dieciocho meses, contados desde la fecha de inicio del procedimiento administrativo sancionador. Transcurrido este plazo sin que se haya realizado la notificación de la resolución, se producirá la caducidad del procedimiento con el archivo de las actuaciones. En el caso de que un procedimiento se suspenda o se paralice por causa imputable al interesado, se interrumpirá el cómputo para resolver el procedimiento.
+
+### Artículo 41
+
+Artículo 41. Órganos competentes.
+Los órganos competentes para iniciar, tramitar y resolver los procedimientos sancionadores en materia de producción y comercialización agroalimentarias serán los que se determinen reglamentariamente.
+
+### Disposición adicional
+
+Disposición adicional.
+En todo lo no previsto en la presente Ley y en las normas que la desarrollen o complementen será de aplicación la Ley 25/1970, de 2 de diciembre, que aprueba el Estatuto de la Viña, del Vino y de los Alcoholes.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Hasta tanto no se produzca el necesario desarrollo reglamentario, será de aplicación en las Illes Balears la normativa estatal en la materia, en especial la Ley 26/1984, de 19 de julio, de Consumidores y Usuarios, y el Real Decreto 1945/1983, de infracciones y sanciones en materia de defensa de los consumidores y de la producción agroalimentaria, que dejarán de aplicarse en el ámbito territorial de las Illes Balears una vez entren en vigor las disposiciones de desarrollo previstas en esta Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+A los procedimientos sancionadores incluidos en el ámbito de aplicación de la presente Ley, iniciados antes de su entrada en vigor, les será de aplicación la normativa anterior.
+
+### Disposición final primera
+
+Disposición final primera.
+El Gobierno de las Illes Balears dictará todas las disposiciones necesarias para la aplicación de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+En un plazo de seis meses el Gobierno de las Illes Balears reglamentará el sistema para calcular el coste de los productos a efectos de poder determinar si existe venta por debajo del precio de coste.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor al mes de su publicación en el «Boletín Oficial de las Illes Balears».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las autoridades a los que correspondan la hagan guardar.
+Palma, 17 de marzo de 1999.‒ El Consejero de Agricultura, Comercio e Industria, José Juan Cardona.‒El Presidente, Jaume Matas i Palou.

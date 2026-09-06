@@ -1,0 +1,222 @@
+# Ley 9/1991, de 3 de mayo, del Instituto Catalán de Energía.
+
+- Identificador BOE: `BOE-A-1991-13835`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-13835
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de Autonomía de Cataluña, promulgo la siguiente Ley:
+El año 1981 el Departamento de Industria y Energía de la Generalidad de Cataluña, con la publicación del «Llibre Blanc de l’Energia a Catalunya», posteriormente revisado en 1985, definía y orientaba su política energética según los siguiente ejes:
+Asegurar la satisfacción de la demanda energética, minimizando los costes a largo plazo.
+Favorecer el desarrollo simultáneo de la economía y del empleo en Cataluña.
+Alentar el uso racional de la energía y favorecer el desarrollo de las energías renovables para disminuir la dependencia exterior y los desequilibrios territoriales.
+Conservar el medio ambiente.
+El reto del nuevo marco industrial que supone la integración de Cataluña en el ámbito supraestatal de la Comunidad Económica Europea, la progresiva apertura de la economía, el acelerado cambio tecnológico, la necesidad de un mayor grado de competitividad de nuestras empresas y un creciente proceso de internacionalización, con mercados profundamente interconectados, especialmente en cuanto al establecimiento del Mercado Único Europeo, tiene unas importantes repercusiones en el ámbito energético, no tan sólo porque supone, respecto a la mejora de la competitividad de las empresas catalanas, el aumento de la eficiencia energética, la formación profesional en esta área, el disponer de recursos económicos destinados a la financiación de proyectos y de investigación energética, la participación catalana en programas comunitarios relativos a la energía, entre otros, sino también porque dicha interrelación afecta directamente y de una manera especial a los mercados energéticos propiamente dichos. Así pues, se hace imprescindible intensificar el proceso iniciado de adecuación de las estructuras energéticas de los distintos sectores, reduciendo la incidencia de los costes energéticos (lo que debe llegar a afectar positivamente al usuario), favoreciendo la racionalización del consumo, aumentando la eficiencia energética, disminuyendo la dependencia del petróleo e introduciendo tecnologías renovables y limpias, en cuyo campo es preciso aumentar el esfuerzo de investigación y aplicación.
+En esta situación de cambio acelerado, tanto a nivel de mercado de la energía como en el mercado de competencia internacional en el que se desarrolla la actividad de las empresas catalanas, la Administración debe tener su papel dinamizador mediante la difusión y la ayuda para la aplicación de dichas tecnologías, canalizando los esfuerzos realizados en materia de investigación, formación o desarrollo.
+Este reto ha sido ya recogido por la Administración catalana que ha asumido este papel, desarrollando un amplio abanico de programas para favorecer la consecución de dichos objetivos. En este marco de actuaciones, se ha puesto de manifiesto la necesidad de crear un instrumento operativo que lleve a cabo las funciones desarrolladas hasta el momento presente en este ámbito por distintos organismos de la Generalidad de Cataluña y profundice y consolide la tarea emprendida. En este sentido, nace el Instituto Catalán de Energía, que asumirá este conjunto de tareas, con la importante ventaja de disponer de una estructura adecuada para desarrollarlas.
+
+## CAPÍTULO PRIMERO
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+1. El Instituto Catalán de Energía (ICAEN) es, de conformidad con el artículo 1.º b) de la Ley 4/1985, de 29 de marzo, del Estatuto de la Empresa Pública Catalana, una entidad de derecho público, con personalidad jurídica propia, cuya actividad se ajusta al ordenamiento jurídico privado, con las excepciones que señala la presente Ley.
+2. El Instituto Catalán de Energía está adscrito al Departamento de Industria y Energía y se rige por la presente Ley y, en lo que la misma no prevea, por la Ley del Estatuto de la Empresa Pública Catalana.
+
+### Artículo 2
+
+Artículo 2.
+El Instituto Catalán de Energía tiene por finalidad el impulso y realización de iniciativas y programas de actuación para la investigación, el estudio y el apoyo de las actuaciones de conocimiento, desarrollo y aplicación de las tecnologías energéticas, incluidas las renovables, la mejora del ahorro y la eficiencia energética, el fomento del uso racional de la energía y, en general, la óptima gestión de los recursos energéticos en los distintos sectores económicos de Cataluña.
+
+### Artículo 3
+
+Artículo 3.
+1. El Instituto estará sujeto en sus actividades a los programas y a las directrices generales de investigación y desarrollo energético, tecnológico y medioambiental del Gobierno de la Generalidad, especialmente del Departamento de Industria y Energía. Sin embargo, de acuerdo con su finalidad, podrá elaborar propuestas y programas de actuación para contribuir a la definición de dichas directrices.
+2. Sin perjuicio de lo dispuesto en el apartado 1, el Instituto tendrá autonomía funcional respecto a la Administración a que esté adscrito para realizar estudios, dictámenes, peritajes y actividades docentes, comerciales y financieras, dentro de su finalidad básica, para la Administración pública, las empresas y los particulares.
+
+### Artículo 4
+
+Artículo 4.
+1. Las funciones generales del Instituto serán las siguientes:
+a) Fomentar y desarrollar programas de asesoramiento y auditoría energéticos para determinar posibles actuaciones de ahorro y mejora de la eficiencia energética, elaborar programas de racionalización del uso de la energía y promover el aprovechamiento de los recursos energéticos renovables.
+b) Fomentar la investigación y el desarrollo de tecnologías energéticas, incluidas las renovables, y de bienes de equipo y de servicios industriales relacionados con la energía y participar y colaborar con otras organizaciones públicas y privadas, y especialmente con centros universitarios, en programas de investigación aplicada de tecnologías energéticas y de evaluación de los recursos energéticos autóctonos.
+c) Fomentar la implantación de sistemas de producción de energía renovables y de cogeneración a escala local y comarcal.
+d) Elaborar estudios, realizar y emitir informes y recomendaciones de aplicación de tecnologías energéticas en los distintos sectores económicos o bien dirigidos al establecimiento de líneas de actuación de la Administración en el ámbito energético y coordinar los trabajos que en dicho ámbito realicen los departamentos de la Generalidad.
+e) Organizar programas de formación y reciclaje profesional, en colaboración con centros de formación de ámbito universitario y profesional, y apoyar iniciativas en sectores específicos con déficit formativo en atención a las necesidades de técnicos especialistas en tecnologías energéticas, incluidas las relacionadas con el ahorro.
+f) Orientar a los usuarios en la modificación de los hábitos de consumo energético mediante campañas y actuaciones específicas.
+g) Fomentar la participación de las empresas e instituciones catalanas en los programas energéticos estatales e internacionales, principalmente los emprendidos por la Comunidad Económica Europea, así como en general, informar y asesorar sobre las directrices y programas comunitarios dirigidos al ámbito energético.
+g bis) Gestionar el Registro de Certificados de Eficiencia Energética de los Edificios.
+h) Ejercer cualquier otra función que, en el ámbito energético, vaya destinada al fomento de su eficiencia y posible abaratamiento, la utilización racional de la energía, el estudio en el campo de la seguridad y la introducción de tecnologías innovadoras, incluidas las renovables y las limpias, en el marco de respeto al medio ambiente.
+2. Para el ejercicio de sus funciones, el Instituto Catalán de Energía podrá:
+a) Establecer convenios y contratos con instituciones públicas o privadas interesadas, en el ámbito de las funciones del Instituto.
+b) Colaborar con otras administraciones, especialmente en el ámbito local, para favorecer la adopción de medidas de ahorro y de racionalización en la producción y consumo de energía.
+c) Constituir o participar en sociedades.
+d) Promover el establecimiento de líneas de financiación para la realización de proyectos energéticos, en colaboración con el Instituto Catalán de Finanzas, así como con otras instituciones públicas o privadas.
+e) Participar en operaciones de capital riesgo y en la creación de sociedades de esta naturaleza, mediante la suscripción de acciones o de participaciones representativas del capital social.
+f) Realizar cualquier otra actividad que le ayude a alcanzar sus objetivos.
+Se modifica el apartado 2.c) por el art. 70 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Se añade la letra g bis) al apartado 1 por el art. 149.1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2015-2999.
+
+## CAPÍTULO II
+
+Órganos del Instituto
+
+### Artículo 5
+
+Artículo 5.
+Los órganos de gobierno del Instituto son el Consejo de Administración y el Director. El Instituto cuenta con la orientación y asistencia de un Consejo Asesor.
+
+### Artículo 6
+
+Artículo 6.
+1. El Consejo de Administración es el órgano de representación, de dirección y control del Instituto.
+2. El Consejo de Administración estará integrado por:
+a) El presidente o presidenta, que es el consejero o consejera competente en materia de energía o la persona que este designe.
+b) El vicepresidente o vicepresidenta, que asiste al presidente o presidenta, coordina y controla el ejercicio de las funciones delegadas por el Consejo de Administración y preside las reuniones del Consejo en caso de ausencia o de imposibilidad de asistir al mismo por parte del presidente o presidenta.
+c) Seis vocales en representación de la Administración de la Generalidad, pertenecientes a los departamentos competentes en las materias de energía, industria y otras relacionadas con la materia energética.
+d) El Director del Instituto, con voz pero sin voto.
+3. El vicepresidente o vicepresidenta y los vocales del Consejo de Administración son nombrados y separados por el Gobierno, a propuesta del consejero o consejera del departamento competente en materia de energía.
+4. Corresponderán al Consejo de Administración las siguientes funciones:
+a) Fijar las directrices de actuación del Instituto.
+b) Representar al Instituto Catalán de Energía.
+c) Aprobar el anteproyecto del programa de actuación y el programa de inversión y de financiación correspondientes al ejercicio siguiente y remitirlos al Consejero de Economía y Finanzas, a través del Departamento de que dependa dicho Instituto, según lo establecido en el artículo 29 de la Ley 4/1985, de 29 de marzo, del Estatuto de la Empresa Pública Catalana.
+d) Elaborar el presupuesto de explotación y de capital del Instituto para elevarlo al Departamento de Economía y Finanzas, previo informe del Departamento al que esté adscrito este Instituto.
+e) Aprobar el balance anual del Instituto, la memoria anual y evaluar periódicamente los programas de actuación y sus resultados.
+f) Aprobar las plantillas y el régimen retributivo del personal.
+g) Aprobar los convenios de cooperación con las demás administraciones públicas, las universidades y los contratos y convenios de colaboración que se formalicen para la consecución de la finalidad fundacional.
+h) Fijar los precios y las tarifas que el Instituto deba percibir por la prestación de sus servicios.
+i) Decidir la constitución de sociedades filiales o la participación en sociedades.
+j) Realizar cualquier otra función que no esté encomendada expresamente a los demás órganos del Instituto.
+5. El Consejo de Administración podrá delegar en sus miembros el cumplimiento de funciones específicas. No podrán ser objeto de delegación las funciones que correspondan al Consejo de Administración establecidas en las letras c), d), e) y f) del apartado 4 del presente artículo, ni la facultad de delegación prevista en este artículo.
+6. El Consejo de Administración celebrará sesiones ordinarias al menos una vez al trimestre.
+Se modifican los apartados 2 y 3 por los arts. 149.2 y 3 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se modifican los apartados 2 y 3 por los arts. 114 y 115 de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548.
+ Se modifica el apartado 2 por el art. 20.1 de la Ley 17/2007, de 21 de diciembre. Ref. BOE-A-2008-3656.
+
+### Artículo 7
+
+Artículo 7.
+1. El Director del Instituto dirigirá la actividad del Instituto bajo las directrices del Consejo de Administración. El Director será nombrado y separado por el Consejo Ejecutivo de la Generalidad a propuesta del Presidente del Instituto; de estas decisiones se dará cuenta al Consejo de Administración y al Consejo Asesor.
+2. Corresponden al Director las siguientes funciones:
+a) Ejecutar los acuerdos del Consejo de Administración.
+b) Dirigir, coordinar, gestionar, inspeccionar y controlar todas las dependencias, las instalaciones y los servicios.
+c) Ejercer la dirección de todo el personal.
+d) Presentar anualmente al Consejo de Administración, para su aprobación, las propuestas de programas de actuación, de inversión y de financiación, el balance y la memoria del Instituto.
+e) Realizar las funciones específicas que el Consejo de Administración le delegue.
+
+### Artículo 8
+
+Artículo 8.
+1. El Consejo Asesor es un órgano de carácter consultivo en el que están representadas las partes interesadas del ámbito energético catalán, públicas o privadas, con el fin de coordinar esfuerzos conducentes a la consecución de los objetivos básicos del Instituto.
+2. El Consejo Asesor estará integrado por los siguientes miembros:
+a) El presidente o presidenta, que es el consejero o consejera competente en materia de energía o la persona que este designe.
+b) El vicepresidente o vicepresidenta, que es el director o directora general competente en materia de energía, el cual auxilia al presidente o presidenta. El vicepresidente o vicepresidenta preside las reuniones del Consejo en caso de ausencia o de imposibilidad del presidente o presidenta.
+c) El Director del Instituto.
+d) Un número de vocales representantes de la Administración de la Generalidad, de las asociaciones municipalistas, de los colegios profesionales relacionados con el mundo de la energía, de las universidades catalanas, de la industria, y en particular de la productora y distribuidora de energía, y de otras instituciones u organismos relacionados con las funciones del Instituto, escogidos entre personas de reconocido prestigio en el ámbito de la energía. El número de vocales será como máximo de veinte miembros.
+3. Los vocales del Consejo Asesor son nombrados y separados por el consejero o consejera competente en materia de energía, una vez escuchados las entidades, los organismos o las administraciones a que pertenezcan. El cargo de miembro del Consejo Asesor no es remunerado.
+4. El Consejo Asesor se reunirá como mínimo una vez al año.
+5. Corresponderán al Consejo Asesor las siguientes funciones:
+a) Asesorar e informar al Consejo de Administración en todas las cuestiones relacionadas con las finalidades del Instituto.
+b) Proponer acuerdos y disposiciones convenientes para el mejor funcionamiento del Instituto.
+c) Informar sobre cualquier asunto que, en el ámbito de las competencias del Instituto, le solicite el Gobierno o el Consejero de Industria y Energía.
+d) Informar sobre los programas de actuación, inversión o financiación.
+e) Las demás que le puedan ser conferidas de conformidad con la legislación vigente y demás disposiciones posteriores.
+6. El Consejo Asesor podrá constituir en su seno comisiones de trabajo de composición variable según las necesidades de asesoramiento de cada momento.
+Se modifican los apartados 2 y 3 por los arts. 116 y 117 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2012-548.
+ Se modifica el apartado 2 por el art. 20.2 de la Ley 17/2007, de 21 de diciembre. Ref. BOE-A-2008-3656.
+
+### Artículo 9
+
+Artículo 9.
+El Consejo Asesor y el Consejo de Administración se regirán, en cuanto a su régimen de acuerdos y funcionamiento, por la normativa general sobre órganos colegiados de la Administración de aplicación en Cataluña.
+
+## CAPÍTULO III
+
+Régimen jurídico
+
+### Artículo 10
+
+Artículo 10.
+La actividad desplegada por el Instituto Catalán de Energía debe someterse, en sus relaciones externas, al derecho privado. En las relaciones internas con la Administración a la que se halla adscrito, se aplicará el derecho administrativo. Anualmente se remitirá al Parlamento de Cataluña un informe detallado de las actividades y programas de actuación del Instituto.
+
+### Artículo 11
+
+Artículo 11.
+1. El patrimonio del Instituto Catalán de Energía estará constituido por los bienes que le sean adscritos, bien directamente, bien mediante la adscripción de las unidades, los organismos y los entes que se incorporen al mismo, que conservarán la calificación jurídica originaria. La adscripción no implica la transmisión del dominio ni la desafectación de los bienes.
+2. Asimismo estará constituido por los bienes y los derechos, materiales e inmateriales, que produzca o adquiera, que pasarán a formar parte del patrimonio propio.
+
+### Artículo 12
+
+Artículo 12.
+La adquisición de los bienes inmuebles y la ejecución de obras deben someterse a procedimientos basados en los principios de publicidad y de libre concurrencia.
+
+### Artículo 13
+
+Artículo 13.
+El personal propio del Instituto Catalán de Energía estará sujeto a la legislación laboral.
+
+## CAPÍTULO IV
+
+Régimen económico-financiero
+
+### Artículo 14
+
+Artículo 14.
+El Instituto Catalán de Energía elaborará anualmente el programa de actuación, de inversiones y de financiación y la memoria correspondiente, el presupuesto de explotación y de capital y el balance ajustado.
+
+### Artículo 15
+
+Artículo 15.
+El Instituto Catalán de Energía contará con los siguientes recursos:
+a) El rendimiento de los bienes que le sean adscritos o de los que tenga el derecho de uso y de los bienes y valores que adquiera en ejercicio de sus funciones, así como el rendimiento de las operaciones financieras que pueda realizar.
+b) Las dotaciones que se consignen en los Presupuestos de la Generalidad.
+c) Los ingresos que obtenga por la prestación de sus servicios y por los estudios y trabajos que realice en ejercicio de sus funciones.
+d) Los ingresos y los beneficios de todo tipo derivados de la partición en las sociedades a que se refiere el apartado segundo del artículo 4.
+e) Los ingresos derivados y las plusvalías procedentes de la venta de las acciones en las sociedades anónimas en que participe.
+f) Las subvenciones, las aportaciones y las donaciones que concedan a su favor los organismos y las entidades, públicos y privados, y los particulares.
+g) Los créditos y préstamos que le sean concedidos.
+h) Los ingresos procedentes de sanciones impuestas por los órganos competentes del Departamento de Trabajo, Industria, Comercio y Turismo en materia de control, regularidad y calidad del suministro de energía eléctrica en Cataluña.
+i) Cualquier otra aportación que le sea atribuida.
+Se modifica la letra h) y se añade la letra i) por el art. 61 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2003-1056.
+
+### Disposición adicional única
+
+Disposición adicional. Registro de certificados de eficiencia energética de los edificios.
+1. De acuerdo con la disposición transitoria tercera del Real Decreto 235/2013, de 5 de abril, por el que se aprueba el procedimiento básico para la certificación de eficiencia energética de los edificios, se crea el Registro de certificados de eficiencia energética de los edificios en el ámbito territorial de Cataluña, con el fin de dar cumplimiento a las exigencias que establece la Directiva 2010/31/UE del Parlamento Europeo y del Consejo, de 19 de mayo de 2010, relativa a la eficiencia energética de los edificios.
+2. El órgano competente para la gestión del Registro de certificados de eficiencia energética de los edificios es el Instituto Catalán de Energía.
+3. El Gobierno, a propuesta del consejero o consejera del departamento al que esté adscrito el Instituto Catalán de Energía, debe regular antes del 1 de febrero de 2015 el Registro de certificados de eficiencia energética de los edificios.
+Se añade por el art. 149.4 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Disposición final primera
+
+Disposición final primera.
+Queda derogado el artículo 3.1.ª de la Ley 5/1985, de 16 de abril, de creación del CIDEM, en lo que se refiere al ahorro del uso de la energía.
+
+### Disposición final segunda
+
+Disposición final segunda.
+El CIDEM procederá, previos los trámites pertinentes, a transferir sus participaciones accionariales en empresas relacionadas con el ahorro del uso de la energía al ICAEN.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Se autoriza al Gobierno para que efectúe las transferencias de crédito necesarias con cargo a la sección 13, «Departamento de Industria y Energía», de los Presupuestos de la Generalidad de Cataluña para 1991, a fin de atender al gasto derivado de la dotación inicial del Instituto.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+Se autoriza al Gobierno para que dicte las disposiciones necesarias para el desarrollo de la presente Ley.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 3 de mayo de 1991.
+ANTONI SUBIRA I CLAUS,
+ JORDI PUJOL,
+ Consejero de Industria y Energía
+ Presidente de la Generalidad de Cataluña
+(Publicada en el «Diario Oficial de la Generalidad de Cataluña» número 1440, de 8 de mayo de 1991.)

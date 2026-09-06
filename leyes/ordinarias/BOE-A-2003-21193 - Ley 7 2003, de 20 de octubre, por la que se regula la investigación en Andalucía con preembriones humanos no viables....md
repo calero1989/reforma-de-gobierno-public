@@ -1,0 +1,97 @@
+# Ley 7/2003, de 20 de octubre, por la que se regula la investigación en Andalucía con preembriones humanos no viables para la fecundación in vitro.
+
+- Identificador BOE: `BOE-A-2003-21193`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-21193
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Se deja sin efecto la suspensión de la vigencia y aplicación de esta Ley, por Auto del TC de 7 de junio de 2004. Ref. BOE-A-2004-12132., suspensión que se produjo por providencia del TC de 15 de enero de 2014. Ref. BOE-A-2004-1436.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+A todos los que la presente vieren, sabed:
+Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley por la que se regula la investigación en Andalucía con preembriones humanos no viables para la fecundación in vitro.
+EXPOSICIÓN DE MOTIVOS
+El artículo 149.1 de la Constitución, en su apartado 15, dispone que el Estado tiene competencia exclusiva sobre el fomento y coordinación general de la investigación científica y técnica. Por su parte, el apartado 16 del mencionado artículo 149.1 establece, igualmente, que el Estado tiene competencia exclusiva sobre la sanidad exterior, bases y coordinación general de la sanidad y legislación sobre productos farmacéuticos.
+El artículo 13, apartado 21, del Estatuto de Autonomía para Andalucía establece que la Comunidad Autónoma de Andalucía tiene competencia exclusiva en materia de sanidad e higiene, sin perjuicio de lo que establece el artículo 149.1.16 de la Constitución. Por su parte, el apartado 29 del citado artículo 13 dispone que la Comunidad Autónoma de Andalucía tiene competencia exclusiva en investigación y sus instituciones, sin perjuicio de lo establecido en el número 15 del apartado 1 del artículo 149 de la Constitución.
+La Ley 2/1998, de 15 de junio, de Salud de Andalucía, regula en el Título VIII la docencia e investigación sanitaria, señalando que las Administraciones Públicas de Andalucía deberán fomentar, dentro del Sistema Sanitario Público de Andalucía, las actividades de investigación sanitaria como elemento fundamental para su progreso.
+Entre los numerosos progresos científicos y tecnológicos de los últimos años en biomedicina y ciencias de la vida, destacan los realizados a partir de la investigación sobre las denominadas células madre humanas. La investigación en esta área ha generado gran esperanza en el tratamiento de enfermedades graves y crónicas para las que las terapias actuales son poco efectivas o inexistentes.
+Las células madre o troncales se definen por tener la capacidad de multiplicarse indefinidamente y diferenciarse para originar los distintos tipos de células especializadas que forman los diferentes tejidos y órganos.Las células madre pueden proceder de órganos y tejidos adultos, fetales o de la sangre del cordón umbilical, denominándose células madre adultas. Asimismo pueden también proceder de la masa interna del embrión preimplantatorio en estado de blastocisto, que se alcanza del 5.º a 14.º día tras la fecundación del óvulo, denominándose, en este caso, células madre embrionarias.
+El potencial terapéutico de las células madre es enorme y son muchos los científicos que opinan que en un plazo previsiblemente corto podrían aplicarse a enfermedades que implican degeneración de células como Diabetes, Parkinson, Alzheimer, Corea de Huntington y lesiones de la médula espinal. A más largo plazo, podrían ser tratadas enfermedades que afectan a órganos enteros. A través de la incorporación de genes, mediante técnicas de ingeniería genética, estas células podrían también utilizarse en terapia génica.
+El descubrimiento de las posibilidades terapéuticas de las células troncales es muy reciente y está aún en sus primeras fases de desarrollo; de los primeros resultados obtenidos se desprende la necesidad de que las investigaciones no queden limitadas a las células troncales adultas, sino que es fundamental iniciar investigaciones con células madre embrionarias. Una de las razones que justifican la investigación sobre células de origen embrionario es que el conocimiento científico disponible demuestra que las células madre embrionarias tienen una ventaja sobre las adultas, su pluripotencialidad, o mayor capacidad de proliferación y diferenciación, por lo que, a diferencia de estas, son capaces de desarrollarse y generar todos los tipos de células especializadas. La mayoría de científicos afirma que el conocimiento que se derivará de estas investigaciones, por un lado, va a permitir su utilización como herramienta terapéutica para regeneración de células dañadas por procesos patológicos y, por otro, proporcionará una información sobre el control de la multiplicación y diferenciación celular, lo cual es fundamental para poder reprogramar el desarrollo y la diferenciación de las células troncales adultas.
+Una fuente de células madre embrionarias humanas son los preembriones de menos de 14 días, sobrantes de las técnicas de reproducción asistida y que llevan congelados más de cinco años. La Ley 35/1998, de 22 de noviembre, de reproducción asistida, permite la posibilidad de crioconservación de los preembriones sobrantes de las técnicas de fertilización in vitro (FIV), por no transferidos a útero. La citada Ley establece la conservación de estos preembriones durante un plazo máximo de cinco años, sin disponer el destino de los no utilizados en este plazo.
+La Comisión Nacional de Reproducción Asistida, en su primer informe anual de diciembre de 1998, propuso una serie de actuaciones para mejorar la aplicación de esta Ley, entre las mismas se encontraban medidas alternativas a la destrucción de los preembriones crioconservados desde hace más de cinco años, entre las que se encontraban la donación de los preembriones sobrantes de la FIV para la investigación.
+La existencia innegable de estos preembriones, producto, pues, de varias causas (limitación máxima del número de preembriones que pueden implantarse en una mujer para garantizar la gestación de al menos uno de ellos, obligación de crioconservación para todos aquellos preembriones generados y no implantados), no puede tener como única salida la congelación eterna ni su eventual destrucción.
+En este panorama, la investigación sobre células madre de origen embrionario, con sus enormes posibilidades terapéuticas, ha despertado un debate, en la comunidad científica primero y en la sociedad en general, centrado sobre la licitud de utilizar los preembriones humanos congelados, resultantes y excedentes de procesos de fertilización in vitro con fines, primero, de investigación y, finalmente, terapéuticos.
+Algunos países, como el Reino Unido, Suecia, Australia y Bélgica, ya han regulado las investigaciones con células troncales de embriones humanos sobrantes de las técnicas de fertilización in vitro.
+Conscientes de que la disponibilidad depende mayoritariamente de la disposición de los progenitores de realizar donaciones, y que esta siempre se realizará a través de un consentimiento informado, del cual debe formar parte y como requisito previo una descripción pormenorizada de los objetivos que se persiguen con la investigación y sus implicaciones, se hace necesario regular el procedimiento para obtener este consentimiento informado, así como la forma de la cesión por parte de los bancos de preembriones de los centros de reproducción asistida.
+Sólo se autorizarán aquellas investigaciones que sirvan fundamentalmente para aumentar el conocimiento sobre desarrollo embrionario, sobre enfermedades graves o para proporcionar cualquier conocimiento que puede ser aplicado en el desarrollo de tratamiento de enfermedades graves.
+Como órgano de autorización y de garantía de que estas investigaciones cumplen las previsiones establecidas en esta Ley, se crea el Comité de Investigación con Preembriones Humanos.
+Por todo lo anterior, y para impulsar con urgencia este tipo de investigaciones y dar seguridad jurídica a los grupos andaluces que aspiran a investigar en estas líneas celulares, esta Ley regula la utilización de los preembriones congelados excedentes de los protocolos de reproducción asistida para la investigación con fines terapéuticos.
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Constituye el objeto de la presente norma regular la investigación, con fines de mejorar la salud y la calidad de vida de las personas, utilizando los preembriones sobrantes de las técnicas de fecundación in vitro, que, a los efectos previstos en el artículo 15.3.a de la Ley 35/1988, de 22 de noviembre, por la que se regula las técnicas de Reproducción Asistida Humana, se considerarán no viables por haber transcurrido más de cinco años desde su crioconservación.
+
+### Artículo 2
+
+Artículo 2. Autorización del proyecto de investigación.
+1. La investigación con preembriones sobrantes de las técnicas de fecundación in vitro, en los términos establecidos en el artículo anterior, se realizará en base a un proyecto de investigación y este deberá ser de interés científico relevante, así como carecer de carácter lucrativo.
+2. El proyecto de investigación versará sobre preembriones no desarrollados in vitro más allá de catorce días después de la fecundación del óvulo, descontando el tiempo en que pudieron haber estado crioconservados.
+3. El proyecto de investigación deberá contar con la preceptiva autorización del órgano competente en materia de investigación en salud.
+4. La autorización será exclusiva para cada proyecto y se determinará, como mínimo, el número de preembriones a utilizar, investigador principal y plazo para el desarrollo del proyecto.
+5. La autorización del proyecto de investigación requerirá, además, el informe previo y favorable del Comité Andaluz de Ética de Investigación con muestras biológicas de naturaleza embrionaria y otras células semejantes.
+Se modifican los apartados 3 y 5 por el art. 1.1 y 2 de la Ley 4/2014, de 9 de diciembre. Ref. BOE-A-2015-183.
+
+### Artículo 3
+
+Artículo 3. Donación y consentimiento informado de los progenitores.
+1. Para la utilización de los preembriones sobrantes de las técnicas de fecundación in vitro, será necesario la donación de los mismos por parte de los progenitores.
+2. Los progenitores, con anterioridad a la realización de la donación, deberán ser informados pormenorizadamente de los objetivos que se persiguen con la investigación y de sus implicaciones.
+3. Una vez recibida la información prevista en el apartado anterior, los progenitores deberán prestar consentimiento escrito, que será revocable y modificable.
+
+### Artículo 4
+
+Artículo 4. Centros de reproducción asistida.
+1. Los preembriones que se vayan a utilizar en los proyectos de investigación procederán de los bancos de preembriones existentes en los centros de reproducción asistida.
+2. Los preembriones que hayan sido donados por los progenitores, en los términos establecidos en el artículo anterior, serán puestos a disposición del Comité de Investigación con Preembriones Humanos por los centros de reproducción asistida, una vez transcurrido el plazo de cinco años de crioconservación.
+3. Los centros de reproducción asistida comunicarán periódicamente, al Comité de Investigación con Preembriones Humanos o a requerimiento del mismo, el número de preembriones congelados que han superado el plazo de congelación, así como la información existente sobre su futura utilización.
+
+### Artículo 5
+
+Artículo 5. Centros de investigación.
+Para el desarrollo de las investigaciones previstas en esta norma, el centro de investigación deberá ser autorizado para este fin por la autoridad sanitaria competente y en su caso se someterá a los procedimientos de acreditación que se establezcan.
+
+### Artículo 6
+
+Artículo 6. Comité de Investigación con Preembriones Humanos.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.f) del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
+ Se modifica por el art. 1.3 de la Ley 4/2014, de 9 de diciembre. Ref. BOE-A-2015-183.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los progenitores de preembriones sobrantes ya existentes a la entrada en vigor de la presente Ley deberán ser consultados a fin de que manifiesten su voluntad sobre la posibilidad de donación para la investigación.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Cuando los dos miembros de la pareja progenitora hayan fallecido o no sean localizables, su cesión a la investigación se realizará, una vez finalizado el plazo legal de crioconservación, por los responsables de los centros de reproducción asistida donde estén crioconservados y previo informe de la autoridad sanitaria competente, que constatará el fallecimiento o el cumplimiento del requisito de intento de localización de los progenitores, haciendo referencia expresa sobre tales extremos.
+
+### Disposición final primera
+
+Disposición final primera.
+Se habilita al Consejo de Gobierno de la Junta de Andalucía para que, en un plazo no superior a seis meses desde la entrada en vigor de la presente Ley, dicte cuantas disposiciones sean necesarias para el desarrollo de la misma. Entre ellas, el Decreto por el que se ha de regular la organización, composición y funcionamiento del Comité de Investigación con Preembriones Humanos, creado en el artículo 6 de esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de la Junta de Andalucía».
+
+Sevilla, 20 de octubre de 2003.
+MANUEL CHAVES GONZÁLEZ,
+Presidente

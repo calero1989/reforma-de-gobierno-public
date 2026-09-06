@@ -1,0 +1,812 @@
+# Ley Orgánica 3/1983, de 25 de febrero, de Estatuto de Autonomía de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1983-6317`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1983-6317
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+
+## TITULO PRELIMINAR
+
+### Artículo primero
+
+Artículo 1.
+1. Madrid, en expresión del interés nacional y de sus peculiares características sociales, económicas, históricas y administrativas, en el ejercicio del derecho a la autonomía que la Constitución Española reconoce y garantiza, es una Comunidad Autónoma que organiza su autogobierno de conformidad con la Constitución Española y con el presente Estatuto, que es su norma institucional básica.
+2. La Comunidad Autónoma de Madrid se denomina Comunidad de Madrid.
+3. La Comunidad de Madrid, al facilitar la más plena participación de los ciudadanos en la vida política, económica, cultural y social, aspira a hacer realidad los principios de libertad, justicia e igualdad para todos los madrileños, de conformidad con el principio de solidaridad entre todas las nacionalidades y regiones de España.
+Se modifica por el art. 1.1 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo segundo
+
+Artículo 2.
+El territorio de la Comunidad de Madrid es el comprendido dentro de los límites de la provincia de Madrid.
+Se modifica por el art. 1.2 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo tercero
+
+Artículo 3.
+1. La Comunidad de Madrid se organiza territorialmente en municipios, que gozan de plena personalidad jurídica y autonomía para la gestión de los intereses que le son propios.
+2. Los municipios podrán agruparse con carácter voluntario para la gestión de servicios comunes o para la coordinación de actuaciones de carácter funcional o territorial, de acuerdo con la legislación que dicte la Comunidad, en el marco de la legislación básica del Estado.
+3. Por Ley de la Asamblea de Madrid se podrán establecer, mediante la agrupación de municipios limítrofes, circunscripciones territoriales propias que gozarán de plena personalidad jurídica.
+
+### Artículo cuarto
+
+Artículo 4.
+1. La bandera de la Comunidad de Madrid es roja carmesí, con siete estrellas en blanco, de cinco puntas, colocadas cuatro y tres en el centro del lienzo.
+2. El escudo de la Comunidad de Madrid se establece por ley de la Asamblea.
+3. La Comunidad de Madrid tiene himno propio, siendo éste establecido por ley de la Asamblea.
+4. Se declara fiesta de la Comunidad de Madrid el día 2 de mayo.
+Se modifica por el art. 1.3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo quinto
+
+Artículo 5.
+La capital de la Comunidad, sede de sus instituciones, es la villa de Madrid, pudiendo sus organismos, servicios y dependencias localizarse en otros municipios del territorio de la Comunidad, de acuerdo con criterios de descentralización, desconcentración y coordinación de funciones.
+Se modifica por el art. 1.4 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo sexto
+
+Artículo 6.
+La villa de Madrid por su condición de capital del Estado y sede de las Instituciones generales, tendrá un régimen especial, regulado por Ley votada en Cortes. Dicha Ley determinará las relaciones entre las Instituciones estatales, autonómicas y municipales, en el ejercicio de sus respectivas competencias.
+
+### Artículo séptimo
+
+Artículo 7.
+1. Los derechos y deberes fundamentales de los ciudadanos de la Comunidad de Madrid son los establecidos en la Constitución.
+2. A los efectos del presente Estatuto, gozan de la condición política de ciudadanos de la Comunidad los españoles que, de acuerdo con las leyes generales del Estado, tengan vecindad administrativa en cualquiera de sus municipios.
+3. Como madrileños, gozan de los derechos políticos definidos en este Estatuto, los ciudadanos españoles residentes en el extranjero que hayan tenido su última vecindad administrativa en la Comunidad de Madrid y acrediten esta condición en el correspondiente Consulado de España. Gozarán también de estos derechos sus descendientes inscritos como españoles, si así lo solicitan, en la forma que determine la ley del Estado.
+4. Corresponde a los poderes públicos de la Comunidad de Madrid, en el ámbito de su competencia, promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integran sean reales y efectivas, remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.
+Se modifica por el art. 1.5 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+## TÍTULO I
+
+TITULO I
+De la Organización Institucional de la Comunidad de Madrid
+Se modifica por el art. 4.b) de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo octavo
+
+Artículo 8.
+Los poderes de la Comunidad de Madrid se ejercen a través de sus instituciones de autogobierno: la Asamblea, el Gobierno y el Presidente de la Comunidad.
+Se modifica por el art. 1.6 de la Ley Orgánica 5/1998, 7 de julio. Ref. BOE-A-1998-16302
+
+## TITULO I
+
+De las Instituciones y Gobierno de la Comunidad
+
+## CAPITULO I
+
+De la Asamblea de Madrid
+Se modifica por el art. 5 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo noveno
+
+Artículo 9.
+La Asamblea representa al pueblo de Madrid, ejerce la potestad legislativa de la Comunidad, aprueba y controla el Presupuesto de la Comunidad, impulsa, orienta y controla la acción del Gobierno y ejerce las demás competencias que le atribuyen la Constitución, el presente Estatuto y el resto del ordenamiento jurídico.
+Se modifica por el art. 1.7 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo diez
+
+Artículo 10.
+1. La Asamblea es elegida por cuatro años mediante sufragio universal, libre, igual, directo y secreto, atendiendo a criterios de representación proporcional.
+2. La Asamblea estará compuesta por un Diputado por cada 50.000 habitantes o fracción superior a 25.000, de acuerdo con los datos actualizados del censo de población. El mandato de los Diputados termina cuatro años después de su elección o el día de la disolución de la Cámara en los supuestos previstos en este Estatuto.
+3. Los Diputados no estarán ligados por mandato imperativo alguno.
+4. Una ley de la Asamblea regulará las elecciones, que serán convocadas por el Presidente de la Comunidad, de conformidad con lo dispuesto en este Estatuto.
+5. La circunscripción electoral es la provincia.
+6. Para la distribución de escaños sólo serán tenidas en cuenta las listas que hubieran obtenido, al menos, el 5 por 100 de los sufragios válidamente emitidos.
+7. Las elecciones tendrán lugar el cuarto domingo de mayo de cada cuatro años, en los términos previstos en la Ley Orgánica que regule el Régimen Electoral General. La sesión constitutiva de la Asamblea tendrá lugar dentro de los veinticinco días siguientes a la proclamación de los resultados electorales.
+8. Serán electores y elegibles todos los madrileños mayores de dieciocho años de edad que estén en pleno goce de sus derechos políticos. La Comunidad Autónoma facilitará el ejercicio del derecho al voto a los madrileños que se encuentren fuera de la Comunidad de Madrid.
+Se modifica por el art. 1.8 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo once
+
+Artículo 11.
+1. Los Diputados de la Asamblea recibirán de cualesquiera autoridades y funcionarios la ayuda que precisen para el ejercicio de su labor y el trato y precedencia debidos a su condición, en los términos que establezca una ley de la Asamblea.
+2. La adquisición de la condición plena de Diputado requerirá, en todo caso, la prestación de la promesa o juramento de acatamiento de la Constitución y del presente Estatuto de Autonomía.
+3. Los diputados percibirán una asignación, que será fijada por la Asamblea.
+4. La Asamblea determinará por ley las causas de inelegibilidad e incompatibilidad de los Diputados.
+5. Los Diputados gozarán, aun después de haber cesado en su mandato, de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.
+6. Durante su mandato los miembros de la Asamblea no podrán ser detenidos ni retenidos por actos delictivos cometidos en el territorio de la Comunidad, sino en caso de flagrante delito, correspondiendo decidir, en todo caso, sobre su inculpación, prisión, procesamiento y juicio al Tribunal Superior de Justicia de Madrid. Fuera de dicho territorio, la responsabilidad penal será exigible en los mismos términos ante la Sala de lo Penal del Tribunal Supremo.
+Se modifica por el art. 1.9 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Se modifica el apartado 5 por el art. único de la Ley Orgánica 2/1991, de 13 de marzo. Ref. BOE-A-1991-6818
+
+### Artículo doce
+
+Artículo 12.
+1. La Asamblea se dotará de su propio Reglamento, cuya aprobación y reforma serán sometidas a una votación final sobre su totalidad, que requerirá el voto afirmativo de la mayoría absoluta de los Diputados.
+2. El Reglamento determinará, de acuerdo con lo establecido en el presente Estatuto, las reglas de organización y funcionamiento de la Asamblea, especificando, en todo caso, los siguientes extremos:
+a) Las relaciones entre la Asamblea y el Gobierno.
+b) El número mínimo de Diputados necesario para la formación de los Grupos Parlamentarios.
+c) La composición y funciones de la Mesa, las Comisiones y la Diputación Permanente, de manera que los Grupos Parlamentarios participen en estos órganos en proporción al número de sus miembros.
+d) Las funciones de la Junta de Portavoces.
+e) La publicidad de las sesiones y el quórum y mayorías requeridos.
+f) El procedimiento legislativo común y los procedimientos legislativos que, en su caso, se establezcan.
+g) El procedimiento de elección de los Senadores representantes de la Comunidad de Madrid.
+Se modifica por el art. 1.10 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo trece
+
+Artículo 13.
+1. La Asamblea elegirá de entre sus miembros al Presidente, a la Mesa y a la Diputación Permanente.
+2. Los Diputados de la Asamblea se constituirán en Grupos Parlamentarios, cuyos portavoces integrarán la Junta de Portavoces, que se reunirá bajo la presidencia del Presidente de la Asamblea.
+3. La Asamblea funcionará en Pleno y por Comisiones.
+Se modifica por el art. 1.11 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo catorce
+
+Artículo 14.
+1. La Asamblea se reunirá en sesiones ordinarias y extraordinarias. Los períodos ordinarios de sesiones serán dos al año: el primero de septiembre a diciembre y el segundo de febrero a junio.
+2. Entre los períodos ordinarios de sesiones y en los supuestos de expiración del mandato o de disolución de la Asamblea funcionará la Diputación Permanente, a la que corresponde velar por los poderes de la Cámara y cuantas otras atribuciones le confiera el Reglamento. Tras la celebración de elecciones, la Diputación Permanente dará cuenta al Pleno de la Asamblea, una vez constituida ésta, de los asuntos tratados y de las decisiones adoptadas.
+3. Las sesiones extraordinarias habrán de ser convocadas por el Presidente de la Asamblea a petición del Gobierno, de la Diputación Permanente, de una cuarta parte de los Diputados o del número de Grupos Parlamentarios que el Reglamento determine. Las sesiones extraordinarias deberán convocarse sobre un orden del día determinado.
+4. Para deliberar y adoptar acuerdos la Asamblea habrá de estar reunida reglamentariamente y con asistencia de la mayoría de sus miembros. Los acuerdos deberán ser aprobados por la mayoría de los miembros presentes, salvo en aquellos supuestos para los que el Estatuto, el Reglamento o las leyes exijan mayorías especiales.
+Se modifica por el art. 1.12 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo quince
+
+Artículo 15.
+1. La Asamblea ejerce la potestad legislativa en las materias de competencia exclusiva de la Comunidad de Madrid recogidas en el artículo 26 del presente Estatuto.
+Igualmente ejerce la potestad legislativa en las materias previstas en el artículo 27 de este Estatuto, así como en aquellas que se le atribuyan, transfieran o deleguen en virtud de lo dispuesto en los apartados 1 y 2 del artículo 150 de la Constitución.
+2. La iniciativa legislativa corresponde a los Diputados, a los Grupos Parlamentarios y al Gobierno, en los términos que se establezcan en el Reglamento de la Asamblea. Por ley de la Asamblea se podrá regular el ejercicio de la iniciativa legislativa popular y de los Ayuntamientos, para las materias a las que se refiere el apartado 1.
+3. La Asamblea solamente podrá delegar la potestad de dictar normas con rango de ley en el Gobierno de acuerdo con lo establecido para el supuesto de delegación de las Cortes Generales en el Gobierno de la Nación, en los artículos 82, 83 y 84 de la Constitución.
+Se modifica por el art. 1.13 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo dieciséis
+
+Artículo 16.
+1. La Asamblea elige, de entre sus miembros, al Presidente de la Comunidad de Madrid y controla la acción del Gobierno y de su Presidente.
+2. El Reglamento establecerá las iniciativas parlamentarias que permitan a la Asamblea ejercer el control ordinario del Gobierno y obtener del mismo y de la Administración de la Comunidad la información precisa para el ejercicio de sus funciones. El Reglamento regulará, asimismo, el procedimiento a seguir para la aprobación por la Asamblea, en el ejercicio de sus funciones de impulso, orientación y control de la acción de gobierno, de resoluciones o mociones de carácter no legislativo.
+3. Corresponde, igualmente, a la Asamblea:
+a) La aprobación y el control de los Presupuestos de la Comunidad y el examen y aprobación de sus cuentas.
+b) El conocimiento y control de los planes económicos.
+c) Acordar operaciones de crédito y deuda pública.
+d) La ordenación básica de los órganos y servicios de la Comunidad.
+e) El control de los medios de comunicación social dependientes de la Comunidad.
+f) La potestad de establecer y exigir tributos.
+g) La interposición del recurso de inconstitucionalidad y la personación ante el Tribunal Constitucional, en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional.
+h) La solicitud al Gobierno de la Nación de la adopción de proyectos de ley y la remisión a la Mesa del Congreso de los Diputados de proposiciones de ley, delegando ante dicha Cámara a los miembros de la Asamblea encargados de su defensa.
+i) La designación de los Senadores que han de representar a la Comunidad, según lo previsto en el artículo 69.5 de la Constitución. Los Senadores serán designados en proporción al número de miembros de los grupos políticos representados en la Asamblea. Su mandato en el Senado estará vinculado a su condición de miembros de la Asamblea.
+j) La ratificación de los convenios que la Comunidad de Madrid concluya con otras Comunidades Autónomas, para la gestión y prestación de servicios propios de la competencia de las mismas.
+Estos convenios serán comunicados de inmediato a las Cortes Generales.
+k) La ratificación de los acuerdos de cooperación que, sobre materias distintas a las mencionadas en el apartado anterior, concluya la Comunidad de Madrid con otras Comunidades Autónomas, previa autorización de las Cortes Generales.
+l) La recepción de la información que facilitará el Gobierno de la Nación sobre tratados y convenios internacionales y proyectos de normativa aduanera en cuanto se refirieran a materias de específico interés para la Comunidad de Madrid.
+m) La fijación de las previsiones de índole política, social y económica que, de acuerdo con el artículo 131.2 de la Constitución, haya de suministrar la Comunidad de Madrid al Gobierno de la Nación para la elaboración de proyecto de planificación.
+n) La aprobación de planes generales de fomento relativos al desarrollo económico de la Comunidad de Madrid, en el marco de los objetivos señalados por la política económica nacional.
+ñ) Cuantos otros poderes, competencias y atribuciones le asignen la Constitución, el presente Estatuto y las leyes.
+Se modifica por el art. 1.14 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+## CAPITULO II
+
+Del Presidente
+Se modifica por el art. 5 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo diecisiete
+
+Artículo 17.
+1. El Presidente de la Comunidad de Madrid ostenta la suprema representación de la Comunidad Autónoma y la ordinaria del Estado en la misma, preside y dirige la actividad del Gobierno, designa y separa a los Vicepresidentes y Consejeros y coordina la Administración.
+2. El Presidente podrá delegar funciones ejecutivas y de representación propias en los Vicepresidentes y demás miembros del Gobierno.
+3. El Presidente es políticamente responsable ante la Asamblea.
+Se modifica por el art. 1.15 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo dieciocho
+
+Artículo 18.
+1. Después de cada renovación de la Asamblea, y en los demás supuestos en que se produzca vacante en la Presidencia de la Comunidad el Presidente de la Asamblea, previa consulta con los representantes designados por los grupos políticos con representación en la Asamblea, propondrá a ésta uno de sus miembros como candidato a la Presidencia de la Comunidad.
+2. El candidato propuesto, conforme a lo previsto en el apartado anterior, expondrá ante la Asamblea el programa político del Gobierno que pretenda formar, y solicitará la confianza de la Asamblea.
+3. Si la Asamblea otorgase por mayoría absoluta su confianza a dicho candidato, el Rey procederá a nombrarle Presidente de la Comunidad de Madrid. De no alcanzarse dicha mayoría, se someterá la misma propuesta a nueva votación cuarenta y ocho horas después y la confianza se entenderá otorgada si obtuviese mayoría simple.
+4. Si efectuadas las citadas votaciones no se otorgase la confianza para la investidura, se tramitarán sucesivas propuestas en la forma prevista en los apartados anteriores.
+5. Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza de la Asamblea ésta quedará disuelta, convocándose de inmediato nuevas elecciones
+6. El mandato de la nueva Asamblea durará, en todo caso, hasta la fecha en que debiera concluir el Primero.
+Se modifica el apartado 3 por el art. 1.16 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo diecinueve
+
+Artículo 19.
+1. El Presidente de la Comunidad de Madrid, previa deliberación del Gobierno, puede plantear ante la Asamblea la cuestión de confianza sobre su programa o una declaración de política general. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.
+2. Si la Asamblea negara su confianza el Presidente de la Comunidad de Madrid presentará su dimisión ante la Asamblea, cuyo Presidente convocará en el plazo máximo de quince días la sesión plenaria para la elección de nuevo Presidente de la Comunidad de Madrid, de acuerdo con el procedimiento del artículo 18.
+Se modifica el apartado 1 por el art. 1.17 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo veinte
+
+Artículo 20.
+1. La Asamblea puede exigir la responsabilidad política del Presidente o del Gobierno mediante la adopción por mayoría absoluta de la moción de censura. Ésta habrá de ser propuesta, al menos, por un 15 por 100 de los Diputados y habrá de incluir un candidato a la Presidencia de la Comunidad de Madrid.
+2. La moción de censura no podrá ser votada hasta que concurran cinco días desde su presentación. Si la moción de censura no fuese aprobada por la Asamblea, sus signatarios no podrán presentar otra durante el mismo período de sesiones.
+3. Si la Asamblea adoptara una moción de censura, el Presidente junto con su Gobierno cesará, y el candidato incluido en aquella se entenderá investido de la confianza de la Cámara. El Rey le nombrará Presidente de la Comunidad de Madrid.
+Se modifica por el art. 1.18 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+## CAPITULO III
+
+Del Consejo de Gobierno
+
+### Artículo veintiuno
+
+Artículo 21.
+1. El Presidente de la Comunidad de Madrid, previa deliberación del Gobierno y bajo su exclusiva responsabilidad, podrá acordar la disolución de la Asamblea con anticipación al término natural de la legislatura. La disolución se formalizará por Decreto, en el que se convocarán a su vez elecciones, conteniéndose en el mismo los requisitos que exija la legislación electoral aplicable.
+2. El Presidente no podrá acordar la disolución de la Asamblea durante el primer período de sesiones de la legislatura, cuando reste menos de un año para la terminación de la legislatura, cuando se encuentre en tramitación una moción de censura o cuando esté convocado un proceso electoral estatal. No procederá nueva disolución de la Asamblea antes de que transcurra un año desde la anterior.
+3. En todo caso, la nueva Cámara que resulte de la convocatoria electoral tendrá un mandato limitado por el término natural de la legislatura originaria.
+Se modifica por el art. 1.19 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+## CAPÍTULO III
+
+CAPITULO III
+Del Gobierno
+Se modifica por el art. 5 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo veintidós
+
+Artículo 22.
+1. El Gobierno de la Comunidad de Madrid es el órgano colegiado que dirige la política de la Comunidad de Madrid, correspondiéndole las funciones ejecutivas y administrativas, así como el ejercicio de la potestad reglamentaria en materias no reservadas en este Estatuto a la Asamblea.
+2. El Gobierno estará compuesto por el Presidente, el o los Vicepresidentes, en su caso, y los Consejeros. Los miembros del Gobierno serán nombrados y cesados por el Presidente.
+Para ser Vicepresidente o Consejero no será necesaria la condición de Diputado.
+Se modifica por el art. 1.20 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 21.
+
+### Artículo veintitrés
+
+Artículo 23.
+1. Los miembros del Gobierno no podrán ejercer otras actividades laborales, profesionales o empresariales que las derivadas del ejercicio de su cargo. El régimen jurídico y administrativo del Gobierno y el Estatuto de sus miembros será regulado por ley de la Asamblea.
+2. El Gobierno responde políticamente ante la Asamblea de forma solidaria, sin perjuicio de la responsabilidad directa de cada Consejero por su gestión.
+Se modifica por el art. 1.21 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 22.
+
+### Artículo veinticuatro
+
+Artículo 24.
+1. El Gobierno cesa tras la celebración de elecciones a la Asamblea, en los casos de pérdida de confianza parlamentaria previstos en este Estatuto y en caso de dimisión, incapacidad o fallecimiento del Presidente.
+2. El Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno.
+Se modifica por el art. 1.22 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 23.
+
+## TITULO II
+
+De las competencias de la Comunidad
+
+### Artículo veinticinco
+
+Artículo 25.
+1. La responsabilidad penal del Presidente de Gobierno, Vicepresidentes y de los Consejeros será exigible ante la Sala de lo Penal del Tribunal Supremo. No obstante, la de los Vicepresidentes y Consejeros para los delitos cometidos en el ámbito territorial de su jurisdicción será exigible ante el Tribunal Superior de Justicia de Madrid.
+2. Ante las Salas correspondientes de los mismos Tribunales, respectivamente, será exigible la responsabilidad civil en que dichas personas hubieran incurrido con ocasión del ejercicio de sus cargos.
+Se modifica por el art. 1.23 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 24.
+
+## TÍTULO II
+
+TITULO II
+De las competencias de la Comunidad
+
+### Artículo veintiséis
+
+Artículo 26.
+1. La Comunidad de Madrid, en los términos establecidos en el presente Estatuto, tiene competencia exclusiva en las siguientes materias:
+1.1 Organización, régimen y funcionamiento de sus instituciones de autogobierno.
+1.2 Creación o supresión de municipios, alteración de los términos municipales comprendidos en su territorio y creación de circunscripciones territoriales propias, en los términos previstos en el artículo 3 del presente Estatuto.
+1.3 Procedimiento administrativo derivado de las especialidades de la organización propia.
+1.4 Ordenación del territorio, urbanismo y vivienda.
+1.5 Obras públicas de interés de la Comunidad, dentro de su propio territorio.
+1.6 Ferrocarriles, carreteras y caminos cuyo itinerario discurra íntegramente en el territorio de la Comunidad de Madrid y, en los mismos términos, el transporte terrestre y por cable. Centros de contratación y terminales de carga en materia de transportes terrestres en el ámbito de la Comunidad.
+1.7 Instalaciones de navegación y deporte en aguas continentales, aeropuertos y helipuertos deportivos, así como los que no desarrollen actividades comerciales.
+1.8 Proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales y regadíos de interés de la Comunidad. Aguas nacientes, superficiales, subterráneas, minerales y termales, cuando discurran íntegramente por el ámbito territorial de la Comunidad de Madrid. Ordenación y concesión de recursos y aprovechamientos hidráulicos, canales y regadíos cuando las aguas discurran íntegramente por el ámbito territorial de la Comunidad de Madrid.
+1.9 Pesca fluvial y lacustre, acuicultura y caza.
+1.10 Tratamiento singular de las zonas de montaña.
+1.11 Instalación de producción, distribución y transporte de cualesquiera energías, cuando el transporte no salga de su territorio y su aprovechamiento no afecte a otra Comunidad. Todo ello sin perjuicio de lo establecido en los números 22ª y 25ª del apartado 1 del artículo 149 de la Constitución.
+1.12 Publicidad, sin perjuicio de las normas dictadas por el Estado para sectores y medios específicos, de acuerdo con las materias 1ª ,6ª y 8ª del apartado 1 del artículo 149 de la Constitución.
+1.13 Ferias y mercados interiores, incluidas las exposiciones. Establecimiento de bolsas de valores y establecimiento y regulación de centros de contratación de mercancías, conforme a la legislación mercantil.
+1.14 Cooperativas y entidades asimilables, mutualidades no integradas en la Seguridad Social, conforme a la legislación mercantil.
+1.15 Artesanía.
+1.16 Denominaciones de origen, en colaboración con el Estado.
+1.17 Fomento del desarrollo económico de la Comunidad de Madrid, dentro de los objetivos marcados por la política económica nacional.
+1.18 Archivos, bibliotecas, museos, hemerotecas, conservatorios de música y danza, centros dramáticos y de bellas artes, y demás centros de depósito cultural o colecciones de análoga naturaleza, de interés para la Comunidad de Madrid, que no sean de titularidad estatal.
+1.19 Patrimonio histórico, artístico, monumental, arqueológico, arquitectónico y científico de interés para la Comunidad, sin perjuicio de la competencia del Estado para la defensa de los mismos contra la exportación y la expoliación.
+1.20 Fomento de la cultura y la investigación científica y técnica.
+1.21 Promoción y ordenación del turismo en su ámbito territorial.
+1.22 Deporte y ocio.
+1.23 Promoción y ayuda a la tercera edad, emigrantes, minusválidos y demás grupos sociales necesitados de especial atención, incluida la creación de centros de protección, reinserción y rehabilitación.
+1.24 Protección y tutela de menores y desarrollo de políticas de promoción integral de la juventud.
+1.25 Promoción de la igualdad respecto a la mujer que garantice su participación libre y eficaz en el desarrollo político, social, económico y cultural.
+1.26 Fundaciones que desarrollen principalmente sus funciones en la Comunidad de Madrid.
+1.27 Vigilancia y protección de sus edificios e instalaciones.
+1.28 Coordinación y demás facultades en relación con las policías locales, en los términos que establezca la Ley Orgánica.
+1.29 Casinos, juegos y apuestas con exclusión de las apuestas mutuas deportivo-benéficas.
+1.30 Espectáculos públicos.
+1.31 Estadística para fines no estatales.
+1.32 Servicio meteorológico de la Comunidad de Madrid.
+2. En el ejercicio de estas competencias corresponderá a la Comunidad de Madrid la potestad legislativa, la reglamentaria y la función ejecutiva que se ejercerán respetando, en todo caso, lo dispuesto en la Constitución Española.
+3.1 De acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, corresponde a la Comunidad de Madrid, en los términos de lo dispuesto en los artículos 38, 131 y en las materias 11ª y 13ª del apartado 1 del artículo 149 de la Constitución, la competencia exclusiva en las siguientes materias:
+3.1.1 Ordenación y planificación de la actividad económica regional.
+3.1.2 Comercio interior, sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio del Estado y de la legislación sobre defensa de la competencia.
+3.1.3 Industria, sin perjuicio de lo que determinen las normas del Estado por razones de seguridad, sanitarias o de interés militar y las normas relacionadas con las industrias que estén sujetas a la legislación de minas, hidrocarburos y energía nuclear.
+3.1.4 Agricultura, ganadería e industrias agroalimentarias.
+3.1.5 Instituciones de crédito corporativo público y territorial. Cajas de Ahorro.
+3.1.6 Sector público económico de Madrid, en cuanto no esté contemplado por otros preceptos de este Estatuto.
+3.2 La Comunidad de Madrid participará, asimismo, en la gestión del sector público económico estatal, en los casos y actividades que procedan.
+Se modifica por el art. 1.24 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Se modifica por el art. único.1 de la Ley Orgánica 10/1994, de 24 de marzo. Ref. BOE-A-1994-6949
+
+### Artículo veintisiete
+
+Artículo 27.
+En el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca, corresponde a la Comunidad de Madrid el desarrollo legislativo, la potestad reglamentaria y la ejecución de las siguientes materias:
+1. Régimen local.
+2. Régimen jurídico y sistema de responsabilidad de la Administración pública de la Comunidad de Madrid y los entes públicos dependientes de ella, así como el régimen estatutario de sus funcionarios. Contratos y concesiones administrativas, en el ámbito de competencias de la Comunidad de Madrid.
+3. Régimen de los montes y aprovechamientos forestales, con especial referencia a los montes vecinales en mano común, montes comunales, vías pecuarias y pastos.
+4. Sanidad e higiene.
+5. Coordinación hospitalaria en general, incluida la de la Seguridad Social.
+6. Corporaciones de derecho público representativas de intereses económicos y profesionales.
+Ejercicio de las profesiones tituladas.
+7. Protección del medio ambiente, sin perjuicio de la facultad de la Comunidad de Madrid de establecer normas adicionales de protección. Contaminación biótica y abiótica. Vertidos en el ámbito territorial de la Comunidad.
+8. Régimen minero y energético.
+9. Protección de los ecosistemas en los que se desarrollen la pesca, acuicultura y caza. Espacios naturales protegidos.
+10. Defensa del consumidor y del usuario, de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, las bases y coordinación general de la sanidad, en los términos de lo dispuesto en los artículos 38, 131 y en los números 11ª, 13ª y 16ª del apartado 1 del artículo 149 de la Constitución.
+11. Prensa, radio, televisión y otros medios de comunicación social. La Comunidad de Madrid podrá regular, crear y mantener su propia televisión, radio, prensa y, en general, todos los medios de comunicación social para el cumplimiento de sus fines.
+12. Ordenación farmacéutica y establecimientos farmacéuticos, sin perjuicio de lo dispuesto en la materia 16ª del apartado 1 del artículo 149 de la Constitución.
+13. Bienes de dominio público y patrimoniales cuya titularidad corresponda a la Comunidad, así como las servidumbres públicas en materia de sus competencias.
+Se modifica por el art. 1.25 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Se modifica por el art. único.2 de la Ley Orgánica 10/1994, de 24 de marzo. Ref. BOE-A-1994-6949
+ Redactado el apartado 11 conforme a la corrección de erratas publicada en BOE núm. 90, de 15 de abril de 1994. Ref. BOE-A-1994-8496
+
+### Artículo veintiocho
+
+Artículo 28.
+1. Corresponde a la Comunidad de Madrid la ejecución de la legislación del Estado en las siguientes materias:
+1.1 Gestión de la asistencia sanitaria de la Seguridad Social, de acuerdo con lo previsto en la materia 17. a del apartado 1 del artículo 149 de la Constitución, reservándose el Estado la alta inspección conducente al cumplimiento de la función a que se refiere este precepto.
+1.2 Gestión de las prestaciones y servicios sociales del sistema de Seguridad Social: Inserso. La determinación de las prestaciones del sistema, los requisitos para establecer la condición de beneficiario y la financiación se efectuarán de acuerdo con las normas establecidas por el Estado en el ejercicio de sus competencias, de conformidad con lo dispuesto en la materia 17. a del apartado 1 del artículo 149 de la Constitución.
+1.3 Crédito, banca y seguros, de acuerdo con las previsiones de las reglas 6ª , 11ª y 13ª del apartado 1 del artículo 149 de la Constitución.
+1.4 Asociaciones.
+1.5 Ferias internacionales que se celebren en la Comunidad de Madrid.
+1.6 Museos, archivos, bibliotecas y otras colecciones de naturaleza análoga de titularidad estatal cuya gestión directa no se reserve al Estado. Los términos de la gestión serán fijados mediante convenios.
+1.7 Aeropuertos y helipuertos con calificación de interés general cuya gestión directa no se reserve al Estado.
+1.8 Pesas y medidas. Contraste de metales.
+1.9 Reestructuración e implantación de sectores industriales, conforme a los planes establecidos por la Administración General del Estado.
+1.10 Productos farmacéuticos.
+1.11 Propiedad intelectual e industrial.
+1.12 Laboral. De conformidad con la materia 7. a del apartado 1 del artículo 149 de la Constitución, corresponde al Estado la competencia sobre legislación laboral y la alta inspección. Quedan reservadas al Estado todas las competencias en materia de migraciones interiores y exteriores, fondos de ámbito nacional y de empleo, sin perjuicio de lo que establezcan las normas del Estado en la materia.
+1.13 Transporte de mercancías y viajeros que tengan su origen y destino en el territorio de la Comunidad de Madrid, sin perjuicio de la ejecución directa que se reserva el Estado.
+2. En el ejercicio de estas competencias corresponderá a la Comunidad de Madrid la administración, ejecución y, en su caso, inspección, así como la facultad de dictar reglamentos internos de organización de los servicios correspondientes, de conformidad con las normas reglamentarias de carácter general que, en desarrollo de su legislación, dicte el Estado.
+Se modifica por el art. 1.26 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Se modifica por el art. único.3 de la Ley Orgánica 10/1994, de 24 de marzo. Ref. BOE-A-1994-6949
+
+### Artículo veintinueve
+
+Artículo 29.
+1. Corresponde a la Comunidad Autónoma la competencia de desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo 27 de la Constitución y leyes orgánicas que conforme al apartado 1 del artículo 81 de la misma lo desarrollen, y sin perjuicio de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 y de la Alta Inspección para su cumplimiento y garantía.
+2. Para garantizar una prestación homogénea y eficaz del servicio público de la educación que permita corregir las desigualdades o desequilibrios que puedan producirse, la Comunidad Autónoma facilitará a la Administración del Estado la información que ésta le solicite sobre el funcionamiento del sistema educativo en sus aspectos cualitativos y cuantitativos y colaborará con la Administración del Estado en las actuaciones de seguimiento y evaluación del sistema educativo nacional.
+Se modifica por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 30.
+
+### Artículo treinta
+
+Artículo 30.
+1. La Comunidad de Madrid podrá asumir competencias sobre materias no previstas en el presente Estatuto mediante la reforma del mismo o por decisión de las Cortes Generales, adoptada a través de los procedimientos previstos en la Constitución.
+2. La Comunidad de Madrid, mediante acuerdo de la Asamblea, podrá solicitar a las Cortes Generales la aprobación de leyes marco o leyes de transferencia o delegación, que atribuyan, transfieran o deleguen facultades a las Comunidades Autónomas y, específicamente, a la de Madrid.
+Se renumera por el art. 1.27 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 29.
+ Se modifica por el art. único.4 de la Ley Orgánica 10/1994, de 24 de marzo. Ref. BOE-A-1994-6949
+
+### Artículo treinta y uno
+
+Artículo 31.
+1. La Comunidad de Madrid podrá celebrar convenios de cooperación con otras Comunidades Autónomas, en especial con las limítrofes para la gestión y prestación de servicios propios de la competencia de las mismas. La celebración de los citados convenios antes de su entrada en vigor, deberá ser comunicada a las Cortes Generales. Si las Cortes Generales o alguna de las Cámaras manifestaran reparos en el plazo de treinta días, a partir de la recepción de la comunicación, el Convenio deberá seguir el trámite previsto en el apartado siguiente. Si transcurrido dicho plazo no se hubiese manifestado reparos al Convenio, entrará en vigor.
+2. La Comunidad de Madrid podrá establecer acuerdos de cooperación con otras Comunidades Autónomas, previa autorización de las Cortes Generales.
+3. La Comunidad Autónoma de Madrid por su tradicional vinculación, mantendrá relaciones de especial colaboración con las Comunidades castellanas, para lo cual podrá promover la aprobación de los correspondientes acuerdos y convenios.
+Se modifica por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 32.
+ Se deroga por la disposición derogatoria única de la Ley Orgánica 10/1994, de 24 de marzo. Ref. BOE-A-1994-6949
+
+### Artículo treinta y dos
+
+Artículo 32.
+1. La Comunidad de Madrid podrá solicitar del Gobierno de la Nación la celebración de tratados o convenios internacionales en materias de interés para Madrid.
+2. La Comunidad de Madrid será informada de la elaboración de los tratados y convenios internacionales y en las negociaciones de adhesión a los mismos, así como en los proyectos de legislación aduanera, en cuanto afecten a materias de su específico interés. Recibida la información, el Gobierno de la Comunidad emitirá, en su caso, su parecer.
+3. La Comunidad de Madrid adoptará las medidas necesarias para la ejecución, dentro de su territorio, de los tratados y convenios internacionales y de los actos normativos de las organizaciones internacionales, en lo que afecten a las materias propias de competencia de la Comunidad de Madrid.
+Se renumera por el art. 1.28 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 33.
+
+### Artículo treinta y tres
+
+Artículo 33.
+El Derecho propio de la Comunidad de Madrid, constituido por las leyes y normas reguladoras de las materias de competencia plena de la Comunidad Autónoma, es aplicable con preferencia a cualquier otro en el territorio de Madrid. En todo caso, el Derecho estatal tiene carácter supletorio del Derecho propio de Madrid.
+Se modifica por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 34.
+
+## TITULO III
+
+Del régimen jurídico
+
+## CAPÍTULO I
+
+CAPITULO I
+Disposiciones generales
+
+### Artículo treinta y cuatro
+
+Artículo 34.
+1. Las competencias de la Comunidad de Madrid se entienden referidas a su territorio.
+2. En las materias de su competencia, le corresponde a la Asamblea de Madrid la potestad legislativa en los términos previstos en el Estatuto, correspondiéndole al Consejo de Gobierno la potestad reglamentaria y la función ejecutiva.
+3. Las competencias de ejecución de la Comunidad de Madrid llevan implícito la correspondiente potestad reglamentaria para la organización interna de los servicios, la administración y, en su caso, la inspección.
+Se renumera por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 35.
+
+## TITULO III
+
+Del régimen jurídico
+
+## CAPITULO I
+
+Disposiciones generales
+
+### Artículo treinta y cinco
+
+Artículo 35.
+La Administración de la Comunidad de Madrid, como ente de derecho público, tiene personalidad jurídica y plena capacidad de obrar. Su responsabilidad, y la de sus autoridades y funcionarios, procederá y se exigirá en los mismos términos y casos que establezca la legislación del Estado en la materia.
+Se renumera por el art. 1.29 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 36.
+
+### Artículo treinta y seis
+
+Artículo 36.
+1. En el ejercicio de sus competencias ejecutivas, la Comunidad de Madrid gozará de las potestades y privilegios propios de la Administración del Estado, entre las que se comprenden:
+a) La presunción de legitimidad y la ejecutoriedad de sus actos, así como los poderes de ejecución forzosa y revisión en vía administrativa.
+b) La potestad de expropiación, incluida la declaración de urgente ocupación de los bienes afectados, así como el ejercicio de las restantes competencias de la legislación expropiatoria atribuida a la Administración del Estado, cuando se trate de materias de competencia de la Comunidad de Madrid.
+c) La potestad de sanción dentro de los límites que establezca el ordenamiento jurídico.
+d) La facultad de utilización del procedimiento de apremio.
+e) La inembargabilidad de sus bienes y derechos, así como los privilegios de prelación, preferencia y demás reconocidos a la Hacienda pública para el cobro de sus créditos, sin perjuicio de los que corresponda en esta materia a la Hacienda del Estado, y en igualdad de derechos con las demás Comunidades Autónomas.
+f) Las potestades de investigación, deslinde y recuperación en materia de bienes.
+g) La exención de la obligación de prestar toda clase de garantías o cauciones ante los organismos administrativos y ante los jueces o tribunales de cualquier jurisdicción.
+2. No se admitirán interdictos contra las actuaciones de la Comunidad de Madrid en materia de su competencia y de acuerdo con el Procedimiento legalmente establecido.
+Se modifica por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 37.
+
+## CAPÍTULO II
+
+CAPITULO II
+De la Administración
+
+### Artículo treinta y siete
+
+Artículo 37.
+1. Corresponde a la Comunidad de Madrid la creación y estructuración de su propia Administración pública, dentro de los principios generales y normas básicas del Estado.
+2. El régimen jurídico de la Administración pública regional y de sus funcionarios será regulado mediante Ley de la Asamblea, de conformidad con la legislación básica del Estado.
+Se renumera por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 38.
+
+## CAPITULO II
+
+De la Administración
+
+### Artículo treinta y ocho
+
+Artículo 38.
+La Administración de la Comunidad de Madrid desarrollará su actuación a través de los órganos, organismos y entidades dependientes del Gobierno que se establezcan pudiendo delegar dichas funciones en los municipios y demás entidades locales reconocidas en este Estatuto si así lo autoriza una ley de la Asamblea, que fijará las oportunas formas de control y coordinación.
+Se renumera por el art. 1.30 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 39.
+
+### Artículo treinta y nueve
+
+Artículo 39.
+En los términos previstos en este Estatuto y de acuerdo con la legislación básica del Estado, la Comunidad de Madrid, mediante Ley, podrá crear otras Entidades de carácter institucional para fines específicos.
+Se modifica por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 40.
+
+### Artículo cuarenta
+
+Artículo 40.
+1. Las leyes aprobadas por la Asamblea serán promulgadas en nombre del Rey por el Presidente de la Comunidad, que ordenará su publicación en el "Boletín Oficial de la Comunidad de Madrid" y en el "Boletín Oficial del Estado", entrando en vigor al día siguiente de su publicación en aquél, salvo que en las mismas se disponga otra cosa.
+2. Los reglamentos aprobados por el Gobierno serán publicados, por orden del Presidente del Gobierno, en el "Boletín Oficial de la Comunidad de Madrid" y, en su caso, en el "Boletín Oficial del Estado".
+Se modifica por el art. 1.31 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 41.
+
+### Artículo cuarenta y uno
+
+Artículo 41.
+El Gobierno podrá interponer recursos de inconstitucionalidad, suscitar conflictos de competencia y personarse ante el Tribunal Constitucional en los supuestos o términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional.
+Se modifica por el art. 1.32 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 42.
+
+## CAPÍTULO III
+
+CAPITULO III
+Del Control de la Comunidad de Madrid
+
+### Artículo cuarenta y dos
+
+Artículo 42.
+Las leyes de la Asamblea estarán sujetas únicamente al control de constitucionalidad por el Tribunal Constitucional.
+Se modifica por el art. 1.33 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 43.
+
+## CAPITULO III
+
+Del Control de la Comunidad de Madrid
+
+### Artículo cuarenta y tres
+
+Artículo 43.
+Los actos o reglamentos emanados de los órganos ejecutivos o administrativos de la Comunidad de Madrid, así como el control de la Legalidad de la actuación administrativa y el sometimiento de esta a los fines que la justifican, serán, en todo caso controlados por la jurisdicción contencioso-administrativa.
+Se modifica por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 44.
+
+### Artículo cuarenta y cuatro
+
+Artículo 44.
+El control económico y presupuestario de la Comunidad de Madrid se ejercerá por la Cámara de Cuentas, sin perjuicio del que corresponda al Tribunal de Cuentas, de acuerdo con lo establecido en los artículos 136 y 153.d) de la Constitución.
+Por ley de la Asamblea se regularán la composición y funciones de la Cámara de Cuentas.
+Se renumera por el art. 1.34 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 45.
+
+## TÍTULO IV
+
+TITULO IV
+De la organización judicial
+
+### Artículo cuarenta y cinco
+
+Artículo 45.
+En el ámbito territorial de la Comunidad de Madrid, el Tribunal Superior de Justicia es el órgano jurisdiccional ante el que se agotarán las sucesivas instancias procesales, en los términos del artículo 152 de la Constitución y de acuerdo con el presente Estatuto y las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial. Todo ello sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, de acuerdo con lo establecido en el artículo 123.1, de la Constitución.
+Se modifica por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 46.
+
+## TITULO IV
+
+De la organización judicial
+
+### Artículo cuarenta y seis
+
+Artículo 46.
+Los órganos jurisdiccionales que ejercen su jurisdicción en el ámbito territorial de la Comunidad de Madrid extenderán su competencia:
+a) En los ámbitos civil, penal y social, a todas las instancias y grados, con excepción de los recursos de casación y revisión.
+b) En el orden contencioso-administrativo, a los recursos contra actos o disposiciones de las Administraciones públicas y contra las resoluciones judiciales que no estén atribuidas a las Salas de lo contencioso-administrativo del Tribunal Supremo o de la Audiencia Nacional.
+En todo caso, conocerán, en los términos de la Ley Orgánica del Poder Judicial, de los recursos que se deduzcan contra actos y disposiciones administrativos de los órganos de la Comunidad de Madrid.
+c) A las cuestiones de competencia que se susciten entre los mismos.
+En las restantes materias se podrá interponer, cuando proceda, y según lo establecido en la Ley Orgánica del Poder Judicial, ante el Tribunal Supremo, el recurso de casación o el que corresponda según las leyes del Estado y, en su caso, el de revisión. El Tribunal Supremo resolverá también los conflictos de competencia y jurisdicción entre los Tribunales con sede en la Comunidad de Madrid y los del resto de España.
+Se renumera por el art. 1.35 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 47.
+
+### Artículo cuarenta y siete
+
+Artículo 47.
+1. El Presidente del Tribunal Superior de Justicia de Madrid será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en los términos previstos en la Ley Orgánica del Poder Judicial. El Presidente de la Comunidad ordenará la publicación de dicho nombramiento en el "Boletín Oficial de la Comunidad de Madrid".
+2. El nombramiento de los Magistrados, Jueces y Secretarios del Tribunal Superior de Justicia se efectuará en la forma prevista en la Ley Orgánica del Poder Judicial.
+3. Corresponde al Estado, de conformidad con las leyes generales, la organización y funcionamiento del Ministerio Fiscal.
+Se modifica por el art. 1.36 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 48.
+
+### Artículo cuarenta y ocho
+
+Artículo 48.
+A instancias del Consejo de Gobierno de la Comunidad de Madrid, el órgano competente convocará los concursos y oposiciones para cubrir plazas vacantes en Madrid de Magistrados, Jueces, Secretarios judiciales y restante personal al servicio de la Administración de Justicia, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial.
+Se modifica por el art. 3 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 49.
+
+### Artículo cuarenta y nueve
+
+Artículo 49.
+En relación con la Administración de Justicia, exceptuando la militar, corresponde:
+1. Al Gobierno de la Comunidad, ejercer todas las facultades que la Ley Orgánica del Poder Judicial reconozca o atribuya al Gobierno de la Nación.
+2. A la Asamblea, fijar los límites de las demarcaciones territoriales de los órganos jurisdiccionales de la Comunidad de Madrid y la capitalidad de las mismas, de conformidad con la Ley Orgánica del Poder Judicial.
+3. A ambas instituciones, coadyuvar en la organización e instalación de los Tribunales y Juzgados, con sujeción, en todo caso, a lo dispuesto en la Ley Orgánica del Poder Judicial.
+Se renumera por el art. 1.37 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Su anterior numeración era art. 50.
+
+### Artículo cincuenta
+
+Artículo 50.
+1. La Comunidad de Madrid participará en la fijación de las demarcaciones correspondientes en las Notarías, Registros de la Propiedad y Mercantiles radicados en su territorio.
+2. Los Notarios y Registradores de la Propiedad y Mercantiles y otros fedatarios públicos serán nombrados por la Comunidad de Madrid de conformidad con las leyes del Estado y en igualdad de derechos, tanto si los aspirantes ejercen dentro como fuera de Madrid.
+Se modifica por el art. 1.38 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+## TITULO V
+
+Economía y Hacienda
+
+### Artículo cincuenta y uno
+
+Artículo 51.
+La Comunidad de Madrid, dentro de los principios de coordinación con las Haciendas estatal y local, goza de autonomía financiera, es titular de bienes de dominio público y de patrimonio y hacienda propios, de acuerdo con la Constitución, el presente Estatuto, la Ley Orgánica de Financiación de las Comunidades Autónomas y demás normas que la desarrollan.
+
+### Artículo cincuenta y dos
+
+Artículo 52.
+1. El patrimonio de la Comunidad de Madrid está integrado por todos los bienes, derechos y acciones de los que sea titular, estén o no adscritos a algún uso o servicio público y cualquiera que sea su naturaleza y el título de adquisición.
+2. Una ley de la Asamblea regulará el régimen jurídico del patrimonio de la Comunidad de Madrid, así como su administración, conservación y defensa.
+Se modifica por el art. 1.39 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo cincuenta y tres
+
+Artículo 53.
+La Hacienda de la Comunidad de Madrid se constituye con:
+1. Los rendimientos de sus propios impuestos, tasas, contribuciones especiales y precios públicos.
+2. Los recargos que establezca la Comunidad de Madrid sobre impuestos estatales, en los términos que establezca la Ley reguladora de los mismos.
+3. Las asignaciones complementarias que se establezcan, en su caso, en los Presupuestos Generales del Estado con destino a la Comunidad de Madrid.
+4. Las participaciones en los impuestos estatales no cedidos.
+5. Los rendimientos de los Impuestos cedidos por el Estado.
+6. Las transferencias del Fondo de Compensación Interterritorial y de otros fondos destinados a favorecer el desarrollo regional.
+7. Los rendimientos derivados del patrimonio de la Comunidad de Madrid y los ingresos de Derecho privado, herencias, legados y donaciones.
+8. Los ingresos derivados de la imposición de multas y sanciones en el ámbito de sus competencias.
+9. El producto de las operaciones de crédito y la emisión de deuda pública.
+10. Cuantos otros recursos se le atribuyan de acuerdo con las Leyes del Estado.
+Se modifican los apartados 1 y 9 por el art. 1.40 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo cincuenta y cuatro
+
+Artículo 54.
+1. La participación anual de la Comunidad de Madrid en los ingresos del Estado, a que se refiere el número 4 del artículo 53, se negociará atendiendo a los criterios que fije la legislación de desarrollo del artículo 157 de la Constitución y cualesquiera otros que permitan garantizar, con suficiencia y solidaridad, el ejercicio de las competencias de la Comunidad de Madrid.
+El porcentaje de participación podrá ser objeto de revisión en los siguientes supuestos:
+a) Cuando se amplíen o reduzcan las competencias asumidas por la Comunidad de Madrid entre las que anteriormente correspondiesen al Estado.
+b) Cuando se produzca la cesión de nuevos tributos.
+c) Cuando se lleven a cabo reformas sustanciales en el sistema tributario del Estado.
+d) Cuando, transcurridos cinco años desde su entrada en vigor, sea solicitada su revisión por el Estado o la Comunidad de Madrid.
+2. El porcentaje de participación se establecerá por ley.
+Se modifica por el art. 1.41 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo cincuenta y cinco
+
+Artículo 55.
+1. La Comunidad de Madrid, mediante acuerdo de la Asamblea, podrá concertar operaciones de crédito y deuda pública, en los ámbitos nacional y extranjero, para financiar operaciones de inversión.
+2. El volumen y las características de las operaciones de crédito y emisión de deuda pública se establecerán de acuerdo con la ordenación de la política crediticia establecida por el Estado.
+3. Los títulos de deuda que se emitan tendrán consideración de fondos públicos a todos los efectos.
+4. El Gobierno podrá realizar operaciones de crédito por plazo inferior a un año, con objeto de cubrir sus necesidades transitorias de tesorería. La Ley de Presupuestos de la Comunidad regulará anualmente las condiciones básicas de estas operaciones.
+5. Lo dispuesto en los apartados anteriores se realizará de acuerdo con lo establecido en la Ley Orgánica de Financiación de las Comunidades Autónomas.
+Se modifica el apartado 4 por el art. 1.42 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo cincuenta y seis
+
+Artículo 56.
+1. La gestión, recaudación, liquidación e inspección de sus propios tributos, así como el conocimiento de las reclamaciones relativas a los mismos, corresponderán a la Comunidad de Madrid, que dispondrá de plenas atribuciones para la ejecución y organización de dichas tareas, sin perjuicio de la colaboración que pueda establecerse con la Administración tributaria del Estado, especialmente cuando así lo exija la naturaleza del tributo.
+2. En el caso de los impuestos cuyos rendimientos hubiesen sido cedidos, el Consejo de Gobierno asumirá, por delegación del Estado, la gestión, recaudación, liquidación, inspección y revisión, en su caso, de los mismos, sin perjuicio de la colaboración que pueda establecerse entre ambas administraciones, todo ello de acuerdo con lo especificado en la Ley que fije el alcance y condiciones de la cesión.
+3. La gestión, recaudación, liquidación, inspección y revisión, en su caso, de los demás impuestos del Estado recaudados en el ámbito de la Comunidad Autónoma corresponderá a la Administración tributaria del Estado, sin perjuicio de la delegación que la Comunidad Autónoma pueda recibir de éste y de la colaboración que pueda establecerse, especialmente cuando así lo exija la naturaleza del tributo.
+
+### Artículo cincuenta y siete
+
+Artículo 57.
+La Comunidad de Madrid colaborará con el Estado y los Ayuntamientos en todos los aspectos relativos al régimen fiscal y financiero.
+
+### Artículo cincuenta y ocho
+
+Artículo 58.
+La Comunidad de Madrid gozará del mismo tratamiento fiscal que la Ley establezca para el Estado.
+
+### Artículo cincuenta y nueve
+
+Artículo 59.
+Se regularán necesariamente mediante Ley de la Asamblea de Madrid, las siguientes materias:
+a) El establecimiento, la modificación y supresión de sus propios impuestos, tasas y contribuciones especiales, y de las exenciones y bonificaciones que les afecten.
+b) El establecimiento, modificación y supresión de los recargos sobre los Impuestos del Estado, de acuerdo con lo establecido en el artículo 12 de la Ley Orgánica de Financiación de las Comunidades Autónomas.
+c) El régimen general presupuestario de la Comunidad de Madrid, de acuerdo con los principios de la legislación del Estado.
+
+### Artículo sesenta
+
+Artículo 60.
+Corresponde al Gobierno de la Comunidad de Madrid:
+a) Aprobar los Reglamentos generales de sus propios tributos.
+b) Elaborar las normas reglamentarias precisas para gestionar los impuestos estatales cedidos, de acuerdo con los términos de dicha cesión.
+Se modifica por el art. 1.43 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo sesenta y uno
+
+Artículo 61.
+1. Corresponde al Gobierno la elaboración y ejecución del presupuesto de la Comunidad de Madrid, y a la Asamblea, su examen, enmienda, aprobación y control. El Gobierno presentará el proyecto de presupuesto a la Asamblea con una antelación mínima de dos meses a la fecha del inicio del correspondiente ejercicio.
+2. El presupuesto será único, tendrá carácter anual e incluirá la totalidad de los ingresos y gastos de la Comunidad y de los organismos, instituciones y empresas de ella dependientes. Se consignará en el Presupuesto el importe de los beneficios fiscales que afecten a los Tributos de la Comunidad.
+Se modifica el apartado 1 por el art. 1.44 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo sesenta y dos
+
+Artículo 62.
+En las empresas o entidades financieras de carácter público cuyo ámbito de actuación se extienda fundamentalmente a la provincia de Madrid, el Gobierno de la Comunidad, de acuerdo con lo que establezcan las leyes del Estado, designará las personas que han de representarle en los órganos de administración de aquellas.
+Se modifica por el art. 1.45 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Artículo sesenta y tres
+
+Artículo 63.
+1. La Comunidad de Madrid podrá ser titular de empresas públicas y entidades de crédito y ahorro como medio de ejecución de las funciones que sean de su competencia, de conformidad con el artículo 27 del presente Estatuto.
+2. La Comunidad elaborará un programa anual de actuación del sector público económico, cuyas líneas generales estarán coordinadas con la actividad presupuestaria anual.
+
+## TITULO VI
+
+Reforma del Estatuto
+
+### Artículo sesenta y cuatro
+
+Artículo 64.
+1. La reforma del Estatuto se ajustará al siguiente procedimiento:
+La iniciativa de la reforma corresponderá al Gobierno o a la Asamblea de Madrid, a propuesta de una tercera parte de sus miembros, o de dos tercios de los municipios de la Comunidad cuya población represente la mayoría absoluta de la Comunidad de Madrid.
+La propuesta de reforma requerirá, en todo caso, la aprobación de la Asamblea por mayoría de dos tercios y la aprobación de las Cortes Generales mediante ley orgánica.
+2. Si la propuesta de reforma no es aprobada por la Asamblea o por las Cortes Generales, no podrá ser sometida nuevamente a debate y votación de la Asamblea hasta que haya transcurrido un año.
+Se modifica el apartado 1 por el art. 1.46 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Se cede a la Comunidad de Madrid el rendimiento de los siguientes tributos:
+a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial, en el porcentaje del 50 por ciento.
+b) Impuesto sobre el Patrimonio.
+c) Impuesto sobre Sucesiones y Donaciones.
+d) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+e) Los Tributos sobre el Juego.
+f) El Impuesto sobre el Valor Añadido, con carácter parcial, en el porcentaje del 50 por ciento.
+g) El Impuesto Especial sobre la Cerveza, con carácter parcial, en el porcentaje del 58 por ciento.
+h) El Impuesto Especial sobre el Vino y Bebidas Fermentadas, con carácter parcial, en el porcentaje del 58 por ciento.
+i) El Impuesto Especial sobre Productos Intermedios, con carácter parcial, en el porcentaje del 58 por ciento.
+j) El Impuesto Especial sobre el Alcohol y Bebidas Derivadas, con carácter parcial, en el porcentaje del 58 por ciento.
+k) El Impuesto Especial sobre Hidrocarburos, con carácter parcial, en el porcentaje del 58 por ciento.
+l) El Impuesto Especial sobre las Labores del Tabaco, con carácter parcial, en el porcentaje del 58 por ciento.
+m) El Impuesto Especial sobre la Electricidad.
+n) El Impuesto Especial sobre Determinados Medios de Transporte.
+ñ) El Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
+La eventual supresión o modificación por el Estado de alguno de los tributos antes señalados implicará la extinción o modificación de la cesión.
+2. El contenido de esta disposición se podrá modificar mediante acuerdo del Gobierno con la Comunidad de Madrid, que será tramitado por el Gobierno como proyecto de Ley. A estos efectos, la modificación de la presente disposición no se considerará modificación del Estatuto.
+3. El alcance y condiciones de la cesión se establecerán por la Comisión Mixta mencionada en la Disposición transitoria segunda que, en todo caso los referirá a rendimientos en el ámbito de la Comunidad de Madrid. El Gobierno tramitará el acuerdo de la Comisión como provecto de Ley.
+Se modifica el apartado 1, con efectos desde el 1 de enero de 2009, por el art. 1 de la Ley 29/2010, de 16 de julio. Ref. BOE-A-2010-11423
+ Se modifica el apartado 1, con efectos desde el 1 de enero de 2002, por el art. 1 de la Ley 30/2002, de 1 de julio. Ref. BOE-A-2002-13009
+ Se modifica el apartado 1 por el art. 1.47 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+ Se modifica el apartado 1, con efectos desde el 1 de enero de 1997, por el art. 1 de la Ley 33/1997, de 4 de agosto. Ref. BOE-A-1997-17583
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La celebración de elecciones atenderá a lo que dispongan las Cortes Generales, con el fin exclusivo de coordinar el calendario de las diversas consultas electorales.
+Se modifica por el art. 1.48 de la Ley Orgánica 5/1998, de 7 de julio. Ref. BOE-A-1998-16302
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Mientras las Cortes Generales no elaboren la legislación de bases a que este Estatuto se refiere, y la Asamblea no dicte normas sobre las materias de su competencia, continuaran en vigor las actuales Leyes y disposiciones del Estado que se refieren a dichas materias. Todo ello, sin perjuicio de su ejecución por la Comunidad, en los casos así previstos.
+Asimismo, la Comunidad podrá desarrollar legislativamente los principios o bases que se contengan en el derecho estatal vigente en cada momento, en los supuestos previstos en este Estatuto, interpretando dicho derecho conforme a la Constitución.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+El traspaso de los servicios inherentes a las competencias que según el presente Estatuto, corresponden a la Comunidad de Madrid se hará de acuerdo con las bases siguientes:
+1. En el plazo máximo de un mes desde el nombramiento del Presidente por el Rey se nombrará una Comisión Mixta encargada de inventariar los bienes y derechos del Estado que deben ser objeto de traspaso a la Comunidad de concretar los servicios y funcionarios que deban traspasarse y de proceder a la adaptación, si es preciso, de los que pasen a la competencia de la Comunidad.
+2. La Comisión Mixta estará integrada paritariamente por Vocales designados por el Gobierno de la Nación y la Asamblea, y ella misma establecerá sus normas de funcionamiento.
+3. Los acuerdos de la Comisión Mixta adoptarán la forma de propuesta al Gobierno de la Nación, que los aprobará mediante Real Decreto, figurando aquéllos como anexos al mismo. Serán publicados en el «Boletín Oficial de la Comunidad Autónoma» y en el «Boletín Oficial del Estado», adquiriendo vigencia a partir de esta publicación.
+4. La Comisión Mixta establecerá los calendarios y plazos para el traspaso de cada servicio. En todo caso, la referida Comisión deberá determinar en un plazo de dos años desde la fecha de su constitución el término en que habrá de completarse el traspaso de todos los servicios que correspondan a la Comunidad, de acuerdo con este Estatuto.
+5. Para preparar los traspasos y para verificarlos por bloques orgánicos de naturaleza homogénea, la Comisión Mixta de transferencias estará asistida por Comisiones Sectoriales, de ámbito nacional, agrupadas por materias, cuyo cometido fundamental será determinar con la representación de la Administración del Estado los traspasos de medios personales, financieros o materiales que debe recibir la Comunidad de Madrid. Las Comisiones Sectoriales trasladaran sus propuestas de acuerdo con la Comisión Mixta, que las habrá de ratificar.
+5. Será título suficiente para la inscripción en el Registro de la Propiedad del traspaso de bienes inmuebles del Estado a la Comunidad de Madrid, la certificación por la Comisión Mixta de los acuerdos gubernamentales debidamente promulgados. Esta certificación contendrá los requisitos exigidos por la Ley Hipotecaria.
+7. El cambio de titularidad en los contratos de arrendamiento de los locales para oficinas públicas de los servicios que se transfieran no dará derecho al arrendador a extinguir o renovar el contrato.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+1. Serán respetados los derechos adquiridos de cualquier orden o naturaleza que en los momentos de las diversas transferencias tengan los funcionarios y personas adscritos a la Diputación Provincial de Madrid, a los servicios estatales o a los de otras instituciones públicas objeto de dichas transferencias.
+2. Estos funcionarios y personal quedarán sujetos a la legislación general del Estado y a la particular de la Comunidad de Madrid, en el ámbito de su competencia.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+1. La Diputación Provincial de Madrid queda integrada en la Comunidad de Madrid a partir de la entrada en vigor del presente Estatuto y, gestionará los intereses generales de la Comunidad que afectan al ámbito local hasta la constitución de los órganos de autogobierno comunitarios, ajustándose a sus actuales competencias y programas económicos y administrativos y aplicando en el ejercicio de sus funciones, de forma armónica, la legislación local vigente y la estatal, con prevalencia de esta última ordenación.
+2. Una vez constituidos los órganos de autogobierno comunitario, quedarán disueltos de pleno derecho los órganos políticos de la Diputación Provincial de Madrid, la cual cesará en sus funciones. La Comunidad de Madrid asumirá todas las competencias, medios y recursos que según la Ley correspondan a la Diputación Provincial de Madrid, y se subrogará en las relaciones jurídicas que se deriven de las actividades desarrolladas por aquella.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+En lo relativo a televisión, la aplicación del artículo 31 del presente Estatuto supone que el Estado otorgará en régimen de concesión a la Comunidad de Madrid la utilización de un tercer canal, de titularidad estatal, para su emisión en el ámbito territorial de la Comunidad en los términos que prevea la citada concesión.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+1. Hasta que se haya completado el traspaso de los servicios correspondientes a las competencias fijadas en este Estatuto para la Comunidad Autónoma de Madrid, o en cualquier caso hasta que se hayan cumplido seis años desde su entrada en vigor, el Estado garantizará la financiación de los servicios transferidos con una cantidad igual al coste efectivo del servicio en el territorio de la Comunidad Autónoma en el momento de la transferencia.
+2. Para garantizar la financiación de los servicios antes referidos, la Comisión Mixta de Transferencias prevista en la Disposición transitoria segunda adoptará un método encaminado a fijar el porcentaje de participación en ingresos del Estado previsto en el artículo 54 de este Estatuto. El método a seguir tendrá en cuenta tanto los costes directos, como los indirectos de los servicios, así como los gastos de inversión que correspondan.
+3. La Comisión Mixta de Transferencias fijará el citado porcentaje mientras dure el período transitorio con una antelación mínima de un mes a la presentación de los Presupuestos Generales del Estado en las Cortes.
+4. A partir del método fijado en el apartado 2 anterior, se establecerá un porcentaje en el que se considerará el coste efectivo global de los servicios transferidos por el Estado a la Comunidad Autónoma, minorado por el total de la recaudación obtenida por la misma por los tributos cedidos, en relación con la suma de los ingresos obtenidos por el Estado en los capítulos I y II del último presupuesto anterior a la transferencia de los servicios valorados.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Hasta que el Impuesto sobre el Valor Añadido entre en vigor, se cede a la Comunidad Autónoma el Impuesto sobre el Lujo que se recaude en destino.
+
+### Disposición final
+
+Disposición final.
+El presente Estatuto entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+Palacio de la Zarzuela Madrid a 25 de febrero de 1983.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+Felipe González Márquez.

@@ -1,0 +1,885 @@
+# Ley 5/2005, de 26 de mayo, para la conservación de los espacios de relevancia ambiental (LECO).
+
+- Identificador BOE: `BOE-A-2005-11132`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2005-11132
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 27.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+I
+Las Illes Balears cuentan con un medio natural extraordinariamente rico, diverso y singular. En su espacio insular reducido coexisten las montañas con las llanuras, ambas confinadas por una costa variada donde se alternan los acantilados con los sistemas dunares, las albuferas y los salobrales. Todos estos ambientes conservan hábitats notables desde el punto de vista naturalístico y paisajístico. Hablamos tanto de los majestuosos encinares de las laderas de los montes como de las humildes charcas de las marinas o los rediles aislados en medio de las sementeras. Cada uno atesora diferentes especies animales y vegetales –a menudo endémicas de determinados territorios isleños–que contribuyen al mantenimiento de la biodiversidad insular. La presencia del hombre en estos lugares ha generado lo que hoy conocemos como nuestro paisaje, que hace de las Illes Balears un lugar privilegiado con unos valores que debemos conservar. De alguna manera, su estado actual es consecuencia de esta relación milenaria.
+Pueden mencionarse actuaciones humanas que históricamente han supuesto la transformación de la mayoría de los ambientes, como es el caso del cultivo tradicional y la construcción de bancales, la instalación de salinas o el pasto. Recientemente, estas actuaciones han quedado en un segundo plano ante el empuje de la urbanización y el abandono del campo.
+La sociedad de las Illes Balears ha adquirido la conciencia de la necesidad de velar por los espacios de valor ambiental relevante como un medio para proteger y conservar el medio ambiente en general. Esta preocupación se ha trasladado a los poderes públicos que tienen la obligación de adoptar las medidas necesarias para hacer posible esta protección, como es la declaración, planificación y gestión de espacios naturales sometidos a algún nivel de protección que comporta, a su vez, la necesidad de afrontar el debate social que supone llevar a cabo estas iniciativas.
+II
+La Constitución Española recoge en su artículo 45 la encomienda a los poderes públicos de velar por la utilización racional de todos los recursos naturales con la finalidad de proteger y mejorar la calidad de vida y defender y restaurar el medio ambiente.
+El artículo 149.1.23 otorga al Estado la competencia exclusiva en materia de legislación básica sobre el medio ambiente, sin perjuicio de las facultades de las comunidades autónomas de establecer normas adicionales de protección. En este ámbito competencial se promulgó la Ley estatal 4/1989, de 27 de marzo, relativa a la conservación de los espacios naturales protegidos y de la fauna y flora silvestres, en cuya aplicación las Illes Balears han desarrollado sus actuaciones en esta materia. Después de 15 años de aplicación es necesario un adecuado desarrollo de esta ley para concretar determinados aspectos y, sobre todo, se ha mostrado imprescindible dotar esta materia de un régimen jurídico general que permita afrontar los retos que presenten las peculiaridades territoriales y socioeconómicas propias de las Illes Balears.
+El Estatuto de Autonomía de las Illes Balears en su artículo 11.7 establece que corresponde a la comunidad autónoma de las Illes Balears, en el marco de la legislación básica del Estado y, en su caso, en los términos que esta establezca, el desarrollo legislativo y la ejecución en materia de protección del medio ambiente, normas adicionales de protección, espacios naturales protegidos y ecología.
+La Ley 1/1991, de 30 de enero, de espacios naturales y de régimen urbanístico de las áreas de especial protección de las Illes Balears, supuso, desde la óptica de la ordenación territorial y urbanística, un primer paso para dotar determinados espacios de un régimen jurídico protector con el fin de evitar su degradación.
+En cuanto al marco europeo, la Directiva 92/43/CE del Consejo, de 21 de mayo, relativa a la conservación de los hábitats naturales y de la flora y fauna silvestres, pone en marcha la red ecológica europea denominada «Natura 2000». Esta red está integrada por las zonas de especial protección para las aves (ZEPA) designadas bajo las determinaciones de la Directiva de aves 79/409/CEE, relativa a las aves silvestres, y por las zonas de especial conservación (ZEC) derivadas de la directiva de hábitats mencionada, que se declararán una vez aprobada la lista de lugares de importancia comunitaria (LIC) propuestos por las Illes Balears.
+III
+La aplicación de un régimen de protección a determinados espacios naturales en relación con su relevancia ambiental tiene que responder a tres finalidades principales: conservación de la naturaleza, promoción y desarrollo socioeconómico, y dotación de lugares de esparcimiento y disfrute de la ciudadanía. La vocación del territorio tiene que determinar cuál de estos tres aspectos tiene que prevalecer en cada una de las declaraciones que se hagan, siempre dentro del objetivo irrenunciable de la preservación de la biodiversidad y, por lo tanto, teniendo en cuenta que representan una gran reserva de especies, hábitats y paisajes que cumplen al mismo tiempo una función destacable desde el punto de vista cultural, educativo y científico.
+Por ello se ha creado una figura nueva dentro de la categoría de los espacios naturales protegidos como es la de paraje natural, configurado como espacio donde el desarrollo socioeconómico compatible con la conservación de sus valores naturales constituye su elemento dinamizador. La posición de la Administración ante los usos y las actividades compatibles no tiene que ser de mera tolerancia, sino al contrario, los tiene que promover e incentivar demostrando que pueden ser rentables en términos económicos. Para poder conseguir este objetivo la Administración debe contar con la colaboración y la complicidad de los propietarios y titulares de derechos que de una manera conjunta tienen que hacer posible la preservación de estos espacios para futuras generaciones.
+Con la declaración de espacios sometidos a régimen de protección el debate histórico en las Illes Balears se ha desarrollado en términos de confrontación entre conservación versus desarrollo, interés público versus interés privado, disfrute público versus propiedad privada, entre otros. La administración ambiental no puede ser ajena a estas dicotomías, sino que, al contrario, tiene que asumir el papel de tutora de la conservación y de mediadora entre los actores implicados y debe soportar las cargas de esta mediación, poniendo los mecanismos y los instrumentos para garantizar el equilibrio entre el interés público y el privado.
+Por su parte la ley distingue las categorías de espacios naturales protegidos de las figuras de protección propias de la red ecológica europea «Natura 2000», dadas las peculiaridades que impone la normativa comunitaria.
+En definitiva, esta ley pretende cubrir las carencias de regulación en materia de protección de espacios de relevancia ambiental de las Illes Balears y cumplir con las exigencias comunitarias de protección de la red ecológica europea «Natura 2000».
+IV
+Esta ley está estructurada en siete títulos y diversas disposiciones adicionales, transitorias y finales. El título I recoge las disposiciones generales y fija el objeto, la finalidad y los principios inspiradores, deberes de colaboración y medidas de fomento, y también crea el Consejo Asesor de Espacios de Relevancia Ambiental. Se promueve la figura de «custodia del territorio» como iniciativa que conjuga, de manera equilibrada, la protección y los intereses de los propietarios.
+El título II trata de la ordenación de los recursos naturales, contempla la regulación básica estatal y regula el procedimiento para la aprobación de los planes de ordenación de los recursos naturales.
+El extenso título III, dividido en seis capítulos, regula los espacios naturales protegidos. El capítulo I fija las diferentes categorías de espacios naturales protegidos y crea en el ámbito de las Illes Balears dos nuevas categorías: el paraje natural y lugares de interés científico y microrreservas; y distingue la reserva natural integral y la reserva natural especial. El capítulo II establece el régimen general de usos y zonificación. Seguidamente, el capítulo III aborda el procedimiento de declaración de cada una de estas categorías, con la novedad de que para parques, reservas naturales y parajes naturales establece su declaración por ley o por acuerdo del Consejo de Gobierno cuando se cuente con la mayoría de la propiedad privada. El rasgo más destacado del capítulo IV en cuanto a los efectos de la declaración es la importante modulación del derecho de tanteo y retracto. En el capítulo V se regula el contenido de los planes rectores de uso y gestión y de las normas de protección de las diferentes categorías. Finalmente el capítulo VI trata el tema de la gestión ambiental de los espacios naturales protegidos en el cual se prevé la constitución de autoridades de gestión con participación de los ayuntamientos y consejos de ámbito territorial y representantes de titulares de derechos dentro de los espacios naturales protegidos, así como la existencia de juntas asesoras en los parques, las reservas y los parajes naturales.
+El título IV incorpora el régimen jurídico propio de los lugares que integran la red ecológica europea «Natura 2000»: las zonas especiales de conservación y las zonas de especial protección para las aves. A este efecto recoge que se declaren por acuerdo del Consejo de Gobierno y prevé el régimen de la evaluación de las repercusiones de los planes o proyectos en estos lugares.
+El título V establece los órganos competentes de la comunidad autónoma de las Illes Balears en lo que concierne a los procedimientos de declaración, gestión y planificación de los parques nacionales.
+En el título VI se recogen diversas disposiciones relativas, con carácter general, a los espacios de relevancia ambiental, y en particular a los espacios naturales protegidos, y se prevé la posibilidad de suscribir convenios y servidumbres de interés medioambiental.
+El último título, el VII, estructurado en tres capítulos, instaura el régimen de infracciones, sanciones y policía administrativa. La potestad sancionadora y la facultad inspectora en las materias reguladas en esta ley es el objeto del capítulo I. Por otra parte, el capítulo II tipifica las infracciones en base a la legislación básica estatal e incorpora otras conductas que atentan contra la integridad de los espacios de relevancia ambiental de las Illes Balears. El capítulo III prevé las sanciones, no solo de carácter pecuniario, que se pueden imponer por la comisión de las infracciones y los criterios de gradación de estas.
+En las disposiciones adicionales se prevé la posibilidad de cesión a las administraciones públicas de bienes ubicados en espacios de relevancia ambiental en pago de deudas, se regulan determinadas situaciones respecto de los espacios naturales existentes con anterioridad a la entrada en vigor de esta ley y se modifica un artículo de la Ley 6/1999, de 3 de abril, de las directrices de ordenación territorial.
+La disposición derogatoria aclara el régimen jurídico que queda vigente, y de entre las disposiciones finales destaca la posibilidad de actualización del importe de las sanciones por vía reglamentaria.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. Esta ley, en ejercicio de las competencias medioambientales que contempla el artículo 11.7 del Estatuto de Autonomía de las Illes Balears, tiene por objeto establecer el régimen jurídico general para la declaración, protección, conservación, restauración, mejora y adecuada gestión de los espacios de relevancia ambiental de las Illes Balears.
+2. Constituyen los espacios de relevancia ambiental de las Illes Balears los espacios naturales protegidos y los lugares de la red ecológica europea «Natura 2000» declarados de conformidad con lo que prevé esta ley.
+
+### Artículo 2
+
+Artículo 2. Finalidad y principios inspiradores.
+1. La finalidad de esta ley es la protección de los espacios de relevancia ambiental y la promoción de su desarrollo sostenible, haciendo compatible la conservación de los recursos naturales con su aprovechamiento ordenado teniendo en cuenta los derechos de la ciudadanía y su progreso socioeconómico.
+2. Los principios inspiradores de esta ley son:
+a) El mantenimiento de los procesos ecológicos esenciales y de los sistemas vitales básicos.
+b) La preservación de la variedad, singularidad y belleza de los sistemas ecológicos naturales y del paisaje, con especial mención a los endemismos de las Illes Balears.
+c) El aprovechamiento sostenible de la biodiversidad y la utilización racional de los recursos naturales para el bien de las presentes y futuras generaciones.
+d) La promoción social, económica y cultural de los espacios de relevancia ambiental y de sus zonas de influencia, con el fomento de usos y actividades tradicionales y complementarias garantizando el desarrollo sostenible.
+e) El reconocimiento de la colaboración con los propietarios y el resto de titulares de derechos como una herramienta importante y conveniente para la conservación de los espacios de relevancia ambiental.
+f) El estímulo de la máxima participación de los propietarios y otros titulares de derechos afectados en la declaración y en la gestión de una zona protegida.
+g) La promoción de la formación y de la investigación en materia medioambiental.
+h) La garantía por parte de los poderes públicos del disfrute público ordenado de los espacios de relevancia ambiental siempre respetando los derechos de los propietarios y otros titulares de derechos.
+3. Para la mejor consecución de estos principios y finalidades, la administración ambiental puede suscribir acuerdos o convenios con el fin de establecer medidas de conservación y de gestión. En este sentido se promoverá la figura de entidad de custodia del territorio como fórmula efectiva para conseguir los objetivos de esta ley, así como estimular la creación y el funcionamiento de entidades de custodia del territorio.
+
+### Artículo 3
+
+Artículo 3. Deberes de colaboración.
+1. Todos tienen el deber de respetar los espacios de relevancia ambiental y la obligación de reparar el daño que causen.
+2. Los propietarios y otros titulares de derechos sobre terrenos incluidos en los espacios de relevancia ambiental tienen que prestar a la Administración la colaboración necesaria para la consecución de los objetivos de esta ley.
+3. La declaración de un espacio de relevancia ambiental no supone la obligación de los titulares de soportar el acceso público a la propiedad ni la pérdida de la gestión ordinaria de sus fincas.
+4. Las distintas administraciones, en el marco de sus competencias y a través de los instrumentos de ordenación oportunos, tienen que habilitar, cuando proceda, itinerarios y zonas para el disfrute público de estos espacios.
+Se modifica el apartado 4 por el art. 1 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 4
+
+Artículo 4. Financiación.
+1. El Gobierno de las Illes Balears tiene que habilitar los medios humanos, materiales y económicos necesarios para el cumplimiento de lo dispuesto en esta ley.
+2. Con carácter general, las vías de financiación son las siguientes:
+a) La previsión ordinaria de los presupuestos de la comunidad autónoma de las Illes Balears.
+b) Los recursos procedentes de la Administración del Estado y otras administraciones públicas vía convenio o transferencia.
+c) Los créditos derivados de programas procedentes de fondos europeos.
+d) Las aportaciones o donaciones de personas físicas o jurídicas.
+
+### Artículo 5
+
+Artículo 5. Acciones de fomento.
+1. El Gobierno de las Illes Balears tiene que impulsar el establecimiento de líneas de subvenciones, ayudas públicas y medidas compensatorias para promover el desarrollo sostenible de los espacios de relevancia ambiental y de sus zonas de influencia.
+2. Tiene que fomentarse la cooperación de la población local, agricultores, propietarios y otros sectores interesados en la realización de las tareas de gestión de los espacios de relevancia ambiental.
+
+### Artículo 6
+
+Artículo 6. Consejo Asesor de Espacios de Relevancia Ambiental.
+1. Se crea el Consejo Asesor de Espacios de Relevancia Ambiental de las Illes Balears, el cual, en su condición de órgano consultivo colegiado de carácter científico, debe tener como función principal informar, cuando así se establezca, sobre los proyectos de disposiciones en materia de espacios de relevancia ambiental y asesorar a la administración ambiental en la toma de decisión cuando se le requiera.
+2. Reglamentariamente tiene que desplegarse la composición y el régimen de funcionamiento de este consejo asesor.
+
+## TÍTULO I bis
+
+Instrumentos de planeamiento de los espacios de relevancia ambiental
+Se añade por el art. 2 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 6 bis
+
+Artículo 6 bis. Instrumentos de planeamiento de los espacios de relevancia ambiental.
+1. Los instrumentos de planeamiento, tanto de ordenación como de planificación, tienen como finalidad la gestión de los espacios de relevancia ambiental de acuerdo con los principios inspiradores de esta ley.
+2. Los instrumentos de planeamiento de los espacios de relevancia ambiental pueden ser de los siguientes tipos:
+a) Los planes de ordenación de los recursos naturales.
+b) Los planes rectores de uso y gestión de los parques naturales, de los parajes naturales y de las reservas naturales.
+c) Los planes específicos de protección de los monumentos naturales y de los paisajes protegidos.
+d) Los planes de gestión Natura 2000.
+Se añade por el art. 2 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 6 ter
+
+Artículo 6 ter. Procedimiento de elaboración.
+1. El procedimiento de elaboración de los instrumentos de planeamiento de los espacios de relevancia ambiental es el siguiente, sin perjuicio de las previsiones particulares, para cada caso, de esta ley:
+a) El procedimiento se inicia mediante resolución del consejero competente, que se publicará en el “Butlletí Oficial de les Illes Balears” y en el portal web institucional, con acceso electrónico a la documentación.
+b) La resolución de inicio tiene que ir acompañada de una memoria justificativa que debe contener, como mínimo:
+1.º Los valores ambientales o de otro tipo que justifican o motivan el inicio del procedimiento.
+2.º La descripción del medio u otras características relevantes del espacio.
+3.º La delimitación del ámbito territorial objeto del instrumento, con la cartografía correspondiente.
+c) Con carácter previo a la redacción de la propuesta se llevará a cabo un trámite de participación pública por un plazo mínimo de treinta días naturales. Los resultados de esta participación se tendrán en cuenta para elaborar el plan correspondiente.
+d) La propuesta del plan se someterá conjuntamente, por un plazo mínimo de treinta días naturales, a los siguientes trámites:
+1.º Audiencia de las personas interesadas, que se hará según proceda, directamente, por medio de las entidades que las agrupen o las representen o mediante publicación en el “Butlletí Oficial de les Illes Balears”.
+2.º Consulta de las administraciones territoriales afectadas.
+3.º Información pública mediante la publicación en el “Butlletí Oficial de les Illes Balears”.
+e) Finalizados estos trámites, la propuesta se someterá a informe jurídico preceptivo.
+2. El instrumento se aprobará mediante un decreto del Gobierno de las Illes Balears.
+3. El procedimiento se resolverá en el plazo máximo de dieciocho meses, prorrogable motivadamente por acuerdo del Consejo de Gobierno por un máximo de doce meses adicionales, de acuerdo con la Ley 39/2015, de 1 de octubre, ya citada.
+4. La caducidad del procedimiento comporta la pérdida de eficacia de todas las medidas cautelares o preventivas adoptadas.
+5. Estos instrumentos de planeamiento se revisarán periódicamente y, en todo caso, cada diez años.
+Se modifica por la disposición final 49.1 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-49
+ Se añade por el art. 2 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 6 quater 
+
+Artículo 6 quater. Procedimiento de modificación.
+1. Las modificaciones de los instrumentos de planificación se tramitarán mediante el mismo procedimiento previsto para su elaboración.
+2. No obstante lo que prevé el apartado anterior, las modificaciones puntuales pueden seguir la tramitación simplificada prevista en este artículo.
+3. Tienen la consideración de modificaciones puntuales las que no alteren de manera sustancial los objetivos, la estructura territorial o la zonificación.
+4. El procedimiento de elaboración y aprobación de las modificaciones puntuales será el mismo que el previsto en el artículo 6 ter anterior, excepto en cuanto a los plazos de participación pública previa, audiencia de los interesados, consulta a las administraciones territoriales e información pública, que se reduce a veinte días naturales.
+Se modifica por la disposición final 49.2 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-49
+ Se añade por el art. 2 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 6 quinquies
+
+Artículo 6 quinquies. Coordinación con los instrumentos de planificación sectorial.
+Los instrumentos de planeamiento de los espacios de relevancia ambiental deben tener en cuenta, en todo lo necesario, las previsiones de planes y programas sectoriales en materia de riesgos, energía, transporte, telecomunicaciones, demarcación hidrográfica, protección civil, planificación forestal, canteras, turismo, residuos, contaminación de las aguas, ordenación del territorio, protección de especies y de hábitats y protección del patrimonio histórico, entre otros. Todo ello sin perjuicio de lo dispuesto en los artículos 7.3, 7.4 y 29.2 de esta ley.
+En caso de contradicción entre los planes de los espacios de relevancia ambiental y los planes y programas sectoriales autonómicos, se aplicará la previsión que suponga una mayor conservación y mejora del medio y de sus elementos desde el punto de vista de la protección de los valores naturales.
+Se añade por el art. 2 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+## TÍTULO II
+
+De la ordenación de los recursos naturales
+
+### Artículo 7
+
+Artículo 7. Los planes de ordenación de los recursos naturales.
+1. Con el fin de adecuar la gestión de los espacios de relevancia ambiental a los principios inspiradores de esta ley, el Gobierno de las Illes Balears debe planificar los recursos naturales mediante planes de ordenación de los recursos naturales.
+2. La naturaleza, los objetivos, el alcance y el contenido mínimo de los planes de ordenación de los recursos naturales son los que establece la Ley 42/2007, de 13 de diciembre, del patrimonio natural y de la biodiversidad.
+3. Los instrumentos de ordenación territorial, urbanística, energética, de recursos naturales y, en general, física, contradictorios con los planes de ordenación de los recursos naturales deben adaptarse. Hasta que no se haga esta adaptación, prevalecen las determinaciones de los planes de ordenación de recursos naturales, de acuerdo con lo que dispone el artículo 19.2 de la Ley 42/2007, de 13 de diciembre, del patrimonio natural y de la biodiversidad.
+4. Los planes de ordenación de los recursos naturales pueden regular, en función de la capacidad de carga y los objetivos de conservación del espacio, la posibilidad de admitir, además de actividades del sector primario, otros usos compatibles con los objetivos de conservación.
+5. El Plan de ordenación de recursos naturales tiene que contener un estudio de la viabilidad de los sectores económicos y tiene que identificar y señalar las medidas para el fomento y la promoción del espacio. Igualmente debe establecer la estrategia de comunicación y los mecanismos de información y asesoramiento a la población afectada.
+Se modifican los apartados 2 y 3 por el art. 3 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 8
+
+Artículo 8. Protección cautelar.
+1. Durante la tramitación del procedimiento para la aprobación de un plan de ordenación de los recursos naturales, de declaración de una zona de especial protección para las aves o desde el acuerdo de Consejo de Gobierno de propuesta de inclusión de un territorio como lugar de interés comunitario, no se pueden realizar actos que supongan una transformación sensible de la realidad física y biológica que pueda llegar a hacer imposible o dificultar de forma importante la consecución de los objetivos pretendidos.
+2. Una vez iniciado el procedimiento de elaboración de un plan de ordenación de los recursos naturales o de declaración de una zona de especial protección para las aves o desde el acuerdo de Consejo de Gobierno de propuesta de un puesto de interés comunitario, y hasta que no se produzca su aprobación, no se puede otorgar ninguna autorización, licencia o concesión que habilite para llevar a cabo actos de transformación sensible de la realidad física o biológica, sin un informe favorable de la administración ambiental.
+El informe preceptivo de la administración ambiental será desfavorable cuando se quieran llevar a cabo actos que puedan transformar de forma sensible la realidad física y biológica de manera que pueda llegar a hacer imposible o dificultar de forma importante la consecución de los objetivos de ordenación del espacio.
+El informe, en caso de ser favorable, puede condicionarse al cumplimiento de medidas dirigidas a minimizar los posibles efectos negativos de la actuación.
+3. La consejería competente en materia de medio ambiente debe emitir el informe mencionado en los apartados precedentes en un plazo máximo de noventa días. Este informe se entiende desfavorable si no es emitido en ese plazo.
+4. Estas medidas de protección cautelar quedan sin efecto si caduca el procedimiento que las ha motivado o en caso de aprobación del plan de ordenación de los recursos naturales, de declaración de la zona de especial protección para las aves o de aprobación de la lista de LIC por la Comisión Europea.
+Se modifica por el art. 4 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+ Se modifica el apartado 4 por el art. 27 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
+ Téngase en cuenta la disposición transitoria 3 de la citada Ley, en relación con la prórroga de los plazos de los procedimientos en tramitación.
+ Se modifica el apartado 4 por el art. 27 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
+ Téngase en cuenta la disposición transitoria 3 del citado Decreto-ley, en relación con la prórroga de los plazos de los procedimientos en tramitación.
+
+### Artículo 8 bis
+
+Artículo 8 bis. Régimen de protección preventiva.
+1. Sin perjuicio de lo previsto en el artículo anterior, en el caso de daños medioambientales o amenaza inminente de daños y con el fin de asegurar la salvaguarda de los valores naturales a proteger, durante la tramitación de un plan de ordenación de los recursos naturales o de declaración de una zona de especial protección para las aves o propuesto un territorio como LIC, excepcionalmente pueden adoptarse, mediante acuerdo del Consejo de Gobierno, medidas de protección preventiva, debidamente justificadas y limitadas a los daños medioambientales o amenaza inminente de daños que se pretendan proteger. Podrán adoptarse las siguientes medidas preventivas:
+a) La suspensión del otorgamiento de las licencias municipales de obra mayor en suelo rústico. En suelo urbano sólo se producirá la suspensión de licencias municipales por obra mayor cuando así se determine en el acuerdo de iniciación de la tramitación del plan ambiental y se determinen en este acuerdo los requisitos y parámetros aplicables.
+b) La suspensión del otorgamiento de permisos y de concesiones mineras.
+c) La paralización de las autorizaciones, las concesiones, las licencias y los títulos administrativos habilitantes otorgados por las instituciones de la comunidad autónoma. En este caso, si procede, será necesario un informe que analice y determine el potencial régimen indemnizatorio.
+d) La paralización de la tramitación de planes urbanísticos con incidencia sobre el territorio.
+2. Estas medidas de protección preventiva quedan sin efecto si caduca el procedimiento que las ha motivado, en caso de aprobación del plan de ordenación de los recursos naturales o de declaración de una zona de especial protección para las aves o en caso de propuesta de un territorio como LIC.
+Se añade por el art. 5 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 9
+
+Artículo 9. Procedimiento de elaboración.
+(Suprimido)
+Se suprime por la disposición final 49.3 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-49
+ Se modifica por el art. 6 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+ Se añade el apartado 5 por la disposición final 6 del Decreto-ley 1/2021, de 25 de enero. Ref. BOE-A-2021-4805#df-6
+ Se modifican los apartados 2.a) y f) y el 4 por la disposición final 1.1 a 3 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df
+ Se añade un último párrafo al apartado 4 por la disposición final 1 del Decreto-ley 9/2020, de 25 de mayo. Ref. BOE-A-2020-8012#df
+ Se modifican las letras a) y f) del apartado 2 y se añade un apartado 4 por la disposición final 1 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df
+
+## TÍTULO III
+
+De los espacios naturales protegidos
+
+## CAPÍTULO I
+
+Categorías de espacios naturales protegidos
+
+### Artículo 10
+
+Artículo 10. Concepto.
+Son espacios naturales protegidos las zonas terrestres y marinas de las Illes Balears que sean declaradas como tales en la forma prevista en esta ley atendiendo a la representatividad, la singularidad, la fragilidad o el interés de sus elementos o sistemas naturales.
+
+### Artículo 11
+
+Artículo 11. Categorías.
+Los espacios naturales protegidos de las Illes Balears se clasifican, en función de los bienes y valores cuya protección se pretende, en las categorías siguientes:
+a) Parques naturales.
+b) Parajes naturales.
+c) Reservas naturales, que pueden ser integrales y especiales.
+d) Monumentos naturales.
+e) Paisajes protegidos.
+Se deroga la letra f) por la disposición derogatoria única.a) de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 12
+
+Artículo 12. Parques naturales.
+Son los espacios naturales relativamente extensos, no transformados sensiblemente por la explotación o la ocupación humanas que, en consideración a la belleza de su fauna, flora y gea en conjunto, constituyen una muestra del patrimonio natural de las Illes Balears. La declaración de un parque natural tiene por objeto la preservación de sus recursos naturales para la investigación científica, las finalidades educativas y el disfrute público de forma compatible con su conservación. No tienen cabida las construcciones ni las edificaciones de nueva planta para usos residenciales u otros ajenos a su finalidad.
+
+### Artículo 13
+
+Artículo 13. Parajes naturales.
+Son los espacios naturales relativamente extensos en que coexisten actividades agrícolas, ganaderas o pesqueras, de transformación agraria y actividades de otros sectores económicos que hacen compatible la conservación con su desarrollo sostenible, configurando un paraje de gran interés ecocultural que hace necesaria su conservación. La declaración de un paraje natural tiene por objeto la conservación de todo el conjunto y, al mismo tiempo, hacer posible el desarrollo armónico de las poblaciones afectadas y la mejora de sus condiciones de vida, no siendo compatibles los otros usos que sean ajenos a estas finalidades.
+
+### Artículo 14
+
+Artículo 14. Reservas naturales.
+1. Las reservas naturales son los espacios cuya declaración persigue la protección de ecosistemas, de comunidades o de elementos biológicos que, por su rareza, fragilidad, importancia o singularidad, requieren un tratamiento especial.
+2. Las reservas naturales pueden ser de dos tipos:
+a) Reservas naturales integrales. Son los espacios de dimensión moderada que por su fragilidad e importancia es necesario preservar de manera integral con todos sus elementos bióticos y abióticos, así como todos los procesos ecológicos naturales que se producen en ellos, no siendo compatibles ni los usos ni la ocupación humana ajena a finalidades científicas.
+b) Reservas naturales especiales. Son los espacios de dimensión moderada reservados a la preservación de hábitats especialmente singulares, especies concretas, formaciones geológicas o procesos ecológicos naturales de interés especial, donde se admite un uso humano moderado de carácter tradicional, un uso educativo y científico y un uso de visita debidamente controlado.
+
+### Artículo 15
+
+Artículo 15. Monumentos naturales.
+Son monumentos naturales los espacios o elementos de la naturaleza constituidos por formaciones de notoria singularidad, rareza o belleza, que merecen una protección especial. Se consideran monumentos naturales las formaciones geológicas, los elementos hidrológicos, las formaciones biológicas, los yacimientos paleontológicos y otros elementos de la geografía física que reúnen un interés especial por la singularidad o la importancia de sus valores científicos, culturales o paisajísticos.
+
+### Artículo 16
+
+Artículo 16. Paisajes protegidos.
+Los paisajes protegidos son aquellas zonas concretas del medio natural que, por sus valores estéticos y culturales, sean merecedores de una protección especial.
+
+### Artículo 17
+
+Artículo 17. Lugares de interés científico y microrreservas.
+(Derogado).
+Se deroga por la disposición derogatoria única.b) de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 17 bis
+
+Artículo 17 bis. Inventario de espacios naturales protegidos de las Illes Balears.
+La consejería competente en materia de medio ambiente mantendrá actualizada la información de manera pública, accesible por internet, de todos los espacios naturales protegidos de las Illes Balears que incluya, al menos, la localización, la definición de los límites, los valores y los documentos de planificación y gestión.
+Se añade por el art. 7 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+## CAPÍTULO II
+
+Régimen general de usos y zonificación
+
+### Artículo 18
+
+Artículo 18. Usos y aprovechamientos.
+1. El uso y el aprovechamiento de los bienes y recursos incluidos en el ámbito de un espacio natural protegido tiene que realizarse de manera que resulte compatible con la conservación de los valores que fundamentan su declaración.
+2. Dentro del ámbito de un espacio natural protegido los usos pueden ser permitidos, autorizables o prohibidos.
+3. Los instrumentos de planificación o las normas de protección de cada espacio natural protegido establecerán la clasificación de los usos en estas tres categorías.
+4. Las referencias a la autorización de usos se entienden sin perjuicio de que tengan que ser objeto de licencia urbanística, declaración de interés general o autorización administrativa de cualquier otra clase.
+
+### Artículo 19
+
+Artículo 19. Usos permitidos.
+1. Con carácter general, los usos permitidos son todos los compatibles con los objetivos de protección de cada espacio natural protegido.
+2. En particular, son usos permitidos:
+a) Todos los usos y todas las actividades existentes en el momento de la declaración del espacio natural, a excepción de los expresamente declarados incompatibles u objeto de especial regulación en los instrumentos de planeamiento medioambiental.
+b) Los usos agrarios, entendiendo por tales los relacionados con el destino o con la naturaleza de las fincas por estar vinculados a la actividad agraria y complementaria, en los términos establecidos en la legislación agraria.
+c) Los usos pesqueros profesionales y recreativos, incluidas las competiciones de pesca deportiva, en los términos que establece la legislación pesquera, que no sean incompatibles, según el instrumento de planificación, con la finalidad y los objetivos de protección de cada espacio natural.
+3. Los usos y las actividades permitidos no necesitan autorización del organismo competente en la gestión y la administración ambiental del espacio natural protegido, sin perjuicio de lo establecido en el apartado 4 del artículo 18 de esta ley.
+Se modifica el apartado 2.c) por la disposición final 49.4 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-49
+ Se modifica por la disposicón final 3.1 de la Ley 12/2014, de 16 de diciembre. Ref. BOE-A-2015-951#dftercera.
+
+### Artículo 20
+
+Artículo 20. Usos prohibidos.
+1. Son usos prohibidos los declarados como tales en los instrumentos de planeamiento medioambiental, en razón de su incompatibilidad con la protección y por suponer un peligro actual, directo o indirecto, para el espacio natural protegido o cualquiera de sus elementos y valores.
+2. En ningún caso pueden adquirirse por silencio administrativo facultades o derechos, ni licencias, ni concesiones que comporten usos prohibidos en esta ley o en las normas y los planes que la desarrollen.
+
+### Artículo 21
+
+Artículo 21. Usos autorizables.
+1. Se consideran usos o actividades autorizables los previstos como tales en los instrumentos de planeamiento ambiental por ser, bajo determinadas condiciones, compatibles con la protección del medio natural sin deteriorar los valores, así como todos los usos no definidos como permitidos o prohibidos.
+Los instrumentos de planeamiento ambiental o las normas de protección de cada espacio natural podrán determinar los usos o actividades autorizables para cuyo ejercicio sea suficiente que el interesado presente una declaración responsable.
+2. Dentro del ámbito territorial de los espacios naturales protegidos, la autorización, la licencia o la concesión de usos y actividades corresponde a los órganos competentes en razón de la materia, los cuales tienen que solicitar con carácter preceptivo, antes de resolver, informe al órgano competente en materia de espacios naturales protegidos.
+3. El informe tiene que limitar sus pronunciamientos a la adecuación del uso o de las actividades pretendidos con los objetivos de protección en base a las disposiciones contenidas en los instrumentos de declaración o planificación previstos en esta ley y tiene que evacuarse en el plazo de dos meses desde que el expediente completo tenga entrada en el registro del mencionado órgano.
+4. Este informe será vinculante, en cuanto a los aspectos mencionados en el apartado anterior, cuando sea desfavorable al uso pretendido o imponga condiciones fundamentadas en las disposiciones de los instrumentos de planificación o declaración previstos en esta ley.
+5. Es nula de pleno derecho la autorización, la licencia o la concesión otorgada contraviniendo el informe mencionado en el apartado anterior.
+Se modifica el apartado 1 por el art. 1.1 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721
+ Se modifica el apartado 1 por el art. 33.1 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a3-5
+
+### Artículo 22
+
+Artículo 22. Zonificación de los espacios naturales protegidos.
+En el ámbito territorial de los espacios naturales protegidos, en función de las características de cada categoría, tienen que establecerse zonas diferenciadas de acuerdo con la siguiente clasificación:
+a) Zonas de exclusión. Están constituidas por las áreas de más calidad biológica o que contengan elementos bióticos o abióticos más frágiles, amenazados o representativos.
+El acceso y la estancia de personas en estas zonas se regulará en los instrumentos de planificación y gestión atendiendo prioritariamente a su conservación, procurando, a la vez, satisfacer las finalidades científicas, educativas y de ocio de los bienes de dominio público y de los integrantes del patrimonio cultural, en las condiciones pertinentes para la conservación del espacio natural.
+b) Zonas de uso limitado. Integran aquellas áreas con una alta calidad biológica o elementos frágiles o representativos en las cuales los objetivos de conservación admiten un uso público reducido con medios tradicionales, sin instalaciones permanentes.
+c) Zonas de uso compatible. Tienen que delimitarse con esta denominación las zonas en que las características del medio natural permitan la compatibilización de la conservación con los usos agrarios, forestales, ganaderos, cinegéticos y pesqueros tradicionales, así como usos educativos, recreativos y otros complementarios compatibles con los objetivos de conservación.
+d) Zonas de uso general. Constituidas por aquellas superficies que, en razón de la menor calidad relativa dentro del espacio natural protegido, o por su capacidad de admitir un mayor número de visitantes, puedan servir para la ubicación de instalaciones, actividades y servicios que redunden en beneficio de las comunidades locales integradas o próximas al espacio natural.
+Se modifica el apartado a) por la disposición final 2.1 de la Ley 12/2016, de 17 de agosto. Ref. BOE-A-2016-8518#df-2.
+
+## CAPÍTULO III
+
+Procedimiento de declaración
+
+### Artículo 23
+
+Artículo 23. Declaración de los espacios naturales protegidos.
+1. Los espacios naturales protegidos a los que se refiere el artículo 11 de esta ley se declaran por decreto del Gobierno de las Illes Balears.
+2. Previamente a la declaración de un parque, paraje o reserva naturales, debe elaborarse y aprobarse el correspondiente plan de ordenación de los recursos naturales.
+No obstante, pueden declararse sin la aprobación previa de un plan de ordenación de los recursos naturales cuando la declaración se haga por el procedimiento de urgencia o excepcionalmente cuando existan razones que lo justifiquen y, en todo caso, cuando la declaración se haga por ley del Parlamento.
+3. La declaración podrá prever, fuera del ámbito del espacio natural protegido, una zona periférica de protección para evitar impactos ecológicos o paisajísticos procedentes del exterior. A tal efecto, la norma de creación indicará las limitaciones necesarias.
+4. La declaración podrá establecer áreas de influencia socioeconómica, de conformidad con lo que prevé el artículo 39 de la Ley 42/2007.
+Se modifica por el art. 8 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+ Se modifica el apartado 2 por la disposición final 2.2 de la Ley 12/2016, de 17 de agosto. Ref. BOE-A-2016-8518#df-2.
+
+### Artículo 24
+
+Artículo 24. Declaración de las figuras restantes.
+(Derogado).
+Se deroga por la disposición derogatoria única.c) de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 25
+
+Artículo 25. Procedimiento ordinario.
+1. El procedimiento para declarar o modificar un espacio natural protegido es el establecido en los artículos 6 ter y 6 quater de esta ley, respectivamente.
+2. No es necesaria esta tramitación cuando el acto de declaración encuentre su asiento en la propuesta contenida en un plan de ordenación de los recursos naturales aprobado previamente, sin perjuicio de lo establecido en el apartado siguiente.
+3. Los instrumentos de declaración que contengan, además, cualquier tipo de regulación o régimen jurídico, se aprobarán siguiendo el procedimiento establecido en el artículo 6 ter de esta ley.
+Se modifica por el art. 9 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 25 bis
+
+Artículo 25 bis. Procedimiento de urgencia.
+1. La declaración de un espacio natural protegido puede tramitarse por el procedimiento de urgencia cuando se identifique la existencia de una amenaza sobre los ecosistemas de una zona no declarada espacio natural protegido o concurran otras circunstancias que lo justifiquen.
+2. La tramitación de urgencia se realiza mediante un acuerdo del Consejo de Gobierno debidamente motivado e implica que:
+a) Los plazos previstos en el procedimiento de elaboración se reducirán a la mitad.
+b) No es necesaria la aprobación previa de un plan de ordenación de los recursos naturales.
+c) Las personas titulares de los terrenos afectados por la declaración estarán obligadas a facilitar información y acceso a los representantes de la Consejería de Medio Ambiente y Territorio para verificar la existencia de factores de perturbación que constituyen una amenaza al entorno natural.
+d) La aplicación de la protección cautelar a la que se refiere el artículo 8 y la posibilidad de adoptar las medidas preventivas previstas en el artículo 8 bis, ambos de esta ley.
+3. El decreto de declaración del espacio natural protegido debe contener el régimen básico de protección y los mecanismos jurídicos de conservación del espacio.
+4. En todo caso, debe tramitarse y aprobarse el correspondiente plan de ordenación de los recursos naturales en el plazo de un año desde la declaración del espacio natural protegido. Transcurrido este plazo, quedará sin efecto la declaración tramitada por procedimiento de urgencia.
+Se añade por el art. 10 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+## CAPÍTULO IV
+
+Efectos de la declaración
+
+### Artículo 26
+
+Artículo 26. Declaración de utilidad pública.
+La declaración de un espacio natural protegido supone la declaración de utilidad pública e interés social, a efectos expropiatorios, de los bienes y derechos afectados.
+
+### Artículo 27
+
+Artículo 27. Derecho de tanteo y retracto.
+1. La declaración de un espacio natural protegido supone la facultad de la administración competente para el ejercicio de los derechos de tanteo y retracto en las transmisiones onerosas de terrenos ubicados en su ámbito territorial.
+2. El transmitente tiene que notificar fehacientemente a la Administración las condiciones esenciales de la transmisión pretendida o, en su caso, copia fehaciente de la escritura pública en que se haya instrumentado la transmisión. El derecho de tanteo se puede ejercer en el plazo de tres meses y el de retracto en el de un año, ambos a contar desde la comunicación, que debe hacerse en todo caso y que es un requisito necesario para la inscripción de la transmisión en el Registro de la Propiedad.
+3. Los derechos de tanteo y retracto no se tienen que ejercer en relación con las transmisiones siguientes:
+En las transmisiones de fincas de superficie inferior a 10 ha, sea cual sea su categoría y zonificación.
+En las transmisiones de fincas ubicadas en las zonas de uso compatible y de uso general de los parajes naturales.
+En las transmisiones de fincas en relación con las que el transmitente haya formalizado con la administración acuerdos o convenios de gestión o conservación en los cuales se subrogue el adquirente.
+En el caso de fincas que cumplan parcialmente los dos últimos supuestos anteriores, el derecho de tanteo y retracto no se ejercerá si la mayor parte de la finca queda afectada por alguna de las citadas causas de exclusión.
+Se modifica el apartado 3 por la disposición final 2.2 de la Ley 9/2018, de 31 de julio. Ref. BOE-A-2018-13194
+
+## CAPÍTULO V
+
+Planificación de los espacios naturales
+
+### Artículo 28
+
+Artículo 28. Instrumentos de planificación.
+Bajo las prescripciones de los planes de ordenación de los recursos naturales, cuando su existencia sea obligatoria, la planificación de los espacios naturales protegidos tiene que hacerse mediante los siguientes instrumentos:
+a) Los planes rectores de uso y gestión de los parques naturales, de los parajes naturales y de las reservas naturales.
+b) Los planes específicos de protección de los monumentos naturales y de los paisajes protegidos.
+Se modifica la letra b) por el art. 11 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 29
+
+Artículo 29. Naturaleza y efectos.
+1. Los planes rectores de uso y gestión desarrollan las directrices del Plan de ordenación de los recursos naturales y establecen la previsión de las actuaciones que deben llevarse a cabo, en particular las relativas a investigación, uso público y protección y mejora de los valores ambientales y promoción socioeconómica.
+2. Los planes rectores de uso y gestión tienen carácter vinculante para las administraciones y los particulares y prevalecen sobre el planeamiento territorial y urbanístico. Cuando sus determinaciones son incompatibles con la normativa territorial y urbanística en vigor, esta última tiene que revisarse de oficio para adaptarla a las prescripciones del Plan de uso y gestión.
+
+### Artículo 30
+
+Artículo 30. Contenido.
+1. Los planes rectores de uso y gestión, al menos, tienen que contener:
+a) La zonificación del espacio de acuerdo con las disposiciones del Plan de ordenación de los recursos naturales con delimitación de los usos prioritarios en cada zona.
+b) Las normas de regulación de usos y actividades, para el caso de que sea necesario completar las del Plan de ordenación de los recursos naturales.
+c) Los criterios y las normas generales de protección, gestión y mejora de los valores naturales, especialmente en cuanto al aprovechamiento de los recursos naturales.
+d) La estrategia de comunicación para difundir los valores naturales del espacio.
+e) El programa económico-financiero.
+f) La concreción de medidas que impulsen la calidad de vida de las poblaciones afectadas, así como, si procede, de las medidas de compensación y de incentivación conforme a lo que establece esta ley.
+g) En los casos de existencia de ámbito marino el Plan rector de uso y gestión tiene que establecer los criterios básicos para que el órgano competente en materia de pesca elabore, en colaboración con la administración medioambiental el correspondiente plan de pesca.
+2. Las necesidades económicas para la concesión de ayudas y subvenciones han de ser presupuestadas en el ejercicio inmediatamente posterior a la entrada en vigor de cada plan rector de uso y gestión.
+
+### Artículo 31
+
+Artículo 31. Procedimiento.
+1. El procedimiento para elaborar o modificar un plan rector de uso y gestión es el establecido en los artículos 6 ter y 6 quater de esta ley, respectivamente, con las particularidades previstas en este artículo.
+En el caso de los planes rectores de uso y gestión de los parques nacionales deberá tenerse en cuenta, además, lo que establezca la normativa básica estatal en materia de parques nacionales.
+2. La memoria que acompaña la resolución de inicio únicamente es preceptiva cuando exista nueva información no recogida en el plan de ordenación de los recursos naturales y ésta sea determinante para el contenido del plan rector de uso y gestión.
+3. Los planes rectores de uso y gestión tienen una vigencia indefinida. Sin embargo, deben ser revisados periódicamente y, en todo caso, cada diez años.
+4. Las actuaciones previstas en los planes rectores de uso y gestión deben concretarse y desarrollarse a través de los programas anuales de ejecución, que se aprueban mediante resolución del órgano gestor del espacio natural protegido.
+Se modifica por el art. 12 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 32
+
+Artículo 32. Planes específicos de protección.
+1. Los monumentos naturales y los paisajes protegidos que no se encuentran incardinados en parques, parajes o reservas naturales deben contar con un plan específico de protección.
+2. Estas normas deben contener al menos las medidas de conservación, la regulación de los usos y el régimen de autorizaciones, siempre de acuerdo con el Plan de ordenación de los recursos naturales, si lo hay, y, con carácter general, han de establecer las condiciones necesarias para su supervivencia y su pacífica contemplación.
+3. El procedimiento para elaborar o modificar los planes específicos de protección es el que prevén los artículos 6 ter y 6 quater de esta ley, respectivamente.
+4. Es de aplicación a las normas de protección lo establecido en el artículo 29.2 para los planes rectores de uso y gestión.
+Se modifica por el art. 13 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+## CAPÍTULO VI
+
+Gestión de los espacios naturales protegidos
+
+### Artículo 33
+
+Artículo 33. Gestión y administración.
+1. La gestión y la administración ambiental de los espacios naturales protegidos corresponden a la consejería competente en materia de medio natural, que las puede ejercer directamente o mediante entidades instrumentales.
+2. El instrumento de declaración o de planificación de cada espacio natural protegido puede prever la creación de una autoridad de gestión, como órgano colegiado de coordinación institucional y, en su caso, de toma de decisiones.
+3. El acto de creación de la autoridad de gestión determinará expresamente:
+a) Su naturaleza decisoria o consultiva.
+b) Sus competencias.
+c) Su composición.
+d) Su régimen de funcionamiento.
+4. Cuando tenga naturaleza decisoria, la autoridad de gestión actuará bajo la dirección y supervisión del órgano gestor autonómico.
+5. En todo caso, se garantizará la participación de los ayuntamientos, de los consejos insulares y de los propietarios y otros titulares de derechos afectados, en los términos que se determinen reglamentariamente.
+Se modifica por la disposición final 49.5 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-49
+
+### Artículo 34
+
+Artículo 34. Junta asesora o rectora.
+1. Los parques, los parajes naturales y las reservas naturales dispondrán de una junta asesora o rectora, como órgano de participación social y de asesoramiento.
+2. La junta asesora o rectora es un órgano de consulta y asesoramiento, sin perjuicio de otras funciones que se le puedan encomendar.
+3. Su composición incluirá representantes de los propietarios, de los intereses sociales y económicos afectados, de las entidades de conservación de la naturaleza y de las administraciones territoriales.
+4. Su creación, composición, funciones y funcionamiento se determinarán en el acto de creación, de acuerdo con la normativa reguladora de los órganos colegiados.
+Se modifica por la disposición final 49.6 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-49
+
+## TÍTULO IV
+
+De la Red Ecológica Europea «Natura 2000»
+
+### Artículo 35
+
+Artículo 35. Red ecológica europea «Natura 2000».
+1. Las zonas especiales de conservación y las zonas de especial protección para las aves declaradas en las Illes Balears se integran en la red ecológica europea «Natura 2000».
+2. La declaración de estas zonas tiene como objeto contribuir a garantizar la biodiversidad en el marco europeo mediante la conservación de los hábitats naturales y de la fauna y flora silvestres existentes en el territorio de las Illes Balears de acuerdo con la normativa comunitaria, teniendo en cuenta, al mismo tiempo, las exigencias económicas, sociales y culturales, así como las particularidades de las Illes Balears.
+
+### Artículo 36
+
+Artículo 36. Zonas especiales de conservación.
+1. Las zonas especiales de conservación son los espacios delimitados para garantizar el mantenimiento o, en su caso, el restablecimiento a un estado de conservación favorable, de los tipos de hábitats naturales de interés comunitario y de los hábitats de las especies de interés comunitario, establecidos conforme a la normativa europea.
+2. Una vez aprobadas o ampliadas las listas de LIC por la Comisión Europea, éstas se declararán como ZEC por el Consejo de Gobierno mediante la aprobación del correspondiente plan de gestión, sin perjuicio de la adopción de otras medidas de conservación de las previstas en el artículo 38 de esta ley.
+3. El procedimiento de declaración de una ZEC y de elaboración del correspondiente plan de gestión se tramita conjuntamente, de conformidad con lo previsto en el artículo 6 ter de esta ley. El procedimiento de modificación es el que prevé el artículo 6 quater de esta ley.
+Se modifica el apartado 2 y se añade el 3 por el art. 14 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+ Se modifica el apartado 2 por el art. 28 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
+ Se modifica el apartado 2 por el art. 28 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
+
+### Artículo 37
+
+Artículo 37. Zonas de especial protección para las aves.
+1. Las zonas de especial protección para las aves son los espacios delimitados para el establecimiento de medidas de conservación especiales con el fin de asegurar la supervivencia y la reproducción de las especies de aves, en particular, de aquellas incluidas en el anexo IV de la Ley 42/2007, de 13 de diciembre, del patrimonio natural y de la biodiversidad, y de las aves migratorias no incluidas en el citado anexo pero cuya llegada sea regular.
+2. Las zonas de especial protección para las aves se declaran por acuerdo del Consejo de Gobierno, siguiendo el procedimiento previsto en el apartado 1 del artículo 6 ter de esta ley.
+El procedimiento de modificación es el que prevé el artículo 6 quater de esta ley.
+Se modifica por el art. 15 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+ Se modifica el apartado 2 por el art. 29 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
+ Se modifica el apartado 2 por el art. 29 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
+
+### Artículo 38
+
+Artículo 38. Medidas de conservación en la red «Natura 2000».
+1. El Gobierno de las Illes Balears fijará las medidas de conservación necesarias que implicarán, en su caso, planes de gestión adecuados, específicos o integrados en otros instrumentos de planificación, y las apropiadas medidas reglamentarias, ejecutivas o contractuales, que respondan a las exigencias ecológicas de los tipos de hábitats y de las especies de interés comunitario presentes en las zonas que formen parte de la red ecológica europea «Natura 2000».
+2. En estas zonas, las administraciones públicas, en el ámbito de sus competencias, deben velar para evitar el deterioro de los hábitats naturales, de los hábitats de las especies, así como de las alteraciones que repercutan en las especies que han motivado la designación de las zonas, en la medida que las mencionadas alteraciones puedan tener un efecto apreciable en lo que concierne a los objetivos de conservación.
+3. Las medidas reglamentarias de conservación y, si procede, los planes de gestión para estas zonas se aprueban por decreto del Gobierno de las Illes Balears. Estas medidas se tienen que revisar en un plazo no superior a doce años para comprobar la eficacia de las medidas implementadas y, en su caso, modificarlas.
+Se modifica el apartado 3 por el art. 16 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 39
+
+Artículo 39. Evaluación de repercusiones.
+1. De conformidad con lo establecido en el apartado 4 del artículo 46 de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, cualquier plan, programa o proyecto que, sin tener relación directa con la gestión de un lugar de la Red Natura 2000, o sin ser necesario para esta, pueda afectar de modo apreciable a los citados espacios, ya sea individualmente o en combinación con otros planes, programas o proyectos, deberá someterse a una adecuada evaluación de sus repercusiones en el espacio, teniendo en cuenta los objetivos de conservación.
+2. El promotor del plan, programa o proyecto presentará ante el órgano sustantivo, junto con el plan, proyecto o programa, un documento donde se describan y localicen todas las actuaciones susceptibles de producir impactos, así como las medidas correctoras o protectoras destinadas a minimizarlos.
+El órgano sustantivo remitirá la solicitud al órgano competente en materia de Red Natura 2000 junto con la documentación presentada. En el caso de actividades sujetas a declaración responsable o comunicación previa, el promotor podrá presentar la documentación directamente ante el órgano competente en materia de Red Natura 2000.
+3. Mediante resolución del consejero competente en materia de Red Natura 2000, dictada en el marco del título IV de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se establecerá la documentación que el órgano competente en esta materia podrá requerir al promotor para valorar de forma adecuada la posible afección en el lugar protegido. Además, dicho requerimiento podrá incluir propuestas alternativas o mejoras que contribuyan a mitigar las posibles repercusiones sobre los espacios de la Red Natura 2000.
+4. El órgano competente en materia de Red Natura 2000 analizará si el plan, programa o proyecto tiene relación directa con la gestión de un espacio de la Red Natura 2000 o si es necesario para esta. En caso negativo, se declarará si el plan, programa o proyecto puede afectar de forma apreciable a dichos espacios, ya sea individualmente o en combinación con otros planes, programas o proyectos.
+5. El plazo para dictar la resolución será de dos meses a contar desde la fecha de entrada de la solicitud en el registro del órgano competente en materia de Red Natura 2000.
+6. Mediante orden del consejero competente en materia de Red Natura 2000 se establecerán el procedimiento de evaluación de repercusiones y los criterios que permitan definir el apreciable carácter de las posibles afecciones de forma objetiva y particularizada.
+7. En el caso de que el plan, programa o proyecto deba someterse al informe previsto en el artículo 21 de esta ley, el órgano competente en materia de espacios naturales protegidos también será el encargado de declarar la posible afección del plan, programa o proyecto al espacio de la Red Natura 2000. No obstante, dicha declaración no será necesaria si el plan, programa o proyecto es declarado inviable de acuerdo con el informe previsto en el artículo 21 de esta ley.
+8. Cuando se declare que un plan, programa o proyecto pueda afectar de forma apreciable a un lugar de la Red Natura 2000, se someterá al procedimiento de evaluación de impacto ambiental.
+9. La evaluación de la posible afección a la Red Natura 2000 de los planes, programas y proyectos que tengan que someterse directamente al procedimiento de evaluación de impacto ambiental se realizará en el marco del citado procedimiento.
+10. Conforme a lo establecido en el apartado 4 del artículo 46 de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, en vista de las conclusiones de la evaluación, plasmadas en la declaración de repercusiones en la Red Natura 2000, y sin perjuicio de lo dispuesto en el siguiente apartado, los órganos competentes para aprobar o autorizar los planes, programas o proyectos, o para controlar el ejercicio de una actividad sujeta a la presentación de una declaración responsable o una comunicación previa, solo podrán manifestar su conformidad con estos después de haberse asegurado de que no causen perjuicio a la integridad del espacio en cuestión y, en su caso, tras haberlos sometido a información pública.
+11. No obstante lo establecido en el apartado anterior, y de conformidad con lo dispuesto en los apartados 5, 6 y 7 del artículo 46 de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, podrán autorizarse, aprobarse o permitirse planes, programas o proyectos con repercusiones negativas sobre la integridad del lugar de la Red Natura 2000 si se cumplen todos los requisitos previstos en la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad.
+Se modifica por el art. 1.2 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721
+ Se modifica por el art. 33.2 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a3-5
+ Se modifican los apartados 1 a 5 por la disposición final 2.1 de la Ley 9/2018, de 31 de julio. Ref. BOE-A-2018-13194
+ Se modifica por la disposición final 2.3 de la Ley 12/2016, de 17 de agosto. Ref. BOE-A-2016-8518#df-2.
+ Se modifica por el art. 30 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
+ Se modifica por el art. 30 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
+
+## TÍTULO IV bis
+
+TÍTULO IV BIS
+Planes y proyectos de gestión y actividades ambientales
+Se añade por el art. 31 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
+ Téngase en cuenta que este título ya había sido añadido por el Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
+ Se añade por el art. 31 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
+
+### Artículo 39 bis
+
+Artículo 39 bis. Planes y proyectos de gestión ambiental que afecten a espacios de relevancia ambiental.
+(Derogado).
+Se deroga por la disposición derogatoria única.2.c) de la Ley 12/2016, de 17 de agosto. Ref. BOE-A-2016-8518#dd.
+ Se modifica por el art. 31 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
+ Se añade por el art. 31 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
+
+### Artículo 39 ter
+
+Artículo 39 ter. Actividades ambientales en espacio de relevancia ambiental.
+(Derogado).
+Se deroga por la disposición derogatoria única.2.c) de la Ley 12/2016, de 17 de agosto. Ref. BOE-A-2016-8518#dd.
+ Se modifica por el art. 31 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
+ Se añade por el art. 31 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
+
+## TÍTULO V
+
+De los parques nacionales en las Illes Balears
+
+### Artículo 40
+
+Artículo 40. Propuesta de declaración.
+El Consejo de Gobierno, oído el Consejo Asesor de Espacios de Relevancia Ambiental, puede proponer al Estado la declaración como parque nacional de un espacio natural de las Illes Balears que cumpla las condiciones que establezca la normativa básica estatal para ser declarado como tal.
+
+### Artículo 41
+
+Artículo 41. Gestión.
+1. La gestión y la administración ambiental de los parques nacionales de las Illes Balears corresponden a la consejería competente en materia de medio ambiente que puede desarrollarlas mediante entes instrumentales.
+2. Para la toma de decisiones en la gestión medioambiente de parques nacionales pueden constituirse, mediante acuerdos o convenios, autoridades de gestión para dar entrada a otras administraciones públicas, así como a los representantes de titulares de derechos en los espacios naturales protegidos. El presidente de la autoridad de gestión debe ser nombrado por el consejero de Medio Ambiente.
+Las autoridades de gestión se adscriben al organismo competente en la gestión y la administración ambiental de los espacios naturales protegidos.
+3. Para velar por el cumplimiento de las normas establecidas en interés de los parques nacionales y como órgano de participación de la sociedad, debe constituirse un patronato en el cual deben estar representadas las administraciones públicas, los propietarios y las instituciones, asociaciones y organizaciones relacionadas con el parque o cuyas finalidades concuerden con los principios inspiradores de esta ley.
+El presidente del patronato debe ser nombrado por el consejero de Medio Ambiente. El número de los representantes designados por el Gobierno de las Illes Balears y el de los designados por el Gobierno de la nación deben ser paritarios.
+Los patronatos se crean de conformidad con la normativa vigente de régimen jurídico para la creación de órganos colegiados y se adscriben al organismo competente para la gestión y la administración ambiental de los espacios naturales protegidos.
+
+## TÍTULO V BIS
+
+Xarxa D'Àrees de Lleure a la Natura
+Se añade por el art. 32 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
+ Téngase en cuenta que este título ya había sido añadido por el Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
+ Se añade por el art. 32 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
+
+### Artículo 41 bis
+
+Artículo 41 bis. Xarxa d'Àrees de Lleure a la Natura.
+La Red de áreas de disfrute en la naturaleza, adscrita a la consejería competente en materia de medio ambiente, ha de integrar las instalaciones y los equipamientos de titularidad autonómica y, a petición propia, los de titularidad insular, local y privada, relacionados con los usos recreativos, educativos, culturales y similares, como refugios, albergues, casas de colonias, áreas recreativas, áreas de acampada y otros recursos de naturaleza análoga.
+No obstante, se pueden adscribir a la red instalaciones y/o equipamientos de otras administraciones públicas y otras instalaciones y/o equipamientos de titularidad autonómica situados fuera de espacios de relevancia ambiental y de características análogas, a los únicos efectos, en este último caso, de garantizar la unidad de gestión de estas instalaciones.
+Se modifica el primer párrafo por la disposición final 3.2 de la Ley 12/2014, de 16 de diciembre. Ref. BOE-A-2015-951#dftercera.
+ Se modifica por el art. 32 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
+ Se añade por el art. 32 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
+
+### Artículo 41 ter
+
+Artículo 41 ter. Plan Especial de la Red de Áreas de Ocio en la Naturaleza.
+1. Las instalaciones y/o los equipamientos a que se refiere el artículo anterior, incluidos en el Plan Especial de la Red de Áreas de Ocio en la Naturaleza, cuando estén contemplados con un grado de detalle suficiente, se consideran actividades relacionadas con el destino y la naturaleza de las fincas y no requieren la declaración de interés general que establece el apartado 3 del artículo 22 de la Ley 6/1997, de 8 de julio, del suelo rústico de las Illes Balears.
+2. El Plan Especial de la Red de Áreas de Ocio en la Naturaleza se aprobará y se modificará mediante orden del consejero competente en medio natural.
+Se modifica por la disposición final 49.7 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-49
+ Se modifica el apartado 2 por el art. 17 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+ Se modifica por el art. 32 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
+ Se añade por el art. 32 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
+
+## TÍTULO VI
+
+Otras disposiciones
+
+### Artículo 42
+
+Artículo 42. Compatibilidad de las diferentes categorías de espacios de relevancia ambiental.
+1. Dentro de un mismo ámbito territorial pueden coexistir diferentes figuras de protección si lo requieren sus particulares características y resulta conveniente para la consecución de la protección de los valores naturales.
+2. En estos casos, los instrumentos de planeamiento tienen que ser coordinados para poner en valor las previsiones del instrumento preexistente o unificarse a fin de que los regímenes aplicables en función de cada categoría de espacio natural protegido o espacio protegido Red Natura 2000 conformen un todo coherente.
+3. Los planes de gestión que se elaboren para espacios que ya dispongan de un plan de ordenación de los recursos naturales desarrollarán las directrices y los criterios del referido plan de ordenación.
+Se modifica el apartado 2 y se añade el 3 por el art. 18 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 43
+
+Artículo 43. Denominaciones.
+1. Las denominaciones de las diferentes categorías mencionadas en esta ley se han de utilizar únicamente para los espacios naturales que se declaren conforme a esta ley y a su normativa de desarrollo.
+2. Sin perjuicio de lo que prevea en cada momento la legislación vigente en materia de patentes y marcas, se prohíbe el uso de la denominación de las zonas protegidas sin permiso expreso de la consejería competente en materia de biodiversidad.
+3. Siempre respetando la normativa sectorial y en especial la de carácter agroalimentario, las producciones de los espacios naturales protegidos y de sus áreas de influencia socioeconómica podrán utilizar, con autorización previa del organismo competente en materia de medio ambiente, una etiqueta de productos referenciada en la denominación del espacio natural protegido.
+
+### Artículo 44
+
+Artículo 44. Señalización.
+1. El órgano ambiental tiene que instalar señales informativas en el ámbito territorial de los espacios de relevancia ambiental de conformidad con la normativa de señalización que establezca el Gobierno de las Illes Balears.
+2. La instalación de estas señales comporta la obligación de los titulares de derecho de dar paso y permitir el desarrollo de las tareas necesarias para la colocación, conservación y renovación de estas.
+
+### Artículo 45
+
+Artículo 45. Convenios y servidumbres de interés medioambiental.
+1. El Gobierno de las Illes Balears puede suscribir acuerdos o convenios con los titulares de derechos sobre terrenos incluidos en espacios naturales protegidos a fin de que estos acepten, a cambio de una contraprestación económica o de otro tipo, el desarrollo de tareas y actuaciones relacionadas con la gestión medioambiental que impliquen limitaciones de las actividades, los usos o los aprovechamientos que excedan del contenido normal del derecho de propiedad.
+2. Los titulares pueden ceder sus derechos de manera selectiva y las limitaciones pueden afectar a solo una parte de la finca.
+3. Estos acuerdos o convenios pueden consistir en la constitución de una servidumbre que deberá inscribirse en el Registro de la Propiedad.
+
+## TÍTULO VII
+
+Régimen de infracciones, sanciones y policía administrativa
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 46
+
+Artículo 46. Potestad sancionadora.
+1. La potestad sancionadora en relación con el régimen previsto en esta ley corresponde a la Administración de la comunidad autónoma de las Illes Balears.
+2. La potestad sancionadora tiene que ejercerse siguiendo los trámites establecidos por la normativa reguladora del procedimiento a seguir por la Administración de la comunidad autónoma de las Illes Balears en el ejercicio de la potestad sancionadora.
+3. El titular de la dirección general competente en materia de protección de espacios naturales es el órgano competente para iniciar el procedimiento sancionador.
+4. La competencia para resolver los procedimientos sancionadores corresponde:
+a) Al titular de la dirección general competente en materia de protección de espacios naturales, para las infracciones leves y graves.
+b) Al titular de la consejería competente en materia de medio natural, para las infracciones muy graves.
+5. Las autoridades y los órganos de la Administración de la comunidad autónoma de las Illes Balears competentes para imponer sanciones con arreglo a esta ley pueden acceder a los datos relativos a los sujetos infractores que estén directamente relacionados con la investigación de los hechos constitutivos de infracción, sin necesidad de previo consentimiento del titular de los datos, con las garantías de seguridad, integridad y disponibilidad, de conformidad con lo establecido en la normativa en materia de protección de datos. Este acceso debe articularse mediante consulta a las plataformas de intermediación de datos o cualesquiera otros sistemas electrónicos habilitados a tal efecto.
+Se modifica el apartado 4 por la disposición final 49.8 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-49
+ Se añade el apartado 5 por el art. 19 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 47
+
+Artículo 47. Medidas provisionales.
+1. El órgano competente para acordar el inicio del procedimiento sancionador puede adoptar medidas cautelares con el fin de evitar la continuación de la infracción o el agravamiento del daño causado, mediante un acto motivado.
+2. Estas medidas provisionales tienen que ser congruentes con la naturaleza de la infracción y proporcionadas a su gravedad.
+3. Antes del inicio del procedimiento, el consejero competente en materia de medio ambiente puede adoptar medidas cautelares en casos de urgencia y en aquellos otros en que la afectación de los intereses públicos lo requiera.
+4. En caso de infracción flagrante o daño grave e inminente al medio ambiente, el agente de medio ambiente, en cumplimiento de las obligaciones derivadas de su tarea, tiene que ordenar la paralización de la actividad, bajo los principios de legalidad, precaución y proporcionalidad, atendiendo siempre a la gravedad del hecho. En cualquier caso, tiene que hacer constar en el acta de inspección la orden de paralización inmediata de la actividad y advertir al presunto infractor que la desobediencia puede dar lugar a la responsabilidad penal o administrativa que derive de la comisión de la infracción o el hecho delictivo presuntos.
+Asimismo, podrá decomisar los instrumentos utilizados, para evitar la continuidad del daño ocasionado por la actividad presuntamente infractora, así como los efectos, recursos, objetos o productos directamente obtenidos.
+5. Las medidas provisionales pueden consistir en la paralización de la actividad cuando ésta carezca de título habilitante, no haya sido sometida al trámite previsto en el artículo 39 de esta ley y pueda afectar a los hábitats o las especies presentes en el espacio protegido Red Natura 2000 de acuerdo con los precedentes administrativos.
+Se modifica el apartado 4 y se añade el 5 por el art. 20 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+ Se añade el apartado 4 por la disposición final 3 de la Ley 8/2019, de 19 de febrero. Ref. BOE-A-2019-5577
+
+### Artículo 48
+
+Artículo 48. Facultad inspectora.
+1. Sin perjuicio de la competencia de otras administraciones, la inspección, la vigilancia y el control de las materias objeto de esta ley corresponden a la consejería competente en materia de medio ambiente la cual promoverá los mecanismos de control necesarios con los otros órganos de la Administración autonómica y del resto de administraciones públicas.
+2. Los cuerpos de inspección, vigilancia y control de la Consejería de Medio Ambiente, a los cuales se les atribuyan estas funciones, tienen la condición de agentes de la autoridad siempre que las ejerzan en cumplimiento de esta ley y acrediten su condición y actuación con la correspondiente documentación.
+
+## CAPÍTULO II
+
+Infracciones
+
+### Artículo 49
+
+Artículo 49. Infracciones y régimen de responsabilidad.
+1. Constituyen infracciones administrativas las actuaciones u omisiones dolosas o culposas cometidas dentro de los espacios de relevancia ambiental tipificadas en esta ley.
+2. Son responsables de las infracciones previstas en esta ley las personas físicas o jurídicas que realicen el hecho tipificado por sí mismas o conjuntamente, o por medio de otra de la que se sirvan como instrumento.
+3. Cuando la persona responsable de los hechos cometidos sea menor de dieciocho años, responderán solidariamente del pago de las sanciones pecuniarias que se le impongan sus padres, tutores, acogedores y guardadores legales o de hecho, por este orden, en razón al incumplimiento de la obligación impuesta a éstos que comporta un deber de prevenir la infracción administrativa que se impute a los menores.
+4. Cuando no sea posible determinar el grado de participación de las distintas personas que hubiesen intervenido en la realización de la infracción, la responsabilidad será solidaria, sin perjuicio del derecho a repetir frente a los demás participantes por parte de aquel o aquellos que hubiesen hecho frente a las responsabilidades.
+5. Las personas titulares de los vehículos, las embarcaciones o las aeronaves, con o mediante los cuales se haya cometido una infracción, tendrán la obligación de facilitar a la administración la identificación del conductor responsable de la infracción. En caso de incumplimiento de esta obligación, previo requerimiento de la administración, serán responsables subsidiarios de la infracción.
+Las personas titulares de los vehículos, las embarcaciones o las aeronaves con los cuales se haya cometido una infracción serán responsables subsidiarias en caso de impago de la multa impuesta al conductor. El o la responsable que haya satisfecho la multa tiene derecho de reembolso contra la persona infractora.
+6. Las infracciones administrativas se clasifican en leves, graves y muy graves.
+Se modifica por el art. 21 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 50
+
+Artículo 50. Infracciones leves.
+1. Se consideran infracciones administrativas leves:
+a) La alteración de las condiciones de un espacio o de sus productos mediante la ocupación, la roturación, la tala, el arranque, el movimiento de tierras, la extracción de materiales u otras acciones, sin autorización.
+b) La captura, la tenencia, la muerte o la persecución de animales silvestres sin la preceptiva autorización administrativa, cuando no concurran circunstancias que determinen la calificación como infracción grave o muy grave.
+c) El abandono, fuera de los lugares destinados a esta finalidad, de basura, desechos, residuos u otros materiales sólidos o líquidos ajenos al medio natural.
+d) La circulación de cualquier tipo de vehículo campo a través o por pistas forestales cuyo uso se haya determinado como restringido, sin autorización; quedan excluidos de esta prohibición los vehículos de los titulares del terreno o los que estos mismos hayan autorizado para las actividades de gestión de la actividad agraria. Igualmente, la navegación por las zonas del ámbito marino de navegación prohibida o restringida, sin autorización.
+e) El estacionamiento de vehículos fuera de las áreas de aparcamiento señalizadas o de los espacios habilitados a tal efecto.
+f) Dificultar la acción de los agentes de la autoridad encargados de la vigilancia de los espacios.
+g) La acampada, el vivac y la pernocta al aire libre, sin autorización o incumpliendo las condiciones.
+h) La organización de actos multitudinarios en los espacios naturales sin la autorización preceptiva. No se consideran como tales las fiestas que se celebren con carácter privado o familiar y los festejos tradicionales de carácter popular, como pancaritats y romerías, con una finalidad no comercial en las edificaciones e instalaciones existentes y en los alrededores inmediatos.
+2. Asimismo, son infracciones administrativas leves la vulneración de otras normas específicas contenidas en las disposiciones normativas y en los instrumentos de planificación, protección y gestión referidas a: zonas de acceso restringido, equipamientos, limitaciones establecidas en relación con la afección a elementos de la flora, fauna y reino mineral, instalaciones y construcciones, aprovechamientos forestales, estacionamiento de vehículos, señalizaciones y cerramientos, actividades cinegéticas, piscícolas, deportivas, recreativas, comerciales, energéticas, actividades relacionadas con la investigación, video y fotografía, actividades sujetas a evaluación de impacto ambiental, aguas residuales y otras actividades que figuren en las disposiciones normativas y en los instrumentos de planificación.
+3. Con independencia del ámbito territorial donde se cometa, se considera infracción administrativa el uso de las denominaciones y los anagramas de los espacios de relevancia ambiental sin autorización.
+4. Constituyen igualmente infracciones administrativas leves las que prevén los dos artículos siguientes cuando, por su escasa entidad, no sean merecedoras de la calificación de graves o muy graves.
+Se modifica por la disposición final 49.9 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-49
+
+### Artículo 51
+
+Artículo 51. Infracciones graves.
+Son infracciones administrativas graves:
+a. Las conductas previstas en las letras a, b, d, g y h del apartado 1 y las previstas en el apartado 2 del artículo anterior cuando se produzcan daños significativos en el medio natural o se lleven a cabo con finalidades de carácter comercial o empresarial.
+b. La obstrucción a la actuación de los agentes de la autoridad encargados de la vigilancia del espacio natural.
+c. La introducción de especies de flora y fauna silvestres sin autorización.
+d. La alteración de los procesos ecológicos que sean fundamentales para la integridad de los ecosistemas.
+e. (Suprimida)
+f. La acampada, el vivac y la pernocta al aire libre en lugares prohibidos.
+g. La destrucción de la señalización.
+h. La organización de actos multitudinarios en las zonas donde esté prohibido.
+i. Las acciones que atenten de forma grave contra la flora, la fauna o la configuración geológica de los espacios naturales, siempre que el daño sea reversible.
+j) La utilización o la liberación de organismos modificados genéticamente en los espacios de relevancia ambiental sin la preceptiva autorización de la administración autonómica.
+Se suprime la letra e) por la disposición final 49.10 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-49
+ Se añade la letra j) por el art. 22 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 52
+
+Artículo 52. Infracciones muy graves.
+Tienen la consideración de infracciones muy graves:
+a. La utilización de productos químicos, sustancias biológicas, la realización de vertidos o el vertido de residuos que alteren las condiciones de habitabilidad de los espacios con daño a los valores que contienen.
+b. (Suprimida)
+c. Las conductas previstas en las letras a, b, d, g y h del apartado 1 y las previstas en el apartado 2 del artículo 51 cuando produzcan daños muy graves en el medio natural.
+d. Las alteraciones deliberadas e irreversibles de los hábitats de los espacios naturales en contra de su normativa o planificación.
+Se suprime la letra b) por la disposición final 49.11 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-49
+
+### Artículo 53
+
+Artículo 53. Prescripción de las infracciones.
+Las infracciones previstas en esta ley prescriben a los cuatro años, las muy graves; a los dos años, las graves; y en el plazo de un año, las leves. La prescripción de la infracción no supone la imposibilidad de exigir la restauración del medio natural y la reposición a su estado anterior.
+
+## CAPÍTULO III
+
+Sanciones
+
+### Artículo 54
+
+Artículo 54. Sanciones.
+1. Las infracciones tipificadas en los artículos anteriores serán sancionadas con las siguientes multas:
+a) Las infracciones leves, con multa de 300 a 6.000 euros.
+b) Las infracciones graves, con multa de 6.001 a 100.000 euros.
+c) Las infracciones muy graves, con multa de 100.001 a 450.000 euros.
+2. La cuantía de las sanciones impuestas por infracciones graves o muy graves puede incrementarse hasta el límite del 120% del beneficio ilícito obtenido por el sujeto infractor, hasta el límite de 3.000.000 de euros.
+3. Además de las sanciones pecuniarias relacionadas en el apartado anterior, la comisión de infracciones graves o muy graves puede comportar también:
+a. La suspensión del derecho a obtener o percibir subvenciones o ayudas públicas de la comunidad autónoma en las materias relacionadas con el objeto de esta ley, por un plazo de un año en el caso de infracciones graves, y de entre dos y cuatro años en el caso de infracciones muy graves.
+b. Inhabilitación del infractor para ser titular de autorizaciones, licencias y concesiones administrativas, o su revocación en los mismos plazos que la letra a) anterior.
+c. El cierre del establecimiento o la suspensión de la actividad, también en los plazos fijados en la letra a) de este artículo. En este caso, se deberá incorporar al expediente sancionador un informe del órgano competente en razón de la materia.
+Se modifica el apartado 1 por el art. 1.3 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721
+ Se modifica el apartado 1 por el art. 33.3 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a3-5
+Téngase en cuenta que el Gobierno, por decreto publicado únicamente en el Boletín Oficial de las Illes Balears, tiene que actualizar periódicamente la cuantía de las sanciones según establece la disposición final 1 de la presente Ley.
+
+### Artículo 55
+
+Artículo 55. Gradación de las sanciones.
+La gradación de las sanciones, dentro de los intervalos dispuestos en el artículo anterior, debe guardar la debida adecuación entre la gravedad de la infracción y la sanción aplicada, considerando especialmente los siguientes criterios para la gradación de la sanción:
+a) La existencia de intencionalidad.
+b) La reiteración por comisión de más de una infracción cuando así se haya declarado por resolución firme.
+c) La reincidencia por comisión en el plazo de un año de más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme.
+d) Los daños causados al medio ambiente y a los recursos naturales objeto de protección de esta ley o a la salud de las personas o el peligro creado para su seguridad.
+e) El ánimo de lucro o la cuantía del beneficio obtenido cuando no sea elemento constitutivo del tipo.
+f) El hecho de ocupar un cargo o una función que obliga a hacer cumplir los preceptos de esta ley.
+g) La capacidad económica de la persona infractora y el grado de participación de las personas responsables.
+h) El carácter irreversible de los daños causados cuando no sea un elemento constitutivo del tipo.
+i) La colaboración con la administración y la adopción, con anterioridad a la iniciación de un expediente sancionador, de medidas correctoras que minimicen o resuelvan los efectos perjudiciales de la actuación del infractor o la infractora, que se considerará como atenuante.
+Se modifica por el art. 23 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Artículo 56
+
+Artículo 56. Prescripción de las sanciones.
+Las sanciones previstas en esta ley prescriben en los plazos siguientes:
+a. Las impuestas por comisión de infracciones leves, en el plazo de un año.
+b. Las impuestas por comisión de infracciones graves, en el plazo de dos años.
+c. Las impuestas por comisión de infracciones muy graves, en el plazo de cuatro años.
+
+### Artículo 56 bis
+
+Artículo 56 bis. Restauración del medio natural.
+1. La imposición de sanciones lo es sin perjuicio de la obligación de la persona infractora de restaurar el daño causado, o las alteraciones causadas, en la realidad física y biológica.
+2. Con carácter general, la restauración consistirá en la reposición del medio natural al estado anterior a la comisión de la infracción.
+La exigencia de reponer la situación alterada a su situación anterior comprende la obligación de la persona infractora, en su caso, de derribar o eliminar las instalaciones u obras ilegales, así como aquellas actuaciones que sean necesarias, de acuerdo con los plazos, la forma y las condiciones que se establezcan.
+Si no fuera posible la reposición del medio natural, la administración podrá imponer a la persona responsable otras medidas sustitutivas encaminadas a recuperar el espacio o la zona dañada, sin que en ningún caso el importe de estas medidas suponga un menor coste económico que el que hubiera procedido para la reposición.
+3. La obligación de restaurar o reparar el daño causado es imprescriptible.
+4. El restablecimiento de la realidad física alterada antes de la resolución que la ordena hace que la sanción se reduzca un 40 %. Este porcentaje es acumulable a los porcentajes de reducción por el reconocimiento voluntario de la responsabilidad y de pago anticipado de las sanciones pecuniarias.
+Este porcentaje es de un 10 % si se realiza después de la resolución que ordena el restablecimiento pero dentro del plazo otorgado al efecto.
+5. El incumplimiento de la orden de restitución, cuando sea firme, dará lugar, mientras persista, a la imposición de multas coercitivas sucesivas por períodos mínimos de treinta días y cuantía, en cada ocasión, del 10 % de la sanción.
+En caso de impago, las multas serán exigibles por vía de apremio.
+Se añade por el art. 24 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se modifica la letra a) del apartado 1 del artículo 19 de la Ley 6/1999, de 3 de abril, de las directrices de ordenación territorial de las Illes Balears y de medidas tributarias, que queda redactado de la manera siguiente:
+«a) Las áreas naturales de especial interés de alto nivel de protección, definidas por la Ley 1/1991, de 30 de enero, de espacios naturales y de régimen urbanístico de las áreas de especial protección de las Illes Balears, así como los parques, las reservas naturales y los monumentos naturales declarados en las Illes Balears, así como también las áreas clasificadas como zonas de exclusión en los parajes naturales declarados, de conformidad, con la presente ley.»
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La entrada en vigor de esta ley supone el inicio del procedimiento para la elaboración del Plan de ordenación de los recursos naturales de Cala d’Hort y Cap Llentrisca, con el ámbito territorial grafiado en el anexo I de esta ley. El Plan de ordenación de los recursos naturales que se apruebe por el Gobierno de las Illes Balears tiene que prohibir expresamente la ejecución del proyecto de campo de golf de Cala d’Hort y su oferta complementaria.
+En las zonas de uso compatible o de uso general situadas fuera de las áreas de protección territorial fijadas por el Plan territorial de Ibiza y Formentera será de aplicación el régimen previsto en el artículo 57.2 del Plan de ordenación de los recursos naturales del Parque natural de ses Salines de Ibiza y Formentera aprobado por acuerdo del Consejo de Gobierno de 24 de mayo de 2002.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Se mantiene la declaración de las reservas naturales del Vedrà, el Vedranell y de los islotes de Ponent de acuerdo con la delimitación y el régimen jurídico establecido en el Decreto 24/2002, de 15 de febrero. Restan vigentes las disposiciones que establece el Plan de ordenación de los recursos naturales aprobado por acuerdo del Consejo de Gobierno de 15 de febrero de 2002 para las áreas de protección estricta que conforman los islotes y para las áreas de conservación del ámbito marino que los rodean.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+1. Los propietarios de los bienes ubicados en espacios de relevancia ambiental podrán convenir con las administraciones públicas competentes la cesión en propiedad de estos bienes en pago de sus deudas, de acuerdo con la legislación aplicable.
+2. La entrega en propiedad de bienes ubicados en espacios de relevancia ambiental podrá también convenirse a favor de las entidades locales como sustitución de las cesiones y otras cargas de obligado cumplimiento, derivadas de la ejecución de la legislación urbanística, siempre que garanticen la satisfacción de los beneficios que al interés general reporten estas cesiones.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+La consejería competente en materia de hacienda tiene que adoptar las medidas necesarias para dotar los créditos presupuestarios suficientes para el cumplimiento de los objetivos fijados en esta ley.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Fiestas en embarcaciones.
+Se declaran uso prohibido en el ámbito de los espacios de relevancia ambiental marinos con continuidad ecológica reconocida la difusión, la comercialización y la realización de fiestas y acontecimientos multitudinarios en embarcaciones con música o que alteren sensiblemente los niveles sonoros naturales del lugar, por el hecho de tratarse de una actividad incompatible con los objetivos de conservación de estos espacios protegidos y con el descanso de las personas que disfrutan de las playas y del litoral.
+Se modifica por la disposición final 2.3 de la Ley 9/2018, de 31 de julio. Ref. BOE-A-2018-13194
+ Se añade por la disposición final 2.4 de la Ley 12/2016, de 17 de agosto. Ref. BOE-A-2016-8518#df-2.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Coordinación entre las administraciones públicas en la gestión de los espacios de relevancia ambiental.
+1. La gestión de los espacios de relevancia ambiental por parte de la Consejería de Medio Ambiente y Territorio debe realizarse sin perjuicio de la existencia, en un mismo espacio, del ejercicio de las competencias por otras administraciones públicas, con las cuales se establecerán los mecanismos de coordinación pertinentes.
+En todo caso, en la toma de decisiones debe prevalecer la protección de los valores naturales del espacio.
+2. Las actuaciones propias de conservación adoptadas por la Consejería de Medio Ambiente y Territorio en un espacio de relevancia ambiental que coincide, total o parcialmente, con el dominio público marítimo-terrestre, se comunicarán a la Demarcación de Costas en las Illes Balears antes de su ejecución.
+A estos efectos, se entienden por actuaciones propias de conservación aquellas relacionadas con la protección de los hábitats y las especies de un espacio de relevancia ambiental consistentes en el establecimiento de elementos de protección, deslinde o señalización.
+En particular, la gestión y la ejecución de actuaciones en los sistemas dunares y en los humedales incluidos dentro de un espacio de relevancia ambiental corresponden a la Consejería de Medio Ambiente y Territorio, en ejercicio de la competencia en materia de medio ambiente.
+Se añade por el art. 25 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Disposición adicional octava
+
+Disposición adicional octava. Evaluación ambiental de los instrumentos de planeamiento de los espacios de relevancia ambiental.
+1. Los instrumentos de planeamiento de los espacios de relevancia ambiental a los que se refiere el artículo 6 bis de esta ley tendrán la consideración de plan de gestión a efectos de lo previsto en la disposición adicional décima de la Ley 42/2007, de 13 de diciembre, del patrimonio natural y de la biodiversidad.
+2. Los instrumentos de planeamiento de los espacios de relevancia ambiental tienen relación directa con la gestión de un espacio protegido Red Natura 2000 o es necesario para su gestión, a los efectos de lo que prevén la disposición adicional séptima de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, y el artículo 39 de esta ley.
+Se añade por el art. 26 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los espacios naturales protegidos existentes con anterioridad a la entrada en vigor de esta ley mantienen la naturaleza de sus respectivas declaraciones y su régimen jurídico. La reserva natural de la Albufereta queda recalificada como reserva natural especial.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Hasta que no se desarrollen reglamentariamente la composición y las funciones del patronato según lo que prevé el artículo 41.3 de esta ley, el Patronato del Parque nacional marítimo-terrestre del archipiélago de Cabrera continuará ejerciendo las funciones que ha venido desarrollando.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Usos autorizables en las zonas de exclusión.
+Hasta que se aprueben los instrumentos de planificación y gestión de los espacios de relevancia ambiental o se apruebe la adaptación de los vigentes a las previsiones del artículo 22.a) de esta ley, se consideran usos autorizables el tráfico a pie por caminos y senderos existentes, la utilización del dominio público marítimo-terrestre para los usos comunes públicos y gratuitos contemplados en su normativa reguladora y el acceso a los bienes de interés cultural de acuerdo con la legislación sectorial.
+Se añade por la disposición final 2.5 de la Ley 12/2016, de 17 de agosto. Ref. BOE-A-2016-8518.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Quedan derogadas todas las disposiciones de igual o inferior rango que se oponen a lo establecido en esta ley y, en especial, los artículos 26 y 27 de la Ley 1/1991, de espacios naturales y régimen urbanístico de las áreas de especial protección de las Islas Baleares.
+2. Sin perjuicio de lo establecido en la disposición adicional tercera se derogan el Decreto 24/2002, de 15 de febrero, por el cual se declaran el Parque natural de Cala d’Hort, Cap Llentrisca y sa Talaia y las reservas naturales del Vedrà, el Vedranell y los islotes de Ponent, y el acuerdo del Consejo de Gobierno de 15 de febrero de 2002 de aprobación del Plan de ordenación de los recursos naturales de Cala d’Hort, Cap de Llentrisca y sa Talaia.
+3. Se deroga la disposición adicional decimoséptima de la Ley 10/2003, de 22 de diciembre, de Medidas Tributarias y Administrativas.
+
+### Disposición final primera
+
+Disposición final primera.
+Mediante un decreto del Gobierno, tiene que actualizarse periódicamente la cuantía de las sanciones que se prevén en esta ley. Esta actualización no puede ser superior al tanto por ciento de incremento que experimente el índice de precios al consumo publicado por el Instituto Nacional de Estadística.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se faculta al Gobierno de las Illes Balears para dictar las disposiciones necesarias para el desarrollo de esta ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Esta ley entra en vigor al día siguiente de su publicación en el «Butlletí Oficial de les Illes Balears».
+
+### Disposición final cuarta
+
+Disposición final cuarta. Efectividad de las determinaciones de los artículos 8 y 8 bis de esta ley.
+Las determinaciones establecidas en los artículos 8 y 8 bis de esta ley no serán de aplicación a aquellas solicitudes de autorización, licencia o concesión que hayan sido debidamente presentadas ante la administración competente que corresponda cuando lo sean de acuerdo con las condiciones que en cada caso se contemplen y siempre que lo hayan estado antes del inicio de la tramitación de los procedimientos que se regulan en los artículos referidos.
+Se añade por la disposición adicional 8 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que correspondan la hagan guardar.
+Palma, 26 de mayo de 2005.
+JAIME FONT BARCELÓ,
+ JAIME MATAS PALOU,
+ Consejero de Medio Ambiente
+ Presidente
+
+## ANEXO I

@@ -1,0 +1,692 @@
+# Ley 4/2016, de 22 de julio, de Protección de los Animales de Compañía de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-2016-11097`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2016-11097
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+LA PRESIDENTA DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo.
+PREÁMBULO
+Como consecuencia de la conciencia nacida en las últimas décadas, en las sociedades de los países económica y culturalmente más avanzados, existe a nivel internacional una corriente, cada vez más extendida, que pretende sentar las bases del respeto que debe regular la relación de las personas con los seres vivos de su entorno y especialmente con los animales. La Declaración Universal de los Derechos del Animal, proclamada el 15 de octubre de 1987, así como los Reglamentos y Directivas Comunitarias en esta materia, han contribuido al desarrollo social y cultural de la sociedad para instaurar respeto, defensa y protección de los animales.
+La Comunidad de Madrid no ha sido, en modo alguno, ajena al movimiento de sensibilización a favor de los animales y puede afirmarse que figura en la vanguardia del movimiento de protección animal, siendo la pionera en regular esta materia con la promulgación de la Ley 1/1990, de 1 de febrero, de Protección de los Animales Domésticos, cuando recogiendo el sentir social de aquellos momentos por los derechos de los animales, el maltrato y el abandono, supo trasladar este sentir a una norma con rango de ley.
+Desde entonces, el giro en la actitud de las personas hacia el trato que reciben los animales, el incremento en las actividades económicas y comerciales relacionadas con los mismos, el aumento en la tenencia doméstica de especies distintas de las tradicionalmente consideradas como animales de compañía, y el rechazo de la sociedad madrileña al sacrificio de animales de compañía, unido a la dispersión de normas sectoriales en la materia, hace imprescindible fijar, en el marco de las competencia en protección animal de la Comunidad de Madrid, una regulación genérica de protección que recoja los principios de respeto, defensa y prohibición del sacrificio de los animales de compañía.
+Esta Ley tiene como finalidad lograr el máximo nivel de protección y bienestar de los animales de compañía, así como fomentar la tenencia responsable de los mismos y está compuesta de 35 artículos, 6 disposiciones adicionales, 2 disposiciones transitorias, 1 disposición derogatoria, 3 disposiciones finales y un anexo, que recoge una relación de los animales cuya tenencia está prohibida fuera de recintos expresamente autorizados.
+La disposición derogatoria incluye expresamente la Ley 1/1990, de 1 de febrero.
+Por lo que respecta a la tramitación, se ha realizado de conformidad con lo previsto en el artículo 22 de la Ley 50/1997, de 27 de noviembre, del Gobierno, que resulta de aplicación supletoria a tenor de lo dispuesto en el artículo 33 del Estatuto de Autonomía de la Comunidad de Madrid y en la Disposición Final Segunda de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid.
+En ese sentido, se han recabado los informes oportunos, destacando la remisión a las distintas Consejerías de la Comunidad de Madrid y al Consejo de Protección y Bienestar Animal.
+Finalmente, el proyecto ha sido informado por la Secretaría General Técnica de la Consejería de Medio Ambiente, Administración Local y Ordenación del Territorio y la Abogacía General de la Comunidad de Madrid.
+En la aprobación de esta Ley opera indirectamente el principio de subsidiariedad entendido como principio organizador de competencias en Estados territorialmente descentralizados, tal y como ha señalado el Consejo de Estado y, por otro lado, se hace uso de las atribuciones que se confieren a la Comunidad de Madrid en su Estatuto de Autonomía en materia de protección del medio ambiente (artículo 27.7), sanidad e higiene (artículo 27.4) y ocio (artículo 26.1.22).
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Esta Ley tiene como objeto regular el régimen de la protección, el bienestar y la tenencia responsable de los animales de compañía de la Comunidad de Madrid.
+
+### Artículo 2
+
+Artículo 2. Finalidad.
+1. Esta Ley tiene como finalidad lograr el máximo nivel de protección y bienestar de los animales de compañía, cualesquiera que fueran sus circunstancias o lugar en que se hallen.
+2. Para alcanzar esta finalidad, se promoverá:
+a) El fomento de la tenencia responsable.
+b) La lucha contra el abandono.
+c) El fomento de la adopción.
+d) La esterilización de los animales y su compra, cría y venta responsable, como pilares fundamentales para evitar la superpoblación y en último término, el abandono.
+e) Las actividades formativas, divulgativas e informativas en materia de protección animal.
+f) El voluntariado y la canalización de colaboración de las entidades de protección animal y la sociedad civil en materia de protección animal.
+g) El fomento y divulgación del papel beneficioso de los animales en la sociedad.
+h) La educación de los animales.
+i) La creación de áreas para el esparcimiento de los perros, instando a todos los ayuntamientos de nuestra Comunidad a la facilitación de dichos espacios.
+j) El acceso de los animales a establecimientos, instalaciones, medios de transporte u otras ubicaciones y espacios apropiados, bajo el adecuado control de sus poseedores.
+k) Las inspecciones para el cumplimiento de la Ley.
+l) Las campañas de identificación y esterilización, estableciendo los conciertos necesarios con los veterinarios clínicos de animales de compañía.
+
+### Artículo 3
+
+Artículo 3. Ámbito de aplicación.
+La presente Ley será de aplicación en todo el territorio de la Comunidad de Madrid.
+
+### Artículo 4
+
+Artículo 4. Definiciones.
+A los efectos de esta ley, se entenderá por:
+a) Animal de compañía: animal doméstico o silvestre en cautividad, mantenido por el ser humano, principalmente en el hogar, siempre que se pueda tener en buenas condiciones de bienestar, que respeten sus necesidades etológicas, pueda adaptarse a la cautividad y que su tenencia no tenga como destino su consumo o el aprovechamiento de sus producciones o cualquier uso industrial o cualquier otro fin comercial o lucrativo y que, en el caso de los animales silvestres su especie esté incluida en el listado positivo de animales de compañía. En todo caso perros, gatos y hurones, independientemente del fin al que se destinen o del lugar en el que habiten o del que procedan, serán considerados animales de compañía. También lo serán los équidos utilizados con fines de ocio y deportivos, siempre que su tenencia no tenga como destino su consumo el aprovechamiento de sus producciones o no se lleve a cabo, en general, con fines comerciales o lucrativos. Los animales de producción sólo se considerarán animales de compañía en el supuesto de que, perdiendo su fin productivo, el propietario decidiera inscribirlo como animal de compañía en el Registro de Animales de Compañía.
+b) Animal doméstico: conforme al artículo 3.4 la Ley 8/2003, de 24 de abril, de Sanidad Animal, aquellos animales de compañía pertenecientes a especies que críe y posea tradicional y habitualmente el hombre, con el fin de vivir en domesticidad en el hogar, así como los de acompañamiento, conducción y ayuda de personas ciegas o con deficiencia visual grave o severa.
+c) Animal silvestre: todo aquel que forma parte del conjunto de especies, subespecies y poblaciones de fauna cuyo geno/fenotipo no se ha visto afectado por la selección humana, independientemente de su origen, natural o introducido, incluyendo ejemplares de especies autóctonas y alóctonas, ya se encuentren en cautividad o libres en el medio natural. No se considerarán animales silvestres los animales domésticos de compañía, aun en el caso de que hubieren vuelto a un estado asilvestrado.
+d) Animal silvestre en cautividad: todo aquel animal silvestre cuyo geno/fenotipo no se ha visto significativamente alterado por la selección humana y que es mantenido en cautividad por el ser humano. Puede ser animal de compañía si se incluye en el listado positivo de animales de compañía, de lo contrario, será considerado como silvestre en cautividad, sin perjuicio de la sujeción de los animales silvestres de producción a la Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio.
+e) Animal abandonado: todo animal incluido en el ámbito de aplicación de esta ley, que vaga sin el acompañamiento o supervisión de persona alguna, estando o no identificado su origen o persona titular o responsable y no habiendo sido comunicada o denunciada su desaparición en la forma y plazos establecidos. Asimismo, serán considerados animales abandonados aquellos que permanezcan atados o en el interior de un recinto o finca sin ser atendidos en sus necesidades básicas por la persona titular o responsable, y todos aquellos que no fueren recogidos por sus titulares o responsables de los centros de recogida en el plazo establecido, así como de las residencias, centros veterinarios u otros establecimientos similares en los que los hubieran depositado previamente. Se exceptúan de esta categoría los gatos comunitarios pertenecientes a colonias felinas.
+f) Animal desamparado: todo aquel que dentro del ámbito de esta ley e, independientemente de su origen o especie, se encuentre en una situación de indefensión o enfermedad sin recibir atención o auxilio.
+g) Animal extraviado: todo aquel que dentro del ámbito de esta ley que, estando identificado o bien sin identificar, vaga sin destino y sin control, siempre que sus titulares o responsables hayan comunicado su extravío o pérdida en la forma y plazo establecidos al Registro de Identificación de Animales de Compañía correspondiente o a la autoridad competente, para la notificación a dicho Registro.
+h) Animal identificado: aquel que porta el sistema de identificación establecido reglamentariamente para su especie por las autoridades competentes y que se encuentra dado de alta en el Registro de identificación de animales de compañía correspondiente.
+i) Animal utilizado en actividades específicas: aquellos animales de compañía que se dedican a una actividad o cometido concreto, como las aves de cetrería, los perros pastores y de guarda del ganado o los perros y hurones utilizados en actividades cinegéticas.
+j) Animal auxiliar de caza: aquel animal de compañía destinado y utilizado para realizar la actividad cinegética.
+k) Perro pastor y/o de guarda de ganado: perro utilizado para actividad específica, en concreto para la vigilancia y el manejo del ganado, ya sea en solitario o acompañado por una persona responsable, y cuyo titular dispone de una explotación ganadera debidamente inscrita en el Registro de Explotaciones Ganaderas o presta sus servicios como pastor en la misma.
+l) Hurones de caza. Huron que es animal auxiliar de caza, está dado de alta como tal en el Registro de Identificación de Animales de Compañía de la Comunidad de Madrid, y cuyo titular dispone de una licencia de caza en vigor o presenta licencia federativa para la caza o presenta certificado de la Federación de la Madrileña de Caza para la caza.
+m) Rehala: agrupación de perros de caza que está inscrita en el Registro de núcleos zoológicos de animales de compañía de la Comunidad de Madrid y cuyos animales tienen o bien una única persona titular o bien una única persona responsable.
+n) Perro de caza: perro utilizado para actividad específica cuyo titular dispone de una licencia de caza emitida por el órgano competente en la materia de cualquier comunidad autónoma, que se emplea en una actividad cinegética autorizada y está dado de alta como tal en el Registro de Identificación de Animales de Compañía correspondiente.
+ñ) Ave de cetrería: aquella ave rapaz criada, enseñada y utilizada para la caza.
+o) Animal utilizado en actividades profesionales: aquellos animales de compañía que se dedican a una actividad o cometido concreto realizado conjuntamente con su responsable en un entorno profesional o laboral, como los perros de rescate, animales de compañía utilizados en intervenciones asistidas o los animales de las Fuerzas y Cuerpos de Seguridad o de las Fuerzas Armadas.
+p) Bienestar animal: estado físico y mental de un animal en relación con las condiciones en que vive y muere, en los términos definidos por la Organización Mundial de Sanidad Animal.
+q) Casa de acogida: domicilio particular que, en colaboración formalizada con una administración pública, centro de protección animal o entidad de protección animal, mantiene animales abandonados o extraviados, desamparados o intervenidos para su custodia provisional, garantizando el cuidado, atención y mantenimiento en buenas condiciones higiénico-sanitarias.
+r) Centro de protección animal: establecimiento para el alojamiento y cuidado de los animales extraviados, abandonados, desamparados o incautados, sean de titularidad pública o privada, dotado de la infraestructura adecuada para su atención y de las autorizaciones legalmente aplicables.
+s) Captura, esterilización y retorno (método CER): método de gestión que incluye la captura, esterilización y retorno de gatos comunitarios a través de medios no lesivos para los animales.
+t) Colonia felina: a los efectos de esta ley y de su protección y control poblacional, se considera colonia felina a un grupo de gatos de la especie Felis catus, que viven en estado de libertad o semilibertad, que no pueden ser abordados o mantenidos con facilidad por los seres humanos debido a su bajo o nulo grado de socialización, pero que desarrollan su vida en torno a estos para su subsistencia.
+u) Criador o criadora registrado: persona responsable de la actividad de la cría e inscrita en el Registro de criadores de animales de compañía correspondiente.
+v) Cuidador o cuidadora de colonia felina: persona, debidamente autorizada, que atiende a los gatos pertenecientes a una colonia, siguiendo un método de gestión de colonias felinas, sin que pueda considerarse persona titular o responsable de los gatos de la misma.
+w) Entidades de protección animal: aquellas entidades sin ánimo de lucro, que desarrollen cualquier actividad de cuidado, rescate, rehabilitación, búsqueda de adopción de animales, gestión de colonias felinas, concienciación en tenencia responsable o defensa jurídica de los animales, inscritas en el Registro de entidades de protección animal de la Comunidad de Madrid de conformidad con lo dispuesto en esta ley.
+x) Entorno naturalizado: lugares alterados o degradados por el ser humano en los que se actúa introduciendo elementos con la finalidad de reducir su grado de antropización.
+y) Esterilización: método clínico practicado por profesionales veterinarios colegiados por el cual se realiza una intervención quirúrgica o medicamentosa sobre el animal con el objetivo de evitar su capacidad reproductora.
+z) Fauna urbana: todo animal vertebrado que pertenece a una especie sinantrópica y que, sin tener propietario o responsable conocido, vive compartiendo territorio con las personas, en los núcleos urbanos de ciudades y pueblos.
+aa) Gato comunitario: a los efectos de esta ley y de su protección y control poblacional, se considera gato comunitario a aquel individuo de la especie Felis catus, que vive en libertad, pero vinculado a un territorio y que no puede ser abordado o mantenido con facilidad por los seres humanos debido a su bajo o nulo grado de socialización, pero que desarrolla su vida en torno a estos para su subsistencia.
+ab) Gato merodeador: aquel gato que sale sin supervisión al exterior del hogar de su titular.
+ac) Gestión de colonias felinas: procedimiento normalizado, acorde al desarrollo reglamentario de la Ley 7/2023, de 28 de marzo, mediante el cual un grupo de gatos comunitarios no adoptables, son alimentados, censados y sometidos a un programa sanitario y de control poblacional CER, controlando la llegada de nuevos individuos.
+ad) Listado positivo de animales de compañía: relación de los animales que pueden ser objeto de tenencia como animales de compañía.
+ae) Maltrato: cualquier conducta, tanto por acción como por omisión, que cause dolor, sufrimiento o lesión a un animal y perjudique su salud, o provoque su muerte, cuando no esté legalmente amparada.
+af) Eutanasia: muerte provocada a un animal por medio de valoración e intervención veterinaria y métodos clínicos no crueles e indoloros, con el objetivo de evitarle un sufrimiento inútil que es consecuencia de un padecimiento severo y continuado sin posibilidad de cura, certificado por veterinarios.
+ag) Sacrificio: muerte provocada a un animal por razones de sanidad animal, de salud pública, de seguridad o medioambientales, debidamente justificada por la autoridad competente, mediante métodos que impliquen el menor sufrimiento posible.
+ah) Núcleos zoológicos de animales de compañía: establecimientos que son objeto de autorización y registro y que tienen como actividad el alojamiento temporal o definitivo de animales de compañía. Se excluyen de esta definición los centros veterinarios.
+ai) Persona responsable: aquella persona física o jurídica que sin ser titular se encuentre, de forma circunstancial o permanente, al cuidado, guarda o custodia del animal.
+aj) Perro de asistencia: el que tras superar un proceso de selección ha finalizado su adiestramiento en una entidad especializada y oficialmente reconocida u homologada por la administración competente, con la adquisición de las aptitudes necesarias para dar servicio y asistencia a personas con discapacidad, así como perros de aviso o perros para asistencia a personas con trastorno del espectro autista.
+ak) Persona titular: la que figure como tal en los registros oficiales constituidos para las distintas especies.
+al) Profesional de comportamiento animal: veterinario o persona cualificada o acreditada a su cargo o bajo su responsabilidad, cuyo desempeño profesional esté relacionado con el adiestramiento, la educación o la modificación de conducta de animales.
+am) Protección animal: conjunto de normas y actuaciones orientadas a amparar, favorecer y defender a los animales.
+an) Refugio definitivo para animales: refugio o centro autorizado para la estancia permanente de animales que han sido abandonados, decomisados, cedidos voluntariamente, rescatados o circunstancia similar, en el que permanecen hasta su muerte sin que puedan ser en ningún caso objeto de utilización o venta.
+añ) Tenencia responsable: conjunto de obligaciones y condiciones que debe asumir la persona titular o responsable de un animal para asegurar la protección y bienestar de los animales conforme a sus necesidades etológicas y fisiológicas.
+ao) Veterinario acreditado en comportamiento animal: veterinario con formación acreditada en el ámbito del comportamiento animal y cuyo desempeño profesional incluye la prevención, diagnóstico y tratamiento de los problemas de conducta en los animales de compañía.
+ap) Reubicación: método por el que, en las condiciones excepcionales recogidas en esta ley, se retira una colonia felina de un emplazamiento, trasladándose a uno nuevo acondicionado a tal efecto, con la supervisión de un profesional veterinario y respetando el bienestar salud de los gatos.
+aq) Adopción de animales: transmisión de la titularidad de animales abandonados, desamparados o decomisados, realizada por un centro de protección animal o entidad de protección animal en favor de un tercero, formalizada como tal a través del correspondiente contrato, en los términos dispuestos en la presente ley.
+ar) Veterinario colaborador: el licenciado en Veterinaria reconocido, autorizado o habilitado por la autoridad competente para la ejecución de funciones en programas oficiales de protección y sanidad animal y de salud pública.
+Se modifica por el art. 9.1 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Artículo 5
+
+Artículo 5. Exclusiones.
+La presente Ley no será de aplicación a:
+a) Los animales utilizados en los espectáculos taurinos previstos en los artículos 2 y 10 de la Ley 10/1991, de 4 de abril, sobre potestades administrativas en materia de espectáculos taurinos.
+b) Los animales de producción, tal como se definen en la Ley 32/2007, de 7 de noviembre, en todo su ciclo vital, salvo el supuesto de que perdiendo su fin productivo el propietario decidiera inscribirlo como animal de compañía en el Registro de Animales de Compañía correspondiente.
+c) Los animales criados, mantenidos y utilizados de acuerdo con el Real Decreto 53/2013, de 1 de febrero, por el que se establecen las normas básicas aplicables para la protección de los animales utilizados en experimentación y otros fines científicos, incluyendo la docencia, y los animales utilizados en investigación clínica veterinaria, de acuerdo con el Real Decreto 1157/2021, de 28 de diciembre, por el que se regulan los medicamentos veterinarios fabricados industrialmente.
+d) Los animales silvestres, que se rigen por lo establecido en la Ley 42/2007, de 13 de diciembre, de Patrimonio Natural y Biodiversidad, salvo que se encuentren en cautividad, en cuyo caso se regirán por lo establecido en la Ley 7/2023, de 28 de marzo.
+Se modifica por el art. 9.2 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+## TÍTULO II
+
+Obligaciones y prohibiciones
+
+### Artículo 6
+
+Artículo 6. Obligaciones con respecto a los animales de compañía.
+1. Todas las personas están obligadas a tratar a los animales de compañía conforme a su condición de seres sintientes.
+2. En particular, sus tutores o responsables deberán observar las siguientes obligaciones respecto de los animales incluidos en el ámbito de aplicación de esta ley:
+a) Mantenerlos en unas condiciones de vida dignas, que garanticen su bienestar, derechos y desarrollo saludable. En el caso de los animales que, por sus características y especie, vivan de forma permanente en jaulas, acuarios, terrarios y similares, deberán contar con espacios adecuados en tamaño, naturalización y enriquecimiento ambiental para su tenencia. Las condiciones para cada especie se desarrollarán reglamentariamente.
+b) Educar y manejar al animal con métodos que no provoquen sufrimiento o maltrato al animal, ni le causen estados de ansiedad o miedo.
+c) Ejercer sobre los animales la adecuada vigilancia y evitar su huida.
+d) No dejarlos solos dentro de vehículos cerrados, expuestos a condiciones térmicas o de cualquier otra índole que puedan poner su vida en peligro.
+e) Prestar al animal los cuidados sanitarios necesarios para garantizar su salud y, en todo caso, los estipulados como obligatorios según su normativa específica, así como facilitarles un reconocimiento veterinario, con la periodicidad que se determine reglamentariamente, que deberá quedar debidamente documentado, en su caso, en el Registro de identificación de animales de compañía de la Comunidad de Madrid.
+f) Mantener permanentemente localizado e identificado al animal conforme a la normativa vigente.
+g) Comunicar al Registro de Identificación de Animales de Compañía de la Comunidad de Madrid, a la autoridad competente o a sus agentes, la pérdida o sustracción del animal en el plazo máximo de cuarenta y ocho horas desde que se produjo la misma.
+h) Recurrir a los servicios de un profesional veterinario, o veterinario acreditado en comportamiento animal, siempre que la situación del animal lo requiera.
+i) Colaborar con las autoridades, facilitando la identificación de los animales cuando así sea requerido y comunicando su cambio de titularidad, extravío o muerte.
+j) Poner a disposición de la autoridad competente o de sus agentes aquella documentación que le fuere requerida y resulte obligatoria en cada caso, colaborando para la obtención de la información necesaria en cada momento.
+k) En general, cumplir con las obligaciones que se establecen en esta y otras normas.
+La persona responsable de un animal será también responsable de los posibles daños, perjuicios o molestias que, sin mediar provocación o negligencia de un tercero, pudiera ocasionar a personas, otros animales o cosas, a las vías y espacios públicos y al medio natural, de conformidad con la legislación aplicable.
+3. Los titulares o personas que convivan con animales de compañía tienen el deber de protegerlos, así como la obligación de cumplir lo previsto en la presente ley y en la normativa que la desarrolle, y en particular:
+a) Mantenerlos integrados en el núcleo familiar, siempre que sea posible por su especie, en buen estado de salud e higiene.
+b) Los animales que, por razones incompatibles con su calidad de vida tamaño o características de su especie, no puedan convivir en el núcleo familiar, deberán disponer de un alojamiento adecuado, con habitáculos acordes a sus dimensiones y que los protejan de las inclemencias del tiempo, en buenas condiciones higiénico-sanitarias de forma que se facilite un ambiente en el que puedan desarrollar las características propias de su especie y raza; en el caso de animales gregarios se les procurará la compañía que precisen.
+c) Adoptar las medidas necesarias para evitar que su tenencia o circulación ocasione molestias, peligros o amenazas o daños a las personas, otros animales o a las cosas, sin perjuicio de los ocasionados por los perros de caza a especies cinegéticas en cotos de caza y por los perros pastores en su trabajo de guarda y custodia del ganado.
+Entre estas medidas se incluirá el uso de correa en caso de que los animales que paseen se encuentren en zonas en las que paste ganado en régimen extensivo, al que puedan causar molestias o lesiones
+d) Adoptar las medidas necesarias para evitar la reproducción incontrolada de los animales de compañía. La cría sólo podrá ser llevada a cabo por personas responsables de la actividad de la cría de animales de compañía inscritas como tales en el Registro de Criadores de animales de compañía de la Comunidad de Madrid.
+e) Evitar que los animales depositen sus excrementos y orines en lugares de paso habitual de otras personas, como fachadas, puertas o entradas a establecimientos, procediendo en todo caso a la retirada o limpieza de aquéllos con productos biodegradables.
+f) Facilitarles los controles y tratamientos veterinarios establecidos como obligatorios por las administraciones públicas.
+g) En el caso de los animales de compañía que, por sus características y especie, vivan de forma permanente en jaulas, acuarios, terrarios y similares, deberán contar con espacios adecuados en tamaño, naturalización y enriquecimiento ambiental para su tenencia. Las condiciones para cada especie se desarrollarán reglamentariamente.
+h) Superar la formación en tenencia responsable reglamentada para cada especie de animal de compañía.
+i) Identificar mediante microchip y proceder a la esterilización quirúrgica de todos los gatos antes de los seis meses de edad salvo aquellos inscritos en el Registro de identificación de animales de compañía de la Comunidad de Madrid como reproductores y a nombre de un criador registrado en el Registro de criadores de animales de compañía.
+j) Comunicar al Registro de identificación de animales de compañía la retirada del cadáver de un animal de compañía identificado.
+La baja de un animal de compañía por muerte deberá ir acompañada del documento que acredite que fue incinerado o enterrado por una empresa reconocida oficialmente para la realización de dichas actividades, haciendo constar el número de identificación del animal fallecido y el nombre y apellidos de su responsable o, en su defecto, que quede constancia en las bases de datos de la empresa que se ocupó del cadáver. En caso de imposibilidad de recuperar el cadáver, se deberá documentar adecuadamente.
+Sin perjuicio de lo establecido en los apartados anteriores, los puntos 3.a y 3.h no serán de aplicación a los animales utilizados en actividades específicas ni a los utilizados en actividades profesionales.
+4. En el caso de animales de compañía que deban alojarse en espacios abiertos, sus titulares o responsables deberán adoptar las siguientes medidas:
+a) Utilizar estancias que protejan a los animales de las inclemencias del tiempo.
+b) Situar las estancias de tal forma que no estén expuestos directamente, de forma prolongada, a la radiación solar, la lluvia o frío extremo.
+c) Emplear estancias acordes a las dimensiones y necesidades fisiológicas del animal.
+d) Garantizar a los animales acceso a bebida y alimentación, así como adecuadas condiciones higiénico-sanitarias.
+Se modifica por el art. 9.3 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Artículo 7
+
+Artículo 7. Prohibiciones con respecto a los animales de compañía.
+Quedan totalmente prohibidas las siguientes conductas o actuaciones referidas a los animales de compañía:
+a) Maltratarlos o agredirlos físicamente, así como someterlos a trato negligente o cualquier práctica que les pueda producir sufrimientos, daños físicos o psicológicos u ocasionar su muerte.
+b) Usar métodos y herramientas invasivas que causen daños y sufrimientos a los animales, sin perjuicio de los tratamientos veterinarios realizados por profesionales veterinarios colegiados y otras excepciones que se establezcan reglamentariamente. En el caso de perros utilizados para actividades específicas y profesionales, se permitirá el uso de collares de impulso para su entrenamiento y el desarrollo de su trabajo, en el menor grado en el que resulten eficaces, y siempre que no ocasionen daños ni lesiones al animal.
+c) Abandonarlos intencionadamente en espacios cerrados o abiertos, especialmente en el medio natural donde pueden ocasionar daños posteriores por asilvestramiento o por su condición de especies exóticas potencialmente invasoras.
+d) Dejar animales sueltos o en condiciones de causar daños en lugares públicos o privados de acceso público especialmente en los parques nacionales, cañadas donde pastan rebaños o animales u otros espacios naturales protegidos donde puedan causar daños a las personas, al ganado o al medio natural, sin perjuicio de las ocasionadas por los perros de caza a especies cinegéticas en cotos de caza y por los perros pastores y/o guarda de ganado en su trabajo de guarda y custodia del ganado.
+e) Utilizarlos en espectáculos públicos o actividades artísticas turísticas o publicitarias, que les causen angustia, dolor o sufrimiento y, en todo caso, en atracciones mecánicas o carruseles de feria, así como el uso de animales pertenecientes a especies de fauna silvestre en espectáculos circenses.
+f) Utilizarlos de forma ambulante como reclamo. Sin que este precepto cuestione el derecho de las personas sin hogar a ir acompañadas de sus animales de compañía.
+g) Someterlos a trabajos inadecuados o excesivos en tiempo o intensidad respecto a las características y estado de salud de los animales.
+h) La tenencia, cría y comercio de aves fringílidas capturadas del medio natural en tanto se infrinjan los requisitos del apartado primero, letra f), del artículo 61 y 4 de la Ley 42/2007, de 13 de diciembre.
+i) Alimentarlos con vísceras, cadáveres y otros despojos procedentes de animales que no hayan superado los oportunos controles sanitarios, de acuerdo con la normativa sectorial aplicable.
+j) Utilizar animales como reclamo recompensa, premio, rifa o promoción.
+k) La utilización de animales como reclamo publicitario, excepto para el ejercicio de actividades relacionadas con los mismos con la correspondiente autorización del ayuntamiento en cuyo municipio se desarrolle esta actividad.
+l) Utilizar cualquier artilugio, mecanismo o utensilio destinado a limitar o impedir su movilidad en un punto fijo salvo por prescripción veterinaria atendiendo a su bienestar. Esta prohibición no será de aplicación a los perros utilizados para actividades profesionales, para la caza o para la guarda de ganado, mientras desarrollan su actividad profesional, de caza o de pastoreo, siempre y cuando sea imprescindible para llevarla a cabo correctamente y la utilización sea por un periodo de tiempo limitado.
+m) Utilizarlos en peleas o su adiestramiento en el desarrollo de esta práctica y otras similares, así como instigar la agresión a otros animales o a otras personas fuera del ámbito de actividades regladas.
+n) Practicarles todo tipo de mutilación o modificaciones corporales permanentes; se exceptúan de esta prohibición los sistemas de identificación mediante marcaje en la oreja de gatos comunitarios y las precisas por necesidad terapéutica para garantizar su salud o para limitar o anular su capacidad reproductiva, sin que pueda servir de justificación un motivo funcional o estético de cualquier tipo, y que deberá ser acreditada mediante informe de un profesional veterinario colegiado o perteneciente a alguna administración pública, del que quedará constancia en el Registro de identificación de animales de compañía de la Comunidad de Madrid.
+En los perros de caza, se permite la otectomía y caudectomía, conforme a lo dispuesto en el artículo 10.2 del Convenio Europeo sobre protección de animales de compañía, con el fin de mejorar el estado de salud de los animales y prevenir lesiones.
+ñ) Su sacrificio, salvo por motivos de seguridad de las personas o animales o de existencia de riesgo para la salud pública debidamente justificado por la autoridad competente.
+Se prohíbe expresamente el sacrificio en los centros de protección animal, ya sean públicos o privados, clínicas veterinarias y núcleos zoológicos en general por cuestiones económicas, de sobrepoblación, carencia de plazas, imposibilidad de hallar adoptante en un plazo determinado, abandono del responsable legal, vejez, enfermedad o lesión con posibilidad de tratamiento, ya sea paliativo o curativo, por problemas de comportamiento que puedan ser reconducidos, así como por cualquier otra causa asimilable a las anteriormente citadas.
+La eutanasia solamente estará justificada bajo criterio y control veterinario con el único fin de evitar el sufrimiento por causas no recuperables que comprometa seriamente la calidad de vida del animal y que como tal ha de ser acreditado y certificado por profesional veterinario colegiado. El procedimiento de eutanasia se realizará por personal veterinario colegiado o perteneciente a alguna Administración Pública con métodos que garanticen la condición humanitaria, admitidos por las disposiciones legales aplicables.
+o) Mantenerlos atados o deambulando por espacios públicos sin la supervisión presencial por parte de la persona responsable de su cuidado y comportamiento, sin perjuicio de las actividades necesarias para el desarrollo correcto de su tarea, realizadas por perros de caza en cotos y por perros pastores cuando guardan y custodian al ganado.
+p) Mantener de forma habitual a perros y gatos en terrazas, balcones, azoteas, trasteros, sótanos, patios y similares o vehículos, con la excepción de los perros utilizados en actividades específicas, que se podrán mantener en patios adecuadamente acondicionados.
+q) Llevar animales atados a vehículos a motor en marcha.
+r) La puesta en libertad o introducción en el medio natural de animales de cualquier especie de animal de compañía que se desarrolla en la presente ley salvo los incluidos en programas de reintroducción.
+s) La eliminación de cadáveres de animales de compañía sin comprobar su identificación, cuando ésta sea obligatoria.
+t) Dejar sin supervisión a cualquier animal de compañía durante más de tres días consecutivos; en el caso de la especie canina, este plazo no podrá ser superior a veinticuatro horas consecutivas.
+u) Llevar a cabo actuaciones o prácticas de selección genética que conlleven problemas o alteraciones graves en la salud del animal.
+v) La cría comercial de cualquier especie de animal de compañía, así como cualquier tipo de cría de animales cuya identificación individual sea obligatoria por la normativa vigente, por criadores no inscritos en el Registro de Criadores de Animales de Compañía de la Comunidad de Madrid.
+w) La comercialización de perros, gatos y hurones en tiendas de animales, así como su exhibición y exposición al público con fines comerciales. Perros, gatos y hurones solo podrán venderse desde criadores registrados.
+x) La comercialización, donación o entrega en adopción de animales no identificados y registrados previamente a nombre del transmitente conforme a los métodos de identificación aplicables según la normativa vigente.
+En el caso de los animales utilizados en actividades específicas y profesionales, se podrán identificar en el momento de la transmisión a nombre del nuevo titular, siempre y cuando no exista un beneficio económico en la misma y no se haya alcanzado la edad en la que es obligatoria la identificación.
+y) Emplear animales de compañía para el consumo humano.
+z) Se prohíbe el uso de cualquier herramienta de manejo que pueda causar lesiones al animal, en particular collares eléctricos, de impulsos, de castigo o de ahogo.
+aa) Mantener en el mismo domicilio un total superior a 5 animales pertenecientes a la especie canina, felina o cualquier otra que se determine reglamentariamente, salvo que el ayuntamiento lo autorice.
+ab) Mantener a los animales atados o encerrados permanentemente o por un tiempo prolongado, o en condiciones que puedan causarles sufrimiento o daño, así como mantenerlos aislados del ser humano u otros animales en el caso de que se trate de animales de especies gregarias.
+ac) La utilización de animales para la filmación de escenas no simuladas para cine, televisión o Internet, artísticas o publicitarias, que conlleven crueldad, maltrato, muerte o sufrimiento de los animales.
+ad) Trasladar animales en los maleteros de vehículos que no estén adaptados especialmente para ello.
+ae) La tenencia de los animales contemplados en el anexo, excepto en parques zoológicos registrados o recintos expresamente autorizados por la Comunidad de Madrid.
+af) El traslado de animales inmovilizados de forma cautelar.
+ag) Exhibir animales en locales de ocio o diversión.
+ah) Mantener animales en vehículos estacionados sin la ventilación y temperatura adecuada.
+ai) Mantener animales en vehículos de forma permanente.
+Se modifica por el art. 9.4 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Artículo 8
+
+Artículo 8. Inspección y control.
+1. Los Ayuntamientos realizarán las labores de inspección y control necesarias para el cumplimiento de las obligaciones y evitar la realización de las prohibiciones contempladas en esta Ley.
+2. Los Ayuntamientos podrán ordenar la retirada de los animales, así como su inmovilización, internamiento obligatorio, aislamiento, o sometimiento a un tratamiento o terapia, siempre que existan indicios de infracción que lo aconsejen, sin perjuicio de las actuaciones que puedan llevar a cabo las Consejerías competentes en materia de sanidad animal, protección animal, medio ambiente o salud pública en situaciones de grave riesgo para los animales o las personas.
+
+## TÍTULO III
+
+Sacrificio y eutanasia de los animales
+
+### Artículo 9
+
+Artículo 9. Registros para la protección animal.
+Los registros para la protección animal en el ámbito de la Comunidad de Madrid, cuya organización y funcionamiento se establecerá reglamentariamente, son:
+a) Registro de entidades de protección animal de la Comunidad de Madrid: tiene como objeto la inscripción de asociaciones o fundaciones cuyos estatutos les habiliten para ejercer cualquier actividad que tenga por objeto la protección de los animales. Para ello, en este registro se incluirá el nombre de la entidad, razón social y dirección postal y datos identificativos de la persona física representante de dicha entidad.
+b) Registro de profesionales de comportamiento animal de la Comunidad de Madrid: tiene como objeto la inscripción de cualquier persona que ejerza la actividad profesional dirigida a la educación, adiestramiento, modificación de conducta o similares de los animales incluidos en el ámbito de aplicación de esta ley, las personas tituladas en veterinaria con formación acreditada en comportamiento animal, las personas con licenciatura o grado universitario con formación complementaria en etología y aquellas personas que posean como mínimo el certificado de profesionalidad de adiestramiento de base y educación canina (SEAD0412), que acredita a la cualificación profesional SEA531_2 adiestramiento de base y educación canina, recogida en el catálogo nacional de cualificaciones profesionales, en sus correspondientes categorías, sin perjuicio de otras que pudieran desarrollarse reglamentariamente.
+c) Registro de identificación de animales de compañía de la Comunidad de Madrid: tiene como objeto la inscripción de cualquier animal de compañía que dispongan de un sistema de identificación obligatoria, incluyendo aquellos utilizados en actividades específicas que estarán necesariamente inscritos al efecto para ser clasificados como tal, así como la identidad de sus propietarios o responsables. Para ello, en este registro se incluirán los datos identificativos y sanitarios del animal, si realizan actividades asociadas a actividades humanas, como la actividad cinegética, empleo por los Cuerpos y Fuerzas de Seguridad o actividad de pastoreo, junto con los datos identificativos de la persona propietaria o responsable.
+d) Registro de núcleos zoológicos de animales de compañía de la Comunidad de Madrid: tiene como objeto la inscripción de los núcleos zoológicos de animales de compañía en los términos definidos en esta ley. Para ello en este registro se incluirán los datos identificativos de la persona titular del núcleo zoológico.
+e) Registro de criadores de animales de compañía de la Comunidad de Madrid: tiene como objeto la inscripción de personas responsables de la actividad de la cría de animales de compañía. Para ello en este registro se incluirán los datos identificativos de la persona criadora y de sus ejemplares reproductores.
+Se modifica por el art. 9.5 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+## TÍTULO IV
+
+Tratamientos obligatorios e identificación de los animales
+
+### Artículo 10
+
+Artículo 10. Tratamientos obligatorios.
+La Consejería competente en materia de protección y sanidad animal podrá ordenar la realización de tratamientos preventivos o curativos a los animales, por razones de sanidad o bienestar animal o de salud pública.
+
+### Artículo 11
+
+Artículo 11. Identificación de animales de compañía.
+Las obligaciones con respecto a la identificación de los animales de compañía y silvestres en cautividad serán las contempladas en la Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales.
+Se modifica por el art. 9.6 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Artículo 12
+
+Artículo 12. Gestión del Registro de identificación de animales de compañía de la Comunidad de Madrid.
+1. El Registro será gestionado por el Colegio Oficial de Veterinarios de Madrid en tanto en cuanto se mantengan las directrices fijadas reglamentariamente.
+2. En el caso de que se incumplan las directrices fijadas reglamentariamente podrá retirarse la gestión, asumiendo la misma la Consejería con competencia en materia de protección animal.
+Se modifica por el art. 9.7 y 8 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Su anterior numeración era art. 15.
+
+## TÍTULO V
+
+Centros de animales de compañía
+
+### Artículo 13
+
+Artículo 13. Requisitos de núcleos zoológicos de animales de compañía.
+Los núcleos zoológicos de animales de compañía deberán reunir los siguientes requisitos, sin perjuicio de los que se establezcan reglamentariamente:
+a) Tener condiciones higiénico-sanitarias adecuadas, así como espacio suficiente en relación a los animales que albergan, que posibiliten el suficiente ejercicio a los mismos, de acuerdo a sus necesidades específicas.
+b) Contar con un espacio apropiado para mantener a animales enfermos o que requieren cuidados o condiciones de mantenimiento especiales, donde estos animales puedan recibir la atención necesaria o guardar, en su caso, períodos de cuarentena.
+c) Contar con medidas para evitar el escape de los animales albergados que no interfieran con su bienestar.
+d) Disponer de personal suficiente y cualificado para su manejo, de acuerdo a lo que se determine reglamentariamente, que proporcione a los animales alojados en ellos todos los cuidados necesarios desde el punto de vista higiénico sanitario y de bienestar animal, incluyendo una alimentación adecuada, protección frente a las inclemencias climatológicas, ejercicio, y en general la atención necesaria de acuerdo a sus necesidades, incluso durante las horas en las que el centro permanezca cerrado.
+e) Contar con un libro de registro en formato papel o en formato electrónico, en el que consten al menos datos suficientes para la trazabilidad de los animales, su origen, su destino, las incidencias sanitarias y las causas de las bajas, en su caso.
+f) Contar con un veterinario responsable.
+Se modifica por el art. 9.7 y 9 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Su anterior numeración era art. 16.
+
+## TÍTULO VI
+
+Cría con fines comerciales y venta de animales
+
+### Artículo 14
+
+Artículo 14. Condiciones generales de la cría, venta y transmisión de animales de compañía.
+Las condiciones generales de la cría, venta y transmisión de animales de compañía serán las contempladas en el título III de la Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales, referente a la cría, comercio, identificación, transmisión y transporte.
+La transmisión no comercial de animales será en todo caso gratuita, sin perjuicio de la posible repercusión del coste de los tratamientos veterinarios, incluyendo la identificación y la esterilización.
+En animales utilizados en actividades profesionales y actividades específicas no será de aplicación el punto 3 del artículo 52, ni el punto 3 del artículo 53 de la ley 7/2023, de 28 de marzo, relativos a la formación obligatoria.
+Los titulares de animales de pastoreo, animales de guarda de ganado, animales auxiliares de caza y animales utilizados en actividades profesionales, que deseen realizar una actividad de cría no comercial, estarán exentos del cumplimiento de los puntos 2 y 5 del artículo 55 de la ley 7/2023, de 28 de marzo, relativos al contrato escrito de compraventa y a la información escrita sobre el animal, respectivamente.
+Se modifica por el art. 9.7 y 11 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Su anterior numeración era art. 18.
+
+## TÍTULO VII
+
+Ferias, exposiciones y concursos
+
+### Artículo 15
+
+Artículo 15. Empleo de animales en actividades culturales y festivas.
+1. Las condiciones generales del empleo de los animales en actividades culturales y festivas serán las contempladas en el título IV de la Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales.
+2. A efectos de lo establecido en el artículo 62 de la Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales en el ámbito de la Comunidad de Madrid la autoridad competente a la que se dirigirá la declaración responsable requerida es el Ayuntamiento en cuyo municipio se desarrolle la actividad.
+Se modifica por el art. 9.12 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Su anterior numeración era art. 19.
+
+## TÍTULO VIII
+
+Animales de compañía extraviados, abandonados y vagabundos
+
+## TÍTULO V
+
+Centros de animales de compañía
+
+### Artículo 16
+
+Artículo 16. Recogida y atención de animales extraviados y abandonados.
+1. Corresponderá a los ayuntamientos la recogida de animales extraviados y abandonados en su municipio y su alojamiento en un centro de protección animal. Para ello deberán contar con un servicio de urgencia para la recogida y atención veterinaria de estos animales, disponible las veinticuatro horas del día. Los animales se podrán alojar en centros de protección animal propios o en centros de protección animal de entidades privadas con las que los ayuntamientos así lo concierten, sin perjuicio de que, siempre que sea posible, se realice en colaboración con entidades de protección animal.
+2. Corresponderá también a los ayuntamientos recoger y hacerse cargo de los animales internados en residencias de animales que no hubieran sido retirados por sus titulares en el plazo acordado.
+3. Los municipios de menos de cinco mil habitantes que no dispongan de medios para ejercer su competencia para la recogida y el mantenimiento de los animales podrán suscribir convenios de colaboración en esta materia con la Comunidad de Madrid. En este caso se dispondrá de una instalación temporal municipal para albergar a los animales hasta su recogida por el servicio correspondiente, que reúna los requisitos de espacio, seguridad y condiciones para el bienestar de los animales alojados temporalmente.
+4. La recogida y el alojamiento se llevará a cabo por personal cualificado de acuerdo con lo que se establezca reglamentariamente, y contará con medios especializados e instalaciones adecuadas.
+5. Los centros de protección animal públicos y privados están obligados a velar por las condiciones adecuadas de bienestar y condiciones higiénico-sanitarias de los animales alojados, adecuación de los espacios, medidas de seguridad, capacitación del personal, registro de animales y atención veterinaria.
+6. La Comunidad de Madrid y los Ayuntamientos pondrán en marcha medidas de fomento de la adopción de animales abandonados y vagabundos.
+7. Los centros de protección animal públicos y privados fomentarán en todo momento la adopción responsable de animales. La adopción se llevará a cabo con todos los tratamientos obligatorios al día y previa identificación y esterilización del animal, o compromiso de esterilización en un plazo determinado, si hay razones sanitarias que no la hagan aconsejable en el momento de la adopción.
+8. Los centros de protección animal públicos y privados comunicarán en un máximo de 24 horas la entrada de un animal identificado al Registro de Identificación de Animales de Compañía de la Comunidad de Madrid, realizando en este plazo los trámites necesarios para la localización inmediata del titular.
+9. En caso de que no se pueda localizar al propietario en este plazo, comunicarán esta circunstancia al ayuntamiento en cuyo municipio se encuentre el centro, que iniciará a la mayor brevedad posible los trámites necesarios para la notificación al titular del animal.
+10. Una vez ingresado el animal extraviado en un centro de protección animal público o privado, su titular, o persona autorizada por éste, deberá recogerlo en el plazo de 5 días hábiles a contar desde la recepción de la notificación, abonando previamente la totalidad de los gastos causados por la recogida y estancia del animal en el centro de protección animal, incluidos los gastos veterinarios necesarios que pudiera requerir el animal, y presentando la licencia correspondiente en caso de tratarse de un animal potencialmente peligroso. Transcurrido el citado plazo sin que se haya recuperado el animal extraviado, éste pasará a tener la condición de abandonado y podrá ser dado en adopción tan pronto como el veterinario responsable del centro determine que cumple las condiciones para ello.
+11. En el caso de animales vagabundos o abandonados que ingresen en un centro de protección animal público o privado, se podrá proceder a su entrega en adopción tan pronto como el veterinario responsable del centro determine que cumple las condiciones para ello.
+12. Los animales se entregarán con el correspondiente contrato de adopción.
+13. Se informará a los adoptantes sobre el estado sanitario del animal, con el fin de aplicar, en su caso, los tratamientos veterinarios necesarios para su bienestar, así como del coste estimado de los mismos. Cuando los animales de compañía que estén en centros de protección animal padezcan enfermedades infecto-contagiosas o parasitarias transmisibles al hombre o a los animales, que a criterio del veterinario responsable del centro supongan un riesgo para la salud pública o la sanidad animal, no podrán ser entregados en adopción. La adopción será gratuita, si bien se podrá repercutir sobre el adoptante el coste de los tratamientos, la identificación y la esterilización.
+14. Excepcionalmente, cuando concurran circunstancias especiales que así lo aconsejen, el centro de protección animal público o privado podrá otorgar la custodia provisional de un animal sin dueño conocido a aquella persona física que, actuando como responsable del mismo, pueda garantizar el cuidado y atención del animal y su mantenimiento en buenas condiciones higiénico sanitarias. Esta cesión estará condicionada al compromiso de comunicar al centro de protección animal cualquier incidencia relativa al bienestar del animal, y de entregarlo de forma inmediata si aparece su dueño o se encuentra a un adoptante.
+15. No se podrán mantener en este régimen más de 5 animales en un mismo domicilio, que tendrá la consideración de casa de acogida. Los derechos y obligaciones de ambas partes deberán reflejarse contractualmente. El centro mantendrá una relación actualizada de estas casas de acogida, a disposición de la consejería competente en materia de protección animal y del ayuntamiento donde se ubiquen.
+16. En aquellas ubicaciones en las que existan colonias felinas, corresponde a las entidades locales su gestión al objeto de controlar la población de los gastos comunitarios y reducir progresivamente su población, respetando siempre los términos establecidos en la Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales.
+17. Los centros de protección animal públicos y privados deberán comunicar a la consejería competente en materia de protección animal con una periodicidad trimestral y no más tarde de los cinco días naturales siguientes al cumplimiento del trimestre, toda la información referente a las entradas, salidas y destino de los animales, así como las incidencias sanitarias más significativas.
+Se modifica por el art. 9.14 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+## TÍTULO IX
+
+Entidades de protección de los animales y la profesión veterinaria
+
+### Artículo 17
+
+Artículo 17. Entidades de protección de los animales.
+1. A efectos de su inscripción en el Registro de entidades de protección animal de la Comunidad de Madrid, las entidades cumplirán los requisitos y se atendrán a la clasificación establecidos en la Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales.
+2. Las entidades de protección de los animales registradas podrán ser declaradas entidades colaboradoras de la Comunidad de Madrid, a través del centro directivo competente en materia de protección animal, siempre y cuando cumplan y mantengan los siguientes requisitos, sin perjuicio de aquellos que se puedan determinar de forma reglamentaria:
+a) Participen activamente en los programas que en materia de protección animal ponga en marcha la Comunidad de Madrid.
+b) Desarrollen su actividad dentro de la Comunidad de Madrid.
+c) Colaboren en el alojamiento de animales retirados de forma provisional, en caso de contar con centro de protección animal.
+d) Participen en los programas que fomentan el funcionamiento en red de los centros de protección animal de la Comunidad de Madrid dirigidos a potenciar la adopción, en caso de contar con centro de protección animal.
+e) Cumplan con todas las obligaciones y requisitos de funcionamiento recogidos en la normativa estatal y autonómica.
+3. Las entidades de protección de los animales declaradas entidades colaboradoras están obligadas a remitir en los primeros treinta días naturales del año al centro directivo competente en materia protección animal una memoria exhaustiva de las actividades realizadas. La no presentación de esta memoria supondrá la retirada automática de la declaración de entidad colaboradora. Esta retirada también podrá producirse por el incumplimiento de cualquiera de los requisitos contemplados en el apartado 2.
+Se modifica por el art. 9.10 y 15 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Su anterior numeración era art. 22.
+
+## TÍTULO VI
+
+Cría con fines comerciales y venta de animales
+
+### Artículo 18
+
+Artículo 18. Profesión veterinaria.
+1. Los veterinarios colegiados en la Comunidad de Madrid, podrán ser reconocidos como colaboradores de la Comunidad de Madrid, a través de la Dirección General competente en materia de protección animal, siempre y cuando cumplan y mantengan los siguientes requisitos, sin perjuicio de aquellos que se puedan determinar de forma reglamentaria:
+a) La capacitación como veterinario colaborador supondrá cumplir con las normativas vigentes para el ejercicio de su profesión en materia laboral y tributaria.
+b) Que desarrollen su actividad profesional de acuerdo con los principios del código deontológico veterinario.
+c) Promover la salud y el bienestar de los animales de compañía, divulgar la tenencia responsable de los animales, así como la adopción y esterilización de los animales.
+d) Participen en las campañas de sanidad animal salud pública o identificación, promovidas por la Comunidad de Madrid.
+e) Los veterinarios deberán comunicar a la Consejería competente en materia de protección animal, cualquier indicio que detecten en el ejercicio de su profesión que pudiera ser consecuencia de un maltrato al animal. Igualmente comunicará los casos de animales no identificados.
+2. Los veterinarios serán dotados de los medios materiales, técnicos y legales necesarios para hacer llegar a los organismos públicos competentes en la materia, todas aquellas irregularidades que detecten en cuanto a incumplimientos de las normativas vigentes sobre protección, salud y bienestar animal, así como de las evidencias de maltrato.
+3. El incumplimiento de los anteriores requisitos podrá dar lugar a la retirada del reconocimiento como veterinario colaborador de la Consejería competente en materia de protección animal.
+Se modifica por el art. 9.16 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Su anterior numeración era art. 23.
+
+## TÍTULO X
+
+Formación y divulgación
+
+## TÍTULO VII
+
+Ferias, exposiciones y concursos
+
+### Artículo 19
+
+Artículo 19. Formación y divulgación.
+1. Los Ayuntamientos divulgarán los contenidos de la presente Ley entre los habitantes de sus municipios y realizará las necesarias campañas en esta materia.
+2. La Consejería competente en protección animal regulará la formación en materia de protección de animales de compañía, incluyendo la necesaria para la cualificación de las personas que trabajen con animales de compañía, fijando los requisitos de los programas, cursos y entidades que la impartan.
+Se modifica por el art. 9.16 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Su anterior numeración era art. 24.
+
+## TÍTULO XI
+
+De las infracciones y sanciones y del procedimiento sancionador en materia de protección animal
+
+## CAPÍTULO I
+
+Infracciones administrativas
+
+## TÍTULO VIII
+
+Animales de compañía extraviados, abandonados y vagabundos
+
+### Artículo 20
+
+Artículo 20. Infracciones.
+1. Constituyen infracciones administrativas en materia de protección y derecho de los animales, las acciones u omisiones contrarias a lo establecido en la presente ley.
+2. Las infracciones se clasifican en leves, graves y muy graves. La clasificación de una infracción dentro de una de estas categorías, se ajustará a lo señalado en la Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales.
+3. Serán responsables las personas físicas o jurídicas que incurran en las acciones u omisiones tipificadas como infracción en la presente ley, sin perjuicio de las responsabilidades que les pudieran corresponder en el ámbito civil o penal.
+4. Cuando el incumplimiento de las obligaciones previstas en esta ley corresponda a varias personas físicas o jurídicas conjuntamente, o si la infracción fuera imputable a varias personas y no resultara posible determinar el grado de participación de cada una de ellas, que responderán de forma solidaria de las infracciones que, en su caso, se cometan y de las sanciones que se impongan. Asimismo, serán responsables subsidiarios de las sanciones impuestas a las personas jurídicas que hayan cesado en sus actividades, quienes ocuparán el cargo de administrador en el momento de cometerse la infracción.
+5. Serán responsables subsidiarios por el incumplimiento de las obligaciones previstas en esta ley, respecto de las infracciones que cometa el personal a su servicio, las personas titulares y responsables de los establecimientos y empresas relacionadas en el artículo 66.1 de la Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales.
+6. Cuando sea declarada la responsabilidad de los hechos cometidos por un menor, responderán solidariamente con él sus padres, tutores, acogedores y guardadores legales o de hecho por este orden, en razón al incumplimiento de la obligación impuesta a éstos que conlleva un deber de prevenir la infracción administrativa que se impute a los menores. La responsabilidad solidaria vendrá referida a la pecuniaria derivada de la multa impuesta, sin perjuicio de su sustitución por las medidas reeducadoras que determine la normativa vigente.
+Se modifica por el art. 9.13 y 18 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+## CAPÍTULO II
+
+Sanciones y medidas provisionales
+
+### Artículo 21
+
+Artículo 21. Sanciones.
+Las sanciones, así como las medidas accesorias aplicables por las infracciones previstas en esta ley, y las condiciones para su graduación y responsabilidad civil serán las contempladas en la Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales.
+Se modifica por el art. 9.13 y 19 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+## TÍTULO IX
+
+Entidades de protección de los animales y la profesión veterinaria
+
+### Artículo 22
+
+Artículo 22. Medidas provisionales.
+1. Son medidas provisionales, que no tienen el carácter de sanción, las siguientes:
+a) La retirada provisional de aquellos animales objeto de protección, siempre que existan indicios de infracción de las disposiciones de la presente Ley, que aconsejen una retirada inmediata y urgente de los animales.
+b) La clausura o cierre de establecimientos, instalaciones o servicios que no cuenten con las preceptivas autorizaciones o registros, o la suspensión de su funcionamiento hasta que no se subsanen los defectos observados o se cumplan los requisitos exigidos por razones de protección y bienestar animal.
+2. Las medidas provisionales deben ser confirmadas o levantadas por resolución del órgano competente y su adopción no prejuzga la responsabilidad penal o administrativa de los sujetos a los que afecte.
+3. Las medidas provisionales se mantendrán mientras persistan las causas que motivaron su adopción.
+4. Si el depósito prolongado de los animales procedentes de retiradas cautelares pudiera ser peligroso para su supervivencia o comportarles sufrimientos innecesarios, la Consejería o Ayuntamiento competente podrá decidir sobre el destino del animal antes de la resolución del correspondiente procedimiento sancionador.
+Se modifica por el art. 9.20 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Su anterior numeración era art. 32.
+
+### Artículo 23
+
+Artículo 23. Daños y gastos.
+1. En todos los casos, el infractor deberá reparar, mediante la correspondiente indemnización, los daños causados.
+El infractor deberá abonar la totalidad de los gastos causados como consecuencia de la infracción cometida y, especialmente, los derivados de la recogida, mantenimiento y tratamientos sanitarios de los animales, perdidos o abandonados.
+Se modifica por el art. 9.20 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Su anterior numeración era art. 33.
+
+## CAPÍTULO III
+
+Procedimiento sancionador
+
+## TÍTULO X
+
+Formación y divulgación
+
+### Artículo 24
+
+Artículo 24. Procedimiento y competencia.
+1. Sin perjuicio de lo dispuesto en la legislación sobre procedimiento administrativo común, el procedimiento sancionador se sustanciará de conformidad con lo previsto en la normativa reglamentaria que regule el ejercicio de la potestad sancionadora en la Comunidad de Madrid con las especialidades establecidas en esta Ley.
+2. Serán competentes para imponer las sanciones previstas en la presente Ley:
+a) La Consejería competente en materia de animales de compañía en el caso de infracciones calificadas como muy graves con arreglo a la presente Ley, y las graves cuando el infractor sea el ayuntamiento.
+b) Los Ayuntamientos serán competentes para la imposición de sanciones graves y leves que afecten a los animales de compañía.
+Se modifica por el art. 9.20 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Su anterior numeración era art. 34.
+
+## TÍTULO XI
+
+De las infracciones y sanciones y del procedimiento sancionador en materia de protección animal
+
+## CAPÍTULO I
+
+Infracciones administrativas
+
+### Artículo 25
+
+Artículo 25. Prescripción de infracción y sanción.
+1. Las infracciones administrativas muy graves y por abandono prescribirán en el plazo de cinco años, las graves en tres años y las leves en un año.
+2. Las sanciones impuestas por faltas muy graves y por abandono prescribirán a los cinco años, las graves a los tres años y las leves al año, contados desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impuso la sanción.
+3. El plazo de prescripción se interrumpirá por la iniciación del procedimiento correspondiente con conocimiento del interesado y por la realización de cualquier actuación judicial.
+Se modifica por el art. 9.17 y 21 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Su anterior numeración era art. 35.
+
+### Artículo 26
+
+Artículo 26. Caducidad.
+1. En los procedimientos sancionadores instruidos en aplicación de esta ley, deberá dictarse y notificarse la oportuna resolución en el plazo máximo de dieciocho meses, contados a partir del momento en que se acordó su iniciación.
+2. La falta de resolución y notificación al interesado en dicho plazo determinará la caducidad del procedimiento.
+Se modifica por el art. 9.17 y 22 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Su anterior numeración era art. 36.
+
+### Artículo 27
+
+Artículo 27. Partes interesadas en el procedimiento.
+En los procedimientos sancionadores que se instruyan por infracción de lo dispuesto en esta ley o en sus disposiciones de desarrollo, ostentarán la condición de parte interesada las asociaciones y entidades de protección animal que hubieran interpuesto la denuncia origen del procedimiento sancionador, o aquellas en cuyos fines estatutarios se recoja como finalidad principal la protección animal y se hayan personado como parte interesada en el procedimiento.
+En los procedimientos sancionadores que afecten a animales utilizados en actividades específicas y profesionales, se atenderá al régimen previsto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+Se modifica por el art. 9.17 y 23 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Artículo 28
+
+Artículo 28. Infracciones graves.
+Son infracciones administrativas graves las siguientes:
+a) Alimentar a los animales de forma insuficiente, inadecuada o con alimentos no autorizados.
+b) Mantener a los animales en lugares que no les protejan de las inclemencias del tiempo, que no reúnan buenas condiciones higiénico sanitarias, que tengan dimensiones inadecuadas o que por sus características, distancia o cualquier otro motivo, no sea posible su adecuado control y supervisión diaria.
+c) Suministrar a los animales sustancias que puedan causarles alteraciones de la salud o del comportamiento, excepto en los casos amparados por la normativa vigente o por prescripción veterinaria.
+d) Mantenerlos atados o encerrados por tiempo o en condiciones que puedan suponer sufrimiento o daño para el animal, incluyendo el aislamiento de animales gregarios.
+e) No tener a los animales correctamente identificados en los términos previstos en esta norma.
+f) Exhibir animales en locales de ocio o diversión sin la correspondiente autorización municipal.
+g) Utilizar animales en carruseles de ferias.
+h) La participación de animales en ferias, exposiciones, concursos, exhibiciones, filmaciones o cualquier otra actividad similar, sin la correspondiente autorización del Ayuntamiento en cuyo municipio se desarrolle esta actividad.
+i) Mantener animales en vehículos estacionados sin la ventilación y temperatura adecuada.
+j) Mantener animales en vehículos de forma permanente.
+k) Llevar animales atados a vehículos a motor en marcha.
+l) La utilización de collares de ahorque, pinchos o eléctricos que resulten dañinos para el animal.
+m) No proporcionar a los animales los tratamientos veterinarios obligatorios, paliativos, preventivos o curativos esenciales que pudiera precisar.
+n) No adoptar las medidas necesarias para evitar la reproducción incontrolada de los animales de compañía.
+ñ) La no esterilización de perros que se mantienen en polígonos y naves, obras o similares y los que tengan acceso al exterior de las viviendas y puedan tener contacto no controlado con otros perros.
+o) Permitir o no impedir que los animales supongan un riesgo para la salud o seguridad de las personas y animales, u ocasionen daños materiales a las cosas.
+p) Criar con fines comerciales o vender un animal sin cumplir cualquiera de las condiciones contempladas en esta Ley.
+q) Incumplir, por parte de los centros de animales de compañía, cualquiera de las condiciones de instalaciones o funcionamiento contempladas en esta Ley.
+r) La realización por parte de las entidades privadas o asociaciones de protección y defensa de animales, las labores de recogida de animales vagabundos, extraviados o abandonados sin autorización expresa de la Comunidad de Madrid.
+s) El incumplimiento de las condiciones de formación y cualificación previstas en esta Ley.
+t) El ejercicio por parte de veterinarios no oficiales que no cuentan con el reconocimiento de veterinario colaborador, de funciones propias de los veterinarios oficiales en programas específicos de protección y sanidad animal o de salud pública; o el ejercicio de estas funciones por parte de veterinarios colaboradores sin cumplir con las pautas marcadas por la Comunidad de Madrid en cuanto a procedimiento, plazos o cualquier otro elemento que asegure el desarrollo correcto de los programas.
+u) El incumplimiento por parte de los Ayuntamientos de las obligaciones de recogida y mantenimiento de los animales, hasta su destino final.
+v) La comisión de más de una infracción leve en el plazo de 3 años, cuando así haya sido declarado por resolución firme.
+w) Rifar un animal.
+x) Omisión de auxilio a un animal accidentado, herido, enfermo o en peligro, cuando pueda hacerse sin ningún riesgo ni para sí mismo, ni para terceros.
+y) La comisión de alguna de las infracciones tipificadas en el artículo siguiente, cuando por su escasa cuantía y entidad no merezcan la calificación de muy graves.
+
+### Artículo 29
+
+Artículo 29. Infracciones muy graves.
+Son infracciones administrativas muy graves las siguientes:
+a) El sacrificio de los animales, o la eutanasia en los supuestos o formas diferentes a lo dispuesto en la presente Ley.
+b) Maltratar a los animales.
+c) Abandonar a los animales.
+d) No recuperar a los animales perdidos o extraviados en el plazo previsto para ello.
+e) Realizar mutilaciones a los animales, salvo en los casos previstos en esta Ley.
+f) Educar a los animales de forma agresiva o violenta, o prepararlos para participar en peleas.
+g) La organización de peleas con o entre animales o la asistencia a las mismas.
+h) La utilización de animales para su participación en peleas o agresiones.
+i) La filmación con animales de escenas no simuladas que conlleven crueldad, maltrato o sufrimiento.
+j) Permitir o no impedir que los animales causen daños graves a la salud o a la seguridad.
+k) Disparar a los animales de compañía, excepto en los supuestos contemplados en el artículo 9.3 de esta Ley.
+l) Mantener fuera de recintos expresamente autorizados a los animales contemplados en el Anexo.
+m) El traslado de animales provisionalmente inmovilizados.
+n) La negativa o resistencia a suministrar datos o facilitar la información requerida por la autoridad competente, o sus agentes, en orden al cumplimiento de funciones establecidas en esta Ley, así como el suministro de información inexacta o de documentación falsa.
+ñ) Obstaculizar el ejercicio de cualquiera de las medidas provisionales de esta Ley.
+o) La comisión de más de una infracción grave en el plazo de 3 años, cuando así haya sido declarado por resolución firme.
+
+## CAPÍTULO II
+
+Sanciones y medidas provisionales
+
+### Artículo 30
+
+Artículo 30. Sanciones.
+1. Las infracciones serán sancionadas con multas de:
+a) 300 euros a 3.000 euros para las leves.
+b) 3.001 euros a 9.000 euros para las graves.
+c) 9.001 euros a 45.000 euros para las muy graves.
+2. De conformidad con lo previsto en la normativa vigente en la materia, la multa a imponer podrá ser incrementada en la cuantía del beneficio obtenido mediante la realización de la conducta tipificada como infracción.
+3. El órgano competente para resolver podrá adoptar, además de las multas a que se refiere el apartado primero, las siguientes sanciones accesorias:
+a) Decomiso de los animales para las infracciones graves o muy graves.
+b) Clausura temporal de los centros, instalaciones, locales o establecimientos por un plazo máximo de cinco años para las infracciones graves y de cinco a diez años para las muy graves.
+c) Prohibición temporal para el ejercicio de actividades reguladas por la presente Ley, por un plazo máximo de cinco años para las infracciones graves y de cinco a diez años para las muy graves.
+d) Baja en el Registro de Centros de Animales de Compañía de la Comunidad de Madrid, por un plazo máximo de cinco años para las infracciones graves y de cinco a diez años para las muy graves.
+e) Prohibición de la tenencia de animales por un período máximo de diez años para las infracciones graves y veinte para las muy graves.
+f) Retirada o no concesión de subvenciones o ayudas en materia de esta Ley por un plazo máximo de cinco años para las infracciones graves y de cinco a diez años para las muy graves.
+g) Retirada del reconocimiento de veterinario colaborador.
+
+### Artículo 31
+
+Artículo 31. Graduación de las sanciones.
+La graduación de las sanciones previstas por la Ley se hará conforme a los siguientes criterios:
+a) La trascendencia social o sanitaria y el perjuicio causado por la infracción.
+b) El ánimo de lucro y la cuantía del beneficio económico obtenido en la comisión de la infracción.
+c) La importancia del daño causado al animal.
+d) La reiteración en la comisión de infracciones.
+e) Cualquier otra que pueda incidir en el grado de reprochabilidad de la infracción, en un sentido atenuante o agravante. A tal efecto tendrá una especial significación la violencia en presencia de menores o discapacitados psíquicos.
+
+### Artículo 32
+
+Artículo 32. Medidas provisionales.
+1. Son medidas provisionales, que no tienen el carácter de sanción, las siguientes:
+a) La retirada provisional de aquellos animales objeto de protección, siempre que existan indicios de infracción de las disposiciones de la presente Ley, que aconsejen una retirada inmediata y urgente de los animales.
+b) La clausura o cierre de establecimientos, instalaciones o servicios que no cuenten con las preceptivas autorizaciones o registros, o la suspensión de su funcionamiento hasta que no se subsanen los defectos observados o se cumplan los requisitos exigidos por razones de protección y bienestar animal.
+2. Las medidas provisionales deben ser confirmadas o levantadas por resolución del órgano competente y su adopción no prejuzga la responsabilidad penal o administrativa de los sujetos a los que afecte.
+3. Las medidas provisionales se mantendrán mientras persistan las causas que motivaron su adopción.
+4. Si el depósito prolongado de los animales procedentes de retiradas cautelares pudiera ser peligroso para su supervivencia o comportarles sufrimientos innecesarios, la Consejería o Ayuntamiento competente podrá decidir sobre el destino del animal antes de la resolución del correspondiente procedimiento sancionador.
+
+### Artículo 33
+
+Artículo 33. Daños y gastos.
+1. En todos los casos, el infractor deberá reparar, mediante la correspondiente indemnización, los daños causados.
+El infractor deberá abonar la totalidad de los gastos causados como consecuencia de la infracción cometida y, especialmente, los derivados de la recogida, mantenimiento y tratamientos sanitarios de los animales, perdidos o abandonados.
+
+## CAPÍTULO III
+
+Procedimiento sancionador
+
+### Artículo 34
+
+Artículo 34. Procedimiento y competencia.
+1. Sin perjuicio de lo dispuesto en la legislación sobre procedimiento administrativo común, el procedimiento sancionador se sustanciará de conformidad con lo previsto en la normativa reglamentaria que regule el ejercicio de la potestad sancionadora en la Comunidad de Madrid con las especialidades establecidas en esta Ley.
+2. Serán competentes para imponer las sanciones previstas en la presente Ley:
+a) La Consejería competente en materia de animales de compañía en el caso de infracciones calificadas como muy graves con arreglo a la presente Ley, y las graves cuando el infractor sea el ayuntamiento.
+b) Los Ayuntamientos serán competentes para la imposición de sanciones graves y leves que afecten a los animales de compañía.
+
+### Artículo 35
+
+Artículo 35. Prescripción de infracción y sanción.
+1. Las infracciones administrativas a las que se refiere la presente Ley prescribirán en el plazo de cinco años las muy graves, en el de tres años las graves y en el de un año las leves, contados desde el día en que la infracción se hubiera cometido.
+2. Las sanciones impuestas por faltas muy graves prescribirán a los cinco años, las graves a los tres años y las leves al año, contados desde el día siguiente a aquél en que adquiera firmeza la resolución por la que se impuso la sanción.
+3. El plazo de prescripción se interrumpirá por la iniciación del procedimiento correspondiente con conocimiento del interesado y por la realización de cualquier actuación judicial.
+
+### Artículo 36
+
+Artículo 36. Caducidad.
+1. En los procedimientos sancionadores instruidos en aplicación de esta Ley, deberá dictarse y notificarse la oportuna resolución en el plazo máximo de un año, contados a partir del momento en que se acordó su iniciación.
+2. La falta de notificación de la resolución al interesado en dicho plazo determinará la caducidad del procedimiento, salvo que la demora se deba a causas imputables a los interesados o a la tramitación por los mismos hechos de un proceso judicial penal.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Medidas de ayuda.
+La Comunidad de Madrid consignará en el presupuesto anual la subvención suficiente a ayuntamientos y entidades para garantizar la aplicación de la presente Ley. Dicha cantidad económica deberá sufragar al menos el 50 % justificado de la inversión y gasto corriente, para la aplicación de las medidas adoptadas para el cumplimiento de la ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Acceso al registro de identificación de animales de compañía.
+La policía local, los cuerpos y fuerzas de seguridad, los ayuntamientos y los veterinarios oficiales tendrán acceso a la consulta individualizada de los datos en el Registro de identificación de animales de compañía asociados a un determinado código de identificación.
+Se modifica por el art. 9.24 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Perros de asistencia.
+Los perros de asistencia se regirán por la presente Ley, en lo no previsto por su normativa específica.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Control de poblaciones de aves urbanas.
+Para el control de poblaciones de aves urbanas, incluidas las tipificadas como invasoras, se favorecerán procedimientos de control de natalidad con métodos éticos como son, entre otros, los piensos anticonceptivos y el control de huevos.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Transporte de animales, colonias felinas, y otros.
+Serán de aplicación en el transporte de animales y en colonias felinas y en todo aquello no recogido en la presente ley, los preceptos establecidos Ley 7/2023, de 28 de marzo.
+Se añade por el art. 9.25 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Retirada de animales de carreteras.
+Los servicios municipales y los servicios encargados del mantenimiento de carreteras que retiren el cadáver de un animal de compañía, estarán obligados a comprobar su identificación y comunicar a las personas titulares del animal esta retirada.
+Se añade por el art. 9.26 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Adaptación de los registros supramunicipales en materia de animales de compañía.
+La información contenida sobre identificación de animales de compañía y centros de animales de compañía en registros supramunicipales, quedará automáticamente integrada en el Registro de identificación de animales de Compañía de la Comunidad de Madrid y en el Registro de núcleos zoológicos de animales de compañía de la Comunidad de Madrid respectivamente.
+Se modifica por el art. 9.27 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Ejemplares de especies incluidas en el Anexo adquiridos con anterioridad a la entrada en vigor de la Ley.
+Los ejemplares de las especies animales incluidas en el Anexo adquiridos como animales de compañía antes de la entrada en vigor de esta Ley, podrán ser mantenidos por sus propietarios, si bien deberán informar sobre dicha posesión a la Consejería competente en protección animal en el plazo máximo de un año. Los animales deberán estar correctamente identificados, y el propietario deberá firmar una declaración responsable en relación al mantenimiento de los animales bajo las adecuadas condiciones de seguridad, protección y sanidad animal. Los propietarios deberán informar con carácter inmediato de la liberación accidental de estos y no podrán comercializar, reproducir ni ceder a otro particular estos ejemplares.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Prohibición de determinadas especies como animales de compañía.
+Hasta la aprobación y publicación del listado positivo al que corresponda la especie (mamíferos, aves, reptiles, anfibios, peces o invertebrados) referido en la Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales, queda prohibida la tenencia como animales de compañía de los animales pertenecientes a especies que cumplan alguno de los siguientes criterios, relativos a su peligrosidad y a la necesidad de aplicar un principio de precaución en materia de conservación de la fauna silvestre amenazada:
+1. Artrópodos, peces y anfibios cuya mordedura o veneno pueda suponer un riesgo grave para la integridad física o la salud de personas y animales.
+2. Reptiles venenosos y todas las especies de reptiles que en estado adulto superen los dos kilogramos de peso, excepto en el caso de quelonios.
+3. Todos los primates.
+4. Mamíferos silvestres que en estado adulto superen los 5 kg.
+5. Especies incluidas en otra normativa sectorial a nivel estatal o comunitario que impida su tenencia en cautividad.
+Se añade por el art. 9.28 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa
+Queda derogada la Ley 1/1990, de 1 de febrero, de Protección de los Animales Domésticos, y cuantas disposiciones de igual o inferior rango se opongan a lo previsto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Entrada en vigor.
+La presente Ley entrará en vigor a los seis meses de su publicación.
+Se modifica por el art. 9.29 y 30 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Su anterior numeración era disposición final tercera.
+
+### Disposición final segunda
+
+Disposición final segunda. Actualización de sanciones.
+(Suprimido)
+Se suprime por el art. 9.29 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor a los seis meses de su publicación.
+
+## ANEXO
+
+Animales cuya tenencia está prohibida fuera de parques zoológicos registrados o recintos expresamente autorizados por la Comunidad de Madrid
+(Suprimido)
+Se suprime por el art. 9.31 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+Madrid, 22 de julio de 2016.
+La Presidenta,
+Cristina Cifuentes Cuencas.

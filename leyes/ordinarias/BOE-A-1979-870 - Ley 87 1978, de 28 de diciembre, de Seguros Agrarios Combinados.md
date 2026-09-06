@@ -1,0 +1,189 @@
+# Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados.
+
+- Identificador BOE: `BOE-A-1979-870`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1979-870
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+De conformidad con la Ley aprobada por las Cortes vengo en sancionar:
+
+## TÍTULO PRIMERO
+
+Principios generales
+
+### Artículo 1
+
+Artículo 1.
+Se establece el Seguro Agrario Combinado de riesgos múltiples en la forma y con sujeción a las disposiciones de esta Ley.
+
+### Artículo 2
+
+Artículo 2.
+El seguro al que se refiere la presente Ley será de aplicación a las producciones agrícolas, pecuarias y forestales, y se ajustará a los siguientes principios:
+Primero.–Su ámbito de aplicación comprenderá todo el territorio del Estado español, y la gestión y administración se realizará con criterios de descentralización de la Administración de la agricultura, sin perjuicio de lo que sobre las mismas dispongan los Estatutos de las comunidades autónomas.
+Segundo.–Su suscripción será voluntaria por parte de los agricultores, excepto en los supuestos que la propia Ley contempla.
+Tercero.–Las pólizas acogidas al régimen de la presente Ley podrán ser individuales y colectivas, en la forma que más adelante se indica.
+Cuarto.–El Estado velará por el control, extensión y aplicación del seguro, disponiendo para este fin de los medios e instrumentos a que se refiere esta Ley.
+Quinto.–Se buscará la mayor participación de los agricultores a través de sus propias Asociaciones y Organizaciones profesionales, sindicales, o de cualquier otra forma de agrupación legalmente reconocida.
+Sexto.–El Estado fomentará prioritariamente la constitución de Entidades Mutuales de los Agricultores para este tipo de seguro y procurará la colaboración de las demás Entidades aseguradoras y de las Cooperativas del Campo.
+Séptimo.–El Estado potenciará la investigación estadística y actuarial, la prevención de riesgos y prestará asesoramiento en estos temas a los asegurados en colaboración con los Organismos competentes.
+Octavo.–El Estado orientará la aplicación de los planes de Seguros Agrarios como instrumento de una política de ordenación agraria.
+
+## TÍTULO SEGUNDO
+
+Riesgos, zonas y producciones asegurables
+
+### Artículo 3
+
+Artículo 3.
+1. Los riesgos cuya cobertura atenderán los presentes seguros serán los daños ocasionados en las producciones agrícolas, ganaderas, forestales y acuícolas a causa de variaciones anormales de agentes naturales, siempre y cuando los medios técnicos de lucha preventiva normales no hayan podido ser utilizados por los afectados por causas no imputables a ellos o hayan resultado ineficaces, y serán: pedrisco, incendio, sequía, heladas, inundaciones, viento huracanado o viento cálido, nevadas, escarchas, exceso de humedad, plagas y enfermedades y otras adversidades climáticas.
+Podrán atenderse, asimismo, las consecuencias de dichos fenómenos sobre instalaciones y elementos productivos establecidos en la parcela afectada por el siniestro y que resultasen necesarios para el desarrollo de la producción asegurada.
+2. Los riesgos antes enumerados se asegurarán de forma combinada o, excepcionalmente, aislada.
+Se añade el párrafo segundo al apartado 1 por la disposición final 3 de la Ley 3/2010, de 10 de marzo. Ref. BOE-A-2010-4047#dftercera
+ Se modifica por el art. 89.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412#a89
+
+### Artículo 4
+
+Artículo 4.
+El seguro combinado de los riesgos, a que se refiere la presente Ley, será puesto en práctica de forma progresiva según producciones, zonas y riesgos, hasta su total implantación.
+
+### Artículo 5
+
+Artículo 5.
+El Gobierno, a propuesta de la Entidad Estatal de Seguros Agrarios, establecerá anualmente el Plan de Seguros Combinados que se regula en esta Ley, concretando la aplicación progresiva de la misma en cuanto a clases de riesgos, zonas de producción y ramas del seguro, así como las aportaciones del Estado de acuerdo con las disponibilidades presupuestarias, pudiendo, en su caso, ampliar la relación de los riesgos previstos en el artículo tercero.
+En la elaboración del plan anual habrán de participar las Cámaras Agrarias y las Organizaciones y Asociaciones, tanto profesionales como sindicales, de los agricultores.
+
+### Artículo 6
+
+Artículo 6.
+El Ministerio de Agricultura, de acuerdo con el plan establecido por el Gobierno, a propuesta de la Entidad Estatal de Seguros Agrarios, y con los mismos criterios de participación expresados en el artículo anterior, determinará reglamentariamente las fechas de suscripción del seguro para las distintas producciones, así como las condiciones técnicas mínimas de cultivo o explotación exigibles en cada zona o comarca, para que los mismos puedan ser amparados por el seguro.
+
+## TÍTULO TERCERO
+
+Características del Seguro
+
+### Artículo 7
+
+Artículo 7.
+Los contratos de seguro podrán ser de suscripción individual o colectiva, Podrán contratar la segunda modalidad, en la forma que reglamentariamente se determine, las agrupaciones establecidas o que se establezcan para este fin, así como las Organizaciones y Asociaciones de los Agricultores y Ganaderos, y, en su caso, las Cámaras Agrarias.
+
+### Artículo 8
+
+Artículo 8.
+1. No obstante el carácter voluntario del seguro, el Gobierno podrá acordar su obligatoriedad cuando para una zona o producción más del cincuenta por ciento de los que lleven o dirijan directamente las explotaciones agrarias presten su conformidad a suscribirlo, expresada a través de las Organizaciones y Asociaciones de Agricultores o las Cámaras Agrarias, sin perjuicio de que el Gobierno pueda acordarla por sí en casos graves.
+En el plan periódico se establecerán los mínimos de superficie continua que deba comprender cada zona para ser considerada a estos efectos.
+2. El acuerdo fijará las ramas y los riesgos mínimos de suscripción obligatoria y los que se puedan asegurar de modo voluntario, independientemente.
+
+## TÍTULO CUARTO
+
+Pólizas del Seguro
+
+### Artículo 9
+
+Artículo 9.
+1. Las pólizas del seguro contendrán como declaración las cosechas estimadas a obtener por cada agricultor en todas y cada una de sus explotaciones aseguradas, valoradas a los precios unitarios que determine el Ministerio de Agricultura, oídas las Organizaciones y Asociaciones de Agricultores, para cada campaña,
+2. Cuando existan campañas de regulación para determinados productos o cosechas, se calculará sobre los precios en ellas definidos.
+3. Los modelos de pólizas, bases técnicas y tarifas de primas de los seguros comprendidos en los Planes Anuales de Seguros Agrarios Combinados aprobados por el Gobierno, se ajustarán al régimen previsto en el artículo 24, apartado 5, letra c), de la Ley de Ordenación y Supervisión de los Seguros Privados.
+Se modifica el apartado 3 por la disposición adicional 10.1 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262#dadecima
+
+### Artículo 10
+
+Artículo 10.
+Los rendimientos estimados que figurarán en la póliza en los seguros obligatorios o a efectos de la aportación del Estado no podrán ser superiores en cada momento a los definidos según el procedimiento a que se refiere el artículo anterior.
+
+### Artículo 11
+
+Artículo 11.
+1. Las aportaciones del Estado al importe global de las primas a satisfacer por los agricultores se fijarán atendidas a las circunstancias de cada zona y cultivo, protegiéndose en todo caso a los agricultores de economía más modesta y primándose las pólizas colectivas, fijándose el porcentaje de las aportaciones por escalones, según el valor de la producción y excluyéndose aquellas que no requieran por su suficiencia económica. En todo caso, el importe de la aportación del Estado no podrá ser superior al cincuenta por ciento, ni inferior al veinte por ciento, del total anual de las primas.
+2. Por los Ministerios de Hacienda y de Agricultura, Pesca y Alimentación, conjuntamente, se establecerá, en cada caso y para cada zona, con la participación de las organizaciones y asociaciones de los agricultores, la parte de prima a pagar por los agricultores y el auxilio que corresponda aportar a la Administración en cumplimiento de esta Ley y de las determinaciones del plan anual de seguros agrícolas, así como de las posibilidades presupuestarias.
+Se modifica por el art. 89.2 de la Ley 53/2002, de 30 diciembre. Ref. BOE-A-2002-25412#a89
+ Se añade el párrafo segundo al apartado 1 por la disposición adicional 4.1 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736#cuarta
+
+## TÍTULO QUINTO
+
+Indemnizaciones por siniestros
+
+### Artículo 12
+
+Artículo 12.
+1. El Gobierno, a propuesta de los Ministerios de Agricultura y de Hacienda, establecerá las normas que han de regir los sistemas de peritación, así como las condiciones que han de reunir los Peritos tasadores.
+2. El establecimiento de los sistemas de peritación se realizará con la participación de los representantes de las Organizaciones y Asociaciones de agricultores y de las Entidades aseguradoras.
+
+### Artículo 13
+
+Artículo 13.
+1. Las indemnizaciones serán evaluadas en base a un porcentaje sobre el valor total de la cosecha. Este porcentaje podrá llegar al total de la cosecha estimada, según se especifique en cada póliza de acuerdo con lo que reglamentariamente se disponga.
+2. Las indemnizaciones por los siniestros ocurridos serán abonadas a los agricultores al finalizar la recolección de sus cosechas, a los tres meses en los siniestros ocurridos a la ganadería y a los seis meses en el caso de producciones forestales, no pudiendo percibir cada asegurado más que una sola indemnización por todos los siniestros ocurridos en su cultivo o explotación, como suma de los correspondientes daños sufridos.
+
+## TÍTULO SEXTO
+
+Créditos y ayudas vinculados al seguro
+
+### Artículo 14
+
+Artículo 14.
+Por el Ministerio de Hacienda, conjuntamente con el de Agricultura, se establecerán las lineas de financiación ligadas al seguro.
+
+### Artículo 15
+
+Artículo 15.
+En el caso de percibir un agricultor créditos oficiales garantizados por el seguro, el importe de las indemnizaciones en caso de siniestros se aplicara directamente, en primer lugar, al reintegro de las anualidades correspondientes del crédito.
+
+### Artículo 16
+
+Artículo 16.
+Todos los créditos oficiales que puedan ser otorgados directamente a financiación de la obtención de cosechas determinables, o producciones forestales o ganaderas también determinables, exigirán, para su concesión, la previa contratación del seguro.
+
+## TÍTULO SEPTIMO
+
+Entidad Estatal de Seguros Agrarios
+
+### Artículo 17
+
+Artículo 17.
+1. Por el Gobierno se creará una Entidad Estatal de Seguros Agrarios, adscrita al Ministerio de Agricultura, con personalidad jurídica propia y con participación, junto al Estado de las Organizaciones y Asociaciones de agricultores y ganaderos.
+2. Los recursos necesarios para el funcionamiento de la Entidad se aportarán en la cuantía y forma que se determine reglamentariamente. Como representantes del Estado actuarán los Ministerios de Agricultura y de Hacienda en la forma que se establezca.
+
+### Artículo 18
+
+Artículo 18.
+1. Será misión de la Entidad Estatal de Seguros Agrarios actuar como órgano de coordinación y enlace por parte de la Administración para las actividades vinculadas a los Seguros Agrarios, realizando los estudios necesarios para ir ampliando, en su caso, las coberturas de riesgos, así corno los riesgos a asegurar en cada plan y cuantas funciones le encomiende la Administración en cumplimiento de los preceptos de esta Ley,
+2. El Gobierno establecerá reglamentariamente las normas para que las Entidades aseguradoras realicen las funciones de suscripción y cobertura de los riesgos contemplados en la presente Ley.
+3. En el caso de que no se alcanzara por el conjunto de las entidades aseguradoras la totalidad de la cobertura prevista en esta Ley, el Consorcio de Compensación de Seguros asumirá la cobertura del riesgo en la forma y cuantía que determine el Ministro de Economía y Hacienda.
+Se modifica el apartado 3 por la disposición adicional 10.2 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262#dadecima
+
+### Disposición final
+
+Disposición final.
+A los efectos prevenidos en esta Ley, en los Presupuestos Generales del Estado se consignarán los créditos necesarios.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Gobierno dictará las disposiciones reglamentarias que sean precisas para el desarrollo y ejecución de la presente Ley.
+Se añade por la disposición adicional 10.3 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262#dadecima
+ Se deroga por la disposición derogatoria.4 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736#dd
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Concesión directa.
+Las aportaciones del Estado al importe global de las primas a satisfacer por los agricultores se concederán de forma directa a los agricultores, tal y como establece el artículo 22.2.b) de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, relativo al procedimiento de concesión de subvenciones.
+Se modifica por la disposición final 3 de la Ley 28/2015, de 30 de julio. Ref. BOE-A-2015-8563#dftercera.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Continuará rigiéndose por su específica legislación el actual Seguro Nacional de Cereales, hasta tanto sea absorbido por cuanto se dispone en esta Ley y en las disposiciones que la desarrollen y complementen.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Queda derogada la Ley de tres de diciembre de mil novecientos cincuenta y tres, en lo que se refiere a los riesgos objeto de la presente, y cuantas disposiciones se opongan a lo dispuesto en esta Ley.
+
+Dada en Madrid a veintiocho de diciembre de mil novecientos setenta y ocho.
+JUAN CARLOS
+El Presidente de las Cortes,
+ANTONIO HERNÁNDEZ GIL

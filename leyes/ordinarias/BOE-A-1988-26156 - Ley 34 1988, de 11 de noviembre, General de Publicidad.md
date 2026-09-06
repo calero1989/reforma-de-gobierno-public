@@ -1,0 +1,413 @@
+# Ley 34/1988, de 11 de noviembre, General de Publicidad.
+
+- Identificador BOE: `BOE-A-1988-26156`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1988-26156
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+La adhesión de España a las Comunidades Europeas implica, entre otros, el compromiso de actualizar la legislación española en aquellas materias en las que ha de ser armonizada con la comunitaria.
+El Consejo de las Comunidades Europeas aprobó con fecha 10 de septiembre de 1984 una directiva relativa a la armonización de las disposiciones legislativas, reglamentarias y administrativas de los países miembros en lo que afecta la publicidad engañosa.
+La legislación general sobre la materia está constituida en España por la Ley 61/1964, de 11 de junio, por la que se aprueba el Estatuto de la Publicidad, norma cuyo articulado ha caído en gran parte en desuso, por carecer de la flexibilidad necesaria para adaptarse a un campo como el de la publicidad, especialmente dinámico, y por responder a presupuestos políticos y administrativos alejados de los de la Constitución.
+Las circunstancias precedentes aconsejan la aprobación de una nueva Ley general sobre la materia, que sustituya en su totalidad al anterior Estatuto y establezca el cauce adecuado para la formación de jurisprudencia en su aplicación por los Jueces y Tribunales.
+En tal sentido, el Estado tiene competencia para regular dicha materia de acuerdo con lo establecido por el artículo 149, 1, 1.º, 6.º y 8.º de la Constitución.
+La publicidad, por su propia índole, es una actividad que atraviesa las fronteras. La Ley no sólo ha seguido las directrices comunitarias en la materia, sino que ha procurado también inspirarse en las diversas soluciones vigentes en el espacio jurídico intereuropeo.
+El contenido de la Ley se distribuye en cuatro Títulos. En los Títulos I y II se establecen las disposiciones generales y las definiciones o tipos de publicidad ilícita. Se articulan asimismo las diferentes modalidades de intervención administrativa en los casos de productos, bienes, actividades o servicios susceptibles de generar riesgos para la vida o la seguridad de las personas.
+En el Título III, constituido por normas de derecho privado, se establecen aquellas especialidades de los contratos publicitarios que ha parecido interesante destacar sobre el fondo común de la legislación civil y mercantil. Estas normas se caracterizan por su sobriedad. Se han recogido, no obstante, las principales figuras de contratos y de sujetos de la actividad publicitaria que la práctica del sector ha venido consagrando.
+En el Título IV se establecen las normas de carácter procesal que han de regir en materia de sanción y represión de la publicidad ilícita, sin perjuicio del control voluntario de la publicidad que al efecto pueda existir realizado por organismos de autodisciplina.
+En este sentido se atribuye a la jurisdicción ordinaria la competencia para dirimir las controversias derivadas de dicha publicidad ilícita en los términos de los artículos 3.º al 8.º Esta es una de las innovaciones que introduce esta Ley, decantándose por una opción distinta a la contemplada en el Estatuto de la Publicidad de 1964. Este último contempla la figura de un órgano administrativo, «El Jurado Central de Publicidad», competente para entender de las cuestiones derivadas de la actividad publicitaria. Por razones obvias, entre otras, las propias constitucionales derivadas de lo dispuesto en el artículo 24.2 en donde se fija un principio de derecho al juez ordinario, así como las que se desprenden de la estructura autonómica del Estado, se ha optado por atribuir esa competencia a los Tribunales Ordinarios.
+De conformidad con lo establecido en los artículos 4 y siguientes de la Directiva 84/450 de la CEE sobre publicidad engañosa, se instituye en este Titulo un procedimiento sumario encaminado a obtener el cese de la publicidad ilícita.
+El proceso de cesación se articula con la máxima celeridad posible, sin merma de las garantías necesarias para el ejercicio de una actividad de tanta trascendencia económica y social como es la publicitaria. La tramitación se realizará conforme a lo previsto en la Ley de Enjuiciamiento Civil de 3 de febrero de 1981 para los juicios de menor cuantía, con una serie de modificaciones, inspiradas en la Ley Orgánica 2/1984, de 26 de marzo, reguladora del Derecho a la Rectificación, y en las directrices comunitarias, y tendentes a adaptar la práctica judicial a las peculiaridades del fenómeno publicitario.
+El Juez, atendidos todos los intereses implicados y, especialmente, el interés general, podrá acordar la cesación provisional o la prohibición de la publicidad ilícita, así como adoptar una serie de medidas encaminadas a corregir los efectos que la misma hubiera podido ocasionar.
+Por último, en la Disposición Transitoria se establece que las normas que regulan la publicidad de los productos a que se refiere el artículo 8.o conservarán su vigencia hasta tanto no se proceda a su modificación para adaptarlas a lo dispuesto en la presente Ley.
+La Disposición Derogatoria prevé la derogación íntegra del Estatuto de la Publicidad de 1964 y de cuantas normas se opongan a lo establecido en la nueva Ley.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La publicidad se regirá por esta Ley, por la Ley de Competencia Desleal y por las normas especiales que regulen determinadas actividades publicitarias.
+Se modifica por el art. 2.1 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 2
+
+Artículo 2.
+A los efectos de esta Ley, se entenderá por:
+– Publicidad: Toda forma de comunicación realizada por una persona física o jurídica, pública o privada, en el ejercicio de una actividad comercial, industrial, artesanal o profesional, con el fin de promover de forma directa o indirecta la contratación de bienes muebles o inmuebles, servicios, derechos y obligaciones.
+– Destinatarios: Las personas a las que se dirija el mensaje publicitario o a las que éste alcance.
+
+## TÍTULO II
+
+De la publicidad ilícita y de las acciones para hacerla cesar
+Se modifica por el art. 2.1 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 3
+
+Artículo 3. Publicidad ilícita.
+Es ilícita:
+a) La publicidad que atente contra la dignidad de la persona o vulnere los valores y derechos reconocidos en la Constitución Española, especialmente a los que se refieren sus artículos 14, 18 y 20, apartado 4. Se entenderán incluidos en la previsión anterior los anuncios que presenten a las mujeres de forma vejatoria, bien utilizando particular y directamente su cuerpo o partes del mismo como mero objeto desvinculado del producto que se pretende promocionar, bien su imagen asociada a comportamientos estereotipados que vulneren los fundamentos de nuestro ordenamiento, coadyuvando a generar las violencias a que se refieren la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género y la Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la libertad sexual.
+Asimismo, se entenderá incluida en la previsión anterior cualquier forma de publicidad que coadyuve a generar violencia o discriminación en cualquiera de sus manifestaciones sobre las personas menores de edad, o fomente estereotipos de carácter sexista, racista, estético o de carácter homofóbico o transfóbico o por razones de discapacidad, así como la que promueva la prostitución.
+Igualmente, se considerará incluida en la previsión anterior la publicidad que promueva las prácticas comerciales para la gestación por sustitución.
+b) La publicidad dirigida a menores que les incite a la compra de un bien o de un servicio, explotando su inexperiencia o credulidad, o en la que aparezcan persuadiendo de la compra a padres o tutores. No se podrá, sin un motivo justificado, presentar a los niños en situaciones peligrosas. No se deberá inducir a error sobre las características de los productos, ni sobre su seguridad, ni tampoco sobre la capacidad y aptitudes necesarias en el niño para utilizarlos sin producir daño para sí o a terceros.
+c) La publicidad subliminal.
+d) La que infrinja lo dispuesto en la normativa que regule la publicidad de determinados productos, bienes, actividades o servicios.
+e) La publicidad engañosa, la publicidad desleal y la publicidad agresiva, que tendrán el carácter de actos de competencia desleal en los términos contemplados en la Ley de Competencia Desleal.
+Se añade un párrafo final al letra a) por la disposición final 1.1 de la Ley Orgánica 1/2023, de 28 de febrero. Ref. BOE-A-2023-5364#df
+ Se modifica la letra a), con efectos desde el 7 de octubre de 2022, por la disposición final 3 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-3
+ Se modifica la letra a) por la disposición final 5 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-5
+ Se modifica por el art. 2.1 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Se modifica la letra a) por la disposición adicional 6.1 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+
+### Artículo 4
+
+Artículo 4. Publicidad subliminal.
+A los efectos de esta ley, será publicidad subliminal la que mediante técnicas de producción de estímulos de intensidades fronterizas con los umbrales de los sentidos o análogas, pueda actuar sobre el público destinatario sin ser conscientemente percibida.
+Se modifica por el art. 2.1 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 5
+
+Artículo 5. Publicidad sobre determinados bienes o servicios.
+1. La publicidad de materiales o productos sanitarios y de aquellos otros sometidos a reglamentaciones técnico-sanitarias, así como la de los productos, bienes, actividades y servicios susceptibles de generar riesgos para la salud o seguridad de las personas o de su patrimonio, o se trate de publicidad sobre juegos de suerte, envite o azar, podrá ser regulada por sus normas especiales o sometida al régimen de autorización administrativa previa. Dicho régimen podrá asimismo establecerse cuando la protección de los valores y derechos constitucionalmente reconocidos así lo requieran.
+2. Los reglamentos que desarrollen lo dispuesto en el número precedente y aquellos que al regular un producto o servicio contengan normas sobre su publicidad especificarán:
+a) La naturaleza y características de los productos, bienes, actividades y servicios cuya publicidad sea objeto de regulación. Estos reglamentos establecerán la exigencia de que en la publicidad de estos productos se recojan los riesgos derivados, en su caso, de la utilización normal de los mismos.
+b) La forma y condiciones de difusión de los mensajes publicitarios.
+c) Los requisitos de autorización y, en su caso, registro de la publicidad, cuando haya sido sometida al régimen de autorización administrativa previa.
+En el procedimiento de elaboración de estos reglamentos será preceptiva la audiencia de las organizaciones empresariales representativas del sector, de las asociaciones de agencias y de anunciantes y de las asociaciones de consumidores y usuarios, en su caso, a través de sus órganos de representación institucional.
+3. El otorgamiento de autorizaciones habrá de respetar los principios de libre competencia, de modo que no pueda producirse perjuicio de otros competidores.
+La denegación de solicitudes de autorización deberá ser motivada.
+Una vez vencido el plazo de contestación que las normas especiales establezcan para los expedientes de autorización, se entenderá otorgado el mismo por silencio administrativo positivo.
+4. Los productos estupefacientes, psicotrópicos y medicamentos, destinados al consumo de personas y animales, solamente podrán ser objeto de publicidad en los casos, formas y condiciones establecidos en las normas especiales que los regulen.
+5. Se prohíbe la comunicación comercial audiovisual de bebidas alcohólicas con un nivel superior a veinte grados, excepto cuando sea emitida entre la 1:00 y las 5:00 horas.
+La comunicación comercial audiovisual de bebidas alcohólicas con un nivel igual o inferior a veinte grados, se someterá a los requisitos establecidos en la normativa de comunicación audiovisual.
+Queda prohibida la publicidad de bebidas alcohólicas con graduación alcohólica superior a veinte grados en aquellos lugares donde esté prohibida su venta o consumo.
+La forma, contenido y condiciones de la publicidad de bebidas alcohólicas serán limitados reglamentariamente en orden a la protección de la salud y seguridad de las personas, teniendo en cuenta los sujetos destinatarios, la no inducción directa o indirecta a su consumo indiscriminado y en atención a los ámbitos educativos, sanitarios y deportivos.
+Con los mismos fines que el párrafo anterior el Gobierno podrá, reglamentariamente, extender las prohibiciones previstas en este apartado para bebidas con más de veinte grados a bebidas con graduación alcohólica inferior a veinte grados.
+6. El incumplimiento de las normas especiales que regulen la publicidad de los productos, bienes, actividades y servicios a que se refieren los apartados anteriores, tendrá consideración de infracción a los efectos previstos en la Ley General para la Defensa de los Consumidores y Usuarios y en la Ley General de Sanidad.
+Se modifica el apartado 5 por la disposición final 1 de la Ley 13/2022, de 7 de julio. Ref. BOE-A-2022-11311#df
+ Se modifica el apartado 5 por la disposición final 7 de la Ley 12/2012, de 26 de diciembre. Ref. BOE-A-2012-15595.
+ Se modifica por el art. 2.1 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 6
+
+Artículo 6. Acciones frente a la publicidad ilícita.
+1. Las acciones frente a la publicidad ilícita serán las establecidas con carácter general para las acciones derivadas de la competencia desleal por el capítulo IV de la Ley 3/1991, de 10 de enero, de Competencia Desleal.
+Si el contenido de la publicidad incumple los requisitos legalmente exigidos en esta o cualquier otra norma específica o sectorial, a la acción de cesación prevista en esta Ley podrá acumularse siempre que se solicite la de nulidad y anulabilidad, la de incumplimiento de obligaciones, la de resolución o rescisión contractual y la de restitución de cantidades que correspondiera
+2. Adicionalmente, frente a la publicidad ilícita por utilizar de forma discriminatoria o vejatoria la imagen de la mujer o por promover las prácticas comerciales para la gestación por sustitución, están legitimados para el ejercicio de las acciones previstas en el artículo 32.1, 1.ª a 4.ª de la Ley 3/1991, de 10 de enero, de Competencia Desleal:
+a) La Delegación del Gobierno para la Violencia de Género.
+b) El Instituto de la Mujer o su equivalente en el ámbito autonómico.
+c) Las asociaciones legalmente constituidas que tengan como objetivo único la defensa de los intereses de la mujer y no incluyan como asociados a personas jurídicas con ánimo de lucro.
+d) El Ministerio Fiscal.
+Se modifica el apartado 2 por la disposición final 1.2 de la Ley Orgánica 1/2023, de 28 de febrero. Ref. BOE-A-2023-5364#df
+ Se añade un párrafo segundo al apartado 1 por la disposición final 3 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+ Se modifica por el art. 2.1 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Se modifica por el art. 9.1 de la Ley 39/2002, de 28 de octubre. Ref. BOE-A-2002-20855
+
+### Artículo 6 bis
+
+Artículo 6 bis.
+1. A los efectos de esta Ley, será publicidad comparativa la que aluda explícita o implícitamente a un competidor o a los bienes o servicios ofrecidos por él.
+2. La comparación estará permitida si cumple los siguientes requisitos:
+a) Los bienes o servicios comparados habrán de tener la misma finalidad o satisfacer las mismas necesidades.
+b) La comparación se realizará de modo objetivo entre una o más características esenciales, pertinentes, verificables y representativas de los bienes o servicios, entre las cuales podrá incluirse el precio.
+c) En el supuesto de productos amparados por una denominación de origen o indicación geográfica, denominación específica o especialidad tradicional garantizada, la comparación sólo podrá efectuarse con otros productos de la misma denominación.
+d) No podrán presentarse bienes o servicios como imitaciones o réplicas de otros a los que se aplique una marca o nombre comercial protegido.
+e) Si la comparación hace referencia a una oferta especial se indicará su fecha de inicio, si no hubiera comenzado aún, y la de su terminación.
+f) No podrá sacarse una ventaja indebida de la reputación de una marca, nombre comercial u otro signo distintivo de algún competidor, ni de las denominaciones de origen o indicaciones geográficas, denominaciones específicas o especialidades tradicionales garantizadas que amparen productos competidores. Tampoco podrá sacarse una ventaja indebida, en su caso, del método de producción ecológica de los productos competidores.
+3. En aquellas profesiones colegiadas en las que, en virtud de lo dispuesto en el artículo 8.1 de la presente Ley, resulte de aplicación una norma especial o un régimen de autorización administrativa previa en relación con su actividad publicitaria, la publicidad comparativa de sus servicios profesionales se ajustará a lo que se disponga en dicha norma o régimen.
+Los requisitos que conforme a esta Ley ha de reunir la publicidad comparativa para ser considerada lícita deberán ser exigidos, en todo caso, por la normativa especial a la que se refiere el párrafo anterior, la cual podrá establecer además otras limitaciones o prohibiciones del uso de comparaciones en la publicidad.
+4. El incumplimiento de los requisitos previstos en el apartado 2 del presente artículo y, en general, cualquier publicidad desleal que induzca a error a los consumidores, tendrá la consideración de infracción a los efectos previstos en la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios.
+Se añade por el art. 9.2 de la Ley 39/2002, de 28 de octubre. Ref. BOE-A-2002-20855
+
+## TITULO III
+
+TÍTULO III
+De la contratación publicitaria
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 7
+
+Artículo 7.
+Los contratos publicitarios se regirán por las normas contenidas en el presente Título, y en su defecto por las reglas generales del Derecho Común. Lo dispuesto en el mismo sera de aplicación a todos los contratos publicitarios, aun cuando versen sobre actividades publicitarias no comprendidas en el artículo 2.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 9.
+
+### Artículo 8
+
+Artículo 8.
+A lo efectos de esta Ley:
+– Es anunciante la persona natural o jurídica en cuyo interés se realiza la publicidad.
+– Son agencias de publicidad las personas naturales o jurídicas que se dediquen profesionalmente y de manera organizada a crear, preparar, programar o ejecutar publicidad por cuenta de un anunciante.
+Tendrán la consideración de medios de publicidad las personas naturales o jurídicas, públicas o privadas, que, de manera habitual y organizada, se dediquen a la difusión de publicidad a través de los soportes o medios de comunicación social cuya titularidad ostenten.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 10.
+ Se deroga el apartado 5 por la disposición derogatoria única.b) de la Ley 28/2005, de 26 de diciembre. Ref. BOE-A-2005-21261
+
+## TÍTULO III
+
+De la contratación publicitaria
+
+## CAPÍTULO PRIMERO
+
+Disposiciones generales
+
+### Artículo 9
+
+Artículo 9.
+Los medios de difusión deslindarán perceptiblemente las afirmaciones efectuadas dentro de su función informativa de las que hagan como simples vehículos de publicidad. Los anunciantes deberán asimismo desvelar inequívocamente el carácter publicitario de sus anuncios.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 11.
+
+### Artículo 10
+
+Artículo 10.
+El anunciante tiene derecho a controlar la ejecución de la campaña de publicidad.
+Para garantizar este derecho, las organizaciones sin fines lucrativos constituidas legalmente en forma tripartita por anunciantes, agencias de publicidad y medios de difusión podrán comprobar la difusión de los medios publicitarios y, en especial, las cifras de tirada y venta de publicaciones periódicas.
+Esta comprobación se hará en régimen voluntario.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 12.
+
+### Artículo 11
+
+Artículo 11.
+En los contratos publicitarios no podrán incluirse cláusulas de exoneración, imputación o limitación de la responsabilidad frente a terceros en que puedan incurrir las partes como consecuencia de la publicidad.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 13.
+
+### Artículo 12
+
+Artículo 12.
+Se tendrá por no puesta cualquier cláusula por la que, directa o indirectamente, se garantice el rendimiento económico o los resultados comerciales de la publicidad, o se prevea la exigencia de responsabilidad por esta causa.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 14.
+
+## CAPÍTULO II
+
+De los contratos publicitarios
+
+### Sección 1
+
+Sección 1.ª Contrato de publicidad
+
+### Artículo 13
+
+Artículo 13.
+Contrato de publicidad es aquél por el que un anunciante encarga a una agencia de publicidad, mediante una contraprestación, la ejecución de publicidad y la creación, preparación o programación de la misma.
+Cuando la agencia realice creaciones publicitarias, se aplicarán también las normas del contrato de creación publicitaria.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 15.
+
+### Artículo 14
+
+Artículo 14.
+El anunciante deberá abstenerse de utilizar para fines distintos de los pactados cualquier idea, información o material publicitario suministrado por la agencia. La misma obligación tendrá la agencia respecto de la información o material publicitario que el anunciante le haya facilitado a efectos del contrato.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 16.
+
+## CAPÍTULO II
+
+De los contratos publicitarios
+
+## Sección 1
+
+Sección 1.ª Contrato de publicidad
+
+### Artículo 15
+
+Artículo 15.
+Si la publicidad no se ajustase en sus elementos esenciales a los términos del contrato o a las instrucciones expresas del anunciante, éste podrá exigir una rebaja de la contraprestación o la repetición total o parcial de la publicidad en los términos pactados, y la indemnización, en uno y otro caso, de los perjuicios que se le hubieren irrogado.
+Se modifica por el art. 2.2 por la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 17.
+
+### Artículo 16
+
+Artículo 16.
+Si la agencia injustificadamente no realiza la prestación comprometida o lo hace fuera del término establecido, el anunciante podrá resolver el contrato y exigir la devolución de lo pagado, así como la indemnización de daños y perjuicios.
+Asimismo, si el anunciante resolviere o incumpliere injustificada y unilateralmente el contrato con la agencia sin que concurran causas de fuerza mayor o lo cumpliere sólo de forma parcial o defectuosa, la agencia podrá exigir la indemnización por daños y perjuicios a que hubiere lugar.
+La extinción del contrato no afectará a los derechos de la agencia por la publicidad realizada antes del cumplimiento.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 18.
+
+## Sección 2
+
+Sección 2.ª Contrato de difusión publicitaria
+
+### Artículo 17
+
+Artículo 17.
+Contrato de difusión publicitaria es aquél por el que, a cambio de una contraprestación fijada en tarifas preestablecidas, un medio se obliga en favor de un anunciante o agencia a permitir la utilización publicitaria de unidades de espacio o de tiempo disponibles y a desarrollar la actividad técnica necesaria para lograr el resultado publicitario.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 19.
+
+### Artículo 18
+
+Artículo 18.
+Si el medio, por causas imputables al mismo, cumpliere una orden con alteración, defecto o menoscabo de algunos de sus elementos esenciales, vendrá obligado a ejecutar de nuevo la publicidad en los términos pactados. Si la repetición no fuere posible, el anunciante o la agencia podrán exigir la reducción del precio y la indemnización de los perjuicios causados.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 20.
+
+## Sección 2
+
+Sección 2.ª Contrato de difusión publicitaria
+
+### Artículo 19
+
+Artículo 19.
+Salvo caso de fuerza mayor, cuando el medio no difunda la publicidad, el anunciante o a la agencia podrán optar entre exigir una difusión posterior en las mismas condiciones pactadas o denunciar el contrato con devolución de lo pagado por la publicidad no difundida. En ambos casos, el medio deberá indemnizar los daños y perjuicios ocasionados.
+Si la falta de difusión fuera imputable al anunciante o a la agencia, el responsable vendrá obligado a indemnizar al medio y a satisfacerle íntegramente el precio, salvo que el medio haya ocupado total o parcialmente con otra publicidad las unidades de tiempo o espacio contratadas.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 21.
+
+## Sección 3
+
+Sección 3.ª Contrato de creación publicitaria
+
+### Artículo 20
+
+Artículo 20.
+Contrato de creación publicitaria es aquél por el que, a cambio de una contraprestación, una persona física o jurídica se obliga en favor de un anunciante o agencia a idear y elaborar un proyecto de campaña publicitaria, una parte de la misma o cualquier otro elemento publicitario.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 22.
+
+### Artículo 21
+
+Artículo 21.
+Las creaciones publicitarias podrán gozar de los derechos de propiedad industrial o intelectual cuando reúnan los requisitos exigidos por las disposiciones vigentes.
+No obstante lo dispuesto en el párrafo anterior, los derechos de explotación de las creaciones publicitarias se presumirán, salvo pacto en contrario, cedidos en exclusiva al anunciante o agencia, en virtud del contrato de creación publicitaria y para los fines previstos en el mismo.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 23.
+
+## Sección 3
+
+Sección 3.ª Contrato de creación publicitaria
+
+## Sección 4
+
+Sección 4.ª Contrato de patrocinio
+
+### Artículo 22
+
+Artículo 22.
+El contrato de patrocinio publicitario es aquél por el que el patrocinado, a cambio de una ayuda económica para la realización de su actividad deportiva, benéfica, cultural, científica o de otra índole, se compromete a colaborar en la publicidad del patrocinador.
+El contrato de patrocinio publicitario se regirá por las normas del contrato de difusión publicitaria en cuanto le sean aplicables.
+Se modifica por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Su anterior numeración era art. 24.
+
+### Artículo 23
+
+Artículo 23.
+(Sin contenido)
+Se renumera como art. 21 por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+## Sección 4
+
+Sección 4.ª Contrato de patrocinio
+
+### Artículo 24
+
+Artículo 24.
+(Sin contenido)
+Se renumera como art. 22 por el art. 2.2 de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+## TÍTULO IV
+
+De la acción de cesación y rectificación y de los procedimientos
+Se deroga por la disposición derogatoria única.1.a) de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 25
+
+Artículo 25.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Se añade el apartado 1 bis por la disposición adicional 6.2 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+ Se modifica por el art. 10.1 de la Ley 39/2002, de 28 de octubre. Ref. BOE-A-2002-20855
+
+### Artículos 25 a 33
+
+Artículos 25 a 33.
+(Derogados)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 26
+
+Artículo 26.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Se modifica por el art. 10.2 de la Ley 39/2002, de 28 de octubre. Ref. BOE-A-2002-20855
+
+### Artículo 27
+
+Artículo 27.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 28
+
+Artículo 28.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 29
+
+Artículo 29.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Se añade por el art. 10.3 de la Ley 39/2002, de 28 de octubre. Ref. BOE-A-2002-20855
+ Se deroga por la disposición derogatoria única.2.12 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323
+
+### Artículo 30
+
+Artículo 30.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.12 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323
+
+### Artículo 31
+
+Artículo 31.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 32
+
+Artículo 32.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+
+### Artículo 33
+
+Artículo 33.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.12 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323
+
+### DISPOSICIÓN ADICIONAL 
+
+DISPOSICIÓN ADICIONAL
+(Derogada)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 29/2009, de 30 de diciembre. Ref. BOE-A-2009-21162
+ Se añade por la disposición adicional 6.3 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+
+### DISPOSICIÓN TRANSITORIA
+
+Las normas que regulan la publicidad de los productos a que se refiere el artículo 8 conservarán su vigencia hasta tanto no se proceda a su modificación para adaptarlas a lo dispuesto en la presente Ley.
+
+### DISPOSICIÓN DEROGATORIA
+
+Queda derogada la Ley 61/1964, de 11 de junio, por lo que se aprueba el Estatuto de la Publicidad, y cuantas disposiciones se opongan a lo establecido en la presente Ley.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela, Madrid a 11 de noviembre de 1988.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

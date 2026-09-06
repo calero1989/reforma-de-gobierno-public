@@ -1,0 +1,948 @@
+# Ley 11/1994, de 27 de diciembre, de espacios naturales protegidos de la Comunidad Valenciana.
+
+- Identificador BOE: `BOE-A-1995-3325`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-3325
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos, que las Cortes Valencianas han aprobado, y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley:
+PREÁMBULO
+La Comunidad Valenciana se caracteriza por una notable diversidad de ambientes que, en conjunto, configuran un patrimonio natural rico y variado.
+Esta diversidad viene dada en parte por las características físicas del territorio valenciano, situado en la encrucijada entre sectores biogeográficos diversos y con un soporte físico variado en cuanto a geomorfología, clima, suelos, hidrogeología y otros factores. Esta circunstancia, ayudada por una historia ecológica compleja, es propicia a la variabilidad ambiental y, consecuentemente, a la existencia de una notable biodiversidad. Prueba de ello es el extenso catálogo de especies animales y vegetales, uno de los más ricos de Europa, caracterizado por la abundancia de endemismos tan relevantes como los peces «Valencia hispánica» (samuruc) y «Aphanius iberus» (fartet), así como un considerable número de especies vegetales restringididas al territorio valenciano o a éste y su entorno inmediato.
+Otro componente importante de la diversidad ambiental de la Comunidad Valenciana es resultado de la historia humana ya que, como en el resto de la cuenca mediterránea, el medio que solemos denominar natural es en realidad el resultado histórico de la interacción secular entre ecosistemas naturales y actividad socio-económica tradicional. Esta interacción ha dado casos relevantes de armonía paisajística y también ejemplos notables de uso sostenible de los recursos ambientales con preservación de importantes valores ecológicos. Sin embargo, los cambios recientes en los usos socio-económicos del territorio y los recursos, han provocado la crisis de muchos sistemas agrosilvo-pastorales o urbanos tradicionales, con consecuencias de amplio alcance sobre los ecosistemas naturales y, en general, sobre el medio rural en sus aspectos físico y socio-económico. Amplias zonas rurales del interior de la Comunidad Valenciana se despueblan o se marginalizan económica y socialmente, con los consiguientes procesos de abandono de cultivos, de pastos o de explotaciones forestales. Estos procesos provocan varios efectos ecológicos indeseables, como el incremento del riesgo de incendio forestal y la pérdida de suelos por los procesos erosivos. En paralelo, ciertos sectores del territorio, en buena parte costeros, sufren un proceso de desarrollo acelerado en términos económicos, poblacionales y de uso del territorio, lo que somete a los ambientes naturales a una presión muchas veces excesiva. Se da la circunstancia de que estos ambientes costeros son los más frágiles y ricos en cuanto a diversidad de especies y paisajes.
+Dada la complejidad e incremento de los procesos y riesgos que afectan al patrimonio natural valenciano, se impone una actuación dirigida hacia la conservación de los elementos más significativos del mismo, bajo dos aspectos: Protección de los ambientes particularmente valiosos y protección de una gama de unidades ambientales representativa de nuestros principales ecosistemas naturales. La fragilidad de muchos ecosistemas impone condiciones muy particulares a las iniciativas de conservación, obligando también a reconocer la necesidad y adquirir el compromiso de restaurar y recuperar espacios y hábitats degradados que hayan presentado o puedan presentar las características de las áreas reguladas por esta ley.
+Todo ello debe realizarse en forma compatible con el mantenimiento y desarrollo de la actividad socioeconómica, con criterios de uso sostenible de los recursos naturales y búsqueda de modelos innovadores de ecodesarrollo, ya que la defensa medio ambiental debe llevar aparejada por cuenta de la sociedad, y en el supuesto de que se produzca sacrificios individuales, la colaboración técnica y económica con el fin de contribuir al cumplimiento de los objetivos previstos en la Ley por lo que se debe asumir el compromiso por parte de la Generalidad Valenciana de destinar fondos específicos a esta finalidad. Por otra parte, es importante no olvidar el uso social que debe reservarse para el patrimonio natural, desde el punto de vista de la investigación, estudio, enseñanza y disfrute ordenado de la naturaleza. Esta función social es una de las principales que debe cumplir un espacio natural protegido.
+Un primer intento de abordar esta compleja problemática en la Comunidad Valenciana fue el proceso de declaración de los primeros parques naturales valencianos a partir de 1986, en virtud de la hoy derogada Ley estatal de Espacios Naturales de 1975; siguieron a éstos los parajes naturales declarados según la Ley de la generalidad Valenciana 5/1988, de 24 de junio, reguladora de los Parajes Naturales de la Comunidad Valenciana. La promulgación de la Ley estatal 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres, ofreció en su momento posibilidades inéditas sobre administración y gestión del medio natural, al tiempo que el manejo ordinario de los espacios protegidos valencianos fue haciendo patentes necesidades jurídicas y administrativas que la Ley de Parajes Naturales no estaba en condiciones de abordar adecuadamente.
+Por tanto, parece evidente la necesidad de elaborar una ley valenciana de espacios naturales protegidos que, por una parte, sustituya a la Ley de Parajes Naturales de la Comunidad Valenciana, y, por otra, desarrolle y adecue a la realidad territorial valenciana la Ley estatal 4/1989, de 27 de marzo, que ha demostrado hasta el momento su vigencia y utilidad como Ley básica. También se tiene en cuenta las Directivas europeas y, en concreto, la 79/409/CE y la 91/294/CE (referente a la Directiva de Aves Silvestres), así como la número 92/43/CE (Directiva de Hábitat), que será la base para definir la Red Natural 2000 en el ámbito de la Unión Europea. Siguiendo estos criterios, las Cortes Valencianas aprobaron una resolución recabando del Gobierno valenciano la presentación de un proyecto de ley de espacios naturales protegidos de la Comunidad Valenciana, durante el año 1994.
+Teniendo en cuenta lo avanzado del proceso tendente a la declaración del marjal de Pego-Oliva como espacio natural protegido, proceso que incluye la redacción de un plan de ordenación de recursos naturales, parece oportuno que la promulgación de la presente ley coincida con la declaración del parque natural del Marjal de Pego-Oliva en un mismo acto.
+Mediante decreto del Gobierno valenciano se especificará posteriormente el régimen jurídico y administrativo de este nuevo espacio protegido.
+La Ley de Espacios Naturales Protegidos de la Comunidad Valenciana define siete categorías distintas de espacio natural protegido que, en conjunto, ofrecen un cauce administrativo adecuado para una correcta gestión de los espacios naturales en un territorio como el valenciano, caracterizado por la heterogeneidad territorial bajo todos los aspectos, tanto físico-naturales como poblacionales y socio-económicos. Estas categorías de espacio protegido son las siguientes: Parque natural, paraje natural, paraje natural municipal, reserva natural, monumento natural, sitio de interés y paisaje protegido. La ley contempla también una protección con carácter general para las zonas húmedas, cuevas y vías pecuarias.
+Se establece, asimismo, un procedimiento detallado para la declaración de los espacios protegidos, de acuerdo con las necesidades advertidas durante los procesos de declaración y puesta en funcionamiento de los actuales parques y parajes naturales. Con el mismo criterio, se definen los efectos administrativos que comportan la declaración de un espacio protegido.
+Como novedad normativa en la Comunidad Valenciana, se prevé la posibilidad de establecer regímenes de protección preventiva y perimetral, definiendo el concepto de áreas de amortiguación de impactos en el entorno de los espacios protegidos.
+Se definen como instrumentos de ordenación los planes de ordenación de recursos naturales, planes rectores de uso y gestión, planes especiales y normas de protección. Estas figuras cubren las necesidades en mecanismos de ordenación de los espacios protegidos y también del medio natural y rural necesitado de protección específica o de mecanismos de gestión territorial para un uso sostenible de los recursos.
+Los mecanismos de gestión de los espacios protegidos también se adecuan a las necesidades advertidas durante el manejo de los actuales parques y parajes naturales, incidiéndose en la participación ciudadana y de los colectivos y entidades locales en la gestión de los espacios. El capítulo de infracciones y sanciones sufre una revisión en consecuencia.
+Por último, los actuales parques y parajes naturales son reconvertidos a las nuevas figuras definidas por la ley, de acuerdo con sus características específicas.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la ley.
+1. La presente Ley tiene por objeto establecer el régimen aplicable a los espacios naturales protegidos y a los espacios protegidos de la Red Natura 2000 en la Comunitat Valenciana.
+2. Los espacios naturales declarados por Ley de las Cortes Generales en el ámbito de la Comunidad Valenciana se regirán por la norma de creación correspondiente.
+3. Constituyen espacios naturales protegidos a efectos de la presente Ley las áreas o hitos geográficos que contengan elementos o sistemas naturales de particular valor, interés o singularidad, tanto debidos a la acción y evolución de la naturaleza, como derivados de la actividad humana, que se consideren merecedores de una protección especial.
+Se modifica el apartado 1 por el art. 58 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 2
+
+Artículo 2. Finalidad.
+1. Es finalidad de esta Ley la protección, conservación, restauración, mejora y uso sostenible de los espacios naturales de la Comunidad Valenciana.
+2. Para el cumplimiento de esta finalidad, la administración de la Generalidad Valenciana y las entidades locales acomodarán su actuación a los siguientes criterios:
+a) Preservación de los ecosistemas o ambientes de especial relevancia, tanto naturales como antropizados.
+b) Mantenimiento de los procesos y relaciones ecológicas que permiten el funcionamiento de dichos ecosistemas.
+c) Conservación de los recursos naturales desde el punto de vista de su uso sostenible con criterios de ecodesarrollo.
+d) Preservación de la diversidad genética.
+e) Preservación de la singularidad y belleza de los paisajes.
+f) Preservación de los valores científicos y culturales del medio natural.
+g) Uso social de los espacios naturales, desde el punto de vista del estudio, la enseñanza y el disfrute ordenado de la naturaleza.
+
+### Artículo 3
+
+Artículo 3. Clases de espacios naturales protegidos y de espacios protegidos Red Natura 2000.
+1. Según los recursos naturales o biológicos y de los valores que contengan los espacios naturales protegidos en la Comunitat Valenciana se incluirán en una de las siguientes categorías
+a) Parques naturales.
+b) Reservas naturales.
+c) Monumentos naturales.
+d) Paisajes protegidos.
+e) Parajes naturales municipales.
+f) Zonas húmedas catalogadas.
+2. Dentro del ámbito de un espacio natural protegido podrán existir otros espacios protegidos de distinta categoría.
+3. De conformidad con lo establecido en la Ley 42/2007, del Patrimonio Natural y de la Biodiversidad, son espacios protegidos de la Red Natura 2000, formando parte de ella:
+a) los Lugares de Importancia Comunitaria hasta su designación como Zonas Especiales de Conservación,
+b) las Zonas Especiales de Conservación,
+c) las Zonas de Especial Protección para las Aves.
+Se modifica el apartado 1 por el art. 134 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+ Se modifica el título y se añade el apartado 3 por el art. 59 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 4
+
+Artículo 4. Denominaciones.
+La denominación de parque natural, paraje natural, paraje natural municipal, reserva natural, monumento natural, sitio de interés, o paisaje protegido podrá aplicarse únicamente a los espacios naturales protegidos que se declaren expresamente como tales con arreglo a lo previsto en esta Ley.
+
+### Artículo 5
+
+Artículo 5.
+Cuando el espacio natural que deba ser protegido incluya territorios de esta Comunidad Autónoma y de otra y otras Comunidades Autónomas, la Generalidad propondrá al estado la declaración de espacio natural protegido y las medidas de participación en la gestión del espacio natural del que se trate.
+
+### Artículo 6
+
+Artículo 6.
+La Generalidad podrá proponer al Estado la declaración de parque nacional de aquel espacio natural del territorio valenciano que pueda ser considerado de interés general de acuerdo con lo que se establece en la Ley estatal 4/1989, de 27 de marzo.
+Asimismo, se hará en los ámbitos internacionales que corresponda para alcanzar la catalogación a la que sea merecedor el espacio natural en cuestión.
+
+## CAPÍTULO II
+
+Régimen general de Espacios Naturales Protegidos
+
+### Artículo 7
+
+Artículo 7. Parques naturales.
+1. Los parques naturales son áreas naturales que, en razón a la representatividad de sus ecosistemas o a la singularidad de su flora, su fauna, o de sus formaciones geomorfológicas, o bien a la belleza de sus paisajes, poseen unos valores ecológicos, científicos, educativos, culturales o estéticos, cuya conservación merece una atención preferente y se consideran adecuados para su integración en redes nacionales o internacionales de espacios protegidos.
+2. Las actividades a realizar se orientarán hacia los usos tradicionales agrícolas, ganaderos y silvícolas, y al aprovechamiento de las producciones compatibles con las finalidades que motivaron la declaración, así como a su visita y disfrute con las limitaciones necesarias para garantizar la protección y las actividades propias de la gestión del espacio protegido. Los demás usos podrán ser objeto de exclusión en la medida en que entren en conflicto con los valores que se pretenda proteger.
+
+### Artículo 8
+
+Artículo 8. Parajes naturales.
+(Derogado).
+Se deroga por el art. 135 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+
+### Artículo 9
+
+Artículo 9. Parajes naturales municipales.
+1. Constituirán parajes naturales municipales las zonas comprendidas en uno o varios términos municipales que presenten especiales valores naturales de interés local que requieran su protección, conservación y mejora y sean declaradas como tales a instancias de las entidades locales.
+2. Únicamente se admitirán en estos parajes los usos y actividades compatibles con las finalidades que motivaron su declaración, excluyéndose la utilización urbanística de sus terrenos.
+3. El Gobierno Valenciano regulará las relaciones de cooperación, mutua asistencia y coordinación entre la administración de la Generalidad y los municipios que cuenten con parajes naturales municipales para la mejor gestión medioambiental de los mismos, por los correspondientes Ayuntamientos.
+
+### Artículo 10
+
+Artículo 10. Reservas naturales.
+1. Las reservas naturales son espacios naturales, cuya declaración tiene como finalidad la preservación íntegra de ecosistemas, comunidades o elementos biológicos o geomorfológicos que, por su rareza, fragilidad, importancia o singularidad, merecen una valoración especial y se quieren mantener inalterados por la acción humana.
+2. En las reservas naturales podrán restringirse toda clase de usos y aprovechamientos, y se limitará la explotación de recursos, salvo en aquellos casos en que esta explotación haya sido expresamente considerada compatible con la conservación de los valores que se pretende proteger. Con carácter general estará prohibida la recolección de material biológico o geológico, con excepción de aquellos casos en que, por razones educativas o de investigación, se autorice expresamente la misma.
+3. Se considerarán reservas naturales los espacios marinos naturales calificados como reservas marinas, de acuerdo con su normativa específica.
+
+### Artículo 11
+
+Artículo 11. Monumentos naturales.
+1. Los monumentos naturales son espacios o elementos de la naturaleza, incluidas las formaciones geomorfológicas y yacimientos paleontológicos, de notoria singularidad, rareza o belleza, que merecen ser objeto de una protección especial por sus valores científicos, culturales o paisajísticos.
+2. En los monumentos naturales no se admitirá ningún uso o actividad, incluidos los tradicionales, que ponga en peligro la conservación de los valores que motivaron su declaración.
+
+### Artículo 12
+
+Artículo 12. Sitios de interés.
+(Derogado).
+Se deroga por el art. 135 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+
+### Artículo 13
+
+Artículo 13. Paisajes protegidos.
+1. Los paisajes protegidos son espacios, tanto naturales como transformados, merecedores de una protección especial, bien como ejemplos significativos de una relación armoniosa entre el hombre y el medio natural, o bien por sus especiales valores estéticos o culturales.
+2. El régimen de protección de los paisajes protegidos estará dirigido expresamente a la conservación de las relaciones y procesos, tanto naturales como socio-económicos, que han contribuido a su formación y hacen posible su pervivencia.
+3. En la utilización de estos espacios se compatibilizará el desarrollo de las actividades rurales tradicionales en los mismos con el uso social a través del estudio, la enseñanza y el disfrute ordenado de sus valores.
+
+### Artículo 14
+
+Artículo 14. Usos tradicionales agrícolas.
+La orientación a los usos tradicionales agrícolas en los espacios protegidos y su determinación se realizarán en colaboración con la administración agraria y se recogerán en el correspondiente instrumento de ordenación ambiental.
+
+## CAPÍTULO II BIS
+
+Régimen general de los Espacios Protegidos Red Natura 2000
+Se añade por el art. 60 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 14 bis
+
+Artículo 14 bis. Zonas de Especial Protección para las Aves.
+Las Zonas de Especial Protección para las Aves, que podrán denominarse abreviadamente ''ZEPA'', son aquellos espacios del territorio de la Comunitat Valenciana declarados como tales por ser los más adecuados en número y superficie para la conservación de las especies de aves incluidas en el anexo IV de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, y de las aves migratorias de presencia regular, para aplicar en ellos medidas especiales de conservación de sus hábitats al objeto de asegurar su supervivencia y su reproducción.
+Se añade por el art. 60 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 14 ter
+
+Artículo 14 ter. Lugares de Importancia Comunitaria y Zonas Especiales de Conservación.
+1. Los Lugares de Importancia Comunitaria, que podrán denominarse abreviadamente ''LIC'', son aquellos espacios del territorio de la Comunitat Valenciana que hayan sido aprobados como tales por la Comisión Europea, a propuesta de la Generalitat Valenciana, porque contribuyen, de forma apreciable, al mantenimiento o, en su caso, al restablecimiento del estado de conservación favorable de los tipos de hábitats naturales y los hábitat de las especies de interés comunitario, que figuran, respectivamente, en los anexos I y II de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad.
+2. Las Zonas Especiales de Conservación, que podrán denominarse abreviadamente ''ZEC'', son aquellos espacios que, habiendo sido aprobados previamente como Lugares de Importancia Comunitaria, se declaren como tales para aplicar las medidas de conservación necesarias para el mantenimiento o el restablecimiento en un estado de conservación favorable de los hábitats naturales y/o las poblaciones de las especies por los cuales se seleccionó el lugar.
+Se añade por el art. 60 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 14 quáter
+
+Artículo 14 quáter. Medidas aplicables en los espacios protegidos Red Natura 2000.
+1. Los espacios protegidos Red Natura 2000 contarán con el siguiente régimen de protección, conservación y gestión:
+a) En las ZEPA y las ZEC se establecerán las medidas de conservación necesarias, que deberán responder a las exigencias ecológicas de los tipos de hábitats naturales y de las especies presentes en ellas, mediante el establecimiento de medidas reglamentarias, administrativas o contractuales y la aprobación, de conformidad con lo establecido en el capítulo VI del título III de esta Ley, de las correspondientes normas de gestión, en las que se definirán los objetivos de conservación y se establecerán las medidas apropiadas para mantener o restablecer los hábitats y especies en un estado de conservación favorable.
+b) En las ZEPA, los LIC y las ZEC se deberán tomar las medidas apropiadas para evitar el deterioro de los hábitats naturales y de los hábitats de las especies, así como las alteraciones que repercutan en las especies que hayan motivado la selección o declaración de tales áreas, en la medida en que dichas alteraciones puedan tener un efecto apreciable en lo que respecta al mantenimiento o el restablecimiento, en un estado de conservación favorable, de dichas especies.
+El establecimiento de tales medidas se realizará, en especial, en las normas de gestión previstas en el apartado anterior, sin perjuicio de la obligación general que tienen todas las administraciones públicas en el ejercicio de sus competencias de evitar los deterioros y las alteraciones mencionados.
+c) En las ZEPA, los LIC y las ZEC se aplicará el régimen de evaluación y autorización de planes, programas y proyectos establecidos en el artículo siguiente.
+2. Adicionalmente, se aplicará un régimen de protección preventiva respecto de aquellos Lugares de Importancia Comunitaria que, habiendo sido propuestos por la Generalitat, aún no han sido aprobados formalmente por la Comisión Europea. Dicho régimen de protección preventiva se aplicará desde el momento en que se acuerde el envío al Ministerio competente en materia de Medio Ambiente de la lista de los espacios propuestos como Lugares de Importancia Comunitaria para su traslado a la Comisión Europea, y finalizará en el momento de su aprobación formal por la Comisión. Su objetivo será garantizar que no exista una merma en el estado de conservación de sus hábitats o especies hasta el momento de su aprobación formal y deberá consistir, al menos, en la aplicación del régimen de evaluación y autorización de planes, programas y proyectos previstos en el artículo siguiente.
+Se añade por el art. 60 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 14 quinquies
+
+Artículo 14 quinquies. Régimen de evaluación y autorización de planes, programas y proyectos.
+1. De conformidad con lo establecido en el artículo 45, apartado 4, de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, cualquier plan, programa o proyecto que, sin tener relación directa con la gestión de las ZEPA, los LIC o las ZEC o sin ser necesario para la misma, pueda afectar de forma apreciable a los mencionados espacios, ya sea individualmente o en combinación con otros planes y proyectos, se someterá a una adecuada evaluación de sus repercusiones en tales espacios, teniendo en cuenta los objetivos de conservación de los mismos.
+2. Al objeto de concretar si es precisa la evaluación, el órgano gestor de la Red Natura 2000, a la vista de la información proporcionada por el promotor y teniendo en cuenta la información disponible en su poder realizará una ''valoración preliminar de repercusiones'', en la que concretará como mínimo si el plan, programa o proyecto está relacionado con la gestión del espacio Red Natura 2000 y en caso negativo, si presenta probabilidad de producir efectos apreciables sobre el espacio o espacios en cuestión, los hábitats y especies que motivaron su declaración y sus objetivos de conservación. Esta valoración preliminar de repercusiones será preceptiva y vinculante y deberá ser motivada.
+3. En caso de ser precisa la evaluación de repercusiones, por así haberse establecido en la valoración preliminar, el promotor de un plan, programa o proyecto deberá confeccionar un Estudio de Afecciones sobre la Red Natura 2000, con el contenido que se fije reglamentariamente y, en su defecto, con el que le indique la valoración preliminar.
+4. A la vista del estudio de afecciones y de la información que obre en su poder o recabe de otros órganos, el órgano gestor de la red natura 2000 emitirá una Declaración de Repercusiones sobre la Red Natura 2000 en la que constará su pronunciamiento expreso sobre la existencia o no de afecciones a la integridad del espacio o espacios Red Natura 2000 y cuantas otras cuestiones se fijen reglamentariamente. Esta declaración de repercusiones será preceptiva y vinculante y deberá ser motivada.
+5. La emisión de las valoraciones preliminares y de las declaraciones de repercusiones, así como la confección de los estudios de afecciones se llevará a cabo en el marco de los procedimientos legalmente establecidos para la evaluación o estimación de impacto ambiental de proyectos y para evaluación ambiental de planes y programas, sin que tal incardinación pueda suponer una dilación de los plazos en ellos establecidos, o de conformidad con el procedimiento que se establezca reglamentariamente de no ser aplicables, en todos o en parte de sus trámites, los anteriores.
+6. De acuerdo con lo establecido en el artículo 45, apartado 4, de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, a la vista de las conclusiones de la evaluación, plasmadas en la Declaración de Repercusiones sobre la Red Natura 2000, y sin perjuicio de lo dispuesto en el apartado siguiente, los órganos competentes para aprobar o autorizar los planes, programas o proyectos o para controlar una actividad a través de la recepción de una declaración responsable o una comunicación, solo podrán manifestar su conformidad con los mismos tras haberse asegurado de que no causarán perjuicio a la integridad del espacio en cuestión y, si procede, tras haberlos sometido a información pública.
+7. No obstante lo establecido en el apartado anterior, y de conformidad con lo dispuesto en el artículo 45, apartados 5, 6 y 7, de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, podrán autorizarse, aprobarse o permitirse planes, programas o proyectos con repercusiones negativas sobre la integridad de los espacios protegidos Red Natura 2000 si se da la concurrencia de los siguientes requisitos acumulativos:
+a) inexistencia de soluciones alternativas,
+b) concurrencia de razones imperiosas de interés público de primer orden, incluidas razones de índole social o económica, teniendo en cuenta siempre y en todo caso las restricciones existentes en cuanto a las razones invocables en el caso de presencia en el espacio protegido Red Natura 2000 de hábitats y/o especies de interés comunitario prioritarias o especies en peligro de extinción,
+c) adopción de cuantas medidas compensatorias sean necesarias para garantizar que la coherencia global de la Red Natura 2000 quede protegida.
+8. A los efectos de lo dispuesto en la letra b) del apartado anterior, la concurrencia de razones imperiosas de interés público de primer orden sólo podrá declararse para cada supuesto concreto mediante una Ley o mediante acuerdo del Consejo de Ministros o del Consell. Dicho Acuerdo deberá ser motivado y público.
+9. A los efectos de lo indicado en la letra c del apartado anterior, la definición de las medidas compensatorias, en caso de ser necesarias, se llevará a cabo durante la evaluación de las repercusiones de los planes y proyectos sobre la Red Natura 2000. En el caso de que la mencionada evaluación se lleve a cabo en el marco de los procedimientos legalmente establecidos para la evaluación ambiental de planes y programas o la evaluación o estimación de impacto ambiental de proyectos, la definición de las medidas compensatorias deberá recogerse en las correspondientes Memoria Ambiental, Declaración de Impacto Ambiental o Estimación Ambiental. Cuando tales procedimientos no sean aplicables, en todo o en parte de sus trámites, las medidas compensatorias se definirán en el procedimiento que reglamentariamente se determine y se recogerán en los documentos que dicho procedimiento indique.
+Las medidas compensatorias se aplicarán en la fase de planificación y ejecución que se determine en la evaluación de las repercusiones de los planes y proyectos sobre la Red Natura 2000.
+Se añade por el art. 60 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 14 sexies
+
+Artículo 14 sexies. Coherencia y conectividad.
+Con el fin de mejorar la coherencia ecológica y la conectividad de la Red Natura 2000, la Generalitat Valenciana, en el marco de su política medioambiental y de ordenación territorial, fomentará la conservación de corredores ecológicos y la gestión de aquellos elementos del paisaje y áreas territoriales que resultan esenciales o revistan primordial importancia para la migración, la distribución geográfica y el intercambio genético entre poblaciones de especies de fauna y flora silvestres, en particular mediante la inclusión de previsiones sobre conectividad en las normas de gestión de los espacios protegidos Red Natura 2000.
+Se añade por el art. 60 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+## CAPÍTULO III
+
+Protección de otras áreas
+
+### Artículo 15
+
+Artículo 15. Zonas húmedas.
+1. Son zonas húmedas, a los efectos de la presente ley, las marismas, marjales, turberas o aguas rasas, ya sean permanentes o temporales, de aguas estancadas o corrientes, dulces, salobres o salinas, naturales o artificiales, así como cualquier otro espacio de características análogas, con independencia de la denominación que reciba.
+2. Las zonas húmedas deberán ser preservadas de actividades susceptibles de provocar su recesión y degradación, a cuyo fin los terrenos incluidos en las mismas serán clasificados, en todo caso, como suelo no urbanizable sujeto a especial protección, de conformidad con lo dispuesto en la Ley 4/1992, de 5 de junio, sobre suelo no urbanizable.
+La clasificación de suelo se mantendrá aun en el supuesto de desecación por cualquier causa de la zona húmeda o parte de la misma.
+3. En el supuesto de actividades consolidadas en el entorno de las zonas húmedas que puedan tener influencia en la calidad de sus aguas, estas instalaciones adecuarán sus vertidos a los criterios de calidad establecidos por la Consellería de Medio Ambiente.
+4. El Gobierno valenciano, a propuesta de la Consellería de Medio Ambiente, aprobará mediante acuerdo un catálogo de zonas húmedas en el que se incluya la delimitación de dichas zonas y las cuencas en que el planeamiento urbanístico deberá adoptar especiales precauciones con el fin de garantizar su conservación y donde la planificación hidrológica habrá de prever las necesidades y requisitos para la restauración y conservación de la zona húmeda en la que viertan y las actuaciones hidrológicas en el ámbito de las competencias autonómicas deberán prever las necesidades y requisitos para la restauración y conservación de la zona húmeda a la que afecten.
+Se modifica el apartado 1 por el art. único de la Ley 7/2016, de 30 de septiembre. Ref. BOE-A-2016-10029.
+ Se modifica el apartado 1 por el art. 136 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+
+### Artículo 16
+
+Artículo 16. Protección de las cuevas.
+1. Con carácter general, se consideran protegidas todas las cuevas, simas y demás cavidades subterráneas sitas en el territorio de la Comunidad Valenciana.
+2. Se prohíbe toda alteración o destrucción de sus características físicas, así como la extracción no autorizada de cualquier clase de materiales naturales o artificiales de su interior y la introducción de desechos y objetos de cualquier tipo que puedan alterar las condiciones de equilibrio ecológico existentes.
+3. La autorización para la realización de actividades en cuevas corresponderá a los organismos que en cada caso resulten competentes en función de los valores a proteger.
+4. El Gobierno valenciano aprobará un catálogo de cuevas de la Comunidad Valenciana en el que se identificarán y localizarán las cuevas existentes, señalándose el régimen aplicable a cada una de ellas.
+
+### Artículo 17
+
+Artículo 17. Vías pecuarias.
+(Derogado).
+Se deroga por la disposición derogatoria única de la Ley 3/2014, de 11 de julio. Ref. BOE-A-2014-8279.
+
+## CAPÍTULO IV
+
+Efectos de la declaración de Espacio Natural Protegido
+
+### Artículo 18
+
+Artículo 18. Enumeración de los efectos.
+La declaración de espacio natural protegido comportará con carácter general los efectos que se mencionan a continuación:
+1. Declaración de utilidad pública e interés social a todos los efectos, incluidos los expropiatorios, de todos los bienes y derechos incluidos dentro de su ámbito.
+2. Sometimiento de las transmisiones de terrenos a los derechos de tanteo y retracto con arreglo a lo previsto en el artículo 19 de esta Ley.
+3. Sujeción a la servidumbre de instalación de señales prevista en el artículo 23 de esta Ley.
+4. Utilización de los bienes comprendidos en estos espacios con arreglo a lo previsto en esta Ley y en los instrumentos de ordenación establecidos en la misma.
+
+### Artículo 19
+
+Artículo 19. Derechos de tanteo y retracto.
+1. La declaración de espacio natural protegido faculta a la Generalitat para el ejercicio de los derechos de tanteo y retracto, respecto de los actos o negocios jurídicos de carácter oneroso y celebrados inter vivos que comporten la creación, transmisión, modificación o extinción de derechos reales que recaigan sobre bienes inmuebles situados en su interior.
+En el caso de los parajes naturales municipales, las entidades locales promotoras de la declaración podrán también ejercer los derechos de tanteo y retracto, siempre que se reconozca en el decreto de creación y en las condiciones que el mismo determine.
+2. Será el transmitente el que deberá notificar, de forma fehaciente, las condiciones esenciales de la transmisión pretendida y, en su caso, copia fehaciente de la escritura pública en la que se haya instrumentalizado la citada transmisión.
+3. El derecho de tanteo sólo podrá ejercitarse en el plazo de tres meses contados a partir de la notificación previa de la transmisión a la Generalitat o a las entidades locales gestoras de los espacios naturales.
+4. El derecho de retracto podrá ejercerse en el plazo de un año contado a partir del momento en que se tenga constancia fehaciente de la transmisión.
+5. Los registradores de la propiedad y mercantiles no inscribirán documento alguno por el que se transmita cualquier derecho real sobre los bienes referidos sin que se acredite haber cumplido con los requisitos señalados en este artículo.
+Se modifica por el art. 111.1 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a1-23
+ Se modifica por el art. 105.1 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 20
+
+Artículo 20. Utilización de bienes incluidos en espacios naturales protegidos.
+1. La utilización de los bienes incluidos en el ámbito de los espacios naturales protegidos se realizará de manera que resulte compatible con la protección, conservación y mejora de los mismos.
+2. Las limitaciones al uso de los bienes derivados de la declaración de espacio natural protegido o de los instrumentos de ordenación previstos en esta ley, dará lugar a indemnización cuando concurran simultáneamente estos requisitos:
+a) Que incidan sobre derechos efectivamente incorporados al patrimonio del reclamante.
+b) Que afecten a usos o aprovechamientos legal y efectivamente ejercidos en el momento de la imposición de la restricción.
+c) Que se produzca una lesión patrimonial efectiva, actual y cuantificable en términos monetarios.
+d) Que se trate de limitaciones singulares no susceptibles de distribución entre los afectados.
+
+### Artículo 21
+
+Artículo 21. Áreas de influencia socio-económica.
+Con el fin de contribuir a la protección de determinados espacios naturales, el Gobierno valenciano podrá declarar como área de influencia socio-económica el conjunto de términos municipales a los que afecte su ámbito territorial.
+
+### Artículo 22
+
+Artículo 22. Fomento.
+La Generalidad Valenciana, para el cumplimiento de los objetivos previstos en la presente Ley, prestará ayuda o colaboración técnica y económica a los titulares públicos y privados de derechos afectados por el régimen especial de los espacios protegidos, con el fin de contribuir a su mantenimiento.
+
+### Artículo 23
+
+Artículo 23. Servidumbre de instalación de señales.
+1. Los terrenos situados en el interior de los espacios naturales protegidos estarán sujetos a servidumbre forzosa de instalación de señales con arreglo a lo previsto en este artículo.
+2. La Consellería de Medio Ambiente declarará e impondrá las servidumbres, previa audiencia de los interesados, cuando resulte necesario para la instalación de señales relativas a la identificación de los espacios naturales protegidos.
+3. La servidumbre de instalación de señales llevará aparejada la servidumbre de paso necesaria para proceder a dicha instalación y garantizar el acceso para su conservación, mantenimiento y reposición.
+4. Las indemnizaciones a que dé lugar la imposición de estas servidumbres se establecerán con arreglo a la Ley de Expropiación Forzosa, teniendo en cuenta el valor de los terrenos ocupados y los daños y perjuicios ocasionados.
+
+## CAPÍTULO V
+
+Efectos de la declaración de Espacios Protegidos Red Natura 2000
+Se añade por el art. 61 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 23 bis
+
+Artículo 23 bis. Enumeración de los efectos.
+La selección o declaración de los espacios protegidos Red Natura 2000 comportará con carácter general los efectos que se mencionan a continuación:
+a) Sujeción a la servidumbre de instalación de señales prevista en el artículo 23 de esta Ley.
+b) Utilización de bienes comprendidos en estos espacios con arreglo a lo previsto en esta Ley, en particular en su artículo 20, y en las normas de gestión reguladas en el capítulo VI del título III de esta Ley.
+Se añade por el art. 61 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+## TÍTULO II
+
+Declaración de Espacios Naturales Protegidos y de Espacios Protegidos Red Natura 2000
+Se modifica el título por el art. 62 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+## CAPÍTULO I
+
+Procedimiento
+
+### Artículo 24
+
+Artículo 24. Competencias.
+1. Corresponde al Gobierno valenciano la declaración de parque natural, paraje natural, paraje natural municipal, reserva natural, monumento natural, sitio de interés y paisaje protegido, sin perjuicio de las declaraciones de espacio natural protegido que puedan realizar las Cortes Valencianas mediante ley.
+2. La declaración de espacio natural protegido se formulará mediante decreto del Consell.
+Se modifica el apartado 2 por el art. 70 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 25
+
+Artículo 25. Iniciativa.
+1. Corresponde a la Consellería de Medio Ambiente iniciar el procedimiento para la declaración de espacio natural protegido, de oficio o a instancia de otras personas o entidades.
+2. En el caso de los parajes naturales municipales, la Consellería de Medio Ambiente, en el plazo de tres meses, elevará al Gobierno valenciano, junto con su informe, las propuestas formuladas por los municipios interesados.
+
+### Artículo 26
+
+Artículo 26. Tramitación.
+1. La Consellería de Medio Ambiente elaborará un proyecto de declaración de espacio natural protegido en el que conste la delimitación del mismo, así como, en el supuesto de establecerse, del área de protección perimetral, la clase de espacio natural propuesto, el régimen de protección preventiva aplicable y cuantas otras determinaciones se considere necesario.
+2. El proyecto de declaración será sometido a información pública por espacio de un mes. Al mismo tiempo, se dará audiencia a las corporaciones locales, entidades y asociaciones que ejerzan la representación de los intereses afectados por la declaración.
+3. Igualmente, podrán utilizarse otras formas y medios de participación de los ciudadanos y ciudadanas afectados por la declaración.
+
+### Artículo 27
+
+Artículo 27. Declaración.
+1. A la vista de las observaciones y alegaciones e informes recibidos durante el período de información pública, la Consellería de Medio Ambiente formulará una propuesta de declaración y la elevará al Gobierno valenciano.
+2. El Gobierno valenciano decidirá sobre la conveniencia de la declaración propuesta y procederá, en su caso, a la misma mediante el decreto o acuerdo correspondiente.
+3. En la declaración de espacio natural protegido se incluirán las normas de protección y ordenación de usos y actividades que deban ser objeto de aplicación inmediata.
+
+## CAPÍTULO II
+
+Protección preventiva y perimetral
+
+### Artículo 28
+
+Artículo 28. Régimen de protección preventiva.
+1. La iniciación del expediente de declaración de un espacio natural protegido y la iniciación del procedimiento para la elaboración de alguno de los instrumentos de ordenación de espacios naturales previstos en esta Ley, determinará la aplicación, por ministerio de la Ley, de todas o algunas de las siguientes medidas cautelares:
+a) Prohibición de realizar actos que supongan una transformación sensible de la realidad física y biológica o hayan de dificultar o imposibilitar la consecución de los objetivos de la declaración de espacio natural protegido.
+b) Suspensión del otorgamiento de licencias municipales para las clases de actos que se especifiquen por entenderlos incluidos en el párrafo a) anterior.
+c) Suspensión del otorgamiento de autorizaciones de aprovechamientos forestales y cinegéticos, así como de roturación y puesta en cultivo o transformación del mismo.
+d) Suspensión del otorgamiento de permisos y concesiones mineras.
+e) Paralización de explotaciones de recursos naturales en curso, de acuerdo con la legislación específica aplicable en cada caso.
+f) Suspensión de la tramitación del planeamiento urbanístico con incidencia sobre los valores naturales objeto de protección.
+2. La determinación de la forma en que las medidas cautelares previstas en el párrafo anterior deben aplicarse en cada caso se realizará mediante Acuerdo del Gobierno valenciano, a propuesta de la Consejería de Medio Ambiente.
+En cualquier caso, la prohibición establecida en el apartado a) del párrafo 1 de este artículo tendrá carácter automático con la iniciación del expediente de declaración de espacio o aprobación de instrumentos de ordenación ambiental.
+3. El establecimiento de medidas cautelares podrá realizarse en cualquier momento a partir de la iniciación del expediente de declaración de espacio natural protegido o durante el procedimiento de elaboración de los instrumentos de ordenación previstos en esta Ley.
+4. Las medidas cautelares previstas en este artículo tendrán una vigencia máxima de tres años.
+5. La iniciación del expediente de aprobación de un plan de ordenación de los recursos naturales determinará automáticamente la exigencia de informe favorable de la Consejería de Medio Ambiente para el otorgamiento de cualquier autorización, licencia o concesión que habilite para realizar actos de transformación de la realidad física o biológica en el ámbito del plan. Reglamentariamente podrán establecerse los casos en que dicho informe deba sustituirse por una evaluación del impacto ambiental.
+
+### Artículo 29
+
+Artículo 29. Áreas de amortización de impactos.
+1. La declaración de espacio natural protegido podrá incluir la delimitación de áreas de amortiguación de impactos en las que se aplicarán medidas específicas destinadas a evitar impactos negativos sobre los espacios protegidos.
+2. El establecimiento o alteración de la delimitación de áreas de amortiguación de impactos y el régimen de protección aplicable en las mismas podrá asimismo llevarse a cabo en los instrumentos de ordenación del espacio protegido sin que tenga la consideración de modificación de la declaración de espacio natural protegido.
+3. El régimen de protección aplicable en estas áreas estará constituido por la regulación de usos y actividades que se establezca o la exigencia de evaluación de impacto ambiental o informe vinculante del órgano gestor del espacio protegido.
+4. La delimitación de las áreas de amortiguación de impactos se basará en criterios geográficos, fisiográficos, ecológicos o funcionales y podrá tener carácter discontinuo.
+
+## CAPÍTULO III
+
+Capítulo III
+Procedimiento de selección y declaración de Espacios Protegidos Red Natura 2000
+Se añade por el art. 62 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 29 bis
+
+Artículo 29 bis. Propuesta, aprobación y publicidad de Lugares de Importancia Comunitaria.
+1. A propuesta de la Conselleria competente en medio ambiente, basada en los criterios establecidos en el anexo III de la de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y la Biodiversidad, y a la información científica pertinente, la Generalitat Valenciana propondrá lugares o listas de lugares situados en el territorio de la Comunitat Valenciana como candidatos a ser aprobados por la Comisión Europea como Lugares de Importancia Comunitaria y posteriormente declarados como Zonas Especiales de Conservación.
+2. La propuesta, que indicará los tipos de hábitats naturales y las especies autóctonas de interés comunitario existentes en dichos lugares, se someterá al trámite de información pública de modo previo a su aprobación por el Consell y a su posterior remisión al ministerio competente en medio ambiente. Dicho ministerio propondrá la lista a la Comisión Europea para su aprobación como Lugar de Importancia Comunitaria.
+3. El envío de la propuesta de un espacio como Lugar de Importancia Comunitaria conllevará, en el plazo máximo de seis meses, la publicación en el ''Diari Oficial de la Comunitat Valenciana'' de sus límites geográficos, los hábitats y especies por los que se declara, los hábitats y especies prioritarios en él presentes y el régimen preventivo que se les aplicará.
+4. Una vez incluido el Lugar en la Lista Oficial de Lugares de Importancia Comunitaria por la Comisión Europea, será declarado por la Generalitat, lo antes posible y como máximo en un plazo de seis años, Zona Especial de Conservación, junto con la aprobación del correspondiente instrumento de gestión, siguiendo el procedimiento establecido en el artículo siguiente.
+Se añade por el art. 62 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 29 ter
+
+Artículo 29 ter. Declaración de Zonas Especiales de Conservación y Zonas de Especial Protección para las Aves.
+1. La declaración de Zonas Especiales de Conservación y de Zonas de Especial Protección para las Aves se realizará mediante decreto del Consell.
+2. El procedimiento para la declaración de las mencionadas zonas se iniciará mediante orden de la conselleria competente en materia de medio ambiente.
+3. Iniciado el procedimiento, dicha consellería elaborará un proyecto de decreto de declaración, en el que se incluirá la delimitación gráfica del espacio protegido Red Natura 2000, una ficha descriptiva del espacio y los hábitats y especies que motivan su declaración, y una propuesta de normas de gestión, las cuales se redactarán de conformidad con lo establecido en el artículo 47 ter de la presente Ley.
+4. El proyecto de declaración del espacio y de aprobación de sus normas de gestión será sometido, por el plazo mínimo de cuarenta y cinco días, a los trámites de información pública y de audiencia a las corporaciones locales, entidades y asociaciones que ejerzan la representación de los intereses afectados por la declaración, sin perjuicio de otras formas y medios de participación ciudadana que puedan plantearse.
+5. A la vista de las observaciones y alegaciones recibidas durante el período de información pública y audiencia, la conselleria competente en materia de medio ambiente elevará al Consell la correspondiente propuesta de declaración mediante Decreto, previo dictamen del Consejo Asesor y de Participación de Medio Ambiente de la Comunitat Valenciana.
+6. La publicación del decreto en el ''Diari Oficial de la Comunitat Valenciana'' expresará la información mencionada en el apartado 3 de este artículo.
+Se añade por el art. 62 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 29 quáter
+
+Artículo 29 quáter. Zonas periféricas.
+Podrán establecerse zonas periféricas en la totalidad o en parte del entorno territorial inmediato de las Zonas Especiales de Conservación y de las Zonas de Especial Protección para las Aves al objeto de evitar o minimizar los impactos ambientales negativos, procedentes del exterior, sobre los hábitats y especies que han motivado su declaración. La concreción de la delimitación y el régimen jurídico aplicable a estas zonas, que consistirá cómo mínimo en la aplicación del régimen de evaluación y autorización previsto en el artículo 14 quinquies, podrá establecerse en las normas de declaración de las mismas o en las normas de gestión reguladas en el capítulo VI del título III de esta Ley.
+Se añade por el art. 62 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+## TÍTULO III
+
+Ordenación de recursos naturales, espacios naturales protegidos y espacios protegidos Red Natura 2000
+Se modifica el título por el art. 63 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+## CAPÍTULO I
+
+Instrumentos de ordenación ambiental
+
+### Artículo 30
+
+Artículo 30. Enumeración de instrumentos.
+La ordenación ambiental en el ámbito de la Comunitat Valenciana se llevará a cabo mediante los siguientes instrumentos:
+1. Planes de ordenación de los recursos naturales.
+2. Planes rectores de uso y gestión.
+3. Normas de gestión.
+Se modifica por el art. 137 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+ Se añade el apartado 5 por el art. 64 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 31
+
+Artículo 31. Ordenación de espacios naturales.
+La ordenación de los espacios naturales se llevará a cabo mediante los instrumentos que se señalan a continuación:
+1. Parques naturales: su declaración exigirá un plan de ordenación de los recursos naturales. Su ordenación se llevará a cabo mediante planes rectores de uso y gestión.
+2. Reservas naturales: su declaración exigirá un plan de ordenación de los recursos naturales. Su ordenación se llevará a cabo mediante planes rectores de uso y gestión. En el caso de reservas naturales declaradas previamente que no dispongan de los mencionados planes, el plazo máximo para habilitarlos será de 5 años a partir del 1 de enero de 2016.
+3. Monumentos naturales y paisajes protegidos: La ordenación de estos espacios se llevará a cabo mediante planes rectores de uso y gestión.
+4. Parajes naturales municipales: La ordenación básica se contendrá en el decreto de creación y la pormenorizada en las ordenanzas que dicte el ayuntamiento correspondiente.
+5. Zonas húmedas catalogadas: la ordenación se realizará mediante normas de gestión.
+6. Zonas de especial protección para las aves y zonas especiales de conservación pertenecientes a la Red natura 2000: la ordenación se realizará mediante normas de gestión.
+Se modifica el apartado 2 por el art. 83 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.
+ Se modifica por el art. 138 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+ Se añade el apartado 5 por el art. 65 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+## CAPÍTULO II
+
+Planes de ordenación de los recursos naturales
+
+### Artículo 32
+
+Artículo 32. Concepto.
+Los planes de ordenación de recursos naturales se regirán por la legislación básica en la materia.
+Se modifica por el art. 139 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+
+### Artículo 33
+
+Artículo 33. Zonificación.
+Fuera del espacio natural protegido, es decir en el área de amortiguación de impactos, se estará a lo que se disponga en cada uno de los planes de ordenación de los recursos naturales para cada espacio natural protegido declarado.
+Se modifica por el art. 84 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.
+ Se modifica por el art. 140 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+
+### Artículo 34
+
+Artículo 34. Contenido documental.
+Los planes de ordenación de recursos naturales deberán tener el siguiente contenido documental:
+1. Memoria descriptiva y justificativa en la que se incluirán, como mínimo, el siguiente contenido:
+a) Delimitación del ámbito territorial del plan.
+b) Descripción de características físicas y socioeconómicas.
+c) Información detallada de otros espacios naturales presentes y estado de conservación de los hábitats y especies presentes en el área.
+d) Estado de conservación y diagnóstico de la situación de los recursos naturales, biodiversidad, hábitats, ecosistemas y paisajes, y previsión sobre su evolución futura.
+e) Descripción y/o propuesta de elementos de conectividad ecológica.
+2. Propuestas de gestión, que incluirá:
+a) Objetivos de conservación y gestión.
+b) Criterios de actuación en relación con el planeamiento territorial y urbanístico, políticas, planes y actuaciones sectoriales.
+3. Modelo de zonificación y ordenación, que deberá contener:
+a) Delimitación, en su caso, del área de amortiguación de impactos según artículo 29 de esta ley.
+b) Declaración, en su caso, de área de influencia socioeconómica, de acuerdo con lo dispuesto en el artículo 21 de esta ley.
+c) Zonificación.
+d) Normas de aplicación directa para la regulación de usos y actividades, la conservación y la protección de los recursos, espacios y especies a proteger.
+4. Programa de actuaciones.
+5. Memoria económica.
+Se modifica por el art. 111.2 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a1-23
+ Se modifica por el art. 105.2 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+ Se modifica por el art. 141 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+
+### Artículo 35
+
+Artículo 35. Efectos.
+1. Los planes de ordenación de los recursos naturales serán obligatorios y ejecutivos en todo lo que afecte a la conservación, protección o mejora de la flora, la fauna, los ecosistemas, el paisaje o los recursos naturales.
+2. Los planes de ordenación de los recursos naturales a que se refiere esta Ley prevalecerán sobre cualesquiera otros instrumentos de ordenación territorial o física. En el acto de aprobación de estos planes se indicarán los instrumentos de ordenación territorial o física que deben ser modificados y los plazos para dicha modificación, así como las normas aplicables hasta tanto la misma tenga lugar.
+3. Las previsiones de los planes de ordenación de los recursos naturales tendrán carácter vinculante para cualesquiera otras actuaciones, planes o programas sectoriales en todo lo relativo a las materias a que se refiere el párrafo 1 de este artículo, y revestirán carácter indicativo en todo lo demás.
+4. Los planes rectores de uso y gestión se atendrán a los criterios y directrices formulados en los planes de ordenación de los recursos naturales.
+
+### Artículo 36
+
+Artículo 36. Tramitación.
+1. Corresponde a la Consejería de Medio Ambiente la formulación de los planes de ordenación de los recursos naturales, previo informe de las Consejerías cuyas competencias puedan tener relación con su ámbito.
+2. Elaborado el plan de ordenación de los recursos naturales, se someterá a información pública y audiencia de corporaciones y entidades en la forma prevista en el artículo 26.2 de esta Ley, así como los interesados que se hayan personado en el expediente. El plan habrá de someterse a consulta del Consejo asesor de Medio Ambiente.
+3. A la luz de las observaciones e informes recibidos se redactará una propuesta de plan y se elevará al Gobierno valenciano para su aprobación mediante decreto.
+
+## CAPÍTULO III
+
+Planes rectores de uso y gestión
+
+### Artículo 37
+
+Artículo 37. Concepto.
+1. Los planes rectores de uso y gestión constituyen el marco en que han de desenvolverse las actividades directamente ligadas a la declaración del espacio natural protegido, y en particular la investigación, el uso público y la conservación, protección y mejora de los valores ambientales.
+2. En ausencia de plan de ordenación de los recursos naturales, establecen, además, el régimen de protección y ordenación de usos necesario para garantizar la conservación de los valores que motivaron la declaración del espacio natural protegido.
+
+### Artículo 38
+
+Artículo 38. Ámbito.
+El ámbito de los planes rectores de uso y gestión abarcará el territorio incluido dentro de los límites del espacio natural protegido y las correspondientes áreas de amortiguación de impactos.
+
+### Artículo 39
+
+Artículo 39. Contenido.
+Los planes rectores de uso y gestión se regirán por la legislación básica y contendrán como mínimo:
+1. Normas de regulación de usos y actividades, así como de gestión, protección, conservación y mejora de los recursos naturales y los valores ambientales del espacio natural.
+2. Normas relativas a las actividades de investigación.
+3. Normas reguladoras del uso público.
+4. Zonificación de acuerdo con las categorías establecidas en el artículo 33, coherente con la prevista en el plan de ordenación de recursos naturales, si este último plan las recogiera.
+5. Programación de un plan específico de prevención de incendios.
+Se modifica por el art. 141 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+
+### Artículo 40
+
+Artículo 40. Efectos.
+1. Los planes rectores de uso y gestión tendrá carácter vinculante tanto para las Administraciones como para los particulares, prevalecerán sobre el planeamiento urbanístico y su aprobación llevará aparejada la revisión de oficio de los planes territoriales o sectoriales incompatibles con los mismos.
+2. En el acuerdo de aprobación de los planes rectores se señalarán los planes territoriales o sectoriales que deben ser modificados, los responsables de dicha modificación y los plazos en que la misma debe llevarse a cabo, así como las medidas que deban adoptarse en caso de incumplimiento.
+
+### Artículo 41
+
+Artículo 41. Tramitación.
+1. Corresponde a la Consejería de Medio Ambiente la formulación de los planes rectores de uso y gestión, previo informe de las Consejerías cuyas competencias puedan tener relación con el ámbito protegido.
+2. Elaborado el plan rector de uso y gestión, se someterá a información pública y audiencia de corporaciones, entidades e interesados personados en el expediente en la forma prevista en el artículo 26.2 de esta Ley.
+3. A la luz de las observaciones e informes recibidos se redactará una propuesta de plan y se elevará al Gobierno valenciano parea su aprobación mediante decreto.
+4. Los planes rectores de uso y gestión se aprobarán en el plazo máximo de dos años desde la entrada en vigor de la declaración del espacio natural protegido y se revisarán previo informe de su órgano colegiado de acuerdo con lo dispuesto en el artículo 50.2.
+
+## CAPÍTULO IV
+
+Planes especiales
+
+### Artículos 42 y 43
+
+Artículos 42 y 43.
+(Derogados).
+Se derogan por el art. 143 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+
+### Artículo 42
+
+Artículo 42. Objeto y contenido.
+Los planes especiales de protección de parajes naturales de interés municipal se ajustarán a lo previsto en la legislación urbanística.
+
+### Artículo 43
+
+Artículo 43. Tramitación.
+1. La tramitación de los planes especiales de protección de parajes naturales de interés municipal se desarrollará con arreglo a lo previsto en la legislación urbanística, con las peculiaridades previstas en los párrafos siguientes.
+2. Corresponde a los Ayuntamientos la elaboración de los planes especiales de protección de parajes naturales municipales. En el acuerdo de declaración podrá establecerse el plazo para la redacción y aprobación inicial del correspondiente plan especial, transcurrido el cual la Consejería de Medio Ambiente podrá subrogarse en las competencias municipales.
+3. La aprobación definitiva de los planes especiales a que se refiere este artículo requerirá la estimación del impacto ambiental de acuerdo con lo dispuesto en el Decreto 162/1990, de 15 de octubre, del Gobierno valenciano, por el que se aprobó el Reglamento para la ejecución de la Ley 2/1989, de 3 de marzo, de Impacto Ambiental.
+
+## CAPÍTULO V
+
+Normas de protección
+
+### Artículos 44 a 47
+
+Artículos 44 a 47.
+(Derogados).
+Se derogan por el art. 143 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+
+### Artículo 44
+
+Artículo 44. Concepto.
+La ordenación de los monumentos naturales y los sitios de interés se llevará a cabo mediante normas de protección que establezcan el régimen de usos y actividades permisibles en los mismos y las limitaciones aplicables a su entorno.
+
+### Artículo 45
+
+Artículo 45. Contenido.
+Las normas de protección de monumentos naturales o sitios de interés incluirán como mínimo:
+1. Delimitación de su ámbito de protección, que podrá ser discontinuo cuando resulte necesario.
+2. Identificación de los valores a proteger y los posibles riesgos que puedan ponerlos en peligro.
+3. Normas de uso y aprovechamiento del suelo y de los recursos naturales, destinadas a proteger y conservar o mejorar los valores ambientales.
+4. Normas relativas a la visita o uso público, así como las actividades científicas o educativas.
+
+### Artículo 46
+
+Artículo 46. Efectos.
+1. Las normas de protección de monumentos naturales o sitios de interés serán vinculantes, tanto para las administraciones públicas como para los particulares.
+2. Las normas de protección de monumentos naturales o sitios de interés tendrán carácter vinculante, tanto para las administraciones públicas como para los particulares, prevalecerán sobre el planeamiento urbanístico y su aprobación llevará aparejada la revisión de oficio de los planes territoriales o sectoriales incompatibles con las mismas.
+
+### Artículo 47
+
+Artículo 47. Tramitación.
+1. Corresponde a la Consellería de Medio Ambiente la elaboración de las normas de protección de monumentos naturales o sitios de interés.
+2. Elaborado el proyecto de normas de protección, se someterá a información pública y audiencia de corporaciones, entidades e interesados personados en el expediente en la forma prevista en el artículo 26 de esta Ley.
+3. A la luz de las observaciones e informes recibidos, se redactará una propuesta de normas y se elevará al Gobierno valenciano para su aprobación mediante Acuerdo.
+
+## CAPÍTULO VI
+
+Normas de gestión de zonas de la Red Natura 2000
+Se añade por el art. 66 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 47 bis
+
+Artículo 47 bis. Concepto.
+Las normas de gestión de zonas especiales de conservación y de zonas de especial protección para las aves tienen por objeto establecer las medidas de conservación que sean necesarias para responder a las exigencias ecológicas de los tipos de hábitats naturales y de las especies presentes en tales zonas y para mantener o restablecer tales hábitats y especies en un estado de conservación favorable.
+Se añade por el art. 66 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 47 ter
+
+Artículo 47 ter. Contenido.
+1. Las normas de gestión de zonas especiales de conservación y de zonas de especial protección para las aves tendrán el siguiente contenido mínimo:
+a) Delimitación detallada del ámbito de aplicación.
+b) Información detallada de los hábitats naturales y hábitats de especies presentes en tales áreas, incluyendo una descripción de su estado de conservación y de los criterios utilizados para interpretarlo.
+c) Objetivos estratégicos de conservación.
+d) Zonificación del espacio protegido, en su caso.
+e) Normas de aplicación directa para el desarrollo de las actividades a realizar en su ámbito, así como identificación, en su caso, de planes, programas y proyectos a los efectos de la aplicación del régimen especial de evaluación y autorización previsto en el artículo 14 quinquies de esta Ley.
+f) Directrices específicas de gestión de hábitats y especies, o previsión para su desarrollo e incorporación posterior, si fuera el caso.
+g) Previsiones de conectividad e integración territorial a los efectos de procurar la aplicación del artículo 14 sexies de esta ley.
+h) Programa de actuaciones necesarias para la ejecución del plan, incluyendo estimación económica y responsabilidad sectorial de las mismas.
+i) Régimen de evaluación de los resultados de las medidas de conservación sobre los hábitats y especies presentes en dichas áreas.
+2. Las normas de gestión previstas en este artículo deberán identificar de manera clara qué aspectos de los instrumentos de ordenación ambiental de espacios naturales protegidos y de especies protegidas amenazadas deberán, en su caso, ser modificados a los efectos de procurar su adaptación a los objetivos de conservación.
+3. Las normas de gestión podrán establecer, asimismo, los necesarios mecanismos de armonización de sus previsiones con los usos preexistentes en el territorio al que se apliquen, así como las medidas directas, tales como acuerdos con propietarios, indemnización, compra de terrenos u otras que, al amparo de lo previsto en la presente ley, sea necesario aplicar para garantizar su efectividad sin lesionar intereses legítimos.
+Se añade por el art. 66 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 47 quáter
+
+Artículo 47 quáter. Efectos.
+Las normas de gestión previstas en este capítulo son vinculantes tanto para las administraciones públicas como para los particulares, prevaleciendo sobre el planeamiento territorial y urbanístico y sobre cualquier otro instrumento sectorial de ordenación o gestión de recursos naturales
+Se añade por el art. 66 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 47 quinquies
+
+Artículo 48 quinquies. Tramitación.
+La aprobación de las normas de gestión de Zonas Especiales de Conservación y Zonas de Especial protección para las Aves se tramitará de manera simultánea a su declaración, siguiendo el procedimiento descrito en el artículo 29 ter de esta Ley.
+Se añade por el art. 66 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+## TÍTULO IV
+
+Gestión de Espacios Naturales Protegidos y de los Espacios Protegidos Natura 2000
+Se modifica por el art. 67 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 48
+
+Artículo 48. Órganos de gestión.
+1. En el acto de declaración de cada espacio natural protegido, se establecerá el régimen de gestión aplicable al mismo.
+2. La gestión de los espacios naturales protegidos y los espacios protegidos Red Natura 2000, con la excepción de lo indicado en el punto 5 de este artículo, corresponde a la dirección general competente en la materia. Las normas de desarrollo orgánico – funcional determinarán la estructura administrativa y de gestión de estos espacios naturales.
+3. El órgano competente en la materia nombrará a la persona que se encargue de la dirección y conservación del espacio natural protegido, que podrá desarrollar sus funciones sobre varios espacios naturales protegidos.
+4. Las funciones que se atribuyen a la persona encargada de la dirección y conservación serán las siguientes:
+a) Aplicar los instrumentos de ordenación, planificación y gestión del espacio natural.
+b) Colaborar en la elaboración del presupuesto y el programa anual de inversiones y actuaciones.
+c) Proponer acciones en beneficio del espacio natural protegido.
+d) Elaborar la memoria anual de actividades y resultados.
+e) Todas aquellas que le sean encomendadas por el órgano gestor del espacio natural protegido.
+5. La gestión de los parajes naturales municipales corresponderá a las corporaciones locales que los hayan promovido, excepto en el caso de que incluyan montes declarados de Utilidad Pública cuya gestión corresponde a la conselleria competente en materia forestal. La solicitud municipal deberá contener el compromiso de afectar recursos suficientes para asumir su gestión, sin perjuicio de la colaboración de la Generalitat.
+6. Para colaborar en la gestión de aquellos espacios naturales protegidos que tengan aprobado un plan de ordenación de los recursos naturales, se creará un órgano colegiado de carácter consultivo. Su composición se especificará en la norma de creación de cada uno de estos espacios.
+7. La gestión presupuestaria y administrativa de los espacios naturales protegidos, podrá individualizarse mediante la creación de programas separados para cada uno de ellos.
+8. En la financiación de la gestión de los espacios naturales protegidos podrán colaborar otros organismos, entidades o personas, adscribiéndose sus aportaciones directamente al programa correspondiente a cada espacio.
+9. La gestión parcial o total de los parques naturales, parajes naturales, reservas naturales, monumentos naturales o paisajes protegidos, podrá delegarse de acuerdo con lo que se prevé en la legislación de régimen local. Esta gestión también podrá encomendarse a otras entidades de derecho público o concertarse con instituciones o entidades vinculadas a la protección.
+Se modifica por el art. 111.3 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a1-23
+ Se modifica por el art. 105.3 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+ Se añade el apartado 3 y se renumeran los siguentes por el art. 21.1 a 3 del Decreto-ley 1/2022, de 22 de abril. Ref. DOGV-r-2022-90121#a2-3
+ Se modifica el apartado 2 por el art. 85 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.
+ Se modifica el apartado 5 por el art. 92 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663.
+ Se modifica el apartado 2 por el art. 72 de la Ley 9/2011, de 26 de diciembre. Ref. BOE-A-2012-1253.
+ Se modifica el apartado 3 por el art. 68 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Artículo 49
+
+Artículo 49. Funciones del responsable de la dinamización
+(Derogado).
+Se deroga por la disposición derogatoria única de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.
+ Se modifica por el art. 73 de la Ley 9/2011, de 26 de diciembre. Ref. BOE-A-1995-3325.
+
+### Artículo 50
+
+Artículo 50. Funciones del órgano colegiado.
+El órgano colegiado previsto en el párrafo 5 del artículo 48 colaborará en la gestión de su correspondiente espacio natural respectivo mediante su función asesora y consultiva. Sin perjuicio del desarrollo de sus funciones en la norma de creación del espacio natural, le corresponde las siguientes:
+1. Informar el presupuesto de gestión del espacio natural protegido con carácter previo a su aprobación por el órgano gestor. Este presupuesto estará formado por las aportaciones de todos los miembros del órgano y otras aportaciones de terceras entidades, ya sean monetarias o en especie, debidamente valoradas, que deberán ser a tal fin reflejadas.
+2. Elaborar su programa de gestión, integrado por las actuaciones de los componentes del órgano colegiado y otros agentes, dirigidas a la mejora del espacio.
+3. Emitir los informes preceptivos cuando se prevea expresamente la participación del órgano colegiado, así como aquellos otros informes que le sean solicitados.
+4. Proponer las actuaciones e iniciativas tendentes a la consecución de los fines del espacio natural protegido, incluyendo los de difusión e información de los valores, así como programas de formación y educación ambiental.
+5. Ser oído antes de la aprobación de la memoria anual de actividades y resultados, y proponer las medidas necesarias para mejorar su gestión.
+Se modifica por el art. 144 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+ Se modifica por el art. 93 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663.
+
+### Artículo 51
+
+Artículo 51. Composición del órgano colegiado.
+1. La composición del órgano colegiado se establecerá en la norma de declaración de cada espacio natural protegido. Formará parte el responsable de dinamización de dicho espacio e incluirá como mínimo representación de:
+a) Corporaciones locales afectadas.
+b) Propietarios de terrenos incluidos en el espacio natural protegido.
+c) Intereses sociales, institucionales o económicos afectados.
+d) Grupos cuyos objetivos fundacionales coincidan con la finalidad del espacio natural protegido.
+e) Personas y entidades que colaboren en la conservación de los valores naturales a través de la actividad científica, la acción social o la aportación de recursos de cualquier clase.
+2. Para el funcionamiento de cada órgano colegiado, podrán establecerse, en su seno, las comisiones o grupos de trabajo que se considere necesario.
+Se modifica el apartado 1 por el art. 74 de la Ley 9/2011, de 26 de diciembre. Ref. BOE-A-2012-1253.
+
+## TÍTULO V
+
+Infracciones y sanciones
+
+## CAPÍTULO I
+
+Infracciones
+
+### Artículo 52
+
+Artículo 52. Infracciones.
+Tendrá la consideración de infracción administrativa, con arreglo a lo previsto en esta Ley, cualquier acción u omisión que, afectando a un espacio natural protegido, consista en:
+1. Utilización de productos químicos, sustancias biológicas, la realización de vertidos o el derrame de residuos que alteren uno o más factores del medio en el espacio natural protegido con daño para los valores en él contenidos.
+2. Alteración de las condiciones del espacio natural protegido o de sus productos mediante ocupación, roturación, tala, corta, arranque, recolección u otras acciones.
+3. Alteración de la geomorfología o incremento de la erosión y pérdida de la calidad de los suelos, alteración de yacimientos de interés mineralógico o paleontológico y comercialización de fósiles y especies minerales de interés científico.
+4. Emisión de gases, partículas o radiaciones que puedan afectar de manera significativa al ambiente atmosférico.
+5. Producción de sonidos innecesarios que alteren la tranquilidad habitual de la fauna.
+6. Destrucción o deterioro de la cubierta vegetal.
+7. Destrucción, muerte, deterioro, recolección, comercio, captura o exposición para el comercio o naturalización no autorizadas de especies de organismos vivos protegidos, catalogados en peligro de extinción o vulnerables a la alteración de su hábitat, sensibles o de interés especial, o expresamente identificadas a estos efectos en los instrumentos de ordenación de espacios naturales, así como la de propágulos o restos.
+8. Destrucción del hábitat de especies protegidas, en peligro de extinción o vulnerables a la alteración de su hábitat o especies sensibles o de interés especial, en particular del lugar de reproducción, invernada, reposo, campo o alimentación, y las zonas de especial protección para la flora y fauna silvestres.
+9. Captura, persecución injustificada de animales silvestres y arranque o corta de plantas, en aquellos supuestos en que sea necesaria autorización administrativa de acuerdo con la regulación específica de la legislación de montes, caza y pesca continental, o las normas contenidas en los instrumentos de ordenación del espacio natural protegido.
+10. El ejercicio de la caza y la pesca en el ámbito de los espacios naturales protegidos sin la preceptiva autorización.
+11. Introducción no autorizada de especies.
+12. Circulación y estacionamiento fuera de los lugares previstos al efecto, de acuerdo con las normas contenidas en los instrumentos de ordenación del espacio salvo autorización expedida por el órgano gestor.
+Quedan exentos los ciclistas de montaña siempre y cuando no produzcan daño alguno ni a la fauna, ni a la flora, ni a la estructura o infraestructuras del espacio, ni perjudiquen gravemente el buen desarrollo de las actividades de caza que estuvieran desarrollándose en el momento y lugar de la actividad ciclista y realicen su actividad con un fin lúdico medioambientalmente sostenible, siempre bajo la máxima prudencia y el mayor respeto al resto de usos permitidos en el mismo, con la única intención de disfrutar individualmente o en grupos reducidos de un máximo de cinco personas. Cuando se quiera realizar dicha actividad en grupos más numerosos deberá pedirse la correspondiente autorización al órgano gestor.
+Estas limitaciones no afectarán a aquellos espacios naturales en los que la normativa permite actualmente la actividad referida sin restricción alguna.
+13. Realización de construcciones, instalación de carteles de propaganda u otros elementos similares, vertederos o depósitos de materiales o chatarra, que limiten el campo visual, rompan la armonía del paisaje o desfiguren las perspectivas en espacios naturales o su entorno o en contra de lo dispuesto en los instrumentos de ordenación ambiental previstos en esta Ley.
+14. Vertido o abandono de objetos, residuos u otros desperdicios fuera de los lugares autorizados.
+15. Vertido de aguas residuales domésticas o industriales que sobrepasen los límites marcados por los organismos competentes en la materia y que impidan alcanzar los criterios de calidad establecidos por la Consellería de Medio Ambiente.
+16. Realización de actividades que supongan una recesión o degradación de zonas húmedas, y en particular, los aterramientos, drenajes, explotación no autorizada de acuíferos o modificaciones no autorizadas del régimen de las aguas.
+17. Actividades que supongan daño o riesgo para la conservación de las cuevas y sus valores naturales o culturales.
+18. Incumplimiento de las condiciones impuestas en las autorizaciones y concesiones administrativas a que se refiere la legislación ambiental o la normativa de los instrumentos de ordenación del espacio natural protegido, sin perjuicio de su caducidad, revocación o suspensión.
+19. Ejecución de obras, implantación de infraestructuras básicas, actividades, trabajos, siembras y plantaciones, sin la debida autorización administrativa, o sin la obtención de los informes previstos por la legislación ambiental o las normas de los instrumentos de ordenación de los espacios naturales.
+20. Incumplimiento de los requisitos, obligaciones o prohibiciones establecidos en la legislación de protección y conservación de la flora, de la fauna y los espacios naturales, así como en las normas particulares aplicables a cada uno de éstos.
+21. Acampada, encender fuego, celebración de actos multitudinarios fuera de los lugares expresamente autorizados, y, en general, el comportamiento incívico que suponga riesgo para la conservación de los valores ambientales o dificulte su disfrute y utilización para los demás.
+22. El otorgamiento de autorizaciones y licencias en contra de lo previsto en esta Ley o de las normas contenidas en los instrumentos de ordenación de los espacios naturales.
+Se modifica el apartado 12 por el art. 321 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 53
+
+Artículo 53. Concurrencia de infracciones.
+1. En el supuesto de que la actuación constituya infracción de otras normas administrativas, se aplicará la sanción de mayor cuantía.
+2. Cuando la infracción se halle, además, tipificada en el Código Penal, se pasará tanto de culpa a los tribunales.
+
+### Artículo 54
+
+Artículo 54. Calificación de las infracciones.
+1. Las infracciones se califican en leves, menos graves, graves y muy graves. Reglamentariamente se introducirán las especificaciones o graduaciones necesarias atendiendo a su repercusión, su trascendencia en lo que respecta a la seguridad de las personas y bienes, el grado de reversibilidad del daño producido, las circunstancias del responsable, su grado de malicia, participación y beneficio obtenido.
+2. En todo caso, atendiendo al valor natural y a la importancia del bien jurídico protegido:
+a) Se calificarán de muy graves las infracciones comprendidas en el apartado 1 del artículo 52, así como en los apartados 7, 8, 9 y 10 cuando afecten a especies catalogadas en peligro de extinción.
+b) Se calificarán de graves las infracciones comprendidas en los apartados 7, 8, 9 y 10 del artículo 52, cuando afecten a especies catalogadas de interés especial o vulnerables a la alteración de su hábitat.
+c) Se calificarán de menos graves las restantes infracciones, siempre que no afecten a especies protegidas, catalogadas o vulnerables a la alteración de su hábitat.
+d) Se calificarán de leves aquéllas en que así se establezca reglamentariamente en función de su naturaleza o escaso relieve de los perjuicios causados.
+
+### Artículo 55
+
+Artículo 55. Reparación del daño causado.
+1. Las infracciones previstas en esta Ley llevarán aparejada, en todo caso y siempre que sea posible, la reparación del daño causado y reposición de las cosas a su estado original.
+2. En el supuesto de que los responsables de las infracciones no procedan a la reparación del daño causado, la Consellería de Medio Ambiente podrá optar por imponer multas coercitivas de hasta 500.000 pesetas, reiteradas por lapsos de tiempo suficientes para llevar a cabo lo ordenado, o proceder a la reparación de forma subsidiaria a costa del responsable. Las cantidades correspondientes a la ejecución subsidiaria, serán exigibles por vía ejecutiva.
+Cuando el daño causado no sea reparable, junto a la sanción correspondiente, previa audiencia a los responsables, se exigirá una indemnización a éstos fijada por la Consellería de Medio Ambiente según la importancia del daño.
+
+### Artículo 56
+
+Artículo 56. Responsables de las infracciones.
+Se consideran responsables de las infracciones:
+1. Los autores materiales de las actuaciones infractoras y, en su caso, las empresas o entidades de quienes dependan.
+2. Los técnicos o profesionales que contribuyan dolosa o culposamente a la comisión de una infracción.
+3. Cuando se trate de actuaciones amparadas por autorizaciones o licencias manifiestamente ilegales, se considerará también responsables a los técnicos que las hayan informado favorablemente y los miembros de la corporación que hayan votado favorablemente en ausencia de informe técnico o en contra del mismo.
+4. Cuando concurran diversas personas en la comisión de una misma infracción, la sanción se impondrá con carácter solidario, salvo que la actuación de cada una de ellas pueda dar lugar a una infracción separada, en cuyo caso se impondrán sanciones independientes.
+
+### Artículo 57
+
+Artículo 57. Prescripción de las infracciones.
+Las infracciones previstas en esta Ley prescribirán en los siguientes plazos:
+1. Infracciones muy graves: A los cuatro años.
+2. Infracciones graves: Al cabo de un año.
+3. Infracciones menos graves: A los seis meses.
+4. Infracciones leves: A los dos meses.
+
+## CAPÍTULO II
+
+Sanciones
+
+### Artículo 58
+
+Artículo 58. Multas.
+1. Las infracciones tipificadas en el artículo 52 de esta Ley se sancionarán con las siguientes multas:
+a) Infracciones leves: 10.000 a 100.000 pesetas.
+b) Infracciones menos graves: de 100.001 a 1.000.000 de pesetas.
+c) Infracciones graves: de 1.000.001 a 10.000.000 de pesetas.
+d) Infracciones muy graves: de 10.000.001 a 50.000.000 de pesetas.
+2. En cualquier caso, la multa deberá ser, como mínimo, equivalente al valor del beneficio económico conseguido por el infractor, independientemente de la calificación de la infracción o de que la cuantía pueda superar la cantidad máxima prevista para las infracciones muy graves.
+
+## CAPÍTULO III
+
+Procedimiento sancionador
+
+### Artículo 59
+
+Artículo 59. Procedimiento sancionador.
+1. Para la imposición de las sanciones previstas en esta ley, será requisito imprescindible la tramitación del correspondiente expediente sancionador, con arreglo al procedimiento establecido en la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas y en las posibles normas especiales y/o de desarrollo en materia de procedimiento sancionador que pudieran dictarse al efecto.
+2. El plazo máximo para la resolución y notificación del procedimiento sancionador será de un año, contado desde la fecha del acuerdo de iniciación.
+3. La falta de resolución en dicho plazo conllevará la caducidad del expediente, pudiendo iniciarse un nuevo procedimiento, siempre que la infracción no hubiera prescrito, conservándose todos los actos, documentos y trámites cuyo contenido se hubiere mantenido igual de no haberse producido la caducidad.
+Se modifica por el art. 185 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 60
+
+Artículo 60. Competencias sancionadoras.
+La imposición de las multas previstas en esta Ley corresponde a los siguientes órganos y autoridades:
+1. Director territorial de Medio Ambiente: Hasta 1.000.000 de pesetas.
+2. Director general del Medio Natural: Hasta 10.000.000 de pesetas.
+3. Conseller de Medio Ambiente: Hasta 40.000.000 de pesetas.
+4. Gobierno valenciano: Por encima de 40.000.000 de pesetas.
+
+### Artículo 61
+
+Artículo 61. Acción pública.
+Será pública la acción para exigir, ante los órganos administrativos, el cumplimiento de lo establecido en esta Ley y las normas y planes que la desarrollen y ejecuten.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El contenido de todos los planes de ordenación de recursos naturales en vigor en el momento de aprobación de esta ley, que regulan el ámbito no declarado espacio natural protegido se sustituye por lo establecido en el artículo 33 apartado 3 de la presente disposición legal.
+Se modifica por el art. 145 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Son espacios naturales protegidos de la Comunidad Valenciana los que se enumeran a continuación:
+1. Parques naturales:
+a) Parque Natural de L‘Albufera.
+b) Parque Natural del Montgó.
+c) Parque Natural del carrascar de la Font Roja.
+d) Parque Natural del Fondó.
+e) Parque Natural del Prat de Cabanes-Torreblanca.
+f) Parque Natural de las Lagunas de la Mata y Torrevieja.
+g) Parque Natural de les Salines de Santa Pola.
+h) Parque Natural del Penyal d‘Ifac.
+2. El espacio natural protegido del Desert de les Palmes se declara parque natural en aplicación del artículo 3.1 de esta ley.
+3. Reservas naturales:
+Reserva Natural de les Illes Columbretes.
+Reserva (Marina) Natural de la isla de Tabarca.
+Reserva (Marina) Natural del cabo de San Antonio.
+Se modifica por el art. 146 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
+ Incluye las correcciones de errores publicadas en el «Diario Oficial de la Comunitat Valenciana» número 7195, de 20 de enero de 2014 y número 7214, de 14 de febrero de 2014. Ref. BOE-A-2014-2112.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Se declara el Parque Natural del Marjal de Pego-Oliva, cuya delimitación figura en el anexo I de la presente Ley, representada, asimismo, gráficamente en el anexo II. El régimen jurídico de dicho parque natural se establecerá por decreto del Gobierno valenciano.
+En el plazo de un año se elaborará el plan de ordenación de los recursos naturales. De acuerdo con lo dispuesto en el artículo 7.1 de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres, durante este período de tramitación, no podrán realizarse actos que supongan una transformación sensible de la realidad física y biológica de la zona afectada que puedan llegar a hacer imposible o dificultar de forma importante la consecución de los objetivos de dicho plan, quedando suspendida la concentración parcelaria.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+1. El Gobierno valenciano aprobará en el plazo de un año, previo informe del Consejo Asesor y de Participación de Medio Ambiente, el Catálogo de Espacios Naturales de la Comunidad Valenciana.
+2. El Gobierno valenciano aprobará, en el plazo de un año, los catálogos de zonas húmedas, cuevas y vías pecuarias de interés natural.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+La Generalidad fomentará la investigación y los trabajos científicos necesarios para la correcta aplicación de esta Ley, favoreciendo la coordinación con la investigación hecha en las Comunidades Autónomas vecinas y en los organismos estatales o supraestatales.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Uno.
+De conformidad con el artículo veintinueve de la presente Ley, se establecen áreas de amortiguación de impactos en el entorno de los siguientes parques naturales:
+Parque natural del Montgó.
+Parque natural del Carrascal de la Font Roja.
+Parque natural del Prat de Cabanes-Torreblanca.
+Parque natural del Marjal de Pego-Oliva.
+Parque natural de la sierra de Espadán.
+Parque natural de la sierra Calderona.
+Parque natural de la sierra de Irta.
+Parque natural de la sierra de Mariola.
+Parque natural de las hoces del Cabriel.
+Parque natural de Penyagolosa.
+Parque natural de la Tinença de Benifassà.
+La delimitación y el régimen de ordenación de dichas áreas de amortiguación de impactos son los establecidos, respectivamente para cada uno de los citados parques naturales, en los anexos normativos de los siguientes decretos del Consell:
+Decreto 180/2002, de 5 de noviembre, del Consell, por el que se aprueba el Plan de ordenación de los recursos naturales del Montgó.
+Decreto 121/2004, de 16 de julio, del Consell, por el que se aprueba el Plan de ordenación de los recursos naturales y la revisión del Plan rector de uso y gestión del parque natural del Carrascal de la Font Roja.
+Decreto 4/2003, de 21 de enero, del Consell, por el que se aprueba el Plan de ordenación de los recursos naturales y rector de uso y gestión del parque natural de El Prat de Cabanes - Torreblanca.
+Decreto 280/2004, de 17 de diciembre, del Consell, por el que se aprueba el Plan de ordenación de los recursos naturales del parque natural del Marjal de Pego-Oliva.
+Decreto 218/1997, de 30 de julio, del Consell, por el que se aprueba el Plan de ordenación de los recursos naturales de la sierra de Espadán.
+Decreto 77/2001, de 2 de abril, del Consell, por el que se aprueba el Plan de ordenación de los recursos naturales de la sierra Calderona.
+Decreto 78/2001, de 2 de abril, del Consell, por el que se aprueba el Plan de ordenación de los recursos naturales de la sierra de Irta.
+Decreto 76/2001, de 2 de abril, del Consell, por el que se aprueba el Plan de ordenación de los recursos naturales de la sierra de Mariola.
+Decreto 24/2005, de 4 de febrero, del Consell, por el que se aprueba el Plan de ordenación de los recursos naturales de las hoces del Cabriel.
+Decreto 49/2006, de 7 de abril, del Consell, por el que se aprueba el Plan de ordenación de los recursos naturales del macizo de Penyagolosa.
+Decreto 57/2006, de 28 de abril, del Consell, por el que se aprueba el Plan de ordenación de los recursos naturales de la Tinença de Benifassà.
+Dos.
+Asimismo, de conformidad con el artículo 29 de la presente ley, se establecen áreas de amortiguación de impactos en el entorno de los parques naturales del Hondón, las lagunas de la Mata y Torrevieja y salines de Santa Pola. La delimitación y el régimen de ordenación de estas áreas de amortiguación de impactos se establecerán en el Plan de ordenación de los recursos naturales del sistema de zonas húmedas del sur de Alicante.
+Se añade por el art. 107 de la Ley 12/2009, de 23 de diciembre. Ref. BOE-A-2010-1279.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+1. Gozan de la consideración de espacios protegidos de la Red Natura 2000 en la Comunidad Valenciana los siguientes espacios:
+a) Las Zonas de Especial Protección para las Aves recogidas en el Acuerdo de 5 de junio de 2009, del Consell, de ampliación de la Red de Zonas de Especial Protección para las Aves (ZEPA) de la Comunitat Valenciana.
+b) Los Lugares de Importancia Comunitaria recogidos en el Acuerdo del Consell de 10 de julio de 2001, consolidados por la Decisión de la Comisión de 19 de julio de 2006, por la que se adopta la lista de LIC de la región biogeográfica mediterránea.
+2. La declaración como Zonas Especiales de Conservación de los LIC mencionados en el apartado anterior, así como la aprobación de sus correspondientes normas de gestión deberá realizarse antes de agosto de 2012. La misma fecha límite regirá para la aprobación de las normas de gestión de las Zonas de Especial Protección para las Aves mencionadas en el apartado anterior.
+Se añade por el art. 69 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Funciones del cuerpo de agentes medioambientales.
+Los y las agentes medioambientales tendrán la consideración de agente de la autoridad en las materias a las que se refiere la presente Ley.
+Se modifica por el art. 111.4 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a1-23
+ Se añade por el art. 105.4 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los planes rectores o especiales, correspondientes a espacios naturales protegidos, declarados antes de la entrada en vigor de esta Ley, que en el momento de su publicación hayan adquirido vigencia o superado el trámite de información pública, se aplicarán en sus propios términos y de acuerdo con la legislación, a cuyo amparo se hayan formulado.
+En el momento de proceder a la revisión de los planes a que se refiere esta disposición, se llevará a cabo la adaptación de los mismos al contenido de esta Ley, con arreglo a lo previsto en las disposiciones transitorias segunda y tercera.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La elaboración y aprobación de los planes de ordenación de los recursos naturales correspondientes a los parques naturales y reservas naturales, incluidos en la disposición adicional segunda, que gocen de la condición de espacio natural protegido en el momento de la entrada en vigor de esta Ley, se llevará a cabo con ocasión de la revisión de los planes especiales o planes rectores, a que se refiere la disposición transitoria primera.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+La elaboración y aprobación de los planes rectores de uso y gestión de los espacios naturales protegidos, declarados con anterioridad a la fecha de entrada en vigor de esta Ley, se realizará dentro del plazo máximo de cuatro años, a partir de dicha fecha.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Se deroga, expresamente, la Ley 5/1988, de 24 de junio, reguladora de los Parajes Naturales de la Comunidad Valenciana. Los espacios naturales declarados con arreglo a dicha Ley, seguirán el régimen previsto en las disposiciones adicionales de la presente.
+Queda, asimismo, derogada la disposición adicional sexta de la Ley 4/1992, de 5 de junio, sobre Suelo No Urbanizable.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno valenciano para dictar cuantas disposiciones resulten necesarias para el desarrollo y aplicación de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se faculta al Gobierno valenciano para actualizar la cuantía de las multas previstas en esta Ley, de acuerdo con la Ley de Presupuestos de la Generalidad Valenciana de cada ejercicio.
+
+Por tanto, ordeno a todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, que observen y hagan cumplir esta Ley.
+Valencia, 27 de diciembre de 1994.
+JOAN LERMA I BLASCO,
+Presidente
+
+## ANEXO I
+
+Delimitación del Parque Natural del Marjal de Pego-Oliva
+Empieza en el cruce de la autopista A-7, sobre el río Bullent-Vedat. Desde este punto, y siguiendo el sentido de las agujas del reloj, queda definida por:
+Margen derecho de la autopista en el sentido hacia Alicante, hasta el punto de intersección con el río dels Racons.
+Desde este punto sigue el linde entre el término de Oliva y Denia hasta llegar al río dels Racons, el cual sigue, por su margen derecha, hasta el punto donde se unen los términos de Oliva, Denia y Pego.
+Dejando el río, continúa bordeando la finca del Rosari, en el linde de los términos de Pego y Denia, hasta la carretera de Pego a El Vergel (C-3311).
+Desde este punto y en dirección oeste, sigue por la misma carretera hasta su intersección con el tossal de Casabò, donde enlaza en línea recta con el río dels Racons.
+Por la margen derecha del río dels Racons siguen en dirección noroeste hasta su intersección con el Barranco de Cotes de Benigànim.
+Sigue en línea recta hasta el punto de intersección de la carretera de Pego al mar, con la pista que discurre más hacia el oeste del marjal.
+Arrancando desde ese punto de la carretera de Pego a la mar, el linde sigue hacia el norte en línea recta hasta el recodo más sudoeste de la acequia Mare de la Marjal Major, y continúa por la margen derecha de ésta, hasta la pista que da acceso a la Muntanyeta Verda.
+Desde aquí continúa por la susodicha pista y, atravesando el camino del Racó, sigue en dirección este y va a enlazar en línea recta con las cotas más altas del pequeño circo de relieves que engloban el nacimiento del Bracet (Tossalet de Bullentor).
+Desde aquí asciende en dirección este por su margen izquierda englobando la zona de policía (franja de 100 metros) hasta su confluencia con el Bullent.
+Continúa por la margen derecha del Bullent, incluyendo la zona de policía, en dirección norte, hasta el nacimiento al otro lado de la carrtera C-3318.
+Desde aquí atraviesa de nuevo la carretera, en su confluencia con el límite de los términos de Oliva y Pego, y va a conectar con la cota 66, situada al este y englobando todos los brazos del Bullent y su zona de policía.
+Desde esta dirección norte hasta conectar con la cota 75, y desde ésta, en dirección noreste hasta la cota 53.
+Desde aquí, en dirección este a conectar la cota 27 y desde ella, en dirección noreste, hasta alcanzar la cota 45.
+Sigue en dirección este por línea de máxima pendiente hasta la cota 61 y, desde ella, en dirección sureste, hasta la cota 88.
+Desde ésta, en dirección norte, sigue la línea de máxima pendiente hasta alcanzar la margen izquierda del riu Vedat.
+Continúa por esta margen, aguas abajo, englobando la zona de policía, hasta alcanzar su intersección con la autopista A-7, punto de origen de la delimitación.
+
+## ANEXO II

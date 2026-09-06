@@ -1,0 +1,429 @@
+# Ley 29/2002, de 17 de diciembre, de Creación del Centro de Investigación y Tecnología Agroalimentaria de Aragón.
+
+- Identificador BOE: `BOE-A-2003-1495`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-1495
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+En nombre del Rey y como Presidente de la Comunidad Autónoma de Aragón, promulgo la presente Ley, aprobada por las Cortes de Aragón, y ordeno se publique en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado», todo ello de conformidad con lo dispuesto en el artículo 20.1 del Estatuto de Autonomía.
+PREÁMBULO
+1
+La Constitución Española establece en el artículo 149.1.15.acomo competencia exclusiva del Estado el fomento y la coordinación general de la investigación científica y técnica. Por su parte, el artículo 148.1.17.a recoge el fomento de la investigación como una de las materias cuya competencia puede ser asumida por las Comunidades Autónomas, procediendo el Estatuto de Autonomía de Aragón a recoger en el artículo 35.1.29.ala competencia exclusiva en investigación científica y técnica, en coordinación general con la del Estado. Por otra parte, el artículo 36.3.aestablece que, en el marco de las actuaciones que desarrolla la Comunidad Autónoma en materia de enseñanza, le corresponde el fomento de la investigación, especialmente la referida a materias o aspectos peculiares de Aragón, y el artículo 35.1.12.a recoge la competencia exclusiva en materia de agricultura, ganadería e industrias agroalimentarias, de acuerdo con la ordenación general de la economía.
+En ejercicio de sus competencias, el Estado dictó la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica, que establece la necesaria coordinación de la actuación en el campo de la investigación de las diferentes Comunidades Autónomas entre sí y de éstas con la Administración General del Estado, procediendo, además, al establecimiento del marco común a que deben ajustarse los organismos públicos con funciones de investigación. Esta Ley estatal, y la normativa que la complemente, configura el marco jurídico de referencia de las intervenciones administrativas en el sector de la investigación y sus principios inspiradores; por ello, sus preceptos habrán de constituir la referencia tanto de la presente Ley como de cuantas disposiciones se dicten en su desarrollo y ejecución, a efectos de asegurar una mínima homogeneización que garantice un funcionamiento integrado y eficaz de los centros públicos de investigación.
+2
+El Decreto 1/2000, de 18 de enero, del Gobierno de Aragón, establece la estructura orgánica del Departamento de Agricultura, existiendo dentro de él, como órgano directivo, la Dirección General de Tecnología Agraria, en la que se integran los Servicios de Investigación Agroalimentaria, de Transferencia en Tecnología Agroalimentaria y de Formación y Extensión Agraria, y a la que se le atribuye el desarrollo y ejecución de la política del Departamento en materia de investigación agroalimentaria; la transferencia a los sectores de las innovaciones tecnológicas; la experimentación de las mismas, incluidas las que se ejecutan en condiciones de campo reales, y la formación y capacitación agraria de los agricultores y ganaderos. Por tanto, actualmente, el ejercicio de la actividad pública en la Administración autonómica en materia de investigación, desarrollo e innovación agroalimentarias corresponde a la Dirección General de Tecnología Agraria del Departamento de Agricultura.
+3
+La organización actual de la investigación y la transferencia de las innovaciones tecnológicas en materia agroalimentaria es continuación de la creada en las décadas de los años sesenta y setenta por el Ministerio de Agricultura, que, si bien se encontraba plenamente adaptada a su época, la propia dinámica del sector ha convertido en obsoleta. Así, las nuevas orientaciones europeas y españolas han planteado la existencia de nuevos campos de investigación no cubiertos adecuadamente, y detectado ineficiencias en la transferencia al sector productivo, planteando, en consecuencia, la necesidad de seguir una estrategia de investigación, desarrollo e innovación tecnológica (en lo sucesivo, I+D+I) que, simultáneamente, fomente la investigación y el desarrollo tecnológico (en lo sucesivo, I+D) y la innovación empresarial, y sea por ello capaz de incidir en los mercados mediante nuevos productos o nuevas técnicas de producción más eficientes y más respetuosas con el medio ambiente.
+La aplicación en el sector agroalimentario de esta nueva estrategia obliga a definir un nuevo objetivo final para la I+D+I en Aragón: Conseguir, mediante la investigación, el desarrollo tecnológico, la formación y la transferencia, que las explotaciones agrarias y las empresas agroindustriales innoven continuamente y con ello alcanzar que la población activa agraria, y el resto de la población rural, obtenga una mayor rentabilidad económica y, como consecuencia, una mejor calidad de vida. Debe decirse ya que, a los efectos de esta Ley, el término agroalimentario comprende tanto los aspectos relacionados con las producciones agrarias y la industria agroalimentaria como los referentes a los aspectos forestales y los de desarrollo rural, por constituir el conjunto de todos ellos un sistema específico e íntimamente relacionado en lo económico, en lo social y en lo medioambiental.
+La investigación, desarrollo e innovación agroalimentarias aragonesas deben, por tanto, afrontar un triple reto. Desarrollar, en primer lugar, tecnologías y productos adaptados al entorno natural y a nuestros mercados europeos; transferirlas después eficazmente al sector para que redunden en su continua innovación, y, por último, garantizar la eficiencia y continuidad del esfuerzo potenciando equipos humanos que estén en vanguardia de la investigación a través de su constante estímulo y participación en proyectos y redes nacionales, europeas e internacionales.
+4
+Por ello, mediante la presente Ley, y en virtud del principio de eficiencia en el cumplimiento de los objetivos institucionales que debe regir el actuar administrativo, conforme dispone el Decreto Legislativo 2/2001, de 3 de julio, del Gobierno de Aragón, por el que se aprueba el texto refundido de la Ley de la Administración de la Comunidad Autónoma de Aragón, se dota a la Administración Pública aragonesa de un instrumento ágil que permita realizar la política en materia de investigación y transferencia en el sector agroalimentario y facilitar la gestión de los resultados obtenidos.
+De este modo, haciendo uso de la potestad de autoorganización reconocida estatutariamente en el artículo 35.1.1.a, que habilita a la Comunidad Autónoma para la creación de una Administración institucional propia, el citado objetivo se consigue mediante la creación de un organismo público, bajo la forma de entidad de Derecho Público, que dote a estos sectores de un instrumento eficaz que oriente sus líneas de investigación en función de las necesidades existentes, que transfiera sus resultados y conocimientos, de forma que se fomente la innovación de las explotaciones y empresas agroalimentarias, y todo ello con tecnologías respetuosas con el medio ambiente.
+De este modo, esta Ley crea el Centro de Investigación y Tecnología Agroalimentaria de Aragón (en lo sucesivo, el Centro) como entidad de Derecho Público que quedará sujeta a lo dispuesto en el régimen general de estos entes públicos, sin perjuicio de la existencia de algunas peculiaridades derivadas de las funciones y características propias del Centro.
+5
+La naturaleza, fines y funciones que esta Ley atribuye al Centro son fundamentalmente las que han venido desarrollándose en materia de investigación, transferencia y formación, a través de la Dirección General de Tecnología Agraria del Departamento de Agricultura.
+La Ley configura la estructura y organización del Centro, debiendo destacarse la creación de un Consejo Rector con una amplia representación que responde a la consideración de que las grandes líneas de investigación, desarrollo y transferencia son estrategias a largo plazo basadas en el acuerdo social, económico y político.
+Respecto del régimen patrimonial del Centro se prevé de forma expresa la posibilidad de la transferencia al mismo de los derechos en forma de patentes, títulos de obtención vegetal y otros similares que pudieran corresponder a la Comunidad Autónoma, obtenidos en el ejercicio de sus funciones de investigación agroalimentaria con el fin de facilitar su gestión y agilizar su transferencia a través de la aplicación del derecho privado.
+En materia de personal, en uso de la previsión contenida en el artículo 2.2 del Decreto Legislativo 1/1991, de 19 de febrero, por el que se aprueba el texto refundido de la Ley de Ordenación de la Función Pública de la Comunidad Autónoma de Aragón, se prevé el establecimiento de normas específicas con relación al personal investigador, o con especialización profesional técnica o facultativa.
+Sobre el régimen económico y financiero procede destacar que los recursos económicos se ordenarán bajo el principio de que el Centro debe generar también sus propios recursos tanto a través de la gestión de proyectos como mediante la explotación o enajenación de sus derechos de propiedad industrial y la prestación de servicios al sector.
+
+## CAPÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1. Creación, naturaleza y régimen jurídico.
+1. Se crea el Centro de Investigación y Tecnología Agroalimentaria de Aragón, como entidad de Derecho Público, adscrita al Departamento de la Administración de la Comunidad Autónoma con competencia en materia de investigación agroalimentaria, y que se regirá por las previsiones de la presente Ley, por sus Estatutos y por las demás disposiciones que resulten de aplicación.
+2. El Centro tiene personalidad jurídica y patrimonio propios, y goza de autonomía administrativa y plena capacidad de obrar.
+3. El Centro ajustará su actividad al Derecho privado, y en particular en sus relaciones externas, tráfico patrimonial y mercantil, sin perjuicio de las excepciones que puedan derivarse de lo establecido en esta Ley.
+4. El Centro es un medio propio instrumental y servicio técnico de la Administración de la Comunidad Autónoma de Aragón y sus organismos públicos dependientes para la realización de los servicios esenciales relacionados con las funciones previstas en el artículo 3 de esta ley.
+Se añade el apartado 4 por el art. 50 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408
+ Se modifica el apartado 3 por el art. 43.1 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Artículo 2
+
+Artículo 2. Fines.
+Son fines generales del Centro:
+a) Impulsar la investigación científica en materia agroalimentaria y su desarrollo tecnológico.
+b) Integrar esta contribución al progreso de la ciencia en el sistema de relaciones de colaboración y cooperación propio de la actividad investigadora.
+c) Impulsar la transferencia tecnológica, la innovación y la formación en el sector agroalimentario aragonés, así como el fomento de actividades relacionadas con las mismas.
+Se modifica la letra c) por el art. 43.2 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Artículo 3
+
+Artículo 3. Funciones.
+1. Son funciones del Centro las siguientes:
+a) Ejecutar la política del Gobierno de Aragón en materia de investigación, desarrollo tecnológico y transferencia (I+D+T) agroalimentarias.
+b) Potenciar la innovación en el sector agroalimentario transfiriéndole, en su caso previa contraprestación, los resultados científicos y tecnológicos obtenidos por el Centro u otras instituciones públicas o privadas, así como fomentar las relaciones con el sector agroalimentario para conocer sus necesidades sobre investigación y desarrollo.
+c) Promover y realizar programas de investigación y desarrollo, propios o concertados con terceros, relacionados con los sectores agroalimentario y forestal.
+d) Realizar la experimentación necesaria para adaptar las nuevas tecnologías y conocimientos, generados por el sector público o privado de investigación y desarrollo, a las diferentes realidades agroalimentarias aragonesas.
+e) Contribuir a la protección, conservación y mejor conocimiento de los recursos genéticos del sector agrario aragonés y de sus ecosistemas, sin perjuicio de la competencia que pueda corresponder a otros órganos, organismos o Administraciones Públicas.
+f) Promover la mejora de la profesionalidad de los agricultores y ganaderos.
+g) Contribuir a la formación del personal investigador, científico y técnico que lleve a cabo actuaciones relacionadas con los fines y funciones propias del Centro.
+h) Fomentar las relaciones con otras instituciones de la comunidad científica, tanto nacionales como extranjeras, así como promover la organización de congresos y reuniones científicas, relacionados con la tecnología del sector agroalimentario.
+i) Administrar, en régimen de derecho privado, los derechos de obtentor cuya titularidad corresponda a la Comunidad Autónoma de Aragón relacionados con la investigación y desarrollo agroalimentarios tales como patentes, obtenciones vegetales u otras de naturaleza análoga.
+j) Administrar, directa o indirectamente, las fincas que formen parte del Patrimonio Agrario de la Comunidad Autónoma de Aragón y que se le puedan adscribir o adjudicar, para cumplir las finalidades del Centro en materia de investigación, transferencia y formación agraria, en los términos establecidos en su régimen jurídico respectivo.
+k) La creación, fomento e impulso de una biblioteca agroalimentaria.
+l) Participar en cooperativas o sociedades mercantiles por sí mismo o en colaboración con otros entes públicos o privados.
+m) Participar en fundaciones u otras entidades cuyo objeto sea la financiación o realización de actividades relacionadas con sus fines.
+n) Establecer relaciones contractuales o de cooperación con personas físicas o jurídicas y especialmente las dirigidas a la constitución de entidades participadas por universidades y por otros entes de investigación.
+ñ) Efectuar tareas de certificación en el ámbito agroalimentario.
+o) Cualesquiera otras funciones que expresamente se le asignen por el ordenamiento jurídico o que se deriven de los fines de carácter general señalados en el artículo 2 de la presente Ley.
+2. El Centro elaborará su Plan Estratégico de Actuaciones de I+D+T atendiendo a las directrices expresadas por el Plan Autonómico de Investigación, Desarrollo y Transferencia de Conocimientos de Aragón.
+Se modifican las letras f) y ñ) del apartado 1 por el art. 43.3 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Artículo 4
+
+Artículo 4. Consideración como organismo público de investigación.
+El Centro tendrá la consideración de organismo público de investigación de acuerdo con lo previsto en la Ley 9/2003, de 12 de marzo, de fomento y coordinación de la investigación, el desarrollo y la transferencia de conocimientos en Aragón.
+Se modifica por el art. 43.4 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+## CAPÍTULO I
+
+Estructura y organización
+
+### Artículo 5
+
+Artículo 5. Organización.
+1. El Centro dispondrá de los siguientes órganos de dirección y asesoramiento:
+a) El Consejo Rector, la Comisión Permanente y el Director Gerente, como órganos de dirección.
+b) El Comité Científico, como órgano de asesoramiento.
+2. Los estatutos del Centro determinarán su organización interna para la gestión de las funciones que se le atribuyen en esta ley.
+Se modifica por el art. 1.1 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+
+### Artículo 6
+
+Artículo 6. Funciones del Consejo Rector.
+Corresponderán al Consejo Rector las siguientes funciones:
+a) Planificar las actuaciones de investigación, innovación, transferencia tecnológica y formación del Centro en el marco de las políticas y directrices agroalimentarias fijadas por el Gobierno de Aragón.
+b) Elaborar el Proyecto del Plan Estratégico de Actuaciones en I+D+T del Centro, que será elevado al Gobierno para su aprobación.
+c) Aprobar el anteproyecto de presupuesto.
+d) Aprobar el informe anual de gestión elevándolo al Gobierno de Aragón, conforme a lo dispuesto en el artículo 70.9 de la Ley de Administración de la Comunidad Autónoma de Aragón, cuyo texto refundido fue aprobado por Decreto Legislativo 2/2001, de 3 de julio, del Gobierno de Aragón.
+e) Disponer de cumplida información respecto de los documentos relativos a la actividad económica y financiera del Centro previstos en la legislación vigente de hacienda de la Comunidad Autónoma de Aragón.
+f) Autorizar la participación en cooperativas o sociedades mercantiles, fundaciones y otras personas jurídicas.
+g) Proponer al Gobierno de Aragón las retribuciones del personal directivo que no lo sea por su condición de funcionario y las retribuciones complementarias del resto del personal al servicio del centro.
+Se añade la letra g) por el art. 1.2 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+
+### Artículo 7
+
+Artículo 7. Composición y funcionamiento del Consejo Rector.
+1. El Consejo Rector estará presidido por el Consejero del departamento competente en materia de investigación agroalimentaria y contará con dos vicepresidentes:
+a) El Director Gerente del Centro, como Vicepresidente primero.
+b) El Director General responsable en materia de investigación agroalimentaria, como Vicepresidente segundo.
+2. Los Vicepresidentes sustituirán al Presidente, por su orden, en los casos de ausencia, enfermedad o vacante.
+3. El Consejo Rector estará integrado, además, por los siguientes vocales:
+a) El Secretario General Técnico, o el Viceconsejero en sucaso, o un Director General, del departamento con competencia en materia de investigación agroalimentaria.
+b) Un representante de cada una de las áreas de agricultura, economía, medio ambiente, industria y salud de los Departamentos competentes en estas materias, designados a propuesta de los respectivos Consejeros.
+c) El Presidente del Comité Científico del Centro.
+d) El Director del Instituto Tecnológico de Aragón.
+e) El Presidente de la Agencia Aragonesa de Seguridad Alimentaria.
+f) Un representante de la Universidad de Zaragoza, designado a propuesta de su Rector.
+g) Un representante del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, designado a propuesta de su Director.
+h) Un miembro del Comité Científico del Centro, designado a propuesta de su Presidente.
+i) Tres investigadores de reconocido prestigio, uno de loscuales deberá pertenecer a la plantilla del Centro, designados a propuesta del Presidente del Consejo Rector.
+j) Dos representantes de las organizaciones profesionales agrarias más representativas de Aragón, designados a propuesta de estas.
+k) Un representante de las uniones, federaciones y confederaciones de cooperativas agrarias con domicilio social en Aragón, designado a propuesta de éstas.
+l) Un representante de las industrias agroalimentarias condomicilio social en Aragón, designado a propuesta de las asociaciones más representativas.
+m) Un representante de las denominaciones de origen protegidas y de las indicaciones geográficas protegidas existentes en Aragón o de las entidades que las sustituyan, designado a propuesta de éstas.
+n) Dos representantes de los trabajadores designados por las centrales sindicales más representativas de Aragón.
+ñ) Un representante de las organizaciones sociales cuyo objeto principal sea la protección y conservación del medio ambiente, designado a propuesta de éstas.
+o) Un representante de las organizaciones de consumidoresy usuarios con domicilio social en Aragón, designado a propuesta de éstas.
+p) Un representante del Comité Aragonés de Agricultura Ecológica, designado a propuesta de éste.
+q) Un representante de los órganos de representación delpersonal del Centro, designado a propuesta conjunta de la Junta de Personal y de los Comités de Empresa.
+4. Será Secretario del Consejo Rector, con voz pero sin voto, un miembro del personal del Centro, designado por su Presidente.
+5. Los vocales serán nombrados por acuerdo del Gobierno de Aragón, a propuesta del Presidente del Consejo Rector, por un período de cuatro años, previa designación efectuada en los términos previstos en el apartado 3 de este artículo. Agotado su mandato, el Gobierno de Aragón podrá renovar su nombramiento por una sola vez, sin que esta limitación sea de aplicación a los vocales que formen parte del Consejo Rector en virtud del cargo que ocupen.
+6. Los estatutos del Centro especificarán el régimen de organización y funcionamiento del Consejo Rector.
+Se modifican las letras b) y j) del apartado 3 por el art. 62 de la Ley 3/2012, de 8 de marzo. Ref. BOE-A-2012-5203
+ Se modifica por el art. 1.3 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+ Se modifican las letras b) y g) del apartado 3 por el art. 43.5 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Artículo 8
+
+Artículo 8. Comisión Permanente.
+El Consejo Rector podrá designar de entre sus miembros una Comisión Permanente cuya composición, funcionamiento y atribuciones se regularán estatutariamente.
+
+### Artículo 9
+
+Artículo 9. El Director Gerente del Centro.
+1. El Director ostenta la representación legal del Centro y ejercerá la dirección, gestión, coordinación, control y supervisión de todas sus actividades y, entre otras, le corresponderán las siguientes funciones:
+a) Ejecutar los acuerdos adoptados por el Consejo Rector.
+b) Elaborar el anteproyecto de presupuesto y el informe anual sobre la gestión realizada de acuerdo con lo dispuesto en el artículo 70.9 de la Ley de Administración de la Comunidad Autónoma, cuyo texto refundido fue aprobado por Decreto Legislativo 2/2001, de 3 de julio, del Gobierno de Aragón, así como aprobar las cuentas anuales.
+c) (Suprimida).
+d) La ejecución presupuestaria.
+e) Elaborar la plantilla de personal del Centro.
+f) Ejercer, respecto de los funcionarios y empleados al servicio de la Administración Pública destinados en el Centro, las mismas competencias que la normativa sobre función pública atribuye a los Consejeros.
+g) Ejercer las acciones judiciales y administrativas.
+h) Ser el órgano de contratación del Centro.
+i) Realizar los actos necesarios para la adecuada conservación, administración y gestión de su patrimonio, así como del presupuesto.
+j) Autorizar los actos de disposición de los bienes y derechos de naturaleza mobiliaria, así como de las patentes, derechos de obtención vegetal y otros análogos, en este caso, conforme a lo dispuesto en el capítulo II de la presente Ley.
+k) Trasladar al Consejo Rector las propuestas necesarias para el buen funcionamiento del Centro, incluyendo las de participación en el capital social de cooperativas y sociedades mercantiles que se consideren convenientes para el cumplimiento de sus fines.
+l) Formular y trasladar a los organismos públicos y órganos competentes de la Administración de la Comunidad Autónoma cuantas propuestas se juzguen convenientes en materia de investigación agroalimentaria.
+m) Cualquier otra función del Centro no atribuida por la presente Ley o por otra disposición a otros órganos superiores del mismo.
+2. El Director Gerente del Centro, que tendrá categoría de Director General, será nombrado por decreto del Gobierno de Aragón a propuesta del Consejero con competencia en materia de investigación agroalimentaria.
+3. Los actos y resoluciones administrativas del Director Gerente del Centro no agotarán la vía administrativa, siendo susceptibles de recurso de alzada ante el Consejero del Departamento que tenga atribuidas las competencias en materia de investigación agroalimentaria.
+Se modifica por el art. 1.4 a 6 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+ Se modifica el apartado 3 por el art. 43.6 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Artículo 10
+
+Artículo 10. Funciones del Comité Científico.
+1. Existirá en el Centro un Comité Científico, como órgano de asesoramiento en materia científica, investigación agroalimentaria, transferencia de resultados y formación.
+2. Son funciones generales del Comité Científico, en el ámbito propio de sus competencias:
+a) Informar, con carácter previo a su aprobación por elConsejo Rector, la política científica e investigadora del Centro, proponiendo sus líneas y prioridades en el marco de la política agroalimentaria y de investigación e innovación tecnológica fijada por el Gobierno de Aragón.
+b) Evaluar periódicamente los planes y líneas estratégicasadoptados así como sus resultados, proponiendo la adopción de medidas en la estructura y en la organización científica del Centro orientadas a incorporar de modo eficiente nuevas tecnologías para el sector agroalimentario aragonés. A estos efectos, el Comité Científico remitirá un informe anual al Director Gerente del Centro y al Presidente del Consejo Rector, sin perjuicio del traslado a los citados órganos de todos los acuerdos que adopte.
+c) Asesorar e informar sobre aquellos asuntos que seanexpresamente sometidos a su conocimiento por el Presidente del Consejo Rector y por el Director Gerente del Centro.
+Se modifica por el art. 1.7 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+
+### Artículo 11
+
+Artículo 11. Composición del Comité Científico.
+1. El Comité Científico estará integrado por, al menos, seis miembros de acreditada relevancia en el campo de la investigación científica y técnica agroalimentaria, de los cuales dos podrán ser de nacionalidad no española, siendo todos ellos nombrados, a propuesta del Consejero del departamento competente en materia de investigación agroalimentaria, por acuerdo del Gobierno de Aragón y por una duración de cuatro años.
+2. El Comité Científico, de entre sus miembros, elegirá a su Presidente.
+3. Los estatutos del Centro determinarán el régimen de organización y funcionamiento del Comité Científico.
+Se modifica por el art. 1.8 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+
+## CAPÍTULO II
+
+Régimen patrimonial y de contratación
+
+### Artículo 12
+
+Artículo 12. Bienes que integran el patrimonio propio del Centro.
+Formarán parte del patrimonio propio del Centro los siguientes bienes y derechos:
+a) Los derechos en forma de patentes, títulos de obtención vegetal y otros análogos (en adelante, derechos de propiedad industrial) obtenidos por el Centro, así como aquéllos de esta naturaleza cuya titularidad, a la entrada en vigor de la presente Ley, corresponda a la Comunidad Autónoma y sean resultado de las investigaciones previas realizadas por los Servicios que se adscriban al Centro y aquellos derechos de esa naturaleza que puedan integrarse en él en virtud de la disposición adicional primera, apartado 2, de la presente Ley.
+b) Cualesquiera otros bienes y derechos que adquiera o le sean incorporados por cualquier persona física o jurídica por cualquier título.
+
+### Artículo 13
+
+Artículo 13. Explotación de los derechos de propiedad industrial de titularidad del Centro.
+1. Director Gerente del Centro podrá acordar la adscripción de los derechos de propiedad industrial de que sea titular en favor de empresas creadas o participadas por el Centro.
+2. Igualmente corresponde al Director Gerente del Centro la competencia para acordar la cesión del uso o explotación de esta clase de derechos en favor de personas físicas o jurídicas, previa contraprestación y con sujeción a los principios de publicidad y concurrencia propios de la contratación administrativa, salvo que se den las causas previstas en la legislación vigente en materia de patrimonio de la Comunidad Autónoma que habilitaran la aplicación del procedimiento de adjudicación directa.
+Se modifica por el art. 1.6 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+
+### Artículo 14
+
+Artículo 14. Enajenación de los derechos de propiedad industrial de titularidad del Centro.
+1. La enajenación de esta clase de derechos podrá realizarse por el procedimiento de adjudicación directa en favor de empresas participadas por el Centro y a través del procedimiento de subasta pública en el resto de los casos, salvo que pudieran concurrir circunstancias que, de acuerdo con lo dispuesto en la legislación vigente en materia de patrimonio de la Comunidad Autónoma, habilitaran la aplicación del procedimiento de adjudicación directa.
+2. Los citados actos de disposición de esta clase de derechos se acordarán por el Director Gerente del Centro previa comunicación al Consejero competente en materia de investigación agroalimentaria, sin perjuicio de la necesidad de obtener autorización previa del órgano al que, de acuerdo con lo dispuesto en la legislación de patrimonio de la Comunidad Autónoma, corresponda su emisión.
+Se modifica por el art. 1.6 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+
+### Artículo 15
+
+Artículo 15. Bienes inmuebles adscritos al Centro.
+Los bienes y derechos de naturaleza inmobiliaria que le sean adscritos por la Comunidad Autónoma de Aragón conservarán su calificación jurídica originaria y no podrán ser objeto de disposición por el Centro, ni incorporados a su patrimonio, ni enajenados o permutados directamente.
+
+### Artículo 16
+
+Artículo 16. Coordinación con el patrimonio de la Comunidad Autónoma.
+El Centro deberá informar anualmente al Departamento competente en materia de patrimonio, en la forma y términos establecidos en la legislación de patrimonio de la Comunidad Autónoma, de las adquisiciones, adscripciones, cesiones y enajenaciones de los bienes y derechos de titularidad del Centro.
+
+### Artículo 17
+
+Artículo 17. Régimen jurídico aplicable a los contratos.
+1. La contratación del Centro se someterá al Derecho privado con respeto a los principios contenidos en la legislación básica estatal sobre contratos de las Administraciones públicas.
+2. La contratación del Centro se regirá por la legislación de contratos de las Administraciones públicas en aquellos supuestos contemplados en la misma en los que, de acuerdo con su naturaleza de entidad de Derecho Público, deba someterse total o parcialmente al régimen de contratación pública.
+
+## CAPÍTULO III
+
+Régimen de personal
+
+### Artículo 18
+
+Artículo 18. Personal.
+1. El personal del Centro estará integrado por personal directivo y por personal no directivo.
+2. Tendrá la consideración de personal directivo el Director Gerente y aquel otro que, de acuerdo con la organización y las funciones que se le encomienden, se determine en los estatutos de la entidad.
+3. Tendrá la consideración de personal no directivo:
+a) El personal funcionario y laboral de la Administración dela Comunidad Autónoma incorporado inicialmente al Centro y aquel otro que, con posterioridad, obtenga destino en el mismo a través de las formas de provisión previstas en la legislación sobre función pública.
+b) El personal laboral fijo y temporal propio del Centro, contratado por la entidad mediante convocatoria pública, de acuerdo con los principios de igualdad, mérito y capacidad.
+c) El personal investigador, científico y técnico, contratadode acuerdo con la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica y disposiciones que la desarrollan.
+4. Respecto de los puestos de la plantilla que estén dotados y no ocupados, así como de los que en el futuro puedan quedar vacantes, el Director Gerente del Centro valorará la necesidad de proceder a su amortización o a su provisión por los procedimientos señalados en los apartados a) y b) de este artículo. En esta valoración influirán de forma determinante las líneas prioritarias que, de acuerdo con los informes del Comité Científico, haya adoptado o vaya a adoptar el Centro, así como las previsiones que sobre ordenación de recursos humanos se hayan formulado por el mismo.
+Se modifica por el art. 1.9 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+
+### Artículo 19
+
+Artículo 19. Régimen jurídico del personal.
+1. La contratación del personal directivo que no lo sea por su condición de funcionario se realizará de acuerdo con los principios de igualdad, mérito y capacidad, bajo la modalidad de relación laboral especial de alta dirección, sin que puedan pactarse cláusulas de indemnización por razón de la extinción de la relación jurídica que le una con el Centro.
+2. El personal no directivo se regirá por las siguientes normas:
+a) El personal funcionario o laboral de la Administraciónde la Comunidad Autónoma de Aragón incorporado inicialmente al Centro, o con posterioridad a través de los procedimientos de movilidad previstos en la normativa de aplicación, se regirá, respectivamente, por la normativa sobre función pública y por el convenio colectivo vigente en cada momento y, supletoriamente, por la normativa que resulte de aplicación.
+En tanto dure su destino en el Centro, el citado personal mantendrá todos sus derechos en lo relativo a antigüedad, categoría, niveles retributivos y acción social derivados del puesto de origen, así como los correspondientes a la carrera y promoción profesional que le correspondan como funcionario o personal laboral de la Administración de la Comunidad Autónoma. Todo ello sin perjuicio de su adecuación funcional y del régimen de prestación de servicios que resulten necesarios para el cumplimiento de los fines del Centro, de acuerdo con lo establecido en los estatutos del mismo.
+b) El personal laboral propio del Centro se regirá por elconvenio colectivo vigente en cada momento y, supletoriamente, por la normativa que resulte de aplicación.
+Se modifica por el art. 1.10 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+
+### Artículo 20
+
+Artículo 20. Retribuciones del personal del Centro.
+1. Las retribuciones del Director Gerente y demás personal directivo del Centro se fijarán por el Gobierno de Aragón, a propuesta del Consejo Rector.
+2. Las retribuciones básicas del personal no directivo del Centro se homologarán a las establecidas con carácter general en la Administración de la Comunidad Autónoma de Aragón para el personal de similar nivel de clasificación y categoría, fijándose las retribuciones complementarias por el Gobierno de Aragón, a propuesta del Consejo Rector del Centro, con criterios de homogeneidad con las establecidas para los empleados públicos de la Administración de la Comunidad Autónoma.
+3. En ningún caso las retribuciones totales en cómputo anual del personal propio contratado por el Centro serán inferiores a las correspondientes a puestos de idéntico grupo y nivel del personal de la Administración de la Comunidad Autónoma.
+Se modifica por el art. 1.11 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+
+### Artículo 20 bis
+
+Artículo 20 bis. Personas en formación.
+1. El Centro podrá contar con personas en formación investigadora, científica y técnica que desarrollen actividades para ampliar su formación a través de becas predoctorales, postdoctorales o de cualquier otra naturaleza, de acuerdo con su normativa específica.
+2. Estas personas carecerán de vinculación jurídico-laboral con el Centro, sin perjuicio de lo que pueda disponer al respecto la normativa de aplicación.
+Se añade por el art. 1.12 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+
+### Artículo 21
+
+Artículo 21. Contrato-programa.
+1. Entre el departamento competente en materia de investigación agroalimentaria y el propio Centro, podrá suscribirse anualmente un contrato-programa vinculado a objetivos de investigación y a la realización de servicios tecnológicos, de acuerdo con las necesidades del sector agroalimentario y de los departamentos de la Administración autonómica, fijando los niveles de participación de las unidades que integran el Centro, definiendo los indicadores de avance en el cumplimiento de objetivos, de visibilidad de la producción científica, de competencia para captar recursos humanos y materiales para la investigación, de dirección de tesis doctorales y de divulgación científica, entre otros.
+2. En el contexto de los objetivos pactados en el contratoprograma que se suscriba y sin perjuicio de la carrera profesional que pueda establecerse reglamentariamente para el personal investigador y técnico del Centro, podrán fijarse incentivos económicos de productividad vinculados al cumplimiento evaluado de los objetivos pactados.
+Se modifica por el art. 1.13 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+
+### Artículo 22
+
+Artículo 22. Carrera profesional del personal investigador y técnico.
+Con sujeción a lo previsto en los artículos 39 y 40 de la Ley de Ordenación de la Función Pública de la Comunidad Autónoma de Aragón, cuyo texto refundido fue aprobado por Decreto Legislativo 1/1991, de 19 de febrero, la carrera profesional del personal investigador y técnico se regulará reglamentariamente, en términos que permitan conjugar la experiencia profesional y dedicación con el nivel del puesto de trabajo desempeñado en cada momento.
+El mencionado Reglamento regulará las relaciones con empresas por parte del personal investigador, científico y técnico del Centro.
+Se modifica por el art. 1.14 y 15 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+ Su anterior numeración era art. 24.
+
+## CAPÍTULO IV
+
+Régimen económico-financiero
+
+### Artículo 23
+
+Artículo 23. Los créditos presupuestarios.
+1. El Centro elaborará anualmente el anteproyecto de presupuesto, que será aprobado por el Consejo Rector y posteriormente será remitido por el Consejero del Departamento con competencia en materia de investigación agroalimentaria, junto con el de su Departamento, al competente en materia de hacienda.
+2. Previa autorización del órgano que, de acuerdo con lo previsto en la legislación vigente en materia de hacienda y presupuestos, resulte competente, podrán aplicarse al Centro créditos correspondientes a los programas de gasto del Departamento con competencia en materia de investigación agroalimentaria o de otros Departamentos, cuando aquéllos se destinen a actividades propias de las funciones que tiene encomendadas el Centro.
+3. Podrán generar crédito en las dotaciones del estado de gastos del presupuesto del Centro los mayores ingresos a los inicialmente previstos en el ejercicio corriente, en los supuestos y términos contenidos en la legislación de hacienda de la Comunidad Autónoma.
+4. Las dotaciones incluidas en el estado de gastos del presupuesto del Centro tendrán carácter limitativo; no obstante, podrán declararse ampliables conforme a lo previsto en la legislación de hacienda de la Comunidad Autónoma y, en particular, cuando se fijen en función de los recursos generados por la actividad propia del Centro en las cuantías necesarias para reflejar las modificaciones positivas en los créditos de transferencias destinados a la misma, conforme a lo dispuesto en la legislación de hacienda de la Comunidad Autónoma de Aragón.
+Se modifica por el art. 1.14 y 15 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+ Su anterior numeración era art. 25.
+
+### Artículo 24
+
+Artículo 24. Gestión económico-financiera.
+1. El Centro no podrá prestar avales a terceros ni emitir Deuda. Para la concertación de préstamos deberá contar con la autorización del Consejero competente en materia de hacienda.
+2. El control de la gestión económico-financiera del Centro se llevará a cabo por la Intervención General de la Administración de la Comunidad Autónoma de Aragón, así como por cuantos órganos e instituciones tengan atribuido el ejercicio de esta función de control.
+3. El Centro estará sujeto al sistema de contabilidad pública de la Comunidad Autónoma de Aragón.
+Se modifica por el art. 1.15 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+ Su anterior numeración era art. 26.
+
+## CAPÍTULO IV
+
+Régimen económico-financiero
+
+### Artículo 25
+
+Artículo 25. Recursos económicos.
+Los recursos del Centro estarán integrados por:
+a) Las consignaciones previstas en los Presupuestos de la Comunidad Autónoma de Aragón.
+b) Los productos y rentas de su patrimonio, incluidos los ingresos que le correspondan derivados de los derechos de propiedad industrial.
+c) Las subvenciones o aportaciones voluntarias de entidades e instituciones tanto públicas como privadas.
+d) Las tasas y precios públicos que resulten exigibles por la prestación de los servicios encomendados.
+e) Los que procedan de la enajenación de sus bienes o productos.
+f) Los créditos y préstamos que pueda concentrar o que se le puedan atribuir con arreglo a las disposiciones vigentes.
+g) Cualquier otro que pudiera obtener en el ejercicio de sus funciones.
+Se modifica por el art. 1.15 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+ Su anterior numeración era art. 27.
+
+### Artículo 26
+
+Artículo 26. Gestión económico-financiera.
+1. El Centro no podrá prestar avales a terceros ni emitir Deuda. Para la concertación de préstamos deberá contar con la autorización del Consejero competente en materia de hacienda.
+2. El control de la gestión económico-financiera del Centro se llevará a cabo por la Intervención General de la Administración de la Comunidad Autónoma de Aragón, así como por cuantos órganos e instituciones tengan atribuido el ejercicio de esta función de control.
+3. El Centro estará sujeto al sistema de contabilidad pública de la Comunidad Autónoma de Aragón.
+
+### Artículo 27
+
+Artículo 27. Recursos económicos.
+Los recursos del Centro estarán integrados por:
+a) Las consignaciones previstas en los Presupuestos de la Comunidad Autónoma de Aragón.
+b) Los productos y rentas de su patrimonio, incluidos los ingresos que le correspondan derivados de los derechos de propiedad industrial.
+c) Las subvenciones o aportaciones voluntarias de entidades e instituciones tanto públicas como privadas.
+d) Las tasas y precios públicos que resulten exigibles por la prestación de los servicios encomendados.
+e) Los que procedan de la enajenación de sus bienes o productos.
+f) Los créditos y préstamos que pueda concentrar o que se le puedan atribuir con arreglo a las disposiciones vigentes.
+g) Cualquier otro que pudiera obtener en el ejercicio de sus funciones.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Unidades y órganos que se integran en el Centro.
+Por Decreto del Gobierno de Aragón se acordará la integración en el Centro de aquellos organismos, servicios o unidades que realicen actividades de I+D agroalimentarias, y la separación del mismo de aquellos que se estime conveniente.
+Se modifica por el art. 43.7 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Patrimonio adscrito y propio del Centro.
+1. Quedarán adscritos al Centro los bienes y derechos correspondientes a los organismos, servicios o unidades que se integren en el Centro.
+2. El Gobierno de Aragón hará efectiva la cesión a favor del Centro, en un plazo de seis meses desde la entrada en vigor de la presente Ley, de los derechos de propiedad industrial que hayan sido obtenidos por la Comunidad Autónoma en el ejercicio de funciones o fines que mediante la presente Ley a aquel se le atribuyen.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.Transferencia tecnológica del Centro.
+Para hacer posible la eficiente transferencia al sector agroalimentario de las actividades y resultados de la investigación realizada en el Centro, éste promoverá la creación, colaboración o participación en parques tecnológicos, entidades u organizaciones de iniciativa pública que tengan la citada función entre sus objetivos esenciales.
+Se añade por el art. 2.3 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+ Se suprime por el art. 43.8 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Subrogación del Centro.
+Los bienes, derechos, obligaciones y los medios materiales que correspondan a los organismos, servicios y unidades que se integran en el Centro pasarán a ser titularidad de éste.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Extinción del Centro.
+1. El Centro se extinguirá, poniendo fin a su personalidad jurídica, en la forma y por las causas establecidas para los organismos públicos en la legislación de Administración de la Comunidad Autónoma de Aragón.
+2. En el caso de desaparición del Centro, los empleados de la Administración de la Comunidad Autónoma de Aragón que estuvieran adscritos a él tendrán derecho, sin solución de continuidad, a ser adscrito en una plaza del Departamento de procedencia con la misma categoría, nivel retributivo y en la misma localidad que tuvieran en el Departamento de origen, computándose los derechos y el tiempo de servicio prestados en el Centro como prestados en la Administración de la Comunidad Autónoma de Aragón.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Modificaciones presupuestarias.
+Se autoriza al Consejero competente en materia de hacienda para realizar las modificaciones presupuestarias que permitan dotar al Centro de los recursos necesarios, con cargo a las consignaciones que para el cumplimiento de sus fines recogen los programas 542.01 y 714.01 en los presupuestos vigentes.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Representación y defensa en juicio.
+La dirección y coordinación del asesoramiento jurídico y la representación y defensa en juicio del Centro corresponderá a los Letrados integrados en los Servicios Jurídicos de la Administración de la Comunidad Autónoma de Aragón, sin perjuicio de lo establecido en el artículo 447.2 de la Ley Orgánica del Poder Judicial.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Integración de organismos, servicios y unidades.
+El día 1 de enero de 2004 se integrarán en el Centro los organismos, servicios y unidades cuyas funciones sean la I+D agroalimentaria, o realicen actividades afines o complementarias.
+Se modifica por el art. 43.9 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Plantilla de personal.
+(Suprimida).
+Se suprime por el art. 2.1 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+ Se modifica el apartado 2 por el art. 43.10 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan o contradigan lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Estatuto del Centro.
+(Suprimida).
+Se suprime por el art. 2.2 de la Ley 6/2006, de 22 de junio. Ref. BOA-d-2006-90023
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo reglamentario de la carrera profesional.
+Por Decreto del Gobierno de Aragón se aprobará, en el plazo de doce meses desde la entrada en vigor de la presente Ley, la regulación de la carrera profesional del personal investigador, científico y técnico, conforme a lo dispuesto en el artículo 24 de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Habilitación para el desarrollo reglamentario de la Ley.
+1. Se faculta al Gobierno de Aragón para dictar las disposiciones necesarias para el desarrollo y aplicación de la presente Ley.
+2. Se autoriza al Consejero del Departamento competente en materia de investigación agroalimentaria para revisar las cantidades definidas en la disposición adicional tercera.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+Esta Ley entrará en vigor el día 1 de enero de 2003.
+
+### [firma]
+
+Así lo dispongo a los efectos del artículo 9.1 de la Constitución y los correspondientes del Estatuto de Autonomía de Aragón.
+Zaragoza, 17 de diciembre de 2002.
+MARCELINO IGLESIAS RICOU,
+Presidente

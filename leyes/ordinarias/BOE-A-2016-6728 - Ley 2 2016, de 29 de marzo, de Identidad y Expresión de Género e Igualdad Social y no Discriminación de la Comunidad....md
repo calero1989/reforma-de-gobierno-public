@@ -1,0 +1,685 @@
+# Ley 2/2016, de 29 de marzo, de Identidad y Expresión de Género e Igualdad Social y no Discriminación de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-2016-6728`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2016-6728
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 2/2016, de 29 de marzo, de protección, igualdad efectiva y no discriminación de las personas transexuales e intersexuales de la Comunidad de Madrid", según establece el art. único.1 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+## Preámbulo
+
+LA PRESIDENTA DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey promulgo.
+PREÁMBULO
+Durante cerca de setenta años la transexualidad ha figurado como enfermedad en los principales manuales de diagnóstico y en las principales clasificaciones de enfermedades como la Clasificación Internacional de Enfermedades (CIE-IO) de la Organización Mundial de la Salud o el Manual diagnóstico y estadístico de los trastornos mentales, más conocido como DSM de la American Psychiatric Association (APA) bajo los calificativos de “trastorno de la identidad sexual” o “desorden de la identidad de género” cuyo diagnóstico médico asociado era la “disforia de género”. Al igual que con la homosexualidad, ha hecho falta un largo camino para que autoridades médicas, asociaciones científicas y profesionales reconsideraran esta clasificación médica en sus bases científicas, valoraran los componentes de prejuicio que la componen y el efecto estigmatizador de dichas clasificaciones.
+Las normas internacionales sobre derechos humanos consagran como principios básicos la igualdad y la no discriminación. El artículo 1 de la Declaración Universal de Derechos Humanos establece la afirmación inequívoca de que “Todos los seres humanos nacen libres e iguales en dignidad y derechos”. El artículo 2 de la misma Declaración afirma posteriormente que, “toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición”. Mandato que la propia ONU ha declarado que implica el derecho a la igualdad de trato ante la ley y el derecho a ser protegido contra la discriminación por diversos motivos, entre ellos la orientación sexual.
+En el año 2006, se redactan los principios de Yogyakarta, sobre la aplicación del derecho internacional de los derechos humanos a las cuestiones de orientación sexual. Contiene 29 principios y recomendaciones adicionales que, partiendo de la declaración universal de los derechos humanos, declaración y programa de acción de Viena y otros tratados de derechos humanos, marcan estándares básicos para que las Naciones Unidas y los Estados avancen en la garantía de los derechos humanos de las personas LGTBI, puesto que en numerosos países los derechos humanos son negados a personas con motivo de su orientación sexual.
+En el ámbito de la Unión Europea, la Carta de Derechos Fundamentales de la Unión Europea establece que “la Unión está fundada sobre los valores indivisibles y universales de la dignidad humana, la libertad, la igualdad y la solidaridad”. Y prohíbe de forma expresa en el artículo 21 toda discriminación, y en particular la ejercida por razón de sexo, raza, color, orígenes étnicos o sociales, características genéticas, lengua, religión o convicciones, opiniones políticas o de cualquier otro tipo, pertenencia a una minoría nacional, patrimonio, nacimiento, discapacidad, edad u orientación sexual.
+Sobre esta base la Unión Europea ha construido un sólido cuerpo de normas y resoluciones dirigido a garantizar la libre manifestación de identidad de género de sus ciudadanos sin discriminación. Entre dichos elementos normativos podemos señalar de manera no exhaustiva las resoluciones del Parlamento Europeo de 8 de febrero de 1994, de 18 de enero de 2006, de 24 de mayo de 2012, de 24 de junio de 2013 y de 4 de febrero de 2014, todas ellas relativas a la igualdad de derechos de lesbianas y gais y transexuales, o los efectos colaterales de Directivas como la 2000/78/CE, del Consejo, relativa al establecimiento de un marco general para la igualdad de trato en el empleo y la ocupación. Es necesario mencionar por su pertinencia al caso las Directrices para promover y proteger el disfrute de todos los derechos humanos por las personas lesbianas, gays, bisexuales, trans e intersexuales (LGBTI), aprobadas por el Consejo de la Unión Europea el 24 de junio de 2013.
+En esta misma línea, en España, el artículo 14 de la Constitución Española declara que “los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquiera otra condición o circunstancia personal o social”. Mientras que el artículo 9.2 establece que “Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica cultural y social”, tras reconocer como derecho fundamental, el del libre desarrollo de la personalidad. Nuestra carta magna reconoce igualmente el respeto a la intimidad y a la propia imagen, el derecho a la salud, el trabajo y el acceso a la vivienda.
+En desarrollo de este mandato, el 15 de marzo de 2007 se promulgó la Ley 3/2007 reguladora de la rectificación registral de la mención relativa al sexo de las personas, que permite el cambio de la inscripción relativa al sexo en el registro civil y con ello el cambio del nombre, de la documentación oficial y del estatus ciudadano adscrito al sexo registrado.
+Son muchas, por otro lado, las normas que proscriben la discriminación en el trabajo y la identidad de género ha recibido tutela igualmente en la Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y la adolescencia o en la reciente reforma del Código Penal.
+La Comunidad de Madrid, por su parte, e incorporó en su día por ley los tratamientos médicos adscritos al proceso de apoyo a las personas transexuales a su cartera de servicios médicos básicos y creó la Unidad de Trastornos de la identidad de género que actualmente atiende a las personas transexuales residentes en la Comunidad.
+En otro ámbito, la Comunidad de Madrid puso en marcha el programa de información y atención a homosexuales y transexuales; programa puntero e innovador de colaboración entre la Administración Pública y la sociedad civil dedicado a realizar actuaciones de carácter formativo, informativo, de asesoramiento y sensibilización dirigidas tanto a profesionales como al conjunto de la población y que tiene por objeto la prestación de una atención integral y especializada tanto a las personas homosexuales y transexuales como a sus entornos familiares y relacionales, a través de la intervención de un equipo multiprofesional que actúa en las áreas social, psicológica, jurídica, de sensibilización y formación.
+El Estatuto de Autonomía de la Comunidad de Madrid contempla entre sus competencias el poder para velar y garantizar el adecuado ejercicio de los derechos y deberes fundamentales de sus ciudadanos, así como las competencias en materia de organización administrativa y de los servicios públicos, en la protección y tutela de los menores, en la promoción del empleo, asistencia social, en el ámbito educativo y en la organización de la prestación de los servicios médicos del sistema nacional de salud. Todo ello la habilita para realizar un planteamiento de atención integral en las diversas materias que afectan a la situación de las personas trans sin necesidad de interferir en las competencias estatales o de otras administraciones. La presente Ley, por ello, no define cuáles son los presupuestos para el cambio de nombre o sexo registral en el registro civil y de hecho define sus propios ámbitos de actuación basándose en las necesidades de atención de los transexuales, y en las manifestaciones de sus ciudadanos sobre un principio de libre manifestación de su condición y de la necesidad de amparo en la ley.
+La Ley se divide en una exposición de motivos, un preámbulo, doce títulos, dos disposiciones adicionales, una disposición derogatoria y dos disposiciones finales.
+El Título Preliminar dedicado a las disposiciones generales establece los objetivos, el ámbito de la ley, la definición de las personas amparadas por la misma entre las que se resalta la situación de los menores de edad y los principios rectores de la administración en el tratamiento de las personas amparadas. La Ley contempla como sujetos de derecho a todas las personas residentes en la Comunidad sin contemplación de su nacionalidad pues una norma de igualdad y no discriminación no puede comenzar por establecer exclusiones o distinciones entre los afectados por la discriminación. En lo referente a los destinatarios de los mandatos de la norma, estos son todas las personas físicas o jurídicas, públicas o privadas, cualquiera que sea su domicilio o residencia, que se encuentren o actúen en el ámbito territorial de la Comunidad de Madrid.
+Resulta obligado resaltar el compromiso que la Comunidad de Madrid adquiere con esta norma en relación a la protección de los menores transexuales. Si con frecuencia los transexuales adultos han sufrido discriminación o han sido desatendidas, este abandono es especialmente grave cuando afecta a los menores de edad, que por su desprotección natural y por su estadio de desarrollo sufren con mayor gravedad la negativa al reconocimiento de su identidad o la desatención médica a sus necesidades de afirmación. En cumplimiento del mandato de la Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y la adolescencia y bajo el criterio rector de atención al interés superior del menor, la Ley les ofrece ahora a ellos y a sus tutores el amparo de la ley frente toda exclusión, plena atención a sus necesidades sanitarias y protección en el sistema educativo.
+El Título I dedicado al Tratamiento administrativo de la transexualidad e intersexualidad, establece los principios generales del tratamiento administrativo. La Comunidad compromete igualmente el sostenimiento de un servicio de asesoramiento y apoyo a las personas transexuales, sus familiares y personas allegadas, el respeto de la confidencialidad e intimidad en todos sus procedimientos y compromiso firme en la realización de acciones contra la discriminación y el respeto a todo administrado.
+El Título II, De la atención sanitaria a las personas transexuales establece el derecho a la salud y a la asistencia sanitaria de los transexuales en el sistema sanitario de la Comunidad de Madrid y regula la unidad de identidad de género, que pasa a llamarse Unidad de Transexualidad e Intersexualidad. La asistencia a los menores transexuales se establece bajo los principios de tutela del mejor interés del menor y de respeto a su voluntad bajo el principio de reconocimiento progresivo de su madurez, conforme establecen los principios de la Convención de Naciones Unidas sobre Derechos del Niño y los protocolos de las principales organizaciones pediátricas internacionales.
+La Ley contempla igualmente la elaboración de las guías y protocolos médicos adecuados a los principios de consentimiento informado, atención integral multidisciplinaria y profesional. Se contempla igualmente la realización de estudios, estadísticas y programas de formación de los profesionales sanitarios.
+En el caso de las personas intersexuales, y de manera novedosa, la presente norma garantiza la integridad corporal de los menores intersexuales y les ofrece protección de su intimidad y dignidad frente a prácticas de exposición y análisis de carácter abusivo.
+El Título III, Medidas en el ámbito de la educación, busca garantizar el respeto en las aulas, la formación integral de la persona y la colaboración entre familias y docentes.
+El Título IV, Medidas en el ámbito laboral y de la Responsabilidad Social Empresarial, establece el compromiso de crear medidas efectivas en el fomento de la igualdad y no discriminación en el empleo y en las estrategias de responsabilidad social corporativa.
+El Título V, Medidas en el ámbito social, centra su atención en la inclusión de uno de los colectivos más desfavorecidos de nuestra sociedad y con frecuencia sometido a marginalidad y a situaciones de especial vulnerabilidad. Tiene especial relevancia en este apartado, el compromiso de extender la tutela ofrecida a las víctimas de violencia a las mujeres transexuales, el compromiso de tutelar a los menores expulsados de sus hogares y la atención a las víctimas de violencia por discriminación.
+El Título VI, Medidas en el ámbito familiar, se dedica a la protección y garantía del respeto a todas las familias, incluyendo ante los posibles casos de violencia en el ámbito familiar.
+El Título VII, Medidas en el ámbito de la juventud y de las personas mayores aborda los mecanismos de protección y fomento del desarrollo personal en dos etapas especialmente necesitadas de apoyo como son la juventud y la edad avanzada garantizando en todo caso el respeto y la adecuada asistencia a los mismos.
+El Título VIII, Medidas en el ámbito del ocio, la cultura y el deporte, promueve una cultura y un ejercicio del deporte con respeto por todos, y salvaguardando los derechos de las mujeres en todas las categorías deportivas.
+El Título IX, Medidas en el ámbito de la Cooperación Internacional al Desarrollo, expresa el compromiso de esta Comunidad con el derecho a la vida, la igualdad y la libertad de aquellas personas que sufren persecución violencia o criminalización en los países donde dichos derechos son negados o ignorados.
+El Título XI, Medidas en el ámbito policial, pretende impulsar un protocolo de atención a toda condición sexual en las fuerzas de seguridad, destinado en especial a paliar las consecuencias que sufren quienes son víctimas de los delitos de odio por razón de su condición sexual.
+El Título XII, Medidas administrativas para garantizar la igualdad real y efectiva de las personas transexuales, regula los principios aplicables a la contratación administrativa, concesión de subvenciones, formación del funcionariado y personal público en las cuestiones pertinentes a la discriminación por razón de sexo. De cara a los procedimientos administrativos de esta Comunidad, establece igualmente la condición de interesados en el procedimiento, las medidas de remoción, cese e indemnización.
+El Título XIII, Régimen sancionador, se refiere al régimen de infracciones y sanciones y las disposiciones aplicables al procedimiento sancionador de los temas relativos a esta ley.
+La norma concluye con las previsiones relativas a su implantación efectiva y desarrollo reglamentario a fin de asegurar la más temprana implantación y efectividad de los derechos aquí enunciados.
+Con esta norma, la Comunidad de Madrid da amparo y reconocimiento al esfuerzo que las organizaciones sociales, los partidos políticos, las familias y los transexuales de esta Comunidad han hecho durante años para que el respeto a la igualdad y dignidad de todos los ciudadanos de Madrid sea una realidad sin exclusiones.
+Se modifica por el art. único.1 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Definiciones.
+A los efectos previstos en esta Ley, se entenderá por:
+1. (Suprimido)
+2. Trans: Toda aquella persona que se identifica con un género diferente o que expresa su identidad de género de manera diferente al género que le asignaron al nacer. A los efectos de esta Ley y sin prejuzgar otras acepciones sociales el término trans ampara múltiples formas de expresión de la identidad de género o sub categorías como transexuales, transgénero, travestis, variantes de género, queer o personas de género diferenciado, así como a quienes definen su género como «otro» o describen su identidad en sus propias palabras.
+3. Intersexualidad: Variedad de situaciones en las cuales, una persona nace con una anatomía reproductiva o sexual que no parece encajar en las definiciones típicas de masculino y femenino.
+4. Discriminación directa: Hay discriminación directa cuando una persona haya sido, sea o pueda ser tratada de modo menos favorable que otra en situación análoga o comparable, por motivos de orientación sexual, expresión o identidad de género o pertenencia a grupo familiar.
+5. Discriminación indirecta: Hay discriminación indirecta cuando una disposición, criterio o práctica aparentemente neutros puedan ocasionar una desventaja particular a personas por motivos de orientación sexual, expresión o identidad de género.
+6. Discriminación múltiple: Hay discriminación múltiple cuando además de discriminación por motivo de orientación sexual, expresión o identidad de género o pertenencia a grupo familiar, una persona sufre conjuntamente discriminación por otro motivo recogido en la legislación europea, nacional o autonómica. Específicamente se tendrá en cuenta que a la posible discriminación por expresión, identidad de género, se pueda sumar la pertenencia a colectivos como inmigrantes.
+7. Discriminación por asociación: Hay discriminación por asociación cuando una persona es objeto de discriminación como consecuencia de su relación con una persona, un grupo o familia trans.
+8. (Suprimido)
+9. Acoso discriminatorio: Será acoso discriminatorio cualquier comportamiento o conducta que por razones de orientación sexual, expresión o identidad de género o pertenencia a grupo familiar, se realice con el propósito o el efecto de atentar contra la dignidad y de crear un entorno intimidatorio, hostil, degradante, ofensivo o segregado.
+10. Represalia discriminatoria: Trato adverso o efecto negativo que se produce contra una persona como consecuencia de la presentación de una queja, una reclamación, una denuncia, una demanda o un recurso, de cualquier tipo, destinado a evitar, disminuir o denunciar la discriminación o el acoso al que está sometida o ha sido sometida.
+11. Victimización secundaria: Se considera victimización secundaria al perjuicio causado a las personas que hagan expresión de su identidad de género que, siendo víctimas de discriminación, acoso o represalia, sufren las consecuencias adicionales de la mala o inadecuada atención por parte de los responsables administrativos, instituciones de salud, policía o cualquier otro agente implicado.
+Se suprimen los apartados 1 y 8 por el art. único.2 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 2
+
+Artículo 2. Ámbito de la Ley.
+1. La presente Ley será de aplicación a cualquier persona física o jurídica, pública o privada, cualquiera que sea su domicilio o residencia, que se encuentre o actúe en el ámbito territorial de la Comunidad de Madrid.
+2. La Asamblea de Madrid, las entidades locales de Madrid, así como cualquier entidad de derecho público o privado vinculada o dependiente de las mismas, y la Federación Madrileña de Municipios, garantizarán el cumplimiento de la Ley y promoverán las condiciones para hacerla efectiva en el ámbito de sus respectivas competencias. En este sentido, apoyarán acciones afirmativas sobre identidad sexual y de género, así como al apoyo del movimiento asociativo de la Comunidad de Madrid y sus propios proyectos.
+3. La presente Ley se aplicará a cualquier etapa de la vida de las personas.
+
+### Artículo 3
+
+Artículo 3. Objeto.
+La presente Ley tiene por objeto regular los principios, medidas y procedimientos destinados a garantizar los siguientes derechos de todas las personas residentes en la Comunidad de Madrid:
+1. (Suprimido)
+2. (Suprimido)
+3. (Suprimido)
+4. A que se respete su integridad física y psíquica así como sus opciones en relación a sus características sexuales y su vivencia de la identidad o expresión de género.
+5. Garantizar el derecho de las personas trans a recibir de la Comunidad de Madrid una atención integral y adecuada a sus necesidades médicas, psicológicas, jurídicas, sociales, laborales, culturales y del resto de derechos fundamentales que puedan ser reconocidos, en igualdad de trato con el resto de la ciudadanía.
+6. A proteger el ejercicio efectivo de su libertad y sin discriminación en todos los ámbitos de la vida política, económica, cultural y social, especialmente, en las siguientes esferas:
+a) Empleo y trabajo por cuenta ajena y por cuenta propia, comprendiendo el acceso, las condiciones de trabajo, la promoción profesional y la formación para el empleo.
+b) Acceso, promoción, condiciones de trabajo y formación en el empleo público.
+c) Afiliación y participación en organizaciones políticas, sindicales, empresariales, deportivas, profesionales y de interés social o económico.
+d) Educación, cultura y deporte.
+e) Sanidad.
+f) Prestaciones y servicios sociales.
+g) Acceso, oferta y suministro de bienes y servicios a disposición del público, incluida la vivienda.
+Lo dispuesto en la presente Ley se entiende sin perjuicio de los regímenes específicos más favorables establecidos en la normativa estatal o autonómica por razón de las distintas causas de discriminación previstas en la Ley.
+Se suprimen los apartados 1, 2 y 3 por el art. único.3 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 4
+
+Artículo 4. Reconocimiento del respeto a la libertad y dignidad de las personas transexuales.
+1. Ninguna persona podrá ser presionada para ocultar, suprimir o negar su condición sexual, ni su transexualidad, con independencia de la fase en que se encuentre, siempre con respeto a la libertad personal, las leyes, las resoluciones judiciales, y tomando en consideración los informes de los servicios médicos.
+2. Ninguna persona será objeto de requerimiento alguno de pruebas de realización total o parcial de cirugías genitales, tratamientos hormonales o tratamientos médicos para hacer uso de su libertad en lo relativo a su condición sexual.
+3. Quedan prohibidas en los servicios sanitarios de la Comunidad de Madrid las terapias de aversión o de conversión, así como las cirugías genitales de las personas intersexuales que no obedezcan a la decisión de la propia persona afectada y a la necesidad de asegurar una funcionalidad biológica por motivos de salud.
+Se modifica por el art. único.4 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 5
+
+Artículo 5. No discriminación.
+1. La Comunidad de Madrid reconoce a todas las personas libres e iguales ante la ley en dignidad y derechos, con independencia de su orientación sexual, su condición transexual, o de sus características sexuales.
+2. Ninguna persona podrá ser objeto de discriminación por estos motivos.
+Se modifica por el art. único.5 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 6
+
+Artículo 6. Menores Trans.
+1. Las personas trans menores de edad tienen derecho a recibir de la Comunidad de Madrid la protección y la atención necesarias para promover su desarrollo integral mediante actuaciones eficaces para su integración familiar y social en el marco de programas coordinados de la administración sanitaria, laboral, de servicios sociales y educativa.
+2. Las personas trans menores de edad tienen derecho a recibir el tratamiento médico oportuno relativo a su transexualidad. La atención sanitaria que se les preste, en tanto que menores, se hará de acuerdo con lo dispuesto en la Ley Orgánica 8/2015, de 22 de julio, de protección a la infancia y la adolescencia, en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de los derechos y obligaciones en materia de información y documentación clínica, la Convención de Derechos del Niño y con atención a lo establecido en los protocolos de las sociedades médicas y pediátricas internacionales.
+3. Los menores de edad trans tienen derecho a ser oídos y expresar su opinión en atención a su madurez y desarrollo en relación a toda medida que se les aplique.
+4. Toda intervención de la Comunidad de Madrid deberá estar presidida por el criterio rector de atención al interés superior del menor y dirigida a garantizar el libre desarrollo de la personalidad del menor conforme a la identidad auto percibida, y a evitar situaciones de sufrimiento e indefensión.
+5. El amparo de los menores en la presente Ley se producirá por mediación de sus tutores o guardadores legales o a través de servicios sociales de protección de los menores cuando se aprecie la existencia de situaciones de sufrimiento e indefensión por negación abusiva de su identidad de género.
+
+## TÍTULO I
+
+Tratamiento administrativo de la transexualidad e intersexualidad
+Se modifica por el art. único.6 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 7
+
+Artículo 7. Documentación administrativa.
+(Suprimido)
+Se suprime por el art. único.7 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 8
+
+Artículo 8. Servicios de asesoramiento y apoyo a las personas transexuales, sus familiares y personas allegadas.
+1. La Comunidad de Madrid garantizará que las personas transexuales tengan acceso a servicios:
+A) De información, orientación y asesoramiento, incluido el legal y de asistencia social con inclusión de sus familiares y personas allegadas en relación con las necesidades de apoyo específicamente ligadas a la condición de persona trans siguiendo los principios de cercanía y no segregación.
+B) De promoción de la defensa de los derechos de este colectivo y de lucha contra la discriminación que este padece en el ámbito social, cultural, laboral y educativo.
+C) De asesoramiento de los técnicos o cuadros directivos de las organizaciones no lucrativas que atiendan a las necesidades de las personas trans.
+2. (Suprimido)
+3. Toda persona cuya identidad de género sea la de mujer y acredite tal condición de conformidad con lo dispuesto en el artículo 3 y sea víctima de la violencia machista o víctima de trata, tendrá acceso, en condiciones de igualdad, a los recursos asistenciales existentes.
+4. Los servicios referidos en el presente artículo atenderán también de forma específica a las personas intersexuales.
+Se suprime el apartado 2 por el art. único.7 bis de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 9
+
+Artículo 9. Confidencialidad y respeto a la privacidad.
+1. La Comunidad de Madrid velará por el respeto a la confidencialidad de los datos relativos a la identidad de género de las personas trans en todos sus procedimientos.
+2. (Suprimido)
+3. La Comunidad de Madrid garantizará el adecuado nivel de seguridad y restricción en el acceso a los datos relativos a la condición de persona trans.
+Se suprime el apartado 2 por el art. único.8 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 10
+
+Artículo 10. Medidas contra la transfobia.
+Las Administraciones Públicas madrileñas:
+1. Diseñarán, implantarán y evaluarán sistemáticamente una política activa en relación a la mejor integración social de las personas transexuales. Dicha política estará dotada de los instrumentos y estructuras necesarias para hacerla viable y comprenderá todos los ámbitos.
+2. Desarrollarán e implantarán programas de capacitación, sensibilización u otros dirigidos a prevenir entre el personal funcionario, laboral, estatutario y sanitario de las administraciones y de los organismos, sociedades y entes públicos madrileños posibles actitudes discriminatorias o prejuicios.
+3. Emprenderán campañas de sensibilización, dirigidas al público en general, a fin de combatir los prejuicios y la violencia contra la transexualidad e intersexualidad, y para obtener el respeto efectivo de toda persona.
+4. Realizarán campañas entre la propia población de personas transexuales fomentando el amor propio, la libertad, y el sentido de la propia dignidad frente a las posibles reacciones adversas del entorno social y familiar.
+5. Defenderán eficazmente en materia de transexualidad e intersexualidad, la pluralidad, la no difusión de los prejuicios que conducen a la discriminación o que puede desembocar en violencia, en los medios de comunicación de titularidad pública o privada.
+6. Apoyarán el reconocimiento y la acreditación de asociaciones, colectivos y organizaciones que promuevan y protejan los derechos de los transexuales.
+7. Fomentarán, incluyendo en la planificación y subvención de actividades académicas y de investigación, que las universidades de la Comunidad atiendan a la formación y la investigación en materia transexualidad e intersexualidad, estableciendo convenios de colaboración si ello fuera aconsejable, para:
+a) Impulsar la investigación y la profundización teórica, sobre estos asuntos.
+b) Elaborar estudios sociológicos y de otra índole sobre la realidad social de las personas transexuales.
+c) Orientar y ayudar en los planes de formación y de empleo de las personas transexuales.
+d) Elaborar planes de formación para profesionales sanitarios y de otras ramas del conocimiento que tengan relación con personas transexuales.
+8. Incentivarán de manera activa la participación social y una mayor integración en el ámbito lúdico y deportivo.
+Se modifica por el art. único.9 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 11
+
+Artículo 11. Principios de la actuación administrativa en materia de identidad de género.
+La actuación de las Administraciones Públicas madrileñas en relación a lo previsto en esta Ley se ajustará a los siguientes principios:
+1. Coordinación entre la Comunidad de Madrid y las entidades locales, que deberán ajustar sus relaciones recíprocas a los deberes de información mutua, colaboración, coordinación y respeto a los ámbitos competenciales respectivos.
+2. (Suprimido)
+3. Homogeneidad de las prestaciones asistenciales previstas en esta Ley, con independencia de la Administración que asuma su gestión o tutela.
+4. Igualdad de trato y prestaciones entre los usuarios, con independencia del municipio en que tengan su residencia.
+5. Suficiencia financiera y de medios materiales para satisfacer las situaciones objeto de protección.
+6. Eficacia y agilidad en la prestación de servicios, especialmente los de carácter urgente o inmediato.
+7. Garantía de la calidad a través del establecimiento de sistemas de control que permitan verificar la eficacia de las actuaciones y servicios previstos en esta Ley.
+Se suprime el apartado 2 por el art. único.10 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+## TÍTULO II
+
+De la atención sanitaria a las personas trans
+
+### Artículo 12
+
+Artículo 12. Protección del derecho a la salud física, mental, sexual y reproductiva.
+1. Todas las personas tienen derecho al más alto nivel de disfrute de la salud física y mental, incluida la salud sexual y reproductiva, sin discriminación alguna por razón de expresión o identidad de género.
+2. El sistema sanitario público de la Comunidad de Madrid garantizará que la política sanitaria sea respetuosa hacia las personas en atención a su identidad y/o expresión de género e incorporará servicios y programas específicos de promoción, prevención y atención que permitan a las mismas, así como a sus familias, disfrutar del derecho a una atención sanitaria plena y eficaz que reconozca y tenga en cuenta sus necesidades particulares.
+3. La atención sanitaria dispensada por el sistema sanitario público madrileño se adecuará a la identidad de género de la persona receptora de la misma.
+
+### Artículo 13
+
+Artículo 13. Atención sanitaria a personas transexuales.
+1. El sistema sanitario de la Comunidad de Madrid atenderá a las personas transexuales conforme a los principios de consentimiento informado, de no discriminación, de asistencia integral, de calidad, especializada, de proximidad y de no segregación.
+Teniendo derecho las personas transexuales a:
+a) Ser informadas y consultadas de los tratamientos que les afecten y a que los procesos médicos que se les apliquen, se rijan por el principio de consentimiento informado y libre decisión del paciente o tutor legal.
+b) Ser tratadas conforme a su situación durante su proceso de cambio de sexo, e ingresadas en las salas o centros correspondientes a ésta cuando existan diferentes dependencias por razón de sexo, y a recibir el trato que se corresponde a su situación, evitando toda segregación o discriminación.
+c) Ser atendidas en la Unidad de Intersexualidad y Transexualidad (UIT) y en los centros de atención especializada pertinentes a su tratamiento.
+d) A solicitar, en caso de duda, una segunda opinión a otro miembro del personal médico, antes de acceder a tratamientos o intervenciones quirúrgicas con efectos irreversibles.
+e) A recibir, llegado el caso, acompañamiento y tratamiento en la decisión de desistir o revertir el proceso de cambio de sexo.
+2. Dentro de sus competencias, y previo cumplimiento de los requisitos y trámites previstos en la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, el sistema sanitario de la Comunidad de Madrid:
+a) Proporcionará tratamiento hormonal a las personas transexuales. En el caso de menores de edad, la atención se realizará en los términos expresados en el artículo siguiente de esta Ley.
+b) Proporcionará el proceso quirúrgico genital, mamoplastia de aumento y masculinización de tórax, siendo la gestión de las listas de espera ajustada a la máxima transparencia, agilidad y eficacia.
+c) Proporcionará el material protésico necesario.
+d) Prestará tratamientos que tiendan a la modulación del tono y timbre de la voz cuando sean requeridos.
+e) Proporcionará el acompañamiento psicológico o psiquiátrico adecuado.
+3. Se prohíbe expresamente el uso en el sistema sanitario de la Comunidad de Madrid de terapias aversivas y de cualquier otro procedimiento que suponga un intento de anulación de la personalidad o voluntad de la persona transexual, así como cualquier otra vejación, trato discriminatorio, humillante o que atente contra su dignidad personal, sin que el asesoramiento psicológico o, en su caso, la evaluación psiquiátrica del personal sanitario pueda considerarse discriminatoria ni contraria a la libertad de la persona evaluada sino, por el contrario, informadora de la misma con base científica y garantías médicas, para que pueda ejercerse dicha libertad con pleno conocimiento de causa, siempre buscando el bienestar de la persona transexual.
+Se levanta la suspensión de la vigencia y aplicación del apartado 3 por Auto del TC, de 19 de noviembre. Ref. BOE-A-2024-27142
+ Se suspende la vigencia y aplicación del apartado 3, desde el 26 de junio de 2024 para las partes legitimadas y desde el 22 de julio para los terceros, por providencia del TC de 16 de julio de 2024. Ref. BOE-A-2024-14994
+ Se modifica por el art. único.11 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 14
+
+Artículo 14. Atención sanitaria de menores.
+1. Las personas transexuales menores de edad tienen derecho a recibir tratamiento médico relativo a su transexualidad proporcionado por profesionales pediátricos, previo examen de dichos profesionales.
+2. Los menores transexuales tendrán derecho a recibir:
+a) Tratamiento para el bloqueo hormonal al inicio de la pubertad, situación que se determinará utilizando datos objetivos como la medición del nivel de estradiol y testosterona, la velocidad de crecimiento o la madurez de los ovarios y gónadas, para evitar el desarrollo de caracteres sexuales secundarios no deseados.
+b) Tratamiento hormonal cruzado en el momento adecuado de la pubertad para favorecer que su desarrollo corporal se corresponda con el de las personas de su edad, a fin de propiciar el desarrollo de caracteres sexuales secundarios deseados.
+Para iniciar el tratamiento farmacológico será requisito necesario que previamente reciban apoyo de los profesionales de salud mental infanto-juvenil, mantenido durante todo el proceso y en el caso de que existiera comorbilidad será imprescindible un informe favorable del profesional que esté tratando al menor en dichas patologías.
+Dicho tratamiento se producirá bajo la autorización de quienes posean la tutela de la persona menor de edad o por autorización del juez que los sustituya.
+El protocolo de actuación determinará el procedimiento a seguir en aquellos casos en que el equipo profesional estime la improcedencia por existir circunstancias que pongan en riesgo la salud del menor.
+Téngase en cuenta que se mantiene la suspensión de la vigencia y aplicación del inciso destacado del segundo párrafo del apartado 2.b) por Auto del TC, de 19 de noviembre. Ref. BOE-A-2024-27142
+c) A recibir, llegado el caso, acompañamiento y tratamiento en la decisión de desistir o revertir el proceso de cambio de sexo.
+3. Sin perjuicio de lo establecido por la Ley 1/2007, de 21 de febrero, de Mediación Familiar de la Comunidad de Madrid, la negativa de padres o tutores a autorizar tratamientos relacionados con la transexualidad o a que se establezca preventivamente un tratamiento de inhibición del desarrollo hormonal, podrá ser recurrida ante la autoridad judicial cuando conste que puede causar un grave perjuicio o sufrimiento al menor. En todo caso se atenderá al criterio del interés superior del menor.
+4. A los efectos de que conste la posición o el consentimiento del menor en el procedimiento y de conformidad con la legislación en materia de los derechos de los pacientes y de protección de los menores, el menor deberá ser oído en atención a su desarrollo y madurez, siempre si supera los 12 años de edad y su consentimiento deberá ser recabado de manera clara e inequívoca si supera los 16 años de edad.
+Se mantiene la suspensión de la vigencia y aplicación del inciso final del segundo párrafo del apartado 2.b) por Auto del TC, de 19 de noviembre. Ref. BOE-A-2024-27142
+ Se suspende la vigencia y aplicación del apartado 2.b), desde el 26 de junio de 2024 para las partes legitimadas y desde el 22 de julio para los terceros, por providencia del TC de 16 de julio de 2024. Ref. BOE-A-2024-14994
+ Se modifica por el art. único.12 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 15
+
+Artículo 15. Atención sanitaria a personas intersexuales.
+1. El sistema sanitario público de Madrid velará por la erradicación de las prácticas de modificación genital en bebes recién nacidos atendiendo únicamente a criterios quirúrgicos y en un momento en el que se desconoce cuál es la identidad real de la persona intersexual recién nacida. Todo ello con la salvedad de los criterios médicos basados en la protección de la salud de la persona recién nacida y con la autorización legal.
+2. Se procurará conservar las gónadas con el fin de preservar un futuro aporte hormonal no inducido. Incluyendo en los controles los marcadores tumorales.
+3. No se realizarán pruebas de hormonación inducida con fines experimentales ni de otro tipo hasta que la propia persona o sus tutores legales, así lo requieran en función de la identidad sexual sentida.
+4. Se limitarán las exploraciones genitales a lo estrictamente necesario y siempre por criterios de salud.
+5. Se formará al personal sanitario haciendo especial hincapié en la corrección de trato y la privacidad.
+6. Se preservará la intimidad del paciente en su historia clínica de manera que no todo el personal sanitario que acceda a ella pueda conocer su cambio de identidad de género, salvo cuando sea estrictamente necesario.
+
+### Artículo 16
+
+Artículo 16. Atención sanitaria en el ámbito reproductivo y sexual.
+1. El sistema sanitario público de Madrid promoverá la realización de programas y protocolos específicos que den respuesta a las necesidades propias y en particular a la salud sexual y reproductiva.
+2. Estará garantizado el acceso a los bancos de óvulos o semen y a las técnicas de reproducción asistida incluyendo como beneficiaras a todas las personas con capacidad gestante y/o sus parejas.
+3. Antes del inicio de los tratamientos hormonales se ofrecerá la posibilidad de congelación de tejido gonadal y células reproductivas para su futura recuperación.
+
+### Artículo 17
+
+Artículo 17. Formación de los profesionales sanitarios.
+1. La Consejería competente en materia de salud garantizará que los profesionales sanitarios, cuenten con la formación adecuada, con respeto a los principios recogidos en esta Ley.
+2. La Consejería de Sanidad de la Comunidad de Madrid establecerá las medidas adecuadas, en estrecha colaboración con las sociedades profesionales correspondientes y con las Universidades madrileñas, para asegurar, en el marco del fomento y participación en las actividades de investigación en el campo de las ciencias de la salud e innovación tecnológica, el derecho de los profesionales a recibir formación específica de calidad en materia de transexualidad, así como el derecho de las personas transexuales a ser atendidas por profesionales con experiencia suficiente y demostrada en la materia.
+3. El sistema sanitario público de Madrid conformará un grupo coordinador de profesionales experimentados que garanticen el trato no discriminatorio a los usuarios de la sanidad por motivo de identidad sexual y/o de género.
+4. La Consejería competente en materia de salud, promoverá la realización de estudios, investigación y desarrollo de políticas sanitarias específicas en materia de identidad sexual y de género en estrecha colaboración con las sociedades profesionales correspondientes y con las universidades madrileñas.
+Se modifica el apartado 3 por el art. único.7 ter de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 18
+
+Artículo 18. Campañas de prevención de enfermedades de transmisión sexual.
+1. Se incluirá de forma expresa el aspecto y la realidad de las personas en atención a la diversidad sexual y de género en las campañas de educación sexual y de prevención de enfermedades de transmisión sexual con especial consideración al VIH en las relaciones sexuales. Se realizarán campañas de información de profilaxis.
+2. Se realizarán campañas de detección precoz del VIH que tendrán en cuenta la extensión y el carácter rural de parte de nuestra región.
+
+### Artículo 19
+
+Artículo 19. Unidad de Intersexualidad y Transexualidad.
+1. La Comunidad de Madrid en su cartera de servicios sanitarios garantizará la existencia de una Unidad de Intersexualidad y Transexualidad (UIT), en una red en la que podrán participar diferentes hospitales que realizarán las prestaciones que se les encomienden, en todo caso, asesorar, tratar y acompañar a la persona a lo largo de todo el proceso, así como en la decisión de iniciarlo o no, y, llegado el caso, en la decisión de desistir o revertir dicho proceso.
+2. La Unidad de Intersexualidad y Transexualidad estará integrada por profesionales sanitarios, que siempre incluirán a psicólogos clínicos y psiquiatras y de servicios sociales, y prestará a las personas transexuales el tratamiento más adecuado a sus circunstancias personales y a su estado de salud.
+3. Será responsabilidad de la UIT la realización de las cirugías genitales que no puedan ser atendidas conforme al principio de atención de proximidad y demás principios expresados en el artículo 13.
+4. La Unidad de Intersexualidad y Transexualidad se concibe igualmente como un centro de formación e investigación en las especialidades médicas y quirúrgicas relacionadas con la transexualidad. A tal fin, podrá desarrollar programas de formación y estudios especializados para la mejora de los profesionales del sistema de salud de la Comunidad de Madrid.
+5. La UIT prestará servicios de asesoramiento y seguimiento a los profesionales que presten asistencia sanitaria a las personas transexuales de la Comunidad que opten por la atención de proximidad siguiendo los principios de esta Ley.
+6. Dicha Unidad definirá, en coordinación con la Unidad de Referencia estatal correspondiente, las mejores prácticas médicas y quirúrgicas relacionadas con la transexualidad; dicha coordinación quedará sin efecto en el caso de que la Unidad sea designada Unidad de Referencia estatal por la Administración competente. En cualquier caso, tal designación no podrá menoscabar los derechos sanitarios de los usuarios recogidos en el articulado de esta Ley y demás normas aplicables, ni los derechos de los profesionales reconocidos en la Ley a una formación inicial y continuada en la materia, así como a la práctica de los conocimientos adquiridos.
+Se modifica por el art. único.13 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 20
+
+Artículo 20. Guías de Recomendaciones.
+Con independencia de los derechos y obligaciones a los que hacen referencia los apartados anteriores, y con el objetivo de mejorar la calidad de la información ofertada, podrán elaborarse desde el Servicio Madrileño de Salud guías de recomendaciones dirigidas específicamente a personas transexuales, que aborden las necesidades sanitarias más frecuentes entre las personas trans.
+
+### Artículo 21
+
+Artículo 21. Estadísticas y tratamiento de datos.
+1. El seguimiento de la atención sanitaria de las personas transexuales incluirá la creación de estadísticas públicas sobre los resultados de los diferentes tratamientos, terapias e intervenciones que se lleven a cabo, con detalle de las técnicas empleadas, complicaciones y reclamaciones surgidas, así como la evaluación de la calidad asistencial.
+2. La recogida de los datos anteriores con fines estadísticos se ajustará a los principios de secreto, transparencia, especialidad y proporcionalidad. El secreto estadístico obliga a la Comunidad de Madrid a no difundir en ningún caso los datos personales de las personas transexuales cualquiera que sea su origen.
+3. Para la elaboración de las estadísticas previstas en el apartado primero de este artículo se creará un fichero automatizado, del que será titular el Servicio Madrileño de Salud, en los términos previstos en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+
+## TÍTULO III
+
+Medidas en el ámbito de la educación
+
+### Artículo 22
+
+Artículo 22. Actuaciones en materia de transexualidad en el ámbito educativo.
+La Comunidad de Madrid:
+1. Velará por que el sistema educativo sea un lugar de respeto y tolerancia, libre de toda agresión o discriminación por causa de su condición sexual, con amparo a los estudiantes, profesores y familias que lo componen.
+2. Garantizará una protección adecuada a estudiantes, personal y docentes transexuales o de cualquier orientación o condición sexual, contra todas las formas de exclusión social y violencia, incluyendo el acoso y el hostigamiento, dentro del ámbito escolar. Los centros educativos garantizarán la correcta atención y apoyo a aquellos estudiantes, personal docente o personal de administración o servicios que fueran objeto de discriminación por su condición sexual, en el seno de los mismos. Dicha protección incluirá la información sobre los mecanismos de denuncias existentes en el ordenamiento jurídico.
+3. Garantizará que se preste apoyo psicopedagógico con asesoramiento de los Equipos de Orientación Educativa y Psicopedagógica en aquellas situaciones en que lo requieran.
+4. La Comunidad de Madrid coordinará los recursos del sistema educativo y sanitario y asegurará que los métodos, recursos educativos y de apoyo psicológico sirvan para efectuar la posible detección temprana de aquellas personas en educación infantil que puedan necesitar un cambio de sexo, con el fin de elaborar con previsión suficiente un posible plan de acción para la mejor integración del alumno en el centro y tutelar su devenir en el sistema educativo. Y prevenir las situaciones de riesgo que pongan en peligro el desarrollo integral del menor.
+5. Diseñará e implantará en todos los centros educativos un protocolo de atención educativa a las personas transexuales.
+Se modifica por el art. único.14 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 23
+
+Artículo 23. Protocolo de atención educativa.
+La Comunidad de Madrid elaborará e implantará en todos los centros educativos un protocolo de atención a la transexualidad e intersexualidad, en el que se garantice:
+a) El respeto a las manifestaciones de la condición sexual que se realicen en el ámbito educativo y el libre desarrollo de la personalidad del alumno conforme a su condición y situación.
+b) El respeto a la intimidad de los alumnos que realicen tránsitos sociales.
+c) La prevención de actitudes o comportamientos que impliquen prejuicios y discriminación por razón de orientación, condición o expresión sexual, en orden a una rápida detección y actuación ante situaciones discriminatorias y atentatorias contra la libertad y la dignidad personal. Este protocolo incorporará la necesaria coordinación entre las áreas de educación, sanidad y acción social, en orden a una rápida detección y actuación ante situaciones discriminatorias y atentatorias contra la dignidad y la igualdad de las personas por razón de sexo.
+d) Se indicará al profesorado y personal de administración de servicios del centro que se dirija al alumnado transexual por el nombre de pila elegido por este o por sus apellidos, o en caso de no estar emancipado o no contar con las suficientes condiciones de madurez, el indicado por alguno de sus representantes legales. Sin perjuicio de la adecuada identificación del alumnado en los exámenes y documentos oficiales, para los que cabe también usar el número del documento nacional de identidad o, en su caso, el número de identificación de extranjero.
+e) El respeto a la imagen física del alumnado transexual, así como la libre elección de su indumentaria, sin menoscabo del debido respeto al resto de alumnos y las normas del centro educativo. Si en el centro existe la obligatoriedad de vestir uniforme diferenciado por sexos, se reconocerá el derecho del alumnado transexual a vestir aquel que le parezca más adecuado.
+f) Si se realizan actividades diferenciadas por sexo, se garantizarán las necesidades del alumno transexual, sin menoscabo de los derechos y la intimidad de los demás alumnos, especialmente de las chicas.
+Se levanta la suspensión de la vigencia y aplicación de la letra f) por Auto del TC, de 19 de noviembre. Ref. BOE-A-2024-27142
+ Se suspende la vigencia y aplicación de la letra f), desde el 26 de junio de 2024 para las partes legitimadas y desde el 22 de julio para los terceros, por providencia del TC de 16 de julio de 2024. Ref. BOE-A-2024-14994
+ Se modifica por el art. único.15 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 24
+
+Artículo 24. Planes y contenidos educativos.
+(Suprimido)
+Se suprime por el art. único.16 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 25
+
+Artículo 25. Acciones de formación y divulgación.
+1. Se impartirá al personal docente formación adecuada que incorpore la diversidad sexual y de género en los cursos de formación, y que analice cómo abordarla en el aula para alcanzar la eliminación de actitudes y prácticas con prejuicio o discriminatorias dentro del sistema educativo, basadas en la idea de la inferioridad o superioridad de cualquier orientación sexual, identidad de género o expresión de género.
+2. Se realizarán acciones de fomento del respeto y la no discriminación de la personas por motivo de identidad y/o expresión de género en los centros educativos, y en particular entre las asociaciones de padres y madres de alumnos.
+
+### Artículo 26
+
+Artículo 26. Universidad.
+1. Las Universidades de la Comunidad de Madrid garantizarán el respeto y la protección del derecho a la igualdad y no discriminación del alumnado, personal docente y cualquier persona que preste servicios en el ámbito universitario por causa de cualquier orientación, condición o expresión sexual.
+2. La Comunidad de Madrid, en colaboración con las Universidades de la Comunidad de Madrid, promoverán acciones informativas, divulgativas y formativas entre el personal docente en torno a la diversidad en cuestión de orientación, condición o expresión sexual que permitan detectar, prevenir y proteger acciones de discriminación o acoso, así como evitar la impartición de contenidos discriminatorios hacia las personas por estos motivos.
+Asimismo, las Universidades de la Comunidad de Madrid prestarán atención y apoyo en su ámbito de acción a aquellos estudiantes, personal docente o personal de administración y servicios que fueran objeto de discriminación.
+3. Las Universidades de la Comunidad de Madrid y el Gobierno regional, adoptarán medidas de apoyo a la realización de estudios y proyectos de investigación sobre la realidad de las personas transexuales, transgénero e intersexuales, en el ámbito de las acciones de investigación, desarrollo e innovación.
+Se modifica por el art. único.16 bis de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+## TÍTULO IV
+
+Medidas en el ámbito laboral y de la responsabilidad social empresarial
+
+### Artículo 27
+
+Artículo 27. Políticas de fomento de la igualdad y no discriminación en el empleo.
+1. La Consejería competente en materia de Empleo de la Comunidad de Madrid incluirá en los correspondientes Planes de Servicios Integrados para el Empleo así como, en su caso, en el Plan Anual de Formación para el Empleo previsto en el artículo 3 de la Ley 5/2001, de 3 de julio, de creación del Servicio Regional de Empleo, cuyas funciones han sido asumidas por la Dirección General de Servicio Público de Empleo y la Dirección General de Formación, las medidas de formación, orientación, inserción, y prevención de la exclusión, encaminadas a la inserción y la sostenibilidad en el empleo que garanticen el ejercicio del derecho al trabajo para las personas susceptibles de discriminación por motivos de identidad y/o expresión de género.
+2. A tal efecto adoptará medidas adecuadas y eficaces que tengan por objeto:
+a) La promoción y defensa de la igualdad de trato en el acceso al empleo o una vez empleados.
+b) Promover en el ámbito de la formación el respeto de los derechos de igualdad y no discriminación de las personas por motivos de identidad y/o expresión de género.
+c) La prevención, corrección y eliminación de toda forma de discriminación por identidad de género, en materia de acceso al empleo, contratación y condiciones de trabajo.
+d) Información y divulgación sobre derechos y normativa.
+e) Control del cumplimiento efectivo de los derechos laborales y de prevención de riesgos laborales de las personas en atención a su identidad y/o expresión de género por parte de la Inspección de Trabajo y Seguridad Social.
+f) Incorporar en las convocatorias de ayudas y subvenciones de fomento del empleo criterios de igualdad de oportunidades y medidas de bonificación fiscal o subvención para la integración laboral de las personas trans en las empresas.
+g) Incorporar en las convocatorias de ayudas para la conciliación de la vida laboral y familiar, cláusulas que contemplen la heterogeneidad del hecho familiar.
+h) El impulso, a través de los agentes sociales, de la inclusión en los convenios colectivos, de cláusulas de promoción, prevención, eliminación y corrección de toda forma de discriminación por causa de expresión e identidad de género.
+i) El impulso para la elaboración de planes de igualdad y no discriminación que incluyan expresamente a las personas trans, en especial en las pequeñas y medianas empresas.
+
+### Artículo 28
+
+Artículo 28. Acciones en el ámbito de la Responsabilidad Social Empresarial.
+1. La estrategia madrileña de responsabilidad social empresarial, incluirá medidas destinadas a promover la igualdad y la no discriminación por razón de identidad o expresión de género.
+2. En este sentido la Administración Autonómica impulsará la adopción por parte de las empresas, de Códigos éticos y de conducta que contemplen medidas de protección frente a la discriminación por razón de expresión e identidad de género, así como acciones que favorezcan la contratación e inclusión laboral de las personas trans.
+3. Asimismo, la Administración Autonómica divulgará las buenas prácticas realizadas por las empresas en materia de inclusión y de promoción y garantía de igualdad y no discriminación por razón de identidad o expresión de género.
+
+## TÍTULO V
+
+Medidas en el ámbito social
+
+### Artículo 29
+
+Artículo 29. Medidas para la inserción social de las personas trans.
+1. Los programas individuales de inserción de personas trans en situaciones de dificultad social o riesgo de exclusión serán elaborados con criterios técnicos y profesionales por el centro municipal de servicios sociales correspondiente a su domicilio.
+2. Sin perjuicio de lo que disponga al respecto la normativa específica sobre empleo y servicios sociales, la Comunidad de Madrid elaborará un programa marco de actuación para la inserción y atención social del colectivo de personas trans en riesgo de grave exclusión. La Comunidad de Madrid atenderá de manera específica a la situación de aquellas personas trans que hayan sido expulsadas de sus hogares por razón de la manifestación de su identidad de género con situación de desvalimiento. Si la persona expulsada fuera menor de edad los servicios sociales de la Comunidad de Madrid interesarán ante la autoridad oportuna los trámites necesarios para el acogimiento del menor y la adopción de las medidas oportunas en relación a su guarda y custodia ante el supuesto de abandono o maltrato del menor por sus responsables.
+3. La Comunidad de Madrid velará para que los recursos disponibles para la atención de las víctimas de violencia de género o victimas de trata se apliquen igualmente a las personas trans de la misma condición.
+4. Los proyectos de integración dirigidos a la promoción personal y social de grupos determinados de personas trans en situación de riesgo o exclusión social podrán ser promovidos, en las condiciones que reglamentariamente se determinen, por las organizaciones que promueven y protegen los derechos humanos de las personas trans.
+
+### Artículo 30
+
+Artículo 30. Apoyo y protección en situación de especial vulnerabilidad.
+1. Se llevarán a cabo medidas de prevención de la discriminación y apoyo a la visibilidad, como personas vulnerables. En particular se adoptarán medidas específicas de apoyo, mediación y protección en los supuestos de menores, adolescentes y jóvenes que estén sometidos a presión o maltrato psicológico en el ámbito familiar a causa de su condición sexual.
+2. La Comunidad de Madrid adoptará los mecanismos necesarios para la protección efectiva de menores, en atención a su situación y sexualidad, que se encuentren bajo la tutela de la Administración, ya sea en centros de menores, pisos tutelados o recurso en el que residan, garantizando el respeto a su situación, y unas plenas condiciones de vida.
+3. La Comunidad de Madrid garantizará y adoptará las medidas necesarias para la protección y el respeto de los derechos de las personas con discapacidad en atención a su sexualidad.
+Los centros y servicios de atención a personas con discapacidad, públicos o privados, velarán por que el respeto del derecho a la no discriminación de las personas sea real y efectivo.
+4. La Comunidad de Madrid velará por que no se produzcan situaciones de discriminación de las personas especialmente vulnerables por razón de edad, en atención a su sexualidad.
+5. Se adoptarán las medidas necesarias para que los espacios o equipamientos identificados en función del sexo, en los centros de menores, pisos tutelados, centros de atención a personas con discapacidad, residencias de la tercera edad o en cualquier otro recurso que acoja a personas especialmente vulnerables, puedan utilizarse por las personas con pleno respeto a su transexualidad, sin menoscabo de los derechos y la intimidad del resto de usuario, especialmente de las niñas y mujeres.
+6. La Comunidad de Madrid prestará especial protección a las personas que por tradición o cultura pudiera contar con un mayor nivel de discriminación por razón de su sexualidad.
+7. La Comunidad de Madrid garantizará en cualquier caso que en todos los ámbitos de aplicación de la presenta Ley se aportará a los profesionales las herramientas necesarias para la no discriminación y se contará con el personal especializado necesario en las diferentes materias, según se precise en los distintos protocolos y medidas a tomar.
+Se levanta la suspensión de la vigencia y aplicación del apartado 5 por Auto del TC, de 19 de noviembre. Ref. BOE-A-2024-27142
+ Se suspende la vigencia y aplicación del apartado 5, desde el 26 de junio de 2024 para las partes legitimadas y desde el 22 de julio para los terceros, por providencia del TC de 16 de julio de 2024. Ref. BOE-A-2024-14994
+ Se modifica por el art. único.17 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 31
+
+Artículo 31. Atención a víctimas de violencia por transfobia.
+1. La Comunidad de Madrid, en el ámbito de sus competencias, prestará una atención integral real y efectiva a las personas víctimas de violencia motivada por su identidad y/o expresión de género.
+2. Esta atención comprenderá la asistencia y asesoramiento jurídico, la asistencia sanitaria, incluyendo la atención especializada y medidas sociales tendentes a facilitar, si así fuese preciso, su recuperación integral.
+
+## TÍTULO VI
+
+Medidas en el ámbito familiar
+
+### Artículo 32
+
+Artículo 32. Protección de la diversidad familiar.
+1. Se fomentará el respeto y la protección de los menores en atención a la identidad y expresión de género de los miembros de su familia.
+2. Los programas de apoyo a las familias, contemplarán de forma expresa medidas de apoyo a la diversidad familiar por razón identidad y expresión de género.
+
+### Artículo 33
+
+Artículo 33. Adopción y acogimiento familiar.
+1. Se garantizará, de conformidad con la normativa vigente, que en la valoración de la idoneidad en los procesos de adopción y acogimiento familiar, no exista discriminación por motivo de identidad y/o expresión de género.
+2. En los centros de menores se trabajará la diversidad familiar con el fin de garantizar que los menores que sean susceptibles de ser adoptados o acogidos sean conocedores de la diversidad familiar por razón de identidad o expresión de género.
+
+### Artículo 34
+
+Artículo 34. Violencia en el ámbito familiar.
+1. Se reconocerá como violencia familiar y se adoptarán medidas de apoyo, mediación y protección, a cualquier forma de violencia que se ejerza en el ámbito familiar por causa de identidad y/o expresión de género de cualquiera de sus miembros, incluyendo el no respeto por padres y hermanos a la identidad y/o expresión de género de los menores.
+2. Se adoptarán medidas de atención y ayuda a víctimas de la violencia por motivos de identidad y/o expresión de género que garanticen la protección de la persona acosada frente a la persona acosadora, facilitando con ello la independencia física y económica de la víctima.
+3. Asimismo, toda persona cuya identidad de género sea la de mujer y como tal, sea víctima de la violencia machista tendrá acceso, en condiciones de igualdad, a la protección integral, contemplada en la Ley 5/2005, de 20 de diciembre, integral contra la violencia de género de la Comunidad de Madrid.
+
+## TÍTULO VII
+
+Medidas en el ámbito de la juventud y personas mayores
+
+### Artículo 35
+
+Artículo 35. Protección de los jóvenes.
+1. El Instituto de la Juventud de Madrid promoverá acciones de asesoramiento e impulsará el respeto a la identidad de género, difundiendo las buenas prácticas realizadas en materialización de este respeto.
+2. En los cursos de mediadores, monitores y formadores juveniles se incluirá formación sobre la expresión e identidad de género que les permita fomentar el respeto y proteger los derechos de las personas trans en su trabajo habitual con los adolescentes y jóvenes de la Comunidad de Madrid.
+3. Todas las entidades juveniles y trabajadores de cualquier ámbito que realicen sus labores con la juventud promoverán y respetarán con especial cuidado la igualdad de las personas en atención a la identidad y expresión de género.
+
+### Artículo 36
+
+Artículo 36. Protección de las personas trans mayores.
+1. Las personas trans mayores tienen derecho a recibir de los servicios públicos sociales de la Comunidad de Madrid una protección y una atención integral para la promoción de su autonomía personal y del envejecimiento activo, que les permita una vida digna e independiente y su bienestar social e individual, así como a acceder a una atención gerontológica adecuada a sus necesidades, en el ámbito sanitario, social y asistencial.
+2. Las personas trans mayores tendrán derecho al acogimiento en residencias adecuadas a su género y a recibir trato que respete, tanto en su individualidad, intimidad, y especialmente, su identidad de género.
+3. Las residencias de la tercera edad, tanto públicas como privadas, garantizarán el derecho a la no discriminación de personas en atención a su identidad y/o expresión de género, ya sea en su individualidad como en su relación sentimental.
+4. El Servicio Público de Atención a Personas Mayores en Residencias, Centros de Día y Pisos Tutelados promoverá que dichas residencias, centros y pisos concierten protocolos de colaboración con la Unidad de Identidad de Género y con el Servicio de Asistencia y Apoyo a las Personas Trans con el fin de establecer el tratamiento gerontológico más adecuado para las personas trans mayores y la mejor difusión de buenas prácticas en relación a los problemas específicos de la transexualidad en la vejez.
+Se modifica el apartado 2 por el art. único.18 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+## TÍTULO VIII
+
+Medidas en el ámbito del ocio, la cultura y el deporte
+
+### Artículo 37
+
+Artículo 37. Promoción de una cultura inclusiva.
+1. La Comunidad de Madrid reconoce la identidad y expresión de género como parte de la construcción de una cultura inclusiva, diversa y promotora de derechos. A tal efecto se adoptarán medidas que garanticen la visibilización e impulsen, tanto a nivel autonómico como local, como parte de la cultura ciudadana, la convivencia y la construcción de la expresión cultural.
+2. Se adoptarán medidas de apoyo y fomento de iniciativas y expresiones artísticas, culturales, patrimoniales, recreativas y deportivas considerando sus formas propias de representación.
+3. Todas las bibliotecas propiedad de la Comunidad de Madrid y de los diferentes Ayuntamientos, deberán contar con fondo bibliográfico específico en materia de identidad sexual y de género, en cualquier caso respetuoso con los derechos humanos y nunca contrario al reconocimiento de la expresión o identidad de género, siendo obligatorio que dichos fondos conformen una sección específica en aquellas bibliotecas de ciudades de más de 20.000 habitantes.
+
+### Artículo 38
+
+Artículo 38. Deporte, ocio y tiempo libre.
+1. La Comunidad de Madrid promoverá y velará para que la participación en la práctica deportiva y de actividad física se realice en términos de igualdad, sin discriminación por razón de sexo, y en especial hacia las personas transexuales. En los eventos y competiciones deportivas que se realicen en la Comunidad de Madrid se promoverá la participación de las personas transexuales, sin menoscabo de los derechos de los demás participantes, y en especial del deporte femenino en todas sus categorías.
+2. Se adoptarán las medidas precisas para garantizar que las actividades recreativas, de ocio y tiempo libre, se disfrutan en condiciones de igualdad y respeto a la realidad de personas en atención a su sexualidad, evitando cualquier acto de prejuicio, hostigamiento y violencia física o psicológica, sin prejuicio de los derechos, la integridad y la intimidad de los demás participantes.
+3. Se adoptarán medidas que garanticen formación adecuada de los profesionales de didáctica deportiva, de ocio y tiempo libre, que incorpore la consideración de las distintas manifestaciones de la sexualidad, el respeto y la protección de los transexuales frente a cualquier discriminación, y a hacerla compatible con el respeto al deporte femenino.
+4. Se protegerá especialmente la práctica del deporte femenino, en todas sus categorías, preservando sus conquistas ganadas a lo largo de los años, su reconocimiento, mérito y galardones, en el ámbito local, regional, nacional e internacional, federado y de base. Se deberá garantizar la intimidad e integridad de las deportistas femeninas de cualquier edad y categoría, en todas las instalaciones, incluidos los vestuarios.
+Se modifica por el art. único.19 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+## TÍTULO IX
+
+Medidas en el ámbito de la cooperación internacional al desarrollo
+
+### Artículo 39
+
+Artículo 39. Cooperación internacional al desarrollo.
+El Plan General y los planes anuales madrileños de cooperación para el desarrollo, impulsarán expresamente aquellos proyectos que promuevan y defiendan el derecho a la vida, la igualdad, la libertad y la no discriminación de las personas por motivos de identidad o expresión de género en aquellos países en que estos derechos sean negados o dificultados, legal o socialmente, así como la protección de personas frente a las persecuciones y represalias.
+
+## TÍTULO X
+
+Comunicación
+(Suprimido)
+Se suprime por el art. único.20 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 40
+
+Artículo 40. Tratamiento igualitario de la información y la comunicación.
+(Suprimido)
+Se suprime por el art. único.20 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 41
+
+Artículo 41. Códigos deontológicos.
+(Suprimido)
+Se suprime por el art. único.20 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+## TÍTULO XI
+
+Medidas en el ámbito policial
+
+### Artículo 42
+
+Artículo 42. Protocolo de atención policial a la identidad de género
+1. La Comunidad de Madrid en el ámbito de su competencia, elaborará y velará por la aplicación efectiva de un protocolo de atención a las personas trans, en especial cuando sean víctimas de agresiones, acoso o coacciones tanto físicas como por medios virtuales.
+2. La Comunidad de Madrid, en el ámbito de su competencia, velará por que la formación de las fuerzas de seguridad incluya medidas de respeto a la identidad y expresión de género y la adopción de las medidas necesarias para la atención a las víctimas de delitos de odio por motivos de identidad y/o expresión de género, cuando sean víctimas de agresiones, acoso o coacciones, tanto físicas como por medios virtuales.
+
+## TÍTULO XII
+
+Medidas administrativas para garantizar la igualdad real y efectiva de las personas transexuales
+Se modifica por el art. único.21 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 43
+
+Artículo 43. Contratación Administrativa y Subvenciones.
+1. Se podrá establecer, en los pliegos de cláusulas administrativas particulares, la preferencia en la adjudicación de los contratos para las proposiciones presentadas por aquellas empresas que, en el momento de acreditar su solvencia técnica, desarrollen medidas destinadas a lograr la igualdad de oportunidades en atención a la identidad y expresión de género.
+2. Asimismo, la Administración de la Comunidad de Madrid podrá incorporar a las bases reguladoras de las subvenciones públicas la valoración de actuaciones de efectiva consecución de la igualdad de las entidades solicitantes.
+
+### Artículo 44
+
+Artículo 44. Formación de empleados públicos.
+En el ámbito de la Administración Autonómica se impartirá una formación que garantice la sensibilización adecuada y correcta actuación de los profesionales que prestan servicios en los ámbitos de la salud, la educación, el mundo laboral, familia y servicios sociales, los cuerpos de policía local, ocio cultura y deporte y comunicación.
+
+### Artículo 45
+
+Artículo 45. Evaluación de impacto normativo sobre la identidad o expresión de género.
+(Suprimido)
+Se suprime por el art. único.22 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 46
+
+Artículo 46. Medidas de remoción y cese e indemnización.
+La protección frente a cualquier violación del derecho a la igualdad de las personas por motivo de identidad y/o expresión de género comprenderá, en su caso, la adopción de cuantas medidas sean necesarias para el cese inmediato en la conducta discriminatoria, adopción de medidas cautelares, prevención de violaciones inminentes o ulteriores, indemnización de daños y perjuicios y restablecimiento pleno de la persona perjudicada en el pleno ejercicio de sus derechos.
+
+### Artículo 47
+
+Artículo 47. Concepto de interesado.
+Tendrán la condición de interesados en el procedimiento administrativo:
+a) Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.
+b) Las asociaciones entidades y organizaciones representativas de los colectivos de personas trans y aquéllas que tengan por objeto la defensa y promoción de derechos humanos serán titulares de intereses legítimos colectivos.
+c) Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.
+d) Lo previsto en el apartado b) de este Artículo no será de aplicación a los procesos penales ni a los procedimientos administrativos sancionadores.
+Se levanta la suspensión de la vigencia y aplicación de la letra d) por Auto del TC, de 19 de noviembre. Ref. BOE-A-2024-27142
+ Se suspende la vigencia y aplicación de la letra d), desde el 26 de junio de 2024 para las partes legitimadas y desde el 22 de julio para los terceros, por providencia del TC de 16 de julio de 2024. Ref. BOE-A-2024-14994
+ Se modifica por el art. único.22 bis de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 48
+
+Artículo 48. Inversión de la carga de la prueba.
+(Suprimido)
+Se suprime por el art. único.23 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+## TÍTULO XIII
+
+Régimen sancionador
+Se modifica por el art. único.24 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 49
+
+Artículo 49. Sobre procedimiento sancionador.
+1. Las infracciones y sanciones relativas a esta ley serán las recogidas en la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI.
+2. La potestad sancionadora que corresponda según la normativa vigente se ejercerá de conformidad con lo que disponen la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común y la Ley 40/2015, de 1 de octubre, del Régimen Jurídico de las Administraciones Públicas. Así mismo, y en tanto no resulte contrario a las anteriores, será de aplicación el Reglamento para el Ejercicio de la Potestad Sancionadora por la Administración de la Comunidad de Madrid, aprobado por el Decreto 245/2000, de 16 de noviembre.
+Se modifica por el art. único.24 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 50
+
+Artículo 50. Concurrencia con el orden jurisdiccional penal.
+1. No podrán sancionarse los hechos que hayan sido sancionados penal o administrativamente, en los casos en que se aprecie identidad de sujeto, de hecho y de fundamento.
+2. En los supuestos en que las infracciones pudieran ser constitutivas de ilícito penal, la Administración pasará el tanto de culpa al órgano judicial competente o al Ministerio Fiscal y se abstendrá de seguir el procedimiento sancionador mientras la autoridad judicial no dicte sentencia firme o resolución que ponga fin al procedimiento o mientras el Ministerio Fiscal no comunique la improcedencia de iniciar o proseguir actuaciones.
+3. De no haberse estimado la existencia de ilícito penal, o en el caso de haberse dictado resolución de otro tipo que ponga fin al procedimiento penal, la Administración continuará el expediente sancionador en base a los hechos que los Tribunales hayan considerado probados.
+
+### Artículo 51
+
+Artículo 51. Infracciones.
+1. Las infracciones administrativas se califican como leves, graves y muy graves, en atención a la naturaleza de la obligación incumplida y a la entidad del derecho afectado.
+2. Son infracciones administrativas leves:
+A) Utilizar o emitir expresiones vejatorias contra las personas o sus familias por su identidad y/o expresión de género en la prestación de servicios públicos, en cualquier medio de comunicación, en discursos o intervenciones públicas, o en las redes sociales.
+B) No facilitar la labor o negarse parcialmente a colaborar con la acción investigadora de los servicios de inspección de la Comunidad de Madrid en el cumplimiento de los mandatos establecidos en la presente Ley.
+3. Son infracciones graves:
+A) La reiteración en el uso o emisión de expresiones vejatorias por razón de identidad o expresión de género en la prestación de servicios públicos, en cualquier medio de comunicación, en discursos o intervenciones públicas, o en las redes sociales.
+B) El uso o emisión de expresiones que inciten a la violencia contra las personas trans o sus familias, en la prestación de servicios públicos, en cualquier medio de comunicación, en discursos o intervenciones públicas, o en las redes sociales.
+C) La no retirada inmediata por parte del prestador de un servicio de la sociedad de la información, de expresiones vejatorias o de incitación a la violencia por razón de identidad o expresión de género contenidas en sitios web o redes sociales de las que sea responsable, una vez tenga conocimiento efectivo del uso de esas expresiones.
+D) La realización de actos o la imposición de disposiciones o cláusulas en los negocios jurídicos que constituyan o causen discriminación por razón de la orientación sexual, identidad o expresión de género.
+E) La obstrucción o negativa absoluta a la actuación de los servicios de inspección de la Comunidad de Madrid en el cumplimiento de los mandatos establecidos en la presente Ley.
+F) Impedir u obstaculizar la realización de cualquier trámite administrativo o el acceso a un servicio público o establecimiento, por causa de orientación sexual, identidad o expresión de género.
+G) Realizar actos que impliquen aislamiento, rechazo o menosprecio público y notorio de personas por causa de orientación sexual, identidad o expresión de género.
+H) La implantación, el impulso o la tolerancia de prácticas laborales discriminatorias en empresas que reciban subvenciones, bonificaciones o ayudas públicas de la Comunidad de Madrid.
+I) La elaboración, utilización o difusión en Centros educativos de la Comunidad Autónoma de libros de texto y materiales didácticos que presenten a las personas como superiores o inferiores en dignidad humana en función de su orientación sexual, identidad o expresión de género, o que inciten a la violencia por este motivo.
+4. Son infracciones muy graves:
+A) Adoptar comportamientos agresivos o constitutivos de acoso, realizados en función de la orientación sexual, identidad o expresión de género de una persona, que tenga el propósito o produzca el efecto de atentar contra su dignidad, creando un entorno intimidatorio, degradante u ofensivo para la misma.
+B) Cualquier represalia o trato adverso que reciba una persona como consecuencia de haber presentado la misma una queja, reclamación, denuncia, demanda o recurso de cualquier tipo, destinado a impedir su discriminación y a exigir el cumplimiento efectivo del principio de igualdad.
+C) La negativa a atender o asistir de manera efectiva a quienes hayan sufrido cualquier tipo de discriminación o abuso por razón de su identidad o expresión de género cuando por su condición o puesto tenga obligación de atender a la víctima.
+5. Respecto de las infracciones leves y graves, la discriminación múltiple incrementará, respecto de cada una de las acciones concurrentes, un grado el tipo infractor previsto en la ley. A estos efectos se entiende por discriminación múltiple cuando además de discriminación por motivo de expresión o identidad de género, una persona sufre conjuntamente discriminación por otro motivo.
+
+### Artículo 52
+
+Artículo 52. Reincidencia.
+A los efectos de lo previsto en esta Ley, existirá reincidencia cuando el responsable o responsables de la infracción prevista en ella hayan sido sancionados anteriormente mediante resolución firme por la realización de una infracción de la misma naturaleza en el plazo de dos años, contados desde la notificación de aquélla.
+
+### Artículo 53
+
+Artículo 53. Sanciones.
+1. Las infracciones leves serán sancionadas con apercibimiento o con multa de 200 a 3.000 euros.
+2. Las infracciones graves serán sancionadas con multa de 3.001 hasta 20.000 euros. Además, podrán imponerse como sanciones accesorias alguna o algunas de las siguientes:
+A) Prohibición de acceder a cualquier tipo de ayuda pública de la Comunidad de Madrid por un período de un año.
+B) Prohibición de contratar con la Administración, sus organismos autónomos o entes públicos por período de un año.
+3. Las infracciones muy graves serán sancionadas con multa de 20.001 hasta 45.000 euros, y además podrá imponerse alguna o algunas de las sanciones accesorias siguientes:
+A) Prohibición de acceder a cualquier tipo de ayuda pública de la Comunidad de Madrid por un período de hasta tres años.
+B) Inhabilitación temporal, por un período de hasta tres años, para ser titular, la persona física o jurídica, de centros o servicios dedicados a la prestación de servicios públicos.
+C) Prohibición de contratar con la Administración, sus organismos autónomos o entes públicos por un período de hasta tres años.
+
+### Artículo 54
+
+Artículo 54. Graduación de las sanciones.
+1. Para la graduación de las sanciones se tendrá en cuenta:
+A) La naturaleza y gravedad de los riesgos o perjuicios causados a las personas o bienes.
+B) La intencionalidad del autor.
+C) La reincidencia.
+D) La discriminación múltiple y la victimización secundaria.
+E) La trascendencia social de los hechos o su relevancia.
+F) El beneficio que haya obtenido el infractor.
+G) El incumplimiento de las advertencias o requerimientos que previamente haya realizado la Administración.
+H) La pertenencia de la persona infractora a fuerzas y cuerpos de seguridad.
+I) La pertenencia de la persona infractora a un grupo organizado de ideología fehacientemente homofóbica, lesbofóbica, bifóbica, y/o transfóbica.
+J) La reparación voluntaria de los daños causados o la subsanación de los hechos que dieron lugar a la comisión del tipo infractor, siempre que ello tenga lugar antes de que recaiga resolución definitiva en el procedimiento sancionador.
+2. Para la imposición de las sanciones pecuniarias y para la determinación de su cuantía deberá tenerse en cuenta que la comisión de las infracciones no resulte más beneficiosa para el infractor o los infractores que el cumplimiento de las normas infringidas.
+
+### Artículo 55
+
+Artículo 55. Prescripción.
+1. Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los nueve meses.
+2. El plazo de prescripción de las infracciones comenzará a computarse desde el día siguiente a aquel en que la infracción se hubiera cometido.
+3. Las sanciones impuestas por infracciones muy graves prescribirán a los dos años, las graves al año y las leves a los seis meses.
+4. El cómputo de la prescripción de las sanciones comenzará a correr desde que adquiera firmeza la resolución que imponga la sanción.
+
+## TÍTULO XIV
+
+Procedimiento
+(Suprimido)
+Se suprime por el art. único.24 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 56
+
+Artículo 56. Competencia.
+(Suprimido)
+Se suprime por el art. único.24 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Artículo 57
+
+Artículo 57. Procedimiento sancionador.
+(Suprimido)
+Se suprime por el art. único.24 de la Ley 17/2023, de 27 de diciembre. Ref. BOE-A-2024-10767
+
+### Disposición adicional primera
+
+Disposición adicional primera. No discriminación por motivos de identidad de género en el cómputo del plazo de residencia para ser beneficiario de la renta mínima de inserción.
+No se considerará interrumpido el tiempo de residencia efectiva en la Comunidad de Madrid exigido por la Ley 15/2001, de 27 de diciembre, de Renta Mínima de Inserción en la Comunidad de Madrid, y las normas de desarrollo de la misma, en los casos de traslados fuera de la comunidad autónoma derivados de situaciones constatadas de malos tratos familiares, de tratamientos socio-sanitarios de rehabilitación, como consecuencia de medidas especiales de protección en procedimientos judiciales, o de tratamiento derivado de la atención a la transexualidad del interesado, o por cumplimiento de condena en establecimientos penitenciarios radicados fuera de la Comunidad de Madrid.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. No discriminación por motivos de identidad de género en el Servicio Público de Atención a Personas Mayores en Residencias, Centros de Día y Pisos Tutelados de la Comunidad de Madrid.
+1. Se modifica el artículo 2.d) del Decreto 72/2001, de 31 de mayo, del Consejo de Gobierno, por el que se regula el Régimen Jurídico Básico del Servicio Público de Atención a Personas Mayores en Residencias, Centros de Atención de Día y Pisos Tutelados, que pasa a decir:
+«Asimismo, en el marco de las políticas de promoción reguladas en el artículo 50 del Texto Constitucional y en el 11.c) de la Ley 11/2003, de 27 de marzo, de Servicios Sociales de la Comunidad de Madrid, y sin perjuicio de los principios generales establecidos en el artículo 3 de esta última, la prestación del Servicio a que se refiere este Decreto, se ajustará a los siguientes principios: d) Respeto a la individualidad y a la intimidad, y especialmente, a la orientación sexual y a la identidad de género del usuario.»
+2. En relación al Reglamento de Organización y Funcionamiento de las Residencias de Ancianos de la Comunidad de Madrid, gestionadas por el Servicio Regional de Bienestar Social, aprobado por la Orden 766/1993, de 10 de junio, de la Consejería de Integración Social, (hoy de Políticas Sociales y Familia):
+Se modifica el artículo 3.d) del mismo, que pasa a decir:
+«Asimismo, se ajustarán a los siguientes principios:
+d) Trato diferenciado y respeto a la individualidad y a la intimidad, y especialmente, a la orientación sexual y a la identidad de género del residente.»
+La Unidad de Atención Sanitaria de la residencia de ancianos prestará la asistencia sanitaria y farmacológica prevista en el artículo 22 del mismo en colaboración con la Unidad de Identidad de Género, para lo cual la Comunidad de Madrid establecerá reglamentariamente los mecanismos de comunicación oportunos.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango emanadas de los órganos de la Comunidad de Madrid se opongan a lo previsto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+1. Se faculta al Consejo de Gobierno a disponer y firmar los convenios necesarios para el desarrollo de esta Ley con aquellas instituciones y administraciones que resulten competentes y oportunas.
+2. Se faculta asimismo al Consejo de Gobierno para dictar las disposiciones necesarias para el desarrollo y ejecución de la presente Ley, en el plazo máximo de nueve meses, contado a partir de la fecha de su entrada en vigor.
+3. Las medidas contempladas en la presente Ley, que en virtud de su desarrollo reglamentario impliquen la realización de gastos, serán presupuestadas con cargo a los Presupuestos de la Comunidad Autónoma del ejercicio siguiente a la entrada en vigor de las disposiciones adoptadas para su aplicación.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Comunidad de Madrid».
+
+### Disposición transitoria
+
+Disposición transitoria.
+Las medidas contenidas en el Título II y concordantes de la presente Ley relativas a la atención en proximidad y descentralizada a personas trans, se pondrán en marcha en un plazo de seis meses desde la entrada en vigor de la Ley, en el que se procederá por la Administración de la Comunidad de Madrid a la definición de los circuitos de derivación de estas personas y a la formación de los profesionales sanitarios afectados por la nueva normativa. Todo ello sin perjuicio de la utilización de los recursos ya existentes en el Servicio Madrileño de Salud, atendiendo a los criterios de libre elección.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar.
+Madrid, 29 de marzo de 2016.
+LA PRESIDENTA,
+Cristina Cifuentes Cuencas.

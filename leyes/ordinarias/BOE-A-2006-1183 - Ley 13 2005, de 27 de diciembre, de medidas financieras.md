@@ -1,0 +1,873 @@
+# Ley 13/2005, de 27 de diciembre, de medidas financieras.
+
+- Identificador BOE: `BOE-A-2006-1183`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2006-1183
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 16.4 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+Las medidas que esta Ley establece responden a la necesidad de procurar mediante normas que afectan a ingresos y gastos, una eficaz consecución de los objetivos que han de perseguir los presupuestos generales de la Comunidad de Castilla y León para el año 2006.
+La Ley tiene dos partes claramente diferenciadas a las que responden los dos títulos en que está organizado su texto. Su contenido es el siguiente:
+1. El título I contiene normas tributarias que afectan a los ingresos de la Comunidad que pueden preverse a partir del 1 de enero de 2006.
+Establece la Ley, en el capítulo I de este título, diversas normas relativas al Impuesto sobre la Renta de las Personas Físicas, en uso de las competencias normativas previstas en el artículo 38 de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y ciudades con Estatuto de Autonomía, y que atribuyó a la Comunidad el artículo 2 de la Ley 31/2002, de 1 de julio, del Régimen de Cesión de Tributos del Estado a la Comunidad de Castilla y León y de fijación del alcance y condiciones de dicha cesión.
+Como novedad respecto de la regulación de este impuesto se determina la escala autonómica aplicable a la base liquidable general respetando la limitación prevista en la Ley 21/2001 anteriormente citada de que su estructura ha de ser progresiva con idéntico número de tramos que la del Estado.
+En cuanto a las deducciones sobre la cuota autonómica por familia numerosa, por nacimiento o adopción de hijos, por adopción internacional y por ser mayor de 65 años discapacitado se modifican las cuantías incrementándolas en un 2% que se corresponde con el porcentaje de inflación previsto. Como novedad se establecen dos nuevas deducciones: por el alquiler de vivienda habitual de jóvenes y para el fomento del autoempleo de las mujeres y de los jóvenes.
+El capítulo II establece como novedad una exención en el Impuesto sobre el Patrimonio en uso de las competencias normativas previstas en el artículo 39 de la citada Ley 21/2001, de 27 de diciembre, y de la habilitación a las Comunidades Autónomas que realiza la disposición adicional segunda de la Ley 41/2003, de 18 de noviembre, de protección patrimonial de las personas con discapacidad, exención que afecta a los patrimonios especialmente protegidos de personas con discapacidad al amparo de lo dispuesto en esa Ley.
+El capítulo III se refiere al Impuesto sobre Sucesiones y Donaciones, en ejercicio de las competencias normativas previstas en el artículo 40 de la indicada Ley 21/2001. La regulación autonómica vigente de este tributo se realizó en los artículos 7 a 12 de la Ley 11/2000, de 28 de diciembre, de Medidas Económicas, Fiscales y Administrativas, modificada posteriormente por la Ley 21/2002, de 27 de diciembre, y en los artículos 11 a 19 de la Ley 9/2004, de 28 de diciembre. En este capítulo se modifican algunos aspectos de esa regulación y se introducen dos nuevas reducciones: por las donaciones realizadas al patrimonio especialmente protegido de contribuyentes con discapacidad y por la donación de dinero a descendientes para la constitución o adquisición de una empresa individual, negocio profesional o para la adquisición de participaciones en entidades.
+El capítulo IV establece normas relativas al Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, en uso de las competencias normativas previstas en el artículo 41 de la referida Ley 21/2001, que consisten en mejorar un aspecto de la regulación de los tipos de gravamen y en establecer una bonificación en la cuota del Impuesto.
+El capítulo V regula los tipos tributarios y cuotas fijas de la Tasa Fiscal sobre el Juego y la exacción de este tributo en el caso de máquinas o aparatos automáticos, en ejercicio de las competencias normativas previstas en el artículo 42 de la mencionada Ley 21/2001.
+Por último, el capítulo VI introduce una serie de modificaciones en la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León, que consisten en las siguientes: se modifican algunos apartados de las cuotas de la tasa del Boletín Oficial de Castilla y León, se incluye una exención a favor de los miembros de familias numerosas en el pago de la tasa por la participación en las pruebas de selección para acceder a la condición de personal al servicio de la Administración de la Comunidad, se incluye una nueva actuación gravada por la tasa por prestación de servicios veterinarios, se modifican algunos aspectos de las cuotas y se incluye una nueva exención en la tasa en materia de caza, se redacta mejor un aspecto de las exenciones de la tasa en materia de pesca, se modifican algunos aspectos de las cuotas de la tasa por servicios sanitarios, se incluye un nuevo supuesto entre las actividades gravadas por la tasa por expedición de títulos académicos y profesionales no universitarios, se modifican algunos aspectos de las cuotas correspondientes a la tasa en materia de minas y se incluye una nueva actividad gravada por la tasa por servicios farmacéuticos.
+2. El título II establece normas sobre el gasto público.
+El capítulo I introduce en primer lugar dos modificaciones en la Ley 7/1986, de 23 de diciembre, de la Hacienda de la Comunidad, y da nueva redacción al artículo 48 de la Ley 9/2004, de 28 de diciembre, que responden a lo siguiente: introducir en el artículo 108 de la Ley de la Hacienda el mismo planteamiento de los compromisos de gasto con cargo a ejercicios futuros que el anteproyecto de ley de la Hacienda y el Sector Público, e incluir en el artículo 119 la posibilidad de que los Vicepresidentes de la Junta puedan realizar actos de ejecución presupuestaria. En segundo lugar se modifica el artículo 48 de la Ley 9/2004, de 28 de diciembre, de Medidas Económicas, Fiscales y Administrativas, para establecer la necesidad de autorización por la Consejería de Hacienda para iniciar actuaciones que puedan suponer compromisos de gastos que afecten a más de cinco ejercicios, como medida complementaria para cumplir los objetivos de estabilidad presupuestaria. Se trata de introducir en el ordenamiento jurídico de la Comunidad un mecanismo que favorezca la disciplina en el gasto de todo el sector público autonómico que debe estar en vigor desde el comienzo del ejercicio. Por último se regula la autorización del gasto en las convocatorias de subvenciones reguladas por Iniciativas Comunitarias.
+El capítulo II establece una serie de normas especiales sobre subvenciones.
+Una de las principales cuestiones que plantea el régimen de las subvenciones después de la entrada en vigor de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, es el tratamiento de aquellas subvenciones cuya concesión viene produciéndose en virtud de procedimientos de concurrencia no competitiva. Procedimientos en los que las solicitudes no se comparan entre sí, sino que se confrontan con los requisitos establecidos para conceder las subvenciones.
+El planteamiento de la Ley General de Subvenciones sobre los procedimientos de concesión delimita dos grandes campos: el del que denomina como procedimiento ordinario, «en régimen de concurrencia competitiva»; y como contrapuesto a él tres posibilidades:
+Las subvenciones previstas nominativamente en los presupuestos.
+Aquellas cuyo otorgamiento o cuantía venga impuesto a la Administración por una norma de rango legal, que seguirán el procedimiento de concesión que resulte de aplicación de acuerdo con su propia normativa.
+Con carácter excepcional aquellas otras subvenciones en que se acrediten razones de interés público, social, económico o humanitario, u otras debidamente justificadas que dificulten su convocatoria pública.
+Esta remisión, en el segundo de los supuestos mencionados, al procedimiento aplicable de acuerdo con su propia normativa significa la posibilidad de que mediante una ley se configuren subvenciones que hayan de concederse mediante un procedimiento distinto al «ordinario». Las especialidades respecto del procedimiento ordinario pueden estar previstas en una ley y referidas a subvenciones concretas. La principal diferencia con las subvenciones que han de tramitarse mediante el procedimiento de concurrencia competitiva es que la Administración o entidad concedente no puede decidir su definición mediante el establecimiento de unas bases reguladoras o una convocatoria. Es el legislador el que decide, el que establece la definición de la subvención. La ley la «impone.» Y al hacerlo puede establecer el procedimiento.
+La Administración, en el campo de sus competencias y dentro de los límites que resultan de las normas generales del Título Preliminar de la Ley General de Subvenciones, puede crear o definir todas las subvenciones que considere oportunas mediante el establecimiento de bases reguladoras y convocatorias, siempre que su procedimiento de concesión sea el de concurrencia competitiva. Le está vedado decidir otro procedimiento. Sólo cuando es la ley la que define la subvención es posible que establezca otro procedimiento. Sólo cuando una ley ha establecido un régimen especial puede aparecer otro procedimiento.
+De acuerdo con ello el capítulo II, al amparo de lo establecido en el artículo 22.2.b) de la Ley General de subvenciones, establece regímenes especiales para una serie de subvenciones en que es preciso y posible promover la presentación de solicitudes que no deben resolverse al tiempo por no ser posible que se produzca al tiempo el hecho que puede dar pie a solicitar la subvención.
+El capítulo III establece normas sobre aportaciones económicas diferentes a las subvenciones. El establecimiento por la legislación básica de un concepto de subvención, hace necesario regular con claridad otras aportaciones económicas que, con razón o sin ella en algunos casos vienen confundiéndose con las subvenciones, lo que ya no podrá hacerse y al mismo tiempo es preciso introducir una regulación más precisa de alguna de ellas con objeto de impulsar una gestión más eficaz y más transparente. Así es preciso regular algunos aspectos de las aportaciones a la financiación global de entidades públicas, excluidas del concepto de subvención por el apartado 2 del artículo 2 de la Ley General de Subvenciones, de otras entregas dinerarias y de las aportaciones al patrimonio de fundaciones.
+En las disposiciones adicionales y finales se autoriza la creación de una empresa pública cuyo objeto social es realizar actividades de promoción económica, y se modifican la Ley de creación de la Agencia de Desarrollo Económico, la Ley de Ordenación del Territorio de la Comunidad, la Ley de Urbanismo de Castilla y León y la Ley de Caza de Castilla y León.
+
+## TÍTULO I
+
+Normas tributarias
+
+## CAPÍTULO I
+
+Del Impuesto sobre la Renta de las Personas Físicas
+
+### Artículo 1
+
+Artículo 1. Escala autonómica.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2006, de 25 de mayo. Ref. BOCL-h-2006-90002
+
+### Artículo 2
+
+Artículo 2. Modificación de los importes de las deducciones.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2006, de 25 de mayo. Ref. BOCL-h-2006-90002
+
+### Artículo 3
+
+Artículo 3.
+Se da la siguiente redacción al primer párrafo del apartado a) del artículo 8 de la Ley 9/2004, de 28 de diciembre, de Medidas Económicas, Fiscales y Administrativas:
+«a) Cantidades donadas para la rehabilitación o conservación de bienes que se encuentren en el territorio de Castilla y León, que formen parte del Patrimonio Histórico Español o del Patrimonio Cultural de Castilla y León y que estén inscritos en el Registro General de Bienes de Interés Cultural o incluidos en el Inventario General a que se refiere la Ley 16/1985, de Patrimonio Histórico Español, o en los registros o inventarios equivalentes previstos en la Ley 12/2002, de 11 de julio, de Patrimonio Cultural de Castilla y León, cuando se realicen a favor de las siguientes entidades:»
+
+### Artículo 4
+
+Artículo 4.
+Se da la siguiente redacción al apartado a) del artículo 9 de la Ley 9/2004, de 28 de diciembre, de Medidas Económicas, Fiscales y Administrativas:
+«a) Las cantidades destinadas por los titulares de bienes inmuebles ubicados en Castilla y León a la restauración, rehabilitación o reparación de los mismos, siempre que concurran las siguientes condiciones:
+Que estén inscritos en el Registro General de Bienes de Interés Cultural o afectados por la declaración de Bien de Interés Cultural, o inventariados de acuerdo con la Ley de Patrimonio Cultural de Castilla y León, siendo necesario que los inmuebles reúnan las condiciones determinadas en el artículo 61 del Real Decreto 111/1986, de 10 de enero, de desarrollo parcial de la Ley de Patrimonio Histórico Español, o las determinadas en la Ley de Patrimonio Cultural de Castilla y León.
+Que las obras de restauración, rehabilitación o reparación hayan sido autorizadas por el órgano competente de la Comunidad Autónoma de la Administración del Estado o, en su caso, por el Ayuntamiento correspondiente.»
+
+### Artículo 5
+
+Artículo 5. Alquiler de vivienda habitual.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2006, de 25 de mayo. Ref. BOCL-h-2006-90002
+
+### Artículo 6
+
+Artículo 6. Deducciones para el fomento del autoempleo de las mujeres y los jóvenes.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2006, de 25 de mayo. Ref. BOCL-h-2006-90002
+
+## CAPÍTULO II
+
+Del Impuesto sobre el Patrimonio
+
+### Artículo 7
+
+Artículo 7. Exención de los patrimonios especialmente protegidos de contribuyentes con discapacidad.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2006, de 25 de mayo. Ref. BOCL-h-2006-90002
+
+## CAPÍTULO III
+
+Del Impuesto sobre Sucesiones y Donaciones
+
+### Artículo 8
+
+Artículo 8. Mejora de las reducciones en las adquisiciones «mortis causa» de descendientes y adoptados, cónyuges, ascendientes y adoptantes.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2006, de 25 de mayo. Ref. BOCL-h-2006-90002
+
+### Artículo 9
+
+Artículo 9. Reducción en las adquisiciones lucrativas «inter vivos» de explotaciones agrarias.
+Se modifica el apartado 1, letra d), del artículo 16 de la Ley 9/2004, de 28 de diciembre, de Medidas Económicas, Fiscales y Administrativas, que queda redactado de la siguiente forma:
+«d) Que el donatario mantenga lo adquirido en su patrimonio y continúe con la explotación durante los cinco años siguientes a la fecha de la escritura pública de donación, salvo que falleciera dentro de ese plazo.»
+
+### Artículo 10
+
+Artículo 10. Reducción en las adquisiciones lucrativas «inter vivos» de empresas individuales, negocios profesionales y participaciones en entidades.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2006, de 25 de mayo. Ref. BOCL-h-2006-90002
+
+### Artículo 11
+
+Artículo 11. Reducción por las donaciones realizadas al patrimonio especialmente protegido de contribuyentes con discapacidad.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2006, de 25 de mayo. Ref. BOCL-h-2006-90002
+
+### Artículo 12
+
+Artículo 12. Reducción por la donación de dinero a descendientes para la constitución o adquisición de una empresa individual, negocio profesional o para la adquisición de participaciones en entidades.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2006, de 25 de mayo. Ref. BOCL-h-2006-90002
+
+## CAPÍTULO IV
+
+Del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados
+
+### Artículo 13
+
+Artículo 13. Modificación de los artículos 13 y 14 de la Ley 13/2003, de 23 de diciembre, de Medidas Económicas, Fiscales y Administrativas.
+Se modifican los apartados 3. A) a) de los artículos 13 y 14, respectivamente, de la Ley 13/2003, de 23 de diciembre, de Medidas Económicas, Fiscales y Administrativas, que quedan redactados de la siguiente forma:
+«a) Que en el supuesto de ser titulares de una vivienda, se proceda a su venta en el plazo máximo de un año.»
+
+### Artículo 14
+
+Artículo 14. Bonificación de la cuota en las adquisiciones realizadas por las Comunidades de Regantes.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2006, de 25 de mayo. Ref. BOCL-h-2006-90002
+
+## CAPÍTULO V
+
+De la Tasa Fiscal Sobre el Juego
+
+### Artículo 15
+
+Artículo 15. Regulación de los tipos tributarios y cuotas fijas de la Tasa Fiscal sobre el Juego.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2006, de 25 de mayo. Ref. BOCL-h-2006-90002
+
+## CAPÍTULO VI
+
+Modificación de la Ley de Tasas y Precios Públicos
+
+### Artículo 16
+
+Artículo 16. Modificación del artículo 23.
+Se modifica el artículo 23 de la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León, relativo a las cuotas de la Tasa del Boletín Oficial de Castilla y León, que queda redactado en los siguientes términos: «La tasa se exigirá de acuerdo con las siguientes cuotas:
+1. Suscripción:
+a) Suscripción anual: 186,80 euros.
+b) Suscripción efectuada comenzado el año: 15,60 euros por cada mes pendiente de transcurrir hasta finalizar el año.
+2. Ejemplares sueltos: 0,76 euros.
+3. Inserción de anuncios: 0,07 euros por dígito.
+Las anteriores cuotas no incluyen el Impuesto sobre el Valor Añadido».
+
+### Artículo 17
+
+Artículo 17. Modificación del apartado 1 del artículo 31.
+Se añade una nueva letra en el apartado 1 del artículo 31 de la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León, relativo a las exenciones de la Tasa por participación en las pruebas selectivas para acceder a la condición de personal al servicio de la Administración de la Comunidad, con el siguiente contenido:
+«c) Los miembros de las familias numerosas que tengan reconocida tal condición».
+
+### Artículo 18
+
+Artículo 18. Modificación del artículo 81.
+Se añade un nuevo apartado al artículo 81 de la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León, relativo a las cuotas de la Tasa por prestación de servicios veterinarios, con el siguiente contenido:
+«12. Identificación de ganado ovino y caprino:
+a) Por suministro de material de identificación de la especie ovina y caprina (bolo ruminal y crotal): 0,50 euros.
+b) Por suministro de material para recrotalización: 0,20 euros.»
+
+### Artículo 19
+
+Artículo 19. Modificación del artículo 92.
+Se modifican los apartados 1 y 2 del artículo 92 de la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León, relativos a las cuotas de la Tasa en materia de caza, que quedan redactados en los siguientes términos:
+«1. Licencias anuales de caza:
+Clase A.-Para cazar con armas de fuego o cualquier otro procedimiento autorizado o que requiera una autorización específica: 25,00 euros.
+Clase B.-Reducida: únicamente para practicar la caza con galgo: 8,00 euros.
+Clase C.-Para conducir una rehala con fines de caza: 160,00 euros.
+2. Matrículas de cotos privados de caza y cotos federativos: La cuota anual de matriculación se calculará en función del número de hectáreas de terreno acotado y del grupo correspondiente en relación con el tipo de aprovechamiento:
+Grupo I (cotos que tienen autorizada la caza intensiva fuera del período hábil): 0,5 euros/hectárea.
+Grupo II (resto): 0,20 euros/hectárea.»
+
+### Artículo 20
+
+Artículo 20. Modificación del artículo 93.
+Se modifica el apartado 1 del artículo 93 de la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León, relativo a las exenciones de la Tasa en materia de caza, que queda redactado de la siguiente forma:
+«1. Estarán exentos del pago de la cuota correspondiente a la licencia de caza de las Clases A y B los residentes en Castilla y León, mayores de 65 años, los menores de dicha edad que acrediten un grado de discapacidad igual o superior al 65% y los mayores de 60 años beneficiarios del sistema público de pensiones, así como los Agentes Forestales, Celadores de Medio Ambiente, los Agentes Medioambientales y Peones Especializados de Montes de la Junta de Castilla y León, en el ejercicio de sus cometidos en materia de caza.»
+
+### Artículo 21
+
+Artículo 21. Modificación del artículo 97.
+Se modifica el apartado 1 del artículo 97 de la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León, relativo a las exenciones de la Tasa en materia de pesca, que queda redactado en los siguientes términos:
+«1. Estarán exentos del pago de la cuota correspondiente a la licencia de pesca los residentes en Castilla y León, mayores de 65 años, los menores de dicha edad que acrediten un grado de discapacidad igual o superior al 65% y los mayores de 60 años beneficiarios del sistema público de pensiones.»
+
+### Artículo 22
+
+Artículo 22. Modificación del artículo 108.
+Se modifica el apartado 1 del artículo 108 de la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León, relativo a la tasa por servicios sanitarios, que queda redactado en los siguientes términos:
+«1. Centros, servicios y establecimientos sanitarios, a excepción de los establecimientos farmacéuticos.
+a) Por la autorización sanitaria de instalación, funcionamiento, modificación, cierre y de renovación de un centro sanitario con internamiento y de los servicios sanitarios que se presten en los centros con internamiento.
+Autorización de instalación: 102,15 euros.
+Autorización de funcionamiento: 164,00 euros.
+Autorización de modificación: 102,15 euros.
+Verificación de cierre: 164,00 euros.
+Autorización de renovación: 164,00 euros.
+b) Por la autorización sanitaria de instalación, funcionamiento, modificación, cierre y de renovación de un centro sanitario sin internamiento y de los servicios sanitarios que se presten en los centros sin internamiento.
+Autorización de instalación: 61,90 euros.
+Autorización de funcionamiento: 74,60 euros.
+Autorización de modificación: 61,90 euros.
+Verificación de cierre: 74,60 euros.
+Autorización de renovación: 74,60 euros.»
+
+### Artículo 23
+
+Artículo 23. Modificación del artículo 138.
+Se añade un nuevo apartado 9 al artículo 138 de la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León, relativo a las cuotas de la Tasa por expedición de títulos académicos y profesionales no universitarios, con el siguiente contenido:
+«9. Título Superior de Música: 125 euros.»
+
+### Artículo 24
+
+Artículo 24. Modificación del artículo 150.
+1. Se modifican los apartados 7, 12 y 13 del artículo 150 de la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León, relativo a las cuotas de la Tasa en materia de minas, que quedan redactados en los siguientes términos:
+«7. Tramitación de transmisiones, arriendos y contratos de derechos mineros, así como de solicitudes de concentración de trabajos de derechos mineros: 162,70 euros.
+12. Autorización o tramitación de cualquier tipo de expediente minero o de restauración minera, no incluido en otros apartados:
+a) En el caso de que no se precise confrontación en el terreno ni sea preceptivo acompañar presupuesto: 40,40 euros.
+b) Si la autorización se solicitase sobre proyectos o expedientes que requieran la aportación de presupuesto se aplican las cuotas correspondientes a la inscripción de nuevas industrias, incrementadas en un 25% si se trata de labores de exterior o en un 50% si se refiere a labores de interior.
+c) En el caso de que en cualquiera de los supuestos anteriores se precisase asimismo informe de confrontación sobre el terreno, a la cantidad resultante se le deberá añadir 215,60 euros.
+13. Abandono, suspensión o caducidad de labores mineras: 753,80 euros.»
+2. Se añade un nuevo apartado al artículo 150 de la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León, que queda redactado en los siguientes términos:
+«21. Copia de documentos oficiales de derechos mineros: 3 euros, incrementado en 0,10 euros, por cada hoja a partir de la décima.»
+
+### Artículo 25
+
+Artículo 25. Modificación del apartado 3 del artículo 166.
+Se añade una nueva letra d) al apartado 3 del artículo 166 de la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León, relativo a las cuotas de la Tasa por servicios farmacéuticos, que queda redactada de la siguiente forma:
+«d) Por la acreditación para la elaboración de fórmulas magistrales y preparados oficinales para la dispensación en el propio establecimiento o autorización para la elaboración de fórmulas magistrales y preparados oficinales para terceros: 87,05 euros.»
+
+## TÍTULO II
+
+Normas sobre el gasto
+
+## CAPÍTULO I
+
+Normas generales sobre el gasto
+
+### Artículo 26
+
+Artículo 26. Modificación del artículo 108 de la Ley de la Hacienda.
+Se modifican los apartados 2 y 3 del artículo 108 de la Ley 7/1986, de 23 de diciembre, de la Hacienda de la Comunidad, que queda redactado del siguiente modo:
+«2. Podrán autorizarse y comprometerse gastos que hayan de extenderse a ejercicios posteriores a aquel en que se autoricen, y su ejecución podrá iniciarse en el ejercicio siguiente o en cualquier otro posterior, siempre que no superen los límites y anualidades fijados en el apartado siguiente.
+3. El número de ejercicios posteriores a que pueden aplicarse los gastos no será superior a cuatro. El gasto que se impute a cada uno de los ejercicios posteriores no podrá exceder de la cantidad que resulte de aplicar al crédito inicial del ejercicio en que se realice la operación, definido al nivel de su vinculación, los siguientes porcentajes: en el ejercicio inmediato siguiente, el 70 por ciento; en el segundo ejercicio, el 60 por ciento; y en los ejercicios tercero y cuarto, el 50 por ciento. Para el cálculo de estos porcentajes no se computarán ni los créditos ni los compromisos de gastos destinados a financiar planes económico-financieros para inversiones de empresas públicas de la Comunidad aprobados por la Junta de Castilla y León.
+Estas limitaciones no se aplicarán a los compromisos derivados de la carga financiera de la deuda y de los arrendamientos de inmuebles y equipos, incluidos los contratos mixtos de arrendamiento y adquisición, ni a los gastos de personal, en los que sólo se autorizarán los correspondientes al ejercicio en curso, aunque los nombramientos o contratos tengan carácter indefinido o excedan del ejercicio presupuestario.
+Las retenciones adicionales de crédito para atender el pago de las certificaciones finales de los contratos de obra de carácter plurianual, previstas en la legislación de contratos de las Administraciones públicas computarán a efectos de los límites establecidos por los indicados porcentajes.»
+
+### Artículo 27
+
+Artículo 27. Modificación del artículo 119 de la Ley de la Hacienda.
+Se modifica el apartado 1 del artículo 119 de la Ley 7/1986, de 23 de diciembre, de la Hacienda de la Comunidad, que queda redactado del siguiente modo:
+«1. Corresponde al Presidente de la Junta, a los Vicepresidentes y a los titulares de las diferentes Consejerías autorizar los gastos de los servicios a su cargo, excepto en los casos reservados por la ley a la competencia de la Junta o del titular de la Consejería de Hacienda. Igualmente les corresponde aprobar los actos de disposición de los créditos y reconocimiento de las obligaciones, y proponer la ordenación de los pagos correspondientes.
+Asimismo, corresponderán estas atribuciones a los Vicepresidentes respecto de los créditos que determine la ley de presupuestos de cada ejercicio.»
+
+### Artículo 28
+
+Artículo 28. Modificación del artículo 48 de la Ley 9/2004.
+Se modifica el artículo 48 de la Ley 9/2004, de 28 de diciembre, de Medidas Económicas, Fiscales y Administrativas, que queda redactado del siguiente modo:
+«Artículo 48. Operaciones de inversión con financiación privada.
+Será necesaria la autorización previa del titular de la Consejería de Hacienda para iniciar, por la Administración General o Institucional y el resto de entes del sector público autonómico, las actuaciones tendentes a la ejecución de proyectos de inversión pública mediante la utilización de fórmulas de colaboración público-privada, que tengan por objeto la construcción, conservación, mantenimiento y explotación de las infraestructuras y equipamientos necesarios para la prestación de servicios públicos. Todo ello previos los informes que se estimen oportunos, y en particular los siguientes:
+a) En todo caso, informe relativo al respeto a los objetivos de estabilidad presupuestaria.
+b) Además, para aquellas actuaciones promovidas por un organismo de la Administración General o Institucional será necesario informe relativo a la cobertura presupuestaria de los gastos que se deriven de la ejecución del proyecto, sin perjuicio del régimen de autorización recogido en la normativa autonómica para compromisos de gastos de ejercicios futuros.»
+
+### Artículo 29
+
+Artículo 29. Autorización del gasto correspondiente a subvenciones reguladas por Iniciativas Comunitarias.
+Cuando para la gestión de subvenciones reguladas por Iniciativas Comunitarias sea necesario realizar convocatorias para la presentación de solicitudes, no será preciso autorizar previamente el gasto. Este se aprobará, en todo caso, antes de la concesión de cada subvención.
+Se modifica por la disposición final 2 de la Ley 5/2008, de 25 de septiembre. Ref. BOE-A-2008-16664#dfsegunda
+
+## CAPÍTULO II
+
+Regímenes especiales de subvenciones
+
+### Artículo 30
+
+Artículo 30. Subvenciones destinadas a facilitar la inserción socio-laboral de mujeres víctimas de la violencia de género y a fomentar el ascenso profesional de las mujeres en Castilla y León.
+1. La Administración de la Comunidad concederá subvenciones dirigidas a empresas con las finalidades de facilitar la inserción socio-laboral de mujeres víctimas de la violencia de género y de fomentar el ascenso profesional de las mujeres en Castilla y León, previo establecimiento de bases reguladoras que concreten los requisitos exigidos en cada caso.
+2. Las solicitudes de las empresas interesadas se presentarán en el plazo que se determine en la convocatoria a partir de que se produzca el hecho subvencionable.
+3. Las solicitudes se resolverán por el orden de presentación previa comprobación del cumplimiento de los requisitos establecidos.
+Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 32..
+ Se deroga por la disposición derogatoria de la Ley 1/2007, de 7 de marzo. Ref. BOE-A-2007-6611
+
+### Artículo 31
+
+Artículo 31. Subvenciones destinadas a favorecer la autonomía de las mujeres procedentes de las casas de acogida y pisos tutelados de la Red de Asistencia a la Mujer en Castilla y León.
+1. La Administración de la Comunidad concederá subvenciones dirigidas a mujeres procedentes de las casas de acogida y pisos tutelados de la Red de Asistencia a la Mujer en Castilla y León con la finalidad de favorecer su autonomía, su independencia económica y su inserción sociolaboral, previo establecimiento de bases reguladoras que concreten los requisitos exigidos.
+2. Las solicitudes de las mujeres interesadas se presentarán en el plazo que se determine en la convocatoria a partir de que se produzca el hecho subvencionable.
+3. Las solicitudes se resolverán por el orden de presentación previa comprobación del cumplimiento de los requisitos establecidos.
+Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 32.bis.
+ Se deroga por la disposición derogatoria de la Ley 1/2007, de 7 de marzo. Ref. BOE-A-2007-6611
+
+### Artículo 32
+
+Artículo 32. Subvenciones para el desarrollo de las políticas activas de empleo.
+1. La Administración de la Comunidad, con la finalidad de desarrollar las políticas activas de empleo, en los términos que se establezcan en las bases reguladoras, concederá subvenciones que promuevan:
+a) La contratación de trabajadores en el ámbito de las nuevas tecnologías.
+b) La reordenación del empleo en los sectores de la ayuda a domicilio y de restauración colectiva.'
+c) El empleo estable para jóvenes, mujeres y colectivos que presentan especiales dificultades de acceso al mercado de trabajo.
+d) La realización de contratos formativos.
+e) Las nuevas contrataciones por organización del tiempo de trabajo.
+f) La transformación de contratos temporales en indefinidos.
+g) El autoempleo en la fase de inicio y de consolidación del negocio.
+h) El empleo dirigido a facilitar la conciliación de la vida laboral con la familiar.
+i) La formación específica dentro de la formación profesional para el empleo y las prácticas no laborales realizadas por empresas.
+j) Contratación de trabajadores con discapacidad en las empresas ordinarias.
+k) Contratación por las empresas de inserción de trabajadores en situación o riesgo de exclusión social.
+l) La autorización de permisos individuales de formación en la Comunidad de Castilla y León.
+m) La inserción laboral de trabajadores desempleados a través de itinerarios personalizados.
+n) La creación y el mantenimiento de puestos de trabajo de trabajadores con discapacidad en Centros Especiales de Empleo.
+ñ) El personal de acompañamiento y apoyo a los trabajadores en exclusión o riesgo de exclusión social en empresas de inserción.
+o) Contratación de personas beneficiarias de la Renta Garantizada de Ciudadanía u otros ingresos públicos percibidos con la finalidad de prevenir situaciones de pobreza o exclusión social, contratación de personas que tengan 55 o más años de edad, contratación de personas que sean refugiadas o tengan reconocido el derecho de asilo, así como la contratación de personas pertenecientes a otros colectivos vulnerables.
+p) La contratación de trabajadores en sectores económicos en crisis.
+2. Las subvenciones se otorgarán previa convocatoria pública y habrán de solicitarse en el plazo que se determine en la misma.
+3. Las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se añade la letra p) al apartado 1 por el art. 11.1 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifican los apartados 1.b), l) y añade la o) por la disposición final 6. 1 y 2 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+ Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 32.
+
+### Artículo 32 bis
+
+Artículo 32 bis. Subvenciones destinadas a favorecer la autonomía de las mujeres procedentes de las casas de acogida y pisos tutelados de la Red de Asistencia a la Mujer en Castilla y León.
+1. La Administración de la Comunidad concederá subvenciones dirigidas a mujeres procedentes de las casas de acogida y pisos tutelados de la Red de Asistencia a la Mujer en Castilla y León con la finalidad de favorecer su autonomía, su independencia económica y su inserción sociolaboral, previo establecimiento de bases reguladoras que concreten los requisitos exigidos.
+2. Las solicitudes de las mujeres interesadas se presentarán en el plazo que se determine en la convocatoria a partir de que se produzca el hecho subvencionable.
+3. Las solicitudes se resolverán por el orden de presentación previa comprobación del cumplimiento de los requisitos establecidos.
+Se añade por la disposición final 1.1 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 33
+
+Artículo 33. Subvenciones destinadas al mantenimiento de empleo en determinadas circunstancias.
+1. La Administración de la Comunidad, con la finalidad del mantenimiento del empleo en determinadas circunstancias, concederá subvenciones:
+a) A las empresas que presenten un expediente de regulación de empleo de suspensión o reducción de jornada, con acuerdo con los representantes de los trabajadores, fundado en causas técnicas, económicas, organizativas o de producción, o en aplicación del mecanismo RED de Flexibilización y Estabilización del Empleo; así como a las empresas que presenten un expediente de regulación de empleo de suspensión o reducción de jornada por causa de fuerza mayor temporal o estén atravesando una situación de crisis económica.
+b) A las empresas para la realización de acciones dirigidas a la reducción del absentismo laboral.
+c) A los trabajadores afectados por un expediente de regulación de empleo de suspensión o reducción de jornada fundado en causas técnicas, económicas, organizativas o de producción, o en causa de fuerza mayor temporal, o en aplicación del mecanismo RED de Flexibilización y Estabilización del Empleo.
+2. Las subvenciones se otorgarán previa convocatoria pública y habrán de solicitarse en el plazo que se determine en la misma.
+3. Las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se modifica el apartado 1 por el art. 8.1 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Se modifica el apartado 1 por el art. 11.2 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 34.
+ Se añade la letra ñ) al apartado 1 por la disposición final 13.1 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se añade la letra n) al apartado 1 por la disposición final 2 de la Ley 7/2015, de 30 de diciembre. Ref. BOE-A-2016-1884
+ Se modifica el apartado 1.i) por la disposición final 3 de la Ley 5/2013, de 19 de junio. Ref. BOE-A-2013-7749#df-3
+ Se modifica el apartado 1 por el art. 18.1 de la Ley 4/2012, de 16 de julio. Ref. BOE-A-2012-10158
+ Se modifica el apartado 1 por el art. 31 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+ Se añade la letra k) al apartado 1 por el art. 19 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+ Se modifica por la disposición final 1.2 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 33 bis
+
+Artículo 33 bis. Subvenciones vinculadas al Pacto para la recuperación económica, el empleo y la cohesión social en Castilla y León.
+1. La administración concederá subvenciones destinadas a apoyar el mantenimiento del empleo y la actividad, incluido el sector de la hostelería y aquellas destinadas a la adquisición de sistemas de protección colectiva y de señalización, de los productos químicos de limpieza y desinfección, y el mantenimiento y mejora del sistema de climatización, frente a la COVID-19; así como ayudas destinadas a trabajadores de 55 o más años afectados por la crisis generada por la Covid-19, previo establecimiento de bases reguladoras que concreten los requisitos exigidos en cada caso.
+2. Las solicitudes de las empresas y trabajadores interesados se presentarán en el plazo que se determine en la convocatoria a partir de que se produzca el hecho subvencionable.
+3. Las solicitudes se resolverán por orden de entrada desde que el expediente esté completo.
+Se añade por la disposición final 6.3 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+
+### Artículo 33 ter
+
+Artículo 33 ter. Subvenciones para la mejora de la seguridad y la salud en el trabajo.
+1. La Administración de la Comunidad, con la finalidad de mejorar la seguridad y la salud en el trabajo, en los términos que se establezcan en las bases reguladoras, concederá subvenciones que promuevan:
+a) La contratación de servicios de prevención de riesgos laborales.
+b) La retirada y sustitución de materiales tóxicos o peligrosos en centros de trabajo.
+c) La adquisición y renovación de elementos de puestos de trabajo a distancia.
+d) La mejora de las instalaciones de trabajo.
+e) La realización de acciones que contribuyan al bienestar laboral.
+f) La adquisición, adaptación o renovación de equipos de trabajo.
+2. Las subvenciones se otorgarán previa convocatoria pública y habrán de solicitarse en el plazo que se determine en la misma.
+3. Las solicitudes se resolverán por orden de presentación desde que los expedientes estén completos, una vez verificado el cumplimiento de los requisitos exigidos en las bases y en las convocatorias.
+Se modifica el apartado 1 por el art 8.2 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Se añade por el art. 11.3 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+
+### Artículo 34
+
+Artículo 34. Subvenciones competencia de la Agencia de Innovación, Financiación e Internacionalización Empresarial de Castilla y León.
+1. La Agencia de Innovación, Financiación e Internacionalización Empresarial de Castilla y León concederá, siempre que sean compatibles con las normas de la Unión Europea, subvenciones que tengan por objeto:
+a) Proyectos de inversión realizados por empresas y la creación de empleo ligada a la misma, con la finalidad de promover el desarrollo económico.
+b) Proyectos de promoción, creación, o ampliación de talleres artesanos y actividades de perfeccionamiento de los artesanos.
+c) Proyectos dirigidos a la mejora de la competitividad de las empresas.
+d) La realización de proyectos de investigación industrial y de desarrollo precompetitivo.
+e) La creación de empresas.
+f) Actividades de investigación y desarrollo e innovación tecnológica y de formación y adaptación profesional en dichas materias.
+g) Proyectos de promoción exterior de empresas o productos.
+h) Actividades dirigidas a asegurar la continuidad de empresas familiares.
+i) Actuaciones dirigidas al aprovechamiento y capacitación del capital humano de la región, tales como la formación específica, las prácticas no laborales realizadas en empresas y becas.
+j) Ayudas reembolsables destinadas a financiar, mediante préstamos, proyectos de creación, mejora de la competitividad y expansión de empresas a través de proyectos de inversión y actividades de investigación y desarrollo e innovación.
+k) Ayudas destinadas a financiar proyectos de inversión en suelo industrial, promovido por las corporaciones locales.
+2. Las subvenciones que se establezcan con los objetos indicados podrán solicitarse durante todo el periodo de su vigencia y las solicitudes se resolverán por el orden de su presentación, previa convocatoria pública y en función de las correspondientes bases reguladoras.
+Se añade la letra k) al apartado 1 por la disposición final 6.4 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+ Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 35.
+ Se modifica por el art. 18.2 de la Ley 4/2012, de 16 de julio. Ref. BOE-A-2012-10158
+
+### Artículo 35
+
+Artículo 35. Subvenciones en materia de vivienda.
+1. La Administración de la Comunidad concederá subvenciones a compradores o arrendatarios de viviendas declaradas vivienda joven o viviendas de precio limitado para las familias, en los términos señalados en la normativa de estas actuaciones protegidas, a arrendatarios de viviendas y a adquirentes, promotores para uso propio y promotores de rehabilitación de vivienda rural, previo establecimiento de las bases reguladoras que concreten los requisitos exigidos en cada caso.
+2. Las solicitudes de los interesados se presentarán en el plazo que se determine en la convocatoria a partir de que se produzca el hecho subvencionable.
+3. Las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 36.
+ Se modifica el apartado 1 por la disposición final 4 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+
+### Artículo 35 bis
+
+Artículo 35 bis. Subvenciones para la puesta en marcha de medidas y proyectos de dinamización demográfica.
+1. La Administración de la Comunidad, con la finalidad de desarrollar las políticas de dinamización demográfica, en los términos que se establezcan en las correspondientes bases reguladoras, concederá subvenciones que promuevan:
+a) La fijación de población en los municipios de Castilla y León.
+b) El incremento de población y su adecuada integración, en municipios con menos de 20.000 habitantes y especialmente en los municipios en riesgo de despoblación.
+c) Proyectos integrales para la dinamización de zonas con problemas demográficos, que faciliten la atracción de personas, en especial jóvenes y familias para vivir en Castilla y León.
+2. Las subvenciones se otorgarán previa convocatoria pública y se resolverán por el orden de su presentación, en función del cumplimiento de los requisitos establecidos.
+Se añade por el art. 11.4 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+
+### Artículo 36
+
+Artículo 36. Subvenciones a la explotación de servicios deficitarios de transporte público permanente regular de uso general de viajeros por carretera.
+1. La Administración de la Comunidad concederá subvenciones a los titulares de servicios de transporte público regular permanente de uso general de viajeros por carretera, ya existentes o de nueva creación, en los términos que establezcan las correspondientes bases reguladoras.
+2. Las solicitudes de los interesados se presentarán en el plazo que se determine en la convocatoria a partir de que se produzca el hecho subvencionable.
+3. Las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 37.
+ Se modifica el apartado 1 por el art. 20 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+ Se modifica el apartado 1 por la disposición final 1.3 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 37
+
+Artículo 37. Subvenciones en materia de telecomunicaciones.
+1. La Administración de la Comunidad concederá subvenciones a las Comunidades de Propietarios en régimen de propiedad horizontal que realicen la adecuación de las instalaciones de antenas necesarias para la captación de las señales con tecnología digital terrestre en el ámbito de la Comunidad de Castilla y León, previo establecimiento de las correspondientes bases reguladoras.
+2. Las subvenciones se otorgarán previa convocatoria pública, y habrán de solicitarse en el plazo que se indique en la misma a partir de que se produzca el hecho subvencionable, y ante la entidad colaboradora seleccionada por la Consejería de Fomento.
+3. Las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 37 bis.
+
+### Artículo 37 bis
+
+Artículo 37 bis. Subvenciones en materia de telecomunicaciones.
+1. La Administración de la Comunidad concederá subvenciones a las Comunidades de Propietarios en régimen de propiedad horizontal que realicen la adecuación de las instalaciones de antenas necesarias para la captación de las señales con tecnología digital terrestre en el ámbito de la Comunidad de Castilla y León, previo establecimiento de las correspondientes bases reguladoras.
+2. Las subvenciones se otorgarán previa convocatoria pública, y habrán de solicitarse en el plazo que se indique en la misma a partir de que se produzca el hecho subvencionable, y ante la entidad colaboradora seleccionada por la Consejería de Fomento.
+3. Las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se añade por la disposición final 1.1 de la Ley 9/2007, de 27 de diciembre. Ref. BOE-A-2008-907
+
+### Artículo 38
+
+Artículo 38. Subvenciones destinadas a financiar la ejecución de obras complementarias.
+1. La Administración de la Comunidad concederá subvenciones para financiar la ejecución de obras calificadas como complementarias en zonas de regadío o de concentración parcelaria.
+2. Las actuaciones serán solicitadas por agricultores, directamente o a través de Sociedades Agrarias de Transformación, Cooperativas, Comunidades de Regantes u otras entidades asociativas, así como Ayuntamientos, incluyéndose en el Plan de Mejoras Territoriales y Obras correspondiente.
+3. Las subvenciones se otorgarán previa aprobación del proyecto y una vez formalizado el contrato administrativo.
+
+### Artículo 39
+
+Artículo 39. Subvenciones a la transformación y comercialización de los productos agrarios, silvícolas y de la alimentación y para la mejora de las estructuras de producción de las explotaciones agrarias.
+1. La Administración de la Comunidad concederá, siempre que sean compatibles con las normas de la Unión Europea, subvenciones que tengan como finalidad:
+a) Promover la inversión productiva y la mejora de la competitividad en materia de transformación y comercialización de los productos agrarios, silvícolas y de la alimentación.
+b) La mejora de las estructuras de producción de las explotaciones agrarias.
+2. Las subvenciones se otorgarán previa convocatoria pública y las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos exigidos en las bases reguladoras.
+3. El procedimiento para la concesión y liquidación de estas subvenciones será desarrollado de manera específica en la correspondiente Orden que apruebe las bases reguladoras.
+
+### Artículo 40
+
+Artículo 40. Subvenciones a la suscripción de pólizas de seguros agrarios.
+1. La Administración de la Comunidad concederá subvenciones dirigidas a incentivar la suscripción de las líneas de seguros agrarios incluidas en los Planes Nacionales de Seguros Agrarios, minorando el coste de las pólizas de los seguros agrarios suscritos por el tomador, incentivándose la suscripción, cubriéndose el riesgo de pérdida de renta en el sector agrario por adversidades inherentes al proceso productivo.
+2. Las bases reguladoras determinarán las líneas subvencionables y el porcentaje de subvención de cada línea.
+3. Las solicitudes acompañadas de las certificaciones de las entidades aseguradoras acreditativas de las pólizas suscritas por los beneficiarios se resolverán por el orden de presentación y aceptación.
+
+### Artículo 41
+
+Artículo 41. Subvenciones para la formalización del aval bancario a través de la Sociedad Anónima Estatal de Caución Agraria.
+1. La Administración de la Comunidad concederá subvenciones dirigidas a bonificar la comisión de estudio y apertura de los avales otorgados por la Sociedad Anónima Estatal de Caución Agraria (SAECA) a los titulares de explotaciones agrarias de Castilla y León.
+2. Las bases reguladoras determinarán los importes de la subvención.
+3. Las solicitudes se resolverán siguiendo el orden de la recepción de la información que remita la citada sociedad en cumplimiento de los requisitos establecidos.
+
+### Artículo 42
+
+Artículo 42. Subvenciones para la compra de ganado que tenga por objeto la reposición de reses.
+1. La Administración de la Comunidad concederá subvenciones dirigidas a los titulares de explotaciones de ganado bovino, ovino y caprino para la compra de animales de las citadas especies que tenga por objeto la reposición de efectivos en aquellas explotaciones en las que se ordene el sacrificio de todos los animales, tras la realización de campañas de saneamiento ganadero o como consecuencia de sospecha o aparición de una encefalopatía espongiforme transmisible o motivos epidemiológicos graves, o en aquellas explotaciones ubicadas en aquellas localidades objeto de un programa específico de erradicación de enfermedades.
+2. Las subvenciones se concederán previa convocatoria pública, y las solicitudes se resolverán por el orden de presentación, acreditado el cumplimiento de los requisitos establecidos en las bases reguladoras.
+
+### Artículo 43
+
+Artículo 43. Subvenciones a la polinización para los titulares de explotaciones apícolas.
+1. La Administración de la Comunidad concederá subvenciones dirigidas a los titulares de explotaciones apícolas de Castilla y León, con la finalidad del mantenimiento de las colmenas, previo establecimiento de las correspondientes bases reguladoras.
+2. Las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+
+### Artículo 44
+
+Artículo 44. Subvenciones a las Agrupaciones de Defensa Sanitaria.
+1. La Administración de la Comunidad concederá subvenciones dirigidas a Agrupaciones de Defensa Sanitaria de Castilla y León que colaboren en los programas sanitarios, previo establecimiento de las correspondientes bases reguladoras.
+2. Las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+
+### Artículo 45
+
+Artículo 45. Subvenciones a las organizaciones profesionales agrarias y a las entidades colaboradoras reconocidas conforme a la Ley 1/2014, de 19 de marzo, Agraria de Castilla y León.
+1. La Administración de la Comunidad podrá conceder subvenciones a las Organizaciones Profesionales Agrarias más representativas en la comunidad autónoma con el fin de mantener sus actividades sindicales en el sector agrario en general, previa convocatoria en la que se determinen el plazo para la presentación de las solicitudes, los requisitos exigidos y las bases para su concesión.
+2. Asimismo, la Administración de la Comunidad podrá conceder subvenciones a favor de aquellas organizaciones profesionales agrarias, o federaciones o coaliciones de aquéllas, que hayan obtenido el reconocimiento como entidad colaboradora al amparo de lo establecido en el artículo 174.2 de la Ley 1/2014, de 19 de marzo, Agraria de Castilla y León, y su normativa de desarrollo, por su contribución en la aplicación de los planes, programas y medidas en los que se articula la política agraria de la Comunidad y la Política Agrícola Común. Serán los convenios que, en su caso, se suscriban por parte de la Administración con las referidas entidades colaboradoras, en los que habrán de contemplarse entre otras cuestiones, las funciones que asuman dichas entidades, los que instrumentarán la subvención correspondiente.
+Se modifica por el art. 8.3 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+
+### Artículo 45 bis
+
+Artículo 45 bis. Subvenciones destinadas a recuperar el potencial productivo de las explotaciones agrarias de Castilla y León.
+1. La Administración de la Comunidad podrá conceder subvenciones dirigidas a recuperar el potencial productivo de las explotaciones agrarias de Castilla y León que se haya visto afectado negativamente por los daños producidos por plagas y/u otras circunstancias climatológicamente adversas, previo establecimiento de las bases reguladoras que determinarán las líneas subvencionables y el porcentaje o importe de la subvención correspondiente a cada línea.
+2. Las subvenciones se concederán previa convocatoria pública y las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se añade por la disposición final 1.2 de la Ley 9/2007, de 27 de diciembre. Ref. BOE-A-2008-907
+
+### Artículo 46
+
+Artículo 46. Subvenciones destinadas a recuperar el potencial productivo de las explotaciones agrarias de Castilla y León.
+1. La Administración de la Comunidad podrá conceder subvenciones dirigidas a recuperar el potencial productivo de las explotaciones agrarias de Castilla y León que se haya visto afectado negativamente por los daños producidos por plagas y/u otras circunstancias climatológicamente adversas, previo establecimiento de las bases reguladoras que determinarán las líneas subvencionables y el porcentaje o importe de la subvención correspondiente a cada línea.
+2. Las subvenciones se concederán previa convocatoria pública y las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 45 bis.
+ Se modifican los apartados 1.d) y 2 por el art. 21 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+ Se añade el apartado 1.e) y se modifica el apartado 2 por la disposición final 1.4 de la Ley 9/2007, de 27 de diciembre. Ref. BOE-A-2008-907
+ Se modifica el apartado 1.b) y d) por la disposición final 1.4 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 46 bis
+
+Artículo 46 bis. Subvenciones para fomentar la movilidad de estudiantes, profesores e investigadores.
+La Administración de la Comunidad concederá subvenciones para fomentar la movilidad internacional:
+a) De los estudiantes de educación superior de Castilla y León. Estas subvenciones podrán complementar las que reciban con el mismo fin de las propias Universidades o de otras entidades nacionales o internacionales, en cuyo caso se podrán conceder, previa convocatoria, a todos aquellos estudiantes que reúnan los requisitos que establezca su normativa reguladora.
+Las subvenciones concedidas serán compatibles con otras ayudas, subvenciones, ingresos o recursos para la misma finalidad procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales o internacionales, sin que el importe total subvencionado en ningún caso, aisladamente o en concurrencia con otras, llegue a superar el coste de la actividad subvencionada.
+Las subvenciones se concederán previa convocatoria pública, resolviéndose según se disponga en las bases reguladoras a través del procedimiento de prorrateo o por el orden de presentación, en función del cumplimiento de los requisitos establecidos.
+b) De los profesores e investigadores de las universidades, de los centros superiores de enseñanzas artísticas y centros de investigación de Castilla y León. Estas subvenciones se podrán conceder previa convocatoria pública a todos los solicitantes que acrediten el cumplimiento de los requisitos que establezcan sus bases reguladoras. Las solicitudes se resolverán por el orden de presentación, en función del cumplimiento de los requisitos establecidos.
+Se modifica por el art. 17 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+ Se modifica por el art. 22 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+ Se añade por la disposición final 1.5 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 47
+
+Artículo 47. Subvenciones en materia de educación.
+1. La Administración de la Comunidad concederá subvenciones a familias y entidades privadas sin ánimo de lucro con la finalidad de promover:
+a) Las condiciones de igualdad en el ejercicio del derecho a la educación y para compensar las condiciones socioeconómicas desfavorables de los alumnos que cursen enseñanzas de los niveles obligatorios, mediante subvenciones que serán destinadas a financiar la adquisición de libros de texto.
+b) La calidad de la enseñanza y la escolarización del alumnado del medio rural en todos los niveles educativos, alumnos de enseñanzas obligatorias y no obligatorias que hayan de estar escolarizados en un municipio próximo al de su residencia o a una distancia que lo justifique de acuerdo con la normativa al efecto, mediante subvenciones que serán destinadas a financiar los gastos de residencia o transporte escolar de los alumnos que no puedan hacer uso de los servicios de transporte escolar contratados al efecto por la Administración autonómica.
+c) Que los alumnos con necesidades educativas especiales, temporales o permanentes, puedan alcanzar los objetivos establecidos con carácter general para todos los alumnos, mediante subvenciones destinadas a financiar el transporte de alumnos plurideficientes con discapacidad motora, escolarizados en centros docentes concertados de Educación Especial, que tengan serias dificultades en el desplazamiento y requieran un transporte adaptado.
+d) La igualdad de oportunidades que facilite el acceso a las enseñanzas de carácter no obligatorio, particularmente de las enseñanzas de régimen especial, mediante subvenciones destinadas a financiar los gastos de matrícula del alumnado que cursa estudios de enseñanzas artísticas, en centros públicos dependientes de la Consejería de Educación y Escuelas de la Comunidad de Castilla y León.
+e) La igualdad de oportunidades y el aprovechamiento de la capacidad de los jóvenes pertenecientes a las familias con inferiores rentas, compensatorias de los ingresos dejados de percibir como consecuencia de su dedicación al estudio.
+2. Las subvenciones se concederán previa convocatoria pública y su cuantía se fijará en función de los costes concretos de la actividad subvencionada así como, en su caso, de las circunstancias socioeconómicas de la unidad familiar, de acuerdo con lo establecido en las bases reguladoras.
+Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 46.
+ Se modificapor la disposición final 1.6 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 47 bis
+
+Artículo 47 bis. Subvenciones en materia de servicios sociales.
+1. La Administración de la Comunidad, previo establecimiento de bases reguladoras en que se concreten los requisitos exigidos, concederá subvenciones a:
+a) Las personas mayores, personas con discapacidad y personas dependientes, destinadas a contribuir como ayudas individuales a la financiación de los gastos realizados y dirigidos a garantizarles la realización de actividades básicas de la vida diaria, la máxima integración y mejorar su bienestar, favoreciendo su movilidad, comunicación y participación en la vida social y económica de su entorno, con el objetivo de dar apoyos para su autonomía personal.
+b) Las entidades que están llevando a cabo los programas de itinerarios personalizados de inserción sociolaboral y que gestionen los apoyos necesarios para el desarrollo de la vida independiente de los participantes en los mencionados programas de itinerarios, mediante la financiación de los gastos asociados a los apoyos y con la finalidad de favorecer la incorporación y mantenimiento del empleo de las personas con discapacidad.
+c) Las entidades que están llevando a cabo los programas de itinerarios personalizados de inserción sociolaboral, cofinanciadas por el FSE y destinadas a financiar el proceso de formación, cualificación y contratación de las personas con discapacidad en el ámbito de la asistencia personal como nuevo yacimiento de empleo.
+2. Las subvenciones se otorgarán previa convocatoria pública y las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se modifica por la disposición final 13.2 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica por el art. 23 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+ Se modifica por la disposición final 1.7 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 47 ter
+
+Artículo 47 ter. Subvenciones para el fomento de vehículos de energías alternativas.
+1. La Administración de la Comunidad de Castilla y León concederá, siempre que sean compatibles con las normas de la Unión Europea y previo establecimiento de las correspondientes bases reguladoras, subvenciones con la finalidad de promover la adquisición y/o adaptación de vehículos de energías alternativas.
+2. Las subvenciones se otorgarán previa convocatoria pública y las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se añade por la disposición final 13.3 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 47 quáter 
+
+Artículo 47 quáter. Subvenciones en materia de comercio.
+1. La Administración de la Comunidad de Castilla y León concederá, previo establecimiento de las correspondientes bases reguladoras, subvenciones dirigidas a promover la comercialización y garantizar el abastecimiento en el medio rural y a promover la adaptación de la oferta comercial a las demandas de los turistas e incrementar su gasto en compras.
+2. Las subvenciones se otorgarán previa convocatoria pública y las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se añade por la disposición final 13.4 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 48
+
+Artículo 48. Subvenciones para fomentar la movilidad de estudiantes, profesores e investigadores.
+La Administración de la Comunidad concederá subvenciones para fomentar la movilidad internacional:
+a) De los estudiantes de educación superior de Castilla y León. Estas subvenciones podrán complementar las que reciban con el mismo fin de las propias Universidades o de otras entidades nacionales o internacionales, en cuyo caso se podrán conceder, previa convocatoria, a todos aquellos estudiantes que reúnan los requisitos que establezca su normativa reguladora.
+Las subvenciones concedidas serán compatibles con otras ayudas, subvenciones, ingresos o recursos para la misma finalidad procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales o internacionales, sin que el importe total subvencionado en ningún caso, aisladamente o en concurrencia con otras, llegue a superar el coste de la actividad subvencionada.
+Las subvenciones se concederán previa convocatoria pública, resolviéndose según se disponga en las bases reguladoras a través del procedimiento de prorrateo o por el orden de presentación, en función del cumplimiento de los requisitos establecidos.
+b) De los profesores e investigadores de las universidades, de los centros superiores de enseñanzas artísticas y centros de investigación de Castilla y León. Estas subvenciones se podrán conceder previa convocatoria pública a todos los solicitantes que acrediten el cumplimiento de los requisitos que establezcan sus bases reguladoras. Las solicitudes se resolverán por el orden de presentación, en función del cumplimiento de los requisitos establecidos.
+Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 46 bis.
+ Se modifica el apartado 1 por la disposición final 3 de la Ley 5/2008, de 25 de septiembre. Ref. BOE-A-2008-16664#dfsegunda
+ Se modifica por la disposición final 1.8 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+## CAPÍTULO III
+
+De las aportaciones económicas distintas de las subvenciones
+Se deroga por la disposición derogatoria del Decreto Legislativo 1/2009, de 18 de junio. Ref. BOCL-h-2009-90080
+
+### Artículo 49
+
+Artículo 49. Subvenciones en materia de Régimen Local.
+La Administración de la Comunidad concederá subvenciones a las entidades locales para la mejora de sus infraestructuras y servicios, con cargo al Fondo de Apoyo Municipal, a las distintas líneas del Fondo de Cooperación Local y a los créditos presupuestarios destinados al desarrollo del Pacto Local.
+Las subvenciones se otorgarán en los términos que establezca la normativa reguladora de los mismos.
+Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 47.
+ Se deroga por la disposición derogatoria del Decreto Legislativo 1/2009, de 18 de junio. Ref. BOCL-h-2009-90080
+ Se modifica por la disposición final 4.1 de la Ley 5/2008, de 25 de septiembre. Ref. BOE-A-2008-16664#dfsegunda
+ Téngase en cuenta la disposición transitoria 3 de la citada Ley.
+
+### Artículo 50
+
+Artículo 50. Subvenciones en materia de servicios sociales.
+1. La Administración de la Comunidad, previo establecimiento de bases reguladoras en que se concreten los requisitos exigidos, concederá subvenciones a:
+a) Las personas mayores, personas con discapacidad y personas dependientes, destinadas a contribuir como ayudas individuales a la financiación de los gastos realizados y dirigidos a garantizarles la realización de actividades básicas de la vida diaria, la máxima integración y mejorar su bienestar, favoreciendo su movilidad, comunicación y participación en la vida social y económica de su entorno, con el objetivo de dar apoyos para su autonomía personal.
+b) Las entidades que están llevando a cabo los programas de itinerarios personalizados de inserción sociolaboral y que gestionen los apoyos necesarios para el desarrollo de la vida independiente de los participantes en los mencionados programas de itinerarios, mediante la financiación de los gastos asociados a los apoyos y con la finalidad de favorecer la incorporación y mantenimiento del empleo de las personas con discapacidad.
+c) Las entidades que están llevando a cabo los programas de itinerarios personalizados de inserción sociolaboral, cofinanciadas por el FSE y destinadas a financiar el proceso de formación, cualificación y contratación de las personas con discapacidad en el ámbito de la asistencia personal como nuevo yacimiento de empleo.
+d) Personas incluidas en el Sistema Unificado de Servicios Sociales de Castilla y León destinadas a financiar, de forma extraordinaria, situaciones de vulnerabilidad derivadas necesidades básicas relacionadas con su subsistencia y que esa circunstancia sea determinante para la concesión de la subvención. Estas subvenciones tendrán la denominación de Bonos de Urgencia Social.
+2. Las subvenciones se otorgarán previa convocatoria pública y las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+3. Como especialidad del procedimiento general de otorgamiento de las subvenciones, no será necesaria la aceptación del beneficiario en las otorgadas al amparo de la letra d) del apartado primero de este artículo, cuando los beneficiarios hayan solicitado la ayuda y estén incluidos en el sistema de acceso unificado de los servicios sociales de Castilla y León.
+Se añade el apartado 1.d) y 3 por el art. 21.1 y 2 del Decreto-ley 2/2022, de 23 de junio. Ref. BOCL-h-2022-90195
+ Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 47 bis.
+ Se deroga por la disposición derogatoria del Decreto Legislativo 1/2009, de 18 de junio. Ref. BOCL-h-2009-90080
+
+### Artículo 51
+
+Artículo 51. Subvenciones para el fomento de vehículos de energías alternativas.
+1. La Administración de la Comunidad de Castilla y León concederá, siempre que sean compatibles con las normas de la Unión Europea y previo establecimiento de las correspondientes bases reguladoras, subvenciones con la finalidad de promover la adquisición y/o adaptación de vehículos de energías alternativas.
+2. Las subvenciones se otorgarán previa convocatoria pública y las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 47 ter.
+ Se deroga por la disposición derogatoria del Decreto Legislativo 1/2009, de 18 de junio. Ref. BOCL-h-2009-90080
+ Se modifica por el art. 24 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Artículo 51 bis
+
+Artículo 51 bis. Subvenciones en materia de ahorro, eficiencia energética y energías renovables.
+1. En el marco de programas estatales de subvenciones, que establezcan las bases reguladoras de las mismas, y financien o cofinancien su otorgamiento a los destinatarios finales, la Administración de la Comunidad de Castilla y León concederá, siempre que sean compatibles con las normas de la Unión Europea, subvenciones en materia de ahorro, eficiencia energética y energías renovables.
+2. Las subvenciones se otorgarán previa convocatoria pública, y, cuando así lo prevean las bases reguladoras, las solicitudes se resolverán por orden de entrada desde que el expediente esté completo.
+Se añade por la disposición final 6.5 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+
+### Artículo 52
+
+Artículo 52. Subvenciones en materia de comercio.
+1. La Administración de la Comunidad de Castilla y León concederá, previo establecimiento de las correspondientes bases reguladoras, subvenciones dirigidas a promover la comercialización y garantizar el abastecimiento en el medio rural y a promover la adaptación de la oferta comercial a las demandas de los turistas e incrementar su gasto en compras.
+2. Las subvenciones se otorgarán previa convocatoria pública y las solicitudes se resolverán por el orden de presentación en función del cumplimiento de los requisitos establecidos.
+Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 47 quater.
+ Se deroga por la disposición derogatoria del Decreto Legislativo 1/2009, de 18 de junio. Ref. BOCL-h-2009-90080
+ Se modifica el apartado 1 por la disposición final 1.9 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-2827
+
+### Artículo 52 bis
+
+Artículo 52 bis. Programa de modernización del comercio: Fondo Tecnológico.
+1. La Administración de la Comunidad, previo establecimiento de las correspondientes bases reguladoras, podrá conceder las subvenciones correspondientes al Programa de modernización del comercio: Fondo Tecnológico, en el marco del Plan de Recuperación, Transformación y Resiliencia.
+2. Las subvenciones se otorgarán previo convocatoria pública y se solicitarán en la plaza que en la misma se determine.
+3. Las solicitudes se resolverán por orden de presentación desde que los expedientes serán completos, una vez verificado el cumplimiento de los requisitos exigidos en las bases y en las convocatorias.
+Se añade por el art. 8 del Decreto-ley 2/2022, de 23 de junio. Ref. BOCL-h-2022-90195
+
+### Artículo 52 ter
+
+Artículo 52 ter. Subvenciones dirigidas al impulso de la excelencia en los Mercados Municipales de Abastos.
+1. La Administración de la Comunidad, previo establecimiento de las correspondientes bases reguladoras, podrá conceder subvenciones dirigidas al impulso de la excelencia en los Mercados Municipales de Abastos.
+2. Las subvenciones se otorgarán previa convocatoria pública y se solicitarán en el plazo que en la misma se determine.
+3. Las solicitudes se resolverán por orden de presentación desde que los expedientes estén completos, una vez verificado el cumplimiento de los requisitos exigidos en las bases y en las convocatorias.
+Se añade por el art. 11.5 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+
+### Artículo 52 quater 
+
+Artículo 52 quater. Subvenciones para la reactivación del comercio minorista de proximidad.
+1. La Administración de la Comunidad, previo establecimiento de las correspondientes bases reguladoras, podrá conceder subvenciones dirigidas a proyectos y actuaciones de reactivación del comercio minorista de proximidad de la Comunidad de Castilla y León.
+2. Las subvenciones se otorgarán previa convocatoria pública y se solicitarán en el plazo que en la misma se determine.
+3. Las solicitudes se resolverán por orden de presentación desde que los expedientes estén completos, una vez verificado el cumplimiento de los requisitos exigidos en las bases y en las convocatorias.
+Se añade por el art. 11.6 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+
+### Artículo 53
+
+Artículo 53. Subvenciones para la sustitución de calderas, calentadores de gas e instalaciones y equipos de seguridad industrial en general, tales como ascensores y baja tensión, entre otras, de más de diez años.
+1. La Administración de la Comunidad concederá, siempre que sean compatibles con las normas de la Unión Europea y previo establecimiento de las correspondientes bases reguladoras, subvenciones con la finalidad de promover la adquisición para la sustitución de calderas o calentadores e instalaciones y equipos de seguridad industrial en general, tales como ascensores y baja tensión, entre otras, de más de diez años.
+2. Las subvenciones se otorgarán previa convocatoria pública y las solicitudes se resolverán por orden de entrada desde que el expediente esté completo.
+Se modifica por la disposición final 6.6 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+ Se añade por la disposición final 1.2 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Se deroga por la disposición derogatoria del Decreto Legislativo 1/2009, de 18 de junio. Ref. BOCL-h-2009-90080
+
+### Artículo 54
+
+Artículo 54. Normas comunes a las subvenciones reguladas en este capítulo.
+1. Las subvenciones reguladas en este capítulo se concederán de acuerdo con las disponibilidades presupuestarias de cada ejercicio, con el crédito máximo que fije la convocatoria cuando esta deba producirse, o, en su caso, dentro de los límites a que se refieren el artículo 33.3 y la disposición adicional cuarta de la presente ley.
+2. Las convocatorias podrán prever, con las limitaciones que se precisen en ellas, que las solicitudes presentadas al amparo de convocatorias anteriores puedan resolverse con cargo a los créditos presupuestarios de la misma. En este supuesto, las primeras solicitudes en resolverse serán las presentadas al amparo de las convocatorias anteriores, respetando el orden de entrada.
+Se renumera por la disposición final 1.1 de la Ley 7/2017, de 28 de diciembre. Ref. BOE-A-2018-1754
+ Su anterior numeración era art. 48.
+ Se deroga por la disposición derogatoria del Decreto Legislativo 1/2009, de 18 de junio. Ref. BOCL-h-2009-90080
+
+### Artículo 55
+
+Artículo 55. Transferencias a las universidades públicas.
+(Derogado)
+Se deroga por la disposición derogatoria del Decreto Legislativo 1/2009, de 18 de junio. Ref. BOCL-h-2009-90080
+
+### Artículo 56
+
+Artículo 56. Régimen de la ayudas que no tengan naturaleza de subvenciones.
+(Derogado)
+Se deroga por la disposición derogatoria del Decreto Legislativo 1/2009, de 18 de junio. Ref. BOCL-h-2009-90080
+ Se modifica por la disposición final 4.2 de la Ley 5/2008, de 25 de septiembre. Ref. BOE-A-2008-16664#dfsegunda
+
+### Artículo 57
+
+Artículo 57. Aportaciones dinerarias a la dotación de fundaciones.
+(Derogado)
+Se deroga por la disposición derogatoria del Decreto Legislativo 1/2009, de 18 de junio. Ref. BOCL-h-2009-90080
+ Se modifica por el art. 25 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Disposición adicional primera
+
+Disposición adicional primera. Transferencias y subvenciones en materia de servicios sociales.
+1. Las transferencias y subvenciones correspondientes al Acuerdo Marco de cofinanciación de los Servicios Sociales y Prestaciones Básicas que lleven a cabo las entidades locales se librarán y el empleo de los fondos se acreditará de acuerdo con su normativa específica y lo dispuesto en el acuerdo de la Junta de Castilla y León por el que anualmente se distribuyan los fondos.
+2. Para la realización de programas de interés regional, consistentes en el establecimiento y desarrollo de un sistema integral de atención a personas mayores en situación de dependencia, se podrá ampliar el catálogo de prestaciones de servicios sociales previstas en el Acuerdo Marco de cofinanciación de los Servicios Sociales y Prestaciones Sociales Básicas, respecto de las entidades locales en las que se van a ejecutar dichos programas.
+Se deroga el inciso final del apartado 2 por la disposición derogatoria única de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Creación de la empresa pública «Ade Financiación, S. A.».
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556
+ Se modifica el apartado 3.b) por la disposición final 1.5 de la Ley 9/2007, de 27 de diciembre. Ref. BOE-A-2008-907
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Autorización para la constitución de la Sociedad para el Desarrollo Industrial de Castilla y León, S. A. (SODICAL, S. A.) como empresa pública.
+Se autoriza a la Agencia de Inversiones y Servicios de Castilla y León para participar en el capital de la Sociedad para el Desarrollo Industrial de Castilla y León, S. A. (SODICAL, S. A.), en cuantía superior al cincuenta por ciento.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Cesión de datos entre Administraciones públicas.
+Las Administraciones públicas competentes en la Comunidad de Castilla y León, en materia de acción social y servicios sociales, podrán cederse entre sí datos de carácter personal de los solicitantes y beneficiarios de los centros y servicios que integran el Sistema de Acción Social de Castilla y León al objeto de tener un conocimiento uniforme de las necesidades del usuario, así como del alcance de los servicios ofrecidos y prestados, y garantizarles una prestación integral.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas normas de igual o inferior rango contradigan o se opongan a lo establecido en esta Ley y en especial las siguientes:
+Los artículos 11, 17 y 26 de la Ley 9/2004, de 28 de diciembre, de Medidas Económicas, Fiscales y Administrativas.
+La disposición adicional segunda de la Ley 13/2003, de 23 de diciembre, de Medidas Económicas, Fiscales y Administrativas.
+La letra d) del apartado 3 del artículo 108 de la Ley 12/2001, de 20 de diciembre, de Tasas y Precios Públicos de la Comunidad de Castilla y León.
+Las disposiciones adicionales segunda y cuarta de la Ley 21/1994, de 15 de diciembre, de creación de la Agencia de Desarrollo Económico de Castilla y León.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 21/1994, de 15 de diciembre, de Creación de la Agencia de Desarrollo Económico de Castilla y León.
+1. Se modifica la denominación del ente público de derecho privado creado por la Ley 21/1994, de 15 de diciembre, de Creación de la Agencia de Desarrollo Económico de Castilla y León, que pasará a ser Agencia de Inversiones y Servicios de Castilla y León. Cualquier referencia a la Agencia de Desarrollo Económico de Castilla y León contenida en la Ley 21/1994, de 15 de diciembre, o en cualquier otra disposición, se entenderá realizada a la Agencia de Inversiones y Servicios de Castilla y León.
+2. Se modifica el párrafo 1.º del apartado 1 del artículo 3, que pasa a tener la siguiente redacción:
+«1. La Agencia de Inversiones y Servicios de Castilla y León tiene por finalidad promover la competitividad del sistema productivo en Castilla y León, así como favorecer la estrategia empresarial de innovación. Para el cumplimiento de estos fines podrá:»
+3. Se modifican las letras d), h) y k) del apartado 1 del artículo 3 que quedan redactadas del siguiente modo:
+«d) Diseñar y ejecutar medidas de apoyo financiero a las empresas de la Comunidad, en colaboración con empresas públicas y participadas.
+h) Fomentar la creación de instrumentos, con o sin personalidad jurídica, que posibiliten la negociación y presencia de la Comunidad en la Unión Europea, en materias propias de desarrollo económico.
+k) Cualquier otra actividad que, dentro del fomento del ámbito empresarial, vaya destinada a la mejora de la competitividad o al cumplimiento de cualesquiera otros fines relacionados con la Agencia de Inversiones y Servicios de Castilla y León.»
+4. Se modifica el artículo 6, que queda redactado del siguiente modo:
+«Artículo 6. Órganos de la Agencia.
+Son órganos de la Agencia de Inversiones y Servicios de Castilla y León: el Consejo Asesor, el Consejo Rector, el Comité Ejecutivo, el Presidente, el Vicepresidente, en su caso, y el Director Gerente.»
+5. Se modifica el artículo 7, que queda redactado del siguiente modo:
+«Artículo 7. El Consejo Asesor.
+1. El Consejo Asesor es el órgano consultivo de la Agencia de Inversiones y Servicios, presidido por su Presidente, y que contará con la participación y opinión de personas de reconocido prestigio en los ámbitos relacionados con las funciones de la Agencia.
+2. Su composición y normas de funcionamiento se determinarán reglamentariamente.»
+6. Se modifica el artículo 8, que queda redactado del siguiente modo:
+«Artículo 8. El Consejo Rector.
+1. El Consejo Rector es el órgano superior de gobierno de la entidad y está integrado por el Presidente, el Vicepresidente, en su caso, y por los vocales, cuyo nombramiento y cese corresponde a la Junta de Castilla y León, a propuesta del Consejero competente en materia de promoción económica. En este Consejo participarán las organizaciones sindicales y las organizaciones empresariales.
+2. Su composición y funcionamiento se determinarán reglamentariamente.
+3. Corresponde al Consejo Rector:
+a) Establecer las líneas de actuación de la Agencia de Inversiones y Servicios, de acuerdo con los criterios que establezca la Junta de Castilla y León.
+b) Examinar y aprobar los programas de ayudas, los planes de actuación de la Agencia de Inversiones y Servicios en cada una de sus actividades, la propuesta del anteproyecto de sus presupuestos y el balance y la memoria anuales.
+c) Aprobar las propuestas de los convenios de cooperación de la Agencia de Inversiones y Servicios con las demás Administraciones públicas y entidades privadas y su participación en sociedades mercantiles y entidades sin ánimo de lucro.
+d) Cuantas otras atribuciones se establezcan reglamentariamente.»
+7. Se introduce un nuevo artículo 8 bis que queda redactado del siguiente modo:
+«Artículo 8 bis. El Comité Ejecutivo.
+1. El Comité Ejecutivo es el órgano de decisión para el funcionamiento y la gestión ordinaria de la entidad, correspondiéndole todas las funciones y competencias inherentes a dicha gestión, junto con todas aquellas que le delegue el Consejo Rector.
+2. Su composición y funcionamiento se determinarán reglamentariamente.»
+8. Se modifica la letra b) del apartado 2 del artículo 9, que queda redactada del siguiente modo:
+«b) Aprobar la convocatoria de las subvenciones que conceda la entidad, así como la programación del resto de sus actividades.»
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación de la Ley 10/1998, de 5 de diciembre, de Ordenación del Territorio de la Comunidad de Castilla y León.
+Se modifican los artículos 20 y 22 de la Ley 10/1998, de 5 de diciembre, de Ordenación del Territorio de la Comunidad de Castilla y León, en lo siguientes términos:
+1. Se da nueva redacción al apartado 2 del artículo 20, con el siguiente texto:
+«2. Corresponde a la Junta de Castilla y León la aprobación de los Planes y Proyectos Regionales. Esta aprobación se justificará por el interés general del sector afectado o de las actuaciones previstas, o bien porque a causa de su magnitud o características, la influencia del Plan o Proyecto trascienda el ámbito local, o por la necesidad de satisfacer la demanda de viviendas con protección pública.»
+2. Se da nueva redacción al apartado 2 del artículo 22, con el siguiente texto:
+«2. La aprobación de los Planes y Proyectos Regionales comportará la declaración de utilidad pública e interés social y la necesidad de urgente ocupación de los bienes y derechos que resulten necesarios para la ejecución del Plan o Proyecto, incluidos los enlaces y conexiones con las redes de infraestructura previstas en los planes de ordenación urbanística o en la planificación sectorial, en su caso, a efectos de su expropiación forzosa, ocupación temporal o modificación de servidumbres.»
+
+### Disposición final tercera
+
+Disposición final tercera. Modificación de la Ley 5/1999, de 8 de abril, de Urbanismo de Castilla y León.
+Se modifican los artículos 33, 38 y 128 de la Ley 5/1999, de 8 de abril, de Urbanismo de Castilla y León, en lo siguientes términos:
+1. Se da nueva redacción al apartado 4 del artículo 33, que queda redactado del siguiente modo:
+«4. En tanto los municipios no cumplan lo dispuesto en el número dos, la ordenación general será establecida por el procedimiento de subrogación regulado en el artículo 59 o bien mediante los instrumentos de ordenación del territorio. De igual forma se podrá establecer la ordenación detallada en ausencia de planeamiento municipal o cuando concurran circunstancias de interés supralocal, y en particular en caso de urgente necesidad de viviendas con protección pública.»
+2. Se da nueva redacción al apartado 2 del artículo 38, que queda redactado del siguiente modo:
+«2. A fin de fomentar la cohesión social, el planeamiento procurará la mezcla equilibrada de grupos sociales, usos y actividades. A tal efecto:
+a) El planeamiento fijará un índice de variedad urbana en los sectores de suelo urbano no consolidado y urbanizable, consistente en una reserva para usos no predominantes cuyos mínimos se determinarán reglamentariamente según el tipo de municipio y de sector; entre dichos usos se incluirán las viviendas con protección pública. Reglamentariamente se establecerán los mecanismos que regulen su construcción acompasada con las demás viviendas del mismo sector.
+b) El planeamiento deberá reservar para viviendas con protección pública, al menos los siguientes porcentajes de la edificabilidad residencial de cada sector:
+1.º En municipios con Plan General de Ordenación Urbana: en suelo urbano no consolidado, 10 por ciento; en suelo urbanizable delimitado; 20 por ciento; y en suelo urbanizable no delimitado, 30 por ciento.
+2.º En los demás municipios con población igual o superior a 1.000 habitantes: en suelo urbanizable delimitado, 10 por ciento; y en suelo urbanizable no delimitado, 30 por ciento.»
+3. El artículo 128 queda redactado de la siguiente forma:
+«El Plan General de Ordenación Urbana, así como los instrumentos de ordenación del territorio podrán delimitar reservas de terrenos de cualquier clase para su incorporación al correspondiente patrimonio público de suelo. En tal caso la aprobación de los citados instrumentos implicará:
+a) La declaración de utilidad pública y la necesidad de urgente ocupación de los terrenos incluidos en la reserva, a efectos expropiatorios, por un plazo máximo de cuatro años.
+b) La sujeción de todas las transmisiones que se efectúen en las reservas a los derechos de tanteo y retracto previstos en el capítulo siguiente, a favor de la Administración correspondiente.»
+
+### Disposición final cuarta
+
+Disposición final cuarta. Modificación de la Ley 4/1996, de 12 de julio, de Caza de Castilla y León.
+Se modifica el artículo 12 de la Ley 4/1996, de 12 de julio, de Caza de Castilla y León, que queda redactado en los siguientes términos:
+«Artículo 12. Daños producidos por las piezas de caza.
+1. La responsabilidad por los daños producidos por las piezas de caza en los terrenos cinegéticos, en los refugios de fauna y en las zonas de seguridad se determinará conforme a lo establecido en la legislación estatal que resulte de aplicación.
+2. La responsabilidad por los daños producidos por las piezas de caza, excepto cuando el daño sea debido a culpa o negligencia del perjudicado o de un tercero, corresponderá en los terrenos vedados a sus propietarios.»
+
+### Disposición final quinta
+
+Disposición final quinta. Pago de la Tasa fiscal sobre el juego que grava el bingo electrónico.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2006, de 25 de mayo. Ref. BOCL-h-2006-90002
+
+### Disposición final sexta
+
+Disposición final sexta. Refundición de normas tributarias.
+Se autoriza a la Junta de Castilla y León para elaborar y aprobar, dentro del plazo de seis meses desde la entrada en vigor de esta Ley, un texto refundido de las normas vigentes relativas a tributos cedidos por el Estado a la Comunidad de Castilla y León, establecidas por las leyes de la Comunidad. La refundición incluye la posibilidad de regularizar, aclarar y armonizar los textos legales que sean objeto del texto refundido.
+
+### Disposición final séptima
+
+Disposición final séptima. Desarrollo reglamentario.
+Se faculta a la Junta de Castilla y León para dictar las disposiciones que resulten necesarias para el desarrollo de las normas establecidas por la presente Ley.
+
+### Disposición final octava
+
+Disposición final octava. Modificación de la Ley 1/1998, de 4 de junio, de Régimen Local de Castilla y León.
+Se modifica el artículo 103.2 de la Ley 1/1998, de 4 de junio, de Régimen Local de Castilla y León, que pasa a tener la siguiente redacción:
+«2. Para establecer convenios de colaboración entre la Administración de la Comunidad y las Entidades Locales será necesario acuerdo de la Junta de Castilla y León.
+Mensualmente en el Boletín Oficial de Castilla y León se publicará un anuncio con la relación de estos convenios en el que constarán las partes firmantes, la fecha, el objeto, las aportaciones económicas de las partes y el lugar donde pueda consultarse su texto íntegro por los interesados. Cuando existan razones de interés público que serán apreciadas por el titular de la Consejería competente en materia de régimen local, se publicará el contenido íntegro del texto del Convenio.»
+
+### Disposición final novena
+
+Disposición final novena. Modificación de la Ley 7/2005, de 24 de mayo, de la Función Pública de Castilla y León.
+Se modifica el artículo 22.4 de la Ley 7/2005, de 24 de mayo, de la Función Pública de Castilla y León, que pasa a tener la siguiente redacción:
+«4. La provisión de puestos de trabajo a desempeñar por personal funcionario o laboral y la formalización de nuevos contratos de trabajo de personal laboral requerirán que los puestos figuren detallados en las respectivas relaciones de puestos de trabajo y se realizarán con cargo a los créditos disponibles destinados a gastos de personal.
+El requisito de figurar detallados en las relaciones de puestos de trabajo no será preciso en los siguientes supuestos:
+a) Cuando se trate de realizar tareas de carácter no permanente, mediante contratos de trabajo de duración determinada y con cargo a créditos correspondientes a personal laboral temporal.
+b) Cuando el funcionario se encuentre en alguna de las situaciones previstas en las letras a) y b) del apartado 2 del artículo 69 de esta Ley.
+c) En los casos de sustitución de representantes sindicales liberados.
+d) En los casos de sustitución de funcionarios en situación de incapacidad temporal que se prevea de larga duración, a propuesta motivada de la Consejería u organismo y previo informe favorable de la Dirección General competente en materia de presupuestos de la Consejería de Hacienda.
+Los nombramientos o contratos que se amparen en alguno de los supuestos anteriores se realizarán por cada Consejería u organismo con cargo a los créditos disponibles que figuren en su capítulo de personal.»
+
+### Disposición final décima
+
+Disposición final décima. Modificación de la Ley 8/2005, de 10 de junio, de la Viña y el Vino de Castilla y León.
+Se modifica el artículo 18, apartado 8, de la Ley 8/2005, de 10 de junio, de la Viña y el Vino de Castilla y León, que queda redactado en los siguientes términos:
+«8. Con el fin de evitar confusión al consumidor, cualquier identificación de un vino con el término ‘’pago’’, incluido en una marca registrada con posterioridad a la entrada en vigor de esta Ley y que se obtenga de una zona no reconocida con el nivel de protección vino de pago, deberá indicar en la etiqueta ‘’no reconocido como vino de pago’’.
+Si la identificación del vino con el término ‘’pago’’ y que se obtenga de una zona no reconocida con el nivel de protección vino de pago aparece incluido en una marca registrada con anterioridad a la entrada en vigor de esta Ley, deberá indicar en la etiqueta ‘’marca registrada con anterioridad al 7 de julio de 2005’’.
+Dichas indicaciones deberán escribirse con caracteres claros, legibles, indelebles y suficientemente grandes para que destaquen del fondo sobre el que estén impresos, debiendo aparecer en el mismo campo visual que el resto de menciones obligatorias del etiquetado. En cualquier caso, estos requisitos serán de obligado cumplimiento a partir de los tres meses de la entrada en vigor del Reglamento de la Viña y el Vino de Castilla y León.»
+
+### Disposición final undécima
+
+Disposición final undécima. Entrada en vigor.
+La presente Ley entrará en vigor el 1 de enero de 2006.
+
+### [firma]
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 27 de diciembre de 2005.
+JUAN VICENTE HERRERA CAMPO,
+Presidente

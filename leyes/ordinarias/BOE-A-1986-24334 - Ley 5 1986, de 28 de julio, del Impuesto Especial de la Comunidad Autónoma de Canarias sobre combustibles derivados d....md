@@ -1,0 +1,414 @@
+# Ley 5/1986, de 28 de julio, del Impuesto Especial de la Comunidad Autónoma de Canarias sobre combustibles derivados del petróleo.
+
+- Identificador BOE: `BOE-A-1986-24334`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-24334
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 11,7 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+PREAMBULO
+La autonomía financiera de las Comunidades Autónomas consagradas en la Constitución, atribuye a aquellas dentro de un marco de coordinación con la Hacienda del Estado, una potestad tributaria derivada, así como la posibilidad de disponer de una parte de los ingresos públicos estatales mediante la atribución de los tributos cedidos, la participación en los no cedidos, exacción de tasas afectadas a servicios transferidos y recargos sobre los mismos.
+Las posibilidades tributarias de la Comunidad Autónoma de Canarias se concretan en el artículo 50 del Estatuto, si bien limitada con carácter general a lo que disponen los artículos 6 y 9 de la LOFCA, y con carácter específico a lo dispuesto en el artículo 45.1 del propio Estatuto.
+El precepto recogido en la LOFCA, respecto a la no posibilidad de gravar hechos imponibles sujetos por el Estado, sólo queda delimitado por el contexto del título VIII de la Constitución y los principios contenidos en aquella Ley.
+Ello asimismo, debe entenderse en consonancia con la Ley General Tributaria como criterio delimitador de los supuestos de sujeción y no corno hecho que implique el nacimiento de la obligación de contribuir, porque en tal caso cerraría toda posible vía de potestad tributaria de las Comunidades Autónomas, lo que claramente invalida lo estipulado en la Constitución Española.
+En el Impuesto sobre carburantes que ahora se establece en el ámbito del Archipiélago Canario no cabe plantear ilegitimidad, por la ausencia de aplicación en Canarias de un impuesto de idéntica o similar naturaleza jurídico-material en todo el proceso histórico del Régimen Económico y Fiscal, salvo la exacción regulada por la Ley 47/1980, de 1 de octubre, si bien de origen y finalidad completamente diferente al presente. El presupuesto de hecho contemplado en el impuesto tiene una estructura contributiva que ni siquiera conduce a una manifestación de riqueza gravada por el Estado en el ámbito territorial de Canarias.
+Dado que el Estatuto de Autonomía de Canarias no contiene otras limitaciones a la potestad tributaria propia de la Comunidad Autónoma del orden de las enunciadas en la Ley 8/1980, y por tanto, conforme a la disposición final armonizadora de esta última, el análisis del correcto uso de la habilitación para el presente impuesto ha de referirse a las limitaciones específicas al Régimen Fiscal Especial de Canarias, contemplado en el artículo 45 de nuestra norma institucional y disposición adicional cuarta de la Ley Estatal de Financiación.
+En efecto, la disposición últimamente citada constituye, al propio tiempo, cláusula de salvaguardia del Régimen Económico-Fiscal y norma de delimitación de competencias en las materias del citado Régimen entre el Estado y la Comunidad Autónoma y, consiguientemente, está preceptuando la adecuación de la regulación de toda la actividad financiera y tributaria de Canarias a nuestras peculiaridades económico-fiscales: Como la citada Ley regula las potestades tributarias del Estado y de las Comunidades Autónomas, fundamentalmente en los artículos 11,6 y 9 respectivamente, y ambas por el propio mandato de la Ley se unifican desde su común tratamiento al REF (disposición adicional cuarta), es evidente que el ejercicio de ambas competencias tributarias han de estar informadas por los principios que se definen en el artículo 45 del Estatuto a quien con tal carácter y efectos reenvían la Ley 8/1980, conforme al criterio de amortización a que se refiere su disposición final.
+El término estatutario «franquicias fiscales sobre el consumo» no presupone su interpretación en términos estrictos, tesis avalada por el Tribunal Constitucional en la Sentencia 35/1984, de 13 de marzo.
+Pero es que, además tal interpretación carece de virtualidad desde el propio Estatuto de Autonomía tanto desde la necesidad de constituir un sistema tributario estatal cuyos rendimientos nutran las Haciendas Locales, del régimen fiscal indirecto actualmente vigente, de la propia posibilidad de imposición autonómica propia, y la aparentemente sorprendente enunciación de los impuestos estatales susceptibles de cesión previstos en la disposición adicional segunda, uno, del Estatuto, imposición general sobre las ventas en su fase minorista y los impuestos sobre consumos específicos, salvo los recaudados mediante monopolios fiscales, si no fuera porque uno es de imposible aplicación en la actualidad y del otro no debe extraerse precipitadas consecuencias que dé una interpretación correcta del término «franquicias sobre el consumo» puede ceñirse al consumo minorista, porque fácil es advertir que tales consumos específicos responden a la naturaleza de determinados costes sociales a quien tales impuestos precisamente atienden mediante la compensación de los gastos sociales ocasionados a la Comunidad, y que por tanto, el artículo 45 no podría estar precisamente incentivando perjuicios sociales.
+Desde la conceptuación del vigente REF, en su vertiente fiscal como régimen especial de imposición indirecta, la presente Ley reguladora de un impuesto monofásico sobre las ventas mayoristas consistentes en el consumo específico de determinados combustibles derivados del petróleo, respeta la tradicional franquicia histórica de los escalones medios e inferiores en los procesos producción-consumo que constituye el núcleo esencial de la franquicia fiscal interior canaria en el presente caso y su plena adecuación al principio informador correspondiente del artículo 45.1, de la misma forma que la imposición especial estatal vigente actualmente en la Región, así como la ausencia de cualquier medida de intervención administrativa que suponga obstáculo al principio de franquicia administrativa o libertad comercial interior.
+
+### Artículo 1
+
+Artículo 1. Naturaleza del impuesto.
+El impuesto sobre combustibles derivados del petróleo es un tributo de naturaleza indirecta que recae sobre consumos específicos y grava, en fase única y de acuerdo con la presente Ley, las entregas mayoristas de los citados combustibles, cuyo consumo se realice en el ámbito de la Comunidad Autónoma de Canarias.
+Se modifica por el art. 1.2 de la Ley 8/1992, de 4 de diciembre. Ref. BOE-A-1993-381
+
+### Artículo 2
+
+Artículo 2. Ámbito territorial.
+1. El impuesto se aplicará en el ámbito territorial de la Comunidad Autónoma de Canarias.
+A los efectos de este Impuesto, el ámbito espacial a que se refiere el párrafo anterior comprenderá el mar territorial y el espacio aéreo correspondiente.
+2. Lo dispuesto en el apartado anterior se entenderá sin perjuicio de lo establecido en los Tratados y Convenios Internacionales.
+Se modifica por el art. 38.1 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282#a3-10
+
+### Artículo 3
+
+Artículo 3. Hecho imponible.
+1. A los efectos de la presente Ley, el hecho imponible está constituido por la entrega realizada por los comerciantes mayoristas de los productos relacionados en el artículo 9 de esta Ley, con contraprestación económica o sin ella.
+2. A efectos de lo previsto en el número anterior se entiende por entrega de bienes:
+a) La transmisión del poder de disposición sobre los bienes objeto del presente impuesto.
+b) El autoconsumo de los bienes objeto de este impuesto. A tales efectos, se entiende por autoconsumo la aplicación a la actividad empresarial del sujeto pasivo de los productos objeto del impuesto antes de su salida del establecimiento.
+3. Estarán sujetas al impuesto las entregas de biocarburantes mezclados con las gasolinas o gasóleos cuya entrega mayorista se encuentre sujeta a este Impuesto, tributando al mismo tipo impositivo aplicable a las entregas de gasolinas o gasóleos.
+A los efectos de este impuesto, se consideran biocarburantes:
+a) El biodiesel, entendiendo por tal los productos clasificados en los códigos NC 1507 a 1518, ya se utilicen como tales o previa modificación o transformación química, incluidos los productos clasificados en los códigos NC 3826.00.10 y 3826.00.90 obtenidos a partir de aquellos.
+b) El bioetanol, entendiendo por tal el alcohol etílico producido a partir de productos agrícolas o de origen vegetal clasificado en el código NC 22.07.20.00, como tal o previa modificación o transformación química.
+c) El biometanol, entendiendo por tal el alcohol metílico clasificado en el código NC 2905.11.00 y obtenido a partir de productos de origen agrícola o vegetal, ya se utilice como tal o previa modificación o transformación química.
+Se modifica el apartado 3 por el art. 2.1 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+ Redactado conforme a la corrección de errores publicada en BOC núm. 244, de 17 de diciembre de 2014. Ref. BOE-A-2015-187
+ Se añade el apartado 3 por art. 1.1 de la Ley 6/2008, de 23 de diciembre. Ref. BOE-A-2009-2512
+ Se modifica el apartado 1 por el art. 3 de la Ley 4/2001, de 6 de julio. Ref. BOE-A-2001-14279
+ Se modifica por el art. 1.3 y 4 de la Ley 8/1992, de 4 de diciembre. Ref. BOE-A-1993-381
+
+### Artículo 4
+
+Artículo 4. Obligados tributarios y responsables.
+1. Son sujetos pasivos en calidad de contribuyentes, y vienen obligados al pago del impuesto, los comerciantes mayoristas de productos derivados del petróleo gravados por la presente ley.
+2. Son sujetos pasivos en calidad de sustitutos del contribuyente, en los términos previstos en el artículo 36.3 de la Ley 58/2003, de 17 de diciembre, General Tributaria:
+– Los titulares de los depósitos fiscales, cuando el devengo del impuesto se produzca a la salida de dicho depósito fiscal.
+– Los revendedores en el supuesto especial de reventa previsto en el apartado Tres del artículo 9 bis de la presente ley.
+– Las personas o entidades adquirentes de gasóleo, directamente o previa reventa, que se hayan beneficiado de la aplicación del epígrafe 2.2 de la tarifa segunda prevista en el apartado 1 del artículo 9 de la presente ley estarán obligadas al pago del impuesto cuando utilicen el gasóleo en un fin distinto al que ampara su aplicación, como beneficiarias.
+3. Responderán solidariamente de la deuda tributaria quienes posean o comercien objetos del mismo o los transporten, cuando no justifiquen su procedencia o empleo en la forma que reglamentariamente se determine.
+Se modifica por la disposición final 13.1 de la Ley 5/2024, de 26 de diciembre. Ref. BOE-A-2025-4913
+ Se modifica el apartado 3 por la disposición final 8.1 de la Ley 7/2023, de 27 de diciembre. Ref. BOE-A-2024-10011
+ Se modifica por el art. 1.5 a 7 de la Ley 8/1992, de 4 de diciembre. Ref. BOE-A-1993-381
+
+### Artículo 5
+
+Artículo 5. Repercusión.
+1. En la forma que se fije reglamentariamente, el importe de las cuotas devengadas será obligatoriamente repercutido por los obligados tributarios sobre los adquirentes de los combustibles objeto de este impuesto, que quedarán obligados a soportarlo.
+2. No procederá la repercusión de las cuotas resultantes en los supuestos de liquidaciones practicadas como consecuencia de actos de inspección y los de estimación indirecta de bases.
+Se modifica el apartado 1 por la disposición final 13.2 de la Ley 5/2024, de 26 de diciembre. Ref. BOE-A-2025-4913
+
+### Artículo 6
+
+Artículo 6. Base imponible.
+La base estará constituida por las cantidades de productos objeto del impuesto, expresados en las unidades de peso o de volumen señaladas en las tarifas.
+A estos efectos, los productos transferidos en unidades de volumen se entenderán referidos a la temperatura de 15 grados centígrados.
+
+### Artículo 7
+
+Artículo 7. Devengo.
+El impuesto se devenga con motivo de la entrega de los bienes por los comerciantes mayoristas. No obstante, en el supuesto de que la entrega que realice el comerciante mayorista se efectúe para introducir directamente los bienes gravados en un depósito fiscal, el impuesto se devengará en el momento de salida de dicho depósito fiscal.
+En el supuesto especial de reventa previsto en el apartado Tres del artículo 9 bis, el impuesto se devengará en el momento en que el revendedor efectúe la entrega de gasóleo industrial al consumidor final, en las condiciones previstas en dicho apartado.
+Se modifica por la disposición final 13.3 de la Ley 5/2024, de 26 de diciembre. Ref. BOE-A-2025-4913
+ Se modifica por el art. 1.8 de la Ley 8/1992, de 4 de diciembre. Ref. BOE-A-1993-381
+
+### Artículo 8
+
+Artículo 8. Determinación de la base imponible.
+1. La determinación de la base imponible se efectuará en régimen de estimación directa.
+2. La estimación indirecta de la base imponible será aplicable a los supuestos en la forma prevista en el artículo 50 de la Ley General Tributaria.
+
+### Artículo 9
+
+Artículo 9. Tipos impositivos.
+1. El impuesto se exigirá con arreglo a las siguientes tarifas:
+– Tarifa primera:
+Epígrafe 1.1 Gasolinas de bajo contenido en plomo, clasificadas en los códigos NC 2710.12.41, 2710.12.45 y 2710.12.49: 265 euros por 1.000 litros.
+Epígrafe 1.2 Restantes gasolinas clasificadas en el código NC 2710: 288 euros por 1.000 litros.
+– Tarifa segunda:
+Epígrafe 2.1 Gasóleos de uso general clasificados en los códigos NC 2710.19.31 a 2710.19.48 y 2710.20.11 a 2710.20.19: 222 euros por 1.000 litros.
+Epígrafe 2.2 Gasóleos para su utilización en los usos previstos en el régimen especial del gasóleo industrial, regulado en el artículo 9 bis de la presente ley, clasificados en los códigos NC 2710.19.31 a 2710.19.48 y 2710.20.11 a 2710.20.19: 90 euros por 1.000 litros.
+– Tarifa tercera: Fuelóleo clasificados en los códigos NC 2710.19.51 a 2710.19.67 y 2710.20.32 a 2710.20.38: 56 céntimos de euro por tonelada métrica.
+– Tarifa cuarta: Propanos y butanos clasificados en los códigos NC 2711.12 y 2711.13: 50 céntimos de euro por tonelada métrica.
+2. Las referencias a la estructura de los códigos NC a que se refiere el apartado anterior y el artículo 3.3 de esta ley se entenderán, asimismo, realizadas a las actuaciones y variaciones sobre las mismas efectuadas por los órganos competentes.
+Téngase en cuenta que el Gobierno de Canarias, mediante Decreto, publicado únicamente en el BOC, y previo dictamen del Consejo Consultivo, podrá modificar los tipos impositivos aplicables por productos, hasta un máximo del 30 por 100 de incremento o disminución de la tarifa, en función de correlativos de disminución o incremento del precio del crudo del petróleo importado en las islas Canarias, según establece la disposición adicional 1 de esta Ley.
+Se modifica por la disposición final 13.4 de la Ley 5/2024, de 26 de diciembre. Ref. BOE-A-2025-4913
+ Se modifica por la disposición final 8.2 de la Ley 7/2023, de 27 de diciembre. Ref. BOE-A-2024-10011
+ Se modifica por la disposición final 2 de la Ley 7/2020, de 29 de diciembre. Ref. BOE-A-2021-2396
+ Se modifica por el art. 2.2 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+ Se modifica por el art. 38.2 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282#a3-10
+ Se modifica el apartado 2 y se añade el 3 por el art. 1.2 y 3 de la Ley 6/2008, de 23 de diciembre. Ref. BOE-A-2009-2512
+ Se modifica por el art. 6.1 de la Ley 2/2004, de 28 de mayo. Ref. BOE-A-2004-11375
+ Se modifica el apartado 1 por el art. 52 de la Ley 22/2003, de 30 de diciembre. Ref. BOE-A-2004-2228
+ Se modifica el apartado 1 por el art. 50 de la Ley 13/2002, de 27 de diciembre. Ref. BOE-A-2003-4501
+ Se modifica el apartado 1 por el art. 49 de la Ley 9/2001, de 28 de diciembre. Ref. BOE-A-2002-4923
+ Téngase en cuenta, en relación con el tipo impositivo aplicable a la gasolina a la que se le han añadido aditivos destinada a sustituir a la gasolina con plomo fijada en 38.642 pesetas (232,24 euros) por mil litros, la disposición adicional 4 de la Ley 4/2001, de 6 de julio. Ref. BOE-A-2001-14279
+ Se modifica el apartado 1 por el art. 46 de la Ley 7/2000, de 28 de diciembre. Ref. BOE-A-2001-1756
+ Se modifica el apartado 1 por el art. 41 de la Ley 14/1999, de 28 de diciembre. Ref. BOE-A-2000-1076
+ Se modifica el apartado 1 por el art. 29 de la Ley 11/1998, de 23 de diciembre. Ref. BOE-A-1999-1471
+ Se modifica el apartado 1 por el art. 29 de la Ley 13/1997, de 23 de diciembre. Ref. BOE-A-1998-2498
+ Se modifica el apartado 1 por el art. 30 de la Ley 5/1996, de 27 de diciembre. Ref. BOE-A-1997-3810
+ Se modifica el apartado 1 por el art. 43 de la Ley 9/1995, de 28 de diciembre. Ref. BOE-A-1996-1503
+ Se modifica el apartado 1 por el art. 45 de la Ley 14/1994, de 27 de diciembre. Ref. BOE-A-1995-2525
+ Se modifica el apartado 1 por el art. 35 de la Ley 3/1993, de 27 de diciembre. Ref. BOE-A-1994-1665
+ Se modifica el apartado 1 por el art. 32 de la Ley 10/1992, de 23 de diciembre. Ref. BOE-A-1993-9146
+ Se modifica el apartado 1 por el art. 28 de la Ley 11/1991, de 26 de diciembre. Ref. BOE-A-1992-6355
+ Se modifica el apartado 1 por el art. 26 de la Ley 16/1990, de 26 de diciembre. Ref. BOE-A-1991-7557
+ Se modifica el apartado 1 por el art. 27 de la Ley 14/1989, de 26 de diciembre. Ref. BOE-A-1990-5571
+ Se modifica el apartado 1, con efectos de 1 de enero de 1989, por la disposición adicional 5 por la Ley 3/1989, de 24 de febrero. Ref. BOE-A-1989-9148
+ Se modifica el apartado 1 por la disposición adicional 5 de la Ley 13/1987, de 29 de diciembre. Ref. BOE-A-1988-5825
+ Se modifica el apartado 1 por la disposición adicional 6 de la Ley 12/1986, de 30 de diciembre. Ref. BOE-A-1987-3156
+
+### Artículo 9 bis
+
+Artículo 9 bis. Régimen especial del gasóleo industrial.
+Uno. Contenido.
+El régimen especial del gasóleo industrial regula las condiciones para la aplicación del tipo de gravamen contenido en el epígrafe 2.2 de la tarifa segunda previsto en el apartado 1 del artículo 9 de la presente ley, que en adelante se denominará tipo reducido, así como otros elementos esenciales del impuesto en las entregas de gasóleo industrial.
+Dos. Supuesto general: adquisición directa.
+1. En el caso de que la persona o entidad adquirente en la entrega de gasóleo industrial sujeta al impuesto vaya a utilizarlo directamente como consumidor final en la finalidad amparada por la norma, deberán cumplirse los siguientes requisitos:
+a) Subjetivos: La persona o entidad adquirente debe estar inscrita en el censo del régimen especial del gasóleo industrial.
+La regulación del censo, que tendrá carácter público en lo relativo a la comprobación de si una persona o entidad se encuentra censada, contendrá los datos identificativos de la persona o entidad obligada a censarse, los datos de la actividad industrial que desarrolla y de su localización, datos de los hornos y calderas afectos a la actividad industrial, así como cualquier otros datos que establezca la persona titular de la consejería competente en materia tributaria, que regulará el procedimiento de alta y modificación censal.
+La inscripción censal generará un número de registro censal.
+b) Objetivos: La persona o entidad adquirente está obligada a utilizar directamente la totalidad del gasóleo, adquirido en la entrega sujeta al impuesto, como combustible en calderas y hornos afectos al desarrollo de actividades industriales distintas de actividades o instalaciones de generación, distribución y suministro de la energía y productos energéticos, y de actividades agrarias, forestales, ganaderas y pesqueras.
+Queda prohibida la utilización del gasóleo al que se haya aplicado el tipo reducido en vehículos, embarcaciones, artefactos y maquinarias distintos de los hornos y calderas afectos al desarrollo de actividades industriales.
+c) Formales: La persona o entidad adquirente está obligada, respecto de cada una de las operaciones gravadas al tipo reducido, a la entrega de una declaración al transmitente, que tendrá numeración correlativa, que deberá ser firmada electrónicamente por persona autorizada, y contendrá:
+– Los datos identificativos de la persona o entidad adquirente emisora de la declaración y el número del registro censal asignado por la Agencia Tributaria Canaria.
+– Los datos identificativos del transmitente.
+– La manifestación de que será el consumidor final del gasóleo y que cumple las condiciones para la aplicación del tipo reducido.
+La no aportación de la declaración por parte de la persona o entidad adquirente al transmitente, su aportación extemporánea, su aportación sin firma electrónica o con una firma que corresponda a una persona no autorizada, o sin los datos de identificación obligatorios, supondrán la imposibilidad de aplicar el tipo reducido por parte del transmitente.
+En la factura que se expida, en la que únicamente se podrá documentar la entrega de gasóleo a la que resulte de aplicación el tipo reducido, la persona o entidad transmitente deberá hacer constar el número de la declaración emitida por el adquirente. No obstante, una misma declaración podrá amparar varios suministros materiales siempre que se trate de la misma fecha de devengo y se documente en una única factura.
+La declaración deberá conservarse por la persona o entidad adquirente y por el transmitente, durante el plazo de prescripción.
+2. La persona o entidad adquirente que, habiendo expedido la declaración a que se refiere el número anterior, haya utilizado el gasóleo adquirido en un fin distinto al que ampara la aplicación del tipo reducido, tendrá la obligación de presentar la autoliquidación correspondiente al periodo de liquidación mensual en que se produjo el incumplimiento, autoliquidando la diferencia de cuota del impuesto no repercutida por el transmitente con los correspondientes intereses de demora. La diferencia de cuota tributaria se calculará aplicando la tarifa prevista en el epígrafe 2.1 de la tarifa segunda del artículo 9 de la presente ley y la cuota resultante de aplicar el tipo reducido, ambas determinadas respecto a los litros de gasóleo utilizados en un fin distinto al exigido para la aplicación del tipo reducido.
+3. El transmitente deberá comunicar a la Agencia Tributaria Canaria, con la periodicidad y forma que apruebe la persona titular la dirección de esta, los datos relativos a las entregas de gasóleo con aplicación del tipo reducido.
+Tres. Supuesto especial de reventa (adquisición indirecta).
+1. En el caso de que la persona o entidad adquirente del gasóleo industrial en una entrega sujeta al impuesto –en adelante, revendedor– lo afecte a la actividad comercial de reventa a otra persona o entidad –en adelante, consumidor final– que lo vaya a utilizar directamente en el fin que ampara la aplicación del tipo reducido, aquella entrega se realizará en régimen suspensivo, devengándose el impuesto cuando se efectúe la entrega a ese consumidor final por parte del revendedor. El revendedor tendrá la obligación de cumplir la obligación tributaria principal, así como las obligaciones formales inherentes a la misma.
+Para poder acogerse a esta modalidad de reventa, será requisito necesario que el revendedor sea autorizado previamente por la Agencia Tributaria Canaria, previa constitución de una garantía, que se formalizará a través del modelo de aval o certificado de seguro de caución que apruebe la persona titular de la Agencia Tributaria Canaria.
+La entrega al consumidor final por parte del revendedor deberá efectuarse en el plazo de un mes desde la fecha de adquisición que conste en el albarán de entrega emitido por el transmitente; en caso contrario, se entenderá ultimado el régimen suspensivo, surgiendo a cargo del revendedor la obligación de ingresar la cuota tributaria correspondiente aplicando la tarifa prevista en el epígrafe 2.1 de la tarifa segunda del artículo 9 de la presente ley a través de la correspondiente autoliquidación.
+2. El revendedor que se acoja a esta modalidad:
+a) Solo podrá hacer entregas de gasóleo a tipo reducido a consumidores finales.
+b) Deberá presentar en cada operación una declaración a la persona o entidad transmitente comunicando que no es el consumidor final y que pretende entregar el gasóleo a un consumidor final, por lo que se acoge a la modalidad especial de reventa, identificando la autorización previa de la Agencia Tributaria Canaria para poder acogerse a la modalidad de reventa.
+c) Deberá comunicar a la Agencia Tributaria Canaria, con la periodicidad y forma aprobadas por la persona titular de su dirección, los datos relativos a las entregas de gasóleo efectuadas con aplicación del tipo reducido.
+d) Deberá llevar un libro de registro de reventa de gasóleo con relación al gasóleo adquirido bajo las condiciones establecidas en el presente apartado Tres, el cual estará a disposición de la Agencia Tributaria Canaria y cuyo contenido y asientos quedarán sometidos a las siguientes reglas:
+1.ª) En el cargo se anotarán las adquisiciones de gasóleo con expresión de la fecha de entrada y cantidad de combustible expresada en litros.
+2.ª) Dichos cargos deberán estar soportados mediante los albaranes de entrega emitidas por la persona o entidad que suministra el combustible.
+3.ª) En la data relativa a cada cargo concreto se anotarán las entregas de gasóleo, con expresión de la fecha de entrega, cantidad de combustible expresada en litros y la identificación del adquirente.
+4.ª) Igualmente, se anotará como data el supuesto de ultimación del régimen suspensivo previsto en el párrafo tercero del apartado 1 anterior, haciendo constar como fecha de entrega la fecha del mes siguiente al de adquisición y como adquirente al propio revendedor.
+5.ª) La data se soportará mediante los albaranes de entrega emitidos por el revendedor y por el transcurso del plazo de un mes al que se refiere el párrafo anterior.
+6.ª) Los asientos deberán efectuarse dentro de las cuarenta y ocho horas siguientes al momento de producirse el movimiento o proceso que se registra. La falta de asientos en un día determinado, cuando los hubiera en días posteriores, se entenderá como falta de movimiento en esa fecha.
+3. En los supuestos de reventa o adquisición indirecta, el consumidor final que adquiera el producto al revendedor deberá cumplir los requisitos subjetivos, objetivos y formales siguientes:
+a) Estar inscrito en el censo del régimen especial del gasóleo industrial.
+b) El consumidor final está obligado a utilizar directamente la totalidad del gasóleo, adquirido en la entrega sujeta al impuesto, como combustible en calderas y hornos afectos al desarrollo de actividades industriales distintas de actividades o instalaciones de generación, distribución y suministro de la energía y productos energéticos, y de actividades agrarias, forestales, ganaderas y pesquera, quedando prohibida su utilización en vehículos, embarcaciones, artefactos y maquinarias distintos de los citados hornos y calderas.
+c) El consumidor final está obligado, respecto de cada una de las operaciones gravadas al tipo reducido, a la entrega de una declaración al revendedor, que tendrá numeración correlativa, que deberá ser firmada electrónicamente por persona autorizada y contendrá:
+– Los datos identificativos del consumidor final emisor de la declaración y el número del registro censal asignado por la Agencia Tributaria Canaria.
+– Los datos identificativos del revendedor.
+– La manifestación de que será el consumidor final del gasóleo y que cumple las condiciones para la aplicación del tipo reducido.
+La no aportación de la declaración por parte del consumidor final al revendedor, su aportación extemporánea, su aportación sin firma electrónica o con una firma que corresponda a una persona no autorizada, o sin los datos de identificación obligatorio, supondrán la imposibilidad de aplicar el tipo reducido por parte del revendedor.
+En la factura que se expida por el revendedor, en la que únicamente se podrá documentar la entrega de gasóleo a la que resulte de aplicación el tipo reducido, este deberá hacer constar el número de la declaración emitida por el consumidor final. No obstante, una misma declaración podrá amparar varios suministros materiales, siempre que se trate de la misma fecha de devengo y se documente en una única factura.
+La declaración deberá conservarse por el consumidor final y por el revendedor durante el plazo de prescripción.
+Las personas o entidades adquirentes que, habiendo expedido la declaración a que se refiere el número anterior, hayan utilizado el gasóleo adquirido en un fin distinto al que ampara la aplicación del tipo reducido, tendrán la obligación de presentar la autoliquidación correspondiente al periodo de liquidación mensual en el que se produjo el incumplimiento, autoliquidando la diferencia de cuota del impuesto no repercutida por el revendedor con los correspondientes intereses de demora. La diferencia de cuota tributaria se calculará aplicando la tarifa prevista en el epígrafe 2.1 de la tarifa segunda del artículo 9 de la presente ley y la cuota resultante de aplicar el tipo reducido, ambas determinadas respecto a los litros de gasóleo utilizados en un fin distinto al exigido para la aplicación del tipo reducido.
+El revendedor deberá comunicar a la Agencia Tributaria Canaria, con la periodicidad y forma que apruebe la persona titular de su dirección, los datos relativos a las entregas de gasóleo con aplicación del tipo reducido.
+Cuatro. A efectos de lo establecido en este artículo se entenderá por:
+– Gasóleo industrial: Gasóleo al que resulta de aplicación el tipo reducido previsto en el epígrafe 2.2 de la tarifa segunda del artículo 9 de la presente ley por destinarse a ser utilizado como combustible en calderas y hornos afectos al desarrollo de actividades industriales distintas de actividades o instalaciones de generación, distribución y suministro de la energía y productos energéticos, y de actividades agrarias, forestales, ganaderas y pesqueras.
+– Adquisición directa: Modalidad de entrega en la cual la persona o entidad adquirente en la entrega de gasóleo industrial sujeta al impuesto vaya a utilizarlo directamente como combustible en calderas y hornos afectos al desarrollo de actividades industriales para los que la ley prevé la aplicación del tipo reducido.
+– Adquisición indirecta (supuesto especial de reventa): Modalidad de entrega en la cual la persona o entidad adquirente en la entrega de gasóleo industrial sujeta al impuesto (revendedor) lo afecte a la actividad comercial de reventa al consumidor final que lo utilice directamente como combustible en calderas y hornos afectos al desarrollo de actividades industriales para los que la ley prevé la aplicación del tipo reducido.
+– Actividades industriales: Las dirigidas a la obtención, reparación, mantenimiento, transformación o reutilización de productos industriales, el envasado y embalaje, así como el aprovechamiento, recuperación y eliminación de residuos o subproductos, cualquiera que sea la naturaleza de los recursos y procesos técnicos utilizados.
+Cinco. La persona titular de la consejería competente en materia tributaria podrá establecer la obligación de incorporar al gasóleo industrial trazadores y marcadores para la aplicación del tipo reducido.
+Se añade por la disposición final 13.5 de la Ley 5/2024, de 26 de diciembre. Ref. BOE-A-2025-4913
+ Téngase en cuenta lo establecido en la disposición transitoria quinta de la citada ley, hasta que se haya creado el Censo del régimen especial del gasóleo industrial al que se refiere el presente artículo.
+
+### Artículo 10
+
+Artículo 10. Exenciones.
+Estarán exentas en las condiciones que reglamentariamente se determinen:
+a) La entrega de combustibles sujeta al impuesto cuando dichos bienes se destinen directamente a la exportación.
+b) Las entregas de combustibles que se destinen al consumo de los automóviles propiedad de las representaciones y Agentes Consulares acreditados en Canarias, en régimen de reciprocidad y de acuerdo con los términos establecidos en los Convenios Internacionales suscritos por España en esta materia.
+c) Las entregas de productos que se destinen a la obtención de otros mediante un tratamiento definido o una transformación química, conforme a la consideración que a tales efectos establece el Arancel de Aduanas.
+d) Las entregas de productos que se destinen a la obtención de otros que sean objeto del impuesto mediante un procedimiento distinto a los previstos en el apartado c) anterior.
+e) Las entregas de productos destinados a ser utilizados como combustibles por sus propios fabricantes, en los procesos de obtención de los productos clasificados en las partidas 27.10 a 27.16, ambas inclusive, del Arancel de Aduanas.
+f) Las entregas de gasóleo, incluido en el código NC2710, que se destine a ser utilizado como combustible para los grupos generadores por las empresas productoras de energía eléctrica en Canarias, así como el que vaya a ser utilizado como combustible para la cogeneración de la misma energía por cualquiera de los productores autorizados en Canarias.
+g) Se declaran exentas las entregas a los aereoclubes y escuelas o centros de formación de pilotaje de gasolina de aviación clasificada en la partida 2710.12.31 del Arancel Integrado de Aplicación (TARIC), siempre y cuando el consumo de combustible se destine a las actividades de formación de pilotaje comercial, excluido el de recreo.
+h) Las entregas de combustibles que se vayan a utilizar en el transporte marítimo regular de pasajeros y de mercancías entre las Islas Canarias.
+Se modifica la letra a) y se añade la g) por el art. 2.3 y 4 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+ Redactado conforme a la corrección de errores publicada en BOC núm. 244, de 17 de diciembre de 2014. Ref. BOE-A-2015-187
+ Se deroga la letra g) por el art. 38.3 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282#a3-10
+ Se añade la letra h) por la disposición adicional 11.1 de la Ley 9/2001, de 28 de diciembre. Ref. BOE-A-2002-4923
+ Se modifica la letra f) por la disposición adicional 29 de la Ley 13/1997, de 23 de diciembre. Ref. BOE-A-1998-2498
+ Se modifica por el art. 2 de la Ley 8/1992, de 4 de diciembre. Ref. BOE-A-1993-381
+ Se añade, con efectos de 1 de enero de 1988, la letra ñ) por el art. único de la Ley 8/1988, de 12 de diciembre. Ref. BOE-A-1989-4373
+ Véase la disposición transitoria de la citada ley.
+
+### Artículo 11
+
+Artículo 11. Concepto exportación.
+1. Se considera exportación, la salida de bienes objeto de este impuesto de su ámbito territorial de aplicación. También se considera exportación la entrada de dichos bienes en Areas Exentas, Zonas Francas y Depósitos Fiscales cuando hubieran sido objeto de una venta en firme con destino fuera del ámbito de aplicación territorial, en la forma que reglamentariamente se determine.
+2. Tienen igualmente carácter de exportación el suministro de bienes con destino a:
+a) La construcción, transformación, reparación y mantenimiento de los buques afectos esencialmente a la navegación marítima internacional, así como de los destinados, exclusivamente, al salvamento, asistencia marítima o pesca costera, con exclusión de los buques de guerra, deportivos o de recreo.
+b) La construcción, transformación, reparación y mantenimiento de las aeronaves utilizadas exclusivamente por las compañías que se dediquen esencialmente a la navegación aérea internacional.
+c) El avituallamiento de los buques que realicen navegación marítima internacional, de los buques afectos esencialmente al salvamento o a la asistencia marítima, con exclusión del suministro de provisiones de a bordo cuando la duración de su navegación sin escala no exceda de cuarenta y ocho horas, de los buques afectos a la pesca costera, con exclusión del suministro de provisiones de a bordo. En ningún caso se incluye el avituallamiento de buques deportivos o de recreo o, en general, de uso privado.
+d) El avituallamiento de aeronaves que realicen navegación aérea internacional, en régimen de reciprocidad, excluidas las de uso privado.
+3. Los bienes destinados a las operaciones señaladas en el número 2 anterior, se consideran como salidas del ámbito territorial de aplicación del impuesto.
+4. A efectos de esta Ley se considera:
+a) Navegación marítima o aérea internacional: La realizada partiendo del ámbito territorial de aplicación de cada impuesto y que concluya fuera del mismo o viceversa.
+Asimismo se considera navegación marítima internacional la realizada por buques afectos a la navegación en alta mar que se dedique a una actividad industrial, comercial o pesquera distinta del transporte, siempre que la duración de la navegación sin escalas exceda de 48 horas.
+b) Productos de avituallamiento: Las provisiones de abordo, los combustibles y carburantes.
+c) Provisiones de abordo: Los productos destinados exclusivamente al consumo de la tripulación y los pasajeros.
+Se modifica el apartado 2.c) por el art. 2.5 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+ Redactado conforme a la corrección de errores publicada en BOC núm. 244, de 17 de diciembre de 2014. Ref. BOE-A-2015-187
+ Se modifica el apartado 2.a) y b) por el art. 1.9 de la Ley 8/1992, de 4 de diciembre. Ref. BOE-A-1993-381
+
+### Artículo 12
+
+Artículo 12. Devoluciones a la exportación.
+1. Tendrán derecho a la devolución del Impuesto los exportadores de los combustibles objeto de este Impuesto, por las cuotas soportadas o incorporadas a los precios de los productos exportados.
+2. En los supuestos de devolución, el importe de las cuotas que se devuelvan será el mismo que el de las soportadas. No obstante, cuando no fuera posible determinar este importe, las cuotas se determinarán aplicando el tipo vigente tres meses antes de la fecha en que se realice la exportación que origine el derecho a la devolución.
+3. La devolución se solicitará por los exportadores a la Administración Tributaria Canaria en la forma, plazos y condiciones que establezca el consejero competente en materia tributaria.
+Se modifica por la disposición final 4 de la Ley 8/2012, de 27 de diciembre. Ref. BOE-A-2013-793
+ Este precepto, reiterando su contenido, fue modificado por la disposición final 1 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-795
+ Se modifica por el art. 1.10 de la Ley 8/1992, de 4 de diciembre. Ref. BOE-A-1993-381
+
+### Artículo 12 bis
+
+Artículo 12 bis. Devoluciones a agricultores y transportistas.
+1. Los agricultores y transportistas tendrán derecho a la devolución parcial del impuesto que grava:
+– La gasolina profesional utilizada en vehículos híbridos eléctricos y vehículos bicombustibles que se hallen afectos al desarrollo de las actividades de agricultura y transporte público, con independencia de cuál sea el título que permita el uso de estos, y cuyos datos estén debidamente inscritos en el Censo de Agricultores y Transportistas.
+– El gasóleo profesional utilizado en maquinaria, artefactos y vehículos que se hallen afectos al desarrollo de las actividades de agricultura y transporte público, con independencia de cuál sea el título que permita el uso de estos, y cuyos datos estén debidamente inscritos en el Censo de Agricultores y Transportistas.
+En ningún caso tendrán derecho a la devolución parcial del impuesto que grava el gasóleo o gasolina que se utilice como combustible en el motor de los vehículos afectos al transporte privado complementario, salvo que se utilice por los agricultores para el transporte de los productos de sus explotaciones agrícolas.
+Los vehículos en los que se utilice el combustible con derecho a devolución deberán ser los siguientes:
+a) Los vehículos de motor o conjuntos de vehículos acoplados destinados exclusivamente al transporte de mercancías por carretera, por cuenta ajena, incluidas en las categorías N2 o N3.
+Son vehículos de categoría N2 los destinados al transporte de mercancías, cuya masa máxima autorizada (MMA) sea superior a 3,5 toneladas e igual o inferior a 12 toneladas.
+Son vehículos de categoría N3 los destinados al transporte de mercancías, cuya MMA sea superior a 12 toneladas.
+b) Los vehículos de motor destinados al transporte de pasajeros por carretera, regular o discrecional, incluidos en las categorías M2 o M3.
+Son vehículos de categoría M2 los destinados al transporte de personas que tengan, además del asiento de conductor, más de ocho plazas y cuya MMA sea inferior o igual a 5 toneladas.
+Son vehículos M3 los destinados al transporte de personas que tengan, además del asiento del conductor, más de ocho plazas y cuya MMA sea superior a 5 toneladas.
+c) Los taxis.
+Se entiende por taxi el vehículo destinado al servicio público de viajeros bajo licencia municipal o del cabildo y provisto de aparato taxímetro.
+2. La base de la devolución para los transportistas y agricultores estará constituida por el volumen de gasolina y gasóleo profesional que haya sido adquirido y sea destinado a su utilización como combustible en los vehículos con derecho a devolución.
+3. Tratándose de la gasolina profesional, el tipo de la devolución –expresado en euros por mil litros–, estará constituido por la diferencia positiva entre el tipo impositivo del epígrafe 1.1 de la tarifa primera del impuesto y el tipo aplicable a la gasolina profesional, ambos vigentes en el momento de generarse el derecho a la devolución.
+A los solos efectos de esta devolución, el tipo de la gasolina profesional al que se refiere este artículo será de 85,75 euros por mil litros.
+Tratándose del gasóleo profesional, el tipo de la devolución –expresado en euros por mil litros–, estará constituido por la diferencia positiva entre el tipo impositivo del epígrafe 2.1 de la tarifa segunda del impuesto y el tipo aplicable al gasóleo profesional, ambos vigentes en el momento de generarse el derecho a la devolución.
+A los solos efectos de esta devolución, el tipo del gasóleo profesional a que se refiere este artículo será de 71,86 euros por mil litros.
+Estos tipos podrán ser modificados por la Ley de Presupuestos de la Comunidad Autónoma de Canarias.
+Cuando por circunstancias excepcionales los precios de los combustibles varíen siendo esta variación significativa respecto a los precios exigibles en los meses anteriores, así como en los casos en los que el régimen de devolución previsto en este precepto ocasione distorsión económica a los beneficiarios del mismo, se autoriza a la persona titular de la consejería competente en materia tributaria a modificar para un período concreto, el tipo del gasóleo profesional y de la gasolina profesional.
+4. Únicamente dispondrán del derecho a la devolución previsto en este artículo los agricultores y transportistas que estén dados de alta en el Censo de Agricultores y Transportistas y respecto de los vehículos debidamente inscritos en dicho censo.
+El Censo de Agricultores y Transportistas tendrá vigencia durante cada año natural.
+Los agricultores o transportistas que viniesen desarrollando actividades agrícolas o de transporte el día 1 de enero de cada año natural estarán obligados a presentar en el mes de enero de cada año una declaración en la que se comunique a la Agencia Tributaria Canaria los vehículos que se encuentren afectos al desarrollo de la actividad agrícola o de transporte en el momento de la presentación de dicha declaración. Los efectos de la declaración serán desde el 1 de enero del año de presentación. Todo ello sin perjuicio de la comunicación de cualquier variación de los datos censales en cualquier momento del periodo anual de vigencia del censo.
+La no presentación en el mes de enero de la declaración a la que se refiere el párrafo anterior supondrá la imposibilidad de obtener la devolución en tanto no se presente la misma. La presentación de la declaración supondrá, en su caso, el derecho a la devolución con efectos desde el día de la presentación.
+Los agricultores o transportistas que inicien la actividad agrícola o de transporte podrán darse de alta en el censo en cualquier momento, surtiendo efectos desde la fecha de presentación de la declaración. Todo ello sin perjuicio de cumplir anualmente lo dispuesto en los párrafos anteriores de este apartado.
+5. Transcurridos seis meses a contar desde el día siguiente a la finalización del periodo de devolución sin que se haya ordenado el pago de la devolución de la gasolina o gasóleo profesional por causas imputables a la Agencia Tributaria Canaria, se aplicará a la cantidad pendiente de devolución el interés de demora a que se refiere el artículo 26.6 de la Ley 58/2003, de 17 de diciembre, General Tributaria, desde el día siguiente a la finalización de dicho plazo y hasta la fecha en que se ordene su pago.
+6. A los efectos de lo establecido en este artículo, se entenderá por:
+– Agricultor: el titular de una explotación agrícola, forestal o ganadera que obtenga directamente productos naturales, vegetales o animales de sus cultivos o explotación para su transmisión a terceros sin transformación, elaboración o manufactura.
+Se considerarán explotaciones agrícolas, forestales o ganaderas las siguientes:
+1.º) Las que realicen actividades agrícolas en general, incluyendo el cultivo de las plantas ornamentales o medicinales, flores, champiñones, especias, simientes o plantones, cualquiera que sea el lugar de obtención de los productos, aunque se trate de invernaderos o viveros.
+2.º) Las dedicadas a la silvicultura.
+3.º) La ganadería, avicultura, apicultura, cunicultura, sericultura y la cría de especies cinegéticas.
+No se considerarán explotación agrícola, forestal o ganadera las explotaciones cinegéticas de carácter deportivo o recreativo.
+– Gasóleo profesional: el utilizado por los transportistas como combustible en los vehículos destinados al transporte de mercancías y viajeros y el utilizado como combustible por el agricultor en los vehículos afectos a la explotación agrícola, forestal o ganadera.
+– Gasolina profesional: la gasolina utilizada por los transportistas como combustible en los vehículos destinados al transporte de mercancías y viajeros, y la utilizada como combustible por el agricultor en los vehículos afectos a la explotación agrícola, forestal o ganadera, siempre que se trate, tanto en un caso como en el otro, de vehículos híbridos eléctricos o vehículos bicombustibles.
+– Transporte público: el que se lleva a cabo por cuenta ajena, mediante retribución económica.
+– Transporte terrestre de mercancías o viajeros: la actividad de transporte público realizada en los vehículos reseñados en el apartado 1 del presente artículo.
+– Transportista: el titular de la actividad del transporte público terrestre de mercancías o viajeros que se halle en posesión del correspondiente título administrativo que, en su caso, habilita para el ejercicio de dicha actividad, de acuerdo con lo previsto en la Ley 13/2007, de 17 de mayo, de Ordenación del Transporte por Carretera de Canarias, y en su normativa de desarrollo. Asimismo, los titulares deberán poseer los permisos y autorizaciones precisos para el ejercicio de su actividad que deban expedir las autoridades autonómicas o locales.
+– Vehículos: aparatos aptos para circular por las vías y terrenos públicos y definidos como tales en el anexo II del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre.
+– Vehículo bicombustible: aquel vehículo equipado con dos sistemas de almacenamiento de combustible independientes.
+– Vehículo híbrido eléctrico: el que combina como fuente de energía un motor de combustión interna de alta eficiencia y un motor eléctrico, llegando en determinadas ocasiones a funcionar solo con el motor eléctrico que utiliza como fuente de alimentación volantes de inercia, ultracondensadores o baterías eléctricas.
+– Vías y terrenos públicos: los descritos en el artículo 2 del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, aprobado por el Real Decreto Legislativo 6/2015, de 30 de octubre.
+7. La persona titular de la consejería competente en materia tributaria podrá:
+a) Establecer la obligación de que los interesados presenten declaraciones tributarias comunicando los datos de su actividad que sean relevantes para la gestión y comprobación de la devolución.
+b) Establecer la obligación de utilizar, en el momento de adquisición del combustible que genere el derecho a la devolución, un sistema de identificación que tenga la consideración de declaración tributaria de solicitud de devolución ante la Agencia Tributaria Canaria.
+c) Las condiciones, los requisitos y el procedimiento para la práctica de la devolución que se regula en este artículo.
+Se modifica, con efectos de 1 de enero de 2026, el apartado 1 por la disposición final 14 de la Ley 9/2025, de 23 de diciembre. Ref. BOE-A-2026-7560
+ Se modifica por la disposición final 13.6 de la Ley 5/2024, de 26 de diciembre. Ref. BOE-A-2025-4913
+ Téngase en cuenta que, en cuanto al procedimiento para la devolución del impuesto contenida en esta disposición, entrará en vigor cuando se apruebe por la persona titular de la consejería competente en materia de hacienda, la orden por la que se establezca el sistema informático y organizativo que de soporte al procedimiento para la devolución del impuesto, según establece la disposición final 21 de la citada Ley.
+ Se modifican los apartados 4 y 7 por la disposición final 5.1 y 2 de la Ley 7/2022, de 28 de diciembre. Ref. BOE-A-2023-5961
+ Se modifica por el art. 2.1 de la Ley 17/2019, de 9 de mayo. Ref. BOE-A-2019-8795
+ Esta modificación tiene efectos desde el 1 de julio de 2019, según establece la disposición final 2 de la citada ley.
+ Se modifica el apartado 1 por el art. 2.6 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+ Redactado conforme a la corrección de errores publicada en BOC núm. 244, de 17 de diciembre de 2014. Ref. BOE-A-2015-187
+ Se añade por el art. 1.1 de la Ley 3/2008, de 31 de julio. Ref. BOE-A-2008-14519
+ Este precepto tiene efectos desde el 1 de enero de 2008, según establece la disposición final única.1 de la citada ley.
+
+### Artículo 13
+
+Artículo 13. Normas de gestión.
+1. Los obligados tributarios estarán obligados a presentar ante la Agencia Tributaria Canaria las correspondientes declaraciones tributarias y, en su caso, a practicar las autoliquidaciones, así como a presentar las garantías en las formas, plazos y cuantías que se determinen reglamentariamente. Asimismo, estarán obligados a presentar las declaraciones censales que, respecto a este tributo, se exijan reglamentariamente, así como a presentar una declaración informativa de las cantidades suministradas de cada producto sujeto al impuesto, con arreglo a los diseños de formato, condiciones y plazos que se establezcan mediante orden de la persona titular de la consejería competente en materia tributaria.
+2. Asimismo, se podrá establecer a cargo de los titulares de establecimientos de venta al público al por menor la obligación de presentar una declaración informativa de los suministros recibidos sujetos a este tributo y sus transmitentes, con arreglo a los diseños de formato, condiciones y plazos que se establezcan mediante orden del Consejero competente en materia de hacienda.
+Se modifica el apartado 1 por la disposición final 13.7 de la Ley 5/2024, de 26 de diciembre. Ref. BOE-A-2025-4913
+ Se modifica por el art. 6.2 de la Ley 2/2004, de 28 de mayo. Ref. BOE-A-2004-11375
+ Se modifica por el art. 1.11 de la Ley 8/1992, de 4 de diciembre. Ref. BOE-A-1993-381
+
+### Artículo 14
+
+Artículo 14. Reclamación económico-administrativa.
+Serán reclamables en vía económico-administrativa ante la Junta Económico-Administrativa de Canarias los actos de aplicación de este impuesto y la imposición de sanciones tributarias relativas al mismo.
+Se modifica por el art. 2.7 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+ Redactado conforme a la corrección de errores publicada en BOC núm. 244, de 17 de diciembre de 2014. Ref. BOE-A-2015-187
+
+### Artículo 15
+
+Artículo 15. Infracciones y sanciones. Régimen general.
+EI régimen de infracciones y sanciones en materia de la presente Ley se regirá por la Ley General Tributaria y por las siguientes normas:
+a) El incumplimiento de la obligación de repercutir se calificará como infracción tributaria simple sancionable con multa de 1.000 a 1.000.000 de pesetas.
+b) Para la graduación de las sanciones a imponer por infracciones tributarias graves, se considerará el hecho de haberse cometido la infracción mediante el quebrantamiento de las normas de intervención o control.
+c) La comisión repetida de infracciones tributarias graves podrá sancionarse, además con el cierre temporal, por un periodo de un año, o definitivo de las instalaciones que se impondrá por la Consejería de Hacienda o el Gobierno respectivamente.
+d) El incumplimiento de las obligaciones que se establezcan en relación con el funcionamiento de los depósitos fiscales podrá ser sancionado, mediante Ley, con la revocación de la autorización de dichos depósitos.
+
+### Artículo 16
+
+Artículo 16. Infracciones y sanciones. Devolución de la gasolina profesional y el gasóleo profesional.
+1. Constituirá infracción tributaria grave la inobservancia de la prohibición prevista en el apartado 6 del artículo 12-bis de la presente ley.
+La infracción establecida en el párrafo anterior se sancionará:
+a) Cuando el motor del vehículo, artefacto o maquinaria con el que se ha cometido la infracción tenga hasta 10 CV de potencia fiscal, con una multa pecuniaria fija de 600 euros y un mes de precintado e inmovilización del vehículo, artefacto o maquinaria. Si del precintado o inmovilización se dedujera grave perjuicio para el interés público general, la sanción pecuniaria será de 1.200 euros.
+b) Cuando el motor del vehículo, artefacto o maquinaria con el que se ha cometido la infracción tenga más de 10 hasta 25 CV de potencia fiscal, con una multa pecuniaria fija de 1.800 euros y de dos meses de precintado e inmovilización del vehículo, artefacto o maquinaria. Si del precintado o inmovilización se dedujera grave perjuicio para el interés público general, la sanción pecuniaria será de 3.600 euros.
+c) Cuando el motor del vehículo, artefacto o maquinaria con el que se ha cometido la infracción tenga más de 25 hasta 50 CV de potencia fiscal, con una multa pecuniaria fija de 3.600 euros y tres meses de precintado e inmovilización del vehículo, artefacto o maquinaria. Si del precintado o inmovilización se dedujera grave perjuicio para el interés público general, la sanción pecuniaria será de 7.200 euros.
+d) Cuando el motor del vehículo, artefacto o maquinaria con el que se ha cometido la infracción tenga más de 50 CV de potencia fiscal, con una multa pecuniaria fija de 6.000 euros y cuatro meses de precintado e inmovilización del vehículo, artefacto o maquinaria. Si del precintado o inmovilización se dedujera grave perjuicio para el interés público general, la sanción pecuniaria será de 12.000 euros.
+En los casos de comisión repetida de esta clase de infracción, se duplicarán los importes y períodos establecidos en este número. Esta circunstancia se apreciará cuando el infractor, dentro de los dos años anteriores a la comisión de la nueva infracción, hubiera sido sancionado por resolución firme en vía administrativa por infringir la prohibición de uso de la gasolina profesional y del gasóleo profesional establecido en el apartado 6 del artículo 12-bis de la presente ley.
+2. Constituyen infracciones tributarias:
+a) Comunicar datos falsos, incompletos o inexactos a través de la declaración de alta o modificación del Censo de Agricultores y Transportistas que suponga una devolución indebida del impuesto que grava la gasolina profesional y el gasóleo profesional.
+b) La no presentación o presentación extemporánea de la declaración de modificación en el Censo de Agricultores y Transportistas, que supongan una devolución indebida del impuesto que grava la gasolina profesional y el gasóleo profesional. En particular, dicha infracción resultará de aplicación en aquellos casos en que los beneficiarios sustituyan los vehículos, máquinas o artefactos afectos a la actividad sin presentar la correspondiente declaración censal.
+c) La no presentación o presentación extemporánea de la declaración de cese en el Censo de Agricultores y Transportistas que suponga una devolución indebida del impuesto que grava la gasolina profesional y el gasóleo profesional.
+3. Las infracciones tributarias previstas en las letras anteriores serán graves; la base de la sanción será la cantidad devuelta indebidamente; y la sanción consistirá en multa pecuniaria proporcional al triple del importe de devolución indebida.
+4. Cuando la multa pecuniaria impuesta por las infracciones señaladas en el apartado 2 sea de importe igual o superior a 20.000 euros, se podrá imponer además la sanción accesoria consistente en la exclusión del Censo de Agricultores y Transportistas, sin posibilidad de obtener la devolución prevista en este artículo durante tres años
+Se modifica por el art. 2.2 de la Ley 17/2019, de 9 de mayo. Ref. BOE-A-2019-8795
+ Esta modificación tiene efectos desde el 1 de julio de 2019, según establece la disposición final 2 de la citada ley.
+ Se modifica por el art. 2.8 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+ Redactado conforme a la corrección de errores publicada en BOC núm. 244, de 17 de diciembre de 2014. Ref. BOE-A-2015-187
+ Se añade por el art. 1.2 de la Ley 3/2008, de 31 de julio. Ref. BOE-A-2008-14519
+ Este precepto será aplicable a las infracciones tributarias cometidas a partir del 7 de agosto de 2008, según establece la disposición final única.2 de la citada ley.
+
+### Artículo 17
+
+Artículo 17. Infracciones y sanciones. Régimen especial del gasóleo industrial.
+1. Constituyen infracciones tributarias graves:
+a) La falsificación de la declaración que en cada operación debe entregar la persona o entidad adquirente al contribuyente o, en su caso, el consumidor final al revendedor.
+b) La falsificación de la autorización previa de la Agencia Tributaria Canaria, que resulta necesaria para poder acogerse a la modalidad de reventa.
+c) La falta de comunicación o la comunicación incompleta a la Agencia Tributaria Canaria, por parte del contribuyente o en su caso del revendedor, de los datos relativos a las entregas de gasóleo con aplicación del tipo reducido.
+2. Constituyen infracciones tributarias graves la inobservancia de las prohibiciones de uso que se establecen en el artículo 9 bis de esta ley en relación con el gasóleo industrial en cuyas entregas se haya aplicado el tipo reducido y se sancionará con arreglo a lo que se dispone en el presente artículo, con independencia de las sanciones que pudieran proceder por la posible comisión de otras infracciones tributarias.
+A efectos de la imputación de la responsabilidad por la comisión de estas infracciones, tendrán la consideración de autores:
+a) Los titulares de los vehículos autopropulsados, embarcaciones, artefactos y maquinarias que hayan utilizado de forma indebida el gasóleo industrial, aun cuando estos no sean conducidos, patroneados o explotados por el propio titular, salvo en los supuestos contemplados en la letra siguiente.
+b) Los arrendatarios de los vehículos, embarcaciones, artefactos y maquinarias a los que se refiere la letra anterior, cuando medie contrato de alquiler, en su caso sin conductor o patrón, si la infracción se descubriera en el periodo comprendido entre la fecha del contrato y la devolución de la maquinaria, vehículo o embarcación a su titular.
+En los casos de sustracción, no serán imputables a los titulares de los vehículos o embarcaciones las infracciones descubiertas en el periodo que medie entre la fecha de la denuncia y su recuperación.
+3. Las infracciones tipificadas en las letras a) y b) del apartado 1 se sancionarán con multa fija de 1.500 euros. Dicha sanción será de 3.000 euros si el infractor, dentro de los dos años anteriores a la comisión de la nueva infracción, hubiera sido sancionado por resolución firme en vía administrativa por la misma infracción.
+4. La infracción tipificada en la letra c) del apartado 1 se sancionará con multa fija de 1.000 euros. Dicha sanción será de 2.000 euros si el infractor, dentro de los dos años anteriores a la comisión de la nueva infracción, hubiera sido sancionado por resolución firme en vía administrativa por la misma infracción.
+5. Las infracciones tipificadas en el apartado 2 se sancionarán:
+a) Cuando el motor del vehículo, maquinaria, artefacto o embarcación con el que se ha cometido la infracción tenga hasta 10 CV de potencia fiscal o hasta 220 kW en el caso del motor o motores de las embarcaciones, con multa pecuniaria fija de 1.200 euros.
+b) En motores de más de 10 hasta 25 CV de potencia fiscal o de más de 220 hasta 550 kW en el caso del motor o motores de las embarcaciones, con multa pecuniaria fija de 3.600 euros.
+c) En motores de más de 25 hasta 50 CV de potencia fiscal o de más de 550 hasta 1.100 kW en el caso del motor o motores de las embarcaciones, con multa pecuniaria fija de 7.200 euros.
+d) En motores de más de 50 CV de potencia fiscal o de más de 110 kW en el caso del motor o motores de las embarcaciones, con multa pecuniaria fija de 12.000 euros.
+En los casos de comisión repetida de esta clase de infracciones se duplicarán los importes establecidos en el apartado anterior. Esta circunstancia se apreciará cuando el infractor, dentro de los dos años anteriores a la comisión de la nueva infracción, hubiera sido sancionado por resolución firme en vía administrativa por la misma infracción.
+Se añade por la disposición final 13.8 de la Ley 5/2024, de 26 de diciembre. Ref. BOE-A-2025-4913
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Gobierno de Canarias, mediante Decreto y previo dictamen del Consejo Consultivo, podrá modificar los tipos impositivos aplicables por productos, hasta un máximo del 30 por 100 de incremento o disminución de la tarifa, en función de correlativos de disminución o incremento del precio del crudo del petróleo importado en las islas Canarias.
+Del uso que el Gobierno haga de la autorización constituida en el párrafo anterior se dará cuenta al Parlamento de Canarias, en forma de comunicación para su debate posterior.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La estructura de las tarifas, los tipos de gravamen correspondientes a las mismas y la cuantía de las sanciones establecidas en la presente Ley, podrán ser modificados por las Leyes de Presupuestos de la Comunidad Autónoma de cada año.
+Se modifica por el art. 3 de la Ley 8/1992, de 4 de diciembre. Ref. BOE-A-1993-381
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+De conformidad con lo dispuesto en los artículos 19.1 de la Ley 8/1980, de 22 de septiembre, 61.1 del Estatuto de Autonomía de Canarias y 23 de la Ley Territorial 7/1984, de 11 de diciembre, el ejercicio de las plenas atribuciones de gestión, ejecución y organización del Impuesto de la Comunidad Autónoma se ejercerá sin perjuicio de la colaboración que, dada la naturaleza del mismo puede establecerse con la Administración Tributaria del Estado.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+(Suprimida)
+Se suprime por la disposición adicional 11.2 de la Ley 9/2001, de 28 de diciembre. Ref. BOE-A-2002-4923
+ Se añade por el art. 1 de la Ley 3/1991, de 12 de abril. Ref. BOE-A-1991-12365
+
+### Disposición transitoria única
+
+Disposición transitoria única. Declaración de comunicación a la Agencia Tributaria Canaria para el año 2023.
+A los efectos de lo previsto en el apartado 4 del artículo 12 bis de la presente ley, los agricultores y transportistas que a 1 de enero de 2023 vengan desarrollando actividades agrícolas o de transporte, estarán obligados a presentar desde dicha fecha y hasta el día 31 de marzo de 2023, con efectos desde el día 1 del mes de enero de dicho año, una declaración comunicando a la Agencia Tributaria Canaria los vehículos, maquinarias y artefactos que se encuentren afectos al desarrollo de la actividad agrícola o de transporte en el momento de la presentación de dicha declaración.
+Se añade por la disposición final 5.3 de la Ley 7/2022, de 28 de diciembre. Ref. BOE-A-2023-5961
+
+### Disposición final
+
+Disposición final.
+Se autoriza al Gobierno, para que a propuesta del Consejero de Hacienda dicte las disposiciones precisas para el desarrollo y ejecución de la presente Ley.
+
+### [firma]
+
+Por tanto ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, cooperen a su cumplimiento, y que los Tribunales y Autoridades a los que corresponda la hagan cumplir.
+Las Palmas de Gran Canaria, 28 de julio de 1986.
+JERONIMO SAAVEDRA ACEVEDO
+Presidente del Gobierno

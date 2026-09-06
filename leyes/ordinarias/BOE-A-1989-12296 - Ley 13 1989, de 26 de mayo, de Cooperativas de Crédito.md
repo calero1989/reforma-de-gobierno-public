@@ -1,0 +1,233 @@
+# Ley 13/1989, de 26 de mayo, de Cooperativas de Crédito.
+
+- Identificador BOE: `BOE-A-1989-12296`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1989-12296
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y yo vengo en sancionar la siguiente Ley:
+El artículo 129.2 de la Constitución Española ordena que los poderes públicos fomenten, mediante una legislación adecuada, las Sociedades Cooperativas. este mandato, en lo que se refiere a Cooperativas en general, se ha cumplido a través de la Ley 3/1987, de 2 de abril, General de Cooperativas, que, sin embargo, prevé en su Disposición Transitoria Sexta que, hasta tanto se establezcan las nuevas normas reguladoras de las Cooperativas de Crédito, éstas continuarán rigiéndose por la legislación vigente hasta el momento de la entrada en vigor de esa misma Ley, con las particularidades que en la misma se establecen.
+El Gobierno ha elaborado una Ley de Cooperativas de Crédito que viene a dar cumplimiento al artículo 129.2 de la Constitución en lo relativo al fomento de ese tipo de sociedades cooperativas en la medida en que ello resulta posible desde los títulos competenciales del Estado.
+Como es sabido, la legislación del Estado tiene solo carácter de derecho supletorio respecto del de las Comunidades Autónomas con competencias legislativas plenas en materia de cooperativas. esta regla general resulta matizada, en el caso particular de las Cooperativas de Crédito en tanto en cuanto, en virtud del Real Decreto Legislativo 1298/1986, de 28 de junio, por el que se adaptan las normas legales en materia de establecimientos de crédito al Ordenamiento Jurídico de la Comunidad Económica Europea, se concede a las Cooperativas de Crédito inscritas en el Registro especial del Banco de España el carácter de entidades de crédito, al igual que también lo son los bancos privados, las Cajas de Ahorro o las Entidades Oficiales de Crédito.
+Tales matizaciones se derivan de que el artículo 149.1 de la Constitución, en su apartado decimoprimero, establece como competencia exclusiva del Estado la de fijar las bases de la Ordenación del Crédito y Banca. en consecuencia, en la presente Ley se fijan cuáles son estas bases por lo que se refieren a las Cooperativas de Crédito, incluyéndose, no obstante, otros preceptos que no tienen este carácter con la finalidad de dar unas normas supletorias que se apliquen en defecto de legislación autonómica, si bien éstos se relacionan expresamente con la Disposición Final Segunda, de acuerdo con las más recientes exigencias de la Jurisprudencia constitucional.
+En conclusión, la presente Ley no pretende ofrecer una regulación completa y exhaustiva de todos los aspectos de las Cooperativas de Crédito, sino tan sólo establecer las bases del régimen jurídico de dichas instituciones en cuanto entidades de crédito, que al Estado corresponde dictar al amparo del artículo 149.1.11 de la Constitución.
+La Ley se estructura en doce artículos, una disposición adicional, dos transitorias, dos finales y una derogatoria.
+El texto comienza con los principios generales, donde se definen qué son las Cooperativas de Crédito, se les otorga carácter de entidad de crédito con aplicación supletoria de la legislación de Cooperativas y se establece el número ilimitado de sus socios junto a la responsabilidad de los mismos por las deudas de las Cooperativas hasta el valor de sus aportaciones. de igual modo se fija cuál es el régimen jurídico aplicable a estas Cooperativas y las particularidades de la denominación de las mismas.
+De manera concordante con la calificación como Entidades de Crédito a la que antes se ha hecho referencia, se les permite realizar las mismas operaciones que a estas entidades, si bien con atención preferente a las necesidades financieras de sus socios.
+A continuación la Ley se refiere a la constitución y funcionamiento de estas cooperativas, inspirándose en los principios de agilidad en la tramitación y equiparación con el resto de las entidades de crédito inscribiéndose en los Registros, tanto del Banco de España como Mercantil, y en el correspondiente de Cooperativas.
+Igualmente se establecen los requisitos que deberán cumplir los socios de estas entidades y los supuestos en los cuales la delegación del voto es admisible. como consecuencia de su carácter de entidad de crédito, se regula la forma de cálculo de beneficio o pérdida y se disciplina la distribución del beneficio, buscando satisfacer los principios cooperativos, así como garantizar la solvencia de estas entidades y, en consecuencia, su responsabilidad frente a terceros.
+El artículo noveno es el destinado a los Órganos sociales, donde se distingue la Asamblea General, el Consejo Rector y la Dirección, fijando cuáles son las competencias respectivas de cada uno de ellos y sus normas de funcionamiento, admitiendo en lo referente al Consejo Rector y a la Dirección que las Comunidades Autónomas fijen otras normas de carácter distinto, respetando siempre las normas básicas establecidas por el Estado.
+Finalmente, la Ley se refiere a la fusión y escisión, contabilidad y régimen disciplinario.
+Dichas normas persiguen garantizar la solvencia, evitar supuestos abusos en perjuicio de la entidad y garantizar su perfecto funcionamiento dentro del sistema financiero en el que se encuentran incluidas.
+La Disposición Final Segunda viene a dar cumplimiento a la más reciente jurisprudencia constitucional en cuanto a la necesidad de precisar claramente en la Ley qué preceptos tienen carácter básico y cuáles otros carecen de dicho carácter.
+
+### Artículo primero
+
+Artículo primero. Naturaleza.
+1. Son Cooperativas de Crédito las sociedades constituidas con arreglo a la presente Ley, cuyo objeto social es servir a las necesidades financieras de sus socios y de terceros mediante el ejercicio de las actividades propias de las entidades de crédito.
+2. Las Cooperativas de Crédito tienen personalidad jurídica propia.
+3. El número de sus socios es ilimitado y la responsabilidad de los mismos por las deudas sociales alcanza el valor de sus aportaciones.
+
+### Artículo segundo
+
+Artículo segundo. Régimen jurídico.
+Las Cooperativas de Crédito se regirán por la presente Ley y sus normas de desarrollo, sin perjuicio, en cuanto a estas últimas, de las disposiciones que puedan aprobar las Comunidades Autónomas en el ejercicio de las competencias que tengan atribuidas en la materia. también les serán de aplicación las normas que con carácter general regulan la actividad de las entidades de crédito. con carácter supletorio les será de aplicación la Legislación de Cooperativas.
+
+### Artículo tercero
+
+Artículo tercero. Denominación.
+1. El término Cooperativa de Crédito o su abreviatura Coop. de Crédito sólo podrá ser utilizado por las entidades definidas en la presente Ley y deberá incluirse necesariamente en su denominación.
+2. No se podrá adoptar una denominación idéntica a la de otra sociedad, de crédito o de otra naturaleza, preexistente.
+Asimismo, las Cooperativas de Crédito no podrán adoptar nombres equívocos o que induzcan a confusión en relación con su ámbito u objeto social ni con otro tipo de entidades.
+3. Sólo las Cooperativas de Crédito cuyo objeto principal consista en la prestación de servicios financieros en el medio rural podrán utilizar, conjuntamente o por separado de la denominación Cooperativa de Crédito, la expresión Caja Rural.
+El «Banco de Crédito Agrícola, S. a.», y las Cajas Rurales o cualesquiera otras Cooperativas de Crédito pertenecientes al Grupo Asociado Banco de Crédito Agrícola-Cajas Rurales Asociadas podrán utilizar, conjuntamente o por separado y mientras formen parte de dicho Grupo, la expresión Crédito Agrícola.
+4. Ningún registro público podrá inscribir entidades no sujetas a la presente Ley, que pretendan utilizar alguna de las denominaciones previstas en este artículo, ni los actos en que dichas entidades intervengan. en caso de inscripción se procederá, de oficio o a instancia del interesado, a su inmediata cancelación.
+
+### Artículo cuarto
+
+Artículo cuarto. Operaciones.
+1. Las Cooperativas de Crédito podrán realizar toda clase de operaciones activas, pasivas y de servicios permitidas a las otras entidades de crédito, con atención preferente a las necesidades financieras de sus socios.
+2. En cualquier caso, el conjunto de las operaciones activas con terceros de una Cooperativa de Crédito no podrá alcanzar el 50 por 100 de los recursos totales de la Entidad.
+No se computarán en el referido porcentaje las operaciones realizadas por las Cooperativas de Crédito con los socios de las Cooperativas asociadas, las de colocación de los excesos de tesorería en el mercado interbancario ni la adquisición de valores y activos financieros de renta fija que pudieran adquirirse para la cobertura de los coeficientes legales o para la colocación de los excesos de tesorería. En el caso de las Cooperativas de Crédito integrantes de un sistema institucional de protección de los previstos en el artículo décimo bis de esta Ley, tampoco se computarán en ese porcentaje las operaciones realizadas con la entidad central, las demás Cooperativas de Crédito y otros integrantes del sistema institucional de protección.
+Se modifica el apartado 2 por el art. 1.1 del Real Decreto-ley 11/2017, de 23 de junio. Ref. BOE-A-2017-7230#ap
+
+### Artículo quinto
+
+Artículo quinto. Constitución.
+1. La constitución de una Cooperativa de Crédito requerirá autorización previa del Ministerio de Economía y Hacienda. la solicitud de constitución deberá estar suscrita por un grupo de promotores, del que deberán formar parte, al menos, cinco personas jurídicas que desarrollen la actividad propia de su objeto social en forma ininterrumpida desde, al menos, dos años antes de la fecha de constitución, o por ciento cincuenta personas físicas.
+Para constituir una Cooperativa de Crédito con la denominación Caja Rural, el grupo promotor deberá incluir, al menos, una Cooperativa Agraria o cincuenta socios personas físicas titulares de explotaciones agrarias.
+2. Concedida la autorización, la Cooperativa de Crédito en constitución deberá solicitar su inscripción en el Registro correspondiente del Banco de España, acompañando al efecto copia de la escritura publica de constitución y de los Estatutos. asimismo, una vez inscrita en el Registro del Banco de España, deberá procederse a su inscripción en el Registro Mercantil y en el correspondiente Registro de Cooperativas, en cuyo momento adquirirán personalidad jurídica.
+
+### Artículo sexto
+
+Artículo sexto. Capital social.
+1. El Gobierno, previo informe del Banco de España, establecerá la cuantía mínima del capital social de las Cooperativas de Crédito en función del ámbito territorial y del total de habitantes de derecho de los municipios comprendidos en dicho ámbito. Asimismo determinará la medida en que dicho capital haya de estar desembolsado.
+2. Las Cooperativas de Crédito no podrán operar fuera de su ámbito territorial, delimitado en el Estatuto, sin previamente haber modificado éste y haber ampliado su capital social para ajustarlo al nivel que corresponda. Quedan a salvo lo dispuesto en el artículo cuarto, número 2, último párrafo y las operaciones meramente accesorias o instrumentales respecto al objeto social.
+Se modifica por la disposición adicional 4 A) de la Ley 20/1990, de 19 de diciembre. Ref. BOE-A-1990-30735
+
+### Artículo séptimo
+
+Artículo séptimo. Aportaciones de los socios.
+1. Todos los socios de una Cooperativa de Crédito deberán poseer, al menos, un título nominativo de aportación. los Estatutos determinarán el valor nominal de esos títulos, que no será inferior a diez mil pesetas, así como el número mínimo de títulos que deban poseer los socios, según la naturaleza jurídica y el compromiso de actividad asumido por éstos, dentro de los límites que se establecen en el número 3 de este artículo. todos los títulos tendrán el mismo valor nominal.
+2. No se perderá la condición de socio cuando, como consecuencia de un plan de saneamiento aprobado por el Fondo de Garantía de Depósitos en Cooperativas de Crédito o por aplicación de lo previsto en el último párrafo de este artículo, el valor nominal de las aportaciones sea anulado o reducido por debajo del límite establecido estatutariamente, con carácter general, sin que el socio reponga la parte perjudicada.
+3. El importe total de las aportaciones de cada socio no podrá exceder del 20 por 100 del capital social cuando se trate de una persona jurídica y del 2,5 por 100 cuando se trate de una persona física.
+En ningún caso, las personas jurídicas que no tengan la condición de Sociedad Cooperativa podrán poseer más del 50 por ciento del capital social.
+4. Las aportaciones serán reembolsadas a los socios en las condiciones que se señalen reglamentariamente y siempre que lo autorice el Consejo Rector. En todo caso, no podrá aprobarse dicho reembolso cuando ocasione una cobertura insuficiente del capital social obligatorio, reservas y coeficiente de solvencia.
+Las aportaciones, incluso cuando su reembolso hubiese sido rehusado, no podrán presentar entre sí privilegio alguno, y en particular, ni de orden ni de importe, en su prelación en caso de concurso o liquidación de la cooperativa, y la adjudicación del haber social, una vez que se hayan satisfecho íntegramente las deudas sociales, deberá hacerse en proporción al valor nominal de las aportaciones al capital suscritas por los socios.
+5. Los límites mencionados en el apartado 3 no se tendrán en cuenta en el caso de la participación por cualquier medio en el capital social de una Cooperativa de Crédito por parte del fondo de garantía privado constituido ex ante en el marco de un sistema institucional de protección de los previstos en el artículo 113.7 del Reglamento (UE) 575/2013, de 26 de junio, del Parlamento Europeo y del Consejo, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012.
+Asimismo, dichos límites no se tendrán en cuenta cuando se adopten algunas de las medidas previstas en la Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades de crédito y empresas de servicios de inversión.
+Cuando el fondo de garantía privado se encuentre en el supuesto descrito en el párrafo primero, deberá presentar al Banco de España, para su aprobación, un plan de actuación a efectos de garantizar la viabilidad que contenga medidas concretas dirigidas a permitir la desinversión del fondo en la Cooperativa de Crédito, en condiciones adecuadas para todas las entidades integrantes del sistema institucional de protección.
+6. La comercialización de las aportaciones sociales de una cooperativa de crédito a socios o socios potenciales, ya sean personas físicas o jurídicas, quedará sujeta al régimen previsto en este artículo y a las previsiones que, mediante circular, establezca el Banco de España con las siguientes especialidades:
+a) Al recabar información del socio o potencial socio para valorar su adecuación a la operación, las entidades solicitarán información específica sobre la experiencia inversora previa del socio o potencial socio en aportaciones al capital social y sobre el porcentaje que este tipo de activo representa, en su caso, en la totalidad de su patrimonio financiero. La mera tenencia de aportaciones al capital de cooperativas de crédito adquiridas antes de la entrada en vigor de esta ley no se considerará por sí sola suficiente para acreditar la experiencia inversora previa del socio.
+En todo caso, y sin perjuicio de que el socio o potencial socio manifieste experiencia previa en este tipo de activos, las entidades se asegurarán de que comprende de manera efectiva los riesgos específicos inherentes a las aportaciones al capital social. En todo caso, se entregará al socio o potencial socio una copia del documento que recoja la valoración realizada.
+b) De forma simultánea a la comercialización de aportaciones al capital social de cooperativas de crédito, y en todo caso antes de su efectiva suscripción, se informará a los socios o socios potenciales de los datos más relevantes de la cooperativa de crédito correspondiente, indicando, al menos:
+1.º Nombre legal y comercial.
+2.º Número de registro en el Banco de España.
+3.º Domicilio social de la entidad.
+4.º Capital social de la entidad.
+5.º Relación de socios principales de la entidad con una participación en su capital social igual o superior al 10 por ciento.
+6.º Indicación de la forma de acceso a los datos relativos al funcionamiento y actividad de la cooperativa de crédito.
+7.º Indicación, en su caso, de que la cooperativa pertenece a un sistema institucional de protección y de las consecuencias de ello, en particular en cuanto a las facultades de la entidad central, mutualización de resultados, solidaridad y apoyo mutuo.
+c) Las entidades que comercialicen aportaciones al capital social de cooperativas de crédito deberán proporcionar a los socios, incluidos los potenciales, una descripción general de la naturaleza de las aportaciones al capital social que, de forma clara, sencilla y que no induzca a confusión incluya información de, al menos, los siguientes aspectos:
+1.º Se indicará que las aportaciones integran el capital social de la cooperativa de crédito, por lo que confieren el carácter de socio al suscriptor, permitiéndole participar de la vida social de la cooperativa, proporcionando una descripción general de los derechos políticos y económicos que otorgan las aportaciones.
+2.º Régimen de transmisibilidad de las aportaciones de acuerdo con su normativa aplicable y con los estatutos sociales de la cooperativa de crédito.
+3.º Cualquier otra circunstancia significativa no señalada en los párrafos anteriores que haya sido establecida por los estatutos de la cooperativa de crédito que resulte relevante para que el socio o potencial socio comprenda las características y naturaleza de las aportaciones.
+d) Las entidades que comercialicen aportaciones al capital social de cooperativas de crédito deberán proporcionar a los socios, incluidos los potenciales, una descripción general de los riesgos específicos de las aportaciones al capital social destacando, al menos, lo siguiente:
+1.º Que el pago de intereses retributivos de las aportaciones queda condicionado a la existencia de resultados netos o reservas de libre disposición suficientes para satisfacerlas.
+2.º El carácter perpetuo de las aportaciones.
+3.º Las condiciones para el reembolso de las aportaciones establecidas en los estatutos sociales de la cooperativa de crédito, así como la posibilidad de que dicho reembolso pueda ser rehusado incondicionalmente por el Consejo Rector.
+4.º La inexistencia de un mercado secundario en el que se negocien las aportaciones, lo que adicionalmente a lo señalado en los apartados anteriores limita la liquidez de las mismas.
+5.º La ausencia de un sistema de garantía y, en particular, la ausencia de cobertura por el Fondo de Garantía de Depósitos, así como la posibilidad de pérdidas hasta el máximo de la inversión realizada.
+6.º La subordinación de las aportaciones a todas las deudas de la cooperativa de crédito en caso de resolución, concurso o liquidación de la entidad.
+En todo caso, se deberá advertir al socio o potencial socio del riesgo de mercado, de liquidez y de crédito de las aportaciones, por lo que no está garantizada la inmediata ni total recuperación del capital invertido.
+e) La información entregada a los socios o potenciales socios incluirá una mención que destaque las diferencias entre las aportaciones y los depósitos bancarios ordinarios en términos de rentabilidad, riesgo y liquidez, con sujeción a los términos que en su caso establezca, mediante circular, el Banco de España.
+f) La información prevista en los apartados anteriores se entregará con antelación suficiente a la suscripción de las aportaciones, tanto si estas son ofrecidas por la entidad, como si la suscripción se hubiera producido a iniciativa del propio socio o potencial socio.
+g) La información a la que se refiere el presente apartado 1 deberá entregarse en un único documento en formato papel o en cualquier soporte duradero, siempre que, en este último caso, se cumplan las condiciones previstas en la normativa de desarrollo de esta ley.
+Las entidades que hubieran comercializado aportaciones al capital social de cooperativas de crédito deberán acreditar la efectiva entrega de la referida información a los socios o potenciales socios. A tal fin, recabarán y obtendrán copia firmada por el socio o potencial socio del documento que recoja dicha información cuando esta sea proporcionada en formato papel o habilitarán los procesos oportunos para evidenciar la recepción y efectivo acceso a la misma por parte del socio o potencial socio, cuando su entrega tenga lugar en un soporte duradero por medios telemáticos.
+Será de aplicación el régimen de supervisión, inspección y sanción previsto en la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito, a cargo del Banco de España.
+7. A los efectos de este artículo, se entenderá por comercialización de aportaciones la captación por cuenta de la cooperativa de crédito, o de cualquier persona o entidad que actúe en su nombre, de socios o potenciales socios para la adquisición de aportaciones. La comercialización comprenderá, tanto la captación de socios o potenciales socios mediante actividad publicitaria, como la actividad de colocación de aportaciones de forma individualizada, ya se realice a través de las oficinas o de agentes de la cooperativa de crédito.
+A estos efectos, se entenderá por actividad publicitaria toda forma de comunicación dirigida a potenciales inversores con el fin de promover, directa o indirectamente, la adquisición de aportaciones. En todo caso, existe actividad publicitaria cuando el medio empleado para dirigirse al público sea a través de llamadas telefónicas, visitas a domicilio, cartas personalizadas, correo electrónico o cualquier otro medio telemático, que formen parte de una campaña de difusión, comercialización o promoción.
+8. Las obligaciones de información en el proceso de valoración de la adecuación del socio o potencial socio y los registros inherentes a dichos procesos en relación con las aportaciones al capital social de las cooperativas de crédito se regirán por las normas que pueda dictar el Banco de España.
+9. La valoración de la adecuación del socio o potencial socio no tendrá carácter obligatorio para las entidades que comercialicen aportaciones, cuando el valor nominal de las aportaciones que sean objeto de suscripción por parte del socio o potencial socio en una misma cooperativa de crédito no exceda de 2000 euros. Las entidades no podrán fraccionar la suscripción de aportaciones para eludir lo previsto en esta disposición.
+10. La supervisión y sanción de lo previsto en los apartados 6 a 8 del presente artículo corresponderá al Banco de España, conforme a lo previsto en la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito.
+11. La remuneración de las aportaciones cuyo reembolso hubiera sido rehusado por el Consejo Rector no gozará de ninguna preferencia, ni de orden ni de importe, frente a la remuneración de las aportaciones de las demás aportaciones de la cooperativa.
+Se modifica el párrafo segundo del apartado 4 y se añade el 11 por el art. 182.1 y 2 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a1-94
+ Se añaden los apartados 6 a 10 por la disposición final 1 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df
+ Se añade el apartado 5 por el art. 1.2 del Real Decreto-ley 11/2017, de 23 de junio. Ref. BOE-A-2017-7230#ap
+ Se modifica el apartado 4 por la disposición final 2 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
+ Se modifica el apartado 4 por la disposición adicional 4 B) de la Ley 20/1990, de 19 de diciembre. Ref. BOE-A-1990-30735
+
+### Artículo octavo
+
+Artículo octavo. Resultados del ejercicio económico.
+1. Al cierre de cada ejercicio económico, los resultados se determinarán conforme a los criterios y métodos aplicables por las restantes entidades de crédito, sin perjuicio de lo que se establezca en la Ley sobre Régimen Fiscal de las Cooperativas.
+2. Las pérdidas serán cubiertas con cargo a los recursos propios de la cooperativa y, caso de ser estos insuficientes o de disminuir el capital social mínimo establecido, deberá disolverse la cooperativa, a menos que dicho capital o recursos se reintegren en la medida suficiente.
+2 bis. No se podrán imputar pérdidas al capital social en tanto la cooperativa cuente con cualquier clase de fondos de reserva, voluntario u obligatorio, y, en caso de imputarse, se realizará afectando por igual a todas las aportaciones en proporción a su valor nominal.
+3. Los beneficios del ejercicio se destinarán a cubrir pérdidas de ejercicios anteriores, que no hubiesen podido ser absorbidas con cargo a los recursos propios. El saldo acreedor de la cuenta de resultados constituirá el excedente neto del ejercicio económico y, una vez deducidos los impuestos exigibles y los intereses al capital desembolsado, limitados de acuerdo con la legislación cooperativa, el excedente disponible se destinará:
+a) A dotar el Fondo de Reserva obligatorio, al menos, con un 20 por 100;
+b) el 10 por 100, como mínimo, a la dotación del Fondo de Educación y Promoción, y
+c) El resto estará a disposición de la Asamblea General, que podrá distribuirlo de la forma siguiente: retorno a los socios, basado en los criterios estatutarios al respecto, dotación a Fondos de Reserva Voluntarios o análogos, que sólo serán disponibles previa autorización de la autoridad supervisora, y, en su caso, participación de los trabajadores. Todo ello, sin perjuicio del cumplimiento del coeficiente de solvencia y de la normativa aplicable a los tres primeros años de existencia de una Cooperativa de Crédito.
+Se añade el apartado 2 bis por el art. 182.3 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a1-94
+ Se modifica el apartado 3 por la disposición adicional 4 C) de la Ley 20/1990, de 19 de diciembre. Ref. BOE-A-1990-30735
+
+### Artículo noveno
+
+Artículo noveno. Órganos de la sociedad.
+1. Los órganos sociales de las Cooperativas de Crédito son la Asamblea General y el Consejo Rector.
+2. En la Asamblea General cada socio tendrá un voto. no obstante, si los Estatutos lo prevén, el voto de los socios podrá ser proporcional a sus aportaciones en el capital social, a la actividad desarrollada o al número de socios de las cooperativas asociadas; en este supuesto los Estatutos deberán fijar con claridad los criterios de proporcionalidad del voto.
+En todo caso los límites de voto por socio serán los señalados en el artículo 7.3.
+3. Los votos serán delegables en otros socios, con las siguientes limitaciones:
+a) La delegación deberá hacerse por escrito antes de la celebración de la Asamblea, y será siempre nominativa.
+b) Ningún socio podrá recibir votos por delegación que, sumados a los que le correspondan, superen los límites de voto señalados en la presente Ley.
+4. Corresponderá al Consejo Rector la designación, contratación y destitución del Director general.
+5. La reunión del Consejo Rector deberá ser convocada por el Presidente a iniciativa propia o a petición de al menos dos Consejeros o de un Director general.
+6. Los miembros del Consejo Rector podrán ser remunerados cuando así lo dispongan los Estatutos.
+7. La Dirección de la Cooperativa de Crédito estará desempeñada por uno o más Directores Generales.
+8. No podrán ser miembros del Consejo Rector ni Directores Generales:
+a) Los quebrados o concursados no rehabilitados, los incapacitados legalmente, los condenados a penas que lleven aneja la inhabilitación para el ejercicio de cargos públicos, los que hubiesen sido condenados por grave incumplimiento de las Leyes o disposiciones sociales, y especialmente por delitos contra la propiedad, los inhabilitados para el cargo de consejero o director de una entidad de crédito por expediente disciplinario.
+b) Los consejeros, o administradores, o altos directivos de otras entidades de crédito, salvo aquellos que participen en el capital social.
+c) Quienes pertenezcan al consejo de administración de más de cuatro entidades de crédito. a estos efectos no se computarán los puestos ostentados en consejos de administración de entidades de crédito en los que el interesado, su cónyuge, ascendientes o descendientes, juntos o separadamente, sean propietarios de un número de acciones no inferior al cociente de dividir el capital social por el número de vocales del consejo de administración.
+d) Los que por sí mismos o en representación de otras personas o entidades mantengan deudas vencidas y exigibles de cualquier clase con la entidad, o durante el ejercicio de su cargo incurran en incumplimiento de las obligaciones contraídas con la Cooperativa.
+Los Directores Generales no podrán ocupar en otra entidad de crédito, cooperativa o sociedad mercantil el mismo cargo u otro equivalente, ni el de consejero, salvo que lo sea en representación de la Cooperativa de Crédito.
+9. En el Banco de España se llevará el registro de altos cargos de las Cooperativas de Crédito en el que deberán inscribirse, antes de tomar posesión de sus cargos, las personas elegidas o designadas para ocupar en estas entidades puestos de Consejero o de Director general. el Banco de España denegará la inscripción cuando, con arreglo a la legislación aplicable, resulte incompatibilidad, siendo en tal caso nula la elección o designación correspondiente.
+
+### Artículo décimo
+
+Artículo décimo. Fusión, escisión y transformación:
+1. Requerirán autorización administrativa previa, con informe del Banco de España, las fusiones, escisiones o transformaciones que afecten a una Cooperativa de Crédito.
+En el caso de que la entidad resultante de la fusión, escisión o transformación fuese una Cooperativa de Crédito, ésta deberá solicitar su inscripción en el Registro correspondiente del Banco de España, sin perjuicio de la inscripción que proceda en los Registros de las Comunidades Autónomas que ostenten competencias en esta materia en virtud de sus Estatutos de Autonomía, y cumplir las demás normas y obligaciones registrales.
+2. Cuando una Cooperativa de Crédito se transforme en otra entidad de crédito, el Fondo de Reserva Obligatorio de aquella pasará a integrarse en el capital social de la entidad resultante de la transformación.
+Dicha transformación no supondrá la pérdida de la condición de fiscalmente protegida en el período impositivo del Impuesto sobre Sociedades que concluya con la transformación de la forma jurídica de la entidad, en los términos establecidos en el artículo 26 del Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo. En dicho período impositivo se integrará en la base imponible correspondiente a los resultados cooperativos o extracooperativos, según proceda, la parte del Fondo de Reserva Obligatorio que hubiese minorado dicha base imponible en períodos anteriores.
+Se modifica por la disposición final 4 de la Ley 3/2009, de 3 de abril. Ref. BOE-A-2009-5614
+
+### Artículo décimo bis
+
+Artículo décimo bis. Sistemas institucionales de protección.
+Las Cooperativas de Crédito podrán integrarse en un sistema institucional de protección reforzado de los contemplados y regulados en la disposición adicional quinta de la Ley 10/2014, de 26 de junio de ordenación, supervisión y solvencia de entidades de crédito o también podrán formar parte de un sistema institucional de protección de los previstos en el artículo 113.7 del Reglamento 575/2013 del Parlamento Europeo y del Consejo, de 26 de junio.
+Se añade por el art. 1.3 del Real Decreto-ley 11/2017, de 23 de junio. Ref. BOE-A-2017-7230#ap
+
+### Artículo undécimo
+
+Artículo undécimo. Contabilidad.
+Las Cooperativas de Crédito llevarán la contabilidad de acuerdo con la normativa establecida para las entidades de crédito. los balances y cuenta de resultados anuales deberán ser auditados por personas y con los requisitos establecidos en la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas.
+
+### Artículo duodécimo
+
+Artículo duodécimo. Disciplina e intervención.
+Será de aplicación a las Cooperativas de Crédito la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito.
+
+### Disposición adicional
+
+Disposición adicional. Grupo Asociado Banco de Crédito Agrícola-Cajas Rurales Asociadas.
+El Grupo Asociado Banco de Crédito Agrícola-Cajas Rurales estará constituido por el Banco de Crédito Agrícola y las Cajas Rurales que suscriban el convenio con el mismo, teniendo plena capacidad de obrar para el cumplimiento de sus fines, y rigiéndose en cuanto a sus órganos de gobierno y actividad por lo dispuesto en dicho convenio.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las Cooperativas de Crédito deberán adaptar sus Estatutos a lo establecido en esta Ley antes del 31 de diciembre de 1993, sin perjuicio de cumplir las normas imperativas de la misma y de que reglamentariamente puedan establecerse otras fechas para alcanzar los recursos propios exigibles según la normativa prudencial, que considerará especialmente el supuesto de Cooperativas de Crédito de ámbito local y domiciliadas en municipios con menos de 100.000 habitantes.
+Se modifica por la disposición adicional 5 de la Ley 13/1992, de 1 de junio. Ref. BOE-A-1992-12545
+ Se modifica por la disposición adicional 4 D) de la Ley 20/1990, de 19 de diciembre. Ref. BOE-A-1990-30735
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Los promotores de Cooperativas de Crédito que tengan pendientes de resolución solicitudes de autorización a la entrada en vigor de la presente Ley, deberán adaptar su solicitud a lo establecido en esta Ley en el plazo de un año.
+
+### Disposición final primera
+
+Disposición final primera.
+El Gobierno podrá dictar, en el ámbito de sus competencias, cuantas disposiciones se requieran para la aplicación y desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se declaran básicos, al amparo de lo establecido en el artículo 149.1.11 de la Constitución, los preceptos contenidos en la presente Ley con la excepción del artículo 9, apartados 5, 6 y 7.
+Tampoco tendrán la consideración de normas básicas las precisiones contenidas en el apartado 1 del artículo quinto relativas al número de promotores y plazos mínimos exigidos para solicitar la constitución de una Cooperativa de Crédito, en el apartado 1 del artículo 7 respecto del valor nominal mínimo de los títulos de aportación y en el apartado 3, a) del artículo 9 en relación con la forma en que debe hacerse la delegación de voto.
+Se declara la inconstitucionalidad y nulidad de la disposición, en cuanto declara como básicos el art. 3.3, párrafo segundo, el art. 8.3, párrafo b), y el art. 9, párrafo primero del núm. 2 y núm. 4, por Sentencia del TC 155/1993, de 6 de mayo. Ref. BOE-T-1993-13767
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+A partir de la entrada en vigor de la presente Ley quedan derogadas las disposiciones de igual o inferior rango en lo que se opongan a lo en ella establecido. en especial se derogan la disposición transitoria sexta de la Ley General de Cooperativas y el Real Decreto 2860/1978, de 3 de noviembre, por el que se regulan las Cooperativas de Crédito, así como los Reales Decretos y Órdenes Ministeriales que complementan y desarrollan tal regulación:
+Real Decreto 1549/1979, de 29 de junio.
+Orden ministerial de 26 de febrero de 1979.
+Orden ministerial de 30 de junio de 1979.
+Orden ministerial de 9 de enero de 1980.
+Orden ministerial de 12 de mayo de 1980.
+Orden ministerial de 2 de julio de 1980.
+Orden ministerial de 31 de julio de 1980.
+Orden ministerial de 4 de octubre de 1980.
+Orden ministerial de 29 de octubre de 1981.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela, Madrid, a 26 de mayo de 1989.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZALEZ MARQUEZ

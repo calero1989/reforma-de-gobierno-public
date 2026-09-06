@@ -1,0 +1,411 @@
+# Ley 12/2014, de 10 de octubre, del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial, del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria y del impuesto sobre la producción de energía eléctrica de origen nuclear.
+
+- Identificador BOE: `BOE-A-2014-11991`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2014-11991
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 65 del Estatuto de autonomía de Cataluña, promulgo la siguiente Ley 12/2014, de 10 de octubre, del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial, del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria y del impuesto sobre la producción de energía eléctrica de origen nuclear.
+PREÁMBULO
+A partir de las recomendaciones de la Unión Europea sobre la adopción de medidas de fiscalidad medioambiental, es necesario plantearse la posibilidad de crear nuevas figuras tributarias en este ámbito.
+El objeto de la presente ley es la creación, como tributos propios de la Generalidad de Cataluña, del impuesto sobre las emisiones contaminantes de óxidos de nitrógeno a la atmósfera producida por la aviación comercial, del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria y del impuesto sobre la producción de energía eléctrica de origen nuclear.
+Los nuevos impuestos se configuran desde una doble vertiente. Por una parte, su carácter extrafiscal pretende orientar el comportamiento de los agentes económicos afectados, con la interiorización de los costes no deseados y de las externalidades negativas que generan con su actividad, con el objetivo de contribuir a la mejora y la preservación del medio ambiente. Por otra parte, devienen instrumentos de política económica y, en este sentido, no se puede negligir que concurre también una finalidad fiscal, puesto que con su exacción se obtendrán ingresos adicionales que han de permitir subvenir, en parte, a los gastos e inversiones públicas en materia de medio ambiente y, en general, a las políticas de fomento de la preservación y la mejora de la calidad del medio ambiente.
+El capítulo I regula el impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial. La creación de este impuesto es una innovación en el ordenamiento jurídico estatal, ya que los precedentes más próximos se encuentran en Francia, Alemania y el Reino Unido.
+Desde el punto de vista de la normativa vigente en materia de medio ambiente, la Ley 22/1983, de 21 de noviembre, de protección del ambiente atmosférico, establece que el Gobierno debe declarar una zona determinada como zona de protección especial si se constata que en aquel sector del territorio se ultrapasan los niveles admisibles de calidad del aire. Si una zona es declarada zona de protección especial, debe elaborarse un plan de actuación que indique las medidas que hay que tomar, los medios económicos o de otra naturaleza que hay que utilizar y las entidades y los órganos encargados de ejecutarlo. Una de las medidas citadas en este plan es la creación de un impuesto sobre las emisiones contaminantes de óxidos de nitrógeno a la atmósfera producidas por la aviación comercial de pasajeros. Siguiendo esta línea de actuación, el objeto del impuesto que se crea es gravar la emisión de óxidos de nitrógeno efectuada por la aviación comercial durante las fases de rodaje de entrada y salida, despegue y aterrizaje, por el daño que provoca en la calidad del aire de la zona.
+El capítulo II contiene los preceptos dedicados al impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria.
+Todas las evaluaciones efectuadas en los últimos años ponen de manifiesto que, a pesar de las medidas puestas en marcha en las últimas décadas, aún hay niveles de contaminación con efectos adversos muy significativos para la salud humana y el medio ambiente, especialmente en las aglomeraciones urbanas y en las zonas donde se produce una determinada concentración de actividades industriales. En el ámbito europeo, en el marco de aplicación de la Directiva 2010/75/UE, del Parlamento Europeo y del Consejo, de 24 de noviembre, sobre las emisiones industriales, es necesario tomar medidas para evitar, reducir y, siempre que sea posible, eliminar la contaminación derivada de las actividades industriales de conformidad con el principio de «quien contamina paga» y el principio de prevención de la contaminación. El control debe priorizar las intervenciones en las fuentes de origen, asegurando una gestión prudente de los recursos naturales y teniendo en cuenta, siempre que sea necesario, la situación socioeconómica y las especificidades locales de donde se realiza la actividad industrial.
+En este contexto se crea esta figura impositiva como instrumento de estímulo e incentivo a la reducción de la contaminación atmosférica, con mejoras técnicas para reducir las emisiones atmosféricas industriales y, por tanto, mejorar la calidad del aire de los ciudadanos próximos a actividades industriales. Este tributo no es desconocido en nuestro ordenamiento jurídico; así, otras comunidades autónomas ya tienen aprobados impuestos similares, como por ejemplo Aragón, Castilla-La Mancha, la Región de Murcia, Galicia y Andalucía.
+El capítulo III regula el impuesto sobre la producción de energía eléctrica de origen nuclear, por la incidencia que puede tener en el medio ambiente. Su precedente más inmediato está en la Comunidad Valenciana, que, mediante la Ley 10/2012, de 21 de diciembre, de medidas fiscales, de gestión administrativa y financiera, y de organización de la Generalitat, crea el impuesto sobre actividades que inciden en el medio ambiente, uno de cuyos hechos imponibles es el daño, el impacto, la afección y el riesgo derivado de la producción de energía eléctrica.
+En Cataluña se utilizan varios sistemas de producción de energía eléctrica, y su impacto en el medio ambiente se produce de distintas formas. La producción de origen nuclear no tiene un efecto contaminante inmediato y real, pero utiliza combustible nuclear, que es el factor que conlleva el riesgo gravable sobre el medio ambiente. Ciertamente, a diferencia de otras formas de producción de energía eléctrica, la nuclear no es directamente contaminante, pero cualquier incidencia que se produzca en su proceso de producción conlleva un grave riesgo de afectación para el medio ambiente, riesgo que hay que considerar y prevenir. Las demás fuentes de energía gravadas sí conllevan la emisión al medio de determinadas sustancias contaminantes. Por ello, la tributación de una y otras fuentes no puede ser idéntica, de modo que se someten a dos tributos distintos: mientras la primera se grava por los potenciales riesgos en el medio ambiente determinados por la utilización de combustible nuclear, las demás fuentes tributan de acuerdo con la medición de los elementos contaminantes que emiten a la atmósfera.
+Por lo tanto, el objeto o la finalidad del impuesto sobre la producción de energía eléctrica de origen nuclear es gravar los mencionados riesgos y, dado que el elemento determinante de estos riesgos es la utilización del combustible nuclear, dicho factor es el que define el hecho imponible.
+De acuerdo con todo ello, el sujeto pasivo a título de contribuyente es la persona física o jurídica que lleva a cabo la actividad de producción de energía eléctrica y que, al usar el combustible nuclear, genera el riesgo. Y la base imponible –elemento esencial del impuesto en que mejor puede quedar reflejada la finalidad extrafiscal del tributo– está constituida por la cantidad de combustible nuclear usado, magnitud que refleja la capacidad o intensidad del riesgo: a mayor base imponible, mayor es el riesgo que puede derivar de cualquier incidencia perturbadora de la normalidad de la actividad de generación de energía. Considerar la fuente del riesgo como elemento determinante del hecho imponible y su traslado como magnitud de la base imponible es la forma de incorporar la necesaria modulación del impuesto en términos de extrafiscalidad, según sea más o menos eficiente el proceso productivo: un uso más eficiente del combustible nuclear (menos cantidad de combustible para producir la misma energía) debe conllevar una menor cuota tributaria.
+Finalmente, la creación de este impuesto conlleva, a su vez, la modificación de la Ley 4/1997, de 20 de mayo, de protección civil de Cataluña, que regula el gravamen de protección civil que grava las centrales nucleares, de modo que estas, a partir de la entrada en vigor de la presente ley, quedan excluidas de la tributación del gravamen.
+El capítulo IV recoge los preceptos aplicables a todos y cada uno de los tributos nuevos, relativos a aspectos de gestión, recaudación e inspección; el régimen de infracciones y sanciones, y el de recursos y reclamaciones.
+
+## CAPÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación de la Ley.
+1. El objeto de la presente ley es la creación, como tributos propios de la Generalidad, de los siguientes impuestos:
+a) El impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial.
+b) El impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria.
+2. Los impuestos a los que se refiere el apartado 1 son aplicables en todo el territorio de Cataluña, y son compatibles con otros impuestos y tasas.
+Se declara inconstitucional y nulo el apartado 1.c), por sentencia 74/2016 del TC de 14 de abril de 2016. Ref. BOE-A-2016-4858.
+ Se levanta la suspensión de la vigencia y aplicación del apartado 1.c), por auto del TC de 1 de diciembre de 2015. Ref. BOE-A-2015-13384.
+ Se suspende la vigencia y aplicación del apartado 1.c) desde el 17 de julio de 2015 para las partes en el proceso y desde el 24 de julio de 2015 para los terceros por providencia del TC que admite a trámite el recurso de inconstitucionalidad 4292/2015. Ref. BOE-A-2015-8266.
+
+## CAPÍTULO I
+
+Impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial
+
+### Artículo 2
+
+Artículo 2. Objeto.
+El objeto del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial es gravar la emisión de óxidos de nitrógeno de las aeronaves en vuelos comerciales de pasajeros y de mercancías en los aeródromos durante el ciclo LTO(landing and take-off), que comprende las fases de rodaje de entrada al aeropuerto, de rodaje de salida del aeropuerto, de despegue y de aterrizaje, por el riesgo que provoca en el medio ambiente.
+Téngase en cuenta que esta última actualización por el art. 4.1 de la Ley 2/2016, de 2 de noviembre. Ref. BOE-A-2016-11020., entra en vigor el 1 de enero de 2017.
+ Redacción anterior:
+ "El objeto del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial es gravar la emisión de óxidos de nitrógeno de las aeronaves en vuelos comerciales de pasajeros en los aeródromos durante el ciclo LTO (landing and take-off) –que comprende las fases de rodaje de entrada al aeropuerto, de rodaje de salida del aeropuerto, de despegue y de aterrizaje–, por el riesgo que provoca en el medio ambiente."
+Se modifica por el art. 4.1 de la Ley 2/2016, de 2 de noviembre. Ref. BOE-A-2016-11020.
+
+### Artículo 3
+
+Artículo 3. Hecho imponible.
+1. Constituye el hecho imponible del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial la emisión de óxidos de nitrógeno de las aeronaves en vuelos comerciales de pasajeros y de mercancías durante el ciclo LTO en aeródromos pertenecientes a municipios declarados zonas de protección especial del ambiente atmosférico por la normativa vigente.
+Téngase en cuenta que esta última actualización del apartado 1 por el art. 4.2 de la Ley 2/2016, de 2 de noviembre. Ref. BOE-A-2016-11020., entra en vigor el 1 de enero de 2017.
+ Redacción anterior:
+ "1. Constituye el hecho imponible del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial la emisión de óxidos de nitrógeno de las aeronaves en vuelos comerciales de pasajeros durante el ciclo LTO en aeródromos pertenecientes a municipios declarados zonas de protección especial del ambiente atmosférico por la normativa vigente."
+2. A los efectos de la presente ley, los vuelos de posicionamiento no se consideran vuelos comerciales.
+3. No quedan sujetos al presente impuesto los siguientes vuelos:
+a) Los vuelos efectuados por aeronaves medicalizadas.
+b) Los vuelos de helicópteros destinados al transporte de enfermos.
+c) Los vuelos destinados a servicios públicos, como la toma de imágenes del tráfico, la cartografía, la lucha contra incendios u otros servicios análogos.
+Se modifica el apartado 1 por el art. 4.2 de la Ley 2/2016, de 2 de noviembre. Ref. BOE-A-2016-11020.
+
+### Artículo 4
+
+Artículo 4. Exenciones.
+Quedan exentos del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial:
+a) Las aeronaves con un factor de emisión inferior a dos kilogramos de óxidos de nitrógeno por ciclo LTO.
+b) Los vuelos que se dan en situaciones excepcionales, como los aterrizajes inducidos por problemas de operatividad en aeródromos próximos, los aterrizajes de emergencia o las acciones específicas de apoyo a zonas donde se realizan campañas solidarias y humanitarias.
+
+### Artículo 5
+
+Artículo 5. Sujeto pasivo.
+Son sujetos pasivos del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial, a título de contribuyentes, las compañías aéreas y las personas físicas o jurídicas que operan o fletan vuelos que salen de un aeródromo de Cataluña.
+
+### Artículo 6
+
+Artículo 6. Base imponible.
+1. La base imponible del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial está constituida por la cantidad, en kilogramos, de óxidos de nitrógeno emitida durante el ciclo LTO de las aeronaves durante el período impositivo.
+2. Al efecto de determinar la base imponible de este impuesto, se aplicarán los factores de emisión que determina la guía de inventarios de emisiones EMEP/EEA, de la Agencia Europea de Medio Ambiente. En el caso de modelos de aeronave no incluidos en esta guía debe aplicarse el factor de emisión declarado por el fabricante correspondiente al motor instalado en estos modelos de aeronave y, en su defecto, el factor de emisión del motor que, por sus características técnicas sea equiparable en cuanto a la emisión de óxidos de nitrógeno. En el caso de los helicópteros, los factores de emisión aplicables son los establecidos la Oficina Federal de Aviación Civil de Suiza.
+3. La base imponible de este impuesto se calcula sumando las bases imponibles parciales que resultan de multiplicar, por cada modelo de aeronave del contribuyente, el número de vuelos anuales por el factor de emisión de óxidos de nitrógeno correspondiente a ese modelo de aeronave.
+Se modifica por el art. 6 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Se modifica por el art. 4.3 de la Ley 2/2016, de 2 de noviembre. Ref. BOE-A-2016-11020.
+
+### Artículo 7
+
+Artículo 7. Tipo impositivo y cuota íntegra.
+1. El tipo impositivo es de 3,5 euros por kilogramo de óxidos de nitrógeno.
+2. La cuota íntegra se obtiene de multiplicar la base imponible por el tipo impositivo.
+Se modifica el apartado 1 por el art. 4 del Decreto-ley 12/2019, de 9 de julio. Ref. DOGC-f-2019-90518
+ Se modifica por el art. 4.4 de la Ley 2/2016, de 2 de noviembre. Ref. BOE-A-2016-11020.
+
+### Artículo 8
+
+Artículo 8. Cuota líquida y bonificación.
+1. La cuota líquida del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial se obtiene de aplicar a la cuota íntegra, si procede, una bonificación por el importe que resulte de aplicar el 5 % sobre el producto de la cuota íntegra por el porcentaje de aeronaves del contribuyente que disponen de aleta de extremidad. Este porcentaje se calcula respecto a las aeronaves que operan en el aeródromo correspondiente.
+2. Si la bonificación a la que se refiere el apartado 1 no es aplicable, la cuota líquida coincide con la cuota íntegra.
+
+### Artículo 9
+
+Artículo 9. Período impositivo y devengo.
+1. El período impositivo del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial es el año natural, sin perjuicio de lo que establece el apartado 2.
+2. El período impositivo es inferior al año natural en los supuestos de que el inicio de las actividades en el aeródromo correspondiente se produzca en una fecha posterior al 1 de enero o de que el cese de las actividades se produzca en una fecha anterior al 31 de diciembre. A tal efecto, no se consideran los casos de sucesión en la ejecución de las actividades o de cambio de la denominación del sujeto pasivo si no conllevan un cese de la actividad, sin perjuicio de lo que dispone la Ley general tributaria.
+3. El impuesto se devenga el último día del período impositivo.
+
+### Artículo 10
+
+Artículo 10. Autoliquidación.
+1. El sujeto pasivo está obligado a presentar la autoliquidación del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial y a efectuar su correspondiente ingreso en las condiciones y los plazos que se establecen por reglamento.
+2. El modelo de autoliquidación debe aprobarse por orden del consejero del departamento competente en materia tributaria.
+
+## CAPÍTULO II
+
+Impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria
+
+### Artículo 11
+
+Artículo 11. Objeto.
+El impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria grava la emisión a la atmósfera de las sustancias a las que se refiere el artículo 12, con la finalidad de incentivar conductas más respetuosas hacia el medio ambiente atmosférico y conseguir una mejor calidad del aire, generadas en las siguientes instalaciones:
+a) Las instalaciones industriales clasificadas en el anexo I.1 de la Ley 20/2009, de 4 de diciembre, de prevención y control ambiental de las actividades.
+b) Las instalaciones de combustión con una potencia térmica nominal superior a 20 megavatios térmicos.
+
+### Artículo 12
+
+Artículo 12. Hecho imponible.
+El hecho imponible del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria está constituido por las emisiones canalizadas a la atmósfera de óxidos de nitrógeno, de dióxido de azufre, de partículas y de carbono orgánico total que se generan tanto en instalaciones industriales incluidas en el anexo I.1 de la Ley 20/2009 como en instalaciones de combustión con una potencia térmica nominal superior a 20 megavatios térmicos, siempre que las emisiones de las instalaciones sean superiores a 150 toneladas anuales de dióxido de azufre, de 100 toneladas anuales de óxidos de nitrógeno, de 50 toneladas anuales de partículas o de 150 toneladas anuales de carbono orgánico total.
+
+### Artículo 13
+
+Artículo 13. Sujeto pasivo.
+Son sujetos pasivos del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria, a título de contribuyentes, las personas físicas o jurídicas y las entidades a las que hace referencia el artículo 35.4 de la Ley general tributaria que realicen cualquiera de las actividades que constituyen el hecho imponible.
+
+### Artículo 14
+
+Artículo 14. Base imponible.
+1. La base imponible del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria está constituida por las emisiones másicas de cada una de las sustancias contaminantes a la atmósfera emitidas por una misma instalación durante el período impositivo correspondiente.
+2. La base imponible de cada establecimiento es la carga másica anual que emite a la atmósfera con relación a cada contaminante, calculada según la siguiente fórmula:
+Carga másica anual del establecimiento = Carga másica de cada foco del establecimiento
+3. Para cada foco emisor, la carga másica anual debe calcularse según la siguiente fórmula:
+Donde:
+– Concentración es la concentración media anual de cada foco emisor.
+– Caudal es el caudal medio anual de cada foco emisor.
+– Horas anuales de funcionamiento es el tiempo anual de funcionamiento de cada foco.
+4. Para calcular cada factor al que se refieren los apartados 2 y 3, debe aplicarse el procedimiento que se establece por reglamento.
+5. Al efecto del cálculo de la emisión másica del establecimiento no computan las emisiones asociadas a calderas que utilizan combustibles convencionales: gas natural, propano, gas licuado del petróleo, gasóleo, fuelóleo, turba, lignito, hulla, antracita, coque, biomasa –definida de acuerdo con el punto 31 del artículo 3 de la Directiva 2010/75/EU– y biogás, y que tengan una potencia inferior a 2,3 megavatios térmicos.
+6. No forman parte de la carga másica anual emitida por el establecimiento las emisiones másicas de sus instalaciones de cogeneración que tienen una potencia nominal inferior a 20 megavatios térmicos y que utilizan como combustible gas natural o biogás con un contenido de azufre como el del gas natural.
+
+### Artículo 15
+
+Artículo 15. Base liquidable.
+La base liquidable del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria se obtiene de reducir la base imponible de cada tipo de contaminante en los siguientes importes:
+a) Dióxido de azufre: 150 toneladas anuales.
+b) Óxidos de nitrógeno: 100 toneladas anuales.
+c) Partículas: 50 toneladas anuales.
+d) Carbono orgánico total: 150 toneladas anuales.
+
+### Artículo 16
+
+Artículo 16. Tipo impositivo y cuota íntegra.
+La cuota íntegra del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria es el resultado de aplicar a la base liquidable, para cada sustancia, los siguientes tipos:
+a) 45 euros por tonelada de dióxido de azufre.
+b) 75 euros por tonelada de óxidos de nitrógeno.
+c) 60 euros por tonelada de partículas.
+d) 45 euros por tonelada de carbono orgánico total.
+
+### Artículo 17
+
+Artículo 17. Bonificaciones.
+La cuota líquida del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria se obtiene de aplicar a la cuota íntegra las siguientes bonificaciones:
+a) Una bonificación del 50 % del porcentaje que resulta de la carga másica anual proveniente de instalaciones de cogeneración ubicadas en establecimientos industriales con una potencia nominal superior a 20 megavatios térmicos que utilizan como combustible gas natural o biogás respecto a la carga másica anual del establecimiento. A los efectos de esta bonificación, el contenido de azufre del biogás no puede ser superior al que establece la normativa para el gas natural.
+b) Una bonificación del 10 % de la inversión efectuada en el período impositivo en bienes del activo material destinados a la protección del medio ambiente, siempre que conlleve una mejora de las exigencias establecidas por la normativa y que estén incluidas en programas, convenios o acuerdos con la administración competente en materia de medio ambiente. Dan derecho a la bonificación, a los efectos de lo establecido por el presente artículo, las inversiones asociadas a evitar la contaminación atmosférica en los siguientes ámbitos, siempre que sean certificadas por la Dirección General de Calidad Ambiental y que el importe máximo de la bonificación no supere el 15 % de la cuota íntegra:
+1.º Tratamiento o reducción de las emisiones a la atmósfera.
+2.º Cambios de combustible por combustibles más limpios.
+3.º Pavimentación para evitar emisiones difusas.
+4.º Cambio en los procesos con el fin de reducir las emisiones a la atmósfera.
+Se modifica la letra b) por la disposición modificativa 4 de la Ley 14/2015, de 21 de julio. Ref. BOE-A-2015-9206.
+
+### Artículo 18
+
+Artículo 18. Período impositivo y devengo.
+1. El período impositivo del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria es el año natural, sin perjuicio de lo que establece el apartado 2.
+2. El período impositivo es inferior al año natural en los supuestos de que el inicio de las actividades se produzca en una fecha posterior al 1 de enero o de que el cese de las actividades se produzca en una fecha anterior al 31 de diciembre.
+3. Al efecto de lo que establece el apartado 2, no se consideran los casos de sucesión en la ejecución de las actividades o de cambio de la denominación del sujeto pasivo si no conllevan un cese de la actividad en la instalación, sin perjuicio de lo que dispone la Ley general tributaria.
+4. El impuesto se devenga el último día del período impositivo.
+
+### Artículo 19
+
+Artículo 19. Liquidación y pago del impuesto.
+1. El sujeto pasivo del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria está obligado a presentar la autoliquidación para cada una de las instalaciones en las que se realizan las actividades gravadas, y a efectuar su correspondiente ingreso en las condiciones y los plazos que se establecen por reglamento.
+2. El modelo de autoliquidación debe aprobarse por orden del consejero del departamento competente en materia tributaria.
+
+### Artículo 20
+
+Artículo 20. Afectación.
+Los ingresos derivados del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria están afectados a dotar el Fondo para la protección del ambiente atmosférico, creado por la Ley 22/1983, de 21 de noviembre, de protección del ambiente atmosférico, al Programa de vigilancia y control ambiental atmosférico a la industria y a medidas compensatorias de la contaminación atmosférica.
+
+## CAPÍTULO III
+
+Impuesto sobre la producción de energía eléctrica de origen nuclear
+Se declara inconstitucional y nulo, por sentencia del TC de 14 de abril de 2016. Ref. BOE-A-2016-4858.
+
+### Artículo 21
+
+Artículo 21. Objeto.
+El objeto del impuesto sobre la producción de energía eléctrica de origen nuclear es gravar los riesgos por el impacto y eventual daño en el medio ambiente derivados de la actividad de producción de energía eléctrica de origen nuclear efectuada en el territorio de Cataluña.
+Se levanta la suspensión de la vigencia y aplicación este precepto por auto del TC de 1 de diciembre de 2015. Ref. BOE-A-2015-13384.
+ Se suspende la vigencia y aplicación de este precepto desde el 17 de julio de 2015 para las partes en el proceso y desde el 24 de julio de 2015 para los terceros por providencia del TC que admite a trámite el recurso de inconstitucionalidad 4292/2015. Ref. BOE-A-2015-8266.
+
+### Artículos 21 a 30
+
+Artículo 21 a 30.
+(Anulados)
+Se declaran inconstitucionales y nulos, por sentencia 74/2016 del TC de 14 de abril de 2016. Ref. BOE-A-2016-4858.
+
+### Artículo 22
+
+Artículo 22. Afectación.
+1. Se afectan parcialmente los ingresos del impuesto sobre la producción de energía eléctrica de origen nuclear en la cuantía de 257.154 euros anuales, al efecto de atender la financiación de los medios y las actividades y actuaciones de protección civil expresamente destinadas a la disminución, el control y, si procede, la reducción de los riesgos derivados de la actividad gravada.
+2. El 10% de la recaudación efectiva del impuesto sobre la producción de energía eléctrica de origen nuclear debe ser destinado a nutrir un fondo orientado a fomentar la reactivación económica de las zonas afectadas por actividades de producción de energía eléctrica de origen nuclear, con el fin de promover y mejorar su competitividad y su diversificación económica, de acuerdo con el desarrollo reglamentario que debe llevarse a cabo en los seis meses siguientes a la aprobación de la Ley de medidas fiscales, financieras y administrativas para el 2015.
+Se levanta la suspensión de la vigencia y aplicación este precepto por auto del TC de 1 de diciembre de 2015. Ref. BOE-A-2015-13384.
+ Se suspende la vigencia y aplicación de este precepto desde el 17 de julio de 2015 para las partes en el proceso y desde el 24 de julio de 2015 para los terceros por providencia del TC que admite a trámite el recurso de inconstitucionalidad 4292/2015. Ref. BOE-A-2015-8266.
+ Se modifica el apartado 2 por el art. 16 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Téngase en cuenta que esta modificación entra en vigor con efectos a partir del inicio del próximo período impositivo, según establece la disposición transitoria 6 de la indicada norma.
+
+### Artículo 23
+
+Artículo 23. Hecho imponible.
+El hecho imponible del impuesto sobre la producción de energía eléctrica de origen nuclear es la utilización de combustible nuclear para la producción de energía eléctrica, por el efecto que puede tener en el medio ambiente y por el daño que eventualmente puede producir en él.
+Se levanta la suspensión de la vigencia y aplicación este precepto por auto del TC de 1 de diciembre de 2015. Ref. BOE-A-2015-13384.
+ Se suspende la vigencia y aplicación de este precepto desde el 17 de julio de 2015 para las partes en el proceso y desde el 24 de julio de 2015 para los terceros por providencia del TC que admite a trámite el recurso de inconstitucionalidad 4292/2015. Ref. BOE-A-2015-8266.
+
+### Artículo 24
+
+Artículo 24. Sujeto pasivo y responsable solidario.
+1. Son sujetos pasivos del impuesto sobre la producción de energía eléctrica de origen nuclear, a título de contribuyentes, las personas físicas o jurídicas y los entes sin personalidad jurídica a los que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que utilizan combustible nuclear para la producción de energía eléctrica.
+2. Son responsables solidarios de la deuda tributaria de este impuesto los propietarios de las instalaciones en las que se realiza la actividad de producción de energía eléctrica de origen nuclear.
+Se levanta la suspensión de la vigencia y aplicación este precepto por auto del TC de 1 de diciembre de 2015. Ref. BOE-A-2015-13384.
+ Se suspende la vigencia y aplicación de este precepto desde el 17 de julio de 2015 para las partes en el proceso y desde el 24 de julio de 2015 para los terceros por providencia del TC que admite a trámite el recurso de inconstitucionalidad 4292/2015. Ref. BOE-A-2015-8266.
+
+### Artículo 25
+
+Artículo 25. Exención subjetiva.
+Quedan exentos del impuesto sobre la producción de energía eléctrica de origen nuclear el Estado, la Generalidad y las corporaciones locales, así como sus organismos y los entes que dependen de ellos.
+Se levanta la suspensión de la vigencia y aplicación este precepto por auto del TC de 1 de diciembre de 2015. Ref. BOE-A-2015-13384.
+ Se suspende la vigencia y aplicación de este precepto desde el 17 de julio de 2015 para las partes en el proceso y desde el 24 de julio de 2015 para los terceros por providencia del TC que admite a trámite el recurso de inconstitucionalidad 4292/2015. Ref. BOE-A-2015-8266.
+
+### Artículo 26
+
+Artículo 26. Base imponible.
+1. La base imponible del impuesto sobre la producción de energía eléctrica de origen nuclear está constituida por el peso de combustible nuclear utilizado en el período impositivo, expresado en toneladas.
+2. La base imponible del impuesto se determina para cada instalación en la que se realiza la actividad de producción de energía eléctrica de origen nuclear.
+3. La base imponible del impuesto se determina, como regla general, por el método de estimación directa, aplicado de conformidad con lo que dispone la Ley general tributaria.
+Se levanta la suspensión de la vigencia y aplicación este precepto por auto del TC de 1 de diciembre de 2015. Ref. BOE-A-2015-13384.
+ Se suspende la vigencia y aplicación de este precepto desde el 17 de julio de 2015 para las partes en el proceso y desde el 24 de julio de 2015 para los terceros por providencia del TC que admite a trámite el recurso de inconstitucionalidad 4292/2015. Ref. BOE-A-2015-8266.
+
+### Artículo 27
+
+Artículo 27. Tipo de gravamen.
+El tipo de gravamen del impuesto sobre la producción de energía eléctrica de origen nuclear es de 800.000 euros por tonelada de combustible utilizado.
+Se levanta la suspensión de la vigencia y aplicación este precepto por auto del TC de 1 de diciembre de 2015. Ref. BOE-A-2015-13384.
+ Se suspende la vigencia y aplicación de este precepto desde el 17 de julio de 2015 para las partes en el proceso y desde el 24 de julio de 2015 para los terceros por providencia del TC que admite a trámite el recurso de inconstitucionalidad 4292/2015. Ref. BOE-A-2015-8266.
+
+### Artículo 28
+
+Artículo 28. Cuota tributaria.
+La cuota tributaria del impuesto sobre la producción de energía eléctrica de origen nuclear se obtiene de aplicar a la base imponible el tipo de gravamen.
+Se levanta la suspensión de la vigencia y aplicación este precepto por auto del TC de 1 de diciembre de 2015. Ref. BOE-A-2015-13384.
+ Se suspende la vigencia y aplicación de este precepto desde el 17 de julio de 2015 para las partes en el proceso y desde el 24 de julio de 2015 para los terceros por providencia del TC que admite a trámite el recurso de inconstitucionalidad 4292/2015. Ref. BOE-A-2015-8266.
+
+### Artículo 29
+
+Artículo 29. Período impositivo y devengo.
+1. El período impositivo del impuesto sobre la producción de energía eléctrica de origen nuclear es el año natural, sin perjuicio de lo que establece el apartado 2.
+2. El período impositivo es inferior al año natural en los supuestos de que el inicio de las actividades se produzca en una fecha posterior a 1 de enero o de que el cese de las actividades se produzca en una fecha anterior a 31 de diciembre. A tal efecto, no se consideran los casos de sucesión en la ejecución de las actividades o de cambio de la denominación del sujeto pasivo si no conllevan un cese de la actividad en la instalación, sin perjuicio de lo que dispone la Ley general tributaria.
+3. El impuesto se devenga el último día del período impositivo.
+Se levanta la suspensión de la vigencia y aplicación este precepto por auto del TC de 1 de diciembre de 2015. Ref. BOE-A-2015-13384.
+ Se suspende la vigencia y aplicación de este precepto desde el 17 de julio de 2015 para las partes en el proceso y desde el 24 de julio de 2015 para los terceros por providencia del TC que admite a trámite el recurso de inconstitucionalidad 4292/2015. Ref. BOE-A-2015-8266.
+
+### Artículo 30
+
+Artículo 30. Autoliquidación y pago fraccionado.
+1. El sujeto pasivo del impuesto sobre la producción de energía eléctrica de origen nuclear está obligado a presentar la autoliquidación del impuesto y a efectuar su correspondiente ingreso durante los primeros dos meses del año siguiente a la finalización del período impositivo.
+2. Durante el período impositivo del impuesto los sujetos pasivos deben efectuar pagos fraccionados en concepto de pagos a cuenta, referidos a trimestres naturales, en los primeros veinte días naturales de los meses de abril, julio y octubre de cada año natural, en el lugar y la forma que establece el reglamento.
+3. El importe de los pagos fraccionados equivale a la cuota correspondiente al valor de las magnitudes determinantes de la base imponible durante el respectivo trimestre natural.
+4. Los pagos fraccionados efectuados durante el período impositivo deben deducirse de la cuota tributaria resultante de la autoliquidación a la que se refiere el apartado 1.
+5. El modelo de autoliquidación debe aprobarse por orden del consejero del departamento competente en materia tributaria.
+Se levanta la suspensión de la vigencia y aplicación este precepto por auto del TC de 1 de diciembre de 2015. Ref. BOE-A-2015-13384.
+ Se suspende la vigencia y aplicación de este precepto desde el 17 de julio de 2015 para las partes en el proceso y desde el 24 de julio de 2015 para los terceros por providencia del TC que admite a trámite el recurso de inconstitucionalidad 4292/2015. Ref. BOE-A-2015-8266.
+
+## CAPÍTULO IV
+
+Normas comunes
+
+### Artículo 31
+
+Artículo 31. Gestión, recaudación e inspección.
+La gestión, la recaudación y la inspección de los impuestos creados por la presente ley corresponden a la Agencia Tributaria de Cataluña, de acuerdo con lo que dispone la Ley 7/2007, de 17 de julio, de la Agencia Tributaria de Cataluña, sin perjuicio de la colaboración con los órganos de inspección sectorialmente competentes.
+
+### Artículo 32
+
+Artículo 32. Infracciones y sanciones.
+El régimen de infracciones y sanciones en materia de los impuestos creados por la presente ley es el vigente para los tributos propios de la Generalidad.
+
+### Artículo 33
+
+Artículo 33. Recursos y reclamaciones.
+Los actos de gestión, de inspección y de recaudación dictados en el ámbito de los impuestos creados por la presente ley pueden ser objeto de reclamación económico-administrativa ante la Junta de Finanzas, sin perjuicio de la previa interposición, con carácter potestativo, del recurso de reposición ante el órgano que dictó el acto impugnado.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Modificación de la Ley 22/1983, de 21 de noviembre, de protección del ambiente atmosférico.
+Se modifica el artículo 15 de la Ley 22/1983, de 21 de noviembre, que queda redactado del siguiente modo:
+«Artículo 15.
+1. Se crea el Fondo para la protección del ambiente atmosférico.
+2. El Fondo se destina a financiar los gastos y las inversiones públicas en materia de protección del ambiente atmosférico y de mejora de la calidad acústica, al fomento de las actuaciones en instalaciones públicas y privadas destinadas a disminuir los niveles de emisión de contaminantes a la atmósfera y, en general, a las políticas de prevención y mejora de la calidad atmosférica.
+3. El Fondo se integra, de forma diferenciada, en el presupuesto del departamento de la Generalidad competente en materia de calidad atmosférica.
+4. El Fondo se nutre de los siguientes recursos:
+a) El importe de las sanciones impuestas por la Administración de la Generalidad, como consecuencia de infracciones de la normativa que regula la contaminación atmosférica.
+b) Los ingresos derivados de los impuestos ambientales que gravan las emisiones contaminantes a la atmósfera.
+c) Las donaciones, las herencias, las aportaciones y las ayudas que los particulares, las empresas, las instituciones u otras administraciones destinan específicamente al Fondo.
+d) Los remanentes procedentes de economías en la contratación y los ingresos procedentes de revocaciones o renuncias de ayudas o subvenciones financiadas con el Fondo.
+e) Las aportaciones del Presupuesto de la Generalidad de Cataluña y cualquier otro ingreso de derecho público que le sea asignado reglamentariamente.
+5. El Fondo es administrado y controlado por un órgano colegiado adscrito al departamento de la Generalidad competente en materia de calidad ambiental, cuya composición debe establecerse por reglamento.»
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Modificación del gravamen de protección civil.
+1. Se modifica el punto quinto del apartado 1 del artículo 59 de la Ley 4/1997, de 20 de mayo, de Protección Civil de Cataluña, que queda redactado del siguiente modo:
+«Quinto. Las instalaciones y estructuras destinadas a la producción o a la transformación de energía eléctrica: la base del gravamen debe constituirse con la potencia nominal, expresada en megavatios. El tipo de gravamen es de 22,07 euros por megavatio.»
+2. Se añade una letra, la f), al artículo 60 de la Ley 4/1997, de 20 de mayo, de Protección Civil de Cataluña, con el siguiente texto:
+«f) Las centrales nucleares.»
+3. En el año 2014 el período impositivo correspondiente al gravamen de protección civil que grava las centrales nucleares finaliza el día anterior al de la entrada en vigor de la presente ley, día en que se devenga el impuesto correspondiente a este ejercicio. La cuota resultante del gravamen de protección civil para este período debe prorratearse por el número de días del período impositivo.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Tasa por la realización de actividades que son competencia del Tribunal Catalán de Contratos del Sector Público.
+Se modifica el artículo 7 ter. 1-4 del capítulo I del título VII ter del texto refundido de la Ley de Tasas y Precios Públicos de la Generalidad de Cataluña, aprobado por el Decreto Legislativo 3/2008, de 25 de junio, que queda redactado del siguiente modo:
+«Artículo 7 ter. 1-4 Cuota.
+«1. Cada recurso especial en materia de contratación, reclamación para la adopción de medidas provisionales o cuestión de nulidad que constituyen el hecho imponible de esta tasa y que sean sometidos al conocimiento del Tribunal Catalán de Contratos del Sector Público devenga la siguiente cuota:
+Cuantía del procedimiento
+ Importe de la cuota
+ –
+ Euros
+ Hasta 500.000 euros
+ 750
+ De 500.001 euros a 1.000.000 de euros
+ 1.500
+ De 1.000.001 euros a 5.000.000 de euros
+ 2.000
+ De 5.000.001 euros a 10.000.000 de euros
+ 3.500
+ Más de 10.000.000 de euros
+ 5.000
+2. A los efectos del apartado 1, la cuantía del procedimiento se fija en el valor estimado del contrato objeto del recurso, reclamación o cuestión de nulidad determinado por el importe total, sin incluir el impuesto sobre el valor añadido, en los términos del artículo 88.1 del texto refundido de la Ley de contratos del sector público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre.
+3. En el caso de que el objeto del recurso, reclamación o cuestión de nulidad sea un lote, la cuantía del procedimiento es el valor estimado del lote. En el caso de que se impugnen a la vez dos o más lotes, la cuantía del procedimiento es el resultado de sumar los valores estimados de cada lote impugnado.
+4. Cuando la tasa ha sido abonada por la reclamación de adopción de medidas provisionales, no es necesario efectuar ningún otro pago para la interposición del recurso posterior.»
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Entrada en vigor del artículo 121 de la Ley 2/2014, de 27 de enero, de medidas fiscales, administrativas, financieras y del sector público.
+Lo establecido por el artículo 20.4 de la Ley 26/2009, de 23 de diciembre, de medidas fiscales, financieras y administrativas, de acuerdo con el texto del artículo 121 de la Ley  2/2014, de 27 de enero, de medidas fiscales, administrativas, financieras y del sector público, es aplicable a las cantidades invertidas en la adquisición de acciones o participaciones sociales efectuada a partir de la entrada en vigor de la Ley 2/2014, de 27 de enero.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Elementos cuantitativos.
+La Ley de presupuestos de la Generalidad de Cataluña puede modificar las bases, los tipos de gravamen, las reducciones, las bonificaciones y los importes establecidos por los artículos 6, 7, 8, 14, 15, 16, 17, 22, 26 y 27 de la presente ley.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Normativa supletoria.
+En la aplicación de los tributos creados por esta ley rige supletoriamente la Ley general tributaria y las normas complementarias que la desarrollan.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Pagos fraccionados del impuesto sobre la producción de energía eléctrica de origen nuclear mientras no se realice el desarrollo reglamentario.
+Mientras no se apruebe el reglamento de desarrollo de la presente ley, las autoliquidaciones y los pagos fraccionados en concepto de pagos a cuenta regulados por el artículo 30 deben presentarse e ingresarse en las entidades colaboradoras de recaudación autorizadas a tal efecto, utilizando el modelo de autoliquidación que apruebe por orden el consejero competente por razón de la materia.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Autoliquidación correspondiente al año 2014 del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria.
+Sin perjuicio de lo dispuesto por el artículo 19, los sujetos pasivos deben presentar e ingresar entre el 1 y el 20 de octubre de 2015 la autoliquidación correspondiente al ejercicio 2014 del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria.
+
+### Disposición derogatoria
+
+Disposición derogatoria. Tasas por la prestación de los servicios de la Agencia Catalana del Agua.
+Quedan derogadas, con efecto a 31 de enero de 2014, las letras p), q), r) y s) del apartado 1 del artículo 5.1-5 del texto refundido de la Ley de Tasas y Precios Públicos de la Generalidad de Cataluña, aprobado por el Decreto Legislativo 3/2008, de 25 de junio.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+Se faculta al Gobierno para que dicte las disposiciones necesarias para desarrollar y aplicar la presente ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+1. La presente ley entra en vigor el 1 de noviembre de 2014.
+2. El período impositivo correspondiente al ejercicio 2014 de los impuestos regulados por los capítulos II y III empieza el 1 de noviembre de 2014.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los Tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 10 de octubre de 2014.
+El Presidente de la Generalidad de Cataluña,
+ El Consejero de Economía y Conocimiento,
+ Artur Mas i Gavarró.
+ Andreu Mas-Colell.

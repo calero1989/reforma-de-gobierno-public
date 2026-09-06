@@ -1,0 +1,1329 @@
+# Ley 4/1998, de 11 de junio, del Patrimonio Cultural Valenciano.
+
+- Identificador BOE: `BOE-A-1998-17524`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-17524
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el DOCV núm. 3435 de 16 de febrero de 1999. Ref. BOE-A-1999-7247.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente ley:
+PREÁMBULO
+I
+El patrimonio cultural valenciano es una de las principales señas de identidad del pueblo valenciano y el testimonio de su contribución a la cultura universal. Los bienes que lo integran constituyen un legado patrimonial de inapreciable valor, cuya conservación y enriquecimiento corresponde a todos los valencianos y especialmente a las instituciones y los poderes públicos que los representan.
+El Estatuto de Autonomía de la Comunidad Valenciana, en su artículo 31, atribuye a la Generalitat competencia exclusiva sobre el patrimonio histórico, artístico, monumental, arquitectónico, arqueológico y científico y sobre los archivos, bibliotecas, museos, hemerotecas y demás centros de depósito cultural que no sean de titularidad estatal, sin perjuicio de la reserva de competencia en favor del Estado sobre la defensa del patrimonio cultural, artístico y monumental contra la exportación y la expoliación, establecida por el artículo 149. 1, 28.a de la Constitución Española; y el artículo 33 le atribuye la ejecución de la legislación del Estado en materia de museos, archivos y bibliotecas de titularidad estatal, cuya ejecución no se reserve al Estado. Por otra parte, el artículo 46 del texto constitucional dispone que los poderes públicos garantizarán la conservación y promoverán el enriquecimiento del patrimonio histórico, cultural y artístico de los pueblos de España y de los bienes que lo integran, cualquiera que sea su régimen jurídico y su titularidad.
+El Estado, basándose en esta reserva y en el título competencial del artículo 149.2 de la Constitución, ha promulgado la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español y el Real Decreto 111/1986, de 10 de enero, que la desarrolla parcialmente, modificado este último por el Real Decreto 64/1994, de 21 de enero, para adaptarlo a la interpretación dada por el Tribunal Constitucional a determinados preceptos de la Ley. Normativa ésta que ha sido hasta ahora, en su integridad, de aplicación directa en la Comunidad Valenciana.
+El pleno ejercicio por la Generalitat de su competencia propia en materia de patrimonio cultural exige, sin embargo, el establecimiento en el ámbito de la Comunidad Valenciana de una norma con rango de ley que dé cumplida respuesta a las necesidades que presenta la protección de este patrimonio, superando las insuficiencias del marco legal hasta ahora vigente.
+En el ejercicio, pues, de esta competencia, y con este objetivo, se promulga la presente Ley del Patrimonio Cultural Valenciano.
+II
+La Ley del Patrimonio Cultural Valenciano constituye el marco legal de la acción pública y privada dirigida a la conservación, difusión, fomento y acrecentamiento del patrimonio cultural en el ámbito de la Comunidad Valenciana, determinando las competencias de los poderes públicos en la materia, las obligaciones y derechos que incumben a los titulares de los bienes y las sanciones que se derivan de las infracciones a sus preceptos. Sin embargo no se concibe la Ley, tal como ha sido frecuente en materia de patrimonio histórico, como un conjunto de normas predominantemente prohibitivas al lado de algunas otras que establecen en favor de los titulares de los bienes ciertos derechos, de carácter más teórico que real al no contar con mecanismos precisos para su ejercicio ni correlativas obligaciones de la Administración. Por el contrario, el legislador parte del hecho, tantas veces confirmado por la experiencia, de que sin la colaboración de la sociedad en la conservación, restauración y rehabilitación del ingente número de bienes del patrimonio cultural, en su gran mayoría de titularidad privada, la acción pública en esta materia está abocada al fracaso por falta de medios suficientes para afrontar una tarea de tales proporciones.
+Por ello la Ley trata, en primer lugar, de fomentar el aprecio general del patrimonio cultural, a través de la educación y la información, como el medio más eficaz de asegurar la colaboración social en su protección y conservación. Y pretende también, de modo especial, promover el interés de los propietarios de los bienes en la conservación, restauración y rehabilitación de éstos a través de medidas concretas, cuya aplicación se concibe en muchos casos como un derecho del propietario, legalmente exigible, establecido como contraprestación a las inevitables limitaciones dominicales que la Ley impone. A este mismo propósito responde el principio general establecido en el artículo 9, que obliga a la Administración a favorecer la incorporación de los bienes del patrimonio cultural a usos activos, adecuados a su naturaleza.
+Si ambos objetivos se logran, contando además con la acción de los poderes públicos, en sus tres aspectos de conservación del propio patrimonio, vigilancia y fomento, el cumplimiento de los fines de la Ley estará en gran parte asegurado.
+III
+La Ley adopta en su denominación el término cultural por considerarlo el más ajustado a la amplitud de los valores que, según lo dispuesto en el artículo 1, definen el patrimonio que constituye su objeto, cuya naturaleza no se agota en lo puramente histórico o artístico. Sin embargo, no obstante esta amplitud con que se conceptúa el patrimonio cultural, se diferencian ya en el artículo 2 las tres categorías de bienes que forman parte del mismo según la importancia de los valores que incorporan, a las que se relacionan distintos grados de protección, pormenorizados a lo largo del articulado de la Ley. Se trata así de distinguir los bienes que tienen alguno de los valores señalados en el artículo 1, que son obviamente innumerables y cuya regulación se dirige en buena medida a facilitar su acceso a un nivel superior de protección cuando sean acreedores a ello, de aquellos otros que por su mayor valor cultural exigen la concentración de los esfuerzos públicos y privados en las tareas de su conservación y fomento, mediante su previa inclusión en el Inventario.
+IV
+El Inventario General del Patrimonio Cultural Valenciano, al que se dedica el primer capítulo del título II, es la institución básica en torno a la cual se configura el sistema legal de clasificación y protección de los bienes de naturaleza cultural que merecen especial amparo. La Ley concibe el Inventario como un instrumento unitario, adscrito a la Conselleria de Cultura, Educación y Ciencia, que evite la dispersión derivada de la existencia de distintos instrumentos de catalogación según se refieran a bienes muebles o inmuebles. En él se inscriben toda clase de bienes, muebles, inmuebles o inmateriales, clasificados según dos niveles de protección: El correspondiente a los bienes declarados de interés cultural y el asignado a los bienes inventariados que no sean objeto de esta declaración. A los primeros se destina la Sección Primera del Inventario y el resto se inscribirán en alguna de las demás secciones, reservándose, por razón de su especialidad, la Sección Cuarta para los bienes del patrimonio documental, bibliográfico y audiovisual que tengan relevancia cultural y la Quinta a los bienes inmateriales del patrimonio etnológico.
+La Ley tiene entre sus objetivos fundamentales el de impulsar la formación de un Inventario lo más completo posible de todos aquellos bienes del patrimonio cultural valenciano que merezcan una protección especial, pues el legislador es consciente de que de ello depende en buena medida el éxito de la política de conservación y fomento de esta riqueza cultural. Prevé distintos procedimientos para la inclusión de los bienes en el Inventario, según la categoría de protección a la que accedan y la naturaleza, mueble, inmueble o inmaterial, de los mismos. Y ha preferido, antes que establecer obligaciones genéricas de difícil cumplimiento, promover el interés de los titulares de bienes de valor cultural en la inscripción de los mismos en el Inventario. Para ello se prevé la aplicación de las medidas de fomento del Título VI con carácter general a todos los bienes incluidos en el Inventario, a los que se equiparan los que tengan iniciado expediente para su inclusión; se constriñe la posibilidad de dación de bienes culturales en pago de deudas a los previamente incluidos en el Inventario; se reconoce a toda persona la condición de interesado para promover la aprobación o modificación de los Catálogos de Bienes y Espacios Protegidos a los efectos de la inclusión en ellos de bienes inmuebles con la calificación de Bienes de Relevancia Local y se establece la preferencia en los concursos de ayudas públicas de los Ayuntamientos que hayan aprobado los mencionados Catálogos.
+El segundo de los capítulos del título II contiene el régimen común a todos los bienes del Inventario. Se establecen los derechos de tanteo y retracto en favor de la Generalitat respecto de los bienes inventariados, y también sobre determinados bienes muebles que se vendan en subasta, y se reconoce el mismo derecho a los Ayuntamientos respecto de los bienes inmuebles inventariados situados en su término municipal. Se declara el interés social para la expropiación, en determinadas circunstancias, de todos los bienes inventariados, no sólo de los declarados de interés cultural, y se proclama respecto de todos los bienes inventariados de titularidad de los entes públicos territoriales el carácter de inalienables e imprescriptibles.
+V
+El capítulo III del mismo título se dedica a los Bienes de Interés Cultural, a los que se reserva el grado máximo de protección legal, regulándose en la sección primera el procedimiento especial para la declaración de interés cultural, con plazos para resolver diferentes en función de la naturaleza de los bienes que sean objeto del expediente. La sección segunda contiene el régimen especial de los bienes inmuebles de interés cultural, que contempla los efectos de la declaración sobre las licencias municipales y el planeamiento urbanístico. Se establece, con carácter general, la necesidad de autorización de la Conselleria de Cultura, Educación y Ciencia para las intervenciones sobre estos bienes, fijándose los criterios a los que han de ajustarse tanto dichas intervenciones como los Planes Especiales de protección, cuya elaboración es obligatoria cuando se produzca la declaración de interés cultural de un bien inmueble, salvo en el caso de los Monumentos y los Jardines Históricos.
+El régimen de los bienes muebles de interés cultural se regula en la sección tercera, estableciéndose el régimen de las intervenciones y los traslados y la prohibición de disgregar las colecciones sin autorización de la Conselleria de Cultura, Educación y Ciencia. Y, finalmente, se dedica la sección cuarta de este capítulo a los bienes inmateriales de interés cultural, cuyo régimen específico de protección vendrá establecido por el Decreto que los declare como tales.
+VI
+El capítulo IV se refiere a los demás bienes del Inventario General. Los primeros de ellos son los Bienes de Relevancia Local, es decir aquellos bienes inmuebles incluidos con esta calificación en los Catálogos de Bienes y Espacios Protegidos regulados por la legislación urbanística. La Ley no hace una recepción en bloque en el Inventario General de todos los inmuebles incluidos en los referidos Catálogos, ni de los que se puedan incluir en el futuro, pues lo cierto es que la mayor parte de ellos tienen un valor cultural relativo, significativo únicamente para el ámbito humano o el entorno en que se sitúan. Por ello se establece la mencionada categoría de Bienes de Relevancia Local dentro de los niveles de protección que han de determinar los Catálogos, en la cual se incluirán los inmuebles que tengan en sí mismos un valor histórico, artístico, arqueológico, paleontológico o etnológico suficiente para justificar la aplicación del régimen de protección, las limitaciones y las medidas de fomento que la Ley reserva a los bienes inventariados.
+En este punto, respetándose la competencia que la normativa urbanística atribuye a la Conselleria de Obras Públicas, Urbanismo y Transportes respecto de la aprobación definitiva de los Catálogos y el procedimiento establecido para su tramitación, se da carácter vinculante al informe de la Conselleria de Cultura, Educación y Ciencia en cuanto se refiere a la calificación de Bienes de Relevancia Local dentro de los Catálogos, asegurándose así, en consonancia con el sistema general establecido por la Ley, la intervención del órgano competente en materia de patrimonio cultural en la decisión sobre el acceso de estos bienes al Inventario General.
+Se trata, en definitiva, de distinguir los bienes inmuebles de valor histórico, artístico, arqueológico, paleontológico o etnológico significativo, que tienen acceso al Inventario, del patrimonio arquitectónico simplemente catalogado, cuyo régimen propio, sin perjuicio de las normas de esta Ley que le son de aplicación, se encuentra en la normativa urbanística y en la de fomento de la rehabilitación de edificios. Con ello se evita la dispersión de los recursos destinados a la protección y fomento del patrimonio cultural y se delimitan con claridad los campos de actuación de los órganos competentes en materia de patrimonio cultural y de vivienda.
+Las dos últimas secciones del capítulo IV se refieren, respectivamente, a los bienes muebles e inmateriales del Inventario, constituidos estos últimos por las actividades y conocimientos de valor etnológico, estableciéndose las particularidades de los respectivos procedimientos para su inscripción y el régimen de protección que les es aplicable.
+VII
+El título III se dedica al patrimonio arqueológico y paleontológico, cuya especialidad exige determinar no sólo el régimen de autorizaciones y licencias al que han de sujetarse las actuaciones arqueológicas y paleontológicas, sino también el de las obras afectadas por éstas, el destino de los productos de dichas actuaciones y el régimen de los hallazgos casuales. La Ley preceptúa la intervención de la Conselleria de Cultura, Educación y Ciencia tanto en la autorización de actuaciones arqueológicas y paleontológicas, como en la de obras que resulten afectadas por la existencia de restos de esta naturaleza, pero dispone la participación de la Generalitat en la financiación de los trabajos arqueológicos o paleontológicos que, en este último caso, hayan de hacerse cuando se trate de obras en las que no pudiera preverse la existencia de aquellos restos. En cuanto al régimen de los hallazgos casuales, se regula el derecho a la recompensa en metálico de los descubridores y propietarios.
+VIII
+El título IV se dedica al régimen de los museos, a los que se equiparan las colecciones museográficas permanentes. La Ley establece el contenido mínimo de los expedientes para la creación o reconocimiento de ambas categorías de instituciones museísticas y prevé su integración, ya sean de titularidad pública o privada, en el Sistema Valenciano de Museos, configurado como una estructura organizativa que se crea para facilitar la coordinación y tutela por parte de la Generalitat de los museos y colecciones museográficas permanentes que se integren en ella. Se establecen los mecanismos legales para la inclusión de los fondos de los museos y colecciones en el Inventario General, con la calificación incluso de Bienes de Interés Cultural, así como el régimen general de los depósitos y las salidas temporales de fondos. Se prohibe la disgregación de los fondos de los museos y colecciones museográficas permanentes sin autorización expresa del órgano competente en materia de patrimonio cultural y se garantiza el acceso público a los museos, salvo las restricciones que la propia Ley prevé.
+Se contemplan, asimismo, medidas especiales de protección de los fondos ante situaciones excepcionales de los propios centros que los albergan y que pudieran afectar de forma negativa a la preservación de aquéllos. Para ello, se condiciona el aumento de fondos en un museo o colección museográfica a la acreditación de la capacidad de la institución para atender debidamente los fines que le son propios en relación a tales fondos, garantizándose en última instancia la exposición pública de los mismos. Se establece también un régimen excepcional para el depósito de los fondos de un museo en otro u otros centros de depósito cuando se ponga en peligro la conservación, seguridad o accesibilidad de los mismos. Y, por último, se tutela el destino de los fondos de un museo en el supuesto de disolución o clausura de éste, al objeto de que el traslado no desvirtúe la naturaleza de los bienes culturales expuestos.
+IX
+El título V se refiere al patrimonio documental, bibliográfico, audiovisual e informático y al régimen general de los archivos y bibliotecas. Se define aquél como integrante del patrimonio cultural valenciano y se ordena la formación del Censo del Patrimonio Documental Valenciano y del Catálogo del Patrimonio Bibliográfico y Audiovisual Valenciano, pero se prevé el acceso al Inventario General, con la categoría incluso de Bienes de Interés Cultural, sólo para los bienes incluidos en dichos Censo y Catálogo que tengan valor cultural significativo, con objeto de no extender abusivamente las medidas y limitaciones que la Ley establece para los bienes del Inventario al ingente número de documentos y obras bibliográficas que integran el mencionado patrimonio. Por otra parte, se determinan las líneas generales del régimen de los archivos y bibliotecas, creándose el Sistema Archivístico Valenciano, y se ordena el establecimiento por vía reglamentaria de las normas sobre conservación y vigencia administrativa de los documentos de las administraciones públicas.
+X
+El título VI contiene las medidas de fomento del patrimonio cultural, dirigidas, por una parte, a compensar a los titulares de bienes del patrimonio cultural de las cargas y limitaciones en sus derechos que la Ley les impone. Significativamente, la Ley sitúa al frente de este título el reconocimiento del interés público de las actividades de conservación y promoción del patrimonio cultural y su carácter de fuente de riqueza económica colectiva, estableciendo la consecuente obligación de la Administración de cooperar a las mismas cuando sean llevadas a cabo por los particulares. Se configuran así las ayudas públicas previstas en la Ley como un derecho de los particulares derivado del cumplimiento de las obligaciones que la propia Ley les impone, superando la concepción de mera concesión graciosa con que en la práctica se las ha venido regulando. Se trata con ello de fomentar el interés de los titulares de estos bienes en su conservación y mantenimiento, no por la vía, tantas veces inoperante por sí misma, de la obligación, la prohibición y la sanción, sino preferentemente mediante la cooperación pública al sostenimiento de las cargas que la naturaleza cultural de los bienes conlleva para sus propietarios.
+Se prevén tres tipos de medidas en relación con los titulares de los bienes. El primero se centra en la ayuda directa a las actuaciones de conservación y acrecentamiento del patrimonio cultural, mediante la financiación del coste de dichas actuaciones con cargo a las consignaciones presupuestarias que a tal efecto se harán anualmente en la Ley de Presupuestos de la Generalitat. Se establece el derecho de los titulares de bienes inmuebles de interés cultural de recibir ayuda pública para el sostenimiento de la carga que supone la visita pública de dichos bienes. Y se opta por concentrar los recursos que la Generalitat destina a la conservación y fomento del patrimonio cultural mediante la obligación de consignar anualmente para dicho fin en la Ley de Presupuestos una cantidad equivalente al 1% del importe del capítulo de inversiones reales de los presupuestos del ejercicio anterior, en lugar del denominado uno por ciento cultural del presupuesto de cada obra pública que se ejecute, sistema este último que la práctica ha demostrado de difícil control y escaso cumplimiento.
+El segundo tipo de medidas se refiere al acceso al crédito oficial o subsidiado con fondos públicos de los titulares de bienes del patrimonio cultural y su objeto es fomentar el interés de éstos en la conservación y rehabilitación de dichos bienes, situándolos en este aspecto en condiciones de igualdad, cuando menos, con las viviendas de nueva construcción.
+Y, por último, el tercer tipo de medidas hace referencia a los beneficios fiscales de que gozan estos bienes. En este punto la Ley ha de contentarse con una declaración general como la contenida en el artículo 95, cuyo desarrollo queda condicionado necesariamente a la ampliación de la capacidad normativa de las Comunidades Autónomas en materia tributaria. No obstante, se incentiva la aplicación por parte de las corporaciones locales de los beneficios fiscales previstos por la legislación estatal y se establece la posibilidad del pago con bienes inscritos en el Inventario General de toda clase de deudas con la Hacienda de la Generalitat.
+En otra dirección, las medidas previstas en el título VI hacen referencia a la acción pública encaminada a promover en la sociedad el aprecio a los valores del patrimonio cultural, a través de la enseñanza, en todos sus niveles, y del reconocimiento oficial de las actuaciones destacadas llevadas a cabo por particulares en defensa de este patrimonio. No es ajena a este mismo fin la obligación, que se establece con carácter general para los entes públicos valencianos, de destinar con preferencia los inmuebles de que sean titulares a una actividad pública que no desvirtúe sus valores artísticos, históricos o culturales, lo que, por un lado, favorece su conservación y, por otro, familiariza a los ciudadanos con dichos bienes y fomenta su aprecio por ellos. Y, en el mismo sentido, se prevé la cesión a los particulares, bajo determinadas condiciones, del uso de los inmuebles de titularidad pública cuando ello redunde en su mejor conservación y apreciación pública.
+XI
+La Ley dedica su último título a las infracciones y sanciones, que se tipifican en la mayor parte de los casos atendiendo a la importancia del daño causado al bien. Las actividades constitutivas de infracción no podrán ser nunca fuente de lucro para el infractor. Se consagra además el principio de necesidad de reparación del daño causado y se aumenta notablemente, en relación con la normativa aplicable hasta ahora, el límite máximo de la sanción por infracciones graves.
+La innecesariedad de la aplicación del régimen sancionador previsto en la Ley será la mejor prueba del cumplimiento de la voluntad colectiva de la que ella misma es expresión: El propósito decidido de los valencianos de conservar y acrecentar la riqueza insustituible de su patrimonio cultural.
+
+## TÍTULO I
+
+Del patrimonio cultural valenciano
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. La presente ley tiene por objeto la protección, la conservación, la difusión, el fomento, la investigación y el acrecentamiento del patrimonio cultural valenciano.
+2. El patrimonio cultural valenciano está constituido por los bienes muebles e inmuebles de valor histórico, artístico, arquitectónico, arqueológico, paleontológico, etnológico, documental, bibliográfico, científico, técnico, o de cualquier otra naturaleza cultural, existentes en el territorio de la Comunitat Valenciana o que, hallándose fuera de él, sean especialmente representativos de la historia y la cultura valenciana. La Generalitat promoverá el retorno a la Comunitat Valenciana de estos últimos a fin de hacer posible la aplicación a ellos de las medidas de protección y fomento previstas en esta ley.
+3. También forman parte del patrimonio cultural valenciano, en calidad de bienes inmateriales del patrimonio etnológico, las creaciones, conocimientos, técnicas, prácticas y usos más representativos y valiosos de las formas de vida y de la cultura tradicional valenciana.
+Asimismo, forman parte de dicho patrimonio como bienes inmateriales las expresiones de las tradiciones del pueblo valenciano en sus manifestaciones musicales, artísticas, deportivas, religiosas, gastronómicas o de ocio, y en especial aquellas que han sido objeto de transmisión oral, las que mantienen y potencian el uso del valenciano y los festejos taurinos tradicionales de la Comunitat Valenciana.
+4. Los Bienes Inmateriales de Naturaleza Tecnológica que constituyan manifestaciones relevantes o hitos de la evolución tecnológica de la Comunitat Valenciana son, así mismo, elementos integrantes del patrimonio cultural valenciano.
+Se modifica el apartado 3 por la disposición final 1.1 de la Ley 6/2015, de 2 de abril. Ref. BOE-A-2015-4616.
+ Se modifica por el art. 1.1 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+ Se modifica por el art. 1.1 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 2
+
+Artículo 2. Clases de bienes.
+Los bienes que, a los efectos de la presente Ley, integran el patrimonio cultural valenciano pueden ser:
+a) Bienes de Interés Cultural Valenciano. Son aquellos que por sus singulares características y relevancia para el patrimonio cultural son objeto de las especiales medidas de protección, divulgación y fomento que se derivan de su declaración como tales.
+b) Bienes inventariados no declarados de interés cultural. Son aquellos que por tener alguno de los valores mencionados en el artículo primero en grado particularmente significativo, aunque sin la relevancia reconocida a los Bienes de Interés Cultural, forman parte del Inventario General del Patrimonio Cultural Valenciano y gozan del régimen de protección y fomento que de dicha inclusión se deriva.
+c) Bienes no inventariados del patrimonio cultural. Son todos los bienes que, conforme al artículo 1.2 de esta Ley, forman parte del patrimonio cultural valenciano y no están incluidos en ninguna de las dos categorías anteriores. Serán objeto de las medidas de protección que esta Ley prevé con carácter general para los bienes del patrimonio cultural, así como de cuantas otras puedan establecer las normas de carácter sectorial por razón de sus valores culturales.
+
+### Artículo 3
+
+Artículo 3. Divulgación.
+Sin perjuicio de la competencia que el artículo 2.3 de la Ley del Patrimonio Histórico Español atribuye a la Administración del Estado, la Generalitat promoverá la divulgación del conocimiento del patrimonio cultural valenciano, tanto en el interior de la Comunidad Autónoma como fuera de ella, pudiendo establecer o impulsar, en el ámbito de sus competencias, los oportunos intercambios culturales, convenios o acuerdos con organismos públicos y con particulares, nacionales, supranacionales o extranjeros.
+
+### Artículo 4
+
+Artículo 4. Colaboración entre las administraciones públicas.
+1. Las administraciones públicas valencianas actuarán de conformidad con el deber de colaboración, con el fin de mejorar la eficiencia de la gestión pública, facilitar la utilización conjunta de medios y servicios públicos y cumplir con la legislación de estabilidad presupuestaria y sostenibilidad financiera para la mejor consecución de los fines previstos en esta ley. La Generalitat prestará asistencia técnica a las demás administraciones públicas valencianas y establecerá los medios de colaboración con ellas en los casos y en la medida en que fuere necesario para el cumplimiento de los fines de la presente ley.
+2. Los municipios están obligados a proteger y dar a conocer los valores del patrimonio cultural existente en su respectivo ámbito territorial. Para ello, podrán colaborar con la Generalitat, mediante las fórmulas de colaboración interadministrativa previstas en la presente ley y en la legislación sobre régimen local y sobre régimen jurídico del sector público, especialmente en los siguientes supuestos:
+a) Tramitar, en los términos previstos en esta ley y en la legislación urbanística, medioambiental y demás que resulten de aplicación en materia de protección del patrimonio cultural, los instrumentos urbanísticos que garanticen la conservación, la difusión, el fomento, la investigación y el acrecentamiento del patrimonio cultural valenciano, en los términos y plazos establecidos al efecto.
+b) Comunicar a la Administración de la Generalitat cualquier amenaza, daño o perturbación de su función social de que sean objeto tales bienes, así como las dificultades y necesidades de cualquier orden que tengan para el cumplimiento de las obligaciones establecidas en la presente ley.
+c) Adoptar las medidas cautelares necesarias para evitar el deterioro, la pérdida o la destrucción de los bienes del patrimonio cultural.
+d) Ejercer las demás funciones que expresamente les atribuye esta ley.
+Se dará preferencia a la suscripción de convenios de colaboración con aquellos municipios que cuenten con Catálogo de Bienes y Espacios Protegidos y, en su caso, Planes Especiales de Protección o asuman el compromiso de su tramitación conforme a la letra a de este apartado.
+3. Las diputaciones provinciales y la Generalitat colaborarán en el desarrollo de los instrumentos urbanísticos previstos en los artículos 34 y 47 de esta ley, la conservación, la protección y la puesta en valor de los bienes integrantes del patrimonio cultural, mediante las fórmulas de colaboración interadministrativa previstas en la presente ley y en la legislación sobre régimen local y sobre régimen jurídico del sector público.
+4. Las universidades valencianas podrán ejercer cuantas funciones les sean encomendadas por la conselleria competente en materia de cultura y colaborar con esta a través de los mismos mecanismos de colaboración y cooperación previstos para las administraciones públicas valencianas.
+5. La articulación de los mecanismos de coordinación, colaboración y cooperación entre las administraciones públicas y las corporaciones de derecho público reguladas en los apartados anteriores determinará los protocolos y los instrumentos conjuntos de actuación, así como los convenios de colaboración, en su caso, con contenido económico o sin él. La financiación de estos mecanismos de coordinación, colaboración y cooperación, cuando proceda, se fijará a través de convenios de colaboración plurianuales u otras fórmulas previstas en la normativa vigente, que serán coherentes, en su caso, con el plan estratégico de subvenciones de la conselleria competente en materia de cultura.
+6. El contenido, suscripción, efectos, duración y extinción de los convenios se establecerá reglamentariamente, además de por lo que se dispone para los mismos en la legislación del régimen jurídico del sector público y sobre régimen local.
+Se modifica por el art. 69.1 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-11
+ Se modifica por el art. 68.1 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 5
+
+Artículo 5. Colaboración de los particulares.
+1. Los propietarios y poseedores de bienes del patrimonio cultural valenciano deben custodiarlos y conservarlos adecuadamente a fin de asegurar el mantenimiento de sus valores culturales y evitar su pérdida, destrucción o deterioro.
+2. Cualquiera que tuviera conocimiento del peligro de destrucción, deterioro o perturbación en su función social de un bien del patrimonio cultural, o de la consumación de tales hechos, deberá comunicarlo inmediatamente a la administración de la Generalitat o al Ayuntamiento correspondiente, quienes adoptarán sin dilación las medidas procedentes en cumplimiento de la presente Ley.
+3. Todas las personas físicas y jurídicas están legitimadas para exigir el cumplimiento de esta Ley ante las administraciones públicas de la Comunidad Valenciana. La legitimación para el ejercicio de acciones ante los tribunales de justicia se regirá por la legislación del Estado.
+4. La Generalitat Valenciana fomentará el marco de colaboración con entidades de derecho privado no lucrativas para la conservación y difusión del patrimonio cultural valenciano. La articulación de este marco de colaboración será objeto de los correspondientes convenios con contenido económico o sin él. Son entidades derecho privado las fundaciones, las asociaciones y otras entidades sin ánimo de lucro.
+5. El contenido, suscripción, efectos, duración y extinción de los convenios se regula por lo que se dispone para los mismos en la legislación del régimen jurídico del sector público y sobre régimen local y por lo que se establezca reglamentariamente.
+6. En los procedimientos administrativos sometidos al régimen de autorización previstos en esta ley podrá establecerse la participación de entidades colaboradoras de certificación. El uso de las entidades colaboradoras será, en todo caso, voluntario por parte de las personas interesadas.
+Se modifica por los arts. 211 y 224 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 6
+
+Artículo 6. Colaboración de la Iglesia Católica.
+1. Sin perjuicio de cuanto se dispone en los acuerdos suscritos entre el Estado español y la Santa Sede, la Iglesia Católica, como titular de una parte singularmente importante de los bienes que integran el patrimonio cultural valenciano, velará por la protección, conservación y divulgación de los mismos y prestará a las administraciones públicas competentes la colaboración adecuada al cumplimiento de los fines de esta Ley, con sujeción a las disposiciones de la misma.
+2. La Generalitat podrá establecer medios de colaboración con la Iglesia Católica al objeto de elaborar y desarrollar planes de intervención conjunta que aseguren la más eficaz protección del patrimonio cultural de titularidad eclesiástica en el ámbito de la Comunidad Valenciana. Asimismo podrá establecer la adecuada colaboración a los mismos fines con las demás confesiones religiosas reconocidas por la Ley.
+3. La articulación de estos medios de colaboración será objeto de los correspondientes convenios con contenido económico o sin él. El contenido, suscripción, efectos, duración y extinción de los convenios se establecerá en el convenio que se suscriba, con pleno respeto, en todo caso, a lo dispuesto en el Decreto 176/2014, de 10 de octubre, del Consell, por el que regula los convenios que suscriba la Generalitat y su registro, en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014 y en la legislación del régimen jurídico del sector público y sobre régimen local.
+Se añade el apartado 6 por el art. 212 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 7
+
+Artículo 7. Instituciones consultivas y órganos asesores.
+1. Son instituciones consultivas de la Administración de la Generalitat en materia de patrimonio cultural el Consell Valencià de Cultura, la Real Academia de Bellas Artes de San Carlos, las universidades de la Comunitat Valenciana, el Consejo Asesor de Archivos, el Consejo de Bibliotecas, el Consejo Asesor de Arqueología y Paleontología, la Real Academia de Cultura Valenciana, Lo Rat Penat y cuantas otras sean creadas o reconocidas por el Consell, sin perjuicio del asesoramiento que pueda recabarse de otros organismos profesionales y entidades culturales.
+2. Serán órganos asesores de la Conselleria de Cultura, Educación y Ciencia en el ejercicio ordinario de sus funciones en materia de patrimonio cultural, además de la Junta de Valoración de Bienes a que se refiere el artículo 8, las comisiones técnicas que se establezcan reglamentariamente para las distintas materias que son objeto de esta Ley.
+Se modifica el apartado 1 por la disposición final 1.2 de la Ley 6/2015, de 2 de abril. Ref. BOE-A-2015-4616.
+ Se modifica el apartado 1 por la disposición final 1.1 de la Ley 2/2010, de 31 de marzo. Ref. BOE-A-2010-6559.
+
+### Artículo 8
+
+Artículo 8. Junta de Valoración de Bienes.
+1. Se crea la Junta de Valoración de Bienes del Patrimonio Cultural Valenciano como órgano asesor de la Conselleria de Cultura, Educación y Ciencia. La Junta estará compuesta por ocho vocales. Seis de ellos serán designados, a propuesta de las instituciones consultivas señaladas en el artículo 7.1 de la presente Ley, por el Conseller de Cultura, Educación y Ciencia entre personas de reconocida competencia en las distintas materias que son objeto de las funciones de la Junta. Los dos vocales restantes serán designados por el Conseller de Economía, Hacienda y Administración Pública. El nombramiento del Presidente y del Vicepresidente de la Junta se regulará reglamentariamente.
+2. Son funciones de la Junta:
+a) Valorar los bienes de carácter cultural que la Generalitat se proponga adquirir con destino a museos, bibliotecas, archivos u otros centros de depósito cultural de titularidad pública, cuando éstos carezcan de sus propios órganos de valoración.
+b) Informar sobre el ejercicio por la Generalitat Valenciana de los derechos de tanteo y retracto establecidos en el artículo 22.
+c) Informar la autorización por la Conselleria de Cultura, Educación y Ciencia de la permuta de bienes de titularidad pública incluidos en el Inventario General del Patrimonio Cultural Valenciano, prevista en el artículo 24.
+d) Ser oída previamente a la emisión por la Conselleria de Cultura, Educación y Ciencia del informe vinculante preceptuado en el artículo 96 para la aceptación de bienes culturales en pago de deudas con la Hacienda de la Generalitat Valenciana.
+e) Realizar cuantas valoraciones de bienes de carácter cultural le sean solicitadas por la Conselleria de Cultura, Educación y Ciencia y, a través de ésta y en la forma que reglamentariamente se determine, por las demás administraciones públicas valencianas, para el mejor cumplimiento de los fines de esta Ley.
+f) Las demás que legal o reglamentariamente se le atribuyan.
+
+## CAPÍTULO II
+
+Normas generales de protección del patrimonio culural
+
+### Artículo 9
+
+Artículo 9. Protección y promoción pública.
+1. Los poderes públicos garantizan la protección, conservación y acrecentamiento del patrimonio cultural valenciano, así como el acceso de todos los ciudadanos a los bienes que lo integran, mediante la aplicación de las medidas que esta Ley prevé para cada una de las diferentes clases de bienes.
+2. La acción de las administraciones públicas se dirigirá de modo especial a facilitar la incorporación de los bienes del patrimonio cultural a usos activos y adecuados a su naturaleza, como medio de promover el interés social en su conservación y restauración.
+
+### Artículo 10
+
+Artículo 10. Suspensión de intervenciones.
+1. La consellería competente en materia de cultura suspenderá cautelarmente cualquier intervención en bienes muebles o inmuebles que posean alguno de los valores mencionados en el artículo 1.2 de esta ley cuando estime que la intervención pone en peligro dichos valores.
+En todo caso, y sin perjuicio de las competencias municipales, serán objeto de suspensión las intervenciones que, sujetas a la tutela patrimonial, se ejecuten sin autorización, se aparten de la misma o con vulneración del planeamiento aprobado a tal efecto. Asimismo, en el marco de lo dispuesto en el artículo 35.5, se podrá acordar la suspensión de intervenciones que hayan sido autorizadas conforme a lo dispuesto en esta ley cuando aparezcan signos o elementos de valor cultural que evidencien la falta de adecuación de la autorización concedida.
+2. Tratándose de bienes inmuebles, requerirá al Ayuntamiento correspondiente a que adopte las medidas necesarias para la efectividad de la suspensión que serán ejecutadas subsidiariamente por la propia Consellería en defecto de actuación municipal. En el plazo de dos meses a contar desde la suspensión la Consellería, previo informe del Ayuntamiento, acordará lo que en cada caso sea procedente, incluida, en su caso, la iniciación del procedimiento correspondiente para la inscripción del bien en el Inventario General del Patrimonio Cultural Valenciano. Transcurrido el plazo señalado sin que hubiere recaído resolución se entenderá levantada la suspensión.
+Se modifica por el art. 1.2 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 11
+
+Artículo 11. Impacto ambiental y transformación del territorio.
+1. Los estudios de impacto ambiental relativos a toda clase de proyectos, públicos o privados, o los estudios ambientales y territoriales estratégicos relativos a los planes urbanísticos que requieran evaluación ambiental ordinaria, cuando puedan incidir sobre bienes integrantes del patrimonio cultural valenciano que afecten a la ordenación estructural, tendrán que incorporar el informe de la conselleria competente en materia de cultura sobre la conformidad del proyecto o plan con la normativa de protección del patrimonio cultural. Este informe se emitirá en el plazo improrrogable de cuarenta y cinco días y vinculará al órgano que tenga que realizar la evaluación ambiental en cuanto a las materias de patrimonio cultural valenciano que sean competencia de la Generalitat y tengan incidencia en la ordenación estructural.
+2. Transcurridos cuarenta y cinco días desde que se solicitó, se entenderá emitido en sentido desfavorable en materia de la ordenación estructural. El transcurso del plazo expresado no eximirá a la conselleria competente en materia de cultura de la obligación de emitir el informe correspondiente.
+3. Tratándose de proyectos incluidos en planes o programas de infraestructuras aprobados por la Generalitat, una vez expirado el plazo al que se hace mención en el primer párrafo de este artículo, se podrá requerir por escrito a la Consellería competente en materia de cultura a fin de que emita el informe; pasados 30 días desde la presentación del requerimiento sin que éste se haya evacuado, se entenderá emitido en sentido favorable, pudiéndose proseguir las actuaciones, sin perjuicio de lo dispuesto en el artículo 83.3 de la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común.
+4. El plazo para la emisión de este informe comenzará a computar a partir de la aportación, ante el órgano competente en materia de patrimonio cultural, del estudio de impacto ambiental elaborado conforme a lo establecido en el apartado siguiente.
+5. La Consellería competente en materia de cultura determinará las actuaciones previas necesarias para la elaboración del informe contemplado en el apartado anterior que, en su caso, se someterán al régimen de autorizaciones previsto en la presente ley.
+6. Aquellos proyectos de planificación o transformación del territorio que por la legislación específica no estén sujetos a trámites de evaluación ambiental pero que comprendan en su ámbito bienes inscritos en el Inventario General del Patrimonio Cultural Valenciano o bienes de naturaleza arqueológica o paleontológica, tendrán que someterse a informe previo de la conselleria competente en materia de cultura, que será vinculante en cuanto a las materias de patrimonio cultural valenciano que sean competencia de la Generalitat y tengan incidencia en la ordenación urbanística.
+Se modifican los apartados 1, 2 y 6 por el art. 3 del Decreto-ley 1/2022, de 22 de abril. Ref. DOGV-r-2022-90121#a3
+ Se modifica por el art. 1.3 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 12
+
+Artículo 12. Comercio de bienes muebles.
+Las personas físicas o jurídicas dedicadas habitualmente al comercio de bienes muebles integrantes del patrimonio cultural valenciano, de las características que reglamentariamente se señalarán, se inscribirán en el registro que a tal efecto llevará la Conselleria de Cultura, Educación y Ciencia. Deberán también formalizar ante dicha Conselleria un libro-registro en el que anotarán las transacciones que efectúen sobre aquellos bienes cuando reúnan el valor y demás circunstancias que asimismo se determinarán reglamentariamente.
+
+### Artículo 13
+
+Artículo 13. Exportación.
+1. La exportación de los bienes del patrimonio cultural valenciano se regirá por lo dispuesto en la legislación del Estado.
+2. La Generalitat realizará ante la Administración del Estado los actos conducentes a que aquellos bienes muebles ilegalmente exportados que formen parte del Inventario General del Patrimonio Cultural Valenciano o que, con arreglo a esta Ley, debieran ser inscritos en él, sean destinados a museos, a bibliotecas o a archivos públicos situados en la Comunidad Valenciana cuando hubieren sido recuperados y, conforme a lo previsto en la legislación estatal, no fuesen cedidos a sus anteriores propietarios.
+
+### Artículo 14
+
+Artículo 14. Inspección y vigilancia.
+1. Reglamentariamente se determinará la estructura y funcionamiento de los órganos de inspección y vigilancia del patrimonio cultural que aseguren el cumplimiento de las disposiciones de esta ley. Dichos órganos estarán integrados por personal especializado en la protección del patrimonio cultural que dependerá funcionalmente de la Consellería competente en materia de cultura.
+2. La inspección autonómica podrá solicitar de las Administraciones municipales cuantos datos y antecedentes fueran necesarios para el ejercicio de sus competencias.
+3. Las fuerzas y cuerpos de seguridad, en el ámbito de sus respectivas competencias, colaborarán con la función inspectora, prestando su auxilio cuando se les solicite.
+4. El personal adscrito a la inspección tendrá la consideración de agente de la autoridad y estará capacitado para recabar, con dicho carácter, cuanta información, documentación y ayuda material precise para el adecuado cumplimiento de sus funciones. Este personal está facultado para requerir y examinar toda clase de documentos relativos al planeamiento, comprobar la adecuación de los actos de intervención, edificación y uso a la normativa urbanística y patrimonial aplicable y obtener la información necesaria para el cumplimiento de sus funciones. En su actuación deberá facilitársele libre acceso a las fincas, edificaciones o locales donde se realicen las obras o usos que se pretendan inspeccionar y que no tengan la condición de domicilio o de lugar asimilado a éste.
+5. De las actas de inspección se librará una copia a las personas afectadas que lo soliciten por escrito.
+6. Las actas de la inspección gozan de la presunción de veracidad, y su valor y fuerza probatorios sólo cederán cuando en el expediente que se instruya como consecuencia de las mismas se acredite lo contrario de manera inequívoca e indubitada.
+Se modifica por el art. 1.4 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+## TÍTULO II
+
+Del Inventario General del Patrimonio Cultural Valenciano y del régimen de protección de los bienes inventariados
+
+## CAPÍTULO I
+
+Del Inventario General
+
+### Artículo 15
+
+Artículo 15. Objeto y contenido del Inventario.
+1. Se crea el Inventario General del Patrimonio Cultural Valenciano, adscrito a la Consellería competente en materia de cultura, como instrumento unitario de protección de los bienes muebles, inmuebles e inmateriales del patrimonio cultural cuyos valores deban ser especialmente preservados y conocidos.
+2. En el Inventario se inscribirán:
+1.º Los bienes muebles, inmuebles e inmateriales, declarados de interés cultural conforme a lo dispuesto en el capítulo III del título II de esta ley. Formarán la sección 1.ª del Inventario.
+2.º Los Bienes Inmuebles de Relevancia Local, incluidos con este carácter en los Catálogos de Bienes y Espacios Protegidos. Se inscribirán en la sección 2.ª del Inventario.
+3.º Los Bienes Muebles de Relevancia Patrimonial cuya inclusión en el Inventario haya sido ordenada según lo previsto en el título II, capítulo IV, sección 2.ª, de esta ley. Integrarán la sección 3.ª del Inventario.
+4.º Los bienes de naturaleza documental, bibliográfica y audiovisual de relevancia patrimonial, los cuales se inscribirán en la sección 4.ª del Inventario de conformidad con lo previsto en el título V.
+5.º Los Bienes Inmateriales de Relevancia Local, cuyo valor y representatividad para los ámbitos comarcales y locales, haga conveniente su inscripción en la sección 5.ª del Inventario.
+6.º Los Bienes Inmateriales de Naturaleza Tecnológica de Relevancia Patrimonial, que constituyan manifestaciones relevantes o hitos de la evolución tecnológica de la Comunitat Valenciana. Se inscribirán en la sección 6.ª del Inventario.
+7.º Los núcleos urbanos radicados en el litoral con especiales valores etnológicos serán aquellos que cumplan las siguientes características:
+a) Que acumulen valores culturales, históricos o etnológicos que merezcan ser conservados, incluyendo los propios del patrimonio cultural inmaterial.
+b) Que estén integrados en el entorno costero de forma que su demolición o supresión supusiera una pérdida de los valores del patrimonio cultural, histórico o etnológico.
+Estos núcleos se regirán, además de por lo dispuesto en esta ley, por las previsiones de la Ley de Protección y Ordenación de la Costa Valenciana.
+Téngase en cuenta que se suspende la vigencia y aplicación del punto 7º del apartado 2, añadido por la disposición final 1 de la Ley 3/2025, de 22 de mayo, únicamente en lo que se refiere a los conjuntos de edificaciones residenciales, comerciales o vinculados a actividades económicas tradicionales objeto de la norma impugnada en cuanto incumpla la normativa estatal en materia de costas, desde el 26 de febrero de 2026 para las partes del proceso, y desde el 3 de abril de 2026 para los terceros, por providencia del TC de 25 de marzo de 2026, que admite a trámite el recurso de inconstitucionalidad nº 1550-2026. Ref. BOE-A-2026-7556
+3. A los efectos de esta ley, se consideran bienes inmuebles, además de los enumerados en el artículo 334 del Código Civil, todos aquellos elementos que sean consustanciales a los edificios o inmuebles de los que formen o hayan formado parte, aun cuando pudieren ser separados de ellos como un todo perfecto y aplicados a otras construcciones o a usos distintos del original.
+Se considerarán bienes muebles aquellos enumerados en el artículo 335 del Código Civil, que no tengan la consideración de inmuebles conforme a lo dispuesto en el apartado anterior de este artículo. Sin embargo, se considerarán bienes muebles, a los efectos de su inclusión como tales en el Inventario General del Patrimonio Cultural Valenciano, aquellos objetos de relevante valor cultural que estén incorporados a un inmueble carente de dicho valor o cuyo estado de ruina haga imposible su conservación.
+4. Es función del Inventario la identificación y documentación sistemáticas de los bienes que, conforme a esta ley, deben formar parte de él, a fin de hacer posible la aplicación a éstos de las medidas de protección y fomento previstas en ella, así como facilitar la investigación y la difusión del conocimiento del patrimonio cultural.
+Se suspende la vigencia y aplicación del punto 7º del apartado 2, añadido por la disposición final 1 de la Ley 3/2025, de 22 de mayo, únicamente en lo que se refiere a los conjuntos de edificaciones residenciales, comerciales o vinculados a actividades económicas tradicionales objeto de la norma impugnada en cuanto incumpla la normativa estatal en materia de costas, desde el 26 de febrero de 2026 para las partes del proceso, y desde el 3 de abril de 2026 para los terceros, por providencia del TC de 25 de marzo de 2026, que admite a trámite el recurso de inconstitucionalidad nº 1550-2026. Ref. BOE-A-2026-7556
+ Se modifica el apartado 3 por el art. 213 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se añade el punto 7º al apartado 2 por la disposición final 1 de la Ley 3/2025, de 22 de mayo. Ref. BOE-A-2025-11647
+ Se modifica por el art. 1.5 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+ Se modifica por el art. 1.2 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 16
+
+Artículo 16. Elaboración del Inventario.
+1. La Conselleria de Cultura, Educación y Ciencia elaborará y mantendrá, mediante la permanente actualización de sus datos, el Inventario General del Patrimonio Cultural Valenciano, para lo que las administraciones públicas y los particulares le prestarán su colaboración en los términos establecidos en esta Ley.
+2. Sin perjuicio de lo establecido en la disposición adicional primera, la inclusión y exclusión de bienes del Inventario se hará con arreglo al procedimiento previsto en este título para cada una de las clases de bienes inventariables.
+3. Los propietarios o poseedores de bienes del patrimonio cultural valenciano deberán facilitar a las administraciones públicas competentes el examen de dichos bienes, así como las informaciones pertinentes, para su inclusión, si procede, en el Inventario.
+4. A los solos efectos de la elaboración del Inventario General, los propietarios o poseedores de bienes muebles del patrimonio cultural, del valor y características que reglamentariamente se determinen, están obligados a comunicar su existencia a la Conselleria de Cultura, Educación y Ciencia.
+
+### Artículo 17
+
+Artículo 17. Publicidad.
+1. El Inventario General del Patrimonio Cultural Valenciano tendrá carácter público, sin perjuicio de las restricciones que esta misma Ley establece respecto del patrimonio arqueológico y paleontológico.
+2. No obstante lo dispuesto en el apartado anterior, se requerirá consentimiento expreso de su titular para la consulta de datos relativos a la propiedad y valor de los bienes inscritos, excepto los de titularidad pública, y a su localización cuando se trate de bienes muebles.
+3. La Generalitat Valenciana facilitará el acceso al Inventario de los particulares y las entidades públicas mediante el establecimiento de una red descentralizada de transmisión de datos.
+4. Reglamentariamente se determinarán las condiciones y formas de acceso a los datos contenidos en el Inventario.
+
+## CAPÍTULO II
+
+Régimen general de protección de los bienes inventariados
+
+### Artículo 18
+
+Artículo 18. Obligaciones de las personas titulares.
+1. Las personas propietarias y poseedoras por cualquier título de bienes incluidos en el Inventario General del Patrimonio Cultural Valenciano están obligadas a conservarlos y a mantener la integridad de su valor cultural.
+2. Podrán destinar los bienes inventariados de que sean titulares a los usos que tengan por convenientes, siempre que no fueren incompatibles con las obligaciones impuestas en el apartado anterior. No obstante, cualquier cambio de uso deberá ser comunicado previamente, por escrito, a la conselleria competente en materia de cultura. La no oposición de esta en el plazo de un mes, a contar desde la recepción de la comunicación, supondrá la aprobación del nuevo uso.
+Tratándose de bienes declarados de interés cultural será necesaria la autorización previa de la conselleria competente en materia de cultura, en los términos de los artículos 36.2 y 41.1 de esta ley. No obstante, precisará únicamente de declaración responsable la celebración de actividades recreativas o socioculturales, que sean de carácter ocasional, reversible, por tiempo limitado y que no supongan afección sobre los bienes declarados de interés cultural.
+3. Igualmente están obligados a proporcionar a la Conselleria de Cultura, Educación y Ciencia toda información que ésta les requiera sobre el estado de tales bienes y el uso que se les estuviera dando, así como a facilitar su inspección y examen a los efectos previstos en esta Ley. La misma obligación tendrán respecto del Ayuntamiento donde se halle el bien cuando se trate de inmuebles o de bienes muebles declarados de interés cultural.
+4. Deberán también permitir el acceso de los investigadores a los bienes inventariados, previa solicitud razonada. El cumplimiento de esta obligación podrá ser dispensado excepcionalmente por la Conselleria de Cultura, Educación y Ciencia cuando considere, por resolución motivada, haber causa justificada para ello.
+5. La transmisión por actos inter vivos o mortis causa o la formalización de cualquier otro negocio jurídico, así como los traslados y demás actos materiales sobre los bienes inventariados, deberán ser comunicados a la Conselleria de Cultura, Educación y Ciencia para su anotación en el Inventario General. En caso de transmisión inter vivos o de constitución de cualquier derecho real el transmitente estará obligado a dar a conocer al adquirente la existencia de la inscripción en el Inventario.
+Se modifican los apartados 1 y 2 por el art. 69.2 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-11
+ Se modifican los apartados 1 y 2 por el art. 68.2 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 19
+
+Artículo 19. Ejecución subsidiaria.
+1. Cuando los propietarios o poseedores de bienes incluidos en el IGPCV no llevaren a cabo las actuaciones precisas para el cumplimiento de las obligaciones de conservación y mantenimiento establecidas en esta ley y siempre que no exista riesgo de ruina inminente, tras efectuarse el oportuno requerimiento a los propietarios o poseedores, podrán imponerse multas coercitivas con periodicidad mínima mensual por valor máximo, cada una de ellas, del 10 % del coste estimado de las actuaciones ordenadas.
+Las multas coercitivas se establecerán sin perjuicio de las sanciones que pudieran imponerse por las infracciones en que se hubiera podido incurrir por los propietarios o poseedores de los bienes.
+2. Los ayuntamientos, de oficio o a instancia de la conselleria competente en materia de cultura, previo apercibimiento a los obligados, ordenarán su ejecución subsidiaria a costa del obligado. En todo caso, el ejercicio de esta facultad será objeto de comunicación previa a la Conselleria competente en materia de cultura.
+3. Si se advirtiera inactividad o dilación indebida por parte de los ayuntamientos en la observancia del precepto anterior, de forma que existiera riesgo para la conservación de los bienes inventariados, la Conselleria competente en materia de cultura podrá llevar a cabo la ejecución subsidiaria a costa del obligado.
+4. Sin perjuicio de lo anterior, los ayuntamientos podrán actuar de forma subsidiaria sobre aquellos bienes no inventariados pero que posean valores culturales, en aplicación de lo previsto en la normativa vigente en materia de urbanismo.
+5. Las actuaciones de conservación y mantenimiento de los bienes inventariados realizadas voluntariamente por sus titulares serán objeto de las ayudas previstas en el título VI de esta ley.
+Se modifica por el art. 214 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 20
+
+Artículo 20. Prohibición de derribo.
+Los bienes inmuebles incluidos en el Inventario General del Patrimonio Cultural Valenciano no podrán derribarse, total o parcialmente, mientras esté en vigor su inscripción en el Inventario. Si ésta quedare sin efecto, sólo podrá otorgarse licencia de demolición, de acuerdo con lo establecido en la legislación urbanística, previa la exclusión del inmueble del correspondiente Catálogo de Bienes y Espacios Protegidos.
+
+### Artículo 21
+
+Artículo 21. Expropiación.
+1. Constituirá causa de interés social para la expropiación por la Generalitat de los bienes incluidos en el Inventario General del Patrimonio Cultural Valenciano el peligro de destrucción o deterioro del bien, o el destino del mismo a un uso incompatible con sus valores. Podrán expropiarse por igual causa los inmuebles que perturben o impidan la contemplación de un bien incluido en el Inventario General o sean causa de riesgo o perjuicio para el mismo, respetándose la trama urbana de que forme parte el edificio.
+2. Los Ayuntamientos podrán acordar la expropiación en los mismos casos, cuando se trate de bienes inmuebles incluidos en el Inventario General que se hallen en su término municipal, debiendo notificar su propósito a la Generalitat, que podrá ejercitar con carácter preferente esta potestad iniciando el correspondiente expediente dentro de los dos meses siguientes a la notificación.
+
+### Artículo 22
+
+Artículo 22. Derechos de tanteo y retracto.
+1. Sin perjuicio de los derechos de adquisición preferente que la Ley del Patrimonio Histórico Español establece a favor de la Administración del Estado, quienes se propusieren la transmisión a título oneroso del dominio o de derechos reales de uso y disfrute sobre un bien incluido en la Sección Primera del Inventario General del Patrimonio Cultural Valenciano, o respecto del que se hubiera iniciado expediente de inclusión, deberán notificarlo a la conselleria competente en materia de cultura y al ayuntamiento en cuyo término municipal se encuentre el bien a los efectos previstos en el apartado siguiente, indicando la identidad de la persona adquirente y el precio, forma de pago y demás condiciones de la transmisión que se pretende. Tratándose de bienes inmuebles, se identificará con precisión mediante la aportación de plano de situación e identificación catastral y registral, en su caso.
+2. Dentro de los dos meses siguientes a la notificación recibida por la Consellería competente en materia de cultura, la Generalitat podrá ejercitar el derecho de tanteo, para sí o para otras entidades de derecho público o de carácter cultural o benéfico declaradas de utilidad pública, obligándose al pago en idénticas condiciones que las pactadas por los que realizan la transmisión. El tanteo podrá ser ejercitado también por los Ayuntamientos, en el mismo plazo, en relación con los bienes inmuebles situados en su término municipal. El ejercicio del derecho de tanteo por la Generalitat tendrá en todo caso carácter preferente.
+3. Si el propósito de enajenación no se hubiese notificado adecuadamente o la transmisión se hubiera realizado en condiciones distintas a las notificadas, la Generalitat, y subsidiariamente el Ayuntamiento correspondiente cuando se trate de bienes inmuebles, podrá, en los mismos términos establecidos para el tanteo, ejercer el derecho de retracto en el plazo de seis meses desde que tuvo conocimiento fehaciente de la transmisión.
+4. En toda clase de subastas públicas en que se pretenda la enajenación de bienes inscritos en el Inventario General del Patrimonio Cultural Valenciano, o respecto de los que se hubiera incoado expediente de inscripción, así como de bienes muebles no inventariados que posean el valor y las características que reglamentariamente se determinarán, los subastadores deberán notificar la subasta a la Consellería competente en materia de cultura con una antelación no inferior a un mes, indicando el precio de salida a subasta del bien, y el lugar y hora de celebración de ésta. La Consellería comunicará las subastas relativas a bienes inmuebles al Ayuntamiento del lugar donde se hallen situados. La Generalitat, y subsidiariamente el ayuntamiento correspondiente cuando se trate de bienes inmuebles, podrá, en los términos establecidos en el apartado 2, ejercer los derechos de tanteo y retracto sobre los bienes objeto de la subasta, por el precio de salida o de remate respectivamente.
+5. Lo dispuesto en este artículo no será de aplicación a los inmuebles comprendidos en Conjuntos Históricos que no hayan sido objeto de inscripción independiente en el Inventario.
+Se modifica el apartado 1 por el art. 69.3 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-11
+ Se modifica el apartado 1 por el art. 68.3 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+ Se modifica por el art. 1.6 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 23
+
+Artículo 23. Escrituras públicas.
+No se autorizarán, ni se inscribirán en el Registro de la Propiedad o Mercantil, escrituras públicas de transmisión del dominio y de constitución o transmisión derechos reales de uso y disfrute sobre los bienes a que se refiere el artículo anterior sin la previa y fehaciente justificación de que se ha notificado al órgano competente en materia de cultura el propósito de transmisión, mediante la aportación de la correspondiente copia sellada, testimonio de la cual se incorporará a la escritura.
+Se modifica por el art. 1.7 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 24
+
+Artículo 24. Limitaciones a su transmisión.
+1. Los bienes incluidos en el Inventario General del Patrimonio Cultural Valenciano de que sean titulares las administraciones públicas de la Comunidad Valenciana son inalienables e imprescriptibles, salvo las transmisiones que puedan acordarse entre las administraciones públicas.
+2. No obstante lo dispuesto en el apartado anterior y sin perjuicio del régimen jurídico del dominio público, las administraciones públicas de la Comunidad Valenciana podrán, por causa de interés público y con autorización de la Conselleria de Cultura, Educación y Ciencia, oída la Junta de Valoración de Bienes del Patrimonio Cultural Valenciano, acordar con los particulares la permuta de sus bienes, muebles o inmuebles, incluidos en el Inventario General, siempre que no estén declarados de interés cultural, con otros de al menos igual valor cultural. La permuta no supondrá en ningún caso la exclusión de los bienes enajenados del régimen de protección de los bienes inventariados.
+3. Tratándose de bienes muebles, podrán, con los mismos requisitos, acordar su permuta también con entidades públicas o particulares extranjeros, previa la obtención de la preceptiva autorización de exportación por parte de la Administración del Estado, conforme a lo previsto en la legislación estatal sobre el patrimonio histórico.
+4. La transmisión de los bienes inventariados de que sean titulares las instituciones eclesiásticas se regirá por la legislación estatal.
+
+### Artículo 25
+
+Artículo 25. Bienes inmateriales.
+El régimen de protección de los bienes inmateriales que, según lo previsto en el artículo 15, sean inscritos en el Inventario General del Patrimonio Cultural Valenciano será el específicamente previsto para ellos en la presente Ley.
+
+## CAPÍTULO III
+
+De los Bienes de Interés Cultural Valenciano
+
+## Sección primera
+
+Sección primera. Disposiciones generales
+
+### Artículo 26
+
+Artículo 26. Clases.
+1. Los Bienes de Interés Cultural serán declarados atendiendo a la siguiente clasificación:
+A) Bienes inmuebles. Serán adscritos a alguna de las siguientes categorías:
+a) Monumento. Se declararán como tales las realizaciones arquitectónicas o de ingeniería y las obras de escultura colosal.
+b) Conjunto Histórico. Es la agrupación de bienes inmuebles, continua o dispersa, claramente delimitable y con entidad cultural propia e independiente del valor de los elementos singulares que la integran.
+c) Jardín Histórico. Es el espacio delimitado producto de la ordenación por el hombre de elementos naturales, complementado o no con estructuras de fábrica y estimado por razones históricas o por sus valores estéticos, sensoriales o botánicos.
+d) Espacio Etnológico: Construcción o instalación o conjunto de éstas, vinculadas a formas de vida y actividades tradicionales, que, por su especial significación sea representativa de la cultura valenciana.
+e) Sitio Histórico. Es el lugar vinculado a acontecimientos del pasado, tradiciones populares o creaciones culturales de valor histórico, etnológico o antropológico.
+f) Zona Arqueológica. Es el paraje donde existen bienes cuyo estudio exige la aplicación preferente de métodos arqueológicos, hayan sido o no extraídos y tanto se encuentren en la superficie, como en el subsuelo o bajo las aguas.
+g) Zona Paleontológica. Es el lugar donde existe un conjunto de fósiles de interés científico o didáctico relevante.
+h) Parque Cultural. Es el espacio que contiene elementos significativos del patrimonio cultural integrados en un medio físico relevante por sus valores paisajísticos y ecológicos.
+B) Bienes muebles, declarados individualmente, como colección o como fondos de museos y colecciones museográficas.
+C) Documentos y obras bibliográficas, cinematográficas, fonográficas o audiovisuales, declaradas individualmente, como colección o como fondos de archivos y bibliotecas.
+D) Bienes inmateriales. Pueden ser declarados de interés cultural las actividades, creaciones, conocimientos, prácticas, usos y técnicas representativos de la cultura tradicional valenciana, así como aquellas manifestaciones culturales que sean expresión de las tradiciones del pueblo valenciano en sus manifestaciones musicales, artísticas o de ocio, y en especial aquellas que han sido objeto de transmisión oral, las que mantienen y potencian el uso del valenciano y los festejos taurinos tradicionales de la Comunitat Valenciana.
+2. La declaración se hará mediante decreto del Consell, a propuesta de la Consellería competente en materia de cultura, sin perjuicio de lo que dispone el artículo 6 de la Ley del Patrimonio Histórico Español respecto de los bienes adscritos a servicios públicos gestionados por la administración del estado o que formen parte del patrimonio nacional.
+3. No podrá declararse de interés cultural la obra de un autor vivo sino mediando autorización expresa de su propietario y de su autor, salvo en el caso de Bienes Inmateriales de Naturaleza Tecnológica, siempre que haya transcurrido un plazo de cinco años desde su creación, con respeto a la legislación vigente en materia de propiedad intelectual.
+Se modifica el apartado 1.D) por la disposición final 1.3 de la Ley 6/2015, de 2 de abril. Ref. BOE-A-2015-4616.
+ Se modifica por el art. 1.8 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+ Se modifica por el art. 1.3 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 27
+
+Artículo 27. Procedimiento.
+1. La declaración de un Bien de Interés Cultural se hará en la forma establecida en el artículo anterior, previa la incoación y tramitación del correspondiente procedimiento por la Consellería competente en materia de cultura. La iniciación del procedimiento podrá realizarse de oficio o a instancia de cualquier persona.
+2. La solicitud de incoación habrá de ser resuelta en el plazo de tres meses. La denegación, en su caso, deberá ser motivada.
+3. La incoación se notificará a las personas interesadas, si fueran conocidas, y al ayuntamiento del municipio donde se encuentre el bien.
+Sin perjuicio de su eficacia desde la notificación, la resolución acordando la incoación se publicará en el “Diari Oficial de la Generalitat Valenciana” y en el “Boletín Oficial del Estado” y se comunicará al Registro General de Bienes de Interés Cultural dependiente de la Administración del Estado para su anotación preventiva. Tratándose de monumentos, jardines históricos y espacios etnológicos se comunicará además al Registro de la Propiedad al mismo fin.
+Se podrá sustituir la notificación de la incoación a las personas interesadas sin que ello afecte a las publicaciones exigidas en el párrafo anterior, por la publicación de la incoación en el tablón de anuncios del ayuntamiento del municipio donde se ubique el mismo, conjuntamente con la publicación de la información a través de las sedes electrónicas, portales o páginas web tanto del propio ayuntamiento como de la Generalitat, cuando el elevado número de personas interesadas, la concurrencia de razones de interés público relacionadas con la urgencia, peligro de desaparición, daño o expolio a los bienes referidos en la incoación, así lo aconsejen, previa declaración de los motivos que llevan a esta sustitución en la resolución de incoación.
+4. La incoación del procedimiento para la declaración de un Bien de Interés Cultural determinará la aplicación inmediata al bien afectado del régimen de protección previsto para los bienes ya declarados.
+5. El procedimiento que se instruya deberá contar con los informes favorables a la declaración de al menos dos de las instituciones consultivas a que se refiere el artículo 7 de esta ley. Los informes podrán ser solicitados tanto por la Administración que tramita el procedimiento como por quien, en su caso, instó la incoación.
+Transcurridos tres meses desde la solicitud del informe sin que éste se hubiere emitido se entenderá que es favorable. No obstante, si constara en el expediente algún informe contrario a la declaración será necesaria la existencia de dos informes favorables expresos.
+Cuando se trate de Bienes Inmateriales de Naturaleza Tecnológica a los que se refiere el artículo 26.1.D. de esta ley, se deberá recabar informe del órgano de la Administración de la Generalitat competente en materia de nuevas tecnologías.
+6. Tratándose de bienes inmuebles se dará audiencia al Ayuntamiento interesado y se abrirá un período de información pública por término de un mes. En el caso de bienes inmateriales, se dará audiencia a las entidades públicas y privadas más estrechamente vinculadas a la actividad propuesta para la declaración.
+7. El procedimiento deberá resolverse en el plazo de un año si se refiere a un bien mueble, de dos años en el caso de bienes inmateriales y de quince meses si se trata de inmuebles, a contar desde la fecha de su incoación. Si el procedimiento se refiere a declaración de Conjuntos Históricos o Zonas Arqueológicas o Paleontológicas o Parques Culturales o de inmuebles que exijan un estudio complementario o que conlleven la inscripción de elementos en otras secciones del Inventario General del Patrimonio Cultural Valenciano el plazo será de veinte meses. En este último supuesto, no serán de aplicación los plazos que para cada procedimiento concreto de inscripción en el Inventario se establecen en la presente ley. Una vez caducado el procedimiento, no podrá volver a iniciarse en los tres años siguientes, salvo a instancia de la propiedad o de alguna de las instituciones consultivas a las que se refiere el artículo 7 de esta ley.
+Se modifica el apartado 3 por el art. 69.4 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-11
+ Se modifica el apartado 3 por el art. 68.4 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+ Se modifica por el art. 1.9 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+ Se modifica por el art. 1.4 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 28
+
+Artículo 28. Contenido de la declaración.
+1. El decreto declarando un bien de interés cultural determinará con claridad los valores del bien que justifican la declaración y contendrá una descripción detallada del mismo, con sus partes integrantes, que permita una identificación precisa.
+2. En el caso de los bienes inmuebles determinará además:
+a) El carácter con que son declarados, según la clasificación contenida en el artículo 26 de esta ley.
+b) La delimitación del entorno de protección cuando se trate de monumentos y jardines históricos, en todo caso. En los espacios etnológicos y zonas arqueológicas y paleontológicas el entorno será delimitado salvo en los supuestos en los que se justifique su innecesariedad. El entorno incluirá el subsuelo si procede y señalará los inmuebles que hayan de ser inscritos separadamente en el inventario como bienes de relevancia local, si no lo estuvieren ya, determinando, a tales efectos, la obligación para los ayuntamientos de inscribirlos en sus respectivos catálogos de bienes y espacios protegidos tal y como determina el artículo 46.1.
+c) La delimitación del ámbito afectado por la declaración, cuando se trate de conjuntos históricos, sitios históricos y parques culturales, que no contaran con entorno de protección. La declaración determinará los inmuebles comprendidos en el ámbito que se declaran por sí mismos bienes de interés cultural o bienes de relevancia local, con sus correspondientes entornos de protección, cuando proceda.
+d) La relación de las pertenencias o accesorios históricamente incorporados al monumento, jardín histórico o espacio etnológico, con la adscripción en la sección del inventario general que mejor se acomode a su naturaleza y valor cultural. Asimismo se identificará la posible existencia de bienes inmateriales asociados al mismo.
+e) Las normas de protección del bien con arreglo a las particularidades detalladas en los apartados anteriores y que en el caso de que, conforme a lo dispuesto en esta ley, fuera preceptiva la aprobación de un plan especial de protección, regirán provisionalmente hasta la aprobación de dicho instrumento de ordenación.
+3. Tratándose de colecciones de bienes muebles, la declaración enumerará y describirá cada uno de los elementos que integran la colección. En el caso de los fondos de museos, colecciones museográficas, archivos y bibliotecas se estará a lo dispuesto en los artículos 72 y 79 de esta ley.
+4. En el caso de los bienes inmateriales, se deberá definir, además, su ámbito espacial y temporal.»
+Se modifica por el art. 94 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663.
+ Se modifica por el art. 1.10 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 29
+
+Artículo 29. Inscripción y publicidad.
+1. El decreto declarando un Bien de Interés Cultural ordenará la inscripción de éste en la sección 1.ª del Inventario General del Patrimonio Cultural Valenciano. Asimismo determinará la inscripción del resto de bienes contenidos en la declaración en la sección del Inventario que corresponda.
+2. La declaración se comunicará al Registro General de Bienes de Interés Cultural, dependiente de la Administración del Estado, a los efectos de la inscripción prevista en la Ley del Patrimonio Histórico Español.
+3. En el caso de conjuntos históricos, la declaración se notificará únicamente al ayuntamiento del municipio donde se ubique. Para el resto de los bienes, declarados de forma individual, se comunicará a las personas titulares del bien, así como al ayuntamiento. Además, en todos los casos se publicará en el “Diari Oficial de la Generalitat Valenciana” y en el “Boletín Oficial del Estado”.
+4. Cuando se trate de Monumentos, Jardines Históricos y Espacios Etnológicos, la Consellería competente en materia de cultura instará de oficio la inscripción gratuita de la declaración de interés cultural en el Registro de la Propiedad. En el caso de Conjuntos Históricos se hará la inscripción respecto de los inmuebles comprendidos en el Conjunto que se declaren por sí mismos Bien de Interés Cultural.
+Se modifica el apartado 3 por el art. 69.5 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-11
+ Se modifica el apartado 3 por el art. 68.5 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+ Se modifica por el art. 1.11 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 30
+
+Artículo 30. Extinción de la declaración de Bien de Interés Cultural.
+1. La declaración de un Bien de Interés Cultural sólo podrá dejarse sin efecto en virtud de Decreto del Gobierno Valenciano, previa la tramitación de expediente, incoado de oficio o a instancia del titular de un interés legítimo y directo, con los mismos requisitos y garantías exigidos para la declaración, salvo lo que dispone el artículo 72.2 en relación con los fondos de museos y colecciones museográficas permanentes. Los informes a que se refiere el artículo 27.5 habrán de ser siempre expresos.
+2. No podrán invocarse como causas para dejar sin efecto la declaración de un Bien de Interés Cultural las que deriven del incumplimiento de las obligaciones establecidas en esta Ley.
+3. La resolución que deje sin efecto una declaración de interés cultural dará lugar a la cancelación de la correspondiente inscripción en la Sección 1.a del Inventario General del Patrimonio Cultural Valenciano, sin perjuicio de que, si así se dispone, se mantenga la inclusión del bien en cualquiera de las restantes secciones del Inventario.
+4. De la resolución recaída se dará cuenta a la Administración del Estado para que produzca sus efectos en el Registro General de Bienes de Interés Cultural dependiente de ella.
+5. Tratándose de Monumentos y Jardines Históricos, la resolución dejando sin efecto la declaración de interés cultural se comunicará también al Registro de la Propiedad para su constancia en el mismo.
+
+### Artículo 31
+
+Artículo 31. Programas de actuaciones de conservación.
+A efectos de la aplicación de las medidas de fomento previstas en esta Ley, los titulares de bienes declarados de interés cultural podrán presentar a la Conselleria de Cultura, Educación y Ciencia programas de conservación y mantenimiento de dichos bienes, en los que se señalarán las actuaciones necesarias para su adecuada conservación y el coste estimado de éstas.
+
+### Artículo 32
+
+Artículo 32. Régimen de visitas.
+1. Para hacer posible el adecuado conocimiento y difusión pública de los bienes del patrimonio cultural valenciano, los propietarios y poseedores por cualquier título de bienes inmuebles declarados de interés cultural deberán facilitar la visita pública de éstos, al menos, durante cuatro días al mes, en días y horario predeterminados, que se harán públicos con la difusión adecuada tanto en medios de comunicación como en centros de información turística y cultural. El régimen de visitas que se establezca deberá garantizar debidamente el respeto al derecho a la intimidad personal y familiar.
+Sin perjuicio de la contribución pública al régimen de visitas prevista en el artículo 92 de esta Ley, la Conselleria de Cultura, Educación y Ciencia prestará a los titulares de los bienes, en la forma que reglamentariamente se determine, la asistencia necesaria para el cumplimiento de esta obligación en las adecuadas condiciones.
+La observancia de esta norma podrá ser dispensada, en todo o en parte, por la Conselleria de Cultura, Educación y Ciencia por causa justificada.
+2. En el caso de bienes muebles que no estén habitualmente expuestos al público, los titulares de los mismos estarán obligados a cederlos temporalmente a exposiciones organizadas por entidades o instituciones públicas, previa autorización de la Conselleria de Cultura, Educación y Ciencia, de acuerdo con el desarrollo reglamentario.
+
+## Sección segunda
+
+Sección segunda. Régimen de los bienes inmuebles de interés cultural
+
+### Artículo 33
+
+Artículo 33. Suspensión y revisión de licencias.
+1. La incoación de un procedimiento para la declaración de un inmueble como Bien de Interés Cultural determinará la suspensión del otorgamiento de licencias municipales de parcelación, urbanización, construcción, demolición, actividad y demás actos de edificación y uso del suelo que afecten al inmueble y a su entorno de protección, así como de dichas actuaciones cuando sean llevadas a cabo directamente por las entidades locales, quedando también suspendidos los efectos de las licencias ya otorgadas. La suspensión dependerá de la resolución o la caducidad del expediente.
+No obstante, la Consellería competente en materia de cultura, autorizará las actuaciones mencionadas cuando, a la vista de los criterios de aplicación directa dispuestos en la presente ley y de la normativa específica de protección, si la hubiere, se aprecie que no perjudican los valores del bien que motivaron la incoación del procedimiento.
+2. Declarado un inmueble como Bien de Interés Cultural, la Consellería competente en materia de cultura, en el plazo de tres meses y con audiencia del Ayuntamiento correspondiente, emitirá informe vinculante sobre las licencias, o sus efectos, y las actuaciones urbanísticas suspendidas como consecuencia de la incoación del procedimiento, pudiendo proponer las modificaciones necesarias para su adecuación al contenido de la declaración y a las disposiciones de esta ley. Transcurrido dicho plazo sin haberse emitido el informe, se entenderá levantada la suspensión de todas aquellas actuaciones que no entren en contradicción con las normas de protección aprobadas.
+3. Si como consecuencia de este informe el Ayuntamiento hubiera de anular o modificar una licencia otorgada de conformidad con la normativa vigente en el momento de su concesión, la Generalitat se hará cargo de la indemnización que en su caso corresponda, conforme a los criterios establecidos en la legislación urbanística.
+Se modifica por el art. 1.12 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 34
+
+Artículo 34. Planeamiento urbanístico.
+1. Los planes de ordenación previstos en la legislación urbanística que afecten a bienes inmuebles declarados de interés cultural se ajustarán a los términos de la declaración. La declaración sobrevenida a la aprobación de los planes determinará la modificación de éstos si fuera necesaria para su adaptación al contenido de la declaración.
+En todo caso, los bienes inmuebles así declarados, los entornos de protección que puedan corresponderles, y sus correspondientes instrumentos de regulación urbanística, formarán parte de la ordenación estructural del planeamiento municipal.
+2. La declaración de un inmueble como bien de interés cultural, determinará para el ayuntamiento correspondiente la obligación de aprobar provisionalmente un plan especial de protección del bien u otro instrumento urbanístico, de análogo contenido, que atienda a las previsiones contenidas en el artículo 39, y remitirlo al órgano urbanístico competente para su aprobación definitiva, en el plazo de un año desde la publicación de la declaración. La aprobación provisional deberá contar con informe previo de la Consellería competente en materia de cultura. Dicho informe se emitirá, en el plazo de seis meses, sobre la documentación que vaya a ser objeto de aprobación provisional y tendrá carácter vinculante.
+3. Serán nulos de pleno derecho los instrumentos urbanísticos aprobados con incumplimiento de lo dispuesto en el apartado anterior.
+4. Si al momento de la declaración hubiere ya aprobado un Plan Especial de Protección del inmueble, u otro instrumento de planeamiento con el mismo objeto, el Ayuntamiento podrá someterlo a informe de la Consellería competente en materia de cultura, para su convalidación, si procede, a los efectos de este artículo.
+5. Hasta tanto se produzca la aprobación definitiva del correspondiente Plan Especial regirán transitoriamente las normas de protección contenidas en el decreto de declaración, conforme a lo previsto en el artículo 28 de esta ley.
+6. Tratándose de Monumentos y Jardines Históricos la obligatoriedad de redactar el Plan Especial de Protección se entenderá referida únicamente al entorno del bien. Sin embargo la declaración podrá eximir al Ayuntamiento competente de la obligación de redactar el mencionado Plan Especial cuando se considere suficiente la incorporación al planeamiento de las normas de protección del entorno contenidas en la propia declaración, que en tal caso regirán con carácter definitivo.
+7. En el caso de los Espacios Etnológicos la exigencia de la necesidad o no de delimitación y regulación de entorno de protección será determinada por la declaración.
+8. La declaración de interés cultural de un inmueble determinará para el Ayuntamiento donde se halle el bien la obligación de incluirlo en la ordenación estructural de su planeamiento y en el correspondiente Catálogo de Bienes y Espacios Protegidos con el grado de protección adecuado al contenido de esta ley y al decreto de declaración.
+9. La Generalitat prestará a los Ayuntamientos la asistencia técnica y económica necesaria para la elaboración de los Planes Especiales de Protección de los bienes inmuebles declarados de interés cultural.
+Se modifica por el art. 1.13 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+ Se modifica por el art. 1.5 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 35
+
+Artículo 35. Autorización de intervenciones.
+1. Las intervenciones en inmuebles y ámbitos patrimonialmente protegidos se ajustarán al siguiente régimen:
+a) Toda intervención que afecte a un monumento, jardín histórico o a un espacio etnológico deberá ser autorizada por la conselleria competente en materia de cultura, previamente a la concesión de la licencia municipal, cuando fuere preceptiva, o al dictado del acto administrativo correspondiente para su puesta en práctica. Las intervenciones en sitios históricos, zonas arqueológicas y paleontológicas y parques culturales se regirán por lo dispuesto en la normativa contenida en la declaración, y en los instrumentos de ordenación que la desarrollen.
+b) Hasta la aprobación o convalidación definitiva del correspondiente plan especial de protección o documento asimilable, en los conjuntos históricos y en los entornos de protección de los bienes de interés cultural requerirán autorización por parte de la conselleria competente en materia de cultura las actuaciones de transcendencia patrimonial que así se determinen en la normativa provisional de protección contenida en la declaración, cuando exista, y que en todo caso incluyen las relativas a obras de nueva planta, de demolición, de ampliación de edificios existentes, y las que conlleven la alteración, el cambio o la sustitución de la estructura portante y/o arquitectónica y del diseño exterior del inmueble, incluidas las cubiertas, las fachadas y los elementos artísticos y acabados ornamentales. También requerirán de autorización las actuaciones de urbanización de los espacios públicos que sobrepasen su mera conservación y/o reposición, y la instalación de antenas y dispositivos de comunicación.
+c) Reglamentariamente, podrán establecerse aquellas actuaciones de entre las que pudieran proponerse sobre bienes inmuebles protegidos por su valor cultural o en sus entornos de protección que no requieren de autorización previa de la conselleria competente en materia de cultura por no suponer afección alguna o por carecer de trascendencia patrimonial.
+d) Excepcionalmente, aquellos ayuntamientos que por razón de población o capacidad de gestión cuenten con una comisión técnica municipal de carácter multidisciplinar integrada por personal funcionario o laboral con titulación técnica y/o superior competente para evaluar la adecuada protección de los valores arquitectónicos, arqueológicos e históricos del ámbito protegido, y en la que exista representación de la conselleria competente en materia de cultura, podrán solicitar la delegación del ejercicio de las competencias señaladas en la letra b del presente apartado. La resolución de la conselleria por la que se produzca esta delegación incluirá los ámbitos o actuaciones exceptuadas de la misma y la obligación de comunicar las autorizaciones o licencias concedidas en el plazo máximo de diez días desde su otorgamiento.
+2. Las autorizaciones que se concedan en virtud de lo dispuesto en el presente artículo se ajustarán a la normativa provisional de protección y, en su defecto y dependiendo del ámbito, a los criterios de aplicación directa dispuestos en los artículos 38 y 39 de la presente ley. Las autorizaciones se entenderán denegadas una vez transcurridos tres meses desde que se solicitaron sin que hubiera recaído resolución expresa
+3. Una vez aprobado definitivamente el plan especial de protección o instrumento análogo, no será necesaria la citada autorización contemplada en el apartado 1.b salvo para aquellas intervenciones y para aquellos ámbitos que el informe citado en el apartado 2 del artículo anterior así lo considere expresamente por su especial trascendencia. En el caso de las zonas arqueológicas o paleontológicas, se estará a lo dispuesto en el artículo 62 en relación con la necesidad de actuaciones arqueológicas o paleontológicas previas a la ejecución de las obras. Las licencias y aprobaciones municipales deberán ajustarse estrictamente a las determinaciones del plan.
+4. Los proyectos de intervención en bienes inmuebles declarados de interés cultural, contendrán un estudio acerca de los valores históricos, artísticos, arquitectónicos o arqueológicos del inmueble, el estado actual de éste y las deficiencias que presente, la intervención propuesta y los efectos de la misma sobre dichos valores. El estudio será redactado por un equipo de técnicos competentes en cada una de las materias afectadas e indicará, en todo caso, de forma expresa el cumplimiento de los criterios establecidos en el artículo 38.
+Dentro del mes siguiente a la conclusión de la intervención, el promotor del proyecto presentará ante la consellería competente en materia de cultura una memoria descriptiva de la obra realizada y de los tratamientos aplicados, con la documentación gráfica del proceso de intervención elaborada por la dirección facultativa.
+Se excluyen de lo dispuesto en este apartado los inmuebles comprendidos en conjuntos históricos que no tengan por sí mismos la condición de bienes de interés cultural.
+5. Todas las autorizaciones de intervención se entenderán otorgadas en función de las circunstancias existentes en el momento de su dictado, por lo que podrán ser modificadas o dejadas sin efecto en caso de concurrir circunstancias sobrevenidas que hicieran peligrar los valores protegidos al amparo de la presente ley. La modificación o privación de efectos se producirá previa audiencia de los interesados y, de acuerdo con lo dispuesto en el artículo 10, podrá acordarse la paralización cautelar, total o parcial, antes de dictarse la resolución que resulte pertinente.
+6. La autorización se entenderá caducada si transcurrieran dos años sin haberse iniciado las actuaciones para las que fue solicitada, sin perjuicio de que su vigencia pueda prorrogarse, a solicitud del interesado, por una sola vez y por un nuevo plazo no superior al inicial. Dicha caducidad deberá ser declarada expresamente de conformidad con lo establecido en el artículo 42.1 de la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común.
+7. Las actuaciones promovidas por el órgano competente en materia de patrimonio cultural se ajustarán a lo dispuesto en la presente ley y se entenderán autorizadas con la aprobación del correspondiente proyecto.
+Se modifica el apartado 1 por el art. 69.6 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-11
+ Se modifica el apartado 1 por el art. 68.6 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+ Se modifica por el art. 95 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663.
+ Se modifica por el art. 1.14 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 36
+
+Artículo 36. Licencias municipales.
+1. Los ayuntamientos no podrán otorgar licencias ni dictar actos equivalentes, que habiliten actuaciones de edificación y uso del suelo relativas a inmuebles declarados de interés cultural, o a sus entornos, sin haberse acreditado por el ayuntamiento la obtención de la autorización de la conselleria competente en materia de cultura, cuando sea preceptiva conforme a lo dispuesto en el artículo 35.
+La solicitud de autorización deberá acompañarse de informe urbanístico municipal sobre cumplimiento de la normativa urbanística propia, con indicación de las circunstancias urbanísticas en que se encuentra el inmueble de referencia y certificación del cumplimiento de la normativa urbanística vigente, y en el cual se indique la pertinencia de autorización o informe de viabilidad emitido por la conselleria competente en materia de patrimonio cultural en virtud de la legislación vigente en materia de patrimonio cultural.
+La documentación técnica que se presente tendrá el grado de concreción técnica que se determine reglamentariamente y permita acometer la actuación y uso del suelo previsto sobre el inmueble.
+2. Será también necesario que el solicitante acredite haber obtenido la preceptiva autorización de la Consellería competente en materia de cultura para la concesión de permisos o licencias de actividad que supongan cambio en el uso de un bien inmueble de interés cultural, conforme a lo prevenido en el artículo 18.2. Dicha autorización se entenderá denegada una vez transcurridos tres meses desde que se solicitó sin que hubiera recaído resolución expresa.
+3. En ningún caso se concederán licencias condicionadas a la posterior obtención de las autorizaciones exigidas en los apartados anteriores.
+4. Los Ayuntamientos comunicarán a la Consellería competente en materia de cultura, las licencias y permisos urbanísticos y de actividad que afecten a bienes sujetos a tutela patrimonial, dentro de los diez días siguientes a su concesión. Tratándose de Monumentos, Jardines Históricos y Espacios Etnológicos, de inmuebles comprendidos en sus entornos y de bienes inmuebles de Relevancia Local la comunicación se hará de forma simultánea a la notificación al interesado.
+Se modifica el apartado 1 por el art. 215 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 1.15 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 37
+
+Artículo 37. Obras ilegales.
+1. Las obras realizadas sin autorización o apartándose del contenido de ésta se considerarán ilegales y el Ayuntamiento o, en su caso, la Consellería competente en materia de cultura, previa audiencia y con expreso apercibimiento de ejecución subsidiaria, requerirá al promotor de las mismas la restitución de los valores afectados, mediante la remoción, demolición o reconstrucción de lo hecho. Si no fuera atendido el requerimiento, la Administración realizará aquella restitución con cargo al responsable de la infracción. En el caso en que un acto municipal hubiere dado cobertura a dichas actuaciones y el Ayuntamiento no promoviese las acciones conducentes para la reparación de sus consecuencias, la ejecución subsidiaria corresponderá a la Consellería competente en materia de cultura.
+2. De las obras ejecutadas sin la autorización de la Consellería competente en materia de cultura, cuando fuere preceptiva, se haya concedido o no licencia municipal, serán responsables solidarios el promotor, el constructor y el técnico director de las mismas.
+3. De la concesión de licencias municipales u otros actos contraviniendo lo dispuesto en los dos artículos anteriores serán responsables los Ayuntamientos que los dictaron, en los términos establecidos en la legislación urbanística.
+Se modifica por el art. 1.16 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 38
+
+Artículo 38. Criterios de intervención en Monumentos y Jardines Históricos.
+1. Cualquier intervención en un monumento, jardín histórico o espacio etnológico declarado de interés cultural deberá ir encaminada a la preservación y acrecentamiento de los intereses patrimoniales que determinaron dicho reconocimiento y se ajustará a los siguientes criterios:
+a) La intervención respetará las características y valores esenciales del inmueble. Se conservarán sus características volumétricas, espaciales, morfológicas y artísticas, así como las aportaciones de distintas épocas que hayan enriquecido sus valores originales.
+En caso de que se autorice alguna supresión deberá quedar debidamente documentada.
+b) Se preservará la integridad del inmueble y no se autorizará la separación de ninguna de sus partes esenciales ni de los elementos que le son consustanciales. Los bienes muebles vinculados como pertenencias o accesorios a un inmueble declarado de interés cultural sólo podrán ser separados del mismo en beneficio de su propia protección y de su difusión pública o cuando medie un cambio de uso y siempre con autorización de la Consellería competente en materia de cultura. Reglamentariamente se determinarán las condiciones de dichos traslados que aseguren el cumplimiento de los fines que los justifiquen.
+c) Los bienes inmuebles de interés cultural son inseparables de su entorno. No se autorizará el desplazamiento de éstos sino cuando resulte imprescindible por causa de interés social o fuerza mayor, mediante resolución de la Consellería competente en materia de cultura y previo el informe favorable de al menos dos de las instituciones consultivas a que se refiere el artículo 7 de esta ley.
+d) Podrán autorizarse, siempre que exista alguna pervivencia de elementos originales o conocimiento documental suficiente de lo perdido, las reconstrucciones totales o parciales del bien. En todo caso deberá justificarse documentalmente el proceso reconstructivo.
+La reconstrucción procurará, en la medida que las condiciones técnicas lo permitan, la utilización de procedimientos y materiales originarios. El resultado deberá hacerse comprensible a través de gráficos, maquetas, métodos virtuales o cualquier técnica de representación que permita la diferenciación entre los elementos originales y los reconstruidos.
+e) Queda prohibida la colocación de rótulos y carteles publicitarios, conducciones aparentes y elementos impropios en los espacios etnológicos, jardines históricos y en las fachadas y cubiertas de los monumentos, así como de todos aquellos elementos que menoscaben o impidan su adecuada apreciación o contemplación.
+f) La Consellería competente en materia de cultura podrá autorizar la instalación de rótulos indicadores del patrocinio de los bienes y de la actividad a que se destinan.
+2. En caso de encontrarse separado algún elemento original del monumento, jardín histórico o espacio etnológico del que formaba parte, la Consellería competente en materia de cultura promoverá la recuperación de aquellos que tengan especial relevancia artística o histórica.
+Se modifica por el art. 1.17 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+ Se modifica por el art. 1.6 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 39
+
+Artículo 39. Planes Especiales de protección.
+1. Los Planes Especiales de Protección de los inmuebles declarados de interés cultural establecerán las normas de protección que desde la esfera urbanística den mejor respuesta a la finalidad de aquellas provisionalmente establecidas en la declaración, regulando con detalle los requisitos a que han de sujetarse los actos de edificación y uso del suelo y las actividades que afecten a los inmuebles y a su entorno de protección.
+La memoria justificativa de dichos documentos de planeamiento dará razón expresa del cumplimiento de las determinaciones establecidas en el presente artículo, en función de las particularidades urbanísticas y patrimoniales del ámbito protegido.
+2. Los Planes Especiales de Protección de los Conjuntos Históricos y sus modificaciones, tendrán en cuenta los siguientes criterios:
+a) Se mantendrá la estructura urbana y arquitectónica del conjunto y las características generales del ambiente y de la silueta paisajística.
+No se permitirán modificaciones de alineaciones, alteraciones de la edificabilidad, parcelaciones ni agregaciones de inmuebles, salvo que contribuyan a la mejor conservación general del conjunto.
+b) No obstante lo dispuesto en el apartado anterior, con carácter excepcional, el Consell podrá autorizar, oídos al menos dos de los organismos a que se refiere el artículo 7 de esta ley, que los Planes Especiales de Protección de los Conjuntos históricos prevean modificaciones de la estructura urbana y arquitectónica en el caso de que se produzca una mejora de su relación con el entorno territorial o urbano o se eviten los usos degradantes para el propio conjunto o se trate de actuaciones de interés general para el municipio o de proyectos singulares relevantes.
+c) Justificadamente, con la aprobación del Plan se podrá establecer un perímetro continuo o discontinuo de mayor alcance que el reconocido en la declaración. El perímetro así declarado pasará integrarse en el Conjunto Histórico a todos los efectos.
+d) Los Planes Especiales articularán, respecto del patrimonio arqueológico de su ámbito, las cautelas establecidas en la materia por la presente ley, de manera acorde con lo dispuesto en los artículos 59 a 65 de la misma. Dichas cautelas, tendrán por objeto aquellas actuaciones que supongan remoción o alteración del subsuelo, estén sujetas o no a licencia municipal.
+e) El planeamiento incentivará operaciones de rehabilitación urbana que faciliten la recuperación residencial del área y de las actividades económicas tradicionales junto con otras compatibles con los valores del conjunto. Propiciará igualmente la implantación, en los edificios y espacios que sean aptos para ello, de aquellas dotaciones y usos públicos que contribuyan a la rehabilitación inmueble y a la puesta en valor y disfrute social del conjunto.
+f) El planeamiento tendrá por objeto, con carácter general, la conservación de los inmuebles y su rehabilitación, exceptuando aquellos otros que no se ajusten a los parámetros básicos de las edificaciones tradicionales de la zona y que, por tal razón, se califiquen expresa y justificadamente por el Plan como impropios, distorsionantes o inarmónicos.
+Con la finalidad de facilitar la evaluación patrimonial y asegurar la continuidad de los procesos de renovación urbana, se garantizará la edificación sustitutoria en los derribos de inmuebles, condicionándose la concesión de la licencia de derribo a la valoración del correspondiente proyecto de edificación. Idéntico criterio se practicará en el desarrollo de remodelaciones urbanas previstas o permitidas por el planeamiento.
+Los inmuebles que sean sustituidos consecuencia de su destrucción por cualquier circunstancia tomarán como referencia las tipologías arquitectónicas de la zona o área en que se encuentran ubicados, conforme a lo desarrollado en la letra j) del presente apartado.
+g) El Plan Especial deberá contener un Catálogo de Bienes y Espacios Protegidos que defina los diversos grados de protección y tipos de intervención posibles. El Catálogo, además de incluir los inmuebles cultural o arquitectónicamente destacados, abarcará todos aquellos relacionados con los patrones caracterizadores del conjunto que puedan ser objeto de conservación o rehabilitación.
+El régimen de intervención se determinará en función de los valores específicos de cada inmueble o de su papel urbano, expresamente señalados en el documento. En caso de edificios sujetos a posible remodelación o vaciado con mantenimiento de elementos significativos, particularmente su fachada, el Catálogo regulará las actuaciones a realizar de modo que sean congruentes con su tipomorfología, respetando la edificabilidad, la cota de encuentro de forjados y cubiertas y la disposición originaria de huecos.
+Cuando por cualquier circunstancia resulte destruido un bien catalogado el terreno subyacente permanecerá sujeto al régimen propio de la edificación precedente. En este supuesto se procederá a la restitución, en lo posible, de los valores del inmueble conforme a su caracterización original, y de no serlo, conforme a los parámetros tipológicos establecidos para el ámbito en que se ubique.
+En todo caso, los Catálogos dejaran constancia, con la denominación correspondiente, de todos aquellos inmuebles que formen parte del Inventario de Patrimonio Cultural Valenciano, con indicación, en su caso, de los respectivos entornos de protección.
+h) El planeamiento especial declarará fuera de ordenación aquellas construcciones e instalaciones erigidas con anterioridad a su aprobación que resulten disconformes con el régimen de protección exigido por esta ley, estableciendo el régimen específico de intervención admisible en las mismas.
+i) Los Planes Especiales procurarán la adaptación morfológica de aquellos inmuebles que resulten disonantes respecto de la caracterización propia del conjunto, y proveerán las medidas de ornato que deban regir en la conservación de fachadas y cubiertas de inmuebles no expresamente catalogados.
+j) Con el fin de asegurar la armonización de nuevas edificaciones con el ambiente en el que inserten, el planeamiento especial dispondrá de normativa reguladora de los parámetros tipológicos, morfológicos y materiales a ellas exigibles, diferenciada en función de las características propias de cada zona homogénea, así delimitada mediante estudios histórico-arquitectónicos, urbanísticos y paisajísticos, cuyo nivel de detalle puede llegar a pormenorizar frentes urbanos, ejes o tramos viarios, manzanas e incluso lienzos de fachadas de las mismas.
+Para ello se regularán, como mínimo, los siguientes parámetros: escala y parcelación, relación orográfica, relación entre plano de fachada y alineación, sección general, perfil y cubiertas, vuelos y su disposición, relación macizo-vano, tipología de huecos, composición, materiales, acabados, ornamento, color e iluminación.
+El planeamiento podrá señalar causas o ámbitos de excepcionalidad en los que las actuaciones no queden sujetas, total o parcialmente, a la presente regulación, condicionando su autorización a la resolución expresa de la Consellería competente en materia de cultura.
+k) El Plan contendrá criterios relativos al ornato de edificios, espacios libres y viales en su relación con la escena o paisaje urbano, de modo que garantice y acreciente sus valores y la percepción de los mismos.
+En lo que respecta a los inmuebles, regulará, con carácter limitativo, el establecimiento o la instalación de accesorios tales como toldos, marquesinas, dispositivos luminosos o cualesquiera otros prominentes o sobrepuestos a su envolvente arquitectónica. Igualmente asegurará la recuperación del aspecto, ornamento y cromatismo característicos de las edificaciones, implantando, para aquellas que carezcan de referentes propios, que sean remodelables o de nueva construcción, la correspondiente carta de color y repertorio de acabados a los que atenerse, y para todas, en general, las prescripciones técnicas que condicionen la iluminación de exteriores.
+En lo que respecta a espacios o viales, regulará la reposición o renovación de pavimentos, el ajardinamiento y arbolado, el mobiliario urbano, las señalizaciones, la eliminación de barreras arquitectónicas, el alumbrado y demás elementos ambientales. Asimismo regulará la asignación de uso y ocupación, teniendo particularmente en consideración el mantenimiento de las prácticas rituales o simbólicas tradicionales.
+l) El Plan prohibirá la publicidad exterior en cualquiera de sus formatos y soportes de fijación (mástiles, vallas, paneles, carteles, lonas, toldos, etc.) así como aquella que utilice medios acústicos, de proyección o de generación de imágenes, salvo la de actividades cívicas, culturales o eventos festivos que, de manera ocasional, reversible y por tiempo limitado puedan ser autorizables a través del procedimiento que se determine. Mediante una regulación estricta sobre presentación, tamaño y ubicación, podrá excepcionarse de tal prohibición la publicidad que se inserte en mobiliario urbano de titularidad o concesión pública. Las lonas o tejidos protectores de las obras de rehabilitación, reforma o nueva construcción de fachadas serán de aspecto neutro e uniforme, de gramaje que permita la mayor transparencia posible, sin que sean aceptables otras grafías o rotulaciones que las determinadas por las ordenanzas municipales para la identificación legal de las actuaciones, salvo que reproduzcan impresas en ella y a escala real, las fachadas que cubren, en cuyo caso la normativa del Plan podrá permitir la incorporación, de manera discreta y en extensión inferior al 15% de la superficie, de identificaciones o mensajes publicitarios.
+No se consideran publicidad a los efectos del presente apartado los indicadores y la rotulación de establecimientos que sean identificativos de las marcas corporativas y de la actividad que en ellos se desarrolle. El Plan establecerá la normativa reguladora que garantice su integración armónica en los edificios y en el paisaje del conjunto.
+m) El Plan dispondrá que toda instalación urbana eléctrica, telefónica o de cualquier otra naturaleza se canalice subterráneamente, quedando expresamente prohibido el tendido de redes aéreas o adosadas a las fachadas. Las antenas de telecomunicación y dispositivos similares se situarán en lugares en que no perjudiquen la imagen urbana o de parte del conjunto.
+n) El planeamiento analizará la estructuración viaria para articular normativamente la jerarquización y funcionalidad del espacio público en relación con el uso, la accesibilidad, y el estacionamiento de vehículos. Priorizará el uso peatonal, el transporte público y la dotación de estacionamientos para residentes, con el fin de evitar al máximo las afecciones del tráfico rodado.
+o) El Plan establecerá la documentación técnica necesaria que permita evaluar la idoneidad y trascendencia patrimonial de cada intervención. Con este fin, exigirá estudios documentales de carácter histórico-artístico, urbano y arquitectónico que, con apoyo gráfico, permitan el análisis comparativo entre la situación de partida y la propuesta.
+p) Los Planes preverán instrumentos para lograr un seguimiento documental y una gestión integrada del Conjunto Histórico, y, en todo caso, contemplarán la creación de una Comisión Mixta con representación de la Consellería competente en materia de patrimonio de la Generalitat y del Ayuntamiento en la que se debatirán, de manera puntual y para la mejor consecución de las finalidades perseguidas por la norma, aquellas cuestiones en la que exista un margen de interpretación. En última instancia, en caso de discrepancias interpretativas o de sobrevenir nuevas incidencias patrimoniales no previstas por el plan, resolverá, oído el parecer municipal, la Consellería competente en materia de cultura.
+q) La Generalitat promoverá la conservación de los bienes de interés cultural, incluyendo la adopción de medidas para el mantenimiento de las tradiciones y las actividades culturales propias, evitando la pérdida de usos y costumbres que son parte de nuestro patrimonio inmaterial.»
+3. En los Planes Especiales de Protección y sus modificaciones, referidos a entornos de Monumentos, Jardines Históricos y, en su caso, de Espacios Etnológicos se tendrá en cuenta lo siguiente:
+a) Con el fin de proveer la adecuada protección y valoración de estos bienes, el entorno de protección deberá ser delimitado con precisión por el propio Plan Especial cuando no se hubiese hecho en el momento de la declaración o no se hubiese incorporado posteriormente en procedimiento expreso. Excepcionalmente el planeamiento podrá proponer, por motivos justificados en la mejora tutelar, reajustes del ámbito de protección previamente reconocido. La delimitación así tramitada adquirirá vigencia a todos los efectos a partir de la entrada en vigor del correspondiente planeamiento.
+b) La delimitación se ajustará a los siguientes criterios:
+b.1) Para los que se encuentren en ámbitos urbanos:
+Parcelas que limitan directamente con la que ocupa el bien, y en las que cualquier intervención que se realice pueda afectarlo visual o físicamente.
+Parcelas recayentes al mismo espacio público que el bien y que constituyen el entorno visual y ambiental inmediato y en el que cualquier intervención que se realice pueda suponer una alteración de las condiciones de percepción del bien o del carácter patrimonial del ámbito urbano en que se ubica.
+Espacios públicos en contacto directo con el bien y las parcelas enumeradas anteriormente y que constituyen parte de su ambiente inmediato, acceso y centro del disfrute exterior del mismo.
+Espacios, edificaciones o cualquier elemento del paisaje urbano que, aún no teniendo una situación de inmediatez con el bien, afecten de forma fundamental a la percepción del mismo o constituyan puntos clave de visualización exterior o de su disfrute paisajístico.
+Perímetros de presunción arqueológica, susceptibles de hallazgos relacionados con el bien de interés cultural o con la contextualización histórica de su relación territorial.
+b.2) Para los que se encuentren en ámbitos no urbanos o periurbanos:
+En su relación urbana atenderán los mismos criterios expresados anteriormente. En su restante relación territorial, además de los perímetros de presunción arqueológica antes citados, incluirán los ámbitos colindantes, deslindados según referentes geográficos, topográficos, etnológicos y paisajísticos, cuyas componentes naturales y rurales conformen su paisaje consustancial, así como los caminos más próximos desde donde es posible su contemplación.
+c) Salvo determinación expresa de la declaración, será también de aplicación para la elaboración de los planes especiales de protección de los monumentos, jardines históricos y, en su caso, espacios etnológicos y sus entornos, la regulación arbitrada para conjuntos históricos en el apartado 2 de este artículo, exceptuando lo regulado en los epígrafes b) y p) del mismo.
+d) El Plan establecerá con precisión, en desarrollo de lo dispuesto en el apartado 3 del artículo 35, aquellas intervenciones que por su ámbito de incidencia o por su trascendencia patrimonial requerirán de la previa autorización de la Conselleria competente en materia de cultura.
+e) Ninguna intervención podrá alterar el carácter arquitectónico y paisajístico de la zona ni perturbar la contemplación del bien. La regulación urbanística procurará además la recuperación de aquellos valores arquitectónicos y paisajísticos acreditados, que se hubiesen visto afectados con anterioridad a la declaración.
+f) En todo caso, se arbitraran las medidas necesarias para la eliminación de elementos, construcciones e instalaciones que no cumplan una función directamente relacionada con el destino o características del bien y supongan un deterioro visual o ambiental de este espacio.
+g) En ámbitos rurales, el Plan velará porque el tratamiento de la geomorfología y orografía del terreno resulte acorde con la contextualización histórico-paisajística del bien, prohibiendo cualquier movimiento de tierras que pueda afectar a la caracterización propia del lugar, así como cualquier clase de vertido.
+4. Los sitios históricos, las zonas arqueológicas y paleontológicas y los parques culturales se ordenarán asimismo mediante sus correspondientes planes especiales de protección u otros instrumentos de ordenación que cumplan las exigencias establecidas en esta ley.»
+Se modifica la letra d) del apartado 3 por el art. 216 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 1.18 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+ Se modifica por el art. 1.7 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 40
+
+Artículo 40. Ruina.
+1. Si, pese a lo dispuesto en el artículo 18 de esta Ley, llegara a incoarse expediente para la declaración de la situación legal de ruina de un inmueble declarado de interés cultural, la Conselleria de Cultura, Educación y Ciencia intervendrá como interesada en dicho expediente, cuya incoación deberá serle notificada. El expediente deberá ser también sometido a información pública por plazo de un mes a fin de hacer posible el cumplimiento de lo dispuesto en el artículo 5.3 de esta Ley. La incoación del expediente podrá dar lugar a la expropiación del inmueble en los términos establecidos en el artículo 21.
+De conformidad con lo prevenido en el artículo 30.2, la situación de ruina de un inmueble declarado de interés cultural que sea consecuencia del incumplimiento de las obligaciones establecidas en la presente Ley, no podrá jamás servir de causa para dejar sin efecto dicha declaración y determinará para el propietario la obligación de realizar a su cargo las obras de restauración y conservación necesarias, sin que sea aplicable en este caso el límite del deber normal de conservación que establece la legislación urbanística.
+2. Cuando, a consecuencia del mal estado de conservación de un inmueble declarado de interés cultural, el Ayuntamiento correspondiente, para evitar daños a terceros, hubiera de adoptar medidas que pudieran afectar a elementos de la edificación, lo comunicará inmediatamente a la Conselleria de Cultura, Educación y Ciencia, que deberá resolver con la urgencia precisa y en todo caso en el plazo de setenta y dos horas, señalando las condiciones a las que haya de sujetarse la intervención.
+3. Cuando, por cualquier circunstancia, resultare destruida una construcción o edificio declarado de interés cultural será de aplicación, en cuanto al régimen del terreno subyacente y el aprovechamiento subjetivo del propietario, lo dispuesto en la legislación urbanística en relación con la pérdida o destrucción de elementos catalogados.
+4. En el caso de que un inmueble fuera derruido y formara parte de un entorno o conjunto inscrito en el Inventario General del Patrimonio Cultural Valenciano, la nueva construcción se ajustará a la tipología y al estilo del entorno o conjunto urbanístico.
+
+## Sección tercera
+
+Sección tercera. Régimen de los bienes muebles de interés cultural
+
+### Artículo 41
+
+Artículo 41. Uso y conservación.
+1. Los bienes muebles declarados de interés cultural no podrán ser sometidos a tratamiento alguno, ni a cambio en el uso que de ellos se viniera haciendo, sin autorización de la conselleria competente en materia de cultura. Las solicitudes de autorización de cambio de uso se entenderán concedidas por el transcurso de tres meses desde que se solicitó sin haberse dictado resolución. Las solicitudes de autorización para el tratamiento de estos bienes se entenderán denegadas por el transcurso de tres meses desde que se solicitó sin haberse dictado resolución.
+2. La solicitud de autorización deberá ir acompañada, al menos, de la siguiente documentación:
+a) Memoria del estado de conservación del bien y estudio relativo de los valores históricos y culturales redactados por técnico competente.
+b) Proyecto de intervención en el que se indiquen las técnicas, materiales y procesos a utilizar y el lugar donde se efectuará aquélla.
+c) Acreditación de la capacidad técnica y profesional de las personas que hayan de dirigir y llevar a cabo la intervención.
+3. La Conselleria competente en materia de cultura podrá inspeccionar en todo momento las intervenciones que se realicen sobre los bienes muebles de interés cultural y ordenará la suspensión inmediata de éstas cuando no se ajusten a la autorización concedida o se estime que las actuaciones profesionales no alcanzan el nivel adecuado.
+4. Si durante el transcurso de las intervenciones aparecieran signos o elementos desconocidos que pudieran suponer la atribución de una autoría diferente a la establecida hasta ese momento, o un cambio significativo en la obra original, se suspenderá la intervención y se dará cuenta inmediata a la Conselleria competente en materia de cultura que concedió la autorización, para que permita o no la continuación de la intervención y establezca, si así lo estima los condicionantes adecuados.
+5. Dentro del mes siguiente a la conclusión de la intervención, el promotor del proyecto presentará ante la Conselleria competente en materia de cultura una memoria descriptiva de los trabajos realizados y de los tratamientos aplicados, con la documentación gráfica del proceso de intervención elaborada por quien haya realizado la actuación.
+Se modifica el apartado 1 por el art. 217 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 1.8 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 42
+
+Artículo 42. Depósito y exposición.
+1. La Conselleria de Cultura, Educación y Ciencia podrá, previa instrucción del correspondiente expediente contradictorio, acordar el depósito provisional de los bienes muebles de interés cultural en centros de titularidad pública cuando peligre la seguridad o la conservación de los mismos.
+2. Los propietarios y poseedores legítimos de dichos bienes podrán acordar con las administraciones públicas de la Comunidad Valenciana la cesión en depósito de los mismos. Dicha cesión conllevará el derecho de la Administración a exponer al público los bienes depositados, salvo causa en contrario debidamente justificada.
+
+### Artículo 43
+
+Artículo 43. Traslados.
+Los traslados de bienes muebles de interés cultural deberán ser autorizados con carácter previo por la Conselleria competente en materia de cultura y hacerse con las garantías suficientes para evitar que pueda causárseles daño, que señalará las condiciones técnicas a que deba ajustarse el traslado. La solicitud de autorización indicará el origen y el destino del bien y si el traslado es de carácter temporal o definitivo. Una vez realizado éste, se dará cuenta a la conselleria para su anotación en el Inventario.
+Quedarán excluidos aquellos bienes muebles de interés cultural que por su propia naturaleza son tradicionalmente trasladados provisionalmente en fechas determinadas o en festividades, según la tradición. Todo ello sin perjuicio del necesario control por parte de la conselleria competente en materia de cultura.
+Se modifica por el art. 218 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 44
+
+Artículo 44. Integridad de las colecciones.
+Las colecciones de bienes muebles declaradas de interés cultural no podrán ser disgregadas por sus propietarios o poseedores sin autorización previa de la Conselleria de Cultura, Educación y Ciencia, que deberá contar con el informe favorable de al menos dos de las instituciones consultivas a las que se refiere el artículo 7 de la presente Ley.
+
+## Sección cuarta
+
+Sección cuarta. Régimen de los bienes inmateriales de interés cultural
+
+### Artículo 45
+
+Artículo 45. Declaración y régimen de protección.
+1. Aquellas actividades, creaciones, conocimientos, prácticas, usos y técnicas que constituyen las manifestaciones más representativas y valiosas de la cultura y los modos de vida tradicionales de los valencianos serán declarados bienes de interés cultural. Igualmente podrán ser declarados bienes de interés cultural los bienes inmateriales que sean expresiones de las tradiciones del pueblo valenciano en sus manifestaciones musicales, artísticas, gastronómicas o de ocio, y en especial aquellas que han sido objeto de transmisión oral, y las que mantienen y potencian el uso del valenciano.
+2. El decreto establecerá las medidas de protección y fomento de la manifestación cultural objeto de la declaración que mejor garanticen su conservación. En cualquier caso, se ordenará el estudio y la documentación con criterios científicos de la actividad o conocimiento de que se trate, incorporando los testimonios disponibles de éstos a soportes materiales que garanticen su pervivencia.
+Los ayuntamientos afectados por las diferentes declaraciones de bienes de interés cultural recibirán cumplida información oficial sobre estas.
+Se modifica el apartado 2 por el art. 1 de la Ley 9/2017, de 7 de abril. Ref. BOE-A-2017-5119
+ Se modifica por el art. 1.9 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+## CAPÍTULO IV
+
+De los demás bienes del Inventario General
+
+## Sección primera
+
+Sección primera. De los Bienes de Relevancia Local
+
+### Artículo 46
+
+Artículo 46. Concepto.
+1. Son bienes inmuebles relevancia local todos aquellos bienes inmuebles que, no reuniendo los valores a que se refiere el artículo 1 de esta ley en grado tan singular que justifique su declaración como bienes de interés cultural, tienen no obstante significación propia, en el ámbito comarcal o local, como bienes destacados de carácter histórico, artístico, arquitectónico, arqueológico, paleontológico o etnológico.
+Dichos bienes deberán ser incluidos en los correspondientes catálogos de bienes y espacios protegidos previstos en la legislación urbanística, con la expresada calificación de bienes inmuebles de relevancia local y se inscribirán en la sección 2.ª del Inventario General del Patrimonio Cultural Valenciano. Tales bienes y su normativa de protección formarán parte de la ordenación estructural del planeamiento municipal, que se desarrollará conforme a los criterios de planificación establecidos para las correspondientes categorías de bienes de interés cultural.
+2. Los Bienes Inmuebles de Relevancia Local serán inscritos en el Inventario General del Patrimonio Cultural Valenciano atendiendo a las siguientes categorías:
+a) Monumento de Interés Local.
+b) Núcleo Histórico Tradicional.
+c) Jardín Histórico de Interés Local.
+d) Espacio Etnológico de Interés Local.
+e) Sitio Histórico de Interés Local.
+f) Espacio de Protección Arqueológica.
+g) Espacio de Protección Paleontológica.
+3. La inexistencia, en su caso, de bienes inmuebles calificados de relevancia local en un determinado Catálogo de Bienes y Espacios Protegidos habrá de ser motivada en el propio Catálogo.
+Se modifica por el art. 1. 19 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 47
+
+Artículo 47. Formación de los Catálogos de Bienes y Espacios Protegidos.
+1. Corresponde a los Ayuntamientos proponer justificadamente, a través del Catálogo de Bienes y Espacios, la selección de los inmuebles de su término municipal que aspiren al reconocimiento de Bien de Relevancia Local.
+2. Sin perjuicio de lo dispuesto en la legislación urbanística en relación con la elaboración de los Catálogos de Bienes y Espacios Protegidos, a los efectos de la presente ley, tales documentos deberán abarcar, de manera sucinta, el estudio y evaluación de todos los campos de interés patrimonial de naturaleza inmueble que tengan presencia en su municipio, siendo redactados por equipos pluridisciplinares en cuya composición participarán necesariamente titulados superiores en las disciplinas de arquitectura, arqueología, historia del arte y etnología o antropología que garanticen la solvencia técnica de los trabajos. En los mismos se destacarán los valores concretos, los diversos grados de protección y tipos de intervención posibles, según los criterios establecidos en los dos últimos incisos del epígrafe g) del apartado 2 del artículo 39 de la presente ley.
+3. Los catálogos de bienes y espacios protegidos y sus modificaciones deberán ser informados por la Consellería competente en materia de cultura. Dicho informe se emitirá, en el plazo de seis meses, sobre la documentación que vaya a ser objeto de la aprobación provisional. El informe tendrá carácter vinculante, tanto respecto de la aprobación provisional del documento de planeamiento como respecto de la aprobación definitiva, y tendrá efectos vinculantes en todo lo referente a la inclusión, exclusión y régimen de protección de los bienes calificados de relevancia local. Reglamentariamente se determinaran los requisitos patrimoniales de los catálogos urbanísticos.
+4. La Consellería competente en materia de cultura, cuando aprecie la existencia de inmuebles que deban ser incluidos en el Inventario General del Patrimonio Cultural como Bienes Inmuebles de Relevancia Local, y que no hayan sido reconocidos a través del Catálogo Urbanístico, lo comunicará al Ayuntamiento, con los efectos previstos en el artículo 10, para que, oídos los posibles interesados, se pronuncie en el plazo de un mes. Dentro del mes siguiente la Consellería dictará resolución, pudiendo, en su caso, iniciar el procedimiento para la inscripción del bien en la Sección 2.ª de dicho Inventario. Transcurrido este último plazo sin que hubiere recaído resolución se entenderá levantada la protección cautelar y decaída la propuesta.
+5. El anuncio, según lo previsto en la legislación urbanística, de la información pública de los Catálogos de Bienes y Espacios Protegidos o de los Planes que los contengan, determinará la aplicación inmediata:
+a) Para los bienes de relevancia local, de las medidas de protección establecidas en dichos catálogos y el régimen de protección y las medidas de fomento previstas en esta ley para los bienes del Inventario General del Patrimonio Cultural Valenciano. A estos bienes se les aplicará el régimen transitorio que se prevea reglamentariamente. La resolución por la que se inicie el procedimiento para la inscripción del bien será objeto de publicación en el “Diari Oficial de la Generalitat Valenciana” y determinará la aplicación cautelar del régimen de protección que en la misma se indique.
+b) Para el resto de elementos incluidos en el Catálogo, del régimen de protección establecido en el mismo, incluso tras el alzamiento de la suspensión de licencias previsto en la legislación urbanística.
+6. La Consellería competente en materia de cultura prestará a los municipios que lo requieran la asistencia técnica necesaria para la elaboración de sus Catálogos de Bienes y Espacios Protegidos.
+Se modifica el apartado 5 por el art. 69.7 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-11
+ Se modifica el apartado 5 por el art. 68.7 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+ Se modifica por el art. 1. 20 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+ Se modifica el apartado 1 por el art. 1.10 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 48
+
+Artículo 48. Inclusión en el Inventario General.
+1. La aprobación o modificación definitivas de los Catálogos de Bienes y Espacios Protegidos que incluyan bienes inmuebles calificados de relevancia local determinará la inscripción de dichos bienes en la Sección 2.ª del Inventario General del Patrimonio Cultural. A tal efecto, el órgano urbanístico que hubiera acordado la aprobación definitiva comunicará su resolución a la Consellería competente en materia de cultura y le remitirá un ejemplar original del Catálogo.
+2. En los supuestos extraordinarios contemplados en los artículos 10 y 47.4, la inclusión en el inventario se realizará mediante resolución de la Consellería competente en materia de cultura, previa audiencia a los interesados y oída, al menos, una de las instituciones consultivas a que se refiere el artículo 7 de la esta ley.
+3. La inscripción de bienes en la Sección 2.ª del Inventario General del Patrimonio Cultural será objeto de publicación en el Diari Oficial de la Generalitat o Diari Oficial de la Comunitat Valenciana.
+Se modifica por el art. 1.21 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 49
+
+Artículo 49. Inscripción en el Registro de la Propiedad.
+La inclusión de un Bien de Relevancia Local en el Inventario General se comunicará al Registro de la Propiedad para su constancia en el mismo.
+
+### Artículo 50
+
+Artículo 50. Régimen de protección.
+1. Los bienes inmuebles de relevancia local estarán sujetos a las normas de protección contenidas en el correspondiente catálogo de bienes y espacios protegidos, al régimen general de los bienes inmuebles del Inventario General del Patrimonio Cultural Valenciano y a lo dispuesto en la legislación urbanística respecto de los bienes catalogados.
+2. Los catálogos de bienes y espacios protegidos establecerán las medidas de protección que, en función de los valores reconocidos, aseguren la adecuada conservación y apreciación de dichos bienes. En relación con los bienes inmuebles de relevancia local contendrán al menos las siguientes determinaciones:
+a) Situación y descripción detallada del bien y de los elementos protegidos.
+b) Determinación de los valores patrimoniales que justifican la calificación de relevancia local.
+c) Entorno de afección del bien, si procede.
+d) Definición del grado de protección y del régimen de intervención autorizado.
+3. Los catálogos prestarán la adecuada protección, mediante su calificación como bienes inmuebles de relevancia local a las muestras más representativas y valiosas de la arquitectura popular y del patrimonio arquitectónico industrial del término municipal así como incluirán, con esta consideración, a los yacimientos arqueológicos y los paleontológicos de especial valor existentes en dicho ámbito territorial, con la calificación de espacios de protección arqueológica o paleontológica. Asimismo podrán proponer la calificación como bienes de relevancia local a los núcleos históricos tradicionales existentes en su término municipal, o a una parte de los mismos, cuando sus valores patrimoniales así lo merezcan.
+4. Las licencias municipales de intervención en los bienes inmuebles de relevancia local, los actos de análoga naturaleza y las órdenes de ejecución de obras de reparación, conservación y rehabilitación, se ajustarán estrictamente a las determinaciones establecidas en los catálogos. Los ayuntamientos, en los términos que se establezcan reglamentariamente, deberán comunicar a la consellería competente en materia de cultura, simultáneamente a la notificación al interesado, las actuaciones que ellos mismos vayan a realizar, las licencias de intervención concedidas y las órdenes de ejecución que dicten sobre dichos bienes.
+5. Respecto a las licencias de excavaciones o remociones de tierra con fines arqueológicos o paleontológicos se estará a lo dispuesto en el artículo 60.5.
+6. En los términos que se establezcan reglamentariamente, será de aplicación a los proyectos de intervención en bienes inmuebles de relevancia local lo dispuesto en el artículo 35.4 de esta ley.
+7. En cuanto se refiere a la declaración de ruina de los bienes inmuebles de relevancia local, será de aplicación lo preceptuado en los apartados 1 y 3 del artículo 40 de la presente ley.
+Se modifica por el art. 96 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663.
+ Se modifica por el art. 1.22 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+## Sección segunda
+
+Sección segunda. De los bienes muebles de Relevancia Patrimonial
+Se modifica por el art. 1.23 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 51
+
+Artículo 51. Concepto.
+Los bienes muebles que posean alguno de los valores señalados en el artículo 1 de esta ley en grado relevante, aunque sin la singularidad propia de los bienes declarados de interés cultural, serán incluidos en el Inventario General del Patrimonio Cultural Valenciano, con la calificación de Bienes Muebles de Relevancia Patrimonial, a los efectos de su adecuada protección, conservación, estudio y conocimiento público. La inclusión podrá hacerse a título individual, como colección o en concepto de fondos de museos, archivos, bibliotecas y demás centros de depósito cultural previstos en la presente ley.
+Se modifica por el art. 1.24 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 52
+
+Artículo 52. Procedimiento.
+1. La inclusión de bienes muebles en el Inventario General del Patrimonio Cultural Valenciano se hará mediante resolución de la Consellería competente en materia de Cultura, previa la tramitación del correspondiente procedimiento, de oficio o a instancia de sus propietarios o poseedores legítimos o del Ayuntamiento o con el conocimiento del mismo, donde se halle situado el bien. El expediente habrá de ser resuelto en el plazo de seis meses desde la solicitud o la incoación de oficio. La denegación, en su caso, de la solicitud de incoación habrá de ser motivada.
+2. La incoación del procedimiento determinará la aplicación inmediata del régimen de protección previsto en esta ley para los Bienes Muebles de Relevancia Patrimonial.
+3. La resolución dará lugar a la inscripción del bien en la Sección 3.ª del Inventario, salvo en el caso de Bienes del Patrimonio Documental, Bibliográfico o Audiovisual de Relevancia Patrimonial, cuya inscripción se hará en la Sección 4.ª, y se notificará a la Administración del Estado a los efectos de la correspondiente inscripción en el Inventario General de Bienes Muebles del Patrimonio Histórico Español.
+Se modifica por el art. 1.25 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 53
+
+Artículo 53. Régimen de protección.
+Será de aplicación a los Bienes Muebles de Relevancia Patrimonial lo dispuesto en el artículo 41 sobre uso y conservación de los Bienes Muebles de Interés Cultural, así como la prohibición de disgregación de colecciones establecida en el artículo 44.
+Se modifica por el art. 1.26 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 54
+
+Artículo 54. Exclusión de bienes muebles del Inventario.
+La exclusión de bienes muebles del Inventario General se hará por el mismo procedimiento previsto para su inclusión y producirá la cancelación de la inscripción.
+
+## Sección tercera
+
+Sección tercera. De los bienes inmateriales de Relevancia Local
+Se modifica por el art. 1.27 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119
+
+### Artículo 55
+
+Artículo 55. Concepto.
+Sin perjuicio de lo dispuesto en el artículo 45 de esta ley, se incluirán en el Inventario General del Patrimonio Cultural Valenciano, con la calificación de Bienes Inmateriales de Relevancia Local, aquellas creaciones, conocimientos, prácticas, técnicas, usos y actividades más representativas y valiosas de la cultura y las formas de vida tradicionales valencianas. Igualmente se incluirán los bienes inmateriales que sean expresiones de las tradiciones del pueblo valenciano en sus manifestaciones musicales, artísticas, gastronómicas o de ocio, y en especial aquellas que han sido objeto de transmisión oral y las que mantienen y potencian el uso del valenciano.
+Se modifica por el art. 1.28 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+ Se modifica por el art. 1.11 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 56
+
+Artículo 56. Procedimiento.
+1. La inclusión en el Inventario de los bienes inmateriales, cuando no fueren objeto de declaración como Bienes de Interés Cultural, se hará mediante resolución de la Consellería competente en materia de cultura, previa la tramitación del correspondiente procedimiento, iniciado de oficio o a instancia de cualquier persona. La incoación, cuya denegación habrá de ser motivada, se notificará a las entidades, públicas o privadas, directamente relacionadas con la práctica o conocimiento de que se trate.
+2. La resolución se dictará en el plazo de un año desde la solicitud o la incoación de oficio y dará lugar a la inscripción del bien en la sección 5.ª del Inventario.
+3. En el procedimiento para la inclusión en el Inventario de Bienes Inmateriales de Naturaleza Tecnológica de Relevancia Patrimonial a los que se refiere el artículo 26.1.D. de esta ley, se deberá recabar informe del órgano de la administración de la Generalitat competente en materia de nuevas tecnologías.
+Se modifica por el art. 1.29 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+ Se modifica por el art. 1.12 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 57
+
+Artículo 57. Régimen de protección.
+La resolución por la que se incluya en el Inventario un bien inmaterial establecerá las medidas que garanticen la preservación y difusión de su conocimiento, mediante su investigación y documentación en los términos dispuestos en el artículo 45.2 de esta ley.
+Los ayuntamientos afectados por las declaraciones de bienes inmateriales del patrimonio de todo tipo recibirán cumplida información oficial de estas.
+Se añade el último párrafo por el art. 2 de la Ley 9/2017, de 7 de abril. Ref. BOE-A-2017-5119
+ Se modifica por el art. 1.13 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+## TÍTULO III
+
+Del patrimonio arqueológico y paleontológico
+
+### Artículo 58
+
+Artículo 58. Concepto.
+1. Forman parte del patrimonio arqueológico valenciano los bienes inmuebles, objetos, vestigios y cualesquiera otras señales de manifestaciones humanas que tengan los valores propios del patrimonio cultural y cuyo conocimiento requiera la aplicación de métodos arqueológicos, tanto si se encuentran en la superficie como en el subsuelo o bajo las aguas y hayan sido o no extraídos. También forman parte del patrimonio arqueológico los elementos geológicos relacionados con la historia del ser humano, sus orígenes y antecedentes.
+2. Integran el patrimonio paleontológico valenciano los bienes muebles y los yacimientos que contengan fósiles de interés relevante.
+3. Los Ayuntamientos, a través de su planeamiento urbanístico, deberán delimitar las áreas existentes en su término municipal que puedan contener restos arqueológicos o paleontológicos. La delimitación será efectuada por el Servicio Municipal de Arqueología y Paleontología o por técnicos competentes y cualificados en las citadas materias y se elevará a la Consellería competente en materia de cultura para su aprobación. En caso de ser aprobada, el área o las áreas delimitadas, se incluirán en el Catálogo de Bienes y Espacios Protegidos del municipio como Áreas de Vigilancia Arqueológica o Paleontológica, cuya norma de protección urbanística asegurará su sujeción a lo dispuesto en el artículo 62 de la presente ley.
+4. Excepcionalmente, cuando el Ayuntamiento no delimite las mencionadas áreas y exista peligro para el patrimonio arqueológico o paleontológico, la Consellería competente en materia de cultura podrá, subsidiariamente, proceder a su delimitación.
+5. De conformidad con lo preceptuado en esta ley, las Áreas de Vigilancia Arqueológica y Paleontológica de especial valor deberán ser incluidas en los Catálogos de Bienes y Espacios Protegidos con la calificación de Bienes Inmuebles de Relevancia Local y serán inscritas en el Inventario General del Patrimonio Cultural Valenciano con la denominación de Espacios de Protección Arqueológica o Paleontológica. En su caso, en función de sus valores, podrán acceder a la declaración de Bien de Interés Cultural, como Zona Arqueológica o Paleontológica.
+6. Sin perjuicio de las disposiciones especiales contenidas en el presente título, los restos materiales de valor cultural cuyo descubrimiento sea producto de actuaciones arqueológicas, así como los restos o vestigios fósiles, serán incluidos en el Inventario General del Patrimonio Cultural Valenciano, individualmente o como colección arqueológica o paleontológica, con arreglo a lo previsto en esta ley.
+7. A los efectos de la presente ley, se entiende por Servicios Municipales de Arqueología y Paleontología aquellos departamentos o instituciones municipales, con arqueólogos o paleontólogos titulados, encargados de la ejecución y supervisión técnica de las intervenciones arqueológicas o paleontológicas que se lleven a cabo en su término municipal. Reglamentariamente se determinarán sus competencias y funciones. La Consellería competente en materia de cultura u otras instituciones supramunicipales, podrán gestionar este servicio en aquellos municipios con los que así se conviniese.
+8. Por resolución de la persona titular de la conselleria competente en materia de patrimonio cultural podrá delegar en los Servicios Municipales de Arqueología y Paleontología, mediante resolución, alguna de las competencias previstas en esta ley, excepto las referidas a las intervenciones arqueológicas o paleontológicas que afecten a los bienes de interés cultural de carácter individual, de conformidad con lo dispuesto en el título VIII de la Ley 8/2010, de 23 de junio, de régimen local de la Comunitat Valenciana o norma que la sustituya.
+Se añade un apartado 8 por el art. 219 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 1.30 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+ Se modifica el apartado 4 por el art. 1.14 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 59
+
+Artículo 59. Actuaciones arqueológicas y paleontológicas.
+1. A los efectos de la presente ley se consideran actuaciones arqueológicas:
+a) Las prospecciones arqueológicas, entendiéndose por tales las exploraciones superficiales, subterráneas o subacuáticas, sin remoción del terreno, dirigidas al descubrimiento, estudio e investigación de toda clase de restos históricos, así como de los elementos geológicos con ellos relacionados. Se incluyen también aquellas técnicas de observación y reconocimiento del subsuelo mediante la aplicación de instrumentos geofísicos, electromagnéticos y otros diseñados al efecto.
+b) Las excavaciones arqueológicas, es decir, las remociones en la superficie, en el subsuelo o en los medios subacuáticos realizadas con los fines señalados en el apartado anterior.
+c) Los estudios directos de arte rupestre, constituidos por los trabajos de campo orientados al descubrimiento, estudio, documentación gráfica y reproducción de esta clase de vestigios humanos, así como los mismos trabajos referidos a la musivaria y la epigrafía.
+d) Los trabajos relativos a arqueología de la arquitectura, entendiéndolos como aquellas actuaciones que tienen por finalidad documentar todos los elementos constructivos que conforman un edificio o conjunto de edificios anteriores a 1940 y su evolución histórica.
+2. Son actuaciones paleontológicas las mencionadas en los apartados a) y b) del número anterior cuando se refieran a elementos paleontológicos de valor cultural significativo.
+3. También tendrán la consideración de actuaciones sometidas al régimen de autorizaciones previsto en el artículo 60 las siguientes:
+a) Las actuaciones que impliquen manipulación con técnicas analíticas de materiales arqueológicos o paleontológicos destinadas al estudio de bienes de esa naturaleza que precisen la destrucción o alteración de una parte de los mismos.
+b) Las actuaciones relativas a la protección, consolidación y restauración arqueológicas o paleontológicas, entendidas como tales las intervenciones en yacimientos arqueológicos o paleontológicos encaminadas a favorecer su conservación y que, en consecuencia, permitan su disfrute y faciliten su uso social. Tendrán esta consideración los trabajos de cerramientos, vallado, señalización y limpieza de dichos yacimientos, de conservación preventiva de arte rupestre, así como el terraplenado de restos arqueológicos o paleontológicos. También tendrán esta consideración las actuaciones de montaje de estructuras subacuáticas para la protección de pecios.
+c) El estudio y, en su caso, documentación gráfica o de cualquier tipo, de los yacimientos arqueológicos o paleontológicos, así como de los materiales pertenecientes a los mismos que se hallen depositados en museos, instituciones u otros centros públicos sitos en la Comunitat Valenciana.
+Se modifica el apartado 1 por el art. 54.1 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifica por el art. 1.31 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 60
+
+Artículo 60. Autorizaciones de actuaciones.
+1. Las actuaciones arqueológicas o paleontológicas deberán ser autorizadas expresamente por la conselleria competente en materia de cultura. La solicitud de autorización deberá contener un plano en el que se determinen con precisión los límites de la zona objeto de la actuación, la identificación de la persona o las personas propietarias de los terrenos y un programa detallado de los trabajos que justifique su conveniencia e interés científico y la cualificación profesional, determinada reglamentariamente, de la dirección y equipo técnico encargados de los mismos. Tanto la autorización como su denegación habrán de ser motivadas. Las autorizaciones concedidas deberán ser comunicadas al ayuntamiento correspondiente inmediatamente.
+Se exceptúa de la necesidad de autorización previa la realización de las siguientes actuaciones arqueológicas de carácter preventivo, siempre que no afecten a bienes de interés cultural de carácter individual:
+a) Las prospecciones arqueológicas relacionadas con los artículos 11 y 47 de la presente ley y los trabajos relativos a la arqueología de la arquitectura.
+b) Los trabajos de mantenimiento y conservación, y el estudio y la documentación gráfica o de cualquier tipo, de los yacimientos arqueológicos o paleontológicos, así como de los materiales pertenecientes a los mismos, definidas en el punto 3, apartados b y c del artículo 59.
+c) Las actuaciones de seguimiento arqueológico definidas reglamentariamente, a excepción de los bienes interés cultural y de relevancia local de carácter individual.
+Las actuaciones exceptuadas de autorización estarán sujetas, con carácter previo a su inicio, a declaración responsable. En ningún caso, esta declaración responsable eximirá de cumplir con las obligaciones legales y reglamentarias referidas al desarrollo de la actuación arqueológica y a la comunicación sobre los resultados de la misma al órgano con competencia en materia de patrimonio cultural.
+Junto con la declaración, para la cual la conselleria competente en materia de patrimonio cultural pondrá a disposición de las personas interesadas modelos normalizados con indicación de la documentación a aportar, se acompañará, como mínimo:
+a) La descripción de la actuación.
+b) La identificación de la dirección técnica arqueológica que deberá cumplir con los requisitos legales y reglamentarios previstos.
+Reglamentariamente, se establecerán los documentos adicionales que se requiera aportar con las declaraciones responsables en consideración al tipo de actuación que vaya a llevarse a efecto.
+2. Si la actuación hubiere de realizarse en terrenos privados, el solicitante, previamente a la autorización o, en su caso, declaración responsable, deberá acreditar la conformidad del propietario o promover el correspondiente expediente para la afectación y ocupación de los terrenos en los términos previstos en la legislación sobre expropiación forzosa.
+Cuando se trate de prospecciones arqueológicas o paleontológicas cuyo desarrollo no implique afección a las facultades inherentes a la propiedad no será necesario acreditar la conformidad del propietario de los terrenos afectados.
+3. La conselleria competente en materia de patrimonio cultural establecerá reglamentariamente los procedimientos de inspección oportunos para comprobar que los trabajos se desarrollen según el programa autorizado y ordenará su suspensión inmediata cuando no se ajusten a la autorización concedida o declaración responsable presentada o se considere que las actuaciones profesionales no alcancen el nivel adecuado.
+4. Una vez concluida la actuación arqueológica o paleontológica y dentro del plazo que en la autorización o declaración responsable o con posterioridad a ella fije la administración, o en su defecto en el de dos años, el promotor, a su cargo, sin perjuicio de lo dispuesto en el artículo 64.2, deberá presentar a la conselleria competente en materia de cultura una memoria científica de los trabajos desarrollados, suscrita por el arqueólogo o paleontólogo director de los mismos.
+5. No se otorgarán licencias municipales para excavaciones o remociones de tierra con fines arqueológicos o paleontológicos, cuando dicha licencia fuere preceptiva conforme a la legislación urbanística, sin haberse acreditado previamente por el ayuntamiento la obtención de la autorización o, en su caso, la presentación de la declaración responsable a que se refieren los apartados primero y segundo de este artículo. El otorgamiento de la licencia se comunicará a la conselleria competente en materia de cultura simultáneamente a su notificación al interesado.
+6. Será ilícita toda actuación arqueológica o paleontológica que se realice sin la correspondiente autorización o, en su caso, presentación de la declaración responsable, o sin sujeción a los términos de éstas, así como las obras de remoción de tierra, de demolición o cualesquiera otras realizadas con posterioridad en el lugar donde se haya producido un hallazgo casual de bienes arqueológicos o paleontológicos que no hubiera sido comunicado inmediatamente a la administración competente. La conselleria competente en materia de cultura ordenará la paralización inmediata de la actuación o de la obra y se incautará de todos los objetos y bienes hallados, sin perjuicio de las sanciones que procedan con arreglo a lo dispuesto en esta ley.
+Se modifica por el art. 54.2 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifica el apartado 1 por el art. 69.8 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-11
+ Se modifica el apartado 1 por el art. 68.8 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+ Se modifica por el art. 1.32 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 60 bis.
+
+Artículo 60 bis. Uso de detectores de metales y otros instrumentos de análoga naturaleza.
+1. El uso de detectores de metales u otras herramientas o técnicas análogas que permitan localizar restos de naturaleza arqueológica o paleontológica, aun sin ser ésta su finalidad, deberá ser autorizado por la conselleria competente en materia de cultura.
+2. Reglamentariamente se determinarán las condiciones de la autorización, que en todo caso requerirá la autorización del propietario del terreno, tendrá carácter personal e indicará su ámbito territorial y temporal. Asimismo se podrán determinar usos y ámbitos exentos de la necesidad de autorización administrativa.
+3. Los objetos y restos materiales hallados con la utilización de estos dispositivos que posean los valores que son propios del patrimonio arqueológico o paleontológico quedan sujetos a lo dispuesto en el artículo 64, y en ningún supuesto se entenderán hallados por azar.
+Se añade por el art. 72 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.
+
+### Artículo 61
+
+Artículo 61. Ejecución de actuaciones arqueológicas y paleontológicas por la Administración.
+La Conselleria de Cultura, Educación y Ciencia podrá realizar actuaciones arqueológicas o paleontológicas en cualquier lugar en que se conozca o presuma fundadamente la existencia de restos arqueológicos o paleontológicos, ajustándose al principio del menor perjuicio para los particulares. Dichas actuaciones se notificarán a los Ayuntamientos interesados, que podrán también realizarlas previa autorización de la Conselleria de Cultura, Educación y Ciencia, otorgada en los términos previstos en el artículo 60. La determinación de la indemnización que, en su caso, proceda por causa de estas actuaciones se hará conforme a lo dispuesto en la legislación sobre expropiación forzosa.
+
+### Artículo 62
+
+Artículo 62. Actuaciones arqueológicas o paleontológicas previas a la ejecución de obras.
+1. Para la realización de obras u otro tipo de intervenciones o actividades que impliquen remoción de tierras, sean públicas o privadas, en Zonas, Espacios de Protección y Áreas de Vigilancia Arqueológicas o Paleontológicas, así como, en ausencia de Catálogo aprobado según los requisitos de la presente ley, en todos aquellos ámbitos en los que se conozca o presuma fundadamente la existencia de restos arqueológicos o paleontológicos de interés relevante, el promotor deberá aportar ante la Consellería competente en materia de cultura un estudio previo suscrito por técnico competente sobre los efectos que las mismas pudieran causar en los restos de esta naturaleza. En caso de que para la elaboración del estudio previo resulte necesario acometer alguna de las actuaciones previstas en el artículo 59 las mismas serán autorizadas en los términos de los artículos 60 y 64.
+2. El Ayuntamiento competente para otorgar la licencia o, en su caso, la entidad pública responsable de la obra, intervención o actividad remitirá un ejemplar del estudio mencionado en el apartado anterior a la Consellería competente en materia de cultura, que, a la vista del mismo, determinará la necesidad o no de una actuación arqueológica o paleontológica previa a cargo del promotor, a la que será de aplicación lo dispuesto en los artículos 60 y 64 de esta ley. Una vez realizada la actuación arqueológica o paleontológica la Consellería determinará, a través de la correspondiente autorización administrativa, las condiciones a que deba ajustarse la obra, intervención o actividad a realizar.
+3. Los Ayuntamientos no concederán ninguna licencia o permiso en los casos señalados en el apartado anterior sin que se haya aportado el correspondiente estudio previo arqueológico y paleontológico y se haya obtenido la autorización de la Consellería competente en materia cultura citada también en el apartado anterior.
+4. Todo acto realizado contraviniendo lo dispuesto en este artículo se considerará ilegal y le será de aplicación lo dispuesto en el artículo 37 de esta ley.
+Se modifica por el art. 1.33 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 63
+
+Artículo 63. Actuaciones arqueológicas o paleontológicas en obras ya iniciadas.
+1. Si con motivo de la realización de reformas, demoliciones, transformaciones o excavaciones en inmuebles no comprendidos en Zonas Arqueológicas o Paleontológicas o en espacios de protección o áreas de vigilancia arqueológica o paleontológica aparecieran restos de esta naturaleza o indicios de su existencia, el promotor, el constructor y el técnico director de las obras estarán obligados a suspender de inmediato los trabajos y a comunicar el hallazgo en los términos preceptuados en el artículo 65, cuyo régimen se aplicará íntegramente.
+2. Tratándose de bienes muebles, la Conselleria de Cultura, Educación y Ciencia, en el plazo de diez días desde que tuviera conocimiento del hallazgo, podrá acordar la continuación de las obras, con la intervención y vigilancia de los servicios competentes, estableciendo el plan de trabajo al que en adelante hayan de ajustarse. O bien, cuando lo considere necesario para la protección del patrimonio arqueológico o paleontológico y, en todo caso, cuando el hallazgo se refiera a restos arqueológicos de construcciones históricas o artísticas o a restos y vestigios fósiles de vertebrados, prorrogará la suspensión de las obras y determinará las actuaciones arqueológicas o paleontológicas que hubieran de realizarse. En cualquier caso dará cuenta de su resolución al Ayuntamiento correspondiente. La suspensión no podrá durar más del tiempo imprescindible para la realización de las mencionadas actuaciones.
+Serán de aplicación las normas generales sobre responsabilidad de las Administraciones Públicas para la indemnización, en su caso, de los perjuicios que la prórroga de la suspensión pudiera ocasionar. Será de aplicación al producto de dichas actuaciones lo dispuesto en el artículo 64.
+3. La Generalitat participará en la financiación de las mencionadas actuaciones, según los créditos que al efecto se consignen anualmente en la Ley de Presupuestos de la Generalitat Valenciana.
+
+### Artículo 64
+
+Artículo 64. Titularidad y destino del producto de las actuaciones arqueológicas y paleontológicas.
+1. Los bienes que de acuerdo con el artículo 44 de la Ley 16/1985, de 25 de junio, del patrimonio histórico español, tienen la consideración de dominio público y son descubiertos en la Comunitat Valenciana se integran en el patrimonio de la Generalitat.
+2. La autorización de cualquier clase de actuaciones arqueológicas o paleontológicas determinará para los beneficiarios la obligación de comunicar sus descubrimientos a la Consellería competente en materia de cultura, en el plazo de treinta días, y a entregar los objetos obtenidos al museo o institución que señale la propia Consellería, de conformidad con lo que reglamentariamente se establezca. Para la determinación del centro donde hayan de depositar los objetos se atenderá prioritariamente a su mejor conservación y función cultural y científica y, en segundo término, a la proximidad al lugar donde se haya realizado la actividad arqueológica o paleontológica o se haya producido el hallazgo casual.
+Tratándose del descubrimiento de manifestaciones de arte rupestre, deberá ser éste comunicado a la Consellería competente en materia de cultura o al ayuntamiento correspondiente en los mismos plazos y con igual obligación de reserva que los establecidos en el artículo 65.3 para los hallazgos casuales.
+3. No se aplicará a los descubrimientos a que se refiere el apartado anterior lo establecido en el artículo 65.4 de esta ley.
+Se modifica por el art. 1.34 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 65
+
+Artículo 65. Hallazgos casuales.
+1. Son asimismo bienes de dominio público de la Generalitat los objetos y restos materiales que posean los valores propios del patrimonio cultural, así como los restos y vestigios fósiles de vertebrados, cuando sean producto de hallazgos casuales y no conste su legítima pertenencia.
+2. A los efectos de esta Ley se consideran hallazgos casuales los descubrimientos de los bienes a que se refiere el apartado anterior cuando se produzcan por azar o como consecuencia de excavaciones, remociones de tierra u obras de cualquier índole, hechas en lugares donde no pudiera presumirse la existencia de aquellos bienes.
+3. El descubridor deberá, en el plazo de cuarenta y ocho horas, comunicar el hallazgo y entregar los objetos hallados a la Conselleria de Cultura, Educación y Ciencia o al Ayuntamiento en cuyo término municipal se haya producido éste, quien a su vez dará cuenta del hallazgo a la Conselleria dentro de los dos días hábiles siguientes. Se exceptúan de esta obligación de entrega aquellos objetos cuya extracción requiera remoción de tierras y los restos subacuáticos, que quedarán en el lugar donde se hallen hasta que la Conselleria acuerde lo procedente. Una vez comunicado el descubrimiento, y hasta que los objetos sean entregados al centro o museo que designe la Conselleria de Cultura, Educación y Ciencia, el descubridor quedará sujeto a las normas del depósito necesario, conforme a lo dispuesto en el Código Civil, salvo que los entregue a un museo público. Para la elección del centro donde hubieren de quedar los bienes se establecerán los criterios señalados en el artículo 64.
+4. No obstante lo dispuesto en el apartado primero, el descubridor y el propietario del lugar donde hubiere sido hallado el objeto tienen derecho a una recompensa en metálico, cuyo importe se repartirá por mitad entre ambos, equivalente a la mitad del valor que en tasación legal se le atribuya. Si fueren dos o más los descubridores o los propietarios del terreno, se mantendrá igual proporción.
+5. El incumplimiento de cualquiera de las obligaciones establecidas en el apartado tercero de este artículo privará al descubridor y, en su caso, al propietario del terreno del derecho a premio alguno y la Conselleria de Cultura, Educación y Ciencia tomará posesión inmediata de los objetos hallados, sin perjuicio de las responsabilidades a que hubiera lugar y las sanciones que procedan.
+6. El descubridor no tendrá en ningún caso derecho de retención sobre los bienes hallados.
+
+### Artículo 66
+
+Artículo 66. Áreas de reserva arqueológica.
+La conselleria competente en materia de patrimonio cultural podrá establecer en los yacimientos incluidos en el Inventario General del Patrimonio Cultural Valenciano áreas de reserva arqueológica, entendiendo por tales aquellas partes de los yacimientos en que se considere conveniente, de acuerdo con criterios científicos, prohibir las intervenciones actuales a fin de reservar su estudio para épocas futuras. El establecimiento de áreas de reserva arqueológica se hará constar en el Inventario General del Patrimonio Cultural Valenciano y en los catálogos de bienes y espacios protegidos.
+Se modifica por el art. 220 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 67
+
+Artículo 67. Restricciones a la publicidad de los datos del Inventario referidos a yacimientos arqueológicos y paleontológicos.
+Será necesaria la autorización de la Conselleria de Cultura, Educación y Ciencia para la consulta de los datos contenidos en el Inventario General del Patrimonio Cultural Valenciano relativos a la situación de los yacimientos arqueológicos o paleontológicos que no estén abiertos a la visita pública.
+
+## TÍTULO IV
+
+De los museos y las colecciones museográficas permanentes
+
+### Artículo 68
+
+Artículo 68. Museos: Concepto y funciones.
+1. Son museos las instituciones sin finalidad de lucro, abiertas al público, cuyo objeto sea la adquisición, conservación, restauración, estudio, exposición y divulgación de conjuntos o colecciones de bienes de valor histórico, artístico, científico, técnico, etnológico o de cualquier otra naturaleza cultural con fines de investigación, disfrute y promoción científica y cultural.
+2. Son funciones de los museos:
+a) Conservar, catalogar, restaurar y exhibir de forma ordenada sus colecciones, con arreglo a criterios científicos, estéticos y didácticos.
+b) Investigar y promover la investigación respecto de sus colecciones o de la especialidad a la que el museo esté dedicado.
+c) Organizar periódicamente exposiciones científicas y divulgativas acordes con su objeto.
+d) Elaborar y publicar catálogos y monografías de sus fondos.
+e) Desarrollar una actividad didáctica respecto de su contenido y sus propias funciones.
+f) Cualquiera otra que en sus normas estatutarias o por disposición legal o reglamentaria se les atribuya.
+
+### Artículo 69
+
+Artículo 69. Colecciones museográficas permanentes.
+Son colecciones museográficas permanentes aquellas que reúnan bienes de valor histórico, artístico, científico, técnico o de cualquier otra naturaleza cultural y que, por lo reducido de sus fondos, escasez de recursos o carencia de técnico competente a su cargo, no puedan desarrollar las funciones atribuidas a los museos, siempre que sus titulares garanticen al menos la visita pública, en horario adecuado y regular, el acceso de los investigadores a sus fondos y las condiciones básicas de conservación y custodia de los mismos.
+
+### Artículo 70
+
+Artículo 70. Sistema Valenciano de Museos.
+1. Se crea el Sistema Valenciano de Museos, en el que se integrarán todos aquellos de que sea titular la Generalitat y los de titularidad estatal cuya gestión tenga ésta encomendada, así como los museos y colecciones museográficas, de titularidad pública o privada, que a tal efecto reconozca la Conselleria de Cultura, Educación y Ciencia conforme a lo previsto en esta Ley.
+2. Corresponde a la conselleria competente en materia de patrimonio cultural, la inspección y tutela de cuantos museos y colecciones museográficas se integren en el Sistema Valenciano de Museos, así como el establecimiento de los medios de comunicación y coordinación entre ellos que aseguren el mejor cumplimiento de sus fines. En todo caso, las actuaciones que conlleven cambios en las condiciones de conservación, exposición y acceso público de los fondos de los museos y colecciones museográficas permanentes del Sistema Valenciano de Museos requerirán autorización previa de la conselleria competente en materia de cultura.
+3. Los concursos de ayudas para el mantenimiento y mejora de museos y colecciones museográficas establecerán la preferencia de los integrados en el Sistema Valenciano de Museos.
+Se modifica el apartado 2 por el art. 221 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 71
+
+Artículo 71. Creación y reconocimiento de museos y colecciones museográficas.
+1. La creación de museos por parte de la Generalitat Valenciana, así como el reconocimiento, a efectos de su integración en el Sistema Valenciano de Museos, de colecciones museográficas y museos de que sean titulares otros entes públicos o los particulares, se hará por resolución de la Conselleria de Cultura, Educación y Ciencia, previa la tramitación del correspondiente expediente, incoado de oficio o a instancia de los organismos públicos o los particulares interesados.
+Reglamentariamente se determinará el contenido de dicho expediente, en el que deberá constar, como mínimo, la documentación y el inventario de los fondos y el patrimonio que se ponen a disposición del museo o colección, así como el proyecto museográfico, que incluirá un estudio de las instalaciones y de los medios materiales y personales.
+2. Cuando así lo aconseje el aumento significativo del volumen o la calidad de los fondos de un museo o colección museográfica integrados en el Sistema Valenciano de Museos, la Conselleria de Cultura, Educación y Ciencia, de oficio o a solicitud de parte interesada, promoverá un expediente para la adaptación del museo o colección a las nuevas circunstancias, en el que se evaluará la capacidad de la institución museística para el cumplimiento de sus fines propios en relación con tales fondos.
+Si la resolución de dicho expediente fuera negativa se adoptarán las medidas necesarias para la exposición pública y la adecuada custodia y conservación de los fondos que excedan a la posibilidades materiales o técnicas del museo o la colección museográfica.
+
+### Artículo 72
+
+Artículo 72. Inclusión en el Inventario General del Patrimonio Cultural Valenciano.
+1. Los fondos de los museos y colecciones museográficas integrados en el Sistema Valenciano de Museos serán incluidos en el Inventario General del Patrimonio Cultural Valenciano por efecto de la resolución que acuerde dicha integración y previa la formación del inventario de los bienes que los componen, inscribiéndose en la Sección 3.a del Inventario General.
+La incoación del expediente para la integración de un museo o colección museográfica en el Sistema Valenciano de Museos determinará la aplicación a sus fondos de las normas de este título y de las demás establecidas en esta Ley para los bienes muebles inventariados.
+Los bienes que pasen a formar parte de los fondos de museos o colecciones museográficas con posterioridad a la integración de éstos en el Sistema Valenciano de Museos tendrán, desde el momento de su adquisición, la condición de bienes inventariados a los efectos de la aplicación del régimen previsto para ellos en esta Ley, sin perjuicio de la práctica de la correspondiente inscripción en el Inventario General.
+2. De acuerdo con lo previsto en el artículo 26.1 B), los fondos de los museos y colecciones museográficas permanentes que formen parte del Sistema Valenciano de Museos y tengan singular relevancia para el patrimonio cultural valenciano podrán ser declarados Bien de Interés Cultural con arreglo al procedimiento establecido en el artículo 27. No obstante, cuando así lo exija la protección de los fondos de un determinado museo o colección museográfica, podrá iniciarse el procedimiento para la declaración de dichos fondos como Bien de Interés Cultural simultáneamente a la incoación del expediente para su integración en el Sistema Valenciano de Museos y aun cuando no se hubiere formado previamente el inventario de los mismos, siendo en todo caso de aplicación a los bienes que formen parte de dichos fondos lo dispuesto en el apartado cuarto del artículo 27.
+El Decreto que declare de interés cultural los fondos de un museo o colección museográfica precisará los bienes integrantes de dichos fondos que tienen por sí mismos la condición de Bien de Interés Cultural. Excepto estos últimos, cuya condición no se extinguirá sino mediante el procedimiento previsto en el artículo 30, los bienes integrantes de fondos de museos o colecciones declarados de interés cultural perderán esta condición cuando salieren con carácter definitivo del museo o colección de que se trate, salvo cuando fuere para pasar a formar parte de otros fondos museísticos declarados también de interés cultural.
+
+### Artículo 73
+
+Artículo 73. Depósito y salida de fondos.
+1. Los museos y colecciones museográficas que formen parte del Sistema Valenciano de Museos podrán admitir en depósito bienes de propiedad privada o de otras administraciones públicas. Los bienes depositados, en tanto dure el depósito, se integrarán a todos los efectos en los fondos del museo o colección y estarán sujetos a su mismo régimen jurídico.
+2. Las salidas temporales de los museos y colecciones museográficas permanentes de los fondos custodiados en ellos requerirán autorización previa y expresa de la Conselleria de Cultura, Educación y Ciencia, que señalará la duración, finalidad y condiciones de seguridad a las que se ajustará la salida. Tratándose de objetos en depósito se estará a lo pactado al constituirse éste.
+3. Excepcionalmente y previa instrucción del oportuno expediente administrativo, la Conselleria de Cultura, Educación y Ciencia podrá disponer el depósito de los fondos de un museo o colección museográfica integrados en el Sistema Valenciano de Museos, en otro u otros centros cuando razones urgentes de conservación, seguridad o accesibilidad de los bienes así lo aconsejen y hasta tanto no desaparezcan las causas que originaron dicho traslado.
+4. En caso de disolución o clausura de un museo que forme parte del Sistema Valenciano de Museos, sus fondos serán depositados en otro centro integrante de dicho Sistema que sea adecuado a la naturaleza de los bienes expuestos, teniéndose en cuenta la proximidad territorial de ambos centros entre sí y oídas las partes interesadas. Los fondos se reintegrarán al museo de origen en caso de reapertura del mismo.
+5. Será de aplicación a los fondos de museos y colecciones museográficas integradas en el Sistema Valenciano de Museos lo dispuesto en el artículo 44 respecto de la integridad de las colecciones.
+6. Tratándose de museos de titularidad estatal cuya gestión tenga encomendada la Generalitat se estará, en relación con lo dispuesto en este artículo, a lo que establezca el correspondiente convenio de gestión.
+
+### Artículo 74
+
+Artículo 74. Acceso a los museos.
+La Generalitat Valenciana garantizará y promoverá el acceso de todos los ciudadanos a los museos y colecciones museográficas integrantes del Sistema Valenciano de Museos en las condiciones que reglamentariamente se determinen.
+
+## TÍTULO V
+
+Del patrimonio documental, bibliográfico, audiovisual e informático
+
+### Artículo 75
+
+Artículo 75. Concepto y régimen jurídico.
+1. Forma parte del patrimonio cultural valenciano el patrimonio documental, bibliográfico y audiovisual, constituido por cuantos bienes de esta naturaleza, reunidos o no en archivos, bibliotecas u otros centros de depósito cultural, se declaran integrantes del mismo en este título.
+2. El patrimonio documental, bibliográfico y audiovisual valenciano se regirá por las normas contenidas en el presente título y, en lo no previsto en ellas, por las disposiciones de esta Ley que sean de aplicación a los bienes muebles.
+
+### Artículo 76
+
+Artículo 76. Bienes integrantes del patrimonio documental.
+1. Integran el patrimonio documental valenciano:
+a) Los documentos de cualquier época producidos, conservados o reunidos en el ejercicio de su función por cualquier entidad, organismo o empresa pública con sede en la Comunidad Valenciana y por las personas privadas, físicas o jurídicas, gestoras de servicios públicos en el ámbito de la misma.
+b) Los documentos con antigüedad superior a cuarenta años que hayan sido producidos, conservados o reunidos en el ejercicio de sus actividades por entidades y asociaciones de carácter político, económico, empresarial, sindical o religioso y por las entidades, fundaciones y asociaciones culturales y educativas de carácter privado establecidas en la Comunidad Valenciana.
+c) Los documentos con antigüedad superior a cien años que se encuentren en la Comunidad Valenciana y hayan sido producidos, conservados o reunidos por cualquier otra entidad privada o persona física.
+d) Aquellos documentos que, sin reunir los requisitos señalados en el apartado anterior, merezcan fundadamente esta consideración mediante su inclusión, por resolución de la Conselleria de Cultura, Educación y Ciencia, en el Censo del Patrimonio Documental Valenciano.
+2. Se entiende por documento, a los efectos de esta Ley, toda expresión en lenguaje natural o codificado y cualquier otra expresión gráfica, sonora o en imagen, recogidas en cualquier tipo de soporte, incluido el informático. Se excluyen los ejemplares no originales de ediciones bibliográficas y publicaciones.
+
+### Artículo 77
+
+Artículo 77. Bienes integrantes del patrimonio bibliográfico y audiovisual.
+Integran el patrimonio bibliográfico y audiovisual valenciano:
+a) Los fondos de bibliotecas y hemerotecas y las colecciones bibliográficas y hemerográficas de titularidad pública existentes en la Comunitat Valenciana.
+b) Las obras literarias, históricas, científicas o artísticas de carácter unitario o seriado, en escritura manuscrita o impresas, originales en formato analógico o digital y en soporte físico o electrónico, existentes en la Comunitat Valenciana o relacionadas por cualquier motivo con el ámbito lingüístico o cultural valenciano, de las que no conste la existencia de, al menos, tres ejemplares en buen estado de conservación en las bibliotecas o servicios públicos radicados en ella.
+c) Los ejemplares producto de ediciones de obras fotográficas, fonográficas, audiovisuales, multimedia, originales en formato analógico o digital y en soporte físico o electrónico, existentes en la Comunitat Valenciana o relacionadas por cualquier motivo con el ámbito lingüístico o cultural valenciano, de los que no conste la existencia de, al menos, un ejemplar en buen estado de conservación en sus centros de depósito cultural o servicios públicos.
+d) Los fondos y obras bibliográficas, fotográficas, fonográficas, audiovisuales, multimedia, originales en formato analógico o digital y en soporte físico o electrónico que, sin reunir los requisitos señalados en este artículo y en atención a su valor cultural, se incluyan, por Resolución de la Conselleria competente en materia de bibliotecas, en el Catálogo del Patrimonio Bibliográfico y Audiovisual Valenciano como integrantes de dicho patrimonio.
+Se modifica por la disposición final 1 de la Ley 4/2011, de 23 de marzo. Ref. BOE-A-2011-6876.
+
+### Artículo 78
+
+Artículo 78. Censo y Catálogo.
+1. La Conselleria de Cultura, Educación y Ciencia, en colaboración con las demás administraciones públicas, elaborará el Censo del Patrimonio Documental Valenciano y el Catálogo del Patrimonio Bibliográfico y Audiovisual Valenciano, a cuyo efecto podrá recabar de los titulares de derechos sobre los bienes que lo integran el examen de los mismos y las informaciones pertinentes.
+2. La exclusión de bienes del patrimonio documental, bibliográfico y audiovisual valenciano del Censo o del Catálogo a que se refiere el apartado anterior se hará por resolución de la Conselleria de Cultura, Educación y Ciencia, de oficio o a solicitud de sus propietarios o poseedores.
+
+### Artículo 79
+
+Artículo 79. Inclusión en el Inventario General del Patrimonio Cultural Valenciano.
+1. Los fondos y obras del patrimonio documental, bibliográfico y audiovisual valenciano que posean relevante valor cultural y estén incluidos en sus correspondientes Censo o Catálogo serán inscritos, mediante resolución de la Consellería competente en materia de Cultura, previa la tramitación del procedimiento previsto en el artículo 52, en la Sección 4.ª del Inventario General del Patrimonio Cultural Valenciano y gozarán del régimen de protección que esta ley prevé para los Bienes Muebles de Relevancia Patrimonial.
+2. Los bienes mencionados en el apartado anterior que, por la personalidad de su autor o recopilador, su interés histórico o sus valores intrínsecos tengan especial importancia para el patrimonio cultural valenciano, podrán ser declarados Bienes de Interés Cultural conforme al procedimiento establecido en el artículo 27 de esta ley.
+3. Excepcionalmente, cuando así lo exija la protección de determinados bienes o colecciones documentales, bibliográficas o audiovisuales, podrá iniciarse el procedimiento para su declaración como Bien de Interés Cultural sin estar incluidos en los correspondientes Censo o Catálogo.
+4. Se exceptúan de lo dispuesto en este artículo los fondos de los archivos y bibliotecas de titularidad estatal, que se regirán por la legislación del Estado sin perjuicio, en su caso, de la gestión de los mismos por la Generalitat.
+Se modifica por el art. 1.35 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Artículo 80
+
+Artículo 80. Archivos y bibliotecas.
+1. Son archivos los conjuntos orgánicos de documentos, o la agrupación de éstos, reunidos por las entidades públicas y por los particulares en el ejercicio de sus actividades, cuya utilización está dirigida a la investigación, la cultura, la información o la gestión administrativa. Se entiende asimismo por archivos las instituciones culturales cuyo objeto es la reunión, conservación, clasificación, ordenación y divulgación, con fines de esta naturaleza, de los mencionados conjuntos orgánicos. Una ley de las Cortes Valencianas regulará el ejercicio de las competencias de la Generalitat en materia de archivos.
+2. Son bibliotecas las instituciones culturales donde se reúnen, conservan, catalogan, clasifican y divulgan colecciones o conjuntos de libros, manuscritos y otros materiales bibliográficos, hemerográficos o reproducidos por cualquier medio para su consulta en sala pública o mediante préstamo temporal, con fines de investigación, educación, información y difusión cultural.
+3. La Generalitat establecerá centros de depósito cultural destinados a los bienes del patrimonio audiovisual valenciano, con fines similares a los señalados para los archivos y bibliotecas y con los medios adecuados a la especial naturaleza de los soportes a que dichos bienes están incorporados. Será de aplicación a éstos el régimen general establecido en este título para los archivos y bibliotecas.
+Se modifica por el art. 1.15 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 81
+
+Artículo 81. Sistema Archivístico Valenciano y Sistema Bibliotecario Valenciano.
+1. Se crea el Sistema Archivístico Valenciano que formará junto al Sistema Bibliotecario Valenciano el marco de cooperación de las instituciones que integran cada uno de ambos sistemas y de éstos entre sí, con el fin de planificar y coordinar su organización, actividades y servicios.
+2. Integran los respectivos sistemas los archivos y bibliotecas pertenecientes a entidades públicas de la Comunitat Valenciana, así como aquellos otros de titularidad privada cuya integración se acuerde por resolución de las consellerias que ostenten competencias en materia de archivos y bibliotecas, en particular a las consellerias de hacienda y de cultura en el ámbito de sus respectivas atribuciones, mediante el procedimiento que reglamentariamente se establezca.
+3. Los archivos y bibliotecas que formen parte de sus correspondientes sistemas estarán sujetos a la inspección, tutela y coordinación de las consellerias que ostenten competencias en materia de archivos y bibliotecas, en particular a las consellerias con competencias en materia de hacienda y de cultura, en el ámbito de sus respectivas atribuciones, que adoptará las medidas necesarias para asegurar el cumplimiento de los fines que les son propios.
+4. Las consellerias que ostenten competencias en materia de archivos y bibliotecas, en particular las consellerias con competencias en materia de hacienda y de cultura, en el ámbito de sus respectivas atribuciones, establecerán las condiciones mínimas de seguridad y conservación de los edificios destinados a archivos y bibliotecas de los sistemas respectivos y arbitrarán las medidas necesarias, incluyendo depósitos cautelares, cuando existan deficiencias de instalación que pongan en peligro la seguridad y conservación de los bienes del patrimonio documental o del patrimonio bibliográfico y audiovisual.
+Se modifican los apartados 2 al 4 por el art. 54.3 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifican los apartados 2 al 4 por el art. 41.único del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+
+### Artículo 82
+
+Artículo 82. Depósito y salida de fondos.
+1. Los archivos y bibliotecas pertenecientes a entidades públicas de la Comunidad Valenciana podrán admitir en depósito bienes de propiedad privada o de otras administraciones públicas.
+2. Los bienes del patrimonio documental, bibliográfico o audiovisual valenciano custodiados en archivos y bibliotecas de titularidad pública no podrán salir de los mismos sin previa autorización administrativa, sin perjuicio del régimen de préstamos públicos que, en su caso, pueda establecerse. Cuando se trate de bienes en depósito se estará a lo pactado al constituirse.
+
+### Artículo 83
+
+Artículo 83. Acceso público.
+La Generalitat facilitará el acceso de los ciudadanos a los archivos y bibliotecas pertenecientes a sus respectivos sistemas, sin perjuicio de las restricciones que por razón de su titularidad, de la conservación de los bienes en ellos custodiados o de la función de la propia institución puedan establecerse y sin perjuicio asimismo de la normativa sobre protección de datos de carácter personal.
+
+### Artículo 84
+
+Artículo 84. Régimen de los documentos de las administraciones públicas.
+1. Reglamentariamente se determinarán el plazo de vigencia administrativa y demás normas relativas a la circulación, conservación y calificación de los documentos de las distintas administraciones públicas de la Comunidad Valenciana, así como a la destrucción de los no reservados a su conservación permanente.
+2. En ningún caso podrán destruirse los documentos en poder de las administraciones públicas en tanto subsista su valor probatorio de derechos y obligaciones de las personas o de los entes públicos.
+
+### Artículo 85
+
+Artículo 85. Junta Calificadora de Documentos Administrativos.
+Se crea la Junta Calificadora de Documentos Administrativos, a la que corresponderá el estudio y dictamen de las cuestiones relativas a la calificación, utilización, integración en los archivos, exclusión de los mismos e inutilidad administrativa de los documentos. Su composición, funcionamiento y competencias específicas se determinarán reglamentariamente.
+
+### Artículo 86
+
+Artículo 86. Sobre el patrimonio informático y los bienes inmateriales de naturaleza tecnológica.
+1. Se consideran a efectos de esta ley bienes inmateriales de naturaleza tecnológica aquellas realizaciones intelectuales que constituyen aplicaciones singulares de las tecnologías de la información que, por los procesos que desarrollan, los contenidos que transmiten o el resultado que consiguen, constituyen manifestaciones relevantes o hitos de la evolución tecnológica de la Comunidad Valenciana.
+2. La inclusión en el Inventario de estos bienes, cuando no sean objeto de declaración como bienes de interés cultural, se hará mediante resolución del Conseller competente en materia de cultura, después de la tramitación del correspondiente procedimiento, iniciado de oficio o a instancia de cualquier persona. La incoación, cuya denegación deberá ser motivada, se notificará a las entidades, públicas y privadas, directamente relacionadas con el uso y desarrollo de la realización tecnológica de que se trate y, en su caso, al autor y al propietario.
+3. La resolución se dictará en el plazo de un año desde la solicitud o la incoación de oficio y dará lugar a la inscripción del bien en la sección 6.a del Inventario.
+4. La resolución por la que se incluye un bien inmaterial de naturaleza tecnológica en el Inventario incluirá una descripción detallada de los elementos técnicos definidores del mismo, de manera que permitan su clara delimitación respecto de otros elementos y, en su caso, su desarrollo posterior.
+5. En lo no previsto por este artículo, se aplicará a esta clase de bienes el régimen general previsto en esta ley para los bienes inmateriales inventariados.
+Se modifica por el art. 1.16 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+## TÍTULO VI
+
+De las medidas de fomento del patrimonio cultural
+
+### Artículo 87
+
+Artículo 87. Interés público.
+Se reconoce el interés público de todas las actividades de conservación y promoción del patrimonio cultural valenciano y su carácter de fuente de riqueza económica para la colectividad. Las administraciones públicas de la Comunidad Valenciana deberán cooperar a dichas actividades, cuando sean desarrolladas por los particulares, mediante la concesión de las ayudas materiales y el reconocimiento público adecuado, proporcionados a la utilidad social que reportan y a las cargas que suponen para los propietarios.
+
+### Artículo 88
+
+Artículo 88. Educación.
+1. La Generalitat, reconociendo el aprecio general hacia el patrimonio cultural como base imprescindible de toda política de protección y fomento del mismo, lo promoverá mediante las adecuadas campañas públicas de divulgación y formación.
+2. La Conselleria de Cultura, Educación y Ciencia incluirá en los planes de estudio de los distintos niveles del sistema educativo obligatorio el conocimiento del patrimonio cultural valenciano.
+3. La Generalitat promoverá la enseñanza especializada y la investigación en las materias relativas a la conservación y enriquecimiento del patrimonio cultural y establecerá los medios de colaboración adecuados a dicho fin con las Universidades y los centros de formación e investigación especializados, públicos y privados.
+4. Establecerá asimismo las medidas necesarias para asegurar que los funcionarios de todas las administraciones públicas de la Comunidad Valenciana reciban la formación específica sobre protección del patrimonio cultural adecuada a la naturaleza de sus funciones.
+
+### Artículo 89
+
+Artículo 89. Reconocimiento oficial.
+La Generalitat valenciana otorgará anualmente, mediante una orden de la conselleria competente en el área de cultura, el título de protector o protectora del patrimonio a las personas, empresas, entidades privadas y corporaciones que se distingan en actividades de conservación, protección y enriquecimiento del patrimonio cultural valenciano. Las personas beneficiarias de este reconocimiento podrán emplear este título en todas las manifestaciones propias de su actividad.
+Se modifica por el art. 3 de la Ley 9/2017, de 7 de abril. Ref. BOE-A-2017-5119
+
+### Artículo 90
+
+Artículo 90. Uso de los inmuebles de titularidad pública.
+1. Conforme al principio establecido en el artículo 9.2 de esta Ley, la Administración de la Generalitat Valenciana, las administraciones y entidades públicas de la Comunidad Valenciana procurarán destinar a una actividad pública que no desvirtúe sus valores artísticos, históricos o culturales los edificios integrantes del patrimonio cultural de que sean titulares.
+2. Todos los organismos de la Generalitat, y los entes de derecho público sujetos a su tutela, antes de instalar nuevas dependencias solicitarán informe a la Conselleria de Cultura, Educación y Ciencia sobre la existencia de algún inmueble adecuado. Si lo hubiere, y fuere posible racionalmente su uso, estarán obligados a utilizarlo con preferencia. La Conselleria de Cultura, Educación y Ciencia, en colaboración con el órgano competente sobre el Patrimonio de la Generalitat, elaborará y mantendrá actualizado un programa sobre las posibilidades de utilización por organismos públicos de los inmuebles del patrimonio cultural de los que ésta sea titular.
+3. Las administraciones públicas, cuando sea conveniente para la mejor conservación, restauración y promoción de los bienes inmuebles incluidos en el Inventario General del Patrimonio Cultural Valenciano de que sean titulares, podrán ceder el uso de tales bienes, incluso de los declarados de interés cultural, a las personas o entidades que lo soliciten y garanticen adecuadamente el cumplimiento de los fines mencionados. Cuando se trate de inmuebles que hubieren sido donados por particulares se dará preferencia a sus antiguos propietarios o a sus sucesores. La cesión requerirá en todos los casos el informe previo de la Conselleria de Cultura, Educación y Ciencia, que tendrá carácter vinculante. En el expediente, que será sometido a información pública, deberá constar también el informe favorable de al menos dos de las instituciones consultivas a que se refiere el artículo 7 de esta Ley.
+La cesión se realizará mediante la suscripción del correspondiente convenio con el cesionario, que será publicado en el «Diari Oficial de la Generalitat Valenciana» y en el que constarán la duración y demás condiciones de la cesión. En caso de incumplimiento, la cesión será inmediatamente revocada.
+Se exceptúan de lo dispuesto en este apartado los bienes declarados de interés cultural cuya especial significación histórica, social o religiosa sea incompatible con su uso privado.
+
+### Artículo 91
+
+Artículo 91. Ayuda directa a la conservación.
+1. La Generalitat promoverá la conservación del patrimonio cultural valenciano mediante la concesión de ayudas a la financiación de los trabajos de conservación, mantenimiento, restauración, rehabilitación, investigación y documentación respecto de bienes incluidos en el Inventario General del Patrimonio Cultural Valenciano y de las actuaciones arqueológicas y paleontológicas. A tal efecto, la Conselleria de Cultura, Educación y Ciencia convocará anualmente los correspondientes concursos públicos para la concesión de estas ayudas, con sujeción a los objetivos y criterios que se fijen en el programa específico que para la financiación de aquellas actuaciones ha de incluirse cada año en la Ley de Presupuestos de la Generalitat Valenciana, según lo dispuesto en el artículo 93, y con arreglo a los créditos que en dicho programa se consignen.
+2. Cuando se trate de intervenciones en bienes que sean objeto de aprovechamiento económico o a los que la intervención aporte una plusvalía significativa, la ayuda podrá ser concedida, en todo o en parte, con el carácter de anticipo reintegrable y se anotará, para el caso de los inmuebles, en el Registro de la Propiedad.
+3. La Conselleria de Cultura, Educación y Ciencia podrá también, cuando resulte imprescindible para la restauración y conservación de los bienes, realizar a su cargo los trabajos necesarios, estableciendo con los propietarios formas de uso o explotación conjunta de tales bienes que aseguren la adecuada rentabilidad social o económica de la inversión pública.
+4. Sin perjuicio de lo dispuesto en el artículo 94, la protección del patrimonio inmueble catalogado no incluido en el Inventario General del Patrimonio Cultural Valenciano será objeto preferente de la política específica de fomento de la rehabilitación de edificios, en el marco de las medidas de protección pública a la vivienda.
+
+### Artículo 92
+
+Artículo 92. Contribución pública al régimen de visitas.
+1. Los propietarios o titulares de derechos reales de uso y disfrute sobre bienes inmuebles declarados de interés cultural que cumplan la obligación de facilitar la visita al público establecida en el artículo 32, se beneficiarán de las ayudas económicas que, como contribución pública al sostenimiento de dicha carga, concederá la Generalitat Valenciana, con los requisitos y modalidades que reglamentariamente se establezcan.
+2. A tal efecto, los interesados deberán presentar anualmente a la Conselleria de Cultura, Educación y Ciencia una Memoria valorada y justificada de la ayuda que se solicita, en la que se exprese el horario, forma y medios con que ha de desarrollarse la visita pública del inmueble y el coste previsto de ésta y, en su caso, se dé cuenta del desarrollo de la actividad durante el ejercicio anterior.
+3. El importe de la ayuda se graduará conforme a lo que reglamentariamente se disponga, teniendo en cuenta el aprovechamiento económico de que fuere susceptible el inmueble.
+4. El no uso del bien en el supuesto previsto en el artículo 32.2 de esta Ley podrá dar lugar a indemnización en los casos y según los criterios que reglamentariamente se determinen.
+
+### Artículo 93
+
+Artículo 93. Inversiones culturales.
+1. Los Presupuestos de la Generalitat Valenciana incluirán anualmente una cantidad equivalente, como mínimo, al 1 por 100 del crédito total consignado para inversiones reales en el capítulo VI del Estado de Gastos de los presupuestos del ejercicio anterior, con destino a financiar programas de investigación, conservación, restauración y rehabilitación, acrecentamiento y promoción del patrimonio cultural valenciano, gestionados por la Conselleria de Cultura, Educación y Ciencia.
+A tal efecto, la Conselleria de Cultura, Educación y Ciencia elaborará cada año, para el ejercicio siguiente, el Plan Anual de Conservación y Enriquecimiento del Patrimonio Cultural Valenciano, comprensivo de los mencionados programas y habrá de expresar de manera clara sus objetivos y los criterios para su aplicación y para la concesión de ayudas con cargo a él.
+2. La Conselleria de Cultura, Educación y Ciencia propondrá a la Administración del Estado los bienes o sectores del patrimonio cultural valenciano en los que considere prioritaria la realización de trabajos de conservación o enriquecimiento con cargo al 1 por 100 de los fondos de aportación pública a las obras del Estado previsto en la Ley del Patrimonio Histórico Español.
+
+### Artículo 94
+
+Artículo 94. Crédito oficial.
+La financiación de las obras y actuaciones mencionadas en el apartado primero del artículo 91, así como la adquisición de bienes para la ejecución inmediata de las mismas o para su destino a un uso público, tendrán acceso preferente al crédito oficial o subsidiado con fondos públicos. Tratándose de bienes inmuebles, el acceso será en condiciones iguales, al menos, a las más ventajosas previstas para la adquisición de viviendas de nueva construcción en la normativa sobre actuaciones protegibles en materia de vivienda. Lo mismo se aplicará a aquellos otros bienes que, sin ser objeto de inscripción independiente en el Inventario, estén comprendidos en Conjuntos o Sitios Históricos, Zonas Arqueológicas o Paleontológicas o Parques Culturales y en los entornos de protección de inmuebles declarados de interés cultural que se hallen sujetos a un Plan Especial o a las normas de protección establecidas en la propia declaración, según lo previsto en el artículo 34.4.
+
+### Artículo 95
+
+Artículo 95. Beneficios fiscales.
+1. Los titulares de bienes integrantes del patrimonio cultural valenciano gozarán de los beneficios fiscales que, en el ámbito de sus respectivas competencias, establezcan el Estado, la Generalitat y las entidades locales.
+2. La Generalitat Valenciana, en compensación a las cargas y limitaciones que se imponen a los titulares o poseedores de los bienes integrantes del patrimonio cultural valenciano, y como incentivo a la participación social en las tareas de conservación y enriquecimiento del mismo, establecerá, en la medida de su capacidad normativa en materia tributaria, las exenciones y bonificaciones fiscales que mejor garanticen el cumplimiento de los fines de esta Ley.
+3. La conselleria competente en materia de patrimonio cultural y las diputaciones provinciales, en los concursos de ayudas a las entidades locales para obras de conservación y rehabilitación del patrimonio cultural, podrán excluir a aquellas que no dispongan de un Catálogo de Bienes y Espacios Protegidos de ámbito municipal o de planes de especiales de protección de los inmuebles declarados de interés cultural, aprobado al menos provisionalmente. Esta exclusión no alcanzará a las ayudas dirigidas a la redacción del Catálogo de Bienes y Espacios Protegidos de ámbito municipal y planes especiales de protección.
+Se modifica el apartado 3 por el art. 222 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 96
+
+Artículo 96. Pago con bienes culturales.
+1. Las personas, físicas o jurídicas, propietarias de bienes inscritos en el Inventario General del Patrimonio Cultural Valenciano, o respecto de los que se haya iniciado expediente para su inscripción, que fueren deudoras de la Hacienda de la Generalitat por cualquier título, incluida la imposición de las sanciones previstas en esta Ley, podrán hacer pago, total o parcial, de sus deudas mediante la dación de tales bienes. Tratándose de tributos cedidos por el Estado, se estará a lo dispuesto en la normativa estatal.
+2. La dación en pago se hará previa oferta del interesado a la Conselleria de Economía, Hacienda y Administración Pública, formulada por escrito, indicando el código de identificación del bien en el Inventario y el valor por el que se ofrece. Tratándose de deudas tributarias, la oferta determinará la suspensión del procedimiento recaudatorio, pero la deuda no dejará de devengar los intereses que legalmente correspondan cuando la oferta se haga una vez vencido el período de pago voluntario.
+3. La Conselleria de Economía, Hacienda y Administración Pública, previo el informe de la Conselleria de Cultura, Educación y Ciencia, que tendrá carácter vinculante y se emitirá oída la Junta de Valoración de Bienes del Patrimonio Cultural Valenciano, resolverá en el plazo de dos meses sobre la aceptación de la dación en pago ofrecida.
+4. Aceptada la entrega del bien en pago de la deuda, se estará en cuanto a su destino, tratándose de inmuebles, a lo previsto en el artículo 90 de esta Ley.
+5. La denegación de la cesión o el transcurso del plazo establecido para resolver, que tendrá efectos desestimatorios, determinará la reanudación del procedimiento recaudatorio.
+
+## TÍTULO VII
+
+De las infracciones administrativas y su sanción
+
+### Artículo 97
+
+Artículo 97. Infracciones.
+1. Son infracciones administrativas en materia de patrimonio cultural y serán sancionadas con arreglo a lo establecido en este título las acciones u omisiones contrarias a lo dispuesto en esta ley, y que no sean constitutivas de delito.
+Las infracciones se clasifican en leves, graves y muy graves.
+2. Serán infracciones leves:
+a) El incumplimiento del deber de facilitar a las administraciones públicas el examen e inspección de los bienes y las informaciones pertinentes, establecido en los artículos 16.3 y 18.3.
+b) La inobservancia del deber de comunicar a la conselleria competente en materia de cultura la existencia de los bienes a que se refiere el artículo 16.4.
+c) El cambio de uso de los bienes incluidos en el inventario sin la comunicación o autorización previas exigidas en los artículos 18.2, 36.2 y 41.1 y el mantenimiento de un uso incompatible con la condición de bien inventariado o declarado. Si el bien hubiere sufrido daño por causa de su utilización se estará a lo dispuesto en la letra a del apartado tercero de este artículo.
+d) La negativa a permitir el acceso de los investigadores a los bienes inventariados, conforme a lo dispuesto en el artículo 18.4, salvo cuando se trate de bienes declarados de interés cultural, en cuyo caso se estará al apartado tercero, letra b, de este artículo.
+e) La obstrucción de la labor inspectora de la administración.
+f) El incumplimiento de las órdenes de suspensión o paralización dictadas por la administración competente siempre que como consecuencia de su incumplimiento no se produzcan daños para el patrimonio.
+g) El incumplimiento del deber de comunicar las transmisiones, negocios jurídicos, traslados y actos materiales sobre bienes del Inventario, establecido en los artículos 18.5 y 43.
+h) La falta de notificación a la administración competente de la transmisión a título oneroso de bienes inventariados según ordena el artículo 22.1.
+i) El incumplimiento de las obligaciones de facilitar la visita pública de los bienes inmuebles de interés cultural y de ceder a exposiciones los muebles, establecidas en el artículo 32.
+j) La no presentación a la administración competente, dentro del plazo establecido, de las memorias de las intervenciones efectuadas en bienes, inmuebles, muebles y de las actuaciones arqueológicas o paleontológicas, según lo dispuesto en los artículos 35.3, 41.5, 50.6 y 60.4.
+k) La no comunicación a la conselleria competente en materia de cultura por parte de los ayuntamientos, en el plazo establecido en el artículo 50.4, de las licencias de obra y las órdenes de ejecución sobre bienes de relevancia local.
+l) La realización de tratamientos sobre bienes muebles de relevancia patrimonial sin autorización de la conselleria competente en materia de cultura, infringiendo lo dispuesto en los artículos 41.1 y 53, salvo que por su resultado constituyan infracción más grave.
+m) La realización, reproducción y difusión no autorizadas de fondos de museos y colecciones museográficas permanentes de titularidad de la Comunitat Valenciana.
+n) La realización de cualquier obra o actuación en inmuebles integrantes de conjuntos históricos o entornos de protección de bienes de interés cultural, que no cuenten con inscripción independiente en el Inventario General del Patrimonio Cultural Valenciano con incumplimiento de los trámites y condiciones establecidas en la presente ley o en la resolución de autorización de la obra o actuación.
+ñ) El uso de detectores de metales u otros instrumentos de análoga naturaleza sin autorización, en ámbitos no expresamente permitidos, o con incumplimiento de los requisitos o condiciones establecidos en la correspondiente autorización administrativa.
+o) Causar daños por un valor de hasta 30.000 euros a bienes incluidos en el inventario.
+p) El incumplimiento por los ayuntamientos de la obligación de aprobar provisionalmente el Catálogo de Bienes y Espacios Protegidos, excepto cuando no exista ningún bien de interés cultural en el municipio, trascurrido un año desde que fuera requerido por la conselleria competente en materia de patrimonio cultural para su aprobación.
+q) El incumplimiento por los ayuntamientos de la obligación de comunicar a la conselleria competente en materia de cultura la inexistencia de bienes merecedores de protección en su término municipal, trascurrido un año desde que fuera requerido para su aprobación por la conselleria competente en materia de cultura.
+r) (Suprimido)
+s) La infracción de las demás obligaciones impuestas por esta ley, siempre que no venga calificada en este mismo artículo como grave o muy grave.
+3. Serán infracciones graves:
+a) El incumplimiento del deber de conservar y mantener la integridad del valor cultural de los bienes incluidos en el Inventario General del Patrimonio Cultural Valenciano, establecido en el artículo 18.1.
+b) La negativa a permitir el acceso de los investigadores a los bienes declarados de interés cultural.
+c) La no comunicación a la conselleria competente en materia de cultura de las subastas a que se refiere el artículo 22.4.
+d) La realización de cualquier tipo de intervención sobre un bien inmueble incluido en el Inventario General con incumplimiento de los trámites previstos en la presente ley o en la resolución de autorización de la intervención, a no ser que, por sus efectos sobre el bien inventariado, deba constituir infracción muy grave a tenor de lo dispuesto en el apartado cuarto.
+e) El otorgamiento de licencias municipales, u otros actos administrativos de eficacia habilitante y la adopción de medidas cautelares por los ayuntamientos con infracción de lo dispuesto en los artículos 33.1, 36, 39.2.b), 40.2, 50.7 y 62.3.
+f) La realización de actuaciones arqueológicas o paleontológicas, así como el otorgamiento de licencia municipal u otro acto administrativo de eficacia habilitante cuando fuere preceptiva, sin la autorización de la Conselleria competente en materia de cultura preceptuada en el artículo 60, salvo que resultare daño grave para los restos arqueológicos o paleontológicos, en cuyo caso se estará a lo dispuesto en el apartado cuarto, letra d de este artículo.
+g) La realización de obras de remoción de tierra, de demolición o cualesquiera otras actuaciones o intervenciones realizadas con infracción de lo dispuesto en los artículos 60.6 ó 62.1, salvo que resultare daño grave para los restos arqueológicos o paleontológicos, en cuyo caso se estará a lo dispuesto en el apartado cuarto, letra d de este artículo.
+h) El incumplimiento de las obligaciones de comunicar el descubrimiento de restos arqueológicos o paleontológicos y de entregar los objetos hallados, aun casualmente, establecidas en los artículos 60 bis, 63.1, 64.2 y 65.3, así como la realización de los actos que, si mediare delito, darían lugar a la aplicación de alguno de los artículos comprendidos en el capítulo XIV del título XIII del Código Penal.
+i) La no suspensión inmediata de las obras con motivo del descubrimiento de restos arqueológicos o paleontológicos y el incumplimiento de las órdenes de suspensión dictadas por la administración competente, en los supuestos contemplados en los artículos 62 y 63.
+j) La comercialización de bienes de naturaleza arqueológica o paleontológica sin que su procedencia esté debidamente documentada.
+k) La inobservancia del deber de llevar el libro-registro de transacciones de bienes muebles, establecido en el artículo 12, y la omisión o inexactitud de los datos que deban constar en él.
+l) La separación de bienes muebles vinculados a un inmueble declarado de interés cultural, infringiendo lo dispuesto en el artículo 38.1.b.
+m) La disgregación de las colecciones de bienes muebles incluidas en el Inventario, salvo las declaradas de interés cultural, y la salida temporal de fondos de los museos o colecciones museográficas integrados en el sistema valenciano de museos, sin la autorización exigida en virtud de los artículos 53 y 73.2.
+n) Causar daños por un valor entre 30.001 y 60.000 euros a bienes incluidos en el Inventario.
+ñ) El incumplimiento por los ayuntamientos de la obligación de elaborar el correspondiente plan especial de Protección, cuando fuere preceptivo de conformidad con lo dispuesto en el artículo 34.2 o la disposición transitoria segunda de esta ley.
+o) El incumplimiento por los ayuntamientos de la obligación de aprobar provisionalmente el Catálogo de Bienes y Espacios Protegidos, siempre cuando exista algún bien de interés cultural en el municipio, trascurrido un año desde que fuera requerido para su aprobación por la conselleria competente en materia de cultura.
+p) Se considera falta grave si en período de doce meses se comenten dos o más faltas leves.
+q) El incumplimiento de la declaración responsable prevista en el artículo 60.1, así como la realización de cualquier obra o actuación incumpliendo las medidas correctoras o recomendaciones técnicas, que hubiese formulado el órgano con competencia en materia de patrimonio cultural al valorar las intervenciones sujetas a declaración responsable. Excepto cuando se cause daños irreparables al patrimonio arqueológico, que pasaría a considerarse causa muy grave.
+4. Serán infracciones muy graves:
+a) El derribo, total o parcial, de los inmuebles incluidos en el Inventario, así como el otorgamiento de licencias de demolición, contraviniendo la prohibición expresa del artículo 20.
+b) El desplazamiento de bienes inmuebles declarados de interés cultural y el otorgamiento por los ayuntamientos de licencia para ello, en contra de lo dispuesto en el artículo 38.1.c.
+c) La realización de cualquier tipo de intervención sobre un bien inmueble incluido en el Inventario General con incumplimiento de los trámites previstos en la presente ley, cuando se cause grave daño a los mismos.
+d) La realización de las actuaciones mencionadas en las letras f) y g) del apartado tercero de este artículo, cuando resulten dañados gravemente los restos arqueológicos o paleontológicos.
+e) La destrucción, total o parcial, de bienes muebles incluidos en el Inventario.
+f) La disgregación de colecciones de bienes muebles declaradas de interés cultural y de fondos de museos y colecciones museográficas pertenecientes al Sistema Valenciano de Museos sin la autorización de la Conselleria competente en materia de cultura, exigida a tenor de los artículos 44 y 73.5.
+g) Causar daños por un valor superior a 60.000 euros a bienes incluidos en el inventario.
+5. A los efectos de lo dispuesto en este artículo, se equipararán a los bienes incluidos en el inventario aquellos respecto de los que se haya iniciado el correspondiente procedimiento para su inscripción en este.
+Se suprime el párrafo r) del apartado 2 y se añade el párrafo q) al apartado 3 por el art. 54.4 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifica por el art. 223 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 73 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.
+ Se modifica por el art. 1.17 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 98
+
+Artículo 98. Personas responsables.
+1. Serán responsables de las infracciones administrativas derivadas de esta Ley los que realizaren las acciones u omisiones que las constituyen.
+2. Tratándose de actuaciones arqueológicas o paleontológicas no autorizadas serán responsables todos aquellos que, directa o indirectamente, hubieren intervenido en las mismas y que conforme al Código Penal tendrían la consideración de autores o cómplices.
+3. Cuando la infracción consista en la ejecución de obras sin licencia, o no ajustándose a los términos de ésta, o en el otorgamiento de licencias municipales de contenido manifiestamente contrario a lo dispuesto en esta Ley, se estará para la determinación de las personas responsables a lo que dispone la legislación urbanística respecto de las infracciones a la misma.
+
+### Artículo 99
+
+Artículo 99. Sanciones.
+1. Los responsables de infracciones de esta ley que hubieren ocasionado daños al patrimonio cultural valorables económicamente serán sancionados con multa del tanto al cuádruplo del valor del daño causado, salvo que de aplicar lo dispuesto en el apartado segundo de este artículo resultare multa de superior cuantía.
+2. En los demás casos se impondrán las siguientes sanciones:
+a) Para las infracciones leves, multa de hasta 60.000 euros.
+b) Para las infracciones graves, multa de 60.001 euros a 150.000 euros.
+c) Para las infracciones muy graves, multa de 150.001 euros a 1.300.000 euros.
+3. Para la graduación de las sanciones dentro de un mismo grupo se tendrá en cuenta la gravedad de los hechos, el empleo de medios técnicos en las actuaciones arqueológicas o paleontológicas no autorizadas, el perjuicio causado, la reincidencia y el grado de malicia, el caudal y demás circunstancias del infractor.
+4. La cuantía de la sanción no podrá ser en ningún caso inferior al beneficio obtenido por el infractor como resultado de su acción, pudiéndose aumentar la cuantía de la multa correspondiente hasta el límite de dicho beneficio, cuando fuere valorable económicamente.
+5. Las multas que se impongan a varios sujetos como consecuencia de la misma infracción serán independientes entre sí.
+6. El órgano sancionador podrá acordar, como sanción accesoria, el comiso de los materiales y utensilios empleados en la infracción.
+Se modifica por el art. 1.18 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 100
+
+Artículo 100. Multas coercitivas.
+Independientemente de las sanciones que procedan conforme a lo dispuesto en el artículo anterior, el órgano competente podrá, previo requerimiento, imponer a quienes se hallaren sujetos al cumplimiento de las obligaciones establecidas en esta Ley multas coercitivas de hasta 100.000 pesetas, reiteradas por períodos de un mes, hasta obtener el cumplimiento de lo ordenado.
+
+### Artículo 101
+
+Artículo 101. Reparación de daños.
+Los responsables de las infracciones de esta Ley que hubieren ocasionado daños al patrimonio cultural estarán obligados a reparar los daños causados y, en cuanto fuere posible, a restituir las cosas a su debido estado. En caso de incumplimiento de esta obligación, la Conselleria de Cultura, Educación y Ciencia llevará a cabo las actuaciones de reparación y restitución necesarias, a costa del infractor.
+
+### Artículo 102
+
+Artículo 102. Órganos competentes.
+Son competentes para la imposición de las sanciones previstas en este título:
+a) El Consell de la Generalitat, a propuesta de la Conselleria competente en materia de cultura, para las multas de más de 150.000 euros.
+b) El Conseller competente en materia de cultura, para las multas de hasta 150.000 euros.
+Se modifica por el art. 1.19 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Artículo 103
+
+Artículo 103. Procedimiento sancionador.
+La imposición de las sanciones establecidas en este título se hará previa tramitación del correspondiente expediente por la Conselleria de Cultura, Educación y Ciencia, de acuerdo con los principios establecidos en la legislación del procedimiento administrativo común. El plazo para resolver será de un año desde la incoación.
+
+### Artículo 104
+
+Artículo 104. Prescripción.
+1. Las infracciones administrativas derivadas de esta Ley prescribirán a los cinco años de haberse cometido, excepto las muy graves, que prescribirán a los diez años.
+2. Las sanciones impuestas para infracciones muy graves prescribirán a los cinco años, a contar desde la firmeza de la resolución sancionadora, las impuestas para infracciones graves a los tres años y al año las que se impusieren para las leves.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Bienes de Interés Cultural declarados con anterioridad a la entrada en vigor de la presente Ley.
+1. Se consideran Bienes de Interés Cultural integrantes del patrimonio cultural valenciano todos los bienes existentes en el territorio de la Comunitat Valenciana que a la entrada en vigor de la presente Ley hayan sido declarados Bienes de Interés Cultural al amparo de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, tanto mediante expediente individualizado como en virtud de lo establecido en el artículo 40.2 de dicha Ley y en sus Disposiciones Adicionales Primera y Segunda. Todos estos bienes se inscribirán en la Sección 1.ª del Inventario General del Patrimonio Cultural Valenciano y quedarán sujetos al régimen establecido en la presente Ley para esta clase bienes.
+2. La Consellería competente en materia de cultura elaborará, para su aprobación por el Consell, la relación de las cuevas y abrigos que contengan manifestaciones de arte rupestre, los castillos y los escudos, emblemas, piedras heráldicas, rollos de justicia, cruces de término y demás piezas y monumentos de índole análoga de más cien años de antigüedad, declarados todos ellos Bienes de Interés Cultural integrantes del patrimonio cultural valenciano por efecto de lo dispuesto en el apartado anterior.
+3. En cualquier caso, se considerarán bienes de interés cultural valenciano todos los documentos depositados en el Archivo de la Corona de Aragón que tengan relación directa o indirecta con el proceso histórico del antiguo Reino de Valencia, hoy Comunitat Valenciana, así como por su especial significado el Real Monasterio de Santa María de la Valldigna que es templo espiritual, político, histórico y cultural del antiguo Reino de Valencia, hoy Comunitat Valenciana. Es, igualmente, símbolo de la grandeza y soberanía del pueblo valenciano reconocido como nacionalidad histórica.
+Consecuentemente con esta declaración:
+El Consell, en los Presupuestos de la Generalitat de cada año, incluirá los créditos necesarios para la restauración, conservación y mantenimiento del Real Monasterio de Santa María de la Valldigna.
+Una Ley de la Generalitat regulará el destino y utilización del Real Monasterio de Santa María de la Valldigna como punto de encuentro y unión sentimental de todos los valencianos y como centro de investigación y estudio para la recuperación de la historia de la Comunitat Valenciana.
+Se modifica por el art. 2 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Otros bienes inventariados con anterioridad a la entrada en vigor de la presente Ley.
+Los bienes muebles y los fondos de museos y colecciones museográficas, archivos y bibliotecas existentes en la Comunitat Valenciana que a la entrada en vigor de la presente Ley se hallen inscritos en el Inventario General de Bienes Muebles del Patrimonio Histórico Español pasarán a formar parte del Inventario General del Patrimonio Cultural Valenciano, inscribiéndose en la Sección que corresponda según lo establecido en esta Ley, sin necesidad de la tramitación del expediente previo a que hace referencia el artículo 52.
+Se modifica por el art. 2 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Fundaciones culturales.
+La Generalitat velará por la conservación, recuperación y difusión de los elementos esenciales de la identidad de los valencianos como pueblo. A tal fin, en el ejercicio de sus competencias y potestades, dentro del marco previsto por la legislación reguladora de las fundaciones, ejercerá el derecho de fundación mediante la creación de entidades que, presididas por el President de la Generalitat, en tanto más alto representante de la Comunitat Valenciana, tendrán por objeto la recuperación del patrimonio mueble e inmueble histórico de la Comunitat Valenciana, la recuperación, conservación y difusión del patrimonio inmaterial de la Comunitat Valenciana, y la celebración de eventos que rememoren los acontecimientos históricos más relevantes de nuestra historia como pueblo.
+Con este fin, el Consell instará la reforma de los estatutos de la Fundación de la Comunitat Valenciana Jaume II el Just y de la Fundación de la Comunitat Valenciana «Luz de las Imágenes», y procederá a la creación de una nueva entidad llamada «Fundación Renaixença de la Comunitat Valenciana» con el objeto de dar cumplimiento a lo previsto en el párrafo anterior
+Se modifica por el art. 2 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+ Se deroga por la disposición derogatoria única.1.b) de la Ley 14/2003, de 10 de abril. Ref. BOE-A-2003-10298.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Actualización y adaptación de las secciones 1ª y 2ª del Inventario General del Patrimonio Cultural Valenciano.
+Con el fin de actualizar y adaptar a las determinaciones de la presente ley el reconocimiento y clasificación de los bienes inmuebles que hayan contado con expediente para su declaración cultural con anterioridad a la entrada en vigor de la Ley 4/1998, de 11 de junio, de la Generalitat, del Patrimonio Cultural Valenciano, la Consellería competente en materia de cultura, previo informe de dos de las instituciones consultivas de las así reconocidas en el artículo 7, elevará al Consell, para su aprobación por Decreto, la relación de bienes a inscribir en la sección 1.ª o sección 2.ª del Inventario de General del Patrimonio Cultural Valenciano, de acuerdo con su valor cultural y con la categoría que corresponda.
+Podrán asimismo declararse por el mismo procedimiento aquellos bienes pertenecientes al ámbito territorial de la Comunitat Valenciana que habiendo sido objeto de reconocimiento cultural entre 1936 y 1939, no hubiesen visto convalidada o reestablecida su declaración con posterioridad.
+Los bienes inmuebles así inscritos gozarán a todos los efectos del reconocimiento y se beneficiarán de las medidas de protección y de fomento que para sus correspondientes figuras establece la presente ley, sin perjuicio de la complementación paulatina de sus declaraciones conforme lo establecido en el apartado segundo de la disposición transitoria primera de la Ley 4/1998, de 11 de junio, de la Generalitat, del Patrimonio Cultural Valenciano.
+Se modifica por el art. 2 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+ Se añade por el art. 2 de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.
+
+### Disposición adicional cuarta [sic]
+
+Disposición adicional cuarta [sic].
+Para realizar las gestiones encomendadas en régimen de descentralización funcional, se podrá crear una entidad de derecho público del Museo de Bellas Artes de València, que dispondrá de personalidad jurídica propia, autonomía funcional y de gestión, plena capacidad de obrar para el cumplimiento de sus finalidades y estará facultada para realizar actividades administrativas, prestacionales y de fomento, gestionar servicios o producir bienes de interés público susceptibles o no de contraprestación y que quedará adscrita a la conselleria competente en materia de cultura.
+Se añade por el art. 137 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Reconocimiento legal de Bienes Inmuebles de Relevancia Local, en atención a su naturaleza patrimonial.
+Tienen la consideración de bienes inmuebles de relevancia local, mientras no se les excluya en los respectivos catálogos de bienes y espacios protegidos, las siguientes categorías de elementos arquitectónicos:
+1. Los núcleos históricos tradicionales. Estos espacios urbanos, que se delimitarán en la ordenación urbanística de cada municipio, se caracterizan por componer agrupaciones diferenciadas de edificaciones que conservan una trama urbana, una tipología diferenciada o una silueta histórica característica.
+Los municipios en cuyo término no exista ningún espacio urbano que responda a estas características deberán solicitar su exclusión fundada, conforme al apartado 4 de esta disposición adicional.
+2. Los pozos o cavas de nieve o neveras, las chimeneas de tipo industrial construidas de ladrillo anteriores a 1940, los hornos de cal, los antiguos molinos de viento y los antiguos molinos de agua, los relojes de sol anteriores al siglo XX, las barracas tradicionales propias de las huertas valencianas, las lonjas y salas comunales anteriores al siglo XIX, los paneles cerámicos exteriores anteriores a 1940, la arquitectura religiosa anterior a 1940, incluyendo los calvarios tradicionales que estén concebidos autónomamente como tales, así como los elementos decorativos y bienes muebles relacionados directamente con el bien patrimonial a proteger.
+3. El patrimonio histórico y arqueológico civil y militar de la Guerra Civil en la Comunitat Valenciana, además de los espacios singulares relevantes e históricos de la capitalidad valenciana, como todos aquellos edificios que se utilizaron de sede del gobierno de la República, además de los espacios relevantes que utilizaron personajes importantes de nuestra historia durante el período de guerra de 1936 a 1939. Todos estos inmuebles deben estar construidos con anterioridad al año 1940.
+En relación con este patrimonio histórico y arqueológico de la Guerra Civil, sin perjuicio de su reconocimiento legal de bien de relevancia local a la entrada en vigor de esta ley, la conselleria competente en materia de cultura, con la colaboración de la Junta de Valoración de Bienes, deberá ejecutar un inventario específico de estos bienes en el que se diferenciará explícitamente entre bienes protegidos y bienes solo a documentar, conforme a su relativa importancia patrimonial, así como los lugares de la memoria, que pasarán a ser documentados por su importancia histórica.
+4. Para exceptuar este reconocimiento para elementos que, analizados singularmente, no acrediten reunir valores culturales suficientes para su inclusión en el Catálogo de Bienes y Espacios Protegidos, se requerirá justificación suficiente contenida en informe de equipos pluridisciplinares conformados según lo previsto en el artículo 47.2 de esta ley y tendrá que ser informada favorablemente por la conselleria competente en materia de cultura. El informe deberá emitirse en el plazo y con los efectos previstos en el artículo 47.3 de esta ley.
+Se modifica por el art. 69.9 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a6-11
+ Se modifica por el art. 68.9 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+ Se modifica por el art. 4 de la Ley 9/2017, de 7 de abril. Ref. BOE-A-2017-5119
+ Se modifica por el art. 97 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663.
+ Se añade por el art. 2 de la Ley 5/2007, de 9 de febrero. Ref. BOE-A-2007-6119.
+
+### Disposición adicional séptima 
+
+Disposición adicional séptima. Consejo Asesor de Patrimonio Histórico Inmobiliario. [Sic].
+El Consejo Asesor de Patrimonio Histórico Inmobiliario tiene como funciones el informe de las declaraciones como bien de interés cultural de los conjuntos históricos y de sus modificaciones, el informe de los planes especiales de protección de los conjuntos históricos y de sus modificaciones, y el resto de las que puedan establecerse reglamentariamente con relación a bienes inmuebles de interés cultural.
+Su composición y funcionamiento se establecerán reglamentariamente.
+Se añade por la disposición final 1.2 de la Ley 2/2010, de 31 de marzo. Ref. BOE-A-2010-6559.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Arrendamiento de colecciones culturales.
+1. La Generalitat podrá arrendar, con o sin opción de compra, colecciones de bienes muebles que, por sus valores históricos, artísticos, arqueológicos, científicos o culturales, sean susceptibles de integrar el patrimonio histórico, con independencia de su actual clasificación administrativa. En ningún caso podrá aplicarse esta disposición al sector público instrumental, que se regirá por su normativa de creación y funcionamiento.
+2. El arrendamiento de las colecciones a que se refiere esta disposición tendrá naturaleza de contrato privado, de conformidad con lo previsto en la disposición adicional décima de la Ley 16/1985, de 25 de junio, del patrimonio histórico español. Su preparación y adjudicación se regirán por lo dispuesto en el artículo 26 de la Ley 9/2017, de 8 de noviembre, de contratos del sector público, y, en cuanto a sus efectos y extinción, con carácter general, por las normas de derecho privado, con las especialidades establecidas en la citada disposición adicional décima.
+3. El arrendamiento tendrá por finalidad la exhibición pública, conservación, investigación, difusión cultural o museística de las colecciones y exigirá, con carácter previo a la formalización del contrato, la declaración de su valor excepcional, que será acordada por la Junta de Valoración de Bienes del Patrimonio Cultural Valenciano o por una comisión científico-artística integrada por ocho expertos designados mediante la resolución de la conselleria competente en materia de cultura, a la que corresponderá igualmente la determinación de las condiciones esenciales relativas a la conservación, seguridad, transporte, exhibición y restitución de las obras.
+4. Los contratos de arrendamiento deberán establecer, en todo caso, las obligaciones relativas a la conservación,aseguramiento, accesibilidad pública, control administrativo y retorno de las obras, sin perjuicio de las facultades de inspección y tutela que correspondan a la administración competente en materia de patrimonio cultural.
+5. La Generalitat podrá otorgar garantía frente a los daños materiales que puedan sufrir los bienes integrantes de las colecciones culturales arrendadas durante su transporte, depósito, exhibición o cualquier otra operación directamente vinculada a su destino cultural o museístico. Dicha garantía tendrá carácter subsidiario o complementario respecto de los seguros que, en su caso, se contraten.
+6. La concesión de la garantía requerirá informe previo, bien de la Junta de Valoración de Bienes del Patrimonio Cultural Valenciano, o bien de la comisión científico-artística prevista en el punto tercero que se pronunciará sobre la adecuación de las medidas de protección, conservación y seguridad previstas, así como sobre la idoneidad del régimen de cobertura propuesto. La garantía no alcanzará a los daños derivados de dolo, negligencia grave o incumplimiento de las obligaciones contractuales por parte del arrendador o de la entidad gestora.
+Se añade por el anexo del Decreto-ley 3/2026, de 13 de marzo, según establece su art. único. Ref. DOGV-r-2026-90053
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. Los expedientes sobre declaración de Bienes de Interés Cultural incoados con anterioridad a la entrada en vigor de la presente Ley quedarán sometidos, en cuanto a sus trámites y efectos, a lo que en ella se dispone. Mediante resolución de la Conselleria de Cultura, Educación y Ciencia se establecerán los requisitos de convalidación de los informes y demás trámites producidos hasta entonces en dichos expedientes.
+2. La Conselleria de Cultura, Educación y Ciencia podrá complementar las declaraciones de Bienes de Interés Cultural producidas antes de la entrada en vigor de la presente Ley y relativas a bienes integrantes del patrimonio cultural valenciano, a fin de adaptar su contenido a los requisitos que en ésta se establecen.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Los municipios en los que a la entrada en vigor de esta Ley hubiere algún inmueble declarado Bien de Interés Cultural deberán, en el plazo de un año, elaborar el Plan Especial de protección a que se refiere el artículo 34.2, aprobarlo provisionalmente y remitirlo al órgano competente para su aprobación definitiva. Si hubiera ya aprobado un Plan Especial, u otro instrumento de planeamiento con el mismo objeto, podrán, en el mismo plazo, someterlo a convalidación mediante el informe de la Conselleria de Cultura, Educación y Ciencia previsto en el mismo artículo o adaptarlo a las determinaciones establecidas en la presente Ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Todos los Ayuntamientos de la Comunidad Valenciana deberán en el plazo de un año a partir de la entrada en vigor de esta Ley aprobar provisionalmente un Catálogo de Bienes y Espacios Protegidos, de ámbito municipal, o modificar el que tuvieren aprobado para adaptarlo a las disposiciones de esta Ley, y remitirlo al órgano competente para su aprobación definitiva. En caso de que en el municipio no existiera ningún bien merecedor de tal protección, el Ayuntamiento deberá comunicar dicha circunstancia a la Conselleria de Cultura, Educación y Ciencia.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+En el plazo de un año a partir de la entrada en vigor de esta Ley, los responsables de la instalación deberán retirar, a su costa, las conducciones y elementos impropios a que se refiere el artículo 38, e).
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Hasta tanto no se dicten por el Gobierno Valenciano las normas de desarrollo reglamentario de la presente Ley, serán de aplicación, en cuanto se conformen a las disposiciones de ésta, los Reales Decretos 111/1986, de 10 de enero, de desarrollo parcial de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, y 64/1994, de 21 de enero, por el que se modificó parcialmente el anterior.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+1. Se autoriza al Gobierno Valenciano a dictar cuantas disposiciones reglamentarias sean necesarias para el desarrollo y aplicación de esta Ley.
+2. Queda asimismo autorizado el Gobierno Valenciano para actualizar por vía reglamentaria la cuantía de las sanciones establecidas en el artículo 99, así como la de las multas coercitivas previstas en el artículo 100. El porcentaje de los incrementos no será superior al de los índices oficiales de incremento del coste de vida.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+Por tanto, ordeno que todos los ciudadanos, Tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 11 de junio de 1998.
+EDUARDO ZAPLANA HERNÁNDEZ-SORO,
+Presidente
+
+### [Información relacionada]
+
+INFORMACIÓN RELACIONADA
+ Téngase en cuenta que las referencias hechas a la Conselleria de Cultura, Educación y Ciencia se entenderán realizadas a la Conselleria competente en materia de cultura, según se establece en la disposición adicional de la Ley 7/2004, de 19 de octubre. Ref. BOE-A-2004-19650.

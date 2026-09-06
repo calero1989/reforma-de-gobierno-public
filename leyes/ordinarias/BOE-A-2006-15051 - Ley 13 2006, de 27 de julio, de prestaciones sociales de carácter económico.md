@@ -1,0 +1,511 @@
+# Ley 13/2006, de 27 de julio, de prestaciones sociales de carácter económico.
+
+- Identificador BOE: `BOE-A-2006-15051`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2006-15051
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Esta­tuto de autonomía de Cataluña, promulgo la siguiente Ley 13/2006, de 27 de julio, de prestaciones sociales de carácter económico.
+PREÁMBULO
+I. El Estatuto de autonomía, en el artículo 9.25, atribuye a la Generalidad la competencia exclusiva en materia de asistencia social. El concepto de asistencia social ha sido definido por la jurisprudencia constitucional como un mecanismo protector de situaciones de necesidad específicas, sentidas por grupos de la población, que opera mediante técnicas distintas de las propias de la Seguridad Social y que se financia al margen de cualquier obligación contributiva y prescinde de la colaboración económica previa de sus destinatarios. Por su parte, el Tribunal de Justicia de las Comunidades Europeas ha calificado de asistencia social las prestaciones monetarias que están condicionadas a la comprobación, por la entidad gestora, del estado real de necesidad del individuo protegido.
+En cuanto a otros títulos competenciales, como el relativo al sistema de la Seguridad Social, la jurisprudencia constitucional ha establecido que es una exigencia del estado social de derecho que las personas que no tienen cubiertas las necesidades mínimas por la modalidad no contributiva del sistema puedan acceder a otros beneficios o ayudas de naturaleza diferente para asegurar el principio de suficiencia al que se refiere el artículo 41 de la Constitución, siempre y cuando la Generalidad aprecie una situación real de necesidad en la población beneficiaria de las ayudas asistenciales de la Seguridad Social.
+La presente ley tiene la finalidad de determinar el régimen jurídico propio de las prestaciones sociales de carácter económico, en el marco del bloque de la constitucionali­dad; así, establece derechos subjetivos para situaciones predeterminadas y reglas básicas para ejercer derechos de concurrencia para las prestaciones que se establecen con límites presupuestarios. La presente ley, al crear prestaciones de carácter económico para la protección de los más desfavorecidos y reglas para establecer las que se puedan crear en el futuro en función de la financiación disponible, constituye un instrumento más a añadir a otros sistemas, como el de la Seguridad Social, el sanitario, el de la enseñanza, el de los servicios sociales, los propios de la inserción laboral o las prestaciones de apoyo a la familia, los cuales configuran el estado social y de derecho y permiten avanzar en la construcción de una sociedad más justa y equitativa.
+II. En el ámbito de la lucha contra la pobreza y la exclusión social, el Consejo de Europa, desarrollando los compromisos conseguidos por los países miembros en las reuniones celebradas en Lisboa y en Niza a partir de la evaluación de la primera ronda de planes, establece la necesidad de reforzar la perspectiva de género y aconseja a los estados miembros que en los respectivos planes de acción fijen objetivos para reducir de un modo significativo en el año 2010 el número de personas en situación de riesgo de pobreza y exclusión social. En este foro, la pobreza se define como «la situación en la que se encuentran las personas que no pueden participar plenamente en la vida económica, social y civil y que cuentan con unos ingresos o recursos (personales, familiares, sociales y culturales) inadecuados para poder disfrutar de un nivel y una calidad de vida considerados aceptables por la sociedad en la que viven. En estas situaciones las personas a menudo no pueden ejercer plenamente sus derechos fundamentales». También se pone énfasis en la incorporación de hombres y mujeres en todas las acciones, de un modo transversal y en igualdad de condi­ciones.
+Por otra parte, el objetivo global que marca la Unión Europea en sus trabajos para la inclusión es el de conseguir, en el contexto de los cambios estructurales, que los servicios y recursos sean universales, y por ello establece ocho retos, uno de los cuales es garantizar los ingresos necesarios y los recursos adecuados para poder vivir dignamente. De los objetivos de la Unión Europea se desprenden tres directrices políticas: la universalidad, la igualdad y la solidaridad con la dignidad humana.
+III. En el ejercicio de la competencia exclusiva en materia de asistencia social, la Generalidad, mediante la Ley 10/1997, del 3 de julio, de la renta mínima de inserción, estableció un conjunto de prestaciones y actuaciones de servicios sociales, salud, enseñanza y formación, una prestación económica y otras actuaciones. Estas prestaciones y actuaciones tienen la finalidad de dar el apoyo adecuado a todas las personas que lo necesitan, atender sus necesidades básicas y favorecer su inserción social y laboral.
+La presente ley es uno de los instrumentos de lucha contra la pobreza en Cataluña. Los estudios sobre la cuestión indican que esta realidad está escasamente relacionada con el ciclo económico y que, en cambio, lo está mucho con la existencia de actuaciones de las administraciones competentes de prevención de situaciones de exclusión. Es por ello que en los últimos años la pobreza en Cataluña no solo no se ha reducido, sino que ha aumentado. El grupo de edad con un riesgo de pobreza más importante es el de las personas mayores, especialmente el de las mujeres mayores. En este colectivo la situación de pobreza alcanza unos niveles de intensidad y gravedad muy altos -un 80 % por encima de la media-, de modo que el porcentaje de personas mayores que son pobres en Cataluña (28,5 %) prácticamente dobla el peso poblacional de este grupo (15,9 %). Por ello es muy importante establecer ayudas asistenciales para las personas con pensiones muy bajas, una gran parte de las cuales son personas mayores. También son colectivos especialmente vulnerables las personas que se encuentran en exclusión social en edad activa, en situación laboral muy precaria o excluidas del mercado laboral. Asimismo, es preciso luchar también contra la pobreza infantil derivada del aumento de la infancia desamparada.
+Así pues, con el objetivo de hacer realidad el compromiso por la igualdad de oportunidades de las personas y la cohesión social, se garantizan con la presente ley ingresos económicos dignos para todas las personas. La ley establece ayudas económicas para las personas con ingresos inferiores al indicador de renta de suficiencia establecido, con el objetivo de aproximarse progresivamente al indicador de renta de suficiencia de Cataluña.
+IV. La presente ley se estructura en cuatro capítulos:
+El primero, que contiene las disposiciones generales, define los conceptos básicos que hacen comprensible el conjunto de la ley. En este capítulo se determina el objeto de la ley; la naturaleza de las prestaciones económicas, que se definen como aportaciones dinerarias para atender situaciones de necesidad; la financiación; los beneficiarios; el carácter y la creación de las prestaciones, haciendo una distinción entre las que son de derecho subjetivo, que deben crearse por ley, las de derecho de concurrencia, creadas por el Gobierno, y las de urgencia social, que son de competencia local; la forma de las prestaciones según la previsión de la duración de la situación de necesidad; el abono que se puede efectuar, de forma indirecta, al proveedor del servicio; las causas de suspensión y extinción; las incompatibilidades con otras prestaciones de las que se infiere el carácter subsidiario; y, por último, la colaboración entre las administraciones públicas a través de la cesión de datos.
+En el capítulo segundo se define la situación de necesidad como la situación derivada de cualquier contingencia que se produce en la vida de una persona y que le impide hacer frente a la manutención, a los gastos propios del hogar, la comunicación y el transporte, así como a todos los gastos imprescindibles para poder llevar una vida digna. La norma tiene en cuenta que esta situación de necesidad puede referirse a una persona individual, a una unidad familiar o a una unidad de convivencia. El último aspecto regulado por este capítulo es la valoración de la situación de necesidad, que es el elemento definitorio básico para poder tener derecho o acceso a las prestaciones. Los factores determinantes de esta valoración son los ingresos económicos en relación con el indicador de renta de suficiencia establecido por ley.
+El capítulo tercero regula el procedimiento administrativo de concesión de las prestaciones, las unidades administrativas a las que corresponde la gestión y establece que la jurisdicción contenciosa administrativa es la competente para el conocimiento de las impugnaciones que se puedan producir una vez agotada la vía administrativa. Las prestaciones con carácter de derecho subjetivo pueden pedirse en cualquier momento, mientras que las que tienen carácter de derecho de concurrencia solo pueden pedirse cuando se abre la correspondiente convocatoria. Si no se dicta resolución expresa en el plazo fijado para resolver y notificar, las solicitudes tienen que entenderse desestimadas.
+En el capítulo cuarto se establecen tres clases de prestaciones, reguladas en cada una de las tres secciones en que se divide el capítulo: las prestaciones económicas de derecho subjetivo, las prestaciones económicas de derecho de concurrencia y las prestaciones de urgencia social. Así, la sección primera define cinco prestaciones de derecho subjetivo. La primera tiene por objeto a los jóvenes extutelados por la Generalidad, con el fin de contribuir, temporalmente y hasta los 21 años, a que una vez acabada la institución de la tutela puedan vivir de forma autónoma y se puedan integrar gradualmente en la vida laboral y social, siempre que acrediten que no disponen de recursos económicos. La segunda prestación tiene la finalidad de proteger a los cónyuges o familiares supervivientes, pensionistas de la seguridad social, que con la muerte del causante han perdido poder adquisitivo y por este motivo no pueden hacer frente a los gastos ordinarios del hogar. La tercera está destinada a los pensionistas de la modalidad no contributiva con el fin de complementar su pensión, siempre que acrediten que sus ingresos o rentas no superan el 25 % del importe de la pensión no contributiva. La cuarta prestación está destinada a atender los gastos de mantenimiento de menores tutelados por la Generalidad, en medida de atención en la propia familia o en medida de acogimiento en familia extensa o ajena, y entendiendo siempre que los beneficiarios de esta prestación solo pueden ser los menores de edad tutelados por la Generalidad. La regulación de esta prestación de derecho subjetivo es necesaria para dar a las situaciones de hecho el grado de cobertura jurídica necesaria y garantizar el derecho de los menores acogidos a una prestación fija. La quinta prestación, de carácter subsidiario, tiene la finalidad de atender al mantenimiento de las necesidades básicas de las personas –perceptoras o no de prestaciones públicas– con ingresos inferiores al indicador de renta de suficiencia.
+La sección segunda de este capítulo regula las prestaciones económicas de derecho de concurrencia. En ella se establecen los aspectos básicos que hay que tener en cuenta cuando se hace la correspondiente convocatoria, previa creación por acuerdo del Gobierno. El régimen jurídico de aplicación no es el de las subvenciones, sino el definido por la presente ley, en el acuerdo de creación del Gobierno y en la correspondiente convocatoria.
+La sección tercera regula las prestaciones económicas de urgencia social, en las que se ha tenido en cuenta el principio de autonomía local. Así, la creación de estas prestaciones corresponde a los entes locales y la ley determina solamente sus características básicas, como la finalidad, los beneficiarios y la valoración de las situaciones de urgencia.
+Las disposiciones transitorias fijan el indicador de renta de suficiencia; establecen, para algunas prestaciones, la aplicación progresiva de la cuantía, y determinan la normativa que debe regir en los procedimientos en trámite en la entrada en vigor de la ley. Por último, en las disposiciones finales se establece la necesidad de hacer las previsiones presupuestarias para atender las prestaciones y se fija la entrada en vigor.
+En la tramitación de la presente ley se han tenido en cuenta los informes del Consejo General de Servicios Sociales y del Instituto Catalán de las Mujeres, así como los dictámenes del Consejo de Trabajo Económico y Social de Cataluña y de la Comisión de Gobierno Local.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto regular las prestaciones sociales de carácter económico que se enmarcan en el ordenamiento jurídico aplicable a las prestaciones económicas de asistencia social.
+
+### Artículo 2
+
+Artículo 2. Naturaleza de las prestaciones y ámbito de aplicación.
+1. Son prestaciones sociales de carácter económico las aportaciones dinerarias hechas por la Administración de la Generalidad y los entes locales que tienen la finalidad de atender determinadas situaciones de necesidad en que se encuentran las personas que no disponen de recursos económicos suficientes para hacerles frente y no están en condiciones de conseguirlos o recibirlos de otras fuentes.
+2. Las prestaciones sociales de carácter económico no forman parte de las prestaciones del sistema de la Seguridad Social, a pesar de que pueden beneficiarse de ellas las personas incluidas en la acción protectora de este sistema.
+3. Se excluyen del ámbito de aplicación de la presente ley la prestación económica de la renta mínima de inserción, regulada por la Ley 10/1997, del 3 de julio, de la renta mínima de inserción; las prestaciones económicas derivadas de la aplicación de la Ley 18/2003, del 4 de julio, de apoyo a las familias, y las prestaciones económicas del Plan de ayuda al retorno, establecidas por la Ley 25/2002, del 25 de noviembre, de medidas de apoyo al retorno de los catalanes emigrados y sus descendientes, y de segunda modificación de la Ley 18/1996.
+
+### Artículo 3
+
+Artículo 3. Financiación.
+Las prestaciones sociales de carácter económico se financian íntegramente con cargo a los presupuestos de la Generalidad, salvo las prestaciones de urgencia social, que se financian de acuerdo con lo establecido por el artícu­lo 30.
+
+### Artículo 4
+
+Artículo 4. Beneficiarios.
+1. Son beneficiarias de las prestaciones sociales de carácter económico las personas residentes legalmente en Cataluña que se hallan en situación de necesidad, a las que se otorga la prestación con el fin de paliar esta situación. En el caso de las prestaciones económicas para el acogimiento de menores de edad tutelados por la Generalidad, reguladas en el artículo 22, las prestaciones económicas para menores de edad en situación de riesgo, reguladas en el artículo 22 bis, y las prestaciones económicas de urgencia social, reguladas en el artículo 30, pueden ser beneficiarias, asimismo, las personas que viven o que están en Cataluña
+2. Son beneficiarias de la prestación para atender las necesidades básicas regulada por el artículo 23 y de las prestaciones económicas de derecho de concurrencia las personas que acrediten que residen en Cataluña y que lo han hecho durante cinco años, de los cuales dos deben ser inmediatamente anteriores a la fecha de presentación de la solicitud, a excepción de las personas catalanas retornadas, a las que no se les exige el período mínimo de residencia.
+Se modifica el apartado 1, por el art. 164.1 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Se añade el apartado 2 por el art. 26.1 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2007-14803.
+
+### Artículo 5
+
+Artículo 5. Carácter de las prestaciones.
+1. Las prestaciones sociales de carácter económico se pueden otorgar con carácter de derecho subjetivo, con carácter de derecho de concurrencia o con carácter de urgencia social.
+2. La prestación tiene carácter de derecho subjetivo para el beneficiario o beneficiaria cuando este reúne los requisitos fijados por la ley que crea y regula la prestación. El ente gestor debe hacer la aportación que corresponda.
+3. La prestación tiene carácter de derecho de concurrencia para el beneficiario o beneficiaria cuando la concesión está limitada por las disponibilidades presupuestarias y se somete a concurrencia pública y a priorización de las situaciones de mayor necesidad.
+4. Las prestaciones económicas de urgencia social tienen la finalidad de atender situaciones de necesidades puntuales, urgentes y básicas, de subsistencia.
+
+### Artículo 6
+
+Artículo 6. Creación de las prestaciones.
+1. Las prestaciones económicas asistenciales con carácter de derecho subjetivo se crean por ley.
+2. Las prestaciones económicas de derecho de concurrencia se crean mediante acuerdo del Gobierno.
+3. Las leyes y los actos de creación de las prestaciones a que se refieren los apartados 1 y 2 deben determinar necesariamente:
+a) La situación de necesidad a proteger.
+b) Los requisitos que debe cumplir el beneficiario o beneficiaria para acceder a la prestación.
+c) La cuantía o el modo de establecer la prestación.
+d) El carácter y la forma de la prestación.
+e) Las causas de extinción específicas de la prestación.
+f) Las especialidades del procedimiento para la tramitación y la concesión de la prestación.
+g) El régimen de pago de la prestación.
+4. Las prestaciones económicas de urgencia social son establecidas por los entes locales, de acuerdo con las competencias que les corresponden en materia de atención social primaria.
+Se modifica por la disposición adicional 9 de la Ley 12/2007, de 11 de octubre. Ref. BOE-A-2007-19189#danovena.
+
+### Artículo 7
+
+Artículo 7. Forma de las prestaciones.
+Las prestaciones sociales de carácter económico pueden pagarse en cualquiera de las siguientes formas:
+a) Prestaciones permanentes: son las que se pagan mediante aportaciones dinerarias periódicas y con voluntad de continuidad y estabilidad en el tiempo.
+b) Prestaciones temporales: son las que se pagan mediante aportaciones dinerarias periódicas pero con una duración anual y con previsión de temporalidad.
+c) Prestaciones puntuales: son las que se agotan con una única aportación dineraria.
+
+### Artículo 8
+
+Artículo 8. Abono y régimen fiscal de las prestaciones.
+1. La prestación debe abonarse de forma preferente y directa al beneficiario o beneficiaria. Excepcionalmente, de acuerdo con lo que disponga la norma reguladora correspondiente, puede abonarse al prestador o prestadora del servicio o a una tercera persona. En cualquier caso, la prestación del artículo 22 relativa a la prestación por el acogimiento en familia extensa o en familia ajena y la del artículo 22 bis deben abonarse a la persona que, ostentando la guarda y custodia de la persona menor de edad, haya presentado la correspondiente solicitud.
+2. El pago debe hacerse preferentemente a través de la entidad financiera escogida por el beneficiario o beneficiaria o por su representante legal. La entidad financiera puede requerir constancia de vida, a requerimiento del ente gestor, y está obligada a devolver las cantidades aportadas en exceso y en depósito a la cuenta del beneficiario o beneficiaria, a partir del mes siguiente a la fecha de extinción del derecho a la prestación.
+3. Las prestaciones sociales de carácter económico están sometidas al régimen fiscal aplicable a las aportaciones dinerarias.
+4. El pago de las prestaciones con carácter de derecho subjetivo debe hacerse con una periodicidad mensual, salvo en los casos en que el importe aconseje hacerlo anualmente.
+Se modifica el apartado 1 por el art. 164.2 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8135, de 18 de mayo de 2020. Ref. BOE-A-2020-5901
+
+### Artículo 9
+
+Artículo 9. Extinción, suspensión y reintegro de las prestaciones.
+1. Son causas de extinción automática de las prestaciones:
+a) La muerte del beneficiario o beneficiaria.
+b) La mejora de la situación económica del beneficiario o beneficiaria si implica la pérdida permanente de los requisitos de necesidad.
+c) La desaparición de la situación de necesidad que ha motivado la prestación.
+d) El engaño en la acreditación de los requisitos.
+e) Dejar de residir en Cataluña, previa suspensión de la prestación durante un periodo de tres meses.
+f) Cualquier otra causa que la norma de creación determine.
+2. Son causas de suspensión automática de las prestaciones:
+a) Dejar de residir o de vivir o de encontrarse en Cataluña.
+b) Dejar de atender injustificadamente dos requerimientos que el ente o el órgano gestor ha llevado a cabo para comprobar la continuidad de los requisitos de acceso a la prestación concedida. Se entiende por requerimientos los que han sido notificados atendiendo a los requisitos establecidos por la Ley del Estado 30/1992, del 26 de noviembre, de régimen jurídico de las administraciones públicas y el procedimiento administrativo común.
+c) Cualquier otra causa que la norma de creación determine.
+3. Los perceptores de la prestación o los miembros de la unidad familiar o de la unidad de convivencia están obligados a comunicar a la entidad gestora que se ha producido alguna de las causas de extinción o suspensión indicadas en los apartados 1 y 2 y, si procede, deben reintegrar las cuantías percibidas indebidamente. La entidad gestora puede comprobar en cualquier momento el cumplimiento de las condiciones que han determinado el acceso a la prestación.
+
+### Artículo 10
+
+Artículo 10. Incompatibilidades.
+1. Las prestaciones sociales de carácter económico reguladas por la presente ley son incompatibles con las otras prestaciones económicas que tiene reconocidas el beneficiario o beneficiaria o a las que puede tener derecho por cualquiera de los sistemas de protección públicos o privados complementarios de la Seguridad Social, si la concesión de la prestación social de carácter económico puede comportar su pérdida, disminución o no concesión.
+2. A los efectos de lo que establece la presente ley, se entiende por sistemas de protección privados los propios del mutualismo no integrado en la Seguridad Social, el seguro privado, los fondos de pensiones, los fondos incluidos en los sistemas de negociación colectiva o cualquier otro sistema que tenga la finalidad de complementar las pensiones de la modalidad contributiva de la Seguridad Social.
+
+### Artículo 11
+
+Artículo 11. Cesión de datos.
+1. Las administraciones públicas competentes en cada caso deben ceder los datos de carácter personal necesarios para acreditar la residencia y la convivencia, para llevar a cabo la valoración de la situación de necesidad y para acreditar las otras circunstancias que sean determinantes para el acceso y el mantenimiento de cada prestación, en el marco de la normativa vigente en materia de protección de datos de carácter personal.
+2. El ente o el órgano gestor de las prestaciones puede facilitar datos de carácter personal, necesarios para la gestión de los expedientes, a la administración tributaria, a las entidades gestoras de la Seguridad Social y a otras entidades públicas, a efectos fiscales y de control de las prestaciones.
+3. Debe crearse por reglamento un fichero único de datos personales de todas las prestaciones sociales de carácter económico.
+
+## CAPÍTULO II
+
+Indicador de renta de suficiencia para la valoración de la situación de necesidad
+
+### Artículo 12
+
+Artículo 12. Situación de necesidad.
+A los efectos de lo que establece la presente ley, se entiende por situación de necesidad cualquier contingencia que tiene lugar o aparece en el transcurso de la vida de una persona y que le impide hacer frente a los gastos esenciales para el mantenimiento propio o para el mantenimiento de las personas que integran la unidad familiar o la unidad de convivencia a la que pertenece.
+
+### Artículo 13
+
+Artículo 13. Gastos esenciales.
+A los efectos de lo que dispone la presente ley, se entiende por gastos esenciales de una persona, de una unidad familiar o de una unidad de convivencia, los propios de la manutención, los derivados del uso del hogar, los que facilitan la comunicación y el transporte básicos, así como todos los imprescindibles para vivir dignamente.
+
+### Artículo 14
+
+Artículo 14. Unidad Familiar y unidad de convivencia.
+1. A efectos de lo establecido en la presente ley, son unidades familiares y unidades de convivencia:
+a) Las relaciones familiares derivadas del matrimonio y sus descendientes.
+b) Las relaciones familiares derivadas de la convivencia estable en pareja, en los términos establecidos en el artículo 234-1 de la Ley 25/2010, de 29 de julio, del libro segundo del Código civil de Cataluña, relativo a la persona y la familia.
+c) Las familias reconstituidas.
+d) Las familias con niños en acogimiento o adopción.
+2. Se entiende por familia reconstituida la familia en la que la pareja convive, ya sea en régimen matrimonial, ya sea en régimen de convivencia estable, con descendientes de uno de los dos o de ambos miembros de la pareja.
+3. Cualquier agrupación familiar distinta de las establecidas en el apartado 1 no constituye una unidad familiar a efectos de las prestaciones sociales de carácter económico.
+4. No forman parte de la unidad familiar los hijos menores que, con el consentimiento de los padres, vivan independientemente de estos.
+Se modifica por el art. 164.3 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+### Artículo 15
+
+Artículo 15. Valoración de la situación de necesidad e indicador de la renta de suficiencia.
+1. La valoración de la situación de necesidad debe hacerse teniendo en cuenta el patrimonio, los ingresos económicos y las condiciones sociales del beneficiario o beneficiaria. La situación familiar o convivencial del beneficiario o beneficiaria solo se tiene en cuenta en el supuesto de que le comporte una carga económica.
+2. Se establece el indicador de renta de suficiencia, que debe ser fijado periódicamente por la Ley de presupuestos de la Generalidad.
+3. A los efectos de lo que establecen los apartados 1 y 2, se entiende, con carácter general, que hay falta de recursos económicos cuando los ingresos personales son inferiores al indicador de renta de suficiencia. Esta cuantía se incrementa en un 30 % por cada miembro de la unidad familiar o de la unidad de convivencia carente de patrimonio e ingresos. No se tienen en cuenta como ingresos personales los que puede percibir el beneficiario o beneficiaria provenientes de ayudas de cualquier naturaleza, si tienen la finalidad de atender los gastos derivados de la necesidad del concurso de otra persona para llevar a cabo los actos esenciales de la vida.
+4. La cuantía de las prestaciones establecidas en los artículos 19.3, 20.5, 21.3 y 23.2 se fija tomando como referencia el indicador de renta de suficiencia y los ingresos percibidos durante el ejercicio anterior al del reconocimiento del derecho.
+
+## CAPÍTULO III
+
+Concesión y gestión de las prestaciones sociales de carácter económico
+
+### Artículo 16
+
+Artículo 16. Procedimiento para la concesión de las prestaciones.
+1. Las solicitudes de las prestaciones sociales de carácter económico deben presentarse a los registros de los entes o de los órganos administrativos. La presentación puede hacerse en las oficinas, de forma presencial, o por los medios telemáticos establecidos por la Ley del Estado 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común.
+2. Los expedientes de las prestaciones sociales de carácter económico de derecho subjetivo se inician a solicitud de la parte interesada. Las prestaciones de derecho de concurrencia pueden iniciarse de oficio o a instancia de parte. En todos los casos, y en el trámite de instrucción del expediente, el ente o el órgano gestor debe pedir, si procede, al ayuntamiento o al consejo comarcal, un informe relativo al beneficiario o beneficiaria que, como mínimo, debe valorar la situación de necesidad e indicar si la persona vive sola o forma parte de una unidad familiar o de una unidad de convivencia.
+3. Una vez hecho la informe al que se refiere el apartado 2, el ente o el órgano gestor debe remitir el expediente al órgano competente para resolverlo.
+4. Las solicitudes de las prestaciones sociales de carácter económico de derecho subjetivo pueden pedirse en cualquier momento. Salvo que la norma de creación establezca otra cosa, la concesión de la prestación económica, si procede, tiene efectos económicos desde el primer día del mes siguiente al de la fecha de la solicitud, excepto las prestaciones de los artículos 20, 21 y 23, que tienen efectos económicos desde el primer día del mes siguiente al de la fecha de la resolución de reconocimiento del derecho a la prestación.
+4 bis. La solicitud de la prestación para jóvenes extutelados del artículo 19 puede presentarse seis meses antes de alcanzar la mayoría de edad, pero los efectos económicos se producen desde el mes en que se alcanza la mayoría de edad.
+5. En el caso de las prestaciones de los artículos 20, 21 y 23, si una vez transcurrido el plazo de tres meses desde la fecha de la solicitud no se ha notificado resolución expresa de reconocimiento de la prestación, el derecho de acceso a la prestación económica, en caso de que fuese reconocida, se genera desde el primer día del mes siguiente al del cumplimiento del plazo indicado.
+5 bis. La prestación por el acogimiento en familia extensa que regula el artículo 22, salvo que la norma de creación establezca lo contrario, tiene efectos económicos desde el mes en el que se constituya la medida de acogimiento en familia extensa en virtud de una resolución administrativa. Sin embargo, si se presenta la solicitud de la prestación una vez transcurrido el plazo de cuatro meses a contar desde la fecha de la resolución administrativa en cuestión, el reconocimiento del derecho de acceso a la prestación económica se genera desde el primer día del tercer mes inmediatamente anterior al de la fecha de presentación de la solicitud. La prestación que regula el artículo 22, con relación al acogimiento en familia ajena, tiene efectos económicos desde el día en el que por resolución se delegue la guarda a los acogedores, y el mes de extinción de la prestación se abona completo.
+5 ter. La prestación que regula el artículo 22 bis, salvo que la norma de creación establezca lo contrario, tiene efectos económicos, en su caso, desde el mes siguiente al de la fecha de formalización del compromiso socioeducativo.
+6. Las cuantías en concepto de efectos retroactivos de las prestaciones económicas de los artículos 20, 21 y 23 pueden ser aplazadas y su abono puede ser periodificado en pagos mensuales de la misma cuantía, en un plazo máximo de doce meses a contar desde la fecha de la resolución firme de reconocimiento de la prestación.
+7. Las solicitudes de las prestaciones sociales de carácter económico de derecho de concurrencia pueden pedirse cuando se abre la convocatoria de las mismas, que debe ser aprobada por la correspondiente orden del titular o la titular del departamento competente en materia de asistencia y servicios sociales.
+8. Las solicitudes de las prestaciones sociales de carácter económico deben resolverse y notificarse en el plazo de tres meses, a contar desde la fecha de la solicitud, si son de derecho subjetivo, y a contar desde la finalización del plazo de presentación de solicitudes, si se trata de prestaciones de derecho de concurrencia. En todos los casos, la Administración debe emitir la resolución por escrito y de forma motivada. Si no se emite la resolución y la notificación en el plazo establecido, la solicitud debe entenderse desestimada.
+9. Los efectos económicos de las prestaciones con carácter de derecho de concurrencia se producen el día establecido por la convocatoria correspondiente o, si no hay previsión, el primer día del mes siguiente al mes en que finaliza el plazo de presentación de solicitudes.
+10. En cuanto a los aspectos no previstos por la presente ley, debe aplicarse la legislación vigente en materia de procedimiento administrativo.
+Se modifican los apartados 4 y 5 y se añade el 4 bis por el art. 70.1 y 2 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Se añaden los apartados 5 bis y 5 ter por el art. 164.4 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Se modifican los apartados 4 y 5 por el art. 206.1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se modifica por el art. 81.1 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+
+### Artículo 17
+
+Artículo 17. Gestión de las prestaciones.
+1. La gestión de las prestaciones sociales de carácter económico corresponde al departamento competente en materia de asistencia social o a las entidades vinculadas a este. Esta gestión puede delegarse a los entes locales en aplicación del texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, del 28 de abril, o encargar su gestión de acuerdo con el artículo 15 de la Ley del Estado 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común.
+2. La gestión de las prestaciones económicas de urgencia social corresponde a los entes locales, de acuerdo con el régimen que les es de aplicación.
+
+### Artículo 18
+
+Artículo 18. Jurisdicción competente.
+Contra las resoluciones emitidas en los procedimientos de las prestaciones sociales de carácter económico, las personas interesadas pueden interponer un recurso de alzada. Agotada la vía administrativa, y en aplicación de la legislación procesal aplicable, pueden recorrer a la jurisdicción contenciosa administrativa.
+
+## CAPÍTULO IV
+
+Prestaciones sociales de carácter económico
+
+## Sección primera
+
+Sección primera. Prestaciones de derecho subjetivo
+
+### Artículo 19
+
+Artículo 19. Prestación para jóvenes extutelados.
+1. Se crea una prestación de derecho subjetivo, de carácter temporal, para atender situaciones de necesidad de los jóvenes que han sido tutelados por el organismo público competente en materia de protección de menores de la Generalidad. Esta prestación es aplicable a los jóvenes extutelados desde los dieciocho años y hasta que cumplan veintitrés.
+2. (Derogado).
+3. Tienen derecho a ser beneficiarios de la prestación regulada por este artículo los jóvenes que cumplen, de forma acumulativa, los siguientes requisitos:
+a) Encontrarse bajo tutela del organismo competente en materia de protección a la infancia en el momento de cumplir dieciocho años.
+b) Haber estado bajo la tutela a la que se refiere la letra a durante un año como mínimo.
+c) Comprometerse a seguir el programa de inserción establecido por el órgano competente y vinculado a unos objetivos específicos.
+d) No disponer de unos ingresos iguales o superiores a una vez y media el indicador de renta de suficiencia.
+4. Los programas de inserción deben ser actualizados anualmente e incluir los recursos específicos necesarios para asegurar un proyecto de emancipación de los jóvenes extutelados, la valoración profesionalizada de su seguimiento por parte de los jóvenes y la comunicación a la Administración competente de cualquier cambio en los requisitos de la prestación.
+5. Los jóvenes extutelados beneficiarios de la prestación regulada por este artículo que sigan programas de formación reglada postobligatoria pueden solicitar una prórroga de la prestación económica y seguir siendo beneficiarios del programa de autonomía personal que tengan establecido hasta que hayan finalizado los estudios académicos en curso, y en todo caso, como máximo, hasta los veintitrés años, incluidos.
+6. Los jóvenes que cumplen todos los requisitos establecidos por los apartados 1 y 3, excepto el de haber sido tutelados durante un período de un año como mínimo, tienen derecho a la prestación temporal limitada a una duración de doce meses. Los jóvenes extutelados que, cumpliendo los demás requisitos, hayan dejado de ser tutelados en el año inmediatamente anterior al alcance de la mayoría de edad, si se ha constatado su situación de vulnerabilidad y exclusión social como resultado de su retorno al núcleo de origen, pueden, excepcionalmente, acceder a los programas de autonomía personal y, por tanto, tener derecho a la prestación para jóvenes extutelados, con las limitaciones que procedan.
+7. La cuantía de la prestación para jóvenes extutelados es la equivalente al indicador de renta de suficiencia y se percibe en pagos mensuales.
+8. La prestación para jóvenes extutelados puede incrementarse con otras prestaciones económicas o complementarse con prestaciones de servicios de la Administración de la Generalidad que tengan por finalidad la formación, la integración social y la plena inserción de los jóvenes en el mercado de trabajo.
+9. Son causas de extinción de la prestación para jóvenes extutelados, además de las establecidas con carácter general, las siguientes:
+a) Llevar a cabo una actividad laboral remunerada con una retribución igual o superior a una vez y media el indicador de renta de suficiencia, salvo que esta actividad laboral se lleve a cabo de modo temporal.
+b) Incumplir el compromiso de seguir el programa de inserción, abandonarlo o no seguir sus pautas.
+c) Cumplir veintitrés años.
+10. Es causa de suspensión automática de la prestación para jóvenes extutelados, además de las establecidas con carácter general, llevar a cabo una actividad laboral remunerada temporal con una retribución igual o superior a una vez y media el indicador de renta de suficiencia. La prestación se reactivará una vez finalice dicha actividad laboral. La causa de suspensión automática establecida por el artículo 9.2.a, relativa a dejar de residir o de vivir o de encontrarse en Cataluña, no es aplicable a la prestación para jóvenes extutelados por motivos de movilidad académica.
+Se deroga el apartado 2 y se modifican los apartados 3 y 9.b) por la disposición derogatoria 2.i) y el art. 53 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+ Se modifican los apartados 3 y 9 y se añade el 10 por el art. 70.3, 4 y 5 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Se modifica por el art. único de la Ley 4/2019, de 24 de julio. Ref. DOGC-f-2019-90523
+ Téngase en cuenta que los preceptos que conlleven gasto producirán efecto al partir del primer día de la entrada en vigor de la Ley de presupuestos correspondiente al ejercicio inmediatamente posterior al 27 de julio de 2019, según se establece en la disposición final 1 de la citada Ley 4/2019.
+ Se modifican los apartados 2.bis y 4.bis por el art. 214 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-26
+ Redactado conforme a la correccion de erratas de la Ley 5/2017, de 28 de marzo publicada en DOGC núms. 7368 de 12 de mayo de 2017. Ref. BOE-A-2017-7818
+ Se modifica el apartado 2.bis y se añade el apartado 4.bis por el art. 100 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637
+ Se modifica por los arts. 206.2 a 4 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999
+ Se modifica el apartado 1 por el art. 41 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257
+
+### Artículo 20
+
+Artículo 20. Prestación para el mantenimiento de gastos del hogar para determinados colectivos.
+1. Se crea una prestación de derecho subjetivo para las personas que no pueden atender con sus ingresos los gastos propios del mantenimiento del hogar habitual, por el hecho de que el cónyuge, o el familiar hasta el segundo grado de consanguinidad o afinidad, con quien compartían estos gastos ha muerto. Esta prestación tiene como finalidad garantizar el uso de la vivienda habitual facilitando una vida independiente.
+2. Tienen derecho a ser beneficiarios de la prestación regulada por este artículo las personas que acrediten tener que hacer frente con sus únicos ingresos al mantenimiento del hogar habitual que compartían con el cónyuge o familiar que ha muerto y siempre que dependiesen económicamente de estos.
+3. Los beneficiarios a los que se refiere el apartado 2 deben disponer de unos ingresos, por todos los conceptos, iguales o inferiores a la cantidad fijada por la Ley de presupuestos.
+4. La cuantía mensual de la prestación regulada por este artículo se establece en el importe fijado anualmente por la Ley de presupuestos.
+5. Los ingresos totales anuales del beneficiario o beneficiaria más el importe de la prestación establecida en cómputo anual no pueden ser en ningún caso inferiores al indicador de renta de suficiencia establecido por el artículo 15.2. Para cumplir esta norma, es preciso efectuar, si procede, un pago anual complementario por la diferencia.
+6. Son causas de extinción de la prestación regulada por este artículo, además de las establecidas con carácter general, las siguientes:
+a) Superar el límite de ingresos anuales fijado.
+b) (Suprimida).
+c) Ser usuario o usuaria de una prestación de servicios de acogimiento residencial, sanitario, o de naturaleza análoga, en las condiciones que se establezcan por reglamento, o encontrarse ingresado en un centro penitenciario en régimen ordinario o cerrado.
+Se modifica el apartado 6.c) por el art. 81.2 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+ Se modifican el título, los apartados 1 y 2 y se suprime el apartado 6.b) por los arts. 26.2 y 3 de la Ley 5/2007, de 4 de julio. Ref. BOE-A-2007-14803.
+
+### Artículo 21
+
+Artículo 21. Prestaciones económicas complementarias a las ayudas, pensiones y prestaciones estatales.
+1. Se crea una prestación de derecho subjetivo para complementar las ayudas, pensiones y prestaciones estatales.
+2. Los beneficiarios de una pensión no contributiva por invalidez o jubilación del sistema de la seguridad social tienen derecho a una prestación complementaria a cargo de la Generalidad, siempre y cuando cumplan el resto de requisitos que marca la presente ley. La cuantía de la prestación complementaria es la que se derive de la aplicación de las condiciones, circunstancias y cuantías establecidas por la disposición transitoria tercera de la Ley de la renta garantizada de ciudadanía, y debe ser la necesaria para llegar a la cuantía de la renta garantizada de ciudadanía vigente en cada momento, incluida la prestación complementaria de activación e inserción.
+3. Los beneficiarios de ayudas, prestaciones y pensiones distintas de aquellas a las que se refiere el apartado 2, siempre y cuando sean inferiores a los importes fijados en el umbral de ingresos para el acceso a la renta garantizada de ciudadanía y cumplan el resto de requisitos que marca la Ley de la renta garantizada de ciudadanía, reciben un complemento económico, de carácter subsidiario a la ayuda, prestación o pensión que perciban, para equiparar su nivel de prestaciones al de los perceptores de la renta garantizada de ciudadanía, incluida la prestación complementaria de activación e inserción, en las condiciones, circunstancias y cuantías establecidas por la disposición transitoria tercera de Ley de la renta garantizada de ciudadanía.
+4. Son causas de extinción de la prestación complementaria, además de las establecidas con carácter general, las siguientes:
+a) Dejar de recibir la prestación objeto del complemento.
+b) Ser usuario de una prestación económica o de servicios de acogida residencial, sanitaria o de naturaleza análoga, siempre y cuando esta prestación se financie con fondos públicos, o estar internado en un centro penitenciario en régimen ordinario o cerrado.
+Se deja sin efecto la adicción de los apartados 5 y 6 por Resolución de 7 de agosto de 2020 que publica el Acuerdo de la Diputación Permanente del Parlamento de Cataluña por el que se deroga el Decreto-ley 28/2020, de 21 de julio. Ref. DOGC-f-2020-90351
+ Se añaden los apartados 5 y 6 por el art. 9 del Decreto-ley 28/2020, de 21 de julio. Ref. BOE-A-2021-1195
+ Se modifica por la disposición adicional 3.1 y 2 de la Ley 14/2017, de 20 de julio. Ref. BOE-A-2017-9799
+ Se modifica el apartado 4.b) y se añade el apartado 5 por los arts. 81.3 y 4 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+
+### Artículo 22
+
+Artículo 22. Prestación por el acogimiento de menores de edad tutelados o bajo la guarda protectora de la Generalitat.
+1. Se crea una prestación de derecho subjetivo para atender los gastos de mantenimiento de uno o uno menor de edad tutelado por la Generalitat, o bajo su guarda protectora, en medida de acogimiento en familia extensa o en familia ajena.
+2. Tienen derecho a la prestación regulada por este artículo los y las menores de edad tutelados o bajo la guarda protectora de la Generalitat que se encuentran en alguna de las situaciones siguientes:
+a) Acogimiento familiar simple en familia extensa o ajena.
+b) Acogimiento familiar permanente en familia extensa o ajena.
+c) Acogimiento familiar en unidad convivencial de acción educativa.
+d) Acogimiento preadoptivo de menores con discapacidad.
+e) Medida cautelar de guarda provisional en familia extensa o ajena.
+f) Guarda protectora mediante el acogimiento por una persona o una familia
+3. El importe de la prestación regulada por este artículo consiste en una cantidad por menor de edad acogido o acogida, establecida por la Ley de presupuestos. Este importe, si procede, se reduce en proporción al importe que se recibe o que se puede reconocer por derecho de alimentos o derivados de la Ley 18/2003, de 4 de julio, de apoyo a las familias.
+4. El Gobierno puede establecer importes complementarios a la prestación en razón de discapacidad del o de la menor de edad, por el número de menores acogidos o acogidas o por cualquier otra circunstancia que requiera una dedicación especial.
+5. La prestación regulada por este artículo se abona a la persona o personas en quienes ha sido delegada la guarda.
+6. Son causas de extinción de la prestación regulada por este artículo, además de las establecidas con carácter general, las siguientes:
+a) Dejar sin efecto la medida de protección que ha dado lugar a la prestación.
+b) Llegar a la mayoría de edad o ver reconocida la emancipación.
+c) Haberse dictado sentencia firme de adopción.
+7. El importe de la prestación regulada por este artículo, establecido por la Ley de presupuestos, tiene que ser revisado como mínimo en la misma proporción que el índice de renta de suficiencia regulado por esta Ley.
+8. Es causa de suspensión automática de la prestación, además de las establecidas con carácter general, el hecho de que la persona menor de edad deje de convivir al núcleo acogedor de manera temporal, por un periodo mínimo de un mes, cuando la medida de acogimiento en familia extensa continúa vigente.
+Se modifica por el art. 7 del Decreto-ley 5/2022, de 17 de mayo. Ref. BOE-A-2022-10453
+ Redactado conforme a la corrección de erratas publicada en DOGC núm. 8711, de 18 de julio de 2022. Ref. BOE-A-2022-12512
+ Se añade el apartado 8 por el art. 70.6 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Se modifica por la disposición adicional 2 de la Ley 14/2010, de 27 de mayo. Ref. BOE-A-2010-10213dfsegunda.
+ Se modifica el apartado 2 por el art. 40 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737.
+ Véase, en cuanto al régimen retroactivo, la disposición transitoria primera de la citada norma.
+
+### Artículo 22 bis
+
+Artículo 22 bis. Prestación para menores de edad en situación de riesgo.
+1. Se crea una prestación de derecho subjetivo para atender los gastos de mantenimiento de un menor o una menor de edad en situación de riesgo respecto al cual se haya formalizado el correspondiente compromiso socioeducativo.
+2. Tienen derecho a la prestación regulada por este artículo los menores de edad que hayan sido valorados en situación de riesgo, respecto a los cuales se haya formalizado el correspondiente compromiso socioeducativo y cuya unidad familiar disponga de unos ingresos, por todos los conceptos, iguales o inferiores al indicador de renta de suficiencia. Este límite de ingresos se incrementa en un 30 por 100 por cada miembro de la unidad familiar a partir del segundo.
+3. El importe de la prestación regulada por el presente artículo consiste en una cantidad por menor de edad en riesgo, establecida en la Ley de presupuestos.
+4. El Gobierno puede establecer importes complementarios a la prestación por razón de discapacidad del menor o la menor de edad, por el número de menores de edad en riesgo o por cualquiera otra circunstancia que requiera una dedicación especial.
+5. La prestación regulada en este artículo se abona a la persona o a las personas que ejerzan la guarda.
+6. Son causas de extinción de la prestación regulada en este artículo, además de las establecidas a todos los efectos, las siguientes:
+a) La finalización del compromiso socioeducativo o su pérdida de efectos.
+b) El incumplimiento del compromiso socioeducativo.
+c) Llegar a la mayoría de edad o ver reconocida la emancipación.
+7. Es causa de suspensión automática de la prestación, además de las establecidas con carácter general, el hecho de que la persona menor de edad deje de convivir con la persona o personas que tienen la guarda de forma temporal, por un período mínimo de un mes, cuando el compromiso socioeducativo sigue vigente.
+Se añade el apartado 7 por el art. 70.7 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Se modifica el apartado 3 por el art. 164.5 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Se añade por la disposición adicional 2 de la Ley 14/2010, de 27 de mayo. Ref. BOE-A-2010-10213dfsegunda.
+
+### Artículo 23
+
+Artículo 23. Prestación para atender necesidades básicas.
+1. Se crea una prestación de derecho subjetivo para atender los gastos derivados de las necesidades básicas de las personas en las que concurren las siguientes circunstancias:
+a) Tienen una discapacidad igual o superior al 65% o tienen más de sesenta y cinco años y no son perceptoras de prestaciones de la modalidad contributiva o no contributiva o de pensiones a cargo de cualquiera de los regímenes integrados en el sistema de la seguridad social.
+b) Los ingresos que percibe la unidad familiar o convivencial por todos los conceptos no superan el indicador de renta de suficiencia incrementado en un 30% por cada miembro a partir del segundo.
+A los efectos de la regulación de esta prestación, se entiende por unidad familiar o convivencialla formada por la persona beneficiaria, su cónyuge o pareja de hecho y los familiares hasta el segundo grado de consanguinidad o afinidad que convivan en el mismo domicilio.
+c) Se trata de personas que no trabajan o no pueden incorporarse al mundo laboral.
+2. El importe de la prestación para atender necesidades básicas es la cantidad equivalente a la diferencia entre el cómputo de ingresos indicado en el apartado 1.by el indicador de renta de suficiencia, y en ningún caso puede superar el resultado de sumar la pensión no contributiva de la seguridad social y la prestación regulada por el artículo 21.
+3. Son causas de extinción de la prestación para atender necesidades básicas, además de las establecidas con carácter general, las siguientes:
+a) Superar, la persona beneficiaria o la unidad familiar o convivencial, los ingresos definidos por el artículo 23.1.b.
+b) Ser usuario o usuaria de una prestación de servicios de acogimiento residencial, sanitario, o de naturaleza análoga, en las condiciones que se establezcan por reglamento, o encontrarse ingresado en un centro penitenciario en régimen ordinario o cerrado.
+Se modifica por el art. 81.5 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2012-4730.
+ Se modifica el apartado 1.b) por el art. 26.4 de la Ley 5/2007, de 4 de julio. Ref. BOE-A-2007-14803.
+
+### Artículo 23 bis
+
+Artículo 23 bis. Prestación única para atender necesidades extraordinarias por una intervención quirúrgica u otros tipos de intervenciones médicas para recuperarse de lesiones causadas por una agresión.
+1. Se crea una prestación de derecho subjetivo para atender los gastos derivados de las necesidades extraordinarias por una reparación física fruto de una agresión por presunto delito de odio. El informe de la unidad receptora de la denuncia o del organismo público que presta la atención por el que se certifique la naturaleza de la agresión es suficiente para hacer efectiva la prestación, sin necesidad de sentencia firme ni de que se haya identificado a la persona agresora. El objeto, los requisitos y el procedimiento de otorgamiento de la prestación pueden determinarse por reglamento.
+2. El objeto de la prestación es cubrir la intervención quirúrgica u otros tipos de intervenciones médicas de cualquier persona que no está incluida en los servicios básicos de la cartera de salud, en el momento posterior inmediato a la agresión y sin vinculación a la resolución judicial.
+Se añade por el art. 70.8 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+
+## Sección segunda
+
+Sección segunda. Prestaciones económicas de derecho de concurrencia
+
+### Artículo 24
+
+Artículo 24. Concurrencia pública.
+La creación de prestaciones sociales de carácter económico provistas con créditos presupuestarios limitados a las cantidades consignadas en el correspondiente presupuesto debe llevarse a cabo teniendo en cuenta criterios de prelación del estado de necesidad, por lo que debe abrirse un procedimiento de concurrencia pública.
+
+### Artículo 25
+
+Artículo 25. Convocatoria de las prestaciones.
+1. Los procedimientos de concurrencia pública para el otorgamiento de las prestaciones económicas de derecho de concurrencia deben iniciarse, previo acuerdo del Gobierno, mediante una convocatoria pública aprobada por orden de la persona titular del departamento competente, que debe incluir, como mínimo:
+a) La prestación y las condiciones para acceder a la prestación.
+b) El estado de necesidad requerido y el modo de justificarlo.
+c) Los criterios de valoración y prelación de la situación de necesidad.
+d) Las personas o los entes que pueden presentar las solicitudes y el lugar y la forma de presentación.
+e) La fecha de los efectos y la duración de la prestación.
+f) Los beneficiarios.
+g) Los plazos de presentación de solicitudes y de resolución y notificación de los procedimientos. El órgano competente para resolver y los recursos procedentes.
+h) Las causas especificas de extinción de la prestación, si procede.
+i) La cancelación de los datos de carácter personal facilitados, en el momento en que la resolución de la convocatoria adquiera firmeza en la vía administrativa y, si procede, en la vía judicial.
+j) Los créditos máximos habilitados para atender las prestaciones.
+k) La incompatibilidad con otras prestaciones, si procede.
+l) El régimen fiscal aplicable.
+2. Las solicitudes que reúnen las condiciones exigidas por la convocatoria, una vez valoradas, deben ordenarse según la situación de necesidad. Las prestaciones se otorgan de acuerdo con este orden de prelación hasta que se agote el crédito presupuestario disponible.
+3. Excepcionalmente, pueden otorgarse prestaciones de forma directa si se acreditan razones de interés público, social, económico, humanitario u otras debidamente justificadas que dificultan la concurrencia pública.
+
+### Artículo 26
+
+Artículo 26. Duración de las prestaciones.
+1. Las prestaciones otorgadas con carácter de derecho de concurrencia tienen la duración prevista en la convocatoria o en la resolución de concesión. Estas prestaciones pueden tener carácter permanente, temporal o puntual, de acuerdo con el artículo 7.
+2. Las prestaciones otorgadas de forma permanente se prorrogan automáticamente para cada ejercicio si se mantienen los requisitos que han motivado su concesión y no se produce una causa de extinción o suspensión de la prestación.
+
+### Artículo 27
+
+Artículo 27. Créditos presupuestarios y prorrogas automáticas.
+1. La convocatoria para iniciar los procedimientos de prestaciones de derecho de concurrencia debe prever el crédito total que se destina.
+2. Sin perjuicio del crédito al que se refiere el apartado 1, el departamento competente debe hacer las previsiones presupuestarias necesarias para atender los gastos derivados de las prórrogas automáticas anuales de las prestaciones de derecho de concurrencia otorgadas en ejercicios anteriores. Estos créditos deben consignarse separadamente en el presupuesto anual del departamento competente y no pueden incluirse en los créditos destinados a las convocatorias anuales.
+
+### Artículo 28
+
+Artículo 28. Publicidad.
+Las administraciones públicas, sin perjuicio de la publicidad preceptiva, deben dar la máxima difusión a las convocatorias para conceder prestaciones sociales de carácter económico. Asimismo, el departamento competente debe dar publicidad a los créditos consignados en su presupuesto destinados a financiar las prórrogas automáticas anuales de las prestaciones de derecho de concurrencia otorgadas en ejercicios anteriores.
+
+### Artículo 29
+
+Artículo 29. Naturaleza de los procedimientos.
+Las convocatorias de prestaciones sociales de carácter económico de derecho de concurrencia se consideran procedimientos iniciados de oficio.
+
+## Sección tercera
+
+Sección tercera. Prestaciones económicas de urgencia social
+
+### Artículo 30
+
+Artículo 30. Prestaciones de urgencia social.
+1. Las prestaciones económicas de urgencia social tienen la finalidad de atender situaciones de necesidades puntuales, urgentes y básicas, de subsistencia, como la alimentación, el vestido y el alojamiento. Estas prestaciones se financian con cargo a los presupuestos de los entes locales, de acuerdo con las competencias que tienen en el ámbito de los servicios sociales de atención primaria, según la legislación de aplicación.
+2. Pueden ser beneficiarias de las prestaciones de urgencia social las personas individuales y las que forman parte de una unidad familiar o de una unidad de convivencia, si son residentes, viven o se encuentran en un municipio de Cataluña. Estas prestaciones se abonan, preferentemente, a los suministradores de los servicios o de los productos de primera necesidad.
+3. Las situaciones de urgencia social son valoradas por los servicios sociales de atención primaria, por lo que tienen preferencia las personas o unidades que tienen menores a cargo, de acuerdo con las prescripciones establecidas por el ente local.
+4. Los entes locales, de acuerdo con las competencias que tienen en el ámbito de los servicios sociales de atención primaria, deben incluir en el presupuesto de gastos anual una partida para poder atender adecuadamente las prestaciones de urgencia social.
+5. Las prestaciones de urgencia social son compatibles con las otras prestaciones de la misma naturaleza.
+6. La Administración de la Generalidad debe dar apoyo económico a las entidades locales, en el marco de la cooperación interadministrativa, para contribuir a la equidad y la calidad de las prestaciones de urgencia social destinadas a población transeúnte y sin techo. A tal efecto, la Administración de la Generalidad debe acordar, con las entidades representativas del mundo local, el marco general de colaboración entre ambas administraciones en cuanto a las políticas sociales destinadas a la población transeúnte y sin techo.
+
+### Disposición adicional
+
+Disposición adicional.
+Las prestaciones económicas asistenciales establecidas por esta ley, dada su naturaleza, no forman parte del sistema de la Seguridad Social y no están incluidas en el ámbito de aplicación del Reglamento (CEE), núm. 1408/1971, del Consejo, del 14 de junio, relativo a la aplicación de los regímenes de seguridad social a los trabajadores por cuenta ajena y a sus familias que se desplacen dentro de la Comunidad.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Las prestaciones económicas asistenciales establecidas por esta ley, dada su naturaleza, no forman parte del sistema de la Seguridad Social y no están incluidas en el ámbito de aplicación del Reglamento (CEE), núm. 1408/1971, del Consejo, del 14 de junio, relativo a la aplicación de los regímenes de seguridad social a los trabajadores por cuenta ajena y a sus familias que se desplacen dentro de la Comunidad.
+Se numera por el art. 26.5 de la Ley 5/2007, de 4 de julio. Ref. BOE-A-2007-14803.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La situación de dependencia económica establecida por el artículo 20.2 puede entenderse cumplida cuando se haya causado derecho a una prestación periódica de algún sistema público de previsión que cubra la contingencia de muerte, sin perjuicio de que esta presunción pueda quedar desvirtuada por los datos de que disponga el órgano competente para resolver.
+Se añade por el art. 26.5 de la Ley 5/2007, de 4 de julio. Ref. BOE-A-2007-14803.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Las prestaciones reguladas por la presente ley no tienen la consideración de ayuda ni de subvención, por razón de su naturaleza jurídica, su objeto y su finalidad.
+Se añade por el art. 164.6 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+(Sin efecto)
+Se deja sin efecto la adicción de esta disposición por Resolución de 7 de agosto de 2020 que publica el Acuerdo de la Diputación Permanente del Parlamento de Cataluña por el que se deroga el Decreto-ley 28/2020, de 21 de julio. Ref. DOGC-f-2020-90351
+ Se añade por el art. 10 del Decreto-ley 28/2020, de 21 de julio. Ref. BOE-A-2021-1195
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Indicador de renta de suficiencia.
+El indicador de renta de suficiencia de Cataluña para el ejercicio 2006 queda fijado en 7.137,2 euros anuales y 509,8 euros mensuales. El Gobierno, en el marco del Acuerdo estratégico para la internacionalización, la calidad de la ocupación y la competitividad de la economía catalana, debe evaluar anualmente la actualización de este indicador. El valor del indicador debe incluirse en la Ley de presupuestos de cada año.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Porcentajes que debe alcanzar el indicador de renta de suficiencia.
+En el ejercicio del 2006, el porcentaje del indicador de renta de suficiencia que deben alcanzar las prestaciones establecidas por la presente ley que lo toman como referencia es del 75 %, sin perjuicio de lo que la presente ley establece específicamente para determinadas prestaciones. En el año 2008 las ayudas deben alcanzar el 80 % del indicador de renta de suficiencia y en el año 2010 deben llegar al 100 % de este indicador.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Límite de ingresos de las prestaciones para el mantenimiento de los gastos del hogar de los cónyuges o familiares supervivientes.
+1. Las prestaciones para el mantenimiento de los gastos del hogar de los cónyuges o familiares supervivientes, reguladas por el artículo 20, tienen un límite de ingresos propio y diferente al del índice de renta de suficiencia y en ningún caso no puede ser inferior.
+2. A la entrada en vigor de la presente ley, el límite de ingresos a que se refiere el apartado 1 se fija en 7.600 euros.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Cuantía mensual de la prestación para el mantenimiento de los gastos del hogar de los cónyuges o familiares supervivientes.
+A la entrada en vigor de la presente ley, la cuantía mensual de la prestación a que se refiere el artículo 20.4 se fija en 40 euros o en la parte proporcional. En ningún caso puede ser inferior a 6 euros.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Porcentaje para la prestación complementaria para pensionistas de la modalidad no contributiva, por invalidez o jubilación.
+A la entrada en vigor de la presente ley, el porcentaje a que se refiere el artículo 21.3 se fija en un 25% de la pensión no contributiva vigente en el año 2006, en cómputo­ anual.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Cuantía mensual de la prestación por el acogimiento de menores tutelados por la Generalidad.
+La cuantía mensual de la prestación a que hace referencia el artículo 22.4 se fija de acuerdo con lo que determinen anualmente los presupuestos de la Generalidad. Para el ejercicio 2007, esta cuantía no puede ser inferior a 320 euros para los menores de edad de 0 a 9 años, a 355 euros para los menores de edad de 10 a 14 años y a 385 euros para los menores de edad de 15 años o más y hasta que cumplen los 18.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Normativa aplicable para los procedimientos en trámite.
+Los procedimientos en trámite en la entrada en vigor de la presente ley deben regirse por la normativa de aplicación en el momento en que se iniciaron.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Prórroga de prestaciones y ayudas de convocatorias anteriores.
+Las prestaciones y ayudas económicas ya reconocidas en convocatorias anteriores a la entrada en vigor de la presente ley pueden ser prorrogadas anualmente por el departamento competente si los beneficiarios continúan reuniendo las condiciones que causaron el reconocimiento de estas.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Cómputo de las rentas de los beneficiarios de las pensiones no contribu­tivas.
+Para el cómputo de las rentas de los beneficiarios de las pensiones no contributivas, mientras la legislación del Estado no establezca otras cantidades compatibles, se aplica lo establecido por el artículo 145.2 del texto refundido de la Ley general de la Seguridad Social, aprobado por el Real decreto legislativo 1/1994, del 20 de junio, en la redacción dada por la Ley 4/2005, del 22 de abril, sobre los efectos en las pensiones no contributivas de los complementos otorgados por las comunidades autónomas.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima.
+(Sin efecto)
+Se deja sin efecto la adicción de esta disposición por Resolución de 7 de agosto de 2020 que publica el Acuerdo de la Diputación Permanente del Parlamento de Cataluña por el que se deroga el Decreto-ley 28/2020, de 21 de julio. Ref. DOGC-f-2020-90351
+ Se añade por el art. 11 del Decreto-ley 28/2020, de 21 de julio. Ref. BOE-A-2021-1195
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Se deroga el artículo 5 del texto refundido de las leyes 12/1983, del 14 de julio; 26/1985, del 27 de diciembre, y 4/1994, del 20 de abril, en materia de asistencia y servicios sociales, aprobado por el Decreto legisla­tivo 17/1994, del 16 de noviembre.
+
+### Disposición final primera
+
+Disposición final primera. Previsiones presupuestarias.
+El Gobierno debe hacer las previsiones presupuestarias necesarias para poder atender las prestaciones sociales de carácter económico de derecho subjetivo.
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo.
+El Gobierno debe aprobar el desarrollo reglamentario de la presente ley en el plazo de tres meses desde su entrada en vigor. A partir de este desarrollo, los posibles beneficiarios de las prestaciones pueden formular las solicitudes para percibir las correspondientes ayudas sociales de carácter económico.
+
+### Disposición final tercera
+
+Disposición final tercera. Pago de las prestaciones de derecho subjetivo
+Las prestaciones de derecho subjetivo previstas por los artículos 20, 21 y 23 deben pagarse con efecto del 1 de enero de 2006. El plazo para solicitar el pago de los atrasos derivados de este reconocimiento de efecto comienza en la fecha de entrada en vigor del decreto correspondiente y finaliza, en cualquier caso, el 31 de diciembre de 2007. Este plazo tiene la consideración de plazo de caducidad, a todos los efectos. Las solicitudes presentadas después de esta fecha tienen los efectos económicos previstos por el artículo 16.4 de la presente ley. Los atrasos correspondientes al año 2006 deben haberse pagado antes del 31 de diciembre de 2007, siempre que la tramitación administrativa lo permita.
+Se modifica por el art. 26.6 de la Ley 5/2007, de 4 de julio. Ref. BOE-A-2007-14803.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente ley entra en vigor al día siguiente de su publicación en el Diari Oficial de la Generalitat de Catalunya.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 27 de julio de 2006.–El Presidente, Pasqual Maragall i Mira.–La Consejera de Bienestar y Familia, Carme Figueras i Siñol.
+(Publicada en el «Diario Oficial de la Generalidad de Cataluña» número 4691, de 4 de agosto de 2006)

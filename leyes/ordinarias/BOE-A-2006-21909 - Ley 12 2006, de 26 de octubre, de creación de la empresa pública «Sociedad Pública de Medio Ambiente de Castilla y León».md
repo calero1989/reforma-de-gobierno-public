@@ -1,0 +1,114 @@
+# Ley 12/2006, de 26 de octubre, de creación de la empresa pública «Sociedad Pública de Medio Ambiente de Castilla y León».
+
+- Identificador BOE: `BOE-A-2006-21909`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2006-21909
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta que la "Sociedad Pública de Medio Ambiente de Castilla y León S.A.", pasa a denominarse «Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León, S.A.", según se establece en la disposición final 3.1 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 16.4 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+La Comunidad de Castilla y León tiene competencia exclusiva en materia de caza, pesca y protección de los ecosistemas en los que se desarrollen estas actividades; también tiene competencia exclusiva para programar, aprobar y tramitar las inversiones en obras públicas de su interés, entre ellas las de abastecimiento y saneamiento de aguas, en relación con la función de ayuda a las Corporaciones Locales.
+En materia de montes, aprovechamientos y servicios forestales, vías pecuarias y espacios naturales protegidos, la Comunidad Autónoma tiene atribuidas competencias de desarrollo legislativo y ejecución, así como en materia de protección del medio ambiente y los ecosistemas y para aprobar normas adicionales de protección.
+Al amparo de esta última competencia, la Comunidad Autónoma realiza funciones de desarrollo normativo y ejecución en materia de residuos, de protección del medio ambiente atmosférico, de prevención ambiental, o de evaluación de impacto ambiental.
+La necesidad de desarrollar una acción eficaz en materia de medio ambiente en el ámbito territorial de la Comunidad Autónoma determinó la creación de la Consejería de Medio Ambiente, a la que le compete promover, proyectar, dirigir, coordinar, ejecutar e inspeccionar la política de medio ambiente, abastecimiento de agua a las poblaciones, depuración de aguas residuales, montes, caza, pesca y conservación de la naturaleza. A tal efecto, tiene atribuidas las competencias, funciones y servicios asumidos por la Comunidad, así como los que en su día se asuman, relativos a dichas materias y cuantas otras pudieran corresponderle en el marco de la Constitución y del Estatuto de Autonomía.
+No obstante, sin perjuicio de que la Consejería de Medio Ambiente ejerza las competencias antes citadas, la necesidad de garantizar la protección y conservación del medio ambiente, en su doble manifestación de medio natural y de calidad ambiental, tanto en el momento actual como en el futuro, atendiendo a los condicionantes cualitativos y cuantitativos que vienen impuestos desde las esferas normativa, tecnológica, financiera y económica y de la eficiencia, hacen preciso que la Administración Pública intervenga en el sector medioambiental dotándose de un instrumento que incorpore las normas de derecho privado a la gestión pública, que sea capaz de adaptarse con la suficiente celeridad a la realidad sobre la que ha de actuar.
+Asimismo, ese instrumento debe poner en marcha nuevas fórmulas de ejecución y financiación de las inversiones necesarias para la Región, que permitan mitigar la reducción de la financiación de las actuaciones medioambientales a través de los Fondos Estructurales y de Cohesión en el próximo marco de apoyo comunitario. Tales fórmulas deberán integrar de forma eficaz las aportaciones de las diferentes Administraciones Públicas con las de los usuarios y, en su caso, con las de la iniciativa privada.
+A estos efectos, al amparo de lo dispuesto en los artículos 32.1.21.ª y 53.2 del Estatuto de Autonomía de Castilla y León y en los artículos 83, 84 y 92 a 94 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, el medio que se considera más adecuado para alcanzar los fines anteriormente expuestos es la creación de una sociedad mercantil con la cualidad de empresa pública.
+
+### Artículo 1
+
+Artículo 1. Creación.
+Se autoriza la constitución de la empresa pública «Sociedad Pública de Medio Ambiente de Castilla y León», con carácter de sociedad anónima y con la referida denominación, la cual se adscribirá a la Consejería competente en materia de medio ambiente.
+
+### Artículo 2
+
+Artículo 2. Objeto social.
+1. La empresa pública «Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León» tendrá como objeto social:
+a) La realización de todo tipo de trabajos, explotaciones, obras, estudios, informes, proyectos, dirección de obras, consultorías, asistencias técnicas y servicios relacionados con la promoción, protección, conservación, regeneración o mejora del medio ambiente, en los ámbitos del medio natural, de la calidad ambiental, de los yacimientos minerales y recursos geológicos y de las infraestructuras hidráulicas y ambientales, bien por encargo de la Administración General de la Comunidad de Castilla y León, o bien por decisión libre, en el propio ejercicio de la actividad correspondiente al objeto social de la empresa, en el marco de la política ambiental de la Comunidad y con la finalidad de lograr la máxima eficiencia en la financiación de las inversiones públicas.
+b) La realización de todo tipo de trabajos, obras, estudios, informes, proyectos, consultorías, asistencias técnicas y servicios relacionados con las tecnologías de la información y la comunicación.
+c) Proyectar, promocionar, construir, reformar, rehabilitar, conservar y explotar edificaciones, obras e infraestructuras de transporte y logística, así como la gestión y explotación de los servicios relacionados con aquéllas.
+d) Adquirir y gestionar suelo, redactar instrumentos de ordenación del territorio y de planeamiento y gestión urbanística, así como gestionar las correspondientes actuaciones hasta la enajenación de los solares resultantes.
+e) Realizar la actuación urbanizadora en suelo residencial, industrial, logístico y dotacional, y la posible gestión y explotación de obras y servicios resultantes de dicha actuación.
+f) Desarrollar, ejecutar y explotar las instalaciones e infraestructuras medioambientales, incluidas las relacionadas con el aprovechamiento y uso de las energías renovables, asociadas a las áreas industriales.
+g) Fomentar, promover, construir, enajenar y arrendar viviendas acogidas a algún régimen de protección pública o incluidas en programas de fomento de acceso a la vivienda, para lo que se podrán conceder garantías, u otras ayudas que permitan reducir el coste financiero, en operaciones de crédito formalizadas con entidades financieras por los beneficiarios de dichos programas; todo ello conforme a lo previsto en la Ley 2/2006, de 3 de mayo, de la Hacienda y del Sector Público de la Comunidad de Castilla y León.
+h) La gestión de los servicios públicos en materia medioambiental que le puedan ser atribuidos por la Administración General de la Comunidad de Castilla y León, cuando ello redunde en una mejor prestación de los mismos.
+i) La explotación propia o en arrendamiento de centrales de producción de energía térmica y/o eléctrica para la venta de energía, mediante sistemas de generación conjunta o utilización de energías renovables que supongan una mejora de la eficiencia en el uso de la energía o en la utilización de recursos autóctonos, así como la promoción, explotación e inversión en proyectos de desarrollo o prestación de servicios de energías renovables y de eficiencia energética.
+j) La exploración e investigación de yacimientos minerales y recursos geológicos ubicados en la Comunidad de Castilla y León para su posterior aprovechamiento propio o por terceros.
+k) La realización de todo tipo de trabajos, obras, estudios, informes, proyectos, dirección de obras, consultorías, asistencias técnicas y servicios para la construcción, reforma o ampliación de infraestructuras sanitarias.
+l) La realización de cualquier otra actividad complementaria, análoga o relacionada con los fines anteriores.
+2. La sociedad podrá realizar cualquier actividad lícita para la consecución de su objeto social y, en especial, constituir sociedades y participar en otras ya constituidas que tengan fines relacionados con el objeto social de la empresa, firmar convenios y acuerdos con las Administraciones Públicas y con particulares, así como asumir la condición de agente urbanizador, adquirir, enajenar o permutar suelo y cualesquiera bienes muebles e inmuebles por cualquier título, incluida la expropiación forzosa, a cuyos efectos deberá ostentar la condición de beneficiaria, correspondiendo la facultad expropiatoria a la Administración Pública correspondiente.
+Se modifica el apartado 1.g) por el art. 19 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Se modifica el apartado 1 por el art. 6 del Decreto-ley 2/2022, de 23 de junio. Ref. BOCL-h-2022-90195
+ Se modifica por la disposición final 3.2 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665.
+ Se modifica el apartado 1 por la disposición final 3.1 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394.
+
+### Artículo 3
+
+Artículo 3. Capital social.
+1. El capital social fundacional será de 5.000.000 euros, y será suscrito íntegramente por la Administración General de la Comunidad de Castilla y León, y dividido en acciones nominativas, cuyo valor nominal será decidido en los correspondientes estatutos.
+El 25 % del capital social se desembolsará con carácter previo a la constitución de la sociedad, y el resto en la forma y plazo que se establezca en los estatutos sociales.
+2. El capital social de la «Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León» será íntegramente de titularidad pública.
+La Administración General de la Comunidad de Castilla y León podrá enajenar sus títulos representativos en el capital social de esta Sociedad Pública a las Diputaciones Provinciales de Castilla y León y a los Ayuntamientos de Castilla y León con una población mayor a 20.000 habitantes, previo cumplimiento de lo establecido en los artículos 131 y 132 de la Ley 11/2006, de 26 de octubre, del Patrimonio de la Comunidad de Castilla y León.
+Las Diputaciones Provinciales y los Ayuntamientos a los que se refiere el párrafo anterior solo podrán enajenar su participación a favor de la Administración General de la Comunidad Autónoma o de quién ésta autorice de entre los anteriores.
+Se modifica por el art. 6.1 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+
+### Artículo 4
+
+Artículo 4. Régimen jurídico.
+1. La sociedad se regirá íntegramente por el ordenamiento jurídico privado, salvo en las materias que le sea de aplicación la normativa presupuestaria, contable, de control financiero y de contratación pública. En ningún caso podrá disponer de facultades que impliquen el ejercicio de potestades públicas.
+2. La selección del personal de la sociedad quedará en todo caso sometida a los principios de publicidad, mérito y capacidad.
+
+### Artículo 5
+
+Artículo 5. Régimen de actuación como medio propio personificado.
+1. La "Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León" podrá tener la consideración de medio propio personificado de:
+a) La Administración General de la Comunidad de Castilla y León.
+b) Las Diputaciones Provinciales de Castilla y León.
+c) Los Ayuntamientos de Castilla y León con una población superior a 20.000 habitantes.
+d) Las entidades del sector público dependientes de cualquiera de las anteriores que tengan la condición de poderes adjudicadores.
+Para ser medio propio personificado de estas Administraciones y entidades deberán cumplirse los requisitos previstos en la normativa de contratos del sector público. A estos efectos, los estatutos de la Sociedad preverán que, al menos, dos representantes de los entes locales formarán parte del Consejo de Administración de la Sociedad.
+Igualmente deberá constar que el poder adjudicador que realiza el encargo participa en el capital social de la ''Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León''. No obstante, en el caso de las entidades indicadas en la letra d), solo será necesaria la participación de la Administración Pública de la que dependan.
+La "Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León" estará obligada a realizar, por sí misma o a través de terceros, los trabajos que, en las materias que constituyen su objeto social, le encarguen dichas Administraciones y entidades.
+2. Las relaciones de la «Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León» con los poderes adjudicadores de los que es medio propio personificado tienen naturaleza instrumental y no contractual, articulándose a través de encargos de los previstos en la normativa de contratos del sector público, por lo que, a todos los efectos, son de carácter interno, dependiente y subordinado.
+3. El régimen jurídico y administrativo de los encargos que puedan conferirse a la "Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León" será el previsto en esta Ley, en la normativa de contratos del sector público, en el artículo 48 ter de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, en las disposiciones de carácter reglamentario y en los estatutos de la Sociedad.
+Los encargos se realizarán mediante la correspondiente resolución del órgano competente en cada caso, en la que se deberá incluir, al menos, las actuaciones a realizar, la forma y condiciones de su realización, el plazo de ejecución, la compensación económica fijada en base a las tarifas debidamente aprobadas por la Administración Autonómica y su forma de pago. En el expediente que se tramite deberán cumplirse cuantos requisitos sean exigidos por la normativa aplicable en cada caso.
+4. Las Diputaciones Provinciales podrán realizar encargos a la "Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León" tanto para el desarrollo de competencias propias como para el desarrollo de competencias municipales de los Ayuntamientos con población igual o inferior a 20.000 habitantes, al amparo del artículo 36 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, y demás normativa reguladora de las entidades locales. En este último supuesto, el encargo lo realizará la Diputación Provincial, debiendo especificar en el mismo qué derechos y obligaciones asume la propia Diputación y cuáles el Ayuntamiento beneficiario.
+5. La Sociedad no podrá participar en los procedimientos para la adjudicación de contratos convocados por las entidades de las que es medio propio personificado. No obstante, cuando no concurra ningún licitador podrá encargarse a esta Sociedad la ejecución de la actividad objeto de licitación pública.
+Se modifica por el art. 6.2 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+ Se modifica por la disposición final 15 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se añade el apartado 3 por la disposición final 3 de la Ley 19/2010, de 22 de diciembre. Ref. BOE-A-2011-556.
+ Se modifica el apartado 1 por la disposición final 3.2 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2009-2394.
+
+### Artículo 6
+
+Artículo 6. Financiación.
+Para su financiación, la Sociedad contará con los siguientes recursos:
+a) Los de su propio capital.
+b) Las consignaciones presupuestarias que le sean asignadas por los Presupuestos Generales de la Comunidad.
+c) Los ingresos procedentes de las actividades comerciales que la Sociedad pueda realizar.
+d) Las aportaciones de otros organismos, entidades y empresas que presten su colaboración.
+e) Las operaciones de crédito que se concierten.
+f) Las subvenciones y ayudas de cualquier clase y procedencia que puedan percibirse, y los ingresos procedentes de las Administraciones Públicas.
+g) Las compensaciones económicas que reciba como consecuencia de los encargos realizados en su condición de medio propio personificado en los términos establecidos en la normativa de contratos del sector público.
+h) Cualquier otro recurso que pueda serle atribuido.
+Se modifica por el art. 6.3 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+
+### Disposición adicional
+
+Disposición adicional. Habilitación.
+Se autoriza a la Junta de Castilla y León para adoptar los acuerdos pertinentes para la ejecución de lo previsto en esta ley.
+
+### Disposición final
+
+Disposición final. Entrada en vigor.
+Esta ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Castilla y León».
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 26 de octubre de 2006.
+El Presidente,
+Juan Vicente Herrera Campo.

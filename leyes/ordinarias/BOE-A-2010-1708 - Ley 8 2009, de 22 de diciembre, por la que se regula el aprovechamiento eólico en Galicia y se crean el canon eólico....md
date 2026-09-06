@@ -1,0 +1,1035 @@
+# Ley 8/2009, de 22 de diciembre, por la que se regula el aprovechamiento eólico en Galicia y se crean el canon eólico y el Fondo de Compensación Ambiental.
+
+- Identificador BOE: `BOE-A-2010-1708`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2010-1708
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Exposición de motivos
+I
+La Comunidad Autónoma de Galicia tiene regulado el aprovechamiento de la energía eólica a través del Decreto 242/2007, de 13 de diciembre, en el que, entre otros aspectos, se estimula la participación del sector público en el capital social del proyecto de las empresas que, en virtud del procedimiento que diseña, resulten autorizadas para instalar parques eólicos generadores de energía eléctrica en nuestra comunidad autónoma.
+Tal participación, concebida por el Consejo Consultivo de Galicia en su Dictamen 727/2007 como una tacha de legalidad directa e infranqueable, además de suponer la transmisión de acciones o participaciones mediante distintos negocios jurídicos que requieren compromisos ciertos de elevados fondos públicos, también implica compartir decisiones en decenas de consejos de administración ajenos a la Administración autonómica, en definitiva, ser socio e intervenir en estrategias empresariales privadas en un sector que la normativa básica de aplicación, Ley 54/1997, de 27 de noviembre, del sector eléctrico, abandonando la noción de servicio público, considera expresamente, artículo 2.1, de libre iniciativa empresarial.
+Una escrupulosa observancia y respeto de la liberalización del sector y la consideración de que el interés público de Galicia puede y debe encontrarse mejor reflejado y en armonía plena con el ordenamiento jurídico son causa y razón suficientes para justificar el distanciamiento del procedimiento ideado por el decreto e iniciado por la orden de aplicación al fin de encontrar otras fórmulas, otros modelos más racionales, más perfectos, más rectos.
+La energía eólica, en su consideración de renovable, es decir, en su condición de energía procedente de una fuente inagotable, y en atención a su carácter de limpia, al no producir efectos contaminantes a la atmósfera, es un activo que debe ser impulsado/estimulado desde los poderes públicos. Que esto sea así no implica que su implantación sea totalmente inocua. En efecto, la instalación de aerogeneradores supone servidumbres, cargas inevitables para el entorno, el medio natural, el paisaje y el hábitat en el que se localizan, que en parte deviene transformado no sólo como consecuencia del impacto visual producido por la existencia de los aerogeneradores, sino también como resultado de las infraestructuras que esos elementos requieren, como son los caminos de acceso y las líneas de evacuación.
+Esta alteración ambiental de los perfiles de los horizontes, esta deseconomía, debe ser reparada mediante el establecimiento de una compensación en favor de las concretas áreas territoriales que soportan y sostienen la implantación de parques eólicos, resarcimiento que básicamente debe nutrirse de los ingresos generados por la institución de un tributo medioambiental denominado canon eólico, prestación patrimonial pública de naturaleza finalista y extrafiscal concebida como instrumento adecuado destinado a internalizar los costes sociales y ambientales mencionados y dirigido a estimular y promover la incorporación de las nuevas tecnologías en los aerogeneradores, de tal modo que la mayor potencia unitaria de estas repotenciaciones dé lugar a la reducción de su número, en definitiva, a proteger el medio ambiente, artículo 45.2 de la Constitución.
+Se justifica plenamente la creación del canon eólico al configurarse esta prestación como tributo de naturaleza extrafiscal, se define su hecho imponible como la generación de afecciones e impactos ambientales adversos sobre el medio natural y, por ende, sobre el territorio, a través de la instalación de los bienes afectos a la producción de energía eólica.
+Como se viene adelantando, paralelamente al canon se crea el Fondo de Compensación Ambiental, que se integrará esencialmente con los recursos derivados del canon eólico. Se articula como medio que facilita la compatibilidad del desarrollo eólico con las actuaciones de reparación del entorno y con la ordenación del territorio, definida ya como objetivo por el vigente Plan sectorial eólico de Galicia en su memoria justificativa. En consecuencia, serán principales beneficiarios del fondo los entes locales cuyo término municipal se encuentre dentro de la línea de delimitación poligonal de un parque eólico, también los afectados por sus instalaciones de evacuación.
+La presente ley, además de concebir el nuevo modelo de aprovechamiento eólico descrito en los párrafos precedentes, pretende también regular las líneas esenciales del procedimiento que debe seguirse para la autorización de las instalaciones de parques eólicos.
+Supuesta la competencia autonómica para la ordenación del procedimiento y de acuerdo con la Directiva 2009/72/CE, de 13 de julio, sobre normas comunes para el mercado interior de la electricidad, la presente ley conforma un procedimiento de autorización administrativa precedido de un trámite de selección competitiva que, sin desvirtuar la naturaleza autorizatoria del procedimiento, se adecua a la especificidad del sector de la energía eólica. La seguridad del suministro, manifestada en limitaciones derivadas del cupo y de las redes de transporte, la protección ambiental, la promoción de las nuevas tecnologías y, en general, las potestades administrativas de planificación en la materia derivadas de las obligaciones del sector público justifican sobradamente la adopción del procedimiento elegido, que, asimismo, desde una planificación racional de los tiempos a seguir y de las necesidades a satisfacer, contempla convocatorias periódicas para autorizaciones de parques eólicos por grupos de ADE.
+En este mismo sentido es preciso resaltar que el Tribunal Supremo ha examinado la materia de la energía eólica en pronunciamientos recientes, de entre los que hay que destacar la sentencia de 30 de enero de 2007, en la que respecto del sector eléctrico reconoce «una cierta intervención pública» y el carácter de «sector necesariamente regulado», señala que la circunstancia de que las autorizaciones tengan carácter reglado y se rijan por los principios de objetividad, transparencia y no discriminación «no es incompatible con la exigencia de que aquéllos que las soliciten deban acreditar, entre otros extremos, las condiciones de eficiencia energética de las instalaciones propuestas».
+La Directiva 2006/123/CE, de 12 de diciembre, relativa a los servicios en el mercado interior, aunque no resulte directamente aplicable a este sector, admite, utilizando la misma lógica, la opción de autorización con selección «cuando el número de autorizaciones disponibles para una determinada actividad esté limitado debido a la escasez de recursos naturales o de las capacidades técnicas que se puedan emplear».
+La regulación por la presente ley del nuevo procedimiento a seguir es una necesidad impuesta por la instauración de este renovado modelo de aprovechamiento eólico que, como ya apuntamos, prescinde de la participación pública como criterio de valoración en las autorizaciones, extremo éste de sustancial relevancia en el anterior. Esta diferente ordenación de los trámites viene además requerida por las recientes exigencias normativas de simplificación y agilización de este tipo de procesos.
+En efecto, el Real Decreto-ley 6/2009, de 30 de abril, por el que se adoptan determinadas medidas en el sector energético y se aprueba el bono social, prevé la planificación y agilización de instalaciones como medida para garantizar la sostenibilidad económica del sistema eléctrico en el ámbito del régimen especial. El nuevo registro de preasignaciones previsto en dicho real decreto ley y su carácter cronológico justifican sobradamente esta conveniencia.
+En similar sentido, la Directiva 2009/28/CE, de 23 de abril, relativa al fomento del uso de energía procedente de fuentes renovables, además de definir como objetivo obligatorio para el año 2020 una cuota del 20% de energías procedentes de esas fuentes, prevé que con ese fin los estados miembros adopten las medidas apropiadas para garantizar que los procedimientos administrativos se racionalicen y se aceleren en el nivel administrativo adecuado.
+Pues bien, este objetivo de agilización administrativa se consigue mediante una regulación racional y simplificada de las distintas fases que no necesariamente deben producirse en un único procedimiento. Con ello se supera la complejidad y consiguiente confusión/dificultad generada por la normativa precedente, garantizándose, a la par, los principios de concurrencia y transparencia en un contexto de amplia seguridad jurídica.
+En la misma razón, no podemos obviar que la exigencia de la certeza jurídica resulta reforzada mediante la previsión de convocatorias limitadas a áreas de desarrollo eólico en las que desde la propia administración se garanticen el respeto a los requisitos ambientales, la suficiencia de recursos de viento y la posibilidad técnica de evacuación de la energía generada en los parques.
+La incompatibilidad del nuevo modelo de aprovechamiento eólico con el hasta ahora vigente basado, entre otros aspectos, en la participación pública en capitales sociales ajenos a sus intereses, la pluralidad de convocatorias con ámbitos territoriales limitados frente a una sola de carácter global, la obligación de que no llegue a consolidarse el procedimiento anterior incurso en una manifiesta incertidumbre jurídica, la creación del canon eólico y del Fondo de Compensación Ambiental como instrumentos de protección medioambiental y las consecuentes modificaciones procedimentales articuladas en esta norma que agilizan los trámites de las autorizaciones de parques eólicos son, a juicio definitivo de la ley, cambios normativos sustanciales y razones justificadas de interés público que motivan la falta de base del procedimiento instruido al amparo del Decreto 242/2007, de 13 de diciembre, y de la Orden de 6 de marzo de 2008 y que determinan la imposibilidad de su continuación.
+En virtud de lo anterior, es voluntad y decisión de la ley acordar de manera expresa y unilateral el desistimiento y, en consecuencia, la finalización del actual procedimiento en curso declarando competente para materializar tal acto debido a la persona titular de la consejería con atribuciones en materia de energía.
+II
+La ley se estructura en cuarenta y cinco artículos, seis títulos, una disposición adicional, cuatro transitorias, una derogatoria y tres finales.
+El título I, artículos 1 a 4, establece disposiciones generales relativas al objeto, ámbito de aplicación y competencias y definiciones básicas para la interpretación de diferentes conceptos.
+El título II, artículos 5 y 6, relanza el concepto de planificación, especificando los criterios en que debe asentarse y regulando la figura del Plan sectorial eólico de Galicia como eje básico para la implantación de las instalaciones de energía eólica en nuestra comunidad autónoma.
+El título III, artículos 7 a 26, de acuerdo con el principio «quien contamina paga», contempla el establecimiento del canon eólico y del Fondo de Compensación Ambiental. El canon es un tributo ambiental que, partiendo de un umbral de tolerancia, pretende combatir las cargas que provoca la implantación de aerogeneradores. Tiene una finalidad reparadora garantizada por su afectación al Fondo de Compensación. De conformidad con lo señalado en el artículo 31.3 de la Constitución, el establecimiento de este ingreso público requiere de una norma con rango de ley formal que delimite no sólo el hecho imponible, sino también los demás elementos que incidan directa y determinantemente en la cuantía de la deuda, elementos todos ellos regulados a lo largo de estos artículos. Respecto al Fondo de Compensación Ambiental se instituyen normas definidoras de su naturaleza, procedencia de los ingresos que lo integran, actuaciones de inversión a las que se destina y órgano encargado de su gestión.
+El título IV, artículos 27 a 41, regula el régimen de autorización administrativa para la instalación de parques eólicos, con especial atención al procedimiento administrativo que debe seguirse y que se basa en una fase de selección previa de anteproyectos y en el otorgamiento final de la autorización. Prevé otros aspectos relevantes como el régimen de fianzas y la transmisión de las autorizaciones eólicas.
+El título V, artículos 42 y 43, se refiere a la inclusión en el régimen especial de producción de energía eléctrica y a la consecuente inscripción en el correspondiente registro. Recoge la inclusión en el régimen especial.
+El título VI, artículos 44 y 45, prevé las normas básicas sobre expropiación y servidumbres, como procedimientos asociados a las autorizaciones de parques eólicos.
+La disposición adicional modifica el apartado 37 del anexo 3 de la Ley 6/2003, de 9 de diciembre, de tasas, precios y exacciones reguladoras en la Comunidad Autónoma de Galicia.
+La disposición transitoria primera mandata al consejero competente en materia de energía para desistir del procedimiento incoado para la obtención de autorizaciones de parques eólicos que se está tramitando en el momento de aprobación de la presente norma.
+La disposición transitoria segunda asimila ciertos espacios a las áreas de desarrollo eólico en tanto no se apruebe un nuevo plan sectorial eólico de Galicia y pretende garantizar los derechos adquiridos al amparo de la normativa anterior por aquellos promotores convertidos en titulares de planes eólicos empresariales actualmente aún vigentes o no agotados.
+La disposición transitoria tercera considera vigente el actual Plan sectorial eólico de Galicia en tanto no se apruebe un nuevo plan y en todo lo que no se oponga a lo dispuesto en la presente ley.
+La disposición transitoria cuarta contiene previsiones en relación con los parques eólicos y parques eólicos singulares admitidos a trámite al amparo del Decreto 302/2001, de 25 de octubre, y de la Orden de 29 de octubre de 2002.
+La disposición derogatoria única suprime la vigencia del Decreto 242/2007, de 13 de diciembre, por el que se regula el aprovechamiento eólico en la Comunidad Autónoma de Galicia.
+La disposición final primera habilita a los órganos de la Administración autonómica para adoptar las disposiciones reglamentarias precisas para el desarrollo de la ley.
+La disposición final segunda posibilita la modificación de cualquier elemento del canon eólico a través de la Ley de presupuestos de la Comunidad Autónoma de Galicia.
+La disposición final tercera dispone la fecha de entrada en vigor de la ley.
+III
+El marco competencial en que se encuadra la presente ley viene constituido por el Estatuto de autonomía de Galicia, que en su artículo 27.13, sin perjuicio de lo dispuesto en el artículo 149.1. 22 y 25 de la Constitución, otorga a nuestra Comunidad la competencia exclusiva sobre las instalaciones de producción y las instalaciones de distribución y transporte secundario de energía eléctrica, cuando éstas no salgan del territorio de Galicia y su aprovechamiento no afecte a otra provincia o comunidad autónoma. El artículo 28.3 de la misma norma reconoce a Galicia la competencia para el desarrollo legislativo y la ejecución de la legislación del Estado en materia de régimen minero y energético.
+La competencia de la Comunidad Autónoma de Galicia para el establecimiento del canon eólico tiene su cobertura en los artículos 133.2, 148.1.9.ª, 149.1.23 y 157.1.b) de la Constitución, en los artículos 10.1, 27.3 y concordantes del Estatuto de autonomía, en el artículo 17.b) de la Ley orgánica 8/1980, de 22 de septiembre, de financiación de las comunidades autónomas, y en la autonomía financiera que el artículo 156.1 de la norma fundamental reconoce a las mismas en el marco de su ámbito competencial, en este supuesto, dentro del contexto medioambiental; esto es, en un doble título, de una parte, en la competencia de la Comunidad Autónoma de Galicia para aprobar normas adicionales sobre protección del medio ambiente y el paisaje, y, de otra, en su intrínseca potestad tributaria.
+En este escenario competencial, considerando lo dispuesto en la Ley 54/1997, de 27 de noviembre, reguladora del sector eléctrico, visto el Decreto 1955/2000, de 1 de diciembre, que la desarrolla, al fin de que el aprovechamiento de la energía eólica se realice con arreglo al nuevo modelo diseñado y trazado en los párrafos anteriores y con el ánimo resuelto de afianzar a Galicia en el liderazgo de la producción de energía eólica, procede llevar a cabo esta regulación normativa.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.2 del Estatuto de Galicia y con el artículo 24 de la Ley 1/1983, de 23 de febrero, reguladora de la Xunta y de su Presidencia, promulgo en nombre del Rey, la Ley por la que se regula el aprovechamiento eólico en Galicia y se crean el canon eólico y el Fondo de Compensación Ambiental.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto regular en el ámbito de la Comunidad Autónoma de Galicia:
+a) La planificación del aprovechamiento de la energía eólica mediante la elaboración del Plan sectorial eólico de Galicia.
+b) El canon eólico y el Fondo de Compensación Ambiental, como instrumentos para garantizar el equilibrio territorial afectado por la instalación de parques eólicos y la sostenibilidad de los valores naturales.
+c) El establecimiento de un procedimiento para la autorización administrativa de las instalaciones de parques eólicos, basado en los principios de libre competencia, transparencia, simplicidad, publicidad y agilización administrativa, que garantice el pleno respeto a la seguridad jurídica.
+d) Otras cuestiones conexas con el régimen autorizatorio como el procedimiento para la declaración de utilidad pública de las instalaciones en los procedimientos de expropiación.
+Se modifica el apartado 1.c) por la disposición final 7.1 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+A los efectos de interpretación de la presente ley se tendrán en cuenta las siguientes definiciones:
+1. Parque eólico: instalación de producción de electricidad a partir de energía eólica, constituida por uno o varios aerogeneradores interconectados eléctricamente con líneas propias, que comparten una misma estructura de accesos y control, con medición de energía propia, así como con la obra civil necesaria.
+2. Plan sectorial eólico de Galicia: instrumento de ordenación del territorio, de incidencia supramunicipal, cuyo objetivo es el de regular y ordenar la implantación territorial de parques eólicos. El Plan sectorial eólico de Galicia integra las diferentes áreas de desarrollo eólico (ADE) para garantizar una adecuada inserción de las infraestructuras e instalaciones de los parques eólicos en el territorio.
+3. Área de desarrollo eólico (ADE): espacio territorial, delimitado en coordenadas UTM y comprendido dentro del ámbito del Plan sectorial eólico de Galicia, susceptible de acoger a uno o a varios parques eólicos dedicados a la actividad de producción de energía eléctrica en régimen especial.
+4. Aerogenerador: conjunto mecánico instalado en un parque eólico compuesto esencialmente de zapata, torre, palas y góndola que transforma la energía eólica del viento en energía eléctrica mediante rotores de palas que, a través de un sistema de transmisión mecánico, giran el rotor de un generador convirtiendo la energía mecánica rotacional en energía eléctrica.
+5. Instalaciones de conexión: según se define en el artículo 30 del Real decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, se entiende por instalaciones de conexión de centrales de generación aquellas que sirvan de enlace entre una o varias centrales de generación de energía eléctrica y la correspondiente instalación de transporte o distribución, incluyendo líneas y subestaciones.
+6. Poligonal de delimitación de un parque eólico: área efectivamente afectada por la instalación de un parque eólico determinada en su proyecto de ejecución.
+Se modifican los apartados 5, 6 y se deroga el apartado 7 por la disposición final 7.2 y derogatoria 1.b) de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 3
+
+Artículo 3. Ámbito de aplicación.
+1. Quedan sometidas a lo dispuesto en la presente ley aquellas instalaciones de producción de electricidad obtenida de la energía eólica cuya autorización, conforme a lo previsto en el artículo 27.13 del Estatuto de autonomía, sea competencia de la Comunidad Autónoma. Al resto de instalaciones del mismo tipo situadas en el territorio de Galicia les serán de aplicación en todo caso las disposiciones del título II, III y V de la presente ley.
+2. Quedan excluidos del ámbito de aplicación de la presente ley:
+a) Las instalaciones eólicas de potencia menor o igual a 100 kW.
+b) Los parques eólicos experimentales que lleven asociado un alto componente de investigación en I+D+i, definidos en el artículo 3 del Decreto 30/2011, de 17 de febrero, por el que se establece el procedimiento para la autorización de parques eólicos experimentales con alto componente de I+D+i en la Comunidad Autónoma de Galicia, o norma que lo sustituya.
+c) Las instalaciones de generación eólica para el autoconsumo sin excedentes.
+Se modifica la letra c) del apartado 2 por el art. 39.1 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifica el apartado 1 por la disposición final 6.1 de la Ley 9/2021, de 25 de febrero. Ref. BOE-A-2021-5210#df-6
+ Se modifica el apartado 2 por la disposición final 7.3 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 4
+
+Artículo 4. Competencia.
+La planificación del aprovechamiento de la energía eólica en Galicia será aprobada por el Consejo de la Xunta de Galicia a propuesta de la consejería competente en materia de planificación energética.
+Corresponde a la consejería competente en materia de instalaciones de producción de energía eólica tramitar y resolver, como órgano con competencia principal, las solicitudes que se presenten al amparo de lo dispuesto en esta ley, sin perjuicio de las competencias que puedan corresponder a otros órganos de las administraciones públicas.
+Se modifica por el art. 30.1 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+## TÍTULO II
+
+Planificación del aprovechamiento eólico en Galicia
+
+### Artículo 5
+
+Artículo 5. Criterios de planificación.
+1. La planificación del aprovechamiento de la energía eólica en Galicia se realizará atendiendo a los siguientes criterios:
+a) Estimación del potencial eólico del territorio de la Comunidad Autónoma de Galicia sobre la base de los estudios ya realizados, el Atlas eólico realizado por el IDAE, Ministerio de Industria, Turismo y Comercio, y los datos obtenidos por la Administración autonómica a través del Instituto Energético de Galicia, Inega.
+b) Infraestructura eléctrica necesaria para absorber la energía producida, planificada de forma que incida favorablemente en la estructura de distribución eléctrica de las áreas afectadas por la explotación de los recursos eólicos.
+c) Integración con todos los ámbitos sectoriales afectados por la implantación de parques eólicos, con especial referencia a la inserción en el territorio de las instalaciones eólicas.
+d) Impacto medioambiental.
+e) Repercusión sobre el tejido industrial de Galicia y el desarrollo socioeconómico y tecnológico.
+f) Desarrollo armónico de los proyectos de implantación de parques eólicos que permita una implantación de las infraestructuras eléctricas e industriales.
+2. El resultado de esta planificación se plasmará en el Plan sectorial eólico de Galicia.
+
+### Artículo 6
+
+Artículo 6. El Plan sectorial eólico de Galicia.
+1. El Plan sectorial eólico de Galicia es el instrumento de ordenación del territorio que tiene por objeto ordenar y regular la implantación territorial de todas las infraestructuras e instalaciones necesarias para el aprovechamiento de la energía renovable eólica en Galicia y, en especial, de los parques eólicos, en el marco de las competencias de la Comunidad Autónoma, estableciendo los criterios de emplazamiento y, en su caso, las características que garanticen la funcionalidad y su coherente distribución territorial, compatible con la preservación de su patrimonio natural, de forma que tal previsión quede enmarcada dentro de una política global de ordenación del territorio, con la necesaria coordinación de los intereses sectoriales concurrentes y, en particular, la coordinación de los distintos títulos de intervención pública sectoriales de energía renovable, ambiental, territorial y urbanística.
+2. Las finalidades generales del Plan sectorial serán las siguientes:
+a) Promover e impulsar el despliegue y el desarrollo de la energía eólica en Galicia, como energía renovable, teniendo en cuenta su papel esencial en el cumplimiento de los objetivos de reducción de las emisiones netas de gases de efecto invernadero y de neutralidad climática de la Unión Europea.
+b) Fomentar la contribución de la energía renovable a la reducción de la contaminación y a la protección, restauración y mejora del estado del medio ambiente, deteniendo y revirtiendo la pérdida de biodiversidad.
+c) Promover los beneficios sociales y económicos derivados del aprovechamiento de las energías renovables en Galicia, mediante la creación de nuevos puestos de trabajo sostenibles, la modernización y el desarrollo económicos, el desarrollo de ecosistemas industriales y el fomento de las industrias locales.
+d) Contribuir a la reducción de costes de la energía y a la reducción de la dependencia energética de los consumidores locales e industriales de las zonas ubicadas en el ámbito de influencia de los proyectos, fomentando la constitución de comunidades de energías renovables y reduciendo la dependencia y la pobreza energéticas, así como a garantizar, en general, la disponibilidad de una parte de la energía generada por los parques eólicos por parte de los consumidores gallegos con precios estables a medio y largo plazo, evitando la variabilidad de los costes energéticos.
+e) Promover el desarrollo local y el acceso a la energía en zonas rurales y ayudar a la lucha contra la despoblación y a fijar población en el medio rural mediante el impulso de la economía local.
+f) Promover la aceptación pública de los proyectos de energías renovables mediante la participación directa e indirecta de las comunidades locales en dichos proyectos.
+g) Favorecer la cohesión territorial y social, luchando en particular contra el declive o el estancamiento de la población de las áreas rurales.
+h) La reducción del impacto de la implantación y explotación de las actividades en el medio ambiente, conforme a las normas de calidad medioambiental exigibles y a las mejores técnicas disponibles en cada momento.
+3. En particular, es objeto del Plan sectorial la identificación y determinación de las zonas idóneas para el aprovechamiento de la energía renovable eólica en Galicia, con el fin de recoger la previsión de localización de instalaciones e infraestructuras de energía eólica necesarias para lograr el máximo aprovechamiento del potencial renovable de Galicia.
+Las instalaciones necesarias para la producción y evacuación de la electricidad generada y las actuaciones que constituyen el objeto y ámbito del Plan sectorial se declaran de marcado carácter territorial y alcance supramunicipal.
+4. El Plan sectorial tendrá carácter integrador y se referirá, por tanto, al conjunto de actuaciones que, por su función o destino, requieran de una planificación u ordenación conjunta. A tal efecto, el ámbito territorial del Plan sectorial será la totalidad del territorio de la Comunidad Autónoma de Galicia.
+5. Atendiendo a su naturaleza, contenido y finalidad, no será preciso el desarrollo del Plan sectorial mediante proyectos de interés autonómico.
+6. No podrán implantarse parques eólicos fuera de las áreas incluidas en el Plan sectorial eólico de Galicia, a excepción de las modificaciones sustanciales de los parques en funcionamiento en los términos que se desarrollen reglamentariamente, así como aquellos proyectos que tengan una clara incidencia territorial por su entidad económica y social, posean una función vertebradora y estructurante del territorio y sean declarados como tales por el Consejo de la Xunta de Galicia, a propuesta de la consejería competente en materia de planificación energética. Asimismo, podrán implantarse fuera de las áreas incluidas en el Plan sectorial eólico de Galicia los proyectos declarados de especial interés público social y económico que cumplan con lo establecido en el artículo 18.2 de la Ley 2/2024, de 7 de noviembre, de promoción de los beneficios sociales y económicos de los proyectos que utilizan los recursos naturales de Galicia.
+Se levanta la suspensión de la vigencia y aplicación del párrafo primero del apartado 3, en la redacción dada por el art. 30.2 de la Ley 5/2024, de 27 de diciembre, por Auto del TC 20/2026, de 24 de febrero. Ref. BOE-A-2026-7123
+ Se suspende la vigencia y aplicación del párrafo primero del apartado 3, en la redacción dada por el art. 30.2 de la Ley 5/2024, de 27 de diciembre, desde el 30 de septiembre de 2025 para las partes del proceso y desde el 4 de febrero de 2026 para los terceros, por providencia del TC de 27 de enero de 2026 que admite a trámite el recurso de inconstitucionalidad nº 6810-2025, Ref. BOE-A-2026-2549, aclarada por Providencia de 12 de febrero de 2026. Ref. BOE-A-2026-3379
+ Se modifica por el art. 30.2 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+ Se modifica la letra c) del apartado 2 por el art. 39.2 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifica el apartado 4 por la disposición final 6.2 de la Ley 9/2021, de 25 de febrero. Ref. BOE-A-2021-5210#df-6
+ Redactado conforme a la corrección de errores publicada en el DOG núm. 51, de 16 de marzo de 2021. Ref. DOG-g-2021-90115
+
+### Artículo 6 bis
+
+Artículo 6 bis. Contenido del Plan sectorial eólico de Galicia.
+1. El Plan sectorial eólico de Galicia contendrá, al menos, las siguientes determinaciones:
+a) Descripción del contexto e implantación territorial presentada por el sector y análisis del impacto de las actuaciones públicas y privadas producidas en el pasado y previstas para el futuro dentro del ámbito sectorial.
+b) Establecimiento de criterios de coordinación con otros sectores y con el marco general de la ordenación territorial establecido por las Directrices de ordenación del territorio.
+c) Delimitación de los ámbitos territoriales en que podrán localizarse las infraestructuras e instalaciones objeto del plan. A tal efecto, el Plan sectorial podrá establecer la clasificación y categorización del suelo de dichos ámbitos delimitados, cuando fuera condición misma para su efectividad.
+En particular, se delimitarán las zonas de aceleración renovable eólica.
+d) Descripción de las características generales de las infraestructuras, dotaciones o instalaciones previstas en el plan.
+e) Medidas de protección del medio ambiente, el patrimonio cultural y el paisaje, conforme a la normativa vigente.
+f) Determinación de las prioridades de actuación y definición de estándares y normas de distribución territorial, en su caso.
+g) Medidas para un desarrollo de la energía eólica compatible con el territorio y el desarrollo rural.
+h) En especial, se desarrollarán medidas e instrumentos que permitan la fijación de beneficios sociales y económicos en el territorio, convirtiendo el despliegue de la energía eólica en una herramienta al servicio de la cohesión territorial, favoreciendo las comunidades locales, el tejido industrial local, las pymes y las empresas de economía social.
+i) La obligación de los titulares de las autorizaciones de cumplir las condiciones y los requisitos que sean en cada momento de aplicación para reducir el impacto de la implantación y el desarrollo de las actividades en el medio ambiente, conforme a las normas de calidad medioambiental exigibles, así como a las condiciones generales que deban cumplirse en relación con el diseño, la construcción, el mantenimiento y la explotación de las actividades, de acuerdo con las mejores técnicas disponibles, entendiendo por tales las más eficaces para conseguir un alto nivel de protección general del medio ambiente en su conjunto, en condiciones económica y técnicamente viables, tomando en consideración los costes y los beneficios, siempre que el titular pueda tener acceso a ellas en condiciones razonables.
+j) Pautas y directrices para una eficaz coordinación, colaboración y cooperación administrativa.
+k) Supuestos de modificación del Plan sectorial y normas específicas para su seguimiento.
+2. La documentación del Plan sectorial se ajustará a lo establecido en el artículo 37 de la Ley 1/2021, de 8 de enero, de ordenación del territorio de Galicia.
+Se añade por el art. 30.3 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+### Artículo 6 ter
+
+Artículo 6 ter. Eficacia del Plan sectorial eólico de Galicia.
+1. Las determinaciones del Plan sectorial tendrán, en todo caso, la eficacia que sea congruente con su funcionalidad, expresando de forma clara e inequívoca el alcance con que deberán operar.
+2. El Plan sectorial podrá contener determinaciones de aplicación directa, que serán inmediatamente aplicables a los terrenos sobre los que incidan y que, como determinaciones de ordenación territorial, prevalecerán sobre las previsiones contrarias del planeamiento municipal.
+3. En particular, el Plan sectorial podrá precisar las condiciones de edificación y los requisitos aplicables a las instalaciones que constituyen su objeto, que prevalecerán sobre las previstas con carácter general en la normativa y en el planeamiento urbanísticos para el suelo rústico.
+Se añade por el art. 30.4 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+### Artículo 6 quater
+
+Artículo 6 quater. Evaluación ambiental y procedimiento de aprobación del Plan sectorial eólico de Galicia.
+1. El Plan sectorial eólico de Galicia deberá someterse a evaluación ambiental estratégica ordinaria.
+2. El procedimiento de aprobación del Plan sectorial eólico de Galicia se realizará conforme a lo previsto en el artículo 54 de la Ley 1/2021, de 8 de enero.
+3. Con carácter previo al inicio de su tramitación, el Consejo de la Xunta de Galicia podrá establecer criterios generales para la elaboración del Plan sectorial eólico de Galicia.
+Se añade por el art. 30.5 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+### Artículo 6 quinquies
+
+Artículo 6 quinquies. Modificación, efectos y vigencia del Plan sectorial eólico de Galicia.
+La modificación, los efectos y la vigencia del Plan sectorial eólico de Galicia se regirán por lo establecido en los artículos 56 a 61 de la Ley 1/2021, de 8 de enero.
+Se añade por el art. 30.6 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+## TÍTULO III
+
+Instrumentos de equilibrio territorial
+El canon eólico y el Fondo de Compensación Ambiental
+
+### Artículo 7
+
+Artículo 7. Objetivos de equilibrio territorial.
+Para proteger el medio ambiente, para estimular la incorporación de las nuevas tecnologías en los aerogeneradores, para aminorar el número de éstos y para reforzar el equilibrio territorial generado por la instalación de parques eólicos se crean el canon eólico y el Fondo de Compensación Ambiental.
+
+## CAPÍTULO I
+
+El canon eólico
+
+## Sección primera
+
+Sección primera. Disposiciones generales
+
+### Artículo 8
+
+Artículo 8. Creación, naturaleza, objeto y ámbito de aplicación.
+Al objeto de contribuir a regular y preservar el medio ambiente en su consideración de bien protegido, con carácter de ingreso compensatorio y como prestación patrimonial de derecho público de naturaleza extrafiscal y real, se crea el canon eólico aplicable al ámbito territorial de la Comunidad Autónoma de Galicia.
+
+### Artículo 9
+
+Artículo 9. Afectación de los ingresos generados por el canon.
+1. Los ingresos derivados del canon, deducidos los costes de gestión, se destinarán a conservación, reposición y restauración del medio ambiente, así como a actuaciones de compensación y reequilibrio ambiental y territorial de las que serán principales beneficiarios los municipios afectados por la implantación de parques eólicos y por las instalaciones de evacuación de los mismos.
+2. Asimismo, será beneficiaria el conjunto de la sociedad mediante actuaciones que, promovidas por la Administración autonómica, se dirijan al incremento de la eficiencia en el aprovechamiento de los recursos energéticos renovables, de la sostenibilidad, de la biodiversidad y del uso recreativo y educativo de los recursos naturales de Galicia.
+3. Tales ingresos serán gestionados a través del Fondo de Compensación Ambiental.
+
+### Artículo 10
+
+Artículo 10. Normativa de aplicación.
+El canon eólico se regirá por las disposiciones de la presente ley, las normas reglamentarias dictadas en su desarrollo y lo dispuesto en las disposiciones generales en materia tributaria.
+
+## Sección segunda
+
+Sección segunda. Elementos del canon eólico
+
+### Artículo 11
+
+Artículo 11. Hecho imponible.
+1. Constituye el hecho imponible del canon eólico la generación de afecciones e impactos visuales y ambientales adversos sobre el medio natural y sobre el territorio, como consecuencia de la instalación en parques eólicos de aerogeneradores afectos a la producción de energía eléctrica y situados en el territorio de la Comunidad Autónoma de Galicia.
+2. Se entenderá producido el hecho imponible aunque la titularidad de los aerogeneradores no corresponda al titular de la autorización administrativa para la instalación de un parque eólico.
+
+### Artículo 11 bis
+
+Artículo 11 bis. Supuestos de exención.
+Quedan exentos del canon eólico aquellos parques que tengan la consideración de experimentales y los denominados parques eólicos singulares cuya titularidad corresponda a un ayuntamiento.
+Téngase en cuenta que este precepto, añadido por el art. 30.7 de la Ley 5/2024, de 27 de diciembre, Ref. BOE-A-2025-2145#a3-2, entra en vigor el 1 de enero de 2027, según establece su disposición final 3.3, en la redacción dada por el art. 64.7 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+Se modifica la entrada en vigor de este artículo, que pasa a ser el 1 de enero de 2027, según establece la disposición final 3.3 de la Ley 5/2024, de 27 de diciembre, en la redacción dada por el art. 64.7 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se añade por el art. 30.7 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+ Este artículo añadido entra en vigor el 1 de enero de 2026, según establece la disposición final 3.3 de la citada Ley.
+
+### Artículo 12
+
+Artículo 12. Periodo impositivo y devengo.
+1. El periodo impositivo coincidirá con el año natural.
+2. El devengo se producirá en la fecha de otorgamiento de la autorización de explotación del parque eólico y el primer día del año natural en los sucesivos años en que la autorización administrativa estuviera vigente, hasta su desmantelamiento y restitución ambiental de los terrenos afectos por la instalación.
+3. Sin perjuicio de lo dispuesto en el apartado 1, en casos de primera instalación o desmantelamiento del parque eólico, el periodo impositivo se entenderá por el periodo existente entre el devengo y el último día del periodo impositivo, en el primer caso, y entre el devengo y la fecha de desmantelamiento del parque eólico, en el segundo.
+Se modifica el apartado 2 por la disposición final 7.4 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+ Se suprime el apartado 4 por el art. 65.1 de la Ley 11/2013, de 26 de diciembre. Ref. BOE-A-2014-885.
+
+### Artículo 13
+
+Artículo 13. Sujetos pasivos.
+1. Son sujetos pasivos del canon en calidad de contribuyentes las personas físicas o jurídicas o entidades del artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que, bajo cualquier título, lleven a cabo la explotación de un parque eólico aunque no sean titulares de una autorización administrativa para su instalación.
+Se presumirá, salvo prueba en contra, que la explotación de un parque eólico es realizada por la persona o entidad que figure como titular de la correspondiente autorización administrativa para su instalación.
+2. Son sujetos del canon en calidad de responsables solidarios:
+a) Las personas titulares de autorizaciones administrativas para la instalación de un parque eólico cuando quien lleve a cabo la explotación no coincida con el titular de la autorización.
+b) Las personas titulares de los aerogeneradores cuando dicha titularidad no concurra en el titular de la explotación ni en el titular de la autorización administrativa.
+
+### Artículo 14
+
+Artículo 14. Base imponible.
+1. Constituye la base imponible la suma total de la altura medida en metros de los aerogeneradores existentes en un parque eólico situado en el territorio de la Comunidad Autónoma de Galicia.
+A estos efectos, se entenderá por altura la distancia desde la superficie del terreno en que se sitúa el aerogenerador hasta la punta de la pala cuando esta se encuentra en el punto más alto.
+2. En el caso de los parques eólicos que se extiendan más allá del límite territorial de la comunidad autónoma, la base imponible estará constituida por la suma total de la altura medida en metros de los aerogeneradores instalados en el territorio gallego.
+3. Para la determinación de la base imponible se tendrán en cuenta las circunstancias concurrentes en la fecha de devengo. En caso de que la altura de alguno o todos los aerogeneradores variase a lo largo del período impositivo, la base imponible se calculará prorrateando por días el período de explotación de cada aerogenerador respecto al total del número de días del año natural.
+Téngase en cuenta que esta última actualización, establecida por el art. 30.8 de la Ley 5/2024, de 27 de diciembre, Ref. BOE-A-2025-2145#a3-2, entra en vigor el 1 de enero de 2027, según establece su disposición final 3.3, en la redacción dada por el art. 64.7 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Redacción anterior:
+ "Artículo 14. Base imponible.
+ 1. Constituye la base imponible la suma de unidades de aerogeneradores existentes en un parque eólico situado en el territorio de la Comunidad Autónoma de Galicia.
+ 2. En caso de parques eólicos que se extiendan más allá del límite territorial de la comunidad autónoma, la base imponible estará constituida por la suma de unidades de aerogeneradores instalados en el territorio gallego.
+ 3. Para la determinación de la base imponible se tendrán en cuenta las circunstancias concurrentes en la fecha de devengo. En caso de que el número de aerogeneradores varíe a lo largo del periodo impositivo, la base imponible se calculará prorrateando por días el periodo de explotación de cada aerogenerador respecto al total del número de días del año natural."
+Se cambia la entrada en vigor de esta modificación, que pasa a ser el 1 de enero de 2027, según establece la disposición final 3.3 de la Ley 5/2024, de 27 de diciembre, en la redacción dada por el art. 64.7 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica, con efectos desde el 1 de enero de 2026, por el art. 30.8 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3.3 de la citada Ley.
+
+### Artículo 15
+
+Artículo 15. Tipo de gravamen y cuota tributaria.
+1. La cuota tributaria viene determinada por la aplicación a la base imponible del tipo de gravamen de 75 euros por cada metro de altura de aerogenerador.
+2. Durante el primer año de explotación del parque eólico y durante el último año los tipos de gravamen se prorratearán en función del número de días del período impositivo.
+Téngase en cuenta que esta última actualización, establecida por el art. 30.9 de la Ley 5/2024, de 27 de diciembre, Ref. BOE-A-2025-2145#a3-2, entra en vigor el 1 de enero de 2027, según establece su disposición final 3.3, en la redacción dada por el art. 64.7 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Redacción anterior:
+ "Artículo 15. Tipo de gravamen y cuota tributaria.
+ 1. La cuota tributaria viene determinada por la aplicación a la base imponible de los siguientes tipos de gravamen anuales:
+ En parques eólicos que dispongan de entre 1 y 3 aerogeneradores: 0 euros por cada unidad de aerogenerador.
+ En parques eólicos que dispongan de entre 4 y 7 aerogeneradores: 2.300 euros por cada unidad de aerogenerador.
+ En parques eólicos que dispongan de entre 8 y 15 aerogeneradores: 4.100 euros por cada unidad de aerogenerador.
+ En parques eólicos que dispongan de más de 15 aerogeneradores: 5.900 euros por unidad de aerogenerador.
+ 2. Durante el primer año de explotación del parque eólico y durante el último año los tipos de gravamen se prorratearán en función del número de días del periodo impositivo.
+ 3. La modificación de los importes de la presente tarifa requiere informe previo del Consejo Gallego del Medio Ambiente y Desarrollo Sostenible."
+Se cambia la entrada en vigor de esta modificación, que pasa a ser el 1 de enero de 2027, según establece la disposición final 3.3 de la Ley 5/2024, de 27 de diciembre, en la redacción dada por el art. 64.7 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica por el art. 30.9 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+ Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3.3 de la citada Ley.
+
+### Artículo 16
+
+Artículo 16. Bonificaciones en la cuota.
+(Suprimido)
+Téngase en cuenta que la supresión de este precepto, establecida por el art. 30.10 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2, entra en vigor el 1 de enero de 2027, según determina su disposición final 3.3, en la redacción dada por el art. 64.7 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Redacción anterior:
+ "Artículo 16. Bonificaciones en la cuota.
+ 1. Cuando como consecuencia de un proyecto de modificación de parques eólicos preexistentes en funcionamiento que suponga una sustitución total o parcial de los aerogeneradores por otros de mayor potencia, y que den lugar a una reducción efectiva de las unidades de aerogeneradores que no suponga tramo diferente de base, la cuantía de la cuota que ha de satisfacerse, en el periodo correspondiente a dicha reducción, se bonificará en un porcentaje resultante de multiplicar por 10 el número de unidades de aerogeneradores reducidas.
+ 2. Esta bonificación tendrá carácter rogado, estando condicionado su reconocimiento a la comunicación del proyecto de modificación de parques eólicos a la dirección general competente en materia de energía y a la acreditación efectiva por dicho órgano del cumplimiento de las condiciones señaladas en el apartado anterior."
+Se modifica la entrada en vigor de la supresión de este artículo, que pasa a ser el 1 de enero de 2027, según establece la disposición final 3.3 de la Ley 5/2024, de 27 de diciembre, en la redacción dada por el art. 64.7 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se suprime por el art. 30.10 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+ Esta supresión entra en vigor el 1 de enero de 2026, según establece la disposición final 3.3 de la citada Ley.
+ Se modifica por la disposición final 7.5 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+ Se modifica por el art. 65.2 de la Ley 11/2013, de 26 de diciembre. Ref. BOE-A-2014-885.
+
+## Sección tercera
+
+Sección tercera. Gestión del canon
+
+### Artículo 17
+
+Artículo 17. Presentación de declaraciones y autoliquidaciones.
+1. A los efectos de aplicación del canon eólico, los sujetos pasivos están obligados a declarar inicialmente los datos, características y circunstancias necesarias para la cuantificación del tributo, así como las modificaciones de los datos previamente declarados, en los plazos y lugar y mediante los modelos y de conformidad con las instrucciones que se establezcan por la consejería competente en materia de hacienda mediante orden. Asimismo, estarán obligados a presentar una declaración de baja, en el supuesto de desmantelamiento del parque eólico.
+2. La Administración establecerá un registro obligatorio de parques eólicos, de los aerogeneradores en ellos existentes y de las características de los mismos. La estructura, contenido y sede del registro así como los procedimientos para su formación y mantenimiento se determinarán mediante orden de la consejería competente en materia de hacienda.
+3. Los sujetos pasivos están obligados a presentar autoliquidación del canon eólico, determinando la deuda tributaria correspondiente, e ingresarán su importe en la forma, plazos y lugar, mediante los modelos y de conformidad con las instrucciones que establezca la consejería competente en materia de hacienda mediante orden.
+Se modifica por la disposición final 4.1 de la Ley 2/2013, de 27 de febrero. Ref. BOE-A-2013-4088.
+
+### Artículo 18
+
+Artículo 18. Liquidaciones provisionales.
+Los órganos de la Administración tributaria podrán dictar la liquidación provisional que proceda de conformidad con lo dispuesto en la Ley general tributaria.
+Se modifica por la disposición final 4.2 de la Ley 2/2013, de 27 de febrero. Ref. BOE-A-2013-4088.
+
+### Artículo 19
+
+Artículo 19. Utilización de tecnologías informáticas y telemáticas.
+La consejería competente en materia de hacienda podrá disponer que las declaraciones y autoliquidaciones del canon se efectúen mediante los programas informáticos de ayuda que, en su caso, se aprueben.
+Asimismo, podrá exigir la obligatoriedad de su presentación y abono mediante medios telemáticos.
+Se modifica por la disposición final 4.3 de la Ley 2/2013, de 27 de febrero. Ref. BOE-A-2013-4088.
+
+### Artículo 20
+
+Artículo 20. Aplicación del canon eólico.
+1. La consejería competente en materia de hacienda aprobará las normas de aplicación del tributo.
+2. El ejercicio de las funciones de aplicación y de revisión del canon así como el ejercicio de la potestad sancionadora en materia tributaria corresponderán a los órganos competentes de la Administración tributaria de la consejería competente en materia de hacienda, conforme a la norma de organización de la Administración tributaria.
+3. Sin perjuicio de lo establecido en el apartado anterior, los órganos administrativos competentes en las materias de medio ambiente, energía e industria auxiliarán a los órganos de aplicación de este tributo y colaborarán con ellos, en el marco de sus respectivas competencias, para la liquidación, comprobación e investigación del tributo, mediante, entre otras actuaciones, la elaboración de informes a petición de los mismos, la expedición de certificados oficiales de los datos necesarios para la liquidación del tributo y/o la cesión informática de los datos señalados.
+Se modifica por la disposición final 4.4 de la Ley 2/2013, de 27 de febrero. Ref. BOE-A-2013-4088.
+
+### Artículo 21
+
+Artículo 21. Potestad sancionadora.
+1. La potestad sancionadora en materia tributaria se ejercerá conforme a sus principios reguladores en materia administrativa y a las especialidades contempladas en la Ley general tributaria, siendo de aplicación las disposiciones generales contenidas en la misma.
+2. La clasificación de las infracciones y sanciones tributarias y el procedimiento sancionador tributario se regirán por lo establecido en la Ley 58/2003, de 17 de diciembre, general tributaria, y en las demás disposiciones que la desarrollen y complementen.
+Se modifica el apartado 1 por la disposición final 4.5 de la Ley 2/2013, de 27 de febrero. Ref. BOE-A-2013-4088.
+
+### Artículo 22
+
+Artículo 22. Revisión.
+1. Los actos y actuaciones de aplicación de este tributo, así como los actos de imposición de sanciones tributarias, serán revisables con arreglo a las disposiciones contenidas en la Ley 58/2003, de 17 de diciembre, general tributaria.
+2. El conocimiento de las reclamaciones económico-administrativas corresponderá con exclusividad a los órganos económico-administrativos de la Comunidad Autónoma de Galicia, sin perjuicio de la vía contencioso-administrativa.
+
+## CAPÍTULO II
+
+El Fondo de Compensación Ambiental
+
+### Artículo 23
+
+Artículo 23. Creación y naturaleza.
+Para la aplicación de actuaciones globales destinadas a la conservación, reposición y restauración del medio ambiente y reequilibrio territorial se crea el Fondo de Compensación Ambiental, al que serán de aplicación las disposiciones previstas en este capítulo y las establecidas en las órdenes que, para la regulación del mismo, se dicten por la consejería competente en materia de régimen local.
+
+### Artículo 24
+
+Artículo 24. Financiación.
+Sin perjuicio de los demás recursos que en el mismo puedan integrarse, el Fondo de Compensación Ambiental se financiará con los ingresos obtenidos del canon eólico deducidos los gastos de gestión.
+
+### Artículo 25
+
+Artículo 25. Destino.
+1. El Fondo de Compensación Ambiental estará afectado a la realización, en los términos previstos en los puntos siguientes, de gastos en los entes locales que revistan naturaleza productiva y generadora de empleo.
+No obstante, la ley anual de presupuestos podrá establecer criterios específicos de afectación del Fondo de Compensación Ambiental, siempre y cuando su aplicación no comprometa más del 50% de la dotación correspondiente a los recursos anuales y consista en su vinculación a la financiación de actuaciones comprendidas en aplicaciones presupuestarias que tengan entre sus finalidades la protección del medio y del entorno natural, su conservación, reposición y restauración, así como el fomento de la investigación dirigida a la mejora en la eficiencia del aprovechamiento de los recursos de las energías renovables.
+2. Una vez aplicado lo dispuesto en el apartado anterior, se destinará como mínimo el 50% de la cuantía disponible del fondo a las entidades cuyo término municipal se encuentre dentro de la poligonal de delimitación de un parque eólico o resulten afectadas por las correspondientes instalaciones de conexión para la realización de:
+a) Actuaciones orientadas a la conservación de la biodiversidad, el conocimiento y utilización recreativa y didáctica de los recursos naturales y la recuperación del medio natural degradado o contaminado.
+b) Actuaciones de impulso de la eficiencia y utilización sostenible de las energías renovables.
+c) Otras actuaciones de protección del medio ambiente y el espacio natural.
+3. Los costes elegibles, a efectos de distribución del fondo, son los siguientes:
+a) Inversiones en inmovilizado: coste de mano de obra externa, ejecución material, equipos e instalaciones. Cuando en la inversión participase directamente personal de la entidad local se procederá a la imputación de los gastos correspondientes al personal utilizado.
+b) Costes del proyecto y dirección de obra, si se tratara de contrataciones externas.
+c) Costes de funcionamiento de los servicios municipales dedicados a la protección del medio ambiente y el espacio natural. En caso de que se utilizase personal de la entidad local se procederá a la imputación de los gastos correspondientes al personal utilizado.
+4. La cantidad asignada a cada proyecto se destinará en función del presupuesto presentado por la entidad local solicitante y no podrá superar el 100% de dicho presupuesto.
+5. La distribución anual del fondo se regulará mediante orden dictada por la consellería competente en materia de régimen local, en la que también se establecerán los criterios de reparto, los entes locales beneficiarios y las actuaciones a las que se destinará la parte del fondo que no estuviese comprendida en el punto 2 de este artículo, que tendrán que estar dirigidas a la protección del medio ambiente, incluidas aquellas que tengan por objeto la prevención, extinción y gestión de situaciones de siniestro o riesgo.
+Se modifican los apartados 2 y 3 por la disposición final 4.6 de la Ley 2/2013, de 27 de febrero. Ref. BOE-A-2013-4088.
+ Se modifica por la disposición final 2.1 de la Ley 12/2011, de 26 de diciembre. Ref. BOE-A-2012-1252.
+ Se modifica por la disposición final 1.1 de la Ley 15/2010, de 28 de diciembre. Ref. BOE-A-2011-2546.
+
+### Artículo 26
+
+Artículo 26. Gestión.
+La gestión del fondo se realizará por la dirección general competente en materia de régimen local de conformidad con las directrices que se establezcan en la orden que se dicte por la consejería de la que aquélla dependa.
+
+## TÍTULO IV
+
+Procedimiento de autorización administrativa de las instalaciones de parques
+Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 27
+
+Artículo 27. Régimen de autorizaciones administrativas.
+1. La puesta en funcionamiento, la modificación sustancial, el cierre temporal, la transmisión y el cierre definitivo de parques eólicos estarán sometidos, con carácter previo, al régimen de autorizaciones establecidas en el artículo 53 de la Ley 24/2013, de 26 de diciembre, del sector eléctrico, y a su normativa de desarrollo, o normas que las sustituyan.
+2. El procedimiento administrativo de autorizaciones para la instalación de parques eólicos se iniciará a solicitud de la persona interesada, tramitándose de acuerdo con lo especificado en la presente ley.
+3. La tramitación de las autorizaciones administrativas necesarias de las infraestructuras de evacuación habrá de solicitarse conjuntamente con la solicitud de autorización administrativa previa y de construcción del parque eólico.
+No obstante, en caso de infraestructuras de evacuación compartidas que sirvan para evacuar más de una instalación de producción, la solicitud podrá presentarse de manera independiente por todas o por parte de las personas titulares de las instalaciones de producción que van a compartir la infraestructura de evacuación, en una única solicitud. En este caso, las titulares de las instalaciones de producción que presenten la solicitud tendrán la consideración de personas promotoras de la infraestructura de evacuación a efectos de los requisitos exigidos para la presentación de la solicitud. El resto de titulares de instalaciones de producción que utilicen la infraestructura de evacuación compartida y que no presenten la solicitud como promotoras tendrán únicamente la consideración de personas usuarias de la infraestructura de evacuación en cuestión. Si durante la tramitación de las autorizaciones administrativas necesarias para la infraestructura de evacuación compartida alguna de las promotoras pierde, por cualquier motivo, la condición de titular de la instalación de producción que va a compartir la infraestructura de evacuación, se entenderá que esa promotora desiste de su solicitud y continuará la tramitación con las demás promotoras.
+Se modifica el apartado 3 por el art. 24.1 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica el apartado 3 por la disposición final 2.1 de la Ley 2/2024, de 7 de noviembre. Ref. BOE-A-2025-237
+ Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+## CAPÍTULO I
+
+Trámite de selección de anteproyectos
+
+### Artículo 28
+
+Artículo 28. Avales.
+1. Las personas promotoras depositarán en la Caja General de Depósitos de la Xunta de Galicia la garantía económica a que hace referencia el Real decreto 1183/2020, de 29 de diciembre, de acceso y conexión a las redes de transporte y distribución de energía eléctrica, o normativa que lo sustituya, según corresponda con la red de transporte o con la red de distribución.
+2. Quedan eximidas del depósito de dicha garantía aquellas modificaciones de instalaciones en explotación que no supongan incrementos sobre la capacidad de acceso previamente concedida.
+3. La garantía económica será cancelada cuando la persona solicitante obtenga la autorización de explotación definitiva de la instalación.
+4. La caducidad de los permisos de acceso y conexión supondrá la ejecución inmediata de la garantía económica. No obstante, el órgano competente podrá exceptuar la ejecución de la garantía depositada por la persona titular de una instalación si la caducidad de los permisos de acceso y conexión está ocasionada porque un informe o resolución de una administración pública hubiese impedido la construcción, y así fuera solicitado por esta.
+5. La garantía constituida será devuelta a la persona promotora en caso de inadmisión de la solicitud a que se hace referencia en el artículo 33.3.
+Se modifica el apartado 4 por el art. 24.2 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica el apartado 1 por el art. 39.3 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 29
+
+Artículo 29. Presentación de solicitudes de autorización administrativa previa y de construcción.
+1. El procedimiento administrativo de autorizaciones para la instalación de parques eólicos se iniciará a solicitud de la persona interesada, tramitándose de acuerdo con lo especificado en el presente título.
+2. Solo se podrá solicitar el inicio de un procedimiento de autorización administrativa previa y de construcción de un parque eólico si la persona solicitante y el parque eólico cumplen con los requisitos establecidos en los artículos 30, 31 y 32, además de contar con el permiso de acceso a la red de transporte y distribución. No serán admitidas aquellas solicitudes que incumplan estos requisitos.
+En caso de solicitudes relativas a infraestructuras de evacuación compartidas solicitadas por una pluralidad de personas promotoras, los requisitos establecidos en el artículo 30 deberán ser cumplidos por todas las promotoras de la infraestructura de evacuación compartida individualmente consideradas.
+3. Las solicitudes se presentarán exclusivamente a través de medios electrónicos que se habilitarán al efecto reglamentariamente y se dirigirán a la dirección general competente en materia de energía, de acuerdo con lo establecido en el apartado 5 del artículo 16 y en el artículo 66 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, o norma que la sustituya.
+4. El modelo normalizado de solicitud de autorización se aprobará por orden de la consejería competente en materia de energía, así como la documentación necesaria que se acompañará a la misma, que se presentará en formato electrónico y, al menos, contendrá:
+a) Documentación justificativa de la capacidad legal, técnica y económica de la persona solicitante, según lo establecido en el artículo 30.
+b) Copia del resguardo de presentación en la Caja General de Depósitos de la garantía económica que establece el Real decreto 1183/2020, de 29 de diciembre, o normativa que lo sustituya, y documento justificativo emitido por el gestor de la red a que se conecte que acredite tener permiso de acceso y conexión.
+c) Proyecto de ejecución suscrito por técnico o técnica competente, con separatas para los organismos o empresas de servicio público o de servicios de interés general afectados. El contenido mínimo del proyecto de ejecución será establecido reglamentariamente.
+d) Documentación ambiental que proceda según lo establecido en la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, o norma que la sustituya, para la evaluación del impacto ambiental del proyecto, debiendo contener los elementos previstos en la Ley 2/2024, de 7 de noviembre. En particular, el estudio de impacto ambiental identificará los beneficios sociales y económicos que se deriven de la ejecución del proyecto y los compromisos adicionales de los promotores dirigidos a generarlos, en los ámbitos de la creación de nuevos puestos de trabajo sostenibles, el desarrollo de ecosistemas industriales y el fomento de las industrias locales, la reducción de costes de la energía y la reducción de la dependencia energética de los consumidores locales e industriales de las zonas ubicadas en el ámbito de influencia de los proyectos.
+e) Planimetría de la infraestructura de producción que recoja todas las instalaciones en formato SHP.
+f) Para aquellos casos en que la persona promotora haya solicitado la declaración de utilidad pública, de acuerdo con el artículo 44, relación de bienes y derechos afectados, así como la justificación de la necesidad de la expropiación, junto con una declaración responsable de los acuerdos alcanzados con las personas titulares de los bienes y derechos afectados.
+g) Justificante de pago de la tasa de verificación de requisitos y capacidades contemplada con el código 01 en el apartado 37 del anexo III de la Ley 6/2003, de 9 de diciembre, de tasas, precios y exacciones reguladoras de la Comunidad Autónoma de Galicia, o norma que la sustituya.
+h) Para aquellos casos en que se produzca solapamiento en los términos establecidos en el artículo 31, escritura pública del acuerdo entre las partes a que hace mención dicho artículo.
+i) Documentación de justificación de la evacuación de la instalación de producción hasta el punto de conexión a través del propio proyecto o de otros en tramitación, autorizados o en funcionamiento.
+5. Si la solicitud presentada no reuniera los requisitos exigidos en el apartado anterior, se requerirá a la persona interesada para su subsanación, concediéndole un plazo de diez días, con indicación de que, si así no lo hiciese, se tendrá por desistida de la misma.
+Se modifica el apartado 2 y se añade la letra i) al apartado 4 por el art. 24.3 y 4 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica la letra d) del apartado 4 por el art. 30.11 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+ Se modifica el apartado 4.b) y e) por el art. 39.4 y 5 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifica el apartado 2 y las letras e) y f) del 4 por la disposición final 6.3 y 4 de la Ley 9/2021, de 25 de febrero. Ref. BOE-A-2021-5210#df-6
+ Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 30
+
+Artículo 30. Requisitos de la capacidad de las personas solicitantes.
+1. Las personas promotoras que presenten las solicitudes de autorización administrativa a que se refiere la presente ley habrán de acreditar capacidad legal, técnica y económica para la realización del proyecto, a través de los medios siguientes:
+a) Capacidad legal. La persona solicitante deberá tener personalidad física o jurídica propia, excluyéndose las uniones temporales de empresas.
+b) Capacidad técnica. La capacidad técnica se cumplirá mediante la acreditación de, al menos, uno de los siguientes requisitos:
+– Haber ejercido la actividad de producción de energía eléctrica durante, al menos, los últimos tres años.
+– Contar entre sus accionistas con una persona socia que participe en el capital social con un porcentaje igual o superior al 25 % y que pueda acreditar su experiencia durante los últimos tres años en la actividad de producción de energía eléctrica.
+– Suscribir un contrato de asistencia técnica por un periodo de tres años con una empresa que acredite experiencia en la actividad de producción de energía eléctrica y que cumpla, a su vez, con alguno de los requisitos que se describen en los párrafos anteriores.
+c) Capacidad económica. Se entenderá cumplida cuando se acompañe documentación suficiente que garantice la viabilidad económico-financiera del proyecto. Esta documentación habrá de incluir, al menos, una declaración responsable y un estudio económico-financiero que justifique la viabilidad del proyecto.
+2. La documentación justificativa para la acreditación de las capacidades podrá ser desarrollada por orden de la consejería competente en materia de energía.
+Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 31
+
+Artículo 31. Requisitos de las solicitudes de autorización previa y de construcción de parques eólicos.
+1. Las solicitudes a que se refiere el artículo 29 no podrán solaparse, en el momento de la solicitud, con ningún parque eólico, ya sea de competencia autonómica o estatal, en explotación, autorizado pendiente de construcción o en fase de tramitación administrativa, salvo que exista un acuerdo entre los titulares de los parques eólicos afectados.
+2. A estos efectos, se establecerán reglamentariamente los criterios que determinen la existencia de solapamiento entre parques eólicos.
+3. Se considerará que un parque eólico se halla en fase de tramitación administrativa desde el momento en que la persona solicitante presente la correspondiente solicitud, siempre que en la fecha de presentación de la misma cumpliese con los requisitos necesarios para su admisión a trámite.
+Se modifica el apartado 1 por el art. 30.12 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+ Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 32
+
+Artículo 32. Red Natura.
+Quedan excluidos de la implantación de nuevos aerogeneradores aquellos espacios naturales declarados como zonas de especial protección de los valores naturales por formen parte de la Red Natura 2000, con arreglo a la normativa vigente en cada momento. Se exceptúan de lo anterior las modificaciones de parques eólicos en explotación cuando dicha modificación suponga una reducción de, al menos, el 50 % de los aerogeneradores previamente instalados en dicha zona de Red Natura.
+Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 33
+
+Artículo 33. Instrucción del procedimiento.
+1. Las solicitudes de autorización administrativa previa y de construcción de parques eólicos se estudiarán y se tramitarán en el estricto orden temporal de su fecha de presentación.
+2. La dirección general competente en materia de energía verificará el cumplimiento de los requisitos de capacidad de las personas solicitantes y de las solicitudes indicados en el artículo 29.2.
+3. En el caso de incumplimiento de dichos requisitos, la dirección general competente emitirá una resolución en la que declarará la inadmisión de la solicitud.
+4. En el caso de cumplimiento, la dirección general competente notificará a la persona solicitante la admisión a trámite para que proceda al pago de la tasa de autorización administrativa recogida en el código 02 del punto 37 del anexo III de la Ley 6/2003, de 9 de diciembre, de tasas, precios y exacciones reguladoras de la Comunidad Autónoma de Galicia, o norma que la sustituya. La persona solicitante dispondrá de un plazo máximo de un mes para la presentación del justificante de pago de dicha tasa.
+La presentación del justificante de pago de la tasa será requisito necesario para que prosiga la tramitación. Si el sujeto promotor no aportase la justificación prevista en el apartado anterior en el plazo establecido, el órgano competente lo tendrá por desistido de su solicitud.
+5. El orden de tramitación de las solicitudes de autorización administrativa admitidas podrá determinarse mediante resolución motivada del centro directivo competente en materia de energía, teniendo en cuenta las posibilidades de evacuación de la energía eléctrica de estos proyectos, así como los proyectos tractores o que se declaren iniciativa empresarial prioritaria, de acuerdo con la normativa aplicable.
+6. Previamente, la persona promotora podrá solicitar al órgano ambiental que elabore un documento de alcance del estudio de impacto ambiental, según el procedimiento establecido en el artículo 34 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, o norma que la sustituya. En el caso de proyectos que deban ser objeto de una evaluación ambiental simplificada, la dirección general competente en materia de energía remitirá al órgano ambiental el documento ambiental del proyecto, para que realice el procedimiento de consulta recogido en el artículo 46 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, o norma que la sustituya.
+7. La dirección general competente en materia de energía enviará una copia del proyecto de ejecución, junto con los planos en formato SHP del parque eólico, al órgano autonómico competente en materia de ordenación del territorio y urbanismo, al efecto de obtener, en el plazo máximo de veinte días, informe sobre el cumplimiento de los requisitos de distancias a las delimitaciones del suelo de núcleo rural, urbano o urbanizable delimitado, establecidos en la disposición adicional quinta.
+8. Asimismo, dicho órgano podrá solicitar informes previos a los órganos sectoriales en función de las posibles afecciones que puedan resultar incompatibles con el proyecto. El plazo máximo para la emisión de estos informes será de un mes. Transcurrido este plazo sin pronunciamiento expreso, se continuará con el procedimiento. Será condición necesaria para continuar con el procedimiento que estos informes no tengan carácter desfavorable. En su caso, se archivará la solicitud por incompatibilidad, previa audiencia al promotor, y se procederá a la devolución de las garantías económicas correspondientes.
+9. Obtenido el informe de cumplimiento de distancias, la dirección general competente en materia de energía enviará el expediente a la unidad tramitadora. En los supuestos de parques eólicos cuya implantación afecte a más de una provincia, la unidad tramitadora será la dirección general competente en materia de energía.
+10. La unidad responsable de la tramitación someterá a información pública, de forma simultánea, el proyecto de ejecución y el estudio de impacto ambiental en el caso de evaluación ambiental ordinaria, mediante su publicación en el “Diario Oficial de Galicia”, así como en la página web de la consejería competente en materia de energía. En caso de que se solicite la declaración de utilidad pública, se realizará de forma simultánea el trámite de información pública mediante la publicación en uno de los periódicos de mayor circulación de cada una de las provincias afectadas.
+11. Durante el plazo indicado, cualquier persona, entidad u organismo interesado podrá presentar cuantas alegaciones estime oportunas o solicitar el examen del expediente y de la documentación técnica, o de la parte de la misma que se acuerde. De las alegaciones presentadas se dará traslado a la persona solicitante, para que esta formule la contestación al contenido de aquellas y lo comunique a la unidad tramitadora en el plazo máximo de quince días.
+12. De modo simultáneo al trámite de información pública, la unidad responsable de la tramitación realizará el trámite de audiencia y de consultas a las administraciones públicas afectadas y a las personas interesadas, solicitando, al menos, los informes preceptivos indicados para la evaluación ambiental y dando audiencia a los ayuntamientos afectados. Asimismo, se enviarán de forma simultánea las separatas del proyecto presentado a las distintas administraciones, organismos o empresas del servicio público y de servicios de interés general afectados, con bienes y derechos a su cargo, con objeto de que establezcan el condicionado técnico procedente del proyecto de ejecución.
+13. En el caso de evaluación ambiental simplificada, se realizarán los trámites indicados en la sección 2.ª del capítulo II de la Ley 21/2013, de evaluación ambiental, o norma que la sustituya.
+14. Se aplicará lo regulado en la sección 1.ª del capítulo I de la Ley 9/2021, de 25 de febrero, de simplificación administrativa y de apoyo de la reactivación económica de Galicia, con la única excepción del plazo para la emisión de los condicionados técnicos del proyecto de ejecución, que se reduce a un mes desde la recepción de la solicitud. De no recibirse estos condicionados en plazo, se entenderá la conformidad con el proyecto, y se continuará la tramitación del procedimiento.
+15. La unidad tramitadora enviará a la persona promotora los informes y alegaciones recibidos para su conformidad y/o consideración en la redacción del proyecto de ejecución y del estudio de impacto ambiental, con el fin de que realice las modificaciones y adaptaciones de cada uno de dichos documentos. La persona promotora dispondrá del plazo máximo de un mes para presentar los documentos definitivos adaptados para continuar con el procedimiento. De no presentarse esta documentación en el plazo indicado, se entenderá que el promotor desiste de la solicitud de autorización administrativa y se archivará la solicitud sin más trámites. El archivo de la solicitud será realizado por la unidad tramitadora, que lo comunicará al órgano competente.
+16. La unidad tramitadora emitirá o solicitará, en su caso, al órgano territorial donde se sitúe la instalación, el informe relativo a la normativa de instalaciones industriales y eléctricas. Cuando le corresponda la tramitación del procedimiento, el órgano territorial remitirá el expediente completo a la dirección general competente en materia de energía, añadiendo al informe anterior un resumen de la tramitación realizada hasta ese momento, para que la dirección general proceda a dictar la correspondiente resolución.
+17. La valoración positiva ambiental exigible al proyecto, de acuerdo con el resultado de la evaluación realizada de conformidad con lo establecido en la Ley 21/2013, de 9 de diciembre, así como el informe de cumplimiento de distancias indicado en el punto 7 de este artículo, serán requisitos indispensables para el otorgamiento de la autorización administrativa previa y de construcción.
+18. Asimismo, deberá acreditarse la obtención del permiso de acceso y conexión a la red de transporte o distribución, según corresponda, previamente al otorgamiento de la autorización administrativa previa y de construcción.
+Se modifican los apartados 7, 10, 12 y 15 por el art. 39.6 a 9 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifica el apartado 7 por el art. 39.1 Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica por la disposición final 6.5 de la Ley 9/2021, de 25 de febrero. Ref. BOE-A-2021-5210#df-6
+ Redactado conforme a la corrección de errores publicada en el DOG núm. 51, de 16 de marzo de 2021. Ref. DOG-g-2021-90115
+ Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 34
+
+Artículo 34. Resolución de la autorización administrativa previa y de construcción y finalización del procedimiento.
+1. Después de que se realice la instrucción del procedimiento administrativo de autorización y de que se acredite por parte de la persona solicitante la obtención de los permisos de acceso y conexión a las redes de transporte o distribución, según corresponda, el órgano de dirección competente en materia de energía dictará resolución respeto del otorgamiento de la autorización administrativa previa y de la autorización administrativa de construcción del parque eólico en el plazo máximo de dos meses, contado desde la recepción de la documentación completa en el órgano competente para resolver el procedimiento.
+2. La resolución de autorización administrativa previa y de construcción expresará que la persona promotora dispondrá de un plazo de tres años, contado a partir de su otorgamiento, para solicitar la correspondiente autorización de explotación, indicando que, en caso de incumplimiento, podrá producirse su revocación, previa audiencia de la persona interesada, en los términos establecidos en el punto 10 del artículo 53 de la Ley 24/2013, de 26 de diciembre, del sector eléctrico, o norma que la sustituya.
+Este plazo quedará suspendido en caso de que exista un pronunciamiento por parte de un órgano administrativo o judicial que suspenda la eficacia de la resolución de autorización administrativa previa y de construcción. Asimismo, la Administración, contando con la petición previa de la persona titular de la autorización, suspenderá el plazo en caso de existir recursos judiciales interpuestos por terceros, hasta que la autorización alcance firmeza.
+La Administración autonómica podrá, a solicitud de la persona promotora, otorgar la extensión del plazo para cumplir con el hito de obtención de la autorización administrativa de explotación definitiva, en los términos establecidos en el artículo 28.2 del Real Decreto-ley 8/2023, de 27 de diciembre, por el que se adoptan medidas para afrontar las consecuencias económicas y sociales derivadas de los conflictos en Ucrania y Oriente Próximo, así como para paliar los efectos de la sequía. En dichos casos, el plazo para obtener la autorización de explotación será el que se determine en la resolución de extensión del plazo, dictada de conformidad con lo establecido en la normativa estatal, sin que, por lo tanto, pueda otorgarse la autorización administrativa de explotación previamente al inicio del semestre comprometido en la solicitud.
+La resolución de autorización administrativa previa y de construcción de una infraestructura de evacuación compartida que sea solicitada por una pluralidad de personas promotoras establecerá la responsabilidad solidaria de todas las promotoras de la infraestructura de evacuación en lo que respecta a todas las obligaciones impuestas en el trámite ambiental y en la resolución de autorización, así como a las obligaciones establecidas en la Ley 24/2013, de 26 de diciembre, del sector eléctrico, para las personas productoras de energía eléctrica. Adicionalmente, la resolución identificará, a propuesta de las promotoras, a la persona titular que actuará como interlocutora responsable con la Administración a efectos de la ejecución del proyecto y del cumplimiento de las obligaciones impuestas en la autorización, con carácter particular, y en la normativa del sector eléctrico, con carácter general. La resolución de la autorización administrativa previa y de construcción podrá imponer a las titulares las obligaciones que estime necesarias para garantizar la gobernanza de la infraestructura compartida y la protección del medio ambiente. En particular, la resolución de la autorización administrativa previa y de construcción podrá imponer a las titulares la obligación de designar una única constructora para toda la infraestructura de evacuación compartida.
+3. La resolución se publicará íntegramente en el Diario Oficial de Galicia y se notificará a todas las terceras personas que hayan formulado alegaciones y tengan carácter de interesadas en el expediente. La falta de resolución expresa en el plazo indicado tendrá efectos desestimatorios y habilitará a la persona solicitante para interponer los recursos que procedan.
+4. De conformidad con lo previsto en el artículo 84 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, o norma que la sustituya, junto con la resolución, pondrán fin al procedimiento el desistimiento de las personas interesadas, la renuncia al derecho en que se funde la solicitud cuando tal renuncia no esté prohibida por el ordenamiento jurídico, la declaración de caducidad y la imposibilidad material de continuarlo por causas sobrevenidas. La declaración de caducidad del procedimiento, cuando se produzca su paralización por causa imputable a la persona interesada, será acordada de conformidad con lo establecido en el artículo 95 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, o norma que la sustituya.
+Se modifican los apartados 1 y 2 por el art. 24.5 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica el apartado 2 por el art. 30.13 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+ Téngase en cuenta que se levanta la suspensión de la vigencia y aplicación del párrafo segundo del apartado 2, en la redacción dada por el art. 30.13 de la Ley 5/2024, de 27 de diciembre, Ref. BOE-A-2025-2145#a3-2, por Auto del TC 20/2026, de 24 de febrero. Ref. BOE-A-2026-7123; suspensión que se produjo por providencia del TC de 27 de enero de 2026. Ref. BOE-A-2026-2549, aclarada por Providencia de 12 de febrero de 2026. Ref. BOE-A-2026-3379
+ Se modifica por la disposición final 6.6 de la Ley 9/2021, de 25 de febrero. Ref. BOE-A-2021-5210#df-6
+ Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 35
+
+Artículo 35. Autorización de explotación.
+1. Una vez ejecutado el proyecto, se presentará la correspondiente solicitud de autorización de explotación en el órgano territorial de la consejería competente en materia de energía que haya tramitado el expediente.
+2. Dicha solicitud se acompañará de un certificado de final de obra suscrito por técnica o técnico facultativo competente, en el que conste que la instalación se realizó de acuerdo con las especificaciones contenidas en la autorización de construcción, así como con las prescripciones de la reglamentación técnica de aplicación a la materia.
+3. La autorización de explotación será otorgada por el órgano territorial de la consejería competente en materia de energía que haya tramitado el expediente en el plazo de un mes, previas comprobaciones técnicas que se consideren oportunas.
+La resolución de autorización de explotación de una infraestructura de evacuación compartida que haya sido solicitada por una pluralidad de personas promotoras establecerá la responsabilidad solidaria de todas las promotoras de la infraestructura de evacuación en lo que respecta a todas las obligaciones impuestas en el trámite ambiental y en la resolución de autorización, así como a las obligaciones establecidas en la Ley 24/2013, de 26 de diciembre, para las personas productoras de energía eléctrica. Asimismo, la resolución identificará, a propuesta de las promotoras, a la titular que actuará como interlocutora responsable con la Administración a efectos del seguimiento y control del cumplimiento de las obligaciones impuestas a las titulares por la resolución de autorización de explotación, en particular, y en la normativa del sector eléctrico, con carácter general.
+4. En caso de que la unidad tramitadora fuese la dirección general competente en materia de energía, se solicitará una autorización de explotación en cada una de las provincias donde esté ubicada la instalación.
+Se modifica el apartado 3 por el art. 24.6 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+## CAPÍTULO II
+
+Autorización administrativa de las instalaciones de parques eólicos
+
+### Artículo 36
+
+Artículo 36. Transmisión de la titularidad de parques eólicos.
+1. Las transmisiones de titularidad de un parque eólico en explotación, de un parque eólico autorizado pendiente de construir y de un expediente administrativo en el que se tramita la autorización de un parque eólico requieren autorización administrativa previa de la consejería competente en materia de energía.
+2. La solicitud de autorización administrativa de transmisión habrá de dirigirse a la dirección general competente en materia de energía por quien pretenda adquirir la titularidad. La solicitud habrá de acompañarse de la documentación necesaria que permita acreditar la capacidad legal, técnica y económica de la persona solicitante, así como una declaración de la actual persona titular en la que manifieste su voluntad de transmitir dicha titularidad.
+3. La dirección general competente en materia de energía resolverá sobre la solicitud de la autorización de transmisión en el plazo de tres meses, desde la recepción de la documentación completa de la solicitud. La falta de resolución expresa en el plazo indicado tendrá efectos desestimatorios, pudiendo interponerse los recursos que procedan.
+La resolución será notificada a la persona solicitante y a la transmitente. A partir de esta notificación, la persona solicitante contará con un plazo de seis meses para adquirir la titularidad, produciéndose la caducidad de la autorización si, transcurrido dicho plazo, la adquisición no se hiciese efectiva.
+Producida la transmisión, la persona solicitante habrá de comunicarla a la dirección general competente en materia de energía, en el plazo de un mes desde que se hiciese efectiva.
+4. La autorización administrativa de transmisión de titularidad tendrá validez ante las entidades locales y cualquier otro organismo desde el mismo momento en que se les notifique de manera fehaciente. La transmisión de titularidad autorizada se entenderá extensiva a la declaración de utilidad pública de la instalación en cuestión, conllevando la necesidad del cambio de la titularidad del aval de acceso y conexión.
+5. La solicitud administrativa de transmisión de la titularidad de una infraestructura de evacuación asociada a un parque eólico se realizará de forma simultánea a la solicitud de transmisión de la titularidad de dicho parque eólico.
+La persona titular de una infraestructura de evacuación no podrá ser en ningún caso distinta de la del parque eólico asociado. En el supuesto de infraestructuras de evacuación compartidas con una pluralidad de titulares, únicamente podrán ser titulares de la infraestructura de evacuación compartida las que sean titulares de una instalación de producción que comparta la mencionada infraestructura de evacuación.
+Se añade el apartado 5 por el art. 24.7 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 37
+
+Artículo 37. Modificaciones no sustanciales de parques eólicos.
+1. Las modificaciones de un parque eólico tendrán el carácter de no sustanciales cuando cumplan la totalidad de los siguientes requisitos:
+a) Los aerogeneradores se mantienen dentro de la poligonal definida en el proyecto inicial.
+b) La potencia total del parque eólico no experimenta un incremento o reducción de más del 10 % de la potencia autorizada en el proyecto original.
+c) Se cumplen los requisitos y criterios de no solapamiento establecidos en el artículo 31.
+d) Se dispone de informe favorable del órgano ambiental respecto a la propuesta de modificación.
+e) Se dispone de informe favorable del órgano competente en materia de ordenación del territorio y urbanismo sobre la adecuación de la modificación a los preceptos urbanísticos de aplicación establecidos en el Plan sectorial eólico de Galicia, especialmente en lo relativo a la nueva ordenación urbanística propuesta y a los requisitos de distancias a las delimitaciones de suelo de núcleo rural, urbano o urbanizable delimitado.
+2. Asimismo, a los efectos de lo previsto en este artículo, también tendrán la consideración de modificaciones no sustanciales aquellas modificaciones consistentes en el incremento de la potencia nominal de los aerogeneradores, siempre que no supongan un incremento o reducción de más del 10 % de la potencia autorizada en el proyecto original, manteniéndose inalteradas todas las demás características técnicas del parque eólico.
+3. Las solicitudes de modificaciones no sustanciales habrán de cumplir los requisitos establecidos en el artículo 31.
+Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 38
+
+Artículo 38. Procedimiento de autorización de modificaciones no sustanciales.
+1. Las modificaciones no sustanciales de parques eólicos no requerirán el otorgamiento de una nueva autorización administrativa previa y de construcción.
+2. Las autorizaciones administrativas previas y de construcción de parques eólicos continuarán siendo eficaces respecto a las modificaciones no sustanciales de los proyectos iniciales, siempre que, antes del inicio de la ejecución del proyecto modificado, así se solicite por las personas titulares de las mismas ante la dirección general competente en materia de energía y les sean reconocidas estas modificaciones como no sustanciales en virtud de lo dispuesto en la presente ley.
+3. Las solicitudes de reconocimiento de una modificación como no sustancial se presentarán dirigidas al órgano competente en materia de energía, de acuerdo con lo establecido en el artículo 66 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, o norma que la sustituya, y contendrán, al menos:
+a) Para aquellos casos en que se modifique la potencia de la instalación, documentación acreditativa de disponer de acceso y punto de conexión a la red de transporte o a la red de distribución, según corresponda, para la potencia adicional.
+b) En los supuestos de modificación no sustancial contemplada en el apartado 1 del artículo 37:
+– La documentación justificativa del cumplimiento de los requisitos establecidos en los apartados a), b) y c) del punto 1 del artículo 37.
+– La documentación necesaria para solicitar los informes a que hacen mención los apartados d) y e) del punto 1 del artículo 37.
+c) Para aquellos supuestos establecidos en el apartado 2 del artículo 37:
+– Declaración responsable de la persona promotora de que se mantienen inalterables todas las características del parque eólico, excepto la potencia nominal de los aerogeneradores.
+– La documentación justificativa del incremento de potencia del aerogenerador.
+4. En los supuestos de modificaciones no sustanciales contemplados en el punto 1 del artículo 37, la dirección general competente en materia de energía enviará al órgano ambiental la documentación necesaria para recabar el informe a que hace mención el apartado d) del punto 1 del artículo 37, al efecto de que este evacúe en el plazo de veinte días dicho informe. En caso de que el órgano ambiental lo estimase preciso, indicará la relación de organismos que considera necesario que se consulte con respecto a la validación ambiental del proyecto modificado.
+5. Igualmente, se enviará al órgano competente en materia de ordenación del territorio y urbanismo la documentación necesaria, al efecto de que evacúe en un plazo máximo de veinte días el informe a que se refiere el apartado e) del punto 1 del artículo 37.
+6. La dirección general competente en materia de energía dispondrá de un plazo de un mes para emitir el reconocimiento de una modificación como no sustancial, a contar desde el momento en que disponga de toda la información y documentación necesaria. La dirección general competente solo podrá emitir dicho reconocimiento una vez verificado el cumplimiento de los requisitos establecidos en el artículo 31. La falta de reconocimiento expreso tendrá efectos desestimatorios, pudiéndose interponer los recursos que procedan. Este reconocimiento será expresamente comunicado a las consejerías con competencias en materia de ordenación del territorio, urbanismo y medio ambiente.
+7. Las autorizaciones de explotación recogerán expresamente aquellas modificaciones no sustanciales expresamente reconocidas.
+8. La eficacia de las modificaciones no sustanciales reconocidas como tales de acuerdo con lo establecido en los apartados anteriores se entiende sin perjuicio de cuantos permisos, licencias y autorizaciones u otros requisitos precisen con carácter previo a solicitar la autorización de explotación.
+Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 39
+
+Artículo 39. Modificaciones sustanciales.
+1. Tendrán la consideración de modificaciones sustanciales las modificaciones que no puedan incluirse en la definición de modificación no sustancial contemplada en el artículo anterior.
+2. Las modificaciones sustanciales se tramitarán y, en su caso, se autorizarán de acuerdo con el procedimiento y condicionantes establecidos en el presente título.
+Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+## CAPÍTULO III
+
+Fianzas y transmisión de parques eólicos
+
+### Artículo 40
+
+Artículo 40. Implantación de proyectos eólicos en suelo rústico.
+1. Conforme a lo establecido en el artículo 35.1.m) de la Ley 2/2016, de 10 de febrero, del suelo de Galicia, los proyectos de parques eólicos y de sus infraestructuras de evacuación podrán implantarse en cualquier categoría de suelo rústico, al no implicar la urbanización o transformación urbanística de los terrenos, sin que sea necesaria la aprobación de un proyecto de interés autonómico regulado por la legislación de ordenación del territorio.
+2. Otorgada la autorización administrativa previa y de construcción, se tramitará el título habilitante municipal de naturaleza urbanística que corresponda. En caso de que el suelo sea rústico de especial protección, será necesario obtener la autorización o el informe favorable del órgano que tenga la competencia sectorial correspondiente con carácter previo a la tramitación del título habilitante municipal. A estos efectos, no será necesaria la emisión de una nueva autorización o informe en caso de que la competencia sectorial corresponda a un órgano autonómico y este se hubiese pronunciado favorablemente en el trámite previsto en el artículo 33.12.
+3. Las instalaciones de producción de electricidad, aerogeneradores, instalaciones de control y obra civil necesaria del parque, así como sus infraestructuras y líneas de evacuación, deberán ajustarse al proyecto aprobado, sin que les sean de aplicación las condiciones que recoge el artículo 39 de la Ley 2/2016, de 10 de febrero. Las casetas donde se instalen elementos de control no podrán estar situadas a una distancia inferior a 5 metros de los lindes de la parcela. En caso de que el proyecto incluya obras que deban calificarse de edificación de acuerdo con la legislación reguladora de la ordenación de la edificación, serán de aplicación a ellas las condiciones que recoge el artículo antes citado para los edificios.
+Las instalaciones de producción de electricidad, aerogeneradores, instalaciones de control y obra civil necesaria del parque, así como sus infraestructuras y líneas de evacuación, deberán ajustarse al proyecto aprobado, sin que les sean de aplicación las condiciones que recoge el artículo 39 de la Ley 2/2016, de 10 de febrero. Las casetas donde se sitúen elementos de control no podrán estar ubicadas a una distancia inferior a 5 metros de los lindes de la parcela. En caso de que el proyecto incluya obras que deban calificarse de edificación de acuerdo con la legislación reguladora de la ordenación de la edificación, serán aplicables a las mismas las condiciones que recoge el artículo antes citado para los edificios.
+4. En todo caso, y a efectos de lo contemplado en el punto 1 del artículo 37 de la Ley 2/2016, de 10 de febrero, en el suelo rústico estará permitida la apertura de caminos rurales, tanto los contenidos en los proyectos eólicos y de sus infraestructuras de evacuación aprobados por la administración competente como los necesarios para su ejecución.
+Se modifica el apartado 4 por el art. 24.8 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifican los apartados 1, 2 y 3 por el art. 30.14 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+ Se modifica por el art. 39.10 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifica por la disposición final 6.6 de la Ley 9/2021, de 25 de febrero. Ref. BOE-A-2021-5210#df-6
+ Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+ Se modifica el apartado 1 por el art. 1 de la Ley 4/2014, de 8 de mayo. Ref. BOE-A-2014-7735.
+
+### Artículo 41
+
+Artículo 41. Cierre.
+1. La persona titular de la instalación que pretenda el cierre de la misma habrá de presentar una solicitud de autorización administrativa de cierre, a través de los medios electrónicos que se habilitarán reglamentariamente, dirigida al órgano competente en materia de energía, de acuerdo con lo establecido en el apartado 5 del artículo 16 y en el artículo 66 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, o norma que la sustituya.
+2. La persona titular de la instalación acompañará a la solicitud un proyecto de cierre, que deberá contener como mínimo una memoria en la cual se detallen las circunstancias técnicas, económicas, ambientales o de cualquier otro orden por las que se pretende el cierre, así como los planos actualizados de la instalación a escala adecuada.
+3. La unidad tramitadora será el órgano territorial correspondiente de la consejería competente en materia de energía que haya tramitado la autorización de explotación, salvo que la solicitud de cierre se refiera a un parque eólico ubicado en más de una provincia, para lo cual la unidad tramitadora será la dirección general competente en materia de energía.
+4. Una vez tramitado el expediente, el órgano territorial de la consejería competente en materia de energía elevará el expediente de solicitud de cierre, junto con su informe, a la dirección general competente en materia de energía, que habrá de resolver, previo informe favorable del operador del sistema y gestor de la red de transporte, en un plazo de tres meses desde la recepción del expediente completo en la dirección general competente. En todo caso, la autorización de cierre de la instalación impondrá a la persona titular de esta la obligación de proceder a su desmantelamiento en los términos que resulten de la tramitación del expediente de cierre y a la restitución ambiental de los terrenos afectos por la instalación.
+La falta de resolución expresa tendrá efectos desestimatorios, pudiendo interponerse los recursos procedentes.
+La resolución se notificará a la persona solicitante, publicándose, en todo caso, en el “Diario Oficial de Galicia”.
+5. La autorización expresará el periodo de tiempo, a contar a partir de la notificación de su otorgamiento, dentro del cual deberá procederse al cierre y al desmantelamiento de la instalación.
+6. Concedida la autorización de cierre, el órgano territorial de la consejería competente en materia de energía, previas las comprobaciones técnicas que se estimen oportunas, elevará acta de cierre cuando este se haga efectivo, cursando el parque eólico baja en el Registro Eólico de Galicia.
+Se modifica por la disposición final 7.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 41 bis
+
+Artículo 41 bis. Cumplimiento de la normativa aplicable y cláusula de progreso de las autorizaciones.
+1. Los titulares de las autorizaciones estarán obligados a desarrollar todas aquellas actividades necesarias para producir energía eléctrica en los términos previstos en su autorización y, en especial, en lo que se refiere a la seguridad, a la disponibilidad y al mantenimiento de la potencia instalada y al cumplimiento de las condiciones medioambientales exigibles, conforme a lo establecido en la normativa básica estatal.
+2. En particular, los titulares de las autorizaciones estarán obligados a cumplir las condiciones y los requisitos que sean en cada momento aplicables para reducir el impacto de la implantación y explotación de las actividades en el medio ambiente, conforme a las normas exigibles.
+3. A los efectos indicados en el apartado anterior, podrán establecerse en las autorizaciones, conforme a lo que se determine, en su caso, en el Plan sectorial eólico de Galicia, las condiciones generales que deban cumplirse en relación con el diseño, la construcción, el mantenimiento y la explotación de las actividades, de acuerdo con las mejores técnicas disponibles, entendiendo por tales las más eficaces para conseguir un alto nivel de protección general del medio ambiente en su conjunto, en condiciones económica y técnicamente viables, tomando en consideración los costes y los beneficios, siempre que el titular pueda tener acceso a ellas en condiciones razonables.
+4. El incumplimiento de las condiciones y de los requisitos establecidos en las autorizaciones o la variación sustancial de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del interesado, conforme a lo establecido en la normativa básica estatal.
+Se añade por el art. 30.15 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+## TÍTULO V
+
+Registro Eólico de Galicia
+Se modifica por la disposición final 7.7 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 42
+
+Artículo 42. Registro Eólico de Galicia.
+1. Se crea el Registro Eólico de Galicia, en el que se recogerá de una manera electrónica la ubicación cartográfica de todos los parques eólicos en funcionamiento, autorizados o en tramitación administrativa en el territorio de la Comunidad Autónoma de Galicia, los cuales, a su vez, habrán de ser objeto de inscripción en el Registro de Cartografía de Galicia, en los términos y de conformidad con lo previsto en el Reglamento de ordenación de la información geográfica y de la actividad cartográfica de Galicia, aprobado por Decreto 14/2017, de 26 de enero.
+2. A los datos señalados en el apartado anterior se incorporarán en el Registro Eólico de Galicia todas las solicitudes de modificación de proyectos, que constituirán información de apoyo para la gestión de solapamientos de parques eólicos.
+Se modifica por la disposición final 7.7 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 43
+
+Artículo 43. Funcionamiento y gestión del Registro.
+1. El Registro Eólico de Galicia se constituye con la finalidad de ser una herramienta electrónica de acceso y consulta pública.
+2. El funcionamiento, gestión y desarrollo del Registro se establecerá por orden de la consejería competente en materia de energía.
+Se modifica por la disposición final 7.7 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+## TÍTULO VI
+
+Expropiación y servidumbres
+Se modifica por la disposición final 7.8 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 44
+
+Artículo 44. Declaración de utilidad pública.
+1. A los efectos previstos en el título IX de la Ley 24/2013, de 27 de noviembre, del sector eléctrico, y normativa que lo desarrolla, o normas que las sustituyan, el reconocimiento de la utilidad pública de las instalaciones incluidas en el ámbito de la presente ley se acordará por la dirección general competente en materia de energía, sin perjuicio de la competencia del Consello de la Xunta de Galicia en caso de oposición de organismos u otras entidades de derecho público.
+2. La solicitud de declaración, en concreto, de utilidad pública podrá efectuarse de manera simultánea a la solicitud de autorización administrativa previa y/o de construcción, durante la tramitación de estas autorizaciones o con posterioridad a la obtención de cualquiera de dichas autorizaciones administrativas.
+3. Para dicho reconocimiento será necesario que la empresa interesada lo solicite, incluyendo una relación concreta e individualizada de los bienes y derechos sobre los que no se obtuvo un acuerdo con sus titulares y sobre los que se estima necesaria la expropiación.
+4. La solicitud mencionada en el apartado anterior se someterá a información pública. Igualmente, se recabará el informe de los organismos afectados.
+5. La declaración de utilidad pública conllevará en todo caso la necesidad de ocupación de los bienes y la adquisición de los derechos afectados, implicando la urgente ocupación a los efectos del artículo 52 de la Ley de 16 de diciembre de 1954 sobre expropiación forzosa y concordantes de la Ley 24/2013, de 27 de noviembre, del sector eléctrico, o normas que las sustituyan.
+Se modifica por la disposición final 7.8 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 45
+
+Artículo 45. Concurrencia de utilidades o interés público y trámite y declaración de compatibilidad o prevalencia.
+1. Si, solicitado el reconocimiento de utilidad pública por la persona promotora del parque eólico, se opusiese a la declaración del mismo la persona titular de otro interés público radicado en el mismo espacio territorial, por entender que la autorización y la subsiguiente instalación del parque eólico perjudicarían a este, se procederá a determinar la compatibilidad o incompatibilidad de los aprovechamientos enfrentados, declarándose, en caso de incompatibilidad, la prevalencia de uno de ellos.
+2. El procedimiento de declaración de compatibilidad o prevalencia de utilidades públicas se iniciará por la dirección general competente en materia de energía una vez solicitado el reconocimiento de utilidad pública por la persona promotora y en cuanto tuviera conocimiento de la existencia de aprovechamientos que pudiesen resultar incompatibles.
+3. A dicho conocimiento podrá llegarse de oficio o a solicitud de parte interesada presentada en cualquier momento anterior a la resolución en la que se declare la utilidad pública. El órgano tramitador dará audiencia a las personas titulares de los derechos que puedan estar afectadas, concediéndoseles un plazo de quince días para presentar alegaciones, que se remitirán a la persona promotora para su conocimiento y contestación.
+4. Finalizado el trámite de audiencia, se remitirá copia completa del resultado del mismo al órgano competente para la autorización o título habilitante del aprovechamiento, que habrá de remitir, en un plazo de veinte días hábiles, informe sobre la compatibilidad o incompatibilidad del aprovechamiento afectado.
+5. Cuando la compatibilidad o prevalencia se suscitase entre aprovechamientos en que sea competente para su autorización la consejería competente en materia de energía, la declaración de utilidad pública y, en su caso, la declaración de compatibilidad o prevalencia se realizarán por la persona titular de la consejería en materia de energía en el plazo máximo de dos meses, a contar desde la recepción de la documentación completa. La falta de resolución expresa en el plazo indicado tendrá efectos desestimatorios, pudiendo interponerse los recursos que procedan.
+6. En caso de que las autorizaciones o títulos habilitantes para los aprovechamientos sean competencia de más de una consejería, la declaración de utilidad pública del parque eólico y, en su caso, la declaración de compatibilidad o prevalencia se realizarán por el Consello de la Xunta de Galicia, al que se remitirá el expediente con el informe de las consejerías afectadas, en el plazo máximo de dos meses, a contar desde la recepción de la documentación completa. La falta de resolución expresa en el plazo indicado tendrá efectos desestimatorios, pudiendo interponerse los recursos que procedan.
+7. Si la instalación afecta a montes vecinales en mano común, los trámites previstos en el artículo 6 del Reglamento para la ejecución de la Ley 13/1989, de 10 de octubre, de montes vecinales en mano común, aprobado por Decreto 260/1992, de 4 de septiembre, o norma que lo sustituya, se entenderán cumplimentados con el procedimiento regulado en este artículo. En estos casos, la declaración de utilidad pública de la instalación conllevará el reconocimiento de prevalencia a los efectos establecidos en el apartado 1 del artículo 6 de la Ley 13/1989, de 10 de octubre, de montes vecinales en mano común.
+Se modifica por la disposición final 7.8 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Disposición adicional
+
+Disposición adicional.
+Modificación de la Ley 6/2003, de 9 de diciembre, de tasas, precios y exacciones reguladoras de la Comunidad Autónoma de Galicia.
+Se modifica el apartado 37 contenido en el anexo 3 de la Ley 6/2003, de 9 de diciembre, de tasas, precios y exacciones reguladoras de la Comunidad Autónoma de Galicia, en su redacción vigente, con el siguiente texto:
+«37. Actuaciones en materia de régimen especial de producción eléctrica:
+01. Selección de anteproyectos de instalaciones de parques eólicos: 2.500,00 €.
+02. Autorización administrativa de las instalaciones de parques eólicos: 3.000,00 €.
+03. Autorización administrativa para la transmisión de titularidad de parques eólicos: 500,00 €.
+04. Inclusión en el régimen especial e inscripción en el registro de la inclusión, modificación y cancelación del régimen especial: 500,00 €.»
+
+### Disposición adicional primera
+
+Disposición adicional primera. Proyectos declarados de interés especial.
+1. Podrán declararse de especial interés por el Consello de la Xunta los proyectos de producción de energía eléctrica a partir de fuentes renovables y sus infraestructuras de evacuación asociadas que se desarrollen en el marco de subastas para la asignación de régimen retributivo específico a instalaciones de producción de energía eléctrica a partir de tecnologías renovables, impulsadas al amparo de lo dispuesto en el Real decreto 413/2014, de 6 de junio, por el que se regula la actividad de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos, o norma que lo sustituya, con la finalidad de que sean despachados prioritariamente por los distintos órganos de la Administración general de la Comunidad Autónoma de Galicia que intervienen en el procedimiento administrativo de su autorización y con carácter de urgencia.
+2. La solicitud de declaración de interés especial de estos proyectos habrá de realizarse a la consejería competente en materia de energía, presentando una memoria que contenga su especial incidencia y beneficios en el ámbito industrial, social y territorial, entre otros, así como una declaración responsable de que el proyecto se desarrollará en el marco de las subastas indicadas anteriormente, debiendo determinar el plazo previsto para su ejecución.
+Para realizar esta solicitud, la persona promotora del proyecto habrá de presentar previamente, tanto para la instalación de producción de energía como para las infraestructuras de evacuación asociadas, la solicitud de autorización de construcción, así como, si fuese preciso, la solicitud de declaración de utilidad pública y la de aprobación del proyecto sectorial.
+3. La declaración de proyecto de interés especial se acordará por el Consello de la Xunta de Galicia, a propuesta de la persona titular de la consejería competente en materia de energía, comprendiendo conjuntamente el proyecto de producción de energía y las infraestructuras de evacuación asociadas.
+4. La declaración de interés especial de un proyecto tendrá como efectos la tramitación de forma prioritaria y con carácter de urgencia y la reducción a la mitad de los plazos necesarios en la instrucción del procedimiento de la autorización administrativa previa y/o de construcción, así como de los plazos en la instrucción del procedimiento de evaluación ambiental que sea necesario. Asimismo, se reducirán a la mitad los plazos necesarios en la tramitación del proyecto sectorial.
+5. Los proyectos declarados de interés especial habrán de ejecutarse y solicitar la autorización de explotación con anterioridad al 1 de enero de 2020. En caso contrario, quedará sin efecto la declaración de interés especial del proyecto, incautándose de los correspondientes avales y garantías depositadas.
+Se añade por la disposición final 7.9 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Creación de la comisión de seguimiento de la ejecución de los proyectos de desarrollo de naturaleza industrial y del resto de criterios de selección vinculados a los parques eólicos adjudicados dentro de las órdenes de convocatoria que regula la presente ley.
+Con el fin de llevar a cabo el seguimiento de la ejecución de los proyectos de naturaleza industrial y del resto de criterios de selección vinculados a los parques eólicos adjudicados dentro de las órdenes de convocatoria que regula la presente ley se crea una comisión de seguimiento y control que garantizará la ejecución de las actuaciones por las que los proyectos eólicos fueron seleccionados.
+La comisión de seguimiento y control estará integrada por seis miembros y funcionará en pleno y por secciones. El presidente y los restantes miembros serán designados por la persona titular de la dirección general competente en materia de energía. Será nombrado secretario de la comisión uno de los miembros, distinto del que ejerza la presidencia.
+La concreción de los fines de la comisión, su organización y funcionamiento se desarrollarán reglamentariamente mediante orden de la consejería con competencias en materia de energía.
+La constitución y puesta en funcionamiento de esta comisión no supondrán incremento del gasto público.
+Se modifica el párrafo 2 por la disposición final 4 de la Ley 14/2013, de 26 de diciembre. Ref. BOE-A-2014-1586.
+ Se modifica por la disposición final 2.2 de la Ley 12/2011, de 26 de diciembre. Ref. BOE-A-2012-1252.
+ Se añade por la disposición final 1.2 de la Ley 15/2010, de 28 de diciembre. Ref. BOE-A-2011-2546.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Infraestructuras de evacuación.
+1. Las nuevas solicitudes de autorización a las que se refiere el artículo 53 de la Ley 24/2013, de 26 de diciembre, del sector eléctrico, o norma que la sustituya, correspondientes a infraestructuras de evacuación de los parques eólicos se tramitarán según las disposiciones establecidas en esta ley, en lo que sea de aplicación.
+2. Se declaran de incidencia supramunicipal, a los efectos previstos en el Decreto 80/2000, de 23 de marzo, por el que se regulan los planes y proyectos sectoriales de incidencia supramunicipal, o norma que lo sustituya, los proyectos sectoriales de las infraestructuras de evacuación de las instalaciones de generación eólica desarrolladas en el marco del Plan sectorial eólico de Galicia.
+3. Para iniciar la tramitación del expediente de una infraestructura de evacuación será requisito necesario que el parque eólico disponga de permiso de acceso y conexión. El final de la infraestructura de evacuación tiene que coincidir con el punto de conexión del parque o con otra infraestructura de evacuación de otros parques eólicos que esté en tramitación, autorizada o en servicio, para garantizar que el trazado de la línea propuesto sea viable técnicamente y produzca el menor impacto posible sobre el territorio. A estos efectos, se aportará la documentación de justificación de la evacuación de la instalación de producción hasta el punto de conexión a través del propio proyecto o de otros en tramitación, autorizados o en funcionamiento.
+4. Como norma general, y salvo justificación expresa de la imposibilidad de hacerlo de otra manera, no se admitirán a trámite nuevas infraestructuras de evacuación con una longitud de más de 15 km, salvo que se trate de infraestructuras colectoras de varios parques eólicos y estas no tengan una longitud superior a 0,3 km por megavatio conectado a ellas.
+5. Para evitar la duplicidad de infraestructuras de evacuación de diferentes parques eólicos o entre las nuevas propuestas de evacuación y la red de distribución y transporte existente o planificada, siempre que fuera posible, deberá utilizarse la red existente, ya sea de transporte, distribución o evacuación titularidad de otros promotores eólicos que tenga capacidad suficiente de evacuación o que sea posible su refuerzo o repotenciación. Para ello podrá hacerse uso de lo establecido en el artículo 54.2 de la Ley 24/2013, del sector eléctrico.
+Los promotores habrán de solicitar la repotenciación de la red de distribución o transporte existente e intentar llegar a acuerdos con los titulares de otras infraestructuras de evacuación, o justificar la imposibilidad de hacerlo, antes de proponer un trazado nuevo.
+Se modifican los apartados 1 y 3 por el art. 24.9 y 10 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se añaden los apartados 3 a 5 por la disposición final 2.2 de la Ley 2/2024, de 7 de noviembre. Ref. BOE-A-2025-237
+ Se modifica el apartado 1 por el art. 35 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#a3-6
+ Se añade por la disposición final 7.10 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Régimen jurídico.
+En el procedimiento de autorizaciones administrativas de las instalaciones de parques eólicos serán de aplicación los artículos 50, 51 y 52 de la Ley 9/2021, de simplificación administrativa y de apoyo a la reactivación económica de Galicia.
+Se añade por la disposición final 6.8 de la Ley 9/2021, de 25 de febrero. Ref. BOE-A-2021-5210#df-6
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Distancias a núcleos de población.
+1. Como medio para asegurar la compatibilidad del desarrollo eólico con la ordenación del territorio y el urbanismo, la distancia de los aerogeneradores a las delimitaciones de suelo de núcleo rural, urbano o urbanizable delimitado será la mayor de estas dos: 500 metros o 5 veces la altura total del aerogenerador (buje más pala).
+Estos requisitos de distancias serán de aplicación a las solicitudes de autorización administrativa previa y de construcción de parques eólicos cuya implantación se proyecte en el territorio de la Comunidad Autónoma de Galicia.
+No serán de aplicación estos requisitos de distancia a los proyectos de modificaciones sustanciales (repotenciaciones) de parques que estén en funcionamiento antes de la entrada en vigor de la Ley 18/2021, de 27 de diciembre, de medidas fiscales y administrativas, en los cuales, para mantener su potencia total en funcionamiento, exista imposibilidad técnica justificada de su implantación.
+No serán tampoco aplicables a aquellos proyectos que hayan perdido los permisos de acceso y conexión como consecuencia de no haber alcanzado alguno de los hitos previstos en el Real decreto ley 23/2020, de 23 de junio, por el que se aprueban medidas en materia de energía y en otros ámbitos para la reactivación económica, y que deban solicitar nuevamente las autorizaciones administrativas previa y de construcción, siempre que cuenten con una declaración de impacto ambiental favorable en vigor en la fecha de la nueva solicitud de autorización.
+En todo caso, los aerogeneradores deberán situarse a la máxima distancia posible, con un mínimo de 500 metros, a las delimitaciones de suelo de núcleo rural, urbano o urbanizable delimitado.
+2. Las distancias establecidas en esta disposición a las delimitaciones de suelo citadas en el apartado 1 se medirán desde el centro de la base del aerogenerador, sin tener en cuenta las palas.
+3. En el caso de los núcleos de población u otros lugares habitados, casas aisladas, establecimientos industriales, granjas o establecimientos o explotaciones destinadas a la ganadería extensiva e intensiva, u otros establecimientos ubicados fuera de las clases de suelos indicadas, no serán de aplicación las indicadas distancias. En estos casos, para determinar las distancias precisas deberá observarse lo establecido por las normas específicamente aplicables, en su caso, y el resultado de la evaluación ambiental. En particular, para asegurar el cumplimiento de los niveles sonoros de inmisión establecidos por la normativa de ruido, los estudios de impacto ambiental recogerán análisis sobre la propagación del ruido, en relación con las características de los aerogeneradores y la geografía concreta del terreno.»
+Se modifica por el art. 30.16 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+ Téngase en cuenta, respecto del apartado 2, lo establecido en la disposición transitoria 2 de la citada Ley.
+ Se añade por el art. 39.2 Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Planificación de nuevas solicitudes de parques eólicos.
+1. Atendiendo al número de proyectos de parques eólicos admitidos y actualmente en tramitación y a la cifra de MW prevista en estos proyectos, que excede la prevista en el Plan Sectorial Eólico de Galicia, y con el objeto de procurar una ordenación racional desde la perspectiva de las competencias gallegas en relación a la ordenación del territorio, durante el plazo de 18 meses desde la entrada en vigor de la Ley 18/2021, de 27 de diciembre, de medidas fiscales y administrativas, no se admitirán a trámite nuevas solicitudes de parques eólicos.
+Esta disposición no impedirá la modificación de los proyectos ya admitidos a trámite.
+2. Se exceptúan de lo establecido en el número anterior:
+a) Aquellos proyectos que tengan una clara incidencia territorial por su entidad económica y social, posean una función vertebradora y estructurante del territorio y sean declarados como tales por el Consejo de la Xunta de Galicia, a propuesta de la consejería competente en materia de energía.
+b) Aquellos proyectos que, habiendo solicitado un permiso de acceso y conexión antes de la entrada en vigor de la Ley 18/2021, de 27 de diciembre, de medidas fiscales y administrativas, lo obtengan durante el plazo que dura la moratoria.
+3. Atendiendo a los eventuales desistimientos, renuncias, declaraciones de caducidad o resoluciones desestimatorias de las solicitudes ya presentadas, el Consejo de la Xunta de Galicia, motivadamente, podrá reabrir temporalmente el plazo para presentar nuevas solicitudes utilizando como referencia los MW en trámite.
+4. En todo caso, lo establecido en este artículo será únicamente de aplicación a aquellas instalaciones que sean competencia de la Comunidad Autónoma en virtud de lo dispuesto en la legislación básica.
+Se modifica por el art. 46.1 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+ Se añade por el art. 39.3 Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Solicitudes para la instalación de parques eólicos que pierdan el permiso de acceso y conexión como consecuencia del Real decreto-ley 23/2020, de 23 de junio, por el que se aprueban medidas en materia de energía y en otros ámbitos para la reactivación económica.
+1. La Administración autonómica continuará la tramitación de las solicitudes para la instalación de parques eólicos que pierdan el permiso de acceso y conexión como consecuencia del incumplimiento de los hitos temporales establecidos en el Real decreto-ley 23/2020, de 23 de junio, por el que se aprueban medidas en materia de energía y en otros ámbitos para la reactivación económica. Si la tramitación de la solicitud llegase al momento inmediatamente anterior a la obtención de la autorización administrativa y cumpliese con todos los requisitos excepto tener el citado permiso, el órgano sustantivo para su autorización emitirá una declaración en que haga constar que el proyecto cumple con todos los requisitos para la autorización a excepción del permiso de acceso y conexión, y que la autorización administrativa previa y de construcción no puede emitirse hasta la obtención del permiso.
+La indicada declaración se notificará al promotor. Asimismo, se dará traslado a la Delegación del Gobierno en Galicia, a los efectos del conocimiento de esta circunstancia.
+2. Para todos aquellos proyectos que no sean iniciativas empresariales prioritarias de acuerdo con lo establecido en la Ley 5/2017, de 19 de octubre, de fomento de la implantación de iniciativas empresariales de Galicia, los expedientes que dispongan de permiso de acceso y conexión tendrán preferencia en la tramitación sobre los que no lo tengan.
+3. Teniendo en cuenta la brevedad de los plazos establecidos en el Real decreto-ley 23/2020, de 23 de junio, por el que se aprueban medidas en materia de energía y en otros ámbitos para la reactivación económica, y el elevado número de solicitudes presentadas y expedientes de evaluación ambiental en tramitación como consecuencia de la aplicación de la indicada norma, se entenderá que la pérdida de los permisos de acceso y conexión por incumplimiento de los hitos de obtención de declaración de impacto ambiental (DIA) establecidos en el real decreto-ley se debe a la imposibilidad material de cumplimiento de los indicados plazos, por lo que se apreciará la existencia de causas no imputables al promotor. De este modo, en el caso de caducidad de los citados permisos, no se procederá a la ejecución de las garantías económicas depositadas ante la Administración autonómica, de acuerdo con lo establecido en el artículo 1.2 del citado Real decreto-ley 23/2020. Lo establecido en este número no será aplicable en los supuestos en que la Administración autonómica aprecie motivadamente que el incumplimiento del hito se deba directamente a defectos graves de la documentación presentada o a otras causas únicamente imputables al promotor. En este caso se procederá al archivo de la solicitud, previa audiencia del interesado.
+Se añade por el art. 46.3 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+
+### Disposición adicional octava
+
+Disposición adicional octava. Instalaciones iniciales de autoconsumo eólicas sin excedentes que durante su tramitación o una vez instaladas obtengan un permiso de acceso y conexión.
+Aquellas instalaciones de generación eólica para el autoconsumo sin excedentes que, conforme al artículo 3, queden excluidas de su ámbito de aplicación pero que durante su tramitación o una vez ejecutadas obtengan un permiso de acceso y conexión a red de transporte o distribución por una potencia superior a 100 kW deberán tramitarse conforme a lo dispuesto en esta norma, y no podrán, en caso de estar ejecutadas, conectar a red mientras no obtengan las autorizaciones administrativas necesarias para ser una instalación de producción de acuerdo con lo establecido en el título IV de esta ley.
+Se añade por el art. 39.11 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+
+### Disposición adicional novena
+
+Disposición adicional novena. Consideración de los posibles efectos acumulativos y sinérgicos en la evaluación de impacto ambiental de proyectos de parques eólicos de competencia autonómica.
+1. En la evaluación de impacto ambiental que se realice en los procedimientos de autorización de proyectos de parques eólicos de competencia autonómica deberán tenerse en cuenta, en particular, los posibles efectos significativos acumulativos y sinérgicos de los demás parques eólicos en funcionamiento, en construcción, con autorización administrativa, con declaración de impacto ambiental o con informe de impacto ambiental, sobre los factores indicados en el artículo 5.1.a) de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, situados dentro de la zona de influencia del proyecto, que compartan acceso, infraestructuras de evacuación y/u otra infraestructura asociada. Esta misma regla se aplicará a los proyectos de instalaciones de conexión de los parques eólicos de competencia autonómica cuando se hayan tramitado de forma separada a los proyectos de los parques.
+A estos efectos, se considerará zona de influencia del proyecto aquella en que se manifiesten sus posibles efectos significativos.
+Cuando se trate de proyectos de parques eólicos en tramitación, el órgano ambiental, de conformidad con lo establecido en la disposición adicional undécima de la Ley 21/2013, de 9 de diciembre, podrá acordar la acumulación de procedimientos de evaluación de impacto ambiental, cuando aprecie que existe identidad sustancial o íntima conexión entre ellos.
+2. Para permitir el análisis de lo indicado en el apartado anterior, los estudios de impacto ambiental o los documentos ambientales que elaboren los promotores de los distintos proyectos deberán incluir en su contenido un análisis específico de los indicados efectos acumulativos o sinérgicos, de acuerdo con lo indicado en los artículos 35.1.c) o 45.1.e) de la Ley 21/2013, de 9 de diciembre.
+3. Lo indicado en el apartado 1 en cuanto a la evaluación ambiental de los posibles efectos significativos acumulativos y sinérgicos, a la compartición de accesos e infraestructuras y a la eventual acumulación de las evaluaciones de impacto ambiental no obsta para la consideración de la autonomía de cada proyecto de parque eólico a efectos de su autorización independiente, atendiendo a la definición de parque eólico recogida en el artículo 2.1 de la Ley 8/2009, de 22 de diciembre, por la que se regula el aprovechamiento eólico en Galicia y se crean el canon eólico y el Fondo de Compensación Ambiental.
+A estos efectos, para la autorización independiente de cada parque eólico, y sin perjuicio de lo dispuesto en el apartado 1 de esta disposición, se tendrán en cuenta el carácter unitario de cada parque y su consideración autónoma e independiente, siempre que tenga capacidad de funcionamiento separado, aunque comparta infraestructuras con otros parques de acuerdo con lo indicado en la normativa estatal del sector eléctrico.
+Tampoco afectará a la autonomía y a la independencia de cada parque, en los términos indicados, el hecho de que puedan existir en sus cercanías otros parques promovidos por el mismo promotor, siempre que se justifique que ello viene determinado por un uso racional de las posibilidades de explotación ofrecidas por el terreno.
+Asimismo, no afectará a la autonomía y a la independencia de los parques y a su posible tramitación y autorización independiente la posible tramitación y autorización separada de los proyectos relativos a sus instalaciones de conexión.
+4. En ningún caso se autorizará un fraccionamiento de proyectos en los términos definidos en la Ley 21/2013, de 9 de diciembre, que tenga por objeto evitar la evaluación de impacto ambiental ordinaria de los proyectos resultantes, por ser estos inferiores a los umbrales establecidos en su anexo I.
+De conformidad con lo establecido en la letra n) de la parte B) del anexo VI de la Ley 21/2013, de 9 de diciembre, no podrá entenderse que existe fraccionamiento de proyectos cuando los proyectos se sometan individualmente a evaluación de impacto ambiental ordinaria por superar los umbrales fijados en su anexo I. Esta conclusión no se verá alterada por el hecho de que los proyectos sometidos a evaluación de impacto ambiental ordinaria compartan determinadas infraestructuras, siempre que tengan capacidad de funcionamiento separado.
+La Administración autonómica promoverá, en el marco de sus competencias, la compartición y utilización conjunta de las infraestructuras de los proyectos de parques eólicos por resultar más favorable desde el punto de vista medioambiental.
+5. Lo dispuesto en esta disposición en cuanto a la posible tramitación y autorización independiente de cada parque eólico cuando tenga capacidad de funcionamiento separado, aunque comparta infraestructuras con otros parques, y en cuanto a la apreciación de existencia de fraccionamiento, será de aplicación a los proyectos de parques eólicos que en el momento de la entrada en vigor de esta disposición no estuvieran resueltos de forma definitiva en la vía administrativa.
+Se añade por el art. 39.12 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+
+### Disposición adicional décima
+
+Disposición adicional décima. Actuaciones de interés general dirigidas a la repotenciación de parques eólicos para reducir su impacto en el territorio y en el medio ambiente.
+1. Atendiendo al objetivo prioritario de reducir el impacto en el territorio y en el medio ambiente de la implantación y explotación de los parques eólicos existentes, teniendo en cuenta la evolución de la ciencia y de la técnica, se declaran de interés público superior las actuaciones de repotenciación de parques eólicos de competencia de la Comunidad Autónoma de Galicia que consistan en la reducción del número de aerogeneradores y su sustitución por otros más capaces o eficientes, manteniéndose la potencia autorizada en el proyecto. Las actuaciones de repotenciación no podrán dar lugar a un incremento de la potencia autorizada en el proyecto, salvo que se disponga de un permiso de acceso y conexión que permita la evacuación de una potencia mayor.
+2. Las actuaciones de repotenciación indicadas en el apartado anterior serán obligatorias para todos los titulares de las autorizaciones existentes en el momento de la entrada en vigor de esta disposición, conforme a lo establecido en los números que siguen.
+3. Mientras no entre en vigor el Plan sectorial eólico de Galicia, las actuaciones de repotenciación serán obligatorias para los parques eólicos existentes de competencia de la Comunidad Autónoma de Galicia, por razones de reducción de su impacto en el territorio y en el medio ambiente, en aquellos casos en que la repotenciación permita una reducción del número de aerogeneradores en funcionamiento siempre que hayan alcanzado los veinticinco años desde su puesta en funcionamiento. No obstante, este plazo podrá ser superior, con el límite de treinta años, en caso de que la vida útil prevista de los aerogeneradores en los proyectos autorizados supere los 25 años indicados, de acuerdo con las previsiones contenidas en la documentación técnica o en los estudios técnico-económicos de viabilidad presentados en el procedimiento de autorización originario.
+4. Están exceptuados de la obligación de repotenciación los parques eólicos que no superen el número de diez aerogeneradores y los parques eólicos experimentales.
+5. Las actuaciones de repotenciación indicadas en el apartado 3 deberán efectuarse en condiciones y plazos que se ajustarán al principio de proporcionalidad, y serán económica y técnicamente viables. A estos efectos se tomarán en consideración los costes y los beneficios de la explotación. En particular, se tendrán en cuenta los costes asociados al desmantelamiento de los aerogeneradores, incluyendo la adaptación ambiental y la restauración de los terrenos liberados, así como los costes y los ingresos asociados a la inversión realizada para la repotenciación.
+Igualmente, se tendrán en cuenta las mejores técnicas disponibles para conseguir un alto nivel de protección general del medio ambiente en su conjunto, siempre que el titular del parque eólico pueda tener acceso a ellas en condiciones razonables.
+Las actuaciones de repotenciación buscarán la máxima reducción posible del número de aerogeneradores en funcionamiento, procurándose una reducción, como mínimo, a la cuarta parte de los existentes. No será necesario alcanzar dicha reducción cuando las condiciones y los valores ambientales del emplazamiento desaconsejasen la instalación de aerogeneradores del tamaño que permita conseguir dicho porcentaje.
+Las distancias mínimas de los aerogeneradores a las delimitaciones de suelo de núcleo rural, urbano o urbanizable delimitado serán las aplicables a las autorizaciones ya otorgadas.
+6. Las personas titulares de los parques eólicos en que se den las condiciones establecidas en esta disposición estarán obligadas a presentar a la Administración autonómica la solicitud de autorización administrativa previa y de construcción derivada de la repotenciación, aportando el correspondiente proyecto, en el plazo de dieciocho meses, contado desde su entrada en vigor, o contado desde el momento en que se cumplan las condiciones establecidas en el apartado 3, en el supuesto de que este cumplimiento se produzca después de su entrada en vigor.
+Las personas titulares de los parques eólicos indicarán en su solicitud y proyecto las condiciones y los plazos que propongan para la ejecución de la repotenciación, y presentarán, en particular, la documentación técnica y económica que justifique los plazos solicitados y las fases en que se ejecutará, procurando, en la medida de lo posible, una pronta ejecución en el tiempo y el mantenimiento de la producción de energía eléctrica durante su desarrollo. En caso de que la solicitud del promotor indique, por razones justificadas de viabilidad técnica o económica, unos plazos de inicio o de ejecución de las obras superiores en más de seis meses a los previstos como mínimos para cada caso en el apartado 9 de esta disposición, la Administración autonómica solicitará informe al Instituto Gallego de Promoción Económica a los efectos del análisis de las razones indicadas de viabilidad económica, conforme a los criterios previstos en el número 5, sin perjuicio de otros informes que se considere oportuno solicitar.
+7. La Administración autonómica podrá requerir a los titulares de las autorizaciones obligados a realizar las actuaciones de repotenciación que presenten la correspondiente solicitud de repotenciación, acompañada del proyecto correspondiente. A estos efectos, la Administración autonómica podrá proceder a la comprobación de las autorizaciones otorgadas en las que se puedan dar las condiciones previstas en esta disposición, para lo cual podrá requerir a los titulares de las autorizaciones la documentación necesaria para la verificación.
+8. Las solicitudes de repotenciación se tramitarán de conformidad con lo establecido en esta ley y previa la tramitación ambiental que proceda conforme a la normativa aplicable.
+La autorización del proyecto de repotenciación implicará la obligación de proceder al desmantelamiento de los aerogeneradores obsoletos en los términos que se determinen y a la restitución ambiental de los terrenos que no resulten necesarios para la explotación.
+La autorización modificará la poligonal de delimitación del parque eólico para acomodarla al área efectivamente afectada por la instalación derivada de la repotenciación.
+9. La autorización administrativa previa y de construcción determinará, conforme a lo establecido en el apartado 5, las condiciones y los plazos en que se deben efectuar las actuaciones de repotenciación, especificando aquellas cuyo incumplimiento puede dar lugar a la revocación de la autorización. La autorización no podrá establecer un plazo de inicio de las obras y actuaciones inferior a dieciocho meses, ni un plazo de ejecución de ellas inferior a dieciocho meses, salvo petición del promotor. La Administración, previa petición del titular de la autorización, suspenderá los plazos para la ejecución de las actuaciones de repotenciación en caso de que existieran recursos administrativos o judiciales interpuestos por terceros, hasta que la autorización alcance firmeza.
+Las actuaciones de repotenciación podrán desarrollarse por fases, para mantener en la medida de lo posible la producción de energía eléctrica durante su desarrollo.
+10. El incumplimiento de la obligación de solicitar la repotenciación en los supuestos en que sea obligatoria, los retrasos injustificados por parte del titular del parque eólico o la obstrucción en el procedimiento de obtención de la autorización, así como el incumplimiento de la obligación de repotenciación en las condiciones y en los plazos establecidos en la autorización de repotenciación, podrá dar lugar a la revocación de la autorización del parque eólico existente, previa audiencia del interesado.
+11. Cuando entre en vigor el Plan sectorial eólico de Galicia serán de aplicación sus disposiciones en cuanto a los supuestos de obligación de repotenciación y a las condiciones y plazos en que deben efectuarse estas actuaciones.
+Se levanta la suspensión de la vigencia y aplicación de esta disposición, añadida por el art. 30.17 de la Ley 5/2024, de 27 de diciembre, por Auto del TC 20/2026, de 24 de febrero. Ref. BOE-A-2026-7123
+ Se suspende la vigencia y aplicación de esta disposición, añadida por el art. 30.17 de la Ley 5/2024, de 27 de diciembre, desde el 30 de septiembre de 2025 para las partes del proceso y desde el 4 de febrero de 2026 para los terceros, por providencia del TC de 27 de enero de 2026 que admite a trámite el recurso de inconstitucionalidad nº 6810-2025, Ref. BOE-A-2026-2549, aclarada por Providencia de 12 de febrero de 2026. Ref. BOE-A-2026-3379
+ Se añade por el art. 30.17 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+### Disposición adicional decimoprimera
+
+Disposición adicional decimoprimera. Elaboración de una base de datos cartográfica de las zonas necesarias para el despliegue de la energía renovable eólica.
+1. Conforme a lo establecido en la Directiva (UE) 2018/2001 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, relativa al fomento del uso de energía procedente de fuentes renovables, la Comunidad Autónoma de Galicia, en el marco de sus competencias de ordenación del territorio, elaborará una base de datos cartográfica relativa al despliegue de la energía renovable eólica en su territorio a fin de determinar el potencial doméstico y las zonas terrestres disponibles para la instalación de parques eólicos y sus infraestructuras de evacuación y de red.
+2. La base de datos cartográfica relativa al despliegue de la energía renovable eólica tendrá la naturaleza de instrumento técnico de diagnóstico previo, a los efectos de suministrar información de apoyo para los instrumentos de ordenación del territorio y, en especial, para la elaboración del Plan sectorial eólico de Galicia y la planificación de las zonas de aceleración renovable, por lo que no tendrá la consideración de plan o programa.
+3. Para la elaboración de la base de datos se tendrán en cuenta los instrumentos de ordenación territorial vigentes y, en especial, el Plan sectorial eólico de Galicia existente, además de la información que tenga a su disposición la Administración autonómica y la procedente de otras administraciones. También se tendrán en cuenta los usos preexistentes en las zonas cartografiadas. En todo caso se favorecerán los usos múltiples en las zonas incluidas en la cartografía, por lo que la identificación de estas zonas no implicará la incompatibilidad con otros usos. Los proyectos de energía renovable eólica serán compatibles con los usos preexistentes de dichas zonas.
+Se dará publicidad por medios electrónicos a la base de datos elaborada.
+4. Lo establecido en este precepto se entenderá sin perjuicio de los mecanismos de cooperación o coordinación que establezcan las autoridades competentes a los efectos de la integración de la base de datos en la cartografía que se elabore a nivel nacional.
+5. La base de datos será revisada y actualizada cuando sea necesario, teniendo en cuenta, en particular, las actualizaciones del Plan nacional de energía y clima.
+Se añade por el art. 30.18 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+### Disposición adicional decimosegunda
+
+Disposición adicional decimosegunda. Zonas de aceleración renovable eólica.
+1. De conformidad con lo establecido en la Directiva (UE) 2018/2001 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, la Administración autonómica podrá aprobar, como instrumentos específicos de planificación, antes de la aprobación del Plan sectorial eólico de Galicia, la designación de zonas de aceleración renovable eólica. En estos instrumentos se designarán zonas terrestres suficientemente homogéneas en las cuales no se prevea que el despliegue de la energía eólica vaya a tener un impacto ambiental significativo, teniendo en cuenta las particularidades de la zona seleccionada.
+2. Para definir las zonas en que las plantas de energía renovable no tienen un impacto ambiental significativo, se utilizarán todas las herramientas y conjuntos de datos adecuados y proporcionados, y se tendrán en cuenta los datos disponibles en el contexto del desarrollo de una Red Natura 2000 coherente y suficiente en lo que respecta a tipos de hábitats y especies, conforme a la normativa comunitaria de aplicación.
+3. De las zonas de aceleración renovable eólica serán excluidas, de conformidad con lo que establezca la normativa comunitaria vigente en cada momento, los espacios de la Red Natura 2000 y las zonas designadas conforme a la normativa de protección de la naturaleza y conservación de la biodiversidad, las principales rutas de migración de aves y mamíferos, así como otras zonas definidas conforme a las herramientas mencionadas en el apartado 2.
+4. En los instrumentos de designación de las zonas de aceleración renovable eólica, atendiendo a las especificidades de cada zona y al impacto ambiental detectado, se establecerán normas adecuadas de aplicación en cuanto a las medidas de mitigación efectivas que deben adoptarse en relación con la instalación de plantas de energía renovable eólica, así como los activos necesarios para la conexión de dichas plantas a la red, a fin de evitar el impacto ambiental adverso que pueda surgir o, si no fuera posible, reducirlo significativamente, en su caso velando por que se apliquen medidas de mitigación adecuadas de forma proporcionada y oportuna para garantizar el cumplimiento de las obligaciones establecidas en la normativa comunitaria y para evitar el deterioro y lograr un buen estado ecológico o un buen potencial ecológico.
+Serán de aplicación, en particular, en cuanto a estos aspectos, los criterios establecidos en la Ley de fomento de los beneficios sociales y económicos de los proyectos que utilizan los recursos naturales de Galicia.
+5. El cumplimiento de las normas a que se refiere el apartado 4 y la ejecución de las medidas de mitigación adecuadas por parte de los proyectos individuales darán lugar a la presunción de que los proyectos no incumplen las disposiciones tenidas en cuenta, conforme a lo establecido en la normativa comunitaria.
+6. El procedimiento de aprobación de los instrumentos de planificación en los que se designen las zonas de aceleración renovable eólica se iniciará de oficio por acuerdo de la consejería competente en materia de planificación energética, que tendrá la consideración de órgano sustantivo.
+El órgano sustantivo remitirá al órgano ambiental una solicitud de inicio de la evaluación ambiental estratégica ordinaria, acompañada de un borrador del instrumento de planificación y de la documentación exigida por la normativa de evaluación ambiental.
+La tramitación de la solicitud se realizará conforme a lo establecido en la normativa básica estatal para la evaluación ambiental estratégica.
+Una vez formulada por el órgano ambiental la declaración ambiental estratégica, la persona titular de la consejería competente en materia de planificación energética acordará la aprobación provisional del instrumento de planificación.
+El Consejo de la Xunta de Galicia, a propuesta de la consejería competente en materia de planificación energética, aprobará definitivamente el instrumento de planificación, mediante un decreto que deberá ser publicado en el ''Diario Oficial de Galicia''. Se dará publicidad al instrumento de planificación en la sede electrónica de la Administración autonómica.
+7. El decreto de aprobación de la designación de las zonas de aceleración renovable justificará la evaluación realizada para definir cada zona de aceleración renovable y para definir las medidas de mitigación adecuadas.
+Se levanta la suspensión de la vigencia y aplicación de esta disposición, añadida por el art. 30.19 de la Ley 5/2024, de 27 de diciembre, por Auto del TC 20/2026, de 24 de febrero. Ref. BOE-A-2026-7123
+ Se suspende la vigencia y aplicación de esta disposición, añadida por el art. 30.19 de la Ley 5/2024, de 27 de diciembre, desde el 30 de septiembre de 2025 para las partes del proceso y desde el 4 de febrero de 2026 para los terceros, por providencia del TC de 27 de enero de 2026 que admite a trámite el recurso de inconstitucionalidad nº 6810-2025, Ref. BOE-A-2026-2549, aclarada por Providencia de 12 de febrero de 2026. Ref. BOE-A-2026-3379
+ Se añade por el art. 30.19 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Áreas de infraestructura específicas para la ejecución de los proyectos de red necesarios para integrar la energía renovable en el sistema eléctrico.
+1. De conformidad con lo establecido en la Directiva (UE) 2018/2001 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, la Administración autonómica podrá aprobar, en el marco de sus competencias, como instrumentos específicos de planificación, antes de la aprobación del Plan sectorial eólico de Galicia, la designación de áreas de infraestructura específicas para la ejecución de los proyectos de red necesarios para integrar la energía eólica en el sistema eléctrico en las que no se prevea que la ejecución de dichos proyectos tenga un impacto ambiental significativo, un impacto que pueda mitigarse o, en su defecto, compensarse debidamente. El objetivo de las citadas áreas será apoyar y complementar las zonas de aceleración renovable eólica.
+2. El procedimiento de aprobación será el establecido en el apartado 6 de la disposición adicional decimosegunda.
+Se levanta la suspensión de la vigencia y aplicación de esta disposición, añadida por el art. 30.20 de la Ley 5/2024, de 27 de diciembre, por Auto del TC 20/2026, de 24 de febrero. Ref. BOE-A-2026-7123
+ Se suspende la vigencia y aplicación de esta disposición, añadida por el art. 30.20 de la Ley 5/2024, de 27 de diciembre, desde el 30 de septiembre de 2025 para las partes del proceso y desde el 4 de febrero de 2026 para los terceros, por providencia del TC de 27 de enero de 2026 que admite a trámite el recurso de inconstitucionalidad nº 6810-2025, Ref. BOE-A-2026-2549, aclarada por Providencia de 12 de febrero de 2026. Ref. BOE-A-2026-3379
+ Se añade por el art. 30.20 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Procedimiento de concesión de autorizaciones en zonas de aceleración renovable eólica.
+Será de aplicación lo establecido en la Directiva (UE) 2018/2001 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, en cuanto al procedimiento de concesión de autorizaciones en zonas de aceleración renovable eólica.
+Se levanta la suspensión de la vigencia y aplicación de esta disposición, añadida por el art. 30.21 de la Ley 5/2024, de 27 de diciembre, por Auto del TC 20/2026, de 24 de febrero. Ref. BOE-A-2026-7123
+ Se suspende la vigencia y aplicación de esta disposición, añadida por el art. 30.21 de la Ley 5/2024, de 27 de diciembre, desde el 30 de septiembre de 2025 para las partes del proceso y desde el 4 de febrero de 2026 para los terceros, por providencia del TC de 27 de enero de 2026 que admite a trámite el recurso de inconstitucionalidad nº 6810-2025, Ref. BOE-A-2026-2549, aclarada por Providencia de 12 de febrero de 2026. Ref. BOE-A-2026-3379
+ Se añade por el art. 30.21 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta. Solicitudes de nueva tramitación de parques eólicos e infraestructuras de evacuación para su adaptación a lo establecido en la Ley 2/2024, de 7 de noviembre, de promoción de los beneficios sociales y económicos de los proyectos que utilizan los recursos naturales de Galicia.
+1. Las personas promotoras de parques eólicos que no dispongan de autorización de explotación definitiva en la vía administrativa podrán optar voluntariamente por una nueva tramitación de las autorizaciones administrativas previas y de construcción del parque eólico, cualquiera que fuera el estado de tramitación de las indicadas autorizaciones y aunque dichas autorizaciones estuviesen ya otorgadas.
+Asimismo, sin perjuicio de lo establecido en la disposición transitoria novena bis, las personas promotoras de infraestructuras de evacuación de parques eólicos podrán optar voluntariamente por una nueva tramitación conjunta de las autorizaciones administrativas previas y de construcción del parque eólico y de su infraestructura de evacuación, cualquiera que fuera el estado de tramitación de las indicadas autorizaciones y aunque las autorizaciones administrativas previa y de construcción del parque eólico estuviesen ya otorgadas.
+2. Si, cuando se solicite la nueva tramitación, las autorizaciones administrativas previas y de construcción del parque eólico estuviesen ya otorgadas, estas autorizaciones se mantendrán en vigor hasta el momento en que adquiera firmeza en vía administrativa y, en su caso, judicial la nueva autorización.
+La presentación de la solicitud de nueva tramitación o de tramitación conjunta de las autorizaciones previas y de construcción del parque eólico y de su infraestructura de evacuación, en caso de que las autorizaciones no estuviesen otorgadas, comportará el desistimiento de los procedimientos que se hubiesen iniciado con anterioridad en relación con el mismo proyecto, con efectos desde la fecha de la admisión a trámite de la solicitud de nueva tramitación. El desistimiento se hará constar expresamente en la solicitud de nueva tramitación, con referencia a los procedimientos anteriores en tramitación en relación con el mismo proyecto.
+3. En caso de que se solicite la nueva tramitación o tramitación conjunta, se iniciará un nuevo procedimiento administrativo, al cual le será de aplicación la legislación vigente en el momento de su inicio, incluida la Ley 2/2024, de 7 de noviembre.
+4. A los proyectos de parques eólicos sometidos a nueva tramitación conforme a lo previsto en esta disposición les será de aplicación lo establecido en los artículos 35, 36 y 37 de la Ley 10/2023, de 28 de diciembre, de medidas fiscales y administrativas, por lo que se presumirá que se trata de proyectos de interés público superior que contribuyen a la salud y a la seguridad pública a los efectos de los artículos 3 del Reglamento (UE) 2022/2577 del Consejo, de 22 de diciembre de 2022, por el que se establece un marco para acelerar el despliegue de energías renovables, y 16 septies de la Directiva (UE) 2018/2001 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, relativa al fomento del uso de energía procedente de fuentes renovables. Dicho interés público superior será ponderado de manera concreta en la tramitación del nuevo procedimiento de otorgamiento de la autorización administrativa previa, de construcción y de explotación del parque, y de las autorizaciones de sus infraestructuras de evacuación, y, en particular, en el trámite de evaluación ambiental.
+5. A las solicitudes previstas en este artículo les será de aplicación una tramitación simplificada, con las siguientes especialidades con respecto al procedimiento regulado en el título IV de esta ley:
+a) En caso de que no hayan variado las circunstancias acreditativas de la capacidad legal, técnica y económica de la persona solicitante con respecto a las alegadas en la primera tramitación del proyecto, dicha capacidad podrá ser acreditada mediante una declaración responsable.
+b) La garantía económica prestada en la primera tramitación del proyecto se entenderá aplicada a la nueva tramitación, que estará exenta del pago de la tasa de verificación de requisitos y capacidades.
+c) Las solicitudes se tramitarán con prioridad con respecto a las solicitudes relativas a nuevos proyectos de parques eólicos.
+d) El estudio de impacto ambiental o, en su caso, el documento ambiental incorporará los contenidos previstos en el artículo 10 de la Ley 2/2024, de 7 de noviembre.
+e) Se aplicarán los requisitos de distancias a las delimitaciones del suelo de núcleo rural, urbano o urbanizable vigentes en el momento en que se hubiese presentado la primera solicitud de autorización administrativa previa y de construcción del proyecto.
+f) Solo se solicitarán los informes previos a los órganos sectoriales previstos en el artículo 34.8 cuando existan indicios fundados de que el proyecto producirá efectos adversos importantes sobre el medio ambiente o el paisaje que no se puedan mitigar ni compensar.
+g) En la evaluación ambiental del proyecto se aplicarán las previsiones del capítulo II del título I de la Ley 2/2024, de 7 de noviembre, y se ponderará de manera concreta el interés público superior del proyecto.
+h) Los condicionados técnicos se emitirán en un plazo de diez hábiles y se pronunciarán exclusivamente sobre las modificaciones que, en su caso, presente el proyecto con respecto al inicialmente tramitado. Si no existiesen modificaciones relevantes a estos efectos, se incorporarán al expediente los condicionados técnicos emitidos en relación con el proyecto inicialmente tramitado.
+i) El informe relativo a la normativa de instalaciones industriales y eléctricas se pronunciará exclusivamente sobre las modificaciones que, en su caso, presente el proyecto con respecto al inicialmente tramitado. Si no existiesen modificaciones relevantes a estos efectos, se incorporará al expediente el informe emitido en relación del proyecto inicialmente tramitado.
+Se añade por el art. 30.22 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta. Instrumentos para el análisis de los valores ambientales de las localizaciones en las que se implanten proyectos de energía eólica y sus infraestructuras de evacuación.
+1. Las evaluaciones ambientales que se realicen de los proyectos de energía eólica y sus infraestructuras de evacuación se realizarán teniendo en cuenta el mejor conocimiento científico disponible, de acuerdo con el principio establecido en el artículo 2.l) de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental. A estos efectos, a la hora de identificar, desde el punto de vista ambiental, los eventuales condicionantes ambientales generales de la zona a la que afectan los proyectos, se tendrán en cuenta las herramientas, las bases cartográficas y las fuentes de datos oficiales que gocen de la mayor precisión y actualización, que serán de utilización y aplicación prevalente a las que tengan menor detalle.
+2. Lo indicado en el apartado anterior se entenderá en todo caso dentro del carácter orientativo de las indicadas herramientas, bases cartográficas y fuentes de datos, por lo que será necesario que se concreten específicamente, durante el trámite de evaluación ambiental que corresponda, los valores y los impactos ambientales para cada proyecto particular, atendiendo a su localización concreta y a sus características, así como a las soluciones y medidas preventivas y correctoras específicas adoptadas, sin que los instrumentos citados puedan prejuzgar el resultado de la evaluación ambiental.
+Se añade por el art. 30.23 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+### Disposición adicional decimoséptima
+
+Disposición adicional decimoséptima. Energía de fuentes renovables.
+De conformidad con lo establecido en el artículo 6 del Reglamento (UE) 2024/1991 del Parlamento Europeo y del Consejo, de 24 de junio de 2024, relativo a la restauración de la naturaleza y por el que se modifica el Reglamento (UE) 2022/869, se exime la planificación, construcción y explotación de parques eólicos de competencia autonómica, así como su conexión a la red y a la propia red correspondiente y activos de almacenamiento conexos, del requisito de no disponer de soluciones alternativas menos perjudiciales en virtud de lo dispuesto en el artículo 4, apartados 14 y 15, y del artículo 5, apartados 11 y 12, de dicho Reglamento (UE) 2024/1991, cuando se hubiese sometido a una evaluación ambiental estratégica o a una evaluación de impacto ambiental en las condiciones exigidas en la normativa vigente.
+Se añade por el art. 30.24 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Régimen de aplicación a procedimientos de autorización en curso.
+1. Las justificadas razones que motivan esta norma son causas necesarias y suficientes de interés público que determinan el desistimiento de los procedimientos de autorización de parques eólicos en tramitación instruidos al amparo de la Orden de 6 de marzo de 2008.
+2. En aplicación de lo previsto en el párrafo anterior, la persona titular de la consejería competente en materia de energía, en el plazo del mes siguiente a la entrada en vigor de la ley, dictará resolución acordando, expresa y unilateralmente, el desistimiento y, en consecuencia, la finalización del procedimiento y de los trámites instruidos al amparo de la Orden de 6 de marzo de 2008.
+3. El desistimiento se comunicará a los operadores económicos interesados que hayan participado en el referido procedimiento.
+4. Las indemnizaciones que en su caso se deriven del desistimiento se referirán exclusivamente a los gastos debidamente justificados que hayan resultado imprescindibles en la instrumentación de la solicitud siempre y cuando tales documentos no sean utilizados en las nuevas convocatorias que se produzcan al amparo de la presente ley.
+5. En el plazo de los dos meses siguientes a la entrada en vigor de la ley la consejería competente en materia de energía dictará las resoluciones oportunas iniciando el proceso de convocatorias mencionado en el artículo 28 de la presente norma.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Áreas de desarrollo eólico.
+1. En tanto no se modifique el Plan sectorial eólico de Galicia, se consideran áreas de desarrollo eólico las áreas de reserva y áreas de investigación, así como la franja paralela a estas, previstas en el Plan sectorial eólico de Galicia vigente.
+2. En caso de las áreas de desarrollo eólico en que se produzca superposición con la Red Natura, la zona de superposición que afecte a aquella no se considerará apta para implantar nuevos parques eólicos, excepto proyectos de modificación de parques eólicos en los términos indicados en el artículo 32 de la presente ley. Esta limitación se hará extensiva a la totalidad de las instalaciones del parque eólico contempladas en la poligonal establecida en su proyecto de ejecución.
+Se modifica por la disposición final 7.11 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Plan sectorial eólico de Galicia.
+En tanto no se apruebe un nuevo plan sectorial eólico de Galicia se entenderá de aplicación el actualmente vigente en todo aquello que no se oponga a lo establecido en la presente ley.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Especial referencia al Decreto 302/2001.
+De forma transitoria, el Decreto 302/2001, de 25 de octubre, por el que se regula el aprovechamiento de la energía eólica en la Comunidad Autónoma de Galicia, y la Orden de 29 de octubre de 2002, por la que se determinan los requisitos para la autorización de parques eólicos y parques eólicos singulares, serán de aplicación para todos aquellos parques eólicos y parques eólicos singulares que fueron admitidos a trámite en órdenes de convocatoria formuladas al amparo de esta legislación.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Suspensión de la tramitación de parques eólicos en la ampliación de la Red Natura.
+1. El anuncio de exposición pública de la propuesta de ampliación del ámbito de la Red Natura 2000 determinará por sí mismo la suspensión del procedimiento de autorización de los parques eólicos que se sitúen, en todo o en parte, en el ámbito territorial objeto de ampliación, hasta la aprobación de la propuesta de ampliación por el Consejo de la Xunta de Galicia.
+2. Aprobada, en su caso, la propuesta de ampliación de la Red Natura 2000, se estará a lo dispuesto en el artículo 31 de la presente ley.
+3. Se faculta a la persona titular de la Dirección General de Industria, Energía y Minas para dictar cuantas disposiciones sean precisas con el fin de garantizar la finalidad de esta disposición.
+Se añade por la disposición final 2.3 de la Ley 12/2011, de 26 de diciembre. Ref. BOE-A-2012-1252.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Normas transitorias en tanto no se lleve a cabo el desarrollo reglamentario previsto en la presente ley
+1. El necesario desarrollo reglamentario a que se hace referencia en la presente ley no impedirá la admisión a trámite de nuevas solicitudes de autorización de parques eólicos en tanto no se lleve a cabo el mismo.
+A estos efectos, en tanto no se efectúe el desarrollo reglamentario previsto en los apartados 3 y 4 del artículo 29 respecto al modelo normalizado de solicitud, las solicitudes se presentarán mediante instancia por escrito dirigida a la persona titular de la dirección general competente en materia de energía.
+Del mismo modo, hasta que se proceda al desarrollo reglamentario indicado, el contenido del proyecto de ejecución será el indicado para este tipo de instalaciones en el Reglamento sobre condiciones técnicas y garantías de seguridad en instalaciones eléctricas de alta tensión y sus Instrucciones técnicas complementarias ITC-RAT 01 a 23, aprobado por Real decreto 337/2014, de 9 de mayo, o norma que lo sustituya.
+2. En tanto no se dicten las normas de desarrollo reglamentario a que se hace referencia en el apartado 4 del artículo 31, se entenderá que existe solapamiento de la nueva solicitud cuando la distancia proyectada horizontalmente entre los aerogeneradores de la nueva solicitud y los aerogeneradores de un parque eólico en funcionamiento, autorizado o en fase de tramitación administrativa sea inferior a 10 diámetros del parque eólico autorizado o en fase de tramitación administrativa en las direcciones correspondientes al 1.er (+,+) y 3.er (-,-) cuadrante, y a 4 diámetros en las direcciones correspondientes al 2.º (-,+) y 4.º (+,-) cuadrante. A estos efectos, se tomará el mayor de los diámetros de los aerogeneradores afectados. Para la determinación de la dirección, se tendrá en cuenta la línea recta que una el aerogenerador solicitado con el aerogenerador del parque que ya se encuentra en funcionamiento, autorizado o en fase de tramitación administrativa, utilizando un sistema de coordenadas cartesianas con el norte orientado en el eje +y.
+Se añade por la disposición final 7.12 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Régimen transitorio para la aplicación de las distancias a núcleos de población establecidas en la disposición adicional quinta.
+1. Los requisitos de distancia establecidos en la disposición adicional quinta se aplicarán a las nuevas solicitudes de autorización de parques eólicos, de cualquier potencia, que se admitan a trámite previa entrada en vigor de la Ley 18/2021, de 27 de diciembre, de medidas fiscales y administrativas.
+2. Para los proyectos admitidos a trámite antes de la entrada en vigor de la Ley 18/2021, de 27 de diciembre, de medidas fiscales y administrativas, los requisitos de distancias a núcleos de población establecidos en la disposición adicional quinta serán de aplicación únicamente en caso de modificaciones sustanciales de proyectos solicitadas a partir de la entrada en vigor de la indicada ley que, por suponer efectos ambientales distintos de los previstos inicialmente, requiriesen el inicio de una nueva tramitación ambiental.
+Quedan exceptuadas de la regla establecida en el párrafo anterior las modificaciones sustanciales que se indican a continuación, en las cuales la distancia mínima a núcleos rurales, urbanos y urbanizables delimitados será de 500 metros:
+a) Las modificaciones sustanciales que vengan impuestas por un informe sectorial.
+b) Las modificaciones sustanciales derivadas del uso compartido de infraestructuras de conexión comunes que no supongan cambios en las posiciones de los aerogeneradores.
+c) Las modificaciones que se estimen sustanciales por suponer una reducción de más del 10 % de la potencia autorizada en el proyecto y que consistan en la reducción del número de los aerogeneradores proyectados, siempre que no supongan cambios en la posición de los restantes.
+3. Asimismo, los requisitos de distancias a núcleos de población establecidos en la disposición adicional quinta serán aplicables a las solicitudes de autorización de parques eólicos que se encuentren pendientes de admisión en el momento de la entrada en vigor de la Ley 18/2021, de 27 de diciembre, de medidas fiscales y administrativas, y que se hayan presentado después del 20 de octubre de 2021.
+Para estos casos, se concede un plazo de tres meses, contado desde la entrada en vigor de la Ley 18/2021, de 27 de diciembre, de medidas fiscales y administrativas, para que los sujetos promotores puedan modificar sus proyectos o desistir de ellos. En el caso de desistir, los promotores tendrán derecho a recuperar las garantías presentadas.
+Se modifica el apartado 2 por la disposición final 2.3 de la Ley 2/2024, de 7 de noviembre. Ref. BOE-A-2025-237
+ Se modifica el apartado 2 por el art. 46.4 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+ Se añade por el art. 39.4 Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Tramitación de expedientes sin permisos de acceso y conexión.
+Los proyectos admitidos a trámite con anterioridad a la entrada en vigor de la Ley 9/2021, de 25 de febrero, de simplificación administrativa y de apoyo a la reactivación económica de Galicia, que no dispongan de permiso de acceso y conexión dispondrán de un plazo de 12 meses desde la entrada en vigor de la Ley 18/2021, de 27 de diciembre, de medidas fiscales y administrativas, para obtener un permiso de acceso y conexión. En el caso contrario, se procederá al archivo de la solicitud, previa audiencia del interesado.
+Sin embargo, no se procederá al archivo de proyectos admitidos a trámite cuando estos, aun no disponiendo de permisos de acceso y conexión en el referido plazo, soliciten en cualquier momento anterior a la declaración de archivo su tramitación bajo la modalidad de autoconsumo sin excedentes, y siempre y cuando el proyecto de autoconsumo estuviera vinculado con un proyecto industrial estratégico y además las líneas directas cumplan con los condicionantes de longitud máxima y ratio de longitud por megavatio fijados en la disposición adicional tercera de la presente ley. De igual forma, las nuevas solicitudes de proyectos que cumplan tales requisitos serán incluidas en el registro eólico. En todo caso, y salvo para las instalaciones sujetas a la modalidad de autoconsumo sin excedentes, la autorización administrativa de instalaciones de generación no podrá ser otorgada si su titular no ha obtenido previamente los permisos de acceso y conexión a las redes de transporte o distribución correspondientes y los demás que requiriese la legislación básica aplicable.
+Se modifica por la disposición final 2.4 de la Ley 2/2024, de 7 de noviembre. Ref. BOE-A-2025-237
+ Se modifica por el art. 46.2 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+ Se añade por el art. 39.5 Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Expedientes de parques eólicos de autoconsumo solicitados.
+Los proyectos de parques eólicos de autoconsumo con excedentes que se encuentren en tramitación en el momento de la entrada en vigor de la Ley 10/2023, de 28 de diciembre, de medidas fiscales y administrativas, podrán continuar su tramitación conforme al procedimiento anterior a su entrada en vigor, siempre que quede acreditado que el permiso de acceso y conexión haya sido otorgado por el gestor de la red a que se conectan antes de la indicada entrada en vigor. En caso contrario, se continuará la tramitación de acuerdo con lo establecido en el título IV de la presente ley.
+Se añade por el art. 39.13 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+
+### Disposición transitoria novena bis
+
+Disposición transitoria novena bis. Régimen transitorio de tramitación de parques eólicos anteriores a la entrada en vigor de la Ley 2/2024, de 7 de noviembre, de promoción de los beneficios sociales y económicos de los proyectos que utilizan los recursos naturales de Galicia.
+1. Las solicitudes de tramitación de infraestructuras de evacuación para parques eólicos que hubieran sido admitidas a trámite antes de la entrada en vigor de la Ley 2/2024, de 7 de noviembre, de promoción de los beneficios sociales y económicos de los proyectos que utilizan los recursos naturales de Galicia, se regirán por lo establecido en la normativa anterior.
+2. Las infraestructuras de evacuación correspondientes a parques eólicos resueltos desfavorablemente o archivados a consecuencia de una declaración de impacto ambiental desfavorable o por desistimiento del promotor serán archivadas, salvo que en el plazo de tres meses desde la notificación al promotor de que va a procederse al archivo este acreditase que la infraestructura de evacuación evacua la energía de algún proyecto de energía renovable en tramitación o autorizado.
+Se renumera por la disposición final 2.5 de la Ley 2/2024, de 7 de noviembre, en la redacción dada por el art. 31.2 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-3
+ Se añade por la disposición final 2.5 de la Ley 2/2024, de 7 de noviembre. Ref. BOE-A-2025-237
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Proyectos sectoriales o proyectos de interés autonómico en tramitación.
+Atendiendo a lo recogido en el artículo 40, la dirección general con competencias en materia de energía procederá de oficio al archivo de los procedimientos asociados a los proyectos sectoriales o a los proyectos de interés autonómico relativos a parques eólicos y a sus infraestructuras de evacuación que se encuentren en tramitación en el momento de la entrada en vigor de la Ley 10/2023, de 28 de diciembre, de medidas fiscales y administrativas. Este archivo será comunicado tanto al promotor como a los ayuntamientos afectados y a la dirección general de la Administración autonómica competente en materia de ordenación del territorio y urbanismo.
+Se añade por el art. 39.14 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+
+### Disposición transitoria decimoprimera
+
+Disposición transitoria decimoprimera. Posibilidad de otorgamiento separado de la autorización administrativa previa y de la autorización administrativa de construcción.
+1. No obstante lo previsto en el artículo 34 en relación al otorgamiento conjunto de la autorización administrativa previa y de construcción, atendiendo a los plazos para el cumplimiento de los hitos establecidos por el Real Decreto-ley 23/2020, de 23 de junio, por el que se aprueban medidas en materia de energía y en otros ámbitos para la reactivación económica, la Administración autonómica, a solicitud de la persona promotora, podrá otorgar de forma separada la autorización administrativa previa cuando se cumplan los requisitos necesarios para esta, con la finalidad de posibilitar el cumplimiento de los hitos expresados.
+En estos casos, una vez otorgada la autorización administrativa previa, la autorización administrativa de construcción habrá de otorgarse una vez que el proyecto de ejecución cumpla con los requisitos derivados de la normativa aplicable y se hayan efectuado las modificaciones y adaptaciones necesarias derivadas de la instrucción del procedimiento, de acuerdo con lo previsto en el artículo 34 de esta ley.
+2. Esta disposición será aplicable mientras se mantengan los hitos administrativos marcados por el Real Decreto-ley 23/2020, de 23 de junio.
+Se modifica por el art. 24.11 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se añade por el art. 39.15 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+
+### Disposición transitoria decimosegunda
+
+Disposición transitoria decimosegunda. Régimen transitorio aplicable mientras no entre en vigor el nuevo Plan sectorial eólico de Galicia.
+1. Mientras no entre en vigor el nuevo Plan sectorial eólico de Galicia, elaborado de acuerdo con las prescripciones establecidas en el artículo 6 y siguientes de la ley, se aplicará el régimen transitorio previsto en esta disposición, con la finalidad de ordenar y regular la implantación territorial de los parques eólicos, de forma compatible con las finalidades de la planificación eólica recogidas en los apartados c), d), e), f) y g) del artículo 6.2, y, en particular, con objeto de aplicar medidas provisionales que permitan la fijación de beneficios sociales y económicos en el territorio, convirtiendo el despliegue de la energía eólica en una herramienta al servicio de la cohesión territorial, favorecer las comunidades locales, así como la actividad económica de Galicia y el tejido industrial local, fomentando la competitividad de la industria gallega y minimizando el impacto sobre el medio ambiente y el paisaje, acercando las instalaciones de producción de energía a los puntos de consumo.
+2. La presente disposición no será de aplicación a los procedimientos que estén en tramitación, atendiendo a lo establecido en el artículo 31.3, con anterioridad a 1 de enero de 2025. Tampoco será de aplicación a las solicitudes de repotenciación que se efectúen de parques existentes, ni a las solicitudes de retramitación de autorizaciones que se efectúen de acuerdo con lo establecido en la disposición adicional decimoquinta.
+3. Teniendo en cuenta el nivel de ocupación de las áreas de desarrollo eólico actuales, atendiendo al número de autorizaciones existentes, y la necesidad de salvaguardar la capacidad de ordenación del nuevo Plan sectorial eólico, no se admitirán nuevas solicitudes para la autorización de parques eólicos de competencia autonómica a las que sea de aplicación esta disposición cuando estos se emplacen en las indicadas áreas. Por excepción, podrán presentarse solicitudes cuando las personas promotoras asuman el compromiso de formalizar contratos de suministro de energía a medio o largo plazo (PPA) a un precio predeterminado, durante todo el período de vigencia de la autorización, en las condiciones establecidas en el apartado 4.
+4. Los contratos que se formalicen de acuerdo con los compromisos a que se refiere el apartado anterior deberán cumplir los siguientes requisitos mínimos:
+a) Comprenderán, al menos, el 50 % de la energía producida.
+b) Los consumidores finales destinatarios de la energía serán consumidores locales e industriales de las zonas ubicadas en el ámbito de influencia de los proyectos, o, en el caso de no existir consumidores interesados en esas zonas, situados en la Comunidad Autónoma de Galicia.
+c) El plazo mínimo de duración de los contratos será de cinco años.
+d) El contrato podrá formalizarse directamente con los consumidores finales o a través de empresas comercializadoras de energía.
+5. Fuera de las áreas de desarrollo eólico existentes solo podrán desarrollarse los proyectos declarados de especial interés público social y económico que cumplan con lo establecido en el artículo 18.2 de la Ley 2/2024, de 7 de noviembre.
+6. Esta disposición no impedirá la modificación de los proyectos ya admitidos a trámite.
+7. Lo establecido en los apartados 3 y 4 se aplicará a las nuevas solicitudes de autorización de parques eólicos que se presenten en las zonas de aceleración renovable eólica aprobadas de acuerdo con la disposición adicional decimosegunda.
+8. El régimen transitorio establecido en esta disposición se aplicará desde el 1 de enero de 2025 hasta el momento de la entrada en vigor del nuevo Plan sectorial eólico de Galicia. Sin embargo, este régimen transitorio dejará de ser de aplicación si el nuevo Plan sectorial eólico de Galicia no se aprobase en el plazo de tres años, contado desde el 1 de enero de 2025.
+Se levanta la suspensión de la vigencia y aplicación del apartado 7 de esta disposición, añadida por el art. 30.25 de la Ley 5/2024, de 27 de diciembre, por Auto del TC 20/2026, de 24 de febrero. Ref. BOE-A-2026-7123
+ Se suspende la vigencia y aplicación del apartado 7 de esta disposición, añadida por el art. 30.25 de la Ley 5/2024, de 27 de diciembre, desde el 30 de septiembre de 2025 para las partes del proceso y desde el 4 de febrero de 2026 para los terceros, por providencia del TC de 27 de enero de 2026 que admite a trámite el recurso de inconstitucionalidad nº 6810-2025. Ref. BOE-A-2026-2549, aclarada por Providencia de 12 de febrero de 2026. Ref. BOE-A-2026-3379
+ Se añade por el art. 30.25 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a3-2
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Especial referencia al Decreto 242/2007.
+Queda derogado el Decreto 242/2007, de 13 de diciembre, por el que se regula el aprovechamiento de la energía eólica en Galicia, y la Orden de 13 de junio de 2002 por la que se crea y regula la Comisión de Seguimiento del Plan Eólico de Galicia.
+Quedan derogadas las demás disposiciones de igual o inferior rango que se opongan a lo establecido en la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación normativa.
+La Xunta de Galicia dictará cuantas disposiciones sean necesarias para el desarrollo reglamentario de la presente ley. Se autoriza a la consejería competente en materia de hacienda a aprobar las disposiciones que sean necesarias para la aplicación del canon eólico.
+Se modifica por la disposición final 4.7 de la Ley 2/2013, de 27 de febrero. Ref. BOE-A-2013-4088.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación para la Ley de presupuestos de la Comunidad Autónoma de Galicia.
+La Ley de presupuestos de la Comunidad Autónoma de Galicia podrá modificar cualquier elemento del canon eólico.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de Galicia. El canon eólico comenzará a exigirse a partir del 1 de enero de 2010.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Normativa supletoria.
+En todo aquello no dispuesto por la presente ley se aplicará con carácter supletorio la Ley 24/2013, de 26 de diciembre, del sector eléctrico, y su normativa de desarrollo, o normas que las sustituyan.
+Se añade por la disposición final 7.13 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+Santiago de Compostela, 22 de diciembre de 2009.
+El Presidente,
+Alberto Núñez Feijóo.

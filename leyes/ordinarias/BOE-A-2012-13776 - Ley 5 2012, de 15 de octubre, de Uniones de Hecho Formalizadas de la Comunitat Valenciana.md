@@ -1,0 +1,204 @@
+# Ley 5/2012, de 15 de octubre, de Uniones de Hecho Formalizadas de la Comunitat Valenciana.
+
+- Identificador BOE: `BOE-A-2012-13776`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-13776
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del rey, promulgo la siguiente Ley:
+PREÁMBULO
+En los últimos años han aparecido, junto al matrimonio, otras formas de convivencia more uxorio, cada vez más numerosas y más aceptadas por la sociedad, que demandan una adecuada regulación.
+El hecho de que dos personas, con independencia de su sexo, convivan unidas por un vínculo de afectividad análoga a la conyugal, crea un conjunto de relaciones, derechos y deberes personales y patrimoniales, tanto entre sus miembros como con relación a terceras personas, que en la actualidad no pueden ser desconocidos por el derecho positivo y que merecen la protección de los poderes públicos mediante la correspondiente legislación.
+A favor de ese reconocimiento y de esa protección se han pronunciado tanto el Consejo de Europa como distintas instituciones de la Unión Europea, mediante las siguientes disposiciones, entre otras: Resolución de 1 de octubre de 1981 de la Asamblea de Parlamentarios del Consejo de Europa, resolución del Parlamento Europeo de 8 de febrero de 1984, recomendación del Consejo de Europa de 7 de mayo de 1988 que postula el reconocimiento de la eficacia de los pactos y contratos entre las personas convivientes de hecho; resolución del Parlamento Europeo de 6 de febrero de 1994 y recomendación de la Asamblea Parlamentaria del Consejo de Europa de 26 de septiembre de 2000, entre otras.
+El Consell no ha sido insensible a estas recomendaciones y en todas sus actuaciones normativas ha defendido el principio de igualdad y de no discriminación. Así, mediante el Decreto 250/1994, de 7 de diciembre, creó el Registro de Uniones de Hecho Formalizadas de la Comunitat Valenciana, que fue desarrollado mediante Orden de 15 de febrero de 1995, de la Conselleria de Administración Pública.
+Especial consideración merece la Ley 1/2001, de 6 de abril, de la Generalitat, por la que se regulan las uniones de hecho. Esta ley supuso un paso firme y decidido del Consell para dar adecuada solución jurídica a una realidad sociológica indiscutible: El incremento de las uniones de hecho. La ley estableció una regulación equilibradora e igualitaria, origen de la normativa actual.
+Sin embargo, no puede desconocerse que las sociedades evolucionan de modo muy rápido en esta materia y por ello es obligación de los poderes públicos dictar normas que permitan la resolución de los nuevos problemas que puedan derivarse de esta realidad social. Por otra parte, no es discutible tampoco que las uniones de hecho presentan actualmente un elevado grado de vigencia y aceptación social, por lo que el derecho no sólo debe reconocerlas y evitar situaciones de discriminación, sino que también debe dotarles de un marco jurídico que atienda a los diversos problemas que puedan producirse en su ámbito.
+La finalidad de esta ley, por tanto, es establecer un instrumento jurídico adecuado y suficiente que permita a las parejas ordenar su convivencia en el aspecto personal y patrimonial, cuando no hayan contraído matrimonio, de acuerdo con los principios de igualdad y de no discriminación.
+Esta norma, que se dicta al amparo de las competencias exclusivas que el artículo 49.1.1.ª y 2.ª del Estatuto de Autonomía de la Comunitat Valenciana otorga a la Generalitat, parte del máximo respeto a la libertad de las personas para constituir una unión de las reguladas por la misma y para regular sus relaciones personales y patrimoniales, con pleno respeto a su intimidad y sin mayores requisitos que los necesarios para garantizar la seguridad jurídica tanto de quienes conviven como de terceras personas.
+Dicho principio inspira todo el articulado de la presente ley, de modo que la configuración del régimen de convivencia será la que sus miembros hayan acordado atribuirse voluntariamente.
+La ley regula las uniones de hecho formalizadas, en las cuales quienes conviven manifiestan de forma expresa su voluntad de constituir una unión de hecho, formalizando la misma mediante su inscripción en el Registro de Uniones de Hecho Formalizadas de la Comunitat Valenciana. Por ello, la ley, siempre en defecto de regulación particular, les reconoce un abanico de derechos y deberes vinculados a dicha convivencia, con inevitables efectos personales y patrimoniales, tanto durante su vigencia como en el momento de su extinción.
+En el sentido expuesto, la ley se inicia con un capítulo I que contiene las disposiciones generales. En estas normas se contienen el objeto de la ley, sus principios rectores, fundamentados en evitar las situaciones de discriminación, y el ámbito de aplicación de la norma, que se fundamenta en la vecindad civil valenciana, como se desprende del artículo 3.4 del vigente Estatut d’Autonomia de la Comunitat Valenciana.
+Este capítulo I contiene además tres preceptos dedicados a la acreditación y prueba de las uniones de hecho, a las prohibiciones para su constitución y a los modos de extinción.
+En cuanto a las formas de acreditación, se ha optado por un simple régimen de manifestación expresa de la voluntad común, admitiéndose las más simples y menos costosas fórmulas de expresión para facilitarla. La inscripción en el Registro de Uniones de Hecho de la Comunidad Valenciana se regula como un instrumento de publicidad para dotar de certeza y efectos jurídicos a la unión, preservándose así la necesaria seguridad jurídica.
+Las prohibiciones para constituir una unión de hecho están inspiradas en el principio de mínima intervención, impidiendo únicamente la constitución de la unión en situaciones de mantenimiento simultáneo de otros vínculos convivenciales, minoría de edad sin emancipación o parentesco muy cercano.
+Finalmente, también queda reflejado el principio de libertad individual, inspirador de la ley, al regular los supuestos de extinción de la unión, sus efectos y su cancelación en el Registro de Uniones de Hecho Formalizadas.
+Los capítulos II y III se refieren a la regulación de la convivencia y de los aspectos patrimoniales entre las personas convivientes, fundamentada en el respeto a las decisiones adoptadas por quienes integran la unión. Así, quienes conviven pueden establecer libremente los pactos que rijan las relaciones personales y patrimoniales de su unión, tanto durante la misma, como tras su extinción, sin más límites que la ley, la moral, el orden público y la igualdad de sus propios derechos.
+Establece la ley normas relativas al régimen económico que se fundamentan en el principio de independencia patrimonial con la obligación de ambos miembros de la unión de contribuir a la satisfacción de los gastos comunes, determinándose cuáles tienen tal naturaleza y estableciendo requisitos para determinados actos de administración y, en especial, para la disposición de la vivienda habitual de la pareja.
+También regula la ley el derecho de alimentos. El derecho a percibir una compensación económica o una pensión periódica en caso de cese de la convivencia podrá reconocerse si expresamente se hubiera pactado.
+Tras regular la responsabilidad de quienes integran la uniones formalizadas frente a terceras personas y otorgar a la persona conviviente supérstite un derecho, limitado en el tiempo, de usar la vivienda familiar después de fallecer su pareja, la ley establece, en el capítulo IV, referido a las relaciones personales y familiares, que quienes integren una unión de hecho formalizada se considerarán equiparados a los cónyuges en cuanto al ejercicio de las acciones relacionadas con las declaraciones de incapacidad, prodigalidad, ausencia, fallecimiento y desempeño de las funciones de tutela y curatela, y prevé en el capítulo V, relativo a los derechos sucesorios, el derecho de quien sobrevive a ocupar en la sucesión de su pareja la misma posición que corresponde legalmente al cónyuge supérstite.
+El capítulo VI de la ley establece determinados supuestos de equiparación de las uniones de hecho formalizadas a las matrimoniales. Dichos supuestos obedecen a la aplicación de las recomendaciones internacionales anteriormente mencionadas y tienen el propósito de evitar situaciones de discriminación o desigualdad injustificada. Así, en diversas materias competencia de la Generalitat la ley dispone que quienes integran las uniones de hecho formalizadas tendrán la misma consideración que quienes son cónyuges.
+Finalmente, una disposición adicional, una disposición transitoria, una disposición derogatoria y tres disposiciones finales completan esta regulación.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y principios de esta ley.
+1. El objeto de la presente ley es la regulación de los derechos y deberes de quienes son miembros de las uniones de hecho formalizadas, entendiendo por tales las formadas por dos personas que, con independencia de su sexo, convivan en una relación de afectividad análoga a la conyugal, y que cumplan los requisitos de inscripción del artículo 3 de esta ley.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado 1, con los efectos señalados en el fundamento jurídico 10, por Sentencia del TC 110/2016, de 9 de junio. Ref. BOE-A-2016-6838.
+2. Nadie podrá ser objeto de discriminación por razón de la naturaleza, matrimonial o no, del grupo familiar del que forme parte.
+Se declara inconstitucional y nulo el inciso destacado del apartado 1, con los efectos señalados en el fundamento jurídico 10, por Sentencia del TC 110/2016, de 9 de junio. Ref. BOE-A-2016-6838.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+(Anulado).
+Se declara inconstitucional y nulo, con los efectos señalados en el fundamento jurídico 10, por Sentencia del TC 110/2016, de 9 de junio. Ref. BOE-A-2016-6838.
+
+### Artículo 3
+
+Artículo 3. Constitución de las uniones de hecho formalizadas.
+Son uniones formalizadas aquellas en que consta su existencia, bien por declaración de voluntad de sus integrantes ante el funcionario encargado o la funcionaria encargada del Registro de Uniones de Hecho Formalizadas de la Comunitat Valenciana plasmada en la correspondiente inscripción o bien en otro documento público inscrito en el mencionado Registro, siempre que cumplan los requisitos que determina esta ley para ser tenidas por tales.
+La inscripción de la unión de hecho en el Registro de Uniones de Hecho Formalizadas de la Comunitat Valenciana tiene carácter constitutivo y se producirá mediante resolución del órgano competente para la gestión de dicho Registro, en el plazo de tres meses desde la solicitud, siendo los efectos del silencio administrativo negativos, sin perjuicio de la resolución posterior sobre aquélla. Contra dicha resolución cabrá interponer el correspondiente recurso administrativo.
+
+### Artículo 4
+
+Artículo 4. Prohibiciones para constituir una unión de hecho.
+1. No podrán formar una unión de hecho, a los efectos de esta ley:
+a) Las personas menores de edad no emancipadas.
+b) Quienes estén casados o casadas con otra persona, sin estar separados o separadas legalmente de la misma mediante sentencia judicial, y quienes mantengan una unión de hecho formalizada con otra persona.
+c) Quienes sean parientes en línea recta, por consanguinidad o adopción, o colateral, en los mismos términos, hasta el segundo grado.
+2. No podrá pactarse una unión de hecho con carácter temporal o condicional.
+3. Cuando la unión de hecho quede fuera del ámbito de aplicación a que se refiere el artículo 2 de esta ley, así como cuando se solicite la unión de hecho en alguno de los supuestos de prohibición recogidos en este artículo, se dictará resolución denegatoria de la inscripción por el órgano competente para la gestión del Registro de Uniones de Hecho Formalizadas de la Comunitat Valenciana, en el plazo de tres meses desde la solicitud, siendo los efectos del silencio negativos. Contra dicha resolución cabrá interponer el correspondiente recurso administrativo.
+
+### Artículo 5
+
+Artículo 5. Extinción de la unión de hecho y cancelación de su inscripción.
+1. La unión de hecho se extingue por las siguientes causas:
+a) Por común acuerdo de sus miembros.
+b) Por declaración de voluntad de cualquiera de ellos o ellas.
+c) Cuando cualquiera de los convivientes o las convivientes esté incurso en un proceso penal iniciado por atentar contra la vida, la integridad física, la libertad, la integridad moral o la libertad e indemnidad sexual del otro o de la otra o de los hijos o hijas comunes o de cualquiera de ellos o de ellas, y se haya dictado resolución judicial motivada en la que se constaten indicios fundados y racionales de criminalidad.
+d) Por muerte o declaración de fallecimiento de cualquiera de sus miembros.
+e) Por cese efectivo injustificado de la convivencia durante un plazo mínimo de tres meses.
+f) Por matrimonio de cualquiera de sus miembros.
+2. En caso de extinción de la unión de hecho formalizada, cualquiera de sus miembros deberá solicitar, en el plazo de un mes, la cancelación de la inscripción que conste en el Registro de Uniones de Hecho Formalizadas.
+3. La cancelación de la unión de hecho en el Registro de Uniones de Hecho Formalizadas de la Comunitat Valenciana se producirá mediante resolución del órgano competente para la gestión de dicho Registro, en el plazo máximo de tres meses desde la solicitud, siendo los efectos del silencio administrativo positivos, sin perjuicio de la resolución posterior sobre aquélla. Contra dicha resolución cabrá interponer el correspondiente recurso administrativo.
+
+### Artículo 6
+
+Artículo 6. Efectos de la extinción de la unión de hecho formalizada.
+(Anulado).
+Se declara inconstitucional y nulo, con los efectos señalados en el fundamento jurídico 10, por Sentencia del TC 110/2016, de 9 de junio. Ref. BOE-A-2016-6838.
+
+## CAPÍTULO II
+
+Regulación de la convivencia
+
+### Artículo 7
+
+Artículo 7. Libertad de regulación.
+(Anulado).
+Se declara inconstitucional y nulo, con los efectos señalados en el fundamento jurídico 10, por Sentencia del TC 110/2016, de 9 de junio. Ref. BOE-A-2016-6838.
+
+## CAPÍTULO III
+
+Régimen económico
+
+### Artículo 8
+
+Artículo 8. Gastos comunes de la unión de hecho formalizada.
+(Anulado).
+Se declara inconstitucional y nulo, con los efectos señalados en el fundamento jurídico 10, por Sentencia del TC 110/2016, de 9 de junio. Ref. BOE-A-2016-6838.
+
+### Artículo 9
+
+Artículo 9. Derecho de alimentos.
+(Anulado).
+Se declara inconstitucional y nulo, con los efectos señalados en el fundamento jurídico 10, por Sentencia del TC 110/2016, de 9 de junio. Ref. BOE-A-2016-6838.
+
+### Artículo 10
+
+Artículo 10. Disposición de la vivienda habitual de la unión de hecho formalizada.
+(Anulado).
+Se declara inconstitucional y nulo, con los efectos señalados en el fundamento jurídico 10, por Sentencia del TC 110/2016, de 9 de junio. Ref. BOE-A-2016-6838.
+
+### Artículo 11
+
+Artículo 11. Responsabilidad patrimonial.
+(Anulado).
+Se declara inconstitucional y nulo, con los efectos señalados en el fundamento jurídico 10, por Sentencia del TC 110/2016, de 9 de junio. Ref. BOE-A-2016-6838.
+
+### Artículo 12
+
+Artículo 12. Ajuar doméstico y uso de la vivienda.
+(Anulado).
+Se declara inconstitucional y nulo, con los efectos señalados en el fundamento jurídico 10, por Sentencia del TC 110/2016, de 9 de junio. Ref. BOE-A-2016-6838.
+
+## CAPÍTULO IV
+
+Relaciones personales y familiares
+
+### Artículo 13
+
+Artículo 13. Representación legal de la persona conviviente.
+(Anulado).
+Se declara inconstitucional y nulo, con los efectos señalados en el fundamento jurídico 10, por Sentencia del TC 110/2016, de 9 de junio. Ref. BOE-A-2016-6838.
+
+## CAPÍTULO V
+
+Derechos sucesorios
+
+### Artículo 14
+
+Artículo 14. Derechos de la persona conviviente supérstite en la sucesión de la persona premuerta.
+(Anulado).
+Se declara inconstitucional y nulo, con los efectos señalados en el fundamento jurídico 10, por Sentencia del TC 110/2016, de 9 de junio. Ref. BOE-A-2016-6838.
+ Se declara el mantenimiento de la suspensión de la vigencia y aplicación de este precepto por Auto del TC de 3 de diciembre de 2013. Ref. BOE-A-2013-12983.
+ Se declara la suspensión de la vigencia y aplicación de este artículo desde el 18 de julio de 2013, para las partes en el proceso, y desde el 14 de septiembre de 2013, para los terceros, por providencia del Tribunal Constitucional de 10 de septiembre de 2013 que admite a trámite el recurso de inconstitucionalidad nº 4522-2013. Ref. BOE-A-2013-9562.
+
+## CAPÍTULO VI
+
+Otros efectos de la unión de hecho Formalizada
+
+### Artículo 15
+
+Artículo 15. Otros efectos de la unión de hecho formalizada.
+Quienes integren las uniones de hecho formalizadas tendrán la misma consideración que los cónyuges a los siguientes efectos:
+1. La regulación de la función pública que es competencia de la Generalitat, en cuanto a licencias, permisos, situaciones administrativas, provisión de puestos de trabajo y ayuda familiar.
+2. Los derechos y obligaciones de derecho público establecidos por la Generalitat en materias de su competencia, tales como normas presupuestarias, indemnizaciones, subvenciones y tributos autonómicos.
+3. En cuanto a los derechos a percibir pensiones de viudedad y a las indemnizaciones por accidentes laborales o enfermedades profesionales, se estará a lo dispuesto por la legislación aplicable en cada caso.
+
+### Disposición adicional única
+
+Disposición adicional única. Uniones de hecho inscritas conforme a la normativa anterior.
+Las uniones inscritas en el Registro Administrativo de Uniones de Hecho de la Comunitat Valenciana conforme a la Ley 1/2001, de 6 de abril, de la Generalitat, por la que se regulan las uniones de hecho, y al Decreto 61/2002, de 23 de abril, del Consell, por el que se aprobó el Reglamento de desarrollo de la citada norma, se integrarán de oficio y de modo automático en el Registro de Uniones de Hecho Formalizadas de la Comunitat Valenciana contemplado en el articulado de esta Ley.
+Se modifica por el art. 63 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+Hasta que el Consell apruebe el Reglamento del Registro de Uniones de Hecho Formalizadas de la Comunitat Valenciana, la inscripción prevista en el artículo 3 de la presente ley se llevará a cabo en el Registro Administrativo de Uniones de Hecho de la Comunitat Valenciana existente.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Queda derogada la Ley 1/2001, de 6 de abril, de la Generalitat, por la que se regulan las uniones de hecho, y todas aquellas disposiciones de igual o inferior rango que se opongan a la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Título competencial habilitante.
+La presente ley se dicta al amparo de las competencias exclusivas que el artículo 49.1.1.ª y 2.ª del Estatut d’Autonomia de la Comunitat Valenciana otorga a la Generalitat.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación para el desarrollo reglamentario.
+1. Se faculta expresamente al Consell para que apruebe las disposiciones necesarias para el desarrollo y ejecución de lo establecido en esta ley.
+2. En el plazo de un año a contar desde la entrada en vigor de esta ley, el Consell deberá aprobar el reglamento de organización y funcionamiento del Registro de Uniones de Hecho Formalizadas de la Comunitat Valenciana.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley entrará en vigor al mes de su publicación en el «Diari Oficial de la Comunitat Valenciana».
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 15 de octubre de 2012.–El President de la Generalitat, Alberto Fabra Part.
+
+## [Información relacionada]
+
+INFORMACIÓN RELACIONADA
+ Véase en cuanto a la suspensión de la vigencia y aplicación de esta ley, la providencia del TC de 10 de septiembre de 2013 que admite a trámite el recurso de inconstitucionalidad nº 4522-2013. Ref. BOE-A-2013-9562, el Auto del TC de 3 de diciembre de 2013. Ref. BOE-A-2013-12983 y la Sentencia del TC 110/2016, de 9 de junio. Ref. BOE-A-2016-6838.

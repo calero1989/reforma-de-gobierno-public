@@ -1,0 +1,408 @@
+# Ley 3/2005, de 8 de abril, de incompatibilidades de altos cargos de la Administración de la Junta de Andalucía y de declaración de actividades, bienes e intereses de altos cargos y otros cargos públicos.
+
+- Identificador BOE: `BOE-A-2005-7987`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2005-7987
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 3/2005, de 8 de abril, de Incompatibilidades y Retribuciones del personal Alto Cargo de la Administración de la Junta de Andalucía y de Declaración de Actividades, Bienes, Intereses y Retribuciones del personal Alto Cargo y otros Cargos Públicos.", según establece el art. único.1 del Decreto-ley 11/2023, de 27 de diciembre. Ref. BOJA-b-2023-90345
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+A todos los que la presente vieren, sabed:
+Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley de incompatibilidades de altos cargos de la Administración de la Junta de Andalucía y de declaración de actividades, bienes e intereses de altos cargos y otros cargos públicos.
+EXPOSICIÓN DE MOTIVOS
+El artículo 121 del Estatuto de Autonomía para Andalucía, de conformidad con el artículo 148.1.1.ª de la Constitución Española prescribe: ‘‘El régimen jurídico y administrativo del Consejo de Gobierno y el estatuto de sus miembros serán regulados por Ley del Parlamento de Andalucía, que determinará las causas de incompatibilidad de aquellos. El Presidente y los Consejeros no podrán ejercer actividad laboral, profesional o empresarial alguna’’.
+Cumpliendo este mandato estatutario, el Parlamento de Andalucía aprobó la Ley del Gobierno y la Administración de la Comunidad Autónoma, en cuyo articulado se regulan las incompatibilidades del Presidente y los Consejeros de la Junta de Andalucía, en el sentido de que el cargo de Presidente de la Junta de Andalucía es incompatible con cualquier otra función o actividad pública que no derive de aquél, salvo la de Diputado en el Parlamento de Andalucía. También es incompatible con el ejercicio de toda actividad laboral, profesional o empresarial.
+Por otra parte, respecto de los Consejeros se establece que están sometidos al mismo régimen de incompatibilidades que el Presidente de la Junta de Andalucía.
+La Ley del Gobierno y la Administración de la Comunidad Autónoma, sin embargo, no regulaba las incompatibilidades de los restantes altos cargos de la Administración andaluza, por lo que se aprobó la Ley 5/1984, de 23 de abril, regulando tal cuestión, siendo modificada posteriormente por las Leyes 4/1990, de 23 de abril, y 3/1994, de 5 de abril.
+Se hace preciso una nueva regulación en materia de incompatibilidades de los altos cargos por dos razones esenciales. En primer lugar, porque la sociedad demanda, en términos generales, una mayor transparencia en la actividad pública y, por tanto, es preciso que se regulen medidas encaminadas a ese objetivo que afecten a los altos cargos de la Administración andaluza. Y en segundo lugar, porque resulta conveniente regular de modo más estricto el régimen de incompatibilidades de los citados cargos a fin de reforzar su independencia, imparcialidad y dedicación exclusiva a los asuntos públicos, evitando cualquier interferencia en los intereses públicos de otros intereses.
+Por las razones expuestas, esta nueva Ley, estructurada en cinco capítulos, incorpora novedades sustanciales respecto a la regulación anterior.
+En lo que respecta al régimen de incompatibilidades de los altos cargos, se amplía el ámbito subjetivo, se hace más estricto el ámbito objetivo y se establece un completo régimen sancionador, inexistente en la anterior regulación, para quienes infrinjan la Ley.
+Por otra parte, se establece un nuevo régimen de declaraciones sobre actividades, bienes, intereses y retribuciones, no solo para los altos cargos, sino también para otros cargos públicos. El contenido de dichas declaraciones será objeto de una publicación en el ‘‘Boletín Oficial de la Junta de Andalucía’’ y, además, estará disponible en Internet para todos los ciudadanos. Con ello se persigue alcanzar la máxima transparencia en esta materia.
+Por último, se regula detalladamente el régimen sancionador derivado de la inobservancia de la Ley tanto en materia de incompatibilidades como en la de la declaración de las actividades, bienes, intereses y retribuciones. En este sentido, se tipifican las infracciones y sanciones correspondientes, pudiendo conllevar estas el cese inmediato del infractor y la imposibilidad de ser nombrado para el desempeño de alto cargo por un periodo de tiempo de hasta diez años.
+Se modifica por el art. 6 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente Ley regula el régimen de incompatibilidades y retribuciones del personal alto cargo de la Administración de la Junta de Andalucía, así como la declaración de actividades, bienes, intereses y retribuciones del personal alto cargo y de otros cargos públicos.
+Se modifica por el art. único.2 del Decreto-ley 11/2023, de 27 de diciembre. Ref. BOJA-b-2023-90345
+ Se modifica por el art. 6 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. A los efectos de esta Ley, se consideran altos cargos el Presidente de la Junta de Andalucía, el Vicepresidente o Vicepresidentes, los Consejeros y todos aquellos empleos de libre designación por el Consejo de Gobierno que implican especial confianza o responsabilidad y, particularmente, los siguientes:
+a) Los Viceconsejeros, Secretarios Generales, Directores Generales y Secretarios Generales Técnicos de las Consejerías y asimilados.
+b) Los miembros del Gabinete de la Presidencia de la Junta de Andalucía.
+c) Los Delegados del Gobierno de la Junta de Andalucía.
+d) Las personas titulares de la Presidencia, de las Consejerías electivas que desempeñen sus funciones con carácter exclusivo y a tiempo completo y de la Secretaría General del Consejo Consultivo de Andalucía, así como las personas titulares de la Presidencia, de las Consejerías y de la Secretaría General del Consejo Audiovisual de Andalucía y la persona titular de la Dirección del Consejo de Transparencia y Protección de Datos de Andalucía.
+e) Los Presidentes, Consejeros Delegados y quienes ejerzan la función ejecutiva de máximo nivel de las entidades de Derecho público vinculadas o dependientes de la Administración de la Junta de Andalucía, o de las sociedades mercantiles con participación directa de la Administración de la Junta de Andalucía o de sus Organismos Autónomos, superior al cincuenta por ciento, tanto si son nombrados por el Consejo de Gobierno o si son nombrados por los propios órganos de gobierno de dichas entidades y sociedades.
+f) Los Delegados del Consejo de Gobierno en las entidades y sociedades aludidas en el párrafo anterior.
+g) Los Presidentes, Directores y asimilados de los Organismos Autónomos de la Junta de Andalucía.
+h) Los Presidentes, Directores y quienes ejerzan la función ejecutiva de máximo nivel de las demás entidades de la Administración de la Junta de Andalucía, y de las fundaciones y consorcios con participación directa de la misma superior al cincuenta por ciento, tanto si son nombrados por el Consejo de Gobierno como si son nombrados por los propios órganos de gobierno de las mismas.
+i) Los Delegados Provinciales de las Consejerías, Directores Provinciales de los Organismos Autónomos de la Junta de Andalucía o asimilados.
+j) Cualquier cargo nombrado por Decreto o Acuerdo del Consejo de Gobierno con rango igual o superior a Director General.
+k) Los demás altos cargos de libre designación que sean calificados como tales en normas con rango de ley o reglamento.
+2. A los efectos de la aplicación del régimen de declaración de actividades, bienes, intereses y retribuciones previsto en esta Ley, se consideran otros cargos públicos:
+a) Los Consejeros electivos del Consejo Consultivo de Andalucía que desempeñen sus funciones sin exclusividad.
+b) El Presidente del Consejo Económico y Social de Andalucía.
+c) Los representantes de la Junta de Andalucía en las Cajas de Ahorro y demás entidades de carácter financiero, siempre que desempeñen funciones ejecutivas.
+d) La persona titular de la Dirección de la Oficina Andaluza contra el Fraude y la Corrupción.
+Se modifica la letra d) del apartado 1 por el art. único.3 del Decreto-ley 11/2023, de 27 de diciembre. Ref. BOJA-b-2023-90345
+ Se añade el apartado 2.d) por la disposición final 2.1 de la Ley 2/2021, de 18 de junio. Ref. BOE-A-2021-11380#df-2
+ Se modifica el apartado 2 por el art. 6 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373
+
+## CAPÍTULO II
+
+Incompatibilidades de altos cargos
+
+### Artículo 3
+
+Artículo 3. Dedicación exclusiva.
+1. Las personas que ocupan puestos de alto cargo incluidos en el ámbito de aplicación de la presente Ley ejercerán sus funciones con dedicación exclusiva y no podrán compatibilizar su actividad con el desempeño por sí o mediante sustitución o apoderamiento de cualquier otro puesto, cargo, representación, profesión o actividad mercantil, profesional o industrial, ya sea de carácter público o privado, por cuenta propia o ajena, retribuidos o no.
+2. No obstante, los altos cargos podrán compatibilizar el ejercicio de su cargo con la condición de parlamentarios en el Parlamento de Andalucía, en los supuestos establecidos en la legislación electoral; sin embargo, en ningún caso podrán percibir retribución o percepción de cantidad alguna que por cualquier concepto pudiera corresponderles por su condición de diputados.
+3. Podrán compatibilizar sus funciones con el ejercicio, retribuido o no, de la docencia en la enseñanza universitaria, siempre que no suponga detrimento de su dedicación y, en todo caso, con un límite no superior a las setenta y cinco horas anuales o su equivalencia con el régimen de dedicación del profesorado expresado en créditos ECTS siempre que la retribución que, en su caso, se perciba no supere el 15 % de las que les corresponda por razón del cargo. Asimismo, se incluyen las actividades de investigación y de asesoramiento científico o técnico, siempre que estén vinculadas a la universidad.
+El ejercicio de las funciones a que se refiere el párrafo anterior requiere la autorización expresa de la persona titular de la Consejería competente en materia de administración pública.
+Asimismo, y con los mismos límites establecidos en el primer párrafo de este apartado, podrán impartir docencia, en cursos, conferencias o seminarios organizados por centros oficiales destinados a formación del personal de las Administraciones Públicas, siempre y cuando no tenga carácter permanente y participen en los mismos por razón del cargo, de su especialidad profesional o de la posición que ocupen en la organización administrativa del sector público.
+No computarán como horas a los efectos previstos en el primer párrafo de este apartado, todas aquellas conferencias, presentaciones o intervenciones en congresos, jornadas, talleres o seminarios o cualquier otra actividad de similares características, en que la persona designada alto cargo sea invitada en función de su responsabilidad institucional y con el objetivo de difundir las políticas gubernamentales de su respectiva institución. En este último caso, en el supuesto de que se percibiera alguna retribución, esta se ingresará en la Tesorería General de la Junta de Andalucía, percibiendo únicamente las indemnizaciones por razón del servicio que le correspondan.
+4. Lo dispuesto en el apartado 1 se entiende sin perjuicio de otras excepciones establecidas por la presente Ley y en los casos en que el Gobierno, por razones de especial interés público, autorice a ocupar un segundo cargo en el sector público, sin que quepa percibir, en tal caso, más de una retribución.
+Se modifica el apartado 3 por el art. único.4 del Decreto-ley 11/2023, de 27 de diciembre. Ref. BOJA-b-2023-90345
+ Se modifica por la disposición final 2.2 de la Ley 2/2021, de 18 de junio. Ref. BOE-A-2021-11380#df-2
+
+### Artículo 4
+
+Artículo 4. Compatibilidad con actividad representativa.
+1. Los titulares de altos cargos podrán formar parte de los órganos colegiados o de otra naturaleza de las Administraciones Públicas cuando les corresponda con carácter institucional o para los que fuesen designados en función del cargo.
+2. Igualmente, los titulares de altos cargos podrán representar a la Administración de la Junta de Andalucía en los órganos de gobierno o consejos de administración de empresas con capital público.
+3. Las cantidades que devenguen por cualquier concepto, incluidas las indemnizaciones por asistencia, serán ingresadas directamente por el organismo o empresa en la Tesorería de la Comunidad Autónoma.
+
+### Artículo 5
+
+Artículo 5. Compatibilidad con la administración del patrimonio personal o familiar.
+1. Las actividades derivadas de la mera administración del patrimonio personal o familiar no están sujetas a lo dispuesto en el artículo 3, salvo el supuesto de participación directa o por persona interpuesta, superior al diez por ciento en el capital de sociedades que tengan conciertos, contratos o concesiones de cualquier naturaleza con el sector público estatal, autonómico o local o que reciban subvenciones provenientes de cualquier Administración Pública.
+A los efectos previstos en este artículo, se considera persona interpuesta la persona física o jurídica que actúa por cuenta del alto cargo.
+En el supuesto de las sociedades anónimas cuyo capital social suscrito supere los 600.000 euros, dicha prohibición afectará a las participaciones patrimoniales que, sin llegar al diez por ciento, supongan una posición en el capital social de la empresa que pueda condicionar de forma relevante su actuación.
+2. Los altos cargos no podrán ser titulares o autorizados de cuentas bancarias o de otros activos financieros en países o territorios calificados reglamentariamente como paraísos fiscales, ya sea directamente o a través de sociedades en las que posean una participación superior al cinco por ciento. Esta participación podrá ser directa o indirecta, a través de cónyuges o parejas de hecho inscritas en el correspondiente registro, y parientes hasta el segundo grado de consanguinidad o de afinidad.
+Se modifica por la disposición final 2.3 de la Ley 2/2021, de 18 de junio. Ref. BOE-A-2021-11380#df-2
+
+### Artículo 6
+
+Artículo 6. Incompatibilidades.
+Conforme a lo previsto en el artículo 3, los altos cargos son incompatibles entre sí y en particular:
+a) Con todo otro cargo que figure al servicio o en los presupuestos de las administraciones, organismos o empresas públicas, o con cualquier actividad por cuenta directa o indirecta de las mismas, así como las funciones públicas retribuidas mediante arancel, participación o cualquier otra forma especial, sin perjuicio de lo dispuesto en el artículo 3.3.
+b) Con el desempeño por sí o por persona interpuesta de cargos de todo orden, funciones de dirección o de representación, así como de asesoramiento y mediación de empresas o sociedades concesionarias, empresas inmobiliarias, contratistas de obras, servicios o suministros, o con participación o ayudas del sector público cualquiera que sea la configuración jurídica de aquéllas, con la excepción prevista en el artículo 5.1.
+c) Con el ejercicio de cargos, por sí o por persona interpuesta, que lleven anejas funciones de dirección, representación o asesoramiento de toda clase de compañías, sociedades mercantiles y civiles, y consorcios de fin lucrativo, aunque unas y otros no realicen fines o servicios públicos ni tengan relaciones contractuales con las administraciones, organismos o empresas públicas.
+d) Con el ejercicio por sí o por persona interpuesta o mediante sustitución de la profesión a la que por razón de sus títulos o aptitudes pudiera dedicarse, salvo que se trate de actividades científicas no retribuidas y sin dedicación horaria obligatoria, y siempre que no suponga detrimento de su dedicación.
+e) Con la percepción de pensiones de derechos pasivos o de cualquier régimen de Seguridad Social público y obligatorio.
+f) Con el ejercicio de toda clase de actividades en entidades de cualquier tipo, salvo que sean anejas al cargo o se trate de la participación no retribuida en fundaciones, asociaciones y demás entidades sin ánimo de lucro o en actividades, igualmente no retribuidas, que resulten de interés social o cultural y siempre que no suponga detrimento de su dedicación.
+g) Con la gestión, defensa, dirección o asesoramiento de asuntos particulares ajenos, cuando por la índole de las operaciones de los asuntos competa a las administraciones públicas resolverlos o quede implicado en ellos la realización de algún fin o servicio público.
+h) Con figurar en cualquier forma de promoción de empresas o actividades profesionales privadas.
+i) Con el ejercicio de funciones de dirección en cámaras, colegios profesionales, sindicatos y organizaciones empresariales.
+j) Con ser encausados judicialmente por delitos de falsedades, contra la libertad, contra el patrimonio y el orden socioeconómico, contra la Constitución, contra la Administración de Justicia, contra la Administración Pública, contra la Comunidad Internacional, de traición y contra la paz o la independencia del Estado y relativos a la defensa nacional, contra el orden público, de financiación ilegal de los partidos políticos, contra la Hacienda Pública y contra la Seguridad Social, relativos a la ordenación del territorio y el urbanismo, la protección del patrimonio histórico y el medio ambiente, o por cualesquiera otros delitos dolosos castigados con penas graves o que conlleven inhabilitación especial para empleo o cargo público o suspensión de empleo o cargo público, desde que sea firme la resolución que acuerde la apertura del juicio oral o el procesamiento y hasta que finalice la causa por todos sus trámites, incidentes y recursos, o bien hasta que se acuerde el sobreseimiento provisional o definitivo de la causa.
+k) Con ser condenados por sentencia firme por la comisión de delitos de falsedades, contra la libertad, contra el patrimonio y el orden socioeconómico, contra la Constitución, contra la Administración de Justicia, contra la Administración Pública, contra la Comunidad Internacional; de traición y contra la paz o la independencia del Estado y relativos a la defensa nacional; contra el orden público, de financiación ilegal de los partidos políticos, contra la Hacienda Pública y contra la Seguridad Social, relativos a la ordenación del territorio y el urbanismo, la protección del patrimonio histórico y el medio ambiente, o por cualesquiera otros delitos dolosos castigados con penas graves o que conlleven inhabilitación especial para empleo o cargo público o suspensión de empleo o cargo público, hasta que los antecedentes penales hayan sido cancelados.
+l) Con ser condenados por sentencia firme a pena privativa de libertad, por delitos distintos a los indicados en el párrafo k), hasta que se haya cumplido la condena.
+m) Con ser inhabilitados para empleo o cargo público o suspendidos de empleo o cargo público, por sentencia o resolución administrativa firme, por el tiempo que dure la condena o sanción, en los términos previstos en la legislación penal o administrativa.
+n) Con ser inhabilitados conforme a la Ley 22/2003, de 9 de julio, Concursal, mientras no haya concluido el período de inhabilitación fijado en la sentencia firme de calificación del concurso.
+ñ) Con ser titulares o autorizados de cuentas bancarias o de otros activos financieros en países o territorios calificados reglamentariamente como paraísos fiscales, en los términos previstos en el artículo 5.2, hasta que se demuestre de modo fehaciente la cancelación de la cuenta o del correspondiente activo financiero, o bien dejen de ser titulares o autorizados de esas cuentas bancarias u otros activos financieros.
+o) Con ser sancionados mediante resolución administrativa firme, por la comisión de infracciones administrativas tipificadas en la ley de lucha contra el fraude y la corrupción y protección de la persona denunciante, hasta la finalización del plazo de prescripción de la sanción y con independencia de que la misma haya sido ejecutada y cumplida.
+Se modifica por la disposición final 2.4 de la Ley 2/2021, de 18 de junio. Ref. BOE-A-2021-11380#df-2
+
+### Artículo 7
+
+Artículo 7. Inhibición y abstención.
+1. Los titulares de altos cargos están obligados a inhibirse del conocimiento de los asuntos en cuyo despacho hubieran intervenido o que interesen a empresas, entidades o sociedades en cuya dirección, asesoramiento o administración hubiesen tenido alguna parte ellos, su cónyuge, pareja de hecho inscrita en el correspondiente Registro o persona de su familia dentro del segundo grado civil.
+2. Durante los dos años siguientes a la fecha de su cese, los altos cargos no podrán realizar actividades ni prestar servicios en entidades privadas relacionadas con expedientes sobre los cuales hubiesen dictado resolución en el ejercicio del cargo.
+La prohibición se extiende tanto a las entidades privadas como a las que pertenezcan al mismo grupo societario.
+Asimismo, durante el mencionado periodo de dos años, las personas que hayan sido titulares de altos cargos no podrán firmar, ni por sí mismas ni a través de entidades participadas por ellas directa o indirectamente en más del diez por ciento, contratos administrativos o privados de cualquier naturaleza con la Administración de la Junta de Andalucía y sus entidades dependientes, en la que hubieran prestado servicios, siempre que guarden relación directa con las funciones que ejercieron.
+3. A los efectos de esta ley, se considera que hay relación directa con las funciones que ejercía la persona titular de un alto cargo en los siguientes supuestos:
+a) Cuando en el ejercicio de sus funciones o responsabilidades el alto cargo, o su superior jerárquico a propuesta de éste o quienes sean titulares de órganos dependientes del mismo, ya fuere por delegación o sustitución, hubiese suscrito un informe preceptivo, una resolución administrativa o un acto equivalente sometido a derecho privado, en relación con la empresa o entidad de que se trate.
+b) Cuando hubiese intervenido con su voto favorable en la adopción de decisiones, que afecten a las competencias del cargo público desempeñado, adoptadas en sesiones de algún órgano colegiado y relacionadas con dichas empresas o entidades.
+4. Se entenderá que no hay relación directa con las funciones que ejercía la persona titular del alto cargo en los siguientes supuestos:
+a) Cuando la decisión estuviera referida no a una empresa o entidad en particular, sino a un colectivo de estas identificado por el cumplimiento de una serie de requisitos o de razones objetivas establecidas con carácter general y no formando parte de un procedimiento de carácter competitivo entre los distintos sujetos concurrentes.
+b) Cuando la decisión se dicte en un procedimiento de concurrencia competitiva a propuesta de un órgano técnico colegiado, cuando este disponga de la facultad de propuesta de resolución y siempre que la composición del citado órgano no haya sido decidida ni propuesta por el cargo público que adopte la decisión.
+c) Cuando se haya realizado una actuación reglada basando la decisión de que se trate en los informes técnicos del personal al servicio de la Administración de la Junta de Andalucía o de órganos establecidos al efecto por la legislación correspondiente que hayan propuesto motivadamente una única solución ya fuera en el procedimiento de adjudicación de un contrato, en el otorgamiento de subvenciones o en cualquier tipo de actuación.
+Se modifica el apartado 2 y se añaden los apartados 3 y 4 por el art. 1.1 y 2 del Decreto-ley 6/2024, de 28 de mayo. Ref. BOJA-b-2024-90111
+
+### Artículo 8
+
+Artículo 8. Consecuencias de las situaciones de incompatibilidad.
+1. La incompatibilidad a que se refiere el apartado a) del artículo 6 determinará el pase a la situación administrativa que en cada caso corresponda.
+2. La incompatibilidad a que alude el apartado b) del artículo 6 implica:
+a) la suspensión en el ejercicio de los cargos previstos en el mismo, y
+b) la prohibición de obtenerlos mientras ejerzan los que son causa de incompatibilidad, salvo cuando fueren designados para los mismos en representación de las administraciones públicas. Esta prohibición se extiende a los dos años posteriores al cese, siempre que los asuntos y las entidades a que se refiere el apartado b) del artículo 6 guarden relación directa con las funciones que el alto cargo ejercía. Se exceptúan de la prohibición los cargos que se estuvieran ejerciendo con anterioridad al nombramiento de alto cargo, en los que hubieran cesado por razón del nombramiento.
+3. Los afectados por el apartado c) del artículo indicado suspenderán también toda actuación o actividad propia de los cargos comprendidos en el mismo, por todo el tiempo que sirvan los que dan causa a la incompatibilidad, durante cuyo término de servicio tampoco podrán obtener nuevos cargos de los comprendidos en el expresado apartado c); si bien al cesar en aquéllos podrán reintegrarse al ejercicio de éstos, sin restricción alguna de plazo.
+4. Los que lo fueran en el apartado d) deberán cesar igualmente en el ejercicio profesional activo mediante sustitución, mientras sirvan el cargo.
+5. La aceptación del cargo en el supuesto del apartado e) del mismo artículo 6 supondrá que las pensiones a que se refiere dicho artículo, que se perciban, se ingresarán en la Tesorería de la Comunidad Autónoma.
+6. La incompatibilidad señalada en el apartado g) del artículo 6 conlleva la prohibición de las actividades referidas durante el ejercicio del cargo y, con el alcance y en los términos previstos en el apartado 2 del artículo 7 de esta Ley, hasta dos años después de su cese.
+7. La incompatibilidad a que aluden los apartados j), k), l), m), n), ñ) y o) del artículo 6 implicará el cese en el nombramiento de alto cargo.
+Se modifica por la disposición final 2.5 de la Ley 2/2021, de 18 de junio. Ref. BOE-A-2021-11380#df-2
+
+### Artículo 8 bis
+
+Artículo 8 bis. Desarrollo de actividades privadas tras el cese en el desempeño del alto cargo.
+1. Las personas que en los dos años posteriores al cese en el desempeño del alto cargo pretendan realizar una actividad privada en el mismo ámbito sectorial en el que haya desarrollado sus funciones, deberán comunicarlo a la Consejería competente en materia de administración pública y obtener, con carácter previo, autorización para el desarrollo de la misma.
+2. La Inspección General de Servicios será la competente para la instrucción del procedimiento, en el que deberá recabar informe de la Consejería, organismo o entidad en que la persona interesada haya cesado como alto cargo. Dicho informe deberá ser emitido en el plazo máximo de cinco días e incluir la información necesaria para que en la instrucción se pueda valorar la procedencia de la autorización de las actividades pretendidas en función de lo establecido en los apartados 2, 3 y 4 del artículo 7 y apartados 2.b) y 6 del artículo 8, en relación con los apartados b) y g) del artículo 6.
+3. Cuando, tras el análisis de la documentación obrante en el expediente, la Inspección General de Servicios considere que la actividad privada que pretende desarrollar la persona que ocupó el alto cargo pudiera vulnerar lo establecido en la presente ley, notificará la propuesta de resolución a la persona interesada y, en su caso, a la entidad en la cual pretende prestar servicios, y les concederá un plazo de diez días para que realicen las alegaciones que juzguen oportunas al respecto. Cumplimentado este trámite, la Inspección General de Servicios elaborará la propuesta de resolución que proceda.
+4. En el plazo de un mes desde la recepción de la comunicación, la persona titular de la Consejería competente en materia de administración pública dictará resolución y la notificará. El plazo de resolución quedará suspendido durante la cumplimentación del trámite de informe previsto en el apartado 2.
+5. Durante los dos años posteriores a la fecha de su cese como alto cargo, las personas que reingresen en la función pública y tengan concedida la compatibilidad para prestar servicios retribuidos de cualquier naturaleza a personas físicas o jurídicas de carácter privado, deberán obtener además la autorización a que se refiere el apartado 1.
+Se añade por el art. 1.3 del Decreto-ley 6/2024, de 28 de mayo. Ref. BOJA-b-2024-90111
+
+### Artículo 9
+
+Artículo 9. Acreditación de no incompatibilidad en licitaciones públicas.
+Las empresas, entidades o sociedades que tomen parte en licitaciones públicas, contraten o hayan de encargarse de la gestión de cualquier servicio público, ya sea prestado directamente por la Administración de la Junta de Andalucía o a través de sus entes instrumentales, deberán acreditar que no forma parte de los órganos de gobierno o administración persona alguna a las que se refiere el artículo 2 de esta Ley.
+A estos efectos será admisible que la persona representante que presente la oferta firme una declaración responsable de que ninguna de las personas que componen los órganos de gobierno o administración de la licitante se hallan incursas en supuesto alguno a los que se refiere dicho artículo 2, rechazándose aquellas proposiciones que no acompañen dicha declaración.
+Se modifica por la disposición final 1 del Decreto-ley 3/2021, de 16 de febrero. Ref. BOJA-b-2021-90075#df
+
+### Artículo 10
+
+Artículo 10. Obligación de declarar sobre causas de incompatibilidad y plazo para efectuar la declaración.
+Los altos cargos a los que se refiere la presente Ley estarán obligados a declarar sobre las causas de posible incompatibilidad con arreglo al modelo que aprobará la Consejería competente por razón de la materia. Dicha declaración se efectuará en el plazo que se determine reglamentariamente.
+
+## CAPÍTULO II BIS
+
+Retribuciones del personal alto cargo y asimilado de la Junta de Andalucía
+Se añade por único.5 del Decreto-ley 11/2023, de 27 de diciembre. Ref. BOJA-b-2023-90345
+ Téngase en cuenta que los efectos económicos de las medidas retributivas que serán a partir el día 1 de enero de 2024, según establece la disposición final 3 del citado Decreto-ley
+
+### Artículo 10 bis
+
+Artículo 10 bis. Retribuciones del personal alto cargo y asimilado de la Junta de Andalucía o de sus agencias administrativas y de régimen especial.
+1. El presente artículo es de aplicación a las personas titulares de la Presidencia y Vicepresidencia de la Junta de Andalucía, así como a las de las Consejerías, Viceconsejerías, Secretarías Generales, Direcciones Generales, Secretarías Generales Técnicas, Delegaciones del Gobierno, Delegaciones Territoriales, Delegaciones Provinciales y asimilados a cualquiera de los anteriores, ya sean de la Junta de Andalucía o de sus agencias administrativas y de régimen especial.
+2. La cuantía de las retribuciones de la persona titular de la Presidencia de la Junta de Andalucía, excluidos los trienios o complementos de antigüedad, será equivalente a la establecida para retribuciones e indemnizaciones por la Mesa del Parlamento de Andalucía, en cómputo anual y por todos los conceptos, salvo locomoción, para los portavoces de grupos parlamentarios, minorada en un 5 %, sin derecho a pagas extraordinarias y referida a doce mensualidades, sin perjuicio de la percepción de catorce mensualidades de la retribución por antigüedad que pudiera corresponderle de acuerdo con la normativa vigente.
+3. La cuantía de las retribuciones del resto del personal alto cargo incluido en este artículo, sin perjuicio de la que les pueda corresponder por trienios o complementos de antigüedad, se determinará disminuyendo la cuantía referida para la persona titular de la Presidencia de Junta de Andalucía en el apartado anterior en los siguientes porcentajes.
+Rango Titular
+ Porcentaje de minoración
+ Vicepresidencia.
+ 3 %
+ Consejería.
+ 4,5 %
+ Viceconsejería y asimilados.
+ 9,5 %
+ Dirección General y asimilados.
+ 13 %
+ Delegación Territorial/Provincial y asimilados.
+ 27 %
+4. Las retribuciones de las personas titulares de la Vicepresidencia, de las Consejerías, Viceconsejerías, Secretarías Generales y asimilados, se referirán a doce mensualidades y las pagas extraordinarias que correspondan en los meses de junio y diciembre.
+5. Las retribuciones de las personas titulares de las Direcciones Generales y asimilados y de las Delegaciones Territoriales, Delegaciones Provinciales y asimilados se referirán a doce mensualidades, y las pagas extraordinarias que correspondan en los meses de junio y diciembre, por los siguientes conceptos: sueldo, complemento de destino y complemento específico.
+6. La aplicación específica del presente artículo a los diferentes conceptos retributivos se efectuará mediante resolución de la Consejería competente en Administración Pública, previo informe favorable de la Consejería competente en materia de presupuestos, publicándose en el Boletín Oficial de la Junta de Andalucía, antes del 20 de enero de cada año o en el mes siguiente al que se produzca la actualización de las retribuciones e indemnizaciones de equivalencia indicadas en el apartado 2, con las actualizaciones que procedan.
+Se añade por único.5 del Decreto-ley 11/2023, de 27 de diciembre. Ref. BOJA-b-2023-90345
+ Téngase en cuenta que los efectos económicos de las medidas retributivas que serán a partir el día 1 de enero de 2024, según establece la disposición final 3 del citado Decreto-ley
+
+### Artículo 10 ter
+
+Artículo 10 ter. Retribuciones del personal alto cargo del Consejo Consultivo de Andalucía, Consejo Audiovisual de Andalucía y Consejo de Transparencia y Protección de Datos de Andalucía.
+1. La cuantía de las retribuciones de la persona titular de la Presidencia del Consejo Consultivo de Andalucía será la establecida para la titular de la Presidencia de la Junta de Andalucía, de acuerdo con el artículo anterior, sin derecho a pagas extraordinarias y referida a doce mensualidades, sin perjuicio de la percepción de catorce mensualidades de la retribución por antigüedad que pudiera corresponderle de acuerdo con la normativa vigente.
+2. La cuantía de las retribuciones de las consejeras y consejeros electivos con dedicación exclusiva del Consejo Consultivo de Andalucía será la establecida para las personas titulares de las consejerías, en virtud de lo señalado en el artículo 10 bis 4.
+3. La cuantía de las retribuciones de la persona titular de la Presidencia del Consejo Audiovisual de Andalucía será la establecida para las titulares de las consejerías, en virtud de lo señalado en el artículo 10 bis 3 y en los mismos términos del artículo 10 bis 4.
+4. La cuantía de las retribuciones de la persona titular de la Secretaría General del Consejo Consultivo de Andalucía, de las consejeras y consejeros y de la persona titular de la Secretaría General del Consejo Audiovisual de Andalucía, así como de la titular de la Dirección del Consejo de Transparencia y Protección de Datos de Andalucía, serán las establecidas para las titulares de las viceconsejerías, según lo señalado en el artículo 10 bis 3 y en los mismos términos de artículo 10 bis 4.
+Se modifica por la disposición final 1 de la Ley 2/2024, de 19 de julio. Ref. BOE-A-2024-16885#df
+ Se añade por el art. único.5 del Decreto-ley 11/2023, de 27 de diciembre. Ref. BOJA-b-2023-90345
+ Téngase en cuenta que los efectos económicos de las medidas retributivas que serán a partir el día 1 de enero de 2024, según establece la disposición final 3 del citado Decreto-ley
+
+### Artículo 10 quater
+
+Artículo 10 quater. Retribuciones del personal asimilado a alto cargo en otras entidades del sector público andaluz.
+Mediante Acuerdo del Consejo de Gobierno se adecuarán, conforme a criterios objetivos, los conceptos retributivos y las percepciones económicas de cualquier naturaleza que resultan de aplicación a las personas titulares de la Presidencia, Vicepresidencia y, en su caso, Direcciones Generales o Direcciones Gerencia y asimilados, cuando les corresponda el ejercicio de las funciones ejecutivas de máximo nivel, de las agencias públicas empresariales, las sociedades mercantiles y fundaciones del sector público andaluz y de los consorcios adscritos y de las demás entidades a que se refiere el artículo 5.3 del texto refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía.
+Se añade por único.5 del Decreto-ley 11/2023, de 27 de diciembre. Ref. BOJA-b-2023-90345
+ Téngase en cuenta que los efectos económicos de las medidas retributivas que serán a partir el día 1 de enero de 2024, según establece la disposición final 3 del citado Decreto-ley
+
+### Artículo 10 quinquies
+
+Artículo 10 quinquies. Disposiciones generales.
+1. Las retribuciones de las personas incluidas en el ámbito de aplicación de esta Ley serán públicas, en los términos previstos en Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.
+2. Los cargos públicos previstos en el artículo 2.1 no podrán recibir más de una retribución con cargo a los presupuestos de las Administraciones Públicas o de sus entidades dependientes o vinculadas, ni ninguna otra que provenga de una actividad privada, salvo las excepciones recogidas en la presente ley.
+Además, solo podrán percibir, en su caso, las cantidades que les correspondan en concepto de indemnizaciones por los gastos por razón del servicio o de vivienda y alojamiento, retribuciones en especie correspondientes al seguro de vida y accidentes para los altos cargos de la Junta de Andalucía, de sus agencias y demás entidades instrumentales, o al seguro colectivo de accidentes para el personal al servicio de la Junta de Andalucía, que pudieran corresponderles de acuerdo con la normativa vigente, así como los complementos personales regulados en una norma con rango de ley.
+3. Las retribuciones comprendidas en los artículos 10 bis y 10 ter se devengarán por todos los conceptos, sin perjuicio de la percepción de la retribución por trienios o complementos de antigüedad que pudieran tener reconocidos como personal funcionario o personal empleado al servicio de cualquier Administración pública y sus entes instrumentales, así como las demás cantidades citadas en el párrafo segundo del apartado anterior.
+4. Quienes ejerzan como altos cargos de la Junta de Andalucía y asimilados y ostenten la condición de personal funcionario de carrera o laboral fijo del sector público, que sean declarados en la situación administrativa de servicios especiales o queden en situación de excedencia, podrán seguir percibiendo las retribuciones que legalmente les correspondan por trienios o complementos de antigüedad que pudieran tener reconocidos como personal funcionario o personal empleado al servicio de cualquier Administración pública y sus entes instrumentales, en los términos y con el alcance que prevea para esta situación la legislación de función pública y la normativa laboral que les resulte de aplicación. Asimismo, podrán percibir las cuantías que les correspondan como beneficiarios de las ayudas de acción social.
+5. En ningún caso las retribuciones íntegras anuales por todos los conceptos dinerarios, incluida la productividad y cualquier otro incentivo o concepto del personal alto cargo y asimilados incluidos en el ámbito de aplicación de esta ley, podrán superar las retribuciones establecidas para la persona titular de la Presidencia de la Junta de Andalucía, determinadas conforme al artículo 10 bis.
+A estos efectos, se excluyen del cómputo los trienios o complementos de antigüedad, los complementos personales regulados en una norma con rango de ley y las retribuciones en especie percibidas por el seguro de vida y accidentes para los altos cargos de la Junta de Andalucía, de sus agencias y demás entidades instrumentales o por el seguro colectivo de accidentes para el personal al servicio de la Junta de Andalucía, así como las indemnizaciones por los gastos por razón del servicio o de vivienda y alojamiento y las cuantías que les correspondan como beneficiarios de las ayudas de acción social.
+6. En relación con el complemento que corresponda percibir al personal funcionario conforme al artículo 10.4 de la Ley 3/1991, de 28 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 1992, el complemento de destino citado en dicho artículo se entenderá referido al que se perciba por el personal alto cargo de la Administración de la Junta de Andalucía de acuerdo con el artículo 10 bis, sin que pueda exceder del que corresponda a las personas titulares de las Direcciones Generales.
+7. El personal alto cargo podrá percibir el premio de jubilación que le corresponda por su condición de personal funcionario de la Administración de la Junta de Andalucía cuando en el momento de la jubilación se encuentre en la situación administrativa de servicios especiales, en los mismos términos que el personal que se jubile en la situación de servicio activo.
+El tiempo prestado en la situación administrativa de servicios especiales, derivada de la condición de alto cargo en el ámbito de aplicación de esta ley se entenderá incluido en el concepto año de servicio a los efectos de lo establecido en el apartado primero del Acuerdo de 31 de mayo de 2022, del Consejo de Gobierno, por el que se aprueba el Acuerdo de la Mesa Sectorial de Negociación de la Administración General de la Junta de Andalucía, de 28 de abril de 2022, por el que se actualiza el importe del premio de jubilación del personal funcionario de la Administración General de la Junta de Andalucía, o acuerdo que lo sustituya.
+Lo establecido en este apartado se aplicará a los altos cargos que tengan la condición de personal laboral sujeto al Convenio Colectivo del Personal Laboral de la Administración de la Junta de Andalucía que se encuentre en el momento de su jubilación, o que se haya encontrado, en la situación de excedencia forzosa, en tanto lo permita el Convenio Colectivo.
+8. La aplicación de las medidas contenidas en este capítulo no podrá implicar que las personas titulares de las Direcciones Generales y asimilados perciban una retribución íntegra anual inferior a la que corresponda al personal funcionario que ocupe los puestos de trabajo de nivel superior adscritos a estos centros directivos, excluidas para este cálculo las retribuciones percibidas en concepto de trienios o complementos de antigüedad.
+Asimismo, la aplicación de las medidas contenidas en este capítulo no podrá implicar que las personas titulares de las Delegaciones Provinciales y Delegaciones Territoriales y asimilados perciban una retribución íntegra anual inferior a la que corresponda al personal funcionario que ocupe los puestos de trabajo de nivel superior adscritos a estos centros directivos, excluidas para este cálculo las retribuciones percibidas en concepto de trienios o complementos de antigüedad.
+Se añade por único.5 del Decreto-ley 11/2023, de 27 de diciembre. Ref. BOJA-b-2023-90345
+
+## CAPÍTULO III
+
+Declaración de actividades, bienes, intereses y retribuciones
+Se modifica por el art. 6 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373
+
+### Artículo 11
+
+Artículo 11. Obligación de declaración de actividades, bienes, intereses y retribuciones.
+Los altos cargos y otros cargos públicos estarán obligados, conforme se establezca reglamentariamente, a formular declaración de sus actividades, bienes, intereses y retribuciones.
+Dicha declaración se extenderá, conforme se establezca reglamentariamente, a las relaciones en materia de contratación con todas las Administraciones públicas y entes participados de los miembros de la unidad familiar de los altos cargos y otros cargos públicos, de acuerdo con lo establecido en la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+Se modifica por el art. 6 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373
+ Téngase en cuenta para su aplicación la disposición final 3.2 de la citada Ley.
+
+### Artículo 12
+
+Artículo 12. Plazo para efectuar la declaración, obligación de aportar copia de la declaración del Impuesto sobre la Renta de las Personas Físicas y régimen de publicidad de la misma.
+1. La declaración a que se refiere el presente Capítulo se efectuará en el plazo de dos meses desde la fecha de la toma de posesión, cese o modificación de las circunstancias de hecho.
+2. Los altos cargos y otros cargos públicos, en el momento de la toma de posesión, o en el plazo de dos meses desde que se produjera el cese o modificación de las circunstancias de hecho, deberán presentar en el Registro de Actividades, Bienes, Intereses y Retribuciones las autoliquidaciones tributarias íntegras del último ejercicio económico declarado correspondientes al Impuesto sobre la Renta de las Personas Físicas y, en su caso, al Impuesto sobre el Patrimonio, las cuales serán objeto de publicidad en el Portal de la Junta de Andalucía, salvo en aquellos extremos que afecten al derecho a la intimidad de las personas que figuren en las mismas o de terceros, así como a los datos protegidos por la normativa vigente, en cuyo caso la publicidad solo se llevará a cabo previa disociación de los datos a ella referidos, con expresa referencia a tal circunstancia.
+3. Antes del 1 de agosto de cada año natural, los altos cargos y otros cargos públicos deberán presentar en el Registro de Actividades, Bienes, Intereses y Retribuciones las autoliquidaciones tributarias íntegras del último ejercicio económico declarado correspondientes al Impuesto sobre la Renta de las Personas Físicas y, en su caso, al Impuesto sobre el Patrimonio, las cuales serán objeto de publicidad en el Portal de la Junta de Andalucía, salvo en aquellos extremos que afecten al derecho a la intimidad de las personas que figuren en las mismas o de terceros, así como a los datos protegidos por la normativa vigente, en cuyo caso la publicidad solo se llevará a cabo previa disociación de los datos a ella referidos, con expresa referencia a tal circunstancia.
+4. Los altos cargos y otros cargos públicos podrán aportar, asimismo, las autoliquidaciones tributarias de sus cónyuges o parejas de hecho debidamente inscritas, aunque estarán disponibles únicamente en el Registro de Actividades, Bienes, Intereses y Retribuciones y no serán objeto de la publicidad establecida en el artículo 14 de la presente Ley. La publicidad de estas declaraciones en el Portal de la Junta de Andalucía solo podrá realizarse si se cuenta con el consentimiento expreso del cónyuge o pareja, salvando siempre aquellos extremos que afecten al derecho a la intimidad de las personas que figuren en las mismas o de terceros, así como a los datos protegidos por la normativa vigente, en cuyo caso la publicidad solo se llevará a cabo previa disociación de los datos a ella referidos, con expresa referencia a tal circunstancia.
+Se modifica por el art. único de la Ley 8/2016, de 12 de diciembre. Ref. BOE-A-2017-525
+ Se modifica el apartado 2 por el art. 6 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373
+
+### Artículo 13
+
+Artículo 13. Registro de Actividades, Bienes, Intereses y Retribuciones.
+Las declaraciones, a las que se refieren el presente Capítulo y el artículo 10, se inscribirán en el Registro de Actividades, Bienes, Intereses y Retribuciones constituido en la Consejería competente por razón de la materia.
+Se modifica por el art. 6 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373
+
+### Artículo 14
+
+Artículo 14. Publicidad del Registro.
+1. El Registro de Actividades, Bienes, Intereses y Retribuciones al que se alude en el artículo anterior será público.
+2. El contenido de las declaraciones inscritas en el citado Registro se publicará en el «Boletín Oficial de la Junta de Andalucía» y estará disponible en internet.
+Se modifica el apartado 1 por el art. 6 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373
+
+## CAPÍTULO IV
+
+Potestad sancionadora
+
+### Artículo 15
+
+Artículo 15. Infracciones.
+1. A efectos de esta Ley, se consideran infracciones muy graves:
+a)El incumplimiento, por los titulares de altos cargos, de las normas sobre incompatibilidades y sobre abstención e inhibición, a que se refieren los artículos 3 y 6, y 7, respectivamente, de la presente Ley, cuando se haya producido daño manifiesto a la Administración de la Junta de Andalucía.
+b) La falsedad de los datos y documentos que deben ser presentados conforme a lo establecido en esta Ley.
+c)La omisión de datos y documentos que sean relevantes por su importancia o trascendencia social, y que deban ser presentados conforme a lo establecido en esta Ley.
+d) El desarrollo de actividades sin tener la autorización prevista en los artículos 3.3 y 8.bis.
+2. Se consideran infracciones graves:
+a)El incumplimiento, por los titulares de altos cargos, de las normas sobre incompatibilidades y sobre abstención e inhibición, a que se refieren los artículos 3 y 6, y 7, respectivamente, de la presente Ley, y no constituyan infracción muy grave de las previstas en la letra a) del apartado anterior.
+b)La omisión de datos y documentos que deban ser presentados conforme a lo previsto en esta Ley y no constituyan infracción muy grave de las previstas en la letra c) del apartado anterior.
+c)La no declaración de actividades, bienes e intereses y retribuciones, en el correspondiente Registro, tras el requerimiento para ello.
+d)La comisión de dos infracciones leves en el periodo de un año.
+3. Se considera infracción leve:
+La no declaración de actividades, bienes e intereses en el correspondiente Registro, dentro de los plazos establecidos, cuando se subsane tras el requerimiento que se formule al efecto.
+Se añade la letra d) al apartado 1 por el art. 1.4 del Decreto-ley 6/2024, de 28 de mayo. Ref. BOJA-b-2024-90111
+ Se modifica por el art. 6 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373
+
+### Artículo 16
+
+Artículo 16. Sanciones.
+1. Las infracciones muy graves y graves serán sancionadas con la declaración del incumplimiento de la Ley y la publicación de esta declaración en el «Boletín Oficial de la Junta de Andalucía».
+2. Las infracciones leves se sancionarán con amonestación por incumplimiento de esta Ley.
+3. Con independencia de las sanciones por infracciones muy graves y graves que les sean impuestas, los infractores deberán, en su caso, restituir las cantidades percibidas indebidamente por el desempeño de actividades públicas incompatibles o que por razón de indemnización tras el cese tengan derecho, de la forma que se establezca reglamentariamente.
+4. Lo dispuesto en la presente Ley se entiende sin perjuicio de la exigencia de las demás responsabilidades a que hubiere lugar. A estos efectos, cuando aparezcan indicios de otras responsabilidades, se ordenará el ejercicio de las acciones que correspondan.
+Si las infracciones pudieran ser constitutivas de delito, la Administración pasará el tanto de culpa al órgano jurisdiccional competente, y se abstendrá de seguir el procedimiento mientras por la autoridad judicial no se dicte resolución poniendo fin al proceso penal.
+
+### Artículo 17
+
+Artículo 17. Imposibilidad de ocupar altos cargos.
+1. Quienes hubieran sido sancionados por la comisión de una infracción muy grave de las tipificadas en esta Ley serán, en su caso, cesados y no podrán ser nombrados para ocupar cargos de los relacionados en el artículo 2, por un período de entre tres y diez años.
+2. Quienes hubieran sido sancionados por la comisión de una infracción grave de las tipificadas en esta Ley serán, en su caso, cesados y no podrán ser nombrados para ocupar cargos de los relacionados en el artículo 2, por un período de hasta tres años.
+3. En la graduación de las medidas previstas en este artículo se valorará la existencia de perjuicios para el interés público si no se hubiera tenido en cuenta para tipificar la infracción, el tiempo transcurrido en situación de incompatibilidad, la repercusión de la conducta en los administrados y, en su caso, la percepción indebida de cantidades por el desempeño de actividades públicas incompatibles.
+
+### Artículo 18
+
+Artículo 18. Procedimiento sancionador.
+El procedimiento sancionador se regirá por lo dispuesto en el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del procedimiento para el ejercicio de la potestad sancionadora, salvo en las peculiaridades específicas del mismo.
+
+### Artículo 19
+
+Artículo 19. Medidas de carácter provisional.
+El órgano competente para resolver el procedimiento podrá acordar motivadamente, como medida de carácter provisional, la suspensión de empleo y sueldo con los efectos previstos en la legislación en materia de función pública, así como de cualquier autorización de libramientos a quienes estén incursos en un procedimiento sancionador por infracción de lo establecido en la presente Ley.
+
+### Artículo 20
+
+Artículo 20. Prescripción de infracciones y sanciones.
+El régimen de prescripción de las infracciones y sanciones previstas en esta Ley será el establecido en el Título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 21
+
+Artículo 21. Órgano competente.
+1. El órgano competente para ordenar la incoación de los procedimientos sancionadores, así como para la imposición de las sanciones, cualquiera que sea su gravedad, será la persona titular de la Dirección de la Oficina Andaluza contra el Fraude y la Corrupción.
+2. La instrucción de los correspondientes procedimientos se realizará por quien designe la persona titular de la Dirección de la Oficina Andaluza contra el Fraude y la Corrupción.
+3. El procedimiento se ajustará a lo previsto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y su normativa de desarrollo en relación con el procedimiento administrativo sancionador, así como en el título preliminar, capítulo III, de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+Se modifica por la disposición final 2.6 de la Ley 2/2021, de 18 de junio. Ref. BOE-A-2021-11380#df-2
+ Se modifica por el art. 6 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373
+
+## CAPÍTULO V
+
+Asignaciones y situaciones tras el cese
+
+### Artículo 22
+
+Artículo 22. Asignación económica a ex presidentes.
+Al cesar en el cargo, los ex presidentes de la Junta de Andalucía tendrán derecho a una asignación económica, determinada de acuerdo con lo previsto en el artículo 10, número cinco, norma primera, de la Ley 74/1980, de 29 de diciembre, de Presupuestos Generales del Estado para el año 1981.
+
+### Artículo 23
+
+Artículo 23. Asignación económica a ex vicepresidentes y ex consejeros.
+Al cesar en el cargo, los ex vicepresidentes y ex consejeros de la Junta de Andalucía tendrán derecho a una asignación económica determinada de acuerdo con lo previsto en el artículo 10, número cinco, norma primera, de la Ley 74/1980, de 29 de diciembre, de Presupuestos Generales del Estado para el año 1981.
+
+### Artículo 24
+
+Artículo 24. Asignación económica a ex altos cargos.
+1. Al cesar en el cargo, los ex altos cargos de la Junta de Andalucía, con excepción de los citados en los artículos 22 y 23, tendrán derecho a una asignación económica temporal de una mensualidad de las retribuciones del cargo en que se cesa por cada año de ejercicio, con un mínimo de tres mensualidades y un máximo de doce.
+2. El derecho a dicha asignación económica decaerá en el momento en que, dentro del período en que la perciba, se ocupase otro puesto de trabajo o se ejerciese una actividad retribuida en el sector privado o en la fecha en que adquiera efectos económicos el ingreso o reingreso a un puesto de trabajo en el sector público.
+3. A estos efectos, son altos cargos los titulares de los centros directivos de los servicios centrales de las Consejerías y de los Organismos Autónomos, así como los Delegados del Gobierno de la Junta de Andalucía, siempre que todos ellos hayan sido nombrados por Decreto del Consejo de Gobierno.
+
+### Artículo 25
+
+Artículo 25. Incompatibilidades en la percepción de asignación económica.
+Las asignaciones económicas establecidas en los artículos 22, 23 y 24 de esta Ley son incompatibles con la percepción de retribuciones que pudieran corresponder a las personas que cesan en el ejercicio de los respectivos cargos a los que se refieren dichos artículos, caso de ser designados de nuevo para alguno de los cargos de referencia, o altos cargos de otras Administraciones Públicas, así como con cualquier otra percepción o prestación económica a que tuvieran derecho como consecuencia del cese en los citados cargos.
+
+### Artículo 26
+
+Artículo 26. Consolidación de grado a ex parlamentarios.
+Los funcionarios de carrera al servicio de la Administración de la Junta de Andalucía que durante una legislatura completa hayan sido diputados del Parlamento de Andalucía percibirán, desde su reincorporación al servicio activo, y mientras se mantengan en esta situación, el complemento correspondiente a su grado personal, incrementado en la cantidad necesaria para igualarlo al valor del complemento de destino que la Ley de Presupuesto de la Comunidad Autónoma fije anualmente para el cargo de Director General de la Junta de Andalucía.
+
+### Artículo 27
+
+Artículo 27. Consolidación de complemento de personal laboral.
+1. Los trabajadores incluidos en el ámbito de aplicación del Convenio Colectivo para el personal de la Administración de la Junta de Andalucía, que, durante más de dos años continuados o tres con interrupción, desempeñen o hayan desempeñado a partir del día 28 de abril de 1978 puestos en la Administración de la Junta de Andalucía o en sus organismos autónomos, comprendidos en el ámbito de aplicación previsto en el artículo 2.1 de la presente Ley, exceptuados los puestos de Gabinete con categoría inferior a Director General, percibirán, desde su reincorporación al servicio activo, y mientras se mantengan en esta situación, el complemento correspondiente a su categoría profesional, incrementado en la cantidad que resulte de la diferencia entre el valor del complemento de destino que la Ley de Presupuesto de la Comunidad Autónoma fije anualmente para el cargo que se hubiere desempeñado y la suma de las cuantías de los complementos de categoría profesional y de convenio colectivo, hasta igualarlo al complemento de destino que dicha Ley de Presupuesto fije para el cargo de Director General de la Junta de Andalucía.
+2. Lo dispuesto en el apartado anterior será de aplicación, con los mismos efectos, a aquellos trabajadores incluidos en el ámbito de aplicación del Convenio Colectivo para el personal de la Administración de la Junta de Andalucía que durante una legislatura completa hayan ostentado la condición de diputado del Parlamento de Andalucía.
+
+### Artículo 28
+
+Artículo 28. Permisos no retribuidos a ex diputados y ex altos cargos.
+1. Al producirse la pérdida de la condición de diputado del Parlamento de Andalucía, o el cese de los altos cargos a los que se refiere el apartado 3 del artículo 24, y siempre que en dichos casos tengan la condición de personal de la Administración de la Junta de Andalucía, unos y otros tendrán derecho a un permiso no retribuido de adaptación a la vida laboral o administrativa de un mes por cada año en el ejercicio del cargo, con una duración máxima de doce meses.
+2. El permiso a que se refiere el apartado anterior se solicitará conjuntamente con el reingreso al servicio activo, y se empezará a disfrutar desde el momento en que se produzca dicho reingreso.
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+Hasta la aprobación del Reglamento de desarrollo de la presente Ley, se mantiene el Registro de Intereses y Bienes creado al amparo de lo previsto en la Ley 5/1984, de 23 de abril, de Incompatibilidades de Altos Cargos de la Administración Andaluza.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Queda derogada la Ley 5/1984, de 23 de abril, de Incompatibilidades de Altos Cargos de la Administración Andaluza. Asimismo, quedan derogadas cuantas disposiciones, de igual o inferior rango, se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+1. El Consejo de Gobierno aprobará un Reglamento que desarrolle las previsiones establecidas en el Capítulo III de la presente Ley en el plazo de tres meses a contar desde la entrada en vigor de la misma.
+2. Los altos cargos y otros cargos públicos a los que se refiere la presente Ley estarán obligados a efectuar las declaraciones reguladas en los artículos 10 y 11, en el plazo de dos meses desde la aprobación del citado Reglamento.
+3. Se autoriza al Consejo de Gobierno para dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de lo previsto en la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Lo establecido en los artículos 22, 23, 24 y 28 de la presente Ley será de aplicación a quienes cesen en los cargos citados en dichos artículos a partir de la entrada en vigor de la misma.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Lo dispuesto en los artículos 26 y 27 de la presente Ley tendrá efectos desde el día 1 de enero de 2005.
+
+### [firma]
+
+Sevilla, 8 de abril de 2005.
+MANUEL CHAVES GONZÁLEZ
+Presidente

@@ -1,0 +1,1254 @@
+# Ley 7/1995, de 6 de abril, de Ordenación del Turismo de Canarias.
+
+- Identificador BOE: `BOE-A-1995-12102`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-12102
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 11.7 del Estatuto de Autonomía, promulgo y ordeno la publicación de la Ley de Ordenación del Turismo de Canarias.
+PREÁMBULO
+1
+La competencia exclusiva sobre la promoción y la ordenación del turismo en el ámbito territorial de la Comunidad Autónoma de Canarias nos viene dada por nuestro Estatuto de Autonomía, que en su artículo 29.14, hace efectiva la previsión de artículo 148.1.18.ª de la Constitución Española de 1978.
+Tal competencia incluye la potestad legislativa en la materia, lo cual unido a su carácter exclusivo, ha permitido aprobar la presente Ley, en la que se ha acometido por vez primera una regulación general del sector, abarcando todos sus aspectos.
+La Ley pretende regular en el ejercicio de tal competencia, la ordenación y promoción del sector turístico como elemento económico estratégico en el Archipiélago Canario, contemplando los siguientes objetivos:
+La ordenación y el fomento del sector turístico empresarial tanto desde el punto de vista de la actividad, como de los establecimientos donde se desarrolle la misma.
+La regulación de la oferta turística, concibiendo Canarias como una unidad de destino turístico.
+La conservación, protección y aprovechamiento racional de los recursos turísticos de Canarias, con especial atención al medio ambiente, el paisaje y la cultura autóctonos.
+La ordenación de las infraestructuras territoriales y urbanísticas y la delimitación de las competencias turísticas de las Administraciones públicas Canarias.
+La garantía y protección del «status» jurídico del usuario turístico, anudando con ella una regulación exhaustiva y rigurosa del régimen sancionador en materia turística.
+2
+Siendo la ley multidisciplinar, puesto que teniendo como denominador común la ordenación del turismo en Canarias, regula también los aspectos empresariales, profesionales, urbanísticos, medio ambientales, de fomento y sancionadores, sin perjuicio de las competencias que al Estado reserva la Constitución, resulta evidente que su contenido alcance a todos los sectores relacionados con el turismo, bien directa, bien colateralmente. En su consecuencia, la Ley es especialmente aplicable a:
+a) Los turistas, a los que la Ley denomina usuarios turísticos, puesto que esta expresión es más amplia que la primera, ya que en el acervo popular por turista se entiende de manera fundamental al extranjero que visita nuestras islas, siendo así que también los nacionales en general, e incluso los canarios en particular, son demandantes y receptores de los servicios turísticos.
+La Ley contempla un amplio abanico de derechos del usuario turístico, alguno de ellos hasta hoy no regulados, como son: a la información veraz; a la calidad de los servicios; a la seguridad, intimidad y tranquilidad y a formular quejas y reclamaciones.
+b) Las empresas turísticas y sus establecimientos, de los que la Ley regula los siguientes aspectos:
+Su tipología, dando entrada por primera vez a empresas y actividades de ocio y esparcimiento hasta hoy no contempladas.
+Sus obligaciones para con el usuario.
+Los requisitos para el ejercicio de la actividad, de entre los que destaca por su novedad y trascendencia, la obligatoriedad de la inscripción previa, en el Registro General de Empresas, Actividades y Establecimientos Turísticos, instrumento público creado «ex novo» por la Ley.
+El régimen jurídico por sectores de actividad, en el que resalta, para los establecimientos alojativos, el control de la sobrecontratación; el principio de unidad de explotación, igualmente novedad de la Ley, y la regulación de los alojamientos en régimen de uso a tiempo compartido (expresión que sustituye al anglicismo «time-sharing»).
+c) Los profesionales turísticos, regulándose la necesidad de su cualificación y habilitación, previéndose la potenciación de los hoteles-escuela, la formación profesional y la escuela oficial y estudios superiores de turismo. Todo ello en aras a conseguir la mejor capacitación de los profesionales del sector que indudablemente habrá de redundar en la mejora de la calidad de los servicios que presten.
+d) Las Administraciones públicas de Canarias. Siendo el turismo desde su vertiente pública una competencia en la que necesariamente deben estar implicadas todas las Administraciones Públicas de Canarias, la Ley, definitivamente realiza una distribución de los ámbitos competenciales de cada una de ellas.
+Además la Ley tiene una incidencia determinante sobre los instrumentos de planificación territorial y urbanística, como vehículos formales a través de los cuales se pretende obtener una rigurosa ordenación del sector, de tal manera que, los Planes Insulares de Ordenación (PIO) con las previsiones turísticas que la Ley obliga a incorporar a ellos, se posicionan jerárquicamente sobre cualquier otra figura del planeamiento municipal, que se tiene que adaptar necesariamente a aquéllos.
+También se regulan por vez primera los servicios mínimos obligatorios en los municipios turísticos, para los que la Ley sienta las bases de su régimen jurídico peculiar.
+Igualmente la Ley incide en el medio ambiente, en cuanto constituye el entorno natural donde el turismo se desarrolla, exigiendo como deber general de toda actividad turística su salvaguarda.
+3
+La Ley consta de ochenta y cuatro artículos, cuatro disposiciones adicionales, siete transitorias, una derogatoria y dos finales, estructurándose en la forma siguiente: Seis títulos, cada uno de los cuales se divide en capítulos, secciones y subsecciones, cuyo contenido esencial es el siguiente:
+a) Sus objetivos (artículo 1) de los que se ha dejado reseña suficiente en el apartado 1 de este Preámbulo.
+b) Los sujetos, establecimientos y actividades a los que la Ley se aplica especialmente (artículo 2), de entre los que merece destacar por su novedad las empresas y actividades relacionadas directa e indirectamente con el ocio y esparcimiento (balnearios, piscinas, parques zoológicos y acuáticos, terrazas de verano, etc.).
+c) La concepción de Canarias como unidad de destino turístico (artículo 3) de la que se infiere la especial protección de su imagen, como bien colectivo, (artículo 30), tipificándose como infracción muy grave, los atentados y acciones perjudiciales para la misma (artículo 75.7).
+d) Las competencias de las distintas Administraciones públicas de Canarias, en materia turística (artículos 5 al 7), así como los principios, bases e instrumentos para sus relaciones interadministrativas (artículos 8 al 10).
+e) Las funciones propias del Consejo Regional de Turismo, órgano de asesoramiento y consulta del Gobierno de Canarias (artículo 11).
+f) El Estatuto Jurídico del Usuario Turístico y de las Empresas Turísticas (artículos 12 al 20) destacándose la relación de los derechos y deberes; la definición de usuario turístico y la regulación de algunos de sus derechos, como los de información veraz; calidad de los servicios; intimidad, tranquilidad, seguridad y formular quejas y reclamaciones.
+g) La ordenación general de la oferta turística, estableciendo los requisitos exigibles para cualquier empresa que pretenda desarrollar una actividad de esa naturaleza (artículos 21 al 25) de entre los que merece especial mención, por su novedad y trascendencia, la obligatoriedad de la inscripción previa en el Registro General de Empresas, Actividades y Establecimientos Turísticos, que constituye un requisito «sine qua non» para el ejercicio de cualquier actividad con fines turísticos.
+h) Las condiciones que se deben cumplir para preservar el medio ambiente (artículos 26, 27 y 29) así como la cultura canaria (artículo 28).
+i) La regulación detallada de la actividad turística alojativa (artículos 31 al 46), destacándose de ella:
+La clasificación.
+La regulación de las zonas a rehabilitar.
+La regulación del fenómeno turístico de la sobrecontratación, cuyo incumplimiento está tipificado como infracción grave (artículo 76.12).
+El principio de unidad de explotación y la exigencia de constitución de sociedades mercantiles, para el supuesto de propiedad en comunidad del complejo (artículos 38 al 42).
+La exigencia de calidad en las instalaciones y servicios y su conservación con especial atención a las instalaciones de más de diez años (artículos 43 y 44).
+La capacitación del personal (artículo 45).
+La regulación de los alojamientos en régimen de uso a tiempo compartido en su vertiente promocional turística (artículo 46).
+La actividad de intermediación turística (artículos 47 y 48) en cuya regulación destaca la exigencia de constitución de sociedades anónimas o limitadas para su desempeño y la obligación de prestar fianza por los operadores turísticos y demás intermediarios turísticos.
+La regulación de otras actividades turísticas (artículos 49 al 51) comprendiendo las conocidas popularmente como de restauración, junto a otras como las de riesgo y aventura; para las que se exige un seguro de responsabilidad que dé cobertura a los eventuales daños que puedan derivarse de las mismas.
+j) El fomento de la actividad turística (artículos 52 al 56) previéndose como instrumentos a utilizar los programas de fomento, y un programa específico de conservación del medio ambiente.
+k) La regulación de las infraestructuras y los servicios públicos (artículos 57 al 67) en la que destacan:
+La configuración del Plan Insular de Ordenación (PIO) como instrumento de ordenación urbanístico-turística y de los recursos naturales del archipiélago, condicionado a las previsiones de la Ley, que incluso obliga a que la vigente Ley reguladora de los PIO, se adecue a ella (disposición adicional primera) y a los que debe adaptarse todo el planeamiento urbanístico municipal.
+La posibilidad de llevar a cabo la suspensión del planeamiento urbanístico y la concesión de licencias, en zonas a rehabilitar o insuficientemente dotadas y mientras se produce la adaptación del planeamiento municipal al PIO.
+La creación de servicios obligatorios en los municipios turísticos; para los que se sientan las bases del estatuto jurídico propio, previsto en el artículo 30 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local y en la disposición adicional cuarta de la Ley territorial 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias (disposición adicional segunda).
+La Ley alude también en ocasiones, a servicios que deben ser prestados en «zonas» o «núcleos» turísticos, cuyos conceptos no se identifican con el municipio turístico, pudiendo existir aquéllos en municipios que no tengan este carácter.
+Además el «núcleo» representa un ámbito geográfico menor que el municipio: Un enclave concreto dentro de éste; y la «zona», un área más extensa que el municipio, empleando la Ley este último concepto allí donde parece oportuno que los servicios se comarcalicen o mancomunen.
+l) La formación técnico profesional turística (artículos 68 al 71), potenciando los hoteles-escuela; propiciando la unificación de criterios en la formación profesional reglada y ocupacional, la celebración de convenios con las universidades canarias y otros apoyos a la formación turística. Igualmente se prevé la creación de una comisión para la formación profesional turística. (disposición adicional cuarta).
+m) El régimen sancionador en materia turística (artículos 72 al 84), regulando de forma pormenorizada y exhaustiva la tipicidad de las infracciones turísticas y la tipología de las sanciones, llevándose a cabo en estas últimas un incremento en la cuantía de las multas, así como también, creando nuevas figuras de sanciones y de medidas cautelares que no estaban recogidas en la anterior Ley de Disciplina en Materia Turística (Ley 3/1986, de 8 de abril), que resulta derogada. Se le da mayor agilidad al procedimiento sancionador, sin merma de las garantías del expedientado, así como se potencian los cometidos y medios instrumentales de la inspección turística.
+n) Recoge la Ley en sus disposiciones adicionales, fundamentalmente, la necesidad de adaptar a ella la Ley reguladora de los Planes Insulares de Ordenación (como ya se ha dicho), el mandato al Gobierno de Canarias para confeccionar el Estatuto de los municipios turísticos, así como para la creación de una Comisión para la formación profesional turística, de carácter interdepartamental.
+ñ) Incorpora la Ley las disposiciones transitorias necesarias para posibilitar la adaptación de las situaciones jurídicas surgidas al amparo de normas anteriores y las que se originen tras su promulgación, concediendo para ello plazos a computar desde su entrada en vigor, entre los que merece destacarse: El de un año para la legalización de las empresas clandestinas y para la inscripción obligatoria en el Registro General de Empresas, Actividades y Establecimientos Turísticos, de las no registradas; dos años para la efectiva aplicación del principio de unidad de explotación en la totalidad de la oferta alojativa existente y la también necesaria acomodación a ella de los planes urbanísticos en tramitación.
+o) Por último, concluye la Ley con la disposición derogatoria de cuantas normas se opongan a su contenido y con las disposiciones finales de rigor, a saber: La autorización al Gobierno para su desarrollo; y la «vacatio legis» que se establece en tres meses, período temporal que se estima prudencial para su necesario conocimiento y divulgación.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+1. La presente Ley tiene por objeto regular, en el ejercicio de la competencia exclusiva que sobre la materia tiene la Comunidad Autónoma de Canarias, la ordenación y promoción del turismo en el Archipiélago Canario.
+2. Se entienden comprendidas dentro de ese objetivo las siguientes materias:
+a) La delimitación de competencias de las Administraciones públicas de Canarias, en relación con el turismo.
+b) La ordenación del sector turístico empresarial y de las actividades turísticas en Canarias, así como la regulación, clasificación y control de los establecimientos turísticos.
+c) La creación, conservación, mejora, aprovechamiento, protección de los recursos y de la oferta turística en Canarias.
+d) Las acciones de promoción y fomento del turismo y de la actividad turística empresarial.
+e) La garantía y protección de los derechos del turista, en su condición de usuario, de los servicios turísticos.
+f) La protección del medio ambiente y conservación de la naturaleza, el paisaje y la cultura de Canarias, en cuanto objetos de atracción y recursos turísticos.
+g) Las directrices para la ordenación de las infraestructuras territoriales y urbanísticas, como instrumentos de protección del turismo.
+h) La formación técnico-profesional en materia turística.
+i) El régimen sancionador en materia turística.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. La presente ley resulta de aplicación a las empresas turísticas entendiendo por tales aquellas que, mediante contraprestación, prestan servicios en el ámbito de la actividad turística.
+Se comprende también en el ámbito de aplicación de esta ley a todas las administraciones, organismos y empresas públicas, que desarrollen su actividad relacionada con el turismo en la Comunidad Autónoma de Canarias.
+2. Esta ley se aplica asimismo a las siguientes actividades:
+a) Las actividades o la oferta de servicios de alojamiento turístico de cualquier tipo, así como los establecimientos donde los realicen.
+b) Las actividades y servicios de restauración que se desarrollen en restaurantes, bares-cafeterías.
+c) Las actividades de turismo activo, en las que el sujeto responsable de la actividad turística es el propio usuario turístico, sin perjuicio de las intermediaciones que procedan de acuerdo con esta ley y sus normas de desarrollo, y que comprenden las actividades de recreo, deportivas o de aventura que se desarrollen normalmente sirviéndose de los recursos que ofrece la propia naturaleza en cualquier medio, sea aéreo, terrestre, subterráneo, acuático o urbano; así como las actividades formativas, informativas o divulgativas en el ámbito cultural, medioambiental u otros análogos.
+d) Las actividades de intermediación turística que tengan lugar en la Comunidad Autónoma, así como los establecimientos donde desarrollen su actividad.
+e) Los balnearios, piscinas, parques acuáticos, instalaciones deportivo-turísticas, parques zoo-lógicos y botánicos y similares, cuando su acceso sea libre, independientemente de que se exija o no contraprestación por el mismo.
+f) Las excursiones aéreas o marítimas con fines turísticos de pesca deportivo-turística, u otras análogas, como observación de cetáceos o turismo marinero, en el ámbito de la Comunidad Autónoma.
+g) Las personas físicas o jurídicas que se dediquen de forma habitual y retribuida a actividades de formación, información o acompañamiento a usuarios turísticos.
+h) Las actividades turísticas complementarias, tales como las atracciones y espectáculos, incluidas las que se desarrollen en salas de fiesta, discotecas y de baile; actividades de animación y demás de esparcimiento y ocio en instalaciones especialmente habilitadas para ello, así como las actividades relacionadas con la organización y asistencia a congresos y traducción simultánea, en cuanto desarrollen actividades sujetas a esta ley.
+i) Cualquier otra actividad cuyo giro o tráfico comprenda servicios relacionados directa o indirectamente con el turismo y que sea calificada como turística por el Gobierno de Canarias.
+3. La consejería con competencias en materia turística, previo expediente instruido al efecto, podrá declarar la no sujeción a esta ley de empresas, actividades o establecimientos, que pudieran considerarse turísticos, cuando se acredite que carecen de tal carácter o naturaleza.
+Se modifica por el art. 15.1 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996.
+ Se deroga la letra g) del apartado 1 por la disposición derogatoria 2 de la Ley 6/2009, de 6 de mayo. Ref. BOE-A-2009-9047#ddsegunda.
+
+### Artículo 3
+
+Artículo 3. Canarias, unidad de destino turístico.
+A los efectos de esta Ley, Canarias, en su conjunto, se considera como una unidad de destino turístico, con tratamiento unitario en su promoción fuera del archipiélago.
+
+## TÍTULO I
+
+Las Administraciones públicas en materia turística
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 4
+
+Artículo 4. Administraciones públicas con competencias en materia turística.
+1. Las Administraciones públicas de Canarias con competencia en materia turística son:
+a) La Administración pública de la Comunidad Autónoma de Canarias.
+b) Los Cabildos Insulares.
+c) Los Ayuntamientos canarios.
+d) Los organismos autónomos y entidades de derecho público que sean creados por cualesquiera de las anteriores administraciones para la gestión del sector público turístico.
+2. Las competencias de las diferentes Administraciones públicas previstas en el número anterior, podrán ser ejercidas, cuando supongan la prestación de servicios, a través de las empresas públicas con forma societaria que al efecto puedan crearse.
+
+## CAPÍTULO II
+
+Competencias turísticas de las diferentes Administraciones públicas
+
+### Artículo 5
+
+Artículo 5. Competencias de la Administración pública de la Comunidad Autónoma de Canarias.
+1. Corresponde a la Administración pública de la Comunidad Autónoma de Canarias, en materia turística, todas aquellas competencias en las que estén presentes los principios del artículo 9 de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias.
+2. En todo caso, corresponde a la Administración pública de la Comunidad Autónoma de Canarias el ejercicio de las siguientes competencias:
+a) La potestad reglamentaria externa, así como las potestades de inspección y sanción en materia turística.
+b) La protección y promoción de la imagen de Canarias como unidad de destino turístico, así como la coordinación de las políticas de ordenación, fomento y promoción del turismo de los cabildos insulares y municipios.
+c) La planificación y ordenación del turismo a nivel regional, incluida la ordenación de la oferta, así como la planificación y programación sobre infraestructuras turísticas de interés regional y la coordinación de las actuaciones que en esa materia ejerzan los cabildos insulares y municipios.
+d) La regulación de las enseñanzas turísticas y la de las profesiones del sector y la habilitación para su ejercicio, sin perjuicio de las competencias atribuidas al Estado por el artículo 149.1.30.ª de la Constitución.
+e) La gestión del Registro General Turístico de Canarias, incluyendo la inscripción de las plazas adicionales de alojamiento derivadas de una iniciativa de renovación o sustitución edificatoria, y la elaboración y mantenimiento de bases de datos y estadísticas turísticas de Canarias.
+f) La acción regional de fomento al sector turístico.
+g) La elaboración y divulgación de estudios, investigaciones y estadísticas relacionados con la salud de las personas trabajadoras en el sector turístico, los cuales, al menos cada cinco años, determinarán las condiciones ergonómicas y psicosociales del sector y las medidas preventivas y correctivas que, para el ejercicio de las profesiones turísticas, deberán establecerse reglamentariamente. Todo ello, en el ejercicio de la competencia autonómica de prevención de riesgos laborales y la seguridad en el trabajo.
+Se modifica el apartado 2 por el art. único.1 de la Ley 1/2026, de 28 de abril. Ref. BOE-A-2026-17187
+ Se modifica la letra e) del apartado 2 por la disposición adicional 1 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-6584#daprimera.
+ Se modifica la letra e) del apartado 2 por la disposición adicional 2.1 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+
+### Artículo 6
+
+Artículo 6. Competencias de las Administraciones insulares.
+Corresponde a los Cabildos Insulares, en materia turística, aquellas competencias que les atribuye la legislación de régimen local y las transferidas por la Comunidad Autónoma de Canarias, y en especial las siguientes:
+1. La promoción turística de su isla en coordinación con los municipios turísticos, conforme al principio de unidad de destino reconocido en esta Ley.
+2. La coordinación de los servicios de promoción y fomento del turismo que desarrollen los municipios de la isla respectiva.
+3. El desarrollo de la política de infraestructuras turísticas de su isla, especialmente dentro de los Planes Insulares de Ordenación.
+4. La coordinación de las actuaciones que, en materia de infraestructuras turísticas, verifiquen los municipios de la isla respectiva.
+5. La asistencia y la cooperación jurídica, económica y técnica a los municipios de su isla, en materia turística.
+6. (Derogado).
+Se deroga el apartado 6 por la disposición derogatoria única.1 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+ Se modifica el apartado 6 por el art. 10.1 de la Ley 2/2000, de 17 de julio. Ref. BOE-A-2000-15425.
+ Se añade el apartado 6 por el art. único.1 de la Ley 5/1999, de 15 de marzo. Ref. BOE-A-1999-7982.
+
+### Artículo 7
+
+Artículo 7. Competencias de la Administración municipal.
+1. Corresponde a los municipios, en materia turística, las competencias que la legislación de régimen local les atribuye, así como el ejercicio de las funciones delegadas por los Cabildos Insulares.
+2. En todo caso corresponde a los municipios en materia turística:
+a) La prestación de los servicios turísticos obligatorios que les impone la presente Ley.
+b) El otorgamiento de las licencias que la legislación les atribuye en lo que atañe a las empresas y establecimientos turísticos.
+c) La aprobación de los instrumentos de planeamiento que les compete, conforme al ordenamiento vigente, de acuerdo con las previsiones de esta Ley en cuanto al planeamiento directivo insular.
+3. Los municipios desarrollarán sus funciones en coordinación con la política regional e insular, tanto en la prestación de servicios como en las actuaciones en infraestructuras.
+
+## CAPÍTULO III
+
+Relaciones interadministrativas
+
+### Artículo 8
+
+Artículo 8. Principios generales y técnicas instrumentales.
+Las competencias turísticas de las diferentes Administraciones Públicas Canarias se ejercerán bajo los principios de colaboración, coordinación e información multilateral.
+En aplicación de tales principios se utilizarán las técnicas previstas en la legislación vigente, especialmente la celebración de convenios y de conferencias sectoriales, el establecimiento de consorcios y la elaboración de planes de infraestructuras turísticas.
+
+### Artículo 9
+
+Artículo 9. Conferencias sectoriales de responsables turísticos.
+(Sin contenido).
+Se deja sin contenido por el art. 7 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282.
+
+### Artículo 10
+
+Artículo 10. Plan regional de infraestructuras y Plan sectorial de materia turística.
+1. A efectos de lo previsto en la disposición transitoria tercera de la Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias, y como instrumento general de coordinación a que se refieren los artículos 18 y siguientes de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, el Gobierno de Canarias establecerá:
+a) Un Plan regional de infraestructuras turísticas en coordinación con los Cabildos Insulares y los municipios más representativos por su desarrollo turístico, que aborde las necesidades, prioridades e infraestructuras relacionadas con el sector turístico.
+En este Plan, se tendrá en cuenta especialmente la protección y mejora del medio ambiente, así como la conservación de la naturaleza y aquellas medidas que garanticen la conservación de los recursos paisajísticos de las islas.
+b) Un Plan sectorial de interés general en materia turística, en el que se incardine la actividad de las Administraciones públicas concurrentes, fijando los objetivos, los programas de actuación y los medios necesarios.
+Dicho Plan, elaborado por la Consejería competente en materia turística, será concertado en el ámbito de las conferencias sectoriales, una vez informado por el Consejo Regional de Turismo. Aprobado por el Gobierno, será remitido al Parlamento para su examen.
+2. Reglamentariamente se establecerá la forma y condiciones en que las normas de planeamiento de las distintas entidades locales afectadas por estos planes hayan de ajustarse a sus prescripciones.
+
+## CAPÍTULO IV
+
+Consejo Regional de Turismo
+
+### Artículo 11
+
+Artículo 11. Naturaleza, composición y funciones del Consejo Regional de Turismo.
+1. El Consejo Regional de Turismo es el órgano de asesoramiento y consulta del Gobierno de Canarias en materia turística.
+2. Son funciones propias del Consejo Regional de Turismo:
+a) Evacuar los informes y consultas que, en materia turística, le sean solicitados por cualesquiera de las Administraciones públicas de Canarias.
+b) Ser oído en el trámite de audiencia en los planes sectoriales de interés general.
+c) Hacer sugerencias a las Administraciones públicas de Canarias en cuanto a la adecuación del sector turístico.
+d) Elaborar un informe anual sobre la situación turística de Canarias.
+e) Cualquier otra que reglamentariamente se le atribuya.
+3. El Gobierno de Canarias regulará la composición, organización y funcionamiento del Consejo Regional de Turismo, que estará adscrito a la Consejería competente en materia turística. En su composición estarán debidamente representados los agentes económicos y sociales de la Región, junto a las Administraciones públicas competentes.
+
+## TÍTULO II
+
+La actividad turística
+
+## CAPÍTULO I
+
+Deberes y derechos en materia turística
+
+## Sección 1
+
+Sección 1.ª Deberes en general
+
+### Artículo 12
+
+Artículo 12. Deberes en general.
+Toda actividad turística desarrollada en el Archipiélago Canario deberá:
+1. Salvaguardar el medio ambiente y los valores ecológicos de las islas.
+2. Proteger las manifestaciones culturales y la forma de vida de la población de toda agresión, manipulación o falseamiento.
+3. Preservar, y en caso de daño restaurar, los bienes públicos o privados que guarden relación con el turismo.
+
+## Sección 2
+
+Sección 2.ª Deberes y derechos de las empresas turísticas
+
+### Artículo 13
+
+Artículo 13. Deberes.
+1. El establecimiento y ejercicio de la actividad turística es libre sin más limitaciones que las establecidas en la presente ley y en las demás de aplicación o en su reglamentación específica.
+2. No obstante, para el establecimiento y desarrollo de tal actividad en el ámbito de la Comunidad Autónoma de Canarias, las empresas estarán sometidas al cumplimiento de los siguientes deberes específicos:
+a) Comunicar previamente a la Administración competente el inicio de la actividad turística, así como la construcción, ampliación, rehabilitación o reforma de las instalaciones y establecimientos turísticos de alojamiento y, en su caso, la emisión de declaración responsable.
+b) Excepcionalmente, obtener de la Administración competente las autorizaciones con carácter previo a la construcción, ampliación, rehabilitación, reforma y apertura de instalaciones y establecimientos, en los casos previstos en la presente ley; sin perjuicio de las autorizaciones sectoriales.
+c) Cumplir los requisitos de ordenación y estándares previstos en la reglamentación específica para el acceso y ejercicio de las actividades calificadas como turísticas.
+d) Cumplir el principio de unidad de explotación en los casos y términos previstos en esta ley, así como el resto de normas y medidas destinadas a potenciar la calidad de los servicios.
+e) Cumplir el deber de renovación edificatoria y de atenerse al uso establecido por el planeamiento, en los supuestos que les corresponda.
+f) Presentar en el plazo que corresponda los informes derivados de la inspección técnica de establecimientos turísticos.
+g) Cumplir los demás deberes establecidos en las leyes y, en especial, obtener las autorizaciones sectoriales pertinentes.
+h) Cumplir las obligaciones que se fijen en la normativa sobre prevención de riesgos laborales y específicamente las contenidas en las determinaciones que reglamentariamente se establezcan como consecuencia de los estudios periódicos que se realicen sobre condiciones ergonómicas y psicosociales del sector turístico en Canarias.
+3. Son obligaciones de las empresas que oferten y/o realicen las actividades previstas en el artículo 2 de esta ley:
+a) El mantenimiento de la calidad de sus servicios.
+b) La cualificación de su personal.
+c) La limpieza de la zona donde actúen y no proyectar residuos, olores, ruidos y otras causas de molestia a los espacios públicos.
+d) Las empresas que oferten actividades deportivas de aventura o similares que puedan comportar riesgo, deberán disponer de un seguro de responsabilidad civil que cubra los daños de los que deban responder, en la cuantía que reglamentariamente se determine.
+e) La prevención de riesgos laborales y la protección de la salud laboral de las personas trabajadoras del sector turístico.
+f) Las que reglamentariamente se establezcan.
+Se modifican los apartados 2 y 3 por el art. único.2 de la Ley 1/2026, de 28 de abril. Ref. BOE-A-2026-17187
+ Se modifica por el art. 15.2 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996.
+ Se reordena la letra e) como g) y se añade la e) y f) al apartado 2 por la disposición adicional 1 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-6584#daprimera.
+ Se modifica por el art. único.1 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+ Se modifica la letra b) del apartado 2 por el art. 10.2 de la Ley 2/2000, de 17 de julio. Ref. BOE-A-2000-15425.
+
+### Artículo 14
+
+Artículo 14. Derechos.
+Las empresas que cumplan con los deberes señalados en el artículo anterior gozarán de los siguientes derechos:
+1. A ser incluidas sus instalaciones, características y oferta específica en los catálogos, directorios, guías y sistemas informáticos de la administración turística de Canarias.
+2. A ser incorporadas a la promoción turística realizada por la administración turística de Canarias.
+3. A poder participar en subvenciones, ayudas y programas de fomento turístico.
+4. A tener participación en las decisiones públicas, en los términos previstos en la legislación vigente, a través de sus asociaciones representativas, a través del Consejo Regional de Turismo o de los Consejos del sector turístico.
+
+## Sección 3
+
+Sección 3.ª Derechos del usuario turístico
+
+### Artículo 15
+
+Artículo 15. Consideración general.
+1. Se entiende por usuario turístico o turista a la persona que utiliza los establecimientos y bienes turísticos o recibe los servicios que le ofrezcan las empresas de esa naturaleza y que como cliente los demanda y disfruta.
+2. Como tal, y con independencia de los derechos que le asisten en cuanto consumidor conforme a la normativa general, el usuario turístico tendrá, en los términos previstos en esta Ley, los siguientes derechos:
+a) A recibir información veraz, previa y completa sobre los bienes y servicios que se le oferten.
+b) A recibir del establecimiento turístico elegido bienes y servicios acordes, en naturaleza y calidad, con la categoría que aquel ostenta.
+c) A tener garantizada, en el establecimiento, su seguridad, su tranquilidad e intimidad personal y que se adopten las medidas adecuadas para la protección de su salud.
+d) A formular quejas y reclamaciones.
+3. El acceso a los establecimientos turísticos a que esta Ley se refiere será libre, sin más limitaciones que las derivadas de las reglamentaciones específicas de cada actividad, que determinarán expresamente los casos en que podrá exigirse contraprestación por el acceso. Ello sin perjuicio de las limitaciones al acceso derivadas de las medidas que puedan establecer las autoridades sanitarias, por razones de salud pública.
+Se modifica por la disposición final 1.1 del Decreto-ley 17/2020, de 29 de octubre. Ref. BOE-A-2021-4319#df
+
+### Artículo 16
+
+Artículo 16. Derecho a información veraz.
+1. Todas las empresas y entidades sometidas a la presente Ley tienen la obligación de facilitar a los usuarios turísticos la información exigida en el artículo anterior, acerca de los bienes y servicios que oferten, antes de contratar los mismos sobre modalidades, condiciones, precios y riesgos del usuario, así como de las eventuales responsabilidades a que pueda dar lugar la actividad turística que despliegan.
+La información relativa a los requisitos que limiten, condicionen o impidan el acceso a los establecimientos turísticos o su permanencia en los mismos, deberá constar de forma íntegra y accesible en las ofertas de servicios turísticos, de forma tal que se garantice que el usuario turístico ha tenido acceso a la misma con carácter previo a la formalización de la reserva o contratación de los servicios turísticos.
+En la formalización de la reserva o contratación del correspondiente servicio deberá quedar constancia de la recepción y aceptación expresa por los usuarios turísticos de la información sobre las condiciones de acceso y permanencia en el establecimiento a que se refiere el párrafo anterior.
+2. La información, incluso la publicitaria, que falsee la verdad presentando bienes y servicios en condiciones mejores que las reales, dará derecho al usuario turístico a recibirlos en las condiciones anunciadas o a la indemnización por los daños y perjuicios ocasionados.
+3. Con independencia de lo previsto en el número 2 anterior, la publicidad turística engañosa, las ofertas equívocas, la omisión de la información relativa a los requisitos que limiten, condicionen o impidan el acceso a los establecimientos turísticos o su permanencia en los mismos, así como cualquier otra forma de captación de la que se deduzca una mayor calidad en el servicio que la real, se considerará infracción turística grave y será sancionada como tal según las prescripciones de esta Ley.
+4. La Consejería con competencias en materia turística determinará las características de la información turística, teniendo en cuenta las previsiones de este artículo y demás normativa de aplicación, así como los casos en que esa información deba exhibirse.
+Se modifica por la disposición final 1.2 del Decreto-ley 17/2020, de 29 de octubre. Ref. BOE-A-2021-4319#df
+
+### Artículo 17
+
+Artículo 17. Derecho a la calidad de los servicios.
+1. La calidad y naturaleza de los servicios debe guardar proporción directa con la categoría del establecimiento turístico.
+2. Las Administraciones públicas, en los espacios de uso público y las empresas, en los establecimientos que gestionan, garantizarán, además del cumplimiento de las normas sanitarias generales, un nivel de limpieza adecuado al uso turístico de que se trate, siguiendo estas normas:
+a) Las empresas serán responsables de los desechos de embalajes, envases y cualesquiera otros elementos depositados en el exterior de sus locales, incumpliendo las normas sobre depósito y recogida de basuras, debiendo las Administraciones públicas con competencia turística exigirles su retirada.
+b) Se prohíbe la utilización de aceras y vías públicas como lugar de depósito de desperdicios.
+c) Se prohíbe la permanencia de desperdicios al aire libre por más de sesenta minutos hasta su recogida.
+d) Las papeleras, servicios sanitarios y demás elementos de higiene general y de limpieza pública se mantendrán permanentemente en buen estado de servicio.
+e) Las parcelas sin edificar y cualesquiera lugares que pudieran ser utilizados como vertederos de basuras o escombros, deberán mantenerse siempre en condiciones adecuadas de limpieza, debiendo cerrarse con elementos arquitectónicos o naturales.
+f) Los Ayuntamientos y, en su caso, los Cabildos Insulares, cuando se hayan insularizado los servicios, organizarán el servicio de limpieza pública viaria y de recogida de basuras de forma que los acomode a las previsiones anteriores, así como para que no produzcan ruidos en horas nocturnas y de reposo. Para ello adaptarán las correspondientes ordenanzas y reglamentos del servicio.
+
+### Artículo 18
+
+Artículo 18. Derecho a la seguridad y protección de la salud del usuario turístico.
+1. Los proyectos técnicos y los establecimientos turísticos de alojamiento deberán cumplir la normativa técnica aplicable a la edificación y a la protección contra incendios, de conformidad con su uso específico.
+2. Las empresas deberán informar inequívocamente al usuario turístico de las instalaciones o servicios que supongan algún riesgo y de las medidas de seguridad adoptadas.
+3. Igualmente, informarán de la edad mínima para la práctica de actividades con riesgo, quedando prohibida la oferta a menores de entretenimientos que supongan algún peligro para su integridad física o salud mental.
+4. En aquellos lugares públicos que estuvieran señalizados o incluidos en una red de senderos oficial, se indicará expresamente los eventuales riesgos que puedan comportar.
+5. Con el horario y en las playas que reglamentariamente se determine existirá un servicio de socorrismo y señales sobre la peligrosidad del mar en cada momento.
+6. En todo núcleo turístico deberá existir una señalización especial de los servicios de asistencia médica disponibles en caso de urgencia, y en todo establecimiento se dispondrá de un plano fácilmente comprensible que señale la ruta más corta de acceso a aquellos.
+Todo establecimiento turístico deberá contar con paneles o carteles informativos destinados a divulgar las medidas que, en su caso, establezcan las autoridades sanitarias por razones de salud pública.
+7. Los establecimientos turísticos que reglamentariamente se determine, deberán tener capacitado a su personal en la práctica de primeros auxilios, lucha contra incendios y evacuación de personas hacia salidas de emergencia. Tales establecimientos indicarán estas circunstancias en la información impresa sobre sus sistemas de seguridad.
+Todos los establecimientos turísticos de alojamiento deberán proporcionar a su personal la formación adecuada para garantizar el cumplimiento por estos y los usuarios turísticos de las medidas sanitarias precisas para la protección de la salud que, en su caso, se adopten conforme a lo establecido en el apartado 3 del artículo 15 de esta Ley.
+8. En las zonas turísticas, se establecerán dispensarios médicos y farmacéuticos, con los requisitos y en el porcentaje por usuarios turísticos que determinen, conjuntamente, las Consejerías del Gobierno de Canarias competentes en materias de sanidad y de turismo.
+Se modifica por la disposición final 1.3 del Decreto-ley 17/2020, de 29 de octubre. Ref. BOE-A-2021-4319#df
+ Se modifica el apartado 1 por el art. único.2 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+ Se modifica el apartado 1 por el art. 15 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712.
+
+### Artículo 19
+
+Artículo 19. Derecho a la intimidad y tranquilidad.
+1. Todo usuario turístico tendrá derecho a la intimidad y tranquilidad.
+Queda prohibido en los lugares turísticos el uso de sistemas de promoción de venta agresivos, tales como la megafonía o la incitación personal en la calle.
+Asimismo se prohíbe todo tipo de publicidad que perturbe la tranquilidad de los usuarios turísticos.
+2. En los núcleos turísticos, todas las actividades productoras de ruido y especialmente aquellas que utilicen equipos electrónicos de amplificación de sonido, se producirán en recintos adaptados para ello e insonorizados, para evitar que el ruido se proyecte al exterior.
+3. Reglamentariamente el Gobierno de Canarias aprobará las normas que determinen las características de la publicidad que perturbe a los usuarios, el nivel de ruido y contaminación acústica en los núcleos turísticos, a las que se adaptarán las ordenanzas municipales.
+
+### Artículo 20
+
+Artículo 20. Quejas y reclamaciones.
+1. Las empresas turísticas vienen obligadas a tener en cada establecimiento las hojas de reclamaciones a disposición de sus clientes.
+La persona encargada del establecimiento estará obligada a facilitar las hojas de reclamación al usuario turístico que lo solicite y a facilitarle, además, las explicaciones necesarias para su adecuada cumplimentación.
+2. En el establecimiento se anunciará de forma bien visible e inequívoca, expresada en castellano, inglés, alemán y otro idioma a elegir, la existencia de hojas de reclamación a disposición de los clientes.
+3. Tanto las características de las hojas de reclamación como el procedimiento de tramitación de las reclamaciones se determinará reglamentariamente.
+En todo caso, cuando la queja se formule directamente ante una Administración pública ésta extenderá recibo de la misma. Copia de todas las quejas y reclamaciones será trasladada a la inspección turística de la Administración autonómica.
+Al reclamante se le notificará la resolución que se adopte como consecuencia de su queja.
+
+## CAPÍTULO II
+
+Ordenación general de la oferta turística
+
+## Sección 1
+
+Sección 1.ª Requisitos para el establecimiento de actividades empresariales turísticas
+
+### Artículo 21
+
+Artículo 21. Exigibilidad de requisitos.
+(Derogado).
+Se deroga por la disposición derogatoria única.1 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+ Se modifica por la disposición adicional 3.1 de la Ley 19/2003, de 14 de abril. Ref. BOE-A-2003-13621.
+
+### Artículo 22
+
+Artículo 22. Registro General Turístico.
+1. El Registro General Turístico es un registro público de naturaleza administrativa, custodiado y gestionado por la consejería competente en materia turística de la Administración pública de la Comunidad Autónoma de Canarias, en el que se contiene la información turística, referida a actividades y establecimientos procedentes de las administraciones competentes y las plazas de alojamiento adicionales derivadas de las iniciativas de renovación o sustitución edificatoria.
+2. El Registro atenderá al principio de publicidad.
+3. Las inscripciones se efectuarán de oficio.
+4. Las administraciones públicas canarias proporcionarán al Registro General Turístico la información de que dispongan en razón de sus competencias y se determine reglamentariamente.
+5. Asimismo, se regulará reglamentariamente el sistema informático que dé soporte al Registro, el procedimiento de inscripción y el de acceso a la información registrada, así como el contenido de las inscripciones registrales.
+Se modifica el apartado 1 por la disposición adicional 1 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-6584#daprimera.
+ Se modifica por el art. único.3 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+ Se modifica por la disposición adicional 3.2 de la Ley 19/2003, de 14 de abril. Ref. BOE-A-2003-13621.
+
+### Artículo 23
+
+Artículo 23. Sistema de Información Turística.
+1. El Sistema de Información Turística se define como el instrumento compartido por las administraciones públicas canarias que integra la información con relevancia o incidencia en el sector del turismo de Canarias.
+2. Reglamentariamente se regulará la información que ha de integrarse en el Sistema y los deberes y derechos de las administraciones públicas y de los operadores turísticos referidos a las consultas y suministro de aquélla, así como el procedimiento aplicable al acceso e integración de la información.
+Se modifica por el art. único.4 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+ Se modifica por la disposición adicional 3.3 de la Ley 19/2003, de 14 de abril. Ref. BOE-A-2003-13621.
+
+### Artículo 24
+
+Artículo 24. Ejercicio de actividades turísticas.
+1. Con carácter general, la construcción, ampliación, rehabilitación o reforma de establecimientos turísticos de alojamiento y el acceso o ejercicio de actividades turísticas no estarán sujetos a autorización, sin perjuicio del cumplimiento del deber de comunicación previsto en el artículo 13.2.a) de esta ley. Asimismo, cuando la actividad venga regulada mediante reglamentación turística específica, el promotor, explotador o prestador de la actividad deberá manifestar, mediante declaración responsable, el cumplimiento de los requisitos exigidos por dicha normativa, facilitando, asimismo, la información requerida o necesaria para el control de la actividad, de conformidad con lo que se disponga reglamentariamente.
+Efectuada la comunicación previa, podrá iniciarse la actividad comunicada, correspondiendo a la Administración turística competente la comprobación posterior del cumplimiento de los requisitos establecidos en la reglamentación turística que le fuera de aplicación y de las previsiones de esta ley.
+El régimen de comunicación previsto en este apartado se limita al ámbito turístico y su aplicación se efectuará sin perjuicio de la obligatoriedad de someterse a los controles y autorizaciones establecidos en el resto del ordenamiento jurídico aplicable, y, en especial a las de carácter medioambiental o territorial.
+2. No obstante lo establecido en el apartado anterior, se sujetará a autorización administrativa la construcción, ampliación, rehabilitación y apertura de establecimientos turísticos de alojamiento cuando, por razones medioambientales o de ordenación del territorio, esté legal o reglamentariamente restringida o limitada la creación de nueva oferta de alojamiento turístico y, especialmente, siempre que dichas limitaciones vengan justificadas en la ordenación territorial atendiendo a la capacidad de carga de las islas.
+En estos casos, la autorización deberá obtenerse con carácter previo a la licencia de edificación o apertura y se otorgará por el respectivo cabildo insular. Transcurridos tres meses desde la solicitud de autorización por el peticionario sin obtener resolución expresa del órgano competente, se entenderá desestimada dicha solicitud.
+3. Será objeto de habilitación previa el acceso y ejercicio de la actividad propia de los guías de turismo para quienes superen las pruebas de habilitación concernientes a los contenidos territoriales y lingüísticos que prevea la reglamentación específica y acrediten poseer la titulación requerida.
+Se modifica por el art. único.5 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+ Redactado el apartado 3 conforme a la corrección de errores publicada en BOC núm. 16, de 26 de enero de 2010.
+ Se modifica por el art. 20.1 de la Ley 6/2009, de 6 de mayo. Ref. BOE-A-2009-9047#a20.
+
+### Artículo 25
+
+Artículo 25. Cualificación y habilitaciones profesionales.
+Las actividades que requieran conocimientos específicos se desarrollarán por quienes posean la debida cualificación o titulación académica, de acuerdo con la normativa estatal y de la Unión Europea.
+
+## Sección 2
+
+Sección 2.ª Condiciones generales para el desarrollo de la actividad turística
+
+## Subsección 1
+
+Subsección 1.ª Protección del medio ambiente, el paisaje y la cultura de Canarias
+
+### Artículo 26
+
+Artículo 26. Prevención de la contaminación y responsabilidad por daños ecológicos.
+1. Las actividades turísticas se desarrollarán con sujeción a la normativa de medio ambiente y de conservación de la naturaleza, con especial atención a las normas sobre residuos sólidos, sanidad y salubridad del agua, pureza del aire y del suelo, conservación de los espacios naturales protegidos, defensa de la flora y fauna, particularmente la protegida autóctona de Canarias y contaminaciones físicas, químicas, biológicas o acústicas.
+2. En los términos de la normativa general y sectorial de aplicación, las empresas promotoras u organizadoras de actividades turísticas serán responsables de los daños que por causa de ellas se produzcan en el aire, agua, suelo, subsuelo, fauna, flora o cualquier otro elemento del medio ambiente y de la naturaleza, así como de la alteración de los procesos ecológicos esenciales que pudieran tener lugar, salvo que la responsabilidad sea imputable a actuaciones personalísimas del usuario turístico, verificadas al margen de las actividades organizadas o a los proveedores de los bienes utilizados, cuando haya mediado la diligencia debida en su manipulación.
+
+### Artículo 27
+
+Artículo 27. Protección de espacios naturales.
+(Derogado).
+Se deroga por la disposición derogatoria única.1 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+
+### Artículo 28
+
+Artículo 28. Preservación de la cultura.
+Se considerará publicidad turística engañosa, el anuncio o utilización como propia de la cultura canaria de cualquier manifestación cultural ajena.
+
+## Subsección 2
+
+Subsección 2.ª Conservación, mejora, protección y aprovechamiento de otros recursos turísticos de Canarias.
+
+### Artículo 29
+
+Artículo 29. Mantenimiento de espacios públicos.
+1. Los espacios públicos de las zonas turísticas deberán mantenerse limpios y en buenas condiciones de uso.
+2. Sin perjuicio del deber de conservación y de la prestación de servicios de limpieza viaria y recogida de residuos que competen a las Administraciones públicas y entidades turísticas colaboradoras, se podrán establecer conciertos con las empresas turísticas mediante los cuales éstas contribuyan al mantenimiento de los espacios públicos en condiciones adecuadas.
+
+### Artículo 30
+
+Artículo 30. Protección de la imagen de Canarias.
+1. La imagen de Canarias, la de cada una de las islas y la de los núcleos turísticos como destinos receptores de turismo, se considera un bien colectivo protegido por la Ley.
+Nadie tiene derecho a apropiársela, perjudicarla o dañarla como consecuencia de sus actividades turísticas.
+2. Los atentados y acciones perjudiciales para la imagen turística de Canarias o de cualesquiera de sus componentes territoriales serán considerados infracciones turísticas.
+
+## CAPÍTULO III
+
+Ordenación particular de la oferta turística, por tipos de actividad
+
+## Sección 1
+
+Sección 1.ª Actividad turística alojativa
+
+## Subsección 1
+
+Subsección 1.ª Normas generales
+
+### Artículo 31
+
+Artículo 31. Definiciones.
+1. A los efectos de esta Ley ejercen actividades turísticas alojativas todas aquellas empresas en que se preste un servicio de alojamiento desde un establecimiento abierto al público y mediante precio.
+2. Se entenderá prestado un servicio de alojamiento turístico cuando se oferte en libre concurrencia la estancia en el establecimiento de forma temporal, sin constituir cambio de residencia para la persona alojada.
+
+### Artículo 32
+
+Artículo 32. Clasificación.
+1. Los servicios de alojamiento turístico se ofertarán dentro de alguna de las siguientes modalidades:
+a) Hotelera.
+b) Extrahotelera.
+2. Todo alojamiento turístico exhibirá las placas identificativas correspondientes a su modalidad y categoría.
+3. Reglamentariamente se determinará por el Gobierno de Canarias qué tipo de establecimientos deben entenderse comprendidos dentro de cada una de las modalidades señaladas en el apartado 1 de este artículo.
+4. La clasificación de un establecimiento se efectuará una vez comprobado por la Administración el cumplimiento de los requisitos exigidos por la normativa de aplicación. En el supuesto en que resulte preceptiva la obtención de autorización turística para la apertura del establecimiento, aquélla contendrá la clasificación.
+La reglamentación ordenadora de la actividad podrá prever clasificaciones provisionales cuando el objeto de la autorización o comunicación lo constituya la construcción, ampliación, rehabilitación o reforma de establecimientos turísticos de alojamiento. Esta clasificación provisional será vinculante para la Administración siempre que la obra se ejecute atendiendo al proyecto técnico clasificado.
+La clasificación podrá ser revisada, en cualquier momento, de oficio o a instancia de parte interesada.
+Se modifican los apartados 1 y 4 por el art. único.6 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+ Se derogan las letras e) y h) del apartado 1 por la disposición derogatoria 2 de la Ley 6/2009, de 6 de mayo. Ref. BOE-A-2009-9047#ddsegunda.
+
+## Subsección 2
+
+Subsección 2.ª Estándares
+
+### Artículo 33
+
+Artículo 33. Exigencia de estándares.
+El planeamiento urbanístico municipal deberá adaptarse a los estándares mínimos de esta ley y a los que complementariamente se establezcan en su reglamento y en los Planes Insulares de Ordenación.
+Se modifica por el art. único.7 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+
+### Artículo 34
+
+Artículo 34. Dispensa de estándares por razones de interés turístico.
+A propuesta de la Consejería competente en materia turística, el Gobierno de Canarias, motivadamente, con carácter excepcional y por razones de interés turístico debidamente acreditado en el expediente, podrá eximir del cumplimiento de los estándares de aplicación a los proyectos de nueva construcción.
+La falta de resolución expresa no dará lugar, en ningún caso, a la dispensa del cumplimiento de los estándares de aplicación.
+
+### Artículo 35
+
+Artículo 35. Estándares relativos a la urbanización turística.
+1. El planeamiento municipal definirá la densidad máxima admisible en las parcelas mediante un estándar mínimo de metros cuadrados de solar por plaza de alojamiento. Para, los establecimientos de nueva implantación, no podrá ser inferior a 60 m2de superficie mínima de parcela neta por plaza.
+1-bis. La aplicación del estándar mínimo de densidad del suelo turístico a los establecimientos de alojamiento sometidos a proyectos de renovación edificatoria se regirá por lo dispuesto en la Ley de Renovación y Modernización Turística de Canarias.
+2. Reglamentariamente el Gobierno de Canarias determinará:
+a) Los criterios de ponderación aplicables para la fijación del estándar mínimo de densidad en las parcelas a las que se refiere el apartado anterior.
+b) Los estándares mínimos de densidad aplicables en actuaciones de renovación edificatoria y de rehabilitación urbana, así como, los criterios de ponderación aplicables para la fijación definitiva de los mismos.
+c) Los supuestos en que, sin aumento de la densidad global del estándar previsto en el apartado a), pueda además referirse a través del planeamiento a una agrupación acotada de parcelas en beneficio de la provisión de dotaciones de ocio extraordinarias, de la creación de entornos arquitectónicos de superior atractivo u otras circunstancias análogas.
+d) Los módulos dotacionales de aplicación a la urbanización turística a través del planeamiento, que en lo que se refiere a suelos de cesión para dotaciones públicas se atendrán en su cuantía a lo dispuesto en la legislación urbanística, adecuando su destino a la finalidad turística.
+e) Los criterios y objetivos generales que desde el planeamiento deban tenerse en cuenta para su provisión y diseño, así como las garantías para su puntual ejecución y mantenimiento.
+f) Los requisitos mínimos de aptitud natural del suelo para ser destinados por los planes a nuevos desarrollos turísticos, a sus dotaciones o contabilizados en la determinación de los índices de densidad, excluyendo los terrenos que constituyan accidentes naturales destacados y los que por su topografía abrupta no puedan producir desarrollos o dotaciones cómodamente accesibles a la generalidad de las personas.
+g) Los estándares mínimos de infraestructura y servicios aplicables a la totalidad del suelo turístico.
+3. Los estándares previstos en el apartado 1 del presente artículo no serán de aplicación a:
+a) Establecimientos cuyo emplazamiento se proyecte en edificios histórico-artísticos declarados formalmente como tales o en edificios de interés arquitectónico catalogados por el planeamiento urbanístico.
+b) Establecimientos que se proyecten en cascos urbanos residenciales de carácter no turístico que cumplan los estándares mínimos de infraestructura que se determinen reglamentariamente.
+Por el titular del departamento competente en materia de turismo se determinará la aplicación singularizada de estas excepciones, previa solicitud de los interesados.
+La aplicación de los restantes estándares relativos a la urbanización turística a los establecimientos a que hace referencia el presente apartado será determinada por el Gobierno de Canarias.
+Se modifica por la disposición adicional 1 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-6584#daprimera.
+ Se modifica por el art. único.8 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+ Se añade el apartado 3 por el art. 10.3 de la Ley 2/2000, de 17 de julio. Ref. BOE-A-2000-15425.
+
+### Artículo 36
+
+Artículo 36. Declaración de núcleos y zonas a rehabilitar.
+Los núcleos o zonas turísticas en los que se incumplan los estándares del apartado 2.f) del artículo anterior, recibirán el siguiente tratamiento:
+1. La Consejería competente en materia de turismo del Gobierno de Canarias, previo expediente en que se haya oído a los afectados y con informe de la Consejería competente en materia urbanística, delimitará de oficio las áreas afectadas. En el expediente se hará una valoración detallada de sus características en relación a las normas y estándares de aplicación, señalando los objetivos a cumplir en su rehabilitación, plazos de actuación en la misma y las correspondientes previsiones económicas y financieras, públicas y privadas.
+2. En esta zona no se otorgarán nuevas autorizaciones previas a más unidades alojativas, salvo que la autorización contribuya, por sí misma, a solventar las deficiencias existentes.
+3. Las solicitudes de autorización de actividades no alojativas se resolverán en función de las circunstancias valoradas en el expediente declarativo y normas específicas de aplicación.
+4. Se revisarán las dotaciones de obras y servicios públicos al objeto de ajustarlos, en lo posible, a la población turística existente.
+5. Se procederá, de acuerdo con lo previsto en el artículo 60, a revisar o modificar el planeamiento territorial y urbanístico, con elaboración, en su caso, de planes especiales de reforma interior para el incremento de las dotaciones de suelo, de espacios libres y demás elementos que puedan mejorar la situación.
+6. En estas zonas se promoverá, por la Consejería competente en materia turística del Gobierno de Canarias, en colaboración con el Cabildo Insular respectivo y los Ayuntamientos afectados, un programa de inversiones públicas a desarrollar en el marco del Título III de esta Ley y que tendrá prioridad para las administraciones mencionadas en el ámbito municipal correspondiente.
+7. La Consejería competente en materia turística del Gobierno de Canarias promoverá la constitución de una agrupación especial de empresarios turísticos con el fin de incentivar su rehabilitación.
+
+## Subsección 3
+
+Subsección 3.ª Control de la sobrecontratación de la capacidad alojativa
+
+### Artículo 37
+
+Artículo 37. Responsabilidades por sobrecontratación.
+1. Las empresas alojativas serán responsables frente a sus usuarios y ante la Administración, de las situaciones de sobrecontratación, creadas por el exceso de reservas que no pueda ser atendido.
+2. En caso de sobrecontratación la empresa está obligada al alojamiento del usuario que la sufre en otro establecimiento de la misma zona y de categoría como mínimo igual a la ofertada, sufragando los gastos de traslado hasta el establecimiento que definitivamente lo aloje.
+3. De no ser posible alojar al usuario en las condiciones establecidas en el número anterior, la empresa deberá alojarlo en cualquier otro, indemnizándolo por todos los daños que se ocasionen, incluido el sufrido por pérdida de vacaciones, en su caso.
+4. Las eventuales responsabilidades de los operadores turísticos en esta materia, serán depuradas en el expediente que se instruya.
+5. Cuando se produzca la situación a que se refiere el apartado 1 de este artículo, será anunciada en cartel legible desde la recepción del establecimiento en el que se indiquen los derechos y responsabilidades a que dé lugar, según esta Ley.
+
+## Subsección 4
+
+Subsección 4.ª Principio de unidad de explotación
+
+### Artículo 38
+
+Artículo 38. Principio de unidad de explotación.
+1. La explotación turística de los establecimientos alojativos, en sus distintas modalidades, deberá efectuarse bajo el principio de unidad de explotación.
+2. A los efectos de esta Ley, se entiende por unidad de explotación el sometimiento a una única empresa de la actividad de explotación turística alojativa en cada uno de los establecimientos, conjunto unitario de construcciones, edificios o parte homogénea de los mismos, cuyas unidades alojativas habrán de estar destinadas en su totalidad a la actividad turística a la que quedan vinculadas, procediendo la constancia registral de esta vinculación en los casos y términos previstos en la legislación específica sobre la materia.
+3. A los efectos previstos en el presente artículo, la explotación turística comprende el desarrollo de todas aquellas actividades de gestión, administración y dirección comercial propias de la prestación del servicio de alojamiento turístico.
+Se modifica por el art. único.2 de la Ley 5/1999, de 15 de marzo. Ref. BOE-A-1999-7982.
+
+### Artículo 39
+
+Artículo 39. Empresas explotadoras.
+1. Las empresas que lleven a cabo la explotación turística referida en el artículo anterior podrán adoptar cualquiera de las formas y modalidades propias de una actividad empresarial, debiendo ostentar con carácter previo a su ejercicio, título habilitante expedido por los propietarios, salvo en el supuesto que sean éstos quienes lleven a cabo directamente la explotación, mediante cualquiera de los medios organizativos antes referidos, entre los que se entiende incluido la comunidad de propietarios.
+2. El título habilitante antes referido habrá de constar documentalmente y tendrá que presentarse ante la administración turística competente en la materia, acreditando la autenticidad de la voluntad expresada en el mismo por cualquiera de los medios admitidos en derecho.
+Se modifica por el art. único.3 de la Ley 5/1999, de 15 de marzo. Ref. BOE-A-1999-7982.
+
+### Artículo 40
+
+Artículo 40. Requisitos y condiciones de la unidad de explotación.
+La unidad de explotación de alojamientos turísticos requiere:
+a) Destinar un número suficiente de personas a la explotación.
+b) Unas instalaciones destinadas a la recepción que sean suficientes y con atención permanente al cliente.
+c) Mantener en dicha recepción y a disposición de los clientes un ejemplar de esta Ley y de los reglamentos vigentes en cada momento en materia de alojamientos turísticos, permiso de apertura turística y municipal y las hojas de reclamaciones.
+Se modifica la letra b) por el art. único.4 de la Ley 5/1999, de 15 de marzo. Ref. BOE-A-1999-7982.
+
+### Artículo 41
+
+Artículo 41. Excepciones al principio.
+La Consejería competente en materia turística podrá dispensar la aplicación del principio de unidad de explotación cuando entre las diferentes unidades del inmueble exista total independencia de acceso, servicios, zonas comunes, instalaciones y equipamiento.
+
+### Artículo 42
+
+Artículo 42. Consecuencias del incumplimiento del principio.
+1. Los alojamientos que no sigan el principio de unidad de explotación quedarán excluidos de la oferta turística de Canarias, con las siguientes consecuencias:
+a) No se autorizará su actividad turística alojativa o, en su caso, se revocará la autorización otorgada.
+b) Sólo podrán ser alquilados o arrendados conforme a las disposiciones del Código Civil o de la Ley de Arrendamientos Urbanos y en ningún caso para uso turístico.
+c) No podrán ser incluidos en los catálogos ni comercializados por agencias de viajes.
+2. El incumplimiento del principio de unidad de explotación y de sus requisitos y condiciones se considerará infracción y será sancionado con arreglo a esta Ley.
+3. Lo dispuesto en los apartados anteriores no es incompatible con la obtención de autorización respecto a aquellas modalidades turísticas alojativas que, por su especialidad, presenten excepción a algunos de los requisitos definidores del principio de unidad de explotación, de acuerdo con la normativa que las regule.
+Se modifica la letra a) del apartado 1 y se añade el apartado 3 por el art. único.5 y 6 de la Ley 5/1999, de 15 de marzo. Ref. BOE-A-1999-7982.
+
+## Subsección 5
+
+Subsección 5.ª Calidad de instalaciones y servicios en establecimientos alojativos
+
+### Artículo 43
+
+Artículo 43. Calidad de instalaciones y servicios.
+Los establecimientos alojativos deberán conservar siempre las instalaciones y equipamientos y ofrecer los servicios, al menos con la calidad que fue tenida en cuenta en el momento de su clasificación.
+Se modifica por el art. 15.3 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996.
+ Se modifica por el art. único.9 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+
+### Artículo 44
+
+Artículo 44. Modernización e innovación en la higiene y en la limpieza de los establecimientos turísticos que prestan servicios de alojamiento.
+Las personas físicas o jurídicas que exploten establecimientos de alojamiento turístico en el ámbito de la Comunidad Autónoma de Canarias estarán obligadas a implantar camas elevables –con excepción de las camas supletorias– y carros motorizados destinados a las tareas de limpieza, acondicionamiento e higiene de las unidades alojativas, en los términos y conforme al calendario previsto en la disposición transitoria tercera. Esta obligación será extensiva a la modalidad alojativa extrahotelera de viviendas de uso turístico para aquellos propietarios y/o explotadores físicos o jurídicos que comercialicen cinco o más viviendas de uso turístico o veinte o más plazas alojativas en una misma parcela. En estos casos, solo serán obligatorios los carros monitorizados si son exigidos por las autoridades turísticas y laborales competentes, cuando las características de los establecimientos, por sus dimensiones y número de plazas, así lo requieran, sin perjuicio del régimen especial de excepciones y dispensas previsto en la disposición adicional undécima de esta ley.
+A los efectos de esta disposición, se entenderá por explotación la titularidad o gestión efectiva y/o comercialización de la actividad alojativa, con independencia de la forma jurídica adoptada.
+Se añade por el art. único.3 de la Ley 1/2026, de 28 de abril. Ref. BOE-A-2026-17187
+ Se deroga por la disposición derogatoria única.3 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-6584#dd.
+ Se modifica el apartado 4 por el art. único.7 de la Ley 5/1999, de 15 de marzo. Ref. BOE-A-1999-7982.
+
+### Artículo 45
+
+Artículo 45. Capacitación del personal.
+El Gobierno de Canarias, oído el Consejo Regional de Turismo, podrá establecer la obligatoriedad de realizar cursos de capacitación del personal en las empresas que exploten hoteles o apartamentos de categoría igual o superior a tres estrellas o tres llaves, respectivamente, así como en cualesquiera otros establecimientos alojativos, cuya relevancia en la oferta turística de Canarias o número de trabajadores lo haga aconsejable, para conseguir el mantenimiento de la calidad de servicios adecuada.
+
+## Subsección 6
+
+Subsección 6.ª Alojamientos en régimen de uso a tiempo compartido
+
+### Artículo 46
+
+Artículo 46. Regulación de los alojamientos en régimen de uso a tiempo compartido.
+1. Las fórmulas comerciales consistentes en la utilización sucesiva de un mismo alojamiento por personas que lo comparten por períodos de tiempo, actuarán sometidas a esta Ley, a la legislación turística en general y a la normativa de la Unión Europea sobre la materia, sin perjuicio de la sujeción a la legislación civil, mercantil, fiscal o cualquier otra que resulte de aplicación.
+2. Las promociones que al efecto se efectúen en Canarias, se realizarán con arreglo a las siguientes normas:
+a) En ningún caso utilizarán sistemas agresivos de publicidad y captación de clientes, que perturben la tranquilidad de los usuarios turísticos.
+El Gobierno de Canarias aprobará unas normas reglamentarias que regulen y controlen esta actividad, que serán de obligado cumplimiento y a las que se adaptarán las ordenanzas municipales sobre la materia.
+b) Recogerán expresamente, en todo tipo de publicidad que realicen, el derecho de resolver el contrato que se celebre, durante un plazo que, en ningún caso, será inferior a diez días naturales, o al mínimo señalado por la legislación estatal sobre la materia.
+Los incumplimientos de lo preceptuado en el apartado anterior serán considerados infracciones turísticas graves, a los efectos previstos en el artículo 76.10 de esta Ley.
+c) Tendrán a disposición de los interesados la documentación que acredite fehacientemente la titularidad, disponibilidad y sistema de atribución de usos de los alojamientos.
+Quienes tengan atribuida la explotación deberán acreditar, ante los clientes y ante la administración turística, el título jurídico por el cual los propietarios de las unidades alojativas le han concedido el derecho de explotación.
+d) Garantizarán el adecuado mantenimiento de los alojamientos, edificios y zonas comunes a lo largo de toda la duración del contrato.
+e) (Derogada).
+f) El régimen de unidad de explotación de este tipo de alojamientos se regirá por un reglamento específico.
+g) El Gobierno de Canarias establecerá un distintivo de exhibición obligatoria, señalará el montante de la fianza que, conforme a la legislación de aplicación deba depositarse, y reglamentará esta actividad como parte de la oferta turística de Canarias.
+h) Las empresas explotadoras de este tipo de establecimientos deberán constituir fianza de conformidad con las normas que reglamentariamente se establezcan.
+Se deroga la letra e) del apartado 2 por la disposición derogatoria única.1 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+
+## Sección 2
+
+Sección 2.ª Actividad de intermediación turística
+
+### Artículo 47
+
+Artículo 47. Concepto y alcance de la intermediación turística.
+1. Constituye intermediación turística, la actividad empresarial de quienes se dedican comercialmente al ejercicio de actividades de mediación en la venta y organización de servicios turísticos.
+2. La intermediación turística, en cuanto afecte a viajes combinados, sólo podrá realizarse por las personas físicas o jurídicas que tengan la consideración de agencias de viajes, de conformidad con lo que se establezca reglamentariamente.
+Se modifica por el art. único.10 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+
+### Artículo 48
+
+Artículo 48. Requisitos.
+(Derogado).
+Se deroga por la disposición derogatoria única.1 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+
+## Sección 3
+
+Sección 3.ª Otras actividades turísticas
+
+### Artículo 49
+
+Artículo 49. Actividad de informadores y guías turísticos.
+La actividad de informadores y guías turísticos será regulada reglamentariamente con expresión de la habilitación que se exija, forma de obtenerla, conocimientos adecuados que se requieran y demás requisitos que redunden en beneficio de la calidad de su actividad.
+
+### Artículo 50
+
+Artículo 50. Actividad de restauración.
+Reglamentariamente, el Gobierno de Canarias establecerá los requisitos para el ejercicio de las actividades de restauración, así como las condiciones mínimas que deben cumplir los establecimientos en los que se desarrollen.
+Se modifica por el art. único.11 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+
+### Artículo 51
+
+Artículo 51. Actividades turísticas complementarias.
+(Suprimido).
+Se suprime por el art. 15.4 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996.
+ Se modifica la letra d) y se deroga la letra e) del apartado 1 por el art. 20.2 y la disposición derogatoria 2 de la Ley 6/2009, de 6 de mayo. Ref. BOE-A-2009-9047#a20.
+
+## TÍTULO III
+
+Fomento de la actividad turística
+
+## CAPÍTULO I
+
+Acciones de fomento para la mejora de la oferta
+
+### Artículo 52
+
+Artículo 52. Programas de fomento y apoyo técnico.
+1. El Gobierno de Canarias, a través del departamento con competencia en materia de turismo, elaborará y pondrá en acción programas de fomento en los que, a través de subvenciones, se estimule:
+a) La fusión y concentración de empresas y los programas de acción conjunta tendentes a mejorar la productividad mediante la disminución de costes, prestaciones de servicios en común u otros medios análogos.
+b) La modernización de empresas, en cuanto implique renovación de las instalaciones, adquisición de nuevos equipamientos o actualización de sistemas obsoletos.
+c) El saneamiento de las empresas que lo precisen, por actuación sobre su estructura financiera o cualquier otro tipo de apoyo legítimo.
+d) La difusión de manifestaciones culturales propias de Canarias.
+e) Cualesquiera otras acciones relativas a la oferta turística que el Gobierno estime merecedoras de apoyo público.
+La Consejería competente en materia turística ofrecerá apoyo técnico a las acciones e iniciativas descritas y a cualesquiera otras que tiendan hacia una oferta de mayor calidad.
+2. La concesión de subvenciones se realizará conforme a criterios de publicidad, concurrencia y objetividad y por los procedimientos reglamentariamente establecidos para el ejercicio de la acción de fomento.
+3. La aprobación del programa de fomento obligará a todas las demás Administraciones públicas a coordinar sus correspondientes acciones de fomento turístico.
+
+### Artículo 53
+
+Artículo 53. Acción sobre la imagen.
+1. La Consejería competente en materia turística, en coordinación con los Cabildos Insulares y los municipios, y en colaboración con la iniciativa privada, elaborará una estrategia de promoción para crear y sostener una imagen de calidad de Canarias como destino turístico, partiendo de las siguientes bases:
+a) Que la imagen responda a la realidad.
+b) Que se incorpore a ella la diversidad de destinos del Archipiélago Canario.
+2. A tenor de la estrategia a que este artículo se refiere la Consejería competente en el área de turismo programará y ejecutará campañas anuales de promoción de Canarias como destino turístico en los mercados que lo requieran.
+3. Las administraciones insulares y municipales que organicen sus propias campañas de promoción turística, están obligadas a incluir siempre el nombre de «Canarias» acompañado del logotipo y eslogan turístico que el Gobierno determine y, en todo caso, a coordinarse con éste a los efectos del programa de promoción exterior.
+
+## CAPÍTULO II
+
+Acciones de fomento sobre sectores y actividades concretas
+
+### Artículo 54
+
+Artículo 54. Acciones sobre sectores.
+La Consejería competente en materia turística llevará a cabo programas de fomento específicos para los siguientes sectores:
+a) Turismo rural, senderismo y atractivos medioambientales; con el fin de fomentar la responsabilidad ecológica y rehabilitar edificios o senderos rurales de especial valor, en coordinación con la administración competente en la gestión relacionada con la conservación de la naturaleza.
+b) Turismo de incentivos, convenciones y congresos; promoviendo palacios de exposiciones y congresos y adaptando los establecimientos de la zona de influencia a este tipo de turismo.
+c) Turismo interior, fomentando los desplazamientos interinsulares.
+d) Turismo deportivo, especialmente el que relacione al usuario con los atractivos naturales de Canarias.
+e) Cualquier otro que se adapte al cambiante mercado turístico.
+
+### Artículo 55
+
+Artículo 55. Acciones sobre actividades.
+La Consejería con competencia turística fomentará:
+a) Las actuaciones de los municipios en cuyo territorio existan núcleos turísticos con carencias en infraestructuras, equipamiento o servicios.
+b) La consecución del principio de unidad de explotación en los establecimientos alojativos extrahoteleros.
+c) La transformación de los apartamentos en establecimientos hoteleros.
+d) La elevación de la categoría de los establecimientos turísticos.
+Se modifica la letra c) por el art. único.12 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+
+### Artículo 56
+
+Artículo 56. Programas y acciones de protección del medio ambiente y de conservación de la naturaleza.
+1. Las Consejerías competentes en materia de medio ambiente y de turismo, llevarán a cabo programas y acciones para la protección del medio natural de las zonas turísticas, con los siguientes objetivos concretos:
+a) Reducir el consumo de los recursos no renovables del Archipiélago, así como evitar su contaminación.
+b) Eliminar o reducir la producción de residuos no reciclables y estimular el uso de los reciclados.
+c) Estimular el ahorro energético y el uso de combustibles de bajo nivel contaminante.
+d) Generar conductas ecológicamente responsables en todos los que intervengan en el ámbito turístico.
+e) Promover el respeto al medio ambiente, a la conservación de la naturaleza y a los procesos ecológicos esenciales.
+2. Este programa, una vez aprobado por el Gobierno de Canarias, servirá para coordinar la acción sobre el medio ambiente de todas las Administraciones públicas.
+
+## TÍTULO IV
+
+Infraestructuras territoriales y servicios públicos
+
+## CAPÍTULO I
+
+Ordenación del suelo y del territorio
+
+### Artículo 57
+
+Artículo 57. Calificación turística del suelo.
+1. Los planes urbanísticos declararán el uso turístico del suelo en zonas urbanas o urbanizables. También podrán declarar este uso en asentamientos rurales delimitados.
+2. Cuando tal declaración sea hecha en los planes urbanísticos municipales, se exigirá el informe previo de la Consejería competente en materia de turismo, excepto cuando aquélla sea consecuencia de la adaptación de tales planes a las previsiones de los Planes Insulares de Ordenación Territorial, conforme a esta Ley.
+
+### Artículo 58
+
+Artículo 58. Previsiones turísticas de los Planes Insulares de Ordenación Territorial.
+1. Los Planes Insulares de Ordenación Territorial deberán contener previsiones específicas de desarrollo turístico, identificando cada uno de los atractivos y núcleos, capacidad máxima, zona de influencia y límites de la oferta alojativa.
+2. Tales Planes, además, deberán contener previsiones suficientes para zonas en que concurra alguna de estas circunstancias:
+a) Tratarse de zona o núcleo a rehabilitar, declarada de conformidad con las previsiones de esta Ley.
+b) Ser zona mixta, donde la presencia de edificaciones turísticas pueda producir, junto con otras residenciales o industriales, efectos aditivos que pongan en peligro la calidad turística de la zona.
+c) Ser zonas insuficientemente dotadas, donde la baja dotación de infraestructuras y equipamientos no se corresponda con el número de camas turísticas de la zona.
+3. A estos efectos, la Consejería del Gobierno de Canarias competente en materia turística habrá de emitir informe preceptivo, dentro del trámite previsto en la Ley reguladora de los Planes Insulares de Ordenación.
+4. Los Ayuntamientos afectados por las medidas de este artículo, independientemente del trámite de audiencia y dentro del mismo plazo previsto para ésta, emitirán informe previo a la aprobación definitiva del Plan Insular respectivo.
+
+### Artículo 59
+
+Artículo 59. Adaptación del planeamiento urbanístico municipal.
+La declaración de «zona turística» en los Planes Insulares de Ordenación, obligará a los municipios a adaptar su planeamiento general y, en su caso, sus proyectos de delimitación de suelo urbano y las ordenanzas urbanísticas, para incorporar las limitaciones, restricciones y obligaciones específicas que deriven de tal declaración.
+
+### Artículo 60
+
+Artículo 60. Suspensión del planeamiento urbanístico y de la concesión de licencias.
+1. El Gobierno de Canarias podrá suspender, para su revisión y adaptación a las exigencias de este Capítulo, la vigencia de los Planes Insulares y de los municipales.
+2. De igual manera podrá suspender o, en su caso, solicitar de los Ayuntamientos respectivos la suspensión del otorgamiento de licencias, en las zonas a que se refiere el artículo 58.2 hasta que se produzca la adaptación del planeamiento municipal a las previsiones de los Planes Insulares de Ordenación, en materia turística, o hasta la reforma de éstos, así como cuando motivos de interés turístico, debidamente acreditados, lo justifiquen.
+3. La competencia para proponer al Gobierno las medidas previstas en los números anteriores, será del departamento competente en materia turística, que la ejercerá en coordinación con el que ostente competencias urbanísticas.
+
+### Artículo 61
+
+Artículo 61. Condicionamiento de licencias.
+Las licencias de cualquier tipo que hayan de concederse en las zonas a que se refiere el artículo 58.2 o en suelo calificado como de uso turístico, habrán de otorgarse de conformidad con el planeamiento y con las previsiones de esta Ley, sin lo cual serán nulas.
+
+### Artículo 62
+
+Artículo 62. Imprescriptibilidad de infracciones en espacios privados no edificables.
+1. Los espacios libres o áreas no edificables de titularidad privada, que sean computados a efectos de determinación de la capacidad alojativa de los centros turísticos, no podrán ser transformados, ocupados o edificados en contradicción con el destino previsto tanto en el planeamiento como en el correspondiente expediente de autorización de la explotación turística.
+2. La transformación, ocupación o supresión de dichos espacios libres o áreas no edificables de titularidad privada, tendrán el mismo régimen jurídico reconocido por la legislación urbanística a los espacios libres y zonas verdes públicas, en cuanto a la imprescriptibilidad de la potestad de la Administración pública para restablecer el ordenamiento infringido. Tal medida se extenderá durante la vida útil de la edificación o instalación de que se trata, incluso aunque ésta deje de ser explotada turísticamente, al construir un módulo legal turístico determinante de la calidad del producto.
+La inspección turística de la Comunidad Autónoma, así como las inspecciones urbanísticas de las distintas Administraciones públicas, procederán a denunciar la transformación, ocupación o supresión de tales áreas no edificables al objeto de su recuperación.
+
+### Artículo 63
+
+Artículo 63. Indemnizaciones.
+Las indemnizaciones a que hubiera lugar por el ejercicio de la potestad de planeamiento o de supresión de otorgamiento de licencias, contenidas en este capítulo, estarán a lo dispuesto en la normativa aplicable.
+
+### Artículo 64
+
+Artículo 64. Entidades colaboradoras de conservación.
+En las urbanizaciones y núcleos turísticos, se constituirán entidades colaboradoras de conservación, de tal forma que, cualquier operador que desarrolle actividades en dicho suelo, será dado de alta en la correspondiente entidad simultáneamente a su inscripción en el Registro General Turístico.
+Reglamentariamente se determinará el régimen jurídico a que hayan de someterse dichas entidades.
+Se modifca el inciso final del párrafo primero por la disposición adicional 2.1 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+
+## CAPÍTULO II
+
+Servicios públicos turísticos municipales
+
+### Artículo 65
+
+Artículo 65. Servicio de vigilancia ambiental.
+Los municipios deberán prestar, en los núcleos turísticos, el servicio de vigilancia ambiental, que incluya:
+a) La aprobación de ordenanzas específicas sobre calidad del medio ambiente.
+b) El reforzamiento del servicio de limpieza y de salubridad, particularmente en las zonas de uso público como paseos, calles, plazas y playas.
+c) El control de ruidos, con especial atención a los producidos en horas nocturnas.
+d) El control de olores, con atención prioritaria a las industrias y actividades que los produzcan.
+e) La colaboración en el reforzamiento de la seguridad ciudadana.
+
+### Artículo 66
+
+Artículo 66. Servicio de vigilancia en las playas.
+Los municipios, en las playas que reglamentariamente se determine, establecerán un servicio de vigilancia y socorrismo.
+
+### Artículo 67
+
+Artículo 67. Centros de información turística.
+En las zonas turísticas los Ayuntamientos crearán centros de información turística, convenientemente señalizados y de fácil acceso, en los que se presten los siguientes servicios:
+a) Información general sobre la zona y las actividades que en ella se pueden desarrollar, así como específica sobre los espacios naturales protegidos y sobre actividades de senderismo u otras de disfrute de la naturaleza.
+b) Orientación topográfica, facilitando mapas y planos.
+c) Asesoramiento general sobre precios y calidades de artículos y servicios turísticos.
+d) Asesoramiento sobre los derechos del usuario turístico.
+e) Recepción de quejas y reclamaciones.
+
+## TÍTULO V
+
+Formación técnico-profesional turística
+
+### Artículo 68
+
+Artículo 68. Hoteles-Escuela.
+El Gobierno de Canarias, a través de la Consejería competente en materia turística, potenciará los hoteles-escuela, con los siguientes criterios:
+a) Estarán abiertos a la realización de prácticas de todos los niveles formativos de turismo, aunque podrán establecer requisitos mínimos de admisión.
+b) Organizarán programas de alta especialización y reciclaje de profesionales, impulsando la aplicación de la tecnología más moderna disponible en el sector.
+c) Procurará la homologación de las enseñanzas y titulaciones a nivel internacional.
+
+### Artículo 69
+
+Artículo 69. Formación profesional reglada y ocupacional.
+El Gobierno de Canarias propiciará la unificación de criterios en los programas y estudios de la formación reglada y ocupacional.
+Asimismo el Gobierno de Canarias tenderá a la equiparación de titulación entre la formación reglada y la ocupacional, estableciendo reglamentariamente los requisitos de esa equiparación sobre la base de identidad de programas y elementos de ambas enseñanzas.
+Todo ello, sin perjuicio de la competencia atribuida al Estado por el artículo 149.1.30 de la Constitución.
+
+### Artículo 70
+
+Artículo 70. Escuela Oficial y estudios superiores de turismo.
+1. El Gobierno de Canarias propiciará la celebración de convenios con las universidades canarias para la elaboración de programas y planes de estudios superiores en materia turística, determinando las especialidades, el nivel, el plan de estudios y la homologación de titulaciones.
+En tales Convenios participarán las Consejerías competentes en materias de turismo y de educación.
+2. La Escuela Oficial de Turismo de Canarias velará por la calidad de los estudios técnicos especializados en materia turística, en tanto se integren en el sistema universitario.
+
+### Artículo 71
+
+Artículo 71. Otros apoyos a la formación turística.
+1. Cualquier entidad educativa podrá ofrecer cursos de especialización o postgrado dirigidos a profesionales del turismo, coordinando su actuación con la Consejería competente en materia turística.
+2. Esta Consejería prestará apoyo a la formación turística mediante becas y otras ayudas, especialmente destinados a la adquisición de conocimientos y tecnologías de vanguardia, nuevas especialidades y formación de profesores, así como a la iniciación y perfeccionamiento en el conocimiento de lenguas extranjeras.
+
+## TÍTULO VI
+
+Régimen sancionador
+
+## CAPÍTULO I
+
+Principios generales de la potestad sancionadora en materia turística
+
+### Artículo 72
+
+Artículo 72. Principios.
+El ejercicio de la potestad sancionadora en materia turística se sujetará a los principios previstos en los artículos 127 y siguientes de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 73
+
+Artículo 73. Personas responsables.
+Son responsables de las infracciones turísticas las personas físicas y jurídicas, públicas o privadas, que realicen las acciones u omisiones tipificadas por esta Ley.
+
+### Artículo 74
+
+Artículo 74. Prescripción.
+1. Las infracciones turísticas prescriben:
+a) Las muy graves, a los tres años.
+b) Las graves, a los dos años.
+c) Las leves, al año.
+2. Las sanciones prescribirán:
+a) Las impuestas por faltas muy graves, a los tres años.
+b) Las impuestas por faltas graves, a los dos años.
+c) Las impuestas por faltas leves, al año.
+3. El cómputo del plazo de prescripción será:
+a) El de las infracciones, desde el día de la comisión de la misma.
+b) El de las sanciones, desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+4. La prescripción se interrumpe:
+a) La de las infracciones, con la iniciación, con conocimiento del interesado, del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente estuviese paralizado durante más de un mes por causa no imputable al presunto responsable.
+b) La de las sanciones, por la iniciación, con conocimiento del sancionado, del procedimiento de ejecución, reanudándose el plazo de prescripción si aquél estuviese paralizado durante más de un mes.
+
+## CAPÍTULO II
+
+Infracciones turísticas
+
+### Artículo 75
+
+Artículo 75. Infracciones muy graves.
+Se consideran infracciones muy graves a la disciplina turística:
+1. La construcción, ampliación, rehabilitación, reforma o apertura de establecimientos turísticos de alojamiento, incumpliendo los deberes previstos en el artículo 13.2 a).
+2. La construcción, ampliación, rehabilitación, reforma o apertura de establecimientos turísticos de alojamiento, careciendo de autorización, cuando por ley o por vía reglamentaria, se establezca, por razones medioambientales o de ordenación del territorio, límites o restricciones a la creación de nueva oferta de alojamiento turístico y, especialmente, siempre que dichas limitaciones vengan justificadas en la ordenación territorial atendiendo a la capacidad de carga de las islas, conforme establece el artículo 24.2 de la presente ley.
+3. El acceso o ejercicio de actividades turísticas reguladas reglamentariamente, incumpliendo el deber de comunicación previsto en el artículo 13.2 a); así como no obtener las autorizaciones previstas en el artículo 13.2 b) y g).
+4. No contratar o no mantener en vigor la póliza de los seguros de responsabilidad civil en los términos previstos en la normativa que resulte de aplicación.
+5. El incumplimiento en los establecimientos turísticos de alojamiento de los estándares turísticos de densidad, infraestructura o servicio.
+6. No prestar un servicio según lo convenido entre las partes, cuando de ello se deriven perjuicios graves para el usuario.
+Se considerará que los perjuicios son graves cuando afecten a la salud o seguridad de los usuarios turísticos o representen una pérdida importante e irreversible de dinero o de valor de sus bienes.
+7. La negativa u obstaculización a la actuación de la inspección turística que llegue a impedir el ejercicio de las funciones que legal o reglamentariamente tenga atribuidas o la aportación a aquella de información o documentos falsos.
+8. La negativa u obstaculización a la labor de comprobación prevista en los artículos 24.1 y 32.4, cuando se impida el acceso a los establecimientos o se imposibilite la constatación de la totalidad de los requisitos que exige la normativa vigente para el ejercicio de la actividad o el funcionamiento de los establecimientos turísticos o su clasificación y, particularmente, los que afecten a la salud y seguridad de los usuarios turísticos.
+9. Los atentados y acciones perjudiciales para la imagen turística de Canarias o de cualquiera de sus destinos turísticos, que constituyan infracción de la normativa turística o de las leyes sectoriales.
+Se considerarán atentados o acciones perjudiciales para la imagen turística de Canarias o de sus destinos turísticos las conductas que falseen, dañen, menoscaben o deterioren dicha imagen.
+10. El incumplimiento de las normas legales relativas al principio de unidad de explotación de establecimientos de alojamiento.
+11. La falsedad en las declaraciones responsables, cuando se refiera a datos que afecten gravemente a la salud y seguridad de los usuarios turísticos.
+Se entiende que la falsedad afecta a la seguridad de los usuarios turísticos cuando verse o se refiera al cumplimiento de la normativa sobre protección contra incendios, seguridad de las edificaciones y locales y condiciones de salubridad y seguridad de las instalaciones industriales, deportivas o de ocio, determinando dicha falsedad la ocultación del estado de riesgo que la normativa incumplida pretende evitar.
+12. El no cumplimiento en plazo del deber de renovación edificatoria, cuando así se establezca en las determinaciones contenidas en los instrumentos de ordenación y planificación.
+13. El incumplimiento o alteración de las condiciones necesarias y determinantes para el ejercicio de la actividad turística que hayan servido de presupuesto para la correspondiente autorización o comunicación previa.
+14. El incumplimiento del deber de atenerse al uso establecido por el planeamiento, destinando un establecimiento turístico de alojamiento a otros usos.
+15. El ejercicio profesional realizado con incumplimiento de las normas turísticas.
+16. La publicidad en plataformas digitales o cualquier otro medio de difusión referida a la oferta de estancia turística en viviendas careciendo o sin indicar el preceptivo número de registro establecido en la normativa de aplicación
+17. La publicidad en plataformas digitales o cualquier otro medio de difusión referida a la oferta de estancia turística en infraviviendas.
+18. La prestación de servicios turísticos de alojamiento en infraviviendas o en cualquier otro lugar no autorizado como establecimientos turísticos de alojamiento regulados reglamentariamente.
+19. El incumplimiento reiterado de las obligaciones relativas al acatamiento de las condiciones preventivas en factores ergonómicos y psicosociales que se deduzcan de las determinaciones preceptivas obtenidas de los informes periódicos de las condiciones ergonómicas y psicosociales del sector turístico de Canarias.
+20. El incumplimiento de la obligación de disponer e implantar camas elevables –con excepción de las camas supletorias– y de carros motorizados destinados a las tareas de limpieza, acondicionamiento e higiene en las unidades alojativas, en los términos del artículo 44 y dentro de los plazos establecidos en la disposición transitoria tercera.
+Se añaden los apartados 19 y 20 por el art. único.4 de la Ley 1/2026, de 28 de abril. Ref. BOE-A-2026-17187
+ Se modifica el apartado 14 y se añaden los apartados 16, 17 y 18 por la disposición final 3.1 a 4 de la Ley 6/2025, de 10 de diciembre. Ref. BOE-A-2025-26358#df-3
+ Se modifica por el art. 15.5 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996.
+ Se modifica por la disposición adicional 1 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-6584#daprimera.
+ Se modifica por el art. único.13 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+ Se añade el apartado 10 por el art. 20.3 de la Ley 6/2009, de 6 de mayo. Ref. BOE-A-2009-9047#a20.
+ Se añade el apartado 9 por la disposición adicional 3.4 de la Ley 19/2003, de 14 de abril. Ref. BOE-A-2003-13621.
+
+### Artículo 76
+
+Artículo 76. Infracciones graves.
+Constituyen infracciones graves a la normativa turística:
+1. No disponer de las instalaciones, sistemas o servicios obligatorios, según la normativa turística, o tenerlos en mal estado de conservación o funcionamiento.
+2. Las deficiencias manifiestas y generalizadas en la prestación de los servicios, decoro de los establecimientos y funcionamiento o limpieza de sus locales, instalaciones y enseres, así como el incumplimiento de las obligaciones previstas en el artículo 17.2 de esta ley.
+3. El mal trato de palabra, obra u omisión al usuario turístico.
+4. Carecer de las hojas de reclamación obligatorias, no facilitarlas a los clientes o no tramitarlas en tiempo y forma.
+5. No expedir o no hacer entrega al usuario turístico de las facturas por los servicios prestados.
+6. La contratación de personal que carezca de la titulación o cualificación preceptiva para prestar los servicios que la requieran.
+7. La obstaculización o resistencia a la actuación de la inspección de turismo, que no llegue a impedirla.
+8. La falta de comparecencia del empresariado o sus representantes a las citaciones efectuadas por la inspección de turismo en la forma determinada en esta ley, así como el incumplimiento de los requerimientos por los que la inspección de turismo solicite a las personas titulares de la explotación o personas propietarias de establecimientos turísticos la presentación o remisión de documentos o la ejecución de determinadas actuaciones.
+9. Carecer o no facilitar el libro de inspección cuando una norma prevea el deber de disponer del mismo.
+10. La obstaculización o resistencia a la actuación de comprobación, que no llegue a impedirla, llevada a cabo por la Administración turística de conformidad con lo establecido en los artículos 24.1 y 32.4, siempre que no se encuentre comprendida en el número 6 del artículo anterior.
+11. La publicidad turística engañosa, las ofertas equívocas, la omisión de la información relativa a los requisitos que limiten, condicionen o impidan el acceso a los establecimientos turísticos o su permanencia en los mismos, o cualquier forma de sugestión que haga inferir una mayor calidad en las instalaciones o servicios de la que es real.
+12. El uso de sistemas de promoción de ventas agresivos que perturben la tranquilidad de los usuarios turísticos, en los términos contemplados en el artículo 19.1 de esta ley.
+13. La sobrecontratación de plazas que origine exceso de reservas que no pueda ser atendido, salvo que se acredite el cumplimiento de los requisitos previstos en los números 2 y 3 del artículo 37 de esta ley y que la estancia se ha desarrollado a satisfacción del usuario turístico.
+14. El incumplimiento de las normas sobre reservas y cancelaciones de plazas y la falta de prestación de un servicio convenido, cuando suponga un perjuicio manifiesto para el cliente.
+15. El ejercicio profesional realizado con incumplimiento de las normas sobre prestación de servicios turísticos.
+16. La falsedad en las comunicaciones previas y declaraciones responsables en los supuestos no contemplados en el apartado 9 del artículo anterior.
+17. El incumplimiento de los deberes de conservación de la calidad de los establecimientos prevista en esta ley.
+18. Las infracciones tipificadas como muy graves que por razón de su intencionalidad, naturaleza, ocasión o circunstancias no deban considerarse como tales.
+19. No presentar el informe de la inspección técnica de establecimientos turísticos, habiendo sido sancionado previamente por haber cometido la infracción contemplada en el artículo 77.9 de la presente ley.
+20. El incumplimiento de las disposiciones que se adopten sobre limitaciones de acceso al establecimiento turístico de alojamiento por razones de salud pública.
+21. La inexactitud, falsedad u omisión de los datos o información mínima que se deba incluir en la declaración responsable o en la comunicación o la no presentación de la documentación que sea en su caso requerida para acreditar el cumplimiento de lo declarado o lo comunicado.
+22. Presentar una nueva declaración o comunicación de inicio o continuar ejerciendo la actividad con el mismo objeto, durante el periodo de tiempo que haya determinado la resolución de declaración de imposibilidad para instar un nuevo procedimiento.
+23. El incumplimiento de las obligaciones relativas al acatamiento de las condiciones preventivas en factores ergonómicos y psicosociales que se deduzcan de las determinaciones preceptivas obtenidas de los informes periódicos de las condiciones ergonómicas y psicosociales del sector turístico de Canarias y la infracción no tenga la consideración de muy grave.
+Se añade el apartado 23 por el art. único.5 de la Ley 1/2026, de 28 de abril. Ref. BOE-A-2026-17187
+ Redactado conforme a la corrección de errores publicada en BOC núm. 124, de 23 de junio de 2026.
+ Se modifica el apartado 8 y se añaden los apartados 21 y 22 por la disposición final 3.5 a 7 de la Ley 6/2025, de 10 de diciembre. Ref. BOE-A-2025-26358#df-3
+ Se modifica por la disposición final 1.4 del Decreto-ley 17/2020, de 29 de octubre. Ref. BOE-A-2021-4319#df
+ Se añade el apartado 19 por la disposición adicional 1 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-6584#daprimera.
+ Se modifica por el art. único.14 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+ Se deroga el apartado 13 por la disposición derogatoria 2 de la Ley 6/2009, de 6 de mayo. Ref. BOE-A-2009-9047#ddsegunda.
+ Se renumera el apartado 18 como 19 y se añade un apartado 18 por la disposición adicional 3.5 y 6 de la Ley 19/2003, de 14 de abril. Ref. BOE-A-2003-13621.
+ Redactado conforme a la corrección de errores publicada en el BOC núm. 91, de 14 de mayo de 2003. Ref. BOE-A-2004-16477.
+
+### Artículo 77
+
+Artículo 77. Infracciones leves.
+Se consideran infracciones turísticas leves:
+1. El acceso o ejercicio de actividades turísticas que no se encuentren reguladas reglamentariamente, incumpliendo el deber de comunicación previsto en el artículo 13.2 a).
+2. La carencia de anuncios, distintivos, señales o información de exposición pública obligatoria, la negativa a facilitarla o cualquier forma de ocultación de los mismos.
+3. El trato descortés con la clientela.
+4. Las conductas disuasorias de la solicitud de información.
+5. Las deficiencias leves en la prestación de los servicios, decoro de los establecimientos y funcionamiento o limpieza de sus locales, instalaciones y enseres, o en la higiene y decoro del personal que cause molestias a los usuarios.
+6. No confeccionar las facturas con arreglo a las prescripciones reglamentarias, o no conservar duplicados de las que se hayan expedido.
+7. Las acciones u omisiones que, en orden a la labor inspectora o de comprobación técnica, impliquen un mero retraso en el cumplimiento de las obligaciones de información y comunicación.
+8. Cualquier otra infracción que, estando tipificada como grave, no mereciera esta consideración por razón de su falta de intencionalidad, naturaleza, ocasión o circunstancia y, en particular, las infracciones graves cuando se constate que el restablecimiento de la legalidad ha sido inmediato, sin que resulten afectados los derechos de los usuarios o cuando, constatada por la inspección actuante la comisión de la infracción tipificada en el número 2 del artículo 76, se restablezca la legalidad dentro del plazo que determine aquélla en función de la entidad y naturaleza de los incumplimientos y del plazo de prescripción de las infracciones.
+9. No presentar en los plazos establecidos el informe resultante de la inspección técnica de establecimientos turísticos.
+10. No comunicar al registro de la propiedad el uso efectivo del establecimiento turístico en los plazos establecidos.
+11. El incumplimiento leve de las obligaciones relativas a la observancia de las condiciones preventivas en factores ergonómicos y psicosociales que se deduzcan de las determinaciones preceptivas obtenidas de los informes periódicos de las condiciones ergonómicas y psicosociales del sector turístico de Canarias y la infracción no tenga la consideración de grave.
+Se añade el apartado 11 por el art. único.6 de la Ley 1/2026, de 28 de abril. Ref. BOE-A-2026-17187
+ Se añaden los apartados 9 y 10 por la disposición adicional 1 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-6584#daprimera.
+ Se modifica por el art. único.15 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+ Redactado el apartado 8 conforme a la corrección de errores publicada en BOC núm. 121, de 22 de junio de 2010. Ref. BOE-A-2010-10492.
+
+## CAPÍTULO III
+
+Sanciones
+
+### Artículo 78
+
+Artículo 78. Tipología de sanciones.
+Por la comisión de infracciones a la disciplina turística podrán imponerse las siguientes sanciones:
+1. Apercibimiento.
+2. Multa.
+3. Suspensión temporal de actividades o del ejercicio profesional.
+4. Revocación de la autorización turística.
+5. Clausura definitiva del establecimiento.
+Se modifica por el art. único.16 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+
+### Artículo 79
+
+Artículo 79. Supuestos en que proceden y forma de imposición.
+1. El apercibimiento procederá en los supuestos de infracciones leves, cuando no exista reincidencia y no se estime conveniente la imposición de multa.
+2. Las multas se impondrán según la siguiente escala:
+a) En las infracciones leves, hasta 1.500 euros.
+b) En las graves: Entre 1.501 y 30.000 euros.
+c) En las muy graves: Entre 30.001 y 300.000 euros.
+Para su graduación se atenderá a los perjuicios causados, la trascendencia social, la reincidencia, la intencionalidad especulativa, el lucro ilícito obtenido, la posición del infractor en el mercado y la repercusión sobre la imagen turística, la modalidad y categoría del establecimiento o características de la actividad de que se trate y las repercusiones para el resto del sector, así como la inmediatez en el restablecimiento de la legalidad siempre que no resulten afectados los derechos de los usuarios turísticos. En la resolución sancionadora deberá constar, particular y pormenorizadamente, la consideración efectuada de dichos criterios en la determinación de la cuantía de la sanción que se imponga.
+Las cuantías de las multas podrán ser revisadas por el Gobierno de Canarias, cuando por el transcurso del tiempo, las mismas se consideren desfasadas.
+3. La suspensión temporal de actividades o del ejercicio profesional, se impondrá en los supuestos de infracciones muy graves, como sanción principal o accesoria a la multa, en la siguiente forma:
+a) Entre un día y seis meses de suspensión, cuando exista reincidencia en la comisión de faltas graves.
+b) Entre seis meses y un año de suspensión, cuando exista reincidencia en las faltas muy graves.
+4. La clausura definitiva del establecimiento procederá en el caso de infracciones muy graves cuando el responsable haya sido sancionado dos o más veces por ese tipo de infracciones en el transcurso de tres años consecutivos y medien graves perjuicios para los intereses turísticos de Canarias derivados de la conducta del infractor.
+Se modifica por el art. único.17 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+
+### Artículo 80
+
+Artículo 80. Competencias.
+1. La imposición de sanciones por infracciones muy graves corresponde:
+a) Al Gobierno de Canarias:
+Multas de más de 25.000.000 de pesetas.
+Clausura definitiva del establecimiento.
+b) Al titular del departamento competente en materia turística:
+Multas comprendidas entre 5.000.001 pesetas y 25.000.000 de pesetas.
+Suspensión temporal de actividades o del ejercicio profesional.
+2. La imposición de sanciones por infracciones graves y leves se hará por el órgano que determine el Reglamento Orgánico de la Consejería con competencias turísticas.
+
+### Artículo 81
+
+Artículo 81. Procedimiento.
+1. La imposición de sanciones se hará previo expediente, que se sujetará a los principios previstos en los artículos 134 y siguientes de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. En el procedimiento se tendrán en cuenta, además, las siguientes reglas:
+a) Las actas de inspección turística que se levanten deberán contener los requisitos formales previstos en la normativa vigente sobre el ejercicio de la potestad sancionadora.
+b) La instrucción del procedimiento se llevará a cabo de conformidad con dicha normativa.
+En el supuesto de infracciones que pudieran ser calificadas como leves, la instrucción se podrá llevar a cabo por el procedimiento simplificado.
+3. Se podrán adoptar medidas provisionales o cautelares, de conformidad con lo previsto en el artículo 136 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico y de las Administraciones Públicas y del Procedimiento Administrativo Común y demás normativa de aplicación para el ejercicio de la potestad sancionadora.
+Entre tales medidas se podrá adoptar la de suspensión temporal de la actividad hasta la resolución del procedimiento, si la infracción pudiera dar lugar a la clausura definitiva del establecimiento.
+4. El órgano que resuelva el procedimiento sancionador publicará las sanciones firmes de carácter muy grave y excepcionalmente las graves. Asimismo procederá a su anotación en el Registro General Turístico.
+Se modifica la letra a) del apartado 2, y el inciso final del apartado 4 por el art. único.18 y la disposición adicional 2.1 de la Ley 14/2009, de 30 de diciembre. Ref. BOE-A-2010-4222.
+
+### Artículo 82
+
+Artículo 82. Indemnización de daños y perjuicios.
+1. Si como consecuencia de la tramitación de un expediente sancionador, se dedujera la existencia de responsabilidades patrimoniales que diesen lugar a la devolución de cantidades, indemnización de daños o reparación de perjuicios causados, de conformidad con lo previsto en esta Ley, a favor de la Administración pública, en la resolución que se dicte se determinará el importe correspondiente, cuya ejecución forzosa, si fuera necesaria, podrá obtenerse por alguno de los medios previstos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. Si en la resolución que se dicte se determinara la reparación de daños y perjuicios que no suponga abono de cantidad líquida, se podrán imponer multas coercitivas en los términos previstos en el artículo 99 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## CAPÍTULO IV
+
+Inspección turística
+
+### Artículo 83
+
+Artículo 83. Cometidos de la inspección turística.
+1. La inspección turística de Canarias ejercerá las siguientes funciones:
+a) La constatación del cumplimiento de las obligaciones legales y reglamentarias de las empresas turísticas.
+b) La verificación de la existencia de infraestructuras y dotación de los servicios obligatorios, según la legislación turística.
+c) La obtención y canalización de información de cualquier clase relativa a la situación real del turismo en Canarias.
+d) Velar por la igualdad en la aplicación de las normas relativas a establecimientos y actividades turísticas.
+e) Cualquier otra función inspectora que legal o reglamentariamente se le atribuya.
+2. Para el ejercicio de las funciones previstas en el número anterior, la inspección turística podrá utilizar, entre otros medios, los siguientes:
+a) El levantamiento de actas de inspección.
+b) Efectuar visitas de comprobación.
+c) Emitir informes.
+d) Efectuar citaciones a los empresarios turísticos o sus representantes, con los requisitos y efectos previstos en el artículo 40 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. Los datos de carácter personal obtenidos por la Administración turística en el desempeño de sus funciones inspectoras tiene carácter reservado y sólo podrán ser utilizados para la efectiva aplicación de la normativa turística, así como para la imposición de las sanciones que procedan.
+Se autoriza que los datos de carácter personal puedan ser cedidos o comunicados por terceros a la inspección turística, siempre que lo sean para el cumplimiento de fines directamente relacionados con las funciones inspectoras, sin que sea necesario obtener el consentimiento del interesado.
+Se modifica por la disposición adicional 1 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-6584#daprimera.
+
+### Artículo 84
+
+Artículo 84. Libro de inspección.
+A los efectos de permitir el cumplimiento de la labor inspectora, las empresas turísticas dispondrán de un libro de inspección de las características que reglamentariamente se determinen, que tendrán a disposición de los inspectores en todo momento.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Modificación de la Ley reguladora de Planes Insulares de Ordenación.
+En el plazo de un año a partir de la entrada en vigor de la presente Ley, el Gobierno de Canarias presentará al Parlamento un proyecto de Ley de modificación de la Ley 1/1987, de 13 de marzo, reguladora de los Planes Insulares de Ordenación, donde se recojan las previsiones que en tales Planes deben incluirse como consecuencia de lo dispuesto en la presente Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Estatuto de los municipios turísticos.
+De conformidad con lo previsto en el artículo 30 de la Ley reguladora de las Bases de Régimen Local y en la disposición adicional cuarta de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, el Gobierno, a propuesta de la Consejería competente en materia turística, elaborará, en el plazo de seis meses a partir de la entrada en vigor de la presente Ley, y oídas las asociaciones más representativas de los municipios canarios, un Estatuto de los municipios turísticos, en forma de proyecto de Ley, sobre las siguientes bases:
+a) En ellos el dominio público y los servicios públicos tendrán una orientación turística expresa, de conformidad con lo previsto en la presente Ley.
+b) Se reconocerán las medidas fiscales y de financiación que permitan la prestación de servicios con la calidad suficiente.
+c) Se prestará especial atención a la identificación de sus núcleos turísticos y a la conservación y diversificación de sus atractivos, sean de tipo natural o urbano.
+d) Los núcleos turísticos separados del casco urbano, tendrán una organización complementaria donde se posibilite la más amplia y efectiva participación ciudadana.
+Los barrios identificados turísticamente tendrán, asimismo, su organización complementaria mediante la creación de los órganos previstos en la Ley de Régimen Jurídico de las Administraciones Públicas de Canarias para la gestión desconcentrada y la participación ciudadana, debiendo, en todo caso, crearse un Consejo de barrio, si no existiese, y un Consejo del sector turístico.
+En todo caso se establecerá la participación en dicho Consejo de las organizaciones empresariales y sociales más representativas del sector.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Banco de datos turísticos.
+La Consejería con competencia en materia turística, oídas las asociaciones empresariales, profesionales y sindicales, los Cabildos Insulares y los municipios turísticos, revisará, en colaboración con el Instituto Canario de Estadística, el actual sistema de obtención de datos turísticos con el fin de garantizar su fiabilidad y actualización permanente.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Comisión para la formación profesional turística.
+El Gobierno de Canarias creará, en el plazo de seis meses a partir de la entrada en vigor de la presente Ley, una Comisión en la que se integrarán representantes de las Consejerías con competencia en materia de turismo, educación, trabajo y medio ambiente, que tendrá como objetivos:
+a) Actualizar, con la cooperación de los sectores empresariales y profesionales afectados, y con audiencia del Consejo Regional de Turismo, los estudios disponibles de necesidades de formación en turismo, e iniciar cuantos estudios particulares se revelen necesarios.
+b) Conseguir el reforzamiento mutuo de los sistemas de formación profesional reglada y ocupacional, procurando la generación y utilización conjunta de infraestructuras y equipamiento.
+c) Lograr que los cursos ocupacionales atiendan necesidades reales del sector y que actúen como complemento eficaz de la enseñanza profesional reglada en incrementar el nivel de prácticas en una y otra.
+d) Asesorar en la reforma educativa en cuanto a los módulos, especialidades y contenido, que hayan de implantarse como formación profesional para el turismo, procurando su adaptación al mundo empresarial.
+e) Armonizar los esfuerzos de los distintos departamentos implicados en la formación profesional turística y la coordinación con otros organismos que actúan en esta misma área.
+f) Estructurar proyectos conjuntos y allegar fondos para la mejora de la formación profesional turística en Canarias.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Régimen sancionador aplicable al incumplimiento del principio de unidad de explotación.
+1. Las empresas explotadoras de establecimientos turísticos de alojamiento que, resultándoles de aplicación la disposición transitoria única de la Ley 5/1999, de 15 de marzo, no hayan procedido al cumplimiento del principio de unidad de explotación en los términos previstos en dicha disposición, serán sancionadas conforme al siguiente régimen:
+a) Si persistiere el incumplimiento de este principio el 24 de marzo de 2001, será incoado el correspondiente procedimiento sancionador, imponiéndosele, en el caso de derivarse responsabilidad, multa en cuantía de cien mil pesetas (601,012 euros) por unidad alojativa que exploten hasta el límite previsto en el artículo 79.2 b) de la Ley 7/1995, de 6 de abril, de Ordenación del Turismo de Canarias.
+b) Cuando la resolución sancionadora ponga fin a la vía administrativa, se incoarán, transcurrido un año desde la iniciación del primer procedimiento, nuevos expedientes sancionadores a aquellas empresas que persistan en el incumplimiento del principio de unidad de explotación, incrementándose en cien mil pesetas (601,012 euros) por unidad alojativa y año la cuantía de la sanción pecuniaria a imponer, hasta el límite de cinco millones de pesetas (30.050,605 euros).
+2. A partir del 24 de marzo de 2005, la Administración pública que gestione las aperturas turísticas podrá revocar, previa audiencia a los interesados, aquellas autorizaciones otorgadas a empresas explotadoras que no se hayan adaptado al principio de referencia antes de esa fecha.
+3. Durante el período al que hacen referencia los apartados anteriores se denegarán los cambios de titularidad que no vayan encaminados al cumplimiento del principio de unidad de explotación, excepto en la sucesión hereditaria.
+4. El Gobierno de Canarias podrá establecer medidas reglamentarias destinadas a la consecución del principio de unidad de explotación, oídas las administraciones públicas competentes en materia turística y los interlocutores sociales.
+Se añade por el art. 10.4 de la Ley 2/2000, de 17 de julio. Ref. BOE-A-2000-15425.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Régimen jurídico del turismo activo y complementario.
+Reglamentariamente se establecerá el régimen jurídico para desarrollar actividades de turismo activo y complementario, tanto por empresas, particulares u otras entidades públicas y privadas.
+Se añade por el art. 15.6 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Acceso a ayudas estatales y autonómicas.
+A los efectos de facilitar el cumplimiento de las condiciones preventivas en materia de riesgos ergonómicos y psicosociales derivadas de las determinaciones preceptivas contenidas en los informes periódicos sobre las condiciones ergonómicas y psicosociales del sector turístico de Canarias, el Gobierno de Canarias promoverá y articulará medidas de apoyo económico dirigidas a propietarios o titulares de establecimientos turísticos, destinadas a financiar las actuaciones necesarias para su adaptación a los nuevos requerimientos normativos.
+Asimismo, el Gobierno de Canarias y, en su caso, los cabildos insulares, en el ámbito de sus respectivas competencias, aprobarán las correspondientes convocatorias de ayudas o subvenciones, que podrán tener carácter complementario respecto de las previstas por la Administración General del Estado, con el objeto de facilitar la adaptación de los establecimientos y empresas turísticas a las nuevas exigencias ergonómicas y psicosociales del sector, conforme a los plazos y condiciones establecidos en los estudios que se elaboren periódicamente a tal efecto.
+Se añade por el art. único.7 de la Ley 1/2026, de 28 de abril. Ref. BOE-A-2026-17187
+
+### Disposición adicional octava
+
+Disposición adicional octava. Plazo y comunicación de la planificación realizada por los establecimientos alojativos turísticos para el cumplimiento de las condiciones preventivas en factores ergonómicos y psicosociales.
+Los establecimientos alojativos turísticos y actividades turísticas deberán comunicar al Gobierno de Canarias, a partir de los doce meses de la entrada en vigor de la presente ley, las modificaciones realizadas para cumplir las condiciones psicosociales y ergonómicas previstas para el sector turístico de Canarias, así como los estudios periódicos de renovación y adaptación, en los plazos y condiciones que se establezcan en los estudios que se desarrollen de manera periódica a dichos efectos.
+Se añade por el art. único.8 de la Ley 1/2026, de 28 de abril. Ref. BOE-A-2026-17187
+
+### Disposición adicional novena
+
+Disposición adicional novena. Evaluación ergonómica y medición de cargas de trabajo.
+1. En el marco de la planificación preventiva regulada en la normativa vigente en materia de prevención de riesgos laborales, las empresas deberán integrar en sus evaluaciones de riesgos los factores ergonómicos y psicosociales asociados a las tareas desarrolladas por el personal de limpieza de habitaciones en los sectores alojativos hoteleros y extrahoteleros.
+2. En particular, deberá evaluarse el posible incremento de carga física derivado de la implantación de edredones nórdicos de gran dimensión u otros elementos análogos, priorizando, en su caso, alternativas técnicas u organizativas que, garantizando la adecuada prestación del servicio, minimicen el impacto sobre la seguridad y salud de las personas trabajadoras.
+3. Asimismo, las empresas deberán realizar una evaluación específica de las cargas de trabajo efectivas por jornada, en la que se incorporará la medición objetiva de los tiempos empleados en la ejecución de las distintas tipologías de limpieza de habitaciones, atendiendo, entre otros factores, a habitaciones de clientes, salidas, repasos, camas supletorias, manipulación y peso de ropa de cama, así como cualesquiera otras tareas asociadas.
+4. La metodología y criterios de medición serán objeto de tratamiento en el seno del comité de seguridad y salud, con la participación de las personas delegadas de prevención y, serán tenidos en cuenta para la determinación de las cargas máximas de trabajo por jornada, de forma que se garantice el cumplimiento del deber empresarial de protección eficaz en materia de seguridad y salud laboral.
+Se añade por el art. único.9 de la Ley 1/2026, de 28 de abril. Ref. BOE-A-2026-17187
+
+### Disposición adicional décima
+
+Disposición adicional décima. Obligación de planificar actividades preventivas.
+Las empresas estarán obligadas a planificar las actividades preventivas, incluyendo el plazo de ejecución para cada una de ellas. Esta planificación deberá adaptarse al estudio ergonómico y psicosocial del sector turístico en Canarias que con carácter periódico realiza la Administración autonómica.
+Se añade por el art. único.10 de la Ley 1/2026, de 28 de abril. Ref. BOE-A-2026-17187
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Excepciones y dispensas a las obligaciones previstas en el artículo 44.
+1. Quedarán excluidos de la obligación prevista en el artículo 44 quienes exploten establecimientos alojativos con un máximo de treinta habitaciones ubicados en edificios declarados bienes de interés cultural, bienes catalogados o que cuenten con clasificación de protección singular, así como aquellos situados en núcleos históricos o cascos antiguos protegidos, siempre que las camas y su estructura constituyan elementos con valor histórico, patrimonial o cultural, debidamente acreditado conforme a la normativa aplicable en materia de patrimonio cultural.
+La exclusión prevista será aplicable con independencia de la clasificación administrativa del establecimiento de alojamiento.
+2. Las personas físicas o jurídicas que exploten establecimientos de alojamiento turístico hoteleros y/o extrahoteleros constituidos por hasta 30 habitaciones o menos, y que además no estén ubicados en edificios declarados como bien de interés cultural o que no cuenten con clasificación de protección singular ni se localicen en núcleos históricos o cascos antiguos protegidos, podrán solicitar de la consejería autonómica competente en materia de turismo, dispensa respecto de la implantación obligatoria y progresiva de carros motorizados como elemento técnico de apoyo destinado a las tareas de limpieza, acondicionamiento e higiene de las unidades alojativas, si, conforme a las características de dichos establecimientos en cuanto a su propia configuración organizacional y estructural física y/o técnica, así se certifica por la persona delegada de prevención de riesgos laborales o por el comité de seguridad y salud laboral del establecimiento en cuestión, debiendo además contar con la validación adicional del Instituto Canario de Seguridad Laboral una vez emitido y comprobado el correspondiente informe de medidas ergonómicas en el ámbito de la protección de riesgos laborales, el cual deberá presentarse por la persona interesada junto a la referida solicitud de dispensa.
+En el caso de que los establecimientos de alojamiento turístico hoteleros y/o extrahoteleros señalados en el párrafo anterior no cuenten con representación legal de los trabajadores, persona delegada de prevención de riesgos laborales o comité de seguridad y salud laboral, las personas físicas o jurídicas responsables de los mismos deberán presentar su solicitud de dispensa junto al preceptivo informe que, a petición de estas, elabore el referido Instituto Canario de Seguridad Laboral dependiente de la consejería autonómica responsable del área de trabajo y empleo. En estos casos, el Instituto Canario de Salud Laboral emitirá informe de conformidad o disconformidad sobre la solicitud de dispensa recibida, previa información y consulta a los sindicatos más representativos del sector y según la provincia de referencia.
+Los establecimientos de alojamiento turístico hoteleros y extrahoteleros contemplados en esta disposición adicional, y que a la entrada en vigor de esta ley empleen y tengan en servicio elementos técnicos para el traslado por sus profesionales de útiles de limpieza, acondicionamiento e higiene de sus unidades alojativas, contarán con un plazo máximo de 6 meses para cursar la solicitud de dispensa respecto del uso obligatorio de carros motorizados, conforme a los requisitos aquí establecidos. En cuyo caso contrario de inobservancia de lo anterior quedarán obligados a la implantación de carros motorizados en los términos cuantitativos que determine la autoridad laboral competente conforme a los plazos y porcentajes fijados en la presente norma.
+Para la elaboración y evacuación de los informes de evaluación de riesgos laborales a los que se circunscribe la presente disposición, el Instituto Canario de Salud Laboral podrá apoyarse y/o delegar en los gabinetes técnicos de prevención de riesgos laborales de las confederaciones empresariales y de los sindicatos más representativos en el sector de hostelería y turismo en Canarias.
+En caso de no remitirse por la consejería responsable de la concesión de dispensa a la persona física o jurídica solicitante, notificación de resolución en el plazo máximo de seis meses, a contar desde la fecha de registro de la solicitud, se considerará favorable y aceptada dicha solicitud. En cualquier caso, dicha dispensa tendrá una vigencia máxima de 5 años, renovable por períodos de igual duración, siempre y cuando permanezcan en el tiempo y se acredite la circunstancia o circunstancias organizativas, estructurales físicas y/o técnicas iniciales del establecimiento alojativo por las cuales se otorgó la dispensa original concedida.
+Las solicitudes de dispensa por adecuación de la actividad alojativa turística respecto de la preservación de la seguridad y salud laboral quedarán de igual forma a disposición de las entidades miembros del Instituto Canario de Seguridad Laboral.
+Quedan excluidas de la obligación de instalar camas elevables y carros motorizados los establecimientos alojativos clasificados como casas rurales.
+Se añade por el art. único.11 de la Ley 1/2026, de 28 de abril. Ref. BOE-A-2026-17187
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Legalización de empresas clandestinas.
+Las empresas que a la entrada en vigor de esta Ley carecieran de los requisitos previstos en los artículos 21 a 24 de la misma, dispondrán de un plazo máximo de un año, computado desde dicha entrada en vigor, para obtenerlos, sin que durante tal plazo se les pueda sancionar por infracción turística.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Obtención del documento acreditativo de la inscripción en el Registro General de Empresas, Actividades y Establecimientos Turísticos.
+El documento acreditativo de la inscripción en el Registro General de Empresas, Actividades y Establecimientos Turísticos se emitirá, después de la entrada en vigor de la presente Ley, con arreglo a estas normas transitorias:
+a) A las empresas ya incorporadas al Registro Regional de Empresas Turísticas, conforme a las normas reglamentarias existentes, se les expedirá de oficio.
+b) Las empresas aún no registradas, pero con establecimientos autorizados, habrán de solicitar su inscripción en el Registro General de Empresas, Actividades y Establecimientos Turísticos y, mientras ésta no se produzca, se considerarán provisionalmente autorizadas por el plazo máximo de un año a partir de la entrada en vigor de esta Ley, para el ejercicio de la actividad en cuestión.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Calendario de plazos y porcentajes.
+1. La implantación obligatoria de camas elevables –con excepción de las camas supletorias– y carros motorizados destinados a la realización de las tareas de limpieza, acondicionamiento e higiene de las unidades alojativas de los establecimientos hoteleros y extrahoteleros se ajustará al siguiente calendario:
+a) Establecimientos hoteleros de cuatro y cinco estrellas:
+– 25 % antes del 31 de diciembre de 2027.
+– 45 % antes del 31 de diciembre de 2029.
+– 75 % antes del 31 de diciembre de 2031.
+– 100 % antes del 31 de diciembre de 2033.
+b) Resto de establecimientos hoteleros, extrahoteleros y extrahoteleros de viviendas de uso turístico, incluyendo la modalidad de vivienda de uso turístico de conformidad con los límites establecidos en el artículo 44 de esta ley:
+– 10 % antes del 31 de diciembre de 2027.
+– 20 % antes del 31 de diciembre de 2029.
+– 35 % antes del 31 de diciembre de 2031.
+– 100 % antes del 31 de diciembre de 2033.
+2. Las empresas titulares de la explotación de más de tres establecimientos de alojamiento podrán optar por aplicar los porcentajes previstos al conjunto de camas de que dispongan en el territorio de la Comunidad Autónoma de Canarias, pudiendo determinar libremente el establecimiento o establecimientos en los que se realice la implantación, con independencia de su categoría, siempre que se respete el porcentaje exigible conforme al apartado anterior.
+3. Cuando, una vez expiradas las fechas límites establecidas en los apartados anteriores, no hubiera sido posible materializar la instalación efectiva por causas acreditadas de producción, suministro o logística de quienes sean proveedores, la obligación solo se considerará cumplida cuando se acredite de forma fehaciente:
+a) La existencia de un contrato de suministro formalizado dentro del plazo establecido.
+b) La efectiva fabricación o encargo en firme de las camas elevables.
+c) La identificación de quien sea proveedor, número de unidades adquiridas y fecha prevista de entrega.
+La mera existencia de pedidos, reservas no confirmadas, precontratos, manifestaciones de intención o cualquier otro documento que no garantice la obligación de entrega dentro de un plazo cierto no será considerada suficiente para entender cumplida la obligación.
+La acreditación deberá realizarse mediante certificación emitida por la empresa proveedora y validada por la Administración competente en materia laboral o turística, la cual podrá requerir documentación adicional que permita verificar la realidad material de la operación.
+4. Asimismo, las empresas titulares o las personas propietarias o explotadoras de establecimientos hoteleros o extrahoteleros que durante los años 2023, 2024 y 2025 hayan renovado las camas de sus unidades alojativas, en un porcentaje mínimo de, al menos, un 50%, acreditable mediante contrato de compraventa, formalizado y abonado en dichos años y con identificación de quien fuere proveedor, así como del número de unidades adquiridas, podrán optar por iniciar la implantación obligatoria de camas con base elevable en el establecimiento alojativo que fue objeto de renovación en dicho ámbito temporal, en las mismas escalas de porcentajes que para cada tipología de establecimiento se señalan en el punto 1 a) y 1 b) de la presente disposición transitoria tercera, en su caso, con carácter bianual antes del 31 de diciembre de los años 2029, 2031, 2033 y 2035, respectivamente.
+Se añade por el art. único.12 de la Ley 1/2026, de 28 de abril. Ref. BOE-A-2026-17187
+ Se deroga por la disposición derogatoria única de la Ley 5/1999, de 15 de marzo. Ref. BOE-A-1999-7982.
+ Se modifica por el art. único de la Ley 7/1997, de 4 de julio. Ref. BOE-A-1997-17141.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Planes urbanísticos en tramitación.
+1. En las urbanizaciones que a la entrada en vigor de esta Ley dispusieran de proyecto de urbanización aprobado y no hubieran agotado los plazos para su ejecución con arreglo a la legislación urbanística vigente, los estándares aplicables a las nuevas unidades alojativas serán los del planeamiento correspondiente, salvo los promulgados al amparo de la letra f) del artículo 35.2 de esta Ley, que serán prevalentes y de aplicación directa. En los demás casos, serán de aplicación los estándares derivados de esta Ley.
+2. Los demás requisitos derivados de esta Ley serán de aplicación conforme a la misma en todos los casos.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Normativa de aplicación a los expedientes en trámite.
+Los expedientes relativos a la obtención de licencias de construcción o de autorizaciones turísticas en trámite en la fecha de entrada en vigor de la presente Ley, se ajustarán a las disposiciones y planeamientos vigentes en el momento de su solicitud.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Informadores y guías turísticos.
+Los informadores y guías turísticos que sin la titulación académica correspondiente, hayan venido ejerciendo la profesión durante el periodo de tiempo que el Gobierno de Canarias establezca, serán objeto de habilitación oficial, previa superación de las pruebas de aptitud que se determinen por la Consejería competente en materia turística.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Funcionamiento del Consejo Regional de Turismo.
+Mientras no se desarrolle esta Ley, el Consejo Regional de Turismo, seguirá en funcionamiento de acuerdo con su normativa.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones se opongan a la presente Ley, de igual o inferior rango.
+Especialmente se deroga la Ley 3/1986, de 8 de abril, reguladora del Régimen de Disciplina en materia turística.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno de Canarias para desarrollar la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor a los tres meses de su publicación en el «Boletín Oficial de Canarias».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos que sea de aplicación esta Ley, cooperen en su cumplimiento, y que los Tribunales y autoridades a los que corresponda, la cumplan y hagan cumplir.
+Santa Cruz de Tenerife, 6 de abril de 1995.
+MANUEL HERMOSO ROJAS,
+Presidente
+
+## [INFORMACIÓN RELACIONADA]
+
+INFORMACIÓN RELACIONADA
+ Véase la Ley 6/2001, de 23 de julio, de Medidas Urgentes en Materia de Ordenación del Territorio y del Turismo de Canarias. Ref. BOE-A-2001-15386.

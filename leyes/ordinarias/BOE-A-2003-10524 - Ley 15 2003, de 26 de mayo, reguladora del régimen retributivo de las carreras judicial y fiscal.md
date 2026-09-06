@@ -1,0 +1,868 @@
+# Ley 15/2003, de 26 de mayo, reguladora del régimen retributivo de las carreras judicial y fiscal.
+
+- Identificador BOE: `BOE-A-2003-10524`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-10524
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+El Pacto de Estado para la Reforma de la Justicia, firmado el 31 de mayo de 2001, ha iniciado un ambicioso programa legislativo presidido por el objetivo de modernizar la Administración de justicia española y alcanzar un alto nivel de calidad en la prestación de un servicio público fundamental para la convivencia y la protección de los derechos de los ciudadanos, cuyo funcionamiento ágil y eficaz resulta imprescindible para la realización del Estado de Derecho consagrado en el artículo 1.1 de la Constitución.
+La realización de la tutela judicial efectiva de los derechos e intereses legítimos de los ciudadanos constituye una función pública de trascendental importancia encomendada por el artículo 117 de la Constitución a los jueces y magistrados, que aparecen así como unos servidores del Estado cuyo estatuto jurídico debe garantizar el principio de independencia en todas sus dimensiones. La regulación del régimen retributivo de los miembros de la carrera judicial se presenta de este modo, de acuerdo con el artículo 403 de la Ley Orgánica del Poder Judicial, como un elemento configurador de su independencia económica, lo que impone no sólo su regulación mediante una ley especial sino una especial atención en el tratamiento de esta materia, a la altura de su alta función de juzgar y hacer ejecutar lo juzgado. Esta regulación y tratamiento debe ser extensivo a los miembros de la carrera fiscal, con arreglo a lo establecido en su Estatuto Orgánico, en atención a la relevancia de sus funciones y de la institución a la que sirven.
+El amplio consenso social existente acerca de la necesidad de acometer sin demora el proceso de modernización de nuestra Administración de justicia exige superar el sistema retributivo actualmente vigente, sin duda insuficiente en sus cuantías, pero también injustificadamente rígido y huérfano de elementos adecuados para ponderar con equidad el rendimiento individual de los jueces, magistrados y fiscales y servir de incentivo a la dedicación profesional y a la calidad en la prestación del servicio.
+El compromiso pendiente desde 1985 de elaborar una ley especial de retribuciones de los miembros de la carrera judicial ha de abordarse hoy en el marco de una realidad social cada vez más moderna y avanzada con una creciente demanda de servicios públicos de calidad homologables a los que reciben el resto de los ciudadanos de la Unión Europea. Por esta razón, el nuevo sistema que define esta ley debe perseguir objetivos verdaderamente ambiciosos como el estímulo al esfuerzo, la vertebración de la carrera judicial, la asunción de responsabilidades y el incentivo a la formación y a la especialización.
+Para el cumplimiento de estos objetivos, el nuevo régimen de retribuciones se inspira en los principios de objetividad, equidad, transparencia y estabilidad. La objetividad se alcanza en esta materia haciendo depender la retribución de un conjunto de parámetros mensurables, comparables y legalmente determinados. La equidad exige, por su parte, que la remuneración de jueces, magistrados y fiscales sea expresiva de la dedicación, responsabilidad, categoría y rendimiento individual en el desempeño de las funciones jurisdiccionales y fiscales. Finalmente, la transparencia del sistema retributivo debe garantizarse a través de procedimientos e instrumentos técnicos que aseguren el seguimiento actualizado y riguroso de la actividad de los órganos jurisdiccionales y su conexión con los niveles retributivos, lo que constituye al mismo tiempo una pieza fundamental para hacer posible una adecuada planificación de las políticas públicas encaminadas a mejorar el funcionamiento de la Administración de Justicia.
+II
+Esta ley desarrolla el mandato asumido por el legislador en 1985 y regula el régimen retributivo de la carrera judicial a través de un sistema sumamente innovador en muchos aspectos respecto al régimen aplicable al resto de los servidores del Estado. De este modo, las retribuciones de los jueces y magistrados estarán integradas, con carácter general, por un componente fijo y otro variable por objetivos, cuyos elementos de cuantificación se regulan detalladamente en la ley.
+Las retribuciones fijas, a las que se dedica el capítulo II, aparecen estructuradas en dos categorías: retribuciones básicas y retribuciones complementarias. Las retribuciones básicas están formadas por el sueldo y la antigüedad, las cuales reflejan objetivamente la categoría dentro de la carrera judicial y el incremento proporcional sucesivo sobre el sueldo inicial, fijado en un cinco por ciento por trienio.
+Como retribuciones complementarias la ley contempla el complemento de destino y el complemento específico. El complemento de destino acoge el criterio poblacional combinado con las condiciones objetivas de representación vinculadas al cargo desempeñado y otras circunstancias asociadas al destino. El complemento específico remunera las condiciones especiales de determinadas plazas afectadas por una singular responsabilidad, complejidad o penosidad.
+La ley incorpora uno de sus elementos más novedosos en la regulación de las retribuciones variables por objetivos, cuya disciplina se establece en el capítulo III. Este segundo componente de la remuneración de los miembros de la carrera judicial atiende específicamente al rendimiento individual acreditado por cada juez o magistrado. Un sistema retributivo justo no puede ser indiferente al cumplimiento especialmente eficaz de las obligaciones profesionales y a la agilidad en el despacho de los asuntos, parámetros ambos que ponen de manifiesto el grado de satisfacción de la demanda social de calidad en la prestación de servicios públicos.
+Este componente exige determinar, en primer término, los objetivos asignados a cada destino de la carrera judicial, bien a través del sistema de módulos de dedicación actualmente vigente, bien mediante otros criterios técnicos que puedan diseñarse en el futuro por el Consejo General del Poder Judicial, previo informe favorable del Ministerio de Justicia. Al órgano de gobierno de jueces y magistrados le corresponde remitir semestralmente al Ministerio de Justicia una certificación relativa al cumplimiento de tales objetivos por los miembros de la carrera judicial, lo cual garantiza la independencia reclamada por la singular posición constitucional de los titulares del Poder Judicial.
+La retribución variable opera modulando la cuantía de las retribuciones fijas en paralelo rendimiento al acreditado en el anterior semestre. Cuando los titulares de un órgano jurisdiccional alcancen un rendimiento individual especialmente notable, cifrado en la superación en un 20 por ciento del objetivo asignado al destino, se producirá un incremento comprendido entre el cinco y el 10 por ciento de la retribución fija. En aquellos casos en que el rendimiento individual sea insuficiente, por causas directamente imputables al juez o magistrado, y no alcance el 80 por ciento del objetivo de su destino, la retribución fija se verá automáticamente minorada en un cinco por ciento de su cuantía.
+Con el propósito de atender de forma reglada la problemática que plantea la acumulación de asuntos en órganos jurisdiccionales concretos o la necesidad de acometer planes especiales para la agilización de la Administración de Justicia, el artículo 11 otorga carta de naturaleza a los actuales programas de actuación por objetivos, que requerirán, en todo caso, la autorización del Ministerio de Justicia previa constatación de la existencia de recursos presupuestarios suficientes para su financiación.
+El capítulo IV de la ley contempla como retribuciones especiales las que corresponden al desempeño de servicios de guardia y las que derivan de la prestación de servicios extraordinarios sin relevación de funciones jurisdiccionales, siendo en ambos casos compatibles con los restantes conceptos retributivos regulados en la ley y ajustándose en su devengo y cuantía a la regulación reglamentaria que apruebe el Gobierno.
+La adaptación del nuevo sistema retributivo a la carrera fiscal se realiza con automatismo en lo que se refiere a los capítulos I, II y IV del título I de la ley, con anexos específicos, dando así cumplimiento al mandato contenido en el artículo 33 de su Estatuto Orgánico. Sin embargo, la singularidad de la carrera fiscal respecto de la judicial exige que la determinación de los criterios de distribución del complemento variable y sus cuantías sea realizada mediante real decreto con arreglo a principios análogos a los establecidos para la carrera judicial en esta ley.
+El objetivo general de transparencia proclamado en la Carta de Derechos de los Ciudadanos ante la Justicia, recientemente aprobada por el Congreso de los Diputados, se articula a través de un instrumento técnico que constituye una destacada novedad en nuestro ordenamiento jurídico, obediente al firme propósito de desterrar definitivamente la opacidad informativa que dificulta el seguimiento de la actividad jurisdiccional. A través del Plan de transparencia judicial, las Cortes Generales, el Gobierno, las comunidades autónomas, el Consejo General del Poder Judicial y los propios ciudadanos tendrán a su disposición una herramienta de información continua, rigurosa y contrastada acerca de la actividad y la carga de trabajo de todos los órganos jurisdiccionales del Estado, lo que permite el tratamiento estadístico y su aplicación en todo tipo de procesos de planificación y modernización de la Administración de Justicia, enlazando así con uno de los grandes ejes programáticos del Pacto de Estado en el que se fundamenta esta ley.
+Finalmente, de conformidad con lo establecido en el punto décimo del Pacto de Estado, el Cuerpo de Secretarios Judiciales será objeto de una importante potenciación de sus funciones, incrementando sus responsabilidades y ampliando sus competencias, lo que conlleva la encomienda al Gobierno de la elaboración de un real decreto regulador de su régimen retributivo, adaptado a los principios y conceptos contenidos en esta ley y en sus anexos.
+
+## TÍTULO I
+
+De las retribuciones de la carrera judicial
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación de la ley.
+1. Esta ley tiene por objeto garantizar la independencia económica de los miembros de la carrera judicial mediante un sistema retributivo objetivo, equitativo, transparente y estable que reconozca adecuadamente la responsabilidad y dedicación de jueces y magistrados, así como su rendimiento individual en el desempeño de las funciones jurisdiccionales.
+2. Los miembros de la carrera judicial no percibirán otras retribuciones por el ejercicio de sus funciones jurisdiccionales que las establecidas en esta ley.
+3. Los miembros de la carrera judicial con categoría de magistrado del Tribunal Supremo percibirán las retribuciones que se fijen anualmente por la Ley de Presupuestos Generales del Estado.
+
+### Artículo 2
+
+Artículo 2. Conceptos retributivos.
+1. Las retribuciones de los miembros de la carrera judicial constarán de un componente fijo y otro variable por objetivos, determinados ambos con arreglo a esta ley.
+2. Las retribuciones fijas remuneran la categoría y antigüedad en la carrera judicial de cada uno de sus miembros, así como las características objetivas de las plazas que ocupan.
+3. Las retribuciones variables por objetivos, que en ningún caso son consolidables, remuneran, conforme a criterios transparentes que reglamentariamente se establezcan, el rendimiento individual de los jueces y magistrados en el desempeño de sus funciones jurisdiccionales y profesionales.
+4. Además de las retribuciones a que se refieren los apartados anteriores y compatibles con éstas, se remunerarán mediante una retribución especial el desempeño o prestación de determinados servicios, de acuerdo con las previsiones contenidas en el capítulo IV de esta ley.
+
+## CAPÍTULO II
+
+De las retribuciones fijas
+
+### Artículo 3
+
+Artículo 3. Contenido de las retribuciones fijas.
+1. Las retribuciones fijas de los miembros de la carrera judicial se descomponen en retribuciones básicas y retribuciones complementarias.
+2. Son retribuciones básicas:
+a) El sueldo.
+b) La antigüedad.
+3. Son retribuciones complementarias:
+a) El complemento de destino.
+b) El complemento específico.
+
+### Artículo 4
+
+Artículo 4. Retribuciones básicas.
+1. Mediante el sueldo se remunera la categoría que se ostenta dentro de la carrera judicial. La cuantía del sueldo para cada categoría es la establecida en el anexo I de esta ley.
+2. La antigüedad se remunerará mediante un incremento sucesivo del cinco por ciento del sueldo inicial correspondiente a la categoría de ingreso por cada tres años en servicio activo o en aquellas otras situaciones administrativas en las que se reconozca el tiempo a estos efectos.
+En el caso de que los miembros de la carrera judicial hubiesen prestado servicios previamente en otras carreras o cuerpos funcionariales tendrán derecho a seguir percibiendo, por este concepto retributivo, las cantidades correspondientes a la antigüedad acreditada en éstos.
+La fracción o tiempo inferior a un trienio se considerará a estos efectos como tiempo de servicios prestados en el cuerpo o carrera de última incorporación.
+3. Los magistrados y jueces tendrán derecho a percibir dos pagas extraordinarias al año, por importe cada una de ellas igual a una mensualidad de sueldo y antigüedad reconocidos, y en su caso una cantidad proporcional al complemento de destino en los términos que se fijen por ley para el conjunto del sector público estatal, que se harán efectivas los meses de junio y diciembre, siempre que los perceptores estuvieran en servicio activo o con derecho a devengo del sueldo el día primero de los meses indicados.
+
+### Artículo 5
+
+Artículo 5. Complemento de destino.
+1. El complemento de destino correspondiente a cada plaza de juez o magistrado se cuantificará en atención a los siguientes criterios:
+a) El grupo de población en el que se integra.
+b) Las condiciones objetivas de representación vinculadas al cargo desempeñado, y
+c) Otras circunstancias especiales asociadas al destino.
+2. Las cuantías del complemento de destino para cada plaza de juez o magistrado se recogen en el anexo II de esta ley.
+
+### Artículo 6
+
+Artículo 6. Complemento específico.
+1. Las plazas desempeñadas por jueces y magistrados podrán dotarse con un complemento específico mediante el cual se remunere su especial responsabilidad, especial formación, complejidad o penosidad.
+2. Las plazas dotadas con complemento específico y su cuantía se enumeran en el anexo III.
+
+## CAPÍTULO III
+
+Retribuciones variables por objetivos
+
+### Artículo 7
+
+Artículo 7. Contenido de las retribuciones variables por objetivos.
+Las retribuciones variables por objetivos estarán vinculadas al rendimiento individual acreditado por cada juez o magistrado en el desempeño de sus funciones jurisdiccionales y profesionales.
+
+### Artículo 8
+
+Artículo 8. Determinación de los objetivos.
+1. El objetivo para cada destino en la carrera judicial se fijará por el Consejo General del Poder Judicial con arreglo a módulos de dedicación u otros criterios técnicos que estime convenientes. Cuando la fijación de los objetivos o su modificación pueda afectar a las retribuciones variables a los que se refiere el artículo anterior, el acuerdo que lo apruebe deberá contar con informe favorable del Ministerio de Justicia. Si esta modificación tuviese repercusión presupuestaria, deberá ser informada favorablemente por el Ministerio de Hacienda. Los acuerdos adoptados en esta materia y sus modificaciones se publicarán en el «Boletín Oficial del Estado».
+2. A los efectos establecidos en este título, el Consejo General del Poder Judicial remitirá al Ministerio de Justicia, antes del día 15 de los meses de enero y julio, certificación relativa al cumplimiento por los miembros de la carrera judicial de los objetivos a que se refiere el apartado anterior.
+
+### Artículo 9
+
+Artículo 9. Cuantificación de la retribución variable.
+1. Los jueces y magistrados que en el semestre inmediatamente anterior hubiesen superado en un 20 por ciento el objetivo correspondiente a su destino tendrán derecho a percibir un incremento no inferior al cinco por ciento ni superior al 10 por ciento de sus retribuciones fijas.
+2. Los jueces y magistrados que en el semestre inmediatamente anterior no alcancen, por causas que les sean atribuibles, el 80 por ciento del objetivo correspondiente a su destino percibirán sus retribuciones fijas minoradas en un cinco por ciento, previo expediente contradictorio cuya reglamentación, trámite y resolución corresponderá al Consejo General del Poder Judicial.
+3. El crédito total destinado en cada ejercicio presupuestario a las retribuciones variables, a que se refiere el apartado 1, no podrá superar en ningún caso el cinco por ciento de la cuantía global de las retribuciones fijas de los miembros de la carrera judicial.
+El crédito destinado a las retribuciones variables se distribuirá proporcionalmente, dentro de los límites porcentuales fijados, entre quienes se encuentren en el supuesto establecido en el apartado 1.
+
+### Artículo 10
+
+Artículo 10. Cambios de destino.
+En los supuestos de cambio de destino el Consejo General del Poder Judicial realizará una estimación ponderada del rendimiento individual del juez o magistrado en los destinos ocupados en el semestre inmediatamente anterior a efectos de calcular el cumplimiento de los objetivos asignados a éstos.
+
+### Artículo 11
+
+Artículo 11. Programas de actuación por objetivos.
+1. Cuando el volumen de asuntos pendientes en un órgano jurisdiccional u otras circunstancias aconsejen establecer un programa de actuación por objetivos, éste fijará su objeto, ámbito de aplicación, duración y resultados que habrán de obtenerse.
+2. La aprobación de un programa de actuación por objetivos requerirá autorización del Ministerio de Justicia, previa constatación de la existencia de recursos presupuestarios suficientes para atender a su financiación.
+
+## CAPÍTULO IV
+
+Retribuciones especiales
+
+### Artículo 12
+
+Artículo 12. Retribuciones especiales.
+1. Tienen la condición de retribuciones especiales:
+a) Las correspondientes al desempeño de servicios de guardia.
+b) Las derivadas de la prestación de servicios extraordinarios sin relevación de funciones jurisdiccionales.
+c) Las correspondientes a las sustituciones que impliquen el desempeño conjunto de otra función.
+2. Las retribuciones especiales serán compatibles con todos los conceptos retributivos regulados en los artículos anteriores.
+3. Los requisitos de estas retribuciones, su devengo y su cuantía se regularán reglamentariamente por el Gobierno.
+
+## TÍTULO II
+
+De las retribuciones de la carrera fiscal
+
+### Artículo 13
+
+Artículo 13. Retribuciones de los miembros de la carrera fiscal.
+1. Los miembros de la carrera fiscal serán retribuidos con arreglo a lo establecido en los capítulos I, II y IV del título I de esta ley. Las cuantías de las retribuciones básicas y de los complementos de destino y específico se determinan en los anexos IV, V y VI de esta ley.
+2. Los miembros de la carrera fiscal tendrán derecho a percibir un complemento variable por objetivos compatible con las retribuciones referidas en el apartado anterior, destinado a remunerar el rendimiento y actividad extraordinaria de los fiscales. La cuantía global de este complemento no podrá exceder del porcentaje sobre el resto de las retribuciones que establezcan los Presupuestos Generales del Estado.
+
+## TÍTULO III
+
+Transparencia judicial
+
+### Artículo 14
+
+Artículo 14. Plan de transparencia judicial.
+1. El Plan de transparencia judicial constituye una herramienta básica de las Administraciones públicas y del Consejo General del Poder Judicial para la planificación, desarrollo y ejecución de las políticas públicas relativas a la Administración de Justicia, y, en particular, para las siguientes finalidades:
+a) El desarrollo del programa legislativo del Estado en materia procesal.
+b) La planificación presupuestaria en materia de retribuciones de los miembros de la carrera judicial, así como sobre los recursos humanos y materiales al servicio de la Administración de Justicia.
+c) La actualización y modificación de la organización judicial.
+d) El funcionamiento de los servicios de inspección sobre los juzgados y tribunales.
+2. El Plan de transparencia judicial asegurará la disponibilidad permanente por las Cortes Generales, el Gobierno, el Consejo General del Poder Judicial y las comunidades autónomas de información actualizada, rigurosa y debidamente contrastada sobre la actividad y carga de trabajo de todos los órganos jurisdiccionales de España, así como sobre las características estadísticas de los asuntos sometidos a su conocimiento.
+3. El Plan de transparencia judicial facilitará la obtención, tratamiento y transmisión de los datos estadísticos a través de tecnologías de la información avanzadas.
+4. El Plan de transparencia judicial será aprobado por el Gobierno, a propuesta del Ministerio de Justicia, previo informe del Consejo General del Poder Judicial, del Fiscal General del Estado y de las comunidades autónomas que hayan asumido el traspaso de funciones y servicios para la provisión de medios personales y materiales en materia de justicia.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Las cuantías fijadas en los anexos de esta ley se actualizarán de acuerdo con los incrementos retributivos anuales que proceda aplicar a los miembros de las carreras judicial y fiscal de acuerdo con lo establecido en los Presupuestos Generales del Estado para el conjunto del sector público estatal a partir del ejercicio económico 2003.
+2. Los grupos de población previstos en los anexos de esta ley podrán actualizarse mediante real decreto con las cifras de población resultantes de la revisión del padrón municipal declarados oficiales por el Gobierno.
+3. Sin perjuicio de lo anterior, al objeto de facilitar la adecuación periódica de las retribuciones de los miembros de las carreras judicial y fiscal a los fines establecidos en esta ley, se constituirá una comisión formada por tres representantes del Ministerio de Justicia y tres del Ministerio de Hacienda, designados por los titulares de los departamentos respectivos, y tres representantes del Consejo General del Poder Judicial, designados por el Pleno de éste, y un representante de la Fiscalía General del Estado. Asimismo participarán en este órgano tres representantes de las asociaciones profesionales de las carreras judicial y fiscal. La comisión se reunirá quinquenalmente al objeto de elevar al Gobierno, a través del Ministerio de Justicia, propuestas de revisión de las retribuciones adecuadas a los principios contenidos en esta ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Los jueces, magistrados y fiscales, sin perjuicio de su régimen jurídico singular, tendrán derecho a percibir las indemnizaciones que se establecen para el personal al servicio de la Administración del Estado, cuyo objeto sea resarcirles de los gastos que se vean precisados a realizar en razón al servicio o los traslados de destino.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Los miembros de las carreras judicial y fiscal tendrán derecho a percibir un complemento familiar en las mismas condiciones y cuantías que las establecidas para los funcionarios de la Administración del Estado.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Los jueces a los que se refiere el artículo 308 de la Ley Orgánica del Poder Judicial percibirán con cargo a los presupuestos del Ministerio de Justicia las retribuciones básicas correspondientes a la categoría de juez y las retribuciones complementarias, variables y especiales correspondientes al puesto de destino ocupado, una vez sean llamados para el ejercicio de las funciones a que se refieren los artículos 212.2, 216, 216 bis 1, 216 bis 2, 216 bis 3 y 216 bis 4 de la Ley Orgánica del Poder Judicial.
+En tanto permanezcan adscritos al Consejo General del Poder Judicial, sin llamamiento al ejercicio de las referidas funciones jurisdiccionales, percibirán dichas retribuciones básicas y complementarias con cargo a los presupuestos del Consejo General del Poder Judicial.
+Se modifica por la disposición adicional 10.a) de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Los miembros de la carrera judicial y fiscal de Ceuta, Melilla e islas del archipiélago canario, excepto Tenerife y Gran Canaria, tendrán derecho a percibir los incrementos anuales por trienio reconocido, previstos en concepto de indemnización por residencia, para el sector público estatal. El resto de las cuantías que hasta el momento se venían percibiendo por este concepto quedan integradas en el complemento de destino por circunstancias especiales previsto en el artículo 5 de esta ley.
+La revisión de las indemnizaciones por residencia del personal en activo del sector público estatal dará lugar a la correspondiente actualización por el Gobierno de las cuantías que perciban los miembros de la carrera judicial y fiscal por circunstancias especiales asociadas al destino.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Los magistrados destinados en secciones desplazadas de una Audiencia Provincial percibirán el complemento de destino en concepto de población correspondiente al resto de magistrados destinados en la sede de la Audiencia Provincial.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+Los miembros de las Carreras judicial y fiscal destinados en el Ministerio de Justicia de conformidad con lo dispuesto en el artículo 25 de la Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial, percibirán, en concepto de retribuciones complementarias fijadas en esta ley, el complemento de destino correspondiente a los Magistrados del Tribunal Superior de Justicia del grupo 1, cuando ostenten la categoría de magistrados o fiscales, y el complemento de destino correspondiente al grupo 5, cuando ostenten la categoría de jueces y abogados fiscales. Las retribuciones básicas serán las previstas en esta ley de acuerdo con su categoría y todos ellos podrán percibir, asimismo, cuando proceda, retribuciones variables y retribuciones especiales por el desempeño o prestación de determinados servicios, de acuerdo con las previsiones contenidas en esta ley, en la cuantía y condiciones que establezca el Ministerio de Justicia.
+Si ostentasen la categoría de magistrados del Tribunal Supremo percibirán las retribuciones que les correspondan de conformidad con las Leyes de Presupuestos Generales del Estado.
+Esta disposición adicional se aplicará con los efectos económicos previstos en la disposición transitoria primera de esta ley.
+Se añade por la disposición adicional 10.b) de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+Los Jueces de adscripción territorial a los que se refiere el artículo 347 bis de la Ley Orgánica del Poder Judicial percibirán, en concepto de retribuciones complementarias fijadas en esta Ley:
+1. Por grupo de población, el complemento de destino correspondiente a los Magistrados del Tribunal Superior de Justicia al que estuvieran adscritos.
+2. Por representación, el complemento de destino correspondiente a los Magistrados de los órganos unipersonales del grupo de población que les corresponda conforme a lo previsto en el apartado anterior.
+Las retribuciones básicas serán las previstas en esta Ley de acuerdo con su categoría.
+Se modifica por la disposición adicional 3 de la Ley 4/2010, de 10 de marzo. Ref. BOE-A-2010-4048
+ Se añade por el art. 16 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. A partir del día 1 de octubre de 2002 los miembros de las carreras judicial y fiscal incluidos en su ámbito de aplicación devengarán el 20 por ciento de la diferencia entre las retribuciones fijas y complementarias que corresponden a su destino, por aplicación del nuevo régimen retributivo, y las que devengaban por el mismo, de acuerdo con lo previsto en el Real Decreto 391/1989, de 21 de abril.
+2. Desde el 1 de octubre de 2003, devengarán el 70 por ciento de la diferencia referida en el apartado anterior.
+3. El devengo de la totalidad de las retribuciones complementarias previstas en esta ley se producirá a partir del 1 de enero de 2004.
+4. Lo dispuesto en los anteriores apartados se entenderá sin perjuicio de los incrementos retributivos anuales que proceda aplicar a los miembros de las carreras judicial y fiscal de acuerdo con lo establecido en los Presupuestos Generales del Estado para el conjunto del sector público estatal.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+El componente retributivo variable por objetivos regulado en el capítulo III de esta ley será efectivo a partir del 1 de enero de 2004, aplicándose en referencia a los objetivos alcanzados durante el año inmediatamente anterior.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+En tanto no se dicten nuevas normas reguladoras, la retribución correspondiente a la actuación accidental o esporádica en cargo retribuido en las carreras judicial y fiscal en concepto de suplencias, las sustituciones que impliquen el desempeño conjunto de otra función, la realización de funciones ajenas a las propias del puesto de trabajo, la participación en programas concretos de actuación y la realización de servicios de guardia en sus distintas modalidades continuará rigiéndose por lo dispuesto en el Real Decreto 391/1989, de 21 de abril, y en las órdenes ministeriales por las que se regula la cuantía del complemento de destino por servicios de guardia.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+1. Los fiscales y los abogados fiscales que, antes de la entrada en vigor del Real Decreto 1908/2000, de 24 de noviembre, que modificó la estructura de los grupos de población, estuviesen destinados en localidades correspondientes al grupo séptimo de población y siguiesen destinados en localidades pertenecientes a ese mismo grupo a la entrada en vigor de esta ley, percibirán un complemento personal transitorio en tanto no obtengan un nuevo destino en la carrera fiscal. La cuantía de dicho complemento se establece en el anexo V.4.
+2. Los fiscales y los abogados fiscales que, antes de la entrada en vigor del Real Decreto 1908/2000, de 24 de noviembre, que modificó la estructura de los grupos de población, estuvieren destinados en localidades correspondientes al grupo octavo de población y siguiesen destinados en las mismas localidades a la entrada en vigor de esta ley, percibirán un complemento transitorio en tanto no obtengan un nuevo destino en la carrera fiscal. La cuantía de dicho complemento se establece en el anexo V.4.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Los magistrados de órganos unipersonales y los fiscales de segunda categoría distintos de los Fiscales Jefes y Tenientes Fiscales de Audiencias Provinciales y de los fiscales coordinadores, que conforme al Real Decreto 391/1989, de 21 de abril, estuviesen destinados en localidades correspondientes al grupo cinco y queden integrados en el grupo cuarto de población previsto en los anexos II.1 y V.1 de esta ley, percibirán un complemento personal y transitorio en tanto no obtengan nuevo destino. La cuantía de dicho complemento se establece en los anexos II.4 y V.5.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Los jueces y magistrados que perciban retribuciones como consecuencia de su participación en programas concretos de actuación en su propio órgano judicial durante el último semestre de 2003 no podrán percibir la retribución variable prevista en el artículo 9.1 de esta ley por el cumplimiento de objetivos correspondientes a dicho semestre.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Esta ley no supondrá en ningún caso merma de las retribuciones actualmente percibidas por los miembros de la carrera judicial y fiscal, que mantendrán a título personal y con carácter transitorio las retribuciones a que tuvieran derecho con arreglo a la normativa anterior mientras no obtengan nuevo destino.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Queda derogada la Ley 17/1980, de 24 de abril, en los preceptos que regulan las retribuciones de miembros del Poder Judicial y del Ministerio Fiscal, así como todas aquellas disposiciones que se opongan o contradigan lo previsto en ésta.
+
+### Disposición final primera
+
+Disposición final primera.
+La cuantificación de las retribuciones contenida en los anexos de esta ley podrá ser actualizada y modificada por el Gobierno mediante real decreto, previo informe del Consejo General del Poder Judicial.
+
+### Disposición final segunda
+
+Disposición final segunda.
+El Gobierno mediante real decreto determinará la cuantía y criterios de distribución del complemento previsto en el artículo 13 con arreglo a principios análogos a los establecidos para la carrera judicial.
+
+### Disposición final tercera
+
+Disposición final tercera.
+En el plazo de tres meses el Gobierno regulará el nuevo régimen retributivo del Cuerpo de Secretarios Judiciales adecuado a los principios y conceptos retributivos recogidos en esta ley y en sus anexos.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+En el plazo de seis meses el Gobierno regulará la nueva normativa correspondiente a las retribuciones que se mencionan en la disposición transitoria tercera. Las retribuciones por servicios de guardia se regularán mediante orden ministerial, a propuesta conjunta de los Ministerios de Justicia y Hacienda.
+
+### Disposición final quinta
+
+Disposición final quinta.
+La estructura correspondiente al nuevo régimen retributivo del personal al servicio de la Administración de Justicia y la adecuación de sus cuantías se fijará atendiendo a los principios y conceptos retributivos recogidos en esta ley.
+
+### Disposición final sexta
+
+Disposición final sexta.
+La presente ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 26 de mayo de 2003.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSE MARÍA AZNAR LÓPEZ
+
+## ANEXO I
+
+Sueldo de los miembros de la carrera judicial
+Euros
+ Carrera Judicial
+ Presidente de la Audiencia Nacional (no magistrado del Tribunal Supremo).
+ 26.210,28
+ Presidente de Sala de la Audiencia Nacional (no magistrado del Tribunal Supremo).
+ 24.830,40
+ Presidente del Tribunal Superior de Justicia.
+ 25.303,20
+ Magistrado.
+ 22.492,56
+ Juez.
+ 19.680,36
+Se actualiza, para el año 2021, por el art. 27 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a2-9
+
+## ANEXO II.1
+
+Grupos de población en los que se integran los miembros de la carrera judicial
+Localidad:
+Grupo 1.
+Madrid.
+Barcelona.
+Grupo 2.
+Valencia.
+Sevilla.
+Zaragoza.
+Málaga.
+Murcia.
+Palmas de Gran Canaria (Las).
+Bilbao.
+Palma de Mallorca.
+Santa Cruz de Tenerife.
+Grupo 3.
+Valladolid.
+Córdoba.
+Vigo.
+Alicante/Alacant.
+Gijón.
+Hospitalet de Llobregat (L´).
+Granada.
+Coruña (A).
+Vitoria-Gasteiz.
+Badalona.
+Oviedo.
+Móstoles.
+Elche/Elx.
+Sabadell.
+Santander.
+Jerez de la Frontera.
+Pamplona/Iruña.
+Donostia-San Sebastián.
+Cartagena.
+Leganés.
+Fuenlabrada.
+Almería.
+Terrasa.
+Alcalá de Henares.
+Burgos.
+Salamanca.
+Albacete.
+Getafe.
+Cádiz.
+Alcorcón.
+Huelva.
+Logroño.
+Cáceres.
+Pontevedra.
+Santiago de Compostela.
+Castellón de la Plana/Castelló.
+Badajoz.
+San Cristobal de la Laguna (Tenerife).
+León.
+Grupo 4.
+Resto de destinos correspondientes a órganos judiciales servidos por magistrados.
+Grupo 5.
+Destinos correspondientes a órganos judiciales servidos por jueces.
+Se modifica el grupo 3 por art. único del Real Decreto 921/2006, de 28 de julio. Ref. BOE-A-2006-13752
+ Esta modificación surte efectos económicos a partir del 1 de enero de 2006, según establece la disposición final 1.
+
+## ANEXO II.2
+
+Complemento de destino de los miembros de la carrera judicial
+Cuantías mensuales en euros
+ Por el grupo de población
+ Por representación
+ Grupo 1
+ Presidente de la Audiencia Nacional (no magistrado del Tribunal Supremo).
+ 3.241,57
+ 3.714,25
+ Presidente de Sala de la Audiencia Nacional (no magistrado del Tribunal Supremo).
+ 3.241,57
+ 2.105,70
+ Magistrado de la Audiencia Nacional.
+ 3.178,02
+ 2.071,95
+ Magistrados del Gabinete Técnico del Tribunal Supremo.
+ 3.178,02
+ 2.071,95
+ Presidente de Tribunal Superior de Justicia.
+ 3.178,02
+ 2.071,95
+ Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.
+ 3.178,02
+ 2.071,95
+ Presidentes y Magistrados de Audiencia Provincial.
+ 3.178,02
+ 2.003,49
+ Jueces Centrales, Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.
+ 3.178,02
+ 1.327,69
+ Grupo 2
+ Presidente de Tribunal Superior de Justicia.
+ 3.112,98
+ 2.071,95
+ Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.
+ 2.714,50
+ 2.071,95
+ Presidentes y Magistrados de Audiencia Provincial.
+ 2.714,50
+ 2.003,49
+ Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.
+ 2.714,50
+ 1.327,69
+ Grupo 3
+ Presidente de Tribunal Superior de Justicia.
+ 3.050,72
+ 2.071,95
+ Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.
+ 2.568,25
+ 2.071,95
+ Presidentes y Magistrados de Audiencia Provincial.
+ 2.568,25
+ 2.003,49
+ Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.
+ 2.568,25
+ 1.327,69
+ Grupo 4
+ Presidentes y Magistrados de Audiencia Provincial.
+ 2.256,29
+ 2.003,49
+ Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.
+ 2.190,68
+ 1.292,80
+ Grupo 5
+ Jueces.
+ 2.023,68
+ 603,09
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 13 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-13
+ Redactada conforme a la corrección de errores publicada en BOE núm. 10, de 11 de enero de 2025. Ref. BOE-A-2025-461
+ Se sustituye, con efectos de 1 de enero de 2023, por el que figura en el anexo del Real Decreto 775/2023, de 3 de octubre, según establece su art. único. Ref. BOE-A-2023-20565
+ Téngase en cuenta, para la aplicación temporal progresiva de la actualización retributiva, la disposición transitoria única del citado Real Decreto.
+ Se modifica la cuantía por representación del grupo 5, con efectos económicos desde el 1 de enero de 2018, por el art. único.1 del Real Decreto de 26 de abril de 2019. Ref. BOE-A-2019-6811
+
+## ANEXO II.3
+
+Complemento de destino en los miembros de la carrera judicial por circunstancias especiales
+Cuantías mensuales en 2007 por circunstancias especiales
+Miembros de las carrera judicial destinados en el País Vasco y Navarra
+ 498,70
+ Miembros de las carrera judicial destinados en Gran Canaria y Tenerife
+ 427,58
+ Miembros de las carrera judicial destinados en otras islas del archipiélago canario
+ 534,48
+ Miembros de las carrera judicial destinados en Mallorca
+ 88,08
+ Miembros de las carrera judicial destinados en otras islas del archipiélago balear
+ 97,52
+ Miembros de las carrera judicial destinados en el Valle de Arán
+ 80,23
+ Miembros de las carrera judicial destinados en Ceuta y Melilla
+ 844,70
+Se actualiza por el art. único del Real Decreto 1170/2007, de 10 de septiembre. Ref. BOE-A-2007-16537
+ Esta modificación surte efectos económicos según establece la disposición transitoria única.
+ Se actualiza la cuantía de los destinados en Ceuta y Melilla, con efectos económicos desde el 1 de enero de 2003, por el apartado 1 del anexo de la Orden HAC/1852/2003, de 4 de julio. Ref. BOE-A-2003-13472
+
+## ANEXO II.4
+
+Complemento de destino transitorio de los miembros de la carrera judicial por la disposición transitoria quinta
+Cuantía mensual en euros
+ Magistrados incluidos en la disposición transitoria quinta
+ 346,78
+
+## ANEXO III
+
+Complemento específico de los miembros de la carrera judicial, por responsabilidad y penosidad
+Cuantías mensuales en euros
+ Por responsabilidad
+ Por penosidad
+ Presidente de la Audiencia Nacional (no magistrado del Tribunal Supremo).
+ 2.269,56
+ –
+ Presidente de Sala de la Audiencia Nacional (no magistrado del Tribunal Supremo).
+ 525,35
+ –
+ Presidente de Sala de Apelación de la Audiencia Nacional.
+ –
+ 726,03
+ Presidente de Sección de la Audiencia Nacional.
+ 140,18
+ –
+ Magistrados de Sala de Apelación de la Audiencia Nacional.
+ –
+ 726,03
+ Magistrados de Sala de lo Penal de la Audiencia Nacional.
+ –
+ 660,02
+ Presidente de Tribunal Superior de Justicia.
+ 404,76
+ –
+ Presidente de Sala de Tribunal Superior de Justicia.
+ 241,35
+ –
+ Presidente de Audiencia Provincial.
+ 301,74
+ –
+ Presidente de Sección de Audiencia Provincial.
+ 118,07
+ –
+ Jueces Centrales de Instrucción.
+ 186,87
+ 846,74
+ Jueces Centrales de lo Penal.
+ 186,87
+ 846,74
+ Jueces Centrales de Menores.
+ 186,87
+ 846,74
+ Jueces Centrales de Vigilancia Penitenciaria.
+ 186,87
+ –
+ Jueces Centrales de lo Contencioso-Administrativo.
+ 186,87
+ –
+ Pte. de Sección y Magistrado de Audiencia Provincial con ámbito de marca comunitaria y jurisdicción en todo el territorio nacional.
+ 186,87
+ –
+ Magistrados de lo Mercantil con ámbito de marca comunitaria y jurisdicción en todo el territorio nacional.
+ 186,87
+ –
+ Presidencia de Tribunal de Instancia con liberación conforme al artículo 166.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+ 326,98
+ 357,74
+ Presidencia de Tribunal de Instancia, no liberado conforme al artículo 166.2 de la Ley Orgánica del Poder Judicial, con diez o más plazas judiciales.
+ 505,81
+ –
+ Presidencia de Tribunal de Instancia, no liberado conforme al artículo 166.2 de la Ley Orgánica del Poder Judicial, con entre dos y nueve plazas judiciales.
+ 326,94
+ –
+ Presidencia de Sección de Tribunal de Instancia.
+ 118,07
+ Decanos designados conforme al artículo 166.1 de la Ley Orgánica del Poder Judicial.
+ 326,94
+ –
+ Decanos designados conforme al artículo 166.3 de la Ley Orgánica del Poder Judicial.
+ 326,94
+ 357,74
+Se modifica con efectos de 3 de abril de 2025, por la disposición final 13 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-13
+ Se modifica, con efectos de 1 de enero de 2018, por la disposición final 15 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268
+
+## ANEXO IV
+
+Sueldo de los miembros de la carrera fiscal
+Euros
+ Carrera Fiscal
+ Fiscal Superior de la Comunidad Autónoma.
+ 25.303,20
+ Fiscal.
+ 22.492,56
+ Abogado Fiscal.
+ 19.680,36
+Se actualiza, para el año 2021, por el art. 27 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a2-9
+
+## ANEXO V.1
+
+Grupos de población en los que se integran los miembros de la carrera fiscal
+Localidad:
+Grupo 1.
+Madrid.
+Barcelona.
+Grupo 2.
+Valencia.
+Sevilla.
+Zaragoza.
+Málaga.
+Murcia.
+Palmas de Gran Canaria (Las).
+Bilbao.
+Palma de Mallorca.
+Santa Cruz de Tenerife.
+Grupo 3.
+Valladolid.
+Córdoba.
+Vigo.
+Alicante/Alacant.
+Gijón.
+Hospitalet de Llobregat (L?).
+Granada.
+Coruña (A).
+Vitoria-Gasteiz.
+Badalona.
+Oviedo.
+Móstoles.
+Elche/Elx.
+Sabadell.
+Santander.
+Jerez de la Frontera.
+Pamplona/Iruña.
+Donostia-San Sebastián.
+Cartagena.
+Leganés.
+Fuenlabrada.
+Almería.
+Terrasa.
+Alcalá de Henares.
+Burgos.
+Salamanca.
+Albacete.
+Getafe.
+Cádiz.
+Alcorcón.
+Huelva.
+Logroño.
+Cáceres.
+Pontevedra.
+Santiago de Compostela.
+Castellón de la Plana/Castelló.
+Badajoz.
+San Cristobal de la Laguna (Tenerife).
+León.
+Grupo 4.
+Resto de destinos correspondientes a la segunda categoría de fiscales.
+Grupo 5.
+Resto de destinos correspondientes a la tercera categoría de fiscales, excepto fiscales de la Fiscalía Especial para la prevención y represión del tráfico ilegal de drogas y fiscales de la Fiscalía Especial para la represión de los delitos económicos relacionados con la corrupción.
+Se modifica el grupo 3 por el art. único del Real Decreto 921/2006, de 28 de julio. Ref. BOE-A-2006-13752
+ Esta modificación surte efectos económicos a partir del 1 de enero de 2006, según establece la disposición final 1.
+
+## ANEXO V.2
+
+Complemento de destino de los miembros de la carrera fiscal
+Cuantías mensuales en euros
+ Por el grupo de población
+ Por representación
+ Grupo 1:
+ Teniente Fiscal y Fiscales de la Fiscalía ante el Tribunal Constitucional.
+ 3.178,02
+ 2.159,12
+ Fiscales de la Fiscalía del Tribunal Supremo.
+ 3.178,02
+ 2.159,12
+ Teniente Fiscal y Fiscales de la Fiscalía de la Audiencia Nacional.
+ 3.178,02
+ 2.071,95
+ Fiscal Superior de Comunidad Autónoma.
+ 3.178,02
+ 2.071,95
+ Teniente Fiscal de Fiscalía de Comunidad Autónoma.
+ 3.178,02
+ 2.071,95
+ Teniente Fiscal y Fiscales de la Fiscalía del Tribunal de Cuentas.
+ 3.178,02
+ 2.071,95
+ Teniente Fiscal Inspector e Inspectores Fiscales de la Fiscalía General del Estado.
+ 3.178,02
+ 2.071,95
+ Teniente Fiscal y Fiscales de la Secretaría Técnica de la Fiscalía General del Estado.
+ 3.178,02
+ 2.071,95
+ Fiscales de la Unidad de Apoyo de la Fiscalía General del Estado.
+ 3.178,02
+ 2.071,95
+ Fiscales adscritos a Fiscales de Sala de la Fiscalía General del Estado.
+ 3.178,02
+ 2.071,95
+ Teniente Fiscal, Fiscales y Abogados Fiscales de la Fiscalía Especial Antidroga.
+ 3.178,02
+ 2.071,95
+ Teniente Fiscal, Fiscales y Abogados Fiscales de la Fiscalía Especial contra la Corrupción y la Criminalidad Organizada.
+ 3.178,02
+ 2.071,95
+ Fiscal Jefe y Teniente Fiscal de Fiscalía Provincial.
+ 3.178,02
+ 2.003,49
+ Fiscales Coordinadores.
+ 3.178,02
+ 1.885,50
+ Fiscales Decanos de secciones territoriales de Fiscalía Provincial.
+ 3.178,02
+ 1.885,50
+ Resto de destinos de la segunda categoría.
+ 3.178,02
+ 1.327,69
+ Grupo 2:
+ Fiscal Superior de Comunidad Autónoma.
+ 3.112,98
+ 2.071,95
+ Teniente Fiscal de Fiscalía de Comunidad Autónoma.
+ 2.714,50
+ 2.071,95
+ Fiscal Jefe y Teniente Fiscal de Fiscalía Provincial.
+ 2.714,50
+ 2.003,49
+ Fiscal Jefe de la Fiscalía de Área (excepto donde exista Sección de la Audiencia Provincial en sede distinta de la capital de provincia).
+ 2.714,50
+ 2.003,49
+ Fiscales Coordinadores.
+ 2.714,50
+ 1.885,50
+ Fiscales Decanos de secciones territoriales de Fiscalía Provincial.
+ 2.714,50
+ 1.885,50
+ Resto de destinos de la segunda categoría.
+ 2.714,50
+ 1.327,69
+ Grupo 3:
+ Fiscal Superior de Comunidad Autónoma.
+ 3.050,72
+ 2.071,95
+ Teniente Fiscal de Fiscalía de Comunidad Autónoma.
+ 2.568,25
+ 2.071,95
+ Fiscal Jefe y Teniente Fiscal de Fiscalía Provincial.
+ 2.568,25
+ 2.003,49
+ Fiscal Jefe de la Fiscalía de Área (excepto donde exista Sección de la Audiencia Provincial en sede distinta de la capital de provincia).
+ 2.568,25
+ 2.003,49
+ Fiscales Coordinadores.
+ 2.568,25
+ 1.885,50
+ Fiscales Decanos de secciones territoriales de Fiscalía Provincial.
+ 2.568,25
+ 1.885,50
+ Resto de destinos de la segunda categoría.
+ 2.568,25
+ 1.327,69
+ Grupo 4:
+ Fiscal Jefe y Teniente Fiscal de Fiscalía Provincial.
+ 2.256,29
+ 2.003,49
+ Fiscal Jefe de la Fiscalía de Área (Excepto donde exista Sección de la Audiencia Provincial en sede distinta de la capital de provincia).
+ 2.256,29
+ 2.003,49
+ Fiscales Coordinadores.
+ 2.256,29
+ 1.885,50
+ Fiscales Decanos de secciones territoriales de Fiscalía Provincial.
+ 2.256,29
+ 1.885,50
+ Resto de destinos de la segunda categoría.
+ 2.256,29
+ 1.327,69
+ Grupo 5:
+ Resto de destinos de la tercera categoría.
+ 2.084,29
+ 617,32
+Se sustituye por el art. único.2 del Real Decreto 85/2025, de 11 de febrero. Ref. BOE-A-2025-2574
+ Se sustituye, con efectos de 1 de enero de 2023, por el que figura en el anexo del Real Decreto 775/2023, de 3 de octubre, según establece su art. único. Ref. BOE-A-2023-20565
+ Téngase en cuenta, para la aplicación temporal progresiva de la actualización retributiva, la disposición transitoria única del citado Real Decreto.
+ Se modifica la cuantía por representación del grupo 5, con efectos económicos desde el 1 de enero de 2018, por el art. único.2 del Real Decreto de 26 de abril de 2019. Ref. BOE-A-2019-6811
+
+## ANEXO V.3
+
+Complemento de destino de los miembros de la carrera fiscal por circunstancias especiales
+Cuantías mensuales en 2007 por circunstancias especiales
+Miembros de las carrera fiscal destinados en el País Vasco y Navarra
+ 498,70
+ Miembros de las carrera fiscal destinados en Gran Canaria y Tenerife
+ 427,58
+ Miembros de las carrera fiscal destinados en otras islas del archipiélago canario
+ 534,48
+ Miembros de las carrera fiscal destinados en Mallorca
+ 88,08
+ Miembros de las carrera fiscal destinados en otras islas del archipiélago balear
+ 97,52
+ Miembros de las carrera fiscal destinados en el Valle de Arán
+ 80,23
+ Miembros de las carrera fiscal destinados en Ceuta y Melilla
+ 844,70
+Se actualiza por el art. único del Real Decreto 1170/2007, de 10 de septiembre. Ref. BOE-A-2007-16537
+ Esta modificación surte efectos económicos según establece la disposición transitoria única.
+ Se actualiza la cuantía de los destinados en Ceuta y Melilla, con efectos económicos desde el 1 de enero de 2003, por el apartado 1 del anexo de la Orden HAC/1852/2003, de 4 de julio.Ref. BOE-A-2003-13472
+
+## ANEXO V.4
+
+Complemento de destino transitorio de los miembros de la carrera fiscal por la disposición transitoria cuarta
+Cuantías mensuales en euros
+ Miembros de la carrera fiscal incluidos en la disposición transitoria cuarta, apartado 1
+ 541,01
+ Miembros de la carrera fiscal incluidos en la disposición transitoria cuarta, apartado 2
+ 204,16
+
+## ANEXO V.5
+
+Complemento de destino transitorio de los miembros de la carrera fiscal por la disposición transitoria quinta
+Cuantías mensuales en euros
+ Fiscales incluidos en la disposición transitoria quinta . . . . . . . . . . . . . . . . . . . . .
+ 346,78
+
+## ANEXO VI
+
+Complemento específico de los miembros de la carrera fiscal por responsabilidad y penosidad
+Cuantías mensuales en euros
+ Por responsabilidad
+ Por penosidad
+ Fiscal Jefe de Tribunal Superior de Justicia.
+ 404,76
+ –
+ Teniente Fiscal de Tribunal Superior de Justicia.
+ 241,35
+ –
+ Fiscal Jefe de Audiencia Provincial.
+ 301,74
+ –
+ Teniente Fiscal de Audiencia Provincial.
+ 118,07
+ –
+ Teniente Fiscal ante la Audiencia Nacional.
+ 179,1
+ 660,02
+ Fiscales de la Audiencia Nacional.
+ –
+ 660,02
+ Teniente Fiscal ante el Tribunal Constitucional.
+ 334,73
+ 504,39
+ Teniente Fiscal Inspector de la Fiscalía General del Estado.
+ 179,1
+ 379,86
+ Fiscales Inspectores de la Fiscalía General del Estado.
+ 140,18
+ 379,86
+ Fiscales de la Secretaria Técnica de la Fiscalía General del Estado.
+ 118,07
+ 379,86
+ Teniente Fiscal de la Fiscalía Especial de Prevención y Represión de Tráfico ilegal de Drogas.
+ 179,1
+ 660,02
+ Fiscales y Abogados Fiscales de la Fiscalía Especial de Prevención y Represión de Tráfico ilegal de Drogas.
+ –
+ 660,02
+ Teniente Fiscal de la Fiscalía Especial de Represión de Delitos Económicos relacionados con la Corrupción.
+ 179,1
+ 660,02
+ Fiscales y Abogados Fiscales de la Fiscalía Especial de Represión de Delitos Económicos relacionados con la Corrupción.
+ –
+ 660,02
+ Teniente Fiscal ante el Tribunal de Cuentas.
+ 179,1
+ 379,86
+ Fiscales ante el Tribunal de Cuentas.
+ –
+ 379,86
+ Fiscales coordinadores.
+ 118,07
+ –
+ Fiscales del Tribunal Supremo.
+ 326,93
+ 504,39
+ Fiscales del Tribunal Constitucional.
+ 326,93
+ 504,39
+Se sustituye por el art. único.3 del Real Decreto 85/2025, de 11 de febrero. Ref. BOE-A-2025-2574

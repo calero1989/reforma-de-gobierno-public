@@ -1,0 +1,343 @@
+# Ley Orgánica 3/1980, de 22 de abril, del Consejo de Estado.
+
+- Identificador BOE: `BOE-A-1980-8648`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1980-8648
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+
+## TÍTULO PRIMERO
+
+Disposiciones generales
+
+### Artículo primero
+
+Artículo primero.
+Uno. El Consejo de Estado es el supremo órgano consultivo del Gobierno.
+Dos. Ejerce la función consultiva con autonomía orgánica y funcional para garantizar su objetividad e independencia de acuerdo con la Constitución y las Leyes.
+Tres. Tiene su sede en el Palacio de los Consejos de Madrid y goza de los honores que según la tradición le corresponden.
+
+### Artículo segundo
+
+Artículo segundo.
+1. En el ejercicio de sus funciones, el Consejo de Estado velará por la observancia de la Constitución y del resto del ordenamiento jurídico. Valorará los aspectos de oportunidad y conveniencia cuando lo exijan la índole del asunto o lo solicite expresamente la autoridad consultante, así como la mayor eficacia de la Administración en el cumplimiento de sus fines.
+2. El Consejo de Estado emitirá dictamen sobre cuantos asuntos sometan a su consulta el Gobierno o sus miembros.
+La consulta al Consejo será preceptiva cuando en esta o en otras leyes así se establezca, y facultativa en los demás casos. Los dictámenes del Consejo no serán vinculantes, salvo que la ley disponga lo contrario.
+Los asuntos en que hubiera dictaminado el Pleno del Consejo de Estado no podrán remitirse a informe de ningún otro cuerpo u órgano de la Administración del Estado. En los que hubiera dictaminado la Comisión Permanente, solo podrá informar el Consejo de Estado en Pleno.
+Corresponderá en todo caso al Consejo de Ministros resolver en aquellos asuntos en que, siendo preceptiva la consulta al Consejo de Estado, el Ministro consultante disienta del parecer del Consejo.
+Las disposiciones y resoluciones sobre asuntos informados por el Consejo expresarán si se acuerdan conforme con el dictamen del Consejo de Estado o se apartan de él. En el primer caso, se usará la fórmula ''de acuerdo con el Consejo de Estado''; en el segundo, la de ''oído el Consejo de Estado".
+3. El Consejo de Estado realizará por sí o bajo su dirección los estudios, informes o memorias que el Gobierno le solicite y elaborará las propuestas legislativas o de reforma constitucional que el Gobierno le encomiende. Podrá llevar a cabo igualmente los estudios, informes o memorias que juzgue oportuno para el mejor desempeño de sus funciones.
+En la elaboración de las propuestas legislativas o de reforma constitucional atenderá los objetivos, criterios y límites de la reforma constitucional señalados por el Gobierno, y podrá hacer también las observaciones que estime pertinentes acerca de ellos.
+Se modifica por el art. único.1 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+## TÍTULO SEGUNDO
+
+Composición
+
+## SECCIÓN PRIMERA
+
+Sección primera. Órganos
+
+### Artículo tercero
+
+Artículo tercero.
+Uno. El Consejo de Estado actúa en Pleno, en Comisión Permanente o en Comisión de Estudios.
+Dos. También podrá actuar en secciones con arreglo a lo que dispongan su Reglamento orgánico.
+Se modifica el apartado 1 por el art. único.2 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo cuarto
+
+Artículo cuarto.
+Uno. Integran el Consejo de Estado en Pleno:
+a) El Presidente.
+b) Los Consejeros permanentes.
+c) Los Consejeros natos.
+d) Los Consejeros electivos.
+e) El Secretario general.
+Dos. El Presidente y los demás Miembros del Gobierno podrán asistir a las sesiones del Consejo en Pleno e informar en él cuando lo consideren conveniente.
+
+### Artículo quinto
+
+Artículo quinto.
+1. Componen la Comisión Permanente el Presidente, los Consejeros permanentes y el Secretario general.
+2. La Comisión de Estudios estará presidida por el Presidente del Consejo de Estado e integrada por dos Consejeros permanentes, dos natos y dos electivos, designados por el Pleno a propuesta del Presidente, así como por el Secretario General. La designación será por el plazo que fije el reglamento orgánico, sin perjuicio de su posible renovación. Otro u otros Consejeros podrán ser incorporados por el mismo procedimiento para tareas concretas y de acuerdo con dicho reglamento.
+La Comisión estará asistida por al menos un Letrado Mayor y por los Letrados que se consideren necesarios en función de las tareas encomendadas.
+Cuando la índole de los trabajos a realizar lo requiera, podrá recabarse igualmente la asistencia a la Comisión de Estudios de funcionarios de otros cuerpos de la Administración en los términos previstos en el reglamento orgánico del Consejo de Estado y, en defecto de este, en los términos que la propia Comisión determine a propuesta de su Presidente.
+Se enumera el apartado 1 y se añade el 2 por el art. único.3 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo sexto
+
+Artículo sexto.
+Uno. El Presidente del Consejo de Estado será nombrado libremente por Real Decreto acordado en Consejo de Ministros y refrendado por su Presidente entre juristas de reconocido prestigio y experiencia en asuntos de Estado.
+Dos. En las vacantes, ausencias y enfermedades del Presidente le sustituirá el Consejero permanente a quien corresponda según el orden de las Secciones.
+
+### Artículo séptimo
+
+Artículo séptimo.
+Los Consejeros Permanentes, en numero igual al de las Secciones del Consejo, son nombrados, sin límite de tiempo, por Real Decreto entre personas que están o hayan estado comprendidas en alguna de las categorías siguientes:
+1.º Ministro.
+2.º Presidente o miembro de los Consejos Ejecutivos de las Comunidades Autónomas.
+3.º Consejero de Estado.
+4.º Miembros de los Consejos consultivos u órganos equivalentes de las Comunidades Autónomas.
+5.º Letrado Mayor del Consejo de Estado.
+6.º Académico de número de las Reales Academias integradas en el Instituto de España.
+7.º Profesor numerario de disciplinas jurídicas, económicas o sociales en Facultad Universitaria, con quince años de ejercicio.
+8.º Oficial general de los Cuerpos Jurídicos de las Fuerzas Armadas.
+9.º Funcionarios del Estado con quince años de servicios al menos en Cuerpos o Escalas para cuyo ingreso se exija título universitario.
+10.º Ex Gobernadores del Banco de España.
+En el nombramiento de los Consejeros Permanentes se garantizará el principio de presencia equilibrada de mujeres y hombres de forma que cada uno de los sexos suponga como mínimo el cuarenta por ciento de aquéllos.
+Se añade el último párrafo por el art. 3.1 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#at
+ Téngase en cuenta que esta modificación se aplicará a los nombramientos de Consejeros permanentes y electivos, respectivamente, que se produzcan tras la entrada en vigor de la citada Ley Orgánica, según establece su disposición transitoria 2.2
+ Se modifica por el art. único.4 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo octavo
+
+Artículo octavo.
+1. Quienes hayan desempeñado el cargo de Presidente del Gobierno adquirirán la condición de Consejeros natos de Estado con carácter vitalicio, y en cualquier momento podrán manifestar al Presidente del Consejo de Estado su voluntad de incorporarse a él.
+Además de formar parte del Pleno del Consejo de Estado, podrán desempeñar las funciones y cometidos que se prevean en el reglamento orgánico, el cual incluirá las disposiciones pertinentes respecto de su eventual cese, renuncia o suspensión en el ejercicio efectivo del cargo de Consejero nato.
+Su estatuto personal y económico será el de los Consejeros permanentes, sin perjuicio del que les corresponda como ex Presidentes del Gobierno.
+2. Serán Consejeros natos de Estado:
+a) El Director de la Real Academia Española y los Presidentes de las Reales Academias de Ciencias Morales y Políticas y de Jurisprudencia y Legislación.
+b) El Presidente del Consejo Económico y Social.
+c) El Fiscal General del Estado.
+d) El Jefe del Estado Mayor de la Defensa.
+e) El Presidente del Consejo General de la Abogacía.
+f) El Presidente de la Comisión General de Codificación o el Presidente de su Sección Primera si aquel fuera Ministro del Gobierno.
+g) El Abogado General del Estado-Director del Servicio Jurídico del Estado.
+h) El Director del Centro de Estudios Políticos y Constitucionales.
+i) El Gobernador del Banco de España
+Se modifica por el art. único.5 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo noveno
+
+Artículo noveno.
+1. Los Consejeros electivos de Estado, en número de diez, serán nombrados por Real Decreto, por un período de cuatro años, entre quienes hayan desempeñado cualquiera de los siguientes cargos:
+a) Diputado o Senador de las Cortes Generales.
+b) Magistrado del Tribunal Constitucional, Juez o Abogado General del Tribunal de Justicia de la Unión Europea.
+c) Defensor del Pueblo.
+d) Presidente o Vocal del Consejo General del Poder Judicial.
+e) Ministro o Secretario de Estado.
+f) Presidente del Tribunal de Cuentas.
+g) Jefe del Estado Mayor de la Defensa.
+h) Presidente o miembro del Consejo Ejecutivo de Comunidad Autónoma.
+i) Embajador procedente de la carrera diplomática.
+j) Alcalde de capital de provincia, Presidente de Diputación Provincial, de Mancomunidad Interinsular, de Cabildo Insular o de Consejo Insular.
+k) Rector de Universidad.
+2. De entre los diez Consejeros electivos, dos deberán haber desempeñado el cargo de Presidente del Consejo Ejecutivo de Comunidad Autónoma por un período mínimo de ocho años. Su mandato será de ocho años.
+3. En el nombramiento de los Consejeros Electivos se garantizará el principio de presencia equilibrada de mujeres y hombres de forma que cada uno de los sexos suponga como mínimo el cuarenta por ciento de aquéllos.
+Se añade el apartado 3 por el art. 3.2 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#at
+ Téngase en cuenta que esta modificación se aplicará a los nombramientos de Consejeros permanentes y electivos, respectivamente, que se produzcan tras la entrada en vigor de la citada Ley Orgánica, según establece su disposición transitoria 2.2
+ Se modifica por el art. único.6 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo diez
+
+Artículo diez.
+Uno. El Secretario general será nombrado por Real Decreto entre los Letrados Mayores, a propuesta de la Comisión Permanente aprobada por el Pleno.
+Dos. Asistirá, con voz pero sin voto, a las sesiones del Pleno, de la Comisión Permanente y de la Comisión de Estudios.
+Se modifica por el art. único.7 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo once
+
+Artículo once.
+Uno. Los Consejeros Permanentes son inamovibles en sus cargos.
+Dos. Los Consejeros natos conservarán su condición mientras ostenten el cargo que haya determinado su nombramiento.
+Tres. Los Consejeros permanentes, y los electivos durante el periodo de su mandato, sólo podrán cesar en su condición por renuncia o por causa de delito, incapacidad permanente o incumplimiento de su función, apreciada en Real Decreto acordado en Consejo de Ministros, previa audiencia del interesado e informe favorable del Consejo de Estado en Pleno.
+Cuatro. El Gobierno, previo dictamen favorable de la Comisión Permanente, podrá designar individualmente a los Consejeros de Estado para el desempeño de cometidos especiales y participación en comisiones de estudio para cuestiones de singular relevancia o interés público.
+
+### Artículo doce
+
+Artículo doce.
+Uno. El Presidente y los Consejeros permanentes del Consejo de Estado tendrán las incompatibilidades establecidas con carácter general para los altos cargos de la Administración del Estado.
+Dos. Los cargos de Presidente y Consejero permanente serán asimismo incompatibles con los mandatos de Diputado, Senador o miembro de una Asamblea de Comunidad Autónoma.
+Tres. Sin perjuicio de las otras funciones que les encomiende la presente Ley Orgánica, tres Consejeros Permanentes designados para cada año por el Pleno a propuesta de la Comisión Permanente se integrarán en el Tribunal de Conflictos previsto en el artículo 38 de la Ley Orgánica 6/1985, de 1 de julio.
+Se añade el apartado 3 por la disposición adicional 2 de la Ley Orgánica 2/1987, de 22 de abril. Ref. BOE-A-1987-12077.
+ Se modifica el apartado 1 por el art. único de la Ley Orgánica 13/1983, de 26 de noviembre. Ref. BOE-A-1983-31431.
+
+### Artículo trece
+
+Artículo trece.
+1. Las Secciones del Consejo serán ocho como mínimo, pudiendo ampliarse dicho número reglamentariamente a propuesta de la Comisión Permanente del propio Consejo de Estado, cuando el volumen de las consultas lo exigiere.
+2. Cada Sección del Consejo de Estado se compone de un Consejero permanente que la preside, de un Letrado Mayor y de los Letrados que sean necesarios según la importancia de los asuntos o el número de las consultas.
+3. La adscripción de cada Consejero permanente a su Sección se hará en el Real Decreto de nombramiento.
+4. El Presidente, oída la Comisión Permanente, podrá constituir ponencias especiales en los supuestos y forma que determine el Reglamento y cuando, a su juicio, así lo requiera la índole de las consultas.
+5. El Presidente, oída la Comisión de Estudios, podrá disponer la realización de estudios, informes o memorias y, a tal efecto, acordar la constitución de grupos de trabajo en los supuestos y forma que determine el reglamento orgánico.
+Se añade apartado 5 por el art. único.8 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo catorce
+
+Artículo catorce.
+Uno. Los Letrados del Consejo de Estado desempeñarán las funciones de estudio, preparación y redacción de los proyectos de dictamen sobre los asuntos sometidos a consulta del Consejo, así como aquellas que, siendo adecuadas a su carácter, se determinen reglamentariamente.
+Dos. El Presidente del Consejo de Estado, a petición del Gobierno, podrá designar individualmente a un Letrado del Consejo de Estado para el desempeño de cometidos especiales y participación en comisiones de estudio sobre cuestiones de singular relevancia o interés público, siempre que resulten adecuadas a su formación.
+
+### Artículo quince
+
+Artículo quince.
+1. Las plazas vacantes en el Cuerpo de Letrados del Consejo de Estado se proveerán mediante oposición entre Licenciados universitarios en Derecho. El ascenso a Letrado Mayor se llevará a cabo entre Letrados por riguroso orden de antigüedad en el Cuerpo.
+2. Los Letrados del Consejo de Estado tendrán las incompatibilidades establecidas con carácter general para los funcionarios de la Administración Civil del Estado, salvo por lo que respecta a las funciones de carácter docente, que serán compatibles cuando no perjudiquen al buen servicio del Consejo, y siempre previa autorización del Presidente del Consejo de Estado.
+Se modifica el apartado 1 por el art. único.9 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo quince bis
+
+Artículo quince bis.
+La selección y provisión de todos los puestos de trabajo en el Consejo de Estado se realizarán teniendo en especial consideración los principios de mérito y capacidad.
+Se añade por el art. único.10 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+## SECCIÓN SEGUNDA
+
+Sección segunda. Funcionamiento
+
+### Artículo dieciséis
+
+Artículo dieciséis.
+Uno. Las deliberaciones y acuerdos del Consejo en Pleno y los de la Comisión Permanente requieren la presencia del Presidente o de quien haga sus veces, la de la mitad, al menos, de los Consejeros que lo formen y la del Secretario general o quien lo sustituya.
+Dos. El Presidente y los Consejeros de Estado tendrán la obligación de inhibirse del conocimiento de los asuntos en cuyo despacho hubieren intervenido, o que interesen a Empresas en cuya dirección, asesoramiento o administración hubieran participado ellos mismos o personas de su familia dentro del segundo grado civil por consanguinidad o afinidad.
+Tres. Los acuerdos se adoptarán por mayoría absoluta de votos de los asistentes. En caso de empate decidirá el voto de calidad del que presida.
+Cuatro. Los miembros que discrepen del dictamen o acuerdo mayoritario podrán formular voto particular por escrito, dentro del plazo que reglamentariamente se determine.
+
+### Artículo diecisiete
+
+Artículo diecisiete.
+1. La ponencia en los asuntos en que haya de entender el Consejo en Pleno corresponderá a la Comisión Permanente o a la Comisión de Estudios, atendiendo a sus respectivas competencias.
+2. Corresponde a las Secciones preparar el despacho de los asuntos de los que haya de conocer la Comisión Permanente.
+3. La distribución de asuntos entre las Secciones, según los ministerios de donde aquellos procedan o su naturaleza, se fijará por resolución del Presidente del Consejo de Estado, a propuesta de la Comisión Permanente.
+4. La Comisión de Estudios se ajustará en su actuación a lo que disponga acerca de su organización y funcionamiento el reglamento orgánico del Consejo de Estado.
+Se modifica por el art. único.11 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo dieciocho
+
+Artículo dieciocho.
+Uno. Pueden ser oídos ante el Consejo los directamente interesados en los asuntos sometidos a consulta. La audiencia se acordará por el Presidente, a petición de aquéllos o de oficio. La audiencia se concederá, en todo caso, cuando en la consulta esté directamente interesada, y así lo manifieste, una Comunidad Autónoma.
+Dos. Por conducto del órgano consultante, o directamente, pueden ser invitados a informar ante el Consejo, por escrito o de palabra, los Organismos o personas que tuvieran notoria competencia técnica en las cuestiones relacionadas con los asuntos sometidos a consulta.
+Tres. El Consejo, en todo caso, por conducto de su Presidente y a propuesta del Pleno Comisión Permanente o Sección respectiva puede solicitar del órgano consultante que se complete el expediente con cuantos antecedentes, informes y pruebas estime necesarios, incluso con el parecer de los Organismos o personas que tuviesen notoria competencia en las cuestiones relacionadas con los asuntos sometidos a dictamen.
+
+### Artículo diecinueve
+
+Artículo diecinueve.
+Uno. Cuando en la orden de remisión de los expedientes se haga constar la urgencia del dictamen, el plazo máximo para su despacho será de quince días, salvo que el Gobierno o su Presidente fijen otro inferior.
+Dos. Si el plazo fijado fuese inferior a diez días, la consulta será despachada por la Comisión Permanente, aun siendo competencia del Pleno, sin perjuicio de que el Gobierno pueda requerir ulteriormente el dictamen del Pleno.
+
+## TÍTULO TERCERO
+
+Competencia
+
+### Artículo veinte
+
+Artículo veinte.
+1. El Consejo de Estado, en Pleno o en Comisión Permanente, podrá elevar al Gobierno las propuestas que juzgue oportunas acerca de cualquier asunto que la práctica y experiencia de sus funciones le sugieran.
+2. El Consejo de Estado en Pleno elevará anualmente al Gobierno una memoria en la que, con ocasión de exponer la actividad del Consejo en el período anterior, recogerá las observaciones sobre el funcionamiento de los servicios públicos que resulten de los asuntos consultados y las sugerencias de disposiciones generales y medidas a adoptar para el mejor funcionamiento de la Administración.
+Se modifica por el art. único.12 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo veintiuno
+
+Artículo veintiuno.
+El Consejo de Estado en Pleno deberá ser consultado en los siguientes asuntos:
+1. Anteproyectos de reforma constitucional, cuando la propuesta no haya sido elaborada por el propio Consejo de Estado.
+2. Anteproyectos de leyes que hayan de dictarse en ejecución, cumplimiento o desarrollo de tratados, convenios o acuerdos internacionales y del derecho comunitario europeo.
+3. Proyectos de Decretos legislativos.
+4. Dudas y discrepancias que surjan en la interpretación o cumplimiento de tratados, convenios o acuerdos internacionales en los que España sea parte.
+5. Problemas jurídicos que suscite la interpretación o cumplimiento de los actos y resoluciones emanadas de Organizaciones internacionales o supranacionales.
+6. Reclamaciones que se formalicen como consecuencia del ejercicio de la protección diplomática y las cuestiones de Estado que revistan el carácter de controversia jurídica internacional.
+7. Anteproyectos de Ley o proyectos de disposiciones administrativas, cualquiera que fuere su rango y objeto, que afecten a la organización, competencia o funcionamiento del Consejo de Estado.
+8. Transacciones judiciales y extrajudiciales sobre los derechos de la Hacienda Pública y sometimiento o arbitraje de las contiendas que se susciten respecto de los mismos.
+9. Separación de Consejeros permanentes.
+10. Asuntos de Estado a los que el Gobierno reconozca especial trascendencia o repercusión.
+11. Todo asunto en que, por precepto expreso de una Ley, haya de consultarse al Consejo de Estado en Pleno.
+Se añade nuevo apartado 1 , se modifica el 2 y el 3 y se reenumeran los siguientes por el art. único.12 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo veintidós
+
+Artículo veintidós.
+La Comisión Permanente del Consejo de Estado deberá ser consultada en los siguientes asuntos:
+Uno. En todos los tratados o convenios internacionales sobre la necesidad de autorización de las Cortes Generales con carácter previo a la prestación del consentimiento del Estado.
+Dos. Disposiciones reglamentarias que se dicten en ejecución, cumplimiento o desarrollo de tratados, convenios o acuerdos internacionales y del derecho comunitario europeo.
+Tres. Reglamentos o disposiciones de carácter general que se dicten en ejecución de las Leyes, así como sus modificaciones.
+Cuatro. Anteproyectos de Ley Orgánica de transferencias o delegación de competencias estatales a las Comunidades Autónomas.
+Cinco. Control del ejercicio de funciones delegadas por el Estado a las Comunidades Autónomas.
+Seis. Impugnación de las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas ante el Tribunal Constitucional, con carácter previo a la interposición del recurso.
+Siete. Conflictos de atribuciones entre los distintos Departamentos ministeriales.
+Ocho. Recursos administrativos de súplica o alzada que deban conocer en virtud de disposición expresa de una Ley el Consejo de Ministros, las Comisiones Delegadas del Gobierno o la Presidencia del Gobierno.
+Nueve. Recursos administrativos de revisión.
+Diez. Revisión de oficio de disposiciones administrativas y de actos administrativos, en los supuestos previstos por las leyes.
+Once. Nulidad, interpretación y resolución de los contratos administrativos cuando se formule oposición por parte del contratista y, en todo caso, en los supuestos previstos en la legislación de contratos del Estado.
+Doce. Nulidad, interpretación, modificación y extinción de concesiones administrativas, cualquiera que sea su objeto, cuando se formule oposición por parte del concesionario y, en todo caso, cuando así lo dispongan las normas aplicables.
+Trece. Reclamaciones que, en concepto de indemnización por daños y perjuicios, se formulen a la Administración General del Estado en los supuestos establecidos por las leyes.
+Catorce. Concesión de créditos extraordinarios o suplementos de crédito.
+Quince. Concesión y rehabilitación de honores y privilegios cuando así se establezca por disposición legal.
+Dieciséis. Asuntos relativos a la organización, competencia y funcionamiento del Consejo de Estado.
+Diecisiete. Concesión de monopolios y servicios públicos monopolizados.
+Dieciocho. Todo asunto en que por precepto expreso de una Ley haya de consultarse al Consejo de Estado en Comisión Permanente.
+Diecinueve. Todo asunto en que por precepto de una Ley haya de consultarse al Consejo de Estado y no se diga expresamente que debe ser al Consejo en Pleno.
+Se modifica el apartado 13 por el art. 4 de la Ley Orgánica 4/2011, de 11 de marzo. Ref. BOE-A-2011-4551.
+ Se modifican los apartados 2, 6, 10 y 13 por el art. único.15 a 18 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+ Se suprime el inciso destacado del apartado 7 por la disposición adicional 3 de la Ley Orgánica 2/1987, de 22 de abril. Ref. BOE-A-1987-12077.
+
+### Artículo veintitrés
+
+Artículo veintitrés.
+1. La Comisión de Estudios ordenará, dirigirá y supervisará la realización de los estudios, informes o memorias encargados por el Gobierno y, una vez conclusos, emitirá juicio acerca de su suficiencia y adecuación al encargo recibido.
+2. La Comisión de Estudios elaborará las propuestas legislativas o de reforma constitucional que el Gobierno encomiende al Consejo de Estado y los someterá al Pleno, que se pronunciará sobre ellos por mayoría simple. Los miembros discrepantes podrán formular, dentro del plazo que reglamentariamente se determine, votos particulares, que se remitirán al Gobierno junto con el texto aprobado.
+Se añade nuevo y se reenumeran los siguientes por el art. único.19 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo veinticuatro
+
+Artículo veinticuatro.
+Las Comunidades Autónomas podrán, por conducto de sus Presidentes, solicitar dictamen del Consejo de Estado, bien en Pleno o en Comisión Permanente, en aquellos asuntos en que, por la especial competencia o experiencia del mismo, lo estimen conveniente.
+El dictamen será preceptivo para las comunidades autónomas que carezcan de órgano consultivo propio en los mismos casos previstos por esta ley orgánica para el Estado, cuando hayan asumido las competencias correspondientes.
+Se modifica y reenumera por el art. único.20 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo veinticinco
+
+Artículo veinticinco.
+1. El Consejo de Estado, sea en Pleno o en Comisión Permanente, puede ser oído en cualquier asunto en que, sin ser obligatoria la consulta, el Presidente del Gobierno o cualquier Ministro lo estime conveniente.
+2. El Consejo de Estado en Pleno dictaminará en aquellos asuntos en que, aunque estuvieran atribuidos a la competencia de la Comisión Permanente, así lo solicitare el Presidente del Gobierno o lo acuerde el Presidente del Consejo.
+Se modifica y reenumera por el art. único.21 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo veintiséis
+
+Artículo veintiséis.
+1. El Presidente del Consejo de Estado fija el orden del día del Pleno, de la Comisión Permanente y de la Comisión de Estudios y preside sus sesiones, ostenta la jefatura de todas las dependencias del Consejo y su representación.
+2. Al Presidente del Consejo de Estado, de conformidad con la Comisión Permanente, corresponde desarrollar la estructura presupuestaria del Consejo con arreglo a sus características, de acuerdo con la que se establezca para el sector público.
+3. Corresponde al Presidente del Consejo de Estado aprobar los gastos de los servicios a su cargo, autorizar su compromiso y liquidación e interesar del Ministro de Hacienda la ordenación de los correspondientes pagos.
+Se modifica y reenumera por el art. único.21 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+### Artículo veintisiete
+
+Artículo veintisiete.
+El Consejo de Estado elaborará su presupuesto, que figurará como una Sección dentro de los Presupuestos Generales del Estado.
+Se añade por el art. único.19 de la Ley Orgánica 3/2004, de 28 de diciembre. Ref. BOE-A-2004-21762.
+
+## DISPOSICIONES FINALES
+
+### Primera
+
+Primera.
+A la entrada en vigor de esta Ley quedarán derogados cuantos preceptos de la Ley Orgánica de 25 de noviembre de 1944 o de cualquier otra norma legal o reglamentaria se opongan de la presente Ley Orgánica.
+
+### Segunda
+
+Segunda.
+Las demás disposiciones de la Ley Orgánica de 25 de noviembre de 1944, en lo que no se opongan a la presente Ley, serán recogidas en el Reglamento Orgánico.
+
+### Tercera
+
+Tercera.
+El Gobierno, a propuesta del Consejo de Estado, aprobará el Reglamento Orgánico de ejecución y desarrollo de la presente Ley, inspirándose en cuanto a su organización y funcionamiento en los principios que se deducen de las disposiciones generales de la misma.
+
+### Cuarta
+
+Cuarta.
+A la entrada en vigor del Reglamento Orgánico quedará totalmente derogada la Ley Orgánica del Consejo de Estado de 25 de noviembre de 1944.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+Palacio Real, de Madrid, a veintidós de abril de mil novecientos ochenta.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+ADOLFO SUÁREZ GONZÁLEZ

@@ -1,0 +1,618 @@
+# Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio.
+
+- Identificador BOE: `BOE-A-1991-14392`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-14392
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de erratas publicada en BOE núm. 236, de 2 de octubre de 1991.Ref. BOE-A-1991-24239
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presenten vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+La Ley 50/1977, de 14 de noviembre, sobre Medidas Urgentes de Reforma Fiscal, estableció con carácter excepcional y transitorio un Impuesto Extraordinario sobre el Patrimonio de las Personas Físicas pendiente de configuración definitiva, como señalaba su Exposición de Motivos.
+La regulación del nuevo Impuesto sobre el Patrimonio, pone fin al carácter excepcional y transitorio que se predicaba del hasta ahora actualmente vigente, dando cumplimiento a lo que deben ser sus objetivos primordiales de equidad, gravando la capacidad de pago adicional que la posesión del patrimonio supone; de utilización más productiva de los recursos; de una mejor distribución de la renta y la riqueza y de actuación complementaria del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre Sucesiones y Donaciones.
+Hasta ahora, el Impuesto sobre el Patrimonio ha cumplido principalmente una función de carácter censal y de control del Impuesto sobre la Renta de las Personas Físicas, limitando en consecuencia su operatividad como tributo independiente y, por tanto, su capacidad distributiva.
+El nuevo Impuesto, sin olvidar estos objetivos tradicionales asume, además, otros objetivos fundamentales como la consecución de una mayor eficacia en la utilización de los patrimonios y la obtención de una mayor justicia redistributiva complementaria de la aportada por el Impuesto sobre la Renta de las Personas Físicas.
+En el plano de la técnica fiscal, el Impuesto sobre el Patrimonio se plantea como un impuesto estrictamente individual sobre las personas físicas, en el que se excluye cualquier alternativa de imposición familiar conjunta consolidando la solución establecida en la Ley 20/1989, de 28 de julio, de adaptación del Impuesto sobre la Renta de las Personas Físicas y del Impuesto Extraordinario sobre el Patrimonio de las Personas Físicas. Se trata de un tributo cuyo hecho imponible recae sobre la titularidad de bienes y derechos, objeto impositivo perfectamente separable del hecho familiar, tanto desde el punto de vista de su delimitación como desde el de la determinación de la capacidad contributiva.
+La reforma de los elementos estructurales del Impuesto sobre el Patrimonio plantea como problema central el de la valoración de los distintos elementos patrimoniales de los que es titular el sujeto pasivo. La regla más acorde con una justa determinación de la capacidad contributiva, como es la que remite esta cuestión al valor de mercado, debe ceder en muchos casos su lugar a reglas específicas de valoración en beneficio de la seguridad jurídica del contribuyente que no puede discutir anualmente con la Administración dicho valor con respecto a sus bienes. La consecuencia es la aparición en el sistema tributario de nuevas reglas de valoración respecto de bienes que ya son objeto de valoración o de comprobación de valores a efectos de otros tributos, singularmente los transmisorios, lo que determina, a su vez, la demanda de que la legislación configure un valor fiscal unitario aplicable a los bienes en todo el sistema tributario.
+No obstante, la posibilidad de configurar un valor único de los bienes y derechos, que sea válido para todo el sistema tributario y que asegure al mismo tiempo la consecución de los objetivos de suficiencia, equidad y eficiencia asignados al mismo, resulta impracticable en nuestro sistema tanto teórica como prácticamente ya que es distinto el objeto de cada impuesto y es distinta la participación esperada de cada uno en el logro de los objetivos citados. Las tesis favorables a la valoración única para su consecución no aportan una solución técnica o cuando concretan sus planteamientos, ponen de relieve su aspiración a la consolidación del menor valor de los conocidos, lo que perturbaría gravemente los fines generales a conseguir por el sistema tributario. Al respecto es muy importante tener en cuenta que los pocos países que han experimentado soluciones de valoración unitaria están revisando las mismas, después de haber sufrido fracasos totales o parciales en la obtención de resultados similares a aquéllos con que en nuestro país se pretende justificar la búsqueda de la misma solución.
+A pesar de estos inconvenientes, la reforma del Impuesto sobre el Patrimonio no renuncia a avanzar en la búsqueda de una mejor coordinación del funcionamiento de las figuras tributarias que hoy constituyen el grupo de la imposición patrimonial y de la máxima simplificación del propio impuesto, sin perder de vista, además, que la progresiva mejora de la gestión de, los valores catastrales, puede permitir en un futuro próximo la utilización de los mismos como punto de referencia valorativa unitaria, tal como hoy se demanda.
+En esta línea, se ha procurado diseñar reglas de valoración eficaces y sencillas excluyéndose definitivamente el ajuar doméstico del ámbito de aplicación del impuesto, y se ha centrado la valoración inmobiliaria en el valor catastral, propio de la imposición local.
+Los elementos cuantitativos del Impuesto sobre el Patrimonio han merecido especial atención en esta reforma. Han contribuido a ello diversos factores, no siempre del mismo signo, pero todos ellos determinantes de la necesidad de introducir profundos cambios estructurales en la definición de la carga tributaria.
+Así, la mejora de las reglas de valoración y la aspiración a una determinación correcta de la capacidad económica individual han llevado, en materia de mínimo exento, a elevar su cuantía por cada sujeto pasivo, lo cual supone, como consecuencia de la individualización del nuevo Impuesto, triplicar el mínimo exento por matrimonio que estuvo vigente en 1987.
+En la configuración de la tarifa del Impuesto ha sido elemento determinante, la consideración de que la imposición patrimonial debe pasar a desempeñar en el futuro un papel compensatorio de los efectos de la libre circulación de capitales sobre la progresividad de la imposición sobre las rentas de capital, abandonando su tradicional y exclusivo papel de control. Asimismo, se ha entendido que la tendencia a la dispersión de las fuentes de renta entre los miembros de la familia con fines de elusión fiscal que puede producir la individualización del Impuesto sobre la Renta de las Personas Físicas hacía necesaria una reconsideración en consecuencia de la estructura de la tarifa del Impuesto sobre el Patrimonio para adaptarla a esta situación.
+En consecuencia, se eleva el marginal de la tarifa, que opera para niveles de base liquidable más bajos, mientras que el mínimo se sigue manteniendo, reforzando la progresividad del Impuesto y su función redistributiva.
+Por razones de coherencia y de simplicidad se ha alterado también la estructura de la tarifa del Impuesto sobre el Patrimonio, igualándola con las del Impuesto sobre la Renta de las Personas Físicas y el Impuesto sobre Sucesiones y Donaciones, lo que permitirá determinar directamente la cuota íntegra del Impuesto, con indudables ventajas desde el punto de vista de la simplificación del cálculo.
+Otro aspecto importante a destacar es el que afecta al límite conjunto de las cuotas del Impuesto sobre el Patrimonio y el Impuesto sobre la Renta, cuyo funcionamiento ha tenido, en la práctica, efectos contraproducentes para la equidad tributaria, ya que ha posibilitado que la tributación de importantes patrimonios se diluya a través de la configuración estable o transitoria de una base imponible nula o insignificante en el Impuesto sobre la Renta. Por ello, su formulación tradicional se completa con el establecimiento de un impuesto mínimo tendente a asegurar una tributación efectiva de los sujetos pasivos que se encuentran en esta situación.
+Por último, en cuanto a la gestión del Impuesto, se mantiene el sistema actual, por lo que la titularidad de la competencia para la gestión y liquidación corresponderá a las Delegaciones o Administraciones de Hacienda o, en su caso, a las oficinas con análogas funciones de las Comunidades Autónomas que tengan cedida la gestión del Impuesto.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Naturaleza y objeto del Impuesto.
+El Impuesto sobre el Patrimonio es un tributo de carácter directo y naturaleza personal que grava el patrimonio neto de las personas físicas en los términos previstos en esta Ley.
+A los efectos de este Impuesto, constituirá el patrimonio neto de la persona física el conjunto de bienes y derechos de contenido económico de que sea titular, con deducción de las cargas y gravámenes que disminuyan su valor, así como de las deudas y obligaciones personales de las que deba responder.
+
+### Artículo 2
+
+Artículo 2. Ambito territorial.
+Uno. El Impuesto sobre el Patrimonio se aplicará en todo el territorio español, sin perjuicio de los regímenes tributarios forales de Concierto y Convenio Económico vigentes en los Territorios Históricos del País Vasco y de la Comunidad Foral de Navarra, respectivamente, y de lo dispuesto en los Tratados o Convenios internacionales que hayan pasado a formar parte del ordenamiento interno.
+Dos. La cesión del Impuesto a las Comunidades Autónomas se regirá por lo dispuesto en las normas reguladoras de la Cesión de Tributos del Estado a las Comunidades Autónomas y tendrá el alcance y condiciones que para cada una de ellas establezca su específica Ley de Cesión.
+Se modifica por el art. 28.1 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118
+
+## CAPÍTULO II
+
+Hecho imponible
+
+### Artículo 3
+
+Artículo 3. Hecho imponible.
+Constituirá el hecho imponible del Impuesto la titularidad por el sujeto pasivo en el momento del devengo, del patrimonio neto a que se refiere el párrafo segundo del artículo I de esta Ley.
+Se presumirá que forman parte del patrimonio los bienes y derechos que hubieran pertenecido al sujeto pasivo en el momento del anterior devengo, salvo prueba de transmisión o pérdida patrimonial.
+
+### Artículo 4
+
+Artículo 4. Bienes y derechos exentos.
+Estarán exentos de este Impuesto:
+Uno. Los bienes integrantes del Patrimonio Histórico Español, inscritos en el Registro General de Bienes de Interés Cultural o en el Inventario General de Bienes Muebles, a que se refiere la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, así como los comprendidos en la Disposición Adicional Segunda de dicha Ley, siempre que en éste último caso hayan sido calificados como Bienes de Interés Cultural por el Ministerio de Cultura inscritos en el Registro correspondiente.
+No obstante, en el supuesto de Zonas Arqueológicas y Sitios o Conjuntos Históricos, la exención no alcanzará a cualesquiera clase de bienes inmuebles ubicados dentro del perímetro de delimitación, sino, exclusivamente, a los que reúnan las siguientes condiciones:
+En Zonas Arqueológicas, los incluidos como objeto de especial protección en el instrumento de planeamiento urbanístico a que se refiere el artículo 20 de la Ley 16/1985, de 25 de junio.
+En Sitios o Conjuntos Históricos los que cuenten con una antigüedad igual o superior a cincuenta años y estén incluidos en el Catálogo previsto en el artículo 86 del Reglamento de Planeamiento Urbanístico como objeto de protección integral en los términos previstos en el artículo 21 de la Ley 16/1985, de 25 de junio.
+Dos. Los bienes integrantes del Patrimonio Histórico de las Comunidades Autónomas, que hayan sido calificados e inscritos de acuerdo con lo establecido en sus normas reguladoras.
+Tres. Los objetos de arte y antigüedades cuyo valor sea inferior a las cantidades que se establezcan a efectos de lo previsto en el artículo 26.4 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.
+Gozarán asimismo de exención:
+a) Los objetos de arte y antigüedades comprendidos en el artículo 19, cuando hayan sido cedidos por sus propietarios en depósito permanente por un período no inferior a tres años a Museos o Instituciones Culturales sin fin de lucro para su exhibición pública, mientras se encuentren depositados.
+b) La obra propia de los artistas mientras permanezca en el patrimonio del autor.
+Cuatro. El ajuar doméstico, entendiéndose por tal los efectos personales y del hogar, utensilios domésticos y demás bienes muebles de uso particular del sujeto pasivo, excepto los bienes a los que se refieren los artículos 18 y 19 de esta Ley
+Cinco. Los derechos de contenido económico en los siguientes instrumentos:
+a) Los derechos consolidados de los partícipes y los derechos económicos de los beneficiarios en un plan de pensiones.
+b) Los derechos de contenido económico que correspondan a primas satisfechas a los planes de previsión asegurados definidos en el apartado 3 del artículo 51 de la Ley 35/2006, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las Leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+c) Los derechos de contenido económico que correspondan a aportaciones realizadas por el sujeto pasivo a los planes de previsión social empresarial regulados en el apartado 4 del artículo 51 de la Ley 35/2006, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las Leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, incluyendo las contribuciones del tomador.
+d) Los derechos de contenido económico derivados de las primas satisfechas por el sujeto pasivo a los contratos de seguro colectivo, distintos de los planes de previsión social empresarial, que instrumenten los compromisos por pensiones asumidos por las empresas, en los términos previstos en la disposición adicional primera del texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, y en su normativa de desarrollo, así como los derivados de las primas satisfechas por los empresarios a los citados contratos de seguro colectivo.
+e) Los derechos de contenido económico que correspondan a primas satisfechas a los seguros privados que cubran la dependencia definidos en el apartado 5 del artículo 51 de la Ley 35/2006, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las Leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+f) Los derechos de contenido económico derivados de las aportaciones a productos paneuropeos de pensiones individuales regulados en el Reglamento (UE) 2019/1238 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativo a un producto paneuropeo de pensiones individuales.
+Seis. Los derechos derivados de la propiedad intelectual o industrial mientras permanezcan en el patrimonio del autor y en el caso de la pro piedad industrial no estén afectos a actividades empresariales.
+Siete. Los valores cuyos rendimientos estén exentos en virtud de lo dispuesto en el artículo 13 de la Ley de Impuesto sobre la Renta de no Residentes y Normas Tributarias.
+Ocho.
+Uno. Los bienes y derechos de las personas físicas necesarios para el desarrollo de su actividad empresarial o profesional, siempre que ésta se ejerza de forma habitual, personal y directa por el sujeto pasivo y constituya su principal fuente de renta. A efectos del cálculo de la principal fuente de renta, no se computarán ni las remuneraciones de las funciones de dirección que se ejerzan en las entidades a que se refiere el número dos de este apartado, ni cualesquiera otras remuneraciones que traigan su causa de la participación en dichas entidades.
+También estarán exentos los bienes y derechos comunes a ambos miembros del matrimonio, cuando se utilicen en el desarrollo de la actividad empresarial o profesional de cualquiera de los cónyuges, siempre que se cumplan los requisitos del párrafo anterior.
+Dos. La plena propiedad, la nuda propiedad y el derecho de usufructo vitalicio sobre las participaciones en entidades, con o sin cotización en mercados organizados, siempre que concurran las condiciones siguientes:
+a) Que la entidad, sea o no societaria, no tenga por actividad principal la gestión de un patrimonio mobiliario o inmobiliario. Se entenderá que una entidad gestiona un patrimonio mobiliario o inmobiliario y que, por lo tanto, no realiza una actividad económica cuando concurran, durante más de 90 días del ejercicio social, cualquiera de las condiciones siguientes:
+Que más de la mitad de su activo esté constituido por valores o
+Que más de la mitad de su activo no esté afecto a actividades económicas.
+A los efectos previstos en esta letra:
+Para determinar si existe actividad económica o si un elemento patrimonial se encuentra afecto a ella, se estará a lo dispuesto en el Impuesto sobre la Renta de las Personas Físicas.
+Tanto el valor del activo como el de los elementos patrimoniales no afectos a actividades económicas será el que se deduzca de la contabilidad, siempre que ésta refleje fielmente la verdadera situación patrimonial de la sociedad.
+A efectos de determinar la parte del activo que está constituida por valores o elementos patrimoniales no afectos:
+1.º No se computarán los valores siguientes:
+Los poseídos para dar cumplimiento a obligaciones legales y reglamentarias.
+Los que incorporen derechos de crédito nacidos de relaciones contractuales establecidas como consecuencia del desarrollo de actividades económicas.
+Los poseídos por sociedades de valores como consecuencia del ejercicio de la actividad constitutiva de su objeto.
+Los que otorguen, al menos, el cinco por ciento de los derechos de voto y se posean con la finalidad de dirigir y gestionar la participación siempre que, a estos efectos, se disponga de la correspondiente organización de medios materiales y personales, y la entidad participada no esté comprendida en esta letra.
+2.º No se computarán como valores ni como elementos no afectos a actividades económicas aquellos cuyo precio de adquisición no supere el importe de los beneficios no distribuidos obtenidos por la entidad, siempre que dichos beneficios provengan de la realización de actividades económicas, con el límite del importe de los beneficios obtenidos tanto en el propio año como en los últimos 10 años anteriores. A estos efectos, se asimilan a los beneficios procedentes de actividades económicas los dividendos que procedan de los valores a que se refiere el último inciso del párrafo anterior, cuando los ingresos obtenidos por la entidad participada procedan, al menos en el 90 por ciento, de la realización de actividades económicas.
+b) Que la participación del sujeto pasivo en el capital de la entidad sea al menos del 5 por 100 computado de forma individual, o del 20 por 100 conjuntamente con su cónyuge, ascendientes, descendientes o colaterales de segundo grado, ya tenga su origen el parentesco en la consanguinidad, en la afinidad o en la adopción.
+c) Que el sujeto pasivo ejerza efectivamente funciones de dirección en la entidad, percibiendo por ello una remuneración que represente más del 50 por 100 de la totalidad de los rendimientos empresariales, profesionales y de trabajo personal.
+A efectos del cálculo anterior, no se computarán entre los rendimientos empresariales, profesionales y de trabajo personal, los rendimientos de la actividad empresarial a que se refiere el número uno de este apartado.
+Cuando la participación en la entidad sea conjunta con alguna o algunas personas a las que se refiere la letra anterior, las funciones de dirección y las remuneraciones derivadas de la misma deberán de cumplirse al menos en una de las personas del grupo de parentesco, sin perjuicio de que todas ellas tengan derecho a la exención.
+La exención sólo alcanzará al valor de las participaciones, determinado conforme a las reglas que se establecen en el artículo 16.uno de esta Ley, en la parte que corresponda a la proporción existente entre los activos necesarios para el ejercicio de la actividad empresarial o profesional, minorados en el importe de las deudas derivadas de la misma, y el valor del patrimonio neto de la entidad, aplicándose estas mismas reglas en la valoración de las participaciones de entidades participadas para determinar el valor de las de su entidad tenedora.
+Tres. Reglamentariamente se determinarán:
+a) Los requisitos que deban concurrir para que sea aplicable la exención en cuanto a los bienes, derechos y deudas necesarios para el desarrollo de una actividad empresarial o profesional.
+b) Las condiciones que han de reunir las participaciones en entidades.
+Nueve. La vivienda habitual del contribuyente, según se define en el artículo 68.1.3.º de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, hasta un importe máximo de 300.000 euros.
+Se añade la letra f) al apartado 5 por la disposición final 2 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#df-2
+ Se modifica el apartado 9 por el art. único.1º.1 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809.
+ Se modifican los apartados 5 y 8.2 por la disposición final 4.1 y 2 de la Ley 35/2006, de 28 de noviembre. Ref. BOE-A-2006-20764
+ Se modifica el apartado 8 por el art. 4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Redactado conforme a la corrección de errores y errata publicada en BOE núm. 79, de 1 de abril de 2004. Ref. BOE-A-2004-5818
+ Se modifica el apartado 8.2 por la disposición adicional 11 de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286
+ Se añade el apartado 9 por el art. 25.1 de la Ley 6/2000, de 13 de diciembre. Ref. BOE-A-2000-22616
+ Se añade el apartado 9 por la disposición adicional 1.1 del Real Decreto-ley 3/2000, de 23 de junio. Ref. BOE-A-2000-11833
+ Se modifica el apartado 7 por la disposición adicional 2 de la Ley 41/1998, de 9 de diciembre. Ref. BOE-A-1998-28473
+ Se modifica el apartado 8 por el art. 3 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Redactado conforme a la corrección de errores publicada en BOE núm. 157, de 2 de julio de 1998. Ref. BOE-A-1998-15586
+ Se modifica la letra c) del apartado 8.2 por el art. 7 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+ Se añade el apartado 8 por el art. 3 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+
+## CAPÍTULO III
+
+Sujeto pasivo
+
+## Sección 1ª
+
+Sección 1.ª Normas generales
+
+### Artículo 5
+
+Artículo 5. Sujeto pasivo.
+Uno. Son sujetos pasivos del Impuesto:
+a) Por obligación personal, las personas físicas que tengan su residencia habitual en territorio español, exigiéndose el impuesto por la totalidad de su patrimonio neto con independencia del lugar donde se encuentren situados los bienes o puedan ejercitarse los derechos.
+Cuando un residente en territorio español pase a tener su residencia en otro país podrá optar por seguir tributando por obligación personal en España. La opción deberá ejercitarla mediante la presentación de la declaración por obligación personal en el primer ejercicio en el que hubiera dejado de ser residente en el territorio español.
+b) Por obligación real, cualquier otra persona física por los bienes y derechos de que sea titular cuando los mismos estuvieran situados, pudieran ejercitarse o hubieran de cumplirse en territorio español.
+A tales efectos, se considerarán situados en territorio español los valores representativos de la participación en fondos propios de cualquier tipo de entidad, no negociados en mercados organizados, cuyo activo esté constituido en al menos el 50 por ciento, de forma directa o indirecta, por bienes inmuebles situados en territorio español. Para realizar el cómputo del activo, los valores netos contables de todos los bienes contabilizados se sustituirán por sus respectivos valores de mercado determinados a la fecha de devengo del impuesto. En el caso de bienes inmuebles, los valores netos contables se sustituirán por los valores que deban operar como base imponible del impuesto en cada caso, conforme a lo dispuesto en el artículo 10 de esta ley.
+En este caso, el impuesto se exigirá exclusivamente por estos bienes o derechos del sujeto pasivo teniendo en cuenta lo dispuesto en el apartado cuatro del artículo 9 de la presente ley.
+Dos. Para la determinación de la residencia habitual se estará a los criterios establecidos en las normas del Impuesto sobre la Renta de las Personas Físicas.
+Tres. Los representantes y funcionarios del Estado español en el extranjero y de Organismos, Instituciones o de Estado extranjeros en España, quedarán sujetos a este Impuesto por obligación personal o real, atendiendo a las mismas circunstancias y condiciones que las establecidas para tales sujetos pasivos en las normas del Impuesto sobre la Renta de las Personas Físicas.
+Se modifica el apartado 1 por la disposición final 3 de la Ley 38/2022, de 27 de diciembre. Ref. BOE-A-2022-22684#df-3
+ Se modifica la letra a) del apartado 1 por el art. 33 de la Ley 6/2000, de 13 de diciembre. Ref. BOE-A-2000-22616
+ Se modifica la letra a) del apartado 1 por el art. 21 del Real Decreto-Ley 3/2000, de 23 de junio. Ref. BOE-A-2000-11833
+
+### Artículo 6
+
+Artículo 6. Representantes de los sujetos pasivos no residentes en España.
+Uno. Los sujetos pasivos no residentes en territorio español vendrán obligados a nombrar una persona física o jurídica con residencia en España para que les represente ante la Administración tributaria en relación con sus obligaciones por este impuesto, cuando operen por mediación de un establecimiento permanente o cuando por la cuantía y características del patrimonio del sujeto pasivo situado en territorio español, así lo requiera la Administración tributaria, y a comunicar dicho nombramiento, debidamente acreditado, antes del fin del plazo de declaración del impuesto.
+Dos. El incumplimiento de la obligación a que se refiere el apartado uno constituirá una infracción tributaria grave y la sanción consistirá en multa pecuniaria fija de 1.000 euros.
+La sanción impuesta conforme a los párrafos anteriores se graduará incrementando la cuantía resultante en un 100 por ciento si se produce la comisión repetida de infracciones tributarias.
+La sanción impuesta de acuerdo con lo previsto en este apartado se reducirá conforme a lo dispuesto en el apartado 3 del artículo 188 de la Ley General Tributaria.
+Tres. En todo caso, el depositario o gestor de los bienes o derechos de los no residentes responderá solidariamente del ingreso de la deuda tributaria correspondiente a este Impuesto por los bienes o derechos depositados o cuya gestión tenga encomendada, en los términos previstos en el artículo 42 de la Ley General Tributaria.
+Téngase en cuenta que se deroga, con efectos de 1 de enero de 2021, el art. único.2º del Real Decreto-ley 13/2011, de 16 de septiembre, que derogaba este artículo, según establece la disposición derogatoria primera de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#dd-2, por lo que se mantiene la redacción anterior dada por el art. único.1º.2 del citado Real Decreto-ley.
+ Se deroga, con efectos desde el 1 de enero de 2021, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 3 del Real Decreto-ley 18/2019, de 27 de diciembre. Ref. BOE-A-2019-18611#a3
+ Se deroga, con efectos desde 1 de enero de 2020, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 3 del Real Decreto-ley 27/2018, de 28 de diciembre. Ref. BOE-A-2018-17991
+ Se deroga, con efectos desde 1 de enero de 2019, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 73 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-69
+ Se deroga, con efectos desde 1 de enero de 2018, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 4 del Real Decreto-ley 3/2016, de 2 de diciembre. Ref. BOE-A-2016-11475#a4.
+ Se deroga, con efectos desde el 1 de enero de 2017, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre, Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 66 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644#a66.
+ Se deroga, con efectos desde el 1 de enero de 2016, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 61 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+ Se deroga, con efectos desde el 1 de enero de 2015, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 72 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se deroga, con efectos desde el 1 de enero de 2014, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 10.2 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se añade por el art. único.1º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809.
+ Este artículo se deroga con efectos de 1 de enero de 2013 según establece el art. único.2º.2.
+ Se deroga por el art. 3.2 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Esta derogación es aplicable a partir del 1 enero de 2008, según establece la disposición final 5.b).
+ Se modifican los apartados 1 y 2 por la disposición final 3 de la Ley 58/2003, de 17 de diciembre. Ref. BOE-A-2003-23186
+ Se convierten a euros las cuantías contempladas en el apartado 2 por el anexo I de la Resolución de 20 de noviembre de 2001. Ref. BOE-A-2001-22447
+ Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 2, de 2 de enero de 2002. Ref. BOE-A-2002-36
+ Se modifica por la disposición final 7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+ Se modifica el apartado 1 por la disposición adicional 16.2 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+
+## Sección 2ª
+
+Sección 2.ª Atribución e imputación de patrimonios
+
+### Artículo 7
+
+Artículo 7. Titularidad de los elementos patrimoniales.
+Los bienes y derechos se atribuirán a los sujetos pasivos según la normas sobre titularidad jurídica aplicables en cada caso y en función de las pruebas aportadas por aquéllos o de las descubiertas por la Administración.
+En su caso, serán de aplicación las normas sobre titularidad jurídica de los bienes y derechos contenidas en las disposiciones reguladoras del régimen económico del matrimonio, así como en los preceptos de la legislación civil aplicables en cada caso a las relaciones patrimoniales entre los miembros de la familia.
+La titularidad de los bienes y derechos que conforme a las disposiciones o pactos reguladores del correspondiente régimen económico matrimonial, sean comunes a ambos cónyuges, se atribuirá por mitad a cada uno de ellos, salvo que se justifique otra cuota de participación.
+Cuando no resulte debidamente acreditada la titularidad de los bienes o derechos, la Administración Tributaria tendrá derecho a considerar como titular a quien figure como tal en un registro fiscal u otros de carácter público.
+Las cargas, gravámenes, deudas y obligaciones, se atribuirán a los sujetos pasivos según las reglas y criterios de los párrafos anteriores.
+
+### Artículo 8
+
+Artículo 8. Bienes o derechos adquiridos con precio aplazado o reserva de dominio.
+Uno. Cuando se trate de la adquisición de bienes o derechos con contraprestación aplazada, en todo o en parte, el valor del elemento patrimonial que resulte de las normas del Impuesto, se imputará íntegramente al adquirente del mismo, quien incluirá entre sus deudas la parte de la contraprestación aplazada.
+Por su parte, el vendedor incluirá entre los derechos de su patrimonio el crédito correspondiente a la parte de la contraprestación aplazada.
+Dos. En caso de venta de bienes con reserva de dominio, mientras la propiedad no se transmita al adquirente, el derecho de éste se computará por la totalidad de las cantidades que hubiera entregado hasta la fecha del devengo del Impuesto, constituyendo dichas cantidades deudas del vendedor, que será a quien se impute el valor del elemento patrimonial que resulte de las normas del Impuesto.
+
+## CAPÍTULO IV
+
+Base imponible
+
+### Artículo 9
+
+Artículo 9. Concepto.
+Uno. Constituye la base imponible de este impuesto el valor del patrimonio neto del sujeto pasivo.
+Dos. El patrimonio neto se determinará por diferencia entre:
+a) El valor de los bienes y derechos de que sea titular el sujeto pasivo, determinado conforme a las reglas de los artículos siguientes, y
+b) Las cargas y gravámenes de naturaleza real, cuando disminuyan el valor de los respectivos bienes o derechos, y las deudas u obligaciones personales de las que deba responder el sujeto pasivo.
+Tres. No obstante lo dispuesto en el apartado anterior, no se deducirán para la determinación del patrimonio neto las cargas y gravámenes que correspondan a los bienes exentos.
+Cuatro. En los supuestos de obligación real de contribuir, sólo serán deducibles las cargas y gravámenes que afecten a los bienes y derechos que radiquen en territorio español o puedan ejercitarse o hubieran de cumplirse en el mismo, así como las deudas por capitales invertidos en los indicados bienes.
+
+### Artículo 10
+
+Artículo 10. Bienes Inmuebles.
+Los bienes de naturaleza urbana o rústica se computarán de acuerdo a las siguientes reglas:
+Uno. Por el mayor valor de los tres siguientes: El valor catastral, el determinado o comprobado por la Administración a efectos de otros tributos o el precio, contraprestación o valor de la adquisición.
+Dos. Cuando los bienes inmuebles estén en fase de construcción, se estimará como valor patrimonial las cantidades que efectivamente se hubieran invertido en dicha construcción hasta la fecha del devengo del Impuesto, además del correspondiente valor patrimonial del solar. En caso de propiedad horizontal, la parte proporcional en el valor del solar se determinará según el porcentaje fijado en el título.
+Tres. Los derechos sobre bienes inmuebles adquiridos en virtud de contratos de multipropiedad, propiedad a tiempo parcial o fórmulas similares, se valorarán según la siguientes reglas:
+a) Si suponen la titularidad parcial del inmueble, según las reglas del apartado uno anterior.
+b) Si no comportan la titularidad parcial del inmueble, por el precio de adquisición de los certificados u otros títulos representativos de los mismos.
+Se modifica el apartado 1 por el art. 5.1 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#aq
+
+### Artículo 11
+
+Artículo 11. Actividades Empresariales y Profesionales.
+Los bienes y derechos de las personas físicas afectos a actividades empresariales o profesionales según las normas del Impuesto sobre la Renta de las Personas Físicas, se computarán por el valor que resulte de su contabilidad, por diferencia entre el activo real y el pasivo exigible, siempre que aquélla se ajuste a lo dispuesto en el Código de Comercio.
+No obstante lo dispuesto en el párrafo anterior, los bienes inmuebles afectos a actividades empresariales o profesionales, se valorarán en todo caso conforme a lo previsto en el artículo anterior, salvo que formen parte del activo circulante y el objeto de aquéllas consista exclusivamente en el desarrollo de actividades empresariales de construcción o promoción inmobiliaria.
+En defecto de contabilidad la valoración será la que resulte de la aplicación de las demás normas de este Impuesto.
+
+### Artículo 12
+
+Artículo 12. Depósitos en cuenta corriente o de ahorro, a la vista o a plazo.
+Los depósitos en cuenta corriente o de ahorro, a la vista o a plazo, que no sean por cuenta de terceros, así como las cuentas de gestión de tesorería y cuentas financieras o similares, se computarán por el saldo que arrojen en la fecha del devengo del Impuesto, salvo que aquél resultase inferior al saldo medio correspondiente al último trimestre del año, en cuyo caso se aplicará este último.
+Para el cálculo de dicho saldo medio no se computarán los fondos retirados para la adquisición de bienes y derechos que figuren en el patrimonio o para la cancelación o reducción de deudas.
+Cuando el importe de una deuda originada por un préstamo o crédito haya sido objeto de ingreso en el último trimestre del año en alguna de las cuentas a que se refiere el párrafo primero, no se computará para determinar el saldo medio y tampoco se deducirá como tal deuda.
+
+### Artículo 13
+
+Artículo 13. Valores representativos de la cesión a terceros de capitales propios, negociados en mercados organizados.
+Los valores representativos de la cesión a terceros de capitales propios, negociados en mercados organizados, se computarán según su valor de negociación media del cuarto trimestre de cada año, cualquiera que sea su denominación, representación y la naturaleza de los rendimientos obtenidos.
+A estos efectos, por el Ministerio de Economía y Hacienda se publicará anualmente la relación de valores que se negocien en Bolsa, con su cotización media correspondiente al cuarto trimestre de cada año.
+
+### Artículo 14
+
+Artículo 14. Demás valores representativos de la cesión a terceros de capitales propios.
+Los valores representativos de la cesión a terceros de capitales propios, distintos de aquellos a que se refiere el artículo anterior, se valorarán por su nominal, incluidas, en su caso, las primas de amortización o reembolso cualquiera, que sea su denominación, representación y la naturaleza de los rendimientos obtenidos.
+
+### Artículo 15
+
+Artículo 15. Valores representativos de la participación en fondos propios de cualquier tipo de entidad, negociados en mercados organizados.
+Uno. Las acciones y participaciones en el capital social o fondos propios de cualesquiera entidades jurídicas negociadas en mercados organizados, salvo las correspondientes a Instituciones de Inversión Colectiva, se computarán según su valor de negociación media del cuarto trimestre de cada año.
+A estos efectos, por el Ministerio de Economía y Hacienda se publicará anualmente la relación de los valores que se negocien en mercados organizados, con su cotización media correspondiente al cuarto trimestre del año.
+Dos. Cuando se trate de suscripción de nuevas acciones no admitidas todavía a cotización oficial, emitidas por entidades jurídicas que coticen en mercados organizados, se tomará como valor de estas acciones el de la última negociación de los títulos antiguos dentro del período de suscripción.
+Tres. En los supuestos de ampliaciones de capital pendientes de desembolso, la valoración de las acciones se hará de acuerdo con las normas anteriores, como si estuviesen totalmente desembolsadas, incluyendo la parte pendiente de desembolso como deuda del sujeto pasivo.
+Se modifica por el art. 2.1 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Redactado el apartado 3 conforme a la corrección de erratas publicada en BOE núm. 236, de 2 de octubre de 1991. Ref. BOE-A-1991-24239
+
+### Artículo 16
+
+Artículo 16. Demás valores representativos de la participación en fondos propios de cualquier tipo de entidad.
+Uno. Tratándose de acciones y participaciones distintas de aquellas a que se refiere el artículo anterior, la valoración de las mismas se realizará por el valor teórico resultante del último balance aprobado, siempre que éste, bien de manera obligatoria o voluntaria, haya sido sometido a revisión y verificación y el informe de auditoría resultara favorable.
+En el caso de que el balance no haya sido auditado o el informe de auditoría no resultase favorable, la valoración se realizará por el mayor valor de los tres siguientes: el valor nominal, el valor teórico resultante del último balance aprobado o el que resulte de capitalizar al tipo del 20 por 100 el promedio de los beneficios de los tres ejercicios sociales cerrados con anterioridad a la fecha del devengo del Impuesto.
+A este último efecto, se computarán como beneficios los dividendos distribuidos y las asignaciones a reservas, excluidas las de regularización o de actualización de balances.
+Dos. Las acciones y participaciones en el capital social o en el fondo patrimonial de las Instituciones de Inversión Colectiva se computarán por el valor liquidativo en la fecha del devengo del impuesto, valorando los activos incluidos en balance de acuerdo con las normas que se recogen en su legislación específica y siendo deducibles las obligaciones con terceros.
+Tres. La valoración de las participaciones de los socios o asociados, en el capital social de las cooperativas se determinará en función del importe total de las aportaciones sociales desembolsadas, obligatorias o voluntarias, resultante del último balance aprobado, con deducción, en su caso, de las pérdidas sociales no reintegradas.
+Cuatro. A los efectos previstos en este artículo, las entidades deberán suministrar a los socios, asociados o partícipes certificados con las valoraciones correspondientes.
+Se modifica por el art. 2.2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+
+### Artículo 17
+
+Artículo 17. Seguros de vida y rentas temporales o vitalicias.
+Uno. Los seguros de vida se computarán por su valor de rescate en el momento del devengo del Impuesto.
+No obstante, en los supuestos en los que el tomador no tenga la facultad de ejercer el derecho de rescate total en la fecha de devengo del impuesto, el seguro se computará por el valor de la provisión matemática en la citada fecha en la base imponible del tomador.
+Lo dispuesto en el párrafo anterior no se aplicará a los contratos de seguro temporales que únicamente incluyan prestaciones en caso de fallecimiento o invalidez u otras garantías complementarias de riesgo.
+Dos. Las rentas temporales o vitalicias, constituidas como consecuencia de la entrega de un capital en dinero, bienes muebles o inmuebles, deberán computarse por su valor de capitalización en la fecha del devengo del Impuesto, aplicando las mismas reglas que para la constitución de pensiones se establecen en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+No obstante, cuando se perciban rentas, temporales o vitalicias, procedentes de un seguro de vida, estas se computarán por el valor establecido en el apartado Uno de este artículo.
+Se modifica por el art. 5.2 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#aq
+
+### Artículo 18
+
+Artículo 18. Joyas, pieles de carácter suntuario y vehículos, embarcaciones y aeronaves.
+Las joyas, pieles de carácter suntuario, automóviles, vehículos de dos o tres ruedas, cuya cilindrada sea igual o superior a 125 centímetros cúbicos, embarcaciones de recreo o de deportes náuticos, aviones, avionetas, veleros y demás aeronaves, se computarán por el valor de mercado en la fecha de devengo del Impuesto.
+Los sujetos pasivos podrán utilizar, para determinar el valor de mercado, las tablas de valor ación de vehículos usados aprobadas por el Ministerio de Economía y Hacienda, a efectos del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados y del Impuesto sobre Sucesiones y Donaciones, que estuviesen vigentes en la fecha de devengo del Impuesto.
+
+### Artículo 19
+
+Artículo 19. Objetos de arte y antigüedades.
+Uno. Los objetos de arte o antigüedades se computarán por el valor de mercado en la fecha de devengo del Impuesto.
+Dos. Sin perjuicio de la exención que se contempla en el artículo 4 apartados Uno, Dos y Tres de la presente Ley, se entenderá por:
+a) Objetos de arte: Las pinturas, esculturas, dibujos, grabados, litografías u otros análogos, siempre que en todos los casos, se trate de obras originales.
+b) Antigüedades: Los bienes muebles, útiles u ornamentales, excluidos los objetos de arte, que tengan más de cien años de antigüedad y cuyas características originales fundamentales no hubieran sido alteradas por modificaciones o reparaciones efectuadas durante los cien últimos años.
+
+### Artículo 20
+
+Artículo 20. Derechos reales.
+Los derechos reales de disfrute y la nuda propiedad se valorarán con arreglo a los criterios señalados en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, tomando, en su caso, como referencia el valor asignado al correspondiente bien de acuerdo con las reglas contenidas en la presente Ley.
+
+### Artículo 21
+
+Artículo 21. Concesiones administrativas.
+Las concesiones administrativas para la explotación de servicios o bienes de dominio o titularidad pública, cualquiera que sea su duración, se valorarán con arreglo a los criterios señalados en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+
+### Artículo 22
+
+Artículo 22. Derechos derivados de la Propiedad Intelectual e Industrial.
+Los derechos derivados de la Propiedad Intelectual e Industrial, adquiridos de terceros, deberán incluirse en el patrimonio del adquirente por su valor de adquisición, sin perjuicio de lo previsto en el artículo 11 de esta Ley.
+
+### Artículo 23
+
+Artículo 23. Opciones contractuales.
+Las opciones de contratos se valorarán, de acuerdo con lo que establece el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentos.
+
+### Artículo 24
+
+Artículo 24. Demás bienes y derechos de contenido económico.
+Los demás bienes y derechos de contenido económico, atribuibles al sujeto pasivo, se valorarán por su precio de mercado en la fecha del devengo del Impuesto.
+
+### Artículo 25
+
+Artículo 25. Valoración de las deudas.
+Uno. Las deudas se valorarán por su nominal en la fecha del devengo del impuesto y sólo serán deducibles siempre que estén debidamente justificadas.
+Dos. No serán objeto de deducción:
+a) Las cantidades avaladas, hasta que el avalista esté obligado a pagar la deuda, por haberse ejercitado el derecho contra el deudor principal y resultar este fallido. En el caso de obligación solidaria, las cantidades avaladas no podrán deducirse hasta que se ejercite el derecho contra el avalista.
+b) La hipoteca que garantice el precio aplazado en la adquisición de un bien, sin perjuicio de que sí lo sea el precio aplazado o deuda garantizada.
+Tres. En ningún caso serán objeto de deducción las deudas contraídas para la adquisición de bienes o derechos exentos. Cuando la exención sea parcial, será deducible, en su caso, la parte proporcional de las deudas.
+Se añade el apartado 3 por el art. 25.2 de la Ley 6/2000, de 13 de diciembre. Ref. BOE-A-2000-22616
+ Se añade el apartado 3 por la disposición adicional 1.2 del Real Decreto-Ley 3/2000, de 23 de junio. Ref. BOE-A-2000-11833
+
+### Artículo 26
+
+Artículo 26. Determinación de la base imponible.
+Con carácter general, la base imponible se determinará en régimen de estimación directa.
+Cuando concurran las circunstancias previstas en el artículo 50 de la Ley General Tributaria, será aplicable el régimen de estimación indirecta de bases tributarias.
+
+### Artículo 27
+
+Artículo 27. Tasación pericial.
+La tasación pericial contradictoria a que se refiere la Ley General Tributaria sólo será de aplicación a los bienes y derechos mencionados en los artículos 18, 19 y 24 de esta Ley, excepto cuando se haga uso de lo previsto en el párrafo segundo del artículo 18.
+
+## CAPÍTULO V
+
+Base liquidable
+
+### Artículo 28
+
+Artículo 28. Base liquidable.
+Uno. En el supuesto de obligación personal, la base imponible se reducirá, en concepto de mínimo exento, en el importe que haya sido aprobado por la Comunidad Autónoma.
+Dos. Si la Comunidad Autónoma no hubiese regulado el mínimo exento a que se refiere el apartado anterior, la base imponible se reducirá en 700.000 euros.
+Tres. El mínimo exento señalado en el apartado anterior será aplicable en el caso de sujetos pasivos no residentes que tributen por obligación personal de contribuir y a los sujetos pasivos sometidos a obligación real de contribuir.
+Se modifica por el art. único.1º.3 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809.
+ Se modifica por el art. 59.1 de la Ley 21/2001, de 27 de diciembre.Ref. BOE-A-2001-24962
+ Se modifica el apartado 2, con efectos desde 1 de enero de 2000, por el art. 63 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785
+ Se modifica el apartado 2, con efectos a partir del 1 de enero de 1999, por el art. 61 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154
+ Se modifica por el art. 28.2 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118
+ Se modifica, con efectos desde el 1 de enero de 1995, por el art. 66 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+ Téngase en cuenta para su aplicación la disposición transitoria 7.2.
+
+## CAPÍTULO VI
+
+Devengo del Impuesto
+
+### Artículo 29
+
+Artículo 29. Devengo del Impuesto.
+El Impuesto se devengará el 31 de diciembre de cada año y afectará al patrimonio del cual sea titular el sujeto pasivo en dicha fecha.
+
+## CAPÍTULO VII
+
+Deuda Tributaria
+
+### Artículo 30
+
+Artículo 30. Cuota íntegra.
+La base liquidable del Impuesto será gravada a los tipos de la siguiente escala:
+1. La base liquidable del impuesto será gravada a los tipos de la escala que haya sido aprobada por la Comunidad Autónoma.
+2. Si la Comunidad Autónoma no hubiese aprobado la escala a que se refiere el apartado anterior, la base liquidable del Impuesto será gravada a los tipos de la siguiente escala:
+Base liquidable
+ –
+ Hasta euros
+ Cuota
+ –
+ Euros
+ Resto Base liquidable
+ –
+ Hasta euros
+ Tipo aplicable
+ –
+ Porcentaje
+ 0,00
+ 167.129,45
+ 334.252,88
+ 668.499,75
+ 1.336.999,51
+ 2.673.999,01
+ 5.347.998,03
+ 10.695.996,06
+ 0,00
+ 334,26
+ 835,63
+ 2.506,86
+ 8.523,36
+ 25.904,35
+ 71.362,33
+ 183.670,29
+ 167.129,45
+ 167.123,43
+ 334.246,87
+ 668.499,76
+ 1.336.999,50
+ 2.673.999,02
+ 5.347.998,03
+ En adelante
+ 0,2
+ 0,3
+ 0,5
+ 0,9
+ 1,3
+ 1,7
+ 2,1
+ 3,5
+3. En el caso de obligación real de contribuir, la tarifa aplicable será la establecida en el apartado anterior. La misma tarifa será aplicable en el caso de sujetos pasivos no residentes que tributen por obligación personal de contribuir.
+Se modifica por el art. 66 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a6-8
+ Se modifica por el art. 59.2 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962
+ Se convierten a euros las cuantías contempladas en el apartado 2 por el punto 3 de la Resolución 1/2001, de 27 de abril. Ref. BOE-A-2001-8543
+ Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 110, de 8 de mayo de 2001. Ref. BOE-A-2001-8793
+ Se modifica el apartado 2, con efectos desde el 1 de enero de 2000, por el art. 64 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785
+ Se modifica el apartado 2, con efectos a partir del 1 de enero de 1999, por el art. 62 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154
+ Se modifica el segundo tramo de la escala del Impuesto sobre el Patrimonio por la disposición adicional 23.3 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052
+ Se modifica por el art. 28.3 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118
+ Se modifica por el art. 21 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Se modifica, con efectos desde el 1 de enero de 1995, por el art. 67 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+
+### Artículo 31
+
+Artículo 31. Límite de la cuota íntegra.
+Uno. La cuota íntegra de este Impuesto conjuntamente con las cuotas del Impuesto sobre la Renta de las Personas Físicas, no podrá exceder, para los sujetos pasivos sometidos al impuesto por obligación personal, del 60 por 100 de la suma de las bases imponibles de este último. A estos efectos:
+a) No se tendrá en cuenta la parte de la base imponible del ahorro derivada de ganancias y pérdidas patrimoniales que corresponda al saldo positivo de las obtenidas por las transmisiones de elementos patrimoniales adquiridos o de mejoras realizadas en los mismos con más de un año de antelación a la fecha de transmisión, ni la parte de las cuotas íntegras del Impuesto sobre la Renta de las Personas Físicas correspondientes a dicha parte de la base imponible del ahorro.
+Se sumará a la base imponible del ahorro el importe de los dividendos y participaciones en beneficios a los que se refiere la letra a) del apartado 6 de la disposición transitoria vigésima segunda del texto refundido de la Ley del Impuesto sobre Sociedades aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
+b) No se tendrá en cuenta la parte del Impuesto sobre el Patrimonio que corresponda a elementos patrimoniales que, por su naturaleza o destino, no sean susceptibles de producir los rendimientos gravados por la Ley del Impuesto sobre la Renta de las Personas Físicas.
+c) En el supuesto de que la suma de ambas cuotas supere el límite anterior, se reducirá la cuota del Impuesto sobre el Patrimonio hasta alcanzar el límite indicado, sin que la reducción pueda exceder del 80 por 100.
+Dos. Cuando los componentes de una unidad familiar hayan optado por la tributación conjunta en el Impuesto sobre la Renta de las Personas Físicas, el límite de las cuotas íntegras conjuntas de dicho Impuesto y de la del Impuesto sobre el Patrimonio, se calculará acumulando las cuotas íntegras devengadas por aquéllos en este último tributo. En su caso, la reducción que proceda practicar se prorrateará entre los sujetos pasivos en proporción a sus respectivas cuotas íntegras en el Impuesto sobre el Patrimonio, sin perjuicio de lo dispuesto en el apartado anterior.
+Se modifica por la disposición final 4.3 de la Ley 35/2006, de 28 de noviembre. Ref. BOE-A-2006-20764
+ Se modifica por la disposición final 4 de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-24711
+
+### Artículo 32
+
+Artículo 32. Impuestos satisfechos en el extranjero.
+1. En el caso de obligación personal de contribuir y sin perjuicio de lo que se disponga en los Tratados o Convenios Internacionales, de la cuota de este Impuesto se deducirá, por razón de bienes que radiquen y derechos que pudieran ejercitarse o hubieran de cumplirse fuera de España, la cantidad menor de las dos siguientes:
+a) El importe efectivo de lo satisfecho en el extranjero, por razón de gravamen de carácter personal que afecte a los elementos patrimoniales computados en el Impuesto.
+b) El resultado de aplicar el tipo medio efectivo del Impuesto a la parte de base liquidable gravada en el extranjero.
+2. Se entenderá por tipo medio efectivo de gravamen, el resultado de multiplicar por 100 el cociente obtenido de dividir la cuota íntegra resultante de la aplicación de la escala por la base liquidable. El tipo medio efectivo de gravamen se expresará con dos decimales.
+3. La Comunidad Autónoma, de acuerdo con lo previsto en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, podrá establecer deducciones en este impuesto, que resultarán compatibles con las establecidas por el Estado sin que puedan suponer su modificación, aplicándose con posterioridad a las estatales.
+Se modifica por el art. 59.3 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962
+
+### Artículo 33
+
+Artículo 33. Bonificación general de la cuota íntegra.
+Sobre la cuota íntegra del impuesto se aplicará una bonificación del 100 por ciento a los sujetos pasivos por obligación personal o real de contribuir.
+Téngase en cuenta que esta redacción, establecida por el art. único.2.1 Real Decreto-ley 13/2011, de 16 de septiembre Ref. BOE-A-2011-14809#aunico, produce efectos desde el 1 de enero de 2021, según la redacción dada por el art. 3 del Real Decreto-ley 18/2019, de 27 de diciembre. Ref. BOE-A-2019-18611#a3
+ Redacción anterior, dada por el art. único.1.4 del citado Real Decreto-ley 13/2011:
+ "Artículo 33. Bonificación de la cuota en Ceuta y Melilla.
+ Uno. Si entre los bienes o derechos de contenido económico computados para la determinación de la base imponible figurase alguno situado o que debiera ejercitarse o cumplirse en Ceuta y Melilla y sus dependencias, se bonificará en el 75 por ciento la parte de la cuota que proporcionalmente corresponda a los mencionados bienes o derechos.
+ La anterior bonificación no será de aplicación a los no residentes en dichas ciudades, salvo por lo que se refiera a valores representativos del capital social de entidades jurídicas domiciliadas y con objeto social en las citadas ciudades o cuando se trate de establecimientos permanentes situados en las mismas.
+ Dos. La Comunidad Autónoma, de acuerdo con lo previsto en la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias, podrá establecer deducciones en este impuesto, que resultarán compatibles con las establecidas por el Estado sin que puedan suponer su modificación, aplicándose con posterioridad a las estatales."
+Se modifica, con efectos desde el 1 de enero de 2021, por el art. único.2.1 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 3 del Real Decreto-ley 18/2019, de 27 de diciembre. Ref. BOE-A-2019-18611#a3
+ Se modifica, con efectos desde 1 de enero de 2020, por el art. único.2.1 del Real Decreto-ley 13/2011, de 16 de septiembre Ref. BOE-A-2011-14809#aunico, en la redacción dada por el art. 3 del Real Decreto-ley 27/2018, de 28 de diciembre. Ref. BOE-A-2018-17991
+ Se modifica, con efectos desde 1 de enero de 2019, por el art. único.2.1 del Real Decreto-ley 13/2011, de 16 de septiembre Ref. BOE-A-2011-14809#aunico, en la redacción dada por el art. 73 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-69
+ Se modifica, con efectos desde 1 de enero de 2018, por el art. único.2.1 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 4 del Real Decreto-ley 3/2016, de 2 de diciembre. Ref. BOE-A-2016-11475#a4.
+ Se modifica, con efectos desde 1 de enero de 2017, por el art. único.2.1 del Real Decreto-ley 13/2011, de 16 de septiembre, Ref. BOE-A-2011-14809#aunico., en la redacción dada el art. 66 de la Ley 48/2015, de 29 de octubre . Ref. BOE-A-2015-11644#a66.
+ Se modifica, con efectos desde 1 de enero de 2016, por el art. único.2.1 del Real Decreto-ley 13/2011, de 16 de septiembre, Ref. BOE-A-2011-14809., en la redacción dada por el art. 61 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+ Se modifica, con efectos a partir del 1 de enero de 2015, por el art. único.2.1 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 72 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se modifica, con efectos a partir del 1 de enero de 2014, por el art. único.2.1 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 10.1 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica por los arts.único.1.4 y único 2.1 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809.
+ Téngase en cuenta que la modificación del art.único.1.4 tiene efectos hasta el 1 de enero de 2013, en que empezará a regir la del art. único.2º.1.
+ Se modifica por el art. 3.1 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Esta modificación es aplicable a partir del 1 enero de 2008, según establece la disposición final 5.b).
+ Se modifica por el art. 2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se modifica por el art. 59.4 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962
+
+### Artículo 34
+
+Artículo 34. Responsabilidad patrimonial.
+Las deudas tributarias por el Impuesto sobre el Patrimonio tendrán la misma consideración de aquellas otras a las cuales se refiere el artículo 1.365 del Código Civil y, en consecuencia los bienes gananciales responderán directamente frente a la Hacienda Pública por estas deudas.
+
+## CAPÍTULO VIII
+
+Gestión del Impuesto
+
+### Artículo 35
+
+Artículo 35. Normas generales.
+La titularidad de las competencias de gestión, liquidación, recaudación inspección y revisión del Impuesto corresponde al Estado sin perjuicio de lo dispuesto en las respectivas Leyes de Cesión a las Comunidades Autónomas.
+
+### Artículo 36
+
+Artículo 36. Autoliquidación.
+Uno. Los sujetos pasivos están obligados a presentar declaración, a practicar autoliquidación y, en su caso, a ingresar la deuda tributaria en el lugar, forma y plazos que se determinen por el titular del Ministerio de Economía y Hacienda.
+Dos. El pago de la deuda tributaria podrá realizarse mediante entrega de bienes integrantes del patrimonio histórico español que estén inscritos en el Inventario General de Bienes Muebles o en el Registro General de Bienes de Interés Cultural, de acuerdo con lo dispuesto en el artículo 73 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.
+Téngase en cuenta que se deroga, con efectos de 1 de enero de 2021, el art. único.2º del Real Decreto-ley 13/2011, de 16 de septiembre, que derogaba este artículo, según establece la disposición derogatoria primera de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#dd-2, por lo que se mantiene la redacción anterior dada por el art. único.1º.5 del citado Real Decreto-ley.
+ Se deroga, con efectos desde el 1 de enero de 2021, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 3 del Real Decreto-ley 18/2019, de 27 de diciembre. Ref. BOE-A-2019-18611#a3
+ Se deroga, con efectos desde 1 de enero de 2020, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 3 del Real Decreto-ley 27/2018, de 28 de diciembre. Ref. BOE-A-2018-17991
+ Se deroga, con efectos desde 1 de enero de 2019, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 73 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-69
+ Se deroga, con efectos desde 1 de enero de 2018, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 4 del Real Decreto-ley 3/2016, de 2 de diciembre. Ref. BOE-A-2016-11475#a4.
+ Se deroga, con efectos desde el 1 de enero de 2017, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 66 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644#a66.
+ Se deroga, con efectos desde el 1 de enero de 2016, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 61 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+ Se deroga, con efectos desde el 1 de enero de 2015, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 72 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se deroga, con efectos desde el 1 de enero de 2014, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 10.2 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se añade por el art. único.1º.5 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809.
+ Este artículo se deroga con efectos de 1 de enero de 2013 según establece el art. único.2º.2.
+ Se deroga por el art. 3.2 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Esta derogación es aplicable a partir del 1 enero de 2008, según establece la disposición final 5.b).
+
+### Artículo 37
+
+Artículo 37. Personas obligadas a presentar declaración.
+Están obligados a presentar declaración los sujetos pasivos cuya cuota tributaria, determinada de acuerdo con las normas reguladoras del Impuesto y una vez aplicadas las deducciones o bonificaciones que procedieren, resulte a ingresar, o cuando, no dándose esta circunstancia, el valor de sus bienes o derechos, determinado de acuerdo con las normas reguladoras del impuesto, resulte superior a 2.000.000 euros.
+Téngase en cuenta que se deroga, con efectos de 1 de enero de 2021, el art. único.2º del Real Decreto-ley 13/2011, de 16 de septiembre, que derogaba este artículo, según establece la disposición derogatoria primera de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#dd-2, por lo que se mantiene la redacción anterior dada por el art. único.1º.6 del citado Real Decreto-ley.
+ Se deroga, con efectos desde el 1 de enero de 2021, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 3 del Real Decreto-ley 18/2019, de 27 de diciembre. Ref. BOE-A-2019-18611#a3
+ Se deroga, con efectos desde 1 de enero de 2020, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 3 del Real Decreto-ley 27/2018, de 28 de diciembre. Ref. BOE-A-2018-17991
+ Se deroga, con efectos desde 1 de enero de 2019, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 73 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-69
+ Se deroga, con efectos desde 1 de enero de 2018, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 4 del Real Decreto-ley 3/2016, de 2 de diciembre. Ref. BOE-A-2016-11475#a4.
+ Se deroga, con efectos desde el 1 de enero de 2017, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico, en la redacción dada por el art. 66 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644#a66.
+ Se deroga, con efectos desde el 1 de enero de 2016, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 61 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+ Se deroga, con efectos desde el 1 de enero de 2015, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 72 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se deroga, con efectos desde el 1 de enero de 2014, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 10.2 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se añade por el art. único.1º.6 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809.
+ Este artículo se deroga con efectos de 1 de enero de 2013 según establece el art. único.2º.2.
+ Se deroga por el art. 3.2 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Esta derogación es aplicable a partir del 1 enero de 2008, según establece la disposición final 5.b).
+ Se modifica, con efectos desde el 1 de enero de 2000, por el art. 65 de la ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785
+ Se modifica, con efectos a partir del 1 de enero de 1999, por el art. 63 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154
+ Se modifica, con efectos desde el 1 de enero de 1995, por el art. 68 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+
+### Artículo 38
+
+Artículo 38. Presentación de la declaración.
+La persona titular del Ministerio de Hacienda y Función Pública podrá aprobar la utilización de modalidades simplificadas o especiales de declaración.
+La declaración se efectuará en la forma, plazos y modelos que establezca la persona titular del Ministerio de Hacienda y Función Pública.
+A estos efectos, podrá establecerse la obligación de presentación por medios electrónicos.
+Los sujetos pasivos deberán cumplimentar la totalidad de los datos que les afecten contenidos en las declaraciones y acompañar los documentos y justificantes que se establezcan por la persona titular del Ministerio de Hacienda y Función Pública.
+Se modifica por la disposición final 4 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#df-4
+ Téngase en cuenta que se deroga, con efectos de 1 de enero de 2021, el art. único.2º del Real Decreto-ley 13/2011, de 16 de septiembre, que derogaba este artículo, según establece la disposición derogatoria primera de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#dd-2, por lo que se mantiene la redacción anterior dada por el art. único.1º.7 del citado Real Decreto-ley.
+ Se deroga, con efectos desde el 1 de enero de 2021, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 3 del Real Decreto-ley 18/2019, de 27 de diciembre. Ref. BOE-A-2019-18611#a3
+ Se deroga, con efectos desde 1 de enero de 2020, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 3 del Real Decreto-ley 27/2018, de 28 de diciembre. Ref. BOE-A-2018-17991
+ Se deroga, con efectos desde 1 de enero de 2019, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 73 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-69
+ Se deroga, con efectos desde 1 de enero de 2018, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 4 del Real Decreto-ley 3/2016, de 2 de diciembre. Ref. BOE-A-2016-11475#a4.
+ Se deroga, con efectos desde el 1 de enero de 2017, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809#aunico., en la redacción dada por el art. 66 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644#a66.
+ Se deroga, con efectos desde el 1 de enero de 2016, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 61 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+ Se deroga, con efectos desde el 1 de enero de 2015, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 72 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se deroga, con efectos desde el 1 de enero de 2014, por el art. único.2º.2 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809., en la redacción dada por el art. 10.2 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se añade por el art. único.1º.7 del Real Decreto-ley 13/2011, de 16 de septiembre. Ref. BOE-A-2011-14809.
+ Este artículo se deroga con efectos de 1 de enero de 2013 según establece el art. único.2º.2.
+ Se deroga por el art. 3.2 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Esta derogación es aplicable a partir del 1 enero de 2008, según establece la disposición final 5.b).
+
+## CAPÍTULO IX
+
+Infracciones y Sanciones
+
+### Artículo 39
+
+Artículo 39. Infracciones y Sanciones.
+Sin perjuicio de las normas especiales contenidas en la presente Ley, las infracciones tributarias en este Impuesto se calificarán y sancionarán con arreglo a lo dispuesto en la Ley General Tributaria.
+
+## CAPÍTULO X
+
+Orden Jurisdiccional
+
+### Artículo 40
+
+Artículo 40. Orden Jurisdiccional.
+La jurisdicción contencioso-administrativa previo agotamiento de la vía económico-administrativa, será la única competente para dirimir las controversias de hecho y de derecho que se susciten entre la Administración y los sujetos pasivos en relación con cualquiera de las cuestiones a que se refiere la presente Ley.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La cesión del rendimiento de este Impuesto a las Comunidades Autónomas se regirá por lo dispuesto en la correspondiente Ley de Cesión.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Sin perjuicio de las adaptaciones que se hagan precisas, las referencias contenidas en el ordenamiento jurídico al Impuesto Extraordinario sobre el Patrimonio de las Personas Físicas o al Impuesto sobre el Patrimonio Neto se entenderán efectuadas al Impuesto sobre el Patrimonio.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+El artículo 15 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones, quedará redactado en los siguientes términos:
+«Artículo 15. Ajuar doméstico.
+El ajuar doméstico formará parte de la masa hereditaria y se valorará en el tres por ciento del importe del caudal relicto del causante, salvo que los interesados asignen a este ajuar un valor superior o prueben fehacientemente su inexistencia o que su valor es inferior al que resulte de la aplicación del referido porcentaje.»
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Especialidades de la tributación de los contribuyentes no residentes.
+Los contribuyentes no residentes tendrán derecho a la aplicación de la normativa propia aprobada por la Comunidad Autónoma donde radique el mayor valor de los bienes y derechos de que sean titulares y por los que se exija el impuesto, porque estén situados, puedan ejercitarse o hayan de cumplirse en territorio español.
+Se modifica por el art. 5.3 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#aq
+ Se añade por la disposición final 4 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.
+
+### Disposición transitoria
+
+Disposición transitoria.
+(Derogada)
+Se deroga por el art. 3.2 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Esta modificación es aplicable a partir del 1 enero de 2008, según establece la disposición final 5.b).
+
+### Disposición final primera
+
+Disposición final primera.
+Las disposiciones contenidas en esta Ley comenzarán a regir el día 1 de enero de 1992 quedando derogadas a partir de su entrada en vigor, la Ley 50/1977, de 14 de noviembre, en cuanto se refiera al Impuesto Extraordinario sobre el Patrimonio de las Personas Físicas, así como la Orden Ministerial de 14 de enero de 1978 y demás disposiciones que se opongan a lo establecido en la misma sin perjuicio de la exigibilidad por la Administración de las deudas tributarias devengadas durante su vigencia por los ejercicios anteriores no prescritos.
+No obstante, la Disposición Transitoria entrará en vigor al día siguiente de la publicación de esta Ley en el «Boletín Oficial del Estado».
+
+### Disposición final segunda
+
+Disposición final segunda.
+La Ley de Presupuestos Generales del Estado podrá modificar, de conformidad con lo previsto en el apartado 7 del artículo 134 de la Constitución Española, las exenciones, las reducciones de la base imponible, el límite determinante de la obligación de declarar, los tramos de la base liquidable, los tipos de la tarifa y demás parámetros cuantitativos del Impuesto sobre el Patrimonio.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 6 de junio de 1991.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

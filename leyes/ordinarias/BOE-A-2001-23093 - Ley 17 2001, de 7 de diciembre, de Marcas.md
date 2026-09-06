@@ -1,0 +1,1314 @@
+# Ley 17/2001, de 7 de diciembre, de Marcas.
+
+- Identificador BOE: `BOE-A-2001-23093`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-23093
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS IREY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+La presente Ley tiene por objeto el régimen jurídico de los signos distintivos, categoría jurídica que configura uno de los grandes campos de la propiedad industrial.
+La legislación sobre este tipo de propiedad es competencia exclusiva del Estado, de conformidad con el artículo 149.1.9.º de la Constitución.
+Las razones que justifican la necesidad de reformar la Ley de Marcas, dando lugar a una nueva Ley, obedecen a tres órdenes de motivos. El primero, dar cumplimiento a la sentencia del Tribunal Constitucional 103/1999, de 3 de junio, que delimita las competencias que en materia de propiedad industrial corresponden a las Comunidades Autónomas y al Estado. El segundo, incorporar a nuestra legislación de marcas las disposiciones de carácter comunitario e internacional a que está obligado o se ha comprometido el Estado español. El tercer motivo, finalmente, obedece a la conveniencia de introducir en nuestro ordenamiento jurídico ciertas normas de carácter sustantivo y procedimental que vienen aconsejadas por la experiencia obtenida bajo la vigencia de la Ley anterior, las prácticas seguidas por otras legislaciones de nuestro entorno y la necesidad de adaptar nuestro sistema de registro de marcas a las exigencias de la nueva Sociedad de la Información.
+II
+En lo que se refiere a los motivos de carácter constitucional, la Ley plasma fielmente los criterios jurisprudenciales de delimitación de competencias, atribuyendo éstas a los órganos autonómicos o estatales conforme a lo dispuesto en la citada sentencia del Tribunal Constitucional. Los puntos de conexión se fijan de un modo amplio y flexible, para dar una correcta cobertura a las necesidades de los usuarios del sistema de registro y facilitarles un adecuado acceso a esta especial propiedad que constituye la protección de los signos distintivos.
+III
+En orden a los compromisos adquiridos por el Estado español, la presente Ley da cumplimiento a los mismos, respondiendo a los altos niveles de armonización impuestos en el seno de la Comunidad Europea e Internacional.
+La armonización comunitaria en materia de marcas se ha operado fundamentalmente a través de la Primera Directiva 89/104/CEE del Consejo, de 21 de diciembre de 1988, relativa a la aproximación de las legislaciones de los Estados miembros en materia de marcas. Sus disposiciones, que ya fueron incorporadas por la Ley 32/1988, de Marcas, también han sido objeto de una plena transposición en la presente Ley. De las normas que se transponen deben destacarse las siguientes:
+nuevo concepto de marca, reformulación de las causas de denegación y nulidad del registro, extensión al ámbito comunitario del agotamiento del derecho de marca, incorporación de la figura de la prescripción por tolerancia y reforzamiento de la obligación de uso de la marca y de las sanciones por su incumplimiento.
+Dentro del Derecho Comunitario de Marcas merece también una mención especial el Reglamento (CE) número 40/94 del Consejo, de 20 de diciembre de 1993, sobre la marca comunitaria, por el que se crea un signo distintivo cuyos efectos se extienden a todo el territorio de la Comunidad. Si bien es cierto que este Reglamento no impone a los Estados miembros dictar disposiciones de aproximación de las marcas nacionales a la comunitaria -salvo la obligación de regular la transformación de una marca comunitaria en marca nacional-, no lo es menos que la indicada aproximación es deseable, dado que permite evitar que dos títulos que producen idénticos efectos en España estén sujetos a normativas totalmente dispares. En este sentido muchas de las normas de la presente Ley son directamente tributarias de dicho Reglamento.
+La Ley que ahora se aprueba contiene asimismo las reglas necesarias para adaptar nuestro Derecho a los esfuerzos armonizadores realizados en el seno de la Comunidad Internacional. De este modo, se incorporan las normas que permiten la aplicación en España del Protocolo concerniente al Arreglo de Madrid relativo al Registro Internacional de Marcas, de 27 de junio de 1989; el Acuerdo sobre los Aspectos de los Derechos de Propiedad Intelectual Relacionados con el Comercio (Acuerdo ADPIC), que forma parte integrante del Acuerdo por el que se establece la Organización Mundial del Comercio (OMC), de 15 de abril de 1994; así como el Tratado sobre el Derecho de Marcas y su Reglamento, de 27 de octubre de 1994.
+Comenzando por el Protocolo, su incorporación al Derecho español ha exigido reformar el Título que en la Ley se dedica a las marcas internacionales. Así, se admite la posibilidad de que la solicitud se funde no sólo en el registro nacional de marca, sino en su mera solicitud. Al mismo tiempo, se aprovecha la oportunidad para colmar ciertas lagunas, entre las que destaca la ausencia de cobertura legal para el examen nacional de una solicitud internacional. Al igual que ocurre con la marca comunitaria, también aquí se contempla la posibilidad de transformación en marca nacional.
+Menor relevancia presenta la incorporación de las directrices contenidas en el ADPIC. Es incuestionable el extraordinario efecto que este Acuerdo ha tenido sobre la regulación mundial de la propiedad intelectual -incluidas las marcas-, al adaptarlo a las últimas exigencias del comercio internacional. Sin embargo, las reglas que en el indicado Acuerdo se dedican a las marcas ya han sido parcialmente recogidas en la Ley 32/1988, al estar ésta directamente inspirada en el entonces Proyecto de Primera Directiva Comunitaria de Armonización que, a su vez, influyó decisivamente en el ADPIC. Por ello, la adecuación a este Acuerdo sólo ha precisado las siguientes medidas específicas: la ampliación de la legitimación para poder solicitar el registro de una marca en España a los nacionales de los miembros de la Organización Mundial del Comercio (OMC); la incorporación del concepto de causas justificativas de la falta de uso de la marca; la protección reforzada de las marcas notorias registradas; y, finalmente, la introducción de una nueva prohibición absoluta de registro relativa a las falsas indicaciones geográficas de vinos y bebidas espirituosas, aun cuando no induzcan a error.
+La respuesta de la Ley de Marcas a las exigencias contenidas en los instrumentos internacionales se ve culminada con la adecuación al Tratado sobre Derecho de Marcas, adoptado en el marco de la Organización Mundial de la Propiedad Intelectual. Es éste un tratado sobre formalidades y sobre formularios-tipo que, por medio de una unificación de alcance mundial de las solemnidades que han de seguirse en la solicitud de una marca y en las incidencias que pudieran acontecer durante su existencia, persigue simplificar y abaratar el registro de marcas en el mundo.
+Entre las modificaciones a que ha dado lugar la recepción de este Tratado destacan la implantación de la marca multiclase (sistema que ya era aplicable a las marcas internacionales que entran en la fase nacional española); la consiguiente creación de tasas por clase; la supresión del deber de declaración de uso de la marca; la admisión de la división de la solicitud o registro de la marca; la supresión de la exigencia de titulación pública como requisito de inscripción del cambio de titularidad de una marca, si bien se mantiene el sistema tradicional con carácter optativo; y, por último, la desaparición de las tasas quinquenales. Todas estas modificaciones se incorporan a la nueva Ley, aunque las dos últimas ya fueron introducidas en nuestro ordenamiento (Ley 14/1999, de 4 de mayo, de Tasas y Precios Públicos por servicios prestados por el Consejo de Seguridad Nuclear), al haber entrado en vigor para España dicho Tratado el 17 de marzo de 1999 y no permitirse en el mismo demorar su instauración, a diferencia de lo que ocurre con el resto de las otras modificaciones, que ahora se implantan, pues las mismas pudieron posponerse hasta el 1 de agosto de 2002 en el acto de depósito del Instrumento de Ratificación mediante la oportuna declaración.
+IV
+No todas las novedades que introduce la presente Ley obedecen a la necesidad de armonizar nuestro Derecho con los Ordenamientos Comunitario e Internacional.
+Existe un considerable número de artículos en los que se recogen opciones legislativas cuyo común denominador es el de dotar a la marca de un procedimiento ágil y lógico, introduciendo aquellas novedades que aconseja la experiencia de diez años de aplicación de la Ley de Marcas y aquellas otras que, habiendo revelado su utilidad en Estados de nuestro entorno jurídico, se hacen merecedoras de ser acogidas por nuestro Derecho. La Ley trata así de dar respuesta a la creciente demanda de agilidad y eficiencia que exigen nuestras empresas en la nueva Sociedad de la Información. Todo ello sin pérdida de los niveles de seguridad jurídica que la adquisición de estos derechos requiere.
+La nueva Ley atempera el automatismo formal del nacimiento del derecho de marca, basado en el carácter constitutivo del registro, con el establecimiento del principio de la buena fe registral, al prever, como causa autónoma, la nulidad absoluta del registro de una marca, cuando la solicitud en que se basó dicho registro hubiera sido presentada de mala fe. Junto a este principio angular, la Ley recoge otros principios clásicos de carácter registral como los de publicidad, oposición, prioridad y tracto sucesivo, que presiden y racionalizan cuantas operaciones registrales se realicen respecto de la marca o de su solicitud.
+El procedimiento de registro se reforma, suprimiendo del examen que ha de efectuar la Oficina Española de Patentes y Marcas (OEPM) el referido a las prohibiciones relativas, quedando reservado este examen de oficio sólo para las prohibiciones absolutas. Las prohibiciones relativas sólo serán examinadas por la OEPM cuando un tercero legitimado formule la correspondiente oposición a la solicitud de marca presentada a registro, sin perjuicio de que la OEPM comunique, a efectos informativos, la existencia de la solicitud de registro a quienes en una búsqueda informática de anterioridades pudieran gozar de un mejor derecho. La finalidad de esta novedad procedimental es triple: alinearse con los sistemas mayoritarios en nuestro entorno europeo y, en particular, con el sistema de la marca comunitaria; evitar el planteamiento por la Administración de conflictos artificiales al señalar de oficio marcas anteriores cuando su titular no tiene interés en oponerse a la nueva solicitud y finalmente, ganar en rapidez y eficacia. El sistema que se establece es, por otra parte, más acorde con la naturaleza y sentido de las prohibiciones de registro y con los intereses a tutelar, predominantemente públicos o generales en el caso de las prohibiciones absolutas, y de carácter privado en el caso de las prohibiciones relativas, que son así calificadas precisamente porque protegen derechos privados y, en consecuencia, su defensa no debe imponerse sino dejarse en manos de los propios interesados, quienes gozan en la presente Ley de todas las garantías del Estado de Derecho a través del trámite de oposición o del ejercicio de la acción de nulidad para proteger sus legítimos intereses y derechos. Siendo el sistema que se implanta el más generalizado en el ámbito europeo y el seguido por la marca comunitaria, no existe ninguna razón que justifique que en España las marcas nacionales sufran un examen más riguroso que las comunitarias, pues ello sólo perjudicaría a los usuarios del sistema español, en beneficio de los usuarios del sistema comunitario que podrán obtener marcas comunitarias -con los mismos efectos en España que una marca nacional- sin examen de oficio de las prohibiciones relativas.
+Dentro de la regulación del procedimiento, se introducen otras importantes novedades como la figura de la "restitutio in integrum", que ya incorporó el Reglamento sobre la Marca Comunitaria, a fin de evitar que por la inobservancia de un plazo se produzca la pérdida de un derecho, si el interesado demuestra haber actuado con la diligencia debida. Se contempla, así mismo, la suspensión del procedimiento de concesión cuando la oposición se basa en una mera solicitud de registro o cuando se hubiera entablado una acción reivindicatoria, de nulidad o de caducidad contra la marca oponente, así como en el supuesto de presentación de una solicitud de división o a petición conjunta de todos los interesados.
+El cuerpo normativo que ahora se aprueba también contempla la posibilidad de someter a arbitraje los actos administrativos que hubieran puesto término al procedimiento de registro y regula los modos de notificación y la consulta pública de expedientes, adaptando el procedimiento de registro de los signos distintivos a las exigencias de la Sociedad de la Información, previendo la posibilidad de efectuar notificaciones por correo electrónico o de realizar consultas de expedientes por vías telemáticas. En este ámbito de adaptación a la Sociedad de la Información, merecen ser destacadas las previsiones contenidas en la Ley sobre la utilización futura de medios electrónicos o telemáticos para la presentación de solicitudes y demás documentos.
+Especial mención debe hacerse del reforzamiento de la protección de las marcas notorias y renombradas. A estos efectos, se establece, por primera vez en nuestro ordenamiento, una definición legal del concepto de marca notoria y renombrada, fijando el alcance de su protección. La marca notoria es la conocida por el sector pertinente del público al que se destinan sus productos o servicios y, si está registrada, se protege por encima del principio de especialidad según su grado de notoriedad y, si no lo está, se faculta a su titular no sólo a ejercitar la correspondiente acción de nulidad, como hasta la fecha, sino además a presentar oposición al registro en la vía administrativa. Cuando la marca es conocida por el público en general, se considera que la misma es renombrada y el alcance de su protección se extiende a cualquier género de productos o servicios.
+La misma protección se otorga al nombre comercial notorio o renombrado registrado.
+En cuanto al contenido y alcance del derecho de marca, se fortalece la posición exclusiva del titular de la marca; al ampliar el alcance del "ius prohibendi" a los medios de identificación del producto o servicio, cuando exista la posibilidad de que dichos medios se utilicen para realizar actos prohibidos; al extender asimismo ese "ius prohibendi" a la utilización de la marca en redes de comunicación telemática; al instaurar, en ciertos casos, la responsabilidad objetiva del usurpador de la marca, sin sujeción a la concurrencia de culpa o negligencia; al considerar indemnizable el daño infligido al prestigio o reputación de la marca; y, finalmente, al habilitar al titular para impedir la reproducción de su marca en diccionarios, si ello perjudica su carácter distintivo.
+Se supera la deficiencia técnica de la legislación anterior, estableciendo el mayor alcance del contenido del derecho de las marcas notorias y renombradas registradas y, en cuanto a las acciones que puede ejercitar el titular, se incorpora la de reclamar la destrucción de los bienes ilícitamente marcados.
+Desaparecen formalmente las figuras de la marca derivada y de la ampliación de marca, en armonía con los sistemas mayoritarios de nuestro entorno comunitario, pues la protección que estas modalidades otorgaban se logra de modo más simple y con igual alcance mediante el registro de una nueva marca, en la que manteniendo el distintivo principal, se incorporen nuevos elementos distintivos de carácter accesorio, para el caso de las marcas derivadas, o mediante la solicitud de los nuevos productos o servicios a que se quiere extender la marca registrada, en el caso de la ampliación de marca.
+La nulidad y caducidad de la marca se completan y sistematizan. Respecto de la caducidad, la Ley introduce el principio general de que las marcas caducadas dejarán de surtir efectos jurídicos desde el momento en que se produjeron los hechos u omisiones que dieron lugar a la caducidad. En los casos de caducidad por falta de renovación, se introducen garantías en beneficio de quienes hubieran ejercido una acción reivindicatoria o fueran titulares inscritos de un embargo o de un derecho de hipoteca sobre la marca.
+Se reordena la regulación de las marcas colectivas y de garantía, procurando que las diferencias que separan a estas dos modalidades de marcas aparezcan más nítidamente definidas, eliminando el confusionismo que siempre ha envuelto a las mismas.
+El nuevo texto legal incorpora el derecho de toda persona jurídica, que no hubiera registrado como nombre comercial su denominación o razón social, a formular la oportuna oposición al registro de una marca o nombre comercial posteriormente solicitados o a reclamar ante los tribunales la anulación de los mismos si hubieran sido ya registrados, cuando dichos signos distintivos se apliquen a productos, servicios o actividades idénticos o similares a aquellos para lo que se usa dicha denominación o razón social, siempre que se pruebe el uso prioritario de ésta en todo el territorio nacional y exista riesgo cierto de confusión en el público. Se resuelve así el problema de la equiparación de trato de los extranjeros que puedan invocar el artículo 8 del Convenio de París para la protección de la propiedad industrial de 20 de marzo de 1883 o el principio de reciprocidad, a los que la Ley dispensa la misma protección.
+Finalmente, la regulación del nombre comercial, aproximando este signo distintivo a las marcas, instaura el principio de su libre cesión y la aplicación de la Clasificación Internacional de Productos o Servicios al registro de estos signos.
+La Ley, alineándose con los sistemas de nuestro entorno político y económico, suprime el carácter registral de los rótulos de establecimiento, dejando la protección de esta modalidad de propiedad industrial a las normas comunes de competencia desleal. Por otra parte, la protección antes otorgada por los rótulos de establecimiento podrá hacerse valer a través del registro de una marca o nombre comercial, pudiendo convivir en diferentes ámbitos territoriales si no existiera oposición de tercero, como consecuencia del nuevo procedimiento, en que se suprime el examen de oficio de las anterioridades.
+La Ley fija minuciosamente en sus disposiciones transitorias el tránsito a este nuevo modo de protección de los rótulos de establecimiento inscritos durante la vigencia de legislaciones anteriores.
+Por fin, se modifican las tasas exigibles por los servicios prestados al amparo de la Ley de Marcas, adecuándolas al marco internacional y comunitario y suprimiendo algunas de las existentes para simplificar este aspecto de la relación entre los interesados y la Oficina Española de Patentes y Marcas.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Ámbito de aplicación.
+1. Para la protección de los signos distintivos se concederán, de acuerdo con la presente Ley, los siguientes derechos de propiedad industrial:
+a) Las marcas.
+b) Los nombres comerciales.
+2. La solicitud, la concesión y los demás actos o negocios jurídicos que afecten a los derechos señalados en el apartado anterior se inscribirán en el Registro de Marcas, según lo previsto en esta Ley y en su Reglamento.
+3. El Registro de Marcas tendrá carácter único en todo el territorio nacional y su llevanza corresponderá a la Oficina Española de Patentes y Marcas, sin perjuicio de las competencias que en materia de ejecución de la legislación de propiedad industrial corresponden a las Comunidades Autónomas, según se desarrolla en esta Ley.
+
+### Artículo 2
+
+Artículo 2. Adquisición del derecho.
+1. El derecho de propiedad sobre la marca y el nombre comercial se adquiere por el registro válidamente efectuado de conformidad con las disposiciones de la presente Ley.
+2. Cuando el registro de una marca hubiera sido solicitado con fraude de los derechos de un tercero o con violación de una obligación legal o contractual, la persona perjudicada podrá reivindicar ante los tribunales la propiedad de la marca, si ejercita la oportuna acción reivindicatoria con anterioridad a la fecha de registro o en el plazo de cinco años a contar desde la publicación de éste o desde el momento en que la marca registrada hubiera comenzado a ser utilizada conforme a lo previsto en el artículo 39. Presentada la demanda reivindicatoria, el Tribunal notificará la presentación de la misma a la Oficina Española de Patentes y Marcas para su anotación en el Registro de Marcas y decretará, si procediera, la suspensión del procedimiento de registro de la marca.
+3. Si como consecuencia de la sentencia que resuelva la acción reivindicatoria se produjera un cambio en la titularidad de la marca, las licencias y demás derechos de terceros sobre la misma se extinguirán por la inscripción del nuevo titular en el Registro de Marcas, sin perjuicio del derecho que les asista a reclamar de su transmitente.
+
+### Artículo 3
+
+Artículo 3. Legitimación.
+1. Podrán obtener el registro de marcas o nombres comerciales las personas físicas o jurídicas, incluidas las entidades de derecho público.
+2. Las personas mencionadas en el apartado 1 podrán invocar la aplicación en su beneficio de las disposiciones de cualquier tratado internacional que resulte de aplicación en España, en cuanto les fuere de aplicación directa, en todo lo que les sea más favorable respecto de lo dispuesto en esta Ley.
+Se modifica por el art. 1.1 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## TÍTULO II
+
+Concepto de marca y prohibiciones de registro
+
+## CAPÍTULO I
+
+Concepto de marca
+
+### Artículo 4
+
+Artículo 4. Concepto de Marca.
+Podrán constituir marcas todos los signos, especialmente las palabras, incluidos los nombres de personas, los dibujos, las letras, las cifras, los colores, la forma del producto o de su embalaje, o los sonidos, a condición de que tales signos sean apropiados para:
+a) distinguir los productos o los servicios de una empresa de los de otras empresas y
+b) ser representados en el Registro de Marcas de manera tal que permita a las autoridades competentes y al público en general determinar el objeto claro y preciso de la protección otorgada a su titular.
+Se modifica por el art. 1.2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO II
+
+Prohibiciones absolutas
+
+### Artículo 5
+
+Artículo 5. Prohibiciones absolutas.
+1. No podrán registrarse como marca los signos siguientes:
+a) Los que no puedan constituir marca por no ser conformes al artículo 4.
+b) Los que carezcan de carácter distintivo.
+c) Los que se compongan exclusivamente de signos o indicaciones que puedan servir en el comercio para designar la especie, la calidad, la cantidad, el destino, el valor, la procedencia geográfica o la época de obtención del producto o de la prestación del servicio u otras características de los productos o servicios.
+d) Los que se compongan exclusivamente de signos o indicaciones que se hayan convertido en habituales en el lenguaje común o en las costumbres leales y constantes del comercio.
+e) Los constituidos exclusivamente por la forma u otra característica impuesta por la naturaleza misma del producto o por la forma u otra característica del producto necesaria para obtener un resultado técnico, o por la forma u otra característica que dé un valor sustancial al producto.
+f) Los que sean contrarios a la Ley, al orden público o a las buenas costumbres.
+g) Los que puedan inducir al público a error, por ejemplo, sobre la naturaleza, la calidad o el origen geográfico del producto o servicio.
+h) Los excluidos de registro en virtud de la legislación nacional o de la Unión o por acuerdos internacionales en los que sea parte la Unión o el Estado español, que confieran protección a denominaciones de origen e indicaciones geográficas.
+i) Los excluidos de registro en virtud de la legislación de la Unión o de acuerdos internacionales en los que esta sea parte y que confieran protección a los términos tradicionales de vinos.
+j) Los excluidos de registro en virtud de la legislación de la Unión o de acuerdos internacionales en los que esta sea parte, que confieran protección a especialidades tradicionales garantizadas.
+k) Los que consistan en, o reproduzcan en sus elementos esenciales, la denominación de una obtención vegetal anterior, registrada conforme a la legislación de la Unión o al Derecho nacional, o a los acuerdos internacionales en los que sea parte la Unión o España, que establezcan la protección de las obtenciones vegetales, y que se refieran a obtenciones vegetales de la misma especie o estrechamente conexas.
+l) Los que reproduzcan o imiten el escudo, la bandera, las condecoraciones y otros emblemas de España, sus Comunidades Autónomas, sus municipios, provincias u otras entidades locales, a menos que medie la debida autorización.
+m) Los que no hayan sido autorizados por las autoridades competentes y deban ser denegados en virtud del artículo 6 ter del Convenio de París.
+n) Los que incluyan insignias, emblemas o escudos distintos de los contemplados en el artículo 6 ter del Convenio de París y que sean de interés público, salvo que su registro sea autorizado por la autoridad competente.
+2. No se denegará el registro de una marca de conformidad con lo dispuesto en el apartado 1, letras b), c) o d), si, antes de la fecha de concesión del registro, debido al uso que se ha hecho de la misma, hubiese adquirido un carácter distintivo.
+Se modifica por el art. 1.3 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO III
+
+Prohibiciones relativas
+
+### Artículo 6
+
+Artículo 6. Marcas anteriores.
+1. No podrán registrarse como marcas los signos:
+a) Que sean idénticos a una marca anterior que designe productos o servicios idénticos.
+b) Que, por ser idénticos o semejantes a una marca anterior y por ser idénticos o similares los productos o servicios que designan, exista un riesgo de confusión en el público; el riesgo de confusión incluye el riesgo de asociación con la marca anterior.
+2. Por marcas anteriores se entenderá a los efectos del apartado 1:
+a) Las marcas registradas cuya solicitud de registro tenga una fecha de presentación o de prioridad anterior a la de la solicitud objeto de examen, y que pertenezcan a las siguientes categorías: i) marcas españolas; ii) marcas que hayan sido objeto de un registro internacional que surta efectos en España; iii) marcas de la Unión Europea (en adelante marcas de la Unión).
+b) Las marcas de la Unión registradas que, con arreglo a su Reglamento, reivindiquen válidamente la antigüedad de una de las marcas mencionadas en los puntos i) y ii) de la letra a), aun cuando esta última marca haya sido objeto de renuncia o se haya extinguido
+c) Las solicitudes de marca a las que hacen referencia las letras a) y b), a condición de que sean finalmente registradas.
+d) Las marcas no registradas que en la fecha de presentación o prioridad de la solicitud de la marca en examen sean "notoriamente conocidas" en España en el sentido del artículo 6 bis del Convenio de París.
+Se modifica el apartado 2.a) y b) por el art. 1.4 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 7
+
+Artículo 7. Nombres comerciales anteriores.
+1. No podrán registrarse como marcas los signos:
+a) Que sean idénticos a un nombre comercial anterior que designe actividades idénticas a los productos o servicios para los que se solicita la marca.
+b) Que por ser idénticos o semejantes a un nombre comercial anterior y por ser idénticas o similares las actividades que designa a los productos o servicios para los que se solicita la marca, exista un riesgo de confusión en el público ; el riesgo de confusión incluye el riesgo de asociación con el nombre comercial anterior.
+2. A los efectos de este artículo se entenderá por nombres comerciales anteriores:
+a) Los nombres comerciales registrados en España cuya solicitud de registro tenga una fecha de presentación o de prioridad anterior a la de la solicitud objeto de examen.
+b) Las solicitudes de los nombres comerciales a los que hace referencia la letra anterior, a condición de que sean finalmente registradas.
+
+### Artículo 8
+
+Artículo 8. Marcas y nombres comerciales renombrados
+1. No podrá registrase como marca un signo que sea idéntico o similar a una marca anterior, con independencia de que los productos o servicios para los cuales se haga la solicitud sean idénticos o sean o no similares a aquellos para los que se haya registrado la marca anterior, cuando la marca anterior goce de renombre en España o, si se trata de una marca de la Unión, en la Unión Europea, y con el uso de la marca posterior, realizado sin justa causa, se pudiera obtener una ventaja desleal del carácter distintivo o del renombre de la marca anterior, o dicho uso pudiera ser perjudicial para dicho carácter distintivo o dicho renombre.
+2. La protección reforzada prevista en el apartado 1 será igualmente aplicable a los nombres comerciales renombrados.
+Se modifica por el art. 1.5 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 9
+
+Artículo 9. Otros derechos anteriores.
+1. Sin la debida autorización, no podrán registrarse como marcas:
+a) El nombre civil o la imagen que identifique a una persona distinta del solicitante de la marca.
+b) El nombre, apellido, seudónimo o cualquier otro signo que para la generalidad del público identifique a una persona distinta del solicitante.
+c) Los signos que reproduzcan, imiten o transformen creaciones protegidas por un derecho de autor o por otro derecho de propiedad industrial distinto de los contemplados en los artículos 6 y 7.
+d) El nombre comercial, denominación o razón social de una persona jurídica que antes de la fecha de presentación o prioridad de la marca solicitada identifique en el tráfico económico a una persona distinta del solicitante, si, por ser idéntica o semejante a estos signos y por ser idéntico o similar su ámbito de aplicación, existe un riesgo de confusión en el público. A estos efectos, el titular de esos signos habrá de probar el uso o conocimiento notorio de dichos signos en el conjunto del territorio nacional. Cumpliéndose estas condiciones, de igual protección gozarán los extranjeros que de acuerdo con el artículo 3 de esta Ley puedan invocar el artículo 8 del Convenio de París o el principio de reciprocidad, siempre que acrediten el uso o conocimiento notorio en España de su nombre comercial no registrado.
+2. No podrán registrarse como marcas el nombre, apellidos, seudónimo o cualquier otro signo que identifique al solicitante del registro si los mismos incurren en alguna de las prohibiciones de registro contenidas en el presente Título.
+3. Además, se denegará el registro de la marca en la medida en que, con arreglo a la legislación de la Unión o al Derecho nacional que establezcan la protección de las denominaciones de origen y las indicaciones geográficas, concurran las siguientes condiciones:
+a) Se hubiera presentado ya una solicitud de denominación de origen o de indicación geográfica de conformidad con la legislación de la Unión o del Derecho nacional antes de la fecha de solicitud de registro de la marca o de la fecha de la prioridad reivindicada para la misma, a condición de que dicha denominación de origen o indicación geográfica quede finalmente registrada.
+b) Dicha denominación de origen o indicación geográfica confiera a la persona autorizada, en virtud de la legislación aplicable para ejercer los derechos que se derivan de la misma, el derecho a prohibir la utilización de una marca posterior.
+Se añade el apartado 3 por el art. 1.6 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 10
+
+Artículo 10. Marcas de agentes o representantes.
+1. A menos que justifique su actuación, el agente o representante del titular de una marca no podrá registrar esa marca a su nombre sin el consentimiento de dicho titular.
+2. El titular perjudicado tendrá derecho a oponerse al registro de la marca o a formular contra la misma las correspondientes acciones de nulidad, reivindicatoria o de cesación, conforme a lo previsto en esta Ley y en el artículo 6 septies del Convenio de París. En particular, serán de aplicación a la acción reivindicatoria las previsiones contenidas en los apartados 2 y 3 del artículo 2.
+Se modifica el apartado 1 por el art. 1.7 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## TÍTULO III
+
+Solicitud y procedimiento de registro
+
+## CAPÍTULO I
+
+Solicitud de registro
+
+### Artículo 11
+
+Artículo 11. Presentación de la solicitud.
+1. La solicitud de registro de marca se presentará en el órgano competente de la Comunidad Autónoma donde el solicitante tenga su domicilio o un establecimiento industrial o comercial serio y efectivo.
+2. Los solicitantes domiciliados en las Ciudades de Ceuta y Melilla presentarán la solicitud en la Oficina Española de Patentes y Marcas.
+3. Los solicitantes no domiciliados en España presentarán la solicitud ante la Oficina Española de Patentes y Marcas.
+4. También podrá presentarse la solicitud en el órgano competente de la Comunidad Autónoma donde el representante del solicitante tuviera su domicilio legal o una sucursal seria y efectiva.
+5. Podrán también presentarse las solicitudes ante la Oficina Española de Patentes y Marcas si el solicitante o su representante la solicitaran a través de un establecimiento comercial o industrial serio y efectivo que no tuviere carácter territorial.
+6. El órgano competente para recibir la solicitud hará constar, en el momento de su recepción, el número de la solicitud y el día, la hora y el minuto de su presentación, en la forma que reglamentariamente se determine.
+7. El órgano competente de la Comunidad Autónoma que reciba la solicitud remitirá a la Oficina Española de Patentes y Marcas, dentro de los cinco días siguientes al de su recepción, los datos de la solicitud en la forma y con el contenido que reglamentariamente se determinen.
+8. La solicitud de registro de marca también podrá presentarse en los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, dirigida al órgano que, conforme a lo establecido en los apartados anteriores, resulte competente para recibir la solicitud.
+9. Tanto la solicitud como los demás documentos que hayan de presentarse en la Oficina Española de Patentes y Marcas deberán estar redactados en castellano. En las Comunidades Autónomas donde exista también otra lengua oficial, dichos documentos, además de en castellano, podrán redactarse en dicha lengua.
+
+### Artículo 12
+
+Artículo 12. Requisitos de la solicitud.
+1. La solicitud de registro de marca deberá contener, al menos:
+a) Una instancia por la que se solicite el registro de marca.
+b) La información que permita identificar al solicitante.
+c) Una representación de la marca que cumpla los requisitos establecidos en el artículo 4, letra b).
+d) La lista de los productos o servicios para los que se solicita el registro.
+2. La solicitud dará lugar al pago de una tasa, cuya cuantía vendrá determinada por el número de clases de productos o servicios del nomenclátor internacional establecido en virtud del Arreglo de Niza de 15 de junio de 1957 que se soliciten.
+3. La solicitud de marca deberá cumplir los demás requisitos que se establezcan reglamentariamente.
+Se modifica el apartado 1.b) y c) por el art. 1.8 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 13
+
+Artículo 13. Fecha de presentación de la solicitud.
+1. La fecha de presentación de la solicitud será la del momento en que el órgano competente, conforme a lo previsto en el artículo 11, reciba los documentos que contengan los elementos establecidos en el apartado 1 del artículo 12.
+2. La fecha de presentación de las solicitudes depositadas en una Oficina de Correos será la del momento en que dicha oficina reciba los documentos que contengan los elementos previstos en el apartado 1 del artículo 12, siempre que sean presentadas en sobre abierto, por correo certificado y con acuse de recibo, dirigido al órgano competente para recibir la solicitud. La Oficina de Correos hará constar el día, hora y minuto de su presentación.
+3. Si alguno de los órganos o unidades administrativas a que se refieren los apartados anteriores no hubieran hecho constar, en el momento de la recepción de la solicitud, la hora de su presentación, se le asignará la última hora del día. Si no se hubiera hecho constar el minuto, se asignará el último minuto de la hora. Si no se hubiera hecho constar ni la hora ni el minuto, se asignará la última hora y minuto del día.
+
+### Artículo 14
+
+Artículo 14. Derecho de prioridad unionista.
+1. Quienes hubieran presentado regularmente una solicitud de registro de marca en alguno de los Estados miembros del Convenio de París o en algún miembro de la Organización Mundial del Comercio o sus causahabientes gozarán, para la presentación en España de una solicitud de registro de la misma marca, del derecho de prioridad establecido en el artículo 4 del Convenio de París.
+2. Tendrán el mismo derecho de prioridad quienes hubieren presentado una primera solicitud de protección de la misma marca en un Estado u Organización internacional no mencionados en el apartado anterior, que reconozca a las solicitudes de registro de marcas presentadas en España un derecho de prioridad en condiciones y con efectos equivalentes a los previstos en el Convenio de París.
+3. El solicitante que desee reivindicar la prioridad de una solicitud anterior deberá presentar, en la forma y plazos que reglamentariamente se establezcan, una declaración de prioridad y una copia certificada por la oficina de origen de la solicitud anterior acompañada de su traducción al castellano, cuando esa solicitud esté redactada en otro idioma. La reivindicación de prioridad implica el pago de la tasa correspondiente.
+
+### Artículo 15
+
+Artículo 15. Prioridad de exposición.
+1. El solicitante de una marca que hubiera designado con ella productos o servicios en una exposición oficial u oficialmente reconocida gozará del derecho de prioridad de la fecha de la primera presentación de los productos o servicios con la marca solicitada en la exposición, siempre que la solicitud de registro de la marca se presente en el plazo de seis meses a partir de aquella fecha.
+2. El solicitante que desee reivindicar la prioridad prevista en el apartado 1 deberá justificar, en los términos que se determinen reglamentariamente, que los productos o servicios se presentaron en la exposición con la marca solicitada y en la fecha invocada. La reivindicación de prioridad implica el pago de la tasa correspondiente.
+
+## CAPÍTULO II
+
+Procedimiento de registro
+
+### Artículo 16
+
+Artículo 16. Examen de admisibilidad y de forma.
+1. El órgano competente para recibir la solicitud, conforme a lo previsto en el artículo 11, examinará:
+a) Si la solicitud de marca cumple los requisitos para que se otorgue una fecha de presentación conforme al artículo 13.
+b) Si se ha satisfecho la tasa de solicitud.
+c) Si la solicitud de marca reúne los demás requisitos formales establecidos reglamentariamente.
+d) Si el solicitante está legitimado para solicitar una marca, conforme al artículo 3 de esta Ley.
+2. Si del examen resultara que la solicitud presenta alguna irregularidad o defecto, se decretará la suspensión de la tramitación del expediente y se otorgará al solicitante el plazo que reglamentariamente se determine para que los subsane o formule, en su caso, las alegaciones pertinentes.
+3. Si la irregularidad consistiera en el incumplimiento de los requisitos necesarios para obtener una fecha de presentación, se otorgará la del día en que se subsane esta irregularidad.
+4. Si la irregularidad consistiera en la falta de pago de la tasa de solicitud y transcurrido el plazo para subsanarla no se hubiera abonado dicha tasa en su totalidad, se continuará la tramitación respecto de aquellas clases totalmente pagadas, siguiendo el orden de la solicitud.
+5. Transcurrido el plazo fijado en el apartado 2 sin que el interesado haya contestado, el órgano competente resolverá teniendo por desistida la solicitud. Se procederá del mismo modo cuando, a juicio del órgano competente, las irregularidades no hubieran sido debidamente subsanadas.
+
+### Artículo 17
+
+Artículo 17. Remisión de la solicitud.
+1. El órgano competente de la Comunidad Autónoma remitirá a la Oficina Española de Patentes y Marcas, con todo lo actuado, las solicitudes que hubieran superado el examen de forma o que hubieran subsanado los defectos imputados, con indicación, en su caso, de la fecha de presentación otorgada, si hubiera sido rectificada conforme a lo previsto en el apartado 3 del artículo 16.
+2. Las solicitudes que hubieran sido tenidas por desistidas, serán notificadas a la Oficina Española de Patentes y Marcas una vez que la resolución sea firme, con indicación de su fecha de adopción. Si la resolución hubiera sido impugnada, también se notificará esta circunstancia.
+
+### Artículo 18
+
+Artículo 18. Publicación de la solicitud.
+1. Recibida la solicitud de marca, la Oficina Española de Patentes y Marcas procederá a su publicación en el Boletín Oficial de la Propiedad Industrial, salvo que la misma fuera contraria al orden público o las buenas costumbres conforme a lo previsto en el artículo 5.1, letra f). En este caso, se comunicará al interesado el reparo observado, para que, en el plazo que reglamentariamente se establezca, presente las alegaciones oportunas. La Oficina Española de Patentes y Marcas resolverá, decretando la continuación de la tramitación o la denegación de la solicitud.
+2. Si la solicitud padeciera algún defecto no percibido en trámites anteriores que imposibilitara su publicación, la Oficina Española de Patentes y Marcas comunicará el defecto al interesado para su subsanación, procediéndose conforme a lo establecido en el artículo 16.
+3. La publicación de solicitud de marca, a que se refiere el apartado 1, deberá incluir:
+a) El nombre y dirección del solicitante.
+b) El nombre y dirección del representante, si lo hubiere.
+c) El número del expediente, fecha de presentación y, en su caso, prioridad reclamada.
+d) La reproducción del signo solicitado como marca y, en su caso, una declaración en los términos de la prevista en el apartado 2 del artículo 21.
+e) La lista de los productos o servicios, con indicación de la clase del Nomenclátor Internacional.
+4. Asimismo, la Oficina Española de Patentes y Marcas, en la forma que reglamentariamente se determine, comunicará la publicación de la solicitud a que se refiere el apartado 1, a efectos simplemente informativos, a los titulares de los signos anteriores registrados o solicitados que hubieran sido detectados como consecuencia de una búsqueda informática realizada por dicha Oficina de acuerdo con sus disponibilidades técnicas y materiales, y que en virtud de lo dispuesto en los artículos 6 y 7 pudieran formular oposición al registro de la nueva solicitud.
+
+### Artículo 19
+
+Artículo 19. Oposiciones y observaciones de terceros.
+1. Una vez publicada la solicitud de marca, podrán oponerse al registro de la misma invocando las prohibiciones de registro previstas en el Título II:
+a) En los casos previstos en el artículo 5.1, cualquier persona física o jurídica que se considere perjudicada.
+b) En los caso previstos en los artículos 6.1, 7.1 y 8, los titulares de las marcas o nombres comerciales anteriores contemplados en los artículos 6.2 y 7.2, así como los licenciatarios facultados por los titulares de dichas marcas o nombres comerciales.
+c) En los casos previstos en el artículo 9, apartado 1, los titulares de los derechos anteriores contemplados en dicho apartado o las personas facultadas para ejercer esos derechos.
+d) En los casos previstos en el artículo 9, apartado 3, las personas autorizadas a ejercer en virtud de la legislación aplicable los derechos que se derivan de la correspondiente denominación de origen o indicación geográfica protegida.
+e) En el caso previsto en el artículo 10, apartado 1, los titulares de las marcas contempladas en dicho apartado
+2. La oposición deberá formularse ante la Oficina Española de Patentes y Marcas mediante escrito motivado y debidamente documentado, en la forma y plazo que reglamentariamente se establezcan, y sólo se tendrá por presentada si en este plazo se abona la tasa correspondiente.
+3. Podrá formularse oposición sobre la base de uno o más derechos anteriores siempre que pertenezcan todos al mismo titular, así como sobre la base de la totalidad o de una parte de los productos o servicios para los cuales se haya protegido o solicitado el derecho anterior, y dicha oposición podrá dirigirse contra la totalidad o una parte de los productos o servicios para los cuales se solicite la marca objeto de oposición.
+4. Los órganos de las Administraciones Públicas y las asociaciones de consumidores y usuarios, constituidas e inscritas conforme a la legislación estatal o autonómica que les resulte de aplicación, así como los Consejos Reguladores u órganos rectores de las denominaciones de origen o indicaciones geográficas protegidas, podrán dirigir a la Oficina Española de Patentes y Marcas, en el plazo previsto en el apartado 2, observaciones escritas, señalando las prohibiciones del artículo 5, en virtud de las cuales procedería denegar de oficio el registro de la marca. Dichos órganos y asociaciones no adquirirán la cualidad de partes en el procedimiento, pero sus observaciones se notificarán al solicitante de la marca y se resolverán conforme a lo previsto en el artículo 22.
+Se modifican los apartados 1 y 3 y se añade el 4 por el art. 1.9 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 20
+
+Artículo 20. Examen de fondo.
+1. La Oficina Española de Patentes y Marcas procederá, asimismo, a examinar de oficio si la solicitud de marca incurre en alguna de las prohibiciones contempladas en los artículos 5 y 9.1, letra b). Si al efectuar este examen la Oficina observara algún defecto en la solicitud, lo notificará al solicitante conforme a lo previsto en el artículo 21.1.
+2. Si en el plazo establecido no se hubiera formulado ninguna oposición u observaciones de terceros y del examen efectuado por la Oficina Española de Patentes y Marcas resultara que la solicitud de marca no incurre en las prohibiciones de los artículos 5 y 9.1, letra b), la marca será registrada. En este caso, la Oficina Española de Patentes y Marcas, en la forma que reglamentariamente se establezca, publicará un anuncio del registro de la marca en el Boletín Oficial de la Propiedad Industrial y expedirá el título de registro de la marca.
+
+### Artículo 21
+
+Artículo 21. Suspensión de la solicitud y examen de la oposición.
+1. Cuando se hubieren presentado oposiciones u observaciones de tercero o del examen realizado por la Oficina Española de Patentes y Marcas resultara que la solicitud incurre, para la totalidad o parte de los productos o servicios solicitados, en alguna de las prohibiciones o defectos a que se refiere el artículo 20.1, se decretará la suspensión del expediente y se comunicarán al solicitante las oposiciones u observaciones formuladas y los reparos señalados de oficio para que, en el plazo que reglamentariamente se determine, presente sus alegaciones.
+2. En la contestación al suspenso, el solicitante podrá retirar, limitar, modificar o dividir la solicitud conforme a lo previsto en los artículos 23 y 24. Si el motivo del suspenso se fundara en que la marca solicitada contiene elementos incursos en las prohibiciones de las letras b), c) o d) del artículo 5.1, el solicitante podrá presentar una declaración excluyendo dichos elementos de la protección solicitada.
+3. A instancia del solicitante, el titular de la marca anterior que hubiera formulado oposición aportará la prueba de que, en el curso de los cinco años anteriores a la fecha de presentación o fecha de prioridad de la marca posterior, la marca anterior ha sido objeto de un uso efectivo, conforme a lo previsto en el artículo 39, o de que han existido causas justificativas para su falta de uso, siempre que en dicha fecha de presentación o prioridad de la marca posterior la marca anterior lleve registrada al menos cinco años, conforme a lo previsto en el artículo 39. A falta de dicha prueba, se desestimará la oposición.
+4. En el supuesto contemplado en el apartado anterior, y si se cumplen los requisitos previstos en el mismo, la Oficina Española de Patentes y Marcas dará traslado de la petición al oponente para que, en el plazo que reglamentariamente se determine, presente la correspondiente prueba de uso. La Oficina así mismo, dará traslado al solicitante de la prueba presentada para que, en el plazo que reglamentariamente se establezca, presente sus alegaciones.
+5. Si la marca anterior se ha utilizado solamente para una parte de los productos o de los servicios para los que haya estado registrada, a efectos del examen de la oposición formulada, se considerará registrada solamente para dicha parte de los productos o servicios.
+6. Los apartados 3, 4 y 5 del presente artículo serán también de aplicación cuando la marca anterior sea una marca de la Unión. En tal caso, el uso efectivo de una marca de la Unión se determinará de acuerdo con lo establecido en el artículo 18 del Reglamento (UE) n.º 2017/1001.
+7. Mediante real decreto el Gobierno llevará a cabo el desarrollo reglamentario de lo previsto en este artículo.
+Téngase en cuenta que los apartados 3 a 6, añadidos por el art. 1.10 Real Decreto-ley 23/2018, de 21 de diciembre, entrarán en vigor el día en que, conforme a lo previsto en el apartado 7, se desarrollen reglamentariamente, según establece la disposición final 7 del citado Real Decreto-ley. Ref. BOE-A-2018-17769
+Se modifica por el art. 1.10 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+ Los apartados 3 a 6 entrarán en vigor el día en que, conforme a lo previsto en el apartado 7, se desarrollen reglamentariamente, según establece la disposición final 7 del citado Real Decreto-ley.
+
+### Artículo 22
+
+Artículo 22. Resolución de la solicitud.
+1. Transcurrido el plazo fijado para la contestación al suspenso, o en su caso los plazos previstos en el artículo 21.4, hayan contestado o no los interesados, la Oficina Española de Patentes y Marcas acordará la concesión o denegación del registro de la marca, especificando sucintamente los motivos en que se funda dicha resolución.
+2. Si la causa de denegación del registro de la marca sólo existiere para parte de los productos o servicios, la denegación del registro se limitará a los productos o servicios de que se trate.
+3. La resolución de denegación del registro de la marca se publicará en el Boletín Oficial de la Propiedad Industrial en la forma que se determine reglamentariamente.
+4. Concedido el registro de la marca, la Oficina Española de Patentes y Marcas, en la forma que se establezca reglamentariamente, procederá a su publicación en el «Boletín Oficial de la Propiedad Industrial» y a expedir el título de registro de la marca. Este título podrá expedirse por medios electrónicos.
+Se modifican los apartados 1 y 4 por el art. 1.11 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO III
+
+Disposiciones generales sobre el procedimiento
+
+### Artículo 23
+
+Artículo 23. Retirada, limitación y modificación de la solicitud.
+1. El solicitante podrá en todo momento retirar su solicitud de marca o limitar la lista de los productos o servicios que aquélla contenga.
+2. La solicitud de marca sólo podrá ser modificada, a instancia del solicitante, para rectificar su nombre y dirección, las faltas de expresión o de transcripción o los errores manifiestos, siempre que tal rectificación no afecte substancialmente a la marca ni amplíe o cambie la lista de productos o servicios. También podrá eliminarse del distintivo aquellos elementos que no alteren de manera significativa el carácter distintivo de la marca en la forma en que fue solicitada.
+3. La limitación y modificación de la solicitud, cuando se efectúe de modo espontáneo por el solicitante y no como consecuencia de un suspenso decretado de oficio, dará lugar al pago de la tasa correspondiente.
+Se modifica el apartado 3 por el art. 1.12 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 24
+
+Artículo 24. División de la solicitud o del registro de la marca.
+1. El solicitante o titular de una marca que comprenda varios productos o servicios podrá dividir la solicitud o registro de ésta en dos o más solicitudes o registros divisionales, distribuyendo los productos o servicios enumerados en la solicitud o registro inicial.
+2. La división de la solicitud o registro de la marca sólo podrá efectuarse durante los procedimientos de registro o recurso y sólo será aceptada si, con dicha división, el suspenso, la oposición o el recurso quedaran circunscritos a una de las solicitudes o registros divisionales. También podrá efectuarse la división de la solicitud o del registro cuando se solicite una transmisión parcial de los mismos.
+3. Las solicitudes o registros divisionales conservarán la fecha de presentación de la solicitud o registro inicial y el beneficio del derecho de prioridad, si lo hubiere.
+4. La división estará sujeta a lo que se establezca reglamentariamente y dará lugar al pago de la tasa correspondiente.
+
+### Artículo 25
+
+Artículo 25. Restablecimiento de derechos.
+1. El solicitante o el titular de una marca o cualquier otra parte en un procedimiento ante la Oficina Española de Patentes y Marcas que, aun habiendo demostrado toda la diligencia requerida por las circunstancias, no hubiera podido respetar un plazo con respecto a dicha Oficina, será, previa solicitud, restablecido en sus derechos si la imposibilidad hubiera tenido como consecuencia directa, en virtud de las disposiciones de esta Ley o de su Reglamento, la pérdida de un derecho. En el caso de que el plazo correspondiera a la interposición de un recurso tendrá como consecuencia su admisión a trámite, salvo lo previsto en el apartado 5.
+2. La solicitud deberá presentarse por escrito a partir del cese del impedimento, en la forma y plazo que reglamentariamente se establezcan. El trámite incumplido deberá realizarse en ese plazo. La solicitud sólo será admisible en el plazo de un año a partir de la expiración del plazo no observado. Si se hubiere dejado de presentar la solicitud de renovación, se deducirá del período de un año el plazo suplementario de seis meses a que se refiere el segundo inciso del apartado 3 del artículo 32.
+3. La solicitud deberá motivarse, indicándose los hechos y las justificaciones que se aleguen en su apoyo.
+Sólo se tendrá por presentada cuando se haya pagado la tasa de restablecimiento de derechos.
+4. Será competente para resolver la solicitud el órgano que lo sea para pronunciarse sobre el acto que no se hubiere cumplido.
+5. Las disposiciones del presente artículo no serán aplicables a los plazos contemplados en el apartado 2 del presente artículo, en los apartados 1 y 2 del artículo 14, en el apartado 1 del artículo 15 y en el apartado 2 del artículo 19. Tampoco serán aplicables estas disposiciones respecto del plazo de interposición de un recurso contra un acto declarativo de derechos.
+6. Cuando se restablezca en sus derechos al solicitante o al titular de una marca, éste no podrá alegar sus derechos contra un tercero que, de buena fe, hubiere comercializado productos o hubiere prestado servicios bajo un signo idéntico o similar a la marca durante el período comprendido entre la pérdida del derecho sobre la solicitud o sobre la marca y la publicación de la mención del restablecimiento de ese derecho.
+7. No procederá el restablecimiento del derecho sobre la solicitud o sobre la marca cuando en el período comprendido entre la pérdida de aquél y la presentación de la solicitud de restablecimiento un tercero haya solicitado o registrado de buena fe un signo idéntico o similar.
+8. Contra la resolución que restablezca en sus derechos al solicitante podrá interponer recurso el tercero que pueda prevalerse de las disposiciones de los apartados 6 y 7.
+
+### Artículo 26
+
+Artículo 26. Suspensión de procedimientos de tramitación.
+La Oficina Española de Patentes y Marcas podrá suspender el procedimiento de tramitación:
+a) Cuando la oposición se funde en una solicitud anterior, hasta el momento en que se produzca el registro definitivo de dicha solicitud o recaiga una resolución firme sobre la misma.
+b) A instancia del solicitante que hubiera presentado contra el signo anterior oponente una solicitud o una demanda reconvencional de nulidad o de caducidad o una acción reivindicatoria, hasta que recaiga una resolución o sentencia firme, todo ello sin perjuicio de que la suspensión pueda ser decretada judicialmente
+c) Cuando sea presentada una solicitud de división, por el tiempo preciso para la resolución de la misma.
+d) A solicitud conjunta de todos los interesados, sin que la suspensión pueda en este caso exceder de seis meses.
+Se modifican las letras a) y b) por el art. 1.13 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 27
+
+Artículo 27. Revisión de actos en vía administrativa.
+1. Los actos y resoluciones dictados por los órganos de la Oficina Española de Patentes y Marcas serán recurribles de conformidad con lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. La interposición de un recurso dará lugar al pago de la tasa de recurso. No se procederá a la devolución de la tasa salvo cuando el recurso fuera totalmente estimado al acogerse razones jurídicas que, indebidamente apreciadas en la resolución, fueran imputables a la Oficina Española de Patentes y Marcas. La devolución de la tasa deberá ser solicitada al interponerse el recurso y será acordada en la resolución del mismo.
+3. Frente a la concesión de una marca la Oficina Española de Patentes y Marcas no podrá ejercer de oficio o a instancia de parte la potestad revisora prevista en el artículo 106 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si la nulidad de la marca se funda en alguna de las causas previstas en los artículos 51 y 52 de la presente Ley. Dichas causas de nulidad solo se podrán hacer valer en los procedimientos previstos en dichos artículos.
+4. Los actos y resoluciones dictados, en virtud de sus facultades, por los órganos competentes de las Comunidades Autónomas, serán recurribles con sujeción a lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como en las normas orgánicas que rijan para los respectivos órganos.
+Se modifica el apartado 3 por el art. 1.14 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 28
+
+Artículo 28. Arbitraje.
+1. Los interesados podrán someter a arbitraje las cuestiones litigiosas surgidas con ocasión del procedimiento para el registro de una marca, de conformidad con lo establecido en el presente artículo.
+2. El arbitraje sólo podrá versar sobre las prohibiciones relativas previstas en los artículos 6.1.b), 7.1.b), 8 y 9 de la presente Ley. En ningún caso podrá someterse a arbitraje cuestiones referidas a la concurrencia o no de defectos formales o prohibiciones absolutas de registro.
+3. El convenio arbitral sólo será válido si está suscrito, además de por el solicitante de la marca:
+a) Por los titulares de los derechos anteriores que hubieren causado la denegación de la marca y, en su caso, por sus licenciatarios exclusivos inscritos.
+b) Por los titulares de los derechos anteriores que hubieran formulado oposición al registro de la marca y, en su caso, por sus licenciatarios exclusivos inscritos.
+c) Por quienes hubieran interpuesto recurso o hubieran comparecido durante el mismo.
+4. El convenio arbitral deberá ser notificado a la Oficina Española de Patentes y Marcas por los interesados una vez finalizado el procedimiento administrativo de registro de la marca y antes de que gane firmeza el acto administrativo que hubiera puesto término al mismo. Resuelto el recurso de alzada contra el acto que conceda o deniegue el registro, quedará expedita la vía contencioso-administrativa salvo que se haga valer ante la oficina la firma de un convenio arbitral.
+5. Suscrito el convenio arbitral, y mientras subsista, no cabrá interponer recurso administrativo alguno de carácter ordinario, declarándose la inadmisibilidad del mismo. Igualmente, de haberse interpuesto con anterioridad a la suscripción del convenio, se tendrá por desistido.
+6. El laudo arbitral firme producirá efectos de cosa juzgada, de acuerdo con lo establecido en el artículo 37 de la Ley 36/1988, de 5 de diciembre, de Arbitraje, de aplicación en todo lo no previsto por el presente artículo, y la Oficina Española de Patentes y Marcas procederá a realizar las actuaciones necesarias para su ejecución.
+7. Deberá comunicarse a la Oficina Española de Patentes y Marcas la presentación de los recursos que se interpongan frente al laudo arbitral. Una vez firme éste, se comunicará fehacientemente a la Oficina Española de Patentes y Marcas para su ejecución.
+Se modifican los apartados 4 y 7 por la disposición adicional 6.1y .2 de la Ley 20/2003, de 7 de julio. Ref. BOE-A-2003-13615
+
+### Artículo 29
+
+Artículo 29. Notificaciones.
+1. Las notificaciones que deba efectuar la Oficina Española de Patentes y Marcas se ajustarán a las disposiciones de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, sin perjuicio de lo establecido en los apartados siguientes.
+2. Cuando un destinatario así lo solicite y posea un buzón en la Oficina Española de Patentes y Marcas, las notificaciones se podrán efectuar mediante el depósito en dicho buzón del acto o resolución que deba notificarse. En la notificación se indicará la fecha de depósito, y producirá sus efectos desde el quinto día siguiente al de depósito.
+3. Cuando el interesado así lo solicite, las notificaciones se realizarán mediante publicación en el "Boletín Oficial de la Propiedad Industrial", mediante telefax, mediante correo electrónico, o por cualquier otro medio técnico del que disponga la Oficina Española de Patentes y Marcas. Las notificaciones que se practiquen al interesado a través de un representante profesional lo serán en todo caso por medio de la publicación en el "Boletín Oficial de la Propiedad Industrial" de la decisión recaída, con indicación de si es o no definitiva en la vía administrativa, recursos que procedan, órgano ante el que hubieran de presentarse y plazo para interponerlos sin perjuicio de que, además previamente, y con efectos meramente informativos, se hubiere comunicado el texto íntegro del acto a dicho representante por medio de su depósito en el buzón de que disponga en la Oficina Española de Patentes y Marcas, correo electrónico u otro medio idóneo de que disponga la Oficina, en la forma que reglamentariamente se determine.
+4. Quienes sean parte en un procedimiento ante la Oficina Española de Patentes y Marcas en el que actúen por sí mismos y no tengan domicilio ni sede en España deberán, a efectos de notificaciones, designar una dirección postal en España o en el Espacio Económico Europeo o, en lugar de ellas, podrán indicar que las notificaciones les sean dirigidas por cualquier otro medio técnico de comunicación de que disponga la Oficina. Todo ello, sin perjuicio de lo previsto en el apartado 2 del artículo 175 de la Ley 24/2015, de 24 de julio, de Patentes.
+5. Cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación en España o la notificación no hubiere podido practicarse después de dos intentos, la notificación se efectuará mediante publicación en el "Boletín Oficial de la Propiedad Industrial".
+6. Las notificaciones que deban practicar los órganos competentes de las Comunidades Autónomas lo serán de acuerdo a lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y la normativa propia que les sea aplicable.
+Se modifica el apartado 4 por el art. 1.15 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+ Se modifica el apartado 4 por la disposición final 6 de la Ley 53/2007, de 28 de diciembre. Ref. BOE-A-2007-22437
+
+### Artículo 30
+
+Artículo 30. Consulta pública de expedientes.
+1. Los expedientes relativos a solicitudes de registro todavía no publicadas sólo podrán ser consultados con el consentimiento del solicitante. No obstante, cualquiera que pruebe que el solicitante del registro ha pretendido hacer valer frente a él los derechos derivados de su solicitud, podrá consultar el expediente antes de la publicación de aquella y sin el consentimiento del solicitante.
+2. Una vez publicada la solicitud, los expedientes podrán ser consultados, previa petición y con sujeción a las limitaciones que reglamentariamente se establezcan.
+3. La situación jurídica de los expedientes se hará pública por medios telemáticos en la forma y con las limitaciones técnicas que puedan concurrir y las que reglamentariamente se establezcan.
+
+## TÍTULO IV
+
+Duración, renovación y modificación de la marca registrada
+
+### Artículo 31
+
+Artículo 31. Duración.
+El registro de una marca se otorga por diez años contados desde la fecha de presentación de la solicitud y podrá renovarse por períodos sucesivos de diez años.
+
+### Artículo 32
+
+Artículo 32. Renovación.
+1. El registro de la marca se renovará previa solicitud del titular de la misma o de sus derechohabientes, presentada ante la Oficina Española de Patentes y Marcas o los órganos a que se refiere el artículo 11, que deberán acreditar esta cualidad en la forma que se disponga reglamentariamente. Si la solicitud no fuera presentada ante la Oficina Española de Patentes y Marcas, el órgano que la reciba la remitirá, junto con la documentación que se acompañe, en el plazo de cinco días a la Oficina, contando el plazo para su resolución a partir de la recepción del expediente.
+2. La solicitud se presentará acompañada del justificante de pago de la tasa de renovación, cuya cuantía vendrá determinada por el número de clases que comprenda la solicitud de renovación.
+3. La solicitud se presentará y la tasa se abonará en los seis meses anteriores a la expiración del registro.
+En su defecto, podrá hacerse todavía de forma válida en un plazo de seis meses a partir de la expiración del registro, con la obligación de satisfacer, de forma simultánea, un recargo del 25 por ciento de la cuota si el ingreso tiene lugar durante los tres primeros meses, y de un 50 por ciento si se efectúa dentro de los tres siguientes.
+4. Si la tasa de renovación o, en su caso, los recargos no fueran abonados en su totalidad, se concederá la renovación respecto de aquellas clases totalmente pagadas, siguiendo el orden de la solicitud.
+5. Si la solicitud de renovación comprende tan sólo una parte de los productos o servicios para los que la marca ha sido registrada, el registro de la marca será renovado, únicamente, en relación con los productos o servicios de que se trate.
+6. La renovación, que será inscrita en el Registro de Marcas y publicada en el "Boletín Oficial de la Propiedad Industrial", surtirá efectos desde el día siguiente al de la fecha de expiración del correspondiente período de diez años.
+7. Si la renovación no fuera acordada se reembolsará, a petición del interesado, el 75 por ciento de la tasa de renovación pagada.
+8. La Oficina Española de Patentes y Marcas podrá establecer que, en los casos de renovación total de la marca, el pago de la tasa de renovación pueda considerarse que constituye una solicitud de renovación. Reglamentariamente se establecerán las condiciones que han de cumplirse en esta modalidad de renovación.
+Se añade el apartado 8 por el art. 1.16 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 33
+
+Artículo 33. Modificación.
+1. La marca no se modificará en el Registro durante el período de vigencia, ni tampoco cuando se renueve.
+No obstante, si la marca incluye el nombre y la dirección del titular, toda modificación o supresión de éstos que no afecte sustancialmente a la identidad de la marca tal como fue registrada originariamente, podrá registrarse a instancia del titular.
+2. La solicitud de modificación, presentada ante la Oficina Española de Patentes y Marcas o el órgano competente de conformidad con lo establecido en el artículo 11, dará lugar al pago de la tasa correspondiente y si fuera registrada, se publicará en el "Boletín Oficial de la Propiedad Industrial" una reproducción de la marca tal como quede modificada. Cualquier tercero que se considere perjudicado podrá recurrir esta modificación.
+Si la solicitud no se presentase ante la Oficina Española de Patentes y Marcas, se procederá de conformidad y con los efectos expresados en el apartado 1 del artículo anterior.
+
+## TÍTULO V
+
+Contenido del derecho de marca
+
+## CAPÍTULO I
+
+Efectos del registro de la marca y de su solicitud
+
+### Artículo 34
+
+Artículo 34. Derechos conferidos por la marca.
+1. El registro de una marca conferirá a su titular un derecho exclusivo sobre la misma.
+2. Sin perjuicio de los derechos adquiridos por los titulares antes de la fecha de presentación de la solicitud de registro o de la fecha de prioridad de la marca registrada, el titular de dicha marca registrada estará facultado para prohibir a cualquier tercero el uso, sin su consentimiento, en el tráfico económico, de cualquier signo en relación con productos o servicios, cuando:
+a) El signo sea idéntico a la marca y se utilice para productos o servicios idénticos a aquellos para los que la marca esté registrada.
+b) El signo sea idéntico o similar a la marca y se utilice para productos o servicios idénticos o similares a los productos o servicios para los cuales esté registrada la marca, si existe un riesgo de confusión por parte del público; el riesgo de confusión incluye el riesgo de asociación entre el signo y la marca.
+c) El signo sea idéntico o similar a la marca, independientemente de si se utiliza para productos o servicios que sean idénticos o sean o no similares a aquellos para los que esté registrada la marca, cuando esta goce de renombre en España y, con el uso del signo realizado sin justa causa, se obtenga una ventaja desleal del carácter distintivo o del renombre de la marca o dicho uso sea perjudicial para dicho carácter distintivo o dicho renombre.
+3. Cuando se cumplan las condiciones enunciadas en el apartado 2, podrá prohibirse en particular:
+a) Colocar el signo en los productos o en su embalaje.
+b) Ofrecer los productos, comercializarlos o almacenarlos con dichos fines u ofrecer o prestar servicios con el signo.
+c) Importar o exportar los productos con el signo.
+d) Utilizar el signo como nombre comercial o denominación social, o como parte de un nombre comercial o una denominación social.
+e) Utilizar el signo en los documentos mercantiles y la publicidad.
+f) Usar el signo en redes de comunicación telemáticas y como nombre de dominio.
+g) Utilizar el signo en la publicidad comparativa de manera que vulnere la Directiva 2006/114/CE.
+4. Cuando exista el riesgo de que el embalaje, las etiquetas, los marbetes, los elementos de seguridad o dispositivos de autenticidad u otros soportes en los que se coloca la marca puedan ser utilizados en relación con determinados productos o servicios y ese uso constituya una violación de los derechos del titular de la marca en virtud de los apartados 2 y 3, el titular de esa marca tendrá derecho a prohibir los siguientes actos en el tráfico económico:
+a) la colocación de un signo idéntico o similar a la marca en el embalaje, las etiquetas, los marbetes, los elementos de seguridad o dispositivos de autenticidad u otros soportes en los que pueda colocarse la marca.
+b) la oferta o comercialización, o el almacenamiento a tales fines, o bien la importación o exportación de embalajes, etiquetas, marbetes, elementos de seguridad o dispositivos de autenticidad, u otros soportes en los que esté colocada la marca.
+5. Sin perjuicio de los derechos de los titulares adquiridos antes de la fecha de presentación de la solicitud o de la fecha de la prioridad de la marca registrada, el titular de esa marca registrada también tendrá derecho a impedir que, en el tráfico económico, terceros introduzcan productos en España, sin que sean despachados a libre práctica, cuando se trate de productos, incluido su embalaje, que provengan de terceros países y que lleven sin autorización una marca idéntica a la marca registrada para esos productos, o que no pueda distinguirse en sus aspectos esenciales de dicha marca.
+Este derecho conferido al titular de la marca registrada se extinguirá si durante el procedimiento para determinar si se violó la marca registrada, iniciado de conformidad con el Reglamento (UE) n.º 608/2013, el declarante o el titular de los productos acredita que el titular de la marca registrada no tiene derecho a prohibir la comercialización de los productos en el país de destino final.
+6. El titular de una marca registrada podrá impedir que los comerciantes o distribuidores supriman dicha marca sin su expreso consentimiento, si bien no podrá impedir que añadan por separado marcas o signos distintivos propios, siempre que ello no menoscabe la distintividad de la marca principal.
+7. Las disposiciones de este artículo se aplicarán a la marca no registrada «notoriamente conocida» en España en el sentido del artículo 6 bis del Convenio de París, salvo lo previsto en la letra c) del apartado 2.
+Se modifica por el art. 1.17 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 35
+
+Artículo 35. Reproducción de la marca en diccionarios.
+Si la reproducción de una marca en un diccionario, una enciclopedia o una obra de consulta similar, en formato impreso o electrónico, diera la impresión de que constituye el término genérico de los productos o servicios para los que está registrada la marca, el editor de la obra, a petición del titular de la marca, velará por que la reproducción de esta vaya acompañada sin demora, y en el caso de obras en formato impreso, a más tardar en la siguiente edición de la obra, de la indicación de que se trata de una marca registrada.
+Se modifica por el art. 1.18 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 36
+
+Artículo 36. Agotamiento del derecho de marca.
+1. El derecho conferido por el registro de marca no permitirá a su titular prohibir a terceros el uso de la misma para productos comercializados en el Espacio Económico Europeo con dicha marca por el titular o con su consentimiento.
+2. El apartado 1 no se aplicará cuando existan motivos legítimos que justifiquen que el titular se oponga a la comercialización ulterior de los productos, en especial cuando el estado de los mismos se haya modificado o alterado tras su comercialización.
+
+### Artículo 37
+
+Artículo 37. Limitaciones del derecho de marca.
+1. Una marca no permitirá a su titular prohibir a un tercero hacer uso en el tráfico económico:
+a) De su nombre o dirección, cuando el tercero sea una persona física.
+b) De signos o indicaciones carentes de carácter distintivo o relativos a la especie, a la calidad, a la cantidad, al destino, al valor, a la procedencia geográfica, a la época de producción del producto o de la prestación del servicio o a otras características del producto o servicio.
+c) De la marca, a efectos de designar productos o servicios como correspondientes al titular de esa marca o de hacer referencia a los mismos, en particular cuando el uso de esa marca sea necesario para indicar el destino de un producto o de un servicio, en particular como accesorios o piezas de recambio.
+2. El apartado 1 solo se aplicará si la utilización por el tercero es conforme a las prácticas leales en materia industrial o comercial.
+3. El derecho de marca no podrá invocarse para eximir a su titular de responder frente a las acciones dirigidas contra él por violación de otros derechos de propiedad industrial o intelectual que tengan una fecha de prioridad anterior.
+Se modifica por el art. 1.19 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 38
+
+Artículo 38. Protección provisional.
+1. El derecho conferido por el registro de la marca sólo se podrá hacer valer ante terceros a partir de la publicación de su concesión. No obstante, la solicitud de registro de marca confiere a su titular, desde la fecha de su publicación, una protección provisional consistente en el derecho a exigir una indemnización razonable y adecuada a las circunstancias, si un tercero hubiera llevado a cabo, entre aquella fecha y la fecha de publicación de la concesión, un uso de la marca que después de ese período quedaría prohibido.
+2. Esa misma protección provisional será aplicable aun antes de la publicación de la solicitud frente a la persona a quien se hubiera notificado la presentación y el contenido de ésta.
+3. Se entiende que la solicitud de registro de marca no ha tenido nunca los efectos previstos en el apartado 1 cuando hubiere sido o se hubiere tenido por desistida, o cuando hubiese sido denegada en virtud de una resolución firme.
+4. La protección provisional prevista en este artículo sólo podrá reclamarse después de la publicación de la concesión del registro de la marca.
+
+## CAPÍTULO II
+
+Obligación de uso de la marca
+
+### Artículo 39
+
+Artículo 39. Uso de la marca.
+1. Si en el plazo de cinco años contados desde la fecha de su registro, la marca no hubiere sido objeto por parte de su titular de un uso efectivo en España para los productos o servicios para los cuales esté registrada, o si tal uso hubiere sido suspendido durante un plazo ininterrumpido de cinco años, la marca quedará sometida a los límites y las sanciones previstos en el artículo 21, apartados 3 y 5, el artículo 41, apartado 2, el artículo 54, apartado 1, letra a) y el artículo 59, apartados 4 y 5, salvo que existan causas que justifiquen la falta de uso.
+2. La fecha de cinco años a que se refiere el apartado anterior, se iniciará a partir del día en que el registro de la marca sea firme. Esta fecha se anotará en el Registro de Marcas.
+3. Serán igualmente considerados como uso a efectos de lo dispuesto en el apartado 1:
+a) el uso de la marca en una forma que difiera en elementos que no alteren el carácter distintivo de la marca en la forma bajo la cual esta haya sido registrada, con independencia de si la marca está o no registrada asimismo a nombre del titular en la forma en que se use.
+b) poner la marca en los productos o en su presentación con fines exclusivamente de exportación.
+4. El uso de la marca con consentimiento del titular se considerará hecho por el titular.
+5. Se reconocerán como causas justificativas de la falta de uso de la marca las circunstancias obstativas que sean independientes de la voluntad de su titular, como las restricciones a la importación u otros requisitos oficiales impuestos a los productos o servicios para los que esté registrada.
+Se modifica por el art. 1.20 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO III
+
+Acciones por violación del derecho de marca
+
+### Artículo 40
+
+Artículo 40. Posibilidad de ejercitar acciones civiles y penales.
+El titular de una marca registrada podrá ejercitar ante los órganos jurisdiccionales las acciones civiles o penales que correspondan contra quienes lesionen su derecho y exigir las medidas necesarias para su salvaguardia, todo ello sin perjuicio de la sumisión a arbitraje, si fuere posible.
+
+### Artículo 41
+
+Artículo 41. Acciones civiles que puede ejercitar el titular de la marca.
+1. En especial, el titular cuyo derecho de marca sea lesionado podrá reclamar en la vía civil:
+a) La cesación de los actos que violen su derecho.
+b) La indemnización de los daños y perjuicios sufridos.
+c) La adopción de las medidas necesarias para evitar que prosiga la violación y, en particular, que se retiren del tráfico económico los productos, embalajes, envoltorios, material publicitario, etiquetas u otros documentos en los que se haya materializado la violación del derecho de marca y el embargo o la destrucción de los medios principalmente destinados a cometer la infracción. Estas medidas se ejecutarán a costa del infractor, salvo que se aleguen razones fundadas para que no sea así.
+d) La destrucción o cesión con fines humanitarios, si fuere posible, a elección del actor, y a costa siempre del condenado, de los productos ilícitamente identificados con la marca que estén en posesión del infractor, salvo que la naturaleza del producto permita la eliminación del signo distintivo sin afectar al producto o la destrucción del producto produzca un perjuicio desproporcionado al infractor o al propietario, según las circunstancias específicas de cada caso apreciadas por el Tribunal.
+e) La atribución en propiedad de los productos, materiales y medios embargados en virtud de lo dispuesto en el apartado c) cuando sea posible, en cuyo caso se imputará el valor de los bienes afectados al importe de la indemnización de daños y perjuicios. Si el valor mencionado excediera del importe de la indemnización concedida, el titular del derecho de marca deberá compensar a la otra parte por el exceso.
+f) La publicación de la sentencia a costa del condenado mediante anuncios y notificaciones a las personas interesadas.
+2. El titular de una marca podrá prohibir la utilización de un signo solo en la medida en que los derechos del titular no puedan ser objeto de una declaración de caducidad con arreglo al artículo 54, apartado 1, letra a) en el momento de entablar la acción por violación. Si el demandado lo solicita, el titular de la marca acreditará que, durante el periodo de cinco años anterior a la fecha de presentación de la acción, la marca se usó efectivamente conforme a lo previsto en el artículo 39 para los productos o servicios para los cuales está registrada y en que se fundamenta la acción, o que existen causas justificativas para su falta de uso, siempre que el registro definitivo de la marca se hubiera producido al menos cinco años antes de la fecha de presentación de la acción.
+3. Las medidas contempladas en los párrafos a) y c) del apartado 1 de este artículo podrán también solicitarse, cuando sean apropiadas, contra los intermediarios a cuyos servicios recurra un tercero para infringir derechos de marca, aunque los actos de dichos intermediarios no constituyan en sí mismos una infracción, sin perjuicio de lo dispuesto en la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico. Dichas medidas habrán de ser objetivas, proporcionadas y no discriminatorias.
+Se modifica el apartado 2 por el art. 1.21 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+ Se modifica el apartado 1 y se añade un apartado 3 por el art. 4 .1 de la Ley 19/2006, de 5 de junio. Ref. BOE-A-2006-9960
+
+### Artículo 41 bis
+
+Artículo 41 bis. Protección del derecho del titular de una marca posterior en los procesos por violación de marca.
+1. En las acciones por violación, el titular de una marca no podrá prohibir la utilización de una marca registrada posterior si esta última no pudiera declararse nula conforme al artículo 52, apartados 2, al artículo 53 o al artículo 59, apartado 5.
+2. En las acciones por violación, el titular de una marca no podrá prohibir la utilización de una marca de la Unión registrada posterior si esta última no pudiera declararse nula conforme al artículo 60, apartados 1, 3 o 4, al artículo 61, apartados 1 y 2, o al artículo 64, apartado 2, del Reglamento (UE) n.º 2017/1001.
+3. Cuando el titular de una marca no tenga derecho a prohibir la utilización de una marca registrada posterior en virtud de los apartados 1 o 2, el titular de esta marca posterior no podrá prohibir la utilización de la marca anterior en una acción por violación, aunque el derecho de dicha marca anterior no pueda ya invocarse frente a la marca posterior.
+Se añade por el art. 1.22 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 42
+
+Artículo 42. Presupuestos de la indemnización de daños y perjuicios.
+1. Quienes, sin consentimiento del titular de la marca, realicen alguno de los actos previstos en la letra a) del apartado 3 y en el apartado 4 del artículo 34, así como los responsables de la primera comercialización de los productos o servicios ilícitamente marcados, estarán obligados en todo caso a responder de los daños y perjuicios causados.
+2. Todos aquellos que realicen cualquier otro acto de violación de la marca registrada solo estarán obligados a indemnizar los daños y perjuicios causados si hubieran sido advertidos suficientemente por el titular de la marca o, en su caso, por la persona legitimada para ejercitar la acción acerca de la existencia de esta, convenientemente identificada, y de su violación, con el requerimiento de que cesen en la misma, o cuando en su actuación hubiere mediado culpa o negligencia o la marca en cuestión fuera renombrada.
+Se modifica por el art. 1.23 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 43
+
+Artículo 43. Cálculo de la indemnización de daños y perjuicios.
+1. La indemnización de daños y perjuicios comprenderá no sólo las pérdidas sufridas, sino también las ganancias dejadas de obtener por el titular del registro de la marca causa de la violación de su derecho. El titular del registro de marca también podrá exigir la indemnización del perjuicio causado al prestigio de la marca por el infractor, especialmente por una realización defectuosa de los productos ilícitamente marcados o una presentación inadecuada de aquélla en el mercado. Asimismo, la cuantía indemnizatoria podrá incluir, en su caso, los gastos de investigación en los que se haya incurrido para obtener pruebas razonables de la comisión de la infracción objeto del procedimiento judicial.
+2. Para fijar la indemnización por daños y perjuicios se tendrá en cuenta, a elección del perjudicado:
+a) Las consecuencias económicas negativas, entre ellas los beneficios que el titular habría obtenido mediante el uso de la marca si no hubiera tenido lugar la violación o, alternativamente, los beneficios que haya obtenido el infractor como consecuencia de la violación.
+b) Una cantidad a tanto alzado que al menos comprenda la cantidad que el infractor hubiera debido pagar al titular de la marca por la concesión de una licencia que le hubiera permitido llevar a cabo su utilización conforme a derecho.
+En el caso de daño moral procederá su indemnización, aun no probada la existencia del perjuicio económico.
+3. Para la fijación de la indemnización se tendrá en cuenta, entre otras circunstancias, el renombre y prestigio de la marca y el número y clase de licencias concedidas en el momento en que comenzó la violación. En el caso de daño en el prestigio de la marca se atenderá, además, a las circunstancias de la infracción, gravedad de la lesión y grado de difusión en el mercado
+4. A fin de fijar la cuantía de los daños y perjuicios sufridos, el titular de la marca podrá exigir la exhibición de los documentos del responsable que puedan servir para aquella finalidad.
+5. El titular de la marca cuya violación hubiera sido declarada judicialmente tendrá, en todo caso y sin necesidad de prueba alguna, derecho a percibir en concepto de indemnización de daños y perjuicios el 1 por ciento de la cifra de negocios realizada por el infractor con los productos o servicios ilícitamente marcados. El titular de la marca podrá exigir, además, una indemnización mayor si prueba que la violación de su marca le ocasionó daños o perjuicios superiores, de acuerdo con lo dispuesto en los apartados anteriores.
+Se modifican los apartados 2 y 3 por el art. 1.24 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+ Se modifican los apartados 1 y 2 por el art. 4.2 de la Ley 19/2006, de 5 de junio. Ref. BOE-A-2006-9960
+
+### Artículo 44
+
+Artículo 44. Indemnizaciones coercitivas.
+Cuando se condene a la cesación de los actos de violación de una marca, el Tribunal fijará una indemnización de cuantía determinada no inferior a 600 euros por día transcurrido hasta que se produzca la cesación efectiva de la violación. El importe de esta indemnización y el día a partir del cual surgirá la obligación de indemnizar se fijará en ejecución de sentencia.
+
+### Artículo 45
+
+Artículo 45. Prescripción de acciones.
+1. Las acciones civiles derivadas de la violación del derecho de marca prescriben a los cinco años, contados desde el día en que pudieron ejercitarse.
+2. La indemnización de daños y perjuicios solamente podrá exigirse en relación con los actos de violación realizados durante los cinco años anteriores a la fecha en que se ejercite la correspondiente acción.
+
+## CAPÍTULO IV
+
+La marca como objeto de derecho de propiedad
+
+### Artículo 46
+
+Artículo 46. Principios generales.
+1. La marca o su solicitud podrá pertenecer pro indiviso a varias personas. La comunidad resultante se regirá por lo acordado entre las partes, en su defecto por lo dispuesto en este apartado y en último término por las normas del Derecho común sobre la comunidad de bienes. La concesión de licencias y el uso independiente de la marca por cada partícipe deberán ser acordados conforme a lo dispuesto en el artículo 398 del Código Civil. Cada partícipe podrá por sí solo ejercitar las acciones civiles y criminales en defensa de la marca, pero deberá notificarlo a los demás comuneros, a fin de que éstos puedan sumarse a las mismas y para que contribuyan al pago de los gastos habidos. En caso de cesión de la marca o de una participación, los partícipes podrán ejercitar el derecho de tanteo en el plazo de un mes a contar desde el momento en que fueran notificados del propósito y condiciones en que se llevaría a cabo la cesión. A falta de aviso previo o si la cesión se hubiere realizado de forma distinta a lo prevenido en aquél, los partícipes podrán ejercitar el derecho de retracto, en igual plazo, desde la publicación de la inscripción de la cesión en el Registro de Marcas. La oposición absoluta e injustificada de un partícipe al uso de la marca de forma que pueda dar lugar a su declaración de caducidad se considerará, a todos los efectos, como renuncia a su derecho.
+2. Con independencia de la transmisión de la totalidad o de parte de la empresa, la marca y su solicitud podrán transmitirse, darse en garantía o ser objeto de otros derechos reales, licencias, opciones de compra, embargos u otras medidas que resulten del procedimiento de ejecución, para todos o parte de los productos o servicios para los cuales estén registradas o solicitadas, e inscribirse en el Registro de Marcas, sin perjuicio de los demás negocios jurídicos de que fuere susceptible el derecho de marca. En el supuesto de que se constituya una hipoteca mobiliaria, ésta se regirá por sus disposiciones específicas y se inscribirá en la Sección Cuarta del Registro de Bienes Muebles, con notificación de dicha inscripción a la Oficina Española de Patentes y Marcas para su anotación en el Registro de Marcas. A estos efectos ambos registros estarán coordinados de forma que se comunicarán telemáticamente entre ellos los gravámenes sobre marcas inscritos o anotados en los mismos.
+3. Los actos jurídicos contemplados en el apartado anterior sólo podrán oponerse frente a terceros de buena fe una vez inscritos en el Registro de Marcas.
+4. Inscrito en el Registro de Marcas alguno de los derechos o gravámenes contemplados en el apartado 2, no podrá inscribirse ningún otro de igual o anterior fecha que resulte opuesto o incompatible con aquél. Si sólo se hubiera anotado la solicitud de inscripción, tampoco podrá inscribirse hasta la resolución de la misma ningún otro derecho o gravamen de la clase antes expresada.
+5. La solicitud de inscripción que acceda primeramente al órgano competente será preferente sobre las que accedan con posterioridad, practicándose las operaciones registrales correspondientes según el orden de presentación.
+6. El Registro de Marcas es público. La publicidad se hará efectiva, previo pago de las tasas o precios públicos correspondientes, mediante el acceso individualizado a las bases de datos, suministro de listados informáticos, consulta autorizada de los expedientes, obtención de copias de los mismos y certificaciones y, de forma gratuita, en la forma prevista en la disposición adicional undécima de la presente Ley.
+
+### Artículo 47
+
+Artículo 47. Transmisión de la marca.
+1. La transmisión de la empresa en su totalidad implicará la cesión de la marca, a no ser que exista acuerdo en contrario o que las circunstancias determinen claramente lo contrario. Esta disposición será aplicable a la obligación contractual de transmitir la empresa.
+2. Si de los documentos que establecen la transmisión se dedujera de forma manifiesta que debido a esa transmisión la marca podría inducir al público a error, en particular sobre la naturaleza, la calidad o la procedencia geográfica de los productos o de los servicios para los cuales esté solicitada o registrada, se denegará la inscripción de la transmisión, a no ser que el adquirente acepte limitar la solicitud o el registro de la marca a productos o servicios para los cuales no resulte engañosa.
+Se modifica el apartado 1 por el art. 1.25 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 48
+
+Artículo 48. Licencia.
+1. Tanto la solicitud como la marca podrán ser objeto de licencias sobre la totalidad o una parte de los productos y servicios para los cuales esté registrada y para todo o parte del territorio español. Las licencias podrán ser exclusivas o no exclusivas.
+2. Los derechos conferidos por el registro de la marca o por su solicitud podrán ser ejercitados frente a cualquier licenciatario que viole alguna de las disposiciones del contrato de licencia relativas a su duración, a la forma protegida por el registro, a la naturaleza de los productos o servicios, al territorio en el cual pueda ponerse la marca o a la calidad de los productos fabricados o de los servicios prestados por el licenciatario.
+3. El titular de una licencia no podrá cederla a terceros, ni conceder sublicencias, a no ser que se hubiere convenido lo contrario.
+4. Salvo pacto en contrario, el titular de una licencia tendrá derecho a utilizar la marca durante toda la duración del registro, incluidas las renovaciones, en todo el territorio nacional y en relación con todos los productos o servicios para los cuales la marca esté registrada.
+5. Se entenderá, salvo pacto en contrario, que la licencia no es exclusiva y que el licenciante podrá conceder otras licencias y utilizar por sí mismo la marca.
+6. Cuando la licencia sea exclusiva el licenciante sólo podrá utilizar la marca si en el contrato se hubiera reservado expresamente ese derecho.
+7. Sin perjuicio de lo estipulado en el contrato de licencia, el licenciatario solo podrá ejercer acciones relativas a la violación de una marca con el consentimiento del titular de esta. Sin embargo, el titular de una licencia exclusiva podrá ejercer tal acción cuando el titular de la marca, habiendo sido requerido, no haya ejercido por sí mismo la acción por violación. A estos efectos, será de aplicación al licenciatario exclusivo de marca lo dispuesto en el artículo 117.3 y 4 de la Ley 24/2015, de 24 de julio, de Patentes.
+8. En el procedimiento por violación de marca entablado por el titular de la marca podrá intervenir cualquier licenciatario a fin de obtener reparación del perjuicio que se le haya causado
+Se añaden los apartados 7 y 8 por el art. 1.26 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 49
+
+Artículo 49. Solicitud de inscripción de las modificaciones de derechos.
+1. La inscripción del cambio en la titularidad del registro de marca deberá solicitarse mediante instancia en la forma que se establezca reglamentariamente. La solicitud de inscripción deberá acompañarse del justificante de pago de la tasa correspondiente que se abonará según los registros afectados.
+2. Si la transmisión de la titularidad resulta de un contrato, la instancia deberá expresarlo. A elección del solicitante se deberá acompañar a la instancia alguno de los siguientes documentos:
+a) Copia auténtica del contrato o bien copia simple del mismo con legitimación de firmas efectuada por notario o por otra autoridad pública competente.
+b) Extracto del contrato en el que conste por testimonio notarial o de otra autoridad pública competente que el extracto es conforme con el contrato original.
+c) Certificado o documento de transferencia firmado tanto por el titular como por el nuevo propietario, ajustado al modelo que se establezca reglamentariamente.
+3. Si el cambio en la titularidad se produce por una fusión, por imperativo de la ley, por resolución admi nistrativa o por decisión judicial, deberá acompañarse a la instancia testimonio emanado de la autoridad pública que emita el documento, o bien copia del documento que pruebe el cambio, autenticada o legitimada por notario o por otra autoridad pública competente. De la misma manera se solicitará la inscripción de embargos y demás medidas judiciales.
+4. Los apartados anteriores serán aplicables, en todo aquello que no sea incompatible con su propia naturaleza, a la inscripción de los demás actos o negocios jurídicos contemplados en el apartado 2 del artículo 46, salvo la hipoteca mobiliaria que se regirá por sus disposiciones específicas y la constitución de otros derechos reales o de una opción de compra, para cuya inscripción deberá acompañarse alguno de los documentos públicos previstos en las letras a) o b) del apartado 2.
+
+### Artículo 50
+
+Artículo 50. Procedimiento de inscripción de las modificaciones de derechos.
+1. La inscripción de los actos y negocios jurídicos contemplados en el apartado 2 del artículo 46, podrá solicitarse tanto por el cedente como por el cesionario y la solicitud de inscripción se presentará, conforme a quien sea el solicitante, en el órgano que resulte competente de acuerdo con lo previsto en el artículo 11.
+2. Recibida la solicitud de inscripción, el órgano competente la numerará y fechará en el momento de su recepción y, dentro de los cinco días siguientes, remitirá, en su caso, los datos de la misma a la Oficina Española de Patentes y Marcas, en la forma que reglamentariamente se determine.
+3. El órgano competente para la recepción examinará si la documentación presentada consta de:
+a) Una instancia de solicitud conforme al modelo oficial, conteniendo el número del registro de marca afectado, los datos de identificación del nuevo titular y la indicación de los productos o servicios a los que afecte la cesión o licencia, si no fueran totales.
+b) El documento acreditativo de la cesión o licencia, de conformidad con lo dispuesto en los apartados 2, 3 y 4 del artículo 49.
+c) El justificante de abono de la tasa correspondiente.
+4. Si la solicitud de inscripción no cumpliera las condiciones previstas en el apartado anterior, el órgano competente comunicará las irregularidades observadas al solicitante, para que, en el plazo que reglamentariamente se establezca, las subsane. Si no se subsanasen, la solicitud de inscripción se tendrá por desistida, procediéndose, en su caso, conforme establece el apartado 2 del artículo 17. Si la solicitud no presentara ninguna de estas irregularidades o las mismas hubieran sido subsanadas, el órgano competente de la Comunidad Autónoma, si de él se tratara, procederá conforme a lo previsto en el apartado 1 del artículo 17.
+5. Recibida la solicitud de inscripción, la Oficina Española de Patentes y Marcas examinará la documentación presentada y calificará la legalidad, validez y eficacia de los actos que hayan de inscribirse. Si se observara algún defecto, se declarará en suspenso la tramitación de la inscripción, notificándolo al interesado para que, en el plazo que reglamentariamente se establezca, subsane los defectos que se hayan señalado.
+Transcurrido ese plazo se resolverá la solicitud de inscripción.
+6. Cuando la Oficina Española de Patentes y Marcas pueda dudar razonablemente de la veracidad de cualquier indicación contenida en la solicitud de inscripción o en los documentos que la acompañen, podrá exigir al solicitante la aportación de pruebas que acrediten la veracidad de esas indicaciones.
+7. La Oficina Española de Patentes y Marcas resolverá concediendo o denegando, total o parcialmente, la solicitud de inscripción. En el caso de denegación se indicarán sucintamente los motivos de la misma. La resolución recaída se publicará en el "Boletín Oficial de la Propiedad Industrial", con mención expresa de los siguientes datos:
+a) Nuevo titular del derecho.
+b) Número de expediente.
+c) Identificación de los registros afectados.
+d) Fecha de resolución.
+e) Representante, si hubiere intervenido.
+f) El acto que dio origen a la inscripción.
+
+## TÍTULO VI
+
+Nulidad y caducidad de la marca
+
+## CAPÍTULO I
+
+Nulidad
+
+### Artículo 51
+
+Artículo 51. Causas de nulidad absoluta.
+1. El registro de la marca podrá declararse nulo mediante solicitud presentada ante la Oficina Española de Patentes y Marcas o mediante demanda reconvencional en una acción por violación de marca:
+a) Cuando contravenga lo dispuesto en el artículo 5 de la presente Ley.
+b) Cuando al presentar la solicitud de marca el solicitante hubiera actuado de mala fe.
+2. La acción para pedir la nulidad absoluta de una marca registrada es imprescriptible.
+3. No podrá ser declarada la nulidad de una marca, cuando habiéndose registrado contraviniendo el artículo 5, apartado 1, letras b), c) o d), dicha marca hubiera adquirido, antes de la fecha de presentación de la solicitud de nulidad o demanda reconvencional de nulidad, un carácter distintivo para los productos o servicios para los cuales esté registrada por el uso que se hubiera hecho de ella por su titular o con su consentimiento.
+4. Si la causa de nulidad solamente existiese para una parte de los productos o servicios para los cuales esté registrada la marca, su declaración solo se extenderá a los productos o servicios afectados.
+Se modifica por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 52
+
+Artículo 52. Causas de nulidad relativa.
+1. El registro de la marca podrá declararse nulo mediante solicitud presentada ante la Oficina Española de Patentes y Marcas o mediante demanda reconvencional en una acción por violación de marca cuando contravenga lo dispuesto en los artículos 6, 7, 8, 9 y 10.
+2. El titular de un derecho anterior de los contemplado en los artículos 6, 7, 8 y 9.1 que haya tolerado el uso de una marca posterior registrada durante un período de cinco años consecutivos con conocimiento de dicho uso, no podrá solicitar en lo sucesivo la nulidad de la marca posterior basándose en dicho derecho anterior para los productos o los servicios para los cuales se hubiera utilizado la marca posterior, salvo que la solicitud de esta se hubiera efectuado de mala fe. En el supuesto contemplado en este apartado, el titular de la marca posterior no podrá oponerse al uso del derecho anterior, a pesar de que ese derecho ya no pueda invocarse contra la marca posterior.
+3. No podrá declararse nula una marca cuando, antes de la presentación de la solicitud de nulidad o de la demanda de reconvención, el titular de uno de los derechos contemplados en los artículos citados en el apartado 1 hubiera dado expresamente su consentimiento al registro de esa marca.
+4. El titular de alguno de los derechos contemplados en los artículos citados en el apartado 1 que hubiera solicitado previamente la nulidad de una marca o presentado demanda de reconvención en una acción por violación de marca, no podrá presentar otra solicitud de nulidad ni una demanda de reconvención fundada sobre otro de esos derechos que hubiera podido alegar en apoyo de la primera demanda.
+5. Será de aplicación lo previsto en el apartado 4 del artículo 51.
+Se modifica por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 53
+
+Artículo 53. Ausencia de carácter distintivo o de renombre de una marca anterior que impide declarar la nulidad de una marca registrada posterior.
+Una solicitud de nulidad basada en una marca anterior no prosperará si no hubiese prosperado en la fecha de presentación o en la fecha de prioridad de la marca registrada posterior por alguno de los siguientes motivos:
+a) Que la marca anterior, susceptible de ser declarada nula en virtud del artículo 5, apartado 1, letras b), c) o d), aún no hubiera adquirido carácter distintivo a tenor del artículo 51, apartado 3.
+b) Que la solicitud de nulidad se base en el artículo 6, apartado 1, letra b), y la marca anterior aún no hubiera adquirido un carácter suficientemente distintivo para fundamentar la existencia de riesgo de confusión, a tenor del citado artículo 6, apartado 1, letra b).
+c) Que la solicitud de nulidad se base en el artículo 8, apartado 1, y la marca anterior aún no hubiera adquirido renombre a tenor de dicho artículo 8, apartado 1.
+Se modifica por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO II
+
+Caducidad
+Se modifica por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 54
+
+Artículo 54. Caducidad.
+1. Se declarará la caducidad de la marca mediante solicitud presentada ante la Oficina Española de Patentes y Marcas o mediante una demanda de reconvención en una acción por violación de marca:
+a) Cuando no hubiera sido usada conforme al artículo 39 de esta Ley.
+b) Cuando en el comercio se hubiera convertido, por la actividad o inactividad de su titular, en la designación usual de un producto o de un servicio para el que esté registrada.
+c) Cuando a consecuencia del uso que de ella hubiera hecho el titular de la marca, o que se hubiera hecho con su consentimiento, para los productos o servicios para los que esté registrada, la marca pueda inducir al público a error, especialmente acerca de la naturaleza, la calidad o la procedencia geográfica de estos productos o servicios.
+2. Si la causa de caducidad solamente existiese para una parte de los productos o servicios para los cuales esté registrada la marca, su declaración solo se extenderá a los productos o servicios afectados.
+3. Así mismo, la Oficina Española de Patentes y Marcas declarará la caducidad de la marca:
+a) Cuando no hubiere sido renovada conforme a lo previsto en el artículo 32 de la presente Ley.
+b) Cuando hubiera sido objeto de renuncia por su titular.
+Se modifica por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO II
+
+Caducidad
+
+### Artículo 55
+
+Artículo 55. Caducidad por falta de renovación.
+1. Cuando existan embargos inscritos sobre una marca o una acción reivindicatoria en curso y su titular no la hubiera renovado, no caducará dicha marca hasta el levantamiento del embargo o la desestimación definitiva de la acción reivindicatoria. Si como consecuencia de estos procedimientos se produjera un cambio en la titularidad de la marca, el nuevo titular podrá renovarla en el plazo de dos meses a contar desde la fecha en que la sentencia sobre la acción reivindicatoria hubiera ganado firmeza o desde que la autoridad o tribunal competente hubieran notificado a la Oficina Española de Patentes y Marcas la adjudicación definitiva de la marca embargada. Transcurrido este plazo, la marca caducará si no hubiere sido renovada.
+2. Tampoco caducará una marca por falta de renovación cuando se encuentre inscrita en el Registro de Marcas una hipoteca mobiliaria sobre la misma. El titular hipotecario, si el propietario de la marca no lo hubiere realizado, podrá solicitar la renovación en nombre de este último en el plazo de dos meses a contar desde la finalización del plazo de demora previsto en el artículo 32.3 de esta Ley. El titular hipotecario también podrá abonar las tasas de renovación en el plazo de dos meses desde la finalización del plazo en que debieron ser pagadas por el propietario. La inactividad del titular hipotecario en los plazos previstos determinará la caducidad de la marca, lo que se comunicará en forma telemática al Registro de Bienes Muebles en la misma forma establecida en el artículo 46.2 de esta Ley.
+Se modifica por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 56
+
+Artículo 56. Renuncia de la marca.
+1. El titular podrá renunciar a toda la marca o a parte de los productos o servicios para los cuales esté registrada.
+2. La renuncia deberá presentarse ante la Oficina Española de Patentes y Marcas o los órganos a que se refiere el artículo 11, por escrito y solo tendrá efectos una vez inscrita en el Registro de Marcas. Si la solicitud se presentase ante un órgano distinto de la Oficina Española de Patentes y Marcas, el órgano que la reciba la remitirá a aquella, junto con la documentación que la acompañe, en el plazo de cinco días siguientes a su recepción.
+3. No podrá admitirse la renuncia del titular de una marca sobre la que existan derechos reales, opciones de compra, embargos o licencias inscritos en el Registro de Marcas, sin que conste el consentimiento de los titulares de esos derechos. Tampoco se admitirá la renuncia si existiera en curso una acción reivindicatoria sobre la marca y no constara el consentimiento del demandante.
+Se modifica por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 57
+
+Artículo 57. Caducidad por falta de uso de la marca.
+En la solicitud o demanda reconvencional de caducidad por falta de uso de la marca corresponderá al titular de la misma demostrar que ha sido usada con arreglo al artículo 39 o que existen causas justificativas de la falta de uso. No podrá declararse la caducidad de la marca si, en el intervalo entre la expiración del período de cinco años a que se refiere el artículo 39 y la presentación de la solicitud o demanda reconvencional de caducidad, se hubiera iniciado o reanudado un uso efectivo de la marca; no obstante, el comienzo o la reanudación del uso en un plazo de tres meses anterior a la presentación de la solicitud o demanda reconvencional de caducidad, plazo que empezará a correr en fecha no anterior a la de expiración del período ininterrumpido de cinco años de no utilización, no se tomará en cuenta si los preparativos para el inicio o la reanudación del uso se hubieran producido después de haber conocido el titular que la solicitud o demanda reconvencional de caducidad podría ser presentada.
+Se modifica por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO III
+
+Disposiciones comunes
+Se modifica por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 58
+
+Artículo 58. Solicitud de nulidad o caducidad.
+1. Podrán presentar ante la Oficina Española de Patentes y Marcas una solicitud de nulidad o caducidad del registro de la marca:
+a) En los casos previstos en los artículo 51 y 54.1. a), b), y c), cualquier persona física o jurídica, así como las agrupaciones u organismos que representen a fabricantes, productores, prestadores de servicios o comerciantes y las asociaciones de consumidores y usuarios, legalmente constituidas e inscritas conforme a la legislación estatal o autonómica que les resulte de aplicación, que se consideren perjudicados y tengan capacidad procesal.
+b) En los casos previstos en el artículo 52, las personas contempladas en las letras b) a e) del artículo 19, apartado 1.
+2. La solicitud deberá formularse mediante escrito motivado y debidamente documentado, y solo se tendrá por presentada una vez que se haya pagado la tasa correspondiente.
+3. Podrá dirigirse una solicitud de caducidad o de nulidad contra la totalidad o una parte de los productos o servicios para los que esté registrada la marca impugnada.
+4. Podrá presentarse una solicitud de nulidad sobre la base de uno o más derechos anteriores siempre que pertenezcan todos al mismo titular.
+Se modifica por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO III
+
+Disposiciones comunes
+
+### Artículo 59
+
+Artículo 59. Examen de la solicitud de nulidad y caducidad.
+1. Recibida la solicitud de nulidad o caducidad, la Oficina Española de Patentes y Marcas dará traslado de la misma al titular de la marca impugnada para que, en el plazo que reglamentariamente se determine, presente sus alegaciones y pruebas. En el curso del examen de la solicitud de nulidad o caducidad, la Oficina podrá requerir a las partes, cuantas veces considere necesario, para que, en el plazo que reglamentariamente se establezca, contesten a las alegaciones o pruebas presentadas por la otra parte.
+2. A instancia del titular de la marca impugnada, el titular de la marca anterior que sea parte en el procedimiento de nulidad, aportará prueba de que, en el curso de los cinco años anteriores a la solicitud de nulidad, la marca anterior ha sido objeto de un uso efectivo, tal como establece el artículo 39, para los productos o los servicios para los cuales esté registrada, y en los que se basa la solicitud de nulidad, o de que han existido causas justificativas para la falta de uso, a condición de que el procedimiento de registro de la marca anterior haya finalizado al menos cinco años antes de la fecha de presentación de la solicitud de nulidad.
+3. Si en la fecha de presentación de la solicitud o en la fecha de prioridad de la marca impugnada, hubiera expirado el plazo de cinco años durante el cual la marca anterior debía haber sido objeto de un uso efectivo conforme a lo previsto en el artículo 39, el titular de la marca anterior, además de la prueba exigida en virtud del apartado 2 del presente artículo, aportará la prueba de que, en el curso de los cinco años anteriores a la fecha de presentación de la solicitud o a la fecha de prioridad de la marca impugnada, la marca anterior ha sido objeto de un uso efectivo, o de que han existido causas justificativas para su falta de uso.
+4. En el supuesto contemplado en el apartado 2, y si se cumplen los requisitos previstos en el mismo, la Oficina Española de Patentes y Marcas dará traslado de la petición al titular de la marca anterior para que, en el plazo que reglamentariamente se determine, presente la correspondiente prueba de uso conforme a lo previsto en los apartados 2 y 3. La Oficina así mismo dará traslado al titular de la marca impugnada de la prueba presentada para que, en el plazo que reglamentariamente se establezca, presente sus alegaciones.
+5. A falta de las pruebas a que se refieren los apartados 2 y 3, la solicitud de nulidad basada en una marca anterior se desestimará.
+6. Si la marca anterior se ha utilizado conforme a lo dispuesto en el artículo 39, solamente para una parte de los productos o servicios para los que estuviera registrada, a efectos del examen de la solicitud de nulidad, se considerará registrada solamente para dicha parte de los productos o servicios.
+7. Los apartados 2 a 6 del presente artículo serán de aplicación también cuando la marca anterior sea una marca de la Unión. En tal caso, el uso efectivo de una marca de la Unión se determinará de acuerdo con lo establecido en el artículo 18 del Reglamento (UE) n.º 2017/1001.
+Se modifica por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 60
+
+Artículo 60. Efectos de la caducidad y de la nulidad.
+1. La marca registrada se considerará que no ha tenido, a partir de la fecha de la solicitud de caducidad o de la demanda de reconvención, los efectos señalados en la presente Ley en la medida en que se haya declarado la caducidad de los derechos del titular. A instancia de parte podrá fijarse en la resolución sobre la solicitud o demanda de caducidad una fecha anterior en que se hubiera producido alguna de las causas de caducidad.
+2. La marca registrada se considerará que no ha tenido, desde el principio, los efectos señalados en la presente Ley en la medida en que se haya declarado la nulidad de la marca.
+3. Sin perjuicio de la indemnización de daños y perjuicios a que hubiere dado lugar cuando el titular de la marca hubiere actuado de mala fe, el efecto retroactivo de la nulidad o caducidad no afectará:
+a) A las resoluciones sobre violación de la marca que hubieran adquirido fuerza de cosa juzgada y hubieran sido ejecutadas antes de la declaración de nulidad o caducidad.
+b) A los contratos concluidos antes de la declaración de nulidad o caducidad en la medida en que hubieran sido ejecutados con anterioridad a esa declaración. Esto no obstante, por razones de equidad, y en la medida en que lo justifiquen las circunstancias, será posible reclamar la restitución de sumas pagadas en virtud del contrato.
+4. Cuando se declare la caducidad o nulidad de una marca, el acreedor hipotecario podrá dar por vencida la obligación garantizada.
+Se modifica por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 61
+
+Artículo 61. Firmeza de las resoluciones judiciales y administrativas.
+1. Los tribunales desestimarán toda demanda de reconvención por nulidad o caducidad si la Oficina Española de Patentes y marcas ya se hubiere pronunciado con anterioridad, mediante resolución ya firme, sobre una solicitud con el mismo objeto y con la misma causa, entre las mismas partes.
+2. La Oficina Española de Patentes y Marcas no admitirá una solicitud de nulidad o caducidad cuando un tribunal o la propia Oficina hubieran resuelto entre las mismas partes una demanda reconvencional o una solicitud con el mismo objeto y la misma causa y esa sentencia o resolución hubieran adquirido firmeza.
+3. No podrá solicitar ante la Oficina Española de Patentes y Marcas o demandar ante la jurisdicción civil la nulidad de una marca, invocando la misma causa de nulidad que hubiera sido ya objeto de pronunciamiento, en cuanto al fondo de la cuestión, en sentencia firme dictada en recurso contencioso-administrativo, quien hubiera sido parte en el mismo.
+Se modifica por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 61 bis
+
+Artículo 61 bis. Normas en materia de conexión de causas.
+1. A no ser que existan razones especiales para proseguir el procedimiento, el tribunal ante el que se hubiere formulado una demanda reconvencional por nulidad o caducidad de marca, suspenderá su fallo de oficio, previa audiencia de las partes, o a instancia de parte y previa audiencia de las demás, si la validez de la marca ya se hallara impugnada ante otro tribunal o ante la Oficina Española de Patentes y Marcas.
+2. A no ser que existan razones especiales para proseguir el procedimiento, la Oficina Española de Patentes y Marcas suspenderá de oficio la resolución de una solicitud de nulidad o caducidad de marca, previa audiencia de las partes, o a instancia de parte y previa audiencia de las demás, si la validez de la marca se hallara ya impugnada mediante demanda de reconvención ante un tribunal.
+3. Cuando un tribunal tenga que resolver sobre una violación de marca y dicha marca estuviera pendiente de una demanda o solicitud de nulidad o caducidad ante otro tribunal o ante la Oficina Española de Patentes y Marcas, el tribunal, a petición de ambas partes o de una de ellas, oída la contraria, podrá mediante auto decretar la suspensión del proceso, hasta que el otro tribunal o la Oficina dicten resolución firme sobre la nulidad o caducidad formuladas.
+4. La pendencia o litispendencia, con todos sus efectos procedimentales o procesales, se producirá desde la presentación de la solicitud o demanda, siempre que las mismas sean admitidas.
+5. Interpuesta una demanda por violación de marca ante un tribunal, el demandado no podrá formular como defensa una solicitud de nulidad o caducidad de dicha marca ante la Oficina Española de Patentes y Marcas, sino que habrá de interponer la correspondiente demanda de reconvención ante dicho tribunal.
+6. La acción negatoria no podrá interponerse junto con la acción de nulidad o caducidad de la marca.
+Se añade por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 61 ter
+
+Artículo 61 ter. Anotaciones registrales y comunicaciones entre órganos.
+1. La Oficina Española de Patentes y Marcas anotará en el Registro de Marcas la interposición de toda solicitud o demanda de nulidad o caducidad de marca, así como toda resolución o sentencia firmes que recayeran sobre las mismas.
+2. El tribunal ante el que se haya presentado una demanda de reconvención por nulidad o caducidad de una marca comunicará de oficio a la Oficina la fecha de interposición de la misma. La Oficina, si dicha marca tuviera pendiente de resolución una solicitud de nulidad o caducidad, informará de ello al tribunal, así como de la ausencia, en su caso, de dicha circunstancia.
+3. Si ante la Oficina estuviera pendiente de resolución una solicitud de caducidad o de nulidad de la marca de fecha de presentación anterior a la de interposición de la demanda de reconvención, el tribunal, una vez informado conforme al apartado anterior, suspenderá el fallo de conformidad con el artículo 61 bis, apartado 1, hasta que la resolución sobre la solicitud sea firme. La Oficina comunicará esta resolución firme al tribunal.
+4. El tribunal que hubiere dictado una sentencia sobre una demanda de reconvención por nulidad o caducidad, que hubiere adquirido firmeza, comunicará de oficio dicha sentencia a la Oficina Española de Patentes y Marcas para que proceda conforme a lo previsto en el apartado 1 y, en su caso, en el apartado 5.
+5. Una vez firme la resolución o sentencia que declare la nulidad o caducidad de la marca, la Oficina Española de Patentes y Marcas procederá inmediatamente a la cancelación de la inscripción del registro y a su publicación en el «Boletín Oficial de la Propiedad Industrial». En el caso de que la marca cancelada tuviera inscrita una hipoteca mobiliaria vigente, la cancelación se notificará telemáticamente al Registro de Bienes Muebles.
+Se añade por el art. 1.27 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## TÍTULO VII
+
+Marcas colectivas y marcas de garantía
+
+## CAPÍTULO I
+
+Marcas colectivas
+
+### Artículo 62
+
+Artículo 62. Concepto y titularidad.
+1. Se entenderá por marca colectiva todo signo que, cumpliendo los requisitos previstos en el artículo 4, sirva para distinguir los productos o servicios de los miembros de la asociación titular de la marca de los productos o servicios de otras empresas.
+2. Solo podrán solicitar marcas colectivas las asociaciones de fabricantes, productores, prestadores de servicios o comerciantes que tengan capacidad, en su propio nombre, para ser titulares de derechos y obligaciones, celebrar contratos o realizar otros actos jurídicos, y que tengan capacidad procesal, así como las personas jurídicas de Derecho público.
+3. No obstante lo dispuesto en el artículo 5.1.c), podrán registrarse como marcas colectivas los signos o indicaciones que puedan servir en el comercio para señalar la procedencia geográfica de los productos o de los servicios. El derecho conferido por la marca colectiva no permitirá a su titular prohibir a un tercero el uso en el comercio de tales signos o indicaciones, siempre que dicho uso se realice con arreglo a prácticas leales en materia industrial o comercial; en particular dicha marca no podrá oponerse a un tercero autorizado a utilizar una denominación geográfica.
+Se modifica por el art. 1.28 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 63
+
+Artículo 63. Reglamento de uso.
+1. La solicitud de registro de marca colectiva deberá ser acompañada de un reglamento de uso, en el que, además de los datos de identificación de la asociación solicitante, se especificarán las personas autorizadas a utilizar la marca, las condiciones de afiliación a la asociación, las condiciones de uso de la marca, los motivos por los que puede prohibirse el uso de la marca a un miembro de la asociación y demás sanciones en que puede incurrir.
+2. Si la marca colectiva consistiera en una indicación de procedencia geográfica, el reglamento de uso deberá prever que cualquier persona cuyos productos o servicios provengan de esa zona geográfica y cumplan las condiciones prescritas por el mismo, podrá hacerse miembro de la asociación.
+
+### Artículo 64
+
+Artículo 64. Denegación de la solicitud.
+1. La solicitud de registro de una marca colectiva será denegada en la forma y por los mismos motivos que una marca individual y, además, cuando no cumpla lo dispuesto en los artículos 62 y 63, o cuando el reglamento de uso sea contrario a la ley, al orden público o a las buenas costumbres.
+2. La solicitud de marca colectiva será también denegada cuando pueda inducir al público a error sobre el carácter o la significación de la marca, en particular cuando pueda dar la impresión de ser algo distinto de una marca colectiva.
+3. No se denegará la solicitud si el solicitante, mediante una modificación del reglamento de uso, cumpliere los requisitos enunciados en los apartados 1 y 2.
+
+### Artículo 65
+
+Artículo 65. Modificación del reglamento de uso.
+1. El titular de la marca colectiva deberá someter a la Oficina Española de Patentes y Marcas toda propuesta de modificación del reglamento de uso. Se desestimará la modificación cuando el reglamento de uso modificado no cumpla los requisitos del artículo 63 o incurra en alguna de las prohibiciones de registro del artículo 64.
+2. La modificación del reglamento de uso surtirá efectos a partir de su inscripción en la Oficina Española de Patentes y Marcas.
+
+### Artículo 66
+
+Artículo 66. Causas de nulidad.
+Además de por las causas de nulidad previstas en los artículos 51 y 52, se declarará la nulidad del registro de una marca colectiva, mediante solicitud presentada ante la Oficina Española de Patentes y Marcas o mediante una demanda de reconvención en una acción por violación, cuando hubiera sido registrada contraviniendo lo dispuesto en el artículo 64, salvo que el titular de la marca, por una modificación del reglamento de uso, cumpliera las prescripciones de las citadas disposiciones.
+Se modifica por el art. 1.29 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 67
+
+Artículo 67. Causas de caducidad.
+Además de por las causas de caducidad señaladas en el artículo 54, se declararán caducados los derechos del titular de una marca colectiva, mediante solicitud presentada ante la Oficina Española de Patentes y Marcas o mediante una demanda de reconvención en una acción por violación, cuando:
+a) El titular no hubiera adoptado medidas razonables para prevenir cualquier uso de la marca que no fuera compatible con las condiciones de uso estipuladas por el reglamento de uso, incluida cualquier modificación de este que haya sido inscrita en el registro.
+b) Como consecuencia del uso de la marca realizado por personas autorizadas, esta pueda inducir al público a error conforme a lo previsto en el artículo 64, apartado 2.
+c) La modificación del reglamento de uso de la marca se hubiera inscrito en el registro contraviniendo lo dispuesto en el artículo 65, apartado 1, salvo si el titular de la marca, mediante una nueva modificación del reglamento de uso, se ajustara a los requisitos fijados en dicho artículo.
+Se modifica por el art. 1.30 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO II
+
+Marcas de garantía
+
+### Artículo 68
+
+Artículo 68. Concepto.
+1. Se entenderá por marca de garantía todo signo que, cumpliendo los requisitos previstos en el artículo 4, sirva para distinguir los productos o servicios que el titular de la marca certifica respecto de los materiales, el modo de fabricación de los productos o de prestación de los servicios, el origen geográfico, la calidad, la precisión u otras características de los productos y servicios que no posean esa certificación.
+2. Toda persona física o jurídica, incluidas las instituciones, autoridades y organismos de Derecho público, podrá solicitar marcas de garantía, a condición de que dichas personas no desarrollen una actividad empresarial que implique el suministro de productos o la prestación de servicios del tipo que se certifica
+3. Será aplicable a las marcas de garantía lo dispuesto en el apartado 3 del artículo 62.
+Se modifican los apartados 1 y 2 por el art. 1.31 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 69
+
+Artículo 69. Reglamento de uso.
+1. La solicitud de registro de una marca de garantía deberá ser acompañada de un reglamento de uso en el que se indicarán las personas autorizadas a utilizar la marca, las características comunes de los productos o servicios que se van a certificar, la manera en que se verificarán estas características, los controles y vigilancia del uso de la marca que se efectuarán, las responsabilidades en que se pueda incurrir por el uso inadecuado de la marca y el canon que, en su caso, se exigirá a quienes utilicen la marca.
+2. El reglamento de uso deberá ser informado favorablemente por el órgano administrativo competente en atención a la naturaleza de los productos o servicios a los que la marca de garantía se refiere. El informe se entenderá favorable por el transcurso del plazo de tres meses desde su solicitud sin que el órgano administrativo competente lo haya emitido. En caso de informe desfavorable, se denegará, en su caso, la solicitud de registro de la marca de garantía previa audiencia del solicitante.
+3. Si la marca de garantía consistiera en una indicación de procedencia geográfica, el reglamento de uso deberá prever que cualquier persona, cuyos productos o servicios provengan de esa zona geográfica y cumplan las condiciones prescritas por el mismo, podrá utilizar la marca.
+
+### Artículo 70
+
+Artículo 70. Denegación de la solicitud.
+1. La solicitud de registro de una marca de garantía será denegada en la forma y por los mismos motivos que una marca individual y, además, cuando no cumpla lo dispuesto en los artículos 68 y 69, o cuando el reglamento de uso sea contrario a la ley, al orden público o a las buenas costumbres.
+2. La solicitud de marca de garantía será también denegada cuando pueda inducir al público a error sobre el carácter o la significación de la marca, en particular cuando pueda dar la impresión de ser algo distinto de una marca de garantía.
+3. No se denegará la solicitud si el solicitante, mediante una modificación del reglamento de uso, cumpliere los requisitos enunciados en los apartados 1 y 2.
+
+### Artículo 71
+
+Artículo 71. Modificación del reglamento de uso.
+1. El titular de la marca de garantía deberá someter a la Oficina Española de Patentes y Marcas toda propuesta de modificación del reglamento de uso. Se desestimará la modificación cuando el reglamento de uso modificado no cumpla los requisitos del artículo 69 o incurra en alguna de las prohibiciones del artículo 70.
+2. La modificación del reglamento de uso surtirá efectos a partir de su inscripción en la Oficina Española de Patentes y Marcas.
+
+### Artículo 72
+
+Artículo 72. Causas de nulidad.
+Además de por las causas de nulidad previstas en los artículos 51 y 52, se declarará la nulidad del registro de una marca de garantía, mediante solicitud presentada ante la Oficina Española de Patentes y Marcas o mediante una demanda de reconvención en una acción por violación, cuando hubiera sido registrada contraviniendo lo dispuesto en el artículo 70, salvo que el titular de la marca, por una modificación del reglamento de uso, cumpliera las prescripciones de las citadas disposiciones.
+Se modifica por el art. 1.32 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 73
+
+Artículo 73. Causas de caducidad.
+Además de por las causas de caducidad señaladas en el artículo 54, se declararán caducados los derechos del titular de una marca de garantía, mediante solicitud presentada ante la Oficina Española de Patentes y Marcas o mediante una demanda de reconvención en una acción por violación, cuando:
+a) El titular haya dejado de cumplir los requisitos establecidos en el artículo 68, apartado 2.
+b) El titular no hubiere adoptado medidas razonables para prevenir cualquier uso de la marca que no sea compatible con las condiciones de uso estipuladas por el reglamento de uso, incluida cualquier modificación de este que haya sido inscrita en el registro.
+c) A consecuencia del uso permitido por el titular de la marca, esta pueda inducir al público a error conforme a lo previsto en artículo 70, apartado 2.
+d) La modificación del reglamento de uso de la marca se ha inscrito en el registro contraviniendo las disposiciones del artículo 71, apartado 1, salvo si el titular de la marca, mediante una nueva modificación del reglamento de uso, se ajustara a los requisitos fijados por dichas disposiciones.
+Se modifica por el art. 1.33 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## CAPÍTULO III
+
+Disposiciones comunes
+
+### Artículo 74
+
+Artículo 74. Carácter público del reglamento de uso.
+El reglamento de uso de las marcas colectivas o de garantía depositado en la Oficina Española de Patentes y Marcas podrá ser libremente consultado por cualquier persona, sin sujeción a pago de tasa.
+
+### Artículo 75
+
+Artículo 75. Uso de la marca.
+La exigencia de uso de las marcas colectivas y de garantía se entenderá cumplida por el uso que cualquier persona facultada haga conforme al artículo 39 de esta Ley.
+
+### Artículo 76
+
+Artículo 76. Ejercicio de la acción por violación de marca.
+1. Las disposiciones del artículo 48, apartados 7 y 8, relativas a los derechos de los licenciatarios, se aplicarán asimismo a toda persona facultada para utilizar una marca colectiva.
+2. En el caso de las marcas de garantía, únicamente su titular o persona específicamente autorizada por el mismo podrá ejercer una acción por violación de marca.
+3. El titular de una marca colectiva o de garantía podrá reclamar, en nombre de las personas facultadas para utilizar la marca, la reparación del daño que estas hayan sufrido por el uso no autorizado de la marca.
+Se modifica por el art. 1.34 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 77
+
+Artículo 77. Cesión de las marcas colectivas o de garantía.
+Las marcas colectivas o de garantías solo podrán cederse, respectivamente, a una persona que cumpla los requisitos del artículo 62, apartado 2 o del artículo 68, apartado 2
+Se modifica por el art. 1.35 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 78
+
+Artículo 78. Normas aplicables.
+Las normas de la presente Ley relativas a las marcas individuales se aplicarán a las marcas colectivas y de garantía, salvo disposición contraria prevista en el presente Título.
+
+## TÍTULO VIII
+
+Marcas internacionales
+
+### Artículo 79
+
+Artículo 79. Solicitud de extensión territorial a España.
+Siempre que el titular lo solicite expresamente, el registro internacional de una marca efectuado al amparo del Acta vigente en España del Arreglo de Madrid de 14 de abril de 1891, relativo al Registro Internacional de Marcas (llamado en lo sucesivo "Arreglo de Madrid"), del Protocolo concerniente al Arreglo de Madrid de 27 de junio de 1989 (llamado en lo sucesivo "Protocolo") o de ambos, extenderá sus efectos en España.
+
+### Artículo 80
+
+Artículo 80. Denegación y concesión de la protección en España.
+1. Se podrá denegar la protección de la marca internacional en España, de acuerdo con el artículo 5 del Arreglo de Madrid o el artículo 5 del Protocolo.
+2. A efectos de la concesión o denegación serán aplicables al registro de la marca internacional, en lo que proceda, los artículos 19, 20, 21, 22, 25, 26, 27 y 28 y el apartado 4 del artículo 29.
+3. La publicación de la solicitud a que se refiere el artículo 18, queda reemplazada, para las marcas internacionales, por la publicación que la Oficina Internacional efectúa en su gaceta periódica conforme a lo previsto en el artículo 3.4) del Arreglo de Madrid o en el artículo 3.4) del Protocolo. La Oficina Española de Patentes y Marcas publicará en el "Boletín Oficial de la Propiedad Industrial" una mención de la referida publicación de la Oficina Internacional.
+4. El plazo de oposición establecido en el artículo 19.2 empezará a contar a partir de la publicación en el "Boletín Oficial de la Propiedad Industrial" de la mención a que se refiere el apartado anterior.
+5. La denegación de la protección provisional, en el supuesto previsto por el artículo 21.1, o definitiva, en el supuesto previsto por el artículo 22.1, serán notificadas a la Oficina Internacional en la forma y plazo establecidos por el Reglamento común del Arreglo de Madrid relativo al Registro Internacional de Marcas y del Protocolo concerniente a ese Arreglo (llamado en lo sucesivo "Reglamento común al Arreglo y al Protocolo").
+
+### Artículo 81
+
+Artículo 81. Presentación de la solicitud de registro internacional.
+1. La solicitud se presentará por el titular de una marca registrada en España, al amparo del Arreglo de Madrid, o por el titular o el mero solicitante de una marca, al amparo del Protocolo, en el órgano que resulte competente, de acuerdo con lo previsto en los apartados 1, 2, 3 y 4 del artículo 11.
+2. Al solicitarse el registro internacional, su renovación, o la inscripción de cualquier modificación se satisfará una tasa nacional, sin cuyo pago no será tramitada.
+
+### Artículo 82
+
+Artículo 82. Examen preliminar de la solicitud internacional.
+1. Recibida la solicitud de registro internacional, el órgano competente examinará:
+a) Si la solicitud ha sido presentada en el formulario oficial previsto por el Reglamento común al Arreglo y al Protocolo.
+b) Si la tasa nacional ha sido pagada.
+2. Si la solicitud presentada no cumpliera estos requisitos, se notificará al solicitante los defectos observados, para que, en el plazo que reglamentariamente se determine, los subsane. Si no se subsanasen, se resolverá teniendo por desistida la solicitud. Si la solicitud no presentara ninguno de estos defectos o los mismos hubieran sido subsanados, el órgano competente otorgará como fecha de la solicitud de registro internacional la fecha en que recibió la solicitud o la subsanación de ésta, según proceda, y la transmitirá, con todo lo actuado, a la Oficina Española de Patentes y Marcas dentro de los cinco días siguientes.
+3. Recibida la solicitud, la Oficina Española de Patentes y Marcas, como Oficina de origen, examinará si:
+a) El solicitante tiene derecho a pedir el registro internacional de acuerdo con los artículos 1 y 2 del Arreglo de Madrid o, en su caso, del artículo 2 del Protocolo.
+b) Las indicaciones que figuran en la solicitud internacional se corresponden con las del registro nacional o, en su caso, con las de la solicitud de registro nacional, a los efectos de certificar esa conformidad según establece el artículo 3.1) del Arreglo de Madrid o, en su caso, el artículo 3.1) del Protocolo.
+4. En el caso de que la solicitud internacional carezca de alguno de los requisitos examinados, la Oficina Española de Patentes y Marcas notificará los defectos al solicitante requiriéndole para que los subsane en el plazo reglamentariamente establecido. Si no se subsanasen, se resolverá teniendo por desistida la solicitud.
+5. Si el solicitante subsana los defectos oportunamente, la Oficina Española de Patentes y Marcas indicará como fecha de la solicitud de registro internacional la fecha en que recibió la subsanación.
+
+### Artículo 83
+
+Artículo 83. Transformación de un registro internacional.
+1. Un registro internacional cancelado en virtud del artículo 6.4 del Protocolo podrá ser transformado en una solicitud de marca nacional para productos o servicios cubiertos en España por dicho registro internacional si dicha solicitud se dirige a la Oficina Española de Patentes y Marcas en el plazo de tres meses a contar desde la fecha de cancelación de dicho registro internacional.
+2. El peticionario de la transformación deberá presentar una solicitud de registro nacional conforme a lo dispuesto en el artículo 12 de la presente Ley. Esta solicitud incluirá, además, los siguientes datos:
+a) Indicación de que se trata de una solicitud de transformación.
+b) Número y fecha del registro internacional en que se basa.
+c) Indicación de si dicho registro está concedido o pendiente de concesión en España.
+d) Designar un domicilio a efectos de notificaciones, de conformidad con el artículo 29.4.
+A la solicitud de registro deberá adjuntarse una certificación de la Oficina Internacional en la que se indique la marca y los productos o servicios para los cuales la protección del registro internacional había tenido efectos en España antes de su cancelación. Esta certificación se acompañará de su traducción al castellano.
+3. La solicitud de transformación se considerará presentada en la fecha del registro internacional o de la extensión posterior para España, según proceda, y, si tenía prioridad, gozará de este derecho. En lo demás, la solicitud de transformación se tramitará como una solicitud de marca nacional. No obstante, si la solicitud de transformación se refiriera a una marca internacional ya concedida en España, se acordará sin más trámite su concesión como marca nacional, aplicándosele las disposiciones del artículo 22.4. Contra este acuerdo no podrá formularse recurso basado en la concurrencia de prohibiciones absolutas o relativas, pero sí podrá fundarse en el incumplimiento de los requisitos exigidos para la válida transformación o concesión directa del registro internacional solicitado.
+4. A los efectos de lo previsto en los artículos 31 y 32 de la presente Ley, se considerará como fecha de presentación la del día en que la solicitud de transformación hubiere sido recibida por la Oficina Española de Patentes y Marcas o, en su caso, la prevista en el artículo 16.3 de esta Ley.
+Se modifica el apartado 2.d) por el art. 1.36 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## TÍTULO IX
+
+Marcas de la Unión Europea
+Se modifica por el art. 1.37 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 84
+
+Artículo 84. Presentación de una solicitud de marca de la Unión.
+La presentación de una solicitud de marca de la Unión se efectuará en la Oficina de la Propiedad Intelectual de la Unión Europea, de conformidad con lo previsto en el artículo 30 del Reglamento (UE) n.º 2017/1001 del Parlamento Europeo y del Consejo, de 14 de junio de 2017, sobre la marca de la Unión Europea.
+Se modifica por el art. 1.37 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 85
+
+Artículo 85. Declaración posterior de la caducidad o nulidad.
+Cuando una marca de la Unión se beneficie de la antigüedad de una marca anterior con efectos en España, se podrá declarar la caducidad o nulidad de esta marca anterior, aunque la misma ya estuviera extinguida por la falta de renovación, renuncia del titular o impago de las tasas de mantenimiento, en su caso, siempre que la caducidad o nulidad se hubiera podido declarar en el momento de la renuncia o extinción. En este caso la antigüedad dejará de surtir efecto.
+Se modifica por el art. 1.37 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Artículo 86
+
+Artículo 86. Transformación de la marca de la Unión.
+1. El procedimiento de transformación de una solicitud o de una marca de la Unión en solicitud de marca nacional se iniciará con la recepción por la Oficina Española de Patentes y Marcas de la petición de transformación que le transmita la Oficina de la Propiedad Intelectual de la Unión Europea.
+2. En el plazo que reglamentariamente se establezca desde la recepción de la petición de transformación por la Oficina Española de Patentes y Marcas, el solicitante deberá cumplir los siguientes requisitos:
+a) Abonar las tasas establecidas en el artículo 12.2 de esta Ley.
+b) Presentar una traducción al castellano de la petición de transformación y de los documentos que la acompañan cuando no estén redactados en este idioma.
+c) Designar un domicilio a efectos de notificaciones, de conformidad con el artículo 29.4.
+d) Suministrar cuatro reproducciones de la marca si la misma fuere gráfica o contuviere elementos gráficos.
+3. Si en el plazo previsto en el apartado anterior no se cumplieran los requisitos exigidos en el mismo, la solicitud de transformación se tendrá por desistida. Si los requisitos fueran cumplidos, la Oficina Española de Patentes y Marcas resolverá sobre la admisibilidad de la transformación solicitada conforme a lo previsto en los artículos 139.2 y 141.1 Reglamento (UE) n.º 2017/1001 del Parlamento Europeo y del Consejo, de 14 de junio de 2017, sobre la marca de la Unión Europea.
+4. La solicitud de transformación se considerará presentada en la fecha de presentación que se le hubiere otorgado como solicitud de marca de la Unión y, si tenía prioridad o antigüedad reivindicada, gozará de estos derechos. Por lo demás, la solicitud de transformación se tramitará como una solicitud de marca nacional. No obstante, si la solicitud de transformación se refiriera a una marca de la Unión ya registrada, se acordará sin más trámite su concesión como marca nacional, aplicándosele las disposiciones del artículo 22.4, salvo que, debido a la renuncia, falta de renovación o a cualquier otra causa provocada por su titular, hubiera quedado pendiente de pronunciamiento en cuanto al fondo algún motivo de nulidad o caducidad capaz de afectar a la protección de la marca en España, en cuyo caso se tramitará como una solicitud de marca nacional. Contra el acuerdo de concesión directa previsto en este apartado no podrá formularse recurso basado en la concurrencia de prohibiciones absolutas o relativas, pero sí podrá fundarse en el incumplimiento de los requisitos exigidos para la válida transformación o concesión directa de la marca de la Unión solicitada.
+5. A los efectos de lo previsto en los artículos 31 y 32 de la presente Ley, se considerará como fecha de presentación la del día en que la solicitud de transformación hubiere sido recibida por la Oficina Española de Patentes y Marcas.
+Se modifica por el art. 1.37 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+## TÍTULO X
+
+Nombres comerciales
+
+### Artículo 87
+
+Artículo 87. Concepto y normas aplicables.
+1. Se entiende por nombre comercial todo signo susceptible de representación gráfica que identifica a una empresa en el tráfico mercantil y que sirve para distinguirla de las demás empresas que desarrollan actividades idénticas o similares.
+2. En particular, podrán constituir nombres comerciales:
+a) Los nombres patronímicos, las razones sociales y las denominaciones de las personas jurídicas.
+b) Las denominaciones de fantasía.
+c) Las denominaciones alusivas al objeto de la actividad empresarial.
+d) Los anagramas y logotipos.
+e) Las imágenes, figuras y dibujos.
+f) Cualquier combinación de los signos que, con carácter enunciativo, se mencionan en los apartados anteriores.
+3. Salvo disposición contraria prevista en este capítulo, serán de aplicación al nombre comercial, en la medida en que no sean incompatibles con su propia naturaleza, las normas de la presente Ley relativas a las marcas.
+
+### Artículo 88
+
+Artículo 88. Prohibiciones de registro.
+No podrán registrarse como nombres comerciales los signos siguientes:
+a) Los que no puedan constituir nombre comercial por no ser conformes con el artículo 87.
+b) Los que incurran en alguna de las prohibiciones absolutas del artículo 5 de la presente Ley.
+c) Los que puedan afectar a algún derecho anterior de los previstos en los artículos 6 a 10 de esta Ley.
+
+### Artículo 89
+
+Artículo 89. Clasificación y tasas aplicables.
+1. En la solicitud de registro deberán especificarse las actividades que pretendan distinguirse con el nombre comercial solicitado, agrupándolas por clases conforme a la Clasificación Internacional de Productos y Servicios, según se trate de actividades de prestación de servicios o de actividades de producción o comercialización de productos.
+2. La solicitud y la renovación del nombre comercial estarán sometidas al pago de las tasas correspondientes, según el número de clases que comprenda, en los mismos términos que las marcas.
+
+### Artículo 90
+
+Artículo 90. Derechos conferidos por el registro.
+El registro del nombre comercial confiere a su titular el derecho exclusivo a utilizarlo en el tráfico económico en los términos previstos en esta Ley.
+
+### Artículo 91
+
+Artículo 91. Nulidad y caducidad del nombre comercial.
+1. Siempre que no sea contrario a su propia naturaleza, se declarará la nulidad del nombre comercial en la forma y por las mismas causas previstas para las marcas y, además, cuando hubiere sido registrado contraviniendo lo dispuesto en el artículo 88 de la presente Ley.
+2. Se declarará la caducidad del nombre comercial en la forma y por las mismas causas previstas para las marcas, siempre que ello no sea incompatible con su propia naturaleza.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Jurisdicción y normas procesales.
+1. Las normas vigentes contenidas en el Título XII de la Ley 24/2015, de 24 de julio, de Patentes, serán de aplicación a las distintas modalidades de signos distintivos regulados en la presente Ley en todo aquello que no sea incompatible con su propia naturaleza o contrario a lo previsto en la misma, todo ello sin perjuicio de lo dispuesto en los siguientes apartados.
+2. La competencia para declarar la nulidad y caducidad de los signos distintivos regulados en la presente Ley corresponderá por vía directa a la Oficina Española de Patentes y Marcas y por vía de reconvención a la jurisdicción civil, de acuerdo con lo previsto en los artículos 51, 52 y 54.
+Téngase en cuenta que la modificación del apartado 2 establecida por el art. 1.38 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769, entra en vigor el 14 de enero de 2023, según determina su disposición final 7:
+ Redacción anterior:
+ "2. Los Juzgados de lo Mercantil que, conforme a la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, tienen atribuidas las funciones de Juzgados de Marca Comunitaria en aplicación del Reglamento (CE) n.º 207/2009, del Consejo, de 26 de febrero de 2009, sobre la marca comunitaria, serán competentes para conocer de los litigios civiles que deriven de la presente Ley cuando se ejerciten de manera acumulada acciones concernientes a marcas comunitarias y nacionales o internacionales idénticas o similares; o si existiere cualquier otra conexión entre las pretensiones y al menos una de ellas esté basada en un registro o solicitud de marca comunitaria. En estos casos la competencia corresponderá en exclusiva a los Juzgados de Marca Comunitaria."
+Se suprime el apartado 3 por la disposición final 2 de la Ley Orgánica 7/2022, de 27 de julio. Ref. BOE-A-2022-12578#df-2
+ Se modifica por el art. 1.38 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+ Téngase en cuenta que la modificación del apartado 2, entra en vigor el 14 de enero de 2023, según determina la disposición final 7 del citado Real Decreto-ley
+ Se modifica por la disposición final 3 de la Ley 24/2015, de 24 de julio. Ref. BOE-A-2015-8328#dftercera.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Tasas.
+Las bases y tipos de gravamen de las tasas a que se refiere el apartado 4 del artículo 11 de la Ley 17/1975, de 2 de mayo, sobre creación del Organismo autónomo "Registro de la Propiedad Industrial", serán, en materia de signos distintivos, las previstas en el anexo de la presente Ley.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Modificación de la Ley de Patentes.
+1. Se añade un nuevo apartado 3 al artículo 125 de la Ley 11/1986, de 20 de marzo, de Patentes, con la redacción siguiente:
+"En el caso de acciones por violación del derecho de patente, también será competente, a elección del demandante, el mismo Juzgado a que se refiere el apartado anterior de la Comunidad Autónoma donde se hubiera realizado la violación o se hubieran producido sus efectos."
+2. El artículo 155 de la Ley 11/1986, de 20 de marzo, de Patentes, queda redactado de la siguiente forma:
+"1. Podrán actuar ante la Oficina Española de Patentes y Marcas:
+a) Los interesados con capacidad de obrar de conformidad con lo previsto en el Título III de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+b) Los Agentes de la Propiedad Industrial.
+2. Los no residentes en un Estado miembro de la Comunidad Europea deberán actuar, en todo caso, mediante Agente de la Propiedad Industrial."
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Cumplimiento de trámites.
+Cuando un plazo para evacuar un trámite de un procedimiento en materia de propiedad industrial expire en sábado, el trámite de que se trate se podrá efectuar válidamente en el primer día hábil siguiente a ese sábado.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Plazos de resolución de los procedimientos.
+Los plazos máximos de resolución de los procedimientos regulados en esta Ley se computarán desde la fecha de recepción en la Oficina Española de Patentes y Marcas de las respectivas solicitudes, y serán los siguientes:
+a) Concesión de signos distintivos: doce meses si la solicitud no sufre ningún suspenso y no tuviera oposiciones, y veinte meses si concurriera alguna de las circunstancias anteriores.
+b) Renovación de signos distintivos: ocho meses si no se produjera ningún suspenso y doce meses en caso contrario.
+c) Inscripción de cesiones, derechos reales, licencias contractuales y otras modificaciones de derechos o de asientos registrales: seis meses si no concurriera ningún suspenso y ocho meses si concurriera esta circunstancia.
+d) Restablecimiento de derechos: seis meses.
+e) Transformación de registros internacionales:
+cinco meses si la solicitud de transformación se refiere a una marca internacional ya concedida en España, y el establecido para el procedimiento de concesión de marcas nacionales, en caso contrario.
+f) Transformación de marcas comunitarias: cinco meses si la solicitud de transformación se refiere a una marca comunitaria ya registrada y el establecido para el procedimiento de concesión de marcas nacionales en caso contrario. En este caso, el plazo se computará desde la fecha en la que el solicitante cumpla los requisitos establecidos en el apartado 2 del artículo 86 de esta Ley.
+g) Todo otro procedimiento en materia de propiedad industrial que no esté sometido a un plazo específico de resolución: veinte meses.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. "Boletín Oficial de la Propiedad Industrial".
+1. La Oficina Española de Patentes y Marcas publicará periódicamente el "Boletín Oficial de la Propiedad Industrial" en el que se insertarán las solicitudes, resoluciones y notificaciones relativas al servicio y a los procedimientos de las distintas modalidades de propiedad industrial, conforme a lo que se disponga en sus respectivas legislaciones.
+2. La Oficina Española de Patentes y Marcas pondrá a disposición del público el "Boletín Oficial de la Propiedad Industrial" en soporte informático que haga posible su lectura.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Aplicación del restablecimiento de derechos a las demás modalidades registrales de propiedad industrial.
+1. Las normas contenidas en el artículo 25 de la presente Ley serán de aplicación, en todo aquello que no sea incompatible con su propia naturaleza, a las patentes, modelos de utilidad, topografías de los productos semiconductores y modelos y dibujos industriales y artísticos.
+2. Además de las excepciones previstas en el apartado 5 del artículo 25, tampoco será aplicable el restablecimiento de derechos a los plazos contemplados en los apartados 1 y 2 del artículo 33 y en el apartado 2 del artículo 39 de la Ley 11/1986, de 20 de marzo, de Patentes.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Utilización de medios electrónicos.
+1. Se faculta al Ministerio de Ciencia y Tecnología para que en el plazo de dos años determine, en colaboración con las Comunidades Autónomas que hayan asumido competencias en la materia, los supuestos en los que las comunicaciones e intercambio de documentación entre la Oficina Española de Patentes y Marcas, los órganos competentes, en su caso, de las Comunidades Autónomas y los usuarios de sus servicios podrán o, en su caso, deberán presentarse o remitirse en soporte electrónico. Las condiciones generales, requisitos y características técnicas de las comunicaciones y de los distintos documentos, serán fijadas por resolución del Director general de la Oficina Española de Patentes y Marcas.
+2. Una vez establecidas las condiciones generales, requisitos y características técnicas de la presentación de solicitudes y escritos en soporte magnético o por medios telemáticos, quedará reducido en un 15 por ciento el importe de las tasas a que estén sujetas dichas solicitudes y escritos, si los mismos son presentados y las tasas son abonadas previa o simultáneamente por dichos medios técnicos.
+Se modifica el apartado 2 por la disposición final 18 del la Ley 2/2011, de 4 de marzo.Ref. BOE-A-2011-4117.
+ Esta disposición adicional entró en vigor el 9 de diciembre de 2001, según establece la disposición final 3.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Comunicación de signos protegidos.
+A los efectos del examen de fondo de las prohibiciones absolutas que ha de efectuar la Oficina Española de Patentes y Marcas, deberá comunicársele a esta Oficina:
+a) Por el órgano competente del Ministerio de Agricultura, Pesca y Alimentación, las denominaciones de origen, las indicaciones geográficas protegidas y las denominaciones de las variedades vegetales protegidas.
+b) Por el órgano competente del Ministerio de Sanidad y Consumo la publicación que, en cumplimiento de lo dispuesto en el apartado 3 del artículo 15 de la Ley 25/1990, de 20 de diciembre, del Medicamento, efectúa de la lista de denominaciones oficiales españolas de las sustancias autorizadas en España, así como la publicación que realiza la Organización Mundial de la Salud de las denominaciones comunes internacionales.
+c) Por los órganos competentes de las distintas Administraciones públicas, los signos de interés público que, conforme a lo previsto en la letra k) del artículo 5.1, hayan de ser protegidos.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Régimen contractual y presupuestario de las consultas a bases de datos efectuadas por la Oficina Española de Patentes y Marcas.
+1. Las consultas que efectúe la Oficina Española de Patentes y Marcas a bases de datos nacionales o extranjeras sobre desarrollo tecnológico o, en general, sobre propiedad industrial, no requerirán la celebración de contratos en los términos previstos en el texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto legislativo 2/2000, de 16 de junio.
+2. La utilización de esas bases de datos requerirá la existencia de crédito adecuado y suficiente en el presupuesto de gastos de la Oficina Española de Patentes y Marcas. El pago a los proveedores por las consultas efectuadas a dichas bases de datos podrá realizarse mediante expediente de pagos a justificar.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Prestación de servicios de información por medio de redes de comunicación telemática.
+La Oficina Española de Patentes y Marcas, en colaboración con las Comunidades Autónomas, podrá poner a disposición a través de redes de comunicación telemática con carácter gratuito el "Boletín Oficial de la Propiedad Industrial", así como información sobre la situación jurídica de los expedientes, sobre identidades y parecidos entre signos distintivos, sobre patentes, modelos de utilidad y diseño industrial, sobre el archivo histórico y, en general, sobre aspectos relacionados con la propiedad industrial cuya divulgación se estime conveniente por razones de información tecnológica, difusión de la propiedad industrial u otra justificada.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Aplicación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Los procedimientos administrativos en materia de propiedad industrial y, en particular, los procedimientos de registro, renovación e inscripción de cesiones de derechos y demás actos registrales se regirán por su normativa específica y, subsidiariamente, por las disposiciones de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Modificación de la Ley 17/1975, de 2 de mayo, sobre creación del Organismo autónomo "Registro de la Propiedad Industrial".
+1. Se modifica el número 1 del artículo 3.º de la Ley 17/1975, de 2 de mayo, sobre creación del Organismo autónomo "Registro de la Propiedad Industrial", que quedará redactado como sigue: "1. El Presidente del Organismo."
+2. Se modifica el artículo 4.º de la Ley 17/1975, de 2 de mayo, sobre creación del Organismo autónomo "Registro de la Propiedad Industrial", que quedará redactado como sigue:
+"Art. 4.º 1. El Presidente del Organismo será el Subsecretario del Ministerio de adscripción de la Oficina Española de Patentes y Marcas.
+2. Son facultades del Presidente del Organismo:
+a) Definir la política del Organismo y establecer las directrices de su actuación.
+b) Aprobar la gestión del Director del Organismo.
+c) Conocer el funcionamiento de la Oficina Española de Patentes y Marcas, por medio de los informes que periódicamente rinda el Director.
+d) Aprobar el anteproyecto del presupuesto de ingresos y gastos, así como la liquidación anual del mismo.
+e) Aprobar la memoria anual de actividades del Organismo.
+f) Adoptar, en su caso, acuerdos sobre los asuntos que por su naturaleza e importancia sean sometidos a su conocimiento."
+3. Se modifica el artículo 5.º de la Ley 17/1975, de 2 de mayo, sobre creación del Organismo autónomo "Registro de la Propiedad Industrial", que quedará redactado como sigue:
+"Art. 5.º 1. El Director de la Oficina Española de Patentes y Marcas será el ejecutor de las directrices marcadas por el Presidente del Organismo y ostentará la representación legal del Organismo y las facultades efectivas de dirección y gestión de los servicios ; tendrá a su cargo la vigilancia y fiscalización de todas las dependencias del Organismo; resolverá los asuntos propios de la competencia del mismo, y sus resoluciones en las materias de propiedad industrial de las que sea competente pondrán fin a la vía administrativa.
+2. El nombramiento del Director de la Oficina Española de Patentes y Marcas se efectuará por Real Decreto a propuesta del Ministro del Departamento de adscripción del Organismo."
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Prohibición de otorgamiento de denominaciones de personas jurídicas que puedan originar confusión con una marca o nombre comercial renombrados.
+Los órganos registrales competentes para el otorgamiento o verificación de denominaciones de personas jurídicas denegarán el nombre o razón social solicitado si coincidiera o pudiera originar confusión con una marca o nombre comercial renombrados en los términos que resultan de esta Ley, salvo autorización del titular de la marca o nombre comercial.
+Se modifica por el art. 1.39 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta. Cooperación de la Oficina Española de Patentes y Marcas con Organizaciones Internacionales y Oficinas extranjeras.
+Las actividades de formación y cooperación realizadas por la Oficina Española de Patentes y Marcas en colaboración con Organizaciones Internacionales y las que tenga con Oficinas de Propiedad Industrial extranjeras o sus trabajadores como beneficiarios, que pudieran ser consideradas como ayudas o subvenciones, no tendrán que estar precedidas por el trámite de publicidad y concurrencia.
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta. Proyecto de Ley de nombres de dominio en la red.
+El Gobierno, en el plazo oportuno y tras los estudios y consultas que fueren necesarios, remitirá al Congreso de los Diputados un proyecto de Ley sobre los nombres incluidos en el dominio en la red de país de primer nivel ".es". La regulación se inspirará, entre otros, en los criterios aplicados a los signos distintivos protegidos por la legislación de propiedad industrial.
+
+### Disposición adicional decimoséptima
+
+Disposición adicional decimoséptima. Extinción de sociedades por violación del derecho de marca.
+Si la sentencia por violación del derecho de marca impusiera el cambio de denominación social y éste no se efectuara en el plazo de un año, la sociedad quedará disuelta de pleno derecho, procediendo el Registrador Mercantil de oficio a practicar la cancelación, y sin perjuicio de lo establecido en el artículo 44 de esta Ley.
+
+### Disposición adicional decimoctava
+
+Disposición adicional decimoctava. Proyecto de Ley de denominaciones de personas jurídicas.
+El Gobierno, en el plazo oportuno y tras los estudios y consultas que fueren necesarios, remitirá al Congreso de los Diputados un proyecto de Ley sobre el régimen de las denominaciones sociales de las entidades jurídicas.
+
+### Disposición adicional decimonovena
+
+Disposición adicional decimonovena. Proyecto de Ley de denominaciones de origen e indicaciones geográficas protegidas.
+Por el Gobierno, en el plazo oportuno y tras los estudios y consultas que fueren necesarios, se procederá a remitir al Congreso de los Diputados un proyecto de Ley regulador de las denominaciones de origen e indicaciones geográficas protegidas que sustituya a la vigente Ley 25/1970, de 2 de diciembre, del Estatuto de la viña, del vino y de los alcoholes.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Régimen transitorio de los procedimientos.
+Los procedimientos sobre marcas, nombres comerciales y rótulos de establecimiento iniciados antes de la entrada en vigor de esta Ley serán tramitados y resueltos conforme a la legislación anterior.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Aplicación de la presente Ley a los derechos ya registrados.
+1. Las marcas y nombres comerciales concedidos durante la vigencia de legislaciones anteriores se regirán por la presente Ley, salvo en lo que se dispone en los apartados siguientes.
+2. Las marcas y nombres comerciales concedidos conforme al Estatuto de la Propiedad Industrial que no hubieran sido renovados durante la vigencia de la Ley de Marcas de 1988 seguirán, en cuanto a su renovación y pago de quinquenios las siguientes normas:
+a) La primera renovación que se efectúe de los mismos, tras la entrada en vigor de la presente Ley, se presentará dentro de los seis meses anteriores al término de los veinte años de su vida legal y se ajustará a lo previsto en el artículo 32. Esta renovación se otorgará por diez años contados desde la fecha de presentación de la solicitud inicial de registro. Las renovaciones posteriores se efectuarán conforme a las previsiones de esta Ley.
+b) Hasta la primera renovación que se efectúe tras la entrada en vigor de la presente Ley, estas marcas y nombres comerciales estarán sujetos, bajo sanción de caducidad, al pago de los quinquenios correspondientes.
+A estos efectos, la fecha de vencimiento de los quinquenios será el último día del mes en que se cumpla cada quinto aniversario de la fecha de concesión del registro, debiendo efectuarse el pago correspondiente dentro de los tres meses anteriores a la fecha de vencimiento o en el mes posterior a dicha fecha.
+3. Las marcas y nombres comerciales no comprendidos en el apartado anterior, cuya concesión hubiera sido publicada o cuya última renovación hubiera sido solicitada bajo la vigencia de la Ley de Marcas de 1988, pero antes de la entrada en vigor de la Ley 14/1999, de Tasas y Precios Públicos por servicios prestados por el Consejo de Seguridad Nuclear, estarán sujetos, hasta la primera renovación que efectúen tras la entrada en vigor de la presente Ley, al pago de los quinquenios correspondientes, bajo sanción de caducidad. A estos efectos, la fecha de vencimiento del segundo quinquenio será el último día del mes en que se cumpla el quinto aniversario de la fecha de presentación de la solicitud inicial de registro, debiendo efectuarse el pago correspondiente dentro de los tres meses anteriores a la fecha de vencimiento o en el mes posterior a dicha fecha.
+4. La cuantía de los quinquenios a que se refieren los apartados anteriores será la prevista en la tarifa 1.11 del anexo de la presente Ley. Finalizado el plazo para el pago del quinquenio correspondiente, sin haberse satisfecho su importe, podrá abonarse el mismo con un recargo del 25 por ciento dentro de los tres primeros meses y de un 50 por ciento dentro de los tres siguientes, hasta un máximo de seis meses de demora.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Régimen transitorio de los rótulos de establecimiento registrados.
+1. Sin perjuicio de lo establecido en la presente disposición transitoria, los rótulos de establecimiento, mientras dure su vigencia registral y en la medida en que no sea incompatible con su propia naturaleza, se regirán por las normas de esta Ley.
+2. Los rótulos de establecimiento continuarán temporalmente su existencia registral de acuerdo con lo que se dispone a continuación:
+a) Dentro de los seis meses siguientes a la entrada en vigor de la presente Ley, los rótulos de establecimiento que se hallen vigentes podrán ser renovados por un período de siete años a contar desde la entrada en vigor de la citada Ley. Esta solicitud de renovación deberá acompañarse del justificante de pago del 50 por ciento de la tasa de renovación prevista en la tarifa 1.8.a) del anexo, para una sola clase. Cuando la renovación del rótulo de establecimiento sólo comprenda municipios ubicados en una única Comunidad Autónoma, la solicitud de renovación se presentará ante los órganos competentes de dicha Comunidad, a los que corresponderá su resolución y anotación registral pertinente, sin perjuicio de la oportuna comunicación a la Oficina Española de Patentes y Marcas, en el plazo de cinco días, tanto de la presentación de la solicitud de renovación como de la resolución adoptada, a efectos de su anotación registral. La Oficina Española de Patentes y Marcas, previa petición de los órganos autonómicos competentes, remitirá copia de estos expedientes de rótulo de establecimiento. Las tasas que han de abonarse por la renovación de estos rótulos serán percibidas por las Comunidades Autónomas competentes y se abonarán en la forma que las mismas dispongan.
+b) Los rótulos de establecimiento que no hubieran sido renovados conforme a lo previsto en la letra anterior o aquellos que resulten concedidos con posterioridad a la entrada en vigor de la presente Ley, en virtud de lo establecido en la disposición transitoria primera, continuarán su existencia registral hasta la conclusión del período de diez o veinte años por el que hubieran sido concedidos o renovados por última vez. Los rótulos de establecimiento, comprendidos en esta letra, que estuvieran sometidos al pago de quinquenios, deberán abonar éstos, bajo sanción de caducidad, en el plazo previsto en el apartado 2.b) o en el apartado 3 de la disposición transitoria segunda, según la legislación bajo la que hubieran sido concedidos o renovados por última vez.
+El apartado 4 de la citada disposición transitoria será también de aplicación.
+Transcurrido el período de vigencia registral previsto en las letras anteriores, el registro de los rótulos de establecimiento será definitivamente cancelado, pasando a estar protegidos por las normas comunes de competencia desleal, conforme a lo dispuesto en los artículos 6 y 12 de la Ley 3/1991, de 10 de enero, de Com petencia Desleal y por lo dispuesto en la disposición transitoria siguiente.
+3. Mientras dure la vigencia registral de los rótulos de establecimiento:
+a) No podrán registrarse como marcas o nombres comerciales los signos que sean idénticos a un rótulo de establecimiento anteriormente solicitado o registrado para designar las mismas actividades que los productos, servicios o actividades para los que se solicitan la marca o nombre comercial. A estos efectos, el titular del rótulo de establecimiento podrá oponerse al registro de dichos signos conforme a lo previsto en el artículo 19 o solicitar la nulidad de los mismos si hubiesen sido registrados en contravención de lo dispuesto en este párrafo.
+b) Podrá declararse la nulidad o caducidad de un rótulo de establecimiento en la forma y por las mismas causas previstas para las marcas. Su nulidad podrá declararse además cuando hubiere sido registrado a pesar de no distinguirse suficientemente de una marca, nombre comercial o rótulo de establecimiento, en este caso, para el mismo término municipal, que sean anteriores y para productos, servicios o actividades idénticos o similares.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Protección extrarregistral de los rótulos de establecimiento definitivamente cancelados.
+1. El titular o causahabiente de un rótulo de establecimiento que hubiere sido cancelado definitivamente en virtud de lo dispuesto en el último párrafo del apartado 2 de la disposición transitoria tercera, podrá oponerse al uso de una marca o nombre comercial en el término municipal para el que hubiere estado protegido registralmente, si dichos signos distintivos fueran posteriores e incompatibles con dicho rótulo en los términos establecidos en la letra a) del apartado 3 de la disposición transitoria tercera.
+2. El apartado 1 dejará de ser aplicable si el titular del rótulo de establecimiento hubiere tolerado, teniendo conocimiento de ello, el uso de la marca o nombre comercial en el término municipal en el que dicho rótulo tiene protección, durante cinco años consecutivos, a no ser que la solicitud de estos signos distintivos se hubiera efectuado de mala fe.
+3. Los titulares de marcas o nombres comerciales registrados posteriormente no podrán oponerse al uso de los rótulos de establecimiento contemplados en el apartado 1, incluso si los mismos, por aplicación del apartado anterior, no pudieran ya ser alegados contra dichas marcas o nombres comerciales posteriores.
+4. Los derechos concedidos en esta disposición transitoria se extinguirán a los veinte años de haber sido cancelado el registro conforme a lo previsto en el último párrafo del apartado 2 de la disposición transitoria tercera, o si el rótulo de establecimiento dejara de ser usado por un plazo ininterrumpido de tres años.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Inicio de las actividades registrales de los órganos competentes de las Comunidades Autónomas.
+Las comunidades autónomas que estatutariamente tuvieran atribuida la competencia para la ejecución de la legislación de propiedad industrial, previa coordinación con la Oficina Española de Patentes y Marcas, publicarán en sus respectivos boletines oficiales la fecha a partir de la cual iniciará su funcionamiento el órgano competente de las mismas para recibir y examinar las solicitudes conforme a lo previsto en esta ley. Hasta la entrada en funcionamiento de dichos órganos, las funciones registrales que los mismos tienen atribuidas serán ejecutadas por la Oficina Española de Patentes y Marcas.
+Asimismo, y hasta que dichos órganos entren en funcionamiento, la Oficina Española de Patentes y Marcas asignará como fecha de presentación a las solicitudes que en su caso se hubieren presentado ante las Administraciones de las citadas comunidades autónomas, la que se haya hecho constar por estas últimas como fecha de recepción de la documentación que contenga los elementos a que se refiere el artículo 13.
+Se modifica por la disposición adicional 6.3 de la Ley 20/2003, de 7 de julio.Ref. BOE-A-2003-13615
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Clasificación de los nombres comerciales.
+1. En la primera renovación que se produzca tras la entrada en vigor de la presente Ley, los nombres comerciales concedidos bajo la legislación anterior se clasificarán conforme a lo previsto en el artículo 89 de esta Ley.
+2. El solicitante de la renovación deberá presentar su propuesta de clasificación sin modificar el tenor literal de la lista de actividades, aunque podrá reordenarlas o renunciar a las que estime oportunas. En caso de que la Oficina Española de Patentes y Marcas no considerara correcta la clasificación presentada, propondrá al interesado una nueva clasificación para que, en el plazo que reglamentariamente se determine, se pronuncie sobre la misma. Transcurrido este plazo, la Oficina Española de Patentes y Marcas, haya contestado o no el interesado, resolverá.
+3. Por esta primera renovación se abonará la tasa de renovación prevista en la tarifa 1.8.a) del anexo, para una sola clase. Las renovaciones posteriores quedarán sujetas al pago de la tasa de renovación en la cuantía que corresponda, según el número de clases que comprenda la solicitud de renovación.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Fusión de registros.
+A petición del interesado en la primera renovación que se produzca tras la entrada en vigor de la presente Ley, podrán unificarse en un único registro las marcas concedidas para diferentes clases bajo la legislación anterior, siempre que concurra identidad de titular, de signo y de fecha de presentación y se abonen las tasas de solicitud de renovación suplementarias correspondientes. Reglamentariamente se determinará el procedimiento de fusión.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Caducidad por falta de pago de quinquenios.
+El artículo 56 de la presente Ley será aplicable a las marcas, nombres comerciales y rótulos de establecimiento cuando hubiera de declararse la caducidad de los mismos por la ausencia de pago de los quinquenios de mantenimiento.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+1. Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en la presente Ley.
+2. Quedan derogadas expresamente las siguientes disposiciones:
+a) La Ley 32/1988, de 10 de noviembre, de Marcas.
+b) Del Estatuto sobre Propiedad Industrial, aprobado por Real Decreto-ley de 26 de julio de 1929, texto refundido aprobado por Real Orden de 30 de abril de 1930 y ratificado con fuerza de Ley por la de 16 de septiembre de 1931, el capítulo II del Título XI, en cuanto afecta a las marcas, nombres comerciales y rótulos de establecimiento.
+c) De la Ley 17/1975, de 2 de mayo, sobre creación del Organismo autónomo "Registro de la Propiedad Industrial", el apartado 4 del artículo 11 en cuanto afecta a las marcas, nombres comerciales y rótulos de establecimiento y la letra b) del párrafo segundo del apartado 5 del artículo 11.
+d) El artículo segundo del Real Decreto-ley 8/1998, de 31 de julio, de medidas urgentes en materia de propiedad industrial.
+e) De la Ley 14/1999, de 4 de mayo, de Tasas y Precios Públicos por servicios prestados por el Consejo de Seguridad Nuclear, las disposiciones adicionales sexta y séptima y la disposición transitoria segunda.
+
+### Disposición final primera
+
+Disposición final primera. Título competencial.
+La presente Ley se dicta en virtud de la competencia estatal en materia de legislación sobre propiedad industrial, prevista por el artículo 149.1. 9.º de la Constitución.
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo de la Ley.
+Se autoriza al Consejo de Ministros a dictar cuantas disposiciones de aplicación y desarrollo de la presente Ley sean necesarias.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor el 31 de julio de 2002, salvo lo previsto en el Título V, artículo 85, disposiciones adicionales tercera, cuarta, octava, décima, undécima, decimotercera, decimocuarta y decimoquinta que entrarán en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 7 de diciembre de 2001.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ
+
+## ANEXO
+
+Las tasas previstas en la disposición adicional segunda serán las siguientes:
+TARIFA PRIMERA. Adquisición, defensa y mantenimiento de derechos.
+1.1 Tasa de solicitud de registro:
+a. De una marca o nombre comercial. Por la primera clase solicitada: 138,94 euros. Por la segunda clase y cada una de las sucesivas: 90,00 euros.
+b. De una marca de garantía o colectiva. Por la primera clase solicitada: 277,85 euros. Por la segunda clase y cada una las sucesivas: 180,00 euros.
+c. De un registro internacional (tasa nacional): 41,43 euros.
+1.2 Tasa de división. Por cada solicitud o registro divisional resultante: 52,81 euros.
+1.3 Tasa de restablecimiento de derechos: 105,35 euros.
+1.4 Tasa de solicitud de resolución urgente: 51,11 euros.
+1.5 Por cada prioridad extranjera o de exposición reivindicada: 19,08 euros.
+1.6 Modificaciones: por la modificación de la modalidad, distintivo, lista de productos o servicios, del reglamento de uso o, en general, por cualquier modificación del expediente autorizada por la Ley, ya sea de la solicitud o del registro de la marca, cuando se efectúe de modo espontáneo por el solicitante o titular y no como consecuencia de un suspenso decretado de oficio: 23,19 euros.
+1.7 Oposiciones: Por formulación de oposición: 43,27 euros.
+1.8 Tasas de la renovación del registro:
+a. De una marca o nombre comercial. Por la primera clase renovada: 160,86 euros. Por la segunda clase renovada y cada una de las sucesivas: 108,00 euros.
+b. De una marca de garantía o colectiva. Por la primera clase renovada: 323,10 euros. Por la segunda clase renovada y cada una de las sucesivas: 216,00 euros.
+1.9 Demoras: por demoras en los pagos de las tasas de renovación y quinquenios sucesivos (régimen transitorio), los recargos serán del 25%, dentro de los tres primeros meses, y del 50%, dentro de los tres siguientes, hasta el máximo de seis meses de demora.
+1.10 Recursos y revisión de actos administrativos: por la presentación de un recurso o solicitud de revisión: 88,09 euros.
+Cuando la presentación del recurso se efectúe por medios telemáticos: reducción de un 15% sobre el importe de la tasa.
+1.11 Quinquenios sucesivos (régimen transitorio): 79,90 euros.
+1.12 Nulidad o caducidad: por la presentación de una solicitud de nulidad o caducidad: 200 euros.
+TARIFA SEGUNDA. Inscripción de cesión de derechos y otras modificaciones.
+2.1 Por la inscripción o cancelación de cambios en la titularidad, licencias, derechos reales, opciones de compra u otras trabas o medidas cautelares o de ejecución. Por cada registro afectado: 32,44 [hasta un máximo de 6.768,37 euros].
+2.2 Por la inscripción del cambio de nombre del titular: por cada registro afectado 16,38 euros, hasta un máximo de 2.789,65 euros.
+TARIFA TERCERA. Otros servicios.
+3.1 Certificaciones: 16,40 euros.
+3.2 Consulta y vista de un expediente: 3,56 euros.
+3.3 Copia de los documentos obrantes en el expediente: 11,38 euros más un suplemento por cada página que exceda de 10 de 1,13 euros.
+TARIFA CUARTA. Publicaciones.
+4.1 Por la publicación en el Boletín Oficial de la Propiedad Industrial, a solicitud del recurrente, del anuncio de la interposición de un recurso contencioso-administrativo en materia de signos distintivos: 142,24 euros.
+4.2 Por la publicación en el Boletín Oficial de la Propiedad Industrial a instancia de parte, del fallo de un recurso contencioso-administrativo sobre signos distintivos: 142,24 euros.
+Se modifica la tarifa 1 por el art. 1.40 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+ Se modifica por el art. 95 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-89
+ Se modifica, con efectos de 1 de enero de 2011, por el art. 95 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+ Se modifica, con efectos de 1 de enero de 2010, por el art. 87 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
+ Se modifican las tarifas 1 y 2, por la disposición adicional 6.4 y .5 de la Ley 20/2003, de 7 de julio. Ref. BOE-A-2003-13615
+
+## [Información relacionada]
+
+Información relacionada
+ Las referencias hechas a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, se entenderán realizadas a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, según establece la disposición adicional 2 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769

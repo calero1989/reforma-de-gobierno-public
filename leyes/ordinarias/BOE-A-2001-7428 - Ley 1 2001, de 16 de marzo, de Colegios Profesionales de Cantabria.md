@@ -1,0 +1,386 @@
+# Ley 1/2001, de 16 de marzo, de Colegios Profesionales de Cantabria.
+
+- Identificador BOE: `BOE-A-2001-7428`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-7428
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE CANTABRIA
+Conózcase que el Parlamento de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2.o del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 1/2001, de 16 de marzo, de Colegios Profesionales de Cantabria.
+PREÁMBULO
+El artículo 36 de la Constitución Española remite a la ley la regulación de las peculiaridades del régimen jurídico de los Colegios Profesionales y el ejercicio de las profesiones tituladas, y establece que la estructura interna y el funcionamiento de dichos Colegios deberán ser democráticos.
+Los Colegios Profesionales han sido configurados por la legislación estatal como corporaciones de Derecho público, amparados por la ley, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines (artículo 1.1 de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales).
+Esta dimensión pública de los entes colegiales, que motiva su configuración legal como personas jurídico-públicas, «les equipara sin duda a las Administraciones públicas de carácter territorial, si bien tal equiparación queda limitada a los solos aspectos organizativos y competenciales, por lo que corresponde a la legislación estatal fijar los principios y reglas básicos a que han de ajustar su organización y competencias las corporaciones de Derecho público representativas de intereses profesionales», encontrándose el fundamento constitucional de esta legislación básica en el artículo 149.1.18.a de la Constitución (Sentencias del Tribunal Constitucional 20/1988, de 18 de febrero, y 76/1983, de 5 de agosto).
+El Estatuto de Autonomía para Cantabria, aprobado por la Ley Orgánica 8/1981, de 30 de diciembre, y modificado por las Leyes Orgánicas 7/1991, de 13 de marzo; 2/1994, de 24 de marzo, y 11/1998, de 30 de diciembre, atribuye en su artículo 25.5 a la Comunidad Autónoma de Cantabria la competencia de desarrollo legislativo y ejecución, en el marco de la legislación básica del Estado, en materia de corporaciones de Derecho público representativas de intereses económicos y profesionales.
+Esta competencia se hizo efectiva, en lo que se refiere a los Colegios Profesionales, en virtud del Real Decreto 1379/1996, de 7 de junio.
+El marco legal de los Colegios Profesionales que desarrollan su actividad exclusivamente en el territorio de Cantabria está constituido por los artículos 36, 139.2 y 149.1.1.a y 18.a de la Constitución, así como por la Ley estatal 2/1974, de 13 de febrero, de Colegios Profesionales, modificada por la Ley 74/1978, de 26 de diciembre, y por la Ley 7/1997, de 14 de abril, que atribuye el carácter de legislación básica a varios preceptos de la Ley estatal de Colegios Profesionales a los que da nueva redacción o introduce «ex novo», y, por último, por el Real Decreto-ley 6/2000, de 23 de junio, de medidas urgentes de intensificación de la competencia en mercados de bienes y servicios.
+La presente Ley tiene como objetivo fundamental completar el marco normativo de los Colegios Profesionales.
+El capítulo I contiene una serie de disposiciones generales, relativas a los Colegios Profesionales de Cantabria.
+Entre otros aspectos, se establece el ámbito de aplicación de la Ley, que se extiende a los Colegios Profesionales que desarrollen su actividad exclusivamente dentro del territorio de la Comunidad Autónoma de Cantabria.
+Por otra parte, se configura a los Colegios Profesionales de Cantabria como corporaciones de Derecho público, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.
+El capítulo II regula diversas materias relativas a los Colegios Profesionales de Cantabria, como la creación de nuevos Colegios, su ámbito territorial y la posibilidad de fusión, segregación y disolución de los mismos.
+El capítulo III asigna a los Colegios Profesionales los fines esenciales de la ordenación del ejercicio de las profesiones, la representación y la defensa de los intereses profesionales de los colegiados. Asimismo, se les atribuye una serie de funciones, que se relacionan sin ánimo de exhaustividad, como se constata por la cláusula de cierre que se inserta, según la cual podrán ejercer cuantas funciones tiendan a la defensa de los intereses profesionales y al cumplimiento de los objetivos colegiales.
+Por lo que se refiere al régimen jurídico de los actos de los Colegios Profesionales, al que se dedica el capítulo IV, la Ley dispone que la actividad de los Colegios Profesionales de Cantabria relativa a la constitución de sus órganos y la que realicen en el ejercicio de funciones administrativas estará sometida al Derecho Administrativo, mientras que las cuestiones de índole civil, penal o laboral quedan sometidas al régimen jurídico correspondiente.
+El capítulo V de la Ley se destina a los Estatutos de los Colegios Profesionales, debiéndose destacar la amplia autonomía que se reconoce a los mismos, sin otras limitaciones que las impuestas por las leyes, reservándose la Administración de la Comunidad Autónoma de Cantabria la previa calificación de legalidad antes de su inscripción en el Registro de Colegios Profesionales.
+El deber de colegiación para el ejercicio de profesiones colegiadas se aborda en el capítulo VI de la Ley, estableciéndose la exigencia de la incorporación al Colegio Profesional correspondiente.
+Por último, la Ley procede en su capítulo VII a la creación del Registro de Colegios Profesionales, remitiendo al Reglamento la regulación de su estructura y funcionamiento.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Ámbito de aplicación.
+1. La presente Ley será de aplicación a los Colegios Profesionales que desarrollen su actividad exclusivamente en el ámbito territorial de la Comunidad Autónoma de Cantabria.
+2. Los Colegios únicos o de ámbito nacional no estarán sujetos a las previsiones de esta Ley. No obstante, los órganos de gobierno de las demarcaciones o delegaciones de aquellos existentes en Cantabria tendrán la consideración de órganos representativos ante la Administración pública de la Comunidad Autónoma de Cantabria. Igual consideración tendrán las delegaciones de aquellos Colegios cuyo ámbito espacial exceda del territorio de la Comunidad Autónoma de Cantabria.
+3. El Gobierno de Cantabria, en el ámbito de sus competencias, garantizará el ejercicio de las profesiones colegiadas en el ámbito territorial de la Comunidad Autónoma, de conformidad con lo dispuesto en la legislación vigente.
+
+### Artículo 2
+
+Artículo 2. Naturaleza.
+1. Los Colegios Profesionales son corporaciones de Derecho público, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.
+2. La estructura interna y el régimen de funcionamiento de los Colegios Profesionales deberán ser democráticos.
+
+### Artículo 3
+
+Artículo 3. Normativa aplicable.
+1. En el marco de la legislación básica del Estado, los Colegios Profesionales a los que se refiere el artículo 1 se regirán por la presente Ley y normas de desarrollo, así como por sus propios estatutos y reglamentos de régimen interior.
+2. Los acuerdos, decisiones y recomendaciones de los Colegios respetarán los límites de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia.
+3. En todo caso, los requisitos que obliguen a ejercer de forma exclusiva una profesión o que limiten el ejercicio conjunto de dos o más profesiones, serán sólo los que se establezcan por ley.
+Los códigos deontológicos que, en su caso, aprueben los Colegios Profesionales podrán contemplar previsiones expresas dirigidas a exigir a los profesionales colegiados que su conducta en materia de comunicaciones comerciales sea ajustada a lo dispuesto en la ley, con la finalidad de salvaguardar la independencia e integridad de la profesión, así como, en su caso, el secreto profesional.
+4. El ejercicio profesional en forma societaria se regirá por lo previsto en las leyes. En ningún caso los Colegios Profesionales ni sus organizaciones colegiales podrán, por sí mismos, o a través de sus estatutos o el resto de la normativa colegial, establecer restricciones al ejercicio profesional en forma societaria.
+Se modifica por el art. único.1 de la Ley 3/2010, de 20 de mayo. Ref. BOE-A-2010-9422
+
+### Artículo 4
+
+Artículo 4. Relaciones con la Administración pública de la Comunidad Autónoma de Cantabria.
+1. Los Colegios Profesionales, en lo que se refiere a sus aspectos institucionales y corporativos, se relacionarán con la Administración pública de la Comunidad Autónoma de Cantabria a través de la Consejería competente en materia de Colegios Profesionales.
+2. En lo referente a los contenidos de cada profesión, se relacionarán con la Consejería o Consejerías competentes por razón de la actividad profesional.
+
+### Artículo 5
+
+Artículo 5. Relaciones con las Administraciones públicas.
+1. Las Administraciones públicas podrán delegar en los Colegios Profesionales de Cantabria el ejercicio de funciones administrativas relacionadas con la respectiva profesión. La delegación, que será publicada en el "Boletín Oficial de Cantabria", determinará el alcance, contenido, duración y condiciones de la misma, así como los medios materiales, personales y económicos que, en su caso, se transfieran, y los medios de control de la delegación. Para su efectividad, la delegación requerirá la aceptación expresa por parte del Colegio concernido.
+En cualquier caso, la Administración pública podrá dictar instrucciones, recabar información y formular requerimientos a los Colegios Profesionales en relación con la gestión de la competencia delegada. Y podrá revocar en cualquier momento la delegación, debiendo publicar igualmente en el «Boletín Oficial de Cantabria» el acuerdo de revocación.
+2. Las Administraciones públicas podrán encomendar a los Colegios Profesionales la realización de actividades de carácter material, técnico o de servicios de su propia competencia, por razones de eficacia o cuando no posea medios técnicos idóneos para su desempeño.
+Esta encomienda de gestión deberá formalizarse mediante la firma del correspondiente convenio.
+La expresada encomienda deberá publicarse en el «Boletín Oficial de Cantabria» y determinará el alcance, contenido, duración y condiciones de la misma. Las Administraciones públicas podrán dictar instrucciones de carácter general y recabar, en cualquier momento, información sobre la gestión colegial, así como enviar comisionados y formular los requerimientos correspondientes. Las Administraciones públicas se reservarán, en todo caso, la revocación de la gestión encomendada.
+3. Las Administraciones públicas y los Colegios Profesionales podrán suscribir Convenios de colaboración para la realización de actividades de interés común y para la promoción de actuaciones orientadas a la defensa del interés público, y, en especial, de los usuarios de los servicios profesionales de los colegiados.
+
+## CAPÍTULO II
+
+Creación, fusión, segregación y disolución
+
+### Artículo 6
+
+Artículo 6. Creación.
+1. La creación de nuevos colegios profesionales, con ámbito de actuación en el territorio de la Comunidad Autónoma de Cantabria, se efectuará a través de una Ley del Parlamento de Cantabria, deberá estar justificada por razones de interés público y estará condicionada a la existencia de una profesión con titulación oficial.
+A los efectos de lo dispuesto en el apartado anterior, la solicitud de creación se dirigirá a la Consejería competente en materia de Colegios Profesionales, quien procederá a su tramitación, previo informe a la Consejería o Consejerías competentes en relación con la actividad profesional y a la elaboración, en el caso de encontrarla justificada, del correspondiente Anteproyecto de Ley, que someterá al Gobierno para su aprobación y posterior remisión al Parlamento de Cantabria.
+2. La iniciación del procedimiento de creación de un Colegio Profesional requerirá que sea propuesto por la mayoría de los profesionales domiciliados en Cantabria.
+3. No podrán crearse Colegios Profesionales de ámbito territorial inferior al de la Comunidad Autónoma de Cantabria.
+4. Por cada profesión sólo podrá existir un Colegio Profesional.
+5. La segregación de un Colegio Profesional de otro preexistente, con el objeto de integrar una o varias profesiones que antes estaban incluidas en éste, requerirán la aprobación por decreto del Gobierno, previa petición de los profesionales interesados, con la audiencia del Colegio Profesional afectado y, en su caso, del Consejo General correspondiente.
+6. La fusión o integración de dos o más Colegios Profesionales en uno solo requerirá, además de los correspondientes acuerdos estatutarios, la aprobación por decreto del Gobierno de Cantabria.
+7. Los Colegios adquirirán personalidad jurídica desde que, creados en la forma prevista en esta Ley, se constituyan sus órganos de gobierno.
+Se modifica el apartado 1 por el art. 23.1 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
+
+### Artículo 7
+
+Artículo 7. Denominación.
+1. La denominación de los colegios profesionales deberá responder a la titulación oficial requerida para la incorporación al mismo o la profesión que desempeñen o puedan desempeñar sus componentes y no podrá ser coincidente o similar con la de otros colegios preexistentes en el territorio, ni inducir a error en cuanto a los profesionales que los componen.
+2. Las expresadas denominaciones colegiales incluirán la palabra «Colegio» y finalizarán con la expresión «de Cantabria».
+3. El cambio de denominación de un Colegio Profesional deberá ser propuesto por el propio Colegio, previo acuerdo adoptado de conformidad con sus estatutos. Para su efectividad, el cambio de denominación requerirá aprobación por Decreto del Consejo de Gobierno, previa audiencia de los colegios que puedan resultar afectados por el nuevo nombre, y, de existir, de los Consejos Generales correspondientes.
+Se modifica el apartado 3 por el art. 10 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+ Se modifica el apartado 1 por el art. 23.2 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
+
+### Artículo 8
+
+Artículo 8. Disolución.
+1. La disolución de los Colegios Profesionales se producirá de acuerdo con lo previsto en sus Estatutos y requerirá, en todo caso, la aprobación por decreto del Gobierno de Cantabria.
+2. El decreto de disolución de un Colegio determinará, de conformidad con los Estatutos, en su caso, los efectos jurídicos que suponga tal disolución, estableciendo el procedimiento para la liquidación de su patrimonio, derechos y obligaciones, y fijando, asimismo, el destino del remanente, si existiere.
+
+## CAPÍTULO III
+
+Fines y funciones
+
+### Artículo 9
+
+Artículo 9. Fines.
+Son fines esenciales de estas corporaciones la ordenación del ejercicio de las profesiones, la representación institucional exclusiva de las mismas cuando estén sujetas a colegiación obligatoria, la defensa de los intereses profesionales de los colegiados y la protección de los intereses de los consumidores y usuarios de los servicios de sus colegiados, todo ello sin perjuicio de la competencia de la Administración Pública por razón de la relación funcionarial.
+Se modifica por el art. único.2 de la Ley 3/2010, de 20 de mayo. Ref. BOE-A-2010-9422
+
+### Artículo 10
+
+Artículo 10. Funciones.
+Son funciones de los Colegios Profesionales:
+a) Aprobar sus Estatutos y Reglamentos de régimen interior, así como sus modificaciones.
+b) Ostentar la representación y la defensa de la profesión ante la Administración, instituciones, tribunales, entidades y particulares, con legitimación para ser parte en cuantos litigios afecten a los intereses profesionales, y ejercer el derecho de petición, conforme a la ley.
+c) Organizar actividades y servicios comunes de carácter profesional, cultural, asistencial, de previsión y análogos, de interés para los colegiados. Los expresados servicios y actividades tendrán carácter voluntario para los colegiados y se ajustarán, en todo caso, a la normativa reguladora en la materia respectiva.
+d) Elaborar y aprobar sus presupuestos, así como establecer y exigir los recursos económicos de los que hayan de dotarse y, en su caso, las cuotas a sus colegiados.
+e) Encargarse del cobro de los honorarios, las percepciones y remuneraciones profesionales cuando el colegiado lo solicite libre y expresamente, en los casos en que los Colegios tengan creados los servicios adecuados y en las condiciones que se determinen en los Estatutos.
+f) Atender las solicitudes de información sobre sus colegiados y sobre las sanciones firmes a ellos impuestas, así como las peticiones de inspección o investigación que les formule cualquier autoridad competente de un Estado miembro de la Unión Europea en los términos previstos en la Ley 17/2009, de 23 de noviembre, sobre libre acceso a las actividades de servicios y su ejercicio, en particular en lo que se refiere a que las solicitudes de información y de realización de controles, inspecciones e investigaciones estén debidamente motivadas y que la información obtenida se emplee únicamente para la finalidad para la que se solicitó.
+g) Informar en los procedimientos, administrativos o judiciales, en que se discutan cualesquiera cuestiones profesionales, cuando sean requeridos para ello o cuando se prevea su intervención con arreglo a la legislación vigente.
+h) Ejercer las acciones que las leyes establezcan para evitar el intrusismo y la competencia desleal entre los profesionales, sin perjuicio de las actuaciones de inspección o sanción que correspondan a las Administraciones públicas.
+i) Visar los trabajos profesionales de los colegiados en los términos previstos en el artículo 26 de esta Ley.
+j) Intervenir como mediador y en procedimientos de arbitraje en los conflictos que, por motivos profesionales, se susciten entre colegiados.
+k) Procurar el perfeccionamiento de la actividad profesional y la formación permanente de sus colegiados, organizando los oportunos cursos al efecto.
+l) Ejercer, en el orden profesional y colegial, la potestad disciplinaria sobre los colegiados que incumplan las prescripciones legales, deontológicas u otras corporativas.
+m) Participar en los órganos consultivos de la Administración, cuando ésta lo requiera.
+n) Emitir los informes que se soliciten por el Gobierno de Cantabria en relación con las disposiciones generales que se refieran a la profesión colegiada correspondiente.
+ñ) Facilitar a los Tribunales de Justicia la relación de todos los colegiados existentes que puedan ser requeridos para intervenir como peritos en los asuntos judiciales, así como emitir informes y dictámenes cuando sean requeridos por cualquier Juzgado o Tribunal.
+o) Ejercer cuantas competencias administrativas les sean atribuidas por la legislación, así como colaborar con la Administración mediante la realización de estudios, emisión de informes, elaboración de estadísticas y otras actividades relacionadas con sus fines, que puedan serle solicitadas o que acuerden formular por propia iniciativa.
+p) Velar porque la actividad profesional de los colegiados se someta, en todo caso, a las normas deontológicas de la profesión.
+q) Cumplir y hacer cumplir a los colegiados las leyes generales y especiales y los Estatutos colegiales, así como todas las normas y decisiones acordadas por los órganos colegiales.
+r) Cuantas funciones redunden en beneficio de la protección de los intereses de los consumidores y usuarios de los servicios de sus colegiados.»
+s) Todas las demás funciones que, estando amparadas por la ley, tiendan a la defensa de los intereses profesionales y al cumplimiento de los objetivos colegiales.
+Se modifican las letras f), i) y r) y se añade la s) por el art. único.3 a 5 de la Ley 3/2010, de 20 de mayo. Ref. BOE-A-2010-9422
+
+## CAPÍTULO IV
+
+Régimen jurídico y recursos
+
+### Artículo 11
+
+Artículo 11. Régimen jurídico de los actos colegiales.
+La actividad de los Colegios Profesionales relativa a la constitución de sus órganos y la que realicen en el ejercicio de sus funciones administrativas, estará sometida al Derecho administrativo.
+Se exceptúan las cuestiones de índole civil o penal, que quedan sometidas al régimen jurídico correspondiente, así como las relaciones con su personal, que se regirán por la legislación laboral.
+
+### Artículo 12
+
+Artículo 12. Recursos.
+1. Los actos y resoluciones de los Colegios Profesionales sujetos al Derecho administrativo serán susceptibles, en vía corporativa, de los recursos previstos en sus Estatutos.
+2. Contra las resoluciones de los Colegios que agoten la vía corporativa, se podrá recurrir ante la jurisdicción contencioso-administrativa.
+3. Sin perjuicio de lo dispuesto en los apartados anteriores, los actos y resoluciones que los Colegios Profesionales acuerden en relación con las competencias administrativas a que se refiere el párrafo o) del artículo 10 de la presente Ley, podrán ser recurridos en vía administrativa ante la Consejería competente por razón de la actividad profesional.
+
+## CAPÍTULO V
+
+Estatutos
+
+### Artículo 13
+
+Artículo 13. Elaboración.
+Los Colegios Profesionales elaborarán y aprobarán sus Estatutos sin más limitaciones que las impuestas por las leyes.
+
+### Artículo 14
+
+Artículo 14. Contenido.
+Los Estatutos regularán, como mínimo, las siguientes materias:
+a) La denominación, el domicilio y el ámbito profesional del Colegio.
+b) Fines y funciones específicas del Colegio.
+c) Requisitos de adquisición y causas de suspensión, denegación y pérdida de la condición de colegiado y clases de los mismos.
+d) Derechos y deberes de los colegiados.
+e) Órganos de gobierno, su elección y constitución, competencias y funcionamiento.
+f) Régimen de adopción de acuerdos de los órganos colegiados, con fijación de las garantías necesarias para la admisión, en los casos en que así se establezca, del voto por delegación o mediante compromisarios en las Juntas generales.
+g) Régimen disciplinario de acuerdo con los principios del Derecho administrativo sancionador.
+h) Régimen económico y financiero, fijación de cuotas y otras percepciones y forma de control de los gastos e inversiones para asegurar el cumplimiento de los fines colegiales.
+i) Régimen de distinciones y premios.
+j) Régimen jurídico de los actos y acuerdos, así como de su impugnación en el ámbito corporativo.
+k) Forma de aprobación de las actas, estableciendo el procedimiento de autenticidad y ejecución de los acuerdos.
+l) Condiciones de cobro de honorarios a través del Colegio, para el caso de que el colegiado lo solicite.
+m) Procedimiento de disolución y liquidación.
+
+### Artículo 15
+
+Artículo 15. Calificación de legalidad.
+Los estatutos aprobados, y sus modificaciones, se remitirán a la Consejería a la que se adscribe el Registro de Colegios Profesionales, para su control de legalidad e inscripción.
+En caso de informe desfavorable sobre la legalidad de los estatutos, será comunicado al Colegio Profesional, y determinará la suspensión del procedimiento de inscripción hasta la adecuación de los estatutos a la normativa vigente. Trascurridos tres meses desde la comunicación del informe desfavorable sin que el Colegio profesional realice las actuaciones necesarias para reanudar el procedimiento, se producirá la caducidad del mismo, previa resolución dictada al efecto.
+Trascurrido el plazo máximo de tres meses sin haberse dictado y notificado resolución expresa, el silencio administrativo tendrá carácter desestimatorio de la solicitud de inscripción.
+Se modifica por el art. 23.3 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
+
+### Artículo 16
+
+Artículo 16. Publicación.
+Los Estatutos y sus modificaciones serán publicados de oficio en el «Boletín Oficial de Cantabria».
+
+## CAPÍTULO VI
+
+De los colegiados
+
+### Artículo 17
+
+Artículo 17. Colegiación.
+1. Quien ostente la titulación requerida y reúna las condiciones señaladas estatutariamente tendrá derecho a ser admitido en el Colegio Profesional que corresponda.
+2. Será requisito indispensable para el ejercicio de las profesiones hallarse incorporado al Colegio Profesional correspondiente cuando así lo establezca una ley estatal. La cuota de inscripción o colegiación no podrá superar en ningún caso los costes asociados a la tramitación de la inscripción. Los Colegios dispondrán de los medios necesarios para que los solicitantes puedan tramitar su colegiación por vía telemática de acuerdo con lo dispuesto en el artículo 23 de esta Ley.
+Parrafos 2 y 3. (Anulados)
+Téngase en cuenta que se declaran inconstitucionales y nulos los parrafos 2 y 3 del apartado 2, en la redacción dada por la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552, por Sentencia TC 82/2018, de 16 de julio. Ref. BOE-A-2018-11695:
+ Redacción anterior párrafo 2:
+ "El requisito de colegiación previsto en este apartado no podrá ser exigido a los profesionales vinculados con la Administración Pública mediante relación de servicios regulada por el derecho administrativo o laboral. No obstante, precisarán de la colegiación para el ejercicio privado de su profesión, si así fuere exigible de acuerdo con lo previsto en este artículo."
+3. Cuando una profesión se organice por Colegios territoriales bastará la incorporación a uno sólo de ellos, que será el del domicilio profesional único o principal, para ejercer en el territorio de la Comunidad Autónoma de Cantabria. A estos efectos, cuando en una profesión sólo existan Colegios Profesionales en algunas Comunidades Autónomas, los profesionales se regirán por la legislación del lugar donde tengan establecido su domicilio profesional único o principal, lo que bastará para ejercer en el territorio de la Comunidad Autónoma de Cantabria.
+Los Colegios no podrán exigir a los profesionales que ejerzan en un territorio diferente al de colegiación comunicación ni habilitación alguna, ni el pago de contraprestaciones económicas distintas de aquéllas que exijan habitualmente a sus colegiados por la prestación de los servicios de los que sean beneficiarios, y que no se encuentren cubiertos por la cuota colegial.
+En los supuestos de ejercicio profesional en territorio distinto al de la colegiación, a los efectos de ejercer las competencias de ordenación y potestad disciplinaria que corresponden al Colegio del territorio en que se ejerza la actividad profesional, en beneficio de los consumidores y usuarios, los Colegios deberán utilizar los oportunos mecanismos de comunicación y los sistemas de cooperación administrativa entre autoridades competentes previstos en la Ley 17/2009, de 23 de noviembre. Las sanciones impuestas, en su caso, por el Colegio del territorio en el que se ejerza la actividad profesional surtirán efectos en todo el territorio español.
+4. En el caso de desplazamiento temporal de un profesional de otro Estado miembro de la Unión Europea, se estará a lo dispuesto en la normativa vigente en aplicación del Derecho Comunitario relativa al reconocimiento de cualificaciones.
+Se declaran inconstitucionales y nulos los parrafos 2 y 3 del apartado 2, en la redacción dada por la Ley 5/2011, de 29 de diciembre, por Sentencia TC 82/2018, de 16 de julio. Ref. BOE-A-2018-11695.
+ Se modifica el apartado 2 por el art. 18 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+ Se modifica por el art. único.6 de la Ley 3/2010, de 20 de mayo. Ref. BOE-A-2010-9422
+
+### Artículo 18
+
+Artículo 18. Responsabilidad disciplinaria.
+1. Constituyen infracciones disciplinarias de los colegiados las acciones u omisiones contrarias a las normas colegiales.
+2. Los Estatutos de cada profesión tipificarán las infracciones, clasificándolas, en su caso, en muy graves, graves y leves, y determinarán las sanciones aplicables en cada caso.
+
+### Artículo 19
+
+Artículo 19. Procedimiento disciplinario.
+No se podrá imponer ninguna sanción colegial sin instrucción previa de expediente disciplinario de naturaleza contradictoria, que garantice la adecuada defensa del interesado y cuya tramitación se regirá por lo dispuesto en los respectivos Estatutos, con respeto a los principios de la potestad sancionadora y del procedimiento sancionador.
+
+## CAPÍTULO VII
+
+Registro de Colegios Profesionales
+
+### Artículo 20
+
+Artículo 20. Creación.
+1. Se crea el Registro de Colegios Profesionales de Cantabria, a los efectos de constancia y publicidad de los Colegios comprendidos en el ámbito de aplicación de esta Ley.
+2. El Registro se adscribe a la Consejería con competencias institucionales y corporativas en materia de Colegios Profesionales.
+3. Este Registro tendrá carácter público. Su estructura y funcionamiento se regularán por decreto del Gobierno de Cantabria.
+
+### Artículo 21
+
+Artículo 21. Contenido.
+En el Registro de Colegios Profesionales de Cantabria se harán constar los siguientes datos, así como sus modificaciones:
+a) Denominación.
+b) Norma de creación.
+c) Estatutos.
+d) Reglamentos de régimen interior.
+e) Domicilio.
+f) Composición de sus órganos de gobierno.
+g) Consejería de la que depende por razón de la actividad.
+h) Disoluciones, segregaciones, fusiones e integraciones.
+i) Cuantos datos se establezcan reglamentariamente.
+
+### Artículo 22
+
+Artículo 22. Inscripciones.
+1. Los Colegios Profesionales deberán comunicar al Registro, a efectos de inscripción, los datos a que hace referencia el artículo anterior, en el plazo de un mes a partir de la fecha en que se produzcan.
+2. De las inscripciones que se realicen, así como, en su caso, de la denegación de las mismas, que deberá ser motivada, se notificará fehacientemente a los Colegios correspondientes.
+
+## CAPÍTULO VIII
+
+De los Servicios Profesionales
+Se añade por el art. único.7 de la Ley 3/2010, de 20 de mayo. Ref. BOE-A-2010-9422
+
+### Artículo 23
+
+Artículo 23. Ventanilla única.
+1. Los Colegios Profesionales dispondrán de un página web para que, a través de la ventanilla única prevista en la Ley 17/2009, de 23 de noviembre, los profesionales puedan realizar todos los trámites necesarios para la colegiación, su ejercicio y su baja en el Colegio, a través de un punto único, por vía electrónica y a distancia. Concretamente, las organizaciones colegiales harán lo necesario para que a través de esta ventanilla única, los profesionales puedan de forma gratuita:
+a) Obtener toda la información y formularios necesarios para el acceso a la actividad profesional y su ejercicio.
+b) Presentar toda la documentación y solicitudes necesarias, incluyendo la de la colegiación.
+c) Conocer el estado de tramitación de los procedimientos en los que tenga consideración de interesado y recibir la correspondiente notificación de los actos de trámite preceptivos y la resolución de los mismos por el Colegio, incluida la notificación de los expedientes disciplinarios cuando no fuera posible por otros medios.
+d) Convocar a los colegiados a las Juntas Generales Ordinarias y Extraordinarias y poner en su conocimiento la actividad pública y privada del Colegio Profesional.
+2. A través de la referida ventanilla única, para la mejor defensa de los derechos de los consumidores y usuarios, los Colegios Profesionales ofrecerán la siguiente información de forma clara, inequívoca y gratuita:
+a) El acceso al registro de colegiados, que estará permanentemente actualizado y en el que constarán, al menos, los siguientes datos: nombre y apellidos de los profesionales colegiados, número de colegiación, títulos oficiales de los que estén en posesión, domicilio profesional y situación de habilitación profesional.
+b) El acceso al Registro de Sociedades Profesionales, que tendrá el contenido descrito en el artículo 8 de la Ley 2/2007, de 15 de marzo, de sociedades profesionales.
+c) Las vías de reclamación y los recursos que podrán interponerse en caso de conflicto entre el consumidor o usuario, y un colegiado o el Colegio Profesional.
+d) Los datos de las asociaciones u organizaciones de consumidores y usuarios a las que los destinatarios de los servicios profesionales pueden dirigirse para obtener asistencia.
+e) El contenido de los códigos deontológicos.
+3. Los Colegios Profesionales deberán adoptar las medidas necesarias para el cumplimiento de lo previsto en este artículo e incorporar para ello las tecnologías precisas, y crear y mantener las plataformas tecnológicas que garanticen la interoperatividad entre los distintos sistemas y la accesibilidad de las personas con discapacidad. Para ello, los Colegios Profesionales, podrán poner en marcha los mecanismos de coordinación y colaboración necesarios, inclusive con las corporaciones de otras profesiones.
+4. Los Colegios Profesionales facilitarán a los consejos generales o superiores, la información concerniente a las altas, bajas y cualesquiera otras modificaciones que afecten a los registros de colegiados y de sociedades profesionales, para su conocimiento y anotación en los registros centrales de colegiados y de sociedades profesionales de aquellos.
+Se añade por el art. único.7 de la Ley 3/2010, de 20 de mayo. Ref. BOE-A-2010-9422
+
+### Artículo 24
+
+Artículo 24. Memoria anual.
+1. Los Colegios Profesionales estarán sujetos al principio de transparencia en su gestión. Para ello, deberán elaborar una memoria anual que contenga, al menos, la siguiente información:
+a) Informe anual de gestión económica, incluyendo los gastos de personal suficientemente desglosados y especificando las retribuciones de los miembros de la Junta de Gobierno por razón de su cargo.
+b) Importe de las cuotas aplicables desglosadas por concepto y por el tipo de servicios prestados, así como las normas para su cálculo y aplicación.
+c) Información agregada y estadística relativa a los procedimientos informativos y sancionadores en fase de instrucción o que hayan alcanzado firmeza, con indicación de la infracción a la que se refieren, de su tramitación y de la sanción impuesta en su caso, de acuerdo con la legislación en materia de protección de datos de carácter personal.
+d) Información agregada y estadística relativa a quejas y reclamaciones, presentadas por los consumidores o usuarios o sus organizaciones representativas, así como sobre su tramitación y, en su caso, de los motivos de estimación o desestimación de la queja o reclamación, de acuerdo con la legislación en materia de protección de datos de carácter personal.
+e) Los cambios en el contenido de sus códigos deontológicos, en caso de disponer de ellos.
+f) Las normas sobre incompatibilidades y las situaciones de conflicto de intereses en que se encuentren los miembros de las Juntas de Gobierno.
+g) Información estadística sobre la actividad de visado.
+2. La memoria anual deberá hacerse pública a través de la página web en el primer semestre de cada año.
+Se añade por el art. único.7 de la Ley 3/2010, de 20 de mayo. Ref. BOE-A-2010-9422
+
+### Artículo 25
+
+Artículo 25. Servicio de atención a los colegiados y a los consumidores o usuarios.
+1. Los Colegios Profesionales deberán atender las quejas o reclamaciones presentadas por los colegiados.
+2. Asimismo, los Colegios Profesionales dispondrán de un servicio de atención a los consumidores o usuarios, que necesariamente tramitará y resolverá cuantas quejas y reclamaciones referidas a la actividad colegial o profesional de los colegiados se presenten por cualquier consumidor o usuario que contrate los servicios profesionales, así como por asociaciones y organizaciones de consumidores y usuarios en su representación o en defensa de sus intereses.
+3. Los Colegios Profesionales, a través de este servicio de atención a los consumidores o usuarios, resolverán sobre la queja o reclamación según proceda: bien informando sobre el sistema extrajudicial de resolución de conflictos, bien remitiendo el expediente a los órganos colegiales competentes para instruir los oportunos expedientes informativos o disciplinarios, bien archivando o bien adoptando cualquier otra decisión conforme a derecho.
+4. La regulación de este servicio deberá prever la presentación de quejas y reclamaciones por vía electrónica y a distancia.
+Se añade por el art. único.7 de la Ley 3/2010, de 20 de mayo. Ref. BOE-A-2010-9422
+
+### Artículo 26
+
+Artículo 26. Visado.
+1. Los Colegios de profesiones técnicas visarán los trabajos profesionales en su ámbito de competencia cuando se solicite por petición expresa de los colegiados con el consentimiento informado de los clientes, o por éstos, incluidas las Administraciones Públicas cuando actúen como tales o cuando así lo establezca la normativa básica estatal, previa consulta a los Colegios afectados, de acuerdo con los siguientes criterios:
+a) Que sea necesario por existir una relación de causalidad directa entre el trabajo profesional y la afectación a la integridad física y seguridad de las personas.
+b) Que se acredite que el visado es el medio de control más proporcionado.
+En ningún caso los Colegios, por sí mismos o a través de sus previsiones estatutarias, podrán imponer la obligación de visar los trabajos profesionales.
+2. El objeto del visado es comprobar, al menos:
+a) La identidad y habilitación profesional del autor del trabajo, utilizando para ello los registros de colegiados previstos en el artículo 23.2.
+b) La corrección e integridad formal de la documentación del trabajo profesional de acuerdo con la normativa aplicable al trabajo del que se trate.
+En todo caso, el visado expresará claramente cuál es su objeto, detallando qué extremos son sometidos a control e informará sobre la responsabilidad que, de acuerdo con lo previsto en el apartado siguiente, asume el Colegio. En ningún caso comprenderá los honorarios ni las demás condiciones contractuales, cuya determinación queda sujeta al libre acuerdo entre las partes, ni tampoco comprenderá el control técnico de los elementos facultativos del trabajo profesional.
+3. En el caso de daños derivados de un trabajo profesional que haya visado el Colegio, en el que resulte responsable el autor del mismo, el Colegio responderá subsidiariamente de los daños que tengan su origen en defectos que hubieran debido ser puestos de manifiesto por el Colegio al visar el trabajo profesional, y siempre que guarden relación directa con los elementos que se han visado en ese trabajo concreto.
+4. Cuando el visado colegial sea preceptivo, su coste será razonable, no abusivo ni discriminatorio. Los Colegios harán públicos los precios de los visados de los trabajos, que podrán tramitarse por vía telemática.
+Se añade por el art. único.7 de la Ley 3/2010, de 20 de mayo. Ref. BOE-A-2010-9422
+
+### Artículo 27
+
+Artículo 27. Prohibición de recomendaciones sobre honorarios.
+Los Colegios Profesionales no podrán establecer baremos orientativos ni cualquier otra orientación, recomendación, directriz, norma o regla sobre honorarios profesionales, salvo lo dispuesto en la disposición adicional segunda.
+Se añade por el art. único.7 de la Ley 3/2010, de 20 de mayo. Ref. BOE-A-2010-9422
+
+### Artículo 28
+
+Artículo 28. Igualdad de trato y no discriminación.
+El acceso y ejercicio a profesiones colegiadas se regirá por el principio de igualdad de trato y no discriminación, en particular por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual, en los términos de la sección III del capítulo III del título II de la Ley 62/2003, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
+Se añade por el art. único.7 de la Ley 3/2010, de 20 de mayo. Ref. BOE-A-2010-9422
+
+### Disposición adicional primera
+
+Disposición adicional primera. Incompatibilidades de empleados públicos.
+1. Los Colegios Profesionales facilitarán a las Administraciones públicas la información que les sea requerida relativa al régimen de incompatibilidades de sus empleados públicos.
+2. En ningún caso los Colegios Profesionales visarán los trabajos de sus colegiados respecto de los que, por su condición de empleados públicos, las Administraciones públicas les hubieran comunicado el régimen de incompatibilidad en que se encuentran.
+3. A estos efectos, las Administraciones públicas que comuniquen a los Colegios Profesionales el régimen de incompatibilidades en que se encuentren sus empleados deberán asimismo notificar individualizadamente a éstos su situación de incompatibilidad.
+4. Los recursos y reclamaciones derivados de lo establecido en esta disposición adicional serán presentados en todo caso ante la Administración pública correspondiente.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Valoración de los Colegios para la tasación de costas.
+Sin perjuicio de lo dispuesto en el artículo 27 de la presente Ley, los Colegios podrán elaborar criterios orientativos a los exclusivos efectos de la tasación de costas y de la jura de cuentas de los abogados.
+Dichos criterios serán igualmente válidos para el cálculo de honorarios y derechos que correspondan a los efectos de tasación de costas en asistencia jurídica gratuita.
+Se modifica por el art. único.8 de la Ley 3/2010, de 20 de mayo. Ref. BOE-A-2010-9422
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Desarrollo reglamentario.
+Se autoriza al Gobierno de Cantabria para el desarrollo reglamentario de la presente Ley.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Las Delegaciones en la Comunidad Autónoma de Cantabria de Colegios Profesionales de ámbito territorial superior al autonómico podrán segregarse, previa autorización estatal, para constituir Colegios independientes. La segregación requerirá aprobación por Decreto del Gobierno.
+Se añade por el art. 2 de la Ley 10/2002, de 23 de diciembre. Ref. BOE-A-2003-1590
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Facultad de control documental de las Administraciones Públicas.
+Lo previsto en esta Ley no afecta a la capacidad que tienen las Administraciones Públicas, en el ejercicio de su autonomía organizativa y en el ámbito de sus competencias, para decidir caso por caso para un mejor cumplimiento de sus funciones, establecer con los Colegios Profesionales los convenios o contratar los servicios de comprobación documental, técnica o sobre el cumplimiento de su normativa aplicable que consideren necesarios relativos a los trabajos profesionales.
+Se añade por el art. único.9 de la Ley 3/2010, de 20 de mayo. Ref. BOE-A-2010-9422
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Adaptación de Estatutos y obligaciones registrales.
+Los Colegios Profesionales actualmente existentes en la Comunidad Autónoma de Cantabria adaptarán sus Estatutos a la presente Ley en el plazo de un año, a partir de su entrada en vigor, y cumplirán las obligaciones registrales en el plazo de seis meses, a contar desde la puesta en funcionamiento del Registro de Colegios Profesionales.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Recursos.
+Los recursos interpuestos contra actos de los Colegios, con anterioridad a la entrada en vigor de esta Ley, seguirán tramitándose con arreglo a la normativa vigente en el momento de su interposición.
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Boletín Oficial de Cantabria».
+
+### [firma]
+
+Palacio del Gobierno de Cantabria, 16 de marzo de 2001.
+MARTÍNEZ SIESO,
+Presidente

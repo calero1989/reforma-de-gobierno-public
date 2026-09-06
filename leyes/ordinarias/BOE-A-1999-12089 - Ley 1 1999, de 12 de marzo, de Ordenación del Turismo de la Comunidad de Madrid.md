@@ -1,0 +1,815 @@
+# Ley 1/1999, de 12 de marzo, de Ordenación del Turismo de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1999-12089`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-12089
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOCM núm. 101, de 30 de abril de 1999.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la presente Ley, que yo, en nombre del Rey, promulgo.
+PREÁMBULO
+El sector turístico representa uno de los exponentes diferenciales de la economía de la Comunidad de Madrid tanto por su evolución histórica en las últimas décadas como por las expectativas de desarrollo e impacto que se prevén en el próximo milenio.
+La empresa turística madrileña se distingue por un alto grado de dinamismo e innovación respecto a la media nacional, siendo la oferta turística de nuestra región una de las más sólidas y diversificadas de Europa, factor que la ha convertido, junto con el carácter estratégico de su situación territorial, en cita obligada de los grandes circuitos internacionales de flujos turísticos.
+La Comunidad de Madrid tiene atribuida, en el artículo 26.1.21 de su Estatuto de Autonomía, la plenitud de la función legislativa en materia de promoción y ordenación del turismo en su ámbito territorial, y el artículo 26.1.17 del propio Estatuto acoge el fomento del desarrollo económico, dentro de los objetivos marcados por la política económica nacional.
+En este contexto con fecha 10 de abril de 1995, se publicó la Ley 8/1995, de 28 de marzo, de Ordenación del Turismo, como un proceso de racionalización y síntesis del marco legal entonces existente, y como un instrumento de apoyo a la calidad y competitividad del sector turístico.
+El presente cuerpo legal, que deroga la Ley del 95, viene justificado por la necesidad de solventar disfunciones y lagunas que por su importante incidencia en la actividad económica sectorial venían siendo reclamadas a la Administración prácticamente desde su entrada en vigor y que incidían en aspectos fundamentales como la planificación, la ordenación de las infraestructuras que conforman la oferta turística básica, el reconocimiento de segmentos de actividad esenciales para el desarrollo turístico de la región, como el turismo rural, la incidencia en la actividad turística de las distintas administraciones y agentes implicados, los principios de la potestad sancionadora y la proporcionalidad en la disciplina turística, entre otros.
+La presente Ley de Ordenación del Turismo se estructura en un título preliminar y cinco títulos.
+En el título preliminar, integrado por un capítulo único, se establecen los conceptos referentes al objeto, sujetos, fines y competencia sobre los que se apoyan los títulos siguientes, a la vez que recoge el ámbito de aplicación de la norma extendiéndolo, no sólo a la actividad turística en cuanto destinada a proporcionar al usuario los distintos servicios turísticos, sino incluyendo los recursos susceptibles de generar corrientes turísticas.
+Plenamente respetuoso con las demandas de reconocimiento de la fragilidad de las personas en situación de discapacidad, este capítulo introduce el criterio de accesibilidad con el compromiso de respeto a la normativa vigente en la materia. Siguiendo la misma línea, dedica una especial atención al respeto y defensa del medio ambiente, por cuanto significa la base del desarrollo del turismo y el principal legado para las futuras generaciones.
+Bajo el epígrafe «De la actividad turística» se contienen en el título I cuatro capítulos destinados a contemplar los derechos y deberes de los usuarios turísticos; la definición de empresas y establecimientos; las profesiones turísticas y la información turística, como servicio destinado a proporcionar la información, orientación y asistencia necesarias.
+El capítulo III de este título incorpora un compromiso específico con la formación de los profesionales del sector turístico, teniendo como principio que la profesionalidad de cuantos prestan los servicios turísticos constituye el elemento esencial de la competitividad de las empresas turísticas y su sostenibilidad.
+El título II, «Ordenación de la oferta turística», se estructura en dos capítulos, tratando con carácter general en el primer capítulo el régimen de autorizaciones, títulos-licencias y habilitaciones necesarias para el ejercicio de cada una de las distintas modalidades de actividad, y en un segundo capítulo, de forma pormenorizada, cada una de ellas específicamente.
+Sobre la perspectiva de las cambiantes tendencias de la demanda y de la oferta turística se introducen en este título nuevas figuras acordes con las necesidades actuales, en este sentido se destacan la incorporación de los establecimientos de turismo rural como nueva modalidad de alojamiento; el principio de unidad de explotación, requisito esencial exigible a las empresas que presten servicios de alojamiento turístico; la modificación del Registro de Empresas Turísticas, en el sentido de crear la posibilidad de una inscripción voluntaria para las asociaciones y empresas que presten servicios relacionados con el turismo; y la incorporación de aquellas formas empresariales que responden a nuevas tecnologías.
+El título III «Planificación, promoción y fomento del turismo», en su capítulo dedicado a la planificación, es completamente innovador al establecer los instrumentos necesarios para una planificación de la industria turística, en dicho capítulo se contemplan un plan regional y unos planes parciales que actúan como elementos de coordinación y diseño de los objetivos generales, el primero, y con fines de desarrollo y concreción de objetivos específicos, el segundo. Asimismo se faculta al Gobierno para la declaración de áreas especiales.
+Asimismo, dentro del capítulo II, destinado a promoción turística, se incluye el Consejo de Madrid para la Promoción, creado por Decreto 146/1997, de 30 de octubre, y que se instituye como órgano mixto de carácter consultivo de concertación, coordinación y propuesta, cuya actividad permitirá aglutinar los recursos y optimizar los medios que se destinan a la promoción turística de la región.
+El título IV, del «Control de la calidad», contiene una nueva regulación de la disciplina en materia turística. En primer lugar, se introduce una más amplia regulación de las funciones de la inspección turística como uno de los ejes fundamentales del control de la calidad de los servicios turísticos. Asimismo, se desarrolla un catálogo más preciso de las infracciones en aras a la seguridad jurídica y al respeto a los principios de legalidad y tipicidad. En materia de sanciones, se prevé la aplicación de un mecanismo que permita ponderar la imposición de sanciones en atención al principio de proporcionalidad, se incorpora el apercibimiento como modalidad de sanción, se aportan criterios más específicos para la graduación de sanciones al objeto de garantizar los derechos de los imputados, haciendo especial hincapié en la reparación voluntaria de los daños y la subsanación de irregularidades, y se plasma una delimitación más precisa de las atribuciones de los órganos competentes para la imposición de sanciones.
+El título V se estructura en un solo artículo dedicado al arbitraje, por el cual se habilita al organismo competente para que, de conformidad con la normativa vigente en esta materia, se puedan crear mecanismos de arbitraje para la resolución de los conflictos que puedan surgir entre los prestadores de servicios turísticos y los usuarios de los mismos.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+## CAPÍTULO ÚNICO
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente Ley tiene por objeto la ordenación del sector turístico en la Comunidad de Madrid y el establecimiento de los principios básicos a los que habrán de acomodarse la acción administrativa y la de los particulares, en materia de planificación, promoción y fomento.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. Las disposiciones de esta Ley se aplicarán al conjunto de actividades y recursos que integran el sector turístico de la Comunidad de Madrid.
+2. A los efectos de la presente Ley se entiende por:
+a) Actividad turística, la destinada a proporcionar a los usuarios turísticos directa o indirectamente los servicios de alojamiento, restauración, información, asistencia y acompañamiento, transporte y actividades complementarias.
+b) Recursos turísticos, los bienes materiales e inmateriales, naturales o no, que puedan generar corrientes turísticas.
+
+### Artículo 3
+
+Artículo 3. Sujetos de la actividad turística.
+Se consideran sujetos de la actividad turística y por tanto sometidos a regulación por la presente Ley:
+a) Las administraciones, los organismos y las empresas públicas que desarrollen actividades relacionadas con el turismo.
+b) Las empresas turísticas y sus establecimientos.
+c) Las profesiones turísticas.
+d) Las entidades turísticas no empresariales.
+e) Los usuarios de servicios turísticos.
+f) Todos aquellos que presten servicios en el ámbito del sector turístico.
+
+### Artículo 4
+
+Artículo 4. Fines de la actuación administrativa.
+1. La actuación de la Administración competente en materia de turismo se orientará a la consecución de los siguientes fines:
+a) Favorecer el desarrollo y la competitividad de la actividad empresarial potenciando la calidad de los servicios turísticos.
+b) Proteger los derechos y legítimos intereses de los usuarios de servicios turísticos.
+c) Favorecer la adaptación de la oferta turística a la coyuntura socieconómica.
+d) Favorecer la creación de empleo estable en el ámbito de la actividad turística.
+e) Promover la creación, conservación, mejora, aprovechamiento y protección de los recursos turísticos, con especial atención a los culturales y al patrimonio histórico.
+f) Contribuir al perfeccionamiento y formación de los profesionales del turismo.
+g) Simplificar los procedimientos administrativos, eliminando tanto los trámites innecesarios como los documentos prescindibles o duplicados, potenciando la utilización del acceso electrónico por parte de los usuarios turísticos.
+2. Para la consecución de estos fines se tendrán en consideración las disposiciones relativas a la protección y conservación del patrimonio histórico, así como sobre el medio ambiente y la conservación de la naturaleza, con especial atención al respeto y defensa de los espacios naturales protegidos y a la flora y fauna característicos del entorno en que se ubiquen, en todo caso, bajo los postulados del desarrollo sostenible.
+3. Con el fin de conseguir una efectiva cooperación administrativa para el control de los prestadores con las autoridades competentes de la Administración Local, Autonómica, General del Estado, Estados miembros de la Unión Europea y Comisión Europea, la Consejería competente en materia de turismo llevará a cabo dicha cooperación a través de los puntos de contacto que se determinen.
+Se añaden los apartados 1.g) y 3 por el art. 3.1 y 2 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 5
+
+Artículo 5. Accesibilidad.
+La Administración autonómica velará porque las empresas y entidades turísticas respeten las normas relativas a la accesibilidad y supresión de barreras arquitectónicas.
+
+### Artículo 6
+
+Artículo 6. Competencia.
+En el ámbito territorial de la Comunidad de Madrid corresponderá al Consejero competente en materia de turismo y en su caso al Director general de Turismo el ejercicio de las siguientes competencias:
+a) La planificación de la actividad turística. A tal fin, tras la aprobación inicial de instrumentos de ordenación territorial y planeamiento urbanístico será consultada, en el ámbito de sus competencias, la dirección general competente en materia de turismo.
+b) Promoción del sector turístico a nivel nacional e internacional.
+c) La concesión de ayudas y subvenciones al sector turístico y el control de su utilización, así como la coordinación con otros órganos de la misma o distinta Administración que, en sus respectivos ámbitos de actuación, concedan también ayudas a este sector.
+d) Coordinación con otros órganos de la Administración de la Comunidad de Madrid, incluida la institucional, así como con las corporaciones locales y sus empresas y entidades públicas en cuantas actuaciones con incidencia en el sector turístico realicen en el ejercicio de sus respectivas competencias.
+e) Impulso y coordinación de la información turística.
+f) La ordenación del sector turístico, entendiendo por ordenación la potestad reglamentaria y el control de la actividad.
+g) Control de la calidad e inspección de las instalaciones y de la prestación de los servicios de las empresas, profesiones y actividades, sin perjuicio de las competencias que en materia de vigilancia y control correspondan a otros organismos y Administraciones Públicas.
+h) El fomento de las profesiones turísticas, así como la formación y perfeccionamiento de los profesionales del turismo en el marco de las competencias del Estatuto de Autonomía de la Comunidad de Madrid.
+i) El ejercicio de la potestad sancionadora.
+j) La resolución de conflictos por vía de conciliación, en los términos previstos en la legislación vigente.
+Se modifica la letra a) por el art. 6 de la Ley 2/2026, de 11 de junio. Ref. BOE-A-2026-16360
+ Se modifica la letra f) por el art. 3.3 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+## TÍTULO I
+
+De la actividad turística
+
+## CAPÍTULO I
+
+De los usuarios turísticos
+
+### Artículo 7
+
+Artículo 7. Concepto.
+Son usuarios turísticos a los efectos de está Ley, las personas físicas o jurídicas que utilizan los establecimientos, instalaciones y recursos turísticos, o reciben los bienes y servicios que les ofrecen las empresas y profesionales de esta naturaleza, y que como clientes los demandan y disfrutan.
+
+### Artículo 8
+
+Artículo 8. Derechos.
+Los usuarios turísticos, con independencia de los derechos que les asisten como consumidores, tendrán, en los términos previstos en esta Ley, los siguientes derechos:
+a) A recibir información útil, precisa y veraz, con carácter previo, sobre todas y cada una de las condiciones de prestación de los servicios.
+b) A que se le faciliten los bienes y servicios turísticos en las condiciones contratadas.
+c) A obtener cuantos documentos acrediten los términos de su contratación, y, en cualquier caso, las correspondientes facturas legalmente emitidas.
+d) A recibir de la empresa turística bienes y servicios de calidad acordes en naturaleza y cantidad con la categoría que ostente el establecimiento elegido.
+e) A ser atendidos con el debido respeto.
+f) A formular reclamaciones.
+g) A tener garantizada en las instalaciones y servicios turísticos la salud y seguridad de su persona y la seguridad de sus bienes en los términos establecidos en la legislación vigente.
+h) A participar en la adopción de decisiones de los poderes públicos en los términos previstos en la legislación vigente, a través de sus asociaciones u órganos de representación.
+
+### Artículo 9
+
+Artículo 9. Deberes.
+Los usuarios turísticos están obligados a:
+a) Observar las normas usuales de convivencia en los establecimientos turísticos.
+b) Someterse a las prescripciones particulares de los establecimientos y empresas cuyos servicios disfruten o contraten y muy particularmente a los reglamentos de uso o de régimen interior, siempre que no contravengan lo previsto en las leyes y en los reglamentos de desarrollo de las mismas.
+c) Pagar el precio de los servicios utilizados, en el momento de la presentación de la factura o en el plazo pactado.
+
+## CAPÍTULO II
+
+De las empresas y establecimientos turísticos
+
+## Sección 1
+
+Sección 1ª. De las empresas
+
+### Artículo 10
+
+Artículo 10. Definición.
+Son empresas turísticas a los efectos de la presente Ley, todas aquellas que, mediante precio y de forma profesional y habitual, bien sea de modo permanente o temporal, prestan servicios en el ámbito de la actividad turística.
+
+### Artículo 11
+
+Artículo 11. Modalidades.
+Se consideran empresas turísticas:
+a) Las de alojamiento.
+b) Las de intermediación.
+c) Las de restauración.
+d) Las de información.
+e) Las de actividades turísticas complementarias.
+
+### Artículo 12
+
+Artículo 12. Obligaciones.
+Son obligaciones de las empresas turísticas:
+a) Destinar sus instalaciones a la prestación de los servicios turísticos objeto de regulación por la presente Ley
+b) Anunciar o informar a los usuarios, previamente, sobre las condiciones de prestación de los servicios y de su precio.
+c) Facilitar los bienes y servicios con la máxima calidad en los términos contratados, de acuerdo con la categoría del establecimiento, en su caso, y con lo dispuesto en las reglamentaciones correspondientes.
+d) Dar la máxima publicidad a los precios de todos los servicios y notificarlos a la Administración, cuando sea preceptivo.
+e) Facturar los servicios de acuerdo con los precios establecidos.
+f) Cuidar del buen funcionamiento y mantenimiento de todas las instalaciones y servicios del establecimiento.
+g) Garantizar en las instalaciones y servicios turísticos la salud y seguridad de las personas y la seguridad de los bienes en los términos establecidos en la legislación vigente.
+h) Cuidar del buen trato dado a los clientes, por parte del personal de la empresa.
+i) Facilitar al cliente, cuando lo solicite, la documentación preceptiva para formular reclamaciones.
+j) Facilitar a la Administración la información y documentación preceptiva para el correcto ejercicio de las atribuciones que legal y reglamentariamente le correspondan.
+k) Informar a los usuarios de los datos de identificación de la entidad prestadora de los servicios turísticos debiendo hacer constar de forma clara e inequívoca los datos exigidos por la normativa aplicable.
+Se modifica la letra a) y se añade la k) por el art. 3.4 y 5 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 13
+
+Artículo 13. Derechos.
+Las empresas y entidades turísticas tendrán los siguientes derechos:
+a) Participar en las actividades de promoción turística realizadas por la Consejería competente en materia de turismo de la Comunidad de Madrid.
+b) Solicitar las ayudas y subvenciones incluidos en los programas de fomento turístico o cualesquiera otros.
+c) Participar en la adopción de decisiones por los poderes públicos en los términos previstos en la legislación vigente, a través de sus asociaciones u órganos de representación.
+Se modifica por el art. 3.6 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+## Sección 2
+
+Sección 2ª. De los establecimientos
+
+### Artículo 14
+
+Artículo 14. Definición.
+Se consideran establecimientos turísticos los locales o instalaciones abiertos al público y acondicionados de conformidad con la normativa aplicable, en los que se presten servicios turísticos.
+
+### Artículo 15
+
+Artículo 15. Requisitos.
+1. Los establecimientos turísticos quedan sujetos al cumplimiento de los requisitos mínimos reglamentariamente determinados, sin perjuicio de los exigidos por otras normativas sectoriales.
+2. Los establecimientos turísticos, por su consideración de locales o instalaciones de carácter público, serán de libre acceso, sin que el mismo pueda ser restringido por razones de nacimiento, raza, sexo, religión, opinión, u otra circunstancia personal o social.
+3. Los establecimientos podrán ejercer el derecho de admisión en los términos a que pudiera estar condicionado por las disposiciones legales vigentes.
+4. Los titulares de las empresas turísticas podrán recabar la ayuda de los agentes de la autoridad para expulsar de sus establecimientos, si fuese necesario, a las personas que incumplan las normas usuales de convivencia social o las que pretendan entrar con una finalidad evidentemente distinta de la propia del disfrute pacífico del servicio.
+
+## CAPÍTULO III
+
+De las profesiones turísticas
+
+### Artículo 16
+
+Artículo 16. Definición.
+(Sin contenido)
+Se deja sin contenido por el art. 3.7 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículos 16 a 18
+
+Artículo 16 a 18.
+(Sin contenido).
+Se dejan sin contenido por el art. 3.7 a 9 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 17
+
+Artículo 17. Formación profesional.
+(Sin contenido)
+Se deja sin contenido por el art. 3.8 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 18
+
+Artículo 18. Habilitación.
+(Sin contenido).
+Se deja sin contenido por el art. 3.9 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+## CAPÍTULO IV
+
+De la Actividad Turística Informativa
+Se modifica por el art. 3.10 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 19
+
+Artículo 19. Definición.
+Se considera actividad turístico‑informativa la destinada a proporcionar al público en general, información y orientación relativa a la oferta turística de la Comunidad de Madrid.
+Se modifica por el art. 3.11 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 20
+
+Artículo 20. Oficinas de turismo.
+1. Se consideran oficinas de turismo los establecimientos ubicados en la Comunidad de Madrid, abiertos al público en general, que proporcionan al usuario información y orientación en relación con la oferta turística regional.
+2. Con el fin de obtener una mayor eficacia y calidad en la gestión de la información turística la Consejería competente en materia de turismo impulsará la coordinación de las oficinas dependientes de la Comunidad de Madrid con las gestionadas por otras entidades públicas o privadas.
+3. Las oficinas de turismo deberán comunicar a la Dirección General competente en materia de turismo el inicio de su actividad, o cualquier modificación que afecte a la declaración inicial, a través de declaración responsable.
+Se modifica por el art. 3.12 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 20 bis
+
+Artículo 20 bis. Guías oficiales de turismo de la Comunidad de Madrid.
+1. Se liberaliza la prestación del servicio de información turística en la Comunidad de Madrid.
+2. Los guías de turismo habilitados por la Comunidad de Madrid pasarán a denominarse guías oficiales de turismo de la Comunidad de Madrid.
+3. La Comunidad de Madrid en colaboración con las Asociaciones Profesionales de Guías de Turismo, establecerá las pruebas necesarias que permitan acreditar el conocimiento de idiomas y de las materias oportunas para la obtención de la condición de guías oficiales de turismo de la Comunidad de Madrid.
+4. La Comunidad de Madrid velará por la prestación de un servicio de información turística de calidad, para lo cual desarrollará acciones de formación y perfeccionamiento de los profesionales, promocionará su actividad y fomentará la firma de acuerdos con instituciones públicas y privadas para facilitar el ejercicio profesional de este colectivo.
+Se modifica por el art. 3.13 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+## TÍTULO II
+
+Ordenación de la oferta turística
+
+## CAPÍTULO I
+
+Ordenación general
+
+### Artículo 21
+
+Artículo 21. Declaración responsable.
+1. Los establecimientos turísticos, cualesquiera que sean su modalidad y categoría están obligados a comunicar a la Dirección General competente en materia de turismo, el inicio de su actividad, o cualquier modificación que afecte a la declaración inicial, a través de una declaración responsable.
+2. A dichos efectos se entiende por declaración responsable el documento suscrito por la persona titular de una actividad empresarial o profesional en el que declara, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente, que dispone de la documentación que así lo acredita y que se compromete a mantener su cumplimiento durante la vigencia de la actividad.
+3. La Dirección General competente en materia de turismo efectuará, en cualquier momento, la comprobación del contenido de la declaración responsable.
+4. La falsedad comprobada del contenido de la declaración responsable se sancionará conforme a lo dispuesto en el Título IV de la presente Ley, sin perjuicio de la responsabilidad penal o civil que de tal hecho se pudiese derivar.
+Se modifica por el art. 3.14 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+ Se modifica el apartado 3 por el art. 22 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 4.
+
+### Artículo 22
+
+Artículo 22. Revocación.
+(Sin contenido).
+Se deja sin contenido por el art. 3.15 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 23
+
+Artículo 23. Registro de Empresas Turísticas.
+1. Se denomina Registro de Empresas Turísticas a la base de datos informatizada que reúne el conjunto de inscripciones y datos concernientes a las empresas y entidades que desarrollan actividades turísticas reconocidas en la presente Ley.
+2. El Registro de Empresas Turísticas se gestionará por la Dirección General competente en materia de turismo, será público y la inscripción en el mismo tendrá carácter voluntario.
+3. A efectos estadísticos, de promoción y de constancia de establecimientos en funcionamiento, la Dirección General competente en materia de turismo, una vez presentada y comprobada la exactitud de los datos reflejados en la declaración responsable, elaborará listados de aquellas empresas cuyas modalidades estén contempladas en la presente Ley.
+4. La Dirección General competente en materia de turismo podrá consultar en los términos previstos en la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, los registros en los que estén inscritos los prestadores de servicios de otros Estados miembros de la Unión Europea que ejerzan su actividad en el ámbito territorial de la Comunidad de Madrid.
+Se modifica por el art. 3.16 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+## CAPÍTULO II
+
+Ordenación sectorial
+
+## Sección 1
+
+Sección 1ª. De la actividad turística de alojamiento
+
+### Artículo 24
+
+Artículo 24. Definición.
+1. A los efectos de esta Ley, se entiende por actividad turística de alojamiento la ejercida por las empresas que presten servicios de hospedaje al público mediante precio, de forma profesional y habitual, bien sea de modo permanente o temporal, con o sin prestación de servicios complementarios.
+2. Quedan excluidas del ámbito de aplicación de la presente Ley, las actividades de alojamiento que tengan fines institucionales, sociales, asistenciales, laborales, o se desarrollen en el marco de programas de la Administración dirigidos a la infancia y a la juventud.
+
+### Artículo 25
+
+Artículo 25. Modalidades.
+Los servicios de alojamiento turístico se ofertarán bajo alguna de las siguientes modalidades:
+a) Establecimientos hoteleros.
+b) Apartamentos turísticos.
+c) Campamentos de turismo.
+d) Establecimientos de turismo rural.
+e) Cualquier otra que reglamentariamente se determine.
+Se modifica por el art. 3.17 de la Ley 8/2009, de 21 de dicembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 26
+
+Artículo 26. Establecimientos hoteleros.
+1. Se entiende por establecimientos hoteleros aquellas instalaciones que destinadas al alojamiento turístico, ocupan la totalidad de un edificio o parte independizada del mismo constituyendo sus dependencias un todo homogéneo con entradas, ascensores y escaleras de uso exclusivo y reúnen los requisitos técnicos mínimos que reglamentariamente se establezcan.
+Los establecimientos hoteleros podrán disponer de otros servicios complementarios, como los de restauración que, a elección del interesado podrán o no tener acceso directo desde la vía pública.
+Se entiende por hoteles-apartamentos aquellos establecimientos hoteleros que además de reunir las características anteriores, por sus estructuras y servicios disponen de instalaciones adecuadas para la conservación, elaboración y consumo de alimentos dentro de cada unidad de alojamiento.
+2. Se entiende por pensiones aquellos otros establecimientos que, ofreciendo alojamiento en habitaciones, con o sin comedor u otros servicios complementarios, por sus estructuras y características no alcanzan los niveles exigidos para los hoteles.
+Cuando las pensiones tengan más de 20 plazas de alojamiento y un mínimo de 10 habitaciones, podrán denominarse hostales.
+Los alojamientos, con o sin comedor, que ofrecen elementales servicios, sin alcanzar los niveles necesarios para ser clasificados con estrellas, se considerarán pensiones con la denominación de casas de huéspedes.
+Se modifica el apartado 1 por el art. 3.18 de la Ley 1/2014, de 25 de julio. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 27
+
+Artículo 27. Apartamentos turísticos.
+Se consideran apartamentos turísticos los inmuebles integrados por unidades de alojamiento complejas, dotadas de instalaciones y servicios, destinados de forma habitual al alojamiento turístico ocasional sin carácter de residencia permanente, mediante precio y bajo el principio de unidad de explotación empresarial.
+
+### Artículo 28
+
+Artículo 28. Campamentos de turismo.
+Se consideran campamentos de turismo los espacios de terreno, debidamente delimitados y acondicionados con los correspondientes servicios e instalaciones, para su ocupación temporal por aquellas personas que pretendan hacer vida al aire libre, con fines vacacionales o turísticos, mediante la utilización de elementos de acampada, a quienes se proporciona una prestación de servicios a cambio de un precio.
+
+### Artículo 29
+
+Artículo 29. Establecimientos de turismo rural.
+Se consideran establecimientos de turismo rural aquellas instalaciones situadas en el medio rural que, con características singulares, se destinan al alojamiento turístico de forma habitual, mediante precio.
+
+### Artículo 30
+
+Artículo 30. Principio de unidad de explotación.
+1. Las empresas que presten servicios de alojamiento turístico ejercerán su actividad bajo el principio de unidad de explotación.
+2. Se entiende por unidad de explotación el sometimiento de la actividad turística de alojamiento a una única titularidad empresarial ejercida en cada establecimiento o conjunto unitario de construcciones, edificio o parte homogénea del mismo, que corresponda a alguna de las modalidades de alojamiento previstas en la presente Ley.
+
+## Sección 2
+
+Sección 2ª. De la actividad de intermediación turística
+
+### Artículo 31
+
+Artículo 31. Definición.
+Constituye intermediación turística la actividad de quienes se dedican profesional y habitualmente al ejercicio de actividad de mediación y organización de servicios turísticos, pudiendo utilizar medios propios en la prestación de los mismos.
+
+### Artículo 32
+
+Artículo 32. Agencias de viajes.
+1. Tienen la consideración de agencias de viajes las empresas que habiendo presentado declaración responsable ante la Dirección General competente en materia de turismo, se dedican profesional y comercialmente, al ejercicio de actividades de mediación y/u organización de servicios turísticos, pudiendo utilizar medios propios en la prestación de los mismos.
+2. Las actividades de mediación y organización de servicios turísticos considerados como viajes combinados se ejercerán de forma exclusiva por las agencias de viajes, sin perjuicio de la facultad conferida por la legislación vigente a transportistas, hoteleros y otras empresas turísticas para contratar directamente con los clientes la prestación de sus propios servicios.
+3. Atendiendo a las actividades que desempeñan, las agencias de viajes se clasifican en tres grupos:
+a) Mayoristas.
+b) Minoristas.
+c) Mayoristas-minoristas.
+Se modifica por el art. 3.19 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+## Sección 3
+
+Sección 3ª. De la actividad de restauración
+
+### Artículo 33
+
+Artículo 33. Definición.
+1. Se considera actividad de restauración la ejercida en aquellos establecimientos abiertos al público que se dedican a servir profesional y habitualmente, de modo permanente o temporal, mediante precio, comidas y/o bebidas, preferentemente para su consumo en el mismo local.
+Quedan asimismo sujetas a la presente Ley las empresas que ejercen la actividad de restauración mediante la elaboración de comidas para su consumo fuera del establecimiento elaborador.
+2. Queda excluida de la presente norma la restauración social colectiva, entendida como prestación de servicios de restauración en comedores de carácter asistencial, institucional, social, laboral y en cualesquiera otros destinados a contingentes particulares y no al público en general.
+
+### Artículo 34
+
+Artículo 34. Autorización y clasificación.
+1. Los establecimientos de restauración, atendiendo a sus características, revisten las siguientes modalidades:
+a) Restaurantes.
+b) Cafeterías.
+c) Bares y similares.
+d) Establecimientos de elaboración de comidas para su consumo fuera de los mismos.
+2. Las características, requisitos y condiciones de funcionamiento de los establecimientos de restauración establecidos en el número anterior se desarrollarán reglamentariamente.
+Se modifica el apartado 2 por el art. único de la Ley 1/2003, de 11 de febrero. Ref. BOE-A-2003-10721.
+
+## Sección 4
+
+Sección 4ª. Actividades turísticas complementarias
+
+### Artículo 35
+
+Artículo 35. Definición.
+1. A los efectos de esta Ley se entiende por actividad turística complementaria la ejercida por empresas que se dedican a prestar servicios especializados de contenido cultural, deportivo, recreativo, de turismo activo, comercial, de transporte, de organización y consultoría o similares, que con su actividad contribuyen a la diversificación de la oferta y desarrollo del turismo.
+2. Las empresas que se dedican a prestar servicios especializados directamente relacionados con la actividad turística deberán ser objeto de reglamentación cuando no exista una regulación sectorial o así lo requiera la protección de los usuarios.
+
+### Artículo 36
+
+Artículo 36. Registro.
+(Sin contenido).
+Se deja sin contenido por el art. 3.20 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+## TÍTULO III
+
+Planificación, promoción y fomento del turismo
+
+### Artículo 37
+
+Artículo 37. Desarrollo y coordinación de la actividad turística.
+La Consejería competente en materia de turismo establecerá los instrumentos de planificación, promoción y fomento y coordinará las actuaciones que inciden en el sector turístico y que se lleven a cabo por la Administración regional, local y sus empresas y entidades públicas, en el ámbito de sus respectivas competencias.
+
+## CAPÍTULO I
+
+Planificación
+
+### Artículo 38
+
+Artículo 38. Plan regional.
+El Gobierno de la Comunidad de Madrid, a iniciativa de la Consejería competente en materia de turismo, aprobará un plan regional integral mediante el cual se definan los criterios y objetivos generales relativos al sector turístico y se establezcan los instrumentos para su ejecución.
+
+### Artículo 39
+
+Artículo 39. Planes parciales.
+1. La Consejería competente en materia de turismo aprobará planes parciales, fijando los objetivos concretos, programas de actuación y medios necesarios para el desarrollo de los mismos.
+2. La elaboración de los planes parciales se llevará a cabo en forma concertada entre los distintos órganos de la Administración y los sectores privados implicados en cada plan parcial.
+
+### Artículo 40
+
+Artículo 40. Declaración de áreas especiales.
+El Gobierno, mediante Decreto aprobado a propuesta de la Consejería competente en materia de turismo y previo informe de la Consejería a la que corresponda la ordenación del territorio y del Ayuntamiento o Ayuntamientos afectados, podrá declarar las siguientes áreas especiales:
+a) Áreas de preferente uso turístico, constituidas por aquellas zonas, localidades o comarcas en las que se requiera una vigorosa acción ordenadora o promocional de carácter turístico.
+b) Áreas turísticas saturadas, constituidas por aquellas zonas, localidades o comarcas en las que, por exceso de oferta o por razones de protección del medio ambiente, sea desaconsejable un aumento de su capacidad turística, tanto de alojamiento como de cualquier otro tipo. La declaración de área turística saturada comportará la prohibición de instalar en ella nuevas empresas o establecimientos turísticos.
+
+## CAPÍTULO II
+
+Promoción
+
+### Artículo 41
+
+Artículo 41. Definición.
+Se entiende por promoción el conjunto de actividades y medios a través de los cuales la Consejería competente en materia de turismo favorece la demanda de servicios turísticos en la Comunidad de Madrid y apoya la comercialización de los productos turísticos regionales en el ámbito nacional e internacional.
+
+### Artículo 42
+
+Artículo 42. Actividades y medios.
+Las actividades de promoción, sin perjuicio de las competencias que correspondan a otras administraciones, comprenderán:
+a) El diseño y ejecución de campañas de promoción turística.
+b) La participación en ferias y jornadas profesionales relacionadas con el sector turístico.
+c) El diseño y ejecución de programas para promover la región como sede de ferias, convenciones, congresos y viajes de incentivo empresarial.
+d) La información turística institucional.
+e) Cualquier otra actividad relacionada con la promoción turística de la Comunidad de Madrid que se considere eficaz para el logro de los fines contemplados en la presente Ley.
+
+### Artículo 43
+
+Artículo 43. Consejo de Madrid para la Promoción Turística.
+1. El Consejo de Madrid para la Promoción Turística será el órgano de asesoramiento de la Comunidad de Madrid en materia de promoción turística, constituido como órgano mixto, colegiado, de carácter consultivo, de concertación, coordinación y propuesta.
+El Consejo será consultado con carácter preceptivo en la elaboración de los planes a los que se refieren los artículos 38 y 39, así como para la declaración de áreas especiales previstas en el artículo 40.
+2. El Consejo estará compuesto por representantes de la Administración, de los usuarios y de los sectores afectados.
+Téngase en cuenta que la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629. suprime en su anexo el Consejo de Madrid para la Promoción Turística a través del Decreto 146/1997, de 30 de octubre que aprobó su creación.
+
+### Artículo 44
+
+Artículo 44. Incentivos a la calidad.
+El Gobierno de la Comunidad de Madrid creará y otorgará premios en reconocimiento y estímulo a las actuaciones en favor del turismo.
+Igualmente declarará fiestas de interés turístico aquellas manifestaciones de la cultura o de las tradiciones populares que tengan una especial importancia como atractivo turístico.
+
+### Artículo 45
+
+Artículo 45. Empresas y organismos de promoción.
+Para el cumplimiento de sus objetivos, la Comunidad de Madrid a través de la Consejería competente en materia de turisimo podrá promover y participar directa o indirectamente en sociedades, organismos u otras entidades cuyo objeto social esté vinculado a la actividad de la promoción turística.
+
+## CAPÍTULO III
+
+Fomento
+
+### Artículo 46
+
+Artículo 46. Definición.
+Se entiende por fomento del sector turístico la actividad encaminada a la potenciación de la oferta turística de la Comunidad de Madrid a través de medidas concretas tendentes a la mejora de la competitividad, el empleo y la internacionalización de las empresas y sus profesionales.
+
+### Artículo 47
+
+Artículo 47. Objetivos.
+En el marco de los fines previstos en el artículo 4 de esta Ley, los objetivos que se persiguen a través de las medidas de fomento son:
+1. Diversificación de la oferta turística y promoción de los productos turísticos de la Región, tales como:
+a) Turismo cultural.
+b) Turismo de ocio.
+c) Turismo de ferias, convenciones y congresos.
+d) Turismo de negocios.
+e) Turismo rural.
+f) Turismo activo.
+g) Turismo gastronómico.
+2. Modernización de la oferta turística:
+a) Incentivando el crecimiento selectivo y cualitativo de la oferta a fin de mejorar su competitividad.
+b) Impulsando las acciones concertadas y los programas de acción conjunta de los agentes sociales implicados, a efectos de optimizar los costes de comercialización y promoción en los distintos mercados.
+c) Fomentando la evaluación o certificación de sus actividades por parte de organismos independientes.
+3. Fomento del desarrollo turístico sostenible:
+a) Incentivando la implantación de la gestión empresarial de acuerdo con las tendencias y disposiciones protectoras del medio ambiente y conservación de la naturaleza.
+b) Potenciando la conservación y difusión de las fiestas, costumbres, cultura y gastronomía autóctona.
+4. Impulso a la formación y perfeccionamiento de los profesionales turísticos:
+a) Contribuyendo a la formación y perfeccionamiento continuado y permanente de los profesionales del turismo.
+b) Fomentando el asociacionismo.
+Se modifica por el art. 3.21 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 48
+
+Artículo 48. Ayudas y subvenciones.
+(Sin contenido).
+Se deja sin contenido por el art. 3.22 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+## TÍTULO IV
+
+Del control de la calidad
+
+## CAPÍTULO I
+
+De la inspección de turismo
+
+### Artículo 49
+
+Artículo 49. Inspección en materia turística.
+1. La comprobación, vigilancia y control del cumplimiento de las disposiciones en materia turística se ejercerá por la inspección de turismo dependiente de la Consejería competente en la materia.
+2. Las funciones descritas en el apartado anterior se ejercerán a través de los servicios de inspección turística.
+
+### Artículo 50
+
+Artículo 50. Funciones.
+Son funciones de la Inspección de Turismo:
+a) La vigilancia y comprobación del cumplimiento de las disposiciones vigentes en materia de turismo.
+b) La comprobación de las presuntas infracciones en materia turística objeto, tanto de denuncias y reclamaciones, como de las comunicaciones de órganos administrativos, ya sean éstos, locales, autonómicos, de la Administración General del Estado o de otros Estados miembros de la Unión Europea.
+c) La verificación de las condiciones generales y de los requisitos técnicos mínimos exigidos en la normativa turística a las empresas y actividades incluidas en el ámbito de la presente Ley.
+d) La comprobación y seguimiento de las actividades de fomento y de las acciones de formación dirigidas a los profesionales del sector turístico.
+e) La clausura o cierre de establecimientos en los supuestos previstos en la normativa turística en virtud de resolución adoptada por el órgano competente en materia de inspección de turismo.
+f) Todas aquellas funciones que se le puedan atribuir para el control de calidad de los servicios turísticos.
+Se modifica por el art. 3.23 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 51
+
+Artículo 51. Facultades y deberes.
+1. Los inspectores de turismo, en el ejercicio de su función, tendrán el carácter de autoridad, pudiendo recabar la colaboración de las fuerzas y cuerpos de seguridad del Estado y de las policías locales en apoyo de su actuación.
+Cuando se considere preciso para el adecuado ejercicio de la función inspectora, podrá solicitarse la cooperación de los funcionarios y autoridades de otras Administraciones Públicas o de otros Estados miembros de la Unión Europea a través del procedimiento oportunamente establecido.
+2. Los inspectores podrán acceder a los locales, establecimientos, empresas y a aquellos otros lugares sobre los que existan pruebas de que se ejerce actividad turística y requerir cuanta documentación sea precisa para el adecuado cumplimiento de su función.
+3. Los inspectores estarán dotados de la correspondiente acreditación, que exhibirán en el ejercicio de sus funciones.
+4. Los inspectores están obligados a cumplir el deber de sigilo profesional.
+Se modifica el segundo párrafo del apartado 1 por el art. 3.24 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 52
+
+Artículo 52. Actas de inspección.
+Los servicios de inspección turística actuarán a través de los siguientes medios:
+1. Documentación:
+a) Actas de inspección. Los hechos o actos constatados en la inspección serán recogidos en el acta correspondiente, especificando aquellos que puedan ser constitutivos de infracción, en cuyo caso deberán reflejar el precepto o preceptos infringidos. Podrán recoger asimismo cuantas circunstancias contribuyan a una mejor valoración por el órgano competente.
+Las actas de inspección se presumirán veraces, salvo prueba en contrario.
+b) Otros documentos. La inspección documentará el resto de actuaciones a través de informes, diligencias y comunicaciones.
+2. Citaciones:
+La inspección de turismo podrá requerir motivadamente la comparecencia de los interesados al objeto de lo que se determine en la correspondiente citación, en los términos previstos en el artículo 40 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## CAPÍTULO II
+
+De la disciplina turística
+
+### Artículo 53
+
+Artículo 53. Definición.
+La disciplina turística es la actividad que tiene por objeto la tipificación de las infracciones, la determinación de las sanciones y el establecimiento de los órganos competentes para el ejercicio de la potestad sancionadora.
+
+## Sección 1
+
+Sección 1ª. De las infracciones
+
+### Artículo 54
+
+Artículo 54. Concepto.
+Se consideran infracciones administrativas en materia de turismo las acciones u omisiones tipificadas en esta Ley.
+
+### Artículo 55
+
+Artículo 55. Sujetos responsables.
+Serán responsables de las infracciones administrativas en materia turística a título de dolo, culpa o simple inobservancia:
+a) Las personas físicas o jurídicas, titulares de empresas, establecimientos y actividades turísticas. Se consideran como tales, salvo prueba en contrario, aquellas a cuyo nombre figure la declaración responsable.
+Los mencionados titulares serán responsables de las infracciones cometidas por cualquier persona dependiente de ellos, sin perjuicio de las acciones de resarcimiento que resulten procedentes.
+b) Las personas físicas o jurídicas no contempladas en el apartado anterior, que realicen acciones u omisiones tipificadas por esta Ley.
+Se modifica la letra a) por el art. 3.25 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 56
+
+Artículo 56. Clasificación de las infracciones.
+Las infracciones administrativas en materia turística se clasifican en leves, graves y muy graves.
+
+### Artículo 57
+
+Artículo 57. Infracciones leves.
+Se consideran infracciones leves:
+a) Las deficiencias en la prestación de los servicios contratados, de conformidad con su naturaleza y con las condiciones y estipulaciones acordadas.
+b) Las deficiencias en las condiciones de funcionamiento y limpieza de los locales, instalaciones, mobiliario y enseres.
+c) La falta de distintivos, anuncios, documentación e información de exposición pública obligatoria, su exhibición sin las formalidades exigidas o cualquier forma de ocultación de los mismos.
+d) La incorrección en el trato al usuario.
+e) El incumplimiento de las disposiciones relativas a documentación, libros o registros establecidos obligatoriamente para el adecuado régimen y funcionamiento de la empresa, instalación o servicio y como garantía para la protección del usuario.
+f) La inexistencia de hojas de reclamaciones, o la negativa a entregarlas cuando se soliciten por los clientes.
+g) El incumplimiento de las normas que regulan la publicidad de los productos y servicios y sus precios.
+h) La no especificación de los conceptos o servicios contratados en los justificantes de pago a entregar al cliente.
+i) La deficiencia de información a los usuarios sobre las características o naturaleza de los servicios turísticos.
+j) El incumplimiento de las medidas de ordenación adoptadas respecto de la acampada fuera de los campamentos de turismo.
+k) La falta de comunicación, notificación o declaración a la Consejería competente en materia de turismo, de las obligaciones exigidas por la normativa turística, o su realización fuera de los plazos establecidos.
+l) El incumplimiento de los requisitos, obligaciones y prohibiciones establecidas en esta Ley y disposiciones que la desarrollen, siempre que no deba ser calificado como grave o muy grave.
+
+### Artículo 58
+
+Artículo 58. Infracciones graves.
+Se consideran infracciones graves:
+a) La alteración o modificación, en general, de las condiciones contenidas en la declaración responsable y, en particular, de los requisitos mínimos que sirven de base para la clasificación del establecimiento, o a su capacidad, en ambos casos, sin haber presentado declaración responsable a la Administración turística.
+b) La utilización de denominaciones, rótulos o distintivos diferentes a los que corresponden conforme a su clasificación.
+c) La inexistencia de instalaciones o servicios obligatorios, según la normativa turística.
+d) La falta manifiesta y generalizada de conservación y limpieza de los enseres, locales e instalaciones.
+e) La no prestación de alguno de los servicios contratados, o el incumplimiento de las condiciones de calidad, cantidad o naturaleza con que aquellos fueron pactados.
+f) El incumplimiento de las normas sobre reservas y cancelaciones de plazas o la reserva confirmada de plazas en número superior a las disponibles.
+g) La percepción de precios superiores a los notificados, publicitados o contratados, así como el incumplimiento de las disposiciones o normas vigentes en materia de precios.
+h) La no expedición o entrega al usuario turístico de los justificantes de pago por los servicios prestados, o la no entrega en el momento de la perfección del contrato de los documentos que le permitan disfrutar de los servicios contratados.
+i) Toda publicidad, descripción e información de los servicios que no corresponda a criterios de utilidad, precisión y veracidad, o pueda inducir a engaño o confusión, o que impida reconocer la verdadera naturaleza del servicio que se pretende contratar, así como el incumplimiento por parte de los prestadores de servicios turísticos, de las obligaciones de información, cuando por su repercusión sobre los derechos de los usuarios, deba considerarse grave.
+j) La obstrucción a la actuación de la inspección turística sin que llegue a impedirla y la falta de comparecencia ante los requerimientos de la inspección, en los términos previstos en el artículo 51.2 de la presente Ley.
+k) La negativa o resistencia injustificada a satisfacer el ejercicio de los derechos que las disposiciones turísticas vigentes reconocen al usuario, así como a facilitar sus demandas cuando la satisfacción de las mismas esté dentro de las posibilidades del prestador.
+l) Cualquier actuación discriminatoria por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra circunstancia personal o social.
+m) Permitir la estancia en los alojamientos turísticos por tiempo superior al establecido en la normativa turística.
+n) Realizar o consentir obras, edificaciones, instalaciones o construcciones incompatibles o prohibidas en los alojamientos turísticos.
+ñ) La negativa o resistencia a facilitar la información requerida por las autoridades competentes o sus agentes, en cumplimiento de las funciones que tengan encomendadas para la ejecución de las materias a que se refiere la presente Ley.
+o) La falta de actividad comprobada de las agencias de viajes durante tres meses consecutivos, sin causa justificada.
+p) La falta de reposición de la fianza de las agencias de viajes en los plazos previstos.
+q) El no mantenimiento de la vigencia de la póliza de seguro de las agencias de viajes.
+Se modifican las letras a) e i) y se añaden las letras o), p) y q) por el art. 3.26 y 27 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 59
+
+Artículo 59. Infracciones muy graves.
+Se consideran infracciones muy graves:
+a) La oferta, prestación de servicios y la realización de actividades, sin haber presentado la declaración responsable, exigida por la normativa turística.
+b) La negativa u obstrucción a la actuación de la inspección turística de forma que llegue a impedirla, o la aportación de información o documentos falsos a los órganos competentes en materia de turismo.
+c) El incumplimiento total, por parte de los prestadores de servicios turísticos, de las obligaciones de información contenidas en el artículo 12 de la presente Ley.
+d) La utilización de los establecimientos de alojamiento turístico como residencia permanente, o cualquier otra finalidad distinta del uso turístico.
+Se añade la letra d) por la disposición final 2.1 de la Ley 1/2014, de 25 de julio. Ref. BOE-A-2014-10706#dfsegunda.
+ Se modifica por el art. 3.28 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+## Sección 2
+
+Sección 2ª. De las sanciones
+
+### Artículo 60
+
+Artículo 60. Clases de sanciones.
+1. Las infracciones contra lo dispuesto en esta Ley y demás disposiciones en materia de turismo, darán lugar a las siguientes sanciones:
+a) Apercibimiento.
+b) Multa.
+c) Suspensión temporal de actividades o del ejercicio profesional, y cierre temporal del establecimiento, locales o instalaciones.
+d) Anulación de inscripción en el Registro de Empresas Turísticas.
+e) Clausura definitiva del establecimiento.
+2. No tendrá carácter de sanción, la clausura preventiva de los establecimientos, locales o instalaciones que no hayan presentado la preceptiva declaración responsable o la suspensión de su funcionamiento cuando concurran circunstancias graves que afecten a la seguridad de las personas o bienes, a los intereses económicos de los usuarios de servicios turísticos o a la imagen turística de la Comunidad de Madrid, durante el tiempo necesario para la subsanación de los requisitos exigidos.
+El Director General competente en materia de turismo será el órgano competente para la adopción del acuerdo a que se refiere el apartado anterior, mediante resolución motivada, previa audiencia del interesado, pudiendo acordar su publicidad por razones de interés público.
+Se añade la letra d) al apartado 1, pasando la anterior d) a ser e) por la disposición final 2.2 de la Ley 1/2014, de 25 de julio. Ref. BOE-A-2014-10706#dfsegunda.
+ Se modifica por el art. 3.29 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 61
+
+Artículo 61. Determinación de las sanciones.
+1. La determinación de las sanciones previstas en esta Ley se formulará de acuerdo con los siguientes criterios:
+a) El apercibimiento procederá en las infracciones leves, cuando del carácter de los hechos no se derive imposición de multa ni concurra reincidencia.
+b) Las multas se impondrán de acuerdo con la siguiente graduación:
+1) Infracciones leves, en cuantía de hasta 3.000 euros.
+2) Infracciones graves, en cuantía comprendida entre 3.001 y 30.000 euros.
+3) Infracciones muy graves, en cuantía comprendida entre 30.001 y 300.000 euros.
+Para la imposición de sanciones pecuniarias se atenderá al principio de que la comisión de las infracciones tipificadas no resulte más beneficiosa para el infractor que el cumplimiento de las normas infringidas.
+c) La suspensión de las actividades empresariales o profesionales, o el cierre temporal del establecimiento, locales o instalaciones, podrá imponerse como sanción principal o accesoria a la multa, de conformidad con la siguiente graduación:
+1) Suspensión o cierre por un plazo no superior a seis meses, en caso de infracciones graves.
+2) Suspensión o cierre por un plazo de hasta cinco años, en caso de infracciones muy graves.
+d) La anulación de inscripción en el Registro de Empresas Turísticas podrá imponerse en el caso de infracciones graves o muy graves.
+e) La clausura definitiva del establecimiento podrá imponerse en el caso de infracciones muy graves.
+2. De las resoluciones de suspensión o cierres de las actividades profesionales o empresariales, se dará cuenta al Ayuntamiento correspondiente y a la Delegación del Gobierno en la Comunidad de Madrid, pudiendo recabar para su ejecución la colaboración de los Agentes de la Autoridad que de ellos dependan.
+Se añade la letra d) al apartado 1, pasando la anterior d) a ser e), por la disposición final 2.3 de la Ley 1/2014, de 25 de julio. Ref. BOE-A-2014-10706#dfsegunda.
+ Se modifica por el art. 3.30 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+### Artículo 62
+
+Artículo 62. Graduación de las sanciones.
+1. La imposición de las sanciones se graduará valorando las siguientes circunstancias:
+a) La gravedad de los perjuicios ocasionados.
+b) El beneficio ilícito obtenido.
+c) La trascendencia social de la infracción.
+d) La situación de predominio en el mercado.
+e) La capacidad económica de la empresa o establecimiento.
+f) La categoría del establecimiento.
+g) La reincidencia.
+h) Las repercusiones negativas para el sector turístico y para la imagen turística de Madrid.
+i) La reparación voluntaria de los daños.
+j) La subsanación de las irregularidades o anomalías objeto de la infracción.
+2. Las infracciones tipificadas como graves o muy graves podrán ser sancionadas con la sanción inmediatamente inferior a la señalada, cuando por su entidad, trascendencia, naturaleza, ocasión o circunstancias se produjera una desproporción manifiesta entre la sanción a imponer y la infracción cometida.
+
+### Artículo 63
+
+Artículo 63. Reincidencia.
+A los efectos de la presente Ley se apreciará reincidencia cuando el responsable de las infracciones haya sido sancionado mediante resolución firme por la comisión en el término de un año de más de una infracción de la misma naturaleza.
+
+### Artículo 64
+
+Artículo 64. Publicidad de las sanciones administrativas.
+Por razones de seguridad en el tráfico mercantil y de protección de los derechos de los consumidores, la autoridad que resuelva el procedimiento podrá acordar la publicidad de las sanciones impuestas por infracciones muy graves, o que conlleven la suspensión de las actividades empresariales o profesionales, o el cierre del establecimiento, locales o instalaciones, cuando la resolución haya adquirido firmeza en vía administrativa.
+
+## Sección 3
+
+Sección 3ª. Del procedimiento
+
+### Artículo 65
+
+Artículo 65. Prescripción.
+Las infracciones y sanciones prescribirán de acuerdo con los siguientes plazos: Las muy graves, a los tres años; las graves, a los dos años, y las leves, al año.
+
+### Artículo 66
+
+Artículo 66. Instrucción de expedientes sancionadores.
+Las infracciones administrativas en materia turística serán objeto de las sanciones previstas en esta Ley, previa instrucción del oportuno expediente, sin perjuicio de las responsabilidades civiles, penales o de otro orden que puedan concurrir y de lo dispuesto en los artículos 71 y 72 de la presente Ley.
+
+### Artículo 67
+
+Artículo 67. Iniciación y tramitación de los expedientes sancionadores.
+1. Será competente para iniciar el procedimiento, el Director general de Turismo, o el órgano que reglamentariamente se determine.
+2. La tramitación de los expedientes sancionadores se realizará de acuerdo con lo previsto en las normas reguladoras del ejercicio de la potestad sancionadora de la Comunidad de Madrid.
+
+### Artículo 68
+
+Artículo 68. Órganos competentes en materia de sanciones.
+Son órganos competentes para la imposición de las sanciones a que se refiere la presente Ley:
+a) El Director general de Turismo o el órgano que se determine reglamentariamente, para la imposición de las sanciones por infracciones leves y graves.
+b) El Consejero competente por razón de la materia o el órgano que reglamentariamente se determine, para las sanciones por infracciones muy graves, con multa de hasta 15.000.000 de pesetas o que lleven aparejada la suspensión o cierre por plazo superior a seis meses o revocación.
+c) El Gobierno, para las infracciones muy graves con multa superior a 15.000.000 de pesetas o que lleven aparejada la clausura definitiva del establecimiento.
+
+### Artículo 69
+
+Artículo 69. Caducidad.
+1. Iniciado el procedimiento sancionador y transcurridos seis meses desde su notificación al interesado sin que se haya dictado resolución, se producirá su caducidad, con archivo de actuaciones.
+2. El órgano competente para acordar el inicio del procedimiento sancionador podrá conceder de forma motivada, de oficio o a instancia de parte, la ampliación de los plazos establecidos en el procedimiento cuando las circunstancias lo aconsejen y siempre que no exceda de la mitad de los mismos.
+3. La práctica de pruebas que se consideren determinantes para el esclarecimiento de los hechos y de las posibles responsabilidades interrumpirán el cómputo del plazo de caducidad.
+
+### Artículo 70
+
+Artículo 70. Medidas cautelares.
+1. Podrá adoptarse la clausura cautelar de establecimientos, locales o instalaciones que no hayan presentado declaración responsable, o la suspensión de la actividad hasta que se rectifiquen los defectos o se cumplan los requisitos exigidos.
+Las medidas cautelares se adoptarán sin perjuicio de la tramitación del oportuno procedimiento sancionador.
+2. El órgano competente para resolver el procedimiento sancionador podrá acordar la adopción de las medidas citadas mediante acuerdo motivado cuando resulten necesarias para asegurar la eficacia de la resolución que pudiera recaer, el buen funcionamiento del procedimiento, evitar el mantenimiento de los efectos de la infracción y las exigencias de los intereses generales.
+3. Cuando existan razones de urgencia inaplazables, el órgano competente para iniciar el procedimiento podrá adoptar las medidas cautelares que resulten necesarias.
+Se modifica el apartado 1 por el art. 3.31 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a3.
+
+## Sección 4
+
+Sección 4ª. Conciliaciones y subsanaciones
+
+### Artículo 71
+
+Artículo 71. Conciliaciones y subsanaciones.
+1. Previa o simultáneamente a la tramitación del expediente sancionador, se ofrecerá al presunto infractor la posibilidad de reparar los perjuicios causados, o normalizar las irregularidades administrativas en las que hubiere incurrido.
+2. La conciliación voluntaria, para la reparación de los perjuicios causados a los consumidores o usuarios, por parte de las empresas prestadoras de los servicios turísticos, sólo podrá formularse en aquellas reclamaciones en las que prime un interés particular y éste sea cuantificable.
+3. La subsanación de las irregularidades administrativas podrá formularse atendiendo a la entidad de la infracción y al perjuicio que la misma conlleve.
+4. La conciliación y la subsanación plena comportarán el archivo de las actuaciones o la atenuación de las infracciones y sanciones, atendiendo a la naturaleza y gravedad de los perjuicios causados. La subsanación parcial únicamente podrá dar lugar a la atenuación de las infracciones y sanciones.
+5. La tramitación de los procedimientos de conciliación y la subsanación interrumpirán la prescripción de las infracciones y el cómputo del plazo para resolver los procedimientos sancionadores.
+
+## TÍTULO V
+
+Del arbitraje
+
+## CAPÍTULO ÚNICO
+
+### Artículo 72
+
+Artículo 72. El arbitraje.
+El órgano competente en materia de turismo podrá establecer sistemas de arbitraje, de conformidad con la legislación vigente reguladora de esta materia, para la resolución con carácter vinculante y definitivo de los conflictos que pudieran surgir entre los prestadores de los servicios turísticos y los usuarios de los mismos, sin perjuicio de la protección administrativa y judicial, de acuerdo con lo establecido en el artículo 24 de la Constitución Española.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los expedientes en trámite iniciados antes de la entrada en vigor de la presente Ley se regirán por la normativa anterior.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En el plazo de dieciocho meses, contados a partir de la entrada en vigor de esta Ley, y una vez evaluado el grado de implantación de la misma entre los sectores afectados, la Consejería competente en materia de turismo llevará a cabo las actuaciones formativas necesarias dirigidas a los profesionales del sector turístico.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Los planes a los que se refieren los artículos 38 y 39 de esta Ley deberán ser aprobados en el plazo de dieciocho meses, contados a partir de la entrada en vigor de la misma.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Queda derogada la Ley 8/1995, de 28 marzo, de Ordenación del Turismo de la Comunidad de Madrid, así como todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno para dictar cuantas disposiciones de aplicación y desarrollo de la presente Ley sean necesarias.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se autoriza al Gobierno para que mediante Decreto actualice las cuantías de las sanciones previstas en esta Ley, teniendo en cuenta la variación de los índices de precios al consumo.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de la Comunidad de Madrid», siendo también publicada en el «Boletín Oficial del Estado».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a las Autoridades y Tribunales que corresponda, la guarden y la hagan guardar.
+Madrid, a 12 de marzo de 1999.
+ALBERTO RUIZ-GALLARDÓN,
+Presidente

@@ -1,0 +1,51 @@
+# Ley Foral 21/1994, de 9 de diciembre, por la que se regula la obligación de comunicación de determinados datos a requerimiento de las comisiones de investigación del Parlamento de Navarra.
+
+- Identificador BOE: `BOE-A-1995-3404`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-3404
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral por la que se regula la obligación de comunicación de determinados datos a requerimiento de las Comisiones de Investigación del Parlamento de Navarra.
+La normativa fiscal establece que los datos con trascendencia tributaria facilitados por terceros sólo podrán utilizarse para fines tributarios, obligando al más estricto y completo sigilo para las autoridades y funcionarios que tuviesen conocimiento de los mismos. Dicha normativa no establece disposiciones similares relativas a los datos facilitados por el propio contribuyente, si bien esto no parece que pueda hacer presumir la existencia de un menor grado de protección, puesto que dichos datos son secretos ya que afectan a su intimidad.
+La Constitución Española, en su artículo 18, reconoce el derecho fundamental a la intimidad personal y familiar, derecho que se encuentra protegido en la Ley Orgánica 1/1982, de 5 de mayo, estableciendo en el número 2 de su artículo 2 que no se apreciará la existencia de intromisión ilegítima en el ámbito protegido cuando estuviese expresamente autorizada por Ley.
+La presente Ley Foral tiene como objetivo el que los datos o documentos, que obren en poder de la Hacienda Pública de Navarra para el cumplimiento de sus fines tributarios, puedan ser trasladados al Parlamento de Navarra cuando una Comisión de Investigación lo requiera respecto a determinadas personas que desempeñen o hubieran desempeñado cargos públicos, siempre que el objeto de la investigación tenga relación con su función. Por ello se establece el deber de comunicar dichos datos o documentos, tanto si los mismos proceden de los propios sujetos pasivos, como si han sido obtenidos a través de terceros, o como consecuencia de actuaciones de comprobación o investigación llevadas a cabo por la propia Administración.
+Se trata así de atender a la demanda social existente y de favorecer el mejor funcionamiento de las Instituciones y, en particular, las de carácter parlamentario, como son las Comisiones de Investigación del Parlamento de Navarra.
+
+### Artículo único
+
+Artículo único.
+Las Administraciones tributarias de la Comunidad Foral de Navarra deberán proporcionar a las Comisiones de Investigación creadas por el Parlamento de Navarra cuantas declaraciones tributarlas, datos, informes y antecedentes obren en su poder, así como la documentación en la que, en su caso, se hayan materializado actuaciones de comprobación e investigación, que le sean requeridos, siempre que concurran las condiciones siguientes:
+Primera. Que se refieran a las siguientes personas o entidades:
+Uno. Personas físicas que desempeñen o hayan desempeñado, por elección o nombramiento, alguno de los siguientes cargos:
+a) Miembros del Gobierno de Navarra.
+b) Miembros del Parlamento de Navarra.
+c) Miembros electos de las Entidades Locales de Navarra.
+d) Directores generales de los Departamentos de la Administración de la Comunidad Foral.
+e) Miembros de los Gabinetes del Presidente y Consejeros del Gobierno y del Presidente del Parlamento de Navarra.
+f) Titulares de puestos de trabajo de libre designación en los Organismos Autónomos y Entes Públicos de derecho privado dependientes de la Administración de la Comunidad Foral de Navarra, salvo aquellos que necesariamente deban proveerse entre funcionarios.
+g) Titulares de puestos de trabajo de libre designación en las Entidades Locales de Navarra y en los Organismos Autónomos y Entes Públicos de derecho privado dependientes de las mismas, salvo aquellos que necesariamente deban proveerse entre funcionarios.
+h) Presidentes, Directores Ejecutivos o equivalentes de las sociedades públicas de la Comunidad Foral y de las Entidades Locales de Navarra.
+Dos. Personas físicas que, en relación con las mencionadas en el apartado anterior, ostenten, o hayan ostentado en el momento temporal a que se refiere el objeto de la investigación, la condición de cónyuge, pareja estable o familiar dentro del segundo grado, por vínculos de consanguinidad o afinidad.
+Tres. Personas jurídicas en las que las personas señaladas en los apartados anteriores tuvieran, de forma directa o indirecta, una participación societaria superior al 10 por 100 o en cuya dirección, asesoramiento o administración hubieran tenido alguna participación. A los efectos de este apartado, la participación individual se añadirá a la que posea a través de otras sociedades o a través de personas que actúen en su propio nombre pero por cuenta de las señaladas en los apartados anteriores.
+Cuatro. Personas jurídicas que hayan celebrado contratos de cualquier naturaleza con el sector público de la Administración de la Comunidad Foral de Navarra o de las Entidades Locales de Navarra, o que hayan recibido subvenciones, créditos o avales provenientes de dichas Administraciones públicas.
+Segunda. Que el objeto de la investigación tenga relación con el desempeño de los mencionados cargos o con la actividad de las referidas personas jurídicas.
+La Comisión de Investigación habrá de identificar de forma inequívoca a las personas o entidades cuyos datos se solicitan, y deberá motivar su petición con expresión de las condiciones del presente artículo que habilitan la cesión de los datos.
+Tercera. Que la Comisión de Investigación entienda que sin tales datos, informes, antecedentes, y documentos no sería posible cumplir la función para la que fue creada.
+Cuarta. Que los datos, informes, antecedentes o documentos remitidos por la Administración tributarla a la Comisión de Investigación se mantengan en secreto, salvo los que formen parte de las conclusiones de la investigación.
+Se modifica por el art. 10 de la Ley Foral 25/2016, de 28 de diciembre. Ref. BOE-A-2017-2355
+
+### Disposición final
+
+Disposición final.
+La presente Ley Foral entrará en vigor el mismo día de su publicación en el «Boletín Oficial de Navarra».
+
+### [firma]
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S. M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado», y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 9 de diciembre de 1994.
+JUAN CRUZ ALLI ARANGUREN,
+Presidente

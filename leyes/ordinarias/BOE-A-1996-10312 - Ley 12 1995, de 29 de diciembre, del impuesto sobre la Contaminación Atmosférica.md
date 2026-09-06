@@ -1,0 +1,205 @@
+# Ley 12/1995, de 29 de diciembre, del impuesto sobre la Contaminación Atmosférica.
+
+- Identificador BOE: `BOE-A-1996-10312`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1996-10312
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+I. Cuando se repasa el mapa de problemas medioambientales en la comunidad gallega destaca, sobre cualquier otra característica, su concentración en los núcleos industriales del área de La Coruña y Pontevedra, hasta el punto de que, al margen de estos grandes focos de contaminación, podría decirse que la situación medioambiental de Galicia resulta bastante satisfactoria. No es extraño, pues, que sea la contaminación generada en estas dos áreas geográficas concretas la que demande la mayor atención de la política medioambiental, especialmente en lo que se refiere a los vertidos industriales en aguas continentales y marítimas, por un lado, y a las emisiones de determinados gases a la atmósfera, por otro, que constituyen las principales vías de contaminación. Por tanto, resulta indiscutible la existencia de una seria problemática en el medio ambiente gallego a causa de la emisión de gases contaminantes que provocan graves impactos en los recursos naturales de nuestro país.
+Así, desde la perspectiva de los instrumentos económicos y fiscales que nos ocupa, el problema de los vertidos ha sido abordado en la Ley 8/1993, de 23 de junio, reguladora de la administración hidráulica de Galicia, mediante la creación de un canon de saneamiento; ahora, en la presente norma, se lleva a cabo la creación de un impuesto sobre la contaminación atmosférica, que contribuirá a paliar la otra vertiente del problema de la contaminación.
+Todo ello sin perjuicio de la plena vigencia de la Ley 1/1995, de 2 de enero, de protección ambiental de Galicia, y otras normas concordantes en la materia, respecto de las cuales esta Ley se entenderá como instrumento complementario de la política medioambiental de la Comunidad Autónoma.
+II. La política medioambiental operó tradicionalmente estableciendo límites legales a la emisión de sustancias contaminantes y, en general, a la utilización de los recursos naturales, acompañados de sanciones en caso de que tales límites fuesen sobrepasados.
+Esta presentación de la política medioambiental se ha visto complementada durante los últimos años con la introducción de instrumentos fiscales —exacciones— que han permitido graduar las políticas. Así, frente a la discontinuidad que conlleva el esquema prohibición-sanción, un gravamen sobre las emisiones permite actuar continuamente a lo largo de todo el recorrido, es decir, desde el inicio de las emisiones contaminantes, y puede hacerse, además, de forma progresiva, con lo que, en un primer tramo, el gravamen operará como un instrumento de recuperación de los costes que conlleva la política medioambiental y los correspondientes controles y, más adelante, se convierte en un auténtico instrumento regulador que favorecerá la limitación de las emisiones, como sucede con una sanción. En suma, el objetivo principal de este tributo no es alcanzar un volumen determinado de recursos monetarios. El fin que se procura es conseguir que las empresas afectadas adopten, en un plazo corto, las medidas anticontaminantes precisas para disminuir sustancialmente las emisiones señaladas.
+Esta flexibilidad característica de los instrumentos fiscales es lo que ha propiciado su utilización generalizada en la política medioambiental y es igualmente la que aconseja, en nuestro caso, el establecimiento del tributo que se contiene en la presente Ley.
+III. Respondiendo a los criterios y propósitos que acaban de reseñarse, la articulación del gravamen se hace en torno al concepto de foco emisor, constituido, normalmente, por una instalación industrial emisora de las sustancias contaminantes gravadas. Esta es la referencia para la determinación de la base imponible, que, como cabría esperar, consiste en la cantidad de sustancias contaminantes emitidas. Se trata pues de un tributo con perfiles reales que aparecen reforzados con el establecimiento del registro obligatorio de los focos de emisión, registro que constituye la pieza clave para una adecuada gestión del tributo.
+Las restricciones iniciales del gravamen tienen su reflejo en la ordenación del tipo impositivo en una tarifa de carácter progresivo. El primer tramo opera con un tipo cero, dejando de esta forma al margen del gravamen todos los focos que no sean grandes emisores. A continuación, el segundo y el tercero tienen una pretensión básicamente de carácter compensatorio y por ello se ha establecido a un nivel moderado en términos comparados.
+Finalmente, el cuarto tramo, regulador de las emisiones gravadas, se deja en suspenso hasta el año 2000 con el propósito de alcanzar una implantación gradual y sin traumas del gravamen.
+La naturaleza y funciones del gravamen lo hacen proclive a su afectación y tal es el criterio de la Ley. Sin embargo, se trata de una afectación genérica al servicio de una política de protección medioambiental y de conservación de los recursos naturales de Galicia.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.2.º del Estatuto de Galicia y con el artículo 24 de la Ley 1/1983, de 23 de febrero, reguladora de la Junta y de su Presidente, promulgo en nombre del Rey, la Ley del Impuesto sobre la Contaminación Atmosférica.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Fin del tributo.
+Al objeto de contribuir a regular la utilización de los recursos naturales de Galicia, y de forma específica, la emisión de sustancias contaminantes, se crea un Impuesto sobre la Contaminación Atmosférica.
+
+### Artículo 2
+
+Artículo 2. Normativa de aplicación.
+El Impuesto sobre la Contaminación Atmosférica se regirá, además de por las disposiciones de la presente Ley, por lo establecido en las normas tributarias que sean de aplicación.
+
+### Artículo 3
+
+Artículo 3. Ámbito del tributo.
+El Impuesto sobre Contaminación Atmosférica recaerá sobre las emisiones cuyos focos se hallen ubicados dentro del ámbito territorial de la Comunidad Autónoma.
+
+### Artículo 4
+
+Artículo 4. Afectación de los ingresos.
+1. Los ingresos provenientes del Impuesto sobre la Contaminación Atmosférica, deducidos los costes de gestión, se destinarán a financiar las actuaciones de la Comunidad en materia de protección medioambiental y conservación de los recursos naturales de Galicia.
+2. Con un 5 por 100 de los ingresos obtenidos en cada ejercicio se dotará un fondo de reserva para atender a daños extraordinarios y situaciones de emergencia provocados por catástrofes medioambientales hasta alcanzar la cuantía de 1.000.000.000 de pesetas, cantidad que será repuesta a medida que sea utilizada mediante nuevas dotaciones anuales en porcentaje no superior a la citada.
+Las prestaciones del fondo tendrán el carácter de anticipo reintegrable.
+El funcionamiento y demás aspectos concretos del fondo se regularán por Decreto.
+3. Del destino de los recursos a que se refiere el apartado 1 anterior será informado el Consejo Gallego de Medio Ambiente, a los efectos de sus funciones.
+
+### Artículo 5
+
+Artículo 5. Órganos competentes.
+(Suprimido).
+Se suprime por el art. 6.1 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606.
+
+## CAPÍTULO II
+
+Elementos del Impuesto
+
+### Artículo 6
+
+Artículo 6. Hecho imponible.
+1. Constituye el hecho imponible la emisión a la atmósfera de cualquiera de las siguientes sustancias:
+a) Dióxido de azufre o cualquier otro compuesto oxigenado del azufre.
+b) Dióxido de nitrógeno o cualquier otro compuesto oxigenado del nitrógeno.
+2. Se presumirá realizado el hecho imponible en tanto las instalaciones emisoras no cesen en su actividad y tal circunstancia sea puesta en conocimiento de la Administración.
+
+### Artículo 7
+
+Artículo 7. Sujeto pasivo.
+Serán sujetos pasivos en calidad de contribuyentes las personas o entidades que sean titulares de las instalaciones o actividades que emitan las sustancias contaminantes gravadas.
+
+### Artículo 8
+
+Artículo 8. Base imponible.
+1. Constituye la base imponible la suma de las cantidades emitidas de cada una de las sustancias contaminantes por un mismo foco emisor.
+A estos efectos:
+a) Las cantidades emitidas de dióxido de azufre y de dióxido de nitrógeno se expresarán en toneladas.
+b) Las cantidades emitidas de compuestos oxigenados de azufre se expresarán en toneladas equivalentes de dióxido de azufre.
+c) Las cantidades emitidas de compuestos nitrogenados se expresarán en toneladas equivalentes de dióxido de nitrógeno.
+2. La cuantificación de la base imponible se referirá al año natural.
+
+### Artículo 9
+
+Artículo 9. Foco emisor.
+1. A los efectos de la presente Ley constituye un foco emisor el conjunto de instalaciones de cualquier naturaleza que emitan a la atmósfera sustancias contaminantes gravadas.
+2. La Administración establecerá el registro obligatorio de los focos emisores así como de sus características e incidencias.
+
+### Artículo 10
+
+Artículo 10. Determinación de la base imponible.
+1. La base imponible se determinará, para cada foco emisor:
+a) Con carácter general, por estimación directa, deducida de la declaración del sujeto pasivo y verificada por la Administración, o, en su caso, por los datos o documentos objeto de comprobación administrativa, de acuerdo con lo establecido en el artículo siguiente.
+b) Mediante estimación objetiva, en los supuestos previstos reglamentariamente, mediante métodos aceptados nacional o internacionalmente y deduciendo la cantidad de contaminantes emitida de indicadores objetivos vinculados a la actividad, al proceso de producción de que se trate y a los combustibles, materias primas y cualesquiera otros materiales empleados en el desarrollo de la actividad, o por referencia a los índices, módulos o cualesquiera otros parámetros determinados reglamentariamente. Cuando el sujeto pasivo determine la base imponible mediante estimación objetiva, el método será aplicable para todo el período impositivo, en las condiciones establecidas reglamentariamente.
+c) Por estimación indirecta, en los casos y por cualquiera de los medios señalados en la normativa tributaria general.
+2. La Administración tributaria, en sus actuaciones de comprobación e investigación, para determinar la base imponible por cualquiera de los métodos señalados en el apartado anterior, podrá emplear los datos de emisión declarados por los sujetos pasivos ante los órganos medioambientales o que consten en cualquier instrumento registral, o bien los valores de emisión determinados o verificados por los órganos medioambientales, así como cualesquiera otros datos que obren en poder de la Administración que sean necesarios.
+Se modifica por el art. 6.2 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606.
+
+### Artículo 11
+
+Artículo 11. Estimación directa de la base imponible.
+1. La estimación de la base imponible se realizará mediante procedimientos de medición que apliquen métodos normalizados o aceptados previamente por la consejería competente en materia de medio ambiente, utilizando normas CEN aplicables. Si no hubiera normas CEN disponibles, se aplicarán las normas ISO o nacionales. De no existir normas aplicables, podrán utilizarse procedimientos de acuerdo con los proyectos de normas o directrices de la industria sobre mejores prácticas. En el caso de que en un sector industrial concreto no exista ninguna metodología reconocida de estimación de emisiones o de guías o directrices de la industria de mejores prácticas, podrá estimarse la base imponible basándose en estimaciones no normalizadas, deducidas de las mejores hipótesis o de opiniones autorizadas.
+2. En aquellos supuestos en que las instalaciones estén obligadas a incorporar, en virtud de la normativa vigente, monitores para la medición en continuo de concentración de las sustancias emitidas y de caudales, el sujeto pasivo deberá determinar la base imponible mediante estos monitores, siempre y cuando sean representativas de las condiciones habituales de operación del proceso, de acuerdo con lo dispuesto reglamentariamente.
+3. En aquellos supuestos en que las instalaciones industriales incorporen dichos medidores, sin que sea obligatorio de acuerdo con la normativa vigente, el sujeto pasivo podrá determinar la base imponible mediante estos monitores, siempre y cuando sean representativas de las condiciones habituales de operación del proceso, de acuerdo con lo dispuesto reglamentariamente.
+4. La utilización de los registros en continuo de SOx y NOx para la determinación de la base imponible en régimen de estimación directa solo será posible si para ambas sustancias se verifica que la captura de datos horarios válidos de cada monitor es superior al 75 % de los correspondientes al número de horas de funcionamiento de dicha instalación en cada período de liquidación.
+5. Los monitores de medición que se utilicen para la determinación de la base imponible deberán cumplir la norma UNE-EN 14181, Aseguramiento de la calidad de los sistemas automáticos de medida, y, en el caso de que esta norma no sea obligatoria de acuerdo con la legislación, deberán cumplir lo indicado en la instrucción técnica ITC 12-Certificación de los sistemas automáticos de medida de emisiones, de la consejería competente en materia de medio ambiente, así como las actualizaciones que puedan realizarse tanto de la norma UNE-EN 14181 como de la instrucción.
+Se modifica por el art. 6.3 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606.
+
+### Artículo 12
+
+Artículo 12. Cuota tributaria.
+1. La cuota tributaria vendrá determinada por la aplicación de la siguiente tarifa impositiva por tramos de base:
+Tramos de base
+ Euros/tm
+ De 0 a 100,00 tm anuales
+ 0
+ De 100,01 a 1.000,00 tm anuales
+ 36
+ De 1.000,01 a 3.000,00 tm anuales
+ 50
+ De 3.000,01 a 7.000,00 tm anuales
+ 70
+ De 7.000,01 a 15.000,00 tm anuales
+ 95
+ De 15.000,01 a 40.000,00 tm anuales
+ 120
+ De 40.000,01 a 80.000,00 tm anuales
+ 150
+ De 80.000,01 tm anuales en adelante
+ 200
+2. La tarifa impositiva podrá ser modificada por la ley de presupuestos de cada año.
+Se modifica por el art. 59.1 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-4369.
+ Se modifica el apartado 1 por el art. 34 de la Ley 6/2002, de 27 de diciembre. Ref. BOE-A-2003-3399.
+
+### Artículo 13
+
+Artículo 13. Devengo.
+El gravamen se devenga en el momento de la emisión de cualquiera de las sustancias contaminantes gravadas.
+
+## CAPÍTULO II
+
+Gestión del tributo
+
+### Artículo 14
+
+Artículo 14. Aplicación del impuesto.
+1. A propuesta de la consejería competente en materia de hacienda, y mediante decreto, la Xunta aprobará las normas de aplicación del impuesto.
+2. El ejercicio de las funciones de aplicación y de revisión del impuesto, así como el ejercicio de la potestad sancionadora en materia tributaria, les corresponderán a los órganos o a las unidades administrativas competentes de la Administración tributaria de la consejería competente en materia de hacienda que determine su norma organizativa.
+3. Sin perjuicio de lo establecido en el apartado anterior, los órganos administrativos competentes en las materias de medio ambiente, energía e industria auxiliarán a los órganos de aplicación de este impuesto y colaborarán con ellos, en el marco de sus respectivas competencias, para la liquidación, comprobación e investigación del impuesto, mediante, entre otras actuaciones, la elaboración de informes por petición de ellos, la expedición de certificados oficiales de los datos necesarios para la liquidación del tributo y/o la cesión informática de los datos señalados.
+Se modifica por el art. 6.4 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606.
+
+### Artículo 15
+
+Artículo 15. Presentación de declaraciones y autoliquidaciones.
+1. A los efectos de aplicación del impuesto, los sujetos pasivos están obligados, en la forma y plazos que se establezcan reglamentariamente para el efecto, a presentar una declaración inicial mediante los modelos que apruebe la consejería competente en materia de hacienda, por cada uno de los focos de emisión de los que sean titulares. De la misma manera, están obligados a presentar a la Administración una modificación de la declaración inicial cuando varíen los datos declarados.
+2. Los sujetos pasivos están obligados, en la forma, lugar y plazos que se establezcan reglamentariamente para el efecto, a presentar, por cada uno de los focos de emisión de los que sean titulares, autoliquidación del impuesto, por la que determinarán la deuda tributaria correspondiente e ingresarán su importe, mediante los modelos que apruebe la consejería competente en materia de hacienda. De la misma forma, los sujetos pasivos estarán obligados a efectuar pagos a cuenta del importe de la deuda tributaria definitiva, por aplicación del tipo de gravamen sobre la base imponible provisional acumulada desde el principio del período impositivo hasta el final del plazo al que se refiera el pago, autoliquidando e ingresando su importe en la cuantía, condiciones, forma, lugar y plazos determinados en la orden de la consejería competente en materia de hacienda.
+3. La consejería competente en materia de hacienda podrá disponer que las declaraciones y autoliquidaciones se efectúen mediante los programas informáticos de ayuda que, en su caso, se aprueben. Asimismo, podrá disponer la obligación de su presentación y el pago mediante medios telemáticos.
+Se modifica por el art. 6.5 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606.
+ Se modifica por el art. 59.2 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-4369.
+
+### Artículo 16
+
+Artículo 16. Potestad sancionadora.
+La potestad sancionadora en materia tributaria se ejercerá de acuerdo con los principios reguladores en materia administrativa y las especialidades previstas en la Ley general tributaria, y serán aplicables a las disposiciones generales contenidas en ella.
+La clasificación de las infracciones y sanciones tributarias y el procedimiento sancionador tributario se regirá por lo establecido en la Ley general tributaria y en las demás disposiciones que la desarrollen y complementen.
+Se modifica por el art. 6.6 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606.
+
+### Artículo 17
+
+Artículo 17. Revisión.
+Los actos y las actuaciones de aplicación de este tributo, así como los actos de imposición de sanciones tributarias, serán revisables de acuerdo con las disposiciones contenidas en la Ley general tributaria.
+El conocimiento de las reclamaciones económico-administrativas les corresponderá en exclusividad a los órganos económico-administrativos de la Comunidad Autónoma, sin perjuicio de la vía contenciosa.
+Se modifica por el art. 6.7 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606.
+
+### Disposición adicional
+
+Disposición adicional.
+El tramo regulador previsto en el artículo 12.2 de esta Ley no se establecerá con anterioridad al año 2000. Su determinación se llevará a cabo por Ley del Parlamento de Galicia, y en ese momento se fijará el tipo de gravamen que sea de aplicación.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza a la Junta de Galicia para proceder al desarrollo reglamentario de la presente Ley dentro de los seis meses siguientes a su entrada en vigor.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día 1 de enero de 1996.
+
+### Disposición final tercera
+
+Disposición final tercera. Habilitación para la Ley de presupuestos generales de la Comunidad Autónoma de Galicia.
+La Ley de presupuestos generales de la Comunidad Autónoma podrá modificar cualquier elemento del impuesto.
+Se añade por el art. 6.8 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Habilitación normativa.
+La Xunta de Galicia dictará cuantas disposiciones sean necesarias para el desarrollo reglamentario de esta ley, y se autoriza a la consejería competente en materia de hacienda para aprobar las disposiciones que sean precisas para la aplicación de este tributo.
+Se añade por el art. 6.9 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606.
+
+Santiago de Compostela, 29 de diciembre de 1995.
+MANUEL FRAGA IRIBARNE,
+Presidente

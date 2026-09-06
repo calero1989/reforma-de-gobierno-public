@@ -1,0 +1,516 @@
+# Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas.
+
+- Identificador BOE: `BOE-A-1980-21166`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1980-21166
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+
+## CAPÍTULO PRIMERO
+
+CAPÍTULO I
+Principios generales
+
+### Artículo primero
+
+Artículo 1.
+Uno. Las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de las competencias que, de acuerdo con la Constitución, les atribuyan las Leyes y sus respectivos Estatutos.
+Dos. La financiación de las Comunidades Autónomas se regirá por la presente Ley Orgánica y por el Estatuto de cada una de dichas comunidades. En lo que a esta materia afecte se aplicarán las Leyes ordinarias, Reglamentos y demás normas jurídicas emanadas de las instituciones del Estado y de las Comunidades Autónomas.
+Tres. Lo dispuesto en esta Ley se entiende sin perjuicio de lo establecido en los Tratados o Convenios suscritos o que se suscriban en el futuro por España.
+
+### Artículo segundo
+
+Artículo 2.
+Uno. La actividad financiera de las Comunidades Autónomas se ejercerá en coordinación con la Hacienda del Estado, con arreglo a los siguientes principios:
+a) El sistema de ingresos de las Comunidades Autónomas, regulado en las normas básicas a que se refiere el artículo anterior, deberá establecerse de forma que no pueda implicar, en ningún caso, privilegios económicos o sociales ni suponer la existencia de barreras fiscales en el territorio español, de conformidad con el apartado 2 del artículo 157 de la Constitución.
+b) La garantía del equilibrio económico, a través de la política económica general, de acuerdo con lo establecido en los artículos 40.1, 131 y 138 de la Constitución, corresponde al Estado, que es el encargado de adoptar las medidas oportunas tendentes a conseguir la estabilidad económica interna y externa, la estabilidad presupuestaria y la sostenibilidad financiera, así como el desarrollo armónico entre las diversas partes del territorio español. A estos efectos, se aplicarán los principios de estabilidad presupuestaria y sostenibilidad financiera definidos en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+c) La garantía de un nivel base equivalente de financiación de los servicios públicos fundamentales, independientemente de la Comunidad Autónoma de residencia.
+d) La corresponsabilidad de las Comunidades Autónomas y el Estado en consonancia con sus competencias en materia de ingresos y gastos públicos.
+e) La solidaridad entre las diversas nacionalidades y regiones que consagran los artículos segundo y los apartados uno y dos del ciento treinta y ocho de la Constitución.
+f) La suficiencia de recursos para el ejercicio de las competencias propias de las Comunidades Autónomas.
+g) La lealtad institucional, que determinará el impacto, positivo o negativo, que puedan suponer las actuaciones legislativas del Estado y de las Comunidades Autónomas en materia tributaria o la adopción de medidas que eventualmente puedan hacer recaer sobre las Comunidades Autónomas o sobre el Estado obligaciones de gasto no previstas a la fecha de aprobación del sistema de financiación vigente, y que deberán ser objeto de valoración quinquenal en cuanto a su impacto, tanto en materia de ingresos como de gastos, por el Consejo de Política Fiscal y Financiera de las Comunidades Autónomas, y en su caso compensación, mediante modificación del Sistema de Financiación para el siguiente quinquenio.
+Dos. Cada Comunidad Autónoma está obligada a velar por su propio equilibrio territorial y por la realización interna del principio de solidaridad.
+Tres. Las Comunidades Autónomas gozarán del tratamien­to fiscal que la Ley establezca para el Estado.
+Se modifica el apartado 1.b) por el art. 1.1 de la Ley Orgánica 6/2015, de 12 de junio. Ref. BOE-A-2015-6517.
+ Se modifica el apartado 1 por el art. único.1 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+ Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
+ Se añade el apartado 1.e) por el art. 7 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
+ Se modifica el apartado 1.b) por la disposición adicional única.1 de la Ley Orgánica 5/2001, de 13 de diciembre. Ref. BOE-A-2001-23632
+
+### Artículo tercero
+
+Artículo 3.
+1. Para la adecuada coordinación entre la actividad financiera de las Comunidades Autónomas y de la Hacienda del Estado se crea por esta Ley el Consejo de Política Fiscal y Financiera de las Comunidades Autónomas, que estará constituido por el Ministro de Economía y Hacienda, el Ministro de Administraciones Públicas y el Consejero de Hacienda de cada Comunidad o Ciudad Autónoma.
+2. El Consejo de Política Fiscal y Financiera de las Comunidades Autónomas, como órgano de coordinación del Estado y las Comunidades Autónomas en materia fiscal y financiera, entenderá de las siguientes materias:
+a) La coordinación de la política presupuestaria de las Comunidades Autónomas con la del Estado.
+b) La emisión de los informes y la adopción de los acuerdos previstos en la Ley Orgánica 18/2001, Complementaria de la Ley General de Estabilidad Presupuestaria.
+c) El estudio y valoración de los criterios de distribución de los recursos del Fondo de Compensación.
+d) El estudio, la elaboración, en su caso, y la revisión de los métodos utilizados para el cálculo de los costos de los servicios transferidos a las Comunidades Autónomas.
+e) La apreciación de las razones que justifiquen, en cada caso, la percepción por parte de las Comunidades Autónomas de las asignaciones presupuestarias, así como los criterios de equidad seguidos para su afectación.
+f) La coordinación de la política de endeudamiento.
+g) La coordinación de la política de inversiones públicas.
+h) En general, todo aspecto de la actividad financiera de las Comunidades Autónomas y de la Hacienda del Estado que, dada su naturaleza, precise de una actuación coordinada.
+3. Para su adecuado funcionamiento, el Consejo de Po­lítica Fiscal y Financiera elaborará un reglamento de régimen interior, que será aprobado por mayoría absoluta de sus miembros.
+Se modifica el apartado 2 por la disposición adicional única.2 de la Ley Orgánica 5/2001, de 13 de diciembre. Ref. BOE-A-2001-23632
+ Se modifica el apartado 1 por el art. único.1 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+ Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.
+
+## CAPÍTULO II
+
+Recursos de las Comunidades Autónomas
+
+### Artículo cuarto
+
+Artículo 4.
+Uno. De conformidad con el apartado 1 del artículo 157 de la Constitución, y sin perjuicio de lo establecido en el resto del articulado, los recursos de las Comunidades Autónomas estarán constituidos por:
+a) Los ingresos procedentes de su patrimonio y demás de derecho privado.
+b) Sus propios impuestos, tasas y contribuciones especiales.
+c) Los tributos cedidos, total o parcialmente, por el Estado.
+d) La participación en el Fondo de Garantía de Servicios Públicos Fundamentales.
+e) Los recargos que pudieran establecerse sobre los tributos del Estado.
+f) Las participaciones en los ingresos del Estado a través de los fondos y mecanismos que establezcan las leyes.
+g) El producto de las operaciones de crédito.
+h) El producto de las multas y sanciones en el ámbito de su competencia.
+i) Sus propios precios públicos.
+Dos. En su caso, las Comunidades Autónomas podrán obtener igualmente ingresos procedentes de:
+a) Las asignaciones que se establezcan en los Presupuestos Generales del Estado, de acuerdo con lo dispuesto en la presente Ley.
+b) Las transferencias de los Fondos de Compensación Interterritorial, cuyos recursos tienen el carácter de carga general del Estado a los efectos previstos en los artículos 2, 138 y 158 de la Constitución.
+Se modifica el apartado 1 por el art. único.2 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+ Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
+ Se modifica el apartado 2 por el art. 4.1 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
+ Se modifica el apartado 1.d) por el art. único.2 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+ Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.
+ Se modifica el apartado 1 por el art. 1 de la Ley Orgánica 1/1989, de 13 de abril. Ref. BOE-A-1989-8507
+
+### Artículo quinto
+
+Artículo 5.
+Uno. Constituyen ingresos de Derecho privado de las Co­munidades Autónomas los rendimientos o productos de cual­quier naturaleza derivados de su patrimonio, así como las adquisiciones a título de herencia, legado o donación.
+Dos. A estos efectos se considerará patrimonio de las Co­munidades Autónomas el constituido por los bienes de su propiedad, así como por los derechos reales o personales de que sea titular, susceptibles de valoración económica, siempre que unos u otros no se hallen afectos al uso o al servicio público.
+
+### Artículo sexto
+
+Artículo 6.
+Uno. Las Comunidades Autónomas podrán establecer y exigir sus propios tributos de acuerdo con la Constitución y las Leyes.
+Dos. Los tributos que establezcan las Comunidades Autónomas no podrán recaer sobre hechos imponibles gravados por el Estado. Cuando el Estado, en el ejercicio de su potestad tributaria originaria establezca tributos sobre hechos imponibles gravados por las Comunidades Autónomas, que supongan a éstas una disminución de ingresos, instrumentará las medidas de compensación o coordinación adecuadas en favor de las mismas.
+Tres. Los tributos que establezcan las Comunidades Autónomas no podrán recaer sobre hechos imponibles gravados por los tributos locales. Las Comunidades Autónomas podrán establecer y gestionar tributos sobre las materias que la legislación de Régimen Local reserve a las Corporaciones locales. En todo caso, deberán establecerse las medidas de compensación o coordinación adecuadas a favor de aquellas Corporaciones, de modo que los ingresos de tales Corporaciones Locales no se vean mermados ni reducidos tampoco en sus posibilidades de crecimiento futuro.
+Se modifica por el art. único.3 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+ Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
+
+### Artículo séptimo
+
+Artículo 7.
+1. Las Comunidades Autónomas podrán establecer tasas por la utilización de su dominio público, así como por la prestación de servicios públicos o la realización de actividades en régimen de Derecho público de su competencia, que se refieran, afecten o beneficien de modo particular a los sujetos pasivos cuando concurra cualquiera de las circunstancias siguientes:
+a) Que no sean de solicitud voluntaria para los administrados. A estos efectos no se considerará voluntaria la solicitud por parte de los administrados:
+- Cuando venga impuesta por disposiciones legales o reglamentarias.
+- Cuando los bienes, servicios o actividades requeridos sean imprescindibles para la vida privada o social del solicitante.
+b) Que no se presten o realicen por el sector privado, esté o no establecida su reserva a favor del sector público conforme a la normativa vigente.
+2. Cuando el Estado o las Corporaciones Locales transfieran a las Comunidades Autónomas bienes de dominio público para cuya utilización estuvieran establecidas tasas o competencias en cuya ejecución o desarrollo presten servicios o realicen actividades igualmente gravadas con tasas, aquéllas y éstas se considerarán como tributos propios de las respectivas Comunidades.
+3. El rendimiento previsto para cada tasa por la prestación de servicios o realización de actividades no podrá sobrepasar el coste de dichos servicios o actividades.
+4. Para la fijación de las tarifas de las tasas podrán tenerse en cuenta criterios genéricos de capacidad económica, siempre que la naturaleza de aquélla se lo permita.
+Se modifican los apartados 1 y 2 por el art. único.3 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+ Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.
+ Se modifican los apartados 1 y 2 por el art. 2 de la Ley Orgánica 1/1989, de 13 de abril. Ref. BOE-A-1989-8507
+
+### Artículo octavo
+
+Artículo 8.
+Uno. Las Comunidades Autónomas podrán establecer contribuciones especiales por la obtención por el sujeto pasivo de un beneficio o de un aumento del valor de sus bienes como consecuencia de la realización por las mismas de obras públicas o del establecimiento o ampliación a su costa de servicios públicos.
+Dos. La recaudación por la contribución especial no podrá superar el coste de la obra o del establecimiento o ampliación del servicio soportado por la Comunidad Autónoma.
+
+### Artículo noveno
+
+Artículo 9.
+Las Comunidades Autónomas podrán establecer sus propios impuestos, respetando, además de lo establecido en el artículo sexto de esta Ley, los siguientes principios:
+a) No podrán sujetarse elementos patrimoniales situados, rendimientos originados ni gastos realizados fuera del territorio de la respectiva Comunidad Autónoma.
+b) No podrán gravarse, como tales, negocios, actos o hechos celebrados o realizados fuera del territorio de la comunidad impositora, ni la transmisión o ejercicio de bienes, derechos y obligaciones que no hayan nacido ni hubieran de cumplirse en dicho territorio o cuyo adquirente no resida en el mismo.
+c) No podrán suponer obstáculo para la libre circulación de personas, mercancías y servicios capitales, ni afectar de manera efectiva a la fijación de residencia de las personas o a la ubicación de Empresas y capitales dentro del territorio español, de acuerdo con lo establecido en el artículo segundo, uno, a), ni comportar cargas trasladables a otras Comunidades.
+
+### Artículo décimo
+
+Artículo 10.
+1. Son tributos cedidos los establecidos y regulados por el Estado, cuyo producto corresponda a la Comunidad Autónoma.
+2. Se entenderá efectuada la cesión cuando haya tenido lugar en virtud de precepto expreso del Estatuto correspondiente, sin perjuicio de que el alcance y condiciones de la misma se establezcan en una Ley específica.
+3. La cesión de tributos por el Estado a que se refiere el apartado anterior podrá hacerse total o parcialmente. La cesión será total si se hubiese cedido la recaudación correspondiente a la totalidad de los hechos imponibles contemplados en el tributo de que se trate. La cesión será parcial si se hubiese cedido la de alguno o algunos de los mencionados hechos imponibles, o parte de la recaudación correspondiente a un tributo. En ambos casos, la cesión podrá comprender competencias normativas en los términos que determine la Ley que regule la cesión de tributos.
+4. Sin perjuicio de los requisitos específicos que establezca la Ley de cesión:
+a) Cuando los tributos cedidos sean de naturaleza personal, su atribución a una Comunidad Autónoma se realizará en función del domicilio fiscal de los sujetos pasivos, salvo en el gravamen de adquisiciones por causa de muerte, en el que se atenderá al del causante.
+b) Cuando los tributos cedidos graven el consumo, su atribución a las Comunidades Autónomas se llevará a cabo bien en función del lugar de consumo, bien en función del lugar en el que el vendedor realice la operación a través de establecimientos, locales o agencias, bien en función de los consumos calculados sobre una base estadística.
+c) Cuando los tributos cedidos graven operaciones inmobiliarias, su atribución a las Comunidades Autónomas se realizará en función del lugar donde radique el inmueble.
+Se modifica por el art. 1.1 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
+ Se modifican los apartados 3 y 4.a) por el art. único.4.1 y 2 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+ Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.
+
+### Artículo decimoprimero
+
+Artículo 11.
+Solo pueden ser cedidos a las Comunidades Autónomas, en las condiciones que establece la presente ley, los siguientes tributos:
+a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial con el límite máximo del 50 por ciento.
+b) Impuesto sobre el Patrimonio.
+c) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+d) Impuesto sobre Sucesiones y Donaciones.
+e) Impuesto sobre el Valor Añadido, con carácter parcial con el límite máximo del 50 por ciento.
+f) Los Impuestos Especiales de Fabricación, con carácter parcial con el límite máximo del 58 por ciento de cada uno de ellos, excepto el Impuesto sobre la Electricidad y el Impuesto sobre Hidrocarburos.
+g) El Impuesto sobre la Electricidad.
+h) El Impuesto Especial sobre Determinados Medios de Transporte.
+i) Los Tributos sobre el Juego.
+j) El Impuesto sobre Hidrocarburos, con carácter parcial con el límite máximo del 58 por ciento para el tipo estatal general y en su totalidad para el tipo estatal especial y para el tipo autonómico.
+k) El Impuesto sobre el Depósito de Residuos en vertederos, la incineración y la coincineración de residuos.
+Tengase en cuenta que esta última actualización por la disposición final 4.1 de la Ley Orgánica 9/2022, de 28 de julio. Ref. BOE-A-2022-12644#df-4, entrará en vigor el 29 de agosto de 2022, según se establece en su disposición final 11
+ Redacción anterior:
+ "Sólo pueden ser cedidos a las Comunidades Autónomas, en las condiciones que establece la presente Ley, los siguientes tributos:
+ a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial con el límite máximo del 50 por ciento.
+ b) Impuesto sobre el Patrimonio.
+ c) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+ d) Impuesto sobre Sucesiones y Donaciones.
+ e) Impuesto sobre el Valor Añadido, con carácter parcial con el límite máximo del 50 por ciento.
+ f) Los Impuestos Especiales de Fabricación, con carácter parcial con el límite máximo del 58 por ciento de cada uno de ellos, excepto el Impuesto sobre la Electricidad y el Impuesto sobre Hidrocarburos.
+ g) El Impuesto sobre la Electricidad.
+ h) El Impuesto Especial sobre Determinados Medios de Transporte.
+ i) Los Tributos sobre el Juego.
+ j) El Impuesto sobre Hidrocarburos, con carácter parcial con el límite máximo del 58 por ciento para el tipo estatal general y en su totalidad para el tipo estatal especial y para el tipo autonómico."
+Se modifica, con efectos de 29 de agosto de 2022, por la disposición final 4.1 de la Ley Orgánica 9/2022, de 28 de julio. Ref. BOE-A-2022-12644#df-4
+ Se modifican las letras f) y j) por la disposición final 4.1 y 2 de la Ley Orgánica 2/2012 de 27 de abril. Ref. BOE-A-2012-5730.
+ Se modifica por el art. único.4 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+ Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
+ Se modifica por el art. 1.2 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
+ Se modifica por el art. único.5 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+ Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.
+
+### Artículo decimosegundo
+
+Artículo 12.
+1. Las Comunidades Autónomas podrán establecer recargos sobre los tributos del Estado susceptibles de cesión, excepto en el Impuesto sobre Hidrocarburos. En el resto de Impuestos Especiales y en el Impuesto sobre el Valor Añadido únicamente podrán establecer recargos cuando tengan competencias normativas en materia de tipos de gravamen.
+Atención: el apartado 1 entra en vigor el 1-1-2013.
+2. Los recargos previstos en el apartado anterior no podrán configurarse de forma que puedan suponer una minoración en los ingresos del Estado por dichos impuestos, ni desvirtuar la naturaleza o estructura de los mismos.
+Se modifica el apartado 1 por la disposición final 4.3 de la Ley Orgánica 2/2012, de 27 de abril. Ref. BOE-A-2012-5730.
+ Se modifica por el art. 1.3 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
+ Se modifica el apartado 1 por el art. único.6 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+ Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.
+
+### Artículo decimotercero
+
+Artículo 13.
+Uno. Las Comunidades Autónomas y Ciudades con Estatuto de Autonomía participarán, a través de su Fondo de Suficiencia Global, en los ingresos del Estado.
+Dos. El Fondo de Suficiencia Global cubrirá la diferencia entre las necesidades de gasto de cada Comunidad Autónoma y Ciudad con Estatuto de Autonomía y la suma de su capacidad tributaria y la transferencia del Fondo de Garantía de Servicios Públicos Fundamentales.
+Tres. El valor inicial del Fondo de Suficiencia Global de cada Comunidad Autónoma y Ciudad con Estatuto de Autonomía se determinará en Comisión Mixta. Dicho valor será objeto de regularización y evolucionará de acuerdo a lo previsto en la Ley.
+Cuatro. El valor del Fondo de Suficiencia Global de cada Comunidad Autónoma y Ciudad con Estatuto de Autonomía únicamente podrá ser objeto de revisión en los siguientes supuestos:
+a) Cuando se produzca el traspaso de nuevos servicios o se amplíen o revisen valoraciones de traspasos anteriores.
+b) Cuando cobre efectividad la cesión de nuevos tributos.
+c) Cuando se den otras circunstancias, establecidas en la Ley.
+Cinco. Las Comunidades Autónomas y Ciudades con Estatuto de Autonomía podrán ser titulares de otras formas de participación en los ingresos del Estado, a través de los fondos y mecanismos establecidos en las leyes.
+Se modifica por el art. único.5 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+ Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
+ Se modifica por el art. 2 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
+
+### Artículo decimotercero bis
+
+Artículo 13 bis. Principio de prudencia financiera.
+1. Todas las operaciones financieras que suscriban las Comunidades Autónomas, de acuerdo con lo previsto en el artículo 2.1 de la Ley Orgánica 2/2012, de 27 de abril, están sujetas al principio de prudencia financiera.
+Se entiende por prudencia financiera el conjunto de condiciones que deben cumplir las operaciones financieras para minimizar su riesgo y coste.
+2. Se consideran financieras todas aquellas operaciones que tengan por objeto los instrumentos siguientes:
+a) Activos financieros. Están incluidos en este concepto los instrumentos de capital o de patrimonio neto de otras entidades, los derechos a recibir efectivo u otro activo financiero de un tercero o de intercambiar con un tercero activos o pasivos financieros en condiciones potencialmente favorables.
+b) Pasivos financieros. Están incluidas en este concepto deudas representadas en valores, operaciones de crédito, operaciones de derivados y cualquier otra obligación exigible e incondicional de entregar efectivo u otro activo financiero a un tercero o de intercambiar con un tercero activos o pasivos financieros en condiciones desfavorables.
+c) La concesión de avales, reavales u otra clase de garantías públicas o medidas de apoyo extrapresupuestario.
+3. Las condiciones que deben cumplir las operaciones financieras previstas en la letra b) del apartado anterior se establecerán por Resolución de la Secretaría General del Tesoro y Política Financiera y las de las letras a) y c) anteriores por Resolución de la Secretaría General de Coordinación Autonómica y Local.
+De la aplicación de dichas condiciones se informará periódicamente al Consejo de Política Fiscal y Financiera.
+4. Las Comunidades Autónomas velarán por la aplicación del principio de prudencia financiera en el conjunto de su sector público.
+5. Precisará de autorización del Estado la formalización de las operaciones a las que se refiere la letra c) del apartado 2 de este artículo, cuando no se ajusten a las condiciones del principio de prudencia financiera.
+Se añade por el art. 1.2 de la Ley Orgánica 6/2015, de 12 de junio. Ref. BOE-A-2015-6517.
+
+### Artículo decimocuarto
+
+Artículo 14. Endeudamiento de las Comunidades Autónomas.
+1. Las Comunidades Autónomas, de acuerdo con lo previsto en el artículo 2.1 Ley Orgánica 2/2012, de 27 de abril, sin perjuicio de lo que se establece en el apartado 4 del presente artículo, podrán realizar operaciones de crédito por plazo inferior a un año, con objeto de cubrir sus necesidades transitorias de tesorería.
+2. Asimismo, las Comunidades Autónomas podrán concertar operaciones de crédito por plazo superior a un año, cualquiera que sea la forma como se documenten, siempre que cumplan los siguientes requisitos:
+a) Que el importe total del crédito sea destinado exclusivamente a la realización de gastos de inversión.
+b) Que el importe total de las anualidades de amortización, por capital e intereses no exceda del veinticinco por ciento de los ingresos corrientes de la Comunidad Autónoma en el presupuesto del ejercicio.
+3. Para concertar operaciones de crédito en el extranjero y para la emisión de deuda o cualquier otra apelación de crédito público, las Comunidades Autónomas precisarán autorización del Estado. Para la concesión de la referida autorización, el Estado tendrá en cuenta el cumplimiento los principios de estabilidad presupuestaria y sostenibilidad financiera definidos en el artículo 2.uno.b) de la presente Ley.
+Con relación a lo que se prevé en el párrafo anterior, no se considerarán financiación exterior, a los efectos de su preceptiva autorización, las operaciones de concertación o emisión denominadas en euros que se realicen dentro del espacio territorial de los países pertenecientes a la Unión Europea.
+En todo caso, las operaciones de crédito a que se refieren los apartados uno y dos anteriores precisarán autorización del Estado cuando, de la información suministrada por las Comunidades Autónomas, se constate el incumplimiento del objetivo de estabilidad presupuestaria, de deuda pública y de la regla de gasto.
+4. Las operaciones de crédito de las Comunidades Autónomas deberán coordinarse entre sí y con la política de endeudamiento del Estado en el seno del Consejo de Política Fiscal y Financiera.
+5. La Deuda Pública de las Comunidades Autónomas y los títulos-valores de carácter equivalente emitidos por éstas estarán sujetos, en lo no establecido por la presente Ley, a las mismas normas y gozarán de los mismos beneficios y condiciones que la Deuda Pública del Estado.
+6. Las Comunidades Autónomas deberán reducir el riesgo y coste que asuman con ocasión de la concesión de avales, reavales y cualquier otra clase de garantías para afianzar operaciones de crédito de personas físicas y jurídicas, públicas o privadas.
+Se modifica por el art. 1.3 de la Ley Orgánica 6/2015, de 12 de junio. Ref. BOE-A-2015-6517.
+ Se modifica el apartado 3 por la disposición adicional única.3 de la Ley Orgánica 5/2001, de 13 de diciembre.Ref. BOE-A-2001-23632
+ Se añade el párrafo segundo al apartado 3 por el art. 1 de la Ley Orgánica 10/1998, de 17 de diciembre. Ref. BOE-A-1998-29215
+
+### Artículo decimoquinto
+
+Artículo 15.
+Uno. El Estado garantizará en todo el territorio español el nivel mínimo de los servicios públicos fundamentales de su competencia.
+A efectos de este artículo se considerarán servicios públicos fundamentales la educación, la sanidad y los servicios sociales esenciales.
+Se considerará que no se llega a cubrir el nivel de prestación de los servicios públicos al que hace referencia este apartado, cuando su cobertura se desvíe del nivel medio de los mismos en el territorio nacional.
+Dos. En cumplimiento del artículo 158.1 de la Constitución y dando satisfacción a lo dispuesto en el apartado anterior, el Fondo de Garantía de Servicios Públicos Fundamentales tendrá por objeto garantizar que cada Comunidad recibe, en los términos fijados por la Ley, los mismos recursos por habitante, ajustados en función de sus necesidades diferenciales, para financiar los servicios públicos fundamentales, garantizando la cobertura del nivel mínimo de los servicios fundamentales en todo el territorio. Participarán en la constitución del mismo las Comunidades Autónomas con un porcentaje de sus tributos cedidos, en términos normativos, y el Estado con su aportación, en los porcentajes y cuantías que marque la Ley.
+Se modifica por el art. único.6 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+ Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
+ Se modifica por el art. 3 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
+ Téngase en cuenta para su aplicación la disposición adicional 1.
+
+### Artículo decimosexto
+
+Artículo 16.
+1. De conformidad con el principio de solidaridad interterritorial al que se refiere el apartado 2 del artículo 158 de la Constitución, en los Presupuestos Generales del Estado se dotará anualmente un Fondo de Compensación, cuyos recursos tienen el carácter de carga general del Estado, tal y como se determina en el artículo 4.2.b) de esta Ley.
+El Fondo de Compensación se distribuirá por las Cortes Generales, de conformidad a lo establecido en el artículo 74.2 de la Constitución, entre Comunidades Autónomas y Ciudades con Estatuto de Autonomía.
+2. Con independencia del Fondo de Compensación establecido en el punto 1 anterior, en los Presupuestos Generales del Estado también se dotará anualmente un Fondo Complementario del anterior, cuyos recursos tendrán asimismo el carácter de carga general del Estado.
+3. El Fondo de Compensación se dotará anualmente de la siguiente forma:
+a) Con una cantidad que no podrá ser inferior al 22,5 por ciento de la base de cálculo de la inversión pública que haya sido aprobada en los Presupuestos Generales del Estado del ejercicio, tal y como se defina en la Ley reguladora de los Fondos de Compensación Interterritorial.
+b) Adicionalmente, con el 1,5 por ciento de la cantidad determinada en la letra anterior y el importe que se asigne legalmente en función de la variable "Ciudad con Estatuto de Autonomía''.
+c) Adicionalmente, con el 4,02 por ciento de la cantidad determinada en la letra a) anterior, y el importe que se asigne legalmente por la variable de "región ultraperiférica''.
+Dichas cuantías se destinarán a gastos de inversión en los territorios comparativamente menos desarrollados y se repartirán de acuerdo a los criterios establecidos en el número siguiente.
+4. El importe resultante de aplicar el apartado a) del apartado precedente se distribuirá entre Comunidades Autónomas perceptoras conforme a los siguientes criterios:
+a) La inversa de la renta por habitante.
+b) La tasa de población emigrada en los últimos diez años.
+c) El porcentaje de desempleo sobre la población activa.
+d) La superficie territorial.
+e) El hecho insular, en relación con la lejanía del territorio peninsular.
+f) Otros criterios que se estimen pertinentes.
+La ponderación de los criterios anteriores y de los índices de distribución se establecerá por Ley y será revisable cada cinco años.
+El importe total resultante de aplicar el apartado b) del apartado precedente se distribuirá por partes iguales entre las Ciudades con Estatuto de Autonomía propio, en consideración a la especificidad de su condición fronteriza.
+5. El Fondo Complementario se dotará anualmente para cada Comunidad Autónoma y Ciudad con Estatuto de Autonomía propio, con una cantidad equivalente al 33,33 por ciento de su respectivo Fondo de Compensación.
+Dicha cuantía se destinará a gastos de inversión. No obstante, a solicitud de los territorios beneficiarios del mismo, podrá destinarse a financiar, durante el período que determine la Ley, gastos de funcionamiento asociados a las inversiones financiadas con cargo al Fondo de Compensación o a este Fondo.
+6. Las transferencias de los Fondos de Compensación Interterritorial recibidas deberán destinarse a financiar proyectos de carácter local, comarcal, provincial o regional de infraestructura, obras públicas, regadíos, ordenación del territorio, vivienda y equipamiento colectivo, mejora del hábitat rural, transportes y comunicaciones y, en general, aquellas inversiones que coadyuven a disminuir las diferencias de renta y riqueza en el territorio español. No obstante lo anterior, las transferencias recibidas del Fondo Complementario podrán destinarse a financiar gastos de funcionamiento asociados a los proyectos de inversión relacionados anteriormente.
+7. El Estado, Comunidades Autónomas y Ciudades con Estatuto de Autonomía, con el fin de equilibrar y armonizar el desarrollo regional, de común acuerdo determinarán, según la distribución de competencias existentes en cada momento, los proyectos en que se materializan las inversiones realizadas con cargo a los Fondos de Compensación.
+8. Cada territorio deberá dar cuenta anualmente a las Cortes Generales del destino de los recursos recibidos con cargo al Fondo de Compensación, así como el estado de realización de los proyectos que con cargo al mismo estén en curso de ejecución.
+9. Los posibles excedentes de los Fondos en un ejercicio económico quedarán afectos a los mismos para la atención de los proyectos de ejercicios posteriores.
+10. Sin perjuicio de lo establecido en los apartados anteriores, las inversiones que efectúe directamente el Estado y el Sector Público Estatal se inspirarán en el principio de solidaridad.
+Se modifica por el art. 4.2 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
+
+## CAPÍTULO III
+
+Competencias
+
+### Artículo decimoséptimo
+
+Artículo 17.
+Las Comunidades Autónomas regularán por sus órganos competentes, de acuerdo con sus Estatutos, las siguientes materias:
+a) La elaboración, examen, aprobación y control de sus presupuestos.
+b) El establecimiento y la modificación de sus propios impuestos, tasas y contribuciones especiales, así como de sus elementos directamente determinantes de la cuantía de la deuda tributaria.
+c) El ejercicio de las competencias normativas establecidas por la Ley reguladora de la cesión de tributos.
+d) El establecimiento y la modificación de los recargos sobre los tributos del Estado.
+e) Las operaciones de crédito concertadas por la Comunidad Autónoma, sin perjuicio de lo establecido en el artículo decimocuarto de la presente Ley.
+f) El régimen jurídico del patrimonio de las Comunidades Autónomas en el marco de la legislación básica del Estado.
+g) Los Reglamentos Generales de sus propios tributos.
+h) Las demás funciones o competencias que le atribuyan las Leyes.
+Se modifica por el art. único.7 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+ Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
+
+### Artículo decimoctavo
+
+Artículo 18.
+1. El Estado y las Comunidades Autónomas podrán promover y realizar conjuntamente proyectos concretos de inversión, con la correspondiente aprobación en cada caso de las Cortes Generales y del órgano competente de la respectiva Comunidad Autónoma.
+2. Los recursos financieros que se comprometan a aportar las Comunidades Autónomas correspondientes podrán provenir total o parcialmente de las transferencias de los Fondos de Compensación Interterritorial a que tuvieran derecho, de acuerdo con lo establecido en la presente Ley.
+Se modifica el apartado 2 por el art. 4.3 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
+
+### Artículo decimonoveno
+
+Artículo 19.
+Uno. La aplicación de los tributos y la potestad sancionadora respecto a sus propios tributos corresponderá a la Comunidad Autónoma, la cual dispondrá de plenas atribuciones para la ejecución y organización de dichas tareas, sin perjuicio de la colaboración que pueda establecerse con la Administración Tributaria del Estado, especialmente cuando así lo exija la naturaleza del tributo.
+Dos. En caso de tributos cedidos, cada Comunidad Autónoma podrá asumir, en los términos que establezca la ley que regule la cesión de tributos, las siguientes competencias normativas:
+a) En el Impuesto sobre la Renta de las Personas Físicas, la fijación de la cuantía del mínimo personal y familiar y la regulación de la tarifa y deducciones de la cuota.
+b) En el Impuesto sobre el Patrimonio, la determinación de mínimo exento y tarifa, deducciones y bonificaciones.
+c) En el Impuesto sobre Sucesiones y Donaciones, reducciones de la base imponible, tarifa, la fijación de la cuantía y coeficientes del patrimonio preexistente, deducciones, bonificaciones, así como la regulación de la gestión.
+d) En el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, en la modalidad "Transmisiones Patrimoniales Onerosas", la regulación del tipo de gravamen en arrendamientos, en las concesiones administrativas, en la transmisión de bienes muebles e inmuebles y en la constitución y cesión de derechos reales que recaigan sobre los mismos, excepto los derechos reales de garantía; y en la modalidad "Actos Jurídicos Documentados", el tipo de gravamen de los documentos notariales. Asimismo, podrán regular deducciones de la cuota, bonificaciones, así como la regulación de la gestión del tributo.
+e) En los Tributos sobre el Juego, la determinación de exenciones, base imponible, tipos de gravamen, cuotas fijas, bonificaciones y devengo, así como la regulación de la aplicación de los tributos.
+f) En el Impuesto Especial sobre Determinados Medios de Transporte, la regulación de los tipos impositivos.
+g) En el Impuesto sobre Hidrocarburos, la regulación del tipo impositivo autonómico.
+h) En el Impuesto sobre el Depósito de Residuos en vertederos, la incineración y la coincineración de residuos, la regulación de los tipos impositivos y de la gestión del tributo.
+En el ejercicio de las competencias normativas a que se refiere el párrafo anterior, las Comunidades Autónomas observarán el principio de solidaridad entre todos los españoles, conforme a lo establecido al respecto en la Constitución; no adoptarán medidas que discriminen por razón del lugar de ubicación de los bienes, de procedencia de las rentas, de realización del gasto, de la prestación de los servicios o de celebración de los negocios, actos o hechos; y mantendrán una presión fiscal efectiva global equivalente a la del resto del territorio nacional.
+Asimismo, en caso de tributos cedidos, cada Comunidad Autónoma podrá asumir por delegación del Estado la aplicación de los tributos, la potestad sancionadora y la revisión, en su caso, de los mismos, sin perjuicio de la colaboración que pueda establecerse entre ambas Administraciones, todo ello de acuerdo con lo especificado en la ley que fije el alcance y condiciones de la cesión.
+Lo previsto en el párrafo anterior no será de aplicación en el Impuesto sobre la Renta de las Personas Físicas, en el Impuesto sobre el Valor Añadido ni en los Impuestos Especiales de Fabricación. La aplicación de los tributos, potestad sancionadora y revisión de estos impuestos tendrá lugar según lo establecido en el apartado siguiente.
+Las competencias que se atribuyan a las Comunidades Autónomas en relación con los tributos cedidos pasarán a ser ejercidas por el Estado cuando resulte necesario para dar cumplimiento a la normativa sobre armonización fiscal de la Unión Europea.
+Tengase en cuenta que esta última actualización del apartado 2 por la disposición final 4.2 de la Ley Orgánica 9/2022, de 28 de julio. Ref. BOE-A-2022-12644#df-4, entrará en vigor el 29 de agosto de 2022, según se establece en su disposición final 11
+ Redacción anterior:
+ "Dos. En caso de tributos cedidos, cada Comunidad Autónoma podrá asumir, en los términos que establezca la Ley que regule la cesión de tributos, las siguientes competencias normativas:
+ a) En el Impuesto sobre la Renta de las Personas Físicas, la fijación de la cuantía del mínimo personal y familiar y la regulación de la tarifa y deducciones de la cuota.
+ b) En el Impuesto sobre el Patrimonio, la determinación de mínimo exento y tarifa, deducciones y bonificaciones.
+ c) En el Impuesto sobre Sucesiones y Donaciones, reducciones de la base imponible, tarifa, la fijación de la cuantía y coeficientes del patrimonio preexistente, deducciones, bonificaciones, así como la regulación de la gestión.
+ d) En el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, en la modalidad «Transmisiones Patrimoniales Onerosas», la regulación del tipo de gravamen en arrendamientos, en las concesiones administrativas, en la transmisión de bienes muebles e inmuebles y en la constitución y cesión de derechos reales que recaigan sobre los mismos, excepto los derechos reales de garantía; y en la modalidad «Actos Jurídicos Documentados», el tipo de gravamen de los documentos notariales. Asimismo, podrán regular deducciones de la cuota, bonificaciones, así como la regulación de la gestión del tributo.
+ e) En los Tributos sobre el Juego, la determinación de exenciones, base imponible, tipos de gravamen, cuotas fijas, bonificaciones y devengo, así como la regulación de la aplicación de los tributos.
+ f) En el Impuesto Especial sobre Determinados Medios de Transporte, la regulación de los tipos impositivos.
+ g) En el Impuesto sobre Hidrocarburos, la regulación del tipo impositivo autonómico.
+ En el ejercicio de las competencias normativas a que se refiere el párrafo anterior, las Comunidades Autónomas observarán el principio de solidaridad entre todos los españoles, conforme a lo establecido al respecto en la Constitución; no adoptarán medidas que discriminen por razón del lugar de ubicación de los bienes, de procedencia de las rentas, de realización del gasto, de la prestación de los servicios o de celebración de los negocios, actos o hechos; y mantendrán una presión fiscal efectiva global equivalente a la del resto del territorio nacional.
+ Asimismo, en caso de tributos cedidos, cada Comunidad Autónoma podrá asumir por delegación del Estado la aplicación de los tributos, la potestad sancionadora y la revisión, en su caso, de los mismos, sin perjuicio de la colaboración que pueda establecerse entre ambas Administraciones, todo ello de acuerdo con lo especificado en la Ley que fije el alcance y condiciones de la cesión.
+ Lo previsto en el párrafo anterior no será de aplicación en el Impuesto sobre la Renta de las Personas Físicas, en el Impuesto sobre el Valor Añadido, ni en los Impuestos Especiales de Fabricación. La aplicación de los tributos, potestad sancionadora y revisión de estos impuestos tendrá lugar según lo establecido en el apartado siguiente.
+ Las competencias que se atribuyan a las Comunidades Autónomas en relación con los tributos cedidos pasarán a ser ejercidas por el Estado cuando resulte necesario para dar cumplimiento a la normativa sobre armonización fiscal de la Unión Europea."
+Tres. La aplicación de los tributos, potestad sancionadora y revisión, en su caso, de los demás tributos del Estado recaudados en cada Comunidad Autónoma corresponderá a la Administración Tributaria del Estado, sin perjuicio de la delegación que aquélla pueda recibir de ésta y de la colaboración que pueda establecerse, especialmente cuando así lo exija la naturaleza del tributo.
+Se modifica, con efectos de 29 de agosto de 2022, el apartado 2, por la disposición final 4.2 de la Ley Orgánica 9/2022, de 28 de julio. Ref. BOE-A-2022-12644#df-4
+ Se modifica la letra g) por la disposición final 4.4 de la Ley Orgánica 2/2012, de 27 de abril. Ref. BOE-A-2012-5730.
+ Se modifica por el art. único.8 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+ Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
+ Se modifica por el art. 1.4 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
+ Se modifica el apartado 2 por el art. único.7 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+ Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.
+
+### Artículo vigésimo
+
+Artículo 20.
+Uno. El conocimiento de las reclamaciones interpuestas contra los actos dictados por las Comunidades Autónomas y por las Ciudades con Estatuto de Autonomía en relación con sus tributos propios corresponderá a sus propios órganos económico-administrativos.
+Dos. Cuando así se establezca en la correspondiente ley del Estado, y en relación con los tributos estatales, la competencia para el ejercicio de la función revisora en vía administrativa de los actos dictados por las Comunidades Autónomas y por las Ciudades con Estatuto de Autonomía podrá corresponder a las mismas, sin perjuicio de la colaboración que pueda establecerse con la Administración Tributaria del Estado.
+Tres. Dicha competencia podrá efectuarse en los términos establecidos por la ley en la que se fije el alcance y condiciones de la cesión de tributos por parte del Estado.
+Sin perjuicio del ejercicio de esta competencia, entre el Estado y las Comunidades Autónomas y Ciudades con Estatuto de Autonomía podrán establecerse fórmulas de colaboración específica en orden al ejercicio de la citada función revisora, cuando la naturaleza del tributo así lo aconseje, acordando los mecanismos de cooperación que sean precisos para su adecuado ejercicio.
+Cuatro. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de las competencias atribuidas en exclusiva al Estado en el artículo 149.1. 1.ª, 8.ª, 14.ª y 18.ª de la Constitución Española en relación con el establecimiento de los principios y normas jurídicas generales, sustantivas y de procedimiento, del sistema tributario español, contenidas en las disposiciones tributarias de Estado y, específicamente, en la Ley 58/2003, de 17 de diciembre, General Tributaria y su normativa de desarrollo, aplicables a y por todas las Administraciones tributarias.
+Cinco. La función unificadora de criterio en los tributos estatales corresponde a la Administración Tributaria del Estado que la ejercerá conforme a lo dispuesto en la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Se modifica por el art. único.9 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+ Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
+ Se modifica por el art. 5 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
+
+### Artículo vigésimo primero
+
+Artículo 21.
+1. Los presupuestos de las Comunidades Autónomas tendrán carácter anual e igual período que los del Estado, atenderán al cumplimiento del principio de estabilidad presupuestaria y sostenibilidad financiera e incluirán la totalidad de los gastos e ingresos de los organismos y entidades integrantes de la misma, y en ellos se consignará el importe de los beneficios fiscales que afecten a tributos atribuidos a las referidas Comunidades.
+2. Si los Presupuestos Generales de las Comunidades Autónomas no fueran aprobados antes del primer día del ejercicio económico correspondiente, quedará automáticamente prorrogada la vigencla de los anteriores.
+3. Los presupuestos de las Comunidades Autónomas serán elaborados con criterios homogéneos de forma que sea posible su consolidación con los Presupuestos Generales del Estado.
+Se modifica el apartado 1 por el art. 1.4 de la Ley Orgánica 6/2015, de 12 de junio. Ref. BOE-A-2015-6517.
+ Se modifica el apartado 1 por la disposición adicional única.4 de la Ley Orgánica 5/2001, de 13 de diciembre. Ref. BOE-A-2001-23632
+
+### Artículo vigésimo segundo
+
+Artículo 22.
+Además de los sistemas e instituciones de control que pudieran adoptar en sus respectivos Estatutos, y en su caso las que por la Ley se autorizaran en el territorio comunitario, al Tribunal de Cuentas corresponde realizar el control económico y presupuestario de la actividad financiera de las Comunidades Autónomas, sin perjuicio del control que compete al Estado en el caso de transferencias de medios financieros con arreglo al apartado dos del artículo ciento cincuenta de la Constitución.
+
+### CAPÍTULO IV
+
+CAPITULO IV
+Resolución de conflictos
+Se añade por el art. único.8 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+ Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.
+
+### Artículo vigésimo tercero
+
+Artículo 23.
+1. Los conflictos que se susciten en la aplicación de los puntos de conexión de los tributos se resolverán por una Junta Arbitral.
+2. Podrán promover el conflicto las Administraciones que consideren producido en su territorio el rendimiento del tributo de que se trate, así como aquellas que se consideren competentes en los procedimientos de gestión, inspección o recaudación respectivos, de acuerdo con los puntos de conexión aplicables.
+3. De la misma forma, podrán promover el conflicto las Administraciones que no consideren producido en su territorio el rendimiento o que no se consideren competentes en los procedimientos de gestión, inspección o recaudación cuando otra Administración sostenga, respecto de aquéllas, que sí debe considerarse producido en su territorio el rendimiento o que sí son competentes en los citados procedimientos.
+4. Las competencias de la Junta Arbitral se extenderán a la resolución de aquellos conflictos que puedan plantearse entre Administraciones sobre la titularidad del rendimiento o de las competencias de gestión, inspección o recaudación, como consecuencia de la aplicación territorial de las normas o acuerdos de cesión de tributos a las Comunidades Autónomas.
+5. Los conflictos serán resueltos por el procedimiento que reglamentariamente se establezca, en el que se dará audiencia al interesado. Dicho procedimiento, cuando ninguna de las dos cuotas líquidas objeto de conflicto supere 125.000 euros, podrá consistir en un procedimiento simplificado.
+6. Los conflictos serán resueltos por los siguientes órganos:
+a) Caso de que la controversia se produzca entre las Administraciones del Estado y de una o varias Comunidades Autónomas, o de éstas entre sí, será resuelta por la Junta Arbitral que se regula en el artículo siguiente.
+b) Si en el conflicto interviniese la Administración de otros territorios distintos de los referidos en la letra anterior, un representante de la Admi nistración del Estado será sustituido por otro designado por el Consejo Ejecutivo o Gobierno de la Comunidad Autónoma.
+7. Cuando se suscite el conflicto, las Administraciones afectadas lo notificarán a los interesados, lo que determinará la interrupción de la prescripción, y se abstendrán de cualquier actuación ulterior.
+No obstante lo anterior, cuando se hayan practicado liquidaciones definitivas por cualquiera de las Administraciones afectadas, dichas liquidaciones surtirán plenos efectos, sin perjuicio de la posibilidad de practicar la revisión de oficio prevista en la Ley General Tributaria.
+8. La Junta Arbitral resolverá conforme a derecho, de acuerdo con principios de economía, celeridad y eficacia, todas las cuestiones que ofrezca el expediente, hayan sido o no planteadas por las partes o los interesados en el conflicto, incluidas las fórmulas de ejecución.
+9. Las resoluciones de la Junta Arbitral tendrán carácter ejecutivo y serán impugnables en vía contencioso-administrativa.
+Se modifica por el art. 6.1 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
+ Se añade por el art. único.8 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+ Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.
+
+### Artículo vigésimo cuarto
+
+Artículo 24.
+1. La Junta Arbitral a que se refiere el apartado 6. a) del artículo anterior estará presidida por un jurista de reconocido prestigio, designado para un período de cinco años por el Ministro de Hacienda, a propuesta del Consejo de Política Fiscal y Financiera de las Comunidades Autónomas. Serán Vocales de esta Junta:
+a) Cuando la controversia se suscite entre el Estado y una o más Comunidades Autónomas, cuatro representantes del Estado, designados por el Ministro de Hacienda, uno de los cuales actuará como Secretario, y cuatro representantes de cada Comunidad Autónoma en conflicto, designados por el correspondiente Gobierno de éstas.
+b) Cuando la controversia se suscite entre Comunidades Autónomas, cuatro representantes del Estado y cuatro de cada Comunidad Autónoma en conflicto, designados por el correspondiente Gobierno de éstas, actuando como Secretario un representante del Estado.
+2. En todo lo referente al funcionamiento, convocatoria, reuniones y régimen de adopción de acuerdos de la Junta Arbitral se estará a lo dispuesto, en materia de órganos colegiados, en el capítulo II del Título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. En el procedimiento simplificado actuará como órgano de resolución el presidente de la Junta Arbitral.
+Se modifica por el art. 6.2 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
+ Se añade por el art. único.8 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+ Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El sistema foral tradicional de concierto económico se aplicará en la Comunidad Autónoma del País Vasco de acuerdo con lo establecido en el correspondiente Estatuto de Autonomía.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Al amparo de lo que establece la disposición adicional primera de la Constitución, la actividad financiera y tributaria de Navarra, en virtud de su régimen foral, se regulará por el sistema tradicional del Convenio Económico, y, en particular, de acuerdo con lo previsto en la Ley Orgánica 13/1982, de 10 de agosto, de reintegración y amejoramiento del régimen foral de Navarra.
+En el mismo se determinarán las aportaciones de Navarra a las cargas generales del Estado, así como los criterios de armonización de su régimen tributario con el régimen general del Estado.
+Se modifica por el art. 1.6 de la Ley Orgánica 6/2015, de 12 de junio. Ref. BOE-A-2015-6517.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Uno. El Instituto Nacional de Estadística, en coordinación con los órganos competentes de las Comunidades Autónomas, anualmente elaborará y publicará las informaciones básicas que permitan cuantificar a nivel provincial la renta por habitante, la dotación de los servicios públicos fundamentales, el grado de equipamiento colectivo y otros indicadores de riqueza y bienestar social. Asimismo elaborará estudios alternativos sobre la ponderación de los distintos criterios de distribución del Fondo de Compensación Interterritorial.
+Dos. El Ministerio de Hacienda anualmente publicará:
+– La recaudación provincial obtenida por el Impuesto sobre la Renta de las Personas Físicas.
+– La recaudación provincial obtenida por los impuestos que esta Ley Orgánica cede a las Comunidades Autónomas. En la presentación de la misma también se tomarán en cuenta los criterios de imputación establecidos.
+– La distribución provincial que presente el gasto público divisible.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+La actividad financiera y tributaria del Archipiélago Canario se regulará teniendo en cuenta su peculiar régimen económico-fiscal.
+La Comunidad Autónoma de Canarias, como consecuencia del peculiar régimen económico y fiscal en este territorio, es titular de los rendimientos derivados de este régimen, en los términos establecidos en la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, en la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias y demás legislación actualmente en vigor.
+Se modifica por el art. único.10 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+ Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
+
+### Disposición adicional quinta
+
+La actividad financiera y tributaria de las Ciudades Autónomas de Ceuta y Melilla se regulará teniendo en cuenta su peculiar régimen económico y fiscal.
+Se añade por la disposición adicional 2 de la Ley Orgánica 3/1996, de 27 de diciembre. Ref. BOE-A-1996-29016
+ Esta modificación surtirá efectos el 1 de enero de 1997, según establece la disposición final única.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Se atribuye a los órganos económico-administrativos de la Comunidad Autónoma de Canarias la competencia para conocer de las reclamaciones económico-administrativas que se susciten en materia de aplicación de los tributos y potestad sancionadora respecto del Impuesto General Indirecto Canario y del Arbitrio sobre Importación y Entrada de Mercancías en las Islas Canarias, integrantes del Régimen Económico y Fiscal de Canarias.
+Se añade por el art. único.11 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
+ Esta modificación surtirá efectos desde el 1 de enero de 2009, según establece la disposición final.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Integración del Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos en el Impuesto sobre Hidrocarburos.
+Como consecuencia de la integración del Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos en el Impuesto sobre Hidrocarburos, según el Acuerdo del Consejo de Política Fiscal y Financiera 3/2012, de 17 de enero, el tramo estatal de aquel impuesto queda sustituido por el tipo estatal especial del Impuesto sobre Hidrocarburos y el tramo autonómico del Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos queda sustituido por el tipo autonómico del Impuesto sobre Hidrocarburos.
+Todas las referencias normativas al Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos se entenderán realizadas al tipo estatal especial y al tipo autonómico del Impuesto sobre Hidrocarburos.
+Se añade por la disposición final 4.5 de la Ley Orgánica 2/2012 de 27 de abril. Ref. BOE-A-2012-5730.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Deducción o retención de los recursos del sistema de financiación de las Comunidades Autónomas y Ciudades con Estatuto de Autonomía.
+1. El Estado podrá deducir o retener de los importes satisfechos por todos los recursos del sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, las cantidades necesarias para hacer efectivas las garantías acordadas en el marco de las operaciones de crédito que se concierten por las Comunidades Autónomas y ciudades con estatuto de autonomía con el Instituto de Crédito Oficial o en aplicación de los mecanismos adicionales de financiación previstos en la Ley Orgánica de Estabilidad Presupuestaria y Sostenibilidad Financiera, siempre y cuando el mecanismo financiero aprobado por el Estado lo prevea.
+En el supuesto anterior el importe máximo deducido o retenido mensualmente no podrá exceder del 25 por ciento del líquido satisfecho por la entrega a cuenta o liquidación a favor de la Comunidad Autónoma o Ciudad con Estatuto de Autonomía.
+2. Las deudas líquidas, vencidas y exigibles contraídas con la Hacienda Pública del Estado por las Comunidades Autónomas así como por las entidades de derecho público de ellas dependientes, por razón de los tributos cuya aplicación corresponde al Estado y por razón de las cotizaciones a la Seguridad Social, igualmente podrán ser objeto de deducción o retención sobre los importes satisfechos por todos los recursos del sistema de financiación, conforme al procedimiento actualmente previsto en la disposición adicional primera de la Ley 53/2002, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, o en la norma estatal con rango de ley que lo regule.
+3. (Anulado)
+4. La deducción o retención que haga el Estado de los importes satisfechos por todos los recursos de los regímenes de financiación para satisfacer las obligaciones de pago que las Comunidades Autónomas tengan con sus proveedores, en los supuestos previstos en el artículo 20 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, y que comprenderá los costes asociados a su gestión, no podrá exceder de la diferencia entre el importe previsto en el artículo 18.4 de la mencionada Ley Orgánica y el importe que la Comunidad Autónoma haya dedicado al pago a proveedores para poder reducir su periodo medio de pago.
+5. El Estado podrá deducir o retener de los importes satisfechos por todos los recursos de los regímenes de financiación de las Comunidades Autónomas no adheridas al compartimento Fondo Social del Fondo de Financiación a Comunidades Autónomas, las cantidades necesarias para abonar las obligación es pendientes de pago por parte de las Comunidades Autónomas con las Entidades Locales derivadas de transferencias y convenios suscritos en materia de gasto social que sean vencidas, líquidas y exigibles a 31 de diciembre de 2014.
+Se declara inconstitucional y nulo el apartado 3, añadido por la disposición final 3 de la Ley Orgánica 8/2013, por Sentencia del TC 14/2018, de 20 de febrero. Ref. BOE-A-2018-4146
+ Se renumera el apartado 3.[sic] como 4 y se añade el apartado 5 por el art. 1.5 de la Ley Orgánica 6/2015, de 12 de junio. Ref. BOE-A-2015-6517.
+ Se añade un nuevo apartado 3 y se modifica la rúbrica por el art. 2 de la Ley Orgánica 9/2013, de 20 de diciembre. Ref. BOE-A-2013-13425.
+ Téngase en cuenta que la Ley Orgánica 8/2013, de 9 de diciembre, añadió también un apartado 3.
+ Se añade el apartado 3 por la disposición final 3.1 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886#dftercera.
+ Se añade por la disposición final 4.6 de la Ley Orgánica 2/2012 de 27de abril. Ref. BOE-A-2012-5730.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Uno. Hasta que se haya completado el traspaso de los servicios correspondientes, las competencias fijadas a cada Comunidad Autónoma en el correspondiente Estatuto, o en cualquier caso, hasta que se hayan cumplido los seis años desde su entrada en vigor, el Estado garantizará la financiación de los servicios transferidos a la misma con una cantidad igual al coste efectivo del servicio en el territorio de la Comunidad en el momento de la transferencia.
+Dos. Para garantizar la financiación de los servicios antes referidos, se crea una Comisión Mixta paritaria Estado-Comunidad Autónoma, que adoptará un método encaminado a fijar el porcentaje de participación previsto en el apartado uno del artículo trece. El método a seguir tendrá en cuenta tanto los costes directos como los costes indirectos de los servicios, así como los gastos de inversión que correspondan.
+Tres. La Comisión Mixta del apartado anterior fijará el citado porcentaje, mientras dure el período transitorio, con una antelación mínima de un mes a la presentación de los Presupuestos Generales del Estado en las Cortes.
+Cuatro. A partir del método fijado en el apartado segundo, se establecerá un porcentaje en el que se considerará el coste efectivo global de los servicios transferidos por el Estado a la Comunidad Autónoma, minorado por el total de la recaudación obtenida por la misma por los tributos cedidos, en relación con la suma de los ingresos obtenidos por el Estado en los capítulos I y II del último presupuesto anterior a la transferencia de los servicios valorados.
+Cinco. Las atribuciones conferidas a las Comunidades Autónomas en los apartados uno y tres del artículo dieciséis se ejercerán por los Organismos Provisionales Autonómicos, a los que se refiere la disposición transitoria séptima de la Constitución, en tanto éstos subsistan.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En tanto se aprueban los Estatutos de las distintas Comunidades Autónomas, la representación de las Comunidades en el Consejo de Política Fiscal y Financiera de las Comunidades Autónomas corresponderá a los Consejeros co­rrespondientes del respectivo – Organismo Provisional Autonó­mico.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Hasta que el Impuesto sobre el Valor Añadido no entre en vigor se considerará, como impuesto que puede ser cedido, el de lujo que se recauda en destino.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Para que la cesión del Impuesto sobre el Depósito de Residuos en vertederos, la incineración y la coincineración de residuos sea efectiva en los términos establecidos en esta ley, deberán ser adoptados los acuerdos necesarios para su configuración y aplicación plena como tributo cedido en los marcos institucionales de cooperación en materia de financiación autonómica establecidos en nuestro ordenamiento
+Se añade, con efectos de 29 de agosto de 2022, por la disposición final 4.3 de la Ley Orgánica 9/2022, de 28 de julio. Ref. BOE-A-2022-12644#df-4
+
+### Disposición final
+
+Disposición final.
+Las normas de esta Ley serán aplicables a todas las Comunidades Autónomas, debiendo interpretarse armónicamente con las normas contenidas en los respectivos Estatutos.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+Palacio Real de Madrid a veintidós de septiembre de mil novecientos ochenta.
+JUAN CARLOS R.
+El Presidente del Gobierno.
+ADOLFO SUÁREZ GONZÁLEZ

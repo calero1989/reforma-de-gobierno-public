@@ -1,0 +1,187 @@
+# Ley 4/1991, de 13 de marzo, reguladora de la Iniciativa Legislativa Popular en las Islas Baleares.
+
+- Identificador BOE: `BOE-A-1991-10602`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-10602
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTONOMA DE LAS ISLAS BALEARES
+Sea notorio a todos los ciudadanos que el Parlamento de las Islas Baleares ha aprobado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 27.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+La Constitución Española, en el artículo 9.2 y el Estatuto de Autonomía para las Islas Baleares, en el artículo 9, establecen que corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en los cuales se integra sean reales y efectivas. Y también que facilitarán la participación de todos los ciudadanos en la vida política, económica, cultural y social, reforzando así el derecho de participación en los asuntos públicos por parte de los ciudadanos tal como determina el artículo 23.1 de la Constitución.
+La Ley Orgánica 3/1984, de 26 de marzo, reguladora de la Iniciativa Legislativa Popular, crea el marco jurídico adecuado para ejercer la iniciativa legislativa popular mediante la presentación de proposiciones de Ley ante las Cortes Generales, de acuerdo con las disposiciones fijadas en el artículo 87.3 de la Constitución.
+El artículo 26.4 del Estatuto de Autonomía prevé que la iniciativa legislativa popular, en el marco de la Comunidad Autónoma de las islas Baleares, será regulada mediante una Ley del Parlamento. La presente Ley representa un paso adelante en «el proceso hacia la institucionalización del autogobierno», descrito en el preámbulo del Estatuto de Autonomía. La Ley reguladora de la Iniciativa Legislativa Popular en las islas Baleares materializa las previsiones del artículo 26.4 del Estatuto en el marco fijado por el artículo 87.3 de la Constitución y refuerza, regulando la participación popular, el enraizamiento del autogobierno en las islas Baleares.
+
+### Artículo 1
+
+Artículo 1.
+1. Están legitimadas para ejercer la iniciativa legislativa popular las personas que tienen la condición política de ciudadanos de las Illes Balears, de acuerdo con el Estatuto de Autonomía de las Illes Balears, están inscritas en el Censo Electoral y no están privadas de sus derechos políticos.
+2. También están legitimadas para ejercer la iniciativa legislativa popular, además de las personas a que hace referencia el apartado 1 anterior, las personas que no están privadas de los derechos políticos, son mayores de dieciséis años, están debidamente inscritas como domiciliadas en el padrón de algún municipio de las Illes Balears y cumplen uno de los requisitos siguientes:
+a) Tener la nacionalidad española.
+b) Ser ciudadanos de los Estados miembros de la Unión Europea.
+c) Residir legalmente en España, de acuerdo con la normativa en materia de extranjería.
+Se modifica por el art. 1 de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Artículo 2
+
+Artículo 2.
+La iniciativa legislativa popular podrá versar sobre todas las materias que sean competencia legislativa de la Comunidad Autónoma, con exclusión de las siguientes:
+1. Las instituciones de la Comunidad Autónoma, los Consejos Insulares y los municipios.
+2. La denominación, territorio, idiomas y símbolos de la Comunidad Autónoma de las Islas Baleares.
+3. Las relativas a la organización territorial establecida en el artículo 8.1 del Estatuto.
+4. Las relacionadas en el artículo 87.3 de la Constitución.
+5. Las referidas a la planificación económica general en las islas Baleares.
+6. Las de naturaleza presupuestaria y tributaria.
+7. El régimen electoral.
+8. Las iniciativas contrarias a la Declaración Universal de los Derechos Humanos o al resto de tratados y acuerdos internacionales sobre derechos humanos y fundamentales que formen parte de nuestro ordenamiento jurídico, así como aquellas que pretendan anular los derechos civiles, políticos, económicos, sociales o culturales recogidos en los instrumentos mencionados.
+Se añade el apartado 8 y se modifica el apartado 3, por el art. 2 y la disposición adicional única.a) de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Artículo 3
+
+Artículo 3.
+La iniciativa legislativa se ejercerá mediante proposiciones de ley subscritas, al menos, por 7.500 firmas de ciudadanos o ciudadanas que cumplan los requisitos previstos en el artículo 1 de esta ley.
+No obstante, también podrá ejercer la iniciativa legislativa un número inferior de ciudadanos o ciudadanas residentes en una misma isla que cumplan los requisitos del artículo 1 de esta ley, cuando este número represente, al menos, el 3% de los ciudadanos y ciudadanas residentes en dicha isla, con un mínimo de 1.200.
+Se modifica por el art. 3 de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Artículo 4
+
+Artículo 4.
+El procedimiento se iniciará mediante la presentación ante la Mesa del Parlamento de un escrito que contendrá:
+1. El texto articulado de la proposición de Ley, precedido por una exposición de motivos.
+2. Una exposición detallada de las razones que, según los firmantes aconsejan la tramitación y la aprobación por el Parlamento de las islas Baleares de la proposición de Ley.
+3. La relación de los miembros que forman la Comisión Promotora de la iniciativa popular, expresando los datos personales de cada uno de ellos y la indicación del domicilio que se señale para cursar las notificaciones y comunicaciones que deban realizarse.
+
+### Artículo 5
+
+Artículo 5.
+1. La Mesa del Parlamento examinará la documentación presentada y, en el plazo de quince días, se pronunciará sobre su admisibilidad parlamentaria.
+2. Será causa de inadmisión de la proposición de Ley:
+a) Que tenga por objeto alguna de las materias relacionadas en el artículo 2.
+b) Que carezca de alguno de los requisitos exigidos en el artículo 4. No obstante, si se tratase de un defecto subsanable, la Mesa del Parlamento lo comunicará a la Comisión Promotora para que proceda en el plazo de un mes, a la subsanación.
+c) Que incurra en contradicción con la Iegislación básica del Estado en las materias a que se deba supeditar necesariamente la Iegislación de la Comunidad Autónoma.
+d) Que, a juicio unánime de la Mesa y según contestación razonada, el contenido de la proposición presentada sea manifiestamente contradictorio con los valores superiores del ordenamiento jurídico recogidos en la Constitución o con el autogobierno, con la defensa de la identidad de las islas Baleares y con la promoción de la solidaridad de los pueblos de las islas, enunciados en el título I del Estatuto de Autonomía.
+e) Que se haya presentado previamente en el Parlamento un proyecto o proposición de Ley sobre la misma materia que es objeto de la iniciativa popular.
+f) Que reproduzca una iniciativa popular de contenido substancialmente idéntico presentada en el transcurso de la misma Iegislatura.
+g) Cuando tenga por objeto la derogación de una Ley aprobada en la misma legislatura o reproduzca una iniciativa legislativa ya tratada en este plazo.
+h) Que reproduzca un texto cuyo contenido verse sobre matcrias diversas o que carezcan de homogeneidad entre sí.
+3. La resolución adoptada por la Mesa del Parlamento será notificada, a todos los efectos, a la Comisión Promotora de la iniciativa popular y publicada en el «Boletín Oficial del Parlamento de las Islas Baleares».
+4. Si la iniciativa presentase defectos de carácter subsanable, la Mesa del Parlamento así lo hará saber a los promotores, que deberán proceder a la subsanación en el plazo de un mes.
+5. Contra el acuerdo de inadmisión dictado por la Mesa del Parlamento, la Comisión Promotora podrá solicitar el amparo ante el Tribunal Constitucional, de conformidad con lo previsto en la Ley Orgánica del Tribunal Constitucional. Si el Tribunal decidiese que la proposición no incurre en ninguna de las causas de inadmisión previstas en el apartado 2 de este artículo, el procedimiento seguirá su curso.
+Se modifica el apartado 2.b), por la disposición adicional única.b) de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Artículo 6
+
+Artículo 6.
+Una vez admitida a trámite la proposición de Ley por la Mesa del Parlamento, ésta la remitirá al Gobierno de la Comunidad Autónoma, el cual, en un plazo de quince días, podrá manifestar el criterio respecto de la toma en consideración, así como como su conformidad o no a la tramitación si implicase aumento de los créditos o disminución de los ingresos presupuestarios.
+Las iniciativas ciudadanas que se registren se harán públicas mediante los mecanismos existentes a tal efecto y serán comunicadas, con copia de la documentación recibida, al resto de instituciones o administraciones que puedan resultar afectadas.
+Se añade el segundo párrafo por el art. 4 de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Artículo 7
+
+Artículo 7.
+1. La Mesa del Parlamento en un plazo de diez días contados a partir de la fecha de la Resolución de admisión, comunicará a la Comisión Promotora la admisión a trámite de la proposición de Ley.
+2. La Comisión Promotora, una vez notificada de la admisibilidad de la proposición de Ley y de los plazos para llevar a cabo la recogida de firmas, presentará ante la Mesa del Parlamento los pliegos necesarios para la recogida de firmas, delante de los cuales figurará el texto íntegro de la proposición de Ley.
+3. La Mesa del Parlamento sellará y numerará los pliegos y los remitirá a la Comisión Promotora en el plazo de setenta y dos horas desde su presentación.
+
+### Artículo 8
+
+Artículo 8.
+1. Las firmas rccogidas deberán figurar necesariamente en los pliegos a que se refiere el artículo 7 de la presente Ley.
+2. Junto con la firma, hay que indicar el nombre y los apellidos, el número del documento nacional de identidad o el número de identificación de extranjero, y el municipio en cuyo censo está inscrita la persona firmante.
+3. Las firmas deberán ser autenticadas por un Notario, un Cónsul, un Letrado de la Administración de Justicia, el Secretario del Consejo Insular, el Secretario municipal que corresponda, respectivamente, a la isla o municipio donde figure inscrito el firmante o por fedatarios especiales designados por la Comisión Promotora mediante escritura pública ante Notario.
+4. Pueden adquirir la condición de fedatarios especiales las personas designadas por la Comisión Promotora mayores de dieciocho años que juren o prometan ante la Mesa del Parlamento autenticar las firmas que se adjuntan a la proposición de ley, siempre que cumplan los requisitos siguientes:
+a) No tener antecedentes penales.
+b) Estar en plena posesión de los derechos civiles y políticos.
+c) Estar empadronadas en las Illes Balears.
+En caso de falsedad, los fedatarios especiales incurrirán en las responsabilidades penales previstas en la ley.
+Se modifican los apartados 2 a 4 por el art. 5 y de la disposición adicional única.c) de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Artículo 9
+
+Artículo 9.
+1. El tiempo máximo de recogida de firmas será de cuatro meses a contar desde el día en que la Mesa del Parlamento haya devuelto a la Comisión Promotora los pliegos sellados. La Mesa del Parlamento puede prorrogar este plazo por dos meses si concurren causas debidamente justificadas.
+2. Los pliegos con las firmas autenticadas se entregarán a la Mesa del Parlamento, como máximo, en los siete días hábiles posteriores al vencimiento del plazo establecido. De lo contrario, la iniciativa legislativa popular caducará.
+3. Si transcurridos los plazos previstos en los apartados 1 y 2 anteriores para la recogida de firmas sin que se hayan presentado a la Mesa del Parlamento el número mínimo de firmas requerido por esta ley, la proposición de ley decaerá y no podrá volver a presentarse como iniciativa popular hasta la siguiente legislatura.
+Se modifica por el art. 6 de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Artículo 10
+
+Artículo 10.
+La Mesa del Parlamento procederá a la verificación del número de firmas válidas exigidas por la presente Ley y, cumpliéndolo ordenará la publicación de la proposición de Ley en el «Boletín Oficial del Parlamento de las Islas Baleares».
+Una vez la proposición de ley ha sido admitida a trámite y publicada en el “Butlletí Oficial del Parlament de les Illes Balears”, el debate y la votación de la toma en consideración en Pleno tendrá lugar en un tiempo máximo de tres meses, en periodo ordinario.
+Se añade el segundo párrafo por el art. 7 de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Artículo 11
+
+Artículo 11.
+1. La tramitación parlamentaria se realizará de acuerdo con lo que establecen los preceptos del Reglamento del Parlamento que regulan el procedimiento legislativo, sin perjuicio de las especificidades establecidas por la presente ley.
+2. La Mesa del Parlamento comunicará a la Comisión Promotora las fechas de inicio y de finalización del plazo para el debate de toma en consideración de la proposición de ley.
+3. Para defender la proposición de ley en el debate de toma en consideración ante el Pleno del Parlamento, la Comisión Promotora podrá designar uno de sus miembros.
+4. El debate de toma en consideración empezará con la defensa en el Pleno de la iniciativa por parte de un representante de la Comisión Promotora.
+5. Una vez tomada en consideración, el representante de la Comisión Promotora podrá comparecer en los trabajos de la ponencia, siempre que esta lo acuerde, a iniciativa propia o a solicitud de la Comisión Promotora. Este representante, si así lo solicita, comparecerá, asimismo, en la comisión parlamentaria para fijar la posición de la Comisión Promotora ante el informe de la ponencia.
+6. Dictaminada la proposición de ley en comisión, el debate en el Pleno empezará con la intervención de los promotores de la iniciativa.
+7. Los servicios del Parlamento facilitarán a la Comisión Promotora la información y la documentación que tenga relación directa con la iniciativa legislativa o con su tramitación. Asimismo, los servicios jurídicos del Parlamento asesorarán la Comisión Promotora en relación al cumplimiento de los requisitos formales durante toda la tramitación de la iniciativa legislativa. El representante de la Comisión Promotora presentará las solicitudes de información y asesoramiento ante la Mesa del Parlamento.
+8. A los efectos de lo establecido en los apartados anteriores, la Comisión Promotora designará un representante y un suplente mediante un escrito dirigido a la Mesa del Parlamento. El representante y el suplente deben ser miembros de la Comisión Promotora.
+Se modifica por el art. 8 de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Artículo 11 bis
+
+Artículo 11 bis.
+La Comisión Promotora podrá solicitar que se retire la proposición de ley durante su tramitación, en términos análogos a lo previsto en el artículo 133.2 del Reglamento del Parlamento de las Illes Balears.
+Se añade por el art. 9 de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Artículo 12
+
+Artículo 12.
+Los procedimientos de iniciativa popular regulados en la presente Ley que estén en tramitación en el Parlamento cuando éste se disuelva, no decaerán y consolidarán los trámites previos al de la toma en consideración.
+
+### Artículo 13
+
+Artículo 13.
+La comunidad autónoma compensará a la Comisión Promotora por los gastos debidamente justificados, generados por la difusión de la proposición de ley y la recogida de firmas, hasta un máximo de 3.000 euros. Esta cantidad será revisada periódicamente en los presupuestos generales de la comunidad autónoma. Las proposiciones de ley que no consigan el mínimo de firmas establecidas por la presente ley, no podrán acogerse a la mencionada compensación de gastos.
+Se modifica por el art. 10 de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Cuando se traten datos personales en ocasión de lo regulado por esta ley, los promotores de una iniciativa ciudadana y las autoridades competentes cumplirán con lo previsto en la legislación aplicable en materia de protección de datos de carácter personal, y serán considerados a efectos de esta legislación responsables del tratamiento de los datos que estén en su poder.
+2. La Comisión Promotora garantizará que todos los datos personales recogidos con relación a la iniciativa no sean utilizados con finalidades diferentes al apoyo declarado en aquella iniciativa y destruirá todas las declaraciones recibidas de apoyo a la iniciativa en el plazo máximo de un mes después de la entrega de las firmas recogidas ante la Mesa del Parlamento de las Illes Balears o después de finalizar el plazo de recogida de firmas.
+3. Sin perjuicio de los derechos de las personas derivados de la normativa de protección de datos de carácter personal, las personas interesadas tendrán el derecho de solicitar la retirada de sus datos personales del registro que se establezca al efecto, después de la expiración del periodo de dos años a partir de la fecha de registro de una iniciativa propuesta.
+Se añade por el art. 11 de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Criterios para el cómputo del plazo para la realización del debate de toma en consideración.
+1. Si el plazo a que se refiere el artículo 10 acaba entre periodos ordinarios de sesiones sin que se haya producido el debate de toma en consideración, este debate será incluido en el orden del día del primer pleno ordinario del periodo de sesiones siguiente.
+2. Si el plazo a que se refiere el artículo 10 finaliza cuando el Parlamento está disuelto, una vez constituido el nuevo Parlamento, se rehabilita automáticamente un nuevo plazo de dos meses, a contar desde el día siguiente al inicio del primer periodo ordinario de sesiones.
+Se añade por el art. 12 de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Firma electrónica.
+El Parlamento, para facilitar la firma electrónica en la presentación de la iniciativa legislativa popular, adoptará los acuerdos pertinentes para garantizar la eficacia y la seguridad de este medio telemático en el plazo de seis meses a contar desde la publicación de esta ley, atendiendo a lo establecido en la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas, en todo aquello relativo a la administración electrónica.
+Se añade por el art. 13 de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Gobierno de la Comunidad Autónoma para dictar las disposiciones reglamentarias pertinentes para el desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de la Comunidad Autónoma de las Islas Baleares».
+
+### Disposición final tercera
+
+Disposición final tercera. Firma electrónica.
+El Parlamento, para facilitar la firma electrónica en la presentación de la iniciativa legislativa popular, adoptará los acuerdos pertinentes para garantizar la eficacia y la seguridad de este medio telemático en el plazo de seis meses a contar desde la publicación de esta ley, atendiendo a lo establecido en la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas, en todo aquello relativo a la administración electrónica.
+Se añade por el art. 14 de la Ley 4/2018, de 12 de junio. Ref. BOE-A-2018-9773
+
+Por tanto, ordeno a todos los ciudadanos guarden esta Ley y que los Tribunales y las autoridades a las que corresponda la hagan guardar.
+Palma de Mallorca, 13 de marzo de 1991.
+GABRIEL CAÑELLAS FONS,
+Presidente

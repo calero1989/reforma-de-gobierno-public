@@ -1,0 +1,672 @@
+# Ley 3/1991, de 7 de marzo, de Carreteras de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1991-13213`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-13213
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOCM núm 95, de 23 de abril de 1991 y de erratas publicada en BOE núm. 151, de 25 de junio de 1991. Ref. BOE-A-1991-16278.
+
+## Preámbulo
+
+Aprobada por la Asamblea de Madrid la Ley 3/1991, de 7 de marzo, publicada en el «Boletín Oficial de la Comunidad de Madrid» número 68, de fecha 21 de marzo de 1991, se inserta a continuación el texto correspondiente.
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo:
+EXPOSICIÓN DE MOTIVOS
+En virtud del artículo 148.1, punto 5, de la Constitución Española y el artículo 26.5 del Estatuto de Autonomía, la Comunidad de Madrid ha asumido sus competencias plenas relativas a las carreteras cuyo itinerario se desarrolle íntegramente en el territorio de la Comunidad de Madrid. El Real Decreto 946/1984, de 11 de abril, lleva a la práctica la transferencia de las carreteras estatales que por este motivo pasan a depender de la Comunidad de Madrid, que a su vez se hace cargo de la antigua red de carreteras de la extinta Diputación de Madrid.
+Por otro lado, como consecuencia de la culminación del proceso de transferencias del Estado a las Autonomías en materia de carreteras se promulga la Ley Estatal 25/1988, de 29 de julio, de Carreteras y Caminos del Estado, donde éstos quedan inventariados en el «Catálogo de carreteras de la red de interés general del Estado».
+La Ley Estatal lógicamente está pensada para regular la red básica del Estado que soporta gran parte del tráfico por carretera, por lo que no puede tener en cuenta las peculiaridades de las redes autonómicas que, como la madrileña, tienen desde carreteras que pueden competir con las estatales en materia de tráfico, hasta otras locales que penetran capilarmente por todo el territorio de la Comunidad de Madrid y que llegan a tener pequeños tráficos, sin que por eso dejen de ser importantes como trabazón del territorio. Estas últimas, evidentemente, no pueden soportar las mismas servidumbres o el mismo tratamiento que las grandes vías.
+Por ello se hace necesario acometer una Ley de Carreteras de la Comunidad de Madrid que debe asumir las peculiaridades existentes en el territorio madrileño, donde, además de Madrid, capital del Estado, existe un área metropolitana con problemas de transporte especialmente complejos y donde el resto del territorio sigue padeciendo deficiencias de estructura viaria.
+Con objeto de atender a estas razones, la presente Ley establece la clasificación de las carreteras madrileñas en tres redes: Principal, Secundaria y Local.
+De este modo esta Ley se separa de la estatal en el establecimiento de las limitaciones a la propiedad, de acuerdo con la categoría de la red.
+Además, como elemento nuevo de carácter progresista se incluye un capítulo sobre plusvalías y expropiaciones que pretende dar un paso adelante en el cumplimiento del mandato constitucional que el artículo 47 expone: «La Comunidad participará en las plusvalías que genere la acción urbanística de los entes públicos.»
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+El objeto de la presente Ley, es la definición de la red viaria de la Comunidad de Madrid, así como la regulación de la planificación, proyección, construcción, conservación, financiación, uso y explotación de la misma, en el marco de su relación con la ordenación territorial, el planeamiento urbanístico y el transporte.
+
+### Artículo 2
+
+Artículo 2.
+Se consideran integrantes de la red viaria de la Comunidad de Madrid:
+a) La red de la extinta Diputación Provincial de Madrid.
+b) La transferida por la Administración Central.
+c) Aquellas carreteras que sean construidas por la Comunidad de Madrid en el ámbito de su competencia.
+d) Aquellas carreteras estatales que cambien de titularidad, en aplicación de la normativa estatal vigente en materia de carreteras.
+Se modfiica la letra d) por el art. 4.1 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 3
+
+Artículo 3.
+1. Se consideran carreteras las vías de dominio y uso público proyectadas y construidas fundamentalmente para la circulación de vehículos automóviles.
+2. Por sus características, las carreteras se clasifican en autopistas, autovías, carreteras multicarril y carreteras convencionales.
+a) Son autopistas las carreteras que están especialmente proyectadas, construidas y señalizadas como tales para la exclusiva circulación de automóviles, con las siguientes características:
+1.º No tener acceso a las mismas las propiedades colindantes.
+2.º No cruzar, ni ser cruzadas a nivel, por ninguna otra vía de comunicación o servidumbre de paso.
+3.º Constar de distintas calzadas para cada sentido de circulación, separadas entre sí, salvo en puntos singulares o con carácter temporal, por una franja de terreno no destinada a la circulación o, en casos excepcionales, por otros medios.
+b) Son autovías las carreteras que, no reuniendo todos los requisitos de las autopistas, tienen calzadas separadas para cada sentido de la circulación y limitación de accesos a y desde las propiedades colindantes, y carecen de cruces a nivel.
+c) Son carreteras multicarril las que, sin ser autopistas o autovías, tienen al menos dos carriles destinados a la circulación para cada sentido, con separación o delimitación de los mismos, pudiendo tener accesos o cruces a nivel. En el cómputo de carriles de estas carreteras no se tendrán en cuenta los carriles adicionales, los de espera, los de trenzado, ni los de cambio de velocidad.
+d) Son carreteras convencionales las que no reúnen las características propias de las autopistas, ni las de las autovías, ni las de las carreteras multicarril.
+3. Es elemento funcional de una carretera toda zona permanentemente afecta a la conservación de la misma o a la explotación del servicio público viario, tal como las destinadas a descanso, estacionamiento, auxilio y atención médica de urgencia, pesaje, parada de autobuses y otros fines auxiliares o complementarios.
+4. Son áreas de servicio las zonas colindantes con las carreteras, diseñadas expresamente para albergar instalaciones y servicios destinados a la cobertura de las necesidades de la circulación, pudiendo incluir estaciones de suministro de carburantes, hoteles, restaurantes, talleres de reparación y otros servicios análogos dirigidos a facilitar la seguridad y comodidad de los usuarios de las carreteras.
+5. En el caso de carreteras nuevas o nuevos tramos de carretera, la Comunidad de Madrid podrá establecer, como elemento funcional de las carreteras, las áreas de servicio que resulten necesarias para la seguridad y comodidad de los usuarios, asegurando la protección ambiental legalmente prevista.
+6. En los demás casos, reglamentariamente se establecerán las características funcionales que garanticen la prestación de los servicios esenciales destinados a proporcionar la mayor seguridad y comodidad a los usuarios de las carreteras.
+7. Los caminos de servicio y las vías construidas en ejecución de los planes de ordenación urbana podrán ser incorporadas al Catálogo viario, por su carácter estratégico o básico, mediante acuerdo del Consejo de Gobierno.
+8. Son caminos de servicio los construidos y explotados por entidades u organismos públicos como elementos auxiliares o complementarios de sus actividades específicas. Cuando las circunstancias de los caminos de servicio lo permitan, y lo exija el interés general, deberán abrirse al uso público, según su naturaleza y legislación específica. En este caso, habrán de observarse las normas de utilización y seguridad propias de las carreteras y se aplicará, si procede a efectos de indemnización, la legislación de expropiación forzosa.
+9. Las vías ciclistas integradas en la Red Básica de Vías Ciclistas de la Comunidad de Madrid y anexas a las carreteras autonómicas, se considerarán elementos funcionales de la misma.
+Se modfiican los apartados 2 a 9 por el art. 4.2 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 4
+
+Artículo 4.
+1. Las carreteras de la Comunidad de Madrid se clasifican en tres categorías: Red principal, red secundaria y red local.
+2. La red principal, junto con la red estatal, atiende a las siguientes funciones:
+a) Canalizar el tráfico de largo recorrido y el de tránsito a través de la Comunidad de Madrid y el área metropolitana.
+b) Asegurar la conexión entre los principales puntos básicos del territorio.
+c) Asegurar las conexiones de primer orden con los territorios limítrofes.
+3. La Red Secundaria, tiene carácter comarcal, complementando las funciones de la red principal por medio de:
+a) Canalizar el tráfico de corto recorrido por sí misma o hacia la red principal.
+b) Unir las cabeceras de comarca o puntos de cierta entidad en el territorio no unido por la red principal.
+c) Facilitar las conexiones de segundo rango con los territorios limítrofes.
+d) Configurar caminos alternativos a la red principal cuando el tráfico lo justifique.
+e) Configurar una red que asegure una cobertura total y adecuada al espacio regional.
+4. La red local se forma por exclusión, estando integrada por las vías que no forman parte de la red principal, secundaria o estatal, y debe servir de soporte a la circulación intermunicipal y a la conexión entre los núcleos no situados sobre algunas de las redes antes definidas y éstas.
+Esta red debe garantizar el acceso rodado a todos los núcleos de población en condiciones adecuadas. Servirá también de soporte a la explotación de recursos naturales, accesos a lugares de interés turístico y otros objetivos de carácter similar.
+
+### Artículo 4 bis
+
+Artículo 4 bis.
+1. Se considera Red Básica de Vías Ciclistas de la Comunidad de Madrid la integrada por todas las infraestructuras destinadas a la circulación de bicicletas que se integran en un itinerario de interés regional cuya función en el sistema de transporte afecte a más de un municipio y que hayan sido declaradas como tales.
+2. La Red Básica de Vías Ciclistas de la Comunidad de Madrid tendrá entre sus fines:
+a) Convertir la bicicleta en un medio más de transporte que participe de la movilidad cotidiana.
+b) Integrar las principales localidades de la Comunidad de Madrid.
+c) Facilitar un uso recreativo de la movilidad ciclista, permitiendo el acceso autónomo a los espacios naturales protegidos y a los lugares de mayor valor paisajístico y cultural.
+d) Fomentar y facilitar la comunicación de las redes ciclistas locales con la Red Básica de Vías Ciclistas para asegurar la continuidad del itinerario ciclista.
+3. Adicionalmente a la Red Básica de Vías Ciclistas de la Comunidad de Madrid, podrán existir otras redes ciclistas complementarias, impulsadas o promovidas por otras administraciones territoriales.
+Se añade por el art. 4.3 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 5
+
+Artículo 5.
+La red viaria de la Comunidad de Madrid será de dominio y uso público.
+
+## CAPÍTULO II
+
+Planificación, Proyectos y Construcción
+
+## Sección 1
+
+Sección 1.ª De los Planes de Carreteras de la Comunidad de Madrid
+
+### Artículo 6
+
+Artículo 6.
+1. La programación y realización de las obras de carreteras e infraestructura viaria podrá incluirse en un Plan de Carreteras, que constituirá el instrumento jurídico de la política sectorial.
+A estos efectos, el Plan deberá contener las previsiones, objetivos y prioridades de actuación en las vías integradas en las redes de la Comunidad y de las infraestructuras complementarias, en su caso.
+Una vez aprobado el Plan de Carreteras y durante la vigencia del mismo, para la construcción de nuevas carreteras o duplicaciones de calzada no previstas en el Plan, será necesaria la previa autorización del Consejo de Gobierno.
+2. Por su ámbito territorial, los planes de carreteras podrán ser generales o zonales, según afecten a todo o a una parte del territorio de la Comunidad.
+Se modifica el apartado 1 por el art. 27.1 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+
+### Artículo 7
+
+Artículo 7.
+El Plan de Carreteras incluirá las siguientes determinaciones:
+a) Fijación de los objetivos y establecimiento de prioridades entre ellos.
+b) Definición de los criterios aplicables a la programación, proyección y construcción de los elementos que componen el sistema viario.
+c) Descripción y análisis de la situación del catálogo viario en relación con el sistema general de transportes, el modelo territorial y las principales variables socioeconómicas.
+d) Criterios para la reserva de carriles o plataformas para uso exclusivo o preferente por el transporte público.
+e) Análisis de las relaciones entre la planificación viaria y el planeamiento territorial y urbanístico, así como la propuesta de medidas que aseguren la coordinación entre ambos planeamientos.
+f) Adscripción de los tramos de la Red a las distintas clases de vías y Redes definidas en esta Ley.
+g) Definición de criterios para la revisión del Plan.
+h) La planificación, programación y diseño de las obras correspondiente a la red básica de vías ciclistas de la Comunidad de Madrid, en tanto dichas vías ciclistas tengan la consideración de elemento funcional de las carreteras.
+Se añade la letra h) por el art. 4.4 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 8
+
+Artículo 8.
+1. Las determinaciones del Plan de Carreteras se desarrollarán en los siguientes documentos:
+a) Memoria y estudios complementarios.
+b) Planos de información, estudios de planeamiento y proyectos, en su caso.
+c) Normas sobre uso y defensa del dominio público viario y sobre seguridad vial.
+d) Estudio económico-financiero.
+e) Plan de actuaciones, programado al menos en un cuatrienio.
+2. El Plan de actuaciones se articulará del siguiente modo:
+a) Creación de infraestructuras.
+b) Acondicionamientos.
+c) Conservación y mantenimiento.
+d) Programas complementarios.
+
+### Artículo 9
+
+Artículo 9.
+La elaboración y aprobación del Plan de Carreteras se ajustará al siguiente procedimiento:
+1. Corresponde a la Consejería de Política Territorial la formulación de un avance del plan, en el que se recojan las previsiones, objetivos y prioridades a acometer, así como también las causas que justifiquen su elaboración, que deberá someterse al informe de las Corporaciones y Entidades públicas afectadas.
+2. La Consejería de Política Territorial procederá a aprobar el proyecto del plan que someterá a información pública, tras lo cual lo elevará al Consejo de Gobierno, junto con los informes y sugerencias remitidos, para su aprobación por Decreto.
+3. Una vez aprobado por el Consejo de Gobierno, el plan será remitido a la Asamblea de Madrid a los efectos de dar cumplimiento a lo establecido en los números 3 y 5 del artículo 14 del Estatuto de Autonomía de la Comunidad de Madrid.
+
+### Artículo 10
+
+Artículo 10.
+La aprobación de las directrices de ordenación territorial implicará la necesidad de adaptar las previsiones y criterios del Plan de Carreteras, a las determinaciones de las propias directrices, cuando éstas incluyan la formulación y ejecución de la política sectorial de carreteras, y cuando establezcan los criterios para la localización y ejecución de las infraestructuras y equipamiento del sistema de comunicaciones.
+
+### Artículo 11
+
+Artículo 11.
+1. El Plan de Carreteras tendrá carácter vinculante para las Administraciones Públicas y los particulares, que quedarán obligados al cumplimiento de las disposiciones sobre ordenación viaria.
+2. El Plan tendrá una vigencia plurianual, debiendo revisarse cuando se cumplan las circunstancias previstas en él o cuando se aprueben por el Consejo de Gobierno las Directrices de Ordenación Territorial o los Programas Coordinados de Actuación, en los términos previstos en el artículo anterior.
+3. El procedimiento de revisión de plan se adecuará a lo establecido para su aprobación, cumpliéndose los mismos trámites.
+4. Cuando por causas sobrevenidas no previstas en el plan conviniera introducir modificaciones en el mismo, éstas podrán ser incorporadas siguiendo los trámites del procedimiento de revisión del plan.
+Se modifica el apartado 2 por el art. 27.2 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+
+## Sección 2
+
+Sección 2.ª De los Instrumentos de Coordinación entre el planeamiento viario y el planeamiento territorial
+
+### Artículo 12
+
+Artículo 12.
+1. En el ámbito de aplicación de esta Ley, la Comunidad de Madrid y las Corporaciones Locales integradas en su territorio tendrán los deberes de recíproca coordinación de sus actuaciones con incidencia en el modelo y ordenación territorial, así como los de información y colaboración mutuas sobre las iniciativas y proyectos pertinentes.
+2. Las actuaciones y ejecución de obras del Estado en materia de infraestructura vial que incidan en la ordenación territorial o en el planeamiento urbanístico, se ajustarán a lo establecido en la legislación estatal vigente en materia de carreteras, y al resto del ordenamiento jurídico, garantizándose en todo caso la unidad del sistema de comunicación y los instrumentos necesarios de coordinación de ambas competencias.
+Se modifica el apartado 2 por el art. 4.5 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 13
+
+Artículo 13.
+1. El plan sectorial de carreteras prevalecerá sobre la ordenación urbanística en los aspectos relativos al sistema viario y de comunicaciones, siempre que no altere la estructura general y orgánica del territorio.
+2. La aprobación del Plan de Carreteras exigirá la revisión o modificación de los instrumentos de planeamiento urbanístico, con el fin de integrar entre las determinaciones de los planes de ordenación urbana las nuevas actuaciones y soluciones viarias contempladas en el plan sectorial.
+
+### Artículo 14
+
+Artículo 14.
+1. Los planes de carreteras no podrán contener determinaciones urbanísticas, tales como asignación de usos, zonificaciones, creación de dotaciones y reservas de suelo o indicación de alineaciones. En ningún caso podrá clasificar el suelo o establecer criterios que condicionen su uso y calificación.
+2. Sin perjuicio de lo establecido anteriormente, los terrenos destinados por el plan a infraestructuras viarias y de la comunicación, en suelo clasificado como urbano, urbanizable o apto para la urbanización, tendrán la consideración urbanística de sistemas generales.
+3. Entre las determinaciones de los planes de ordenación urbana, habrán de incluirse necesariamente los instrumentos que garanticen la conexión de las obras de urbanización de los polígonos y unidades de actuación con el sistema viario y redes de la Comunidad de Madrid.
+4. En los supuestos de travesías y tramos de carretera que discurran por suelo urbano, el señalamiento de las alineaciones de las fachadas respetará la funcionalidad de la vía de comunicación y garantizará la protección del dominio público viario. Para ello, y sin perjuicio de que el Plan General de Ordenación Urbana señale los usos y distancias en la zona de protección, la zona de dominio público será siempre incluida como sistemas generales y objeto de especial protección.
+Se modifica el apartado 4 por el art. 4.6 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 15
+
+Artículo 15.
+1. La ordenación urbanística de los tramos de carretera que discurran por suelo urbano, variantes, circunvalaciones y conexiones que permitan el acceso a los núcleos de población vendrá establecida en los Planes Generales de Ordenación Urbana o en las normas subsidiarias.
+2. No obstante, el Plan de Carreteras podrá incluir, para los tramos a los que se refiere el artículo anterior, determinaciones sobre limitaciones y prohibiciones, en las zonas de dominio público y protección, así como el régimen de autorizaciones de obras y actividades en las citadas zonas, que serán de obligatoria observancia para el planeamiento urbanístico.
+3. A tal efecto, las determinaciones del Plan de Carreteras deberán incluirse en los Planes de Ordenación Urbana.
+Se modifican los apartados 1 y 2 por el art. 4.7 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 16
+
+Artículo 16.
+1. Los tramos urbanos, incluidas las travesías, los tramos de carretera interurbanos, variantes, circunvalaciones y demás conexiones previstas en el artículo anterior, serán clasificadas en alguna de las categorías de redes definidas en esta Ley.
+2. A los efectos del apartado anterior se entiende que son:
+a) Tramos urbanos: aquellos tramos de las carreteras autonómicas que discurran por suelo clasificado como urbano consolidado por el correspondiente instrumento de planeamiento urbanístico y que estén reconocidos como tales en un estudio de delimitación de tramos urbanos aprobado por la Consejería competente en materia de carreteras, mediante expediente tramitado por su propia iniciativa o a instancia del ayuntamiento interesado.
+b) Travesías: las partes de los tramos urbanos en la que existan edificaciones consolidadas y un entramado de calles que acceden directamente a la carretera, estando acotados mediante la ubicación de las señales correspondientes de inicio y fin de poblado.
+c) Tramo de carretera interurbano: todo aquel que no esté reconocido como tramo urbano.
+3. La Consejería competente en materia de carreteras podrá redactar el Catálogo de tramos urbanos, en el que se recogerán, para la red de carreteras autonómica, los tramos urbanos y las travesías. Asimismo, se delimitará en todos los casos la zona de dominio público y la zona de protección, todo ello de acuerdo con el planeamiento urbanístico existente.
+Previamente a la aprobación del Catálogo, la Consejería competente en materia de carreteras dará audiencia a los ayuntamientos afectados a fin de que emitan informe.
+El Catálogo será aprobado por orden del consejero competente y será integrado en el Plan de Carreteras. No obstante, su revisión y actualización se realizará de manera independiente al Plan de Carreteras con una periodicidad de 8 años.
+4. El ejercicio de las competencias municipales sobre los tramos y conexiones definidos en el artículo precedente se realizará con respeto de los deberes de información y colaboración con la Comunidad de Madrid, garantizándose la coherencia y unidad del sistema de comunicación.
+Se modifica por el art. 4.8 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 17
+
+Artículo 17.
+Una vez ejecutadas las obras de construcción de una variante de población, los tramos de carreteras y las travesías urbanas a las que sustituyan aquéllas, pasarán a ser de plena titularidad del Municipio en el que se encuentren localizadas, correspondiéndole su conservación y mantenimiento, en los términos que se fijen en un acta que habrá de suscribirse entre la Comunidad de Madrid y el Municipio.
+
+## Sección 3
+
+Sección 3.ª Estudios y Proyectos
+
+### Artículo 18
+
+Artículo 18.
+1. La aprobación de los proyectos de carreteras u otras infraestructuras viarias implicará la declaración de utilidad pública y la necesidad de urgente ocupación de los bienes y adquisición de derechos correspondientes, a los fines de expropiación, de ocupación temporal o de imposición y modificación de servidumbres.
+2. La declaración de utilidad pública y la necesidad de urgente ocupación se referirá también a los bienes y derechos comprendidos en el replanteo del proyecto y en las modificaciones de obras que puedan aprobarse posteriormente.
+3. A los efectos indicados en los apartados anteriores, los proyectos de carreteras e infraestructuras viarias, y sus modificaciones, deberán comprender la definición del trazado de las mismas y la determinación de los terrenos, construcciones u otros bienes o derechos afectados que se estime preciso ocupar, o adquirir, para la construcción, defensa o servicio de aquéllas y la seguridad de la circulación.
+Se modifican los apartados 1 y 2 por el art. 18 de la Ley 5/2004, de 28 de diciembre. Ref. BOE-A-2005-2732.
+
+### Artículo 19
+
+Artículo 19.
+1. Los proyectos de autopistas, autovías y nuevas carreteras, deberán incluir un estudio de impacto ambiental y deberán ser informados preceptivamente por la Agencia de Medio Ambiente. Las modificaciones del trazado de las carreteras existentes, incluirán desde la fase de estudio previo un análisis y evaluación de los impactos ambientales previsibles.
+2. Las áreas de servicios que se soliciten sobre terrenos que sean objeto de una especial protección de acuerdo con lo dispuesto en la Ley sobre Conservación de la Naturaleza y de la Fauna y Flora Silvestres, o en el planeamiento territorial, deberán contar con la preceptiva evaluación de impacto ambiental emitida por la Agencia de Medio Ambiente de la Comunidad de Madrid.
+
+### Artículo 20
+
+Artículo 20.
+No tendrán la consideración de nueva carretera las duplicaciones de calzada, los acondicionamientos de trazado, los ensanches de plataforma, las mejoras de firme y, en general, todas aquellas otras actuaciones que no supongan una modificación sustancial en la funcionalidad de las carreteras preexistentes.
+
+### Artículo 21
+
+Artículo 21.
+1. Los estudios de nuevas carreteras se adaptarán al siguiente proceso de planeamiento:
+a) Estudio de planeamiento: consistente en la definición de un esquema vial en un determinado año horizonte, así como de sus características y dimensiones recomendables, necesidades de suelo y otras limitaciones, a la vista del planeamiento territorial y del transporte.
+b) Estudio previo: Consistente en la recopilación y análisis de los datos necesarios para definir en líneas generales las diferentes soluciones de un determinado problema, valorando todos sus efectos y jerarquizando en primera aproximación los impactos ambientales previsibles.
+c) Estudio informativo: Consistente en la definición, en líneas generales, del trazado de la carretera, a efectos de que pueda servir de base al expediente de información pública que se incoe, en su caso.
+d) Anteproyecto: Consistente en el estudio a escala adecuada y consiguiente evaluación de las mejores soluciones al problema existente, de forma que pueda plantearse la solución óptima.
+e) Proyecto de trazado: Consistente en una definición detallada de los terrenos y bienes afectados por el proyecto, así como los centros de población, producción o enlace con otros medios de transporte a los que afecte dicha vía, con la justificación técnica correspondiente en todos los casos.
+f) Proyecto de construcción: Consistente en el desarrollo completo de la solución óptima, incluyendo la preceptiva evaluación de impacto ambiental de acuerdo con la legislación medioambiental específica.
+2. Para la ejecución de otras obras de carreteras deberán utilizarse las figuras anteriores que correspondan, motivando la omisión de las figuras no empleadas.
+3. Los estudios citados constarán de los documentos que reglamentariamente se determinen.
+
+## Sección 4
+
+Sección 4.ª Construcción
+
+### Artículo 22
+
+Artículo 22.
+1. Cuando se trate de construir nuevas carreteras o variantes no incluidas en el planeamiento urbanístico vigente de los núcleos de población a los que afecten, la Consejería de Política Territorial deberá remitir el estudio informativo correspondiente a las Corporaciones Locales afectadas, al objeto de que durante el plazo de un mes examinen si el trazado propuesto es el más adecuado para el interés general y para los intereses de las entidades locales a que afecte la nueva carretera. Transcurrido dicho plazo y un mes más sin que dichas Entidades informen al respecto, se entenderá que están conformes con la propuesta formulada.
+En caso de disconformidad, que necesariamente habrá de ser motivada, el expediente será resuelto por el Consejo de Gobierno de la Comunidad que decidirá si procede ejecutar el proyecto, y en este caso ordenará la modificación o revisión del planeamiento urbanístico afectado, que deberá acomodarse a las determinaciones del proyecto en el plazo de un año desde su aprobación.
+2. Con posterioridad a la aprobación inicial de los instrumentos de planeamiento urbanístico y de ordenación territorial, estos habrán de someterse a informe de la dirección general competente en materia de carreteras. Dicho informe se solicitará una sola vez y será vinculante en lo referido a posibles afecciones en esta materia, pudiendo continuarse con la tramitación del procedimiento si no es emitido en el plazo de tres meses desde la recepción de la documentación completa, salvo que afecte al dominio público. En caso de ser desfavorable, el informe expresará motivadamente las cuestiones respecto de las cuales dicho carácter desfavorable resulta vinculante.
+Se modifica el apartado 2 por el art. 4 de la Ley 2/2026, de 11 de junio. Ref. BOE-A-2026-16360
+
+### Artículo 23
+
+Artículo 23.
+1. Las obras y trabajos de construcción, reparación, conservación o explotación de las carreteras o infraestructuras viarias y sus elementos funcionales de titularidad de la Comunidad de Madrid, incluyendo todas las actuaciones necesarias para su concepción y realización, no están sometidas, por constituir obras públicas de interés público regional, a los actos de control preventivo municipal, ni por consiguiente al abono de ningún tipo de tasas por licencia de obras, actividades o similares.
+Las actuaciones indicadas en el párrafo anterior tampoco estarán obligadas a la obtención de licencias o autorizaciones por parte de otras Administraciones, organismos o entidades públicas, excepto si dichas actuaciones no hubieran sido sometidas a informe de aquellas, cuando dicho informe fuera preceptivo o exigible en virtud de una normativa sectorial autonómica o estatal.
+2. La ejecución de obras o actuaciones en carreteras titularidad de la Comunidad de Madrid promovidas por la Consejería competente en materia de carreteras no podrá ser suspendida cautelarmente por ninguna otra Administración pública en el ejercicio de las competencias que les puedan corresponder, sin perjuicio de las competencias atribuidas al Ministerio del Interior en cuanto a la gestión del tráfico. Las medidas cautelares solo podrán ser adoptadas por los órganos jurisdiccionales competentes.
+Se modifica por el art. 4.9 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+## Sección 5
+
+Sección 5.ª Seguridad Viaria
+Se añade por el art. 4.10 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 23 bis
+
+Artículo 23 bis.
+1. La Consejería competente en materia de carreteras elaborará, con una periodicidad de diez años, una Estrategia de Seguridad Viaria, que se configura como el instrumento técnico de ordenación de aquellas medidas, acciones y recursos necesarios para la mejora de la seguridad viaria en su ámbito territorial, a efectos de contribuir a la reducción de la siniestralidad.
+Los distintos instrumentos de planificación previstos en esta Ley que puedan incidir sobre la seguridad vial, deberán ser convergentes con la estrategia de seguridad viaria, a fin de garantizar un sistema seguro.
+2. La Estrategia de Seguridad Viaria de la Comunidad de Madrid contendrá objetivos, líneas de acción y programación de actuaciones de mejora de la seguridad viaria con indicación del órgano responsable de su ejecución, así como de los medios económicos necesarios para su desarrollo y de los criterios para su revisión.
+3. En la elaboración de la Estrategia de Seguridad Viaria se contará con la participación del resto de Consejerías de la Comunidad de Madrid y la aprobación de la Estrategia de Seguridad Viaria de la Comunidad de Madrid se realizará por el Consejo de Gobierno.
+4. Para dar cumplimiento a la Estrategia y a las actuaciones derivadas de los procedimientos de gestión de la seguridad de las infraestructuras viarias, la Dirección General de Carreteras aprobará planes de seguridad viaria en los que se programen las actuaciones concretas en la materia..
+Se añade por el art. 4.10 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+## CAPÍTULO III
+
+Financiación y Explotación
+
+### Artículo 24
+
+Artículo 24.
+1. La financiación de las actuaciones en la red de carreteras de la Comunidad de Madrid se efectuará mediante las consignaciones que se incluyan en los presupuestos de la misma, los recursos provenientes del Estado y de los Organismos nacionales e internacionales y excepcionalmente de particulares.
+2. Podrán también obtenerse recursos para financiar las actuaciones mediante la imposición de contribuciones especiales, a los propietarios de los terrenos que resulten especialmente beneficiados por la creación o mejora de las infraestructuras viarias, de acuerdo con lo establecido en la legislación aplicable.
+3. Asimismo, la Comunidad de Madrid podrá establecer la exacción de un precio público que grave la utilización especial del dominio público viario, bien por la peculiaridad o intensidad del uso, bien por la capacidad de deterioro de los elementos configuradores del dominio viario.
+4. Con especial referencia a las travesías y tramos urbanos, se arbitrarán medidas e instrumentos de cooperación con los municipios afectados, a fin de compartir las cargas y servicios entre las Administraciones afectadas.
+5. Las carreteras que vayan a construirse en virtud de un contrato de concesión de obras públicas, así como las que vayan a explotarse en régimen de gestión indirecta, se financiarán mediante los recursos propios de las sociedades concesionarias, los ajenos que éstas movilicen y las subvenciones que pudieran otorgarse.
+Se modifican los apartados 3 y 5 por el art. 1.1 y 2 de la Ley 11/1997, de 28 de abril. Ref. BOE-A-1998-7941.
+
+### Artículo 25
+
+Artículo 25.
+1. La explotación de las carreteras comprende las operaciones de conservación y mantenimiento, las actuaciones encaminadas a la defensa de la vía y a su mejor uso, incluyendo las referentes a señalización, ordenación de accesos y uso de las zonas de dominio público y protección, así como las de restauración y protección medioambientales necesarias y establecidas en el ordenamiento jurídico vigente.
+2. Los importes de las sanciones e indemnizaciones obtenidas por la Comunidad de Madrid por daños y perjuicios causados en carreteras y en sus elementos funcionales estarán afectados a la conservación de las carreteras e infraestructuras viarias, mediante la generación de créditos, por idéntica cuantía, en las aplicaciones presupuestarias destinadas a tal efecto
+Se modifica por el art. 1.3 de la Ley 11/1997, de 28 de abril. Ref. BOE-A-1998-7941.
+
+### Artículo 25 bis
+
+Artículo 25 bis.
+1. La Comunidad de Madrid, como regla general, explotará directamente las carreteras de su competencia, cuya utilización será gratuita para el usuario salvo que, excepcionalmente, se establezca el pago de peaje, cuyas tarifas aprobará el Consejo de Gobierno.
+2. Las carreteras también podrán ser explotadas por cualquiera de los sistemas de gestión indirecta de los servicios públicos previstos en la legislación estatal básica.
+Se entenderán incluidas en este artículo las carreteras cuya construcción y explotación se realice bajo el régimen del contrato de concesión de obras públicas.
+3. La utilización de las carreteras a que se hace referencia en el apartado anterior estará sometida al pago de las correspondientes tarifas, cuya aprobación es competencia del Consejo de Gobierno de la Comunidad.
+La Comunidad de Madrid podrá subvencionar, en todo o en parte, las tarifas que corresponda satisfacer a los usuarios cuando el servicio deba prestarse gratuitamente por razones de interés público.
+Se añade por el art. 1.4 de la Ley 11/1997, de 28 de abril. Ref. BOE-A-1998-7941.
+
+### Artículo 26
+
+Artículo 26.
+1. La clasificación de las carreteras de la Comunidad, así como sus características técnicas, nomenclatura y numeración y criterios de definición, se efectuará mediante la aprobación del Catálogo Viario de la Comunidad de Madrid.
+2. El Catálogo es un documento complementario de las determinaciones y previsiones del Plan de Carreteras, en el que se contendrá la relación de las infraestructuras viarias de la Comunidad de Madrid, su titularidad y características técnicas, de acuerdo con lo establecido en el número anterior.
+3. Su aprobación se realizará simultáneamente con la del Plan de Carreteras. Las modificaciones del Catálogo a que diere lugar el cumplimiento de las previsiones del Plan, se efectuarán por orden de la Consejería de Política Territorial, previo informe de las Entidades locales y Organismos afectados.
+4. Constituyen las infraestructuras complementarias del sistema viario de la Comunidad de Madrid los terrenos e instalaciones destinados a ordenar, mejorar, o regularizar el sistema general de transportes y comunicaciones de la Comunidad de Madrid, tales como estaciones, centros, intercambiadores, aparcamientos disuasorios y cualquier otro semejante, siempre que estén atribuidas a su competencia en virtud del Estatuto de Autonomía y disposiciones que lo desarrollen.
+
+### Artículo 27
+
+Artículo 27.
+1. Las áreas de servicio se construirán y explotarán de conformidad con lo establecido en la legislación de expropiación forzosa y de contratos del estado.
+2. Las condiciones para el otorgamiento de concesiones de áreas de servicio se determinarán en un pliego general, que será aprobado por el Consejo de Gobierno de la Comunidad de Madrid.
+3. La ejecución de las obras en las áreas de servicio consideradas elemento funcional de la carretera, no estará sometida a los actos de control municipal de acuerdo con lo previsto en el artículo 23.1.
+4. La Consejería de Política Territorial podrá asimismo autorizar la construcción de instalaciones complementarias al servicio de la carretera, que sean de iniciativa y titularidad privada, de conformidad con los requisitos que reglamentariamente se establezcan.
+5. La explotación de carreteras por cualquiera de los sistemas de gestión indirecta, de acuerdo con lo dispuesto en el apartado 2 del artículo 25 bis, podrá comportar la concesión para la gestión de las áreas de servicio y demás instalaciones complementarias a que se refiere este artículo.
+Las condiciones de explotación y gestión de las referidas áreas de servicio y demás instalaciones se establecerán en el correspondiente pliego.
+Se modifica el apartado 3 por el art. 4.11 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se añade el apartado 5 por el art. 1.5 de la Ley 11/1997, de 28 de abril. Ref. BOE-A-1998-7941.
+
+### Artículo 28
+
+Artículo 28.
+1. El proyecto de realización de las áreas de servicio, estaciones, centros y demás infraestructuras complementarias, habrán de estar recogidas en los correspondientes planes o programas, y será sometido a informe favorable del Municipio en cuyo término municipal se asiente. Transcurrido un mes desde la recepción de la solicitud del informe sin que éste hubiere recaído, se entenderá que es favorable.
+2. Si la Corporación Local no hubiere formulado objeción alguna al proyecto de construcción de áreas de Servicios, estaciones, centros e instalaciones complementarias, o hubiere dejado transcurrir el plazo previsto en el número anterior, sin emitir el informe, no podrán denegar la licencia de obras para su construcción.
+3. La aprobación del proyecto de construcción de las áreas de servicio e instalaciones complementarias, faculta al Ayuntamiento y a los órganos competentes a autorizar las obras de construcción, aunque el terreno estuviera clasificado como suelo no urbanizable con sujeción, en este caso, al procedimiento establecido en el artículo 43.3 de la Ley de Régimen del Suelo y Ordenación Urbana, y a lo dispuesto en el artículo 15 de la Ley 4/1984, de 10 de febrero, sobre Medidas de Disciplina Urbanística en la Comunidad de Madrid.
+
+## CAPÍTULO IV
+
+Uso y Defensa de las Carreteras
+
+### Artículo 29
+
+Artículo 29.
+A los efectos de la presente Ley se establecen en las carreteras las siguientes zonas de dominio público y de protección.
+
+### Artículo 30
+
+Artículo 30.
+1. Son de dominio público los terrenos ocupados por las carreteras y sus elementos funcionales y una franja de ocho metros en autopistas y autovías, y tres metros en el resto de las carreteras, medidas horizontal y perpendicularmente al eje de la misma, desde la arista exterior de la explanación.
+La arista exterior de la explanación es la intersección de talud de desmonte del terraplén o, en su caso, de los muros de sostenimiento colindantes con el terreno natural.
+En los casos especiales de puentes, viaductos, túneles, estructuras u obras similares se podrá fijar como arista exterior de la explanación, la línea de proyección ortogonal del borde de las obras sobre el terreno. Será en todo caso de dominio público el suelo ocupado por los soportes de la estructura.
+En los tramos de carreteras que discurran por suelo urbano consolidado, será de dominio público la franja de terreno existente hasta las alineaciones que fije el planeamiento. En caso de no existir alineaciones fijadas, la franja de dominio público será la establecida en el párrafo primero de este apartado.
+2. En la zona de dominio público de la carretera no podrán realizarse ninguna obra más que las de acceso a la propia vía, aquellas que formen parte de su estructura, señalización y medidas de seguridad, así como las que requieran la prestación de un servicio público de interés general, previa autorización de la Consejería de Política Territorial.
+Se añade un párrafo al apartado 1 por el art. único.1 de la Ley 14/1998, de 9 de julio. Ref. BOE-A-1998-26928.
+ Redactado conforme a la corrección de errores publicado en el BOCM núm. 191, de 13 de agosto de 1998.
+
+### Artículo 30 bis
+
+Artículo 30 bis.
+1. Aquellas vías ciclistas que estén adosadas a las carreteras autonómicas, se considerarán elementos funcionales de la misma, siendo por tanto de aplicación la Ley 3/1991, de 7 de marzo, de Carreteras de la Comunidad de Madrid en cuanto a la determinación de la zona de dominio público.
+2. Para el resto de vías ciclistas, son de dominio público, los terrenos ocupados por las vías ciclistas y sus elementos funcionales y una franja de terreno colindante de un metro de anchura, a cada lado de la vía, medidas en horizontal y perpendicularmente al eje de la misma, desde la arista exterior de la explanación.
+La arista exterior de la explanación es la intersección de talud de desmonte del terraplén o, en su caso, de los muros de sostenimiento colindantes con el terreno natural.
+En los casos especiales de puentes, viaductos, túneles, estructuras u obras similares se podrá fijar como arista exterior de la explanación, la línea de proyección ortogonal del borde de las obras sobre el terreno. Será en todo caso de dominio público el suelo ocupado por los soportes de la estructura.
+En los tramos de vías ciclistas que discurran por suelo urbano consolidado, será de dominio público la franja de terreno existente hasta las alineaciones que fije el planeamiento. En caso de no existir alineaciones fijadas, la franja de dominio público será la establecida en el párrafo primero de este apartado.
+3. Se considera elemento funcional de una vía ciclista toda zona permanentemente afecta a la conservación o explotación de la misma tales como las destinadas a servicios de descanso, estacionamiento y otros fines auxiliares o complementarios.
+4. En aquellos supuestos en que la vía ciclista esté dentro del dominio público viario, a efectos de fijar la nueva zona de dominio público se tendrá en cuenta el límite superior resultante de aplicar ambas zonas de dominio público.
+5. Con carácter general, queda expresamente prohibido cualquier tipo de obra, uso o instalación dentro de la zona de dominio público de la vía ciclista.
+Se añade por el art. 4.12 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 31
+
+Artículo 31.
+1. Con el fin de garantizar la seguridad vial, asegurar la disponibilidad de los terrenos necesarios para la realización de obras de mantenimiento de las carreteras e instalaciones de sus servicios complementarios, así como proteger los usos de los terrenos colindantes del impacto de las vías, se establecerá una zona de protección a ambas márgenes de cada carretera, delimitada por dos líneas paralelas a las aristas exteriores de explanación, a una distancia de 50 metros en autopistas y autovías, 25 metros en las carreteras integradas en la red principal y 15 metros en el resto de las redes de la Comunidad de Madrid, medidos desde la arista exterior de la explanación.
+En los tramos de carreteras que discurran por suelo que el planeamiento urbanístico clasifique como urbano, dicho planeamiento podrá establecer los límites de la zona de protección que, como mínimo, será coincidente con la zona de dominio público.
+2. Sin perjuicio de las situaciones consolidadas, en la zona de protección no se podrán realizar obras de construcción de nueva planta, sustitución o reedificación, ni instalaciones fijas, ni ejecutar obras que supongan una edificación por debajo del nivel del terreno, ni instalar líneas de alta tensión, carteles o cualquier otro medio de publicidad.
+3. No obstante, se podrán efectuar en la zona de protección, previa autorización de la Consejería de Política Territorial, pequeñas obras de reparación y conservación de las existentes que no supongan en ningún caso incremento de su valor, así como levantar instalaciones fácilmente desmontables y aquellas otras destinadas al servicio de la carretera.
+En estas zonas, los propietarios de los terrenos podrán libremente sembrar y plantar sin más restricciones que las referentes a los cerramientos de sus fincas. Las plantaciones de arbolado estarán sujetas a autorización.
+4. Se podrán autorizar en esta zona cerramientos diáfanos siempre que no resulten mermadas las condiciones de visibilidad y seguridad, ni supongan disminución de las facultades de los órganos administrativos en orden al cumplimiento de sus atribuciones, con relación al dominio público viario.
+5. Cuando resulte necesario el retranqueo de los cerramientos de fincas por exigencias derivadas de la construcción de nuevas vías, desdoblamiento de calzadas, ensanche de la plataforma u otros motivos de interés público, se podrá ejecutar en las mismas condiciones existentes antes de la formulación del proyecto de obra, en cuanto a su estructura y distancia de la arista exterior de la explanación, garantizándose en todo caso que el cerramiento se sitúe fuera de la zona de dominio público.
+6. Las limitaciones anteriormente señaladas no confieren a los titulares de derechos reales sobre las fincas incluidas en la zona de protección, ningún derecho a indemnización.
+No obstante, la ocupación de los terrenos para el emplazamiento de instalaciones, o la realización de actividades públicas, directamente vinculadas con la construcción o mantenimiento de la carretera, y los daños y perjuicios que se causan por su utilización serán indemnizables, de conformidad con lo establecido en la legislación de expropiación forzosa.
+7. Los propietarios de los terrenos situados en la zona de protección están obligados a conservarlos en condiciones de seguridad y ornato públicos, debiendo ejecutar las obras necesarias para mantenerlos en aquellas condiciones cuando así se ordene por los órganos competentes.
+Se añade un párrafo al apartado 1 por el art. único.2 de la Ley 14/1998, de 9 de julio. Ref. BOE-A-1998-26928.
+
+### Artículo 32
+
+Artículo 32.
+1. La ejecución de pequeñas obras e instalaciones provisionales y la realización de cualquier otra actividad dentro de la zona de protección está sujeta al deber de obtener autorización expresa por parte de la Consejería de Política Territorial, en los términos señalados en el artículo anterior.
+2. En ningún caso podrán autorizarse obras o actuaciones que disminuyan la seguridad de la vía, dificulten la entrada en la zona de protección y la eventual ocupación de los terrenos, o perjudiquen la explanación de la carretera.
+3. No se podrán otorgar licencias urbanísticas para la realización de obras y actividades en las zonas de dominio público o protección, sin que previamente se hubieran obtenido las autorizaciones previstas en el número 1 de este artículo.
+4. La Consejería de Política Territorial denegará la autorización referida, cuando la obra o uso del suelo solicitado no se ajuste a las determinaciones del planeamiento urbanístico.
+
+### Artículo 33
+
+Artículo 33.
+1. El planeamiento urbanístico podrá establecer la zona de protección en los supuestos de terrenos clasificados como suelo urbano y urbanizable programado, previo informe favorable de la Consejería de Política Territorial.
+2. Corresponde a los Municipios la competencia para autorizar obras o actividades en la zona de protección, en los casos en que las carreteras discurran por suelo clasificado como urbano o urbanizable programado, previo informe de la Consejería de Política Territorial que habrá de versar sobre los aspectos viarios.
+3. En los Municipios que carezcan de planeamiento urbanístico, la competencia para otorgar las autorizaciones a que se refiere el número anterior corresponderá a la Consejería de Política Territorial.
+
+### Artículo 34
+
+Artículo 34.
+1. Fuera de los tramos urbanos, en las carreteras de la Comunidad de Madrid, queda prohibida la colocación de carteles u otros elementos publicitarios a menos de 100 metros del borde exterior de la plataforma.
+2. A los efectos de este artículo no se considera publicidad los carteles que, previa autorización de la Consejería de Política Territorial, informen al conductor sobre el estado de la carretera y/o asuntos relacionados con el tráfico.
+3. Tampoco se considera publicidad, a los efectos de este artículo, la colocación por la Comunidad de Madrid o por entidades de ella dependientes, en el ejercicio de sus competencias, de carteles informativos, teléfonos de socorro u otros elementos relacionados con la carretera o con el tráfico, excluidas las señales de circulación, en los que figure el nombre, marca o logotipo de entidades que hayan colaborado en su financiación o instalación.
+La colocación de estos carteles y elementos deberá ser autorizada por la Consejería competente en materia de carreteras. En todo caso, el nombre, marca o logotipo de la entidad colaboradora tendrá carácter secundario respecto del objeto principal del cartel o elemento del que se trate, y su tamaño y localización serán establecidos por dicha Consejería.
+4. Los carteles a los que hacen referencia los apartados 2 y 3 de este artículo, así como aquellos otros carteles de tipo informativo, determinarán su forma, colores y dimensiones respetando las reglas establecidas por legislación vigente para la señalización vial y se preserve en cualquier caso la seguridad de la circulación.
+Se modifica el apartado 3 y se añade el apartado 4 por el art. 4.13 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se añade el apartado 3 por el art. 19 de la Ley 18/2000, de 27 de diciembre. Ref. BOE-A-2001-5584.
+
+### Artículo 35
+
+Artículo 35.
+1. Los edificios e instalaciones existentes a la entrada en vigor de esta Ley, situadas en la zona de Protección delimitada con arreglo a lo dispuesto en esta Ley, tendrán la consideración de fuera de ordenación, a los efectos previstos en la legislación urbanística.
+2. En los supuestos de travesías y tramos urbanos, las instalaciones y edificios situados en la zona de protección sobre terrenos clasificados como suelo urbano o urbanizable programado, se regirán por las determinaciones contenidas en el planeamiento urbanístico, de acuerdo con lo establecido en el artículo anterior.
+
+### Artículo 36
+
+Artículo 36.
+1. Será necesaria en todo caso la autorización previa de la Consejería de Política Territorial para el establecimiento de accesos de cualquier clase en las vías que componen el sistema viario de la Comunidad.
+2. La apertura de conexiones y accesos a las vías a que hace referencia el número anterior, deberá ser autorizada por la Consejería de Política Territorial. La autorización sólo se otorgará cuando se garantice el mantenimiento de las características funcionales de la vía y ofrezcan condiciones de seguridad adecuadas.
+3. La ordenación o reordenación de los accesos a las carreteras integradas en las Redes de la Comunidad de Madrid podrá realizarse mediante proyectos aprobados por la Consejería de Política Territorial, previa información pública, por espacio de quince días. La aprobación de los proyectos de ordenación y reordenación de accesos llevará aparejada la declaración de necesidad de ocupación de los bienes y derechos necesarios para su ejecución, todo ello de acuerdo con lo establecido en la legislación de expropiación forzosa.
+La construcción de nuevos accesos y conexiones se realizará de acuerdo con la normativa e instrucciones geométricas y constructivas dictadas por la Consejería de Política Territorial.
+4. Las conexiones y accesos a las vías, cuando éstas discurren por suelo clasificado como urbano o urbanizable programado, se ajustarán a lo establecido en las determinaciones del Plan General, normas subsidiarias o planes parciales, en su caso.
+
+### Artículo 37
+
+Artículo 37.
+1. La Comunidad de Madrid, en el ámbito de sus competencias, podrá imponer, cuando las condiciones, situaciones, exigencias técnicas o seguridad vial de las carreteras de la Comunidad lo requieran, limitaciones temporales o permanentes a la circulación en ciertos tramos o partes de las carreteras, para determinados tipos de vehículos. Asimismo, podrá fijar las condiciones de las autorizaciones excepcionales que, en su caso, puedan otorgarse por el órgano competente y señalizar las correspondientes ordenaciones de la circulación.
+2. Los supuestos de usos especiales y reiterativos, con sobrecargas de tráfico en determinados tramos de carreteras, deberán ser objeto de autorización especial, en la que se establezca, entre otros requisitos, la obligación de construir una garantía por el importe del daño estimado contradictoriamente, en función del número de tráfico diario.
+3. La obtención de la autorización para la utilización especial del dominio viario está sujeta al abono del correspondiente precio público, competiendo al Consejero de la Política Territorial la fijación de su cuantía. La liquidación practicada podrá ser objeto de impugnación en vía económico-administrativa o, en su caso, ante la Jurisdicción Contencioso-Administrativa.
+
+### Artículo 37 bis
+
+Artículo 37 bis.
+1. El uso de las vías ciclistas integradas en la Red Básica de Vías Ciclistas de la Comunidad de Madrid será exclusivo para bicicletas. No obstante, en aquellas vías en las que se pueda permitir la coexistencia de los desplazamientos ciclistas y peatonales, se autorizará el tránsito de peatones por estas vías ciclistas. Este hecho se señalizará convenientemente con el fin de garantizar la seguridad de los tráficos.
+2. Queda expresamente prohibido el uso de vehículos a motor (a excepción de las bicicletas con pedaleo asistido) en la totalidad de las vías ciclistas incluidas en la Red Básica, salvo para las labores precisas de policía, vigilancia, conservación y mantenimiento, salvamento, protección civil y asistencia sanitaria en servicio de urgencia, así como en aquellos supuestos concretos de su necesaria utilización a los solos efectos de acceso a propiedades colindantes, siempre que no exista otra alternativa viable y cuente con la señalización y régimen de autorización correspondiente.
+Se añade por el art. 4.14 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 38
+
+Artículo 38.
+La Consejería de Política Territorial podrá establecer en puntos estratégicos de la red de la Comunidad de Madrid, instalaciones de aforos y estaciones de pesajes para conocimiento y control de las características de la demanda de tráfico sobre la infraestructura de las carreteras.
+
+### Artículo 39
+
+Artículo 39.
+Queda terminantemente prohibido el vertido de residuos sólidos y escombros en las zonas de dominio público y protección de las carreteras. El incumplimiento de esta prohibición dará lugar a la exigencia de las responsabilidades penales y administrativas a los autores y responsables de esta infracción, de conformidad con la legislación aplicable.
+
+### Artículo 40
+
+Artículo 40.
+1. En la zona de dominio público de las carreteras, podrá autorizarse discrecionalmente la utilización del subsuelo para la implantación o construcción de las infraestructuras imprescindibles para la prestación de servicios públicos esenciales.
+2. A tal efecto, el titular del servicio público deberá solicitar la correspondiente autorización a la Consejería de Política Territorial, de acuerdo con el procedimiento que reglamentariamente se establezca.
+3. Las autorizaciones podrán ser revocadas por la Consejería de Política Territorial en cualquier momento, sin derecho a indemnización, cuando resulten incompatibles con el Plan de Carreteras, en los supuestos en que se requiera para la ampliación, mejora o desarrollo de la red viaria, produzcan daños en el dominio público, impidan su utilización para actividades de mayor interés público o menoscaben el uso público.
+4. El otorgamiento de la autorización devengará el pago de la correspondiente tasa por aprovechamiento especial del dominio público, cuya cuantía habrá de establecerse por la Consejería competente en materia de carreteras.
+Se modifica el apartado 4 por el art. 4.15 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 40 bis
+
+Artículo 40 bis.
+Los permisos para la realización de cualquier actividad en las zonas de dominio y de protección de las carreteras reguladas en el presente capítulo, sólo podrán ser concedidos por la Dirección General competente en materia de Carreteras cuando los interesados procedan a constituir la correspondiente garantía por una cuantía máxima de hasta el 100 por 100 del presupuesto del proyecto objeto del mencionado permiso.
+La garantía se constituirá en aquellos casos en que sea necesario para salvaguardar el uso adecuado de las carreteras o garantizar la seguridad vial, en los términos, casos, cuantía y procedimiento que reglamentariamente se establezca.
+Dicha garantía se constituirá con independencia de las tasas que, con carácter general, se devenguen por la obtención del permiso y sin perjuicio de las responsabilidades en que se hubiese podido incurrir por incumplimiento de las condiciones del permiso, de acuerdo con lo dispuesto en el capítulo VI de esta Ley.
+En el supuesto de que los interesados incumplieran las condiciones establecidas en el permiso concedido, la Dirección General competente en materia de Carreteras se incautará de la garantía, de acuerdo con el procedimiento que reglamentariamente se establezca.
+Se añade por el art. 23 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 40 bis bis
+
+Artículo 40 bis bis.
+La ejecución de toda clase de actividades, trabajos y obras a realizar en las zonas de dominio público de la Red Básica de Vías Ciclistas estará sujeta a autorización administrativa.
+Los permisos para la realización de cualquier actividad en las zonas de dominio de las vías ciclistas integradas en la Red Básica de Vías Ciclistas de la Comunidad de Madrid, reguladas en el presente artículo, sólo podrán ser concedidos por la dirección general competente en dicha red, cuando los interesados procedan a constituir la correspondiente garantía por una cuantía máxima de hasta el 100 por 100 del presupuesto del proyecto objeto del mencionado permiso.
+La garantía se constituirá en aquellos casos en que sea necesario para salvaguardar el uso adecuado de las infraestructuras para la circulación de ciclistas o garantizar la seguridad vial, en los términos, casos, cuantía y procedimiento que reglamentariamente se establezca.
+Dicha garantía se constituirá con independencia de las tasas que, con carácter general, se devenguen por la obtención del permiso y sin perjuicio de las responsabilidades en que se hubiese podido incurrir por incumplimiento de las condiciones del permiso.
+En el supuesto de que los interesados incumplieran las condiciones establecidas en el permiso concedido, la dirección general competente en materia de la Red de Vías Ciclistas de la Comunidad de Madrid se incautará de la garantía, de acuerdo con el procedimiento que reglamentariamente se establezca.
+Se añade por el art. 4.16 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+## CAPÍTULO V
+
+Plusvalía y Expropiaciones
+
+### Artículo 41
+
+Artículo 41.
+La Comunidad de Madrid desarrollará la normativa necesaria para que la mayor parte de las plusvalías generadas como consecuencia de la construcción o mejora de las carreteras de la Comunidad de Madrid revierta a ella mediante cesiones de terrenos, contribuciones especiales y cualesquiera otros mecanismos compensatorios que estime conveniente.
+
+### Artículo 42
+
+Artículo 42.
+La Comunidad de Madrid, a través de la Consejería de Política Territorial tendrá el derecho de tanteo y retracto en las transmisiones onerosas intervivos de los bienes situados total o parcialmente en la zona de protección, a cuyo efecto deberá notificarse por escrito a la Administración la transmisión. El derecho de tanteo podrá ejercerse en el plazo de tres meses y el de retracto en el de un año, ambos a contar desde la correspondiente notificación, que comprenderá las condiciones esenciales de la transmisión.
+
+### Artículo 43
+
+Artículo 43.
+1. Las expropiaciones de los bienes y derechos afectados por los proyectos de carreteras se efectuarán de acuerdo con lo dispuesto en la Ley de Expropiación Forzosa, de 16 de diciembre de 1954; su Reglamento de 26 de abril de 1957, y en la Ley de Reforma del Régimen Urbanístico del Suelo.
+2. Las expropiaciones a que dieren lugar las obras concernientes a las travesías, tramos urbanos de carretera, variantes, circunvalaciones, conexiones y accesos a los núcleos de población, así como las infraestructuras previstas o que se prevean en los Planes de Ordenación Urbana destinadas a completar el sistema general de comunicación, se realizará de acuerdo con las prescripciones de la normativa sobre régimen del suelo y ordenación urbana aplicable.
+3. En los supuestos a que se refiere el apartado anterior, la Administración expropiante se subrogará en la posición jurídica del propietario expropiado a efectos de su derecho al aprovechamiento urbanístico que corresponda a los terrenos, según la ordenación en vigor.
+
+### Artículo 44
+
+Artículo 44.
+1. En la tasación de los terrenos expropiados no se podrán incluir las plusvalías generadas por la construcción de la carretera o vía de comunicación.
+2. En las expropiaciones realizadas con sujeción a la normativa sobre régimen del suelo y ordenación urbana, la valoración del terreno se efectuará en función del conjunto de derechos de contenido urbanístico adquiridos, en los términos fijados en la legislación del régimen urbanístico y valoracines del suelo, que resulte de aplicación.
+El justiprecio se obtendrá aplicando a dicho valor las agregaciones y deducciones previstas en la legislación urbanística y valoraciones del suelo.
+
+## CAPÍTULO VI
+
+Infracciones y Sanciones
+
+### Artículo 45
+
+Artículo 45.
+1. La vulneración de las prescripciones contenidas en esta Ley y la comisión de cualquiera de las conductas tipificadas en este artículo tendrán la consideración de infracciones.
+2. Son infracciones leves:
+a) Realizar obras, instalaciones o actuaciones no permitidas en las zonas de dominio público o protección de las carreteras llevadas a cabo sin las autorizaciones o licencias requeridas, o incumplir alguna de las prescripciones impuestas en las autorizaciones otorgadas, cuando puedan ser objeto de legalización posterior.
+b) Realizar en la explanación o en las zonas de dominio público y de protección, plantaciones o cambios de uso no permitidos o sin la pertinente autorización, o sin atenerse a las condiciones de la autorización otorgada.
+3. Son infracciones graves:
+a) Colocar o verter, dentro de la zona de dominio público y protección, objetos, residuos sólidos, escombros o materiales de cualquier naturaleza.
+b) Realizar obras, instalaciones o actuaciones no permitidas en las zonas de dominio público o protección de las carreteras, llevadas a cabo sin las autorizaciones o licencias requeridas, o incumplir alguna de las prescripciones impuestas en las autorizaciones otorgadas, cuando no fuera posible su legalización posterior.
+c) Deteriorar cualquier elemento de la carretera directamente relacionado con la ordenación, orientación y seguridad de la circulación, o modificar intencionadamente sus características o situación.
+d) Destruir, deteriorar, alterar o modificar cualquier obra o instalación de la carretera o de los elementos funcionales de la misma.
+e) Colocar o verter objetos o materiales de cualquier naturaleza, que afecten a la plataforma de la carretera.
+f) Realizar en la explanación o en la zona de dominio público cruces aéreos o subterráneos no permitidos o sin la pertinente autorización o sin atenerse a las condiciones de la autorización otorgada.
+g) Establecer cualquier clase de publicidad o colocar carteles informativos sin autorización de la Consejería competente en materia de carreteras, fuera de la zona de protección hasta los 100 metros desde el borde exterior de la plataforma.
+h) No conservar, por parte de sus propietarios, los terrenos situados en la zona de protección de las carreteras en condiciones de seguridad y ornato públicos. Así como, no ejecutar las obras necesarias para mantenerlos en aquellas condiciones cuando así se ordene por los órganos competentes.
+4. Son infracciones muy graves:
+a) Realizar obras, instalaciones o actuaciones no permitidas entre la arista exterior de la explanación y el límite exterior de la zona de protección, llevadas a cabo sin las autorizaciones o licencias requeridas, o incumplir alguna de las prescripciones impuestas en las autorizaciones otorgadas.
+b) Sustraer, deteriorar o destruir cualquier elemento de la carretera directamente relacionado con la ordenación, orientación y seguridad de la circulación o modificar intencionadamente sus características o situación, cuando se impida que el elemento de que se trate siga prestando su función.
+c) Destruir, deteriorar, alterar o modificar cualquier obra o instalación de la carretera o de los elementos funcionales de la misma cuando las actuaciones afecten a la calzada o a los arcenes.
+d) Establecer, en la zona de protección, instalaciones de cualquier naturaleza, o realizar actividades que resulten peligrosas, incómodas o insalubres para los usuarios de la carretera, sin adoptar las medidas pertinentes para evitarlo.
+e) Dañar o deteriorar la carretera circulando con exceso en el peso máximo autorizado, de acuerdo con lo previsto en el artículo 140.c) de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres.
+f) Colocar carteles informativos sin autorización de la Consejería competente en materia de carreteras, y cualquier clase de publicidad en las zonas de dominio público y protección.
+g) Las calificadas como graves cuando se aprecia reincidencia.
+5. Serán responsables de la infracción las personas físicas o jurídicas siguientes:
+a) El promotor de la actividad, el empresario o persona que la ejecuta y el técnico director de la misma.
+b) En el supuesto de incumplimiento de las condiciones o cláusulas de un título administrativo, el titular de éste.
+c) En las infracciones derivadas del otorgamiento de autorizaciones que resulten contrarios a lo establecido en la ley, y cuyo ejercicio ocasione daños graves al dominio público viario o a terceros, serán responsables los funcionarios o empleados de la Administración Pública que hubiere informado favorablemente su otorgamiento y las autoridades y miembros de los órganos colegiados que las hubieren otorgado.
+Se modifican los apartados 3 y 4 por el art. 4.17 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 46
+
+Artículo 46.
+Sin perjuicio de la sanción penal o administrativa que se imponga, el infractor estará obligado a restituir y reponer las cosas a su estado anterior, con la indemnización de daños irreparables y perjuicios causados, en el plazo que se determine en la correspondiente resolución de la Consejería de Política Territorial.
+
+### Artículo 47
+
+Artículo 47.
+1. El procedimiento para sancionar las infracciones a los preceptos de esta Ley se iniciará de oficio por acuerdo de la Consejería de Política Territorial como consecuencia de denuncia formulada por Agentes de la Autoridad, personal afecto al servicio de la carretera, o por particulares.
+A estos efectos, el personal funcionario adscrito a la Dirección General de Carreteras, que tenga atribuidas funciones de vigilancia y control de las mismas, tendrá la consideración de Agente de la Autoridad.
+2. En los supuestos en que los actos cometidos contra la carretera o sus elementos pudieran ser constitutivos de delito o falta, la Consejería de Política Territorial pasará el tanto de culpa a la Autoridad judicial competente y se abstendrá de proseguir el procedimiento sancionador mientras ésta no se haya pronunciado. La sanción de la autoridad judicial excluirá la imposición de multa administrativa. De no haberse estimado la existencia de delito o falta, la Consejería de Política Territorial podrá proseguir el expediente sancionador con base en los hechos que los tribunales hayan considerado probados.
+Se añade un párrafo al apartado 1 por el art. 2 de la Ley 11/1997, de 28 de abril. Ref. BOE-A-1998-7941.
+
+### Artículo 48
+
+Artículo 48.
+El plazo de prescripción de las infracciones será de cuatro años para las graves y muy graves y de un año para las leves, a contar desde su total consumación. No obstante se exigirá la restitución de las cosas y su reposición a su estado anterior, cualquiera que sea el tiempo transcurrido.
+
+### Artículo 49
+
+Artículo 49.
+1. Las infracciones previstas en esta Ley serán sancionadas atendiendo a los daños y perjuicios producidos, en su caso, al riesgo creado y a la intencionalidad del causante o responsables, con las siguientes multas:
+Infracciones leves, multa de 50.000 a 200.000 pesetas.
+Infracciones graves, multa de 200.001 a 1.000.000 de pesetas.
+Infracciones muy graves, multa de 1.000.001 a 25.000.000 de pesetas.
+2. En los supuestos de infracciones por vertidos de escombros o residuos sólidos, además de las sanciones de multa, la Dirección General de Transportes de la Consejería de Política Territorial podrá retirar o no renovar al transportista la autorización o título administrativo que le faculta a ejercer la actividad de transporte.
+3. Con independencia de las multas previstas en el apartado anterior, los órganos sancionadores, una vez transcurridos los plazos señalados en el requerimiento correspondiente, podrán imponer multas coercitivas, conforme a lo establecido en la Ley de Procedimiento Administrativo.
+La cuantía de cada una de dichas multas no superará el 20 por 100 de la multa fijada para cada infracción cometida.
+4. Tanto el importe de las multas como el de las responsabilidades administrativas podrán ser exigidos por la vía administrativa de apremio.
+5. En el caso de que se acuerde la suspensión de la ejecución de la multa o de la reparación, el interesado estará obligado a garantizar su importe para que la suspensión sea efectiva.
+6. Asimismo, podrá procederse a la ejecución subsidiaria por cuenta del infractor y a su costa.
+
+### Artículo 50
+
+Artículo 50.
+1. La imposición de sanciones por infracciones establecidas en esta Ley corresponde a la Consejería competente en materia de carreteras.
+2. La imposición de la sanción que corresponda será independiente de la obligación de indemnizar los daños y perjuicios causados, cuyo importe será fijado por la Consejería de competente en materia de carreteras.
+Se modifica por el art. 4.18 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Consejo de Gobierno fijará reglamentariamente las características mínimas que deban cumplir las carreteras definidas en esta Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+De acuerdo con la disposición anterior, la Consejería de Política Territorial actualizará el inventario de las carreteras de la Comunidad, su denominación o identificación, así como la información sobre las características, situación, exigencias técnicas, estado, viabilidad y nivel de utilización de las mismas.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+El sistema nacional e internacional de todo tipo de señales en las carreteras de la Comunidad, se aplicará con arreglo a la legislación del Estado sobre la materia.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+El Gobierno de la Comunidad de Madrid podrá actualizar la cuantía de las sanciones previstas en el artículo 49, atendiendo a la variación que experimente el Índice de Precios al Consumo.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+En las carreteras de la Comunidad de Madrid, la normativa estatal se considerará supletoria de la presente Ley y sus reglamentos en todos aquellos puntos en que no se contradigan.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+El Consejo de Gobierno de la Comunidad de Madrid aprobará el Reglamento General de ejecución de la presente Ley en el plazo máximo de seis meses a partir de su promulgación.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+1. Las subvenciones a que se refieren los artículos 24 y 25 bis quedan excluidas de las disposiciones establecidas en la Ley 2/1995, de 8 de marzo. Los pliegos por los que se rijan los correspondientes contratos deberán establecer las condiciones reguladoras de tales subvenciones.
+2. Estas subvenciones podrán ser exceptuadas de lo dispuesto en el artículo 55.4 de la Ley 9/1990, de 8 de noviembre, reguladora de la Hacienda de la Comunidad de Madrid, por acuerdo del Consejo de Gobierno, a propuesta del Consejero de Hacienda.
+Se añade por el art. 3 de la Ley 11/1997, de 28 de abril. Ref. BOE-A-1998-7941.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+Se habilita a la Consejería competente en materia de carreteras para el desarrollo de los procedimientos de gestión de la seguridad de las infraestructuras viarias titularidad de la Comunidad de Madrid.
+Se añade por el art. 4.19 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En los supuestos en que exista titularidad privada en la zona de dominio público de las carreteras construidas actualmente, sólo se permitirá al titular realizar en ellas cultivos y aprovechamientos que no afecten a la visibilidad y seguridad del tráfico circulatorio.
+En cualquier caso, su inclusión en la zona de dominio público lleva aparejada la declaración de utilidad pública, a los efectos de la expropiación forzosa.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Los accesos y conexiones a las Redes de la Comunidad de Madrid serán objeto de una propuesta de remodelación, con el fin de ajustarse a las determinaciones de esta Ley.
+Los accesos a fincas rústicas para uso agrícola o vivienda unifamiliar que no supongan núcleo de población, actualmente existentes, no están sujetos a la obligación establecida en el párrafo anterior.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+En tanto se procede a la clasificación de las carreteras de la Comunidad de Madrid, de acuerdo con los criterios y categorías de esta Ley, y a su inclusión en el Catálogo Viario, se entenderá que la red básica de primer orden y la red metropolitana actualmente existentes se corresponden con la red principal; la red básica de segundo orden con la red secundaria y la red local con la configurada en esta Ley como red local.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de la Comunidad de Madrid», debiéndose publicar en el «Boletín Oficial del Estado.
+
+### Disposición final primera
+
+Disposición final primera.
+Todas las referencias de la presente Ley realizadas a la Consejería de Política Territorial se entenderán hechas a la Consejería con competencias en materia de carreteras.
+Se añade por el art. 4.20 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día de su publicación en el “Boletín Oficial de la Comunidad de Madrid”, debiéndose publicar en el “Boletín Oficial del Estado”. Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan y a los Tribunales y Autoridades que corresponda la guarden y la hagan guardar.
+Se modifica como disposición final segunda por el art. 4.21 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Su anterior denominación era disposición final.
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan y a los Tribunales y Autoridades que corresponda la guarden y la hagan guardar.
+Madrid, 7 de marzo de 1991.
+El Presidente,
+JOAQUÍN LEGUINA

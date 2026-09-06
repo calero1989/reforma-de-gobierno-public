@@ -1,0 +1,1161 @@
+# Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
+
+- Identificador BOE: `BOE-A-2003-10715`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-10715
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+I
+La Constitución Española de 1978, en su artículo 41, afirma que los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad ; asimismo, en su artículo 43, reconoce el derecho a la protección de la salud, encomendando a los poderes públicos organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios.
+Igualmente el artículo 38.1.a) de la Ley General de la Seguridad Social incluye dentro de la acción protectora del ámbito de la Seguridad Social "la asistencia sanitaria en los casos de maternidad, de enfermedad común o profesional y de accidentes, sean o no de trabajo".
+Por otra parte, el título VIII del texto constitucional diseñó una nueva organización territorial del Estado que posibilitaba la asunción por las comunidades autónomas de competencias en materia de sanidad, reservando para aquél la regulación de las bases y la coordinación general de la sanidad.
+La Ley 14/1986, de 25 de abril, General de Sanidad, dio respuesta y desarrollo a estas previsiones constitucionales, estableciendo los principios y criterios sustantivos que han permitido configurar el Sistema Nacional de Salud: el carácter público y la universalidad y gratuidad del sistema ; la definición de los derechos y deberes de ciudadanos y poderes públicos en este ámbito ; la descentralización política de la sanidad ; la integración de las diferentes estructuras y servicios públicos al servicio de la salud en el Sistema Nacional de Salud y su organización en áreas de salud, y el desarrollo de un nuevo modelo de atención primaria que ponía el énfasis en la integración en este nivel de las actividades asistenciales y de prevención, promoción y rehabilitación básica.
+Asimismo, la ley creó el Consejo Interterritorial del Sistema Nacional de Salud como órgano coordinador entre las comunidades autónomas y la Administración General del Estado, que ha realizado una importante labor tanto en el fomento del consenso como en la difusión de experiencias y en el aprendizaje mutuo entre niveles de gobierno.
+Al amparo de las previsiones constitucionales y de los respectivos estatutos de autonomía, todas las comunidades autónomas han asumido paulatinamente competencias en materia de sanidad. Este proceso se ha completado con un modelo estable de financiación, a través de la aprobación de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía.
+La asunción de competencias por las comunidades autónomas constituye un medio para aproximar la gestión de la asistencia sanitaria al ciudadano y facilitarle, así, garantías en cuanto a la equidad, la calidad y la participación. La experiencia y la práctica de las relaciones entre el Estado y las comunidades autónomas desde 1986, año en que se aprueba la Ley General de Sanidad, ha sido un elemento dinámico y, en muchos aspectos, un referente para el desarrollo de la cohesión en el Estado autonómico. Y es precisamente esta experiencia avanzada y valorada positivamente, por los ciudadanos e internacionalmente, la que posibilita no sólo poder realizar un buen diagnóstico sobre sus virtudes y carencias, sino también estar en condiciones de abordar sectorialmente el necesario perfeccionamiento de las relaciones, de manera que el Sistema Nacional de Salud mantenga una identidad común y responda a los principios constitucionales de unidad, autonomía y solidaridad en los que se fundamenta dicho Estado autonómico.
+Paralelamente, transcurridos más de 16 años desde la entrada en vigor de la Ley General de Sanidad, se han producido profundos cambios en la sociedad, tanto culturales, tecnológicos y socioeconómicos como en la manera de vivir y de enfermar. Y se plantean nuevos retos para la organización del Sistema Nacional de Salud, como son la orientación a los resultados en salud, la potenciación del papel de los usuarios como decisores, la implicación de los profesionales en las reformas administrativas, las actuaciones clínicas y la toma de decisiones basadas en la evidencia científica, así como la búsqueda de mecanismos de integración en la atención sanitaria y la sociosanitaria, retos todos ellos que han puesto de manifiesto la necesidad del funcionamiento cohesionado del Estado y de las comunidades autónomas para complementar algunos elementos esenciales del Sistema Nacional de Salud, de manera que pueda adaptarse a la modernización que el entorno le exige.
+Por todo ello, esta ley establece acciones de coordinación y cooperación de las Administraciones públicas sanitarias como medio para asegurar a los ciudadanos el derecho a la protección de la salud, con el objetivo común de garantizar la equidad, la calidad y la participación social en el Sistema Nacional de Salud:
+a) Equidad, en la línea de desarrollo del principio constitucional de igualdad, que garantice el acceso a las prestaciones y, de esta manera, el derecho a la protección de la salud en condiciones de igualdad efectiva en todo el territorio y posibilite la libre circulación de todos los ciudadanos.
+b) Calidad, que conjugue la incorporación de innovaciones con la seguridad y efectividad de éstas, que oriente los esfuerzos del sistema hacia la anticipación de los problemas de salud o hacia soluciones eficaces cuando éstos aparecen ; calidad que evalúe el beneficio de las actuaciones clínicas incorporando sólo aquello que aporte un valor añadido a la mejora de la salud, e implicando a todos los actores de sistema.
+c) Y, por último, participación ciudadana, tanto en el respeto a la autonomía de sus decisiones individuales como en la consideración de sus expectativas como colectivo de usuarios del sistema sanitario, y para permitir el intercambio de conocimientos y experiencias.
+La experiencia en coordinación sanitaria desde la aprobación de la Ley General de Sanidad hace necesaria la búsqueda de un nuevo modelo, que aproveche esa experiencia y ofrezca nuevos instrumentos que permitan a los ciudadanos recibir un servicio sanitario público de calidad y en condiciones de igualdad efectiva en el acceso, independientemente del lugar de su residencia.
+La primera aportación de la ley al nuevo modelo es la definición de aquellos ámbitos en que es precisa la colaboración entre el Estado y las comunidades autónomas. En estos ámbitos se define un núcleo común de actuación del Sistema Nacional de Salud y de los servicios de salud que lo integran. Sin interferir en la diversidad de fórmulas organizativas, de gestión y de prestación de servicios consustancial con un Estado descentralizado, se pretende que la atención al ciudadano por los servicios públicos sanitarios responda a unas garantías básicas y comunes.
+Los ámbitos de colaboración entre las Administraciones públicas sanitarias definidas por esta ley son: las prestaciones del Sistema Nacional de Salud ; la farmacia; los profesionales sanitarios ; la investigación; el sistema de información sanitaria, y la calidad del sistema sanitario. Estos seis ámbitos representan para el ciudadano la seguridad de las prestaciones en todo el territorio del Estado, que los profesionales sanitarios tendrán las mismas garantías de competencia profesional, que la investigación se orientará a las necesidades de salud de la población, que la información sanitaria fluirá en todo el sistema y que la calidad será un objetivo común dentro del Sistema Nacional de Salud.
+Además de las seis áreas descritas anteriormente, la ley ofrece mecanismos de cooperación y coordinación tanto en la organización de la asistencia sanitaria como en salud pública. En asistencia sanitaria se regulan los planes integrales de salud, para que las Administraciones sanitarias adopten un enfoque integral en la atención a las enfermedades más prevalentes. En salud pública se identifican aquellos ámbitos en los que se requiere un enfoque conjunto.
+Para que ello sea factible, la ley diseña una serie de instrumentos para tomar aquellas decisiones que corresponde asumir conjuntamente al Estado y a las comunidades autónomas. De esta forma, la ley crea o potencia órganos especializados, que se abren a la participación de las comunidades autónomas ; así, la Agencia de Evaluación de Tecnologías, la Agencia Española de Medicamentos y Productos Sanitarios, la Comisión de Recursos Humanos, la Comisión Asesora de Investigación en Salud, el Instituto de Salud Carlos III, el Instituto de Información Sanitaria, la Agencia de Calidad del Sistema Nacional de Salud y el Observatorio del Sistema Nacional de Salud.
+El órgano básico de cohesión es el Consejo Interterritorial del Sistema Nacional de Salud, al que se dota de mayor agilidad en la toma de decisiones y de mecanismos para la búsqueda de consensos, así como para la vinculación entre las partes en la asunción de estas decisiones. Junto al Consejo Interterritorial del Sistema Nacional de Salud se sitúa la Alta Inspección, a la que se atribuye el seguimiento de los acuerdos de aquél, entre otras funciones.
+En definitiva, la ley busca la colaboración de las Administraciones públicas sanitarias con la finalidad de mejorar el funcionamiento del Sistema Nacional de Salud. La equidad, la calidad y la participación como objetivos comunes, las actuaciones en los diferentes ámbitos y los instrumentos para llevarlas a cabo constituyen el núcleo básico del Sistema Nacional de Salud y lo que proporciona unos derechos comunes a todos los ciudadanos.
+II
+La ley se estructura en un capítulo preliminar y otros once capítulos.
+En el capítulo preliminar se enuncia el propósito de la ley, que es el establecimiento del marco legal para las acciones de coordinación y cooperación de las Administraciones públicas sanitarias que permitirán garantizar la equidad, la calidad y la participación social en el Sistema Nacional de Salud, entendido éste, en los términos de la Ley General de Sanidad, como el conjunto de los servicios de salud de la Administración General del Estado y de las comunidades autónomas. En él se integran todas las estructuras y servicios públicos al servicio de la salud, así como las funciones y prestaciones sanitarias que son responsabilidad de los poderes públicos, en orden a satisfacer el derecho a la protección de la salud reconocido por el artículo 43.1 de la Constitución Española.
+Sin perjuicio de este objetivo general, la ley contiene también normas aplicables a todo el sistema sanitario español, no sólo a la sanidad pública, en la medida en que, por imperativo del artículo 43.2 de la Constitución, incumbe también a los poderes públicos ejercer un control sobre la sanidad privada, en relación con las actividades de información, salud pública, formación e investigación y en materia de garantías de seguridad y de calidad.
+De acuerdo con el mencionado objetivo general, la ley se ocupa sucesivamente de concretarlo en el ámbito de las prestaciones sanitarias, la farmacia, los profesionales de la sanidad, la investigación sanitaria, los sistemas de información, la calidad del sistema sanitario, los planes integrales, las acciones conjuntas en salud pública y la participación de los ciudadanos y de los profesionales.
+III
+El capítulo I se ocupa de las prestaciones del Sistema Nacional de Salud, cuya garantía constituye uno de los principales objetivos de la ley, por lo que se les dedica una atención preferente. En primer lugar, se regula la ordenación de las prestaciones. Se define el catálogo de prestaciones como el conjunto de servicios preventivos, diagnósticos, terapéuticos, rehabilitadores y de promoción de la salud dirigidos a los ciudadanos, que comprende las prestaciones de salud pública, atención primaria y especializada, sociosanitaria, urgencias, farmacia, ortoprótesis, productos dietéticos y transporte sanitario. Este catálogo incorpora, además de las prestaciones contempladas por el Real Decreto 63/1995, de 20 de enero, de ordenación de prestaciones sanitarias del Sistema Nacional de Salud, las prestaciones de salud pública, como conjunto de iniciativas organizadas por la sociedad para preservar, proteger y promover la salud de la población, a través de actuaciones dirigidas, entre otras finalidades, a la información y vigilancia epidemiológica, la prevención de las enfermedades, la promoción de la seguridad alimentaria o la prevención y control de los efectos de los factores ambientales sobre la salud humana. En atención primaria, se incluye la atención comunitaria, la atención paliativa a enfermos terminales, la salud bucodental y la salud mental. En atención especializada, se potencia la actividad en consultas y hospitales de día, médicos y quirúrgicos, incluyéndose, además, la hospitalización a domicilio, la atención paliativa a enfermos terminales y la salud mental. Se definen las prestaciones de atención sociosanitaria en el ámbito estrictamente sanitario, que comprenderán los cuidados sanitarios de larga duración, la atención sanitaria a la convalecencia y la rehabilitación en pacientes con déficit funcional recuperable que se llevará a cabo en los niveles de atención que cada comunidad autónoma determine. La prestación farmacéutica incluye los medicamentos y productos sanitarios y el conjunto de actuaciones encaminadas a que los pacientes los reciban de forma adecuada a sus necesidades clínicas, en las dosis precisas según sus requerimientos individuales, durante el período de tiempo adecuado y al menor coste posible para ellos y la comunidad.
+Las prestaciones incluidas en el catálogo se hacen efectivas a través de un conjunto de técnicas, tecnologías y procedimientos que integran la cartera de servicios.
+La cartera de servicios del Sistema Nacional de Salud se aprobará por real decreto, previo informe del Consejo Interterritorial del Sistema Nacional de Salud. Las nuevas técnicas, tecnologías o procedimientos serán sometidos a evaluación previa a su incorporación a la cartera de servicios para su financiación pública. La actualización de la cartera de servicios se aprobará por orden del Ministro de Sanidad y Consumo, igualmente previo informe del Consejo Interterritorial.
+El Ministerio de Sanidad y Consumo, previo informe del Consejo Interterritorial del Sistema Nacional de Salud, autorizará el uso tutelado de determinadas técnicas, tecnologías o procedimientos, antes de decidir sobre la necesidad o conveniencia de su inclusión en la cartera. El uso tutelado se realizará, por su propio carácter, por tiempo limitado, en centros autorizados y de acuerdo con protocolos específicos.
+Por último, este capítulo regula un aspecto esencial de las prestaciones, cual es su garantía, aunque más acertado resulta referirse a las garantías de seguridad, calidad, accesibilidad, movilidad y tiempo en el acceso a las prestaciones. El reconocimiento de un derecho tiene el valor que le concede su garantía. En este sentido, la regulación de las garantías de las prestaciones constituye un aspecto esencial de su regulación. Y en este ámbito conviene destacar dos aspectos de los que se ocupa la ley: el primero es la previsión de la existencia de servicios de referencia para la atención de aquellas patologías que precisen de alta especialización profesional o elevada complejidad tecnológica, o cuando el número de casos a tratar no sea elevado y pueda resultar aconsejable, en consecuencia, la concentración de los recursos diagnósticos y terapéuticos; el segundo aspecto es la necesaria extensión de las garantías de seguridad y calidad de las prestaciones, más allá del ámbito estricto del Sistema Nacional de Salud, a la totalidad del sistema sanitario, incluidos, por tanto, los centros y servicios privados.
+IV
+En el capítulo II se aborda una reordenación del ejercicio de las competencias que con carácter exclusivo corresponden al Estado en materia de evaluación, registro, autorización, vigilancia y control de los medicamentos y de los productos sanitarios, en beneficio, también en este sector, de la consecución de una mayor calidad del sistema. Así, se incluyen las necesarias previsiones para garantizar una mayor coordinación, en el desarrollo de sus respectivos cometidos, del Ministerio de Sanidad y Consumo y de la que pasa a denominarse Agencia Española de Medicamentos y Productos Sanitarios (puesto que sus atribuciones también se extienden a dichos productos). A la agencia le compete, entre otros cometidos, la evaluación y, en su caso, autorización de los medicamentos y de los productos sanitarios, mientras que el ministerio, a través de la Dirección General de Farmacia y Productos Sanitarios, debe resolver sobre la financiación pública y el precio de los medicamentos y productos sanitarios previamente autorizados. Se modifican los órganos de dirección de la agencia, en cuyo Consejo Rector, de nueva creación, se da entrada a las comunidades autónomas, atendiendo a la legítima aspiración de éstas de participar, en alguna medida y sin detrimento del carácter exclusivo de la competencia estatal, en el proceso de toma de decisiones que pueden conducir a la inclusión de una especialidad farmacéutica o de un producto sanitario entre los de financiación pública, que corresponderá asumir a las haciendas públicas autonómicas.
+V
+El capítulo III está dedicado a los profesionales de la sanidad, que constituyen un elemento esencial en la modernización y calidad del sistema sanitario español en su conjunto. En este punto, la regulación contenida en la ley salvaguarda tanto las competencias autonómicas como el ámbito propio de otros sectores normativos, como son el educativo y el futuro estatuto marco del personal sanitario, que son la sede legal adecuada para el desarrollo de cuestiones que aquí se dejan esbozadas, pero que deben tenerse en cuenta por su innegable incidencia tanto en el funcionamiento cohesionado del Sistema Nacional de Salud como en el objetivo irrenunciable de alcanzar, también en materia de cualificación profesional, las cotas de calidad que demanda la sociedad.
+La ley contiene básicamente principios referidos a la planificación y formación de los profesionales de la sanidad, así como al desarrollo y a la carrera profesional y a la movilidad dentro del Sistema Nacional de Salud. Especial interés tiene la creación de una comisión de recursos humanos, en cuya composición participarán las Administraciones estatal y autonómicas y las correspondientes comisiones nacionales de las distintas especialidades sanitarias, que tendrá el cometido general de contribuir a la planificación y diseño de los programas de formación de los profesionales de la sanidad, en colaboración y sin menoscabo de las competencias de los órganos e instituciones responsables en cada caso de la formación pregraduada y postgraduada, así como de la continuada, y en la oferta de plazas dentro del sistema público.
+VI
+A la investigación se dedica el capítulo IV. Siendo ésta una materia en la que concurren las competencias estatales y autonómicas, las normas contenidas en este capítulo van dirigidas a ordenar, en el ámbito sanitario, la actividad investigadora de los órganos competentes de la Administración General del Estado. Se establece el principio de que la innovación de base científica es esencial para el desarrollo de los servicios sanitarios y, en definitiva, para la efectiva protección de la salud de los ciudadanos. La ley concreta las responsabilidades del Ministerio de Sanidad y Consumo en este aspecto y encomienda a ese departamento, en colaboración con las comunidades autónomas en el seno del Consejo Interterritorial del Sistema Nacional de Salud, la elaboración de la iniciativa sectorial de investigación en salud, que se incorporará al Plan Nacional de I+D+I, así como la designación de centros de investigación del Sistema Nacional de Salud.
+Para la cooperación entre los sectores público y privado en investigación sanitaria, se crea la Comisión Asesora de Investigación en Salud, integrada por representantes de la Administración General del Estado, de las comunidades autónomas y de la industria sanitaria, con la finalidad principal de ofrecer un cauce para la colaboración entre la Administración, la Universidad, los centros de investigación y la industria para aprovechar las sinergias en la investigación biomédica.
+La segunda parte de este capítulo se dedica al Instituto de Salud Carlos III, creado por la Ley General de Sanidad. El propósito principal de la ley en relación con este organismo público es precisar sus cometidos en materia de fomento de la investigación en salud, encomendándole, en el ámbito de las competencias del Estado, funciones de planificación de la investigación, vertebración de los recursos dedicados a ella, difusión y transferencia de resultados y desarrollo de programas de investigación, entre otras. Por otra parte, se establece el mandato de integrar a representantes de las comunidades autónomas en los órganos de gobierno del instituto y de las fundaciones vinculadas a éste. Uno de los mecanismos de que se le dota para cumplir su función de contribuir a vertebrar la investigación en el Sistema Nacional de Salud es la asociación con los centros nacionales y la acreditación de institutos y redes de investigación cooperativa.
+VII
+En el capítulo V se ocupa la ley de otro de los elementos esenciales para el funcionamiento cohesionado y con garantías de calidad del Sistema Nacional de Salud, que es la existencia de un verdadero sistema de información sanitaria. En este sentido, se encomienda al Ministerio de Sanidad y Consumo el establecimiento de un sistema de información sanitaria que garantice la disponibilidad de la información y la comunicación recíprocas entre la Administración sanitaria del Estado y la de las comunidades autónomas. Este sistema contendrá, entre otros, datos básicos sobre las prestaciones y la cartera de servicios en la atención sanitaria pública y privada, población protegida, recursos humanos y materiales y financiación. El sistema, que estará a disposición de los usuarios, se nutrirá de la información procedente de la propia Administración sanitaria del Estado y de la que suministren las comunidades autónomas, en las condiciones convenidas en el seno del Consejo Interterritorial del Sistema Nacional de Salud.
+Por otra parte, para facilitar el acceso de los ciudadanos a las prestaciones de la atención sanitaria del Sistema Nacional de Salud, se regula la tarjeta sanitaria individual, que, sin perjuicio de su gestión en su ámbito territorial por las comunidades autónomas, incluirá, de manera normalizada, los datos básicos de identificación del titular, su derecho a las prestaciones y la entidad responsable de la asistencia sanitaria. La ley establece que deberá garantizarse que los dispositivos que las tarjetas incorporen para almacenar la información básica y las aplicaciones que la traten permitan la lectura y comprobación de datos en todo el territorio nacional.
+En tercer lugar, dentro de este capítulo merece destacarse la creación del Instituto de Información Sanitaria, como órgano del Ministerio de Sanidad y Consumo al que se encomienda el desarrollo de las actividades necesarias para el funcionamiento del sistema de información sanitaria.
+VIII
+Aunque el objetivo de la calidad del Sistema Nacional de Salud preside buena parte del articulado de la ley, se le dedica específicamente el capítulo VI, en el que se establece el principio de que la mejora de la calidad del sistema sanitario en su conjunto debe presidir las actuaciones de las instituciones sanitarias públicas y privadas. Y se concretan los elementos que configuran la que se denomina infraestructura de la calidad, que comprende normas de calidad y seguridad, indicadores, guías de práctica clínica y registros de buenas prácticas y de acontecimientos adversos.
+Dentro de la Administración General del Estado, se encomienda a la Agencia de Calidad del Sistema Nacional de Salud, órgano dependiente del Ministerio de Sanidad y Consumo, la elaboración de los elementos de la infraestructura de la calidad, sin perjuicio de las actuaciones en este orden de las comunidades autónomas. Estos elementos estarán a disposición de las propias comunidades y de los centros sanitarios públicos y privados, con la finalidad de contribuir a la mejora de la calidad de los servicios que prestan a los pacientes.
+En este capítulo se prevé también la elaboración periódica de planes de calidad del Sistema Nacional de Salud en el seno del Consejo Interterritorial del Sistema Nacional de Salud, de cuyo cumplimiento dará cuenta el Ministro de Sanidad y Consumo en el Senado, como cámara de representación territorial.
+Asimismo se encomienda al Ministerio de Sanidad y Consumo el fomento de la auditoría externa periódica de los centros y servicios sanitarios, en garantía de su seguridad y de la calidad de dichos servicios.
+Finalmente, el Observatorio del Sistema Nacional de Salud, órgano igualmente integrado en el Ministerio de Sanidad y Consumo, proporcionará un análisis permanente del sistema, mediante estudios comparados de los servicios de salud de las comunidades autónomas en el ámbito de la organización, de la provisión de servicios, de la gestión sanitaria y de los resultados.
+IX
+El capítulo VII prevé la elaboración conjunta de planes integrales de salud por parte del Ministerio de Sanidad y Consumo y los órganos competentes de las comunidades autónomas, en relación con las patologías prevalentes. Los planes integrales establecerán criterios sobre la forma de organizar servicios para atender las patologías de manera integral en el conjunto del Sistema Nacional de Salud, y determinarán estándares mínimos y modelos básicos de atención, especificando actuaciones de efectividad reconocida, herramientas de evaluación e indicadores de actividad.
+X
+El capítulo VIII aborda las actuaciones coordinadas del Estado y de las comunidades autónomas en materia de salud pública y de seguridad alimentaria, cuya declaración corresponderá, respectivamente, al Ministerio de Sanidad y Consumo, previo informe del Consejo Interterritorial del Sistema Nacional de Salud, y a la Agencia Española de Seguridad Alimentaria, salvo en casos de urgente necesidad. Estas actuaciones se encuadrarán necesariamente en alguno de los supuestos que se prevén, entre ellos, la necesidad de dar respuesta a situaciones de especial riesgo o alarma para la salud pública y la ejecución de programas derivados de exigencias normativas procedentes de la Unión Europea o de convenios internacionales.
+También se contempla la elaboración, por parte del Estado y de las comunidades autónomas, a través del Consejo Interterritorial del Sistema Nacional de Salud, de un plan de cooperación y armonización de actuaciones en el ámbito de la salud pública, dirigido a promover actividades que complementen las realizadas por las distintas Administraciones públicas.
+XI
+En el capítulo IX se regula la participación de los ciudadanos y de los profesionales en el Sistema Nacional de Salud, que se articula principalmente a través del Consejo de Participación Social del Sistema Nacional de Salud, dependiente del Ministerio de Sanidad y Consumo. Este órgano, que pretende ofrecer un cauce de comunicación permanente entre las Administraciones públicas sanitarias, los profesionales y las sociedades científicas, las organizaciones sindicales y empresariales y los consumidores y usuarios, tendrá tres formas de organización, pudiendo actuar como Comité Consultivo, como Foro Abierto o como Foro Virtual.
+XII
+El Consejo Interterritorial del Sistema Nacional de Salud, creado por la Ley General de Sanidad, se regula en el capítulo X, con lo que se deroga el artículo 47 de la mencionada ley. El Consejo, órgano de cooperación entre el Estado y las comunidades autónomas, tiene encomendada la misión de promover la cohesión del sistema. En este capítulo se establece su composición y se enumeran sus funciones, si bien, en cuanto a estas últimas, la mayor parte de ellas se encuentran diseminadas a lo largo del articulado de la ley y en otras disposiciones legales y reglamentarias. Como novedades destacables cabe citar la previsión de que, en el seno del Consejo, se adopten acuerdos de cooperación sanitaria en diversos ámbitos, así como la creación de un Consejo de Directores del Consejo, en el que se integrarán los Directores de los Servicios de Salud, que tendrá por cometido principal el apoyo al Consejo y la discusión previa de los asuntos que deban someterse a su consideración.
+XIII
+El capítulo XI y último regula la Alta Inspección en términos análogos a los contenidos en el artículo 43 de la Ley General de Sanidad, que se deroga, si bien lleva a cabo una mejor sistematización de sus funciones, incorporando algunas inequívocamente propias de esta función que corresponde al Estado y que no se recogían en aquella ley.
+XIV
+Las disposiciones de la parte final se limitan a referir a la Administración sanitaria del Estado, respecto de las Ciudades de Ceuta y Melilla, las competencias que a lo largo de la ley se mencionan como propias de los órganos correspondientes de las comunidades autónomas ; a salvaguardar la vigencia de disposiciones específicas referentes a la asistencia sanitaria en el extranjero y a las competencias de otras Administraciones públicas en relación con las entidades sanitarias no integradas en el Sistema Nacional de Salud ; a prever la vigencia transitoria del Real Decreto 63/1995, de 20 de enero, de ordenación de prestaciones sanitarias del Sistema Nacional de Salud, y a determinar el título competencial y la entrada en vigor de la ley.
+
+## CAPÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+El objeto de esta ley es establecer el marco legal para las acciones de coordinación y cooperación de las Administraciones públicas sanitarias, en el ejercicio de sus respectivas competencias, de modo que se garantice la equidad, la calidad y la participación social en el Sistema Nacional de Salud, así como la colaboración activa de éste en la reducción de las desigualdades en salud.
+Lo dispuesto en esta ley será de aplicación a los servicios sanitarios de financiación pública y a los privados en los términos previstos en el artículo 6 y en las disposiciones adicionales tercera y cuarta.
+
+### Artículo 2
+
+Artículo 2. Principios generales.
+Son principios que informan esta ley:
+a) La prestación de los servicios a los usuarios del Sistema Nacional de Salud en condiciones de igualdad efectiva y calidad, evitando especialmente toda discriminación entre mujeres y hombres en las actuaciones sanitarias.
+b) El aseguramiento universal y público por parte del Estado.
+c) La coordinación y la cooperación de las Administraciones públicas sanitarias para la superación de las desigualdades en salud, en los términos previstos en esta ley y en la Ley General de Salud Pública.
+d) La prestación de una atención integral a la salud, comprensiva tanto de su promoción como de la prevención de enfermedades, de la asistencia y de la rehabilitación, procurando un alto nivel de calidad, en los términos previstos en esta ley y en la Ley General de Salud Pública.
+e) La financiación pública del Sistema Nacional de Salud, de acuerdo con el vigente sistema de financiación autonómica.
+f) La igualdad de oportunidades y la libre circulación de los profesionales en el conjunto del Sistema Nacional de Salud.
+g) La colaboración entre los servicios sanitarios públicos y privados en la prestación de servicios a los usuarios del Sistema Nacional de Salud.
+h) La colaboración de las oficinas de farmacia con el Sistema Nacional de Salud en el desempeño de la prestación farmacéutica.
+Se modifican las letras c) y d) por la dsposición final 2.1 y 2 de la Ley 33/2011, de 4 de octubre. Ref. BOE-A-2011-15623.
+ Se modifica la letra a) por la disposición adicional 9.1 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+
+### Artículo 3
+
+Artículo 3. Titulares del derecho a la protección a la salud y a la atención sanitaria.
+1. Son titulares del derecho a la protección de la salud y a la atención sanitaria todas las personas con nacionalidad española y las personas extranjeras que tengan establecida su residencia en el territorio español.
+Sin perjuicio de lo anterior, las personas con derecho a la asistencia sanitaria en España en aplicación de los reglamentos comunitarios de coordinación de sistemas de Seguridad Social o de los convenios bilaterales que comprendan la prestación de asistencia sanitaria, tendrán acceso a la misma, siempre que residan en territorio español o durante sus desplazamientos temporales a España, en la forma, extensión y condiciones establecidos en las disposiciones comunitarias o bilaterales indicadas.
+2. Para hacer efectivo el derecho al que se refiere el apartado 1 con cargo a los fondos públicos de las administraciones competentes, las personas titulares de los citados derechos deberán encontrarse en alguno de los siguientes supuestos:
+a) Tener nacionalidad española y residencia habitual en el territorio español.
+b) Tener reconocido su derecho a la asistencia sanitaria en España por cualquier otro título jurídico, aun no teniendo su residencia habitual en territorio español, siempre que no exista un tercero obligado al pago de dicha asistencia.
+c) Ser persona extranjera y con residencia legal y habitual en el territorio español y no tener la obligación de acreditar la cobertura obligatoria de la prestación sanitaria por otra vía.
+3. Aquellas personas que de acuerdo con el apartado 2 no tengan derecho a la asistencia sanitaria con cargo a fondos públicos, podrán obtener dicha prestación mediante el pago de la correspondiente contraprestación o cuota derivada de la suscripción de un convenio especial.
+4. Lo dispuesto en los apartados anteriores de este artículo no modifica el régimen de asistencia sanitaria de las personas titulares o beneficiarias de los regímenes especiales gestionados por la Mutualidad General de Funcionarios Civiles del Estado, la Mutualidad General Judicial y el Instituto Social de las Fuerzas Armadas, que mantendrán su régimen jurídico específico.
+Se modifica por el art. 1.1 del Real Decreto-ley 7/2018, de 27 de julio. Ref. BOE-A-2018-10752#ap
+ Se modifica el apartado 6, con efectos de 1 de enero de 2017, por la disposición final 8 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+ Se declara inconstitucional y nulo el inciso destacado, en la redacción dada por el art. 1.1 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403#a1, por Sentencia del TC 139/2016, de 21 de julio de 2016. Ref. BOE-A-2016-7904.
+ Se modifica el apartado 2.d), con efectos de 1 de enero de 2016, por la disposición final 5 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
+ Se modifica el apartado 2.d) por la disposición final 11 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se modifica el apartado 2.d) por la disposición final 28 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se modifica por el art. 1.1 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403#a1.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 116, de 15 de mayo de 2012. Ref. BOE-A-2012-6364.
+ Se modifica el apartado 2 por el art. 9 de la Ley 26/2011, de 1 de agosto. Ref. BOE-A-2011-13241.
+
+### Artículo 3 bis
+
+Artículo 3 bis. Reconocimiento del derecho a la protección de la salud y a la atención sanitaria con cargo a fondos públicos.
+1. El reconocimiento y control del derecho a la protección de la salud y a la atención sanitaria con cargo a fondos públicos corresponderá al Ministerio de Sanidad, Consumo y Bienestar Social con la colaboración de las entidades y administraciones públicas imprescindibles para comprobar la concurrencia de los requisitos a los que se refiere el artículo 3.2, en la forma en que se determine reglamentariamente.
+Sin perjuicio de lo dispuesto en el párrafo anterior, la gestión de los derechos de asistencia sanitaria derivados de las normas internacionales de coordinación de los sistemas de seguridad social, así como las demás funciones atribuidas por dichas normas a las instituciones competentes y organismos de enlace, corresponderán al Instituto Nacional de la Seguridad Social.
+2. Una vez reconocido el derecho a la protección de la salud y a la atención sanitaria con cargo a fondos públicos, éste se hará efectivo por las administraciones sanitarias competentes, que facilitarán el acceso de los ciudadanos a las prestaciones de asistencia sanitaria mediante la expedición de la tarjeta sanitaria individual.
+3. Los órganos competentes en materia de extranjería podrán comunicar al Ministerio de Sanidad, Consumo y Bienestar Social y a las entidades y administraciones públicas a las que se refiere el apartado 1, sin contar con el consentimiento del interesado, los datos que resulten imprescindibles para realizar la comprobación necesaria del reconocimiento y control del derecho a la protección de la salud y a la atención sanitaria con cargo a fondos públicos.
+Del mismo modo, el Ministerio de Sanidad, Consumo y Bienestar Social y las entidades y administraciones públicas a las que se refiere el apartado 1, podrán tratar los datos obrantes en los ficheros de las entidades gestoras, servicios comunes y órganos de las administraciones públicas competentes que resulten imprescindibles para verificar la concurrencia del reconocimiento y control del citado derecho. La mencionada cesión de estos datos no precisará del consentimiento del interesado.
+El Ministerio de Sanidad, Consumo y Bienestar Social y las entidades y administraciones públicas a las que se refiere el apartado 1, tratarán la información a la que se refieren los dos párrafos anteriores con la finalidad de comunicar a las administraciones sanitarias competentes los datos necesarios para verificar en cada momento que se mantienen las condiciones y los requisitos exigidos para el reconocimiento del derecho a la protección de la salud y atención sanitaria con cargo a fondos públicos, sin precisar para ello del consentimiento del interesado.
+Cualquier modificación o variación que puedan comunicar el Ministerio de Sanidad, Consumo y Bienestar Social y las entidades y administraciones públicas a las que se refiere el apartado 1, deberá surtir los efectos que procedan en la tarjeta sanitaria individual.
+Se modifica por el art. 1.2 del Real Decreto-ley 7/2018, de 27 de julio. Ref. BOE-A-2018-10752#ap
+ Se añade por el art. 1.2 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 116, de 15 de mayo de 2012. Ref. BOE-A-2012-6364.
+
+### Artículo 3 ter
+
+Artículo 3 ter. Protección de la salud y atención sanitaria a las personas extranjeras que encontrándose en España no tengan su residencia legal en el territorio español.
+1. Las personas extranjeras no registradas ni autorizadas como residentes en España tienen derecho a la protección de la salud y a la atención sanitaria en las mismas condiciones que las personas con nacionalidad española, tal y como se establece en el artículo 3.1.
+2. La citada asistencia será con cargo a los fondos públicos de las administraciones competentes siempre que dichas personas cumplan todos los siguientes requisitos:
+a) No tener la obligación de acreditar la cobertura obligatoria de la prestación sanitaria por otra vía, en virtud de lo dispuesto en el derecho de la Unión Europea, los convenios bilaterales y demás normativa aplicable.
+b) No poder exportar el derecho de cobertura sanitaria desde su país de origen o procedencia.
+c) No existir un tercero obligado al pago.
+2. La asistencia sanitaria a la que se refiere este artículo no genera un derecho a la cobertura de la asistencia sanitaria fuera del territorio español financiada con cargo a los fondos públicos de las administraciones competentes, sin perjuicio de lo dispuesto en las normas internacionales en materia de seguridad social aplicables.
+3. Las comunidades autónomas, en el ámbito de sus competencias, fijarán el procedimiento para la solicitud y expedición del documento certificativo que acredite a las personas extranjeras para poder recibir la prestación asistencial a la que se refiere este artículo.
+En aquellos casos en que las personas extranjeras se encuentren en situación de estancia temporal de acuerdo con lo previsto en la Ley Orgánica 4/2000, de 11 de enero, sobre Derechos y Libertades de los Extranjeros en España y su Integración Social, será preceptiva la emisión de un informe previo favorable de los servicios sociales competentes de las comunidades autónomas.
+4. Las comunidades autónomas deberán comunicar al Ministerio de Sanidad, Consumo y Bienestar Social, mediante el procedimiento que se determine, los documentos certificativos que se expidan en aplicación de lo previsto en este artículo.
+Se modifica por el art. 1.3 del Real Decreto-ley 7/2018, de 27 de julio. Ref. BOE-A-2018-10752#ap
+ Se añade por el art. 1.3 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403.
+
+### Artículo 4
+
+Artículo 4. Derechos de los ciudadanos en el conjunto del Sistema Nacional de Salud.
+En los términos de esta ley, los ciudadanos tendrán los siguientes derechos en el conjunto del Sistema Nacional de Salud:
+a) A disponer de una segunda opinión facultativa sobre su proceso, en los términos previstos en el artículo 28.1.
+b) A recibir asistencia sanitaria en su comunidad autónoma de residencia en un tiempo máximo, en los términos del artículo 25.
+c) A recibir, por parte del servicio de salud de la comunidad autónoma en la que se encuentre desplazado, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías que los ciudadanos residentes en esa comunidad autónoma.
+
+### Artículo 5
+
+Artículo 5. Ámbito de aplicación.
+Las acciones a las que se refiere el artículo 1 comprenderán:
+a) Las prestaciones sanitarias.
+b) La farmacia.
+c) Los profesionales.
+d) La investigación.
+e) Los sistemas de información.
+f) La calidad del sistema sanitario.
+g) Los planes integrales.
+h) La salud pública.
+i) La participación de ciudadanos y profesionales.
+El Consejo Interterritorial y la Alta Inspección realizarán el seguimiento de estas acciones.
+
+### Artículo 6
+
+Artículo 6. Acciones en relación con las entidades sanitarias no integradas en el Sistema Nacional de Salud.
+De acuerdo con el artículo 43.2 de la Constitución, el Ministerio de Sanidad y Consumo y los órganos competentes de las comunidades autónomas, en el ámbito de las competencias que les corresponden, ejercerán un control de las entidades sanitarias no integradas en el Sistema Nacional de Salud, en relación con las actividades de salud pública y en materia de garantías de información, seguridad y calidad, y requerirán de ellas la información necesaria para el conocimiento de su estructura y funcionamiento. Asimismo podrán colaborar con dichas entidades en programas de formación de profesionales sanitarios y de investigación sanitaria.
+
+## CAPÍTULO I
+
+De las prestaciones
+
+## Sección 1
+
+Sección 1.ª Ordenación de prestaciones
+
+### Artículo 7
+
+Artículo 7. Catálogo de prestaciones del Sistema Nacional de Salud.
+1. El catálogo de prestaciones del Sistema Nacional de Salud tiene por objeto garantizar las condiciones básicas y comunes para una atención integral, continuada y en el nivel adecuado de atención. Se consideran prestaciones de atención sanitaria del Sistema Nacional de Salud los servicios o conjunto de servicios preventivos, diagnósticos, terapéuticos, rehabilitadores y de promoción y mantenimiento de la salud dirigidos a los ciudadanos.
+El catálogo comprenderá las prestaciones correspondientes a salud pública, atención primaria, atención especializada, atención sociosanitaria, atención de urgencias, la prestación farmacéutica, la ortoprotésica, de productos dietéticos y de transporte sanitario.
+2. Las personas que reciban estas prestaciones tendrán derecho a la información y documentación sanitaria y asistencial de acuerdo con la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
+
+### Artículo 8
+
+Artículo 8. Cartera común de servicios del Sistema Nacional de Salud.
+1. La cartera común de servicios del Sistema Nacional de Salud es el conjunto de técnicas, tecnologías o procedimientos, entendiendo por tales cada uno de los métodos, actividades y recursos basados en el conocimiento y experimentación científica, mediante los que se hacen efectivas las prestaciones sanitarias.
+2. La cartera común de servicios del Sistema Nacional de Salud se articulará en torno a las siguientes modalidades:
+a) Cartera común básica de servicios asistenciales del Sistema Nacional de Salud a la que se refiere el artículo 8 bis.
+b) Cartera común suplementaria del Sistema Nacional de Salud a la que se refiere el artículo 8 ter.
+c) Cartera común de servicios accesorios del Sistema Nacional de Salud a la que se refiere el artículo 8 quáter.
+3. En el seno del Consejo Interterritorial del Sistema Nacional de Salud se acordará la cartera común de servicios del Sistema Nacional de Salud, que se aprobará mediante Real Decreto.
+4. El Ministerio de Sanidad, Servicios Sociales e Igualdad realizará anualmente una evaluación de los costes de aplicación de la cartera común de servicios del Sistema Nacional de Salud.
+Se modifica por el art. 2.1 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403.
+
+### Artículo 8 bis
+
+Artículo 8 bis. Cartera común básica de servicios asistenciales del Sistema Nacional de Salud.
+1. La cartera común básica de servicios asistenciales del Sistema Nacional de Salud comprende todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios o sociosanitarios, así como el transporte sanitario urgente, cubiertos de forma completa por financiación pública.
+2. La prestación de estos servicios se hará de forma que se garantice la continuidad asistencial, bajo un enfoque multidisciplinar, centrado en el paciente, garantizando la máxima calidad y seguridad en su prestación, así como las condiciones de accesibilidad y equidad para toda la población cubierta.
+Se añade por el art. 2.2 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403.
+
+### Artículo 8 ter
+
+Artículo 8 ter. Cartera común suplementaria del Sistema Nacional de Salud.
+1. La cartera común suplementaria del Sistema Nacional de Salud incluye todas aquellas prestaciones cuya provisión se realiza mediante dispensación ambulatoria y están sujetas a aportación del usuario.
+2. Esta cartera común suplementaria del Sistema Nacional de Salud incluirá las siguientes prestaciones:
+a) Prestación farmacéutica.
+b) Prestación ortoprotésica.
+c) Prestación con productos dietéticos.
+3. También gozará de esta consideración el transporte sanitario no urgente, sujeto a prescripción facultativa, por razones clínicas y con un nivel de aportación del usuario acorde al determinado para la prestación farmacéutica.
+4. Para las prestaciones previstas en el apartado 2 de este artículo, a excepción de la prestación farmacéutica que se regirá por su normativa, se aprobarán por orden de la persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad, previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud, a propuesta de la Comisión de prestaciones, aseguramiento y financiación, la actualización del catálogo de prestaciones, los importes máximos de financiación y los coeficientes de corrección a aplicar para determinar la facturación definitiva a los servicios autonómicos de salud por parte de los proveedores, que tendrá la consideración de precio final.
+5. El porcentaje de aportación del usuario se regirá por las mismas normas que regulan la prestación farmacéutica, tomando como base de cálculo para ello el precio final del producto y sin que se aplique el mismo límite de cuantía a esta aportación.
+Se añade por el art. 2.3 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 116, de 15 de mayo de 2012. Ref. BOE-A-2012-6364.
+
+### Artículo 8 quáter
+
+Artículo 8 quáter. Cartera común de servicios accesorios del Sistema Nacional de Salud.
+1. La cartera común de servicios accesorios del Sistema Nacional de Salud incluye todas aquellas actividades, servicios o técnicas, sin carácter de prestación, que no se consideran esenciales y/o que son coadyuvantes o de apoyo para la mejora de una patología de carácter crónico, estando sujetas a aportación y/o reembolso por parte del usuario.
+2. Por orden de la persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad, previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud, a propuesta de la Comisión de prestaciones, aseguramiento y financiación, se aprobará la inclusión de servicios accesorios, los importes máximos de financiación y los coeficientes de corrección a aplicar para determinar la facturación definitiva a los servicios autonómicos de salud por parte de los proveedores, así como las modalidades de aportación o reembolso aplicables en cada caso.
+Las actividades, servicios o técnicas incluidas en esta modalidad de cartera se harán efectivas una vez se aprueben por orden de la persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad.
+3. La aportación del usuario o, en su caso, el reembolso, se regirá por las mismas normas que regulan la prestación farmacéutica, tomando como referencia el precio final de facturación que se decida para el Sistema Nacional de Salud.
+Se añade por el art. 2.4 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 116, de 15 de mayo de 2012. Ref. BOE-A-2012-6364.
+
+### Artículo 8 quinquies
+
+Artículo 8 quinquies. Cartera de servicios complementaria de las comunidades autónomas.
+1. Las comunidades autónomas, en el ámbito de sus competencias, podrán aprobar sus respectivas carteras de servicios que incluirán, cuando menos, la cartera común de servicios del Sistema Nacional de Salud en sus modalidades básica de servicios asistenciales, suplementaria y de servicios accesorios, garantizándose a todos los usuarios del mismo.
+2. Las comunidades autónomas podrán incorporar en sus carteras de servicios una técnica, tecnología o procedimiento no contemplado en la cartera común de servicios del Sistema Nacional de Salud, para lo cual establecerán los recursos adicionales necesarios.
+3. Las Comunidades Autónomas deberán destinar los recursos económicos necesarios para asegurar la financiación de la cartera común de servicios, siendo preceptiva, para la aprobación de la cartera de servicios complementaria de una Comunidad Autónoma, la garantía previa de suficiencia financiera de la misma, en el marco del cumplimiento de los criterios de estabilidad presupuestaria.
+Las Comunidades Autónomas que se hayan adherido al instrumento de apoyo a la sostenibilidad del gasto farmacéutico y sanitario deberán destinar los recursos económicos necesarios para asegurar la financiación de la cartera común de servicios, siendo preceptiva, para la aprobación de la cartera de servicios complementaria de una Comunidad Autónoma, que concurra la circunstancia de que la variación interanual al cierre del ejercicio de los indicadores de gasto farmacéutico y de productos sanitarios sin receta médica u orden de dispensación no superen la tasa de referencia de crecimiento del Producto Interior Bruto de medio plazo de la economía española prevista en el artículo 12.3 de la citada Ley Orgánica 2/2012, de 27 de abril.
+4. En todo caso, estos servicios o prestaciones complementarios deberán reunir los mismos requisitos establecidos para la incorporación de nuevas técnicas, tecnologías o procedimientos a la cartera común de servicios, y no estarán incluidos en la financiación general de las prestaciones del Sistema Nacional de Salud.
+Con anterioridad a su incorporación, la comunidad autónoma concernida deberá informar, de forma motivada, al Consejo Interterritorial del Sistema Nacional de Salud.
+5. El Consejo Interterritorial del Sistema Nacional de Salud podrá emitir recomendaciones sobre el establecimiento por parte de las comunidades autónomas de prestaciones sanitarias complementarias a las prestaciones comunes del Sistema Nacional de Salud, de acuerdo con lo establecido en el artículo 71.1.b) de esta ley.
+6. Las comunidades autónomas pondrán en conocimiento del Ministerio de Sanidad, Servicios Sociales e Igualdad los servicios complementarios no contemplados en la cartera común de servicios del Sistema Nacional de Salud tras su incorporación efectiva a su cartera de servicios autonómica, los cuales se incluirán en el sistema de información correspondiente.
+7. Las comunidades autónomas asumirán, con cargo a sus propios presupuestos, todos los costes de aplicación de la cartera de servicios complementaria a las personas que tengan la condición de asegurado o de beneficiario del mismo.
+Se modifica el apartado 3 por la disposición final 4 de la Ley Orgánica 6/2015, de 12 de junio. Ref. BOE-A-2015-6517.
+ Se añade por el art. 2.5 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 116, de 15 de mayo de 2012. Ref. BOE-A-2012-6364.
+
+### Artículo 9
+
+Artículo 9. Personal y centros autorizados.
+Las prestaciones sanitarias del Sistema Nacional de Salud únicamente se facilitarán por el personal legalmente habilitado, en centros y servicios, propios o concertados, del Sistema Nacional de Salud, salvo en situaciones de riesgo vital, cuando se justifique que no pudieron ser utilizados los medios de aquél, sin perjuicio de lo establecido en los convenios internacionales en los que España sea parte.
+
+### Artículo 10
+
+Artículo 10. Financiación.
+1. Las prestaciones que establece esta ley son responsabilidad financiera de las comunidades autónomas de conformidad con los acuerdos de transferencias y el actual sistema de financiación autonómica, sin perjuicio de la existencia de un tercero obligado al pago. Las comunidades autónomas deberán destinar a la financiación de dichas prestaciones los mínimos previstos en la Ley 21/2001, de 27 de diciembre. Los sistemas de garantías que prevé esta ley son asimismo responsabilidad financiera de las comunidades autónomas.
+2. La suficiencia para la financiación de las prestaciones y de las garantías establecidas en esta ley viene determinada por los recursos asignados a las comunidades autónomas conforme a lo establecido en la mencionada Ley 21/2001, de 27 de diciembre, y de acuerdo con el principio de lealtad institucional, en los términos del artículo 2.1.e) de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas.
+3. De acuerdo con el apartado anterior, la inclusión de una nueva prestación en el catálogo de prestaciones del Sistema Nacional de Salud se acompañará de una memoria económica que contenga la valoración del impacto positivo o negativo que pueda suponer. Dicha memoria se elevará al Consejo de Política Fiscal y Financiera para su análisis en el contexto de dicho principio de lealtad institucional.
+
+### Artículo 11
+
+Artículo 11. Prestaciones de salud pública.
+1. La prestación de salud pública es el conjunto de iniciativas organizadas por las Administraciones públicas para preservar, proteger y promover la salud de la población. Es una combinación de ciencias, habilidades y actitudes dirigidas al mantenimiento y mejora de la salud de todas las personas a través de acciones colectivas o sociales.
+2. La prestación de salud pública comprende las siguientes actuaciones:
+a) La información y la vigilancia en salud pública y los sistemas de alerta epidemiológica y respuesta rápida ante emergencias en salud pública.
+b) La defensa de los fines y objetivos de la salud pública que es la combinación de acciones individuales y sociales destinadas a obtener compromisos políticos, apoyo para las políticas de salud, aceptación social y respaldo para unos objetivos o programas de salud determinados.
+c) La promoción de la salud, a través de programas intersectoriales y transversales.
+d) La prevención de las enfermedades, discapacidades y lesiones.
+e) La protección de la salud, evitando los efectos negativos que diversos elementos del medio pueden tener sobre la salud y el bienestar de las personas.
+f) La protección y promoción de la sanidad ambiental.
+g) La protección y promoción de la seguridad alimentaria.
+h) La protección y promoción de la salud laboral.
+i) La evaluación de impacto en salud.
+j) La vigilancia y control de los posibles riesgos para la salud derivados de la importación, exportación o tránsito de bienes y del tránsito internacional de viajeros.
+k) La prevención y detección precoz de las enfermedades raras, así como el apoyo a las personas que las presentan y a sus familias.
+La prestación de salud pública incluirá, asimismo, todas aquellas actuaciones singulares o medidas especiales que, en materia de salud pública, resulte preciso adoptar por las autoridades sanitarias de las distintas Administraciones públicas, dentro del ámbito de sus competencias, cuando circunstancias sanitarias de carácter extraordinario o situaciones de especial urgencia o necesidad así lo exijan y la evidencia científica disponible las justifique.
+3. Las prestaciones de salud pública se ejercerán con un carácter de integralidad, a partir de las estructuras de salud pública de las Administraciones y de la infraestructura de atención primaria del Sistema Nacional de Salud.
+Se modifica el apartado 2 por la disposición final 2.3 de la Ley 33/2011, de 4 de octubre. Ref. BOE-A-2011-15623.
+ Se modifica el apartado 2.g) por la disposición adicional 9.2 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+
+### Artículo 12
+
+Artículo 12. Prestación de atención primaria.
+1. La atención primaria es el nivel básico e inicial de atención, que garantiza la globalidad y continuidad de la atención a lo largo de toda la vida del paciente, actuando como gestor y coordinador de casos y regulador de flujos. Comprenderá actividades de promoción de la salud, educación sanitaria, prevención de la enfermedad, asistencia sanitaria, mantenimiento y recuperación de la salud, así como la rehabilitación física y el trabajo social.
+2. La atención primaria comprenderá:
+a) La asistencia sanitaria a demanda, programada y urgente tanto en la consulta como en el domicilio del enfermo.
+b) La indicación o prescripción y la realización, en su caso, de procedimientos diagnósticos y terapéuticos.
+c) Las actividades en materia de prevención, promoción de la salud, atención familiar y atención comunitaria.
+d) Las actividades de información y vigilancia en la protección de la salud.
+e) La rehabilitación básica.
+f) Las atenciones y servicios específicos relativos a las mujeres, que específicamente incluirán la detección y tratamiento de las situaciones de violencia de género; la infancia; la adolescencia; los adultos; la tercera edad; los grupos de riesgo y los enfermos crónicos.
+g) La atención paliativa a enfermos terminales.
+h) La atención a la salud mental, en coordinación con los servicios de atención especializada.
+i) La atención a la salud bucodental.
+Se modifica el apartado 2.f) por la disposición adicional 9.3 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+
+### Artículo 13
+
+Artículo 13. Prestación de atención especializada.
+1. La atención especializada comprende actividades asistenciales, diagnósticas, terapéuticas y de rehabilitación y cuidados, así como aquéllas de promoción de la salud, educación sanitaria y prevención de la enfermedad, cuya naturaleza aconseja que se realicen en este nivel. La atención especializada garantizará la continuidad de la atención integral al paciente, una vez superadas las posibilidades de la atención primaria y hasta que aquél pueda reintegrarse en dicho nivel.
+2. La atención sanitaria especializada, en coordinación con la atención primaria, comprenderá:
+a) La asistencia especializada en consultas.
+b) La asistencia especializada en hospital de día, médico y quirúrgico.
+c) La hospitalización en régimen de internamiento.
+d) El apoyo a la atención primaria en el alta hospitalaria precoz y, en su caso, la hospitalización a domicilio.
+e) La indicación o prescripción, y la realización, en su caso, de procedimientos diagnósticos y terapéuticos.
+f) La atención paliativa a enfermos terminales.
+g) La atención a la salud mental.
+h) La rehabilitación en pacientes con déficit funcional encaminada a facilitarles, mantenerles o devolverles el mayor grado de capacidad funcional e independencia posible, con el fin de mantener su máxima autonomía, mejorar la calidad de vida y reintegrarles en su medio habitual.
+3. La atención especializada se prestará, siempre que las condiciones del paciente lo permitan, en consultas externas y en hospital de día.
+Se modifica el apartado 2 por la disposición final 1.1 de la Ley 3/2024, de 30 de octubre. Ref. BOE-A-2024-22438#df
+
+### Artículo 14
+
+Artículo 14. Prestación de atención sociosanitaria.
+1. La atención sociosanitaria comprende el conjunto de cuidados destinados a aquellas personas con enfermedades que por su evolución generan dependencia o discapacidad, generalmente pacientes crónicos, que por sus especiales características pueden beneficiarse de la actuación simultánea y sinérgica de los servicios sanitarios y sociales, para aumentar su autonomía, paliar sus limitaciones o sufrimientos y facilitar su reinserción social.
+2. En el ámbito sanitario, la atención sociosanitaria se llevará a cabo en los niveles de atención que cada comunidad autónoma y el Instituto Nacional de Gestión Sanitaria determinen, y en cualquier caso comprenderá:
+a) Los cuidados sanitarios de larga duración.
+b) La atención sanitaria a la convalecencia.
+c) La rehabilitación en pacientes con déficit funcional encaminada a facilitarles, mantenerles o devolverles el mayor grado de capacidad funcional e independencia posible, con el fin de mantener su máxima autonomía, mejorar la calidad de vida y reintegrarles en su medio habitual.
+d) Los cuidados intermedios a aquellas personas que la evolución de su enfermedad les ha generado una situación de gran dependencia, como las enfermedades crónicas complejas, las enfermedades raras, los procesos y las enfermedades de alta complejidad y de curso irreversible, en particular aquellas a las que se refiere la Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta complejidad y curso irreversible, entre otras.
+3. La continuidad del servicio será garantizada por los servicios sanitarios y sociales a través de la adecuada coordinación entre las Administraciones públicas correspondientes. La adecuada coordinación podrá ser reforzada mediante la constitución de órganos de coordinación sociosanitaria en las comunidades autónomas y ciudades de Ceuta y de Melilla que faciliten la cooperación entre el ámbito social y sanitario, para responder de forma integral, coordinada y eficiente a las necesidades de atención social y sanitaria de las personas con enfermedades que por su evolución generan dependencia y discapacidad, como las enfermedades crónicas complejas, de salud mental, enfermedades raras y los procesos y las enfermedades de alta complejidad y de curso irreversible, en particular aquellas a las que se refiere la Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta complejidad y curso irreversible, entre otras, y que por sus especiales características puedan beneficiarse de la actuación simultánea y sinérgica de los servicios sanitarios y sociales.
+Se modifica por la disposición final 1.2 de la Ley 3/2024, de 30 de octubre. Ref. BOE-A-2024-22438#df
+
+### Artículo 15
+
+Artículo 15. Prestación de atención de urgencia.
+La atención de urgencia se presta al paciente en los casos en que su situación clínica obliga a una atención sanitaria inmediata. Se dispensará tanto en centros sanitarios como fuera de ellos, incluyendo el domicilio del paciente, durante las 24 horas del día, mediante la atención médica y de enfermería.
+
+### Artículo 16
+
+Artículo 16. Prestación farmacéutica.
+La prestación farmacéutica comprende los medicamentos y productos sanitarios y el conjunto de actuaciones encaminadas a que los pacientes los reciban de forma adecuada a sus necesidades clínicas, en las dosis precisas según sus requerimientos individuales, durante el período de tiempo adecuado y al menor coste posible para ellos y la comunidad.
+Esta prestación se regirá por lo dispuesto en la Ley 25/1990, de 20 de diciembre, del Medicamento, y por la normativa en materia de productos sanitarios y demás disposiciones aplicables.
+
+### Artículo 17
+
+Artículo 17. Prestación ortoprotésica.
+La prestación ortoprotésica consiste en la utilización de productos sanitarios, implantables o no, cuya finalidad es sustituir total o parcialmente una estructura corporal, o bien de modificar, corregir o facilitar su función. Comprenderá los elementos precisos para mejorar la calidad de vida y autonomía del paciente.
+Esta prestación se facilitará por los servicios de salud o dará lugar a ayudas económicas, en los casos y de acuerdo con las normas que reglamentariamente se establezcan por parte de las Administraciones sanitarias competentes.
+
+### Artículo 18
+
+Artículo 18. Prestación de productos dietéticos.
+La prestación de productos dietéticos comprende la dispensación de los tratamientos dietoterápicos a las personas que padezcan determinados trastornos metabólicos congénitos, la nutrición enteral domiciliaria para pacientes a los que no es posible cubrir sus necesidades nutricionales, a causa de su situación clínica, con alimentos de uso ordinario.
+Esta prestación se facilitará por los servicios de salud o dará lugar a ayudas económicas, en los casos y de acuerdo con las normas que reglamentariamente se establezcan por parte de las Administraciones sanitarias competentes.
+
+### Artículo 19
+
+Artículo 19. Prestación de transporte sanitario.
+El transporte sanitario, que necesariamente deberá ser accesible a las personas con discapacidad, consiste en el desplazamiento de enfermos por causas exclusivamente clínicas, cuya situación les impida desplazarse en los medios ordinarios de transporte. Esta prestación se facilitará de acuerdo con las normas que reglamentariamente se establezcan por las Administraciones sanitarias competentes.
+
+## Sección 2
+
+Sección 2.ª Desarrollo y actualización de la cartera de servicios
+
+### Artículo 20
+
+Artículo 20. Desarrollo de la cartera común de servicios del Sistema Nacional de Salud.
+1. El contenido de la cartera común de servicios del Sistema Nacional de Salud se determinará por acuerdo del Consejo Interterritorial del Sistema Nacional de Salud, a propuesta de la Comisión de prestaciones, aseguramiento y financiación.
+En la elaboración de dicho contenido se tendrá en cuenta la eficacia, eficiencia, efectividad, seguridad y utilidad terapéuticas, así como las ventajas y alternativas asistenciales, el cuidado de grupos menos protegidos o de riesgo y las necesidades sociales, así como su impacto económico y organizativo.
+En la evaluación de lo dispuesto en el párrafo anterior participará la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del Sistema Nacional de Salud.
+2. En cualquier caso, no se incluirán en la cartera común de servicios aquellas técnicas, tecnologías y procedimientos cuya contribución eficaz a la prevención, diagnóstico, tratamiento, rehabilitación y curación de las enfermedades, conservación o mejora de la esperanza de vida, autonomía y eliminación o disminución del dolor y el sufrimiento no esté suficientemente probada.
+Se modifica por el art. 2.6 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403.
+
+### Artículo 21
+
+Artículo 21. Actualización de la cartera de servicios del Sistema Nacional de Salud.
+1. La cartera común de servicios del Sistema Nacional de Salud se actualizará mediante orden de la persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad, previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud. El procedimiento para la actualización se desarrollará reglamentariamente.
+2. Las nuevas técnicas, tecnologías o procedimientos serán sometidas a evaluación, con carácter preceptivo y previo a su utilización en el Sistema Nacional de Salud, por la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del Sistema Nacional de Salud.
+3. La evaluación tendrá por objeto, la verificación de la concurrencia de los siguientes requisitos:
+a) Contribuir de forma eficaz a la prevención, al diagnóstico o al tratamiento de enfermedades, a la conservación o mejora de la esperanza de vida, al autovalimiento o a la eliminación o disminución del dolor y el sufrimiento.
+b) Aportar una mejora, en términos de seguridad, eficacia, efectividad, eficiencia o utilidad demostrada respecto a otras alternativas facilitadas actualmente.
+c) Cumplir las exigencias que establezca la legislación vigente, en el caso de que incluyan la utilización de medicamentos o productos sanitarios.
+4. Sólo podrán incorporarse a la cartera de servicios para su financiación pública aquellas técnicas, tecnologías o procedimientos en las que concurran los requisitos indicados.
+5. La exclusión de una técnica, tecnología o procedimiento actualmente incluido en la cartera de servicios se llevará a cabo cuando concurra alguna de las circunstancias siguientes:
+a) Evidenciarse su falta de eficacia, efectividad o eficiencia, o que el balance entre beneficio y riesgo sea significativamente desfavorable.
+b) Haber perdido su interés sanitario como consecuencia del desarrollo tecnológico y científico.
+c) Dejar de cumplir los requisitos establecidos por la legislación vigente.
+Cinco [sic]. El Ministerio de Sanidad, en coordinación con las comunidades autónomas, garantizará la evaluación periódica del programa de cribado neonatal de enfermedades congénitas en prueba del talón, integrado en la cartera común básica de servicios asistenciales del Sistema Nacional de Salud.
+La Ponencia de Cribado Poblacional, dependiente de la Comisión de Salud Pública, realizará dicha evaluación con una periodicidad mínima de un año. A tal efecto, se definirán el procedimiento, los criterios y los requisitos de evaluación a verificar, así como los mecanismos de participación de sociedades científicas, expertos externos y asociaciones de pacientes y familiares. Fruto de la evaluación anual que se hace por la Ponencia de Cribado Poblacional y la posterior elevación para aprobación por la Comisión de Salud Pública y la Comisión de Prestaciones, Aseguramiento y Financiación, se llevará a cabo la actualización anual de los programas de cribado poblacional previa aprobación definitiva en el CISNS.
+Las evaluaciones periódicas podrán servir para ampliar la lista de enfermedades incluidas en la cartera común, sin que en ningún caso la revisión o actualización suponga la eliminación de cribados ya implantados, salvo que cambien las evidencias en los criterios de evaluación de los cribados.
+Se añade el apartado 5 [sic] por el art. 1 de la Ley 3/2026, de 29 de julio. Ref. BOE-A-2026-16654
+ Se modifican los apartados 1 y 2 por el art. 2.7 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403.
+ Se modifica el apartado 2 por la disposición final 4 de la Ley 29/2006, de 26 de julio. Ref. BOE-A-2006-13554
+
+### Artículo 22
+
+Artículo 22. Uso tutelado.
+1. El Ministerio de Sanidad y Consumo, por propia iniciativa o a propuesta de las correspondientes Administraciones públicas sanitarias y previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud, podrá autorizar el uso tutelado de determinadas técnicas, tecnologías o procedimientos.
+2. El uso tutelado tendrá como finalidad establecer el grado de seguridad, eficacia, efectividad o eficiencia de la técnica, tecnología o procedimiento antes de decidir sobre la conveniencia o necesidad de su inclusión efectiva en la cartera de servicios del Sistema Nacional de Salud.
+Se realizará con arreglo a un diseño de investigación, por períodos de tiempo limitados, en centros expresamente autorizados para ello y de acuerdo con protocolos específicos destinados a garantizar su seguridad, el respeto a la bioética y el logro de resultados relevantes para el conocimiento. En todo caso, será imprescindible contar con el consentimiento informado de los pacientes a los que se vaya a aplicar dichas técnicas, tecnologías o procedimientos.
+3. El uso tutelado se financiará con cargo al Fondo de cohesión al que se refiere el artículo 4 de la Ley 21/2001, de 27 de diciembre, de conformidad con las normas por las que se rige dicho fondo.
+
+## Sección 3
+
+Sección 3.ª Garantías de las prestaciones
+
+### Artículo 23
+
+Artículo 23. Garantía de accesibilidad.
+Todos los usuarios del Sistema Nacional de Salud tendrán acceso a las prestaciones sanitarias reconocidas en esta ley en condiciones de igualdad efectiva.
+
+### Artículo 24
+
+Artículo 24. Garantías de movilidad.
+1. El acceso a las prestaciones sanitarias reconocidas en esta ley se garantizará con independencia del lugar del territorio nacional en el que se encuentren en cada momento los usuarios del Sistema Nacional de Salud, atendiendo especialmente a las singularidades de los territorios insulares.
+2. Asimismo, se garantizará a todos los usuarios el acceso a aquellos servicios que sean considerados como servicios de referencia de acuerdo con el artículo 28 de esta ley.
+
+### Artículo 25
+
+Artículo 25. Garantías de tiempo.
+1. En el seno del Consejo Interterritorial se acordarán los criterios marco para garantizar un tiempo máximo de acceso a las prestaciones del Sistema Nacional de Salud, que se aprobarán mediante real decreto. Las comunidades autónomas definirán los tiempos máximos de acceso a su cartera de servicios dentro de dicho marco.
+2. Quedan excluidas de la garantía a la que se refiere el apartado anterior las intervenciones quirúrgicas de trasplantes de órganos y tejidos, cuya realización dependerá de la disponibilidad de órganos, así como la atención sanitaria ante situaciones de catástrofe.
+
+### Artículo 26
+
+Artículo 26. Garantías de información.
+1. Los servicios de salud informarán a la ciudadanía de sus derechos y deberes, de las prestaciones y de la cartera de servicios del Sistema Nacional de Salud, de los requisitos necesarios para el acceso a éstos y de los restantes derechos recogidos en la Ley básica reguladora de la autonomía del paciente y de los derechos y obligaciones en materia de información y documentación clínica, así como de los derechos y obligaciones establecidos en la Ley General de Salud Pública y en las correspondientes normas autonómicas, en su caso.
+2. El Registro general de centros, establecimientos y servicios sanitarios del Ministerio de Sanidad y Consumo, de carácter público, permitirá a los usuarios conocer los centros, establecimientos y servicios, de cualquier titularidad, autorizados por las comunidades autónomas.
+Dicho registro se nutrirá de los datos proporcionados por los correspondientes registros de las comunidades autónomas.
+Se modifica el apartado 1 por la disposición final 2.4 de la Ley 33/2011, de 4 de octubre. Ref. BOE-A-2011-15623.
+
+### Artículo 27
+
+Artículo 27. Garantías de seguridad.
+1. Cuando se trate de técnicas, tecnologías o procedimientos para cuya correcta utilización sea conveniente concentrar los casos a tratar, se designarán servicios de referencia, de acuerdo con lo que se establece en el siguiente artículo.
+2. Para aquellas técnicas, tecnologías o procedimientos respecto de los que no exista suficiente información para determinar su seguridad, el Ministerio de Sanidad y Consumo acordará, en su caso, con las comunidades autónomas el uso tutelado previsto en el artículo 22.
+3. Mediante real decreto se determinarán, con carácter básico, las garantías mínimas de seguridad y calidad que, acordadas en el seno del Consejo Interterritorial del Sistema Nacional de Salud, deberán ser exigidas para la regulación y autorización por parte de las comunidades autónomas de la apertura y puesta en funcionamiento en su respectivo ámbito territorial de los centros, servicios y establecimientos sanitarios.
+Dichos requisitos irán dirigidos a garantizar que el centro, establecimiento o servicio sanitario cuenta con los medios necesarios para desarrollar las actividades a las que va destinado.
+Los requisitos mínimos podrán ser complementados por las comunidades autónomas para todos los centros, establecimientos y servicios sanitarios de su ámbito territorial.
+
+### Artículo 28
+
+Artículo 28. Garantías de calidad y servicios de referencia.
+1. Las comunidades autónomas garantizarán la calidad de las prestaciones, según se desarrolla en el capítulo VI de esta ley. Para ello, podrán realizar auditorías periódicas independientes.
+Las instituciones asistenciales velarán por la adecuación de su organización para facilitar la libre elección de facultativo y una segunda opinión en los términos que reglamentariamente se establezcan.
+Asimismo, abordarán actuaciones para la humanización de la asistencia y para la mejora de la accesibilidad administrativa y de su confortabilidad. Los hospitales del Sistema Nacional de Salud procurarán la incorporación progresiva de habitaciones de uso individual.
+La accesibilidad de los centros, servicios y prestaciones de carácter sanitario para personas con discapacidad constituye un criterio de calidad que ha de ser garantizado por el Sistema Nacional de Salud. Los centros sanitarios de nueva creación deberán cumplir las normas vigentes en materia de promoción de la accesibilidad y de eliminación de barreras de todo tipo que les sean de aplicación. Las Administraciones públicas sanitarias promoverán programas para la eliminación de barreras en los centros y servicios sanitarios que, por razón de su antigüedad u otros motivos, presenten obstáculos para los usuarios con problemas de movilidad o comunicación.
+2. En el seno del Consejo Interterritorial del Sistema Nacional de Salud, se acordará la designación de servicios de referencia, el número necesario de éstos y su ubicación estratégica dentro del Sistema Nacional de Salud, con un enfoque de planificación de conjunto, para la atención a aquellas patologías que precisen para su atención una concentración de los recursos diagnósticos y terapéuticos a fin de garantizar la calidad, la seguridad y la eficiencia asistenciales.
+El Ministerio de Sanidad y Consumo acreditará aquellos servicios de referencia, que queden establecidos como tales, atendiendo a los criterios de calidad que para cada servicio establezca, y los reevaluará periódicamente.
+La atención en un servicio de referencia se financiará con cargo al Fondo de cohesión sanitaria previsto en el artículo 4 de la Ley 21/2001, de 27 de diciembre, de acuerdo con las disposiciones que lo regulan.
+
+### Artículo 29
+
+Artículo 29. Ámbito de las garantías de seguridad y calidad.
+Las garantías de seguridad y calidad son aplicables a todos los centros, públicos y privados, independientemente de la financiación de las prestaciones que estén ofreciendo en cada momento, siendo responsabilidad de las Administraciones públicas sanitarias, para los centros de su ámbito, velar por su cumplimiento.
+
+## CAPÍTULO II
+
+De la farmacia
+
+## Sección 1
+
+Sección 1.ª Organización y ejercicio de las competencias del estado en materia de farmacia
+
+### Artículo 30
+
+Artículo 30. Competencias de la Administración General del Estado en materia de farmacia.
+Corresponde al Ministerio de Sanidad y Consumo el ejercicio de las competencias del Estado en materia de evaluación, registro, autorización, vigilancia y control de los medicamentos de uso humano y veterinario y de los productos sanitarios, así como la decisión sobre su financiación pública y la fijación del precio correspondiente, en los términos previstos en la Ley 25/1990, de 20 de diciembre, del Medicamento, sin perjuicio de las competencias ejecutivas de las comunidades autónomas.
+
+### Artículo 31
+
+Artículo 31. Ejercicio de las competencias del Estado en materia de farmacia.
+1. El ejercicio de las competencias del Estado en materia de farmacia corresponde al Ministerio de Sanidad y Consumo, a través de la Dirección General de Farmacia y Productos Sanitarios y del organismo autónomo Agencia Española de Medicamentos y Productos Sanitarios.
+2. Corresponde a la Dirección General de Farmacia y Productos Sanitarios la dirección, desarrollo y ejecución de la política farmacéutica del departamento, el ejercicio de las funciones que competen al Estado en materia de financiación pública y fijación del precio de medicamentos y productos sanitarios, así como las condiciones especiales de prescripción y dispensación de medicamentos en el Sistema Nacional de Salud.
+3. La Agencia Española de Medicamentos y Productos Sanitarios asume, como organismo técnico especializado, las actividades de evaluación, registro, autorización, inspección, vigilancia y control de medicamentos de uso humano y veterinario y productos sanitarios, cosméticos y de higiene personal, y la realización de los análisis económicos necesarios para la evaluación de estos productos, sin perjuicio de las competencias ejecutivas de las comunidades autónomas.
+4. El Ministerio de Sanidad y Consumo, junto con las comunidades autónomas, acometerá acciones encaminadas al uso racional del medicamento que comprenderán entre otras:
+a) Programas de educación sanitaria dirigidos a la población general para la prevención de la automedicación, el buen uso de los medicamentos y la concienciación social e individual sobre su coste.
+b) Programas de formación continua de los profesionales, que les permita una constante incorporación de conocimientos sobre nuevos medicamentos y la actualización sobre la eficacia y efectividad de éstos.
+Se modifica el apartado 2 por el art. 133.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 32
+
+Artículo 32. Órganos de dirección, control y de asesoramiento técnico-científico de la Agencia Española de Medicamentos y Productos Sanitarios.
+1. Los órganos de dirección de la Agencia Española de Medicamentos y Productos Sanitarios son el Consejo Rector y el Director de la Agencia.
+El Consejo Rector estará presidido por el Subsecretario de Sanidad y Consumo. Sus funciones, composición y régimen de funcionamiento se establecerán reglamentariamente. En todo caso, formarán parte del Consejo Rector representantes de los Ministerios de Sanidad y Consumo, de Agricultura, Pesca y Alimentación y de Ciencia y Tecnología, así como de las comunidades autónomas.
+La dirección y la representación legal de la Agencia Española de Medicamentos y Productos Sanitarios corresponden a su Director. Reglamentariamente se determinarán sus funciones.
+2. La Agencia Española de Medicamentos y Productos Sanitarios contará con un Consejo Asesor integrado por expertos. Su composición, funciones y régimen de funcionamiento se determinarán reglamentariamente.
+3. La Agencia Española de Medicamentos y Productos Sanitarios contará con los órganos de asesoramiento técnico-científico en materia de evaluación de medicamentos y productos sanitarios que se regulen en su estatuto.
+
+## Sección 2
+
+Sección 2.ª Colaboración de las oficinas de farmacia
+
+### Artículo 33
+
+Artículo 33. Colaboración de las oficinas de farmacia.
+1. Las oficinas de farmacia colaborarán con el Sistema Nacional de Salud en el desempeño de la prestación farmacéutica a fin de garantizar el uso racional del medicamento. Para ello los farmacéuticos actuarán coordinadamente con los médicos y otros profesionales sanitarios.
+2. En el marco de la Ley 25/1990, de 20 de diciembre, del Medicamento, el Ministerio de Sanidad y Consumo, previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud, establecerá los criterios generales y comunes para el desarrollo de la colaboración de las oficinas de farmacia, por medio de conciertos que garanticen a los ciudadanos la dispensación en condiciones de igualdad efectiva en todo el territorio nacional, independientemente de su comunidad autónoma de residencia.
+Se tenderá a la dispensación individualizada de medicamentos y a la implantación de la receta electrónica, en cuyo desarrollo participarán las organizaciones colegiales médica y farmacéutica.
+3. Entre los criterios del apartado anterior se definirán los datos básicos de farmacia, para la gestión por medios informáticos de la información necesaria para el desempeño de las actividades anteriormente mencionadas y para la colaboración con las estructuras asistenciales del Sistema Nacional de Salud. Se ajustarán a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y a las especificaciones establecidas por los servicios de salud de las comunidades autónomas.
+
+## CAPÍTULO III
+
+De los profesionales
+
+## Sección 1
+
+Sección 1.ª Planificación y Formación de Recursos Humanos del Sistema Nacional de Salud
+
+### Artículo 34
+
+Artículo 34. Principios generales.
+La formación y el desarrollo de la competencia técnica de los profesionales deben orientarse a la mejora de la calidad del Sistema Nacional de Salud. Para ello se requiere:
+a) La colaboración permanente entre los órganos de las Administraciones públicas competentes en materia de educación, sanidad, trabajo y asuntos sociales, las universidades, las sociedades científicas y las organizaciones profesionales y sindicales.
+b) La disposición de toda la estructura asistencial del sistema sanitario para ser utilizada en la docencia pregraduada, postgraduada y continuada de los profesionales.
+c) La revisión permanente de las enseñanzas y de la metodología educativa en el campo sanitario, para la mejor adecuación de los conocimientos profesionales a la evolución científica y técnica y a las necesidades sanitarias de la población.
+d) La actualización permanente de conocimientos, orientada a mejorar la calidad del proceso asistencial y garantizar la seguridad del usuario.
+e) La inclusión de la perspectiva de género en las actuaciones formativas.
+Se añade la letra e) por la disposición adicional 9.4 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+
+### Artículo 35
+
+Artículo 35. Comisión de Recursos Humanos.
+1. La Comisión de Recursos Humanos del Sistema Nacional de Salud desarrollará las actividades de pla nificación, diseño de programas de formación y modernización de los recursos humanos del Sistema Nacional de Salud y definirá los criterios básicos de evaluación de las competencias de los profesionales sanitarios, sin perjuicio de las competencias de las comunidades autónomas.
+2. El análisis de necesidades formativas tendrá en cuenta aspectos cuantitativos y cualitativos, para adecuar las convocatorias de formación y así dar respuesta a las demandas futuras de la atención sanitaria. Son instrumentos necesarios para la planificación de la formación:
+a) La coordinación entre el sistema sanitario y el educativo.
+b) La cooperación con las comunidades autónomas.
+c) La asesoría técnica de las sociedades científicas y de las organizaciones profesionales.
+d) Un sistema de información de recursos humanos, reflejado en el Sistema de información sanitaria del Sistema Nacional de Salud regulado en el artículo 53.
+3. La Comisión de Recursos Humanos estará presidida por el Ministro de Sanidad y Consumo. Su composición se establecerá reglamentariamente, y deberán estar representadas en todo caso las comunidades autónomas y los ministerios competentes. Se podrán crear comisiones técnicas y foros de participación que dependerán de la Comisión de Recursos Humanos.
+A tal objeto, se crean los siguientes órganos, cuya composición y funcionamiento se desarrollarán reglamentariamente:
+a) El Foro Marco para el Diálogo Social, que, sin perjuicio de las competencias que determine la norma básica reguladora de las relaciones laborales de los trabajadores del Sistema Nacional de Salud, tiene como objetivo ser el ámbito de diálogo e información de carácter laboral, promoviendo el desarrollo armónico de sus condiciones. Estará constituido por las Administraciones públicas presentes en la Comisión de Recursos Humanos y las organizaciones sindicales más representativas en el sector sanitario.
+b) (Derogado).
+4. La Comisión Consultiva Profesional se regulará mediante real decreto e integrará a representantes de los consejos nacionales de las especialidades sanitarias y de los consejos generales de las profesiones sanitarias. Actuará como órgano de consulta en todos los ámbitos de la ordenación profesional y como órgano de apoyo a la Comisión de Recursos Humanos.
+Se deroga el apartado 3.b) por la disposición final 7 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
+
+### Artículo 36
+
+Artículo 36. Formación de pregrado.
+La Comisión de Recursos Humanos, atendiendo a las necesidades de la población, trasladará al Ministerio de Educación, Cultura y Deporte y al Consejo de Coordinación Universitaria criterios para la adaptación de los planes de estudios conducentes a la obtención de los distintos títulos universitarios del ámbito de las ciencias de la salud, que conjuguen la adquisición simultánea de conocimientos, habilidades y actitudes y favorezca el trabajo en equipo multiprofesional y multidisciplinar.
+
+### Artículo 37
+
+Artículo 37. Formación de postgrado.
+La Comisión de Recursos Humanos supervisará los programas de formación de postgrado especializada, propuestos por las comisiones nacionales correspondientes, así como el número de profesionales necesarios en cada convocatoria. Para la determinación de este número deberán tenerse en cuenta los informes de las comunidades autónomas en relación a sus necesidades de personal especializado.
+La Agencia de Calidad regulada en el artículo 60 coordinará la acreditación de los servicios para la docencia de postgrado a los que se refiere el párrafo anterior.
+
+### Artículo 38
+
+Artículo 38. Formación continuada.
+Las Administraciones públicas establecerán criterios comunes para ordenar las actividades de formación continuada, con la finalidad de garantizar la calidad en el conjunto del Sistema Nacional de Salud. Los criterios comunes serán adoptados en el seno del Consejo Interterritorial del Sistema Nacional de Salud.
+Sin perjuicio de lo anterior, el Ministerio de Sanidad y Consumo y los órganos competentes de las comunidades autónomas podrán delegar las funciones de gestión y acreditación de la formación continuada en otras corporaciones o instituciones de derecho público, de conformidad con la ley.
+
+### Artículo 39
+
+Artículo 39. Formación profesional.
+La Comisión de Recursos Humanos colaborará con el Ministerio de Educación, Cultura y Deporte en la adecuación a las necesidades de salud de la población de los estudios de formación profesional y con el Ministerio de Trabajo y Asuntos Sociales en relación con la formación ocupacional en el ámbito de las ciencias de la salud. Todo ello sin menoscabo de las competencias que en materia de formación profesional y de formación ocupacional corresponden a las comunidades autónomas.
+
+## Sección 2
+
+Sección 2.ª Desarrollo profesional y modernización del Sistema Nacional de Salud
+
+### Artículo 40
+
+Artículo 40. Desarrollo profesional.
+El desarrollo profesional constituye un aspecto básico en la modernización del Sistema Nacional de Salud y deberá responder a criterios comunes acordados en el seno del Consejo Interterritorial del Sistema Nacional de Salud, en relación con los siguientes ámbitos:
+a) La formación continuada.
+b) La carrera profesional.
+c) La evaluación de competencias.
+
+### Artículo 41
+
+Artículo 41. Carrera profesional.
+1. La carrera profesional es el derecho de los profesionales a progresar, de forma individualizada, como reconocimiento a su desarrollo profesional en cuanto a conocimientos, experiencia en las tareas asistenciales, investigación y cumplimiento de los objetivos de la organización en la cual prestan sus servicios.
+2. El estatuto marco previsto en el artículo 84 de la Ley 14/1986, de 25 de abril, General de Sanidad, contendrá la normativa básica aplicable al personal del Sistema Nacional de Salud, que será desarrollada por las comunidades autónomas.
+
+### Artículo 42
+
+Artículo 42. Evaluación de competencias.
+1. A los efectos de esta ley, la competencia profesional es la aptitud del profesional sanitario para integrar y aplicar los conocimientos, habilidades y actitudes asociados a las buenas prácticas de su profesión para resolver los problemas que se le plantean.
+La Comisión de Recursos Humanos definirá los criterios básicos de evaluación de la competencia de los profesionales sanitarios, sin perjuicio de las competencias de las comunidades autónomas.
+2. El Ministerio de Sanidad y Consumo, previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud, y las comunidades autónomas, en el ámbito geográfico de sus competencias, podrán acreditar las entidades de carácter científico, académico o profesional autorizadas para la evaluación de la competencia de los profesionales. Dichas entidades habrán de ser independientes de la gestión de sus centros y servicios.
+
+### Artículo 43
+
+Artículo 43. Movilidad de los profesionales.
+La garantía de movilidad del personal en todo el Sistema Nacional de Salud es uno de los aspectos esenciales de su cohesión, por lo que deberá buscarse un desarrollo armónico de los concursos de traslados convocados por los distintos servicios de salud.
+Mediante real decreto, tras acuerdo en el seno del Consejo Interterritorial del Sistema Nacional de Salud, previo informe del Foro Marco para el Diálogo Social, se establecerán los criterios básicos y las condiciones de las convocatorias de profesionales y de los órganos encargados de su desarrollo que aseguren su movilidad en todo el territorio del Estado, sin perjuicio de las competencias legalmente atribuidas a las Administraciones sanitarias.
+
+## CAPÍTULO IV
+
+De la investigación
+
+## Sección 1
+
+Sección 1.ª La investigación en salud
+
+### Artículo 44
+
+Artículo 44. Principios.
+Es responsabilidad del Estado en materia de investigación en salud, y sin perjuicio de las competencias de las comunidades autónomas:
+a) Establecer las medidas para que la investigación científica y la innovación contribuyan a mejorar de manera significativa y sostenible las intervenciones y procedimientos preventivos, diagnósticos, terapéuticos y rehabilitadores.
+b) Garantizar que la actividad investigadora y de transferencia de resultados a la práctica clínica se desarrolla y se sustenta científicamente de manera demostrable.
+c) Garantizar la observancia y el cumplimiento de los derechos, la protección de la salud y la garantía de la seguridad de la sociedad, los pacientes y los profesionales involucrados en la actividad de investigación.
+d) Incorporar la actividad científica en el ámbito sanitario en el Espacio Europeo de Investigación.
+e) Facilitar que en toda la estructura asistencial del Sistema Nacional de Salud se puedan llevar a cabo iniciativas de investigación clínica y básica, fomentando el desarrollo de la metodología científica y de la medicina basada en la evidencia.
+f) Promover que la investigación en salud atienda las especificidades de mujeres y hombres.
+Se añade la letra f) por la disposición adicional 9.5 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+
+### Artículo 45
+
+Artículo 45. Iniciativa sectorial de investigación en salud en el marco del Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica.
+1. El Ministerio de Sanidad y Consumo, previa consulta al Consejo Interterritorial del Sistema Nacional de Salud, y teniendo en cuenta las propuestas y los proyectos que puedan presentar las comunidades autónomas, elaborará una iniciativa sectorial de investigación en salud, que propondrá, a través del Ministerio de Ciencia y Tecnología, para su discusión en la Comisión Interministerial de Ciencia y Tecnología, a efectos de su integración en el Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica, dentro del procedimiento que se acuerde para su elaboración.
+2. Las propuestas contenidas en la iniciativa sectorial de investigación en salud deberán coordinarse con las que procedan de otros departamentos ministeriales con competencias en investigación científica y desarrollo tecnológico con el fin de asegurar una estrecha interacción con otras actuaciones en biomedicina, biotecnología y otras áreas de actuación relacionadas con el campo de la salud.
+3. Para la elaboración de la iniciativa sectorial se tendrán en cuenta las siguientes necesidades y objetivos:
+a) Las necesidades de salud de la población y el impulso de la innovación asistencial y la modernización de la estrategia de la I+D biomédica, en servicios sanitarios y de salud pública.
+b) La participación de todos los agentes sociales afectados.
+c) La transferencia de resultados de investigación, debidamente verificados, a la práctica clínica.
+d) La consideración, en su caso, de los resultados científicos en la toma de decisiones por parte de los órganos responsables del Sistema Nacional de Salud.
+e) La mejora de la calidad en la gestión de la investigación, mediante la implantación de sistemas eficaces de intercambio de información, evaluación y administración económico-financiera.
+f) El impulso, a través del Instituto de Salud Carlos III, del Consejo Superior de Investigaciones Científicas, de otros organismos públicos de investigación y de las universidades, de la modernización de los centros y redes de investigación del Sistema Nacional de Salud.
+g) El incremento de la colaboración con los centros privados de investigación, así como con los centros extranjeros, favoreciendo la concurrencia de recursos en aras de objetivos comunes.
+h) La conciliación de la actividad investigadora con la normativa vigente y con los principios éticos aceptados por las instituciones y por la comunidad científica.
+4. La ejecución de las actuaciones que se deriven de las propuestas contenidas en la iniciativa sectorial de investigación en salud que se incorporen en el Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica por la Comisión Interministerial de Ciencia y Tecnología, y cuya gestión recaiga en el Ministerio de Sanidad y Consumo, se realizará de acuerdo con las modalidades de participación recogidas en él y estará sometida a un sistema de evaluación con la participación de expertos nacionales y extranjeros basado en el uso de la Agencia Nacional de Evaluación y Prospectiva y de las Comisiones Técnicas de Evaluación del Fondo de Investigación Sanitaria.
+5. (Derogado)
+6. (Derogado)
+7. Los órganos y organismos dependientes o vinculados al Ministerio de Sanidad y Consumo responsables de la gestión de las actuaciones del Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica se coordinarán con el Ministerio de Ciencia y Tecnología en la evaluación global de aquéllas y su posible actualización durante la ejecución del mencionado plan.
+Se derogan los apartados 5 y 6 por la disposición derogatoria única de la Ley 14/2007, de 3 de julio. Ref. BOE-A-2007-12945
+
+### Artículo 46
+
+Artículo 46. Cooperación entre los sectores público y privado.
+(Derogado)
+Se deroga por la disposición derogatoria única y el Anexo del Real Decreto 776/2011, de 3 de junio. Ref. BOE-A-2011-9736.
+ Téngase en cuenta que este artículo ya fue derogado por la Ley 14/2007, de 3 de julio. Ref. BOE-A-2007-12945.
+ Se deroga por la disposición derogatoria única de la Ley 14/2007, de 3 de julio. Ref. BOE-A-2007-12945
+
+### Artículo 47
+
+Artículo 47. Los derechos, la salud y la seguridad de los pacientes en la investigación.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 14/2007, de 3 de julio. Ref. BOE-A-2007-12945
+
+## Sección 2
+
+Sección 2.ª Instituto de Salud Carlos III
+
+### Artículo 48
+
+Artículo 48. Funciones del Instituto de Salud Carlos III.
+1. El Instituto de Salud Carlos III fomentará la investigación en salud:
+a) En los aspectos organizativos de la investigación, por medio de:
+1.º La planificación y priorización de la investigación con la finalidad de adecuar sus planes de trabajo anuales a los objetivos de la iniciativa sectorial de investigación en salud.
+2.º La vertebración de los recursos dedicados a la investigación del Sistema Nacional de Salud, mediante la asociación de centros de investigación del Sistema Nacional de Salud y la acreditación de institutos y redes.
+3.º La potenciación de la investigación, con asesoramiento, difusión de resultados, apoyo a investigadores y registros en la materia.
+b) En el desarrollo de programas de investigación propios.
+2. Las comunidades autónomas participarán en los órganos de gobierno del Instituto de Salud Carlos III y de las fundaciones vinculadas a éste.
+3. Para contribuir a la vertebración de la investigación en el Sistema Nacional de Salud, el Instituto de Salud Carlos III:
+a) Se asociará a los centros de investigación del Sistema Nacional de Salud.
+b) Acreditará institutos y redes de investigación cooperativa para concentrar la investigación en los objetivos previstos del plan y fomentar la investigación de excelencia.
+c) Facilitará sus propios recursos de investigación.
+
+### Artículo 49
+
+Artículo 49. Centros de investigación del Sistema Nacional de Salud.
+A los efectos de esta ley, tendrán la consideración de centros de investigación del Sistema Nacional de Salud aquellos que designe el Ministerio de Sanidad y Consumo, a propuesta del Instituto de Salud Carlos III o de las comunidades autónomas, de acuerdo con las prioridades de la iniciativa sectorial de investigación en salud, entre los centros propios y asociados del Instituto de Salud Carlos III, así como entre los institutos acreditados. Estos últimos se asociarán al Instituto de Salud Carlos III.
+
+### Artículo 50
+
+Artículo 50. Institutos de investigación.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 14/2007, de 3 de julio. Ref. BOE-A-2007-12945
+
+### Artículo 51
+
+Artículo 51. Redes de investigación cooperativa.
+El Instituto de Salud Carlos III fomentará el establecimiento de redes de investigación cooperativa, multidisciplinares e interinstitucionales, formadas por los centros o grupos de investigación acreditados.
+Estas redes actuarán como estructuras de investigación y consulta científica y como tales podrán presentar proyectos conjuntos, acceder a financiación específica y participar en programas de investigación europeos.
+Se promoverá la integración de las redes con centros nacionales e institutos para facilitar la transferencia de la investigación a la práctica clínica, así como para una mejor y más rápida implantación de los avances científicos en la prevención, diagnóstico y tratamiento de las enfermedades.
+
+### Artículo 52
+
+Artículo 52. Apoyo a la investigación.
+El Instituto de Salud Carlos III apoyará la investigación a través de las siguientes líneas de actuación, que se desarrollarán sin perjuicio de las competencias de las comunidades autónomas, y en colaboración con las Administraciones sanitarias:
+a) Apoyo metodológico, que comprenderá:
+1.ª Asesoramiento en el diseño, conducción, control de calidad y análisis de datos, asesoramiento en aspectos éticos y legales de proyectos y en tecnologías de la información.
+2.ª Información y el apoyo de gestión necesario para la participación en los programas de la Unión Europea.
+3.ª Infraestructuras de apoyo a la investigación sanitaria, tales como bancos de tejidos, serotecas, bases de datos bioinformáticos y grandes instalaciones científicas, entre otras.
+b) Difusión de los recursos y resultados para su utilización conjunta en red informática, que comprenderá:
+1.ª Cartografía de centros de investigación públicos y privados al servicio de la investigación sanitaria.
+2.ª Registro de investigadores del Sistema Nacional de Salud.
+3.ª Recursos documentales propios y de los centros y otras organizaciones sanitarias existentes en las comunidades autónomas.
+4.ª Resultados de la investigación propios y de los centros y otras organizaciones sanitarias existentes en las comunidades autónomas.
+
+## CAPÍTULO V
+
+Del sistema de información sanitaria
+
+## Sección 1
+
+Sección 1.ª Sistema de información sanitaria
+
+### Artículo 53
+
+Artículo 53. Sistema de información sanitaria del Sistema Nacional de Salud.
+1. El Ministerio de Sanidad y Consumo establecerá un sistema de información sanitaria del Sistema Nacional de Salud que garantice la disponibilidad de la información y la comunicación recíprocas entre las Administraciones sanitarias. Para ello en el seno del Consejo Interterritorial del Sistema Nacional de Salud se acordarán los objetivos y contenidos de la información.
+El objetivo general del sistema de información sanitaria del Sistema Nacional de Salud será responder a las necesidades de los siguientes colectivos, con la finalidad que en cada caso se indica:
+a) Autoridades sanitarias: la información favorecerá el desarrollo de políticas y la toma de decisiones, dándoles información actualizada y comparativa de la situación y evolución del Sistema Nacional de Salud.
+b) Profesionales: la información irá dirigida a mejorar sus conocimientos y aptitudes clínicas. Incluirá directorios, resultados de estudios, evaluaciones de medicamentos, productos sanitarios y tecnologías, análisis de buenas prácticas, guías clínicas, recomendaciones y recogida de sugerencias.
+c) Ciudadanos: contendrá información sobre sus derechos y deberes y los riesgos para la salud, facilitará la toma de decisiones sobre su estilo de vida, prácticas de autocuidado y utilización de los servicios sanitarios y ofrecerá la posibilidad de formular sugerencias de los aspectos mencionados.
+d) Organizaciones y asociaciones en el ámbito sanitario: contendrá información sobre las asociaciones de pacientes y familiares, de organizaciones no gubernamentales que actúen en el ámbito sanitario y de sociedades científicas, con la finalidad de promover la participación de la sociedad civil en el Sistema Nacional de Salud.
+2. El sistema de información sanitaria contendrá información sobre las prestaciones y la cartera de servicios en atención sanitaria pública y privada, e incorporará, como datos básicos, los relativos a población protegida, recursos humanos y materiales, actividad desarrollada, farmacia y productos sanitarios, financiación y resultados obtenidos, así como las expectativas y opinión de los ciudadanos, todo ello desde un enfoque de atención integral a la salud, desagregando por sexo todos los datos susceptibles de ello.
+3. Con el fin de lograr la máxima fiabilidad de la información que se produzca, el Ministerio de Sanidad y Consumo, previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud, establecerá la definición y normalización de datos y flujos, la selección de indicadores y los requerimientos técnicos necesarios para la integración de la información y para su análisis desde la perspectiva del principio de igualdad entre mujeres y hombres.
+4. El sistema de información sanitaria estará a disposición de sus usuarios, que serán las Administraciones públicas sanitarias, los gestores y profesionales de la sanidad y los ciudadanos, en los términos de acceso y difusión que se acuerden en el Consejo Interterritorial del Sistema Nacional de Salud.
+5. Las comunidades autónomas, la Administración General del Estado y las Entidades Gestoras de la Seguridad Social aportarán a este sistema de información sanitaria los datos necesarios para su mantenimiento y desarrollo. Del mismo modo, las Administraciones autonómicas y estatal tienen derecho de acceder y disponer de los datos que formen parte del sistema de información que precisen para el ejercicio de sus competencias.
+6. La cesión de los datos, incluidos aquellos de carácter personal necesarios para el sistema de información sanitaria, estará sujeta a la legislación en materia de protección de datos de carácter personal y a las condiciones acordadas en el Consejo Interterritorial del Sistema Nacional de Salud.
+Se modifican los apartados 2 y 3 por la disposición adicional 9.6 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+
+### Artículo 54
+
+Artículo 54. Red de comunicaciones del Sistema Nacional de Salud.
+El Ministerio de Sanidad y Consumo, a través de la utilización preferente de las infraestructuras comunes de comunicaciones y servicios telemáticos de las Administraciones públicas, pondrá a disposición del Sistema Nacional de Salud una red segura de comunicaciones que facilite y dé garantías de protección al intercambio de información exclusivamente sanitaria entre sus integrantes.
+La transmisión de la información en esta red estará fundamentada en los requerimientos de certificación electrónica, firma electrónica y cifrado, de acuerdo con la legislación vigente.
+A través de dicha red circulará información relativa al código de identificación personal único, las redes de alerta y emergencia sanitaria, el intercambio de información clínica y registros sanitarios, la receta electrónica y la información necesaria para la gestión del Fondo de cohesión sanitaria, así como aquella otra derivada de las necesidades de información sanitaria en el Sistema Nacional de Salud.
+
+### Artículo 55
+
+Artículo 55. Estadísticas de interés general supracomunitario.
+1. El sistema de información sanitaria contemplará específicamente la realización de estadísticas para fines estatales en materia sanitaria, así como las de interés general supracomunitario y las que se deriven de compromisos con organizaciones supranacionales e internacionales, que se llevarán a cabo con arreglo a las determinaciones metodológicas y técnicas que establezca el Ministerio de Sanidad y Consumo, consultado el Consejo Interterritorial del Sistema Nacional de Salud.
+2. La información necesaria para la elaboración de estadísticas de las actividades sanitarias se recabará tanto del sector público como del sector privado.
+
+### Artículo 56
+
+Artículo 56. Intercambio de información en salud entre organismos, centros y servicios del Sistema Nacional de Salud.
+Con el fin de que los ciudadanos reciban la mejor atención sanitaria posible en cualquier centro o servicio del Sistema Nacional de Salud, el Ministerio de Sanidad y Consumo coordinará los mecanismos de intercambio electrónico de información clínica y de salud individual, previamente acordados con las comunidades autónomas, para permitir tanto al interesado como a los profesionales que participan en la asistencia sanitaria el acceso a la historia clínica en los términos estrictamente necesarios para garantizar la calidad de dicha asistencia y la confidencialidad e integridad de la información, cualquiera que fuese la Administración que la proporcione.
+El Ministerio de Sanidad y Consumo establecerá un procedimiento que permita el intercambio telemático de la información que legalmente resulte exigible para el ejercicio de sus competencias por parte de las Administraciones públicas.
+El intercambio de información al que se refieren los párrafos anteriores se realizará de acuerdo con lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, y en la Ley 41/2002, de 14 de noviembre.
+
+## Sección 2
+
+Sección 2.ª Tarjeta sanitaria individual
+
+### Artículo 57
+
+Artículo 57. La tarjeta sanitaria individual.
+1. El acceso de los ciudadanos a las prestaciones de la atención sanitaria que proporciona el Sistema Nacional de Salud se facilitará a través de la tarjeta sanitaria individual, como documento administrativo que acredita determinados datos de su titular, a los que se refiere el apartado siguiente. La tarjeta sanitaria individual atenderá a los criterios establecidos con carácter general en la Unión Europea.
+2. Sin perjuicio de su gestión en el ámbito territorial respectivo por cada comunidad autónoma y de la gestión unitaria que corresponda a otras Administraciones públicas en razón de determinados colectivos, las tarjetas incluirán, de manera normalizada, los datos básicos de identificación del titular de la tarjeta, del derecho que le asiste en relación con la prestación farmacéutica y del servicio de salud o entidad responsable de la asistencia sanitaria. Los dispositivos que las tarjetas incorporen para almacenar la información básica y las aplicaciones que la traten deberán permitir que la lectura y comprobación de los datos sea técnicamente posible en todo el territorio del Estado y para todas las Administraciones públicas. Para ello, el Ministerio de Sanidad y Consumo, en colaboración con las comunidades autónomas y demás Administraciones públicas competentes, establecerá los requisitos y los estándares necesarios.
+3. Con el objetivo de poder generar el código de identificación personal único, el Ministerio de Sanidad y Consumo desarrollará una base de datos que recoja la información básica de asegurados del Sistema Nacional de Salud, de tal manera que los servicios de salud dispongan de un servicio de intercambio de información sobre la población protegida, mantenido y actualizado por los propios integrantes del sistema. Este servicio de intercambio permitirá la depuración de titulares de tarjetas.
+4. Conforme se vaya disponiendo de sistemas electrónicos de tratamiento de la información clínica, la tarjeta sanitaria individual deberá posibilitar el acceso a aquélla de los profesionales debidamente autorizados, con la finalidad de colaborar a la mejora de la calidad y continuidad asistenciales.
+5. Las tarjetas sanitarias individuales deberán adaptarse, en su caso, a la normalización que pueda establecerse para el conjunto de las Administraciones públicas y en el seno de la Unión Europea.
+
+## Sección 3
+
+Sección 3.ª Instituto de Información Sanitaria
+
+### Artículo 58
+
+Artículo 58. Instituto de Información Sanitaria.
+1. Se creará el Instituto de Información Sanitaria, órgano dependiente del Ministerio de Sanidad y Consumo que desarrollará las actividades necesarias para el funcionamiento del sistema de información sanitaria establecido en el artículo 53.
+Su creación se llevará a cabo de acuerdo con el procedimiento previsto en el artículo 67.1 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+2. El Instituto de Información Sanitaria se encargará de recabar, elaborar y distribuir la información que responda a las necesidades del Sistema Nacional de Salud, con criterios de transparencia y objetividad de la información generada, de acuerdo con las directrices que para su utilización se establezcan por el Consejo Interterritorial del Sistema Nacional de Salud.
+3. Será igualmente función del Instituto recabar datos procedentes de otras fuentes, tanto nacionales como internacionales, con el fin de complementar la información intrínseca al Sistema Nacional de Salud, posibilitar el establecimiento de correlaciones, así como facilitar la comparabilidad con otros ámbitos.
+4. El Instituto velará por la integridad y seguridad de los datos confiados, garantizando su confidencialidad con arreglo a lo dispuesto en la Ley Orgánica 15/1999.
+5. El Instituto podrá reconocer como válidos para el Sistema Nacional de Salud registros de información sanitaria existentes en diferentes ámbitos profesionales y científicos.
+
+## CAPÍTULO VI
+
+De la calidad
+
+## Sección 1
+
+Sección 1.ª Acciones en materia de calidad
+
+### Artículo 59
+
+Artículo 59. Infraestructura de la calidad.
+1. La mejora de la calidad en el sistema sanitario debe presidir las actuaciones de las instituciones sanitarias tanto públicas como privadas.
+2. La infraestructura para la mejora de la calidad del Sistema Nacional de Salud estará constituida por los elementos siguientes:
+a) Normas de calidad y seguridad, que contendrán los requerimientos que deben guiar los centros y servicios sanitarios para poder realizar una actividad sanitaria de forma segura.
+b) Indicadores, que son elementos estadísticos que permitirán comparar la calidad de diversos centros y servicios sanitarios de forma homologada, ajustada al riesgo y fiable.
+c) Guías de práctica clínica y guías de práctica asistencial, que son descripciones de los procesos por los cuales se diagnostica, trata o cuida un problema de salud.
+d) El registro de buenas prácticas, que recogerá información sobre aquellas prácticas que ofrezcan una innovación o una forma de prestar un servicio mejor a la actual.
+e) El registro de acontecimientos adversos, que recogerá información sobre aquellas prácticas que hayan resultado un problema potencial de seguridad para el paciente.
+Esta infraestructura estará a disposición tanto del Ministerio de Sanidad y Consumo como de las comunidades autónomas.
+
+### Artículo 60
+
+Artículo 60. Agencia de Calidad del Sistema Nacional de Salud.
+1. Se creará la Agencia de Calidad del Sistema Nacional de Salud, órgano dependiente del Ministerio de Sanidad y Consumo al que corresponderá la elaboración y el mantenimiento de los elementos de la infraestructura de la calidad.
+Su creación se llevará a cabo de acuerdo con el procedimiento previsto en el artículo 67.1 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+2. La Agencia elaborará o adoptará los elementos de la infraestructura con el asesoramiento de sociedades científicas y expertos del sector, a partir de la experiencia nacional e internacional. También podrá promover convenios con instituciones científicas para elaborar o gestionar los elementos de la infraestructura. Asimismo difundirá los elementos de la infraestructura para su conocimiento y utilización por parte de las comunidades autónomas y los centros y servicios del Sistema Nacional de Salud.
+
+### Artículo 61
+
+Artículo 61. Planes de calidad del Sistema Nacional de Salud.
+1. El Ministerio de Sanidad y Consumo y los órganos competentes de las comunidades autónomas elaborarán periódicamente, en el seno del Consejo Interterritorial del Sistema Nacional de Salud, planes de calidad del Sistema Nacional de Salud, sin perjuicio de las competencias autonómicas de planificación sanitaria y de organización de los servicios. Estos planes contendrán los objetivos de calidad prioritarios para el período correspondiente.
+2. El Ministro de Sanidad y Consumo dará cuenta al Senado del cumplimiento de los planes de calidad del Sistema Nacional de Salud.
+
+### Artículo 62
+
+Artículo 62. Evaluación externa.
+1. El Ministerio de Sanidad y Consumo y los órganos competentes de las comunidades autónomas fomentarán la evaluación externa y periódica de la calidad y la seguridad de los centros y servicios sanitarios mediante auditorías por parte de instituciones públicas o empresas privadas que garanticen una evaluación independiente.
+2. La Agencia de Calidad del Sistema Nacional de Salud acreditará a las instituciones públicas y a las empresas privadas competentes para realizar las auditorías siguiendo los criterios que se acuerden en el seno del Consejo Interterritorial del Sistema Nacional de Salud. Los certificados emitidos por estos auditores serán válidos para todo el Sistema Nacional de Salud. La Agencia podrá reconocer certificados emitidos por otros evaluadores que tendrán de esta manera valor para todo el Sistema Nacional de Salud.
+
+## Sección 2
+
+Sección 2.ª Del Observatorio de Salud
+Se modifica por el art. 19 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+
+### Artículo 63
+
+Artículo 63. Observatorio de Salud.
+1. Se crea el Observatorio de Salud como órgano colegiado de consulta y asesoramiento, de los previstos en el artículo 40.3 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, adscrito al Ministerio de Sanidad, Servicios Sociales e Igualdad a través de la Dirección General de Salud Pública, Calidad e Innovación.
+2. El citado órgano tiene como finalidad proporcionar un análisis permanente del Sistema Nacional de Salud en su conjunto, contribuir a alcanzar los objetivos previstos en la Ley 28/2005, de 26 de diciembre, de medidas sanitarias frente al tabaquismo y reguladora de la venta, el suministro, el consumo y la publicidad de los productos del tabaco, así como promover la disminución de las desigualdades en salud por razón de género, las actuaciones tendentes a la consecución de la equidad en salud y a la prevención del impacto del cambio climático sobre la salud pública y sobre el Sistema Nacional de Salud.
+3. Para el cumplimiento de sus fines, el Observatorio de Salud tiene las funciones de consulta y asesoramiento sobre cuantas medidas en materia de salud puedan abordarse.
+4. La Dirección General de Salud Pública, Calidad e Innovación del Ministerio de Sanidad, Servicios Sociales e Igualdad prestará al Observatorio de Salud el apoyo necesario para el desempeño de sus funciones.
+5. Reglamentariamente se determinarán las funciones, la composición, la organización y las reglas de funcionamiento del Observatorio de Salud, que funcionará en pleno y en secciones, en función de los temas a tratar.
+Se modifica por el art. 19 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+ Se añade el último inciso al párrafo tercero por la disposición adicional 9.7 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+
+## CAPÍTULO VII
+
+De los planes integrales
+
+### Artículo 64
+
+Artículo 64. Planes integrales de salud.
+1. Sin perjuicio de las competencias autonómicas de planificación sanitaria y de organización de los servicios, el Ministerio de Sanidad y Consumo y los órganos competentes de las comunidades autónomas, a través del Consejo Interterritorial del Sistema Nacional de Salud, en colaboración con las sociedades científicas, elaborarán planes integrales de salud sobre las patologías más prevalentes, relevantes o que supongan una especial carga sociofamiliar, garantizando una atención sanitaria integral, que comprenda su prevención, diagnóstico, tratamiento y rehabilitación.
+2. Los planes integrales de salud:
+a) Establecerán criterios sobre la forma de organizar los servicios para atender las patologías de manera integral y semejante en el conjunto del Sistema Nacional de Salud.
+b) Determinarán los estándares mínimos y los modelos básicos de atención para la prevención, detección precoz, diagnóstico, tratamiento y rehabilitación de grupos de enfermedades.
+c) Especificarán actuaciones de efectividad reconocida, identificarán modelos de atención de estas intervenciones, desarrollarán herramientas de evaluación e indicadores de actividad, indicarán metas y objetivos para evaluar el progreso e identificarán insuficiencias en el conocimiento para orientar las prioridades de investigación.
+3. Las comunidades autónomas, una vez establecidos los estándares generales, bases y criterios, organizarán sus servicios de acuerdo con el modelo que más se adapte a sus peculiaridades y necesidades.
+
+## CAPÍTULO VIII
+
+De la salud pública
+
+### Artículo 65
+
+Artículo 65. Actuaciones coordinadas en salud pública y en seguridad alimentaria.
+1. La declaración de actuaciones coordinadas en salud pública corresponderá al Ministerio de Sanidad, previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud, con audiencia de las comunidades directamente afectadas, salvo en situaciones de urgente necesidad, en cuyo caso se tomarán las medidas que sean estrictamente necesarias y se le informará de manera urgente de las medidas adoptadas.
+2. La declaración de actuaciones coordinadas obliga a todas las partes incluidas en ella y deberán encuadrarse en alguno de los supuestos siguientes:
+1.º Responder a situaciones de especial riesgo o alarma para la salud pública.
+2.º Dar cumplimiento a acuerdos internacionales, así como a programas derivados de las exigencias de la normativa emanada de la Unión Europea, cuando su cumplimiento y desarrollo deba ser homogéneo en todo el Estado.
+Para la realización de las actuaciones coordinadas podrá acudirse, entre otros, a los siguientes mecanismos:
+a) Utilización común de instrumentos técnicos.
+b) Coordinación y refuerzo de la Red de Laboratorios de Salud Pública.
+c) Definición de estándares mínimos para el análisis e intervención sobre problemas de salud.
+d) Refuerzo de los sistemas de información epidemiológica para la toma de decisiones y de los correspondientes programas de promoción, prevención y control de enfermedades, cuando sus efectos trasciendan el ámbito autonómico.
+e) Activación o diseño de planes y estrategias de actuación para afrontar emergencias sanitarias.
+3. La declaración de actuaciones coordinadas en materia de seguridad alimentaria corresponderá a la Agencia Española de Seguridad Alimentaria y Nutrición, de acuerdo con lo establecido en la Ley 11/2001, de 5 de julio.
+Se modifica por la disposición final 2.1 de la Ley 2/2021, de 29 de marzo. Ref. BOE-A-2021-4908#df-2
+ Se modifica por la disposición final 2.1 del Real Decreto-ley 21/2020, de 9 de junio. Ref. BOE-A-2020-5895#df-2
+
+### Artículo 65 bis
+
+Artículo 65 bis. Aportación de información al Ministerio de Sanidad en situaciones de emergencia para la salud pública.
+Los órganos competentes en materia de salud pública de las comunidades autónomas deberán, en el caso de una situación de emergencia para la salud pública y sin perjuicio de lo establecido en el artículo 65 de esta ley, aportar con carácter inmediato al Ministerio de Sanidad la información epidemiológica y la relativa a la capacidad asistencial que se requiera y la identificación de las personas responsables de la misma, así como las medidas de prevención, control y contención adoptadas por las comunidades autónomas y las entidades locales comprendidas en su ámbito territorial, en los términos que se establezcan por el Ministerio de Sanidad. Cuando se trate de las entidades locales, dicha información será recabada por el órgano competente en materia de salud pública de la correspondiente comunidad autónoma, que deberá transmitirla al Ministerio de Sanidad.
+En todo caso, el Ministerio de Sanidad convocará con carácter urgente el Consejo Interterritorial del Sistema Nacional de Salud para informar de lo actuado.
+Se modifica por la disposición final 2.2 de la Ley 2/2021, de 29 de marzo. Ref. BOE-A-2021-4908#df-2
+ Se añade por la disposición final 2.2 del Real Decreto-ley 21/2020, de 9 de junio. Ref. BOE-A-2020-5895#df-2
+
+### Artículo 66
+
+Artículo 66. La cooperación en salud pública.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 33/2011, de 4 de octubre. Ref. BOE-A-2011-15623.
+
+## CAPÍTULO IX
+
+De la participación social
+
+### Artículo 67
+
+Artículo 67. Consejo de Participación Social del Sistema Nacional de Salud.
+1. La participación social en el Sistema Nacional de Salud se ejercerá a través de:
+a) El Comité Consultivo.
+b) El Foro Abierto de Salud.
+c) El Foro Virtual.
+2. El Comité Consultivo es el órgano, dependiente del Consejo Interterritorial del Sistema Nacional de Salud, mediante el cual se hace efectiva, de manera permanente, la participación social en el Sistema Nacional de Salud, y se ejerce la participación institucional de las organizaciones sindicales y empresariales en el Sistema Nacional de Salud.
+Sus funciones serán la de informar, asesorar y formular propuestas sobre materias que resulten de especial interés para el funcionamiento del Sistema Nacional de Salud y, en cualquier caso, sobre:
+1.º Los proyectos normativos que afecten a las prestaciones sanitarias, su financiación y el gasto farmacéutico.
+2.º Los planes integrales de salud, cuando sean sometidos a su consulta.
+3.º Las disposiciones o acuerdos del Consejo Interterritorial del Sistema Nacional de Salud, que afecten directamente a materias relacionadas con los derechos y deberes de los pacientes y usuarios del sistema sanitario.
+4.º Los proyectos de disposiciones que afecten a principios básicos de la política del personal del Sistema Nacional de Salud.
+5.º Cuantas otras materias le atribuya el Consejo Interterritorial del Sistema Nacional de Salud.
+El Comité Consultivo recibirá los anteproyectos de ley y los proyectos de disposiciones generales en materia sanitaria elaborados por la Administración General del Estado, así como los informes anuales sobre el estado del Sistema Nacional de Salud, los análisis y estudios que se elaboren sobre las prestaciones a las cuales se refiere el capítulo I de esta ley y se remitan al Consejo Interterritorial ; asimismo, por iniciativa propia o del Consejo Interterritorial, formulará propuestas de cuantas medidas estime oportunas acerca de la política sanitaria.
+El Comité Consultivo estará presidido por el representante de la Administración General del Estado que designe el Ministro de Sanidad y Consumo. Su funcionamiento se regulará por su reglamento interno. Estará integrado por los siguientes miembros, nombrados en los términos que se establezcan reglamentariamente:
+a) Seis representantes de la Administración General del Estado.
+b) Seis representantes de las comunidades autónomas.
+c) Cuatro representantes de la Administración local.
+d) Ocho representantes de las organizaciones empresariales.
+e) Ocho representantes de las organizaciones sindicales más representativas en el ámbito estatal.
+3. El Foro Abierto de Salud se constituirá, con carácter temporal, a convocatoria del Ministro de Sanidad y Consumo, para el estudio, debate y formulación de propuestas sobre temas específicos que en un determinado momento tengan impacto en el Sistema Nacional de Salud. En él podrán participar las organizaciones, consejos, sociedades o asociaciones que en cada momento se determine según la materia a tratar.
+4. El Foro Virtual se mantendrá a través de la red informática.
+
+### Artículo 68
+
+Artículo 68. Redes de conocimiento.
+1. Las Administraciones sanitarias podrán crear redes que generen y transmitan conocimiento científico y favorezcan la participación social en las materias de su competencia. Estas redes se constituyen para servir como plataforma de difusión de la información, intercambio de experiencias y como apoyo a la toma de decisiones a todos los niveles del Sistema Nacional de Salud.
+2. El Ministerio de Sanidad y Consumo creará una infraestructura de comunicaciones que permita el intercambio de información y promueva la complementariedad de actuaciones en las siguientes materias, entre otras:
+a) Información, promoción y educación para la salud.
+b) Cooperación internacional.
+c) Evaluación de tecnologías sanitarias.
+d) Formación en salud pública y gestión sanitaria.
+3. Las Administraciones públicas sanitarias apoyarán la participación en estas redes de organismos internacionales, nacionales, autonómicos, locales o del tercer sector.
+
+## CAPÍTULO X
+
+Del Consejo Interterritorial
+
+### Artículo 69
+
+Artículo 69. Objeto.
+1. El Consejo Interterritorial del Sistema Nacional de Salud es el órgano permanente de coordinación, cooperación, comunicación e información de los servicios de salud entre ellos y con la Administración del Estado, que tiene como finalidad promover la cohesión del Sistema Nacional de Salud a través de la garantía efectiva y equitativa de los derechos de los ciudadanos en todo el territorio del Estado.
+2. El Consejo Interterritorial del Sistema Nacional de Salud elevará anualmente una memoria de las actividades desarrolladas al Senado.
+
+### Artículo 70
+
+Artículo 70. Composición.
+El Consejo Interterritorial del Sistema Nacional de Salud está constituido por el Ministro de Sanidad y Consumo, que ostentará su presidencia, y por los Consejeros competentes en materia de sanidad de las comunidades autónomas. La vicepresidencia de este órgano la desempeñará uno de los Consejeros competentes en materia de sanidad de las comunidades autónomas, elegido por todos los Consejeros que lo integran. Asimismo, contará con una Secretaría, órgano de soporte permanente del Consejo, cuyo titular será propuesto por el Ministro de Sanidad y Consumo y ratificado por el mismo Consejo, y asistirá a las sesiones con voz y sin voto.
+Cuando la materia de los asuntos a tratar así lo requiera podrán incorporarse al Consejo otros representantes de la Administración General del Estado o de las comunidades autónomas.
+
+### Artículo 71
+
+Artículo 71. Funciones.
+El Consejo Interterritorial es el principal instrumento de configuración del Sistema Nacional de Salud. El Consejo Interterritorial del Sistema Nacional de Salud conocerá, debatirá y, en su caso, emitirá recomendaciones sobre las siguientes materias:
+1. En relación con funciones esenciales en la configuración del Sistema Nacional de Salud:
+a) El desarrollo de la cartera de servicios correspondiente al Catálogo de Prestaciones del Sistema Nacional de Salud, así como su actualización.
+b) El establecimiento de prestaciones sanitarias complementarias a las prestaciones básicas del Sistema Nacional de Salud por parte de las comunidades autónomas.
+c) El uso tutelado al que se refiere el artículo 22 de esta ley.
+d) Los criterios marco que permitan garantizar un tiempo máximo de acceso a las prestaciones del Sistema Nacional de Salud.
+e) Las garantías mínimas de seguridad y calidad para la autorización de la apertura y puesta en funcionamiento de los centros, servicios y establecimientos sanitarios.
+f) Los servicios de referencia del Sistema Nacional de Salud.
+g) Los criterios generales y comunes para el desarrollo de la colaboración de las oficinas de farmacia, por medio de conciertos que garanticen a los ciudadanos la dispensación en condiciones de igualdad efectiva en todo el territorio nacional, independientemente de su comunidad autónoma de residencia.
+h) Los criterios básicos y condiciones de las convocatorias de profesionales que aseguren su movilidad en todo el territorio del Estado.
+i) La iniciativa sectorial de investigación en salud.
+j) Los criterios, sistemas y medios de relación que permitan la información recíproca en el Sistema Nacional de Salud, así como los criterios de seguridad y accesibilidad del sistema de información.
+k) Los criterios para la elaboración y evaluación de las políticas de calidad elaboradas para el conjunto del Sistema Nacional de Salud.
+l) La declaración de la necesidad de realizar las actuaciones coordinadas en materia de salud pública a las que se refiere esta ley.
+m) La aprobación de los planes integrales a los que se refiere esta ley.
+n) Los criterios generales sobre financiación pública de medicamentos y productos sanitarios y sus variables.
+ñ) El establecimiento de criterios y mecanismos en orden a garantizar en todo momento la suficiencia financiera del sistema y el carácter equitativo y de superación de las desigualdades que lo definen, sin perjuicio de las competencias del Consejo de Política Fiscal y Financiera de las Comunidades Autónomas.
+o) La definición de objetivos y estrategias de funcionamiento de los organismos y restantes estructuras de apoyo dependientes del Consejo Interterritorial del Sistema Nacional de Salud.
+p) Cualquier otra función que le atribuya ésta u otras disposiciones de carácter esencial para la configuración del Sistema Nacional de Salud.
+Las anteriores funciones se ejercerán sin menoscabo de las competencias legislativas de las Cortes Generales y, en su caso, normativas de la Administración General del Estado, así como de las competencias de desarrollo normativo, ejecutivas y organizativas de las comunidades autónomas.
+2. En relación con funciones de asesoramiento, planificación y evaluación en el Sistema Nacional de Salud:
+a) La evolución de los planes autonómicos de salud y la formulación de los planes conjuntos y del Plan integral de salud a que se refieren los artículos 71 y 74 siguientes de la Ley 14/1986, de 25 de abril, General de Sanidad.
+b) La evaluación de las actividades y la formación de propuestas que permitan una planificación estratégica del sector farmacéutico -industria, distribución y oficinas de farmacia- con el fin de que dichas actividades se adecuen a las necesidades del Sistema Nacional de Salud y de los ciudadanos en materia de medicamentos y prestación farmacéutica.
+c) Los planes y programas sanitarios, especialmente los que se refieren a la promoción de la salud y la prevención de la enfermedad, que impliquen a todas o a una parte de las comunidades autónomas.
+d) Las líneas genéricas del programa formativo de los profesionales del Sistema Nacional de Salud, así como los criterios básicos de acreditación de centros y servicios para la docencia de postgrado y para la evaluación de la competencia.
+e) La evaluación de las políticas de calidad implementadas en el seno del Sistema Nacional de Salud y la evaluación de la eficacia, eficiencia y seguridad de las nuevas técnicas, tecnologías y procedimientos que resulten relevantes para la salud y la atención sanitaria.
+f) La memoria anual sobre el funcionamiento del Sistema Nacional de Salud.
+g) El plan de actuaciones y los resultados que arroje la gestión de los organismos o estructuras dependientes del Consejo Interterritorial del Sistema Nacional de Salud.
+h) En materia de asesoramiento, planificación y evaluación en el Sistema Nacional de Salud, cualquiera otra función que le atribuya esta u otras disposiciones.
+3. En relación con funciones de coordinación del Sistema Nacional de Salud:
+a) El seguimiento de las acciones de coordinación a las que se refiere el artículo 5 de esta ley.
+b) Los asuntos en materia de sanidad, asistencia sanitaria, productos farmacéuticos y consumo para conformar, de manera coordinada, la voluntad del Estado en el seno de las Comunidades Europeas en estas materias, así como coordinar la implantación en el Sistema Nacional de Salud de las medidas, decisiones y orientaciones adoptadas en las Comunidades Europeas.
+c) Los criterios para coordinar los programas de control de calidad y seguridad de los medicamentos establecidos por el Ministerio de Sanidad y Consumo y las comunidades autónomas.
+d) Los principios generales de coordinación respecto a los requisitos comunes y las condiciones para la financiación y desarrollo de los ensayos clínicos en el Sistema Nacional de Salud.
+e) Los criterios para la coordinación de la política general de recursos humanos del Sistema Nacional de Salud.
+f) Los acuerdos sanitarios internacionales por los que se colabore con otros países y organismos internacionales en las materias a las que se refiere el artículo 39 de la Ley General de Sanidad.
+g) En general, coordinar aquellos aspectos relacionados con acciones sanitarias del Sistema Nacional de Salud que dispongan las leyes o que, de acuerdo con su naturaleza, precisen de una actuación coordinada de las Administraciones sanitarias públicas.
+4. En relación con funciones de cooperación entre el Estado y las comunidades autónomas:
+a) Los acuerdos entre las distintas Administraciones sanitarias para conseguir objetivos de común interés de todos los servicios de salud.
+b) Los criterios generales para el desarrollo de programas que integren acciones de cooperación al desarrollo sanitario.
+c) En general, todos aquellos asuntos que los miembros del Consejo Interterritorial del Sistema Nacional de Salud consideren de interés general para el conocimiento y la colaboración en el seno del Consejo.
+
+### Artículo 72
+
+Artículo 72. Acciones sanitarias conjuntas.
+Las Administraciones sanitarias, a través del Consejo Interterritorial del Sistema Nacional de Salud, podrán establecer acuerdos de cooperación para llevar a cabo actuaciones sanitarias conjuntas en materia de protección de la salud, atención sanitaria, farmacia y productos sanitarios, recursos humanos y relaciones internacionales, entre otras. Su formalización se efectuará mediante convenios del Consejo Interterritorial del Sistema Nacional de Salud.
+
+### Artículo 73
+
+Artículo 73. Régimen de Funcionamiento. Acuerdos.
+1. Para su adecuado funcionamiento, el Consejo Interterritorial del Sistema Nacional de Salud aprobará su reglamento interno.
+2. Los acuerdos del Consejo se plasmarán a través de recomendaciones que se aprobarán, en su caso, por consenso.
+
+### Artículo 74
+
+Artículo 74. Comisiones y grupos de trabajo.
+El Consejo Interterritorial del Sistema Nacional de Salud acordará la creación de cuantas comisiones y grupos de trabajo considere necesarios para la preparación, el estudio y desarrollo de las cuestiones sometidas a su conocimiento.
+La Comisión Delegada, integrada por el Secretario General de Sanidad, que lo presidirá, un representante de cada comunidad autónoma con rango de viceconsejero o equivalente y un representante del Ministerio de Sanidad y Consumo, que actuará de secretario. La vicepresidencia la ostentará uno de los representantes de las comunidades autónomas, elegido por todos los representantes de este nivel de gobierno que la integran.
+La Comisión Delegada ejercerá las funciones y adoptará las decisiones que el Consejo Interterritorial del Sistema Nacional de Salud le delegue y, en todo caso, actuará como órgano de apoyo y discusión previa de cuantos asuntos hayan de ser sometidos al Consejo y como órgano de coordinación técnica y administrativa en aquellas cuestiones que sean de su competencia.
+Esta comisión podrá establecer las subcomisiones y grupos de trabajo que resulten necesarios para el adecuado ejercicio de sus funciones.
+
+### Artículo 75
+
+Artículo 75. Adscripción de organismos y estructuras de apoyo y cooperación al Consejo.
+En el seno del Consejo Interterritorial del Sistema Nacional de Salud podrán formularse las propuestas de actuación de la Agencia de Calidad, el Observatorio y el Instituto de Información Sanitaria, con el objeto de definir estrategias y objetivos para el conjunto del Sistema Nacional de Salud.
+
+## CAPÍTULO XI
+
+De la Alta Inspección
+
+### Artículo 76
+
+Artículo 76. Funciones y actividades de la Alta Inspección.
+1. El Estado ejercerá la Alta Inspección como función de garantía y verificación del cumplimiento de las competencias estatales y de las comunidades autónomas en materia de sanidad y de atención sanitaria del Sistema Nacional de Salud, de acuerdo con lo establecido en la Constitución, en los estatutos de autonomía y en las leyes.
+2. Corresponde a la Alta Inspección:
+a) Supervisar la adecuación entre los planes y programas sanitarios de las comunidades autónomas y los objetivos de carácter general establecidos por el Estado.
+b) Evaluar el cumplimiento de fines y objetivos comunes y determinar las dificultades o deficiencias genéricas o estructurales que impidan alcanzar o distorsionen el funcionamiento de un sistema sanitario coherente, armónico y solidario.
+c) Supervisar el destino y utilización de los fondos y subvenciones propios del Estado asignados a las comunidades autónomas que tengan un destino o finalidad determinada.
+d) Comprobar que los fondos correspondientes a los servicios de salud de las comunidades autónomas son utilizados de acuerdo con los principios generales de esta ley.
+e) Supervisar la adscripción a fines sanitarios de centros, servicios o establecimientos del Estado transferidos con dicha finalidad, sin perjuicio de las reordenaciones que puedan acordar las correspondientes comunidades autónomas y, en su caso, las demás Administraciones públicas.
+f) Verificar la inexistencia de cualquier tipo de discriminación en los sistemas de administración y regímenes de prestación de los servicios sanitarios, así como de los sistemas o procedimientos de selección y provisión de sus puestos de trabajo.
+g) Supervisar que el ejercicio de las competencias en materia de sanidad se ajusta a criterios de participación democrática de todos los interesados; a tal efecto, se estará a lo dispuesto en el artículo 5.2 de la Ley General de Sanidad.
+3. Las funciones de Alta Inspección se ejercerán por los órganos del Estado competentes en materia de sanidad. Los funcionarios de la Administración del Estado que ejerzan la Alta Inspección gozarán de las consideraciones de autoridad pública a todos los efectos, y en sus actuaciones podrán recabar de las autoridades del Estado y de los órganos de las comunidades autónomas y demás Administraciones públicas la colaboración necesaria para el cumplimiento de las funciones que les estén legalmente encomendadas.
+4. Cuando, como consecuencia del ejercicio de las funciones de Alta Inspección, se comprueben incumplimientos por parte de la comunidad autónoma, las autoridades sanitarias del Estado le advertirán de esta circunstancia a través del Delegado del Gobierno.
+5. Si una vez efectuada dicha advertencia se comprobase que persiste la situación de incumplimiento, el Gobierno, de acuerdo con lo establecido en la Constitución, requerirá formalmente al órgano competente de la comunidad autónoma para que adopte las medidas precisas.
+6. Las decisiones que adopte la Administración del Estado en ejercicio de sus competencias de Alta Inspección se comunicarán siempre al máximo órgano responsable del servicio de salud de cada comunidad autónoma.
+
+### Artículo 77
+
+Artículo 77. Plan de inspección sanitaria.
+El Ministerio de Sanidad y Consumo presentará en el seno del Consejo Interterritorial del Sistema Nacional de Salud el plan anual de actividades de la Alta Inspección, que incluirá programas reglados de inspección, aplicando técnicas de auditoría eficaces y colaborando con los servicios de inspección de las comunidades autónomas.
+
+### Artículo 78
+
+Artículo 78. Memoria.
+La Alta Inspección del Sistema Nacional de Salud elaborará una memoria anual sobre el funcionamiento del sistema que deberá presentarse al Consejo Interterritorial del Sistema Nacional de Salud para su debate.
+
+### Artículo 79
+
+Artículo 79. Coordinación y cooperación de la inspección en el Sistema Nacional de Salud.
+La Alta Inspección del Estado establecerá mecanismos de coordinación y cooperación con los servicios de inspección de las comunidades autónomas, en especial en lo referente a la coordinación de las actuaciones dirigidas a impedir o perseguir todas las formas de fraude, abuso, corrupción o desviación de las prestaciones o servicios sanitarios con cargo al sector público, cuando razones de interés general así lo aconsejen.
+Para ello, la Alta Inspección desarrollará las siguientes actividades:
+a) La creación y mantenimiento de una base de datos compartida con los servicios de inspección del Sistema Nacional de Salud.
+b) El desarrollo de la colaboración entre los diferentes servicios de inspección en el Sistema Nacional de Salud en programas de actuación conjunta en materia de control de evaluación de servicios y prestaciones.
+c) El seguimiento, desde los ámbitos sanitarios, de la lucha contra el fraude en el Sistema Nacional de Salud, tanto en materia de la incapacidad temporal, como de los programas que se puedan promover en relación con áreas identificadas como susceptibles de generar bolsas de fraude en prestaciones o supongan desviaciones de marcada incidencia económica.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Competencias del Estado en relación con Ceuta y Melilla.
+Las referencias que en esta ley se realizan a las competencias de las comunidades autónomas se entenderán hechas al Estado en relación con las Ciudades de Ceuta y Melilla, sin perjuicio de las competencias de dichas ciudades.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Asistencia sanitaria en el extranjero.
+Lo dispuesto en esta ley se entenderá sin perjuicio de lo establecido en la normativa específica reguladora del derecho a la asistencia sanitaria de los trabajadores españoles desplazados al extranjero al servicio de empresas españolas y del personal al servicio de la Administración pública en el extranjero.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Competencias de otras Administraciones públicas en relación con las entidades sanitarias no integradas en el Sistema Nacional de Salud.
+El ejercicio de las acciones a las que se refiere el artículo 6 de esta ley se entiende sin perjuicio de las que correspondan a las demás Administraciones públicas competentes, en virtud de los conciertos celebrados al amparo de su legislación específica para la prestación de servicios sanitarios con medios ajenos a ellas.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Extensión del contenido de la cartera de servicios del Sistema Nacional de Salud.
+1. La Mutualidad General de Funcionarios Civiles del Estado (MUFACE), el Instituto Social de las Fuerzas Armadas (ISFAS) y la Mutualidad General Judicial (MUGEJU), como integrantes del Sistema Nacional de Salud en su calidad de entidades gestoras de los Regímenes Especiales de la Seguridad Social de los Funcionarios Civiles del Estado, de las Fuerzas Armadas y del Personal al Servicio de la Administración de Justicia, respectivamente, tendrán que garantizar el contenido de la cartera de servicios del Sistema Nacional de Salud, así como las garantías sobre accesibilidad, movilidad, calidad, seguridad, información y tiempo recogidas en esta ley, de acuerdo con lo dispuesto en su normativa específica.
+En materia de salud pública, se exceptúan de la Cartera de Servicios del Sistema Nacional de Salud en el ámbito de dichas Mutualidades las actuaciones de vigilancia epidemiológica, protección y promoción de la seguridad alimentaria, protección y promoción de la sanidad ambiental, vigilancia y control de los riesgos derivados de la importación y transito de bienes y viajeros, y las acciones generales de protección y promoción de la salud relacionadas con la prevención y abordaje de las epidemias y catástrofes.
+En todo caso, los profesionales y centros sanitarios que prestan servicio al colectivo protegido por las Mutualidades de funcionarios en virtud de los conciertos suscritos por estas con las Entidades de Seguro Libre están obligados a colaborar con las autoridades competentes en las actuaciones emprendidas en materia de salud pública.
+2. Sin perjuicio de lo dispuesto en el artículo 6, las entidades colaboradoras y mutuas con responsabilidades de cobertura de asistencia sanitaria pública tendrán que garantizar, en lo que resulte de aplicación, de acuerdo con lo dispuesto en su normativa específica, el contenido de la cartera de servicios del Sistema Nacional de Salud, así como las garantías sobre accesibilidad, movilidad, calidad, seguridad, información y tiempo recogidas en esta ley.
+Se modifica por la disposición final 2.5 de la Ley 33/2011, de 4 de octubre. Ref. BOE-A-2011-15623.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Fondo de cohesión.
+El Fondo de cohesión tiene por finalidad garantizar la igualdad de acceso a los servicios de asistencia sanitaria públicos en todo el territorio español y la atención a ciudadanos desplazados procedentes de países de la Unión Europea o de países con los que España tenga suscritos convenios de asistencia sanitaria recíproca, y será gestionado por el Ministerio de Sanidad y Consumo.
+El Ministerio de Sanidad y Consumo, a través del Fondo de cohesión sanitaria y según se determine reglamentariamente, realizará políticas que aseguren la cohesión sanitaria y la corrección de desigualdades. Estas políticas se desarrollarán mediante planes integrales de salud, que tendrán en cuenta variables epidemiológicas y sociales que supongan una mayor necesidad de servicio, tales como patologías crónicas, morbimortalidad estandarizada por edad, población infantil, población inmigrante y otras de carácter similar.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Transferencia a las comunidades autónomas de los servicios e instituciones sanitarias dependientes de Instituciones Penitenciarias.
+Los servicios sanitarios dependientes de Instituciones Penitenciarias serán transferidos a las comunidades autónomas para su plena integración en los correspondientes servicios autonómicos de salud.
+A tal efecto, en el plazo de 18 meses desde la entrada en vigor de esta ley y mediante el correspondiente real decreto, se procederá a la integración de los servicios sanitarios penitenciarios en el Sistema Nacional de Salud, conforme al sistema de traspasos establecidos por los estatutos de autonomía.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Cooperación al desarrollo sanitario.
+Para la cooperación al desarrollo sanitario en países con necesidades en materia de salud, el Consejo Interterritorial del Sistema Nacional de Salud elaborará un catálogo de recursos a disposición de programas de cooperación internacional, en coherencia con los valores de equidad y de lucha por la disminución de las desigualdades que inspiran el Sistema Nacional de Salud.
+Sin perjuicio de lo previsto en el párrafo anterior, las comunidades autónomas, en el ejercicio de sus competencias, podrán elaborar y desarrollar programas de cooperación al desarrollo sanitario, a cuyo efecto podrán recabar el apoyo del Consejo Interterritorial del Sistema Nacional de Salud.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Centros de referencia.
+En relación con los criterios para el establecimiento de los servicios de referencia se considerará a las Comunidades Autónomas de Canarias y de las Illes Balears como estratégicas dentro del Sistema Nacional de Salud, y la atención en los centros de referencia que en ellas se ubiquen serán también financiadas con cargo al Fondo de cohesión sanitaria.
+Se modifica por el art. 133.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Disposición adicional novena
+
+Disposición adicional novena. Régimen económico y fiscal de Canarias.
+La aplicación de lo dispuesto en los artículos 10, 22 y 28 de esta ley, en cuanto afecta a la actividad financiera de la Comunidad Autónoma de Canarias, se llevará a cabo respetando y salvaguardando su peculiar régimen económico y fiscal, de acuerdo con lo dispuesto en la disposición adicional cuarta de la Ley 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, y en la disposición adicional tercera de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Registro Estatal de Profesionales Sanitarios.
+1. Con la finalidad de facilitar la adecuada planificación de las necesidades de profesionales sanitarios del Estado y de coordinar las políticas de recursos humanos en el ámbito del Sistema Nacional de Salud, se crea en el Ministerio de Sanidad, Servicios Sociales e Igualdad, el Registro Estatal de Profesionales Sanitarios que se integrará en el Sistema de Información Sanitaria del Sistema Nacional de Salud.
+2. Dicho Registro, que se implementará en soporte digital, se nutrirá de los registros oficiales, de profesionales obrantes en las administraciones estatal y autonómicas, en los colegios profesionales, consejos autonómicos y consejos generales de los mismos, en los centros sanitarios privados y en las entidades de seguros que operen en el ramo de la enfermedad, que estarán obligados a facilitar los datos que se consideren necesarios, con sujeción a los criterios que determine el Consejo Interterritorial del Sistema Nacional de Salud en los términos previstos en el artículo 53.3 de esta ley.
+3. El Registro Estatal de Profesionales Sanitarios será público en lo que se refiere al nombre, titulación, especialidad, lugar de ejercicio, categoría y función del profesional, así como en lo referente a la titulación, especialidad, Diploma de Área de Capacitación Específica y de Acreditación y Acreditación Avanzada, si los hubiere, y a las fechas de obtención y revalidación de cada uno de ellos.
+4. Será de aplicación al Registro Estatal de Profesionales Sanitarios lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal. Corresponde al Ministerio de Sanidad, Servicios Sociales e Igualdad la adopción de las medidas de seguridad técnicas y organizativas previstas en la mencionada normativa, velando en particular porque no quepa el acceso indiscriminado a los datos que no tengan carácter público conforme a lo dispuesto en el apartado anterior.
+Asimismo, corresponde al Ministerio de Sanidad, Servicios Sociales e Igualdad implementar de forma progresiva el Registro Estatal de Profesionales Sanitarios a las distintas profesiones sanitarias y la actualización permanente de los datos que el mismo contenga, en particular, siempre que se produzca una incidencia derivada del ejercicio profesional.
+Se añade por el art. 9 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 116, de 15 de mayo de 2012. Ref. BOE-A-2012-6364.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Cartera de servicios.
+En tanto no se apruebe el real decreto por el que se desarrolle la cartera de servicios, mantendrá su vigencia el Real Decreto 63/1995, de 20 de enero, de ordenación de prestaciones sanitarias del Sistema Nacional de Salud.
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera.
+Quedan derogados los artículos 43 y 47 de la Ley 14/1986, de 25 de abril, General de Sanidad, así como cuantas otras normas de igual o inferior rango se opongan a lo dispuesto en esta ley.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda.
+Quedan derogados los artículos 1, 2 y 5, así como los apartados 3 y 4 del artículo 6, del Real Decreto 1035/1999, de 18 de junio, por el que se regula el sistema de precios de referencia en la financiación de medicamentos con cargo a fondos de la Seguridad Social o a fondos estatales afectos a la sanidad.
+
+### Disposición final primera
+
+Disposición final primera. Título competencial.
+1. Esta ley se dicta al amparo del artículo 149.1.1.ª, 16.ª y 17.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de bases y coordinación general de la sanidad y régimen económico de la Seguridad Social.
+2. Se exceptúan de lo dispuesto en el apartado anterior los siguientes preceptos:
+a) Los artículos 10, 22.3 y el último párrafo del artículo 28.2, que se dictan al amparo del artículo 149.1.14.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de Hacienda general y que se entenderán sin perjuicio de los regímenes forales del País Vasco y Navarra.
+b) El capítulo IV, que se dicta al amparo del artículo 149.1.15.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de fomento y coordinación general de la investigación científica y técnica.
+c) La sección 1.ª del capítulo II, los artículos 54, 58, 60 y 63 y la disposición adicional primera, que son aplicables únicamente a la Administración General del Estado.
+
+### Disposición final segunda
+
+Disposición final segunda. Equilibrio financiero del Sistema Nacional de Salud.
+(Derogada)
+Se deroga por la disposición derogatoria de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+
+### Disposición final tercera
+
+Disposición final tercera. Modificación de la Ley 25/1990, de 20 de diciembre, del Medicamento.
+Se modifica el apartado 6 del artículo 94 de la Ley 25/1990, de 20 de diciembre, del Medicamento, que quedará redactado en los siguientes términos:
+"6. La financiación pública de medicamentos estará sometida al sistema de precios de referencia que se regula en este apartado.
+A estos efectos, el precio de referencia será la cuantía máxima que se financiará de las presentaciones de especialidades farmacéuticas, incluidas en cada uno de los conjuntos que se determinen, siempre que se prescriban y dispensen a través de receta médica oficial.
+Se entiende por conjunto la totalidad de las presentaciones de especialidades farmacéuticas financiadas que tengan el mismo principio activo, entre las que existirá, al menos, una especialidad farmacéutica genérica. Quedarán excluidas de los conjuntos las formas farmacéuticas innovadoras, sin perjuicio de su financiación con fondos públicos, hasta que se autorice la especialidad farmacéutica genérica correspondiente.
+El Ministerio de Sanidad y Consumo, previo informe del Consejo Interterritorial del Sistema Nacional de Salud, determinará dichos conjuntos, así como sus precios de referencia.
+El precio de referencia será, para cada conjunto, la media aritmética de los tres costes/tratamiento/día menores de las presentaciones de especialidades farmacéuticas en él agrupadas por cada vía de administración, calculados según la dosis diaria definida. En todo caso, deberá garantizarse el abastecimiento a las oficinas de farmacia de estas especialidades farmacéuticas.
+Las especialidades farmacéuticas genéricas no podrán superar el precio de referencia.
+Cuando se prescriba una especialidad farmacéutica que forme parte de un conjunto y que tenga un precio superior al de referencia, en el caso de que exista especialidad farmacéutica genérica de idéntica composición cualitativa y cuantitativa en sustancias medicinales, forma farmacéutica, vía de administración y dosificación a la prescrita, el farmacéutico deberá sustituir la especialidad farmacéutica prescrita por la especialidad farmacéutica genérica de menor precio. En el caso de que no exista dicha especialidad farmacéutica genérica, el farmacéutico dispensará la especialidad farmacéutica prescrita a precio de referencia, efectuando el beneficiario, en su caso, solamente la correspondiente aportación sobre precio de referencia. En este último supuesto, el laboratorio abonará al almacén de distribución o, en su caso, a la oficina de farmacia la diferencia entre el precio de venta laboratorio autorizado y el que se corresponde con el precio de referencia.
+Los servicios de salud promoverán la prescripción de genéricos y sus profesionales sanitarios colaborarán en las iniciativas para conseguir un uso racional de los medicamentos. Cuando la prescripción se efectúe por principio activo sometido a precio de referencia, el farmacéutico dispensará la especialidad farmacéutica genérica de menor precio."
+
+### Disposición final cuarta
+
+Disposición final cuarta. Adaptación de la estructura orgánica del Ministerio de Sanidad y Consumo.
+El Gobierno, en el plazo de un mes a partir de la entrada en vigor de esta ley, modificará la estructura orgánica del Ministerio de Sanidad y Consumo, con objeto de proceder a la creación del Instituto de Información Sanitaria, de la Agencia de Calidad del Sistema Nacional de Salud y del Observatorio del Sistema Nacional de Salud y a la supresión de las subdirecciones generales correspondientes, de conformidad con lo dispuesto en el artículo 67.1.a) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+### Disposición final quinta
+
+Disposición final quinta. Desarrollo normativo.
+Se faculta al Gobierno para dictar, en el ámbito de sus competencias, cuantas disposiciones resulten necesarias para el desarrollo y ejecución de esta ley.
+
+### Disposición final sexta
+
+Disposición final sexta. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Por tanto, Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta ley.
+Madrid, 28 de mayo de 2003.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

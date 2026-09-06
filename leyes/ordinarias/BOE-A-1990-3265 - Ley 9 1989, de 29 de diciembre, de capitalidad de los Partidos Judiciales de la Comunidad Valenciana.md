@@ -1,0 +1,87 @@
+# Ley 9/1989, de 29 de diciembre, de capitalidad de los Partidos Judiciales de la Comunidad Valenciana.
+
+- Identificador BOE: `BOE-A-1990-3265`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1990-3265
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley
+PREÁMBULO
+I
+El Estatuto de Autonomía, en su artículo 39.2, atribuye a la Generalitat Valenciana la competencia para fijar la delimitación de las demarcaciones territoriales de los órganos jurisdiccionales en su territorio y la localización de su capitalidad.
+Por su parte la posterior Ley Orgánica del Poder Judicial estableció, por un lado, que las Comunidades Autónomas participarán en la demarcación judicial de sus respectivos territorios remitiendo al Gobierno de la Nación una propuesta en la que se fijará la misma, y, por otro, que la fijación de la capitalidad corresponde a las Comunidades Autónomas mediante Ley de sus respectivas Asambleas Legislativas.
+Cumpliendo el mandato de la mencionada Ley Orgánica, la reciente Ley 38/1988, de 28 de diciembre, de demarcación y de planta judicial, tomando en consideración la propuesta de las Comunidades Autónomas, redefine los Partidos Judiciales en cuanto a divisiones territoriales básicas en las que se inscribe el primer escalón de órganos judiciales servidos por los Jueces de Carrera, el de los Juzgados de Primera Instancia e Instrucción, respetando la competencia de las Comunidades Autónomas para fijar la capitalidad y configurando de modo completo la planta diseñada por la Ley Orgánica del Poder Judicial.
+II
+Dentro de este marco normativo y competencial, la presente Ley tiene por objeto fijar la capitalidad de los treinta y cuatro Partidos Judiciales establecidos para la Comunidad Valenciana en la Ley 38/1988, de 28 de diciembre, ámbito territorial de los Juzgados de Primera Instancia e Instrucción.
+Para ello se han tomado en consideración criterios tan significativos y diversos como: Importancia poblacional, dotación judicial anterior a la Ley 38/1988 y la prevista en la misma, índice de conflictividad judicial, número de Notarías y Registros de la Propiedad, accesibilidad –medida por la red de comunicaciones y la distancia media mínima intermunicipal–, capitalidad de hecho ejercida por otros motivos –históricos, económicos, etc.–, indicadores socioeconómicos, pertenencia a Mancomunidades, etc. Asimismo han sido consultadas las Instituciones afectadas por la demarcación judicial: Audiencia Territorial de Valencia y Colegios de Notarios, Registradores de la Propiedad y Corredores de Comercio, cuyas circunscripciones o distritos se inspiran o coinciden con las de los partidos judiciales, habiéndose tenido en cuenta las observaciones por ellos formuladas que han incrementado el conocimiento de los datos necesarios para una adecuada decisión.
+Igualmente se ha tomado en consideración el informe emitido por la Dirección General de Administración Local en cumplimiento de lo previsto por el Decreto 170/1985, de 28 de octubre, del Consell de la Generalitat Valenciana.
+
+### Artículo único
+
+Artículo único.
+Las capitales de los treinta y cuatro Partidos Judiciales establecidos para la Comunidad Valenciana por la Ley 38/1988, de 28 de diciembre, de demarcación y de planta judicial, son las siguientes:
+Provincia de Alicante
+Partido Judicial número 1, Denia.
+Partido Judicial número 2, Alcoy.
+Partido Judicial número 3, Alicante.
+Partido Judicial número 4, Orihuela.
+Partido Judicial número 5, La Vila Joiosa.
+Partido Judicial número 6, Elda.
+Partido Judicial número 7, Villena.
+Partido Judicial número 8, Elx.
+Partido Judicial número 9, Benidorm.
+Partido Judicial número 10, San Vicente del Raspeig.
+Partido Judicial número 11, Novelda.
+Partido Judicial número 12, Ibi.
+Provincia de Castellón
+Partido Judicial número 1, Castelló de la Plana.
+Partido Judicial número 2, Segorbe.
+Partido Judicial número 3, Vinaròs.
+Partido Judicial número 4, Nules.
+Partido Judicial número 5, Vila-Real.
+Provincia de Valencia
+Partido Judicial número 1, Lliria.
+Partido Judicial número 2, Gandía.
+Partido Judicial número 3, Ontinyent.
+Partido Judicial número 4, Torrent.
+Partido Judicial número 5, Sueca.
+Partido Judicial número 6, Valencia.
+Partido Judicial número 7, Sagunt.
+Partido Judicial número 8, Alzira.
+Partido Judicial número 9, Carlet.
+Partido Judicial número 10, Xàtiva.
+Partido Judicial número 11, Requena.
+Partido Judicial número 12, Catarroja.
+Partido Judicial número 13, Moncada.
+Partido Judicial número 14, Paterna.
+Partido Judicial número 15, Quart de Poblet.
+Partido Judicial número 16, Mislata.
+Partido Judicial número 17, Massamagrell.
+Partido judicial número 18, Picassent.
+Se establece la capitalidad del partido judicial nº 18 por el art. único de la Ley 6/1992, de 6 de noviembre. Ref. BOE-A-1992-26990
+ Téngase en cuenta que el nuevo partdido judicial se creó por la Ley 3/1992, de 20 de marzo. Ref. BOE-A-1992-6576
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones se opongan a lo dispuesto en la presente Ley.
+
+### Disposición primera
+
+Disposición primera.
+El Consell de la Generalitat Valenciana y la Consellería de Administración Pública, en el ámbito de sus respectivas competencias, adoptarán cuantas disposiciones sean necesarias para la aplicación y desarrollo de la presente Ley.
+
+### Disposición segunda
+
+Disposición segunda.
+La presente Ley entrará en vigor el día siguiente de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, Tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 29 de diciembre de 1989.
+JOAN LERMA I BLASCO,
+Presidente de la Generalidad

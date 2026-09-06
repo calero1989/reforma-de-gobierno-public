@@ -1,0 +1,273 @@
+# Ley 10/1992, de 4 de noviembre, de fianzas de arrendamientos y otros contratos.
+
+- Identificador BOE: `BOE-A-1992-27351`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1992-27351
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+En nombre del Rey y como Presidente de la Comunidad Autónoma de Aragón, promulgo la presente Ley, aprobada por las Cortes de Aragón y ordeno se publique en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado»; todo ello de conformidad con lo dispuesto en los artículos 20 y 21 del Estatuto de Autonomía.
+PREÁMBULO
+Las características del vigente régimen de las obligaciones de constitución de fianza en arrendamientos urbanos y otros contratos, contenido sustancialmente en el Decreto de Papel de Fianzas de 11 de marzo de 1949, ponen de manifiesto la necesidad de llevar a cabo una nueva regulación en la materia adaptada a los actuales esquemas del Ordenamiento Jurídico.
+La entrada en vigor de la Constitución significó la derogación de importantes parcelas del Decreto citado. El marco normativo general aprobado tras la misma ha agravado el problema, al provocar la casi completa inadaptación del Decreto al derecho vigente.
+La nueva regulación debe realizarse mediante Ley, para superar en esta materia una tradición normativa ajena a los postulados constitucionales de la garantía patrimonial de los ciudadanos. Es preciso, por consiguiente, un pronunciamiento expreso de los representantes populares para que el sistema de depósitos de fianzas continúe, sancionando su carácter de ingreso público afectado a la política social de la vivienda y estableciendo las principales características de su régimen jurídico.
+La regulación de las fianzas de arrendamientos, suministros y servicios complementarios ha constituido desde un principio un elemento de la política de vivienda en nuestro ordenamiento jurídico. Dicho de otra manera, la previsión de un recurso económico consistente en un porcentaje sobre los depósitos de las fianzas de ciertos contratos relacionados con la vivienda forma parte del conjunto de técnicas de intervención tradicionalmente utilizadas para desarrollar la política de vivienda. En el Real Decreto-ley de 26 de septiembre de 1980, última regulación estatal en la materia, el recurso en cuestión siguió figurando entre los medios económicos del desaparecido Instituto para la Promoción Pública de la Vivienda.
+La competencia para desarrollar la política de vivienda corresponde en la actualidad a la Comunidad Autónoma, de conformidad con el artículo 35, 1, 3.º, de su Estatuto de Autonomía.
+Por eso, el Real Decreto 699/1984, de 8 de febrero, sobre traspasos a la Comunidad Autónoma en materia de vivienda, incluyó el traspaso de «la titularidad y la administración de las fianzas y los conciertos de fianzas».
+La presente Ley pretende clarificar ese régimen jurídico, vertebrando los depósitos de fianzas como ingresos de derecho público, conforme a características modernas y sin perder de vista el necesario respeto a los derechos del ciudadano.
+En el capítulo primero se define con precisión el alcance de la obligación de fianza en los arrendamientos urbanos y en una serie tasada de contratos de suministros y de servicios complementarios que constituyen los únicos supuestos merecedores de la aplicación de este régimen.
+El capítulo segundo regula la obligación de depósito de esas fianzas, clarifica su naturaleza de ingreso de derecho público y concreta las modalidades de recaudación. A tal fin, se sustituye el obsoleto sistema del Papel de Fianzas por el ingreso en efectivo, abriendo la posibilidad de proceder a la recaudación mediante entidades colaboradoras. Por otro lado, la nueva regulación del régimen concertado, pese a mantener los esquemas anteriores, contiene modificaciones importantes, entre las que destaca la reducción de la discrecionalidad administrativa en su otorgamiento.
+El capítulo tercero se refiere a la inspección como una función administrativa más, a la vez que suprime el sistema de actuación por particulares, incompatible con la legislación de la función pública de la Comunidad Autónoma.
+En el capítulo cuarto se moderniza el régimen sancionador, al tipificar y sistematizar las conductas reprochables, adaptar las sanciones al principio de proporcionalidad y reconocer el respeto de los derechos fundamentales del ciudadano; todo ello, presidido por el objetivo de otorgar eficacia a las obligaciones que contiene la Ley.
+El derecho transitorio establece las medidas oportunas para evitar desajustes en la aplicación temporal del nuevo régimen.
+
+## CAPÍTULO PRIMERO
+
+Obligación de fianza
+
+### Artículo 1
+
+Artículo 1. Objeto y obligación de fianza.
+La presente Ley tiene por objeto regular en el ámbito de la Comunidad Autónoma de Aragón la gestión de las fianzas exigidas a los arrendatarios y subarrendatarios de viviendas o locales de negocios, así como las fianzas exigidas a los usuarios de suministros o servicios complementarios a viviendas o locales de negocio.
+
+### Artículo 2
+
+Artículo 2. Fianza en arrendamientos urbanos.
+1. Será obligatoria la exigencia y prestación de fianza en los contratos y por los importes siguientes:
+a) En el arrendamiento de vivienda, por el importe de una mensualidad de la renta pactada.
+b) En el subarriendo parcial de vivienda, por el importe de una mensualidad de la renta pactada en el subarriendo.
+c) En el arrendamiento de local de negocio, por el importe de dos mensualidades de la renta pactada.
+d) En el subarriendo total de negocio, por el importe de dos mensualidades de la renta pactada en el subarriendo.
+e) En el subarriendo parcial de local de negocio, por el importe de una mensualidad de la renta pactada en el subarriendo.
+2. En ningún caso podrán sobrepasarse los límites marcados en el párrafo anterior.
+3. En los contratos de arrendamientos de viviendas protegidas, únicamente podrá pactarse como garantía adicional la prestación por el arrendatario de un aval por importe no superior a cuatro mensualidades de la renta pactada. Este aval podrá ser sustituido por un depósito en efectivo.
+Se modifica el apartado 1 por el art. 36.1 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+ Se modifica el apartado 3 por el art. 29.1 de la Ley 2/2014, de 23 de enero. Ref. BOE-A-2014-1510.
+ Se añade el apartado 3 por la disposición adicional 2.1 de la Ley 24/2003, de 26 de diciembre. Ref. BOE-A-2004-889.
+ Se levanta la suspensión de su vigencia y aplicación por auto del TC de 13 de julio de 1993. Ref. BOE-A-1993-19262.
+ Se declara el desestimiento por auto del TC de 29 de febrero del 2000. Ref. BOE-A-2000-4912.
+ Se suspende su vigencia y aplicación para las partes del proceso desde el 19 de febrero de 1992 y para los terceros desde el 10 de marzo de 1993, por providencia del TC de 2 de marzo de 1993, que admite a trámite el Recurso de inconstitucionalidad nº 472/1993. Ref. BOE-A-1993-6491.
+
+### Artículo 3
+
+Artículo 3. Excepciones.
+Se exceptúan de la obligación de fianza establecida en el artículo anterior:
+a) Los arrendamientos y subarriendos en los que figure como arrendatario o subarrendatario cualquiera de las entidades públicas de carácter territorial (Administración del Estado, Comunidades autónomas y entes locales) reconocidas por el ordenamiento jurídico vigente.
+b) Los arrendamientos o subarriendos de temporada.
+Se levanta la suspensión de su vigencia y aplicación por auto del TC de 13 de julio de 1993. Ref. BOE-A-1993-19262.
+ Se declara el desestimiento por auto del TC de 29 de febrero del 2000. Ref. BOE-A-2000-4912.
+ Se suspende su vigencia y aplicación para las partes del proceso desde el 19 de febrero de 1992 y para los terceros desde el 10 de marzo de 1993, por providencia del TC de 2 de marzo de 1993, que admite a trámite el Recurso de inconstitucionalidad nº 472/1993. Ref. BOE-A-1993-6491.
+
+### Artículo 4
+
+Artículo 4. Determinación de la fianza.
+1. Para determinar el importe de la fianza obligatoria en los arrendamientos se considerará la renta pactada al celebrarse el contrato.
+2. Para determinar el importe de la fianza obligatoria en los subarriendos se considerará la renta del arrendamiento al celebrarse el contrato de subarriendo.
+3. Transcurridos los primeros tres años de duración del contrato, de actualizarse el importe de la renta, se deberá proceder a la actualización de la fianza. Los arrendadores deberán notificar este hecho a las subdirecciones provinciales de vivienda, aportando la diferencia entre el importe depositado en su día y el importe actualizado o, en su caso, solicitar la devolución del importe depositado en su día hasta la cuantía de la actualización.
+4. En los supuestos de falta de formalización por escrito del contrato, podrá acreditarse la existencia, fecha y cuantía del mismo por cualquiera de los medios de prueba admitidos en derecho.
+Se modifica el apartado 3 por el art. 36.2 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+ Se levanta la suspensión de su vigencia y aplicación por auto del TC de 13 de julio de 1993. Ref. BOE-A-1993-19262.
+ Se declara el desestimiento por auto del TC de 29 de febrero del 2000. Ref. BOE-A-2000-4912.
+ Se suspende su vigencia y aplicación para las partes del proceso desde el 19 de febrero de 1992 y para los terceros desde el 10 de marzo de 1993, por providencia del TC de 2 de marzo de 1993, que admite a trámite el Recurso de inconstitucionalidad nº 472/1993. Ref. BOE-A-1993-6491.
+
+### Artículo 5
+
+Artículo 5. Fianza en suministros y servicios.
+1. Será obligatoria la exigencia y prestación de fianza en los contratos de suministro de agua, gas o electricidad a viviendas y locales de negocio.
+2. El importe de la fianza obligatoria será el pactado al celebrarse el contrato para asegurar las responsabilidades de los usuarios, dentro del respeto a los importes mínimos a que se refiere el apartado siguiente.
+3. Si la Administración titular del servicio público afectado no tuviera establecido el importe mínimo de la fianza, este se fijara por el órgano competente en materia de vivienda previo informe del Departamento competente en materia de industria.
+Se modifica el apartado 3 por el art. 36.3 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+ Se modifica el apartado 1 por el art. 24.1 de la Ley 15/1999, de 29 de diciembre. Ref. BOE-A-2000-1654.
+ Se levanta la suspensión de su vigencia y aplicación por auto del TC de 13 de julio de 1993. Ref. BOE-A-1993-19262.
+ Se declara el desestimiento por auto del TC de 29 de febrero del 2000. Ref. BOE-A-2000-4912.
+ Se suspende su vigencia y aplicación para las partes del proceso desde el 19 de febrero de 1992 y para los terceros desde el 10 de marzo de 1993, por providencia del TC de 2 de marzo de 1993, que admite a trámite el Recurso de inconstitucionalidad nº 472/1993. Ref. BOE-A-1993-6491.
+
+## CAPÍTULO II
+
+Obligaciones de depósito
+
+### Artículo 6
+
+Artículo 6. Obligación del depósito de fianzas.
+1. El importe de las fianzas obligatorias con arreglo a esta ley deberá depositarse en las subdirecciones provinciales competentes en materia de vivienda, sin perjuicio de lo establecido para el régimen concertado.
+2. El depósito será gratuito y no devengará interés a favor de la persona depositante, sin perjuicio de lo dispuesto en los artículos 9.3 y 13.3 de esta ley.
+3. La exigencia de responsabilidad como consecuencia de los deterioros o falta de pago de que respondan las fianzas en ningún caso afectará al órgano competente en materia de vivienda ni a las entidades colaboradoras, cuestiones estas cuya resolución continúa siendo exclusivamente de la competencia de los Tribunales competentes.
+Se modifica por el art. 36.4 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+
+### Artículo 7
+
+Artículo 7. Naturaleza del depósito.
+1. El depósito obligatorio de las fianzas tendrá la consideración de ingreso de derecho público de la Comunidad Autónoma afectado al órgano competente en materia de vivienda.
+2. El Gobierno de Aragón podrá disponer para políticas de vivienda el 80 por 100 del importe total de los depósitos y reservará el 20 por 100 restante para las devoluciones que procedan.
+Se modifica por el art. 36.5 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+
+### Artículo 8
+
+Artículo 8. Sujetos obligados.
+Vendrán obligados al depósito:
+a) Los arrendadores y subarrendadores de viviendas y locales de negocio.
+b) Las empresas suministradoras de agua, gas y electricidad.
+Se modifica el apartado b) por el art. 24.2 de la Ley 15/1999, de 29 de diciembre. Ref. BOE-A-2000-1654.
+
+### Artículo 9
+
+Artículo 9. Régimen general.
+1. El ingreso del depósito se realizará en efectivo o transferencia bancaria, al que se acompañará copia del contrato, de conformidad con el régimen general de recaudación de ingresos públicos de la Comunidad Autónoma y dentro del plazo de dos meses desde la celebración del contrato.
+2. Extinguido el contrato, el Instituto devolverá el depósito, a solicitud de cualquiera de los sujetos obligados, acompañada del justificante, en el plazo de quince días y en la forma que determine el mismo.
+3. Extinguido el contrato, se devolverá el depósito, a solicitud de cualesquiera de los sujetos obligados, acompañada del justificante, en el plazo máximo de 15 días y en la forma que determine el depositante al realizar el ingreso.
+Se modifican los apartados 1 y 3 por el art. 36.6 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+
+### Artículo 10
+
+Artículo 10. Régimen concertado.
+Los sujetos a que se refiere el artículo siguiente podrán optar por el ingreso en efectivo, en la forma que determine el órgano competente en materia de vivienda, del 90 por 100 del volumen total de fianzas que se constituyan, reservándose el 10 por 100 restante para la devolución de las que aisladamente les sean exigidas y para liquidar las responsabilidades a que aquellas estén afectadas.
+Se modifica por el art. 36.7 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+
+### Artículo 11
+
+Artículo 11. Requisitos.
+El órgano competente en materia de vivienda aplicará el régimen concertado, a solicitud del interesado debidamente documentada, en los supuestos siguientes:
+a) Cuando se trate de empresas de suministros y servicios, en todo caso.
+b) Cuando se trate de arrendadores de viviendas y locales de negocio, también en todo caso, cuando al realizar el arrendamiento cuenten, al menos, con un local destinado exclusivamente a llevar a cabo la gestión del mismo y una persona empleada con contrato laboral.
+Se modifica por el art. 36.8 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+
+### Artículo 12
+
+Artículo 12. Declaración.
+1. En el mes de enero de cada año, los sujetos acogidos al régimen concertado deberán presentar ante el órgano competente en materia de vivienda y fianzas de arrendamientos declaración de las fianzas constituidas, devueltas o aplicadas a las finalidades a que estén afectadas, así como su saldo, y relaciones nominales de todo ello.
+2. Si el saldo representa un exceso de las fianzas constituidas sobre las devueltas o aplicadas, se realizará el depósito del 90 por 100 de las primeras.
+3. Si el saldo representa un exceso de las fianzas devueltas o aplicadas sobre las constituidas, procederá la devolución del importe correspondiente, siempre que las cuantías acumuladas en años anteriores con el 10 por 100 no depositado fuesen insuficientes para hacer frente a aquel saldo.
+Se modifica el apartado 1 por el art. 36.9 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+
+### Artículo 13
+
+Artículo 13. Devoluciones.
+1. Los sujetos acogidos al régimen concertado no podrán pedir la devolución parcial del depósito hecho hasta la liquidación anual a que se refiere el artículo anterior.
+2. Sólo procederá la devolución de la totalidad de los depósitos realizados cuando se produzca el cese de la actividad que implique la devolución de la totalidad de las fianzas.
+3. En ambos casos las devoluciones pertinentes deberán practicarse en el plazo de dos meses desde la liquidación, transcurrido el cual sin que se hayan realizado, su importe devengará el interés legal desde la fecha de la liquidación.
+
+### Artículo 14
+
+Artículo 14. Renuncia y exclusiones.
+1. Se podrá renunciar en cualquier momento al régimen concertado.
+2. Quedarán excluidos del régimen concertado los sujetos que dejen de reunir los requisitos establecidos en el artículo 11 y los que incurran en responsabilidades que lleven aparejada esta sanción.
+3. La renuncia o exclusión implicará la aplicación del régimen general, con depósito de la totalidad de las cantidades correspondientes a las fianzas, mediante la oportuna liquidación.
+
+## CAPÍTULO III
+
+Inspección
+
+### Artículo 15
+
+Artículo 15. Competencia.
+Las funciones inspectoras, con el fin de comprobar e investigar el exacto cumplimiento de las obligaciones establecidas por esta ley, corresponderán al órgano competente en materia de vivienda y fianzas de arrendamientos.
+Se modifica por el art. 36.10 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+
+### Artículo 16
+
+Artículo 16. Deber de colaboración.
+1. Los sujetos obligados al depósito de las fianzas deberán colaborar en el desarrollo de las funciones inspectoras, proporcionando cuantos datos y documentos resulten relevantes para fiscalizar el exacto cumplimiento de esta ley.
+2. En particular, los sujetos acogidos al régimen concertado vendrán obligados a facilitar cuantas comprobaciones en su contabilidad sean pertinentes en lo que afecte al exacto cumplimiento de esta ley.
+Se modifica por el art. 36.11 de la Ley 2/2016, de 28 de enero.Ref. BOE-A-2016-2408.
+
+### Artículo 17
+
+Artículo 17. Actas de inspección.
+1. Comprobado el exacto y total cumplimiento de las obligaciones establecidas en esta Ley, se extenderá acta de comprobado y conforme.
+2. Si se comprobase el incumplimiento de alguna obligación establecida en esta ley, los servicios de inspección de la Dirección General de Vivienda y Rehabilitación harán la pertinente propuesta de regularización, extendiendo acta de conformidad si el sujeto obligado, sin perjuicio de su derecho de recurso, acepta regularizar su situación en los términos propuestos, en cuyo caso el importe de las sanciones procedentes se reducirá en un 25 por 100.
+3. Si el sujeto obligado no acepta la regularización propuesta, se extenderá acta de disconformidad y se abrirá el oportuno expediente para la resolución que proceda.
+Se modifica el apartado 2 por el art. 36.12 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+
+## CAPÍTULO IV
+
+Infracciones y sanciones
+
+### Artículo 18
+
+Artículo 18. Infracciones.
+1. Constituirán infracciones leves:
+a) La falta de presentación en plazo de la declaración anual en el régimen concertado.
+b) El incumplimiento del deber de colaboración cuando no constituya infracción grave.
+2. Constituirán infracciones graves:
+a) El incumplimiento de la obligación de depósito de las fianzas en la cuantía que corresponda.
+b) El incumplimiento de manera general del deber de colaboración que impida el conocimiento de la situación del sujeto obligado a los efectos de esta Ley.
+c) La falta de aportación de documentos contables o la negativa a su exhibición en el régimen concertado.
+Se modifica el apartado 1 por el art. 36.13 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+
+### Artículo 19
+
+Artículo 19. Sanciones.
+1. Las infracciones leves serán sancionadas con multa de 100 euros a 300 euros.
+2. Las infracciones graves serán sancionadas con multa de 301 euros a 3.000 euros.
+3. Cuando en la comisión de infracciones graves concurran dos o más atenuantes, en atención a las circunstancias, la Administración podrá imponer la multa correspondiente a las infracciones de gravedad inmediatamente inferior.
+Cuando en la comisión de infracciones leves concurran dichas circunstancias, la multa se impondrá en su cuantía mínima.
+Se modifica por el art. 36.14 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+ Se añade el apartado 5 por la disposición adicional 2.2 de la Ley 24/2003, de 26 de diciembre. Ref. BOE-A-2004-889.
+
+### Artículo 20
+
+Artículo 20. Graduación de sanciones.
+Las sanciones que lo permitan se graduarán atendiendo en cada caso a la buena o mala fe del infractor, a la cuantía del depósito dejado de ingresar y a la comisión reiterada de infracciones reguladas en esta Ley.
+
+### Artículo 21
+
+Artículo 21. Competencias.
+La competencia para la imposición de las sanciones establecidas en la presente ley corresponderá al Director General competente en materia de vivienda.
+Se modifica por el art. 36.15 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408.
+
+### Artículo 22
+
+Artículo 22. Procedimiento sancionatorio.
+1. El procedimiento para la imposición de las sanciones establecidas en la presente Ley se ajustará a lo dispuesto en la legislación estatal de procedimiento administrativo.
+2. En relación con la ejecución de las sanciones, serán de aplicación las normas específicas que reglamentariamente se establezcan, y en lo no previsto por éstas, las reglas generales contenidas en la citada legislación estatal y en el régimen general de recaudación de los ingresos públicos en la Comunidad Autónoma de Aragón.
+
+### Artículo 23
+
+Artículo 23. Prescripción.
+1. El derecho a la imposición de sanciones por infracciones simples prescribirá al año, y por infracciones graves, a los cinco años, contados desde la producción del hecho.
+2. El derecho al cobro de las sanciones pecuniarias prescribirá a los cinco años, contados desde su notificación a los interesados.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Papel de Fianzas.
+1. Los depósitos realizados mediante Papel de Fianzas con anterioridad a la entrada en vigor de esta Ley surtirán los mismos efectos que el ingreso en efectivo conforme al régimen general regulado en la misma.
+2. Las normas sobre el Papel de Fianzas contenidas en el Decreto de 11 de marzo de 1949 se aplicarán a los depósitos realizados con anterioridad a la entrada en vigor de esta Ley, en todo lo que no se oponga a la misma.
+3. El Papel de Fianzas sin utilizar existente se retirará de la circulación y se procederá a su destrucción.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Régimen concertado.
+En todo caso, las disposiciones sobre régimen concertado de esta Ley se aplicarán a los sujetos que a la entrada en vigor de la misma estuvieran acogidos al régimen concertado regulado por el Decreto de 11 de marzo de 1949, aunque no reúnan los requisitos establecidos en ella.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Forma de ingreso del depósito en efectivo.
+De conformidad con lo regulado en el artículo 9.1 de esta Ley, mientras no se establezca otra forma de ingreso del depósito en efectivo, el Departamento de Economía y Hacienda, constituyendo en su caso cuentas restringidas propias, aplicará, con las debidas adaptaciones y a través de entidad financiera de crédito o ahorro, el régimen de ingresos establecido para los tributos cedidos a la Comunidad Autónoma.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario y aplicación.
+Se faculta a la Diputación General de Aragón para dictar las disposiciones necesarias para el desarrollo y aplicación de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Actualización de sanciones.
+La cuantía de las sanciones establecidas en esta Ley podrá ser actualizada por la Ley de Presupuestos de la Comunidad Autónoma de Aragón.
+
+### Disposición final tercera
+
+Disposición final tercera. Recursos del Instituto del Suelo y la Vivienda de Aragón.
+1. En la Ley 6/1985, de 22 de noviembre(*), de Creación del Instituto del Suelo y la Vivienda de Aragón, el apartado e) del artículo 15 quedará redactado de la manera siguiente:
+«e) El 80 por 100 del importe total de las fianzas de arrendamientos y otros contratos, que obligatoriamente deberán depositar los propietarios y empresas a disposición del Instituto en la forma establecida por la legislación especial en la materia.»
+2. En la misma Ley se añadirá un apartado g) al artículo 15 con la siguiente redacción:
+«g) Cualesquiera otros recursos, ordinarios o extraordinarios, que se le puedan atribuir con arreglo a las disposiciones vigentes.»
+(*) Téngase en cuenta que la Ley 6/1985, de 22 de noviembre, de creación del Instituto del Suelo y la Vivienda de Aragón fue derogada por la disposición derogatoria 3 de la Ley 26/2001, de 28 de diciembre. Ref. BOE-A-2002-1308
+
+### [firma]
+
+Así lo dispongo a los efectos del artículo 9.1 de la Constitución y los correspondientes del Estatuto de Autonomía de Aragón.
+Zaragoza, 4 de noviembre de 1992.
+El Presidente de la Diputación General de Aragón,
+Emilio Eiroa García.

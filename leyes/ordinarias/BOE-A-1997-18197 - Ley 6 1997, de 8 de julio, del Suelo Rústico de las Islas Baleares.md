@@ -1,0 +1,588 @@
+# Ley 6/1997, de 8 de julio, del Suelo Rústico de las Islas Baleares.
+
+- Identificador BOE: `BOE-A-1997-18197`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1997-18197
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LAS ISLAS BALEARES
+Sea notorio a todos los ciudadanos que el Parlamento de las Islas Baleares ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 27.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+1. Los terrenos agrupados bajo la denominación genérica de suelo rústico constituyen la mayor parte del territorio de las islas Baleares y, como consecuencia de las tensiones que el modelo económico actual, gran consumidor de recursos naturales y de territorio, produce sobre estos terrenos, son objeto de un proceso creciente de sustitución de las actividades tradicionales por otras que, basadas en los usos turísticos, residenciales y de servicios, inciden de modo importante sobre su naturaleza y características, desvirtuando sus elementos esenciales y atentando contra uno de los principales activos de futuro de que dispone esta comunidad.
+2. A pesar de su importancia territorial y de los procesos de transformación a que está sometido, esta clase de suelo es regulada, en la actualidad, por una normativa muy parca, basada fundamentalmente en el texto refundido de la Ley sobre Régimen del Suelo y Ordenación Urbana, aprobado mediante el Decreto 1346/1976, de 9 de abril, que determina para el suelo no urbanizable un carácter prácticamente residual, tanto en la concepción como en la concreción normativa, respecto de la normativa que en dicha legislación se establece para los terrenos que han de ser objeto de desarrollo urbanístico.
+Resulta, pues, necesario, abordar la regulación de esta clase de suelo de una manera objetiva y detallada que, desde la óptica de su protección global frente a los procesos de desarrollo urbanístico, tenga en cuenta su importancia en el esquema territorial de las islas Baleares y limite, ordene y reconduzca los procesos de transformación a que se enfrenta.
+3. Para ello, la Ley establece, en el título I, una definición de carácter positivo de los terrenos que constituyen esta clase de suelo, añadiendo a los ya adscritos al suelo no urbanizable por la normativa básica estatal aquellos cuya asignación a tal clase deriva de la necesidad de mantenimiento de las características de la estructura territorial y los que, por ser soporte de funciones originadas en el medio urbano, han de mantener sus características originarias e integrarse, para su ordenación, en el esquema funcional de aquél. La Ley sistematiza el procedimiento para la determinación de las medidas de protección de los terrenos señalando que atenderán a cada uno de sus elementos caracterizadores, según la valoración intrínseca que podrán referirse a su totalidad y que podrán alcanzar, asimismo, las instalaciones y las construcciones en ellos ubicadas mediante la definición de un régimen específico de protección para las mismas.
+En el título I se determina, asimismo, que la asignación de los terrenos a esta clase de suelo será efectuada por los instrumentos de planeamiento general, con arreglo a las pautas básicas que se definen en la Ley, y que su ordenación urbanística, concretada en la calificación y en la regulación de las actividades y las edificaciones, podrá estar contenida en estos instrumentos o en el planeamiento especial, definiéndose el contenido mínimo que, al efecto, deberán incluir.
+La Ley define las calificaciones básicas para la concreción de la ordenación, dentro de las cuales podrán luego definirse las diferentes zonas según su regulación, y determina la posibilidad de ordenación de los asentamientos y conjuntos edificados mediante la calificación como núcleo rural en el suelo rústico, sin alteración de la clasificación del suelo.
+4. El título II concreta, respetando el marco normativo estatal que resulta constitucionalmente de aplicación, las limitaciones que la clasificación como suelo rústico y la asignación o no, a un régimen de especial protección supone para el contenido del derecho de propiedad, estableciendo asimismo la necesidad de obtención de licencia municipal previa para la segregación de terrenos en esta clase de suelo.
+5. Para la ordenación de las actividades, el título III, respetando asimismo el marco básico de la legislación estatal, las diferencias según el uso y la clase de actuación que cada una conlleva, determinando su vinculación a la parcela en que se autoricen y estableciendo la subordinación de las edificaciones e instalaciones al uso con ellas relacionado.
+A fin de igualar, en cierta forma, su régimen de cargas a las que son propias de las actividades desarrolladas en otras clases de suelo, la Ley determina que las actividades distintas a las consustanciales al suelo rústico conllevan la atribución de un aprovechamiento atípico, parte del cual pertenece a la Administración municipal y debe ser adquirido por los interesados a fin de hacer participar a la comunidad de las plusvalías que su atribución genera.
+La Ley define los requisitos a los que habrán de someterse las diferentes actividades, estableciendo controles complementarios a los que resultan de la aplicación de la normativa general reguladora de los usos, obras y actividades, y respetando las normativas básicas específicas por las que se regulan las actividades que el marco básico estatal define como propias de esta clase de suelo, así como las relacionadas con la ejecución, el uso y el mantenimiento de las infraestructuras públicas.
+Respecto de las actividades de las que resulten nuevas viviendas unifamiliares, se establece la necesidad de que la superficie de la parcela, a ellas vinculada, supere los parámetros mínimos que, para cada isla y según la calificación básica de los terrenos, se definen, contemplando, asimismo, la posibilidad de efectuar este tipo de actividades sin ajustarse a dichos parámetros en los casos específicos en los que el planeamiento municipal, de modo justificado y con las limitaciones constructivas que estime pertinentes, así lo proponga. La Ley establece una única posibilidad para la autorización de actividades distintas de las admitidas o de las vinculadas a la vivienda unifamiliar, la de su declaración como actividades de interés general, definiendo las prioridades a que tales declaraciones deberán atender y los requisitos que habrán de cumplimentar.
+6. El título IV contiene la definición de las características básicas a las que habrán de ajustarse las edificaciones, así como de las condiciones a que deberá ajustarse el tratamiento arquitectónico y paisajístico de su entorno, de modo que se garantice su mejor integración en el medio rural. Asimismo, se determina la necesidad de desarrollo posterior de los principios básicos formulados, a fin de adaptarlos a la realidad de cada zona concreta. Por último, y a fin de no coartar las posibilidades creativas y de innovación en este campo, la regulación prevé, asimismo, la posibilidad de que, sin respetar la totalidad de dichas condiciones, se planteen soluciones alternativas que deberán ser autorizadas, en cada caso, por la Comisión Insular de Urbanismo respectiva.
+7. El título V contiene la definición de los procedimientos para la autorización de las actividades relacionadas con los diferentes usos, determinando la naturaleza, las características y los plazos de los distintos informes exigidos y estableciendo la posibilidad de regular las características de la documentación que acompañe a las solicitudes, a fin de dotar de contenido real los trámites de información pública que en ella se determinan.
+En este título se regula, asimismo, la posibilidad de formación de patrimonios públicos en esta clase de suelo, y se determina la necesidad de arbitrar medidas de fomento de los terrenos asignados al suelo rústico protegido o que mantengan el uso primario, señalando que deberán instrumentalizar efectivamente a través de reducciones y bonificaciones impositivas y de un tratamiento preferente en materia de ayudas y subvenciones de la administración.
+8. La Ley se completa con las disposiciones adicionales, en que se contienen las modificaciones de la legislación vigente que de sus determinaciones se derivan, así como una serie de medidas, plenamente consecuentes con sus objetivos, que ha parecido oportuno adoptar de forma paralela a su formulación: la equiparación entre municipios interiores y costeros en cuanto a las limitaciones al riego de los campos de golf, las limitaciones a las reclasificaciones de los terrenos asignados a esta clase de suelo, y la prohibición del emplazamiento de caravanas y del resto de elementos móviles habitables. Por último, la Ley define las necesarias disposiciones transitorias, en las que se contienen las medidas de aplicación hasta que no se produzca la plena adaptación de los instrumentos de planeamiento general a su contenido, el régimen de aplicación a los edificios e instalaciones ya construidos y las disposiciones por las que se regirán los expedientes iniciados con anterioridad a su entrada en vigor.
+
+## TÍTULO I
+
+Determinaciones generales
+
+## CAPÍTULO I
+
+Disposiciones previas
+
+### Artículo 1
+
+Artículo 1. Objeto.
+El objeto de esta ley es regular y proteger el suelo rústico de las islas Baleares. Con esta finalidad:
+1. Define los terrenos que lo constituyen y las calificaciones básicas para su ordenación.
+2. Establece su régimen jurídico, definiendo las limitaciones legales que delimitan el contenido del derecho de propiedad.
+3. Regula las actividades que en él pueden admitirse, las condiciones de las edificaciones y de las instalaciones a ellas vinculadas y el procedimiento para su autorización.
+
+### Artículo 2
+
+Artículo 2. Concepto.
+1. (Derogado).
+2. (Derogado).
+3. Por otra parte, la protección de los elementos de identidad podrá referirse a la totalidad o parte de los mismos, se establecerá de forma proporcional a su valor intrínseco y podrá, asimismo, referirse a construcciones, instalaciones o conjuntos edificados ubicados en esta clase de suelo, para los cuales se configurará un régimen de protección específico.
+Se derogan los apartados 1 y 2 por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+
+### Artículo 3
+
+Artículo 3. Destino
+1. El suelo rústico no podrá destinarse a otras actividades que las relacionadas con el uso y la explotación racional de los recursos naturales y la ejecución, el uso y el mantenimiento de infraestructuras públicas.
+2. Ello no obstante, podrán autorizarse, en determinadas condiciones, actividades relacionadas con el uso de vivienda unifamiliar o declaradas de interés general, que habrán de desarrollarse, en su caso, en edificios o instalaciones de carácter aislado.
+
+### Artículo 4
+
+Artículo 4. Clasificación.
+1. La asignación de los terrenos a esta clase de suelo se efectuará mediante los instrumentos de planeamiento general, con arreglo a lo dispuesto en las Leyes y en los instrumentos de ordenación territorial.
+2. En todo caso se incluirán en suelo rústico:
+a) El dominio público marítimo-terrestre e hidráulico, de acuerdo con la legislación específica.
+b) Los terrenos que tengan un relevante valor agrícola, forestal, pecuario, cinegético, natural, paisajístico o cultural.
+c) Los terrenos cuyas características geotécnicas o morfológicas no aconsejen el desarrollo urbanístico por el riesgo o alto impacto que conllevaría.
+d) Los terrenos que, aisladamente o en conjunto, conformen unidades paisajísticas cuyas características interese mantener.
+e) Los terrenos que posean valor etnológico o que constituyan el entorno de elementos arqueológicos, de arquitectura rural o, en general, de patrimonio histórico sometidos a un régimen de protección específico.
+f) Los terrenos que, de acuerdo con la estrategia territorial adoptada, deban excluirse del proceso de desarrollo urbanístico o preservarse del mismo.
+
+## CAPÍTULO II
+
+Determinaciones de la ordenación
+
+### Artículo 5
+
+Artículo 5. Concreción de la ordenación.
+1. La ordenación de los terrenos clasificados como suelo rústico se concretará en:
+a) La calificación.
+b) La regulación de las actividades, según el uso al que se vinculen y las actuaciones edificatorias que comporten.
+c) La definición de las condiciones a las que habrán de ajustarse las construcciones, edificaciones e instalaciones.
+2. (Derogado).
+3. La regulación de las actividades contempladas en el artículo 3 de esta Ley se diferenciará en función de que supongan o no actuaciones edificatorias y, dentro de éstas, la ejecución de obras en edificios o instalaciones existentes o la construcción de otros nuevos.
+4. La definición de las condiciones de las construcciones, instalaciones y edificaciones se referirá a las características tipológicas, estáticas y constructivas y se establecerá en base a las que sean propias del medio rural en que se ubiquen.
+Se deroga el apartado 2 por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+ Se modifica el apartado 2 por la disposición final 2.1 de la Ley 12/2014, de 16 de diciembre. Ref. BOE-A-2015-951.
+
+### Artículo 6
+
+Artículo 6. Suelo rústico protegido.
+1. Constituirán el suelo rústico protegido los terrenos para los que, por sus valores excepcionales, la función territorial o la defensa de la fauna, flora y el equilibrio ecológico, se establece un régimen especial de protección distinto del general para esta clase de suelo.
+2. La ordenación del suelo rústico protegido se dirigirá a garantizar la permanencia de los elementos de identidad que los caracterizan, definiendo para ellos medidas de protección. Dichas medidas podrán extenderse a la totalidad de los citados elementos; en estos casos se determinará la imposibilidad de efectuar en los terrenos cualquier actividad que los altere.
+3. En todo caso se calificarán como suelo rústico protegido, con mantenimiento del régimen que resulte de la regulación específica:
+a) Los terrenos incluidos en el ámbito de la Ley 1/1991, de 30 de enero, de Espacios Naturales y de Régimen Urbanístico de las Áreas de Especial Protección de las Islas Baleares.
+b) Los terrenos que se declaren espacios naturales protegidos en virtud de lo dispuesto por la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres.
+c) Los terrenos que determinen los instrumentos aprobados al amparo de lo dispuesto por la Ley 8/1987, de 1 de abril, de Ordenación Territorial de las Islas Baleares.
+d) Los terrenos que determinen los planes y normas de la Consejería de Agricultura, Comercio e Industria de la Consejería de Medio Ambiente, Ordenación del Territorio y Litoral.
+
+### Artículo 7
+
+Artículo 7. Suelo rústico común.
+Constituirán el suelo rústico común el resto de los terrenos asignados a esta clase de suelo. Dentro de ellos, la ordenación diferenciará los mayoritariamente ocupados por masas forestales y de monte bajo excluidos de la calificación de suelo rústico protegido, y definirá para dichos terrenos medidas que fomenten su permanencia y mantenimiento.
+
+### Artículo 8
+
+Artículo 8. Núcleos rurales.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 7/2012, de 13 de junio. Ref. BOE-A-2012-9374.
+ Se deroga por la disposición derogatoria del Decreto-ley 2/2012, de 17 de febrero. Ref. BOIB-i-2012-90025.
+ Se modifica el apartado 3 por el art. 21.1 de la Ley 9/1997, de 22 de diciembre. Ref. BOE-A-1998-9158.
+
+### Artículo 9
+
+Artículo 9. Instrumentos y contenido mínimo de la ordenación.
+(Derogado).
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+ Se modifica por la disposición final 2.2 de la Ley 12/2014, de 16 de diciembre. Ref. BOE-A-2015-951.
+
+## TÍTULO II
+
+Limitaciones al derecho de propiedad
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+
+### Artículo 10
+
+Artículo 10. Contenido del derecho de propiedad.
+La clasificación de un terreno como suelo rústico y la calificación como rústico protegido o rústico común supondrá la determinación de las limitaciones legales que delimitan el contenido del derecho de propiedad y su concreción mediante la definición de las facultades y deberes que lo integran, en el marco de las condiciones básicas fijadas por la legislación estatal.
+
+### Artículos 10 a 13
+
+Artículos 10 a 13.
+(Derogados).
+Se derogan por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+
+### Artículo 11
+
+Artículo 11. Facultades y deberes en el suelo rústico común.
+1. Para los terrenos calificados como suelo rústico común, el contenido del derecho de propiedad integrará las siguientes facultades:
+a) Realizar las actividades necesarias para la explotación agrícola, forestal, cinegética y pecuaria mediante el uso de los medios técnicos e instalaciones adecuadas, conforme a su normativa específica, y sin que impliquen, en ningún caso, la transformación de su condición o características esenciales.
+b) Desarrollar las actividades que se autoricen en virtud de lo dispuesto en esta Ley.
+2. Para los terrenos calificados como suelo rústico común, el contenido del derecho de propiedad comportará los siguientes deberes:
+a) Conservar, mantener y, en su caso, reponer el suelo y la vegetación en las condiciones necesarias para evitar riesgos de erosión, incendio o perturbación de la seguridad y de la salud públicas o del medio ambiente y el equilibrio ecológico. Asimismo, mantener las condiciones productivas agrarias de los terrenos.
+b) Abstenerse de realizar cualquier actividad no controlada que pueda tener como efecto la contaminación de la tierra, el agua o el aire.
+c) Ejecutar los planes y programas que les resulten de obligado cumplimiento, conforme a la legislación reguladora de las actividades a las que se refiere el punto 1.a), anterior.
+d) Cumplir las obligaciones y soportar, en su caso, las cargas que, para el ejercicio de las facultades a que se refiere el punto 1.b), anterior, se impongan en virtud de lo dispuesto en esta Ley.
+e) Permitir a las Administraciones públicas competentes, sin derecho a indemnización cuando no afecten a actividades rentables legalmente desarrolladas, la realización de trabajos de plantación y conservación de la vegetación dirigidos a prevenir la erosión o los desastres naturales.
+Se modifica el apartado 2.a) por la disposición final 2.3 de la Ley 12/2014, de 16 de diciembre. Ref. BOE-A-2015-951.
+
+### Artículo 12
+
+Artículo 12. Facultades y deberes en el suelo rústico protegido.
+1. Los terrenos calificados como suelo rústico protegido, además de las limitaciones al derecho de propiedad propias de los terrenos asignados al suelo rústico común, tendrán las que se deriven de su especial régimen de protección.
+2. Ello no obstante, toda afección restrictiva por normas de protección, de usos y de aprovechamientos ejecutados en virtud de autorización legal constituirá un supuesto de lesión determinante de la responsabilidad de la administración que la haya originado.
+
+### Artículo 13
+
+Artículo 13. Segregaciones.
+1. En el suelo rústico sólo podrán realizarse actos que tengan por objeto o consecuencia la parcelación, segregación o división de terrenos o fincas cuando sean conformes con lo dispuesto en esta Ley y en la legislación agraria propia de la Comunidad Autónoma de las islas Baleares.
+2. Los actos a que se refiere el punto anterior estarán sujetos a la obtención de licencia municipal previa. Serán nulos los que se efectúen sin esta licencia.
+3. Se exceptuarán de la necesidad de obtención de licencia, debiéndose en tales supuestos aportar certificado de su innecesariedad, los siguientes casos:
+a) Cuando los actos sean consecuencia de la ejecución de determinaciones del planeamiento o de las infraestructuras públicas.
+b) En los supuestos en que se establezca reglamentariamente.
+4. El planeamiento territorial, urbanístico o medioambiental no podrá establecer limitaciones o restricciones al régimen de segregaciones previstos en la legislación agraria, siempre que cumpla la unidad mínima de cultivo o forestal prevista en la legislación agraria y la forestal, sea cual sea la fecha de segregación.
+5. Excepcionalmente se permitirá la división o la segregación por debajo de la unidad mínima de cultivo o forestal en los supuestos previstos en la Ley 19/1995, de 4 de julio, de modernización de las explotaciones agrarias, y, en su caso, en la legislación agraria de la comunidad autónoma de las Illes Balears.
+Téngase en cuenta que se suspende la aplicación de los apartados 4 y 5, a partir del 14 de enero de 2016, según establece la disposición adicional única.5 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225.
+Se suspende la aplicación de los apartados 4 y 5, en la redacción dada por la Ley 12/2014, de 16 de diciembre, por la disposición adicional única.5 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225.
+ Se añaden los apartados 4 y 5 por la disposición final 2.4 de la Ley 12/2014, de 16 de diciembre. Ref. BOE-A-2015-951.
+
+## TÍTULO III
+
+Actividades
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 14
+
+Artículo 14. Regulación general.
+1. Las actividades a las que se refiere el punto 1.a) del artículo 11 de la presente Ley se regularán por su normativa específica, mientras que las contempladas en el punto 1.b) del mismo artículo se regirán, para la autorización y ejecución, por lo dispuesto en esta Ley.
+2. La autorización de una actividad deberá, en todo caso, valorar su impacto en el medio natural y su incidencia paisajística. Con esta finalidad podrán solicitarse de los órganos con competencia medioambiental informes sobre los aspectos del proyecto que se estimen convenientes.
+
+### Artículo 15
+
+Artículo 15. Vinculación a las parcelas.
+1. La autorización de una actividad de las contempladas en el punto 1.b) del artículo 11 de la presente Ley conllevará la vinculación legal a esta actividad de la superficie total de la parcela en que se efectúe, que no podrá ser objeto de ningún acto de los previstos en el artículo 13 de esta Ley mientras subsista la actividad. Esto no será de aplicación en los casos en que, por exceder la parcela vinculada la superficie mínima exigida, se acredite, mediante la tramitación del oportuno expediente, que la actividad continuará cumpliendo los requisitos de parcela mínima exigidos para su autorización.
+2. La documentación y las autorizaciones necesarias para la inscripción registral de la vinculación, deberán aportarse previamente a la autorización, y posteriormente se dará traslado de la citada vinculación al Registro de la Propiedad para su constancia en la inscripción de la finca.
+3. Lo determinado en los dos puntos anteriores no será de aplicación en los supuestos establecidos por el artículo 16 bis de la Ley 1/1991, de 30 de enero, de Espacios Naturales y de Régimen Urbanístico de las Áreas de Especial Protección de las Islas Baleares, en la redacción realizada mediante la Ley 7/1992, de 23 de diciembre, en los que se sustituirá, en los mismos términos, por el asiento registral que resulte pertinente.
+
+### Artículo 16
+
+Artículo 16. Vinculación a los usos.
+1. La autorización de una actividad de las contempladas en el punto 1.b) del artículo 11 de la presente Ley, se referirá exclusivamente al uso al que se vincule, por lo que la tipología, distribución y programa de los edificios e instalaciones relacionados con la misma, deberán ser las apropiadas a dicho uso y estar subordinadas a él.
+2. El incumplimiento de las condiciones de la autorización en cuanto al uso vinculado incurrirá en el supuesto contemplado por el artículo 27. 1.c) de la Ley 10/1990, de 23 de octubre, de Disciplina Urbanística, y supondrá, además de la adopción de las medidas disciplinarias que correspondan, la inclusión del edificio o instalación en el régimen de fuera de ordenación que define el artículo 2 de la Ley 8/1988, de 1 de junio, de Edificios e Instalaciones Fuera de Ordenación.
+
+### Artículo 17
+
+Artículo 17. Prestación compensatoria por usos y aprovechamientos excepcionales.
+1. La autorización de actividades en suelo rústico relacionadas con usos extractivos o declaradas de interés general genera una prestación compensatoria derivada de la atribución de un uso y aprovechamiento excepcional atípico en esta clase de suelo. Quedan en todo caso exentas de esta prestación las actividades relacionadas con la protección y la educación ambiental, las actividades del sector primario, a excepción de las extractivas, y las industrias de transformación agraria.
+2. La prestación compensatoria grava las expresadas actividades, que se pueden concretar en actos de edificación o su cambio de uso, de construcción, de realización de obras, instalaciones o extracción de áridos, que no estén vinculados a la explotación agrícola, ganadera, forestal, pecuaria y cinegética, o a la conservación y a la defensa del medio natural.
+3. La gestión de la prestación compensatoria por usos y aprovechamientos excepcionales corresponderá al municipio en que se autoricen las actividades sujetas. Los recursos obtenidos se destinarán necesariamente al patrimonio público municipal de suelo, en los términos previstos en la legislación urbanística y en esta ley, o a actuaciones de mejora paisajística y medioambiental en suelo rústico que se hubieran previsto específicamente en el instrumento de planeamiento general urbanístico municipal y que impliquen gasto de capital.
+4. Estarán obligados al pago de esta prestación las personas físicas o jurídicas que promuevan las actividades o los actos citados en los apartados anteriores. En el momento de la concesión de la licencia municipal correspondiente se devengará una cuantía del 10% del importe de los costes de inversión de la implantación efectiva, excluida la correspondiente a maquinaria y equipos.
+5. Los municipios podrán establecer, mediante la correspondiente ordenanza, cuantías inferiores según el tipo de actividad y condiciones de implantación, así como prever exenciones al pago de la prestación compensatoria por actividades benéficas o asistenciales y sin ánimo de lucro cuando éstas se acrediten fehacientemente. En cualquier caso, los actos que realicen las administraciones públicas en ejercicio de sus competencias propias estarán exentos de esta prestación.
+Se modifica por el art. 18.1 de la Ley 7/2012, de 13 de junio. Ref. BOE-A-2012-9374.
+ Se modifica por el art. 16.1 del Decreto-ley 2/2012, de 17 de febrero. Ref. BOIB-i-2012-90025.
+
+## CAPÍTULO II
+
+Clases de actividades
+
+### Artículo 18
+
+Artículo 18. Usos y actuaciones.
+1. A los efectos de esta Ley, las actividades en suelo rústico se regularán según el uso al que se vinculen y el tipo de actuación que conlleven.
+2. Con esta finalidad, se distinguirán tres clases de usos: Admitidos, condicionados y prohibidos, en relación con los cuales se diferenciarán tres tipos de actuaciones, según no comporten la ejecución de obras de edificación, comporten la ejecución de obras en edificaciones o instalaciones existentes o, finalmente, supongan la construcción de edificaciones o instalaciones de nueva planta.
+
+### Artículo 19
+
+Artículo 19. Clases de usos.
+1. Son usos admitidos aquellos que, con carácter general, pueden efectuarse en suelo rústico y cuya autorización no requiere cautelas especiales, ya que las actuaciones a ellos vinculadas no alteran las características esenciales de los terrenos o tienen una incidencia que ya ha sido previamente evaluada y corregida.
+Se considerarán usos admitidos:
+a) Los usos relacionados con el destino o la naturaleza de las fincas.
+b) Los usos relacionados con la ejecución y el mantenimiento de las infraestructuras públicas.
+2. Son usos condicionados aquellos que sólo podrán efectuarse en la forma que los instrumentos de planeamiento general establezcan y para los cuales se definan unos requisitos y unos procedimientos de autorización encaminados a garantizar que la incidencia de las actividades a ellos vinculadas es admisible o resulta minimizada.
+Se considerarán usos condicionados:
+a) El uso de vivienda unifamiliar.
+b) Los usos vinculados a actividades declaradas de interés general.
+3. Son usos prohibidos aquellos en relación con los cuales no es posible autorizar ninguna actividad, dado que la incidencia de las actuaciones que se vinculan a los mismos es incompatible con la protección del suelo rústico. No obstante lo anterior, y excepto cuando así se indique de forma expresa, la prohibición de un uso no implica el cese de los ya existentes ni la prohibición de actuaciones tendentes recuperar, mantener o mejorar las edificaciones e instalaciones realizadas sin infracción de la normativa vigente a la fecha de su implantación.
+Se modifica el apartado 3 por el art. 18.2 de la Ley 7/2012, de 13 de junio. Ref. BOE-A-2012-9374.
+ Se modifica el apartado 3 por el art. 16.2 del Decreto-ley 2/2012, de 17 de febrero. Ref. BOIB-i-2012-90025.
+
+### Artículo 20
+
+Artículo 20. Tipos de actuaciones.
+1. Las actuaciones que no comporten la ejecución de obras de las que resulten nuevos edificios o instalaciones o afecten a alguno ya existente, se efectuarán de acuerdo con lo que disponga la normativa sectorial o la general reguladora de los usos, obras y actividades. Cuando supongan la implantación sobre los terrenos de construcciones, instalaciones o elementos móviles o prefabricados susceptibles de algún uso de los contemplados en esta Ley, deberán someterse a los mismos requisitos y procedimientos de autorización definidos para las actuaciones que comporten edificaciones de nueva planta.
+2. Las actuaciones que supongan la ejecución de obras en edificaciones o instalaciones existentes precisarán, para su realización, las licencias y autorizaciones que resulten oportunas en aplicación de la normativa general reguladora de los usos, obras y actividades. Cuando afecten a edificios o instalaciones sometidos a un régimen específico de protección y en los casos que prevé el título IV de esta Ley, será necesaria, además, la autorización previa de la comisión insular de urbanismo respectiva, en los términos que se concreten en dicho título.
+3. Cuando una actividad relacionada con las actuaciones a que se refieren los puntos 1 y 2 anteriores conlleven la modificación, en cuanto a su naturaleza o características del uso actual de los terrenos, edificaciones o instalaciones, deberá someterse, para la autorización, a los requisitos y procedimientos definidos para las que suponen nuevas edificaciones. Se estimará que concurre tal supuesto, además de cuando así se especifique, cuando se dote a los terrenos, edificios o instalaciones, de características, dependencias o servicios impropios del uso actual.
+4. Las actuaciones que supongan la construcción de edificaciones o instalaciones de nueva planta se someterán, para su autorización, no solamente a los requisitos y procedimientos establecidos por la normativa general reguladora de los usos, obras y actividades, sino también a los definidos en esta Ley, según el uso al que se vinculen y de acuerdo con lo que dispone el título IV.
+
+## CAPÍTULO III
+
+Actividades relacionadas con los usos admitidos
+
+### Artículo 21
+
+Artículo 21. Actividades relacionadas con el destino o con la naturaleza de las fincas.
+1. Tendrán la consideración de actividades relacionadas con el destino o con la naturaleza de las fincas las vinculadas a los siguientes usos: a) los afectos a la explotación agrícola, forestal, pecuaria y cinegética, así como a la conservación y a la defensa del medio natural; b) los recreativos, educativos, culturales y científicos efectuados en el marco de lo dispuesto en la legislación ambiental; c) los usos complementarios regulados en la legislación sectorial.
+2. Las actuaciones relacionadas con estas actividades, sea cual sea el uso al que se vinculan, tendrán que ser las adecuadas para el desarrollo efectivo y no podrán suponer la transformación del destino y las características esenciales de los terrenos. Los edificios y las instalaciones vinculados a estas actuaciones se tendrán que limitar a los estrictamente necesarios.
+3. Los edificios y las instalaciones de nueva planta tendrán que cumplir con lo dispuesto en el título IV de esta ley salvo que, por las especiales características de la actividad de que se trate, el informe preceptivo de la administración competente los exonere de ello, total o parcialmente, en los términos que se establezcan reglamentariamente.
+Se modifica por el art. 3 del Decreto-ley 2/2016, de 22 de enero. Ref. BOE-A-2016-2226.
+ Se suspende la aplicación, en la redacción dada por la Ley 12/2014, de 16 de diciembre, por la disposición adicional única.5 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225.
+ Se modifica por la disposición final 2.5 de la Ley 12/2014, de 16 de diciembre. Ref. BOE-A-2015-951.
+
+### Artículo 22
+
+Artículo 22. Actividades vinculadas a la explotación y a la conservación del medio natural.
+1. Las actividades vinculadas a los usos a los que se refieren los puntos 1.a) y 1.b) del artículo 21 de esta ley, que no comporten actuaciones de edificación, tendrán el carácter de actividades amparadas en las facultades que prevé el supuesto 1.a) del artículo 11 de la ley presente, y se efectuarán por lo tanto fuera del ámbito de la competencia de esta ley.
+2. Tendrán el carácter de edificios e instalaciones vinculados a las actividades señaladas en el punto 1.a) del artículo 21 de esta ley los regulados por su normativa sectorial, sin perjuicio de la tramitación que prevea la matriz de ordenación del suelo rústico de la Ley 6/1999, de 3 de abril, de las directrices de ordenación territorial de las Illes Balears. Cuando comporten el uso de vivienda unifamiliar se tendrán que someter a los mismos trámites y cumplir idénticas condiciones que las determinadas por esta ley para las actividades vinculadas al uso de vivienda unifamiliar.
+3. Cuando las actividades a las que se refiere el punto 1.b) del artículo 21 de esta ley no se efectúen en ejecución de un plan especial o de un plan de los previstos en la legislación ambiental, previamente al desarrollo o a la ejecución, se tendrán que declarar de interés general de acuerdo con el procedimiento señalado en el artículo 26 de la ley presente.
+Se modifica por el art. 3 del Decreto-ley 2/2016, de 22 de enero. Ref. BOE-A-2016-2226.
+ Se suspende la aplicación, en la redacción dada por la Ley 12/2014, de 16 de diciembre, por la disposición adicional única.5 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225.
+ Se modifica por la disposición final 2.6 de la Ley 12/2014, de 16 de diciembre. Ref. BOE-A-2015-951.
+ Se modifica el apartado 2 por la disposición adicional 16 de la Ley 6/1999, de 3 de abril. Ref. BOE-A-1999-11707.
+
+### Artículo 23
+
+Artículo 23. Actividades vinculadas a los usos complementarios de la explotación tradicional.
+(Derogado).
+Se deroga por la disposición derogatoria única.a) de la Ley 12/2014, de 16 de diciembre. Ref. BOE-A-2015-951.
+
+### Artículo 24
+
+Artículo 24. Actividades relacionadas con las infraestructuras públicas.
+1. Tendrán la consideración de actividades relacionadas con las infraestructuras públicas las vinculadas a la ejecución, al uso y al mantenimiento de los siguientes sistemas territoriales:
+a) La red viaria y sus centros de servicio.
+b) Los centros y las redes de abastecimiento de agua y las obras de infraestructuras hidráulicas en general.
+c) Los centros de producción, de servicio, de transporte y de abastecimiento de energía eléctrica y de gas, incluidos los de energías renovables, así como las instalaciones necesarias para su conexión a la red de distribución y las redes destinadas a eficiencia energética.
+d) Las redes de saneamiento, las estaciones de depuración, los sistemas vinculados a la reutilización de aguas residuales, así como las albercas de almacenamiento y las redes de distribución.
+e) Los ferrocarriles, puertos y aeropuertos.
+f) Las telecomunicaciones, teledetección y el control del tráfico aéreo.
+g) Los centros de recogida y tratamiento de los residuos sólidos.
+h) En general, todos los que resulten así calificados en virtud de la legislación específica.
+2. Para que los usos vinculados a estas infraestructuras tengan la condición de admitidos se deberán prever en los instrumentos de planeamiento general o en los instrumentos de ordenación territorial. En su defecto, la ejecución de la actividad exigirá la declaración previa de interés general, salvo que la aprobación del proyecto comporte, en virtud de la legislación específica, tal declaración.
+Se modifica el apartado 2 por el art. 3 del Decreto-ley 2/2016, de 22 de enero. Ref. BOE-A-2016-2226.
+ Se suspende la aplicación del apartado 2, en la redacción dada por la Ley 12/2014, de 16 de diciembre, por la disposición adicional única.5 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225.
+ Se modifica el apartado 2 por la disposición final 2.7 de la Ley 12/2014, de 16 de diciembre. Ref. BOE-A-2015-951.
+ Se modifica el apartado 1.c) por el art. 18.3 de la Ley 7/2012, de 13 de junio. Ref. BOE-A-2012-9374.
+ Se modifican los apartados 1.b), d) y 2 por la disposición adicional 7 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374.
+
+## CAPÍTULO IV
+
+Actividades relacionadas con los usos condicionados
+
+### Artículo 25
+
+Artículo 25. Actividades relacionadas con el uso de vivienda unifamiliar.
+1. Las actividades relacionadas con el uso de vivienda unifamiliar sólo podrán efectuarse en las zonas en que tal uso no esté declarado prohibido por los instrumentos de planeamiento general y las condiciones que en ellos se establezcan. Cuando estas actividades se efectuen en edificaciones existentes se sujetarán a lo dispuesto, con carácter general, para este tipo de actuaciones.
+2. Cuando estas actividades supongan la construcción de una nueva vivienda, sólo podrá resultar una vivienda unifamiliar por parcela, que deberá tener la superficie determinada por el instrumento de planeamiento general que, para los terrenos calificados como suelo rústico común, deberá ser superior o igual a 14.000 metros cuadrados.
+3. Para los terrenos calificados como suelo rústico protegido, el planeamiento municipal determinará las superficies mínimas aplicables, que deberán respetar o superar los parámetros mínimos fijados en esta Ley para el suelo rústico común, y cuando se trate de terrenos incluidos en el ámbito de la Ley 1/1991, de 30 de enero, de espacios naturales y de régimen urbanístico de las áreas de especial protección de las Illes Balears, los parámetros fijados en la matriz del suelo rústico, tal como queda definida en la presente ley.
+4. Las superficies determinadas en el punto 2 anterior tendrán el carácter de mínimas y podrán ser incrementadas por el planeamiento de ámbito municipal de acuerdo con la estrategia territorial que adopte.
+5. Cuando la parcela en que se pretenda la actividad contenga suelos para los cuales se hayan determinados diferentes superficies de parcela mínima, se deberá definir una regla proporcional que concrete la que sea aplicable al caso.
+Se modifica por el art. 4 de la Ley 9/1999, de 6 de octubre. Ref. BOE-A-1999-22243.
+ Se modifica el apartado 3 por el art. 21.2 de la Ley 9/1997, de 22 de diciembre. Ref. BOE-A-1998-9158.
+
+### Articulo 26
+
+Articulo 26. Actividades declaradas de interés general.
+1. Las actividades relacionadas con usos no prohibidos, diferentes de los admitidos o del de vivienda unifamiliar, sólo se pueden autorizar cuando resulten declaradas de interés general por el órgano de cada consejo insular que tenga atribuida esta función, o por el Gobierno de la comunidad autónoma de las Illes Balears, en los casos previstos por el artículo 3.4 de la Ley 9/1990, de 20 de junio, de atribución de competencias a los consejos insulares en materia de urbanismo y habitabilidad.
+2. La declaración de interés general se puede otorgar a todas las actividades que, respetando las limitaciones que se establezcan en los instrumentos urbanísticos o de ordenación territorial en relación con los usos y siendo compatibles con el grado de protección de la zona, contribuyan a la ordenación o al desarrollo rurales, o deban ubicarse en suelo rústico. Los consejos insulares pueden regular específicamente la adecuación del concepto de interés general en cada isla, sin perjuicio de lo que establece esta ley.
+A los efectos de esta ley, se entiende por ordenación o desarrollo rurales el conjunto de políticas públicas dirigidas a mantener y ampliar la base económica del medio rural a través de la preservación de actividades competitivas y multifuncionales, y a diversificar su economía con la incorporación de nuevas actividades compatibles con un desarrollo sostenible.
+3. Las declaraciones de interés general se dirigirán preferentemente a fomentar las actividades que supongan la preservación de edificios o instalaciones de valor etnológico o arquitectónico o la implantación, previa su adecuación a lo que dispone el título IV de esta Ley, de nuevas actividades en edificaciones o instalaciones en estado de deterioro que no estén declaradas fuera de ordenación.
+4. Las actuaciones vinculadas a estas actividades deberán ajustarse a las condiciones exigidas en los títulos III y IV de esta Ley para la vivienda unifamiliar salvo en los casos en que, por las características específicas de la actividad de que se trate, se justifiquen, no resulten aplicables y así se acepte en la declaración de interés general. La excepción también tendrá efectos respecto de la licencia prevista en el artículo 13 de esta Ley. Cuando la exoneración afecte a las condiciones de aprovechamiento, altura o parcela mínima, deberán imponerse medidas tendentes a minimizar la afección a los predios colindantes.
+5. Las limitaciones establecidas en los puntos anteriores no serán de aplicación a las declaraciones de interés general relativas a dotaciones de servicios contempladas en el artículo 30.3 de esta Ley, ni a las relativas a infraestructuras públicas a que se refiere el artículo 24.2 de la presente Ley, a las cuales resultarán de aplicación las limitaciones específicas definidas en esta Ley para ambos tipos de actividades.
+Se modifican los apartados 1 y 2 por el art. 50.1 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se modifican los apartados 1 y 2 por el art. 50.1 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a5-2
+ Se modifica el apartado 2 por el art. 5 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225.
+ Se modifica el apartado 2 por el art. 18.4 de la Ley 7/2012, de 13 de junio. Ref. BOE-A-2012-9374.
+ Se modifica el apartado 2 por el art. 16.3 del Decreto-ley 2/2012, de 17 de febrero. Ref. BOIB-i-2012-90025.
+ Se añade el apartado 5 por la disposición adicional 15 de la Ley 6/1999, de 3 de abril. Ref. BOE-A-1999-11707.
+
+## TÍTULO IV
+
+Condiciones de las edificaciones e instalaciones
+
+### Artículo 27
+
+Artículo 27. Regulación general.
+1. Los instrumentos de planeamiento general deberán regular las condiciones de las obras, edificaciones e instalaciones en suelo rústico, respetando las condiciones generales establecidas en este título y adaptando las que reglamentariamente se establezcan a las que resulten características del ámbito que ordene.
+2. Con carácter general, las obras, edificaciones e instalaciones habrán de adaptarse a las tipologías propias del medio rural en que se ubiquen, a cuyo efecto se habrá de optar por:
+a) Ajustarse a las condiciones que, según lo señalado en el punto anterior, se establezcan.
+b) No ajustarse a dichas condiciones y adoptar otras soluciones que, respetando lo señalado en los puntos 1 y 2 del artículo 28 de esta Ley, deberán autorizarse, en cada caso y de forma justificada, por la comisión insular de urbanismo respectiva.
+
+### Artículo 28
+
+Artículo 28. Condiciones de la edificación.
+La regulación de las condiciones de la edificación que la ordenación establezca deberá, al menos, definir:
+1. La superficie máxima construíble, que no podrá superar los porcentajes de la superficie de la parcela que a continuación se señalan, expresados en metros cuadrados de techo:
+a) En las islas de Mallorca y de Menorca: El 3 por 100.
+b) En las islas de Ibiza y de Formentera: El 4 por 100.
+2. El porcentaje máximo de la parcela que podrá ocuparse por la edificación y el resto de elementos constructivos, que deberá ser inferior:
+a) En las islas de Mallorca y de Menorca: Al 4 por 100.
+b) En las islas de Ibiza y de Formentera: Al 5 por 100.
+3. La altura máxima de los edificios, que no podrá superar las dos plantas de altura y los ocho metros desde el nivel de la planta baja hasta el remate de la cubierta.
+4. El volumen máximo construíble en cada edificio, que no podrá superar los 1.500 metros cúbicos, así como la separación mínima entre edificios, que deberá ser lo suficientemente amplia como para que se singularice el impacto de cada uno.
+5. Las características tipológicas de los edificios, según las propias de cada zona, definiendo al menos condiciones de volumetría, tratamiento de fachadas, morfología y tamaño de huecos y soluciones de cubierta.
+6. Las características estéticas y constructivas de los edificios, instalaciones y construcciones determinando los materiales y acabados admitidos.
+
+### Artículo 29
+
+Artículo 29. Condiciones de posición e implantación.
+1. Los edificios se ubicarán, dentro de la parcela, atendiendo a:
+a) La salvaguarda de la condición rústica de los terrenos.
+b) Las posibilidades de explotación agrícola, en su caso.
+c) La protección de las características generales del paisaje y la reducción del impacto visual.
+2. A tal fin, las determinaciones de la ordenación deberán definir las condiciones de posición de los edificios en relación a:
+a) Retranqueos de linderos que garanticen su condición de aislados.
+b) Situación, según la topografía de la parcela.
+c) Condiciones de abancalamiento obligatorio y de acabado de los bancales resultantes.
+d) Ámbito de obligada ubicación de las edificaciones posibles en una determinada zona.
+3. La regulación podrá, asimismo, determinar:
+a) Los porcentajes de la parcela que habrán de mantenerse en su estado natural.
+b) Los terrenos del entorno del edificio en los cuales deberá procederse a la reforestación, con indicación de las características y porte inicial de los elementos arbóreos.
+c) Las condiciones de la vegetación en el perímetro y las fachadas de las edificaciones determinando sus características básicas.
+d) Las características de los cerramientos de la parcela.
+e) En general, todas aquellas condiciones tendentes a conseguir la menor ocupación territorial y la mejor protección del paisaje y del medio natural, así como la preservación del patrimonio y la singularidad arquitectónica de la zona.
+
+### Artículo 30
+
+Artículo 30. Dotación de servicios.
+1. Las edificaciones e instalaciones deberán resolver sus dotaciones de servicios de forma autónoma e individualizada a partir de la acometida de las infraestructuras existentes. Las dimensiones y características de dichas dotaciones serán las estrictamente necesarias para el servicio de la actividad de que se trate y no podrán dar servicio a actividades distintas de la vinculada.
+2. Las obras correspondientes a las dotaciones de servicios podrán autorizarse junto a la actividad a la que sirvan, en cuyo caso deberán definirse en la documentación técnica en base a la cual se solicite la autorización.
+3. En el resto de los casos, o cuando no se vinculen a una única actividad o no se ajusten a las limitaciones establecidas en el punto 1 anterior, deberán ser declaradas de interés general y no podrán ser nunca soporte de actuaciones ilegales.
+4. No necesitarán de la previa declaración de interés general las obras correspondientes a dotaciones de servicios destinadas a edificios e instalaciones de una explotación agraria o de una industria de transformación agraria que, para proceder a su construcción, ya obtuvieron la oportuna declaración de interés general y la licencia urbanística municipal de obras.
+Se añade el apartado 4 por la disposición adicional 8 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374.
+
+## TÍTULO V
+
+Procedimientos para la autorización
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 31 a 32
+
+Artículos 31 a 32.
+(Derogados).
+Se derogan por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+
+### Artículo 31
+
+Artículo 31. Licencias.
+1. Las actividades a que se refiere el artículo 11.1.a) de esta Ley se regirán, para su autorización, por lo que disponga su normativa específica, mientras que las contempladas en el artículo 11.1.b) de la presente Ley se regirán, a dichos efectos, por lo dispuesto en la misma.
+2. Cuando, en aplicación de lo citado anteriormente, sea necesaria licencia municipal, de forma previa a su otorgamiento, con arreglo a lo dispuesto en el artículo 3.3 de la Ley 10/1990, de 23 de octubre, de Disciplina Urbanística, deberán incorporarse al expediente:
+a) Las licencias, autorizaciones o informes de organismos o entidades distintos de la corporación municipal que sean exigibles por la naturaleza de la actividad.
+b) Cuando sea exigible, de acuerdo con lo que se dispone en esta Ley, la declaración de interés general o el informe vinculante de la comisión insular de urbanismo respectiva y, en su caso, la autorización a que se refieren los artículos 20.2 y 27.2.b) de la presente Ley.
+
+### Artículo 32
+
+Artículo 32. Solicitud y documentación anexa.
+1. Toda solicitud de actividades en suelo rústico deberá reunir los requisitos establecidos en el artículo 70 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. A la solicitud deberá acompañarse documentación en la que se detalle la titularidad, el emplazamiento y las características fundamentales de la actividad pretendida. Cuando el expediente deba someterse a información pública, la documentación se completará con el material adicional que reglamentariamente se establezca, a fin de facilitar su comprensión.
+
+## CAPÍTULO II
+
+Procedimientos específicos
+
+### Artículo 33
+
+Artículo 33. Licencias de segregación.
+1. Cuando, de acuerdo con lo que dispone la legislación urbanística de las Illes Balears, se precise de licencia municipal para la segregación de terrenos o fincas en suelo rústico, el procedimiento para su otorgamiento se regirá por lo que dispone el artículo 151 de la Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears.
+2. No obstante lo dispuesto en el apartado anterior, el plazo para dictar y notificar la resolución expresa será, en estos casos, de dos meses.
+Una vez transcurrido dicho plazo máximo de resolución y notificación, podrá entenderse otorgada la licencia solicitada por silencio positivo, sin perjuicio de lo que establece el artículo 5.2 de la Ley 12/2017 ya citada.
+Se modifica por el art. 50.3 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se deroga por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+
+### Artículo 34
+
+Artículo 34. Autorización de actividades relacionadas con el destino y la naturaleza de las fincas.
+1. Las actividades relacionadas con el destino y la naturaleza de las fincas se ajustarán, para su autorización, a lo dispuesto en su normativa específica y en la general reguladora de los usos, obras y actividades.
+2. Cuando sean precisas licencias municipales, el procedimiento para su otorgamiento se iniciará por el interesado directamente ante la corporación municipal, que, una vez completo el expediente, tendrá, para resolver, el plazo señalado por la normativa general reguladora de los usos, obras y actividades.
+3. Cuando las actividades conlleven actuaciones edificatorias deberá incorporarse al expediente, en todo caso, informe favorable de la administración competente sobre el cumplimiento de las condiciones definidas en el artículo 21.2 de esta Ley, así como la exoneración, en su caso, a que hace referencia el artículo 21.3 de la misma.
+
+### Artículo 35
+
+Artículo 35. Autorización de actividades relacionadas con las infraestructuras públicas.
+1. Las actividades relacionadas con las infraestructuras públicas se ajustarán, para su autorización, a lo dispuesto en su normativa específica y en la general reguladora de los usos, obras y actividades.
+2. Cuando sean precisas licencias municipales, la solicitud de estas actividades deberá incorporar el certificado de la administración competente sobre el cumplimiento de las condiciones establecidas en el artículo 24 de esta Ley y en la normativa a que se refiere el punto anterior.
+3. Una vez completo el expediente, la corporación municipal tendrá, para resolver, el plazo señalado por la normativa general reguladora de los usos, obras y actividades.
+
+### Artículo 36
+
+Artículo 36. Autorización de actividades relacionadas con el uso de vivienda unifamiliar.
+1. En la tramitación de los procedimientos de licencia urbanística municipal de las actividades relacionadas con el uso de vivienda unifamiliar, de nueva planta o de cambio de uso a vivienda en edificaciones existentes, una vez se haya completado el expediente, el ayuntamiento lo remitirá al consejo insular correspondiente, con el fin de que emita un informe con carácter previo y vinculante sobre el cumplimiento de los requisitos de parcela mínima exigible y de aprovechamiento máximo permitido previstos en los artículos 25 y 28.1, respectivamente, de esta ley, y en el planeamiento territorial urbanístico de aplicación.
+2. El órgano del correspondiente consejo insular que tenga atribuida la función de emisión del informe previsto en el apartado 1 anterior someterá el expediente al trámite de información pública durante un plazo de quince días, mediante un anuncio publicado en el “Butlletí Oficial de les Illes Balears” y en la dirección o punto de acceso electrónico, con la finalidad de que se puedan formular las alegaciones o sugerencias que se consideren adecuadas sobre los puntos objeto de informe.
+A la vista del resultado del trámite de información pública, se emitirá el informe correspondiente y se notificará al ayuntamiento solicitante. Este trámite de informe se llevará a cabo en el plazo de tres meses desde la remisión de la documentación completa al consejo insular, de manera que la falta de emisión y remisión del informe en el plazo citado determina que la normativa aplicable para emitir el informe será la vigente en el momento de la finalización de este plazo, de acuerdo con lo que establece el último párrafo del apartado 3 del artículo 151 de la Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears.
+Se modifica por el art. 50.2 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Véase, en relación a la emisión del informe regulado, lo establecido en la disposición transitoria 7 de la citada ley.
+ Se modifica el apartado 2, con efectos desde el 29 de mayo de 2023, por la disposición final 8 de la Ley 9/2022, de 23 de noviembre. Ref. BOE-A-2023-2978#df-8
+ Redactado conforme a la corrección de error publicada en BOIB núm. 165 de 20 de diciembre de 2022. Ref. BOIB-i-2022-90396
+ Se modifica el apartado 3 por el art. 18.5 de la Ley 7/2012, de 13 de junio. Ref. BOE-A-2012-9374.
+ Se modifica el apartado 3 por el art. 16.4 del Decreto-ley 2/2012, de 17 de febrero. Ref. BOIB-i-2012-90025.
+
+### Artículo 37
+
+Artículo 37. Autorización de actividades declaradas de interés general.
+1. El procedimiento para la autorización de actividades que deban declararse de interés general será iniciado por el interesado ante el Ayuntamiento, que la remitirá al órgano que deba declararla junto con un informe municipal razonado sobre la misma.
+2. El órgano que tenga que efectuar la declaración someterá el expediente al trámite de información pública durante un plazo de quince días, mediante un anuncio en el Butlletí Oficial de las Illes Balears y en su correspondiente dirección o punto de acceso electrónico, y al informe, durante idéntico plazo, de los organismos y las administraciones con competencias en la materia de que se trate.
+3. Efectuados los trámites señalados en el punto anterior, que, salvo en los casos de interrupción del plazo derivados de la aplicación de normativa específica, deberán sustanciarse en el plazo de tres meses desde la iniciación, a la vista de los informes y alegaciones emitidos, el órgano competente resolverá, de forma motivada y la notificará al Ayuntamiento y al interesado.
+4. Si se otorgase la declaración de interés general y fuera precisa la obtención de licencia municipal, ésta deberá solicitarse en el plazo máximo de seis meses desde la notificación de la declaración por lo cual, transcurrido este plazo sin que se acredite tal solicitud o la imposibilidad de su existencia por razones no imputables al interesado, se deberá iniciar expediente de caducidad de la declaración de interés general. Solicitada en plazo la licencia y una vez completo el expediente, la corporación municipal tendrá, para resolver, el plazo señalado por la normativa general reguladora de los usos, obras y actividades.
+5. Cuando la actividad se vincule a un uso prohibido por el instrumento de planeamiento general, y el órgano competente para la declaración de interés general, previo dictamen del Consejo Consultivo de las Islas Baleares, estimase la necesidad de su implantación, propondrá al plenario del Consejo insular respectivo la suspensión del planeamiento, para su revisión o modificación, en los términos previstos en la legislación urbanística.
+Se modifica el apartado 2 por el art. 18.6 de la Ley 7/2012, de 13 de junio. Ref. BOE-A-2012-9374.
+ Se modifica el apartado 2 por el art. 16.5 del Decreto-ley 2/2012, de 17 de febrero. Ref. BOIB-i-2012-90025.
+
+## TÍTULO VI
+
+Otras disposiciones
+
+### Artículo 38
+
+Artículo 38. Medidas de fomento.
+1. Los terrenos calificados como suelo rústico protegido y las edificaciones e instalaciones sometidas a un régimen de protección específico serán objeto de medidas de fomento de carácter fiscal, que deberán complementarse con un tratamiento preferente en el otorgamiento de subvenciones y autorizaciones para el desarrollo de las actividades a que se refiere el artículo 22 de esta Ley.
+2. Hasta que no se les atribuya un uso atípico, lo dispuesto en el punto anterior será, asimismo, de aplicación a los terrenos que mantengan, en los términos que reglamentariamente se establezcan, el uso agrícola, forestal, cinegético o pecuario.
+
+### Artículos 38 a 39
+
+Artículos 38 a 39.
+(Derogados).
+Se derogan por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+
+### Artículo 39
+
+Artículo 39. Patrimonios públicos.
+1. El instrumento de planeamiento general podrá delimitar, en suelo rústico, reservas de terrenos destinados a la formación de patrimonios públicos de suelo, de titularidad autonómica, insular o local, destinados a:
+a) La obtención de terrenos para un uso público que no precise alterar su clasificación.
+b) La obtención de terrenos para la reclasificación a una clase de suelo en la que sea factible una actuación urbanística de interés público.
+c) Cualquier otra finalidad de interés público.
+2. Cuando, en la forma que reglamentariamente se establezca, se acuerde el establecimiento de una reserva para patrimonio público de suelo, su delimitación deberá incorporarse a la primera modificación o revisión del instrumento de planeamiento general que se formule.
+3. Excepto en las áreas de asentamiento reguladas en el artículo 5 de la Ley 1/1991, de 30 de enero, de Espacios Naturales y de Régimen Urbanístico de las Áreas de Especial Protección de las Islas Baleares, las reservas destinadas a los fines a que se refiere el anterior punto 1.b) sólo podrán delimitarse en suelo rústico común.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Modificaciones de la Ley 10/1990, de 23 de octubre, de Disciplina Urbanística.
+(Derogada).
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Modificaciones de la Ley 12/1988, de 17 de noviembre, de Campos de Golf.
+(Derogada).
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Modificaciones de la Ley 1/1991, de 30 de enero, de Espacios Naturales y de Régimen Urbanístico de las Áreas de Especial Protección de las Islas Baleares, en la redacción realizada mediante la Ley 7/1992, de 23 de diciembre.
+(Derogada).
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Modificación de la Ley 8/1988, de 1 de junio, de edificios e instalaciones fuera de ordenación.
+(Derogada).
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Alteración de la clasificación del suelo rústico.
+(Derogada).
+Se deroga por la disposición derogatoria 2.b) de la Ley 6/1999, de 3 de abril. Ref. BOE-A-1999-11707.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Caravanas.
+Fuera de las zonas concretas expresamente habilitadas para ello por el instrumento de planeamiento general, la ordenación del suelo rústico prohibirá la disposición sobre los terrenos así clasificados de caravanas u otros elementos móviles que puedan resultar habitables.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Actuaciones en parcelas o solares afectados por la ejecución de obra pública.
+Las disposiciones de esta ley se entenderán sin perjuicio de las determinaciones de la disposición adicional octava de la Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears.
+Se modifica por el art. 50.4 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se modifica por el art. 50.2 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a5-2
+
+### Disposición adicional octava
+
+Disposición adicional octava. Determinaciones relativas a la implantación de nuevas viviendas unifamiliares aisladas y equipamientos sensibles en áreas de prevención de riesgos de inundación, y en zonas de flujo preferente y zonas inundables en suelo rústico.
+1. Hasta que no se realice la delimitación de las zonas inundables y de las zonas de flujo preferente que resulte de los estudios hidrológicos o hidráulicos aprobados o validados por la Administración hidráulica, no se podrán ubicar nuevas viviendas unifamiliares aisladas, ni equipamientos que tengan la consideración de equipamientos sensibles a los que hace referencia el apartado 1.b) del artículo 14 bis del Reglamento del Dominio Público Hidráulico, aprobado por el Real Decreto 849/1986, de 11 de abril, en los terrenos que estén incluidos en las áreas de prevención de riesgos (SRP-APR) de inundación.
+Una vez realizada la delimitación, en suelo rústico, de las zonas inundables y de las zonas de flujo preferente, de acuerdo con el procedimiento establecido en el artículo 17 de la Ley 7/2024, de 11 de diciembre, de medidas urgentes de simplificación y racionalización administrativas de las administraciones públicas de las Illes Balears, en las zonas de flujo preferente, además de las limitaciones en los usos establecidas en el artículo 9 bis del citado Reglamento del Dominio Público Hidráulico en el ámbito de las zonas de flujo preferente, no se podrán ubicar nuevas viviendas unifamiliares aisladas ni equipamientos sensibles; y, en el resto de las zonas inundables, solo se podrán ubicar estas viviendas unifamiliares y equipamientos sensibles cuando se cumplan los requisitos establecidos en el artículo 14 bis del mismo Reglamento.
+En todo caso, la implantación de infraestructuras del ciclo del agua, que tengan la consideración de equipamientos sensibles, en zonas de flujo preferente o zonas inundables quedará condicionada únicamente al cumplimiento de lo que disponen los artículos 9 bis y 14 bis del Reglamento del dominio público hidráulico y al régimen de autorización previsto en el artículo 91 del Plan Hidrológico de las Illes Balears.
+2. No obstante lo dispuesto en el apartado anterior, en defecto de delimitación de la zona inundable y de la zona de flujo preferente, en aquellas parcelas incluidas parcialmente dentro de las áreas de prevención de riesgos (SRP-APR) de inundación, se podrán autorizar los usos y edificaciones de acuerdo con los instrumentos de ordenación territorial y urbanística, siempre que la vivienda unifamiliar o el equipamiento sensible no se ubiquen en la superficie de la parcela incluida dentro de las citadas áreas de prevención de riesgos.
+En aquellas parcelas de suelo rústico incluidas parcialmente dentro de la delimitación de las zonas de flujo preferente, se podrán autorizar las edificaciones y los usos permitidos por los instrumentos de ordenación territorial y urbanística, siempre que la vivienda unifamiliar o el equipamiento sensible no se ubiquen en la superficie de la parcela incluida en las citadas zonas.
+A efectos de parcela mínima, edificabilidad, ocupación, volumen máximo y otros parámetros edificatorios, la superficie que se considerará será la totalidad de la parcela.
+3. Una vez que produzca efectos la delimitación de las zonas inundables y de las zonas de flujo preferente que resulte de los estudios hidrológicos o hidráulicos aprobados o validados por la Administración hidráulica, la delimitación de las áreas de prevención de riesgos (SRP-APR) de inundación previstas en los instrumentos de ordenación territorial y urbanística será la correspondiente a la que resulte de dichos estudios.
+Mientras las zonas inundables y las zonas de flujo preferente no se delimiten de acuerdo con lo previsto en el párrafo anterior, continuarán siendo de aplicación las áreas de prevención de riesgos (SRP-APR) de inundación previstas en los instrumentos de ordenación territorial y urbanística.
+Se añade un tercer párrafo al apartado 1 por la disposición final 43 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-43
+ Se modifica por el art. 2 del Decreto-ley 6/2024, de 13 de diciembre. Ref. BOE-A-2025-722
+ Se deroga por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+ Se añade por el art. 16 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Régimen de equivalencia.
+1. Hasta que no se produzca la adaptación del planeamiento general a lo que dispone esta Ley, se aplicarán las siguientes reglas:
+a) Los terrenos clasificados como suelo no urbanizable tendrán, a todos los efectos, la consideración de suelo rústico.
+b) Cuando estos terrenos sean calificados por el planeamiento vigente con una calificación que comporte un régimen específico de protección, se les considerará adscritos al suelo rústico protegido. En los demás casos se considerará que los terrenos forman parte del suelo rústico común.
+c) Conservarán su vigencia las determinaciones relativas a parcela mínima y parámetros de la edificación que comporten la misma o una mayor restricción que las definidas en esta Ley. Cuando estas determinaciones comporten una menor restricción, se sustituirán directamente por las definidas en esta Ley.
+d) Quedarán sin efecto las determinaciones relativas al riesgo de formación de núcleo de población en cuya formulación intervengan parcelas distintas de aquélla en que se pretende actuar o edificaciones diferentes de la proyectada. En los demás casos se podrán considerar entre las determinaciones que prevén los artículos 25 y 29 de esta Ley.
+Se derogan los apartados 2 y 3 por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+ Se deroga el apartado 1.e) por el art. 5 de la Ley 9/1999, de 6 de octubre. Ref. BOE-A-1999-22243.
+ Se modifican los apartados 1 y 3 por el art. 21.4 y 5 de la Ley 9/1997, de 22 de diciembre. Ref. BOE-A-1998-9158.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Edificios y actividades existentes.
+1. Los edificios y actividades existentes en suelo rústico se considerarán vinculados a la parcela definida en el expediente de autorización, en caso de que exista, o, en su defecto, a la parcela que se señale en el catastro, por lo que, previa concesión de cualquier tipo de licencias para nuevas edificaciones en la parcela de que se trate, se exigirá la constancia en el Registro de la Propiedad de tal vinculación en los términos que se establecen en el artículo 15 de esta Ley.
+2. Las viviendas existentes en suelo rústico, implantadas legalmente de acuerdo con el planeamiento urbanístico aplicable en el momento de la autorización, pero que no se ajusten a las determinaciones sobre el parámetro de parcela mínima de acuerdo con la legislación y el planeamiento de ordenación territorial y urbanístico en vigor, no podrán ser objeto de actuaciones que comporten su ampliación.
+Se modifica el apartado 2 por la disposición adicional 12 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#da-12
+ Se suspende la aplicación del apartado 2, por la disposicion adicional única.3 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Expedientes en tramitación.
+(Derogada).
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+ Se modifica por el art. 21.6 de la Ley 9/1997, de 22 de diciembre. Ref. BOE-A-1998-9158.
+
+### Disposición derogatoria
+
+Quedan derogadas todas las disposiciones que se opongan o sean incompatibles con lo dispuesto en esta Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+(Derogada).
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd
+
+### Disposición final segunda
+
+Disposición final segunda.
+Esta Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de la Comunidad Autónoma de las Islas Baleares».
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las autoridades a los que corresponda la hagan guardar.
+Palma de Mallorca, 8 de julio de 1997.
+MIQUEL A. RAMIS SOCÍAS
+ JAIME MATAS PALOU
+ Consejero de Medio Ambiente,
+ Ordenación del Territorio y Litoral
+ Presidente

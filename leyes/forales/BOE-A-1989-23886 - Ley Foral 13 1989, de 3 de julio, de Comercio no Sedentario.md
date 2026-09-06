@@ -1,0 +1,142 @@
+# Ley Foral 13/1989, de 3 de julio, de Comercio no Sedentario.
+
+- Identificador BOE: `BOE-A-1989-23886`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1989-23886
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral de Comercio no Sedentario.
+De conformidad con lo establecido en el artículo 56.1.d) de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra corresponde a la Comunidad Foral de Navarra la competencia exclusiva en materia de comercio interior y defensa del consumidor y del usuario, sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio nacional y de la legislación sobre defensa de la competencia.
+El objeto de esta Ley Foral es la ordenación del comercio no sedentario, en sus diferentes modalidades, teniendo en cuenta las especiales características de la estructura comercial y urbana de la Comunidad Foral así como las competencias y el peculiar régimen jurídico de la Administración Local de Navarra, tratando de conseguir una mayor transparencia en la actividad y una mayor profesionalización de los agentes que ejercen este tipo de comercio.
+Esta ordenación legal del comercio realizado de forma no sedentaria pretende de esta forma garantizar el correcto desarrollo de este tipo de actividad comercial en las diferentes zonas de Navarra, asegurando que estas actividades se desenvuelvan en condiciones de libre y leal competencia, así como en el respeto y garantía de los legítimos derechos de los consumidores.
+Con el fin de lograr los anteriores objetivos, la Ley Foral define aquellas actividades que van a tener consideración de comercio no sedentario, regulando el procedimiento y condiciones en que las Entidades locales podrán realizar la regulación de estas actividades dentro de sus respectivos ámbitos territoriales.
+Igualmente se establecen en la misma las condiciones mínimas que deberán cumplir para el ejercicio del comercio no sedentario, tanto los propios comerciantes, como las instalaciones destinadas a tal fin.
+Por último, la Ley Foral regula el procedimiento y régimen sancionador aplicable como disciplina del comercio no sedentario, a fin de controlar adecuadamente su desarrollo.
+
+### Artículo 1
+
+Artículo 1.
+Esta Ley Foral tiene por objeto la regulación del comercio no sedentario en el ámbito territorial de la Comunidad Foral de Navarra.
+
+### Artículo 2
+
+Artículo 2.
+1. Se entiende por comercio no sedentario, a los efectos de esta Ley Foral, el realizado por comerciantes fuera de un establecimiento comercial permanente, en instalaciones desmontables, en espacios abiertos, o en vehículos-tienda, de acuerdo con las condiciones establecidas en la presente Ley Foral.
+2. No se aplicarán las disposiciones de esta Ley Foral a:
+a) Las actividades comerciales realizadas dentro de los recintos ocupados por una feria comercial que se regirán por su normativa específica.
+b) La venta de objetos de artesanía realizada por los propios productores, con motivo de fiestas, ferias y acontecimientos populares, sometiéndose a la competencia de las respectivas Entidades Locales.
+c) La venta realizada con motivo de las fiestas patronales de la localidad, que se someterán a la competencia de la respectiva Entidad Local.
+
+### Artículo 3
+
+Artículo 3.
+El comercio no sedentario podrá adoptar las siguientes modalidades:
+a) Comercio en mercadillos con periodicidad determinada y en lugares preestablecidos.
+b) Comercio esporádico con motivo de ferias y fiestas.
+c) Comercio itinerante en vehículos-tienda.
+
+### Artículo 4
+
+Artículo 4.
+1. Los ayuntamientos podrán regular, con sujeción a lo dispuesto en esta Ley Foral, el ejercicio del comercio no sedentario en sus respectivos términos municipales.
+2. La regulación municipal concretará los lugares, frecuencia, horario y productos autorizados y establecerá las características de los tipos de comercio no sedentario, diferenciando las tres modalidades contempladas en el artículo 3 de esta Ley Foral.
+3. Los mercadillos con periodicidad determinada contemplados en la letra a) del artículo 3 sólo podrán celebrarse un día a la semana.
+4. Las autorizaciones se realizarán por tiempo limitado, previa ponderación de la inversión efectuada y de la remuneración equitativa de los capitales invertidos. El procedimiento garantizará la transparencia e imparcialidad, y, en concreto, la publicidad adecuada del inicio, desarrollo y fin del proceso.
+5. El ayuntamiento entregará a la persona que haya autorizado para el ejercicio del comercio no sedentario dentro de su término municipal una tarjeta identificativa que contendrá los datos esenciales de la autorización y que estará expuesta en lugar visible y a disposición de la clientela. En la misma deberá figurar la dirección donde se atenderán las reclamaciones de las personas consumidoras. Dicha dirección deberá figurar igualmente en todo caso en la factura o comprobante de la venta.
+6. Cada titular autorizado para el ejercicio del comercio no sedentario deberá poseer un seguro de responsabilidad civil que cubra los riesgos de esta actividad.
+Se modifica por el art. 6 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 5
+
+Artículo 5.
+Las Entidades Locales podrán aprobar, de conformidad con lo dispuesto en esta Ley Foral, sus propios Reglamentos y Ordenanzas reguladoras de esta actividad comercial, teniendo en cuenta las características de cada municipio.
+
+### Artículo 6
+
+Artículo 6.
+No podrá concederse autorización para la venta de aquellos productos cuya normativa reguladora lo prohíba.
+Tampoco se podrá autorizar la venta de carnes, aves y caza frescas, refrigeradas y congeladas, cecinas, embutidos, jamón, huevos, pescados y mariscos frescos, refrigerados y congelados; leche certificada, pasteurizada y derivados lácteos frescos; pastelería y bollería rellena o guarnecida; pastas alimenticias frescas, rellenas y semiconservas, así como aquellos otros productos que por sus especiales características y a juicio de las autoridades competentes conlleven riesgo sanitario.
+No obstante podrá autorizarse la venta de los productos enumerados en el párrafo anterior siempre y cuando, a juicio de las autoridades sanitarias competentes, se disponga de las adecuadas instalaciones de transportes y frigoríficas.
+
+### Artículo 7
+
+Artículo 7.
+Para el ejercicio del comercio no sedentario se deberán cumplir los siguientes requisitos:
+a) Estar dado de alta en los epígrafes correspondientes de la Licencia Fiscal de actividades comerciales e industriales.
+b) Estar al corriente en el cumplimiento de las obligaciones fiscales con la Hacienda pública que corresponda.
+c) Estar dado de alta en el régimen de la Seguridad Social correspondiente.
+d) Poseer la autorización de la Entidad Local correspondiente que estará expuesta de forma visible en el puesto de venta.
+e) Cumplir las condiciones exigidas por las reglamentaciones técnico-sanitarias y demás disposiciones de aplicación en relación con los productos objeto de comercio.
+f) En el caso de extranjeros, estar en posesión de los permisos de residencia y trabajo por cuenta propia, de acuerdo con la normativa vigente.
+g) La venta de productos con alguna deficiencia de fabricación o de producción oculta exigirá que estas circunstancias sean advertidas mediante carteles claramente visibles para el consumidor.
+h) Poseer la documentación suficiente que acredite la marca original y la procedencia de los productos expuestos a la venta.
+i) Poseer el carné de manipulador de alimentos extendido por los Servicios Técnicos del Gobierno de Navarra, para la venta de productos alimenticios.
+
+### Artículo 8
+
+Artículo 8.
+Los vehículos en que se transporte la mercancía y las instalaciones donde se ejerza el comercio no sedentario deberán ofrecer las condiciones de seguridad e higiene exigidas por la normativa específica vigente.
+Los productos a la venta, siempre que sus características de volumen y peso lo permitan, deberán situarse a una altura, respecto al nivel del suelo, no inferior a 80 centímetros.
+Asimismo, los productos alimenticios, en ningún caso podrán situarse directamente sobre el suelo.
+
+### Artículo 9
+
+Artículo 9.
+Corresponde a las Entidades Locales la inspección y sanción en materia de comercio no sedentario, sin perjuicio de las competencias atribuidas a otras administraciones.
+Cuando sean detectadas infracciones de índole higiénico-sanitaria, las Entidades Locales deberán dar cuenta inmediata de las mismas a las autoridades sanitarias que corresponda.
+Sin perjuicio de lo dispuesto en el artículo 9.º las Entidades Locales, para el ejercicio de sus competencias en materia de inspección sanitaria, podrán recabar la colaboración de la Administración Foral.
+
+### Artículo 10
+
+Artículo 10.
+1. Las infracciones a lo establecido en esta Ley se calificarán de la siguiente forma:
+A) Infracciones leves:
+a) El incumplimiento de algunas de las condiciones establecidas en la autorización de la Entidad Local señaladas en el artículo 4.º.
+b) El incumplimiento de los preceptos de esta Ley Foral o de las Ordenanzas, elaboradas por las Entidades Locales de acuerdo a ella, salvo que se encuentren tipificados en alguna de las otras dos categorías de infracciones.
+B) Infracciones graves:
+a) La reincidencia en infracciones leves.
+b) El incumplimiento de los requisitos exigidos por la normativa reguladora de los productos objeto de comercio.
+c) El desacato o la negativa a suministrar información a la autoridad municipal o a sus funcionarios o agentes en el cumplimiento de su función, así como el suministro de información inexacta o documentación falsa.
+C) Infracciones muy graves:
+a) La reincidencia en infracciones graves.
+b) Carecer de la autorización de la Entidad Local correspondiente.
+c) La resistencia, coacción o amenaza a la autoridad de la Entidad Local, funcionarios y agentes de la misma, en cumplimiento de su función.
+2. Las infracciones leves podrán ser sancionadas con apercibimiento o multa de hasta 25.000 pesetas.
+Las infracciones graves podrán ser sancionadas con multa de 25.001 a 100.000 pesetas.
+Las infracciones muy graves podrán ser sancionadas con multa de 100.001 a 500.000 pesetas y, en su caso, suspensión temporal o revocación de la autorización de la Entidad Local.
+Las cuantías de las multas serán actualizadas periódicamente por el Gobierno de Navarra en función de la evolución del índice de precios al consumo.
+Como medida precautoria se podrá intervenir cautelarmente las mercancías cuando de las diligencias practicadas se presuma el incumplimiento de los requisitos mínimos exigidos para su comercialización, procediéndose a su decomiso en el caso de ofrecer riesgo sanitario a juicio de la autoridad competente.
+
+### Artículo 11
+
+Artículo 11.
+Los expedientes sancionadores se sujetarán, en cuanto a procedimiento, a lo establecido en las disposiciones administrativas vigentes.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En el plazo de seis meses a contar desde la entrada en vigor de la presente Ley Foral aquellas Entidades Locales que tuvieran establecidas ordenanzas regulando las modalidades de venta contempladas en la presente Ley Foral, deberán adaptarlas a la misma.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Antes del 31 de diciembre de 1989 las Entidades Locales deberán revisar las autorizaciones actualmente vigentes, de conformidad con los criterios y requisitos que establece esta Ley Foral.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Gobierno de Navarra para dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de esta Ley Foral.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley Foral entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Navarra».
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S.M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 3 de julio de 1989.
+GABRIEL URRALBURU TAINTA,
+Presidente del Gobierno de Navarra

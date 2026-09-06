@@ -1,0 +1,160 @@
+# Ley de Bases de Ordenación Ferroviaria y de los Transportes por carretera de 24 de enero de 1941.
+
+- Identificador BOE: `BOE-A-1941-840`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1941-840
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Iniciado el régimen ferroviario en España, de modo análogo al de la mayor parte de los países europeos, por medio de concesiones temporales a Empresas privadas, se evidenciaron en el transcurso del tiempo algunos defectos congénitos, aumentados después por las influencias de ambientes perturbadores, políticos y sociales, y son, principalmente, los motivos que pueden señalarse, la incapacidad económica de la Empresa privada en período avanzado del plazo de concesión; el desequilibrio económico por imposibilidad de sobrepasar los límites de tarificación fijados en circunstancias muy diferentes a las de la época de su aplicación; la pluralidad de Compañías con defectuosa agrupación de líneas sin relación con las necesidades geográfico-comerciales; y la confusa situación determinada por la aplicación incompleta de disposiciones oficiales fundamentales.
+A esta serie de causas del deficiente sistema ferroviario español, vienen a unirse otras que acrecientan su imperfección y que se iniciaron cuando con motivo de la anterior guerra europea se produjeron profundas alteraciones en el orden económico, y posteriormente, con el desarrollo de los transportes por carretera, que entablan al ferrocarril competencia desigual.
+Al presente, las cuantiosas aportaciones efectuadas por el Estado en el transcurso de varios años, por conceptos distintos y variables, la situación económica en que se encuentran las Compañías, las condiciones precarias en que se desenvuelve el tráfico, y la desordenada y arbitraria concesión de numerosas líneas de transportes por carretera, hacen indispensable que por el Gobierno se aborde el problema de un modo general, atemperando la situación al nuevo sistema de cosas que el triunfante Movimiento Nacional ha instaurado.
+Ya en el pliego de condiciones aprobado por Real Orden de treinta y uno de diciembre de mil ochocientos cuarenta y cuatro, primera en el orden de nuestra legislación ferroviaria, se prevé el rescate de las líneas por el Estado afirmándose un criterio de supremo interés estatal, que ligado con la más escrupulosa justicia, fue ratificado fundamentalmente en cuanto a las condiciones de temporalidad y rescate en la Ley de mil ochocientos cincuenta y cinco: condiciones reiteradamente impuestas en el pliego de condiciones a cuyo tenor, y al amparo de la Ley de mil ochocientos setenta y siete, se otorgó una gran parte de las concesiones vigentes; y promulgada de nuevo en la de doce de julio de mil novecientos veinticuatro, constitutiva de un Estatuto, en el que, al cabo de profundos estudios y amplias consultas a cuantos intereses dispares y aun contrapuestos, pugnaban en su solución, hubo de llegarse a un término de equidad que mereció la aquiescencia de las Compañías. Únicamente se prescindió de la concesión temporal y, por consiguiente, de la facultad de rescate por el Gobierno, en las concesiones del pequeño número de líneas concedidas de acuerdo con la aplicación de la Ley promulgada en el turbulento período de mil ochocientos sesenta y ocho; pero aun esas mismas de ancho normal correspondientes a esa época, acabaron sometiéndose a ambas condiciones de temporalidad y rescate por consecuencia del mencionado Estatuto ferroviario, cuya virtualidad no puede ser olvidada en las decisiones de este Gobierno.
+Decidido por el Gobierno el rescate de todas las líneas férreas de ancho normal, en vista de las razones primeramente apuntadas, singularmente del lamentable servicio que el público padece, y la carencia de capacidad económica de las Compañías para realizar la transformación que los adelantos técnicos imponen, se hace preciso dictar las bases de su ordenación, que a un mismo tiempo atiendan al legítimo interés de las Compañías y respeten el más alto y supremo interés del Estado, nunca tan señalado como en este servicio radicalmente ligado a las más graves exigencias nacionales. Pero el Estatuto de mil novecientos veinticuatro, aunque fundamentalmente respetado en su espíritu, no sería posible practicarlo de un modo literal respecto de alguna de sus determinaciones sin evidente agravio a los términos de equidad en que el Gobierno inspira escrupulosamente su dictado. No sólo porque previsto en dicho Estatuto el plazo de los cinco últimos años anteriores al rescate como base del promedio para la determinación de los productos del tráfico, podría su aplicación resultar sobradamente gravosa al interés de las Compañías, dada su coincidencia con los años afectados por la revolución, y muy inferiores en el beneficio a los normales, los cinco años anteriores, sino también por la dificultad de determinar el término de la anualidad del rescate representativo del incremento posible de utilidades y el plazo medio de reversión de las concesiones, dada la carencia de ordenadas estadísticas, razones que aun perjudican en cuanto al precio de la reversión, eI propio derecho consagrado en el referido Estatuto, el Gobierno se ha creído en el caso de considerar aumentado el número de las anualidades base del cálculo, con el propósito de que su resolución se acomode a los términos de la más exacta justicia.
+En consecuencia, sujetándose al espíritu de las Leyes básicas de ferrocarriles promulgadas anteriormente, por la presente, se trata de resolver de modo general, equitativo y expedito, tan complejo problema, incluso en su explotación en lo sucesivo por el Estado, pero huyendo de las normas rígidas de la Administración pública que podrían retrasar este órgano vital de la Nación, por cuyo motivo se considera necesario dotarla de la flexibilidad y rapidez, que se lograría por una Empresa industrial, con las mismas características que las actividades comerciales de la industria privada y con toda la responsabilidad que compete a los gestores.
+A fin de ordenar de un modo completo todo lo que a transportes terrestres se refiere, conviene marcar normas generales para los ferrocarriles de vía estrecha y para los transportes por carretera. Sin descartar la posibilidad de que los ferrocarriles de ancho inferior al normal pudieran algún día rescatarse por el Estado, se ordena su explotación por medio de Federaciones voluntarias de las actuales Empresas, que, sin perder su carácter, unifiquen el material, así como las tarifas y condiciones de explotación. De modo análogo y con el mismo fin de evitar nocivas competencias, se hace una ordenación de los transportes carreteros, encauzando el tráfico de las Empresas dentro de normas uniformes y de concesiones legales que aumenten la capacidad financiera de ellas.
+En virtud de lo expuesto,
+DISPONGO:
+
+## CAPÍTULO PRIMERO
+
+CAPÍTULO I
+Ferrocarriles de vía de ancho normal
+
+### Base primera
+
+Base primera.
+Para todas las líneas férreas españolas de ancho normal, de servicio y uso público, explotadas por Compañías concesionarias, cualquiera que sea la fecha de vencimiento de la concesión, se adelanta al día primero de febrero de mil novecientos cuarenta y uno la consolidación de la plena propiedad por el Estado, entrando éste el indicado día en el goce de dichos ferrocarriles.
+
+### Base segunda
+
+Base segunda.
+El rescate comprende las concesiones, metálico y valores, líneas, terrenos, edificios, obras, oficinas con sus ajuares, talleres con sus máquinas e instrumentos, materiales, acopios, contratos de suministro, productos y derechos de otra índole, incluso concesiones de transporte por carretera obtenidas por ser la Empresa concesionaria del ferrocarril, o sea, cuanto constituya el valor real del establecimiento del concesionario, sin más exenciones que: a), las concesiones y labores mineras que pertenezcan a la Empresa, aunque los productos de sus labores se consuman en los ferrocarriles; b), las reservas en metálico o valores, siempre que se compruebe haberlas constituido con beneficios no repartidos; c), los terrenos declarados sobrantes y otras propiedades y derechos del concesionario, no relacionados con la explotación, siempre que no los hubiera obtenido por expropiación forzosa, o que fuesen del Estado o de dominio público antes de la concesión, y d), el metálico afecto a la explotación e incluido en el valor real de establecimiento al iniciarse el régimen condicionado por el Real Decreto-ley de doce de julio de mil novecientos veinticuatro, si la Empresa, al ingresar en él, hubiera aceptado que su importe no figure en el capital sujeto a amortización.
+El rescate se llevará a cabo mediante el abono al concesionario por el Estado desde primero de febrero de mil novecientos cuarenta y uno, de un número de anualidades igual al de años que fije el plazo medio de reversión de las concesiones de una misma Compañía. El plazo medio de reversión será el cociente de la suma de los productos de la longitud de cada línea concedida por el número de años que falten para el vencimiento de la concesión –contado desde la fecha señalada para terminar la construcción, sin prórroga alguna– dividida por la longitud total de las líneas del conjunto de las concesiones. Las concesiones otorgadas a perpetuidad se considerarán concedidas por noventa y nueve años, contados desde el día de la fecha de la admisión del concesionario en el régimen establecido por el Real Decreto-ley de doce de julio de mil novecientos veinticuatro para las adheridas al mismo, y para las no adheridas desde el de la fecha de esta Ley.
+En aquellos años, tenidos en cuenta para la determinación de la anualidad del rescate, a que se aplicó el régimen ferroviario establecido por el Real Decreto-Ley de doce de julio de mil novecientos veinticuatro, los productos netos imputables a la Empresa y sus incrementos, a los efectos de la fijación de la anualidad del rescate, serán únicamente los que de los totales correspondan al valor real del establecimiento del concesionario, habida cuenta de la proporción entre éste y la aportación de capital del Estado. Para este efecto, se considerarán como capital y valor reales del establecimiento del concesionario, los fijados provisionalmente en la Real Orden de su admisión en el régimen ferroviario establecido por el Real Decreto-ley de doce de julio de mil novecientos veinticuatro.
+La anualidad del rescate comprenderá dos sumandos, uno que corresponde a la renta obtenida de las concesiones respectivas en el período anterior al rescate de las mismas, y otro que evalúe el incremento de la expresada renta durante los años en que deba abonarse la anualidad del rescate. El sumando correspondiente a la renta de las concesiones con anterioridad al rescate, se determinará tomando el promedio de los productos netos del tráfico durante los quince años comprendidos desde primero de enero de mil novecientos veintiuno a treinta y uno de diciembre de mil novecientos treinta y cinco.
+Deducido el número de toneladas-kilómetros de mercancías transportadas en gran velocidad, si la Compañía no lo consigna en sus estadísticas, suponiendo que el precio medio del transporte en gran velocidad es el triple del precio medio de transporte en pequeña velocidad; el resultado de dividir el número que cifre la totalidad de los productos netos obtenidos durante los quince años de mil novecientos veintiuno a mil novecientos treinta y cinco, ambos inclusive, por la suma del número de viajeros-kilómetros y toneladas-kilómetros de mercancías, transportados durante el mismo período, representará el producto neto en el transporte de la unidad de tráfico, y este resultado, multiplicado por el incremento medio anual del número de unidades transportadas durante los expresados quince años, fijará el incremento medio anual de utilidades en el transporte desde primero de enero de mil novecientos veintiuno a treinta y uno de diciembre de mil novecientos treinta y cinco. Supuesto este incremento medio anual de utilidades computable a cada uno de los años que fija el plazo medio de reversión de las concesiones de la Empresa, las cantidades formadas con esos incrementos sucesivos se capitalizarán al interés legal hasta la fecha de la reversión. La anualidad fija que produzca en el mismo tiempo, al interés legal, el importe global de aquella capitalización, será el incremento medio de rentabilidad o de beneficio anual y, por tanto, el segundo sumando de los dos que forman la anualidad del rescate.
+En el cálculo de la anualidad de rescate se tendrá en cuenta que, para los años en que haya estado en vigor, para cada Empresa, el Real Decreto de veintiséis de diciembre de mil novecientos dieciocho, debe deducirse de los productos lo percibido por la elevación hecha en las tarifas en virtud de aquella disposición.
+Asimismo y durante los años en que subsista a cargo de la Empresa un saldo por anticipos hechos por el Estado para aumento de sueldos y salarios, según las Reales Órdenes de veintitrés de marzo y veintinueve de abril de mil novecientos veinte y disposiciones posteriores complementarias, se tendrá en cuenta la obligación para el concesionario de aplicar a la cancelación de los anticipos los excesos en relación con los del año mil novecientos trece, que en cada año se obtengan en los productos líquidos.
+De la anualidad obtenida, en virtud de lo anteriormente expresado, se deducirá el tanto por ciento que el Gobierno determine por el deficiente estado actual de las líneas, material y dependencias. De la misma anualidad, después de atender a las cargas financieras, se deducirán los importes de los anticipos recibidos del Estado por cada Compañía.
+Las anualidades sustitutivas del disfrute quedarán en todo caso afectas, según las leyes comunes, a las hipotecas en favor de los obligacionistas y al restante pasivo de las Empresas.
+Los concesionarios de las líneas rescatadas podrán solicitar y obtener del Gobierno la entrega de resguardos nominativos transmisibles por endoso o títulos al portador, que darán derecho a su tenedor legítimo al cobro de la anualidad convenida durante el tiempo que se haya acordado.
+Para las Empresas de activo saneado, el Estado podrá tomar a su cargo, íntegramente, el servicio de intereses y amortización de las obligaciones hipotecarias y demás cargas aseguradas en el disfrute haciendo en las anualidades las deducciones correspondientes.
+
+### Base tercera
+
+Base tercera.
+En el plazo de treinta días naturales, contados desde el de la publicación de esta Ley, la Junta Superior de Ferrocarriles, ajustándose a lo dispuesto en las Bases anteriores para las Compañías en que el total de ingresos en el período de tiempo comprendido desde primero de enero de mil novecientos veintiuno a treinta y uno de diciembre de mil novecientos treinta y cinco exceda del conjunto de gastos de explotación en el mismo período de tiempo y por estimación pericial para las que se encuentren en caso contrario o no hayan comenzado la explotación antes del primer día del año mil novecientos veintiuno, evaluará la anualidad que ha de percibir cada Empresa de las afectadas por lo dispuesto en la Base primera de esta Ley, como precio del rescate del conjunto de sus concesiones. En el plazo de noventa días naturales, contados desde el mismo día que el anterior, cada Compañía dará a conocer al Ministerio de Obras Públicas si acepta o no, como precio de rescate del conjunto de sus concesiones, la anualidad fijada por la Junta Superior de Ferrocarriles. Si no manifiesta su conformidad, presentará, en el plazo de ciento veinte días naturales, contados desde el mismo origen que los anteriores, a la Junta Superior de Ferrocarriles, su evaluación pericial con la determinación de la anualidad precio del rescate. Si la Compañía, en el último plazo indicado no presentara la evaluación pericial antes dicha, se entenderá que acepta la que fije la Junta Superior de Ferrocarriles. Treinta días después del plazo de ciento veinte, la Junta Superior de Ferrocarriles informará la evaluación pericial presentada por la Compañía, y en los siguientes treinta días emitirá su informe el Consejo de Obras Públicas en Pleno, dictando el Gobierno la resolución definitiva, previa audiencia del Consejo de Estado.
+Durante los ciento ochenta días resultantes para fijar la evaluación pericial de la anualidad de rescate del conjunto de las concesiones de cada Compañía, la Red Nacional de los Ferrocarriles Españoles podrá tomar a su cargo el pago de los intereses de las obligaciones hipotecarias con vencimiento dentro de ese plazo, deduciéndose las cantidades satisfechas por este concepto de las anualidades que tenga que percibir la Compañía, hasta su completo pago.
+
+### Base cuarta
+
+Base cuarta.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+## CAPÍTULO II
+
+Ferrocarriles de vía de ancho inferior al normal español, de servicio público
+
+### Base quinta
+
+Base quinta.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+### Base sexta
+
+Base sexta.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+### Base séptima
+
+Base séptima.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+## CAPÍTULO IIl
+
+CAPÍTULO III
+Transportes mecánicos por carretera
+
+### Base octava
+
+Base octava.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+### Base novena
+
+Base novena.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+### Base décima
+
+Base décima.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+## CAPÍTULO IV
+
+Junta Superior de Ferrocarriles y Transportes por Carretera
+
+### Base undécima
+
+Base undécima.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+### Base duodécima
+
+Base duodécima.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+## CAPÍTULO V
+
+Disposiciones complementarias
+
+### Base decimotercera
+
+Base decimotercera.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+### Base decimocuarta
+
+Base decimocuarta.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+### Base decimoquinta
+
+Base decimoquinta.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+### Base decimosexta
+
+Base decimosexta.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+### Base decimoséptima
+
+Base decimoséptima.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+### Base decimoctava
+
+Base decimoctava.
+(Derogada)
+Se deroga por la disposición derogatoria.2 de la Ley 16/1987, de 30 de julio. Ref. BOE-A-1987-17803.
+
+Así lo dispongo por la presente Ley, dada en Madrid a veinticuatro de enero de mil novecientos cuarenta y uno.
+FRANCISCO FRANCO

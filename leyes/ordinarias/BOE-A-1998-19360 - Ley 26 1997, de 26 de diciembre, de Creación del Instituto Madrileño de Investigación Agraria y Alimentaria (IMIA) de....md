@@ -1,0 +1,211 @@
+# Ley 26/1997, de 26 de diciembre, de Creación del Instituto Madrileño de Investigación Agraria y Alimentaria (IMIA) de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1998-19360`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-19360
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta que el Instituto Madrileño de Investigación Agraria y Alimentaria de la Comunidad de Madrid pasará a denominarse Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), según establece el art. 15.1 de la Ley 5/2004, de 28 de diciembre. Ref. BOE-A-2005-2732#a1-7
+Incluye la corrección de errores publicada en el BOCM núm. 19, de 23 de enero de 1998.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la presente Ley, que yo, en nombre del Rey, promulgo.
+EXPOSICIÓN DE MOTIVOS
+1. El Estatuto de Autonomía de la Comunidad de Madrid, aprobado por Ley Orgánica 3/1983, de 25 de febrero, atribuye a la Comunidad de Madrid, en sus artículos 25 y 26, la plenitud de la función legislativa, incluida la potestad reglamentaria y la ejecución en materia de agricultura y ganadería, de acuerdo con la ordenación general de la economía, así como en el fomento de la cultura y de la investigación. Asimismo, el artículo 27 le atribuye el desarrollo legislativo en materia de investigación científica y técnica que sea de interés para la Comunidad de Madrid.
+2. La tendencia internacional hacia la liberalización creciente de los mercados agroalimentarios, con materialización en nuestro país tan importantes como la reforma de la política agrícola común, que tiene como objetivos equilibrar mercados, estabilizar las rentas de los agricultores y la conservación del equilibrio natural y medioambiental, han situado al sector primario y a su industria de transformación asociada frente al reto de la competitividad. Los esfuerzos de los planes de convergencia y modernización del sector frente a este reto precisan, como elementos imprescindibles, del impulso de la investigación y del desarrollo tecnológico, tanto en los aspectos del conocimiento científico como en los de la transferencia de tecnología, pues la competitividad económica es siempre una de las resultantes de la capacidad de generar, vender e incorporar innovación.
+3. Desde el traspaso de funciones y servicios del Estado a la Comunidad de Madrid, en 1983, el Servicio de Investigación Agraria ha venido desempeñando el papel de impulsor de la investigación en este sector, estando condicionado su desarrollo por una serie de características fundamentales.
+4. La financiación de la investigación se ha realizado hasta ahora exclusivamente a través de fondos públicos, mediante un sistema de captación competitiva de proyectos de investigación procedentes de diversos planes regionales, nacionales o de la Unión Europea.
+5. La estructura de personal y de gestión han permanecido invariables durante estos años, sin llegar nunca a desarrollarse la peculiaridad de la estructura de personal y de gestión indispensable para el desarrollo de un centro de investigación, que permita, por un lado, seleccionar a los investigadores más capaces y encuadrarlos dentro de unos sistemas de promoción que valoren e incentiven las cualidades de formación y creatividad y, por otro, la captación ágil de nuevas fuentes de financiación procedentes de la inversión privada, a través de conciertos con empresas, para que éstas participen activamente tanto en los aspectos esenciales del proceso del conocimiento científico como en los de la aplicación y expansión de la nueva tecnología obtenida.
+6. El campo de la investigación en la tecnología de los alimentos está en sus inicios y posiblemente ésta sea una de las lagunas más graves, máxime cuando Madrid constituye el mayor centro de consumo de toda España y lleva asociada una industria alimentaria de transformación importantísima. La investigación para la mejora de los procesos de elaboración y conservación de los alimentos o los programas de incremento de la calidad de los mismos, es hoy día un elemento esencial para conseguir un sector más competitivo, que a la vez ofrezca una mayor garantía en la salubridad de los productos alimenticios. Otras líneas de actuación han de consistir en dinamizar la investigación de nuevos productos y nuevas técnicas de producción que contribuyan a mejorar los rendimientos económicos de las explotaciones agrarias.
+7. Tanto la gran concentración de población en los núcleos urbanos y por ende de contaminación, como la asfixiante demanda de naturaleza de los ciudadanos, amenazan crecientemente la estabilidad del medio natural y contribuyen a la degradación irreversible de los tan valiosos como escasos ecosistemas naturales. Además, el abandono de tierras de labor, propiciado por la política agraria común, aumenta los riesgos de erosión, incendios, etc. Todo ello hace necesario que tengamos que hacer frente a una política medioambiental orientada hacia las prioridades de la Comunidad de Madrid con la requerida intensidad y asentada sobre los pilares firmes de la investigación de las disciplinas ecológicas.
+8. Este desfase existente entre las nuevas necesidades del sector agroalimentario, enmarcadas dentro del Plan de Convergencia y la Competitividad, y la rígida estructura de personal y de gestión, hacen difícil dar una respuesta lo suficientemente eficaz y rápida para interesar a los agentes económicos en la investigación y el desarrollo y posibilitar que inviertan con confianza en la aplicación y expansión de la tecnología más avanzada, obliga a los poderes públicos a crear una nueva estructura que posibilite un funcionamiento ágil y eficaz para el desarrollo de programas de actuación, que garanticen la prestación de servicios en el ámbito de la investigación, adecuados en el tiempo en el que son requeridos, mediante proyectos de investigación concertada, sin que en ningún caso se vean alterados ni la finalidad social de los mismos ni la aplicación del resultado de las investigaciones al interés general.
+9. La moderna investigación no puede realizarse aisladamente, sino en colaboración con otros equipos de nuestra propia Comunidad de Madrid, del resto del Estado y equipos no españoles. Para facilitar esta cooperación, necesaria para un desarrollo científico y tecnológico, es conveniente dotarse de una estructura análoga a las otras instituciones especializadas en investigación y desarrollo tecnológico agrario y alimentario. Como el trabajo de investigación está basado en equipos humanos capaces de llevarlo a cabo, la nueva estructura exige una dotación de personal, análoga a la de otros centros punteros de investigación españoles y extranjeros, que motive la investigación y el desarrollo tecnológico y en donde la valoración de los puestos de trabajo sea función de la capacidad y de la experiencia en abordar y resolver problemas, valorando, además de la responsabilidad de la gestión, la capacidad de transferencia de los resultados de la investigación al sector que tiene que aplicarlos.
+10. Por todo ello, las tareas de investigación agraria y de tecnología alimentaria estarán a cargo de un Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario, creado como organismo autónomo, de conformidad con lo establecido en la Ley 1/1984, de 19 de enero, reguladora de la Administración Institucional de la Comunidad de Madrid, y en la Ley 9/1990, de 8 de noviembre, reguladora de la Hacienda de la Comunidad de Madrid.
+
+### Artículo 1
+
+Artículo 1. Naturaleza, adscripción y régimen jurídico.
+1. Se crea el Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario, en adelante IMIDRA, como organismo público de investigación, que tendrá la condición de organismo autónomo de carácter mercantil, dotado de personalidad jurídica, patrimonio propio y plena capacidad de obrar para el cumplimiento de sus fines.
+2. El IMIDRA queda adscrito a la Consejería de Economía y Empleo o Consejería que en cada momento tenga asignadas las competencias que la Comunidad de Madrid tiene atribuidas en materia agraria.
+3. El IMIDRA se regirá por la presente Ley; por la Ley 1/1984, de Administración Institucional de la Comunidad de Madrid; por su Reglamento, de Organización y Funcionamiento Interno, sometiendo su actividad a todas las normas de carácter general o especial que le sean de aplicación.
+4. La transformación y extinción del IMIDRA deberá ser acordada por Ley de la Asamblea. En el último caso, su patrimonio y personal pasarán a la Comunidad de Madrid.
+
+### Artículo 2
+
+Artículo 2. Fines.
+Los fines del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario serán los siguientes:
+1. Realizar, impulsar y fomentar la investigación e innovación tecnológica y la formación en el ámbito del sector primario y de su industria asociada, facilitando la transferencia rápida y eficaz de los adelantos científicos y tecnológicos, tanto en los aspectos de la producción y la transformación como en lo referente al desarrollo rural, a la conservación del medio ambiente y al uso racional y sostenible de los recursos naturales.
+2. Promover el desarrollo integral del medio rural facilitando la realización, ejecución y gestión de cuantos estudios, proyectos, servicios y colaboraciones sean necesarios para la mejora del nivel socioeconómico y la incorporación del medio rural a las nuevas tecnologías, así como todos aquellos aspectos relativos a la formación, divulgación y asistencia técnico-económica al medio rural y al sector agrario y agroalimentario.
+3. Colaborar con otras entidades de carácter público o privado, para la realización de actividades de interés común mediante convenios, contratos o proyectos, priorizando todos aquellos que promuevan el equilibrio y la cohesión social y territorial en el ámbito de la Comunidad de Madrid.
+4. Ejecución y seguimiento de los planes de explotación y la gestión de las fincas agrarias de la Comunidad de Madrid, de las arrendadas o consorciadas, de los laboratorios y cualquier otro servicio que en el futuro le sea adscrito de acuerdo con los objetivos del Instituto.
+Se modifica el apartado 1 por el art. 10.1 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+ Se modifica por el art. 15.2 de la Ley 5/2004, de 28 de diciembre. Ref. BOE-A-2005-2732#a1-7
+
+### Artículo 3
+
+Artículo 3. Funciones.
+1. Las funciones del IMIDRA serán las siguientes:
+a) Promover, coordinar y realizar proyectos de investigación propios o concertados relacionados con el sector primario y el marco donde éste se desenvuelve y sus industrias asociadas, buscando la creación o adecuación de las tecnologías más apropiadas y respetuosas con el medio ambiente y la salud pública.
+b) Colaborar y contribuir al desarrollo e innovación del sector agroalimentario a través del apoyo a la calidad y seguridad de los productos, y de la innovación y mejora de tecnologías productivas, transformadoras, de conservación, de la información y de la comunicación.
+c) Contribuir al conocimiento del medio rural para el mantenimiento de su identidad propia, la mejora de su entorno, su paisaje y sus condiciones socioeconómicas y culturales.
+d) Fomentar la mejora en la gestión y la producción de las actividades agrarias y agroalimentarias con el fin de elevar la competitividad del sector en la Comunidad de Madrid.
+e) Realizar y promover estudios de prospectiva y vigilancia tecnológica para el fomento de la innovación en el sector agrario y agroalimentario y en el medio rural.
+f) Transferir al sector agrario y agroalimentario y al medio rural los resultados de la investigación y del desarrollo de la tecnología.
+g) Fomentar las relaciones y la coordinación con otras instituciones, tanto nacionales como extranjeras, de la comunidad científica y promover la organización de congresos y reuniones científicas relacionados con el desarrollo rural y el sector agrario y agroalimentario.
+h) Organizar, en el ámbito de su actuación, programas y actividades de promoción, formación y divulgación científica y técnica por sí mismo o en colaboración con otras entidades y organismos, y en particular con las universidades, organizaciones profesionales agrarias y agrupaciones o asociaciones sectoriales de la Comunidad de Madrid.
+i) Prestar servicios, asesorar y suministrar asistencia técnica directa a los órganos de la administración, asociaciones, empresas, cooperativas y autónomos del sector agrario y agroalimentario y del medio rural que lo soliciten en asuntos relacionados con la investigación, la tecnología, el desarrollo rural, y la calidad y sanidad de los cultivos, los animales, las producciones, los productos y los alimentos.
+j) Realizar y prestar servicios de análisis como apoyo a las políticas de mejora, prevención y seguridad relacionadas con los ámbitos de actuación del Instituto y de la Dirección General de Agricultura y Desarrollo Rural y todos aquellos que le puedan ser encomendados por la Comunidad de Madrid.
+k) Contribuir a la formación del personal investigador, científico y técnico en el ámbito de sus fines y de la innovación y transferencia de tecnología.
+l) Cualesquiera otras funciones que expresamente se le asignen o se deriven de los fines que el IMIDRA tiene señalados.
+2 Para el desarrollo de sus funciones, el IMIDRA podrá constituir sociedades mercantiles o participar en aquellas cuyo objeto sea la realización de actividades de investigación o desarrollo tecnológico o de transferencia de resultados científicos o de tecnología o cualquiera de los que el IMIDRA tiene señalados, o establecer relaciones contractuales o de cooperación con instituciones o entidades públicas o privadas dentro de las limitaciones que establecen la Ley 1/1984, de 19 de enero, Reguladora de la Administración Institucional de la Comunidad de Madrid, y la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid.
+Se modifica por el art. 15.3 de la Ley 5/2004, de 28 de diciembre. Ref. BOE-A-2005-2732#a1-7
+
+### Artículo 4
+
+Artículo 4. Organización del IMIDRA.
+1. Los órganos de gobierno del Instituto son:
+a) El Consejo de Administración.
+b) El Presidente del Consejo de Administración.
+c) El Director-gerente.
+2. Se crea un Consejo Asesor como órgano consultivo y de asesoramiento a los órganos de gobierno en las materias científicas relacionadas con el organismo.
+
+### Artículo 5
+
+Artículo 5. Estructura del IMIDRA.
+La estructura y funcionamiento del IMIDRA se establecerán en el Reglamento de Organización y Funcionamiento Interno del Instituto.
+
+### Artículo 6
+
+Artículo 6. El Consejo de Administración. Composición.
+1. La composición del Consejo de Administración será determinada por el Gobierno de la Comunidad de Madrid mediante Decreto.
+2. El Consejo de Administración a propuesta de su Presidente designará un Secretario que deberá reunir la condición de funcionario de la Comunidad de Madrid, con destino en la Consejería a la que esté adscrito el IMIDRA y que asistirá a sus reuniones con voz pero sin voto.
+3. La pertenencia al Consejo de Administración del IMIDRA y el ejercicio de las funciones a ella inherentes no dará lugar a retribución fija, dieta o cualquier otro emolumento.
+Se modifican los apartados 1 y 2 por el art. 20 de la Ley 24/1999, de 27 de diciembre. Ref. BOE-A-2000-3766
+
+### Artículo 7
+
+Artículo 7. Funciones del Consejo de Administración.
+1. Al Consejo de Administración le corresponden, además de las funciones establecidas en los apartados 1 y 2, del artículo 10 de la Ley 1/1984, reguladora de la Administración Institucional de la Comunidad de Madrid, las siguientes:
+a) Fijar las directrices de actuación del IMIDRA en el marco de la política de investigación y desarrollo tecnológico para el sector primario e industrias afines, establecidas por el Consejo de Gobierno de la Comunidad de Madrid.
+b) Autorizar las inversiones y operaciones financieras de la entidad, incluida la constitución y participación en sociedades mercantiles, con los límites establecidos por la normativa que le sea de aplicación.
+2. El Consejo de Administración podrá delegar las funciones, a que se refiere el artículo 11 de la Ley 1/1984, de 19 de enero, de Administración Institucional de la Comunidad de Madrid, en el Presidente, en uno de los Vicepresidentes o en el Director-gerente del Instituto.
+
+### Artículo 8
+
+Artículo 8. El Presidente del Consejo de Administración. Designación y funciones.
+1. Será el Presidente del Consejo de Administración, en razón de su cargo, el titular de la Consejería a la que se refiere el apartado 2, del artículo 1.
+2. Corresponden al Presidente las siguientes funciones:
+a) Convocar, presidir y fijar el orden del día provisional de la reunión del Consejo de Administración y decidir los empates con voto de calidad.
+b) Representar al Instituto, en aplicación del artículo 12 de la Ley 1/1984, de 19 de enero, que establece que corresponderá la representación del organismo autónomo al Presidente del Consejo de Administración.
+c) Suscribir en nombre del Instituto los convenios, conciertos y acuerdos aprobados.
+d) Las demás funciones que le atribuya esta Ley y las demás normas legales o reglamentarias de la Comunidad de Madrid.
+
+### Artículo 9
+
+Artículo 9. El Director-gerente del IMIDRA. Nombramiento y funciones.
+1. El Director-gerente será nombrado y, en su caso, cesado, por el Consejo de Gobierno de la Comunidad de Madrid, a propuesta del Consejo de Administración del Instituto.
+2. Corresponden al Director-gerente del Instituto, además de las funciones que le atribuye el apartado 2, del artículo 13 de la Ley 1/1984, las siguientes:
+a) Ejercer las atribuciones que en materia de personal no estén reservadas al Consejo de Administración y que se establecerán en el Reglamento de Organización y Funcionamiento Interno.
+b) Coordinar las unidades y equipos de investigación.
+c) Asistir a las reuniones del Consejo de Administración, con voz y sin voto.
+d) Todas aquellas que le sean delegadas por el Consejo de Administración.
+
+### Artículo 10
+
+Artículo 10. El Consejo Asesor. Composición y funciones.
+1. El Consejo Asesor estará formado por el presidente, el vicepresidente, los vocales y un secretario:
+a) El presidente, que será el titular del órgano directivo con competencias en Agricultura y Alimentación de la Comunidad de Madrid.
+b) El director-gerente del IMIDRA.
+c) Un representante del órgano directivo con competencias en investigación de la Comunidad de Madrid.
+d) Un representante designado por el Consejo Superior de Investigaciones Científicas (CSIC), a propuesta de este.
+e) Un representante designado por la Comisión Interministerial de Asuntos Económicos.
+f) Tres representantes de las universidades públicas madrileñas a propuesta de éstas.
+g) Un representante del órgano directivo con competencia en Medio Ambiente de la Comunidad de Madrid.
+h) Un representante del órgano directivo con competencia en desarrollo regional o reequilibrio territorial de la Comunidad de Madrid.
+i) Tres investigadores del IMIDRA, a propuesta del Consejo de Administración.
+j) Tres personalidades científicas relevantes exteriores al IMIDRA, designadas por el titular de la consejería a que se refiere el artículo 1.2.
+k) Tres vocales elegidos por el titular de la consejería a que se refiere el artículo 1.2 en representación de las organizaciones profesionales del ámbito agroalimentario de mayor implantación en la Comunidad de Madrid, a propuesta de sus respectivas organizaciones.
+l) El secretario, que será un funcionario del IMIDRA, designado por el presidente del Consejo Asesor.
+2. Todos los vocales serán nombrados por el titular de la consejería a la que se refiere el artículo 1.2.
+3. El cargo de miembro del Consejo Asesor no será remunerado.
+4. El Consejo Asesor funcionará en Pleno y en Comisiones de trabajo.
+5. El Consejo Asesor, órgano asesor del Consejo de Administración respecto a las actividades de investigación y desarrollo tecnológico realizadas por el IMIDRA, tiene como funciones:
+a) Asesorar al Consejo de Administración en todas las cuestiones relacionadas con las funciones del Instituto.
+b) Asesorar al Consejo de Administración sobre cualquier asunto que éste le consulte en el ámbito de las competencias del Instituto.
+c) Presentar por iniciativa propia al Consejo de Administración todas las propuestas que estime convenientes para el mejor funcionamiento del Instituto.
+d) Contribuir a la detección de los problemas científico-técnicos del sector agrario y su entorno natural en cooperación con la iniciativa privada y proponer directrices y programas de actuación por acometer las disfunciones, carencias y necesidades detectadas.
+e) Analizar y evaluar la actividad investigadora del Instituto, emitiendo informes para guiar su estrategia científica adaptándola a su potencialidad, grupos y recursos, así como a las necesidades detectadas.
+f) Asesorar al director-gerente del IMIDRA sobre cualquier asunto que éste le consulte en el ámbito de sus competencias.
+6. Lo dispuesto en este artículo relativo a las normas de funcionamiento y organización del Consejo Asesor será objeto de desarrollo reglamentario.
+Se modifica por el art. 10.2 de la Ley 7/2024, de 26 de diciembre. Ref. BOE-A-2025-5522
+
+### Artículo 11
+
+Artículo 11. Régimen del personal al servicio del IMIDRA.
+1. El personal al servicio del IMIDRA podrá estar formado por funcionarios de carrera, contratados en régimen laboral y funcionarios de empleo, siéndoles de aplicación lo previsto en la Ley 1/1984, de Administración Institucional de la Comunidad de Madrid, y lo previsto en la legislación vigente en materia laboral y de función pública.
+2. El IMIDRA podrá contratar en régimen laboral:
+a) Personal científico y técnico para la ejecución de proyectos determinados.
+b) Personal para su formación científica y técnica en la modalidad de trabajo en prácticas.
+c) Científicos de valía reconocida, españoles o extranjeros.
+
+### Artículo 12
+
+Artículo 12. Régimen económico.
+1. A los efectos de su gestión económico-financiera, el Instituto se regirá por la legislación aplicable a los organismos autónomos de carácter mercantil, de acuerdo con la Ley 1/1984, de Administración Institucional de la Comunidad de Madrid, y la Ley 9/1990, de 8 de noviembre, reguladora de la Hacienda de la Comunidad de Madrid.
+2. El patrimonio del Instituto estará integrado por los bienes y derechos que le sean adscritos por la Comunidad de Madrid, así como por los que adquiera y los que le sean incorporados y adscritos en el futuro por cualquier entidad o persona y por cualquier título, de conformidad con lo dispuesto en el artículo 15 de la Ley 1/1984.
+3. Forman la hacienda del Instituto: Su patrimonio; los productos y rentas del mismo; las subvenciones, aportaciones y donativos que reciba de la Comunidad, organismos, entidades y particulares; los ingresos ordinarios y extraordinarios procedentes de las actividades realizadas y por los servicios prestados a particulares; los beneficios que obtengan de las operaciones que sean propias de la institución o, en general, cualquier otro recurso que pudiera tener atribuido.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se integra en el IMIDRA el Servicio de Investigación Agraria de la Dirección General de Agricultura y Alimentación de la Consejería de Economía y Empleo, así como los bienes que tienen adscritos con subrogación de la nueva entidad en los derechos y obligaciones de la Comunidad de Madrid, generados en el ámbito de los fines asignados al IMIDRA.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Se autoriza al Consejo de Gobierno de la Comunidad de Madrid para acordar, en su caso, la integración en el IMIDRA de aquellos otros organismos o servicios cuyas funciones sean afines o complementarias de las de aquél.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+En plazo máximo de seis meses, el Consejo de Administración del organismo elevará al Consejo de Gobierno de la Comunidad de Madrid la propuesta de la plantilla de personal al servicio del IMIDRA, en el marco establecido por la legislación vigente en materia de función pública y laboral y por el Acuerdo General sobre condiciones de trabajo del personal funcionario y el Convenio Colectivo para el personal laboral de la Comunidad de Madrid.
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+El personal al servicio de la Comunidad de Madrid que, a la entrada en vigor de la presente Ley, ocupe puestos de trabajo en el Servicio de Investigación Agraria de la Dirección General de Agricultura y Alimentación seguirá desempeñándolos como personal al servicio de la Comunidad de Madrid en el IMIDRA, en tanto se produce la adscripción definitiva por el procedimiento previsto en los artículos 42 y 43 de la Ley 1/1984.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+En el plazo máximo de seis meses, el Consejero de Economía y Empleo elevará al Consejo de Gobierno, para su aprobación, el Reglamento de Organización y Funcionamiento del IMIDRA, previa consulta al Consejo Asesor.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se autoriza al Consejero de Hacienda a habilitar los créditos y realizar las modificaciones presupuestarias que sean necesarias para la aplicación de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Se autoriza al Consejo de Gobierno de la Comunidad de Madrid para dictar cuantas disposiciones de aplicación y desarrollo de la presente Ley sean necesarias.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de la Comunidad de Madrid», debiéndose publicar también en el «Boletín Oficial del Estado».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a las Tribunales y autoridades que corresponda, la guarden y la hagan guardar.
+Madrid, 26 de diciembre de 1997.
+ALBERTO RUIZ-GALLARDÓN,
+Presidente

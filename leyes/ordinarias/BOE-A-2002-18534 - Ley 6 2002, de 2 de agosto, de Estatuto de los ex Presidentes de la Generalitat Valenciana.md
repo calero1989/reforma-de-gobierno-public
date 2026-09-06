@@ -1,0 +1,76 @@
+# Ley 6/2002, de 2 de agosto, de Estatuto de los ex Presidentes de la Generalitat Valenciana.
+
+- Identificador BOE: `BOE-A-2002-18534`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2002-18534
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley.
+PREÁMBULO
+La presente Ley pretende reconocer el papel que corresponde a las personas que han servido a la Comunidad Valenciana como titulares de la más alta magistratura de la Generalitat de acuerdo con nuestro Estatuto de Autonomía, y coherentemente con ello, regula el status de quienes han ostentado tan altas responsabilidades. Se pretende así garantizar que los ex Presidentes de la Generalitat puedan atender sus necesidades de presencia social de acuerdo con la dignidad y el decoro de las altas funciones ejercidas.
+No estando contemplado en la Ley 5/1983, de Gobierno Valenciano, el Estatuto de los ex Presidentes de la Generalitat Valenciana se considera conveniente su regulación, del mismo modo que se ha hecho en otras Comunidades e Instituciones.
+El reconocimiento de la figura del ex Presidente de la Generalitat está reservado a aquellos Presidentes elegidos por las Cortes Valencianas, en la forma establecida en la Ley 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunidad Valenciana, desde su I Legislatura.
+
+### Artículo 1
+
+Artículo 1.
+Los Presidentes de la Generalitat gozarán a partir del momento de su cese, de la consideración, atención y apoyo debidos a quienes han desempeñado este cargo.
+
+### Artículo 2
+
+Artículo 2.
+1. Los ex Presidentes de la Generalitat tendrán tratamiento vitalicio de Molt Honorable Senyor/a y ocuparán el lugar protocolario que les corresponda según la normativa vigente.
+2. En sus desplazamientos fuera del territorio de la Comunidad Valenciana los ex Presidentes podrán gozar del apoyo de los servicios que la Generalitat tenga establecidos, como las oficinas de la Generalitat en Madrid y Bruselas, y de aquellos otros de similar naturaleza que existan o que en el futuro pudieran establecerse.
+
+### Artículo 3
+
+Artículo 3.
+1. El Consell de la Generalitat pondrá a disposición de los ex Presidentes de la Generalitat los medios necesarios para el sostenimiento de una oficina de apoyo, que contará con los siguientes recursos:
+a) Dos puestos de trabajo con funciones de asesoramiento y una plaza de conductor, que serán cubiertos a propuesta del ex Presidente y que dependerán orgánicamente de la Presidencia de la Generalitat. El personal que ocupe los puestos citados tendrá la consideración de personal eventual y, si fuese personal al servicio de la Generalitat, quedarán en la situación administrativa que legalmente corresponda.
+b) Un local adecuado para la instalación de la mencionada oficina, la dotación presupuestaria para su funcionamiento ordinario y un automóvil del parque móvil de la Generalitat.
+2. El Consell de la Generalitat, a través del departamento competente, adoptará las actuaciones que sean precisas para preservar la seguridad personal de los ex Presidentes, dotándoles de los servicios de seguridad que se consideren necesarios.
+
+### Artículo 4
+
+1. Los ex Presidentes de la Generalitat Valenciana serán miembros natos del Consejo Jurídico Consultivo de la Comunidad Valenciana durante un plazo de quince años cuando hayan ejercido el cargo de presidente por un período igual o superior a una legislatura completa. En los restantes casos, serán miembros natos del Consejo Jurídico Consultivo de la Comunidad Valenciana por un período igual al tiempo que hayan ejercido el cargo de presidente, con un mínimo de dos años.
+2. La condición de miembro nato del Consejo Jurídico Consultivo será incompatible con el ejercicio de cualquier puesto de responsabilidad ejecutiva en las Administraciones Públicas y cuando concurran los supuestos de incompatibilidad legalmente establecidos.
+3. Cuando los miembros natos pasen a desempeñar puestos que resulten incompatibles, mientras perdure tal situación, quedarán suspendidos los plazos previstos en el apartado primero.
+4. En todo caso, la percepción de las retribuciones correspondientes a la condición de miembro nato del Consejo será incompatible con la de otras retribuciones por el desempeño de cualquier cargo público.
+Se modifica por el art. 92 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213.
+
+### Disposición adicional
+
+Disposición adicional.
+A los efectos de la presente Ley se considerarán Presidentes de la Generalitat quienes hubieran sido elegidos desde la I Legislatura de las Cortes Valencianas.
+
+### Disposición final primera
+
+Disposición final primera.
+Se modifica el artículo 3 de la Ley 10/1994, de Creación del Consejo Jurídico Consultivo de la Comunidad Valenciana, que queda redactado en los siguientes términos:
+«Artículo 3. Composición del Consejo.
+1. El Consejo Jurídico Consultivo está constituido por el presidente, los consejeros natos y un número de cuatro Consejeros electos. Estará asistido por la Secretaría General que actuará con voz pero sin voto.
+2. El Presidente o la Presidenta y los Consejeros electos serán nombrados por un período de cinco años, pudiendo ser confirmados hasta un máximo de tres períodos.
+3. Los Consejeros natos ejercerán sus funciones con los límites temporales establecidos en el artículo 4 de la Ley reguladora del Estatuto de los ex Presidentes. Actuarán con voz pero sin voto, no computándose en el artículo 13.1 de la Ley 10/1994, de Creación del Consejo Jurídico Consultivo de la Comunidad Valenciana.
+En todo lo demás, les será de aplicación lo previsto en la citada Ley 10/1994, de Creación del Consejo Jurídico Consultivo de la Comunidad Valenciana, excepto lo dispuesto en el artículo 4, párrafo segundo, y artículo 6.4».
+Se modifica por el art. 93 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se modifica el artículo 6.3 de la Ley 10/1994, de Creación del Consejo Jurídico Consultivo de la Comunidad Valenciana, quedando dicho punto 3 redactado en los siguientes términos:
+«3. El Presidente/a y los miembros del Consejo estarán sometidos al régimen de incompatibilidades establecido con carácter general para los altos cargos de la Administración, exceptuando las actividades docentes e investigadoras.
+Los miembros del Consejo Jurídico Consultivo no participarán en la deliberaciones de aquellos temas sobre los cuales haya de emitirse información, en el caso de que afecte directamente a su actividad e intereses.
+El Presidente/a del Consejo y los miembros electivos serán incompatibles con cualquier mandato representativo, cargo político o administrativo y con el ejercicio de funciones directivas de un partido político, sindicato o asociación patronal.»
+
+### Disposición final tercera
+
+Disposición final tercera.
+Esta Ley entrará en vigor al día siguiente de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 2 de agosto de 2002.
+JOSÉ LUIS OLIVAS MARTÍNEZ,
+Presidente

@@ -1,0 +1,499 @@
+# Ley 17/1990, de 2 de noviembre, de Museos.
+
+- Identificador BOE: `BOE-A-1990-28240`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1990-28240
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de Autonomía, promulgo la siguiente
+LEY 17/1990, DE 2 DE NOVIEMBRE, DE MUSEOS
+Preámbulo
+La preservación del patrimonio histórico, artístico, arqueológico, técnico y científico de Cataluña es un elemento básico a la hora de promover su conocimiento, estudio y difusión entre todos los ciudadanos, a fin de facilitarles una mejor comprensión de la naturaleza, la historia y, en general, la vida del país. El museo es la institución que, fundamentalmente, es responsable de dicho patrimonio y se encarga de custodiarlo. Estas funciones configuran al museo como un centro de servicio cultural necesariamente abierto y relacionado con la sociedad que lo envuelve, la cual tiene derecho a recibir del mismo unas prestaciones culturales que vayan más allá de la simple custodia.
+El artículo 9 del Estatuto de Autonomía de Cataluña, otorga a la Generalidad de Cataluña competencia exclusiva sobre los museos que no sean de titularidad estatal y sobre el patrimonio cultural, sin perjuicio de las competencias que el artículo 149.1.28 de la Constitución, asigna al Estado.
+La presente Ley establece el régimen aplicable a todos los museos, con algunas especificaciones referidas únicamente a los museos de administración pública, y crea el Registro de Museos de Cataluña en el cual se inscriben todos los centros museísticos que cumplen las condiciones que la Ley establece.
+Los museos nacionales encabezan la articulación del sistema museístico de Cataluña. Se consideran incluidos dentro de este concepto los museos que muestran una visión global de Cataluña en los diferentes ámbitos culturales y que extienden su servicio a todo el país. La Ley establece que cada museo nacional puede tener diversas secciones que dependan de él, con lo cual se pretende un doble objetivo: por un lado, establecer una configuración descentralizada de los museos nacionales y, por el otro, articular diversas redes temáticas encabezadas por cada museo nacional.
+Los museos que tienen una significación especial a causa de la importancia y el elevado valor del conjunto de bienes culturales que reúnen reciben un apoyo preferente de la Generalidad mediante su declaración como museos de interés nacional, que se hará siempre con la conformidad previa del titular del museo.
+La estructura organizativa de los museos de Cataluña se completa con los museos comarcales, locales y monográficos, a los que corresponde un papel decisivo como potenciadores de la dinámica cultural de cada territorio. La Ley prevé ayudas específicas para dichos museos y establece la creación de los servicios de atención a los museos como centros de apoyo técnico destinados a contribuir al desarrollo de cada museo.
+Siguiendo la tradición histórica catalana iniciada el año 1907 con la constitución de la Junta de Museos de Barcelona, la Ley crea la Junta de Museos de Cataluña, que define como la expresión de la colaboración y participación institucional en la gestión de los museos de Cataluña. La Junta tiene como objetivos la coordinación superior entre los diversos museos del país y la fijación de las prioridades que sean necesarias. La Comisión Ejecutiva de la Junta está formada por técnicos designados por las diversas instituciones, los cuales garantizarán la independencia y el criterio científico de la gestión.
+El Museo de Arte de Cataluña, vinculado a diversas instituciones de ámbito nacional y local a lo largo de su historia, reúne unos fondos procedentes de todo el país y con titularidad diversa, que muestran la realidad artística de Cataluña y de los territorios que se relacionan con ella. Es por dicha especificidad del contenido que la Ley lo define como museo nacional y establece los mecanismos necesarios para llevar a cabo la gestión del mismo compartida entre la Generalidad de Cataluña y el Ayuntamiento de Barcelona.
+Para dar una visión global de las disciplinas de la arqueología y de la ciencia y la técnica, se crean también, con la categoría de museos nacionales, el Museo de Arqueología de Cataluña y el Museo de la Ciencia y de la Técnica de Cataluña.
+Las disposiciones adicionales segunda y quinta aplican en el ámbito de los museos las disposiciones de la Ley 5/1987, de 4 de abril, del Régimen Provisional de las Competencias de las Diputaciones Provinciales. Dicha aplicación se hará por medio de la transferencia a la Generalidad de Cataluña, a los Consejos Comarcales y, si es preciso, también a los municipios, de los museos y servicios museísticos de las Diputaciones Provinciales a las que el título IV de la presente Ley no asigna competencias específicas en el campo de los museos. Con dichas transferencias y las prescripciones de la Disposición Adicional Sexta, los Consejos Comarcales pasan a tener una responsabilidad importante en la gestión de los museos de Cataluña.
+La presente Ley de Museos es preciso relacionarla con una futura ley sobre el patrimonio cultural de Cataluña.
+Finalmente, debe hacerse un reconocimiento a la importante dedicación de las Corporaciones Locales de Cataluña, las cuales durante muchos años se han ocupado de la conservación del patrimonio cultural de nuestro país, labor en la que han ejercido de forma meritoria funciones de suplencia ante la falta de instituciones de ámbito nacional.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Concepto de museo.
+1. Son museos, a los efectos de la presente ley, las instituciones permanentes, sin finalidad de lucro, al servicio de la sociedad y de su desarrollo, abiertas al público, que reúnen un conjunto de bienes culturales muebles, inmuebles e inmateriales, los conservan, los documentan y estudian, los exhiben y difunden su conocimiento para la investigación, la enseñanza y el gozo intelectual y estético y constituyen un espacio para la participación cultural, lúdica y científica de los ciudadanos.
+2. Tendrán la consideración de museo los espacios y monumentos con valores históricos, arqueológicos, ecológicos, industriales, etnográficos o culturales que reúnan, conserven y difundan conjuntos de bienes culturales.
+3. No se considerarán museos las bibliotecas, archivos, filmotecas e instalaciones culturales similares.
+Se modifica el apartado 1 por el art. 92.1 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+
+### Artículo 2
+
+Artículo 2. Concepto de colección.
+Son colecciones los conjuntos de bienes culturales conservados por una persona física o jurídica que no reúnen las condiciones que la presente Ley establece para los museos.
+
+### Artículo 3
+
+Artículo 3. Concepto de bien cultural.
+A los efectos de la presente Ley, tendrán la consideración de bienes culturales los testimonios materiales que constituyan puntos de referencia importantes del desarrollo del hombre y de su entorno, sin perjuicio de lo que, si procede, disponga una futura Ley del Patrimonio Cultural de Cataluña.
+
+### Artículo 4
+
+Artículo 4. Derechos dominicales.
+1. La presente Ley no modifica la titularidad de los bienes culturales que formen parte de los museos de Cataluña, sin perjuicio de los derechos que atribuye y las obligaciones que impone al titular por razón del interés general.
+2. Los derechos de expropiación, de tanteo y de retracto, a favor de la Generalidad, de los bienes culturales se regirán por la legislación vigente y, si procede, por lo dispuesto en una futura Ley del Patrimonio Cultural de Cataluña.
+
+## TÍTULO II
+
+Del régimen de los museos
+
+## CAPÍTULO I
+
+Del régimen común de los museos
+
+### Artículo 5
+
+Artículo 5. Registro.
+1. La Administración de la Generalidad creará el Registro de Museos de Cataluña, el cual será el inventario oficial de los museos catalanes. Sólo podrán inscribirse en el mismo las instituciones que cumplan las condiciones establecidas en la presente Ley y en las normas que la desarrollen.
+2. Antes de la inscripción, será preciso realizar la inspección de las instalaciones a fin de comprobar el cumplimiento de la normativa correspondiente. A dichos efectos el Departamento de Cultura lo comunicará al Ayuntamiento de la población donde el museo tenga su sede.
+3. La inscripción de un museo en el Registro se hará por resolución del Consejero de Cultura y se publicará en el «Diari Oficial de la Generalitat de Catalunya». A los museos inscritos en el Registro se les entregará la acreditación de la inscripción.
+4. Las cuestiones relativas al Registro de Museos de Cataluña y a las condiciones y forma de inscripción en el mismo se determinarán reglamentariamente.
+
+### Artículo 6
+
+Artículo 6. Función supervisora y de fomento.
+1. La Generalidad velará por el cumplimiento de las obligaciones señaladas en la presente Ley y a dicho efecto realizará las inspecciones que convengan.
+2. Los museos proporcionarán la información que les requiera la Administración sobre su organización y gestión, y sobre el estado y situación del patrimonio que conservan.
+3. La Generalidad y las Administraciones públicas de Cataluña procurarán la mejora de las instalaciones y medios de toda clase, a fin de asegurar el más alto servicio a la sociedad, e incrementarán los fondos museísticos. A dicho efecto, podrán otorgar subvenciones y dar ayudas técnicas, y pedir la acreditación de la procedencia de las aportaciones privadas. Las ayudas de la Generalidad sólo podrán beneficiar a los museos inscritos en el Registro de Museos de Cataluña.
+
+### Artículo 7
+
+Artículo 7. Protección y custodia de los fondos.
+1. Los museos dispondrán del personal y las condiciones necesarias para garantizar la protección y conservación de sus fondos.
+2. El Gobierno dictará las disposiciones reguladoras de las condiciones adecuadas de seguridad y protección que deberán cumplir todos los museos de Cataluña. Además del asesoramiento establecido en los artículos 24 y 27 de la presente Ley, la Generalidad asesorará sobre los sistemas de seguridad y protección adecuados y sobre las condiciones de conservación y restauración de los fondos de los museos.
+
+### Artículo 8
+
+Artículo 8. Difusión de los fondos.
+Todos los museos garantizarán la difusión de sus fondos al público en general. Los bienes culturales que integran un museo deben poder ser objeto de investigación, enseñanza, divulgación y goce.
+
+### Artículo 9
+
+Artículo 9. Salida de objetos.
+1. Los titulares o administradores de los museos de administración pública y de los museos de interés nacional comunicarán al Departamento de Cultura, con diez días de antelación como mínimo, cualquier salida de objetos siempre que estén debidamente catalogados y documentados. La comunicación señalará la finalidad de la salida, el plazo, el destino y las condiciones del traslado. El resto de museos comunicarán previamente al Departamento de Cultura las salidas definitivas de objetos e indicarán su destino.
+2. El incumplimiento de dicha obligación, fundamentada en la necesidad de proteger el patrimonio museístico, podrá ser sancionado por el Consejero de Cultura con una multa de hasta 5. 000.000 de pesetas.
+3. Los museos comunicarán anualmente al Departamento de Cultura las modificaciones operadas en el inventario de los bienes culturales de su fondo: los depósitos temporales, las nuevas adquisiciones y las salidas definitivas de objetos.
+
+### Artículo 10
+
+Artículo 10. Enajenación de objetos.
+1. Los museos cuya titularidad no corresponda a la Generalidad comunicarán previamente al Departamento de Cultura la enajenación de los bienes culturales de titularidad privada que formen parte de sus fondos. Si la enajenación es a título oneroso, el Departamento de Cultura podrá ejercer, en nombre de la Generalidad, los derechos de tanteo y de retracto.
+2. El incumplimiento de dicha obligación podrá ser sancionado por el Consejero de Cultura con una multa de hasta 10.000.000 de pesetas.
+
+### Artículo 11
+
+Artículo 11. Documentación.
+1. Cada museo inventariará y documentará todos los bienes culturales que lo integren de acuerdo con las normas que, a dicho efecto, se dicten en el desarrollo de la presente Ley.
+2. La Administración de la Generalidad y demás Administraciones públicas de Cataluña facilitarán, cuando les corresponda, y dentro de las respectivas disponibilidades presupuestarias, medios técnicos y económicos para un cumplimiento efectivo de dicha obligación.
+
+### Artículo 12
+
+Artículo 12. Acceso.
+1. Los museos tendrán un área de exposición abierta al público proporcionada a la cantidad e importancia de sus fondos y harán públicos los horarios de visita.
+2. La regulación del derecho de entrada no podrá desvirtuar la función social y cultural del museo. A dicho efecto, la Administración de la Generalidad podrá establecer limitaciones a la misma.
+
+### Artículo 13
+
+Artículo 13. Reproducciones.
+Sin perjuicio del derecho de propiedad intelectual, corresponderá a los museos regular la realización de reproducciones y copias de las obras de su fondo. En las copias obtenidas constará su procedencia de manera visible.
+
+### Artículo 14
+
+Artículo 14. Personal.
+1. El personal directivo y técnico de los museos deberá tener las condiciones profesionales que se determinen reglamentariamente.
+2. Además del Régimen General de Incompatibilidades, el personal de los museos de titularidad pública estará afectado de incompatibilidad en lo referente a comerciar con bienes culturales y hacer tasaciones de los mismos, excepto para uso interno de su institución o a petición de otro museo de administración pública, siempre que lo apruebe el órgano de gobierno correspondiente.
+
+## CAPÍTULO II
+
+De los museos de administración pública
+
+### Artículo 15
+
+Artículo 15. Concepto de museo de administración pública.
+1. Son museos de administración pública, a los efectos de la presente Ley, los creados, mantenidos o gestionados con cargo a las Administraciones públicas catalanas, sin perjuicio de la titularidad privada del museo y de sus fondos.
+2. Se entenderá que son museos mantenidos o gestionados con cargo a las Administraciones públicas catalanas los museos cuyos gastos de mantenimiento sean cubiertos mayoritariamente con fondos procedentes de aquéllas.
+3. Quedarán fuera del ámbito de aplicación de la presente Ley los museos de titularidad estatal radicados en Cataluña, excepto en lo referente a las prescripciones que expresamente se refieran a los mismos. En cualquier caso, las prescripciones de la presente Ley serán sin perjuicio del cumplimiento de la normativa estatal relativa a dichos museos.
+
+### Artículo 16
+
+Artículo 16. Depósito de bienes de la Generalidad.
+1. Corresponderá al Consejero de Cultura autorizar el depósito en un museo de bienes culturales pertenecientes a la Generalidad de Cataluña.
+2. La salida de un bien cultural de la Generalidad de un museo, aunque tenga carácter temporal, requiere la autorización del Consejero de Cultura, previo informe de la Junta de Museos. Dicho informe no será preceptivo en los casos de salidas técnicas.
+
+### Artículo 17
+
+Artículo 17. Traslado cautelar de los fondos de un museo.
+El Gobierno de la Generalidad, previa comunicación a la Junta de Museos, podrá ordenar el traslado temporal al museo que corresponda de los fondos de los museos de administración pública que no cumplan las normas relativas a la seguridad y difusión de los fondos.
+
+### Artículo 18
+
+Artículo 18. Deber de colaboración.
+1. Todos los museos de administración pública de Cataluña colaborarán con los museos nacionales, de acuerdo con lo que dicte la Junta de Museos.
+2. La Generalidad garantizará los mecanismos de cooperación y coordinación necesarios.
+
+## TÍTULO III
+
+De la Articulacion de los museos de Cataluña
+
+## CAPÍTULO I
+
+Clasificación
+
+### Artículo 19
+
+Artículo 19. Clases de museos.
+A los efectos de la presente Ley, los museos se clasificarán en:
+a) Museos nacionales.
+b) Museos de interés nacional.
+c) Museos comarcales y locales.
+d) Museos monográficos.
+e) Otros museos.
+
+## CAPÍTULO II
+
+De los museos nacionales y de las secciones de museo nacional
+
+## Sección primera
+
+Sección primera. De los museos nacionales
+
+### Artículo 20
+
+Artículo 20. Régimen jurídico y económico.
+1. Los museos nacionales se crearán por ley, la cual determinará su ámbito museístico, estructura y financiación.
+2. (Derogado).
+3. La creación de un museo nacional supondrá la asunción por la Generalidad de al menos el 50 por 100 de las aportaciones procedentes de las Administraciones públicas en los gastos corrientes del museo.
+4. En el caso de la creación de nuevos espacios, remodelaciones o realización de actividades especiales que cuenten con el visto bueno de la Junta de Museos, las administraciones implicadas asumirán el compromiso de dotar al museo de nuevos recursos y de emprender gestiones destinadas a obtenerlos de otras instituciones, públicas o privadas.
+Se deroga el apartado 20.2 por la disposición derogatoria 2.b) de la Ley 7/2011, de 27 de julio. Ref. BOE-A-2011-13896.
+
+### Artículo 21
+
+Artículo 21. Funciones del órgano superior de gobierno.
+(Derogado).
+Se deroga por la disposición derogatoria 2.b) de la Ley 7/2011, de 27 de julio. Ref. BOE-A-2011-13896.
+
+### Artículo 22
+
+Artículo 22. Nombramiento de Directores y Administradores.
+Los directores y administradores de los museos nacionales son nombrados, a propuesta de la Junta de Museos, por el órgano que se especifique en los estatutos de la entidad que gestione el museo.
+Se modifica por el art. 11.1 de la Ley 25/1998, de 31 de diciembre. Ref. BOE-A-1999-2521.
+
+## Sección segunda
+
+Sección segunda. De las secciones del museo nacional
+
+### Artículo 23
+
+Artículo 23. Declaración.
+1. Corresponderá al Gobierno, a propuesta de la Junta de Museos, la declaración de que un museo, o una parte de un museo, es sección de un museo nacional.
+2. La declaración se hará con el consentimiento previo del titular del museo que es objeto de la misma.
+
+### Artículo 24
+
+Artículo 24. Efectos.
+1. La declaración como sección de museo nacional comportará los siguientes efectos:
+a) La coordinación expositiva, documental y difusora con el museo nacional correspondiente.
+b) La ayuda económica para gastos de funcionamiento.
+c) El asesoramiento técnico y organizativo.
+d) El fomento y apoyo en la actividad de restauración.
+e) El apoyo para la documentación y difusión del patrimonio museístico.
+2. Los efectos mencionados en el punto 1.b), c), d) y e) estarán a cargo del museo nacional correspondiente. La fijación del régimen de las relaciones entre el museo nacional y cada sección se establecerá por convenio entre aquél y la institución titular de la sección.
+
+## CAPÍTULO III
+
+De los museos de interés nacional
+
+### Artículo 25
+
+Artículo 25. Definición.
+1. El Gobierno podrá declarar como museos de interés nacional los museos que, por la importancia y el valor del conjunto de bienes culturales que reúnen, por las características generales o específicas de sus colecciones o porque el interés de su patrimonio sobrepasa su marco, tienen una significación especial para el patrimonio cultural de Cataluña.
+2. La declaración de interés nacional se hará sin perjuicio de la continuidad de la titularidad y gestión de cada museo.
+
+### Artículo 26
+
+Artículo 26. Procedimiento de declaración.
+La declaración de interés nacional se hará por Decreto, a propuesta del Consejero de Cultura, oída la Junta de Museos. La iniciativa de la declaración podrá proceder del Departamento de Cultura, de la Junta de Museos o del titular del museo. En todo caso, el titular deberá manifestar su conformidad.
+
+### Artículo 27
+
+Artículo 27. Efectos.
+1. La Administración de la Generalidad otorgará a los museos de interés nacional las siguientes ayudas:
+a) Ayuda económica para gastos de funcionamiento.
+b) Asesoramiento técnico y organizativo.
+c) Fomento y apoyo en la actividad de restauración.
+d) Apoyo para la documentación y difusión del patrimonio museístico.
+También se podrán otorgar ayudas extraordinarias para inversiones en inmuebles, remodelaciones museográficas, adquisiciones, investigaciones y programas de restauración.
+2. El museo ordenará sus actividades de acuerdo con los criterios de coordinación establecidos por la Junta de Museos y sujetará la documentación y definición de los fondos museísticos a las normas técnicas que se dicten a tal efecto.
+
+### Artículo 28
+
+Artículo 28. Desarrollo por convenio.
+La Generalidad podrá establecer convenios para desarrollar la colaboración con los museos de interés nacional.
+
+## CAPÍTULO IV
+
+De los museos comarcales, locales y monográficos, y de los servicios de atención a los museos
+
+### Artículo 29
+
+Artículo 29. Museos comarcales y museos locales.
+1. Los museos comarcales y los museos locales son los que, promovidos o mantenidos por los entes locales de Cataluña, ofrecen por su planteamiento y contenido, una visión global de la historia, las características humanas y naturales o la riqueza patrimonial de una comarca, una población o una parte especialmente definida del territorio, o de algún aspecto sectorial o temáticamente especializado que se relacione con el mismo.
+2. Los museos comarcales y los museos locales cumplirán, básicamente, la función de recogida, conservación, documentación, estudio y difusión de los testimonios culturales más representativos de la comunidad en la que están implantados. Dichos museos podrán actuar como centros activos en su área de influencia, participando en la impulsación de iniciativas culturales diversas.
+3. Los consejos comarcales y los ayuntamientos de los municipios donde radiquen participarán necesariamente en la gestión del museo comarcal correspondiente. Igualmente, los ayuntamientos participarán en la gestión del museo local correspondiente.
+
+### Artículo 30
+
+Artículo 30. Museos monográficos.
+Son museos monográficos aquellos que muestran una sola temática o recogen la explicación y materiales de un monumento histórico, un yacimiento arqueológico, un personaje destacado, un hecho memorable o cualquier otro tema específico.
+
+### Artículo 31
+
+Artículo 31. Acto de clasificación.
+La clasificación de un museo como comarcal, local o monográfico se establecerá en la resolución de inscripción en el Registro de Museos de Cataluña.
+
+### Artículo 32
+
+Artículo 32. Apoyo del Departamento de Cultura.
+1. El Departamento de Cultura establecerá anualmente un programa de ayudas económicas a los museos comarcales, locales y monográficos. De acuerdo con el presupuesto de dicho programa, la Generalidad, después del informe favorable de la Junta de Museos, podrá suministrar la ayuda técnica que los museos soliciten.
+2. El mencionado programa se elaborará con criterios que conduzcan a la mejora cualitativa y cuantitativa de los fondos museísticos de Cataluña.
+3. El Departamento de Cultura podrá articular formas de colaboración con los museos comarcales, locales y monográficos que cumplan los requisitos que marca el capítulo segundo del título II de la presente Ley.
+
+### Artículo 33
+
+Artículo 33. Otros museos.
+Pertenecerán a la categoría «otros museos» aquellos que por su temática, contenido o alcance no sean susceptibles de ser incluidos en las demás categorías.
+
+### Artículo 34
+
+Artículo 34. Servicios de atención a los museos.
+1. Con el objeto de garantizar la conservación y custodia del patrimonio museístico y el depósito de material procedente de las intervenciones arqueológicas y de dar apoyo técnico a los museos de Cataluña, el Departamento de Cultura creará los servicios de atención a los museos.
+2. Cada servicio de atención a los museos estará vinculado a un museo y extenderá su actuación sobre un ámbito territorial determinado, que será concretado en la orden de creación correspondiente.
+3. Los servicios de atención en los museos pueden ser creados mediante convenios con las entidades locales.
+Se modifica el apartado 3 por el art. 92.2 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+
+### Artículo 34 bis
+
+Artículo 34 bis. Redes territoriales de museos.
+1. Con el objeto de facilitar que el conjunto de los museos puedan cumplir sus funciones, el Departamento de Cultura debe impulsar la creación de redes territoriales de museos y darles apoyo financiero, sin perjuicio de la financiación de otras administraciones supralocales.
+2. Cada red territorial extiende su actuación sobre un ámbito territorial determinado. La red debe contar con unos órganos de gobierno y con un órgano técnico de apoyo y prestación de servicios que esté vinculado a una entidad pública o privada sin ánimo de lucro integrada en la red y que esté relacionada con la gestión patrimonial o museística.
+3. Las redes territoriales se crean mediante convenios u otros acuerdos entre la Administración de la Generalidad, las entidades titulares de los museos, la entidad de la que dependa el órgano técnico de apoyo y prestación de servicios de la red y las demás instituciones del ámbito territorial que quieran formar parte de la misma.
+Se añade por el art. 65.1 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+
+### Artículo 34 ter
+
+Artículo 34 ter. Museos de apoyo territorial.
+1. Los museos de apoyo territorial tienen la función de prestar servicios en los equipamientos patrimoniales y colecciones abiertas al público que no cumplen las condiciones para ser museo de acuerdo con la legislación museística.
+2. Se determina mediante convenio u otros acuerdos entre la Administración de la Generalidad y las entidades titulares del museo correspondiente la atribución de la condición de museo de apoyo territorial, las funciones que debe ejercer, la carta de servicios, el ámbito territorial de actuación, los equipamientos patrimoniales o colecciones beneficiarios y por qué período de tiempo. También pueden ser parte del convenio o acuerdo otras instituciones del correspondiente ámbito territorial que estén interesadas.
+Se añade por el art. 65.2 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+
+## TÍTULO IV
+
+De las competencias administrativas
+
+## CAPÍTULO I
+
+De las competencias de la Generalidad
+
+### Artículo 35
+
+Artículo 35.
+La Administración de la Generalidad ejercerá, entre otras, las siguientes funciones:
+a) Dictar las normas reglamentarias de ordenación de los museos.
+b) Dictar las normas que desarrollen los preceptos legales relativos a los museos nacionales.
+c) Organizar, actualizar y gestionar el Registro de Museos de Cataluña.
+d) Dictar las normas técnicas de documentación, exposición, difusión y protección del patrimonio museístico.
+e) Realizar inspecciones al efecto de velar por el cumplimiento del ordenamiento jurídico de los museos.
+f) Fomentar la mejora y ampliación del patrimonio museístico.
+g) Ejercer los derechos de tanteo y de retracto.
+h) Autorizar los depósitos de bienes culturales de la Generalidad y autorizar su traslado temporal.
+i) Organizar y gestionar los museos propios.
+j) Fomentar la formación y reciclaje del personal de los museos.
+k) Establecer las directrices de la política museística para la conservación, protección y gestión del patrimonio museístico.
+Se añade la letra k) por el art. 90.3 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+
+### Artículo 36
+
+Artículo 36.
+La Administración de la Generalidad tenderá a que la financiación y las subvenciones se dirijan tanto a la constitución de los museos nacionales como a la potenciación de los museos locales de Cataluña.
+
+## CAPÍTULO II
+
+De las competencias de las Entidades locales
+
+### Artículo 37
+
+Artículo 37. De las competencias de las comarcas.
+Los consejos comarcales ejercerán, entre otras, las siguientes funciones:
+a) Organizar y gestionar los museos que les hayan sido transferidos en virtud de la Disposición Adicional Quinta y de los creados por iniciativa propia.
+b) Participar en la gestión de los museos comarcales de su territorio, si no tiene la titularidad de los mismos.
+c) Fomentar, apoyar y colaborar con los museos municipales existentes en la demarcación.
+d) Fomentar los museos de titularidad privada de la demarcación y apoyarles, si procede.
+e) Informar sobre la declaración como museo de interés nacional o como sección de museo nacional de los museos radicados en la comarca.
+
+### Artículo 38
+
+Artículo 38. De las competencias de los municipios.
+Los Ayuntamientos ejercerán, entre otras, las siguientes funciones:
+a) Organizar y gestionar los museos que hayan sido transferidos en virtud de la Disposición Adicional Quinta y de los creados por propia iniciativa.
+b) Participar en la gestión de los museos locales de su territorio, si no tiene la titularidad de los mismos.
+c) Fomentar los museos de titularidad privada del municipio y apoyarles, si procede.
+d) Tener representación en los órganos de gobierno de los museos de administración pública radicados en su término municipal.
+e) Informar sobre la creación de nuevos museos de administración pública que no sean de titularidad municipal radicados en su término municipal.
+f) Instituir, reglamentar y mantener los museos municipales.
+
+## TÍTULO V
+
+De la Junta de Museos de Cataluña
+
+### Artículo 39
+
+Artículo 39. Función y naturaleza.
+1. La Junta de Museos de Cataluña, continuadora de la Junta de Museos de Barcelona, representa la voluntad de colaboración y participación institucional en la gestión de los museos de Cataluña.
+2. La Junta actuará con plena independencia en el ejercicio de sus funciones.
+3. La Junta cuenta con una asignación presupuestaria específica en el presupuesto del Departamento de Cultura.
+
+### Artículo 40
+
+Artículo 40. Estructura.
+1. Serán órganos de gobierno de la Junta de Museos el Pleno y la Comisión Ejecutiva.
+2. El Pleno de la Junta de Museos será presidido por el Presidente de la Generalidad y serán vicepresidentes del mismo el Alcalde de Barcelona, el Consejero de Cultura y un representante elegido por el Parlamento de Cataluña. Serán vocales del mismo los miembros de la Comisión Ejecutiva, un representante del Instituto de Estudios Catalanes, un representante de cada museo nacional, un representante de la Iglesia católica, designado por la Conferencia Episcopal Tarraconense, y seis representantes de las entidades locales de Cataluña. El Presidente podrá delegar sus funciones en cualquiera de los vicepresidentes.
+3. La Comisión Ejecutiva está presidida por el director o directora general a quien corresponde la competencia en materia de museos. Son vocales de la misma doce técnicos de reconocido prestigio en cualquiera de las disciplinas relacionadas con los museos, nombrados por decreto a propuesta de los siguientes organismos e instituciones: cinco, del Parlamento de Cataluña; dos, del Departamento de Cultura; uno, del Ayuntamiento de Barcelona; dos, de las entidades locales de Cataluña; uno, de la Asociación de Museólogos de Cataluña, y uno de la Conferencia Episcopal Tarraconense.
+4. El mandato de los vocales de la Comisión tendrá una duración de seis años. La Comisión Ejecutiva se renovará por mitades cada tres años.
+5. El Presidente de la Comisión tendrá voto de calidad en caso de empate en una votación.
+Se modifica el apartado 3 por el art. 90.4 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+
+### Artículo
+
+Artículo. 41. Función del Pleno de la Junta.
+1. Será función del Pleno de la Junta de Museos velar por el funcionamiento correcto del patrimonio museístico de Cataluña. A dicho efecto, cada año debatirá y aprobará una memoria de gestión museística presentada por la comisión Ejecutiva.
+2. Para cumplir sus cometidos, el Pleno podrá crear comisiones sobre aspectos específicos, integradas por una parte de sus miembros.
+
+### Artículo 42
+
+Artículo 42. Competencias.
+Serán funciones de la Junta de Museos, que ejercerá a través de la Comisión Ejecutiva, entre otras, las siguientes:
+a) Aprobar las propuestas de nombramiento de los directores y administradores de los museos nacionales, presentadas por los órganos de gobierno respectivos, y dar traslado de las mismas al órgano competente que acuerde su nombramiento.
+b) Estudiar y proponer la creación de nuevos museos nacionales y elaborar las directrices básicas de los mismos, y estudiar y proponer la declaración de secciones de los museos nacionales.
+c) Establecer, en el marco de la presente Ley, las normas y criterios de coordinación de política museística general.
+d) Fomentar las relaciones entre los museos de Cataluña y entre éstos y los ubicados fuera de Cataluña.
+e) Aprobar los planes anuales de actuación de los museos nacionales y del Museo Arqueológico de Tarragona.
+f) Aprobar los planes de ordenación e intercambio del patrimonio museístico de los museos nacionales.
+g) Proponer a la Generalidad los criterios de actuación en los diferentes campos museísticos.
+h) Valorar anualmente la actuación del conjunto de administraciones de Cataluña.
+i) Asesorar en el desarrollo reglamentario de la presente Ley.
+Se modifica la letra a) por el art. 11.2 de la Ley 25/1998, de 31 de diciembre. Ref. BOE-A-1999-2521.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Creación de diversos museos nacionales.
+Se crean los siguientes museos nacionales:
+a) Museo de Arqueología de Cataluña.
+b) Museo de Arte de Cataluña.
+c) Museo de la Ciencia y de la Técnica de Cataluña.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Museo de Arqueología de Cataluña.
+1. El Museo de Arqueología de Cataluña mostrará permanentemente los vestigios, fundamentalmente de carácter arqueológico, que, desde la aparición del hombre, ilustran la evolución cultural del entorno.
+2. El Museo de Arqueología de Cataluña se constituye inicialmente a partir del Museo Arqueológico de Barcelona, el Museo Arqueológico de Girona, y las Ruinas de Empúries, Olèrdola y Ullastret y de sus museos monográficos, todos los cuales son transferidos por la presente Ley a la Generàlidad de Cataluña.
+3. (Derogado).
+4. La Comisión Mixta establecida en el artículo 5 de la Ley 5/1987, de 4 de abril, del Régimen Provisional de las Competencias de las Diputaciones Provinciales, fijará en el plazo máximo de seis meses, los medios personales y materiales y los recursos que serán traspasados a la Generalidad a consecuencia de la transferencia de los mencionados servicios. Si no hubiere acuerdo con la Comisión Mixta, se aplicará lo dispuesto en el artículo 5 de la Ley 5/1987.
+5. (Derogado).
+6. Deberán establecerse relaciones de colaboración y coordinación con el Museo Arqueológico de Tarragona.
+Se derogan los apartados 3 y 5 por la disposición derogatoria 2.b) de la Ley 7/2011, de 27 de julio. Ref. BOE-A-2011-13896.
+ Se modifica el apartado 3 por el art. 90 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Museo de Arte de Cataluña.
+1. El Museo de Arte de Cataluña mostrará permanentemente la expresión artística catalana y de los territorios más relacionados culturalmente con Cataluña, en los distintos períodos históricos, hasta la actualidad.
+2. El Museo de Arte de Cataluña se integra inicialmente con los fondos del Museo de Arte de Cataluña, el Museo de Arte Moderno y el Gabinete Numismático.
+3. La integración establecida en el punto 2 no implicará alteración alguna en la titularidad de los fondos mencionados. En todo caso, los bienes culturales propiedad de entidades públicas de Cataluña no podrán salir del museo sin la autorización del nuevo patronato del museo o, mientras éste no se constituya, de la Junta de Museos de Cataluña.
+4. La gestión del Museo de Arte de Cataluña es a cargo de un consorcio. La presidencia del Museo corresponde a un miembro del Patronato -órgano superior de gobierno del Museo-, nombrado por el Gobierno de la Generalidad. La vicepresidencia o las vicepresidencias corresponden a miembros del Patronato nombrados de acuerdo con el procedimiento que establecen los estatutos.
+5. Para la efectividad de la integración y la elaboración de los estatutos del patronato se constituirá una Comisión Mixta integrada por tres representantes de la Administración de la Generalidad y tres representantes del Ayuntamiento de Barcelona. Los acuerdos de la Comisión comprenderán la determinación de los edificios, instalaciones y personal que se adscriban al patronato, y también la participación de cada institución en los gastos de mantenimiento, teniendo en cuenta lo dispuesto en el artículo 20.3 de la presente Ley. Los acuerdos y estatutos serán aprobados por Decreto del Gobierno.
+6. Si en el plazo de seis meses no se ha procedido a hacer efectiva la integración, el Gobierno, previo informe de la Junta de Museos y oído el Ayuntamiento de Barcelona, presentará un proyecto de ley al Parlamento para hacerla efectiva.
+Se modifica el apartado 4 por el art. 3 de la Ley 11/2005, de 7 de julio. Ref. BOE-A-2005-14081.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Museo de la Ciencia y de la Técnica de Cataluña.
+1. El Museo de la Ciencia y de la Técnica de Cataluña mostrará permanentemente la implantación y evolución de los avances científicos y técnicos en Cataluña y, particularmente, su aplicación industrial. También podrá mostrar una visión de las ciencias puras, con independencia de sus aplicaciones tecnológicas.
+2. El Museo de la Ciencia y de la Técnica de Cataluña se integra, inicialmente, con los fondos del museo del mismo nombre creado por la Orden de 4 de marzo de 1985.
+Se derogan los apartados 3 y 4 por la disposición derogatoria 2.b) de la Ley 7/2011, de 27 de julio. Ref. BOE-A-2011-13896.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Transferencia de servicios de las Diputaciones provinciales.
+1. Los museos y servicios museísticos dependientes de las Diputaciones provinciales de Barcelona, Girona, Lleida y Tarragona serán transferidos a la Generalidad o a los consejos comarcales del territorio donde estén situados.
+2. La Comisión Mixta mencionada en el punto 4 de la Disposición Adicional Segunda, en el plazo de un año, además de fijar los medios personales y materiales y los recursos que serán trasladados, decidirá el destinatario de los mismos, la Generalidad o el consejo comarcal, según resulte de la aplicación de los siguientes criterios:
+a) El interés, nacional o no, del museo o servicio.
+b) La racionalidad global de la organización museística de Cataluña.
+c) Los criterios establecidos en el artículo 3 de la Ley 5/1987.
+d) La preferencia de transferencia en favor de los consejos comarcales.
+3. Excepcionalmente, en el caso de que el alcance y características de un museo lo justifiquen, la Comisión Mixta podrá acordar que sea transferido a un municipio. También podrá aplicarse, si las características de un museo lo justifican, la disposición contenida en el artículo 8 de la Ley 5/1987.
+4. Si no hubiere acuerdo, se aplicará lo dispuesto en el artículo 5 de la Ley 1/1987.
+5. Las previsiones fijadas en el apartado 2 de la presente Disposición se aplicarán excepto si las Administraciones implicadas llegan antes a un acuerdo.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Subrogación de los consejos comarcales.
+1. En todos los museos en los que la Generalidad tenga suscritos convenios de colaboración con el titular del museo y que no sean declarados de interés nacional o secciones de museo nacional, los consejos comarcales subrogarán la posición que la Generalidad tenga en los respectivos convenios. Por Decreto del Gobierno se podrá extender esta disposición a museos sección de museo nacional.
+2. En el plazo de un año se adoptarán las medidas necesarias, incluso de carácter económico, para hacer efectiva la subrogación prevista en el punto l.
+3. Por Decreto del Gobierno se podrá transferir o delegar a los consejos comarcales la gestión de los museos de titularidad de la Generalidad.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Actualización de las sanciones.
+Se facultará al Gobierno para que actualice la cuantía máxima de las multas establecidas en los artículos 9 y 10. Los porcentajes de los incrementos fijados por el Gobierno no podrán ser superiores a los que resulten de aplicar el incremento del Indice de Precios al Consumo.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los museos en funcionamiento a la entrada en vigor de la presente Ley se inscribirán, de oficio o a petición del titular, en el Registro de Museos de Cataluña.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La primera renovación parcial de los vocales de la Comisión Ejecutiva de la Junta de Museos se producirá a los tres años de haberse constituido y afectará a un representante del Departamento de cultura, uno de las entidades locales y tres del Parlamento de Cataluña.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Mientras duren las obras de adecuación de la sede del Museo de Arte de Cataluña y se produzca el traslado del Museo de Arte Moderno a su nueva sede, y por un período no superior a seis años desde la entrada en vigor de la presente Ley, la propuesta de nombramiento del presidente y vicepresidente del patronato a que se refiere el punto 4 de la Disposición Adicional Tercera, y del director y administrador del Museo de Arte de Cataluña, se harán de común acuerdo por la Generalidad y el Ayuntamiento de Barcelona.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Los museos actualmente existentes se adaptarán progresivamente, y en un plazo máximo de cinco años, a los requerimientos mínimos y condiciones establecidas en la presente Ley.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogados el Decreto 190/1981, de 3 de julio , de reestructuración de la Junta de Museos de Cataluña, y el Decreto 222/1982, de 12 de julio, de creación de la Red de Museos Comarcales de Cataluña.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen a su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 2 de noviembre de 1990.
+JOAN GUITART I ARGELL,
+ JORDI PUJOL,
+ El Consejero de Cultura
+ Presidente de la Generalidad de Cataluña
